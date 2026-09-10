@@ -1,0 +1,997 @@
+## A.GEMALDE
+
+(Nr.1—5)
+
+## 1 ANBETUNG DER HEILIGEN DREI KONIGE.
+
+Rechts sitzt Maria mit dem Kinde. Links die drei Konige, von denen der vordere,alte,kniend, die beiden anderen stehend ihre Gaben darbringen. VERONESISCH,UM 1480.
+
+Tempera auf Holz.Hohe: 25 cm, Breite:20,5 cm.
+
+## 2 MARIA MIT DEM KINDE.
+
+Vor einem grunen Vorhang sitzend,halt Maria das nackte Christkind auf dem rechten Knie. Links im Hintergrunde landschaftlicher Ausblick. VENEZIANISCH,UM 1500.
+
+In einem architektonischen Rahmen des 16. Jahrhunderts.
+
+Ol auf Holz. Hohe: 21 cm, Breite (ohne Rahmen): 15 cm.
+
+## 3 MARIA MIT DEM KINDE.
+
+In Halbfigur,mit Krone, von musizierenden Engeln umgeben.
+
+NIEDERDEUTSCH,UM 1500.
+
+Ol auf Holz.Hohe:28 cm,Breite 21 cm.
+
+## 4 BILDNIS EINES ALTEREN MANNES.
+
+Kniestuck,mit leichter Wendung nach rechts. Mit grauem Vollbart,in schwarzer Schaube mit dunkelbraunroten Armeln und schwarzer Kappe. Auf dem grinen Grunde links vom Kopf des Dargestellten: Aetatis suae 56,rechts:
+
+Ao.Dmi.1559.
+
+NIEDERLANDISCH,1559.
+
+Ol auf Holz.Hohe: 38,5 cm,Breite: 30,5 cm.
+
+## 5STILLEBEN.
+
+Auf einer Steinplatte, die rechts von griner Sammetdecke bedeckt ist, liegen eine geoffnete Granatfrucht, eine Zitrone, eine Holzschachtel, ein Johannis- beerenzweig usw. Dunkler Grund.
+
+Von CORNELIS DE HEEM,geb.1631,gest.1695.
+
+Ol auf Leinwand. Hohe:24 cm,Breite:31,5 cm.
+## 6DRACHE.
+
+Mit gerolltem Fischschwanz,die Vorderglieder in krallenartige Flossen um- gebildet. Der stark nach rechts gewandte Kopf als Blattermaskaron gestaltet. Der geringelte Schwanz tragt eine Muschel als Tintenfaf. Darin alter Originalbehalter aus Glasfluf.
+
+Siehe Planiscig, Kunsthistorisches Museum in Wien: Die Bronzeplastiken, Wien 1924, Nr. 22,wo auch weitere Exemplare dieser Statuette angefihrt werden.
+
+Vom ,MEISTER DES DRACHENS".Paduanischer Plastiker,tatig am Ende des 15. Jahrhunderts, stilistisch einen Platz zwischen Bellano und Riccio einnehmend.
+
+Bronzestatuette,braune Naturpatina,dunkelbrauner Lack. Hohe:10 cm,Lange:
+
+Tafel IV.
+
+20cm.
+
+## 7ZIEGE.
+
+Schreitend, mit erhobenem rechtem Vorderbein;lange,herabhangende Ohren;
+
+Eine ahnliche Ziege kehrt bei Riccios Bronzegruppe ,Hirte mit Ziege im Museo Nazionale zu Florenz wieder.
+
+um den Hals ein gewundener Strick.
+
+Von ANDREA BRIOSCO,genannt RICCIO.Padua.1470-1532.
+
+Bronzestatuette,lichtbraune Naturpatina.Hohe:14 cm. Tafel I.
+
+## 8OLLAMPE.
+
+Eselskopf mit dem Dochtbehalter im Maul. An den Hinterkopf des Esels klammert sich rittlings ein kleiner,bartiger,krauskopfiger Mann. Auf der Stirn des Esels die rosettenformige Eingufoffnung.
+
+Von ANDREA RICCIO.
+
+Verwandte Studien in Florenz,Museo Nazionale (vgl. Bode,Bronzestatuetten I.XLVI) und Wien, Kunsthistorisches Museum (vgl. Planiscig, Die Bronzeplastiken Nr. 49).
+
+Bronze, braune Naturpatina und Lackreste.Hohe: 8 cm,Lange: 12,5 cm.
+
+Tafel I.
+
+## 9 MANN ALS OLLAMPE.
+
+Gebuckt kniend,nackt,bartig. Die FuBsohlen als Dochtbehalter. Ahnliche Statuetten im Louvre und in der Bibliotheque nationale in Paris.
+
+## B.BRONZEN
+
+## DES 14. BIS 17.JAHRHUNDERTS (Nr.6—33)
+## Von ANDREA RICCIO.
+
+Tafel I.
+
+Bronzestatuette,dunkelbraune Naturpatina,schwarzer Lack. Hohe: 9,Lange: 14cm.
+
+## 10 HL.SEBASTIAN.
+
+Die Hande auf dem Rucken,nackt,um die Lenden ein in Falten bewegtes Tuch. Der reichgelockte Kopf ist leicht nach links geneigt.
+
+Bronzestatuette,rotlichbraune Naturpatina. Lackreste.Hohe: 16 cm. Tafel II.
+
+FLORENTINISCH,UM 1510.
+
+## 11 LAMPENTEIL.
+
+In langlich-ovaler Form,mit Akanthusblattern verziert; an beiden Seiten Dochtbehalter. Auf rundem,blattverziertem Fuf.
+
+PADUANISCH,ANFANG 16.JAHRHUNDERT.
+
+Bronze, braune Naturpatina. Lackreste. Hohe: 11,5 cm,Lange: 20 cm.
+
+## 12 ANTIKER FELDHERR.
+
+Neben einem Palmstrunk stehend, den linken Fuf auf einen Helm gestellt. Anatomischer Panzer mit Engelskopf auf der Brust; reichverzierter Helm auf dem Kopfe. In der Rechten Kommandostab,in der Linken Schwert.
+
+Bisher unbekannte Statuette eines aus dem Riccio-Kreise stammenden Kunstlers.
+
+PADUANISCH-VENEZIANISCH,UM 1530.
+
+Bronzestatuette,braune Naturpatina, schwarze Lackreste.Hohe: 24 cm. Tafel II.
+
+## 13 SCHREITENDES PFERD.
+
+Mit erhobenem linkem HinterfuB und rechtem Vorderfuf.
+
+Aus der Sammlung Guido von Roh in Wien,vgl. E. W. Braun, Die Bronzen der Sammlung Guido von Roh in Wien,1908, Taf. XXIXa.
+
+Bronzestatuette,braune Naturpatina, dunkelbraune und grine Lackreste. Hohe:17 cm.
+
+ITALIENISCH,MITTE 16.JAHRHUNDERT.
+
+Tafel II.
+
+## 14 GREIF ALS WAPPENHALTER.
+
+Auf den HinterfuBen stehend,mit gerolltem Schweif, stilisierten Fligeln und einem heraldisch-phantastisch gebildeten Kopfe. Rachen weit offen, Zunge vorgestreckt.
+
+FLORENZ,16.JAHRHUNDERT.
+
+Bronzestatuette,gelbe Naturpatina,Lackreste. Ziseliert.Hohe: 15 cm.
+## 15 EINHORN.
+
+Liegend, mit offenem Maul und buschigem Schwanz.
+
+VENEDIG,16.JAHRHUNDERT.
+
+Bronzestatuette,braune Naturpatina,grunlicher Lack. Hohe: 10 cm. Tafel IV.
+
+## 16 SCHILDKROTE.
+
+Kriechend; mit Verwendung eines Naturabgusses modelliert.
+
+VENEDIG (?),16.JAHRHUNDERT.
+
+Bronzestatuette,vergoldet, ziseliert. Lange: 14 cm.
+
+## 17 VOGELSTELLER.
+
+Schreitend; mit kurzem Kittel und Hose bekleidet; eine Kappe auf dem Kopfe.
+
+In der gesenkten Linken die Blendlampe,in der erhobenen Rechten den Schlegel. Am Gurtel Beutestuicke,Flasche und Jagdtasche.— Auf einer mitgegossenen,viereckigen Basisplatte.
+
+Siehe Bode,Bronzestatuetten Il, Tafel CCIII.
+
+Von GIOVANNIDA BOLOGNA,geborenum 1524zuDouai,gestorben 1608 zu Florenz.
+
+Bronzestatuette,dunkelbrauner Firnis.Hohe:24 cm.
+
+Tafel VI.
+
+## 18 ZWEI TRUTHAHNE.
+
+Je auf einer Volute mit einer Kralle stehend, die andere Kralle erhoben; Rad schlagend.
+
+Vgl. den groben Truthahn von Giambologna im Bargello zu Florenz.
+
+Von GIOVANNI DA BOLOGNA.
+
+Bronzestatuetten,braune Naturpatina, schwarzer Lack. Hohe: 15 cm.
+
+## 19 CERES UND MINERVA.
+
+Ceres,eine aufrechtstehende,in dunne Gewander gehillte Madchengestalt; halt in der Rechten das Fruchthorn,in der Linken die nach abwarts gekehrte Fackel.— Minerva, eine ahnliche Madchengestalt; den Helm auf dem Kopfe, auf der Brust die Agis, in der Linken einen Schild. Rechts zu ihren FuBen Sphinx mit Wappenschild.
+
+Zwei ahnliche Figuren auf Feuerbocken der ehemaligen Sammlung Pierpont Morgan in New York (Vgl. Bode, Coll. Pierpont Morgan, Bronzes of the Renaissance 1910, Taf. CXXXIlI und CXXXIV; Planiscig,Venezianische Bildhauer der Renaissance 1921,S. 490).
+
+Von ALESSANDRO VITTORIA,Venezianischer Plastiker,15251608.
+
+und
+
+Bronzestatuetten auf dreieckigen Basisplatten; braune Naturpatina schwarzer Lack. Hohe: 53 cm und 57 cm. Tafel III.
+
+## 20 ZWEI EBER.
+
+In langgestreckter Haltung, mit offenen Maulern,aus denen die StoBzahne hervorragen, Schwanze seitwarts geringelt.
+Aus einem Palazzo in Bologna,wo sie als Turklopfer angebracht waren. Von PIETRO TACCA,Florenz 1577-1640.
+
+Bronzestatuetten,braune Naturpatina, schwarze Lackreste. Hohe: 12 cm,
+
+Lange:37 cm.
+
+Tafel IV.
+
+## 21 PIETA.
+
+Nach Michelangelos Gruppe in St. Peter zu.Rom.
+
+ITALIENISCH,17.JAHRHUNDERT.
+
+Bronzegruppe,brauner Lackfirnis. Hohe: 40 cm.
+
+Tafel V.
+
+## 22TANZENDER SATYR.
+
+Nackt, in den Handen die Tschinellen, mit dem rechten Fuf auf das Schlag- werk tretend. Nach der Antike.
+
+Aus der fuirstlich Liechtensteinschen Sammlung in Wien.
+
+Von MASSIMILIANO SOLDANI,Florentiner Plastiker,1658-1740.
+
+Bronzestatuette,Rauchfirnis. Hohe: 31 cm.
+
+Tafel VI.
+
+## 23 AQUAMANILE.
+
+In Gestalt eines schreitenden Lowen,die Haare in Locken stilisiert;im Rachen Tierkopf als Ausguf; am Scheitel EinguBoffnung mit Deckel. An den Lenden
+
+Inschrift mit hebraischen Lettern.
+
+Aus einer Synagoge stammend.
+
+Aus der Sammlung Charles Stein,Paris 1899.Kat.Nr.139.
+
+Aus der Sammlung Pierpont Morgan,New York.
+
+FLANDRISCH,ENDE 14.JAHRHUNDERT.
+
+Bronze, dunkle Naturpatina. Hohe: 24 cm.
+
+Tafel VII.
+
+## 24BRUNNENWEIBCHEN.
+
+Uber einem Maskaron, der von Fischleibern flankiert ist,erhebt sich die Halbfigur eines Madchens. Es halt in beiden Handen Kruge, die mit kleinen AusguBrohren versehen sind. Am Hauptausgufrohr Schlussel, gebildet durch einen
+
+Triton und eine Nereide.
+
+NURNBERG,16.JAHRHUNDERT.
+
+Bronze, grinlich-braune Patina.Hohe: 16,5 cm. Tafel VIII.
+
+## 25REH.
+
+Stehend;halt den Kopf nach links gewandt.
+
+NURNBERG,16.JAHRHUNDERT.
+
+Bronzestatuette, lichte Naturpatina mit Lackresten.Hohe: 16 cm. Tafel VIIl.
+## 26 BRUNNENAUSGUSS.
+
+Halbfigur eines nackten Madchens, das vor sich eine Pilgermuschel halt.
+
+Aus der Sammlung Miller von Aichholz, Wien.
+
+DEUTSCH,16.JAHRHUNDERT.
+
+Bronze, schwarzer Lack. Hohe: 17,5 cm.
+
+Tafel VIII.
+
+## 27 ZWEI PFERDE.
+
+Schreitend,mit langen Mahnen und Schweifen,beide haben auf dem Rucken
+
+Stoffdraperien.
+
+Aus der furstlich Liechtensteinschen Sammlung in Wien.
+
+Von ADRIAEN DE VRIES,gestorben 1627.
+
+Bronzestatuetten,Rauchfirnis. Hohe: 20 cm.
+
+Tafel IX.
+
+## 28 ALLEGORIEDES SOMMERS.
+
+Stehender,nackter Jungling mit wallendem Schultertuch. Auf dem Kopfe der Ahrenkranz,in der erhobenen Rechten der Griff einer Sichel,in der gesenkten Linken ein Ahrenbundel. Der rechte FuB ruht auf einem Baumstumpf. Auf Original-Marmorsockel mit Bronzefassung.
+
+Von PETER DE WITTE,genannt CANDID,geboren 1548,gestorben 1628. Bronzestatuette, original feuervergoldet und ziseliert. Hohe (der Figur): 23 cm, Hohe (mit Sockel): 37 cm.
+
+Tafel X.
+
+## 29 TARQUINIUS UND LUKRETIA.
+
+Beide nackt, sitzend nach rechts. Tarquinius faBt das widerstrebende Madchen an der linken Schulter,in der Rechten halt er den Schwertgriff.
+
+Veroffentlicht von L. Frohlich-Bum,Parmigianino und der Manierismus, Wien 1921, Taf.22; vgl. A.E. Brinckmann, Deutsche Kleinbronzen um 1600, im Jahrbuch der preuB. Kunstsammlungen,Berlin 1921, und Suddeutsche
+
+Bronzebildhauer des Fruhbarocks, Munchen 1923,Abb. 31.
+
+Von HUBERT GERHARD,geboren zwischen 1550 und 1620,gestorben 1640. Bronze,vergoldet. Hohe: 46 cm,Sockel, 10,5 cm breit,6 cm tief.
+
+Tafel XI.
+
+## 30 SITZENDER HUND.
+
+Der abnehmbare Kopf ist nach rechts gewandt und hat lange,herabhangende
+
+Ohren.
+
+DEUTSCH,17.JAHRHUNDERT.
+
+Bronzestatuette,vergoldet und ziseliert. Hohe:10 cm.
+
+## 31 KRIEGER.
+
+Im Kostim des dreifigjahrigen Krieges.
+Aus der Sammlung Guido von Roh in Wien, siehe Katalog Braun, Taf. XXXa.
+
+Bronzestatuette,lichtbraune Naturpatina.Hohe: 8 cm.
+
+DEUTSCH,17.JAHRHUNDERT.
+
+## 32 EPITAPHDES REGIMENTSRATES THOMAS ALTERSHAMMER.
+
+Uber der Inschrift die Halbfigur eines Engels mit Wappen. Oben CherubsKopf.
+
+Aus der Sammlung Miller von Aichholz-Wien.
+
+Bronze, dunkle Patina. Hohe: 41 cm, Breite: 35 cm.
+
+DEUTSCH,1621.
+
+Tafel IX.
+
+## 33 EPITAPH DES HANS WAGNER UND SEINER FRAU MARGARETHA
+
+## IN WENDELSTAIN.
+
+Kartuschenumrahmung;oben Engelskopf,unten Wappen.
+
+DEUTSCH,17.JAHRHUNDERT.
+
+Aus der Sammlung Miller von Aichholz-Wien.
+
+Bronze, dunkle Lackpatina.Hohe: 47 cm,Breite:30 cm.
+
+Tafel IX.
+## C.PLASTIK
+
+## DES 15.UND 16.JAHRHUNDERTS IN HOLZUND STUCCO,KASSETTEN U.A.
+
+(Nr.34—46)
+
+## 34 MARIA UND JOHANNES.
+
+Maria, stehend, in weite,faltenreiche Gewander gehullt; mit Kopftuch; die Hande gefaltet.—Johannes, in ahnlicher Kleidung,halt in der Linken ein Buch. Aus dem Diozesan-Museum in Klagenfurt (Karnten).
+
+KARNTEN,UM 1430.
+
+Lindenholz. Beide Figuren vollrund. Altere Fassung. Hohe: 51 cm.
+
+Tafel XII.
+
+## 35PIETA.
+
+Maria sitzend,in reiche Gewander gehillt, den mit einem Tuch bedeckten Kopf nach links geneigt. Auf ihrem Schofe der Leichnam Christi.
+
+SALZBURG,UM 1440.
+
+Holzskulptur. Alte Fassung. Hohe: 70 cm. Tafel XIII.
+
+## 36 VERSPOTTUNG CHRISTI.
+
+- FRANKISCH,ANFANG 16.JAHRHUNDERT.
+- Relief,Lindenholz. Hohe: 14 cm,Breite: 9 cm.
+
+## 37 MARIA MIT DEM KINDE.
+
+Maria sitzt nach rechts gewandt, das Kind auf dem rechten Knie. Sie halt in der Hand des (erganzten) rechten Armes eine Birne.
+
+OSTERREICHISCH,UM 1520.
+
+Holzskulptur. Alte Fassung. Hohe: 38 cm. Tafel xIV.
+
+- 38 ZWEI ENGELCHEN MIT ROSENKRANZ. LANDSHUT,UM 1520. Lindenholz. Alte Fassung. Hohe: 54 cm, Breite: 47 cm. Tafel XIV.
+
+## 39 NACKTER MANN.
+
+Neben einem Pilaster stehend. Wohl Modell zu einer Plakette.- Aus der
+
+Sammlung Guido von Roh in Wien.
+
+NURNBERGISCH,UM 1540.
+
+Buchsrelief,zum Teil gefaBt.Hohe: 10,7 cm,Breite:6,7 cm.
+
+## 40 BAR.
+
+Aufrecht sitzend, den Dudelsack spielend.
+
+DEUTSCH,16.JAHRHUNDERT.
+
+NuBholz. Alte braune Fassung. Hohe: 20 cm.
+## 41 LOWE.
+
+Aufrecht sitzend;die rechte Tatze dozierend erhoben. DEUTSCH,16.JAHRHUNDERT.
+
+NuBholz. Alte braune Fassung. Hohe: 20 cm
+
+## 42MORGANTE.
+
+(P. Barbino, Hofnarr des GroBherzogs Cosimo I. von Florenz). Nackt, auf
+
+Von VALERIO CIOLI,Florentiner Bildhauer,15291599. Stuccoplastik.Polychromiert.Hohe:40 cm.
+
+einem FaB sitzend,in der Rechten einen Stab haltend.
+
+## 43 MINNEKASTCHEN.
+
+Abgebildet in H. Wilm:Die gotische Holzfigur,Leipzig 1923, Tafel 3839. FRANZOSISCH,14.JAHRHUNDERT
+
+Vier liegende Lowen als FuBe. Auf dem Deckel zwei kampfende Tiere, davon eines gleichfalls ein Lowe. Auf den Breitseiten in architektonischer Umrahmung je zwei Liebespaare,auf den Schmalseiten je ein Liebespaar.
+
+Buchsholz,Eisenbeschlage erneuert.Hohe: 8,5 cm,Breite: 13 cm,Tiefe:5 cm.
+
+Tafel xV.
+
+## 44KASSETTE.
+
+Rechteckig, gitterartig geschnitten mit reichverziertem SchloB.
+
+Eisen. Hohe: 9 cm,Breite: 14 cm,Tiefe: 10 cm.
+
+FRANZOSISCH,15. JAHRHUNDERT.
+
+## 45KASSETTE.
+
+Reliefierte Pflanzen- und Tierdarstellungen, dazwischen in rosettenformig umrahmten Feldern gemalte Liebesszenen. Darunter in gotischen Lettern ein
+
+Spruch.
+
+ITALIEN,15.JAHRHUNDERT.
+
+Reliefdarstellungen in Pastigliatechnik,Liebesszenen in Tempera-Malerei,
+
+Schlof aus Eisen.Hohe: 17 cm,Breite: 27 cm,Tiefe: 8 cm.
+
+## 46 LESEPULT.
+
+Reich geschnitzt; der obere Teil der erhohten Ruckseite mit einer Galerie verbunden,in deren Mitte ein Medaillon, mit einem Bruderschaftratszeichen.
+
+VENEDIG,UM 1500.
+
+Holz,alt polychromiert und vergoldet.Hohe: 165 cm,Breite: 63 cm. Tafel XVI.
+## D.SILBERARBEITEN
+
+## DES 16.BIS 18.JAHRHUNDERTS
+
+(Nr.47—54)
+
+## 47 GROSSER ANANASPOKAL.
+
+FuB, Kuppa und Deckel gebuckelt. Mittelteil in Form eines gedrehten Baumstammes,auf den ein Mann klettert.Am Deckel massiv gegossener Pelikan mit
+
+Jungen. Als Bekronung Blumenstrauf.
+
+Nurnberger Beschau. Marke P. S. 4069/70 (Rosenberg, IIl. Aufl.), Peter Schitzing (1593-1634) oder Peter Sigmund (gest.1624).
+
+Aus dem Salzburger Domschatz.
+
+NURNBERG,16.JAHRHUNDERT.
+
+Silber,vergoldet.Hohe: 59 cm.
+
+Tafel XVI.
+
+## 48 TRANENBECHER.
+
+Auf glockenformigem Fuf Vase,auf der die konische,mit dem Tranenorna- ment verzierte Kuppa ruht. Der Lippenrand graviert. Mit Marken.
+
+SIEBENBURGEN,16.JAHRHUNDERT.
+
+Silber, teilweise vergoldet. Hohe: 19 cm.
+
+## 49 DOPPELBECHER.
+
+Auf reich mit Band- und Blattwerk getriebenem Fuf eine Vase, die die tulpen formige Kuppa tragt. Kuppa ebenfalls reich mit Band- und Blattwerk getrieben. Unter dem gravierten Lippenrand ein Flechtband. Der obere Becherteil ebenso,doch etwas kleiner. Mit Marke.
+
+AUGSBURG,UM 1600.
+
+Silber,vergoldet.Hohe: 22 cm. Tafel XVII.
+
+## 50 GROSSER HUMPEN.
+
+Am oberen Rande ein Spruch eingraviert.
+
+Marke Rosenberg (II1),2353,Humpen aufgefuihrt unter 2353c.
+
+Aus dem Besitz des Herzogs von Cumberland. HAMBURG,1642.
+
+Silber,vergoldet. Hohe: 23,5 cm.
+
+Tafel XVII.
+
+## 51 HENKELKRUG.
+
+Gebuckelt; der Mantel mit sechs Emaillerosetten verziert. Die gleiche Verzierung auch am Deckel. Am Henkel Puttenkopf.
+
+Marke Rosenberg (IIl) 2353,Humpen aufgefihrt unter 2353c.
+NURNBERG,17.JAHRHUNDERT.
+
+Silber,vergoldet.Hohe:13,5 cm.
+
+Tafel XVIll.
+
+## 52 HOHER POKAL.
+
+Zylindrische Kuppa mit getriebenen Ornamenten: Bandwerk und Cherubs- kopfen;in drei Kartuschen eingravierte figurale Szenen. Auf mehrfach gegliedertem und mit Fruchtwerk verziertem FuB,auf dem eine Vase steht, welche die Kuppa tragt. Mit Marke.
+
+AUGSBURG,17.JAHRHUNDERT.
+
+Silber,vergoldet.Hohe:24,5 cm.
+
+Tafel XVII.
+
+## 53 HENKELKRUG.
+
+Mit eingravierten Ornamenten: Bandwerk und Cherubskopfen. Im Deckel ist eine Medaille auf den Herzog Maximilian von Bayern aus dem Jahre 1816
+
+eingelassen.-- Unten Rautenstab. Mit Marke.
+
+DEUTSCH,17.JAHRHUNDERT.
+
+Silber,vergoldet.Hohe: 12 cm:
+
+Tafel xVIII.
+
+## 54 GEFASS.
+
+In Form eines aufrechtstehenden Widders,mit abnehmbarem Kopfe.
+
+Marke:Wien 1722.
+
+WIEN,1722.
+
+Silber,vergoldet. Hohe: 16 cm.
+
+Tafel XVIII.
+## E.DEUTSCHE GLASER
+
+## DES17.UND 18.JAHRHUNDERTS,HINTERGLASMALEREIU.A.
+
+(Nr.55-60)
+
+## 55 SCHAPER-GLAS.
+
+Auf geschliffenem und facettiertem FuB ovale Kuppa mit spitzem Trinkansatz.
+
+Arbeit von Johann Schaper, gestorben 1670.
+
+In Schwarzlot mit Tieren und Blumen bemalt.
+
+NURNBERG,MITTE 17.JAHRHUNDERT.
+
+Tafel xVIII.
+
+Glas, Hohe: 11 cm.
+
+## 56ZWISCHENGOLD-POKAL.
+
+Auf geschliffenem Fuf facettierte konische Kuppa, darauf in Gold radiert Reiterschlacht und Spruch auf die Tapferkeit.
+
+Glas,Hohe 17 cm.
+
+SCHLESIEN,UM 1750.
+
+## 57 ZWISCHENGOLDGLAS.
+
+SCHLESIEN,UM 1760
+
+Vorn graviert Medaillon,mit Lammern und Hund unter einem Baume. Ruckwarts Spruch auf die Freundschaft. Zwischen Doppelboden eingelassen drei Wurfel. Im Rundmedaillon,Jagdszene in Gold auf rotem Grunde.
+
+Glas,Hohe:9 cm.
+
+Tafel XVIII.
+
+## 58 RUBINGLAS.
+
+DEUTSCH,UM 1770.
+
+Mit gravierten und versilberten Rokokoszenen.
+
+Glas, Hohe: 10 cm.
+
+Tafel XVIII.
+
+## 59 ECCE HOMO.
+
+Maria und Johannes halten uiber den Sarkophag den Leichnam Christi. Unten, in Halbfigur, die Heiligen Hieronymus und Johannes d. T. Im Hintergrunde schwebende Engel mit den Marterwerkzeugen.
+
+FERRARA,ENDE 15.JAHRHUNDERT.
+
+Im Stile etwa mit Ecole Roberti zu vergleichen.
+
+Hinterglasmalerei. In Form einer Pax,oben halbrunder Abschluf.Hohe: 1l cm,
+
+Tafel XV.
+
+Breite:8 cm.
+
+## 60 DOPPELBILDNIS.
+
+Vgl. mit Reliefs der Verrocchio-Werkstatt und mit Leonardo-Zeichnungen.
+
+Brustbilder zweier gegenubergestellter Krieger mit phantastischen Helmen. In doppelter Bogenstellung.
+
+FLORENZ,ENDE 15.JAHRHUNDERT.
+
+Niello-Platte.Hohe: 4,5 cm,Breite: 5.5 cm.
+## F.BESTECKE U.A.
+
+(Nr.61-69)
+
+## 61 ELFENBEINGRIFF,AUF GABEL MONTIERT.
+
+Justitia und Pax,zwei nebeneinanderstehende weibliche Figuren, die erste mit Wage und Schwert,die andere mit Palmenzweig. FRANZOSISCH,15.JAHRHUNDERT.
+
+Elfenbein.
+
+## 62 HOLZGRIFF,AUF GABEL MONTIERT.
+
+Vulkan und Venus vor einem stilisierten Akanthusblatt. DEUTSCH,UM 1700. Buchs, dunkle Naturpatina.
+
+## 63 MESSER UND GABEL.
+
+Als Griffknopfe je eine weibliche und mannliche Buste. DEUTSCH,17.JAHRHUNDERT.
+
+Bernstein.
+
+## 64 LOFFEL.
+
+Der Stiel Maria, das Christkind haltend, dariber Knabe mit Kreuz. Als Griff Knabe sitzend, ein Buch haltend. Im Inneren der Loffelschale Christi Geburt und Verkundigung an die Hirten; auBen Heimsuchung Maria uber Lamm Gottes. Ferner eingraviert: Bibelspruche.
+
+DEUTSCH,ANFANG 16.JAHRHUNDERT.
+
+Buchsholz,lichte Naturpatina.
+
+## 65 SCHOPFLOFFEL.
+
+Der Griff vierkantig,mit gegossenen Ornamenten und eingravierter Widmung. Mit Marken.
+
+DEUTSCH,1668.
+
+Silber, teilweise vergoldet.
+
+## 66 ARZNEILOFFEL.
+
+DEUTSCH,17.JAHRHUNDERT.
+
+Achat,mit vergoldetem Silber montiert.
+
+## 67 LOFFEL.
+
+Taufgeschenk fuir Georg Michael von Coppoll. Mit Marken. NURNBERG,1708.
+
+Silber, vergoldet.
+## 68LOFFEL.
+
+Die Schale aus einer Muschel gebildet. An der Schale auBen Roccailleumrahmung, worin zwei Hirsche von zwei Hunden verfolgt werden.— DEUTSCH,18.JAHRHUNDERT.
+
+Stiel Silber,vergoldet;im Griff muschelformig gefafter Malachit.
+
+## 69 NUSSKNACKER.
+
+Kopf eines bartigen Mannes mit Barett auf hermenartig gebildetem Griff. FRANZOSISCH,17.JAHRHUNDERT.
+
+Buchs.Hohe:23,5 cm.
+## G.GOBELINS UND TEPPICHE
+
+(Nr.7075)
+
+## 70 VERDURE.
+
+Mit groBen Lattichblattern, Vogeln, einem Hund und zwei Hasen. In der Bordure Maskarons,Frucht- und Blattgehange. ENGHIEN,16.JAHRHUNDERT.
+
+Wolle,gewirkt.Hohe: 3,45 m, Breite:2,55 m. Tafel XIX.
+
+## 71VERDURE.
+
+Mit grofen Lattichblattern und Vogeln. Bordure ahnlich wie Nr. 70. ENGHIEN,16.JAHRHUNDERT.
+
+Wolle, gewirkt. Hohe: 3,45 m, Breite: 2,97 m. Tafel XX.
+
+## 72VERDURE.
+
+Mit groBen Lattichblattern und Vogeln, Bordure ahnlich wie Nr. 70/71: ENGHIEN,16.JAHRHUNDERT.
+
+Wolle gewirkt. Hohe: 3,25 m, Breite: 3,65 m.
+
+## 73BILDTEPPICH:,DER WINTER"
+
+Vor einem Schlosse,auf einem gefrorenen Teiche,eine vornehme Gesellschaft beim Schlittschuhlauf. Vorn und an den Seiten Staffagefiguren.— Fruchtbordure; oben Banderole mit der Aufschrift:L'HIVER. FRANZOSISCH,ZWEITE HALFTE 16.JAHRHUNDERT. Wolle und Seide, gewirkt. Breite: 5,25 m,Hohe: 2,80 m. Tafel XXI.
+
+## 74BILDTEPPICH.
+
+In der Mitte Gartenlandschaft,vorn Hunde.
+
+BRUSSEL,17.JAHRHUNDERT.
+
+Wolle und Seide, gewirkt. Hohe: 2,42 m,Breite:2,52 m.
+
+## 75KNUPFTEPPICH.
+
+Auf blauem Fond geometrisch stilisiertes Blatt- und Blutenwerk. Borte rot mit Blutenwerk und Kartuschen in verschiedenen Farben, mehrere Begleitrander. Aus dem osterreichischen Museum fuir Kunst und Industrie, Wien. PERSIEN,18.JAHRHUNDERT.
+
+Breite: 2,60 m,Lange: 3,95 m,Fragment.
+## A.GEMALDEUND MINIATUREN
+
+(Nr.76-88)
+
+## 76 MARIA MIT DEMKINDE.
+
+Maria in weiBgrauem Mantel uber rotem Gewande kniet auf einem Teppich und betet das Kind an, das nackt auf ihren Knien liegt. Hinter ihr halten zwei Engel einen dunkelgrinen Vorhang. Rechts und links Landschaftsausblicke, darin links die Heimsuchung.
+
+Ol auf Holz.Hohe: 37 cm,Breite: 27 cm.
+
+Von ROGIER VAN DER WEYDEN,NACHFOLGER,um 1470.
+
+Tafel XXII.
+
+## 77SATYRNFAMILIE.
+
+Das Satyrnpaar und zwei Kinder schlafen in einer Hohle. Ausblick auf weite Seelandschaft.
+
+LORENZO LEONBRUNO (1489-1537).
+
+Ol auf Karton. Hohe: 50 cm, Breite: 37 cm.
+
+Tafel XXII.
+
+## 78 DIE GEISSELUNG CHRISTI.
+
+Christus,an eine Saule gebunden, wird von zwei Schergen gepeinigt. Vorn kniet ein dritter Scherge, rechts tritt ein vierter zur Tur herein. Oben uber einen Altan neigen sich zwei Zuschauer. Reiche Architektur.
+
+DONAUSCHULE,UM 1520.
+
+Ol auf Holz.Hohe:24 cm, Breite: 17,5 cm.
+
+## 79 DIE ZERSTORUNG JERUSALEMS.
+
+Vorn zwei Romer in voller Rustung auf weiBen Rossen, rechts im Grunde die brennende Stadt.
+
+Gestochen von Lucas Kilian. (Stich beigelegt.)
+
+Von CHRISTOPH SCHWARZ(1550-1597).
+
+Ol auf Holz.Hohe: 45 cm,Breite: 37 cm.
+
+## 80 ANBETUNG DER HEILIGEN DREI KONIGE.
+
+Im Grunde links die heilige Familie, Helligkeit ausstrahlend.Von rechts nahen die Konige, deren mittleren, alten, das Licht voll trifft. Links vorn die Hirten mit einem Hunde.
+
+ITALIENISCH,UM 1700.
+
+Ol auf Holz.Hohe: 23 cm, Breite: 30,5 cm.
+
+## 81 PORTRATMINIATUR EINES JUNGEN MANNES.
+
+Der bartlose Juingling mit langem, dunklem Haar tragt schwarze Kleidung mit kleinem, weiBem Umlegekragen. Hintergrund angedeutete Landschaft.
+
+NIEDERLANDISCH,17.JAHRHUNDERT.
+
+Ol auf Kupfer,achteckig.Hohe: 5 cm,Breite: 4 cm.
+Mit langem,blondem Lockenhaar,Schnurr- und Knebelbart. Er tragt breiten weifen Umlegekragen und Brillantkreuz iber schwarzer Kleidung. Blauer
+
+Grund.
+
+ENGLISCH,17.JAHRHUNDERT.
+
+Ol auf Silberplatte. Oval. Hohe: 3,5 cm, Breite: 3 cm.
+
+## 83INITIALE U.
+
+Heilige in rosa Gewandung, ein Buch in der Linken haltend.
+
+Buchminiatur auf Pergament. Hohe: 13 cm,Breite:10,5 cm.
+
+SIENESISCH,ANFANG 14.JAHRHUNDERT.
+
+## 84 ZWEI BLATTER MIT NOTEN UND DEN INITIALEN O UND D.
+
+stehend in lilarot,der andere knieend in grun uber rot. TOSKANISCH,UM 1400.
+
+In der Initiale O ein greiser Heiliger, ein Spruchband haltend,zwischen zwei Zypressen; in der Initiale D zwei heilige Manner bei einem Altar, der eine
+
+Buchminiaturen auf Pergament. Hohe:89 cm,Breite: 59 cm.
+
+## 85 INITIALE 1.
+
+Ein heiliger Martyrer wird von zwei Pferden einen Berg emporgeschleift. MAILANDISCH,UM 1420.
+
+Buchminiatur auf Pergament. BlattgroBe: Hohe:21 cm,Breite:15,5 cm.
+
+## 86 WIDMUNGSBLATT AN PAPST JULIUS II.
+
+FERRARESISCH,UM 1510.
+
+In der Mitte uiber dem Wappen roter Kardinalshut, in den reichen Randborduren Vogel und Blumen; unten nochmals das Wappen, oben die Inschrift: Christus vincit.
+
+Buchminiatur auf Pergament. Hohe:25 cm,Breite: 16 cm.
+
+## 87INITIALE L.
+
+Aus den stilisierten Blattern des Buchstabens blicken zwei heilige Mannerkopfe. Ornamente von Blumenranken,auf denen Vogel und Schmetterlinge. NIEDERLANDISCH,UM 1520.
+
+Buchminiatur auf Pergament.Hohe:55 cm,Breite:50 cm.
+
+## 88 SITZENDER MANN.
+
+In jeder Hand ein GefaB haltend.
+
+Miniaturmalerei auf Papier.
+
+INDOPERSISCH,17.JAHRHUNDERT.
+
+Hohe: 17 cm, Breite: 11,5 cm.
+## B.PLASTIK IN BRONZE,HOLZUSW.EMAIL.
+
+(Nr. 89--96)
+
+## 89 BUSTE EINES GELEHRTEN.
+
+Auf dem Original-Bronzesockel.
+
+PADUANISCH,MITTE 16.JAHRHUNDERT.
+
+Bronze, mit dunkelbrauner Patina. Hohe: 50 cm. Tafel XXIV.
+
+## 90 HIRTE.
+
+Mit kurzem,braunem Lockenhaar;uiber dem roten anliegenden Gewand gelb- licher,blaugefutterter Mantel. Von den beiden nackten FuiBen tritt der rechte auf eine kleine Erhohung. Rechter Arm fehlt.
+
+Abgeb. bei H. Wilm: Die gotische Holzfigur, Leipzig 1923. Tafel 37.
+
+VERONESISCH,UM 1420.
+
+Holz,vollrund,mit alter Fassung. Hohe: 76 cm. Tafel XXIII.
+
+## 91HEILIGER.
+
+In einen faltenreichen Mantel gehullt.Der bartige Kopf erganzt.
+
+RHEINISCH (?),UM 1420.
+
+Alabaster,mit Resten von Bemalung. Hohe: 25 cm.
+
+## 92,DER MANN MIT DEM STEINERNEN HERZEN"
+
+Szene aus dem Leben des heil. Antonius von Padua. Aus der Sammlung Guido von Roh in Wien. LOMBARDISCH,ENDE 15.JAHRHUNDERT.
+
+Flachrelief, Holz. Vollkommen erhaltene alte Fassung und Vergoldung. Hohe: 39 cm,Breite: 45 cm.
+
+Tafel XXIlI.
+
+## 93 LIEGENDER PUTTO.
+
+Er stitzt sich mit dem linken Arm auf eine kleine Rasenbank.
+
+Aus der Sammlung Fitzhenry.
+
+Von ANDREA DEL VERROCCHIO,SCHULE (1435-1488).
+
+Terracotta.Hohe:25 cm,Breite: 35,5 cm, Tiefe:18 cm. Tafel XXIV.
+
+## 94 ANBETUNG DER HIRTEN.
+
+NIEDERLANDISCH,16.JAHRHUNDERT.
+
+Stuckrelief, mit vollkommen erhaltener Fassung und im Originalrahmen.
+
+Hohe:33 cm,Breite: 31,5 cm.
+## 95 KOPF EINES HEILIGEN.
+
+Der bartige Kopf in vollem Profil nach links. SPANISCH,17.JAHRHUNDERT. Marmorrelief. Hohe: 30 cm,Breite: 24 cm.
+
+## 96 HOSTIENBEHALTER.
+
+Gold auf blauem und weiBem Grunde. VENEZIANISCH,UM 1500. Venezianisches Kupferemail. Hohe: 26 cm.
+## 97 CHASSE.
+
+Auf der Vorderseite Kreuzigungsgruppe zwischen zwei Heiligen, auf den Schmalseiten je ein Heiliger,auf dem Dach vorn vier Heilige,ruckwarts zwei Reihen Rosetten. Figuren in leichtem Relief mit Reliefkopfen. Blauer Grund. Ruckseite fehlt. Mit schriftlicher Bestatigung von Geh. Rat O. von Falke vom
+
+4.12.25.
+
+LIMOGES,ANFANG 13.JAHRHUNDERT.
+
+Email. Hohe:17 cm,Lange: 19 cm,Tiefe:8 cm. Tafel XXV.
+
+## 98KREUZIGUNG.
+
+Rechts steht Johannes, links Maria,von zwei heiligen Frauen gestitzt; Magdalena kniet, den Fuf des Kreuzes umfassend. Ihr blondes Haar fallt auf den roten Mantel herab. Schroffe Felsen, die nach beiden Seiten hin ansteigen. Goldgrund, punziert.
+
+Aus der Sammlung A.von Beckerath,Versteigerung 24.Mai 1916,Verst.-Kat.
+
+Nr.294,Abb.Tafel 53.
+
+FLORENTINISCH,UM 1350.
+
+Ol auf Holz.Hohe: 33 cm,Breite: 24 cm. Tafel XxVI.
+
+## 99 HEILIGER LAURENZIUS.
+
+Der jugendliche Heilige,in hellrotem Faltenuberwurf uber dem blauen Diakonengewand, steht auf dem Rost. Er halt in der Rechten die Martyrerpalme, in der Linken ein offenes Buch. Goldgrund,punziert.
+
+Aus dem Kaiser Friedrich-Museum,Berlin.
+
+Von LORENZO MONACO,NACHFOLGER,Florenz um 1420.
+
+Ol auf Holz.Hohe: 30 cm,Breite: 15 cm.
+
+## 100 HEILIGER HIERONYMUS.
+
+Er kniet vor seiner Felshohle vor Kruzifix und Totenschadel, sich mit einem Stein kasteiend. Links der Lowe,rechts im Grunde der Hohle der Johannesknabe,das Christkind anbetend, links im Hintergrunde der hl. Ambrosius mit dem Kinde am Wasser.
+
+Mit schriftlicher Bestatigung von Prof. G. Gronau vom 10. 12.1920. Von JACOPO DEL SELLAIO,Florenz 1442-1493.
+
+Ol auf Holz,halbrunder oberer AbschluB. Hohe: 63 cm,Breite: 40 cm.
+
+## 101 CHRISTUS IM GRABE.
+
+Der dornengekronte Leichnam Christi, von zwei Engeln gehalten. Halb- figuren.Blauer Grund.
+
+Aus der Sammlung A.von Beckerath. Versteigerungskat. Nr. 298.
+
+Von BENVENUTO DI GIOVANNI,Siena 1455-1517.
+
+Ol auf Holz,halbrunder oberer Abschluf. Hohe: 19 cm,Breite: 41 cm. Tafel XXVI.
+## 102 LANDSCHAFT MIT DER FLUCHT NACH AGYPTEN.
+
+Ein Bauernkind reicht der Madonna ein Brot dar; rechts vor einem Bauernhause eine Frau und ein kleineres Kind, links Schafherde. Blauliche und grunliche Tone. Datiert 1543.
+
+Publiziert und abgebildet bei Fr. Winkler, Die altniederlandische Malerei, Berlin 1924, S. 307, Abb. 182. Vorher publiziert von H. VoB im ,Archiv fur
+
+Kunstgeschichte", I1. Jahrgang, Lieferung 34,Tafel 135.
+
+Aus der Sammlung Ulrich Thieme, Leipzig.
+
+Von JAN VAN AMSTEL,um 1500 bis nach 1543.
+
+Ol auf Holz.Hohe: 16 cm,Breite:22 cm.
+
+Tafel XXVIl.
+
+## 103 MARIA MIT DEM KINDE.
+
+Die Madonna in braunlichem,blau gefittertem Mantel uiber hellrotem Gewand. Auf ihrem SchoBe sitzt das Kind in weiBem Hemdchen und trinkt an ihrer Brust. Dunkler Grund.
+
+NIEDERLANDISCH,UM 1520.
+
+Ol auf Holz. Hohe: 17 cm, Breite: 12 cm.
+
+## 104LANDSCHAFT.
+
+Vorn auf dem Wege ein von einem Schimmel gezogener Planwagen, links daneben tanzende Bauern, am Rande zwei Reiter. Hohe Baume im Grunde. Von JAN BREUGHEL D.AE.(1568-1625).
+
+Ol auf Holz.Hohe: 68 cm,Breite:58 cm.
+
+## 105 LANDSCHAFT MIT HYLAS UND DEN NYMPHEN.
+
+Der jugendliche Schafer mit rotem fliegendem Mantel flieht vor der rechts liegenden Nymphe. Neben ihm ein jugendlicher Amor. Im Wasser werden die Oberkorper von drei weiteren Nymphen sichtbar.In der Landschaft rechts dunkle Baumgruppe,links Ruine und Ausblick auf bergige Ferne. Bez.rechts unten CP.
+
+Von CORNELIS POELENBURGH,um 1586 bis 1667.
+
+O1 auf Holz. Hohe: 30 cm, Breite: 38.5 cm.
+
+## 106 LANDSCHAFT.
+
+Ein Hirt steht, auf seinen Stab gestutzt, bei einer Herde von Schafen,einer Kuh und einer Ziege. Rechts bewachsene Ruinen. Vorn ein Wasser, uber das eine Bricke fuhrt,auf der ein Teil der Herde lagert.
+
+Ol auf Holz. Hohe: 12,5 cm,Breite: 20 cm.
+
+Von NICOLAES MOEIJAERT,vor 1600 bis 1649.
+
+## 107 VORBEREITUNGEN ZUM PARISURTEIL.
+
+Rechts Juno, links Minerva und Venus, von Putten bedient. Im Grunde Paris mit Merkur.
+Mit schriftlicher Bestatigung von H. Vof vom 5.3.1926. Von PIETRO DELLA VECCHIA,Venedig 1603-1678. Ol auf Leinwand. Hohe: 125 cm,Breite:162 cm.
+
+## 108 DIE HL.GENOVEVA.
+
+Sie steht in blauem,rosagefittertem Mantel und halt in der Rechten einen ge wundenen Stab,in der Linken ein geoffnetes Buch, in dem sie mit niedergeschlagenen Augen liest.
+
+NIEDERLANDISCH,UM 1500.
+
+Holzplastik mit Fassung, vollrund. Hohe: 90 cm. Tafel XxVIl.

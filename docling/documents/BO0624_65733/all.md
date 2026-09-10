@@ -1,0 +1,1913 @@
+## COLLECTION
+
+## DEFEULE BARON JANSSEN
+
+## TABLEAUX ANCIENS
+
+## CORNELIS BEELT
+
+Vivait a Haarlem vers 1660
+
+## JEUNE COUPLE SE PROMENANT AU BORD DELA MER
+
+Un gentilhomme en costume Louis XIV cause avec une jeune femme sur une terrasse sablonneuse des dunes dominant la mer, a gauche. La jeune femme est coiffee d'une capeline noire et porte une jupe rose.
+
+Un vieux pecheur a bonnet et a casaquin rouge vif, presente au couple son eventaire charge de poissons. A l'arriere plan,un personnage hele un carrosse attele de quatre chevaux, arrete dans un chemin creux.
+
+Le ciel d’un bleu laiteux, est en partie voile par des nuees grises teintees de rose.
+
+Sur toile.-Hauteur 47, largeur 54 centimetres.
+
+Vente collection feue Mme Vve H. S. (de Bruxelles) a Amsterdam chez MM. Fred. Muller &amp;
+
+Cie,les 19 et 20 Juin 1913,n°117 du catalogue.
+
+On ne connait de Cornelis Beelt que deux tableaux de plage dates: aux Musees de Mannheim (1661) et de Schwerin (1663);un tableau semblable se trouve dans la collection Semenof a Petrograd.
+
+## CORNELIS PIETERSZ.BEGA
+
+Ne a Haarlem en 162o,mort dans cette ville en 1664: il fut eleve d'Adriaen van Ostade et travailla a Haarlem
+
+## SCENE DE CABARET
+
+Dans un interieur rustique, un paysan assis pres d'une cheminee, fait la cour a une fille eclairee en plein par la lumiere d'une fenetre au volet releve a gauche. Assis sur un escabeau un autre paysan en veste rouge-violet passee sur un gilet aux manches grises, tourne le dos au spectateur et tient une pipe a la main gauche. Il contemple le couple devant lui, le paysan a la mise d'un debraille; il porte culotte et veste grises, gilet bleu, tient sa pipe de la main gauche et de lautre retient la main de la fille qu'il regarde langoureusement. Elle est vue de face, vetue d'une casaque rouge sur chemise blanche et d'un tablier bleu. A cote du groupe, par terre, un chapeau, une savate; sur un baquet retourne, une cruche grise a couvercle d'etain, ornee au milieu d'un cercle bleu, un chiffon, un petit rechaud dont on voit rougeoyer les braises.
+
+Le fond de la toile est occupe par quatre rustres groupes devant la cheminee et noyes dans une penombre brune, tonalite chaude qui setend sur toute la composition.
+
+Signe en bas a gauche: c. BEGA.
+
+Provient de M. F. Kleinberger,a Paris.
+
+Voir la reproduction.
+
+Sur bois.-Hauteur 38.5,largeur 36.5 centimetres.
+## 5
+
+## DIRCK BLEKER
+
+dont il ft un portrait.Plus tard il demeura a Haarlem,puis on le trouve mentionne a La Haye jusquen 1672
+
+## 3 PORTRAIT D'UNE FILLE
+
+Tournee de trois quarts a droite, elle regarde le spectateur. Un large chapeau de paille a hauts bords est pose sur ses longs cheveux retombant sur les epaules. La robe jaune tres simple ornee d'une chaine de petites feurs est d'une touche large et sure.
+
+Sur bois.—Hauteur 5o,largeur 4o centimetres.
+
+Les tableaux de ce maitre sont rares. De son vivant ils etaient payes des prix assez eleves. ll existe des ceuvres datees aux Musees d'Amsterdam (1652), de Brunswick (1657), de Cassel (1643), etc.
+
+## PIETER VAN DEN BOS (attribuea)
+
+Peintre hollandais de genre et de nature morte.Ne a Amsterdam vers 1613,vivait a Leyde en 1638,travailla a Amsterdam en 1645,ou on le trouve encore en 166o. En 1663 il est mentionne a Londres ou il mourut peut etre peu apres
+
+## 4 INTERIEUR RUSTIQUE
+
+Les murs denudes d'une cuisine servent de cadre a toute une variete d'unstensiles de cuisine eparpilles au premier plan, sur le sol et sur une espece de table, a droite, contre la muraille: chaudrons de cuivre,assiettes d'tain,une lanterne,un seau,quelques pots de terre,etc.Derriere, une femme debout, bonnet et fichu blancs, tient son tablier releve et regarde vers la droite.
+
+Tout au fond dans lombre, on distingue, au milieu,la cheminee et une marmite pendue a la cremaillere. A gauche de la cheminee, une chaise.
+
+Sur bois.—Hauteur 19.5, largeur 28 centimetres.
+
+L'attribution a Pieter van den Bos est fondee sur ses compositions au Musee de Berlin, dans lancienne collection Flersheim a Paris, etc. Comparez les articles sur van den Bos dans ThiemeBecker, Allgemeines Kunstlerlexicon T. IV, p. 383, et dans le ,Jahrbuch der Koniglich Preussischen Kunstsammlungen",XI,p.123 et XIV,p.41.
+
+## ESAIAS BOURSSE
+
+Né a Amsterdam en 1631, mort durant un voyage aux Indes en 1672
+
+## INTERIEUR HOLLANDAIS
+
+Une femme assise et une fllette debout animent une piece spacieuse a trois fenetres, aux poutres brunes, au plancher de bois brun et de dalles rouges dans le fond, jonche dustensiles de menage: chaufferette, panier renverse, seau de bois, avec une sorte de table-chaise.Pres de la haute cheminee grise ornee dassiettes blanches et bleues, supportee par deux colonnes grises, canneles, a chapiteaux ioniques, la vieille mere coud au premier plan a droite, vue de profil; en corsage brun, fichu et bonnet blancs, elle travaille assidument a un drap blanc gris; une
+placee a cote d'elle. La fillette en corsage noir, jupe brunatre, tablier gris releve sur le cote, et s'avance lentement vers une porte entrouverte a l'arriere plan a gauche.
+
+Ce tableau respire le calme et la serenite.
+
+Date en bas a gauche:1651.
+
+Provient de la collection Ruelens.
+
+Sur toile.-Hauteur 51.5,largeur 59.5 centimetres.
+
+Des tableaux sembables se trouvent aux Musees d'Amsterdam (n 6o1), de Bonn (n° 23 du catalogue de 1914, planche 5o), et dans la collection Wallace a Londres.Voyez aussi larticle du Dr W. Martin sur ce maitre dans Thieme-Becker, Allgemeines Kunstlerlexikon, Tome IV, p.467 et suiv.
+
+Voir la reproduction.
+
+## RICHARD BRAKENBURGH
+
+Ne a Haarlem en 165o,mort dans cette ville en 17o2.Eleve d’Adriaen van Ostade, de Hendrick Mommers et,peut-etre, aussi de Jan Steen, qu'il imita quelquefois d’une maniere tres prononcee
+
+## 6 FETE GALANTE DANS UN PARC
+
+Tout est joie, mouvement et couleur dans l'eclaircie de ce parc aux arbres teintes de brun par l'automme. Au premier et au deuxieme plan, ce ne sont que groupes elegants, buvant jouant, disperses sur lherbe verte. Tout a gauche,un bout de table encore servie,une jeune au centre du premier plan, appuyee contre un jeune homme a perruque frisee. Meme rouge pour le vetement d'un jeune homme poursuivant une dame au deuxieme plan qui cherche asile une maison de maitre, (peut-etre la ,Huis ten Bosch", pres de La Haye), que l'on apercoit vaguement tout au fond sous un ciel bleu a nuages blancs.
+
+Sur toile.——Hauteur 98.5,largeur 12o centimetres.
+
+Signe a droite en bas: R. BRAKENBURGH 1677. Voir la reproduction.
+
+## LEONARD BRAMER
+
+Naquit a Delft en 1595,ouil mourut en 1674.Jeune,il visita lItalie et travailla ensuite dans sa ville natale a partir de629
+
+- SCENE BIBLIQUE
+
+Selon la communication bienveillante du Dr H. Wichmann,biographe de Bramer, ce tableau representerait: Herode interrogeant les scribes sur la naissance du Christ.
+
+Dans une vaste salle, le roi Herode est assis sur un trone d'or eleve sur lequel s'etend un superbe tapis vert, a franges d'or. Derriere le trone, a gauche, une draperie de velours. Le roi est vetu d'un costume jaune-verdatre, avec des refets jaunes dans les parties éclairees. A cote du trone est assis un haut fonctionnaire en manteau rouge, sur un siege d'un rouge jaunatre. Devant eux, vivement eclaire par la lumiere d'une torche que tient un homme,au pied du trone, on voit le grandpretre, debout, en robe rouge et manteau brun-vert, dont les parties eclairees
+## 9
+
+suivants et pretres, se detachent contre la muraille d'un gris-verdatre, ouverte sur le fond de la un homme a barbe, precede de deux autres hommes, dont l'un portant une torche; derriere eux d'autres figures encore. Tout le panneau est empreint d'une grande chaleur de tons, propre a Bramer.
+
+Signe sur le trone: L. BRAMER.
+
+Sur bois.—Hauteur 45, largeur 7o centimetres.
+
+Mentionne sous le n 95 dans le catalogue d'euvres de Bramer publie par le Dr H. Wichmann dans son livre ,Leonaert Bramer, sein Leben und seine Kunst".
+
+Voir la reproduction.
+
+## QUIRINGH GERRITSZ. BREKELENKAM
+
+Nea Zwammerdam vers 162o,mort a Leyde en 1668, travailla a Leyde ou il subit linfluence de Gerard Dou
+
+## 8 LES MANGEURS DE MOULES
+
+Au centre de la toile, quatre personnages installes autour dune table primitive, formee dune planche, posee sur un tonneau. Des moules sur une nappe blanche. Au premier plan a gauche, le pere, bonnet brun et rouge, assis dans un fauteuil d'osier jaune ocre sur lequel pend une manche de sa veste brun-clair; a cote, par terre, une cruche en gres. ll tient un verre de la main droite, la gauche repose sur la table. Ses yeux fatigues sont diriges vers un jeune homme, au premier plan,a gauche,haut chapeau,veste grise et tablier blanc gris,occupe a ouvrir les moules. Sa soeur, au fond,bonnet et fichu blancs, robe grise, est assise devant un immense plat de moules, a cote de sa mere, en casaque rouge, les mains jointes en priere. Derriere elles,une armoire rustique,brun-clair sur un fond brun fonce, sur laquelle une cruche, des livres,etc.Tout a droite, divers ustensiles de menage a cote d'une haute cheminee, ou brule un petit feu.
+
+Signe en bas a droite: A.BREKELENKAM 1651.
+
+Sur bois.—Hauteur 39, largeur 47.5 centimetres.
+
+Provient de M. F. Kleinberger, a Paris.
+
+Voir la reproduction.
+
+## LEMAITRED'ECOLEAMBULANT
+
+Le soleil penetrant en plein par la porte ouverte,a gauche, eclaire quatre personnages dans noir, chapeau gris a larges bords sur des cheveux blancs,il tient un livre ouvert et apprend a lire a une illette blonde debout devant luiieds nus,casaque grisbrunjupe vermillon,tablier gris-clair. Au deuxieme plan,une vieille a son rouet, corsage noir, manches rouges, contre une gris clair, bonnet et fichu blancs, epluche des carottes dans un recipient brun-rouge. Devant elle, un seau d'eau; plus a droite, une botte de carottes, un panier de legumes sur un escabeau,
+## II
+
+## Q.BREKELENKAM (suite)
+
+une chaufferette, un chaudron en cuivre. Dans le fond de la toile, on distingue a droite une armoire brune et une cheminee a laquelle pendent des oignons.
+
+Signe en bas a droite sur la chaufferette:Q.B.
+
+Acquis de M. F. Kleinberger a Paris.
+
+Dans le Provinzial Museum a Bonn (Catalogue 1914,n° 29, planche 51) se trouve une composition semblable dans un autre format. Lattitude du maitre d'ecole et de la fillette est exactement la meme que sur le tableau de la collection du Baron Janssen, avec cette difference que l'homme porte un autre chapeau et la fllette des souliers.
+
+Voir la reproduction.
+
+## 10 LA LECON D'ECRITURE
+
+Un jeune garcon a boucles blondes ecrit, devant une table de bois brun; son encrier noir est place devant lui, son chapeau brun orne d'un cordon rouge, repose a sa gauche. Un col de lingerie eclaire son vetement brun a manches grises. Le maitre d'ecole debout derriere lui, se penche legerement sur son eleve, comme pour controler son ouvrage. ll est coiffe d'un bonnet noir, orne d'un bord de fourrure brune. Ses cheveux sont gris, son vetement noir a manches brunes avec petit col blanc. Sa main droite repose sur un instrument dont les maitres
+
+Les mots suivants sur le papier devant l'enfant:
+
+,Loof god boven al al aartsche goed, is een ,oorspronk van 't kwaat "Anno 1663."
+
+(,Louez Dieu avant tout. Tout bien materiel est l'origine du mal.)
+
+Voir la reproduction.
+
+## LA MARCHANDE DEPOISSONS
+
+Devant un batiment haut et sombre, l'éventaire de la poissonniere, surmonte d’une toile brun-fonce a laquelle pend une balance, est charge de merlans, de plies, de tranches de saumon; a cote, un baquet, un couteau plante sur le devant de letalage. Derriere la boutique une femme que compte une servante, debout au premier plan, portant au bras un seau d'etain rempli de legumes et de belles tranches de saumon, d'un rouge clair ardent. La casaque d'un velours noir une jupe brune, relevee de cote sur un jupon gris, borde d'une rayure gris clair. Elle est en pleine lumiere, ainsi que la jolie fillette blonde aux yeux noirs, se detachant tout en clair sur l'etalage sombre;la petite porte une longue robe blanche a manches grises, ornees de rubans
+
+Sur bois.—Hauteur 28,largeur 21.5 centimetres.
+
+Sur bois.——Hauteur 45.5, largeur 35.5 centimetres.
+## I2
+
+rouges et un bonnet blanc. La grappe de groseilles rouges qu'elle tient de la main droite, la branche aux feuilles vertes et aux fruits éclatants qu'elle tient de la gauche, tout contribue a donner a cette figure une impression charmante,pleine de fraicheur enfantine.
+
+Signe en bas a droite: Q. B. 1663.
+
+A l'envers un cachet. Provient de la collection Philips (Maastricht).
+
+Voir la reproduction.
+
+## KAREL BREYDEL
+
+Ne a Anvers,en 1678,ou il mourut en 1733,Travailla a Francfort-surMein,a Nuremberg,a Cassel, a Amsterdam eta Anvers
+
+## LA DEFENSE D'UN CONVOI
+
+Dans une vaste plaine, coupee de groupes d'arbres, s'étendant jusqu'au premier plan,a gauche des cavaliers combattent, montes sur des chevaux blancs et bruns.
+
+Sur le devant,un cheval brun a chabraque rouge, des cavaliers renverses. Plus loin,on distingue dans la melee un cheval blanc et deux cavaliers rouges fongant sur un troisieme qui brandit son n epee; un cavalier montant un cheval fauve tire a bout portant sur son adversaire sur un cheval brun. Au loin, a droite, le convoi attaque, les cavaliers en fuite. Tout a larriereplan, vaguement, un village blotti dans la verdure, sous un ciel bleu a nuages blancs.
+
+Sur bois.-Hauteur 3o, largeur 36 centimetres.
+
+A l'envers du tableau un vieux cachet et en lettres anciennes: BREY DEL, CARL v.
+
+Provient de la collection San Giorgi a Rome.
+
+## I3 L'ATTAQUE D'UN VILLAGE
+
+Sous un vaste ciel bleu a legers nuages blancs, un violent choc de cavalerie, s'etendant depuis les collines du premier plan jusqu'a celles qui ondulent a l'horizon, borde d'arbres avec un moulin a vent; elles abritent tout au loin un petit village, objet de l'attaque. Au premier plan, des morts, un blesse en rouge, appuye a un arbre; un cavalier, veste bleue et pantalon rouge sur un cheval blanc, tombe a la renverse, atteint par le coup de pistolet d'un second cavalier sur un cheval brun. Au plus fort de la melee, un homme en bleu, l'epee au poing, fuit devant un cavalier en rouge sur cheval blanc. Un etendard bleu flotte au dessus de la fumee.
+
+Sur bois.——Hauteur 3o,largeur 36 centimetres.
+
+A l'envers du tableau un vieux cachet et en lettres anciennes:BREyDEL, CARL v. Provient de la collection San Giorgi a Rome.
+
+Sur bois.-Hauteur 49,largeur 37 centimetres.
+## I4
+
+## ADRIAEN BROUWER
+
+Ne a Audenarde en 16o5 ou 16o6,mort a Anvers en 1638. D'abord infuence par Pierre Brueghel le Vieux, ensuite eleve de Frans Hals
+
+## L'ENFILEURD'AIGUILLES
+
+En buste, de trois quarts a droite: tete brunie et grossiere sous le large feutre brun fonce qui ne decouvre qu'un ceil noir et pergant dont toute l'attention est concentree sur une aiguille, qu'a la lumiere d'une chandelle placee a droite sur une pierre, il essaye d'enfler a laide de ses mains energiquement enlevees. La chevelure noire, en desordre, retombe sur la nuque et les joues. ll a une petite moustache noire sous un nez epate et quelques traces de barbe inculte. Les epaules lourdes sont recouvertes d'un vetement gris, a peine ouvert sur la chemise.
+
+Cette silhouette de quelques arbres d'un vert sombre se detachant sur un ciel eclaires par les dernieres lueurs du soir.
+
+rustre est enlevee sur un fond d'une grande limpidite: collines brunes, gris fonce, aux legers nuages,
+
+Sur bois.—Hauteur 24.5, largeur 18 centimetres.
+
+A l'envers du tableau un cachet du comte Ruffo de Bonneval et une etiquette avec: ,J. van Craesbeek (ces mots presque effaces), original du maitre. P. E. Nicolie.
+
+Le Dr A. Bredius écrivit au-dessus au crayon:,Adr. Brouwer”
+
+Provient de la collection du comte Ruffo de Bonneval.
+
+Le Dr C. Hofstede de Groot mentionne dans son ,Beschreibendes und Kritisches Verzeichnis der Werke der hervorragendsten Hollandischen Maler des XVlI Jahrhunderts", Tome IlI,n° 188, plusieurs tableaux traitant le meme sujet. ll observe qu'il ne peut decider lequel de ces tableaux serait l'original. Nous sommes d'avis avec M. le Dr A. Bredius que le tableau de la collection du Baron Janssen est une ceuvre authentique de Brouwer. La technique rappelle celle du tableau du Musee Royai de La Haye et les arbres sont traites comme ceux des paysages du Musee de Berlin.(n° 853 J et 853 H du catalogue de 1911.)
+
+Voir la reproduction,
+
+## PIETER BRUEGHEL (le jeune)
+
+Ne a Anvers, en 1564,ou il mourut en 1638.Imitateur de son pere Pieter Brueghel le Vieux
+
+## 15 LES PATINEURS
+
+Un ciel gris d'hiver éclaire les eaux gelees d'une riviere qui, venant de droite, entoure un vieux chateau rouge-clair et disparait vers le fond de la composition, entre les toits couverts d'une petite ville; sur tout son parcours une foule bruyante de patineurs, aux vives de neige couleurs.
+
+en nageant. A gauche, deux hommes l'un en rouge fonce et noir, appuye a un tronc d'arbre, l'autre en manteau noir et bas bleus, regardent un villageois en gris et brun, en train de fixer rechauffe les mains endolories. Au second plan a droite un groupe joyeux de buveurs aux fenetres d'une auberge a haute toiture.
+
+Signe en bas a gauche: P. BREvGHEL. Provient de la collection du peintre Den Duyts.
+
+Sur bois.-Hauteur 46, largeur 57,5 centimetres.
+## 91
+
+## CORNELIS JANSSEN VAN CEULEN
+
+Ne a Londres en 1593 de parents famandsmort a Utrecht ou a Amsterdamvers1664.Il se developpa souslinfuence d’Antoine Van Dijck et travailla a Londres,a Middelbourg,a La Haye,a Utrecht et a Amsterdam
+
+## PORTRAIT D'UN HOMME AGE
+
+Peint en buste sur un fond bleu, a peine tourne vers la gauche. La figure reguliere est ennoblie par des cheveux soyeux et barbe blanche. Les yeux bleus et sympathiques ont une expression digne et grave. Le manteau de velours noir fait ressortir le col rabattu de toile blanche, termine par un mince cordon.
+
+Signe a droite: Aeta 54, A° D° 1652 CoR: JAN FECIT.
+
+Pendant du numero suivant.
+
+Sur cuivre ovale.—Hauteur 9.5 largeur 75 centimetres.
+
+Provient de la collection de Sir Charles Beaumont.
+
+## I7 PORTRAIT D'UNE FEMME AGEE
+
+Sur un fond bleu, une femme,vue presque de face, regarde le spectateur de ses yeux bleus, aux paupieres un peu lasses, dans un visage epaissi par les annees. La robe est noire, noir aussi le fichu qui encadre le visage pour retomber sur le grand col blanc, ferme par un petit cordon noir.
+
+Signe a gauche en lettres bleues: Aete 56, A° 1652.
+
+Pendant du numero precedent.
+
+Sur cuivre ovale.-Hauteur 9.5, largeur 7.5 centimetres.
+
+Provient de la collection de Sir Charles Beaumont.
+
+## ANTHONY JANSZ. VAN DER CROOS
+
+Né en 1606ou 16o7,mort en 1662 ou 1663. Travailla a La Haye et a Alkmaar
+
+## 18 VUE DE LA HAYE
+
+Prise au commencement du Vieux Chemin de Scheveningue.
+
+Un groupe de quelques chenes brunatres au tournant d'une route, remplit le panneau de ses branches échevelees,abritant sous son ombre quelques vaches et trois paysans en vestes ocres et brun-verts. Un rayon de soleil fait vibrer le sable jaune des dunes a droite et eclaire un homme qui s'achemine vers la ville. La silhouette de celle-ci, tres nette, s'elevant a l'horizon au-dessus d'une rangee d'arbres verts, tirant sur le brun, fait reconnaitre le,Binnenhof',la "Kloosterkerk",la Groote Kerk', le ，,Oude Hof", tout a droite un moulin (autrefois au bout de la rue dite Molenstraat).
+
+Signe en bas a gauche: A v D Croos F 1649.
+
+Provient de la coliection J. Stevens.
+
+Sur bois.-Hauteur 36,largeur 33 centimetres.
+## ANTHONY JANSZ. VAN DER CROOS (suite)
+
+## 19 PAYSAGED'AUTOMNE
+
+Au milieu un petit canal, partant du premier plan a droite pour disparaitre a gauche dans
+
+Les nuages blancs d'un ciel d'automme gris-bleu s'harmonisent avec les tonalites brunes et chaudes qui predominent sur tout le panneau.
+
+un horizon vague. Au dela du canal un petit village, au gracieux clocher, au milieu d'arbres bruns maigres. A gauche au premier plan, un saule brun noueux contre un coin de ciel bleu. Puis un groupe de paysans appuyes contre des planches, l'un d'eux en veste rouge et pantalon gris-bleu; un autre assis, vu de dos.
+
+Sur bois.—Hauteur 23.5, largeur 29.5 centimetres.
+
+Signe sur une planche au milieu en bas: N. Croos 1659.
+
+Provient de la collection Deemes.
+
+## AELBERT CUYP
+
+Ne a Dordrecht en 162o, ou il mourut en 16gr.Eleve de son pere Jacob Gerritsz. Cuyp et cousin de Benjamin Gerritsz.
+
+## 20 L'ORAGE
+
+La foudre dechire les nuages sombres d'un ciel tumultueux et eclaire violemment un paysage tourmente par lorage; les eaux agitees d'un petit cours d'eau,venu du fond a gauche vont pecheurs;le toit rouge d'une maison, et quelques animaux, dans un pre, sur la rive,a courbes par le vent, laissant entrevoir le clocher d'une eglise, la barriere de planches longeant le chemin menant au moulin; ce dernier bati sur une legere eminence se profle comme par magie sur le ciel noir, ainsi que les personnages en fuite,le cheval, la voiture chargee de sacs de farine, arretee pres du moulin.
+
+Les roseaux plonges dans les tenebres au premier plan a gauche, la silhouette sombre d'un village tout a l'horizon se perdant dans les nuages noirs du ciel, contrastent d'une maniere saisissante avec la couleur de jaune de Naples des parties eclairees et semblent contribuer a marquer l'effroi produit par l'orage sur les hommes et sur la nature.
+
+Signe en bas a gauche: REMBRANT 1654.
+
+Sur bois.-Hauteur 49,largeur 67 centimetres.
+
+A lenvers du tableau se trouve fixee par des cachets de cire, et d'une ancienne écriture, sur un carton,la declaration suivante:,Edinburgh. Seventy fourth of May Eighteen hundred and twenty four years I certify that this Landscape by Rembrandt to which this is attached by Mr Graham of Gartmore's seal, was the only landscape by that artist in the collection of Menheer Rumbert Pott of Rotterdam, which collection I purchased from Menheer Pott in September Eighteen hundred and twentyf four years &amp; which I have this day sold to W. C. Cunningham Graham Esq. of Gartmore. Gartmore House Stortinghysshire.
+
+C.GALLEI."
+
+Ce certificat est accompagne de deux signatures et cachets de temoins: W. C. Cunningham Graham et Archd Jorren (). En outre on trouve sur le revers un feuillet coupe de la page 6 du
+## AELBERT CUYP (suite)
+
+catalogue de la vente chez Messrs Christie, Manson &amp; Woods a Londres, le 11 Juin 1881, sur lequel on lit:
+
+## REMBRANDT
+
+29 A River Scene, with figures in a storm. Signed, and dated 1651.
+
+Nous comprenons qu'autrefois on ait pu prendre ce tableau pour un Rembrandt. On y retrouve bien ce que Emile Michel, dans son livre sur Rembrandt (p. 314) caracterise comme ,cette lutte de l'ombre et de la lumiere dont si souvent l'artiste s'est applique a rendre la mysterieuse poesie. ll y a sans doute des rapports artistiques et pittoresques entre la conception de ce tableau et des orages de Rembrandt comme celui du musee Wallace a Londres, du musee d'Oldenbourg, du Rijksmuseum d'Amsterdam, etc. Nous sommes d'avis que ce chef-d'ceuvre, vendu toujours pour un Rembrandt,est un n des plus beaux tableaux de la premiere periode d'Aelbert Cuyp. La technique est identique a celle du tableau de la vente chez M. M. Fred. Muller &amp; Cie a Amsterdam, les 15 et 16 decembre 19o8,n°23 （reproduit dans le catalogue de cette vente, planche IV), ceuvre caracteristique, representant le meme moulin vivement eclaire dans des tons jaunes sur une éminence, d'un cote du panneau, et peint de la meme touche empatee et marchand de tableaux Charles Brunner a Paris,reproduit dans son quatrieme catalogue de 1914, et un dessin du maitre dans le cabinet des Estampes a Munich, qui montre exactement la meme maniere de traiter les roseaux.
+
+Voir Hofstede de Groot, Verz. der Werke Holl. Maler, B.VI, pag. 4o3. Notre tableau y est cite sous l'CEuvre de Rembrandt d'apres le catalogue de la vente J. W. Marschall, London. 1881.
+
+Voir la reproduction.
+
+## 21 PORTRAIT D'HOMME
+
+Un vieillard vu de buste, presque de face, se detache sur un fond gris fonce. Le vetement noir,la petite calotte noire font ressortir le col de toile blanche, empesee, et la tete tres en lumiere, aux cheveux gris legerement frises,a la barbe presque blanche, qui encadre bien un visage plein de bonte, si clair encore, aux couleurs roses et fraiches, qu'eclairent des yeux gris-bleus.
+
+Dans lombre du vetement une paire de gants, une main, tenant un chapeau dont on apergoit un peu du bord.
+
+Signe a droite a la hauteur de 1'epaule: AETATis. 75, 1652. A. Cuyp.
+
+Sur bois.—Hauteur 66.5,largeur 58 centimetres.
+
+Collection Schwarzburg-Rudolstadt.
+
+Voir la reproduction.
+## 23
+
+## AELBERT CUYP,(attribue a)
+
+## 22 PORTRAITD'UNEFILLETTE
+
+La silhouette de l'enfant blonde presentee de trois-quarts a droite, s'enleve sur un fond d'un vert sombre, un peu plus clair sur la droite, ou l'on distingue dans lombre une draperie de velours. La robe d'un brun clair, a petites rayures blanches, rouges et noires, est ornee d'un large col, a petits noeuds bruns et blancs, qui habille les épaules. De petits rubans vermillons font ressortir la chevelure legere, d'un blond tres clair, les yeux bruns et la bouche un peu grande aux levres rouges.
+
+Composition pleine de douceur et de grace enfantine.
+
+Acquis de M.F. Kleinberger a Paris.
+
+Sur bois.—Hauteur 16,largeur 13 centimetres.
+
+## BENJAMIN CUYP
+
+Ne a Dordrecht en 1612,mort dans cette ville en 1652. Oncle d’Aelbert Cuyp
+
+## CORPS DE GARDE
+
+Dans un interieur en desordre une douzaine de soldats, plus ou moins debrailles. Un groupe de joueurs de cartes, au centre, est vivement éclaire par un rayon de lumiere venant de gauche, tandis que d'autres groupes plonges dans la penombre semblent dormir,adosses contre des bottes de paille. A larriere plan, un soldat monte la garde, a l'entree du reduit. Tout cela rendu avec beaucoup de virtuosite dans des tons clairs, de brun, de jaune et de violet.
+
+Voir la reproduction.
+
+## 24 BIVACDE SOLDATS
+
+Dans un medaillon rond, trois groupes de soldats, dont l'un au premier plan,bien en lumiere, droite, au deuxieme plan, semble forme de prisonniers, couches sur des bottes de paill; a gauche deux soldats avec un tambour, tournant le dos au spectateur, devant une barriere, assez indistincte, qui s'etend horizontalement dans le fond. Ton general gris vert tres harmonieux.
+
+Signe en bas a gauche: Cuyp.
+
+Sur bois.-Hauteur 4o, largeur 4o centimetres.
+
+Sur bois.-Hauteur 4o.5,largeur 6o.5 centimetres.
+## 26
+
+## LEONARD DE FRANCE
+
+Ne a Liege en1735mort danscettevilleen8o5.ElevedeJ.B.Coclers.Ilvoyagea enItalie,enFrance,etvers1773
+
+en Hollande.Il subit l'infuence de Fragonard et des petits maitres hollandais
+
+## 25 INTERIEUR D'UNE PRISON SOUS LA REVOLUTION
+
+Deux petites fenetres a gauche eclairent en partie un souterrain soutenu par de lourdes poutres rustiques et les s groupes etranges d'aristocrates et de gens du peuple qui habitent ce sombre reduit. Une grande table au centre, un banc, quelques chaises forment un mobilier sommaire. Au premier plan a gauche un Jacobin en rouge et bonnet blanc vu de dos, assis sur un tonneau, s'entretient avec une jeune femme en blanc et tichu rose, separee de lui par une chaise grossiere sur laquelle deux verres et une bouteille de vin. Trois groupes autour de la table; vis-a-vis du grisjaune, chapeau gris et bas blancs, la jeune dame en bleu clair et haut bonnet. A droite, formant contraste avec les deux autres groupes, deux femmes du peuple,l'une d'elles en casaque rouge fonce et jupon jaune et un homme en bleu, vu de dos, avec bonnet rouge orne d'un bord de fourrure.
+
+Une femme, agenouillee pres de la cheminee rustique,a droite dans lombre. A l'arriere-plan, voit disparaitre dans les solives du plafond.
+
+Sur bois.——Hauteur 5o,largeur 67,5 centimetres.
+
+Sur la pierre d'evier a droite,la signature:L. DEFRANcE DE LIEGE.
+
+Pendant du numero suivant.
+
+Voir la reproduction.
+
+## LES PRISONNIERS AU TEMPLE
+
+Un souterrain aux voutes basses et puissantes sert de cadre a plusieurs groupes d'aristocrates surveilles par quelques Jacobins. Au centre une table rustique, recouverte d'une nappe blanche, quelques assiettes,une bouteille de vin et une miche de pain.A gauche une élegante en jaune, son eventail a la main, le buste renverse, sur une chaise,parle avec un personnage, en bleu,a large chapeau noir, place derriere elle. Une seconde dame, de l'autre cote de la table,en robe rouge, fichu et bonnet blanc orne d'un ruban bleu se tourne a demi vers un homme en culotte descend les marches d'un petit escalier a droite. Au fond,a droite aussi,un groupe de Jacobins jouant aux cartes avec une aristocrate a une table grossiere. Vers la gauche encore deux couples. Tout a gauche une haute cheminee rustique devant laquelle une femme tient une poele a longue queue. Sur la derniere marche de l'escalier la signature: L. DEFRANcE DE LIEGE.
+
+Pendant du precedent.
+
+Voir la reproduction.
+
+Sur bois.-Hauteur 5o, largeur 67.5 centimetres.
+## 27
+
+## JOOST CORNELISZ DROOCHSLOOT (maniere de)
+
+Ne en 1586a Utrecht,mort dans cette ville en 1666
+
+## LE MENDIANT
+
+Au premier plan, occupant presque toute la hauteur du tableau,un mendiant debout,retenant de sa main droite un pan de son manteau d'un violet brun; le feutre a larges bords, pose sur une oreille, ombrage des cheveux bruns, une barbe grise inculte et une physionomie spirituelle sortant d'une collerette plissee.
+
+Sur bois.——Hauteur 25-5,largeur 18.5 centimetres.
+
+A cote,a droite, un tronc d'arbre gris, du bois, de la paille, tout cela s'enlevant sur un fond de muraille clair,d'un gris jaunatre.
+
+## JACOB A.DUCK
+
+Ne a Utrecht vers 16oo; en 1646 il est mentionne a La Haye ou il mourut probablement apres 166o. Il se developpa sous
+
+## 28 LEFUMEUR
+
+Il est assis a droite de la toile, mais tourne vers la gauche pres d'une table,recouverte en partie d'un tapis gris.bleu, et chargee d'un globe terrestre, d'un violon et de divers autres objets. L'homme vu de trois-quarts,a gauche, fume beatement sa pipe, la tete aux longues boucles, s'echappe legerement penchee en arriere. ll semble plonge dans la contemplation de la fumee qui ede ses levres entrouvertes: ses bras reposent l'un sur la table, l'autre sur le genou, son epee a poignee d'argent et longue bandouliere grise est posee a cote de lui, la poignee par terre. Les pantalons et les bas gris-jaune, la blancheur de la chemise a longues manches se detachent sur un mur gris d'argent, la douce lumiere penetrant par la fenetre ouverte, tout est harmonieux, tout respire le calme et la meditation.
+
+Signe en bas a droite: J. A. Duck.
+
+Sur toile.-Hauteur 37, largeur 29.5 centimetres.
+
+Provient de la collection du Professeur Schall a Baden-Baden.
+
+Tableau caracteristique de la derniere periode du maitre.
+
+## ANTHONIE VAN DIJCK
+
+Ne a Anvers en 599,mort a Londres en 164.Eleve de Hendrick van Balen et de Rubens,ce dernier exerca une grande influence sur son developpement.Il travailla dans sa ville natale,en Italie,et a Londres ou il fut peintre de la Cour du roi Charles Ier.
+
+## 29 L'APOTRE SAINT JEAN
+
+manteau rouge fonce se detache sur un fond neutre. L'apotre, assis, tient un livre ouvert sur ir la page gauche nous lisons les paroles du commencement de lEvangile de saint Jean:,In principio erat verbum &amp; verbum erat apud Deum &amp; Deus erat verbum. Hoc
+
+L'ampleur du manteau laisse entrevoir un vetement de velours sombre, ouvert au cou. La main droite tient une plume, tandis que la gauche soutient le livre;le visage tourne en haut, les genoux; sur erat... Deum..."
+
+linfuence de Dirck Hals a Haarlem
+## 31
+
+## 32
+
+etait attribue a van Dijck.
+
+## LECRUCIFIEMENTDE SAINT PIERRE
+
+Etude a lhuile representant saint Pierre, la tete en bas, cloue sur une croix que de nombreux soldats s'efforcent a placer sur une elevation de terrain. La blancheur de son corps contraste vivement avec le teint bronze des soldats et le brun d'un cheval que l'on apercoit derriere le groupe, ferme par quelques arbres gris-verts. Au premier plan de nombreuses figures vues de dos: un soldat debout, tout a droite, tenant une espece d'etendard; son armure est recouverte ciel gris-bleu deux petits cherubins.
+
+Sur bois.—Hauteur 64,largeur 445 centimetres.
+
+Ce tableau semble etre une etude de van Dijck, inspiree par la maniere de Rubens.
+
+Voir la reproduction.
+
+## ANTHONIE VAN DIJCK (suite)
+
+encadre d’une abondante chevelure, est eclaire par un rayon de lumiere venant du coin gauche de la toile.
+
+Toute l'attitude est celle de l'homme detache des choses terrestres; la bouche entrouverte et les yeux diriges vers le ciel semblent concentres dans l'attente de la voix inspiratrice.
+
+Euvre de la jeunesse du maitre.
+
+Attribution de feu M. Max Rooses
+
+## 30 TETED'APOTRE
+
+Dans un medaillon ovale, apparait en buste, de trois quarts tourne vers la gauche, la tete de l'apotre eclairee par une lumiere venant de droite, tandis que le reste de la toile:le fond, le vetement,les cheveux et la barbe sont enveloppes dans de sobres tonalites brunes, comme si le maitre avait voulu concentrer toute l'attention du spectateur sur cette physionomie, tournee vers le ciel, dans cet ceil plein de la nostalgie saisissante des choses celestes.
+
+Provient de la collection Porges a Paris.
+
+Bruxelles 191o, n° 79 du catalogue.
+
+Voir la reproduction.
+
+## PORTRAIT D'HOMME
+
+Une grande distinction, melee de melancolie, emane de ce personnage, vu jusqu'aux genoux, assis: presque de face, dans un fauteuil en bois brun. La tete, aux traits reguliers, a la gris-vert et est encadree par un petit col de lingerie empese; des manchettes plissees finement, accentuent l'aristocratie des mains aux longs doigts effles. La droite repose sur le bras du siege; la gauche moustache forte, aux abondants cheveux chatains, se detache sur un fond tient un chapeau noir. Le vetement tres sobre est egalement noir.
+
+Sur toile.——Hauteur 89,largeur 71 centimetres.
+
+Sur toile.-Ovale.—Hauteur 55, largeur 45,5 centimetres.
+
+Sur toile.—Hauteur 1or,largeur So centimetres.
+## 35
+
+## ECOLE FLAMANDE DU XVIIIme SIECLE
+
+## 33 INTERIEUR DE CUISINE
+
+Tout un monde doiseaux morts, depuis le plus petit pinson jusquaux canards au long cou, entoure une vieille femme, commodement assise a droite, soccupant a plumer methodiquement un canard. Elle est vetue d'une robe rose a petite veste de fourrure noire. Son tablier est blanc, de la bouillie dans une terrine brune; son frais visage forme un joli contraste avec celui de la vieille a cote de lui. Maints objets autour du groupe sur une table, un banc, un panier renverse, des rayons au mur.
+
+Collection J. J. Chapuis.
+
+Sur bois.—Hauteur 3o.5, largeur 25 centimetres.
+
+## ECOLE HOLLANDAISE ENVIRON 1635
+
+## 34 RONDE D'ANGES
+
+Un ciel menacant, ravage de nuages sombres, des rochers arides,le squelette d'un arbre a droite, forment le cadre d'un charmant groupe de six petits cherubins dansant dans un rayon de lumiere qui caresse leur chair rose et potelee, leur chevelure blonde et soyeuse.
+
+Sur bois.-Hauteur 40.5,largeur 4o centimetres.
+
+Ce tableau, qui a éte coupe a droite, est peut-etre un fragment d’un tableau representant le
+
+Repos de la Sainte Famille pendant la fuite en Egypte.
+
+On connait de belles compositions de Rubens et de van Dijck, dont il existe des gravures du temps, qui ont probablement inspire un maitre hollandais pour une composition semblable.
+
+## ECOLE FRANCAISE ENVIRON 1635
+
+## LECONCERT
+
+Assises autour d'une table ronde, au centre de la composition, cinq personnages elegants aux forts beaux costumes, font de la musique dans une vaste piece a haute cheminee sculptee et voit deux tableaux; celui a droite represente le sacrifice d'Abraham, celui a gauche un buste de femme.
+
+trouve joie, le remede contre la douleur).
+
+Sur le seuil de la porte un homme debout regarde le groupe dans la chambre. Des personnes autour de la table, trois chantent; deux autres jouent du luth et du violoncelle. A gauche se un second groupe, compose de trois personnages: une dame assise au clavecin, un homme debout qui chante derriere elle et un second jouant du violon pres de la fenetre. Sur le clavecin on lit: MusICA LETITIE coMEs MEDIcINA DOLoRUM. (La Musique est le compagnon de la
+
+Au premier plan, a droite, une chaise avec deux chapeaux et une epee.
+
+Sur bois.- Hauteur 78.5,largeur 151 centimetres.
+
+Provient de la collection Ruelens.
+
+ll existe une estampe d'Abraham Bosse, ,lOuie” dans la serie des ,Cinq Sens", ou lon voit le meme groupe attable; la cheminee se voit egalement sur ,le Bal'.
+
+Voir la reproduction.
+## 36
+
+## JACOB E.ESSELENS
+
+Nea Amsterdam vers 1628,mort dans cette ville en 1687
+
+## SUR LA PLAGE HOLLANDAISE
+
+Un ciel bleu-gris, couvert de petits nuages blancs, s'etend sur une vaste plage, animee de
+
+Au premier plan,a gauche,un cavalier, manteau noir et chapeau noir a plumes, monte sur un fort cheval brun, s'elance vers la droite, suivi par un homme qui lui parle. Un chien blanc et noir court devant eux: un homme, au milieu du premier plan, est assis a cote d'un panier et tourne le dos au spectateur.
+
+Au deuxieme plan a droite, un groupe de pecheurs protege par une petite elevation de sable.
+
+Plus au loin,une voiture de pecheurs, chargee de personnages, longe la mer, se dirigeant vers un groupe d'hommes, tout a larriere plan de la plage, pres d'une barque aux voiles rougeatres. Fermant l'horizon a droite, encore une barque. Une troisieme, a l'extremite gauche de la toile, s'adosse contre les dunes. L'ceuvre tout entiere est baignee dans des tonalites douces de jaune grisatre et de terre de Sienne.
+
+Sur bois.-Hauteur 51,largeur 75-5 centimetres.
+
+Signe en bas a droite sur un morceau de bois: J. E. EssELENs.
+
+On trouve d’autres tableaux signes du maitre dans les musees de Brunswick, Leipzig,
+
+Provient de la Galerie San Giorgi, Rome.
+
+## PEETER FRANCHOIS
+
+Ne a Malines en 16o6,mort dans cette meme ville en 1654. Il travailla a Malines, a Anvers et a Paris. Imitateur de talent
+
+## PORTRAITD'HOMME
+
+yeux gris fonce,s son abondante chevelure chatain se detache a peine sur le fond brun uni et retombe sur un grand col de toile blanche empesee comme la manchette. Le front est haut, le nez droit,la moustache blonde;la main droite repose sur la poitrine,recouverte d'un ample vetement noir.
+
+des portraits de Van Dijck
+
+Sur toile.—Hauteur 62.5,largeur 47 centimetres.
+
+## BARENT GAEL
+
+Naquit a Haarlem vers 162o, vivait encore en 1687. D'apres Houbraken il fut l'eleve de Philips Wouwermans. Il travailla aHaarlem eta Amsterdam
+
+## LEMARCHEAUXVOLAILLES
+
+Ce tableau,pendant du suivant, est plein de mouvement et de bonhomie. Des marchands, des marchandes,en bleu, en rouge, s'empressent autour de paniers contenant de la volaille; d'autres sont arretes devant deux boutiques en plein vent adossees a une maison paysanne. Le long du
+
+Rotterdam, Glasgow,etc.
+
+## 37
+
+## 38
+## 39
+
+## BARENT GAEL (suite)
+
+jusqu'au chien brun et blanc qui, suivi par son maitre, court joyeux vers les poules prisonnieres.
+
+Signe sur le mur de la maison a droite:B. GAEL
+
+## LEMARCHE AUX PORCS
+
+Une dizaine de paysans affaires examinent des porcs au bord d'une mauvaise route qui remplit toute la largeur du premier plan pour tourner au fond a gauche, pres d'une boutique en plein vent, devant laquelle nombre de petits personnages. Un peu a gauche du tableau une femme courbee,en gris et rouge palpe un cochon couche, tandis quune autre, debout, en casaque rouge, s'interesse a la scene. Encore une note de rouge dans la veste d'un gargonnet regardant un paysan en bleu qui s'efforce de maintenir ses betes en place. Une auberge ag gauche,ayant un cygne blanc comme enseigne, sert de cadre au groupe. A cote une eglise au clocher bas et quelques arbres sur un ciel bleu pale, a nuages gris et blancs.
+
+Signe en bas a droite:B. GAEL. Pendant du precedent.
+
+Sur bois.—Hauteur 23.5, largeur 22.5 centimetres.
+
+## JAN VAN GOYEN
+
+Ne a Leyde en 1596,mort a La Haye en 165o. Eleve de Coenraet van Schilperoort et d'Isaack van Swanenburgh a Leyde; de Willem Gerritz. a Hoorn et d'Esaias van de Velde. Apres avoir visite la France et la Belgique,il travailla dans sa ville natale pour se fixer a La Haye vers 1634
+
+## 40 PLAGE DE SCHEVENINGUE
+
+La plage s'etend sous un ciel argente, aux legers nuages blancs et gris, laissant entrevoir ci et la un coin bleu. Brunes et blondes, les dunes, bordent le vaste horizon pour se fondre a vague de la mer calme, aux voiles incertaines dans un lointain brumeux. personnages remplissent toute l'etendue de la plage. A droite, au droite dans le gris De nombreux groupes de deuxieme plan, des barques amarrees, des chars atteles de chevaux, des pecheurs conversant. tout a gauche, un g groupe de pecheurs vendant leur maree; un matelot assis, en jaune clair, un autre au large pantalon ocre. Un troisieme matelot, en jaune clair s se tient debout,un panier de poissons a la main, a cote de deux cavaliers, l'un en manteau vert clair sur cheval blanc.
+
+Tous ces groupes, tous ces personnages sont baignes dans une atmosphere de calme et de brume qui semble exclure d'autour d'eux tout bruit, comme du tableau toute couleur vive.
+
+Une grande harmonie de chaudes et douces tonalites grises et brunes donne a l'ensemble beaucoup de finesse et de profondeur.
+
+Sur bois.—Hauteur 43,largeur 66 centimetres.
+
+Signe en bas a gauche, au-dessous des hommes assis: v. GovEN 1642. Exposition van Goyen a Amsterdam 1go3, organisee par Ant. W. M. Mensing (Frederik du catalogue.
+
+Muller&amp;Cie)n°27
+
+Reproduit sur la planche n° 8 de lalbum: Jean Van Goyen, 1o Photocollographies d'apres ses tableaux a l'exposition d'Amsterdam,Juillet-Aout 19o3. Amsterdam,W.Versluys.
+
+Provient du Midi de la France: acquis de M. Clarembaux.
+
+Voir la reproduction.
+
+Sur bois.——Hauteur 23·5,largeur 22.5 centimetres.
+## 4I
+
+## PAYSAGE
+
+Fin petit tableau avec jolis effets d'ombre et de lumiere dans le ciel traverse de gros nuages ronds; sur les bandes d'un terrain légerement accidente,ferme a l'horizon,a droite,par de delicats groupes d'arbres, quelques vieux toits, un clocher d'eglise; a gauche une espece de haie rustique avec quelques petits personnages. Un groupe de quatre paysans, a gauche au premier et deuxieme plan s'entretient avec deux hommes a cheval, vetus de larges manteaux.
+
+Signe:v G 1637.
+
+Voir la reproduction.
+
+## 42 LA VIEILLE TOUR
+
+Beau paysage,respirant une grande serenite.Un soleil voile, enveloppe leau calme du feuve et la rive a larriere plan a gauche, dans une atmosphere lumineuse et grise. Cette atmosphere claire, legere, profonde, est rendue d'une facon merveilleuse, que lon retrouve souvent chez Simon de Vlieger. Sur la rive, tout a gauche, une vieille tour carree, gris-jaune,ferme l'horizon et domine les maisons, rouge-clair, dun petit village, cache dans une verdure transparente, d'un vert tres clair. A peu pres au centre de la composition,une barque de pecheur avec plusieurs petits personnages en vert clair,rouge,bleu et gris; au haut du mat, un pavillon rouge,blanc, bleu. A l'horizon, a droite, d'autres petits bateaux a voiles. Au premier plan, amarrees pres d'une greve, deux barques dun brun-gris tres fonce sur les eaux d'un jaune-brun prononce. Deux des pecheurs sont en gris, celui de la barque de gauche, en rouge brun, tient un immense panier a poissons.
+
+Signe a gauche sur le bateau:v G 1640.
+
+Voir la reproduction.
+
+## 43 PETIT PAYSAGE
+
+Vrai chef-d'ceuvre, ce petit tableau baigne dans des tons bruns si chauds et si profonds qu'ils nous font penser a Rembrandt. Un groupe d'arbres bruns sur la gauche avec des effets de par des groupes d'arbres et la silhouette d'une eglise.
+
+Un ciel gris traverse de nuages blancs.
+
+Signe au milieu du premier plan: V. G. 1642.
+
+Voir la reproduction.
+
+Sur bois.—Hauteur 24.5,largeur 29 centimetres.
+
+Sur bois.—Hauteur 54, largeur 31 centimetres.
+
+Sur toile.——Hauteur 42,largeur 55 centimetres.
+
+## JAN VAN GOYEN(suite)
+## JAN VAN GOYEN (suite)
+
+## 44 LE CHATEAU AU BORD DE L'EAU
+
+Le tout est esquisse dans une seule teinte brune avec quelques accents de blancs sur les trois petits personnages, les grands arbres a droite,et la maisonnette, cachee sous leur feuillage.A dans l'ombre; deux cavaliers sur un terrain de plaine accidentee, s'etendant jusqu'a lhorizon.
+
+Signe en bas a gauche: V. G. 1651.
+
+Provient de MM. Le Roy freres,a Bruxelles.
+
+Exposition van Goyen a Amsterdam I9o3, organisee par Ant. W. M. Mensing, (Frederik Muller &amp; Cie.) n49 du catalogue.
+
+Voir la reproduction.
+
+## 45 LA BISE SURLA MERWEDE
+
+Les eaux brunatres et grises de la Merwede, agitee, sont fouettees par le vent, les vagues courtes se brisent en fines spirales blanches. A droite, une barque aux voiles gris d''acier, avec un soupcon de brun, montee par plusieurs personnes et ornee de deux petits pavillons, aux couleurs: l'un strie de rouge et de blanc, l'autre rouge, blanc, bleu. A gauche, une barque pres Tout au fond de la toile, une mince ligne indiquant le rivage ou l'on discerne contre le ciel charge de lourds nuages arrondis, gris et blancs, léglise de Dordrecht et a droite les ruines du chateau dit:,Huis de Merwede'.
+
+Tableau plein de temperament, peint dans une fine gamme aux tons gris d’argent dominants.
+
+Signe sur la barque: V. G. 1647.
+
+Sur bois.—Hauteur 3o, largeur 43 centimetres.
+
+Exposition van Goyen a Amsterdam, 19o3, organisee par Ant.W. M. Mensing,(Frederik
+
+Muller &amp; Cie.)n°26 du catalogue.
+
+Voir la reproduction.
+
+## 46 SURLAGLACEEN HOLLANDE
+
+Sous un ciel d'hiver, gris et lourd, s'etend la surface blanche d'une large riviere entierement gelee. Nombre de patineurs, presque tous paysans, s'y meuvent en tous sens.
+
+On y voit aussi des traineaux atteles de chevaux, tel que celui du premier plan a gauche qui nettes, d'arbres et d'un moulin.
+
+Sur bois.—Hauteur 21.5, largeur 27.5 centimetres:
+
+Pas signe, mais tableau caracteristique du maitre, peint vers 1635 a 1640.
+
+Vente chez MM Fred. Muller &amp; Cie a Amsterdam, le 20 novembre 1911, n° 22 du catalogue.
+
+Reproduit dans le catalogue de cette vente.
+
+Voir la reproduction.
+
+Sur bois.-Hauteur 24, largeur 37.5 centimetres.
+48
+
+## ABEL GRIMMER
+
+Ne a Anvers apres 157o,mort avant 1619
+
+## 47 PAYSAGE D'HIVER AVEC SCENES BIBLIQUES
+
+Paysage de neige: A larriere-plan, sous un ciel lourd, annoncant la neige, des montagnes a droite, toutes blanches, deriere lesquelles, a demi cachee, une petite ville fortifiee aux pierres grises. Presqu'au milieu du deuxieme plan, quelques batiments roses, un moulin a eau au bord d'une riviere congelée, contournant les montagnes pour se perdre a l'horizon; sur tout son parcours, de petits personnages sur patins ou en traineau.
+
+Au premier plan,t tout a gauche, sur une petite éminence,le mur d'une maison en briques rougeatres, accolee d'une etable au toit couvert de neige et aux poutres d'ocre; entierement ouverte sur le devant et fermee du cote droit par une barriere, elle montre a l'interieur la scene de la naissance du Christ: a gauche saint Joseph en manteau vermillon, couche a demi; bras, a cote de la vache et de l'ane. Tout pres de l'etable, sur la neige, un puits de couleur ocre et un arbre brun. Tout a droite,au premier plan, dans la neige epaisse, est representee marchant a cote en veste grise, pantalon vert, manteau rouge, chapeau jaune, une scie sur le dos.
+
+Signe en bas a droite: ABEL GRIMMER FEcIT, 1604.
+
+Sur bois.——Hauteur 22.5, largeur 33 centimetres.
+
+A l'envers du tableau, un cachet. Provient de la collection de Cherot.
+
+## FRANS HALS
+
+Ne vers 158o ou 158r probablement a Malines,mort a Haarlem en 1666. Eleve de Karel van Mander a Harlem, ou il
+
+FEMME ASSISE
+
+Une fmme jeune, vue presque jusqu'aux genoux, assise dans une chaise, le haut du corps legerement penche en avant, presque de face et se detachant sur un fond d'ocre brun-gris. La tete est bien plantee sur de larges epaules, un peu voutees, que recouvre une simple robe noire, eclairee seulement par un fichu blanc, enroule autour du cou. D'une touche admirablement forte et sure, l'artiste trace la carrure du front, aux cheveux noirs, tires en arriere sous un frappant; les yeux noirs qui regardent bien en face avec un éclair de malice; les ombres surtout, sous les yeux, autour du nez et de la bouche. Les joues sont rosees dans un
+
+Tres caracteristique aussi, saisie dans le mouvement meme de la vie, cette main gauche dont le pouce energique t tient le bord d'un bol de terre cuite, brun, contenant un liquide de meme couleur et reposant sur son tablier gris.
+
+realismef visage au teint jaunatre.
+
+Sur bois.—Hauteur 46.5,largeur 345 centimetres. Provient de MM. Le Roy freres,a Bruxelles.
+
+l'affrmation du maitre, parce que les mains sont assez faibles. Mais, en comparant les etudes de Hals et en observant les yeux penetrants et vivants et la touche vigoureuse et enlevee de l'ensemble, on ne doute plus que ce ne soit la une ceuvre de Frans Hals.
+
+Ce tableau, qui est une etude peinte avec fougue, donne bien d’abord quelque dificulte dans
+
+Bode l'a certifie etre un tableau caracteristique de Frans Hals. Voir la reproduction.
+
+demeurait deja avant 16oo,et ou il travailla toute sa vie
+## HARMEN HALS (attribuea)
+
+Ne a Haarlem en 1611, ou il mourut en 1669.Fils de Frans Hals
+
+## 49 LE MANGEUR DE BOUILLIE
+
+Un charmant petit garcon vu a mi-corps est assis devant un mur gris. l nous montre en souriant de sa bouche largement fendue, un vase de terre brun qui contient sa bouillie; il le tient penche, de la main gauche; de la droite, il serre le manche de sa cuillere.
+
+Tout est joie et sourire dans ce gai visage ou l'on devine, sous l'ombre du large feutre gris, sursa collerette blanche. Une veste jaunatre, en peau de brebis, sous laquelle paraissent des manches grises, recouvre le corps de l'enfant. Sur le genou, une serviette blanche.
+
+Provient de la Collection van Beeresteyn.
+
+avec les tableaux de genre signes de ce maitre.
+
+Voir la reproduction.
+
+## MATTHEUSVAN HELMONT
+
+Nea Anvers en62mort a Bruxells apres1674Travailla aAnverseta Bruxelles.Eleve deDavid Teniers le eue. Imitateur et copiste de son maitre
+
+## 50 LA TABAGIE
+
+Au centre d'une composition ovale un personnage detaille, tourne vers la droite, bien en lumiere, est assis sur un baquet renverse, brun-gris, sur lequel un linge blanc. Le pied pose sur un bloc de bois, il rallume sa pipe a un petit rechaud, rempli de braises. Le bonnet enfonce sur les oreilles, le nez epate,les joues gonfees, lui donnent un air epais et lourd. ll est vetu tout de clair: veste grise, chemise jaune, culotte brune; sur la jambe, une cruche brun-clair,un papier, un verre haut. Dans lombre, sur fond gris,a gauche, un homme debout vu de dos, bonnet rouge, veste rougeatre, pantalon noir. Par une porte ouverte,a l'arriere-plan, a droite, on apergoit trois personnages autour d'une cheminee; l'un d'eux, assis sur un petit banc, vu de dos, bonnet rouge veste grise, culotte grisjaune, sappuie contre la cheminee； un autre est debout, en violet, vu de profl. Derriere lui on voit une femme en bleu. Tableau plein d'un realisme sincere et sans apprets.
+
+Signe sur le bloc de bois: M. vAN HELMoNT.
+
+Sur bois.——Ovale.——Hauteur 25,largeur 33 centimetres.
+
+A l'envers du tableau on lit: Duc de Valentinois 1726.
+
+Bus de Gisegnies.
+
+Copie par Van Helmont d’apres le tableau de David Teniers le Jeune de la collection du
+
+Voyez la reproduction dans le catalogue de cette collection par Fetis, p. 151.
+
+Sur bois.-Hauteur 21.5,largeur 18 centimetres.
+51 L'ECOLE
+
+Un magister, installe derriere son pupitre, dans une salle bien eclairee, se souleve a demi d'une main; de lautre elle soutient son tablier, tout rempli d'ceufs. Une autre petite au premier plan, nous tournant le dos, en gris bleuatre et petit bonnet gris a bord rouge sur ses cheveux blonds,un panier a la main, lui tend aussi un ceuf Deux autres enfants,l'un en ocre,regardent la scene en souriant. Tout au fond, a gauche, des enfants lisent, assis sur un banc. Derriere le magister, contre une armoire brune, des rayons de livres et un grand panier, a moitie plein lierement affectionnees par le peintre.
+
+Signe en bas a droite: P. HoREMANs 1757.
+
+Voir la reproduction.
+
+## CORNELIS HUYSMANS DE MALINES
+
+Ne a Anvers en 1648,mort a Malines en 1727.Eleve de Caspar de Witte a Anvers et de Jacques d'Artois a Bruxelles.
+
+Travailla a Malines et a Anvers
+
+## 52 PAYSAGE MONTAGNEUX
+
+longs nuages blancs et d'autres plus menacants amasses a lhorizon,annongant un orage, jusqu'aux collines rocheuses, couvertes en partie d'une riche vegetation, couronnees a gauche d'une petite maison et d'un groupe d'arbres. Tumultueux aussi le cours d'eau qui, venant du fond, encaisse entre les montagnes d'abord, effleure sur son passage le pied d'une eglise et les bleue, sur laquelle vogue une barque avec quelques personnes.
+
+Sur toile.Hauteur 255,largeur 355 centimetres.
+
+Mais puissant avant tout est cet amas de rochers, sur lequel un homme debout, sur leminence de droite; ils semblent concentrer sur eux toute la lumiere aux refets jaunes, contrastant vivement avec les parties dombre d'un brun tres fonce et avec les arbres, fiers de leur force, qui couronnent les rochers.
+
+Provient de la collection de Cannart d'Hamale, de Malines.
+
+## PIETER JACOB HOREMANS
+
+Peintre de la Cour de l'Electeur CharlesAlbrecht de Baviere
+
+Sur toile.-Hauteur 4o, largeur 32 centimetres.
+## 53
+
+## JACQUES JORDAENS
+
+Ne a Anvers en 1593, mort dans cette ville en 1678. Eleve d'Adam van Noort
+
+## LESATYREETLEPAYSAN
+
+Une famille de paysans est assise a une table rustique pour le repas journalier avec un satyre couronne de feuilles. Assis tout a gauche, le dos tourne a la cheminee ou brule un feu joyeux, le satyre s'adresse d'un sourire sarcastique au paysan barbu, en blouse d'un vert grisatre qui, cale dans son s siege, mange son potage, dans une écuelle de terre, tout en soufflant suit la scene en souriant, ainsi qu'un paysan a la grosse figure rejouie, debout derriere eux, une cuillere et une ecuelle de soupe en mains; une bonne V vieille, bonnet et fichu blancs, casaque rouge, verse du lait d'une grosse cruche en cuivre jaune. Sous la table, un chien brunatre et blanc; sur un volet decloue a droite un coq aux vives couleurs; des cruches pendent au mur brunatre, des oignons au manteau de la cheminee.
+
+Provient de MM. Le Roy freres,a Bruxelles. Exposition J. Jordaens, Anvers, 19o5,n°56.
+
+Sur toile.-Hauteur 65,largeur So centimetres.
+
+Reproduit dans l'Album de l'Exposition Jacques Jordaens, publie par le comite executif. Anvers. Imprimerie Van Os-DeWolf. ,La Chronique du 2o Juillet 19o5 ecrit:,Parmi les toiles les plus admirees, citons le ,Paysan et le Satyre",un des rares tableaux de chevalet qu'ait signe l'auteur de tant de grandes compositions. Coloration doree, dessin d'un fini curieux, probablement une reduction du tableau, grave par Jac Neefs, émet le catalogue. A notre avis, cette maitresse page, qui appartient au Baron Janssen, est plutot lidee premiere du susdit tableau'
+
+Dans l'Art Moderne' du 2o Aout 1go5:J'ai, dit M. H. Hymans, decouvert en ce dernier （c. a. d. Le Paysan et le Satyre du Baron Janssen), un tableau de chevalet d'une purete et d'une conservation extraordinaires, chaudement ambre, spirituel, et d'une couleur:
+
+d’un dessin net, savant, precis
+
+Exposition d'Art ancien, Bruxelles, 191o, n214 Decrit dans:,L'Art Belge au XVIle siecle,Bruxelles, 191o,Juin-Novembre, Bruxelles,Librairie Nationale d'art et d'histoire, G. Van Oest &amp; Cie,1912,n°214 du catalogue, avec la notice: ,Il existe une dizaine de variantes de ce sujet souvent traite par Jordaens. Voir les versions du comte de Beauffort et de M. Cels. ... et aussi les tableaux du Musee de Bruxelles".
+
+Voir la reproduction.
+
+## 54 SAINTYVES,PATRONDESAVOCATS
+
+Saint-Yves se tient debout au centre de la composition, vu de troisquarts a gauche, enveloppe femme en bleu clair,enfants, venant de la gauche, suppliant a genoux, mains jointes. Derriere table, un chien et quelques livres. A l'arrierepian a droite,une riche draperie verte couvrant en partie une suite de colonnes, style renaissance.
+
+Teinte brune dominante, ca et la relevee de blanc; les ombres d'un brun fonce.
+
+Papier sur bois.—Hauteur 27.5, largeur 31.5 centimetres.
+
+Un tableau de Jordaens du meme sujet,mais avec composition diferente, date de 1645, se trouve au Musee de Bruxelles.
+## 55
+
+## FEMME EXAMINANT UNE PIECEDE MONNAIE
+
+Une vieille femme, vue de trois-quarts a gauche,en buste, enveloppee d'un large vetement sombre, devant un fond neutre. Le tete tres en lumiere, coiffee d'un petit bonnet blanc sur ses cheveux gris et tires, est penchee en avant; la ligne mince de la bouche rentree,que l'on devine tout edentee, le nez pointu, les yeux percants concentres dans l'examen d'une piece de monnaie qu'elle tient de la main droite: tout cela donne une impression de ruse melee de mefiance, fort bien rendue par l'artiste.
+
+Attribution du baron Janssen.
+
+Sur bois.—Hauteur 6r,largeur 44 centimetres.
+
+## WILLEM KALF (attribue a)
+
+Ne a Amsterdam en 1621 ou 1622,mort dans cette ville en 1693.Eleve de Hendrick Pot.Le clair-obscur de Rembrandt a eu une certaine influence sur lui
+
+56 LA SIESTE
+
+Dans un interieur rustique dont le fond est plonge dans la penombre d'un gris transparent, nouille dans la main; corsage rose, chemise et bonnet blancs, jupe grise. Un petit garcon dort, la tete posee sur les genoux de sa mere. Tous deux, de meme que l'etalage d'ustensiles de chaudron de cuivre jaune, un autre, plus petit, de cuivre rouge, des assiettes d'etain,un poele a une poulie, au haut de la toile a gauche; vaguement dans l'ombre un petit gargon egalement endormi, sur un petit mur; par une petite ouverture s'apergoit une etable.
+
+## Achete a M. F. Kleinberger a Paris.
+
+Sur bois.—Hauteur 26, largeur 35 centimetres.
+
+Le tableau ne porte pas de signature; nous l'avons pourtant attribue a Kalf, quoique generalement celui-ci montre plus de transparence dans ses tableaux. Des sujets de ce genre ont éte traites aussi par Cornelis Saftleven, Pieter van den Bos et par des maitres frangais et espagnols du XVIIme siecle.
+
+## JAN VAN KESSEL
+
+Ne a Anvers en 1626,mort dans cette ville en 1679. Eleve de Simon de Vos et de Jan Breughel le Jeune son oncle
+
+## 57 NATUREMORTEDANSUNPAYSAGE
+
+Contre un petit mur tout en ruine une charrette renversee et un fusil a cote des produits de la chasse: un canard, deux herons aux plumes herisses et un beau cygne blanc. Au centre du elegants chiens de chasse semblant encore monter la garde aupres de ces trophees. Derriere eux un coin de paysage montagneux sous un ciel nuageux.
+
+Signe a gauche en bas: J. v. KessEL. Collection Ruelens.
+
+Sur bois.—Hauteur 36,largeur 49 centimetres.
+## 58
+
+## THOMAS DE KEYSER
+
+Ne en 1596 ou 1597 a Amsterdam,ou il mourut en 1667.Il se forma sous linfuence d'Aert Pietersz.et de Cornelis van der Voorta Amsterdam
+
+## PORTRAITDEFEMME
+
+Sur un fond gris-brun,une femme agee de 56 ans, vue de buste et tournee un peu a gauche, mais au teint tres frais encore, aux levres minces;le front est haut et un peu fuyant, la chevelure brun fonce, tiree sous un bonnet blanc. Tres blanche aussi la fraise godronnee sur la severe robe noire, a la mode du temps.
+
+Date en haut a droite: 56
+
+1647
+
+Provient de la collection Hauptmann a Paris.
+
+Sur bois.—Hauteur 3t,largeur 23-5 centimetres.
+
+Exposition des portraits anciens, Bruxelles 1897. Henry Hymans, dans la ,Gazette des Beaux-Arts" du 1er juillet 1897, p. 86, en dit:,A Th. de Keyser se rapportent divers nos du catalogue. Nous donnons la preference a un excellent portrait de femme en buste,a petite coiffe blanche, fraise a tuyaux, corsage noir, peinture tres fraiche d'un remarquable relief, appartenant au baron Janssen'.
+
+Voir la reproduction.
+
+## THOMAS DE KEYSER (maniere de)
+
+## 59 PORTRAITD'UNEJEUNEFILLE
+
+Ce delicieux portrait d'une grande fraicheur et profondeur de ton,a la touche large et facile, represente une jeune fille vue a micorps, le visage presque de face,entoure d'une grande fraise godronnee sur une robe noire, fermee par une rangee serree de petits boutons jaunes; meme verdatre, cache presque entierement les cheveux bruns tires et encadre les contours doux de son visage rond, aux fraiches couleurs, aux grands yeux bruns, a la bouche finement ciselee.
+
+Achete chez M. F. Kleinberger, a Paris.
+
+Toile sur bois ovale.-Hauteur 13, largeur 11 centimetres.
+
+## ISAAC JANSZ.KOEDIJCK
+
+Ne a Leyde en 1616 ou 1617, marchand a Amsterdam a partir de 1642. 1l ne pratiquait la peinture que par dilettantisme. On le trouve mentionne en 1659 comme chef dune fotte de la compagnie des Indes Orientales.l mourut probablement a Amsterdam apres 1677
+
+## 60 SCENE D'INTERIEUR
+
+Jolie composition toute baignee dans une atmosphere argentee representant une piece, largeassis de trois-quarts sur un manteau vert mat, depose sur une chaise, a gauche. Son abon- attendre le vin que doit lui apporter une flle en rouge que lon voit a droite, par la porte
+ouverte,remontant de la cave;un homme en vetement et chapeau noirs,l'embrasse. Le plafond, brun mat. Les murs sont gris; celui du fond est orne d'une grande carte avec ces mots: ,Nieuwe ende waarachtige Beschrijvinghe der Seventien Nederlanden'. Une patte de chevreuil, terminant un cordon de sonnette, pend audessus d'une grande table recouverte d'un tapis, d'un rouge clair et mat, a bordure ouvragee melee de bleu, de gris, de jaune et encadree d'un petit bord jaune.
+
+A travers le fenetre ouverte on distingue, au fond,un homme tirant une sonnette sur un pont-levis.
+
+Date sur la carte geographique: 1648.
+
+Sur bois.-Hauteur 65.5,largeur 55centimetres.
+
+Comparez:Dr C. Hofstede de Groot dans le Jahrbuch der Koniglich preussischen Kunst- sammlungen”,24me volume, Berlin, 19o3, page 39:,Die Koedyck Ratsel und ihre Losung
+
+Le dit tableau reparut lors de la vente chez MM. Fred. Muller et Cie,a Amsterdam, le 9 decembre 19o2,n° 21 du catalogue, sous le nom:J. Duck'; il lui manquait cependant toute panneau. Nous retrouvons ce tableau encore une fois chez MM. Fr. Muller et Cie, lors de la vente du 21 septembre 19o4, n° 82 du catalogue, sous le nom de Koedijck. 1l est reproduit dans le dit catalogue.
+
+Voyez encore sur Koedijck les articles du Dr A. Bredius et du Prof. W. Martin dans ,Oud Holland", 1909.
+
+Voir la reproduction.
+
+## PIETERLASTMAN
+
+Nea Amsterdam en 1583, ou il mourut en 1633. Il visita 1'Italie.Rembrandt fut son eleve
+
+## 61 L'ERMITE
+
+Un vieil ermite,a longue,barbe et cheveux blancs,est assis de troisquarta gauche,a entr de sa grotte s'ouvrant sur un paysage montagneux, d'ou tombe une cascade et que surmonte un temple circulaire et une tour. L'ermite toutient sa tete inclinee et s'absorbe dans la lecture de pierre, servant de table, des livres, une tete de mort, un fouet,un chapelet. Tout l'interieur de la grotte est orne de plantes grimpantes.
+
+Sur bois.-Hauteur 38,largeur 3o centimetres.
+
+Signe en bas a gauche sous le pied droit de l'ermite: P. L. 1611.
+
+Dans ce livre le tableau est mentionne sous le n° 94 du catalogue, decrit a la page 72 et reproduit sur la planche ll, n°7.
+## 62
+
+## NICOLAES MAES
+
+Ne a Dordrecht en 1632, mort a Amsterdam en 1693. Eleve de Rembrandt vers 1650.
+
+## PORTRAITD'UNE DAME DE QUALITE
+
+Se detachant sur un fond d'arbres, de rochers sombres, de nuages noirs, eclaires d'une lueur rose, une femme d'une quarantaine d'annees, somptueusement vetue,vue a mi-corps, se tient debout,vue de face；le bras droit repose sur un rocher brun, pres duquel, tout a gauche,une petite cascade. Le visage, tourne legerement vers la droite est encadre de boucles brunes. La robe de satin saumon, aux riches cassures, terminee par une dentelle blanche,laisse decouvertes les epaules et la gorge; blanche aussi les manches demi-courtes. d'etoffe legere qui recouvre en partie une superbe echarpe d'un brun violet, brodee de feurs blanches et qu'elle retient de ses deux mains.
+
+Sur toile.—Hauteur 67.5,largeur 56.5 centimetres.
+
+En bas a gauche sur le rocher la (fausse) signature: N. MAas sous laquelle on distingue les restes de la signature originale du maitre.
+
+Provient de la collection Serraris.
+
+Tableau caracteristique du dernier temps du maitre. Exposition de portraits, Bruxelles 1897.
+
+Voir la reproduction.
+
+## 63 PORTRAIT D'HOMME
+
+Appuye du bras gauche a une colonne brise, grise, qui se detache sur un fond sombre, un personnage, represente jusqu'aux genoux, de trois-quarts a droite, vetu dune ample robe de chambre de soie gris-bleu, a doublure ocre-jaune, avec une cravate blanche nouee autour du cou. chevelure brune dont les lourdes boucles retombent abondamment sur les epaules. Le visage est noble,l'expression des yeux, sympathique, avec
+
+La' tete est entouree d'une magnifique quelque chose de soucieux dans la ligne des sourcils.
+
+Signe en bas vers la droite: N. MAEs.
+
+Achete chez M. F. Kleinberger a Paris.
+
+Les petits portraits de Maes sont bien du catalogue).
+
+Sur toile.—Hauteur 128,largeur 105.5 centimetres.
+
+n plus nombreux que les grands, mais l'on connait la collection Carstanjen a Berlin, exposes dans la Pinacotheque a Munich (les nos 363 et 364
+
+Voir la reproduction.
+
+## 64 PORTRAIT DU PEINTRELUIMEME
+
+La tete se detache, sur le fond sombre, dans une fine lumiere ambree. Perruque chatain clair. La main droite designe une toile posee sur un chevalet. La main gauche tient un appuie-main.
+
+Sur toile.-Hauteur 6o, largeur 47 centimetres.
+
+Cite dans Dr Hofstede de Groot, Catalogue raisonne, T. VI, p. 52o, n 128.
+
+Vente Cavens, Bruxelles.
+
+Voir la reproduction.
+## 65 VIEILLEFEMME ECRIVANT
+
+Assise derriere son comptoir, une longue table de bois de chene, avec ornements de bois d'ebene, on voit, dans un refet de soleil, une femme agee, au centre de la composition. Sa tete a petit bonnet noir, est appuyee sur la main gauche; ses yeux sont baisses sur un livre ouvert devant elle et dans lequel elle écrit avec beaucoup d'attention;un second livre est ouvert egalement devant elle.
+
+une cruche a couvercle d’etain. Au-dessus du tonneau, une liasse de papiers pend au mur.
+
+Derriere, contre le mur, un portrait et une grande carte avec les deux mappemondes entre lesquelles on distingue un texte latin.A droite de la toile, par terre,un panier,un tonneau avec
+
+Sur toile.—Hauteur 65,largeur 59 centimetres.
+
+Signe au milieu a droite sur une liasse de papiers: N Maes A 165o. Achete chez M. F. Kleinberger a Paris.
+
+Voir la reproduction.
+
+## MAITRE FLAMAND DU XVIIESIECLE
+
+## 66 PORTRAIT D'UNEJEUNE DAME
+
+Vue de trois-quarts a droite, sur un fond brun-gris, sa jolie figure aux traits fins, aux yeux bruns qui regardent le spectateur. Elle porte une robe noire, ornee de dentelles, decouvrant la gorge et le cou, orne dun colier de perles, sur lequel retombent les boucles de la chevelure chatain, terminees par deux petits nceuds noirs.
+
+A l'envers du tableau on lit en lettres modernes: Henriette de Lorraine;v. d. Helst. Euvre flamande dans le genre de Gonzales Coques.
+
+Sur cuivre.—Hauteur 21, largeur 16 centimetres.
+
+## MAITRE FRANCAIS,DU XVIE SIECLE
+
+## PORTRAIT DEJACOBUS SCHARON
+
+dont l'une tient une paire de gants brun clair. Il est vetu de noir et coiffe d'un beret, pose sur ses cheveux bruns. La barbe est roux-chatain; les yeux bruns ont une expression serieuse et pensive.
+
+Sur bois.Hauteur 65.5,largeur 47 centimetres.
+
+Personnage plein de dignite. Fond gris.
+
+En haut, a gauche, en lettres gris-clair: IAcoBvs ScHARoN.
+
+Voir la reproduction.
+
+## MAITRE INCONNU (ECOLE HOLLANDAISE,VERS 1660)
+
+## SCENE DE FAMILLE
+
+Par une large baie a gauche, la lumiere qui éclaire une cave aux hautes voutes de pierre, soutenues s ca et la par de fortes poutres, met des accents clairs sur le groupe au milieu du premier plan:la mere a son rouet, vue de dos; son bebe par terre a cote d'une terrine dans laquelle il puise avec sa cuillere;le pere enfin, revenu des champs,est debout,pres de l'escalier, sur lequel il a depose sa faux.
+
+## 68
+
+## 69
+
+Sur bois.—Hauteur 23·5, largeur 3o centimetres.
+## 70
+
+## MAiTRE INCONNU (ECOLE HOLLANDAISE,VERS 1650)
+
+## LA CHAUMIERE
+
+A demi cachee sous des chenes, une humble chaumiere ensoleillee, dessine au centre du panneau son toit de chaume gris, au faitage garni de tuiles rouges. Elle est placee a l'entree d'une haute futaie a droite, vers laquelle se dirige un paysan, le baton a la main. Le sable du gauche y jette une ombre transparente dont profitent pour s'entretenir un instant deux hommes a gauche avec chapeau noir, celui de droite avec chapeau rouge. Tout en avant
+
+En haut quelques oiseaux, se dessinant nettement sur le ciel doux, bleu gris aux jolis nuages chemin devant la maison etincelle au soleil, tandis que le groupe d'arbres du premier plan a debout,lun 1 a gauche,au bord du chemin,un tronc d'arbre brise.
+
+arrondis blancs et gris.
+
+Signe en bas a gauche: M. HoBBEMA.
+
+Sur bois.—Hauteur 39, largeur 6o centimetres.
+
+Provient de la collection de feu M. Schlie, Directeur du Musee de Schwerin.
+
+Selon M. le prof. Schlie,le tableau serait peint par Meindert Hobbema. ll en dit dans une lettre au baron Janssen, datee de Schwerin le 5. VI, 1895:
+
+im Grin! Und die dunklen Figuren auf dem hellen Wege! Ein Prachtwerk!
+
+,Der Hobbema ist ein herrliches tadelloses Bild, womit Sie iberall Ehre einlegen werden ... Der grosse Meister Hobbema ist in allem, in der Ordonnanz, im Colorit, im Baumschema, etc., zu sehen. Wenn auch keine Muhle und kein Wasser drin ist:— es ist trotzdem eines seiner feinsten Werke voll vornehmster Characteristik. Wie liegt das feine graue Dach wunderschon
+
+Bien qu'il nous soit impossible de preciser quel est l'auteur de ce tableau, nous ne pouvons partager lopinion de feu M. Schlie affrmant que le tableau a éte peint par Hobbema.
+
+Voir la reproduction.
+
+## MAITRE HOLLANDAIS INCONNU
+
+## 71 VIEILLE FEMME ENPRIERE
+
+Une vieille femme, en buste, vue de trois-quarts a gauche, le visage en profil, la tete recouverte d'un simple bonnet blanc, se detache en vive lumiere sur un fond uni brun fonce. Les yeux, sombres et vifs, sont fixes dans le vague; les joues creuses, la bouche rentree, les rides du cou indiquent le ravage des annees. Les mains sont jointes sur un vetement d'un beau rouge clair. Tres belle ceuvre.
+
+Sur bois.Hauteur 49.5, largeur 355 centimetres.
+
+Se rapproche du pseudo-van de Venne', dont il est question au numero 121.
+
+Un autre tableau du meme sujet est decrit par le Dr.K. Bauch dans son ouvrage sur Jacob
+
+Backer. (Berlin, 1926, pag. 73 pl. 3). 11 lattribue a ce maitre.
+
+## PIETER MEERT
+
+Nea Bruxelles,en 161o,mort en 1669
+
+## 72/73 PORTRAIT D'UNHOMME AGEET DE SA FEMME
+
+Sur bois.—Hauteurs 78,largeurs 62.5 centimetres.
+
+Ces tableaux de Pieter Meert ont éte legues par feu le baron Janssen, nous les citons puisqu'ils sont decrits dans le catalogue du docteur Martin, de 1923.
+## 74
+
+## JAN MIENSE MOLENAER
+
+Ne vers 161o a Haarlem, ou il fut enterre en 1668.Eleve de Frans Hals. Marie a Judith Leyster
+
+- LA FAMILLE FRISONNE
+
+Cette toile pleine d'elegance, de charme et d'une finesse exquise, est sans contredit un des joyaux de la collection.
+
+Les murs gris,le plancher jaune d'une grande simplicite font admirablement ressortir la richesse des costumes, limportance des six personnages groupes autour d'une table et occupes a faire de la musique. Le violoncelliste assis a droite, vu presque de face, porte un beau pourpoint jaune-brun, a large col de dentelles, une culotte violette ornee de rubans, des bas blancs et un chapeau gris-jaune a larges bords releves. A ses pieds, au premier plan,.une epee et un vetement gris-brun a manches violettes et boutons dores. Derriere lui, debout, tout en noir,un sur le front. Un riche tapis rouge, brode d'or a franges d'argent,recouvre la table a laquelle est assise a droite une jeune femme qui semble diriger la musique, suivant les notes dans un petit cahier de musique; elle a une robe violette et un chapeau gris double de violet. Derriere la table,contre lemur etvue de face,une deuxieme jeune femme en noir a large col etmanchettes de dentelles;elle joue de la fute.A sa droite, debout,un violoniste a grand chapeau noir et vetement brun, agremente d'une fraise, adosse contre une carte de la Frise accrochee au mur. Devant lui, pres de la table, au centre de la composition, une charmante jeune femme vue de face aux cheveux blonds tout frises, joue du luth: elle est vetue d'une superbe robe gris-bleu, brodee d'or et ornee d'un immense col de batiste et de dentelles. Une servante, derriere elle, la main sur la hanche, en casaque claire,jupe noire et petit bonnet blanc, suit attentivement ce concert intime; un jeune gargon, a gauche, tout en rouge, verse avec adresse un verre de vin d'une petite cruche en etain tandis qu'un autre, en gris, lave des verres dans un grand rafraichissoir en cuivre, orne de feuillage.
+
+Par terre devant lui un joli pele-mele de plats d'argent, de cruches, de verres et de serviettes blanches. Derriere lui, contre le mur, un portemanteau, avec un chapeau noir et un manteau violet. Une porte entrouverte a l'arriere-plan a gauche,un petit chien brun endormi sous la table;une superbe draperie bleue,a droite,au plafond.
+
+Signe au haut de la carte: MoLENAER 1636.
+
+Collection prince de Schwarzburg-Rudolstadt.
+
+Voir la reproduction.
+
+## THEOBALD MICHAU
+
+Ne a Tournai en 1676,mort a Anvers en 1715
+
+## AL'EMBOUCHURE DU FLEUVE
+
+## 75
+
+Que de mouvements,de couleur, de scenes diverses dans ce petit tableau,representant au premier plan un marche aux poissons a l'embouchure d'un feuve que lon voit couler paisiblement vers une mer bleue au centre du tableau, en passant pres de ruines roses et jaunes, dans une atmosphere bleuatre. Sur la rive gauche, de vieux murs. couverts dune fraiche verdure; des troupeaux de vaches, de brebis avec leurs bergers; un pelerin assis, recoit l'aumone; un beau cheval blanc entoure de paniers a poissons, et la note eclatante d'un vetement rouge. au centre du premier plan. Partout sur l'eau ce sont des barques remplies de gens affaires, aux vives couleurs. Ciel bleu traverse de nuages gris.
+
+Signe en bas a gauche: T MicHAu F.
+
+Sur toile.—Hauteur 1oo,largeur 125 centimetres.
+
+Sur cuivre.—Hauteur 32.5,largeur 46 centimetres.
+## 76
+
+## 77
+
+trouve au Musee de Brunsvick.
+
+## PIETER DE MOLIJN
+
+Ne a Londres en 1595; mort a Haarlem en 1661,ou il a travaille a partir de 1616
+
+## PAYSAGE DE DUNES
+
+Sur le terrain accidente des dunes, on voit de grands arbres pres d'une chaumiere, a gauche d'un chemin. Plus loin, encore quelques pauvres masures et une meule de foin se dessinant nettement contre le ciel clair, traverse de nuages, qui projettent de grandes ombres brunes sur deux petites vaches et un homme se detachent sur le ciel.
+
+Sur bois.—Hauteur 30, largeur 55 centimetres.
+
+Ce tableau est de la meme main que le paysage du Musee de Darmstadt (catalogue 1914， n°228). La signature de ce dernier, date de 1649, selon notre avis, ne peut se lire autrement que Pieter Molijn. A comparer aussi le paysage bien connu du maitre, date de 1626, qui se
+
+Provient de M. Louvois.
+
+Voir la reproduction.
+
+## JOOS DE MOMPER
+
+Naquit en 1564 a Anvers et y mourut en 1635. Eleve de son pere Bartholomeus de Momper
+
+## PAYSAGED'ETE
+
+Plusieurs moissonneurs au premier plan fauchent un champ de ble tres en pente et lient les gerbes pour les charger ensuite sur un char, attele de trois chevaux. D'autres prennent un frugal quelques maisons au milieu d'un bouquet d'arbres. Au deuxieme plan une vallee, plongee dans repas sur une serviette blanche. A droite cachees en partie par le champ de ble, une eglise, l'ombre, animee de nombreuses petites figures au travail et entouree d'arbres entre lesquels on voit un vieux donjon, a tour ronde. Au fond, de jolies collines, ondulant sur un ciel nuageux.
+
+Les fgures sont attribuees a Jan Brueghel.
+
+Provient de la collection de Villermont. Pendant du numero suivant.
+
+## 78 LE VIEUX CHATEAU
+
+baigne ici et la de petits villages et, au centre de la composition, un vieux chateau.
+
+Sur toile.-Hauteur 58,largeur 83 centimetres.
+berge, au milieu des roseaux, chassent des canards. Sur la meme rive, au deuxieme plan, de tout petits groupes de danseurs.
+
+Partout sur l'eau, des barques, des bateaux a voiles. Le ciel est charge de gros nuages qui jettent de grandes ombres sur le paysage.
+
+Les figures sont attribuees a Jan Brueghel. Provient de la collection de Villermont. Pendant du numero precedent.
+
+## FRANS DEMOMPER
+
+Nea Anvers en 1607,mort dans cette ville en 166o ou 166r. Il etait probablement fils et eleve de Hans de Momper.A
+
+partir de 1629,il travaill quelque temps a Amsterdam, a Haarlem et a La Haye.Maitre rare
+
+## 79 PAYSAGE MONTAGNEUX
+
+Un vaste ciel, traverse par de gros nuages, les uns blancs et legers,les autres gris et sombres, le pied d'une ville,au deuxieme plan,pour se perdre dans une ombre epaisse et brune au premier plan, ou il active les roues d'un grand moulin a gauche; tout a droite un cavalier en bleu sur un cheval blanc. Partant du deuxieme p plan a droite,une chaine de montagnes aux memes teintes brunes et chaudes, si caracteristiques dans cette composition, s'etendant vers la gauche pour se perdre a lhorizon dans des tons bruns meles de gris.
+
+Signe au milieu du premier plan: F. D. M.
+
+Sur bois.-Hauteur 6r,largeur 86 centimetres.
+
+Voir la reproduction.
+
+## AERT VAN DER NEER
+
+Ne a Amsterdam en 16o3, ou il mourut pauvre en 1677
+
+## 80 LEVER DELUNE SURL'EAU
+
+La pleine lune apparait a peine au-dessus de l'horizon borde de petits nuages jaune de Naples, et se refete mollement dans les eaux endormies d'un large feuve qui remplit tout le premier plan pour se fondre au loin avec le ciel aux tons gris et blancs, dans lequel un dernier refet
+
+Du cote droit, dans lombre, bordant la berge,les restes d'anciennes fortifications,un moulin a vent gris,une église et, au bord du chemin, des arbres. A lextremite gauche, une espece de jetee s'avance jusqu'au milieu de leau; contre la jetee un bateau a voile d'un brun grisatre. Au premier plan, une barque gris-bleu au repos; deux hommes sechant leur filets sur la berge.
+
+du soleil couchant mele une note chaude et rouge brunatre.
+
+Signe en bas a droite: A.v. D. N. 1646. Achete chez M. F. Kleinberger a Paris.
+
+Sur bois.—Hauteur 34.5, largeur 535 centimetres.
+
+Sur toile.—Hauteur 58,largeur 83 centimetres.
+## 81
+
+## 8ia
+
+## ADRIAEN VAN NIEULANDT
+
+Ne a Anvers en 1587, mort a Amsterdam en 1658. Eleve de Pieter Isaacsz et de Francois Badens. 1l vecut depuis sa jeunesse a Amsterdam.
+
+## LE BLANCHIMENTDE LA TOILE PRESDE HAARLEM
+
+Pres d’une faque d’eau des femmes sont occupees a laver de longues pieces de toile dans des cuves. Une d'elles en exprime l'eau avec les pieds, une autre les mets sur une brouette. Une compagnie de dames, un seigneur ainsi que des enfants dans de jolis costumes les regardent.
+
+Charmant tableau.
+
+## TOBIE ETL'ANGE
+
+brune, au bord de l'eau, tient un gros poisson dans les mains, le visage tourne a droite,vers un ange debout a cote de lui. Ses grandes ailes blanches, sa chemise blanche et son manteau Devant lui, un petit chien brun et les vetements de Tobie: un manteau rouge, un chapeau brun et un baton. Derriere le groupe, partant de la droite, le massif sombre d'une colline couverte de forets; la silhouette delicate de quelques abres se detache finement sur un ciel bleu a legers nuages blancs. Tout au loin, a droite, des montagnes arrondies dans une atmosphere teintee de bleu.
+
+Signe: A.v. NIEULANDT F.
+
+Sur bois.-Hauteur 35.5,largeur 45.5 centimetres.
+
+Charmant tableau dans le gout de Elsheimer.
+
+## JASPER JACOB VAN OPSTAL
+
+Nea Anvers en 1654,mort en 1717
+
+## 82 VERTUMNEETPOMONE
+
+Accroupis l'un pres de l'autre, au pied d'un grand chene, a droite, au milieu d'une nature luxuriante d'un grand effet decoratif, Pomone, le corps presque nu, se detache sur le fond sombre du tronc d'arbre, les jambes recouvertes d'une draperie. La main gauche tient une serpette et teteetlecorps drapes dans une riche etoffe, la regarde fixement. La forte musculature des bras et des jambes contraste vivement avec les formes rondes, les chairs un peu grasses de la jeune femme.
+
+couple du doigt, tout en se dirigeant vers les bosquets et le petit cours d’eau a gauche que borde un lointain montagneux.
+
+Signe en bas a gauche: J. J. v. OpsTAL.
+
+Sur bois.-Hauteur 47,largeur 62 centimetres.
+
+Exposition d'art ancien: L'Art Belge au XVIle siecle, Bruxelles, 191o n 275 du catalogue. Faisant erreur de prenom, le tableau est indique comme une ceuvre d'A. van Opstal. La signaetc., prouve, ainsi que la technique de la peinture, que ce tableau est une ceuvre de Jasper Jacob ture du tableau, identique avec les signatures des tableaux aux musees d'Anvers, de Brunswick, van Opstal.
+
+Provient de M. Einstein,Munich.
+
+Sur bois.——Hauteur 19.5,largeur 25.5 centimetres.
+## 83
+
+## 85
+
+## ADRIAEN VAN OSTADE
+
+Nea Haarlem en 161o,ouil mourut en 168s.Eleve de Frans Hals.Il se developpa sous 1’infuence deBrouwer et de Rembrandt
+
+## DANSLAFERME
+
+Une vieille femme, a petit bonnet et fichu blancs, est assise et file presque au centre du tableau, son chat dormant par terre a cote d'elle. L'interieur simple et gai, rempli dobjets divers, tous peints avec amour, est éclaire en plein par un joyeux rayon de soleil, venant de gauche. Derriere la vieille, et remplissant toute la gauche,des ustensiles de menage,un banc sur lequel un paquet rempli de vetements, une miche de pain, une ecuelle; en avant, a gauche, une chaise contre une sorte darmoire; dans le fond, des outils de tous genres, des fagots, des bottes de paille, etc.
+
+Signe en bas a gauche:A.v.OsTADE FECIT.
+
+Achete chez M. Ch.Sedelmeyer a Paris.
+
+Sur bois.——Hauteur 24, largeur 31 centimetres.
+
+A l'envers du tableau un cachet avec les mots: Galerie Sedelmeyer.
+
+Mentionne dans C. Hofstede de Groot, Kritisches Verzeichnis der Werke der hervorragendsten Hollandischen Maler des XVIl Jahrhunderts, T. Ill, n° 2o6, ou le tableau est indique comme provenant de chez M. F. Kleinberger, a Paris.
+
+Voir la reproductiou.
+
+## 84 LEJOYEUX TRIO
+
+Cette petite scene tres caracteristique du maitre, pleine de bonhomie et d'une gaiete gouail leuse, represente trois personnages qui chantent joyeusement.
+
+Dans un joli clair-obscur, une grosse femme, son fichu blanc autour de la tete, est assise au milieu de la composition, tout pres d'un homme au dos tout voute, sortant du tableau a gauche, le nez et le menton crochus, avec une petite calotte sur quelques maigres meches de cheveux. Ils tiennent a eux deux, un feuillet de musique. Dans la main libre, l'homme tient une cruche; son pied gauche est pose sur une chaise, placée devant eux. Derriere le couple,un homme debout, a lair debraille, le bonnet enfonce sur l'oreille; gilet fonce et manches claires. ll bat la mesure sur le couvercle d'une cruche qu'il tient de la main gauche.
+
+Sur bois.— Hauteur 24,largeur 21 centimetres.
+
+Signe au milieu a droite, sur une table: A.v. OsTADE, 16.. Provient de la collection Chauchard.
+
+Decrit comme une ceuvre caracteristique du premier temps du maitre dans Hofstede de Groot, Beschreibendes und kritisches Verzeichnis der Werke der hervorragendsten Hollandischen Maler des XVII Jahrhunderts, T. IIl, n° 321.
+
+Voir la reproduction.
+
+## LE FUMEUR
+
+Un paysan fumant, vu a mi-corps, est éclaire de gauche par la lumiere d'une bougie venant du bas du tableau. Son corps est tourne de ce meme cote, ia tete, au contraire,vers la droite； les yeux sont diriges languissamment en haut. Des meches folles de cheveux en desordre
+## ADRIAEN VAN OSTADE (suite)
+
+retombent sur les oreilles et le front, ombrage en partie par un pauvre chapeau de feutre, qui se detache sur le fond de la composition et qui est, ainsi que son vetement, d'un brun-jaunatre. Un flet de fumee s'echappe de ses levres. La main gauche, puissante, tient une courte pipe.
+
+Signe au milieu a droite: A.v. OsTADE,1637. Provient de la collection du baron de Lansberg.
+
+Sur bois.—Hauteur 15.5,largeur 14 centimetres.
+
+Decrit dans: C. Hofstede de Groot, Beschreibendes u. kritisches Verzeichnis der Werke der hervorragendsten Hollandischen Maler des XVII Jahrhunderts,T. Ill. n 172. M. le Dr Hofstede de Groot dit que le tableau est beau et bien conserve.
+
+tres distinctement un 7.
+
+Il ajoute aussi que le dernier chiffre de la date n'est pas bien lisible. Cependant nous voyons
+
+Voir la reproduction.
+
+## 86 LES FUMEURS
+
+Dans un interieur rustique, cinq personnages se detachent sur un fond de douces tonalites brunes. Au centre de la composition,a l'avant-plan, se trouvent trois hommes, dont lun, vu de face et assis, un vere a la main. ll est vetu de violet avec manteau bleu-gris jete sur une epaule et ramene surlegenou droit. Plein de bonhomie il s'entretient avec son compere, debout, vu presque de dos, culotte violet clair, veste gris fonce a manches plus claires; il tient une pipe dans s la main gauche, tandis que la droite repose sur le dossier dune chaise a trois pieds, sur laquelle est posee une cruche en terre cuite. Derriere eux, deja dans lombre,un sous le manteau gris de la cheminee, une femme debout et un petit gargon assis aupres de l'atre, derriere une espece de table sur laquelle une terrine rouge. Une grande armoire brune, tout a larriere-plan, a gauche, dans l'ombre.
+
+Signe sur la cheminee: A.v. OsTADE, 1645.
+
+Provient de la collection Laurent Richard.
+
+Voirla reproduction.
+
+## ISAACK VAN OSTADE
+
+Ne a Haarlem en 1621, ou il mourut en 1649. Eleve de son frere Adriaen van Ostade
+
+## 87 INTERIEUR DE FERME
+
+Un chaud rayon de lumiere, penetrant par la porte ouverte,a gauche, eclaire linterieur d'une ferme, faisant ressortir les poutres de bois, les brins de paille, les divers ustensiles repandus sur le sol de terre battue; au centre, une poule jaune qui picore; au deuxieme plan a gauche, la jupe rouge d'une femme assise, vue de dos,au fond, aupres de la cheminee, a cote dun paysan debout. Tout le tableau est baigne d'une jolie lumiere brune et peint d'une touche large et facile.
+
+Signe en bas vers la gauche: IsAck VAN OsTADE.
+
+Sur bois.——Hauteur 3o,largeur 42 centimetres.
+
+Vente baron de Beurnonville a Paris, (9 mai 1881) n 411.
+
+A l'envers un cachet: Galerie Sedelmeyer a Paris.
+
+Mentionne dans C. Hofstede de Groot: Beschreibendes und kritisches Verzeichnis der Werke der hervorragendsten Hollandischen Maler des XViI Jahrhunderts, T. Ill, n° 195.
+
+Voir la reproduction,
+
+Sur bois.—Hauteur 28,largeur 23 centimetres.
+## 90 LE FUMEUR
+
+Dans une chambre basse et enfumee, un homme, chapeau et culotte noirs, vetement rougebrun, est assis sur un escabeau, au premier plan, devant une cheminee grise, ou bruile un feu de tourbe. Son visage, entoure d'une collerette plissee, ses mains, tenant, dans une pincette, un charbon brulant auquel il allume sa pipe, sont en pleine lumiere, de meme que la table,
+
+## ANTHONIE PALAMEDES
+
+Nea Delft en 16o1,mort a Amsterdam en 1673. Se developpa sous linfluence de Mierevelt,plus tard sous celle de l'ecole de Frans Hals.Vecuta Delft
+
+## 88 PORTRAIT D'UNEJEUNEFEMME
+
+Le corps et le visage de trois-quarts, tournes vers la gauche, les yeux gris regardant en face, elle est vetue d'une robe noire a large collerette blanche, ornee de guipure, sur laquelle un second col, tres transparent, termine en pointe et ferme par un petit nceud noir. Les cheveux tires sont dun blond chatain et coiffes d'un petit bonnet blanc, ajoure de la meme guipure. Fond brun jaune.
+
+Signe a gauche:A. PALAMEDEs pinxit A° 1644.
+
+Provient de MM. Le Roy freres a Bruxelles.
+
+## 89 LE PILLAGE D'UNE FERME
+
+Tout un monde de soldats installes dans l'interieur d'une grande ferme, prise de force. Autour d'eux leur butin et les paysans victimes du pillage A droite, dans un rayon de lumiere venant de la gauche pres de la haute cheminee, le chef,vetement bleu et jaune a manches blanches, chapeau gris a plumes bleues sur ses cheveux boucles, fume, debout devant ses hommes. L'un d'eux en rouge-brun tout en avant,a cote de son tambour, brun jaunatre, pres d'une botte de paille.
+
+avec un soldat portant cuirasse et casque et un pantalon brun, s'entretenant avec une vieille. Faisant partie du groupe, un sous-officier tout en gris et jaune, une feuille de papier a la main, montre du doigt a son chef quelques soldats en jaune et rouge, venant de gauche et trainant une caisse qu'ils amenent. Au premier plan, dans lombre, des armes. Dans le fond gris, encore quelques soldats.
+
+Agenouille devant le chef et lui demandant grace, un paysan en vetement jaune tres clair,
+
+Sur bois.—Hauteur 58,largeur 75 centimetres A l'envers un cachet de la Galerie Sedelmeyer. Provient de la collection de Madame Louis Stern a Paris. Euvre caracteristique de la deuxieme periode du maitre (environ 164o-1645).
+
+Voir la reproduction.
+
+## ABRAHAMDEPAPE
+
+Ne vers 162o-25 a Leyde ou il mourut en 1666.Eleve de G.Dou
+
+Sur bois.-—Hauteur 24.5,largeur 2o centimetres.
+placee devant lui, et la cruche blanche et bleue,le verre de biere, l'assiette,le hareng, le
+
+Tout a l'arriere plan, dans l'ombre, on distingue un couple amoureux et un homme qui joue du violon.
+
+couteau, dont la table est chargee.
+
+A l'envers, un cachet anglais peu distinct. Provient de la collection de Mercy-Argenteau.
+
+Sur bois.-Hauteur 31, largeur 24.5 centimetres.
+
+Euvre caracteristique de ce maitre rare, dont les meilleurs tableaux se trouvent aux Musees de Dublin,de Dessau, de La Haye, de Londres, de Schwerin et dans les collections du marquis de Bute, de M. van Alen en Angleterre et du duc d'Arenberg.
+
+Voir la reproduction.
+
+## EGBERT VAN DER POEL
+
+Ne a Delft en1621,mort a Rotterdam,664.1l vecut aDelft jusquen653.Peintre d'incendies nocturnes,deffets de lue, de paysages, de groupes et d'interieurs
+
+## 91 PAYSAGED'HIVER
+
+Sous un vaste ciel gris s'etend un large fleuve entierement gele, borde a gauche par quelques au deuxieme plan, un autre moulin. A l'horizon, la silhouette vague de la tour de la grande eglise de Delft. De nombreux groupes animent la glace: des patineurs, des traineaux, dont l'un tire par un cheval blanc au centre de la composition. Tout au premier plan a gauche, une petite barque prise dans la glace ayec deux personnages dont l'un vu de face appuye sur son baton, l'autre, assis au bord de la barque, occupe a mettre ses patins.
+
+Signe en bas a gauche:E vAN DER PoEL
+
+Sur bois.-Hauteur 35,largeur 5o.5 centimetres.
+
+## WILLEM DE POORTER
+
+Peintre hollandais, influence par Rembrandt.Il travailla dans la premiere moitie du XVlle siecle a Haarlem.Mort apres 1646
+
+## 92 L'ADORATIONDESBERGERS
+
+Au centre,bien en n lumiere, trois personnages autour de l'Enfant Jesus dans une creche. L'enfant est enveloppe dans des couvertures; sa petite tete repose sur un oreiller blanc que la Vierge soutient de son bras gauche. Elle est vue de face, la tete recouverte d'une draperie et mentonniere blanche, sur une robe bleue. A droite saint Joseph en gris et une femme en gris fonce, priant. Les deux autres groupes de trois personnages a droite et a gauche de la creche, disparaissent plus ou moins dans l'ombre de l'etable ainsi que le boeuf et l'ane que l'on devine tout a gauche. Au pied de la creche a gauche, une femme agenouillee, vue de dos en casaquin rouge. A droite, agenouille sur un tronc d'arbre contre la creche, un berger en rouge,les mains jointes,une sacoche grise pendue a la ceinture. Derriere lui, encore deux bergers, dont l'un en violet. Dans la penombre une echelle, du foin, des fagots de bois.
+
+Sur bois.-Hauteur 21,largeur 385 centimetres.
+
+Signe sur le tronc d'arbre: W D P.
+## 94
+
+## HENDRICK POT
+
+Nevers158a Haarlem,mortaAmsterdamen 1657.l etait levedeKarelvan Mander a Haarlemet subit linfuencedeFrans Hals
+
+## 93 LA RICHE HERITIERE
+
+Une jeune femme richement vetue en robe de soie jaune, est assise nonchalamment au centre de la composition, entouree de ses richesses; son bras droit repose sur une table couverte d'un tapis de soie H bronze, sur lequel des bijoux, des livres et instruments de musique; par terre,une cassette remplie de chaines precieuses, des vetements, un chapeau jaune corne de plumes blanches et de feurs rouges, un chien tachete de brun et de blanc, au pied de sa maitresse, et un petit chat noir derriere un miroir. Elle semble pensive, comme si la lecture d'une lettre sur ses genoux, peut etre une demande en mariage,lui donnait a refechir. Une vieille, penchee derriere elle, lui montre de la main droite une rose qui commence a s'effeuiller comme la beaute au declin de la jeune femme, qui n'est plus de toute premiere jeunesse: de la main gauche, la vieille tient une tete de mort:,vanite des vanites, tout est vanite, semble-t elle dire. Les murs gris sont nus; a gauche, un lit entoure d'un rideau bleu vert.
+
+Signe sur la lettre du monogramme H P.
+
+Voir la reproduction.
+
+Sur bois.—Hauteur 57, largeur 73 centimetres.
+
+Vendu a Anvers en 18o6 avec le cabinet de Mme Van Velsen, n°13 du catalogue, comme 1euvre de Jean le Duc. Le catalogue de cette vente dit e.a.:,Ce morceau frappant est absolument un chef-d'ceuvre du peintre,et ne doit nullement etre compare avec d'autres, soit ,de lui ou passant sous son nom: un grand fini, nonobstant la touche hardie et spirituelle, la chaleur et le feu des couleurs qu'on trouve rarement dans ses tableaux, enfin le faire en general, donnent a ce precieux tableau un piquant sublime.
+
+## REMBRANDT
+
+Nea Leyde en 16o6,mort aAmsterdam en 1669.Eleve deJacob van SwanenburghaLeyde,et de PieterLastman a Amsterdam
+
+## TETEDEVIEILLARD(GRISAILLE)
+
+Toute la prodigieuse virtuosite du maitre se trahit dans cette tete puissante. Les yeux profonds regardent a gauche; tout le visage est ravage par l'age, sillone de rides profondes.
+
+La lumiere vient du haut a gauche. Tout petit buste, sur un fond gris clair.
+
+Les cheveux sont longs et en desordre, la barbe blanche inculte Manteau gris.
+
+Signe en haut: REMBRANDT 1633. Sur bois.-Hauteur 1o.5, largeur 7 centimetres.
+
+Mentionne dans Wilhelm Bode, Rembrandt, Beschreibendes Verzeichnis seiner Gemalde mit den heliographischen Nachbildungen. Geschichte seines Lebens und seiner Kunst, Verlag Charles Sedelmeyer, Paris. Band VIl, n565.
+
+Collection anonyme a Paris en 1goo.—Achete chez M F. Kleinberger a Paris.
+
+Voyez aussi: Klassiker der Kunst, Bd II, des Meisters Gemalde mit Text von W. R. Valentiner, 3 Auf. S. 114, et l'article de M. F. Schmidt-Degener, dans la .Gazette des Beaux Arts", 1906, P.276,qui nomme cette spirituelle etude'le plus petit Rembrandt qui existe, minutieuse
+
+Exposition Rembrandt a Leyde, juillet-septembre, 19o6,n51 du catalogue.
+
+grisaille d'un beau ton de vieil or.
+
+Exposition de la Miniature, Bruxelles, 1912. n° 1o46 du catalogue.
+
+Voir la reproduction.
+## 96
+
+## SIR JOSHUA REYNOLDS
+
+Ne a Plympton,Devonshire,en 1723 mort a Londres en 1792.Eleve de Thomas Hudson.Visita lItalieRome）et la France (Paris)et travailla surtout a Londres
+
+## 95 PORTRAITDEL'ARTISTE
+
+En buste et de profil a droite, dans un cadre ovale. Il porte un large vetement rouge, ouvert sur la cravate et le jabot blancs et dont un pan est ramene sur son bras droit. Il a la bouche finement ciselee et charnue, le front haut et fuyant, les cheveux rejetes vivement en arriere. La tete, tournee de face caracterise l'artiste et l'homme plein d'energie et de noblesse.
+
+Sur toile (encadre en ovale).-Hauteur 28.5,largeur 24 centimetres.
+
+Voir la reproduction.
+
+## PETRUS PAULUS RUBENS
+
+Ne a Siegen en 1577, mort a Anvers en 1640
+
+## PORTRAIT D'UNE FEMME AGEE
+
+Portrait, peint, selon linscription,le 29 decembre 1631, quand cette femme avait soixantequatre ans. Elle est representee vetue dans une robe noire a grosse fraise godronnee, emboitant la tete que couvre un fin beguin, laissant voir le devant des cheveux blancs avec quelques meches grises; l'expression des yeux gris-clairs est sympathique, un peu triste, dans un visage au teint encore singulierement frais et rose. Fond d'un brun verdatre transparent.
+
+Sur bois (encadre en ovale).-Hauteur 48.5, largeur 63.5 centimetres.
+
+En haut a droite pres de la fraise linscription:AEtesve 64 van den 29 Decem. 1631.
+
+Le portrait est entoure d'un ovale, peint en gris dont les coins, imitant la pierre, sont caches sous le cadre ovale.
+
+Exposition d'Art Ancien. L'Art Belge au XVllme siecle, Bruxelles 19io, juin-novembre, n°293 du catalogue.
+
+A l'envers, une marque de la collection von Heffner Alteneck a Munich dont le tableau provient.
+
+Voyez: Tresor de l'Art Belge au XVlIme siecle.- Memorial de lExposition d'art ancien a Bruxelles en 191o. G. Van Oest &amp; Cie, Bruxelles et Paris, 1912, n° XXXI (293）. Tome I, p. 8o. Reproduit sur planche 29.
+
+Selon les communications orales de feu MM. Max Rooses et Henry Hymans, ils etaient convaincus de l'authenticite de ce portrait.
+
+Voir la reproduction.
+## 97 LETOURNOI
+
+Aumilieu d'un paysage accidente, embrase par les reflets du soleil couchant, six cavaliers,au et les machicoulis sont domines par la haute silhouette d'une tour.
+
+Au loin la plaine immense, quelques bouquets d’arbres, des pres, des champs.
+
+Sur bois.——Hauteur 47,largeur 65 centimetres.
+
+Exposition d’Art Ancien.L'Art Belge au XVllme siecle, Bruxelles, 19io,juin-novembre,n292
+
+Voyez: Tresor de PArt Belge au XVllme siecle. Memorial de l'Exposition d'Art Ancien a du catalogue.
+
+Bruxelles en 191o.G. van Oest &amp; Cie, Bruxelles et Paris, 1912, T. I,n°Lll (292). Reproduit sur Planche 45.A la page 114 on lit:
+
+Louvre est peint entre 163o et 1643."
+
+,Ce tableau est a rapprocher d'un Paysage du Musee de Berlin et d'un Paysage avec tournoi du Louvre. Le tableau de Berlin qui provient de la collection de Lord Clinton Hope est une etude pour le tableau du Louvre. On voit dans les deux ceuvres une tour pour laquelle Rubens s'est inspire des restes medievaux qui subsistaient dans son domaine du Steen. Le tableau du
+
+Voyez aussi: Emile Michel, Rubens au Chateau du Steen,Revue de l'Art ancien et moderne, Mars 1898.
+
+Voir la reproduction.
+
+## PORTRAITD'HOMME
+
+Un homme de qualite, en buste, vu de trois-quarts a gauche, a cheveux gris, a barbe blanche, regarde le spectateur,de ses yeux brunsclair,au regard doux et scrutateur.e visage allonge, aux couleurs fraiches encore, le front haut,les sourcils arques, le nez droit,decelent l'homme de race. Une large fraise tuyautee, tres en lumiere, de meme que le visage, eclaire un vetement noir. Fond brun rougeatre.
+
+Derriere,une tres ancienne inscription ,von Rubens”
+
+Sur bois.——Hauteur 52,largeur 4o centimetres.
+
+Provient de la collection du Prince de Schwarzburg-Rudolstadt.
+
+Voir la reproduction.
+
+## PETRUS PAULUS RUBENS,(ecole de)
+
+## 99 PORTRAITD'UNSEIGNEUR
+
+Il est vu de mi-corps, tourne de trois quarts a droite, dans un manteau de velours noir, aux riches dentelles, encadrant la tete intelligente du personnage dont l'aristocratie semble encore rehaussee par les ombres d'une transparence et d'une finesse hors ligne qui se jouent autour de la bouche energique; les yeux gris et brillants regardent en face. Le front est haut sous
+
+## 98
+l'epaisse chevelure brune; le nez droit, legerement creuse au milieu; la moustache soignee, la barbiche en pointe, rousses toutes les deux; le teint frais est d'un homme plein de force et de sante. La main gauche, puissante et pleine de volonte, est ornee d'une ebague et repose sur la large echarpe de soie noire qui entoure la taille pour remonter sur l'epaule du personnage. Tout a droite une forte ombre d'un brun grisatre.
+
+Sur bois.—Hauteur 67.5,largeur 53 centimetres.
+
+Provient de la collection du comte de Mouturac a Amiens. Ce tableau a éte vendu pour un B. van der Helst. Cependant la technique nous semble famande; la transparence et l'expression caracteristique du visage rappellent vivement Rubens.
+
+C'est une cuvre de maitre, mais d’un maitre dont nous ignorons malheureusement le nom.
+
+Voir la reproduction.
+
+## 100 LA CLAIRIERE
+
+Sous le feuillage de grands chenes vient se glisser un rayon de soleil qui eclaire en plein le tronc elance de l'arbre qui forme le centre du tableau, caressant l'herbe qui couvre un vague petit ruisseau, qui coule a droite au premier plan, cachant ses eaux sous la verdure. Tout au loin, a travers les arbres, encore une clairiere, fermee a l'horizon par un lointain boise.
+
+Signe en bas a gauche: J. v. R. 1646.
+
+Sur bois.-Hauteur 47,largeur 39 centimetres.
+
+Decrit dans C.Hofstede de Groot, Beschreibendes und kritisches Verzeichnis der Werke der
+
+Tableau de la premiere periode du maitre.
+
+hervorragendsten Hollandischen Maler des XVIl Jahrhunderts. Band IV, Zusatze n° 448a.
+
+Voir la reproduction.
+
+## I0I L'APPROCHE DE L'ORAGE
+
+Toile vibrante de vie et de force, rendant magnifiquement un coin de nature a la vegetation eminence de sable, qui contourne une route etincelante de lumiere, avec quelques petits personnages, puis disparait dans la profondeur de la futaie aux sous-bois epais et sauvages. Au deuxieme plan, a droite et a gauche de la composition, deux maisons, cachees dans la verdure.
+
+Par la-dessus un ciel menagant, charge de nuages orageux blancs et gris.
+
+Sur toile.—Hauteur 555, largeur 67 centimetres.
+
+Signe en bas a droite des traces de la vraie signature du maitre.
+
+Provient de la collection Roussille.
+
+Decrit dans C. Hofstede de Groot, Beschreibendes und kritisches Verzeichnis der Werke der hervorragendsten Hollandischen Maler des XVIlen Jahrhunderts. Band IV,n 448.
+
+Voir la reproduction.
+
+## JACOB RUYSDAEL
+
+Ne a Haarlem en 1628ou 1629,ou il mourut en 1682.Eleve probablement de son oncleSalomon van Ruysdael,et peut-tre de Cornelis Vroom.Il travailla a Haarlem et a Amsterdam
+## 103
+
+## 104
+
+## JACOB SALOMONSZ. RUYSDAEL
+
+Ne a Harlem vers 163o ouil mourut en 1685.Eleve et fils de Salomon van Ruysdael.Imitateur de Jacob Isaackz.vanRuysdael
+
+## 102 TROUPEAUAUBORDD'UNERIVIERE
+
+Sur la rive droite,au premier plan,un groupe de beaux arbres,a la sortie d'un bois, abrite un troupeau de vaches et de moutons qui s'approchent de la riviere. Celle-ci coule paisiblement entre des collines boisees, ornees, sur la gauche, d'une vieille tour et de murs en ruine. Ciel nuageux.
+
+Signe en bas a droite du monogramme et date 1665.
+
+Collection Lady O. Shaw Stewart. Vente a Paris, le 8 mai 19o8. Collection M. P. M...., n 64 du catalogue.
+
+Voir la reproduction.
+
+## SALOMON RUYSDAEL
+
+Nea Haarlem ()vers 16oo, mort dans cette ville en 167o.Il fut probablement 1eleve d'Esaias van de Velde et de Jan van Goyen.Il travaillaa Haarlem
+
+## LA RIVIERE
+
+Un vaste ciel dun gris bleute, assez uniforme, aux legers nuages gris et blancs, s'etend sur une riviere qui, partant du premier plan a droite, decrit une large courbe pour se perdre dans un lointain vague, au fond de la composition. Elle baigne a droite une rive boisee, couverte de beaux arbres d'un gris verdatre, laissant entrevoir quelques habitations et jetant une jolie ombre transparente dans l'eau claire, d'un bleu mele de gris, animee par deux petites barques brunes. Dans celle du premier plan a gauche, un homme en vert mat et un rameur en gris brunatre. Au premier plan au milieu un tonneau fottant.
+
+Signe du monogramme et portant la date de 1637.
+
+Voir la reproduction.
+
+## LES COLLINES
+
+Un paysage accidente, d'une vaste etendue. Dans le lointain toute une ville se devine dans la brume,a l'horizon, sous un ciel profond.
+
+quatrieme a gauche.
+
+Le terrain s'etage en larges vallonnements. Trois moulins a vent, sur la crete a droite. Un
+
+L'avantplan est d’une belle facture vigoureuse, les broussailles et le sol sablonneux, ravine, sont de cette note caracteristique qui se retrouve souvent dans S. Ruysdael comme chez van Goyen.
+
+Signe en bas au milieu: S.v.R.
+
+Acquis de M. G. Horemans.
+
+Voir la reproduction.
+
+Sur bois.——Hauteur 27, largeur 35 centimetres.
+
+Sur bois.—Hauteur 3o,largeur 49.5 centimetres.
+
+Sur bois.——Hauteur 84,largeur 115 centimetres.
+## 105 VUESUR ARNHEM
+
+petite eminence, couronnee d'un bouquet d'arbres, terminee par une mince bande de terre avec six vaches se mirant dans les eaux transparentes；; puis le fleuve, tournant sur la droite au dernier plan,baigne Arnhem avec ses tours et ses clochers, finement estompes dans un ciel clair.A droite, un bateau a voile avec de petits personnages; un second sans voiles, au centre du premier plan, s'approche de la berge d’ou un homme courbe le tire sur la rive.
+
+Signe a gauche sur la berge et date 1643.
+
+Voir la reproduction.
+
+## LA FERME ETLES POURCEAUX
+
+Quelques miserables chaumieres forment a peu pres le centre de ce joli tableau; elles sont baignees dans des tons chauds de rose, de gris, de brun, ainsi que la vieille charrette et les quelques paysans se trouvant au bord de la route ensoleillee qui se perd, au loin a droite, dans des tons gris-bleu. Le contraste est frappant, avec le premier plan, plonge dans une ombre profonde et brune. Un grand saule tout a droite, sur une elevation de terrain, se detache fineen violet, étendu par terre, lautre appuye sur son baton, gardent leurs pourceaux dont trois accroupis l'un pres de l'autre, un quatrieme, etendu tout de son long, tandis qu'un cinquieme au-dela de la route va se rechauffer au soleil.
+
+Sur bois.—Hauteur 37,largeur 47.5 centimetres.
+
+Sur bois.——Hauteur 4o, largeur 54 centimetres.
+
+Signe au milieu du premier plan:S.v.RvyEsDAEL 1629
+
+Voir la reproduction.
+
+## 107 LEBAC
+
+Un canal aux eaux tranquilles occupe tout le devant de la composition et se perd a droite a l'horizon, sur lequel se detachent delicatement les voiles des barques contre un ciel uniforme; a gauche tout un rideau d'arbres aux frondaisons finement estompees, d'un vert grisatre,laissant entrevoir ci et la les toits des petites chaumieres. Devant celle du premier plan a gauche, un groupe de paysans ramenent leurs bestiaux sur un bac éclaire par une douce lumiere qui jette son ombre epaisse sur le bouquet d'arbres et l'eau, a gauche. Des petits canards, des barques avec des pecheurs surveillant leurs filets, que lon voit emerger de l'eau, animent le canal.
+
+Sur bois.—Hauteur 445, largeur 8o centimetres.
+
+## 106
+
+## SALOMON RUYSDAEL (sute)
+
+Signe sur le bac a droite: S. v. R. 1637. Provient de M. Schwarz a Vienne.
+
+Voir lareproduction.
+## 108 SURLA GLACE
+
+Au deuxieme plan, tout a droite,une maison, pres de laquelle une meule de foin et quelques arbres aux branches denudees, sur une petite langue de terre qui s'avance dans la riviere;la vaste nappe gelee de celle-ci s'epanche a perte de vue jusqu'a un horizon boise se fondant dans gris et blancs. Sur la glace, au centre du premier plan, nombre de traineaux atteles de chevaux et charges de marchandises ou de personnages.
+
+Tableau peint dans une fine gamme de brun, de gris et d'ocre.
+
+Sur bois.——Hauteur 31.5,largeur 43 centimetres.
+
+Signe en bas a gauche, sur un morceau de bois:v. RuysDAEL 1627. Achete chez M. F. Kleinberger a Paris.
+
+Voir la reproduction.
+
+## 601 BARQUE SUR UNE RIVIERE
+
+Beaucaup de charme et de sentiment dans cette eau, qui remplit toute l'etendue de panneau, si calme et si transparente qu'elle reflete fidelement le moindre nuage, sous des effets de soleil et d'ombre d'un attrait particulier. Gracieuse aussi la grande barque, a droite, dont une brise gonfle les voiles deployees et fait fotter le petit pavillon au haut du mat. D'autres barques, montees de nombreux petits personnages, croisent la riviere, sur laquelle des mouettes au large vol. Fermant l'horizon des petites maisons, un moulin a vent s'elevant sur le ciel clair, se mirent dans les eaux de la riviere, qui disparait entre des berges basses.
+
+Signe sur la barque: S. v.R. Voir la reproduction.
+
+Sur bois.——Hauteur 16, largeur 23 centimetres.
+
+Collection Rothan, vendue a Paris le 29-31 Mai 189o.
+
+## DAVID RIJCKAERT,III
+
+Ne a Anvers en 1612, mort dans cette ville en 1661.Eleve de son pere David Rijckaert II
+
+## LE VIEILLARD AMOUREUX
+
+## 110
+
+Dans une chambre un homme age, tout chauve, ceint dun rude tablier de cuir, fait la cour a une jeune femme, assise a cote de lui, un verre dans la main droite. Devant eux, sur une petite table couverte d'une serviette,une cruche de vin et un beau jambon. Dans le,coin droit de la piece, derriere une petite barriere, un homme vu de dos. Juste au-dessus du couple,a travers une petite lucarne, on voit une vieille epiant la scene. Son doigt, qui les designe, ses yeux ecarquilles en disent long, sur les sentiments qui l'animent.
+
+Au premier plan, tres belle nature morte: une grosse cruche en gres a couvercle d'etain, un balai, un chat pres d'une terrine en terre. Au mur un paysage dans un cadre noir. Par la porte grande ouverte, a l'extremite droite, on voit un coin de dunes, des arbres et un couple enlace, sous un ciel charge de nuages.
+
+Signe en bas a gauche: D. RycKAERT.
+
+Voir la reproduction.
+
+Sur bois.—Hauteur 51, largeur 73 centimetres.
+
+un ciel d'hiver froid et plombe,a nuages g Tout a droite, deux hommes jouant au golf.
+## II2
+
+## HERCULES SEGHERS (maniere de)
+
+## III PAYSAGEITALIEN
+
+Beau paysage representant un feuve venant du deuxieme plan a droite,contournant vaguement des rives montagneuses, pour se perdre dans un horizon brumeux et grisatre, au dernier plan. Au deuxieme plan,a gauche, des montagnes brunes, des rochers couverts de verdure, passant rouge toute ensoleille, s'abritant contre le massif sombre de la montagne, les quelques arbres en plein soleil, dans une note rousse accentuee. Le premier plan, tout dans l'ombre, laisse entrevoir, a gauche,un homme sur une mule, deux autres petits personnages, des brebis,un berger, dont le bonnet d'un rouge ardent eclaire seul les teintes sombres. Dans le lointain, petits personnages spirituellement touches.
+
+Un beau ciel d’un bleu clair et transparent, de fins nuages blancs et gris, completent l'impression d'harmonie qu'inspire ce paysage.
+
+Voir la reproduction.
+
+Sur bois.——Hauteur 33.5, largeur 54 centimetres.
+
+## CORNELIS SIMONSZ.VAN DER SCHALCKEN
+
+Nea Haarlem en 16il,mort dans cette ville en 1671.Il etait sacristain de leglise Saint-Bavon a Haarlem.Frans Hals a
+
+## PAYSAGE
+
+Sous un ciel nuageux on voit, a gauche,une petite ville fortifiee avec une eglise a grande tour. Au bord du fleuve au milieu de la composition, trois personnes dont deux sont occupees a pecher a la ligne. Plus en arriere une ,trekschuit",bateau-omnibus,hale par deux chevaux, sur l'un desquels est monte lejager'(chasseur).
+
+Signeenbasadroite etdate1664.
+
+Sur bois.——Hauteur 31, largeur 47 centimetres.
+
+Decrit et reproduit dans 1Album Bredius, 1915, p. 184, article de la main du Dr W. Martin. Voir aussi: Wurzbach: Niederl. Kunstlerlexikon et les livres cites la; Nagler,Kunstlerlexikon; Kramm; Zeitschrift fur Bildende Kunst, VIl, s. 173; Bulletin v/d Ned. Oudheidk. Bond, T. 1, p.92; Granberg, Collections privees en Suede, 1886, p. 22o; Granberg, Tresors d'Art en Suede I (1911) p. 23; Dr C. Hofstede de Groot, Sammlung Schubart.
+
+Voir la reproduction.
+## JAN STEEN
+
+Ne a Leyde en 1626,ou il mourut en 1679. Eleve de Nic.Knupfer et de son beau-pere Jan van Goyen.Travailla a Leyde, aLa Haye eta Haarlem
+
+## 113 L'ARRACHEURDEDENTS
+
+Un groupe de quatre personnes dans une piece bien eclairee, dont les deux tables, la petite armoire au mur, sont remplis d'objets et d'ustensiles a destination mysterieuse, comme le hibou a gauche et les petits crocodiles pendus au plafond. La victime, assise sur une chaise,la tete penchee de force en arriere par le charletan qui, de la main gauche, lui empoigne les cheveux, et de la main droite brandit sa pince; sa tete enfoncee entre les epaules est coiffee d'un haut bonnet. Sa figure est pleine de malice. Derriere ces personnages, une femme debout, les mains jointes, semble pleine de pitie pour le patient. Un gamin,vraie tete de vaurien, agenouille par paysan et de lui voler les ceufs contenus dans un panier pose par terre.
+
+Signe en bas a gauche.
+
+Provient de la collection A. Schloss a Paris.
+
+Le garcon est le meme que celui du tableau ,Le menage en desordre" chez le duc de Wellington a Londres, reproduit dans l'article sur Jan Steen par Dr. W. Martin dans ,L'Art Flamand et Hollandais",Nov. 1go9,p.149.
+
+Voir lareproduction.
+
+## 114 AU DEVANT DELA FIANCEE
+
+Une foule de femmes venant de droite,accompagne la fiancee du village quembrasse le fiance venant de gauche, avec un autre personnage qui souleve son chapeau pour saluer la fiancee, en descendant les marches d'une auberge. Au haut des marches, un autre homme,les bras enl'air, pants des fenetres du premier etage.
+
+avec un bambin sur le bras. lls sont vus de dos. A droite un homme et une femme sur une caisse.
+
+Sur papier, maroufe sur toile.—Hauteur 3o, largeur 4o centimetres.
+
+Signe a droite en bas, du monogramme: J. S.entrelaces.
+
+peut-etre unique dans son genre. On reconnait aisement la main du maitre dans cette virtuosite,
+
+M. le Dr. Martin dit que c'est une etude pour le tableau de la collection Goudriaan a Rotterdam.
+
+cette surete et cette fraicheur.
+
+Voir la reproduction.
+
+Sur bois.-Hauteur 37,largeur 29.5 centimetres.
+## 115 L'INTENDANT
+
+Portrait, largement enleve, d'un homme aux cheveux chatains, aux yeux noirs, au teint colore, aux moustaches en croc, represente en pied, vetu de noir, ayant une clef dans chaque main. Il sur un coin de table, aux pieds bruns,recouverte d'un tapis rouge, sont places quelques volumes a reliures ocre ou rouge, et un pli adresse ,aux Etats".
+
+Signe du monogramme en bas a gauche.
+
+Sur bois.—Hauteur 29.5,largeur 17 centimetres.
+
+Provient de la collection Rothan, vendue a Paris, les 29-31 mai 18go, n°11o du catalogue. Reproduit dans le catalogue de cette vente.
+
+Exposition d'Art Ancien.L'Aart Belge au XVlle siecle. Bruxelles, 1gio. Juin-novembre; n 449 du catalogue.
+
+## 116 PETITPORTDE MER
+
+Un ciel charge de lourds nuages plane sur un coin de mer agitee que l'on apergoit a droite, sur une anse servant de port et sur une eminence, couronnee par une vieille tour et un reste de mur. Une porte en ruines, pres d'une pauvre habitation et de rochers sur lesquels croit unemaigre vegetation.Un chemin, eclaire par un rayon de lumiere, descend la pente pour arriver au port. Plusieurs pecheurs avec des paniers de poissons qu'une barque amarree a la rive vient d'apporter. Jolie composition.
+
+Signe en bas a gauche: D. TeNIErs F.
+
+Provient de la collection du comte de Villers.
+
+Exposition d’Art Ancien.L'Art Belge au XVIle siecle. Bruxelles, 19io, Juin-novembre,n 484bis du catalogue.
+
+## LEJEU DE BOULES
+
+Sur une place de village entouree de batiments et plantee de quelques arbres, un grand nombre de paysans se livrent a divers jeux. Au premier plan a gauche, a l'entree d'un cabaret, un groupe dhommes attable, cause avec un vieux appuye sur son baton. Occupant le reste du premier plan, une dizaine de joueurs de boules; l'un d'eux assis sur un banc; trois autres a gauche jouent, tandis que les autres, tout a droite, suivent larrivee des boules.Plus loin,des groupes de deux, de trois paysans. Tout au fond, sortant d'une porte, le gros aubergiste avec une cruche et un plateau.
+
+Signe du monogramme en bas a droite.
+
+Sur bois.—Hauteur 42, largeur 64 centimetres.
+
+Exposition d’art ancien. L'Art Belge au XVlIme siecle. Bruxelles, 19io, Juin-novembre; n 450
+
+Provient de la collection de Witte della Faille.
+
+du catalogue.
+
+Tresor de l'Art Belge au XVlle siecle. Memorial de l'Exposition d'art ancien a Bruxelles Reproduit sur planche 113.
+
+Voir la reproduction.
+
+## 117
+
+## DAVID TENIERS,LE JEUNE
+
+de Rubens et d'Adriaen Brouwer.Il travailla a Anvers et a Bruxelles
+
+Sur bois.——Hauteur 16.5,largeur 30.5 centimetres.
+## 118 LECONCERT
+
+Un vieillard a cheveux gris est assis devant une table recouverte d'un tapis rouge et chargee de cahiers de musique; il joue du luth, la tete legerement inclinee. Son bonnet rouge a plumes blanches est place negligemment sur l'oreille droite; un petit col blanc orne sa veste grise. Derriere lui, a gauche, un jeune homme, vu presque de face, jouant de la fute, se detache sur un fond gris verdatre.
+
+Sur bois.——Hauteur 36, largeur 27 centimetres.
+
+## PETER THIJS
+
+## ADRIAENVANDE VENNE
+
+Ne aDelft en 589,mort a La Haye en662.ElevedeSimon deValck,orfevre aLeyde,et deJeronimus vanDiest a La Haye
+
+## I20 LADANSEDESPAYSANS
+
+Grisaille d'un mouvement spirituel, representant les viliageois en fete, groupes autour dun mat de cocagne, feuri a son faite. Grotesque et vivant, le groupe de deux hommes et d'une femme, vu presque de face, dansant au centre de la composition, au son du violon d'un musicien. Il est debout a gauche et vu de dos,une pipe passee dans son bonnet. Son chien,excite par les danseurs aboie,a cote de lui. Une femme assise a droite,un bambin sur les genoux les regarde d'un air hebete. Au fond, nombre d'autres groupes sont esquisses.
+
+Sur bois.——Hauteur 41.5,largeur 55 centimetres.
+
+## LE PSEUDO VAN DE VENNE
+
+- 119
+
+## 121 TYPEDEFEMME
+
+Sur un fond brun, avec des parties de vert et de gris, s'enleve la tete d'une vieille femme, second, tout blanc. Sa robe est d'un gris tirant sur le violet, ornee d'un col de fourrure ocre, d'une touche tres libre, presque brutale. Le visage, le cou portent les traces d'une vie de labeur,malgre le vermillon des joues; les chairs sont fasques et toutes ridees,la levre inferieure pendante;le nez crochu et dur, l'eil fortement arque, a l'expression rusee. Tres interessant
+
+Sur bois.Hauteur 41, largeur 32 centimetres.
+
+propose le nom de Pseudo van de Venne. Voyez aussi Frimmel dans ses ,Blatter fir GemaldeDr W.Martin,Alt-Hollandische Bilder, Berlin, Schmidt &amp; Co,1921,P. 32-33.
+
+tableau.
+
+Voyez sur ce peintre: Scheibler,Repertorium fir Kunstwissenschaft,VI,p.192,ou ce dernier kunde",II (1go6),p.98. 1l y enumere, ainsi qu'en d'autres endroits,plusieurs tableaux, represen tant surtout des scenes de Bohemiens, qui nous rappellent aussi cette etude-ci. Voyez encore:
+## 123
+
+## PIETER VERELST
+
+Ne a Dordrecht avant 1618; s'installa a La Haye en r643 et quitta cette ville vers 1668
+
+## I22 PORTRAITD'UNEVIEILLEFEMME
+
+Une vieille aux yeux bruns percants nous regarde en face a travers ses sourcils. Ses traits rides parlent de labeur; la bouche aux levres minces est toute rentree, les joues sont pendantes. Les cheveux sont caches sous le simple bonnet blanc qui couvre la tete, la dessinant nette men contre un fond d'un brun tres fonce. Elle est vue de face a micorps et vetue d'une casaque d’une tonalite saumon et d'un simple tablier d’un vert mat.
+
+Sur bois (encadre en ovale).—Hauteur 16.5,largeur 12.5 centimetres.
+
+Exposition de portraits anciens, Bruxelles 1897.
+
+Achete chez M. F. Kleinberger,a Paris.
+
+## SIMON DE VLIEGER
+
+Ne a Rotterdam en 16o1, mort a Weesp en 1653 (). Probablament eleve de Julius Porcellis et de Willem van de Velde le Vieux. Willem van de Velde le Jeune,Hendrick Dubbels et probablement aussi Jan van de Capelle ont ete ses eleves
+
+## GROS TEMPS
+
+Un profond ciel gris, couvert de gros nuages laissant entrevoir ci et la un coin de ciel bleu, s'étend sur les eaux a argentees d'une mer agitee, aux vagues courtes, se brisant en pointes blanches. Au loin, a gauche,la silhouette d'une ville, probablement Zierikzee,avec ses toits et ses clochers.Dispersees ga et la sur la toile,avec leurs grandes voiles grises,a pavillons rougeblancbleu, au haut du mat et a la barre, des barques de pecheurs luttent contre le vent et les vagues.
+
+Signe a droite en bas: S. D. V. A 1653.
+
+Sur toile.—Hauteur 9o.5, largeur 122 centimetres.
+
+## WILLEM VAN DER VLIET
+
+Ne a Delft vers 1584, ou il mourut en 1642. Il travailla dans sa ville natale d’abord comme peintre d’histoire, ensuite comme portraitiste
+
+## 124 PORTRAITD'UNSEIGNEUR
+
+Un personnage debout, vu jusquaux genoux, tourne vers la droite, s'enleve sur un fond gris verdatre. l est entierement vetu de noir avec un grand col de linge plisse et des manchettes blanches. La main droite est placee sur sa hanche; la gauche, ornee au petit doigt d'une bague, repose dans un pli du manteau. Le visage a une expression quelque peu sarcastique: les yeux sont gris et rides dans lescoinsle nez tres grand et droit,la petite barbiche en ointeblonde ainsi que la moustache. Des cheveux chatains encadrent un front large et haut. L'ensemble est d'une fort jolie tonalite.
+
+Sur bois.—Hauteur 113,largeur 82 centimetres.
+
+Signe en haut a droite: Eta:48 a° 1636. W. vAN DER vLIET. fecit.
+
+suivante: ,Comte Leon Vandalin Mniszech van der Vliet. Personnage Hollandais vu jusqu'aux genoux. Expertise de M. M. Feral et....
+
+A l'envers du tableau une feuille de papier sur laquelle est imprime un blason et linscription
+
+Provient de la collection du comte Mniszech, vendue a Paris, le 9 avril 1go2; n 182 du catalogue.
+
+Voir la reproduction.

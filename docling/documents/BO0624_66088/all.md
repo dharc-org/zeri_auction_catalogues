@@ -1,0 +1,348 @@
+## CONDITIONS OF SALE.
+
+- I.THE highest Bidder to be the Buyer;and if any dispute arise between two or more Bidders,the Lot so in dispute shall be immediately put up again and re-sold.
+- II.No person to advance less than 1s.; above Five Pounds,5s.; and solon inproportion.
+- II, In the case of Lots upon which there is a reserve, the Auctioneer
+- shall have theright to bid on behalf of the Seller.
+- IV. The Purchasers to give in their Names and Places of Abode, and to pay down 5s.in the Pound,or more,in part of payment, or the whole of the Purchase-Money,if required;in default of which,the Lot or Lots so purchased to be immediately put
+- up again and re-sold.
+- V.The Lots to be taken away and paid for,whether genuine and authentic or not,with all faults and errors of description,at the Buyer's expense and risk,within Two Days from the Sale; Messrs. CHRIsTIE, MANsoN AND WooDs not being responsible for the correct description, genuineness,or authenticity of, or any fault or defect in, any Lot,and making no warranty whatever,
+- VI. To prevent inaccuracy in delivery,and inconvenience in the
+- settlement of the Purchases,no Lot can on any account be removed during the time of Sale;and the remainder of the Purchase-Money must absolutely be paid on the delivery.
+- VII Upon failure of complying with the above Conditions,the Money
+- deposited in part of payment shall be forfeited;all Lots uncleared within the time aforesaid may be re-sold by public or private Sale,and the deficiency (if any)attending such re-sale shall be made good by the defaulter at the Sale,but this shall be without prejudice to any other rights or remedies.
+## On
+
+## CATALOGUE.
+
+## THURSDAY, JULY 11, 1929,
+
+AT ONE O'CLOCK PRECISELY,
+
+The fotlowing are Sold by Order of the Ececutors of
+
+JOHN BRUCE NICHOLS, Esq.,deceased, and have been removed from Holmwood Park, near Dorking,Surrey.
+
+## PORCELAIN AND DECORATIVE FURNITURE.
+
+- A pair of Chelsea figures of a girl and youth on pink and
+- green scroll plinths-9# in.high
+- 2 Three Chelsea vases, painted with panels of birds and insects
+- on pale green ground, with white and gold scroll handles —8in.and 6 in.high
+- 3A Chelsea leaf-shaped dish,painted with a bird and insects— 101 in.wide;and one,with Chinese figures
+- 4 An old Worcester oval basket,painted with flowers in colours, and with open trellis sides encrusted with blossoms,and with fower-branch handles—14 in.wide;and a basket
+- and stand,nearly similar
+- 5A Sevres écuelle, cover and stand,with panels of Cupids on marbled turquoise and gold ground; and two oval dishes.
+- with panels of flowers on turquoise ground
+- 6 A Dresden coffee-jug, cover and stand,painted with panels of landscapes in grisaille on pale yellow iground, with fowers in colours,in the Oriental taste; and a Dresden vase and cover, and pair of beakers, with panels of fgures on yellow ground—9 in.and 7 in.high
+- 7A Delft vase and cover, and a beaker, futed, and painted with vases of fowers in polychrome,in the Chinese taste, divided by red trellis bands—12 in.and 11 in.high
+- 8 A case, entirely covered with embroidery, with the Bacon
+- arms, Classical figures and scrollwork in coloured silks and gold and silver thread, containing two glass scent-bottles, one with silver mounts,and four silver and steel implements-early17th Century
+- 8A A panel of Charles II.embroidery,worked with formal fowers in coloured silks and gold and silver thread on satin9 in.by 7 in.
+- 9 A Queen Anne toilet-mirror,with walnut frame, the stand fitted with four drawers-17 in.wide
+- 10 A Chippendale small mahogany tripod table,with octagonal top, the tripod carved with foliage,and with ball-and-claw feet-ll in.diam.
+- Six Hepplewhite mahogany chairs,with arched backs,and
+- 11 pierced vase-shaped centres
+- TWELVE SHERATON MAHOGANY CHAIRs, With shield-shaped backs,carved with wheat-ears,and inlaid with fan
+- 12 ornament in satin-wood, on futed legs
+- 13 A Chippendale mahogany arm-chair,with pierced shaped centre to the back, carved at the top with scroll
+- vasefoliage
+- 14
+- SIX QUEEN ANNE WALNUT CHAIRS,with shaped backs, carved at the top with a shell and scroll foliage, on cabriole legs carved with shells, and ball-and-claw feet
+- 15 A Queen Anne walnut knee-hole table, with eight drawers
+- and a cupboard—30 in.wide
+- 16 A Queen Anne walnut cabinet, with folding doors enclosing drawers,on stand with shelf—41 in.wide
+- 17
+- An old English clock,by William Carter, Cambridge,with brass dial chased with Cherubs and scrollwork, in tall marqueterie case inlaid with panels of birds and flowers on walnut ground-7 ft.high—late 17th Century
+- 18 A SHERATON MAHOGANY SIDEBOARD, of serpentine shape, with three drawers,and a cupboard enclosed by a tambour panel,banded with tulip- and satin-wood,and inlaid with
+- fan ornaments and rosettes-5ft.wide
+- A Chippendale mahogany commode,of serpentine shape,with four drawers,the top one ftted with divisions—4 ft.wide
+- 20 A Sheraton mahogany circular writing-table-3 ft.10 in.diam.
+- 21 A FLEMIsH CABINET, of ebonised wood, with folding doors enclosing drawers, the panels of the interior painted with the Choice of Paris and other Classical subjects and landscapes,on stand with spirally-turned legs-35 in.wide—
+- 17th Century
+- 22 A Louis XV. small commode, with two drawers,veneered with tulip-wood, and banded with rose-wood,mounted with or-molu scroll handles and corners,and surmounted by a veined red and white marble slab-31 in.wide
+
+## LADY McCRAITH,of Ellenborough House,
+
+## The following are the Property of Nottingham.
+
+## OLD ENGLISH FURNITURE.
+
+- Five Chippendale mahogany chairs,with pierced vase-shaped
+- 23 centres to the backs
+- A walnut writing-chair,with cabriole leg in the front,and club
+- 24 feet;and an oak writing-chair
+- 25
+- FIVE HEPPLEWHITE MAHOGANY CHAIRS AND ONE ARMCHAIR,with shield-shaped backs,pierced with Prince of Wales'plumes
+- 26 A SHERATON MAHOGANY SIDE-BoARD, with five draWers, banded with satin-wood,and inlaid with fan ornament, mounted with brass lion's-mask and ring handles-6ft. wide
+- 27 A SHERAToN MAHOGANY SIDE-BoARD,with serpentine front, with a drawer and slide in the centre,and a pedestal of three drawers at each side, banded with satin-wood— 5ft.wide
+- 28 A Sheraton mahogany secretaire, with tambour top,and seven
+- drawers and a cupboard below,inlaid with shell ornament in satin-wood—40 in.wide
+- 29 A Chippendale mahogany side-table, with latticework frieze— 5ft.3in.wide
+- 30 A SHERATON MAHOGANY CABINET, with glazed folding doors at the top, drawer in the centre forming secretary,and cupboards below,inlaid with lines and fan ornament in
+- satin-wood-52in.wide
+- 31 A SHERATON MAHOGANY WINGED BoOK-CASE, With glazed folding doors at the top,drawer in the centre forming secretary, and cupboards below and at the sides, the cornice surmounted by vases-8 ft.6 in.wide
+- 32 A Jacobean oak side-table,with splayed angles and one drawer, carved with a frieze of conventional ornament,
+- and with balusters in relief, on turned legs—42 in.wide
+- 33 A Jacobean oak arm-chair, with panelled back carved with formal foliage and strapwork
+- 34 A Jacobean oak small court cupboard, carved with fan orna-
+- ment,and with acorn pendants—33 in.wide
+- 34A A Queen Anne oak and walnut table, with one drawer,on
+- cabriole legs,and club feet-29 in.wide.
+- 35 A Georgian mirror, in mahogany frame with gilt borders,and a pierced shell ornament at the top-42 in.high, 24 in. wide
+- 36 A Queen Anne mirror, in gilt frame decorated with shells and
+- foliage in plasterwork—44 in.high,22 in.wide
+- 37 A pair of mirrors, in gilt frames with seroll borders—46 in.
+- high, 30 in. wide; and a Spanish pottery vase and dish
+
+## The following are Sold by Order of the Ececutors of JOHN DAVISON BLAND,Esq., deceased, late of Kippax Park,Yorks.
+
+- 38 TWELVE CHIPPENDALE MAHOGANY CHAIRS,with pierced vase-shaped centres to the backs carved with
+- foliage and shells,on carved cabriole legs, and scroll feet; and a pair of settees,en suite,with stuffed seats and backs —5ft.wide
+## The following are the
+
+## OLD ENGLISH FURNITURE.
+
+- 39 A PAIR OF SHERATON MARQUETERIE COMMODES,of semi-circular shape, each enclosed by one door, inlaid with panels of fowers, Classical vases,and arabesques in various woods on satin-wood ground,banded with tulip-and rose-wood-50 in.wide
+
+Formerly the property of the Duke of Devonshire at Lismore Castle,Lismore
+
+- 40 A PAIR OF SHERATON SATIN-WoOD SIDE-TABLES, With shaped fronts,painted with fowers in colours and Nymphs and Cupids in grisaille,with borders of peacock feathers,banded with rose-wood—4ft.wide
+- 41 A DITTo SIDE-TABLE, of serpentine shape, painted with festoons of flowers in colours,and medallion heads and scrollwork in grisaille,banded with tulip-,amboyna-wood
+- and mahogany—5 ft.6 in.wide
+
+Presented by Lord Nelson to Lady Hamilton
+
+EchibitedattheVictoriaandAlbertMuseum
+
+- 42 ANoTHER,painted with a panel of Classical figures in grisaille in border of fowers and foliage, banded with tulip-wood
+- 4ft.vide
+## The following are the Property of
+
+- Capt. the Hon. MARCUS PELHAM, to whom they were bequeathed by the late Countess of Yarborough, and have been removed from 17 Arlington Street,S.W.
+
+## DECORATIVE FURNITURE.
+
+- 43 A four-leaf screen,with canvas panels painted with garden scenes and figures in the French taste, in narrow gilt framework-6ft.4in.high
+- 44 A pair of gilt torcheres,with scroll supports—4 ft.3 in.high
+- 45 A Louis XV.settee,with gilt framework,the seat and back stuffed,and covered with fowered grey silk brocade— 5ft.wide
+- 46 A gilt bergere, of rectanguiar shape, with carved riband borders,the seat and back stuffed, and covered with flowered brocade
+- 47 A walnut bergere, carved with serollwork and partly gilt,the seat and back stuffed,and covered with fowered green silk brocade; and a three-leaf mahogany screen,en suite, with panels of similar brocade and glass-6 ft.6 in.high
+- 48
+- A three-leaf gilt screen,of French design,with brocade and glass panels—5 ft.5 in.high; and a three-leaf gilt screen, with glass panels—4ft.high
+- 49
+- An oval marqueterie table,of French design,with drawer and shelf below, inlaid with panels of utensils in king-wood borders-25 in.wide
+- 50 A three-leaf screen, pierced and carved with shells and scrollwork,and mounted with panels of fowered cream brocade in the lower part—6 ft.high
+- 51 An Empire settee,with gilt framework,carved at the ends with eagles, the seat and ends covered with fowered cream silk brocade-49 in.wide
+- 52 A Louis XVI. mahogany commode, with five drawers, mounted with brass borders,and surmounted by a veined black marble slab-49 in.wide
+- 53 Another, nearly similar—50 in.wide
+- 54 A Louis XVI. mahogany commode, with two drawers, mounted with or-molu borders, small rosettes and foliage corners,and surmounted by a griotte marble slab51in.wide
+- A LouisXVI.mahogany commode,with five drawers,mounted with or-molu beadings and foliage handles,surmounted
+- 55 bya veined white marble slab-37 in.wide
+- 56 A LoUIS XV. SMALL MARQUETERIE CoMMODE, With three drawers,inlaid with fowers and festoons in various woods, and mounted with or-molu corners, surmounted by a feur-de-peche marble slab-28 in.wide
+- A Louis XVI. commode, with drawer in the frieze, inlaid with scrollwork on satin-wood ground, with mahogany borders,and with ten cartonnieres below with tooled and gilt leather fronts,mounted at the base with an or-molu plaque chased with a vase and foliage,and surmounted bya veined white marble slab-39 in.wide
+- 58 A three-leaf gilt screen,of Louis XVI. design,carved with a lyre and festoons of flowers,and mounted with brocade panels and two coloured French prints-62 in.high
+- 59 A LoUIs XVI. SMALL MAHOGANY FIRE-ScREEN,carved with laurel foliage,ribands and beading,and mounted with a panel of Aubusson tapestry woven with a vase of fowers
+- and birds on cream ground-17 in.wide
+- 60 A LoUIs XV. CoMMoDE,with shaped front and two drawers, veneered with panels of walnut in king-wood borders and inlaid with a frieze of key pattern, mounted with or-molu beadings and corner-mounts chased with rams'heads, and surmounted by a veined red and white marble slab51 in.wide
+- 61 A Dutch satin-wood table,with one drawer,inlaid with fan and satin-wood-31 in.wide
+- A brass lantern-clock,byLoomes,London,the cornice pierced
+- 62 with dolphins—15 in.high
+- 63
+- A Sheraton mahogany octagonal cellarette,banded with satinwood and mounted with brass bands, on stand—17 in. diam.
+- 64 A Queen Anne mirror, in gilt frame of scroll outline decorated
+- with foliage in plasterwork—40 in.high,23 in.wide
+- 65 A CHIPPENDALE MIRROR, in gilt frame carved with birds, flowers,fruit and scrollwork,and with a basket of fowers
+- at the top—8ft.high,6ft.wide
+- 66 A PAIR OF PANELS OF FLEMISH TAPESTRY, WOven With subjects from Roman history, with warriors in the foreground of landscapes, the borders woven with medallions of figures,fruit and strapworkone panel 8 ft.6 in high, 14 ft.4 in.wide,another 8 ft.high,11 ft.10 in.wide— 17th Century
+
+## The following are the Property of The Right Hon. THE EARL OF YARBOROUGH,amd have been removed from 17 Arlington Street, S.W.
+
+## DECORATIVE OBJECTS AND FURNITURE.
+
+- 67 A pair of Chinese vases, splashed with lavender-blue and mauve,mounted with or-molu lips and plinths-15 in.
+- high
+- 68 A brass lantern-clock,the dial pierced with dolphins—15 in. high
+- 69 A
+- pair of Empire candlesticks, with brass figures of boys holding hunting-horns to form the nozzles12 in.high
+- A pair of small candelabra,with bronze figures of Cupids holding or-molu nozzles for two lights each, on giallo marble plinths--1l in.high; and a pair of Empire n bronze figures of children holding
+- 70 candlesticks,with or-molu nozzles-12 in.high
+- 71 A pair of candelabra,of Louis XVI. design, with bronze figures of a Faun and Infant Satyr supporting or-molu branches for two lights each,on white marble and or-molu plinths—16 in.high
+- 72 2A pair of Louis XVI. candelabra, with or-molu figures of Nymphs, after Falconet,holding or-molu cornucopia with flower branches for five lights each,on red marble pedestals-36 in.high
+- A pair of candelabra,with bronze figures of children holding or-molu branches for two lights each, on white marble
+- 73 pedestals-19 in.high
+- 74
+- A clock,in white marble case surmounted by figures of a bronze eagle and two lions, on white marble plinth with engraved brass frieze-13 in.high
+- 75 An Empire or-molu tripod jardiniere, chased with caryatid Egyptian figures-21 in.high
+- An or-molu fender,pierced with key pattern and rosettes and surmounted by vases-7 ft.wide;and a set of or-molu-
+- 76 mounted steel fire-implements
+- 77 A pair of or-molu fenders,pierced with a frieze of key-pattern and surmounted by vases-5 ft.6 in.wide;and two sets ofor-molumounted steel fire-implements
+- 78 A clock, in vase-shaped porcelain case, with horizontal revolving dial painted with landscapes and children in grisaille in gros-bleu and gold borders,mounted with or-molu 18 in.high; and a pair of vases and covers, en suite
+- 79 A LouIs XVI. CLock, by Gerard, a Paris, in drum-shaped or-molu case supported on white marble columns, and mounted with or-molu busts and foliage, surmounted by bronze figures of children,and an or-molu vase chased with feur-de-lys and surmounted by a crown, on white marble plinth mounted with an or-molu plaque chased with
+- Amorini-23in.high
+- 80 A pair of candelabra,formed of Chinese mazarin-blue vases and covers,mounted with or-molu scroll branches for four
+- lights each, in the Louis XV.taste—21 in.high
+- A pair of cassolettes, of Louis XVI. design, formed as tripod altars of white marble and or-molu—10 in.high;and a
+- 81 pair of smaller ditto-8in.high
+- 82 A pair of Directoire candelabra, formed as bronze figures of Nymphs holding or-molu vases from which issue poppy
+- branches for two lights each, on or-molu pedestals 16in.high
+- 83 A pair of cut-glass candelabra, with branches for three lights.
+- each and numerous drops-22 in.high
+- 84 A Louis XVI.commode,with five drawers veneered with tulip- and king-wood,mounted with or-molu handles and corners,and surmounted by a veined white marble slab-
+- 50 in.wide
+- 85 ALouis XVI. mahogany commode,of semi-circular shape, with three drawers in the centre and cupboards at the
+- wide
+- 86 A pair of French marqueterie oval tables,with one drawer and mounted with or-molu corners and key-pattern
+- and shelf below,inlaid with vases,utensils and scrollwork, galleries-21 in.wide
+- mahogany oblong table, with drawer and shelf below, mounted with or-molu beaded borders,chased cornergallery—2l in.wide;and a mahogany kidney-shaped table,inlaid with brass,and
+- 87 A mounts,and pierced mounted with pierced galleries-20in.wide
+- 88
+- An Italian oblong table, with gilt stand carved with rosettes, the top formed of a plaque of mosaic inlaid with Orpheus in coloured marbles-3l in.wide
+- 89
+- 90
+- A pair of gilt show-tables, with rosette and riband borders— 31 in.wide
+- Another,nearly similar,with laurel-wreath border-31 in.wide
+- 91 A writing-table, of Louis XV. design,with three drawers, veneered with king-wood, and mounted with or-molu borders,and busts at the corners—5 ft 9 in.wide
+- 92
+- An oblong two-tier table,veneered with tulip-and king-wood, and mounted with or-molu corners and galleries-19 in. wide
+- 93 A mahogany show-table,with bevelled glass top, and drawers
+- 94
+- below,inlaid with fowers in marqueterie,and mounted with or-molu-23 in.wide
+- A Louis XVI.mahogany two-leaf screen, with carved foliage borders,mounted with silk panels painted with Nymphs, Cupids and branches-3 ft.high
+- 95 Four Louis XV. fauteuils,with gilt frameworks, carved with fowers, the seats and backs stuffed, and covered with fowered grey silk brocade
+- 96A bergere,with gilt framework, carved with fowers,the seat and back stuffed,and covered with grey silk brocade; and a small ditto,covered with nearly similar brocade
+- Another,with gilt framework,the seat and back covered
+- 97 with flowered green silk brocade
+- 98
+- A pairof gilt fauteuils,of French design,the seats and backs stuffed,and covered with Italian applique embroidery
+- A small commode, of Louis XVI. design, with two drawers, carved with a trophy and laurel festoons and painted green and white, surmounted by a veined green and
+- 99 white marble slab-39 in.wide
+- 100
+- A gilt bergere,of Louis XVI.design,the framework carved with foliage,and the seat and back stuffed and covered with fowered cream silk brocade
+- 101 A small ditto,the framework carved with fowers and scrolls,
+- and the seat and back covered with striped and fowered grey silk brocade; and a square gilt stool, with fowered brocade top-20 in.square
+- 102
+- A pair of Louis XVI. chairs, carved with laurel festoons and painted green,the seats and backs covered with fowered grey brocade
+- 103
+- A gilt settee, of Louis XVI. design, the framework carved with foliage, the seat and end stuffed and covered with fowered grey silk brocade
+- 104 An Adam settee,of French design,with gilt framework carved with futing,laurel foliage, beading and ribands, the seat and back stuffed and covered with grey silk
+- brocade-62 in.wide
+- 105 A small settee, of Louis XVI. design,with gilt framework carved with laurel and acanthus foliage, the seat and back covered with fowered grey silk brocade-42 in.wide
+- A small settee, with gilt framework, the seat and back
+- 106 covered with flowered brocade-4 ft.wide
+- A gilt stool,of French design, with riband-pattern borders and shaped top,covered with fowered grey silk brocade —26 in. wide; and a gilt bergere and fauteuil, with canework seat and back,and cushion covered with grey
+- 107 brocade
+- 108A pair of mahogany commodes,of Louis XVI. design,each enclosed by two doors and with three drawers in the frieze, elaborately mounted with or-molu, chased with a Nymph and Faun,fowers and foliage,and surmounted by veined
+- red marble slabs-6ft.wide
+- 109 A Dutch walnut commode, with three drawers,on cabriole legs-5ft.wide
+- 110 A PERsIAN CARPET, with a conventional design of foliage and geometrical ornaments in red,green and yellow on dark blue ground, with striped red and white border— 12 ft.2 in.by 21 ft.3 in.
+
+## OLD ENGLISH FURNITURE,ETC.
+
+- 111 A bracket-clock, by J.Vulliamy,London, with brass dial chased with fowers and scrolls, in pedestal-shaped ebonised case-13 in.high
+- 112
+- 113 A clock, by J. Vulliamy, London, in or-molu seroll case of French design, chased with masks and foliage-26 in. high
+- A barometer,in narrow hanging mabogany case-39 in.high
+- 114
+- Six Adam mahogany oblong stools, with futed borders— 21 in.wide
+- 115 Six Adam mahogany stools,on rectangular tapering legs— 41in.wide
+- 116 Two Chippendale mahogany chairs,with pierced vase-shaped centres to the backs, the seats covered with green leather
+- 117
+- EIGHT CHIPPENDALE MAHOGANY CHAIRS, With rail centres to the backs and scroll tops, the seats covered with green leather
+- 118 A Sheraton
+- mahogany side-table,with two drawers and fretwork corner-brackets,the borders banded with rosewood-5ft.wide
+- 119 A PAIR OF OLD ENGLISH CANDELABRA,formed of Derbyshire spar vases and covers, and mounted in the French taste with or-molu caryatid figures supporting above their heads scroll branches for the lights,and with or-molu borders and bands chased with laurel and oak festoons,rosettes and acanthus foliage, on square ebony plinths mounted with or-molu lions' masks holding rings and bands of key-pattern and futing-21 in.high
+- 120
+
+## SeeIllustration
+
+- A PAIR OF ADAM MAHOGANY SIDE-TABLES,carVed with friezes of scrolls and honeysuckle-ornament,on square futed tapering legs-6 ft.7in.wide
+- 121 A ditto table, with futed frieze and legs-5 ft. 7 in. wide
+- 122 A PAIR OF SHERATON SIDE-TABLEs,of semi-circular shape, with mahogany tops banded with satin-and rose-wood, and inlaid with a border of scrollwork, on gilt stands
+- decorated with branches of foliage,rosettes and ribands —45in.wide
+- 123 A SET OF THREE CHIPPENDALE MIRRORS,in gilt frames pierced and carved with scrollwork and branches of flowers, and with Chinese figures in arbours at the top— 7ft.high,3ft.8 in.wide
+- 124
+- A hanging-clock, by William Allam,London,in black and gold lacquer case decorated with Chinese figures and fowers-5ft.3 in.high
+- 125 A clock,by William Allam,London,with brass dial chased with masks and scrollwork,in tall lacquer case decorated with landscapes and figures in colours in trellis-pattern
+- borders-9ft.3in.high
+- A fve-leaf lacquer screen, decorated with Chinese landscapes, summer-houses and fgures in black and gold,in
+- 126 the Chinese taste-9 ft.high
+- 127 A Sheraton oblong mahogany table,inlaid with a spray of fowers in marqueterie-20 in.wide
+- 127A Four Chippendale mahogany chairs,with pierced rail centres to the backs
+- 127B Two Georgian pedestals, carved with futing and foliage,and painted in imitation of giallo marble, with Ionic capitals
+- —49 in.high
+- A Chippendale mahogany table,with octafoil top,on tripod
+- 128 carved with foliage-30 in.diam.
+- 129
+- A clock,by Jacobus Banks, Nottingham,with brass dial chased with Cherubs and strapwork,in tall walnut case inlaid with panels of fowers and foliage in marqueterie, and the hood surmounted by a cornice carved with a Cherub and festoons-7 ft.high—late 17th Century
+- 130 A CUT-GLAss CHANDELIER, with numerous drops, and branches for eighteen lights
+- 131 FoUR PAIRS OF SPITALSFIELD SILK CURTAINS, With a foral and trellis design in green and silver on red ground 12 ft.high, 5 ft.2 in.wide;and four cornices and four pairs of holders
+- A pair of curtains, similar—12 ft.high, 8 ft.wide;and a
+- 132 cornice,en suite
+## TAPESTRY.
+
+- 133 A SET OF FOUR PANELS OF ENGLISH TAPESTRY, Nymphs, children and animals on a brown background,
+
+Apanel—10ft.high,10 ft.6 in.wide Another—10 ft.10 in.high,10 ft.8in.wide An upright panel—10 ft.8in.high,4 ft.3 in.wide Another-9ft.10 in.high,3 ft.10 in.wide
+
+- woven with a Berainesque design of Classical architecture, with numerous birds, drapery festoons,and garlands of fowers.introduced into the design, the borders woven with caryatid figures, vases of flowers and scrollwork on brown ground, with narrow riband-pattern edge— probably by John Vanderbank—late i7th Century— comprising-
+
+See Illustration
+
+- 134 A PANEL OF BRUssELs TAPEsTRy, woven with five peasant figures in the foreground of a woody landscape, in narrow borders woven with scroll foliage in red and buff-signed P.V.D.BoRcHT—early 18th Century—10 ft.4 in.high, 9ft.8in.wide
+- 135A
+- SET OFFOURPANELS OFBRUSSELS TAPESTRY,woven with Tenierssubjects of peasants in landscapes,and a large group of peasants merrymaking and regaling outside an inn,in narrow borders woven with rosettes and ribands in buff and red--bearing the Brussels mark,and signed J.D.Vos-early 18th Century —comprising
+
+An oblongpanel—10 ft.3 in.high,17 ft.6 in.wide An upright panel—10 ft.4 in.high,9ft.8in.wide Another-10ft.4in.high,7ft.4 in.wide Another—10 ft.high,5ft.8in.wide
+
+See Illustration
+
+- 136 TWO PANELS OF BRUSSELS TAPESTRY, Woven with Teniers' subjects of peasant figures with cattle in the foreground of extensive landscapes,in narrow borders woven with foliage,ribands and scrollwork in red and brown—bearing the Brussels mark,and inscribed
+- D.TeNIERs-early 18th Century-comprising
+
+One panel—12 ft.4 in.high,10 ft.6 in.wide Another—12 ft.high,10 ft.8 in.wide
+## SCULPTURE.
+
+- 137 Sir Isaac Newton:a life·size bust
+- 138 The Duke of Wellington: a life-size bust, on pedestal
+- 139
+- Clyte:a life-size bust, on pedestal
+- 140 A gentleman:a life-size bust,on pedestal
+- 141 A CAMPANA-SHAPED VAsE, sculptured with branches of ivy leaves on a futed ground,on tall pedestal sculptured with futing and acanthus foliage,and a frieze of lions
+- and masks-6ft.6in.high
+- 142 2A RoMAN MARBLE ALTAR, of rectangular shape, carved with Cherubs,an altar, and trophies hung on the branches of a tree,with a frieze at the top carved with bucrania and swag of fruit, the side-panels inscribed mounted by a campana-shaped 16th Century vase carved with Sphinxes, serpents, shells and arabesques, the handles supported by Satyrs'heads-39 in.high
+
+## J.NOLLEKENS,R.A.
+
+- The Rt.Hon.C. J.Fox:a life-size bust-signed, and dated
+- 143 1793-on pedestal
+- The Rt.Hon.Wm.Pitt: a life-size bust-signed, and dated
+- 144 1808-on pedestal
+- 145
+- Sir Joseph Banks:a life-size bustsigned—on pedestal
+- 146
+- The Earl of Yarborough:a life-size bust-signed, and dated 1808
+- 147 Laurence Sterne:a life-size bust-signed
+- 148
+- John Locke:a life-size bust-signed
+- 149 The Rt. Hon. William Windham: a life-size bust—signed, and inscribed"W.WINDHAM,AGED 43"—on pedestal
+- The Earl of Leicester:a life-size bust—signed, and dated
+- 150 1812-onpedestal
+- 151 The Duke of Devonshire: a life-size bust—signedon
+- pedestal
+- 152 Edmund Burke:a life-size bust—signed,and dated 1812— onpedestal
+- 153 Sir George Savile (?):a life-size bust—signed,and dated 1812-onpedestal
+- 154 The Duke of Bedford (?):a life-size bust—signed,and dated
+- 1797-onpedestal
+- The Marquis of Rockingham (?):a life-size bust—signed, anddated1806-onpedestal
+- 155
+- 156 Sir Joseph Banks:a life-size bust—signed—on pedestal
+- 157 A gentleman—signed,and dated 1806—on pedestal
+- 158
+- The Duke of Bedford:a life-size bust—signed,and dated 1804-onpedestal
+- 159
+- 160
+- A gentleman,wearing a Roman toga—signed
+- A lady:a life-size bust—signed,and dated 1810
+
+FINIS

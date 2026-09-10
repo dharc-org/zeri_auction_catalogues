@@ -1,0 +1,3111 @@
+## TEILI.
+
+## Antiquitaten und Kunstgewerbliche Arbeiten
+
+## aus dem T.'schen Nachlasse.
+
+## 1.HOLZTRUHE
+
+Deckel und Wande mit Eisenverkleidung. Seitlich Eisenhandhaben. Altes SchloB.
+
+18.Jahrhundert.H.0,53 m,B.0,94 m,T.0,60 m,
+
+## 2.EISENTRUHE
+
+mit Rosettenbeschlagen. Altes SchnappschloB mit zwolf Schnappern, 17.Jahrhundert.H.0,31 m,B.0,60 m,T.0,30 m.
+
+## 3.TRUHE
+
+aus Eichenholz. Stirnseite mit ornamentierten Feldervertiefungen, Seitlich Eisenhandhaben. Altes SchloB. Unter dem Deckelrand Inschrift:Anno 1700 Gehsge Bordes."H.0,59 m,B.0,96 m,T.0,40 cm,
+
+## 4.SALONTISCH
+
+aus Porphyr,im Stil Ludwigs XV.,mit ovaler,gebogter Tischplatte,zylindrischem, profiliertem FuB, auf rechteckigem Sockel mit gebogten Seiten. Der Rand der Tischplatte in Bronzefassung, ebenso der FuB und dessen Ansatz auf dem Sockel. Die Bronzefassung des FuBschaftes besteht aus zwei sitzenden, die Tuba blasenden Engeln, die zu beiden Seiten des Schaftes mit dem Rucken an denselben lehnen, und deren Unterleib in Blattornamente ibergeht, Blattkranze verbinden die beiden Engel miteinander. An Stirn- und Ruckseite des FuBschaftes Bronzeschilder mit Porzellaneinlagen, auf welchen in Goldmalerei auf turkisblauem Grund die Sevresmarke.Auf der Tischplatte neun Porzellanplatten von verschiedener Form; eine grobe in der Mitte, acht am Rande, von reliefierten Bronzebandern gerahmt. Dazwischen Bronzebeschlage.  Die Platten mit farbiger Unterglasurmalerei; Darstellung von Allegorien, griechischen Gottheiten und Frihling, Sommer,Herbst und Schwanen.Bez.:"A. Maglin."
+
+Franzosisches Fabrikat. Die bemalten Porzellanplatten aus der Manufaktur von 112×80cm， Abbildung Tafel 1
+## 5.LINDENHOLZGRUPPE
+
+Gnadenstuhl. Gottvater, mit langem Bart und lockenumrahmten Gesicht, in weitem Mantel. Er tragt auf den Handen den Leichnam Christi, dessen dornengekrontes eckigem Sockel, farbig bemalt.
+
+Tirol 15.Jahrhundert. H.94 cm,
+
+## 6.DREI LINDENHOLZ-FIGUREN
+
+lebensgroB,zu einer Kreuzigungsgruppe gehorig Christus mit verzerrtem Gesicht und geoffnetem Munde; die Arme fehlen, Johannes mit zur Seite geneigtem Kopfe und zum Gebet gefalteten Handen, in faltenreichem Gewandr.  Maria in herabwallendem Mantel, den die beiden Hande raffen. Spuren alter Bemalung.
+
+Tirol 15.Jahrhundert.H.1,40—1,83 m.
+
+## 7.ERLENHOLZFIGUR
+
+Maria, die Krone auf dem Haupt, in langem, den Hinterkopf bedeckendem Mantel. Sie tragt auf ihrem linken Arm das nackte Jesuskind, das in der Linken einen Apfel halt und mit der Rechten nach einer Birne greift, die sich in der rechten Hand Marias befindet. Auf sechseckigem, profiliertem Sockel. Bemalt und ver- goldet.
+
+Franzosisch, 15. Jahrhundert. H. 1,07 m.
+
+## 8.EICHENHOLZGRUPPE
+
+Maria in sitzender Stellung,in faltenreichem, teilweise das Haupt bedeckendem Mantel. Auf ihrem Schobe das Jesuskind,mit zum Segen erhobener Linken, in der Rechten einen Apfel haltend.
+
+Suddeutsch, Ende des 16.Jahrhunderts, H. 90 cm.
+
+## 9.HOLZRELIEF
+
+von quadratischer Form.B Heimsuchung Mariae. Stehende Ganzfigsren der Maria und Elisabeth. Elisabeth erfaBt die rechte Hand Marias. Beide in faltenreichen Gewandern, Maria mit aufgelostem Haar. Links oben im Hintergrunde sind die Turme einer Stadt sichtbar.
+
+Suddeutsch, 15.Jahrhundert. H.78,5 cm,B.68 cm.
+
+## 10.PIETA
+
+Maria sitzend, in faltenreichem, den Kopf bedeckendem Mantel, mit aufgelostem Haar.Auf ihrem Schobe ruht,von ihrer Linken gestutzt, der vom Kreuze genommene
+
+Christus mit Dornenkrone und Schamtichlein.
+
+Kolnischer Meister des 16.Jahrhunderts. H. 80 cm.
+
+## 11.BRONZERELIEF
+
+von langlich-rechteckiger Form. Buste des kleinen Johannes mit iber die Schultern gebundenem Fell, mit Kreuzstab und Heiligenschein.
+
+Italienisch, 16.Jahrhundert. H.31,2 cm, B.16,5 cm.
+
+## 12.LINDENHOLZFIGUR
+
+Hl. Margarethe. In faltenreichem Mantel mit Kopfschmuck und langen, nach vorne hangenden Zopfen, deren Enden sie mit der Rechten festhalt. In der erhobenen Linken halt sie den Mantel und einen Kelch.
+
+Niederdeutsch,16.Jahrhundert. H. 84 cm.
+
+Abbildung Tafel 4
+
+Abbildung Tafel2
+
+Abbildung Tafel 2
+
+Abbildung Tafel 2
+
+Abbildung Tafel 3
+
+Abbildung Tafel 2
+## 13.ZWEI HOLZRELIEF
+
+(Ornamentstuicke) von Rechteckform. Gefluigelte Engelskopfe mit Blatt- und Fruchtgehangen,
+
+Deutsch,17.Jahrhundert. L.60 cm.
+
+## 14.STUTZPFEILER AUS EICHENHOLZ
+
+Im unteren Teile halb sitzender Putto mit Grotesken, fischahnlichen Tieren. Dariber in hockender Stellung mannliche Karyatidenfigur mit Wams, Spitzenkragen und kurzen Beinkleidern.Oben Jahreszahl:1607.
+
+Norddeutsch, Anf. d.17. Jahrhunderts. H.1,30 m.
+
+## 15.PIETA
+
+Gestalt. Bez. an der Ruckseite: N. In schwarzem Holzrahmen mit Gehause. Ohne Relief.
+
+Deutsch,17. Jahrhundert.H.13,5 cm.
+
+## 16.RUNDES HOLZRELIEF
+
+bunt bemalt. Der Rand ein Blattkranz, im Fond die Auferstehung Christi, rechts und links schlafende Soldaten.
+
+Niederdeutsch,17.Jahrhundert.Dm.42 cm.
+
+## 17. EICHENHOLZFIGUR
+
+eines Heiligen mit Buch und Krummenstab. Langbartiges, von langen Locken umrahmtes Gesicht. Faltenreicher, von einem Gurtei festgehaltener Mantel. Bart und Haare schwarz, der Mantel vergoldet. Gesicht und Hande farbig.
+
+Deutsch, Anfang des 17. Jahrhunder.s. H. 95 cm,
+
+## 18.KUPFERRELIEF
+
+rechteckig. Landliche Tanzszene. Tanzendes Paar mit Zuschauern und Musikanten vor einem Wirtshaus. Im Vordergrunde rechts am Baumstamm n lehnt ein Knabe mit Laute. Von Blumengewinden gerahmt.
+
+Abbildung Tafel 5
+
+Nurnberg, 17. Jahrhundert. H.6 cm,B.9 cm.
+
+## 19. RUNDES STEINRELIEF
+
+Halbfigur Christi. Buch und Heiligenschein. Der Rand mit reliefiertem Kreisornament. Inschrift links "CAS",rechts "ANS"
+
+Dm.44,5m cm,
+
+## 20. ERLENHOLZRELIEF
+
+nach Aldegrever. Rund. Merkur, in der erhobenen Linken den Schlangenstab, ein kurzes Mantelchen um die Schultern, entflieht der Stadt. Rechts Baume. Links Blick auf die Turme einer Stadt. Bez. Monogramm A.G.
+
+Abbildung Tafel 5
+
+Dm.10cm.
+
+## 21.STUCKRELIEF
+
+vergoldet. Auf rechteckiger Holzplatte. Mit altarformiger Umrahmung. Halbfigur der Maria mit dem Jesusknaben, dariber geflugelte Engelskopfe. Umrahmung in gotischem Stil: seitlich, gedrehte Saulen miteinander durch Spitzbogen verbunden. Auf den Saulen Turmchen, darunter freistehende Figuren von Heiligen. Sockel der Umrahmung mit relifiertem Blattornament und Engelskopfen. Auf den Saulensockeln Wappen in bekranzten Medaillons. Vergoldet.
+
+Italienisch.H.1,20 m, B.0,60 m.
+## 22.BRONZERELIEF
+
+von langlich-rechteckiger Form. Faune und Bachantinnen,vor einer Bacchus-Herme einen Widder opfernd. Figurenreiche Komposition von Clodion,Nancy.Bez,rechts unten. Auf der Ruckseite gravierte Inschrift: ,Monseigneur Le Prince de Rohan hommage respectueux. N.C. 1783."
+
+18. Jahrhundert. H.21 cm, B. 50 cm,
+
+## 23 LINDENHOLZFIGUR
+
+Der heil. Forian, im Rittergewand mit Helm und Mantel. In der Rechten eine rote Fahne, in der Linken ein GefaB, aus dem er auf ein seitlich stehendes, brennendes Hauschen Wasser gieBt. Auf unregelmaBig ovalem Sockel. Farbige Bemalung.
+
+Oberostereichisch. 18. Jahrhundert. H. 1,61 m.
+
+## 24FRANZOSISCHE BRONZESTATUETTE
+
+vergoldet. Weibliche Gestalt in der franzosischen Tracht des 16. Jahrhunderts. Mit Federkopfschmuck und iber dem rechten Arm hangendem Uberwurf. Sie halt in der erhobenen rechten Hand eine Feder, wahrend die linke den Mantel rafft.
+
+18.Jahrhundert.H. 23,5 cm.
+
+## 25 BRONZESTATUETTE
+
+Minerva mit Schild und Eule, auf rundem Sockel.
+
+18.Jahrhundert.H. 19 cm.
+
+## 26 ELFENBEINSTATUETTE
+
+auf rundem,hohem Holzsockel. Bettelweib mit kleinem Jungen auf dem Rucken und einer Kanne in der rechten Hand. An ihre linke Seite schmiegt sich ein zweiter groBerer Junge.
+
+Leicht beschadigt.
+
+Franzosisch. 18. Jahrhundert. H. 22 cm.
+
+## 27 KUPFERRELIEF
+
+rechteckig. Zwei musizierende Putten auf Wolken, denen ein dritter zuhort. Franzosisch. 18. Jahrhundert. H. 6 cm, B.9 cm. Abbildung Tafel 5
+
+## 28 KLEINE BRONZESTATUETTE
+
+(Deckelknopf). Bischofsfigur mit Tiara, Schwert und Doppelkreuz. Hohe 5,5cm.
+
+## 29 DREITEILIGER HOLZALTAR
+
+mit naturalistisch bemalten Figuren in Relief. Mittelstuck quadratisch mit dreieckigem Aufsatz. In demselben Gottvater, darunter Maria mit dem Kind.In den Engelskopfe. Holz.
+
+Italienisch.H. 52,5 cm, B.aufgeklappt 32 cm.
+
+## 30 SILBERNE STATUETTE
+
+der Maria mit dem Jesusknaben. Maria mit der Krone auf dem Haupt, in weitem, den Hinterkopf bedeckendem Mantel, tragt auf dem linken Arm das nackte Jesuskind, in der rechten Hand eine Taube. Auf rundem, profiliertem Sockel mit gitterartig durchbrochenem FuB, mit farbigen Steinen besetzt.
+
+18.Jahrhundert.H. 18 cm.
+
+Abbildung Tafel 5
+## 31 SPECKSTEINRELIEF
+
+Buste eines Madchens mit turbanartiger Kopfbedeckung und geflochtenen Zopfen, Bez.:"A.Roth.1840"
+
+H.9cm
+
+## 32 GLASIERTES TONRELIEF
+
+aus gebranntem Ton, nach Luca della Robbia, 14001482. Rechteckform,oben gebogt. Das Relief weiB, auf blauem Hintergrund die Anbetund des Jesusknaben darstellend. Dieser liegt nackt, auf Kissen gebettet, im Schatten einer Bumenstaude. Vor ihm kniet Maria, in faltenreichem Mantel mit gefalteten Handen, uber ihnen drei schwebende, singende Engel. Diesen zu Haupten der Heilige Geist. Aus Kugeln gebildetes Randornament. Bez.: rechts unten:,Fabbrica Ferriani Faenza". In schwarzem Holzrahmen. Vollstandig defekt.
+
+Faenza.H. 1,10 m, B. 0,78 m.
+
+## 33.MARMORRELIEF
+
+In einer Nische kniender Amor mit Kocher, Pfeil und Bogen. Bez.:E. Renard"
+
+In schwarzem Holzrahmen.
+
+Franzosisch. 19. Jahrhundert. H.59 cm, B.44,5 cm,
+
+## 34.KUPFERDRUCKPLATTE
+
+zu einem Heiligenbild; zwei Heilige und das Jesuskind, mit Inschrift:St. Anna
+
+Auf der Ruickseite weibliche Heiligenfigur.
+
+18.Jahrhundert,H. 14 cm,B.9 cm,
+
+## 35.KUPFERDRUCKPLATTE
+
+zu einem furstlichem Wappen. Bez.:"S.L. 1855"
+
+H.22,5 cm,B.17 cm.
+
+## 36. SPANISCHE MINIATUR AUF KUPFER
+
+Buste einer jungen Frau in der spanischen Tracht des 16. Jahrhunderts. Schwarzer
+
+Hintergrund.Rechts oben Inschrift:,NOB: NOVI-ZA". Olmalerei. Quadratisch, in schwarzem Rahmen.
+
+H.6 cm, B.6,8 cm.
+
+## 37.HORNDOSE
+
+von rechteckiger Form. Auf dem Deckel teilweise farbig bemalte Schwarzzeichnung in Kupferstichmanier. Erzahlungen des heimgekehrten Kriegers.
+
+Deutsch, Ende des 18.Jahrhunderts. H.2，2 cm, B.9,2 cm,T. 5,2 cm.
+
+## 38.NIEDERLANDISCHE MINIATUR
+
+Olmalerei auf Blei. Brustbild eines Mannes mit langem Haar, Spitzbart und breitem Spitzenkragen. Rund,in Bronzerahmen,
+
+17.Jahrhundert. Dm.6,8 cm.
+
+## 39.DEUTSCHE ELFENBEINDOSE
+
+von elliptischer Form, Der Deckel mit Punkt- und Kreisdekor. Boden mit farbiger Miniatur: Diana entdeckt den Fehltritt der Callisto und verbannt diese aus ihrer Umgebung.
+
+18.Jahrhundert. H.1.5 cm,B.11 cm,T.7,5 cm,
+
+Abbildung Tafel 3.
+- 40.HAARARBEIT AUF ELFENBEIN
+
+Rechteckig. Zwei weibliche Gestalten in der Tracht des 17. Jahrhunderts. Deutsch, 17. Jahrhundert. In schwarzem Rahmen. H. 11,7 cm, B.9,7 cm,
+
+- 41.SILHOUETTE
+
+eines Knaben; in schwarzem Holzrahmen unter Glas. Um 1830cm.Dm.7,5cm.
+
+- 42.RELIQUIARIENTAFEL
+
+mit Wachsmedaille. In der Mitte: Maria mit dem Jesuskinde.
+
+In geschn.Holzrahmen. H. 19,5 cm,B. 16 cm.
+
+- 43.ZWEIRELIQUIARIENTAFELN
+
+mit Wachsmedaillen. Auf seidener Bespannung in Gold- und Perlenstickerei Reliquiarien. In ovalen Mittelfelde das Agnus Dei,in den Ecken Wachsmedaillen mit Heiligendarstellungen.
+
+In geschn.Holzrahmen. H.52 cm, B. 43 cm,
+
+- 44.DREI WACHSMEDAILLEN
+
+von ovaler Form. a) Heilige mit Urne und Spuren von Inschrift. b) Heiliger auf Wolken knieend, Spuren von Inschrift. Defekt. c) Buste des Papstes Clemens XIl. mit Inschrift:,Clemens XII. PON. MAX"
+
+Italienisch, 18. Jahrhundert. H. 5,1 cm, B.4 cm.
+
+- 45.RUNDES WACHSRELIEF
+
+Profilbrustbild Augusts des Starken. Friedrich August Schega, gest. 1787, zugeschrieben. In schwarzem Rahmen.
+
+18.Jahrhundert. Dm.23 cm.
+
+- 45.BLEIRELIEF
+
+von ovaler Form, in Holzrahmen. Profilbildnis Gutenbergs.
+
+Deutsch,16.Jahrhundert.H. 7,4 cm, B.5,8 cm.
+
+- 46.BLEIPLAKETTE
+
+von rechteckiger Form. Reliefdarstellung der heil. Familie. Peter Flotner, 1546, zugeschr.
+
+Suddeutsch,16.Jahrhundert. H.5,7 cm,B.4,4 cm,
+
+## 47.GRAVIERTE BLEIPLATTE
+
+yon rechteckiger Form, Jesus als Gartner. Vor ihm kniet Magdalena. Gravierte
+
+Inschrift:Friedr.Uhligh.1743,d,11. Juny sculp.
+
+Weib was weinest du Wen suchest du Ich bin Jesus deine Ruh.
+
+Deutsch, 18.Jahrhundert. H.18,7 cm,B.13 cm.
+
+- 48.Geatzte Bleiplatte
+
+Gravierte Inschrift: Christus am Kreuz, zu seinen FuBen Maria und Johannes.
+
+"Weib, sihe das ist dein Sohn —Sihe, das ist deine Mutter".
+
+17.Jahrhundert. H.59 cm,B. 46 cm.
+
+Abbildung Tafel 5.
+## 50.BRONZEPLAKETTE
+
+von ovaler Form. Bekranzter Casarenkopf im Profil nach rechts. Inschrift:
+
+H.9 cm,B.7cm.
+
+CCAES. TI.E".
+
+## 51.BRONZEPLAKETTE
+
+rechteckig. Der heilige Hieronimus, einen Lowen an der Seite,vor dem Kruzifix knieend. Im Hintergrunde Konturen eines Gebaudes. Bez.:,GLBR" ltalienisch, 17.Jahrhundert.H. 10 cm,B.7,5 cm,
+
+## 52.MEDAILLE
+
+yon Giov.Vismara, 16601700. Av.: Mannliche Profilbuste nach links. Oben Inschrift:,RFA. TERZAGVS. PHZ.:.L", unten 1093. Bez.:I Wismara". Rev.: Sitzende Gestalt der Hygiea mit Stab und Schlange. Inschrift:,CHARITATE. ET.SAPIENTIA.PRISTITIAM.RESTITUEBAT"
+
+Dm.8cm.
+
+## 53.MEDAILLE
+
+Av.:Profilbuste nach links und Inschrift: ,FRANCISCVS. M. PRINCEPS. AR.
+
+ETR" Rev.:Uber dem Meeresspiegel untergehende Sonne. Dariber Inschrift: "MAIOR.AD.OCCASUM".
+
+Dm.8cm.
+
+## 54.MEDAILLE
+
+Av.:Profilbuiste des Papstes Alexander VIl. nach links. Inschrift:Alexander. VII.P.M.PIVS.IUST.DPT.SENEN. PATR.GENTE.CHISIUS MDCLIXN" mit Zuschauern.Inschrift:MVNIFICO. PRINCIPI-DOMINICVS-IACOBATIVS" Unten:,ET-FERA-MEMOR-BENEFICH".
+
+Dm.9,3cm,
+
+## 55.MEDAILLE
+
+Profilbuste des Gismondo Malatesta, 1417-1468 nach links. Inschrift:SIGISMVNDVS PANDVLFVS.MALATESTA. PAN.F". Rev.: Eine Burg mit Turmen und Zinnen.Inschrift:CASTELLVM.SISMVNDVM.ARIMINENSE MCCCCXLVI"
+
+Dm.7,5cm.
+
+## 56.MEDAILLE
+
+Av.:Profilbuste desselben nach rechts von Vittore Pisano, gen. Pisanello, 1881 bis 1456.Inschrift:SIGISMVNDVS PANDVLFVS.DE. MALATESTIS ARMINI FANI Rev. Ritterfigur,rechts Familienwappen, links Ritterhelm.Inschrift: "OPVS.PISANI-PICTORIS".
+
+Dm.8,5cm
+
+## 57.MEDAILLE
+
+Avers: Mannliche Profilbuste nach rechts. Inschrift:,FRANC... D. G,LOTH.. AR.ET. M. ETR. D. REX.HIER".Revers: Uber einem Kriegsaltar schwebende, Blitzstrahlenbuindel schwingende Gestalt, hinter welcher ein Band und Wolken Daruiber Inschrift:,MOLIS. ERAT"
+
+Dm.8.2cm.
+- 58.RUNDE DOSE
+
+aus Kupferbronze. Deckel mit Bordure und Relief Taufe Christij. Boden mit relieiiertem Flechidekor und Palmettenbordire.
+
+Italienisch, 17.Jahrhundert. Dm. 6,8 cm.
+
+- 59.FRANZOSISCHE KUPFEREMAILLE
+
+auf hellblauem Fond. Weibliche Gestalt unter einem Baum, vor Liebesaltar opfernd 18. Jahrhundert. Oval, in schmalem Kupferreifen. H. 7 cm,B. 6,5 cm.
+
+- 60.TISCHGLOCKE
+
+aus Bronze. Weibiche Gestalt in der Tracht des 15.Jahrhunderts. Franzosisch, 16. Jahrundert, H. 12 cm.
+
+- 61.TISCHGLOCKE
+
+mit Schaft. Die Leibung mit reliefierten Busten in blattumrabmten runden Flachen, Der Rand mit lateinischer Inschrift.
+
+Italiensch,16.Jahrhundert. H. 13.
+
+- 62.MORSER
+
+aus Bronze. Mit reliefierten Ornamenten (Putten zwischen Rollwerk). Inschrift:
+
+"Hendrik Kemper Ao. 1724". Dazu kleiner Stossel.
+
+Deutsch, 18.Jahrhundert. H. 19,5 cm, Dm.23,5 cm.
+
+- 63.GEWICHTGARNITUR
+
+aus Messing in Morserform mit Deckel und Griffbugel. Leibung mit gravierten Rosetten und stilisierten Blattern. Auf dem Deckel eingedruickt:B. 4". Kelch und Wappen.
+
+Suddeutsch, 17. Jahrhundert. H. 40 cm.
+
+- 64.ALABASTERVASE
+
+Wulstige Leibung auf eingezogenem, profiliertem FuB mit viereckigem Sockel. Der Hals mit blattartiger Offnung. Henkel geschnorkelt.
+
+19.Jahrhundert.H.29,5 cm.
+
+65. EISERNES FEUERZEUG
+
+Dreiteilig. Mit zwei Feuersteinen. Deckel mit Gockelhahn.Gravierte Jahreszahl 1813.
+
+- 66.BRIEFBESCHWERER
+
+aus Eisen in Form eines Ambos. Seitenwand mit reliefiertem Brustbild und
+
+Jahreszahl 1756.
+
+18.Jahrhundert H.4,5 cm.
+
+- 67.KAFFEEMUHLE
+
+aus Eisen. Wandungen mit reliefiertem Schnorkeldekor.
+
+Deutsch.17. Jahrhundert.H.21 cm.
+
+- 68.ZWEI FEUERBOCKE
+
+aus Eisen, mit Kettenringen. Obere Endung mit Stierkopfen. H.50cm，
+69. EISERNER SCHLUSSEL
+
+mit viereckigem Griff. Angeblich Schlussel der Margraf Gero-Burg bei WendischDrehna aus dem Jahre 936.
+
+L.17 cm,
+
+70. EISERNES KUNSTSCHLOSS
+2. mit Schlussel. Dieser mit verziertem Griff.
+
+18.Jahrhundert. Lange 15.5 cm.
+
+- 71.EISERNES KUNSTSCHLOSS mit Schlussel.
+
+## 72.EISERNES VORHANGESCHLOSS
+
+mit Schlussel.
+
+17.Jahrhundert.
+
+## 73.DREITEILIGES APOTHEKERGEFASS
+
+mit Deckel, aus KokosnuBholz. Zylindrische Form auf abgesetztem FuB, aus drei mit Zinnfassung versehenen, ineinander schiebbaren Teilen bestehend. Leibung
+
+Hollandisch, 18.Jahrhundert.H. 12 cm.Dm.8,5 cm, und Deckel mit reliefierten Pilanzen und Vogeldekor. Das Innere in Zinnverkleidung, Deckelrand und FuB in Zinnfassung.
+
+## 74.DEUTSCHE HORNDOSE
+
+rund. Auf dem Deckel reliefiertes Brustbild eines Ofiziers. Inschrift am Rande:
+
+Ende des 18. Jahrhunderts. Dm. 8 cm.
+
+"Mina". Boden mit Linienornament.
+
+## 75. EIN PAAR VASEN
+
+Kugelformiger unten n ausgeschweifter Korper mit langem, fleutenformigem oben wulstartig erweitertem Hals, achtmal gekantet. Um den Halsansatz Lambrequin aus Blumen. Der Wulst mit Blumenornament, dariber intenienartige Linienfries. Leibung mit Blumenmotiven in chinesischem Geschmack. Blaumalerei auf weibem Fond.
+
+18. Jahrhundert. Marke wie nebenstehend.
+
+## 76.FLEUTE
+
+von hoher, oben und unten ausgeschweiBter achtmal gekanteter Form. Hals und FuBrand mit Lambrequinbordure aus Bandelwerk. Um die Mitte acht langliche senkrecht stehende vierpaBformige Kartuschen mit Blatt- und Blumenmotiven. Zwischen diesen Rosetten. Uber und unter der Mittelbordire BlumenstrauBe. Emailmalerei in rot, blau und grun. Ein Teil des Halses fehlt, ist jedoch aus Zinn erganzt. Der Dekor der Fleute ist auf dem Zinnstick in Gravierung getreu fortgesetzt. wurde wahrend der Schlacht bey Leipzig, am 18. Oktober 1813, von einer Kugel beschadigt, in einem Nachlab gefunden und darnach repariert". Am AuBern der Zinnerganzung die Jahreszahl 1727, welche sich wohl auch auf der Leibung der Vase befand.
+
+18.Jahrhundert. H. 43 cm.
+
+## 77.ZWEI KLEINE TELLER
+
+Der Rand mit Linienbordure im Fond Blumendekor. Blaumalerei auf weiber Glasur. Ein Teller braun gerandet.
+## 78.RORSTRAND-WASCHSCHUSSEL
+
+in Muschelform und reliefiert. Blaumalerei. Streublumen,
+
+Dm.39cm,
+
+- 79.WINTERTHUR-SCHUSSEL Tondino mit breitem Rand. In der Tiefung Doppelwappen mit Krone und Helm deckel. Dariber auf blauem Bande Inschrift:W.RGUS.FGVSGGV." Farben: Gelb, Braun, Dunkelblau und Hellblau. Weiber krakelierter Grund Abbildung Tafel 6 Winterthur, 17. Jahrhundert. Dm.39,6 cm.Ohne Marke.
+- 80.OFENKACHFL
+
+von quadratischer Form. Grine Glasur. In der Mitte Rundbogenfeld mit Heiligenfigur, zu beiden Seiten rechteckige Felder mit Blumenvasen. Dariber zwei Engel mit Frichten, zwischen ihnen eine Taube. Unten Rankenwerk mit geflugellem
+
+Engelskopf. Reliefierte Darstellungen. Defekt.
+
+Sachsen, 17. Jahrhundert. H, 19,5 cm,B.17 cm.
+
+darunter profilierter Sockel, Vorderblatt mit flotenspielendem Hirten und zwei grobere Seitenstucke mit dem drachentotenden hl, Georg. Drei kleinere Bruch-
+
+81.SIEBEN OFENKACHELFAGMENTE sticke mit Blaumalerei auf weibem Grund. Sachsen, 17. Jahrhundert.
+
+- 82.BIRNKRUG
+
+"M. T." Hals und FuB mii blauen Streifen, der letztere mit aus senkrechten Staben gebildetem Dekor.
+
+Siebenburgen. H, 20 cm.
+
+- 83.RIESENSCHUSSEL
+
+Primitive Malerei, vorwiegend in Gruin und Manganviolett, auf schmutzigweiBer Glasur.  Im Fond zwischen Baumen ein springender Hirsch. Der Rand mit Dekor aus Blattrollwerk,
+
+Salzburg, 18. Jahrhundert.Dm.81 cm.
+
+## 84.RUNDE GMUNDENER SCHUSSEL
+
+mit zwei Henkeln. Der hochstehende Rand mit Linienornament. Im Fond ein springender Hirsch zwischen Baumen. Farbige Malerei auf weiber Glasur. Defekt. Dm.27cm.
+
+85. RUNDE GMUNDENER SCHUSSEL mit hochstehendem Rand und zwei Henkeln. Auf weiber Glasur primitive Buntmalerei,vorwiegend in Gelb, Blau und Grin. Am Rande grune Tupfen und Blumen, im Fond die auf Molken thronende heil. Johanna. Inschrift:Johanna.
+
+Dm.23,5cm.
+
+86. RUNDE GMUNDENER SCHUSSEL
+
+mit hochstehendem Rand und zwei Henkeln. Auf weiber Glasur primitive Blumenmalerei, vorwiegend in Gelb, Blau und Gruin. Am Rande gruine Tupfen und
+
+Dm.25,5cm,
+## 87.CHINESISCHES BLUMENSCHALCHEN
+
+Mit blauer Marke. H. 6,5 cm.
+
+Breite Schalenform, oben bis zu zwei Dritteln geschlossen.  Auf weiBer Glasur kleines, stellenweise von Blumen unterbrochenes Rankwerk in blauer Emailmalerei. Seitlich zwei Achtpasse mit kahnfahrenden Figuren in bunten Farben. Dazu geschnitztes Holzpostament.
+
+## 88.FLACHE CHINA-SCHALE
+
+auf eingezogenem FuB. VierpaBformige, breite Schalenforin mit gebogtem Rande. Das Innere mit der Form entsprechendem Mittelfelde,in welchem Blatt- und Blumendekor im Geschmack der famille rose. Auf dem FuB grine Schuppenbordure. Bunte Emailmalerei auf schmutzigweiBem Fond.
+
+Abbild. Tafel6.
+
+Kia-King,Ende d.18.Jahrh. Mit Siegelmarke. Dm.22,5X28 cm.
+
+## 89.RUNDER CHINA-TELLER
+
+Kien-long, 18. Jahrh. Marke in Blau unter Glasur. Dm.20 cm. Abbild. Tafel 6.
+
+Rosafarbener Fond mit Dasmaszierung. Im Grunde die drei Himmelshunde, sowie Rosetten und Bandschleifen. Der Rand mit Maander-und Muschellinien. Malerei in Gruin, Blau, Gelb und Purpurrot. AuBen Blutenzweige. Dazu geschnitztes Holzpostament mit funf FuBen,
+
+## 90.CHINESISCHE OPFERSCHALE
+
+weiB (blanc de Chine), Nachbildung einer aus Rhinozeroshorn geschnitzten Schale. Die Leibung mit reliefierten Bluten, Rehen und Baumen. Dazu Zeichen unter dem Lippenrande, siehe Bruning: Porzellan. Berlin 1907, geschnitztes Holzpostament.Anf. d. 18. Jahrhunderts.R EingepreBtes pag.8.H.9,5cm.
+
+## 91.BRONZEVASE
+
+fleutenformig, mit bauchigem Wulst und senkrecht stehenden schienenartigen, gezackten Ansatzen, auf eingezogenem FuB. Wulst und FuB mit reliefierten Drachen, auf meanderartig ornamentiertem Grund. Hals mit analogem Dekor auf palmettformigen Feldern. Der FuB mit Schriftzeichen,
+
+China. H.24 cm.
+
+## 92.CHINESISCHER RAUCHERKORO
+
+Standkissen, Dazu rotes mit Deckel. Form einer plattgedrickten Kugel. Hals und FuBrand mit reliefiertem Lambrequin auf ockergelbem Fond, dazwischen reiches aufgelegtes Blumendekor in Gold. Als Henkelgriffe zwei plastische Schildkroten, unter deren Bauch die Henke.ringe befestigt sind Gewolbter Deckel, seitlich oval durchlocht, mit reliefietter Bordure und ebensolchen. vergoldeten Schriftzeichen.
+
+Ohne Marke. H.29,5 cm.
+
+## 93.HALSKETTE
+
+aus Holzperlen, durchflochten mit ornamentierten runden und langlichen Osen von Holz,Marmor, Elfenbein,Horn usw.
+
+China. L. 1,30m.
+
+## 94. KLEINE TIEFE SCHUSSEL
+
+Blaulich weiBer, krakelierter Fond. Randbordure in Rot, Tiefblau und Hellblau Im Fond,von aufrechtstehendem, aus maurischen Torbogen gebildeten Lambrequin gerandet, stilisiertes Blumenornament aus langstieligen stern und tulpenformigen
+
+Abbildung Tafel 6.
+
+<!-- image -->
+
+饮
+
+泉
+
+鹿
+Bluiten in Hellblau, Tiefblau und Rot in Emailmalerei auf turkisblauem Grund Das AuBere der Leibung mit Blattornament.
+
+Turkisch-Rhodisch,17. Jahrhundert. Dm. 29 cm.
+
+## 95.MAURISCHE VASE
+
+von hoher Flaschenform. Birnformige Leibung auf eingezogenem, schlankem FuB, mit vleutenformigen, am Ansatz gewulstetem Halse. Violette Lustermalerei auf gelblichweiBer Glasur. Borduren und Friese mit Arabeskenmotiven; im Innern, unter dem Halse, arabische Schriftzeichen, Der FuB auf graviertem Kupfersockel.
+
+Ohne Marke.G.57,5 cm.
+
+## 96.HENKELKRUGLEIN
+
+mit hohem Zinndeckel, Walzenformig, oben mit gekerbten Ringen, FuB in Zinn- reifen. Braunes Steinzeug. Zinnmarke.
+
+Rheinisch.18. Jahrhundert. H. 13 cm.
+
+## 97. THURINGER TASSE MIT UNTERTASSE
+
+Tulpenformig mit Henkel auf niedrigem FuB. Bunte Blumengirlanden und Gold blattdekor auf weiBer Glasur,
+
+H.7 cm,Dm.9,2 cm.
+
+## 98.POTSCHAPPELER FRUCHTKORBCHEN
+
+von ovaler Schalenform mit Henkeln.Der Rand gitterartig durchbrochen, die Henkel in Form von Blattstielen, die in aufgelegten Blumen ibergehen. WeiBe Glasur, Die Henkel gruin, die aufgelegten Blumen in naturlichen
+
+Ebensolche auf dem Korbrand und an den Kreuzungen der Gitterstabe. Farben. Im Fond Blumenstilleben.
+
+<!-- image -->
+
+19.Jahrhundert. Blaue Marke unter Glasur wie nebenst.H. 75 cm, Dm.17 cm.
+
+## 99.BAYREUTHER FRUCHTKORBCHEN
+
+rund mit zwei geflochtenen Henkeln. Der schrage hochstehende Rand gitterartig durchbrochen. WeiBer Fond. Blau gerandert, im Boden mit Streublumen.
+
+Mit Marke B. H. 6 cm, Dm. 17 cm.
+
+## 100.FURSTENBERGER FRUCHTKORBCHEN
+
+mit zwei Henkeln. Der Rand kreisgitterformig durchhrochen. Gitterstabe, Henkel und FuB mit Linienornament. Im Fond indianische Blumen und Vogel. Blaumalerei auf weiber Glasur.
+
+Mit eingedrucktem F. H. 6,5 cm,Dm.21,3 cm.
+
+## 101.FURSTENBERGER STATUETTE
+
+Jugendlicher Kavalier mit Perruicke und blauem Haarnetz im Zopf. Purpurner Rock mit gelben Aufschlagen, hellblaue goldgesprenkelte Weste, rosafarbene Kniehosen und schwarze Spangenschuhe. Den Dreimaster unter dem Arm, halt er eine Rose in der Rechten und einen VergibmeinnichtstrauB in der linken Hand. Rasensockel mit reliefierten Streublumen.
+
+Ende des 18. Jahrhunderts. Marke: blaues F unter Glasur. H.17 cm
+
+## 102.FURSTENBERGER STATUETTE
+
+Schaferin mit Blumenkorb im linken Arm eine Blume darbietend, die sie in der Rechten halt. Bekleidung: Strohhut mit Purpurband, rotes Schnurleibchen mit
+
+Abbildung Tafel 6.
+heliblauem Einsatz. Kanariengelber Rock, geraffte weiBe Schurze, weibe Strumpfe und purpurne Spangenschuhe. Sockel mit reliefierten und aufgelegten Blumen. Ende des 18. Jahrhunderts. Marke:Blaues F unter Glasur. H. 18 cm. Abbildung Tafel 6
+
+## 103.ZWEI FRANKENTHALER GRUPPEN
+
+a) Schaferin ein Lamm liebkosend, das an ihr emporspringt. Schaferhut, autgeschnittenes Leibchen mit kurzen Armeln und Tunika. Rocaillesockel. b) Schafer an einen Baumstamm gelehnt einen Ziegenbock streichelnd. Schafertracht mit umgehangter Tasche. Die linke Hand defekt. Rocaillesockel. WeiBe Glasur, unbemalt.
+
+Ende des 18. Jahrhunderts. Blaue Marke unter Glasur mit eingepreBtem E. H.26 cm, Abbildung Tafel 6
+
+## 104.DREI RUNDE SUDDEUTSCHE TELLER
+
+mit gebogtem Rand. Stoffartiges Netzmuster in Rot und Gruin auf weiBer Glasur.
+
+Im Fond Genrebilder, Musikanten in Schwarz.
+
+Mitte des 19. Jahrhunderts. Ohne Marke. Dm.19,5 cm.
+
+## 105. RUNDE MEISSENER SCHUSSEL
+
+Der Rand mit goldgeranderten Steinen auf ultramarinblauem genetztem Grund. Randkehle mit vier ovalen Feldern, in welchen schwimmende Fische; zwischen den Feldern buntes Blumendekor. Im Mittelfeld des Fonds farbige Streublumen. Dekor in chinesischem Geschmack.
+
+Abbildung Tafel 6
+
+Fruhe Schwertermarke. Dm. 34 cm,
+
+## 106.BERLINER GRUPPE
+
+Die Topferfamilie. Mutter mit zwei Kindern, Topfe zum Verkauf anbietend. Der
+
+Fruhe blaue Zeptermarke. Unter Glasur. H.18,5 cm.
+
+groBere Junge kniet zu ihrer Rechten und halt eine vergoldete Flasche. Sie selbst mit einem Topf in der linken Hand, tragt ein nacktes Kind, um das sie ihren geblumten Mantel geschlungen hat. Goldgetupftes, blabrotes Kopftuch, gelblicher Rock, weibe Strumpfe und graue Schuhe. Der Knabe mit roter Jacke und gestreiften Kniehosen. Auf viereckigem.Defekt
+
+## 107.BERLINER SALZFASS
+
+Wasserschopfender Amor, iber den Rand eines Brunnens g gebeugt. Er halt in der Rechten eine Henkelkann. Auf dem Rucken Kocher und ein rotes Tuchlein. Auf ovalem Rasensockel.
+
+19. Jahrhundert. Blaue Zeptermarke. H. 11 cm,
+
+## 108.DESGLEICHEN
+
+Das Tuichlein auf dem Rucken der Figur ist blau. Ebenso. (Defekt）.
+
+19. Jahrhundert. Mit blauer Zeptermarke. H. 11 cm.
+
+## 109.PARISER TASSE MIT UNTERTASSE
+
+stäben. Untertasse analog.
+
+Breite Schalenform auf niedrigem FuB mit iberragendem mattvergoldetem Henkel in Form einer weiblichen Karyatide. Der obere Rand der Tasse sowie deren Inneres ganz vergoldet. BlaBrosafarbener Fond. Der obere Teil der Leibung mit reliefiertem Weinlaubdekor, der untere Teil mit Akanthusornament und Fackel-
+
+Ed. Honore-Rue St, Gilles? Marke Honore, P..in Eisenrot, unter Glasur. H.5,3cm,Dm.9,5cm, Abbildung Tafel 6
+
+<!-- image -->
+
+<!-- image -->
+## 187.SEVRES-HENKELBECHER MIT UNTERTASSE
+
+Zylindrische Form. Die Leibung durch Goldreifen in drei horizontale Streifen geteilt. Der obere und untere mit aufrecht stehenden diagonal angeordneten Blumchen in Rot, Grin und Gold. Im mittleren Streifen schrag stehende Nelkenbluten in Blauviolett und Grun.
+
+Blaue Marke, darin L, darunter R.H.7,7 cm, Dm.7,3 cm.
+
+## 188.RUNDER ENGLISCHER WAPPENTELLER
+
+flach gehohlt. Der Rand mit vier weiben Kartuschen, darin Monogramm LL mit Fackeln. Zwischen diesen rotes und gsunes Netzwerk. Im Fond von einem Lowen und einem Pferde gehaltenes s Wappen, darunter blaues Band mit Inschrift:Sola virtus invicta", sowie Streublumen,
+
+Emailmalerei auf weiBer Glasur. Marke wie nebenst. Dm.29,5 cm
+
+## 189.ZWEI ENGLISCHE TELLER
+
+Am Rande in gleichen Abstanden abwechselnd vier Quadrate mit eingezogenen Ecken n und vier Dreipasse in reliefierter Umrandung. In diesen Blumen, dazwischen abwechselnd Blumenornament in Farben und reliefiertes Blattdekor. Mitte des Fonds mit Wappen in Rokokostil, mit Palmenzweigen und Blumengirlanden, von einem Baume gekront. Um das Wappen Streublumen in bunten Farben. Der Fond ist von reliefierten Schnorkellinien begrenzt. Farbige Malere auf weiBem Grund.
+
+19.Jahrhundert. Mit Marke. Dm.23,8 cm,
+
+## 190.KUGELFLASCHE
+
+mit Henkel, aus blauem Glas, Seitlich leicht abgeflacht.Der gerade Hals in Zinnfassung mit reliefiertem Weinlaubdekor. StopselmitZinngriff,analogornamentiert. Deutsch, 18. Jahrhundert.H.226 cm
+
+## 191.BERGMANNSLAMPE
+
+aus Messing mit profiliertem Griff.
+
+- 18.Jahrhundert.
+
+## 192.SERVIERPLATTE
+
+aus Messing. Rechteckige Form mit geschweiftem und gebogtem Rand. Dm.53X41,5cm,
+
+## 193.ZWEI LEUCHTER
+
+aus Zinn. Zylindrischer leicht profilierter Schaft auf rundem Sockel. Zinnmarke. H.20,8cm.
+
+## 194.HOSTIENBUCHSE
+
+aus Zinn mit flachem Deckel. Zylindrische Form. Auf dem Deckel gravierte Inschrift:,F.W. Scholze 1855".
+
+H.5,5 cm,Dm.10cm
+
+## 195.ZINNPOKAL
+
+auf hohem FuB, mit gekehlten Drehungen, Als Deckelknopf freistehender griechischer Krieger mit Schild.
+
+18.Jahrhundert. H.28,5 cm.
+
+<!-- image -->
+## 119.HUMPEN
+
+mit Deckel. Walzenformig auf gewulstetem FuB. Um die Mitte der Leibung ein Kranz von langlichen, senkrecht stehenden Sechsecken, in welchen abwechselnd Schuppen- und Flammenornament. Die ibrige Flache mit Sternrosetten in rautenformigen Feldern. Im Mittelfelde des gewulstetenDeckels Inschrift :,A.R.P.F.1662, Deckelgriff durchbrochen.
+
+Sachsisch. H.24,5 cm.
+
+## 120.EIN HENKELBECHER
+
+aus Zinn. Zylinderische Form mit rautenformigen und sechseckigen gebuckelten Feldern.
+
+H. 6,5 cm,
+
+## 121.ZINNBECHER
+
+von konischer Form, glatt mit Gravierung:,K.C. A." H.11cm.
+
+## 122.TRINKBECHER
+
+aus Zinn von konischer Form. Glatt. H.11cm,
+
+## 123.SCHRAUBKANNE
+
+birnfurmig, auf eingezogenem FuB mit Henkel und auffartsstehendem AusguBrohr in Wasserspeierform. Deckel mit Griffbigel. An der Stirnseits gravierte Inschrift: "G.E.S.1740",
+
+Sachsisch. 18. Jahrhundert. M.34 cm.
+
+## 124.METKANNE
+
+mit Schraubdeckel und langem gekantetem AusguBrohr mit Deckel, Zylindrische Griffbigel. AusguBdeckel mit Zinnmarke: Springender Widder; Jahreszahl 1792.
+
+Form, nach dem FuB sich erweiternd.An der Stirnseite gesticheltes Blumenornament zwischen wagerechten Kehlungen.Deckel mit grobem, ringformigen 18.Jahrhundert.H.42 cm,
+
+## 125.TEEKANNE
+
+kugelformig, auf eingezogenem FuB mit breitem Hals, Henkel, gebogenem dunnen Ausgubrohr und gewolbtem Deckel. Die Leibung aus einer Kokosnubschale mit mit reliefiertem Blumen- und Blattornament in chinesischem Geschmack. Hals und FuB, Henkel und AusguBrohr aus Zinn, ebenso das Innere der Kanne. Suddeutsch. 18.Jahrhundert. H. 16 cm.
+
+## 126.ZINNKANNE
+
+yon zylindrischer Form mit breitem Hals, geecktem Henkel und kurzem AusguB. Halsansatz geriffelt. An der Stirnseite gravierte Inschrift:,Dietzmann a. KleinMukern 1845". Der gewolbte Deckel mit seitlichem Scharnier.
+
+H.24cm,
+
+## 127.ZINNKANNE
+
+mit Deckel; zylindrische Form mit eingezogenem Hals, kurzem, geschweiften AusguB und eckigem rohrumflochtenem Henkel. Deckel mit seitlichem Scharnier,
+
+19.Jahrhundert. H.23 cm.
+- 128.GROSSE ERNTEKANNE
+
+Zylindrisch,oben halbkugelformig gewolbt,auf eingezogenem FuB mit geschweiftem Hals und SchraubenverschluB. Der Henkel ?-formig: das AusguBrohr ein Drachenhals und Schadel, mit muschelformigem Ansatz. Die Leibung mit sechs reliefiertem Darstellungen von Heiligen. An der Stirnseite Gravierung:B. v. R.1724" VerschluB mit Bugel. Zinnmarke im Boden,
+
+Rheingegend. 18. Jahrhundert. H.50 cm.
+
+- 129.ZINNKANNE
+
+mit reliefiertem Rankenornament. An der Stirnseite Wappenschild mit Lilie, dariber Helm mit Krone.
+
+H.23,5cm.
+
+- 130.KLEINE KANNE
+
+FuB. Gewolbter Deckel mit seitlichem Scharnier. Kanne und Deckel mit gekehlten Drehungen. Henkel mit Rohr umflochten.
+
+H.17cm.
+
+- 131.HOCHZEITSKRUG
+
+aus Zinn. Birnenformig, auf eingezogenem FuB, mit Deckel. An der Stirnseite Hochzeitspaar zwischen Blumenornamenten, gestichelt.I Deckel mit Inschrift: "T.F.1839."
+
+H.83cm.
+
+- 132.ZINNKANNE
+
+Fast zylindrische Form mit kurzem AusguB und ohrmuschelformigen Henkel. Der
+
+Deckel fehlt.
+
+H.17cm,
+
+## 133.RUNDER FLACHER ZINNTELLER
+
+Auf dem Rande graviert:,I. O. A. 1819." Zinnmarke. Dm.21,5cm.
+
+- 134.RELIEFIERTER LEICHT GETIEFTER ZINNTELLER
+
+Auf dem Rande zwischen Rankenwerk und Engelskopfen in zwolf Medaillons Engelsfiguren. In der Mitte in Medaillon die Auferstehung Christi. Nach Caspar Enderlein.
+
+Dm.19cm.
+
+- 135.FISCHPLATTE
+
+von ovaler Form mit gebogtem Rande und zwei runden Henkeln an den Schmalseiten.Zinnmarke.
+
+Hamburg. 18.Jahrhundert.Dm.50X30 cm.
+
+- 136.RUNDE ZINNSCHUSSEL
+
+tief, mit geradestehendem Rand. Im Fond getriebenes Blumen-und Blattornament, AuBen graviert:"E.H. 1795."
+
+H.7,7 cm,Dm.29,5cm.
+
+- 137.OVALE PLATTE
+
+aus Zinn, glatt mit gebogtem Rand. Zinnmarke.
+
+18.Jahrhundert.Dm.48X35 cm.
+138. RUNDE ZINNSCHUSSEL mit hochstehendem Rande und eckigen Griffen, AuBen graviert :,M. G. Zinnmarke Dm.25cm.
+2. 139.KLEINE SUPPENTERRINE aus Zinn mit Deckel. H.10 cm,Dm.14 cm.
+3. 140.DREI AUFSCHNITTGABELN
+4. aus Silber, dreispitzig. Griff aus Elfenbein. L.21 cm.
+5. 141.NARDENBUCHSLEIN aus Silber. Rund,mit abschraubbarem Deckel Dieser im Mittelfelde durchlocht, mit drehbarer Deckplatte.Graviertes Zickzackdekor. In Baden:I. C. Anf.d.19.Jahrhunderts.Dm.3,5 cm.
+6. 142.ZWEIGOLDENELOFFEL Der obere Teil des Schaftes mit Masken- und Blattdekor, der untere Teil (Griff) aus Knochenschnitzerei: a) drei Putten, b) weibliche und mannliche Figur mit Sichel und Ahrengarbe. Londoner Beschaumarke. Englisch, 18. Jahrhundert,L.19 cm,
+7. 143.RUNDE SILBERNE SCHUSSEL Im Mittelfelde Darstellung des gekreuzigten Christus mit Maria und Johannes zur Seite. Daruber Halbfiguren von Engeln.Langs des Kreuzes, sowie in der Umrandung des Mittelfeldes Inschrift in cyrillischen Buchstaben, Die Randkehle mit acht Bogen, In diesen, sowie auf dem Rande je acht Medaillons mit Busten von Heiligen Zwtschen den Medaillons reliefiertes Rankenornament,Getriebene Arbeit. Beschau-
+
+marke.
+
+Russisch.Dm.38 cm.
+
+- 144.KUPFERRECHAUD
+
+Leibung ringformig durchbrochen.
+
+H.18cm.
+
+## Bevorstehende Auktion!
+
+KATALOG Nr.51
+
+Waffensammlung Panier-Gunthersberge und Waffen aus anderem Besitze
+
+Ausstellung 14.und 15. Dezember
+
+Versteigerung 16.und 17.Dezember
+## II.ABTEILUNG
+
+## Montag, den 8.Dezember 1913, vormittags Fortsetzung
+
+## Arbeiten in Silber, Messing. Kupfer, Zinn etc.
+
+- 145.EIN SILBERNER BROTKORB 642 gr.
+- 146.DESGLEICHEN 507 gr.
+- 147.KLEINE JUDISCHE LAMPE Silber, 186 gr.
+- 148.TEEDOSE Silber, 320 gr.
+- 149.DESGLEICHEN Silber,245 gr.
+150. JARDINIERE mit Schwan, Silber, 382 gr.
+- 151.NAUTILUSBECHER Silber, 227 gr.
+- 152.EIN LEUCHTER
+- Silber, 296 gr.
+- 153.EIN LEUCHTER
+- Silber, 289 gr.
+- 154.JARDINIERE
+- mit Glas, Silber, 522 gr.
+- 155.DESGLEICHEN
+- 542 gr.
+- 156.DOSE
+- Silber, sechseckig, 293 gr.
+- 157.BECHER Silber, 174 gr.
+- 158.SCHMUCKKASSETE Silber,1327 gr.
+- 159.BROTKORB klein, Silber, 315 gr.
+- 160.GROSSER TEEKESSEL mit Wappen, Silber matt, 2375 gr.
+- 161.BROTKORB klein, Silber, 330 gr.
+- 162.BROTKORB Dreieckig, Silber. 454 gr.
+- 163.TEEDOSE GroB, Silber, 480 gr.
+- 164.TEEDOSE
+
+GroB, Silber, 433 gr.
+
+- 165.FRUCHTPLATTE Silber, vergoldet, 360 gr.
+
+## Montag, den 8. Dezember, nachmittags 4 Uhr.
+
+- 166.FRUCHTPLATTE Silber, vergoldet, 383 gr.
+- 167.JARDINIERE mit Adlerkopfen, weiBes Glas, Silber, 1036 gr.
+- 168.BROTKORB Silber, 556 gr.
+- 169.TEESIEB Silber, 65 gr.
+- 170.DESGLEICHEN
+- 62 gr.
+- 171.DESGLEICHEN 55gr.
+- 172.DESGLEICHEN
+- 55gr.
+- 173.DESGLEICHEN 68 gr.
+- 174.DESGLEICHEN 65 gr.
+- 175.DESGLEICHEN 57 gr.
+- 176.DESGLEICHEN 59 gr.
+- 177.ZWEI SALZLOFFELCHEN Silber. 11 gr.
+- 178.KLEINE ZUCKERSCHAUFEL
+- Silber, 26 gr.
+- 179.DESGLEICHEN
+- 26 gr.
+- 180.KLEINE DOSE
+- rund, Silber, 57 gr.
+- 181.KAFFEEKANNE
+- Silber, 393 gr.
+- 182.TEEKANNE
+- Silber, 416 gr.
+183. MILCHKANNE
+- Silber, 195 gr.
+- 184.ZUCKERDOSE Silberdose.248 gr.
+- 185.KORB
+
+mit Henkel,oval,weiBes Glas,Silber,568 r
+
+- 186.DESGLEICHEN
+- 540 gr.
+- 187.BROTKORB sechseckig, Silber, 491 gr.
+- 188.JARDININIERE
+
+mit Schwan, Silber, 382 gr.
+
+- 189.BROTKORB
+- Silber, 580 gr.
+- 190.DESGLEICHEN 496 gr.
+- 191.TEEDOSE
+
+Silber, 228 gr
+
+- 192.TEESIEB
+- und Stander, Silber,162 gr.
+- 193.DESGLEICHEN
+- 135 gr.
+- 194.HENKELKORB GroB,mit blauem Clas, Silber, 1340 gr.
+- 195.BROTKORB
+- Silber, 605 gr.
+- 196.DESGLEICHEN 550 gr.
+- 197.DESGLEICHEN Viereckig, 305 gr.
+- 198.DESGLEICHEN Viereckig, 323 gr.
+- 199.GROSSE KAFFEEKANNE
+- Silber, 1064 gr.
+- 200.GROSSE TEEKANNE Silber, 893 gr.
+- 201.GROSSE MILCHKANNE Silber, 436 gr.
+- 202.ZUCKERDOSE
+- groB, Silber, 565 gr.
+203. SAUCIERE in Form eines Hahnes, Silber, 330 gr.
+- 204.SILBERPETSCHAFT 4cm.
+- 205.SILBERBECHER Hohe 7 cm.
+- 206.ZWEI SILBERLEUCHTER Barock mit Glastille, Hohe 7 cm.
+- 207.TABAKSPEICHCHEN
+- Silber getrieben,15 cm.
+- 208.ZWEI SERVIETTENRINGE Getrieben, einer mit Amethist, Lange je 17 cm.
+- 209.BRONZESTATUETTE FRIEDRICH DES GROSSEN
+- Hohe 25 cm.
+- 210.BRONZESTANDUHR
+- mit Diana und Trophaen, Hohe 30 cm.
+- 211.BRONZESTANDUHR
+- Amor auf von Hunden gezogenen Wagen, Hohe 20 cm.
+- 212.BRONZESTATUETTE
+- Dudelsackpfeifender Narr. Ruckseite hohl, H. 10 cm.
+213. NEUN VERSCHIEDENE FINGERRINGE
+- 214.REICHVERZIERTER PARADEDOLCH
+
+Der ovale vierseitige Griff mit birnformigem.Knauf und kurzer, umgebogener Parierstange; wie die Scheide mit Kugelknauf und durchbrochenen Seitensticken, mit reichem Bronzeschnitt und Niello verziert. Rankenornament mit Rosetten und Tieren, Die Klinge mit vergoldeten Gravierungen. An der Ansatzstelle beider-
+
+- 215.KUSSTAFEL
+
+Bronze vergoldet, mit Renaissancetabernakel und der Darstellung des toten Christus uber dem Grabe. An der Ruckseite reich verzierter Henkel. OberAbbildung Tafel 7 italienisch, 15.Jahrhundert. 16:9 cm.
+
+- 216.MESSINGSAMOWAR
+- Hohe 40 cm.
+- 217.KLEINE WANDUHR
+- mit getriebenem Messing. Schild und Emaille Zifferblatt. Lange 14 cm.
+- 218.BRONZETURKLOPFER
+- mit Rocaillehenkel.
+219. VIER WASSERSPEIER Lowenkopfe.
+220. Marienkrone
+
+Messing und Silber getrieben mit feinen Steinen. Hohe 20 cm.
+
+- 221.BLUMENKUBEL Kupfer in Messinggestell mit Emaille. Hohe 20 cm.
+- 222.ELFENBEINPRUNKSCHUSSEL Ovale Form aus getriebenem, reich ornamentiertem Messing. Am Rande vier, im Grunde eine ovale Elfenbeinplatte mit Kriegsszenen in Hochreliefschnitzerei. L.80 cm,B.60 cm. Abbildung Tafel 7
+- 223.GETRIEBENE PRUNKSCHUSSEL oval mit der Darstellung der Huldigung ungarischer Ritter vor dem Konig. Am Rande Fruchtranken, unterbrochen von Medaillons mit Brustbildern des Konigs und dessen Rittern. L.82 cm, 53 cm.
+- 224.KUPFERGEFASS Kugelige Leibung mit gerade aufsteigendem Hals und zwei gebogenen Eisen-
+
+henkeln.H. 21 cm,
+
+225.ACHT BRONZEBESCHLAGE Schlusselschilder; fuinf grobe und drei kleine. ausstrahlenden Blumen. B.12 cm,bzw.9,5 cm.
+
+Breite Rollwerkkartuschen, mit
+
+- 226.DREIZEHN BRONZEBESCHLAGE Schlusselschilder; davon elf in Form zweier ein Medaillon haltender Putten H.9cm.
+- 227.NAPOLEONJAGDGEWEHR
+
+Boutet et Fils 521, mit Hangegurt, Ladestocken, Hammer und KugelguBzange in poliertem Holzkasten. Der Kolben ist mit glanzengen Nageln ornamental beschlagen, das SteinschloB mit ornamentalen und figurlichen Gravierungen versehen, der damaszierte, achteckige Lauf mit Gold tauschiert. L. des Gewehres 107 cm.
+
+- 228.SPANISCHES GEWEHR
+
+Inschrift:EN PLAZCVIPA. Funf Marken.L. 122 cm.
+
+- 229.RAHMEN
+
+Emaille und GlasfluBarbeit. 45:40 cm.
+
+- 230.FLORENTINER MESSINGLAMPE
+
+Hohe 65 cm.
+
+- 231.BRONZEMORSER
+
+Henkel und zwei Relief. Schrift. 15 cm.
+
+- 232.FEUERPFANNE
+
+Kupfer, durchbrochen. Lange 40 cm.
+
+- 233.BRONZEPLAKETTE
+
+Die Vertreibung aus dem Paradiese. Vor dem Apfelbaume tritt Gottvater in wallendem Mantel vor Adam und Eva hin. Rechts und links Tiere. Unten die Jahreszahl 1549. Umschrift: DIXIT DOMINVS ECCE ADAM QVASI VNVS EX NOBIS FACTVS EST SCIENS BONVM ET MAVUM GE...II
+
+- 234.EISENGUSS-RELIEF
+
+Christus und die Ehebrecherin. von F. Putinati. Vor dem Tempel steht Christus inmitten einer Volksgruppe, sich mit den Pharisaern iber eine Schriftstelle auseinandersetzend. Rechts halt ein Kriegsknecht die Ehebrecherin. Unten bez. H.16,2 cm,B.10,8cm,
+235.BRONZERELIEF in Bronzerahmen. Christus kniet am Boden, Petrus die FuBe waschend, Die uibrigen Juinger schauen zu. wahrend Johannes einen Wasserkrug bringt. H.9,5 cm,B.13,6 cm.
+
+- 236.EIN PAAR KLEINER BAROCKLEUCHTER Bronze versilbert. Auf dreiseitigem, an den Kanten gewundenem Sockel, auf
+
+drei KugelfuBen; mit profiliertem Schaft und Lichtteller. H. 15,3 cm.
+
+- 237.SPIELDOSE
+
+in Form eines Uhranhangers mit Spielwerk. Gold mit Emaille und Steinen,
+
+Lange 4 cm.
+
+mit reich graviertem Zifferblatt und Deckel von Besthoud. Im Geheimfach erotische
+
+- 238.GOLDENE TASCHENUHR Scene.Dm.5 cm.
+- 239.ZWEI ZINNBUCHSEN
+
+in Munzenform mit Reliefs von Thoms Stettner, Nurnberg. Auf der einen auf der Vorderseite Gerechtigkeit, Weisheit und Einigkeit beglucken die Menschheit" mit entsprechenden Personifikationen; auf der Ruickseite: ,Eintracht iberwindet alles. 1813", um einen wappengeschmuickten Tempelbau, auf dessen Architrav ,Heil Euch Vereinten". Auf der anderen auf dem Deckel: Franz I, Kaiser von Osterreich, Alexander I., Kaiser von RuBland, Friedrich Wilhelm Ill., Konig von PreuBen.Stettner fec. Nbg." um die drei Brustbilder. Auf der Ruckseite Germania mit der Umschrift: Schon wie die deutsche Eiche grun mein Volkes Glick". Die Dosen enthalten auf runden Blattchen Kupfer mit Schlachtenbildern und darauf beziglichen Texten. D. 5 cm,
+
+- 240.DREI OVALE RELIEQUIENBEHALTER mit Heiligenbildern in Filigranumrahmung. Bronzefassung. H. 75 bis 96 cm, B.6,4bis 8cm,
+- 241.DREI ZINNTELLER flache Form mit aulgebogenem Rand, zwei mit Zinnmarken, einer, beschadigt,mit
+
+Gravierung E.G. auf der Ruckseite. Dm.21 cm,
+
+Gedrehte Birnform mit SchnabelausguB und geschwungenem Henkel. Zinnmarke.
+
+242. ZINNKANNE H.20cm.
+2. 243.DESGLEICHEN ebenso, kleiner. H. 17 cm.
+
+## 244. ZINNSERVICE FUR KAFFEE UND TEE
+
+bestehend aus fuinf Stuicken, Kaffeekanne auf vier FuBen in bauchiger, achtmal eingezogener Form n mit hohem Deckel, Knopf ein sich niederlassender Sperber. Mit gebogenem Henkel und geschwungenem AusguB. Leibung achtseitig mit Renaissance-Ornamenten. Zinnmarke, Teekanne, entsprechend der Kaffeekanne.Zuckerdose ohne Deckel mit zwei Henkel auf vier FuBen.- Henkel- sahnenkannchen mit ibergehendem AusguB. Zinnmarke. H. 8 bis 20 cm.
+
+- 245.ZINNKRUG
+
+unten ausgeschweift mit gebogenem Henkel und Deckel. An der Stirnseite graviert R.V.M. Am Henkelansatz eine Maske. H. 22 cm.
+- 246.ALTE ZINNSCHUSSEL Innungsschuissel der Fleischhauer. Der schmale Rand mit gravierter Inschrift: "Dem Loebl. Fleischhauer. Mittel. Die Herrnn Aeltesten Johann Gottlieb Wilde. Joseph Koffert. Verehret Christian Brandt. 1802". Im Fond zwischen Ranken und Blumen Fleischhauerembleme. Zinnmarke: Figur mit Askulapstab und drei
+
+Anker.Jahreszahl 1792.Dm.43 cm,
+
+- 247.ZINNKANNE unten ausgeschweift mit spitzem AusguB, gebogenem Henkel und Deckel mit
+
+Urnenknauf. An der Stirnseite gravierte Raute mit G.M. 1874. H. 27 cm.
+
+- 248.ZINNWALZENKRUG
+- auf profiliertem FuB mit Deckel und gebogenem Henkel. Auf dem Deckel graviert A.R.F.1804.H.25 cm,
+- 249.ZWEI ZINNLEUCHTFR einfache, schlanke Form. H. 17 cm.
+- 250.ZWEI ZINNLEUCHTER
+- auf breitem FuB. H. 13 cm.
+- 251.ZINNLEUCHTER
+- H.18cm.
+- 252.DESGLEICHEN
+- Gedrungene Form.H. 15 cm
+- 253.ZWEI ZINNLEUCHTER Gerade Form. H. 15 cm.
+254. ZINNTREIBKESSEL mit Kette. H. 6 cm.
+- 255.ZINNWEIHWASSERKESSEL Zwei Anhanger. H. 15 cm.
+- 256.ZINNPOKAL
+- auf schlankem, baumartigen FuB. H.24 cm.
+- 257.ZWEI ZINNTELLER Dm.20cm.
+- 258.ZINNKASSEROLLE Dm.20cm.
+- 259.ZINNTELLER Graviert.Dm.35 cm.
+- 260.ZINNTELLER Dm.35cm.
+- 261.DESGLEICHEN Dm.30cm.
+- 259.DESGLEICHEN
+- Dm.32cm.
+
+DESGLEICHEN
+
+Graviert. Dm.36 cm.
+
+- 260.ZINNLEUCHTER
+- H.19cm,
+
+DESGLEICHEN
+
+H.13cm,
+
+DESGLEICHEN
+
+H.10cm.
+
+- 261.FUNF ZINNSALZFASSER
+- H. zirka 6 cm,
+262. ZINNWEIHKESSEL mit Henkel. H. 7 cm.
+- 263.ZWEI SCHLANKE ZINNLEUCHTER H.16 cm.
+- 264.ZINNLEUCHTER H.16cm.
+
+DESGLEICHEN
+
+H.15cm,
+
+DESGLEICHEN
+
+H.15cm,
+
+- 265.DESGLEICHEN
+- breite Form. H. 18 cm.
+266. ZWEI ZINNLEUCHTER
+- gerade Form. H.19 cm.
+267. ZWEI DREIFUSSIGE ZINNLEUCHTER H.30cm.
+- 268.TIEFER ZINNTELLER
+- 35Dm.
+- 269.TIEFER ZINNTELLER 1870 Dm.35cm.
+275.
+
+278.
+
+## Gemalde alter Meister, Miniaturen.
+
+## UNBEKANNTE MEISTER
+
+270. Bildnis eines Ungarn in goldverziertem Rosse, mit Turban auf dem Kopfe. Lw.75:60 cm Goldrahmen.
+
+## SPANISCHER MEISTER
+
+271. Anbetung der Madonna; deren Gewand zwei Engel iber den anbetenden Kleriker halten. Holz 75:60 cm o.R.
+
+## VACLAR BROZIK
+
+272. Bildnis eines alten Mannes in rotem Rocke mit Barett. Lw. 60:47 cm. Schwarzer Rahmen.
+
+## MEINDERT HOBBEMA
+
+273. Landschaft hinter ein Bach und Tal, rechts Berge und Baume, vorn gehende Lw.50:70cm.Goldrahmen
+
+1658-1709 Amsterdam.
+
+## KOPIEN NACH PETER-PAUL RUBENS
+
+0274. Mannliche Bildnisse. Lw.47:37 cm.Goldrahmen.
+
+## UNBEKANNT UM 1860
+
+Bildnis eines Heren
+
+Bildnis einer Dame
+
+Signiert L.B.46:37 cm,Lw.Goldrahmen
+
+## C.H. NARDEN
+
+- 276,Die Zecher. Bauern in einer Hutte zechend und rauchend. Sig. C. G. Narden 1669. Holz 30:26 cm. Schwarzer Rahmen.
+
+1669
+
+## HANS VON BARTELS
+
+- 277.Kuste im Sturm. Holz 12:23 cm,
+
+1856-1913.
+
+## UNBEKANNT
+
+- Dorfkirche und See bei Mondschein. Pappe. 22:34 cm. Schwarzer Rahmen,
+- Kolorierte Photographie eines osterreichischen Offiziers. Brauner Rahmen.
+
+## PROF. EUGEN PICZEC
+
+279. Bayrische Landschaft in der Ferne die Turme von Munchen. Pappe signiert. Schwarzer Rahmen. 15:22 cm.
+
+Munchen.
+283.
+
+## NIEDERLAENDER
+
+des 17.Jahrhunderts
+
+280. Landschaft mit Teich und fischenden Knaben, Holz. 20:27 cm, Goldrahmen,
+
+## LUDWIG GEBHARDT
+
+1830-1908
+
+281. Bayrische Landschaft. Holz signiert. 23:42 cm. Schwarzer Rahmen.
+
+## MONOGRAMMIERT F.R.
+
+282. Die Zecher. Holz. Schwarzer Rahmen. 13:10 cm.
+
+## UNBEKANNTER MEISTER
+
+Vision eines Heiligen dem ein gruisteter Engel erscheint. Lw. 21:14 cm, Goldrahmen.
+
+Der heilige Antonius von Padua mit dem Christuskind in den Armen.
+
+Lw.40:30cm o.R.
+
+- Bildnis eines allten Mannes mit Stab und Buch. Lw.40:30 cm o. R. 284. IBildnis einer Dame mit Spitzenkopftuch. Lw.43:32 cm o.R.
+285. Dreizehn Stahlstiche mit Potsdamer Ansichten von G. Hess nach F.G. Borschel in Biedermeierrahmchen,
+286. Sechzehn Stiche und Litographien mit Potsdamer Ansichten in Biederrahmen,
+287. Zeichnung verschiedener Insekten in schwarzen Rahmen. 20:16 cm.
+- 288.215,291,211,214,113.
+- Sechs Soldatenbilder, Lithographien koloriert in Biedermeierrahmen.
+
+## DEUTSCHE SCHULE
+
+des 15.Jahrhunderts.
+
+289. Auferstehung Christi. Christo schwebt die Fahne in der handhaltend aus dem geoffneten Grabe empor. Drei Soldaten an der Erde. Holz. 55:45 cm. Schwarzer Rahmen,
+
+## UNBEKANNT
+
+290. Tunesische Landschaft;Lithographie. 33:48 cm. Goldrahmen,
+2. 291.Konigin Auguste Wilhelmine Auguste von Preussen. Lithographie
+3. 50:35 cm.Schwarzer Rahmen.
+
+Friedrich Wilhelm Il. v. Preussen. Lithographie. 50:35 cm. Schwarzer Rahmen.
+
+- 292.J. P. Simon nach Thos.Kirk. Shakespeare Measure for Measure. V Alt I Scene. Schabheimsblatt 50:60 cm. Schwarzer Rahmen.
+- Shakespeare: King Hemy the Eight Ill act
+293. Rober Thews nach Will. Peters.S I Sam Schabheimstblatt. 50:60 cm. Schwarzer Rahmen.
+- 294.Declaration of Independence. 1776. Gestochen. 90:60 cm. Goldrahmen,
+295. Vier Portraitstiche unter Glas, Prinzessin Hohenzollern-Hechingen. Maria Stuart und andere. Schwarzer Rahmen.
+296. Zwei Stiche und Lithos in Rahmen. G.Audran,Aeneas, Der erste Kosacke Tettenhorns. Goldrahmen.
+297. Vier farbige Stiche aus der Preussischen Geschichte und Marmar-
+- palais. Mahagonirahmen.
+- 298.Stich,koloriert,,Tragkorbe". 15:10 cm. Mahagonirahmen.
+299. Zwei Regimentsaquare le preussischer Truppen je 18t14 cm schwarzer Rahmen,
+- 300.J. Bonhaken nach Quinkhardt. Michael de Ruitez. Stich.18:12cm
+- Mahagonirahmen.
+301. Zwei farbige Lithographien. Die Geschichte der Ruth IIl. Kirschholz-
+- rahmen.
+302. Aquarell. Maultiertr-iber auf einer Anhohe. 17:16 cm. Goldrahmen
+- 303.Farbiger Siich. Eisenhuttenwerk Groditz. 15:21 cm.
+- Kirschholzrahmen,
+- 304.Aquarell eines kleinen Madchens in weissblauem Kleide. Um 1840. Oel. 26:20 cm.Goldrahmen
+- 305.Sepiazeichnung einer liegenden Frau.Um 1800. 26:35 cm. Goldrahmen.
+
+## MORITZ MICHAEL DAFFIN GER
+
+306. Frauenbildnis. Die Dame mit dem schlicht gescheitelten schwarzen Haar tragt ein blaues Kleid mit weisser Spitzenkrause. Die Gestalt heht sich vou einer graugelben Wand ab. Miniatur auf Elfenbein. H. 10,5 cm; B. 8,2 cm. Bronzerahmen,
+
+Wien,1790-1849
+
+## NACH MORITZ MICHAEL DAFFINGER
+
+- 307.Frauenbildnis. Leicht veranderte Kopie des vorigen. H.10,5 cm; B.8,5 cm,
+
+Wien,1780-1849.
+
+## DEUTSCHER MEISTER UM 1800.
+
+308. Bildnis eines jungen Madchens. Die junge Dame in ausgeschnittenem Hintergrund.Miniatur auf Elfenbein. Dm.7,7 cm. Vergoldete Bronzefassung
+
+## FRANZOSISCHER MEISTER
+
+- Die Konigin tragt ein ausgeschnittenes blaues Kleid mit weissen Tuillschleifen. Der Kopf mit der hohen, leicht gepuderten Frisur ist etwas nach links gewandt. Braungruner Hintergrund.. Miniatur auf Elfenbein. Oval. H.5,6 cm;B.4,6 cm,Silberfassung mit StraBsteinen mit schleifenformiger
+
+des 18. Jahrhunderts
+
+- 309.Marie Antoinette. Bekronung.
+
+## FRANZOSISCHER MEISTER
+
+310. Bacchantentszene. Auf einem Rasenplatz vor einer Faunsherme tanzen zwei
+
+des 18, Jahrhunderts.
+mit zarten Schleiermanteln bekleidete Frauen nach den Klangen der Flote, die ein linkssitzender Jungling blast. Hinter diesem sitzen und stehen noch drei andere Junglinge und schauen bewundernd dem Tanze zu. Im Hintergrunde
+
+Wald. Miniatur auf Elfenbein, H. 9,6 cm;B.7,5 cm.Bronzerahmen.
+
+## FRANZOSISCHER MEISTER UM 1800.
+
+- 311.Damenbildnis. Die Dame, die sich in den Polstern aufgerichtet hat, ordnet mit der rechten das Nachtgewand, das, ihre Brust entbloBend, herabgesunken ist. Das Oval des Kopfes umrahmt das Haubchen, uber das eine Nachtmitze gezogen ist. Beide umschlingen rosa Bandchen. Rechts und links fallen grune Vorhange herab. Miniatur auf Pergament. Oval. H. 8,6 cm; B. 7 cm. Elfenbeinrahmen,
+
+## JOHN SMART DER ALTERE
+
+London,1741—1811.
+
+312. Bildnis eines Offiziers, Vom graugetonten Hintergrund hebt sich das Brustbild eines Offiziers mit glattrasiertem Gesicht ab, dessen roter Uniformrock mit blauen Aufschlagen und Goldlitzen das Spitzenjabot freilasst. Der Kopf ist nach rechts, der Korper ist wieder leicht nach vorn gewandt. Miniatur auf Elfenbein.Oval. H.3,5cm;B.3cm. Bez.:J.S. 1777. Goldfassung; Medallion eines Armbands. Auf der Ruickseite Monogramm W.H.
+
+## ROBERT THEER
+
+- 313.Engelskopfchen. Das Blondhaar ist in der Mitte gescheitelt und umrahmt mit seinen Locken das runde Kindergesicht.Vom blauen Himmel heben sich die blaulichgrunen Flugel ab. Miniatur auf Elfenbein. Dm.4,7 cm.Vergoldete
+- Silberfassung: Brosche.
+
+## SAMPSON TOWGOOD ROCHE
+
+London, gest,nach 1816.
+
+- 314,Bildnis einer Dame. Vom Grun des Parks. in dessen E Hintergrunde ein Rundbau sichtbar wird, hebt sich das Brustbild einer jungen Dame in tief ausgeschnittenem violettem Kleide mit weissen Spitzenrischen ab. Das volle Haar ist gepudert und von einem hellblauen Bande zusammengehalten. Ueber die Linke fallt ein weisser Pelzmantel. Miniatur auf Elfenbein. Dm. 6,5 cm.In den Deckel einer Schildplattdose montiert.
+
+## UNBEKANNTER MEISTER
+
+des 18.Jahrhunderts
+
+315. BILDNIS EINES VORNEMEN HERRN. Der vollwangige glattrasierte Herr tragt eine weisse Allongeperucke und einen blauen Reidenrock, der, offenstehend, das Hemd und die herabhangende Spitzenbinde sichtbar werden lasst. Emailminiatur. Oval.H.4，2cm;B.3,4 cm. Silberfassung mit StraBsteinen schleifenartige Bekronung.
+
+## MICHAEL WEIXLBAUM
+
+Wien,1780-1842.
+
+- blauen Tuchrock, dessen Ansschnitt die weisse Spitzenkrause freilasst. An der Brust tragt er einen Orden. Kopf und Korper sind halb nach rechts gewandt,
+- Vergoldete Bronzefassung.
+
+## JOHN SMART DER ALTERE
+
+London,17-1811.
+
+317. BILDNIS EINES JUNGEN MADCHENS. Von dem Blaugrau des Abendhimmels hebt sich der Kopf eines jungen Madchens ab. Er ist nach links gewanet und tragt ein braunes, unter der Brust grun umschnirtes Kleid, um deren spitzen Ausschnitt ein Schleier gelegt ist. Das weisse Haubchen ist mit einem grunen Band umschlungen und lasst die schwarzen Lockchen frei, die das leicht nach B.8,5 cm.Goldrahmen. Abbildung Tafel 8
+
+Wien,1808-1863.
+## JOHANN MICHAEL SCHRAMM
+
+Muinchen,1772-1835.
+
+318. MINIATUR einer Dame in duinnweissem Gewande mit Spitzenschleier iber den braunen strahnigen Haaren. Brauner Vorhang im Hintergrunde. Bg. Schrammpiux 1806. Oval. 8:65 cm. Schwarzer Rahmen. Abbildung Tafel 8
+
+## Dienstag, den 9.Dezember, vormittags 10 Uhr
+
+319. MINIATUR der Madame Catharina Alex. Bakussine in weissem Kleide mit blauviolettem Tuche und offenen Locken. Elfenbein in Holzrahmen mit Goldbronzefassung. Oval. 8:6 cm. Abbildung Tafel 8
+320. EIN PAAR MINIATUREN auf Elfenbein. Herr im Gehrock, Dame in weissem Spitzenkleide einander zugewandt, vor drapierten Vorhang, unter dem man in die Landschaft blickt. Bez.:F. Z. 1839. Im Samtrahmen. H.6 cm;B.5,5 cm.
+321. MINIATUR oval,in Bronzefassung. Portrat des Grafen Herzan mit gepuderter
+4. Perucke in grinem Rock. Auf Kupfer. H. 6 cm; B. 5,5 cm.
+5. 322.ELFENBEINMINIATUR, oval, Bronzefassung. Brustbild eines halb nach links
+6. gewandten jungen Mannes in blauem, rot verbramtem Rock mit umgelegtem weissen Hemdkragen.H. 6,6 cm;B.5,5 cm,
+323. KLEINE OVALE MINIATURin Bronzefassung auf Elfenbein. Brustbildnis eines Herrn in blauem Tuchrock mit schwarzer Halsbinde. H.4 cm； B.2,7 cm
+324. OVALE MINIATUR auf Elfenbein in Bronzefassung. Bildnis eines gepuderten Mannes in gelbrotem Leibrock. Graf Busingen.H. 3,5 cm； B.2,7 cm,
+325. GERAHMTE OVALE MINIATUR. Brustbild eines Herrn in schwarzem Gehrock mit schwarzer Halsbinde, wenig nach rechts gewandt. H.20 cm; B. 17 cm.
+326. RUNDE ELFENBEINMINIATURin Bronzefassung. Bildniseiner halb nach rechts gewandten Dame mit gepudertem Haar in weit ausgeschnittenem weiben Kleide.
+11. Dm.5,3cm.
+12. 327.KLEINES OLGEMALDE. Immaculata. Nach Murillo. Eisenblech. H.12,5 cm; B.10,5cm.
+328. BUCHATRAPPE mit Goldspitzen und Goldstickerei auf Samtgrund. Die geoffnete
+14. die Buchstaben S. W.in Filigranarbeit und Umrahmung.
+329. BILDNIS EINER ALTEN DAME mit weiBem Spitzentuche,mit Spitzenhaube auf blauem Grunde.Lw.,schwarzer Rahmen,22:28,5 cm,
+330. ZWEI BUNTE DRUCKE DER FUNZIGER JAHRE.23:16 cm.
+331. STILLEBEN,Aquarell von 1850, Biedermeierrahmen,24:cm.
+332. KOPIE EINER MADONNA, Holz.Rund-geschnitzter Rahmen, 10:11 cm.
+333. ZWEI MINIATURZEICHNUNGEN. Bildnis eines Herrn und Vermahlung Marias und Josefs in Rahmen,
+334. BILDNIS DER KAISERIN KATHARINA II VON RUSSLAND in goldverziertem Kleide mit Hermelinmantel und blauem Ordensbande, Lw.84:74,mit Goldrahmen.
+
+## NIEDERLANDISCHE SCHULE BREUJHELKREIS
+
+- 335.PREDIGT JOHANNES DES TAUFERS mit vielenFiguren. 63:105,Holz, schwarzer
+- Rahmen.
+- 336.ZWEI MINIATURBILDNISSE oval,in Messingrahmen.
+337. MINIATUR eines jungen Madchens mit blonden, um die Ohren gelegten Zopfen, in Bronzerahmchen, oval, 5:4.
+
+## FOIRE
+
+338. MINIATUR einer Dame, die auf einem roten Sessel sitzt, mit grunem Hut,mit blauer Feder und rotem Band. Ihren Facher legt sie an den Mund. Lederetui 6:5cm,
+339. MINIATUR eines Herrn mit groBer Allongeperucke. 5:4 cm,in Lederetui
+340. MINIATUR eines Herrn, in grinem Rocke mit blauem Mantel. In Messingrahmchen. 7:6cm.
+
+## FRANCOIS
+
+- 341.LIEBESSZENE. In der Kammer der Geliebten, die ihn in Hemd und Nachthaubchen erwartet, steigt durchs Fenster der Liebhaber,der seine Schuhe in der rechten Hand halt. Sie mahnt ihn still zu sein. Durch die geoffnete Tur erblickt man im Nebenzimmer eine schlafende Person. Elfenbein. 9,5:7,5 cm.In gepreBtem
+- Lederetui.
+342. GETUSCHTE BLEISTIFTZEICHNUNG VON PROF. WILBERG.Naturstudie. Felsgeroll auf Bergspitze mit Baumwuchs, dahinter Sennhitte. Papier aufgeklebt. H.201/2 cm,Br.32 cm. Signiert Wilberg 59.
+343. GETUSCHTE BLEISTIFTZEICHNUNG VON GELTSCHBERG. Portratkopf eines Kindes. Mit blondem Haar und blauer Jacke. Papier. H. 32 cm, Br. 231/2 cm. Signiert Geltschberg 3. August 1854.
+- 344.AQUARELL-PORTRAT VON CARL GOEBEL,geb. 1824. Mann mit dunkel gescheiteltem Haar und blondem Schnurrbart, Stehkragen und schwarzer Binde, den linken Arm gestutzt auf geschweiften Tisch, darauf schwarzer Zylinder und Buicher, Die Rechte halt Handschuhe.S Schwarzer Frack, helle Beinkleider, helle Weste. Hintergrund gelblicher Ton.
+345. DESGLEICHEN. Dame mit gescheiteltem Haar mit Bandern,am berankten eisernen Gelander stehend und sich r mit dem rechten Arm darauf stuitzend. Die linke Hand halt einen Facher.  Im spitz ausgeschnittenen blauen Kleide mit SchloBtaille und Spitzenbesatz. Die Armel halblang mit spitzem Ausschnitt. Hintergrund wie vor. H. 42 cm,Br.33 cm. Signiert Goebel 4854.
+- 346.BLEISTIFTSKIZZEN VON CARL SPITZWEG,1808-1885. 10 Studien auf Papier.
+- Auf blauen Karton geklebt. H. 211/2 cm, Br. 331/2 cm. Signiert Spitzweg.
+- Atelier vor der Staffelei im Malerrock und mit langer Pfeife. Papier. H. 24 cm,
+- Br.17cm. Signiert Ad. Dillens 1864.
+348. BLEISTIFTZEICHNUNG VON G. SCHALKEN. Madchen ein GefaB gieBend Auf grauen Karton geklebt. H. 15 cm, Br. 14 cm. Signiert G. Schalken.
+2. 349.BLEISTIFTZEICHNUNG VON EUG.VERBOEHOVEN, 1799-1881.Maultier. Papier. H. 14 cm, Br. 16 cm. Vigniert E. J. Verb.
+3. 350.KREIDEZEICHNUNG VON STOCKVIS. Drei ruhende Schafe. Papier. H.14 cm, Br.221/2 cm, Signiert Stockvis.
+351. TUSCHZEICHNUNG,A. VAN BEEST zugeschrieben. Marinestudie. Segelboote und Zweimaster auf bewegter See. Aufsteigendes Wetter. Papier. H.14cm, Br. 201/2 cm. Auf der Ruickseite andere angefangene Marinestudie.
+352. TUSCHZEICHNUNG, CLAS PIETERZS BERCHEM zugeschrieben. Lastfuhrwerk
+6. mit Tonnen, von vier Kuhen gezogen. Papier. H. 10i/2 cm, Br.13 cm.
+7. H.16 cm, Br.16 cm.Signiert J.B.1819.
+8. 354.TUSCHZEICHNUNG VON PETER VAN BLOEMEN,1672-1746. Liegende Kuh am Zaun. Links Graser. Papier, H. 111/2 cm, Br. 14 cm. Undeutlich signiert
+9. P.von Bloemen,
+## Mobel, Arbeiten in Holz und Stein, Wachs etc.
+
+- 355.KASSETTE
+- Ebenholz aus getriebenen Silberfeldern. Spanien XVIl. Jahrh. 20X25X14 cm.
+- 356.DREI SPANISCHE GESCHNITZTE HORNDOSEN XIV.Jahrh.
+- 357.ZWEI GESCHNITZE SPANISCHE HORNDOSEN 13.Jahrh.
+- 358.KASTCHEN
+- mit Schildpattauflage und Silberornamenten. Spanien. 6:12:8,5 cm.
+- 359.KASTEN mit eingelassenen Horn und Schildpattplatte zwischen gravierten Messingstreifen. Innen Zink. Spanien,14:25:15cm.
+- 360.SPANISCHER GESCHMIEDETER UND VERGOLDETER RAHMEN
+- mit religiosen Stichen des hg. Franz. 40:35 cm,
+- 361.HOLZSTATUE einer Heiligen mit Buch. Spuren alter Vergoldung. Spanisch. Hohe 85 cm,
+- 362.MARMORSTATUETTE der auf Putten und Walten schwebenden Madonna.S Spanisch.17. Jahrhund.
+
+Hohe 25 cm,
+
+- 363.HOLZSTATUE der Maria mit dem bekleideten Christuskinde. Bemalt. Spanisch. 14. Jahrh. Circa 110 cm,
+- 364.CHRISTUSSTATUETTE
+- Holz, mit bemalten Sockeln. Spanisch. 17. Jahrh.
+- 365.HOLZBUSTE EINES HEILIGEN
+- sehr zerstort. Spanisch. Hohe 28 cm,
+- 366.HOLZSTATUETTE
+- eines knieenden Engels. 16. Jahrhundert. Vergoldet. Spanisch. Hohe 25 cm.
+- 367.KLEINE HOLZSTATUETTE
+
+eines Einsiedlers, Barock, Hohe 20 cm.
+
+- 368.HOLZKORBCHEN Olivenholz, innen mit Seide ausgeschlagen. Hohe 30 cm,
+- 369.STANDUHR
+
+in Lyraform, Mahagoni mit Empirebronzebeschlagen, von Roger Fils Paris. Hohe 50 cm. Defekt.
+
+- 370.KLEINE SCHMUCKKOMMODE Vorderwand Glas innen mit Sammet aus-
+
+Mahagoni mit Bronzebeschlagen, geschiagen, defekt. 21 cm.
+
+- 371.PFEIFENKOPF
+
+Polisanderholz
+
+- 372.CALVARIENBERG
+
+holzgeschnitzt, bemalt, in Holzgehause. Das Kruzifix auf einem Totenschadel stehend.
+
+- 373.UHRGEHAUSE mit sitzender Knabengestalt und zwei Delphinen, Geschnitzt. Hohe 30 cm,
+- 374.SAKRAMENTSHAUSCHEN mit Barocksaulen, schwarzes Holz, teilweise beschlagen und vergoldet. Hohe 35 cm
+
+## MITTELDEUTSCHE MEISTER DES 18. JAHRHUNDERTS
+
+- 375.HEILIGER MONCH
+
+stehend, ein Buch in der herabhangenden Rechten. Die Linke fehlt, Lindenholzfigur mit alter Bemalung. H. 93 cm.
+
+- 376.WEIBLICHE HEILIGE in Nonnentracht, eine Rose an die Brust druckend. Lindenholzfigur mit alter Bemalung. H.93 cm.
+
+## DEUTSCHER MEISTER DES 18. JAHRHUNDERTS.
+
+- 377.DER HL. JOHANNES AUF PATHMOS Der Evangelist im grunen Gewande mit rotem Mantel schreibt, den Blick zum hochrelief mit alter Bemalung. H.53,5 cm,
+378. ZEHN TONFIGUREN VON EINER SPANISCHEN WEIHNACHTSKRIPPE
+- Ein Konig, Hirtinnen, zwei Kamele.
+- 379.BEMALTE TONSTATUETTE spanisch. Zigeunerin. H. 15,5 cm.
+380. SPANISCHER FACHER Elfenbeingestell,
+
+durchbrochen mit Perlmutter belegten Eckstaben. Beider- seitig mit Szenen aus dem spanischen Volksleben in Gold und farbiger Lithographie.
+- 381.DESGLEICHEN
+
+ahnlich. Ohne Perlmutter.
+
+- 382.DESGLEICHEN
+
+ahnlich. Szenen auf schwarzem Grunde.
+
+- 383.DESGLEICHEN
+
+ähnlich. Auf der einen Seite mythologische Darstellung.
+
+- 384.DESGLEICHEN
+
+Gestell Perlmutter durchbrochen mit Goldauflage. Auf der einen Seite Abschied eines Ritters von Edelfrauen. Auf der anderen Seite vornehmer Turke bei seinen Haremsdamen im Garten. Farbige Lithographie.
+
+- 385.HOLZFIGUR
+
+eines kleinen Bauernmadchens. 27 cm hoch.
+
+- 386.HOLZFIGUR
+
+bemalt. Christus mit der Dornenkrone sitzend, Hohe 33 cm.
+
+- 387.HOLZBUSTE
+
+des Grafen Wartenberg, 1680, die eine Seite als Totenschadel gearbeitet. Hohe 40cm.
+
+## FR. PACZACK
+
+1680-1756
+
+- 388.BEMALTE HOLZSCHNITZEREI
+
+Ein Papst betet das Lamm Christi an. Voluteneinrahmung. 34:29 cm.
+
+KUCHENFORM UM 1798
+
+Holz, Schaferpaar und Hahn.
+
+DESGLEICHEN
+
+Tiere und Schafer.
+
+DESGLEICHEN
+
+Figuren und Spruiche
+
+DESGLEICHEN
+
+Frau und Spruch
+
+DESGLEICHEN
+
+Schornsteinfeger und NuBknacker.
+
+DESGLEICHEN
+
+Ornamente.
+
+- 390.KRIEGS-TAGZEITEN
+
+in Lederband mit Silberbeschlagen, durchbrochen.
+
+- 391.HOLZKASTEN Darstellung der
+
+schwarz, in Renaissanceform, mit versilberten Puttenfiguren. Venus.Mit Samteinsatz. 45:32:44 cm.
+
+389.
+## 392.BOULE-TOILETTEKASTCHEN
+
+Auf dem Deckel eingelegte gravierte Schildform. Kompliziertes SchloB.Im Innern mehrere Abteilungen; darin noch zwei geschliffene Flaschchen. Das SchloBteil zeigt in Bronze graviert die Firma des Verfertigers: Biennais, Orfevre de L.L.MM.Imperiales et Royales et de S. M. le Roy de Hollande au Singe Violet N.283." H.10 cm,Deckel 25:16 cm,
+
+- 393.HORNBROSCHE mit geschnitztem BlumenstrauB in Korallenfassung und Bronzemontierung. H.51/2 cm.
+
+Br,41/2cm.
+
+## 394.KARTENALMANACH
+
+fur das schone Geschlecht, in 51 Karten. Wien bey Johann Neidl,Kupferstecher, 1815. Mit analogen Poesien und Erklarungen von Joachim Perinet. Gr 10:61/2 cm,
+
+395.VISITENKARTENTASCHE MIT MINIATUR Brieftaschenform mit einschiebbarer Papptasche von langlich rechteckiger Form Meeres. Hafenbild. Im Vordergrunde Bollwerk mit angelegten Segelbooten. H.61/2 cm,Br.121/2 cm.
+
+- 396.WANDSCHIRM vierteilig, mit reicher Malerei. In Rocaillen und Rankenumrahmung Watteauszenen, darunter und daruber einfarbig Putten und Tiere. H.158 cm, Br. je 58 cm,
+
+## 397.HOLZKASSETTE
+
+mit vergoldeten Eisenbeschlagen und Stuckfuillungen mit Blumenornamentcn.Die rechte Seitenwand ist herausnehmbar und verhuillt fuinf kleine Schubladen, deren ein Paar ein Geheimfach verbirgt. H. 14 cm, B. 22 cm. T. 13,2 cm.
+
+- 398.NUSSKNACKER Buchsholz, geschnitzt, mit Engelsfiguren und dem Gekreuzigten. Lange 16 cm
+- 399.SPANISCHER FACHER Durchbrochenes und bemaltes Elfenbeingestell.
+
+Papierfacher mit Facherscenen und Blumenrand. Ruckseite einsame Schaferin.
+
+- 400.SPANISCHER FACHER Durchbrochenes und vergoldetes Elfenbeingestell. Blumenkartouchen und Landschaft.
+- 401.SPANISCHER FACHER Durchbrochenes und vergoldetes Elfenbeingestell mit Perlmutter aufgelegt. Litho-
+
+graphie von Rokokopaaren.
+
+- 402.BIEDERMEIER NECESSAIRE Horndose mit Perlmuttermedaillon und vergoldeten Ornamenten. Aufschrift: Sou-
+
+venier d'amitie, mit Scheere etc. Lange 9,5 cm.
+
+- 403.VERGROSSERUNGSGLAS Bronzefassung mit geschnitzter und durchbrochener Elfenbeinauflage, spielende
+
+Amoretten.Um 1790.Lange 4 cm,
+- 404.ASSYRISCHER ZIEGELSTEINSTEMPEL sechsseitig, mit vertieften Darstellungen. Oben Rosette, unten Hahn; auf den Langseiten opfernder Priester, Gazelle, Stier und Fisch. H. 10,4 cm, B.7 cm,
+
+T.5,5cm
+
+- 405.AGYPTISCHE TONMUMIE
+- H.15cm.
+- 406.ZWEI HOLZSKULPTUREN Heilige der Gesellschaft Jesu, Der eine in langem Talar, iber den ein Rochette herabfalt; den Kopf bedeckt ein Barett, die Schultern ein Mantelchen; beschadigt. Der andere in langem Talar, iber den ein langer Mantel failt, der mit dem rechten Arm hoch genommen ist.
+- 407.MADONNENSTATUETTE Die Halbfigur der Madonna ist aus Bernstein gebildet. Der silberne Sockel ist vergoldet, unten maBwerkartig durchbrochen und oben mit leicht getriebenen und gravierten Blumenranken verziert auf die vorne das Antlitz Christi, auf der Ruckseite ein Lowe in Silber aufgelegt sind. Das Haupt der Madonna schmickt eine silberne Christuskind mit vergoldetem Strahlennimbus, das in der Linken die vergoldete Weltkugel tragt. Die rechte Hand trug urspringlich das Zepter, sie ist leicht beschadigt. Augsburg(?).Bernstein-Statuette 15./16.Jahrhundert, Kind Abb. Tafel 7.
+- und Fassung 17. Jahrhundert. H: 13 cm.
+
+408.DYPTICHON Silberkapsel in Buchform mit Zellenemail in Grun und Blau mit Steinbesatz. Im Innern durchbrochene Holzschnitzereien in Emailumrahmung Rechts in einem Ringsum in aus Rankenwerk gebildeten kleineren Kreisen zahlreiche Heiigenbrustbilder. Links die Verherrlichung des Abendmahls, ebenfalls von Heiligen umgeben,RuBland. 17(?).Jahrhundert. H.7,2 cm, 5,5 cm, T.2,7 cm.
+
+- 409.ZWEI RAHMEN MIT RELIQUIEN Die mit Zetteln bezeichneten Reliquien sind jedesmal um ein Aquarell auf Pergament, das einmal den Ecce homo, das andere Mal die Mater dolorosa darstellt, zwischen Filigranblumen angeordnet.
+410. SCHILDPATTGEFUTTERTE ELFENBEINDOSE.Auf dem Deckel in Bronze
+- fassung. Wedgewoodrelief mit Orpheus. Dm. 6.3 cm.
+411. DREI DOSEN. Zwei Lackdosen, die eine kartuschenformig mit Landschaft, die Eine Blechdose, auf dem Deckel
+- andere rechteckig mit Dame bei der Toilette. Orientalin mit einem Krug. L. 6,9 cm und 10 cm.
+412. SILHOUETTE eines Herrn,nach links gewandt,in goldenem Rahmenfeld,das an
+- einer Schleife zu hangen scheint. H. 10,4 cm; B. 7,6 cm.
+413. SILHOUETTE WOLFGANG AMADEUS MOZARTS in schraffiertem Oval-
+- rahmen, nach rechts. Samtrahmen. H.9,5 cm; B. 8 cm.
+414. VERNIS-MARTIN DOSE mit Bronzefassung mit Miniatur e einer Dame in grinem Kleide mit rosa Einsatz. Graues hochgekammtes Haar mit Perlen und blauer Schleife. Rund. Dm. 6 cm.
+415. VERNIS-MARTIN DOSE mit Goldbronzefassung mit Miniatur eines jungen Madchens in weiBem Kleide mit blauen Schleifen und weiBer Spitzenhaube. Rund. Abbildung Tafel 8
+- Dm.8cm,
+- 416.POTPOURRI. Getuschte Federzeichnung. Auf der Pergamentflache scheinen Stiche und Buchseiten ibereinanderz.uliegen. Eichen Rahmen.H. 28,2 cm; B.21,5cm.
+- 417.DESGLEICHEN. Getuschte Federzeichnung auf Papier.Auf einem Brett scheinen ein zerissener Stich mit dem Portrat Voltaires, eine Buchseite und eine Spielkarte mit Siegellack befestigt zu sein.Eichen Rahmen.H.35,6 cm; B.25,3cm.
+418. MINIATUR EINES JUNGEN MADCHENS in einer Landschaft mit Bank sitzend. Eingelegter Rahmen.9:7,5 cm.
+419. MINIATUR EINES JUNGEN MADCHENS in Taschenbuch eingelassen mit Perlmutterschale und Goldbeschlagen in Lederetui. 11,5:8 cm.
+## Porzellane und Fayencen, Glas und Ton
+
+- 420.KINDERKOPFCHEN
+- mit Tuch uber dem Kopfe, weiB. Frankenthal, H. 23 cm.
+- 421.MEISSENER GRUPPE Liebespaar auf Rocaille-Sockel. Der Kavalier in violettem Rocke. Das Madchen
+- mit weiBer Schurze und gestreiftem Rocke. Schwertermarke, H. 17 cm.
+- 422.BERLINER GRUPPE Venus und Hephastos, hinter ihr Amor. Hephastos dingelt den Pfeil. H. 35 cm.
+- 423.DIESELBE GRUPPE Biscuitausformung. H. 31 cm.
+- 424.MEISSENER GROSSER TELLER mit Hausmalerei, Blumen. Schwertermarke, Dm. 38 cm,
+- 425.DREI BERLINER TELLER mit Reliefzierart und grinem Rosendekor. Szeptermarke, Dm.24 cm
+- 426.MEISSENER SAUCIERE MIT STEINMALEREI H.14cm,
+- 427.MEISSENER KAFFEEKANNE
+- mit Zwiebeldekor. H. 23 cm.
+- 428.MEISSENER GRUPPE Schaferin in gelbem Kleide, ein Korbchen mit Vogeln haltend. Vor ihr der Kavalier in rosa Rocke. Roccilla-Sockel. Schwertermarke A B, H. 22 cm,
+- 429.MEISSENER VASCHEN mit Streublumen und Goldband. Schwertermarke, H. 10 cm.
+430. GROSSER BERLINER TELLER
+- mit blauem Zwiebeldekor und Reliefstaben. Szeptermarke, Dm. 38 cm.
+- 431.FIGUR
+- Madchen mit Weintrauben sitzend, in gestreiftem Rocke. Wien, H.15 cm
+- 432.FIGUR Knabe mit blauem Mantel und schwarzem Hut sich die Hande warmend.
+
+Wien,H.15 cm.
+433.SCHAFERGRUPPE Schaferin in blaBblauem Kleide auf der Wiese sitzend, der Schafer reicht ihr von hinten eine Rose. Vor ihr ein Hund. Nach hochster Modell. Damm Radmarke,H. 20 cm.
+
+- 434.ZWEI BERLINER TASSEN mit Zwiebeldekor. 8 cm hoch.
+- 435.I-II-III DREI MEISSENER TASSEN mit blauem Dekor. H. ca. 7 cm.
+- 436.BERLINER TASSE mit Streublumen und violettrotem W. H. ca. 6 cm.
+- 437.LEIBUNG EINER MAJOLIKA-VASE
+
+mit vier Medaillons mit Putten auf Delphin und mit Flote und Fackel, dazwischen auf blauem Grunde je ein Fabelwesen. Listriert. Gubbo, 16.Jahrhundert,in Futteral montiert. Abbild.Tafel 7
+
+438. BERLINER FIGURCHEN KNABE mit Kiepe voll Weintrauben, eine in der Hand haltend. Sceptermarke. Hohe 15 cm.
+2. 439.DESGLEICHEN
+
+MADCHEN mit Korb voll Rosen, eine haltend. Sceptermarke. Hohe 15 cm.
+
+- 440.DESGLEICHEN
+- MADCHEN auf einem Ahrenbundel sitzend. Sceptermarke. Hohe 14 cm.
+
+441.DESGLEICHEN KNABEN in blauem, pelzverbramten Mantel, sich die Hande an einem Feuer warmend. Septermarke. Hohe 14 cm.
+
+- 442.MEISSENER GRUPPE Knabe mit Weinkiepe und Wein-Guirlande, vor ihm ein Madchen mit Becher und Kanne. Markolinmarke. Hohe 18 cm.
+- 443.DESGLEICHEN
+- PUTTEN mit Waffen; der eine schlaft auf einer Trommel, der andere vor einer
+
+anderen Trommel stehend, halt einen Helm,Rocaillesockel, Hohe 16 cm.
+
+- 444.BERLINER BISKUITGRUPPE
+- APOLLO UND EINE MUSE,zu deren FuBen ein Lamm liegt. Hohe 25 cm.
+- 445.BERLINER BISKUITGRUPPE VICTORIA mit trompetenblasendem Putto. Hohe 27 cm.
+- 446.BERLINER SALZFASS
+
+zwei eiformige Schalen auf Rocaillesockel mit stehendem Putto, mit Blumendekor. Sceptermarke. Hohe 13 cm.
+
+- 447.BERLINER BISKUITFIGUR liegender FluBgott mit Fullhorn. Sceptermarke. Hohe 18 cm.
+- 448.BERLINER BISKUITGRUPPE VENUS,AMOR und HEPHASTOS. Hohe 30 cm
+- 449.VASE AUS MILCHGLAS in flachbauchiger Form mit Deckel auf hohem MetallfuB mit stark ausladender
+
+Platte auf drei FuBen.Der breite Deckel geht in spitze Pyramidenform iber; Spitze mit Metallfassung. Die Leibung mit rotem Fond und ausgesparten fiachen Ovalen,der Deckel mit Maanderrand. In den Ovalen BlumenstrauBe. H. 33 cm.
+
+- 450.MEISSENER TASSE mit Kornblumendekor. H. 8 cm.
+- 451.DREI BERLINER TASSEN
+- mit Goldrand und GoldauBenreif. H. ca.11 cm.
+- 452.MEISSENER TASSE mit gruinem Weinblattrand. H. 8 cm.
+- 453.ZWEI FAYENCE-TASSEN mit blauem Landschaftsdekor. Marke: Roster. C. H. 10 cm
+- 454.EINE FAYENCE-TASSE
+- mit blauem Landschaftsdskor. Marke W O. H. 10 cm.
+- 455.BERLINER EMPIRE-TASSE
+
+mit Kartusche: betende Frau am Altar, in Goldrand. H. ca. 8 cm.
+
+- 456.TASSE MIT GOLDPALMETTEN
+- auf drei FuBen. H. 12 cm.
+- 457.WALDENBURGER TASSE mit Darstellung des hlg. Franz Xaver. H. 10 cm.
+- 458.TASSE
+- mit Aufschrift: Aus guten Herzen. H. 10 cm.
+- 459.BERLINER SERVICE Kanne und Zuckerdose mit Reliefblatterdekor und Vergoldung.
+460. SAHNENKANNCHEN
+- Waldenburg, mit Streublumen,
+- 461.ZUCKERDOSE mit Streublumen,
+- 462.KANNE mit Streublumen. H. 18 cm.
+- 463.BERLINER KANNCHEN RocailleausguB und Streublumendekor. H. 15 cm.
+- 464.ZWEI PORZELLANFIGUREN
+- 465.MEISSENER KANNE mit Reliefhenkel mit Blumendekor, ohne Deckel. H. 15 cm.
+- 466.KAFFEEKANNE MeiBen Schwertermarke. H. 15. cm.
+- 467.TELLER
+- mit blauen Schiffen. Dm 17 cm.
+- 468.BUNZLAUER TERRINE
+- H.15cm,
+- 469.HESSISCHE BAUERNTERRINE H.10cm,
+- 470.HESSISCHER BAUERNTOPF H.12cm.
+- 471.TONTELLER MIT BUNTEM DEKOR UND KRAKELURE
+- Dm.22cm.
+- 472.ZWEI WEDGEWOODPLATTEN
+- mit Flechtwerk, durchbrochen, oval 27:22 cm.
+- 473.TELLER mit violettem Dekor. Fell &amp; Co. Dm.25 cm.
+- 474.SCHALE,HANAU
+- mit Blumendekor,viereckig. Dm.25 cm.
+- 475.FAYENCEKANNCHEN
+- mit Reliefhenkel. H. 11 cm.
+- 476.TEEKANNE mit Hausmalerei. H. 15 cm
+- 477.KANNE mit schwarzer Landschaft und Figurendekor. Wedgewood. H. 20 cm.
+- 478.ZWEIROESTELTASSEN mit Blumen. H. 10 cn.
+- 479.DREI TASSEN mit buntem Dekor und Untertassen
+- 480.GROSSE JAPANSCHUSSEL mit metallfarbenem Blattrand. Im gelblich grauen Grunde in Emailmalerei figurenreiche Kampfszene. Dm. 47 cm.
+- 481.DREI CHINESISCHE PORZELLANTELLER mit Blaumalerei, Geometrisch gemusterter Rand. Im Grunde Paonienstaude am FuBe eines Baumes mit gefiederten Blattern. Dm. 23 cm,
+- 482.NURNBERGER FAYENCEKRUG Birnform mit bunter Malerei. An der Stirnseite in Rankenumrahmung Inschrift:
+
+Der Most ist gut, die Arbeit schwer, der Krug ist schon wieder leer". Im Zinndeckel kolorierter Kupferstich. Beschadigt. H. 24 cm.
+
+- 483.DESGLEICHEN ahnlich.An der Stirnseite groBe blaue Blumenranken mit Inschrift:Ludwig."
+- Zinnfassung. Beschadigt. H 26 cm. Abbildung Tafel 9.
+- 484.NURNBERGER FAYENCEKANNE in Zinnfassung. Birnform mit ibergehendem Hals, erbreitertem AusguB und geflochtenem Henkel. An der leicht gerillten Leibung in Blaumalerei Fasan in Landschaft. Marke N. Zinnmarke. H. 22,5 cm. Abbildung Tafel 9.
+- 485.DESGLEICHEN kleiner, mit kugeligem Bauch. Mit Punktringen und Vogeln blau bemalt.
+- Marke F.Zinnmarke.H.16 cm,
+- 486.DESGLEICHEN ahnlich, mit konischem Hals. An der Leibung Landschaft in Blaumalerei. Blaue Marke N. Zinnmarke H. 16 cm.
+
+## Dienstag, den 9.Dezember, nachmittags 4 Uhr
+
+- 487.FAYENCEKRUG Wappen zwischen Rosen. Marke D/B. Zinnmarke. H.18 cm.
+
+Abbildung Tafel 9.
+
+- ahnlich. An der Leibung zwischen zwei Kakteenbluten Schwert schwingender
+- 488.DESGLEICHEN Reiter. H.18 cm.
+- 489.DESGLEICHEN
+- groBer, ohne Zinndeckel. An der Leibung zwischen zwei Baumen Postwagen. H.18cm. Abbildung Tafel 9.
+- 490.DESGLEICHEN
+- ohne Fassung, mit violett gesprenkelter Glasur. H. 12 cm.
+- 491.DESGLEICHEN
+
+in Zinnfassung. Bunt bemalte Zylinderform. Herr und Dame im Park zwischen zwei Blumenvasen. Auf dem Deckel Plakette. Zinnmarke.H.24 cm. Abbildung Tafel9.
+
+- 492.DESGLEICHEN ahnlich.  An der Leibung zwischen Nelken asender Hirsch. Auf dem Deckel Bildnis Johann Hus. Zinnmarke. H. 24 cm. Abbildung Tafel 9.
+- 493.BAUERN-FAYENCE-TELLER Vertiefte Form mit schmalem Rand. Blauer Dekor. Im Grunde in sternformigrr Umrahmung C. ND. 1758. Am Rande Kreise mit gelben Punkten zwischen schraffierten Stegen.Dm.21,5 cm.
+
+Abbildung Tafel 9.
+- 494.SPANISCHE MAJOLIKA-TERRINE Geschweifte ovale Form auf vier RocaillefuBen. Seitlich zwei geschwungene Henkel, Deckel mit Rocaillen und aufgelegten Zweigen, Braune Glasur. H. 24 cm, B.41cm,T.24cm.
+
+495. SEVILLANER HENKELKRUG Urnenform mit eingekniffenem AusguB und Henkel. Blaumalerei, Zwischen zwei Gurtbandern Blumenornamente.Am Rande oben Rautenband mit Zickzackgehange. H.23,5 cm. Abbildung Tafel 9.
+
+- 496.DESGLEICHEN
+
+ahnliche Form mit zartem gruinem Rankenwerk, zwischen denen blaue Punkte mit spinnbeinartigen Auslaufern. Braune Marke C.H. 24 cm. Abbildung Tafel 9.
+
+- 497.ALKORA-HENKELKRUG
+
+Kugelige Form,mit ibergehendem Trichterhals, kleinem gekniffenem AusguB und
+
+Henkel. Blaumalerei. Streifen,die auf der Schulter in einem Band endigen, von denen Bluten herunterhangen. H. 18 cm.
+
+- 498.STEINZEUGKRUG nach Art der Kreussener Krige, farbig glasiert, mit den Bildnissen der zwolf Apostel. H. 18 cm.
+- 499.DESGLEICHEN ahnlich. An der Leibung die Bildnisse Christi und verschiedener Heiligen.
+- 500.FAYENCEKANNE Umgekehrte Eiform, auf zwei Seiten abgeflacht mit Trichterhals mit gebogenem Henkel. Auf den Seitenfeldern Wappen in Lorbeerumrahmung, dazwischen Blumen. Auf der Schulter und am Hals Bander. Dekor in Grun, Schwarz, Gelb und Blau. H. 20 cm. Abbildung Tafel 9.
+501. SEVILLANER HENKELKRUG breite Urnenform, mit gekniffenem breitem AusguB und Henkel. Blaumalerei. Gitterwerk mit BlumenstrauBen,H. 20 cm.
+- 502.GRANADA-TELLER Zwischen grunen und violetten Kreisen, blaue und rote Spitzen, zwischen denen in funf Feldern am Rande und im Grunde blaue Bluten verteilt sind. In der Mitte blaue Ranke.Dm. 31 cm.
+- 503.SEVILLA-HIRSCHTELLER mit Blaumalerei Vier Bluten verbunden durch Zickzackflachen. In der Mitte doppelt umrandetes Feld, darin ein springender Steinbock. Dm. 30,5 cm.
+- 504.DESGLEICHEN
+
+blau getilt,mit gelbem,grnem,rotem und blauem Liliendekor,im Grundebun Blute.Bez.F.A.Dm.30cm.
+
+- 505.SEVILLA-TELLER mit blauen Girlanden am Rande und Blumenornament in der Mitte. Gekittet. Dm.30cm.
+- 506.TALAVERA-SCHUSSEL des 16. Jahrhunderts mit umgebogenem Rand und blauem Blumenbande am Rande und im Mittelfeld des Grundes, in dem ein Vogelkopf erscheint. Beschadigt. Dm.28cm,
+- 507.ALKORA-TELLER mit Blaumalerei. Am Rande fuinf Felder mit Sternbluten und Punkten, durch Girlanden abgeschlossen, im Grunde Rosette. Dm. 34 cm,
+- 508.ENGLISCHER FAYENCE-TELLER mit reichem blauem Dekor in chinesischem Geschmack. Im Grunde FluBlandlandschaft mit Gebauden.Dm.24,5 cm.
+- 509.ALKORA-TELLER mit buntem Rosenzweig in der Mitte und blau und blaugelben Blattern am Rande. Violette Marke A.C.Dm. 35 cm.
+- 510.VALENCIA-TELLER mit Blaumalerei. Funfeckiges Blattmuster, von Gehangen eingeschlossen, in der Mitte ein Kreis mit einer Blume. Genietet. Dm.34 cm.
+- 511.FAYENCE-KRUG
+
+in Zinnfassung. Zylinderform mit violett gesprenkelter, blau konturierter Leibung An der Stirnseite gekronte Kartusche mit Monogramm W.A. Marke M. H. 27 cm Abbildung Tafel 9
+
+- 512.EIN PAAR POMPEJANISCHER TONVASEN Liegende Eiform auf kurzem mit Eierstaben verziertem FuB. Der Hals tritt senkrecht an der Spitze heraus und ist von einer Weinranke umschlossen. Der breite phaen, dariber musizierende und tanzende Bacchanten. Die Ansatzstellen der
+
+AusguB seitlich eingekniffen, Am Bauche Reliefschmuck; unten Gerate und Troabgebrochenen Henkel am Bauche markieren Masken. Gekittet. H. 19,5 cm.
+
+513.ITALIENISCHE WEINKANNE umgekehrte Birnform mit breitem AusguB, der vorn kraftig eingedruickt ist. Bunte Blumenmalerei. An der Stirnseite Doppeladler. Marke. H. 21 cm.
+
+- 514.DESGLEICHEN groBer. H.23 cm
+- 515.FAYENCE-VASE
+
+unten bauchige, hohe Kelchform auf FuB. An der Stirnseite ein Doppeladler. Auf der Ruickseite funf Wappen. Am Wulst zahlreiche Wappen auf geschupptem Grund. Dekor in Blau, Gelb,Violett und Grun. H. 31,5 cm.Abbildung Tafel 9
+
+- 516.WESTERWALDER WALZENKRUG mit hochgewolbtem Zinndeckel. An der Stirnseite blau gemaltes Feld mit gekerbtem Blumenornament. Darin ein Vogel. Auf dem Deckel graviert: R. W. 1763.
+
+Zinnmarke. Beschadigt. H.21 cm.
+
+- 517.ALTER SACHSISCHER STEINZEUGKRUG mit Zinndeckel. Walzenform oben und unten gekehlt, mit kaffeebrauner Glasur.
+
+Dekor in Naturfarbe, teilweise blau bemalt. Deckelpartie mit reliefiertem Sternornament und Inschrift:#A.M. T. L. 1779". FuB in Zinnreifen. H. 19,5 cm.
+
+518. BUNZLAUER KANNCHEN H.10cm,
+2. 519.TONKRUG innen vergoldet. H. 12 cm.
+- 520.DELFTER VASE mit Schaferin. Marke W,V, D,B. H. 13 cm.
+- 521.OFENROSETTE Ton mit Kriegerbildnis. Dm.13 cm.
+- 522.FAYENCEKRUG mit figurlicher Darstellung und Zinndeckel, H. 20 cm.
+- 523.TONKRUG mit geviertem Zinndeckel und blauem Monogramm F.R. H. 20 cm.
+- 524.ZWEI BUNTE BAUERNTELLER Dm.22cm.
+- 525.DESGLEICHEN
+- Dm.24cm.
+
+## DESGLEICHEN
+
+Dm.23cm.
+
+DESGLEICHEN
+
+Dm.24 cm.
+
+DESGLEICHEN
+
+Dm.24 cm.
+
+- 526.ZWEIFAYENCETELLER mit Blumendekor und violetten Rande. Dm. 25 cm.
+
+## 527.ZWEIBUNTE FAYENCETELLER
+
+- 528.FAYENCETELLER
+- mit blauem Dekor.
+- 529.ZWEI BERLINER TELLER Porzellan mit Zwiebelmuster. Dm. 23 cm.
+- 530.ZWEI BUNTE FAYENCETELLER Dm.23cm.
+
+DESGLEICHEN
+
+Dm.23cm,
+
+## 531.GLASPOKAL
+
+mit hohem geschliffenem Deckel, in Kelchform, auf hohem achtkantigem Stengel und breit ausladender FuBplatte. Die Leibung unten mit achtmal nach innen gebogtem rosettenahnlichem Schliff mit Gold. Der FuB mit achtkantigem vergoldetem Knauf,Die FuBplatte unten sternformig geschliffen, oben mit Ornamentranken in Gold,Die Leibung in Felder geteilt, die mit Gold abgesetzt sind. Ein Feld enthalt auf violettem Fond die ausgeschliffene Inschrift ,Robert Fuhrer in Ornamenten, Ebenso herausgeschliffen die Ornamente der senkrechten Streifen. Das Oval in
+chinesischer Manier mit Gold und Farben bemalt. Lippenrand vergoldet. Der Deckel in Fazetten geschliffen mit profiliertem Knopf und mit Violett und Gold bemalt.H. 31 cm.
+
+- 532.BLAUE GESCHLIFFENE ZUCKERDOSE mit gewelltem nuanciertem vergoldetem Rand in Kelchform auf hohem FuB mit
+
+gebogter ausgreifender Platte. Leibung und FuB kantig geschliffen,mit Goldrandern ranken in Emailfarben mit Blattern und Bluten. H. 151/2 cm.
+
+- 533.EINE ZUCKERDOSE
+
+in gedrickt bauchiger Form aus grunem Opalglas in Alfenidemontierung mit Deckel und Eichelknopf auf dreifuBigem Untersatz. Der Hals erweitert sich kelchartig in der Metallmontierung. H.19 cm.
+
+- 534.GLASKRUG MIT PORZELLANDECKEL in Zinnmontierung. Auf dem Deckel Musikanten. Gravierte Inschrift an der Stirn-
+
+seite. A. Steingaeber. c/m.W. Dostal. Defekt. H. 12 cm.
+
+- 535.GLASKRUG
+
+mit Fazetteschliff aus gelbem Uberfangglas, mit ausgezacktem FuB. Glasdeckel in Zinnmontierung. Knopf des Scharniers kleine Napoleonbuste. Auf der Stirnseite in mattem Oval graviertes Monogramm C. v. L.in Lorbeerzweigen und unter funfzackiger Krone. Auf dem Deckel eingraviert J. B. H.20 cm.
+
+536. GESCHLIFFENER GLASKRUG
+
+aus rotem Uberfangglas mit Henkel und Porzellandeckel in Zinnmontierung. Auf dem Deckel gemalt Student der Biedermeierzeit. H.15 cm.
+
+- 537.GLASBECHER
+
+H,9cm,
+
+- 538.GESCHLIFFENER BECHER mit Darstellung einer Frau und dankenden Knaben, H. 12 cm,
+- 539.GLASBECHER mit buntem laufendem Wild und Jager. H. 11 cm.
+- 540.ZWEIGLASBECHER
+
+mit Rubinglasbild. H. 12 cm.
+
+541. SIEBEN KLEINE GLASER mit geschliffenem Weinranken-Streifen auf massiven FuB. H.12 cm.
+2. 542.GLASBECHER mit Monogramm P.v.K. und Krone. H. 12 cm.
+3. 543.GLASBECHER mit eingravierten betenden Madchen. H.12 cm
+4. 544.INNUNGSBECHER
+
+der Bottcher von 1856. H. 12 cm,
+
+- 545.KLEINES GLAS mit Weinranken-Streifen und Fazettendekor. H.12 cm.
+- 546.UBERFANGBECHER Kobalt und vergoldet. H. 12 cm,
+- 547.SPITZE VASE mit braunen Streifen. H. 19 cm,
+- 548.SPITZGLAS
+- mit heiligem Nepomuk. H. 25 cm.
+- 549.SEIDEL
+
+mit Silberdeckel, geschliffen, H. 15 cm
+
+- 550.GLASKRUG mit Deckel, geschliffen und graviert. H. 20 cm.
+- 551.KOBALTGLASVASE
+
+mit Vergoldung, Rocaille und Blumendekor. H. 15 cm.
+
+- 552.GESCHNITTENER KOBALTGLASBECHER mit Vergoldung. H. 12 cm.
+- 553.ZWEISTEHAUFGLASER
+- Kobaltglas mit Ansicht von Warmbrunn. H. 8 cm.
+- 554.RUBINGLASBECHER mit Reben-Streifen.H.12 cm.
+- 555.DESGLEICHEN mit Bienenkorb. H. 11 cm.
+- 556.MATTER RUBINGLASBECHER mit Vergoldung. H. 14 cm.
+- 557.RUBINGLASFLASCHE
+
+mit Weinrebendekor. H.37 cm
+
+- 558.GLASSCHUH
+- 1863.H.21cm,
+- 559.FLAKON
+- mit rosa Uberfang.
+- 560.GRUNES GLASSEIDEL mit weibem Uberfangglas, mit Deckel. H. 22 cm
+- 561.KRISTALLHUMPEN mit fliehendem Hirsch. Zinndeckel. Hohe 23 cm.
+- 562.ZUCKERSCHALE
+
+Kobalt und weiBes Uberfangglas. 15 cm.
+
+- 563.BEMALTE GLASFLASCHE mit Zinndeckel-Madonna, Hohe 20 cm,
+- 564.VASE mit zwei Henkeln und Vergoldung. Hohe 20 cm.
+- 565.VASE mit Vergoldung und blau-weiBen Medallons. Hohe 27 cm.
+- 566.GESCHNITTENE GLASFLASCHE arabische Lettern. Rubin. Hohe 21 cm.
+- 567.GESCHNITTENER GLASBECHER
+- braun. Hohe 10 cm.
+- 568.MILCHGLASBECHER mit Ansicht der Schneekoppe. Hohe 11 cm.
+- 569.ZWEI MILCHGLASBECHER
+- mit Malerei.
+570. GRUNER UBERFANGGLASTELLER
+- auf KugelfuBen, vergoldet. Dm. 15 cm
+- 571.GLASFENSTER Bleiverglasung Wappen mit stehendem Steinbock, 70:40 cm.
+- 572.GLASSCHEIBE mit Blumen 15:5 cm.
+- 573.ZWEI KRISTALLTELLER
+- mit Golddekor. Dm.22 cm.
+- 574.DESGLEICHEN
+- 24cm
+## Stoffe, Stickereien. Verschiedenes.
+
+- 575.GEMALTER GOBLIN Vase mit Blumen und Engels-Kopfchen mit Voluten. Br.200:75 cm,
+- 576.BLAUES SEIDE mit gelbvioletter Kante. Lange 170 cm.
+- 577.PLUVIALE weiBe Seide, mit violetten Blumendekorationen. 100 cm,
+- 578.LEINENTUCH
+- mit Karrikatur auf Napoleon 1812. 80:75 cm.
+- 579.GROSSE WEISSROTE SAMMETDECKE
+
+mit schwerem, goldgestickten Monogramm Christi und Goldfranzen.170:210 cm,
+
+- 580.GROSSE BRAUNROTE SAMMETDECKE mit Goldstickerei Monstranz in Mandorla und anbetende Engel. Weinreben und Ahrenband. Goldfranzen. 295:190 cm,
+- 581.GROSSER GESTICKTER TEPPICH
+- mit italienischer Landschaft und Hirtenfamilie mit schwarzen Franzen. 250:220 cm,
+
+mit weiber Silber- und Seidenstickerei, gelber und weiBer Seide an Messing-
+
+- 582.PLUVIALE stange.100:70cm.
+- 583.PLUVIALE Rote Seide und bunte Seide mit Blumendekor. Lange 100 cm,
+- 584.GESCHORENER SAMMET gelb und violetter Blumendekor. Lange 135 cm,
+- 585.GROSSE DECKE aus silberdurchwirktem Seidenbrokat mit Goldlitze.250:100 cm,
+- Blaues, gelbes, rotes und weiBes Feld mit stehendem Lowen.
+- 586.GROSSE DECKE mit Wappen, 230:250cm，
+- 587.LONGSHAWL.170:300 cm.
+- 588.TURKISCHER LONGSCAWL. Schwarzer Fond. 150:280 cm,
+- 589.GESTICKTE TURKISCHE DECKE.
+- Schwarzer Fond, Goldstickerei. 125:125 cm.
+- 590.TURKISCHERLONGSHAWL.155:310cm.
+- 591.TURKISCHER SHAWL.165:160 cm.
+- 592.DESGLEICHEN.165:165 cm.
+- 593.LONGSHAWL.170:320 cm.
+- 594.DESGLEICHEN.170:300cm
+- 595.A ACHTS SEIDENE BANDER.
+
+596. ACHT BUNTE BAUERNHAUBEN.
+
+597. VIER
+2. WEISSESPITZEN-BAUERNHAUBEN.
+3. 598.
+4. GESTICKTESBRAUTTUCH.110:110cm.
+5. 599.DESGLEICHEN. 85:85 cm.
+6. 600.PERLSTICKEREI
+7. Kruzifixus in Rahmen. 20:14 cm.
+8. 601.BRIEFTASCHE Perlstickerei, 14:11 cm,
+
+DESGLEICHEN,21:15 cm.
+
+- 602.FUSSBANKCHEN
+- Perlstickerei, Hohe 12 cm.
+- 603.KISSEN
+- mit Perlstickerei, fliegender Engel.
+
+KISSEN Straminstickerei, Blumenkranz,
+
+- 604.KLINGELZUG Perlstickerei,Lange 118 cm.
+- 605.FIDIBUSSTANDER Perlstickerei,Hohe 15 cm.
+
+FEUERZEUGBEHALTER Perlstickerei,Hohe 9 cm.
+
+- 606.FIDIBUSBEHALTER
+- Perlstickerei,Hohe 11 cm,
+- 607.BRIEFSTANDER Perlstickerei,Huhe 20 cm
+- 608.LONGSHAWL
+- mit vorwiegend rotem Turkenmuster und schwarzem Mittelfeld.L.430 cm,B.165 cm.
+- 609.ZWEISTREIFENGOLDBORTE
+- 180:5cm und 630:5 cm,
+[TASCHE
+
+610.
+
+Straminstrickerei. 19 cm lang.
+
+DESGLEICHEN.17:20 cm.
+
+- 611.GURTEL. Stickerei, 64 cm lang.
+
+612.PERLSTICKEREI. 34 cm lang.
+
+613.DREI STICKEREIBILDER. Je 30:16 cm.
+
+- 614.KISSENUBERZUG.
+- Perlstickerei,Durchmesser 40 cm.
+
+PERLSTICKEREI. 18:20 cm.
+
+DESGLEICHEN.
+
+14:7cm.
+
+615. DESGLEICHEN. 26:23 cm.
+
+DESGLEICHEN. Zwei Teile.
+
+- 616.FEUERZEUGPERLSTICKEREI. 8:5cm.
+- 617.ZIGARRENTASCHE. Perlstickerei,18:8 cm.
+
+DESGLEICHEN.14:8cm.
+
+- 618.PERLSTICKEREI-BORDURE.53:19cm.
+- 619.PERLSTICKEREI. 5:7 cm.
+
+DESGLEICHEN.18:12 cm.
+
+- 620.LANGE GELDBORSE.
+- Perlstickerei, 38.cm lang.
+
+DESGLEICHEN. 37 cm lang.
+
+DESGLEICHEN. 20 cm lang.
+
+- 621.TASCHCHEN
+- Perlstickerei, 20 cm lang.
+- 622.POMPADOUR Perlstickerei, 25 cm lang.
+- 623.DESGLEICHEN. 20 cm lang.
+- 624.GELDBORSE Perlstickerei, 10 cm lang.
+- 625.DESGLEICHEN,9 cm.
+- 626.DESGLEICHEN,14 cm
+- 627.DESGLEICHEN,13 cm
+- 628.DESGLEICHEN, 12 cm.
+- 629.DESGLEICHEN,5 cm.
+- 630.KORBCHEN
+- Olivenholz,Perlstickerei.
+- 631.STROHKORBCHEN
+- Perlstickerei.
+
+## Mittwoch, den 10. Dezember, vormittags 10 Uhr
+
+## STICKEREIBILDER VON MADAME CESSIAT 1796 DIVERSE ABILLEMENIS DES PEUPLES DU NORD
+
+- 632.COIFFURE DES FEMMES EN ETE 23 : 18 cm. Goldrahmen.
+- 633.FEMME MARIEE ET SES ENFANS 23:18 cm.Goldrahmen.
+- 634.FEMME DU PEUPLE 23:18cm. Goldrahmen.
+- 635.RETOUR DE LA PROMENADE 23:18cm. Goldrahmen.
+- 636.L'EDUCATION 1797 Oval. 35:26 cm.Goldrahmen,
+- 637.B0GEN Adamana.
+- 638.PFERDESCHMUCK Leder,
+- 639.AFRIKANISCHER SATTEL Garna.
+- 640.EIN PAAR STEIGBUGEL Messing. Garna.
+641. TASCHE
+- Bamenda.
+- 642.GESCHNITZTFR SESSEL mit Figuren.
+- 643.REICH GFSCHNITZTFR SCHRANK
+
+aus dunklem Eichenholz. Vorspringendes Unterteil und zweituriger Aufsatz. Letzterer mit zwei gewundenen Ecksaulen mit korinthischen Kapitalen. Dariber verkropftes fortlaufendes Kranzgesims. Die Turfelder gauz in durchbrochener korben etc. Das Unterteil mit doppelt gewundenen Ecksaulen auf Plinthen mit reich geschnitztemz Blattfries, welche sich um das ganze Unterteil fortsetzen, Zwischen den Kapitalen ein Schubfach mit Griff mit geschnitzter Maske in Blattornament. Darunter zwei Turen mit reicher Schnitzerei, Architektur mit gewundenen Saulchen, darin Nische mit zwei Putten auf Piedestal in Hochrelief. H.172 cm,Br.98 cm,
+
+## 644.SPANISCHES SCREIBSCHRANKCHEN
+
+auf Tisch mit gedrehten Beinen und Stegverbindung. Der Kasten auf vier KugelfuBen mit Vogelkrallen vergoldet. Die Vorderflache herabklappbar, 6 Schieb Der obere AbschluB mit Elfenbein bedeckt und Ebenholzpfeilern mit Bronzemasken.
+
+kasten mit Elfenbeinintarsia mit schwarzen Landschaften graviert. Hohe 14570:30cm.
+
+- 645.SCHREIBSCHRANKCHEN,SPANISCH,
+
+auf Tisch mit gedrehten Staben und Stegverbindung. Die Schubladenwande sind eingelegt mit Elfenbein von maurischen Ornamenten, Facher und Schubladen.
+
+Deckel und Vorderstuick aufklappbar.
+
+Hohe 135,78:cm.
+
+- 646.SCHREIBSEKRETAR,
+
+Eiche, intarsiert mit Rolljalousie und Aufbau, defekt. Hohe 180 cm, breit 110 cm, tief 60 cm.
+
+- 647.SPANISCHE TRUHE
+
+Eichenholz,Vorderflache geschnitzt.
+
+135:60:50cm,
+
+- 648.SCHREIBSEKRETAR NuBbaumholz, eingelegt,mit eschweiften FuBen,wei Schubladen,Bronzebeschle Hohe 110 cm,breit 120 cm, tief 55 cm.
+- 649.SCHREIBSEKRETAR
+
+NuBbaumholz, intarsiert, Aufbau mit funf Schubladen, der untere Kasten mit drei Schubladen,
+
+Hohe 120 cm,breit 135 cm, tief 45 cm.
+
+- 650.NUSSBAUMSCHRANK
+
+auf vierbeinigem Untersatz,mit gedrehten SaulenfuBen, gedrehter Stegverbindung. Zweituriger Schrank mit geschnitzten Feldeinrahmungen.
+
+Hohe 115 cm, breit 110 cm, tief 45 cm,
+
+- 651.TRUHENBANK,
+
+Eiche, geschnitzte Ruckwand mit Kopfen und Feldern, Hohe 165 cm.bseite 110 cm.
+- 652.ECKBOCK
+
+mit Perlstickereibesatz.
+
+Dm.40cm.
+
+653. SPANISCHES SCHRANKCHEN
+
+mit drei Schubladen. Die Seitenwande Holz intarsiert. Die Vorderseite mit gravierten Elfenbeinintarsien, auf vier FuBen, 21:25:41cm,
+
+- 654.SPANISCHES SCHRANKCHEN
+
+Die Dreischubladen Wand mit aufgelegten Intarsien Elfenbein in Holz.
+
+20:26:40cm，
+
+655. SPANISCHES SCHRANKKASTCHEN.
+
+Drei Schubladen mit Intarsien, Schildpatt, Elfenbein.
+
+24:25:45cm.
+
+- 656.SPANISCHES SCHRANKCHEN
+
+mit drei Schubladen mit Schildpatt und Messingeinlagen.
+
+25:29:52cm.
+
+657. SPANISCHES SCHRANKKASTCHEN
+
+28:26:50 cm. Defekt.
+
+mit drei Schubladen. Messing, Holz und Schildpatteinlagen.
+
+658. SPANISCHES SCHRANKKASTCHEN
+
+mit vier Schubladen, auf 4 FiBen mit Messingbeschlagen, Schildpatt und Horneinlage.
+
+33:27:56cm.
+
+659. SPANISCHES SCHRANKKASTCHEN
+
+mit Holz und Schildpattauflagen. Drei Schubladen.
+
+20:28:48cm.
+
+- 660.DESGLEICHEN
+
+mit 6 Schubladen und Geheimfach mit zwei Schubladen.
+
+32:28:63cm.
+
+- 661.DESGLEICHEN
+
+mit acht Schubladen und Schildpattvorderfront, der mittlere Teil vorspringend.
+
+30:34:72cm.
+
+- 662.DESGLEICHEN
+
+mit drei Schubladen, intarsiert
+
+30:30:61cm
+
+- 663.SPANISCHES SCHRANKCHEN
+
+mit sieben Schubladen und Mittelfeld in Renaissenceturform. Schildpattintarsia. Messingbeschlage,
+
+35:28:63cm
+- 664.STANDUHR
+
+Ebenholz mit vier Saulen und vergoldetem ruhendem Lowen. Mit Schlagwerk. Hohe 55 cm.
+
+- 665.REGULATOR
+
+NuBbaum mit Emaille und Messingeinlage. Hohe 95 cm.
+
+- 666.STANDUHR AUF KONSOLE
+
+Gruner Lack mit Bronzeverzierung. Rocailledekor mit Vogeln und Hund. Graviertes Messingziffernblatt.
+
+Hohe der Uhr c.63 cm.
+
+- 667.LIMOGER EMAILLEPLATTE
+
+Christus auf dem Olberg. lm Vordergrunde die schlafenden Junger, iber ihnen Christus links oben in Wolken Gottvater. Hauptfarbe, blau, braun und violett.
+
+31:25 cm.Sammetrahmen.Abbildung Tafel 7.
+
+- 668.LIMOGFR EMAILLEPLATTE
+
+Anbetung der heiligen drei Konige. Ruths Maria und Josef mit dem Kinde. Von links nahen die Konige mit ihrem Gefolge. Im Hintergrunde der Stall und ein auf blauen Wolken schwebender Engel mit dem Stern.
+
+34:24 cm in Sammetrahmen. Abbildung Tafel 7.
+
+- 669.WAGHSRELIEF
+
+Franz Il. in schwarzem Fracke mit Ordenssternen. Rund in Bronzerandchen und und schwarzem Rahmen.
+
+Dm.11,5 cm. Abbildung Tafel 8.
+
+- 670.WACHSRELIEF
+
+eines Unbekannten, oval in geschnitztem Holzrahmen.
+
+15:11 cm. Abbildung Tafel 8.
+
+- 671.WACHSRELIEF
+
+Friedrich Wilhelm. Du But Sculptur et medailleur. Act. suac LxV.
+
+Versilbert, Rund. Dm.15 cm. Abb. Tafel 8.
+
+- 672.WACHSRELIEF
+
+Friedrich Wilhelm Il. Bunt bemalt mit Pour le merite.
+
+Goldrahmen, 22:17,5 cm.Abb. Tafel 8.
+
+- 673.WACHSBOSSIERUNGEN
+
+Die Familie Friedrich Wilhelm Ill. 8 Stick. Goldrahmen, 27:21 cm. Abb. Tafel 8.
+
+- 674.BEMALTE HOLZSKULPTUR
+
+Raffael. Auf viereckigem Sockel, in dessen vorderem Felde die Inschriff Rafael", in dessen rechtem und hinterem die Bezeichnung Keck Weiigel steht, nach rechts ausschreitend und sich gleichzeitig nach links umwendend, der Kuinstler in Renaissancekostum.
+- 675.BEMALTE HOLZSKULPTUR
+- Moses nit schwarzem Haar und Bart in schwarzem, langem, um die Lenden gegurtetem Gewande schreitet, den Stab in der Rechten, in gebuckter Haltung nach vorn. Uber die Schulter ist eine gelbe verzierte Scharpe gelegt. H. 28 cm,
+66. KLEINE RUNDE ELFENBEINDOSE Auf den Deckel in Bronzefassung das Munzbild Napoleons I. Dm. 3,6 cm. Be-
+
+schadigt,
+
+- 677.STEINNUSSDOSE in Form einer mannlichen Figur. Der den Ruicken bildende Deckel fehlt, H. 8 cm
+- 678.OVALERELIQUIENKAPSEL aus Holz mit facettierten Bergkristallscheiben auf beiden Seiten.
+- 679.ELFENBEINSCHNITZEREI der Maria mit dem Kinde. Oval. 18. Jahrh.in schwarzem Rahmen.
+- 680.SILHOUETTE eines jungen Madchen um 1800 auf Spiegelgrund oval.
+- 681.DESGLEICHEN
+
+eines Herren 12:10,5.
+
+- 682.WACHSBOSSIERUNG DES KREUZTRAGENDEN CHRISTUS in Papprahmen,
+- 683.HORNDOSE mit Bildnis Silhouette Franz Il. auf Goldgrund. Dm. 8 cm.
+- 684.SCHNUPFTABACKDOSE
+- Schwarz mit Lackbildchen eines alten Mannes.
+## Goethe-Reliquien
+
+aus dem Nachlasse von Goethes Sekretar RAT THEODOR KRAUTER
+
+- 685.EIN STUCK DER ORIGINALSCHRIFT VON GOETHES GOTZ SchluB des urspruinglichen dritten und Anfang des vierten Auftritts des I. Akts,
+- 686.BLATTER AUS ARNDT'S GARTEN Gepfluckt 1864. Mit Notizzettel von Dr. Robert Keil.
+- in Bonn.
+- 687.BLATTER VON ARNDT'S GRAB in Bonn, Gefluickt 1864. Mit Notizzettel von Dr. Robert Keil.
+- 688.GOETHES NAMENSZUG Initialbuchstaben, auf einem scheinbar aus einem Bibliothekszugangsinventar herausgeschnittenen Zettel.
+- 689.UNTERSCHRIFT JOHAN BANIRS des 1595 geborenen und 1641 gestorbenen schwedischen Feldherrn des DreiBigjahrigen Krieges,Siegers bei Leipzig uber Pappenheim,bei Wittstock und Chemnitz. Mit Siegel. Aus dem Jahre 1632.
+- 690.SCHREIBFEDER VON FRIEDRICH RUCKERT
+- Mit der Aufschrift ,Fr.Ruckert,d.29.Novbr. 1843"
+- 691.GOLDENES PETSCHAFT (ANHANGER) VON OTTILIE VON GOETHE. In die
+- rote Achatplatte ist der Buchstabe "D" geschnitten.
+692. BRIEFUMSCHLAG MIT DER HANDSCHRIFT GOETHES "An Herren Sekretair Krauter nach Weimar. fr." und der Bemerkung:Geh. Rath v. Gothe". Mit Stempel Jena 15. Jul. 1820.
+- 693.BRIEF VON EMILRITTEFHAUS
+- Barmen, den 20. November 1893, an Dr. Robert Keil, in dem er diesem die Ubersendung seiner Arbeit:Bruchperlen heiterer Lebenskunst" ankindigt.
+- 694.ELFENBEINPLATTE
+- angeblich aus Goethes Besitz.
+- 695.STOFFSTUCK VOM ROCK DES FURSTEN LICHNOWSKY
+
+w. Muller par son tres devoue A. H. Chaland, qui l'a recu le 2 octobre
+
+- den er bei seiner Ermordung in Frankfurt am Main trug. In Umschlag mit entsprechender Notiz und der Aufschrift:Offert a Moussieur le secretaire de
+- 696.TAROCKKARTEN unvollstandig, 36 Blatt. Angeblich aus Goethes Besitz,
+697.DIE SCHONE MAILANDERIN Brustbildnis der Romischen Geliebten Goethes,nach rechts gewandt. Von Goethe bei Hackert gezeichnet und in Aquarell ausgefuhrt (?). Oval. H. 22 cm. Breite 18 cm. Goldrahmen. Auf der Ruckseite entsprechende Notiz. Das Bild befand sich in Goethes Besiiz bis zu dessen Tode und wurde spater von den Hinterbliebenen des Dichters an Theodor Krauter schenkungsweise ibergeben. Siehe Titelbild.
+
+- 698.GOETHES FEDERMESSER Mit Perlmuttverschalung, drei Klingen und Nagelreiniger. Dem Stuicke lag bei Ubergang des Nachlasses von Theodor Krauter an Dr. Keil eine Beglaubigung Krauters bei.
+- 699.PALETTE AUS ELFENBEIN
+
+angeblich aus dem Besitze Goethes.
+
+700.LOCKE VON GOETHE 26. Marz 1832, wurde dieselbe als Andenken entnommen. Eine Bescheinigung dariber von Theodor Krauter wurde 1889 an R. Maltzer in Leipzig uiberlassen. Bescheinigung Dr. Keils vem 17. Juli 1889 liegt bei. Vergl. auch Keil. Das Goethe-Nationalmuseum zu Weimar, S. 18.
+
+- 701.STICKRAHMEN Von Goethe Fraulein Karoline Ulrich, nachher verehelichter Riemer geschenkt.
+- 702.FLORTUCH Goethe hat das Tuch
+
+Orientalisch,mit buntgemalten Blumen und Seidenfransen. geschenkt erhalten und Fraulein Karoline Ulrich,nachmaliger Frau Riemer, verehrt.
+
+mit Trauben, die Goethe am Spalier vor dem Fenster seines Arbeitszimmers zog
+
+- 703.STROHKASTCHEN und Frau Riemer gab. Mit Notizzettel (von Frau Riemer?).
+- 704.BRIEF VON NOTH,OBERWEIMAR Den 5ten Jan. 1810, an Dr. Riemar, Weimar, enthaltend die Bitte um Fursprache bei v. Humboldt zum Zwecke der Erlangung von Auskuinften fuir ein spanisches Worterbuch,
+- 705.CARTE TOPOGRAPHIQUE ET MILITAIRE DEL'ALLEMAGNE En 204 Feuilles publiee par 1Institut geographique a Weimar 1807-1813. In zwei Mappen. Aus Goethes Besitz (?).
+
+706.SUPPLEMENT Oder Erweiterung nach Westen der Geographisch-militarischen Charte von Deutschland in 204 Sektionen unternommen von dem Geographischen Institute zu Weimar 1814. 44 (statt 45) Karten in Mappe. Aus Goethes Besitz (?).
+
+707. SEIDENES RICHKISSEN mit Richkissen gefuillt; angeblich aus Goethes Besitz.
+2. 708.ABDRUCK DES SIEGELS
+3. Carl Augusts von Sachsen-Weimar.
+- 709.EIN PAAR PATIENCE-KARTENSPIELE unvollstandig, 80 Blatt. Angeblich aus Goethes Besitz.
+- 710.KARTENSPIEL
+- unvollstandig, 67 Blatt. Angeblich aus Goethes Besitz.
+- 711.UNTERSCHRIFT BERNHARDS DES GROSSEN Herzogs von Sachsen (1604 bis 1639) aus dem Jahre 1633.
+- des 1583 geborenen und 1654 gestorbenen Reichskanzlers Gustav Adolphs von
+- 712.UNTERSGHRIFT AXEL VON OXENSTIERNAS Schweden. Mit Siegel. Aus dem Jahre 1632.
+- 713.KAUF-VERTRAG
+- Zwischen der GroBherzogin Sophie von Sachsen und Dr. Robert Keil betreffend den literarischen Nachlaf Goethes und Schillers. Mit Unterschriften der Grobherzogin, des GroBherzogs und Dr. Keils. Datiert Weimar, den 14. Mai 1886.
+- 714.URKUNDE KARLS V. MIT UNTERSCHRIFT UND SIEGEL
+- Aus dem Jahre 1548. Mandatum poenale cum clausula justificatoria, ad Ducem Ernestum Saxoniae,ut Antonio Fuggaro curet restituendas IV M. Dalentas a Matthia Wollenrod intere ...Coburgi. Text in deutscher Sprache.
+- 715.EFEUBLATTER vom Grab der Frau Rat Goethe,
+## Zeichnungen, Stiche und Lithographien.
+
+- 716.BLEISTIFTZEICHNUNG VON ALEXANDER CALAME 1810-1864, Genf. Waldlandschaft mit zwei groben Baumen iber niedrigem Gebuisch. In der Ferne sind Berge angedeutet. Beschnitten und auf Karton geklebt.
+
+H.26 cm,Br. 351/2 cm. Signiert A. Calame.
+
+- 717.DESGLEICHEN Mit Farbe gehoht. Waldlandschaft mit Blockhitte.  Gruppe von vier groben Ferne Berge. Auf Karton gerahmt.H.381/2 cm.Br.281/2 cm. Signiert A. Calame,
+- 718.AQUARELL,LEOPOLD BRUNNER
+- Geb. 1837. Zwei Pfirsiche mit Stiel und Blattern auf einer Holzplatte. Am Rande derselben Rotkehlchen, Aufgeklebt in Passepartout. H. 25 cm, Br. 34 cm.
+
+Signiert Leopold Brunner pinx 1837.
+
+- 719.AQUARELL VON SOMMER Papagei auf einem kleinen knorrigen Ast, Papier in Passepartout, H. 32 cm Br.211/2 cm. Signiert Sommer.
+- 720.BLEISTIFTZEICHNUNG VON A.VOLKMER Kniebildnis einer Dame in ausgeschnittenem Kleid mit gescheiteltem Haar mit schaftlicher Hintergrund.Auf Papier. H.291/2 cm,Br.24 cm.S
+- Rosen, nach links gewandt. Kollier, Ohrringe. Brosche und Armbander.Land Signiert A.Volkmer 1849.
+- 721.AQUARELL UNBEKANNTER MEISTER
+- Vor ihm auf dem Boden der Kelch. Ein
+- 722.AQUARELL UNBEKANNTER MEISTER Betender Christus in Gethsemane.
+
+Strahl der aufgehenden Sonne beleuchtet ihn scharf. Papier. H. 20 cm. Br. 161/2 cm.
+
+- 723.AQUARELL VON H.GROTHE Altes Weib mit Kopftuch, iber das Feld wandernd. Am Arme einen Korb mit blauer Tuchdecke.Papier in Passepartout gerahmt. H. 12 cm,Br.15 cm,
+- Signiert H. Grothe.
+- 724.GETUSCHTE FEDERZEICHNUNG,WOUWERMANN zugeschrieben.
+- niert an der Krippe pa. Wouwermann (undeutlich).
+- Gesatteltes Pferd im Freien an der Krippe. Auf der Ruckseite Silberstiftskizze. Reitender Knabe mtt Falken.H. 13 cm, Br. 171/2 cm. Sig-
+
+1818-1881, zugeschrieben. Kuhe und Ochse mit Joch auf der Weide. H. 121/2 cm,
+
+725. SEPIA FEDERTUSCHZEICHNUNG,GEORG ZOBEL Br.161/2 cm.Undeutlich signiert.
+- 726.ACHT KLEINE KUPFERSTICHE Engr.by T.Thomas. The SurW. Coven del. J.H.Kernot sculp.-Count Egmont's Jewels.J. Holmes, drawn S. Davenport sculp.The Manor House of the Wyndhams.Cattermole pinx. C.WWass
+- aus einem Buche: Porte rouge, Calais, drawn by C.Bentley. Earl Warwick's Seal-Ring.R. Crayvanger del. C.Rolis, scuip. prise of Montrose,J. J. Eeckhout px. C.Rolls sculp. - Bergamo. engraved. GroBe 14:22 cm. Hoch und quer.
+- 727.ATLAS
+- mit holzgeschnittenen Tafeln und Beschreibung. Folio. Ohne Druckort und Jahr.
+- 728.ROTELZEICHNUNG,JAN FYT, 1611—1661, zugeschrieben. Windhund,weiβ
+- gehoht. Papier. H.18 cm,Br.21 cm.
+- 729.DESGLEICHEN. Liegender Jagdhund. Papier. H.7 cm, Br.141/2 cm.
+730. TUSCHZEICHNUNG VON DU JARDIN, Prof., 1817-1841. Neun verschiedene Schafkopfe; mit WeiB gehoht. Auf Pappe. H. 121/2 cm, Br.24 cm. Undeutlich
+- signiert.
+731. TUSCHZEICHNUNG, ALOIS PENNING, Dusseldorf, zugeschrieben. Pferd auf
+- der Weide.Papier.H.13 cm,Br.141/2 cm.
+732. ROTELZEICHNUNG,I.POOTWYK zugeschrieben. Liegende Schweine, Papier.
+- H.9cm,Br.17 cm. Signatur undeutlich.
+- 733.ROTELZEICHNUNG, CORNELIUS SAFTLEVEN, 1606—1681, zugeschrieben, Windhunde mit WeiB gehoht. Auf braunem Papier H. 18 cm, Br. 14 cm
+734. TUSCHZEICHNUNG Jan Kobell zugeschrieben.S Studie. Ziegenhirt, Ziege und liegender Hirt. Papier. H. 101/2 cm,Br.161/2 cm
+- 735.ZWEI KREIDEZEICHNUNGEN,GERARD VAN HONTHORST,15901650, zUgeschrieben. Zwei liegende Schafe. Papier.Verschiedene GroBen,
+736. KREIDEZEICHNUNG VON OFFERMANN. GroBe Kuh und Widder im Wasser stehend. Papier. H. 16 cm, Br.20 cm. Signiert A Offermaen,
+737. DESGLEICHEN. Kuh auf dem Felde,an einem Sandhigel stehend. Papier, H.17 cm,Br. 23 cm. Signiert A. Offermann,
+738. TUSCHZEICHNUNG.HOLLANDISCHER MEISTER. Lesende Kinde. Stehender Knabe und auf der Erde sitzendes Madchen. Papier. H.22 cm, Br. 161/2 cm.
+- 739.BLEISTIFTZEICHNUNG VON PFOF.GABRIEL VON MAX,geb.1840.Studien aus der Spinnstube. Frau bei Spinnen eingeschlafen. Junges spinnendes Madchen und junger Mann, welcher hinter ihr steht Ein Madchen mit Katze auf dem SchoBe wird von einem andern hinter ihr geneckt. Papier. H. 231/2 cm, Br. 35 cm,Signiert G.Max Fecit.
+740. ANSICHT DES GROSSEN WASSERSPIEGELS IN VERSAILLES Anfang des 18.Jahrhunderts,Kupferstich, JMariette, ex Perelle fec.Auf drei
+- äuBere Panteon zu Kleinskal, Illustrationsholzschnitt.
+## DER HEILIGE NEPOMUCK
+
+in devotione,Triplette,sehr gut erhalten, kolorierte Kupferstiche 16:13 cm. Zwei Heiligenbilder,Kupferstiche. Ein handgeschriebenes Gebet, beschadigt, in zwei Farben.
+
+## ZWEI BLATT KUPFERSTICHE
+
+schwarzfigurigen, griechischen Vasengemalde, etwas fleckig,25:19 cm.— Ein
+
+Blatt mit sechs handkolorierten Modekupfern, Medaillonform.
+
+## 741.DREI BLATT MIT KOLORIERTEN KUPFERSTICHEN
+
+"Der angenehme Abend". Querformat 28:18 cm.-Der Spaziergang", bis Zum Bildrand beschnitten.,Der angenehme Abend",bis zum Bildrand beschnitten.
+
+## KUNST-FEUERWERK
+
+Titelblatt, tiefschwarzer, frischer Stich, 36:21 cm. kolorierter Holzschnitt, bis zum Bildrand beschnitten, 14:8 cm
+
+Szene aus den Tropen,
+
+## NEUN KUPFERSTICHE,TEILS KOLORIERT
+
+Titelblatt zu:,Abbildungen der Saugetiere". Prag 1810. a) koloriert; b) unkoloriert; 19:11 cm,- Muskelsystem des Menschen;Das Skelett; 19:11 cm, gut erhalten. Eingeweide des Menschen, mit Detaildarstellungen.Vier Blatter mit mikroskopischen Durchschnitten, Illustrationen aus: Allgemeine Naturgeschichte.
+
+## 742.ZWEILITHOGRAPHIEN
+
+Aus dem Leben auf der Reise, Le bien und le mal; schone Lithographie von V.Adam;26:20 cm.—Zigeunerfamilie; Plojesti lith.;1856;defekt; 33:21 cm, —Ein Segelschiff in den Tropen;Lithogr. 3i:24 cm,
+
+## SATIRISCHES BILD
+
+"Sie muB aufs Land hinaus"; zwei Darstellungen, kolorierter Stich, And, Geiger sc., 26:21cm,
+
+## 743.ZWEIBLATT
+
+Szene aus einer Heiligengeschichte; Stahlstich; beschnitten. Ein Madchen watet hochgeschurzt durch einen Bach, ein Jungling sieht lustern zu; Weulewik lith. Querformat;25:20 cm.
+
+## 744.TITELBLATT
+
+,Radetzky-Album"; Stahlstich; angeschmutzt;L. Russ del. L. Beyer sc. 29: 12 cm
+
+## DAS TABAKSKOLLEGIUM UNTER FRIEDRICH WILHELM I.
+
+Stahlstich.Der Besuch,Holzschnitt; defekt.Verschiedene GroBen
+
+## ZWEI STICHE
+
+Vorlagen zum Zeichnen, beschnitten. —— 28: 18 cm.
+
+## KINDERSZENEN
+
+Blatt mit vier Stichen,beschnitten, Illustration. 32:19 cm
+
+## 745.ZWEIBLATT
+
+mit zehn Darstellungen, Landschaften, Genre,ein Heiligenbild; Kupferstiche kolorierte Kupfer, Stahlstich;Kleinformat.
+## DREI DARSTELLUNGEN
+
+Zur bohmischen Sage und Geschichte;zwei Holzschnitteein Stahlstich.ESchossig sc. —"Salomon de Caus" im Gefangnis; Stahlstich.Verschiedene GroBen.
+
+## DREIZEHN BLATT
+
+zehn Lithographien, drei Kupferstiche zur Geschichte Bohmens. Die zehn Lithographien Machek del. et lith.: mit Rand; 35:30 cm. Die drei Stiche L.Kohl
+
+1787 sc.;breiter Rand; 32:24 cm.
+
+## ZWOLF BLATT
+
+mit 15 Darstellungen, Farbenholzschnitte und Buntdrucke; Genreszenen, Tierdarstellungen, Ethnograghisches; gut erhalten; verschiedene Groben
+
+## EIN BLATT
+
+mit 19 sehr kleinen Kupfern; Himmelszeichen, Vignetten, ein Napoleonportrat, ca.1810; alle beschnitten,
+
+## 746.FUNF BLATT
+
+Zwei Kupferstiche handkoloriert; ein Probedruck, zwei Lithographien; Landschaften, Genre, historische Szene; verschiedene Groben,
+
+## DREI BLATT MIT 12 KUPFERN
+
+teils handkoloriert, Tierbilder,Kostumbilder,zwei Spielkarten; gut erhalten; teils llustrationen;15:19 cm.
+
+## DREI STICHE LANDSCHAFTEN
+
+teils koloriert; eine Landschaft mit reitendem Reisenden und Wegweiser. J.C.Dietsch del;G.Vogel fec.et excndit,Nurnberg; gut erhalten.Schiff von
+
+Pferden gezogen, kolorierter Holzschnitt. Verschiedene GroBen,
+
+## ALLEGORISCHERKUPFERSTICH
+
+handkoloriert,beschnitten.- Titelkupfer zu: Liber vitae.Verschiedene GroBen
+
+## VIERUNDZWANZIG BLATT
+
+mit 64 Stadtebildern in Lithographie, Kupferstich, Stahlstich, Holzschnitt; sehr interessante Veduten, ein Alt-Berlin; verschiedene GroBen.
+
+## 747.DREI BLATT MIT ZEHN DARSTELLUNGEN
+
+Arco felice, Tempio Diana und zwei Probedrucke, Landschaften mit Fuhrwerk; drei kolorierte Kupfer; gut erhalten; 14:9 cm,Hadrians Grabmal, Rom; Stahlstich,14:9cm.
+
+## VIER BLATT MIT SECHS DARSTELLUNGEN
+
+Papst Pius IX.;P. Rohrich lith.;16: 16 cm;- Clitumnus-Tempel bei Spoleto in Italien: P. Rohrich lith.;-Totalansicht von Rom aus der Vogelschau, 1861; Holzschnitt; Querformat; war gefaltet; an zwei Seiten bis zum Bild beschnitten; 40:24cm.Concordiatempel zu Girgenti; A.Rheinhardt del.; Lithographie; 1858;fleckig: Querformat;30:20 cm.—Ausbruch des Aetna; Chromolithographie yon C.F.Muller; aufgeklebt; 25:17 cm.Eremitage, 30.V.1818;Chromolithographie; beschadigt.
+
+## ZWEI BLATT MIT VIER KUPFERN
+
+Plane; Plan von Venedig, Plan von Neapel (Prag 1809), Plan von Genua (1808), Plan von Turin (1808); bis zum Bildrand beschnitten; Querformate; verschiedene GroBen,
+## 748.DREI BLATT
+
+Krater des Aetna anno 1785; Kupferstich, war gefaltet, bis zum Rand an drei Seiten beschnitten. Engelsburg in Roin; brauer Steindruck; Querformat.— Die Katakomben zu Rom;Holzschnitt, bunt; 22:14 cm.
+
+## DREI STAHSTICHE
+
+19. Jahrh. Illustrationen aus einer Reisebeschreibung. Arc de l'etoile in Paris; C.Reise del.;B.Metzeroth sc.Der Eisenbahnviadukt iber die Lagunen nach Venedig; derselbe sc. Blick auf Palermo; derselbe sc.; Querformate; 15:10 cm,
+
+## ZWEI STAHLSTICHE
+
+Kostronomischer Burger; Woronische Burgerin；Illustrationen;20:15 cm.
+
+## PAPST GREGOR XVI.
+
+Kupferstich, handkoloriert, von wundervoller Frische und schoaen Farben; Brustbild; der Papst im Hausornat mit weiBem Kappchen； schoner, breiter Rand, sehr gut erhalten;22:16 cm,
+
+## 749.ACHT BLATT
+
+mit 50 Darstellungen zur Heiligengeschichte und zwei zur Odyssee. Kupferstiche, teils koloriert, Buntdrucke; J.Arnold, Q.Mark, J. Balzer sc.Verschiedene GroBen
+
+## ZWEI KUPFERSTICHE
+
+handkoloriert, gut erhalten: Der heilige Kreuzweg Christi mit den Passionsstationen 25:18 cm.-Der hl. Nepomuk in devotione; sehr frisch; 15:12 cm.
+
+## ZWEI KOLORIERTE KUPFERSTICHE
+
+Verkundigung an Maria,Verkundigung an Josef;beschadigt, fleckig, Querformat.
+
+Joh. Chr. Leopold exc. Augsburg; 30:18 cm.
+
+## DIE STADT BETLEHEM
+
+## ZWEI BLATT MIT ZWOLF DARSTELLUNGEN ZUM N. T.
+
+und zur Heiligengeschichte; Stahlstich,Kupfer,kolorierte Kupfer; teils JGeoffroy sc. Verschiedene Formate.
+
+## SIEBEN BLATT
+
+mit 55 Darstellungen aus dem N. T. und der Heiligengeschichte; teils Illustrationen,
+
+Kupfer, Stahlstiche,kolorierte Knpfer, Buntdrucke；Kleinformat.
+
+## 750.ACHT BLATT HEILIGENBILDER,STICHE
+
+Mirakel-Madonna mit Kind; Joh.Kollanetz sc. Maria, Jesus, Johannes, A. del Sarto p., Sturm sc.—S.Rochus mit Engel; Gasp. Huberti sc, Mystisches Heiligenbild; Hiller sc.Der hl. Franciscus; schadhaft.— Sta.Idda mit dem Hirsch; David Danner exc. Augsburg.  Sta. Walpurga als Nonne; J. A. P.exc. Augsburg.— Szene aus den Evangelien, unten: Qualen der Holle. J, A. Pfeffel exc., Augsburg.—— Verschiedene GroBen,
+
+Flucht nach Agypten; Muiller sc. - Zwei heilige Patres in devotione vor dem hl. Cajetan: Jacob Picin sc., 17.Jahrh.; gebraunt; beschnitten; 21:14 cm,- Sta. Maria; Domenichino p. Rahl sc., sehr sauber.  Maria mit Kind; Fr. Barto da S.Marco p. J. H. Lips sc.- Drei schone Stiche zur Passion: Kreuztragung, Jesu vor Gericht, Entkleidung; Joh. Sybilla Kuflin f.9:6 cm.
+## ACHT KUPFERSTICHE ZUM N.T. UND ZUR HEILIGENGESCHICHTE
+
+Maria mit Kind, Brustbild; G,B.Goz fec.AugsburgDas Jesuskind der Karmeliter zu Prag; Goz sc. et exc.—Kruzifix Ferdinands IL; Collanetz sc. Punktierte Padua in Pitschin mit Klosterabbildung. -Die wundertatige Maria mit Kind von Tergesta; Schabkunstblatt.— Johannes als Richter.— Teilweise beschnitten, Verschiedene GroBen.
+
+- 751.SECHS BLATT KUPFERSTICHE teils Illustrationen aus der Heligengeschichte SsMaria mit Kind (a1746), schner Rand; S.Adolus; S.Stephanus, gestochen von J.A.Fritrich nach Ch. Cisca, Prag. Zwei Illustrationen zum ,Vater unser". Ein Titelkupfer mit Rahmen haltenden Putten; stark beschnitten. Verschiedene GroBen.
+
+## FUNF STICHE
+
+religiose Szenen darstellend; Christ-eyffriger Seelenwecker: Engel weckt durch PosaunenstoB einen schlafenden Jungling:Gottlieb Wolfgang sc., erste Halfte des 18.Jahrh.Christus umgeben von Engeln und Heiligen, Melchior Kusell sc. et exc., Augsburg 1677.—Apostelgeschichte 28, 6； Illustrationen von A.Mark nach Maillard. Gebet Kaiser Ferdinands Il.Der hl. Johannes Nepomuk,Franz Prechler exc., Prag. —— Verschiedene GroBen.
+
+Mater Dolorosa mit Leichnam Christi ain Kreuz; Rand fleckig. - Johannes tauft Die Kreuzigung;beide M.Engelbrecht exc. Augsburg.— S.Dominicus kniet vor Maria, M.Engelbrecht exc.,handkoloriert.S. Joannes
+
+Jesus im Jordan;— Lauretanische Litanei,- Verschiedene GroBen,
+
+## 752. SECHS BLATT KUPFERSTICHE
+
+Darstellungen aus dem N. T. und der Heiligengeschichte. Illustrationen: Christus auf dem See, Kreuzigung,Hl.Elisabet, Vallis rosarum, Hl.Antonius predigend,
+
+Hl. Benedictus, Maria mit Kind.- Teilweise beschnitten.Verschiedene Groben
+
+## SOWIRDDIEFALSCHHEITBESTRAFT.
+
+Auspeitschung und SpieBrutenlaufen ungetreuer Manner, wahrend die Frauen Soldatendienste tun.- Anonymer Kupferstich Mitte 18. Jahrhunderts; fleckig. 30:19cm,
+
+## NEUN BLATT
+
+mit neunzehn Holzschnitten,Erstabdruck, yon Zverina, Slapnicka,Wirt, Hawranek und anderen; darstellend: Kinder- und Jagdszenen, Marine, Schlosser, Stadte, Portrats und Kirchengerate.-Verschiedene GroBen. Schone Rander.
+
+## AESCULAP MIT SCHLANGENSTAB
+
+Brustbild, gewidmet Herrn Dr. Johann Meyer,K.K.Hofrat.Radierung von Josef Bergler, 1802. Signiert:JB.1802,im Bilde.Frisch erhalten,22:13 cm,
+
+## DREI MADCHEN MIT ZWEI KINDERN BEI STURM IM WALDE
+
+Breitlinige Radierung von Josef Bergler, Prag 1802 (1753--1829). Bis Zum Platten- rand beschnitten. Auf dem Bilde signiert. Breitform.-35:27 cm.
+
+- 753.VIER BLATTER IN KUPFERSTICH J.Sandrart del. G.C.Eimmart (1638-1705) sc. Busten romischer Kaisers Augustus;umgeben vonMedaillons, darunter M.Antonius,Julia,Cicero.1,5:20,5cm
+
+Vitellius; umgeben von Reliefmedaillons, darunter Bacchuszug,Herbst, Soldaten-
+darstellungen.31,5:20,5 cm.—Nero: mit Portratmedaillons: Agrippina, Popaea, Seneca; Hinrichtung von Petrus und Paulus; Nero mit der Harfe. 31,5:20,5 cm. Titus; mit Marciana, Apollo, Hoffnung, Zweigespann usw. 31,5:20,5 cm.
+
+## ILLUSTRATIONSBLATT
+
+Kupferstich zu einem lateinischen Geschichtswerk; sechs Abbildungen nach Statuen und Busten. Mittelteil rund: Pythagoras, sitzend, auf eine Kugel fassend. Oben zwei Reliefs, Theokrit und Thucydides; unten zwei Busten, Zeno und Cicero, und ein Relief: Virgil. Beschnitten. Anfang 18. Jahrh. 31:21 cm.
+
+## DIE VERSUCHUNG DES HL.ANTONIUS.
+
+GroBes Mittelfeld: Versuchung durch ein gehorntes Weib mit GeierfuBen; dariber drei kleine Darstellungen des Heiligen als Eremit, u.a. die Damonen heben Antonius in die Lufte. Unten Schriftkartusche mit lat. Distichen. Kupferstich, zu geschrieben dem C. de Vos. Guter schwarzer Abdruck, bis zum Stichrande beschnitten,—28:22 cm,
+
+## GEDENKBLATT AUF DEN HERZOG ERNST PIUS VON SACHSEN
+
+gewidmet a,1678. Kupferstich von Jacob Sandrart (1630—1708), Nurnberg. Architektur, darauf oben trauernde Putten, am Piedestal der Glaube und die Gerechtigkeit; vom Piedestal ausgebreitet, von zwei Putten und einem lorbeergekronten Schadel gehalten, ein Tuch mit Widmungsinschrift. Im Mittelfeld in lorbeegekronter Nische die Buste des Herzogs. War gefaltet, wenig beschadigt; beschnitten. 43:27 cm.
+
+## 754.VIER BLATTER HOROSKOPIE
+
+In den groben Mittelfeldern allegorische Darstellungen der Gestirne: Saturn,Jupiter, Ornamentrahmen angeordnet und verbunden. Paul Decker (1677—1733) inv. et del.,P. F.Engelbrecht, Ph. A.Kilian, Ch.F. Hormann sc. Martin Engelbrecht exc.
+
+Augsburg. Beschnitten. Hochform. 44:30 cm,
+
+## PORTRAT DES HERRN FRANZ GEORG EDLER VON KEES
+
+Hofrat im Justizfache unter Kaiser Josef II., Verfassers der Allgem. Gerichtsordnung".Schabkunstblatt von Ignaz Unterberger (174897).Bis zum Plattenrande beschnitten.—3,1:19 cm,
+
+GEBIRGSLANDSCHAFT MIT SCHAFHIRT UND HERDE, HIRTIN UND ESEL Francesco Londonio p. (1723-83), Mellerio sc. Stich auf graublauem Papier, gut erhalten.Breitformat. 34,5:26,5 cm.
+
+## DREI SCHLACHTENDARTELLUNGEN,REITERKAMPFE
+
+nach Gemalden von J. Ph.Rugendas (16661742), gestochen von Jacob A.Friderich: Reiterkampf mit Pistole und Degen；beschnitten und beschadt, war gefaltet, Breitformat; 35,5:26 cm,— Reiterkampf zu Vieren,im Hintergrund Schlacht. Beschnitten, beschadigt, war gefaltet.34,5:26 cm.—Reiterkampf zu Dreien,hinten
+
+Schlachtgetummel, bis auf den Stichrand beschnitten und auigeklebt. Probedruck, 22,5:14cm,
+
+## 755.DREI KUPFERSTICHE
+
+Tierdarstellungen von Joh. Ed. Ridinger: Dressierter Huhnerhund bei erlegtem Wild; gedruckt Augsburg 1756. Beschnittten, etwas fleckiger Rand. 25:18 cm, 一 Der Rammler und die Hasin fluchtig. J.E,R.fec.18: 14 cm. Zwei Lowinnen in der Ruhe .J.E,R. fec. Schmaler, beschnittener Rand, braunlich. 18: 14 cm.
+
+## JUNGER LOWE BEI SEINER MUTTER LIEGEND
+
+Bildrand beschnitten und aufgeklebt. 22:21 cm.
+## PUNKTIERTER BUNTSTICH
+
+von Joh.Neidl (1776-1832), nach L. Alban: ,Die Liebe unterrichtet die Unschuld". tierter Buntstich von demselben nach R. Corway: Die Liebe und die Unschuld" Wien, bei A. Tessaro. Breiter Rand, fleckig. Pendant zu dem ersten Stich. 28:20cm.
+
+## 756.SECHS BLATT
+
+vier Kupfer-, zwei Stahlstiche: Vater in Uniform mit kleiner Tochter am Kamin; Illustr.,Stahlstich. Kleinformat.-J Junges Paar auf dem Spaziergang; J. Blaschke Ambos) fast unkenntlich: klein. Kegelspielende Knaben; Stich, bis zum Rand beschnitten. Beim Pralaten; Stahlstich.Verschiedene GroBen,
+
+## VIER BLATT
+
+zwei handkolorierte Kupfer, eine Tuschzeichnung; eine geschnittene Silhouette.— Krapfenweib;Wahre Liebe im Ehestande; beide ca.17:10 cm.—Bewaffneter Mann mit Mantel, Tuschzeichnung:  Der Obrist Andreas O'Fallon aus Irland; Silhouette,rotes Papier, aufgeklebt; ca. 1750.
+
+## FUNF BLATT
+
+darunter drei kolorterte Kupfer, zwei Lithographien: Ausflug: Rendezvous; beide bis zum Bildrand beschnitten; Querformat, 20:15 cm. Der Zebu; Illustvation; 12:10 cm.—Der alte Marco;—Der Raubschutze; zwei Lithographien, Nisle del, Heinemann f.;11:9 cm.
+
+## ZWEI BLATTER
+
+llustrationen; Ohreule zur Schau gestellt; Illustration aus einer Fibel; Kupfer; gut erhalten; 19:13 cm.—Englische Schmugler; P. Rohrich grav.; oberer Rand abgeschnitten;20:15 cm.
+
+## ZWEI BLATT HANDKOLORIERTE KUPFERSTICHE
+
+"Hasenjagd";Illustration; Querformat; sehr realistisch;25:15 cm,Sechs Rundbildchen, zu einem Spiel gehorend; 18, Jahrh.;26:18 cm.
+
+## 757.ZWEIBLATTER
+
+Kupferstiche.Der Sommer",handkoloriert； 20: 14. Schwur der Liebe; Anfg.
+
+19.Jahrh.19:14 cm.
+
+## HL. AURELIUS AUGUSTINUS
+
+im Ornat in der Zelle, vor ihm seine Werke; Engel bringen ihm die Bischofsabzeichen. Aug.Neurautter exc. Prag; stark beschadigt und gefaltet. 60:42 cm,
+
+## DIE HEIMSUCHUNG
+
+Maria und Elisabeth. Signiert W.K. F., J. Sandrart exc.; bis zum Stichrand beschnitten und aufgeklebt. zum Teil handkoloriert, etwas fleckig. 37:29 cm.
+
+## VIER KUPFERSTICHE
+
+mit schonem,breitem Rand: Die vier Evangelisten; mit Darstellung ihrer Schicksale und Symbole: Johannes.  Matthaeus. Markus. Lukas. Das letzte Blatt handkoloriert. 17:13 cm.
+
+## VIER STICHE ZUR PASSION
+
+Saule,-Dornengekront.—Gefesselt. 13:9,5 cm.
+
+Illustrationen, gut erhalten: Ankuindigung des Todes Jesu. — Christus an der
+## DREI KUPFERSTICHE ZUM N.T. UND ZUR HEILIGENGESCHICHTE
+
+Auferstehung Christi; stark beschadigt, ohne Rand; 27:16 cm. Hl. Antonius von Padua hilft die Mohren aus Oran verjagen, 1723; beschadigt; 14:8 cm.— Tribunal Poenitentiae; allegorischer Stich; stark beschnitten, aufgeklebt; 17:13,5 cm.
+
+## DREI STICHE
+
+Illustrationen: S. Donatus Martyr; Kilian sc., M. Engelbrecht exc., Augsburg; 15,5:10 cm.— Anbetung des Herzens Jesu; Engelbrecht exc., 15,5:10 cm.— Ein Schriftblatt, gestochen,mit Vignetten und gestochenen Szenen; gut erhalten； 10,5:6,5cm.
+
+## 758.DREI BLATT
+
+mit 21 Bildchen zum N. T. und zur Heiligengeschichte; Kupferstiche, Stahstiche, handkolorierte Kupfer, Bunddrucke;kleine Formate.
+
+## FUNF BLATT MIT 49 DARSTELLUNGEN ZUM N.T.
+
+uund zur Heiligengeschichte; Kupferstiche, Stahlstiche, kolorierte Stiche, Buntdrucke; kleine Formate.
+
+## FUNF BLATT MIT 43 BILDERN ZUM N.T.
+
+drucke; neun Szenen der Passion, Seb. Langer-Wien sc.
+
+und zur Heiligengeshhichte; Stahlstihhe, Kupferstiche, kolorierte Kupfer, Bunt-
+
+## EINHUNDERTSIEBZEHN KUPFERSTICHE,VEDUTEN VON ROM
+
+Vicinanz. Incise a bullino da Domenico Pronti. Roma. 17.18. Jahrh. Fast alle sehr frisch und gut erhalten, schone Drucke, teils Giov. Cassini inc.
+
+teils aus: Nuova Raccolta Di 10o Vedutine Antiche della Citta di Roma e sue
+
+## VIER BLATT
+
+48 Heiligendarstellungen,Kleinformat, teils koloriert, Stiche und Drucke.
+
+## SIEBZEHN HANDKOLORIERTE STICHE
+
+Zum A.T., beschnitte und auf schwarzen Karton geklebt, mit Unterschriftungen aus der Bibel. 12:8 cm,
+
+## FUNF BLATT
+
+Vier Heiligenbilder: St.Wenzeslaus, Rieder del., J. und F.Stober sc.; Stahlstich;
+
+handkoloriert.— Maria auf dem hi. Berg mit Kloster; Kupfer. Marienbild auf dem hl. Berg mit Prozession. Die hi. Beichte; M. Seitz p.; A. Schleich sc.; Stahlstich;Kleinformate.Vexiercrief.
+
+759.ACHT HEILIGENBILDER St.Procopius,-Sta.Elisabetha, auf Pappe gedruckte Tondrucke; stark dunkel; 17:15 cm.Maria am Kreuz, kolorierter Stahlstich, A.Leitner sc.;Kleinformat; Maler amabalis, Stahlstich von F. Fleischmann;Kleinformat. Maria auf Mondsichel, Axmann sc., Stahlstich;Kleinformat.Kruzifix； G. G.Endner sc. —Maria von Schwadowitz mit Kloster;A.Neklischek sc.; Kleinformat.—Kreuz und Marterwerkzeuge; Kupfer, klein.
+
+## ZEHN HEILIGENBILDER
+
+Stiche; Beweinung, Fuhrich del., A. Petrac sc. Jesus ist verurteilt, Station I. Fuhrich del., Zelisco sc. Passion, Stationen I, Il, VI; Fuhrich del.; Zelisco sc. Passion, Stationen IV,VIl, XI, XIl, XIll; Fuhrich del., Zelisco sc. Illustrationen Kleinformat.
+## 759.S. JOHANN VON NEPOMUK
+
+format;27:19 cm,
+
+## VIER BLATT
+
+Kronung Mariens durch Gottvater und Jesus; Schabblatt handkoloriert; bis zum Bildrand boschnitten;25:18 cm. - Anbetung des Kindleins durch die Hirten; war zweimal gefaltet; Kupferstich; bis zum Bilde beschnitten; 30:19 cm.—Maria Sta. Caecilia; Stahlstich von Eichens; bis zum Bilde beschnitten; 21:16 cm.
+
+## 760.ZWEI DARSTELLUNGEN
+
+Christus am Kreuz: Es ist vollbracht! Sehr gut erhaltener, frischer Abdruck Christus am Kreuz. tot, mit zur Seite geneigtem Kopf; Schabkunstblatt, bis zum Bildrand be- mit breitem Rand, Kupferstich; Anfg.18.Jahrh.; 29:17 cm, schnitten；kuinstlerisch schone Darstellung, besonders der Kopf; 35:27 cm.
+
+## CHRISTUS UNTER DER KREUZESLAST HINSINKEND
+
+kolorierter Kupferstich,Abbildung einer Skulptur, bei den Franzikanern in Zebrzy befindlich;gut erhalten;27:17 cm.
+
+## BESTATIGUNG EINER WALLFAHRT NACH LORETO
+
+Die hl. Jungfrau von Loreto, J. Spagnola sc.: oben am Bildrand das offizielle Blatt aus einer grine Siegel mit schwarzem Schleier; Stahlstich; 17:12 cm. bohmischen Bibel mit getuschter Illustration; beschnitten; 30:18 cm,
+
+## VIER BLATT KUPFERSTICHE
+
+Vexierkupfer: Die Jugend —Das Alter; ein Gesicht.- Bozenka;Portrat eines eines Madchens in Landschaft. - Prachtig aufgezaumtes Kamel von Putto gefuhrt. —Darstellungen exotischer Volker auf einem Kupfer; die beiden letzten handkoloriert.—Verschiedene GroBen, Kleinformat.
+
+## 761.ACHT BLATTCHEN
+
+llustrationen aus einem Geographiewerke, 18.Jahrh.;L, Cassas del, J, Gerstner sc.:Pyramiden, Tempelinneres in Agypten, Graber bei Palmyra, das eiserne Tor nach Aleppo, Grab Caius Caesars, Hauptmoschee zu Cairo, usw. Querformat; beschnitten;ca.11:8 cm.
+
+## ACHT BLATTER KUPFERSTICHE
+
+Ein Wappen. 1697.—Wappen des Grafen von Bose.—Bildhaueratelier; schoner "Komm. geliebte Seele". Felsengrotte bei Tarent, Blaschke sc.Vier Familienszenen; gefaltet gewesen, Verschiedene GroBen,
+
+## ACHT KOSAKEN AUS ASIEN
+
+roher deutscher Stich des 18. Jahrhunderts. 26:16 cm,
+
+## VIER BLATT
+
+Soldatenbilder,Kupfer, teils ProbedruckeNeun Stiche, einer handkoloriert; aus der Zeit Napoleons I. Infanterie und Kavallerie, Verschiedene GroBen.
+
+## TITELBATT UND TITELKUPFER
+
+zu einer Widmungsschrift fur den Grafen Christof Friedrich zu Stolberg und den Grafen Hans Heinrich d. J. von Hochberg; grober Titelkupfer, Huldigung der Geometrie, Joh. B. Probst f., Jeremias Woiff Erben, Augburg exc, Ende 17.Jahrhunderts. Rander fleckig. 30:19 cm,
+## 762.THIERGARTEN
+
+sc., Prag bey F.K.Wolff, 1803; beschniten und aufgeklebt. 20:16 cm.— Eismeer,Berner Oberland;Stich, fleckig,biszum Bildrand beschniten an drei "Das
+
+Seiten; war gefaltet. 21:18 cm.
+
+## ZWEI LANDSCHAFTEN
+
+Kupfer, Probedrucke, ein Blatt: Kleine Waldlandschaft mit Blick auf eine Lichtung. 9:6 cm,— Wald- und Gebirgslandschaft mit Ruine und Wasserfall. 13:10 cm.
+
+## VIER LANDSCHAFTEN
+
+schaften mit Ruinen. 15:8 cm, Zwei heroische Landschaften, Gebirgsgegend mit Klosterburg.Gebirge,Baumlandschaft am Bach, Staffagefiguren. 23:17 cm,
+
+## ZWEI BLATT LANDSCHAFTEN
+
+Probedrucke: Heroische Landschaft, Lichtung am Bach mit antikischen Gestalten; 23:17 cm.— Kapelle auf einem baumbewachsenen Felsen, weites Land und See. Breite Rander, sehr gut erhalten, unbezeichnet. 11:5 cm.
+
+## 763.ZWEIBAUMLANDSCHAFTEN
+
+Probedrucke auf einem Blatt. Besuchskarte als Landschaft mit dem Namen des Stechers J. Mobmer; Laubbaume auf einer Lichtung. Verschiedene Groben.
+
+## ZWEI BAUMLANDSCHAFTEN
+
+Stiche, Probedrucke; Ch.H.Brand del; Q.Mark sc.; schmaler Rand. 22,5:17,5 cm.
+
+## PRATERLANDSCHAFT
+
+bezeichnet:,Nach der Natur in Pratter 1793,C. Schallhas ft. Probedruck, bis fast zum Plattenrand beschnitten. 22:18 cm.
+
+## MONDLANDSCHAFT
+
+C. Schallhas sc. 1790. Radierung; stimmungsvolle Landschaft; bis zum Stichrand beschnitten und aufgeklebt. Querformat.E Braun.18,5:9cm.
+
+## DER VERLORENE SOHN
+
+reist von dem Vater ab.-Der verlorene Sohn kehrt wieder.-2 Schabkunstblatter von J. J. Haid (1704-64) u. Sohn Augsburg. Stark beschnitten und be- schadigt. 40:32cm,
+
+## VIER BLATT
+
+Ein Itahlstich: sieben mannliche und weibliche Kopfe: Zeus, Apollo, Juno und andere Gotter. 27:14 cm.-Ein Blatt mit zwei Ornamentstichen, Friesen, von Jean ie Potre,1657;beschnitten.22:14 cm.— Junge Mutter; Autenrieht tsc. sc.11:7,5cm. Der Fuhrmann; mit daruntergestochenen Versen, wohl aus einem Zyklus:,Die Stande". Kupfer. 17.Jahrh. Beschnitten. 15:8 cm,
+
+## 764.ZWOLF GANZFIGURIGE KUPFERSTICHE
+
+yon de Mallery (geb.a.1576), Antwerpen a. 1614. Titel des Buches mit vierzehn kleinen Einzelkupfern. Prophet Jeremia, die Heiligen: S. Ivo Presbyter, S.Didacus Complutensis, Ludwig IX.von Frankreich,S, Bernharnd von Siena,S. Johannes a Capistrano, Kardinal Bonaventura,S.Ludwig von Toulouse, sieben heiligste Martyrer, funf heiligste Martyrer, S.Eleazar.Jeder Heilige umgeben von zehn seiner Wunderiaten und der Darstellung seines Todes. Beschnitten und aufgeklebt. 25:16 cm.
+## DARSTELLUNGEN AUS DEM ALTEN TESTAMENT
+
+95 Kupferstiche mit breitem Rand. Hochformat; von K. L. Schuler (1784—1852).
+
+19:13cm.
+
+## SIEBEN DARSTELLUNGEN AUS DER BIBEL
+
+darunter aus dem A. T, zwei aus dem N. T. Beschnitten. Kupferstiche. 9:8 cm.
+
+## ZWOLF KUPFER
+
+Zurickkunft, Belohnung". Zwei Lebensgange, gut und bose. 9:6 cm. In der Mitte: Darstellung einer Druckerei. B. Picart del. 1721. Kupferstich. 7:6 cm.
+
+## SECHS ILLUSTRATIONEN
+
+Zu Dichtwerken, D. Chodowiecki del. Cl. Kohl, Wien sc. Blatt links oben von Chodowiecki gestochen a.1796. Kupfer. Beschnitten. 9:6 cm.
+
+## NEUN BLATTCHEN
+
+verschiedener GrgBe von D. Chodowiecki (1726-1801), sechs von ihm selbst gestochen a. 1777, 1794, 1796, drei von Cl. Kohl Wien (1744-1807）. Illustrationen aus;,Die Jagd"y.Weise;Eginhard und Emma" v. Langbein; Theseus und Pyri thous entfuhren Helene: Eine Abendgesellschaft bei der Lampe; Ein Exlibris u. a.m.ca.9:5cm,
+
+## 765. ABSCHIED LOUIS XVI.
+
+von seiner Familie, handkolorierter gleichzeitiger Stich, Querformat, 32:20 cm. Tod Kaiser Leopolds Il., 1. Marz 1792, gleichzeitiger Stich handkoloriert.
+
+Querformat, linke Randecke bis zum Bild abgerissen. 32:20 cm.
+
+## ZWEI DARSTELLUNGEN VON MISSGEBURTEN
+
+,Un jeu de la Nature", Kopf und Rumpf ohne Unterleib auf einem Kissen, unterschrieben mit Tinte: Benedetto Formagino. Stich; defekt. 28:17 cm. Johanna Sofia Liebschern aus Sachsen, ohne Arme geboren; mit erklarender Beischrift; stark beschnitten. 21:17 cm,
+
+## ZWEIBLATT
+
+"Olivia", Stich, punktiert, Reiading sc, sc.1785, London; mit schonem Rand. 15:11 cm. -Lowe als Garrick und Johnson in Deinhardsteins Lustspiel; Garrick 22:15cm,
+
+## ZWEIBLATT PORTRATS
+
+16.17. Jahrh. Fr. Joannes de la Cassiere Quinquages. N.Magister 1571. Muiller sc, Medaillon mit Schriftrandung.— Fr. Raymundus Perellos, Roccaful, 1697; ebenso;beschnitten und aufgeklebt. 19:14 cm.
+
+## ZW'EIBLATT PORTRATS
+
+Beatrice Cenci; Linder p. Romae, F.V.Durmer sc. 1789; sehr breiter Rand, gut erhalten. 15:10,5 cm.Caspar Graf von Sternberg;Lithographie, bis zum Rande beschnitten; fleckig. 21:17 cm.
+
+## 766. NEUE ILLUSTRATIONEN AUS BUCHERN
+
+Diana am Bache,Bein sc. Spielende Amoretten, W. Jury fec.— Chaerea, antike Szene, Ramberg del., Blaschke sc -Anakreon;Rah sc.—Ariadne mit Bacchus; Berger del; Blaschek sc.Zwei Bilder aus einer Reisebeschreibung.— Arkadische Hirten, nach N. Poussins Gemalde,Lambert del. et sc.— Biblische Szene; ein Rand abgeschnitten. Verschiedene GroBen
+## DRESDENER GEMALDE-GALERIE
+
+Eine Aus wahl der vorziglichsten Meisterwerke dieser Sammlung in vortrefflichen Stahlstichen von A. H. Payne mit Text von A. Gorling. 1. Band, Leipzig und Dresden. Verlag der englischen Kunstanstalt von A. H. Payne. In Leder gebunden mit Goldpressung. Einband defekt.—H.28 cm, Br.22 cm.
+
+## ALTEGRATULATIONSKARTE
+
+zu Neujahr; Buntdruck, sog. Ziehkarte in drei Teilen. Verschiedene GroBen.
+
+## ZWEI BLATT
+
+mit drei Stichen. Das Tangerminder Tor zu Stendal, Doppelausfuhrung: a) konturiert, b) ausgefuhrt. Illustrationsblatt. 24:19 cm, Ein Blatt mit zwei Probedrucken: Ruine im Walde, Felslandschaft mit Wasserfall. C. Stark fc. 1810. Mit breitem Rande,gut erhalteu. 10:8 cm.
+
+## 767.VIER LANDSCHAFTEN
+
+Probedrucke; M. Molitor del., C. Stark sc. Je zwei auf einem Blatt.—Landschaft mit baumbestandenen Felsen und badenden Frauen als Staffage; Medaillenform.
+
+Waldlichtung mit weidenden Kuhen. - Alte Baume am Bach und Landmann
+
+## BLICK AUF EIN KLOSTER
+
+aus der Vogelschau, mit Wirtschaftsgebauden und Fischteichen, in der Nahe eine kleine Stadt mit Hugellandschaft. Stich aus dem 17. Jahrhundert. Bis an den Bildrand beschnitten,etwas beschadigt. Querformat. 31:24 cm.-Gebirgsland-
+
+Johannes Boehm. Der obere Rand abgeschnitten. 22:15 cm.
+
+## ZEHN KLEINE KUPFER
+
+davon acht llustrationen: Chorinski-Klause; Der vordere Gosausee; Kirkstall Abbey. Alle drei ca.10:7 cin.- Drei englische llustrationen zu Dichtwerken,Cha. Heath, J. Romney, S. Noble exc. 7:6 cm.—Fuinf Blattchen mit je zwei Sternbildern.9:3cm.
+
+## VIER BLATT MIT ELF DARSTELLUNGEN
+
+zur Kostumgeschichte und Ethnographie. Kolorierte Kupferstiche, Stahlstiche und
+
+Lithographien. Verschiedene GroBen.
+
+## 768.CONVOLUT
+
+Vierzehn Stiche, reliosen Inhalts.
+
+## CONVOLUT
+
+Funfzehn Lithographien, Stiche und Silhouetten.
+
+## OSTERSPAZIERGANG
+
+Fuhrich, del., Petrac sc.——29—22 cm.
+
+## 769. VIER BLATT ZUM N.T. UND HEILIGENBILDER
+
+Ste. Cecile; franzos. Stich, handkoloriert.—Hl. Agnes von Bohmen; L. Schmidt sc., 1876.— Mater dolorosa; Illustration,— Im Stall zu Betlehem; Stahlstich,
+
+M. Storz sc., Muinchen.—- Kleine Formate.
+
+## ZWEI HEILIGENBILDER
+
+Stahlstiche: Maria mit Kind von St. Thomas, Prag; von Gottmann sc.,22:16 cm. S.Johann von Negomuk; Schabblatt, G, Schroeder sc., 1843. 28:22 cm.
+## CHRISTUS, DEN UNTERGANG JERUSALEMS PROPHEZEIEND
+
+C.Begas p., G, Dobler sc., 1876. Stahlstich. - Querformat, 36 :29 cm,
+
+## DREI BILDER ZUM N.T. UND A.T.
+
+Heilung des Gichtbruchigen; Fuhrich p,Dobler sc., Stahlstich,— Christus und die Kinder; von Markewsky gestochen, 1834. Illustration zu II. B.Mose 23,20; Fuhrich dei.Verschiedene Groben.
+
+## ZWEI GROSSERE
+
+sechs kleine Heiligenbilder; Stahlstiche: Trinitat, nach Rubens; A. H,Payne sc.—
+
+## 770. ANSICHT DES GROSSEN BRANDES VON HAMBURG
+
+von der Alster aufgenommen. Lithographie, beschnitten, war gefaltet.38: 18 cm.
+
+## TOTALANSICHT VON KOKORZIN
+
+in Bohmen.Lithographie, 19:13 cm,-F Ein Heiligenbild;bohmisch, kolorierter Druck.
+
+Brunnenplatz in Liebwerda, getucht.——
+
+## EIN OBELISKDENKMAL
+
+in Landschaft mit Staffage. Stahlstich, Dober sc. — 30:23 cm.
+
+## ZWEI BLATT MIT JE VIER STAHLSTICHEN.
+
+Sechs weibliche Genreportrat; Katterba sc.,L. Beyer sc., J. W. Baumann sC., J. W. Baumann sc., Brinckmann sc., J. Krepp sc,-Die Uberraschung; Brinckmann sc.- Grobvater und Enkel. Bis zum Bilde beschnitten.—-Verschiedene
+
+GroBen,
+
+## DREI KUPFERSTICHE
+
+"Subkriptionseinladung fur die Freunde des Schonen", ornamentaler Stich; 24:16 cm.
+
+Zwei Blatt Zeichenvorlagen,koloriert. Kleinformat,
+
+## TITELSTAHLSTICH
+
+Geschichte von der gefangenen Prinzessin. Dusseldorf 1842. J. B. Sonderland fecit. 23:18 cm.-Dame in Krinoline. Modelithographie. 20:15 cm.
+
+## CHRISTUS UND DIE EHEBRECHERIN
+
+Schabkunstblat,beschnitten,aueklebt,deimal altet,Rand nachgemaltQur format.-58,5:26 cm,
+
+## VIERZEHN BLATT
+
+Studien zur Anatomie und Bewegung aus einem Mappenwerk gestochener Vorlagen:
+
+Akte, Halbakte, Putten, Kopfe.Vorzugliche Drucke,— 30:20 cm,
+
+## ZWEI KUPFERSTICHE
+
+Illustrationen: GefaBe.- Gotzen der Hinduer.—Verschiedene GroBen.
+
+## 771.DAS MORGENGEBET
+
+Stahlstich; Stocks pt.; Simon sc, sehr schon und sauber, tiefschwarz, 18:13 cm Allegorie der Baukunst; Kupfer punktiert,braun; V. Kinninger del., C. Pfeiffer sc.1800.Fleckig.22:14 cm,
+## FUNF BLATTER PORTRATS
+
+Ein Kardinal in throno; Joh.Andreas Pfeffel sc. Augsburg; bis zum Bildrand beworin eine Kampfszene, Lorbeer und Helm auf dem Piedestal; Weinrauch sc. Wien.—Herzog von Liancourt, franzosischer Deputierter: Medaillonform, Schabblatt.Dichtsr Helty, Medaillon als Relief, Cl.Kohl sc.Wien.Joh.Jacob von Weil, Naturforscher,Medaillonstich. J.Hickel p. J.E. Mansfeld sc.Verschiedene GroBen,
+
+## SIEBEN BLATT MIT 16 PORTRATDARSTELLUNGEN
+
+in Lithographie, Stahlstich und Holzschnitt, darunter einige Dubletten. Bildnisse von Bischofen, Geistlichen, Gelehrten und Herschern. Darunter Portrats von: Kaiser Karl IV., Kaiser Joseph Il, Erzherzog Friedrich von Osterreich Rohrich lith.), Erzherzog Stephan, Kronprinz Rudolf, Kaiser Franz Joseph I. als Jungling. Verschiedene GroBen.
+
+## JACQUES CALLOT 1592-1635.
+
+teilweise beschadigt.——H. 19 cm, B.9 cm.
+
+## 772.PARISER MODEBILDER
+
+November 1848. Holzschnitt.-St. Georg,Reiterstandbild auf dem Prager Schlosse.
+
+Stahlstich von Wurster. Eine Ecke abgerissen.
+
+## ZWEI BLATT MIT VIER DENKMALERN
+
+Stahlstich und Lithopraphie.—Ca.20:17 cm.
+
+## FAHNENWEIHE DES BRUNNER BURGERKORPS
+
+15.Aubust 1845. Illustrationsholzschnitt, war zweimal gefaltet, stark beschnitten
+
+Querformat.-Querformat.40:23 cm.
+
+## .VIER STICHE HEILIGENBILDER
+
+S.GOTTHARD, S.GEORG,J.Fuhrich p,G.Dobler sc., 1838,Phil. Veit p,
+
+Dobler sc. 1837. Stahlstiche. 24:16 cm. Zwei Christusbilder; S.Langer sc. Kleinformat.
+
+## 773.ZWEILITHOGRAPHIEN
+
+Christus und die Ehebrecherin; E. Signol p., L. Muller lith.— Christus und Petrus auf dem See; Signol p., Miller lith. Beide 30:24 cm.
+
+## ACHT TAUFBRIEFE
+
+ein Taufzeugenzettel, gestochen.Die Taufbriefe koloriert. Prag, Anfang des 10.Jahrhunderts.— Verschiedene Groben.
+
+Verlag Hoffmann,
+
+## NENZEHN BLATT DARSTELLUNGEN AUS DER BIBEL
+
+siebzehn zum A. T., zwei zum N. T. Holzschnitte nach Schnorr von Carolsfeld. 26:22cm.
+
+## ZWEI BLATT
+
+Illustrationen: Der Thron der Konigin Victora im Hause der Lords: V. Rothig grav. 24:19 cm.Molieres Denkmal; Kupferstich, sch; Ornamentstich. 22:13 cm.
+
+## VIER HOLZSCHNITTE
+
+Walachische Schlittenfahrt: Die sieben Zecher; Spanischer Blumenhandler; Geduldprobe. Alle ca. 16:13 cm.- Die Erscheinung; Die Gratulation. Die zwei letzten 18:13cm.
+## GRIECHIN AUS ELEUSIS
+
+Schoner Buntdruck in Stichmanier: oval. 24:17 cm.-Umschlagbild zu Fruhlingsbilder fur liebe Kinde".Gezeichnet von F. Rothbart; Lithographie, Stuttgart. War gefaltet.20:16 cm.
+
+## 774.DREI BLATTER
+
+"Die zartliche Umarmung";Kupfer handkoloriert. 19:15 cm.— Damen- und 21:15 cm.—Die Schrecken der VehmeF.A.Renner lith.,Dresden.15:10 cm
+
+## RUSSISCHE SPINNSTUBE
+
+Stahlstich. 14:10 cm.—Topfflicker im Dorf. Handgetuschter Steindruck. Rand fleckig.19:16cm.
+
+## ZWEI LITHOGRAPHEN
+
+Viel Durst: nach dem Gemalde von J. P. Hasenclever, 1846. Weib gehohter Steindruck; Illustration. 23:16 cm.- Baumlandschaft am Wasser. Bis zum Bildrand beschnitten.26:20 cm.
+
+## ZWEI STAHLSTICHE
+
+Die Schutzengel; J. Hubner p.A,H. H.Payne sc., 1853.—GroBvater und Enkelkind bei der Morgenandacht; E. Meyerheim p, A.H.Payne sc. (geboren 1812).— Beideca.18:14 cm,
+
+## ZWEI STAHLSTICHE
+
+Heimkehr der Herde; E.Hofer sc. Sehr gut erhalten. 22:15 cm.—Der Neujahrsmorgen";Tidemand p.,W.French sc., 1868. 18: 14 cm.
+
+## 775.ZWEISTAHLSTICHE
+
+FluBlandschaft mit Brucke; A.W. Calcott pt., Heawood sc. 20:15 cm. Der blinde Geiger; David Wilkie p., W. French sc. 16: 12 cm.
+
+## ZWEI STAHLSTICHE
+
+"Park mit Geflugel; M., d'Hondecoeter p.,W.French sc. Schoner Rand. 18:13 cm "Der Raucher";Velasquez p.,C. Strunz sc., aus der Galerie Lichtenstein, Wien.18:11 cm.
+
+## ZWEI STAHLSTICHE
+
+"Die Winden", Mutter mit zwei Kindern; A. H. Payne sc. 18:13 cm. —， "Amuse- ment de la jeunesse"; van der Werfft pt., A. H. Payne sc. 22: 13 cm.
+
+## ZWEI STAHLSTICHE
+
+Das Erwarten"; Rzbicka sc. Schoner Rand. 19:13 cm.  Jacob bei Laban; Chopin p, H.Petersen sc., 1843. Beschnitten. 26 :18 cm.
+
+## ZWEI LITHOGRAPHIEN
+
+Heimkehr von der Jagd.- Karl I. von England mit seiner Familie im Boote, Breite Rander.-Beide 22:16 cm.
+
+## DAS RENDEZVOUS
+
+Rothmiller lith., gedr, bei Rauh, Wien. Breiter Rand, etwas fleckig. 24: 18 cm,
+## 776.DER KLOSTERHOF
+
+nach dem Gemalde von C. F. Lessing. A. H. Payne sc. Stahlstich. 18:14 cm. Florentinischer Dichter; A.Cabanel p,V.Froer, Stuttgart, sc.Stahlstich, angebraunt. Querformat.24:16 cm,
+
+## DER SOMMER
+
+Landschaft. Stich,handkoloriert,Frantz sc.Breitnr Rand, etwas fleckig.20:14 cm,
+
+## ZWEI BLATTETER
+
+Stahlstiche, englisch:Der Hirt";Ruthard p.,W. French sc.Die uberraschten
+
+Spieler; Rombouts p., W. French sc. Beide gut erhalten. 18:10 cm.
+
+## AVE MARIA
+
+C.Ruben inv., C.Wiesner sc, 1846. Stahlstich, breiter Rand.
+
+C.Ruben p,CWiesner sc.,1847Stahlstich,breiter Rand.Macht des Glaubens;
+
+## ZEHN BLATT ZEICHENVORLAGEN
+
+Ziegen;Adam del. teilweise fleckig.
+
+Baume und Baumgruppen; A.Manes sc., 1829, 1830, 1831, Kleng sc., 1801.— Profilportrat; Brustbild eines Junglings;Landliche Hutten; Brunnen.Drei Blatter Tierstudien,Lithographien,Kpfevon Ochsen,Eseln,Bcken,Schweinen,ligenden Hammel am Zaun; Adam del.  Verschiedene GroBen;
+
+## 777.DREI BLATTER BILDNISSE
+
+Mann mit Geige; ganze Figur Profil, stehend. Probedruck, sehr gut erhalten. Ypsilandi, Furst yon der Moldau, in phantastischem Kostum;handkolorierter Stich, hundert.Alle drei ca.16:10 cm.
+
+## VIER STICHE,BILDNISSE
+
+Friedrich Wilhelm, Herzog von Braunschweig-Ols; Punktierstich, Rander defekt. Papst Benedict XI., im Hausornat, sitzend; Backhart sc., Prag. Schoner Rand. einem Geschichtswerke, Bis zum Bildrand beschnitten, sonst sehr gut. 12:12 cm.
+
+14:8cm.— Kaiser Karl der GroBe mit Krone und Insignien, Rundportrat aus Bildnis eines Kapuziners; A.Luciani sc. 14:9 cm.
+
+## PORTRAT DES DEKANS KROMBHOLZ
+
+33:24cm.
+
+von Professorenkollegium, Prag. Lithographie, gut erhalten, etwas angefleckt.
+
+## DREI STICHE
+
+Illustrationen:Ein Segelschiff mit Beschreibung der Details; stark beschnitten. Ein astronomisches Blatt, sehr beschadigt.Zwei Pferdebilder,kolorierter Stich. Verschiedene GroBen.
+
+## 778.NAPOLEON
+
+entsteigt dem Grabe, lorbeergeschmickt,in Uniform, die Rechte halt die Grabplatte. Schabblatt; bis zum Bildrande beschnitten und aufgeklebt. 31:24 cm. FRANCISCUS NOBILIS DE ZEILLER, Professor in Wien, Redakteur des osterreichen allgemeinen Gesetzbuches. A. Siegel p., C. Pfeiffer sc., 1805. Rund geschnitten. 30:17 cm.
+
+## DER KATER IM HAUSE DES PFARRERS
+
+Szene aus Reineke Fuchs"Wilh. Kaulbach del., Adrian Schleich, sc. Aus einem Buche.Mitte des 19.Jahrhunderts.Sehr gut erhalten.24:22 cm.
+## ZWEI BILDERBOGEN
+
+handkoloriert, Friedr.Kaiser del.,Wien, bei Fr.Barth: Die schlagfertige Magd. 22:15 cm. Der Hanswurst.——Beide mit Versen, 24:17 cm.
+
+## ZWEI BLATT STICHE
+
+"Der nachtliche Schwarmer";handkoloriert.—"Spate Reue". Beide 20: 14 cm.
+
+## SECHS BLATTER
+
+"Wie die Krahwinkler Eheleute Kinder grobziehen"; handkoloriert, Karrikatur. Szene aus einem Drama; handkoloriert. 17:15 cm. Liebesfruhling; Stahlstich.— Aristaena; Stahlstich; Bein-Paris sc. Sitzender antiker Hirt; Stahlstich;Bein sc.— Alle drei ca. 10:7 cm.—Bauernhutte im Wald-
+
+19:14cm.-S gebirge, Italien; Stahlstich. 18:12 cm.

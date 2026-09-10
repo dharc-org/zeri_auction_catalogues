@@ -1,0 +1,1464 @@
+## ANTONIAZZO ROMANO
+
+Tatig Rom 1461—1508
+
+## Madonna
+
+Die Jungfrau halt das nackte Kind, dem sie den Mantel untergebreitet hat, sitzend aufeinerBristung,und derKnabefaBt,indem er sinnend herausblickt, den Mantelsaum der Mutter. Mit dem rechten Handchen drickt er eine Schwalbe an sich. Das Kleid Marias hat tiefroten Goldlackton, der Mantel ist blau mit goldenem Saum. Die Nimben sind goldgetupft.
+
+Holz, hoch 0,54 m; breit 0,38 m. Erworben 1876 aus der Sammlung Beurnonville in Paris.
+
+Tafel I.
+
+Literatur.
+
+Catalogue of Italian pictures collected by Robert and Evelyn Benson, London 1914
+
+Venturi: Storia dell Arte Italiana VII 2, S. 271.
+
+Abgeb.ebenda Fig.212.
+
+Die gleiche Komposition von Antoniazzo mit zwei Cherubkopfen in den oberen Ecken, die auf Mutter und Kind herabblicken, gegen den Himmel gesehen, findet sich in der Sammlung Benson.
+## ANTONIO DA CREVALCORE
+
+Eigentlich Antonio Leonelli da Crevalcore
+
+Bologna, nachweisbar tatig zwischen 1480 und 1500, gestorben vor 1525
+
+2
+
+## Die heilige Familie mit dem Johannesknaben
+
+Die Jungfrau, streng von vorn gesehen, mit buntem Kopftuch im Strahlennimbus, vor einem roten Damastvorhang,halt auf einer Marmorstufe, die mit grinsilbern-moiriertem Stoff belegt ist, das stehende Kind. Dieses, einen Korallenschmuck um den Hals, wendet sich mit einer Birne im rechten Handchen dem efeubekranzten Johannisknaben zu, der eine Stufe tiefer stehend, sein Kreuz mit der Bandrolle hoch hebend, den Andachtigen auf Mutter Stufen zu knien, im gelben Rock mit rotem Mantel. Er hat die Hande zum Gebet erhoben und halt seinen Krickstock im Arm. Zur Rechten und Linken des Schattentuchs hangen Schnire aus Kirschen und Quitten von oben herab vor dem dunklen Grund.
+
+und Kind hinweist. Der hl. Joseph scheint etwas tiefer hinter den Links vom Johannesknaben liegt ein Pfirsich, dahinter steht ein schlanker Leuchter mit einer Kerze; rechts vorn, unterhalb des hl. Joseph, pickt ein Stieglitz an einem Hirsekolben.
+
+Holz, hoch 0,96 m; breit 0,75 m.
+
+1881 erworben in Rom vom Firsten Odescalchi. Tafel II.
+
+Literatur.
+
+Coletti: Belvedere 1928, Juli, S.99.
+
+Das Bild war in der Sammlung Spiridon dem Bissolo, spater dem Morazzone zugeschrieben.DerVergleich mit dem bezeichneten Bild des Crevalcore im Berliner Kaiser-Friedrich-Museum von 1493 weist unzweifelhaft auf diesen seltenen,in seiner Zeit als Maler von Blumen und Fruichten gelobten Meister,der dem Zeuxis das Bild der Familie Este in Munchen zugeschrieben wird.
+## JACOPO AVANZO DA BOLOGNA
+
+Bologna, zweite Halfte des 14.Jahrhunderts, 1404 in Mezzarata bei Bologna tätig
+
+3
+
+## Szenen aus der Legende einer Heiligen
+
+Der obere Streifen des Bildes zeigt die heilige Fuirstin mit einer Krone auf ihrem geflochtenen Haar in blaugoldenem Kleid an reich besetzter Tafel; zu ihrer Rechten funf Jungfrauen, zu ihrer Linken vier andere und ein priesterlicher Greis. Vor ihr auf dem Tisch halt eine weibe Taube einen Zweig im Schnabel, ein Rabe eine Schlange; der Adler neben ihrem Haupt scheint ihr die Krone aufzusetzen.
+
+Im unteren Streifen, von einem heiligen Diakon und einem jungen ritterlichen Heiligen flankiert,dreiSzenen ihres Martyriums.In eine Schlangengrube geworfen, wird sie betend von Engeln getrostet. Sie wird enthauptet; Gottvaters Hand erscheint segnend aus den Wolken.Die dritteSzene zeigt,wieihrein Engelden abgeschlagenen Kopf wieder aufsetzt. Eine Frau im weiBen Kopftuch und ein Jungling in modischer Pelztracht sehen mit frommem Anteil dem
+
+Wunder zu.
+
+Holz, breit 1,27 m; hoch 0,91 m.
+
+Erworben 1875 vom Marchese Corsi in Florenz.
+
+Tafel III.
+
+Der Stil der Zeichnung ebenso wie die Kleidung und die Haartrachten weisen auf die Zeit um 1400, in die Nahe der Fresken von S. Petronio.
+## GIOVANNI BELLINI
+
+Venedig, nach 1430 bis 1516, Venedig
+
+4
+
+## Der Doge Leonardo Loredano mit vier Nobili
+
+Auf einer Estrade, die nach vorn durch die mit grinen Marmorund Porphyrfillungen verzierte Schranke abgeschlossen ist, sitzt der Doge mit den Insignien seines Amtes, dem goldenen Corno iber der kleinen weibBen Haube und dem goldbrokatenen Talar, hinter einem kleinen Tisch;sein hochlehnigerStuhlist mit schweren Goldknopfen verziert.
+
+Zu beiden Seiten, eine Stufe tiefer, stehen je zwei Angehorige seiner Familie,in Amtstracht,kirschroten und violetten Ornaten, mit dem schwarzen Lucco, dem Zeichen ihres Amtes,auf der rechten Schulter. Den Hintergrund bildet ein griner Damast-
+
+Vor ihm auf dem mit einem Fransenteppich bedeckten Tisch ein Buch, eine Sanduhr in gotischen Formen, eine Glocke mit seinem Namen ,Leonardus als Umschrift, und ein Brief. Unter seinen FuBen ein roter Teppich.
+
+vorhang mit goldenem Granatapfelmuster.
+
+Bezeichnet auf einem Cartellino an der linken Schranke:
+
+IOANNES BELLINUS MCCCCC VII
+
+Leinwand, hoch 1,35 m; breit 2,08 m. Zuletzt im Besitz eines Bischofs von Badajoz in Spanien.
+
+Tafel IV,V,VI.
+
+Literatur.
+
+Ridolfi: Le Maraviglie dell'Arte, ed. Hadeln I 72.
+
+Gronau: Spatwerke des Giovanni Bellini, StraBburg 1928, S. 24.
+
+v.Hadeln: Carlo Ridolfi, Maraviglie I 72 Anm.
+Dies Spatwerk des Giovanni Bellini, aus der Zeit, da gerade seine Schuler Giorgione und Tizian selbstandig hervortraten und Durer ihn ,noch der best im Gemal" nannte,befand sich ehemals im Palazzo Loredano am Campo Morosini, den Sansovino umbaute. Dort beschreibt es Ridolfi:,In Casa Loredana di Santo Stefano conseruasi il ritratto del Doge Leonardo Loredano posto a sedere ad un tauolino e due suoi figliuoli ed altri della famiglia intorno, che sono figure molto viuaci.“"
+
+Das Bild soll offenbar die Erinnerung an einen historischen Vorgang innerhalb der Familie festhalten,vielleicht die funf Jahre fruher erfolgte Erhohung Lionardo Loredanos zum Ducat.Es ist,offenbar fur einen bestimmten Platz im Palast gedacht, ein Beispiel der in Venedig ublichen monumentalen Dekoration, die dort das Fresko ersetzte, mit einer den Raum zwischen Holztafelung und Kassettendecke erweiternden illusionistischen Wirkung.
+
+Der Stil derKomposition entspricht ganz dem der im Querformat gemalten Sacre rappresentazioni aus der Zeit,wie dem aus gleichem Jahr stammenden Bild der Madonna zwischen Heiligen in S.Francesco della Vigna.
+
+Das lange L im Namen Bellinis gilt seit Lermolieff als personliche Signatur des Meisters,im Gegensatz zur Bezeichnung der Atelierwerke.
+
+Das Bildnis der Hauptfigur zeigt viel Verwandtschaft mit dem Portrat Loredanos in der National Gallery zu London,im Alter vielleicht noch mehr mit der etwas spateren Fassung,vor dem Ausblick auf die Lagune (Exemplare in Bergamo,Museo Correr und Dresden). Der erste Nobile rechts vom Dogen ist durch die Medaille des Giovanni Guido Agrippa als das Bildnis seines Sohnes Bernardo Loredano festgestellt.
+## BENVENUTO DI GIOVANNI
+
+Siena 1436—1518
+
+5
+
+## Die Madonna zwischen dem heiligen Sebastian und der heiligen Magdalena
+
+Die Jungfrau halt das Kind, indem sie ihren Mantel um seine Hufte schlagt; der Knabe hebt die rechte Hand zum Segen, in der linken streckt er einen Apfel vor. Zur Linken im Hintergrund steht nackt, von Peilen durchbohrt, der hl. Sebastian,geradeaus schauend,von rechts blickt die hl. Magdalena mit niedergeschlagenen Augen, Palme und SalbgefaB in den Handen, auf Mutter und Kind. Die Nimben sind reich gepunzt, der Brokatsaum am roten Kleid der Madonna in kleinen Punkten aufgerauht, das Gewand der hl. Magdalena in Goldbrokat mit ahnlichem Muster an Saum und Girtel.
+
+Holz, hoch 0,61 m; breit 0,42 m.
+
+Erworben 1881 bei M. Cravillon in Paris. Tafel VII.
+
+Literatur.
+
+Berenson: Central Italian Painters, S.148.
+## GIOVANNI BOCCATI
+
+Camerino etwa1420—1480 etwa Perugia
+
+6
+
+## Der Tod des heiligen Sabinus
+
+Der blinde Heilige, Patron von Camerino, sitzt,in bischoflicher Tracht, auf dem Bett aufgerichtet und nimmt segnend Abschied von seiner Gemeinde. Die Jungeren stehen dicht zur Seite des Bettes, die Alteren am FuBende. Im Hintergrund geht der Blick durch einen Alkoven zum Fenster hinaus, links davon ein Rundbogenfenster mit gekuppelten Saulen davor. Weibes Gemach mit rosa und blaulichen Fliesen, die Gewander gelb und mildrot, die Bettdecke grin mit schimmernden Lichtern.
+
+Holz, hoch 0,39 m; breit 0,30 m. Erworben Paris, Vente Sedelmeyer. Tafel VIlI.
+
+Literatur.
+
+Tancred Borenius: Apollo, Oktober 1925, S. 200ff.
+
+Constable: Apollo, April 1928, S. 155.
+
+Das Bild gehort mit einer Predella aus dem Besitz von Mr.Woodward in London zusammen und bildete mit ihm die Predellen zum Altar der Jungfrau zwischen Heiligen und Engeln von 1475 in Budapest.
+## SANDRO BOTTICELLI
+
+Florenz1444/45-1510Florenz
+
+7/8/9
+
+## Drei Bilder aus der Geschichte des Nastagio degli Onesti
+
+nach Boccaccios Novelle, V. Buch, 8. Erzahlung
+
+1. Nastagio verlaBt, voll Kummer iber seine unerwiderte Liebe, seine Freunde und geht einsam in den Pinienwald bei Ravenna; er trifft ein nacktes Madchen, das von einem wilden Reiter mit Hunden gehetzt wird, und sucht sie mit einem abgebrochenen Ast
+2. zu verteidigen.
+2. Der Reiter springt ab, verweist es ihm und schlagt das Madchen nieder, reiBt ihr das Herz heraus und wirft es seinen Hunden vor. Dann erzahlt er, wie er wegen seines verzweiflungsvollen Selbstmords um des hartherzigen Madchens willen verdammt sei, sie zu verfolgen. Er muB die Fliehende wieder weiterjagen bis zum
+4. nachsten Freitag.
+5. Freitag in den Pinienwald zum Mahl geladen.Die Baume der Pineta der Musikanten wirft die Trommel nach den Hunden. Nastagio im Vordergrund gebietet mit beschworender Gebarde Ruhe.Rechts bringt ihm die Amme die Botschaft, daB seine Geliebte anderen Sinnes geworden.
+3. Nastagio hat seine sprode Geliebte mit ihrer Familie auf den sind umgehauen, um den Festplatz zu richten.Das Madchen und sein Verfolger sturmen gegen die Tafel hin. Die Frauen und Manner springen entsetzt auf, Stuhle und Gefabe fallen um, einer
+Aus Casa Pucci 1868 zu Alexander Barker, 1874 bei Christies, danach zu Fred R. Leyland, bei Christies 1892,zu M.Aynard, Lord Vernon Watney, dann zu M. Donaldson, von ihm zu Mr.Spiridon.
+
+Ausgestellt:New Gallery 1893/4;Burlington House 1886 oder1880.
+
+Holz, 1. breit 1,38 m, hoch 0,83 m.
+
+2. breit 1,38 m, hoch 0,82 m.
+2. 3.breit 1,42 m,hoch 0,84 m.
+
+## Tafel IX-XVIII.
+
+Literatur.
+
+Vasari, Vite III 313.
+
+Ullmann, Botticelli, S.111.
+
+Jean Paul Richter,Kunst-Chronik XV, S.441.
+
+Horne, Botticelli, S. 127.
+
+Berenson,Burlington Magazine I, 1902, S. 6ff.
+
+Berenson, Florentine painters (1909), S. 99.
+
+Venturi, Storia dell' arte Italiana VII,1 S. 643.
+
+Art. Jahn Rusconi, Botticelli, S. 83.
+
+Yukio Yashiro, Botticelli I, S. 122.
+
+Gamba in Thieme-Beckers Kunstler-Lexikon IV,S.420.
+
+Crowe und Cavalcaselle,History of Italian painting IV, S. 258.
+
+Die Tafeln, fur Cassonebilder zu hoch, waren sicher bestimmt, in der Holztafelung eines Schlafzimmers eingelassen zu werden.Eine vierte Tafel mit der Hochzeit des Nastagio gehort dazu; sie ist noch heute in der Sammlung Vernon Watney in London. Nach Vasari hat Botticelli diese Bilder mit solcher Bestimmung fur Casa Pucci gemalt.
+
+AnlaB zu diesen,eine Geschichte mit glucklichem Ende behandelnden Bildern gab eine Hochzeit in der Familie Pucci,entweder 1487 zur Vermahlung der Lucrezia Pucci oder 1483 als Gabe fur Giannozzo Pucci und Lucrezia di Piero di Giovanni
+
+Bini.
+
+Um Vasaris Angabe in seinem Leben Botticellis ist viel gestritten. Sicher trifft Vasari, der nicht kritisch, sondern erzahlend verfuhr, insofern das richtige, als alle vier Bilder zweifellos von Botticellis Erfindung sind. Wessen Hand man auch von zweien dieser Tafeln die Ausfuhrung zutrauen mag, sie sind sicher von Botticelli komponiert und vorgezeichnet. Kaum etwas in Motiven und Gebarden, das nicht in Sandros eigensten Werken seine Parallelen hatte,besonders in den Zeichnungen
+des Berliner Dante-Codex, der, seit 1485 entstanden,zeitlich diesen Kompositionen nahesteht. Der schwermitige Nastagio zwischen den Stammen der Pineta entspricht vordersten in der Bestrafung der schmachtenden Schlemmer (Purgatorio XxIll); der Reiter dem Trompeter in der Gerechtigkeit Trajans, das schone Ornament der Pinienkrone auf der Auswaidung der Frau ist im gleichen Rhythmus auf dem ersten Blatt zum Inferno gezeichnet; die hingestreckte nackte Gestalt findet sich im Motiv
+
+Im Gastmahl ahnelt die Gebarde der erschrockenen Alten an der Ecke des Tisches der staunenden Geste des zurick zur Erde blickenden Dichters (Paradiso XXVII).
+
+der Geizigen (Purgatorio XIX), wieder.
+
+Durchaus eigenhandig scheint uns Nr. 8, die Bestrafung der Frau im Pinienwald. Das ganze Bild steht in einer Harmonie von grau und oliv, aus dem das Rot und Orange des Nastagio, die Goldrustung des wilden Rachers und das WeiB des Rosses heraustreten. Die finsteren Typen des Nastagio und des Ritters finden sich am ehesten in den Fresken der Sixtina wieder, Nastagios Ausdruck und Bewegung im Centauren des Pallasbildes von 1485. Alle Einzelheiten, die Wasserflache mit dem einsamen Schiff, die staffagehafte Gruppe der weiteren Verfolgung im Hintergrund, die Tiere im Wald,der Durchblick durch die Stamme zu beiden Seiten lassen nur an den Meister selbst denken.
+
+Auch in den anderen Tafeln trifft man auf seine Teilnahme. Ein Motiv, wie die stromende Bewegung der von den Hunden zerfleischten Frau beim Gastmahl, die Modulation dieser scharf betonten Armlinien,muB noch in unmittelbarer Einwirkung des Meisters entstanden sein, der womoglich diese Konturen selbst auf die Tafel zeichnete, ebenso wie man glauben darf,in der Frauengruppe seine Zeichnung zuerkennen.
+
+Die ausfuhrenden Kunstler kamen aus Ghirlandajos Schule. Auf dem ersten Bild stehen die Gestalten des Nastagio dem Mainardi naher als Sellajo. Im Gastmahl laBt sich deutlich die Hand des Bartolommeo di Giovanni erkennen,den Berenson Alunno die Domenico nannte, weil er im Hauptwerk des Domenico Ghirlandajo, der groBen Anbetung der Konige fur die ,Innocenti"von 1487, die kleinen Gruppen des Hintergrundes, den Kindermord, gemalt hat. Fur die Predellen dieses Bildes ist er durch einen Kontrakt von 1488 beglaubigt. Bartolommeo stand unter dem wechselnden EinfluB von Ghirlandajo, Piero di Cosimo und Botticelli. Seine eigenen Werke, wie ein Triumph der Venus im Louvre mit Motiven aus Botticellis Werken, die sich selbst in der zierlichen Kleidung verraten, beweisen erst recht, wie stark hier in den Nastagiobildern der Anteil des Meisters uber die bloBe Erfindung hinaus gewesen sein muB.
+
+Als poetische Idee eines groben Erzahlers bilden die Tafeln jedenfalls eine Kette, die durch kritische Betrachtung nicht gesprengt werden sollte.
+Zur Datierung, die zwischen 1483und 1487 schwankt,lieBe sich anfuhren, daB der ledige Schimmel in der Pineta das Motiv des Colleonimodells von Verrocchio wiederholt, das 1481 fertig war, um nach Venedig gesandt zu werden. Es hat zu Anfang der 1480er Jahre auch auf Perugino Eindruck gemacht.
+
+Die Wappen der Familien Medici iber den Mannern und Pucci iber den Frauen konnten dazu anregen, in den Gestalten darunter Bildnisse zu suchen. Wirklich erscheinen auch die Junglinge mit den scharf geschnittenen Gesichtern unter den spitzigen Kappen wie Medici-Portraits. Sicher ist nur, daB der bartlose alte Mann mit der hohen kahlen Stirn der gleiche ist, der auf Ghirlandajos Fresko, der Bestatigung der Franciscanerregel in der Trinita, zusammen mit dem Stifter
+
+Francesco Sassetti neben Lorenzo Magnifico steht.
+## AGNOLO BRONZINO
+
+Monticelli bei Florenz 1503—1572 Florenz
+
+10
+
+## Bildnis eines schreibenden Knaben
+
+Derrotblonde Knabe steht in vielbraunem,mit schwarzen Sammetstreifen besetzten Wams, in das ein roter Girtel und die spanischen Krausen an Hals und Armel Leben bringen, neben dem Tisch, vor steingrauem Grund. Er halt in der Linken das TintenfaB, in Namen geschrieben hat: Alexander Gondius Johannis B(aptistae?)
+
+der Rechten die Feder iber einem Bogen Papier, auf dem er seinen Annos septem natus 1569.
+
+Holz, hoch 55,5 cm; breit 45 cm.
+
+Erworben 1868 in Lyon aus der Sammlung Legrand. Tafel XVIII.
+
+DasBild,wohl ein Spatwerk des Meisters,war fruher dem Clouet zugeschrieben.Schon der Name Gondi weist auf Florenz. Es lieBe sich wegen einer gewissen Weichheit auch an Santi di Tito (1538-1605) denken, der ein Spezialist des Kinderportrats war.
+## BALDASSARE CARRARI
+
+Faenza 1460 etwa —Forli,Ravenna 1519 etwa
+
+11
+
+## Szenen aus der Geschichte von Orpheus und Eurydike.— Cassonebild
+
+Wahrend vorn ihre Begleiterinnen zur Linken am Boden ein Mahl halten,andere rechts Bogen schieBen und Blumensammeln,schreitet Eurydike in der Mitte unschluissig einher. In der Ferne verlaBt der Hirt Aristeios seine Herde,um ihr zu folgen.Im Hintergrund sieht man den Sanger Orpheus in einem Waldchen sitzen; sein Geigenspiel hat die Tiere angelockt.
+
+Holz, hoch 0,58 m; breit 1,48 m.
+
+Erworben 1898 in London von Mr.Donaldson. Tafel XIX.
+
+Literatur.
+
+Schubring: Cassoni S. 143 f, Nr.547.
+
+Schubring: Apollo 1928 0ktober, S. 180.
+
+Borenius:Burlington Magazine 1922 Februar.
+
+Gamba:in Thieme-Beckers Kunstler-Lexikon.
+
+Borenius: Schubring-Festschrift, S.2.
+
+entnommen. Andere Szenen, die mit diesem Bilde zusammengehoren, haben sich erhalten in der Sammlung des Mr. James Murnaghan in Dublin, die Verwundung Eurydikens durch den SchlangenbiB,ihr Tod im Musee des Arts decoratifs in Paris und neuerdings ein quadratisches Bild mit Orpheus und Eurydikes Ruckkehr aus der Unterwelt im Berliner Kunsthandel.
+
+Die Zuschreibung an den Romagnolen Carrari ist angesichts seinesStils in gesicherten Werken kaum aufrechtzuerhalten.
+
+Vorgeschlagen wurde Aurelio Luini, moglich ist als Autor auch Bernardino Fungai von Siena.
+## FRANCESCO COSSA
+
+Ferrara vermutlich 1435-1477/78 Bologna
+
+12/13
+
+## Der heilige Liberalis und die heilige Lucia
+
+einer Balustrade, auf die er den rechten FuB setzt; in der rechten Hand halt er eine Rose; mit der linken stuitzt er das Schwert in der Scheide auf die Kante der Schranke und blickt mit niedergeschlagenen Augen herab. Er tragt iber silberbrokatenem Wams den blauen, mit grauem Pelz verbramten Rock,rote Strumpfhosen und goldgelbe Stiefel, dazu den zinnoberroten Mantel. Der Nimbus fuillt mit seinen eingeritzten Strahlen das Rund des oberen Abschlusses der goldgrundierten Tafel aus.
+
+Die heilige Lucia steht ebenso,mit hochgesetztem linken FuB auf der Balustrade. Sie halt in der Rechten die Martyrerpalme, in der Linken eine gesprengte Hulse mit ihren Augen als Blattern. Ihr Unterkleid ist aus rotem Sammet, grun goldgesaumt das Oberkleid mit rotem Girtel, der Schleier weibgrau.Der Nimbus zierlich gepunzt und guillochiert.
+
+BeideTafeln mit obenhalbrund nach unten etwas ausschwingendem
+
+AbschluB.
+
+Holz,hoch 80 cm; breit 55,5 cm. Erworben 1881 in Florenz vom Conte Beni. Tafel XX, XXI.
+
+Literatur.
+
+Crowe und Cavalvaselle: History of painting in North Italy II, S. 235 Anm.
+
+Berenson: North Italian painters 1907, S. 202.
+
+Venturi: Storia dell arte Italiana VH13, S.598/599.
+
+Abgeb.ebenda Fig.447,448.
+
+Bernath: Thieme-Becker,Kunstler-Lexikon VII, S. 509.
+
+Tafelbilder Cossas sind selten. Diese beiden zeigen seinen Stil aus dem fruhen Hauptwerk, dem Freskenzyklus des Palazzo Schifanoja in Ferrara; die hl.Lucia hat den Typus der Madonna zwischen dem hl. Petronius und Johannes dem Evangelisten datiert 1474,in der Pinakothek von Bologna.
+## GIROLAMO MARCHESI GEN.DA COTIGNOLA
+
+Cotignola etwa 1481, Bologna, Rom—1550
+
+14
+
+Casar empfangt die Abgesandten des Ptolemaus mit dem Haupt des Pompejus.Achteckiger Desco
+
+Der Imperator, kenntlich an dem Adlerschild, den ihm sein Knappe zusammen mit dem Helm nachtragt,wendet sich ernst mit gnadiger Haltung zu den Abgesandten, die von rechts kommend, demuts- voll kniend, das abgeschlagene Haupt des Pompejus iberbringen. Das Gefolge Casars drickt in Gebarde und Blick Erstaunen aus. Landschaft mit dinnen Baumen im Hintergrund.
+
+Holz, achteckig, 60 cm im Durchmesser. Erworben 1881 vom Conte Galloti de Sainte Alaise in Rom. Tafel XXII.
+
+Literatur.
+
+Schubring: Cassoni Nr. 549.
+
+Die Bestimmung dieses Prasentierbretts (vassojo) fur eine Hochzeit scheint wenig glaubhaft. Es mag mit der Darstellung dieser politisch ausschlaggebenden ,Ubergabe" zur Uberreichung eines bedeutungsvollen 1 Gegenstandes bei irgendeiner diplomatisch-politischen Aktion gemalt sein.
+
+DerStil zeigt die charakteristische Mischung umbrisch-bolognesischer Elemente, die sich an das Auftreten Peruginos in Oberitalien knupfte.
+## CARLO CRIVELLI
+
+Venedig zwischen 1430 und 1435 —etwa 1493 Camerin0
+
+15
+
+## Die Kreuzigung
+
+In felsiger Landschaft,mit einem Ausblick nach dem Meer, erhebt sich das Kreuz; Maria steht mit gefalteten Handen zur Linken, rechts breitet Johannes, den Blick zum Crucifixus erhoben, in Hingabe die Hande aus. Marias Mantel changiert in grin und rosa iber dem mattroten Kleid, Johannes tragt den hellvioletten Mantel mit grin gefittert iber blaBgelbem Gewand. Uberall blinken goldene Saume aus dem feinen Akkord der Farben. In der Landschaft waltet blaBgrin, rosa und oliv vor.
+
+Holz, hoch 0,78 m; breit 0,58 m. Erworben 1876 in Paris aus der Sammlung Baron deBeurnonville. Vorher Sammlung Alexander Barker,London. Tafel XXIII.
+
+Literatur. Katalog Sammlung Beurnonville 1881, Nr. 632.
+
+Drey:Carlo Crivelli, S.89 und 147. Abgeb.ebenda Tafel LXXIV.
+
+in der National Gallery nahe, aus dem Beginn der 1490er Jahre. Ein besonderes Interesse hat Crivelli dem landschaftlichen Hintergrund zugewendet. Die Baume rechts zeigen Pentimenti; der Ausblick auf das Meer in hellem Licht und frischer Brise mit den silbrigen Schaumkanten um die Felsenufer kommt bei Crivelli sonst nie wieder vor.
+## CARLO CRIVELLI
+
+Venedig zwischen 1430 und 1435 — etwa 1493 Camerin0
+
+16
+
+## Der heilige Hieronymus
+
+Der Heilige kniet nach links, dem Kruzifix in Andacht zugewandt, das an einem kahlen Baumchen befestigt ist. Er schlagt mit der Rechten einen Stein gegen die nackte Brust. Der Kardinalshut liegt vor seinen Knien, rechts stehn die Sandalen. Neben ihm ruht der Lowe und wendet den Kopf zurick.Hinter dem Heiligen offnet sich die Felsenhohle torartig nach der Landschaft; rechts blickt Stadt, vor deren Mauern sich junge Saaten durch das Tal hin ausbreiten; im Hintergrund ein hoher Bergkegel.Die Landschaft ist in grau-grin-oliv Tonen gehalten, Felsen und Busche sind goldgehoht, das Tal mit den Feldern grau-reseda; nur der Hut und der man an Felsen und Buschwerk vorbei nach einer turmreichen Einband des Gebetbuchs bringen durch ihr Rot einen kraftigen Akzent in diese kuihle Farbigkeit.
+
+Holz, hoch 0,49 m; breit 0,36 m.
+
+Erworben 1898 vom Prince de Villa Franca.
+
+Tafel XXIV.
+
+Literatur.
+
+Drey: Crivelli, S. 158.
+
+Das Bild gehort der Schule des Meisters an, von dessen Art die Landschaft am meisten bewahrt hat.
+## VITTORIO CRIVELLI
+
+Venedig 1440/1445, nachweisbar seit 1481—1502Ferm0
+
+17
+
+## Das heilige Abendmahl
+
+Unter einem spatgotisch geschweiften, von gedrehten Saulchen getragenen, geschnitzten Bogen, der mit der Holztafel ein Stuick bildet, sitzt Christus in der Mitte hinter dem Tisch, Johannes Gebarden Trauer und Schreck. Der Goldgrund steht mit den grin und gelb gestrichelten Gewandern und dem Rosagrau der Fliesen in Harmonie.
+
+Holz, Tafel und Rahmen in einem Stick.Hoch 25,5 cm; breit 69 cm.
+
+Erworben 1881 von Ciampolini in Florenz. Tafel XxV.
+## DEFENDENTE FERRARI
+
+Chivassoum 1490,nachweisbar 1510—1535
+
+18
+
+## Die Verehrung der Madonna als Konigin des Himmels und der Erde
+
+Die Madonna mit dem s segnenden Kind thront von Cherubim getragen auf Wolken. Aus einer Glorie heraus setzt Gottvater ihr die Krone auf; Engel halten den Brokatmantel hinter ihr und dem hl. Johannes dem Taufer, Bruno, Joseph mit der Taube des hl. Geistes auf seinem Stab und Petrus Martyr. Auf der Erde knien anbetend die irdischenStande:derPapst mit den ZugenClemens VII., hinter ihm Kaiser, Konig, Kardinal, Bischof, Monch, daneben die Kaiserin, Konigin, Furstin, Nonnen und andere Frauen verschiedenen Alters.
+
+Das Bild zeigt die kihlen und reichen, mit vielem Gold durchsetzten, fur den Meister charakteristischen Farben.Die Jungfrau in blau und gold, der Papst in rot brokatenem Pluviale,die Kaiserin in rotem hermelingefitterten Sammetmantel, ihre blaubrokatenen Armel grin gefuttert. Der Kaiser in grungoldenem Mantel. Die Konigin in rotem Brokat mit schwarzer Sammethaube unter der Lilienkrone.
+
+Holz, oben halbrunder AbschluB, hoch 2,26 m; breit 1,38 m. Erworben 1885 in Mailand bei Subert.
+
+Tafel XXVI.
+
+Literatur. Berenson: North Italian painters 1907, p. 206. Gamba:Defendente Ferrari.
+
+Der Papst hat die Zuge Clemens VII.,also ist das Bild vor 1527 zu setzen; denn nach dem Sacco di Roma trug Clemens den Bart. Die Bildnisse der andern sind unsicher, doch ist es wahrscheinlich, daB sie nach Medaillen und Munzen Karl V. und seine Gattin und andere regierende Personen aus dem franzosischen oder savoyischen Herrschergeschlecht darstellen sollen.
+## FIORENZO DI LORENZO
+
+Perugia, beglaubigt seit 1463, gestorben zwischen 1522 und 1524
+
+19
+
+## Christus segnend zwischen zwei Engeln
+
+In einer Lunette steht vor Goldgrund Christus bis unter die Huften sichtbar, die Rechte zum Segen erhoben, in der Linken das Buch mit der Schrift ,Ego sum lux in qua veritas", zur Rechten beugt sich ein Engel vor ihm mit auf der Brust gekreuzten Handen, von links hebt ein zweiter die Hande anbetend auf. Der Mantel Christi ist blau mit grinem Futter, das am Oberkorper ein Stick vom violettroten Gewand mit goldenen Buchstabenborten umrahmt. Das Fleisch braunlich, der Kranz im goldgepreBten Nimbus rot. Der Engel links tragt ein graues Gewand mit grinen Sammetarmeln und roten (hinten flatternden) Kreuzbandern, der rechte olivgrines Kleid mit goldlackroten Sammet- armeln.
+
+Holz, hoch 0,86 m; breit 2,18 m. Erworben 1911 von Marquis Da Foz in Lissabon.
+
+Tafel XXVII.
+
+Der Stil des Bildes zeigt die eigentimliche Mischung von umbrisch-florentinischen Zugen, die auch fur Peruginos Fruihwerke charakteristisch war. Man hat sich gewohnt, Bilder dieser Art mit dem Namen des Fiorenzo zu bezeichnen. In diesem Stil finden sich jedoch auch noch andere Umbrer, Zeitgenossen des jungen Perugino zusammen,wie Bartolommeo del Caporali;ihm schreibt man jetzt zwei Nischenfresken in Monte l'Abbate zu, die bisher unter Fiorenzos Namen gingen. Mit diesen Fresken hat die Lunette groBe Verwandtschaft, besonders berihrt sich der Typus Christi mit dem Auferstehenden und dem heiligen Christophorus in Monte l'Abbate. Auch einigen kleinen Tondi in der Pinakothek zu Perugia, mit Szenen aus dem Leben des heiligen Bernardin in Perugia, die ohne dokumentarischen Grund Fiorenzos Namen tragen, steht die Lunette nahe. Man wird den
+
+Meister in unmittelbarer Nahe der Maler jener Bildchen suchen mussen.
+## FIORENZO DI LORENZO
+
+20
+
+## Der heilige Franz empfangt die Stigmata
+
+Der hl. Franziskus kniet, schrag, fast im Profil gesehn, nach links, den Blick aufwarts gewandt zum Crucifixus, der ihm in Cherubsgestalt mit roten Fluigeln erscheint. Von seinen Wunden treffen rote Blutstrahlen den Heiligen an den erhobenen Handen, der Seite, den FuBen.
+
+Franziskus in grau-olivfarbener Kutte, mit blinkenden Lichtern auf dem girtenden Strick,vor blauem Grund und grinem Bodenstreifen.
+
+Der Rahmen in der Farbe der Kutte ist nach Art der Niederlander tauschend plastisch auf die Tafel selbst gemalt.
+
+Holz, hoch 39 cm; breit 24,5 cm.
+
+Erworben 1896 vom Principe Barberini in Rom.
+
+Tafel XXVIII.
+
+Literatur.
+
+Berenson: Central Italian painters, S. 168.
+
+Venturi: Storia dell Arte Italiana VII 2, S.585 Anm.
+
+Die kleine miniaturhaft durchgefuhrte Tafel war in der Sammlung Spiridon dem Perugino zugeschrieben. Berenson sowie Venturi fuhren sie unter den Werken des Fiorenzo di Lorenzo auf. Die Feingliedrigkeit der Figur laBt auch an den fruhen Spagna denken, dessen thronende Madonna aus S. Girolamo in der Pinakothek von Perugia,besonders in der Gestalt Johannes des Taufers, hnlichen und sonst nicht ublichen Typus zeigt.
+## FLORENTINISCH UM 1450
+
+21/22
+
+## Zwei Wunder des h. Nikolaus von Bari
+
+21. Der h. Nikolaus erscheint im Sturm den Schiffern
+
+Ein WindstoB reiBt den Mast um und weht das zerfetzte Segel fort. Da erscheint der h. Nikolaus schwebend in Bischofstracht und halt die Rahe, deren Haltetaue gerissen sind, fest. Die Schiffer sind dabei, die Ladung ins Meer zu werfen, das aufgewihlt bis zur Kiste sichtbar fast an den Horizont reicht.
+
+In Grin mit weiBlichen Spiralen ist die Bewegung der Wellen stilisiert, die Kuste ist violett, die Kleidung der Schiffer blau, rot und grin.
+
+22. Der h. Nikolaus rettet drei unschuldig verurteilte Burger von
+
+Myra
+
+Die drei zur Hinrichtung bereiten Burger von Myra knien links im Vordergrund vor einer Gruppe Bewaffneter mit Lanzen und Fahnen. Der Henker in der Rustung,mit herabsinkenden Stiefeln, hebt in beiden Handen das Richtschwert. Von rechts tritt der Heilige im Bischofsornat mit einem geistlichen Begleiter heran und halt das Schwert fest. Den Hintergrund schlieBt hugelige Landschaft und eine blaue Bucht des Meeres ab.
+
+Erworben 1885 aus der Sammlung Zographos in Athen.
+
+Holz,hoch 23,5 cm; breit 23,5 cm. Tafel XXIX, XXx.
+
+Die beiden Bildchen, seitliche quadratische Predellensticke, stehen dem Neri di Bicci naher als dem Pesellino, dem sie zugeschrieben waren, und von dem es eine ähnliche Komposition des Wunders im Seesturm in der Pinakothek des Vatikans gibt.
+## FLORENTINISCHUM 1470
+
+23
+
+## Maria das Kind verehrend und der kleine Johannes in einer Landschaft
+
+Ein zurickgeschlagener hermelingefitterter roter Brokat-Baldachin rahmt den Blick auf die Gruppe und die Landschaft ein. Die Jungfrau kniet nach rechts vorn mit erhobenen zusammengefalteten Handen zum Kind gewendet, das auf dem Zipfel ihres Blatter und Blumen des Bodens kommt Johannes der Taufer geschritten, um das Knie zu beugen. Er tragt ein Lilienkreuz. Aus der Mitte des halbrunden Abschlusses oben schwebt die Taube des heiligen Geistes in krausem Goldgewolk und goldenen Strahlen herab. Im weiten Fernblick bis zu einer Kette scharfer Bergkegel schlangelt sich eine StraBe mit einigen Hirten. Im Blau des Himmels weiBe Wolkenstreifen. Die Farben sind tief: das dunkle Blau des Mantels bei der Jungfrau mit plastisch gestrichelten Goldsaumen, die gepunzten und gestrichelten Nimben, der umrahmende rotgoldene Baldachin geben dem Bild eine sakrale Haltung.
+
+Holz, hoch 0,66 m; breit 0,47 m. Erworben 1889 beim Marquis de Magny in Paris. Tafel XXXI.
+
+Das Bild gehort in den weiteren Nachfolgekreis des Fra Filippo. Mit der Freude kunstgewerblicher Ausgestaltung steht es manchen Arbeiten des Neri di Bicci nahe.
+## PIERO DELLA FRANCESCA,NACHFOLGE
+
+gest. 1492 Sansepolcro
+
+24
+
+## Die Madonna mit dem Kind und einem Engel
+
+Die Jungfrau halt das auf ihrem Knie stehende Kind mit der Rechten, deren Zeigefinger der Knabe wie im Spiel faBt, wahrend er mit dem anderen Handchen in ihr Girtelband unter der Brust greift. Ihre freie Hand stutzt sie auf ein Buch. Zur Linken wird eine halbhohe Ziegelmauer sichtbar, zur Rechten halt ein Engel eine Winde.
+
+In einfach tiefem kirschroten Sammet mit golden gepunzter Borte geben. Der Engel hat ein zinnoberrotes Oberkleid iber goldgrunem Brokat des Untergewandes. Seine Flugel sind vom gleichen Mattviolett wie driben die Mauer und in der Mitte das Buch der Jungfrau. Die Rosen stehen in verschiedenen Nuancen von Kirschrot, mit hellgerandeten graugrunen Blattern dazwischen, auf grauem Grund. Die Nimben mit feinem tupfigen Muster im Gold.
+
+Erworben 1884 vom Principe del Drago in Rom.
+
+Holz, hoch 0,61 m; breit 0,48 m. Tafel XXXII.
+
+Die Madonna, in der Sammlung Spiridon mit dem seltenen Namen des Piero Pollajuolo ausgezeichnet, gehort sicher einem Meister aus der Nachfolge des Piero della Francesca an. Ihre Farbigkeit vereinigt Lichtbeobachtung mit dem Nebeneinander tiefer, kaum gebrochener Tone. Die Modellierung ist weich und flaumig im Licht, an den Randern fest.Der Meister mochte in Ferrara,im nachsten Umkreis des Francesco Cossa oder des Ercole Roberti zu suchen sein, etwa wie der Maler des Putto mit Fullhornern auf einem der Sienesischen Schule verwandten Desco im Museum von Boston oder der hl. Katharina der Sammlung Benson.
+## FRANCESCO GRANACCI
+
+Florenz 1477—1543Florenz
+
+25
+
+## Joseph empfangt Jakob und seine Bruider im
+
+## Lande Gosen.— Cassonebild
+
+Zur Linken eilt Joseph in reicherKleidung aus dem Palast dem greisen Jakob mit dem Nimbus entgegen. Die Bruider, voran Benjamin kniend, folgen von rechts, wo man die Zelte von Jakobs ,Sohnen und Kindessohnen, seinen Tochtern und all seinem Samen sieht, die er brachte mit sich nach Agypten. In der Ferne links buschighugelige Landschaft,im Mittelgrund Hohen mit Baumen,iber die Zinnen eines Palastes ragen, rechts hinter den Zelten im Duft der Ferne ein Stadtbild.
+
+Farbig gibt die dunkle, violett und grin gekleidete Ruckenfigur in der Mitte der friesartigen Komposition ihren Halt, um sie gruppieren sich stark farbig die anderen Figuren mit ruhigem Ausklang in die blau-grin-oliv Tone der Landschaft.
+
+Holz, hoch 0,65 m; breit 1,58 m.
+
+Erworben vom Vater des letzten Besitzers 1832 aus der Sammlung des Kardinals Fesch.
+
+Tafel XXXIII.
+
+Literatur.
+
+Schubring: Cassoni Nr. 487.
+
+Abgeb.ebenda Tafel CXV.
+
+Es ist moglich,daB dies Bild zu der Serie von Geschichten aus dem Leben Josephs gehorte, die fur ein Zimmer im Palast des Pier Francesco Borgherini von Andrea del Sarto,Pontormo und Granacci gemalt wurden. Sie sollten die von Baccio d'Agnolo gefertigte Holztafelung farbig durchsetzen und waren von verschiedenen Formaten und GroBen.
+
+Die Zuschreibung der Tafel an Granacci ist nicht ganz anerkannt. Man hat auch die Hand des Sienesen Bernardino Fungai darin sehen wollen. Ein Gegenstuck hierzu, zweifellos von Granacci, mit Joseph und Benjamin, in der Galerie Torlonia zu Rom. Die Grundhaltung des Bildes ist jedenfalls florentinisch.
+## AGNOLO GADDI
+
+Florenz—1396Florenz
+
+26
+
+## Die Verkindigung
+
+Vorihrem rotgedeckten Truhenbett mit Intarsien empfangt Maria, auf einer Cassapanca sitzend, den GruB des Engels. Sie halt die Rechte demitig auf der Brust, in der gesenkten Linken ruht halb aufgeschlagen das Buch. Der Engel kniet links vor dem nur durch einen Pfeiler und Bogen begrenzten Gemach. Uber ihm sendet Gottvater mit aus einer Glorie gestreckten Hand das gottliche Kind auf Strahlen herab, die mit dem Heiligen Geist gegen die Jungfrau sich senken.
+
+Im Gemach vor dem Rot der Bettdecke und dem Braun des Holzes das Rot und Blau der Jungfrau. Der Engel in grinlich-gelb changierendem Gewand auf rosa-grauem Mantel, die Federn seiner Flugel wechseln in grau und rosa. Der Estrich grun, der Himmel golden, die Baume goldgetupft.
+
+Holz, hoch 1,12 m; breit 1,62 m.
+
+Erworben 1880 aus der Sammlung des Conde Daupias in Madrid.
+
+Tafel XXXIV.
+
+der Sammlung Spiridon ist hier beibehalten, doch wurde auch der Name Starnina versuchsweise genannt.
+## TADDEO GADDI
+
+Florenz 1300—1366Florenz
+
+27/28
+
+## Zwei Szenen aus der Jugend des heiligen Eligius
+
+27. Der Heilige in der Werkstatt seines Meisters.
+
+Der hl. Eligius beschlagt in der Werkstatt seines Meisters Oddo einen kostbar verzierten Sattel; neben ihm rechts wird von einem bartigen Mann ein silbernes Kruzifix gearbeitet, links hammert ein anderer, in gotischer Gugel, an einer Pax. Auf dem Tisch, der mit einem Teppich bedeckt ist, liegt Werkzeug, eine Krone, rechts steht ein kleines GefaB und ein Kelch. An einer Stange iber den Arbeitenden hangen einige Gurtel und Ketten.Hinten sieht man
+
+Vorn stehen zu beiden Seiten einige Edelleute und Burger mit erstaunten Gebarden.
+
+28. Der Heilige vor dem Konig.
+
+Im Hintergrund steht der jugendliche Heilige vor Konig Klotar, der mit einem Lilienzepter, von Hofleuten umgeben, vor einer marmorinkrustierten Halle thronend sitzt. Der Heilige weigert sich, den Treueid als sein Munzmeister zu schworen. Rechts, etwas weiter hinten, sieht man den Heiligen vor dem Ladentisch eines Kaufmanns mit der Waage. Auf dem mit Intarsien geschmickten Tisch ein orientalischer Teppich.
+
+Beide Tafeln sind Predellenbilder.
+
+Holz, hoch 35,5 cm; breit 39 cm.
+
+Erworben 1888 in Florenz aus der Sammlung des Senators Tos- canelli.
+
+Tafel XXxV, XXxVI.
+
+Die Bilder stehen im Stil den Bildern des Taddeo Gaddi aus den Sakristeischranken von S. Croce in der Akademie von Florenz besonders nahe.
+## DOMENICO GHIRLANDAJO
+
+Florenz 1449—1494Florenz
+
+29
+
+## Bildnis einer jungen Florentinerin
+
+Das junge Madchen, dem Beschauer ganz en face zugewendet, dreht den Kopf mit klarem Blick der groBen Augen nach links. Ihr Haar, oben unter einem Schleierhaubchen glatt gescheitelt, hangt in freien Locken seitlich herab. Um den zartmodellierten Hals liegt eine Korallenkette. Das lebhafte Rot des Kleides wird von einem feinen Schleierstoff, der auch Mieder und Bistenansatz iberzieht, gebrochen und ist nur an den Achseln in seiner vollen Starke sichtbar. Die Armel sind grun.
+
+Holz, hoch 44 cm; breit 32 cm.
+
+Erworben 1860 in Rom vom Conte Savonelli. Tafel XXXVII.
+
+Das Bild gibt den in Florenz beliebten Typus des jungen Madchens mit der stolzen, fur besonders florentinisch gehaltenen Art den Kopf zu tragen und dem Hang zur Schlagfertigkeit, ein Gegenstick zu Desiderios Busten. So erinnert das Modell an die Florentinerinnen in den Fresken Ghirlandajos von S. Maria Novella, ohne einer bestimmten von ihnen zu gleichen. Eher wird man sie in einer Medaille der
+
+Nonnina Strozzi vom Maitre de l'Esperance suchen durfen.
+## DOMENICO GHIRLANDAJO
+
+30
+
+## Die Madonna thronend zwischen den Heiligen
+
+## Petrus und Paulus
+
+Unter einem seitlich gerafften Goldvorhang sitzt die Jungfrau mit dem segnenden Kind auf einem reich mit grau, rot und schwarzem Stein dekorierten Thron. Sie neigt den Kopf traumerisch blickend zur Seite und halt das Kind auf ihrem SchoB, das aufblickend die Gebarde des Segnens macht. Links steht Petrus im blauen Gewand mit gelbem Mantel, in den Handen goldene Schlissel, rechts halt Paulus in rotem Mantel iber grinem Gewand sein erhobenes Schwert. Zwischen beiden Heiligen und dem Thron wird der Blick offen fur eine an Motiven reiche, mit goldenen Lichtern durchsetzte Landschaft. Auf den Stufen des Throns liegt ein Teppich mit grin, weiB, violettem Muster.
+
+Holz, hoch 1,58 m; breit 1,38 m.
+
+der Vente Jean Dollfus 1892.
+
+Ehemals in den Sammlungen Aynard und Dollfus; erworben auf
+
+Tafel XXXVIII.
+
+Das Bild von einer milden Stimmung in Figuren und Farben steht dem Kreis
+
+Raffaellinos naher als dem des Ghirlandajo, unter dessen Namen es in der Sammlung Spiridon geht.
+## DOMENICO GHIRLANDAJO
+
+31
+
+## Die Madonna das Kind verehrend mit Johannes
+
+## dem Taufer
+
+Die Jungfrau verehrt das vor ihr auf einer Balustrade von einem Kissen gestitzte Kind. Der halbwichsige Johannes der Taufer im Fellgewand steht dahinter. Das Kolorit ist leuchtend: die Figuren heben sich von einem scharlachroten Vorhang mit aufgestickten Perlen; der Kopf der Jungfrau im durchsichtigen Schleier und durchsonntem Inkarnat vor goldenem Nimbus,ihr Kleid rot mit goldenen Ranken, Sternen und Flammen, dariber hangt ein goldrotschwarzes Girtelband; JohannesFell ist grauviolett, das Kissen rosagold. Hintergrund dunkel gewordenes Blau mit goldenen Sternen.
+
+Holz, hoch 57,5 cm; breit 40 cm.
+
+Erworben 19o6 aus der Sammlung des Baron de Cumontin Angers. Tafel XXXIX.
+
+Die kraftige Farbigkeit ebenso wie die Typen von Mutter und Kind stellen das Bild unter allen Arbeiten der Ghirlandajo-Werkstatt am nachsten dem groBen Altar der Kronung Mariae in Citta de Castello, in dem man neben starkem Anteil
+
+Ghirlandajos selbst auch Granaccis Hand zu sehen meint.
+## AMICO DI GIOTTO
+
+Tatig um 1350
+
+32——35
+
+## Vier Tafeln mit Szenen aus dem Leben Mariae
+
+## 32. Die Geburt Mariae.
+
+In einer offenen Architektur mit zwei seitlichen Vorspringen, auf deren Dach Blumentopfe stehen,liegt die hl.Anna auf ihrem Bett mit der Truhenstufe; der Vorhang ist zurickgezogen. Das Kind, bereits gewickelt, wird von einer Pflegerin gehalten, hinter der eine andere Frau die Hande ausstreckt, um es ihr abzunehmen. Drei andere Frauen in Kopftichern treten herzu. Rechts bringt eine junge Magd auf einem runden Desco (Prasentierbrett) der Wochnerin Geflugel.
+
+## 33. Die Verkundigung.
+
+In einer mehrfach verschobenen Architektur empfangt die Jungfrau, scheu zurickweichend, die Botschaft des knienden Engels. Die Architektur rosa mit blauen Dachern; der Engel tragt einen roten Mantel iber gelbem Gewand,die Flugel s sind weiB-rotschwarz. Maria steht in blauem Mantel iber rosaviolettem Kleid vor einem purpurfarbenen gemusterten Vorhang.
+
+## 34. Die Darbringung im Tempel.
+
+Vor einem Kuppelbau steht der Altar, iber dem der weiBbartige Simeon das Kind empfangt. Die Jungfrau streckt die Hande heriber. Rechts im Seitenraum steht mit andachtsvoll gesenktem Antlitz die Prophetin Hanna mit der Rolle ihrer Verkundigung, links bringt Joseph zwei Tauben dar.
+
+rosa Simse.
+Im unteren Teil liegt Maria auf ihrem Lager,mit einem reich gemusterten orientalischen Seidenstoff zugedeckt. Die zwolf Apostel, in deren Mitte Christus als Priester der Toten die Weihen gibt, umstehen ihr Lager betend und klagend. Sie tragen alle, ebenso wieChristus,dieFlamme desHeiligenGeistes,die denvierjidischen
+
+Patriarchen rechts fehlt.
+
+Oben erscheint Christus mit der Seele der Jungfrau in Kindes- gestalt, von Engeln begleitet und verehrt.
+
+Die vielen Kopfe und goldgemusterten Stoffe an den schichtweise geordneten Figuren geben dem Bilde einen besonders ornamentalen
+
+Charakter.
+
+Holz, alle 4 Tafeln hoch 47 cm; breit 37 cm.
+
+Erworben 1892 aus der Auktion der Sammlung des Senators Toscanelli.
+
+Tafel XL,XLI,XLII,XLIII.
+
+Die 4 Bilder mogen zum Rahmen einer groBeren Tafel gehort haben. Der iberkommene Name deutet nur an, daB der Stil im allgemeinen und auch einige Bewegungsmotive auf Giotto zurickgehen.In Wirklichkeit gehorte der Meister dieser Tafeln eher in die Schule von Ravenna oder Rimini;man hat den Namen des Giovanni Baronzio vorgeschlagen,der in der Romagna arbeitete und von dem ein Altarwerk sich in Urbino findet. Tatsachlich spricht das ikonenhafte Anordnen der Figuren zu einem groBen Ornament fur dieWeiterwirkung der alten Ravennatischen Kunst. Auch die Typen haben,von einigen Engeln und Frauen abgesehen, einen innerhalb der Giottesken nicht leicht zu treffenden Charakter, vielmehr die besondere Originalitat einer selbstandig gebliebenen Schule.
+## GIOVANNI DA PONTE
+
+Florenz zwischen 1376und 1437 Florenz
+
+36
+
+## Die sieben freien Kuinste.— Cassonebild
+
+Auf einem Thron in der Mitte, dessen Baldachin von fliegenden Amori gehalten wird, sitzt die Astrologie,von einem dritten Amor bekranzt; sie halt in der Linken das Astrolabium, die Rechte ist auffordernd erhoben; zu ihren FuBen im Konigsmantel mit Buch kauert Ptolemaus; er empfangt gleichfalls einen Kranz. Von beiden Seiten links fuhren die anderen freien Kinste ihre Patrone heran: von rechts in rotem Gewand die Geometrie,denZirkelin der Hand, mit Archimedes, die Arithmetik,zwei Tafeln in den Handen mit Pythagoras, die Musik auf einer Handorgel spielend mit Tubalkain; von links die Rhetorik, in der einen Hand die Bandrolle tragend, an der Rechten fihrt sie Cicero, die Dialektik mit Zweig und Skorpion den Aristoteles fuihrend, die Grammatik mit Buch und Griffel, vor ihr zwei Kinder, an ihrer Hand Donatus. Die Frauen haben achteckige Nimben; sie und ihre Begleiter werden im Schreiten von flatternden Amori bekranzt.
+
+Bei den im groBen Rhythmus vor dem Goldgrund verteilten Gruppen waltet weib, gelb in violett changierend,mildes Blau und ein dem Meister eigenes Gruin vor.
+
+Holz, hoch 0,57 m; breit 1,65 m.
+
+Erworben 1898 vom Prince de Villa Franca in Paris. Ehemals bei Toscanelli in Florenz.
+
+Tafel XLIV, XLV.
+
+Literatur.
+
+Gamba: Rivista d'Arte 1906, S.165.
+
+Schubring: Cassoni, S. 97 und 226, Nr.33.
+
+Abgeb. ebenda Tafel IV.
+
+van Marle: Development of the Italian Schools of Painting IX, 84.
+
+Venturi: Storia dell ′Arte Italiana VII, 1,27.
+
+Abgeb. ebenda Fig.14.
+## FRA GIOVANNI DA SIENA
+
+Etwa 1480Siena
+
+37
+
+## Die Madonna zwischen Johannes dem Taufer
+
+## und der heiligen Katharina
+
+Die Jungfrau halt das mit dem Mantel umfaBte Kind, das mit beiden Handchen nach Granatapfeln in ihrer Rechten faBt und dabei traumerisch vor sich hinblickt.Johannes weistmit asketischem Ausdruck auf Mutter und Kind, die hl. Katharina mit Palme und Buch blickt gleichfalls nach der Gruppe. Oben ist die Tafel im Viertelkreis abgeschlossen. Die Madonna im blaBblauen Kleid mit fein gepunzter Goldborte, dariber der blaue Mantel mit ornamentierter blaugoldener Kante eingefaBt, Johannes im braunen Fellkleid mit rotem Mantel,Katharina im weiBem Brokat mit violettem Mantel und grinem Buch mit rotem Schnitt. Die Nimben mit Nameninschriften und der Rahmen des Goldgrundes sind in plastischem Goldornament verziert.
+
+Auf dem roten Gurtel der Mutter steht in goldener Antiqua die
+
+FRA IOANNES.
+
+Bezeichnung
+
+Holz,hoch 55 cm; breit 38 cm.
+
+Erworben 1903 aus der Sammlung Foulc in Paris.
+
+Tafel XLVI.
+
+Literatur:
+
+Berenson: Central Italian painters, S. 148.
+
+Die Benennung fuBt auf dernicht vollig zuverlassigen —Inschrift. Bei Berenson ohne Beachtung der Inschrift unter den Werken des Benvenuto di Giovanni aufgefuihrt.
+## BENOZZO GOZZOLI
+
+Florenz 1420—1497 Pistoja
+
+38
+
+## Die Madonna auf Wolken mit Johannes dem Taufer
+
+## und der h.Katharina von Alexandria
+
+Maria thront, mit der Krone auf dem hellblonden Haar, im goldgetupften rosa Kleid und goldgerandertem blauen Mantel auf Wolken,in deren Blau Cherubim eingezeichnet sind. Sie halt das mit einem rosa Rockchen bekleidete Kind. Um beide strahlt die dem Goldgrund eingestrichelte, den Spitzbogen fuillende Glorie nach oben und herab zur Erde, wo, halb gegen eine Brokatbahn gesehen, Johannes mit Stabkreuz und Spruchband gegeniber der gekronten h. Katharina mit Palme und Buch kniet.
+
+Holz,hoch 88 cm; breit 48 cm.
+
+Erworben aus der Sammlung Gentilli in Rom, vorher in der Galerie des Kardinals Fesch.
+
+Tafel XLVII.
+
+Das Bild zeigt eine Mischung von Zugen der sienesischen und der toskanischen Kunst; sicher ist der Meister in der Nachfolge des Fra Angelico geb. ca. 1387 zu Mugello, gest. 1455 Rom) zu suchen.
+## JACOPO DAVALENZA
+
+vermutlich Serravalle, Venedig, Daten von 1485-1509
+
+39
+
+## Mater dolorosa
+
+Die hl. Jungfrau mit Krone und Schleier steht im blauen Mantel, dessen grines Futter umgeschlagen sichtbar wird,voreinerbraunen
+
+Nische mit grauer Umrahmung, auf der Schulter den goldenen Stern. Das Antlitz mit niedergeschlagenen tranenden Augen ist schmerzvoll zurickgelehnt und wird vom Schleier umfaBt, der die Blasse des Fleisches, auch an den gekreuzten Handen, hervortreten laBt. In der Krone, die iber den goldgemusterten Nimbus gemalt ist, leuchten rote und grine Steine. Die Haltung deutet auf ein Gegenstick mit dem Schmerzensmann, eine im Norden eher als im Siden gelaufige Darstellung.
+
+Holz, hoch 0,57 m; breit 0,42 m.
+
+Erworben in Rom bei Tavazi. Tafel XLVIII.
+
+Die fruhere Zuschreibung an Cosimo Tura ist nicht aufrechtzuerhalten. Die ornamentale Behandlung in den Formen des Gesichts, der Augenlider, Nase und Lippen und eine gewisse Trockenheit der Farbe lassen an den Nachfolger Bartolommeo Vivarinis, den falschlich als Spanier angesehenen Jacopo da Valenza denken.
+## LATTANZIO
+
+di Niccolo di Liberatore
+
+1480 etwa —1526/27 Foligno
+
+40
+
+## Die heilige Maria Magdalena.-Fresko
+
+Die Heilige steht mit offenem Haar hinter einer spatgotischen, durchbrochenen Steinbalustrade. Sie halt das SalbgefaB darauf mit der linken Hand, die Rechte ist klagend erhoben; ihr Blick geht aus dem schmerzlich seitwarts geneigten Kopf nach links, ihr Mund ist wie seufzend geoffnet. Von blauem Grund hebt sich das Gold des Nimbus, das hellblonde Haar, der Brokat des Gewandes und der vom grinen Futter unterbrochen orangefarbene Mantel ab. Das Sims der Balustrade ist grin. Eine plastisch ge- malte Steinumrahmung faBt die Gestalt eng ein.
+
+Fresko, hoch 82 cm; breit 52 cm. Erworben 1908 vom Marchese Lepri in Rom. Tafel XLIX.
+
+Die Gestalt zeigt ins Monumentale vergroBert den Stil von Lattanzios Vater Niccolo da Foligno und nahert sich damit der Art des Signorelli.
+## FILIPPINO LIPPI
+
+Prato 1459—1504 Florenz
+
+41
+
+## Die Madonna mit dem kleinen Johannes dem Taufer
+
+## das Kind verehrend
+
+Maria kniet nach links gewandt vor einem Gemauer und blickt mit zusammengelegten Handen verehrend auf das Kind, das einen Vogel im Handchen auf dem blumigen Rasen liegt und nach ihr langt. Der Johannesknabe beugt sich, sein Lilienkreuz im Arm, zum Kopf des Kindes herab. Im Hintergrund nimmt die Mitte die Landschaft mit einer befestigten Stadt ein, links schlieBen felsige Berge ab, im Mittelgrund ein sich schlangelnder FluB.
+
+Holz, hoch 68 cm; breit 51 cm. Erworben 1890 vom Fursten Basilewsky in Paris.
+
+Tafel L.
+
+Der Typus der Madonna findet sich auf einer Verkundigung im Museum von Neapel, die dem Raffaelino und Sellajo nahesteht,wieder.
+## FRA FILIPPO LIPPI
+
+Florenz etwa 1406—Spoleto 1469
+
+42
+
+Maria sitzt herausblickend und halt das Kind auf ihrem SchoB, das mit der linken den Granatapfel in ihrer rechten Hand faBt, mit der anderen macht es eine wie im Spiel segnende Gebarde und hebt den Blick zu ihr. Die beiden Engel, in den Proportionen kleiner,blicken ihr iber die Schulter. Der linke streckt die Hand mit einer Rose vor, der rechte kreuzt die Hande verehrend auf der Brust.
+
+Die Farben sind im Mantel der Jungfrau grinlich gewordenes
+
+Blau, der Engel rechts tragt helles Blau mit rotem Kragen, der linke mattrot; ihre Flugel sind rotgold, und Gold kehrt in zahlreichen Tupfen auf den Baumen der Landschaft wieder.
+
+Holz, hoch 80 cm, breit 54 cm.
+
+Erworben 1878 aus der Sammlung des Baron de Beurnonville. Tafel LI.
+
+Literatur.
+
+van Marle: Development of the Italian School of Painting X, 459,2.
+
+uber wie in Fruihwerke Botticellis. Der Typus des Kindes findet sich ebenso wie die in dunnen Streifen gezogenen oder hellgeballten Wolken auf einer Madonna, die ehemals in der Sammlung Guidi zu Rom war. Der in Vorderansicht halb gesenkte Engelkopf mit dem vollen,in die Stirn wachsenden Haar kommt auf Botticellis Fruhwerk, der sitzenden Madonna im Louvre, vor.
+
+Der Typus der Jungfrau ist sehr ahnlich einer von Berenson dem Amico di Sandro zugeschriebenen Kopfstudie auf rosa grundiertem Papier im Louvre.
+## LOMBARDISCH UM 1500
+
+43
+
+## Die heilige Katharina.Fresko
+
+Die Heilige, bis zum Knie sichtbar, mit der Krone auf dem offenen Haar, in der Rechten die Palme, die Linke auf das Rad gestuitzt. Vor schieferschwarzem Grund hebt sich ihre einfache, durch den grinen Mantel bestimmte Silhouette ab; das orangefarbene Kleid wird durch das sichtbare gelbe Futter des Mantels umrahmt. Violette Aufschlage an den Armeln bringen einen ernsten Akzent hinein.
+
+An Palme und Gewand sind noch die vertieften Griffelspuren von der Ubertragung des Kartons auf den feuchten Wandbewurf kenntlich.
+
+Fresko,hoch 1 m;breit 0,82 m. Erworben 1898 von M.Detti. Tafel LII.
+
+Das Bild, ehemals wohl wegen eines gewissen landlichen Charakters dem Spagna zugeschrieben, zeigt, auch farbig,lombardischen Stil. Aus dem gleichen lombardisch
+## BERNARDINI LUINI
+
+Luino 1475 etwa—1531/32etwaMailand
+
+45
+
+## Die heilige Agathe in Halbfigur
+
+Die Heilige im roten Kleid mit gelb gefittertem Mantel und blauem Gurtel, einen Kranz von Orangebluten im offenen Haar, blickt mit niedergeschlagenen Augen auf eine Schale herab, in der sie das Zeichen ihres Martyriums, ihre abgeschnittenen Bruiste tragt.
+
+Holz,hoch 42 cm; breit 32 cm.
+
+Erworben bei der Auktion der Sammlung der Herzogin von Berry in Paris.
+
+Tafel LIV.
+
+Das Bild ist unter besonders starker Einwirkung Lionardos komponiert. Der Typus der Heiligen ist der gleiche wie bei der Fresko-Madonna Luinis in der Certosa von Pavia.
+## ZANOBI DI MACCHIAVELLI
+
+Florenz1418—1479 Florenz
+
+46
+
+## Die Madonna thronend zwischen sechs Heiligen
+
+Die Jungfrau sitzt auf farbigem Marmorthron mit bunten Steinstufen und halt das Kind, das mit der Bewegung des Logos (Ich bin das Wort) traumerisch herausblickt. Links stehen der hl. Sebastian,bekleidet,mit dem Pfeil in der Hand, der hl. Andreas und der hl. Bernardin, rechts der hl. Bischof Nikolaus oder Ludwig, die hl. Laurentius und Paulus.  Hinter dem Thron eine mannshohe Mauer,iber der die Kronen von Orangenbaumen sichtbar werden. Der Boden unter den Figuren ist felsig zerkliftet und mit Moos bedeckt.
+
+Holz, hoch 2,35 m; breit 2,06 m. Erworben 1868 bei Gabrielli in Florenz. Tafel LV.
+
+Literatur:
+
+van Marle: Development of the Italian School of Painting XI. (wird nach Mitteilung von Dr.van Marle in diesen noch nicht erschienenen Band seines Werkes aufgenommen werden).
+
+Typisch fur den Stil dieses Meisters aus der Nachfolge Filippo Lippis und Pesellinos, besonders dem bezeichneten Werk in Pisa nahestehend.
+## MAILANDISCH UM 1500
+
+47
+
+## Christus in einer Halle als Prediger
+
+In einer hohen Halle steht rechts Christus mit dem KreuzNimbus auf einer Kanzel und predigt einer Gemeinde aus Birgern und Frauen, deren zwei als Heilige gekennzeichnet sind. An der anderen Seite ist eine Gruppe von zwei heiligen Frauen und einem bartigen Heiligen mit anderen Mannern und Frauen betend um einen heiligen Bischof versammelt, der in seinem Andachtsbuch liest. Vorn knietein fuirstliches Stifterpaar. Die Frau miteiner Krone auf dem Haupt; der Mann mit der Krone in der Hand. Steingraue Halle mit blauer Cassettenwolbung und Ausblick auf Hugelland mit einem breitgelagerten Kastell.
+
+Leinwand, in Leimfarben gemalt, hoch 2,38 m; breit 1,58 m.
+
+Tafel LVI.
+
+In der Sammlung Spiridon dem Borgognone zugeschrieben.
+## BASTIANO MAINARDI
+
+San Gimignano tatig seit 1482—1513 Florenz
+
+48
+
+## Die Madonna in Halbfigur
+
+Die Jungfrau, voll nach vorn gewendet, halt das Kind am FuBchen
+
+Maria mit braunem Haar und braunen Augen, in mattrotem Kleid und rosa Schleier vor der kalkig-rosa Wand -nur der gelbe Gurtel und das Blau des Mantels bringen kalte Akzente in diese zur Stimmung der blaBlichen Figuren passende Harmonie. Die Nimben sind goldgetupft und geflammt.
+
+und Arm fest; beide blicken aus dem Bild heraus; das Kind macht eine segnende Gebarde und spielt dabei mit der Linken im Schleier der Mutter.
+
+Holz,hoch 65 cm; breit 44 cm.
+
+Erworben 1890 von Marchese Guidi in Florenz.
+
+Tafel LVII.
+
+Die Komposition gibt ein interessantes Beispiel vom EinfluB der Fruhwerke Peruginos auf manche Florentiner. Kopf und Haltung der Jungfrau sind vollig den heiligen Frauen des Umbrers, etwa im Dreifigurenbild des Palazzo Pitti oder der Wiener Galerie, entlehnt. Doch die Plastik der Form, das helle gelbliche Inkarnat und die geflammten Nimben lassen an der Benennung Mainardi festhalten.
+## MATTEO DI GIOVANNI
+
+Siena 1435—1495Siena
+
+49
+
+## Die Madonna mit zwei Engeln
+
+Die Jungfrau halt das auf einem Kissen sitzende Kind, das in den Handen einen Granatapfel tragt; beide blicken traumerisch heraus. Hinter ihnen zur Linken steht ein Engel mit roten,blauen und weiBen Blumen im vollen offenen Haar, einen roten StrauB am Girtel; der Engel rechts ist weib gekleidet, mit schwarz-silbernem Brokatan Kragen und Armel.Der zarte,grunlich schattierte Fleischton steht mit der Farbigkeit der blumengeschmickten Haare und dem Goldgrund, zu dem die plastisch verzierten Nimben den Ubergang bilden, in Harmonie.
+
+Im Nimbus der Jungfrau die plastische Inschrift:
+
+AVE MARIA STELLA DEL MA(RE)
+
+Holz, hoch 77 cm; breit 53 cm. Erworben 1888 vom Marchese Corsi in Florenz. Tafel LVIII.
+
+Dem Stil nach,mit den breiten Ovalen der Gesichter, dem verschwimmenden Blick in den halbgeschlossenen Augen, gehort dies Bild eher dem Guidoccio Cozzarelli an (tatig zwischen 1450 und 1515). Sein Hauptwerk, der Altar mit der Taufe Christi in Sinalunga, zeigt die gleichen Eigentumlichkeiten.
+## MEISTER DER ANGHIARI-SCHLACHT
+
+Florenz um 1450
+
+50
+
+## Der Triumph des Aemilius Paulus. Cassonebild
+
+In einheitlichem Zug fuillt das Geprange die ganze Breite der Tafel. An den Denkmalern des alten Rom, dem Colosseum, der Cestiuspyramide, der Trajanssaule voriber zieht voran zur Linken ein Wagen mit erbeuteten Waffen, dann, von einem Amor bekront, ein Aufbau kostbarer GefaBe und Gotterbilder in Altarform; Opfertiere folgen; danach auf einem Wagen der leere Thron des gefangen daneben gefuhrten, orientalisch gekleideten Mazedonierkonigs Perseus und seine am Speer getragene Krone; dahinter auf einem wappengeschmuckten Thron unter reichem Baldachin der Triumphator selbst mit seinem Gefolge.
+
+Holz, hoch 0,58 m; breit 1,58 m. Erworben 1878 vom Conte Nardi in Florenz. Tafel LIX,LX.
+
+Literatur.
+
+van Marle: Development of the Italian School of Painting X, S. 558.
+
+Weisbach: Trionfi, S.37.
+
+Schubring: Cassoni Nr.116.
+
+Abgeb. ebenda Tafel XXI.
+## MEISTER DER ANGHIARI-SCHLACHT
+
+Florenzum 1450
+
+51
+
+## Schlacht und Triumph Casars.— Cassonebild
+
+Zur Linken kampft vor wogendem Getummel von Ristungen, Lanzen und Schwertern eine amazonenhafte Frau auf orientalisch bedecktem Pferd gegen einen Ritter. In der Mitte zieht der Triumphator in goldener Rustung, unter reichem Schirmbaldachin, auf einem mit braunrotgoldenem Brokat behangten Wagen einher. Vor ihm werden Konige der unterworfenen Reiche Pharnakes, Juba, Ptolemaus gefuihrt; rechts spielen vor einem erhohten Sitz mit aufgehangter Verdure drei Musikanten den festlich gekleideten Mannern und Frauen auf. Im Hintergrund Blick auf Berge und eine mit Mauern und Turmen bewehrte Stadt.
+
+Holz,hoch 45 cm; breit 110 cm. Erworben 1878 vom Conte Nardi in Florenz.
+
+Tafel LXI, LXII.
+
+Literatur van Marle: Development of the Italian School of Painting X, S. 558. Schubring: Cassoni Nr. 114. Abgeb.ebenda Tafel XXI.
+
+Die Gruppe der Musikanten erinnert an das bekannte Truhenbild mit der so-
+## MEISTER DER ANGHIARI-SCHLACHT
+
+Florenz etwa 1450
+
+52
+
+## Die Geschichte von David und Goliath.Cassonebild
+
+Links vor der Stadt Socho in Juda weidet David (I Sam. 17,15) seine Herden; er tritt dem Konig Saul an der Spitze seines Zuges entgegen und bietet sich zum Kampf an; in der Mitte greift er mit der Schleuder den bewaffneten Riesen an; im Vordergrund schlagt er dem zu Boden Gestirzten den Kopf ab.Im Hintergrund und rechts sieht man die fliehenden Philister, in Turkenkleidung und nach Turkenart ruckwarts schieBend. Fremdartige Tiere sollen wohl ihr im Stich gelassenes Lager andeuten.
+
+Holz,hoch 0,40 m; breit 1,41 m. Erworben 1876 vom Principe Rucellai in Florenz. Tafel LXIIl, LXIV.
+
+Literatur.
+
+van Marle: Development of the Italian School of Painting X, S. 558.
+
+Schubring: Cassoni Nr. 115.
+
+Abgeb. ebenda Tafel XXI.
+## DER PARIS-MEISTER
+
+Florenz um 1450
+
+53/54
+
+## Zwei quadratische Cassonebilder
+
+Die Jungfrau sitzt am Boden vor einem Waldchen, in dem sich ihre Begleiterinnen zurickhalten. Sie liebkost das zutraulich in ihren SchoB gefluchtete Einhorn.
+
+53. Die Jungfrau mit dem Einhorn
+
+Uber einem schwarzweib gemusterten Sammetkleid, zu dem die
+
+Farbe der burgundischen Haube paBt, tragt sie ein violettes Oberkleid mit Hermelin gefittert.Das Einhorn hat das gleiche Braun wie die Felsen rechts. Die braunviolette Mauer reicht weit in das Schwarz und Graugrin der fluBdurchzogenen Landschaft hinein. 54. Das Urteil des Paris
+
+In der Landschaft vor Feldern,Meereskiste, Granatenhain und hoch auf dem Ufer liegender Stadt sitzt Paris als Hirt bei seinen Herden. Vor ihm stehen die Gottinnen in modischer Tracht, die mittelste streckt die Hand nach dem Apfel aus, den er ihr reicht. Die Figuren wirken stark farbig vor der Landschaft: Paris mit grau,gelb, weiB; die Gottinnen: in schwarzweiBem unter tribrotem Sammet Juno, in gelbem Mantel iber blau Venus, in rotem Mantel iber violettem Kleid Athena.
+
+Als Folie dazu bietet die Landschaft groBe,ruhige, fein bewegte Partien in den Feldern, dem Meer, das, von weiBen Wellchen durchsetzt, zu tieferem Blau der Luft aufsteigt, und den verduren- haft stilisierten Granatbaumen,dem Hochplateau der Felsenkiste, aus dessen Oliv das violettrosa Kastell leuchtet.
+
+Nr.53,Holz,hoch 40 cm;breit 41 cm.
+
+Nr.54,Holz,hoch 39 cm; breit 40 cm.
+
+Erworben 1885 aus der Sammlung Zographos in Athen. Tafel LXV,LXVI.
+
+Literatur:
+
+van Marle: Development of the Italian School of Painting X, S.572.
+
+Schubring: Cassoni Nr. 179/180.
+
+Abgeb.ebenda Tafel XXXVII.
+## MELOZZA DA FORLI
+
+Forli 1438 bis 1494 Forli
+
+55
+
+## Ein singender Engel.—Fresko
+
+Der jugendliche Engel singt, den Blick nach rechts erhoben, zur
+
+Gitarre. Er steht, bis zu den Huften sichtbar, im weiben Gewand mit orangefarbenen Flugeln vor einer Blatterwand, aus der einige Zitronen aufleuchten.
+
+Fresko,hoch 63 cm;breit 52,5 cm. Erworben 1904 bei Simonetti in Rom. Tafel LXVII.
+
+Man mochte den Maler eher in veronesischen oder vicentinischen Kreisen suchen.
+## NERI DI BICCI
+
+Florenz 1419--1491 Florenz
+
+56
+
+## Predelle eines Altarbildes
+
+Die Predelle ist durch goldene Kandelaber in drei Szenen geteilt: in der Mitte der Tod Mariae, links Michaels Kampf mit dem Drachen, rechts das Martyrium der h. Katharina. Zu auberst links und rechts knien Nonnen, vom h. Laurentius und der h. Maria Magdalena empfohlen.
+
+An der Totenbahre der Jungfrau erscheint Christus segnend und halten am Kopf- und FuBende Kerzen. Die Apostel sind in Andacht und Schmerz um diese Gruppe versammelt.
+
+Der Erzengel Michael bekampft in einem oden Felsental den drachengestaltigen Satan, dessen Genossen als gefallene Engel wahrend die anderen Engel in den Spharenkreisen voriberschweben.
+
+Die heilige Katharina steht betend zwischen den scharfgezahnten Radern, die von Engeln mit Schwertern zerhauen werden. Die Widersacher fliehen nach beiden Seiten.
+
+sich, die Kreuzesfahne in der Hand,und empfiehlt eine betend kniende Klarissin ganz rechts werden zwei andere von einer weiblichen Heiligen, wohl Maria Magdalena, empfohlen.
+
+Ganz zu auBerst links steht der h. Laurentius mit dem Rost hinter
+
+Holz, hoch 28,5 cm; breit 101 cm. Erworben 1875 vom Conte Nardi in Florenz.
+
+Tafel LXVIII, LXIX.
+## NERI DI BICCI
+
+Florenz 1419—1491
+
+57
+
+## Die Geburt Christi im Tabernakel-Rahmen
+
+In einem halbkreisformig schlieBenden Rahmen kniet die Jung- frau vor dem auf ihrem Mantel liegenden Kind. Der Johannesknabe kommt mit Kreuz und Spruchband dazu. Von oben senkt sichineinerflammenspendenden Glorie,zwischen betenden Engeln, die Taube des Hl. Geistes herab. Die tiefen Farben der Jungfrau, Kirschrot und Dunkelblau,und des blauen Firmaments werden von den gepunzten und gestrichelten Goldornamenten an Nimben, Mantelsaumen und Glorie durchsetzt. Zu der plastisch ornamentierten Leiste, die unten von einer aus elfenbeinernen Fuillhornern gebildeten Konsole getragen wird, kommt als Rahmung der Prunk-Baldachin hinzu. Er bildet oben aufgehangt eine Art Zeltdach; der verhillende rotgoldene, pelzgefuitterte Brokatstoff wird von zwei Engeln beiseite geschlagen. Die Konturen dieses Baldachins sind ausgesagt.
+
+Holz, hoch 1,80 m; breit 1,10 m.
+
+Erworben 1883 von M. Salvatori in Florenz, ehemals in der Sammlung Toscanelli in Pisa.
+
+Tafel LXX, LXXI.
+
+Literatur.
+
+van Marle: Development of the Italian School of Painting X, S. 544. Catalogue de la Collection Toscanelli de Florenz 1883, Nr. 69. Abgeb. Collection Toscanelli, Tafel XVI a.
+
+Es scheint hier ein Stick voruibergehender kirchlicher Festdekoration festgehalten.
+
+In seiner seltsamen Form konnte das Stuck zur Verhullung des Sakraments oder auch zum Aufsatz eines Triumphwagens gedient haben. Die Krampen auf der Ruckseite, zum Durchschieben einer Stange, sind nicht sicher alt.
+## NERI DI BICCI
+
+Florenz 1419—1491 Florenz
+
+58
+
+## Die Madonna in einer Nische
+
+Die Jungfrau sitzt mit dem segnenden Kind auf einem reich verzierten Thron in einer Nische mit Muschelwolbung,in deren goldenem Uberschlag eine Korallenkette hangt. Rosa und goldene Friese schwingen hinter der Gestalt.Maria tragt ein rotes Kleid mit breiten goldenen Borten, die Girtel und Buste umsaumen. Ihr blauer Mantel ist hellgelb gefittert.
+
+Holz, hoch 1,08 m; breit 59,5 cm. Erworben 1884 aus der Sammlung Corsi in Florenz. Tafel LXXII.
+
+Der Schmuck der Nische mit einer Muschel findet sich genau auf Neris Hauptwerk, dem groBen Fresko mit den Vallombrosaner Heiligen in S. Pancrazio zu Florenz.
+## PIER DI LORENZO PRATESE
+
+Florenz, Prato, tatig um 1450
+
+59
+
+## Die Madonna mit dem Kind,Halbfigur
+
+Vor der Landschaft mit tiefem Horizont umfaBt die Jungfrau mit beiden Handen das Kind; seine linke Hand ist erhoben, die rechte halt einen Vogel.
+
+Das Kleid Mariae ist kirschrot, der Mantel tiefblau. Der Schleier braunlich,um die Huften des Kindes liegt ein gelbrot changierender Stoff. Die Nimben sind guillochiert; in dem des Kindes ein rotes Kreuz. Der Himmel, trib blau, wird von Streifen durchzogen.
+
+Holz, hoch 66 cm; breit 47 cm. Erworben 1883 vom Fuirsten Odescalchi in Rom. Tafel LXXIII.
+
+In der Sammlung Spiridon dem Filippino Lippi zugeschrieben; doch scheint der von van Marle (Aprilheft des Cicerone 1929) vorgeschlagene Name des Pier di Lorenzo Pratese, eines Kunstlers aus dem Pesellinokreise, glucklicher den fruheren Stil der Tafel zu bezeichnen.
+## BERNARDINO PINTURICCHIO,
+
+## NACHFOLGE
+
+Perugia etwa 1454—1513 Siena
+
+60
+
+## Madonna mit dem segnenden Kind.-Fresko
+
+Die Jungfrau sitzt mit dem segnenden Kind von vorn gesehen vor einer halbhohen Mauer und blickt mit leicht gesenktem Kopf gerade heraus. Violettes Kleid mit stumpfblauem Mantel vor porphyrfarbenem Stein.Der Rahmen ist plastisch gemalt. Man erkennt noch die geritzten Linien von der Ubertragung des Cartons auf den Putz.
+
+Erworben 1880 aus dem Palazzo Barberini in Rom.
+
+Fresko, hoch 1,03 m; breit 0,72 m. Tafel LXXIV.
+
+Das Bild steht dem von Pinturicchio beeinfluBten sanften Meister der Fresken von S. Girolamo bei Spello nahe, in dem man Andrea d'Assisi gen. l'Ingegno sehen will.
+## PIERO DEL POLLAJUOLO,SCHULE
+
+Florenz1443—etwa 1496Rom
+
+61
+
+## Die sieben Kardinaltugenden.- Cassonebild
+
+Vor einer Steinbank, deren Ruckwand mit vergoldeten Muschelnischen und gewundenen Saulen aus rosa und schwarzem Stein verziert ist, iber die Zypressen und Araukarien blicken, sitzen die siebenTugenden; zwischen ihrenThronen stehen in kleinenNischen vergoldete Statuen von besonderen Beispielen der Tugenden in der Bibel.
+
+Jeder der allegorischen Frauengestalten zu FuiBen sitzt ein heroischer Vertreter der Tugend. Die Reihe beginnt links mit 1.Fortitudo und Herakles, dazu in der Nische David; 2. Justitia mit Trajan, dazu Salomo; 3.Caritas mit M. Aemilius Scaurus, dazu Abraham; Magnus, dazu Noah; 6. Prudentia mit Solon, dazu Judith; 7. Tem-
+
+4.Fides mit Attilius Regulus, dazu Moses; 5. Spes mit Alexander perantia mit Scipio Africanus.
+
+Holz, hoch 1,56 m; breit 47,5 cm. Erworben 1884 aus dem Kloster von S. Croce in Florenz. Tafel LXXV, LXXVI.
+
+Literatur. Schubring: Cassoni Nr. 340.
+
+Abgeb.ebenda Tafel LXXXI.
+## PIERO DEL POLLAJUOLO,SCHULE
+
+Florenz1443-etwa 1496Rom
+
+62
+
+## Die sieben freien Kiinste.—Cassonebild
+
+In gleicher Anordnung wie auf der vorigen Tafel sind hier die sieben freien Kunste mit ihren Vertretern zu FiBen und ihren Anhangern in den Nischen geschildert.
+
+Links die Dialektik mit Skorpion, zu ihren FuBen Aristoteles,in der Nische Horatius Cocles; die Arithmetik mit der Tafel, Pythagoras unter ihr, Marcus Attilius in der Nische; die Geometrie mit Euklid (,Eocrides), in der Nische Casar; die Astrologie mit Ptolemaus und einem Franziskaner, in der Nische Scipio Africanus; die Rhetorik mit Cicero, daneben Pompejus; die Grammatik mit Kindern und GeiBel, hinter ihr Priscianus, in der Nische Marcus Marcellus; die Musik mit der Handorgel, Tubalkain in der Nische Ometes.
+
+Holz, hoch 0,45 m; breit 1,55 m.
+
+Erworben 1884 aus dem Kloster S. Croce in Florenz.
+
+Tafel LXXVII,LXXVIII
+
+Literatur.
+
+Schubring: Cassoni Nr. 339.
+
+Abgeb. ebenda Tafel LXXXI.
+## COSIMO ROSSELLI
+
+Florenz1439—1507Florenz
+
+63
+
+## Selbstportrat
+
+Etwas nach links gedreht, den Blick angeregt beobachtend gerade heraus gerichtet, in schwarzer Kappe auf dem wolligen Haar,im roten, pelzverbramten Rock, die Hand vorn aufgelegt. Das Gesicht ist gesund gerotet, durch den rasierten Bart an Oberlippe und Kinn und die schwarzen Brauen lebendig nuanciert.
+
+Annahernd lebensgrob.
+
+Holz, hoch 52 cm; breit 33 cm.
+
+Erworben 1878 aus der Sammlung des Baron de Beurnonville in Paris.
+
+Tafel LXXIX.
+
+Literatur.
+
+Venturi: Storia dell' Arte Italiana VIl, 1, S. 695.
+
+Abgeb.:Venturi,ebenda Fig.402.
+
+Berenson:Florentine painters 1909, S.179,Abb.402.
+
+Durch die Selbstbildnisse des Kunstlers in seinen Fresken,dem Wunder des heiligsten Sakraments von 1486 in S. Ambrogio zu Florenz und in der Bergpredigt der Sixtinischen Kapelle in Rom von 1482, sind die Zuge des Kinstlers iberliefert. Sie sind auch in diesem Bild zu erkennen.
+## GIROLAMO ODER FRANCESCO DI
+
+## SIMONE DA SANTA CROCE
+
+Santa Croce tatig etwa 1503 —1556 Venedig
+
+64
+
+## Die Anbetung der Konige
+
+Die Jungfrau, der Joseph iber die Schulter blickt,halt das in ein weibBes Linnen gehuillte Kind nach rechts den Konigen hin, deren altester, kahlkopfig, mit weiBem Bart, niedergesunken, ein Gefaβ von Gold hochreicht; der zweite, mit einem Turban,halt seine verzierte Buchse hin, der Mohr, andachtig blickend, neigt den Kopf. Im Hintergrund Hugelland mit einer befestigten Stadt. Vor der blaulich-grinen Landschaft heben sich Marias gelb-rotlich changierendes Kopftuch, die aus weib-blau-gelb und rot-blau-gelb zusammengewundenen Turbane hervor. Durch die Schatten blinkt ihr Geschmeide. Der fuir Girolamo c charakteristische, zitronenfarbige Streifen am Horizont zieht gerade hinter den Turbanen durch, wahrend das Blau-grin der Landschaft zwischen den verschiedenen Farben der Halbfiguren vermittelt.
+
+Holz, hoch 66 cm; breit 78 cm. Erworben 1868 von M. Rossi in Venedig.
+
+Tafel LXXX.
+
+Die Komposition geht auf Mantegnas Erfindung zuruck. Exemplare von Francesco Bei dem Exemplar des Girolamo da Santa Croce im Kaiser-Friedrich-Museum
+
+Mantegnas Hand in Kent House, London und bei Johnson in Philadelphia. bildet an Stelle der Landschaft links ein Vorhang die Folie fur die Figuren.
+## VERONESISCH UM 1600
+
+65
+
+## Giovanni von Medici genannt delle Bande nere
+
+## im Oberitalienischen Feldzug
+
+schwarz-silbernem Waffenrock auf einem Schimmel reitet mit der Medicifahne seinen Gewappneten voran. Ihm vorauf zunachst auf Rappen ein schwarz gekleideter Reiter und ein kleiner gewappneter Knabe. Dazwischen Pagen in spanischer Tracht. Die Spitze des Zuges bilden die Trompeter der ,bande nere", die, wie es scheint, eine vor Bergen in der Ebene liegende turmreiche Stadt (Brescia?) zur Ubergabe auffordern.
+
+Leinwand, hoch 1,40 m; breit 2 m.
+
+Erworben vom Vater des letzten Besitzers aus der Galerie des Kardinals Fesch. Tafel LXXXI.
+
+Das Bild stellt den 1526 gegen Frundsberg gefallenen Giovanni della Bande nere dar, den Vater Cosimos I. und damit Ahnherrn des groBherzoglichen Hauses von Toscana; er war nach der Totenmaske seinerzeit von Tizian in Aretinos Auftrag gemalt, und dies Bildnis, heut in den Uffizien, liegt hier zugrunde.
+
+Ein Ereignis aus dem zweiten Jahrzehnt des sechzehnten Jahrhunderts, offenbar fur die Medici um 1600 in veronesisch grauem Silberton gemalt, konnte zum Verona 1543-1627 haben, dessen antiquarische Neigungen auch die Ubernahme der Rittergruppen aus Burgkmairs Triumphzug Maximilians erklaren wurden.
+## ANDREA DELVERROCCHIO
+
+Florenz 1436 — 1488 Venedig
+
+66
+
+## Maria mit dem Kind und Engeln
+
+Die Jungfrau sitzt im Freien vor mattblauem, wolkig streifigem Himmel, nach rechts mit verehrend erhobenen Handen dem Kind zugewandt. Dieses strebt ihr zu; zwei halbwichsige Engel heben es der Mutter entgegen. Marias rotes Kleid ist mit Perlensaumen besetzt, im Nimbus des Kindes ein rotes Kreuz, der vordere Engel tragt einen Kranz mit roten und weiBen Rosen im Haar, seine Flugel schimmern in Rot und Blau.
+
+Holz, hoch 89 cm; breit 68 cm.
+
+Erworben vom Vater des letzten Besitzers 1837 aus der Galerie des Kardinals Fesch.
+
+Tafel LXXXII.
+
+Das Motiv dieser Komposition stammt von Filippo Lippis Madonna in den Uffizien und findet sich in fruhen Werken Botticellis besonders haufig variiert, doch nie so ubereinstimmend mit dem Bild und den stilistischen Zugen des Fra Filippo wie hier. Selbst die Hande des Kindes haben noch die besonderen knolligen Formen Filippos. Eine gewisseVerwandtschaft besteht mit einer Madonna, die in der Sammlung Benson dem Botticini zugeschrieben wird und mit der Anbetung des Kindes unter Verrocchios Namen in Modena.
+
+Das Bild gehort sehr eng in die Nahe der Gruppe, die man sich gewohnt hat, dem jungen Botticelli zuzuschreiben. In der Ornamentalitat der Zeichnung, den festen Konturen und der gruinlichbraunen Untermalung des Fleisches,besonders im Gesicht und an den Handen der Jungfrau steht es dem Botticelli naher als die Madonna im Ospedale degli Innocenti, die Madonna mit Engeln und Johannes dem Taufer in den Uffizien oder im Museo Nazionale zu Neapel.
+
+Der Typus der Jungfrau wiederholt sich in den Kopfen der heiligen Frauen auf der groBen Altartafel Botticellis mit Cosmas und Damianus aus S. Ambrogio in den Uffizien.
+## BARTOLOMMEO VIVARINI
+
+Murano Venedig 1432—etwa 1491 Venedig
+
+67
+
+## Zehnteilige Altartafel
+
+Im Mittelfeld der goldgrundierten Tafeln steht der hl. Jacobus mit Buch und Pilgerstab in ganzer Figur; iber ihm im oberen Feld die Halbfigur der Jungfrau mit dem segnenden Kind vor einem Schattentuch.Links schlieBen sich an das Mittelfeld untenJohannes der Evangelist und Johannes der Taufer,rechts Bartolommeus und Petrus. In der oberen Reihe gehoren links neben die Madonna die hl. Ursula und Katharina mit dem Rad, rechts die hl. Lucia mit der Lampe und die hl. Appollonia mit der Zange.
+
+Bezeichnet auf dem Cartellino unter dem hl. Jacobus
+
+OPUS FACTUM VENETIIS PER BARTHOLOMEUM VIVA
+
+RINUMDEMURIANO·1·490
+
+Holz, hoch 2,65 m; breit 2,28 m.
+
+Erworben vom Vater des letzten Besitzers aus der Galerie des Kardinals Fesch in Rom.
+
+Tafel LXXXIII,LXXXIV.
+
+Literatur.
+
+Crowe und Cavalvaselle: Geschichte der italienischen Malerei V, 1, S. 47.
+
+Venturi: Storia dell' Arte Italiana VIl,3, S.312—334.
+
+Dies Altarwerk gehort zu den spatesten datierten Arbeiten Bartolommeos und ist gleichzeitig mit der ebenso signierten hl. Barbara in der Akademie zu Venedig. Es scheint aus einer landlichen Kirche bei Bergamo zu stammen. Im Goldgrund am segnenden Armchen des Christkindes zeigt sich ein Pentiment.
+## BARTOLOMMEO VIVARINI
+
+Murano-Venedig 1432—etwa 1491 Venedig
+
+68
+
+## Der heilige Johannes der Taufer
+
+Die Halbfigur des Heiligen steht in grauem Fellgewand mit olivgruinem Mantel und braunem,grauschattiertem Inkarnat als matter Akkord auf Goldgrund. Seine Linke halt das Stabkreuz, die Rechte weist den Andachtigen,iber den der Blick der durchsichtigen Augen hinzieht, auf das Agnus Dei.
+
+Holz, hoch 48,5 cm; breit 33,5 cm.
+
+Erworben 1902 aus der Sammlung des Marquis de Magni in Paris.
+
+Tafel LXxxV.
+
+Die kleine Tafel stammt vermutlich aus einem Altarwerk,wo sie in der oberen Reihe links neben der Madonna zu denken ware. Das Kolorit erinnert in seinem Olivakkord an Crivelli. Der Arm des Taufers kommt fast genau in der Haltung wie auf diesem Bild auf dem einzig sicheren Studienblatt des Alvise Vivarini vor: einer Zeichnung der Sammlung Fritz Lugt, die Hande- und Armstudien fur Alvises Madonna zwischen Heiligen von 1480 in der Akademie zu Venedig enthalt. Auch dem 1475 datierten funfteiligen Altar Alvises in Montefiorentino steht das Bild nahe. Besonders erinnern dort die Gestalten des Petrus und Johannes des Taufers in Ausdruck und Zeichnung an diese Halbfigur. Das Bild mag also eher dem Alvise als dem Bartolommeo Vivarini zuzuschreiben sein.
+## BARTOLOMMEO VIVARINI
+
+Murano-Venedig 1432—etwa 1491 Venedig
+
+69
+
+## Die heilige Katharina von Alexandria
+
+Die Heilige steht, bis zur Hufte sichtbar, den Korper en face, den Blick nach links aufwarts gerichtet, vor goldenem Grund; ihre Krone iber dem offenen Haar ist mit Perlen und Rubinen besetzt, in der Linken halt sie die Martyrerpalme,im rechten Arm das Rad. Ihr gruines Kleid schimmert in gelben Lichtern, der rote Mantel umfaBt Schultern und Huften.
+
+Holz, hoch 72 cm; breit 42 cm. Erworben 1904 in Rom von Simonetti.
+
+Tafel LXXXVI.
+
+Das Bild scheint zur oberen Reihe in einem mehrteiligen Altarwerk gehort zu haben,bei dem die Madonna etwas erhoht die Mitte hielt; daraus erklart sich Blick und Bewegung der ,Sposa Christi"
+## AELBERT BOUTS
+
+Lowen um 1455—1548
+
+70
+
+## Christus als Schmerzensmann
+
+Christus mit der Dornenkrone, bis zur Brust sichtbar, im roten Gewand, blickt schmerzvoll vor sich hin.
+
+Das weiche Rot, die violetten Schatten im Fleisch, die geroteten Augen klingen farbig zusammen.
+
+Auf der Stirne sind Pentimenti von einer anderen Lage der
+
+Dornenkrone zu erkennen.
+
+Holz,hoch 34 cm; breit 27 cm.
+
+Erworben 1882 von Donaldson,London.
+
+Tafel LXXXVII.
+
+Literatur.
+
+Friedlander: Altniederlandische Malerei III, S. 119,Nr.63 m.
+## DIERICK BOUTS,WERKSTATT
+
+Haarlem etwa 1410—1475Lowen
+
+71
+
+## Mater Dolorosa
+
+Die Jungfrau in weibem Kopftuch, blauem, gringefittertem Mantel und violettem Kleid wendet sich mit zusammengefigten Handen weinend nach rechts.
+
+Der Goldgrund ist fein schwarz gestrichelt.
+
+Holz,hoch 39,5 cm; breit 31 cm. Erworben 1889 von Williams in Paris.
+
+Tafel LXXXVIII.
+
+Literatur.
+
+Friedlander: Altniederlandische Malerei III, S.124,Nr. 83 f.
+
+Das Motiv des Bildes setzt als Gegenstuck den Schmerzensmann voraus. Solche
+
+Bilderpaare wurden in Diericks Werkstatt mehrfach ausgefuhrt.
+## PIETER BRUEGEL DER ALTERE
+
+Antwerpen etwa 1525—Brussel1569
+
+72
+
+## Bauernkirmes
+
+Auf einem Dorfplatz wird zum S Spiel zweier Dudelsacke rechts getanzt. Etwa sechs Paare bewegen sich im Kreis. Vorn links tanzt ein alterer Bauer und seine Frau gegeneinander. Ein an den Baum links gelehnter im Schatten sieht zu. Hinten wandelnde und redende Bauern, zechende, tanzende und kussende Paare. Links und rechts
+
+Bauernhitten, in der Mitte Blick durch Busche auf die Dorfkirche.
+
+Holz, hoch 1,18 m; breit 1,67 m. Erworben 1878 bei Rossi, Paris. Tafel LXXXIX.
+
+Literatur.
+
+Bastelaar und Hulin de Loo: Pieter Bruegel, Nr.A. 34, p. 315. Abgebildet ebenda.
+
+Am oberen Teil der Tafel ist ein Streifen von spaterer Hand ibermalt. Eine alte
+
+Kopie des Bildes befindet sich im Depot des Kaiser-Friedrich-Museums.
+## JOOS VAN CLEVE D.AE.
+
+Cleve oder Antwerpen etwa 1485 — 1540 Antwerpen
+
+73
+
+## Die heilige Familie
+
+Die Jungfrau reicht dem nackten Kind die Brust. Ihr offenes blondes Haar rieselt unter durchsichtigem Schleier, mit aufblinkenden Lichtern, tief iber das weiche Rot ihres Mantels herab. Von links blickt der hl. Joseph, mit dunkler Kapuze um das bartlose Gesicht, den zahnlosen Mund zu einem Lachen offnend, heriber; er halt in der rechten Hand das Augenglas, in der linken eine Pergamentlesen hat. Die Jungfrau hebt sich gegen eine dunkle Wand ab, an der aus weichem Dammer von einem Konsolenbrett ein Bastschachtelchen, eine spiegelnde Wasserflasche und darunter ein rolle, auf der er eben das ,Magnificat anima mea dominum" g gebuntgeflochtener Wedel leuchten.
+
+Vorn auf der Balustrade steht ein spiegelndes, lichtdurchschienenes Deckelglas mit einem Weinrest, daneben liegt ein Messer, eine halbe offene WalnuB; die rechte Halfte nimmt ein mattblinkender Zinnteller mit einer Traube und anderen Frichten, auch einem aufgebrochenen Granatapfel, ein.
+
+Erworben 1885 in der Collection Secretan, Paris.
+
+Holz, hoch 42,5 cm; breit 31,5 cm. Tafel XC.
+
+Von M. J.Friedlander im Aprilheft des Pantheon 1929 publiziert. Das Motiv der trankenden Mutter mit dem Kind ist Jan van Eycks Jungfrau von Lucca im Staedelschen Institut zu Frankfurt a.M.entlehnt.
+## FRANZOSISCH 1569
+
+74
+
+## Bildnis eines Herrn mit Totenkopf
+
+Der blonde, spitzbartige Mann steht vor mattgrinem Grund, im gelben, schwarz durchnahten, gekerbten spanischen Wams, von dem man nur die Armel sieht, mit schwarzem geschlitzten Uberrock, von dem goldene Knopfe und eine Kette aus blau und roten Steinen abwechselnd mit Perlen aufblinken,an rotgedecktem Tisch. Seine Linke ist auf die Hufte gestitzt, die Rechte ruht leicht auf einem Schadel.
+
+Rechts stehen die Angaben iber ihn:
+
+ETATIS35:::
+
+ANNO DNI 1569
+
+Links sein Wahlspruch:
+
+HOMO NATUS DE MULIERE BREVE VIVENS TEMPORE
+
+REPLETUR MULTIS.MISERIIS.
+
+Holz, hoch 68 cm; breit 53,5 cm.
+
+Erworben 1886 in der Collection Bois,Paris. Tafel XCI.
+## MEISTER DER LUCIA-LEGENDE
+
+Brugge etwa 1480/1490
+
+75
+
+## Triptychon mit der Beweinung Christi und Stiftern auf den Flugeln
+
+Im Mittelbild halt Maria am FuB des Kreuzes den starren Leichnam auf dem SchoB. Johannes stitzt kniend den Kopf des Toten und sucht zugleich dieJungfrau abzulenken; auf der anderen Seite kniet Magdalena, die Hande ringend. Im Hintergrund eine Stadt mit Befestigungen am FluB und einer gotischen Kathedrale.
+
+gekleidet, unter dem Schutz des hl. Donatian, derim Bischofsornat mit seinemAttribut,demLichterrad und dem Bischofskreuz,hinter ihm steht.
+
+Auf dem linken Flugel kniet der Stifter, burgundisch schwarz
+
+AufdemrechtenFlugel kniet dieGattin des Stifters in burgundischer
+
+Haube, mit schwarzem, pelzgefuittertem Sammetkleid iber rotem Unterkleid. Bei ihr steht der hl. Adrian in der Ruistung und im grungefutterten Mantel, einen schwarzen Filzhut auf dem vollen Haar. Im Hintergrund Blick in felsige und buschige Landschaft mit abschlieBenden Bergen. An zwei kahlen Baumchen hangen hinter den Figuren die Wappen: drei Stierkopfe beim Stifter, geteilter Schild mit drei Stierkopfen und rotem steigenden Lowen bei der Frau. Die Aubenseiten der Flugel tragen als Grisaillen gemalt die Heiligen Petrus und Barbara.
+
+Erworben 1875 in der Collection Baron Beurnonville, Paris.
+
+Holz, Mittelbild, breit 61 cm; hoch 75 cm. Fligel, hoch je 75 cm; breit je 27 cm. Tafel XCII, XCIII.
+
+Das Mittelbild ist eine in der Figur der Magdalena sowie im Landschaftshintergrund leicht variierte Wiedergabe der Beweinung Christi von Dierick Bouts im Louvre. Der Stil der Malerei weist jedoch nicht auf die Nachfolge des Bouts, vielmehr auf die Schule von Brugge; die hier eingefugte Stadtansicht im Mittelbilde hat gleichfallsBrugger Charakter.M.J.Friedlander gibt das Altarwerk in seiner Gesamtheit dem Brigger Meister der Lucialegende und publiziert es im Aprilheft des Pantheon 1929.
+## NIEDERLANDISCH UM 1520
+
+76
+
+## Maria mit dem Kind und drei Heiligen
+
+Die Jungfrau sitzt auf einem Thron von reichen spatgotischen und Renaissanceformen aus Stein und Messing. Sie halt mit der Linken das auf ihrem Mantel sitzende Kind im SchoB, mit der Rechten hebt sie eine Birne, nach der das Kind langt. Uber die Lehne des Throns von links beugt die hl. Katharina sich in grungoldenem Kleid,eine Krone aus Radern,ihrem Attribut, auf dem offenen Haar, die linke Hand auf den Schwertknauf gestitzt, mit der rechten vorwarts greifend. Auf der anderen Seite des Throns steht in roter Kardinalstracht mit blauem Kragen,im Andachtsbuch lesend, der hl.Hieronymus.Vorn rechts sitzt in halb kniender Haltung die hl. Barbara, am Diadem den Turm, ihr Attribut,im mildblauen,pelzverbramten Kleid.
+
+Holz, hoch 66,5 cm; breit 52 cm. Erworben 1898 bei Coster in Brissel. Tafel XCIV.
+
+Das Bild wurde in der Sammlung Spiridon dem Gossaert zugeschrieben.
+## QUENTIN MASSYS,NACHFOLGE
+
+Lowen 1466—1530Antwerpen
+
+77
+
+## Die heilige Maria Magdalena
+
+Die Heilige steht vor grunem Grund im roten Kleid mit Goldbrokatarmeln, das Hemd blaulich,amKettengirtel den Rosenkranz aus durchbrochenen Elfenbeinkugeln. Auf glatt gescheiteltem Haar die blaue Haube mit goldenem Bugel,besetzt mit roten Steinen; am Ohr goldene verzierte Scheiben, an der Halskette ein Geschmeide mit der Lilie. Sie hebt mit zierlicher Bewegung der linken Hand den Deckel vom goldenen SalbgefaB, auf dem die
+
+Inschrift zu lesen ist:DALENA. COMB.M.
+
+Auf Holz, hoch 62 cm; breit 44 cm.
+
+Erworben bei Sedelmeyer in Paris 1886. Tafel XCV.
+
+Das Bild steht dem Meister der Mansi-Magdalena nahe.
+## OBERDEUTSCHUM1540
+
+78
+
+## Bildnis einer jungen Frau
+
+Die Frau steht,bis zu den Huften sichtbar, vor blaugrinem Grund etwas nach links gewandt mit dem Gebetbuch in den Handen. Sie tragt die iber die Ohren greifende Haube. Das um die Taille eng anliegende,neutralfarbene Oberkleid (Marlotte) hat halblange Armel, die Unterarmel von goldolivem Brokat mit Goldlack-Saumen sehen lassen. Oben klappt es mit weiBem Futter um und rahmt die schwarzgraue Halsstickerei der Hemdkrause ein. In die Diskretion der beginnenden spanischen Entfarbung bringen Brokat, goldene Saume, das goldige Blattwerk vor der Brust, der Schnitt des Buches, die Ringe ein Element neuen, farbigen Lebens.
+
+Holz,hoch 70,5 cm; breit 51 cm.
+
+Das Bild kommt aus der Sammlung Georges Spiridon in Rom. Tafel XCVI.
+
+In der Sammlung Spiridon wurde das Bildnis dem Holbein zugeschrieben.
+## SPANISCH UM 1510
+
+79
+
+## Die Madonna zwischen der h.Katharina und Johannes dem Evangelisten
+
+Die Jungfrau auf einem in Frihrenaissance-Formen verzierten grauen Steinthron mit einer tiefroten Brokatbahn im Ricken, einen Kranz weiber Rosen im Haar,halt das nach ihrem Mantelsaum fassende Kind,indem sie vorsich nach links niederblickt.Links steht die heilige Katharina mit Buch und Schwert im grinen niederlandischen Brokatkleid mit gelbem Mantel, den gekronten Satan auf den Trummern ihres Rads zu ihren FuBen; rechts, vor zierlich getupften Baumenim groBen Mantelwurf mitekstatisch gehobenem Blick, Johannis der Evangelist. Er macht die Gebarde des Segens iber dem Kelch, aus dem der Drache aufsteigt.
+
+Holz, hoch 39 cm; breit 51 cm. Erworben bei Mr. Soubert in Mailand 1887. Tafel XCVII.
+
+In der Sammlung Spiridon wurde das Bild dem Defendente Ferrari zugeschrieben.
+
+Die Zuweisung an die spanische Schule ergab sich aus dem Gemisch nordischer und italienischer Stil-Elemente.

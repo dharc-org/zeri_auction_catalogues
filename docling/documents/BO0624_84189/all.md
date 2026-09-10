@@ -1,0 +1,4664 @@
+## 2
+
+## ECOLE ALLEMANDE
+
+## GRUN (Hans-Baldung)
+
+Ne a Weyershelm en 1476ou 148o,mort a Strasbourg en 1544.A travaille principale- ment a Fribourg et a Strasbourg;fut forme a l'infuence de son ami Albert Durer.
+
+## L'Ascete
+
+L'Ascete est assis,la poitrine nue,les yeux interrogeant les problemes de l'infini. Sa main droite se crispe sur une pierre. Il a sur une table devant lui un chandelier,le livre des épitres de Paul, un crane,un encrier, des besicles, un calame et un papier sur lequel on lit :
+
+Sine bibo,sine comedo,sine dormio,sine Vigilo,sine aliud quid facio,semper videtur in auris meis resonare vox illa Surgite Mortui
+
+Venite ad juditium.
+
+A droite,parmi d'autres objets, on apercoit suspendu un benitier dans lequel plonge un goupillon.
+
+Panneau,H.:67 1/2;L.:54
+
+## HEINSCH (Jean-Georges)
+
+Ne en Silesie.En 1678 il avait son domicile a Prague.
+
+## Les Bienfaits de la Justice
+
+Composition allegorique pour une gravure.
+
+Peinture en grisaille. -Signe a droite, en bas: J. G. Heinsch, del.
+
+Toile,H.:43;L.:34
+
+On trouve de ses tableaux dans les eglises de Prague. Plusieurs de ses composi tions ont ete gravees par I.Kilian.
+5
+
+## KAUFFMANN (Maria-Angelica)
+
+Nee a Schwarzenberg en 1741,morte en 18o7.Fille et eleve de Joseph Kauffmann.
+
+## 3 Jeune femme au regard douloureux
+
+Cuivre deforme ovale,H.:28；L.:23.
+
+## KLENGEL (Johann-Christian)
+
+Ne a Kesselsdorf pres de Dresde en 1751,mort a Dresde en 1824.
+
+Eleve de Dietrich Klengel.
+
+## 4 Patre faisant paitre ses boeufs sur la falaise
+
+Signe a droite,en bas:Klengel 1813.
+
+Toile,H.:231/2;L.:30.
+
+## THIELE (Jean-Alexandre)
+
+Ne a Erfurt en 1685,mort en 1752.Fut eleve de C.-A.Agricola.
+
+## Le Moulin a eau
+
+Au pied d'une colline et au bord d'une source, le moulin a eau est construit a labri des frondaisons épaisses de grands arbres. Dans la plaine, a droite,une campagnarde et son enfant sont arreteset causent avec un homme debout qui porte un gilet rouge et que lon voit de dos.Au fond, du meme cote,il ya la campagne, avec la silhouette tres lointaine d'une ville sous un ciel transparent et clair.
+
+H.:301/2;L.:431/2.
+
+## WOCHER(Marquart)
+
+1758-1820
+
+- Bateaux de peche:maree haute par mer calme
+
+## 6
+
+Signe a droite,en bas, sur une epave: M.W., 1782.
+
+Panneau,H.:291/2;L.:37 1/2.
+10
+
+11
+
+## ZRNENTOR OU ZNIJENTOR(A.-E.)
+
+Buckingham et Marion Delorme dans le parc d'amour
+
+Signe a droite,en bas:A.E.Zrnentor,163o.
+
+Cuivre,H.:25;L.:30.
+
+## ECOLE ALLEMANDE
+
+Seizieme siecle.
+
+## La Predication
+
+Au pied d'un arbre, le predicateur se tient debout, et devant lui,un groupe important de personnages, assis ou debout, lecoutent attenti- vement.Au fond, a droite, on apercoit une ville fortifiee.
+
+Panneau,H.:20 1/2;L.:34
+
+## ECOLE ALLEMANDE
+
+Dix-huitieme siecle.
+
+- 9 La Nymphe Daphne, transformee en saule pour échapper aux poursuites d'Apollon
+
+Cuivre,H.:37;L.:271/2.
+
+## ECOLE ALLEMANDE
+
+Dix-huitieme siecle.
+
+Portrait d’un philosophe
+
+Toile,H.:82:L.:65 1/2.
+
+## ECOLE ALLEMANDE
+
+Dix-huitieme siecle.
+
+Portrait d'homme
+
+Toile,H.:51 1/2;L.:41 1/2.
+## ECOLE ANGLAISE
+
+| SARTORIUS (John-N.) 1778-1824.             | SARTORIUS (John-N.) 1778-1824.                                           |
+|--------------------------------------------|--------------------------------------------------------------------------|
+| 12                                         | Dandy a cheval, épisode de chasse Pendant du suivant. Toile,H.:35;L.:50. |
+| SARTORIUS (John-N.)                        | SARTORIUS (John-N.)                                                      |
+| 15                                         | La chasse : cavaliers en habit rouge                                     |
+| SARTORIUS (John-N.)                        | SARTORIUS (John-N.)                                                      |
+| 14                                         | Cavaliers franchissant une haie Toile,H.:321/2;L.:43.                    |
+| ECOLE ANGLAISE Fin du dix-huitieme siecle. | ECOLE ANGLAISE Fin du dix-huitieme siecle.                               |
+| 15                                         | La source descendant des hautes roches                                   |
+
+Toile,H.:52;L.:59.
+17
+
+## ECOLE ANGLAISE
+
+Commencement du dix-neuvieme siecle.
+
+## 16 Portrait presume de lord Palmerston
+
+Peinture sur cuivre,H.:15 1/2;L.:12 1/2.
+
+## ECOLE ANGLAISE
+
+Portrait d’un chasseur
+
+Traces de signature au milieu, sur le fusil a pierre.
+
+Toile,H.: 100: L.:871/2.
+18
+
+## ECOLE ESPAGNOLE
+
+## HERRERA,le vieux Francois)
+
+Ne a Seville en 1576,mort en 1656.Eleve de Louis Fernandez
+
+Portrait d'homme
+
+Toile,H.:491/2;L.:391/2.
+
+## MURILLO (Barthelemy-Esteban)
+
+Eleve de Jean del Castillo et de Velasquez.-Seville 1618-1682.
+
+## 19 La Vierge et l'Enfant Jesus
+
+Elle est representee debout, drapee dans une palla bleue sur une stola rose et pressant de ses deux mains contre sa poitrine, IEnfant Jesus nu. Le groupe apparait sur un croissant soutenu au-dessus d'une nuee par trois seraphins ailes. Derriere la Vierge, on apercoit sous un ciel bleu profond une église, construite en pierre et en briques.
+
+Toile,H.:29 1/2;L.·20.
+
+Projet pour un important tableau.
+
+## ZURBARAN (Francisco de)
+
+Né a Fuente de Cantos en 1598, mort en 1662. Fut eleve de Jean de Las Roclas.
+
+20
+
+Madeleine repentante
+
+Toile,H.:54 1/2;L.;42 1/2.
+21
+
+## ECOLE ESPAGNOLE
+
+La Vierge et 1'Enfant Jésus
+
+La Vierge est en coiffe noire et robe creme.
+
+Peinture ronde sur cuivre, H.:1I;L.:11.
+22
+
+24
+
+## ECOLE FLAMANDE
+
+## ARTHOIS (Jacobus van)
+
+Nea Bruxelles en 1613,mort apres1686.
+
+La traite des vaches
+
+Toile, H.:791/2;L.:111.
+
+Tres souvent, les paysages de cet artiste celebre furent agrementes de figures par David Teniers,Jegers, Croyer, ou d'animaux executes par Snyders.
+
+## ARTHOIS (Jacobus van))
+
+25
+
+Village au bord d’un feuve
+
+A gauche,le long d'un étroit chemin,les maisons du village sont nichees dans la verdure,et le clocher de la petite eglise s'elance vers le ciel clair. Aux arbres, les frondaisons estivales se balancent.A droite, le fleuve dessine un coude et leau s'emplit des reflets de la nature en fete qui s'epanouit sur la rive. Au premier plan,vers la gauche, quelques betes sont en train de paitre.
+
+Panneau,H.:91 1/2;L.: 152.
+
+## BALEN (Jean van)
+
+Anvers,1611-1654.
+
+Pan et la nymphe Syrinx
+## 25
+
+26
+
+## Van BALEN et van KESSEL
+
+La Naiade et les Amours pecheurs
+
+Cuivre, H.:3o;L.:39.
+
+## BREYDEL(Charles-Karl)
+
+Ne a Anvers en 1678,mort a Gand en 1733.
+
+Combat de cavalerie en avant d’un fort
+
+Toile,H.:28;L.:36.
+
+## COLIJEN (David)
+
+## 27 Le Peintre dans son atelier
+
+C'est un peintre qui s'est represente debout, la palette au poing,au milieu des objets qu'il peignait finement, en trompe-l'eil, livres,basse de viole,ute et fageolet,globe celeste,pipe,montre,verre,album de musique, le tout pose sur une planche en partie couverte d'un tapis vert et en equilibre sur les bras d'un fauteuil au bois sculpte et dore. Dans le fond,a droite, sur le socle d'une colonne de pierre, cette inscription un peu pretentieuse:
+
+Vita brevis ars longus.
+
+Signe a gauche,en bas :D. Colijen f. 1688.
+
+Toile,H.:38;L.:32.
+
+## CRAESBEECK (Joos Van)
+
+Ne vers 16o6,mort a Bruxelles vers 1654.Entra a la Gilde d'Anvers, puis dans celle de
+
+Bruxelles.
+
+28 Le joyeux buveur a la cruche de gres
+
+Signe a droite, en bas : C. S.
+
+Panneau,H.:16 1/2; L.: 13.
+## DAEL (Jan-Francois van)
+
+(Ecole de)
+
+Anvers 1764-1840.
+
+## 29 Fleurs et fruits sur une console de pierre
+
+Toile,H.:79;L.:62 1/2.
+
+## DONCK(G.)
+
+On est sans details sur ce peintre qui appartenait au groupe de P. Codde, Duck Palamedes,etc.Travailla de 1627a1635.
+
+## 30
+
+## Tethys venant chez Vulcain commander le bouclier d'Achille
+
+Vulcain est a sa forge, installee dans une grotte. Tethys, en costume hollandais du xvil siecle,passe quelques papiers aux mains de Vulcain. Au second plan, a droite et a gauche, on apercoit les forgerons. Des cuirasses jonchent le sol.
+
+Signe sur le billot portant l'enclume : G. Donck.(Les deux initiales formant mono-
+
+Panneau, H. : 6o; L.:47.
+
+gramme.)
+
+En dehors du tableau de la collection Delaroff,on ne connait que cinq peintures de Donck qui sont:
+
+- logue de 1898.)
+- 1°Galerie nationale de Londres:Portrait de deux personnages.(N13o5 du cata-
+- 2Galerie Lichtenstein.a Vienne:Portrait d’une mere avec sa fille.(N1241:voir
+- 3et 4 Collection du comte Czernin,a Vienne:Paysan vendant du beurre et des
+- Eisenmann dans la Zeitschrift fir Bildenae Kinst t.IX,1874,p.59et s.)
+- oufsetPortraitd'homme.
+
+5°Collections Baranowski et Stummer,a Vienne:Portrait en pied d'un jeune savant.(Voir Frimmel,Kleine Galerie-Studien,t.II,p.292.)
+
+## DYCK (Atelier d'Antoine van)
+
+3 Portrait de Charles I et d'Henriette de France et de ses enfants
+
+Toile.H.:741/2;L.:721/2.
+32
+
+## ELSHEIMER(Adam)
+
+Ne a Francfort-sur-leMein en 1578,mort a Rome en 1620.
+
+## Paysage
+
+A droite,au pied d'enormes rochers,les ruines d'une ville,couvertes d'arbres et d'arbustes. Au milieu,une riviere s'écoule en cascade.A gauche sur lescalier de son hotellerie, laubergisterecoit les voyageurs : une femme montee a cheval,un homme coiffe d'un turban,et un enfant.
+
+Panneau,H.:31 1/2;L.:44 1/2.
+
+Dans cette ceuvre,on devine un peintre precurseur des compositions de nature d'Hercule Seghers et de Rembrandt.
+
+## FALENS (Charlesvan)
+
+Anvers 1683-1733.-Fut eleve de FrancoisFrancken.
+
+35 Halte a la fontaine, campagne romaine
+
+Toile,H.:100;L.:135.
+
+## FLORIS (Frans de VRiENT dit)
+
+Anvers 1529-1570.
+
+Le Concert des Muses
+
+34
+
+Toile,H.:62;L.:92.
+
+## FRANCKEN (Frans)
+
+Ne a Herentals en 1524,mort a Anvers en 1616.
+
+35 Jeune femme et son enfant au pied d’un arbre
+
+A droite, au fond, un paysage montagneux avec les constructions d'une ville au bord d'un fleuve.
+
+Cette peinture fut faite d'apres nature pour une Vierge et lEnfant.
+
+Cuivre de forme ronde,H.: 17; L.:17.
+37
+
+## FRANCKEN (Frans)
+
+## 56 Saint Jerome baptisant un prince maure
+
+Paysage de Roeland Savery.
+
+## FYT (Jan)
+
+Nele 15mars 1611,mort le 11 septembre 1661 a Anvers:
+
+## Nature morte
+
+Le peintre a dispose, au-devant d'une colonne, sur une table recouverte d'un tapis bleu sombre,un lievre mort, suspendu par une patte, des perdrix et une corbeille de poires et de raisins.
+
+Toile,H.:75;L.:85.
+
+Mort a Londres vers 1658.-Fut recu maitre a Anvers en 161o et nomme gardien des tableaux de CharlesI d'Angleterre en 163o.
+
+## GELDORP(Georg.)
+
+## 58 Portrait de Sebastien Hamer
+
+A droite, on voit les armoiries du personnage, avec au-dessous: 1612 et au-dessous,l'inscription:
+
+Sebastian frey. Hamor Seines Alter sz.34 Jare
+
+Toile,H.: 1121/2;L.:165.
+
+Toile,H.:461/2;L.:37 1/2.
+
+## GRIFF ou GRYEF (Adriaen)
+
+Anvers 167o-1715.-Eleve de Snyders.
+
+39 Chien fairant du gibier a plumes, abandonne sur le sol
+
+Pendant du suivant.
+
+Panneau, H.: 16; L.: 17 1/2.
+42
+
+45
+
+## GRIFF
+
+## 40 Chien gardant du gibier a plume et guettant
+
+## une proie, la tete levee
+
+Panneau,H.:15 12;L.:18
+
+Pendant du precedent.
+
+## HAMILTON (Van)
+
+Ne a Bruxelles, fls de Jacques.
+
+41 Coq vivant, gibier mort et tete de jeune cerf dans un paysage
+
+Pendant du suivant.
+
+Panneau,H.:19 1/2;L.:26 1/2.
+
+## HAMILTON (Van)
+
+## La hure de sanglier
+
+Pendant du precedent.
+
+Panneau, H.: 19 1/2;L.:27
+
+## HARDIME (Pieter)
+
+Anvers 1678-1758.-Eleve de son frere Simon.
+
+Fleurs dans un vase
+
+Signe a droite, en bas : P. Hardime f. 1728.
+44
+
+## HERREBOUT(David)
+
+Malines,1603.
+
+## Dans I'Etable
+
+Au milieu, un berger tient un flageollet;il a pres de lui une jeune femme accroupie,qui lui tend une des pommes qu'elle a prise dans son tablier.A gauche, on apercoit une vache et des brebis, a cote de la femme,un chien, et au fond,un metier de tisserand.
+
+Signe a droite,en bas:D.Herrebout fecit.
+
+seul qu'on connaisse de lui.
+
+Toile,H.:471/2;L.:60.
+
+C'est la un imitateur de David Teniers le jeune, si lon en juge par ce tableau,le
+
+Le Niederlandisches Kinstler-Lexicon nomme un Maximilien Herregouts, collections publiques et privecs et dans le commerce.
+
+Peut-etre ce Herregouts est-il le meme que le Herrebout de la collection Delaroff. C'etait certainement un peintre habile et lon est fonde a se demander s'il n'y a pas bon nombre de Herrebouts parmi les Teniers non signes qui se trouvent dans les
+
+## HOREMANS (Jan le Vieux)
+
+Ne a Anvers en 1682,mort dans cette ville en 1759.
+
+45
+
+## L'Atelier du Cordonnier
+
+Le vieux cordonnier est dans son atelier avec sa famille et ses apprentis. A gauche,une cliente entre. Contre le mur, de vieilles chaussures sont accrochees. Le patron, au milieu, est en train de marteler un cuir. Des chaussures sont entassees au pied de son billot.
+
+Toile,H.:48; L.:58.
+
+## HUYSMANS de MALINES (Corneille)
+
+Ne a Anvers en 1648,mort en 1727, fut eleve de Gaspard de Witte.
+
+46 Le Bois cher aux sorcieres, pres des ruines : effet de soleil couchant
+
+Toile, H.:47 1/2; L. :63.
+47
+
+## JORDAENS (Jacob)
+
+Ne a Anvers en 1593,mort en 1678.
+
+## L'Enfant endormi
+
+L'enfant est endormi, gras et dodu, sur les genoux de sa mere,et celle-ci fait jaillir de son corsage ouvert son sein nourricier qu'elle va porter aux levres de l'enfant. Une jeune fille, apparue dans la demiteinte,et un autre enfant, couronne de feurs, s'amusent a voir les gouttes de lait gicler sur le visage du petit endormi.
+
+Toile,H.:951/2;L·:80 1/2.
+
+## JORDAENS (Jacob)
+
+- 48 Esquisse pour  la gravure d'une these de Francois-Philippe de Montmorency,au college des Jesuites de Bruxelles, 1635
+
+Toile,H.:165;L.:1101/2.
+
+## KESSEL (Jan van I)
+
+Baptise a Anvers en 1626,mort dans cette ville en 1679.Eleve de son oncle
+
+Brueghel de Velours et de Simon de Vos.
+
+- 49 Poissons et batraciens s'ebattant parmi
+- des roseaux
+
+50
+
+Cuivre,H.:18;L.:23.
+
+## LOYBOS (Sebastianus)
+
+Travaillait entre 167o et 1693.
+
+La Rixe au cabaret
+54
+
+## MEULENER ou MEULENAER(Pierre)
+
+Anvers 1602-1654.
+
+51 Combat de cavalerie pres d'un pont
+
+Toile,H.:101;L.:134
+
+## MEULENER ou MEULENAER (Pierre)
+
+52 Campement de cavalerie
+
+A droite, en bas, on lit encore un reste de signature: Meule...
+
+Panneau,H.:36;L.:48.
+
+## MEULENER ou MEULENAER (Pierre)
+
+53 La Bataille et l'attaque du convoi
+
+A gauche,en bas, on voit une lettre A.
+
+Toile, H.: 55 1/2;L.:72
+
+## MEULENER ou MEULENAER (Pierre)
+
+Combat de cavalerie
+
+Signe a droite,en bas: J.P. Meulener, i65o. Les deux premieres lettres formant monogramme.
+
+Toile,H.:68;L.:98.
+
+## MEULENER ou MEULENAER (Pierre)
+
+55 Combat de cavalerie et d'infanterie
+
+A gauche,un fort parti de cavalerie lutte desesperement.A droite, la troupe d'infanterie lutte egalement a coups de lance et de mousqueton.
+
+Panneau, H.: 51; L.:87.
+## MOMPER (Josse de)
+
+Ne a Anvers en 1564,mort en 1635?
+
+## Cavaliers pres d’un chateau dans unsite
+
+## 56 montagneux
+
+Les chevaux sont probablement de Pierre Snayers.
+
+Toile,H.:471/2;L.:92.
+
+## MOMPER
+
+Figures deVan deVelde.
+
+- Paturage et village en ruines, au pied
+
+Toile,H.:108;L.:139.
+
+## NEUFCHATEL (Colyn) ou Nutzschideel, ou Nieucastel, ou Lucidel
+
+Mons,1550-1600.
+
+- 58 La femme au collier et a la ceinture d'or
+
+Toile,H.:681/2;L.:601/2.
+
+## NOLLEKENS (Joseph-Francois)
+
+Anvers, 17o6-1748. Fut eleve de Pierre Tillemans.
+
+- 59 Fumeurs jouant aux cartes dans une etable
+- 57 de la montagne
+61
+
+## NOLLEKENS
+
+## 60 La Brouette de choux et de legumes dans 1l'étable
+
+Signe a droite vers le milieu, sur une traverse de bois : J. Nollekens.
+
+Toile,L.:64;H.:561/2.
+
+## OOSTEN (Isaak van)
+
+Ne a Anvers, en 1613,mort dans la meme ville,en 1661.
+
+## L'Entree d’un village
+
+Le long de la route, bordee de grands arbres, derriere lesquels on apercoit des chaumieres, des cavaliers chevauchent et des paysans se livrent a leur besogne coutumiere.Au fond,a gauche,a lendroit ou la route rencontre un autre chemin de traverse, on apercoit une maisonnette en contre-bas, puis,au loin,une ville dominee par le clocher d'une eglise.Au premier plan, a droite,un bonhomme a arrete sa charrette attelee d'un cheval blanc pour remettre un panier a une paysanne, en jupe et corsage rouge.
+
+Signea droite:I.V.O.fecit.
+
+Ily a des tableaux de ce peintre, dans la galerie Liechtenstein,a Vienne (Paradis terrestre),au Musee d'Orleans,et dans des collections privees d'Anvers.Peintre tres rare selon Iopinion de M. Woermann (Geschichte der Malerei, T.III; p.395).
+
+Panneau,H.:25 1/2; L.:42.
+
+## PATENIER ou PATINIR Joachim de)
+
+## (Ecole de)
+
+## Saint Gerome
+
+62
+
+Il est agenouille devant un crucifix plante en terre, ayant a cote de lui le lion symbolique. En face de lui,un moine est également agenouille. Au fond, entre des roches qui forment un defile,on apercoit une ceinture de montagnes entourant une plaine.
+
+Panneau,H.27;L.:18 1/2.
+## 64
+
+## PEETERS(Bonaventure)
+
+Ne a Anvers en 1614, mort en 1652.
+
+## 63 La tour, au haut de la falaise, battue par une
+
+## mer dechainee
+
+Panneau,H.:46;L.:721/2.
+
+## PEETERS(Bonaventure)
+
+## Ville fortifiee au bord de la mer
+
+Au milieu,la ville construite sur la hauteur dresse ses tours et son beffroi vers le ciel clair, ennuage. La mer entoure la presqu'ile et, a
+
+Au premier plan,en dehors de la ville et sur un sol mouvemente et herbeux, des bergers font paitre leurs troupeaux de moutons. La plage est animee de nombreuses figures.
+
+droite, des fregates sont a l'ancre.
+
+Signe au milieu sur le terrain:B.-P., 1645.
+
+## PEETERS(Gillis)
+
+Panneau,H.:37;L.:69.
+
+Ne en 1612 a Anvers,mort en 1653 dans la meme ville.
+
+## Paysage
+
+65
+
+Tout le devant du tableau est occupe par une eau mouvementee. A droite, sur le rivage, un edifice qui ressemble a une forteresse. A gauche, quelques bateaux a foin sont amarres.
+
+Toile,H.:59; L.:81.
+99
+
+## POURBUS (Francois)
+
+(Ecole de)
+
+Bruges, 1545-1581.
+
+## Portrait d’un poete
+
+A gauche en haut, on lit :
+
+Etatis XxVII
+
+Anno MDXCII
+
+67
+
+Toile,H.:77;L.:631/2.
+
+## RYCKAERT(David)
+
+Anvers,1612-1661.Fils et eleve de David le Jeune.
+
+## L'Echoppe du bottier
+
+Le vieux, sa femme et son apprenti sont en train de travailler a gauche, tandis que dans le fond, a droite, deux jeunes garcons font une partie et boivent.
+
+Toile,H.:49;L.:63.
+
+## SAVERY(Roeland)
+
+Ne a Courtray en 1576,mort a Utrecht le25fevrier 1639.
+
+## Chasse au Sanglier
+
+68
+
+A gauche, un sanglier, qui a terrasse deux chiens, est harcele par quatre autres, tandis qu'au loin deux autres sangliers sont poursuivis par des chiens et des chasseurs. On apercoit des chamois sur des rochers, et des perroquets multicolores dans les airs.
+
+En bas,a droite, sur une poutre,on releve les restes de la signature:Roeland Sa..
+## SCHEVAERDTS(Mathieu)
+
+Peintre de lecole famande du dix-septieme siecle.Ne en 1665,travaillait a Bruxelles.
+
+69
+
+## Sur le chemin du marche
+
+A l'endroit ou les betes paissent, chevres et vaches,le chemin passe que suivent les campagnards se rendant au marche. ll y en a tout un cortege defilant entre de grands arbres. Au fond, dans la campagne mouvementee,il y a a gauche une chasse au faucon et.a droite, une chasse a courre.
+
+Signe a droite, en bas:M. Schcevaerdts.
+
+Cuivre,H.:25;L.:30.
+
+## SCHCEVAERDTS (M.)
+
+70
+
+## Les plaisirs de 1'hiver
+
+Au bord d'un canal glace, de chaque cote duquel se trouvent les maisons d'une ville, il y a une grande circulation de tres elegants traineaux atteles de chevaux blancs. Les patineurs se melent aux traineaux. Les arbres sont poudres de givre.
+
+Signe a droite,en bas:M. Schovaerdts.
+
+Cuivre,H.:25;L.:30.
+
+## SCHEVAERDTS(M.)
+
+71
+
+Chariot traversant un gue
+
+H.:301/2;L.:431/2.
+
+## SNYDERS (Francois)
+
+Anvers, 1579-1657.Fut eleve de P. Brueghelle jeune et de Henri Van Balen.
+
+72
+
+## Chien de chasse
+
+Il est vu de profil a gauche, les crocs aceres, guettant une proie.
+
+Toile,H.:72:L.;98.
+75
+
+75
+
+76
+
+## SNYDERS(Francois)
+
+(Attribue a)
+
+Le fauconnier galant
+
+Toile,H.:38 1/2;L.:50.
+
+## SON (Jorisvan)
+
+Ne a Anvers en 1623,mort dans cette ville en 1667.
+
+74 Raisin, citrons, cerises et verre sur une table
+
+Panneau,H.:29;L.:40
+
+## TENIERS le Vieux (David)
+
+Ne a Anvers en 1582,mort en 1649.Eleve de Elzheimer.
+
+Le laboratoire du chimiste
+
+Toile,H.:40;L.:561/2.
+
+## TENIERS (le Jeune David)
+
+Ne aAnvers en 161o,mort a Bruxelles,le 25 avril 1690.
+
+La Tentation de Saint Antoine
+
+Le saint est entoure de monstres a figures gnomiques;il a les mains jointes et regarde les grimaces faites autour de lui, avec une severité non depourvue de bonhomie.
+
+Cuivre,H.:12;L.:9 1/2.
+77
+
+## TENIERS Ie Jeune (David)
+
+Le Rieur
+
+Il est assis de trois quarts, les bras croises et riant de toute la largeur de sa large bouche.
+
+Signe a gauche, en haut du monogramme D.T.
+
+Panneau,H.16;L.:12.
+
+## TENIERS le Jeune (David)
+
+78 Une vieille paysanne, un verre a la main
+
+Panneau,H.:13;L.:10.
+
+## TENIERS le Jeune (David) (Ecole de)
+
+Fumeurs
+
+79
+
+80
+
+Toile,H.:53;L.:491/2
+
+## TENIERS le Jeune (David)(Ecole de)
+
+Auberge a l'entree du village
+
+A gauche, devant l'auberge, des hommes et des femmes sont assis, achevant de traiter leurs affaires au retour du marche, dont on voit au premier plan les emplettes, legumes et betes.A droite, des constructions dont les murs de briques ont des harmonies chaudes sous la lumiere du ciel bleu ou chevauchent des nuees blanches. Au fond,a gauche, sur le chemin, borde de chaque cote par les chaumieres, un berger s'en vient, conduisant un troupeau de moutons. Du meme cote, au premier plan, une femme est appuyee contre la margelle d'un puits.
+
+Toiie,H.:83;L.:111
+81
+
+## TYSSENS (August)
+
+1662-1722.
+
+## Le Repos de la Sainte Famille
+
+Signe a gauche, sur une pierre :A. Tyssens f.
+
+## VENIUS (Otto)
+
+Ne en 1556, mort en 1629.
+
+## Le triomphe de la foi
+
+La barque portant la foi traverse les flots et autour de lesquif qui la porte se trouvent les bannieres votives. Les seraphins dans la nue soufflent la brise puissante qui la fera avancer. Autour, on apercoit les figures et les monstres marins symbolisant le culte payen et, dans une plaine, toute une serie de personnages symbolisant les luttes qu'il faudra livrer pour la conquete defnitive. Au fond, dans le soleil qui se couche, la silhouette d'une ville.
+
+Toile, H.:177;L.:132 1/2.
+
+## VERDUSSEN (Jan-Pieter)
+
+Anvers,mort en 1763
+
+83 Les vendeurs de poissons au bord de l'eau
+
+Toile,H.:187;L.:241.
+
+## VRANCX ou FRANCKEN (Sebastiaen))
+
+Ne a Anvers en 1573,mort en 1647.
+
+Cavaliers faisant la manoeuvre dans la campagne
+
+Panneau,H.:49;L.:6o 1/2.
+
+Toile,H.:66;L.:851/2.
+
+84
+87
+
+88
+
+## VRANCX ou FRANCKEN (Sebastiaen)
+
+85 La passerelle au-dessus du vallon
+
+Panneau,H.:63;L.:47 1/2.
+
+## VRANCX ou FRANCKEN (Sebastiaen)
+
+86 Combat de mousquetaires et d'arquebusiers
+
+Au milieu, sur un pli de terrain, un gibet auquel se balance un pendu.
+
+Panneau, H.:32;L.:42.
+
+## ECOLE FLAMANDE
+
+Seizieme siecle.
+
+Le paiement de la dime
+
+Toile,H.:94;L.:142.
+
+## ECOLE FLAMANDE
+
+Seizieme siecle.
+
+Portrait d'homme
+
+Derriere,on lit sur le panneau:Anno 1591.
+
+Panneau,H.:39;L.:28.
+
+## ECOLE FLAMANDE
+
+Commencement du dix-septieme siecle.
+
+## La Foire a Bruges
+
+89
+
+Sur la place, les forains se sont installes en meme temps que les marchandes de legumes et de dinanderie,et le populaire s'en vient en foule visiter les boutiques et ecouter les boniments des bateleurs. Au fond,les constructions de la ville dominee par les clochers.
+
+Cuivre,H.:541/2;L.:661/2.
+## ECOLE FLAMANDE
+
+Dix-septieme siecle.
+
+## 90 Venus, accompagnee de IAmour, chez Vulcain
+
+Date, en bas a gauche : 1661.
+
+Toile,H.:46;L.:68.
+
+## ECOLE FLAMANDE
+
+|    | Dix-septieme siecle.                                    |
+|----|---------------------------------------------------------|
+| 92 | Vase de feurs Toile,H.:461/2;L.:361/2.                  |
+| 95 | Danse rustique au bord de l'eau Toile,L.:74;H.:130 1/2. |
+94
+
+## ECOLE FRANCAISE
+
+## BOILLY(Louis-LeopoId)
+
+La Bassee,1761-1845.
+
+Portrait presume de l'artiste
+
+Il est represente jusqu'a la poitrine de trois quarts a droite,en habit bleu fonce ouvert sur un gilet blanc. ll a la figure rasee et les cheveux gris.
+
+Panneau,H.:16;L.:13.
+
+## BOILLY(Louis-Leopold)(Attribue a)
+
+- 95 Le vieux chansonnier et la savoyarde a la marmotte
+
+Panneau,H.:44; L. :33 1/2.
+
+## BOUCHER(Francois)
+
+(Copie ancienne d'apres)
+
+Venus et l'Amour
+
+96
+66
+
+100
+
+## CHERON (Elisabeth-Sophie) (Attribue a)
+
+(1648-1711).
+
+## 97 La Comedie lyrique, composition decorative
+
+Toile,H.:53；L.:65.
+
+## COURTOIS (Jacques, dit le Bourguignon)
+
+98
+
+Ne a Saint-Hippolyte en 1621,mort en 1676.-Eleve de son pere.
+
+## Combat de cavalerie
+
+A gauche, les cavaliers en armure se battent et plusieurs deja mordent la poussiere. A droite et au loin, la bataille se continue. Au fond, du meme cote, une montagne apparait bleue sous lambiance du ciel clair.
+
+Toile,H.:42;L.:641/2.
+
+## CREPIN (Louis-Philippe)
+
+Ne a Paris en 1772,mort dans la meme ville en 1851.
+
+Paysage italien avec figures
+
+Toile,H.:55;L.:74
+
+## DAVID (J.-Louis)
+
+(Ecole de) Paris, 1748-1825.
+
+La jeune fille au madras rouge
+
+Toile de forme ovale,H.:51; L.:44
+102
+
+## DELERIVE(Albert)
+
+Fin du dix-huitieme siecle.
+
+## 101 Portrait equestre d'un chef d'armee
+
+## (Pierre le Grand)
+
+Signe a gauche,en bas:A. Delerive.
+
+Panneau,H.:56;L.:40 1/2.
+
+## DROLLING (Martin)
+
+Ne a Oberhergheim (1752-1817).
+
+Le Four
+
+La boulangere chauffe son four et son gamin ramasse un fagot qu'il va lui passer. La lumiere entre vivement par une petite fenetre ouverte.
+
+Panneau,H.:32;L.:27.
+
+## FAVRAY (Antoine, le chevalier de)
+
+Ne a Bagnolet(Seine) en 17o6,mort a Malte en 1791.
+
+Une maltaise
+
+Toile, H.:70; L.:53.
+
+## GERARD (Baron Francois)
+
+(Ecole du)
+
+Ne a Rome en 177o, mort en 1837.-Fut eleve de Brenet et de David.
+
+104
+
+L'Amour
+
+105
+105
+
+108
+
+## LEPICIE (Nicolas-Bernard)
+
+Ne a Paris en 1735,mort en r784,eleve de C.Van Lo0.
+
+## Le petit chanteur au luth
+
+Panneau,H.: 41; L.: 37 1/2.
+
+## LoO (Jean-Baptiste van-)(Attribue a)
+
+106
+
+Esquisse.
+
+107
+
+De trois quarts a gauche, le masque aux tons vifs dans l'encadre-
+
+1684-1745.
+
+L'Assassinat
+
+## MIGNARD (Pierre)
+
+Ne a Troyes en 161o,mort en 1695.
+
+## Tete de gentilhomme
+
+ment de la perruque souple, une cravate blanche nouee autour du cou.
+
+Toile,H.:45 1/2;L.:38.
+
+## NATOIRE (Attribue a)
+
+## Silene
+
+Silene, a livresse beate, s'est laisse choir au pied d'un arbre et des nymphes souriantes autour de lui viennent jouer avec gaminerie.
+
+Toile,H.:48;L.:65.
+
+Toile,H.:85;L.:62.
+111
+
+112
+
+115
+
+## OUDRY (J.-B.) (Ecole d')
+
+## 109 Poules effrayees par un chien et un aigle
+
+Pendant du suivant.
+
+## OUDRY (J.-B.)
+
+I(Ecole d')
+
+## 410 Chien venant de capturer un canard sauvage
+
+Pendant du precedent.
+
+Toile,H:361/2;L.:38.
+
+## PILLEMENT (Jean)
+
+Ne a Lyon en 1728,mort en 1808.
+
+La Cascade
+
+Toile,H:59;L.:811/2.
+
+## POUSSIN (Nicolas)
+
+(Ecole de)
+
+Sainte Famille
+
+Toile,H.:36;L.:38.
+
+Toile,H.:61;L.:48.
+
+## SWEBACH dit FONTAINE Jacques-
+
+Francois-Joseph)
+
+Nea Metz en 1769, mort a Paris en 1823.
+
+Halte au camp
+
+Panneau,H.:32 1/2;L.:39 1/2.
+114
+
+## SWEBACH le fils (Edouard)
+
+1800-1870.
+
+## Les guides rouges
+
+Signe a droite, en bas : Ed. Swebach,1819.
+
+Toile,H.:27 1/2;L.:42.
+
+## VERNET (Claude-Joseph)
+
+Eleve de son pere et de Manglard. -Ne a Avignon en 1714, mort en 1789.
+
+115
+
+La reparation de la Galere
+
+Toile,H.:351/2;L.:61.
+
+## VERNET (Joseph)
+
+116 Paysage de mer aux temps antiques
+
+Ouvre de la premiere maniere du maitre et dans le style de Claude Gellee. Toile,H.:73;L.:92.
+
+## Mme VIGEE-LEBRUN
+
+(Ecole de)
+
+Laura et sa compagne
+
+Toile, H.: 60 1/2; L.:70.
+
+## ECOLE FRANCAISE
+
+Deuxieme moitie du seizieme siecle.
+
+Le jugement de Salomon
+
+Toile,H.:61; L.:46 1/2.
+
+117
+
+118
+
+Esquisse.
+119
+
+## ECOLE FRANCAISE
+
+Fin du dix-huitieme siecle.
+
+## Le defenseur du Roy
+
+## (Portrait presume de Malesherbes)
+
+Il est represente debout en robe noire et rouge, a la barre drapee aux armes du roi. Il parle, la tete tournee de trois quarts a droite,la main droite levee.
+
+Esquisse.
+
+120
+
+121
+
+122
+
+Toile, H.:3o;L.:22.
+
+## ECOLE FRANCAISE
+
+Fin du dix-huitieme siecle.
+
+Episode de l'histoire romaine
+
+Toile,H.:27;L.:42.
+
+## ECOLE FRANCAISE
+
+Dix-huitieme siecle.
+
+Le Portique
+
+Composition decorative.
+
+Toile, H. :68 1/2; L.: 57.
+
+## ECOLE FRANCAISE
+
+Dix-huitieme siecle.
+
+La nymphe surprise
+
+Toile,H.:60;L.:98.
+125
+
+## ECOLE FRANCAISE
+
+Dix-huitieme siecle.
+
+Ariane et Bacchus
+
+Toile,H.:68；L:811/2.
+## ECOLE HOLLANDAISE
+
+## AALST (Willem van) ou AELST (dit Guilliemo d'Orlanda)
+
+Ne a Delft en 1626,mort a Amsterdam vers 1683.
+
+124 Gibier et carnassiere dans un paysage
+
+Toile,H.:751/2;L.:641/2.
+
+## ASCH (Henri van)
+
+Ne a Delft en 16o3, enterre dans la meme ville en 1678.
+
+Petite ville sous de grands arbres
+
+125
+
+Dans la campagne qui precede la ville, plusieurs cavaliers circulent a droite et a gauche.
+
+Panneau,H.:57.;L.:100.
+
+## BACKHUYSEN (Ludolf)
+
+Ne a Embden(Westphalie) en 1631,mort a Amsterdam en 1708.
+
+126 Sloops de peche par une mer agitee
+127
+
+## BACKUYSEN (Ludolf)
+
+Le Coup de Vent
+
+La barque a voile est fortement secouee sur la vague blanche d'écume. A gauche, on apercoit une fregate et a droite un autre voilier. Le ciel est gris, marque de quelques vols de mouettes.
+
+Panneau,H.:43;L.:5.
+
+128
+
+## BELAU (Nicolas)
+
+La partie de cartes
+
+Signe a droite, en bas : Ne. B.
+
+Toile, H.:48; L. :56 1/2.
+
+## BERGEN ou BERGHEN de HAARLEM
+
+## (Dirck ou Theodore van den)
+
+Ne a Haarlem en 1345,mort vers 169o. Fut eleve d'Adriaen van de Velde.
+
+129 Jeune patre endormi pres de ses vaches
+
+Derriere lui, dans la campagne, on apercoit un cheval blanc,puis une chaumiere.
+
+130
+
+Toile,H:36;L.:40.
+
+## BERGEN (Nicolas van)
+
+6691-0291
+
+Paysage d'Italie
+
+Bergers et pastoures conduisant leurs betes,dans un site montagneux.
+
+Toile, H.:71; L.:89.
+
+## BLOEMAERT(Abraham)
+
+Ne a Gorcum en 1567,mort a Utrecht en 1651,fils de Corneille le Vieux.
+
+Le Christ martyrise
+
+131
+
+A droite en bas, on apercoit les initiales B. L.
+132
+
+## BLOOT(Pieter de)
+
+Ne a Rotterdam en 16or,mort dans la meme ville le 9 novembre 1658.
+
+## Scene d'Interieur
+
+Autour d'une table sont assis trois hommes et une femme. L'un des hommes fume,un autre leve son verre;le troisieme caresse la femme. A gauche, derriere le groupe,un personnage boit, tandis qu'un autre joue de la clarinette.A droite, un ivrogne se croit au vomitorium des romains, cependant qu'un porc en tire son parti.
+
+Panneau,H.:34;L.:391/2.
+
+## BOTH (Jean)
+
+Ne a Utrecht en 16io, mort cn 1652. Fut, avec son frere Andre, eleve de son pere et de A.Bloemaert.
+
+## 153
+
+## Etude de paysage italien
+
+Au premier plan,a droite, sur une colline,un patre a mene son troupeau pres duquel on apercoit une femme sur un ane,un homme et un chien.Au second plan,une montagne, des arbres et un edifice en ruines ferme l'horizon de ce paysage baigne dans une lumiere blonde delicieuse.
+
+Panneau,H.:29;L.:37.
+
+A Pavlovsk,pres de Saint-Petersbourg,dans la Galerie du Grand-Duc Constantin se trouveun tableau deJean Both,identique,quant a la facture,a ce tableau de lacollection Delaroff,et representant le Ponte Salario sur Arno,pres de Rome. Tableau d'une authenticite indiscutable et portant la signature entiere du peintre.
+
+## BOTH (Andre)
+
+Ne vers 161o a Utrecht,mort dans cette ville vers 165o.
+
+## Paysage Italien
+
+134
+
+Dans un paysage montagneux, une petite passerelle est jetee a droite au-dessus du lit d'un torrent dont on voit les eaux limpides sourdre en cascades entre les roches. Par cette passerelle, un bouvier vient de
+faire passer son troupeau.Au premier plan,a droite,un homme a pied conduit un ane sur le bat duquel une femme est assise. Vers le milieu, au bord de l'eau, deux pecheurs sont occupes, dont l'un tient un carrelet.Vers la gauche, de l'autre cote d'un massif d'arbres,on apercoit la vallee, fermee au fond par une montagne.Le ciel est clair.
+
+Signe a gauche,a un quart de la hauteur : Both. F.
+
+Panneau,H.:78;L.:12.
+
+## BRAKENBURGH (Richard)
+
+Ne etmort a Haarlem 165o-1702.
+
+## 155 Dalila coupant les cheveux de Samson
+
+Panneau,H.:45;L.:67 1/2.
+
+## BRAMER (Leonard)
+
+Ne a Delft en 1596,mort dans la meme ville, apres 1667
+
+## 136 Judith montrant au peuple la tete d'Holopherne.
+
+## Effet de nuit
+
+Panneau,H.:45;L.:451/2.
+
+C'est la un des plus beaux tableaux de ce maitre inegal,mais plein d'un talent personnel.
+
+## BRAMER(Leonard)
+
+## 137 La priere du roi devant les tables de la loi
+
+On lit en bas, a droite, la date 1643.
+
+Panneau,H.:104; I.76.
+158
+
+## BRAMER(Leonard)
+
+## Saul chez la sorciere
+
+C'est la realisation plastique de ce passage du Livre de Samuel, chap. xxvIII :
+
+- Et Saul,voyant le camp des Philistins, eut peur, et son cceur fut fort effraye:
+- αEt Saul dit a ses serviteurs :α Cherchez-moi une femme qui ait
+- αl'esprit de Python,et j’irai vers elle,et je m'enquerrai par son
+- moyen de ce qui doit arriver. Ses serviteurs lui dirent: Voila,
+- il y a une femme a Hendor qui a un esprit de Python.
+- αAlors Saul se deguisa et prit d'autres habits,et s'en alla, lui et deux hommes avec lui;et ils arriverent de nuit chez cette femme-la;et Saul lui dit:a Je te prie, devine-moi par lesprit de Python, et fais
+- monter vers moi celui que je te dirai....
+- Et la femme.dit : Qui veux-tu que je te fasse monter? Et il repondit :αFais-moi monter Samuel.
+- Et la femme voyant Samuel, s'écria a haute voix, disant a Saul : Pourquoi m'as-tu trompee? car tu es Saul.
+- Et le roi lui repondit :Ne crains point;mais,qu²as-tu vu? Et la femme dit a Saul :α J'ai vu comme un Dieu qui montait de la
+- terre.
+- 《Il lui dit encore: Comment est-il fait?Elle repondit:C'est un vieillard qui monte,et il est couvert d'un manteau. Et Saul connut que c'etait Samuel et, s'etant baisse le visage contre terre, il se prosterna....
+
+Cuivre,H.:461/2;L.:581/2.
+
+## BRAY (Jan de)
+
+Ne a Haarlem entre 1626 et 1628,mort dans la meme ville a la fin de 1697.
+
+159
+
+## Portrait de Femme
+
+Elle est representee vue de face, les deux mains jointes, tenant une rose. Elle est vetue d'une robe noire, avec un col et des manchettes blanches.
+140
+
+## BREENBERGH (Bartolomee)
+
+Ne a Deventer en 1599,mort avant 1659.Disciple d'Adam Elszeimer.
+
+## Site Romain
+
+A gauche,on apercoit les ruines du Colysee et, a droite, celles des thermes de Titus. Au premier plan, dans un paysage du Campo Vaccino, des patres gardent leur troupeau.
+
+Panneau,H.:51;L.:78.
+
+## BREKELENKAM (Quiryn)
+
+Ne a S.vam.nerdam,pres de Leyde,apres 162o.Mort a Leyde en 1658.
+
+## Le Buveur
+
+141
+
+Il est dans son echoppe,assis de trois quarts a droite, accoude sur son établi et fumant une pipe. Devant lui,une tabatiere, un rechaud a cendre et une crucheen gres.
+
+Panneau,H.:25 1/2;L.:23.
+
+## BURGH (Dionisius Ver ou Van der)
+
+Vecut a Rotterdam, seconde moitie du dix-septieme siecle.
+
+## Paysage
+
+142
+
+C'est un site traverse par une riviere; vue sur une ville avec dome, clochers,maisons a pignons et moulins. Au premier plan,a gauche, une église et son clocher; a droite, une maisonnette entouree d'arbres.
+
+Signe a gauche, en bas du monogramme : D. V. B.
+
+Panneau,H.:22 1/2;L.:321/2.
+
+D'apres Brulliot (t. I, n 879),ce monogramme se trouve sur des paysages dans le gout de Hermann Salfleven.Nagler (Monogrammirten t.II,n° 1422),pense a Corneille
+
+Voir P.de Semenoff :Etudes sur les peintres des Ecoles hollandaise,flamande et neerlandaise,qu'on trouve dans la collection Semenoff et les autres collections publiques et privees de Saint-Petersbourg (1go5,p.39).
+
+Dubois, mais ce nom ne s'applique nullement a lauteur du tableau dont il s'agit ici.
+145
+
+## CAMPHUYSEN (Dirk-Raphaelsz)
+
+Ne a Gorkum en 1586,mort en 1627.
+
+## Le Bois
+
+A lentree du bois, dont les allees pleines d''ombre s'étendent au loin sous les voutes des frondaisons epaisses, un massif d'arbres se dresse, troncs tortures et panaches feuillus, vers le ciel d'azur au- devant duquel s'envolent des nuees blanches.
+
+Signe en bas, vers le milieu : R. C.
+
+144
+
+146
+
+Panneau,H.:33;L.:47 1/2.
+
+## CODDE Ou KODDE Ou CODDEN
+
+(Pieter-Jacobs)
+
+Ne a Amsterdam vers 16oo,mort en 16-8.
+
+Conversation galante
+
+Panneau,H..271/2;L.:21 1/2.
+
+## COOPSE(Pieter)
+
+Travaillait a Amsterdam 1672, mort apres 1677.
+
+## 145 Paysage boise au bord d''une riviere
+
+Au fond a droite, sur le fanc d’une colline, un edifice en ruine.
+
+Signe au milieu,en bas: P. C. 1662.
+
+Panneau,H.:45;L.:641/2.
+
+## CROOS(Pieter van der)
+
+Vivait en 1647 a La Haye et en 1651a Alkmaar.
+
+Barques s'amarrant a une jetee
+
+Panneau,H.:481/2;L.:60.
+147
+
+## CUYP (Aelbert)
+
+Dordrecht 1620-1691.
+
+## Halte d'un cavalier
+
+Au bord d'un feuve,un cavalier montant un cheval bai s'est arrete pres d'un jeune pecheur qui lui propose des poissons; a leur droite,un chien est couche a terre: derriere et au centre, des pecheurs descendus dans l'eau tendent leurs flets, tandis que des marins tirent un coup de feu dans un bateau ancre pres de la rive opposee, ou un long mur et une maison se detachent sur un ciel bleu, dont lhorizon est empourpre par les rayons du soleil.
+
+148
+
+Panneau,H.: o,8o;L.:o.94
+
+Cadre ancien en tois sculpte et dore.-N. B. Cette peinture a ete restauree.
+
+## CUYP (Aelbert)
+
+Ne a Dordrecht en 16o5,mort dans cetteville en 1681.
+
+## Paysage
+
+A droite, le bord escarpe d'une riviere, surmonte d'un moulin.A gauche, vers le milieu, les rives plates bordent la riviere ou quelques pecheurs relevent leur flet. Au fond,on apercoit, dominant les frondaisons, des tours, des clochers et des moulins sous un ciel nuageux.
+
+Panneau,H.:29;L.:421/2.
+
+## CUYP (Aelbert)
+
+- 149 Pecheurs vendant leur poisson sur la plage
+
+Panneau,H.:451/2;L.:65.
+
+CUYP (Aelbert)
+
+(Ecole de)
+
+150 L'arrivee des pecheurs, et baigneurs sur la plage
+152
+
+153
+
+## DEKKER
+
+(Ecole de)
+
+Bord de riviere
+
+A gauche, la riviere sur laquelle glissent quelques barques et au bord de laquelle quelques bateaux a voile sont a l'ancre.A droite,la berge qui monte en pente douce plantee d'un massif d'arbres, puis les murs tasses d'une vieille construction.
+
+Panneau,H.:56;L.:761/2.
+
+## DELEN ou DEELEN (Dirk van)
+
+Ne a Heusden en 16o5,mort a Arnemuyden en 1671. Eleve de F. Hals.
+
+154 Interieur d'eglise de style ogival, avec plusieurs figures
+
+## DEKKER (Cornelis-Gerritsz)
+
+Mort a Haarlem en 1678.
+
+151 Halte de cavaliers a l'auberge, au bord du chemin
+
+Panneau, H. : 3o; L.: 39 1/2.
+
+## DEKKER (Cornelis-Gerritsz)
+
+Les ruines du monastere
+
+Toile,H.:33;L.:43.
+
+Cuivre,H.:20;L.:29 1/2.
+
+Ce peintre executa larchitecture de divers tableaux de Boeyernans, de Dirk Hals, dePieter Codde,dePalamedes,de Wouwerman,etc.
+## DIRVEN (Isaack van)
+
+Travaillait a La Haye vers 1643.
+
+## 155 Poissons et tranches de poissons
+
+## sur une table
+
+Panneau,H.:61 1/2:L.:77 1/2.
+
+## DoW(Gerard)
+
+(Attribuea)
+
+Ne a Leyde en 1613, mort en 168o,fut l'un des eleves les plus illustres de Rembrandt.
+
+## 156
+
+## L'ermite dans sa grotte
+
+Le vieil ascete est assis dans sa grotte un livre ouvert sur ses genoux. Pres de lui, sur une table couverte d'un tapis rouge,il y a une tete de mort,un sablier,un crucifix, un benitier, un chandelier, un in-folio dispose en pupitre, etc.
+
+Toile,H.:60;L.:49
+
+## DOW (Gerard)
+
+(Ecole de)
+
+## 157 La petite menagere
+
+Elle apparait dans sa fenetre, debout pres d'un baquet, dans lequel elle fait de la pate. Pres d'elle une cafetiere renversee et quelques oignons.
+## DROOCHSLOOT (Joost-Cornelisz)
+
+Ne probablement a Utrecht en 1586, mort dans la meme ville, le 14 niai 1666.
+
+158
+
+## Paysage
+
+A droite et a gauche, de grands arbres dressent leurs frondaisons vertes vers le ciel. Au milieu, une large trouee sur l'horizon decouvre la ligne des collines lointaines. Au premier plan, un homme porte des faucons, suivi de son chien, tandis qu'un autre s'allege et qu'un troi- sieme se repose assis.
+
+Signe et date en bas,a gauche : J. C.D.(en monogramme) 1628.
+
+Panneau, H.:26; L.: 40.
+
+Ne a La Haye en 1636,mort en 1695. Eleve de Paul Potter.
+
+## DUCQ (Jean Le)
+
+Les Mousquetaires
+
+Panneau,H.:32;L.:44 1/2.
+
+## EECKouT (G.Van den)
+
+Ne en 1621,mort en 1674.
+
+160 Jesus enfant, au Temple, au milieu des Docteurs
+
+Panneau,H.:54;L.:8r.
+
+## EMONT(Adriaen van)
+
+Visita la France en 165o,fut enterre a Dordrecht en 1662.
+
+## Jesus guerissant un aveugle
+
+161
+
+Dans un paysage, occupe a droite par une tour en ruines, Jesus, accompagne de ses disciples,rend la vue a un aveugle qui a mis un genou en terre devant lui.
+
+159
+
+Panneau, H.:58; L.:76.
+## 162
+
+## EMONT (Adriaen van)
+
+## Agar et Ismael, chasses par Abraham
+
+A droite, une grande construction,flanquee de tours rondes et carrees,se dresse sur la hauteur. Au premier plan, on apercoit, sur le chemin qui descend,Abraham chassant Agar et son jeune fls Ismael.
+
+A gauche, au fond, la vue s'etend sur un paysage montagneux et boise.
+
+Panneau de forme ovale,H.:46 1/2;L.:62.
+
+## FABRITIUS(Bernaert)
+
+En 1657,il se trouvait a Leyde.
+
+## 163 L'Incredulite de Saint Thomas
+
+En bas a droite,une signature en partie effacee avec cette date:1645.
+
+Panneau,H.:461/2;L.:6o1/2.
+
+## GAEL ou GAAL(Barent)
+
+Nea Haarlem vers 162o,mort en 1687 ou1703.Eleve de Wouwerman,il imita pius tard
+
+IsaacetAdriaen van Ostade.
+
+164 Halte a l'auberge au pied d’une vieille tour
+
+H.: 49; L. : 39.
+
+165
+
+## GOYEN (Jean van)
+
+(Ecole de) Leyde,1596-1656.
+
+Bateaux de peche a l'ancre
+## 166
+
+## GROoT (Jan van Junior)
+
+Maitre a La Haye en 1757.
+
+## Les Renards et la poule
+
+Signe a gauche, en bas : Jan V. Grooth junior ,anno 1785, p.
+
+Toile,H.:37;L.:31.
+
+## GRUYTER (I. de)
+
+Travailla a Rotterdam, de 1663a 1689.
+
+## La Vieille tour a l'entree du port
+
+## 167
+
+A gauche, dominant les constructions par ou s'indiquent les travaux fortifies de la ville,la vieille tour se dresse,échelon avance sur la mer du Burg que l'on apercoit sur la montagne au fond.A droite,les fregates a l'ancre se balancent sous le ciel clair. Au premier plan, des embarcations deplaisance s'offrent a desgentilshommeset a de nobles dames pour aller visiter la flotte.
+
+Signe au milieu, sur la muraille la plus rapprochee du bord de la mer :E. Griyter fecit 1663.
+
+Panneau,H.:9o; L.:130.
+
+Ily a des tableaux de ce peintre au Rijks Museum d'Amsterdam (n16) et chez le
+
+Baron Wrangel,a Dresde. Consulter: Oud Holland 19o4,p.112.
+
+## HEEMSKERK(Egbert van)
+
+Ne a Haarlem en 161o,mort dans la meme ville en 168o.
+
+## 168 Le Barbier rebouteux
+
+Un barbier de village, debout, pose un emplatre sur la tete d'un paysan assis.A droite, une grosse femme en capuchon regarde la scene en louchant.
+
+Signe a gauche, en bas, d’un monogramme.
+169
+
+## HEEMSKERK le Jeune (Egbert van)
+
+Haarlem,1645-1704.Eleve de Grebber.
+
+## Le Concert
+
+Dans un interieur villageois les gens se sont installes autour de la table: la femme vetue de noir, de jaune et de rouge,joue du flageolet. Un pichet de gres sert de pupitre a sa musique. Le mari, les bras croises sur la table,s'ebaudit gaiement, tandis qu'une grosse commere dans le fond, debout,et les poings aux hanches, chante a bouche que veux-tu.Dans l'ombre, a gauche,on apercoit deux autres personnages qui prennent leur part de la joie.
+
+Signe a droite,sur la traverse de la table,du monogramme HK.
+
+Panneau,H.:171/2;L.:21.
+
+## HEES (Gerrit van)
+
+Travailla a Haarlem vers 165o.
+
+## 170 Chaumieres au bord du chemin
+
+A droite,les chaumieres sont construites a labri des grands arbres lumiere éclaire a son tournant. Sur le cote du chemin, au premier plan, deux hommes sont arretes l'un assis, l'autre debout vu de dos. Sur le cote oppose, le sol se releve et un massif d'arbres s'y dresse, aux branches depouillees;a gauche, au fond, on apercoit des pres et,plus loin qu'une rangee d'arbres, d'autres chaumieres, sous un ciel chaud.
+
+Panneau,H.:41;L.:581/2.
+
+Ce peintre de Haarlem appartenait a lecole de Jacob Ruysdael. ll y a des tableaux de lui au musee de Haarlem, de IAcademie de Vienne (n 893), de Rennes, de Lille
+
+(n°266).
+
+Consulter:Hofstede deGroot:Repertorium fir Kunstwissenschaft.Tome XxV, 4partie,19o2.Article consacre a Gerrit van Hees: Le tableau de la collection Delaroff est cite a la page3.
+173
+
+## HEYDEN (Jan van der)
+
+2121-291
+
+## Le tambour et le drapeau
+
+Sur une table couverte d'un tapis gris,un tambour autour duquel se trouvent quantite d'objets divers.
+
+Panneau,H.:35;L.:28.
+
+## HONDEKETER(GilleS de)
+
+Anvers r627.
+
+## 172 Les animaux au paradis terrestre
+
+Signe a droite, en bas des initiales: G. DH.
+
+Cadre en bois sculpte.
+
+Panneau,H.:59;L.:101.
+
+## HONDEKETER (Melchior de)
+
+(Attribué a)
+
+Utrecht 1636-1695. Eleve de Weenix.
+
+Coq, poules et poussins
+
+Toile,H.:70;L.:106.
+
+## HONTHORST (Gerrit van), dit Gherardo
+
+## della Notte
+
+Ne a Utrecht en 159o, mort dans cette ville en 1656.Fut eleve d'Abraham Blomaert. Travailla a Londres au palais de Whithall.
+
+174 La partie de cartes chez les courtisanes
+
+Toile,H.:84;L.:103.
+## 175
+
+## HOOFT ou HOET (Jan)
+
+## Maisons et tour en ruine au bord d'une riviere
+
+Signe a droite, en bas: Jan Hooft.
+
+Panneau,H.:44;L.:55.
+
+## HUCHTENBURGH (Jan Van)
+
+Ne a Haarlem en 1646,mort a Amsterdam en 1733.Eleve de Thomas Wyck.Il suivit
+
+176
+
+sirtoutla maniere dePhilipsWouwerman.
+
+## Chasse au Cerf
+
+Toile,H.:55;L.:69.
+
+## JONGH (Ludolf de) dit Lieve de Longh
+
+Ne a Overschie en 1616,mort a Hillegesberg en 1669. Eleve de Salfleven,
+
+177
+
+dePalamedes et deBylert.
+
+## Combat de cavalerie
+
+Deux par deux, ils combattent,mousquetaires et hommes en armures montes sur des chevaux fougueux.Au premier plan,un homme desarme roule sur le sol.
+
+Signe a droite,en bas : J. M.D. Jongh 1633.(Les 2 premieres initiales formant monogramme.)
+
+Panneau,H.:261/2;L.:341/2.
+
+## JONGH (Ludolf de) dit Lieve de Longh
+
+178
+
+## Chasse au Sanglier
+
+Six chiens forcent un sanglier qui vient d'en terrasser un. A droite, un chasseur sonne du cor;a gauche,un cavalier parait, son cheval étant
+a demi-cache par un pli du terrain. A gauche, s'etend un bois aux frondaisons mordorees par l'automne. La tonalite du paysage rappelle ceux d'Aelbert Cuyp.
+
+Panneau,H.:49;L.:651/2.
+
+Comparer cette ceuvre avec une Chasse aurenard,du meme maitre,conservee sous le n°1362au Rijko-Museum d'Amsterdam.
+
+## KLOMP (Aelbert-Jansen)
+
+Ne a Amsterdam en 16i8; disparu le 2o decembre 1688.
+
+## 179 Devant une chaumiere un boeuf debout et deux brebis couchees
+
+Au fond a gauche, de l'autre cote d’une riviere, on apercoit une ville sous un ciel orageux.
+
+Signe a gauche, en bas dans le terrain:Klomp.
+
+Ce peintre, sur qui l'on ne possede aucun renseignement, prend place a cote
+
+Panneau,H.:35;L.:39 1/2.
+
+de Paul Potter et d Aelbert Cuyp, par la vision qu'il a de la nature.
+
+## LAER(Van)
+
+Pierre, dit Bamboch.-Haarlem 1613-1674
+
+## 180 La Halte des chasseurs a la fontaine
+
+Toile,H.: 5o 1/2;L.:72.
+
+## LELIENBERGH (Cornelis)
+
+Inscrit en 1636 comme membre de la Gilde de St-Luc,a La Haye,ou il travailla jusqu'en 1656. 1l vivait encore en 1672.
+
+181
+
+## Gibier mort
+
+Devant un mur jaunatre, sont suspendus a un clou, et attaches par une patte, un canard sauvage et une perdrix. Sur une table, en bas,on a dispose un bouvreuil et un ortolan.
+
+Signe a droite,en bas : C. Lelienbergh f.
+
+Toile,H.:55;L.:431/2.
+## LIN (Hermann van)
+
+Surnomme Stilpeid.Vecut et travailla a Utrecht,de 1659a 1667,a Overmann et a Decan de1668a1670.
+
+## 182 Cavaliers dans une cour d'auberge
+
+Les cavaliers se sont arretes.A droite,au premier plan, deux chiens se desalterent au-devant d'une forge dans laquelle on s'apprete a ferrer un cheval blanc. Au milieu, un cavalier couche caresse un chien. A gauche,un homme a cheval parle a un jeune homme. Au fond, on apercoit divers édifices et une tour carree.
+
+Signe en bas,a droite : H. V. Lin.f.
+
+## LINGELBACH
+
+184 Le chargement des bateaux sur un quai par des bagnards
+
+Signe a gauche, en bas : I. Lingelbach.
+
+Bois,H.:39;L.:51 1/2.
+
+Il fit partie de la confrerie de St-Luc. On trouve des tableaux de lui,a Dresde, Carlsruhe,Munich,Schewerin et Vienne.
+
+## LINGELBACH (Jean)
+
+Ne a Francfort-sur-le-Mein en 1623,mort en 1674.
+
+## 185 Cavaliers a la fontaine
+
+A gauche, des cavaliers menent leurs chevaux boire a la fontaine.A droite,plus loin qu'une colonne a chapiteau corinthien,on apercoit des bateaux a voile.
+
+Toile,H.:72;L.94
+188
+
+## LUNDENS (Gerrit)
+
+Amsterdam 1622-1677.
+
+|   186 | Lavandiere dans une etable   |
+|-------|------------------------------|
+|   187 | Fermiere et sa vache         |
+
+## LUSTIKHUYS (J.)
+
+vivait au dix-septieme siecle.
+
+## Portrait de femme
+
+Elle est representee de trois quarts, a gauche,vue jusqu'a la poitrine; ses cheveux blonds tombent en boucles multiples de chaque cote de son visage rose.Elle porte une ample collerette de batiste blanchebrodee avec deux petits noeuds de ruban.
+
+Panneau,H.:5o;L.:35 1/2.
+
+## LOOTEN (Jan)
+
+Ne a Amsterdam en 1618?Mort dans cette ville en 1681.
+
+## 185 Chemin dans la montagne, paysage boise et figures
+
+Toile,H.:82;L.:83.
+189
+
+## MAES (Nicolas)
+
+Dordrecht 1632-1693.Fut eleve deRembrandt.
+
+## Portrait de femme
+
+Elle est debout, de trois quarts a gauche, en robe rouge decolletee, un manteau marron jete sur l'epaule droite et qu'elle retient de la main gauche, le bras droit appuye sur une console: la figure se detache sur un fond de paysage du soir.
+
+Toile,H.56;L.:45.
+
+## MARCELLiS (Otto) dit de Snuffelaer
+
+1619-1678.
+
+Nature morte
+
+190
+
+192
+
+Signe a droite en bas.
+
+Toile,H.:71;L.:871/2.
+
+## MEYERINGH ou MEYIERING (Aelbert)
+
+645-1714.
+
+## 191 Bergers antiques conduisant leur troupeau
+
+A lentree d'un bois, sur un chemin ensoleille, des bergers vetus a lantique poussent devant eux leurs troupeaux de moutons,de vaches et de chevres. A droite au fond, on apercoit une tour, puis de l'autre cote d'une riviere les constructions d'une ville antique au pied d'une colline.
+
+Signe a gauche, en bas: Meyering fecit.
+
+## MEYERINGH (A.)
+
+Bergers d'Arcadie
+
+Toile,H.:60;L.:84
+193
+
+194
+
+## MIEREVELT (Michel-Jean)
+
+Delft,1567-1641?
+
+## Portrait de femme
+
+Panneau,H.:49;L.:72
+
+## MIEREVELT(Ecole de)
+
+## Portrait d'homme
+
+Il est represente a mi-corps, de trois quarts a gauche, en pourpoint noir a creve blanc. Sa barbe en pointe se dessine sur une fraise a tuyautes souples. Il a les cheveux chatain clair coupes court.
+
+Toile,H.:62;L.:531/2
+
+## MIERIS (Attribue a Guillaume van)
+
+Leyde 1662-1747.Eleve de son pere.
+
+195 Diane decouvrant la grossesse de Callisto
+
+Toile,H.:65;L.:821/2.
+
+## MIERIS (Attribue a Guillaume)
+
+La diseuse de bonne aventure et la jeune princesse
+
+Panneau,H.:42;L.:351/2
+
+196
+## 197
+
+de la Suede,1886,p.98.
+
+## MIGNON (Abraham)
+
+Francfort 164o-1679.Eleve de Jacques Morel et de J.-D. de Heem.
+
+## Fruits dans un decor d'architecture
+
+Toile,H.: 89; L.: 70.
+
+## MOEIJAERT (Nicolaes-Cornelisz)
+
+Ne a Amsterdam avant 16oo,mort dans cette ville apres 1659.
+
+- 198 Bethsabee au bain,recevant par l'entremise d'une vieille femme une lettre de David
+
+Panneau,H.:57;L.:421/2.
+
+Les euvres de ce peintre sont rares.Voir M. Olof Grandberg,les Collections privees
+
+## MOLENAER (Corneille, dit le louche)
+
+Anvers1540-1589.
+
+199 Le Petit cavalier dans le chemin qui monte
+
+Signe en bas,vers la droite, des initiales C.M.
+
+Panneau,H.:18; L.:23 1/2.
+
+## MOLENAER (Jan-Miense)
+
+Haarlem 1600-1668.
+
+Le Barbier rebouteux
+
+200
+
+Au premier plan a gauche, un vieillard assis sur un fauteuil en X montre au rebouteux sa jambe dont celui-ci va panser la plaie. Une
+ration.
+
+Dans le fond a droite une autre femme est en train de couper les cheveux d'un homme dont le vetement est protege par un drap blanc. Au fond,franchissant la porte ouverte, un vieillard apparait le bras en echarpe.
+
+Panneau,H.:17;L.:21.
+
+## MOLENAER (Jan-Miense)
+
+## 201 La Partie de cartes au cabaret
+
+Un tonneau leur tient lieu de table. lls sont trois, assis autour et jouant aux cartes,lhomme a gauche,vetu degris et vu de dos,lhomme a. droite en veste bleu,la tete tournee de trois quarts a gauche,le troisieme de face, la bouche ouverte pour un rire beat. A droite un quatrieme personnage se tient debout assistant a la partie.
+
+Signe a droite en bas,sur le tonneau qui sert de siege:J. Molenaer.
+
+Panneau,H.:27;L.:22.
+
+## MOLENAER (Jan-Miense)
+
+## Le Jouvenceau galant
+
+## 202
+
+Dans une chambre éclairee a gauche,un homme a mine souriante pose son bras gauche autour du cou d'une femme agee, assise a cote le verre de cette aieule. A droite en haut, on apercoit par une fenetre ouverte la tete d'un vieillard.A gauche, sur un tonneau on a depose de lui, tandis que de la main droite, tenant une bouteille,il va remplir une pipe, du tabac, et des charbons allumes dans un rechaud.
+
+Toile,H.:461/2;L.:371/2.
+
+## MOLENAER(Jan-Miense)
+
+## 203 Galanterie macabre
+204
+
+## MOLENAER(Jan-Miense)
+
+## La lecture de la lettre
+
+Dans lintimite du foyer,le vieux, assis,la trogne enluminee, donne aux siens qui l'entourent lecture d'une lettre.Au fond,quelques autres figures dans l'ombre.Au premier plan un chien blanc est couche a cote
+
+Panneau,H.:29 1/2;L.:29.
+
+## MOLYN (Pieter)
+
+Ne a Haarlem vers 1637,mort en 17o1.
+
+## Paysage
+
+de son maitre.
+
+205
+
+A gauche, trois arbres entrelaces;au milieu,une cabane,et a droite, vue sur une plaine que traversent deux carrioles. Au premier plan on apercoit un homme agenouille,une femme et un enfant.
+
+Panneau,H.:38;L.:581/2.
+
+## MOLYN (Pieter)
+
+## 206 Entree de Bois sous la neige
+
+Au milieu un chemin que suivent trois personnages, le dos voute, frileusement :a droite et a gauche du chemin, des remblais du sol, de vieux troncs de saules, de grands arbres aux branches denudees et des chaumieres, le tout couvert de neige sous un ciel lumineux, au devant duquel s'envolent de grandes nuees.
+
+Signe a droite, en bas : Molyn.
+
+Panneau,H.:231/2;L.:20 1/2.
+Signe en bas : H. van Myn.
+
+Toile,H.:48;L.:40.
+
+NEER(Aert van der,) (Ecole de)
+
+Amsterdam 1603-1677.
+
+210 Effet de lune sur un village au bord de la riviere
+
+Panneau,H.:35;L.:48 1/2.
+
+## MOLYN
+
+## Le Coup de vent
+
+Le vent souffe, les arbres sont penches; dans le ciel nuageux la tempete se prepare; et sur le chemin qui passe au pied ducoteau,un homme et une femme suivis de leur chien marchent peniblement,luttant contre la bourrasque.
+
+Signe en bas,a gauche: Molyn.
+
+Panneau,H.:25;L.:35 1/2.
+
+## MURANT(Emmanuel)
+
+Ne a Amsterdam en 1622,mort en 1700.
+
+208 Cavalier et levrier sur un chemin qui descend
+
+Au fond a gauche un burg fortifie,entoure d'eau.
+
+Panneau,H.:43;L.:54
+
+## MYN (Herman van der)
+
+Amsterdam 1634-1741.Fut eleve de Steuven.
+
+209 Poires, raisins, peches et abricots sur un coin de console
+211
+
+## NERL (Jacob van)
+
+## L'arbre mort
+
+Signe a droite en bas : Jacob v. Nerl 1737.
+
+Panneau de formule ovale, H.: 19; L.: 26.
+
+## NICKELE ou NIKKELEN (Isaak van)
+
+Vivait au dix-septieme siecle.
+
+## Interieur d'une cathedrale
+
+212
+
+C'est une nef laterale qui recoit un vif rayon de lumiere, et ou des personnages se saluent.
+
+Toile,H.:35;L.:30.
+
+Vivait vers 1648,d'apres Nagler(Kinstler Lexicon,t.X,p.442.)
+
+## OVERF (Pieter van)
+
+## Nature morte
+
+213
+
+Sur une table recouverte d'une draperie grise, on a depose six petits oiseaux morts et trois peches dont une ouverte.
+
+Signe sur le fond,presque au milieu du tableau et sur la gauche:P. V. Overf.
+
+Panneau,H.:28; L.: 40.
+
+Voir Fussli (Allgeheimes Kinstler Lexicon,1779, t. I,p.471.)
+
+## PALAMEDES (Antoine)
+
+Ne a Delft 1646.
+
+## Reunion galante
+
+214
+
+Autour d’une table,des gentilshommes sont assis en compagnie de dames aimables. Au premier plan il en est un qui caresse le menton
+d'une jolie personne blonde et ne s'apercoit pas qu'un gamin est en train de le voler sous l'oeil attentif d'une femme qui se fait sa complice: pendant ce temps,un homme debout,en toque rouge,multiplie les trilles de sa flute. A droite, dans une cour, on apercoit une commere qui chasse un gamin a grands coups de balai.
+
+215
+
+216
+
+Toile,H.:60;L.:841/2.
+
+## PALAMEDES (Antoine)
+
+Le Bal
+
+Panneau,H.:35;L.:43.
+
+## POEL(Adriaen van der)
+
+Une cour de Ferme
+
+Au milieu, pres d'un arbre depouille, une femme tire de l'eau d'un puits. Sur le sol,a droite et a gauche, des ustensiles de menage sont jetes, au milieu desquels on voit des poules, des canards et un chien couche.
+
+Signe a gauche,en bas:A.V. Poel.(Les trois premieres lettres forment mono- gramme).
+
+Panneau H.:26;L.:33.
+
+Ne on ne sait ou,en 1634 ou 1635,enterre a Leyde en 1685 ou 1686. Depuis 1656,des documents le signalent comme residant a Leyde.Peut-etre ne fut-il qu'un peintre amateur,puisque,en 1676 il fut nommebrandewynverkooper (marchand d'eaude-vie) a Leyde. Ses tableaux sont rares si l'on en croit une communication de M.Abraham Bredius,publiee pour la premiere fois dans leKatalog des ProvinzialMuseums zu Hanmover,18g1,p.172.
+
+Les seuls tableaux connus de ce peintre,en dehors de ceux de la collection Delaroff sont:len3gr du Musee provincial de Hanovre et une Scene de patineurs du musee de Darmstadt.
+
+## POELENBURGH (Cornelis van)
+
+1586-1667.
+
+Le Bain des Nymphes
+
+217
+220
+
+## POELENBURGH (Cornelis van)
+
+218 Figures antiques dans un paysage arcadien
+
+Panneau,H.: 2o; L.: 38.
+
+## PORCELLIS (Jan)
+
+Leyde 1597-1641.Fut eleve de H. C. Vroom.
+
+219 Barques de peche au large, par une mer agitee
+
+Toile,H.:361/2;L.:491/2
+
+## PORCELLIS (Jan)
+
+Naufrage et tempete
+
+La mer est demontee et contre le roc qui domine les flots tumultueux, un vaisseau vient de se briser. Deja un autre vaisseau a ete englouti dont on ne voit plus que le mat auquel deux hommes se suspendent desesperement. Une barque semble se porter a leur secours.A gauche, un autre bateau est le jouet des vagues.
+
+Panneau,H.:431/2;L.:641/2.
+
+## REMBRANDT
+
+(Ecole de)
+
+## Portrait d'homme
+
+221
+
+ll est represente jusqu'a la poitrine, presque de face en habit marron ouvert sur un plastron rouge. ll a sur le crane un bonnet de fourrure profondement enfonce et serre par une serviette tordue. Son visage au teint accentue est marque, par la vie difficile, de rides et de bosses; une moustache grisonnante abrite sa bouche lippue. La figure se detache sur un fond neutre.
+222
+
+## ROMEYN (Willem van)
+
+Utrecht.-Neen 1624,mort en 1693.
+
+## Le Patre faisant paitre ses betes
+
+## dans la campagne
+
+Signe a gauche,en bas:W. Romeyn,les deux premieres lettres formant mono- gramme.
+
+224
+
+Toile,H.:401/2;L.:471/2.
+
+## SCHALCKEN (Jacques)
+
+1634-1721?
+
+## Homme jeune examinant un buste, a la clarte
+
+ToileH.:33;L.:26.
+
+## SCHOTANUS (Petrus ou Pouwels)
+
+Peintre de Leuwarden.
+
+## Nature morte
+
+(Pendant du suivant.)
+
+Sur une table, on a depose une dizaine de becasses et d'autres oiseaux morts,un choux violet et un sceau.Derriere la table, deux petits lievres sont suspendus au mur.
+
+Signe sur le rebord de la table :P. Schotanus.
+
+Panneau,H.:62;L.:47.
+
+D'apres Olof Granberg (Catalogue raisonne des collections privees de la Suede,1886, p.1o5),les tableaux de ce peintre sont fort rares.
+
+225 d'une chandelle
+225
+
+## SCHOTANUS
+
+## Chien de chasse et gibier
+
+Pendant du precedent.
+
+A droite, en haut, un chat est peint sur le mur.
+
+Panneau, H.: 63; L.:47.
+
+## SNELLINX (Jan)
+
+Travailla a Rotterdam au dix-septieme siecle.
+
+## Interieur d’'une grange
+
+226
+
+Des legumes et des instruments de cuisine groupes au milieu de la grange et formant pyramide. Une vieille femme en caraco rouge apparait a droite dans le chassis ouvert d'une porte.
+
+Panneau,H.:37;L.:48 1/2.
+
+Ce peintre fut un imitateur des interieurs de Hermann et de Cornelis Saftleven.
+
+## SNELLINX (Jan)
+
+Dans la grange
+
+227
+
+Signe a gauche, sur une planche de bois, du monogramme J. S.
+
+Panneau,H.:27;L.:38.
+
+## STEEN (Jan)
+
+## Le Visiteur entreprenant
+
+228
+
+Le bonhomme etait venu causer innocemment avec une maritorne et voici que tout a coup une fantaisie galante le saisit et ses mains four- ragent parmi les jupes; mais la femme se defend avec energie.
+
+Panneau,H.:29;L.:21 1/2.
+229
+
+## STOOP (Thierry)
+
+Dordrecht,ne vers 161o,mort vers 1686.
+
+## La chasse au faucon
+
+A droite,le carrosse contenant les dames est arrete,aupres duque1 sont deux chasseurs, l'un vu de dos en habit rouge, l'autre vu presque de face en habit rose. Entre les deux, le fauconnier se tient debout vu de dos. La composition comprend encore quelques figures.
+
+Panneau,H.:47;L.:63.
+
+## STOOP (Thierry)
+
+Le jeune endormi
+
+Panneau,H.:44；L.:34 1/2.
+
+## STRAATEN ou Straeten
+
+## Hendrick ou Van der Straaten ou Verstraaten
+
+Ne a Haarlem (vers 1665) membre de la confrerie des peintres de Haarlem en 1687.
+
+Vecut longtemps a Paris ou on le nommait : De la Rue *; passa en 16go en Angleterre,ou il mena, dit-on,une vie dereglee. Mourut a Londres en 1722
+
+## 231 Ferme au bord d'une riviere
+
+Parmi les arbres,a droite,la ferme est construite et, au milieu,une lavandiere s'eloigne portant un seau a la main. A gauche et au premier plan,la riviere coule entre des rives boisees. Dans le ciel, il y a une importante chevauchee de nuages gris.
+
+Signe a droite,en bas sur le terrain:V.Straeten,179.
+
+Toile,H.:79;L.:100.
+
+D'apres Weyerman:Levensbeschreyvungen der Nederlandschen Kunstschilders. Scravenhage 1919 (T. Ill, p. 365),ce peintre peignit des paysages dans le gout de Jacob Ruisdael et de Hobbema. Le tableau de la collection Delaroff est le seul connu de Iartiste.Il y a de lui deux dessins au Musee Teylor a Haarlem, signes H.Verstraten, et deux autres a lAlbertine de Vienne,signes H.-V. Straaten.Il est evident que beaucoup de ses tableaux passent pour des ceuvres de l'ecole de Ruisdael et de Hobbema et sontmeme dans le petit commerce attribues a ces maitres.
+
+naissanceet de sa mort.
+
+Nagler a commis une erreur en donnant les annees 168o et 1765 comme dates de sa
+
+230
+252
+
+## STREEK (Juriaen van)
+
+Ne vers 1642 et mort le 12 juin 1678.
+
+## Nature morte
+
+Sur une table couverte d'une draperie jaune a frange, un carafon en gres, une coupe de Delft contenant des oranges et un citron, une tranche d'orange posee sur une assiette en metal, et un pain.
+
+Toile,H.:64;L.:511/2.
+
+## STUVEN(Ernst)
+
+Ne a Hambourg en 1657.Fut eleve de J. Voorhout et d'A.Mignon.
+
+255 Ecureuil et chardonneret se disputant des fruits
+
+Toile, H. : 74 1/2; L. : 63.
+
+## SWANENBURGH (Jakob-Isaacsz van)
+
+Mort en 1638.
+
+254 Interieur de cuisine avec deux figures
+
+Signevers la gauche,sur le bois de letabli:IS.
+
+Panneau,H.:27 1/2;L.:37 1/2.
+
+SWANENBURGH (Jakob-Isaacsz van)
+
+255 Les Docteurs commentant les Ecritures devant le Roi
+
+Signe vers le milieu en bas, sur la couverture du livre: (SI entrelaces).
+
+Panneau,H.:481/2;L.:64
+## SWANEVELD (Herman,dit Herman d'Italie)
+
+Ne a Woerden en 16oo,mort en 1655.Fut eleve de Claude Lorrain.
+
+## 256 Cavalier cheminant le long de la foret
+
+Il est suivi de son chien et, plus loin, on apercoit dans la plaine un autre cavalier accompagne d'un page tenant un faucon.
+
+Toile, H.:72;L.:95.
+
+## TEGNAGEL(Jan)
+
+Ne a Amsterdam en 1584,mort dans la meme ville en 1635.
+
+## 237 Circe change les Compagnons d'Ulysse en pourceaux
+
+Au milieu, Circe, de sa baguette de magicienne, change un des compagnons d'Ulysse en pourceau; celui-ci, debout et arme, est dans une attitude suppliante.A gauche,deux suivantes de la magicienne contemplent la scene,tandis qu'une troisieme,a droite, emmene les pourceaux. Dans la chambre, on a dispose un metier de tisserand, un rouet et une table recouverte d'un drap rouge; au dehors on voit une cour, une terrasse, des palais et des arbres fantastiques.
+
+Signe en bas, a droite, sur un tabouret renverse: J. Tegnagel, fecit A1612.
+
+Panneau,H.:461/2;L.:661/2.
+
+Il existe encore deux tableaux de Tegnagel,lun dans la galerie du comte de Moltke a Copenhague, l'autre au Rijksmuseum d'Amsterdam (Banquet de la compagnie du
+
+Capitaine Geurt Dircksz.Van Beusimgen,1613).
+
+## TOL ou Tool
+
+Névers 1631,mort en 1676.
+
+## 258 Portrait d'un vieillard
+
+En buste de face et a mi-corps, il est vetu d'une robe brune.
+
+Panneau,H.:17;L.:131/2.
+240
+
+## TORENVLIET (JaCques)
+
+Leyde,1641-1719.
+
+259
+
+## Vieillard tenant un livre dont il montre le premier feuillet ou on lit cette date : 1679
+
+Signe a gauche, en haut: Torenvliet.
+
+Cuivre,H.:17; L.:14. Cadre en bois sculpte.
+
+## UIJTENBROECK ou Vyt den Broeck
+
+## ou Vten Brouck (Mozes van)
+
+Ne en 159o a Delft,mort apres 1648 a La Haye.
+
+## Venus et l'Amour
+
+Dans un paysage arcadien, une hollandaise nue, aux chairs abondantes, symbolisant Venus, dort et s'etire dans son sommeil. A cote d'elle repose lAmour. A droite, le tronc d'un arbre; a gauche, au fond du paysage, on apercoit un edifice a coupole, en ruines.
+
+Panneau,H.:23;L.:31.
+
+## UIJTENBROECK (Mozes Van)
+
+Scene pastorale
+
+241
+
+Pres d'une cascade une bergere couronne un berger, tandis qu’a gauche on apercoit les troupeaux au paturage.
+
+Panneau,H.:32;L.:45.
+
+## VEEN ou VENNE(Dirck de)
+
+Travaillait au dix-septieme siecle.
+
+242 Les fous pour une figure des danses de la mort
+
+Pendant du suivant.
+
+Signe a gauche, en bas : Dirck de Venne, 1631, grisaille.
+244
+
+## VEEN (Dirck de)
+
+## 243 Les mendiants. Peinture pour une danse de la·mort
+
+Pendant du precedent.
+
+Signe: 1632, de Veen, grisaille.
+
+Panneau,H.:40 1/2;L.:32.
+
+## VEEN (Dirck de)
+
+## Bataille d'estropies
+
+Peinture au camaieu. Signe a droite,en bas.
+
+Panneau,H.:35; L.:41 1/2.
+
+## VEEN (Dirck de)
+
+Noot maeckt blood!
+
+Bataille d’estropies
+
+Panneau, H.:31;L.:4.
+
+245
+
+Peinture au camaieu.
+
+## VELDE (Isaac van de)
+
+Ne en 158 a Amsterdam,mort en 163o,a La Haye.
+
+## Scene de pillage
+
+246
+
+A gauche,un soldat, vu de dos, lepee au poing,a saisi a la gorgc un paysan sur le seuil meme de sa maison. La femme du paysan le retient par derriere et veut lui venir en aide. Au milieu du tableau, est un chariot charge d'ustensiles de menage; a droite,au premier plan, un grand arbreet,sur le sol, des tapis,des couvertures, des lanternes et des pots de metal sont jetes pele-mele. Au fond et devant une cam-
+pagne plate, on apercoit deux chevaux, un cavalier, des arbres et des maisonnettes basses.
+
+Panneau,H.:40;L.:551/2.
+
+Quelques amateurs ont vu dans ce tableau une ceuvre d'Arent Arentsz di Cabel Voir les n373et374 de Ryksmuseum d'Amsterdam)ou deDavid Vinckeboons(Voir lesn°2556et2557dumememusee)ou deJan Martsen deJonghe(Voirlen1525du meme musee).
+
+## VELDE (Isaac van de)
+
+## 247 Paturages en avant d'un village et de chaque cote d'une route
+
+Signe a gauche, en bas : J.V.Velde 1633.
+
+249
+
+Panneau,H.:12;L.:20.
+
+## VELDE (Adriaen van de)
+
+Ne a Amsterdam en1635,mort en 1672.Eleve de Wynants.
+
+## 248 Le coup de canon tire par la fregate royale
+
+Toile,H.:291/2;L.:36.
+
+## VELDE (Adriaen van de)
+
+## Paturage
+
+Dans une campagne vallonnee,les deux bergers sont assis, tandis que paissent leurs vaches. Au loin, dans la plaine, on apercoit la silhouette d'une ville.
+
+Panneau,H.: 19 1/2;L.:23.
+
+## VELDE (Adriaen van de)
+
+Combat de cavalerie
+
+Panneau,H.:431/2;L.:641/2.
+
+250
+253
+
+## VELDE (Ecole de Wilhem van de)
+
+## 251 Pinjkes a l'embouchure de 1'Escaut
+
+Panneau de forme ronde,H.:271/2;L.:281/2.
+
+## VENNE (Adriaen van der)
+
+Ne a Delft en 1589,mort en 1662.Fut eleve deVan Diest.
+
+## 252 La Tentation de Saint Antoine
+
+L'Ermite en priere,ayant pres de lui une jeune femme en costume decollete,est entoure de figures monstrueuses qui agacent de leur ironie cette tentation.
+
+Signe a gauche, en bas : Venne.
+
+## VERKOLYE (Johannes)
+
+Nea Amsterdam en 165o,mort a Delft en 1693.
+
+## Portrait d'homme
+
+C'est peut-etre le portrait de John Locke qui vecut en Hollande de 1683 a 1689.1l est represente debout, en vetement fonce, tenant un
+
+Toile,H.:40 1/2;L.:33.
+
+Ce portrait rappelle beaucoup ceux de Gaspard Netscher, par exemple le 257 du Musee de Stuttgard,et le 129 du Musee de Strasbourg.Il rappelle egalement certains portraits de Jan Veenix,tel que le 26i3 du Rijksmuseum d'Amsterdam. Cependant il n'y a plus de doute surnotre attribution quand on compare le portrait de la collection Delaroff avec celui d'Adriaen Christiansz.Van Grcenevegen,n°2523 du Rijksmuseum d'Amsterdam.
+
+H.:32;L.:41.
+254
+
+## VERKOLYE (Johannes)
+
+## Intimite
+
+Dans une chambre, pres d'une table couverte d'un tapis d'Orient, deux femmes sont assises,l'une chante, l'autre va boire. Toutes deux ont leur corsage amplement ouvert.
+
+255
+
+Panneau,H.:39;L.:33.
+
+## VERSCHURINGH (Hendrik)
+
+'5121-2991
+
+Le Coche
+
+L'arrivee du coche en vue de la ferme.
+
+Signe a droite, en bas : J. H. L. (monogramme) Verschuring.
+
+Panneau,H.:361/2;L.:48.
+
+## VERSPRONCK (Jan) (Attribue a)
+
+Haarlem 159-1662.Fut eleve de Fr.Hals.
+
+L'homme au pourpoint noir
+
+256
+
+Il est vu jusqu'a la poitrine, de trois quarts a droite,en pourpoint noir et fraise de batiste blanche a tuyaute rigide. ll a la barbe rousse
+
+Panneau,H.:56;L:44 1/2.
+
+## VERSTRAETEN (Antonius)
+
+257 Patineurs sur un canal aupres d'un village aux maisonnettes basses
+
+Signe en bas, au milieu sur le terrain, du monogramme: A. V. S.
+
+Panneau,de forme ovale,H.:251/2;L.:34.!
+
+peintre,natif de Gorkum et age de 34 ans.
+
+On est sans details biographiques sur ce peintre hollandais, si ce n'est qu'a la date du 11 nov. 1628 on mentionne le mariage d'un Antoine Verstraelen a Amsterdam, en pointe et des cheveux chatain clair.
+258
+
+259
+
+## VICTORS (Jan)
+
+Travaillait a Amsterdam vers 165o,mort en 1676.
+
+## La marchande de legumes
+
+Toile,H.:55;L.:69.
+
+## VIERPYL ou VOERPIEL (Jan-Carel)
+
+Florissait a la fin du dix-septieme siecle.
+
+## Les Musiciens
+
+Des chanteurs et des chanteuses, des joueurs de basse et de violon, et, dans un coin, a gauche, un enfant et un singe qui se partagent
+
+La composition a pour decor un somptueux palais enrichi de sculptures.
+
+des fruits.
+
+Signe a droite, en bas: Vierpyl f. 1775.
+
+Toile, H.:67;H.:83.
+
+## VLIEGER (Simon de)
+
+Rotterdam 1601-1651.
+
+260 La tempete et le naufrage au pied des grandes roches
+
+Panneau,H.:52;L.:8o 1/2.
+
+## VLIEGER (Attribue a Simon de)
+
+Pecheurs remontant leurs filets
+
+Toile,H.:1.02;L.:151.
+
+261
+265
+
+## VONCK Jan)
+
+264 Poissons sur une table de cuisine
+
+Panneau,H.:38;L.:50.
+
+## VRELL (Jacobus)
+
+Peintre hollandais,vivait au dix-septieme siecle.
+
+## Le Cabinet du barbier
+
+Dans une chambre aux murs gris, ornes de boiseries brunes,et éclairee par une fenetre a gauche,le barbier coupe les cheveux d'un
+
+## VLIET (Hendrik-Cornelisz van der)
+
+Ne a Delft en 1608,mort en 1675.
+
+## 262 La Nef centrale d'une eglise aux arcades
+
+## de plein cintre
+
+Signe a droite, en bas:Vliet.
+
+## VONCK (Jan)
+
+Amsterdam,forissait au dix-neuvieme siecle.
+
+## Gibier a plume sur un étal de marbre
+
+265 et de bois
+
+Signe a gauche, sur le bord du marbre: J. Vonck fecit A1654.
+
+Toile,H.:89;L.:76.
+
+Panneau,H.:19;L.:23.
+homme assis. A gauche,pres de la fenetre, un garcon qui porte son bras droit en écharpe semble attendre son tour pour etre panse. Divers instruments de medecine et un crocodile empaille pendu au
+
+Panneau,H.:521/2;L.:40 1/2.
+
+Voir,pour comparer,e n434 du Musee de Lille,le79o du Musee d'Anvers,et le19 du Musee de Bruxelles. Ces trois tableaux d'ailleurs sont faussement attribues a Isaac Koedijck.
+
+## WEENIJX (Jan)
+
+Amsterdam,1640-1719.Eleve de J.-B.Weenix.
+
+266 Chien de chasse venant flairer du gibier au fond d'un parc
+
+.Toile,H.:1.21;L.:1.56.
+
+## WEENIJX (Jan)
+
+## L'ennemi
+
+267
+
+Un vautour fond sur les poules et les poussins qui picoraient en paix dans un parc. Au fond,plus loin que les arbres, on apercoit quelques details d'architecture monumentale.
+
+Toile,H.:451/2;L.:38.
+
+## WET (de)
+
+Ne a Hambourg,eleve de Rembrandt.
+
+## Le Depart de 1'Enfant Prodigue
+
+268
+
+Signe en bas,vers le milieu:F. de Wet (en monogramme) 169o.
+
+Panneau,H.:59;L.:83.
+
+plafond ornent la piece.
+## WIJCK (Thomas)
+
+Haarlem 1616-1677
+
+## 269 Pecheurs au bord d'une riviere
+
+A gauche,une construction de pierre au pied de laquelle la riviere vient batre.Au bord de la riviere, des pecheurs,puis une barque couverte d'une bache.A droite, au fond,un pont au-dessus duquelon aper- coit la courbe d’une colline.
+
+Signe vers la droite, en bas sur le sol: Th.Wijck.Les deux premieres lettres formant
+
+Toile,H.:73; L.59.
+
+## WILLAERTS(Adam)
+
+Anvers 1577-1665.
+
+| 270                                                       | La Flotte par une mer calme                                                                                                                          |
+|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Signe a droite,en bas sur une bouee, du monogramme:W. 271 | Panneau,H.:37 1/2; L.:39 1/2. WITTE(Emmanuel de) Alkmaar 1607-1692. Eleve de Van Aelst. Interieur d'eglise avec deux figures Panneau,H.:471/2;L.:37. |
+| 272                                                       | WOUWERMANN (d'apres Philips) La Halte au Camp Toile,H.:48;L.:57.1/2. Pendant du suivant.                                                             |
+| 273                                                       | Le convoi Toile,H.:48; L.: 57 1/2. Pendant du precedent.                                                                                             |
+
+monogramme.
+275
+
+## 276
+
+## WOUWERMANN Jan)
+
+Frere de Philippe.Ne a Haarlem en 1629,mort en 16c6.
+
+## 274 Le Chemineau dans la montagne
+
+Panneau,H.:29;L.:29 1/2.
+
+## ZORG (Jan-Pietersz)
+
+1641-1726.
+
+Interieur de Cuisine
+
+Panneau;H.:36;L.:451/2.
+
+## ZWART(Albert-Gerrits)
+
+Leeuwarden +1633.
+
+## Portrait d'homme jeune
+
+Il est represente de trois quarts a droite,jusqu'aux epaules, ses longs cheveux boucles encadrant son visage vivement éclaire, vetu d'un costume noir sur lequel estrabattu un col de batiste blanche empese,garni depoint coupe et noue par un cordonnetblanc que terminent deux glands de meme couleur.
+
+Panneau,H.:37;L.:32.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+L'Alchimiste
+
+277
+
+Toile,H.:43;L.:31.
+## 280
+
+## ECOLE HOLLANDAISE
+
+Commencement du dix-septieme siecle.
+
+|   278 | La femme aux mains croisees Panneau,H.:62 1/2;L.:47 1/2.   |
+|-------|------------------------------------------------------------|
+|   279 | Portrait d'homme                                           |
+
+Toile 0vale,H.:71;L.: 57.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+Portrait presume de Descartes
+
+Il est represente jusqu'a mi-corps, de trois quarts a droite, en pourpoint noir, avec un col de batiste blanche empese,garni de point coupe.
+
+anneau,H.:74;L.:59 1/2.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+Interieur de Boucherie
+
+Toile,H.:64；L.:531/2.
+
+281
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+282 Chaumiere couverte de neige au bord d'un canal gele
+
+Panneau,H.:45 1/2;L.:37 1/2.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+|   283 | Le Combat naval Toile,H.:76;L.:116                                           |
+|-------|------------------------------------------------------------------------------|
+|   284 | Portrait d’un homme jeune Panneau de cuivre de forme ovale,H.: 171/2;L.: 16. |
+|   285 | Deux pinjkes sur une mer agitee Panneau,H.:38;L.:61.                         |
+|   286 | Le Combat naval                                                              |
+
+Toile,H.:561/2;L.:99.
+287
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+Les Chevriers
+
+Signe a gauche, sur une roche, d’un monogramme,et date: 1646.
+
+Panneau, H.: 47; L.:73.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+Sloops de peche a maree basse
+
+Panneau,H.:42;L.:61.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+289 Incendie de Sodome et de Gomorhe
+
+Panneau,H.:43;L.:71.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+## Le Vieux chene
+
+290
+
+L'arbre, comme un ancetre geant, se dresse a droite sur un pli de terrain.A gauche, la campagne s'etend,boisee, toute illuminee de clartes blondes avec, au fond,parmi les verdures,le miroir d'une eau limpide.
+
+sur la tete, un enfant ayant un panier au bras, et suivi d’un chien.
+
+Sur un sentier,a droite,un homme,une femme portant une banne
+
+Panneau,H.:2o 1/2;L.:25.
+
+288
+291
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+## Tobie conduit par 1'Ange
+
+Le sujet biblique n'est motive ici que par les deux petites figures qui se trouvent placees en bas, a droite, au premier plan: un ange aux grandes ailes de feu guidant les pas d'un homme vetu de rouge, qui marche en s'appuyant de la main droite sur un baton et qui porte, sous son bras gauche, un gros poisson. Mais a part cette indication précise, l'oeuvre presente une riviere courant au creux d'une vallee, au milieu d'un paysage aux escarpements pittoresques. A gauche, un chevrier garde ses betes, dont quelques-unes sont grimpees sur la hauteur. A droite, au fanc des roches,un chemin serpente et,le long de ce chemin, on rencontre quelques constructions. Dans le haut meme, on apercoit un chateau. Au fond, vers la gauche, une ville est construite au bord de leau, et au pied des collines. Quelques vols doiseaux zigzaguent dans le ciel aux nuees grises.A gauche, un petit perroquet aux plumes bariolees se tient au bout d'une planche.
+
+Toile,H.:64;L.:104
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+## 292 Portrait de Maria Wilemme de Lange, bienfaitrice du Cloitre de sainte Ursule de Oudewater
+
+A gauche du portrait,on apercoit le blason de la personne.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+## Village sous la neige
+
+295
+
+L'Eglise se dresse au milieu et des fideles en franchissent le seuil. Sur la place qui precede leglise, a gauche, des personnages se ren-
+
+H.:35;L.:29.
+contrent et se saluent.A droite, d'autres gens se tiennent sur un canal dont l'eau est glacee; quelques-uns patinent. Un traineau s'avance, tire par un cheval blanc. A droite et a gauche,au fond, il y a des constructions de briques. Le sol et les toits sont couverts de neige; les branches depouillees des arbres sont poudrees a blanc.
+
+Toile,H.:92;L.:118.
+
+Les figures sont de Bosse.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+## 294 La Parabole des Aveugles
+
+Ils marchaient,chacun etant guide par celui qui le precede et voici que le premier tombe dans un trou; celui qui le suit est pres d'y choir egalement, mais on devine.le temps d'arret,et les yeux prives de lumiere expriment cependant de la terreur, Au fond, de l'autre cote d'une baie,on apercoit une construction, puis,au loin, la tour d'une cathedrale...
+
+Panneau,H.:59;L.:44 1/2.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+295 Harengs, oignons,pain, chope et cruche
+
+En bas, un monogramme a demiefface.
+
+296
+
+Panneau,H.:46;L.:40.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+La Diseuse de bonne aventure
+297
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+## Un philosophe
+
+Il est represente jusqu'a la poitrine en costume noir, la tete legerement penchee en avant, le regard meditatif. Derriere lui un rideau rouge, en partie souleve, decouvre le rayon d'une bibliotheque.
+
+Toile,H.:54;L.:44
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+## Le Joyeux compagnon
+
+298
+
+Il est represente assis sur un panier retourne et il rit beatement en se grattant l'epaule gauche de la main droite. Il est coiffe d'un large feutre noir et vetu d'une veste marron et d'une culotte violacee. Devant lui, par terre,un rechaud de terre,une pipe, une petite boite.
+
+Panneau,H.:231/2;L.:18.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+Combat d'infanterie et de cavalerie
+
+Panneau,H.:46;L.:63.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+## 500 Escarmouche de cavalerie
+
+Dans une campagne, des mousquetaires et des hommes en armure se rencontrent et luttent;ils sont montes sur des chevaux qu'ils lancent au galop.
+
+Panneau,H.:4I;L.:71.
+
+299
+501
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+## La marchande de legumes
+
+Une femme vetue de blanc, de bleu et de jaune, et accompagnee d'un negrillon, semble vouloir echanger un melon qu'elle tient dans sa main gauche, contre un autre, entame, que lui refuse la vieille marchande. Sur la table,pres des deux femmes,des choux et des arti chauts. Au premier plan,a gauche,pres d'un banc sur lequel on a pose des carottes, se tient un grand chien jaune.Au fond, on apercoit un homme portant une pelle sur l'epaule gauche.
+
+Toile,H.:53;L.:44
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+Madeleine en priere
+
+Cuivre,H.:181/2;L.:14.
+
+## ECOLE HOLLANDAISE
+
+505
+
+Dix-septieme siecle,
+
+Portrait d'un professeur
+
+Date a gauche,1668.
+
+Panneau,H.:73;L.:59 1/2.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle
+
+504 Coupe d'argent, mures, grenade ouverte, mandarine et montre
+
+Dans le coin a gauche,on releve les restes d’une signature: Heda.
+
+Toile,H.:32;L.:251/2.
+
+502
+505
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+## Portrait d'un professeur
+
+Il est assis presque de face en robe et bonnet noir, appuyant sur une table un livre qu'il tient ouvert des deux mains. ll a la barbe blonde et grisonnante, les yeux tres vifs, le masque plein d'accent.
+
+Panneau, H.:77; L. : 62.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+Patinage sur un fleuve en Hollande
+
+Toile,H.:84;L.: 1181/2.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+307 Chemin a l'entree d'un bois, avec paysans, animaux et chaumieres
+
+Signe au milieu,en bas:Je Kodnen.()
+
+Toile, H.:78; L.: 102 1/2.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+Le Puits
+
+306
+
+308
+509
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+## En avant de la ferme
+
+La ferme est a gauche et devant elle un terrain s'etend avec quel- ques herbes usees. On y voit autour d'une charrette detelee, dont les brancards s'appuient sur un tonneau, des betes au repos:vaches, cheval,mouton.Pres de la charrette,un bouc est entrave. Un peu plus loin un bonhomme est en train de traire sa vache. A droite, une femme assise, et vue de dos,bavarde avec un compere assis pres d'elle. Au fond, une campagne verdoyante et boisee, au milieu de laquelle serpente un ruisseau.
+
+Signe au milieu, sur le fond du tonneau: R, sous une hache.
+
+Toile,H.:761/2;L.: 110.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+La tour en ruines pres de la riviere
+
+510
+
+On lit vers le milieu, au premier plan, le monogramme W.W.K.
+
+Toile,H.:651/2;L.:86.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle
+
+Interieur de cuisine
+
+311
+512
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+Le Passeur
+
+Signe en bas,vers la droite, sur le fond d’un tonneau: J. V. C.
+
+Panneau,H.:58:L.:82.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+Le Village sous la neige
+
+513
+
+A droite et a gauche de la riviere gelee, toutes les maisons, leglise et le moulin ont leurs toitures ouatees de neige. Sur la riviere qui apparait bleue sous sa couche de glace, une foule d'individus et des traineaux glissent, patinent, jouent, se donnant tous a cette joie hivernale.
+
+Cuivre,H.:31 1/2;L.:39.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+314 Canal gele en avant d'une ville
+
+Toile,H.:931/2:L.:141.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+315 Judith coupant la tete d'Holopherne
+
+La Femme debout a deja tranche a demi la tete de l'homme qui se debat, tandis qu'au-dessus d'elle des Amours ailes voltigent dans la nuit. A droite, dans l'ombre, des gardles endormis.
+
+Toile,H.:76:L.:101.
+316
+
+## ECOLE HOLLANDAISE
+
+## L'Automne au bord de la riviere
+
+Dix-septieme siecle
+
+Signe a droite,en bas : D.V. D. V...
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+## L'adoration des bergers
+
+317
+
+Dans la grange les bergers sont en adoration devant l'Enfant Jesus emmaillote dont la Vierge souleve le voile. Au premier plan,un panier d''ceufs et deux poules apportes en offrande. Derriere la Vierge, saint Joseph debout, tenant un livre ouvert, le bceuf et l'ane.
+
+Signe en bas, vers le milieu du monogramme : F. H. K.
+
+Panneau,H.:331/2;L.:34.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+## L'EteL'Hiver
+
+318
+
+Deux petits paysages de forme ronde.
+
+Deux pendants.
+
+H.:15;L.:151/2.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+39 Femmes et gentilshommes dans un interieur
+
+En haut, au-dessus de la porte,on lit les lettres A.L..,formant monogramme.
+
+Panneau,H.:26;L.:32.
+
+H.:23；L.:37.
+520
+
+521
+
+Toile,H.74;L.:01.
+
+## ECOLE HOLLANDAISE
+
+Commencement du dix-huitieme siecle.
+
+## Madeleine tentee
+
+Elle est en priere dans sa grotte et voici qu'autour d'elle les vices a faces monstrueuses donnent l'assaut a sa vertu tentee.
+
+Cuivre,H.:47;L.:361/2.
+
+## ECOLE HOLLANDAISE
+
+Commencement du dix-huitieme siecle.
+
+522 Chasseurs et bergers se reposant aupres d'une fontaine
+
+A gauche, sous un sarcophage de marbre rouge, se trouve une inscription latine.
+
+Toile,H.:59;L.:721/2.
+
+## ECOLE HOLLANDAISE
+
+Dix-huitieme siecle.
+
+325 Thisbe pleurant sur le corps de Pyrame
+
+Panneau,H.:38 1/2:L.:50.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+Archimede
+## ECOLE HOLLANDAISE
+
+Dix-huitieme siecle.
+
+## 524 Paons, poules, canards et cygnes dans un parc
+
+Signe vers la droite, en bas : J. C. Becheotoff pinxit, 1766.(Beckenof)？
+
+Toile,H.:621/2;L.731/2.
+## ECOLES ITALIENNES
+
+## ALLORI (Alessandro,dit le Bronzino)
+
+(Ecole de).
+
+Florence 1607.
+
+## 525 L'homme au pourpoint heliotrope
+
+Il est debout, de trois quarts a gauche, la main gauche retenue par le pouce, dans le ceinturon,la main droite,lindex allonge, appuyee sur un meuble. Sa tete, aux cheveux courts et aux traits accentues, se degage d'un col rabattu souple et large. Sur l'epaule gauche, il a un manteau. Le pourpoint heliotrope est decouvert du cote droit et devant.
+
+Portrait presume d'un prince de la famille de Medicis.
+
+Panneau,H.:91;L.:63 1/2.
+
+## ALLORI (Christofaro d')
+
+Fils d'Alexandre Allori. Ne a Florence en 1577,mort en 1621.
+
+## 526 Sainte Elisabeth de Hongrie
+
+Elle est representee de trois quarts a gauche et vue en buste.
+
+Toile,H.:551/2;L.:48.
+
+## AMICoNI (Jacques)
+
+Peintre venitien,1675-1752.
+
+327 Pallas Athene couronnant un poete
+
+Toile,H.:92;L.:741/2.
+328
+
+529
+
+550
+
+## BELLUCCI (Antoine)
+
+Ne a Soligo en 1654,mort en 1726.
+
+## Portrait d'homme
+
+H.: 70: L. : 56.
+
+## CARAVAGGIO (Michelangelo da)
+
+Rome 1569-1609.
+
+Le Poete
+
+Toile,H.:67;L.:49 1/2.
+
+## CARAVA GGIO (Michelangelo da)
+
+Moise et le peuple Juif
+
+Peinture en grisaille.Toile,H.:51;L:105.
+
+Preparation pour un tableau.
+
+## DESIDERIO
+
+Eleve de B. Corenzio;forissait au dix-septieme siecle.
+
+## 331 Palais et edifices fantastiques
+
+C'est la vue exterieure de plusieurs palais et edifices rappelant la loggia dei Lanzi, de Florence. Au premier et au second plan, de nom-
+
+Toile, H.:46;L.:75.
+
+breuses figures animent la piace.
+## DOMENICHINO (Domenico Zampieri,dit il)
+
+1581-1641.
+
+332 Le Dieu Pan poursuivant la nymphe Syrinx et embrassant une touffe de roseaux au lieu de la belle
+
+Toile,H.:52;L.:85.
+
+## FETI (Domenico)
+
+Ne a Rome en 1589,mort en 1624. Fut eleve de Cigoli.
+
+## David
+
+555
+
+Il est debout, de trois quarts a gauche. ll s'appuie sur sa lourde
+
+épee. ll a devant lui la tete de Goliath.
+
+- 554
+
+535
+
+Toile,H.:1131/2;L.:781/2.
+
+## GAROFALO (Benvenuto-Tiso dit il) (Ecole de)
+
+- La Vierge a la pomme, 1'Enfant Jesus et Saint Jean
+
+Toile,H.:42 1/2;L.:32.
+
+GUARDI(Francesco)
+
+Ne a Venise en 1712,mort en 1793.Fut eleve du Canaletto.
+
+La ferme au pied du vieux castel
+536
+
+## GUARDI (Francesco)
+
+## Le Porche en ruines
+
+Des arcades en ruines derriere lesquelles on apercoit un petit temple a colonnes. Plusieurs personnages au premier plan, pres d'une mare. Ciel bleu lumineux.
+
+Panneau,H.:3o 1/2;L.:24.
+
+## LAURI (Philippo)
+
+Nea Rome en 161o,mort en 1635.Fut l'eleve de A. Sacchi.
+
+Le Sommeil de Didon
+
+Toile,H.:44 1/2;L.:34 1/2.
+
+## LOTTO (Lorenzo,Ecole de)
+
+Venise148o-1556.)
+
+Saint Jerome
+
+Toile,H.:361/2;L.:30.
+
+## MAGNASCO (Alexandre;dit Lissandrino)
+
+339-33961s
+
+Ne a Genes en 163t,mort en 1747.
+
+Bergers antiques dans la montagne
+
+Deux pendants.
+
+537
+
+358
+
+Toiles,H.:721/2;L.:58.
+540
+
+a Sir Henry Layard,a Venise.
+
+## PAGANI (Gregorio)
+
+Ne en Toscane en 1568,mort en 1605.
+
+Le Patre
+
+341
+
+Date et signe a gauche, en bas : Gregorio Pagani.
+
+## MORETTO da BRESCIA (Alessandro Bonvicino,dit)
+
+Ne en 1498 a Brescia,mort apres 1554 dans lameme ville
+
+## La Vierge et I'Enfant Jesus
+
+Peinture a la detrempe, H:44:L:33.
+
+545
+
+Toile,H.: 111; L.:91.
+
+## PANNINI(Giovanni-Paolo)
+
+Ne a Plaisance en 1695,mort en 1763.Fut eleve de Andre Lucatelli et de B. Lioti.
+
+542
+
+Le Vase et la Pyramide
+
+Panneau decoratif.
+
+Toile forme ovale. H.:63;L.:47 1/2.
+
+PARMIGIANINO (Michele Rocca,dit il)
+
+1671-1751.
+
+Jeune femmeet deux Amours cueillant des feuillages
+
+Panneau,H.:26;L.:20 1/2.
+544
+
+## PIOMBO (Sebastiano del) (Ecole de)
+
+## Portrait de femme
+
+Sur le bandeau de la coiffure, on lit ces quatre lettres: De To.
+
+Panneau,H.:621/2;L.:5o.
+
+## PROCCACINI (Julio Cesarae)
+
+Peintre 1ombard (1548-1626).
+
+545 Madeleine en contemplation devant le Crucifie
+
+Toile,H.:43;L.:33.
+
+## RICCI (Sebastiano)
+
+Cividale-di-Belluno (1662-1734). Eleve de Cervelli.
+
+## Alexandre le Grand
+
+Toile,H.:42;L.:54.
+
+## TINTORETTO (Jacopo Robusti, dit il)
+
+Venise 1512-1594.1
+
+## 547 Portrait de Luigi Cornaro (1462-1566)
+
+Il est assis de trois quarts dans un fauteuil,ayant devant lui une table couverte d'un tapis d'Orient. Sur cette table,un collier d'or sur lequel pose la main gauche. Le personnage est vetu d'un costume noir a col blanc rabattu: son visage d'homme age, barbe blanche et front denude, se detache sur un fond sombre.A droite, une draperie marron
+
+Toile,H.:108;L.:89.
+
+est relevee.
+
+Voir le portrait du meme personnage par le Tintoret,qui se trouve dans la galerie Pitti, a Florence.
+
+546
+## ECOLE ITALIENNE
+
+| 348   | La Circoncision                                                                                                        |
+|-------|------------------------------------------------------------------------------------------------------------------------|
+| 549   | ECOLE ITALIENNE Seizieme siecle. La Crucifixion Toile,H.:1041/2;L.:1041/2.                                             |
+| 550   | ECOLE ITALIENNE Seizieme siecle. Ecce Homo                                                                             |
+|       | ECOLE ITALIENNE Seizieme siecle.                                                                                       |
+| 351   | La Vierge, l'Enfant Jesus et trois tetes de Seraphins Panneau,H.:69 1/2;L.:56. ECOLE ITALIENNE Fin du seizieme siecle. |
+
+Fin du quinzieme siecle.
+
+## Saint Louis
+
+On remarquera la mitre d'abbe et la crosse qu'il porte, la volute en dedans, comme chef de labbaye de Royaumont et autres lieux par lui fondes.
+
+Toile,H.:103;L.:40.
+555
+
+Toile,H.:103;L.:40.
+
+Deux panneaux provenant d'un polyptyque.
+
+## ECOLE ITALIENNE
+
+Dix-septieme siecle.
+
+La Fille de Jaire
+
+554
+
+555
+
+Toile,H.:75;L.:93.
+
+Cadre.cn bois sculpte de forme chantournee.
+
+## ECOLE ITALIENNE
+
+Dix-septieme siecle.
+
+Mater Dolorosa
+
+Elle est representee la tete penchee en avant, les deux mains croisees sur la poitrine et vetue d'une palla noire doublee de rouge:
+
+Panneau,H.:3o1/2:L.:251/2
+
+## ECOLE ITALIENNE
+
+Dix-septieme siecle.
+
+556
+
+Jesus vu jusqu'a la poitrine
+
+Panneau,H.:46 1/2;L..37.
+
+## ECOLE ITALIENNE
+
+Dix-septieme siecle
+
+Saint Christophe
+
+557
+
+## Sainte Lucie
+
+Panneau, H.:39; L. :27.
+560
+
+561
+
+## ECOLE ROMAINE
+
+Dix-huitieme siecle.
+
+Episode de la conquete romaine
+
+Toile,H.:107;L.146.
+
+## ECOLE VENITIENNE
+
+Seizieme siecle.
+
+Portrait d'un jeune prince
+
+Il est debout, tenant de la main droite un pistolet.
+
+Toile maroufee sur panneau, H.: 1o3; L. : 64.
+
+## ECOLE VENITIENNE
+
+Fin du seizieme siecle.
+
+562
+
+Eveque benissant
+
+Esquisse pour un plafond.
+
+## ECOLE ITALIENNE
+
+Dix-huitieme siecle.
+
+558 Interieur d'eglise d'architecture ogivale
+
+Toile,H.:361/2;L.:56.
+
+## ECOLE ITALIENNE
+
+Dix-huitieme siecle.
+
+- 559 Figures au pied d'une vieille construction
+
+Toile,H.:25;L.:38.
+
+Toile de forme ovale,H.:63L.:50.
+565
+
+564
+
+## ECOLE VENITIENNE
+
+Fin du seizieme siecle.
+
+Le mariage de la Vierge
+
+Toile, H.: 72;L.: 105.
+
+## ECOLE VENITIENNE
+
+Commencement du dix-septieme siecle.
+
+Portrait d'un philosophe
+
+Il est en robe d'interieur noire garnie de vison. ll tient de sa main droite, le bras pose a laccoudoir du siege,un manuscrit plie,et de la main gauche,qui s'appuie au bord dune table, l'index allonge,il semble indiquer une pendule sur laquelle, sous un cylindre de verre, on apercoit un petit squelette debout.
+
+Toile,H.:1111/2;L.:98.
+
+Ce portrait est peut-etre celui du theologien Jacobus Harmensen, de Oudewater, dit Arminius, fondateur de la secte protestante des Arminiens,a Leyde (1560-16o9). Cette ceuvre aurait éte peinte par un maitre venitien, de passage en Hollande. (#)
+
+## ECOLE VENITIENNE
+
+Dix-huitieme siecle.
+
+Fete romaine
+
+565
+
+Toile,H.:74:L.:99
+## AQUARELLES,DESSINS, GOUACHES,
+
+anciens et modernes
+
+## BACLER d'ALBE
+
+366. Paysage mouvemente anime de personnages et d'animaux, sous d'epais ombrages, pres d'un cours d'eau.
+
+Importante gouache signee en bas et datee 1796.
+
+## BACLER d'ALBE
+
+367. Paysage presentant une vallee encaissee dans laquelle des bacchantes se livrent a des danses et a des libations, au pied d'une
+2. cascade.
+
+## BARBIER
+
+368. Jeune femme vetue de blanc dans un paysage.
+
+Dessin aux trois crayons. -Signe a gauche et date 1804
+
+## BAUMONT(Ch.-E.)
+
+369. Un salon sous le second Empire.
+
+Dessin a la mine de plomb.
+
+Importante gouache.
+## BERNARD(P.) Attribue a
+
+370.Defle de grotesques, scenes de carnaval.
+
+## BERNARD
+
+371. Portrait de la reine Marie-Antoinette, vue en buste et de profil.
+
+Dessin au trait deplume et a main levee.-Signe en bas et a droite.
+
+Cite dans Iouvrage de M.le Baron R.de Portalis et Henri Beraldi:Les graveurs duDix-huitieme siecle.
+
+## BERNARD
+
+372. Portrait de Marie Feodorowna.-Portrait de Paul Petrowich.
+
+Deux dessins au trait deplume a main levee.
+
+## BOILLY (Attribue a)
+
+373. Jeune garcon.
+
+Signes et dates 1796.
+
+## CALAME(A.)
+
+- 374.Quatre petits paysages.
+
+## CALAME(A.)
+
+375. Petit paysage : Sentier a la lisiere d’un bois.
+
+Dessin a la mine de plomb.
+
+Dessin au lavis.
+
+Dessin a la mine de plomb.
+
+Dessins a la plume.
+379. Paysage.
+380. Paysages.
+
+## CALAME(A.)
+
+376. Trois petits paysages.
+
+## CALAME(A.)
+
+377. Paysage montagneux.
+
+## CALAME (A.)
+
+378. Paysage avec chaumiere, cours d'eau et pont en ruine.
+
+Sepia.
+
+Dessin au lavis.
+
+## CALAME(A.)
+
+## CALAME(A.)
+
+Deux dessins a la mine de plomb.
+
+## CALAME(A.)
+
+381. Paysage montagneux.
+
+Dessins au lavis.
+
+Aquarelle signee a gauche.
+
+Dessin a la mine de plomb.
+## CALAME(A.)
+
+382. Chaumieres avec paysannes.
+
+## CALAME(A.)
+
+383. Paysage pres de Geneve.
+
+Dessin a la mine de plomb.-Signe a droite.
+
+## CALAME(A.)
+
+- 384 Paysage:Etude d'arbres.
+
+Dessin au crayon et au lavis.
+
+## CALAME(A.)
+
+385. Paysage avec torrent et perspective de monument.
+
+Signe au bas. - Crayon noir.
+
+## CARESME(Ph.)
+
+## Bacchanales
+
+386. Deux aquarelles gouachees se faisant pendant.
+
+Aquarelle.
+
+Signees.
+
+## CARESME(genre de)
+
+387. Faune decouvrant une nymphe endormie defendue par l'Amour.
+
+Importante gouache.
+## CARRACHE (Annibal)
+
+388. Combat des Centaures et des Lapithes.
+
+Dessin a la plume et au lavis.
+
+## CAZIN (Ch.)
+
+- 389.Un coin de ferme.
+
+Dessin au crayon noir et au fusain.
+
+## CHAPLIN (Ch.) d'apres
+
+390. Jeune femme symbolisant la Musique, endormie sur un nuage.
+
+Piece en couleurs.
+
+## CHASSERIAU (Th.)
+
+- 391.Etude de types orientaux.
+
+Aquarelle gouachee, signee cn bas. a droite.
+
+## CHODOWIECKI (D.)
+
+## L'Attentat
+
+392.
+
+Medaillon dessine a la mine de plomb avec figure de femme en remarque.- Signe ct date 1792.
+
+## CICERI(Eug.)
+
+393. Vue d’une ruelle bordee de hautes maisons.
+
+Petite gouachc.
+395.Etude.
+
+397.
+
+## DALENS
+
+394. Paysages animes de petits personnages.
+
+Deux dessins au lavis sefaisant pendants.
+
+## DELACROIX(Eug.)
+
+Dessin au crayon noir.-Portant le cachet de la vente.
+
+## DORE(Gustave)
+
+396.Costumes pour loperette:Genevieve de Brabant
+
+Onze dessins a la mine de plomb.-Reliure en maroquin vert.
+
+## DORE(Gustave)
+
+Les amis de Polichinelle
+
+Douze dessins a la mine de plomb.Reliure en cuir vert, et dore.
+
+## DORE (Gustave)
+
+398. Chats endormis.
+
+Trois dessins au crayon noir. - Signes du monogramme.
+
+## DUBUFFE fils (G.)
+
+399. Femme nue a demi etendue.
+
+Dessin ala mine de plomb.-Signe et date avec dedicace.
+## ECOLE ALLEMANDE
+
+Commencement du dix-neuvieme siecle.
+
+400. Jeune fillette.
+
+Dix-huitieme siecle.
+
+Dessin a la mine de plomb.
+
+## ECOLE ANGLAISE
+
+401. Le vieux menage. Scene humoristique.
+
+## ECOLE ANGLAISE
+
+402. La jeune fermiere.
+
+## ECOLE ESPAGNOLE
+
+403. Portrait équestre.
+
+## ECOLE FRANCAISE
+
+404. Femme nue, assise, tenant une grappe de raisin.
+
+Dessin aux trois crayons.
+
+## ECOLE FRANCAISE
+
+Dix-huitieme siecle.
+
+405. Femme nue, assise les jambes croisees, se tenant le pied droit.
+
+Dessin a la sanguine.
+
+Dessin aquarelle.
+
+Aquarelle.
+
+Dessin au lavis.
+## ECOLE FRANCAISE
+
+Dix-huitieme siecle.
+
+406. Jeune femme vetue d’une robe a larges paniers representee debout sur une terrasse et pres d'une habitation.
+
+## ECOLE FRANCAISE
+
+Dix-huitieme siecle.
+
+407. Esquisse pour une miniature.- Portrait d'un chasseur represente tenant une piece de gibier de la main droite et son fusil dans
+2. le bras gauche.
+
+Dessin aquarelle.
+
+Dessin au crayon noir legerement rehausse.
+
+## ECOLE FRANCAISE
+
+Commencement du dix-neuvieme siecle.
+
+## Baigneuses
+
+408. Une jeune femme demi-nue, debout sur un rocher, semble se disposer a se livrer aux plaisirs du bain, auxquels paraissent l'inviter
+2. trois Amours.
+409. Deux jeunes femmes,au bord d’une source, president aux ebats
+4. aquatiques de deux Amours.
+
+Deux aquarelles se faisant pendants.
+
+## ECOLE FRANCAISE
+
+410. Deux paysages.
+
+Aquarelles se faisant pendants.
+## ECOLE FRANCAISE
+
+411. Dunes au bord de la mer; soleil couchant.
+
+## ECOLE FRANCAISE
+
+412. Jeune femme donnant le sein a un enfant.
+
+## ECOLE ITALIENNE
+
+413. Colonnade et portique d'un palais.
+
+Dessin a la plume et au lavis.
+
+## FLAMENG(F.)
+
+414. Officier de dragons du Premier Empire.
+
+## FRAGONARD (H.) Attribue a
+
+415. Etude.
+
+## FORTUNY
+
+416. Deux dessins a la plume et au lavis.
+
+Aquarelle.
+
+Dessin ala sepia.
+
+Aquarelle.
+
+Dessin a la sepia.
+## GAVARNI(S.)
+
+## Mesdames de la Halle
+
+417. Devant leurs eventaires amplement approvisionnes de legumes varies, les femmes de la Halle attendent les chalands.
+
+Signe en bas a droite.
+
+418.
+
+Signe a droite.
+
+Dessin au crayon noir,H. : o,24; I.: o.32.
+
+## GAVARNI (S.)
+
+La Porteuse aux Halles
+
+Dessin au crayon noir, H.:o,28;L.: o,21
+
+## GAVARNI(S.)
+
+## Les Misereux
+
+419. Sur un grabat,un homme est etendu, terrasse par l'ivresse; a cote de lui, sa femme et son enfant en proie a la plus profonde
+2. detresse.
+
+Date de Londres: janvier 188.
+
+Tres beau dessin a la mine de plomb, H. : o,27; L.:o,21.
+
+## GAVARNI(S.)
+
+## Charite filiale
+
+420. Sur un pont rustique, une jeune fille soutient les pas chancelants d'un vieillard.
+
+Date en basa gauche:Londres,janvier 1848.
+
+Dessin a la mine de plomb,H.:0,27;L.:o,20
+## GAVARNI(S.)
+
+## Un Boueux
+
+421. ll est vu de dos,une pelle attachee aux epaules, et tourne du cote d'un mur contre lequel il a pose son balai.
+
+Signe en bas et a droite.
+
+Dessin aquarelle et releve de gouache,H.:o,32; L.:o,21.
+
+## GAVARNI(S.)
+
+## Necessite n'a pas de loi
+
+422. Chiffonniere :vue de face, au pied d'un mur, vetue d'un chale jaunatre et soulevant legerement sa robe.
+
+Signe en bas et a gauche.
+
+Dessin aquarelle,releve de gouache,H.:o,32: L.:o,24
+
+## GAVARNI (S.)
+
+## Un Boueux
+
+423. Il est vu de face s'appuyant sur son balai, sa pelle passee en bandouliere.
+
+Signe a gauche et en bas.
+
+Dessin aquarelle rehausse de gouache,H.:o,32; L.:o,24.
+
+## GAVARNI (S.)
+
+424. Vingt et un dessins a la mine de plomb, rehausses d'aquarelle pour l'illustration du Juif errant par Eugene Sue.
+
+Avec frontispice orne au bas d'un dessin a la mine de plomb rehausse de gouache.
+## GUDIN
+
+| 425. Quatre dessins : Paysages et marines sous un meme cadre.                  |
+|--------------------------------------------------------------------------------|
+| 426. Marine:Naufrage. Dessin au lavis rehausse de gouache.-Signe a gauche.     |
+| 427. Christ en croix. Dessin a la sanguine.                                    |
+| GREUZE(J.-B.) 428. Buste de jeune femme eploree.                               |
+| 429. Deux femmes attablees et conversant. Dessin au lavis rehausse de gouache. |
+| 430. Jeune femme assise vue de profil, la tete tournee de face.                |
+
+Dessin au lavis rehausse et gouache.
+431.
+
+- peintre.
+
+Dessin a la sanguine.
+
+## INGRES(Attribue a)
+
+434. Esquisse : Portrait d'homme, vu en buste, de profil.
+
+Dessin a la mine de plomb.
+
+## KRAUSS(G.-M.)
+
+435. Portrait de Glick en buste.
+
+Important dessin au crayon noir.
+
+## LAMI (Eug.)
+
+436. Levrette assise, tenant dans sa gueule une carte au nom du
+
+Officier du 2 Hussards, avec dedicace au dos signe du monogramme.
+
+Deux petites aquarelles dans un meme cadre.
+
+## HENNER (J.)
+
+## Le Jeune Martyr
+
+## HOLLAR(W.)
+
+432. Tetes de grotesques.
+
+Dessin a la plume et au lavis.
+
+## HUET (J.-B.)
+
+433. Un coin de ferme.
+
+Dessin au crayon noir.
+## LAMI(Eug.)
+
+| 437. Etude pour lattaque d'une diligence.                    |
+|--------------------------------------------------------------|
+| 438. Jeune paysan vu de dos et tendant son chapeau.          |
+| LEPICIE                                                      |
+| MENZEL                                                       |
+| Aquarelle gouachee.- Signee a gauche.                        |
+| 441.Etude de cavaliers. Crayon noir.                         |
+| 442.Marine:moulins a vent sur le bord de la mer en Bretagne. |
+## NUMA
+
+443. Jeunes femmes dans des interieurs.
+
+Deux dessins au crayon noir rehausses de couleurs et gouaches.
+
+## OUDRY (J.-B.)
+
+444. Natures mortes:legumes et feurs pres de l'entablement d'une colonnade.
+
+Deux dessins au lavis rehausses de gouache. - Se faisant pendants.
+
+## PRADILLA
+
+445. Un mendiant Napolitain.
+
+## PRUD'HON (Ecole de)
+
+446. Le char de Venus.— Venus et Apollon.
+
+Deux dessins rehausses d'aquarelle et de gouache se faisant pendants.
+
+## QUINEAU (G.)
+
+447. Dessin pour la gravure representant des tableaux divers dans
+2. des encadrements surmontes d'un fronton a medaillons accote de figures allegoriques et ornes de motifs decoratifs.
+
+## REGNAULT (Henri)
+
+448. Son portrait par lui-meme,
+
+Dessin a la mine de plomb date: juillet 1857,portant la signature autographiee du maitre.
+
+Dessin a la plume.
+## SAINT-AUBIN (Attribue a)
+
+449. Portrait d'homme vu a mi-corps, appuye sur un livre reposant sur une table.
+
+Dessin au crayon noir.
+
+## SAINT-AUBIN (Attribue a)
+
+450. Profil de jeune homme. Profl d'homme agé.
+
+Deux dessins au crayon noir. - Se faisant pendants.
+
+## TEN CATE
+
+451. Scenes de la vie de Hollande.- Souvenirs des Pays-Bas.
+
+Dessin aquarelle.- Signe et date 1854.
+
+## TIEPOLO(D.)
+
+452. Etude pour un Saint Roch.
+
+Dessin au lavis signe en bas.
+
+## TIEPOLO(D.)
+
+453. Deux tetes d'homme.-Etudes.
+
+Deux dessins aux trois crayons.
+
+## TIEPOLO (D.)
+
+454. Apotheose d'un saint.
+
+Dessin a la plume et au lavis.- Signe en bas.
+455. L'abreuvoir.
+
+## TROYON (C.)
+
+Fusain signe du monogramme a gauche.
+
+## VERNET(Carle)
+
+- 456.Mameluck a cheval.
+
+Aquarelle gouachee.-Signee en bas et a gauche.
+
+## VERNET(Carle)
+
+457. Le rendez-vous de chasse.
+
+## VERNET(Carle)
+
+458. Cheval de pur sang a la promenade.
+
+Dessin au crayon noir.-Signe a gauche.
+
+## VERNET (Horace)
+
+459. Esquisse:Artilleur.
+
+Dessin au lavis.
+
+Petit dessin au crayon noir.
+
+## VIGEE-LEBRUN (Mme)
+
+460. Portrait de jeune femme representee debout, vue a mi-jambes, vetue d'une robe de mousseline largement échancree,les bras nus et retenant une écharpe de la main droite;la tete presque de face, coiffee d'un bonnet de lingerie.
+
+Dessin a la pierre noire releve de quelques touches de crayon blanc.
+465.Marine.
+
+## VIVIEN (J: de)
+
+461. Portrait d'homme, vu en buste et de trois quarts, vetu d'un habit et d'une haute cravate de satin noir,et portant une plaque d'ordre a droite.
+
+Signe et date 1843.
+
+## WATTELET
+
+462. Paysage : vue de ville en Hollande.
+
+Aquarelle gouachee. - Signee a gauche.
+
+## YVON (A.)
+
+## 463. L'assaut de la tour de Malakoff
+
+par le general Pelissier lmportant dessin rehausse de couleurs.-Signe a gauche et date1855.
+
+## ZIEM (F.)
+
+## Venise
+
+464. Le grand canal et leglise Santa-Maria della Salute.
+
+Mine de plomb.--Date Venise 1843.
+
+ZIEM (F.)
+
+Nice
+
+Pendant du precedent.-Signe et date de Nice 1843?
+466.
+
+## ZIEM(F.)
+
+Interieur d'une eglise
+
+Aquarelle signee et datee de Vienne 18，7.
+## MINIATURES
+
+## &amp; PEINTURES EN MINIATURE
+
+FIXES
+
+## AUBRY
+
+467. Portrait de jeune femme vetue d'une robe noire decolletee,une
+2. écharpe rouge sur les épaules. Elle est vue de dos, assise a son chevalet et peignant des fleurs. Miniature sur ivoire. Signee sur la boite de couleurs et datee 1829.
+
+Cadre orne de bronzes.
+
+## CHARLIER
+
+468. Venus entouree d'Amours apparaissant a Adonis: fond de paysage.
+
+Tres importante miniature sur ivoire.
+
+## CHARLIER (genre de)
+
+469. Portrait de femme representee a mi-corps, assise,vetue d'un corsage de linon largement échancre avec nceuds violets et d'une robe jaune a basques;elle est accoudee a un coussin bleu et donne a manger a un oiseau favori pose sur son bras;fond de draperie bleue
+
+Miniature sur ivoire.
+
+- et colonne.
+- d'ecaille.
+
+## DUPRE (L.)
+
+470. Portrait de jeune femme, vue de face, en buste,robe bleue, collerette de linon plissee, cheveux chatains retenus par un peigne
+
+Importante miniature.-Signee L.Dupre et datee de Paris 183o.
+
+## ECOLE ALLEMANDE
+
+Dix-huitieme siecle.
+
+471. Portrait de jeune femme representee en buste, vetue d'un cor-
+2. sage blanc largement échancre et drapee dans un manteau bleu.
+
+Petitepeinture a l'huile en miniature.
+
+## ECOLE ANGLAISE
+
+Dix-neuvieme siecle.
+
+- 472.Portrait d'homme vu en buste,de face,le col de la chemise
+- largement ouvert, drape dans un manteau bleu a col noir.
+
+Miniature ornant le couvercle d'une boite ronde en poudre d'ecaille.
+
+## ECOLE ESPAGNOLE
+
+Dix-septieme siecle.
+
+473. Portrait d'homme vu en buste,vetu d'un pourpoint en velours noir a haut collet, un collier d'or autour du cou,coiffe d'une barrette
+2. plate.
+
+Petite peinture a l'huile en miniature.
+
+## ECOLE FLAMANDE
+
+Seizieme siecle.
+
+474. Portrait de Simon Bennik par lui-meme. Il est represente dans son atelier, en bu ste,assis a son pupitre d'enlumineur.Par la fenetre on apercoit des arbres et la silhouette d'une maison. Date de 1558.
+
+Miniature sur velin. Cadre en bois noir a volet.-Datee de 1558.
+## ECOLE FLAMANDE
+
+Dix-huitieme siecle.
+
+475. Galerie de lArchiduc Leopold. Une grande salle ou les murs sont en partie caches par des tableaux. On y voit d'autres tableaux deposes contre les meubles,ainsi que des moulages, des poteries, un album de dessins.Des amateurs se promenent au milieu de ces belles choses. On remarque que les personnages sont en costume Louis XIll, alors que, contre le mur du fond, on apercoit un personnage de profil portant la perruque a cadenettes.
+
+Gouache dontlevelin aetemonte surpanneau.
+
+## ECOLE FRANCAISE
+
+Dix-huitieme siecle.
+
+476. Portrait d'homme,vu en buste,la tete de face, vetu d'un habit violet, les cheveux poudres.
+
+Miniature sur ivoire.
+
+## ECOLE FRANCAISE
+
+Dix-huitieme siecle.
+
+477. Une jeune femme nue,coiffee d'un turban a aigrette,allongee
+2. sur un lit de repos, se souleve, tandis qu'un negre lui presente une echarpe.
+
+Miniature sur ivoire.
+
+## ECOLE FRANCAISE
+
+478. Tete de jeune femme vue de profil,peinte en grisaille sur fond noir.(Genre de Sauvage.)
+
+Miniature sur ivore.
+## ECOLE FRANCAISE
+
+Commencement du dix-neuvieme siecle.
+
+479. Portrait de jeune femme vue en buste,la tete de face, cheveux au naturel,robe de mousseline blanche echancree sur la poitrine, ceinture formee par un cordonnet passe sous les seins.
+
+Miniature sur ivoire.-Signee de Gerin(2) et dalee 18o2.
+
+## ECOLE FRANCAISE
+
+Commencementdudix-neuvieme siecle.
+
+480. Portrait de jeune femme assise dans un fauteuil, elle est vue de face, ecartant de la main droite un voile de gaze brode qui lui enveloppe la tete,robe decolletee,largement échancree sur la poitrine.
+
+Miniature sur ivoire.
+
+## ECOLE FRANCAISE
+
+Commencement du dix-neuvieme siecle.
+
+481. Portrait presume de Lcetitia Ramolino.
+
+Tres fin dessin a la mine de plomb, signe Gestereich et date 181o.- Cadre bois noir etcercle en bronze ciseleet dore.
+
+## ECOLE FRANCAISE
+
+Commencement du dix-neuvieme siecle.
+
+482. Deux fixes rectangulaires se faisant pendants. Paysages.
+
+Fixe rectangulaire.-Paysage avec cours d'eau, chateau et personnages.
+## ECOLE FRANCAISE
+
+Dix-neuvieme siecle.
+
+483. Portrait de jeune femme vue en buste,robe rouge montante a lisere blanc, col et devant de mousseline ruchee.
+
+Miniature sur ivoire.
+
+## ECOLE FRANCAISE
+
+Dix-neuvieme siecle.
+
+484. Portrait de femme agee assise,les bras croises, coiffee d'un bonnet de lingerie et vetue d'une robe a rayures.
+
+Cadre en bois.-Miniature sur ivoire.
+
+## ECOLE FRANCAISE
+
+Dix-neuvieme siecle.
+
+485. Portrait en profil de jeune femme, robe blanche decolletee, cheveux au naturel, vue en buste.
+
+Miniature sur ivoire.
+
+## ECOLE FRANCAISE
+
+486. Jeune femme nue,assise,la taille entouree d'une ceinture d'orfevrerie, coiffant sa blonde chevelure.
+
+Miniature sur ivoire.
+
+## ECOLE FRANCAISE
+
+487. Jeune femme assise et accoudee, vetue d'une robe verte au corsage largement echancre et laissant apercevoir les seins, approche de ses levresun oiseau favori.
+
+Miniature sur ivoire.
+## ECOLE HOLLANDAISE
+
+Seizieme siecle.
+
+488. Portrait d'homme vu en buste,cheveux et barbe bruns, vetu de noir, une fraise autour du col.
+
+Petite peinture ronde.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+489. Portrait d'homme vu presque de face en buste, col de lingerie, pourpoint noir, cheveux au naturel.
+
+Petite peinture a l'huile.
+
+## ECOLE HOLLANDAISE
+
+Dix-septieme siecle.
+
+- 49o. Portrait de femme en bonnet,collerette blanche,vue a mi-corps, assise pres d'une table.
+
+Petite peinture a l'huile.
+
+## ECOLE ITALIENNE
+
+Dix-neuvieme siecle.
+
+491. Portrait de femme vue en buste,un fichu croise sur les epaules, collier de corail autour du col.
+
+Miniature.
+
+## HEM (David de)Attribue a
+
+492. Nature morte:citrons, grenades et cerises.
+
+Petit panneau peint a l'huile.
+## HUET (J.-B.)
+
+493. Jeux d'enfants:petite composition a trois personnages militaires.
+
+Miniature ovale sur nacre.
+
+## ISABEY (Attribue a)
+
+- 494.Portrait de femme vue de profil.
+
+Esquisse. Dessin rehausse d'aquarelle.
+
+## ISABEY (Ecole de)
+
+495. Portrait de femme, vue en buste, la tete inclinee sur la gauche, cheveux bruns coiffes en papillotes ornes de deux rangs de perles; cheveux nattes et retenus par un peigne ; voile de tulle brode.
+
+Miniature sur ivoire.
+
+## LAPERCHE(de)
+
+496. Jeune enfant couche dans son berceau. Portrait presume du roi de Rome.
+
+Miniature sur ivoire.-Signee et datee 1805.
+
+## ROBERT (Hubert)
+
+- 497.Au bord du lac.
+
+Peinture sur toile,fixee sur verre ovale.
+
+## VERNET
+
+498. Portrait d'homme, vu en buste,vetu d'un habit vert a collet bleu, cheveux poudres.
+
+Miniature ovale sur ivoire.-Signee et datee 1797.
+## TERRES CUITES,MARBRES
+
+## anciens et modernes
+
+499. Buste en terre cuite:homme barbu, la tete et les epaules dra-
+2. pees, xVIl siecle.
+
+Socle en bois peint, decor de marbre vert de mer.
+
+500. Groupe en terre cuite : homme barbu figurant un feuve, etendu et s'appuyant du bras droit sur un vase symbolisant une source; il tient de la main gauche un gouvernail.
+
+Ecole francaise dix-septieme siecle.
+
+501. Groupe en terre cuite,projet demonument par DARDEL,signe et date 1790.
+
+Gustave-Adolphe est represente expirant a Lutzen dans les bras d'une femme ailee symbolisant la Gloire.
+
+Execution tres poussee.
+
+H.:0,31.
+
+## Important groupe en terre cuite :
+
+## Bacchus par CLoDION
+
+502. Le jeune dieu,couronne de pampres, est couche,etendu sur une peau de lion, appuye du bras droit qui retient des grappes de raisins, sur un vase a socle cannele, et elevant du bras gauche une coupe.
+
+Signe sur le vase: Clodion 1795.
+
+H.:0,40;L.:0,54.
+## CLODION
+
+## Deux bas-reliefs en marbre blanc.
+
+| 503. L'Innocence sacrifiant a l'Amour.                                                         |
+|------------------------------------------------------------------------------------------------|
+| 504. “Jeunes filles donnant la liberte a des Amours. Ils portent en bas la signature :CLODION. |
+| 505.Statuette en marbre blanc:α Baigneuse .                                                    |
+| 506. Main en marbre reproduisant le moulage de la main de George SAND()                        |
+| 507.Levrette assise.                                                                           |
+| 508.Masque de I'empereur Napoleon I apres sa mort. Marbre d'apres le moulage du D Antomarchi.  |
+| 509.Buste d'homme.                                                                             |
+## BRONZES FRANCAIS
+
+## ITALIENS
+
+des xVI,xvIl &amp; xVIll Siecles
+
+## BRONZES D'APRES S BARYE
+
+## BRONZES MODERNES - OBJETS DIVERS
+
+510. Buste de jeune homme. Ancien bronze italien. Traces de
+2. dorure. Socle en plomb teinte; contre socle en marbre.
+
+Cire perdue.
+
+511. Buste d'empereur romain drape et laure.
+
+Ancien bronze italien fondu a la cire perdue.
+
+- 512.Groupe en ancien bronze italien:Hercule luttant contre un
+- lion：
+513. Statuette en ancien bronze italien:&amp; Homme debout casque
+- élevant le bras gauche.
+514. Statuette en ancien bronze italien : Hercule au repos . Inspire de I'Hercule Farnese.
+515. Statuette en ancien bronze italien : Guerrier romain s'appretant a tirer son glaive.
+3. 516.Statuette en ancien bronze italien :&amp; Bacchus
+517. Statuette en ancien bronze italien : Neptune .
+518. Petite statuette en ancien bronze italien : Cupidon
+519. Groupe en ancien bronze italien :α Hercule et Dejanire enlaces ayant a leurs pieds le cadavre du Centaure Nessus .
+520. Buste en ancien bronze italien sur piedouche :&amp; Empereur Romain.
+521. α Cheval au galop .Ancien bronze italien.
+
+Socle marbre blanc a filets de bronze.
+
+522. Statuette d'homme debout relevant son peplum de la main droite. Ancien bronze italien.
+
+Socle en marbre et granit rose.
+
+- αApollon represente debout, le bras droit appuye a la hanche retenant une draperie du bras gauche.
+523. Statuette en bronze ancien. Italie.
+524. Buste en bronze ancien sur piedouche: Louis XIV represente en cuirasse et drape.
+
+Cireperdue.
+
+525. Buste en bronze ancien sur piedouche en bronze cisele et dore: jeune femme, les epaules drapees, la tete tournee a gauche.
+
+Cire perdue. Socle cylindrique monte en bronze dore.
+
+526. Buste en bronze ancien sur piedouche cisele et dore.-Jeune fille la tete legerement inclinee sur la droite.
+
+Cire perdue. Socle cylindrique monte en bronze dore.
+
+- 527.Groupe équestre en ancien bronze dore:Frederic le Grand .
+- 528.Buste en bronze italien, patine verte :Enfant en extase .
+529. Deux statuettes en bronze:Voltaire et Rousseau representes debout, s'appuyant sur leurs cannes.
+
+Soclesrectangulaires en marbrerougegriotte montes en bronze.
+
+530. Deux petits bustes en bronze:&amp; Racine et Moliere .
+
+Socles cylindriques en porcelaine blanche montes en bronze.
+
+531. Buste en bronze sur piedouche :&amp; Portrait de Racine .
+532. Buste en bronze sur piedouche:Empereur Pierre HI de Russie.
+- 533.Statuette en bronze:αLa Gloire. Elle est representee debout,drapee dans sa robe,tenant une branche de laurier de la main droite,élevant une couronne de la main gauche.
+
+Socle rectangulaire en marbre vert de mer orne de bronzes.
+
+534. Bronze d'apres Barye:α Tigre marchant .
+2. 535.Bronze:Lion
+536. Groupe en bronze :α Lion au serpent , d’apres Barye.
+
+H.:0,24；L.:0,35.
+
+537. Ours debout. Bronze d'apres Barye.
+538. Groupe bronze:α Cheval , d’apres P.I. Mene.
+3. 539.Bronze moderne: Taureau .
+
+## DIVERS
+
+540. Petit medaillon offrant un groupe d'Amours dans des nuages portant une guirlande de feurs.
+
+Relief modele a la cire teintee sur plaque d'ardoise.
+
+541. Groupe en bois sculpte:&amp; Hommc scalpant un faune cloue a un arbre. Allemagne XVII siecle.
+542. Petit plat creux en email offrant au centre, en camaieu, Hercule terrassant un lion. Marli a guirlande de fruits et mascarons.
+543. Petite plaque ovale en email, offrant une jeune femme vue en buste,portant un enfant.
+
+Cadre metallique,travail russe.
+
+- 544.Objets0mis.
+IMPRIMERIE GENERALE LAHURE 9,RUE DE FLEURUS,PARIS

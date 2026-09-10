@@ -1,0 +1,2614 @@
+<!-- image -->
+
+## AELST,WILLEM VAN,
+
+geb.zu Delft vor 1626;zu Amsterdam angeblich 1679.
+
+## 1.Stilleben.
+
+Auf einem Mauergesims,mit weit zurickgeschobener,breit gefranzter rother Pluschdecke steht ein halbgefilltes Romerglas mit hohem reichornirtem Metallfuss neben prichtiger Venetianerschale und grosser Perlmuttermuschel,auf der eine Fliege herumkriecht. Links liegt eine geoffnete Taschenuhr mit blauer Atlasschleife.
+
+Treffliches Bild des Meisters,fein in Zeichnung und Ton.
+
+Leinwand.Hohe 66,Breite 55 Cent.
+
+## AMOROSI,ANTONIO,
+
+geb.166o;nach 1736.
+
+## 2. Der Guitarrespieler.
+
+Junger Mann, en face dargestellt bis zum Knie, in grauem Gewande und hoher Zipfelmitze,sitzt,mit vergnigtem Gesichtsausdruck die Guitarre spielend, auf einem Tische;neben ihm links liegen Kohlenstift,Zeichnungsblatt mit Blumenkranz etc.
+
+Breit behandeltes,effectvolles Bild,in der Art des Murillo,bekannt durch das Schabkunstblatt von J.G.Haid (Meyer Allg.K.-Lex.No.1).
+
+Leinwand.Hohe 98,Breite 77 Cent.
+## APSHOVEN,FERDINAND VAN,
+
+Maler von Antwerpen,163o—1695.
+
+## 3.Die Mablzeit.
+
+Um einen runden,mit weissem Leinentuche bedeckten Tisch sitzen drei Manner; der eine erhebt sein halbgefiltes Glas, wahrend die Mittelfigur im Begriffe ist, einen Schinken zu tranchiren. Hinter der Gruppe steht,mit der erhobenen Linken zuwinkend, ein Bauer; links seitlich sitzt, sein Thonpfeifchen rauchend,ein alterer Handwerker,neben welchem eine junge Frau sitzt, von einem Knaben geliebkost.
+
+Schemel mit dem vollen Namen bezeichnet.
+
+Ganz im Geiste des Teniers gehaltenes, breit behandeltes Bild. Links auf einem
+
+Holz.Hohe 44,Breite 54 Cent.
+
+## AST,BALTUS (BALTHASAR) VAN DER,
+
+geb.zu Middleburg; 1633 zu Delft,wo er um 1656 noch lebte.
+
+## 4.Blumenstick.
+
+In einem Venetianer Glasvaschen steht ein farbenprachtiger Strauss von Rosen,Tulpen und anderen Blumen,belebt von Kafern und Insecten. Neben der Glasvase kriechen Heuschrecke und Eidechse; links eine Krabbe in ihrer Muschel, auf der eine Libelle sitzt.
+
+Selten schone Qualitat des Meisters,hervorragend in der feinen Zeichnung.
+
+und dem leichten,durchsichtigen Colorit.
+
+Unten linls die Bezeichnung:
+
+B.Dandcr. ast.
+
+Holz.Hohe 37,Breite 24/2 Cent
+
+## s.Blumenstick.
+
+Auf einem Steintische steht ein doppeltgehenkelter durchbrochener Korb mit Blumen aller Art,auf denen Falter,Kafer und Insecten herumkriechen. Vor demselben liegen Nelke, Rose, Vergissmeinnicht, Muscheln und Schneckenhaus.
+
+Holz. Hohe 27,Breite 37 Cent.
+
+Klargefarbtes feines Bildchen.
+## AVERCAMP, HENDRIK, gen. Der Stumme von Kampen,
+
+geb.zu Amsterdam 1585;zu Kampen 1663.
+
+## 6.Belustigung auf dem Eise.
+
+Das Eis des den ganzen Vor-und Mittelgrund einnehmenden Flusses,in dem links zwei Boote eingefroren sind, belebt eine zahllose Staffage von Figuren aller Stande. Zwischen Gruppen von Schlittschuhlaufern bewegen sich promenirende Paare,Schlittenfahrer,Pferdeschlitten etc.Im fernsten Hintergrunde rechts wird das Ufer mit mehreren Ortschaften eben sichtbar.
+
+In der bekannten feinen und sauberen Manier des Meisters feissig ausgefihrtes, silbertoniges Bild;auf einem Sehlitten das Monogramm.
+
+Holz.H8he 28,Breite 42Cent.
+
+## BANDINELLI,BARTOLOMMEO BACCIO,
+
+geb.zu Florenz 1493:1560.
+
+## 7.Die Marter des bl. Laurentius.
+
+In einem Hofraume, den eine grosse Anzahl Figuren belebt, wird der Heilige von Schergen auf den Rost gestossen, unter dem andere das Feuer zu schiiren suchen, wihrend das Gericht der Procedur zuschaut. Links unten ein Wappen mit Andreaskreuz und Lilien.
+
+Interessantes, figurenreiches Bild. Durch den Stich des Marc-Anton Raimondi bekannt.
+
+Holz.Hohe 145,Breite 1go Cent.
+
+## BEGA,CORNELIS PIETERSZ,
+
+geb.zu Haarlem 1620; daselbst 1664.
+
+## 8.In der Scbenke.
+
+Als Hauptgruppe rechts im Vorgrunde ein Bauer auf einer Bank sitzend,der mit ihm schikernden Wirthin den Krug reichend. Links bei einer Tonne zwei andere Bauern,
+die eben ihr Kartenspiel beendet.Hinter einem Bretterverschlag,iber dem das Fenster erscheint,im Hintergrunde zwei weitere Figuren im Gesprich.
+
+Treffliches Werk des Meisters,sehr hibsch in der Composition, silbertonig und von tadelloser Erhaltung.Unten links bezeichnet: C. Bega.
+
+Holz.Hohe 37,Breite 3oeCent
+
+## BELOTTO,BERNARDO,gen.Canaletto,
+
+geb. zu Venedig 1720; zu Warschau 178o.
+
+## 9.Ansicht einer italienischen Stadt.
+
+Von dichten Hauserreihen begrenzter grosser Platz mit hoher Pyramide und ungemein reicher Staffage,mit Staatskarossen. Im Vorgrunde Bajazzitheater, dessen Vorstellung eine vielkopfige Menge zuschaut.
+
+Schones decorativ wirkungsvolles Bild, in sonnigem Tone trefflich ausgefihrt. Leinwand.Hohe S9,Breite 146 Cent.
+
+## BERGHEN,DIRK VAN,
+
+lebte zwischen 1661 und 169o zu Haarlem.
+
+## 10.Landschaft mit Vieh.
+
+Dichte Baumgruppen zieren ein in der Ferne rechts von einer Bergkette abgegrenztes higeliges Gelande,in welchem rechts eine Hirtin sich bei einem Esel zu schaffen macht, wahrend ihr Genosse ausruhend am Boden sitzt. Im Vorgrunde eine stehende und zwei liegende Kihe bei zwei Schafen, einem Lamme und einer grasenden Ziege; in der Ferne links ein weidendes Pferd.
+
+Vorziglich ausgefihrtes Bild von vollendeter genialer Wiedergabe des natur- wahren Ausdrucks und von sehr guter Erhaltung.
+
+<!-- image -->
+
+D.v.Berghcn
+
+Bezeichnet:
+
+Leinwand.Hohe 401/,Breite 461/ Cent.
+## I1.Landschaft mit Vieh.
+
+Weit ausgedehntes gebirgiges Gelande, in dessen Mittelgrunde rechts eine Baumgruppe. Im Vorgrunde lagert eine Heerde von Kuhen,Rindern und Schafen; eine braun-weiss gefleckte Kuh reibt sich an einem Weidenstamme. Rechts das Hirtenpaar. Abendiche Stimmung.
+
+Vortrefliches Bild,in Composition und Ausfuhrung dem A.v. de Velde nahestehend.
+
+Leinwand.Hohe 3o,Breite 37 Cent.
+
+## 12.Viehstick.
+
+Gebirgslandschaft mit Waldeingang links. Am Fusse des ersten hohen Baumes sitzt ein Hirtenknabe als Wachter der den Vorgrund belebenden Heerde von Kuhen,Rindern und Ziegen, von denen ein helbraunes Rind in der Furth rechts siuft.
+
+Vortreffliches Bild.Unten in der Mitte bezeichnet:D.v.Berghen.F.
+
+Leinwand.Hohe 25,Breite 31 Cent.
+
+## BLES,HERRI MET DE,
+
+geb. zu Bouvignes bei Namur um 148o; nach 1521.
+
+## 13. Grosse Landschaft mit der Busspredigt des Jobannes.
+
+Sehr weit ausgedehnte Flusslandschaft mit romantischen Gebirgs- und Felspartien,besetzt mit zahlreichen Ortschaften, einzelnen Hausern, Schlossern und Kirchen,theils auf der Hohe liegend. Im Vorgrunde,bei einem Felsthore Johannes der Taufer,vor zahlreich Versammelten predigend.
+
+Hochbedeutendes Werk des Meisters.Durch seine reiche Composition,durch die Feinheit seiner Durchfihrung und seine grosse Farbengluth und Klarheit dirfte das Bild zu den besten Werken desselben zahlen.In einem Felsloche das charakteristische Zeichen des Meisters,ein Kiuzchen.
+## BLOEMEN, PETER VAN, gen. Standaard,
+
+geb.zu Antwerpen 1657;daselbst 1720.
+
+## 14.Die Hufschmiede.
+
+Links im Vorgrunde liegt am Fusse eines Higels, auf dem eine grosse Ruine,die Hufschmiede, an deren Esse mehrere Gesellen beschaftigt sind.Vor derselben wird ein von einem Reitknecht gehaltener Schimmel beschlagen;links daneben stehen zwei geschirrte Karrenpferde; rechts Reiter in rothem Rocke, von einem Bettelknaben angesprochen,und ein Hund. Links ganz im Vorgrunde sitzt bei einer Gruppe von Schafen und Ziegen eine junge Hirtin mit Saugling auf der Erde. Neben ihr steht ein grosseres Kind.Die breite Strasse, auf der mehrere beladene Maulesel und verschiedene Figuren,fihrt an Gebaulichkeiten vorbei zu einer im fernsten Hintergrunde liegenden grossen Ruine.
+
+Reich componirtes Bild von ganz bedeutender Qualitat des Meisters, superb in der Zeichnung und glanzvoll in der Farbenwirkung. Rechts auf einem Steine bezeichnet mit dem Monogramm und der Jahreszahl 17o..
+
+Leinwand.Hohe 66,Breite S4 Cent.
+
+## 15.Der Halt beim Brunnen.
+
+In einer sich nach rechts weit ausdehnenden italienischen Gebirgslandschaft haben zwei Reiter mit finf Pferden im Hofe eines Gebaudes Halt gemacht, um die Thiere zu tranken.
+
+Links steht stallend ein Schecke;rechts im Vorgrunde liegt ein schlafender Hund.
+
+Schones,kraftig und breit behandeltes Bild. Unten links monogrammirt und mit Jahreszahl 1690.
+
+Leinwand. Hohe 51,Breite 66 Cent.
+
+## BLOOT, PIETER DE,
+
+lebte in Rotterdam,wo er 1652 begraben wurde.
+
+## 16.In der Schenke.
+
+In einem irmlich ausgestatteten Raume sitzen zechend, rauchend undjubilirend drei Bauern;in derhalb geoffneten Thuir
+rechts,zu der zwei Stufen hinauffihren,schauen vergnugt lichelnd zwei Kinder zu. Durch eine geoffnete Thtire im Hintergrunde links blickt man in ein zweites Gemach.
+
+Ganz ausgezeichnete Qualitit dieses seltenen Meisters, in schonstem Goldtone. Auf einer umgestirzten Bank rechts mit dem vollen Namen und der Jahreszahl 1635 bezeichnet.
+
+Holz. Oval. Hohe 33,Breite 41 Cent
+
+## BOEL,PETER,
+
+geb.zu Antwerpen 1622;zu Paris 1674.
+
+## 17.Todter Hase.
+
+Im Vorgrunde einer nach links weit sich ausdehnenden Landschaft liegt vor einem Felsblock ein todter Hase auf der Erde,mit den Hinterliufen hochgestellt.Neben ihm Hirsch- finger und Jagdgerathschaften.
+
+Superbes Bild;das Fell des Thieres in wunderbarer Wiedergabe.
+
+Leinwand. Hohe 94,Breite 75 Cent.
+
+## BOL,FERDINAND,
+
+geb.zu Dordrecht 1616;zu Amsterdam 168o.
+
+## 18.Bildniss eines Gelebrten.
+
+Brustbild leicht nach rechts gewandt; der mit hoher Pelzmiitze bedeckte Kopf ganz en face,mit struppigem Schnurrund Knebelbart. Er tragt einen braunen Sammetmantel und um den Hals ein weisses Tuch. In der vorgestreckten Linken hilt er eine Papierrolle. Graubrauner Grund.
+
+Geistreich und fein gemaltes, interessantes Bild. Unten rechts nicht ganz deutlich die Signatur F.Bol.
+
+Provenienz: Sammlung Birger,Paris.
+## BOUT,PIETER,
+
+geb.angeblich 1658zu Brissel;nach 1702
+
+und
+
+## BOUDEWYNS,ADRIAEN FRANS,
+
+geb.zu Brissel 1644;Todesjahr unbekannt.
+
+## 19. Zuei Landschaften mit reicher Staffage.
+
+Italienische Landschaften mit Gebirgskette und grossen antiken Ruinen,reich staffirt mit zahllosen, pikant gemalten
+
+Figirchen in einzelnen Gruppen der verschiedensten Art.
+
+Fein ausgefuihrte, freundliche Bildchen.
+
+## 20. Landschaft.
+
+Links liegt eine grosse Kirche mit anschliessendem Kloster;
+
+auf dem freien Platze vor derselben und auf dem breiten,zu gebirgiger Ferne fihrenden Wege rechts bewegen sich zahllose Figuren um die zum Markte getriebenen Heerden; in Wagen nahen Kaufer.
+
+Vorzigliches Bild von selten reicher Composition,hell und klar im Tone. Holz.Hohe 29,Breite 44 Cent.
+
+## BRAMER,LEONARD,
+
+geb.zu Delft 1595; daselbst 1674.
+
+## 21. Die Beschneidung Christi.
+
+Links als Hauptgruppe ein Hoherpriester, den von einem anderen Hohenpriester gehaltenen Jesusknaben beschneidend, umgeben von Maria und Joseph,Kerzentragern und mehreren anderen Figuren. Links von der Gruppe ein Levit, das Weihrauchbecken anfachend; rechts eine Gruppe von drei
+
+Holz. Hohe 21,Breite 311/e Cent.
+Priestern,der eine in vollem Ornate,die Gebetsformeln sprechend. Auf der Erde stehen und liegen Prachtgefaisse der verschiedensten Art, offene und geschlossene Chorbucher etc.herum.
+
+Superbes Bild,vortrefflich im Entwurf der Composition,glanzend im Colorit, das von grosser Leuchtkraft und Transparenz. Prov.: Sammlung Zampieri,Bologna und Kaunitz.
+
+Holz. Hohe 55, Breite 88 Cent.
+
+## BROUWER,ADRIAEN,
+
+geb.zu Oudenaerde 1606;↑zu Antwerpen 1638.
+
+## 22.Brustbild eines Bauern.
+
+Der Kopf fast im Profil nach rechts mit disterem,nach oben gerichteten Blick; das volle Haar wirr, der Bart struppig. Grauer Grund.
+
+Silbertoniges geistreiches Bild von packendem Ausdruck.Prov.: Galerie Schleissheim.
+
+Holz.Hohe 22,Breite 16 Cent.
+
+## BRUEGHEL, JAN, gen. Sammet-Brueghel,
+
+geb. zu Brissel 1568;1625.
+
+## 23.Landschaft.
+
+Ein breiter Weg, der nach links zu einem Hugel ansteigt, mehreren Wagen allerArt,Reitern,Bauerngruppen,Schweinefamilie etc., fuihrt an drei Haiusern links vorbei zum Hintergrunde, der sich in unendlich weiter Fernsicht zu einer reizvollen Flusslandschaft ausbildet,auf der beiderseits Ortschaften liegen,an derenUferwegeneine zierliche reiche Staffage zeigend.
+
+Feines, in der dem Meister eigenen hellen Farbung feissig und subtil ausge- fuihrtes Bild.
+## 24.Blumenstick.
+
+Auf einem Gesims steht in huibschem Nuppenbecher ein dichter Strauss der verschiedensten Gartenblumen.Auf Blithen und Blaittern kriechen Kafer,Falter und Insecten.
+
+Fein getontes reizendes Bild des Meisters.
+
+Auf der Kante die Signatur.
+
+25.Piela.
+
+Der Leichnam Christi mit leicht umgirtetem Lendentuch auf dem Grabesrande, dargestellt bis zum Knie,von Maria und dem hl:Johannes gehalten. In der Hohe,in einem Lichtscheine, die Taube des hl. Geistes.
+
+Interessantes Bild des selten vorkommenden Meisters. Oberhalb geschweift.
+
+Holz.Hohe 108,Breite 7o Cent.
+
+CALIARI, PAOLO, gen. Paolo Veronese, geb.1528；1588.
+
+## 26.Catbarina Cornaro iberreicht die Krone von Cypern dem Dogen von Venedig, Agostino Barbarigo, 1489.
+
+Rechts steht mit seinem zahlreichen Gefolge der Doge in vollem Ornate und empfingt aus der Hand der Konigin die mit Edelsteinen geschmickte Krone. Nach links gruppirt sich das aus sieben Frauen,zwei Mohrenkindern und einem Manne bestehende Gefolge der Cornaro. Prichtige,goldgestickte Brokatgewander mit reichen Spitzen und Perlenschmuck
+
+Kupfer.Hohe 36,Breite 29 Cent.
+
+## BRUYN,NICOLAS DE,d. J.,
+
+geb.um 1570 zu Antwerpen.
+zieren die schonen Frauengestalten. Im Hintergrunde erblickt man das von zahlreichen Schiffen belebte Meer, auf dessen Gestade sich eine reiche Figurenstaffage bewegt.
+
+Hervorragendes Galeriebild,gleichbedeutend und interessant durch seine prichtige Composition und die charaktervolle Wiedergabe der einzelnen Portraitfiguren wie durch die Pracht in den Gewandungen und die vorzigliche Darstellung des ganzen Herganges.Das auch durch Marco Comirato's Stich bekannte Bild stammt aus dem Waisenhause in Venedig, dem es von dem letzten Besitzer aus der Familie Cornaro 1853 geschenkt wurde. Dasselbe wurde spater durch das Waisenasyl, welches auch den dem Erzherzog Rainer gewidmeten Stich besorgen liess,um Geld zu bekommen,zur offentlichen Verloosung gebracht. Ueber das in mehreren kunstgeschichtlichen Werken ungemein lobend erwahnte Prachtbild, sagt eine in
+
+Paris bei Reiff erschienene Separatbroschire:
+
+On retrouve dans notre sCatarina Cornaroe toutes les brillantes qualites du Veronese. Dans notre tableau tout porte la griffe du genie. Dessin impeccable, noblesse des attitudes,expression des visages, science magistrale de la composition, chatoiement des étoffes,magie des couleurs,depuis le blanc d'argent de la robe de la jeune flle de gauche jusqu'aux brocarts d'or, en passant par toute la gamme des rouges,tout concourt a faire de cette toile un chef-d'ceuvre dans la plus large acception du mot.
+
+Leinwand. Hohe 162,Breite 35o Cent.Geschnitzter Rahmen.
+
+## CAMPHUYSEN,GOVAERT,
+
+geb. zu Gorkum 1623 oder 1624:zu Amsterdam 1672.
+
+## 27.Thierstick.
+
+In scheunenartigem Raume,in dem Bottich,verfallene Stall laterne etc.auf dem Boden liegen, sitzt in einem Korbe,neben dem der Futtertopf steht, eine weisse Gluckhenne auf dem Neste, ihre Kuichlein, deren eines auf dem Boden steht,bergend. Aengstlich aufschreiend blickt sie um nach einer Katze, die links in einer Fensteroffnung erscheint,durch welche, den
+
+Raum sparlich erhellend, das Licht einfallt.
+
+Hervorragendes Capitalbild mit wunderbarer Wiedergabe der Thier-Charactere und von packendem Ausdruck der Gefihlsbewegungen derselben.Unser Bild,das in seiner Technik und in seiner ganzen Art fabelhaft an Albert Cuyp erinnert,ist sicher den Arbeiten dieses grossen Meisters vollkommen gleichzustellen.
+
+<!-- image -->
+
+Cdimpoincyfen
+
+Bezeichnet:
+
+Holz.Hohe 75,Breite 106 Cent.
+## CARREE,MICHEL,
+
+geb.zu Amsterdam 1666;zu Alkmar 1747.
+
+## 28.Landschaft mit Vieb.
+
+Beim Ausgange eines dichten Waldes lagert rechts im Vorgrunde neben einem Bullen ein Esel, dabei mehrere Schafe. Links sitzt auf dem Boden neben ihrem Hunde die Hirtin schlafend.Im Mittelgrunde der sich nach links ausdehnenden gebirgigen Landschaft ein Maulthiertreiber. Abendliche Stimmung.
+
+Hibsch componirtes Bild,in goldigem Tone fein ausgefihrt.
+
+Kupfer.Hohe 27,Breite 38 Cent.
+
+## CLAESZ, PIETER,
+
+geb.zu Steinfurt;zu Haarlem 1661.
+
+## 29.Frihsticksbild.
+
+Auf mit griner Decke belegtem Tische mit zurickgeschobenem weissen Leinentuche steht bei einem halbSilberschale eine Delfter Schuissel mit Frichten; davor Teller mit Fisch,Schale mit einer angeschnittenen Citrone, Schailchen und Teller mit Brotresten, Orange, Messer etc.
+
+Schones decoratives Bild, in dunklem Tone meisterhaft ausgefihrt.
+
+Holz. Hohe 5o,Breite 103 Cent.
+
+## CODDE,PIETER JACOBSZ.,
+
+geb.zu Amsterdam 1599 oder 16oo;daselbst 1678.
+
+## 30. Die Trictrac-Partie.
+
+In einer hollandischen,einfach eingerichteten Stube,in deren Hintergrunde links das von Vorhingen verhillte Bett steht, sitzt bei einem rothgedeckten Tische eine vornehme Dame mit dem Trictracspiele beschiftigt. Ihr gegen-
+uber ein Cavalier als Partner und zwischen Beiden ein sitzender Genosse desselben als Zuschauer. Rechts im Hintergrunde bei geoffneter Thire eine Dame,die in der Linken eineWeinkannehaltund amBoden einkleiner sitzender Hund.
+
+Ungemein fein gezeichnetes Bild in glanzendstem Silberton,von ganz wundervoller Klarheit.Die hervorragenden Eigenschaften und Vorzige dieses mit Recht ungemein geschatzten Meisters kommen insgesammt in diesem Bilde zu vollendetem Ausdruck.
+
+Unter der rothen Tischdecke rechts bezeichnet：
+
+## 31. Die Wachtstube.
+
+In einfachem Raume,in dem herum theils an den Wanden Fahne, Trommel,Waffen und Armatursticke sich gruppiren, hocken zwei Soldaten beim Wurfelspiel auf der Erde. Ihnen schauen ein vom Ruicken gesehener Offizier und ein etwas zuriicksitzendes Paar,die Thonpfeife rauchend,zu. Rechts etwas zurick von der Gruppe steht neben einer Tonne ein
+
+Soldat, aus seinem Kruge einen tichtigen Zug thuend.
+
+Schone abgerundete Composition in graulich und gelblich-braunem Tone,hochkinstlerisch ausgefuihrt.
+
+Unten rechts die Signatur:
+
+<!-- image -->
+
+<!-- image -->
+
+Holz.Hohe 38,Breite 53 Cent.
+
+Holz.Hhe 46,Breite 64 Cent.
+
+COSIMO,AGNOLO DI,gen.Bronzino, geb. in Monticelli bei Florenz um 1502; zu Florenz 1572.
+
+## 32. Mainnliches Bildniss.
+
+Lebensgrosse Halbfigur eines Mannes in mittleren Jahren in Dreiviertel-Wendung nach links,geradeaus blickend,mit kurzem Vollbart. Er traigt ein schwarzes Gewand mit ge-
+sticktem Umlegekragen und ein schwarzes Barett. Die Hainde hat er ibereinander geschlagen,in der Rechten halt er eine Rolle mit dem Spruche:Comporta et astienti.
+
+Graulicher Grund. Links Steinsiule,auf deren Sockel die Aufschrift:BART. DILOR.GVALTEROTTI.D'ETADANNIXLIIIIL'ANNO M.D.L.
+
+Treffliches Werk des Meisters,ungemein nobel in der Auffassung,in goldigem Ton.Die dunkele Figur hebt sich ausserordentlich wirkungsvoll von dem hellen
+
+Hintergrunde ab.
+
+Holz.Hohe 79,Breite 57 Cent.
+
+## CRAESBEECK, JOOS VAN,
+
+geb.zu Neerlinter 1606;zu Brissel 1654.
+
+## 33. Musizirende Bauern.
+
+Auf zerbrochenem Stuhle sitzt,den Beschauer anblickend, ein Bauer,dieVioline spielend,von einem neben ihm stehenden Manne mit der Mandoline begleitet.Zu ihrem Spiele singt eine dritte Figur,auf niedrigem Kubel sitzend und nachlassig auf eine Bank sich lehnend. Der zufriedene und heitere Ausdruck der Musizirenden steht in rihrendem Gegensatze zu der armlichen Umgebung.
+
+Hervorragendes Werk des Meisters in leuchtendem Silbertone,den Arbeiten des Brouwer wirdig,dessen Signatur es auch tragt. Die Autorschaft des Bildes ist von Dr. Bredius bestimmt.
+
+Holz,Hohe 27,Breite 24 Cent.
+
+## CRANACH,LUCAS,d.A.,
+
+geb.zu Kronach inFranken 1472;1553zu Weimar.
+
+## 34.Bildniss des Kurfirsten Jobann Friedrich von Sachsen.
+
+Giirtelbild inDreiviertel-Wendungnach rechtsmit dinnem Haupthaar,kurzem Backenbart und langem Schnurrbart. Er trigt ein reiches roth-weisses Gewand mit geschlitzten Puffenarmeln,mit perlgesticktem Brusteinsatz und schwerem Pelzrock,an den die Rechte fasst. Die Linke ist mit Ringen besteckt.
+
+Sehr schone Qualitat des Meisters,ungemein kraftig in der Farbe. Links in der Mitte das Monogramm und Jahreszahl 1529.
+
+Holz.Hohe 6o,Breite 42 Cent
+## 35.Bildniss der Gemablin des Vorigen.
+
+Gurtelbild in Dreiviertel-Wendung nach links in rothem, mit Hermelin besetztem Gewande und reichen Puffenairmeln. Den Kopf bedeckt iber einer goldgestickten Schaube ein breites rothes Federbarett. Ueber die Schultern legt sich eine schwere doppelte Goldkette,wahrend die Brust ein Perlmedaillon schmickt und die Hande mit Ringen besteckt sind.
+
+Costimlich hochinteressantes Bild und Gegenstick zum Vorigen in gleich schoner Ausfihrung.
+
+Holz. Gleiche Grosse.
+
+## CUYLENBORCH,ABRAHAM VAN,
+
+thatig zu Utrecht 1639;daselbst 1658.
+
+## 36.Arkadische Landschaft.
+
+Zwischen hohen Gebirgsketten fliesst,den Mittelgrund der Composition einnehmend,ein breiter Fluss,iber gewaltige Fels blocke einen grossen Wasserfall bildend.Denselben durchwatet im Vorgrunde eine grosse Heerde von Kihen, Schafen und Ziegen, gefolgt von den Hirten zu Pferde; links auf einer Anhohe lagert eine Gruppe von drei arkadischen Figuren.
+
+Fein ausgefuihrtes ansprechendes Bildchen.
+
+Holz.Hohe 27,Breite 32 Cent,
+
+## CUYP,AELBERT,
+
+geb.zu Dordrecht 162o; daselbst 1691.
+
+## 37. Der Halt bei der Fontaine.
+
+Rechts liegt zwischen hohen Baiumen versteckt cine Fon- taine mit hohem Wasserstrahl. Bei derselben ist ein Reiter von seinem Falben abgestiegen,um ihn aus dem Bassin zu tranken. Bei ihm zwei Hunde, der eine stehend,der andere liegend. Ein zweiter Reiter in rothem Mantel auf Schimmel reitet die sanfte Anhohe hinab,hinter der sich die Landschaft
+zu einer ungemein weiten Fernsicht ausdehnt und in der rechts ein Hirt mit seiner Heerde sichtbar wird. Abendliche
+
+Stimmung mit leichtbewolktem Himmel.
+
+Prachtiges Werk dieses hervorragenden Meisters, welchen es in seiner anmuthigen Composition,seiner wundervollen Ausfuihrung,seinem goldig warmen Tone,kurz in seiner ganzen herrlichen Malweise ausserst charakteristisch und in wirdigster Weise vertritt.
+
+Holz.Hohe 35, Breite 76 Cent.
+
+## CUYP, BENJAMIN GERRITSZ.,
+
+geb.zu Dordrecht 1612; im Haag 1652.
+
+## 38.Bauernstick.
+
+In scheunenartigem Raume,dessen Boden dichtgedraingt vollsteht mit Gerathen und Gefissen aller Art, steht rechts wahrend ein Alter,in Fasssessel sitzend,in der Rechten den Krug,in der Linken die Thonpfeife haltend,tanzende Ge- ein Fiedler hinter einer ihn mit Gesang begleitenden Frau dere Figuren sichtbar.
+
+Gutes Werk des Meisters, farbig und in schonem Goldtone,pastos im Vortrag.
+
+Bezeichnet:
+
+Cuyp
+
+Holz.Hohe 42,Breite 54 Cent.
+
+## 39.Christus und die Samariterin an Brunnen.
+
+Vor einer dichten Baumgruppe rechts sitzt Christus bei grossem Steinbrunnen in Unterredung mit der links stehenden Frauengestalt, die in der Rechten einen Krug hailt. Im Hintergrunde der Fernsicht erscheinen mehrere Hauser. Wolkenbedeckter Himmel.
+
+Charakteristisches Bild in goldtonigem feinen Farbenspiel,in der bekannten
+
+Unten links die Bezeichnung: B. Cuyp.
+
+Manier des Meisters breit behandelt.
+
+Holz. Hohe 73,Breite 55 Cent.
+## CUYP, JACOB GERRITS,
+
+geb.zu Dordrecht 1594; daselbst 1651 oder 1652.
+
+## 40.Weibliches Bildniss.
+
+Kniefigur einer Dame in mittleren Jahren in Lebensgrosse, in Dreiviertel nach links gewandt, geradeaus blickend. Sie tragteinschwarzgemustertesSeidengewand mitiberschniirtem, goldgestickten Brustlatz,mit breitem spitzenbesetzten Schulterkragen und Spitzenmanschetten. Ein gestreiftes Haiubchen lisst eben das Haar oben vortreten. In der Linken halt sie die Handschuhe,in der Rechten das Gebetbuch,welches auf einem mit rother Decke belegten Tische steht.Graulich- brauner Grund.
+
+Ganz vorzigliches Portrait, ungemein lebenswahr in der Auffassung. Die Car- nation des Gesichtes und der Hande,wie die Behandlung der stofflichen Partien von grosser kinstlerischer Vollendung. Das Bild gehort zweifellos zu den besten Leistungen des Meisters.
+
+Holz. Hohe 108,Breite 78 Cent.
+
+## DIEPENBECK,ABRAHAM VAN,
+
+geb.zu Herzogenbusch 1596;zu Antwerpen 1675.
+
+## 41.Triumpbzug des Bacchus.
+
+Im Vorgrunde einer waldigen Landschaft mit wolkenbedecktem Himmel sitzt rechts Silen trunken auf einem Esel, umgeben von Faunen und Bacchantinnen,die theils kostbare Gefaisse tragen. Vor der Gruppe nach links steht der jugendliche Bacchus mit rebenumkranztem Haar und Mantel,auf dievon Amor begleiteteVenus hinschauend,welche ihm einen Lorbeerkranz iberreicht. Ein Faun fillt aus einer Traube die goldene Schale,die der jugendliche Gott in der ausgestreckten Linken halt.
+
+Schon componirtes Bild,welches in seinem trefflichen Colorit den tichtigen Rubens-Schiler vollauf erkennen lasst.
+## DIETRICH,CHRISTIAN WILHELM ERNST,gen. Dietricy,
+
+geb.zu Weimar 1712;zu Dresden 1774.
+
+## 42.Mannliches Bildniss.
+
+Brustbild eines alten Mannes nach rechts,den Kopf fast en face,mit weissem struppigen Haar und langem Barte.
+
+Ein im Rembrandt'schen Geiste vortrefflich ausgefihrtes Bildchen.
+
+Oval.Leinwand.Hohe 27,Breite 21 Cent.
+
+DOLCE, CARLO, florentinischer Maler;geb.1616;1686.
+
+## 43. Der Euangelist Lucas.
+
+Lebensgrosse Halbfigur fast im Profil nach rechts,in der Rechten die Feder und in der Linken das Buch haltend,in welchem die Worte:Singulis ManusImponens Curabat Eos.
+
+Rechts sein Attribut der Ochse.
+
+Treffliches,wirkungsvolles Bild,recht weich in der Behandlung. Bekannt durch M.Voigt's Kupferstich.Prov. Sammlung Artaria,Mannheim.
+
+Oval.Leinwand. Hohe 68,Breite 88 Cent.
+
+## DONCKER,HERM,
+
+Maler, thatig um 1646. Nagler IlI 446.Bode,Studien S.163 f.
+
+## 44.Familienbild.
+
+Im Vorgrunde einer baumreichen Landschaft sitzt vorne auf leichtem Erdhuigel, am Fusse eines machtigen Baumes, eine jugendliche Frauengestait in weissem Atlasgewande mit violettem Ueberwurf und reichem Spitzenkragen.Links neben ihr gruppiren sich drei Madchenfiguren verschiedenen Alters in entsprechenden reichen Costuimen.
+
+Prachtiges Galeriebild,superb in der Behandlung der Fleischtheile sowie der prachtigen Stoffpartien. Das Bild,das die Signatur des Terborch tragt und auch bisher als dessen Werk galt,wurde von Geheimrath Bode dem sehr seltenen Meister Doncker gegeben.
+
+Leinwand. Hohe 135,Breite 16o Cent.
+geb: 1759 zu Gratz-Sambach;↑zu Bamberg 1841.
+
+## 45.Mainnliches Bildniss.
+
+Vor einer gewaltigen Saule sitzt in einem grossen Lehnsessel in Dreiviertel-Wendung nach links ein ailterer Herr mit langem,lockigen Haar und Schnurr- und Knebelbarte. Ueber einem schwarzen Gewande mit schlappem Kragen traigt er einen pelzverbramten Sammetmantel.
+
+Ein in der bekannten Weise des Meisters vortrefflich ausgefihrtes, charakteristisches Bild,hell in der Farbung.
+
+Holz.Hohe 26,Breite 201/ Cent,
+
+## DROOCH-SLOOT,JOOST CORNELISZ,
+
+1616 Meister der Gilde in Utrecht; daselbst 1666.
+
+46. Dorfstrasse.
+
+Ein breiter leichthugeliger Weg fuhrt zu einer weiten Fernsicht. Beiderseits zwischen Baiumen und Gestrauch die Hauser der Ortschaft. Eine ungemein reiche Staffage belebt das huibsche Landschaftsbild in vielen einzelnen Figuren und Gruppen. Dazwischen Lastwagen,Reiter,Pferde am Futtertrog. Im Vorgrunde links eine Gesellschaft vor der Schenke.
+
+Ausgezeichnetes Werk des Meisters, sehr klar und durchsichtig in der Firbung zu seinen besten Bildern zahlend.
+
+Links iber der Thire die Bezeichnung:
+
+·Druoc S（oot 1634
+
+Holz.Hohe 5o,Breite 73 Cent.
+
+## 47. Die sieben Werke der Barmberzigkeit.
+
+Rechts zieht sich mit weiter Fernsicht eine breite Dorf Hiuser liegen. Vorne links eine grosse Ruine mit viereckigem strasse,zu deren beiden Seiten die grosseren und kleineren Gefingnissthurm; die Strasse in ihrer ganzen Linge, sowie
+namentlich der Vorgrund, zeigt in zahllosen Figuren in einzelnen Gruppen die Darstellungen der Werke der Barm- herzigkeit.
+
+Ungemein figurenreiches, treffliches Werk des Meisters von bedeutender Qua- litit und goldig-braun im Tone. Auf einem Steine das Monogramm des Meisters mit der Jahreszahl 1631.
+
+Holz.Hohe 73,Breite 107 Cent.
+
+## 48.Bauernkirmes.
+
+Rechts sitzt um halbgedeckten Tisch vor der Schenke eine Gesellschaft von 15 Bauern mit Weibern und Kindern bei Speise und Trank, einzelne Paare sich umarmend. Links zieht sich die breite Dorfstrasse,beiderseits mit Hausern und Kirche besetzt und belebt von einer ausserst reichen Figurenstaffage, theils vor aufgeschlagenen Zeltbuden.
+
+Sehr schone Qualitat des Meisters in glihendem Goldtone.Unten links be- zeichnet mit Monogramm und Jahreszahl 1651.
+
+## 49. Das Fest vor der Schenke.
+
+Links sitzt unter einer Laube eine jubilirende Bauerngesellschaft in einzelnen, theils zartlich sich umarmenden Paaren. Eine Familie tritt den Heimweg an. Rechts weite Fernsicht mit einem zwischen hohen Biumen und Gebuisch liegenden
+
+Gehoft etc.
+
+Hibsche Composition. Unten rechts monogrammirt.
+
+Holz.Hohe 42,Breite 44 Cent.
+
+## DUCK, J. A.,
+
+geb.um 16o0;zwischen 163o u.32,Meister der Utrechter Gilde;lebte noch im Haag 1660.
+
+## 50. Musicirendes Paar.
+
+In einem hohen Gemache mit theils zuriickgeschobenem Vorhange steht vor dem Tische,vom Rucken gesehen,ein Oficier, die Laute spielend. Ihn begleitet auf der Flote eine
+
+Holz.Hohe 52,Breite 75 Cent.
+hinter dem Tische sitzende jugendliche und anmuthige Frauengestalt mit Federdiadem.Seitwarts steht,wirfel spielend,eine dritte Figur hinter einem Stuhle,auf dem der Mantel des Officiers nachlissig hingeworfen.
+
+Feines Bild,vorzugsweise in Braun und Grau gehalten, von hervorragender Leuchtkraft.
+
+Holz.Hohe 5o,Breite 40 Cent.
+
+## DU JARDIN, KAREL,
+
+geb.zu Amsterdam 1622;zu Venedig 1678.
+
+## S1. Mannliches Bildniss.
+
+Brustbild en face,den Kopf,rechtsblickend,nach rechts gewandt. Sparliches Haupthaar, Schnurr- und Knebelbart. Er tragt ein schwarzes Gewand, breiten weissen Kragen und iber die Schulter geworfenen Mantel. Dunkelgrauer Grund.
+
+Ausgezeichnetes Portrait, charakteristisch in der Auffassung,fein in der Zeichnung und vortrefflich in der Carnation.
+
+Holz.Hohe32,Breite 241Cent.
+
+## DUSART, CORNELIS,
+
+geb.zu Haarlem 166o; daselbst 1704.
+
+## 52. Die Kuchenbaickerin.
+
+In einer reich ausgestatteten Bauernstube,deren Boden mit Wiege,Gerathen und Gefissen aller Art bedeckt ist, sitzt als Hauptfigur mit vergniigtem Gesichtsausdruck eine junge Frau;ihr etwas zurickstehender Mann filt ihren Becher, den ihre ausgestreckte Rechte hilt, aus einem Steinkruge. Neben ihr steht ein kleines Madchen, sie zur Aufmerksamkeit beim Kuchenbacken anhaltend. Rechts seitlich der Gruppe steht ein Knabe,mit Appetit den ihm gereichten frischen Kuchen verzehrend. Im Vorgrunde sitzt ein halbwichsiger Junge, das Kohlenfeuer anfachend,auf der Erde. Neben ihm hockt
+ein Katzchen,von einem braun-weiss gefleckten Hunde auf merksam beobachtet. Im Hintergrunde rechts fihrt eine hohe Holztreppe zur Thire.
+
+Ganz hervorragendes hochfeines Werk des Meisters, welches in humorvollster
+
+Weise das altniederlindische Sittenleben wiedergiebt.Reizend im Entwurf,kostlich in der ganzen Behandlung,im feinsten glihendsten Goldtone.
+
+<!-- image -->
+
+Leinwand. Hohe 78,Breite 64 Cent.
+
+## 53. Der vor der Schenke tanzende Bauer.
+
+Vor der Schenke links tanzt in grotesken Springen ein Bauer zum Spiele des in der Thuire stehenden Violinspielers. Ihm schauen mehrere Figuren, dabei zwei Kinder, zu. Am Hause sitzt auf niedriger Bank ein sich umarmendes Paar, dessen Gebarden ein sich die Thonpfeife anzindender Mann schielenden Blickes beobachtet. Die breite Dorfstrasse fihrt rechts zu einem vor dichter Baumgruppe liegenden Bauernhause,vor dem eine Familie und mehrere Schweine.
+
+Lustig gestimmtes, treffliches Bildchen in leuchtend goldigem Tone bis in Details
+
+Unten rechts mit dem vollen Namen bezeichnet.
+
+Leinwand.Hohe 28,Breite 351/eCent.
+
+## DYCK, ANTON VAN,
+
+geb.1599 zu Antwerpen;zu London 1641.
+
+## 54.Bildniss Karl's I. von England.
+
+Brustbild in Lebensgrosse fast ganz en face,in Harnisch mit der Kette des Hosenbandordens und schlappem,weissen Kragen,auf den das dunkle Haar in langen Locken herabfillt.Graulicher Grund.
+
+Bedenutendes Portrait des grossen Meisters. Prov. Collection Duc of Hamilton. Leinwand. Hohe 76,Breite 66 Cent.
+
+fein ausgefuhrt.
+geb.zu Amsterdam 1621;↑daselbst 1674.
+
+## 55. Christus und die Emausjiunger.
+
+An mit Speisen besetzter Tafel sitzt der Heiland mit den beiden Emausjungern, eben im Begriffe, das Brod zu brechen. Rechts von der Gruppe steht zuschauend der feiste Wirth. Im Vorgrunde Hund und Katze,sich um einen Knochen streitend. Durch ein hohes Bogenfenster blickt man in eine nachtliche Landschaft.
+
+Interessantes Bild von ungemein wirkungsvollen Farbencontrasten in helldunkel mit von links einfallendem Lichte,welches den linken Hintergrund silbertonig erscheinen lasst.
+
+Bezeichnet:
+
+GzEeckho
+
+1663
+
+Prov. Sammlung Herzog Wilhelin von Braunschweig.
+
+Leinwand auf Holz. Hohe 62,Breite 72 Cent.
+
+ELIAS,NICOLAS(CLAES), geb.zu Amsterdam 1590 oder 1591;↑daselbst nach 1646.
+
+## 56.Die Vorsteberinnen eines bollandischen Waisenbauses.
+
+Gruppe dreier Frauenfiguren in schwarzen Kleidern mit breiten,weissen Schulterkragen,zwei mit weissen,die dritte mit goldgesticktem Hiubchen. Rechts neben ihnen steht, einen Kirschenzweig in der vorgestreckten Linken haltend, ein kleines Madchen in reicher Kleidung mit grosser goldgestickter Kappe. Graulich-brauner Grund.
+
+Interessantes Bild von durchdachter Auffassung in der Charakterisirung der Figuren. Dasselbe galt friher als ein Werk des Th.de Keyser,ist aber nach neueren Forschungen dem Nicolaus Elias zugeschrieben.
+## ELLIGER,OTTOMAR,
+
+geb.zu Hamburg 1666;1732.
+
+## 57. Allegorische Darstellung mit mythologischen Figuren.
+
+In einem Palaste mit weiten Hallen und vortrefflichen Bildhauerwerken empfangt eine jugendliche Konigin eine Kindergestalt, hinter der ein Germane eine Zackenkrone hilt. In der Umgebung Lictoren,Flussgottheiten,Mars etc.etc.
+
+Interessantes,reich componirtes Bild,fein in der Zeichnung und ungemein zart und duftig im Colorit.
+
+Auf der Stufe des Thrones die Bezeichnung:
+
+<!-- image -->
+
+Leinwand.Hohe 56,Breite 69 Cent.
+
+## 58. Allegorische Darstellung und Gegenstick.
+
+In ihnlich disponirtem Raume sitzt eine jugendliche Frauengestalt als Diana auf reichem Thronsessel, zu dessen Stufen ihre Gespielinnen als Nymphen. Vor ihr steht ein jugend licher Kriegsheld in voller Rustung, gefolgt von drei Kriegern. In der Hohe, in Wolken schwebend, Venus und Amor, die drei Grazien etc.
+
+Gegenstick zum Vorigen in gleich zarter Ausfihrung. Unten rechts bezeichnet.
+
+Leinwand. Gleiche Grosse.
+
+FRANCIA,FRANCESCO,eigentlich Raibolini,
+
+Maler von Bologna; geboren 145o;wahrscheinlich 1535.
+
+## 59. Maria Verkindigung.
+
+Vor halbgeoffnetem gruinen Vorhange sitzt die Madonna, in der Rechten das Buch haltend,beschattet vom hl. Geiste
+und empfingt die Verkindigung des links knieenden Engels Gabriel.Seitwarts Blick in eine reizend ausgestattete Gebirgslandschaft.
+
+Interessantes Bild, noch ganz im Charakter der frihitalienischen Schule.Prov. Galerie Zampieri,Bologna.
+
+Holz.Hohe 37,Breite 48 Cent.
+
+## FYT, JAN,
+
+geb.zu Antwerpen 161l; daselbst 1661.
+
+## 60. Viele Hunde sind des Hasen Tod.
+
+Auf einem mit Wegerich und Unkraut wirksam belebten Auslauf eines Hugels, haben fuinf prachtige Setterhunde in siegessicherer Attake einen armen Hasen umstellt, der mit anliegenden Ohren und in vor Todesangst zusammengeduckter Stellung in seine verzweifelte Lage sich gefigt hat. Im Hintergrunde wird unter silbertonigem,leichtbewolktem Himmel, durch zwei links und rechts stehende Baumgruppen hindurch,in blauen, sich wirksam vom Himmel abhebenden Umrissen eine kleine Hugelkette sichtbar, durchbrochen von den Baumen einer jungen Waldung,auswelcher der Kirchthurm einer im Thalgrunde liegenden Ortschaft idyllisch hervorragt.
+
+Capitalbild des hervorragenden Meisters. Die Bewegung in den Thieren von meisterhafter Lebendigkeit.
+
+Leinwand.Hohe 122,Breite 184 Cent.
+
+## 61. Jagdbeute.
+
+Auf einem Steinsockelmit zuriickgeschobener olivfarbener Decke liegt neben einem Fasan ein Hahn,dabei Gewehr, Falkenhaiubchen und andere Jagdgerathschaften. An der 4
+
+934
+Wand hangen iber der Gruppe,an Schniren und Quasten, zwischen Jagdutensilien Feldhuhn und eine Koppel kleinerer
+
+Vogel.
+
+Farbenprachtiges hervorragendes Bild,welches die glanzenden Fertigkeiten des
+
+Meisters in vorziglicher Weise vertritt.
+
+Bezeichnet auf dem Sockel.Vgl.Abbildung.
+
+Leinwand.Hohe 1o8,Breite S2 Cent.
+
+## GAEL,BAREND(BERNARD),
+
+Schiler des Wouwerman, geb.in der Mitte des 17. Jahrhunderts zu Haarlem.
+
+## 62. Halt vor der Schenke.
+
+Vor der links im Vorgrunde zwischen hohen Baiumen neben der Kirche liegenden Schenke haben mehrere Reiter Halt gemacht. Einige derselben sind bereits abgestiegen und lassen ihre Pferde am Troge fuittern. Auf dem breiten, zum ausgedehnten Hintergrunde fihrenden Wege naht ein Paar.
+
+Hibsch componirtes Bildchen in warmer harmonischer Tongebung,leuchtend in den Lichteffecten.
+
+<!-- image -->
+
+Holz.Hohe 35,Breite 281e Cent.
+
+## GILLEMANS, JAN PAUL,
+
+thatig 1618 bisnach 1675zu Antwerpen.
+
+## 63.Fruchtstick.
+
+Auf einem Tische mit leicht zuriickgeschobener olivfarbener Decke mit Goldfransen liegen in reizvoller Gruppirung um ein halbgefuilltes, hohes gedeckeltes Romerglas prachtige Frichte als: Melone, Trauben, Orangen,Kirschen etc., theils auf einer Schale mit Messer. Rechts daneben ein Brod.
+
+Prachtvolles Bild von schoner Composition und voller plastisch wirkender, trotzdem aber weicher zarter Pinselfihrung,verbunden mit angenehmen und fein zum Helldunkel gestimmten Lokalfarben.
+
+Auf der Kante des Tisches links bezeichnet.
+
+Holz.Hohe 78,Breite 63 Cent.
+## GOYEN,JAN VAN,
+
+geb.zu Leiden 1596  im Haag 1656.
+
+## 64. Canallandschaft.
+
+Den Vorgrund nimmt der sich nach dem Hintergrunde ausdehnende Canal ein,von einem Landstreifen mit Kirche und Windmuhle begrenzt. Auf dem Ufer rechts ausgedehnte Ziegelbauten,bei denen mehrere Segelboote landen,aus welchen Waaren ausgeladen werden. Ganz im Vorgrunde ein Fischerkahn mit drei Fischern,von denen einer ausgestiegen eine Leiter emporklimmt.
+
+Feines silbertoniges Werk des Meisters von vortrefflicher Behandlung und
+
+Holz. Hohe 39, Breite 52 Cent.
+
+wundervoll in der Luftpartie.
+
+## 65. Das Salutschiessen.
+
+Auf dem ruhigen, den ganzen Vor- und Mittelgrund einnehmenden Wasser,das in der Ferne von einem Landstreifen begrenzt ist,gibt ein rechts liegender,vollgetakelter Drei master einen Salutschuss.Zahlreiche Schiffe,Boote und Kahne werden allenthalben sichtbar.
+
+Feintoniges Werk des Meisters.Auf der Spitze des links liegenden Fischerbootes die Signatur.
+
+## 66. Canallandschaft.
+
+Durch die Mitte des Bildes zieht sich der von Segelbooten und Fischerkahnen belebte Canal. Auf dem Ufer rechts und im Hintergrunde liegen mehrere Ortschaften. Am linken Ufer sind mehrere Segelboote gelandet. Im Vorgrunde auf einer Rampe eine Figurengruppe.
+
+Gegenstick zum Vorigen in gleich vorziglicher Ausfihrung. Auf dem Kahn in der Mitte das Monogramm.
+
+Holz. Hohe 16,Breite 23 Cent.
+## GORTZIUS,GUALDORP,
+
+geb.zuLoewen 1558;zuKoln 1616oder 1618.
+
+## 67.Zwei Altarfliugel mit Donatorenfamilie.
+
+Vor zurickgeschobenem grinen Vorhange kniet auf dem einen der Donator mit seinen drei Sohnen,die Hande betend gefalten,in schwarzen Gewandungen mit Steinkragen;hinter ihnen steht als Patron der hl.Johannes der Taufer. Auf dem anderen in ahnlicher Stellung und entsprechender Kleidung die Frau des Donators mit ihrer Tochter;hinter ihnen die hl.Elisabeth als Patronin.
+
+Vortreffliche Bilder in vorziglicher Wiedergabe der Portraitfiguren.
+
+Holz. Hohe je S9,Breite 32 Cent.2 Stick.
+
+## GOVAERTS,(GOYVAERTS),ABRAHAM,
+
+geb.zu Antwerpen 1589;1626.
+
+Links ein weiter von Gebirgszug geschlossener Thalkessel, in dem eine grossere Stadt und im Vorgrunde an einem Wasser eine kleinere Ortschaft liegt,in der sich in figurenreicher Staffage die Greuelscenen des Kindermordes abspielen. Rechts fuhrt ein breiter Weg zu einem Waldeingange mit hohen dichten Baumen,unter denen Maria,den Jesusknaben liebkosend, auf der Erde sitzt,wihrend der hl. Joseph den Esel fuittert.
+
+Herrliches Bild,ungemein frisch und kraftig im Styl, tief in den Farben und ruhig im Lichtfall. Die Bestimmung der Autorschaft rihrt von Geheimrath Bode her,der die Stafage einem Rubensschiler zuschreibt, der wohl Erasmus Quellinus sein durfte. Fruiher galt das Bild als David Vinckbooms.
+
+Holz. Hohe 95,Breite 113 Cent.
+
+GREUZE,JEAN-BAPTISTE,(Richtung).
+
+69.Die Wabrsagerin.
+
+Vor der Thiire eines niedrigen Gebaudes, das eine Gruppe dichter Baume beschattet, sitzt eine Gesellschaft von Bauern
+bei einem Tische. Ein vor demselben sitzender Alter reicht seine Rechte einem Zigeunerweib hin,das, ihren nackten Saugling auf dem Rucken tragend,ihm wahrsagt. Rechts in der Ferne das Gefahrt der Zigeunerfamilie; bei einem Fasse im Vorgrunde ein knurrender Hund.
+
+Sehr gut durchgefuhrtes Bild, treffend im Ausdruck und von effectvollem Farbenauftrag.
+
+Leinwand.Hohe 115,Breite 144 Cent.
+
+## GRUND, NORBERT,
+
+geb.zu Prag1714;1767.
+
+## 70. Nach der Jagd.
+
+Weit ausgedehntes faches Gelande mit dichtem Gebisch rechts; vorne steht an einen Weidenstamm gelehnt ein Jager mit seinen Hunden und der Jagdbeute;von der weiten Ferne nahen zwei Reiter.
+
+Anmuthiges fein ausgefuihrtes freundliches Bildchen in heller klarer Farbung.
+
+Unten rechts bezeichnet:N. Grund f.
+
+Holz. Hohe 13,Breite 19 Cent. Geschnitzter Rahmen.
+
+## 71. Schaferscene.
+
+Im Vorgrund einer leicht hugeligen Landschaft neckt ein Schafermadchen den auf der Erde liegenden Knaben mit Blumen;links im Hintergrunde Vieh bei einem Bauernhaus.
+
+Gegenstick zum Vorigen in gleich vortreflicher Ausfihrung.
+
+Holz.Gleiche Grosse.Ebenso.
+## GUARDI,FRANCESCO,
+
+geb.zu Venedig 1712; daselbst 1793.
+
+## 72. Ansicht von Venedig.
+
+Links der Dogenpalast,rechts die Gefingnisse. Reiche, breit behandelte Figurenstaffage in Gruppen und einzelnen
+
+Figuren aller Stinde.
+
+Sehr schones Decorationsbild in breiter Behandlung.
+
+Leinwand. Hohe S1,Breite 119 Cent.
+
+## HACKAERT, JAN,
+
+geb.zu Amsterdam 1629;1699.
+
+## 73. Grosse Abendlandschaft.
+
+Im Mittelgrunde zieht sich,die ganze Breite des Bildes einnehmend,ein Fluss,der von mehreren Fahrzeugen belebt ist.Die beiderseitigen Ufer sind mit hohen Baumen und Strauchwerk bewachsen, zwischen denen einzelne Hauser, Kirchen und Windmihlen hervortreten.Im Vorgrunde des Ufers links fuihrt an einem Bauernhause vorbei ein breiter Weg, auf dem als Staffage Reiter, Frau mit Kind und ein Paar im Gesprach.
+
+Prachtig entworfenes,in goldigem Tone vortrefflich ausgefihrtes Bild,das in den Gegensatzen seiner Lichtwirkung bei den letzten Strahlen der untergehenden Sonne eine grossartige und bezaubernde Wirkung ausibt. Die lebendige Staffage auf dem Bilde ist von der Hand des Barent Gael.
+
+Leinwand.Hohe 102,Breite 128 Cent.
+
+## HALS,DIRK,
+
+geb.zu Haarlem vor 16oo; daselbst 1656.
+
+## 74. Galante Unterbaltung.
+
+In einem mit grossem Schranke und mehreren Bildern reich ausgestatteten Zimmer gruppiren sich nach aufgehobener Mahlzeit, theils noch an dem besetzten Tische sitzend,
+in einzelnen Paaren sieben Cavaliere mit ihren in Atlas gekleideten Damen,theils in zartlichster Umarmung. Rechts im Vorgrunde zwei Hunde bei einem Weinkihler,in dem mehrere Flaschen stehen.
+
+Vortreffliches Werk des Meisters in seiner vorziglichen Qualitat in leuchtender, feiner Farbentonung ganz hervorragend. Prov.: Galerie Burger,Paris.
+
+## 75. Musikalische Gesellchaft.
+
+In einem Musiksalon ist eine Gesellschaft von sechs Cavalieren und fuinf Damen gruppirt.Dieselben beschaftigen sich zum Theil noch mit Musik und Gesang, wihrend andere, die ihr Instrument auf und an einen rechts befindlichen Tisch gelegt haben, in einzelnen Paaren sich unterhalten.
+
+Schone reiche Composition in braunlich-grauem Tone. Das Bild,welches namentlich in einzelnen Figuren directe Erinnerungen an P. Codde hat,fir dessen Werk es auch friher galt, ist jetzt von den Autoritaten unserem Meister beigelegt worden.
+
+Holz.Hohe 55,Breite 74 Cent.
+
+## HALS,JOHANNES,
+
+Sohn und Schiler des Frans Hals.
+
+## 76. Dorfansicht mit Fastnachtsscene.
+
+Links vor der Dorfschenke schauen vor derselben,sowie in Thiren und Fenstern mehrere Personen dem Spiele eines Bankelsangers, der zu den Tonen ciner Radleier singt, zu. Auf der Strasse bewegen sich in einzelnen Figuren und Gruppen phantastisch gekleidete Kinder und Manner.
+
+Interessantes Bild,mit theils drastischen Wiedergaben altniederlandischen Volkslebens, in heller klarer Farbung.
+
+Holz.Hohe 56,Breite S1 Cent.
+## HAMILTON,PHILIPP FERDINAND VON,
+
+geb.zu Brissel 1664;zu Wien 1750.
+
+## 77.Jagdbeute in Landschaft.
+
+Im Vorgrunde einer nach rechts sich erweiternden Gebirgslandschaft liegt halb auf dem Boden, vor einem Hugel,ein todter Hase,mit dem rechten Hinterlauf an einen knorrigen Eichenstamm aufgehingt. Rechts neben ihm hangt vor Jagdhorn, Tasche und Gewehr eine Koppel von Wachteln. Zwischen seinen Vorderliufen eine Wildente und daneben buntgefiederter Fink.Im Vorgrunde rechts eine breitblitterige
+
+Pflanze,umflattert von einem Schmetterlinge,Pilze etc.
+
+Ganz bedeutendes Werk des Meisters; in Composition und Ausfihrung den
+
+Arbeiten des Jan Weenix gleichstehend,dirfte es wohl zu den hervorragendsten Schopfungen des Kinstlers zahlen. Bezeichnet.
+
+Leinwand.Hohe 126,Breite S8 Cent.
+
+## HARDY,CAREL,
+
+geb.zu Valenciennes,1651 der Haager Gilde beigetreten,1656 bereits verstorben oder vom Haag verzogen.
+
+## 78.Raucber und Trinker.
+
+Vor einem Tische sitzt auf umgestilpter halber Tonne, die Pfeife rauchend,ein alterer Mann in langem schwarzen Gewande und hohem Hute.Ihn beobachtet,hinter dem Tische sitzend,ein Alter, das ergraute Haupt mit langem weissen Barte in die aufgestitzte Rechte legend,mit der Linken eine
+
+Zinnkanne haltend.
+
+Tuchtiges, geistreich behandeltes,ungemein klares Bildchen.
+
+<!-- formula-not-decoded -->
+
+Ueber den sehr seltenen Meister vergleiche Bredius'Aufsatz in Oud Holland II,
+
+1884,Seite 215 und 216.
+
+Holz.Hohe 3o,Breite 23 Cent.
+## HEDA,WILLEM CLAASZ,
+
+geb.1594 zu Hlaarlem; daselbst angeblich 1678.
+
+## 79.Fribsticksbild.
+
+Auf einem Holztische steht eine grosse Zinnschiissel mit zerschnittenen Fischen; dahinter Steinkrug,halbgefillter Romer und hohes Champagnerglas;rechts,neben einem Teller mit Brot,feingemusterterVenetianer Pokal;Citronen,Thonpfeife,Messer,Nusse etc. fillen die Composition.
+
+Vortreffliches Bild,malerisch in der Anordnung,naturwahr in der Ausfihrung.
+
+Leinwand.Hohe 5o,Breite 74 Cent.
+
+## HEEM,CORNELIS DE,
+
+geb.zu Leiden 1631;zu Antwerpen 1695
+
+## 80. Fribsticksbild.
+
+Auf einem Tische mit theils zuriickgeschobener griner Decke stehen in malerischer Anordnung eine Delfter Schissel mit Friichten aller Art,mehrere Silbergefisse,geleertes Champagnerglas, Zinnschisseln mit Hummer und Citronen; dazwischen liegen Pfirsiche,Trauben,Nisse,Messer,Austern,
+
+Thonpfeife etc.
+
+Reiche Composition in von rechts einfallendem Lichte trefflich beleuchtet. Holz.Hohe 57,Breite 8s Cent.
+
+## HEEMSKERK,EGBERT,d.J.,
+
+geb.1645zu Haarlem;zu London 1704.
+
+## 81.Der Tanz in der Schenke.
+
+In einer bunt ausgestatteten Wirthsstube spielt ein Geiger mit verbundenen Augen einem Bauern auf, der in grotesken Springen tanzt. Sich iber seine lustigen Gebarden ami sirend sitzen rechts an mit weissem Tuche gedeckten Tische
+
+5
+drei Bauern und ein Krieger,wihrend eine finfteFigur, das Glas erhebend, ein Hoch ausbringt. Links sitzen bei geoffnetem Fenster, an dem eine grosse Flasche steht,die Gruppe beobachtend,zwei Bauern rauchend an einer umgestirzten Tonne. Im Hintergrunde,links bei der Thiire,in ausgelassener Heiterkeit drei Figuren an einem Tische.
+
+Vortrefliches Werk des Meisters,humorvoll in der Composition,breit in der Behandlung und leuchtend in der Farbe.
+
+Auf der umgestirzten Tonne links das Monogramm:H.K.
+
+Holz. Hohe 53,Breite S4 Cent.
+
+## 82.In der Bauernschenke.
+
+In einem weit ausgedehnten Raume sitzen in ausgelassenster Heiterkeit,zechend und rauchend,neunzehnFigurenin einzelnen Gruppen um Tische und umgestirzte Tonnen. Links in der geoffneten Thire steht,ihre Thonpfeife rauchend,ein Weib.
+
+Reiches,interessantes hollandisches Sittenbild in des Meisters breiter und drastischer Weise vortrefflich ausgefuihrt.Mit guter Lichtwirkung in dem halbdunkeln,sparlich erleuchteten Raume.Auf der Tischkante links das Monogramm.
+
+Holz.Hohe 57,Breite 84 Cent.
+
+## HEEMSKERK,EGBERT,d.A.,
+
+geb.zu Haarlem 161o; daselbst 1680.
+
+## 83. Das Tischgebet.
+
+Zwei Bauern in betender Stellung vor einem Bottich,auf dem angeschnittener Schinken;Brod und Messer liegen.
+
+Feingestimmtes Bildchen in leichtem,weichen Colorit.
+
+Holz.Hohe 22,Breite 17 Cent.
+
+## 84.Lustige Gesellscbaft.
+
+In armlicher Schenke sitzen singend und larmend drei Bauern um eine Tonne,auf der eine Schnapsflasche steht.
+
+Schone Qualitat in feinem Tone. Unten links auf der Tonne monogrammirt. Leinwand auf Holz.Hohe 181/e,Breite 16 Cent.
+## HEIL, DANIEL VAN,
+
+geb.zu Brissel 1604; daselbst 1662.
+
+## 83. Grosse Flusslandschaft.
+
+Den Mittelgrund der Composition nimmt ein breiter Fluss ein, auf dem eben eine Fahre ibersetzt nach den ausgedehnten Ruinen eines Schlosses, die auf dem jenseitigen Ufer liegen. Auf dem diesseitigen Ufer fuihrt ein breiter Weg,auf dem zwei Figuren und Hund, an Gruppen hoher Baume vor bei,zu einem den Mittelgrund rechts einnehmenden Gebiisch.
+
+Schon componirtes,in goldig-braunem Tone breit behandeltes Bilddas friher als Salomon Ruisdael galt,von den Autorititen aber unserm Meister gegeben wurde.
+
+Holz. Hohe 73,Breite 108 Cent.
+
+## HOECKE, JAN VAN DER,
+
+geb.zu Antwerpen 1611:daselbst 1651.
+
+## 86. Grosse allegorische Gruppe.
+
+Vor einem Waldeingange steht als Mittelfigur,vom Rucken gesehen,den Kopf nach dem Beschauer wendend,Diana den Oberkorper entblosst,in der erhobenen Linken den Speer haltend. Rechts etwas zurick eine Aethiopierin, auf der ausgestreckten Linken einen buntgefiederten Papagei haltend. Rechts im Vorgrunde kniet eine uippige Frauengestalt mit entblosstem Oberkorper und leicht ibergeworfenem blauen Mantel als Ceres, eine prachtige Vase mit den kostlichsten Garten- und Feldfrichten haltend. Ihr bringen zwei Amoretten Blumen. Nach ihr schaut rechts,neben einem mit Muscheln und Fischen belebten Wasser sitzend, ein weissbirtiger Flussgott, das ergraute Haar mit einem Schilfkranze umflochten. Hinter ihm erscheint Vulkan mit Fackel.
+
+Hervorragendes Galeriebild und Capitalschopfung des bedeutenden RubensSchilers in seinem weicheren an Van Dyck erinnernden Style.Dasselbe ist von wunderbarer Zeichnung der Korper,leuchtendstem'und packendstem Colorit und macht in seiner ganzen Anordnung und Durchfihrung einen grossartigen Effect. Prov.:Galerie Schoenborn,Wien.
+
+Leinwand.Hohe 237,Breite 183 Cent.
+geb.1622zu Antwerpen;lebte noch 1665.
+
+## 87.Landschaft mit brennenden Gebauden.
+
+Im Vorgrunde einer weit ausgedehnten Niederung,in deren schein kommen,vernichtet eine machtige Feuersbrunst, deren Rauchwolken sich in dichten Ballen nach rechts hinziehen,
+
+Ferne die hohen Gebaude und Kirchen einer Stadt zum Voreine grosse Haiusergruppe. Vor derselben eine Anzahl Menschen.
+
+Das aus der Esterhazy-Galerie stammende Bild galt friher als van der Neer, dessen Bezeichnung es auch tragt,ist aber von den Autoritaten obigem Meister gegeben worden.
+
+Holz.Hohe 18,Breite 34 Cent.
+
+## HOET, GERARD,
+
+geb.zu Bommel 1648; im Haag 1733.
+
+## 88.Vertumnus und Pomona.
+
+Bei einer Fontaine,bei der ein Pfau, sitzt Pomona als jugendliche Frauengestalt in weissemAtlasgewande mit blauem Ueberwurf, die Brust entblosst. Von einem Altane her,von der man in den Garten eines Schlosses sieht,naht sich Vertumnus in der Gestalt eines alten Weibes in gelbem Gewande mit rothem Ueberwurf.
+
+In klarer Farbengebung fein ausgefuhrtes schones Bild,welches friher dem Caspar Netscher zugeschrieben wurde,nach dem neuesten Urtheile unserer Sachverstindigen aber ein Werk des Hoet ist.
+
+Leinwand. Hohe 56,Breite 61 Cent.
+
+## HOFMANN,HANS,
+
+Nirnberger Meister; 1592.
+
+89. Ecce bomo.
+
+Der leidende Heiland,nackt,mit ibergeworfenem Mantel, auf dem langen Lockenhaar die breite Dornenkrone,zwischen
+dem Hohenpriester und einem Kriegsknechte,der ihm das
+
+Rohr in die Hand gibt.
+
+In dunklem Tone in leichter Farbung vortrefflich ausgefihrtes Bild mit hervorragender Wiedergabe der seelischen Empfindung,nach einer Composition des Albrecht Direr, dessen Monogramm mit der Jahreszahl 15oo es auch tragt.
+
+Holz.Hohe 69,Breite 57 Cent.
+
+## D'HONDECOETER,MELCHIOR,
+
+geb.zu Utrecht 1636;zu Amsterdam 1695.
+
+## 90. Der Gefligelhof.
+
+Vor seinem Stalle steht auf einer Stufe ein schreiendes
+
+Pfauenpaar.Links,erschreckt davonlaufend,eine weisse Gluckhenne mit ihren Kuchlein,ein braungefiederter Hahn und andere Vogel. An einer Baumgruppe vorbei blickt man in cine von der untergehenden Sonne warm beleuchtete Landschaft,die hinten von einer Gebirgskette abgeschlossen ist. In ihrer Mitte befindet sich ein Weiher mit Enten.
+
+Ganz prachtvolles Bild von sehr schoner Composition und superber Ausfuihrung
+
+Leinwand.Hohe 74,Breite 92 Cent.
+
+in abendlicher Stimmung.
+
+## HONDIUS,ABRAHAM,
+
+geb.zu Rotterdam angeblich 1638;zu London 1691.
+
+## 91. Der Raub der Europa.
+
+Auf dem gebirgigen Gestade des sich nach rechts aus- dehnenden Meeres sitzt Europa auf dem blumengeschmickten Stier, der eben im Begriffe ist,ins Meer zu steigen. Sie ist umgeben von ihren Gespielinnen, die ihr zum Abschied Blumenkranze winden, wahrend iber ihr in einer dunkeln Wolke eine Gruppe von Amoretten Blumen streut.
+
+Vorzigliches Decorationsbild von schoner Composition in hellem klaren Colorit breit behandelt als Vorwurf zu einem Gobelin der bekannten Serie.
+
+Unten links mit dem vollen Namen und der Jahreszahl 1669 bezeichnet.
+## HONTHORST, GERARD VAN,gen. Gherardo dalle Notti,
+
+geb.zu Utrecht 159o; daselbst 1654.
+
+## 92. Das lustige Trio.
+
+Weib mit halbentblosster Brust,die Flote spielend,zwischen zwei dirftig gekleideten Mannern,deren einer die Clarinette blist,wihrend der andere den Dudelsack spielt.
+
+Ein in der derben Weise des Meisters breit behandeltes Bild.
+
+Leinwand.Hohe 9o,Breite 125 Cent.
+
+## HORST, G.,
+
+Nachfolger des Rembrandt van Rijn;thatig um 1640-1650.
+
+## 93. Isaac segnet Jacob.
+
+Auf seinem Lager aufgerichtet sitzt Isaac, den mit Pfeilkocher umgirteten vor ihm knieenden Jacob segnend. Links erscheint hinter einem zuriickgeschobenen Vorhange Rebekka.
+
+Vortreffliches Galeriebild,welches die Fahigkeit dieses bedeutenden RembrandtSchiler in ganz hervorragender Weise zeigt. Ein Bild von der Hand des Meisters, denselben Stoff behandelnd,befindet sich in ciner andern Auffassung in der Berliner Galerie,in deren Katalog auf unser Bild hingewiesen ist.
+
+Leinwand.Hohe 108,Breite 122 Cent.
+
+## HUGHTENBURGH,JACOB VAN,
+
+geb.angeblich zu Haarlem 1639: in Rom 1670.
+
+## 94.Flusslandscbaft.
+
+Ausgedehnte gebirgige Gegend, die ein Fluss durchzieht, an dessen Ufern mannigfaltige Gebiude und eine grosse Heerde. Im Vorgrunde auf einem breiten nach rechts fuihrenden Wege eine zweite Heerde; die Hirtin,den Saugling an der Brust, auf einem Maulthiere reitend und der Hirte mit
+
+Schones Decorationsbild in harmonischem goldigen Tone,das bisher als Berchem einer am Boden kauerndenAlten redend.Abendliche Stimmung.
+
+galt,indessen von den Autoritaten als cin Werk des Hughtenburgh erklart wurde.
+
+Leinwand. Hohe 1o8,Breite 135 Cent.
+
+Oben rechts die Initialen: G.H.
+## HULST,FRANCOIS DE,
+
+1631 Meister der Gilde zu Haarlem; daselbst 1661.
+
+## 95. Weit ausgedebnte Landschaft.
+
+Im Vorgrunde rechts erhebt sich,leicht ansteigend, ein Sandhigel,auf dem mehrere Weidenbiume und niedriges Gestripp; am Fusse desselben sitzt ein Mann neben seinem Tragkasten.Weiter nach links eine Gruppe von finf Figuren und etwas weiter zurick ein sich unterhaltendes Paar. Im Mittelgrunde ziehen sich in langen Streifen Gebuisch und Baumgruppen hin,zwischen und hinter denen Schloss,Kirche und mehrere Windmihlen sichtbar werden.
+
+Vortreffliches Bild in sehr schonem goldig-braunem Tone.
+
+Holz.Hohe 56,Breite 74 Cent.
+
+## JANSSENS,JEROOM, gen.Le Danseur,
+
+geb.zu Antwerpen 1624；daselbst 1693.
+
+## 96.Gesellscbaftsstick.
+
+In einem mit Gemalden ausgestatteten grossen Saale conversirt eine Anzahl vornehmer Damen und Herren.In der Mitte ein tanzendes Paar,dem einige im Hintergrunde auf einem Podium befindliche Musikanten aufspielen.
+
+Vortreffliches Bild von schoner Composition und eleganter harmonischer Darstellung. Da nur mit kleinen Abweichungen, so verweisen wir beziglich der Darstellung auf die Abbildung im Katalog der Galerie Lanfranconi Nr. 34 (Gonzales Coques). Unser Bild galt ebenfalls als Gonzales Coques, dessen Signatur es tragt, wahrend es von Geheimrath Bode als eine Original-Arbeit des J. Janssens festgestellt wurde.
+
+Leinwand.Hohe 93,Breite 123 Cent.
+
+JONGHE,CLAUDE DE,(Jong),
+
+Maler zu Utrecht,wurde 1629 daselbst in die Malergesellschaft aufgenommen.
+
+## 97. Maria mit dem Kinde und dem bl. Laurentius.
+
+Auf einem freien Platze,der von antiken Gebulichkeiten umschlossen,kniet rechts neben einer von Rebenranken um-
+40
+
+kranzten Saule,hinter dem Rost, der Heilige in vollem Ornate, die Hainde iber die Brust gekreuzt. Von Engelglorie umgeben,erscheint ihm in Wolken Madonna mit dem Kinde, welches ihm einen Lorbeerkranz aufs Haupt setzt. Im Vorgrunde links liegen in wirrem Durcheinander Kirchengefisse der verschiedensten Art,meist in Edelmetall.
+
+Hervorragendes Altarbild des seltenen Meisters,vortrefflich und breit in der Behandlung,ungemein wirkungsvoll im Gesammt-Eindruck.
+
+Bezeichnet auf der Saule:
+
+<!-- image -->
+
+Leinwand.Hohe 21o,Breite 188 Cent.
+
+JORDAENS,JACOB, geb.zu Antwerpen 1593: daselbst 1678.
+
+## 98. Studienkopf.
+
+Lebensgrosses Brustbild eines Alten mit langem greisen Vollbart,der dasstarkgerothete Gesichtmitniedergesenktem Blick umrahmt. Das lange weisse Lockenhaar bedeckt eine rothe Mitze.
+
+Flotte charakteristische Studie in leuchtendem Rubens-Colorit. Leinwand auf Holz.Hohe 55,Breite 41 Cent.
+
+Bezeichnet:K D 1656.
+
+## 99. Bauernkirmes.
+
+In einer weit ausgedehnten Gebirgslandschaft sind auf dem freien Platze,vor einer Schlossruine,Buden und Zelte auf geschlagen, vor und bei denen sich zahlreiche Figuren bewegen.Im Vorgrunde rechts zieht ein Paar mit beladenen Maulthieren heim.
+
+Sehr schones Bild,reich in der Composition, fein in der Zeichnung und hibsch im Colorit；auf einem liegenden Baumstumpfe links bezeichnet:K.D.1656.
+
+Kupfer. Hohe 3o,Breite 38 Cent.
+geb.zu Amsterdam um 1620-1625: 1693.
+
+## 100. Fribsticksbild.
+
+Auf einem mit olivfarbener Decke belegtem Tische steht auf grossem Wirmegefiss eine Schiissel mit angeschnittenem Schinken; daneben hoher Deckelpokal und Romer halbgefillt, Senftopfchen,Schissel mit Crevetten und angeschnittener
+
+Citrone,Schale mit Nissen,Messer etc.
+
+Schone Composiion in malerischer Anordnung in noblem dunklem Tone.
+
+Leinwand.Hohe 4S,Breite 64 Cent.
+
+## KESSEL, JAN VAN,
+
+geb.1626 zu Antwerpen:daselbst 1676.
+
+## 101. Blumenkranz.
+
+Dicht geflochtener,reizvoller Kranz farbenprachtiger Garten blumen als Umrahmung des mit Schmetterlingen spielenden Amors.
+
+Reizendes Bildchen von delikater,minutioser Ausfuihrung.
+
+Holz.Hohe 181g,Breite 22 Cent.
+
+## KNYFF,WOUTER,
+
+thatig schon 164o in Haarlem;noch 1679 in Haarlem,aber auch zu Middelburg.
+
+## 102. Canallandscbaft.
+
+Den ganzen Vorgrund nimmt,rechts von einem schmalen Landstreifen begrenzt, das Wasser ein, auf dem zahllose Segelboote und Kahne. Auf dem jenseitigen Ufer eine grosse Ruine, bei der zwei Fischer in Kahn. Weiter zurick Thurm und mehrere Hiuser,an die sich das mit Figuren staffirte er hohte Werft anschliesst.
+
+Silbertoniges schones Bild, den Schopfungen des Jan van Goijen sehr.nahekommend.
+
+Bezeichnet.
+104.Viebstick.
+
+Im Vorgrunde einer hiigeligen Landschaft lagern zwei Kuhe bei zwei Laimmern.Die Gruppe fillt eine rechts hinter entlaubtem Stamme Schafstall,vor dem mehrere Schafe niedrigem Zaun stehende braun-weiss gefleckte Kuh. Links bei und zwei Hirten,deren einer am Boden sitzt. Abendliche Stimmung.
+
+Feines goldtoniges Bild,ganz in der Art des Adriaan van de Velde, mit dessen Signatur es auch bezeichnet ist. Dasselbe galt auch bisher fir dessen Werk und rihrt die Bestimmung seiner jetzigen Autorschaft von Geheimrath Bode her.
+
+Holz. Hohe 33,Breite 32 Cent.
+
+## LIMBORCH,HENDRIK VAN,
+
+geb. im Haag 168o; daselbst 1759.
+
+105. Bildniss cines bollandischen Rechtsgelebrten.
+
+Kniefigur,fast en face,bartlos,mit langer gepuderter Al longe-Perricke in elegantem Hausgewande. Derselbe sitzt, thatig in Koln um 1515-1530.
+
+## 103. Bildniss eines jungen Mannes.
+
+Brustbild in Dreiviertel-Wendung nach rechts,bartlos,in schwarzem gemustertem Gewande,iber das ein weisses Chemisett mit goldgestickter Borde hervorschaut. Das glatt herabfallende lange rothblonde Haar bedeckt cin grosses rothes Barett. Blau-grinlicher Grund.
+
+Fein gezeichnetes,ungemein reizvolles Bild,kostlich in seiner Farbenharmonie. Dr. Scheibler aussert sich iber dasselbe wie folgt:,Vorliegendes Bild ist jedenfalls vom Meister des Todes Maria oder von seinem wahrscheinlichen Schiler Bartholomaus Bruyn d. A.Das Bild ist beider gleichmassig bedeutenden Portraitisten durchaus wirdig. Es liegt hier einer der Falle vor,wo beide Meister schwer zu unterscheiden sind.
+
+Holz.Hohe 26,Breite 23 Cent.
+
+## LEEUW,PIETER DE,
+
+Dordrechter Thiermaler;nach 1678.
+die Rechte auf das Corpus juris gestitzt,an einem mit bunter Decke belegten Tische vor einem grossen Fenster, dessen weit zurickgeschobener rother Vorhang einen Blick in eine huigelige Landschaft gewaihrt.
+
+Ansprechendes Bild,vornehm in Auffassung und Ausfuihrung, schon in der Farbe.
+
+Bezeichnet:
+
+Himborch ft
+
+Leinwand. Hohe 58,Breite 5o Cent.
+
+## LINGELBACH,JOHANNES,
+
+geb.zu Frankfurt a.M.1623:zu Amsterdam 1674.
+
+## 106.Italieniscbe Flusslandschaft.
+
+Die linke Seite des Bildes nimmt ein breiter.Fluss ein, dessen beide Ufer durch eine mehrbogige Steinbricke verwerden. Auf einem freien Platze des Vorgrundes,vor hoher Ufermauer, lagert eine grosse Gesellschaft von Minnern und Knaben,die theils zum Bade sich fertig machen,theils bei Kartenspiel und anderer Beschaftigung sind. Ein Stalljunge fuihrt einen Schimmel und einen Braunen zur Schwemme.
+
+Hervorragendes Werkdes Meisters,das in glanzender Weise das Landschaftsbild sowie das Volksleben Italiens wiedergiebt. Die vortreffliche Ausfihrung und die contrastische Beleuchtung der untergehenden Sonne stempeln das Bild zu einer ganz hervorragenden Leistung des geschitzten Kinstlers.
+
+Bezeichnet
+
+<!-- image -->
+
+Leinwand.Hohe S4,Breite 73 Cent.
+
+LYS, (LIS), JOHANN, gen. Pan, geb.zu Oldenburg 157o;zu Venedig 1626.
+
+107. Die Toilette der Venus.
+
+Unter einem cin vollstindiges Zeltdach bildenden Vorhange sitzt Venus vollig nackt auf rother Decke,von drei
+Grazien und Amoretten bedient. Sie schaut in einen von Amor gehaltenen Spiegel. Links ausgedehnte Landschaft,in der Adonis erscheint. In der Hohe Gruppe blumenstreuen- der Amoretten.
+
+Sehr gutes Bild,vortrefflich in der Modellirung,die Carnation in feurigem Rubenscolorit.Die Autorschaft des friher Diepenbeck genannten Bildes rihrt von Geheimrath Bode her.
+
+Leinwand.Hohe Ss,Breite 7o Cent.
+
+## LOOTEN,JAN,
+
+geb.1618;in England 1681.
+
+## 108. Landschaft.
+
+Am Saume eines dichten Waldes vorbei fihrt ein breiter
+
+Weg iber eine Holzbrucke nach links zu weiter Ferne,in der auf einem baumbewachsenen Hugel die Hauser und der Kirchthurm einer Ortschaft sichtbar sind. Im Vorgrunde auf einem abschissigen Wege ein Bauer,auf Esel reitend. Leicht bewolkter Himmel.
+
+In braunem Gesammttone vorrefflich ausgefihrtes Bild, durch die silbertonige Wolkenbildung in wohlthuendste harmonische Wirkung gebracht.
+
+Holz. Hohe 94,Breite 77 Cent.
+
+## LUNDENS,GERRIT,
+
+geb.zu Amsterdam 1622; lebte daselbt noch 1677.
+
+## 109. Die sieben Todsinden.
+
+Dargestelt durch sieben Personen,finf mannliche und zwei weibliche, die in den verschiedensten Positionen als Gesellschaft in einer Schenke gruppirt sind und von denen drei als Hauptgruppe um einen Tisch sitzen.
+
+Bezeichnet.Prov. Coll.Burger Paris.
+
+Ganz hervorragendes Werk des Meisters, in dem er als der grosse Sittenmaler erscheint. Plastisch in feinster Modellirung,frisch in gutem Helldunkel, in glihendstem Goldtone.
+
+Holz. Hohe 42,Breite 38 Cent.
+## 1Io. Die Kucbenbackerin.
+
+An offenem Heerdfeuer sitzt,Kuchen backend,eine Frau, von ihrer Familie umgeben. Ein Knabe spricht dem ihm gereichten Kuchen krafig zu. Der Mann sitzt nachlissig auf dem Stuhle,in der Rechten einen Krug,in der Linken eine
+
+Thonpfeife haltend.
+
+Sehr gutes Bild in hibschem Colorit,etwas dunkel gehalten.
+
+Holz.Hhe 44,Breite 35 Cent.
+
+## MAES, NICOLAS,
+
+geb.zu Dordrecht 1632;zu Amsterdam 1693.
+
+## II1.Minmliches Bildniss.
+
+Brustbild eines jungen Mannes in schwarzem Gewande mit breitem,weit auf die Brust herabfallendem weissen Kragen, in Dreiviertelnach rechts gewandt;das blonde Haar wallt in langen Locken herab.Graulicher Grund.
+
+Geistreich behandeltes Bildchen,das den Einfuss Rembrandts nicht verkennen lasst.
+
+Holz.Hohe 29,Breite 25e Cent.
+
+## MAGNASCO, ALLESANDRO, gen. Lissandrino,
+
+lebte zwischen 1681 und 1747.
+
+## 112. Seesturm.
+
+Wild erregte See,deren Wogen gegen einen mit Burgruine bestandenen Berg emporschlagen.Im Vorgrunde am Gestade einige Monche und ein Schiffer, die in Verzweifelung dem Untergange einiger Schiffe zuschauen und den Schiffbrichigen die Absolution ertheilen.
+
+Geistreiches Bild,in seiner fotten,breiten Behandlung von hochkinstlerischer
+
+Bedeutung mit dramatischer Wirkung. Das Bild,das bisher als ein Werk des Salvator Rosa galt, dessen Monogramm es auch tragt,wurde von Geheimrath Bode dem Magnasco zugeschrieben.
+## MAHU, CORNELIS,
+
+geb.zu Antwerpen 1613;daselbst 1689.
+
+## 113.Bauernbelustigung.
+
+In einem scheunenartigen Raume tanzt links im Vorgrunde ein Paar zum Spiele eines rechts auf Tonne sitzenden Geigers.Als Mittelgruppe Alte,mit einem Zecher schikernd, rauchende Matrone und mehrere Kinderfiguren,deren eine mit einem Hunde spielt.
+
+Vortreffliches Werk des Meisters in abgerundeter Composition und in dem
+
+Ostade wirdigen Goldtone vorziglich ausgefihrt,welchem Meister das Bild auch zugeschrieben wurde, bevor es von den Autoritaten dem Mahu gegeben worden ist. Holz. Hohe 33,Breite 39 Cent.
+
+## MANGLARD,ADRIAEN,
+
+geb.zu Lyon 1695; zu Rom 1760.
+
+## 114.Italieniscber Seebafen.
+
+Rechts die hohe gebirgige Kuiste. Im Vorgrunde ein romantisches Felsgebirge, auslaufend mit Landzunge, auf welcher runderverfallener Thurm,bei welchem mehrere Schiffe landen. Auf dem Gestade des Vorgrundes mehrere Figuren,die sich theils bei einem Kahne,in dem zwei Fischer,zu thun machen.
+
+Von links naht ein Segelboot.
+
+Schones,pastos behandeltes Bild von vollendeter Farbenstimmung.
+
+Leinwand.Hohe 42,Breite 52Cent.
+
+## MASSYS, JAN,
+
+geb. zu Antwerpen 1509; daselbst 1575.
+
+## 11s. Die Geldzabler.
+
+Lebensgrosse Halbfiguren,in einer Stube hinter einem mit grunem Tuche belegten Tische sitzend. Ein bebrillter ilterer Mann mit turbanartiger rother Kopfbedeckung macht seine
+Einzeichnungen in einem Buche,wahrend sein Genosse, sich an seine Schulter lehnend, das Haupt mit schwarzem Tuche bedeckt,Geld und Geschmeide aus cinem Beutel schiittet. Auf einem Hingebrette stehen Leuchter, Schachtel mit Urkunden etc.
+
+Vortreffliche Wiederholung der bekannten Composition des Quinten Massys mit kleinen Variationen,sehr schon und leuchtend im Colorit.
+
+Holz.Hohe 98,Breite 72 Cent.
+
+## MEGAN, G.E.
+
+Landschaftsmaler aus Brabant,blihte in Wien gegen Ende des XVIl. Jahrhunderts.
+
+## 16. Romantische Landschaft.
+
+Rechts und links Gruppen hoher Baiume,zwischen denen rechts ausgedehnte Gebiulichkeiten liegen. Als Staffage Jacob und Rahel.
+
+Interessantes,fou behandeltes Bild von schonem und leuchtenden Incarnat. Leinwand. Hohe 75,Breite g8 Cent.
+
+## METSU, GABRIEL,
+
+geb.angeblich 1629 oder 163o;↑zu Amsterdam 1667.
+
+## I17. Venus und Amor in der Schmiede des Vulkan.
+
+In einer Felshohle steht links im Vorgrunde am Amboss Vulkan,Waffen schmiedend,die,zum Theil fertig,den Vor grund cinnehmen. Er holt eben zu wuchtigem Schlage aus. Rechts hinter ihm erscheint, bei der Esse beschiftigt, sein Gehuilfe. Rechts im Vorgrunde steht nackt,fast ganz vom
+
+Riicken gesehen,Venus, von Amor begleitet.
+
+Hochinteressantes Werk des Meisters in einer usserst selten bei ihm vorkommen- den mythologischen Composition.
+
+Oben links die Bezeichnung:
+
+mtet
+
+Holz.Hohe 37,Breite 33 Cent.
+
+<!-- image -->
+## MEIREN, JAN-BAPTIST VAN DER,
+
+Antwerpener Maler von 1664 bis um 1708.
+
+## 118. Flusslandscbaft mit reicber Staffage.
+
+Zwischen hohen gebirgigen Ufern durch schlaingelt sich, die Mitte der ganzen Composition einnehmend, ein Fluss,auf dem zahllose bemannte Segelboote. Auf beiden Ufern erscheinen Ortschaften mit grossen Ruinen,namentlich im Vorgrunde, belebt von geschmackvoll gruppirter, ausserordentlich reicherFigurenstaffageim Geschmack des Teniers mit Gruppen von Reitern und Fussgingern, Lastkarren,Wagen,Viehheerden etc. etc. Bei leicht bewolktem Himmel ist die Darstellung von der eben untergehenden Sonne sehr prichtig beleuchtet.
+
+Vortreffliches Bild, sehr angenehm und harmonisch im Tone.
+
+Holz. Hohe 55,Breite 73 Cent.
+
+## MICHAULT, THEOBALD,
+
+geb.zu Doornik（Tournay)1676;zu Antwerpen 1765.
+
+## 1I19.Flusslandschaft.
+
+Die linke Seite des Bildes nimmt das Wasser ein, das reich belebt von zahlreich besetzten Segelbooten und Kihnen, Enten etc.;im Vorgrunde landet eben ein schwer mit Waaren beladener Kahn. Das sich nach rechts zu einem weiten higeligen Gelinde ausbreitende Ufer zeigt eine ungemein reiche Staffage: bei einer grossen Heerde von Kuhen und Schafen tanzt ein Paar zum Flotenspiele eines auf einem Esel sitzenden Hirten;im Vorgrunde Gemisehandler;rechts vor der Schenke halt ein Reiter.
+
+Vortrefliches Werk des Meisters,in ungemein reicher Composition bei reizvollster Vertheilung der Staffage in hellem malerischen Tone.
+
+Unten rechts die Bezeichnung:
+
+michaae
+## MIEREVELT,PIETER,
+
+geb.zu Delft 1596; daselbst 1623.
+
+## 120. Mannlicbes Bildniss.
+
+Brustbild,fast enface,mit kurzgeschnittenem Haar,Schnurr-
+
+Schones Bild von charakteristischer Auffassung.
+
+und Knebelbart;er traigt ein schwarzes Gewand mit breitem enganliegendem Spitzenkragen. Dunkler Grund.
+
+Holz. Hohe 64,Breite 51 Cent.
+
+## MIERIS,WILLEM VAN,
+
+geb.zu Leiden 1662; daselbst 1747.
+
+## 121. Joseph und das Weib Potiphars.
+
+Aufihrem Himmelbette sitzt auf schoner rothseidener Decke
+
+Potiphars Frau,vollig entkleidet mit ibergeworfenem Mantel. Mit fehender Miene sucht sie den sich abwendend Davoneilenden zuriick zu halten.
+
+In der bekannten feissigen emailartigen Ausfuihrung des Meisters schones vol- lendetes Bild in goldigem Tone.
+
+Bezeichnet:
+
+<!-- image -->
+
+Holz.Hohe 44,Breite 34/ Cent.
+
+## MIGNARD, PIERRE, gen. Mignard le Romain,
+
+geb. zu Troyes 1612; zu Paris 1695.
+
+## 122.Madame de Maintenon.
+
+Brustbild, fast ganz en face,mit gepuderter Lockenfrisur und freundlich lachelndem Gesichtsausdruck. Sie trigt ein tief ausgeschnittenes, leichtes Gewand mit iber die Schultern ge worfenem pelzgefittertem Umhange.Graulicher Grund.
+
+Feines ansprechendes Portrait in glatter delikater Malerei.
+
+Leinwand.Hohe 5o,Breite 42 Cent.
+## MOLENAER,CLAES,
+
+1651 Meister der Haarlemer Gilde.
+
+## 123.Landschaft mit den ausgedebnten Ruinen eines Schlosses.
+
+Den ganzen Vor-und Mittelgrund des Bildes nehmen Ruinen ein,neben und auf denen Baume und Gestriuch;eine zahl reiche Figurenstaffage in einzelnen Figuren und Gruppen belebt die Composition.
+
+Ausgezeichnetes Werk des Meisters in warmem Goldton.
+
+Rechts auf einer Mauer die Bezeichnung:
+
+<!-- image -->
+
+Leinwand.Hohe 441/,Breite 391/2 Cent.
+
+## 124.Winterlandscbaft.
+
+Rechts zieht sich nach weiter Ferne ein zugefrorener Fluss, auf dessen Eis mehrere Schlittschuhliufer.Im Vorgrunde links bei hohen entlaubten Baumen ein Bauernhaus,von dem ein mit Schimmel bespannter Schlitten eben abfihrt.
+
+Reizendes, fein gestimmtes Bild.
+
+Unten links bezeichnet:K.Molenaer.
+
+## 125. Winterlandschaft.
+
+Ueber ein die linke Seite des Bildes einnehmendes zugefrorenes Wasser,auf dessen Eise zahlreiche Schlittschuhlaiufer und ein mit Schimmel bespannter Frachtschlitten,fihrt in mehreren Bogen eine Steinbricke zu den links liegenden ausgedehnten Gebaulichkeiten,zu denen im Vorgrunde eine Steintreppe hinauffuhrt, bei der mehrere Figuren, dabei zwei Manner ein Fass tragend.
+
+Treffliches Werk des Meisters,reich in der Composition und elegant in schonem Goldton.Monogrammirt.
+
+Holz.Hohe 181/e,Breite 22 Cent.
+## MOLENAER,JAN MIENSZE,
+
+gestorben 1668 in Haarlem.
+
+## 126. Das Pantoffelspiel.
+
+Als Hauptfigur, auf einem Stuhle sitzend, eine Frau mit weisser Jacke, weisser Schirze und weisser Haube mit ausgezogenem Pantoffel, den linken Fuss hochhaltend;um sie herum sind vierzehn verschiedene Figuren gruppirt,um mit dem Spiele zu beginnen. Rechts sitzt ein braun-weiss gefecktes Hundchen; ein Knabe liuft zur Thire,in der noch zwei Figuren erscheinen. Im Hintergrunde links sitzt ein Paar bei gedecktem Tische.
+
+Interessantes hollandisches Sittenbild in reicher Composition,vortrefflich von Qualitat,in glihendem Goldtone.
+
+Holz.Hohe 40,Breite 56 Cent.
+
+## MOLYN,PIETER, d.A.,
+
+geb.zu London 1596 oder um 16oo; zu Haarlem 1661.
+
+## 127. Gebirgige Landschaft.
+
+Eine weite Gebirgskette fallt nach rechts zu einem weit ausgedehnten Flachterrain mit Stadt am Wasser allmahlich ab. Links fihrt ein Hohlweg zu einem Waldeingange,wellenformig ansteigend. Auf demselben als Staffage vier Reiter, Bettler mit Kind,einzelne Figuren und Hund. Im mittleren Vorgrunde eine Frau in rother Jacke mit Hund bei einem auf der Erde sitzenden Angler.
+
+Ausgezeichnetes Werk des Meisters,breit und voll im Vortrag und harmonisch in dem Farbenauftrag.
+
+<!-- image -->
+
+Molyn
+
+Bezeichnet:
+
+1645
+
+Holz.Hohe 4I,Breite 49 Cent.
+geb. angeblich 1623 zu Haarlem; angeblich daselbst 1697.
+
+## 128. Gemiisemarkt uor dem Pantbeon in Rom.
+
+Den Platz fillen in einzelnen Gruppen die Verkaufer und Verkaiuferinnen;die verschiedenartigsten Gemiise sind theils in Korben vor ihnen ausgebreitet. Ochsenbespannte Wagen und beladene Maulthiere bringen neue Waaren herbei.
+
+Prichtiges,bunt belebtes Bild von ganz hervorragender Qualitat des Meisters.
+
+Unten rechts bezeichnet:H.Mommers.
+
+## 130. Romantische Gebirgslandschaft.
+
+Rechts und links gewaltige Felsmassen,zwischen und auf denen Schlossgebaulichkeiten,Ruinen,Kirchen etc. Im Vorgrunde rechts ein Wasser; auf dem breiten Felswege im
+
+Holz.Hohe 58,Breite go Cent.
+
+## MOMPER, JOOS (JODOCUS, JOSSE) DE,
+
+geb.zu Antwerpen 1564；daselbst 1635.
+
+## 129. Der Bauernbof.
+
+Beschattet von einzelstehenden hohen Baumen,liegen,zerstreut und theilweise durch Plankenzaun getrennt,Scheunen und andere Gebaulichkeitenmit hohen strohgedeckten Dachern bei einer mit Gras bedeckten Fliche, auf der eine Anzahl Schweine,Rinder und Gefugel. Links ein kleines,von primitivem Steg iberbricktes Wasser, auf dem einige Enten;vorne ein mit Gaul bespannter Karren, dessen Fuhrer sich mit zwei Frauen im Gesprache befindet,welche die Wasche zu reinigen im Begriffe sind und eine Magd, die sich bei einem Ziehbrunnen beschaftigt.
+
+Reich staffirtes,lebendig componirtes Bild von vortreflicher klarer Farbung und feissiger Durchfihrung.
+
+Holz.Hohe 46,Breite 74 Cent.
+vorderen Mittelgrunde eine Karawane von Maulthieren,begleitet von mehreren Reitern,deren einer von einem Bettler angesprochen wird.
+
+Interessantes tichtiges Bild in braunlichem und grinlichem Tone. Die Staffage dem ilteren Teniers zugeschrieben.
+
+Holz. Hohe 51,Breite 75 Cent.
+
+## MORANDA,PAOLO,gen.Cavazzola,
+
+1486-1522.
+
+131.Judith.
+
+Bis zur Hufte dargestellt steht dieselbe en face in Lebensgrosse in violett-braunem Gewande,dessen geschlitzte Aermel ein weisses Unterkleid erscheinen lassen,mit gelbem Halstuche. In der Linken,mit der sie das Gewand aufhebt, halt sie das Schwert.
+
+Hervorragendes Bild in der dem Meister eigenen Farbengebung und von superber Ausfihrung. Die Bestimmung der Autorschaft rihrt von Prof. Bayersdorfer her und ist von Geheimrath Bode bestatigt worden.
+
+Leinwand.Hohe 82,Breite 65 Cent.
+
+## MOYA, PEDRO DE,
+
+geb.1610 zu Granada; daselbst 1666.
+
+## 132. Grosser dreitheiliger Klappaltar.
+
+Das Mittelbild zeigt eine Glorification der Jungfrau Maria, die,in Wolken schwebend,von einer grossen Anzahl theils musicirender und theils psalmirender Engel verehrt und umschwebt wird.Der linkeFlugel stelltdieVerkiindigung Marii, der rechte die Anbetung der Hirten dar. Auf den Aussenfligeln,unter einer grau in grau gehaltenen Bogenstellung mit Guirlanden, die Standfiguren der hl. Margaretha und des hl. Alexius.
+
+Hochinteressantes Werk des seltenen,eine hohe kunstgeschichtliche Bedeutung habenden Meisters, der seine Vermischung der vlamischen Schule mit den Eigenthimlichkeiten der spanischen Schule auf das Eclatanteste zeigt.
+
+Holz, Oben gerundet. Ganze Hohe 138,Breite, aufgeschlagen 187 Cent.
+geb.zu Antwerpen 1578;lebte daselbst noch 1656;vor 1661.
+
+## 133. Kirchen-Inmeres.
+
+Gothische Kirche mit weiten Saulenhallen.Man blickt durch das Mittelschiff auf die Empore und den Hochaltar und auf einen Theil der Seitenaltare im rechten Seitenschiffe. Der vordere Theil ist durch ein hohesFenster noch hell erleuchtet, wahrend im Uebrigen bereits Dammerlicht herrscht,durch brennende Armleuchter sparlich erhellt. Durch den ganzen Raum bewegt sich eine Figurenstaffage:als Hauptgruppe, links aus der Sakristei tretend,ein Geistlicher mit finf Herren, miterklairenden Gesten unterVorantritt einesFackeltragers.
+
+Vortreffliches Bild in grosser Warme des Tones,weich und fein in der Ausfihrung. Unten rechts bezeichnet mit dem vollen Namen.
+
+Holz. Hohe 39,Breite 64 Cent.
+
+## NEEFS, PIETER,d. J,
+
+geb.zu Antwerpen 162o;thatig daselbst noch 1675.
+
+## 134.Kircben-Arcbitekturstick.
+
+Das Innere einer hochgewolbten gothischen Kirche mit edel aufsteigenden Saulen und hohen gemalten Glasfenstern.Man blickt durch das ganze Langschiff und theilweise in die SeitenKapelle mit ihren Altairen. Reiche Figurenstaffage:in der vorderen Seiten-Kapelle mehrere Andichtige,dem hl. Messopfer beiwohnend, andere nahen der hl. Handlung; rechts Benedictiner-Monch,mit zwei Damen im Gesprich,von einem
+
+Bettler angesprochen; vorne Cavalier mit Hund etc. etc.
+
+Sehr schones Bild in der bekannten Detailausfihrung und correcten Zeichnung des Meisters in heller Farbung des vollen Tageslichtes. Die Staffage von der Hand des Ambrosius Francken. Rechts auf dem Sockel einer Saule die Signatur. (siehe Abbildung）.Prov.:Galerie Hohenzollern.
+## 135.Kircben-Intericur.
+
+Das Innere einer gothischen Kirche mit hohen von schlanken Saulen getragenen Gewolben,mit Blick auf das Mittelschiff und auf die Seitenaltare,reich ausgestattet mit Lettner, Epitaphien, Wappenschildern etc.In den weiten Hallen bewegt sich einereicheFigurenstaffage inmeistvornehmen Costiimen. Einzelne Andaichtige knieen vor den Altaren.
+
+Superbes Bild ungemein klar und hell in der Beleuchtung,die Staffage von der Hand des Palamedesz.
+
+Holz.Hohe 49,Breite 68 Cent.
+
+## NEER,VAN DER,EGLON HENDRIK,
+
+geb.zu Amsterdan 1643;zu Duisseldorf 1703.
+
+## 136. Die Dame inm Atlasgewande, cinen Papagei fitternd.
+
+An einem runden,mit Teppich belegtem Tische,auf dem Toilettegegenstinde, steht eine hubsche junge Dame mit Lockenhaar in weissem Atlasgewande mit blauer Scharpe und reichen Perlenschniren. Sie reicht dem aus seinem Bauer heraustretenden Papagei einen Leckerbissen.
+
+Feines,bis in die kleinsten Details delikat und subtil ausgefihrtes Bild,den besten Schopfungen der Mieris und Netscher gleichstehend.Auf dem Fensterbrett die Reste seiner Signatur.
+
+Holz.Hohe 401/e,Breite 32 Cent.
+
+## NETER,LAURENCE,
+
+Meister des XVIl.Jahrhunderts.（Bode,Hollandische Malerei S.164.)
+
+137.Wacltstube.
+
+Links bei der geoffneten Thuire ein Officier und Soldat, welche einigen Genossen zuschauen,die bei einer Trommel mit Kartenspiel beschaftigt sind. Im Hintergrunde auf einem Treppen-Aufgange ein zweiter Oficier mit mehreren Soldaten.
+
+Kunsthistorisch interessantes Bild,welches bisher dem Jan Duck zugeschrieben und von Dr. Bredius als ein Werk des seltenen Meisters erklart wurde, dessen
+
+Eigenthimlichkeiten und restliche Signatur es auch tragt.
+
+Holz mit eingebrannter Sternmarke.Hohe 28/g,Breite 43e Cent.
+## NICKELEN,ISAAC VAN,
+
+1660 Mitglied der Gilde zu Haarlem; 1703.
+
+## 138.Kircben-Architektur.
+
+Inneres einer Renaissance-Kirche mit Blick auf das Mittelschiff und die Orgel; im Vorgrunde links die Kanzel; an den Saulen Wappenschilder,Epitaphien etc. Das abendliche Licht erleuchtet schwach die linke Seite,wahrend die anderen
+
+Theile bereits im Dunkeln liegen. Figurenstaffage.
+
+Schones Bild.
+
+Holz.Hohe 5o,Breite 37 Cent,
+
+## OCHTERVELD,JACOB,
+
+von 1665 bis.1672in Rotterdam,nachweisbar 1674 in Amsterdam.
+
+## 139. Die Fischuerkaiuferin.
+
+In einem weiten Raume mit hohem Fenster rechts, durch welches das die Gruppe beleuchtende helle Licht durchfaillt, sitzt in rother,mit weissem Pelz garnirter Jacke und weiter weisser Schirze,eine Frau, der vor ihr stehenden Kochin Fischsticke auf das in beiden Handen gehaltene Brett legend, die sie einem neben ihr stehenden Korbe entnommen.Im Vorgrunde links liegt schlafend ein braun-weiss gefleckter
+
+Wachtelhund.
+
+Ganz hervorragendes Bild des Meisters,dem die Autoritaten es zugeschrieben. In der Farbenharmonie und den Beleuchtungseffecten ganz in der Art des Pieter de Hoogh,als dessen Schopfung das schone Bild auch friher galt.
+
+Leinwand. Hohe 62,Breite 5o Cent.
+
+## OMMEGANCK,BALTHAZAR PAUWEL,
+
+1755-1826.
+
+## 140. Landschaft mit Vieh.
+
+Weite fache Fernsicht mit am fernsten Horizonte eben erscheinender grosser Ortschaft. Im Vorgrunde links liegen am
+Fusse eines hohen Baumes bei verfallener Planke Kuh und Esel; dabei steht schlafend ein Schecke.
+
+Fein und feissig ausgefihrtes Bildchen mit Anklangen an Pottersche Compositionen und Vorwiirfe.
+
+Holz.Hohe 23,Breite 23 Cent.
+
+## OS, JAN VAN,
+
+Meister von Middelharnis 1744-18o8.
+
+## 141.Blumenstick.
+
+Auf einem Steinsockel steht eine grosse reiche Marmorvase, in der dicht gefilt ein Strauss der prachtigsten Gartenblumen, theils mit breiten Blaittern,auf denen Schmetterlinge umherkriechen. Auf dem Sockel und der Steinplatte liegen daneben prachtige Trauben, zwei Pfirsiche und zwei grosse Pflaumen,bei welchen eine Schnecke kriecht.
+
+Vortrefliches Bild,superb in Zeichnung,leicht und angenehm in seinem nobelen Ton.
+
+Auf dem Sockel die Bezeichnung:
+
+<!-- image -->
+
+Leinwand.Hohe 96,Breite 105 Cent.
+
+## OSTADE,VAN ADRIAEN,
+
+geb. zu Haarlem 161o;  daselbst 1675.
+
+## 142. Bauernstick.
+
+In einer althollaindischen Bauernstube sitzt bei einem runden Tische ein alteres Paar, die Frau mit Trinken und der Mann mit dem Lesen in einem Schriftsticke beschaftigt. Hinter ihnen ein rauchender Mann,der den Beiden zuschaut.
+
+Ganz vortreffliches Werk des Meisters von vorziglicher,feiner Qualitat in schonem Goldtone.
+
+<!-- image -->
+
+A.v.Ostadef.
+
+Bezeichnet:
+
+Holz. Hohe 26,Breite 21 Cent.
+
+8
+## 145. Wachtstube.
+
+Als Hauptfigur sitzt in der Mitte des Bildes ein Officier in reicher Uniform, mit gelbem Koller und blauer Schrpe,nach lissig auf einem Stuhle;neben ihm der Trommler die Trommel rihrend. In der Umgebung in einzelnen Figuren mehrere
+
+## OSTADE,VAN ISACK,
+
+geb.zu Haarlem 1621; daselbst 1657.
+
+## 143. Lustige Gesellschaft.
+
+In einem scheunenartigen Raume,in dem zerbrochenes Rad, alte Korbe, Gefisse und Gerathe aller Art auf dem Boden umherstehen und liegen,sitzt in malerischer Gruppe eine Gesellschaft von neun Figuren, Mainner, Weiber und Kinder,zechend, singend und sich sonst vergnigend.
+
+Ganz hervorragendes Werk des Meisters humorvoll in der Auffassung,ungemein fein und leicht in Zeichnung und Colorit,den Arbeiten des Adriaen van Ostade vollstandig ebenbirtig und ahnlich und jedenfalls aus der Zeit des Zusammenwirkens beider Brider.
+
+Bezeichnet:
+
+Dstade
+
+<!-- image -->
+
+Holz,Hohe 33,Breite 43 Cent.
+
+## PALAMEDESZ,STEVAERTS ANTONI,
+
+geb. zu Delft um 16oo;in Amsterdam 1673.
+
+## 144: Conversationsscene.
+
+Eine Gesellschaft feingekleideter Cavaliere und Damen ist in einzelnen Paaren auf der rechten Seite des Bildes gruppirt. Ein Page fillt die Gliser. Links cine Gruppe von drei Figuren, musicirend und singend. Im Vorgrunde zwei Hunde; im Hintergrunde zwei Diener bei Weinkuhler beschaftigt.
+
+Interessantes Sittenbild niederlandischen Lebens,feingezeichnet und glanzend in der Farbengebung.
+
+Holz.Hohe 38,Breite 53 Cent.
+Kriegsleute, einer mit der Muskete. Rechts eine Gruppe von sechs Soldaten mit Kartenspiel bei offenem Thorbogen, durch den eine Figur das Wachtlokal verlasst.
+
+Schone Composition, ungemein kraftig und leuchtvoll im Colorit,namentlich der beiden Hauptfiguren. Unten links mit dem vollen Namen bezeichnet.
+
+Holz.Hohe 35,Breite 44 Cent.
+
+## POELENBURGH, CORNELIS,
+
+geb.zu Utrecht 1586; daselbst 1667.
+
+146. Gottermabl.
+
+In duisteren Wolken sitzen,von der schwach durchscheinenden Sonne beleuchtet,die Gotter und Halbgotter des Olymps an langer gedeckter Tafel. In einzelnen Gruppen links Jupiter mit seinen Trabanten,rechts Venus mit Amor und Mars. In der Hohe schwebende Amoretten,Blumen streuend, in die Posaune stossend etc.
+
+Sehr schones Bild mit der dem Meister eigenen zarten und feinen Behandlung der Fleischpartieen und aller Details.
+
+Leinwand. Hohe 72,Breite go Cent,
+
+## RECCO, CAV. GIUSEPPE,
+
+Maler von Neapel,2.Hilfte des XVIl. Jahrh.; in Alicante.
+
+## 147.Frucht- und Blumenstick.
+
+ImVorgrunde einer Landschaft liegen um eine angeschnittene Melone,Trauben,Pfirsiche,Datteln,Aepfel,Blumengehnge etc.;dabei sitzt eine Taube.Rechts eine sprudelndeFontaine, mit sich um dieselbe rankenden Winden und anderen Schlingpflanzen.
+
+Reiche Composition in schonem Colorit.Schones Decorationsbild.
+
+Leinwand.Hohe 9S,Breite I23 Cent.
+## 148.Frucht-und Blumenstick.
+
+Um eine Schuissel mit Erdbeeren und eine Metallvase gruppiren sich Melonen und andere Fruichte. Dazwischen gruppiren sich Schneeballen und andere Blumen.
+
+Gleiche Ausfihrung. Gegenstick.
+
+Leinwand.Gleiche Grosse.
+
+## REMBRANDT,HARMENSZVAN RIJN,
+
+geb.zu Leiden 1606;zu Amsterdam 1669.
+
+149. Grosse Landschaft mit Juda umd Thamar.
+
+Die rechte Seite des Bildes zeigt den Auslauf einer alten duisteren Waldung in einer Gruppe machtiger dichtbelaubter Baume. Nach links hin, durch eine Schonung unterbrochen, setzt der Wald mit jungerem Baumwerk sich fort. Am Fusse des machtigsten Baumes sitzen kosend Thamar und Juda. Den breiten, zum Vordergrund fuihrenden Weg vor ihnen, sowie die hugelige Lichtung links belebt eine weitzerstreute Heerde von Ziegen und Lammern. Links im gelichteten Geholz werden auch andere Figuren noch sichtbar. Das von links her kommende Licht durchleuchtet die junge grine Waldung, rechts aber bleibt der alte Wald dister und nur die Spitzen seiner vordersten Baume werden von dem goldenen Lichte gestreift.
+
+Gewaltiges Bild von packendster Wirkung und von magischem Zauber in seiner Beleuchtung. Seine cingehende Beschreibung und Wirdigung findet dieses CapitalWerk des grossen Meisters in C. Vosmaer's ,Rembrandt sa vie et ses ceuvres". pag.3o9.Prov.:Sammlung Baron Kolisch,Pesth.
+
+Bezeichnet:
+
+<!-- image -->
+## RIBERA,JUSEPE DE,gen. Spagnoletto,
+
+geb.zu Jativa 1588; zu Neapel 1656.
+
+## 150. Der bl. Petrus.
+
+Brustbild des Apostelfuirsten,der in Dreiviertel-Wendung nach rechts dargestellt und bekleidet mit braunem Mantel, in der nervigen Linken den Schluissel hailt.
+
+Trefliches Bild von kraftiger Zeichnung und grosser Wirkung im Helldunkel.
+
+Leinwand.Hohe 66,Breite 5o Cent.In geschnitztem Rahmen.
+
+## ISI. Der Apostel Philippus.
+
+Lebensgrosse Haibfigur im Profile nach rechts mit grauem langen Barte,in braunem Gewande,in der Rechten den
+
+Kreuzstab haltend.
+
+Gegenstick zum Vorigen, in gleich vortrefflicher Ausfihrung und Wirkung.
+
+Leinwand.Gleiche Grosse.Ebenso.
+
+## ROMBOUTS, JILLES (GILLIS),
+
+thatig in Haarlem zwischen 1652-1663.
+
+## 152.Waldlandschaft mit Jagdgesellscbaft.
+
+Walddickicht mit hohen Baumen,dichtem Buschwerk und niedrigem Gestripp.Vom rechten Vorgrunde schlingelt sich zuerst nach links dann wieder weit nach rechts ins Dickicht hinein ein breiter ausgefahrener Weg,auf dem im Vorgrunde Herr und Dame zu Pferde,mehrere Treiber und im fernsten Hintergrunde noch andere Reiter. Der Weg neigt sich links im Vorgrunde sanft ab zu einem Tuimpel,aus dem zwei Hunde saufen,wahrend der hinter ihnen knieende roth gekleidete Junge aus seinem Hute trinkt. Auf dem links aus dem Dickicht fuhrenden Seitenwege galoppirt ein Reiter mit zwei Hunden. Abendliche Beleuchtung mit wolkenbe-
+decktem Himmel,von den letzten Strahlen der schwach durchschimmernden Sonne nur noch im Vorgrunde und nach rechts hin beleuchtet.
+
+Grossartig entworfenes Bild unter hervorragendem Einflusse des Ruisdael entstanden und seinen Arbeiten so nahe kommend, dass es in leicht erklirlicher Weise bisher fir eine Schopfung dieses grossen Meisters gegolten. Seine jetzige Bestimmung rihrt von Geheimrath Bode her.
+
+Leinwand. Hohe 66,Breite 84 Cent.
+
+## ROMEYN, WILLEM,
+
+Schiler des Berchem 1642; thitig zu Haarlem,lebte daselbst noch 1693.
+
+## 153. Landschaft mit Vieh.
+
+Leichthiigeliges Gelainde; im Vorgrunde, von der durch schwere Wolken durchscheinenden Sonne beleuchtet, eine Gruppe von Kuihen, Schafen und Ziegen. Rechts etwas zurick das Hirtenpaar.
+
+Vortreffliches,ansprechendes Bild,charakteristisch durch dieFeinheit der grauen landschaftlichen Stimmung und die klare Luft.
+
+Bezeichnet:
+
+<!-- image -->
+
+Holz.Hohe 35,Breite 33 Cent.
+
+ROOS, PHILIPP PETER, gen. Rosa di Tivoli, geb. zu Frankfurt a. M.1651;zu Tivoli 1705.
+
+154.Vicbstick.
+
+Im Vorgrunde einer italienischen Landschaft mit am Fusse einer Gebirgskette liegenden Ortschaft lagert ein Bulle;rechts davon steht eine Kuh hinter einer Gruppe von drei Ziegen. Links kauert der Hirt neben seinem Hunde.
+
+Leinwand. Hohe 125,Breite 16S Cent.
+
+Grosses in der bekannten Manier des Meisters pastos gemaltes Bild.
+## ROTTENHAMER,JOHANN,
+
+geb.zu Minchen 1564;zu Augsburg 1623.
+
+## 155.Die Israeliten in der Wiste.
+
+Figurenreiche Composition mit zahllosen vereinzelten Gruppen. Man blickt an einem romantischen Felsgebirge vorbei in einen ausgedehnten Hintergrund,in dem das Zeltlager.
+
+Vortrefliches Bild, gut in der Zeichnung und klar im Colorit. Der landschaftliche Hintergrund dem Paul Bril zugeschrieben.
+
+Holz.Hohe 86,Breite 6g Cent.
+
+## 156.Maria Besuch bei Elisabeth.
+
+Im Vorgrunde einer waldigen Landschaft begrissen sich die beiden Frauen in einer Umarmung. Links steht auf der Steintreppe seines Hauses Zacharias, rechts der hl. Joseph.
+
+Sehr hibsches Bildchen in weichem angenehmen Colorit.
+
+Kupfer.Hohe 34,Breite 24 Cent.
+
+## RUBENS,PETER PAUL,
+
+geb.zu Siegen 1577:zu Antwerpen 1640.
+
+## 157.Achillesentdeckt uter denTochter desLycoedes.
+
+Bei reich sculptirten Saulenbauten die aus sechs Frauen bestehende Gruppe der Tochter des Lycomedes,die das Geschmeide bewundern,wahrend der in Frauenkleidern steckende Achilles in Hast nur nach dem Helme greift, den er auf sein Haupt zu setzen im Begriffe ist. Rechts,in Begleitung eines Mannes, Odysseus,vergnigt lachelnd iber den Erfolg seiner List. Oben in der Hohe schwebende Amoretten mit Blumen.
+
+In glihender Farbenpracht ausgefihrte Farbenstudie des grossen Meisters.Das herrlichegeistvoll componirte Bild ist eingehend beschrieben in Smith's Catalogue I, Seite 251 No.851.
+
+Leinwand. Hohe 112,Breite 143 Cent.
+## 158.Reiterkampf auf einer Bogenbricke.
+
+Eine breite Steinbriicke, die uiber einen die ganze Breite des Bildes einnehmenden Fluss fihrt, stirzt in ihrer rechten Halfte soeben zusammen und begrabt unter ihren Trimmern, die mit den im heftigen Kampfe begriffenen Reitern ein wildes Gewirre bilden,in den Fluthen. Mehrere Gefallene suchen sich auf den linken Theil der Bricke zu retten,auf dem, ungeachtet des geschehenen Unglickes, der Kampf noch hetig fortwithet, wahrend noch ein Theil gerade einbricht und zwei Reiter dem Verderben iberliefert.
+
+Ausgefuhrte Farbenskizze,welche in ihrer Composition,in ihrer Zeichnung,
+
+Farbe und in ihrem gewaltigen Vorwurf den grossen Meister unverkennbar und unbestritten in seiner vollen Genialitat zeigt.
+
+Leinwand.Hohe 421e,Breite 6S Cent.
+
+## RUISDAEL,JACOB,
+
+geb.zu Haarlem um 1628 oder 1629;zu Haarlem 1682.
+
+## 159. Landscbaft mit breiter Allee.
+
+Rechts liegt hinter hohen Tannen ein Gehoft mit umgebendem Plankenzaun. An demselben vorbei zieht sich nach dem Vorgrunde rechts zu ein Bach,mehrere Wasserfille bildend. Links fuhrt eine breite,von mehreren Figuren belebte Allee, deren Weg von den letzten Strahlen der untergehenden Sonne wirksam beleuchtet wird. Die Stamme und das Laub der Baume, welche sich rechts zu einem Bogen zusammen gefigt, gewahren einen reizvollen Durchblick in die helle Hinterlandschaft mit Gebusch und Higelkette.
+
+Hochpoetisches, stimmungsvolles Werk des Meisters, ungemein duftig und wirkungsvoll in der Beleuchtung.
+
+<!-- image -->
+geboren wahrscheinlich zwischen 163o und 1640;wahrscheinlich 1681.
+
+## 160. Die Heerde am Waldeingange.
+
+In der Lichtung eines dichten Waldes, an dessen Eingang werk hinzieht,lagert auf sanft ansteigendem Weideplan eine knorrige Eichen und Weiden,und der sich nach rechts zu einem,den ganzen Mittelgrund einnehmenden dichten BuschHeerde von Kuhen und Schafen. Der Hirt sitzt,vom Ricken gesehen, auf der Hohe. Ein Theil der Kuhe ist herabgestiegen und watet, theils tief,in dem den ganzen Vorgrund des Bildes einnehmenden und nach rechts sich hinziehenden Flusse.
+
+Capitalbildvon grossartiger Composition und superberBehandlung der Baumpartien und der Thiere.Dies kostbare Meisterwerk in herrlicher Lichtwirkung,welches bisher dem Jacob Ruisdael zugeschrieben wurde,gehort in seiner Uebereinstimmung mit den bekannten bezeichneten Bildern des Jacob Salomonsz.Ruisdael diesem an, dem es auch von allen Kunstautoritaten ibereinstimmend zugeschrieben wurde. Das Prachtgemalde zahlt entschieden zu den bedeutendsten Schopfungen dieses vorziglichen Meisters.
+
+Leinwand. Hohe 112,Breite 155 Cent.
+
+## RUISDAEL,SALOMON VAN,
+
+geb. zu Haarlem um 16oo; daselbst 1670.
+
+## 161.Grosse Canallandschaft.
+
+Vom linken Vorgrunde her zieht sich in grossem Bogen der Canal, auf dem ein besetzter Kahn. Auf dem Ufer rechts bei einem Waldeingange eine grosse Schenke,vor der ein Wagen halt und sich zahlreiche Figuren bewegen. Auf dem Hugelwege,lings des Wassers, Reiter und eine Gruppe dreier Bauern. Auf dem linken Ufer zwischen dichten Baumen und Gebisch ein schlossartiges Gebaude; im Vorgrunde auf einer Landzunge mehrere Kuhe. Abendliche
+
+Stimmung bei bewolktem Himmel.
+
+Reich componirtes in briunlich-gelbem Tone superb ausgefuihrtes Bild,welches
+
+den grossen Haarlemer Meister vortrefflich vertritt.
+
+Unten rechts mit dem vollen Namen bezeichnet.
+
+Leinwand. Hohe 73,Breite 98 Cent.
+## 162. Canallandschaft.
+
+Den ganzen Vorgrund nimmt das Wasser ein, in welches links eine Landzunge einschneidet,auf der eine Heerde von Kuhen. Das jenseitige Ufer ist reich bewachsen mit hohen Baumen und Buschwerk, zwischen denen vorne die ausgedehnten Gebiulichkeiten eines Gehoftes mit Scheunen etc. Unter hohem Baume,auf dem ein Taubenhaus,rasten drei
+
+Figuren,waihrend eine vierte einen Korb aus einem Kahne holt.
+
+Schones klares Bild in grau-grinlichem Tone.
+
+Holz.Hohe 42,Breite 6s Cent.
+
+## RYCK,CORNELIA DE,
+
+Gattin des Malers van Goor;blihte um 1710 zu Amsterdam.
+
+## 163.Landscbaft mit Gefligel.
+
+Vor hoher Gartenmauer sind bei Erdhuigel und knorrigem
+
+Baume rechts ein Truthahn und eine Huhnerfamilie gruppirt. Links fihrt eine breite Steintreppe zu dem Gartenhause eines den ganzen Hintergrund einnehmenden Parkes, der zu einem Schlosse gehort, welches links zwischen hohen Baumen sichtbar wird.
+
+In abendlicher Stimnung poetisch aufgefasstes vortrefliches Werk der sehr selten vorkommenden Kinstlerin von grossem kunsthistorischem Interesse.
+
+<!-- image -->
+
+Leinwand. Hohe 78,Breite 67 Cent.
+
+## SACHTLEVEN, CORNELIS,
+
+geb.zu Rotterdam 16o6;daselbst 1681.
+
+164. Kicbenstick.
+
+In einem scheunenartigen Raumestehen,theils dicht gedrangt, auf und um einen Tisch Gerathe und Gefisse der verschie-
+densten Art als: Bottiche,Eimer, Metallkannen,Topfe,Tragbrett etc.etc. An der Kante links auf weissem Tuche eine Schale mit Eiern.Links sitzt als Wache der Kichenkater.
+
+Feintoniges Werk des Meisters,fein in der Zeichnung und delicat in der Ausfuhrung und Lichtwirkung. Sicher eines seiner besten Bilder.Auf der Tischkante die Signatur.
+
+Holz.Hohe 29,Breite 36 Cent.
+
+## SALVI, GIOVANNI BATTISTA,gen. Sassoferrato,
+
+geb.zu Sassoferrato 16o5;zu Rom 1685.
+
+## 165. Die hl. Maria Magdalena.
+
+Halbfigur der hl. Buisserin mit ibergeworfenem rothen Mantel, der die Brust halb entblosst lisst. Das goldblonde Haar faillt in losen Locken iber die entblossten Schultern herab.Den Blick nach oben richtend,betet sie mit gefalteten Handen vor einem Buche, das neben Todtenkopf und Salbbiichse vor ihr auf einem Tische liegt.
+
+Das Bild zeichnet sich durch treffliche Modellirung und leuchtende Farbung aus.
+
+Leinwand. Hohe 75,Breite 59 Cent.
+
+## SCHAUFELEIN,HANS LEONHARD,
+
+geb.zu Nirnberg vor 149o;zu Nordlingen 1539 oder 1540.
+
+## 166. Maria mit dem Kinde und dem bl. Jobannes.
+
+Im Vorgrunde einer reizvollen,sich nach links weit aus- dehnenden Gebirgslandschaft,sitzt bei maichtiger Siule mit sculptirtem Renaissance-Fries Madonna,dargestelt bis zum Knie, fast ganz en face, in blauem Gewande und rothem
+Mantel, das goldblonde Haar in langen Locken herabwallend. In der Rechten halt sie ein Buch,wahrend sie mit der Linken das auf Leinentuch auf ihrem Schoosse sitzende Jesuskind umfasst,welches dem rechts stehenden Johannisknaben einen Apfel reicht.
+
+Vortreffliches Bild,innig und seelenvoll in der Empfindung und Auffassung und sehr schon in Zeichnung und Colorit.
+
+<!-- image -->
+
+Holz.Hohe 87,Breite 61 Cent.
+
+## SCHEYTS,MATHIAS,
+
+geb.um 1640 in Hamburg;daselbst 1700.
+
+167.Lagerscene.
+
+Links ein Zeltlager, vor dessen vorderstem Zelte eine Gruppe von Officieren und Soldaten im Gesprich. Ein Karren mit der Fahne,Trommel und Waffen fahrt nach links. Die Landschaft dehnt sich nach rechts zu einem weiten coupirten Terrain aus,von dessen fernstem Hintergrunde her mehrere Reiter auf das Lager zureiten.
+
+Prachtiges Bild, des seltenen Meisters in 'schoner breiter Behandlung und glinzendem Silberton.Die Autorschaft desselben rihrt von Geheimrath Bode her, nachdem das Bild bisher als Jan le Ducq gegolten hatte.
+
+Holz. Hohe 31,Breite 41 Cent.
+## SNYDERS,FRANS,
+
+geboren zu Antwerpen 1579; daselbst 1657
+
+und
+
+## VOS, CORNELIS DE,
+
+geb.zu Hulst um 1585;zu Antwerpen 1651.
+
+## 168. Heimkebr aus Wald und Feld.
+
+Im Vorgrunde einer weit ausgedehnten gebirgigen Landschaft geht in einem Zuge nach rechts, das goldne Zeitalter andeutend,eine Familie von vier Figuren,schwer beladen mit Feld-und Gartenfrichten,Wild und Gefligel,gefolgt von ihren Jagdhunden.Die vorangehende Mutter tragt auf ihrem Kopfe einen hoch gefuillten Korb mit dem prachtigsten Obst, ein zweiter reich beladenerKorb hangt an ihrem rechten Arme. Ihr folgt frohlich,nach dem ein ausgeweidetes Reh auf den Schultern tragenden Vater blickend,eine jugendliche Knabenfigur. Derselbe tragt in beiden Handen einen Reiher,welcher auf dem am rechten Arme haingenden hochgefillten Korbe ruht. Den Zug schliesst eine schone jugendliche Frauengestalt, unter dem rechten Arme einen Schwan tragend, der sich gegen die Angriffe eines Hundes wehrt.
+
+Capitalbild,grossartig n seinerAuffassung,hoch durchgeistigt in derCharakteristik der einzelnen Figuren,in seiner schwungvollen Zeichnung und seiner herrlichen
+
+Farbengebung sich zu einem grossartigen Gesammteindruck vereinigend.
+
+Leinwand.Hohe 152,Breite 236 Cent.
+
+## SPANISCHER MEISTER.
+
+169. Ueberfall eines Missionars.
+
+An der Kuste eines Meeres kniet,innig betend,ein Missionar vor einem Steinkreuze und wird von den Eingeborenen ver- hohnt, die in einem Schiffe landeten.
+
+In der Farbenstimmung hibsches,fein gezeichnetes Bild.
+
+Leinwand.Hohe 52,Breite 61 Cent.
+## SPREEM,JACOB VAN,
+
+Niederlandischer Meister XVIl. Jahrh.Lebensdaten unbekannt.
+
+## 170. Der Urinarzt.
+
+In seiner mit Geraithen aller Art,Buchern etc. dicht gefillten Stube sitzt in einem Sessel der Arzt an seinem,mit griner stick,Globus etc. liegen,aufmerksam den Inhalt der Flasche betrachtend, die er in das helle vom Fenster einstrahlende
+
+Decke belegten Tische,auf dem Bucher,Todtenkopf, SchriftLicht halt. Neben ihm steht eine Frau.
+
+Gutes,breit behandeltes Bild des seltenen Meisters,als dessen Arbeit es von mehreren Autoritaten bestimmt wurde,wahrend es bisher als Brekelencam galt, dessen Namensbezeichnung es auch tragt.
+
+Holz.Hohe 41,Breite 36 Cent.
+
+## STEENWYCK,HENDRIK VAN,d.A.,
+
+geb.um 155o zu Steenwyck;zu Frankfurt a.M.1604.
+
+## 171. Arcbitekturstick.
+
+Inneres einer mehrschiffigen gothischen Kirche mit eleganten
+
+Gewolben und zahlreichen Altaren.An einem Seitenaltare rechts wird das hl. Messopfer gehalten, dem viele Andachtige beiwohnen. Im Vorgrunde links vornehmes Paar in Unterredung mit einem Monch.
+
+In vollem Tageslicht ungemein klar und transparent gehaltenes Bild.
+
+<!-- image -->
+
+1573 Bezeichnet: H
+
+Leinwand. Hohe 58,Breite 5o Cent.
+
+## STEEN, JAN,
+
+geb. zu Leiden um 1626; daselbst 1679.
+
+172. Die Benjaminiter rauben die Tocbter Silo's.
+
+In einer baumreichen waldigen Landschaft spielen sich in einzelnen,theils freien Gruppen, die Scenen der Entfuihrung ab,
+in denen sich das Widerstreben der hubschen Frauengestalten gegenuber der mainnlichen Gewalt,in hochst dramatischer Weise kundgiebt.
+
+Vortreffliches Werk des Meisters,flott in der Zeichnung und vollendet in der Ausfihrung in derbem Humor.Das bedeutende Kunstwerk ist in verschiedenen Kunstschriftenerwahnt und beschrieben in Smith's Catalogue IV. S. 66 No.197 unter dem unrichtigen Titel:Raub der Sabinerinnen.
+
+Bezeichnet
+
+<!-- image -->
+
+Leinwand. Hohe 69,Breite 91 Cent.
+
+STEEN,JAN (Richtung).
+
+173.Fischerfrauen am Strande.
+
+Auf einem Duinenhigel sitzen drei Frauen verschiedenen Alters, die eine einen Korb im Arme haltend;an eine andere schmiegt sich ein Kind an. Im Vorgrunde liegen zu beiden Seiten todte Fische;im HintergrundeBlickauf dieruhige See mit mehreren Fischerbooten.
+
+Interessantes,breit behandeltes Bild in schoner Farbenstimmung.Anscheinend ein Ausschnitt aus einem grosseren Bilde.Dem Jan Steen zugeschrieben, dirfte es jedoch von der Hand eines bis jetzt nicht mit Sicherheit zu bestimmenden Meisters aus der Richtung des Jan Steen sein.
+
+Holz. Hohe 74,Breite 61 Cent.
+
+STOOP, M.,
+
+Lebensdaten unbekannt.（Bode holl.Malerei S.162.)
+
+174. Die Wacbtstube.
+
+In weitem Raume mit hohem Thorbogen und hoher zum Ausgange fihrender Steintreppe sitzen Soldaten mit ihren Weibern in dichten Gruppen beim Kartenspiel. Als Hauptfigur links eine jugendliche Frauengestalt in weissem Kleide und rother mit weissem Pelze besetzter Jacke, Goldgeschmeide
+im Schoosse haltend. Im Vorgrunde rechts die Fahnen bei Trommel, Trompete und Armaturstiicken neben geoffnetem grossen Koffer.
+
+Abgerundete schone Composition in klarer leuchtenderFarbentonung mit hibschen Lichteffekten.Treffliches Werk,welches in der Esterhazy-Galerie,aus der es stammt position befindet sich im Vorrath des Berliner Museums. Die Bestimmung der dem Verkolje beigelegt war. Ein Bild von ahnlicher, etwas abweichender ComAutorschaft rihrt von Geheimrath Bode her.
+
+Leinwand. Hohe 7o,Breite 86 Cent.
+
+## STORCK,ABRAHAM,
+
+geb.zu Amsterdam um 165o; daselbst angeblich 1710.
+
+## 175.Walfiscbfang.
+
+Ruhige See mit mehreren Dreimastern,von welchen dicht bemannte Boote ausgesetzt sind, deren Mannschaft auf den Walfischfang geht. Seitlich im Hintergrunde felsige Gestade.
+
+Gutes Bild in heller Farbung.
+
+Unten links bezeichnet:Storck.
+
+Holz.Hohe 42,Breite 58 Cent.
+
+## STRAUCH,LORENZ,
+
+geb.zu Nirnberg 1554; daselbst 1630.
+
+## 176.Weibliches Bildniss.
+
+Kniefigur einer jungeren Dame, leicht nach rechts gewandt, geradeaus blickend. Sie tragt ein olivfarbiges Atlasgewand mit langer spitzenbesetzer schwarzer Jacke, mit Goldverschnirungen und breitem Spitzenkragen; Hals und Arme schmicken Goldketten.
+
+Interessantes Costimbild von freundlichem Ausdruck und hibscher Modellirung.
+## TENIERS,DAVID,d.J.,
+
+geb.zu Antwerpen 161o;zu Brissel 1690.
+
+## 178.Landscbaft mit Schafbeerde.
+
+Dorfstrasse,beiderseits mit Haiusern.Im Vorgrunde lagert eine grosse Schafheerde;rechts sitzt sie beobachtend auf einer kleinen Anhohe der Schafer,im Begriffe die Flote zu blasen. Etwas weiter zurick eine Gruppe von vier Bauern vor der
+
+Schenke,in deren Thire die Wirthin erscheint.
+
+Bedeutendes Bild des Meisters,hoch stimmungsvoll in goldig-braunem Tone. Dasselbe wurde auch friher fir ein Werk des alteren Teniers angesehen, ist aber von Geheimrath Bode als ein Bild Teniers des Jingern recognoscirt worden.
+
+Bezeichnet: D.T#ER S
+
+## 179. Bauernpaar.
+
+Halbfigur eines Bauern in schwarzer Gewandung mit hohem Schlapphut, en face,mit schmerzverzerrtem Gesicht sich ein Pflaster von der Wunde an der rechten Hand abhebend. Rechts hinter ihm erscheint sein Weib in hellrother Jacke und weissem Kopftuch,eine Salbflasche in der Linken haltend.
+
+Feines silbertoniges Bild des Meisters, welches die seelische Stimmung der beiden Figuren zu sprechendem Ausdruck bringt.
+
+Prov.:Sammlung Burger,Paris.
+
+## 180.Landscbaft.
+
+Vor einer Gruppe hoher Biume ein Bauernhaus,in dessen Thiiroffnung eine Frau erscheint, die nach einer im Mittel grunde stehenden Gruppe von drei Bauern schaut. Rechts 10 F86
+
+Leinwand. Hohe 42,Breite 31 Cent.
+
+Holz.Hohe 17/e,Breite 121e Cent.
+an der Mauer ein vierter Bauer bei einem sich neigenden breiten Wege,der zu einer Ortschaft im Hintergrunde fihrt.
+
+Treffliches Werk des Meisters,fein in der Zeichnung,von subtilster Ausfuihrung bis in die kleinsten Details und von ungemein klarer Farbengebung in goldigem
+
+Tone.
+
+Bezeichnet:
+
+<!-- image -->
+
+## 181.Der Tanz vor der Schenke.
+
+Links sitzen an besetztem Tische mehrere Paare; sie schauen,ebenso wie die rechts sitzenden Gruppen und die in der Thire stehende Wirthin,dem flotten Tanze eines jugendlichen Paares zu,dem bellend ein Hund voran laiuft. Rechts Fernsicht mit Blick auf die das umgebende Gebiisch tiberragende Kirche.
+
+Ganz superbes Bild;in seiner reichen Composition von 26 Figuren voll Leben und Bewegung; in seinem treflichen Farbenspiel ungemein wirkungsvoll.
+
+Bezeichnet:
+
+## D TENIERS FEC 1650
+
+Holz.Hohe 54,Breite 74 Cent.
+
+## TERWESTEN,AUGUSTIN,
+
+geb. im Haag 1649;zu Berlin 1711, und
+
+## VERBRUGGHEN,KASPER PETER,
+
+1635-1681.
+
+182. Flora mit Amoretten zwischen Blumen und Frichten.
+
+Portraitfigur einer jungen hubschen Dame in leichter Gewandung mit halb entblosstem Busen,in beiden Handen ippige Blumengewinde haltend,welche von zwei reizenden Knaben
+
+Holz.Hohe 25,Breite 35 Cent.
+als Amoretten herbeigeschleppt werden. Rechts im Vorgrunde liegen prichtige Trauben und Pfaumen. Landschaft- licher Hintergrund mit Parkansicht.
+
+Prachtvolles Decorationsbild.Die Figuren vortrefflich modellirt, das Beiwerk reich in der Anordnung und kraftvoll in der Farbe,breit behandelt. Das schone Bild galt bisher fir eine Arbeit von Mignard und Monnoyer; die jetzige Bestimmung der Autorschaft geschah durch Geheimrath Bode.
+
+Leinwand,Hohe 132,Breite 152 Cent.
+
+## THIELEN, JAN PHILIPS VAN,
+
+Schiler des D. Seghers;1618-1667, und
+
+## QUELLINUS,ERASMUS,
+
+geb.zu Antwerpen 16o7; daselbst 1678.
+
+## 183. Blumenkranz um ein Bildniss.
+
+Eine reich sculptirte Kartusche umzieht ein Kranz farbenprachtigster,geschmackvoll gewundener Garten- und Feldblumen, als Umrahmung eines mannlichen Bildnisses in Dreiviertel-Wendung nach rechts,geradeaus blickend,in rothem schwarz besetzten Gewande,mit nach vorne weit herabfallendem Kragen.
+
+Farbenprichtiges, schones Bild, das Portrait von hoher Vollendung.
+
+Leinwand. Hohe 98,Breite 78 Cent.
+
+## THIELEN, JAN PHILIPS VAN,
+
+Schiler des D.Seghers;1618-1667.
+
+184.Blumenstick.
+
+Auf dunklem Grunde hingt,von Atlasschleife gehalten,ein dichter Strauss von Gartenblumen der verschiedensten Art, belebt von einem Admiral und kleineren Insecten.
+
+Gutes Bild in hibschem Farbenspiel.
+
+Leinwand.Hohe 42,Breite 33 Cent.
+geb.zu Venedig 1692 oder 1693:zu Madrid 1769 oder 1770.
+
+## 185. Madonna von Heiligen verebrt.
+
+Zwischen dem hl. Joseph und dem kleinen Johannes mit Lamm sitzt Maria, den Jesusknaben auf dem Schoosse haltend, auf einem hohen Steinthrone mit reich gemustertem Baldachin. Vor ihnen an der Erde knieend der hl. Bernardinus und ein anderer Ordensbruder.
+
+Geistreiche Skizze zu einem grossen Altarbilde, breit und flott in der Behandlung und von vortrefflichem Farbenaccord.
+
+Leinwand. Hohe 7o,Breite 54 Cent.
+
+## TILBORCH,GILLIS VAN,
+
+Lebenszeit zwischen 1625-1678angenommen.
+
+## 186.Familienbild in Landschaft.
+
+Hugelige baumreiche Landschaft,in der hinter einem Flusse auf einer Anhohe die Gebaulichkeiten eines Schlosses. Im Vorgrunde gruppirt sich vor einem Waldeingange eine Familie. Rechts steht neben braun-weiss gefecktem Hunde der Mann in schwarzem Gewande mit Spitzenkragen und schwarzem Mantel. Neben ihm sitzt seine Frau,an die sich ein kleines Madchen schmiegt. Nach links gruppiren sich Knabe als Jiger und Madchen als Schaferin neben mehreren Schafen zu den Seiten der auf dem Boden sitzenden Amme, welche den jungsten Sprossling auf dem Schoosse hailt.
+
+Hochinteressantes Bild,die Figuren sowie auch die Thiere vortreflich und charakteristisch in Zeichnung und Colorit, den Arbeiten des Cuyp sehr nahekommend, fir dessen Schopfung das Bild auch fruher galt,wahrend die Bestimmung seiner jetzigen Autorschaft von Geheimrath Bode herrihrt.
+## TISCHBEIN,JOHANN HEINRICH,
+
+geb. zu Hayna 1722;zu Cassel 1789.
+
+## 187. Markgraf Friedrich von Bayreuth und seine Gemablin Friederike Wilbelmine Sopbie.
+
+Der Markgraf in Dreiviertel-Wendung nach rechts in gepuderter Allonge-Perricke,reicher goldgestickter Weste,mit Chapeau,olivefarbigem Gewande und rothem Mantel. Die Markgrifin leicht nach links gewandt mit tiefausgeschnittenem, goldgestickten, spitzenbesetztem, weissen Atlaskleide und blauem rosa gefuitterten Sammetmantel.
+
+Feine Ausfihrung auf graulichem Grunde.
+
+Kupfer.Hohe 25,Breite 21 Cent.2 Stick.
+
+## TIZIAN,(TIZIANO VECELLIO),
+
+geb,zu Pieve di Cadore 1477; zu Venedig 1576.
+
+188. Die bl. Agnes.
+
+Jugendliche Frauengestalt in Halbfigur im Profil nach rechts, das rothe Haar mit Perlenschniiren durchflochten und den Kopf mit lieblichem Gesichtsausdruck leicht nach dem Beschauer gewandt. Sie legt die Rechte auf den Kopf eines Lammes, wahrend sie in der Linken die auf der Schulter ruhende Siegespalme trigt.Landschaftlicher Hintergrund mit Gebirgspartie.
+
+Hervorragendes Bild, ganz in des Meisters Malweise,in seinem herrlichen,warm durchleuchteten Colorit und in seiner Pinselfuihrung.
+
+Leinwand,Hohe 71,Breite 57 Cent.
+
+## TOORENVLIET,JACOB,
+
+geb.zu Leiden um 1635 oder 1636; daselbst 1719.
+
+189. Spiel ud Musik.
+
+An einem Tische sitzen zwei Krieger, der vordere mit vergnigtem Gesichtsausdruck nach rickwarts blickend. Sie
+haben eben ihr Spiel mit Karten und Wurfeln beendet und blist der hinter dem Tische sitzende die Querpfeife.
+
+Hibsches Bildchen, fein in der Firbung und Beleuchtung.
+
+Holz. Hohe 28,Breite 26 Cent
+
+## VADDER,LOUIS(LODEWYK)DE,
+
+geb. zu Brissel 1605; . daselbst 1655
+
+## 190. Waldlandscbaft mit Diana und Action.
+
+Das Gelande steigt nach rechts und links hoch an zu Waldpartien mit dichtbelaubten Biumen.Durch die sich ergebende Schlucht blickt man weit in eine von Gebirgskette abgeschlossene Fernsicht. Im Vorgrunde ein Wasser,in dem Diana mit ihren Nymphen badet,von dem auf der Hohe erscheinenden,von drei Hunden begleiteten Action iberrascht. Rechts liegen bei knorrigem Stamme die Jagdgerathschaften und die Jagdbeute.
+
+Sonnig gestimmtes, schones Bild; die Staffage von Pieter van Avont. Leinwand. Hohe 67,Breite 84 Cent.
+
+## VALCKENBORCH,LUCAS VON,
+
+Maler von Mecheln.Geburtsjahr unbestimmt;↑ nach 1622.
+
+## 191. Vornebme Gesellschaft im Freien.
+
+Eine weite grasbedeckte Niederung,in der zerstreut liegende lindliche Gebaulichkeiten,die theilweise von hohen Baiumen beschattet sind. Rechtsseitig der Saum eines dichtbelaubten sagt,und abseits davon andere Paare und Einzelfiguren lust-
+
+Waldes,bei dem ein vornehmes Paar,dem eine Alte wahrwandelnd.Links Reiter,Bettler und andere Staffage.
+
+Vortrefflich aufgefasstes Bild,freundlich in der Farbengebung und von reicher ansprechender Staffage.
+
+Leinwand.Hohe 921/2,Breite 115 Cent,
+## VALCKERT,WERNER VAN,
+
+geb.zu Amsterdam 158o.
+
+## 192. Bildniss eines Rathsmitgliedes.
+
+Lebensgrosses Kniebild in Dreiviertel-Wendung nach rechts, geradeaus blickend,in reichem rothen Sessel,vor einem mit buntgemusterter Decke belegten Tische sitzend,auf dem Bicher, Urkunden,Schreibzeug und Petschaft liegen. Er trigt ein schwarzes Gewand mit breitem Steinkragen und hohen breitkrampigen Hut. In der auf der Sessellehne ruhenden Rechten hailt er die Feder,wahrend er mit der Linken eines der auf dem Tische liegenden Schriftsticke fasst. Graulicher Grund.
+
+Die lebenswahre charakteristische Auffassung des Dargestelten,Haltung und Darstellung des Ganzen,sowie die bis in die kleinsten Details vorzigliche Ausfihrung,machen das Bild zu einem hervorragenden Meisterwerk. Oben rechts das Wappen und die Aufschrift:Aetat.58 ANNO MDCLI.Das bedeutende Bild galt friher als eine Arbeit Rembrandts. Die jetzige Bestimmung seiner Autorschaft rihrt von Geheinrath Bode her.
+
+Leinwand.Hohe 122,Breite97 Cent.
+
+VAROTARI,ALLESANDRO,gen.II Padovanino, geb.zu Padua 159o; daselbst 1650.
+
+## 193. Weibliches Bildniss.
+
+Halbfigur einer hibschen jungen Dame im Profil nach rechts, den Kopf leicht nach dem Beschauer gewandt. Sie tragt ein goldgesticktes Gewand mit weissgesticktem Einsatz. Das goldblonde Haar liegt in einer dicken Flechte;in beiden Handen halt sie die Handschuhe. Graulicher Grund.
+
+Angenehmes feines Portrait,hibsch in der Zeichnung und in seiner Malweise an die Werke des Tizian sich anlehnend.
+
+Leinwand.Hohe 73,Breite 58 Cent. Geschnitzter Rahmen.
+## VELDE,ADRIAEN VAN DE,
+
+geb.zu Amsterdam 1635 oder 1636;daselbst 1672.
+
+## 194. Der Halt vor der Osteria.
+
+Vor einer Schenke rechts,an die sich eine Gartenmauer anschliesst,hinter der eine Baumgruppe erscheint, hat ein Hirt mit seiner Heerde von Kuhen, Schafen und Ziegen Halt gemacht. Neben seinem reich geziumten, stallenden Maul thiere stehend,trinkt er in langem Zuge aus einem Becher, den ihm ein vor ihm stehender Knabe gefillt. In der offenen Thure steht die Hirtin in Unterhaltung mit einigen Figuren. Rechts ein kleines Madchen,eine Katze auf dem Arm haltend, welche ein Hund anbelt. Durch und unter einem Thorbogen her links kommt ein zweiter Hirt mit einer Heerde von Ziegen und Schafen, gefolgt von einem Paare. Der Weg fihrt an einer Anhohe vorbei, auf dem eine grosse antike Ruine.
+
+Fein und ausserst geistvoll komponirtes Bild, das die glanzenden Qualitaten dieses feinen Meisters zeigt,ebensowohl in der genialen und graziosen Anordnung des Ganzen als auch in der trefflichen Einzelausfihrung von Thieren, Menschen, den landschaftlichen und anderen Details und in der herrlichen ihm eigenen,ausserst reizvollen Farbengebung.
+
+Rechts unten neben dem Weg bezeichnet:
+
+<!-- image -->
+
+Leinwand. Hohe 55,Breite 68 Cent.
+
+## VERBOOM,ADRIAEN HENDRIK,
+
+geb.zu Amsterdam 1628, lebte noch 1670.
+
+## 195. Waldlandschaft.
+
+Ein breiter Weg,auf dem zwei Reiter,von beiden Seiten mit hohen Baumen begrenzt,die von den letzten Strahlen der Sonne beleuchtet werden,fihrt zu dem dichten Buschwerk des Hintergrundes.
+
+Schones, in warmem Goldtone vortrefflich ausgefihrtes Bild. Unten rechts das Monogramm:D.V.B.
+## VERELST,PIETER,
+
+nachweisbar zwischen 1643（1648)und 1668.
+
+## 196. Der Tanz in der Schenke.
+
+In einer Dorfschenke tanzt cin jugendliches Paar zu dem Spiele einer Bassgeige und eines Dudelsacks;einzelne Figuren schauen ihnen zu;im Hintergrunde sitzt eine Gruppe um einen Tisch.
+
+Vortreffliches Bild, sehr gut im Tone und weich in der Pinselfihrung. Holz. Hohe 44,Breite 57 Cent.
+
+VERKOLJE,JOHANNES, geb.zu Amsterdam 165o;zu Delft 1693
+
+## 197.Portraitgruppe.
+
+In einer Saulenhalle sitzt vor reich drapirtem, theils zurickgezogenem rothen Vorhange eine junge Dame in weissem Atlasgewande,mit schwarzem Schultertuch und lichtem Kopfschleier. Sie greift mit der Linken nach den prachtigen Fruichten, die auf einer silbergetriebenen Schussel liegen,die der neben ihr im Hausgewande stehende Gemahl und ein als Page gekleideter Mohrenknabe halten. Rechts neben der Gruppe ein braun-weiss gefleckter Wachtelhund. Durch die Saulenoffnungen und uiber eine Balustrade hinweg,hat man einen Blick auf das Schloss und seinen Park.
+
+Ganz hervorragende Qualitat des Meisters in seltener Schonheit und Vollendung bis in die kleinsten Details;unbestritten zu seinen allerbesten Werken zahlend. Prov. Sammlung Burger,Paris.
+
+<!-- image -->
+
+JU
+
+Bezeichnet:
+
+Leinwand.Hohe 88,Breite 79 Cent.
+## VERTANGHEN,(VERTANGEN)DANIEL,
+
+geb.im Haag 1598;zu Amsterdam angeblich 1657.
+
+## 198.Diana und ibre Nymphen im Bade.
+
+Bei einer weiten Felsgrotte rechts zieht sich vor einer reich sculptirten Fontaine ein Wasser,an dessen Ufer links Diana mit ihren Nymphen lagert,wahrend andere im Bade begriffen; rechts Action enteilend. Die Landschaft dehnt sich nach links zu einem ungemein weiten,hugeligen Gelinde aus,welches sich im fernsten Hintergrunde zu einem Hohen- zuge ausbildet.
+
+Vortreffliches Werk des Meisters in der ihm eigenen feinen emailartigen Malerei.
+
+Unten rechts die Bezeichnung:
+
+<!-- image -->
+
+Leinwand.Hohe 73,Breite 95 Cent.
+
+## 199. Mytbologische Landschaft.
+
+Bei einem Waldeingange rechts ruht vor einer reich sculpLinks im Vorgrunde Gruppe dreier Amoretten,mit Ziege spielend; hinter dem Laufbrunnen erscheint ein Bacchuszug. Die Landschaft breitet sich nach links weit aus und ist tirten Fontaine Venus mit Amor, von zwei Satyren belauscht. im fernen Hintergrunde von einem Gebirgszug abgeschlossen.
+
+Fein durchgefuihrtes,vortreffliches Werk des Meisters in reizvoller Farbengebung. Leinwand.Hohe 28,Breite 36 Cent.
+
+VLIEGER, SIMON DE, geb.zu Rotterdam um 16oo;zu Amsterdam um 1660.
+
+200. Marine.
+
+Leicht bewegte See mit mehreren Dreimastern, theils mit vollgehissten Segeln,kleineren Booten etc. Auf einem Duinen higel,links,ausschauend, eine Figurengruppe.
+
+Holz.Hohe 82,Breite 123 Cent.
+
+Gutes Bild in hubschem Silbertone.
+201. Saubalz.
+
+Im Vorgrunde einer reichen gebirgigen Landschaft wird ein Eber von grossen Hunden gestellt. Zwei derselben liegen vor demVerfolgten,stark verwundet,auf der Erde,wihrend einer sich in den Rucken der Bestie festbeisst. Ein siebenter Hund stirzt in grimmiger Gebirde derVerfolgung eineHugel anhohe herab zu neuem Angriff,wahrend ein anderer mit gespannten Muskeln sich von vorne her zum Angriff bereit Stellt.
+
+Superbes,grosses Bild von hochdramatischer Composition und packender Wirkung
+
+Leinwand.Hohe 175,Breite 238 Cent.
+
+VRIENDT, FRANS DE, gen. Frans Floris, geb.zu Antwerpen 1517/18;daselbst 1570.
+
+## 202. Loth und seine Tocbter.
+
+In einer Felsgrotte sitzt der alte Loth,die eine seiner Tochter umarmend,die in der vorgestreckten Rechten eine Schale halt,welche die andere Tochter aus einem Kruge fillt. Im landschaftlichen Hintergrunde rechts das brennende
+
+Sodoma und Loth's Weib als Salzsaule.
+
+Interessantes Bild,welches friher dem Hendrik Goltzius zugeschrieben war. Die jetzige Bestimmung der Autorschaft rihrt von Geheimrath Bode her. Ein ihn- liches Bild des Meisters befindet sich im Vorrath des Berliner Museums.
+
+Holz.Hohe 79,Breite 107 Cent.
+
+in den einzelnen Thierfiguren.
+
+## VOS, PAUL DE,
+
+geb.zu Hulst um 159o;zu Antwerpen 1678.
+## 203. Maskengruppe.
+
+Im Vorgrunde eines Parks sitzt,die Guitarre spielend, eine junge Dame,umringt von Bajazzo, Pierrot und drei anderen
+
+Maskenfiguren.
+
+Hibsche Composition,ganz in der Art des Meisters vortrefflich ausgefihrt in Pastell-Malerei.
+
+Hohe 26,Breite 2o Cent.In Rahmen Louis' XVI.unter Glas
+
+## 204. Gesellscbaft im Freien.
+
+Gruppe von finf Figuren im Vorgrunde eines Parkes. Als Hauptfigur eine junge Dame in hellem Gewande und schwarzem Schleier. Links Cavalier,die Querpfeife spielend. Gegenstick zum Vorigen. Gleiche Ausfihrung.
+
+Gleiche Grosse.
+
+## WET, JAN DE,
+
+Schiler Rembrandts (vergl. Woltmann und Wormann III,714).
+
+## 205.Landscbaft mit Wassermible.
+
+Im Vorgrunde links steht die hohe Muhle,deren Rad von einem schmalen Bache getrieben wird; langs dieses fihrt vom mittleren Vorgrunde ein breiter Weg nach rechts zu, hugelig ansteigend und mit einzelnen grosseren und kleineren
+
+Gebaulichkeiten.
+
+Geistreiches,fott behandeltes Bild in rembrandtgoldigem Ton, der durch die Mitwirkung der braunlichen Farbung des Holzes,wie auch so oft bei Rembrandt, eine eigenartige Transparenz erhalt. Das aus der Sammlung Duc de Nemour stammende Bildchen galt dort als eine Rembrandtarbeit aus seiner Frihzeit. Die jetzige Bestimmung der Autorschaft rihrt von Geheimrath Bode her.
+
+Holz.Hhe 23,Breite 31 Cent.
+## 206. Der Brand von Troja.
+
+In hellen Flammen lodern die ausgedehnten Gebaude, wahrend im Vorgrunde eingestirzte grosse Palaste. Links, der seinen Vater Anchises rettende Aeneas und in der Mitte, nahe der Stadtmauer,das holzerne Pferd.
+
+Interessantes Bild in dunklem rembrandtesken Tone vortrefflich behandelt. Das Bild,wurde von Dr. Bredius als ein Werk des J. de Wet erklart.
+
+Holz.Hohe 53,Breite 74 Cent.
+
+## WILDENS, JAN,
+
+geb.zu Antwerpen 1586；daselbst 1653, und
+
+## BALEN,HENDRIK VAN,
+
+geb.zu Antwerpen 1575;daselbst 1632.
+
+## 207.. Das Urtheil des Paris.
+
+Waldlandschaft mit Gruppen hoher Biume auf welligem Terrain und breitem Hohlwege rechts,in dem eine Schaf heerde weidet. Im Vorgrunde sitzt am Fusse eines starken Baumes,neben seinem Hunde,Paris. Hinter dem Baume erscheint Mercur. Der jugendliche Hirt reicht der vor ihm stehenden,von Amor begleiteten Venus den Apfel,wahrend Minerva sich bereits entfernt und Junc der Scene noch zuschaut.
+
+Superbes Bild.Die Landschaft in grauem Tone fein ausgefihrt. Die Figuren von hibscher delicater Behandlung und freundlichem Colorit.
+
+Holz.Hohe 54,Breite 78 Cent.
+## WIT,JACOB DE,
+
+geb.zu Amsterdam 1695:daselbst 1754.
+
+## 208. Tritonen und Najaden.
+
+Dieselben fahren uber die Wogen,theils auf Delphinen.In der Hohe die Winde iber einer von Amoretten gehaltenen Guirlande.
+
+Flott gezeichneter antikisirender Fries,in Grisaille ganz vortreflich ausgefihrt. Leinwand auf Holz.Hohe 39,Breite 59 Cent.
+
+## WOUWERMAN,JAN,
+
+geb.zu Haarlem 1629;daselbst 1666.
+
+## 209.Dinenlandschaft.
+
+Links fuihrt zu einer Hugelhohe,an verfallenem Zaun und Leuchtstange vorbei, ein breiter Weg, auf dem ein mit Schimmel bespannter Karren und mehrere Figuren. Die nach rechts verlaufenden Dunen, auf deren Hohe viereckiger Thurm und mehrere Hauser liegen, zeigen eine zahlreiche, pikant gemalte Figurenstaffage,die sich meist nach dem im Hintergrunde erscheinenden,von zahlreichenBooten belebten
+
+Meere zu bewegt.
+
+Fein gezeichnetes, in seinen Lichteffecten reizvolles Bildchen in wunderschonem Silberton.
+
+Holz.Hohe 42,Breite 5o Cenf.
+
+## WOUWERMAN,PHILIPS,
+
+geb.zu Haarlem 1619; daselbst 1668.
+
+## 210.Aufbruch zur Falkenjagd.
+
+Auf leicht ansteigendem Hugel sind drei reich gekleidete Damen versammelt; eine sitzt bereits zu Pferde,wihrend ein roth gekleideter Page einer anderen einen Falken bringt. Ein
+
+Unten rechts eine restliche Signatur.
+Cavalier trankt seinen Schecken. Im Vorgrunde rechts ist der Hundejunge mit der Meute beschaftigt. Zwei Reiter sind bereits aufgebrochen und verschwindet einer auf dem Schimmel hinter dem Hugel. Ihnen schauen drei Figuren auf einer Altane nach,deren Siulen mit Schlinggewachsen umrankt sind. Die Landschaft bildet nach links ein tiefes Thal, das auf der entgegengesetzten Seite von einem hohen Gebirgs- zuge geschlossen ist.
+
+Vorzuigliches Werk des Meisters von schoner Composition, dessen ganze Eleganz in Zeichnung und Farbung in hervorragender Weise in unserm Bilde vertreten ist.
+
+Bezeichnet:
+
+W.
+
+Leinwand.Hohe 66,Breite 83 Cent.Geschnitzter Goldrahmen.
+
+## WUST,JOH.HEINRICH,
+
+geb.zu Zurich 1741;1821.
+
+## 211. Landschaft.
+
+Weites higeliges Gelinde mit hohen Baiumen und dichtem Buschwerk bestanden. Im Vorgrunde, bei einem Brunnen, cine heimziehende Heerde; eine zweite Heerde lagert im
+
+Mittelgrunde an einem Hugelabhange.
+
+Freundliches, in Silberton fleissig ausgefihrtes Bildchen. Unten rechts bezeichnet:Wiist pt.
+
+Holz.Hohe 23,Breite 33 Cent.
+
+## WYCK,THOMAS,
+
+geb. zu Beverwyck um 1616;  zu Haarlem 1677.
+
+## 212.Interieur.
+
+In weiter Bauernstube,auf deren Boden Kleidungssticke, Geraithe und Gefisse umherliegen,sitzt links an ihrem dicht besetzten Arbeitstische eine Mutter, dem vor ihr knieenden Madchen ein Hiubchen aufsetzend;ein zweites Kind schaut
+## 214.Kistenlandschaft.
+
+Im Vorgrunde einer von Schiffen belebten,rechts von steilem,mit Citadelle bestandenem Gebirge begrenzten Meeresbucht gruppirt sich bei einem Treppenaufgange vor sculptirtem Laufbrunnen eine Anzahl von Figuren,dabei ein Armenier mit am Boden sitzender Frau und zwei Mannern im Gesprache.
+
+Sehr gutes Bild von reicher Composition,in den Lichteffecten der abendlichen Stimmung superb ausgefihrt.
+
+Leinwand. Hohe 65,Breite 87 Cent.
+
+Unten in der Mitte bezeichnet.
+
+eue
+
+<!-- image -->
+
+zu. Die Gruppe ist von dem durch ein hochgelegenes Fenster einfallenden Lichte,in vollstem Gegensatze zu der dunklen Stube,malerisch beleuchtet.
+
+Hervorragende Schopfung des Meisters,zu seinen feinsten Arbeiten gehorend.
+
+<!-- image -->
+
+Holz. Hohe 46,Breite 40 Cent.
+
+## 213.Die Genisehandlerin bein Brunnen.
+
+Vor einem Ziehbrunnen,bei dem eine Magd beschaftigt ist, sitzt, umgeben von Gemisen und grosser Messingkanne, eine Landfrau im Gespraich mit einem vor ihr stehenden Manne,neben dem ein Hund liegt. Ueber einer hohen Garten mauer werden die ausgedehnten Gebiulichkeiten einesKlosters sichtbar; rechts fihrt iber hohe Steintreppe ein Thor ins Freie.
+
+In glihendem Farbentone vorziglich ausgefihrtes Bild. Unten links mit dem vollen Namen und der Jahreszahl 1645 bezeichnet.
+
+Holz. Hohe 42,Breite 36 Cent.

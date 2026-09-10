@@ -1,0 +1,1059 @@
+<!-- image -->
+
+## Tableaux Modernes
+
+## BERNE-BELLECOUR
+
+(ETIENNE-PROSPER)
+
+## Caoalier au bord d’un etang.
+
+Signe a gauche, en bas : Berne-Bellecour, et date : 1878.
+
+Panneau.Haut.,12 cent.;larg.,21 cent.
+
+## BERNE-BELLECOUR
+
+(ETIENNE-PROSPER)
+
+Soldats d’'infanterie pechant a la ligne.
+
+Signe a gauche, en bas : Berne-Bellecour, et date : 1877.
+
+Panneau.Haut.,12 cent.;larg.,21 cent.
+CABAT (LOUIS)
+
+3
+
+Le Lac.
+
+Dans l'etroite clairiere ombragee de grands arbres, qui masquent presque entierement le ciel, un petit lac bleuatre borde de grosses pierres. Sur la rive, au fond,une femme couchee.
+
+Signe a droite, en bas :L. Cabat.
+
+Toile. Haut.,34 cent.; larg.,5o cent.
+## CAZIN
+
+(JEAN-CHARLES)
+
+4
+
+## Fin de journee.
+
+Toute la poesie du crepuscule impregne ce paysage francais. C'est une riviere transparente ou se refletent les mauves eteints du ciel; une molle berge herbeuse et, sur la gauche,le chemin de halage cotoyant un mur bas par dessus lequel on apercoit, dans lenclos,un petit toit de tuiles et une meule de paille a demi dissimulee par des arbrisseaux. Un peuplier, dont le feuillage est deja presque dilue dans le gris nocturne, s'enleve tout droit sur un ciel nuageux a l'horizon et presque pur au zenith. Les fonds, maisons et rideaux d'arbres, s'embrument. A droite,une voiture est arretee sur la rive,non loin de deux maisonnettes roses que voile a peine le branchage d'un jeune saule.
+
+Signe a gauche, en bas : J.-C. Cazin.
+
+Toile. Haut., 65 cent.; larg., 81 cent.
+## COROT
+
+(JEAN-BAPTISTE-CAMILLE)
+
+## Le Pecheur sur l'etang.
+
+Le matin fait passer un souffle frais sur la riviere frissonnante et presque bleme. La pointe du jour rosit a peine l'horizon d'ou le soleil va se lever. Le ciel est encore voile par la brume legere qui annonce un beau jour.
+
+A droite,une berge terreuse trouble l'eau de son reflet brun. Un grand arbre, que la lumiere n'a pas encore touche, s'incline sur la gauche, etendant ses branchages dont s'accuse le profil nettement dessine.
+
+Entre les touffes d'herbes, qui croissent dans le courant peu profond,
+
+La coloration generale du paysage est d'un gris de perle tres fin.
+
+Toile.Haut.,3g cent.1/2;larg.6o cent.
+
+un pecheur en bonnet rouge guide son bateau plat vers la droite.
+
+Signe a droite, en bas : Corot.
+## DELPY (HIPPOLYTE-CAMILLE)
+
+## Vue de Mantes (le matin).
+
+A gauche, contre la rive plantee d'arbres, un chaland amarre. Au fond, un pont de trois arches enjambe le feuve aux eaux grises. Sur la droite,une berge verdoyante et quelques maisons.
+
+Signe a droite, en bas : H.-C. Delpy, et date : 88.
+
+Panneau. Haut.,2g cent ;larg.,53 cent.
+## DIAZ DE LA PENA
+
+(NARCISSE-VIRGILE)
+
+## Le Chasseur.
+
+A la fin de lapres-midi. L'orage menace pesamment. Le ciel est obscurci de nuages couleur d'encre, chauffes par un soleil de plomb dont lardeur transparait ca et la. Tandis qu'au lointain Iaverse, crevant la nue, commence de ruisseler sur un coin de paysage vivement éclaire, la penombre regne aux premiers plans, sur le terrain herbeux parseme de faques bleuatres, et sur le sentier que suit un chasseur avec ses deux chiens, a la lisiere d'une petite futaie. C'est linstant de silence et d'immobilite qui precede l'eclat de la foudre. Mais un soufle rapide et tiede emeut deja le feuillage des chenes qui sont groupes au nombre de quatre, vers la droite.
+
+Signe a gauche, en bas : N. Diaz, et date : 71.
+
+Panneau.Haut.,6o cent.；larg.,86 cent.
+## DIAZ DE LA PENA
+
+(NARCISSE-VIRGILE)
+
+8
+
+## Venus desarmant l'Amour.
+
+Venus est debout, de face, le pied droit reposant sur un quartier de roche. De ses hanches a ses pieds, tombe une lourde draperie amarante. Son ventre et son torse sont nus, d'un modele puissant, d'une chaude couleur ambree. Sa brune chevelure denouee sur l'épaule encadre un visage plein qui se detourne un peu. De la main gauche, la deesse agite en l'air une fleche, tandis que de la droite,elle repousse sans violence l'enfant Amour qui, grimpe sur un rocher, etend la main pour ressaisir son arme.
+
+Un decor de sombre feuillage encadre la scene. La tete de Venus et celle de lAmour se detachent sur un ciel du bleu le plus pur.
+
+Signe a gauche, en bas : N. Diaz, et date : 62.
+
+Toile.Haut.,47 cent.1/2; larg.,31 cent.1/2.
+DORE (GUSTAVE)
+
+9
+
+## Le Lac dans les montagnes.
+
+Signe a gauche, en bas:G.Dore, et date:1875.
+
+Toile. Haut.,1 m.32:larg.,1 m.98.
+Collection Fremyn.
+
+Exposition de Vingt Peintres du xix siecle,galerie Georges Petit,mai 910 (n 8g du catalogue).
+
+## DUPRE
+
+(JULES)
+
+10
+
+## Enoirons de Southampton.
+
+Un ciel tragique, charge de nuages de tempete prets a crever, noircit presque entierement les paturages et les eaux qu'il surplombe. Mais, sur la gauche,le soleil orageux penetrant la nuee et par endroits la percant, éclabousse la terre d'éclats brutaux.
+
+Au fond, des eaux plates que la maree montante repousse vers l'interieur, et la rive inclinee. A droite,un grand chene isole. Au centre, les barrieres d'un pacage a l'herbe drue,profonde,et aupres,une plaque brillante de lueurs soufrees. Trois chevaux, apeures par la menace de l'ouragan, se sont reunis. Le blanc, criniere et queue au vent, est debout. Contre lui le brun, couche, se blottit. Le noir continue de paitre. Un quatrieme, de l'autre cote de I'enclos, hennit vers eux. Au-dessus du groupe, trois oiseaux, venus du large, luttent contre la bourrasque et chavirent dans I'espace tourmente.
+
+Signe a droite, en bas : Jules Dupre, et date : 1835.
+
+Toile.Haut., 1 m. 16; larg.,I m. 85.
+## FROMENTIN
+
+(EUGENE)
+
+## Famille arabe en voyage.
+
+En tete de la petite troupe,se dirigeant de droite a gauche,et le dos tourne, trois femmes et un enfant marchent a grandes enjambees. A larriere-garde, tout a fait sur la droite, trois femmes encore:lune en blanc,lautre en rouge,la troisieme laissant flotter sur ses epaules une etoffe d'un bleu fonce. Chacune d'elles, un peu courbee, porte sur son dos la charge d'un lourd ballot.
+
+Entre les deux groupes de femmes, au centre de la composition, monte sur un cheval alezan qui trotte, et vu de profil a gauche, le chef de la tribu, droit en selle dans son burnous blanc,et portant sur l'épaule droite un long fusil. ll regarde ceux qui l'entourent.
+
+La caravane cotoie la lisiere d'un petit bois. Elle se dirige vers un point ou le sol sabaisse brusquement, en regard du couchant fauve. Le jour est avance. Le ciel bleuatre disparait derriere des nuees grises.
+
+Signe a droite, en bas:Eug.Fromentin.
+
+Panneau.Haut,26 cent.; larg.,35 cent.
+
+Exposition de Cent Chefs-d’euvre, galerie Georges Petit,1883.
+
+Exposition Centennale de l'Art francais,1889.
+## GUDIN (THEODORE)
+
+12
+
+## Marine.
+
+Fine brise sur la mer doucement ondulee. Le fond limoneux transparait dans la couleur de l'eau, aux premiers plans. A gauche, une svelte goelette battant pavillon francais. A droite, une barque au foc rouge et un canot monte par deux pecheurs qui halent sur leur filet. Ciel nuageux penetre de soleil.
+
+Signe a gauche, en bas : Gudin, et date : Bordeaux 1866.
+
+Toile.Haut., 31 cent.; larg.,46 cent.
+## ISABEY
+
+(LOUIS-GABRIEL-EUGENE)
+
+13
+
+## Le Bapteme.
+
+Le monumental escalier de pierre est couvert d'une foule chatoyante, en costumes de satin clair: dames, enfants, seigneurs et leur suite, qui descendent lentement les degres. Il semble qu'on entende le murmure des conversations,les rires,et tout ce gai bruit de fete.Les uns s'arretent pour causer entre eux, les autres se penchent par dessus les balustres. On en voit qui se pressent aux balcons des galeries superieures, pour contempler le cortege.
+
+En tete s'avancent trois personnages :la mere,le pere et la marraine portant dans ses bras le nouveau-ne. Devant eux, a quelque distance,un gentilhomme arrete,le feutre au poing, se retourne pour considerer les six musiciens qui, debout, a gauche, sur le dallage a losanges, jouent de divers instruments.
+
+Tout a fait a droite,une dame sapprete a descendre avec precaution la premiere marche du second etage. Un cavalier en pourpoint noir lui offre la main.
+
+Les murs du haut édifice sont ornes de tableaux et decores d'etendards.
+
+Signe a droite, en bas : E. Isabey, et date : 75.
+
+Toile. Haut.,1 m.28;larg.,92 cent.
+
+Exposition de Vingt Peintres du xixe siecle,galerie Georges Petit,mai 191o
+
+(n° Ic3 du catalogue).
+## ISABEY
+
+(LOUIS-GABRIEL-EUGENE)
+
+14
+
+## Le Grain.
+
+Une fottille de quatre voiliers surpris par un grain. Le ciel est noir. La mer jaunatre, ecumeuse, se souleve et secoue rudement les embar- cations. Les voiles s'enflent et claquent dans le vent.
+
+Signe a gauche, en bas : E. Isab.
+
+Panneau.Haut.,2o cent.;larg.,31 cent.
+## MARILHAT
+
+(PROSPER)
+
+15
+
+## La Halte.
+
+A la fin du jour,une petite troupe de meharistes a fait halte sous un bouquet de hauts palmiers. L'un des hommes a mis pied a terre. Appuye sur sa lance, il cause avec ses compagnons restes en selle. Son chameau est accroupi sur le sable. Devant lui,un sloughi étendu repose.
+
+A gauche, le rude profl d'une montagne rocheuse, teinte de lilas roux par le soir proche. Au ciel, dont le bleu sassombrit, parait a droite le croissant de la lune.
+
+Signe a droite, en bas :P. Marilhat.
+
+Toile.Haut.,36 cent.;larg.,65 cent.
+## MARILHAT
+
+(PROSPER)
+
+## 16
+
+## La Ferme (paysage d'Auoergne).
+
+Les deux pittoresques petits batiments de ferme, chacun d'un étage, qui regnent sur la largeur du tableau, sont adosses a une butte de terre arrondie et boisee, dont les verts puissants sont exaltes par la belle lumiere d'une apres-midi d'ete.
+
+De la gauche, l'ombre d'un batiment invisible se repand sur le sol de la cour. Une faque brille,ou des canards viennent barboter. Au centre, un tas de fumier dore que la volaille picore. Deux femmes causent entre elles,l'une en robe rouge,tablier bleu et cornette, lautre en cotillon blanc et bonnet de linge.
+
+A droite, dans l'ombre d'une porte basse, devant laquelle un chien dort, une vieille file sa quenouille.
+
+Signe a droite, en bas : P. Marilhat.
+
+Toile.Haut.48 cent.1/2;larg,64 cent.
+
+Vente Moreau-Nelaton.
+## MOREAU
+
+(GUSTAVE)
+
+## Helene sur les murs de Troie.
+
+Massive, prenant pied sur le rempart comme une statue sur un socle,Helene est debout, droite,grande,immobile. Son visage,dun ovale parfaitement pur, aux larges yeux bleus,ne reflete aucune pensee. Un lourd diademe de pierreries presse sa chevelure blonde, divisee en deux parties, dont l'une est rejetee par dessus lepaule gauche,et lautre,vivement éclairee,retombe a droite,entre le sein et le bras droit replie, qui tient une feur de lotus.
+
+La princesse est vetue des plus precieux tissus d'or et d'argent. De lourds bijoux la parent, dont les scintillements relevent encore Ieclat de letoffe orientale, qui tombe en longs plis verticaux jusqu'a ses pieds invisibles...
+
+Au pied de la muraille,aux pieds d'Helene, qui n'abaisse point sur euxson regard perdu, sont entasses pele-mele, raidis par la mort dans leurs armures éclatantes, les cadavres des jeunes grecs et de ceux d'entre les Troyens qui tomberent pour la discorde des rois.
+
+Des lueurs sanglantes se figent a l'horizon. Un fin croissant de lune parait-en haut du ciel.
+
+Signe a gauche, en bas : Gustave Moreau.
+
+Toile.Haut.,i m.47,larg.,90 cent.
+
+Exposition Gustave Moreau, galerie Georges Petit, 1go6 (n 1o du catalogue).
+
+Doit etre le tableau qui a figure au Salon de 188o.
+## MOREAU
+
+(GUSTAVE)
+
+18
+
+## Dejanire.
+
+L'eau du torrent et les epaisses frondaisons rousses s'obscurcissent dans la profondeur du ravin que mure, a larriere-plan, une haute palissade de roches grises. Seuls les arbres geants, au feuillage dore, se delivrent de lombre et montent vers un ciel douteux dont les nuages tamisent la lumiere.
+
+A droite, au premier plan, les pieds d'arriere encore baignes par l'eau du torrent qu'il franchit, agrippant du sabot de son pied droit la roche qu'il veut escalader,le Centaure Nessus, a la croupe velue, au torse fauve, tourne sauvagement la tete vers Dejanire qu'il serre dans ses bras roidis. Elle, blanche, svelte, aerienne et presque diaphane, son bras gauche étendu designant la hauteur, le droit replie sur son sein delicat, elle parait sur le point d'échapper sans effort a l'étreinte qui la meurtrit.
+
+Vers le centre du tableau, vaguement dessine dans leloignement, sur la sombre paroi du ravin, on apercoit Hercule qui bande l'arc et pointe la fleche dont il va percer le ravisseur de son épouse.
+
+Signe a gauche, en bas : Gustave Moreau.
+
+Panneau.Haut., 55 cent.; larg.,45 cent.
+
+Au dos,de la main de l'artiste:Dejanire a M.Lepel-Cointet, Gustave Moreau.
+
+Exposition Centennale 1goo.
+
+Exposition Gustave Moreau, galerie Georges Petit, 1go6 (n 11 du catalogue).
+## MOREAU
+
+(GUSTAVE)
+
+19
+
+## Venus sortant de l'onde.
+
+L'éclatante nudite de la deesse se detache sur l'écran d'or que lui font ses cheveux. Ils rayonnent autour de son front, ils se repandent sur son dos et ses reins, ils habillent son épaule et son bras gauche comme un feuillage retombant, ils ruissellent de ses mains etendues en un geste d'offrande.
+
+Venus repose legerement sur l'encolure d'un dauphin, la jambe gauche repliee,la droite etendue jusqu'a toucher presque de lorteil londe frangee d'ecume d'ou elle vient de jaillir. Un fin tissu paillete s'enroule aux belles cuisses. Une draperie se gonfle en spirale au-dessus de l'epaule gauche.
+
+Derriere, des roches dentelees se dressent, teintes par l'aube de pales nuances vertes et mauves. Nul soleil neclaire la scene. Leau meme est dun sombre glauque. Toute la lumiere semble emaner du corps de Venus.
+
+De chaque cote de la deesse, des divinites marines : un triton, une nereide, offrent a la nouvelle immortelle les tresors des profondeurs : coquillages bleus, perles et coraux.
+
+Signé a droite, en bas, du monogramme : G. M., et, au-dessous, en toutes lettres :Gustave Moreau,avec la date:1866.
+
+Panneau.Haut.,55 cent.;larg,44 cent.
+
+Au dos, de la main de l'artiste:Venus sortant de londe,pour Monsieur Despre, Gustave Moreau,1866.T.,n°20.
+
+Exposition Gustave Moreau, galerie Georges Petit,go6, sous le titre:
+
+Exposition Centennale igoo.
+
+la Naissance de Venus (ng du catalogue).
+## ROYBET
+
+(FERDINAND)
+
+20
+
+## Le Chanteur.
+
+Il est vu de face, assis sur une table que recouvre un tapis jaune et bleu. A cote de lui sont poses un pot de gres et un gobelet d'etain. I1 chante, en s'accompagnant sur un instrument dont sa main droite touche les cordes. Son chapeau est de feutre noir, sa casaque rouge a grand col de lingerie, sa culotte de velours prune et ses bas gris.
+
+Signe a droite, en bas : F. Roybet.
+
+Panneau.Haut.,61 cent.;larg.,45 cent.
+
+21
+
+## Coin de vieille ville.
+
+Signe a droite, en bas, du monogramme : S. C., et date : 45.
+
+Toile.Haut.,32 cent.;larg.,28 cent.
+fond pourpre.
+
+## VOLLON
+
+(ANTOINE)
+
+22
+
+## Nature morte.
+
+Une aiguiere doree, reposant sur son plateau； un haut vase de Chine a decor bleu; une large coupe contenant des peches. Tout autour, harmonieusement disperses, des raisins vermeils, des prunes bleues, des poires et des peches. La carnation delicate des fruits est mise en valeur par l'étoffe de velours vert sur laquelle ils reposent, et par un
+
+Signe a droite, en bas : A. Vollon.
+
+Toile.Haut.,98 cent.;larg.,82 cent.
+## WATELIN
+
+(LUCIEN-FRANCOIS-VICTOR)
+
+23
+
+## La Mare.
+
+De la droite, un arbre se penche au bord de la petite mare ou deux vaches sont venues boire. Le pelage de I'une est tachete de noir, celui de l'autre de brun. La noire, posee de trois quarts a droite, leche a l'épaule la brune qui est vue de profil a gauche.
+
+Signe a droite, en bas : S. Watelin.
+
+Toile. Haut., 48 cent.; larg., 65 cent.
+## ZIEM
+
+(FELIX)
+
+24
+
+## Pres des Jardins francais (Venise).
+
+Dans un eblouissement d'or,un ciel glorieux ou glissent quelques flocons legers de nuages. Le soleil, avant de disparaitre, jette une trainee massive sur leau de la lagune rousse et bleuatre. Une ligne mauve court sur l'horizon estompe.
+
+A droite, un bouquet d’arbres, de l'autre cote du courant.
+
+Au premier plan, la rive sétale dans une ombre chaude, cuivree, aux profonds reflets. Deux gondoles sont amarrees, vers lesquelles se dirigent trois personnages, un seigneur et deux dames, qui sont vus a contre-jour, en silhouettes sur I'éclairage du couchant.
+
+Signe a droite, en bas : Ziem.
+
+Panneau.Haut.,42 cent ;larg.,59 cent.1/2.
+## ZIEM
+
+(FELIX)
+
+25
+
+## Enoirons de Martigues.
+
+Sur l'horizon bleuatre des collines, au centre du tableau, un groupe de pins se profile vigoureusement. lls jettent une ombre sur la terre doree, friche sableuse tachee ca et la de maigres verdures et d'ou émer- gent quelques blocs mineraux.
+
+Sur le talus, forme par un replis de terrain, un homme est assis. Au fond,vers la droite,un village se devine a léclat des murs blancs touches par une lueur. Un grand ciel remue sur ce paysage. Des nuees grises le traversent. Par une trouee, il laisse tomber de la lumiere sur les robustes premiers plans.
+
+Signe a droite, en bas : Ziem.
+
+Panneau.Haut.,40 cent.1/2;larg,5g cent.1/2.
+## ZIEM
+
+(FELIX)
+
+26
+
+## Le Grand Canal.
+
+A gauche, le dome de la Salute a deja pris des nuances crepusculaires, presque mauves, tandis qu'a sa base s'accrochent encore des
+
+éclats rougeatres.
+
+A droite, le palais des Doges, le Campanile et la mature touffue de deux vaisseaux a l'ancre se silhouettent sur un ciel splendide, d'or et de lapis-lazuli.
+
+De gauche a droite,longue silhouette d'un noir de laque, une gondole glisse, effleurant avec celerite les eaux mouvementees, qui sont presque obscures au premier plan a droite, et qui vont s'éclaircissant vers le centre et le fond du tableau. Toutes les nuances du bleu, du gris, du jaune et du rose y font jouer subtilement leurs reflets changeants comme un plumage.
+
+Signe a droite, en bas: Ziem.
+
+Toile.Haut.,6g cent.;larg.,I m.13.
+## ZIEM
+
+(FELIX)
+
+27
+
+## La Gondole (Grand Canal).
+
+Une atmosphere de liesse,une vivacite particuliere de lair, une joie de la couleur. De légers soufles rident l'eau transparente du grand canal, aux tons de pierres precieuses, et font doucement palpiter les stores oranges et bleus sur les facades des palais inondes de lumiere. Des gondoles circulent, et les bateliers qui les menent vigoureusement ont l'air de danser a la poupe.
+
+A l'arriere-plan, la vue est arretee par un fouillis d'édifices mele au fouillis des voiles et des vergues. Sur la droite,un grand bateau immobile dresse sa mature, équilibrant par une masse sombre la masse rutilante du palais qui occupe le premier plan de gauche.
+
+Un ciel pur, legerement voile de brume au fond.
+
+Signe a droite, en bas : Ziem.
+## ZIEM
+
+(FELIX)
+
+## 28
+
+## Le Palais des Doges.
+
+Dans sa masse trapue, solidement assise, le palais des Doges, a droite,occupe le premier plan de la composition. L'arriere d'un petit bateau sappuie au quai d'embarquement. Sa voilure, de couleur ocre, s'harmonise au ton rose de la pierre.
+
+A gauche, s'eloigne une galere dont la toile est larguee. On n'en apercoit plus que la poupe, pavoisee d'une banderole rouge. Une gondole file sur la lagune, de droite a gauche. Et, au fond, tout le paysage demi-circulaire,depuis le quai de la Piazzeta et les lions de Saint-Marc jusqu'a la coupole de la Salute, est pour ainsi dire volatilise dans la feerie d'un couchant clair qui jette au ciel et sur les eaux d'eblouissantes coulees d'or vert.
+
+Signe a droite, en bas : Ziem.
+
+Toile.Haut.,84 cent.;larg.,I m.21.
+## ZIEM
+
+(FELIX)
+
+29
+
+## Le Bosphore.
+
+(Vue prise sous les pins du fort Mahmoud).
+
+Les fuits des grands pins et leurs cimes transpercees de lumiere forment un encadrement a la radieuse perspective qui laisse apercevoir, sur Iautre rive,au bord des eaux legeres, Constantinople avec ses palais, ses mosquees et ses minarets,dans un poudroiement de clarte. Et cette éclatante vision,par contraste,fait paraitre plus frais,plus apaise,plus recueilli, le demi-jour ou repose, au premier plan, vers la droite, la sultane vetue de rose, aux tresses denouees, que des esclaves noires éventent. A gauche, dans une ombre plus douce,des musiciens assis a l'orientale composent un groupe. La musique de leurs instruments donne le branle aux deux bayarderes que l'on voit, au centre, l'une vetue de rouge et agitant un voile, l'autre en pantalon bleu et qui brandit un tambourin.
+
+Signe a gauche, en bas:Ziem.
+
+Toile.Haut.,83 cent.;larg.,I m.17.
+
+Collection Leveque.
+
+<!-- image -->
+<!-- image -->
+
+## Bronzes de Barye
+
+## BARYE
+
+(ALFRED)
+
+30
+
+## Thesee combattant le centaure Bienor.
+
+Bronze.
+
+Bronze.
+
+Epreuve ancienne, patine vert sombre.
+
+Hauteur,35 cent. Longueur de la plinthe,25 cent.
+
+Epreuve ancienne, patine vert fonce.
+
+## BARYE
+
+(ALFRED)
+
+31
+
+## Gaston de Foix.
+
+Hauteur,34 cent. Longueur de la plinthe, 35 cent.
+<!-- image -->
+
+## Tableaux Aneiens GOUACHE
+
+## BERGHEM
+
+(CLAESPIETERSZ)
+
+Harlem,1620-1683.
+
+32
+
+## Le Paturage.
+
+Au centre d'un paturage qui s'etend dans un site accidente, une femme trait une vache blanche, tandis qu'une autre femme, en corsage rouge, transvase du lait dans des baquets de bois; des vaches, des moutons et des chevres paissent. A gauche, une mare; plus loin, une chaumiere entouree d'arbres.
+
+Signe a droite et date:1642.
+
+Bois.Haut.,52 cent.;larg.,7o cent.
+## BERGHEM
+
+(DIRCK VAN DEN)
+
+Harlem,1640-1690.
+
+33
+
+## Bergere et Animaux.
+
+Une jeune bergere est assise au bord d'un cours d'eau; elle garde un troupeau compose de vaches, de chevres, de moutons. La campagne boisee s'etend vers le fond, et a droite, des collines s'elevent sur un ciel nuageux eclaire par le soleil couchant.
+
+Signe a gauche et date:1686.
+
+Bois.Haut.,37 cent.;larg.,47 cent.
+## BLARENBERGHE
+
+(LOUIS VAN)
+
+Lille,1734-1812.
+
+34
+
+## Une Noce de village.
+
+Dans une cour de ferme, on a dresse sur le gazon la longue table de repas de noce, et des villageois assis sur des bancs, semblent, apres avoir festoye, se livrer au plaisir des entretiens galants.
+
+Au premier plan, au bord d'une mare, la jeune epousee debout, accompagnee d'un jeune officier qui lembrasse, est entouree d'elegants personnages. Un jeune abbe s'incline profondement devant elle.Un gentilhomme en habit vert, coiffe d'un feutre noir, frappe sur lepaule d'un vieillard qui tient son chapeau a la main. Un pretre est vu de dos entre deux commeres. A droite, des musiciens sont groupes pres d'un bouquet d'arbres et des couples s'appretent pour la danse.
+
+Les batiments de la ferme occupent la gauche de la composition, s'elevant sur une hauteur, devant un bois de haute futaie. Une vieille tour couverte de tuiles sert de colombier. La campagne s'etend vers le fond, a droite, dans une large vallee, ou l'on remarque la masse imposante d'un chateau et un clocher de village.
+
+Gouache.
+
+Signee a droite :Van Blarenberghe, 1789.
+
+Haut., 37 cent.; larg., 54 cent.
+
+Cadre en bois sculpte.
+## COYPEL
+
+(AttribueaANTOINE)
+
+35
+
+## Allegorie.
+
+Une composition architecturale simulant une haute voussure de pierre sculptee de cariatides, de guirlandes, d'arabesques, d'écussons, de bas-reliefs, est decoree de sujets mythologiques ou allegoriques comprenant un grand nombre de figures sur un fond de ciel.
+
+Toile.Haut.,I m.97;larg.,2m.70.
+
+## DROUAIS
+
+(Ecole de)
+
+36
+
+## Portrait de jeune femme.
+
+Vetue d'une robe blanche, ornee de dentelle et de soie rayee, elle est assise devant une table, les mains appuyees sur un coussin bleu, et tenant une colombe, dont la patte est attachee par un ruban rose.
+
+Toile de forme ovale.Haut.,8o cent.;larg.,64 cent.
+## ECOLE FRANCAISE
+
+xVlll siecle.
+
+PENDANT DU SUIVANT
+
+Les Lavandieres.
+
+Toile. Haut., 1 m.3o; larg.,68 cent.
+
+## ECOLE FRANCAISE
+
+xvl siecle.
+
+PENDANT DU PRECEDENT
+
+38
+
+L'Accordee de village.
+
+Toile. Haut.,I m.3o; larg., 68 cent.
+## ECOLE HOLLANDAISE
+
+xvir siecle.
+
+PENDANT DU SUIVANT
+
+## Portrait d'une dame de qualite.
+
+Debout,vue jusquaux genoux, tournee de trois quarts a gauche, le visage presque de face,elle porte une robe noire ouverte sur un corsage brode d'or a fond blanc et sur une jupe de soie noire brochee,une fraise de dentelle autour du cou, des manchettes aux poignets et des bracelets de perles; autour de la taille, une chaine d'orfevrerie. Ses cheveux chatain roux sont releves sur le front sous un diademe de perles.A droite,une table couverte d'un tapis vert.
+
+En haut eta droite:Anno 1615 etatis33.
+
+Bois.Haut.,1 m.o6;larg.,74 cent.
+## ECOLE HOLLANDAISE
+
+xvii siecle.
+
+PENDANTDUPRECEDENT
+
+40
+
+## Portrait d'un gentilhomme.
+
+Vu jusqu'aux genoux, debout de trois quarts a droite, une main sur la hanche et l'autre main tenant des gants, les cheveux courts, la barbe blonde en pointe sur une fraise a tuyautes rigides, il est vetu d'un pourpoint de soie noire.
+
+En haut et a gauche sur le fond, on lit: Anno 1615 ctatis 45.
+
+Bois.Haut.,I m.o6;larg,74cent.
+## ECOLE ITALIENNE
+
+xvr siecle.
+
+## L'Adoration des Mages.
+
+La Sainte Famille est representee a l'entree d'une construction en ruines. Dans le fond,a gauche,un paysage accidente entourant une ville.
+
+Bois.Haut..85cent.;larg..68 cent.
+
+On lit, sur la partie inferieure du panneau,l'inscription suivante: Calixtus Laudensis F.1524.
+
+Il s'agirait de Calisto da Lodi,eleve du Titien, qui vivait de 15o5 a 1561.
+## GOYEN
+
+(JANVAN)
+
+Leyde,1596-1656.
+
+42
+
+## Ville au bord d’'une rioiere.
+
+Une large riviere baigne des maisons construites sur d'anciennes fortifications. Au large du cours d'eau, on remarque, a droite, une barque montee par des pecheurs qui relevent un filet. Sur une rive,un homme prepare des nasses.
+
+Un autre bateau accoste vers le centre. Dans un jardin, dont les broussailles couvrent les murs d'une terrasse, s'eleve un pigeonnier. Plus loin, une tour carree a creneaux devant une eglise. Dans le fond, on remarque deux bateaux a voile, un clocher et un moulin a vent.
+
+Le ciel est nuageux, dore par les rayons du soleil qui decline, en se refletant dans les eaux limpides de la riviere.
+
+Signe en toutes lettres et date:1646.
+
+Bois.Haut.,47 cent.;larg.,66 cent.
+## GOYEN
+
+(JANVAN
+
+43
+
+## Le Puits.
+
+Devant une chaumiere, une femme est occupee a puiser de l'eau dans un puits entoure d'une margelle rectangulaire, sur laquelle un petit garcon s'est accoude. Deux paysans sont assis a terre; plus loin, les constructions d'une ferme limitent I'horizon.
+
+Bois.Haut.,37cent.;larg.,54 cent.
+## LARGILLIERRE
+
+(Attribue a NICOLAS DE)
+
+PENDANT DU SUIVANT
+
+## Portrait de jeune femme.
+
+Assise dans un fauteuil de damas rouge, en corsage blanc, manteau bleu, les cheveux poudres, ornes d'une plume blanche, d'un ruban et de pierres precieuses.
+
+Toile de forme ovale.Haut.,33 cent.;larg.,26 cent.
+
+## LARGILLIERRE
+
+(Attribue a NICOLAS DE)
+
+PENDANTDUPRECEDENT
+
+45
+
+## Portrait d'homme.
+
+Coiffe d'une toque rouge et vetu d’une robe de chambre de meme couleur, decouvrant une chemise ouverte sur la poitrine.
+
+Toile de forme ovale.Haut.,33 cent.;larg.,26 cent.
+## MAAS
+
+(Attribue a NICOLAS)
+
+46
+
+## Portrait d'homme.
+
+Il est represente dans un medaillon, couvert d'une robe de chambre de soie grise. Un rideau rose est drape dans la partie superieure.
+
+Bois.Haut.,33 cent.;larg.,26cent.
+Cabinet Tolozan,n 68.
+
+## MIERIS
+
+(WILLEM VAN)
+
+Leyde,1662-1747.
+
+## La Jeune Malade.
+
+Une jeune femme assise, le haut du corps appuye sur un lit, vient de s'évanouir,la tete inclinee sur l'épaule,les cheveux denoues,les yeux clos. Elle porte une robe de soie mordoree, une écharpe verte drapee autour de la taille;la poitrine est decouverte. Une dame agee, coiffee d'un voile blanc, portant un manteau noir sur sa robe rouge, est debout a cote d'un medecin enveloppe dans un vetement noir,qui regarde la malade. A droite, sur une table couverte d'un tapis d'Orient, un miroir et des objets de toilette.Plusloin,au second plan,une servante apporte un rechaud. Une large porte cintree s'ouvre dans le fond sur un vestibule de pierre. A gauche, pres du lit tendu de rideaux verts, un coussin de velours rouge.est pose sur un tabouret de bois sculpte.
+
+Signe en haut, a droite : W. van Mieris fee, anno 17o9.
+
+Bois.Haut.,46 cent.;larg.,38 cent.
+
+Cabinet Randon de Boisset (1777),n° 157. Cabinet Poulain(178i),n°57.
+
+Galerie Delessert (mars 1869),n° 53. Grave dans le catalogue du cabinet Poulain.
+## MOREELSE
+
+(PAULUS)
+
+Utrecht,1571-1638.
+
+48
+
+## Portrait d'un gentilhomme.
+
+Debout,vu jusqu'aux genoux, tourne de trois quarts,vers la droite, la main gauche appuyee sur une table couverte d'un tapis vert, l'autre main sur la hanche et tenant une paire de gants, il regarde en face. Les yeux bleus, la barbe et les cheveux blonds, il porte un pourpoint de soie noire brochee,un manteau jete sur le bras et drape autour de lui.
+
+En haut,a droite, on lit:Eta..5o,A°1625,et le monogramme:
+
+Bois.Haut.,1 m,o6;larg.,87 cent.
+
+P.M.,les deux lettres reunies.
+## NATTIER
+
+(Ecole de)
+
+49
+
+## Portrait presume du Dauphin,
+
+## fils de Louis XV.
+
+A mi-corps tourne vers la gauche, la tete presque de face, les yeux bleus, les cheveux poudres, boucles et serres sur la nuque par un catogan,il est revetu d'une armure damasquinee et doree,l'écharpe du commandement nouee a la taille, le cordon du Saint-Esprit en sautoir et l'ordre de la Toison d'Or pendant sur la poitrine.
+
+Un manteau de velours bleu, double d'hermine est drape sur le bras droit. Dans le fond, une marine.
+
+Toile.Haut.,82 cent.,larg.,65 cent.
+
+Cadre en bois sculpte.
+## NEER
+
+(AERTVAN DER)
+
+Gorichem,1603-1677.
+
+50
+
+## Le Village au clair de lune.
+
+Des constructions rustiques entourees d'arbres s'elevent au bord d'un cours d'eau. Au premier plan, quatre personnages suivent une route creusee dornieres. L'un d'eux, au centre, coiffe d'un chapeau de feutre,vetu d'une veste rouge,est accompagne d'un petit garcon qui porte sur l'épaule un ballot au bout d'un baton. A gauche et au second plan,deux pecheurs. Le cours d'eau s'elargit vers le fond,ou lon apercoit des bateaux a voile et un moulin a vent. Le ciel est charge de lourds nuages argentes par les rayons lunaires qui se refletent,au centre, dans le cours d'eau.
+
+Signe a droite du monogramme.
+
+Toile.Haut.,3g cent;larg.,42 cent.
+## NEER
+
+AERTVANDER)
+
+51
+
+## La Rioiere au clair de lune.
+
+Des bateaux a voile, des barques sillonnent les eaux limpides d'une large riviere. Un chemin de halage suit, a gauche, le cours d'eau. Au premier plan, un villageois conduit un cheval par la bride. A droite, des animaux paissent dans un ilot qui est presque submerge. Un filet est tendu vers le centre. Dans le fond, les rives sont plantees de grands arbres entourant des constructions, parmi lesquelles on remarque des clochers.
+
+Le ciel est bleu, avec de gros nuages illumines par la lune.
+
+Toile.Haut.,3g cent.;larg.,49 cent.
+## REMBRANDT
+
+(Attribue a)
+
+52
+
+## La Resurrection de Lazare.
+
+Jesus est debout sur la dalle qui fermait le tombeau. Vetu d'une robe de couleur violacee,aux larges manches et serree a la taille par une ceinture de gaze d'or,un manteau drape sur lepaule gauche; il leve le bras droit.
+
+Au premier plan,Lazare, couvert d'un linceul, se souleve hors de sa tombe.A gauche, Marthe et Marie sont agenouillees, l'une ouvrant les bras, les yeux fixes sur le ressuscite. Trois personnages sont debout derriere elles, l'un en robe et toque rouge, un autre portant un manteau brode d'or. Au second plan et vers le centre, un groupe de cinq figures apparaissant a mi-corps dans le clair-obscur.
+
+Un rideau de couleur sombre est tendu sous la voute sepulcrale;a droite,un trophee d’armes pend au-dessus du tombeau.
+
+Bois.Haut.,96 cent.;larg.81 cent.
+
+Il est a remarquer que l'un des personnages, a gauche du Christ, parait representer le pere de Rembrandt.
+
+Une composition similaire, mais de dimensions tres inferieures et offrant des expressions assez differentes quant aux personnages, a passe dans la vente Yerkes, a New-York, en 1gio, sous le nom de Rembrandt.
+Cadre en bois sculpte.
+
+## RIGAUD
+
+(Attribue a HYACINTHE)
+
+53
+
+## Portrait de femme.
+
+En corsage de brocart d'or, une écharpe bleue retenue sur les cheveux poudres et drapee autour d'elle, le bras droit appuye sur un
+
+Toile.Haut.,78cent.;larg.,61 cent.
+
+## RIGAUD
+
+(Attribue a HYACINTHE
+
+54
+
+## Portrait d'un Prince en armure.
+
+Coiffe de la longue perruque poudree pendant sur les epaules, il porte sur sa cuirasse le grand cordon de Saint-Louis en sautoir et le collier de la Toison d'or.
+
+Toile.Haut.,85 cent.;larg.,67 cent.
+
+coussin de velours rouge.
+
+Cadre en bois sculpte.
+## TOURNIERES
+
+(ROBERTLEVRAC) Ifs,1668-1752.
+
+55
+
+## Portrait de jeune femme.
+
+Elle est representee a mi-corps, legerement tournee vers la gauche les yeux bleus, le visage souriant au spectateur. Les cheveux poudres, releves sur le front, boucles sur la nuque et ornes de feurs des champs, elle porte une robe de velours bleu, ouverte en pointe sur la poitrine decouverte et sur une chemise bordee de dentelle. Un manteau de meme couleur double de brocart d'argent est drape sur ses epaules.
+
+A gauche, sur le fond,un rideau rouge.
+
+Toile.Haut.,81 cent.;larg.,65 cent.
+## VINCENT
+
+(J.-C.)
+
+Ecole francaise,xvill siecle.
+
+56
+
+## Portrait d'homme.
+
+gauche accoude sur un socle de pierre. Coiffe d'une perruque poudree, il est vetu d'un habit gris brode d'argent sur un gilet rose a longues basques, la main droite gantee, appuyee a la hanche, l'autre main tenant un tricorne galonne d'argent.
+
+Signe en bas, a droite: Peint par J. C. Vincent, en decembre 1730.
+
+Toile.Haut.,3m.37;larg.,1 m.05.
+
+Cadre en bois sculpte.
+## VOIS
+
+(ARIEDE) Utrecht,1632-1680.
+
+57
+
+## Halte de chasse.
+
+Un gentilhomme revetu d'une armure, coiffe d'un casque empanache de plumes blanches et arme d'une pique, se promene dans la campagne a cote d'une dame en robe blanche,aux cheveux blonds boucles et tenant un arc a la main. Ils sont suivis dun valet. A droite, un negre en veste bleue,apparaissant derriere un arbre, tient en laisse deux levriers couples. A gauche, un chien precede les chasseurs. Au second plan,un fauconnier est arrete au bord d'une riviere baignant des rochers abrupts et coulant a l'horizon dans un site accidente.
+
+hommes armes de lances et un cheval blanc tenu par la bride.
+
+Dans le fond,a droite, on remarque, a l'entree d’un bois, des
+
+Signe a gauche, en toutes lettres.
+
+Bois.Haut.,2g cent.;larg.,36 cent.
+## WOUWERMANS
+
+(PHILIPS)
+
+Harlem,161g-1668.
+
+58
+
+## La Baignade.
+
+Un villageois, monte sur un cheval isabelle, conduit par la bride un cheval pie et va les baigner dans une riviere. ll est vetu d'un gilet rose et porte une culotte bleue sur des bas blancs. Un chien aboie devant l'un des chevaux, qui se cabre. A droite, sur la berge, deux hommes, l'un vu de dos, assis, coiffe d'un feutre noir, l'autre debout, et retirant sa veste. Deux enfants se baignent dans la riviere. A gauche, un bateau est amarre au bord de la rive.
+
+Dans le fond, la campagne s'étend a l'horizon ferme par une chaine de collines qui s'elevent sur un ciel nuageux.
+
+Signe au centre du monogramme, sur une poutre de bois.
+
+Toile.Haut.,28 cent.,; larg.,37 cent.
+
+<!-- image -->
+<!-- image -->
+
+## Objets d'Art &amp; d'Ameublement
+
+## PORCELAINES -FAIENCES
+
+Deux cornets en ancienne porcelaine de Chine, époque KienLung, a decor de rochers feuris, arbustes et personnages. Ils sont montes en lampes en bronze.
+
+Hauteur des cornets,31 cent.
+
+60
+
+Statuette en ancienne porcelaine de Saxe,representant une femme debout, drapee a l'antique et tenant une corne d'abondance.
+
+Haut., 22 cent.
+
+61
+
+Brule-parfums compose d'un fruit simule, en ancienne porcelaine de Saxe, porte par un arbuste en metal dresse sur une base en bronze cisele et dore a rocailles, sur laquelle est place un groupe d'oiseaux en ancienne porcelaine de Saxe.
+
+Haut.,18 cent.
+62
+
+Char d'Apollon en ancienne porcelaine de Saxe, traine par deux chevaux au galop, reposant sur des nuees;il est conduit par le dieu represente nu, assis sur le char,un fouet de bronze a la main.Base en laque et bronze.
+
+Largeur du socle,41 cent.
+
+63
+
+Deux cornets en ancienne faience de Delft, decores en couleurs,avec rehauts dedorure,degrands compartiments,contenant des habitations et des personnages, de style chinois, se detachant sur un fond charge de feurs.
+
+Haut.,31 cent.
+## PENDULES S—BRONZES -SIEGES
+
+Statuette en bronze,a patine brune, representant Hercule enfant, entierement nu, etendu sur une draperie et etouffant le serpent. Epoque Louis XIV.
+
+Socle en marqueterie de cuivre et d'écaille, garni de bronzes.
+
+Hauteur du bronze,34 cent.； larg.,45 cent.
+
+## 65
+
+Deux petits groupes en bronze, a patine brune, representant l'un, deux enfants nus étendus sur les nuees, tenant des feurs et des épis de ble,l'autre,une fillette étendue également sur les nuees, une coupe a la main, ayant aupres d'elle un adolescent debout. Bases en bois noir garnies de bronzes. xvin siecle.
+
+Haut.,41 cent.
+
+66
+
+Pendule en bronze dore, a mouvement compris dans un fuit de colonne cannelee, surmonte d'une urne enguirlandee de feuilles de chene. Sur la base, sont disposes des volumes sur lesquels sont assis deux amours. Au revers, la signature : Morlay. Epoque Louis XVI.
+
+Contre-socle en bois noir.
+
+Haut.,46 cent.,larg., 32 cent.
+Pendule en bronze dore, a mouvement surmonte d'un vase de flammes. A cote du mouvement,une statuette de femme assise figurant la geometrie. Base ornee de feuillages. Cadran, signe: Buzot, a Paris.Epoque Louis XVI.
+
+Haut.,34 cent.;larg.,3o cent.
+
+## 68
+
+Pendule en marbre blanc et bronze dore,a mouvement compris dans un rocher, surmonte d'une statuette de Venus tenant dans chaque main une couronne et accompagnee de deux amours.
+
+Fin du xvinle siecle.
+
+Haut.,52 cent.
+
+Deux bergeres en bois sculpte et redore, a decor de feuilles de chene, rubans, rosaces et cannelures. Epoque Louis XVI. Elles ont éte recouvertes de soie.
+
+Larg.,68 cent.
+## MEUBLE DE SALON
+
+## EN TAPISSERIE DE BEAUVAIS
+
+70
+
+Meuble de salon en bois sculpte a entrelacs et feuilles et redore,couvert en tapisserie de la Manufacture royale de Beauvais. Il se compose d'un canape, de deux fauteuils munis de coussins et de quatre autres fauteuils, la plupart des bois étant signes de
+
+Jacob.
+
+Le dossier du canape presente un vase de feurs et de fruits dresse entre deux trophees d'armes suspendus par des cordelettes a des draperies bleues a franges d'or enguirlandees de feurs. De chaque cote de ces trophees, des feuillages. Le siege est orne d'un oiseau au milieu dune couronne de fruits placee devant deux thyrses, l'encadrement étant forme de rinceaux et de fleurs.
+
+Les dossiers des fauteuils sont decores chacun d'une corbeille de feurs appendue a une draperie bleue encadrant chaque dossier. Deux des sieges de ces fauteuils offrent des instruments de musique avec bordures de fleurs et de rinceaux, les quatre autres sieges, les attributs de Neptune avec encadrements de fleurs et rinceaux. Manchettes a feurs. Ce mobilier est accompagne de deux coussins mobiles des memes tapisserie et decor que les dossiers des fauteuils. Epoque Louis XVI.
+
+Largeur du canape, 1 m. 8o. Largeur d'un fauteuil, 65 cent.
+## TAPISSERIES
+
+Tapisserie famande du xvie siecle, representant un souverain victorieux assis sur un trone et recevant les clefs d'une ville qui lui sont presentees par deux personnages agenouilles; autour du souverain,de nombreux guerriers. Au second plan, d'autres guerriers, un camp, des habitations, des arbustes et des collines.
+
+Bordure blanche a figures,oiseaux,animaux,petits paysages, fruits,feurs, etc.
+
+1laut.,3m.35;larg.,3m.g0.
+
+Suite de trois Tapisseries famandes du XVle siecle, representant des sujets tires de l'histoire ancienne :
+
+Un souverain agenouille et couronne par un grand-pretre; autour du groupe, divers personnages et guerriers; fond de paysage.
+
+Haut.,2m.75;larg.,4m.70.
+et sujets de chasse.
+
+## 73
+
+Un personnage venant presenter ses hommages a une souveraine assise, qui tient a la main un écran ; au second plan, des personnages et des animaux ; fond de paysage.
+
+Haut.,2 m.75;larg.,3m.30.
+
+## 74
+
+Un roi et une reine se dirigeant vers la droite, suivis par des personnages et des guerriers; au fond, un paysage avec habitations
+
+Haut., 2 m.75;larg.,3 m.85.
+
+Les bordures de ces trois tapisseries presentent des figures allegoriques avec legendes ainsi que des fruits, feurs et feuilles sur fond blanc.
+
+## 75
+
+Tapisserie de la manufacture royale de Beauvais, de la serie des Grotesques, de Berain, presentant sur fond marron des femmes richement vetues, dansant et faisant une offrande a un dieu Terme dresse sous un dais; ce dais enguirlande de feurs est suspendu a un portique compose de balustres et de pilastres et decore d'arbustes. Ce portique est surmonte d'un fronton porté par des cariatides et orne d'oiseaux. Bordure simulant un cadre enrichi de feurs et de feuilles.
+
+Marque P. Be.(Philippe Behagle, directeur [1684-1711]).
+
+Epoque Louis XIV.
+marron.
+
+## 76
+
+Tapisserie de la manufacture royale de Beauvais, de la serie des Grotesques, de Berain, presentant deux femmes,vetues a lorientale et jouant l'une du triangle, 1'autre de la viole de gambe; entre elles se dresse une table chargee d'arbustes. Le fond jaune est orne d'une draperie rose surmontee d'un lambrequin fixe de chaque cote a deux motifs d'architecture enguirlandes de feurs. A la partie superieure, des trophees d'instruments de musique. Epoque Louis XIv. Bordure en partie moderne, simulant un cadre.
+
+Haut.,2m.8o;larg.,I m.go.
+
+Deux tapisseries en hauteur de la manufacture royale de Beauvais,de la serie des Grotesques, de Berain,presentant sur fond marron des personnages dansant ou faisant de la musique sous un dais suspendu a un portique; au-dessus du portique, un brule-parfums ainsi que des feurs. Bordure simulant des feuilles sur champ bleu, avec cartouches aux angles. Epoque Louis XIv.
+
+Haut.,3m.15;larg.,1 m.35.
+
+## 78
+
+Bandeau compose d'un fragment de bordure de tapisserie famande du xvi siecle,a cartouches,feurs et brule-parfums; fond
+
+Haut.,4o cent.;larg.,2m.20.
+## 79
+
+Panneau en tapisserie d'Aubusson du temps de Louis XV:
+
+jeux d'enfants, fond de paysage avec habitations.
+
+Haut., I m.8o; larg., 1 m. 95.
+
+Cinq tapisseries de la Manufacture d'Aubusson, representant:
+
+80
+
+Un vieillard debout dans la campagne, enseignant la musique a un berger assis pres de lui; autour d'eux, un groupe de personnages écoutant; au fond, des ruines.
+
+Haut.,2 m.58; larg.,3 m.85.
+
+## 81
+
+Une composition relative a l'amour et a Venus dans un paysage.
+
+82
+
+Un sujet mythologique a cinq personnages dans un motif d'architecture avec brule-parfums.
+
+Haut., 2 m.58; larg., 1 m.85.
+
+Haut., 2 m.58;larg., 1 m.10.
+## 83
+
+Une autre composition mythologique a plusieurs personnages pres d'un motif d'architecture, avec inscription et date : 1791.
+
+Haut., 2 m.58; larg., I m. 15.
+
+La rencontre d'Enee et de Didon, sur fond de paysage au bord de la mer; encadrement de draperies rouges avec franges, glands, fleurs et rubans.
+
+Haut.,2 m.58;larg.,2 metres.
+
+Ces tapisseries etant de l'epoque Louis XVI, a 1'exception de la derniere qui est en grande partie moderne; deux d'entre elles sont signees : F. Bory aine.
+
+<!-- image -->

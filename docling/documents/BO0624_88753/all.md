@@ -1,0 +1,460 @@
+## 1 MARMORRELIEF MIT ALLEGORIE DER VERGANGLICHKEIT.
+
+Rechts in Flachrelief die stehende Figur eines bartigen Mannes in Tunika,in der
+
+Linken eine Sense haltend (Chronos?). Links in Hochrelief eine nackte Frau in Vorderansicht, die Rechte auf die Brust legend und mit der Linken einen nackten, vor einem Baum stehenden Knaben haltend.
+
+Marmor. Hohe 45 cm, Breite 30 cm. Teilweise erganzt.
+
+OBERITALIEN (?),17.JAHRHUNDERT.
+
+Tafel 19.
+
+## 2PUTTO.
+
+In Tanzstellung auf dem linken Bein stehend, das rechte Bein und den linken Arm emporgeworfen und den Zeigefinger der Rechten an den Mund fuhrend. Gelocktes Haar.
+
+Bronze. Hohe 24,5 cm.
+
+FRANKREICH,LOUIS XIV,GEGEN 1700.
+
+- 3TIZIANO ASPETTI,NACHFOLGER DES（1565[?] Padua,Venedig,Florenz1607).
+
+Pallas Athene.
+
+Die Gottin schreitet in aufrechter,frontaler Haltung, das Gewand flattert hinter den entbloften Beinen nach. Sie halt in der Linken den Schild,wahrend die ausgestreckte Rechte ehemals eine Lanze trug. Der Oberkorper ist mit einer Ruistung, das Haupt mit einem geflugelten Helm bedeckt.
+
+Eine verwandte Figur einer Minerva von Aspetti befindet sich im Nationalmuseum zu Budapest,Abbildung bei Planiscig,Venezianische Bildhauer der Renaissance,566. Bronze. Hohe 37,5 cm.Schwarzer Lack mit teilweise durchscheinender Naturpatina.
+
+Auf Holzsockel montiert.
+
+Tafel 19.
+
+## 4-8 DREIDECKELVASENUND ZWEIFLOTEN.
+
+Satz,bestehend aus funf Teilen. Grune Fayence, kalt bemalt mit Blumen und
+
+Chinesen.
+
+Hohe 70bzw.50,5cm.
+
+DELFT.
+
+## 9LACKTRUHE AUF TISCHARTIGEMUNTERSATZ.
+
+Tisch mit vier geschweiften Beinen. Aufklappbare Truhe mit Metallbeschlagen am Schlof und an den Ecken. Verzierung mit Chinesenszenen in Gold und Rotlack. Hohe des Tisches:78 cm.GroBe der Truhe: 39:73:42 cm.
+
+CHINA,18.JAHRHUNDERT.
+
+Tafel 20.
+
+## 10 CHINA-VASE.
+
+Schachtelhalmform. Flambe. Blau und Rot.
+
+Hohe 58 cm.
+
+CHIEN-LUNG.
+
+Tafel 20.
+
+## 11 CHINA-VASE.
+
+Gegenstuick zu der vorhergehenden Nummer.
+## 12-16TOILETTENGARNITUR.
+
+Bestehend aus einem auf ein Kastchen montierten Spiegel,zwei Deckelvasen und zwei
+
+Leuchtern.
+
+Eisen, teilweise vergoldet. Spiegel hoch 85 cm, Vasen hoch 38,5 cm, Leuchter hoch 40 cm.
+
+RUSSLAND,EMPIRE,ANFANG 19.JAHRHUNDERT. Tafel 18.
+
+17 SZEPTER IN FORM EINES STREITKOLBENS. Der runde Schaft, durch aufgelegte Ringe in vier Abschnitte geteilt, ist emailliert eine durchbrochene und mit in Email gefaften farbigen Steinen gezierte Scheibe, die in einen spitzen Kegel auslauft. Oben, getragen von drei an dem Schaft befestigten weiblichen Kariatyden,ein langlich-ovaler, durchbrochener und ziselierter Kolben, besetzt mit Perlen und Steinen und durchschnitten von Maskenreihen. Auf der oberen Abplattung die Gestalt des den Lowen totenden Herkules. Laut Mitteilung des Besitzers aller Wahrscheinlichkeit nach Geschenk des Kaisers Leopold an den Grafen von Starhemberg, aus dessen Familie es stammt. Messing, vergoldet. Hohe 84 cm. AUGSBURG(?),ENDE 17.JAHRHUNDERT. Tafel 16.
+
+- 18 LUSTER. Kristall mit reichem Prismenbehang. Hohe ca. 100 cm, Durchmesser ca. 150 cm. WIEN, UM 1800. Tafel 17.
+- 19 LUSTER. Kristall mit reichem Prismenbehang. Hohe ca. 110 cm, Durchmesser ca. 100 cm. WIEN,UM 1800. Tafel 17.
+- 20 LUSTER. Gegenstuck zur vorhergehenden Nummer.
+- 21 WANDAPPLIQUE.
+- Kristall mit reichem Prismenbehang. Hohe ca. 85 cm, Durchmesser ca. 75 cm. WIEN, UM 1800.
+- 22WANDAPPLIQUE.
+
+Gegenstick zur vorhergehenden Nummer.
+
+Vor einer reichen Hintergrundlandschaft, die links einen hohen Berg, in der Mitte und rechts Hutten und Hauser zwischen Talern und Hugeln zeigt, sind mehrere Manner und Madchen mit der Heuernte beschaftigt. Links drei Maher,in der kender alter Mann und eine arbeitende Frau. Breite,reich ornamentierte Bordure
+
+- Mitte zwischen zwei Baumgruppen ein mit Vogelfang beschaftigtes Paar, rechts ein an einem Heuhaufen schlafendes Madchen, vor einem Weidenbaum ein trinan den Seiten, etwas schmalere oben und unten. In der Mitte oben ein Doppelwappen mit drei Eidechsen, gestreiftem Feld und dem Orden vom Heiligen Geist, rechts und links ein verschlungenes Spiegelmonogramm. An der oberen Bordure
+PARIS,MANUFACTURE ROYALEDES GOBELINS,UM 1690.Wahrscheinlich
+
+Tafel 1—4.
+
+eine Blumengirlande. Hauptfarben Grun,Rot und Blau. Publiziert von Otto von Falke in,Pantheon, Februar 1930. Wolleund Seide gewirkt.Hohe 350 cm,Breite 700 cm. Atelier Jan Jans.
+
+- 24 GIUSEPPE MARIA CRESPI,ART DES (1664 Bologna 1747).
+
+Olstudien zweier ibereinandergeschobener Mannerkopfe. Der hintere mit kraftiger Gesichtsfarbe,schwarzem Bart und dunkler Kopfbedeckung, der vordere mit kahlem Schadel, grauem Bart und teilweise sichtbarer geistlicher Tracht. Ehemals Sammlung Dr. Joh. Nep. von Dantsek-Dayka, PrefBburg. Altes Verzeichnis Nr.27 als Piazzetta. Leinwand. Hohe 46 cm,Breite 38 cm. Tafel 9.
+
+Zwei Studienkopfe.
+
+- 25 CARLO MARATTI, NACHFOLGER DES (1625 Camerano,Rom 1713).
+- Anbetung Christi.
+
+In einem kellerartigen,erleuchteten Raum liegt, einige Stufen erhoht, das nackte Kind, das von der Mutter betreut und von Joseph und einem halbbekleideten Hirten angebetet wird. Im Vordergrund eine liegende Kuh, Manner und Frauen mit Gaben,im Hintergrund links eine zur Hohe fuihrende Treppe, die eine Frau herabschreitet.
+
+Altes Verzeichnis Nr.20 als Carlo Sacchi.
+
+Leinwand. Hohe 46 cm, Breite 37 cm.
+
+- 26 PAOLO CALIARI GEN. VERONESE,NACHFOLGER DES （1528 Verona, Venedig 1588).
+
+Kniefiguren. Halb von vorn Maria mit dem Kinde, hinter ihr, am linken Bildrand, Joseph. Rechts die in reiche, modische Gewander gekleidete,blonde und gekronte Heilige mit Rad und Palme, der das Kind den Ring an ihren Finger zu stecken im Begriffe ist. Dazwischen sichtbar der Kopf des jugendlichen Johannes.
+
+Verlobung der heiligen Katharina.
+
+Altes Verzeichnis Nr.2 als Andrea del Sarto.
+
+Leinwand. Hohe 64 cm,Breite 88 cm.
+
+Tafel 15.
+
+- 27 GIOVANNI BATTISTA CRESPI GEN.CERANO (1557 Cerano,Rom,Venedig,
+- Mailand 1633).
+
+Heilige Familie am Opferaltar.
+
+Die ungewohnliche Darstellung zeigt eine Szene am Opferaltar. Im Vordergrund, halb von hinten, die kniende Maria,mit der Rechten das nackte, lebhaft bewegte Kind an sich ziehend und es mit der ausgestreckten linken Hand auf das Brandopfer hinweisend. Links im Profl,nur teilweise sichtbar,Anna,rechts hinter dem steinernen Altar vor waldiger Landschaft der Oberkorper eines das Lamm schlachtenden Mannes.
+
+Tafel 12.
+
+Altes Verzeichnis Nr. 81 als Raffael-Schule. Leinwand. Hohe 109,5 cm, Breite 86 cm.
+- 28 ANDREA SIRANI, ART DES (Bologna,Erste Halfte 17.Jahrhundert).
+- Heilige Cecilie.
+
+Kniebild der sitzenden Heiligen in halber Vorderansicht. Auf dem Haupt eine turbanartige Bedeckung, blattert sie singend mit in die Hohe gerichtetem Blick in ihrem Notenheft,wahrend rechts ein Engel an der den Hintergrund fillenden Orgel sichtbar wird.
+
+Das Bild zeigt in der Komposition eine Kenntnis der Sibylle Domenichinos in der Borghese-Galerie in Rom,wahrend die Auffassung und farbige Behandlung deutVerwandtschaft.
+
+Altes Verzeichnis Nr.137 als Pietro da Cortona. Leinwand. Hohe 98 cm,Breite 74 cm.
+
+- 29 FRANCESCO TREVISANI,NACHFOLGER DES (1656 Capodistria,Venedig, Rom 1756).
+
+Aeneas rettet seinen Vater Anchises.
+
+Inmitten einer noch vom Brand verschonten offenen Halle, die rechts und links den Blick auf das brennende Troja offenlaft, schreitet Aeneas in Rustung, der seinen alten Vater uber die Schultern geworfen hat und, gefolgt von seinem kleinen Sohn und seiner Gattin Kreusa, aus der Stadt flieht.
+
+Bezeichnet links unten:F. B. V.
+
+Ehemals Sammlung Dr. Joh. Nep. von Dantsek-Dayka, PreBburg.
+
+Altes Verzeichnis Nr.17 als romische Schule.
+
+Leinwand. Hohe 100 cm,Breite 116 cm.
+
+- 30 NIEDERLANDISCHER MEISTER UM 1560, Art des Pseudo-Lombard.
+- Madonna mit Kind.
+
+In einem schmalen, loggienartigen Raum, der rechts einen rechteckigen Ausschnitt mit Ausblick auf eine Landschaft aufweist, wahrend links ein schwerer, geraffter Vorhang niederfallt, sitzt die Madonna mit dem Kinde, dem sie die Brust reicht, vor einem Tische, auf dem neben einer Blumenvase einige Kirschen und ein Apfel liegen. Die Landschaft zeigt Hauser zwischen Baumen und figurliche Staffage.
+
+Altes Verzeichnis Nr.44 als Carlo Cignani.
+
+Eichenholz. Hohe 89,5 cm, Breite 67 cm.
+
+Tafel 5.
+
+- 31 PETER PAUL RUBENS (1577 Siegen, Antwerpen 1640). Hygieia, die Gottin der Gesundheit.
+
+Vor blaulichgrunem Freilichthintergrund, der unten eine Landschaft ahnen laft, die Kniefigur der Gottin in weitem rotem Mantel, der den linken, von der Schlange aus einer kleinen Schale das Gift in den geoffneten Rachen der Schlange. Der Blick des leicht nach vorn geneigten Hauptes folgt nachdenklich diesem Vorgang.
+
+umschlungenen Arm und die linke Brust frei laft. Mit der Rechten traufelt sie Das um 1618 entstandene Bild existiert in mehreren Exemplaren, u.a. in der Sammlung des Fuirsten Lobkowitz auf Schlof Raudnitz (Abbildung in RosenbergOldenbourg,RubensKlassiker derKunst,4.Aufl.191,eite7l,alsKleopatra, Holz,130:74 cm) und in Pariser Privatbesitz.
+
+Altes Verzeichnis Nr.73.
+
+Leinwand. Hohe 108 cm, Breite 79 cm.
+
+Tafel 6.
+- 32 LODEWYK TOEPUT GEN. LUDOVICO POZZOSERRATO (ca. 1550 bis ca. 1610),hauptsachlich in Treviso tatig.
+
+Karneval-Szene.
+
+In einer flachgedeckten, offenen Halle mit Ausblick auf Hauser, Gebirgslandschaft und festliches Treiben befindet sich links ein reichbesetzter Tisch mit Musikanten, wahrend hinten und rechts maskierte und verkleidete Manner und Frauen hereinLinks vorn ein Trinkender, am Boden liegend, davor ein kleiner Musi- treten. kant, Affe usw.
+
+Zuschreibung bestatigt von Dr.R. A. Peltzer (Munchen,Pinakothek). Vielleicht ist das Bild wiedergegeben auf dem bei Wurzbach, Niederl.Kunstlerlexikon II,715 f. erwahnten Stich des Gherard de Jode nach Pozzoserrato.
+
+Altes Verzeichnis Nr.74 als Giovanni Schiavone il Medolla.
+
+Ehemals Sammlung Dr. Joh. Nep. von Dantsek-Dayka,Prefburg.
+
+Leinwand. Hohe 128 cm,Breite 160 cm.
+
+Tafel 7.
+
+- 33 GIOVANNI BATTISTA BACICCIO (1639 Genua,Rom 1709).
+
+Die Erziehung des Amor.
+
+Vor felsigem, baumbewachsenem Mittelgrund links ein altes, vermummtes Weib, das dem auf dem Schofe einer jungen Frau sitzenden und an ihrer Brust trinkenden nackten Amor eine Schale reicht. In der Linken halt der Knabe einen Bogen und blickt, wie die junge Frau, zu der von rechts mit entblofter Brust und nackten Beinen nahenden,in ein fluchtig um die Huften geschurztes Gewand gekleideten Venus empor, die ihm durch ein Brennglas Sonnenlicht spendet. Bezeichnendes Werk dieses zu seiner Zeit hochgefeierten Meisters, das in der Leichtigkeit der Technik und der lichten Transparenz der Farben an Werke wie die Allegorie in der Direzione Generale del Fondo per il Culto zu Rom u.a.erinnert.
+
+Altes Verzeichnis Nr.25 als Andrea Locatelli.
+
+Leinwand. Hohe 199 cm,Breite 145 cm.
+
+Tafel 8.
+
+- 34 LUCA GIORDANO (1632 Neapel,Rom, Neapel 1705).
+
+Opferung Isaaks.
+
+Die Bilddiagonale bestimmt die machtige Gestalt Abrahams in rotem Gewande, der mit der Linken den in der rechten unteren Ecke auf dem Brandaltar kauernden Isaak halt,wahrend sein rechter,zum Stof mit dem Opfermesser ausholender Arm von dem von links oben herabsturzenden Engel, der in scharfer Verkurzung von hinten erscheint, aufgehalten wird. Landschaftshintergrund. Interessantes Fruhwerk des Meisters unter dem Einfluf des Ribera. Altes Verzeichnis Nr.29 als Guercino. Leinwand. Hohe 167 cm,Breite 130 cm.
+
+- 35 MEISTER J. B. Romische Schule des 17.Jahrhunderts. Einzug Davids in Jerusalem. In der Bildmitte Konig David in romischer Kriegsrustung auf einem weifen Schlachtrof reitend,in der Rechten den Kommandostab. Um ihn Krieger,Manner und Frauen, die Tucher breiten und Blumen streuen. Links hinten ein Palast mit vorgelagerten Hallen, auf deren Brustung Feuerschalen stehen, und von denen aus das Volk dem Schauspiel zusieht.Von rechts hinten nahert sich der Zug der Krieger. Links unten Inschrift ,David Triumphans Jerosolymam ingreditur und die ver-
+
+schlungene Monogrammierung: J. B.f.
+Der Stil des bedeutenden Bildes deutet auf einen Nachfolger des Luca Giordano (Neapel, Rom,1632—1705),insbesondere auf Paolo de Matteis, dessen Autorschaft jedoch die Monogrammierung im Wege steht.
+
+Altes Verzeichnis Nr.38 als Jacopo de Barbari.
+
+Leinwand. Hohe 188 cm,Breite 147 cm.
+
+Tafel 12.
+
+- 36 SALVATORE ROSA (1615 Arenella,Neapel,Rom 1673). Kreuzigungeines Martyrers.
+
+und Mannern. verkurzte Gestalt niederbeugt.I Davor zwei lagernde Krieger.
+
+Vor belebter Berglandschaft rechts der Gekreuzigte,umgeben von Kriegern,Frauen Am linken Bildrand eine entsprechende Gruppe von Kriegern, darunter zwei Berittene. Der vordere in weiBem Wams und rotem Turban reitet auf einem Schimmel, zu dem sich eine mannliche, vom Rucken gesehene und stark
+
+Das Bild ist, abgesehen von seiner schonen Qualitat,vor allem dadurch interessant, dafs es Zeugnis von der Jugendentwicklung Salvatore Rosas gibt. Der starke Einfluf seines Neapolitaner Lehrers Aniello Falcone laBt vermuten, daB das Bild noch am Ende der ersten Neapolitaner Zeit, also gegen 1635,entstanden ist. Vgl. Ozzola,Salvatore Rosa, 1908.
+
+Altes Verzeichnis Nr.97 als Nicolas Poussin auf Grund einer apokryphen, bei der
+
+Reinigung des Bildes verschwundenen Signatur.
+
+Leinwand. Hohe 85 cm,Breite 133 cm.
+
+Tafel 9.
+
+- 37 MICHELE ROCCA (ca. 1670—75 Parma, Rom,Venedig nach 1751).
+- Toilette der Venus.
+
+Vor einem Baumdickicht, das rechts den Ausblick auf eine ferne Berglandschaft freilafBt, sitzt die Gottin, umgeben von drei Gespielinnen, deren eine ihr den Spiegel reicht. Links eine Nymphe mit Blumenkorb,rechts Amor und zwei ruhende Nymphen.
+
+Ein ahnliches Werk befand sich ehemals in der Galerie Brunsvik in Wien.
+
+Vgl. Hermann Vof,Michele Rocca, ein vergessener italienischer Rokokomaler, in ,Zeitschrift fur bildende Kunst", N.F.XXXII, 69 ff.,1921.
+
+Ehemals Sammlung Dr. Joh. Nep. von Dantsek-Dayka, PrefBburg.
+
+Altes Verzeichnis Nr.146 als Nicolas Lancret.
+
+Gegenstick zur folgenden Nummer.
+
+Leinwand. Hohe 47,5 cm,Breite 63 cm.
+
+Tafel 10.
+
+- 38 MICHELE ROCCA (ca.1670-75 Parma, Rom,Venedig nach 1751).
+
+Das Urteil des Paris.
+
+Vor einer Baumgruppe in der Bildmitte die drei Gottinnen, links Juno mit einem lesenden Putto,rechts Minerva mit einem mit Waffen spielenden Knaben,in der Mitte Venus, zu deren Haupten der bogenschieBende Amor herniederfliegt. Links auf einem Felsen gelagert Paris mit Hirtenstab und Apfel, aufmerksam den drei
+
+Frauen zugewandt. Landschaftshintergrund.
+
+Gegenstuick zur vorhergehenden Nummer. Vgl. die dortigen Bemerkungen. Altes Verzeichnis Nr.147 als Nicolas Lancret. Tafel 10.
+- 39/40 GIAC. FRANCESCO CIPPER GEN. TODESCHINI (Italien, 1. Halfte des
+- 18.Jahrhunderts).
+
+Kartenspieler-Mora-Spieler.
+
+mit kleiner Kappe. Sie spielen an einem mit einem Krug und Efwaren bedeckten Tisch Karten.Hintergrund freier Himmel.
+
+Auf dem ersten Bild zwei Burschen, der eine mit breitkrempigem Hut, der andere
+
+Das zweite Bild zeigt einen Kurbisverkaufer und einen zweiten Jungen, die an
+
+Gegenstucke. Besonders charakteristische Werke dieses deutschen,in Italien lebenden einem Tisch, auf dem ein Korb mit Kurbissen steht, lachend das Mora-Spiel spielen. Rechts hinten ein Baum.
+
+Meisters.
+
+Altes Verzeichnis Nr.lll—ll2 als Piazzetta.
+
+Ehemals Sammlung Dr. Joh. Nep. von Dantsek-Dayka, Prefburg.
+
+Leinwand. Hohe je 116 cm, Breite je 93 cm. Tafel 1l.
+
+## 41 NIEDERLANDISCHE SCHULE UM 1700.
+
+DerRaucher.
+
+Auf einem Stuhle sitzend ein alterer Mann mit Pelzmitze, den Blick dem Beschauer zugewandt. Er raucht eine Pfeife, die er mit der Rechten halt, wahrend er in der auf dem Knie liegenden Linken eine brennende Zigarre tragt. Rechts ein Fenster, davor ein Bort, auf dem zwei Kruge stehen.
+
+Altes Verzeichnis Nr.72 als Ostade.
+
+Ehemals Sammlung Dr. Joh. Nep. von Dantsek-Dayka, PrefBburg. Leinwand. Hohe 135 cm, Breite 101,5 cm. Tafel 13.
+
+- 42 JOHANN GEORG DE HAMILTON (1672 Brussel,Wien 1730). Eberhetze.
+
+Hunden angefallen wird. Rechts Ausblick auf Landschaft.
+
+Links sturzt aus dichtem Walddickicht ein machtiger Eber, der von zwei grofen
+
+Bezeichnet in der Mitte unten: J. G. de H. 1730.
+
+Altes Verzeichnis Nr.143.
+
+Ehemals Sammlung Dr. Joh. Nep. von Dantsek-Dayka, PrefBburg.
+
+Leinwand. Hohe 118 cm, Breite 162 cm.
+
+## 43 JAN BOTH (ca.1618, Utrecht 1652).
+
+Waldlandschaft.
+
+In der Mitte ein Gewasser, das sich in einem kleinen Wasserfall zwischen dem
+
+Gefels nach vorn windet. Links ein knorriger, blattloser Baum, rechts dichter Wald, der eine im Hintergrund sichtbare Hugellandschaft einfaft.
+
+Altes Verzeichnis Nr. 79 als angeblich signierter Andries Both.
+
+Leinwand. Hohe 100 cm, Breite 81,5 cm.
+
+Ehemals Sammlung Dr. Joh. Nep. von Dantsek-Dayka, PreBburg.
+
+Tafel 13.
+
+- 44 DOMENICO ROBERTI, ART DES (Rom,1.Halfte des 18.Jahrhunderts).
+
+Antike Ruinen mit Staffage.
+
+Rechts einige Saulen, die auf einen Torbogen mit kassettierter Wolbung zufuhren, unter dem die Statue eines Apoll steht,und der durch einen zweiten Torbogen den Blick auf eine hugelige Landschaft offnet. Im Vordergrund links zwei sitzende
+Frauen, daneben vier mit einem Bock spielende nackte Kinder. Altes Verzeichnis Nr.102 als Salvatore Rosa. Leinwand. Hohe 63,5 cm,Breite 48 cm.
+
+## 45 NEAPOLITANISCHE SCHULE DES 18.JAHRHUNDERTS.
+
+Zwischen einem knorrigen Baum im linken Vordergrund und der Ruine eines Tempels im rechten Mittelgrund wird eine zahlreiche Viehherde von reitenden und zu Fuf gehenden Hirten in eine weite Hugellandschaft hinausgetrieben. Ehemals Sammlung Dr. Joh. Nep. von Dantsek-Dayka, PreBburg. Altes Verzeichnis Nr.100 als Salvatore Rosa. Leinwand. Hohe 55,5 cm,Breite 56 cm.
+
+Ruinenlandschaftmit Viehherde.
+
+## 46-47 ANIELLO FALCONE,ART DES (1600 Neapel 1656).
+
+Mannigfach bewegte und reich belebte Landschaften, flankiert rechts und links im Vordergrund von Baumen. Als Staffage vorn jeweils eine Jagdgesellschaft zu Pferde, begleitet von Hunden und Treibern und mit dem Erlegen des Wildes beschaftigt. Das eine Bild stellt eine Eber-, das andere eine Hirschjagd dar. Die Darstellungen gehen auf Stiche des Stradanus zuruck. Altes Verzeichnis Nr.4 und 78 als Italienische Schule. Leinwand. Hohe 138 cm, Breite 192 cm.
+
+ZweiJagdszenen.
+
+Tafel 14.
+
+## 48 BOLOGNESISCHE SCHULE DES 17.JAHRHUNDERTS.
+
+In der Mitte vor (nachgedunkelter) Landschaft der kniende Christus mit betend ausgestreckten Handen, dem sich von rechts der Engel mit Kreuz und Kelch nahert. Im Vordergrund die Gestalten der drei schlafenden Junger Ehemals Sammlung Dr. Joh. Nep. von Dantsek-Dayka, PreBburg. Altes Verzeichnis Nr.22 als Tintoretto. Leinwand. Hohe 54,5 cm,Breite 43 cm.
+
+Christus am Olberg.
+
+- 49 NEAPOLITANISCHE SCHULE (2.Halfte 17.Jahrhundert).
+
+Hinter einem Tische mit Krug sitzt ein alter, weifbartiger Mann mit breitem Krempenhut. Er halt mit beiden Handen eine Flote. Dunkler Hintergrund.
+
+Flotenblaser.
+
+Das Bild gehort in den Kreis der Nachfolger des Gio. Batt. Caracciolo gen.
+
+Battistello.
+
+Altes Verzeichnis Nr.7 als Honthorst.
+
+Leinwand. Hohe 133 cm, Breite 94 cm.
+
+Ehemals Sammlung Dr. Joh. Nep. von Dantsek-Dayka, Prefburg.
+
+- 50 SCHULE DER CARRACCI (Bologna,17.Jahrhundert).
+
+Samson.
+
+schreckerfillt zuruckweichend.
+
+In der Mitte einer Saulenhalle stehend die athletische Gestalt Samsons in stark kontrapostierter Haltung, der eben seine Fesseln zerrissen hat und die Arme weit nach beiden Seiten ausreckt. Rechts fliehende Krieger, links Dalila und ein Philister,
+
+Altes Verzeichnis Nr.94.
+
+Leinwand.Hohe 200 cm,Breite 255 cm.
+51 DANIELE CRESPI, ART DES (1592 Busto Arsizio, Mailand 1630). Der Heilige Carlo Borromeo heilteinen Pestkranken. Vor einer grofen offenen Bettstatt rechts ein zusammengesunkener Mann mit in die Hohe gerichtetem Blick, gestitzt von einer mannlichen Figur, hinter der eine verzweifelt die Hande ringende Frau sichtbar wird. Links, halb kniend und mit ausgebreiteten Armen, der heilige Carlo Borromeo, dahinter eine Gruppe eifrig gestikulierender Manner.
+
+Altes Verzeichnis Nr.28 als Pietro da Cortona. Leinwand. Hohe 171 cm,Breite 130 cm.
+
+- 52 VENEZIANISCHE SCHULE (1.Halfte 17.Jahrhundert).
+
+Opferung Isaaks.
+
+In der Mitte stehend Abraham, der die Linke auf das Haupt des mit betenden Handen zusammengekauert auf dem Holzstof sitzenden Isaak legt, wahrend seine mit dem Opfermesser eben zum Stof ausholende Rechte von einem in flatternde Gewander gehullten Engel,zu dem er den Blick erhebt,zurickgehalten wird. Landschaftshintergrund.
+
+Altes Verzeichnis Nr.6 als Tintoretto-Schule.
+
+Leinwand. Hohe 174 cm,Breite 124 cm.
+
+- 53ITALIENISCHE SCHULE (Ende 18.Jahrhundert).
+
+Hagar und Ismael.
+
+Links eine kleine Baumgruppe, vor der sich die in weite, duinne Gewander gekleidete Hagar gelagert hat, die den Knaben Ismael in ihrem Schofe halt. Von rechts oben naht mit ausgebreiteten Armen ein Engel auf Wolken, zu dem die beiden emporblicken. Rechts vorn Wanderstab und Flasche, dahinter eine weite
+
+Landschaft mit Bergen in der Ferne.
+
+Leinwand. Hohe 226 cm,Breite 215 cm.
+## R W O
+
+## RT
+
+Mogen die Kunstwerke, von denen sich Graf Karolyi trennt, auh zahlenmabig gering sein, so spricht die gleichmabig hohe Qualitat dafur, dab der Wert uber die Menge gestelt ist.
+
+Die sechs Brusseler Bildteppiche, die teilweise die Brussel=Brabanter Webermarke tragen, zeigen in den klassishen Borden die Hand eines Meisters, der in der Nahe des Jan Geubels zu suchen ist. Blumen= und Fruhtefestons, Medaillons mit Landshaftsansidhten, Hermen-Satyrn= figuren und Loggien, alle diese typiscen Ornamente der Brusseler Renaissance-Bildwirkerei finden sich auf den Teppicen, die Darstellungen aus den Zugen Alexanders des Groben, Szenen aus der Geschidhte Noahs und aus den Turkenkriegen wiedergeben.
+
+Es folgen einige Knupfteppiche und Gemalde, von denen nur das fesselnde Selbstportrat Sir Thomas Lawrence genannt sein mag.
+
+Jedes Studk ein Meisterwerk seiner Epoche und seines Materials. Das moge als Eigenart hervorgehoben werden!
+- 54 ALEXANDER DER GROSSE UND DIE MUTTER DES DARIUS. In der Mitte des Bildfeldes Alexander zu Pferde. Rechts von ihm die Mutter und Frau des Darius, um Gnade flehend. Zur Linken ein Krieger, vor diesem ein Gefangener mit Schatzkasten. Im Hintergrund Zeltlager und kampfende Truppen. In der Mitte der oberen AbschluBborde eine Kartusche mit der auf blauem Grund
+
+Wolle mit Seide. Hohe 343 cm,Breite 526 cm.
+
+In der breiten,mit Blumen und Obstfestons geschmuckten Borde allegorische Figuren. befindlichen Inschrift:Matre Darius Captivus Cum Coniuge Nati Sistid Alexandro Omnibus Ac Opibus.
+
+BRUSSEL-BRABANT,UM 1580. Tafel 21.
+
+- 55 DER BETRUNKENE NOAH. Die drei Sohne Noahs finden den Vater trunken in seinem Zelt liegen. Rechts
+
+Wolle mit Seide. Hohe 345 cm,Breite 320 cm. BRUSSEL-BRABANT,UM 1600. Tafel 22.
+
+ruckwarts Weinberge, durch Figuren belebt. Breite Borde in der Art der Gartenteppiche: Fruchtwerk und Gartendurchblicke,von Frauen und Faunsfiguren belebt.
+
+- 56 SZENE AUS DEN TURKENKRIEGEN. Kampfende Kriegergruppen zu Fuf und zu Pferde. Durchblick auf eine hugelige Landschaft.Breite Borde mit Fruchtwerk und Medaillons:in diesen biblische Szenen.
+- Tafel 23.
+
+Wolle mit Seide. Hohe 340 cm,Breite 393 cm. BRUSSEL-BRABANT,UM 1600.
+
+- 57 HULDIGUNGS-SZENE.
+
+reiche Landschaft mit Gruppen von Soldaten. In der breiten Borde Medaillons mit Szenen aus der biblischen Geschichte sowie Fruchtwerk. Wolle mit Seide. Hohe 342 cm,Breite 316 cm. BRUSSEL-BRABANT,UM 1600. Tafel 24.
+
+Vor einem siegreichen Fursten mit Gefolge kniet der Gegner. Im Hintergrund baum-
+
+- 58 ALEXANDER DER GROSSE EMPFANGT DIE FRAUDESDARIUS.
+
+kommende Frau des Darius zuschreitend. Letztere bringt verschiedene Gaben. Zur scharen. Auf der gelbgrundigen Borde Fruchtefestons mit allegorischen Figuren. Wolle mit Seide. Hohe 270 cm,Breite 380 cm. Webermarke:BRUSSEL-BRABANT,UM 1580. Tafel 25.
+
+- In der Mitte des Bildfeldes Alexander zu Fuf auf die ihm mit Gefolge entgegenLinken ein Sklave einen Sack heranrollend. Im Hintergrund vorbeiziehende Krieger-
+- 59 KRONUNG EINER KONIGIN.
+
+Der unter einem Baldachin liegenden Frauenfigur wird von einer Bedienten die Krone aufgesetzt. Im Vordergrund eine Sklavin.Links im Hintergrund zwei Krieger,die dem Beschauer entgegenkommen. Breite Borde mit gelbem Grund, auf diesem reiches Fruchtwerk,von Frauenfiguren belebt. Wolle mit Seide.Hohe 285 cm,Breite 198 cm.
+
+Auf der unteren Abschlufborde die Webermarke:BRUSSEL-BRABANT,UM 1600. Tafel 26.
+- 60 WOLLENER KNUPFTEPPICH. Rundes Medaillon mit Rautenrand. Blauer Fond mit Spiralmuster in Gelb und Rot. Roter Grund mit hellblauem Rankenmuster. Die Ecken mit blauem,durch gelbe Adern belebtem Fullwerk geschmuckt. Dreifache Borde gelb-,rot- und blaugrundig mit Rankenwerk in Gelb und Blau verziert. Breite 319 cm,Lange 406 cm.(Reparaturen.) USCHAK (sogen. Medaillon Uschak),17.JAHRHUNDERT. Tafel27.
+- 61WOLLENER KNUPFTEPPICH. Blauer Fond, von grofblumigem Blattwerk in Rot und Gelb belebt. Gelbe Borde
+
+mit stilisiertem Blumenwerk.
+
+- Breite 250 cm,Lange 385 cm. (Reparaturen.) CUBA,17.JAHRHUNDERT.
+- 62 SIR THOMAS LAWRENCE (1769-1830). Selbstportrat des Kunstlers in dunklem Samtrock und weifer Krawatte. Leinwand G.R. Hohe 73 cm,Breite 60 cm. Tafel 28.
+- 63 JACQUES COURTOIS GEN.BOURGUIGNON (1621-1676).
+
+Reiterschlacht. Zu FuBe einer brennenden Festung kampfende Reitergruppen. Zur
+
+- Linken Durchblick auf eine hugelige Landschaft. Leinwand G.R. Hohe 97 cm,Breite 135 cm. Tafel 28.

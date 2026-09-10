@@ -1,0 +1,2577 @@
+<!-- image -->
+
+## Estampes en couleur
+
+DU XVIII SIECLE
+
+Par P.-L.DEBUCOURT et F.JANINET
+
+## DE BUCOURT
+
+(PHILIBERT-LOUIS)
+
+1755-1832.
+
+DEUXPENDANTS
+
+1-2
+
+## L'Escalade, ou les Adieux du matin.
+
+(M.Fenaille,n13.)
+
+## Heur et Malheur,
+
+## ou la Cruche cassee.
+
+(M.Fenaille,n°12.)
+
+Deux gravures en couleurs a quatre points de repere.
+
+Superbes épreuves imprimees en couleurs, de ces deux estampes fort rares dans l'ceuvre du maitre. Toutes deux sont du 2e état avant toutes lettres,indique par M. M. Fenaille.
+
+La premiere porte, seulement traces a la pointe,a gauche, au-dessous du trait carre, les mots:Peint et Grave par L.De Bucourt, peintre du Roy.
+
+La seconde,au meme endroit, cette inscription,egalement a la pointe:P. L.De Bucourt,1787.Toutes deux ont une marge depassant légerement l'empreinte du cuivre.
+
+Dimensions des estampes. Haut., 38 cent.;larg,29 cent.
+
+Beaux cadres anciens Louis xVI,en bois moulure, sculpte et dore,a cours d'oves et feuille d'eau.
+
+Cf.FENAILLE(Maurice):P.-L.Debucourt,nos 12-13.
+
+Reproduites pl.I.
+## JANINET
+
+(F.)
+
+3
+
+## L'Aoeu difficile.
+
+D'apres N. Lavreince (Em. Bocher,n 8).
+
+Magnifique epreuve imprimee en couleur, du ier etat, avant toutes lettres et avant le troisieme pied du fauteuil,dont l'ombre portee se voit sur le parquet. Elle est de la plus grande fraicheur, et a toute sa marge non ebarbee. De toute rarete.
+
+Cadre ancien.Louis XVI,en bois dore.
+
+Collection G.Kinen,vente a Paris,12-14 mars 18g1,n°421. Cf.BocHER (Emmanuel) :Les Gravures francaises du XVIll siecle, N.Lavreince,n°8.
+
+Reproduite pl.II.
+
+## JANINET
+
+(F.)
+
+4
+
+## L'Indiscretion.
+
+D'apres N. Lavreince (E.B.,n° 3o).
+
+Magnifique et toute premiere epreuve imprimee en couleur, avant toutes lettres, seulement le nom de F. Janinet,sculp.trace a la pointe sous le trait carre, avant que le pied de la femme qui est assise,ainsi que deux boucles de cheveux qui encadrent son visage,aient ete dessines.Elle est de la plus grande fraicheur et a toute sa marge non ebarbee. De toute rarete en cet etat.
+
+Cadre ancien Louis XVI,en bois dore.
+
+Collection G.Kinen,vente a Paris,12-14 mars 18g1,n°440. Cf.BocHER（Emmanuel),op.cit.,n 3o.
+
+Reproduite pl.Il.
+<!-- image -->
+
+## AQUARELLES Dessins, Gouaches, Pastel
+
+## BELANGER
+
+(PAUL)
+
+Ecole francaise,xvinl siecle.
+
+5
+
+## La Place Louis XV.
+
+La Seine coule au premier plan, sillonnee d'embarcations. Derriere la rive, s'ouvre la place animee de nombreux personnages. Deux carrosses, atteles de chevaux blancs, s'avancent accompagnes d'une escorte de cavaliers, tandis que des soldats contiennent les curieux. A droite, sur la terrasse des Tuileries, une rangee de spectateurs regardent le defile,a l'ombre des grands arbres.
+
+Gouache.
+
+Signee a droite :Paul Belanger,1785, et,a gauche: De Romain,1785.
+
+Haut.,31 cent.; larg.,51 cent.
+
+Vraisemblablement le n°73 d'une vente faite a 1'Hotel Drouot, les 7 et 8 mars 18g5:La Place Louis XV en 1785, gouache signee Louis (sic)
+
+Belanger et Jules Romain (sic) et portee sans indications de dimensions.
+
+Reproduite pl. IIll.
+## BOREL
+
+(ANTOINE)
+
+Paris,174318.
+
+6
+
+## Les Amours de Psyche
+
+## et de Cupidon.
+
+## LIVRE PREMIER
+
+- 《Mon fils, dit-elle, en lui baisant les yeux, La fille d'un mortel en veut a ma puissance; Elle a jure de me chasser des lieux
+- Ou l'on me rend obeissance.
+
+(FRONTISPICE.)
+
+- L'epoux que les Destins gardent a votre fille Est un monstre cruel qui dechire les coeurs, Qui trouble maint Etat, detruit mainte famille, Se nourrit de soupirs, se baigne dans les pleurs.
+- 3—“On part enfin, et Psyche se met en chemin, sous
+- la conduite de ses parents.
+- 4—αLa voila sur un char d'ebene, une urne aupres d'elle,la tete penchee sur sa mere,son pere marchant a cote du char, et faisant autant de soupirs qu'il
+- faisait de pas.
+- αTandis que Psyche considerait ces merveilles,une troupe de Nymphes la vint recevoir jusque par dela
+- le perron.n
+- 6—Au sortir du bain,on la revetit d'habits nuptiaux.
+- Reproduite pl.IV.
+- —u Cependant on avait mis le couvert dans la salle la plus prochaine. ll y fut servi de l'ambroisie en toutes les sortes. Quant au nectar,les Amours en furent leséchansons.》
+- 8—Qui que vous soyez,dit-elle, et vous ne sauriez etre qu'un Dieu, je vous tiens, o charmant epoux, et
+- je vous verrai tant qu'il me plaira.
+
+Reproduite pl.V.
+
+- —&lt; Ce n'etaient que danses et combats de Nymphes guees par des écharpes de feurs, comme par des ordres de chevalerie,se jetaient ensuite tout ce que
+- qui se separaient souvent en deux troupes et, distinFlore leur presentait.
+
+Reproduite pl.VI.
+
+- Helas! disait-elle aux arbres, je ne saurais graver IO sur votre ecorce que mon nom seul, car je ne sais pas celui de la personne que j'aime.)
+- αA son lever, elle fut tout etonnee que les Nymphes
+- lui amenerent ses sceurs.
+
+Reproduite pl.VII.
+
+- Les presents que leur fit Psyche furent des essences
+- I2 et des pierreries,force raretes a leurs maris, toutes sortes de jouets a leurs enfants.
+- 13 3—Les voici, dit ce couple, et nous vous assurons De la clarte que fait la lampe. Pour le poignard,il est des bons, Bien affile,de bonne trempe.）
+- 14 — La,finit de Psyche la gloire et le bonheur. Reproduite pl.VIll.
+
+## LIVRE SECOND
+
+- 15— La pauvre epouse se trouva seule sur le rocher,
+- demi-morte,pale,tremblante et tellement possedee de son excessive douleur,qu'elle demeura longtemps les yeux attaches a terre sans se connaitre et sans prendre garde qu'elle etait nue.)
+
+(FRONTISPICE.)
+
+- 16 Aussitot elle se precipita dans le feuve, bien etonnee de se voir incontinent entre les bras de Cimadoce et de la gentille Nais.
+- α C'etait un tronc a demi pourri, avec deux batons
+- 17 一 de saule pour garde-fous.
+- 18
+- 3-α Pendant que Psyche dormait,les Bergeres coururent aux fruits. On lui en fit prendre a son reveil et un peu de lait; il n'entrait guere d'autre nourriture en ce lieu.
+- 19—Et qui es-tu, insolente qui oses ainsi m'approcher?
+- Ici,repose Myrtis, qui parvint a la royaute par ses 20 charmes et en acquit le surnom d'Aphrodisee.
+- 21 Cytheree la fit monter effectivement sur son char, mais ce fut avec trois divinites de sa suite peu gracieuses.., la Colere, la Jalousie et I'Envie.
+- αDragon, gentil dragon a la gorge beante,
+- 22 一 Je suis messagere des Dieux.
+- 23 3——《Puis,sans tarder davantage,elle mit entre les mains de Psyche une boite bien fermee, avec defense de l'ouvrir et avec charge d'assurer Venus de son amitie.)
+- 24 一 αPsyche ouvrit la boite en tremblant et a peine l'eut-elle ouverte qu'il en sortit une vapeur fuligi neuse,une fumee noire et penetrante qui se repandit, en moins d'un moment, par tout le visage de notre heroine et sur une partie de son sein.
+- 25 -a ll s'agenouilla d'abord aupres de Psyche et lui souleva une main, laquelle il étendit sur la sienne; puis, usant de l'autorite d'un dieu et de celle d'un mari,il y imprima deux baisers.
+- 26— Je me rends, dit-elle, Psyche, oubliez le mal que
+- je vous ai fait.）
+
+Suite d'aquarelles pour illustrer le poeme de La FoNTAINE, publieen 1671.
+
+Les sujets principaux mesurent:Haut.,17 cent.; larg.,12 cent. Les frontispices:Haut.,6 cent.;larg.,12 cent.
+
+Cadres en bois sculpte.
+
+Collection Leon Decloux,vente a Paris,les 14 et 15 fevrier 18g8,n1o du catalogue.
+
+On lit dans le catalogue:a Elles ont ete executees au commencement du regne de Louis XVI et nont jamais ete éditees(au xvinsiecle),selon leur destination.Le peintre a suivi fidelement le texte du poete et,pour en rendre les episodes les plus fameux,il a produit des compositions du gout le plus exquis,remarquables autant par la grace et la purete du dessin que par la fraicheur et la delicatesse du coloris.
+
+Ces aquarelles, d'une intacte conservation,nous donnent une haute idee du talent de lartiste dont elles restent l'ceuvre capitale.
+## COYPEL
+
+(CHARLES-ANTOINE)
+
+Paris,1694 +Paris,1752.
+
+7
+
+## Portrait de l'artiste.
+
+Le visage de face, le front large et bombe sous une ample perruque poudree, dont les frisures lui retombent gracieusement sur l'épaule,les yeux vifs,les levres fines,le peintre s'est reprsente a mi-corps, debout pres de son chevalet. Drape dans un grand manteau de velours rouge, le torse de trois quarts vers la droite, la taille cambree, il est vetu d'un habit brun garni de boutons dores et passemente d'or. Ses mains se degagent d'un nuage de dentelles, l'une est ouverte, l'autre repose sur son carton a dessins. Devant lui, sur une table, un porte-crayon.
+
+On releve sur le carton a dessins la tres interessante inscription autographe :Charles Coypel s'est peint lui-meme pour Philippe Coypel, son frere et son ami qui plus est,1734.
+
+Pastel.
+
+Cadre en bois sculpte.
+
+Reproduit pl.IX.
+
+Haut.,98 cent.；larg.,8o cent,
+## DUMONT
+
+(JACQUES,ditLE ROMAIN)
+
+Paris,1701 Paris,1781.
+
+8
+
+## pour la reception de l'ambassadeur
+
+## Fete donnee a Rome de France.
+
+D'apres Panini.
+
+Sur une place, decoree d'une fontaine surmontee d'un monolithe et qu'encadrent deux monuments a portiques ornes de trophees,de nombreux personnages sont spirituellement repartis : dames, gentilshommes, moines,ecclesiastiques, ouvriers procedant encore aux derniers apprets de fete. Au fond,un édifice a coupole.
+
+Dessin au lavis d'encre de Chine et de bistre, sur papier chamois,rehausse de gouache.
+
+Signe a gauche :J. Dumont le Rom. La signature est suivie d'une inscription en partie cachee par la monture.
+
+Haut.,38 cent.;larg.,88 cent.
+
+Cadre en bois sculpte.
+
+Collection Poncelet,d'Auxerre,vente a Paris,les 25-26mars 1873,n°178 du catalogue.
+
+Reproduit pl.X.
+## HOIN
+
+(CLAUDE-JEAN-BAPTISTE)
+
+Dijon,1750+Dijon, 1817.
+
+y
+
+## Mme Dugazon, dans le role de Nina, ou la Folle par amour.
+
+Les cheveux denoues, le visage pathetique, en fichu de gaze rayee, corsage jaune,robe de mousseline blanche a dessous roses, la triste amante de Germeuil s'elance dans une allee bordee de roses tremieres, vers la grille du parc ou elle attend son retour. Elle tient un bouquet dans la main droite et, derriere elle, on apercoit un banc a lombre d'un bosquet.
+
+Gouache.
+
+Signe sur une pierre de la grille :Cde Hoin, P. de M.
+
+Haut.,25 cent.;larg.,1g cent.
+
+(peintre de Monsieur),1789.
+
+Vente Tondu,r865.
+
+Collection des Goncourt,vente a Paris,les 15-17 fevrier 1897,n125 du catalogue.
+
+Exposition des dessins de maitres a 1Ecole des Beaux-Arts,1879, n°639.
+
+Composition differente de la gouache celebre de la collection Mulbacher, datee 1786 et gravee en 1787 par Janinet.
+
+uTrois ans plus tard, en 178g, Claude Hoin refait encore une Dugazon dans le meme role. C'est la ravissante gouache trouvee par les Goncourt, admiree longtemps dans leur collection et qui n'a pas peu contribue a restituer sa vraie place a l'artiste oublie. Plus librement executee dans sa preciosite,les amateurs la preferent generalement a celle qui a ete gravee.Tres elegante d'aspect, nous ne connaissons pas dans I'ceuvre de l'artiste de morceau qui lui
+eu grand plaisir a la revoir dans l'elegant salon ou elle a trouve asile.
+
+Baron RoGER PoRTALIs : Claude Hoin,p.29;reproduite p.31.
+
+Nina ou la Folle par amour fut representee a la Comedie-Italienne le 1g mai 1786. Le livret en est de Marsollier, la musique de Dalayrac. Mme Dugazon y remporta le succes le plus grand. Mme Vigee-Lebrun dans ses Souvenirs ecrit:a On n'apercevait plus I'actrice.je crois avoir vu Nina vingt fois au moins et chaque fois mon attendrissement a ete le meme ,et Grimm: uJamais on n'a deploye une sensibilite plus exquise et plus profonde.
+
+Lorsqu'elle chantait I'ariette:
+
+Quand la bien-aimereviendra Pres de sa languissante amie, Le printemps alors renaitra,
+
+L'herbe sera toujours fleurie, Mais je regarde,helas! helas! Le bien-aime ne revient pas!
+
+I'emotion des spectateurs etait extreme.
+
+Reproduite pl.XI.
+## LAVREINCE
+
+(NICOLAS LAFRENSEN,dit)
+
+Stockholm,1737+ Stockholm,1807.
+
+10
+
+## La Diseuse de bonne aventure.
+
+Une devineresse est assise, vue de profil, dans un interieur rustique, devant un jeu de cartes etalees sur une table. Vetue d'un corsage blanc raye de vert et d'une jupe rouge, coiffee d'un bonnet rose, des besicles sur le nez,elle etudie en souriant les lignes de la main d'une jeune fille venue la consulter. En robe de soie rayee, decolletee, a manches courtes, un bouquet de roses a l'échancrure du corsage, celle-ci écoute, fort émue, les predictions de la vieille chiromancienne. Une dame l'accompagne,la tete legerement inclinee sous un grand bonnet de dentelles, le visage heureux des promesses de bonheur qu'elle semble apprendre. Elle porte un mantelet noir croise sur une guimpe de mousseline et tient un eventail ferme de la main gauche. Dans la penombre, a droite, un jeune homme, les bras. poses sur le dossier d'une chaise, contenant d'une main les battements de son coeur, écoute anxieusement les revelations auxquelles il parait attacher l'interet le plus vif. Un rideau retombe, a gauche, sur le fauteuil de la diseuse d'aventures et des livres de magie gisent a terre, pres d'une cruche de gres. Au fond, sur une tablette fixee a la muraille, des facons et un sablier.
+
+Gouache.
+
+Haut.,47 cent.;larg.,55 cent.
+
+Collection G. Mulbacher,vente,a Paris,les 15-18 mai 18g9,n°178 du catalogue.
+
+Reproduite pl. XII.
+## PRUD'HON
+
+(PIERRE-PAUL)
+
+Tournus,1758 +Paris,1823.
+
+11
+
+## Syloie et le satyre.
+
+Sylvie nue,les cheveux épars, est etendue sur un tertre,les bras lies, au pied d'un arbre. Le satyre se penche vers elle, tandis que Daphnis éploree cherche a le retenir. Au fond, Aminta et Tircis accourent a son appel.
+
+Sepia sur papier blanc.
+
+Haut.,11 cent.;larg.,6 cent.1/2.
+
+Grave par RogEr.Ed.de Goncourt mentionne quatre etats de cette gravure:
+
+Catalogue raisonne de l'Euvre,p.231.
+
+Exposition de dessins de maitres anciens,1879,n°664.
+
+Exposition Prud'hon,mai 1874,n°273.
+
+Collection A. Renouard.
+
+Collection Henry Didier,vente,a Paris,les 10-1 juin 1868,n140 du catalogue.
+
+Collection Alexandre Dumas,vente,a Paris,le 12 mai 18g2,n°21o du catalogue,et vente du 2 mai 18g6,n°113 du catalogue.
+
+Collection G.Mulbacher,vente,a Paris,les 15-18 mai 1899,n°237 du catalogue.
+
+u Le catalogue Renouard dit que les peines et le temps que couterent a Prudhon ce dessin lui firent refuser,malgre offres et supplications, de continuer a executer,avec le meme procede,les dessins qu'il avait promis pour I'Imitation deJesus-Christ,Abrocome et Auzia,le Daphnis et Chloe d'Annibal Caro. Il ne voulut les illustrer quavec des dessins au crayon noir rehausses deblanc.（ED.DE GoNcouRT,op.cit.,Pp.231-232.)
+
+Cite et reproduit (pl.xv) dans CH. CLEMENT:Prud'hon,sa vie,ses ceuvres et sa correspondance.(Edit.Didier et Cic,Paris,1872.)
+
+Catalogue par M. JeaN GuiFFREy:l'Euvre de Pierre-Paul Prud'hon, p.3g6,n°1o45.-Reproduit,meme ouvrage,pl.xxvi1l.
+
+Ce precieux dessin fut execute par P.-P. Prud'hon pour l'illustration de 1'Aminta,favola boschereccia di Torquato Tasso.(Edit.Ant.Aug.Renouard, 1800.)
+
+Reproduite pl.XI.
+<!-- image -->
+
+## Tableau Moderne
+
+## FORAIN
+
+(JEAN-LOUIS)
+
+Reims,1852.
+
+12
+
+## Scene d'audience.
+
+L'avocat est debout a son banc, a droite,la main gauche posee sur ses dossiers. Derriere lui, l'accusee coiffee en bandeaux sous un chapeau garni de feurs, montre son visage anxieux, pres d'un garde. A gauche, les yeux tournes vers le defenseur, un' second avocat ecoute,vivement interesse, la plaidoirie de son confrere.Au fond, un cinquieme personnage.
+
+Toile.Haut.,go cent.;larg., 86 cent.
+
+<!-- image -->
+
+Signe a droite.
+
+Reproduit pl. xlll.
+<!-- image -->
+
+## Tableaux Anciens
+
+## BOUCHER
+
+(FRANCOIS) Paris,1703Paris,1770.
+
+PENDANT DU SUIVANT
+
+13
+
+## Le Moulin.
+
+Un moulin a eau s'eleve,a droite,au bord d'une riviere traversee par une passerelle de bois. Des pigeons roucoulent sur son toit de chaume. Une jeune villageoise,accompagnee d'une fillette, se tient a lentree du petit pont pour assister au depart d'un berger qui séloigne, conduisant son troupeau au paturage, et se retourne vers elle en lui souriant. Elle porte, sous un corselet lilas, une robe jaune dont la jupe est relevee sur un jupon rouge. Pres d'un bouquet de vieux saules, au premier plan, une jeune fille, assise sur une souche, regarde un petit pecheur debout, sur un rocher. Au fond, les toits d'une ferme parmi les arbres.
+
+Signe a droite, vers le bas, et date :1761.
+
+Toile. Haut.,46 cent.; larg., 66 cent.
+
+Cadre en bois sculpté.
+
+Reproduit pl.XIV.
+## BOUCHER
+
+(FRANCOIS)
+
+PENDANT DU PRECEDENT
+
+## 14
+
+## La Peche.
+
+Une riviere coule derriere un bouquet de vieux saules entre des rives verdoyantes.Assise,a droite et au premier plan,sur la berge, une jeune femme,vetue d'une robe jaune sous un corselet bleu, trempe sa ligne dans le courant. Pres d'elle, un batelet est amarre a un piquet et un garconnet joue dans I'herbe. Un chemin accidente longe,a gauche,le bord et un patre y apparait monte sur un cheval blanc, precedant son troupeau. Une villageoise l'accompagne. Un édifice en ruine dresse, sur la rive opposee, sa masse parmi les arbres, sous un ciel que le soir teinte deja d'un peu de rose.
+
+Signe en bas, sur une pierre, et date: 1761.
+
+Cadre en bois sculpte.
+
+Toile.Haut.,46 cent.;larg.,66 cent.
+
+La production artistique de F. Boucher,en l'annee 176r, semble avoir éte assez feconde. Si le livret du Salon est quelque peu bref et assez imprecis dans la designation des toiles qu'il y exposa :N9,par M.Boucher,Recteur, Pastorales et Paysages sous le meme Numero ,nous savons,par le catalogue illustre de Gabriel de Saint-Aubin conserve a la Bibliotheque nationale,au cabinet des estampes,que ces &amp; Pastorales et Paysages  etaient au nombre de six.L'inimitable crayonneur en a surpris et note,avec quelle prestesse, la composition en marge de son precieux livret (cf. EMILE DacieR:Catalogues de ventes et Livrets de Salons illustres par Gabriel de Saint-Aubin,Paris,1gii): A gauche, dans un ovale,un berger galant,assis sur un tertre, cueille des feurs pour une belle dont la tete s'abandonne sur son epaule.A droite,deux autres ovales figurant,l'un: deux nymphes endormies surprises par un sylvain, l'autre: Jupiter, sous les traits de Diane, leurrant la credulite de Callisto.En bas du feuillet,une grande toile a la maniere de Benedetto di Castiglione et deux autres paysages dont la composition s'apparente un peu avec celle du Moulin et deu la Pecheet devant lesquelsDiderot s'arrete longuement et ecrit:u Quelles couleurs! quelle variete! quelle richesse d'objets et d'idees!... il n'y a aucune.partie de ces compositions qui, separee des autres,ne vous plaise... Boucher a un faire qui lui appartient tellement, que dans quelque morceau de peinture quon lui donnat une figure a executer, on la reconnaitrait sur le champ.n Salon de 1761.
+
+Reproduit pl. XV.
+catalogue.
+
+## FRAGONARD
+
+(JEAN-HONORE)
+
+Grasse,1732+Paris,1806.
+
+15
+
+## Jeune Fille, en buste.
+
+Jeune fille blonde,aux cheveux ondules, vue de face,un cote du visage dans l'ombre, de petites boucles d'or aux oreilles, un collier autour du cou, les épaules enveloppees d'une mantille de dentelle noire a travers laquelle apparait confusement le ton jaunatre de la robe.
+
+Toile. Haut., 39 cent.; larg.,3o cent.
+
+Collection G.Rothan,vente, a Paris,les 2g-31 mai 18go,n° 147 du
+
+Exposition de I'Art francais au service de la science.
+
+Cite et catalogue dans Honore Fragonard, sa vie et son euvre, par le baron Roger Portalis,p.290.
+
+Reproduit pl.XVI.
+## FRAGONARD (JEAN-HONORE)
+
+16
+
+## L'Amour captif.
+
+Eros, surpris par le sommeil, repose,a gauche, dans un bosquet fleuri. Une jeune fille en tunique blanche, quenveloppe une echarpe rose, s'est approchee avec precaution et, s'agenouillant, a saisi l'une des ailes du petit dieu volage pour lui couper les pennes. Son amant, accouru, s'interpose et la dissuade de son dessein.A terre,un carquois.
+
+Toile.Haut.,45 cent.;larg.,37 cent.
+
+Collection G. Rothan, vente,a Paris,les 2g-31 mai 18go,n° 146 du catalogue.
+
+Vraisemblablement le meme tableau que celui mentionne par le baron Roger Portalis sous la designation :Jeune femme voulant couper les ailes alAmour endormi; esquisse sur toile (h.,45 cent.;1.,37 cent.) citee comme ayant figure a une vente **, faite en fevrier 1878. Honore Fragonard,op.cit,p.280.
+
+Reproduit pl. XVII.
+## HOPPNER
+
+(JOHN)
+
+Londres,1758+Londres,1810.
+
+17
+
+## Portrait presume de Lady Fitz Herber.
+
+La chevelure bouclee et paree d'un ruban blanc, le visage tourne de trois quarts vers la gauche, elle est representee a mi-corps sur un fond de verdures. Elle sourit. Un fichu de mousseline couvre ses epaules et croise sur son corsage blanc.
+
+Toile.Haut.,75 cent.;larg.,63 cent,
+
+Cadre en bois sculpte.
+
+On lit dans les Souvenirs de Mme Vigee-Le Brun, t.II,pp.138,139:
+
+Le prince de Galles... etait d'une elegance recherchee, d'une magnificence qui allait jusqu'a la prodigalite: car il eut un moment, dit-on,pour trois cent mille louis de dettes,que son pere et le parlement finirent par payer. Comme il fut longtemps un des plus beaux hommes des trois royaumes, il se vit l'idole des femmes. Sa premiere maitresse fut Mistriss Robenson; puis, quelque temps apres, il eut un engagement plus serieux avec Mistriss Fitz Herbert, veuve,plus agee que lui,mais d'une extreme beaute. Son amour fut si violent alors, qu'on craignit un moment qu'il ne voulut se marier avec cette femme, issue d'une des premieres familles catholiques d'Irlande. Son inconstance naturelle le sauva de ce danger,et depuis,un grand nombre de femmes succederent a Mistriss Fitz Herbert.
+
+Reproduit pl. XVIII.
+## LABILLE-GUIARD
+
+(Mme ADELAIDE)
+
+Paris,1749 + Paris,1803.
+
+18
+
+## Portrait de la Comtesse de Seloe.
+
+Au moment ou Mme Guiard l'a peinte, la comtesse de Selve etait une jeune femme de vingt-huit a trente ans peut-etre,au teint colore, a la physionomie animee et spirituelle. Elle est assise,vetue d'une robe de velours gris aux refets chatoyants, échancree sur la poitrine garnie de dentelles. Les yeux bruns regardent de face,la bouche est d'un dessin exquis;la figure bien parisienne, aux cheveux releves a la mode du temps et en poudre, est surmontee d'une large toque de velours assortie a la robe,qu'ombrage une plume d'autruche; une main reste dans la penombre, lautre feuillette un cahier de musique pose sur un gueridon en bois de rose. （Baron RoGER PoRTALIs,
+
+Gazette des Beaux-Arts, annee 1go2,p.11o.)
+
+Signe et date: 1787.
+
+Cadre en bois sculpte.
+
+Vraisemblablement le portrait de Mme de ** faisant de la musique, expose par l'artiste au Salon de 1787.
+
+Reproduit dans la Gazette des Beaux-Arts,op.cit.,p.I11.
+
+Reproduit pl.XIX.
+
+Toile. Haut., gi cent.; larg., 7I cent.
+## LANCRET
+
+(NICOLAS)
+
+Paris,169o +Paris,1743.
+
+19
+
+## Scene d'opera.
+
+Sur la terrasse d'un parc dominee,a gauche, par un large portique, des musiciens et des danseurs sont reunis autour d'un buste dresse sur une gaine de marbre et enguirlande de feurs. Un personnage, a droite, casque de plumes, en habit lie de vin, une écharpe blanche nouee a la taille, danse entre deux ballerines. L'une, en robe de mousseline rose, écharpe bleue, les bras écartes, presente une guirlande de feuillage et de feurs. L'autre, en robe verte, jupe jaune, tient une houlette.Elle est accompagnee d'un tambourinaire vetu de rose et pare de rubans bleus. L'orchestre,au centre, est conduit par un maestro en habit rouge, gilet jaune,assis devant un pupitre supportant une partition. A gauche, un personnage vetu de satin rouge, drape d'une peau de panthere, une epee a tete d'aigle au cote, designe les danseurs de la main gauche. Pres de lui,une jeune femme en robe de satin jaune, paree d'un diademe, semble chanter. Derriere elle, on apercoit un cortege chatoyant de figurants. Au second plan,un jet d'eau fuse sur un fond de verdure. A droite, un sphinx de pierre et des instruments de musique epars dans I'herbe.
+
+Dessus de clavecin.
+
+Le panneau a ete agrandi pour des convenances d'encadrement.
+
+Les mesures sont :a) Cote gauche : Haut., 6g cent. b) Cote droit : Haut., 40 cent. Larg., I m. 03.
+
+Cadre en bois sculpte.
+
+Cet admirable dessus de clavecin apparait comme un peu exceptionnel
+dans lceuvre de Nicolas Lancret. Cette composition pourrait meme evoquer un pinceau plus prestigieux. L'autorite de la tradition s'accorde toutefois avec la critique contemporaine pour la donner au maitre. C'est ainsi,par exempie, que M. GeoRGEs WiLDENsTEIN, dans son tres bel et si érudit ouvrage sur Lancret,qui apporte a lhistoire de lart une nouvelle et precieuse contribution, classe cette page importante parmi les peintures authentiques de lartiste, p.8g,n 26g du catalogue de l'ceuvre.-Reproduit, meme ouvrage, sous la designation que nous lui conservons: Scene d'opera, pl.177.
+
+Exposition du Paysage francais de Poussin a Corot,Palais des Beaux-Arts de la Ville de Paris,mai-juin 1g25,n164du catalogue, sous la designation: Fete dans le parc deVersailles.
+
+Reproduit pl.xx.
+
+## LANCRET (NICOLAS)
+
+20
+
+## Les Colombes.
+
+Une jeune fille en corsage rose,jupe bleue, tablier blanc,est assise sur un tertre,au bord d'un sentier. Derriere elle,un jeune homme lui indique deux colombes qui se becquetent, a droite, parmi les branches.
+
+Toile.Haut.,38 cent.; larg.,48 cent.
+
+Cadre en bois sculpte.
+
+Cite et catalogue par M. GEoRGEs WILDENSTEIN :Lancret, catalogue de 1'ceuvre,op.cit.sous len461,p.101.
+
+Reproduit pl.XXI.
+## LAWRENCE
+
+(SIR THOMAS)
+
+Bristol,176g+Londres,1830.
+
+21
+
+## Portrait presume de Miss Fitz Gerald.
+
+Les boucles brunes sous un chapeau garni d'une plume et regarde en souriant vers la droite. Elle porte un corsage de noire, le visage presque de face, elle est representee a mi-corps soie sombre, aux manches courtes et bouffantes,largement decollete sur une guimpe de mousseline.
+
+Toile.Haut.,76 cent.;larg.,62 cent.
+
+Cadre en bois sculpte.
+
+Reproduit pl. XXI1.
+## ROBERT
+
+(HUBERT)
+
+Paris,1733+Paris,18o8.
+
+22
+
+## Les Marches d'eau.
+
+Une svelte statue decore, a gauche, le depart d'un escalier d'eaux dont les degres ruisselants se perdent sous une voute de verdures denses et deja dorees par lautomne. Deux jeunes femmes sont arretees pres de son socle, qu'entoure une floraison de passe-roses. L'une est en robe claire et coiffe d'un large chapeau garni d'un simple ruban; l'autre, vue de dos, porte une robe de soie mordoree a paniers. Elles contemplent le spectacle irise des jeux de l'eau. Une fllette les accompagne. Ciel delicat.
+
+Toile.Haut.,26 cent.;larg.,21 cent.
+
+Cadre en bois sculpté.
+
+Collection Rothan,vente,a Paris,les 29,3o,31 mai 18go,n°197 du catalogue.
+
+Reproduit pl. XxIII.
+## ROBERT
+
+(HUBERT)
+
+23
+
+## Le Temple de l'Amour.
+
+Une jeune femme, en robe bleue, paree d'un fichu de gaze, est assise dans un parc, pres d'une statue au socle de marbre enguirlande de festons de bronze. Elle se penche vers une colombe qui s'est posee sur ses genoux et la caresse de la main gauche. De l'autre main, elle tient un ruban noue au collier d'un chien quemeut la presence de loiseau.Au fond,un petit temple de l'amour dresse son elegante colonnade, au detour d'une allee, parmi la grace des verdures.
+
+Signe en bas, au centre, et date: 1785.
+
+Bois.Haut.,32 cent.;larg.,25 cent.1/2.
+
+Reproduit pl.xxIV.
+## SCHALL
+
+(JEAN-FREDERIC)
+
+Strasbourg,1752+Vers 1835.
+
+24
+
+## Le Portrait cheri.
+
+Dans un clair boudoir, tendu de brocatelle bleue et orne d'un petit ovale figurant le grand emoi d'une nymphe surprise par un satyre, une jeune femme est assise sur un canape decore de colombes qui se becquetent. Elle approche un medaillon de ses levres. Une lettre qu'elle tient de la main droite provoque ce joli mouvement d'effusion. Elle sourit, heureuse, a limage de l'absent et son visage s'avive de plaisir sous un chapeau de paille aux bords coquettement releves et garni d'une touffe de roses rouges. Elle est en robe de soie rose ajustee a la taille, tres decolletee sur les epaules,et dont la jupe a paniers,quécarte une jambe relevee, s'agremente d'un large volant de mousseline. A gauche, un rideau retombe sur un coussin bleu galonne d'or; au centre, un petit chien; a droite, sur un gueridon, des feurs.
+
+Bois.Haut.,28 cent.;larg.,22 cent.
+
+Cadre en bois sculpte.
+
+Composition gravee par BoNNET sous le titre ci-dessus.
+
+Reproduit pl. XxV.
+## VANLOO
+
+(CHARLES-ANDRE,dit CARLE)
+
+Nice,1705  Paris,1765.
+
+25
+
+## Portrait de jeune femme.
+
+La chevelure poudree, le visage souriant et vu de face, elle est representee assise et paree d'une elegante robe de soie jaune au corsage garni de noeuds de ruban. Son bras gauche repose sur un coussin de velours yert galonne d'or.
+
+Bois.Haut.,37 cent.;larg.,31 cent.
+
+Cadre en bois sculpte.
+
+Reproduit pl. XxVI.
+## VIGEE-LE BRUN
+
+(MmeELISABETH-LOUISE)
+
+Paris,1755+Paris,1842.
+
+26
+
+## Portrait de Marguerite Baudard
+
+## de Saint-James, marquise de Puysegur.
+
+Elle est representee debout, vue a mi-jambes, les mains croisees sur une cruche de gres posee sur la margelle d'un puits. La tete legerement inclinee sur l'épaule, le visage de face, elle sourit. Un grand voile de linon est drape sur sa chevelure poudree et bouclee sous un large chapeau de paille d'Italie. Elle est vetue d'un corsage rouge decollete et d'une jupe de soie de couleur puce relevee a la taille sous une ceinture noire. Fond de muraille, a gauche, et de ciel, a droite.
+
+Signe a gauche, en bas, et date:1786.
+
+Haut., 1 m.04;larg.,75 cent.
+
+Mentionne dans Les Souvenirs, de Mme Vigee-Le Brun, t.II, p, 363.
+
+uVoici ce qua demande la comtesse,de Puysegur pour apparaitre a jamais en laitiere. Elle a voulu les bras nus, la poitrine largement decouverte sous un corsage de laine rouge sans nul ornement;la jupe de laine brune la plus rude; les deux mains,fort belles du reste,croisees sur la cruche de gres posee sur la margelle d'un puits. Point de rouge assurement, et le teint frais de la femme des champs;rien ne revelerait donc, sous le chapeau de paille denue de rubans et de feurs, que cette belle paysanne a sa place a la Cour, sans le doigt de poudre qui reste dans les cheveux et quon n'a pas voulu sacrifier. Cette toile a éte peinte en 1786.P.De NoLHac, Mme Vigee-Lebrun,peintre de la reine Marie-Antoinette,p.66.
+
+Cite par le baron RoGER PoRTaLis, dans son etude sur Adelaide LabilleGuiard,op.cit.,p.110.
+
+Reproduit pl. XxVII.
+<!-- image -->
+
+## Objets d'Art et d'Ameublement
+
+## OBJETS DE VITRINE
+
+## MINIATURES,BOITES,TABATIERES,ETUIS CARNETS,NECESSAIRES
+
+## MONTRES,ETC.
+
+- 27- BorTe ronde en ecaille brune doublee interieurement d'or et ornee, sur le couvercle, d'une miniature ovale peinte en émail et en couleur:portrait d'une jeune femme pincant de la harpe. Cercle de demi-perles. Epoque Louis XVI.
+
+Haut. de l'émail, 6o millim.
+
+Reproduite pl. XxVIII.
+
+- 28— MInIATuRE ovale attribuee a Hall :portrait de jeune
+- femme decolletee,les épaules couvertes d'un col de fourrure borde de dentelle,la chevelure paree de feurs. xvin siecle. Cadre-reverbere en argent dore.
+
+Haut.,56millim.
+
+Reproduite pl. XxVIII.
+- 29— MInIATuRE ronde peinte en email, attribuee a Hall: portrait de jeune femme decolletee, vue en buste, de face, les epaules couvertes d'un fichu de gaze, la chevelure paree de roses. xvime siecle. Cadre en argent dore, filet d'email bleu et demi-perles.(Coup de feu dans I'émail.)
+
+Reproduite pl. XxVIII.
+
+Diam., 67 millim.
+
+- 3o- MiniATuRE ovale attribuee a Fragonard:portrait presume
+- de Mer le Dauphin, represente en buste, presque de face, vetu d'un habit raye avec col de dentelle. xvine siecle. Cadre en bronze dore.
+
+Reproduitepl.XxVIlI.
+
+- —MiNIATuRE ovale anglaise attribuee a Cosway :portrait de jeune femme en buste, vetue d'un corsage blanc decollete; un ruban bleu orne sa chevelure. xvine siecle. Cadre
+
+Haut.,53millim.
+
+Diam., 75 millim.
+
+Diam.,6o millim.
+
+- 31 ajoure en argent serti de roses.
+
+Reproduite pl. xxvIII.
+
+- 32—MiNIATuRE ronde de 1Ecole francaise, presentant, en buste,le portrait d'une jeune femme vetue d'une robe a corsage decollete; sa chevelure, qui retombe en boucles jusqu'a sa taille, est ornee dune coiffe en tulle et rubans. xvin siecle. Cadre a reverbere.
+
+Reproduite pl.XxVIII.
+
+- 33 —MiNIATuRE ronde attribuee a Hall,non signee, representant,en buste,presque de face,une jeune femme sur fond de verdure. Elle est vetue d'un corsage decollete borde de dentelle, les epaules recouvertes d'une gaze, et la coiffure, retombant en boucles sur la nuque, est paree de fleurs et de rubans. xvine siecle. Cadre-reverbere.
+
+Reproduite pl.XXIX.
+
+Haut., 7o millim.
+- 34— MiniaruRE ronde attribuee a Augustin:portrait presume de la Duchesse d'Orleans, representee a mi-corps, assise sur un canape, le bras gauche appuye sur un coussin et tenant dans sa main droite un livre. Elle est vetue d'une robe de mousseline avec corsage decollete et ceinture bleue. Une coiffe de linon orne sa chevelure, xvinr siecle Cadrereverbere.
+
+Reproduite pl. XXIX.
+
+- 35- MIniaTuRE ronde attribuee a Hall, non signee. Elle represente une jeune femme en buste, presque de face, sur un fond de verdure. Elle porte une robe avec corsage de linon borde de dentelle; des rubans bleus ornent les manches et la taille. Sa coiffure, retombant en boucles sur la nuque, est paree de fleurs. xvin siecle. Cadre en bois moulure, sculpte et dore.
+
+Reproduite pl. XXIX.
+
+- 36-37-Deux PETITEs GouAcHEs rondes attribuees a Van Blarenberghe, non signees, representant, lune une Chasse a courre, l'autre une Fete de village, animees toutes deux d'une foule de petits personnages. xvi siecle. Cadresreverberes.
+
+Reproduites pl.XXIX.
+
+- 38— MINIATuRE ronde par C.-J.-B.Hoin, signee et datee
+- 1723:portrait de femme assise, decolletee et tenant sur ses genoux une corbeille de fleurs. xvine siecle.
+
+Diam., 71 millim.
+
+Reproduite pl.XxX.
+
+Diam.,72 millim.
+
+Diam.,65 millim.
+
+Diam., 75 millim.
+- 3g-MINIATuRE ovale peinte a la gouache, attribuee a J.B.
+- Greuze, et presentant le portrait presume de sa femme, nee Babuty. Elle est representee en buste, decolletee,vetue d'une robe a corsage recouvert dun fichu croise sur la poitrine et la chevelure enveloppee dans une coiffe de dentelle ornee d'un ruban. xvime siecle.
+
+Haut.,7o millim.
+
+Reproduitepl.Xxx.
+
+- 40'-GRANDE MINIATuRE ronde par Dumont, signee et datee 1785 :portrait de jeune femme en costume de bergere. xvine siecle. Cadre en bronze dore. Sur le cote droit, on lit:Bonte,beaute,jointes a la simplicite,tout passe sur la
+- terre,le souvenir seul reste.
+
+Reproduitepl.Xxx.
+
+- 41 GRANDE MINIATURE Ovale par Dumont, signee :portrait presume de la reine Marie-Antoinette,representee en buste, presque de face, vetue d'une robe de satin a corsage decollete, la taille prise dans une large ceinture jaune ornee d'un medaillon ovale presentant les profils conjugues de la famille royale. La chevelure est paree d'un ruban. xvine siecle.
+
+Haut., 8o millim.;larg.,68 millim.
+
+Reproduite pl. XXX.
+
+- 42—MINIATuRE ovale par J. Guerin, signee:portrait d’une
+- jeune femme en robe blanche decolletee,l'epaule gauche recouverte d'une echarpe.Epoque Empire.
+
+Haut., 77 millim.
+
+Reproduite pl. XXX.
+
+Diam.,79 millim.
+- 43  GRANDE MINIATURE ovale par Hall, non signee. Portrait
+- d'un artiste peintre,vu a mi-corps,debout,tenant en main palette et pinceaux; fond de verdure. xvin1 siecle. Cadre en bronze cisele et dore.
+
+Reproduite pl.XXxI.
+
+- 44 - MinIaTuRE ronde peinte en émail du temps de I'Empire, par Adam, signee,presentant le portrait d'une jeune femme,en robe blanche decolletee et la tete ornee d'une
+- echarpe formant turban et retombant sur les épaules.
+
+Diam.,118millim,
+
+- Cf.CLouzor (Henri):Dictionnaire des Miniaturistes sur email,pp.1-2.
+
+Reproduite pl.XxxI.
+
+- 45— MINIATuRE ronde par Sicardi, signee et datee 178g. Portrait d'une jeune femme,vue en buste,vetue d'un corsage decollete, avec fichu de gaze croise sur la poitrine
+- et paree de fleurs. xvin siecle. Cadre-reverbere.
+
+Reproduite pl. XXxI.
+
+Diam.,68 millim.
+
+- 46— Boire ronde en ecaille blonde galonnee d'or et ornee, sur le couvercle,d'une miniature ovale attribuee a Hall: Portrait de jeune femme en buste, avec corsage raye et coiffure paree de fleurs. xvinn siecle.
+
+Reproduite pl. XXXI.
+
+Diam. de la boite, 76 millim. Haut. de la miniature, 43 millim.
+
+- 47— MinaTuRE ronde par Perin, signee, portrait dune jeune femme debout,vue a mi-corps, presque de face, tenant de ses deux mains une lettre.Elle est vetue d'une robe de soie blanche a corsage tres decollete et manches courtes;
+- chevelure frisee. xix siecle. Cadre a reverbere.
+
+Reproduite pl.XxXI.
+
+Diam., 78 millim.
+
+Haut.,124millim.;larg.,104millim.
+- 48-49 - DEUX TREs GRANDEs MINIATUREs rectangulaires peintes sur ivoire,representant,lune,les Archiducs Leopold et Joseph d'Autriche,I'autre,IArchiduc Ferdinand,grand duc de Toscane,et son frere Joseph,en riches costumes, decores dordres, étudiant des cartes d'Italie, sous le regard de Minerve. Dans les fonds, au dela de colonnes et draperies, se silhouettent des vues de Rome et de Mantoue.L'une des deux est signee et datee:Lorenco Balbi presso Battoni in Vienna,1776. Cadres en cuivre moulure et orne.
+
+Haut., 215 millim.;larg.,155 millim.
+
+Balbi (Lorenzo),dorigine italienne,travaillait a Vienne,a la fin du xvine siecle.
+
+Exposition de la Miniature,a Bruxelles,mars-juin 1912,n°556-557.
+
+Reproduites pl.XxxIl.
+
+- 50— Borre ovale en or de couleur grave et cisele, decoree, sur ses deux faces et au pourtour, de medaillons ovales charges d'attributs divers, de pilastres et de petits panneaux
+- ornes de rosaces. Poincons anciens. Epoque Louis XVI.
+
+Reproduite pl. XxxIII.
+
+Grand diam.,78millim.
+
+- 51-Erui a cire cylindrique a section ovale, en or grave et cisele, decore de quatre panneaux émailles en bleu, étoiles d'or, entoures de bordures variees a perles ou festons de fleurs rehausses de pointes d'émaux de couleur. Poincons anciens. Epoque Louis XVI.
+
+Reproduit pl.XxxVI.
+
+- 52 - Boire ovale en or de couleur grave et ciselé,presentant, sur chaque face ainsi qu'au pourtour, des medaillons charges de gerbes de feurs sur fond rayonnant. Bordures a entrelacs,petites fleurs et feuillage. Poincons anciens. Epoque
+- Louis XV.
+
+Reproduite pl. XXXIII.
+
+Grand diam.,87 millim.
+
+Haut., 120 millim.
+- 53—Erui a aiguilles,a section rectangulaire, en agate et compris dans une monture ajouree en or,a decor d'arabesques, rocailles, feuillages et feurs. Pas de poincons. Attribue au xvir siecle.
+
+Haut., go millim.
+
+Reproduit pl.xxxVI.
+
+- 54— Borre ovale en or de couleur grave et cisele, decoree, sur ses deux faces, de medaillons ovales, l'un a sujet d'animaux, l'autre avec attributs; au pourtour, quatre petits panneaux d'emblemes varies. Bordures ornees de canaux obliques,petits entrelacs,eurs et feuillage.Poincons
+- anciens. Epoque Louis XVI.
+
+Reproduite pl.XxxIII.
+
+- 55— Erui-souvenir de forme arrondie haut et bas, en ivoire et plaques emaillees en grisaille, presentant des amours. soutenant un medaillon-portrait. Monture en or a petites
+- bordures gravees. Pas de poincons.
+
+Reproduit pl. XxxIII.
+
+- 56— GRANDE BoITE ovale en or de couleur grave et cisele, presentant, sur le dessus, le dessous et le pourtour, six medaillons varies, sur fond rayonnant, charges de corbeilles ou de gerbes de fleurs, dans des encadrements contournes. Poincons anciens. xviln siecle.
+
+Long., 86 millim.
+
+Reproduite pl.XxXIII.
+
+Grand diam.,78 millim.
+
+Haut., 77 millim.
+- 57 — EruI-NEcessaIRE a section quadrilobee, en or repousse et cisele, decore d'arabesques et medaillons contournes,a petits personnages allegoriques ou mythologiques, dans des entourages faits de rocailles et volutes. Il renferme ses petits ustensiles en or ou montes en or. Pas de poincons.
+- Attribue a l'époque Louis xv.
+
+Reproduit pl.XxxIll.
+
+- 58-Borre ovale dont le couvercle ouvre a deux compartiments, en or de couleur grave et cisele, presentant, sur ses deux faces, quatre panneaux avec trophees dattributs varies,et, au pourtour, quatre panneaux ornes de guirlandes de feuillage et fleurs. Poincons mal frappes inde-
+- termines. Attribuee a lepoque Louis XVI.
+
+Reproduite pl XxxIV.
+
+Grand diam.,87millim.
+
+- 59g - ETur-Necessaire en or repousse et cisele, decore, sur ses
+- deux faces, de figures allegoriques dans des compartiments encadres de festons, feuillage et rocailles. Il renferme quelques ustensiles en or ou montes en or. Pas de poincons. Attribue au xvine siecle.
+
+Haut., 95 millim.
+
+Reproduit pl.XxxIV.
+
+- 6o — BorTe ovale en or de couleur grave et cisele, decoree, sur d'amours symbolisant les arts ou les sciences,et deux plus petits charges d'attributs. Bordures a grecques. Poincons
+- ses faces et au pourtour, de quatre medaillons a sujets anciens peu visibles. Epoque Louis XVI.
+
+Grand diam, 9o millim,
+
+Reproduite pl,XxxIV,
+
+Haut.,95millim.
+- 61  EruI-NEcEssaIRE en or repousse et cisele, de forme con-
+- tournee, et decore de figures mythologiques et autres dans des encadrements a rocailles, volutes et feuillages feuris. Pas de poincons.Attribue a l'epoque Louis XV. ll renferme quelques ustensiles en or ou montes en or.
+
+Reproduit pl.XXXIV.
+
+Haut., 1oo millim.
+
+- 62 — Boire ovale en or de couleur grave et cisele, presentant,
+- sur le dessus et le dessous, deux medaillons avec groupes d'amours entre deux rosaces; sur le pourtour, quatre medaillons plus petits, amour dans l'un, oiseaux ou emblemes dans les autres. Poincons etrangers. xvin siecle.
+
+Grand diam.,87 millim.
+
+Reproduite pl.XxxIV.
+
+- 63 —Erui a petit facon,en or repousse et cisele,partiellement emaille en couleur; decor de moulures contournees,rocailles et figures allegoriques accompagnees de fleurettes emaillees. Poussoir fait d'un petit brillant.A l'interieur,petit facon a bouchon d'or emaille orne d'un oiseau. Pas de poincons. Attribue a l'époque Louis Xv.
+
+Haut., 1io millim.
+
+Reproduit pl. XXxIV.
+
+- 64 — Borre ovale en or de couleur grave et cisele, ornee, sur les deux faces ainsi qu'au pourtour, de medaillons a sujets de chasses et trophees d'attributs, dans des encadrements contournes ornes de feuillages. Anciens poincons. Epoque
+- Louis xV.
+
+Reproduite pl.XxXV.
+
+Long,9o millim.
+- 65 - Erui a cire cylindrique a section ovale, en or guilloche, ciselé et partiellement emaille, decore de canaux emailles en vert et de bordures rehaussees de pointes d'emaux de
+- couleur. Poincons anciens. xvir siecle.
+
+Reproduit pl. XxxV1.
+
+- 66— BoiTe oblongue en or cisele, sur fond a rayures, presentant des tiges de feuillage fleuri obliques et paralleles. Poincons
+- anciens. xvinl siecle.
+
+Reproduite pl. xxXv.
+
+- 67 — Erui a aiguilles cylindrique, en agate, compris dans une monture ajouree en or, a decor d'arabesques.Pas de poincons.
+- Attribue au xvine siecle.
+
+Reproduit pl. xxxVI.
+
+- 68 - Boire ovale a deux couvercles en or de couleur guilloche,
+- grave et cisele, ornee, sur ses faces ainsi qu'au pourtour, de medaillons a sujets allegoriques,accompagnes de guirlandes et feurons. Le couvercle et le pourtour de l'un des compartiments sont reperces. Poincons mal frappes indetermines.Attribuee a lepoque Louis XVI.
+
+Grand diam,83 millim.
+
+Haut., 1oo millim,
+
+Long., 73 millim.
+
+Reproduite pl. XXxV.
+
+- 69—Eruiacirecylindrique asection ovale,en orguilloche,cisele
+- et emaille, orne de quatre panneaux, deux grands et deux petits,encadres de bordures a entrelacs de feuillage releves de pointes d'emaux de couleur.Poincons anciens. xvin siecle.
+
+Haut., 115 millim.
+
+Reproduit pl. XXXVI.
+
+Haut., 120 millim.
+- 70PETIT DRAGEoIR contourne,forme de deux plaquettes d'agate rubanee montees en or grave, cisele et partiellement emaille. Le dessus presente,en bas-relief, deux enfants et un mouton au pied d'un arbre. Poincons anciens. xvin siecle.
+
+Reproduit pl. XxxV.
+
+Long.,53 millim.
+
+- Erui a cire cylindrique a section ovale, en or de couleur 71 guilloche et cisele; decor de deux medaillons ovales a sujets pastoraux et deux medaillons ronds avec animaux. Bordures
+- a feuillage et entrelacs. Epoque Louis XVI.
+
+Reproduit pl.XXxVI.
+
+Haut., 122 millim.
+
+- 72— Boite oblongue a pans coupes, en or cisele, decoree de bordures a entrelacs,guirlandes,rubans et trophee d'attributs. Elle est ornee de trois medaillons ovales émailles en couleur presentant, sur le couvercle,une offrande a l'Amour; sur le pourtour, deux sujets d'enfants. Sur la gorge, est gravee linscription :Ve Georges Beaulieu a Paris. Epoque Louis XVI.
+
+Reproduite pl. XxxV.
+
+- 73-- GRAND FLAcoN a sels avec bouchon, en or de couleur grave et cisele presentant, sur chacune de ses faces, une petite gerbe de fleurs, dans un encadrement contourne pave de petits brillants. Pas de poincons.Attribue au xvine siecle.
+
+Haut., 12o millim.
+
+Long., 78 millim.
+- 74 — Borre ovale en or grave, decoree, sur ses deux faces et au
+- pourtour, d'entrelacs et petites rosaces rehausses de filets émailles. Sur le couvercle, est encastre un émail ovale: portrait d'un personnage du temps de Louis XIV,entoure de petits brillants. Poincons indetermines.xvimsiecle.
+
+Long., 87 millim.
+
+Reproduitepl.XxxVll.
+
+- 75—Erur a cire a section rectangulaire, en or moulure et cisele presentant, sur chaque face, des petits cabochons d'agate arborisee sur fond de feuillage, chutes de fruits et coquille. Pas de poincons. Attribue au xvin siecle.
+
+Reproduit pl.XxxVI.
+
+Haut.,99 millim.
+
+- 76-BorrE ovale en or grave et partiellement émaille en couleur. Les deux faces et le pourtour presentant, sur fond grave a quadrille, des volatiles divers, ainsi que des arbustes fleuris;bordures a torsades de feurettes et feuillages,emaillees en couleur. Poincons anciens. xvin siecle.
+
+Grand diam.,84millim.
+
+Reproduite pl.XxxVIl.
+
+- 77 - Erur a cire cylindrique a section ovale, en or de couleur cisele, decore de deux grands medaillons et deux petits,a sujets d'amours,encadres de laurier.Bordures festonnees a feuillage et feurettes. Poincons anciens. Epoque Louis XVI.
+
+Reproduit pl. XxxVI,
+
+Haut,126millim.
+- 78— Borre ovale en or de couleur cisele, ornee, sur ses faces et au pourtour, de six medaillons ovales emailles en grisaille presentant des amours symbolisant les arts et les sciences. Decor de bordures a canaux, feurons feuillages,petits mascarons et trophees d'attributs divers. Poincons anciens. xville siecle.
+
+Grand diam.,84millim,
+
+Reproduite pl.XXxVIl.
+
+- 79 - ETur-NEcessaiRE a section contournee, en agate et petits
+- panneaux arborises compris dans une monture ajouree en or; decor de rocailles et petits feuillages.Il renferme quelques petits ustensiles en or ou montes en or. Pas de poincons. Attribue au xvil siecle.
+
+Haut., 11o millim.
+
+Reproduit pl. XXxVI.
+
+- 8o—Boire rectangulaire en or moulure. Le couvercle,a poussoir serti de pierres, est forme d'une plaque d'ancienne porcelaine de Sevres(?) decoree sur ses deux faces de compositions pastorales en couleur.Pas de poincons sur la monture d'or. Attribuee au xvin siecle.
+
+Long., 87 millim.
+
+Reproduite pl. XxxVIl.
+
+- 81-Erui a cire cylindrique, a section ovale,en or de couleur cisele; decor de deux grands medaillons et deux petits charges d'attributs divers. Entourages a coquilles, laurier et feuillage. Poincons anciens.Epoque Louis Xv.
+
+Haut., 121 millim.
+
+Reproduit pl. XXxVI.
+- 82—Boire ovale en or guilloche, grave, cisele et émaille bleu avec bordures et pilastres,a torsades rehaussees de pointes d'émaux de couleur. Le couvercle est orne d'un sujet ovale en couleur : composition historique, dans un entourage de roses. Poincons anciens. Epoque Louis xVI.
+
+Grand diam., 88 millim.
+
+Reproduite pl. XxxVII.
+
+- 83 —Erui a cire cylindrique a section ovale, en or guilloche, grave et partiellement emaille de quatre medaillons a vase bleu sur fond de rayures obliques ornementees et rehaussees
+- d'emaux de couleur. xvn siecle.
+
+Reproduit pl.XxxVIll.
+
+- 84 —Boire ovale en or guilloche, grave et cisele presentant, sur ses faces et au pourtour, des bas-reliefs a sujets de personnages et amours allegoriques sur fond d'émail bleu. Bordures a fleurons feuillages. Poincons anciens. xvi siecle.
+
+Grand diam., 87 millim.
+
+Reproduile pl xxxVIl.
+
+- 85 —FLacon a sels avec bouchon,forme balustre, en or guilloche et émaille en couleur a sujets de chasses de
+- Diane,et petits animaux dans des cartels. Pas de poincons Attribue au xvinl siecle.
+
+Haut., 102 millim.
+
+Reproduit pl.XXxVIIl.
+
+Haut.,1o5 millim.
+- 86 — Erui a cire cylindrique a section ovale, en or de couleur,
+- guilloche, cisele et partiellement émaille de festons fleuris obliques et paralleles, en couleur. Bordures a feuillage. Poincons anciens. xvine siecle.
+
+Haut.,104 millim.
+
+Reproduitpl.XxxVIII.
+
+- 87— Boire ovale en or de couleur guilloche, grave et cisele, presentant, sur ses deux faces et au pourtour, des medaillons d'attributs de jardinage avec feurs et fruits, sur fond rayonnant, dans des encadrements de baguettes festonnees de feuillage. Poincons anciens. Epoque Louis xv.
+
+Grand diam., 87 millim.
+
+Reproduite pl.XxXIX.
+
+- 88 —Erui a cire,a section ovale, en or de couleur ciselé, decore de quatre petits panneaux emailles peints en grisaille, presentant des vestales; decor de fines cannelures, guirlandes et chutes de fleurs. Le cachet est grave d'un monogramme. Poincons anciens. xvin siecle.
+
+Haut.,122 millim.
+
+Reproduit pl.XxxVIII.
+
+- 8g — Boire oblongue a coins contournes, en or grave et cisele, a larges bordures faites de coquilles, rosaces et branchages fleuris émailles. Elle est ornee, sur le dessus, d'un sujet emaille en couleur : faune et bacchantes; sur le dessous, d'un monogramme. Poincons anciens. xviire siecle.
+
+Long., 78millim.
+
+Reproduite pl.XxXIX.
+- g0- CacHET grave d'une intaille a profl d'homme, avec
+- poignee en or emaille, decoree de petits rinceaux en dorure sur fond bleu et enrichie de petites roses, renfermant une montre minuscule. Travail de Geneve. xix siecle.
+
+Haut., 68 millim.
+
+Reproduit pl. XXxVIIl.
+
+- gI-TaBaTIeRE oblongue en or moulure, grave et cisele,
+- presentant, sur le dessus et le dessous, deux sujets :Vue d'un port et Retour de peche.Encadrements faits de feuillage, palmettes et petits attributs. xix siecle.
+
+Long., 79 millim.
+
+Reproduitepl.Xxxix.
+
+- 92—Erur a cire, a section ovale, en or guilloche, grave et partiellement emaille en couleur, de fleurs dans des quadrilles faits de rubans noues bleus. Sur le cachet, est gravee la devise: A l'Amitie. Pas de poincons. Epoque Louis XV (?).
+
+Haut.,116 millim.
+
+Reproduit pl.XXxVlll.
+
+- g3 —Boire ovale en or de couleur guilloche, grave et cisele, presentant, sur ses faces et au pourtour, des medaillons a sujets champetres ou maritimes;borduresa rocailles,festons de feurs et petits cartels. Pas de poincons. Attribuee a l'epoque Louis XV.
+
+Grand diam.,6g millim.
+
+Reproduitepl.XxxIx.
+- 94 — CaRNEr figurant un portefeuille a fermoir fonctionnant au moyen d'un bouton-poussoir, en or guilloche, avec encadrements de baguettes moulurees, et émaille en bleu. La serrure est formee d'un medaillon ovale a attributs, cantonne de deux petites cariatides et enguirlande. Poincon ancien sur le fermoir.xvin siecle.
+
+Long., 86 millim.
+
+Reproduit pl.XxxVIlI.
+
+- 95— PoMMEAu DE cANNE en or repousse et cisele, decore de figures allegoriques dans des encadrements contournes a rocailles, fleurons a volutes, feuillage et feurs. xvine siecle.
+
+Haut.,8o millim.
+
+Long., 83 millim.
+
+Reproduit pl.XL.
+
+- 96 — Borre rectangulaire formee de deux emaux anciens peints en couleur,tous deux decores (le couvercle sur ses deux faces) de compositions a personnages villageois dans des interieurs. Monture en or a bordure gravee et ciselee. Pas de poincons.
+
+Reproduite pl.XL.
+
+- Erui a aiguilles en or guilloche, grave et partiellement emaille en grisaille, a composition pastorale ou allegorique, sur fond carrele. Poincons anciens. xvine siecle..
+
+Haut, 114millim,
+
+- 97-B
+
+Reproduit pl.XL!,
+- g8 —DRAGEoir de forme ronde, en or grave de rocailles et vercle, sujet peint en émail :La Charite romaine. Pas de
+- feuillage avec fleurettes émaillées en couleur. Sur le coupoincons. Attribue a l'epoque Louis Xv.
+
+Diam.,58 millim.
+
+Reproduit pl.XL.
+
+- 99 — Erur a cire cylindrique a section ovale, en or grave, cisele et partiellement emaille en couleur, presentant quatre medaillons a sujets d'interieurs rustiques avec personnages, sur fond orne de feurettes. Poincons anciens. xvime siecle.
+
+Haut.,I14 millim.
+
+Reproduit pl.XLI.
+
+- Ioo —BorrE rectangulaire montee a cage,en or et garnie, sur toutes ses faces, de six plaquettes d'ancienne porcelaine émaillee de sujets chinois et quadrilles,en relief,en couleur et dorure. Pas de poincons. Attribuee au xvine siecle.
+
+Long., 73 millim.
+
+Reproduite pl.XL.
+
+- 101 — PeTIT ALMANAcH pour 1774 (avenement de Louis XVI), dans une reliure ouvrant a litalienne,dont les plats,en nacre posee or, sont ornes des bustes de profl de Louis XVI et Marie-Antoinette, sur fonds paves de petites roses. xvine
+- siecle.
+
+Reproduitpl.XLI.
+
+Long., 74 millim.
+- I02 -Borre contournee en pierre dure, incrustee, sur le couvercle, d'insectes graves et paves de pierres, de meme que le poussoir. Monture d'or grave a gorge ornee d'insectes et feurons. Pas de poincons. Attribuee au xvile siecle.
+
+Reproduite pl. XL.
+
+Long., 83 millim.
+
+- 103 — MonTrE en or grave, ornee, au revers du boitier, d'un sujet maritime avec personnages, émaille en couleur. Petites bordures a feurettes. Mouvement marque : Juln Le Roy,
+- a Paris. Epoque Louis XV.
+
+Reproduite pl.XLI.
+
+Diam., 44 millim.
+
+- 104 - BoiTe oblongue a pans coupes, montee a cage, en or, sujets d'animaux sur fond d'écaille blonde. Bordures a festons de fleurs en or de couleur. Pas de poincons. Attri-
+- buee a l'époque Louis XVI.
+
+Reproduite pl.XL.
+
+Long., go millim.
+
+- 105 MonTRE a double boitier, en or grave, ciselé et reperce, a revers émaille en grisaille presentant un cortege de nymphes, signe : G.M.Moser. Bordure emaillee en bleu. Mouvement anglais marque : Ellicott, London. xvine siecle.
+
+Dian., 48 millim.
+
+Georges-Michael Moser,ne en 16g8,mort a Londres en 1783. Protege de George IllI, il fut le fondateur de la Royal Academy en 1768.(H. CLouzoT, Dictionnaire des miniaturistes sur email,Pp.142-143.)
+
+Reproduite pl.XLI.
+- 106 — BorTE contournee en or cisele,partiellement émaillee en
+- couleur. Le dessus et le dessous sont formes de plaquettes d'agate. Sur le couvercle, est enchasse un medaillon ovale presentant, emaille en couleur et entoure de petits brillants, un portrait de femme dans la maniere de Petitot. Le corps de la boite est orne de fleurons et petits feuillages emailles en couleur. Poincons anciens.xvine siecle.
+
+Long., 8o millim.
+
+Haut., 26 millim.
+
+Reproduite pl.XLII.
+
+- 107— PeTITE MoNTRE ovale en or, decoree en reliet de petites torsades et feuillages emailles en grisaille, de meme que le cadran. Elle est ornee d'une petite perle-pendentif. xvne siecle.
+
+Reproduite pl.XLI.
+
+- 1o8 - DraGEoir ovale en agate arborisee montee en or et decore d'appliques a festons et guirlandes sur le corps, rinceau de feuillage et personnage chinois sur le couvercle. Poussoir
+- enrichi de petites roses. Pas de poincons.
+
+Long.,63 millim.
+
+Reproduit pl.XLIl.
+
+- 1og—PETITE MoNTRE en or,a boitier émaille en couleur
+- presentant un sujet mythologique et, au revers,a l'interieur, un paysage. Petite bordure a feurs en relief. Mouvement marque: Anton List,Wien.Fin du xvnn siecle ou commencement du xvile siecle.
+
+Reproduite pl.XLI.
+
+Diam., 33 millim.
+- 11o -BoiTE ovale en or guilloche et cisele, partiellement
+- émaillee. Sur·le couvercle,medaillon ovale en couleur: la Soumission au vainqueur; decor de bordures, pilastres et rosaces a petits feuillages et rehauts de pointes d'emaux de couleur. Epoque Louis XVI.
+
+Grand diam., 84 millim.
+
+Reproduite pl.XLII.
+
+- III - CHATELAINE et sa montre en or grave et émaille bleu. La chatelaine est ornee de cinq petits medaillons a sujets et emblemes pastoraux en couleur, de meme que le revers du boitier de la montre.La chatelaine est doublee d'argent dore.xvme siecle.
+
+Haut.totale,185millim.
+
+Reproduite pl. XLI.
+
+- 112 —Boire oblongue en or moulure,montee a cage et ornee sur toutes ses faces de plaques émaillees en couleur et dorure,a sujets de chasses dans des medaillons a rocailles
+- et fleurs. Pas de poincons. Attribuee au xvine siecle.
+
+Long., 6o millim.
+
+Reproduite pl. XLII.
+
+- 113 -Erui a cire cylindrique a section ovale,en or cisele et
+- partiellement émaille, decore, sur le corps, de canaux et de bordures a torsades de fleurs rehaussees de pointes d'émaux de couleur. Poincons anciens. xvin siecle.
+
+Haut., 12o millim.
+
+Reproduit pl.XLIV.
+- 114 — Boire ovale en or guilloche, grave et émaille, presentant, sur le dessus et le pourtour, huit medaillons contournes offrant chacun un sujet a deux personnages; fond guilloche et émaille bleu. Pas de poincons. Attribuee a l'epoque Louis XV.
+
+Reproduite pl.XLII.
+
+- 115 -Erui a cire a section ovale aplatie, en or guilloche et cisele, orne de quatre panneaux émailles vert avec petits pointilles ou disques d'or. Bordures a festons rehausses de
+- pointes d'emaux de couleur. Poincon etranger. xvine siecle.
+
+Haut., 11o millim.
+
+Reproduit pl. XLIV.
+
+- 116 — GrANDE BoiTE ronde en or repousse et cisele, presentant sur le couvercle Renaud et Armide, dans un encadrement compose de rocailles et attributs. Au pourtour, godrons et
+- cartels a coquilles. xville siecle.
+
+Reproduite pl.XLIlI.
+
+- I17— MoNTrE a double boitier, en or repousse et cisele,présentant Mars et Venus dans un medaillon a bordure d'arabesques. Le mouvement marque: Gerrit Reusman, Zwoll. Elle accompagne une chatelaine en or cisele, a figures et
+- ornements a volutes feuillagees. xvin siecle.
+
+Haut.totale,g8millim.
+
+Reproduite pl.XLIV.
+
+Long., 86 millim.
+
+Diam., 84 millim.
+- 118 — EruI-Necessaire forme euf, en ancien email, decore de six panneaux, trois grands et trois petits,a sujets maritimes en couleur. Monture en or cisele,a festons de laurier, marguerites et rocailles, Il renferme quelques ustensiles en
+- or.Poincons anciens. xvin siecle.
+
+Reproduit pl.XLIIl.
+
+Haut., 76 millim.
+
+- 11g —PETITE MoNTRE a double boitier, en or cisele, grave et reperce; le revers du boitier est en agate et orne de branches feuries pavees de pierres. Mouvement marque : Higginson, London.Pas de poincons.
+
+Reproduite pl.XLIV.
+
+Diam., 38 millim.
+
+- 120 - Boire forme ceuf, en email peint en couleur sur toute sa surface et presentant des paysages animes de petits person-
+- nages. Monture or.xviu siecle.
+
+Reproduite pl.XLIII.
+
+Haut., 65 millim.
+
+- 121 - MonTre a double boitier en or repousse et cisele, partiellement émaillee en couleur,presentant un chien et des volatiles avec fleurs. Fond de palais. Mouvement marque: S.Stroud,London.Poincons anciens.xvin siecle.
+
+Reproduite pl.XLIV.
+
+Diam., 44 millim.
+
+- 122 — Borre de forme contournee,en or cisele,decoree sur le couvercle d'une composition mythologique a personnage dans un entourage fait de rocailles et feuillage. Le pourtour
+- et le dessous sont graves d'arabesques.
+
+Reproduite pl. XLIII.
+
+Long., 72 millim.
+- 123 — FLacon a odeur de forme contournee, en or repousse,
+- cisele et partiellement émaille; decor de figures allegoriques, petits animaux et feurs en couleur.Le bouton est forme d'un dauphin. La base est gravee en intaille pour servir de cachet portant la devise: j'aime la liberte. Epoque Louis XV.
+
+Haut., 85 millim.
+
+Reproduit pl. XLIV.
+
+- 124 - GRANDE BoITE ovale en or guilloche, cisele et émaille; medaillon ovale peint en couleur emaille,le portrait presume de Catherine II de Russie, dans un entourage de perles. Pas
+- decor de rinceaux et festons de laurier. Sur le couvercle, de poincons. Attribuee au xvin siecle.
+
+Grand diam.,88millim,
+
+Long., 6g millim.
+
+Reproduite pl.XLIII.
+
+- 125 —BoirE de forme contournee en or cisele et ornee de nacre, burgau, agate et lapis-lazuli sur le couvercle et au personnages et des ornements a rocailles. Au-dessous,le decor consiste en architectures. Pas de poincons. Attribuee a lépoque Louisxv.
+
+Reproduite pl.XLII.
+
+- 126 - CHATELAINE en or et argent dore,avec petite montre a double boitier en or grave, cisele et reperce. Chatelaine et montre sont ornees de petites plaquettes d'agate rubannee decorees de petits feuillages sertis de pierres. Mouvement marque:Ed Wicksteed, London. Pas de poincons. Attribuee
+- au xvinl siecle.
+
+Reproduite pl. XLIV.
+
+Haut.totale,12o millim.
+- 127 — BorrE rectangulaire en or guilloche, grave et ciselé,
+- partiellement émaillee. Elle est decoree, sur toutes ses faces, au centre de chaque panneau, d'un medaillon ovale charge d'un sujet pastoral émaille en couleur. Poincons anciens. xVIll siecle.
+
+Reproduite pl.XLV.
+
+Long., 74 millim.
+
+- 128  Boire a epingles, de forme oblongue, a extremites arron-
+- dies, en or guilloche, grave, cisele et partiellement émaillé en bleu. Sur le couvercle,on lit le mot : Souvenir,en argent pave de roses. Poincons anciens. Epoque Louis XVI.
+
+Long., 104 millim.
+
+Reproduite pl.XLV.
+
+- 129— CHATELAINE et montre a double boitier, en or repousse,
+
+Haut.totale,203 millim.
+
+- grave et cisele; decor de rocailles et groupes de personnages. Le boitier de la montre et reperce et orne de deux amours. Mouvement marque:Windsor, London. Poincons anglais. xVill siecle.
+
+Reproduite pl.XLIV.
+
+- 13o -ETuI-NEcessAIRE en or grave, cisele et partiellement
+- émaille. Les deux faces presentent, sur fond d'écaille, des petits bas-reliefs en or cisele et un monogramme serti de roses. Sur l'un des bas-reliefs, on lit:Gage d'Amitie. Bordures a petites perles simulees et rinceaux de feuillages rehausses de pointes d'émaux de couleur.Il renferme des ustensiles en or ou montes en or. xvin siecle.
+
+Haut., 117 millim.
+
+Reproduit pl.XLV.
+- 131- Boire rectangulaire en or cisele, decoree de rayures
+- ondulees obliques sur lesquelles sont semes, sur les six faces, des fleurs et insectes emailles en couleur. Poincons anciens. xvinle siecle.
+
+Reproduite pl.XLV.
+
+Long.,78 millim.
+
+- 132—BoirE rectangulaire en or grave, montee a cage et decoree, sur ses six faces, de gouaches par Van Blarenberghe;lune d'elles, signee et datee 1753,presentant des reunions de personnages occupes a differents jeux :les quilles, les boules, le tir a l'arc, le colin-maillard, etc. Encadrements a festons et feurs. Poincons anciens. xvinn siecle.
+
+Reproduite pl.XLV.
+
+Long., 76 millim.
+
+- 133 —Borre rectangulaire en or de couleur grave et ciselé, ornee, sur toutes ses faces, de six panneaux en émaux de couleur, presentant des interieurs rustiques, dont quatre a personnages. Bordures d'encadrement a canaux et petits bouquets de feurs. Au revers du couvercle, miniature: portrait de femme, signee :G. Bouton, et datee :1763. Epoque Louis XV.
+
+Reproduite pl.XLV.
+
+Long., 72 millim.
+
+- 134 -Deux PErITEs couPEs coniques, a pied, en argent grave,
+- cisele et dore, decorees, au pourtour, en emaux de couleur, l'une d'un sujet galant, lautre d'un sujet de chasse, tous deux a plusieurs personnages, sur fond de paysage. Pas de poincons.xvinle siecle.
+
+Haut.,86 millim.
+
+Reproduites pl.XLVI.
+- 135 — Boire rectangulaire en or grave et cisele, presentant, sur
+- toutes ses faces, des corbeilles ou des gerbes de fleurs emaillees en couleur. Poincons anciens. Epoque Louis Xv.
+
+Reproduite pl.XLVI.
+
+Long., 67 millim.
+
+- 136  BorrE ovale en or guilloche,cisele et partiellement
+- émaille gris; decor de pilastres et bordures a pointes d'émaux de couleur. Le dessus du couvercle orne d'un medaillon ovale peint en émail et presentant :Venus et lAmour. Poincons anciens. Epoque Louis XVI.
+
+Reproduite pl.XLII.
+
+Grand diam.,66 millim.
+
+- 137 — Coupe a piedouche et couvercle,en or repousse et ciselé,
+- decoree de rocailles, feuillage et fleurs. Pas de poincons. Attribuee a l'époque Louis Xv.
+
+Reproduite pl. XLVI.
+
+Haut., 178 millim.
+
+- 138 — BoirE ovale a couvercle et dessous concaves,montee a cage, en or et plaquette d'ancienne laque dor du Japon; decor de bordures et petits pilastres. Sur la gorge, est gravee Iinscription:Meniere, Bijoutier du Roi,rue Mauconseil,a
+- Paris. Poincons anciens. Epoque Louis XVI.
+
+Reproduite pl.XLVI.
+
+Long., 84 millim.
+
+- 13y —Borre rectangulaire en or grave, presentant, sur chaque face,une plaquette contournee d'agate sertie dans la monture decoree de festons de fleurs emaillees en couleur. Poincons anciens. xvine siecle.
+
+Reproduite pl. XLVI.
+
+Long.,68millim.
+- 140 - CarNET de bal dans une reliure en nacre, montee en or moulure. Les deux plats sont decores d'arabesques a rocailles et feuillage, enrichies de pierreries. Porte-crayon fermoir galement en or. Pas de poincons. Attribue a l'epoque Louis Xv.
+
+Reproduit pl.XLVII.
+
+- 141 -GRANDE BoITE ovale en or guilloche,cisele,et emaillee en
+- couleur. Sur toutes les faces,les panneaux, a fond gris,sont decores de bordures et de petits medaillons avec guirlandes. Sur le couvercle,sujet ovale, en or,presentant un groupe de trois enfants nus. Poincons anciens. Epoque Louis XVI.
+
+Grand diam.,go millim.
+
+Long., 8o millim.
+
+Reproduite pl.XLVII.
+
+- 142 - BoiTe rectangulaire en or guilloche, cisele et gravé, decoree,sur toutes ses faces,demedaillons a sujets pastoraux en émaux de couleur, guencadrent des amours, des animaux ou des fleurs émailles en camaieu bleu. Au revers du couvercle,inscription gravee en russe. Poincons anciens. Epoque Louis XV.
+
+Reproduite pl.XLVII.
+
+- 143 -NecEssAiRE de table, compose d'un couvert complet
+- comprenant:une cuiller et une fourchette, deux couteaux et une petite cuiller, plus une boite a epices a deux compartiments et un coquetier. Soit ensemble sept pieces, toutes en or (sauf la lame de l'un des couteaux qui est en acier), decorees de medaillons presentant des paysages avec figures allegoriques ou profls-bustes. Ancien travail étranger, probablement d'Augsbourg. Dans un écrin.
+
+Long. de la fourchette,ig cent.
+
+Reproduit pl.LVI.
+
+Haut., 96 millim.
+- 144 — CouvrRr de table comprenant cuiller, fourchette et couteau,a manches plaques de lapis-lazuli et ornes d'appliques en or. Montures en or cisele ou grave et parties repercees pour la fourchette.xixe siecle. Ecrin en chagrin.
+
+Reproduit pl.XLVIII.
+
+Haut. du couteau,2o6 millim
+
+- 145 — Coupe couverte sur piedouche,en agate arborisee, dans une monture en argent dore, formee de bordures gravees d'arabesques et d'un lambrequin ajoure. Le couvercle est
+- surmonte d'une figurine de personnage debout en cuirasse.
+- xvnle siecle.
+
+Reproduite pl.XLVIlI.
+
+Haut., 1go millim.
+
+- 146 — Coupe couverte en jaspe fleuri sur piedouche. La coupe, en forme de calice, est taillee a facettes gravees de douze figures allegoriques. La tige-balustre et le pied a huit pans sont sertis d'or émaille et ornes de petits chatons a rubis. Le couvercle,bombe, grave de rinceaux et doiseaux, serti d'or émaille,est surmonte d'une figurine d'Amour lancant une fleche, formant bouton.xvie siecle.
+
+Haut., 1g8 millim.
+
+Collection Spitzer,vente a Paris,17 avril-16 juin 1893,n°2630.
+
+Reproduite pl.XLVIII.
+
+- 147  Borre a miroir rectangulaire, en or grave et partiellement emaille en couleur, presentant, sur les deux faces, des branchages fleuris et animes d'oiseaux dans des panneaux encadres d'inscriptions en caracteres orientaux. Le revers du couvercle, egalement emaille, presente le portrait d'un sultan en riche costume, sur fond de fleurs et ciel bleu. Signe. xvin siecle.
+
+Reproduite pl.XLIX.
+
+Haut., 183 millim.; larg., 13o millim.
+- 148—CoFFRET a liqueurs rectangulaire,a angles-balustres et couvercle formant amortissement,en ancienne laque d'or du Japon decoree, sur fond noir, de paysages en dorure avec bordures variees. ll renferme quatre flacons, un petit vasetulipe et un drageoir,en cristal et montures d'or,une petite timbale et presentoir,un petit entonnoir, en or.L'interieur du coffret est gaine d'ancien velours rouge borde de dentelle d'or. Les pieces en or ou les montures en or (sauf celle du drageoir) portent d'anciens poincons. xviie siecle.
+
+Reproduit pl. CxIII.
+
+Haut.,28 cent.;larg.,27 cent.1/2.
+
+## EMAUX DE LIMOGES
+
+## DU XVI SIECLE
+
+- 149 —PLAQuE cintree du haut,en ancien email peint de Limoges, presentant la Vierge tenant I'Enfant Jesus, assise dans une large stalle que cantonnent deux anges debout. Sur le contre-email,on lit les initiales :P.R.(Pierre
+- Reymond).xvlsiecle.
+
+Haut., 8o millim.
+
+Cf.MoLINIER (Emile): Dictionnaire des Emailleurs,p. 8o.
+
+Reproduite pl.L.
+
+- 150 - AssiETTE en ancien email peint de Limoges, signee du
+- monogramme IC (Jean Courteys), decoree d'un sujet a personnages bibliques,tire de lAncien Testament,en emaux de couleur et emaux translucides rehausses de dorure sur fond vert. En haut, on lit:G. XLI. Marli a rinceaux, mascarons. Revers compose d'une arabesque a mascarons, motifs a volutes releves de dorure, sur fond noir.xvre siecle.
+
+Cf.MoLINIER:Dictionnaire des Emailleurs, PP.23-24.
+
+Reproduite pl.L.
+
+Diam., 2o cent.
+- 151 — AssieTTE en ancien email peint de Limoges, signee du monogramme IC (Jean Courteys),analogue a la precedente, presentant une composition maritime avec personnages.
+- Marli et revers avec variantes dans les details. xvr siecle.
+
+Reproduite pl.L.
+
+Diam.,20cent.1/2.
+
+- 152 — AssieTTe en ancien email peint de Limoges, signee du
+- monogramme IC (Jean Courteys), presentant la Fenaison, en grisaille, les chairs teintees saumon. Allegorie relative au mois de Juillet. Le marli est decore d'une frise a rinceaux, chimeres et petits vases. Revers orne d'arabesques, rehausse en dorure sur fond noir.xvr siecle.
+
+Reproduite pl.LI.
+
+Diam., 20 cent.
+
+- 153 - AssierTE en ancien émail peint de Limoges, signee du
+- monogramme IC (Jean Courteys), presentant la Moisson, en grisaille, les chairs teintees saumon. Allegorie relative au mois d'Aout. Marli et revers analogues a la precedente. xvie siecle.
+
+Reproduite pl. LI.
+
+- 154 — AssiETTE en ancien émail peint de Limoges, signee du monogramme IC (Jean Courteys),presentant les Vendanges, en grisaille et les chairs en saumon. Allegorie aux travaux des champs pendant le mois de Septembre. Marli et revers
+- analogues aux precedentes. xvr siecle.
+
+Reproduite pl.L.
+
+Diam., 20 cent.
+
+Diam., 20 cent.
+- 155 — Assierre en ancien email peint de Limoges, signee du monogramme IC(Jean Courteys), presentant les Vendanges, en grisaille, les chairs teintees saumon. Allegorie relative au mois de Septembre. Marli et revers analogues aux prece dentes.xvi° siecle.
+
+Reproduite pl.LI.
+
+Diam., 20 cent.
+
+- 156 - AssieTTE en ancien émail peint de Limoges, signee du monogramme IC (Jean Courteys),presentant les Semailles, en grisaille,les chairs teintees saumon. Allegorie relative au mois d'Octobre. Marli et revers analogues aux precedentes.xvie siecle.
+
+Reproduite pl.LI.
+
+Diam., 2o cent.
+
+- 157-AssiETTE en ancien email peint de Limoges, signee du monogramme IC (Jean Courteys), presentant la Saignee du cochon.Allegorie relative aux travaux du mois de Novembre. Marli et revers analogues aux precedentes. xvi siecle.
+
+Reproduite pl.L.
+
+Diam.,2o cent.
+
+- 158 — AssieTTe en ancien émail peint de Limoges, signee du monogramme IC (Jean Courteys),presentant la Cuisson du pain, en grisaille,les chairs teintees saumon. Allegorie relative au mois de Decembre. Marli et revers analogues aux precedentes. xvl siecle.
+
+Reproduite pl.LI.
+
+Diam.,20 cent.
+## PORCELAINES DE SEVRES
+
+- 15g — EcueLLe a bouillon a deux anses, avec son couvercle,
+- sur presentoir oblong a quatre lobes,en ancienne porcelaine tendre de Sevres. Decor en couleur, sur fond vert orne en dorure, de medaillons reserves presentant des animaux dans des paysages. Annee Z (1777).
+
+Long.du presentoir,22 cent.
+
+Long.du presentoir,1g cent.1/2.
+
+Reproduite pl.LIl.
+
+- 16o -EcueLLe a bouillon a deux anses, avec couvercle, sur presentoir oblong a quatre lobes, en ancienne porcelaine tendre de Sevres. Decor en couleur et dorure,a fond ceilde-perdrix et large bordure faite d'entrelacs et couronnes de laurier.
+
+Reproduite pl.LII.
+
+- 16I - EcueLLe a bouillon a deux anses, avec son couvercle,
+- sur presentoir, en ancienne porcelaine tendre de Sevres. Decor, sur fond bleu a ceil-de-perdrix, de medaillons en couleur presentant des amours dans des paysages, avec entre-deux faits de festons de laurier. Annee S (i77i). Decorateur :Fontaine.
+
+Diam. du presentoir,2o cent.1/2.
+
+Reproduite pl. LII.
+- 162 - JaRDINIERE contournee a anses feuillagees, en ancienne porcelaine tendre de Vincennes (annee 1754),decoree sur ses faces, et sur fond bleu, d'un medaillon contourne borde
+- en dorure et contenant une gerbe de fleurs et fruits.
+
+Long.,28 cent.
+
+Reproduite pl.LV.
+
+- 163 —JaRDINIERE de forme contournee,a deux anses feuillagees, sur pieds-volutes,en ancienne porcelaine de Sevres,decoree, sur la face principale, d'une scene chinoise a personnages équilibristes dans un paysage,et, sur l'autre face, d'une
+
+Long., 2g cent.
+
+- gerbe de feurs.
+
+Reproduite pl. LV.
+
+- 164 —PaIRE DE VAsEs avec couvercles, en ancienne porcelaine tendre de Sevres;ils sont ornes,en relief et dorure, d'anses a volutes reliees par des guirlandes de chene, de bordures a entrelacs ou perles, et decores de medaillons en grisaille sur fond vert; deux de ces medaillons presentent des enfants et les deux autres des trophees d'attributs champetres. Cou-
+- vercles a feuillage en relief. Bases carrees en bronze dore.
+
+Haut.des vases,3o cent.
+
+Reproduitspl.LIV.
+## PORCELAINES ET PIERRES DURES
+
+## MONTEES EN BRONZE
+
+## VASE EN JADE
+
+- 165 — GarnIruRE de trois vases avec couvercles, le plus grand de forme obconique,les deux autres ovoides,en ancienne porcelaine tendre de Sevres, decores tous trois, sur fond turquoise, de petites roses dans des medaillons reserves bordes en dorure. Ils sont compris dans des montures variees de bronze cisele et dore, a deux anses, collerette ajouree,piedouche et socle; decor de tetes de lions, entrelacs, feuillage et tore de laurier. Epoque Louis xVI.
+
+Reproduits pl. LIII.
+
+Haut.,2g cent.et 21 cent.
+
+- 166 — PaiRE DE vasEs ovoides en ancienne porcelaine de Paris, de la fabrique de Locre, decores chacun, sur fond vert, de deux medaillons reserves presentant, lun, les attributs de lamour, l'autre, des groupes d'amours, d'apres F. Boucher. Tous deux sont compris dans des montures anciennes de bronze cisele et dore, a anses tetes de bouc, culots a feuillages, piedouches a canaux et entrelacs. Socles moulures.
+
+Reproduits pl.LIV.
+
+Haut.,40 cent.
+
+- 167 — PaiRE DE vasEs obconiques avec couvercles,en ancienne porcelaine tendre de Sevres emaillee en bleu. Ils sont compris dans des montures de bronze cisele et dore formant cassolettes, composees de deux anses feuillagees, collerettes ajourees, bases moulurees et ornees de tores de feuillage. Epoque Louis XvI.
+
+Reproduits pl. LVI.
+
+Haut.,3o cent.
+- 168 Vase et son couvercle, en ancienne porcelaine de Saxe gaufree sous email, et orne dune tige de grosses fleurs en relief decorees au naturel,entourant la panse. Il repose sur
+- une base en bronze cisele et dore a feuillage.
+
+Reproduitpl.LVIl.
+
+Haut.,56 cent.
+
+- 169 —PAIRE DE CANDELABREs atrois lumieres, formes chacun d'un groupe en ancienne porcelaine de Saxe:Joueur de flute, sur l'un; Marchande de fruits, sur l'autre, dispose sur une terrasse contournee, faite de rocailles ornees de feurs, de laquelle s'eleve un arbuste a trois branches porte-lumieres, en bronze dore et fleurs en ancienne porcelaine.
+
+Reproduits pl.LVII.
+
+Haut., 41 cent.
+
+- 170 —PaiRE DE vAsEs forme balustre,en ancienne porcelaine de Saxe, decores en couleur, de medaillons reserves a sujets galants, dans le gout de Watteau, sur fond entierement couvert de myosotis,en relief et peints au naturel. Ils sont compris dans une monture de bronze cisele et dore a collerette et base que reunissent deux anses; decor de rocailles
+- feuillagees,laurier et volutes.Epoque Louis Xv.
+
+Haut.,37 cent.
+
+Collection C.Lelong,vente a Paris,avril-mai go3,n202.
+
+Reproduits pl.LVIII.
+
+- 171 - Ecriroire formee d'un plateau contourne en bois et de trois godets en laque,montes en bronze cisele et dore, avec garniture de feurettes en ancienne porcelaine. Elle est ornee, au centre, d'une statuette de marquise en vieux Saxe et de deux branchages porte-lumieres. Base a rocailles et feurons. Epoque LouisXv.
+
+Reproduite pl.LIX.
+
+Long.,32 cent,
+- 172 - DeUx FLAMBEAux avec cassolettes, formes chacun d'une terrasse ajouree a rocailles et festons sur laquelle s'elevent un socle surmonte d'une statuette en vieux Saxe figurant lEte pour l'un, l'Hiver pour l'autre, un vase a rocailles brule-parfums duquel s'eleve un bouquet de feurs odoriferantes et un branchage en bronze cisele et dore; le tout
+- orne de feurettes en porcelaine. Epoque Louis XV.
+
+Haut,29 cent.;larg.,33 cent.
+
+Reproduits pl. LIX.
+
+- 173 -LionNe couchee en ancienne porcelaine de Saxe, decoree au naturel,reposant sur une terrasse contournee a moulures et feuillage, en bronze cisele et dore.
+
+Haut.,2o cent.;long.,32 cent.
+
+Haut.,35 cent.
+
+Reproduite pl.LxIl.
+
+- 174 — PaIRE DE VAsEs-CAssoLETTEs formes chacun de deux coupes en ancienne porcelaine de Chine, gravee sous émail, et comprises dans une monture de bronze cisele et dore: collerette ajouree, mascarons tenant lieu d'anses, bouton a graine et rosace sur le couvercle, culot et piedouche; sur socle en granit.
+
+Reproduits pl.CxxI.
+
+- 175 -- Deux AIGuieres simulees formees chacune d'un vase bleu compris dans une monture de bronze cisele et dore. Anse faite d'une gaine a corps de femme, accompagnee de feuillage, guirlandes et chutes de feurs, col a deversoir creuse de cannelures, culot feuillage et piedouche a canaux.
+
+Haut,35 cent,
+
+Reproduites pl. LXIII.
+- 176 —PAIRE DE VAsEs ovoides a col cylindrique,en ancien celadon feuri de Chine, ornes de nenuphars en fleur, sur fond bleu empois. Ils sont compris tous deux dans des montures de bronze cisele et dore, comprenant deux anses a gros feuillage et surmontees doiseaux, guirlandes de laurier sur le col, perles et canaux sur la base,que portent quatre pieds moulures en saillie. Epoque Louis Xv.
+
+Reproduits pl.LxIV.
+
+Haut., 36 cent. 1/2.
+
+- 177 - PAIRE DE VAsEs-BALUsTREs en ancien celadon de Chine émaille a larges craquelures, montes tous deux en bronze cisele et dore pour former aiguieres a deversoir et anse; decor de volutes, feuillage a graines, chimeres ailees, baguettes, etc. Epoque Regence.
+
+Haut., 28 cent.
+
+Reproduits pl.LxiV.
+
+- 178 —Vase en ancienne porcelaine de Chine emaillee celadon,
+- a decor en couleur de buissons et d'arbustes fruitiers en fleurs et d'oiseaux. Il est compris dans une monture en bronze cisele et dore,a collerette et base reliees par des anses; decor de feuillage a graines, festons a volutes et chutes de fleurs.
+
+Reproduit pl.LXI.
+
+Haut.,48 cent.
+
+- 179 —PaiRE DE VAses de forme fuselee, en ancien celadon de Chine,a cotes festonnes. Ils sont compris tous deux dans des montures de bronze cisele et dore formant aiguieres, comprenant:un deversoir a bec orne d'un medaillon-buste, avec laurier et draperie, une anse grecque et une base a godrons, petit feuillage, etc. Fin de lepoque Louis XV.
+
+Reproduits pl.LXIV.
+
+Haut.,28 cent.
+- 18o -Deux coupes en agate comprises dans des montures de
+- bronze cisele et dore,forme cassolette a trepied,et reposant sur socles, futs et bases en porphyre, ornes d'un corps de moulures et de guirlandes en bronze finement cisele et dore. Attribuees a Gouthiere. Fin de Iepoque Louis XVI.
+
+Reproduitespl.LxV.
+
+Haut.,27 cent.
+
+- 181 — Coupe ovale godronnee, a bord festonne, en jaspe. Elle est montee sur un support a consoles-volutes et pieds de biche, reposant sur un socle en marbre et porphyre orne d'un corps de moulures et de guirlandes en bronze finement cisele et dore. Attribuee a Gouthiere. Fin de l'époque Louis XVI.
+
+Reproduite pl.LxV.
+
+- 182 —PAIrE DE vAses forme Medicis elevee,en agate,et compris tous deux dans des montures de bronze tres finement cisele et dore. Anses a mascarons, guirlandes de fleurs et fruits, culots feuillages, piedouches avec bases ornees de tores de
+- chene. Attribues a Gouthiere Epoque Louis XVI.
+
+Reproduits pl.XLVIl.
+
+Haut.,24 cent.1/2.
+
+- 183 PAIRE DE PETITs vAsEs ovoides, en cristal taille a facettes, compris chacun dans une monture de bronze cisele et dore formee d'une collerette, de deux anses a double branchage de laurier, d'un culot a feuilles et d'un piedouche creuse de canaux. Epoque Louis xVI.
+
+Reproduits pl.LV.
+
+Haut.,22 cent. 1/2.
+
+Haut.,34cent.1/2.
+- 184 -FLAmBEau a deux lumieres muni d'un petit écran,forme d'un groupe en ancienne porcelaine allemande :Fermiere donnant le grain a ses poules, reposant sur une terrasse entouree d'une balustrade rustique,et base ajouree,en bronze dore. De cette terrasse et derriere le groupe, s'elevent deux branches de feuillage fleuries de porcelaine qui portent les lumieres, ainsi qu'une tige sur laquelle se hausse ou se baisse un petit écran en soie.
+
+Reproduit pl. LxIII.
+
+- 185 —VasE-corNET en jade vert, de forme quadrilobee avec renflement median, muni de deux anses avec anneaux detaches. ll est tres finement taille et grave de delicates arabesques et de palmettes. Ancien travail chinois.
+
+Reproduit pl.LxIlI.
+
+Haut.,20 cent.
+
+## BRONZES D'AMEUBLEMENT
+
+## PENDULES,CANDELABRES,APPLIQUES CHENETS,ETC.
+
+- 186 -PAIRE DE FLAMBEAUx en bronze cisele et dore, formes
+- chacun d'une tige centrale cantonnee de quatre consoles a volutes ajourees. La base circulaire mouluree est creusee de canaux et ornee de feuillage de laurier. Epoque Louis XVI.
+
+Reproduits pl.LIX.
+
+Haut.,24 cent.1/2.
+
+Haut.,54 cent.
+- 187 — PerIr LusrRE a six lumieres, en bronze dore et metal peint, simulant des branches feuillagees garnies de feurs en ancienne porcelaine.Au centre de la corbeille formant le lustre, est dispose un groupe d'oiseaux en ancienne por-
+- celaine de Saxe. Epoque Louis XV.
+
+Reproduit pl. LX.
+
+Haut.,65 cent.environ.
+
+- 188 - PAIRE DE BRAs-APPLIQUEs a deux lumieres, en bronze
+- cisele, formes chacun d'une gaine,a feuillage et graines avec feurons a volutes, sur laquelle s'appuie un amour et d'ou partent deux branchages contournes se terminant par les porte-lumieres. Epoque Regence.
+
+Reproduits pl. LX.
+
+Haut.,56 cent.
+
+- 18g — PAIRE DE cANDELABREs a trois lumieres, en bronze cisele et dore,formes chacun d''une touffe de gros feuillage donnant naissance a un bouquet de trois branchages contournes se terminant par les porte-lumieres;base ronde mouluree a baguette enrubannee, perles et tore de laurier. Fin de
+
+Haut., 5g cent.
+
+- l'epoque Louis xv.
+
+Une paire de candelabres analogues se trouve au musee du Louvre dans la grande salle du Mobilier, de chaque cote du buste de la Du Barry, par Pajou.
+
+Reproduits pl.LXI.
+
+- Igo — PAIRE DE FLAMBEAUx-CAssoLETTEs en bronze cisele et dore. En forme de vases de fammes portes par trois pieds a volutes reposant sur une base ronde a moulures ornees; decor de laurier, guirlandes, canaux obliques, rang de perles et feuilles. Epoque Louis XVI.
+
+Reproduits pl.LXIll.
+
+Haut., 20 cent.
+- 1g1 —LusTRe a huit lumieres, tout en bronze dore. Les branches, par groupes de deux, sont disposees autour du balustre central surmonte lui-meme d'un vase qu'entourent quatre consoles. Decor de mascarons, tetes de boucs, petits bustes, feuillages. Epoque Regence. ll a ete dispose pour
+- l'eclairage electrique.
+
+Reproduit pl. LXVI.
+
+- 192 - GrANDE PeNDuLE en bronze patine et bronze dore, pré-
+- sentant l'Enlevement d'Europe.Elle est formee d'un taureau en bronze patine, qui porte le tambour renfermant le mouvement, qui porte,ainsi que le cadran,la marque dHenry Blondel,a Paris. Au-dessus, Europe est assise, tenant une torsade de feurs. Sur la base a rocailles, feuillage, feurons et volutes, sont assises deux des compagnes d'Europe. Epoque Louis XV.
+
+Reproduite pl. LxVII.
+
+- 193 -PAIRE DE BRAs-APPLIQuEs a deux lumieres,en bronze cisele et dore, formes, chacun, d'une gaine a buste de personnage chinois, au-dessus de rocailles desquelles partent deux
+- branches feuillagees porte-lumieres. Epoque Louis Xv.
+
+Haut.,46 cent.
+
+Haut.,54 cent.
+
+Haut.,8o cent.environ.
+
+Reproduits pl.LxVII.
+
+- 194 - PAIRE DE GRANDs CHENETs en bronze cisele et restes de
+- dorure, formes, chacun,d'un large motif a rocailles feuillagees et double volutes, sur lequel sont disposes, sur lun,un cerf dechire par un chien, sur l'autre,un sanglier attaque par la meute. Epoque Louis Xv.
+
+Haut.,36 cent.,larg.,35 cent.
+
+Reproduits pl.LxVIII.
+- presentant, chacun, sur une base mouluree et decoree d'une frise d'entrelacs et d'une pomme de pin,une figure de Jupiter, sur l'un,et une statuette de femme aupres d'un lion, sur l'autre. Epoque Louis XVI.
+
+Reproduits pl.LXIx.
+
+Haut., 48 cent.;larg.,42 cent.
+
+- 196 - PAIRE DE BRAs-APPLIQuEs a trois lumieres en bronze cisele et dore. Elles sont formees, chacune, d'une gaine portant un bouquet de tiges de feurs,autour de laquelle sont disposes trois branchages feuillages porte-lumieres; decor de canaux
+- et culot a graines. Epoque Louis XVI.
+
+Reproduits pl. LXX.
+
+- 197 - PaiRE DE cHENETs en bronze cisele presentant, chacun, un enfant nu,assis et soufflant dans une conque,reposant sur un socle accompagne d'une galerie en retraite se terminant par un vase de flammes. Decor de cassolette et rinceaux de
+- feuillage. Epoque Louis XVI.
+
+Reproduits pl.LXX.
+
+- 1g8 -PAIRE DE BRAs-APPLIQuEs a trois lumieres en bronze cisele
+- et dore, formees, chacune, d'un thyrse et d'une draperie retenus par un noeud de ruban, avec entrelacs de laurier, contre lesquels s'accrochent les branches porte-lumieres, creusees elles-memes de cannelures. Epoque Louis XVI.
+
+Haut., 7o cent.
+
+Haut., 61 cent.
+
+Haut., 42 cent.; long., 47 cent.
+- 199 —PAIRE DE CANDELABREs a trois lumieres, formes, chacun, d'une satuette de femme debout, drapee,en bronze patine, portant de ses deux bras un bouquet de quatre tiges de lis, dont trois fleurs forment les porte-lumieres, en bronze dore. Les socles cylindriques, en marbre blanc, sont moulures et ornes de guirlandes, egalement en bronze dore. Epoque
+- Louis XVI.
+
+Reproduitspl.LXxII.
+
+- 200 -PeNDuLE en marbre blanc, bronze dore et émaux de couleur. Le cadran, indiquant les quantiemes, jours et phases lunaires,marque: Cousin,horloger de M C.d'Artois, occupe le centre d'une arcade entouree d'une corniche mouluree que couronne un autel de l'Amour enguirlande de fleurs. Sous le cadran, est un bas-relief a sujet galant en bronze dore. Les piedroits sont ornes de deux appliques en émail peint, presentant douze petits medaillons a figures. A droite et a gauche de la pendule, se dressent deux statuettes d'apres Falconet en bronze cisele et dore. Contre-socle en marbre bleu turquin. Epoque Louis XVI.
+
+Haut.,48 cent.
+
+Haut.,93 cent.
+
+Reproduite pl.CxxVI.
+
+- 2o1 -PAIRE DE FLAMBEAUx en bronze cisele et dore et marbre
+- blanc;ils sont formes,chacun,d'une statuette d'enfant bacchant, nu, debout, portant une tige de pavot a feur porte-lumiere. Les socles cylindriques, en marbre blanc, sont ornes de moulures et de guirlandes de feurs. Epoque Louis XVI.
+
+Reproduits pl.CxxVI,
+
+Haut.,27 cent.
+- 202 —PaIRE DE vAsEs avec couvercles, sur piedouche,de forme ovale,en marbre blanc, ornes d'une monture en bronze cisele et dore,a deux anses faites de volutes feuillagees se rattachant a une collerette mouluree; couvercles surmontes d'un bouton a graine et bases a rangs de perles
+- et feuilles d'eau. Epoque Louis XVI.
+
+Haut.,26cent.1/2;larg.,3o cent.
+
+Reproduits pl. CxIII.
+
+- 203 — PAIRE DE cANDELABREs a trois lumieres en bronze patine, bronze dore et marbre. Ils se composent, chacun, d'une statuette d'Amour nu, couronne de pampres,debout et portant de ses deux bras un thyrse sur lequel viennent s'appuyer les trois branches de lumieres en bronze dore. Les socles carres, en marbre, reposent sur des contre-socles moulures de bronze dore.Epoque Louis XVI.
+
+Haut.,70 cent.
+
+Haut., I m.06.
+
+Reproduits pl. LXxVII.
+
+- 204 - PAIRE DE GRANDs CANDELABREs a six lumieres, formes, chacun, d'une statuette d'enfant nu, drape et debout,en bronze patine, portant un bouquet de tiges de lis portelumieres en bronze dore. Socles cylindriques moulures et canneles, egalement en bronze dore. Contre-socles en marbre.Epoque Louis xVI.
+
+Reproduits pl. LXxIII.
+## SCULPTURES
+
+## EN TERRE CUITE,MARBRE ET BRONZE
+
+- 205 - TREs IMPoRTANT GRouPE en bronze comprenant onze figures et representant la Poursuite de la Renommee, qui domine la composition, sonnant de la trompette. Sur les quatre faces du piedestal, sur lequel repose le groupe du centre, se lit l'inscription suivante:
+
+BERTOS I inventor Dei gratia | fusit perfecit|fecit
+
+Italie. xvre siecle. Socle octogonal en bois dore.
+
+Haut. du groupe, 86 cent.
+
+Reproduit sur deux faces,pl.LxxIV.
+
+- 206 — PAIRE DE FLAMBEAux en marbre blanc, formes, chacun, d'une statuette de femme debout, drapee,portant de ses deux bras une corne de feuillage porte-lumiere et reposant sur base mouluree ornee de bronzes. xvine siecle.
+
+Reproduits pl.LV.
+
+Haut., 36 cent.
+
+- 207-SrATuETTE en bronze patine presentant un enfant bacchant, couronne et ceint de pampres, etendu a terre, tenant une coupe dans sa main gauche et appuyant son bras droit sur une outre. Socle en bronze dore a rocailles feuillagees et ajourees. xvinl siecle.
+
+Haut.,26 cent.;long.,34 cent.
+
+Reproduite pl.LXII.
+- 2o8 — Deux GRoupEs en terre cuite presentant, chacun,un
+- enfant jouant avec une chevre. xvin siecle. Socles en marbre bleu turquin orne de bronze dore.
+
+Reproduits pl.LV.
+
+Haut.,20 cent.
+
+- 20g — IMPoRTANTE PENDULE a colonne et a cadran tournant horizontal, composee d'un groupe pastoral,presentant deux personnages en terre cuite du xvie siecle. A droite, assise, une bergere, effeuillant une marguerite, accepte la declaration d'un berger agenouille devant elle et lui offrant une couronne de feurs. Derriere ce groupe, sur un rocher,un amour debout, carquois en bandouliere,le bras gauche leve, indique l'heure que marque la pendule placee a l'arriere-
+- plan. Socle moulure en marbres blanc et bleu-turquin portant en lettres de cuivre dore : L'Heure du Berger.
+
+Reproduite pl.LXIx.
+
+Haut., 83 cent.; larg,70 cent.
+
+- 210  SrATuETTE de nymphe en terre cuite, par Clodion,
+- signee. Elle est representee nue, etendue sur une draperie, la tete appuyee sur sa main gauche, son bras droit pose sur la panse d'une urne renversee. xvi siecle. Socle en marbre gris orne de bronze dore.
+
+Reproduite pl. LVIII.
+
+Haut.,27 cent.;larg.,37 cent.
+
+- 211 — Groupe en terre cuite,par Clodion,non signe,presentant un homme nu, debout,une jambe appuyee sur le col d'une urne renversee, enlevant une bacchante tenant un thyrse dans sa main droite; derriere,un enfant nu, debout,élevant
+- ses deux bras. Esquisse. Socle carre en bois sculpte dore.
+
+Haut.,36 cent.
+- 212 - BusTe de jeune femme, grandeur nature, coiffee a lantique et paree d'un diademe,en marbre blanc, par Augustin Pajou, non signe. xvne siecle. Sur piedouche moulure.
+
+Haut.,5o cent.1/2.
+
+Reproduit pl.LxxII.
+
+- 213 - Deux sTATuETTEs en bronze cisele et patine formant pendants, lune, presentant Bacchus etendu sur une peau de bete, tenant un thyrse dans sa main droite et une coupe dans sa main gauche; l'autre, une Bacchante etendue sur une draperie aupres d'une urne renversee et d'un tambourin, tenant une grappe de raisin dans sa main droite. xvine siecle.
+- Socles en marbre ornes de bronzes.
+
+Reproduites pl.LXxV.
+
+Haut.,45 cent.;larg.,53 cent.
+
+- 214 — STATuE en marbre blanc, presentant une Source, sous les traits d'une femme debout,vetue d'une tunique serree a la taille par une ceinture et tenant, sous chaque bras, une urne. xvin siecle. En bas, gravee, l'inscription : Van Lede,1786.
+
+Haut.,I m.45.
+
+Collection de feu M. le Comte d'Armaille,vente apres son deces,a Paris, en son hotel,5-6 juin 18go,n°78.
+
+Reproduite pl.LXxVI.
+
+- 215  SrATuETTE en terre cuite,par Augustin Pajou,presentant Ceres ou l'ete sous les traits d'une femme debout, amplement drapee, tenant en sa main droite une faucille,la main gauche posee sur les epis d'une gerbe dressee pres d'elle. xvin siecle. Socle rond en marbre orne de bronze dore.
+
+Haut.,63 cent.
+
+Cette statuette semble etre la maquette de l'artiste,faite d'apres son dessin se trouvant au musee des Arts decoratifs,et d'apres laquelle il aurait execute, vers 1767,la figure en marbre qui fait actuellement partie de la collection de MmeL.Burat,a Paris.Cf.H.STEIN:Augustin Pajou,Pp.206-207-400.
+
+Reproduite pl. LxxVIl.
+- 216  Deux sTaTuETTes en marbre blanc, presentant des allégories,figurees par des femmes drapees, l'une tenant des fleurs,l'autre un bocal a couvercle.xvine siecle.Piedouches moulures et socles en marbre.
+
+Haut.,25cent.
+
+Reproduites pl.LXxVIII.
+
+- 217 — Deux PETIrs BusTEs en terre cuite, par Marin, signes,
+- presentant un Faune et une Bacchante. Le premier est egalement date 1821. Commencement du xixe siecle. Socles en bois peint et dore.
+
+Haut. des bustes,20 et 21 cent.
+
+Reproduits pl.LXXIX.
+
+## SIEGES DIVERS
+
+## MOBILIER DE SALON ET SIEGES COUVERTS EN TAPISSERIE
+
+Pour tous renseignements complementaires sur la biographie et les ceuvres des maitres-ebenistes cites,priere de se reporter aux ouvrages speciaux suivants:E.MoLINIER:Le Mobilier au XVII et au XVIIl siecle;H.VIAL A.MARcEL et A.GiRoDIE:Les Artistes decorateurs du bois;CteFR.DE SALVERTe:Les Ebenistes du XVIlle siecle,leurs ceuvres et leurs marques.
+
+- 218 - GRAND TABouRET rectangulaire,a pieds cambres a volutes et sabots de biches reunis par un croisillon,en bois sculpté dore. Decor de coquilles, fleurons et feuillage sur fond quadrille. Epoque Regence. Garni d'un coussin couvert en soie brochee.
+
+Reproduit pl.LXXX,
+
+Long.,79 cent,
+- 219— Deux TABouRETs pliants a X,en bois sculpte et redore,
+- decores de rocailles, gros feuillages et petits entrelacs. Epoque Louis XV. Tous deux sont tendus d'ancien damas borde de franges.
+
+Un est reproduit pl.LXXX.
+
+Long.,6r cent.
+
+- 220  HuIT GRANDs FAUTEuILs en bois sculpte dore,recouverts d'ancienne tapisserie de Paris du temps de la Regence.Trois d'entre eux presentent, aux sieges, des grosses feurs de pivoines et pavots et,aux dossiers,des fleurs variees et feuillages sur lesquelles sont poses des oiseaux,perroquets ou paons.Les cinq autres offrent,aux sieges et dossiers,des gerbes de grosses fleurs sur fond bleu. Quelques-uns offrent, en outre, des perspectives de paysages.
+
+Reproduits pl.LXXXI.
+
+Larg,7I cent.
+
+- 221  Deux GRANDs FAUTEuILs a siege et dossier contournes,en bois sculpte redore, decores de rocailles, feuillage et graines avec quadrille. lls sont recouverts dancienne tapisserie,presentant des fruits, feurs et oiseau, dans des entourages a fleurons et feuillage. Epoque Regence.
+
+Un est reproduit pl.XCIII.
+
+Larg...72cent.
+
+- 222 - GRAND FAUTEuIL a haut dossier, en bois sculpte redore, avec bras a volutes et pieds-gaines relies par un croisillon. Il est recouvert, aux siege et dossier, d'ancienne tapisserie des Gobelins presentant, sur fond jaune lame de metal, des arabesques formees de cartels contournes encadrant des divinites marines ainsi que des attributs divers : tritons, sirenes, dauphins,rinceaux feuillages a volutes,feurs,etc., du temps de la Regence.
+
+Reproduit pl.LXXXII.
+
+Haut.,1 m.25;larg.,64cent,
+- 223 — GRAND FAuTEuIL a haut dossier,en bois sculpte redore,
+- avec bras et pieds a volutes, ces derniers relies par une entretoise. Il est recouvert, aux siege et dossier,d'ancienne tapisserie des Gobelins presentant, sur fond jaune a quadrille, des arabesques formees d'oiseaux divers au-dessous d'un dais treillage,perroquets, cigognes, colombes et guirlandes de fleurs.Epoque Regence.
+
+Haut.,1 m.23;larg.,67 cent.
+
+Reproduit pl.LXxXII.
+
+- 224 - SIx GRANDs FAUTEuILs a sieges et dossiers contournes, en bois moulure, sculpte et redore, decores de petits cartels et chutes de piastres, portant lestampille de Tilliard. Ils sont recouverts d'ancienne tapisserie de la Manufacture royale de Beauvais. Les sieges, ainsi que les dossiers, offrent, en des compositions variees, des sujets a animaux inspires des Fables de La Fontaine, dans des entourages faits de torsades
+- de feuillage et de fleurs. Epoque Louis XV.
+
+Larg. d'un fauteuil, 70 cent.
+
+Tilliard(JacquesJean-Baptiste),recu maitre en 1752,habitait rue deClery.
+
+Deux sont reproduits,pl.LxxxIII.
+
+- 225 QuATRE FAUTEuILs a sieges et dossiers contournes,en bois moulure, sculpte,peint et polychrome,a decor de feurettes et tiges de feuillage. Ils sont recouverts d'ancienne tapisserie, presentant des gerbes fleuries au centre d'entourages formes de torsades et festons de feurs. Epoque Louis XV.
+
+Larg., 63 cent.
+- 226 — QuATRE FAUTEuILs a dossiers et sieges arrondis, sur pieds fuseles et canneles,en bois sculpte et dore; decor de feuilles d'eau, rosaces et feuillage. Ils portent l'estampille de G. Jacob et sont recouverts d'ancienne et fine tapisserie de Beauvais, presentant des gerbes de fleurs dans des entourages festonnes et fleuris avec noeuds de ruban. Contre-fond grenat. Epoque Louis xVI.
+
+Jacob (Georges) recu maitre en 1765.
+
+Reproduits pl. LxxxV.
+
+- 227- AMEUBLEMENT DE SALoN compose d'un canape et huit
+- fauteuils en bois moulure, sculpte et redore, decore de ruban, piastres et agrafes feuillagees. Ce mobilier est recouvert d'ancienne et fine tapisserie d'Aubusson, presentant des medaillons ovales a sujets de petits personnages jardiniers ou jardinieres sur les dossiers, en compositions pastorales a animaux sur les sieges. Les entourages etant formes de festons en branches fleuries. Epoque Louis XVI.
+
+Reproduit pl. LXXXVI.
+
+Long. d'un canape,2 metres. Larg.d'un fauteuil,65 cent.
+
+- 228 -Ecran de cheminee en bois sculpte et dore, sur pieds a
+- volutes avec patins; decor de coquilles accompagnees de rinceaux feuillages, feurons, quadrille, cours de postes. Il est garni d'une feuille en ancienne tapissserie au point et petit point,offrant, sur fond jaune,une arabesque a branchages, oiseaux, petits animaux et personnages chinois. Epoque Louis XIV.
+
+Haut.,1 m.1g;larg.,75 cent.
+
+Larg., 61 cent.
+
+Reproduitpl.LxxxVII.
+- 229  CaNAPE en bois mouluré, sculpte et dore,recouvert d'ancienne tapisserie de Beauvais du temps de Louis XVI, decor de rinceaux de feuillage et guirlandes de fleurs sous un lambrequin a draperie, au dossier, et dans un entourage de fleurs, au siege. D'apres Salembier.
+
+Reproduit pl.XC.
+
+- 23o -Ecran en bois sculpte dore,a decor d'entrelacs sur pietement orne de feuillage. ll est muni d'une feuille en presentant :La Cueillette des Cerises.Entourage a draperie bleue avec franges et glands d'or, enguirlandee de fleurs
+- ancienne tapisserie de Beauvais,du temps de Louis XV, et laurier.
+
+Dimensions de la feuille. Haut.,78 cent.; larg,5o cent.
+
+Cet ecran faisait partie du mobilier de Beauvais qui accompagnait la tenture a draperies bleues, d'apres les cartons de J.-B. Huet. Un exemplaire de ce mobilier figurait dans la collection Ed. Chappey.Vente a Paris,juin 1go7, n°1423.
+
+Reproduitpl.LXxxVIl.
+
+- 231 -QuATRE FAuTEuILs en bois moulure, sculpte et redoré a dossier arrondi du haut, sur pieds fuseles et canneles a decor de rais de cceur et feuillage. Ils sont recouverts d'ancienne tapisserie de Beauvais, decoree d'attributs, gerbes, corbeilles et guirlandes de fleurs, dans le gout de Salembier. Deux des bois portent l'estampille de J.-B. Lelarge. Epoque Louis XVI.
+
+Larg., 61 cent.
+
+Lelarge (Jean-Baptiste),recu maitre en 1775. Il habitait rue de Clery.
+
+Deux sont reproduits pl.XC.
+
+Long., I m.89.
+- 232 - DeUx GRANDEs cHAIsEs a sieges et dossiers contournes, a
+- chassis mobiles, en bois moulure, sculpte et redore,presentant une abondante decoration de feuillage s'enroulant autour d'une baguette, au dossier. La ceinture est ornee d'un gros entrelacs a perles et rosaces. Les pieds ronds et fuseles sont creuses de cannelures obliques. Par Delanois, non signees. Epoque Louis XVI. Les chassis des sieges et dossiers sont garnis de soie brodee au point de chainette offrant des gerbes fleuries au centre d'encadrements a treillis.
+
+Larg.,57 cent.
+
+Delanois (Louis), dit Lanoix,recu maitre en 1761,habitait rue du Petit-
+
+Carreau.
+
+L'attribution de ces chaises a Delanois se justifie par cet extrait de l'ouvrage de M.le Comte Fr.de Salverte:Les Ebenistes du XVIIIe siecle,Pp.81-82 et pl.xV,relatif a d'autres chaises exactement semblables a celles-ci.
+
+“.. Le nom de ce maitre (L. Delanois) oublie depuis un siecle, fut revele
+
+Sur la reproduction de cette chaise,on peut voir que la garniture de soie
+
+- aux collectionneurs lors de l'Exposition Universelle de 188g. La section retrospective du Trocadero renfermait,en effet, trois chaises d'un merveilleux travail, signees L.Delanois. Elles reparurent en 18g1 a la vente du Vicomte de Bondy,avec trois autres pieces similaires,mais differentes dans les details, qui portaient la meme estampille. Ces ceuvres precieuses ont malheureusement quitte la France pour enrichir le musee d'Art industriel de Berlin. Leur style recherche et leur fastueuse elegance m'avaient fait supposer qu'elles devaient provenir de Madame du Barry. Les papiers de la Comtesse, que possede la Bibliotheque nationale,m'en ont fourni la preuve.Elles dependaient de deux suites de sieges executees pour le salon de Louveciennes et minutieusement decrites dans un memoire du doreur Cagny qui fut charge de les peindre. Notre planche XV montre une de ces chaises...
+
+est la meme que celle des deux chaises de la presente collection.
+
+Une est reproduite pl.LxxxVIII.
+
+- 233 — GRAND FAUTEuIL a dossier rectangulaire, en bois moulure, sculpte et dore; decor d'entrelacs avec petites rosaces, feuilles d'eau,palmettes,etc.Epoque Louis XVI. Garniture d'ancienne soie brochee et chenillee.
+
+Reproduit pl. LXXxVIII.
+
+Larg.,75 cent.
+- 234—DEUx PETITs CANAPEs dits α marquises ,a sieges et
+- dossiers droits. Ies dossiers sont limites par les bras se terminant en volutes et le decor consiste en cours de piastres;les pieds fuseles et canneles sont surmontes de rosaces. Garniture d'ancienne soie brochee de Philippe de Lasalle. Epoque Louis XVI.
+
+Larg., 81 cent.
+
+Cf.PoIDEBARD (Alex.) et CHATEL (Jacques):Camille Pernon, fabricant de soieries a Lyon,sous LouisXVI et Napoleon Ier
+
+Reproduits pl.LXxXIx.
+
+- 235 — GRANDE BERGERE a siege et dossier rectangulaires, sur pieds fuseles et canneles,en bois moulure, sculpte et dore; decor depetit vase et branches de laurier.Elie estrecouverte d'ancienne tapisserie d'Aubusson a gerbes de feurs. Le bois
+- porte l'estampille: I. Pothier.Epoque Louis XVI.
+
+Pothier (Jean-Jacques). Recu maitre en 1750.
+
+Reproduite pl.xCIll.
+
+- 236 —Deux cHAisEs a siege et dossier rectangulaires, en bois moulure, sculpte et redore, sur pieds fuseles et canneles; decor de rais de coeur et petits culots de feuillages, rosaces,
+- etc. Estampille de H. Jacob.Epoque Louis XVI.
+
+Larg.,55 cent.
+
+Jacob (Henri), recu maitre en 1779,habita rue de Bourbon-Villeneuve, jusqu'en 1788.
+
+Reproduites pl.XCI.
+
+Larg., 71 cent.
+- 237 - PeTIT cANAPE-MARQuIsE en bois moulure, sculpte et redore. Les bras-accotoirs, feuillages, s'appuient sur les montants surmontes dune graine. Les pieds,fuseles et canneles, sont couronnes de chapitaux a volutes. Decor de rangs de feuilles, rubans, rosaces. Epoque Louis XVI. Garniture d'ancienne soie brochee a ruban et feurs.
+
+Larg., I metre.
+
+Reproduit pl.xCIl.
+
+- 238 — PETIT cANAPE-MARQuIse de forme droite, en bois mouluré, sculpte et redore,portant lestampille de H.Jacob,et decore de rangs de feuilles,cours de piastres et entrelacs, sur pieds fuseles et canneles. Garniture d'ancienne tapisserie de la Manufacture royale de Beauvais, presentant, au dossier, sous une draperie frangee d'or,un trophee de musique et des guirlandes de feurs; sur le siege, une cornemuse et des feurs. La plate-bande, les joues internes et externes offrent
+- également un decor feuri. Epoque Louis XVI.
+
+Reproduit pl.XCll.
+
+Larg., go cent.
+
+- 23g - CHAIsE-FUMEusE a dossier-lyre entre deux colonnettes
+- supportant une tablette d'appui, en bois moulure, sculpte et redore. Le siege et la tablette sont recouverts d'ancienne tapisserie de Beauvais a gerbe et entourage de fleurs. Epoque Louis XVI.
+
+Reproduite pl. XCIII.
+
+Larg.du siege,40 cent.
+
+- 240  Lrr de repos a deux dossiers renverses a crosses, repoDecor comprenant des cours de piastres, rosaces, ruban et chutes de fleurs. En partie d'époque Louis XVI. Garniture
+- sant sur huit pieds fuseles et canneles,en bois sculpte redore. d'ancienne soie brochee a feurs.
+
+Long.,1 m.88;larg.,68 cent.
+
+Reproduit pl. CxIV.
+## MEUBLES
+
+## EN BOIS SCULPTE,BOIS DORE ET EBENISTERIE DES XVI,XVII ET XVIII SIECLES
+
+- 241 — MeUBLE-CABINET en bois sculpte ciré et incruste de plaquettes de marbre.A deux corps,la partie inferieure ouvre a deux portes moulurees dans un encadrement a rinceaux, dont le bandeau forme tiroir. Le corps superieur, qui contient aussi deux portes decorees, en bas-relief, de figures allegoriques, est cantonne de colonnettes soutenant un entablement a figures de nymphes et fronton coupe avec statuette d'Amphitrite.En partie du xvr siecle.
+
+Reproduit pl. XCIV.
+
+Haut.,2 m.32;larg.,I m.17.
+
+- 242—PETIT MEUBLE-CABINET a deux cOrps, en bois sculpte naturel avec traces de dorure et incrustations de plaquettes de marbre. Il ouvre a quatre portes et le corps superieur, cantonne de deux colonnettes d'angle,est couronne d'un fronton coupe et d'une statuette de Diane. Decor d'attributs guerriers en bas-relief, tete d'angelot, chimeres, cygnes, guirlandes, etc. xvr siecle.
+
+Haut.,2 m.04;larg.,87 cent.
+
+Reproduit pl. XCV.
+
+- 243 — MeuBLE en bois sculpte cire avec incrustations,a deux corps superposes, ouvrant a quatre portes et deux tiroirs; decor de cariatides,mufes de lions,niches a double colonnettes et fronton coupe. En partie de la fin du xvre ou commencement du xvin siecle.
+
+Haut., I m.8g;larg.,1 m.45.
+
+Reproduit pl. XCVI.
+- 244- MeuBLE en bois sculpte, orne d'arabesques peintes. A deux corps,la partie inferieure ouvre au moyen d'une porte decoree d'un personnage debout dans une niche encadree de rinceaux; le corps superieur, cantonne de deux cariatides, est muni d'un abattant decore, au centre, d'un cartel avec inscription latine. L'ensemble est couronne d'un entablement sur lequel est un ecusson d'armoiries entre deux dauphins.
+- xvile siecle.
+
+Reproduit pl. XCVII.
+
+- 245 - GrANDE vITrINE a deux portes en ebene et marqueterie de cuivre sur ecaille, dans le gouit de Boulle. Elle est decoree, sur la face, de trois pilastres sur lesquels reposent une corniche mouluree, ornementation de bronzes dores, comprenant chapiteaux ioniques, petits mascarons, larges
+- rosaces, moulures ornees. etc. Epoque Louis XIV.
+
+Haut.,2m.47;larg.,I m.56.
+
+Reproduite pl. XCVIII.
+
+- 246 - TABLE rectangulaire en marqueterie de Boulle (en seconde partie),munie d'un tiroir sur pieds a double volute relies par un croisillon. La partie centrale du dessus offre, en marqueterie de bois, une gerbe de fleurs,le restant du meuble, en marqueterie de cuivre et etain, ecaille et corne, a decor de rinceaux et feurons. L'ornementation de bronzes ciseles et dores comprend notamment des chutes a bustes de femmes ailees, des baguettes d'encadrements sur les cotes, et des volutes feuillagees sur les patins de pieds.
+- Epoque Louis XIV.
+
+Reproduite pl. XCIX.
+
+Haut.,76 cent.;long.,I m.14.
+
+Haut.,2 m.3o;larg.,I m.03.
+- 247 -TABLE rectangulaire sur pieds cambres, munie d'un tiroir lateral,plaquee d'ebene,incrustee de filets de cuivre et ornee de bronzes ciseles et dores : moulures diverses a oves obliques ceinturant le dessus, ou encadrant les cotes, dont les milieux sont marques d'une palmette a feuillage; chutes a bustes de femmes et pieds feuillages a volute. Epoque
+- Regence.
+
+Reproduite pl.XCIX.
+
+Haut.,75 cent.1/2;larg., 84 cent.
+
+- 248 - GRANDE ARMoIRE a deux portes pleines,couronnee d'une corniche cintree et mouluree, dont les extremites portent sur deux pilastres; base mouluree et plinthe. Elle est plaquee de bois de rose et de bois a reflets satines, et ornee de bronzes ciseles et dores : encadrements des portes a volutes, feuillage et écoincons, reservant, au centre de chacune,un motif arrondi que decore,au centre,un petit cartel cantonne de bustes de sphinx; les pilastres sont ornes de trois appliques a fleurons. Attribuee a C. Cressent, ebeniste du
+
+Haut.,2 m.47; larg., 1 m.38.
+
+Collection E.de Pommereau,vente a Paris,le 1o mai 18g4,n°55.
+
+Ce beau meuble est reproduit p. 1og dans E. MoLInIER:Le Mobilier francais au XVIle et au XvIlle siecle.L'attribution a Charles Cressent est exprimee par cet auteur.
+
+Reproduite pl. C.
+
+- 249 - Virrine en bois sculpte naturel, a deux portes ajourees, coins arrondis, couronnee d'une petite corniche et reposant sur une plinthe avec pieds cambres. Decor de palmettes, volutes, feuillage,rosaces et feurons.Epoque Regence.
+
+Reproduite pl. CI.
+
+Haut., 1 m. 5o; larg, I metre.
+
+- Regent. Epoque Regence.
+- 250 -CHIFFoNNIEr étroit a huit tiroirs, sur plinthe a petits
+- pieds cambres, en marqueterie de bois de placage sur les trois faces, formant carrelage avec fleurons. Dessus de marbre ceinture d'une galerie ajouree en cuivre. Fin de l'époque Louis XV.
+
+Reproduit pl. CI.
+
+- 251 —Deux MeuBLEs d'entre-deux, de meme forme droite, I'un, a abattant au-dessus de deux portes et surmonte de quatre tiroirs disposes sur deux rangs; lautre, comprenant egalement quatre tiroirs au-dessus de deux armoires superposees, ouvrant chacune a deux portes. Tous deux sont en marqueterie de bois de placage offrant, sur chaque panneau, face et cotes, une rosace en bois debout sur un fond rayonnant avec filets d'encadrement. Ils sont ornes de bronzes ciseles et dores: frise de rinceaux feuillages,lignes d'oves,moulures ornees formant encadrements, cul-de-lampe et patins de pieds. Dessus de marbre blanc. Estampille de M. Carlin. Epoque Louis XVI.
+
+Haut.,1 m.55;larg.,40 cent.
+
+Haut.,1 m.59;larg., 1 m.03.
+
+Ont figure al'Exposition Marie-Antoinette et son temps,galerie Sedelmeyer, aParis,1894,n°277.
+
+Carlin (Martin), recu maitre en 1766;il habitait Grande-Rue-du-FaubourgSaint-Antoine,a l'enseigne: La Colombe.
+
+Reproduits pl. CII.
+
+- 252 — CoMMoDE de forme contournee, sur pieds cambres, ouvrant a deux tiroirs sur la face et une porte sur chacun des cotes. Elle est en marqueterie de bois de placage, ornee d'un medaillon central charge d'une gerbe de feurs, sur fond a carrelage. Garniture de bronzes :chutes, sabots, encadrements des trois faces; sur le devant, cartel contourne avec volutes feuillagees formant poignees de tirage. Dessus
+- de marbre. Epoque Louis XV.
+
+Reproduite pl. CIII.
+
+Long.,I m.25.
+- 253 TABLE-TRIcoTEusE oblongue,a plateau ceinture de bords releves dont un peut se rabattre pour former bureau; elle repose sur deux pieds ajoures que reunit une traverse egalement ajouree. Elle est decoree de carrelages en marqueterie de bois ronceux avec filets, et porte l'estampille de E.Levasseur.Epoque Louis XVI.
+
+Haut.,75 cent.;long,76 cent.1/2.
+
+Levasseur (Etienne), recu maitre en 1766;habitait rue du Faubourg-Saint-
+
+Antoine 231et plus tard114.
+
+Reproduite pl. CIlI.
+
+- 254—PETIT BuREAu de dame,a abattant oblique dit a 《 dos d'ane ,de forme contournee, sur pieds cambres, en marqueterie de bois de placage formant carrelage et dispose en éventail sur l'abattant. L'interieur,qui contient trois tiroirs et un compartiment a couvercle coulissant, est decore de rinceaux de feuillage en bois debout. Garniture de bronzes ciseles et dores. Estampille de Delorme. Epoque Louis XV.
+
+Haut.,83 cent.;larg.,65 cent.
+
+Delorme-Faizelot (Adrien), recu maitre en 1748;il habita rue du Temple jusquen 1788environ.
+
+Reproduit pl. CIV.
+
+- 255—PETIT BUREAu de dame,a abattant oblique dit a α dos d'ane , de forme contournee, sur pieds cambres,en marqueterie debois de placage a decor de compartiments charges de motifs divers en bois debout.L'interieur,decoré de meme, comporte trois tiroirs apparents et trois autres dissimules sous une tirette a coulisse. Estampille de B.V.R.B.Epoque Louis XV.
+
+Haut.,77 cent. 1/2;larg.,68 cent.
+
+B.V.R. B., ebeniste fort repute du temps de Louis XV, qui signait de ces quatre initiales encore non expliquees.
+
+Reproduit pl. CIV.
+- 256- TABLE de dame, formant liseuse ou coiffeuse, de forme galbee et contournee, sur pieds cambres, en marqueterie de bois de placage, le dessus decore d'un carrelage entoure d'un double filet a grecques et volutes. Elle ouvre au moyen d'une cle qui permet au dessus de coulisser en arriere et au corps superieur,contenant pupitre,deux casiers et un tiroir, de venir en avant. Elle est ornee d'une bordure moulurée,de quatre chutes et de quatre sabots en bronze dore. Estampille de R. V.L. C.(Roger Vandercruse La Croix).Epoque Louis XV.
+
+Haut., 68 cent.1/2;1ong.,79 cent.1/2;larg.,47 cent.
+
+Cette remarquable table parait etre celle qui faisait partie de la collection du vicomte de B...(vente a Paris,18gi) et qui se trouve reproduite dans: E.MoLINIER.Le Mobilier au XVIIe et au XVIlle siecle, p. 143.
+
+Delacroix (Roger Vandercruse dit Lacroix ou) signait souvent des initiales R.V. L. C.Recu maitre en 1755,il habita Grande-Rue-du-Faubourg-SaintAntoine.
+
+Reproduite,ouverte et fermee,pl.CV.
+
+- 257 — CoFFReT oblong a abattant, formant secretaire de voyage, avec ecritoire et tablette a écrire, et muni de petits casiers et tiroirs, en acajou moulure. A l'exterieur, sur ses quatre faces, ainsi que sur le dessus, il est decore de marqueterie de bois de couleur': sur l'abattant, se voient groupes une lyre, des livres, un encrier, une rose et une branche de laurier; sur les cotes et le dessus, des feurs : ceillets et lis. Les aretes et les coins sont proteges par une garniture de cuivre dore. Epoque Louis XVI.
+
+Haut.,36 cent.;long.,52 cent.
+
+Collection C.Lelong,vente a Paris,mai 1go3,n951.
+
+L'abattant reproduit pl. CVI.
+- 258 — PeTITE TABLE forme rognon, ouvrant a porte coulissante masquant quatre tiroirs dont le superieur est muni d'un miroir. Sur le cote droit, deux compartiments ouvrent a charnieres. Elle est en bois de placage et repose sur pieds cambres, decoree sur le dessus, en marqueterie de bois de couleur, d'un trophee d'instruments de musique et, sur les
+- cotes et la porte, de tiges de feurs. Epoque Louis Xv.
+
+Haut.,73 cent.,;long.,53 cent.
+
+Reproduite pl. CVI.
+
+- 259  PeTIT MEuBLE formant coffret a bijoux, sur petite table a
+- pieds cambres munie d'un tiroir. Le coffret ouvre a abattant de face, avec tiroirs interieurs, et le dessus, ouvrant a charnieres, decouvre un compartiment. Ce meuble,en bois de placage, est orne sur l'abattant d'un vase en marqueterie de bois debout.Il est garni de bronzes dores:moulures a godrons, chutes et sabots, agrafes et poignees laterales. Estampille de B. V. R. B. (au-dessous du tiroir de la table). Epoque Louis XV.
+
+Haut.,I metre;long.,4o cent.
+
+B.V.R.B.—Voir supra,n255.
+
+Reproduit pl. CVI.
+- 26o - GRANDE coMMoDE de forme contournee, sur pieds eleves et cambres,ouvrant a deux tiroirs, en ancienne laque, decoree en dorure sur fond noir et,sur les trois faces,de paysages chinois animes de figures. Elle est amplement decoree de bronzes ciseles et dores formant des encadrements, avec un large motif a cartouche compose de rocailles a volutes et feuillages dont les retours se terminent en crochets servant de poignees de tirage; sur les angles, deux fortes chutes rejoignent les sabots. On trouve sur les bronzes le poincon C couronne et le meuble porte l'estampille de 1.F.Dubut.Epoque Louis XV.
+
+Haut., 66 cent.;larg.,I m.47.
+
+Dubut (Jean-Francois), qu'il ne faut pas confondre avec son homonyme Gilles-Ambroise, menuisier en carrosses, habitait rue du Faubourg-Saint-
+
+Antoine et mourut vers 1778.
+
+Reproduite pl. CVII.
+
+- 261—PETITE TABLE oblongue legerement galbee,munie d'un tiroir et d'une tablette-tirette pour ecrire, sur pieds cambres reunis par une entre-jambes. Elle est en bois de placage et ornee de marqueterie a fleurs sur l'entre-jambes, ainsi que sur le dessus, qui presente en outre des filets formant compartiments. Ceinture, chutes, entrees de serrures et patins en bronze.Epoque Louis XV.
+
+Haut.,72 cent.1/2;larg.,62 cent.1/2.
+
+Reproduite pl. CVIII.
+- 262— PeTITE TABLE ronde sur trois pieds eleves a double cambrure contrariee, reunis a la base par un tambour, ouvrant a deux couvercles adosses pour former deux compartiments. Elle est entierement decoree en marqueterie de bois de couleur a branches fleuries sur fond clair. La ceinture est munie d'un tiroir. Garniture de bronzes ciseles: rosaces et patins; et deux galeries ajourees en cuivre, dont une entoure le dessus de marbre blanc. Estampille de N. Petit.Fin de l'epoque Louis XV.
+
+Haut.,75 cent.;diam.,35 cent.
+
+Petit (Nicolas), recu maitre en 1765, habitait rue du Faubourg-Saint-
+
+Antoine, pres le Trone.
+
+Reproduite pl. CVIII.
+
+- 263 -MeuBLE d'entre-deux, galbe de face,a pans coupés, ouvrant a deux portes surmontees de trois tiroirs,reposant sur pieds cambres,en bois de placage. ll est decore sur trois faces de bronzes ciseles et dores. Sur les portes, cartels contournes avec figures allegoriques; sur les tiroirs, motifs a palmettes et feuillage. Chutes de fleurs sur les pans coupes; enfin, sur les cotes,un monogramme forme des initiales F et P entrelacees.Estampille de Birckle. Dessus de marbre blanc moulure.Epoque Louis XV.
+
+Haut.,88 cent.;larg.,I m.12.
+
+Birckle (Jacques), recu maitre en 1764,habitait rue Saint-Nicolas, faubourg Saint-Antoine.
+
+Reproduit pl.LXXIX.
+- 264-265 —DEux coMMoDEs semblables, de forme contournee,
+- a deux tiroirs, sur pieds cambres, en marqueterie de bois de placage a fleurs, et ornees de bronzes dores:encadrements sur les trois faces avec motif de cartouche sur le devant,a rocailles,feurons feuillages et branchages formant poignees de tirage, chutes, cul-de-lampe et sabots. Estampille de Migeon. Dessus de marbre. Epoque Louis XV.
+
+Haut., 77 cent.; larg., 93 cent.
+
+Migeon (Pierre), fournisseur de la Cour, pensionne par la marquise de
+
+Pompadour,mourut en 1775.
+
+Une est reproduite pl.LxxVIII.
+
+- 266 - ArMoirE a deux portes pleines, surmontee d'un amor-
+- tissement, sur plinthe contournee a pieds cambres,en bois de placage et ornee de bronzes ciseles et dores poinconnes au C couronne. Encadrements de portes avec coins et milieux marques d'un motif a rocailles, chutes, appliques, culs-de-lampe et patins. Epoque Louis XV.
+
+Reproduite pl. CIx.
+
+Haut., 1 m.67;larg., 1 m.37.
+
+- 267-PETITE TABLE formant bureau de dame, galbee sur toutes ses faces, sur pieds cambres reunis par une tablette et munie de trois tiroirs dont un formant écritoire. Elle est decoree de marqueterie a tiges de feuillage et fleurs, en· bois debout sur fond satine. Epoque Louis XV.
+
+Reproduite pl.CX.
+
+Haut.,70 cent.1/2;long,44 cent.
+
+- 268 - PeTITE TABLE ronde sur pieds cambres reunis par une tablette, en marqueterie de bois a feurs. Elle ouvre au moyen d'une porte masquant deux tiroirs interieurs; le dessus, ceinture de cuivre, est decore d'attributs de musique et de tiges de feuillages. En partie du temps de Louis XV.
+
+Reproduite pl. CX.
+
+Haut.,71 cent.; diam.,36 cent.
+- 26g —PETITE TABLE de dame,legerement galbee, sur pieds cambres relies par une tablette, en bois de placage. Le dessus, ouvrant a charnieres, decouvrant un compartiment de feuillage et feurs en bois debout qu'encadre un large filet a volutes. Chutes,entrees de serrures et patins de pieds
+- au-dessus d'un tiroir lateral,presente un decor de g gerbe en bronze.Epoque LouisXV.
+
+Haut.,67 cent.;long.,42 cent.
+
+Reproduite pl.CX.
+
+- 270 - SecRETairE de dame, a hauteur d’appui, de forme con-
+- tournee, en marqueterie de bois de placage,a decor, sur ses trois faces, de gerbes de fleurs dans des encadrements faits de filets enguirlandes. Un tiroir formant bureau est dispose entre les deux portes superieures qui ouvrent a coulisse et deux portes basses a vantaux. Le corps superieur contient,au-dessus de six tiroirs,une petite armoire ouvrant arideaux, egalement decores de marqueterie a feurs.A linterieur du corps du bas se trouvent deux tiroirs. Ce meuble, de qualite exceptionnelle,est decore de bronzes ciseles et dores :grandes chutes aux angles rejoignant les patins de pieds et cul-de-lampe au centre de la plinthe. Dessus de marbre breche d'Alep. Epoque Louis XV.Attribue a R.V.L.C.(non signe).
+
+Haut., 1 m.13;larg,75 cent.
+
+L'attribution de ce meuble,ne portant pas d'estampille,a Roger Vandercruse La Croix (R. V. L. C.) se justife par son analogie avec le secretaire qui faisait partie de la collection Dutasta (n°155),ceuvre de ce maitre-ebeniste et portant son estampille (et non celle de I. Dubois comme il avait éte indique par erreur au catalogue de cette vente). Les deux meubles, pouvant se faire pendant, sont de meme galbe, de la meme dimension et sont ornes des memes bronzes. Leur disposition et le decor de marqueterie sont seuls differents.
+- 271 PeTITE TABLE de dame, de forme ovale, sur quatre pieds
+- eleves et cambres reunis vers la base par une tablette forme rognon,en marqueterie de bois de couleur, offrant des objets divers dont un vase rempli de fleurs. Elle est munie, dans la ceinture, d'une tirette de face, et d'un tiroir sur le cote. Garniture de bronzes: chutes et patins, et d'une galerie ajouree en cuivre. Estampille de L. Boudin. Fin de I'epoque Louis XV.
+
+Haut., 72 cent.; grand diam.,56 cent.
+
+Boudin (Leonard),recu maitre en i761.
+
+Reproduite pl. CxIl.
+
+- 272 PeTITE TABLE ronde, haute, sur trois pieds a double cambrure contrariee reunis par une tablette,en bois de placage et marqueterie en bois debout presentant deux tiges de feuillage. Elle contient un tiroir dans la ceinture et est ornee de moulures, d'anneaux,de rosaces et de patins en bronze dore, ainsi que de deux galeries ajourees en cuivre. Estampille de R.V. L. C. (Roger Vandercruse, dit Lacroix). Fin de l'epoque Louis XV.
+
+R.V.L.C.Voir supra,no 256.
+
+Reproduite pl. CxII.
+
+- 273 -PETITE TABLE-BUREAU de dame, de forme ovale,elevee sur quatre pieds a double cambrure contrariee reunis par une tablette,en marqueterie de bois clair a carrelage et feurons. Elle contient, dans la ceinture,un tiroir muni d'une écritoire,est ornee de bronzes:chutes et patins,ainsi que de deux galeries ajourees en cuivre. Dessus de marbre brocatelle. Estampille (sous le tiroir) plusieurs fois repetee: R.V.L. C. et R. Lacroix. Fin de l'epoque Louis XV.
+
+Haut., 76 cent.; grand diam.,46 cent.
+
+Haut.,75 cent.;diam.,38 cent.
+
+R.V.L.C.Voir supra,n256.
+
+Reproduite pl. CxII,
+- 274 —— CoMmope a leger ressaut central de face, a coins arrondis, a trois rangs de tiroirs, sur pieds cambres. En bois de placage, elle presente un decor en marqueterie de bois divers, a carrelages varies. Elle est ornee de bronzes ciseles et dores : chutes et sabots-griffes, cul-de-lampe, astragale et rosaces; le tiroir superieur etant decore d'une frise d'entrelacs. Dessus de marbre breche d'Alep. Fin de lépoque
+- Louis XV.
+
+Larg.,I m.30.
+
+Une commode semblable,signee Dautriche,faisait partie de la collection M.Rykoff,vente a Paris, decembre rgo7,n°299.
+
+Reproduite pl.CxIll.
+
+- 275  CommoDe droite presentant, au centre, une legere saillie, a pans coupes, sur pieds-gaines, munie de trois rangees de tiroirs. En bois de placage satine et amarante. Elle est ornee moulures ornees d'encadrement,anneaux de tirage a rosaces, cul-de-lampe. et motifs dapplique sur les pans coupes.
+- de bronzes ciseles et dores : frise d'entrelacs,astragale Dessus de marbre. Epoque Louis XVI.
+
+Reproduite pl. CxIV.
+
+Larg,Im.42.
+
+- 276  Bureau ouvrant a cylindre, muni de huit tiroirs de face et deux tirettes laterales. En acajou mouchete et moulure sur pieds-gaines et a toutes faces. Il est decore de bronzes ciseles et dores; frises d'entrelacs ajoures, moulures d'encadrements a rais de cceur,bordures a laurier,anneaux de tirage, bagues et patins de pieds. Le dessus ceinture sur trois faces d'une galerie ajouree. Estampille de J.-H. Riesener. Epoque LouisXVI.
+
+Haut., I m.28;larg,1 m.25.
+
+Riesener (Jean-Henry),recu maitre en 1768, travailla pour la Cour de Louis XV et fut le protege de la reine Marie-Antoinette,
+- 277  BuREau a cylindre et tiroirs reposant sur huit pieds-gaines, en marqueterie de bois de couleur, par David Roentgen. Le decor, sur l'abattant et sur la face, presente des sujets animes de personnages chinois,et, sur les cotes, de panneaux composes d'objets divers. Le dessus du meuble est entoure, sur trois cotes, d'une haute galerie ajouree en bois ornee de petits bronzes. Sur le tiroir central, au-dessous de l'abattant, se lit le monogramme DR,execute en marqueterie,qui serait vraisemblablement la signature du maitre-ebeniste et marqueteur, David Roentgen, auteur incontestable de ce meuble et dont la signature est des plus rares. Epoque Louis xVI.
+
+Haut.,1 m.36;larg.,I m.15.
+
+A.DE CHAMPEAUx:LeMeuble,t.II,P.276. Cte FR.DE SALvERTE:Les Ebenistes du XVIIIe siecle,Pp.276-278.
+
+Roentgen ou Rontgen (David),celebre ebeniste d'origine allemande, tra- vailla pour les Cours d’Europe,ne en 1743,mort en 18o7.
+
+Reproduit pl. CxVI.
+
+- 278 -PAIRE DE MEUBLES-ENCOIGNUREs ouvrant a une porte surmontee d'un tiroir,a coins contournes, en marqueterie de bois de couleur, par David Roentgen, non signes. Les portes sont decorees de paysages avec personnages chinois; de chaque cote se trouvent des chutes de fleurs que retient un nceud de ruban. Garniture de bronzes dores.Dessus de marbre borde de cuivre. Epoque Louis XVI.
+
+Haut.,84 cent.1/2;larg.,62 cent.
+
+Roentgen (David).Voir n precedent.
+
+Reproduits pl. CxVII.
+- 279 —PETITE TABLE ovale, formant bureau de dame, munie
+- d'un tiroir avec ecritoire et tablette.Elle repose sur quatre pieds-pilastres avec cambrure a la base, reunis par une tablette. Elle est marquetee en bois de couleur, sur fond de bois clair, de tiges d'ceillets sur le dessus et guirlandes de fleurs sur la ceinture. Garniture de bronzes et deux galeries ajourees en cuivre. Estampille de C. Topino. Epoque Louis XVI.
+
+Haut.,73 cent.; grand diam.,42 cent.
+
+Topino (Charles),recu maitre en 1773,habitait faubourg Saint-Antoine.
+
+Reproduite pl. CXIX.
+
+- 280 —PeTITe TABLE de dame, de forme ovale,munie dun tiroir,
+- sur pieds cambres reunis par une tablette,en marqueterie de bois clair a guirlandes et chutes de fleurs,sur la ceinture et les pieds;torsade d'ceillets sur la tablette. Dessus de marbre de couleur ceinture,ainsi que la tablette, d'une galerie ajouree en cuivre. Estampille, sous le tiroir,de C.Topino. Epoque Louis XVI.
+
+Haut., 70 cent.1/2; grand diam.,42 cent.
+
+Topino (Charles). Voir n precedent.
+
+Reproduite pl.CxvIl.
+
+- 281 — PeTITE TABLE oblongue, sur pieds eleves et cambres, munie d'un tiroir,en marqueterie de bois de placage, presentant, sur le dessus, des livres et une ecritoire poses sur un bureau;la ceinture decoree d'un carrelage. Garniture de bronzes :chutes, patins et ceinture. Fin de l'époque
+- Louis xV.
+
+Reproduite pl. CxVIII.
+
+Haut.,64 cent.;long.,51 cent.
+- 282 - Bureau plat rectangulaire,en acajou moulure, muni de trois tiroirs dans la ceinture, dont un contient une ecritoire. Il repose sur quatre pieds-gaines a aretes evidees et est garni de bronzes ciseles et dores : moulures d'encadrements, anneaux de tirage, plaques a millerais, bagues et patins de pieds. Le dessus ceinture de cuivre. Estampilles des deux maitres-ebenistes J.-H. Riesener et G. Becker. Epoque Louis XVI.
+
+Haut., 77 cent.; long., go cent.
+
+Riesener(Jean-Henry).Voir supra,n276. Becker (G.). Inconnu des biographes.
+
+Reproduit pl. CxVIll.
+
+- 283 —PETITE TABLE-vITRINE rectangulaire,en bois et bronze ciselé et dore.Les pieds,formes de deux cornes croisees en X, sont relies par une traverse mouluree. Elle est decoree de frises. de rinceaux, de corbeilles de feurs et fruits, de rosaces,avec patins de pieds feuillages. Estampille de
+- M.Carlin.Epoque Louis XVI.
+
+Haut.,7o cent.;long.,66 cent.;larg.,3g cent.
+
+Carlin(Martin).Voir supra,n°251.
+
+Reproduite pl.LxxIII.
+
+- 284 - PETITE TABLE-GUERIDoN de dame,dont le plateau superieur repose sur un pied qui s'eleve d'un tambour inferieur reposant sur quatre petits pieds fuseles et canneles.Ce tambour, d'un diametre plus grand que le dessus, s'ouvre au moyen de deux couvercles demi-circulaires recouvrant quatre compartiments rayonnants. Elle est en bois de placage et decoree de marqueterie a rinceaux de bois de couleur. Garniture de bronzes dores : moulures ornees, rosaces et cannelures. Deux galeries ajourees en cuivre, dont une ceinture la tablette de marbre qui couvre le dessus. Epoque Louis XVI.
+
+Haut.,78 cent.; diam. du dessus,38 cent.
+
+Reproduite pl. CXIx.
+- 285 - PerIre TaBLE ovale sur pieds cambres reunis vers la base par une tablette. Elle est en bois de placage et decoree de marqueterie de bois de couleur representant des objets usuels :vases, cafetieres, tasses, etc., munie d'un tiroir ouvrant sur le cote et garnie de quelques bronzes. Le dessus de marbre blanc est entoure d'une galerie ajouree en cuivre. Estampille (incomplete) de P. Roussel. Epoque Louis XVI.
+
+Haut.,74 cent.; grand diam., 71 cent.
+
+Roussel (Pierre), recu maitre en 1766, habitait rue Saint-Honore.
+
+Reproduite pl. CXX.
+
+- 286 - PeTITE TABLE ovale formant bureau de dame, ouvrant a
+- tiroir muni d'un ecritoire,reposant sur quatre pieds-pilastres a bases cambrees, reunis par une tablette. Elle est entierement decoree de marqueterie :.sur le dessus,medaillon ovale entoure d'entrelacs; sur la tablette,petit medaillon ovale sur fond quadrille a fleurons. Garniture de bronzes ciseles et dores:moulures ornees,petites chutes,patins,etc., et deux galeries ajourees en cuivre. Epoque Louis XVI.
+
+Reproduite pl. CXx.
+
+Haut.,73 cent.;grand diam.,5o cent,
+
+- 287- MeuBLE-JARDINIERE de forme rectangulaire sur pieds-
+- gaines relies par une tablette dont la partie mediane, contenant un tiroir, l'unit au corps superieur. Ce meuble, tout en bois de placage, est decore, sur toutes ses faces, de marqueterie presentant des couronnes de liserons et des guirlandes de fleurs liees par des noeuds de rubans. Garniture de bronzes dores :poignees de suspension sur les cotes, appliques et patins de pieds. Galeries ajourees en cuivre. Epoque Louis XVI.
+
+Haut.,84 cent.;long.,83 cent.
+
+Reproduit pl. CXXI.
+- 288-BuREau plat rectangulaire, en ebene, filets de cuivre
+- incrustes et panneaux d'ancienne laque de la Chine. Il est muni de trois tiroirs dans la ceinture et repose sur huit pieds-colonnettes creuses de cannelures, reunis entre eux par deux tablettes et un croisillon central, que decore,au milieu, une petite corbeille a bordure ajouree en bronze dore. La garniture, egalement de bronze dore, se compose de moulures ornees,petites chutes,rosaces,bagues et patins de pieds. Les deux tablettes inferieures sont ceinturees de galeries ajourees.Estampille de M.Carlin. Epoque Louis XVI.
+
+Haut.,74 cent.;long.,I m.11.
+
+Carlin(Martin).Voir supra,n°251.
+
+Reproduit pl. CxxII.
+
+- 289 —ConsoLe d'applique forme demi-lune, en bois sculpte et dore.La ceinture, mouluree,est decoree d'ornements courants et d'une frise de rinceaux, portee par deux pieds contournes a volutes et feuillages reunis a la base par une tablette demi-circulaire ornee, au centre,d'une corbeille chargee de feurs. Dessus de marbre. Epoque Louis XVI.
+
+Haut.,86cent.;long.,I m.o5.
+
+Reproduite pl. LXxVII.
+
+- 290 — PETITE TABLE-BUREAu de dame, de forme oblongue, sur pieds-gaines, en marqueterie de bois de couleur offrant, sur le dessus, un carrelage regulier avec feurons et, sur la ceinture, des entrelacs a rosaces. Elle est munie d'un tiroir avec écritoire et tablette et le dessus est ceinture d'une galerie ajouree en cuivre. Estampille de S. Rebour. Epoque
+- Louis XVI.
+
+Rebour (Isaac-Simon),recu maitre en 1767.
+
+Reproduite pl. CXXIII.
+
+Long., 70 cent.
+- 2g1 PETITE TABLE-BuREAU de dame, de forme oblongue,
+- sur pieds-gaines, en marqueterie de bois de placage a quadrille et feurons. Elle est munie d'un tiroir avec critoire sur le cote et dune tirette a écrire sur la face. Epoque Louis XVI.Attribuee a Topino.
+
+Haut., 68 cent.; long., 61 cent.
+
+Topino (Charles）.Voir supra,n279. Reproduite pl. CXxIII.
+
+- 292 -PeTIT sEcRETAIRE de forme droite,a angles cintres, en marqueterie de bois de couleur sur ses trois faces. ll ouvre a abattant, entre un tiroir et deux portes. L'interieur est muni de casiers et de tiroirs. La decoration de l'abattant, particulierement remarquable,presente,sur fond radie,un masque de Phebus, un trophee d'attributs et des chutes enguirlandees de feurs;les autres panneaux,un carrelage losange. Garniture de bronzes ciseles et dores :baguettes et moulures ornees; dessus de marbre blanc ceinture d'une galerie ajouree en cuivre. Epoque Louis XVI.
+
+Haut.,1 m.34；larg.,82 cent.
+
+Collection du Duc de Hamilton;vente a Londres,chez Christie,juin-juillet 1882,5partie,n1803.
+
+Reproduit pl. CXXIV.
+
+- 293—PETIT BUREAu de dame,dit α bonheur-du-jour ,de forme oblongue, avec petit corps superieur muni de tiroirs une tablette. ll est en bois de placage et decore de marqueterie de bois de couleur a petits ustensiles, vases feuris et objets divers,muni, dans la ceinture, d'un tiroir avec ecritoire et tablette a écrire. Garniture de bronzes dores, entrelacs, chutes,patins, et deux galeries ajourees en cuivre a grecques. Estampille de R. V. L. C. (Roger Vandercruse,
+- dit Lacroix).Epoque fin Louis XV.
+
+Haut., 87 cent.; larg., 63 cent.
+
+R.V.L.C.Voir supra,n256.
+
+Reproduit pl. CxXV.
+- 294—PETIT BuREAu de dame, dit α bonheur-du-jour ,de
+- forme oblongue, avec petit corps superieur a deux portes, casier et tiroir; il repose sur quatre pieds-gaines reunis par une tablette, entierement marquete de bois de couleur sur fond clair, presentant des entrelacs avec fleurons. La ceinture contient un tiroir avec écritoire et tablette a écrire. Garniture de bronzes ciseles :moulures ornees, frise de postes, rosaces, patins, et deux galeries ajourees en cuivre. Epoque Louis XVI. Attribue a Topino.
+
+Haut., I metre; long.,67 cent.
+
+Topino (Charles).Voir supra,n°279.
+
+Reproduit pl. CxxV.
+
+- 295 - MeuBLe d'entre-deux de forme droite,a pans coupes et leger ressaut au centre de la face, sur quatre pieds-gaines, ouvrant a tiroirs et portes,en marqueterie de bois de placage, offrant des panneaux a carrelages geometriques avec fleurons. Garniture de bronzes ciseles et dores :frise d'entrelacs a rosaces et culots,encadrements de moulures ornees,entrees de serrures et anneaux de tirage; sur les pans coupes, appliques a. couronnes de roses et laurier retenues par un ruban.Estampille de Delorme. Epoque Louis XVI.
+
+Long., I m. 14 environ.
+
+Delorme-Faizelot(Adrien).Voir supra,n254.
+
+Une commode semblable, de memes forme et decor, faisait partie de la collection M.Rikoff,vente a Paris,decembre 1go7,n3o1.
+
+Reproduite pl. CxxVI,
+- 296 -GRANDE coNsoLE d'entre-deux a coins arrondis, a fond plein et reposant sur deux pieds de face reunis par une tablette. Ce meuble, qui ouvre a trois tiroirs dans la ceinture,au moyen de boutons a ressort dissimules, est en acajou et bois de couleur et orne de bronzes ciseles et dores : mascaron irradie de Phebus au centre, frises d'entrelacs et de rinceaux feuillages,rosaces,chutes de laurier,moulures, etc. Tablette et dessus recouverts de marbre blanc. Estam-
+- pille de J.-H. Riesener. Epoque Louis XVI.
+
+Long.,I m.73.
+
+Riesener (J.-H.). Voir supra, n 276.
+
+Reproduite pl. CxxVII.
+
+- 297 —TaBLE oblongue de milieu,a extremites arrondies, reposant sur six pieds fuseles, en bois sculpte dore. La ceinture est decoree d'une frise d'entrelacs a rosaces et petits culots feuillages,et les pieds,nattes de festons de laurier,reposent sur des griffes. Dessus de miarbre blanc. En partie de I'époque Louis XVI (2).
+
+Reproduite pl.LxxV.
+
+- 298 — ConsoLe d'applique de forme contournee, a cotes galbes, reposant sur deux pieds fortement cambres, et contenant un tiroir dans la ceinture. Elle est en bois de placage et decoree en marqueterie de bois de couleur de guirlandes de feuillage et feurs. Ornementation de bronzes ciseles: chutes a volutes et moulure ceinturant le dessus de marbre.
+
+Reproduite pl. LXII.
+
+Haut.,78 cent.,long., 1 m.13.
+
+298 bis - ConsoLe d'applique semblable a la precedente, mais sans tiroir. Copie posterieure.
+
+Haut., 78 cent.; long., 1 m 13
+
+Reproduite pl.LXII.
+
+Haut.,85 cent.;long,1 m.66.
+299 — PeTIT PARAvENT a six feuilles peintes dans le gout de N. Lancret, presentant des arabesques variees composees de figures pastorales, medaillons avec amours en camaieu bleu, attributs divers de chasse et de peche, vases de fleurs accompagnes de rinceaux et guirlandes de fleurs. xvin siecle. Monture en bronze dore a moulures ornees de perles et
+
+Haut.,1 m.53;larg. d'une feuille,28 cent.
+
+Reproduit pl. CxxVIII.
+
+## TAPISSERIES DE BEAUVAIS
+
+## ET D'AUBUSSON
+
+## BRODERIES,TAPIS DE SAVONNERIE ET D'ORIENT
+
+3oo -TaPissERIE de la Manufacture royale de Beauvais, du temps de Louis XV, faisant partie de la tenture : Noble Pastorale,representant, d'apres un carton de F. Boucher,
+
+## LA LECON DE FLUTE
+
+Au centre d'un delicieux paysage italien,en un site pittoresque, que decorent un vase de pierre eleve sur son piedestal et une gaine de dieu terme,enguirlandes de folles verdures,un jeune couple de berger et bergere est assis; le berger enseigne a sa compagne docile a jouer du flageolet. Devant eux,un petit chien fait le beau. A droite, sous les arbres, deux autres couples d'amoureux assistent a la lecon; a gauche,un petit berger et ses moutons.Au fond,le village avec ses habitations rustiques enfouies dans la verdure.
+
+Haut.,3m.1o;larg.,4m.50.
+
+- feuilles d'eau.
+
+Reproduite pl.double CXxIx.
+dites  bonnes graces ",en ancienne tapisserie de la Manufacture royale de Beauvais, du xvine siecle. Chacune d'elles offre un decor de draperie a franges et glands d'or, formant lambrequin a la partie superieure et retombant en plis sur les cotes. Partant du sol, des palmiers enguirlandes de feurs etalent leur panache de feuillage sur le bandeau,et les bords des pentes sont
+
+3OI-3o3 —TROIS CANTONNIERES ornes de festons et feuilles de chene.
+
+Haut.,3 m.8o;larg.,2 m.40 environ.
+
+Une est reproduite pl. Cxxx.
+
+3o4 —CaNToNNIERE dite (bonne grace  en ancienne tapisserie de la Manufacture royale de Beauvais du xvine siecle; decor de lambrequin a draperie tout enguirlande de feurs, avec franges,cordelieres et glands simules.
+
+Reproduite pl.CXXXI.
+
+Haut.,3 m.go;larg,2 m.25 environ.
+
+3o5-3o6 Suite de deux tapisseries de la Manufacture royale d'Aubusson,du XVIIIe siecle.
+
+## LE PRINTEMPS L'AUTOMNE
+
+Chacune de ces tapisseries presente, sur un fond quadrille avec feurons, en grisaille, au centre, un medaillon ovale encadre de laurier a sujets de personnages dans des paysages :Flore et les amours symbolisant le Printemps; Bacchus, sur son char,figurant I'Automne.Les entourages sont formes de festons, chutes et guirlandes de feurs. La tapisserie du Printemps offre,en outre, des chutes de trophees d'attributs de jardinage.
+
+Haut.,2m.20;larg.,2m.24et 2m.12.
+
+Reproduites pl. CXxxII-CXxXIII.
+- 3o7 -PaNNEAu fait d'un fragment de tapisserie d'Aubusson du xvi siecle, de la Tenture chinoise, presentant une jeune femme etendue a terre, que lutine un personnage coiffé d'un chapeau chinois. A gauche, vu de dos, un Chinois debout; au fond, un autre regarde la scene appuye sur une balustrade. Encadrement de bois dore.
+
+Reproduite pl. CXxxIV.
+
+Haut.,1 m.63;larg.,1 m.22.
+
+- 3o8 —Tapis de la Savonnerie presentant, sur fond noir, une gerbe centrale qu'entoure une large couronne de fleurs liees par des nceuds de ruban bleu; les ecoincons formes de tetes de chevres portant des corbeilles chargees de feuillages feuris et de fruits. Une tres large bordure composee de festons, coupes aux milieux des cotes, de corbeilles ou de jardinieres,forme I'encadrement.Epoque Louis XIv.
+
+Reproduit pl.CxxxV.
+
+Long.,2m.63;larg.,2 m.52.
+
+- 3og -VINGT-NEUF PANNEAUx varies de forme et de dimension en velours rouge brode de soies de couleur et de fil de metal, or et argent. Seize d'entre eux presentent des figures de saints encadres de rinceaux; douze autres plus petits se composent d'un cartel accompagne de fleurons feuillages. Le dernier est un chaperon de chape. Espagne. xvre siecle. Ils sont reunis sur un fond de velours rouge formant cantonniere.(Pourront étre divises.)
+
+Dim. des grands panneaux:Haut.,47 cent.;larg, 55 cent. Dim. des petits panneaux: Haut.,22 cent.; larg,55 cent.
+
+Six panneaux sont reproduits pl.CxxxVI.
+- 31o - GrAND TAPIs ancien d'Orient presentant, au centre,une rosace a fond rouge, sur champ bleu lavande charge d'arabesques faites de feuillage, feurs et fruits stylises. Il est entoure d'un large encadrement a sept bordures, dont la principale, sur fond rouge, est decoree de motifs varies disposes regulierement.
+
+Long.,7m.5o;larg.,4m.50.
+
+<!-- image -->
+## IMPRIMERIE GEORGESPETIT
+
+JULES AUGRY,DIRECTEUR I2,RUE GODOT-DE-MAURO1.-PARIS

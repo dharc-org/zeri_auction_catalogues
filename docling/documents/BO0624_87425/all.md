@@ -1,0 +1,6334 @@
+<!-- image -->
+
+<!-- image -->
+
+## I. Glasgemalde.
+
+## A.
+
+## Glasgemalde schweizerischer Herkunft.
+
+## Vorbemerkung.
+
+vom Beschauer aus.Die Notiz (d.B) vor einer Inschrift bedeutet, dass dieselbe mit deutschen Buchstaben verzeichnet ist.Der Zusatz Wien" verweist auf den Schweizerischen Katalog der Wiener Weltausstellung von 1873 S. 220 u. f.; Ziric h" auf den offziellen Katalog der schweizerischen Landesausstellung in Zurich 1883. Spezial-Katalog der Gruppe 38,Alte Kunst S. 51 u. f.Ueber das Geschichtliche der Vinzent'schen Sammlung vergl. Mittheilungen der Anti- quarischen Gesellschaft in Zurich, Band 22 Heft 6.
+
+| Nr. 1. XIV. Jhdt. Ein gothischer Vierpass umschliesst ein Medaillon mit dem Christuskopfe. Durchmesser 0,54.Gut erhalten. Nr.2. XIV.—XV. Jhdt.17 gothische Maasswerkfullungen. Einzelne bemerkenswerthe Stieke. Nr.3. XIV.—XV. Jhdt.20 gothische Maasswerkfullungen. Nr.4. 1322. 3 gothische Maasswerkfuillungen aus dem Chorfenster der Klosterkirche von Hauterive im Canton Freiburg (cf. Ra hn, Gesch. der bild. Kunste in der Schweiz p. 551 Note und p.599 u. s.w.).Ein Adler sitzt mit 2 seiner Jungen auf dem Neste. Der Adler britet seine Eier durch die Kraft des Blickes aus.Der Phonix schwebt aus der Flamme empor. Durchmesser 0,21-0,24.Wien No.1. Zurich No.86.87.und 70. Nr. 5.XIV. Jhdt. Rundscheibe mit Agnus Dei,auf rothem Grund.Herkunft unbekannt. Durchmesser 0,285.Intact; einige Risschen.Wien No.2. Zurich No.75. Nr.6-6a.Ende XV. Zwei Maasswerkfuillungen:kampfende Manner. Weissaufrothem Damast;angeblich aus einer Kirche der franzosischen Schweiz. 0,31 h.,0,38 br.und 0,41 h.,0,39 br.Gut erhalten.Zurich No. 71 und 72. Nr.6b.Weisse Ornamentfullung eines rothen Dreipasses, gleiche Provenienz. 0,37 h.,0,35 br.Zurich No.73. Nr. 7 und 7a. Zwei blaue Fischblasen mit musicirenden Engeln,von schwungvollem Ranken- werk umgeben. Spatgothische Werke von zartester Ausfuihrung. 0,82 h.,0,38 br.Gut erhalten.2 Sticke fehlen.Wien No.5. Zurich No. 88.und 89. steht ein gelber Schild mit finf schwarzen Bergen. Durchmesser 0,215. Erhaltung gut; im Rand ein Defect. Nr. 9. XV. Jhdt. Gegenstuck zu No. 8. Gothische Rundscheibe. Auf grinem Ranken-   | 145.Bg 210. 400 B.C 210 200 7508 osenhexg 2750 Bo0el 4 2603.6.   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+
+Durchmesser 0,21. Leidlich erhalten; etwas rostig und zersprungen.
+
+<!-- image -->
+1200
+
+haen.Y.Saller
+
+Nr.1o. xV. Jhdt. Wappen der yon Englisperg auf blauem Rankendamast und gelbem Fliessenboden.
+
+93.C Gut erhalten. 0,275 h.,0,18 br. Wien No. 6. Zurich No.93. 105 Nr. 1l1. Ende des XV.—Anfang XVI. Jhdts. Rundscheibe. Grisaille. Die thronende S. Katharina halt auf dem Schoosse ein offenes Buch und die Linke auf das Schwert gestitzt, zu Fuissen der Heiligen das zerbrochene Zackenrad.Schwarzer Grund.
+
+Durchmesser 0,135. Tadellos erhalten. Zurich No. 82 b.
+
+- 205 Nr. 12. Anfang XVI. Jhdt. Das gothisirende Rundbild, grau und gelb gemalt, stellt den Abschied Christi von seiner Mutter dar.
+
+Durchmesser 0,28. Mittelstuck stark verrostet. Die Doppelumrahmung aus mittelalterlichen Fragmenten ist fremde Zuthat.
+
+- B3.G. 210 Nr. 13. Anfang XVI. Jhdt. Rundscheibe. Grisaille mit blauer gothisch stylisirter Rankenbordure. Madonna als Mutter des Erbarmens. Zwei seitwarts schwebende Engel halten den Saum des Mantels, unter welchem zu Fussen der Madonna Papst und Konig mit geistlichem und weltlichem Gefolge knien.
+
+Durchmesser 0,19. Gut erhalten; einige Nothbleie im Rand. Interessantes Stick. Wien No. 12. Zurich No.83b.
+
+- Nr. 14. Anfang XVI. Jhdt. Auf schwarzem Grunde grau und gelb gemalt Crucifixus zwischen Maria und Johannes. Gothisches Rundscheibchen.
+
+Durchmesser 0,116. Tadellos erhalten.
+
+- Nr.15. Anfang XVI. Jhdt. Gothische Wappenscheibe. Auf rothem Damast und weissem Fliessenboden halt ein purpurn gekleideter Engel kniend den Schild. Zwei Saulen tragen den Rundbogen aus welchem, die Zwickel fillend, gothische Blattranken wachsen.Ueber dem Scheitel ein Hahn und ein junger Rabe. Der Schild ist senkrecht getheilt.Feld rechts enthalt auf Blau einen weissen Thurm.Feld links roth.
+
+1350
+
+1250
+
+m05
+
+100
+
+450
+
+0,37 h.,0,267 br. Mangelhaft erhalten； mehrere Risse und Rost. Heraldisch bemerkenswerth.
+
+0,398 h.,0,30 br. Einige Nothbleie und Risse; etwas rostig, sonst gut erhalten.
+
+- Nr. 16. Anfang XVI. Jhdt. Gothische Wappenscheibe. Schlanke Saulen, durch einen Rundbogen verbunden,neben welchem Distelblatter die Zwickel fullen, umrahmen den blauen Damastgrund. Zwei Engel halten den unbekannten Schild und uber demselben drei Blumen. Gothisch; rauhe holzschnittartige Ausfuhrung,derb und ungelenk. Der Schild weist auf rothem Feld ein gelbes Schwein, durch dasselbe geht ein blauer von rechts nach links aufsteigender Schragbalken.
+- Nr. 17. Anfang XVI. Jhdt.Blauer und schwarzer Damast, gelber Grasboden, Alliancewappen der Englisperg und Praroman.Umrahmung fehlt.
+
+0,41 h.,0,46 br.Complet, aber verrostet.
+
+- 0,29 h.,0,20 br. Gut erhalten bis auf einige unbedeutende Risse. Schones Stick. Wien No. 7.Zurich No.91. (vergl. Anzeiger fir schweiz.Alterthumskunde 1882. S. 251.)
+- Nr. 19. Circa 1520. Fragment. Von einem grosseren Bilde, das die Anbetung des Neugebornen durch Joseph und Maria darstellt, sind die Halbfiguren der Eltern und das Kindlein in einer Glorie erhalten.
+
+0,145 h., 0,29 br.
+- Nr. 20. Derbe aber decorativ vorziglich wirkende Arbeit aus der Zeit um 1520. Auf blauem Wolkengrunde thront auf dem Regenbogen der Weltenrichter. Ein Spruchband uber ihm enthalt die Minuskelinschrift: ,Richt . als . dv . gericht . welist . werden." Unten links knieen betend die liest. Zwischen beiden Gruppen sieht man drei nackte auferstehende Gestalten.
+- Nr. 21. Die Umrahmung mit gothischem Astbogen, vor dessen Scheitel ein Spruchband das Datum 1501 enthalt, ist neu. Auf rothem Damast steht der geharnischte St.Michael,der den Satan
+- 0,41 h., 0,263 br. Gut erhalten bis auf einige Risse.Wien No. 11.
+- uberwindet.
+
+0,284 h.,0,228 br. Erhaltung mangelhaft;verbleit und rissig. Zurich No.92.
+
+- Nr. 22. Standesscheibe von Zug. Der aufrechte Schild wird von einer Krone uiberragt und
+- von zwei Lowen fankirt, deren einer die Reichsfahne, der andere das Standespanner halt. Rother und schwarzer Damast, violetter Astbogen,im Scheitel desselben 151l. Auf der Zugerfahne enthalt das Eckbild die Pieta.
+- 0,45 h.,0,345 br. Gut erhalten bis auf einige Risse;etwas Rost.
+- Gleiche Anordnung. Als Pannertrager zwei Engel in Diakonengewandern, blauer und schwarzer Damast, brauner Astbogen. In den Zwickeln zwei Landsknechte.
+- No.23. Dessgleichen. Im Scheitel 1511.
+- 0,448 h.,0,345 br. Gut erhalten; einige Risse. Die Pfosten sind neu.
+- Nr.24. Auf rothem Damast steht die Madonna in einer gelben Glorie. Auf dem grinen Boden zu ihren Fissen stehen zwei unbekannte Schilde.Der eine vielleicht derjenige des Praemonstratenserklosters Ruti im Canton Zurich; der andere weist auf Gelb zwei schwarze schraggekreuzte Ofengabeln, unter denen eine rothe Blume.) Graue Pfeiler, mit gothischen Ranken geschmickt, tragen einen flachen Astbogen,iber welchem zwei posaunenblasende Engel knieen.An den Sockeln zweimal das Datum 1517.
+- 0,56 h., 0,39 br. Ein Theil des Damastes fehlt. Sehr schon.
+- grau und gelb gemalt, musicirende Engel die Zwickel fillen, umrahmt die Gestalt der Madonna in der Glorie. Zu Fussen der Schild von Constanz. Rother Damast.
+- Nr. 25. Anfang XVI. Jhdt. Ein von schlanken Saulen getragener Rundbogen, uiber welchem,
+- 0,79 h., 0,468 br. Erhaltung gut; einige Nothbleie und Risse.
+
+0,79 h., 0,478 br.Verschiedene Flicksticke,Risse und Verbleiungen.Charaktervolle Gegensticke.
+
+- Nr. 26. Seitenstick zu Nr. 25. Auf rothem Damast stehen SS. Conrad und Pelagius, zu ihren Fissen der Schild von Constanz.
+- Nr. 27-27a. Doppelscheibe von 1517. Zwei gewundene Saulen tragen den aus grinem Blattwerk bestehenden Flachbogen.
+
+0,93 h., 0,40 br.Gut erhalten bis auf eine Anzahl kleiner Flicksticke, verschiedene Risse und Verbleiungen. Zurich No.56.und 57.
+
+- Oben in dem Zwickel links werden SS.Felix, Regula und Exuperantius gegeisselt, rechts dieselben Martyrer in Oel gesotten. Hauptbild auf rothem und schwarzem umgeben, links der gekronte Reichsschild, rechts der Standesschild von Zurich.
+
+<!-- image -->
+
+1250.
+
+805
+
+B.B.
+
+4000
+
+<!-- image -->
+
+1950
+
+Boran).
+
+<!-- image -->
+
+2500
+
+JaMler
+
+12000
+
+Bi6l
+<!-- image -->
+
+<!-- image -->
+
+360
+
+<!-- image -->
+
+<!-- image -->
+
+B.B.
+
+<!-- image -->
+
+- Nr.28-2Sa.Doppelscheibe yon 1517.die gemein landvogty.zvo Frowenfeld 1517.Die gemeinsameUmrahmungbildet inmergrinerAstogenber demselbenvirFlugelabenpilnd und an der rosenfarbigen Guirlande kletternd, welche von den oberen Ecken fachbogig herunter hangt.Ein um die Guirlande geschlungenes Band enthalt die Capitalinschrift: GLORIA IN EXCELSIS DEO.AVE MARIA GRACIA PLENA."Der Grund ist purpurner und schwarzer Damast. Darauf links Kronung Marie, rechts Crucifixus zwischen Maria und Johannes. Als Basis beider Compositionen dient eine polygone rosenfarbige Console. Am Fuss derselben das Reichswappen und die Standesschilde von Zurich, Luzern und Urirechts diejenigen von Schwyz,Unterwalden,Zug und Glarus. Ein darunter befindliches weisses Band enthalt die oben angefuhrte Minuskelinschrift. Dasselbe Datum an der Front der Consolen.
+
+0,97 h.,0,40 br.Erhaltung gut;einige Bleie und Risse.Zurich No. 47. und 48.
+
+- Nr.29.Die Umrahmung fehlt. Derbe Pralatenscheibe im Style des beginnenden XVI. Jahrhunderts. Zwischen SS. Conrad und Pelagius steht,von der Inful iberragt, der écartelirte Schild des bischofichen Stifters,Hugo von Hohen-Landenberg von Constanz 1496-1531 (Hohen-Landenberg und Constanz). Ueber der Inful schwebt auf der Mondsichel,von einer blauen Wolkenglorie umgeben,die Halbfigur der Madonna.
+
+0,44 h.,0,41 br.Erhaltung mittelmassig；mehrere Flickstucke,Nothbleie und Rost.
+
+<!-- image -->
+
+- Nr. 30. Fragment aus der Zeit um 1530. Der Ecce homo wird von Pilatuis dem Volke gezeigt.Monogramm FRMD (Hans Rudolf Manuel Deutsch).
+
+0,257 h.,0,215 br.Mangelhaft erhalten:verbleit und Risse.
+
+- Nr. 31. Fragment,Mittelstuck einer Cabinetscheibe aus der Zeit um 1530.Eine Edeldame halt auf rothem Damast das vornehm stylisirte unbekannte Wappen.(Drei waagrechte Hirschhorner auf gelb.Auf dem Helm ein Pfauenbusch.)
+
+Schones Fragment, 0,30 h.,0,25 br.
+
+- Nr.32. Fragment einer noch gothisirenden Cabinetscheibe.Ca.1530.Auf rothem Damast steht neben dem fott stylisirten Wappen der Muntprat der hl. Bischof Conrad.Kein Datum.
+
+0,244 h.,0,178 br.Erhaltung gut;ein grosses Flickstick.
+
+- Nr. 33. Cabinetscheibe aus der Zeit zwischen 1520-1530.Auf rothem Damast ein unbekanntes vortrefflich stylisirtes Wappen. (Kleinod ein geharnischter baarhauptiger Knabe halt einen Rechen.Helmdecke schwarz und gelb.Der schwarz und gelb gevierte Sehild weist zwei schrag gekreuzte Rechen und zwischen denselben iber Kreuz 4 Sterne, gleich den Rechen, in umgekehrter Farbenstellung halbirt.
+
+<!-- image -->
+
+0,256h.,0,185br.
+
+- Nr.34. Exquisit durchgefuhrtes Rundscheibchen aus der Zeit um 1540.Auf violettem und schwarzem Damast die prachtig stylisirten Aliance-Wappen von Hinweil und Hohen-Landenberg. Durchmesser 0,16. Sehr gut erhalten.Abgebildet in Meisterwerke der schweiz. Glasmalerei Taf.53. Zurich No.69.
+- Nr.35.Rundscheibe mit dem Wappen der zircherischen Familie Engel-Wirz. Zu Seiten desselben steht auf violettem und schwarzem Damast ein wilder Mann,im Hintergrunde ein Thronbau in feinem Renaissancestyl.Die weisse Bordure ist viermal von blauen Kranzen unterbrochen, welche drei Busten von Konigen und einer Dame umschliessen, dazwischen grau in Grau mit Silber-
+
+<!-- image -->
+Durchmesser 0,266. Gut erhalten; links oben cin Defect. Wien No. 15. Zurich No. 53.
+
+Nr. 36. Rundscheibe. Gegenstick zu der vorigen. Vor einem grinen Wiesenplan, auf welchem Hosch. Zwischen den braunen Kranzen, welche die Bordure unterbrechen, oben links Versuchung Josephs, rechts dessen Einkerkerung, unten zwei reich verschlungene Bandrollen mit der Capitalinschrift:JACOB. KRIEG . VON . BELLIKON . VND . MADELLEN .HOSCHIN . 1542"
+
+Durchmesser 0,267. Gut erhalten; einige Sprunge.Wien No.14. Zirich No.54.
+
+Nr.37. Runde Aemterscheibe von Zurich 1544. Exquisite Technik. In den ornamentalen
+
+Zuthaten frische Renaissance-Motive.
+
+Durchmesser 0,405. Tadellos erhalten. Zurich No.59.
+
+Nr. 38. Zwei gebauchte Saulen tragen einen astigen Flachbogen,iber welchem zwei Bauern
+
+<!-- image -->
+
+<!-- image -->
+
+mit einem Viergespann den Acker pfligen. Darunter stehen auf rothem Damast die Madonna in einer
+
+Strahlenglorie und der Pilger Jakobus.Auf dem grinen Fuss das Monogramm:
+
+und die Inschrift:,Die gemein.zu. gechelingen.“
+
+0,395 h.,0,31 br.Gut erhalten,aber stark gerostet.
+
+Nr.39.Unterschrift in d.B.Lorentz Zollikoffer vnd Dorothea Von Watt fein Ehliche haufrow Anno Domini. 15.44."Auf weissem Grund die Alliance-Wappen. Drei Saulen tragen einen aus Rollwerk gebildeten Architrav,oben links Jakobs Traum, rechts Jakob mit dem Engel
+
+<!-- image -->
+
+ringend. Sehr feissige, wenn auch keineswegs geistvolle Arbeit. Monogramm:·C
+
+0,335 h.,0,205 br.Erhaltung tadellos. Wien No.17.Zurich No.143.
+
+Nr. 40. Am Fuss der Scheibe in einer blauen Tafel ,die stat frowefeld 1543. Rosenrothes Pilasterwerk, durch Flachbogen verbunden, gliedert die Scheibe in drei Theile. Die breitere Mitte enthalt unten,auf einem grinen Teppich das stadtische Wappen.I Schlosses Frauenfeld. In der Mitte des durchgehenden Kopfstickes ein waagrecht oben schwarz, unten gelb getheilter Schild,in welchem in umgekehrter Farbenstellung ein springendes Schaf. Zu Seiten eine Hirschjagd. Die Scenen, die sich in den Seitenfugeln von grauem Damaste abheben, sind von oben angefangen: links 1) Ein Page und eine Jungfrau reichen sich die Hande; 2) Ein vornehmer Herr steht in lebhafter Unterredung mit einer Gruppe von Mannern; 3) Die Edeldame kniet vor dem Abte von Reichenau, der unter seinem Wappenbaldachine steht. Rechts: 1) Derselbe Pralat, unter dem Baldachine stehend, empfangt den edlen Herrn, der von zwei Mannern gefolgt wird; 2) Derselbe Edelmann von einem Anderen gefolgt, iberreicht einer vornehmen Dame einem Diener in das Stadtthor gefuhrt.
+
+0,56 h., 0,41 br. Nothbleie, Risse und etwas Rost, sonst gut erhalten. Wien.No. 16. Zurich No.114.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+3450
+
+begleitet von SS. Bernhard und Benedict. Weisser umd schwarzer Damast. Zwei Candelabersaulen tragen einen Flachbogen, dariber zwischen posaunenden Engeln die Formel J.H. S.
+
+0,316 h.,0,227 br.Gut erhalten.Zurich No.94.
+
+- Nr. 42. ,Der Ober Pundt 1548." Der senkrecht schwarz und weiss getheilte Schild auf blauem Damast von zwei Hellebardieren bewacht. Ueber den gelben Voluten, die von einer rothen
+- 0.41 h., 0,30 br. Erhaltung gut; einige Bleie und Risse, etwas verblasst. Inschrift neu. Sehr schon. Wien No. 18. Zurich No.82
+- Nr. 43. ,Fridle gerster 1548." Gleiche Anordnung des Schildes und der Landsknechte wie bei der vorigen Nummer. Blauer Damast. Ueber dem gelben Spitzgiebel Kampf eines Ritters gegen Musketier und Landsknecht. Muthmasslich Carl von Ageri.
+- 0,408 h., 0,305 br. Erhaltung gut; einige Risse, etwas verblasst und blasig. Sehr schon. Zurich No. 83.
+- Nr. 44. Auf rothem Damast zwischen Candelabersaulen steht der geharnischte Pannertrager Zu Fissen 1553 und der von dem
+- von Luzern. Im Eckquartier der Fahne Christus am Oelberg.Z Reichswappen iberragte Standesschild. Oben SS.Maurizius und Leodegar.
+
+0,30 h.,0,212 br. Intact,aber rostig. Hubsches Stuck.
+
+- Unten vor einer grau und blau gemalten Landschaft die Wappen von Rapperswyl, Wettingen und des Abtes Petrus Eichhorn. Daneben der betende Abt.Am Fusse die Inschrift:PETRVS VON GOTTES GNADEN ABBTE DES GOTZ-
+- Nr. 45. Kronung Marie in gelber Glorie. HVSWETINGE.1556."
+
+0,305 h.,0,208 br.Defect;Kopfstuck und Zwickel fehlen.Feine Arbeit.
+
+- Nr. 46. Zwei Saulen mit schweren rothen Kapitalen bilden mit den violetten kielformig ansteigenden Voluten die Umrahmung, durch die man in der Ferne eine Stadt am See erblickt. Den Mittelgrund begrenzt eine Mauer, vor welcher zu Seiten ihres Wappens Mann und Frau, der Erstere mit Schwert und Panzerkragen stehen. Ein Spruchband am Fuss enthalt die Inschrift d. B.: Michel Feifs Elsbet Hatzenbergyn sin eliche husfrow 1559." Die kleinen Kopfstucke stellen das Gastmal
+- des reichen Mannes und seine Strafe in der Holle dar.
+
+0,395 h.,0,295 br. Stark verrostet; einige Risse, sonst gut erhalten.
+
+- Zender Zugmeister Der Statt Bern 1559.Vor dem von 3 Pfeilern getragenen Doppelbogen stehen die sich durch Reife tummeln.
+
+0,42 h., 0,315 br. Erhaltung gut; der Schild rechts spatere Arbeit; einige Risse. Schone Scheibe Wien.
+
+No. 22. Zurich No.97,
+
+- Nr.48. Standesscheibe von Zurich 1561,vermuthlich eine Arbeit des Karl von Ageri: zwei Lowen mit Schwert und Panner fankiren das Reichswappen iber den geneigten Standesschilden. Rother Damast, gekuppelte Saulen; iber den grinen Voluten Moses vor dem Dornbusch nach Holbeins Altem Testament.
+
+0,425 h., 0,305 br. Erhaltung gut; einige Nothbleie und Risse. Wien No. 24. Zurich No. 78.
+
+- Lo. Nr. 49. Links eine Kandelabersaule. Auf rothem Damastgrund steht ein Hellebardier, dem
+
+<!-- image -->
+en uf
+
+en ien
+
+vie ers
+
+3.
+
+ger em
+
+nd-
+
+Her
+
+Z- an-
+
+Den ere
+
+hel mal
+
+hell nen
+
+en, ien.
+
+wei len.
+
+Iol- lem
+
+theilweise defect.
+
+## Nr.50-70.
+
+Vgl. Rahn im Anzeiger fur schweizerische Alterthumskunde 1869. S. 98 u. f. und H. Meyer, Die schweizerische Sitte der Fenster- und Wappenschenkung von XV. bis XVII. Jahrhundert. p. 303.
+
+- Nr. 5o. Reiche Hermen-Pilaster setzen unvermittelt mit ihren purpurnen Kapitalen ab. Auf denselben stirmen 2 wilde Manner zu Pferd, der Eine mit einem Pfeil, der Andere mit einem Baumstamme gegen einander an. Ueber der Mauer，welche die ganze Breite des Mittelgrundes einnimmt, sieht man grine Berge und den weiss bewolkten Himmel. Die Halfte links im VorderNB. Rechts die zeitgenossisch reichgekleideten Personificationen der Fides, Spes, ,Charitas" und Sapientia. Gelber Fliessenboden. In der Mitte vorne kniet die Aebtissin mit Pedum und Rosenkranz vor ihrem Wappen. Links daneben alte Flicksticke, darunter ein Theil eines Grut'schen Wappens in runder Umrahmung, welche die Inschrift (d. B): ". .. . it Der Zit Verwalterin Des Gotzhus Daniken" weist. (Die andere Halfte in Nr.74 verfickt.) —Datum und Name der Stifterin fehlen.
+
+0,297 h.,0,485 br.Defect. Flicksticke und einige Risse.
+
+- Nr. 51. Anbetung der Konige. Am Fusse die Inschrift (d. B):,Melchior galate von Glaruss der Zyt Landtuogt Inn Ober vnd Nider Thurgouw 1559".Ueber der Madonna halten drei Engelchen einen Zettel mit der Inschrift:ER GOT IN DER HOHI V FRID VF ERDund dem
+- Monogramm M. Gedrungene Saulen tragen einen violetten Flachbogen. In den Zwickeln die Verkindigung Mariae.
+
+0,303 h.,0,465 br. Intact, einige Risse. Zurich No. 101-
+
+- Nr. 52. Einfache grine Pfeiler mit gelben Kampfern und Basen tragen ein schlichtes blaues Gebalk, in dessen Mitte ein Zettelchen die Inschrift ,Anno Dominy 1559" und das Monogr.  NB· enthalt. Der figurenreiche Vorgang in einem prunklosen Saale stellt den Jungling Christus vor, der im Tempel lehrt; links treten Maria und Joseph herzu. Vornerechts kniet hinter ihrem Felbach.1559."
+
+0,30 h.,0,492 br.Sehr gut erhalten.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+4850
+
+<!-- image -->
+
+0594
+<!-- image -->
+
+hoch gelegene Stadt, rechts ein Schloss am Ufer eines See's. Im Vordergrunde links sitzt Chri Fussbande steht die Inschrift (d. B):Jungkfrow Biattrix von Grutt . Anno Dominy 1558."
+
+0,28 h.,0,463 br.Etwas defect: zwei Risse,ausserdem fehlen 2 Sticke.
+
+- Nr. 54. Den grinen jonischen Pfeilern ist jedesmal eine weibliche Herme vorgesetzt. Am Fusse springen 2 Putti, welche die von den Basen herunter hangenden Schleifen halten. Die Fronten der Gebalkaufsatze sind mit Medailons geschmickt,welche weibliche Brustbilder umschliessen. Darunter offnet sich der Einblick in ein reiches Gemach,wo Magdalena die Fusse Christi salbt. Links kniet hinter seinem Wappen der geharnischte Donator; sein bartiger Kopf ist augen-
+
+das Monogramm NB Auf dem weissen Fussbande steht die Inschrift (d. B):Benedict von Herttenftein Difer Zyt Houptmann deb Gotzhuf fant Galle 1559".
+
+<!-- image -->
+
+0,304,h.,0,492 br.Intact bis auf einige unbedeutende Risschen.
+
+- Nr.55.Violette Pfeiler mit vorgelegten schlank gebauchten Saulen tragen ein schlichtes rothes Gebalk mit gelbem Mittelstuck. Auf den Pfeilern schauen hinter den grinen Saulenkapiuiber welchem der Fernblick auf einen von Bergen umschlossenen See sich offnet.Rechts am Ufer steht eine Stadt,nach welcher eine Schaar von Mannern zieht. Im Vordergrunde nimmt Christus Abschied von seiner Mutter. Diese Darstellung isteine freie Wiederholung nach Dirers kleiner Holzschnittpassion. Links und rechts im Vordergrunde die Wappen v. Ulm und v.Hinwyl.Auf dem weissen Fussbande steht die Inschrift (d. B):Hans von VIm zu Thuiffen
+
+<!-- image -->
+
+0,30 h..0,482 br. Erhaltung sehr gut bis auf einige Risschen.Abbildung in Meisterwerke der schweizer. Glasmalerei Taf.39.
+
+- Nr. 56.In der aus lauter Flicksticken zusammengesetzten Scheibe geben sich einige Bruchsticke rechts als Bestandtheile des Bildes zu erkennen, welches ziemlich genau nach Durer's kleiner Holzschnittpassion den Einzug Christi in Jerusalem darstelt.niAusserdem ein Pfeiler, der zur Umrahmung dieses Bildes diente.
+- Nr.57.Blaue Pfeiler mit vorgesetzten halbnackten Gestalten Mann und Frau,welch Letztere ihre beiden Briste halt 一 sind mit rothen Basen und Kampfern versehen.Sie tragen ΛB Monogramm enthalt. In dieser Umrahmung offnet sich der Einblick in eine tiefe Saulen-
+- ein grines mit Blattornamenten geschmucktes Gebalk, in dessen Mitte eine gelbe Cartouche das Holzschn.Passion).Links unten ein Spruchband mit der Inschrift (d. B):,Lutzernn"
+
+0,303 h.,0,49 br.Erhaltung gut.Abgebildet in Meisterwerke der schweiz. Glassmalerei Taf.36.
+- Castel. Auf dem gelben Fussboden sind Monogramm NB und das Datum1559 verzeichnet. Kaftel sin Huffrow."
+- Nr. 59. Das gelbe Gebalk ist mit Aufsatzen von blauem Rollwerk, gelben Kugeln und seine
+
+0,30 h.,0,483 br.Vorziglich erhalten.
+
+- Mitte mit einem grinen Kranze besetzt, der eine weibliche Buste umschliesst. Die seitlichen Stitzen sind kraftige Pfeiler mit rothen Kapitalen und Postamenten. Diesen Stitzen sind braune spiralformig gewundene Saulen vorgelegt, neben denen jedesmal zwei Flugelknaben stehen. Die Fusswaschung ist ziemlich genaue Wiederholung von Durer's kleiner Holzschn. Passion. Links und rechts die Wappen Hohen-Landenberg und Haidenheim; iber dem Ersteren hangen vom Architrave an goldener Kette die Insignien des schwabischen Ritterbundes herab. Den weissen Fussstreifen theilt ein grines Mittelstuck mit dem Datum 1559 und dem Monogramme AB. Zu beiden Seiten die Inschrift (d. B):,Hug Dauid vo der Hoche Landenberg, Wingartifcher Hoffmaifter Zu Hagnow Elfbethen von Hochennlandenberg geborne vo Haidenhaim fin Eegmachell. 0,303 h.,0,493 br.Intact Wien No,19,Zurich No.64.
+- Nr. 6o.Ein rother finffach gebrochener Bogen mit gelbem Schlussstein ist seitwarts mit ruhenden Frauengestalten besetzt.Zwei andere Frauen tragen mit den iber dem Haupte yerschrankten Armen die violetten Saulenkapitale.Die Beine dieser nackten Figuren sind mit gelben deren Fronte ein Stierschadel schmickt.Ein weisses Spruchband am Fuss der Scheibe enthalt die Aufschrift (d. B):Cafpar Ludwig von Haidenhaim Zu Klingeberg vnd Elfbetha vo Haidehaim geborne Richlin von Meldeck fin Eegmachel 1559*. Monogramm NB. Das Gebet am Oelberg ist mit unwesentlichen Aenderungen nach Direr's kl. Holzschn.Passion wiederholt. Links und rechts die Wappen Haidenheim und Reichlin-Meldeck.
+
+<!-- image -->
+
+<!-- image -->
+
+2600
+
+0
+
+<!-- image -->
+
+- Nr. 61. Die seitlichen Stutzen sind gelbe Pfeiler mit. violetten Kapitalen und Basen; davor steht eine leicht gewandete Frauengestalt, die eine Vase mit Fruchten auf dem Haupte tragt. Die gelben Postamente sind mit den Medaillon-Busten eines Junglings und einer Jungfrau geschmickt. Den horizontalen Abschluss bildet ein gelbes Gebalk, iber welchem kurze Pfeiler. von derselben gemalt, die mit Schlangen spielen. Der Mitte dieses Frieses sind zwei purpurne Kinderfiguren vorgesetzt, die,mit Flugeln und Hinterleib eines Drachen versehen, sich umarmen. mahme Christi ist eine fast buchstabliche Wiederholung von Durer's kleiner Holzschn. Passion. Die Gefangen-
+
+0,30 h.,0,484 br. Intact. Wien No. 20. Zirich No. 62.
+52.00
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Links und rechts die Wappen Castelmur und Ramschwag. Das weisse Fussband enthalt die Inschrift (d. B):Criftoffel von Kaftelmur Amenlya von Ramfchwag.Auf dem violetten Mittel-
+
+NB tafelchen steht das Monogramm
+
+0,304 h., 0,495 br. Erhaltung tadellos. Wien No. 21. Zarich No.63,
+
+- Nr. 62. Schwere gelbe Pfeiler, von ruhenden Lowen getragen, schliessen mit rothen Kampfern und Postamenten ab. Den Letzteren sind blaue Rundsockel mit Widderkopfen vorgesetzt. Darauf Sie sind in blaue stehen,als Trager der vorgekropften weissen Gebalkaufsatze,Mann und Frau. Ticher gehilt; die Stelle der Beine vertreten versehlungene Baumwurzeln.Von den Pfeilern steigen nach der Mitte im Flachbogen zwei violette Voluten an, von denen grine Fruchtschnire herunterhangen. Das Hauptbild: Christ us vor Hannas ist ziemlich genau nach Durer's kleiner Holzschn. Passion copirt. Links der aufrechte Schild von Zug von dem gekronten Reichswappen NB enthalt, steht anf uberragt. Unten,wo eine blaue Agraffe in der Mitte das Monogramm grinem Fussband die Widmung (d. B):,Die Statt Zug Anno Domini 155 ?"
+
+0,305 h., 0,492 br. Mehrere grossere Risse, sonst intact.
+
+- Nr. 63. Violetten Pfeilern auf blauen Sockeln sind grine schlank geschwellte Saulen mit blauen Kapitalen vorgesetzt.Von den Pfeilern steigt ein finffach gebrochener rother Flachbogen nach dem grinen Schlusssteine an. Die Darstellung des Hohenpriesters,der seine Kleider zerreisst,ist ziemlich genau nach Durer's kleiner Holzschn.Passion wiederholt. Schild links NB Von der Inschrift am Fuss der Scheibe sind nur noch Anfang und Ende erhalten (d. B):Erafym .. ..myn sin Huffrow".
+
+0,305 h.,0,486 br.Defect:es fehlen 5 Stucke.
+
+- Nr. 64. Die Seitenstitzen sind gelbe Pfeiler mit grinen Basen und rothen Kampfern mit vorgesetzten weiblichen Hermen. Die Bekronung bildet ein Flachbogen von blauen Voluten. Ueber den Pfeilern ruhen zwei Engel, sie tragen mit erhobenen Armen ein gelbes Gebalk. Die VerLinks das dreispottung Christi ist Wiederholung von Direr's kleiner Holzschn. Passion. helmige Wappen der Giel. Das weisse Fussband enthalt die Inschrift (d. B): ,Chriftoffel Giell
+
+von Gielfperg 1559". In der Mitte eine rothe Scheibe mit dem Monogramm
+
+0,31 h., O,49 br. Sehr defect,Flickstucke und Nothbleie, ausserdem ziemlich rostig.
+
+<!-- image -->
+
+- Nr. 65. Blaue Pfeiler tragen einen grinen Flachbogen mit violettem Schlussstein. In den seitlichen Zwickeln sieht man hinter den hermenartigen Aufsatzen je 3 kniende und ruhende Manner und Knaben. Der Vorgang: Christus vor Herodes ist ziemlich genau nach Direr's kleiner Holzschn. Passion wiederholt. Rechts vorne das Tschudy'sche Wappen, hinter welchem der greise geharnischte Donator kniet. Auf dem weissen Fussbande steht die Inschrift (d. B): ,Balthaffar Tfchudy von Glarus, differ Zyt Landtvogt der Graffchafft Toggenburg . A 155 ?".
+
+0,30 h.,0,487 br. Ein grosses Mittelstuck fehlt; menrere Risse.
+- Nr. 66. Von den originellen Saulen ist nur diejenige links vollstandig erhalten. Den unteren Der rothe Schlusstein enthalt das Monogramm  NB *. In den weissen griner Flachbogen. dieses Bildes sind die Wappen angebracht. Unten steht die Jahreszahl 1559 und auf dem weissen Fussbande die Inschrift (d. B):Cafpar Latterz .Anna . Locherin . Sin H. 0,298 h,0,482 br. Beinahe intact. Einige unbedeutende Risse und Flicke.
+
+1559 und das Monogramm *AB·
+
+- Nr. 67. Gedrungene Pfeiler mit schlank geschwellten Saulenvorlagen, uber denen zweikopfige Ungethime drohen, tragen den horizontalen Abschluss. Er wird durch blaues Rollwerk gebildet; gelbe Fruchtschnure hangen herab, auf denen sich finf Fluigelknaben tummeln. Das Hauptbild stellt Pilatus Hand waschung nach Durer's genanntem Werke dar. Rechts und links sind die Wappen der Blarer und Hohen-Landenberg angeordnet. Ueber dem Letzteren die Zeichen des schwabischen Ritterbundes. Das weisse Fussband enthalt die Inschrift (d. B):,Sebaftion von Hochenlanndenberg Magdalena vo Hocheladeberg geborne Plarerin.Auf dem grunen Mittelstick
+
+0,305 h.,0,49 br.Erhaltung sehr gut.
+
+- Nr. 68. Reiche Kandelabersaulen flankiren die Mitte.Auf denselben sitzen,von einander abgewendet, 2 Satyrn mit Keulen. Ueber ihnen steht ein Fruchtkorb und eine gelbe RollwerkCartouche. Das Bild,vor welchem links hinter ihrem Wappen die lebensvolle Donatorin im Wittwenkleide mit Buch und Paternoster kniet,hat mit Direr's Composition Nichts zu thun; eher
+- erinnert dasselbe an Schongauer's grosse Kreuztra gung. Auf einem weissen Fussbande steht die Inschrift (d. B):Frow Veroniea Schwartzmurerin Joachim von Grut Verlaffne Wittfrow AnnoDominj 1558".
+
+0,285 h.,0,465 br.Zahlreiche Defecte,ausserdem mehrere Nothbleie im Hauptbilde.
+
+- gemalte Landschaft mit Bergen, See und Schlossern. An dem blauen weiss bewolkten Himmel Rechten, wo neben dem Pfeiler S. Bernhard den Crucifixus umarmt, steht das ecartelirte Wappen von Citeaux und Eschenbach. Gegeniber steht das Wappen der Bilchelsee, hinter welchem der geharnischte Donator 'kniet. In der Mitte des weissen Fussbandes, das die Inschrift enthalt,
+- Nr. 69. Rothe Pfeiler mit violetten Postamenten und Kapitalen, iber denen zwei Satyrn mit eine tauschend gemalte Fliege. In der Mitte vorn steht die Madonna in gelber Glorie; zu ihrer
+
+umschliesst eine violette Cartouche das Monogramm NB Die Widmung lautet (d.B):berhart von Bichelfee Fundator des Gotzh .igka (Danikon) .58″. 0,30 h.,0,49 br.Defect. Flickstucke und Verbleiungen.
+
+0,292 h., 0,483 br. Intact, einige alte Flickstucke und Nothbleie.
+
+Nr. 70. Gleiche Umrahmung wie Nr. 62 mit grinem Volutenbogen. Auf farblosem Grunde (d.B):,Die Statt Z (ug)".
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Nr.71-75.
+
+Glasgemalde aus dem Kloster Danikon. II. Cyklus.
+
+- Nr. 71. Schwere Pfeiler und ein Volutenbogen mit durchgesteckten nackten Figuren,umschliessen das Hauptbild, welches die Speisung der 5000 darstelt. Darunter die Inschrift (d. B): "Johans zum Brunnen Dess Raths zi Vry Diser Zytt Lantuogtt Inn Ober vnd Nider Durgouw Der Jaren 1564 vnd 1565."
+
+Das Wappen des Abtes Petrus Schmid von Wettingen gehort
+
+0,30 h.,0,455 br.Intact,einige Risse. nicht dazu.
+
+- Nr.72. Seitwarts unter leichten Saulentabernakeln sind die Wappen des Stifters und seiner Gattin angeordnet. Das Hauptbild stellt die Kreuztragung vor. Am Fusse die Inschrift:
+- ,TNEOPHILVS VOM GRVT OBERVOGT DER GRAFSCHAFFT PHIRT.ANNO 1563 ANNA VOM GRVDT GEBORNVONBERINGEN SEINHAVSFROW".
+
+0,32 h.,O,525 br. Defect. Es fehlen wichtige Stucke des Hauptbildes.Starke Verbleiungen.
+
+- Nr. 73. Gegenstick zu Nr. 72. 2 Kandelabersaulen mit Ansatzen von Voluten umrahmen
+- das Hauptbild, das den Moment darstellt, wo Longinus dem Gekreuzigten die SpeerL u. r die Wappen des Stifters und seiner Frau. Am Fuss die Inschrift (d. B):Albert Segisser Vnd Frow Kingolt von Meggen ab Balldegg Sin Elicher gemahel 1564."Auf einem violetten Me-
+
+daillon in der Mitte des Fusses das Monogramm
+
+- 0,31 h.,0.532 br.Intact bis auf einige Risse.Z Zurich No.137.
+- Nr. 74.Kronung Marie; darunter die lebensvolle Portraitfigur des Stifters. Links sein Wappen, dazwischen, von Rollwerk umgeben, die fragmentarische Inschrift (d. B):,Hanns Waltma....Wangen.... des Wappens von Grut, von einem Engel gehalten, darunter 15 .. Die andere Halfte dieses Rundes
+- "Oben in einer rothen Cartouche: 1564. Unten links das Bruchstuck ist in Nr. 50 verflickt.
+- 0,308 h.,0,50 br.,Ganz defect und verbleit.
+- Nr. 75. Ein weinrother Doppelbogen von zwei seitlichen Pfeilern mit reich geschmickten Saulenvorlagen und einer geschwellten Mittelsaule getragen, auf welcher ein Engelchen geigt, umrahmen die beiden Halften. In der Ferne, grin und blau gemalt, der Ausblick auf die Stadt Frauenfeld. In jeder Halfte ein behelmtes Wappen, hinter welchen die Namenspatrone stehen: links S. Johannes Baptista, rechts St. Verena. Zu ihren Fussen knien der Donator und beiden ein Spruchband mit der Inschrift (d. B):Hans Locher Landschryber zu frowefeld."
+
+<!-- image -->
+
+0,285 h.,0,47 br. Das Bild des Donators defect. Ausserdem in der linken Halfte mehrfache Risse,Defecte und Flicke.Sonst gut erhalten.
+## Nr. 76-86.
+
+Glasgemalde aus Denikon oder dem Cistercienserinnenkloster Magdenau im Ct. St. Gallen.
+
+Nr. 76. Wunder zu Cana.
+
+Nr. 77. Die Juden drohen Christum zu steinigen. Ioannis . Capt . 8. Am FuBe die unvollstandige Inschrift: ",Das Lannd . . . .
+
+650
+
+750.
+
+0,248 h., 0,463 br. Kopfstuck, Unterschrift und Datum fehlen. Alte Flicksticke.
+
+0,293 h., 0,516 br. Defect. Es fehlen 6 Stuicke.
+
+<!-- image -->
+
+- Nr.78. Vor dem Pfeiler links das Wappen der Muntprat. Hauptbild: Christus steht vor dem Kreuze, das zum Martyrium hergerichtet wird. Am Fube (d. B): "....Montprat Verwalter der Haubtmanschafft zu Coftanz....."
+
+0,295 h., 0,546 br. Sehr defect;viele alte Flickstucke.
+
+- Nr.79. Nuchterne Umrahmung mit Saulen und Architrav. In den Seitenabtheilungen links "S. BERNHARDVS", rechts ,S. RVDOLFVS". Das Hauptbild zeigt in figurenreicher Darstellung den Auferstandenen, der die Gerechten des alten Bundes aus dem Limbus erlost. Unten in der Mitte umschliesst ein Ovalkranz den Schild des Stifters, der, als Monch in schwarzem Habite, zur Seite kniet. Die Widmung lautet:"I. Rudolfes Guggenbil,Deb Conuets zu Wettingen Der zit Bychtiger zu Magenou .Anno Domini .161o".Monogramm TE
+
+<!-- image -->
+
+Nr. 8o. Die Seitenstitzen fehlen. Hauptbild:Die drei Marien beim leeren Grabe. Inschrift:,GOTZHVS MVRY ANNO DOMINI.M.D.L.XXXV."
+
+0,315 h.,0,50 br. Es fehlen 2 Stucke. Einige Nothbleie und Risse.
+
+0,262 h., 0,482 br. Es fehlen verschiedene Stucke. Mehrere Nothbleie.
+
+0,255 h.,0,47 br. Etwas defect; einige alte Flicksticke und Risse.
+
+- Nr. S1. Zwei Satyrn tragen vor den weissen Pfeilern die rothen Kampfer. In der Ferne offnet sich der Ausblick auf eine Seelandschaft.Vorne erscheint der Auferstandene als Gartner der hl.Magdalena. Inschrift und Datum fehlen.
+- Nr. 82. Ein gruner Kranz, von reichem rosafarbenem Rollwerk umgeben,umschliesst das Wappen der Andlau. Links stehen Johannes der Taufer, rechts Christus, der dem Thomas die Wundmale zeigt. Unten die Inschrift (d. B): ,Arbogaft von Andlaw Ritter S: Johans Ordens Com...
+
+0,265 h.,0,475 br.Mehrere Risse;ausserdem fehlen verschiedene Sticke.
+
+0,258 h., 0,51 br. Erhaltung mangelhaft; eine Anzahl Flicksticke.
+
+- Nr. 83. Himmelfahrt Christi. Seitwarts 2 Postamente, auf denen Engel mit Palmzweigen stehen. Von den seitlichen Stifterwappen ist nur das Schwarzmurer'sche rechts erhalten, uber welchem die Vorsicht thront. Unten (d. B): J. Hans Jacob Flackenstein vn Frouw Urfula Mudfchlin sin Ee-Gmachell.1600.
+- Lucern Anno 1587. Wahrscheinlich eine Arbeit Franz Fallenters.
+
+0,26 h., 0,487 br. Etwas defect; einige alte Flicke und Nothbleie. Zurich No. 136.
+
+850
+
+Caber
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+1000.
+
+<!-- image -->
+
+gades
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+- Nr. 85. Kronung Maria. Zu beiden Seiten die Wappen der Pfyffer und Fleckenstein. Unten die Inschrift (d. B):Houptman Joft Pfyffer . Anna Fleckensteinin.Anno Domini. 1587. 0,255 h.,0,485 br.Einige alte Flicke und Risse.
+
+0,258 h.,0,47 br.Gut erhalten; einige Risse.
+
+- Nr. S6. In der Mitte auf farblosem Grunde das ecartelirte Wappen von Citeaux, Rapperswyl, Silbereisen und Wettingen von der Inful und den Helmen von Citeaux und Rapperswyl iberragt. Links stehen Maria,rechts S. Christophorus.U Unten die Inschrift (d.B):Chriftoff. Von Gottes gnade Abbtt des Wirdigen Gottshus wettinge.1587".
+
+Nr. S7-114.
+
+<!-- image -->
+
+Arbeiten des Meisters
+
+Cf.H.Meyer im Anzeiger fir Schweizerische Alterthumskunde 1879.S.935 u.f.
+
+<!-- image -->
+
+- Nr. 87. Standesscheibe von Zurich 1560.Am Fuss der Scheibe die geneigten Standesschilde mit dem gekronten Reichswappen. Weisser Grund. L. ein Pannertrager,r. ein Hellebardier. Reiche Pfeiler tragen einen rothen Volutenbogen,iber welchem eine gelbe Balustrade den mittleren Abschluss macht. Am Fufe des Pfeilers links das Monogramm H )562
+
+0,40 h.,0,312 br.Leidlich erhalten;Nothbleie. Reichsschild fehlt. Zurich No.138.
+
+- Nr.88.Hans Jochim gutta fo zu Sonneberg, difer Zit Munzmaifter zu Vry 1561."FH. Weisser Grund,zu Seiten des Wappens steht die Fortuna. Schwere Pfeiler tragen einen geradlinigen Sturz,dariber eine Jagd.
+
+0,30 h.,0,208 br.Gut erhalten;Wien No.25.Zirich No.102.
+
+- Nr.89.Auf weissem Grunde steht der geharnischte Stifter neben dem behelmten Wappen,dauber der gekronte Schild von Frankreich mit einer Bandrolle,auf welcher die Inschrift:Crift Vincit, Crift Regnat, crift Imperat.Hoher ein Spruchband: Contra dominu no eft cofilu. Si deus pro nobis quis cota nos.Dariber eine sauber durchgefuhrte Landsknechtschlacht. Auf dem gelben Fuss
+
+der Scheibe (lat.cursiv):Hoptman Jofeph Studer 1561“und Monogramm
+
+出，
+
+<!-- image -->
+
+- Nr. 9o. Einblick in eine bunte Pfeilerhall mit blauem Rippengewolbe. Reiches Getriebe von Ab- und Zugehenden. Rechts die Ehebrecherin,vor welcher Christus die Worte auf den Boden schreibt. Zu Fussen Christi das Monogramm wie auf voriger Nummer,am Fusse,von Flachbogen umrahmt, die beiden Wappen. In der Mitte (d. B): Caspar Hufelich ond Kathrina Marbachin", Dariber:,Got behit vns vor alem vbel."
+
+0,312 h.,0,212 br. Erhaltung gut.
+
+0,323 h.,0,21 br. Gut erhalten； Kopfsticke mit unbekannten Scenen,muthmasslich von anderer Hand; einige Risse.
+
+- Nr. 91. Zwei bunte Saulen tragen einen steilen aus Rollwerk gebildeten Giebel. Das Kopfstick rechts ist durch ein altes Fragment ersetzt. Links Jakob, der die drei Gaste empfangt; unter der Thurelauscht Sara. Das Hauptstuck stellt in weiter Landschaft das Opfer Abrahams
+
+<!-- image -->
+
+und der In- schrift (d. B) ,Aleixander Peyer ynnd Anna Schlapparitzin fin Eegmahel 1562."
+
+0,425 h.,0,32 br.Gut erhalten;einige alte Flickstucke.
+n.
+
+S-
+
+1'- le
+
+T.
+
+n
+
+，
+
+S
+
+e
+
+三
+
+- Nr. 92. Auf gelbem Damast in reicher, bunter Pfeilerarchitektur das behelmte Wappen.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Ufer gegeneinander sprengende Ritter. Monogramm AHI.
+
+Nr. 93. Gegenstick zu Nr. 92. Auf weissem Grund die von dem Helm der Zyli bekronten Schilde der Zyli und Geisberg. Bunte Pfeiler mit schweren Architravsticken sind durch einen blauen, in der Mitte rundbogig iberhohten Architrav verbunden. An den Fronten der Gebalkdurchblickendem Frauenkopf. Sie theilt die beiden ungewohnlich hohen Kopfstucke. Links: die Thiere werden in die Arche geladen; rechts: Noas Dankopfer, Die Unterschriften lauten: ,Ingang in den kafte nach def Herre befelch. Ankunfft ond warung des suindfuf. Vndergang alles feifch. Gene. VIl. Ca. — Ein pundt vfgericht mit gegebenem Zeichen, keine sindfuf kome ze-
+
+0.418 h., 0,317 br. Gut erhalten; einige Bleie; 4 alte Flicksticke.
+
+laffen, nit verderbe alles feifch. Gene. Ix. Ca. Unten die Inschrift (d. B): ,Jacob Zyly Alt vnd
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- Nr. 94. Schwere Pfeiler und ein schwacher rother Spitzgiebel umrahmen auf farblosem Grunde die Allianzschilde mit dem Kleinode der Schobinger. Das grosse Kopfstick zeigt in oriDaniel darum dz er den Abgott Bel ond Dracke zerstort, wirt in die lowegrub geworffe. Dan. 14.,
+
+Clara Gaifsbergin sin Eegmahel. Anno Domini 1562.Monogramm 0.43 h.,0,32 br.Gut erhalten;einige Risse.
+
+<!-- image -->
+
+0.432 h.,0,317 br. Gut erhalten;einige Nothbleie und alte Flicksticke.
+
+Am Fusse der Scheibe das Monogramm Elfsbeth Sattleri sin Eegmahel.Anno 1562."
+
+Nr. 95. Pendant zu 92,93,96.97. Eine fachbogige Pfeilerarcade mit vorgesetzten Saulen umrahmt den weissen Grund,auf welchem,von dem Helm des mannlichen Wappens iberragt, die Beneigten Schilde des Stifters und seiner Gattin stehen. Die Fronten der Gebalkaufsatze iber den Saulen sind wieder mit reizenden Vogelchen geschmickt. Eine gelbe Rollwerkcartouche mit durchblickendem Frauenkopf trennt die hohen Kopfsticke: Erschaffung Adams und Evas mit den Unter-
+
+<!-- image -->
+
+schriften (d. B):Vnd Gott der Herr machet den menfche vfs kadt vo der erden,vnd bliefs in fin angeficht ein laebedige athem, Genefis, Il. Capittel. Vnd Gott der Here buwet ein weib auf dem ripe das er von dem menfche nam, vn bracht fy zu im. Genefis,Il. Cap.Auf dem Sockel der Scheibe (d. B): ,Hanns Jacob Graff ond Elfsbeth Payerin fin Eegmahel 1562. Monogramm'
+
+0,43 h.,0,315 br. Erhaltung gut; einige Nothbleie.
+
+<!-- image -->
+
+Monogramm Nuchterne Umrahmung mit seitlichen Pfeilern und unschonem Volutenwerk, das aus einer mittleren Candelabersiule emporwachst. Weisser Grund. Rechts die Alliance-
+
+Nr.96. Pendant zu Nr. 92, 93,95 und 97. (d. B): ,Im Jar fo man zelt nach der geburt Chrifti vnfers Erlofers MDLXIl. Cafpar von vonbil vnd Elifabeth Schirmeri fin Eegmahel.
+wappen, links ein unverhuiltes Frauenzimmer, gegen das eine Katze aufspringt. In den Zwickeln
+
+<!-- image -->
+
+angebracht.
+
+0,423 h., 0,32 br. Tadellos erhalten. Zurich No.98.
+
+Nr. 97. Pendant zu Nr. 92, 93 und 95. Auf glattem gelbem Grunde erscheint die auf Wolken thronende ,JVSTICIA", darunter die Reprsasentanten der verschiedenen Stande; ganz unten, in Konig, Sultan und zu oberst, hart neben der Justitia, ein augenscheinlich fehender Bauer. Umrahmung mit Candelabersaulen und einem Volutengiebel, iber welchem das mittlere Kopfstick fehlt. Rechts und links auf weissem Grunde in gelber Wolkenglorie ,FIDES"und ,CARITAS" Unter den Saulen die Schilde des Stifters und seiner Frau (:Peyer vom Weggen:), dazwischen (d. B): Hanns Stockar vnd El6beth Peyerin fin verlaffne Wittwe.Anno 1562. Monogramm wie auf voriger Nummer.
+
+0,428 h.,0,322 br.Erhaltung gut;vier alte Flicksticke.
+
+Nr. 98. Bunte Pfeiler mit einem gelben Spitzgiebel umschliessen auf einfarbig blauem Grunde das kraftig durchgefihrte Wappen. Oben zwischen den Gebalkaufsatzen eine sauber durchgefuhrte Hirschjagd. Unten Monogramm und die Inschrift (d. B):,Melchior Rotmund.Anno 1563."
+
+0,254 h., 0,176 br. Tadellos erhalten.
+
+Nr.99.Geschichte Davids und der Bathseba.Die Inschrift (d. B):,Hans Jacob Studer* 0,30 h.,0.202 br.Defect.Das Kodfsticke fehlt theilweise.
+
+Nr.100. (d.B):Cafpar Scherer vnd Elfsbeth Studeri fin Eegmahel. Im Jhar 1563. Monogramm A. Wappen des Stifters auf blauem Grund von gelben Pfeilern mit einem halbrund uberhohten Architrave umrahmt. Dariber Habakuk, der Daniel in der Lowengrube mit Trank und Speise versieht.
+
+0,315 h.,0,215 br. Intact;bis auf einige Nothbleie.Zurich Nr. 140.
+
+Nr.101.Die originelle, wenn auch schwere Umrahmung bilden zwei bunte Pfeiler mit einem die Inschrift (d. B):,Jacob Schlapritzi vnd Anna Studeri fin Eeliche Hufrow.Anno 1563."
+
+0,315 h.,021 br.Erhaltung vorziglich.
+
+- Nr. 102. Bunte Saulen und ein Volutenbogen, iber welchem das Kopfstuick Susanna im Bade zeigt. Das Hauptbild stellt Judith dar, die ihrer Magd das Haupt des Holofernes ibergiebt. Am Fusse zwischen den Schilden eine Inschrifttafel mit dem MonogrammA16 und (d. B) ,Niklaus Schlumpff vnd Helena Studeri."
+
+0,324 h.,0,205 br.Tadellos erhalten.
+
+- Nr.103. Gelbe Pfeiler mit vorgesetzten Saulen, die von nackten Knaben umschlungen werden, tragen einen steilen Volutengiebel, in dessen Scheitel ein Ovalkranz die Halbfigur der Lucretia umschliesst. Das kleine Zwickelbild rechts stellt Tells Schuss in der hohlen Gasse dar.I Das
+
+<!-- image -->
+Hauptbild: Tells Apfelschuss. Unten
+
+der Schild des Stifters und Unterschrift (d.B):
+
+<!-- image -->
+
+0,32 h.,0,213 br. Gut erhalten; der Zwickel oben links fehlt; cinige Risse. Zurich Nr. 103.
+
+0,315 h., 0,217 br. Tadellos erhalten.
+
+Nr.104. Zwischen Saulen mit reicher Volutenbekronung,iber welcher die Kopfsficke die Geschichte der Konigstochter darstellen, welche die Hand in den Rachen des Lowen streckt, der Kampf Davids gegen Goliath. Am Fusse zwischen den Schilden die Inschrift (d. B): *Jacob Studer vnd Anna Peyerin fin Eeliche Hufsfrow.1563."
+
+Nr.105. Das Mittelbild, im Viereck von Schilden umrahmt, stelt das Innere eines Schlachthauses dar, in welchem der Metzger zum Schlage auf den Stier ausholt. Links tritt seine Frau mit einem Becken herzu. Auf dem Fussboden das Monogramm
+
+Das grosseKopf-
+
+stick zeigt in weiter Landschaft Schaafe und Ochsen, die von einer Dirne und zwei Mannern getrieben werden. In der Umrahmung bei den Schilden (d. B):,Burg'maister Hans Kiner; Burg'maist', Gallus Dobler; Burg'maister Hans Kiner; Gallus Appentzeller; Hanns Appentzelr; Galli Bafthart;Hans Riner; Othmar Appentzeller;Basti Appentzeller;Lienhart Burgman;Michel Vogt;Haini Hofftetter; Othmar Dobler; Simon Hofftetter; Othmar Dobler;Cunrat Appentzellr; Span Hans Riner; Hainrich Dobler; Lienhart Bafthart;Othmar Riner; Lienhard Riner; Basti Appentzeller;Volich Buchli;Bafti Riner."
+
+0,52 h.,0,325 br.Intact.
+
+Nr.106. Pfeilerarchitektur mit seitlicher Befensterung von Butzenscheiben. Davor, von dem einzigen Kleinod der Zollikoffer iberragt,die beiden Allianzschilde. Das Kopfstick,welches die ganze Scheibenbreite einnimmt, stellt die Erschaffung Evas und den Siindenfall dar. Am Fusse die Inschrift (d. B):,Sigmund Zollykoffer der eltter zum Rengenfperg vnd fraw vrfula zollykofferi, geborne fehirmeri, fein Ehlich gemahel."
+
+0,31 h., 0,205 br. Gut erhalten; zwei Risse.
+
+Nr.107. Ungemein zartes Rundscheibchen, gelb und grau auf Weiss gemalt, den Sundenfall vorstellend,mit der Umschrift (d. B):Die liftig Schlang Adam vnd Euam,wider Gottes gebott von der verbottnen frucht des Baums dels lebens zu effen mitte. Gen. 3. Monogramm Durchmesser 0,09.Verschiedene Risse.
+
+Durchmesser 0,08s.Tadellos erhalten.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Nr. 108. Das grau und gelb gemalte Rundscheibchen stellt den Thurmbau zu Babel dar, mit der Umschrift (d. B): "Es hat aber alle Walt einerlei zung ynd fprach. Do fi nu zuged gege morge, funde fi eine plan im land Sincar,vnd v. Gen.XI.
+
+Nr.109. Zwei Pfeiler und eine mittlere Saule tragen die aus Voluten und Blattbischeln
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+1600
+
+<!-- image -->
+Alten ankleger der Susana werden an yr ftatt getodt. Dan. 13 und ,Daniel darum dz er de
+
+Fusse fehlt.Ohne Frage eine Arbeit des Andreas Hor.
+
+0,425 h.,0,305 br. Gut erhalten; einige alte Flicksticke. Zurich Nr. 96.
+
+- Nr. 11o.Auf farblosem Grunde das Wappen der Buffler von S. Gallen mit der Allianz Zolikofer. 0,25 h.,0,222 br.Gut erhaltenes Fragment. Einige Nothbleie.
+- Nr.1ll. Rundscheibe,ohne Zweifel eine Arbeit des Meisters Andreas Hor von ca. 1560. des hl.Geistes. Rechts und links zwei kirchliche Allegorien. Farbenkraftige Haltung.
+
+Durchmesser 0,252.Gut erhalten;ein Riss.
+
+- Nr. 112. Gegenstick zu Nr. 111 und von demselben Meister gemalt. Der englische Gruss. Zu Seiten zwei Manner mit dem Hut in der Hand in einem Gemache harrend.
+
+Durchmesser 0,253. Gut erhalten;drei Risse und ein Nothblei.
+
+- Nr. 113. Zierliche Miniature. Das Wappen, grau auf Gelb, ist im Style Andreas Hors gemalt. Umschrift (d. B):Bartlome Kobler .Der Herr ift nahe, allen die in anriffen, Allen die in miternftanrife.44 Psa."
+
+Durchmesser 0,10.Tadellos erhalten.
+
+- Nr.114.Fragment einer Wappenscheibe;Kopf- umd Fussstick fehlen. Seitwirts gelbe Pilaster, farbloser Grund und blaue Mittelsaule.Zu Seiten das umbekannte Mannswappen (drei schwarze Harsthorner auf gelb) und das Frauenwappen Zollikofer.Ohne Frage eine Arbeit Hor's. 0,197h.,0,287 br.
+- Nr.115. Grine Pfeiler tragen einen rothen steil geschweiften Spitzgiebel,neben welchem die Kopfstucke auf farblosem Grunde Christus darstellen,welcher die von rechts nahenden Schutzheiligen Zurichs empfangt. Das Hauptbild stellt auf gelbem Grunde die stehende Madonna vor, iber welcher zwei schwebende Engel eine Krone halten.Links S. Gallus und ein geharnischter jugendlicher Heiliger (S. Bernhard oder Robert).Rechts SS. Othmar und Benedict.Zu Fissen der Madonna, von Inful und Stab iberragt, der gevierte Schild:1. Rapperswyl; 2. St. Bernhard oder S.Robert;3.Eichhorn;4.Wettingen. Zu Seiten 1560 und die Inschrift:PETRVS VO GOTTESGNADENABBTE DES GOTZHVSWETTINGEN.
+
+<!-- image -->
+
+<!-- image -->
+
+0,423 h.,O,29 br. Die Technik erinnert an diejenige des Carl v.Aegeri. Erhaltung vorxiglich. Abgebildet in Meisterwerke Taf.54.
+
+- Nr.116.Grauer Damast zwischen Pfeilern mit vorgelegten Kandelabersaulen. Von Oben hingt ein Blattbischel herab. Links steht ein Geharnischter mit dem Streithammer; von rechts nalit sich ein Fraulein in Holbeintracht mit erhobenem Pokale.Unten (d. B):Hauptman Vogtt Ja ...Vlrich 1561". Zwischen beiden Figuren das ecartelirte Alliance-Wappen mit einzigem
+- Helm.
+
+0,315 h.,0,285 br. Mangelhaft erhalten;Kopfsticke fehlen.Wappen verflickt;Rost.
+
+- Nr. 117.(d. B) Houptman Jacob vo heimm vnd Houptman Vlrich Schyri bed von Apenzell Anno Domini. 1561. Zu Seiten der Wappen zwei Geharnischte mit Commandostiben. Blauer Damast. Ueber den Voluten, welche von seitlichen Saulen und einer Mittelstitze getragen werden, ein Scheibenschiessen.
+
+0,42 h.,0,305 br.Etwas verblasst; gut erhalten. Sehones Stick. Zurich Nr. 81.
+
+<!-- image -->
+de an
+
+fer.
+
+560.
+
+vart
+
+1ss.
+
+ge- die
+
+elbe lrei
+
+r's.
+
+nem itz-
+
+vor, iter
+
+ssen lard
+
+VO
+
+ildet ben
+
+chts
+
+Dgtt gem
+
+nno ast.
+
+ein
+
+- Nr.118. Das Hauptbild zeigt zwischen bunten Saulen das Gebet des Tobias und seiner gret Hirtzlin Syn Eegemachel 1562."
+
+0,31 h., 0,208 br. Gut erhaltem.
+
+- Nr. 119. Reiche, zweifach gekuppelte Kandelabersaulen mit schweren Basen und Kapitalen Lazarus fort, dessen Seele Gott-Vater, in einer Glorie, hailt. Die kleinen dreieckigen Kopfstucke stellen den Kampf zwischen David und Goliath vor. Am Fusse der Scheibe 1562 und neben beiden Wappenschilden die Inschrift: ,HEINRICH . BRVGGER . PREDICA . ZV . ERLIBACH . EMAVEL .KISLING.PREDICAT.ZV.KILCHBERG."
+
+0,395h.,0,295br.Gnt erhalten.
+
+- Nr.120. Doppelt gekuppelte, gebauchte Saulen mit sehr fein durchgefuhrten Kapitalen tragen zwei rothe steil gegen die Mitte ansteigende Voluten. Darunter sitzt in einer stinmungsvollen Landschaft vor dem Kreuze die Pieta. Ein kniender Engel halt vor ihr die Schilde von Citeaux und der Abtissin, welche Letzere mit Pedum und Rosenkranz rechts zur Seite kniet. Darunter die Inschrift (d. B):, · . . . Abbtiffin def Gotzhus Maggenow 1563."
+
+0,41 h.,0,30 br. Beide Oberzwickel und ein Stuck der Inschrift fehlen, sonst gut erhalten.
+
+- Nr.121. Purpurner Damast. Zu Seiten des Schildes der Mann als Hellebardier und die Frau mit Kanne und Pokal. Am Fusse die Inschrift (d. B):,Hans wurst vnd sin HuBfrouw 1564." 0,242 h.,0,186 br. Unvollstandig;alte Flickstucke,einige Bleie,Kopfstuck fehlt. Zurich Nr. 84.
+- Nr.122. Eine reiche in die Perspective gezogene Pfeilerarchitektur umrahmt auf gelbem Damastgrunde die beiden Wappen.Ueber dem blauen barocken Architrave,der eine interessante Verwendung der Ueberfangtechnik zeigt, ist in miniaturmassiger Durchfuihrung eine figurenreiche Hirschjagd gemalt. Zwei Engel mit Fackeln halten am Fuss der Scheibe die von reichem Rollwerk umgebene Tafel mit der Inschrift (d.B):Diethelm Blarer von Wartenfe zu Kempten der zyt Statthalter zu Tobel.Vnnd Margreth Blarerin von Wartenfe Gepornne von hochen Landenberg 1564,"
+
+0,402 h.,0,302 br. Bis auf einige Springe und Nothbleie gut erhalten.
+
+- Nr.123. Pfeiler und Saulen, denen zwei gleiche weibliche Figuren vorgesetzt sind, tragen den kronenden Flachgiebel. Zu Seiten desselben stellen die bunt und zierlich durchgefuhrten Kopfsticke Christi Geburt und die Verkindung an die Hirten dar. Das Hauptbild zeigt auf gelbem mit schwarzen Schniren belebtem Grunde den Namenspatronen zur Seite des behelmten Wappens.
+- a.Freyberg decanus Conftantienlis 1564."
+
+0,41 h.,0,315 br. Einige Nothbleie, sonst gut erhalten.
+
+- Nr.124. Auf einfarbig gelbem Grunde steht das fott stylisirte Wappen der Aepli. Kraftige 0,265 h., 0,206 br.Erhaltung mangelhaft;Kopfstick fehit,ausserdem verschiedene Flicksticke und Nothbleie
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- Nr.125. Auf gelbem Damast zu Seiten des Wappens Mann und Frau im Festgewande. Ueber dem rothen Flachbogen Geschichte Judiths nach Holbein. Unterschrift (d.B):Hanns Volrich
+
+0,31 h.,0,21 br. Gut erhalten; einige Nothbleie und Risse. Wien Nr. 27. Zurich Nr.99.
+
+915
+
+Bo2an
+
+- Nr.126.Opfer Abrahams. Oben steigt ein Reiter vor dem Wirthshause zu Pferd;rechts ein Saumer. Am Fusse der Wappenschild mit der Inschrift (d. B):Petter Berchtoldt Anno 1565" Monogramm
+
+0,328 h.,O,21 br. Mittelmassig erhalten; Risse,Verbleiungen und verschiedene neue Sticke.
+
+480
+
+- Nr.127. Auf einfarbigem gelbem Grunde steht St. Michael zur Seite des ecartelirten Wappens der Goldlin und ? (zwei rothe aufrechte Fische auf Weiss). Unterschrift (d. B): Renwardus Goldly
+- Chorherr zi Munfter Im Aergow Anno Dni 1565."
+
+0,337 h.,O,296 br. Kopfstuek und Umrahmung fehlen, ebenso der obere Theil des Schildhalters rechts.
+
+- Nr.128. Unterschrift (d. B):Lott Stimmer der Zytt Teutfcher Schulmaifter Vnd Burger grau in Grau mit Silbergelb und sparlicher Anwendung von Rosa eine Umgebung von Rollwerk, offenen Bogen,Vasen etc.,in welchen ruhende Putti, Manner, Frauen und Atlanten die Zwischen-
+- raume beleben.
+
+0,315 h.,0,21 br. Gut erhalten. Sehr bemerkenswerthe und originelle Composition.Zurich Nr.104.
+
+- Nr.129.Rundscheibe. Vor einer fernen Landschaft thront der hl. Benedict.Ueber dem Monchsgewande tragt er das Pluviale. In der Rechten halt er das Brod; ein kleiner Bar bringt ihm den Holzpfock. Auf dem Throne steht das Monogramm Bf. Auf Weiss die Umschrift (d.B):Decan vnnd gemainer Conuent Des Wurdigen Gotshis sannt Gallenn.Anno Dominj 1566." Durchmesser 0.215.Tadellos erhalten.
+
+Nr.13o. Zwischen Saulen offnet sich der Einblick in ein Gemach,wo die Madonna am Bet-
+
+- pulte kniet. Von links,wo in einer Glorie die Halbfigur Gott-Vaters schwebt,naht sich der Engel mit dem Grusse. Vorn die Schilde von Citeaux und der Abtissin. Neben dem Letzteren kniet mit Rosenkranz und Pedum die Stifterin, dabei das Monogramm NB. Auf dem Fussbande die Inschrift (d. B):Frow Sophia von Grut Abbtiffin deb wiirdigen Gotzhus Tenigkon 1567."
+
+0,335 h.,0,302 br.Gut erhalten.
+
+- Nr.131. Auf farblosem Grunde steht,von Pfeilern und einem Flachbogen umrahmt iber dem Abtswappen die Madonna zwischen SS. Benedict und Adam (?) (ein jugendlicher Heiliger in weltlichem Gewande. Das Haupt mit Rosen bekranzt,halt er in der Linken ein Schwert,in der Rechten einen Palmzweig).In den oberen Zwickeln der Tod des hl. Meinrad und die Flucht seiner Morder. Der ecartelirte Schild enthalt die Wappen des Stiftes Einsiedeln und seines Abtes Adam Heer (1569-85). Ohne Zweifel eine Arbeit des Meisters Niklaus Bluntschli.
+
+0,418 h.,0,315 br.Etwas defect; sonst prachtig erhalten.
+
+0,325 h.,0,215.Gut erhalten.
+
+- Nr.132. Zwei Saulen und ein mit Rollwerk und Blattern besetzter Flachbogen umrahmen den weissen Damastgrund,auf welchem ein rothhaariger Kufer ein grosses Fass mit Reifen beschlagt. Rechts bringt ihm eine stattliche,weissgekleidete Dame den Willkomm. Oben zwei Kuferscenen. Unten zu Seiten des Schildes die Inschrift (d. B):,Hans Harder von Guttingen 1568."
+M.Gladbact
+
+<!-- image -->
+
+- Nr. 133. Unterschrift (d. B):Hans Muller Der Jung 1568 Vor der Mitte des der blaue Himmel wolbt.
+
+0,30 h., 0,204 br. Mehrere Risse. Abgebildet in Meisterwerke der schweiz. Glasmalerei Taf. 47. Wien Nr. 28. Zurich Nr.100.
+
+- Nr.134. Auf rothem Damaste stehen ein Hellebardier im Festgewand und ein geharnischter Pannertrager mit der Fahne der Stadt Brugg im Aargau. Zu Fussen die geneigten Schilde derselben Stadt. Ueber dem leichten, zum grossten Theil verdeckten Rundbogen,der von Pfeilern getragen wird, rechts: Simson mit den Thoren von Gaza, links: Judith, die dem Holofernes das Haupt abgeschlagen hat. Die Ausfuhrung vorwiegend schwarz und gelb. Zwischen den Schilden: 1568.
+- Nr.135. Fragment zweier sehr fein durchgefuhrter Wappen mit der Unterschrift (d. B): Anthonius Leo Judah 1570."
+
+0,415 h.,0,295 br. Einige Nothbleie und Risse; sonst gut erhalten. Schones Stuck.
+
+0,30h.0,205 br.
+
+Nr. 136. Ein waagrechter Architrav wird von einer mittleren Kandelabersaule und zwei seitlichen Saulen getragen. In der Tiefe offnet sich der Einblick durch eine gelbe Doppelarcade,
+
+0,31 h.,O,20 br. Abgesehen von einigen Rissen und Nothbleien gut erhalten.
+
+vor der sich auf weissem Grunde die vorzuglich stylisirten Wappen abheben. Dariber eine Hirschund Entenjagd. Unten die Inschrift (d. B):Adrian Ziegler. Vo Zurich ynd Barbara Buman (Von Apenzel Sin Gemachel 1569"letzterer Theil nur eingekritzt.) Am Fuss der Cartouche 1570.
+
+- Nr.137. Auf gelbem Grunde,zwischen bunten Pfeilern mit vorgelegten Saulen steht zur Seite des Wappens der geharnischte Stifter mit dem Streitkolben in der Hand. Ueber der fachen, aus Voluten gebildeten Bekronung, ein energisches Schlachtbild. Unten die Inschrift (d.B):Johans
+- Vrnalcher.1570.
+
+0,305 h., 0,208 br. Einige Risse; sonst gut erhalten. Hubsche Scheibe.
+
+0,32 h.,0,307 br. Mangelhaft erhalten; Rost; einige Nothbleie und Risse.
+
+- Nr.138. Das Mittelstick zeigt auf weissem Wolkengrunde den Crucifixus zwischen Maria und Johannes. Zu Fissen des Letzteren kniet vor seinem Wappenschilde ein Benedictiner mit der Ueberschrift:Deus mihi p. pitius (sic). Zu Seiten stehen in zweigeschossiger Anordnung unter Saulentabernakeln,links S. Anna selbdritt und Katharina. Rechts Magdalena und Barbara. Oben, wo das Datum 1572, und unten in waagrechter Anordnung unter Saulenarcaden je finf Heilige: oben: SS. Gallus, Marcus, Bartolomeus, Notkerus und Othmarus; unten: SS. Sebastianus, Christophor,Benedict,Leonhard und Alexius.Monogramm
+- Nr.139. Hauptstuck: Urtheil Salomons. Unten, zwischen den Schilden der Peyer (Weggen) und Ziegler, das Datum 1573 und eine Bandrolle mit der Inschrift (d. B):Marttin payer der Rachten doctor Vnd Elsbet zieglerin fin Gmahel."
+
+Nr. 140. Rundscheibe. Das bunte Mittelbild zeigt die Anbetung der hl. drei Konige Um-
+
+0,32 h.,0.30 br. Stark verbleit und mehrfach verfickt.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+4UU
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+250.
+
+<!-- image -->
+
+<!-- image -->
+schrift (d. B): Dietrich Opffer Burger vnd Lehenvogt Zuo Wyl." Unten der Schild des Stifters und das Datum 1578.
+
+Durchmesser 0,164. Ein Nothblei und ein Riss.
+
+- Nr. 141. Unten in einer Cartouche (d. B): ,Beatus von Gottes Gnade Bifchoff zu Chur 1578", links der kniende Bischof, gegeniber sein und des Stiftes Schilde. Mittelstick : thronende Madonna zwischen SS. Lucius und Florin. Zwei schwebende Engel halten eine Krone iber dem Haupte der Madonna. In den Zwickeln des Flachbogens die Verkiindigung Marie.
+
+0,422 h.,0,327 br. Stark zersprungen; sonst gut erhalten. Zurich Nr. 109.
+
+- Nr.142. Trockene derbe Arbeit. Auf weissem Grunde steht vor einer schweren weiss und blau gemalten Architektur von Pfeilern und Atlanten,der geharnischte Stifter neben seinem behelmmifwill 1579."
+
+0,405 h., 0,305 br. Gut erhalten; einige Risse.
+
+- Nr. 143. Runde Aemterscheibe von Bern. Durchmesser 0,43. Gut erhalten. Flottes Stuck. Zirich Nr.61.
+
+Nr.144. Standesscheibe von Schaffhausen 2 H. XVI (Daniel Lindtmeyer).Am Fusse der Scheibe die geneigten Standesschilde von dem Reichswappen iberragt, links ein geharnischter Pannertrager,rechts ein Hellebardier im Festgewande. Weisser Grund. Uber den Kandelabersiulen, welche den rothen Bogen tragen, zwei Engel mit Speer und Schild. Auf dem einen Schilde das
+
+Monogramm D L
+
+0,412 h.,0,295 br.Vorziglich erhalten.Schone Standesscheibe.
+
+Nr.145. Ein bunter Kranzrahmen umschliesst das Wappen der Stockar von Schaffhausen; die Unterschrift lautet (d. B):Walther Burkart vnd Hainrich Stockar 1580."
+
+Durchmesser 0,245. Mittelmassig erhalten;viele Risse. Zwei Pfeiler und eine mittlere Saule Nr.146.Auf weissem Grunde die beiden Wappen.Z tragen das bunte,aus Rollwerk gebildete Gebalk, iber welchem eine bunte Miniature Christus und die Samariterin darstellt. Unten zwischen 2 Engeln mit astrologischen Instrumenten eine Rollwerktafel mit der Inschrift (d. B):Hans fchittli vnd Roffina Zillin Sein Ehliche hauffrow Anno
+
+Domini 1580.MonogrammS
+
+0,33 h.,0,21 br. Tadellos erhalten.
+
+Nr.147. Funfzehn Rundscheibchen;zarte, blau, gelb und grin gemalte Monolithminiaturen (Christoph Murer von Zirich) Nr.1. bez.IOS. MVRER VON ZVRICH 1580. Monogramm Ueber dem Kranze, welcher das Alliance-Wappen umschliesst, der musicirende Orpheus von wilden Thieren umgeben. Nr. 2.Verkindigung. Die folgenden Sticke stellen die verschiedenen Passionsvorgange vom Einzuge in Jerusalem bis zur Erscheinung des Auferstandenen vor der Magdalena dar. Durchmesser 0,127.Alles tadellos erhalten,mit Ausnahme der letzten Nummer, die ein Flickstick hat.Feinste Miniaturmalerei.Wien Nr.23. Zurich Nr.66.
+
+Nr.148. Aehnliche Anordnung wie Nr. 146. Ueber dem Doppelwappen cine Hirschjagd: unten in einer von Rollwerk umgebenen Tafel das Monogramm BF und die Inschrift (d. B): ,Hainrich Keller vnd Margaretta Zillin.Anno Domini 1581."
+
+0,323 h.,0,205 br. Einige Risse,sonst gut erhalten.
+
+Nr.149.Das Mittelstuck stellt unten in Gegenwart des hl.Konrad den Gekreuzigten zwischen
+
+<!-- image -->
+
+150W
+er n,
+
+lle nd
+
+11-
+
+110o ren
+
+h.)
+
+len nS-
+
+ar.
+
+aste gd;
+
+B):
+
+hen vnd hatsvattervnffer vfferde bracht . | das het kein Fromer christ nie veracht . 1582 * Zwei Pfeiler begleiten diese Mite. Sie sind mit den Emblemen der Evangelisten Lukas und Johannes und den Gestalten der
+
+0,26 h.,0,216 br. Gut erhalten; einige Risse;Kopfstuck fehlt.
+
+Das ave maria ist im himel gmacht, | Den glaube haind zwolf bote gmacht, | v Madonna und der hl. Christophorus,Mauritius und Achatius geschmickt.
+
+- Nr. 150. Auf weissem Grunde steht das abtische Wappen zwischen SS. Gallus und Othmar. Oberhalb des rothen Architraves erscheint die Madonna zwischen beiden Johannes. Unten die Inschrift (d. B): ,Joachim vo Gottes gnade Abbt def wyrdigen Gotzhus Sant-Gallen 1582." Mono-
+- N gramm,
+
+0,408 h.,0,314 br. Mangelhaft erhalten; es fehlen vier Stucke.
+
+Nr.15l.Auf dem weissen Grunde, der von zwei Pfeilern und waagrechtem Gebalk umrahmt wird, steht zwischen den Wappen der Evangelist Johannes mit dem Schlangenkelche. Von dem. Gebalke hangt eine Tafel mit dem Datum 1583 herab. Dariber St.Anna selb dritt zwischen den Sehilden von Wyl. (Schwarzer Bar und schwarzes W auf Weiss.) Am Fusse die Inschrift (d. B)
+
+"Hans Rudolf Saler, Schulthes zu Wyl, Ana Kriegin . Bellican"und das Monogramm
+
+Dieselbe Chiffre steht auf dem Schilde oben rechts.Sehwere, derbe Ausfuihrung. 0,415 h.,0,31 br. Abgesehen von einem Risse gut erhalten.
+
+NX
+
+<!-- image -->
+
+Nr.152. Unter der Hirschjagd,welche das Kopfstick bildet, steht auf einfarbigem gelbem Grunde der geharnischte Stifter neben seinem Wappen, dazwischen die Devise (d.B):Verthruw
+
+0,293 h.,0.20 br.Rostig und verblasst,aber intact.
+
+Sehild des Stifters,in den oberen und unteren Ecken die vier Evangelisten. An einer Saule des
+
+Nr. 153. Am Fuss der Scheibe (d. B):Jakob Spengler.Der Zeytt Birgermaifter zu Santt Gallenn. Anno domini 15.84",dariber die auf das Mittelbild bezigliche Inschrift:,Von Saba Zog Die Konigin.| Das fie die kluge red Vnd Sinn | Des Konig Salomons erfar:|Wer Weishait fucht,der find fie par:| Drum lobt fie Chriftus hoch fuir war."Zwei wuchtige Pfeiler flankiren die Mitte, sie sind in zwei Etagen mit ovalen Medaillons geschmickt, welche die Gestalten der vier Kirchenvater enthalten.Ueber dem blauen Architrave eine Cartouche mit dem
+
+Mittelbildes
+
+S Am Fuss der untern Schrifttafel
+
+<!-- image -->
+
+0,41 h., 0,31 br. Einige Bleie und Risse, sonst gut erhalten. Wien Nr. 30. Zurich Nr. 80.
+
+0,33 h.,0,202 br. Gut erhalten,einige Risse.
+
+<!-- image -->
+
+- Nr. 154. Das Doppelwappen auf weissem Grunde wird von bunter Architektur viereckig umrahmt. Oben die Geschichte der Judith. Unten zwischen musicirenden Engelchen die Inschrift (d. B): ,Christoph Studer von Rebstein Burger zu Sant Gallen vnd Judith Studeri von Rebstein geborne Schowingery fin Eegemahel 1585 und Monogramm
+
+<!-- image -->
+- Nr.155. Rundscheibe. Ein gruiner, mit purpurnen Masken besetzter Kranz umschliesst anf farblosem Grunde die Wappen.Unten (d. B): ,Bendicht Stockar vnd Jahell Stockerin Ein Gebornne Rutlingerin Sin Ellicher Gemahell 1586."
+
+Durchmesser 0.22.Erhaltung gut.
+
+Nr.156. Bunte Umrahmung im Hochrenaissancestyl. Auf gelbem Grunde die von dem Helm des Mannes iberragten Allianzschilde. Oben SS. Heinrich und Apollonia. Zwischen den Schilden 1586. Unten eine Tafel mit der Inschrift (d. B):Heinrich bridler Der Zit fant Pelayen Gestifts
+
+- Amptman Zu bifchoffzel Appolonia Falckin fin Huffrow."
+
+0,316 h.,0,204 br.Rostig,sonst gut erhalten.
+
+- Nr.157. Zwischen bunten Saulen ist in ovaler Umrahmung die Geschichte von dem barmherzigen Samariter geschildert. Oben neben der Cartouche mit der Verweisung:"S. Lucas Am. Unten Sehild und In10.Cap.der Verwundete, den seine Beschitzer in die Herberge geleiten.U
+
+0,295 h.,0,195 br.Gut erhalten,aber ziemlich rostig.
+
+- Nr. 158. Am Fuss (d.B):Prior und gemainer Convent des Wirdige Gotzhufes. S. Laurentze zu Ittinge Cartheifer ordens dafelbft 1588."Das ausfuhrliche Rundbild stellt das Ordenskapitel der Chartreuse dar.AVLA CAPITVLI GENERALIS ORDINIS CARTVSIENSIS.Der gevierte Saal, in welchem in sechs Reihen hintereinander die Monche sitzen, ist rings von Banken umgeben.Links thront zwischen dem Declamator Capituli und dem ebenfalls stehenden Seriba Capituli,die aufgeschlagenen statutahaltend, der pater Reuerend";dem Beschauer gegeniber in der Tiefe stehen die ,sedes Conuentus Cartsusix";an der rechten Langseite die der Caeterorumqa Priorum profinciarum;auf der vierten, der Eingangsseite, die:Sedes Retiquorum (sic) Priorum Ordinis Carthusiensis. Die Banke der ibrigen Bruider tragen, von vorn nach hinten, die Bezeichnung:1.,Sedes Definitorum patrum";2.,Sedes Patrum Germaniae";3.Sedes Patrum Gallia";4. Sedes Patrum Italie";5.Sedes Patrum Hispania";6.,Sedes Patrum Anglia.Die Bordire enthalt 12 Medaillons mit Scenen aus der Legende des Ordensstifters.In den Ecken oben der Almosen spendende Laurentius und sein Martyrium,unten zwei Scenen aus der Ordensgeschichte. Rechts und links die Schilde von Ittingen.
+
+0,605 h.,0,565 br.Vorzuglich erhalten. Capitalstuck.Zurich Nr. 51.
+
+- Nr. 159. In der Mitte steht auf weissem Grund vor einer gelben Balustrade die stattliche Figur des Stifters im Festgewand mit Schwert und Muskete.Zur Seite sein Wappenschild:Zwei kraftige Pfeiler mit Rollwerkkapitalen tragen einen blauen Giebel.Die Kopfsticke zu Seiten desselben zeigen eine Viehheerde, die von einem Bauern getrieben wird; am Fusse die Inschrift (d. B): "Hans Boiller Ab dem Hemberg 1588.Die Hauptigur, namentlich der Portraitkopf,vortrefflich durchgefihrt.
+
+0,314 h., 0,206 br. Bis auf Rostspuren und einige Nothbleie und Springe gut erhalten.
+
+- Nr.160.Unterschrift (d. B):,Das Land Gafter 1588."Schone farbenreiche Umrahmung. Pfeiler mit vorgelegten Saulen tragen das kronende Volutenwerk; links am Fusse der kyburgische Schild. In der Mitte der Martyrer S. Sebastian an einen Baum gebunden, in weiter grin und blau gemalter Landschaft. Monogramm 7
+
+0,335 h.,0,237 br. Einige Nothbleie; sonst gut erhalten. Zurich Nr. 90.
+
+Nr.16l. Auf Weiss das abtische Wappen zwischen der Madonna und dem hl. Christophorus.
+Oben 2 Scenen aus der Legende der hl. Ida. Unterschrift (d. B): ,Chri ... f von Gottesganden (sic) Abbte des wird .. n GottshauB Fischingen 1589. Monogramm #WB
+
+- Nr.162. Rundscheibe. Auf farblosem Grunde ist gelb und blau das Opfer Abrahams gemalt.
+
+0,45 h.,0,325 br.Defect;Nothbleie.
+
+- Umschrift (d. B): , Wie Abraham im zucken War, | Wolt nun fein Son aufopfern gar. | Da ruft der Engel, das er hort, I Ain Wider im dafir beschert, | Was Got bewart, daffelb er ehrt. Gens. 22. C.Unten der Schild mit der Schriftrolle:,Sima Kuntz 1590."
+
+Nr.163. Das Mittelstick zeigt einen Monch (ohne Nimbus), der in seiner Klause mit Lesen beschaftigt ist; neben ihm ein junger Bar. Seitwarts erscheinen in zweigeschossiger Anordnung unter rundbogigen Arcaden, links: SS. Sebastian und Othmar; rechts: SS. Rochus und Notker. Oben drei Wappen:1) Heinrich Fleckensteins;2) das Fleckensteinsche mit der Allianz Mutschlin cartelirt; 3)FRAVW ANNA REICHMVTIN."Unten in der Mitte, mit der Ueberschrift:,FR. NICASI.VO.FLECKENSTEIN 159o" ein kniender Benedictiner,neben dem ein Engelchen den Schild der Fleckenstein halt. Rechts und links zwei Wappen mit den Inschriften:IOANES IACB MVTHSHLIN"und,FR.EVPHEMIA VONERLACH."
+
+Durchmesser 0,137. Erhaltung gut;ein Riss.
+
+0,315 h.,0,205 br. Erhaltung gut; einige Nothbleie; ein Riss.
+
+- Nr.164.Dreitheilige Anordnung. In der hohen Mitte erscheint uiber dem ecartelirten Schilde die Halbfigur der Madonna. Die dreigeschossig gegliederten Seitenfiugel, enthalten in den vier oberen Feldern die schreibenden und meditirenden Evangelisten；unten jedesmal zwei schwarz gekleidete Manner,die beiden links,bezeichnet iustus es domine", stehen vor einem Kranze,die Anderen, bezeichnet et rectu judiciu tuum vor einem Sarge. Dazwischen enthalt eine von Rollwerk umgebene Tafel die Inschrift (d. B):Hans Matheus Hindtpif vo waldtrambs Tumbprobst der Hohen Stifft Costantz.1590."
+
+0,34 h.,0,262 br.Erhaltung gut.
+
+- Nr. 165. Bunte Pfeiler und ein aus Rollwerk zusammengesetzter Flachbogen umschliessen den weissen Grund,auf welchem,iberragt von den Ritterzeichen des schwabischen Bundes,das Hohenlandenberg'sche Wappen steht. In den oberen Zwickeln und zu Seiten der unteren Schrifttafel die allegorischen Figuren der Vorsicht, Massigkeit, Gerechtigkeit und Starke. Unten (d. B): "Hug Von der Hochenlandenberg.1591."
+- Nr.166. Saulen und Rollwerk umrahmen die Wappen des Paares. Unten steht zwischen zwei allegorischen Frauengestalten die Inschrift (d. B):,Lupolt Fehr des Radts zu Lutzern Landvogt In oberen vnd nideren Thurgouw.F.Elrbet Ferin Ein Geborne von Heiden Henn fin Eegemachell 1591."
+
+0,32 h.,0,215 br.Erhaltung tadellos. Hibsche Wappenscheibe.
+
+0,32 h.,0.212 br. Die oberen Zwickel fehlen, sonst gut erhalten.
+
+- Nr. 167. Originelle und lebensvoll geschilderte Gerichtsscene, im Viereck von Wappenschilden umgeben; letztere tragen die Namen (d. B) : Jerg Puppikoffer ; Vlrich Burckhartt; Heinrich Schmid ; Adam Albrecht; Cafpar Ottli; Hans Wine; Hans Weine; Hans Spreng; Hans Schweitzer; . . . by Lecheman;u. s.w..
+
+<!-- image -->
+
+0,405 h.,0,305 br. Sehr defect und verrostet.
+
+Monogramm WB
+- Nr. 168. Unterschrift (d. B): ,Fendrich Lorentz Eerler zu appezell 1592." Auf blauem
+- recht halbirt:untere Halfte gelb; obere waagrecht vierfach violett und weiss getheilt.
+
+0,31 h.,0,21 br. Bis auf einen Sprung durch das Wappen intact. Zurich Nr. 116.
+
+- Nr. 169. Die grau in Grau mit Silbergelb sehr voll und pastos durchgefuhrte Monolithminiature stellt eine weibliche Figur mit den Attributen der Kunst dar, neben welcher der kosende Amor steht. Datum 1592.Vermuthlich eine Atelierprobe Chr. Murers.
+
+0,17 h.,0,136 br. Intact. Meisterhafte Behandlung.
+
+- Nr. 17o. Vier Rundscheibchen: a. Geistliches Wappen mit dem Protonotarius-Hut. Umschrift (lat. Cursiv): ,Marcus Sitticus: Card . Et . epis: Const: 1574." b. Bunte Miniature, die Verkindigung darstellend 1592 und Monogramm 1·S·M+M·9·.c. und d. Kreuzigung und Grablegung mit sparsamen Schmelzfarben sehr zart und elegant im Style Christoph Murers durchgefuhrt.
+
+Durchmesser je 0,095.Intact.
+
+- Nr. 171. Auf weissem Grunde wird das Wappen von bunter Architektur umrahmt, oben die Aufschrift (d. B): ,Jacob Hanns Jacob vnd Sebaftian Bifchoff gebrieder 1595." Unten die Reime: "Wie wol wir Dreij ... So hatt doch gluckl.... Owolte Gott esKein. Das Menfchen he...nicht...Neid."
+
+Verrostet,ausserdem verschiedene Nothbleie.
+
+- Nr.172. Auf farblosem Grunde in durftiger Architektur die beiden Wappen.Das bunte,zierlich durchgefuhrte Kopfstick enthalt die Scene I.REG.XXV. Cap. Unten die Inschrift (d. B):,Dauidt Studer vo winckhelbach Zum Bolbach,hoffmeister des furftlichen Gottshaus S. Gallen vd Fr.Elisa-
+- beta ain geborne Rugkin von Danneckh fin Eegemahel 1595."
+
+0,30 h.,0,20 br.Erhaltung gut;einige Risse.
+
+- Nr. 173. Mit truben Schmelzfarben gemalter Monolith; in bunter Nische steht auf der Mondsichel die Madonna mit dem Kinde.Unten die Inschrift:BENEDICTA TV INTER MVLIERE(S)
+- ET BENEDICTVS FRVCTVS VENTRIS TVI." Monogramm V. C
+- gramm V. C und die Jahreszahl 1506 sind falsch, statt letzterer sollte es 1596 heissen.
+- Nr.174. Derbe Technik.Auf weissem Grunde das behelmte Wappen,neben welchem der mit Helm und Harnisch bewehrte Stifter steht. Das durchgehende Kopfstick stellt in landschaftlicher Umgebung SS. Matthaus, Georg und Agnes dar. Am Fuss eine Rollwerktafel mit der In-
+- schrift: ,Houpman Mattdigeff Ritty Ritter vnd Burger in Der Statt Will im Durgy 1596."
+- 0,318 h.,0,201 br. Bis auf wenige feine Risse intact.
+- (d. B): ,Georg . . . der Rechten Doctor, St ... . scher Rath, vnd Cantzle . ..
+- Nr. 175. Bunte Pfeiler mit rothem Volutenbogen bilden die Umrahmung. In der farblosen Mitte das Wappen. Oben eine Hirschjagd; unten zwischen Engelchen die Tafel mit der Inschrift .no1596."
+
+Monogramm C 8.
+
+Mittelmassig erhalten. Es fehlen zwei Sticke; das Hauptbild ein Riss.
+
+- Nr. 176. Auf gelbem Grunde umrahmt eine derbe, plumpe Architektur das Wappen. Die
+- haben. Unten (d. B):,Dauidt Diethelm Difer Zitt Aman Zu Vttwilen . 1.5.9.6."
+
+0312 h.,0,202 br. Erhaltung mittelmassig；Nothbleie und verschiedene Flickstucke.
+
+- DasMono-
+em ind
+
+ag- ia-
+
+nor rift
+
+ig- ab-
+
+irt.
+
+die ne:
+
+ich idt
+
+sa- nd-
+
+(S)
+
+-Ou der
+
+aft-
+
+In- sen
+
+rift
+
+6."
+
+Die
+
+Zl
+
+- Nr. 177. Unter doppelter Pfeilerstellung, die durch einen aus Rollwerk gebildeten Architrav verlingen vnd Appelonia stuckin von Zurich Sein Eliche huf Frow 1596."
+- Nr. 178. Zwei bunt gekleidete Engel halten auf farblosem Grunde das Reichswappen, daGlorie und rechts S. Martinus, der mit dem Bettler den Mantel theilt. Unten die Inschrift (d. B):
+
+0,314 h.,0,204 br. Leidlich erhalten;Nothbleie; zwei Flicksticke.
+
+- ,Das Land Schwitz 1597."
+
+0,395 h.,0,306 br.Leidlich erhalten; verschiedene Nothbleie.
+
+- Stein 1598."
+- Nr. 179. Bauernarbeit. Auf gelbem Damast steht der greise Stifter mit Barett und Stab. Vor den plumpen Pfeilern, welche die Mitte flankiren, sind die zeitgenossisch gekleideten Personificationen "Sapientia" und ,Prudentia" angeordnet. Oben David und Goliat. Unten zu Seiten des Stifterschildes auf einer von Rollwerk umgebenen Tafel die Inschrift (d. B): ,Jacob Boll Vffem
+
+0305 h.,0,212 br. Zwei Sprunge durch das Hauptbild und den Scheibenfuss.
+
+- Gemach, wo der Konig an festlicher Tafel den ungerechten Richter rigt. Das obere Mittelstick, Jakobs Traum, ist nachtraglich eingefickt. Rechts und links: die Bestrafung des ungerechten Richters, der bei lebendigem Leibe geschunden wird. Unten zwischen der Inschrift (d. B):Peter Wegerich Zu Bernouw Diber Zytt Muntzverwalther zu Schaffhufen ANNO . D,1598." das Wappen von einem Ovalkranze umschlossen.
+- Nr.180. Das Hauptbild zeigt in reicher Pfeilerarchitektur mit Spitzgiebel ein stattliches
+
+0,296 h.,0,20 br. Einige Nothbleie; sonst gut erhalten.
+
+- Nr.18l. In bunter Architektur stehen auf weissem Grunde die beiden Wappen. Oben Anbetung der Konige. Unterschrift (d.B):,Thoma Kesselring der Zeit Vogt vnd Verwalter der Herrschafft Weinfelden vnd Elsbet Motteline sein Eheliche Hauffrow 1598."Monogramm CH 0,320 h.,0,195 br. Erhaltung gut; drei Risse. Zurich Nr. 142.
+- Nr.182. Derbe Schmelzfarbentechnik. Das Mittelstuck,vorwiegend blau, gelb und schwarz
+- gemalt, enthalt, durch ein Kreuz getheilt, vier Scenen aus der Geschichte des verlorenen Sohnes. Vor den schweren Pfeilern zur Seite erscheinen die Personificationen des Glaubens und der Klugheit. Das breite Kopfstuck stellt vier mit Errichtung eines Blockhauses beschaftigte Zimmerleute dar. Unten zur Seite des Stifterschildes die Inschrift (d. B):,Meister Hannfs Ernni Zimerman Zu Cappell Anno 1598."
+
+0,410 h.,0,323 br. Einige Risse; sonst gut erhalten. Hubsche Scheibe.
+
+- Nr.183. Flottes Wappen in reicher Architektur. Unterschrift (d. B):,Nicolaus Thrit. des Raths vnd Schitzenmaifter 1599."
+- Nr. 184. Das zierlich durchgefuhrte Mittelstick zeigt oben die beiden Johannes und die PRIOR VND GEMEINER CONVENT DES WIRDIGEN GOTZSHVS . S. LOVRENTI Z YTIN-
+
+0,380 h., 0,312 br. Defect;verschiedene alte Flickstucke.
+
+- GEN CARTHVSERORDENS."
+
+0,366 h., O,202 br. Conglomerat von Bruchstacken aus dem XV. bis XVIl. Jahrhundert.
+- Nr. 185. Auf farblosem, mit Schniren belebtem Grunde stehen die Alianzwappen der Zylli dem Martyrium des Taufers Johannes dargestellt sind.
+
+0,326 h.,0,217 br. Erhaltung mittelmassig;Nothbleie und Risse; das Fussstuck fehlt.
+
+- Nr. 186. Auf weiss, von gruinen Ovalkranzen umschlossen, die beiden Wappen. Oben Simson mit dem Lowen und dem Thore von Gaza. Fragment der Unterschrift (d. B): ...Scherb Zuo Altten Klingen... .Hoffine Sein Elliche husfrow"
+
+0,30 h.,0,195 br. Sehr defect;ein Wappen und mehrere Stucke fehlen.
+
+- Nr. 187. Rohe Arbeit. Das Wappen mit der Devise steht zwischen den Personificationen des Glaubens und der Hoffnung.Oben Anbetung der Konige.I Die Schrift am Fuss der Scheibe
+- ist verblichen.
+
+0,273 h.,0,205 br.Schlecht erhalten;Rost. Alte und neue Flicksticke und Nothbleie.
+
+- Nr. 18s. Dreitheilige Architektur mit seitlichen Architraven und einem mittleren Rundbogen,
+- uber welchem David gegen Goliat kampft. Zwischen Justitia und Prudentia steht das Wappen. Unten,von Engeln gehalten, die Inschrifttafel (d. B):,Georg Huber Deb Rahts, der Zeitt Oberbuwmaister der Statt Sanct Gallen."Monogramm E
+
+0,327 h.,0,236 br.Gut erhalten；einige Nothbleie und Flicksticke.Farbenprachtiges Stick.
+
+- Nr. 189. Zwei unbekannte Wappen auf farblosem Grunde werden von Pfeilern flankirt und durch eine Saule getrennt.Die bunten Kopfsticke stellen die allegorischen Gestalten der VICTORIA und PAX dar.
+
+0,28 h.,0,21 br. Erhaltung gut; die Inschrift am Fusse fehlt.
+
+- Nr.19o.Wackere Bauernscheibe.Auf weissem,mit schwarzen Schnuren besetztem Grunde stehen vor einer Balustrade der Mann als Buchsenschutze und die Hausfrau mit dem Willkomm. Oben rechts stehen die Beiden unter der Thure ihres Wirthshauses,sie mit der Weinkanne,er mit dem gefillten Glase,das er einem Reiter zum Bugelschoppen iberreicht. Zwei andere Reiter und ein Trager kommen von Links. Unten zwei ovale Kranze,in welchen zeitgenossisch gekleidete Jungfrauen die Schilde des Paares halten;dazwischen die Inschrift (d.B):,Heinrich Henfeler, Wurt Zum Weiben Creitz Zue Byschoffzell,Verena Schonweilery,fin eliche Husfrow.
+
+0,325 h.,0,20 br.Erhaltung tadellos.
+
+- Nr. 191. Scheibe eines Abtes von Kreuzlingen (schwarzer Greifenkopf auf Gelb). In der Mitte auf Weiss das ecartelirte abtische Wappen zwischen SS. Ulrich und Afra. Ueber der rothen Bekronung der Schild von Kyburg und ein unbekanntes Wappen. Dariber (d. B):Kyburg Stiffter."Von den seitlichen Zwickelbildern ist nur noch die Maria der Verkiindigung erhalten.
+
+0,32 h.,0,204 br. Erhaltung gut; doch fehlen der obere Zwickel links und die Inschrift.
+
+- Nr. 192. Grau und gelb gemaltes Rundscheibchen aus der 2. Halfte des XVI. Jahrhunderts.
+- Christus als Gartner erscheint der Magdalena.
+
+Durchmesser 0,088.Tadellos erhalten.
+
+- Nr.193. Gegenstuck zu Nr. 192. Grau und gelb gemaltes Rundscheibchen, in anmuthiger Landschaft die Heimsuchung Maria darstellend.
+
+Nr. 194. Schwarz und gelb auf Weiss gemaltes Rundscheibchen aus der 2. Halfte des XVI.
+
+Durchmesser 0,087.Tadellos erhalten.
+
+R
+
+S
+
+m
+
+mi ste
+
+alte sS.
+
+"Jo gan
+
+bis
+lli en-
+
+Lus son
+
+erb len
+
+ibe en,
+
+en.
+
+er- nd
+
+IA
+
+nde im.
+
+nit ind
+
+ete ler,
+
+dler len
+
+r'g, rts.
+
+ger
+
+VI.
+
+Jahrhunderts. Der Gekreuzigte zwischen Johannes und Maria. Magdalena umfasst knieend den Stamm des Kreuzes.
+
+Nr. 195. Grau und gelb. Fernblick auf eine Stadt am Fluss. Die vornehm gekleidete Dame, welche dem ebenso stattlichen Gatten, der die Narrenpritsche halt, den Willkomm bringen will, von Stettin 1554."
+
+Durchmesser O,092.Tadellos erhalten.
+
+Durchmesser 0,13.Erhaltung tadellos.
+
+Durchmesser 0,098. Ein Riss.
+
+Nr.196. Rundscheibchen. Auf weissem Grund das bunte Wappen mit Umschrift (d. B): "Balthaffar Federlin zu Costantz. Anno 1566."
+
+Nr.197. Rundscheibchen. Auf Gelb das Wappen mit der Umschrift (d. B): ,Cuonrat Gumell Anno 1576."
+
+Nr.198. Rundscheibchen. Auf Weiss die bunten gut stylisirten Wappen mit der Umschrift (d. B):,Lienhart Ollyan vnd Barbara Felbin zu Coftantz 1576."
+
+Durchmesser O,09.Erhaltung tadellos.
+
+Durchmesser 0,107.Erhaltung tadellos.
+
+Derchmesser 0,12.Tadellos erhalten.
+
+Nr.199. Rundscheibchen. Auf gelbem mit schwarzen Schniren belebtem Grunde die behelmten Wappen.Auf der weissen Borte die Umschrift (d. B):,Hanfs hainrich Von Liebenfelfs sibila von Liebenfelfs geborne Reichlini 1585."
+
+Nr. 200. Pendant zu Nr. 199. Auf weissem mit schwarzen Schniren geschmicktem Grunde die beiden Wappen. Die Umrahmung enthalt die Inschrift (d.B):,Gaberiel Reichly vo Meldegh Vnd Amalya Reichlin geborne von dettingen. Anno domini.1583."
+
+Nr. 201. Rundscheibchen. Auf Weiss die beiden Wappen mit der Umschrift (d. B):,Raffahel Reichle von Meldeckh zur Lieburg, Anna Benjngna Reichline vo Meldeckh,geborne vo Mandach
+
+Durchmesser 0,12.Tadellos erhalten.
+
+Sein ehliche hauffow (sic). Anno Domini 1594."
+
+Nr. 202. Schwarz und gelb auf Weiss gemaltes Rundscheibchen, das Wappen enthaltend mit der Umschrift (d. B);"Hs. Caspar Billeter Pfarrer Zu Zumiken." Durchmesser 0,084.Gut erhalten.
+
+Durchmesser 0,12.·Tadellos erhalten.
+
+Nr. 203. Den weissen mit schwarzen Schniren geschmickten Grund umrahmen Hermenpfeiler mit rothem Bogen, zu dessen Seiten S. Georg und die Konigstochter erscheinen. stellt die hl. Margaretha vor. Gering. Circa Mitte des XVI. Jhdts. Das Hauptbild
+
+0,28 h.,O,20 br. Mittelmassig erhalten; stark verbleit und rissig; einige neue Stucke. Der Schild ist eiu altes eingeficktes Stuick.
+
+<!-- image -->
+
+Nr.204. Derbe aber farbenkraftige Arbeit.Auf Weiss die thronende Madonna zwischen SS. Luzius und Florinus. Am Sockel das Monogramm und die Unterschrift (d. B): Johanes von Gottes genade." (Das Seitenstick mit der auf einen Bischof von Chur weisenden Erganzung fehlt. Der Stifter ist ohne Zweifel der Bischof Johannes V. Flugi von Aspermont 1601 bis 1627.)
+
+0,358 h.,0,295 br. Bis auf einige Risse gut erhalten.
+- Nr.205. Bruchstick einer unbekannten Scene, vielleicht des Konigs, der den unversehrten David in der Lowengrube erblickt. Am Fusse zu Seiten der beiden Schilde die Inschrift: ,H. MATHIS . BACHOFEN . PREDICANT . ZV GLA(R)VS . H . IOHANES . IACOB . LOFFELSPERGER . PREDICANT.ZV.MOLLIS.1577."
+
+0,183 h., 0,21 br. Verschiedene Risse; ein grosses Flickstick.
+
+Nr. 206. Fragment. Mittelstick einer Scheibe die Verkindigung Marie darstellend. Ca. 1580.
+
+Verbleit.
+
+Nr. 207. Fragment. Mittelstick. Bunter Monolith, den hl. Stephan darstellend. Ca. 1560-70.
+
+- Rundscheibe. Auf farblosem Grund ist schwarz und gelb das flott stylisirte Wappen Nr.208. gemalt (springender schwarzer Widder auf Gelb). XVI. Jhdt.
+
+Durchmesser 0,21.Gesprungen.
+
+- Nr. 209. Fragment, ein Trinkgelage darstellend, bezeichnet: Ein Ama Schriber vnd gatz Erfam Gricht Za Goldach.Anno Domini 158o." Rings herum sind die Schilde der Gerichtsherren angeordnet;ihre Namen sind folgende:Jochli Alther 4；Henfli Muller 5;Andareas lindenman 6;Jacob Egger 9;Jacob Lener 10;Gebhart Rutiger 11;Tebis Sufer 12;hans Giger 13;Jacob
+
+0,243h.,0,298br.
+
+- Nr. 210. Fragment. Das Mittelstick stellt die Madonna als Mutter des Erbarmens vor,die ihren Mantel iber eine Schaar von Benedictinern ausbreitet.Rechts und links sind in senkrechten Folgen die Wappenschilde der Conventualen angeordnet und mit Initialen bezeichnet.
+
+0,305 h., 0,20 br.
+
+- Nr. 2ll. Auf weissem Grunde stehen die Madonna zwischen SS.Katharina und Nicolaus von Myra. Am Fuss der Scheibe knieen zu Seiten des Wappenschildes zwei Nonnen.
+- 0,29 h.,0,329 br. Sehr defeet und verbleit. Kopfstuck fehlt.
+- Nr. 212. Neben dem Abtsschilde stehen rechts S.Fintan, links S.Konrad, oben die Verkindigung. Unterschrift (d. B):"Johannes Thobaldus von Gottesgnaden Abbte des wirdigen Gotts-
+
+huf Rinauw 1591.Monogramm W
+
+0,31 h.,0.21 br. Defect. Das Obertheil des Wappens und die Damastumgebung fehlen.
+
+- Nr.2i3. Fragment. In zierlicher Umrahmung theilt St.Martin zu Pferd mit dem Armen seinen Mantel. Circa 1550.
+
+0,272 h.,0,213 br.Die untere Halfte des Hauptbildes ist theils nicht mehr vorhanden, theils verflickt.
+
+- Nr. 214. Ueber der Inschrifttafel umschliessen zwei Ovalkranze die beiden Wappen. Dasjenige des Mannes ist fremde Zuthat.Wirksame Bekronung mit Rollwerk. Die grossen Kopf bilder zeigen die Taufe im Jordan und den Taufer Johannes, der dem Volke predigt. Unten die
+- Inschrift (d. B):Hannf Jacob Netzer Anna Brandenburgerin fein Eheliche Hauffrauw 1600."
+- 0,313 h.,0,208 br.Verschiedene grosse Flickstucke und einige Risse.
+- Nr.215. Gewohnliche Bauernscheibe aus dem Anfang des XVIl. Jahrhunderts. Von der Becher dar. Weisser Grundmitschwarzen Schniiren. Oben ein pfugender Bauer.Unten,neben dem von einem Engelchen gehaltenen Wappenschilde die Inschrift (d. B): , Jacob Kr . ... . Zu Enckhusen ynd Elsbe....Ehliche huffraw."
+
+0,29 h.,0,195 br. Ein Flickstick und einige Risse, sonst gut erhalten.
+en
+
+A-
+
+R.
+
+80.
+
+70.
+
+ben atz
+
+'en lan
+
+cob die
+
+ten von
+
+in- tts-
+
+men
+
+Das- opf-
+
+die der
+
+den sben
+
+Zu
+
+- 0,315 h., 0,202 br. Erhaltung mittelmassig;verschiedene Risse und alte Flickstucke.
+- Nr. 217. Zurcher Scheibe im Murer'schen Styl. Saulen und Pfeiler mit rothem in'der Mitte
+
+0,29 h., 0,198. Erhaltung gut; ein Theil des Zwickels rechts fehlt.
+
+- Unten zwischen SS. Johannes und Lucas die Inschrift (d. B):Gerold von Gottes Gnaden Abbte vnd Herr Zuo Rinow 1603."
+- Nr. 218. Auf weissem Grunde mit schwarzen Schnuren steht das ecartelirte Wappen des SS. Matthaus und Marcus.U
+
+0,394 h., 0,302 br. Erhaltung gut; einige Nothbleie; vom Kopfe des hl. Fintan fehlt ein Stuck.
+
+0,425 h.,0,32 br.Ein Riss quer durchs Wappen, sonst gut erhalten.
+
+- Nr. 219. Das viereckige Mittelstuick enthalt auf weissem Grund das Wappen, begleitet von zwei schweren Pfeilern, vor denen zwei Apostel, der Eine mit Speer, der Andere mit der Keule, Unten, von Engelchen gehalten, eine Cartouche mit der Inschrift (d. B): ,Ho Jacob Vllman,der Zytt Statthalter, Zu Apezell 1603." Geringe Schmelzfarbentechnik.
+- Rithlinger, der Zyt Burgermaister zu Sanct Gallen 1605." Monogramm  (Christoph Murer von Zirich). Auf weissem Grund das Wappen,umrahmt von einer luftigen Pfeilerarchitektur. In den Seitenfigeln links Justitia,rechts Caritas. Zu Seiten des mit Rollwerk gefillten Volutenbogens zwei nackte Knaben zur Jagd geristet. Zwei ruhende Engelchen halten die mit blauem Rollwerk umrahmte Schrifttafel.Capitalstick Murerischer Technik.
+- Nr. 221. Das Kopfstick stellt die Verkindigung,das Hauptbild in bunter Umrahmung die
+
+0,41 h.,0,31 br. Einige Risse und Flickstucke, sonst gut erhalten. Wien Nr. 34. Zurich Nr. 55.
+
+- Kronung Mariae dar.Unten zu Seiten des Schildes die Inschrift (d. B):Fridly Haldener vnd Elfbet Nuofferin vo Gamb fin Hubfrouw 1605."
+- Nr. 222. Das grosse Mittelbild, das in ausfuhrlicher Darstellung die Geschichte vom barmherzigen Samariter erzahlt, wird von Saulen und ansteigenden Voluten umrahmt. Oben zwei unbekannte Heilige; am Fuss die Unterschrift (d. B):Johanes Kaller, Schmid vnd Wund Artzet Zu Unterwalden nit dem Kernwald vnd fr. Verena Zalger fin Efraw" zwischen zwei grinen OvalgranmH？ und Datum 1606.
+
+0,32 h.,0,212 br. Erhaltung gut; einige Risse.
+
+0,31 h., 0,20 br. Erhaltung gut; ein Riss.
+
+- die Madonna in einer Glorie zwischen SS. Nicolaus von Myra und Agatha thronend. Unten werden die Schilde von Wyl von einem Engel gehalten, zu Seiten stehen SS. Petrus und Paulus. Unterschrift (d. B): ,Die Stadtt Wyl Im Thirgow. Anno domini 1606." Monogramm ·M·HVG-
+- Nr. 223. Zweigeschossige Anordnung in dreifacher Gliederung. Das Hauptbild zeigt oben
+
+0,398 h., 0,324 br. Einige Risse und Nothbleie, sonst gut erhalten.
+- Nr. 224. Auf Weiss das Wappen zwischen einem Waldmenschen und einer Waldfrau; iber
+- der bunten Bekronung die Madonna und St. Georg. Unterschrift (d. B): ,Hanf Jacob von Altmanfhausen, Teutfch Ordens Ritter und Haif Comendthurr Zu Ellingen 1606."
+
+0,408h.,0,31 br.Erhaltung gut.
+
+- Nr. 225. Auf blauen Wolken knieen in dreitheiligem Aufbau ibereinander geordnet SS. Bernardus, Gallus und Othmar. Darunter offnet sich der Ausblick auf eine Seelandschaft, vor welcher das ecartelirte Wappen des Abtes steht. Am Fusse zu Seiten die Inschrift (d. B): Bernhardus von Gottes Gnaden Abbte des Wurdigen Gottshauf Sant Gallen . ANNO 1607." Monogramm 0,398 h.,0,298 br.Einige Risse, sonst gut erhalten.
+- Nr. 226. Ueber der Schrifttafel, die den ganzen Fuss der Scheibe einnimmt, ist dieselbe durch rothe Saulen und Architrave in zwolf gleiche Compartimente getheilt. Die untere Halfte. der Mitte enthalt auf Weiss von einem Ovalkranze umschlossen das Wappen des Stifters, darunter ubrigen Felder stellen, in derben Schmelzfarben ausgefuhrt, die Wunder Mosis in Aegypten dar. Unten die Verse: ,Glich wie Gott Gracht Heillig und Rein | Alfo ift das fein Brauch In Gmein-
+
+Das er Allzeitt in Dyffer Walltt | Schrackenliche Exempel Hatt Gestellt.|S Seiner Grachtikeitt vnd Stranen grichts | An dem alls warnen Ghuilffen Nichts. | Wie vor Zytten Den agyptier, |Er gstrafft mit Zechen Plagen Schwer.|Do pharo der Kiinig mitt Zwang,| das Volck Ifrahel vff hieldt Lang.| Es nitt Wollt in die Wifte Lon | Irm Heren Gott Zi opfferen Schon.| Wie du in Diffem Schiltt Sichst woll| Welchs ynfz Zur Warnung diene foll.| Das uir Gott Firchtend in Seinem Reich |Im dienen hie vnd Dortt Zi Glich.| Der vnfs Erloftt vnd Gmachet Frey
+
+Vom Todt vnd Touffels TyranneyDurch Jefim Chriftum finen Son. Der fey Gelobt im
+
+Hochfte thron."
+
+0,49hr,033br.Erhaltung gut.
+
+- Nr.227.Rundscheibchen mit dem écartelirten Wappen des Abtes Petrus Schmid von Wet-
+
+tingen.1607.
+
+Durehmesser 0,083.Erhaltung gut.
+
+- Die Nummern 228-237 sind Bestandtheile einer gemeinsamen Bilderfolge aus dem Jahre 1608. die sich muthmasslich in einem toggenburgischen oder thurgauischen Stifte befand.
+- Nr.228. Einblick in eine nach rechts tief verjungte Halle,in welcher die Geiselung Christi vor sich geht. Unten links halt ein Engel, von einem Ovalkranze umschlossen, den Schild; daneben eine Cartouche mit der Inschrift (d. B):,Frantzs Buler Weibel Zu Bitfchenfchwil im vnderen Ampt,vnd Heinrich Fuchs der Jung. Anno 1608."
+
+0,41 h., 0,205 br. Erhaltung mittelmassig;verschiedene Flickstucke.Ein Drittel rechts der Scheibe fehlt.
+
+- Nr. 229. Oben sind die Schilde des Vorsitzenden und der 6 Gerichtsherren angeordnet； sie sind bezeichnet Rudy Gemperli;Hans Jacob Strebli; Wolff Hofftetter;Hans Otmar Zwick; Jorg Pfandler; Georgius Prack." Das grosse Mittelbild zeigt den verurtheilten Christus. der dem Volke vorgestellt wird. Unten die Inschrift (d. B): ,Ein Gantz Erfam Gricht
+- Zu Maggenouw1608."
+
+0,32 h.,0,295 br.Defect. Ein Stick des Mittelbildes und der Pfeiler rechts fehlen.
+Der
+
+It- er-
+
+ler lus
+
+Ibe te.
+
+ter hn
+
+ar.
+
+in- ti-
+
+er, hel
+
+Vie ch-
+
+ey im
+
+et-
+
+08, ng
+
+len wil
+
+hlt.
+
+sie nar
+
+1s.
+
+cht
+
+- Nr. 230. Kreuzigung Christi. Neben dem kronenden Spitzgiebel schweben zwei Engel
+
+0,375 h., 0,31 br. Defect. Es fehlen verschiedene grossere Stucke.
+
+- Zu Mogelsfperg vnd Helffenfchwil."ANNO 1608.
+- Nr. 231. Das Mittelstuck, ein grosser bunter Monolith, stellt die Grablegung Christi vorl In den oberen und unteren Ecken die Kirchenvater. Unterschrift (d. B): , Johanes Steiger Pfarherr
+
+0,38 h.,0,298 br.Intact.
+
+0,398 h.,0,29 br. Einige Nothbleie und Risse, sonst gut erhalten.
+
+- Nr. 232. Rohe bunte Arbeit. Unter dem englischen Grusse sieht man, von schwilstiger Architektur umrahmt, die hl. Frauen und Johannes, welche vom Grabe des Heilandes nach Jerusalem zurickkehren. Unterschrift: ,MAT . SVTER, PFARER ZV GOSSAW. M.IOAN VTWARDVS SCOTVS EDVBV:RGENSIS,PAROCHVS,IN WERDVCHEL 1608." (Wohl Werdbuhl im thurgauischen Bezirk Bussnang.)
+- Nr. 233. Ein Ovalkranz umschliesst die schmerzhafte Mutter, links S. IERG,rechts S. DORATEA. Oben Verkindigung und Anbetung der Konige. Unten (d. B):"Jerg Reding Gewefner Ladtvogtt der Grafffchafft doggenburg vnd F:Doratea Reding Ein Geborne Tfchudin fein Ehegmahell 1608.
+- Nr.234. Auferstehung Christi, oben zwei musicirende Engel. Unterschrift (d. B);
+
+0,39 h., 0,32 br. Erhaltung gut.
+
+- "Johanes Honburger von Vberlingen, Pfarherr zu Jonfschwil vnd Joc .... Heller Pfarherr zu Ganterfchwil vnd Lutenfpurg.
+- Nr. 235. Himmelfahrt Christi. Oben St. Jacob und St.Anna selbdritt. Unterschrift (d.B):Jacob Forrer... Zytt Spittall ...LiechtenstagAno.
+- 0,39 h., 0,295 br. Erhaltung gut;einige Risse; ein kleineres Stuck des Mittelbildes fehlt.
+
+0,39 h.,0,295 br. Defect;es fehlen mehrere Stucke.
+
+- Halle, in welcher der hl. Geist den Pfing stsegen spendet. Zu Seiten des kronenden Rundbogens St. Johannes Evangelista und der hl. Bischof Konrad. Ein Ovalkranz umschliesst unten in der Mitte drei Wappenschilde; daneben die Inschrift (d. B):Hans VIrich Geillinger Burger Zu Wyl vn Reggina Frouwen-Wilerin vn madelena Ladergarbin,fin Elichen HuBfrouwenn . Ano 1608." Monogramm
+- Nr. 236. Von schweren Saulen flankirt, offnet sich der Einblick in eine tiefe durchsichtige
+- Nr. 237. Das Hauptstick ist eine halbrunde,von bunter Architektur umgebene Linette. Sie enthalt, durch eine mittlere Saule getrennt, links,wo die Stifterin kniet, St. Bernhardus,der den Crucifxus umarmt; rechts denselben Heiligen mit den Passionsinstrumenten. Zu Seiten des kronenden Giebels die Verkindigung. Von der Inschrift am Fusse sind nur die Worte (d. B): ", Von Gottes des Erwirdigen gottshus . . . Anno 1608."und Monogramm I M HVG. erhalten.
+- 0,39 h., 0,283 br. Erhaltung gut; ein Flickstuck und einige Risse.
+
+<!-- image -->
+
+0,404 h.,0,332 br. Defect.
+
+- Nr. 238. Querformat. In schwerer bunter Umrahmung stehen die drei Stifter im Festge-
+glas sich nahert, wahrend der Dritte die Flote blast. Unten zu Seiten des Schildes die Inschrift (d. B):,Jacob Birr Der Von Gittingen genamt der zam dirckh anno 1.6.0.8."
+
+0,25 h., 0,33 br. Erhaltung mittelmassig; starker Rost.
+
+Nr. 239. Rundes Monolithscheibchen. Auf damascirtem weissem Grunde das gut stylisirte Wappen. Umschrift (d. B);,Wolffgang Zindelin .Anno 1608."
+
+Durchmesser 0,115.Erhaltung tadellos.
+
+Nr. 240. Rundscheibe, virtuose Monolith-Miniature von Christoph Murer. Wilde Sauhatze
+
+<!-- image -->
+
+in ausfihrlicher Landschaft.Monogramm:16
+
+Durchmesser 0,27. Einige Risse; sonst gut erhalten. Wien Nr. 37. Zurich Nr.107.
+
+- Nr. 241. Vor dem kronenden Giebel erscheint in einem Ovalkranze S. Georg mit dem Drachen. Rechts und links ist die Begegnung des hl. Augustin mit dem Knablein geschildert, das Wasser aus dem Meere schopft. Das Mittelstick zeigt auf Weiss,von einem Engel gehalten,den Schild des Stifters mit der Devise (d. B):,All min anfang Mittel vnd End, stat alles In Gottes hand. Zu Seiten Fides und Spes. Unten der Schmerzensmann und die Mater dolorosa. Zwischen Caritas und Veritas die Fuss-Inschrift (d. B):Jerg Muller, differ Zeidtt Schuiltheis vnd Spittel Her der
+
+Statt Wyl.1609."Monogramm:M.avg
+
+0,315 h.,0,20 br.Erhaltung gut;einige Risse.
+
+- Nr.242. Derbe landliche Arbeit. Auf gelbem mit schwarzen Schniren geschmicktem Grunde steht St. Johannes Evangelista zwischen SS. Antonius und Michael.Das Kopfstick stellt die Vision des Evangelisten auf Patmos vor.Am Fusse zwischen dem Stifter und seinem Schilde die Inschrift (d. B):,M. Johanes Briggner Pfarherr zuv Niederbiren.Anno 1609."
+
+0,305 h.,0,19 br. Erhaltung gut;ein Defect und einige Risse.
+
+- 310 Nr. 243. Rundscheibchen,Murer'sche Schule, die Fabel vom Frosch und der Maus nach
+- Murer's Emblemata,Zurich 1622 Tafel 1l, darstellend.
+
+Durchmesser 0,143. Tadellos erhalten. Wien Nr.38. Zurich Nr.68.
+
+- Nr.244.Bauernscheibe.Oben kniet in Anbetung die zahlreiche Familie des Stifters mit der Aufschrift:,O Gott dir kort alein die er,du haft mir die Kind befchert 1610."Das Mittelbild zeigt auf farblosem Grunde den Stifter im Festgewande und seine Frau mit dem Willkomm. Unten 1610 und zwischen den Schilden die Inschrift (d. B):Hans Grab walterfchwil vnd Maria Brunari Sein Eegmahell mit Sampt ieren eliche kinden wie nach folt.hans.voli. Joff . doma. Jorg . abraham. anali . elsbeta. maria. margret."
+
+0,308 h.,0,208 br. Erhaltung mangelhaft;verschiedene Defecte und Risse.
+
+- Nr. 245. Runde Aemterscheibe von Zurich von 1610,bezeichnet: 1ofias Kurer.3urit Durchmesser 0,445. 5 Aemterwappen fehlen; sonst sehr gut erhalten. Schone Scheibe. Zurich Nr. 60.
+
+Nr. 246.Fragment. Anbetung der Konige. Vor dem Pfeiler links St. Veronica. Oben die Verkuindigung. Nebender linken Halfte der Unterschrift ein kniender Benedictiner. ,FR . IOAN : CASPARVS:ABEGERI CONVENTVALIS MONASTERY MRISSTELLE.ALIAS.WETINGEN ET PRO TEMPORE CONFESSARIVS.MONASTERY DENIKEN.ANO.1612."
+
+0,315 h.,0,14 br.
+
+- Nr. 247. Das Hauptstuck zeigt auf weissem Grunde die Zurichschilde von zwei Lowen gehalten und uberragt von dem Reichswappen. Dahinter eine Saulenarchitektur mit ebenfals rothem Architrav, uber welchem zwei weibliche Figuren, die eine als Jurisdictio bezeichnet, thronen.
+
+<!-- image -->
+ift te
+
+ze en.
+
+ser ild
+
+1.“
+
+cas ler
+
+ide die
+
+die ach
+
+nit sel-
+
+m
+
+ria na.
+
+er-
+
+AS-
+
+ET
+
+ge- hem
+
+hen.
+
+den Standesschilden 1613.
+
+- Nr. 248.In einer bunten,in die Perspective gezogenen Pfeiler- und Saulenarchitektur hebt Das Helmkleinod der Stapfer fehlt und ist willkurlich durch den halben Busch des Reust'schen Wappens ersetzt.
+- 0,41 h., 0,28 br. Gut erhalten; einige Nothbleie und Flickstieke.
+- 0,515 h., 0,383 br. Einige Risse; Inschrift fehlt. Zwischen und uber den Helmen alte Flicksticke.
+- Hegi 1613.“
+- Nr. 249. Pendant zu No. 227.Unterschrift:Hans Jacob Gessner der Zitt Vogt Zu
+
+0,515 h., 0,37 br. Einige Risse; sonst gut erhalten.
+
+0,268 h.,0,272 br.Ganz defect und verrostet.
+
+- Nr.250. Urtheil Salomonis zu Seiten des Schildes, in welchem St. Georg zu Pferd. Unterschrift （d.B): .Ritter Der Zyt Frey Lanndt ... mundt grave fchaft Stue(lingen?) dni 15...… (Ende XVI. Jhdts.)
+- Nr. 251. Plumpe Ausfuhrung in Schmelzfarben mit sparsamer Anwendung von Ueberfangglasern. Das Ganze, um das Mittelbild in eine Summe von viereckigen Feldern gegliedert, stellt eine breitspurige Allegorie des katholischen Glaubens vor. Die Unterschrift (d. B) lautet:,Her Marthinus Kartenhaufer Fur.Bifchofflicher Coftanzifcher Generalis Commiffarius vnd pfarher zu Appenzell Chorher zu Bifehoffzell vnd deb Sant Gallifchen Landt Cappitelz Dechant.Anno 1615."
+- Nr.252.Derbe Pralatenscheibe.Farbloser Grund mit schwarzen Schnuren belebt.Im Mittel-
+- 0,462 h.,0,363 br. Erhaltung gut;einige Nothbleie und Risse.
+- stuck das écartelirte abtische Wappen, zu beiden Seiten zweigeschossiger tabernakelformiger Aufbau,in welchem links S. Johannes Evangelista und der hl. Bischof Martin und rechts SS. Jost und Benedictus stehen. Oben zu Seiten der kronenden Cartouche die Verkindigung, Unten zwischen den Jesus- und Mariazeichen die Inschrift (d. B):Joannes Jodocus von Gottes Gnaden Abbte def Wirdigen Gotzhuf Muri:1616."
+- Nr. 253. Rundscheibchen. Gelb und schwarz auf gelbem Grunde die Halbfigur der schmerz-
+
+0,353 h.,0,25 br.Verschiedene Bleie und Risse; sonst gut erhalten.
+
+- haften Maria.
+- Nr.254. Buntes, sauber durchgefuhrtes Rundscheibchen. In gelber Glorie thront die Madonna zwischen musicirenden Engeln. Unten Wappen und Inschrift (d. B): F. Benedicta Kellerin 1617."
+
+Durchmesser 0.087.Erhaltung gut.
+
+Durchmesser O,09. Ein Riss.
+
+- abnahme, die Schilde der Abtissin und von Citeaux, neben Letzterem die betende Abtissin. Zu nauw ANNO:1618."Monogramm CK
+- Nr.255. Oben der englische Gruss, unten zwischen SS.Erasmus und Margaretha die Kreuz-
+
+0,30 h.,0,192 br.Defect;ein Stuck des Mittelbildes fehlt,
+- dar mit der Unterschrift (d. B):,Frouw Maria Kingin Meifterin des wirdigen Gottshus Hermattfchwil. 1618. In den Seitenfugeln St. Benedict und der hl. Bischof Martin. In den 4 Ecken Scenen aus dem Leben der hl. Scholastica. Oben in der Mitte Christus als guter Hirte. 0,305 h., 0,195 br. Defect 1 Stick des Hauptbildes und der Ecke rechts fehlen.
+- Anno Do.1618."
+- Nr. 257. Die Wappen fehlen, zu Seiten ihrer Stelle stehen ein geharnischter Pannertriger und ein Helebardier in Festtracht. Oben Verkindigung. Unterschrift (d. B): ,Die Statt Wyl.
+
+0,372 h., 0,32 br. Sehr defect.
+
+- Nr. 258. Auf weissem Grunde sind viereckig umrahmt in gleicher Anordnung drei Werdmuller'sche Allianzen,ecartelirt mit Holzhalb, Grebel und Meister neben einander gestellt. Ueber dem Architrav zwischen Engelchen der Werdmuller'sche und ein unbekannter Schild. Unten zwischen vnd Fr. Barbara Holtzhalb fyn Eegemachl.Heinrich Werdmuller vnd Fr. Sufanna Grebel fyn Eegemachel.Hanns Georg Werdmuller vnd Fr. Anna Meifterin fyn Eegmachel 1619.
+
+0,338 h.,0,235 br.Verschiedene Risse;sonst gut erhalten.
+
+- Nr. 259. Zurcher Aemterscheibe. Gewohnlicher Typus aus dem XVII. Jahrhundert mit den Wappen der neuen Vogteien (d. B): , Winfelden, Sax, Pfyn." Das Mittelstick ist eine sorgfaltig durchgefuhrte Monolithmalerei, die an lie Praxis der Murer erinnert.
+
+Durchmesser 0 318.Sehr gut erhalten;nur im Mittelstick etwas verblasst.
+
+- Nr.26o. Zwei Miniaturen in triber Schmelzfarbentechnik.Links stirzt Einer kopfiber vom Baume und der Andere zur Rechten fallt zwischen zwei Banke auf den Boden.Die Unterschriften (d.B) lauten:,Wer ich nicht also hoch gestiegen |Vnd wer bey meines gleichen bliben Hett wunden | Auch Zweyen Herren dienen kunden |Durch gleissnery ond groz virwitz|Ich
+- auch gefolget gutem raht | So fiel ich ietz nicht in das Kaath.|Ich hatt mich gar vil vnderzwischend Zweyen stillen niedersitz."
+
+0,18 h.,0,325 br. Erhaltung gut; Umrahmung modern.
+
+- Nr. 261. Rohe, gefuhllose Arbeit mit triben Schmelzfarben, die Taufe Christi darstellend. Am Fusse zwischen den Schilden die Inschrift (d. B):Johannes Langerhardt zue Wyl vnd Anna Maria Mullerin fein Ehliche Hausfrow.1621."
+
+0,33 h.,0,208 br.Erhaltung gut;einige Nothbleie und Risse.
+
+- Nr.262. Mittelstuck: Herz Christi,hl. Geist und Gott Vater mit der Unterschrift (d.B): Appolonia. Oben St. Bernhard im Gebet. Am Fuss die Schilde des Klosters und der Abtissin zwischen der Inschrift (d. B):Fraw Maria von Gottef genaden Abbtiffin deb wirdigen gottrhaus Wurfpach 1622.Monogramm SK
+
+0,315 h.,0,20 br.Die obere Ecke links fehlt, ausserdem einige kleine Defecte.
+
+- Nr.263. Gewohnlicher Typus der spateren Zurcher Cabinetscheiben. In der Mitte einer in Perspective gezogenen Saulenarchitektur steht auf weissem Grunde das Burklische Wappen, dariber die Parabel von den klugen und thorichten Jungfrauen, am Fusse die Inschrift (d. B): ,Herr Hans Jacob Burckli def Raths Der Statt Zurich Alter Landtvogt Der Graffschaft Sargans vnd
+ae tt-
+
+en er
+
+1.
+
+d- er
+
+en er
+
+it g-
+
+m
+
+t
+
+.
+
+a
+
+Loblicher Eidgnofchafft. Anno 1622." 0,426 h., 0,32 br. Gut erhalten; abgesehen von einigen Rissen und Nothbleien. Zurich Nr. 112.
+
+- Neben Gotzhuf Muri 1623.(Abt Johan Jost Singeisen von Muri 1596-1644).
+- Nr. 264. In der Mitte auf Weiss das ecartelirte Wappen des Stiftes und Abtes. Gottes Gnaden
+
+0,30 h.,0,192 br.Zwei Sticke fehlen.
+
+0,41 h,0,315 br. Ein Defect und einige Nothbleie, sonst gut erhalten.
+
+- Nr. 265. Das Hauptbild zeigt in wirksamer bunter Umrahmung ziemlich genau nach Fallenter's Scheibe in Rathausen wiederholt (cf. Geschichtsfreund Bd. 37, Taf. II) den Tod Maria. Oben sind in gleicher Reihe die Schilde von Zurich, Luzern, Schwyz und Glarus angeordnet. Unten zwischen den von Ovalkranzen umschlossenen Wappen der Pfyffer und Goldlin die Inschrift (d. B): "H. Jacob Pfyffer des Ratts des Statt Lucern Fr. S. Gallen . Ratt vnd der 4 . Ortter gewefner Hauptman in Will, vnd F. Sibila Goldin von diefnauw Sin Ehe, 1623."
+- Nr. 266. Rohe Bauernscheibe. Das Wappen auf weissem Grunde wird von einer plumpen, missverstandenen Architektur umrahmt, iber welcher die Allegorien der Hoffnung und Gerechtigkeit stehen. Unten auf einer von Rollwerk umgebenen Tafel die Inschrift (d. B):H. Caspar werly der Zit Landtuogt Zu Grinningen ynd Wippingen.1623."
+- Nr. 267.Kopfstucke fehlen.In bunter Architektur die Auferstehung Christi.Am Fuss das Abtswappen und die Inschrift (d. B):,Benedictus vo Gottes genaden Abbt vnd Herr zuo Engelberg 1625.Monogramm SK-
+
+0,334 h.,0,213 br.Einige Risse, sonst gut erhalten.
+
+0,41 h., 0,333 br. Erhaltung gut.
+
+Nr. 268 - 274 zu einem gemeinsamen Cyklus von Klosterscheiben gehorig.
+
+0,328 h.,0,245 br.Stark defect und verbleit.
+
+Nr.268. Auf Weiss in bunter Architektur Begrissung Joachims und Annas. In der kronenden Cartouche S. Bernhard.Unterschrift (d. B):Bernardus von got ....|fchen Stuols Gnad...... Gottshaus S.Gallen....|"(Abt Bernhard Miller 1594—1630).
+
+- Nr.269.In bunter Architektur die Anbetung der Konige.Am Fuss das Abtswappen mit der Unterschrift (d. B):. .Gottes Gnaden Abbte...Vrban 1626."(Ulrich V.,Amstein,Abt von S.Urban 1588-1627.)
+- Nr.27o. Hauptbild:in einer tiefen Pfeilerhalle steht Zacharias, der in Gegenwart der Madonna und hl. Anna das Christusknablein kuisst. In der Bekronungscartouche die Halbfigur des Pilgers Jacobus. Am Fusse zu Seiten des eécartelirten Abtwappens die Inschrift (d. B): ,Jacobus von Gottes Gnaden Abbte des Gottshuf Creitzlingen 1626."
+
+0,326 h.,0,242 br.Die linke Halfte der Inschrift fehlt; sonst gut erhalten.
+
+0,335 h.,0,25 br. Einige Risse, sonst gut erhalten.
+
+Nr. 271. In bunter Architektur die Auferstehung Christi. Am Fuss das Abtswappen und
+
+<!-- image -->
+
+520.
+<!-- image -->
+
+2W
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+fuhrung mit triben Schmelzfarben.
+
+0,32 h.,0,25 br.Etwas defect und verbleit.
+
+- Nr. 273. Himmelfahrt Marie. Am Fuss das Wappen und die Unterschrift (d. B): *J. Mar-
+- Nr. 272. In bunter Architektur die Himmelfahrt Christi. Unten der Klosterschild und die Inschrift (d. B):Hugo (Bruno ?) Sancti laurenty Carthus Prior zu Ittingen .Ano 1626." 0,324 h.,0,244 br.Defect und verbleit.
+
+0,317 h.,0,245 br.Defect. Zwickel rechts und Saulen auf derselben Seite fehlen.
+
+- Nr.274.Auf weissem Grunde die Kronung Maria. Bunte in die Perspective gezogene Architektur.Vor der Unterschrift "F. RVODOLPHVS GVGGENBVEL CONVENTVALIS MARISSTELLE CONFESSARIVS VALLIS LILIORVM IN TENNIKHON.1626*
+- steht in einem Ovalkranz der von einem Engelchen gehaltene Schild.
+
+0,32 h.,0,25 br.Etwas defect und verbleit.
+
+- 2W Nr. 275. Farbloser Grund mit schwarzen Schniren; schwere Pfeiler. SS. Leodegar und Mauritius (dessen Schild durch ein Flickstick ersetzt) stehen zu Seiten des aufrechten Schildes von Luzern,iber welchem das gekronte Reichswappen.Unten die Inschrift (d. B):Die Statt Lucern
+- 1626."Ausfuhrung sehr roh.
+
+0,322 h.,0,342 br.Einige Nothbleie und verschiedene Flickstucke,sonst gut erhalten.
+
+250
+
+- Nr.276.Pendant zu Nr.275. Zugerschild und Reichswappen zwischen SS. Michael und Oswald. Fussstick mit Inschrift fehlt.Vor den Saulen in grunen Cartouchen die Chiffern IHSundMR.
+
+0.298 h.,0,34 br.Erhaltung gut;einige Risse und Nothbleie.
+
+Statt Zurich, Fr. Dorothea Rahnin Syn Ehgmahel 1628", HR , links: ,Ach, wie veil mue ein Chrift aubftehn wort-
+
+Nr.277.Feinste Monolith-Miniature. Rechts (d. B):Hans Cafper Efcher Burger der
+
+So durch wisf meer der welt sol gehn Ancker dein Hoffnung an gotts So kommestu glicklich zu Port."Links und rechts von ovalen Kranzen aufweissem Grunde umrahmt die Wappen der Glas-Escher und Rahn, den Rest der Scheibe nimmt eine ausfuhrliche allegorische Darstellung ein.Dustere Wolken ziehen am Horizonte dahin, am Strande des brausenden Meeres sitzt die Liebe, die ein Kreuz umklammert, gegenuiber wirft ein bedrohtes Schif den Anker nach der am Ufer gelegenen Bibel aus. Abgebildet in den Meisterwerken der schweizer. Glasmalerei",herausgegeben von dem historisch-antiquarischen Verein in Winterthur.
+
+- Nr. 278. Auf weissem Grunde die Halbfigur Christi,in der Linken halt er eine Waage,mit der Rechten greift er in eine Bichse voller Kreuze;sie ist mit ,Crutzwurtz"bezeichnet. Andere Apothekerbuchsen stehen zur Seite, mit den Aufschriften:lieb; beftendigkeit; geduld;hoffnung; Barmhertzigkeit; glaub; leben; genad; troft; gerechtigkeit; warheit; pru . Links neben Christus
+
+0,20 h.,0,255 br. Stark beschadigt.Zurich Nr.106.
+
+- Darunter die Inschrift (d. B): ,Michal Wellz, Maria Zundlinfee, fein Erfte Eff vnd Suffanna Fe-
+
+derlini fein andere Ehef 1630."Dariber Monogramm
+
+<!-- image -->
+
+Rechts neben Christus
+1S- lie
+
+r-
+
+1-
+
+N-
+
+6#
+
+nd on
+
+rn el
+
+er ts
+
+le he
+
+if r.
+
+it re
+
+g；
+
+uls n.
+
+e- us
+
+fuihrung in Schmelzfarben.
+
+Durchmesser 0,193.Gut erhaltene Rundscheibe.
+
+- Nr. 279. Bunte in die Perspective gezogene Saulen- und Pfeilerarchitektur. Durch die offene Wappen mit zwei Helmen ein; darunter eine Cartouche mit der Inschrift (d. B): ",Hauptman Jofabe Jegglin Zui Kufnacht vnd Fr. Anna Wiferin fyn Ehegemahel . 1630. Gegenstick zu Nr. 303 und304.
+
+0,31 h.,0,20 br.Einige Risse und Rost, sonst gut erhalten.
+
+0,306 h.,0,203 br. Erhaltung gut; hibsche Scheibe. Zurich Nr. 120.
+
+- Nr. 28o. Unterschrift (d. B): ,Hr. Heinrich Bram Der Zitt Burger Meifter Der Statt Zurich 1630." Eine bunte, in Perspective gezogene Halle von Saulen und Pfeilern umrahmt auf weissem Gegenstick zu Nr. 302 und 304.
+- Nr. 281. Das Wappen wird auf farblosem Grunde von bunter in die Perspective gezogener Architektur umrahmt. Unterschrift (d. B):,Hans Berger des Raths der Statt Zurich, Ober Vogt stick stellt Marcus Curtius vor.
+- Nr.282.Unterschrift (d. B):Ulrich Signer Landfchryber der Vfferen Roden de6 Landts
+
+0,327 h.,0,251 br.Kleinere Sticke fehlen.
+
+- Appen Zall. vnd F. Anna Schmidin fyn Ehgemahel 1631." Zu Seiten dieser Cartouche umrahmen zwei Ovalkranze die Wappen der Stifter.Das Hauptbild stellt in weiter Landschaft die Personification Regel deb Menfchlichen Labens" dar: Dariber in einer Cartouche im Scheitel der Pfeilerarcade O Menfch firchtf Gott nach fym gefatz —Den menfchen Lieb in nit ver laf-Bif Fursichtig in Glaubens fachen —Das iberig, wird Gott wol machen."
+- Nr. 283. Das Hauptstick im Style Murers, stellt eine reiche Landschaft dar,in welcher zwei Storche auf Frosche purschen. Die Erklarung oben lautet (d. B):,Wer gfreyet ift vnd nit verstadt |was im dardirch guts wiederfart|der selb den Froschen gleicht fich | die bherfchet werden Ewicklich." Unten zu Seiten des Wappens:Hauptman Jakob Schwendiman gewebener Siechen Pfliger Zu Trogen vnd def Raths Im Vfferen Roden, def Landts Appen Zell Anno 1631."
+- 0,29 h.,0,205 br. Erhaltung gut. Zurich Nr. 119.
+
+0,287 h.,0,197 br. Einige Risse und Nothbleie, sonst gut erhalten.
+
+- gefligelte Frauengestalt dar. Sie umfasst das Kreuz und halt in der Rechten iber dem Altar eine brennende Kerze, in der Linken eine Waage und eine Presse, umter welcher ein Herz. Die Inschrift im Scheitel lautet (d. B): ,Von Gott min kraft vnd glaft alein | Vff warem gloub vnd
+- Nr.284. Das Hauptstick stellt, iber dem Teufel und einem Todtengerippe stehend, eine
+
+0,29 h., 0,20 br. Erhaltung gut; etwas rostig; ein Riss durch das Wappen rechts.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- Architektur, eine allegorische Darstellung. Oben auf Wolken steht eine gekronte nackte weibliche Figur mit brennender Kerze und offenem als VERBVM DEI bezeichnetem Buch. ,TEMPVS" in der Gestalt des Saturn fasst ihre Linke. Unten geht der Sturm gegen das Verbum Dei. Rechts zwei Kanonen: ,PRODITIO" und , VIOLENTIA", in der Mitte kniet ein Weib mit offenem Buch, das als "TRADITIO" bezeichnet ist; links drei Manner, SVPERSTIT" mit dem Blasebalg, ,PERSEQVTION mit Schwert,und Andere, die mit Gewehr und Lanze nach oben kampfen. Eine Carzwischen Ovalkranzen mit Wappen die Inschrift:Anthony Kun von Rynegg Landts Fenderich
+- ver folgt wird vnd ver Jagt |Doch kompt die Zyt Hebt fy an Tag darwiderKein gwaltnichts MuBend darob Zi fchanden werden.Unten vermag| Dan aller gwalt vnd macht der Erden Im vnderen Rynthal.vnd F.Barbara Schubin fyn Ehgemahel.1631."
+
+0,29 h., 0,20 br.Erhaltung gut; etwas Rost.
+
+- entwickelt sich eine durchsichtige tief in die Perspective gezogene Saulen- und Pfeilerarchitektur.
+- Sie umrahmt das Wappen der Escher vom Luchs.Die Sauhatze oben rechts gehort nicht zu dem Originalentwurfe. Unter dem Wappen enthalt eine von Rollwerk umgebene Tafel die Inschrift (d.B):Johan Efcher deb Raths Oberfter Vber der Statt Zurich Fendli, Landt Vogt def Oberen vnd Nideren Thurgouws.1631."Charakteristisches Stick.
+
+0,333 h.,0,248 br. Leidlich erhalten; ein Stucklein fehlt; ausserdem verschiedene Nothbleie und Risse.
+
+- Nr.287.Rundscheibchen,Monolithmalerei. Pendant zu den folgenden vier Nummern. Auf umgeben von einer bunten Pfeilerarchitektur. Die Umschrift (d. B) lautet:Andreas Kunckler des Rahts der Statt St. Gallen .Obervogt der Herrfehafft Birglen vnd Hauptman difs Amerfchwi-
+- farblosem Grunde steht vor einer fernen Landschaft das mit leichten Schmelzfarben gemalte Wappen, lischen Quartiers im Thurgeuw 1635."
+
+Durchmesser 0,148.Tadellos erhalten.
+
+- Nr.288. Pendant zu Nr.287,289-291. Die Umrahmung bildet auf weissem Bande die Inschrift (d. B):,Andreas Kunckler des Raths gewefsner Vogt der Herrfchafft Birglen A 1634
+- und difer Zeitt,Meister, Spittale des H. Geistes in St Gallen A 1640."
+
+Durchmesser 0,145. Tadellos erhalten.
+
+- Nr.289. Pendant zu Nr.287, 288, 290 und 291. Umschrift (d. B): ,Fr. Magtalena Kunck-
+- lerin eine geborne Appen Zellerin,Sce:sein Erster Ehgmahel.“
+
+Durchmesser 0,142.Ein Riss.
+
+- Nr.290. Pendant zu Nr.287-289 und 291. Im oberen Halbzirkel die Inschrift (d.B):
+- ,Fr.Vrsula Kuncklerin ein geborne Kromin, Sec.: sein anderer Ehgmahel."
+
+Durchmesser 0,142.Vorziglich erhalten.
+
+- Nr. 291. Gegenstick zu Nr.287-290. Den oberen Halbzirkel bildet auf Weiss die Inschrift (d. B): ,Fr. Johana Elifabetha Kuncklerin, ein geborne Dunanin sein dritter Ehgmahel." Unten ein halber Blattkranz.
+
+Durchmesser 0,143.Tadellos erhalten.
+
+- Nr. 292. ,Valentin Bosch im Muissli. Fr. Barbara Loserin sein Ehgmahel Anno 1637. Zu Seiten der Cartouche die Wappen des Stifters und seiner Frau.Im Mittelstick die Fabel vom
+e
+
+：
+
+f
+
+er ie
+
+34
+
+K-
+
+3)：
+
+ift en
+
+Zu
+
+o
+
+mintz bezahlt."
+
+Sein lohn mit barer
+
+0,353 h., 0,283 br. Erhaltung tadellos. Wien Nr. 35. Zurich Nr. 35.
+
+0,40 h.,0,333 br. Einige Nothbleie, sonst gut erhalten. Wien Nr. 36. Zurich Nr. 111.
+
+- Nr. 293. Einer fachbogigen Saulenarchitektur sind auf allen vier Seiten Ovalkranze mit 1638. In der Mitte eine allegorische Darstellung. In gleicher Weise sind wie bei Nr. 318 die folgenden Wappenschilde mit den Namen ihrer Inhaber angeordnet: ,Herr Chriftoph Egle War def Grichts Ano 1611. Vnd by neiwer beftellung eines Ehrfamen Stattgrichts Obrifter Richter . Ano Sultzer, ander Statt-Fendrich; H. Hanf Steiner, Zugherr; H. Heinrich Hoffman; H. Hans Cafpar Erhart; H. Hans Heinrich Hegner; H. Jacob Bidermann Grichtfchryber."
+- Nr. 294. Am Fuss des Mittelstuckes die Inschrift (d. B): "Ein Lobliche gselfchafft der Musicanten Zu Winterthur, Ano 1658." Das Mittelstick stellt den psalmirenden David vor. Die Umrahmung besteht aus einer rundbogigen Pfeilerarcade mit vorgesetzten korinthisirenden Saulen. Sie wird im Viereck umgeben von 16 ovalen Medaillons, welche, mit Namen bezeichnet, auf weissem Grunde die behelmten Wappen folgender Gesellschafter enthalt:Hans Georg Gebner Diacon eines Ehrw.Winterthurer Capitels;Jacob Hegner Stattfchryber Za Winterthur vnd Landtfchryber der Graffchafft Kyburg;Hans Heinrich Meier Predicant;Hans Vlrich Hegner Pfarer Za Wulflingen; Hans Heinrich Reinhart Kilchen vnd Schuldiener; Johan Hegner diener des worts; Conrad Schellenberg, Rittmeifter;Hans Vlrich Hoffman der Zyt Schutzenmeifter; Hans Ridolf Wynman Profisor; Joachim Hetlinger Schuldiener; Vlrich Hegner Statt-Litinant; Johan Georg Kuntzli; Salomon Hegner; Jacob Steiner tuchman;Abraham Forer,Gastgeb Zum Wildenman;Abraham Steiner." Saubere fir die Spatzeit sehr brave Durchfuhrung.
+- Nr. 295.Am Fusse der Scheibe enthalt eine Cartouche die Inschrift: VRBANVS VIII SANCTAEROMANAE ECCLEISIAE PONTIFEX MAXIMVS:ANTE MAFFAEVS BARBARINVS DICTVS. ANO DNI MDCXXXVIII. Links der knieende Papst,rechts sein Wappen. Eine in Perspective gezogene Saulenarchitektur umrahmt die Mitte, wo Joachims Opfer vom Altare zurick-
+
+0,443 h., 0,34 br.Erhaltung gut; einige Verbleiungen. Nr. 293 und 294 sehr interessante Sticke. Zurich Nr.110.
+
+- gewiesen wird.In den Seitenfugeln stehen SS. Peter und Paul.In den oberen Zwickeln zwei
+
+Genesisbilder.Monogramm
+
+Ueber dem Bilde die Inschrift: SVNT HEC FECVNDIS
+
+EXTRUCTA ALTARIA DONIS I FVGE NEQVICQVAM THALAMOS INGRESSE IVGALES. 0,39 h., 0,31 br. Mehrere Risse, sonst gut erhalten. Zurich Nr. 113.
+
+<!-- image -->
+
+Nr. 295a. Gegenstick zu Nr. 295. Zu Seiten der Inschrift : RANUCIUS COMES SCOTT-
+
+VS PLACENTINUS DEI ET APOS SEDIS GRATIA EPISCOPUS BURGI S. DOMINICI AD HELVETIOS LEGATVS. ANO DNO, M, DCXXXVIII. der Stifter und sein Wappen. Mittelbild:
+der Engel verkindet dem Joachim die Geburt Marie; in den Seitenfligeln SS. Andreas und Jakobus Ueber dem Bide die Inschrift (lat. Cursiv):,NE TIBI FINGE METVS, LONGEVO NATA PARENTI IAMUENIETDIGNATODEOJOACHIME SUPREMO."
+
+0,393 h., 0,312 br. Erhaltung gut;einige Risse. Zurich Nr. 115.
+
+- Nr.296.Bauernscheibe. Auf farblosem Grunde stehen der Mann als Musketier und die Frau mit dem Willkomm. Das Kopfstick stellt eine Muillerscene dar. Am Fusse zwischen den Schilden die Inschrift (d. B):Chrifta Altther ffon Jligekufdobel Weiler ynd Aursrl Bengern sein Ehfrow Ano 1639."
+
+0,305 h.,0,205 br. Einige Risse, sonst gut erhalten.
+
+- Nr. 297. Eine dreifache bunte Pfeilerarchitektur umrahmt auf weissem Grunde die beiden Wappen. Oben Sauls Bekehrung; unten (d. B): ,Meichael Speng vnnd Anna Mareia ffogelein,
+- fein Ehfrow.Anno 1639."
+
+0,217 h., 0,20 br. Erhaltung gut; einige Risse.
+
+- Nr.298.Muthmasslich nur Kopfstick einer aus dem XVII Jahrhundert stammenden Scheibe. Tells Schuss und Tells Sprung. Geringe Ausfuihrung in Schmelzfarben. Oben: Do demuoth
+- Neidt hat gluckh. Niemandt ist, dem nit gebrist."
+
+0,11 h.,0,205 br.Einige Risse,sonst gut erhalten.
+
+- Nr. 299. Auf weissem Grunde von gelben Bogen auf rothen Saulen umrahmt sind die Wappen der zircherischen Familien Hirzel,Ulrich,Haab,Hofmeister,Escher vom Luchs,Edlibach,Wellenherg und Keller vom Steinbok angeordnet.
+
+0,175 h.,0,33 br.Erhaltung gut.
+
+- Nr.300.Gegenstick zu Nr.299. Auf farblosem Grunde von viereckigen Saulencompartimenten umschlossen, die gleichmassig durchgefuhrten Wappen der Zurcher Familien: Bodmer. Wolf, Fries, Meier (Rose),Escher vom Luchs, Thomann und Leu.
+
+0,18 h.,0,35 br. Tadellos erhalten.
+
+- Nr. 301. Bunte Schmelzfarbenarchitektur umrahmt das Bischof.Wappen. Neben dem kroInschrift (d.B):Johann von Gottes gnaden Bifchoff zu Coftantz Herr der Reichenaw Denckhendorf
+- nenden Rundbogen sind zwei Wappen angeordnet. Ebenso unten neben der Cartouche mit der vnd Ohningen Anno1640."
+
+0,318 h.,0,20 br.Zwei Risse, sonst gut erhalten.
+
+- Nr.302. Derbe Arbeit. Das Seitenstick, das vermuthlich das Wappen der Stadt Zurich enthielt,fehlt. Saulen und ein in der Mitte rundbogig uberhohter Architray umschliessen den weissen Grund, der mit Schnuren und gelben Festons belebt ist. Davor die drei Schutzheiligen Zurichs. Die Bildchen in den Eckzwickeln stellen die Begrissung Joachims und der hl. Anna vor. Eine Cartouche am Fusse enthalt die Inschrift (d. B):,Die Statt"
+
+0,395 h.,0,292 br. Erhaltung gut; einige Bleie und Risse.
+
+- Nr. 303. Auf weissem Grund, der von einer in die Perspective gezogenen Pfeilerarchitektur umrahmt wird, steht das Wappen. Oben eine Sauhatze; unten (d. B): ,Frank Rau(:c:)el Von Vllm Anno 1642."
+
+0,295 h.,0,197 br. Erhaltung mittelmassig;Rost,
+ber
+
+TI
+
+au len
+
+OW
+
+len in,
+
+be.
+
+oth dt.
+
+Den en-
+
+ten les,
+
+ler rff
+
+ich len
+
+gen or.
+
+tur on
+
+- Nr. 304. Das Hauptbild stelt einen thronenden Richter dar; auf dem Tische vor im ein Aman ond Johanes Danner, Alt Landt Aman, des Landts Apenzel der vfsere Roden* 1642.
+- Nr. 305. Flaue Schmelzfarbentechnik. Das Mittelbild stelt in einem Saulenbau den ge-
+
+0,296 h.,0,187 br. Erhaltung gut; einige Nothbleie.
+
+- nam des Herren sey globt in Eewigkeit . IOB AM . I . CAP. ." Unten zu Seiten der von einem Blatt-
+
+31h.,20 br.Erhaltung gut；einige alte Flicksticke.
+
+BENEDICTUM. drei Jesuitenpatres. Die obere Halfte zeigt in Wolken um die Glorie IHS SS. Am Fusse Ovalkranze mit Wappen, dazwischen die Inschrift:Hac est Vera Fraternitas P. CASPARVS P.IODOCVS ET M. AEGIDIVS BACHMAN SOCIETATIS IESV FRATRES GERMANI P.M.D.C.XLII."
+
+Nr. 306.In der Mitte knien zwischen Saulen und der Ueberschrift:,SIT NOMEN DOMINI Jost, Caspar und Egidius.
+
+0,337 h., 0,252 br. Erhaltung gut; einige Bleie.
+
+- Nr. 307. Zurcherische Cabinetsscheibe im Murer'schen Style. Saulen und Pfeiler sind durch einen Rundbogen verbunden, von welchem auf farblosem Grunde ein Bouquet herunterhangt.EcarteVlrich Grebel der Zyth Ober Vogt der Herrfchafft Louffen vnd Fr. Elfbetha Holtzhalbin syn Ehegemahel.Anno 1642."
+
+0,30 h.,0,20 br.Erhaltung mangelhaft;Flickstucke,Nothbleie,Risse und Defecte.
+
+- Nr. 3o8. Pendant zu der vorigen Nummer.Ecartelirtes Allianzwappen der Waldkirch umd Peyer (:Weggen:) auf farblosem Grunde in bunter Saulenarchitektur. Unten die Inschrift (d. B): "Ruegert Von Waldkilch Furfch.Bifchofflicher Constantzifcher Amptman Zu Schaffhauben.vnd Grichts-Herr Jm Ampt Vwiben .vnd Fr. Sabina Von Waldkilch . geborne Peyerin fyn Ehegemahel 1642."
+
+0,30 h.,0,20 br.Nothbleie und verschiedene Risse; sonst gut erhalten.
+
+0,412 h.,0,33 br. Einige Risse und Nothbleie; sonst gut erhalten.
+
+- Nr. 309. Von einem farblosen Grunde hebt sich eine durchsichtige Pfeilerarchitektur ab,in deren Mitte das écartelirte Wappen (1 Citeaux,2 Rapperswil, 3 Abt, 4 Wettingen) steht. Vor den seitlichen Saulen:links die Madonna,rechts der S.Bernhard von Clairveaux.Ueber dem Architrav die kleinen Figuren des hl. Nicolaus von Myra und des sel. Nicolaus von der Flue. Unten zwischen Engeln, die mit Palmen vor den Postamenten stehen, enthalt eine von Rollwerk umgebene Tafel die Inschrift (d. B.):,Nicolaus von Gottes Gnaden Abte des Wirdigen Gotthus Wettingen. Anno 1644."
+
+Nr. 310. Das Hauptbild zeigt den Fernblick auf eine reiche Flusslandschaft, im Vordergrund steht der hl. Bernhardus, der das Kreuz und die Passionsinstrumente umfasst. Zu Fussen, von
+mit der Devise ,SECRETA MEA MIHI" und dem Monogramme. Das Kopfstick zeigt die Ansicht Grunde emblematische Darstellungen angebracht und durch die Inschriften: , ABSTRVSA REVELAT ; "SIBI CREDITA CONDIT*; ,FIDE SED CVI VIDE"; EQVM VIOLENTIA FRANGIT* erklart. Unter dem Wappen des Stifters die Inschrift: ,ANDREAS KELLER S. S. THEOL : D. CANONICUS
+
+BERONENSIS 1645."Monogramm HiG-
+
+0,385 h., 0,25 br. Erhaltung gut; einige Risse und Flickstucke.
+
+- Nr. 311. Unterschrift (d. B): ,Jacob Studer, Burger Zu Wintterthur, vnd Glaffer Des Gotts Hauffes,vnd Critzgangs zu Ittingen." Typus der spiteren Cabinetscheiben. Ueber der Schrifttafel zu Fussen der in Perspective gezogenen Saulenhalle die Personificationen der Gerechtigkeit allein | Erfcheindt sich hie, an dem Jacob fein | Dan was im zu gsagt, wahr im Schlaff | Was.
+
+0,41h.,0,15 br.EinigeRisse und Nothbleie; sonst gut erhalten. Sehr schones farbenreiches Stuck.Zirich Nr.141.
+
+- Nr.312.Unterschrift (d. B):Hans Hleinrich Bofch, der Zyt Aman im Thurthal Anno 1646." Dariber die Inschrift:Zyt ift ein gut ob allen dingen die Zyt kan niemand wider bringen, Das Mittelstick zeigt in weiter Seelandschaft, auf einer Kugel iber dem Wasser schwebend, die weibliche Personification Die Zytt". In der Linken halt sie einen Pfeil, in der Rechten ein Messer, auf dem Kopfe
+- steht eine gefligelte Sanduhr.
+
+0,303 h.,0,195 br. Ein Riss durch das Mittelstick; sonst gut erhalten. Hubsche Scheibe.
+
+- Nr. 313. Durch eine bunte. in die Perspective gezogene Architektur blickt man auf einen Altan,auf welchem ein Alter,neben dem Zinsbuch iber den Tisch gebeugt, seine Schatze mustert. Ueber ihm steht die Inschrift (d. B):,Guott On muott." Von Rechts tritt ihm in zerlumpter Kleidung ein Mann mit erhobenem Kelch entgegen; ein Schriftband iber ihm enthalt die Worte: Muott On gutt." Ein drittes Band: Daillent Gleich, fo Sind ir Beid Reich" wird von einem iber Beiden stehenden Engel gehalten.Das Kopfstick,eine Cartouche, enthalt die Reime:Vil.hab. Vnd. guot . ein. Froliches. gemuott.| Sind . gaben . Gottes . ders.Recht. liebt .und. Brucht. mit.Rechter.Befcheidenheit,|Damit.der.arm.auch.werde.gefreuwt."Unten die Inschrift: Christian Neff.Zum waffer alter Seckheleister vnd Sara neffin gebor Durleri fin Eliche huffrauw. Anno 1646" zwischen zwei Ovalkranzen,welche auf Weiss die behelmten Wappen umschliessen. Derbe,baurische Ausfuhrung.
+
+0,31 h.,0,125 br.Abgesehen von einein Risse durch Wappen links gut erhalten.
+
+- Nr.314. Bunte durchsichtige Architektur in dreitheiliger Anordnung.In der Mitte,von dem gekronten Reichswappen iberragt,die Standesschilde von Solothurn.In den Seitenfligeln stehen St.Ursus und ein Apostel mit Sage (S.Simon) auf farblosem Grunde.Unten enthalt zwischen den sitzenden Personificationen derVorsicht und Gerechtigkeit eine mit Engeln besetzte Cartouche die
+
+Inschrift (d.B):,Die Lopliche Statt Solenthurn Anno 1649."
+
+0,555 h., 0,462 br. Erhaltung gut; einige Risse. Schone grosse Standesscheibe.
+
+<!-- image -->
+
+Nr, 315, Bunte, sehr fein durchgefuhrte Rundscheibe, die Madonna darstellend, welche mit
+T's ht
+
+m
+
+“；
+
+t.
+
+S
+
+ts t-
+
+it
+
+0
+
+as
+
+1.
+
+水
+
+fe en
+
+er e:
+
+er t：
+
+W.
+
+n.
+
+on
+
+In en
+
+ie it
+
+Wappen.
+
+- Nr. 316. Rundscheibchen. Auf weissem Grunde, gruin, gelb und blau gemalt, die Halbfgur
+
+Durchmesser 0,092.Erhaltung tadellos.
+
+- Johannes des Evangelisten.
+- Nr. 317. Rundscheibe. Frische und fotte Ausfihrung in Schmelzfarben.I
+
+Durchmesser 0,085.Erhaltung tadellos.
+
+- Hauptbild stellt in eigenartiger Auffassung die Anbetung der hl. 3 Konige dar. Unten der von Das monolithe einer Cartouche umschlossene Wappenschild. Rollwerk und zwei Inschriften bilden die Umrahmung. Oben: ,Et procidentes adorauerunt eum, Matth. 2."—— Unten zu beiden Seiten des Wappens (d. B):"H. Cafper Fenturi Chor-Her def Loblichen Stifts S. Leodigary Zu Lucern vf dem Hoff Ao1651."
+
+Durchmesser O,20.Tadellos erhalten.
+
+- der Inschrifttafel die Gestalten der Liebe und Hoffnung, dazwischen (d. B):Herr Lorentz Kunckler des grichts.vnnd Burger der Statt St Gallen, Wurt vnnd Gaftgeb. Zum Wyben Rofli, Frauw Magdalena Choblery.Sein Ehliche Huffrauw Anno 1652."
+- Nr.318.Rohe, bunte Arbeit. Zu Seiten der Landschaft,welche die Mitte des Kopfstickes einnimmt, zwei Engelchen mit der Umschrift (d. B):,Allein vff Gott und ,Myn hoffnung ftat". Eine in die Perspective gezogene Architektur umrahmt das Wappen in der Mitte. Oben die Inschrift (d. B):Vns Engel in dem Himmelreich | wunderet das ihr menfchen off erdrich | Biwendt so vill fchloserr vnnd Stett | vnd find doch nur vff erden geft,| vnd da ihr foltend ehwig fein | So Buwendt Jhr gar wenig Hin. In den Seitenfigeln Patientia und Spes. Neben
+
+0,337 h.,0,24 br. Einige Nothbleie und zwei Flickstucke; sonst gut erhalten.
+
+0,312 h., 0,197 br. Einige Risse.
+
+- Nr. 319.Rauhe Ausfuhrung mit triben Schmelzfarben.Das Mittelstick,ein Monolith, stellt von bunter, derber Architektur umrahmt, den Prospect des Klosters Wettingen dar. Zu Seiten SS.Marianus und Getulius; oben die Madonna in einer Wolkenglorie. Zwei Engelchen, welche auf dem Gebalke sitzen,halten die Inful und das Wappen des Abtes. Unten sind die Schilde des Klosters und des Abtes mit Pedum und Inful von einem ovalen Blattkranze umschlossen.Zu Seiten steht (latein cursiv):F. Bernard Dei et Apostolicce sedis gratia Abbas Maristellae uulgo Wettingen. Anno 1654."
+- Nr. 320. Runde Monolithscheibe. In einer wilden Glorie erlegt St. Michael den Drachen. In der Landschaft stehen zu Seiten der Stifter und seine Frau, die ihm den Wilkomm bringt. Zu beiden Seiten des Schildes die Unterschrift (d. B):,Michaell Himelberger Wonhaft Jn der Langen Gaffen Vnd Maria Gruoben Menin fein Ehffrauw.1 1655."Die Ausfihrung mit triben Schmelzfarben weist auf das Atelier der Muller in Zug.
+- Nr. 321. Auf weissem Grunde steht links der geharnischte Pannertrager. Rechts der auf-
+
+Durchmesser 0,153. Mehrere Risse.
+<!-- image -->
+
+<!-- image -->
+
+Q0#
+
+<!-- image -->
+
+<!-- image -->
+
+Landt Appenzell Anno 1656. Bauerische Ausfuhrung in schmutzigen Schmelzfarben, Das Mittel stick ist grossten Theils Monolith. Kostumlich interessante Scheibe.
+
+0,325 h.,0,203 br. Erhaltung gut; einige Risse. In Bezug auf Costum interessante Seheibe.
+
+- Nr. 322. Vor einer bunten Saulenarchitektur mit farblosen Durchblicken stehen die beiden Wappen. Oben St. Georg, unten die Inschrift (d. B): ,Georg Spindler Burger Zu St. Gallen vnd
+- Fr. Clara Studerin von vnd Zu Rebftein fein Ehegmahel,1657."
+
+0,29 h.,0,206 br.Mehrere Risse, sonst gut erhalten.
+
+- Nr. 323. In dreitheiliger Architektur sind auf Weiss die Wappen Zollikofer, Fels, Studer und Hochreutiner kreuzweise ibereinander geordnet. Unten die Inschrift (d. B):Cornelus Zollicoffer von vnd Zu Altenklingen burger Zu St. Gallen =Fr. Madthalena Felfin fein erfte, Fr. Elifabetha Studerin von vnd Zu Rebftein fein ander,Frau Ana Hochreitener fein driten Ehegemahel 1657."
+
+0,29 h.,0.20 br. Erhaltung gut; einige Nothbleie und ein Flickstick.
+
+- Nr.324.Rundes Bauernscheibchen. Haustracht gekleidet. Sie halt den zinnernen Krug; er den gefillten Glasbecher und in der Linken den Schluisselbund. Im oberen Halbzirkel die Reime (d. B):Aller Walt Sin vnd Muth | Stet Nach Lust,Kunft Ehr vnd Guth,| Vnd Wan Sy Das Er Werben | Legend Sy Sich Nider vnd fterbend." Unten zu Seiten des Wappenschildes, gleichfalls auf Gelb, die Inschrift (d. B):M Bachio Watech vnd Barbara Vlinn fyn Ehgemahl 1661."
+
+Durehmesser 0,135.Gut erhaltener Monolith.
+
+- Nr.325.Auf weissem Grundc sind in dreifach iberhohter Anordnung die Wappen des Gatten und seiner beiden Frauen gruppirt. Die Trager derselben sind drei ibereinander purzelnde Engelchen.Ueber der rothen Volutenbekronung sind links S. Sebastian,rechts der Fussfall der Magdalena gemalt. Unten die Inschrift (d. B):Sebaftian Muller ynd Fr. Magdalena Mullerin eine geborne Ritzenfe : fein erste vnd Fr. Magdalena Mullerin ein geborne Fitlerin fein ander Ehegmahel 1662.
+
+0,33 h.,0,248 br, Einige Risse; sonst gut erhalten. Hubsche Scheibe.
+
+## Bezeichnt: IWeber
+
+- Nr. 326.Ausgiessung des hl. Geistes. Unten zur Seite des Schildes die Inschrift:EGREG PIERRE SAVGY A·PRESENT CVRIALELIEVTENANTDECAPITAINEDEL'ENSEIGNEDE
+- ROVGEMONT1664."
+
+0,29 h.,0,19 br. Einige Bleie und Risse; sonst gut erhalten.
+
+- Nr.327. Gegenstuck zu Nr. 325. Eine dreifache Saulen- und Pfeilerarchitektur eroffnet den Einblick in ein Gemach, wo Salomon sein Urtheil fallt. Unten zu Seiten des Wappens die Inschrift:IEAN FAVROD NOTAIRE IVRE ET IADIS LIETENANT DV CHASTEAV D'OEX 1664." Styl der Murer in vergroberter Durchfuhrung.
+
+0,295 h.,0,19 br. Erhaltung mittelmassig;etwas gefleckt. Wappenschild fehlt;ausserdem verschiedene Risse und Nothbleie.
+
+- Nr. 328. Das Rundscheibchen enthalt ein sehr sorgfaltig schwarz und gelb auf Weiss gemaltesWappen. Die Umschrift (d. B) lautet: ,Hr. Alexander Hurter . Zunftmeifter vnd des
+
+Durchmesser 0,14.
+en nd
+
+ler us
+
+r.
+
+he- in
+
+en tet
+
+nd
+
+M.
+
+en el-
+
+na ne
+
+2.
+
+EG
+
+DE
+
+len
+
+In-
+
+EX
+
+lene ge-
+
+des
+
+67."
+
+Nr. 328a. Gegenstuck zu Nr. 328. Umschrift (d. B): Fr. Barbara Hurterin gebohrne Sigeriftin . Sein Eh gemahel.Anno 1667."
+
+Durchmesser 0,14.
+
+- Nr.330.'Feine Monolithminiature, vermuthlich eine Arbeit der Muller von Zug. Zwischen einer nuchternen Saulenarchitektur offnet sich der Ausblick auf eine Landschaft, in welcher im Vordergrunde der hl.Ludwig zu der Madonnenglorie betet; ferner St. Margaretha mit dem Drachen und eine Hirschjagd. Am Fusse zwischen den mit Ovalkranzen umschlossenen Wappen steht die Inschrift (d. B):Fr. Francisc Ludwig Schnider dee Raths, vnd des Wirdigen Gots Hauf Muri Amptman, zu furfe, Frauw Margaritha Schniderin Ein Geborne Feerin fein Ehliche Gemahlin A 1670."
+- Nr. 329. Tribe Schmelzfarbentechnik. In der Zeichnung Murer'sche Reminiscenzen. Jakobs Traum von der Himmelsleiter ist von einer reichen Architektur umgeben, uber welcher die alleJacob im Schlaff ein Leiter ficht,|I Die fich vff bif in Himmel richt,| Vnd Engel fteigen vff vnd ab，| Bedeut, daf Chriftus kom herab. Genesis 28."Darunter am Fusse der Scheibe:Der Hochwirdig Hoch ynd Woll-Edel gebohren Hr. P. Jacobus von Tschernembel, Conventual deB Firftlichen Gottshauf St. Gallen, dieBer Zeit Statthalter Zu Rofchach 1669." Bezeichnet: JW6: 0,305 h.,0,202 br. Erhaltung gut;zwei Risse.
+
+0,187 h.,0,277 br.Bis auf einige Risse gut erhalten.
+
+- Nr. 331. 1671 datirtes Monolith-Scheibchen, vermuthlich eine Arbeit des Zuger Glasmalers Michel Muller.Jakobs Traum. Unten (d. B):Joann Jacob Degen Hoch Oberkeitlichen Drager Landts Fenderich Der Landtfchaft March Vnd Frauw Anna Maria Gurberin. Sein Ehgemachel 1671." Auf dem Kopfstuck stehen die Reime (d. B):,Ein Leyter Lang am Himmel Ston | Die Engel auff Vnd abDrauff Gon| Sach Jacob,fchlaffend auff ein Stain,| Mitt Vil Zufag im Gott Erschayn." GENES.XXVIII.
+
+0,182 h.,0,21 br. Erhaltung gut,einige Risse. Zurich Nr.127.
+
+- Nr. 332. Pendant zu Nr. 331.Oelberg. Unten (d. B): Martin Cafpar Vnd Fr. Catharina Steineggerin Sein Erfte Fr.Maria Magdalena Hegnerin. Sein Ehgemachel 1671.Im Kopfstick: "Christuf bittet ab den Kelch drei mohl | hort s'vatterf Will,wird gefterckt gar woll -Bettet Drauf bif er mit Dem todt rang | Vnd an statt def Schweis Bluot her fur trang."
+- Nr. 333. Pendant zu den beiden vorigen Nummern. Kreuzabnahme. Unten (d. B): Lienhard betha Hignerin Sein Ehgemachely 1671. Oben: ,Bift abgelofft Vom Schwehren Laft | der du min Herr getragen haft | So ist der Laft auch abgeftellt | Der Schwehren fundt in Weiter Welt."
+
+0,18 h.,0,203 br. Erhaltung tadellos. Zurich Nr.128.
+
+0,18 h.,0,202 br.Erhaltung tadellos. Zurich Nr. 129.
+
+- Nr. 334. Pendant zu der vorigen Nummer. Geburt Johannes des Taufers. Unten (d. B): Joann Grueber, der Zeith Landt ueibel in der March vnd Fr. Anna Catherina Guntli Sein Ehegemacheli Ano 1671."Oben (latein cursiv):Jnter Natos Mulierum non Surrexit Maior Joanne Baptista."
+
+0,18 h., 0,203 br. Erhaltung tadellos. Zurich Nr.130.
+
+Nr. 335. Ein Rosenkranz umgiebt im Viereck die obere Halfte, wo iber dem abtischen
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+300
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+190
+
+das Kindlein halten, hangen Bander mit den Inschriften: ,Trahe nos post te" und ,Omnia Traham sich ein Band mit: Trahe nos post Te empor. Unten zwischen dem Phonix und Pelican ist eine Ansicht des "Gottshaufr Wettingen" gemalt. Darunter: ,BENEDICTVS . DEI . ET APOSTOLICE SEDIS GRATIA ABBAS MARISSTELLE.Anno 1672."
+
+0,32 h.,0,202 br. Einige Springe im Mittelbild,zwei Nothbleie; sonst gut erhalten.
+
+- Nr. 336. Mit Schmelzfarben gemalte Rundscheibe. Auf weissem Grunde umrahmt eine in die
+- Perspektive gezogene Saulenarchitektur mit rundbogiger Tonne die Schilde des Stiftes und seines Abtes. Zu Seiten SS. Joachim und Josef. Unten (d. B):,F. Joachim Abbt Zuo Fifchingen 1673." Durchmesser 0.195. Tadellos erhalten.
+- Nr. 337. Runder Monolith. Der hl.Franziscus predigt den Thieren. Unten das Wappen und die Inschriften (d. B): ,Dem Helgen Francisco Wunderbaar | die Engel Vnd der Voglen fchaar,| Die thier def Feldf, die Fifch def meer,|nach Jedef arth, erwifet Eehr.Diefer Schilt VerEhren die 4 Gebruoderen, Baltaffar, Johan, Cafpar, Jo. Rudolph Vnd Gilg Chriftoph Steineggeren Zuo Bruoderlicher gedechtnus Jhres 5te Bruoder R. P. Beniamin .Prediger und BeichtVater der Seraphische Famiglie Capuciner 1676.Monogramm m3ig
+
+Durchmesser 17,2.Erhaltung gut.
+
+- Nr. 338. Gegenstick zu den drei folgenden Nummern. Grau in Grau gemalte Saulen toscanischer Ordnung umrahmen auf weissem Grunde die Wappen der beiden Stifter, das Roth ist noch Unten（d.B):Caspar Korner dess Regiments Hans Conradt Haff ... vnd Haubtm : vber ein freyfahnen Stuckhihaubtman H.... 1658 Vogt zu Andelfingen. 1666. Rechenherr 1674. Zunftmeister, Ober Vogt Zu Rieden
+- Ueberfang; ausgiebige Verwendung von hoch aufgeschmolzenem Grin.U V.Wiedikon 1675 Sillherr 1676. schreiber nd Pfager zu Guldenenhorn A.1679.
+
+0,355 h.,0,25 br. Einige Risse, sonst gut erhalten.
+
+- Statthalter vnd Maior vber die Reutery der Statt Zurich A 1679,Haubtm. Johann Jakob Waser ward Zunfftmeifter A: 1660,Rechenherr A:1662.Sillherr A1663.Ober Vogt zu Rieden vnd Wiedicken 1668.Statthalter A:1676."
+
+0,356 h.,0,253 br. Erhaltung gut; einige Risse. Wien Nr. 43. Zirich Nr. 132.
+
+- der Statt Zurich ynd Landtschreiber zu Aefch .Altftetten. /Hans Jacob Meyer, Cornet Ano 1679.
+- 0,358 h.,0,25 br. Erhaltung gut; ein Riss.
+- Nr. 341. Pendant zu den drei vorigen Nummern. Wappen Leu und Ulrich. Unterschrift fehlt. 0,268 h.,0,253 br.Fragment;einige Risse.
+- Nr.342. Baurisches Rundscheibchen.Die Mitte zeigt auf weisem Grunde zwischen rothen Pfeilern das abtische Wappen, iberragt von einer Wolkenglorie, in welcher die Madonna thront. Rechts und links SS.Marianus und Getulius. Am Fusse die Inschrift (lat. cursiv):,Reverendifsimus in Chrifto Pater Amplifsimus praeful, ac Dominus, Dominus Nicolaus, jnclytae Maris-Stellae (Wettingen) Abbas dignifsimus, et facrae Congregationis Cistertienfis Superioris Germanie, per Helvetie,Alfatie,
+- et Brifgoie provincias, Vicarius et Vifitator Generalis."Monogramm wie auf Nr.341.
+
+0,225 Durchmesser.Bis auf einige Risse gut erhalten.
+m
+
+st ie
+
+es en
+
+n
+
+er oh
+
+nd al-
+
+ch ar
+
+an
+
+IG
+
+hs er
+
+pu ts
+
+It.
+
+nt.
+
+en)
+
+8,
+
+- Nr. 343. Rundscheibe. Rohe Ausfuhrung in bunten Schmelzfarben. Oben die Verkindigung Aptisin def Lobwirdigen Gotts-Hauf YIgenthal Zu Danicken A? 1680.* und Monogramm zwischen den Schilden von Citeaux und der Abtissin, die rechts zur Seite kniet. Neben ihr die Worte: ,In
+
+Durchmesser 0,225.Erhaltung gut;links ein Flickstick.
+
+- Jesy CHRISTO Amica mea Salus.Bezeichnet J.Wo6:M.x.
+- Nr. 344. Rundscheibe. Zwei Engel halten das abtische Wappen. Unten die Inschrift:Hieronymvs Dei Gratia Abbas Monastery Moriensis in Helvetia. 1680. und Monogramm J.We6:M.w. Durchmesser 0,185.Verschiedene Risse.
+- Nr. 345. Das Mittelstick zeigt auf weissem Grunde das abtische Wappen von zwei Engelchen gehalten, umgeben von einem Rosenkranze, der viermal mit christlichen Monogrammen besetzt ist. Seitwarts bunte Saulenarchitekturen. Oben zwei Scenen aus der Legende der hl. Ida.Ueber der Inful des Wappens die Inschrift:Pietas ad omnia utilis.Unten die Inschrift (lat. cursiv): "Joachimus Monastery B. M. V. in Fifchingen apud D. Iddam Abbas. Anno 1681.Monogramm wie auf Nr. 373,
+
+Durchmesser 18 Gut erhaltene Rundscheibe.Bauerische Ausfuhrung in Schmelzfarben.
+
+- Nr.346.Tribe Schmelzfarbentechnik;Doppeltheilung durch missverstandene bunte Architekturen.
+
+0,20 h.,0,326 br.Erhaltung gut; doch fehlt der Wappenschild.
+
+- Links das Labyrinth,in welchem ein Kniender an die in Wolken iber ihm thronende Madonna die Anrede richtet:,Hac duce egrediar." Rechts die Sindfuth; ein hoch dariber emporragender Baum ist bezeichnet:Vna arbor Mihi salus.Unten die Inschrift (lat. cursiv): Joannes Jacobus Schmid S. Theologie doctor Proth. Apost. Celsiss. S. R,J. Principis Episcopi Constant. Comissarius Venerabilis Capituli Tugio-Bremgartensis Decan :et Paroch :Tugy.1681."
+- Nr. 347.Gegenstick von Nr.346.Einblick in einen weiten Garten,Links zertritt die unbefeckte Jungfrau Maria, die in einer Glorie auf der Weltkugel steht, die Schlange.Rechts, wo ein Blitz herniederstrahlt, flieht gegen die Madonna ein Schwan mit der Unterschrift:ob hanc a fulgure terrent.In der Abtheilung rechts steht ein Hoherpriester mit Lilien in den Handen, bezeichnet:Ex omnibus lilium. Unter ihm die Inschrift:Esraa 45.Am Fusse die Inschrift (lat. cursiv):Joannes Rudolphus Schmid Insignis Ecclesiae S. Verenae Virginis, et Martyris Zur-
+- 0,20 h.,0,323.Das Wappen fehlt; einige Risse; sonst gut erhalten.
+- Nr. 348.Typus einer derben und geringen Freiburger Scheibe. In einer mit bunten aber triben Farben gemalten Architektur steht auf weissem Grunde das Wappen; zu Seiten desselben zwei Trophaen. Darunter die Inschrift:N. FRANCOIS NICOLAS DE BOCCARD IADIS BALLIF
+
+0,325 h., 0,20 br.Erhaltung gut;einige Risse.
+
+- DE WVIPPENS.ANNO1684."
+- Nr. 349. Rundscheibe. Pendant zu den vier folgenden Nummern. Auf Weiss die behelmten Alliancewappen, darunter im Halbzirkel (d. B):Beat Jacob Zurlauben von Geftellenburg Ritter Hr. zu hembrunen vnd Anglichen Gewefter Oberfter Feldtwachtmeifter an der vilmerger fehlacht
+
+<!-- image -->
+
+330
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+fein Ehegmallin."
+
+Durchmesser 0,18. Erhaltung gut; ein Riss.
+
+- Nr. 350. Gegenstick zu der vorigen und den drei folgenden Nummern. Unterschrift (d. B): MonoFrauw Maria Magdalena Von Beroldingen Geborne von Roll, fein Gemachlin. 1686. gramm m
+
+Durchmesser 0,175. Zwei Springe.
+
+- Nr. 351. Rundscheibe. Pendant zu Nr. 349, 350, 352 und 353. Unterschrift (d. B): ,Hr. Sebastian Ludwig von Beroldingen, Bifchoffl. Conftantzifch Rath / Ober Vogt Zuo Bifchoffzell, Vnd Landts-Haubtmann der Landt Graffchafft thurgeiw Anno Domini 1686. Monogramm Fom. (vermuthlich identisch mit dem Meister der vorhergehenden Nummern.)
+
+Durchmesser 0,175. Ein Sprung.
+
+- Unterschrift (d.B):Frauw Anna Maria Auch Nr.352. Pendant zu Nr.349-51 und 353. Geborne von beroldingen . sein Eheliche Gemahlin.1686.
+
+Erhaltung tadellos.
+
+- Nr. 353. Gegenstick zu den vier vorigen Nummern. Der Schild ist von Palmzweigen umgeben und mit der Grafenkrone bekront. Zu Seiten desselben 1686. Im unteren Halbzirkel die Inschrift:Fr.Ruodolff Reding Von BiberEg Landtschriber Der graffschaft Durgauw Vnd Herr Zuo Mameren."Truibe Schmelzfarbentechnik.
+
+Durchmesser 0,18.Mehrere Risse,
+
+- Nr. 354.Rohe Ausfuhrung in truben Schmelzfarben. Die Umrahmung in Grisaille und Schmelzgrin besteht aus einer schwilstigen Saulenarchitektur, darin stehen auf blauem Grunde,von Dariber die grunem Kranze umrahmt, zwei Waldmenschen,welche den Stadtschild bewachen. Devise:,Concordie et Pacis :Author Jehoua"Vor den Saulenpostamenten die Personificationen der Vorsicht und Starke. Dazwischen, yon drei Ringen umschlossen, drei birgerliche Wappenschilde
+
+<!-- image -->
+
+0,30 h.,0,202 br. Bis auf zwei Risse gut erhalten.
+
+- Nr.355.Das viereckig umrahmte Mittelbild zeigt die Blendung des Zaleucus und seines Sohnes. Es ist im Rechteck von einreihig angeordneten Schilden umschlossen. Oben in der Mitte ist grosser das Wappen des Her Chriftoff Muller, Stattrichter" angebracht.Die Folge der ibrigen Schilde ist von rechts oben angefangen (d. B):Hr. Benedikt Gofwiler, Ober Ruyer;Hr.Hanns Conrad Peiier im Hof; Hr. Heinrich von Waldkirch; Hr. Hans Rudolf Wepfer; Hr. Heinrich Rufchenbach; Hr. Cafpar Schalch; Hr. Leonhard Meyer; Hr. Johanes Seiller; Hr. Hans Jakob Wepffer; Hr. Emanuel Pfifter;Hr. Chriftoff Murbach; Hr.Hans Martin Peter; Hr. Hans Vlrich Ziegler, Gerichtfchreiber; Hr. Hans Rudolff Schalch; Hr. Hans Jacob Aman; Hr.Hans Ott; Hr. Hans Pffter; Hr. Alexander Speifegger; Hr. Hans Flach; Hr. Gebhart Burgouer; Hr. Heinrich Schalch; Hr. Hans Cafpar Ott; Hr. Chriftoff Ziegler;Hr. Michael Sen .vnder Riyer; Hr. Hans Conrad von Mandach . Statthalter.Zu Unterst in der Mitte:,Hans Jacob Bay, Gerichtsdiener, 1692.Den Vorgang erlautert am Fusse des Hauptbildes die Inschrift (d. B):,Wollt ihr Hochwerter Herr! die Richterftell verwalten l Nach recht und bilichkeit, fo muft ihr ernfthaft halten. Ob dem gegebenen gesez,wie hie Zaleucus that.. | Der weder feinen Sohn noch fich verfchonet
+e
+
+h
+
+h
+
+T
+
+hat. | Dan als, nach dem gefaz, der Sohn verliehren folte . | Beid augen feines leibs, und doch das volk nicht wolte . | Folziehen dis gefaz : fo fol fprach er von mir . | Gleichwol ein aug hin fein,und eins mein Sohn von dihr."Derbe Arbeit.
+
+0.54 h.,0,425 br.Erhaltung gut；einige Risse.
+
+- Nr. 356. Mittelstick einer Scheibe aus dem XVll. Jahrhundert, die Geburt Christi dar-
+- stellend.Monolithmalerei
+
+0,22 h.,0,142 br.
+
+- Nr. 357.Kopfstick einer mit triben Schmelzfarben gemalten Scheibe.Farbloser Grund. S. Georg erlegt den Drachen:zur Seite SS. Sebastian und Barbara.
+
+0,164 h.,0,204 br.Zwei Risse; sonst gut erhalten.
+
+- Nr. 358. Mittelstick einer allegorischen Scheibe mit derselben Darstellung wie Nr. 308. Styl des Murer.
+
+0,186 h.,0,148 br.Fragment,verrostet.
+
+- Nr. 359.In bunter Architektur ist die Anbetung der Konige geschildert.Oben Taufe im Jordan und Johannes auf Pathmos.
+
+0,245 h.,0.22 br.Defect,der untere Theil der Scheibe fehlt.
+
+Nr. 360.Wappenscheibe.
+
+0,295 h.,22 br.Ganz defeet und verrostet.
+
+- widmeten Scheibe stellt auf farblosem Grunde S.Laurentius zwischen zwei heiligen Karthausern vor.
+- 0,22 h..0,21 br.
+- Nr. 362. Auf farblosem Grunde sind zwischen der Madonna mnd S. Katharina die Sehilde50 des Klosters Fischingen und eines unbekannten Abtes gemalt. Die Unterschrift fehlt. Das Kopfstick zeigt die hl. Ida, die von der Burg heruntergestirzt wird.
+
+0,31 h.,0,192 br.Sehr defect;versehiedene Stucke fehlen,Risse.
+
+- Nr. 363.Rohe bauerische Arbeit.Oben Christus, der mit der Dornenkrone auf dem Eselein dem im vollen Ornate daherreitenden Pabste entgegenkommt mit der Inschrift (d. B):Fur war daf vnglyche Zug, Sich Zu,daf sich der schalck nit trig."In der Mitte drei Schopfungsmomente. Am Fusse neben den von einem Engel gehaltenen Schilden die Unterschrift (d. B):Rudolf Drichen ynd Barbly Zircher Sin Hus Frouw v. Andthony Zurcher vnd Anna Zurcher Sin Hus Frouw .16 ..
+
+0,317 h.,0,207 br.Mangelhaft erhalten;verfickt und Rost.
+
+- Nr. 364. Kopf- oder Mittelstick einer Scheibe aus dem Atelier der Muller in Zug: St. Martin 12 giebt dem Bettler die Halfte seines Mantels. Zierlich durchgefuhrte Monolithmalerei,besonders
+- zart die acht zugerische Landschaft,
+
+0,11 h.,0,16 br.
+
+Nr. 365. Mittelstick einer roh gearbeiteten Scheibe, die Auferstehung Christi darstellend.
+
+0,27 h.,0,20 br.
+
+Nr. 366. Rundscheibchen,Monolith.Auf weissem Grunde en-face das behelmte Wappen der Bodmer. Ein Spruchband oben enthalt die Inschrift (d. B): ,Fuhre mich auff dem Pfad deiner gebotten: dann Ich Hab ein Lust darzu. Psalm 119 :V.35." Unten:Hans Jakob Bodmer Burger von Zurich Ao 1709.
+
+Durchmesser 0,15. Erhaltung tadellos.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+0
+
+<!-- image -->
+
+33
+<!-- image -->
+
+<!-- image -->
+
+## Grisailles.
+
+- Nr. 36s. Weisse Rautenscheibe ohne Bild mit der Inschrift (Cursiv):,Chriftianus Auegodt,
+- bihn ich genandt min geluck steit in gottes hant alls de my kenen gebe godt wass er mir gunnen, ich tuhe mich erneren trotz sey dem der es mir kahn wehren 1641. HCG
+
+13,5 h., 8,5 br. Bestandtheil eines Rautenfensters.
+
+## Nr.369-376.
+
+Diese Folge von Glasgemalden soll sich ehemals in dem Schlosse Rebstein im St. Gallischen Rheinthale befunden haben. Der obere Theil der Scheiben,der etwa / der Gesammthohe einnimmt,ist ein Monolith. Er enthalt, ohne Umrahmung, eine sehr sorgfaltig durchgefuhrte Darstellung, wozu, soweit dies die klassischen Vorwiirfe betrifft,A.van Diepenbecks Illustrationen der Metamorphosen Ovids (wiederholt in Sandrarts Ausg. Nurnberg 1698) als Vorlagen dienten. Auf den schmalen Fussstreifen sind die erklarenden Reime verzeichnet.Der Sockel,dessen Hohe ungefahr einem Dritttheile der Scheibe gleichkommt, enthalt zwischen den von Ovalkranzen umschlossenen Wappen der Stifter deren Namen. Ausser den vollstandigen Scheiben Nr.369-375 sind unter Nr. 376 noch die Fusssticke dreier Glasgemalde vereinigt, welche zu dieser Folge gehorten.Nr.37o ist abgebildet in dem vom historisch-antiquarischen Verein in Winterthur herausgegebenen Werke:Die Meisterwerke der schweizerischen GlasmalereiTaf. 56.
+
+- Nr.369. Ein Satyr plumpst durch das Rohricht in den Sumpf;Amorinen schauen ihm schalkDrum bittet vnd Stetts kneiwt,| Zu weichen hellen Schmertzen. Luc.8. Johan Rodolph Reinhart
+- 0.312 h.,0,192 br.Ein Riss durch das Wappen links; sonst gut erhalten. Wien Nr.42. Zurich Nr.121—124.
+- haft zu,unten die Reime (d. B):Der Hellifch fahman Streiwt,|Vyl vnkruth in die hertzen, vnd Johan Wilhelm Blarer von Wartensee A.1666.Zu Seiten die Wappen Reinhart und Blarer.
+- Nr. 37o.Sundfuth.Darunter:,Die Erfte Sunden Welt,Die Warnung nur verlachet. Drum wurdt aif fy gefellt,|Die Fluth die fy auf machet." und v.Meiss.
+- 0,31 h.,0,192 br. Erhaltung tadellos. Wien Nr. 41. Zurich Nr. 121—124.
+- Wappen von Breiten-Landenberg Grichtsherr zu Wetziken,Kempten, Gryffenberg vnd Werdegg"ohne Datum.
+- Nr. 371. Himmelfahrt Elias. Darunter: ,Eliaf fuier hinauf, | Sein geift dem knaben Sendeth, 520 Ein Prophet wurd er druf, | Der Vyl Vnglick ab wendeth. 4. Reg.= C. 2.Wappen Grebel und Schonau, dazwischen: Johann Cafpar Grebel Leutenant vnd Johan Cafpar von Schonauw Fendrich.1666."
+
+0,312 h., 0,192 br. Erhaltung tadellos.
+
+- Nr. 372. David und Jonathan;Unterschrift:,Der David wurdt gemanth,Durch fein Fruind Jonatane, | Da er den bogen Spanth, | daf er fich mach von dane." 1. Sam. C. 20.
+- Wappen Rahn und von Schmid;Inschrift:Johanes Rahn Haubtman iber eine Guardi Companey
+- Nr. 367. Rohe runde Bauernscheibe. In gelber Glorie erscheint die Madonna zwischen S. Johannes Baptista und einem unbekannten Heiligen. Unten der Reichsadler mit dem Wappen von Zug als Herzschild und die Inschrift (d. B):Die Lobliche Gemeinde Mentzingen Anno 1717."
+- Durchmesser 0,17.Stark verbleit.
+S.
+
+1
+
+t, er
+
+n
+
+1- n.
+
+le
+
+5
+
+rt
+
+0
+
+d
+
+W
+
+Eidtgnoffen in Jhr Konigl. Mt von Frankreich vnd Navarra Dienften, vnd Diethelm Schmid Leitenant.A:1666."
+
+0,313 h.,0,188. Ein Riss; sonst gut erhalten. Zurich Nr. 121-124.
+
+- Nr. 373.Das ungemein sorgfaltig durchgefihrte Hauptbild zeigt einen gefallenen Hirsch, der von Hunden zerfeischt wird. Aus der Ferne eilen Esau zu Pferde und Jager herbei. Unterschrift : ,Weil Esaiw Jagt im wald, | die Mutter Jacob Kleideth, | Entpfieng den Segen bald, | da er den Vatter weideth. Gen. C. 27.Wappen Edlibach und Lochmann, dazwischen Inschrift :,Fridrich Edlebach, Qiart: Haubtman vnd gewefener Haubtman iber eine Companej Eidtgnoffen in der Durchl. Herrfchaft Venedig Dienften,vnd Peter Lochman Haubtman iber eine Guardj Companey Eidtgnoffen in Jhr Konigl:Mt von Frankreich ynd Navarra Dienften 1666."
+
+0,31 h.,0,19 br. Erhaltung tadellos.
+
+- Nr.374. Loth mit seinen Tochtern. Unterschrift:Der Loth in trunckenheit,Schwacht feine eigne Kinder, | Dif lafter weit vnd breit, | Macht fein anfehen minder. Gen. C. 17. Zwei mal das Wappen Meiss.Dazwischen:Heinrich Mey6,Haubtman vnd Johan Rodolph Mey6 Gerichtsherr Zue Wulflingen gebruedere 1666."
+
+0,31 h.,0,192 br. Erhaltung tadellos.
+
+- Nr. 375. Jakobs Traum von der Himmelsleiter; darunter:Der Jakob fah im Schlaf,| Die Engel ja den Herren,| Der Sprach ich bin dein Waaff,| begar ich will dich gweren.G C 28." Wappen Grebel und Schneeberger:Johan Rodolph Grebel del Regiments,gewefner Statt- vnd Landtrichter vnd dimal Regierender Landtvogt der Herrfchaft Regenfperg / vnd Johann Georg
+
+0,31 h.,0,192 br. Vollstandig,aber mehrfach zersprungen. Zurich Nr.121—124.
+
+- Schneeberger,deb Regiments Rittm.vnd fteter Statt-vnd Landtrichter 1666."
+- Nr. 376. Drei Unterschriften zu Scheiben desselben Cyclus. 1. Daf trutzend Bablifch gfind, Bouwth bif anf Himmels Spitzen, | Druf endreth Gott gefchwind,| Jhr Sprach Vnd Jhre Witzen." Gen. C.HI.Cafpar Kitt der Artzney Doctor, vnd Johannes Schichtzer def Regiments Haibtman, vnd difmahl Regierender Landtvogt der Herrfchafft Eglifauw."2.Jonaf fich weigern tueth,| def Herren will zverkinden, | in tieffe wabers fith,| beweint er feine Sunden." Jon. C. I. "Fridrich Ludwig Mey6 Fendrich, vnd Johan Wilpert Zoller gewefner Statt- vnd Landtrichter. 1666." 3.Ob gleich die huffte knelt.| Der Jacob doch forth Ringeth,| Den Herren er Steiff helt,| Der ihm den Segen bringeth. Gen. C. 32.Johan Heinrich von Schonaw Leitenant vnd gewefner Schutzenmeister Lobl. Bogen-Schutzengefellfchaft vud Johan Heinrich Grebel Capit :Leitenant auch gewefner Schutzenmeifter,Lobl.Bogenfchitzengefellfchaft.1666"
+
+0,310 h.,0,192 br.Erhaltung gut;ein Riss.
+
+- Nr. 377. Schlanke Saulen, durch eine rundbogige Tonne verbunden, flankiren die beiden Wappen.U Unterschrift (d. B):"Hr. Johan Sutter Landt Amen vnd Pannerher zu Appen Zell Fr. Ana Catharina Scheubin fein Ehegemahel 1667. Monogramm HcG
+
+Durchmesser 0,185.Erhaltung tadellos.
+
+- Nr. 37s. Rundscheibe. Gegenstick zu den drei folgenden Nunmern. Saubere Grisaille. Neben dem Wappen die SPES*. In der Ferne die Auferstehung Christi rechts Jonas, der vom
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+150.
+
+<!-- image -->
+
+- Fische ausgespien wird. Unten die Inschrift (d. B): , Carli Chriftoph dollickher def Kleinen Raths=
+
+105
+
+<!-- image -->
+100
+
+210
+
+Lobl: Statt Lucern Vnd der Zeit der 4 orthen Haubtman des First Gottfhaus St. Gallen 1672.*
+
+Monogramm HcG
+
+Durchmesser 0,186.Tadellos erhaiten.
+
+- Nr. 379. Gegenstick zu Nr. 378, 380 und 831. Saubere Grisaill. Vor einer weiten Landschaft steht neben dem behelmten Wappen die HVMILITAS. Links in der Ferne eine offene Halle,unter welcher der Fussfall der Magdalena. Inschrift (d. B):Johan Ruodolff Graff Rat-
+- [hriber (sic) Zu Wyl.Ano 1672.Monogramm HcG
+
+Durchmesser 0.187.Erhaltung tadellos.
+
+- Nr.380. Gegenstick zu Nr. 378, 379 und 381. Rechts das Wappen,daneben die ,TEMPERANTIA";links in der Ferne Auszug aus der Arche,rechts die Taufe Christi. Unterschrift (d. B): Johan Ruodolff Wirth Firft St. Gallifher (sic) Raths vnd Vogt Zuo fhwartzenbach.
+- Anno 1672." Monogramm wie Nr. 379.
+
+Durchmesser 0,186. Erhaltung tadellos.
+
+- Nr. 3S1. Gehort zu den drei vorhergehenden Nummern. Zu Seiten des Wappens die Fides; unter den fernen Gebaulichkeiten links das Abendmahl und rechts Passah. Inschrift;P. PLACIDVS Bridler, SS. CON,D. CONVENTVAL deb Furst = Gottfh = St= Gall Vnd Stathalter zu
+
+Wyl. 1672."Monogramm HcG
+
+Durchmesser 0,186.Ein Riss.
+
+- Nr.382. Hauptbild: Simson und Delila. Unten Wappen und Inschrift (d.B):,Hans Keller Statt Haubtman Vnd def gerichts in Bifhoff Zell 1673." Oben: ,Simson Zeigt offentlich an, worin fein groffe fterck thet ftahn | die Philifter komen hin eyn:| ftechen in aus die augen fein." Monogramm Hca
+
+Durchmesser 0,19.Mehrere Risse.
+
+- Nr. 383. Das Hauptbild, ohne Umrahmung, stellt, sorgsam im Murerischen Style durchgefuhrt, die Bewirthung der Engel durch Abraham vor. (In freier Wiederholung von Murers Emblemata). Unten das Wappen und Inschrift (d. B): "Aberham Louwerer Burger und def alten Raths zu Bifchoffzel vnd Frauw Suffana Kellerin fein Ehe-Fr.Anno 1675.Monogramm wie Nr.411.
+
+Durchmesser 0,183. Einige Risse,sonst vollstandig.
+
+- Nr. 384. Gegenstick zu den drei folgenden Nummern. Das Mittelstick ist ein quer gestelltes Oval mit der Umschrift:,PREMOR. SED VERE RESURGO.Er dacht an uns,da wir unterdrucktwaren. Pfalm CXxXVI.V 23."Das Oval enthalt die Ansicht des Schlosses Forsteck. Oben (d. B):Vom rauhen winterfroft die Felder iberfchneyet,|im fruling widerum herweifen grine faat:| So werden wir auch feyn durch Gottes troft erfreuet |wan alles unglick fich im tod geendet hat.Unten die Wappen Usteri und Ziegler, dazwischen (d. B):Pauli Ufteri, Kauffman und Burger der Lob. Statt Zurich und Elifabetha Ufteri ein gebohrne Zieglerin Sein Ehegemahel A°1686."
+
+0,25h.,0,155 br.Zwei Risse,sonst gut erhalten.
+
+- Nr.385.Gegenstuck zu Nr.384 und 386. In der Umrahmung des mittleren QuerInnen die Ansicht des Schlosses Gruningen. Oben:Der reiche weinftock wil den Ruftbaum sanfft umfangen,| und Zeitiget daran die fuffe Nectar frucht: | Alfo wan gut und trei zusam die hertzen
+e
+
+-
+
+.
+
+u
+
+er
+
+1
+
+1-
+
+'s en
+
+le e-
+
+ir en
+
+m
+
+f- e-
+
+I-
+
+代t dazwischen: ,Johan Heinrich Hug, Kauffma und Burger Lob . Statt Zurich und Elifabetha Hug ein gcbohrne Labhartin fein Ehegma. Anno 1686."
+
+0,250 h.,0,154 br. Erhaltung tadellos.
+
+- Nr. 3S6. Gegenstick zu den zwei vorigen Nummern.Im Ovalband:OPERIS PRESTANTIA Kyburg.
+- ARTIEICIS (sic) GLORIA. Die Himmel erzellen die ehre Gottes. Pfalm XIX. v. 2.* Darin Schloss Oben:,Wie fchon und Prachtig ift,ob unf her angefezet | des himmels Harmonie,in ftetter ordnung geht, | Wan diefes glantzgebei O Menfch dein hertz ergetzet | denck, wie vil groffer sey des Schopffers Majeftet." Unten zu Seiten des Wappens v. Schmid: ,Jk. Johan Jacob Schmid alter Statt und Landt Richter der Loblichen Statt Zirich.A 1686."
+
+0,253 h.,0,155 br.Erhaltung tadellos.
+
+- Nr. 3S7. Runde Grisaille.Auf hellem Grunde hebt sich vor einer korinthisirenden Saulenstellung das Wappen des Mannes ab.In der Tiefe eine Stadt am See. Unterschrift (d. B):Johann
+- Othmar Hau6 gegenWartigef hauf Besitzer Anno 1687."
+
+Durchmesser O,17.Ein Stuck fehlt. Zwei Nothbleie.
+
+- Nr. 388. Gegenstick zu der vorigen Nummer mit dem Wappen der Frau.Unterschrift (d.B):Frau Johonna (sic) Maria Haufin geborne Mierglerin 1687.
+
+Durchmesser 0,17.Ein Stick fehlt,vier Nothbleie.
+
+- Nr. 389.Rundscheibe. Gegenstick zu den finf folgenden Nummern. St.Martinus theilt mit dem Armen seinen Mantel. Unterschrift (d. B):St.Martin miltigklich,ein Stuckh vom Mantel schneidet: Schenkts einem armen Man,wormit er sich bekleidet. Martj Bornhufer,Leitenant zu Weinfelden 1689."
+
+Durchmesser 0,143.Erhaltung tadellos.
+
+- Nr. 390. Gegenstick zu Nr. 389 und den drei folgenden Nummern. Elias Himmelfahrt. Wafer macht er gut,Die Barn fauffen d. Kinder blut. Elias Bornhuser, Richter zu Wein-
+- Unterschriften (d. B):Elia fehrt gen Himel hoch | Jm Ampt folgt im Elifa nach,|Das bitter felden.1689."
+
+Durchmesser 0,145.Erhaltung gut.
+
+- Nr.391.Gegenstick zu Nr. 389-394.Josef wird in den Brunnen versenkt.Unterschrift (d. B):Joseph Sein Traum entdeckt | Jhn eine Grub hernach |Die Brieder Jhn gefteckt |Verkauft, geuebet rach. Bonaventura Klinger,Kornhandler v. def Gerichts in Gofauw 1689."
+
+Durchmesser 0,142.Erhaltung tadellos.
+
+- Nr.392. Gegenstick zu Nr.389-394. Marie Heimsuchung.Unterschrift (d.B):Maria grift Elifabet,| die Johanem gebahren thett,| Das kind in Mutter leib fpringt |Maria Lob dem Herren fingt. Vlrich Kientzli zu Niderdorff,deb Grichts in Gofauw.Anno 1689."
+
+Durchimesser 0,143. Erhaltung tadellos.
+
+- Nr. 393. Gegenstick zu Nr. 389-394. Flucht nach Agypten in origineller zeitgenossischer
+
+Durchmesser 0,142. Erhaltung tadellos.Grisaille.
+
+- Auffassung, Joseph ist als Turke gekleidet. Unten halt ein Engelchen den Schild; zu Seiten die Inschrift (d. B): ,Vor def Herodis lift, Joseph das Jefulein, Entfuhret weith hinweg, bis in Egypten hien. Jofeph Roth, Grichtfchreiber in Gofauw 1689."
+- Nr.394. Pendant zu den 5 vorigen Nummern.U Ueber den Unterschriften Christus und der
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+105
+
+Pofart auss dem Weyer Haubtman V. def Gerichts in Gofauw 1689."
+
+Durchmesser O,142.Erhaltung gut. Grisaille.
+
+- 240 Nr. 395. Die Composition, Umrahmung und Anordnung entspricht genau den Nr. 338—341. Zwei toscanische Saulen sind durch einen Triglyphen-Fries verbunden; dazwischen das Wappen der Holzhalb mit dem Zur Eich'schen und Usteri'schen ecartelirt.Unten die Inschrift (d. B): "Johannes.Holtzhalb,Fr. Catharina Zur Eich,Fr. Efther Vfterin feine Ehegemahel.A°1691."
+
+0,29 h.,0,198 br. Erhaltung gut;zwei Risse.
+
+- Nr. 396.Auf farblosem Grunde steht ein Cavalier in der Zeittracht des beginnenden XVIIl.
+- Jahrhunderts.
+
+0,092 h.,0,066 br.Ein Nothblei.
+
+- Nr. 397. Rundscheibe. Gegenstick zur folgenden Nummer. Behelmtes Wappen. Jm oberen Halbzirkel (d. B):,Maifter Hans Jorg iberle Vnd Frauw Anna Ruotherfchauferin fin Ehfrau zu Jlighaufen 1708."
+
+Durchmesser 0,15. Ein Riss.
+
+- Nr. 398.Gegenstick zur vorigen Nummer. In der Mitte das Wappen,unten grine Lorbeerzweige;im oberen Halbzirkel (d. B.):Maifter Beniammi Welder des gerichts zu Sulgen Vnd Vrfula fcheibin Sein Eh Frau 1708."
+
+Durchmesser 0,155.Intact.
+
+- Mr.399.Der gekronte Schild der Zurlauben mit durchgestecktem Pedum, von zwei Lowen gehalten.Unterschrift (d. B):Fr. Maria Eiphemia Zurlauben Barone von Thurn ynd Geftellen-
+- burg Abttifsin Des Lobwurdigen Gottshauff Dennicken.Anno 1714."
+
+Durchmesser 0,157. Erhaltung tadellos.
+
+Nr. 400.Genaue Wiederholung der vorigen Nummer.1714.
+
+Durchmesser 0,16.Erhaltung tadellos.
+
+- Nr.401.Rundscheibe,mit den finf folgenden Nummern eine gemeinsame Serie bildend. Das ecartelirte Wappen mit der Krone und dem durchgesteckten Pedum wird von zwei Lowen gehalten. Unten die Inschrift (d. B):,Maria Euphemia Zurlauben Barone von Thurn vnd Gestellen-
+- burg Abbtiffin Des Lobwirdigen Gottshaus Denickhen Anno 1718."
+
+Durchmesser 0,204.Erhaltung tadellos.
+
+- Nr. 402.Zwei Lowen halten das abtische Wappen. Seitwarts sind je drei Schilde der Rheinauischen Herrschaften angeordnet. Rechts:,Herfchafft Ofteringen;Neiwburg; Altenburg:* Links:Statt Rheinauw;Mameren;Jestetten.Unten Inschrift (d.B):Geroldus Z Zurlauben Baron von Thurn vnd Gestellenburg Abbte Des Lobwirdigen Gottshauf Rheinauw.Anno 1715." Durchmesser 0,20. Erhaltung tadellos.
+- Nr. 403. Im oberen Halbzirkel wird das abtische Wappen von zwei Engelchen gehalten. Es ist mit der Inful zwischen den Helmen von Rapperswyl und Homberg bekront. Darunter die Inschrift (d. B):Franciscus Baumgartner Abbte des Loblichen Gottshauf Wettingen Des Heiligen Cistercienser Ordens vnd Vicarius Generalis Durch Schweitz Elssass vnd Brifsgauw Anno 1715." Durchmesser 0,204.Erhaltung tadellos.
+- Nr. 404.Der ecartelirte Ovalschild mit der Devise:,BELLICA.VIRTVTIS. PREMIVM." und zwei Helmen wird von Lowen gehalten; zu Seiten sind Trophaen angeordnet. Unterschrift (d. B):Landtf Hauptman Beat Jacob Zur Lauben Baron von Thurn ynd Geftellenburg Herr Zuo
+1f
+
+1.
+
+en
+
+)：
+
+I.
+
+en
+
+Zul nd
+
+en
+
+11- d.
+
+en n1-
+
+er
+
+“
+
+11.
+
+ie ell
+
+d.
+
+01
+
+gemahlin 1715."
+
+Durchmesser 0,205. Erhaltung tadellos.
+
+- Nr. 405. Aebtisches Wappen von Lowen gehalten. Ringsherum zehn Murische Herrschaften;
+
+Durchmesser 0,20.Erhaltung tadellos.
+
+- im oberen Halbzirkel: ,Ampt Mury; Dieften; Glattburg; Klingenberg.* Im unteren Halbzirkel die Inschrift (d. B) lautet: ,Placidus Zurlauben Baron von Thurn vnd Geftellenburg Des H. Romifchen Reichs Furft vnd Abbt Des Furstlichen Gottshaufes Mury 1715."
+- Nr. 406. Gleiche Anordnung wie Nr. 402. Unterschrift (d. B): Franzifcus Trogger Abbte des Lobwurdigen Gottshauf der Heiligen Graffin Jdde Jn Fischingen vnd Baron zuo Danneg. 1715." Durchmesser 0,202.Erhaltung tadellos.
+- Nr. 407. Rundscheibe. Der gekronte Schild der Zurlauben wird von zwei Lowen gehalten. JInschrift (lat. cursiv): ,P. Ludouicus Zurlauben, Baro de Thurn, et Gestellenburg, Conentual (sic) in Wettingen P. t. Confessarius in Magdennaw, Notarius Apost. 1720."
+
+Durchmesser 0,175. Ein Riss.
+
+- Nr. 408.Rundscheibe. Rauhe Arbeit. Der ovale,gekronte Cartouchenschild wird vonzwei
+- Pferden gehalten, deren Brust je eine Lilie schmikt.Darunter die Inschrift (lat. cursiv): R. P. Coelestinus Schwaller Conventual in Wettingen P. T. Confessarius, et Parochus in Denniken 1723." Durchmesser 0,162.Erhaltung tadellos.
+- Nr. 409.Vor der Madonna kniet betend der hl. Bischof, hinter dessen Rucken sich die Angreifer nahen. Ueberschrift (lat. cursiv):Anselmus under Maria Schutz, Bietet all seinen feinden den trutz.Unterschrift zu Seiten des Wappens:Hr. Anselmus Elsener der Elfeneren Famile neuwer unser Lieben Frauen pfrund Erster Caplan 1735.
+
+Durchmesser 0,16. Ein Riss.
+
+- Nr. 410. SS. Petrus und Paulus; unten zu Seiten des Zuger Schildes die Inschrift (d. B):
+
+0,17 h., 0,17 br. Mehrere Risse.
+
+- Die Loblich Gemeindt Egerin Anno 1743."
+- Nr. 4ll.Bauerische Rundscheibe.Pendant zu der folgenden Nummer. Wappen mit dem Motto:,Ad Astra ad Sidera" zwischen SS. Petrus und Theresia.U Haubtmann Joan Peter ftaub def Rath6, gewefter Landvogt Zu Lugarus Obman des gotte Hauf Unterschrift (d.B):,Tit.Herr Gerichtf, vnd ietz zum andren mahl Regierender Amann zue Zug, Vnd Fr. maria Anna Theresia Ester Weberin feine Ehe Consortin."Oben 1743.
+
+Durchmesser 0,158.Erhaltung tadellos.
+
+- Nr. 412. Gegenstick zu der vorigen Nummer. In einer Saulenstellung erscheint zwischen den Namenspatronen das Wappen. Umschrift (d. B): ",Der Hochwirdige, Geiftliche, Vnd Wohlgelerte Herr Jacob Clemens ftaub Camerarius def Vralten Capitels Zug, vnd Wohl beftelter Pfahrherr allhier Zu Mentzingen Anno 1743."
+- Nr. 413. Gravirte Scheibe. Wappen mit Umschrift (d. B): , Wer nicht erkent Den Herren
+
+Durchmesser 0,157.Gut erhalten.
+u.Frauw Margareta Borhauber."
+
+Durchmesser 0,155.Tadellos erhalten.
+
+Nr. 414. Geschliffene Bernerscheibe. Wappen mit Ueberschrift (d. B): , Wahre Frundschaft der Statt Bern, Dero zu Hungarn und Boheim Keyserl. Konigl. Majest. def Philippischen Dragonr Regim. gewesener Hauptm. dermahlen in Jhro Gnaden Landen bestellter Obristwachtmeifter der Dragoner 1758."
+
+0,258 h., 0,173 br.
+
+## Arbeiten der Spengler von Constanz.
+
+- Nr. 415. Das Mittelbild, eine sorgfaltig durchgefuhrte Monolithminiature, stellt den Heiland dar, der sich in Gegenwart der Apostel von seiner Mutter verabschiedet. Drei Streifen umgeben die Mitte; der Obere mit der Inschrift (d. B):dif sind die Patteronen difes Gottshauf stellt unter Rundbogen SS. Remigius, Waldburga, Benedict und Scholastica dar. In der Mitte der Schild der Priorin mit der Umschrift:,MELIORA HOPPLERIN PRIORIN." Die senkrechten Streifen enthalten,ibereinandergeordnet, je sechs Schilde der Conventualinnen mit folgenden Namen (lat.
+- Sutterin;Scholaftica Freyin;Anna Maria Sandholtzerin;Maria Landenberg;Hefter von Greiffenberg; Anna Sehlumpfin; Magtalena Kollerin; Barbara Knopfini; Hellena Zum brunen." Unten steht zwischen Engeln eine Tafel mit der Inschrift (d. B):,Frowen Priorin vnd ain Erwirdig
+
+Capittel des Lobwurdigen Gottshau6 Munfterlingen Anno.1614."Monogramm
+
+0,42 h.,0,334 br. Einige Nothbleie und Risse durch das Mittelbild; sonst gut erhalten.
+
+<!-- image -->
+
+- Nr. 416. Zwei Engel stehen zu Seiten des Wappens, iber welchem das Kopfstick ,Tamerlanes Sentha" darstellt, der an der Spitze seiner Truppen gegen eine Stadt zieht. Am Fuss die Inschrift (d. B):,Hanf Rudolff Sonnberg, des Raths der Statt Lucern Landtvogt deb Thurgowf . Anno 1620." Unter dem Schilde die Inschrift (lat.cursiv): ,Omnia Mature. Nihil Insipienter
+- Nr. 417. Wappen der von Reding mit der Unterschrift (d. B): ,Herr Georg Dietherich Redig St. Stephanus ordens Ritter. Fl. St. Gall. Ratt vnd Vogt auf Jberg. F. Anna Maria Redigin, Ein
+
+Agamus," (d. B): ,Alles Mitt Rath . Dan Nach der Thatt, Jst Rew zefPatt.* Monogramm M· S P 0,305 h.,0,205 br. Mittelmassig erhalten;Nothbleie und mehrere Flicksticke.
+
+Geborne Haffin von Glarus. fein Ehegemahel.1621."Monogramm
+
+0,30 h., 0,323 br. Kopfstick und Wappen rechts fehlen.
+
+Nr. 418. Doppelwappen in bunter Architektur; oben die Vision des hl. Johannes auf Pathmos uud St.Barbara. Unterschrift (d. B): ,Johann Harder Beeder Rechten Doctor Furftlicher St. Gallifcher Rath, Cantzler vnd Barbara Hillerin fein Eheliche Haufsfrow .Anno Domini 1626."
+
+Mono gramm SP
+
+0,324 h.,0,20 br.Defect,2 Sticke fehlen.
+
+Nr. 419. Eine bunte Saulenstellung umrahmt auf weissem Grunde die beiden Wappen. Unten die Inschrift (d. B): ,Max von Vlm gerichts herr Zuo Grieffenberg vnd der Lieburg Firstl. St,
+
+<!-- image -->
+len, haft
+
+ger der
+
+and oen
+
+ellt ild
+
+fen lat.
+
+ina en-
+
+ten dig
+
+er- die
+
+6.
+
+ter dig
+
+Ein n0S
+
+St.
+
+6.6
+
+ten
+
+St, fein Ehegemahel 1626." Monogramm I. S. P.
+
+- Nr. 420. Am Fuss der Scheibe die Inschrift (d. B): ,Aman Schreiber vnd ein Erfam gericht zuo Guttingen. Anno 1630." Monogramm SP Zu Seiten der beiden Saulen die Schilde I。 Bischl : Coste : Ober vogt der Herrschaft Guttingen 1630, rechts ,der Richter fich zue bedencken auch desgleichen | nit achten folle ehr, gab gelt noch gunft I womit fein arbeit vor Gott vmbfonft.α In der Mitte Tanners Wappen. Das figurenreiche Hauptbild stellt in einem traulichen Gemache die Gerichtssitzung dar.
+
+26 h.,198 br. Abgesehen von einigen Nothbleien und Rissen gut erhalten.
+
+0,322 h., 0,382 br. Erhaltung gut; einige Risse. Zurich Nr. 118.
+
+- Monogramm IsP.
+- Nr. 421. Auf Weiss die beiden Wappen, zwischen denen das Jerusalemkreuz, Schwert und Catharinenrad. Am Fusse die von Rollwerk umgebene Tafel mit der Inschrift (d. B): ,Haupt. Frantz. Tanner vo Tauw vnd Bollenftein deb H. Grabs Ritter Frl. Bischofl = Coftantz = Ratt vnd Vogt Zu Guttingen Fr. Anna Maria Tanneri ein geborne Helmlini fein Ehegemachell 1 . 6 . 3 0."
+
+0,245 h., 0,208 br. Bis auf zwei Risse durch die Wappen gut erhalten.
+
+0,148 h.,0,232 br. Erhaltung tadellos. Zirich Nr. 147.
+
+- Nr.422. Monolith-Miniature mit triben Schmelzfarben gemalt. Auf dem See, an dessen linkem Ufer im Vordergrunde ein Gasthaus steht, treibt mit vollen Segeln ein befrachtetes Schiff. Am Fusse der Scheibe steht zwischen zwei Wappen-Cartouchen die Inschrift (d.B):,Es ift ein kluger Mann der das Schiff wol regiert. Noch kluger der die Welt durchfchifft wie fichs gebirt, Die Welt ift wie ein Meer, der Menfch so drauff fchifft. Wol dem der alfo fuhrt das er den Himmel trifft. 1656." Monogramm w.s.P.
+- Nr. 423. Rohe Arbeit. Oben die Verkundigung. Die im Oval umrahmte Mitte zeigt die Kronung Marie in Gegenwart der unten knienden Heiligen Carolus Borromeus, Bartholomeus, Antonius von Padua, Franfiscus, Maria Magtalena, Conradus und Joseph. Unten zwischen den Wappen die Inschrift (d. B):,Herr Conradt Faffler, Gewefter Statthalter der Zeit Regirendter Landtamen deb Catholifchen Landts Appenzell Vnd Fr.Magtalenna Bichlerin fein Ehegemachelin 1566.Monogramm Ws.P
+- Nr. 424. Crucifixus zwischen Maria und Johannes; Unterschrift (d. B):,Herr Ferdinand
+
+0,313 h., 0,20 br. Springe und oben in der oberen Ecke links etwas defect; sonst gut erhalten.
+
+- Peyer Kauffher Zue Rofchach. 1671." Monogramm sp.mtona
+
+Durchmesser 0,144. Tadellos erhalten.Grisaille.
+
+- Nr. 425. Rundscheibe. Gegenstick zu Nr. 426. Ein Apostel steht vor einer Seelandschaft. Unterschrift (d. B): ,Der Wol Ehrwurtige , Hochgelehrte Herr : Peterus Bombacher def Loblichen St. Gallisher Capitels Deputat . Vnd Pfarrherr zue Goldtach." Monogramm XSD. in CoAu3 .
+- Durchmesser 0,152. Erhaltung tadellos,
+- Nr. 426. Gegenstick zu der vorigen Nummer. Notker uberwindet den Teufel; ferne die Ansicht des Klosters St. Gallen. Unterschrift (d. B): ,Der wol Ehrwuirdig , Geiftlich, vnd Hochgelert
+- vnder welchem diefe Muhli gemacht worden." Monogramm 4 #i.SP. inConanB.
+- Durchmesser 0,145.Erhaltung tadellos.
+- Nr. 427. Die grau und gelb gemalte Rundscheibe stelt den Apostel Andreas vor; in der Ferne rechts sieht man den Fischzug, unten zu Seiten des Schildes die Inschrift (d. B): ,Der Wol Ehr-
+- der Zeit Pfarr Herr Zue Arben Anno 1673.Bezeichnet xsP.i coau
+
+Durchmesser 0,145.Tadellos erhalten.
+
+Monogramm
+
+- Nr. 428. Sorgfaltig durchgefuhrte runde Grisaille ohne Umrahmung, die Ruhe auf der Flucht nach Agypten darstellend. Unterschrift: ,IOSEPH MONITVS IN SOMNIS AB ANGELO, FVGIEN DVCIT PVERVM ET MATREM EIVS IN AEGIPTVM. MATTHE. II. 1680.* WSp.
+
+Durchmesser 0,158. Tadellos erhalten.
+
+Nr. 429. Roh gemalte Rundscheibe, den barmherzigen Samariter darstellend; dariber die Reime (d. B): Chriftus Jefus den man hat genent | Ein Samariter hilft behend. | Vnd Zeigt auch die Parabel wol | Wie man den Nachften Liebe soll. Unten zu Seiten des Wappens die Inschrift: ,Herr Vlrich
+
+- Lohrer,Deb alten Raths Vnd Spitelmaifter Zu Bifchoffzel Ano: 1685. Monogramm
+
+Durchmesser 0,166. Ein Sprung.
+
+Durchmesser 0,16.Erhaltung tadellos.
+
+jMSPCONe
+
+- Nr.430. Rundscheibe. Auf farblosem Grunde sind die Wappen der Hallwyl und Bodman gemalt. Unterschrift (d. B):"Frantz Walter von hallweil zu bleideg vnd Zilfchlacht bifchoflicher von vnd zu bodman 1686." Monogramm MSsp.
+- Nr. 431.Rundscheibchen. Das Wappen ist mit Schmelzfarben auf Weiss gemalt;Inschrift: "Johann Conradt Guldinast Des Raths stencherz vnd Mulli Herr 1691." Monogramm: M. S. S. P. Durchmesser 0,103.Ein Riss.
+- Nr. 432. Runder Monolith. Auf farblosem Grunde das Wappen und die Umschrift (d. B):
+- ,Johann Conrad Gosser Ober Richter vnd Muhlin Herr.A. 1691." Monogramm:M.S.S. P. Durchmesser 0,11. Erhaltung tadellos.
+- Nr.433. Runde Grisaille. Gegenstick zu der folgenden Nummer, die Heilung des Blinden durch Christus darstellend. Umschrift:Der Blinde sitzt am weg muf sich bettlens behelffen Christus fur uber geht er schreit er fol ihm helffen." Unterschrift zu Seiten der drei Wappen: "Barthlome Riethman def Statt gerichts Vnd gewefener Kirchepfeger Vnd Fr:Efter guntzenBe-
+- bacherinin Gott sellig Vnd Frau Elrbeta Lohrerin beide fein Ehgemahl. 1700″
+
+Durchmesser 0,145. Tadellos erhalten.
+
+- Nr. 434. Gegenstick zu der vorigen Nummer. Geschichte der keuschen Susanna. Umschrift (d. B): ,Sufana Seiffetzt vnd Sprach doch wil ich lieber vnschuldig in der menschenhande komen dan wider den herren Sundigen." Zwischen zwei Wappen die Unterschrift: "Andreas Wehrly Def Statt gerichts Vnd Bleicher Vnd Frauw Sufanna Riethmanin fein Ehgemahl." Be-
+
+## Zeichnet zogargspenge
+
+Durchmesser 0,147.Tadellos erhalten.
+dbach.
+
+- Nr. 435. Grosser grau in Grau mit wenig Gelb und Blau gemalter Monolith. In einer Land-
+- Stephan.1702."Bezeichnet Tohamgurg pengen
+- Nr.436. Auf Weiss die schwarz und gelb gemalten Wappen mit der Unterschrift (d. B): Hans Jacob Harder des gerichts zu Egelfchoffen Vnd Frauw Vrfula Harderin ein geborne Berin fin Ehegemahl A° 1708".
+
+Durchmesser 0,29. Erhaltung tadellos.
+
+Durchmesser 0,147.Erhaltung tadellos.
+
+- Nr. 437. Rundscheibchen. Auf weissem Grunde ist das behelmte Wappen schwarz und gelb gemalt. Auf dem Spruchbande im oberen Halbzirkel die Inschrift (d. B): ,Gott allein die Ehr." Vnten:Hans Conradt Neywiller Burger in Egellschoffen Vnd Vrfula Neyhuferin fein Ehliche haufFrauw 1708."
+
+Durchmesser 0,145.Erhaltung gut.
+
+- Nr.438.Drei Rundscheibchen. Zarte Grisailles, die Verkundigung, Kreuzigung und die
+
+Durchmesser 0,127. Stark verrostet und verblasst.
+
+## B. Deutsche und andere Scheiben.
+
+## Nr.439-539.
+
+- Nr.439. Auf blauem Damast unter einem Baldachin Christus am Kreuz mit Maria und Johannes.14.Jhdt.
+- Nr.44o. Auf dunkelblauem Damast unter einem Baldachin, woriber gothische Architektur die Figur der betenden Anna in rothem Gewande und grinem Mantel.14. Jhdt.
+
+Einige Nothbleie 59X231/
+
+Stark verbleit.51X261/2
+
+- mit dem Kinde auf einem violetten Esel sitzend im Hintergrund Joseph mit einem Fasschen.
+- Nr.442. Gegenstick zu Nr. 440 und 441.In ahnlicher Umrahmung der auferstehende Christus, zu Fussen die Wachter. Nothbleie.
+
+Nothbleie,51x26.
+
+- Nr.443. Gegenstick zu Nr. 440,441, 442. Maria mit dem Christuskind und mannl.und weibl.Heiligen auf blauem Damast.
+
+Erhaltung gut, etwas rostig. 621/X361/
+
+- Nr.444. Auf blauem mit rothen Scheibchen verziertem Grunde ein heiliger Bischof mit Stab, eine Fusskette in der Hand haltend. 14 Jhdt.
+
+Nr. 445. Auf blauem, viereckig gemustertem Grunde der hl. Paulus, XV. Jhdt. Erhaltung gut. 48X26.
+
+Einige Flickstucke.51x251/2
+
+Nr.446. Auf violett gemustertem Grunde die heil. Elisabeth, XV. Jhdt.
+<!-- image -->
+
+办.C500
+
+Johannes, XV. Jhdt.
+
+Stark rostig,viele Nothbleie. 71X51.
+
+170
+
+520 Nr.449.71x41 etwas defect.
+
+Nr.448.76X391/,defekt.
+
+525. Nr.450.8 86X381/2etwas defect.
+
+Nr. 452. 801/X401/, ein kleines Stuckchen fehlt.
+
+700 Nr.451. 84X381/2 vollstandig erhalten.
+
+0 Nr. 453. 461X32 vollstandig erhalten.
+
+40 Nr.455. 50×42 defekt.
+
+900Nr.454.40×36vollstandig erhalten.
+
+Nr.448-455.Auf rothem Damast gothische Baldachine in grau.
+
+610 Nr.457. 85X371/, einige Risse.
+
+416 Nr. 456. 81/X401/ wenig defekt,
+
+460 Nr. 458. 81X41 vollstandig erhalten.
+
+abo 4Nr.460.71/×401/, etwas defekt.
+
+325Nr.462. 471/X31/, volstandig erhalten.
+
+Nr. 461. 71X391/2 vollstandig erhalten.
+
+300Nr. 463. 461/X32 vollstandig erhalten.
+
+Nr. 465. 41X37/2 volltandig erhalten.
+
+Nr.456-465.Gelbe gothische Baldachine auf blauem Damast. Zwei prachtvolle Serien.
+
+500 Nr. 466. Fischblase,auf dunkelblauem Damast ein graues Rankenornament. Erhaltung gut.82X411/2
+
+616 Nr.468. Unter gothischem Baldachin Anbetung der Konige.
+
+Nr.470.Himmelfahrt Christi.
+
+610 Nr. 469. Christus erscheint seiner Mutter.Unten die Inschrift:Virgilli Hofer.
+
+Nr. 467—470 eine Serie bildend. Sammtliche Scheiben stark restaurirt.
+
+grund eine Landschaft. In einer Cartouche oben die Jahrzahl 1510.
+
+- 93.C.3000 Nr.472. Oben die Jahrzahl 1520. St. Johannes,Magdalena und der heil. Nicolaus von Mir. 821/×44. 1550
+
+Eine Anzahl Flicksticke,Nothbleie.80X471/2
+
+Nr. 473. Maria und Joseph mit dem Christuskinde. Gegenstick zu Nr. 472.
+
+das Wappen.
+
+821/X44.Beide Nummern stark restaurirt. 620
+
+70X40.
+
+<!-- image -->
+
+Nr. 475. Gegenstick Der h. Georg mit dem Drachen, daneben ein Heiliger mit Lanze. 70X40.
+- Nr. 476. Grisaill mit Gelb. Das grosse Mittelstick, rechts und links fankirt von reichen
+
+Frhaltung gut, einige Risse nnd Nothbleie. 641/X49.
+
+Einige Nothbleie.761/X40.
+
+- Nr. 477. Aehnliche Scheibe wie No. 476. Auf reichen Renaissance -Pilastern das Datum "Amno 1538." Im Mittelbild ein Trinkgelage.
+- Nr. 478. Rundscheibe. Auf blauem Damastgrund ein Engel in weissem Gewande mit violett und gelben Flugeln, den rothen Wappenschild haltend.
+- Nr. 479. Rundscheibe. Auf schwarzem Grund die Gottesmutter mit dem Kind in einer Strahlenglorie. Auf dem Rande gelbe Ranken auf schwarz. XV. Jhdt.
+
+Erhaltung gut. 28 cim.
+
+Defekt,etwas rostig und verschiedene Springe. 23 cm.
+
+- N.481.Rundscheibe.Gegenstick zum vorhergehenden. Auf rothem Damastgrund der Wappenschild mit sechs weissen Lilien in blauem Feld, gelber Rand mit Rankenornament. Anfang XVI. Jhdt.
+- Nr. 480. Rundscheibe. Auf blauem, strahligem Damastgrund ein Wappenschild, sechs weisse Lilien in rothem Feld. Gelbe Umrahmung mit Rankenornament, Anfang 16. Jhdt. Erhaltung gut, einige Nothbleie, zwei Flicksticke. 32 cm.
+
+Erhaltung gut, einige Nothbleie, 1 Stuck des rothen Damasts neu. 33 cm.
+
+- Nr.483. Rundscheibe.Auf rothem Damastgrund ein behelmtes unbekanntes Wappen,wachsen-
+- Nr.482. Auf blauem Damasthintergrund,vor dem sich ein rother Wandteppich abhebt, die Figuren des hl. Benedikt und der h. Anna. Einfache gothische Umrahmung. XV. Jhdt. Etwas retouchirt. Am Fusse Ueberreste zweier Wappen. 31X301/2
+- der schwarzer Geierhals mit weissem Hufeisen im Schnabel auf gelbem Grund.Helmzierde: gelber Federbusch.Ende des XV. Jhdt.
+
+Erhaltung gut, einige Risse. 261/ cm.
+
+- Nr.484.Rundscheibe. Grisaill mit etwas Silbergelb. Martyrium der hl. Katharina. Erhaltung gut, ein Sprung. 16 cm. Monolith.
+
+Nr. 486. Auf blauem reichem Damast das Wappen des Hauses Oesterreich mit goldenem Helm und Pfauenfederbusch. Moderne Schildhalter. 36X251/. Sehr interessantes Stuick.
+
+- Nr. 485. Wappenschild ecartellirt: Feld 1 u. 4 rother Schragbalken in gelb. Feld 2 u. 3 Schachbrett,roth u. weiss. Ende XV. Jhdt. Gesprungen.
+
+Nr.487.Rundscheibe. Grisaille mit Silbergelb.Am Tische sitzen Mann und Frau, denen
+
+Erhaltung gut. Ein Sprung. 23 cm. Monolith.
+
+der Diener das Essen auftragt. Im Hintergrund ein Kaminfeuer. Im Vorhof zwei Manner. Anfang XVI.Jhdt.
+
+Nr. 488. Rundscheibe. Kreuzabnahme, Grisaille mit Silbergelb. Anfang XVI. Jhdt. Etwas verblasst, ein Sprung. 26 cm. Monolith.
+
+490. Rundscheibe. Auf farblosem Grunde ein Wappenschild senkrecht roth und weiss
+
+489. In der Mitte Scene in einer Badstube, XVI. Jhdt. Aus Flick-, und modernen Stucken usammengesetzte Scheibe.26x171/
+
+<!-- image -->
+
+<!-- image -->
+
+800.
+
+<!-- image -->
+
+310
+
+<!-- image -->
+
+09h
+
+08
+
+<!-- image -->
+
+50
+
+<!-- image -->
+
+<!-- image -->
+- ##
+
+die Inschrift:,Rosner 1526."
+
+Erhaltung gut.28 cm.
+
+- grund, Grisaill mit sparlicher Verwendung von Gelb und Braun. Datirt 1528.
+491. Rundscheibe. In rother, moderner Umrahmung ein Gastmahl mit landschaflichem Hinter-
+
+Ein Sprung, ein Nothblei. 28 cm.
+
+- Nr. 492. Rundscheibe. Auf farblosem Grunde ein schwarz und gelbes Wappen (halber Bar mit Halsband) und Jahrzahl 1528.
+
+Erhaltung gut. 22 cm. Monolith.
+
+- Nr. 493. Achteckiges Scheibchen. Grisaille mit Silbergelb. Der hl. Jakob, zu dessen Fussen der knieende Donator, gegeniber dessen Frau. Im Hintergrund der hl. Petrus. XVI. Jhdt.
+
+Fragment.161/X13.Zwei Risse.
+
+- Nr. 494. In phantastischer Umrahmung von Renaissance Rollwerk mit Masken, Thier- und Menschenfiguren in Grisaille, Blau und Gelb ein ovaler quadrirter Wappenschild. Feld 1 u. 4 weisse Saule mit gelber Bekronung in Roth. Feld 2 u. 3 Schwarzer Hahn u. Dreiberg in Gelb. Ende XVI. Jhdt.
+
+Erhaltung gut,einige Risse und ein Flickstick. 43x311/2
+
+- Nr. 495. In ahnlicher Umrahmung in Grisaille Blau und Gelb, das ovale Wappen: goldener Lowe mit weisser geschweifter Hellebarde in Blau, in rothem Kranz.
+
+Erhaltung gut,einige Nothbleie und Risse. 43X311/2.
+
+Gut erhalten,einige Risse 43X311/2
+
+- Nr. 496. Gegenstick zu 495. Aehnliche Behandlung. Der namliche Wappenschild in gelber Umrahmung.
+- Nr.497. Rundscheibe. Auf grunem, ungemustertem Grund ein unbekanntes Wappen wagrecht getheilt,oben gelber Stern in Blau. Helmzierde: gelber Stern im weissem Federbusch. Auf dem gelben Rande rings herum die Inschrift:Alle Zeyt zu G. mein Hoffnung 1564."
+- Nr. 498. Rundscheibe. Quadrirtes,dreifachbehelmtes Wappen auf weissem Damastgrund, um den Rand die theilweise verblasste Inschrift:Joachim der Ortemburg. Seine Gemahlin
+
+Gut erhalten, einige Nothbleie und Flickstucke. 261/2
+
+- Ursula, geborne Kirchberg v.Weisenho. Anno 1577."
+
+Mangelhaft erhalten,etwas verrostet und Nothbleie.29i/cm.
+
+- Nr. 499. Rundscheibe. Auf blauem Damast ein behelmtes Wappen. Um den Rand die theil weise verblasste Inschrift:Hanns Drost von Zwefel, genant von Neuwmagen. Der Alt Dem Gott Gnad." XVI. Jhdt.
+
+Erhaltung defekt. Damast neu. 311/ cm.
+
+Erhaltung ordentlich. 221/ cm. Monolith.
+
+- Nr.5oo.Rundscheibe.Christus am Kreuze mit den zwei Frauen. Silbergelb mit wenig Blau. Um den Rand die moderne Inschrift:Kristus starb umb unser Schuld erwarb uns Gnad und Gottes Huld ihm sey Lob Ehr und Preiss in Ewigkait Amen."Ende XVI. Jhdt.
+- Im Hintergrund eine Kapelle.Um den Rand die moderne Inschrift:Conrat Hirn und Affra sein wirtin Stifter des bilgerhus und S. Lois cappel bey S. Anna sambt derselben einkommen ann Cr.
+- 1429.Ende XVI. Jhdt."
+
+Erhaltung gut. 31 cm.
+
+Nr. 502. In rundem Medaillon der h. Eligius in einer Goldschmiedwerkstatte am Ambos sitzend.
+In den vier Zwickeln Engel. Am Fusse die verblichene Inschrift: ,S. Eligius Episcopus A. C. 665. bist mein trost. 1624."
+
+Einige Springe durch die Mitte. 251/eX22.
+
+- Nr. 503. Unter einem Steinbogen ein unbekanntes Wappen, behelmter, wachsender blauer Mann, mit Krummsabel auf blauem Felsen in Gelb. Helmzierde entsprechend, auf farblosem Hintergrund.
+- 23X161/2.
+- Nr. 504. Wappen dreigetheilt: Oben rechts und links je eine blaue Lilie in Gelb; unten
+- gelber Lowenkopf mit weisser Zunge in schwarz. Helmzierde: wachsender gelber Lowe iber blauem und gelbem Wulst, zwei blaue Lilien haltend, auf weissem Damast, dariber die Inschrift: ,Gottes Glickh ist Unversaumbt."
+
+Gesprungen.161/eX14.
+
+- Nr. 505. Rundscheibchen. Quadrirtes, doppeltbehelmtes Wappen auf gelbem Grunde. 1561.
+- Verflickt.14cm.
+- Nr. 506. Wappen von Pfeilern fankirt, auf blauem Hintergrund. Oben Christus am Kreuz,
+
+Etwas defekt und Flicksticke.301/eX22.
+
+- unten die Inschrift: ,Christus ist mein leben, sterben ist mein gewin. Susana von Dorndorf, geborne von Meldegk zu Eissenburg Anno domini 1592."
+- Nr. 507. In ovaler archit. Umrahmung das Wappen, daruber die Inschrift: Dein Neidt Mein Glick," darunter ,Konrad Duffling von Rottenburg. Anno 1593."
+
+Flicksticke und Rost.251/2X221/e.
+
+- Nr.508.Rundscheibchen.Auf farblosem Hintergrund das Allianzwappen, zwischen dem hl. Jakob und der Maria mit dem Christuskind als Sehildhalter. Am Fusse die Inschrift:Hanfs Jakob Raiffel Burger und Zinngiesser in Constanz. Fr. Anna Labertin sein Ehfrauw 1594."
+
+Erhaltung tadellos.19 cm.
+
+- Nr. 509. Auf farblosem Hintergrunde neben der Figur der Fortuna das Wappen. In den vier Ecken allegorische weibliche Figuren. Am Fusse die Inschrift:Johann Gering, Burger zu
+
+Erhaltung tadellos.32x21.
+
+- Nordling 1597."
+- Nr. 510. Doppelwappen, dariber auf einem Spruchband die Inschrift: ,Ecce nova facio omnia Apoe. 21. Cap. Alternis non sit qui suus esse potest." Am Fusse links:,Valentinus Byrbaumer Brigantino S. S. Theologie Doctor Parochus et Canonicus apud S. Joannem Constantiae, Reverendissimi et Serenissimi Principis ac Domin. Dnj, Andree Cardinalis ab Austria Episcopi Constantiensis Consiliarius et harum aedium Parochialium restaurator." Rechts: ,Joannes Weyss alias Keckh Brigantinus Collegiate Eeclesie S. Cyriaci in Wiensteig Canonicus."
+
+Erhaltung gut, ein Riss. 31x19.
+
+Einige Springe. 311/eX191/e.
+
+- Nr. 512. Rundscheibe. Auf farblosem Hintergrund das Allianzwappen Ehinger-Schad. Auf
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+2M
+
+<!-- image -->
+
+330
+- Y
+
+3W0
+
+<!-- image -->
+
+dem Rande die Inschrift: ,Hans Rudolff Ehinger von Baltzheim, Katharina Ehingerin, geborne
+
+Schadin, Seine Ehliche Hausfrau, Anno Dny 1601."
+
+Gut erhalten,einige Reparaturen. 31 cm.
+
+- 2.50 Nr. 513. In spirlicher architektonischer Umrahmung Johannes der Taufer mit Christus. Da
+- Johannis. Am Fusse die Inschrift: Johannes Futzion Burger zu Reutlingen anno 1603.
+
+Erhaltung gut. Einige Risse. 31x20.
+
+- das abtische Wappen zwischen der Muttergottes mit dem Kinde und dem hl. Martin als Schildhalter. Oben Christus am Kreuz mit zwei Frauen, unten der knieende Donator mit dem Abtstab, gegenuber die Figur der Justitia, dazwischen
+- Nr.514.In durftiger architektonischer Umrahmung die Inschrift:,Martinus Abtt def Lobwiertigen Goteshaus Schussenrieth 1612."
+
+Etwas defekt. 331/eX22.
+
+- 13 Nr.515. Auf gelbem Grund das Allianzwappen Hundt u. Heiffilinger u. Jahrzahl 1609. An dem Rand die Inschrift:,Paris Fridrich Hundt von Lauterpach FD.In Bairn Rath Und Obe: Leitenambt, Apolonia Hundin Gepor. Heifflerin."
+
+Mittelmissig erhalten,Springe. 25 cm.
+
+- Nr. 516. In moderner Umrahmung ein unbekanntes Wappen, Schifferstacheln in rothem Feld, auf weissem Damastgrund. Darunter die Devise:,VIS VNITA FORTEOR 1616." Helmzierde:
+- 0h In der Krone wachsender gelber Waldmensch.
+
+341/eX30.
+
+- Nr.517. Butzenscheibchen.Auf gelbem Grund ein sitzender Mann mit zwei Segeln in den Handen und der Umschrift:Ich segle mit Alen Winden fortt ich schilt dich hie und lob dich
+- dortt ect.1621.
+
+101/2.
+
+- Nr. 518. In architektonischer Umrahmung die Darstellung der Ausgiessung des hl. Geistes. Unten das bischofliche Wappen und die Inschrift: ,Haug Graff zu Montfort, Herr von Bregenz zu Tetnang und Argen, Rom.Kay.Mayt u. Churf. dht. Hertzog Maximiliani in Bayern Rath und Camerer Anno 1626."
+
+2 Sticke fehlen. 35X261/2.
+
+- Nr. 519. In ovalem Medaillon das Wappen, dariber die Inschrift: "Gedult bringt Guldt." Oben in einer von zwei Engeln gehaltenen Cartouche Christus am Brunnen. Um das Mittelmedaillon die vier allegorischen Figuren: Temperantia, Justitia, Fides, Caritas. Am Fusse eine von vier Engeln gehaltene Tafel mit der Inschrift:,Michael Hettich Furstabt und Haufs Kichenmaister zu
+- Stuttgarten. Anno 1627." Monogramm C.M.
+
+Einige Risse und Nothbleie. 311/eX201/.
+
+- Nr.520. Kreuzabnahme zwischen der Stigmatisirung des heiligen Franciscus und dem almosenspendenden Bischof Martinus. Unten die Figur des Donators und die Inschrift: ,ADMODVM REVERENDO, AC DOCTISSIMO VIRO, DNO,IOANNI GEORGIO WIRTTNERO ARTIVM,ACPHIE MGRO,ECCLIE COLLEGIATE,S.MAVRITY,IN EHINGEN CANONICO, PROVERI AMORIS TESSERA PINGI CVRAVIT:PAVLVS MIER MOSSKVRCHENSIS PAROCHIALIS ECCLIE OPPIDI ROTTENBVRG AD NECCARVM IBIDEM CAPITVLI RVRALIS DECANVS.ANNO 1628." Deutsche,derbe Arbeit.
+
+Erhaltung gut. 30,5X25,3.
+- oben St. Georg gegen den Lindwurm stirmend, zwischen S. S. Michael und Ferdinand. Am Fusse links neben der Schrifttafel der knieende Donator im Harnisch, rechts von einem Ovalkranz umschlossen, dessen Wappen und Inschrift: ,Ferdinandt vom Hohemberg, Rom. Kay. Mht: Auch Hoh. fir: Dhr. Leopoldi vnd mitinterressierten Ertzhertzoge Zu Osterreich Rath vnd Haubtman der Grafschaft Hohemberg, Zue Ansehenlicher Ehrendtgedehtnus, dem Ehrwirdigen vnd wohlgelehrten herren M. Joann. Georg wirtner Prediger vnd Chorher Zu Ehinge P: P: Anno 1628." Monogramm: S. HB.
+
+Erhaltung gut,2 Risse. 35X24,8.
+
+Nr. 522. Grisaille mit etwas braun und gelb. Eine weibliche Figur in fiegendem Gewande halt den Wappenschild (Hausmarke).
+
+<!-- image -->
+
+<!-- image -->
+
+300
+
+5.5.
+
+85,
+
+140
+
+80.
+
+100
+
+24X161/2.
+
+- Nr. 523. Auf farblosem Hintergrund ein Kavalier zu Pferd. Auf dem grunen Rasen eingeritzt:D.Lanert 1692 en may."Monolith.
+
+2Nothbleie.20X1512.
+
+Nr. 524. Rundscheibchen. Sitzender Soldat.Ende XVII. Jhdt. Umrahmung neu. 16em. Gesprungen.
+
+- Nr. 525. Rundscheibchen. In feinster Ausfihrung in grau, violett und blau die Kronung Mariae, darunter ein unbekanntes Wappen: weisser Kreuzanker in Schwarz.Ende XVII. Jhdt. Monolith. 161/e cm.Tadellos erhalten.
+- Nr. 526. Grisaille, einen Altar darstellend, auf welchem eine Monstranz steht. Rechts und links je 4 Wappenschilde: links Muntprat v. Spiegelberg, v. Castelmaur, Giel v. Gielsberg, v. Sirgenstein; rechts: v. Westerstetten, Schenk von Staufenberg, v. Ratzenried, v. Gemingen. Unten in einem Ovalkranz das abt. Wappen und zu Seiten die Inschrift: ,Maria Hildegardis von u. zu Sirgenstein des Adelichen Styfft und Gotts Haus Vrspringen Abbtissin erwahlt Anno 1723."
+- Nr. 527. Butzenscheibchen. Brustbild eines Ungarn mit der Aufschrift: ,Ungerisch." 11em.
+
+Nr. 528. Auf farblosem Glas in Barockrahmen ein Wappen, rechts und links zwei Blumenzweige. XVIII. Jhdt.
+
+Erhaltung gut. 29x251/.
+
+Nr. 529. Auf farblosem Grund eine Landschaft mit Schloss und Baumen. In den Wolken zwei
+
+Engel mit einem Kreuz, unten links Maria mit dem Christuskind und dem jungen Johannes. Monogramm: S.P.XVIII. Jhdt.
+
+Erhaltung gut.20x13.
+
+Nr. 530. Auf farblosem Grund die Allianzwappen Schinbein und Ott in feiner Ausfuhrung. Unten die Inschrift: ,Johann Georg Schinbein von Freiburg im Breisgau diser Zeit Lateinisch. Catholischer des Lobl. Rom. Reichs Statt Biberach Schuhlmeister, Anna Ottin sein Ehliche Hausfrau 1578."
+
+Erhaltung gut.27x21.
+
+Nr. 531. In archit. Umrahmung die Geburt Christi, links und rechts die Schutzpatrone. Oben Figur des Stifters. Inschrift: ,Hans Wich defs Raths Alhie zu Rottenburg am Neckher 1615."
+
+Erhaltung tadellos.34X27.
+
+120.
+
+<!-- image -->
+
+<!-- image -->
+## C. Neue Scheiben.
+
+## Nr.532-550.
+
+- Nr.532. Rundscheibe. Moses und die cherne Schlange. Durchmesser 21.
+
+Nr. 533. Rundscheibe. Zwischen zwei wilden Mannern das Wappenschild. (Goldener Kelch in blauem Feld.)
+
+Durchmesser 31.
+
+- Nr.534. Rundscheibe. Bergwerksdarstellung. Auf blauem Rand die Jahrzahl 1523. Durchmesser 33.
+- Nr. 535. Rundscheibe. Schon stilisirtes Wappenschild mit der Umschrift: Maria, hertzogin zu brabant anno dom.1509."
+
+Durchmesser 23.
+
+Nr.536. Rundscheibe. Monolith. Grisaille mit Gelb, Johannes der Taufer. Pendant zu Nr.546.
+
+<!-- image -->
+
+Durchmesser 20.
+
+- Nr. 537. Rundscheibe. Traube von Canaan,unten das Wappen. Inschrift:s ain ursula, seihe hausfrav."
+
+Nr. 538. Rundscheibe. Adam und Eva, darunter das Wappen. Inschrift: l dorotea iorg moczsche n.elice haosfrav." Gegenstick zu Nr.537.
+
+Durchmesser 26.
+
+- Nr.539. Rundscheibe. Auf grinem Damast das Wappenschild,in rothem Feld ein weisser Fuchs.
+
+Durchmesser 18.
+
+- Nr. 540. In rundem Medaillon das Wappen, darunter die Inschrift:Anno 1447 kaufft potter Egen von Cardinal Bischoff potter alhie die wag vnd minctz gerech: welche Er In difs. fein Eygenhauf auf Richtet den Goldschmidten tzir munetz dife Stuben mit Aller tzugehor vbergeben."
+
+36X26.
+
+- Nr. 541. Darstellung eines Gastmahls. Darunter die Inschrift: ,Wer nicht liebt Wein,Weib und Gesang, Der bleibt ein Narr sein Leben lang." 34X22.
+- Nr. 542. Wappen und Schildhalter, oben die Ansicht vom Schloss Hohenzollern. Unten die Inschrift:,Eitel Friedrich, Graf von Hohenzollern 1520."
+
+36X23.
+
+- Nr.543. Darstellung des Tellenschusses mit der Inschrift: ,dem Landvogt Brachts grofls, wieder difer Zwang Tellen das er follte Schiessen. Eyn Apfel von fin Liebsten Kind. Er draf racht
+- vnd wafs wolbesint."
+
+32X22.
+
+Nr. 544. Rundscheibchen. Reichsherold cine Bandrolle tragend mit der Inschrift:O ir all den G. hat gewalt geben, seht, an der welt verkerig leben, lont Gerechtigkait nit lenger schlafen welt ir vermeiden...
+
+Durchmesser 16.
+Nr.545. Grisaille,Monolith,Maria im Tempel. 24X20.
+
+Durchmesser 19.
+
+<!-- image -->
+
+Nr. 546. Grisaille,Monolith mit Gelb. Heilige mit Palmzweig. Pendant zu Nr. 536.
+
+Nr. 547. Grisaille, Monolith in Schwarz und Gelb. Ein fotter Landsknecht mit dem Banner von Zurich.
+
+22X14.
+
+Datum 1518.
+
+Nr. 548. Rundscheibe. Grisaille mit blauer Umrahmung, die Kreuztragung darstellend.
+
+Durchmesser 21.
+
+erstehung Christi.,HELMLE FREIBVRG 1827.“
+
+Nr. 550. Wappen zwischen Mann und Frau, mit Inschrift:,Joachim Reutlinger und Agata Bichler sin Ehgmal 1612." 53X37.
+
+41x32.
+
+<!-- image -->
+
+liegenden Katalog als IHl. Abtheilung unter Nr.1078 u. f. verzeichnet.
+
+Die Nummern 551—599 des alten Katalogs (Bicher und Munzen) sind in dem vor-
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+## Europaische Porzellane.
+
+## A. Figuren.
+
+Nr. 600. Allegorische Gruppe. Zwei leichtgeschirzte jugendliche Frauengestalten umkrinzen cine hohe Saule mit Blumenguirlanden, die ihnen iber derselben schwebende Amoretten hinunterreichen. Hubsch componirte Gruppe. Ludwigsburger Fabrikat. Marke: Doppel-C.
+
+Hohe 29cm.Leicht besehidigt.
+
+Nr. 600a. Dieselbe Gruppe in anderer Bemalung.
+
+Gleiche Grosse.Ebenso.
+
+Nr. 6O1. Hohe Blumenvase. Auf einem aus einem Erdhugel gebildeten rebenumkrinzten Sockel,um den sich eine nackte weibliche Figur und drei Amoretten mit Blumen und Reben anmuthig gruppiren, erhebt sich die glockenformige Vase, um deren Leibung sich, meist vollrund, Rosen- und Rebenranken ziehen, deren Geast die beiden Henkelgriffe bildet. Sehr schone, reich componirte Gruppe von vortrefflicher Modellirung. Sachsisches Fabrikat. Marke: Schwerterzeichen.
+
+Nr. 602. Hohe Blumenvase. Den Sockel bildet eine Gruppe dreier leichtgekleideter Amoretten, welche einen Schwan halten, auf dessen Ricken eine Muschel ruht, aus welcher die vierseitige, von reizvollen, meist vollrunden Blumenguirlanden umkranzte Vase erwachst. Diese selbst ist von vier Henkelgriffen umstellt, von denen zwei ein Geast, zwei reizende Frauenkopfe auf -einer Kartusche bilden. Die Seitenfullungen selbst sind ausserst fein bemalt, abwechselnd mit Figurengruppen im Geschmacke des Teniers und mit zierlichen Blumenranken; der sich verengende Hals ist in Palmetten und Ranken reich durchbrochen. Prachtiges Stuck,reich und geschmackvoll im Aufbau, reizend im Decor und sehr fein in der Ausfuhrung. Sachsisches Fabrikat.
+
+Ganze Hohe 29 cm. Leicht gesprungen am Sockel.
+
+Hohe 28cm.Am Fusse leicht gekittet.
+
+Nr. 603. Apollo, mit leicht umgeschurztem Lendentuch, die Leier spielend an einen Felsen gelehnt, an den der dreikopfige Cerberus angeschmiedet. Gut modellirte grosse Figur. Ludwigsburger Fabrikat.Marke: Doppel-C.
+
+Hohe 28cm.
+
+Nr. 604606. Drei allegorische weibliche Figuren: Ubertas,Libertas und Salus in antikisirenden leichten Gewandungen und barfuss, mit ihren Attributen, auf viereckigen Sockeln im Stile Louis XVI. Vorzuglich modellirte schone grosse Figuren von tadelloser Erhaltung. Ludwigsburger. Fabrikat. Ohne Marke.
+
+Hohe zwischen 16 und 18cm.3 Stick.
+410
+
+<!-- image -->
+
+- Nr. 607. Drei verschiedene Figuren: a. Nackter Knabe, durch ein Fernrohr schauend. b.Bettler mit Kruckstock und Stab. c. Sitzender Chinese. Ludwigsburger ete. Fabrikat.
+- Hohe19,15und 10 cm.3Stick.
+- Nr. 608. Schifer, barfuss, in Kniehose und geblumter Jacke an einen Zaun gelehnt, den Dudelsack spielend, und jugendliche Schaferin in leichter Gewandung, einen Blumenkorb im Arme, der Farbe. Zuricher Fabrikat.Marke: Z.
+
+Hohe 21und 18cm.2 Stick.Unbedeutend ladirt.
+
+- Nr. 609. Zwei sitzende Pagoden, weiss glasirt. Hohe 10 cm. 2 Stick.
+- Nr. 610. Weibliche Figur, barfuss und mit entblosstem Oberkorper, eine grosse Muschel
+
+Hohe 23 cm.
+
+- haltend, in der Perlschnire und Edelsteine; neben ihr eine goldgemalte Vase. Schone grosse Figur auf rundem Sockel. Ludwigsburger Fabrikat. Marke: gekrontes Doppel-C.
+- Nr. 611. Venus und Adonis in inniger Umarmung. Treflich modellirte grosse weisse Gruppe.
+
+Hohe 34cm.
+
+- Ludwigsburger Fabrikat.Marke: Doppel-C.
+- Nr.612. Zwei sitzende Doggen. Gut modellirte Figuren, weiss glasirt. Nymphenburger Fabrikat.Marke:Weckenschild.
+
+Hohe 11 cm.2 Stuck.
+
+- Nr. 613.Der Sommer. Weibliche allegorische Figur mit leicht geschirztem Huftgewande, ein Aehrenbindel tragend. Hubsch modellirte Figur. Ludwigsburger Fabrikat. Marke: Doppel-C. Hohe 24cm.
+- Nr. 614. Madchen, ein Hanfbindel tragend. Fabrikat Damm. Marke: Rad und D.
+- Hohe 15 cm.
+- Nr. 615. Knabe und Madchen, barfuss und leicht gekleidet. Fabrikat Damm. Marke: Rad und D.
+
+Hohe 13 und 121/e cm.Leicht beschadigt.2 Stick.
+
+- Nr. 616. Amor als Bettler mit Stelzfuss und Kricken. Vorziglich modellirte weisse Figur. Nymphenburger Fabrikat.
+
+Hohe 17cm.
+
+- Nr. 617. Gruppe zweier weiblicher allegorischer Figuren in edel drapirten, antikisirenden Gewandungen. Superb modellirte Biscuitgruppe. Zuricher Fabrikat. Hohe 31 cm.
+- Nr. 618. Fortuna, vollig nackt, am Fusse eines Baumes an einem Erdhugel liegend, Gold aus cinem Fullhorn ausschuttend. Meisterhaft modellirte grosse Gruppe. Ludwigsburger Fabrikat. Hohe 34 cm.Gekittet.
+- Nr. 6i9. Liebespaar. Vor einem verfallenen Thorbogen, neben einem Baumstamme, auf dem ein Paniske die Schalmei spielend sitzt und zu dessen Fussen die Jagdbeute liegt, steht ein jugenderklarend, an welche sich ein Hund anschmiegt. Schon componirte grosse reiche Gruppe. Ludwigsburger Fabrikat.
+
+Hohe 32 cm.Etwas restaurirt.
+Nr. 620. Schafertanz. Zwei jugendliche Cavaliere in arkadischen Gewandungen tanzen mit einer jungen Dame im Schafergewande mit Blumenguirlanden geschmuckt. Reizende, vortreflich modellirte weisse Gruppe auf reichem Rococo-Sockel. Ludwigsburger Fabrikat. Marke: gekrontes Doppel-C.
+
+Hohe 16 cm.
+
+Ludwigsburger Fabrikat.Marke:Doppel-C.
+
+Hohe 17 cm. Restaurirt.
+
+- Nr. 622. Weibliche allegorische Figur (Tyche) in reich drapirter antiker Gewandung mit goldgezierten Sandalen und Diadem, mit der Rechten ihr Gewand fassend, in der vorgestreckten Linken die goldene Kugel haltend. Vortrefflich modellirte grosse Figur. Ludwigsburger Fabrikat. Sehr schon.
+
+Hohe 35cm.
+
+Nr. 623a. Junge Dame in reichem weiten Crinolincostim mit goldgeschmucktem Mieder, tanzend. Feines Figirchen nach Art der Crinolinfiguren. Ludwigsburger Fabrikat. Marke: gekrontes Doppel-C.
+
+Hohe 15 em.Beschidigt.
+
+Nr. 623b. Jumges tanzendes Madchen,zierlich gekleidet, mit goldgeschmucktem Mieder, den rechten Arm erhoben. Reizendes Figirchen. Ludwigsburger Fabrikat. Marke: gekrontes Doppel-C.
+
+Hohe 15 cm.Leicht beschadigt.
+
+Nr. 624. Zwei Blumenhalter in Form knieender Chinesen in geblumten Gewandungen, in den vorgestreckten Handen ein schalenformiges Gefiss haltend. Chinesisch. Hohe 15cm.2 Stuick.
+
+## B. Gefasse und Geschirre.
+
+Nr. 625. Service, bestehend aus: Kaffeekanne, Milchkanne, Theekanne, gedeckelter Zuckerbuchse, Gebackkumpchen, Schalchen, zwolf niedrigen und sechs hohen Henkeltassen mit ihren Untertassen. Die ausserst fein und zierlich ausgefihrte Malerei simmtlicher Sticke zeigt ungemein reizvolle, hubsch componirte Landschaftsdarstellungen mit reichen Architekturen und zierlicher Figurenstaffage. Um den oberen Rand zieht sich unter einer Goldborte eine Bordire abwechselnd mit reliefirten Arabesken und gemalten Streublimchen. Prachtvolles Service von hervorragend feiner Qualitat, grossem Reichthum und von bester Erhaltung. Ludwigsburger Fabrikat. Marke: gekrontes Doppel-C.
+
+Hohe der Kannen 20,14und 12cm.
+
+Nr. 626. Service, bestehend aus: Kaffeekanne auf drei geschweiften Fussen, Theekanne Milchkanne, Zuckerdose, Theebuchse ohne Deckel und zwolf Ober- und Untertassen. Sammtliche in huibschen Compositionen mit antiken Ruinen, Architekturen etc. und mit zierlicher Figurenstaffage. Service, geschmackvoll in der Form, ungemein fein in der Ausfuhrung und tadellos in der Erhaltung. Ludwigsburger Fabrikat.Marke: gekrontes Doppel-C.
+
+Hohe der Kannen 23,15und 10em.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+60 Rolhoha
+
+<!-- image -->
+
+<!-- image -->
+
+601Bi6
+
+<!-- image -->
+8
+
+<!-- image -->
+
+38
+
+<!-- image -->
+
+- Zuckerdose, Theebichse ohne Deckel und sechs Ober- und Untertassen. Sammtliche Theile sind fein und reich bemalt mit Blumenbouquets und Streublimchen; um den oberen Rand zieht sich eine breite Borte in Korbfechtmusterung. Ludwigsburger Fabrikat.
+
+Hohe der Kannen 22 und 18em.
+
+- Nr. 627a.Milchkannchen,reich gemustert mit leicht reliefirten und fein gemalten Blumenbouquets.Ludwigsburger Fabrikat. Marke: gekrontes Doppel-C.
+
+Hohe 121/cm.Deckel felt.
+
+- Nr. 628.Sechs hohe Ober-und Untertassen, pate-tendre, ungemein fein bemalt in Tuschfarben, ganz in der Art der Schaper'schen Arbeiten, mit reizenden Landschaftsdarstellungen mit Archi tekturen und Ruinen und mit leicht colorirter zierlicher Figurenstaffage;um den Rand zicht sich cine reizende Goldbordire.Wiener Fabrikat. Marke:Bindenschild. Sehr feine Garnitur.
+
+Hohe der Obertassen 71/e cm.
+
+- Nr. 629. Vier Miniatur-Henkeltasschen mit ausserst zart gemalten hubschen Blumenbouquets. Nymphenburger Fabrikat. Marke:Weckenschild.
+
+Hohe 31/ecm.4 Stick,eines gekittet.
+
+- Nr.630. Zwolf 0bertassen in roth,blau und gold in japanischem Geschmack eigenartig decorirt mit Blumen und Guirlanden in schrag laufenden schraubenformigen Zonen. Frihes sichsisehes Fabrikat. Marke:Doppelschwerter und R etc.
+
+Hohe 41/ecm.12 Stick.
+
+- 45 Nr. 631. Zwei Ober- und Untertassen, sehr fein bemalt mit biblischen Darstellungen Findung Mosis und Abrahams Opfer und Verkiundigung Maria und Christus am Brunnen —;um den Rand ziehen sich Goldguirlanden. Sehr schone Sticke. Ludwigsburger Fabrikat. Marke: gekrontes Doppel-C.
+
+<!-- image -->
+
+Hohe der Obertassen 51/2 cm.4 Stick.
+
+Nr. 632a.Gedeckelte Theebuchse, fein bemalt mit Vogeln auf Blumenstauden und mit Streubhimchen.Zuricher Fabrikat.Marke:Z in schwarz.
+
+Hohe 17em.
+
+Nr. 632b. Gedeckelte Theebichse,ahnlich,mit hubschen Blumenbouquets und Streublimchen. Zuricher Fabricat.Marke:Z in blau.
+
+Hohe 16cm.
+
+Nr. 632c. Gedeckelte Theebichse mit Stauden und Blumen in Ziegelroth.Zuricher Fabrikat. Hohe 16cm.
+
+- Nr. 632d. Butterschissel in geschweifter Form, fein bemalt mit hubschem Landschaftsmotiv mit Figurenstaffage.Goldrand. Zuricher Fabrikat. Marke:Z in blau.
+
+Lange 181/2,Breite 141/ cm.
+
+- Nr. 633. Sechs Teller mit geschweiftem Rande, um den eine Goldbordire; durchweg reich geimustert mit Blumenranken in fachem Relief, zwischen denen kleinere Blumenbouquets in feinster Malerei. Hochster Fabrikat, mit rother und blauer Marke. Sehr interessante, schone Sticke. Diam.25 cm. 6 Stick.1 gesprnngen,1 am Rande leicht beschadigt.
+- Nr. 634. Ein Paar ovale Fruchtkorbe mit zwei Henkeln in Form von Blumenzweigen; der
+Blumen- und Fruchtbouquets bemalt, ist in der oberen Halfte in Vierecken und Dreiecken durchbrochen. Fabrikat Kloster Veilsdorf. Marke: C V und mit Malermarke W H in grun.
+
+Hohe 7,Lange 27, Breite 21 cm. 2 Stick.
+
+- Nr. 635. Ein Paar Rococo-Vasen auf vier geschweiften Fussen, doppelt gehenkelt und mit theils durchbrochenen Deckeln, durchweg mit Schnorkel- und Muschelwerk mit reichster Vergoldung. Als Hauptschmuck der reich ornamentirten Leibung auf Vorder- und Ruickfache je cin Darstellungen in hubschen, theils figurenreichen Compositionen mit reizvollen landschaftlichen Hintergrinden ganz im Charakter des Fr. Boucher. Prachtsticke, ungemein reizvoll in ihrer leicht eleganten Form und hervorragend in ihrem Decor und in der Ausfihrung der Malereien. Ludwigsburger Fabrikat. Marke: gekrontes Doppel-C.
+- Nr. 636. Sehr hohe Vase in eleganter Birnform, auf Fuss und mit Deckel. Die Vorderfache der Leibung schmickt ein sehr grosses und reiches Blumenbouquet, die Ruckfache ein kleincres in delicatester und ungemein n zarter und feiner Ausfihrung in naturlichen Farben. Den Rand des Fusses, die obere Weitung und den Deckel, dessen Knopf von einem frei aufliegenden Kirschenzweig gebildet wird, schmickt eine reiche Goldguirlande. Prachtstick, ungemein nobel in der Form, ausnehmend fein in der Malerei, die zweifellos dem Kirschner zuzuschreiben ist, und tadellos in der Erhaltung. Ludwigsburger Fabrikat. Marke:Doppel-C mit Krone.
+
+Hohe 24 cm. Kleine Lisuren am Deckel, sonst von tadelloser Erhaltung.
+
+Hohe 43cm.
+
+- Nr.637. Service,bestehend aus:1 Kaffekanne auf drei geschweiften Fussen, Milehkanne, Theekanne, gedeckelter Zuckerdose, Theebuchse, Napf, elf niedrigen und funf hohen Henkeltassen mit Untertassen. Sammtliche Stucke zeigen in ungemein feiner und delicater Malerei mit theilweiser Vergoldung Jagdscenen der verschiedensten Art in mehr oder minder figurenreichen lebendig componirten Darstellungen, umrahmt von Streublumchen. Hervorragendes Service von ausnehmender Schonheit und Feinheit in der Ausfuhrung der Malereien und von tadelloser Erhaltung. Frankenthaler Fabrikat. Marke: Lowe, zum Theil mit J.H. (Hannong).
+
+Hohe der Kannen 25,17 und 15 cm.
+
+Nr. 638. Kaffeekanne und Milchkanne mit Blumenmalerei. Fabrikat Gera. Marke: G in roth. Hohe 22 und 20 cm. 2 Stick.
+
+Nr. 639. Vier flache Teller, sehr fein bemalt mit Blumenbouquets und Streublimchen. Wiener Fabrikat. Marke:Bindenschild. Schone Qualitat.
+
+Diam.24 cm.4 Stick.
+
+- Nr. 640. Sechs hohe Tassen auf Untertassen mit besonderem Einsatz, der reich durchbrochen, Tasses trembleuses, reich bemalt mit Blumenbouquets und Blumchen in feiner Ausfuihrung; die Rinder und die geraden Henkel mit Vergoldung. Ludwigsburger Fabrikat. Marke: gekrontes Doppel-C. Hohe der Obertassen 6 cm.
+- Nr. 641. Teller mit geschweiftem, in Korbgefecht gemustertem Rande; die Tiefung mit sehr
+
+Diam. des Tellers 25 cm.
+
+- fein gemalten Blumenbouquets und Streublumchen. Frankenthaler Fabrikat. Marke: Lowe. Nebst Frankenthaler Theebuichse und Theekanne, beide mit Blumenbouquets, ohne Deckel.
+- Nr. 642. Sechs kumpige Tassen mit Untertassen, gerippt, mit Blumenguirlanden in rothcamaieu mit leichter Vergoldung. Wallendorfer Fabrikat. Marke: W in blau.
+
+Hohe der Obertassen 5 cm.12 Stick.
+
+<!-- image -->
+
+1580
+
+<!-- image -->
+
+<!-- image -->
+
+910
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+- Nymphenburg. b. Theebuichse mit Figurengruppen in roth-camaieu. c. Gedeckelte Zuckerdose mit
+- Blumen. Hochst (restaurirt). d. Spilnapf mit Blumenbouquets.
+
+Verschiedene Grossen.4 Stick.
+
+## Orientalische Porzellane.
+
+- Nr. 644. Ein Paar Theebichsen (Theefaschen), japanisch, in feinem Emailporzellan, in
+- Farben mit reichem Gold vortrefflich bemalt mit Granatstauden, an denen Paradiesvogel und Drachen, Tisch mit Blumenvase, die von Faltern und Schnecke belebt, etc.; um den oberen Rand zieht sich eine Bordure mit Arabesken in gruin auf orangefarbenem Grunde. Sehr schone feine Sticke.
+
+Hohe 21cm.2 Stick.
+
+- Nr. 645. Ein Paar hohe Theebichsen (Theefaschen), chinesisch,Ming-Dynastie,vierseitig,in vorherrschend grunen und rothen Emailfarben reich bemalt mit prachtigen Blumenstauden. Aparte Sticke. Hohe 25 cm.2 Stick.Deckel fehlen.
+- Nr. 646. Garnitur von drei Vasen, chinesisch, in gestreckter Birnform. Kapuzinerbrauner Grund mit Ranken in gruin und weiss; ausgespart zwei grossere und zwei kleinere Medaillons mit Blumenbouquets in Emailfarben ,famille rose". Sehr gute Sticke.
+
+Hohe 28cm.3 Stick.2Deckel leicht ladirt.
+
+- Nr. 647. Kleine Vase ohne Deckel, in langgeschweifter Birnform, japanisch,in blau,roth und gold bemalt mit Chrysanthemstauden;an der oberen Weitung eine Arabeskenbordire mit vergoldeten Reliefnuppen. Gutes Stuick.
+
+Hohe 14cm.
+
+- Nr. 648. Hohe Theebichse (Theefasche), vierseitig, japanisch, reich bemalt mit aufsteigenden Blumenranken und Stauden in blau,roth und gold. Schone Qualitat.
+
+Hohe 26cm.
+
+- Nr. 649. Hohe Kanne in conischer Form, mit Deckel, japanisch, in blau, roth und gold reich bemalt mit ippigen Blumenstauden,Vogeln etc.; der Deckel mit Messinggarnitur. Hohe 30 cm.Das Loch zum Ausgusskrahnen restaurirt.
+- Nr. 650. Garnitur von finf Vasen, drei gedeckelt in Birnform,zwei in Fleutenform, japanisch, in Langfeldern und Medaillons in blau, roth und gold sehr reich bemalt mit Chrysanthemstauden und Landschaftsmotiven etc. Schone Garnitur von guter Qualitat.
+
+Hohe der Deckelvasen 31,der Fleuten 181/e cm.
+
+- Nr. 651. Ein Paar kleine Deckelvasen in gestreckter Birnform,chinesisch, famille rose, in prachtigen Emailfarben sehr reich bemalt mit ippigen Blumenstauden, von Fasanen belebt. Sehr
+- schone Qualitat.
+
+Hohe 23cm.2 Stick
+
+- Nr. 652. Vase mit Deckel, chinesisch, in langgestreckter Birnform, in lichten Farben mit reicher Goldanwendung sehr fein bemalt mit reizvollem Blumenbouquet, Ranken und Insecten; am
+
+Hohe 251/e cm. Deckel leicht beschadigt.
+
+- oberen und unteren Rande eine Lambrequin-Bordure. Sehr gute Qualitat.
+n
+
+t
+
+- Nr. 653. Ein Paar gedeckelte Flaschen (Flacons), cylindrisch, chinesisch, Ming-Dynastie, in vier Feldern vorwiegend in grin fein bemalt mit Blumenstauden, Attributen und Emblemen; der obere Rand mit reizvollen Arabesken in grin. Sehr schone und feine Qualitat. Hohe 20 cm.2 Stuck.
+- Nr. 654. Ein Paar Vasen in Fleutenform,japanisch, in von Ornamentbandern getrennten Langfeldern in blau, roth und gold bemalt mit Blumenstauden, Blumenfriesen ete.
+- Hohe 19 cm. 2 Stick.
+- Nr. 655. Ein Paar gedeckelte Zuckerbichsen, japanisch,in blau, roth und gold prachtig bemalt mit die Leibung und den Deckel fillenden reichen Landschaftsdarstellungen. Gute Qualitit. Hohe 16,Diam.12 cm.2 Stick.
+- Nr. 656. Ein Paar gedeckelte Zuckerbichsen, japanisch, in Feldern bemalt mit Blumenstauden und Ranken in blau,roth und gold. Hohe 16,Diam.12cm.2 Stick,
+- Nr. 657. Grosses Tafel-Service, japanisch, bestehend aus: drei grossen Schisseln a 43 cm Durchimesser, vier Sehusseln a 40 cm, drei Schusseln a 36 cm, eine Schuissel a 35 cm, sechs a32cm， davon zwei gesprungen, sieben getieften Schisseln mit gerade aufsteigendem Rande, a 28 cm, sechs tiefen Tellern a 25 cm und 61 fachen Tellern a 22 cm, davon zwei gesprungen. Sammtliche Theile zeigen im Fond Lotosstauden in blau,roth und gold; den oberen Rand umzieht eine Ornamentbordire in schraffrter Anordnung, durchsetzt von vier Langmedaillons, in denen Blumenzweige. Schones Service von durchweg bester Erhaltung.
+- Nr. 658. Ein Paar Prachtschisseln, japanisch, mit starker Tiefung und sehr breitem Rande mit reichster Malerei in blau,roth und gold. Die ganze Tiefung nimmt eine Landschaftsdarstellung mit Gebauden, Baumgruppen und Hirschen ein, wahrend den Rand ippige Ranken mit Granatfrichten, fiegenden Paradiesvogeln ete. fillen. Auf dem Aussenrande vier Blumenzweige; der Boden mit 14 Brennzapfen und concentrischen Ringen in blau. Prachtsticke von hervorragender Schonheit.
+
+Diam.55 cm.2 Stick.
+
+- Nr. 659. Zwei Prachtschisseln mit Vertiefung und breitem Rande, japanisch, in blau, roth
+
+Diam.46 cm.2 Stick.
+
+- und gold ungemein reich bemalt mit Chrysanthemstauden, Blumenranken, fatternden Vogeln etc.; auf einer Banderole Landschaftsmotiv in gold auf blauem Grunde. Sehr schone Prachtstuicke.
+- Nr. 660. Grosse kumpige Schissel, chinesich,mit emailleartiger Glasur, vorherrschend in grin, ziegelroth und rosa reich bemalt mit prachtiger Blumenstaude; bordiren und Blumenmedaillons; der Unterrand mit zwei Ranken in ziegelroth. Hervorragendes Stuick. ;um den Rand Ornament-
+- Diam. 42 cm. Mit zwei leichten Springen.
+- Nr. 661. Porte-manger, japanisch, bestehend aus zwei gedeckelten Bowlen, die bemalt in blau, roth und gold mit Chrysanthemstauden; montirt in vergoldeter Bronze und mit oberem Traghenkel.
+
+Hohe 30 cm. Ein Deckel gekittet.
+
+- Nr. 662. Barbierschissel, chinesisch, mit halbmondformigem Ausschnitt; Fond und Rand bemalt in Emailfarben mit Blumenvase und Nelkenbouquet auf gelbem Grunde. Hohe 8,Linge 30,Breite 23 cm.In Lederetui
+
+80
+
+<!-- image -->
+190
+
+81
+
+#y0
+
+90
+
+16
+
+859
+
+- Nr. 663. Vier getiefte Kumpen (bols). Die Aussenwandung bemalt in blau, roth und gold mit Blumenstauden, umrahmt von unterer Zacken- und oberer Ornamentbordire; im Fond Blumenzweig, von blauem Reif umschlossen.
+
+Hohe 15,Diam. 26 cm. Zu Service Nr. 657 passend.
+
+- Nr. 664. Finf kleine Kumpen, bemalt in Farben und Gold mit Blumenstauden und Ornamentbordiren.
+
+Hohe 10,Diam.15cm.
+
+- Nr. 665. Sechs getiefte Teller, famille rose. Der aufsteigende Rand gewellt und ausgezackt, im Fond Nelkenbouquet, der Rand mit Blumenstauden in dick aufgetragenen Emailfarben, eingefasst von maschenartig gemusterter brauner Bordire. Sehr frihe gute Qualitat.
+
+Diam.22 cm.
+
+- Nr. 666a. Ein Paar Teller, famille rose, bemalt in dick aufgetragenen Emailfarben mit Nelkenbouquets, Facher und chinesischem Hausgerath.
+
+Diam.22cm.
+
+- Nr. 666b. Ein Paar Teller, famille rose. Im Fond Baumpartie und Blumenstauden, der uberfallende Rand mit Nelkenbouquets.
+
+Diam.23cm.
+
+- Nr. 667. Vier fache Teller, japanisch. Fond und Rand bemalt in blau, roth und gold mit uippigem Blumenwerk.
+
+Diam.22 cm.
+
+- Nr. 668. Sieben Ober- und Untertassen, chinesisch.Die Wandung geschuppt und blau bemalt mit Ast- und Blumenwerk in intensivem blau. Marke in blau.
+
+Hohe 8cm,Diam. der Untertasse 10 cm.
+
+- Nr. 669. Theeservice, chinesisch,bestehend aus: Theekanne, Milchkanne, Theebuchse,Zuckerausserst fein bemalt mit Darstellungen aus dem Leben der Chinesen; um die Rander zieht sich
+- schalchen, sechs hohen und vier fachen Tassen nebst Untertassen. Sammtliche Theile in Emailfarben eine ausgezackte Bordure,die Rankenwerk in gold auf rothbraunem Grunde zeigt.
+
+Hohe der Theekanne 14cm.
+
+- Nr. 67o. Sechs hohe gedeckelte Tassen mit Unterschalen, bemalt in roth und gold mit Blumenstauden in spitz zulaufenden Langmedaillons.
+
+Hohe 10em.2 Stick beschadigt.
+
+- Nr. 670a. Zwei kleine Tassen mit Untertassen, chinesisch,mit gleichem Decor.
+- Nr. 671. Kleines Schailchen, Deckelvaschen und Untertasse, japanisch, mit schwarzem, rothem und goldnem Blumendecor.
+
+Verschiedene Grossen. 3 Stick.
+
+- Nr. 672. Ein Par gedeckelte Wasserkannchen, japanisch, bemalt in blau, roth und gold mit Blumenstauden; den oberen Rand umzieht eine schmale Ornamentbordire in schrafrter Anordnung. Hohe 14cm.
+- Nr. 673. Ein Paar kugelformige Theekannchen, die Leibung mit Flusslandschaft in blauer, rother und goldner Malerei.
+
+Hohe 13cm.
+
+- Nr. 674. Thee- und Milchkannchen in gleichem Decor wie 672.
+d
+
+1- l-
+
+4
+
+1- it
+
+er it
+
+e-
+
+T- en
+
+ch it
+
+m
+
+ld r,
+
+- Nr. 675. Sechs hohe 0ber- und Untertassen, ebenso; selbige bilden mit den Nummern 672 und 674 ein completes Service.
+- Nr. 677. Achtzehn Ober- und siebzehn Untertassen, japanisch,reich bemalt mit Blumenstauden in blau, roth und gold.
+- Nr. 676. Funfzehn flache Ober-und sechszehn Untertassen, japanisch, bemalt in blau, roth und gold mit Blumenranken und zierlichen Ornamentborduren.
+- Nr. 678a. Sechs kleine Tassen mit Untertassen, japanisch, bemalt in Farben und Gold mit Blumenwerk.
+- Blumenstauden und schraffrter Bordire.
+- Nr. 678d. Sechs fache Tassen mit Untertassen, mit reicher Blumenmalerei in blau, roth und gold.
+- Nr. 678c. Sechs Tassen, ganz ahnlich, die Rander mit brauner Bordure eingefasst.
+- Nr. 678e. Drei kleine Tassen mit Untertassen,ahnlich.
+- Nr. 678g. Vier Tassen mit Untertassen,ahnlich.
+- Nr. 678f. Vier Tassen mit Untertassen, hubsch bemalt mit Blumenvase in Farben und Gold.
+- Nr. 678h. Zwei Tassen mit Untertassen, bemalt in Farben und Gold mit Blumenstauden und Bandschleifen.
+- Nr. 678i. Vier Unter- und zwei Obertassen, reich bemalt mit Blattwerk in blau, roth und gold.
+- Nr. 678k. Sieben Unter- und drei Obertassen mit hubschen Landschaftsmotiven in blau, roth und gold.
+- Nr. 678l. Neun verschiedene Ober-und achtzehn verschiedene Untertassen, bemalt in Farben und Gold mit Blumen-und Rankenwerk.
+- Nr. 679. Sechs kleine Tassen mit Untertassen, die Wandung gerippt und blau bemalt mit von Vogeln belebten Blumenstauden. Hohe 4cm.
+- Nr. 68Oa. Finf kleine Schilchen, blau bemalt mit Chinesen in Landschaft und Vogelfiguren.
+- Nr. 68ob. Finf kleine Tassen mit Untertassen,mit Chinesenfiguren und Ornamentbordure in blauer Malerei.
+- Nr. 680e. Finf kleine Tassen mit Untertassen, die Wandung gerippt und blau bemalt mit Blumenstauden.
+- Nr. 680d. Vier kleine Tassen mit Untertassen,blau bemalt mit Drachenfiguren.
+- Nr. 680f. Tasse mit Untertasse,mit blauem Blumendecor.
+- Nr. 680e. Acht Ober-und zehn Untertassen, blau bemalt mit Landschaftsdarstellungen.
+- Nr. 681. Dreizehn Teller, chinesisch, famille rose, der Fond mit Nelkenbouquets und Streublimchen, der Rand mit Blumenranken und fiegendem Reiher, in hibschen Emailfarben.
+- Diam.22cm.13 Stiek.1 gesprungen.
+
+9
+
+30
+
+5
+Nr. 682. Sechs getiefte Teller, japanisch, Fond und Rand bemalt in Farben und Gold mit Blunenstauden und Zackenbordire.
+
+Diam.22 em.6 Stick.
+
+Nr. 683. Sechs Teller, chinesisch, famille rose; im Fond Felslandschaft und Baumpartieen, der Rand mit Blumen und Fruchtbouquets in hibschen Emailfarben. Gute Qualitat.
+
+Diam.23cm.6 Stick.
+
+Nr 684. Zwei fache und zwei getiefte Teller, japanisch, bemalt in blau und gold mit Nelkenbouquet und Rankenbordire.
+
+Diam.22 Cent.4 Stick.1 gekittet.
+
+Nr. 685a. Sechs kleine Tassen mit Untertassen, kapuzinerbrauner Untergrund mit vierpassformig ausgesparten Medaillons, in denen Blumenbouquets in feinen Emailfarben.
+
+Nr. 685b. Vier kleine Unterschalen, ebenso.
+
+Nr. 685c. Ein Paar gedeckelte Zuckerdosen,von gleichem Decor. Hohe 14 Cent.
+
+Nr. 686. Ein Paar Teller, japanisch, bemalt in blau, roth und gold mit Rankenwerk, um den Rand zieht sich eine schmale Ornamentbordire.
+
+Diam.23 Cent.2 Stick.
+
+Nr. 687a. Finf kleine Tassen mit Untertassen, japanisch, die Aussenwandung kapuzinerbraun,die Innenfachen bemalt in blau,roth und gold mit Blumenwerk.
+
+Nr. 687b. Vier kleine Unterschalen, chinesisch, die Aussenwandung kapuzinerbraun, die Innenfachen mit Blumenbouquets in Emailfarben.
+
+Nr. 688. Vierzehn Messer, die Hefte japanisches Porzellan, bemalt in blau, roth und gold mit Lotosblumen und Zackenbordire.
+
+Nr. 689. Ein Paar birnformige Theekannchen, blau bemalt mit Blattwerk.
+
+Hohe 18cm.2 Stuck. 1 gekittet.
+
+bemalt mit Blumen und Rankenwerk.
+
+Verschiedene Grosse. 5 Stick.
+
+Nr. 690a. Zwei hohe Tassen, Banko, mit eingeritzten Blumen; unten eine fachreliefirte Lotos- bordire. Mit eingeritzter Marke.Interessante Stuicke.
+
+Hohe 7cm.2 Stick.
+
+Nr. 691a. Ein Paar birnformige Vasen, japanisch,blau bemalt mit Schilfpfanzen. Hohe 10 cm.2 Stuck.
+
+Nr. 691 b. Vier faschenformige Vaschen mit langem eingeschnurtem Halse,ahnlich. Hohe 6 cm. 4 Stick.
+
+Nr. 692a. Grosse Schussel, japanisch. Der Fond bemalt in blau, roth und gold mit reichem Blumenwerk, der aufsteigende Rand mit schraffirter Ornamentbordire, von Lotosblumen durchsetzt, der iberfallende Rand mit Blumenranken. Gute Qualitat von prichtiger Farbenwirkung. Diam.42cm.
+
+Nr. 692b. Zwei Schusseln, ahnlich, kleiner.
+
+Diam.35 cm.2 Stick.
+t
+
+- Nr. 692c. Zwei Schusseln,ahnlich,kleiner. Diam.32cm.2 Stick,
+
+Nr. 692d. Funf getiefte Teller, ahnlich.
+
+Diam.25 cm.5 Stick.1 gekittet.
+
+Nr. 692e. Sechs flache Teller, ahnlich.
+
+Diam.25 cm.6 Stick.
+
+| Nr. 693a. Ein Paar Tassen mit Untertassen,mit Blumenstauden abwechselnd in Emailfarben und in blau bemalt. Nr. 693b. Hohe Tasse mit Untertasse, chinesisch, die Wandung gerippt und in Emailfarben                                                                                          |     |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+| hubsch bemalt mit Landschaftsmotiv. Nr. 693e. Hohe Tasse, chinesisch, sechsseitig, mit Blumendecor in dick aufgetragenen Emailfarben. Nr. 694. Sechs getiefte Teller, chinesisch, mit ausgezahntem Rande. Fond und Rand in Emailfarben und Gold reich bemalt mit Nelkenzweigen und Astwerk. | 30  |
+| Nr. 695a. Grosse Schuissel, japanisch, der Fond mit Baumpartie in blau, roth und gold, der aufsteigende Rand mit schmaler Ornamentbordire in blau, der iberfallende Rand mit Blumen- ranken in dick aufgetragenen Emailfarben. Diam.39 cm.                                                  | 24  |
+| Nr. 695b. Schussel, ahnlich, kleiner.                                                                                                                                                                                                                                                       | 16  |
+| Diam.36cm. Nr. 695c. Schuissel, ahnlich,kleiner.                                                                                                                                                                                                                                            | 3   |
+| Diam.32cm. Nr. 695d. Schissel, ahnlich, kleiner. Diam.251/2 cm.                                                                                                                                                                                                                             |     |
+| Nr. 695e. Sechs Teller, ahnlich, kleiner. Diam.23 cm. 6 Stuck.2 Stick gesprungen.                                                                                                                                                                                                           |     |
+| Nr. 696. Sechs flache Tassen mit Untertassen, chinesisch, die Wandung gerippt und in Emailfarben bemalt mit Blumenstauden.                                                                                                                                                                  | 34  |
+| Nr. 697. Finf flache Teller, japanisch, der Fond mit Chrysanthemstaude, der iberfallende Rand mit breiter Goldbordire. Diam.221/e cm.5 Stick.                                                                                                                                               | 3#  |
+| Nr. 698. Finfzehn Teller, japanisch, bemalt in blau, roth und gold mit Vase und reichem Blumenwerk, der aufsteigende Rand mit rother Zackenbordire. Diam.23cm.15 Stick.                                                                                                                     | 86. |
+| Nr. 699. Elf hohe Obertassen mit Unterschalen, japanisch, bemalt in blau, roth und gold mit Blumen- und Rankenwerk.                                                                                                                                                                         | 孔1  |
+| Hohe 9 cm.2 Untertassen nicht ganz uniform,1 defect. Nr. 700. Sechs hohe Tassen mit finf Untertassen, chinesisch, bemalt mit Huhnerfamilie in Landschaft.                                                                                                                                   | 20. |
+
+2 Stuick gesprungen.
+50
+
+18
+
+20
+
+- Rand mit Ornamentbordire von Blumen durchsetzt. Gute Qualitat.
+- Diam.23cm. 9 Stick.1 gesprungen.
+- Nr. 702. Neun Ober- und sechs Untertassen, japanisch, bemalt in roth, blau und gold mit Lotosblumen und zierlichem Rankenwerk.
+- Nr. 703. Zwolf fache Tassen mit Untertassen, famille rose, in Emailfarben fein bemalt mit Nelkenbouquet.
+- Nr. 704a. Drei Tassen mit Untertassen, in roth, braun und gold fein bemalt mit Chinesen und Thierfiguren, die Rander ausgezackt.
+- Nr.704b. Zwei Tassen mit Untertassen, in Emailfarben und Gold ausserst fein bemalt mit Chinesen und Vogeln in Landschaft, die Rander ausgezackt.
+- Nr. 705. Sechs Tassen mit Untertassen, famille rose, dunnes Porzellan,mit Nelkenbouquets und griner Ornamentbordire in dick aufgetragenen Emailfarben.
+- Nr. 706. Sechs verschiedene Ober- und neun Untertassen, blau bemalt mit Blumen und Landschaften.
+- Nr. 7o7. Siebzehn getiefte Teller, chinesisch, famille rose,in dick aufgetragenen Emailfarben und Gold bemalt mit Nelkenbouquet und Blumenstaude. Gute Qualitat von tiefleuchtenden.Farben. Diam. 22 cm. 17 Stuick. 2 Stick gesprungen, an den Rindern kleinere Schaden.
+- farben und Gold.
+- Nr. 708. Sechs Ober- und sieben Untertassen, chinesisch, bemalt mit Blattwerk in Email-
+
+1Untertasse gekittet.
+
+- Nr.709a. Getiefte Schissel, japanisch, bemalt in blau, roth und gold mit Chrysanthemstauden und schmaler Ornamentbordure.
+
+Diam.35 cm.Gesprungen.
+
+- Nr. 709b. Zwei getiefte Schisseln,ahnlich.
+
+Diam.30 cm.2 Stuck.
+
+- Nr. 710. Elf kleine Tassen mit Untertassen, chinesisch,dunnes Porzellan, in Emailfarben fein bemalt mit Nelkenzweigen.
+- Nr. 711. Sechs fache Tassen mit Untertassen, Compagnie des Indes, in Emailfarben bemalt mit Blumenbouquets und breiter Randbordire.
+- Nr. 712. Funf Ober- und sechs Untertassen, chinesisch, die Aussenwandung bemalt in schwarz und gold mit Blumenranken, die Innenseite mit emaillirtem Nelkenzweig.
+- in blau und roth mit reichster Vergoldung. Schone Qualitat, auf dem Unterrande zwei Ranken in blau.
+- Nr. 713. Grosse runde Schuissel, japanisch, mit ippigen Blumenbouquets, Ranken und Borten
+
+Diam.35cm.
+
+- Nr. 714. Getiefte Schissel, japanisch, reich bemalt in blau und roth mit prachtiger Ver-
+
+Diam.32 cm.
+
+- goldung. In der Tiefe Lotosblume, auf dem Rande drei Ranken. Sehr schon.
+- einer achteckig
+- Nr. 715. Acht Teller, verschieden, sieben chinesisch, dabei famille rose,e
+
+Verschiedene Grosse.8 Stick.1 gekittet.Werden getheilt verkauft.
+- Nr.716. Sechs 0ber-und Untertassen, chinesisch,famille rose, type au coq in Emailfarben Bandrolle etc.
+- Nr. 717. Zehn Teller, chinesisch, famille rose, farbenprachtig bemalt in Email mit Nelkenbouquets, Ranken und Ornamentbordiren; auf dem Unterrande vier Blumenornamente. Sehr schone Qualitit.
+
+Hohe der Obertassen 43/4 cm.3 Stick leicht gesprungen.
+
+Diam.23cm.10 Stick,1 am Rande unbedeutend gekittet.
+
+- wirkung. Auf dem Unterrande zwei oder vier Blumenranken in braunroth.
+- Nr. 718. Zwolf Teller, wenig getieft, chinesisch, famille rose, mit reichster Emailmalerei. In der Tiefung ein reicher Blumenkorb zwischen ippigen Ranken; die Schragung mit Ornamentbordire, den Rand schmicken vier Blumenguirlanden. Vorzuglich schone Qualitat von prachtiger Farben-
+
+Diam.23 cm. 12 Stick.
+
+- Nr. 719. Elf Teller, wenig vertieft, chinesisch, famille rose, in reichsten Emailfarben und Gold. In der Tiefung ein uippiger Blumenkorb; den Rand schmuckt uberfallend cine reiche Lambrequinbordire mit Blumen und Arabesken, theils auf Rosa-Grund.Auf dem Unterrande drei, bei einem vier Ranken in rothbraun. Ausnehmend schone Qualitat.
+
+Diam.221/2 cm.11 Stick.
+
+- Nr. 720. Sechs Teller, chinesisch, famille rose,mit reichster Emailmalerei mit theilweiser Vergoldung. In der Tiefung ein Blumenbouquet, um den Rand eine breite iberfallende Lambrequinbordure mit Blumen, verschiedenfarbigen Faltern,Emblemen und Attributen. Vortrefflich schone Qualitat. Auf dem Unterrande zwei breite Blattranken.
+- Nr. 721. Sechs Teller, chinesisch, famille rose, sehr reich in Emailfarben und Vergoldung; in der Tiefung Blumenbouquet mit breitem Blatt; den Rand fullt eine ausgeschweifte Bordire mit Blumen und Arabesken, durchsetzt von Langmedaillons mit Blumenranken. Schone Qualitat, sehr reich im Decor.
+
+Diam.221/e cm. 6 Stick. 1 mit Sprung.
+
+Diam.23 cm. 6 Stiek.
+
+- Nr. 722. Vier hohe Obertassen und finf Untertassen, chinesisch, iber blauem Untergrunde in Lackfarben und Gold bemalt mit Stauden, Thierfiguren und Ornamentbordiren. Leichtes, transparentes Porzellan, auf dem Unterboden zwei weite Ranken und Marke in blau. Selten.
+- Nr.723. Vier Ober- und Untertassen, je zwei zusammengehorig, und eine Untertasse, chinesisch, famill rose, mit reichster Emailmalerei, in leichtem, transparentem Porzellan. Verschiedene Grosse.9 Stick.
+
+Hohe der Obertassen 7 cm. 9 Stick. Eine Ober- und eine Untertasse gekittet.
+
+- Nr. 724. Vier blattformige und zwei runde ausgeschweifte Schilchen, japanisch, in blau, roth und gold bemalt mit Blumenwerk und Fischen.
+
+Lange 15,Breite 8cm.
+
+- Nr.725. Zwei geschweifte gedeckelte Kimpchen in Gittermusterung, in roth bemalt, durchsetzt von Langmedaillons mit Drachenfiguren in blau auf weissem Grunde und von kleincn
+
+Hohe 61/e,Diam.111/e cm.2 Stick.
+- zeigt ippige Blumenranken und Facherverzierungen in Gold auf schwarzbraunem Grunde; im Innern Chrysanthem-Blumenranken und Arabesken in schatirtem ziegelroth und gold auf weissem Grunde. Sehr schone und seltene Sticke.
+
+Hohe 9,Diam.19 cm. 2 Stick.
+
+- Nr. 727. Drei Teller, chinesisch, famille rose, in dick aufgetragenen Emailfarben und Gold reich bemalt mit der Darstellung cines von Figuren staffrten Gartens auf einer Fahne, die von Blumenranken umzogen und sich von einer blauen Rolle entrollt; um den Rand cine Ornament-
+- bordire in Rosa. Vorziglich schone und reiche Qualitat.
+
+Diam.23 cm.3 Stuick.
+
+- Nr. 728. Drei Ober- und Untertassen, chinesisch. Leichtes, transparentes Porzellan mit reizvollen Blumenranken in Emailfarben.Gute Qualitat.
+
+Hohe der Obertassen 4cm. 6 Stick,
+
+- Nr. 729. Zwei kleine getiefte Schalchen, chinesisch, famille rose, reich bemalt mit Blumenranken in Emailfarben und mit einer Doppelwandung, deren aussere in Sechsecken und Facher-
+- verzierung durchbrochen. Selten.
+
+Diam.131/s cm. 2 Stick.
+
+- Nr.730. Zwolf tiefe Teller, Suppenteller, chinesisch, in Emailfarben und reichster Vergoldung. Die Tiefung zeigt in einem von einer Goldborte mit Drachenfiguren umrahmten Medaillon eine sitzende Furstin beim Thee, von zwei Figuren bedient; um den Rand Langmedaillons mit Vogeln und Blumen in grisailleartiger Tuschmalerei, an der Borte von zierlichen Goldarabesken
+- verbunden. Sehr schone Qualitat, reich und selten im Decor.
+
+Diam.22cm.12 Stick.
+
+- Nr.731. Neun wenig getiefte Teller, japanisch, in blau, roth und gold reich bemalt mit Blumenstauden und mit Chrysanthemblumen in gelbem Email. Schone Qualitat.
+
+Diam.22cm.9 Stick.3leicht gesprungen.
+
+- Nr. 732. Zwei Satze von je sechs sich verjungenden, in einander gestelten chinesisch, famille rose, type au coq, in Emailfarben bemalt mit Blumen und Hahnenfiguren; um den inneren Rand zieht sich eine reizende Arabeskenbordure auf lichtgrauem Grunde. Leichtes, transparentes Porzellan.
+
+Hohe von 6zu 31e cm. 3 leicht gesprungen.
+
+- Nr. 733. Grosse rumde Schussel, eine desgl., wenig kleiner, vier desgl., kleiner, und 27 Teller, chinesisch, famille rose, in Emailfarben und Gold reich bemalt, in der Tiefung mit Blumenstauden,
+- um den Rand mit drei weiten Ranken. Sehr gute Qualitat.
+
+Diam. der Schusseln 36,32 und 29 em., der Teller 23cm. 33 Stuck.
+
+- Nr. 734. Neun flache Teller, chinesisch, famille rose, in glanzenden Emailfarben reich bemalt; in der Tiefung Blumenbouquet neben Vase und Facher; den Rand filt eine ausgeschweifte Bordure mit Blumen auf weissem Grunde und Arabesken in schwarz und in Farben und Gold auf hellgrinem und Rosa-Grunde. Vorzugliche Qualitat.
+
+Diam.23 cm.9 Stick.
+
+Nr. 735. Zwolf fache Teller, chinesisch, famille verte, in Emailfarben und Gold reich bemalt, in der Tiefung mit Blumenbouquet, um den Rand mit Ranken und Lambrequins; die Tiefung und den Rand umzieht eine Maeanderborte in blau. Sehr schone Qualitat und sehr apart im Motiv.
+
+Diam.23 cm.12 Stick, 1 mit Sprung.
+
+- Obertassen,
+e
+
+- Nr. 736. Grosse Schissel, chinesisch, famille rose, mit Blumenstauden und Ranken reich bemalt in Emailfarben und Gold; um den aufliegenden Rand zieht sich eine Ornamentbordure in schwarz auf hellgrunem Grunde. Schone Qualitit.
+
+Diam.38 cm.Rand leicht gekittet.
+
+- Nr. 737a. Sechs fache Teller, chinesisch,in Emailfarben und Gold bemalt mit Blumenwerk und zweifacher Ornamentbordure.
+
+Diam.22cm.6 Stick.
+
+- Nr. 737b. Drei flache Teller, japanisch, bemalt in blau, roth, grun und gold mit Blumenwerk. Diam.22cm.3 Stick.
+- Nr. 738. Vier runde Schalen, chinesisch, die Wandung gerippt und am Rande gezahnt, die Innen- und Aussenfachen in Emailfarben bemalt mit Facher, Ast- und Blumenwerk. Hohe 9,Diam.19 cm.
+- iberfallende Rand mit Schilfdecor. Sehr schone Qualitat von intensiven Farben. Hohe 7,Diam.31 Cent.
+- Nr.740. Sechs flache Teller, famille rose,in dick aufgetragenen Emailfarben bemalt mit Blumenvase und Nelkenzweigen; den Rand umzieht eine breite ausgeschweifte Ornamentbordure. Sehr gute Qualitat.
+
+Diam.221/cm.6 Stuck.
+
+- Nr. 741. Kleine Bowle mit Unterschale, Damast-Porzellan, vorherrschend in schwarz und gold bemalt mit weiblicher Chinesenfigur, eine Vase bemalend; um die Rander ziehen sich zierliche Blattborduren und schmaler Goldreif. Sehr gute Qualitat von iberaus feiner Malerei.
+- Nr. 742. Barbierschissel in derselben Ausfuhrung wie Nr. 739. Hohe 5, Diam.27cm.
+
+Hohe der Bowle 7,Diam.14 cm.Diam. der Unterschale 21 cm.
+
+- Nr. 743a. Grosse Schussel, chinesisch, famille rose. Der Fond mit Nelkenbouquet und Felspartieen, der Rand mit breiter, ausgeschweifter, schuppenartig gemusterter Bordire mit aufliegenden Blumenzweigen in dick aufgetragenen Emailfarben. Vorzigliche Qualitat.
+
+Diam.35 cm.
+
+- Nr. 743b. Getiefte Schussel, ahnlich. Diam.31 cm.
+- Nr. 743c. Teller, ahnlich,kleiner. Diam.23cm.
+- Nr. 744. Sechs fache Schalen mit gezahntem Rande, chinesisch, in Emailfarben bemalt mit Chinese in Landschaft, Hausgerath und Blumenmedaillons. Diam.24 em.6 Stick.2 Stuick beschidigt.
+- Nr. 745a. Grosse Schissel, japanisch; der Fond mit Blumenstaude, der aufsteigende Rand mit blau schraffrter Ornamentbordire, der iberfallende Rand mit Blumenbordire.
+
+Diam.34 cm.
+
+- Nr. 745b. Schussel, ahnlich, kleiner.
+
+Diam.32cm.
+
+- Nr. 745e. Neun Teller, ahnlich. Diam.221/a cm.9 Stuick.1 gesprungen.
+- Nr.746. Ein Paar fache Teller, japanisch, die Wandung gerippt und bemalt in Farben und Gold mit Fasanen in Astwerk,Blumenbouquets und Guirlanden.
+
+Diam.22cm.
+
+- Nr.747a.Grosse Schissel,japanisch,der Fond bemalt in blau,roth und gold mit Nelken herrschend in blau mit Rankenwerk.
+
+Diam.32cm.
+
+- Nr. 747b. Vier Schisseln,hnlich,kleiner.
+
+Diam.29 cm.4 Stick.
+
+Nr. 747c. Achtzehn Teller, ahnlich,kleiner.
+
+Diam.23 cm.18 Stiek.
+
+- Nr. 748. Sieben Teller, japanisch, bemalt in blau, roth und gold mit Blumenstaude und breiter ausgeschweifter Randbordure.
+
+Diam.23 cm.7 Stuiek.1 Stick gesprungen.
+
+- Nr. 749. Zwolf flache Teller, japanisch, bemalt in roth und gold mit Blumenzweigen, Astwerk und schmaler Ornamentbordire.
+
+Diam.221/e cm.12 Stick.
+
+- Nr. 750. Vier flache Schisseln, japanisch, bemalt in blau,roth und gold mit Landschaftsmotiven und Blumenwerk.
+
+Diam.28em. 4 Stick.
+
+- Nr. 751. Zwei flache Kimpchen, japanisch; die Aussen- und Innenwandung bemalt in blau, roth und gold mit Chrysanthemstauden und roth schraffirter Bordire.
+
+Hohe 8,Diam.27cm. 2 Stuck.
+
+- Nr. 752.Drei kleine Kimpchen, zwei chinesisch,eins japanisch,bemalt in Farben und Gold mit Blumen- und Rankenwerk.
+
+Hohe 7,Diam.15 cm.3 Stick.
+
+Nr. 753. Zwei kleine Kumpen, chinesisch,mit reichem Blumendecor.
+
+Diam.15 cm.2 Stuck.
+
+- Nr. 754. Grosse zehnfach abgeflachte Kumpe (bol), japanisch,die Innenwandung mit Blumenranke und oberer blauer Blattbordure, die Aussenwandung mit Chrysanthemstauden auf weissem und Goldsternchen auf blauem Grunde.
+
+Hohe 12,Diam.25 cm.
+
+- Nr. 755. Kleine Kumpe, japanisch, die Aussenwandung in Langzonen eingetheilt,in denen Blumenwerk und facherformige Verzierungen in blau,roth und gold.
+
+Hohe 9,Diam. 19 cm.
+
+- Nr.756a. Gedeckeltes Kimpchen, japanisch, die Wandung gerippt und bemalt in blau, roth und gold mit Chrysanthemstauden.
+
+Hohe 12,Diam.15 cm.
+
+- Nr. 756b. Zwei Kumpchen, japanisch, die Wandung glatt und mit gleichem Decor. Hohe 8,Diam.15 und 18cm.
+- Nr. 757. Fuinf hohe gedeckelte Ober- umd sechs Untertassen, japanisch, mit drei grossen ausgesparten Medaillons,in denen Blumenkorbe.
+
+Hohe der Obertassen 12cm.Diam.der Unterschalen 15 em.
+- Nr. 758. Ein Paar getiefte Teller, japanisch, bemalt in blau, roth und gold mit Chrysanthemstaude und breiter, zierlich gemusterter Randbordure.
+
+Diam.22cm.2 Stuck.
+
+- Nr. 759. Grosse getiefte Schussel, chinesisch, mit gezahntem Rande, der Fond mit Nelkenintensiven Farben.
+
+Diam.31 cm,
+
+- Nr. 760. Ein Paar getiefte gedeckelte Schalchen auf drei kurzen Fussen, japanisch, die Innen- und Aussenwandung bemalt in blau, roth und gold mit breiter ausgeschweifter Bordire.
+- Hohe 7,Diam.15 cm.2 Stick.
+- Nr. 76i. Zwei Theekannchen, japanisch, bemalt in blau, roth und gold mit Blumenwerk, Vasen und zierlichen Ornamentborduren.
+
+Hohe 16 und 11 cm.
+
+- Nr. 762. Sechs hohe Tassen mit Untertassen, chinesisch, in Emailfarben bemalt mit Dar-
+
+1 gekittet,1 gesprungen.
+
+- stellungen aus dem Leben der Chinesen.
+- Nr. 763. Vier hohe Tassen mit Untertassen, in Emailfarben hubsch bemalt mit Fasanen auf Blumenzweigen und oberer Blumenbordire.
+
+1 Untertasse nicht dazu gehorig.
+
+- Nr. 764a. Drei Schalen mit Ranken und einzelnen Blumen und mit Randborten in schwarz
+
+Diam.24 cm.2 leicht gesprungen.
+
+- auf hellgrinem und Rosa-Grund.
+- Nr. 764b. Runde Schale, grosser, ahnlich im Decor. Diam.261/e cm.Leicht gesprungen am Rande.
+
+Diam.201gcm.
+
+- Nr. 764c. Runde getiefte Schale mit einer reichen Landschaftsdarstellung; um den Rand eine schmale Bordire in Rosa.Vorzigliche Qualitat.
+- Nr. 764d. Kumpige Schale mit mittlerer Nelke, kreuzformig umstellt von vier Blumenbouquets, der Rand mit Borte in Rosa.
+
+Diam.22 cm. Mit leichtem Sprung.
+
+- Nr. 764e. Kumpige kleine Schale mit grosser Tiefung, reich bemalt mit Stauden, Ranken und Attributen. Sehr schon.
+
+Diam.161/2 cm.
+
+- Nr. 765. Neum flache Teller, japanisch, bemalt in blau, roth und gold; im Fond Lotosblumen, der aufsteigende Rand mit schraffirter Bordure, der iberfallende Rand mit Blattwerk.
+
+Diam.22cm.9 Stuek.
+
+- Nr. 766. Runde Schissel, japanisch, bemalt in blau, roth und gold mit Blumen- und Rankenwerk.
+
+Diam.27cm.
+## Fayencen.
+
+- 31 Nr.767. Kimpchen, doppelt gehenkelt, mit Deckel, in chinesischen Geschmack dcorirt,
+- Fabrikat.
+
+Verschiedene Grosse.3 Stick.
+
+- 14 Nr.768.Theekanne in Kugelform,und Milchkanne,mit reichem Blumendecor. Ostschweizerisches Fabrikat. Marke:IHF.
+
+Hohe 11und 15 cm.2 Stiek.
+
+- 23 Nr. 769. Hohe Kaffeekanne in conischer Form, mit langem Handgriff, bemalt mit Blumenbouquets und Streublumchen. Zuricher Fabrikat. Marke: Z in blau. Hohe 18cm.
+- Nr. 770. Ein Paar Rococo-Potpourrivasen, doppelt gehenkelt und mit Deckel,reich bemalt mit Ornamenten in roth und Blumenbouquets in bunt; als Deckelknopf eine Rosenknospe. Sehr feine hervorragende Sticke, reich in der Form und hubsch im Decor. Strassburger Fabrikat
+
+Hohe 24 cm.2 Stick. Eine mit leichtem Haarriss,sonst tadellos von Erhaltung.
+
+- 300 (J. Hannong). Marke: H 1047.
+- Nr. 771. Ein Paar hohe doppelt gehenkelte Blumentopfe, reich bemalt mit Blumenbouquets und Streublumchen in lebhaften, emailartig aufliegenden Farben. Strassburger Fabrikat. Hohe 18,Diam.21 cm.2 Stick.
+- Nr.772.Barbierschissel,sehr tief und mit geschweiftem Rande,reich bemalt mit kleinen Bouquets und Streublumchen. Ostschweizerisches Fabrikat. Marke:B IP. Hohe 9,Lange 36,Breite 26 cm.
+
+Nr. 773. Teller mit ausgeschweiftem Rande,bemalt mit Chinesenfigur in Landschaftsmotiv
+
+H und mit Blumen. Strassburger Fabrikat (J. Hannong). Marke: 39
+
+Diam.24cm.
+
+- Nr.774. Drei kleine Sehusseln, gerippt und mit gewelltem Rand, in tiefblau bemalt mit Landschaftsmotiven und Vogeln.Frankisches Fabrikat.
+
+Diam.23,23 und 19 cm.3 Stick.
+
+- Nr.775. Zwei Schisseln, doppelt gerippt und mit gewelltem Rand. Hartmasse, in schonem Tiefblau bemalt mit staffrten Landschaftsdarstellungen in chinesischem Geschmack.Ostschweize-
+- risches Fabrikat.Marke:C.
+
+Diam.33cm.2 Stuck.
+
+22. Nr. 776. Zwei Schuisseln, doppelt gerippt und mit geweltem Rand, blau bemalt, die eine mit Landschaftsdarstellung, die andere mit Blumenstaude und Vogeln. Ostschweizerisches Fabrikat. Diam.29 em.2 Stick.
+2. Nr. 777. Hohe Henkelkanne in Birnform, mit langem Halse. Festes weisses Email, in Horizontalreihen in schonem Blau fein bemalt mit Palmetten und Blumenranken. Kieler Fabrikat.
+43. Marke:K. B. Sehr schones Stick.
+
+Hohe 34 cm.Zinndeckel.
+- Nr. 778. Zwei Henkelkrige mit blauer Malerei, der eine mit gefochtenem Henkel und dem Opfer Abrahams in reicher Landschaftsdarstellung, der andere mit Blumenranken und Vogeln. Ostschweizerisches Fabrikat.
+
+Hohe 22und 20cm.Zinndeckel.2 Stick.
+
+- Nr. 779. Ein Paar Trinkgefasse in Form hoher Stulpenstiefel,reich bemalt in blau mit Blumen, Ranken und Arabesken. Delfter Fabrikat. Marke: M. Interessante Stucke.
+
+Hohe 22 cm.2 Stick. Restaurirt.
+
+- Nr. 780. Flache Schale, geschweift, auf vier elegant geschwungenen Fussen, in blau reich bemalt mit Blumenguirlanden. Franzosisches Fabrikat. (?)
+
+Hohe 16,Linge 18,Breite 15 cm.
+
+- Nr. 781. Henkelkrug in Eiform,mit schmalem,oben erweiterndem Halse; die Vorderfache zeigt in tiefblau einen aufrecht stehenden Baren zwischen der Jahreszahl 16-76 und mit der Ueberschrift:Paulus .Heinrich .Ursinus."(Beerli).Ostschweizerisches Fabrikat.
+
+Hohe 27cm. Zinndeckel.
+
+- Nr. 782. Zwei grosse Sehisseln, doppelt gerippt und mit geweltem Rande, in schonem Lichtblau bemalt mit uippigen Blumenstauden, auf denen Vogel. Ostschweizerisches Fabrikat. Sehr sehone Qualitat.
+
+Diam.40 cm.2 Stick.
+
+- Nr. 783. Grosse kumpige Schissel mit stark geweltem Rande,in schonem Tiefblau bemalt in japanischem Geschmack mit Landschaftsdarstellung mit Figurenstaffage. Schweizerisches Fabrikat. Marke:I.S.
+
+Diam.40cm.
+
+Nr. 784. Sehr hohe Henkelkanne, die Leibung gerippt, in abgefachter Kugelform, nach Art
+
+Hohe 42 cm. Am Halse und am Fusse leicht gekittet. Zinndeckel.
+
+der Wurstkrige, die Mittelweitung mit durchbrochener Sternrosette, der Henkel doppelt gefochten; die ganze Oberfache bedecken engliegende Blumen- und Blattranken, vorwiegend in blau, gelb, grin und mangan in leuchtender Farbung. Prachtiges und interessantes,der grafl. Castellischen Fabrik zu Rehweiler zugeschriebenes Stuck. Sehr selten.
+
+- Nr. 785. Ein Paar hohe Henkelkannen in Birnform,mit sehr langem Halse,in schonem Blau reich bemalt mit uippigen Blumenbouquets, Ranken, Guirlanden, Vogeln und Faltern. Ost schweizerisches Fabrikat mit Marke A. Sehr schone Exemplare von seltener Grosse und tadelloser Erhaltung.
+
+Hohe 38cm.Zinndeckel.2 Stick.
+
+- Nr. 786. Hohe Henkelkanne in Birnform, stark gerippt und mit doppelt verflochtenem Henkel,
+
+Hohe 34 cm.Zinndeckel.
+
+in sehr schonem Blau reich bemalt mit Landschaftsdarstellung in chinesischem Geschmack mit Figurenstaffage. Sehr schoner Krug. Frankisches Fabrikat.
+
+- Nr. 787. Henkelkanne in Birnform, mit sehr langen Halse, in schonstem Blau reich bemalt a la Japonaise mit Blumen und Vogeln. Ostschweizerisches Fabrikat. Marke: j.
+
+Hohe 34 cm. Zinndeckel.
+
+28
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+1.5
+
+<!-- image -->
+
+<!-- image -->
+
+40
+<!-- image -->
+
+300
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Arbeiten in Steingut.
+
+## a. Weiss.
+
+- Nr. 788. Mittlere Siegburger Schnelle, in drei Langreihen getheilt, von denen die mittlere cine Darstellung des Liebesbrunnens zeigt, zu dessen Seiten auf den aiusseren die interessanten Costumfiguren eines Herrn, einen Falken, und einer Dame, cine Blume in der Hand haltend; den Grund fullen feingestengelte, von Vogeln belebte Ranken und Stauden, Thierfiguren als Symbole Vortrefflicher und seltener Krug, die Zeichnung an Holbein anklingend; der Treue（Hund) etc.
+- vorzuglich in der Farbe und sehr scharf in der Pressung.
+
+Hohe 22 cm. Zinndeckel.
+
+- Nr. 789. Mittlere Siegburger Schnelle; in drei Langfeldern der dreimal sich wiederholende Reichsadler mit den Insignien des goldenen Vliesses, mit der Jahreszahl 1573 und Topferstempel HH. Ueber den Langreihen zwei Kordelfechtmedaillons mit Wappen in verschobener Raute mit reicher Helmdecke und Jahreszahl 1582. Schoner Krug von seltener Ornamentation und scharfer Pressung.
+
+Hohe 26 cm. Zinndeckel.
+
+- Nr. 790. Grosse Siegburger Schnelle; in drei Langfeldern,mit sich wiederholenden Dar-
+- stellungen; ein mittleres Langmedaillon mit der Kriegerfigur Davids ist oben und unten von Rund medaillons umstellt, welche das Opfer Abrahams und Loth mit seinen Tochtern zeigen; den Grund fullen reizvolle Renaissance-Laubarabesken. Sehr schones Stuick, scharf in der Pressung.
+
+Hohe 321/2 cm. Oben leicht gekittet.
+
+- Nr. 791. Grosse Siegburger Schnelle; die Korperweitung zeigt in drei Langfeldern in interessanten Costimfiguren Sol, Venus und Jupiter mit den betreffenden Attributen unter Banderolen mit den Namensaufschriften und Jahreszahl 1593, unter einem Renaissancebogen stehend, dessen Bekronung uppiges Ornamentwerk mit Mascarons und Figuren fillt, wahrend auf den Bristungen Wappenschilder, dabei der Doppeladler und das Bayerisch-Pfalzische Wappen. Mit Hausmarke und
+- Topfermonogramm HH. Sehr schoner Krug, sehr scharf in der Pressung.
+
+Hohe 26 cm. Zinndeckel.
+
+- Nr.792. Mittlere Siegburger Schnelle; die Leibung zeigt in drei Langfeldern in der Mitte mit: BREMENSI; auf der Brustung das von zwei heraldischen Lowen gehaltene Bremer Wappen.
+- den Reichsadler mit dem Bremer Wappen als Brustschild mit Jahreszahl 1591 und Monogramm C. M. Vortrefflicher Krug, sehr scharf in der Pressung.
+
+Hohe 26cm.
+
+- Nr. 793. Mittlere Siegburger Schnelle; die drei Langfelder, verschieden,zeigen in der Mitte
+- in reichsten Ornamentmedaillons die Figuren von Marcurius (sicl), Jupiter und Venus; oben und unten zwischen feinen Laubranken Medaillons mit Wappen, dabei der Doppeladler, das JulichCleve-Bergische Wappen, das Wappen der Fugger etc. Mit Topfermonogramm H H und Jahreszahl 1584. Vortrefflicher Krug, reich in der Ornamentik und scharf in der Pressung.
+
+Hohe 25 cm. Zinndeckel.
+
+- Nr. 794. Mittlere Siegburger Schnelle; die Leibung in drei Langfelder getheilt, welche in
+- der Mitte Medaillons mit den Standfguren Josuas, Alexanders und Davids mit der Jahreszahl 1589
+e
+
+6
+
+Augsburg, Koln und Nurnberg, mit gleicher Jahreszahl; unterhalb die bayerischen, sachsischen und wurttembergischen Wappen. Interessantes, sehr scharfes Stuck.
+
+Hohe 23 cm.
+
+Nr. 795. Sehr hohe Siegburger Schnelle; in drei Langfeldern,in Vierpassen und Polygonen sich wiederholend Christus und die Samariterin am Brunnen, Judith und Susanna im Bade. Mit Topfermonogramm: I W.
+
+Hohe 32 cm.Zinndeckel. Zweifelhaft.
+
+Nr. 796. Siegburger Henkelkanne in Birnform; vorne cin Engel als Wappenhalter mit dein Julich-Cleve-Bergischen Wappen; seitlich sehraglaufend zwei Ornamentbander mit reizvollen Renaissance-Arabesken mit Medaillonkopfen ete. Hubscher, interessanter Krug, aber wohl Arbeit des P. Lovenich.
+
+Hohe 25 cm. Zinndeckel.
+
+Hohe 31 cm.
+
+## b. Braun.
+
+Nr. 797.Hoher Raerener Krug,Kurfurstenkrug",in eleganter Vasenform; der breite Mittelfries zeigt sieben Bogenstellungen mit den Brustbildern der Kurfursten, ihre Wappen haltend, mit den betreffenden Aufschriften und Jahreszahl 1602; der Hals mit Renaissancefries. Sehr schones Exemplar, glanzend im Email und tadellos in der Erhaltung.
+
+Nr. 798. Hoher Raerener Krug,Kurfurstenkrug", in eleganter Vasenform; der lange Hals mit spitz zulaufendem Ausguss, an dem ein charakteristischer Mascaron; um die Bauchweitung die den betreffenden Aufschriften und der Jahreszahl 1602. Formschoner Krug, prachtig in der Farbe und scharf in der Pressung.
+
+Hohe 33 cm. Zinnfuss und Zinndeckel.
+
+zwischen reliefirten Medaillonkopfen und Palmetten ein Spruchband mit, sich mehrfach wiederholend: DRINCK:VND :EST:GODES:NIT :VERGEST";der Hals mit grossem charakteristischen Mascaron. Schones Exemplar.
+
+Hohe 26 cm.Zinndeckel.
+
+Nr. 8OO. Hohe Raerener Henkelkanne in schlanker Birnform mit langem geripptem Halse;
+
+Hohe 31 cm.Zinndeckel.
+
+auf der Korperweitung drei grosse Wappenmedaillons, in dem vorderen das sachsische Wappen mit A° 1577 Herzog zu Sachzen" und Monogramm L W; die seitlichen unbenannten Wappen mit dem Monogramm E M. Glanzendes Email.
+
+Nr. SO1. Kleiner Raerener Henkelkrug; der Korper in wenig geplatteter Kugelform gefurcht und gerippt und mit mittlerem Wulstband; um den Hals ein Renaissancefries mit Ranken, Mascarons und Jahreszahl 1576.
+
+Hohe 17cm. Zinndeckel.
+
+Nr. 802. Raerener Krug, ,Bauerntanzkrug", in Vasenform, mit breitem Mittelfries, auf dem unter sieben Renaissance-Bogenstellungen die Darstellung des Bauerntanzes in einzelnen Paaren; mit Jahreszahl 1598.
+
+Hohe 25 cm. Zinndeckel.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+185
+
+<!-- image -->
+
+51
+
+105
+
+65
+
+80
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- Nr.803.Hoher Frechener Bartkrug in Birnform;um die Mittellibung zieht sich ein Schrift
+- band mit dem sich dreimal wiederholenden Spruch: WAN/ GOT/VILT / SO /IST /MEIN / ZIEL, ober- und unterhalb desselben reliefirte Palmetten und Medaillonkopfe; der lange Hals mit charak. teristischem Mascaron.
+- Nr. 804. Raerener Henkelkrug in Birnform; die Leibung mit drei hochreliefirten Wappenmedaillons, die ausseren mit dem franzosischen Wappen mit der bekannten Umschrift und Jahreszahl 1596; in dem mittleren doppeltbehelmtes Wappen mit der Umschrift: Peter : Swartzenburch : Renaissancefries mit Medaillonkopfen. Schoner Krug von glanzendem Email.
+
+Hohe 33 cm. Zinndeckel.
+
+Hohe 281/ecm.Zinndeckel.
+
+- Nr. 805. Viereckige Frechener Flasche mit Zinnschraube; auf der Vorderfache cin doppelt. behelmtes Wappen mit reicher Helmdecke; an den Ecken der oberen Weitung hochreliefirte Mascarons.Interessantes Stuck.
+
+Hohe20em.
+
+- Nr. 806.Kleiner Kolner (Frechener) Bartkrug; die kugelformige Leibung mit hochreliefirten,
+- fott verschlungenen Eichenlaubranken; der Hals mit charakteristischem Masearon. Hubscher Krug. Hohe 18 cm. Zinndeckel.
+- Nr.8O7. Zwei kleine Frechener Bartkrige,braun, mit Inschriftbandern, Palmetten und Medaillonbisten; der eine mit Jahreszahl 1599.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Hohe 15und 14cm.2 Stick.
+
+Nr. 808. Drei verschiedene einfache Frechener etc.Bartkrige.
+
+Hohe 22,21und 14cm.1beschadigt.3 Stick.
+
+## c.Grau-blau und grau-blau-violett.
+
+- Nr. 809. Hoher Raerener Krug,Kurfurstenkrug", grau-blau, in Vasenform,in reizvoller Musterung des Korpers; der Mittelfries mit sieben Renaissance-Bogenstellungen, unter denen die
+- Brustbilder der Kurfirsten mit ihren Wappen,mit Aufschriften und Jahreszahl 1602; der Hals mit Ornamentfries. im ippigsten Renaissancestil mit Hatormasken und Medaillonkopfen. Sehr guter Krug.
+
+Hohe 32cm.Der Hals oben mit leichtem Haarriss.
+
+- mit spitzem Ausguss, an dem ein Mascaron; die Mittelweitung des gefurchten und geriffelten Korpers zeigt einen schmalen Fries mit den ausziehenden Landsknechten,nach J. Th. de Bry. Guter
+
+Hohe30cm.
+
+- scharfer Krug.
+- theils gefurchter Ornamentation des Korpers; das cylindrische Mitteltheil zeigt cinen Fries mit acht Schwyz, Unterwalden und Basel, von Schildhaltern gehalten; der Hals mit Ornamentfries. Selten
+
+Hohe 34 em.Fuss und Hals mit starker Zinnfassung.
+
+- vorkommender, formschoner und wirkungsvoller Krug.
+
+Paot.
+- Nr. 812. Hoher Nassauer Krug, durchbrochener Sternkrug, grau-blau, in schlanker Birnform. Vorne in grossem Perlmedaillon ein achtzackiger reicher Stern mit durchbrochener Mittelder lange Hals mit Mascaron. Sehr schoner Krug von eleganter Form, scharfer Pressung und glinzendem Email. Zinnfuss.
+
+Hohe 34cm.
+
+- Nr. 813. Nassauer Henkelkanne in Birnform, grau-blau, mit scharf gepressten Herzornamenten und Blumen; der Hals mit Mascaron.
+
+Hohe 21 cm.
+
+- Nr. 814. Hohe Nassauer Henkelkanne in Birnform, grau-blau; die Leibung in vier Horizontalreihen bedeckt mit hochreliefirten gefugelten Engelskopfen; am Halse ein charakteristisches scharfes Mascaron. Guter, decorativ wirkender Krug.
+
+Hohe 32 cm. Zinndeckel.
+
+- Nr. 815. Sehr hohe Henkelkanne in Birnform, grau-blau, die ganze Leibung in hohem scharf santes Stuck. Wahrscheinlich Meckenheimer Fabrikat.
+
+Hohe 42 cm. Henkel ergainzt.
+
+- Nr. 816. Nassauer Henkelkanne, grau-blau,in Birnform, mit uppigen Ranken und Ornamentwerk, zwischen denen, sechsmal sich wiederholend, der gekronte Doppeladler zwischen den Initialen A-R.Gutes Email.
+
+Hohe 26 cm.
+
+- Nr.817. Vierseitige Nassauer Warmflasche, grau-blau,mit ornamentirter Zinnschraube; die von Perlband umzogenen Wandungen zeigen ein grosses Medaillon mit dem dreifach behelmten graflich Leiningen'schen Wappen mit der Umschrift: Friderich. Emich. Graf . zu. Leiningen. vnd. Taxburg.Herr.zu.Appirmun" und mit der Jahreszahl 1678; auf der oberen Wandung Reliefblumen. Sehr gutes Stick,vortrefflich im Email.
+
+Hohe 22cm.
+
+- Nr. 818. Nassauer Warmflasche, vierseitig, grau-blau, mit Zinnschraube; die Flachen zeigen in einem Kranze von Reliefblumen ein Achteck mit unbekanntem Wappen mit Jahreszahl 1685. Hohe 23cm.
+- Nr. 819. Nassauer Krug, "Landsknechtskrug", in eleganter Vasenform; die Leibung in gefurchter und gerifflter Musterung mit einem Mittelfries mit den ausziehenden Landsknechten, wie bei Nr. 810; der Hals mit Ornamentfries. Vorziglicher Krug, sehr schon im Email.
+
+Hohe 24 cm.Zinndeckel.
+
+- Nr. 820. Zwei Nassauer Henkelkannen in Kugelform, grau-blau; die eine mit dem Doppel adler in Achteck mit Jahreszahl 1688, die andere mit einem sich zwischen Ranken sechsmal wiederholenden Medaillon mit der Figur eines sitzenden Rauchers.
+
+Hohe 20und 18cm.2 Stick.
+
+- Nr. 821. Nassauer Henkelkanne,Sternkrug, grau-blau-violett; vorne ein doppeltes Sternmedaillon mit mittlerem Mascaron, seitlich eine Lisene von Maskenkopfen von Sternzacken eingefasst; der Hals mit Mascaron. Sehr schone Qualitat.
+
+Hohe 22 cm. Zinndeckel. Am Halse unbedeutende Stickchen ausgesprungen.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+110
+
+<!-- image -->
+
+<!-- image -->
+
+225
+
+<!-- image -->
+
+<!-- image -->
+
+30.
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- Nr. 822. Zwei vierseitige Nassauer Flaschen, grau-blau; die cine mit der Inschrift: ,OMNIA. AD. MAIOREM . DEI.GLORIA (M). A. Z.G . E . G .", die andere mit Blumenstauden und Rosetten. Hohe 25 und 21cm. 2 Stick.
+- Nr. 823. Vier verschiedene kleine Nassauer Henkelkrige: a. Kleiner Sternkrug, grau-blauPalmetten und Halsmascaron, grau-blau. Hohe 16 cm.
+- Nr. 824. Seidelformiger Henkelkrug, grau, horizontal gerippt mit breitem Mittelfries, auf dem, dreimal sich wiederholend, die Darstellung Daniels in der Lowengrube, mit oberer Aufschrift. Spates Siegburger Fabrikat.
+
+Hohe 17 cm. Zinndeckel.
+
+## d. Glasirte Kruge.
+
+- Nr. 825. Sehr hoher Henkelkrug mit eiformigem Korper, auf Fussansatz, dunkelbraun glasirt; die Leibung ist mit Palmetten in sehr hohem Relief geschmuckt; um den cylindrischen Hals zieht sich in hochreliefirten Initialen die doppelreihige Aufschrift:DRINCKH  VND IS GOT /TES NICHT  VERGIS.IH."Interessantes Stuck.Nirnberger Fabrikat.
+
+Hohe 34 cm. Zinnfassung.
+
+- Nr. 826. Flasche in Birnform, vierseitig abgefacht, gruin glasirt, in hohem Relief geschmickt mit Ornamenten, Palmetten und Figuren,unter denen,zweimal sich wiederholend,der Salvator. Nirnberger Fabricat.
+
+Hohe 29 cm.Zinnschraube.
+
+- Nr. 827. Seidelformiger Krug;brauner Grund mit hochreliefirten Pressverzierungen mit farbiger Emaillirung und theilweiser Vergoldung; oben und unten wulstformiges Band mit Lilienverzierungen; der schmale,von Ornamentbandern umfasste Mittelfries geschuppt. Sichsisches Fabrikat. Vorzigliche Qualitat.
+
+Hohe 12,oberer Diam.10cm.Zinndeckel.
+
+<!-- image -->
+
+D
+
+de
+
+D
+
+2
+
+D
+
+0
+
+m
+
+m
+
+M
+
+A
+<!-- image -->
+
+## Majoliken.
+
+Die sub Nr. 828-854 verzeichneten Majoliken stammen aus dem bischoflich Konstanzschen Palaste in Meersburg, aus dessen Inventar sie von dem verstorbenen Herrn Joh. Nic. Vincent nach Aufhebung des Bisthums erworben wurden.
+
+- Nr. 828. Urbino.Kumpige Schale, wellenformig faconnirt, auf hohem Fusse, Fruttiera scannellato" Die Tiefung zeigt den Triumph der Galathea. Die Gottin wird von einem Delphin iber das Meer getragen, begleitet von Amoretten und Delphinen; in der Hohe Amoretten mit Lorbeerzweigen. Die reizvolle,an Raphael anklingende Composition ist in wunderbarer Belebung der Flache in die Inschrift:Galattea". Prachtvolles Stuck,dem Orazio Fontana zugeschrieben.
+
+Hohe 7,Diam.25 cm. Am Rande ein unbedeutendes Stickchen ausgebrochen.
+
+- Nr. 829. Urbino. Kumpige Schale, faconnirt,auf hohem Fusse,Fruttiera scannellato“, mit
+
+Hohe 8,Diam.27 cm. Mit leichtem Sprung.
+
+- einer die ganze Oberfache einnehmenden figurenreichen Composition aus der Geschichte des Moses, vor prachtigem landschaftlichen Hintergrunde in lichter Farbengebung vorziglich ausgefuhrt. Auf dem Boden des Fusses in blau die Inschrift: Moise pe' l continovo splendore alla presenza di Dio glorioso."Schones Stuick.
+- Nr. 830. Urbino. Grosse Schissel mit mittlerer Tiefung und sehr breitem Rande. Die ganze Oberfache bedeckt in reicher Composition und schoner Farbengebung eine Darstellung der Hirtenfamilien des Abraham und des Loth mit ihren Herden,im Vorgrunde einer weiten Flusslandschaft mit Stadt an einem Gebirgszug, reiche Architekturen auf einer Anhohe etc. Auf dem Boden in schwarz die Inschrift: ,Abramo . e Lotto pastor giusti . et . buoni . 1576": darunter das Malermonogramm S. Vortreffliches Stick von bester Erhaltung.
+
+Hohe 41/,Diam.30cm.
+
+- Nr. 831. Urbino. Grosse Schissel, ahnlich in Form und Ausfuhrung und von demselben
+
+Gleiche Grosse.Mit Sprung.
+
+- Meister, mit der Geschichte von Aeneas und Dido. Auf dem Boden in blau die Insehrift: Mena Achate in Cartago Ascanio a Dido 1576" und das Malermonogramm S.
+- Nr. S32. Urbino. Schuissel mit mittlerer Tiefung und breitem Rande, ,piatto approfondato*.
+
+<!-- image -->
+
+50
+
+<!-- image -->
+
+08
+
+<!-- image -->
+
+<!-- image -->
+mit Felszug und Palastarchitekturen, in leuchtender Farbengebung vortreflich ausgefihrt. Auf dem Boden die Inschrift: ,Tarpea." Sehr schones Stick, an die Arbeiten des Francesco Xanto erinnernd. Hohe 41/e,Diam.261/ecm.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+710
+
+7.20
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- Nr. 833. Urbino. Tiefe Schissel mit breitem Rande, piatto approfondato, dem Orazio 850 Throne sitzend, von seinen Hoflingen umgeben; links ein reiches Wappen mit hoher Helmzier (Phonix in gelbem Felde). Auf dem Boden die Inschrift: Josias legere facit libru federis:". Vor. treffliches Stick von grosser Schonheit.
+
+Hohe 5,Diam.261/e cm. Kleiner Defect am Rande.
+
+- Nr. S34. Urbino. Flacher Teller mit schwacher mittlerer Tiefung und sehr breitem Rande. dieselbe ist in vortrefflicher Farbengebung meisterhaft ausgefihrt und hat eine erhohte malerische Wirkung durch die Anwendung des Tiefschwarz und durch die aufgesetzten weissen Lichter. Auf dem Boden die Inschrift:Seringa in canna 1553 in blau,Vortreffliches Stuck von sehr schoner Qualitat und tadelloser Erhaltung; dasselbe bildet mit den folgenden zehn Nummern (bis einschl. 844) eine superbe Serie, die zweifellos aus der Werkstatte des Fontana und von derselben Kunstlerhand stammen.
+
+Diam.221/2cm.
+
+- Nr. 835. Urbino. Teller, hnlich,mit der Geschichte von Pyramus und Thisbe; als Hintergrund reiche Flusslandschaft mit Stadt, links eine Fontaine; auf dem Boden die Inschrift: ,de
+- piramo e tisiba 1553."
+
+Diam.221/ecm.
+
+- Nr. 836. Urbino. Teller, ahnlich, mit Herkules den Cacus erschlagend; als Hintergrund eine
+- reiche Flusslandschaft;auf dem Boden die Inschrift:Ercole 1553.“
+
+Diam.221/e cm. Am Rande ein Stickchen ausgebrochen.
+
+- Nr. 837. Urbino. Teller, ahnlich, mit Cloelia auf weissem Rosse den Tiber durchschwimmend; im Vorgrunde links die Zelte des Porsenna; auf dem Boden die Inschrift:Lelia fanciulla quando
+- paso il teuere 1553."
+
+Diam.221/2cm.
+
+- Nr. 838. Urbino. Teller, ahnlich, mit der Geschichte von Hero und Leander in einer reichen alla fenestra 1553."
+
+Diam.221/2cm.
+
+- Nr. 839. Urbino. Teller,hnlich, mit Jupiter, als Hirte einer Nymphe erscheinend; reicher landschaftlicher Hintergrund mit Stadt am Berge an breitem Flusse; auf dem Boden die Inschrift:
+
+Diam.221/2cm.
+
+- ngioue conuerso in pastore 1553.“
+- Nr. 840. Urbino. Teller, ahnlich,mit der Darstellung des in einen Hirsch verwandelten Aetaeon in hubscher Composition im Vorgrunde einer Flusslandschaft; auf dem ausseren Boden die Aufsehrift:Ation mutato in cieruo da diana 1553."
+
+Diam.221/ cm.
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+| Nr. 841. Urbino. Teller, ahnlich, mit Mercur und Argus im Vorgrunde einer prachtigen Flusslandschaft; auf dem Boden die Aufschrift:Mercurio quando ucise argo 1553.“ Diam.221lgcm.                                                                                                                                                                                                                                   | 720   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+| Nr. 842. Urbino. Teller, ahnlich,mit der Geschichte des Narcissus;reicher landschaftlicher Hintergrund mit von Kahnen belebtem Fluss; auf dem Boden Inschrift mit Abkurzungen und Jahreszahl 1553. Diam.221/ecm.                                                                                                                                                                                                     | Zbo   |
+| Nr. 843. Urbino. Teller, ahnlich, mit der Geschichte des Mucius Scaevola; rechts und links Palastarchitekturen;im Hintergrunde Flusslandschaft mit Stadt an einem Berge; auf dem Boden die Inschrift:,Mutio et la sua destra juvante cocie 1553." Diam.221/2 cm.                                                                                                                                                     | 710   |
+| Nr. 844. Urbino. Teller, ahnlich, mit der Geschichte von Jupiter und Leda, in zwei ver- "Ioue couerso in cigni." Diam.221/cm.                                                                                                                                                                                                                                                                                        | 720.  |
+| Nr. 845. Urbino. Ovale Wochenbettschale; die Tiefung zeigt in glanzenden Farben vorziglich und fein ausgefuhrt eine Geburtsdarstellung in ciner Composition von sieben Figuren; der wenig uberfallende Rand bildet ein Feston; der Boden zeigt auf orangefarbigem Grunde die Figur eines Engels, auf Wolken schwebend. Interessantes Stuck, vortrefflich in der Ausfuihrung. Linge 21,Breite 17cm.Leicht beschidigt. | 650   |
+| Nr. 846. Urbino. Kleiner Teller mit breitem Rande,tondino“, mit der Darstellung der Fama, auf Wolken schwebend, gut ausgefuihrt auf orangefarbenem Grunde.Derselbe bildet mit den folgenden bis Nr. 850 eine Serie von derselben Kuinstlerhand,in gleicher Ausfuhrung. Diam.20 cm.                                                                                                                                   | 300   |
+| Nr. 847. Urbino. Kleiner Teller, hnlich,mit Gott Vater, einem knieenden.Heerfihrer erscheinend. Gleiche Ausfuhrung. Gleiche Grosse.                                                                                                                                                                                                                                                                                  | 260   |
+| Nr. 848. Urbino. Kleiner Teller,hnlich,mit im Vorgrunde einer weiten Landschaft sitzendem Genius. Gleiche Ausfuhrung. Gleiche Grosse.                                                                                                                                                                                                                                                                                |       |
+| Nr. 849. Urbino. Kleiner Teller, ahnlich,mit nacktem Knaben,im Vorgrunde einer weiten Landschaft stehend. Gleiche Ausfuhrung. Gleiche Grosse.                                                                                                                                                                                                                                                                        | 268   |
+| Nr. 85O. Urbino. Kleiner Teller, ahnlich, mit einer Gruppe zweier spielenden Amoretten; landschaftlicher Hintergrund. Gleiche Ausfihrung. Gleiche Grosse.                                                                                                                                                                                                                                                            | 280   |
+| Nr. 851. Urbino. Kumpige Schale, Scodella, mit Kriegerfigur in Landschaft, in guter Farben- gebung vorziglich ausgefuhrt. Hohe 41/e,Diam.20 cm.Leicht gesprungen.                                                                                                                                                                                                                                                    | 200   |
+| Nr. 852. Urbino. Kumpige Schale,Scodella“, mit reicher Landschafts-Darstellung mit Fluss, antiken Ruinen etc. Hohe 51/e,Diam.25 cm.Gekittet.                                                                                                                                                                                                                                                                         | 105   |
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- dieselbe ist umrahmt von antiken Trophaen, deren cine die Jahreszahl 1540 tragt. Die Malerei ist in grau auf dunkelblauem Grunde vortrefflich ausgefuhrt; der Untergrund zeigt Arabesken in blau auf blau-grauem Grunde. Vorzigliches Stuck.
+
+Diam.25cm.
+
+- Nr. S54. Castel-Durante. Flacher Teller mit mittlerer Tiefung, Tondino", sehr fein gemalt.
+- Ein mittleres Medaillon zeigt eine Knabenfigur in Landschaft sitzend, auf tiefgelbcm Grunde; ringsum zieht sich ein breiter Fries mit antiken Trophaen, grau in grau auf dunkelblauem Grunde; den Rand umzieht ein Lorbeerkranz.Vorzugliches Stuck.
+
+Diam.21 cm.
+
+- Nr. 855. Venedig. Schale,wenig getieft, auf Fuss,Fruttiera". Silbergrauer Grund mit reichen 240 Arabesken, Blattranken,Fruchtbouquets und Thierfiguren in blau, grin, gelb und orange,welche a quartier ein mittleres Medaillon mit Maske umschliessen; die Ruckfache mit Sternzacke in dunkelblau.Gutes Stick.
+
+Hohe 512,Diam.21 cm.
+
+- Nr. 856. Castelli. Zwei kleine flache Teller, wenig vertieft, fein gemalt mit prachtigen Land schaftsdarstellungen mit antiken Ruinen und Figurenstaffage; ganz in der Art des Francesco Grue.
+
+Diam.18cm.2 Stick.
+
+- Nr. 857. Castelli. Schalchen, doppelt gehenkelt,in Muschelform, auf Fuss; im Innern eine Landschaftsdarstellung.
+
+Hohe 5,Lange 10,Breite 10 cm.
+
+- 26 Nr. 858. Loretto. Getieftes Schalchen, Pilgerschalchen,mit der Darstellung des wundertha tigen Madonnenbildes. Auf der Ruckseite die Aufschrift:CON. POL.DI. S. C."
+
+<!-- image -->
+
+<!-- image -->
+
+Hohe 3/4,Diam.111/ecm.Leicht gesprungen.
+
+- Nr. 859. Savona. Kumpige Schale mit geripptem Rande,Scodella". Das grosse Medaillon der Tiefung zeigt Moses vor dem brennenden Dornbusch; den Rand fullen Arabesken und Ranken in
+- blau,grun und orange. Decoratives Stuck,
+
+Hohe 5,Diam.31cm.
+
+Nr. 860. Becher in conischer Form, in der Art der Hirschvogel-Arbeiten,in blau, grun, braun, gelb und weiss glasirt. Ueber einem Maanderfries zeigt der Mantel fuinf Bogennischen, unter denen Madonna mit dem Kinde und die Figuren der Evangelisten mit ihren Symbolen; auf den Bogen unleserliche Inschriften. Um den oberen Rand zieht sich iber einer ornamentalen Borduire ein Inschriftband. Im Innern braungelb glasirt. Interessantes eigenartiges Stuick.
+
+Hohe 18,Diam.10/2 cm. Am Fusse leicht gekittet.
+
+<!-- image -->
+
+d
+## Emaillirte, geschliffene etc. Glaser.
+
+Nr. 861. Grosser Trinkhumpen in Cylinderform, Reichsadlerglas. Vorne der gekronte Doppeladler mit den Wappenschildern der Reichsstinde etc. auf den ausgebreiteten Schwingen, in der Art des Burgkmair'schen Holzschnittes; derselbe tragt im Bruststicke cine Crucifixdargelb und blau, darunter die Aufschrift: Godt behiedt Unndt erhalt | dasz gantze heillige Romische
+
+Hohe 28,Diam.15 cm.
+
+Reich, Mittsambt | Seinen gliedern | allzugleich 1676." Sehr schones Glas.
+
+- Nr. 862.Hoher Humpen,Reichsadlerglas, hnlich; dunkles Glas; das Brustschild mit dem Reichsapfel,oben die Aufschrift:DAS.HEILIG.ROMISCH.REICH.MIT.SAMPT.SEINEN. GLIDERN.1593"; oben damascirter Goldrand mit emaillirten Nuppen. Prachtvolles fruhes Glas. Hohe 29,Diam.121/ecm.
+
+Nr.863. Hoher Pokal,Kurfurstenpokal,in sehr leichtem (Venetianer) Glas, cylindrisch, auf hohem Fuss mit Hohlpuffe in facher Kugelform; der Mantel des Kelches zeigt fein emaillirt die Reiterfiguren des Kaisers und der sechs Kurfirsten von Trier, Koln, Mainz, Pfalz, Sachsen und Brandenburg unter Banderolen mit den betreffenden Aufschriften;auf der Rickfache Blumenstaude unter ANNO 1645; um den oberen Rand zieht sich ein damascirtes Goldband. Sehr schones Glas.
+
+Hohe 30,Diam. des Kelehes 10 cm.
+
+Nr. 864. Humpen, cylindrisch, auf weit ausladendem Fussansatz mit Goldband; der Kelch zeigt ein sich zweimal wiederholendes farbenprichtiges Wappen mit reicher Helmdecke in Emailmalerei und die sich mehrfach wiederholende Namensaufschrift:Peter Hatzenberg und Jahreszahl 1569 in vergoldeter Diamant-Gravirung. Sehr schones Glas. XVI. Jahrh.
+
+Hohe 24,Diam.9'/e cm.
+
+Nr. 865. Hoher cylindrischer Humpen auf weitausladendem Fussansatz,Passglas"; auf Vorder- und Ruckfache in blau und gold emaillirt ein Wappen -Einhorn iber Dreiberg in blau und gelb in schraggetheiltem Felde —mit reicher Helmdecke,Einhorn als Helmzier zwischen der Jahreszahl 15--65; oben damascirtes Goldband in Schuppenmusterung und mit emaillirten Nuppen. Vorzugliches Glas. XVI. Jahrh.
+
+Hohe 24,Diam.91/2cm.
+
+Nr. 866. Zwei hohe schlanke Deckelpokale in Form von Champagnerglasern mit reich pro- filirtem Schaft und hohem Kelch, geschliffen mit Zickzackborten.Ende XVIl. Jahrh. Hohe 50 em.2 Stuiek.
+
+8040
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Nr. 867. Venetianer Latticinio-Pokal, der hohe Fuss mit scheibenformiger Hohlpuffe, weiss; der hohe cylindrich aufsteigende Kelch spiralformig mit starkeren und schwacheren Latticiniobandern umzogen. Schones apartes Glas. XVII. Jahrh.
+
+Hohe 21, Diam. des Kelehes S cm.
+<!-- image -->
+
+<!-- image -->
+
+- Halse mit kleeblattformigem Ausguss; die Leibung ist bedeckt mit vorziglich und fein geschliffenen Sehr schones Gefass. XVIII. Jahrh.
+
+Hohe 33cm.
+
+- Nr. 869. Zwei Scherzgefasse in Form von Stiefeln; das eine in weissem opaken Glase, mit Schleife,Sporen und Reliefnuppen, das andere helles Glas. Hohe20und18cm.2 Stick.
+- Nr. 870. Trinkglas in conischer Form, bemalt mit den Leidenswerkzeugen, Maiglockchen, Spruch und Jahreszahl 1750.
+
+Hohe 11 cm.
+
+- 15、 N.871. Zwei Pokale:a.Pokal, der Schaft schraubformig und mit roth incrustirt, der Kelch
+- geschliffen mit Ranken,zwischen denen Medaillon mit Amor; b. Latticinio-Kelch auf vergoldetem Metallfuss.
+
+Hohe je 18cm.2 Stuck.
+
+- Nr. 872. Flasche in abgeplatteter Birnform, Krystallglas, geschliffen mit Sternen und Rosetten; vorne ein Medaillon in agglomerirtem Glase, Amor in Landschaft darstellend. XVIIl. Jahrh. Hohe 231/ecm.
+- Nr. 873. Trinkglas in conischer Form,Apostelglas", geschliffen mit den Brustbildern der
+- Apostel in zwolf Medaillons mit den Namensaufschriften. XVIl. Jahrh.
+
+Hohe 13,oberer Diam.91/2cm.
+
+- Nr. 874. Finf verschiedene Gegenstande in Milchglas etc.: a.Henkelkrug, blau und roth marmorirt.Hohe 14 em. b.Becher, cylindrisch,ebenso. Hohe 91/ cm. c.Gefass in Form eines Schuhes, ebenso. Lange 15 cm. d. Vaschen, ebenso. Hohe 11 cm. e. Ober- und Untertasse in weissem opaken Glase. Hohe 41/e cm.
+- Nr. 875. Acht verschiedene Gegenstande in blau-weiss marmorirtem Milchglas.ad.Vier Flacons in Fassform mit Reifen in opakem Weiss. Hohe zwischen 19 und 14 cm. e. Flacon in facher Birnform. Hohe 16 em. f. Flacon, tief gerippt. Hohe 141/e cm. g. Flacon in eingeschnurter Birnform. Hohe 12 cm. h. Gedeckelte Zuckerdose. Hohe 121/ cm.
+- Nr. 876.Grosse viereckige Flasche, geschliffen mit Rankenfriesen,nebst geripptem Flacon in blauem Glase und einem desgl. emaillirt mit Blumen,Hase, Spruch und Jahreszahl 1750. Hohe 19,13und 13cm.3 Stuck.
+## Waffen.
+
+- Nr. 877. Lange Albaneser Flinte; der breite fache Kolben in Eisen belegt, das in schwungvollen dichten Laubwerk-Arabesken reich geschnitten, ciselirt und durchbrochen. Schone Arbeit. Lange 150cm.Sehloss fehlt.
+- Nr. 878. Paradedegen, Louis XIV., mit schmaler gefammter Klinge; das Gefiss Eisen mit theils reliefirter etwas abgeschlissener Silbertauschirung mit Arabesken, Engelskopfen ete.
+
+<!-- image -->
+
+<!-- image -->
+
+Linge 93cm.
+
+- Nr. 879a. Ungarischer Reitersabel mit gekrummter Ruckenklinge, die gravirt mit Emblemen und Spruch; das Korbgefass Eisen mit muschelformigem Handgrif, der Griff beledert. Ende XVII. Jahrh. Nebst Bayerischem Cavalleriesabel mit Chiffre: Max Joseph.
+
+Lange 96em.2 Stick.
+
+- Nr. 879b. Langer Bajonettdolch mit stiletformiger schmaler Klinge; der Griff Holz, gerippt und mit Messinggarnitur.XVIII. Jahrh.
+
+Linge 47cm.
+
+- Nr. 880. Venetianer Hellebarde von eigenartiger reicher Form mit langer breiter Partisanen-
+
+Linge des Eisens 54 cm.
+
+- spitze mit starker Mittelrippe; Beil und Haken reich durchbrochen in Fischblasen- und Herzornament und mit phantastischen Auslaufen und doppeltem Rossschinderhaken. Interessantes Stick mit er gainztem Original-Holzschaft, der geschuppt. Ende XVI. Jahrh.
+- Nr. 881. Armbrustwinde, Eisen, geatzt und gravirt mit reizvollen Arabesken; die Scheibe zeigt in fotter Composition die Darstellung einer Hasenjagd; seitlich durchbrochen mit der Strassburger Lilie; an der Wurzel eingeschlagen Waffenschmiedsmarke und Jahreszahl 1562. Gutes Stuick. XVI. Jahrh.
+
+Linge 38cm.
+
+- Nr. 882. Parade-Axt eines Bergmannes; der Schaft hellbraunes Holz mit reicher Einlage in theils gefarbtem Elfenbein, Perlmutter und Messing und mit Messingbandern; das Beil gravirt mit
+
+Linge 67 cm.
+
+- phantastischen Thierfiguren.Um 1700.
+- Nr. 883. Steinarmbrust,Balester, ganz in Eisen; der Kolben hellbraunes Holz mit eingesetztem Perlmutterplattchen, das gravirt mit der Reiterfigur des hl. Georg. Gutes Exemplar. Anfang XVII.Jahrh.
+
+Linge 78 cm. Sehne fehlt.
+
+- Nr. 884. Sponton, Zeit Leopolds I., beiderseitig fast ganz geatzt und vergoldet mit reizvollen Arabesken, zwischen denen Figurenmedaillon und auf der elegant ausgeschweiften Basis Waffentrophien. Sehr gutes Stick. Ende XVIl. Jahrh.
+
+Noemam
+
+Linge 211/e cm.
+
+- Nr. 885. Prunk-oder Trabantenpartisane; die lange Klinge blattformig, mit starker, iber die
+- elegant ausgeschweifte Basis gehender Mittelrippe. Schaft, Basis und die untere Hilfte der Klinge zeigen in vortrefflich ausgefuhrter Aetzmalerei Rankenwerk in edelstem Renaissancestil mit figuralen
+
+<!-- image -->
+
+<!-- image -->
+
+10
+
+61 Po
+
+80.Mta
+120
+
+115
+
+<!-- image -->
+
+<!-- image -->
+
+325
+
+buckelt und mit Messingnageln beschlagen. Prachtstick von schoner Form, reichem Decor und vortrefflicher Ausfihrung und bester Erhaltung. Anfang XVII. Jahrh.
+
+Lange des Eisens 63,ganze Lange 240 cm.
+
+- Nr. 886. Jagdmesser aus einer Waidpraxe (trousse de veneur); die schwere breite Ruickenklinge beiderseits tief gravirt mit den fott componirten figurenreichen Darstellungen einer Baren jagd und einer Sauhetze im Geschmacke des J.Amman und Virgil Solis; der Griff Eisen, geschnitten
+- mit phantastischem Thierkopf. Gutes,interessantes Stick.XVI. Jahrh.
+
+Linge 39 cm. Schale und Knopf des Griffes fehlen.
+
+- welche Blumenbouquets, Ornamente und Perlbander zeigt. Gutes Stick. Dazu ein ahnlich aus-
+- 31 gefuhrter Degenknopf.
+
+Lange 121/2 cm.
+
+- Nr. 888. Franzosische Partisane; die breite Klinge breit gekehlt und mit hoher Mittelrippe; die Basis halbmondformig, reich ausgeschweift; der Schaft sechskantig. Sehr schones Stick von eleganter Form, mit Spuren der Gravirung. Ende XVI. Jahrh.
+
+Ganze Lange 84 cm. Ohne Schaft.
+
+- Nr. 889. Pulverhorn in facher geschweifter Form, braunes Holz, in Elfenbein, Messing und Perlmutter reich eingelegt mit Arabesken und Sternchen; die vollstandige Garnitur vergoldetes Messing mit reicher Ornamentgravirung. Sehr gutes Stuck. Anfang XVII. Jahrh.
+
+Linge 20cm.
+
+- Nr.890. Hellebarde; die breite Klinge blattformig,mit starker Mittelrippe; das Beil halb-
+- mondformig, der Haken geschrigt; mit fast durchweg geschupptem Original-Holzschaft. Ende XVI. Jahrh.
+
+Linge des Eisens 46, ganze Linge 220 cm.
+
+- Nr. 891. Ein Paar lange Radschloss-Reiterpistolen (Karabiner) mit abgefachtem Kugelkolben; draht mit schwungvollen Arabesken,zwischen denen gravirte Perlmutterplattchen mit Thierfiguren,
+- der lange Lauf glatt und ungezogen; der Schaft ganz, hellbraunes Holz, reich eingelegt in MessingVogeln, gefugelten Engelskopfen ete. Gute Stucke. XVIl. Jahrh.
+
+Linge 79 em. 2 Stick. Bei einer fehlt das Schloss.
+
+25. Nr. 892. Galadegen, Louis XIV.; die schmale Klinge reich gravirt und vergoldet mit Arabesken, den Standfiguren der Apostel und franzosischen Sprichen; das Gefass Eisen mit durch-
+2. brochenem Stichblatt,in reicher Ornamentirung in Gold und Silber tauschirt.
+
+Lange 98 cm. Die Tauschirung hat gelitten.
+
+- 20 Nr. 893a. Sponton mit schmaler fammenformiger Klinge; die Tulle mit doppelter Stachelreihe. Ende XVII.Jahrh.
+
+Linge 40 cm.Holzschaft abgeschnitten.
+
+- Nr. 893b. Sponton mit langer blattformiger Klinge und reich proflirtem Schaft, mit zwei spitzen Haken. Ende XVII. Jahrh.
+
+Linge 33 cm. Ebenso.
+
+- Nr. 894. Fussganger-Streitaxt mit halbmondformigem,brcitem Beil und wirfelformigem Hammer; der Original-Holzschaft mit langem, spitzem Eisenschuh. Interessante Waffe. XV. Jahrh. Linge des Beils 27,ganze Linge 140em.
+Nr. 895. Lange brasilianische Kriegskeule in hartem Holze (vom Isnoa-KiBaum). Lange 135 cm.
+
+Nr. 896. Modell-Ristung, ganz complet, der Helm mit durchbrochenem Rundvisir, mit Hand schuhen, Beinschienen mit Schuhen, Sehild und Sehwert. Blankes Eisen, mit Kupfernageln be-
+
+Hohe 40 cm.AufPuppe.
+
+schlagen.Anfang XVII. Jahrh.
+
+## Sehlosser, Schlussel, Leuchter etc.
+
+Nr. 897. Eiserne Cassette, allseitig in Feldern reich geitzt mit sehwungvollen Laubarabesken, zwischen denen grosse Vogelfiguren. XVI. Jahrh.
+
+Hohe 13,Lange 20,Breite 13cm.
+
+<!-- image -->
+
+Nr. 898. Kleine eiserne Cassette, in den vertieft liegenden Fullungen ungemein reich geatzt, mit reizvollen Renaissance-Laubranken, aus denen interessante weibliche und mannliche Costumfiguren hervortreten; die umrahmenden Friese nit geschmackvollem Riemenwerk und Arabesken
+
+Hohe 12,Linge 13,Breite 11 cm.
+
+in der Art des P.Flindt. Schones Exemplar. XVI. Jahrh.
+
+Nr. 899. Schweres Vorhangeschloss, gothisirend, in schwerem polirtem Eisen,mit Doppelbugel und zwei Sehlisseln,kleeblattformig elegant ausgeschweift und in Lilienform auslaufend. Meisterarbeit.
+
+Linge 25 cm.
+
+Nr. 900. Grosses gothisches Vorhangeschloss,in Kleeblattform elegant ausgeschweift und mit
+
+Linge 15 cm.
+
+Doppelriegel und zwei Schluisseln.Polirtes Eisen. XVI. Jahrh.
+
+Nr. 901. Zwei Vorhangeschlosser in schwerem Eisen, das eine wirfelformig, das andere mit Hebelvorrichtung zum Oeffnen.XVI. Jahrh.
+
+Linge 12 und Scm. 2 Stick.
+
+Nr. 902. Schweres grosses Kastenschloss in Kleeblattform auslaufend, mit vier Riegeln und zwei Schlisseln mit geschweiften durehbrochenen Griffen. Der Messingbelag des Schlosses ist im
+
+Stile Louis XIV.reich gravirt. Sehones Stick.
+
+Linge 35 cm.
+
+Nr. 903. Drei verschiedene Schlossnisse, zwei gross, eine klein,mit Schlusseln, die ausge- sehweift und durchbrochen.XVI. Jahrh.
+
+Linge zwischen 5 und 9em. 3 Stick.
+
+Nr.904. Zwei Sehlossnisse, dazu ein Doppel-Schlissel mit verschiebbarem ovalem Grif, der in reichen Ranken durchbrochen und auf der Mittelflache der einen Seite gravirt ist mit dem Constanzer Wappen und Jahreszahl 1626.
+
+Verschiedene Grosse.3 Stuck.
+
+Nr. 905.Badischer Kammerherrnschlissel in Goldbronze; der geschweifte,von der Markgrafenkrone iberragte Griff, seitlich von Lowenkopfen fankirt,zeigt in der Mitte das Monogramm (Karl
+
+Wilhelm) iber dem badischen Wappenschildchen. Sehr schones Exemplar. XVIII. Jahrh. Linge 16cm.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+62
+
+<!-- image -->
+
+50.
+
+<!-- image -->
+
+160
+2,45
+
+<!-- image -->
+
+230
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Nr. 906. Doppelarmiger Bronzeleuchter mit der Vollfgur eines Landsknechtes in reicher Gewandung, in den ausgestreckten erhobenen Armen die Lichttillen haltend; als Fuss eine hohe Glocke.Schones interessantes Stiek.XVI. Jahrh.
+
+Hohe 27em.
+
+Nr. 906a. Doppelleuchter, in Eisen getrieben und geschmiedet mit der Figur eines romischen Kriegers, in den ausgestreckten Armen die langen Leuchtertrager haltend. Zeit Louis XIV. Verzinnt. Hohe 26cm.
+
+## Arbeiten in Metall.
+
+Nr.907. Jagdpokal, gedeckelt, im Stile des XVI. Jahrh.Vergoldetes Silber. Auf ausladendem Fusse mit ajourirtem Fries erhebt sich der cylindrisch aufsteigende, wenig sich erweiternde Kelch, dessen Mantel durch wulstformig vortretende Ornamentbander in drei Horizontalfriese getheilt ist, welche in vorziglich ausgefuhrter Treibarbeit figurenreiche,lebendig componirte Jagddarstellungen mit Anklangen an Virgil Solis und J. Amman zeigen. Der Deckel, dessen Weitung iber einem gothisirenden Blattfries eine Landschaftsdarstellung schmickt,wird von einem von theils phantastischen Thierfiguren umstellten Sockel iberragt, auf dem als Bekronung des Ganzen die Vollfigur eines wappenhaltenden Lowen mit Fahne, Schwert und Reichsapfel. Schones Stuick,hubsch im Aufbau, reich in der Ornamentirung und vortrefflich in der Ausfihrung. Marke: zwei Kleeblatter.
+
+Ganze Hohe 32 cm.Gewicht720 Gramm.
+
+Nr.908. Hoher Pokal im reichsten Renaissancestil. Silber, fast durchweg vergoldet. Auf gewelltem Fuss, den vollrund vortretende Kriegerbisten und gefligelte Engelskopfe fankiren, erhebt sich der reich ornamentirte Schaft,den volutenformige Henkelansatze mit Widderkopfen mit dem cylindrisch aufsteigenden,wenig ausweitenden Kelche verbinden. Der Mantel desselben ist meisterhaft getrieben mit Riemenwerk,zwischen dem Mascarons und Fruchtbouquets in hohem Relief und als Hauptschmuck drei grosse Langmedaillons mit romischen Kriegerfiguren. Reiches, effectvolles Stick, nobel im Aufbau und vorziglich in der Ausfuhrung. Mit undeutlichen Marken.
+
+Hohe30cm.Gewicht665 Gramm.
+
+Nr. 909. Hoher Deckelpokal. Silber, in reicher Treibarbeit und mit theilweiser Vergoldung in reichstem Barockstil. Den rundlichen Fuss und den Deckel schmicken hochreliefirte Fruchtbouquets in Ornamentkartuschen; den Schaft bildet das Vollstatuettchen eines romischen Kriegers mit Speer und Lanze; auf seinem Helme ruht der aus einem Baluster sich aufbauende Kelch, dessen Mantel in zwei weiten Langmedaillons die Traube zu Kanaan und die Geschichte Absalons vor hubschen landschaftlichen Hintergrunden zeigt; als Bekronung des Deckels die auf einem Postament stehende Figur eines romischen Kriegers, ein Trinkgefass in der Rechten haltend. Sehr schones Stuck,zierlich im Aufbau und vortrefflich in der Ausfuhrung. Anfang XVIIl. Jahrh.
+
+Ganze Hohe 38cm.Gewicht565 Gramm.
+
+Nr. 910. Gothischer Messkelch.Der Fuss, vergoldetes Kupfer, aus dem Sechspass gebildet und mit bossirtem Knauf;ober-und unterhalb desselben ein Band gravirt mit dem Namen:hjesus" in gothischen Minuskeln; die spitz zulaufende Cuppa und die Patene vergoldetes Silber. Schones Stick.XV.Jahrh.
+
+Hohe 181/ cm.
+
+Pho
+- Nr. 911. Gothisches Ciborium in vergoldetem Kupfer; der Fuss rund mit oberem Sechspass und mit fachem, breit cannelirtem Knauf; das Gefass sechseckig, auf allen Seiten gravirt mit dem Schweisstuch Christi, den Brustbildern der Heiligen Hubertus, Johannes d. E., Petrus und Rochus; auf der sechsten Seite ein Ornamentkreuz; der Deckel kuppelformig mit fehlender Bekronung. Sehr schones Stick. XV. Jahrh.
+
+Hohe 29 cm.
+
+Nr.912. Gothisches Ostensorium in Form einer Monstranz, in vergoldetem Silber, auf wohl nicht zugehorigem Fuss in vergoldetem Kupfer, aus dem Achteck gebildet mit ajourirtem Rande und reich gravirt mit prachtigen, breit gehaltenen Laubranken; der Knauf ist ungemein reich gegliedert mit durchbrochenem Maasswerk in von Strebepfeilern fankirten Fensternischen; der sich auf dem Knauf uber gothischen Blattranken erhebende Oberbau zeigt einen ungemein reichen architektonischen Aufbau mit einer seitlichen Anlage von Strebepfeilern mit reizenden Fialen und vollrund vortretenden Wasserspeiern; dieselbe fankirt den thurmformigen Aufbau der Mitte, der ausserst zierlich und reich dem Ganzen entsprechend gemustert ist und von hohem mit Krabben geschmicktem Dache uberragt wird,auf dem als Bekronung des Ganzen ein Kreuz. Hervorragendes Stick,ungemein reizvoll im Aufbau, sehr reich in den Motiven und vortrefflich in seiner Ausfuhrung. XV. Jahrh.
+
+<!-- image -->
+
+<!-- image -->
+
+1050
+
+<!-- image -->
+
+108
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Ganze Hohe 47 cm.
+
+| Nr. 913. Hostienbichse,cylindrisch,mit spitz zulaufendem Deckel; vergoldetes Kupfer mit gravirten Blattranken auf dunkelblau emaillirtem Grunde. Interessantes Stuck. XIII. Jahrh. Hohe 81/e,Diam. 61/2 cm.                            |     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+| Nr.913a. Ein Paar Rococo-Schildchen, Monstranzanhanger, Silber, mit breitem, reich getriebenem Rihmchen; die Mitte zeigt en relief auf vergoldetem Grunde die Namenszige Jesus und Maria. XVIII.Jahrh. Lange 9,Breite 71/g cm.2 Stiek. | 16. |
+| Nr. 913b. Rosenkranz, Zehntchen, die Korner Koralle,anhangend Fusse und Hande Christi, Perlen und Memento mori in Silber. XVII. Jahrh. Lange 12cm.                                                                                     |     |
+| Nr. 913e. Rosenkranz, die Korner Koralle in filigranirtem Silber gekettet, zwischengesetzt Leidenswerkzeuge etc., in Silber ausgefuhrt. XVIlI. Jahrh. Lange 35 cm.                                                                     | 52  |
+| Nr.913d. Rosenkranz, die Korner Frucht, mit zwischengesetzten Leidenswerkzeugen in Silber; anhangend Hameransche Medaille etc. Lange 42cm.                                                                                             | 15  |
+| Nr.913e. Buchkrampen, Louis XIV., in Silber,reich durchbrochen ornamentirt mit Riemen- werk, zwischen dem Maskenkopfe und ippige Blumenvasen. Vorzugliche Arbeit. Linge 12 cm.                                                         | 26. |
+| Nr.913f. Ein Paar Rococo-Buchkrampen in Silber, en relief reich ornamentirt mit Schnorkel- werk und Blumen. Lange 111/e em.2 Stuick.                                                                                                   | 13  |
+| Nr. 913g. Ovales Plaquette in Silber; in sehr hohem Relief zeigt dasselbe eine bewegt compo- nirte figurenreiche Schlachtdarstellung. XVII. Jahrh. Linge 61/e,Breite 91/e cm.                                                          |     |
+| Nr. 913h. Sieben vergoldete Silberfiligran-Knopfe und drei Kleinigkeiten in Silber.                                                                                                                                                    | 31. |
+
+Verschiedene Grosse.10 Stick.
+40
+
+37
+
+<!-- image -->
+
+- 130
+- Nr. 914. Vier Bergmamnsbecher in Kupfer, drei innen vergoldet, einer ganz vergoldet; drei
+- mit den Aufschriften:Eissen war ich,Kupfer bin ich, Gold bedecket mich; der vierte mit:Was nicht zu andern ist, das nimm willig an, kann ich nicht wie ich will, so nim ich wie ich kan."
+
+<!-- image -->
+
+<!-- image -->
+
+Verschiedene Grosse. 4 Stick.
+
+- Nr.915. Viereckige Platte in Rothkupfer, in Flachrelief vortrefflich getrieben mit dem nieder gesunkenen kreuztragenden Heilande. Auf der Rickseite eingravirt: Wappen und der Name: G DERVAL.XVII.Jahrh.
+
+Hohe 181/e,Breite 151/ecm.
+
+- Nr.916a. Mercur in fiegender Stellung, in der Rechten den Caduceus haltend. Flott modellirte antikisirende Bronzestatuette,grin patinirt.
+
+Hohe 24 cm.Auf rundem Holzsockel.
+
+- Nr.916b. Ruhender Wanderer, sich an einen Baumstamm anlehnend. Vorzuglich modelirte Bronzestatuette mit glanzender Patina. XVIl. Jahrh.
+
+Hohe 12cm.
+
+- Nr. 917. Astronomische Tafel, Calendarium,in vergoldeter Bronze ungemcin reich gravirt mit den Planetenfiguren, den Sternzeichen, Banderolen mit Aufschriften ete. ete. in Rundzonen; in den Zwickeln die allegorischen Figuren der Jahreszeiten mit ihren Attributen;der breite bewegliche Zeiger zeigt Mascarons und hockende Puttenfiguren; die in der Mitte vortretende Kapsel des Compasses ist in Ornamentreihen reizvoll ciselirt. Vortreffliches Stuck, gleich bedeutend durch seinen ornamentalen Reichthum wie durch dessen vorzugliche Ausfihrung. Augsburger Arbeit. Ende XVI.Jahrh.
+
+Diam.211/ecm.
+
+- Nr. 918. Zwei ovale Platten in versilbertem Kupfer, in hohem Relief meisterhaft getrieben mit Sehr schone Stuicke. XVII. Jahrh.
+
+Hohe 121/e,Breite 141/gcm.2 Stick.
+
+- 200 Nr. 919. Zwei grosse viereckige Platten in versilbertem Messing, mit den hochreliefirten Darstellungen der Fusswaschung und des Abendmahls in sehr schonen, an die Meisterwerke des H. Goltzius anklingenden Compositionen.
+
+Hohe 34,Breite 41cm. 2 Stick.In sehwarzen Holzrahmen.
+
+- Nr. 920. Fuss und Knauf eines gothischen Messkelchs in vergoldetem Kupfer, ersterer rund, letzterer reich gegliedert und mit Gravirung. XV. Jahrh. Hohe 11 cm.
+- Nr. 921. Zinnhumpen von Caspar Enderlein,in conischer Form, mit weitem Henkel und gewolbtem Deckel. Der Mantel ist in drei Felder getheilt, in denen ganz in der Weise des Francois Briot zwischen prachtigstem Renaissance-Ornamentwerk drei grosse Medaillons mit den vor reichem landschaftlichen Hintergrunde postirten allegorischen Figuren des Wassers, des Feuers und der Erde in hohem Relief. Auf der Wolbung des von einem offenen Thurm iberragten Deckels Hatormasken Felder das Monogramm N-R und E-R. Sehr schones Stuick, ungemein reich im Decor und im
+
+Hohe 21,oberer Diam.9 cm.
+
+- Allgemeinen von sehr guter Erhaltung. Anfang XVII. Jahrh.
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+| Nr. 922a. Zinnteller,Kurfuirstenteller.In der Tiefung in grossem Medaillon die Reiterfigur Kaiser Ferdinand’'s Il.:um den Rand,yon uippigen Fruchtbouquets getrennt, sechs Medaillons mit den Kurfursten zu Pferde mit den betrefenden Wappen. Nurnberger Marke mit PO und Stempel mit W. S. Scharfe Pressung;besterhalten. XVIl. Jahrh. Diam.20 cm.   | 3    |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
+| Nr. 922b. Zinnteller, Apostelteller In der Tiefung grosses Medaillon mit der Auferstehung Christi; um den Rand die Standfiguren der Apostel mit den Namensaufschriften in zwolf Medaillons, zwischen denen ein Blumenornament.Nurnberger Marke mit V. A. XVII. Jahrh. Schones Exemplar.                                                                |      |
+| Diam.20cm. Nr. 922c. Zinnteller mit der Auferstehung Christi; um den Rand zwolf von Arabesken ge- trennte Medaillons, in denen Engel mit den Leidenswerkzeugen. XVII. Jahrh. Diam.19 cm. Mit Gebrauchsspuren.                                                                                                                                          | 28.  |
+| Nr.922d. Zinnteller mit mittlerer glatter Tiefung; der breite Rand mit ippigen Blumen-und Fruchtranken. Nurnberger Marke mit N S. XVII. Jahrh. Sehr schones Exemplar von grosser Scharfe und bester Erhaltung. Diam.181/e cm.                                                                                                                          | 28   |
+| Nr. 923. Reiseuhr in vergoldeter Bronze, geschweift, auf sechs Fussen ruhend, mit Schlagwerk; das Zifferblatt Silber mit der Bezeichnung:Delucca Wien".In Original-Lederetui. XVIll: Jahrh. Hohe 7,Diam. 9 cm.                                                                                                                                         | 34   |
+| Nr.924. Gehause einer kleinen Standuhr, Louis XIV., in reicher Boullearbeit, Schildpatt, mit reizvollen Arabesken in Messing cingelegt; die Frontplatte vergoldetes Messing mit uippiger Orna mentgravirung; als Bekronung der Kuppel die Sonnenscheibe. Hohe 25,Linge 11,Breite 71/e cm.                                                              |      |
+| Nr. 925.Bonbonniere, Zeit Louis XIV,aus einer Muschel gebildet, die in Flachrelief meister- haft geschnitten mit allegorischen Darstellungen — dabei die Fama,ein Furstenbildniss tragend in reichsten Ornamentkartuschen; die Fassung vergoldetes Silber. Feines Stuck. Linge 78/4 cm.                                                                | 116  |
+| Nr. 926. Grosse runde Camee,in hohem Relief vortrefflich geschnitten mit drei Proflbusten romischer Imperatoren,als Medaillon in einem von gothisirenden Blattranken umzogenen Rahmen in vergoldetem Silber gefasst. Interessantes Stuck. Diam. des Ganzen 38/4, der Camee 28/4 cm.                                                                    | 2.9# |
+| Nr.927a. Taschenuhr, achteckig; das Gehause vergoldete Bronze; auf dem Deckel grosses Medaillon, durchbrochen mit prichtiger Blumenvase; die Seitenwandungen mit reicher Ornament- gravirung. Sehr gutes Stick. Anfang XVIl. Jahrh. Lange 51/e, Breite 5cm.                                                                                            | 210  |
+| Nr. 927b. Taschenuhr, oval, nach Art der Nurnberger Eier; das Gehause vergoldetes Messing; der Rand reich durchbrochen mit einem Laubrankenfries. Sehr gutes Stuck. Anfang XVII. Jahrh. Linge 512,Breite 41/e cm.                                                                                                                                      | 80   |
+| Nr. 927c. Grosse runde Taschenuhr; das Gehaiuse vergoldetes Messing; unter dem Deckel ein rundes feines Emailplattchen mit dem Brustbilde der Cleopatra. XVIII. Jahrh. Diam.51/e cm.                                                                                                                                                                   | 52   |
+<!-- image -->
+
+- Nr.927d.Rundes Plattchen Uhrdeckel),Louis XV.,in vergoldetem Messing,hoch getrieben mit einer hubschen Figurendarstellung. Nebst Cuvette einer Taschenuhr mit Sehlangenhaut. Diam. des Plattchens 41e em.2 Stick.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+125.-
+
+- 30 Nr.928. Gedeckelte Tasse auf Untertasse, in chinesischem Email, mit reichen Arabesken, Drachenfiguren etc.in Farben auf kobaltblauem Grunde.
+
+Hohe der Tasse 51/e cm.
+
+- Nr. 929. Dreizehn verschiedene ovale und runde Plattchen, emaillirt in vorzuglicher Aus-
+- 256 fuhrung mit Passionsscenen in theils figurenreichen Compositionen, Heiligenfiguren ete. Sehr hubsche Garnitur eines Kelches. Augsburger Arbeit. Ende XVII. Jahrh.
+
+Grosse zwischen 31/eund 2cm.13 Stick.
+
+- Nr. 930. Dose,Louis XV.,in geschweifter Form, Onyx in dunkler Farbung; der Deckel in hohem Relief geschnitten mit Rococo-Muschelwerk. Vergoldete Messingfassung. Hubsches Stuick.
+
+Hohe 3, Lange 7,Breite 61/e cm.
+
+- In goldgepresstem Original Lederetui.
+
+## Arbeiten in Holz und Elfenbein.
+
+- Nr. 931. Hoher gedrechselter Doppelpokal in Maserholz (Buchsbaumholz); der untere grosser und reich profilirt, der obere an die Dreikonigenbecher erinnernd. Der letztere zeigt in seinem Boden ein reliefirtes Wappenschild mit Hahn,dariber die Initialen I. H. Interessantes Stick. XVI.Jahrh.
+
+Hohe 50cm.
+
+- Nr. 932. Vier Wappenbekronungen in Birnbaumholz, vollrund vortrefflich geschnitten in Form
+- eines Ritterhelms mit durchbrochenem Visir und mit sitzendem Windhund als Helmzier. XVI. Jahrh. Hohe 36cm.4 Stick.
+- Nr. 933. Hausaltarchen, doppelfugelig, in Boulle-Arbeit in braunem Holze mit Einlagen in Messing und Zinn. Das Mittelbild zeigt eine grosse Pergament-Miniatur mit dem Ecce Homo, die Flugel je zwei dergleichen kleinere mit den Brustbildern der Evangelisten mit ihren Symbolen.
+- XVIII.Jahrh.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Hohe 21,Breite aufgeschlagen 21 cm.
+
+- Nr. 934. Viereckiger Sarkophag. Deckel und Boden in Ebenholz und Elfenbein eingelegt
+
+Hohe des Sarkophags 121/2,Linge 42, Breite 171/e cm.Lange des Skeletts 36 cm.
+
+- in parquettirter Musterung in Streifen und Dreiecken; die Seitenwandungen offen, abwechselnd getragen von Saulen in Ebenholz und Elfenbein,die letzteren mit hochreliefirten Heiligen- und Costumfguren,theils mit Schriftbanderolen. Im Innern liegt vollrund in Elfenbein vorteflich geschnitten ein Skelett, von Thieren und Gewurm aller Art umkrochen. Interessantes, seltenes Stick. Italienisch.XVI.Jahrh.
+- Nr. 935. Zwei viereckige Tafeln in braunem Holze, in reichen Gruppen meist vollrund geschnitzt mit der Ausstellung Christi und mit der Kreuzigung Christi in sehr schonen figurenreichen gut ausgefuhrte Arbeiten.XVII. Jahrh.
+
+Hohe der Schnitztafeln 221/,Breite 14 cm. Hohe des Ganzen 52,Breite 30 cm.2 Stick.
+Nr. 936. Viereckige Tafel in Birnbaumholz,in sehr hohem Relief vortrefflich geschnitzt mit der Halbfigur des hl. Joseph, das auf den Armen gehaltene Jesukind liebevoll betrachtend; als Hintergrund ein reich gemusterter Vorhang; in der Hohe die Taube des hl. Geistes. Vortreffliches Stick.XVII. Jahrh.
+
+- Nr. 937. Madonna mit dem Kinde, uber der Mondsichel sitzend. Gut ausgefuhrte Reliefgruppe in Elfenbein mit einzelnen Partieen in Vollrund. XVIII. Jahrh.
+
+Hohe 25,Breite 181/e cm.
+
+Hohe 9 cm. In schwarzem Rahmen,mit von Bronze reich umrahmtem Mittelmedaillon.
+
+Hohe 12,Breite 8 cm. In schwarzem Holzrahmen unter Glas.
+
+Nr. 938. Viereckige Tafel in Elfenbein, in sehr hohem Relief, theils vollrund vorziglich geschnitten mit Christus Kreuztriger, drei Benediktinermonchen erscheinend; in der Hohe Engel glorie. Hubsche Composition im Stile des A. Collaert, gut ausgefuhrt. XVIl. Jahrh.
+
+Nr. 939. Johannes der Taufer in harenem Gewande,in der Rechten das Kreuz haltend.
+
+Hohe 17 cm. Schwarzer Holzrahmen mit Glas.
+
+Nr. 940. Humpen, cylindrisch, in Elfenbein (Schnitt eines Elfenbeinzahnes);um die Korperweitung in sehr hohem Relief gut geschnitten mit der Anbetung der hl. drei Konige und der Flucht nach Egypten in sehr hubschen Compositionen ganz im Charakter des M. de Vos. In vergoldetem Silber montirt mit in Palmetten getriebenem Fuss und oberem Randreif. Im Innern des Fusses gravirt mit der Inschrift: CaroLVs De W. Sehr gutes Stuick. XVII. Jahrh.
+
+Hohe 15,oberer Diam.9 cm.
+
+Nr. 941. Trinkhumpen, cylindrisch,mit Henkel und Deckel,in Elfenbein; der Mantel mit Rippen und Canneluren, Deckel und Boden mit gewellten Rosetten. Sehr hubsche Zick'sche DrechslerArbeit.
+
+Hohe 14,oberer Diam.8 cm.
+
+Nr. 942. Humpen in Elfenbein, cylindrisch, mit Henkel und Deckel;um die Korperweitung zieht sich in sehr hohem Relief, theils vollrund sehr gut geschnitten, die lebendig componirte figurenreiche Darstellung einer Saujagd im Geschmacke des J. Amman; der elegant geschwungene Henkel mit karyatidenartig behandelter mannlicher Buste, einen Eberkopf haltend; als Bekronung des Deckels das Vollfigurchen eines Jagers, das Jagdhorn blasend. Effectvolles, decorativ reiches Stuck im Stile des XVI. Jahrh.
+
+Hohe 25,oberer Diam.101/ecm.
+
+Nr. 943. Niedriger Becher, cylindrisch,auf rosettenformigem Fuss,Elfenbein,mit Einsatz in ver-
+
+Hohe 9,Diam.71/e cm.
+
+goldetem Silber, welches die Augsburger Marke trigt; um den Mantel zieht sich, in hohem Relief vortrefflich geschnitten, ein Fries mit an dreissig Putten, in einzelnen Gruppen spielend mit Bocken und Widdern, musicirend ete. Sehr hubsche Arbeit ganz in der Art des Fr. du Quesnoy.XVII.Jahrh.
+
+Nr. 944. Becher in Elfenbein, in hohem Relief vorziglich geschnitten, auf der Vorderfache rande die Jahreszahl 1500 eingeschnitten.
+
+Hohe 10,Diam.8 cm.
+
+Nr.945. Madonna mit dem Kinde. Maria in reich drapirtem Gewande mit sehr engen, theils tief unterschnittenen Falten, auf dem mit Schleier bedeckten Haupte eine hohe Krone, das Kind
+
+110..
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+ondhela.
+
+<!-- image -->
+
+210
+
+425
+
+<!-- image -->
+
+<!-- image -->
+
+140
+
+<!-- image -->
+
+105
+110
+
+<!-- image -->
+
+auf dem linken Arme haltend.Vorziglich geschnitene vollrunde Statuette in Elfenbein,edel in der Auffassung und von tiefer Empfindung. XVI. Jahrh.
+
+Hohe 181/ecm.Auf schwarzem Holzsockel.
+
+- Nr. 946.Madonna, an ein Piedestal gelehnt, das auf demselben sitzende Jesukind umarmend, zu ihren Fussen der kleine Johannes und das Lamm. Sehr hubsche Gruppe, in Elfenbein voll rund vortrefflich geschnitzt in lebendiger Bewegung. XVIl. Jahrh.
+
+Hohe 10 em. Auf sehwarzem Holzsockel mit Elfenbeinkartusche in Flachrelief.
+
+- Nr. 947. Christusknabe, iber dem Kreuze auf einem Ruhebette schlafend; die Figur yollrund vortreflich in Elfenbein geschnitzt, das Lager Elfenbein, der Behang braunes Holz. Sehr hibsches Stick und wohl eine Arbeit S. Trogers, von grosser Innigkeit.
+
+Hohe 91/e,Lange 12 cm.
+
+- Nr. 948. Vier Applicationen,Apostelbuisten darstellend, zwei im Profl, in Flachrelief gut geschnitzt in Elfenbein, XVII. Jahrh.
+
+Hohe 6cm.4 Stick.
+
+- Nr. 949. Bettler und Bettlerin, im Geschmacke des J. Callot,barfuss und mit zerlumpten Kleidern. Grosse vortreffliche Figuren in braunem Holz, die sichtbaren Korpertheile Elfenbein. Arbeiten des Simon Troger in Munchen von selten schoner Qualitit, bis in die kleinsten Details meisterhaft ausgefihrt.
+
+Hohe 45 und 42em.Die rechte Hand des Mannes fehlt.
+
+- Nr. 950. Der hl. Johannes von Nepomuk,in vollem Priestergewande. Vollrundes Statuettchen in Buchsbaumholz. Auf Sockel. XVIl. Jahrh.
+
+Ganze Hohe 161/ecm.
+
+- Nr.951. Christus als Schmerzensmann, nackt,mit leicht ubergeworfenem Lendentuch,auf Erdhigel sitzend. Tiefempfundene edle Statuette mit Anklingen an A. Durer,meisterhaft fast vollrund in Buchsbaumholz geschnitten. XVI. Jahrh.
+
+Hohe 19 cm.
+
+- Nr. 952. Schweizer Bittentrager in reich drapirtem kurzem Rocke,in der Rechteneinen Stab, in der Linken einen Korb mit Trauben, auf dem Rucken die grosse mit Silberreifen gefasste Butte tragend. Vorzuiglich in Holz geschnittene schone Vollfigur. XVIl. Jahrh.
+
+Hohe 26cm.
+
+- Nr.953. Schweizer Bittentrager. Groteskfigur mit Buckel,auf einen Krummstock gestitzt, die Bitte auf dem Rucken tragend. Vorziglich geschnittene Vollfigur in Birnbaumholz; die Knopfe der kurzen Jacke Silber. XVII. Jahrh.
+
+Hohe 22cm.
+
+- Nr. 954. Bittentrager,hnlich, in zerlumpter Kleidung und mit groteskem Gesichtsausdruck, vollrund mit vortrefflicher Behandlung der Musculatur meisterhaft in Holz geschnitten.X VI. Jahrh. Hohe 30cm.Bitte fehlt.
+- Nr.955. Bittentrager, ahnlich, in zerlumpter Kleidung mit Federhut, sich auf den in der Rechten gehaltenen Stab stitzend. Flott geschnittene Vollfigur. XVII. Jahrh.
+
+Hohe 24cm.Bitte fehlt.
+Nr. 956. Charitas.Mutter, barfuss, mit drei Kindern, deren eines sie an der Brust hat. Gruppe in Hochrelief nach einem Meister des XVI. Jahrh.,vortrefflich und charakteristisch geschnitten in Zirbelholz und wohl eine Arbeit des J. Fiescher. Sehr schones Stick.
+
+Hohe 15 cm.In Glaskasten.
+
+Nr. 957. Mannliche Figur, vollig nackt, mit der Linken sich auf einen Hammer stitzend. Sehr edle,vollrund superb geschnittene Statuette in Ahornholz, ganz im Charakter des XVI.Jahrh. Sehr sehon.
+
+Hohe 18 cm.Leicht beschadigt.
+
+Nr. 958. Allegorische mannliche und weibliche Figur nach der Antike; erstere,vollig nackt, die Arme vorstreckend,in der Linken eine Rolle haltend;letztere (Salus) mit leichtem Schultertuch, mit Schlange und Muschelschale. Meisterhaft behandelte anatomisch schone Vollfiguren in Birnbaumholz; die Kopfe,namentlich der des Mannes,ungemein edel im Ausdruck. XVII. Jahrh.
+
+Hohe 30cm.2 Stick.
+
+Nr. 959. Lueretia, sich den Tod gebend,und Venus, dem Bade entsteigend. Von derselben Hand wie Nr. 957 meisterhaft geschnittene Vollstatuetten mit Anklingen an die bekannten Figuren des A.Durer. Sehr schon. Auf Holzsockeln.
+
+Hohe der Figuren 171/e und 19 em. Ganze Hohe 20 und 22 cm.2 Stick.
+
+- Nr. 96O. Der hl. Franciseus, im Monchsgewande mit theils tief unterschnittenen Falten, die Auf Rococosockel.
+
+Hohe 32 cm.
+
+Nr.961. Zwei Rococo-Holzfiguren, Gegensticke, der hl. Joseph, das Jesuskind auf dem Arme, und St. Michael mit dem Drachen darstellend. Gute Ausfihrung.Auf Postamenten mit vorderen Rococokartuschen.
+
+Hohe der Figuren 18,ganze Hohe 24 em.2 Stiek.
+
+Nr. 962. Bettler und Bettlerin in zerlumpter Kleidung; ersterer in Mantel gehillt, den Hut vorhaltend,letztere mit Krickstock gebickt gehend. Vollrund sehr gut geschnittene Figuren in Holz mit Polychromirung. XVIlI. Jahrh.
+
+Hohe 33 u.32cm.2 Stick.
+
+Nr. 963. Kaiser Heinrich und seine Gemahlin Kunigunde als Patrone von Bamberg mit Kirchenmodell und Buch. Sehr hibsche Rococo-Statuetten, vollrund geschnitten in Birnbaumholz. Auf Holzsockeln mit vorderer Rococokartusche.
+
+Hohe der Figuren 17e, ganze Hohe 25 cm. 2 Stick.
+
+Nr. 964. Zwei Apostelfiguren in reich drapirten Gewandungen, ein Buch in der Rechten haltend,vollrund in Holz geschnitzt, Kopfe, Fusse und Hande Elfenbein. Vorzigliche Arbeiten des Simon Troger. XVIH. Jahrh.
+
+Hohe 28cm.2 Stuck.
+
+Nr. 965. Bettler und Bettlerin, im Geschmack des J. Callot, in stark zerlumpter Kleidung mit Tragkorb und Sack.Gleiche Ausfuhrung.
+
+Hohe 26und 25cm.2 Stiek.
+
+Nr.966. Bettler und Bettlerin, ihnlich und in gleicher Ausfihrung; ersterer mit langem Stab,letztere ein Becken tragend.
+
+Hohe 26cm.2 Stick.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+41.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+85
+<!-- image -->
+
+- Nr.967. Groteskfigur in predigender Stellung, nach der bekannten Sage, die eine Halfte der Zuhorer zum Lachen, die andere zum Weinen zu bringen. Obscone Figur in gleicher Aus-
+- fuhrung.
+
+Hohe25em.
+
+- Nr. 968. Alter Bettler, in gleicher Ausfihrung,mit Stab und Bindel. Sehr schon.
+- Hohe 25cm.
+- 165 Nr. 969. Musikbande, aus einer weiblichen und drei mannlichen Figuren mit Dudelsack und Laute bestehend. Gleiche Ausfuhrung.
+
+Hohe zwischen 24und 26cm.4 Stiick.
+
+- Nr. 970. Groteskbiste eines alten Weibes mit verzerrtem Gesicht, eine Fliege auf der Nase. 75 Gleiche Ausfuhrung. Sehr schon. Hohe der Biste 13, ganze Hohe 20 cm. Auf Holzpostament.
+- Nr. 971. Narr, barfuss,in Jacke und Zipfelmitze. Vollrunde Statuette in hnlicher Aus-
+
+<!-- image -->
+
+Ganze Hohe 23cm.
+
+- Nr. 972. Finf verschiedene,meist humoristische Figuren,vollrund gut in Holz geschnitten: a.Bassspieler. Hohe 27 cm.b. Jude mit Sack. Hohe 28 em. c. Bettler mit Sack, polychromirt. Hohe 23 em.
+- 100 d.u.e. Zwei Chinesenfiguren. Hohe 15 cm.
+
+<!-- image -->
+
+<!-- image -->
+
+105
+
+- Nr. 973. Rococo-Hausaltarchen; der Sockel geschweift und mit Reliquien.Als Aufsatz eine Pieta mit drei Engelsfiguren, fast vollrund vortrefflich geschnitten in Holz.
+- Ganze Hohe 17cm.
+- Nr. 973a. Pieta. Maria,in reich drapirtem Gewande, den Leichnam Christi auf dem Schoosse haltend. Vortrefliche vollrunde Gruppe, meisterhaft geschnitten in Buchsbaumholz, ungemein edel
+- in Ausdruck. XVI. Jahrh.
+
+Hohe 101/2cm.
+
+- Nr. 974. Bettler und Bettlerin,in ahnlicher Ausfuhrung wie die Nrn.964 ff. Gute Qualitat. Hohe 24und 26cm.2 Stick.
+- Nr. 975. Die Taube des heiligen Geistes in Aureole,vollrund in Holz geschnitzt,an einem Stabe mit zwei Kartuschenschildchen mit den Initialen H. F.U. R hangend; das Ganze von einer Glaskugel umschlossen. Interessantes Drechslerkunststick.
+
+Diam.der Kugel 10 cm.
+
+- Nr. 976. Schnitzerei in weichem Holze, einen Doppelkopf darstellend, der auf der einen Seite das Gesicht eines alteren Mannes, auf der anderen einen Todtenkopf zeigt. XVI. Jahrh. In altem Lederetui.
+
+Linge 3cm.
+
+- Nr.977.Taschenaltarchen, zweitheilig,Diptychon, in Buchsbaumholz minutios und fein,theils durchbrochen geschnitzt mit cinem Rankenwerk, welches zwei grossere Medaillons mit religiosen Darstellungen und funfzig kleinere mit Heiligen-Brustbildern umschliesst. Russisehe Arbeit. Hohe 61/2,Breite aufgeschlagen 8a/4 em.
+
+<!-- image -->
+| Nr. 978. Dreissig Dambrettsteine -—15 in Elfenbein,15 in schwarzem Holz ,erstere mit antiken Kriegerbisten gravirt, letztere mit solchen in gravirtem Elfenbein eingelegt. Interessante Serie. XVII. Jahrh. Diam.5em.30 Stick.                                                                     |     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+| Nr.979a.Memento mori. Todtenkopf, vollrund vortreflich in Elfenbein geschnitten.XVI. Jahrh. Hohe41/4cm.                                                                                                                                                                                            | 36  |
+| Nr. 979b. Rosenkranz-Anhanger, vollrund und meisterhaft geschnitzt in Elfenbein mit halb von herumkriechendem Gewirm abgefressenen Todtenkopfen.Vorzigliches Stuck. XVI. Jahrh. Hohe 4cm.                                                                                                          |     |
+| Nr. 980. Madonna immaculata,auf der Weltkugel stehend. Flott geschnittenes Statuettchen in Elfenbein.XVII.Jahrh. Lange 9 cm. Mit Lisuren.                                                                                                                                                          | 31. |
+| in sehr hohem Relief. Aeusserst interessantes und frihes Stick. Ende X., Anfang XI. Jahrh. Linge 8,Breite 7 cm.                                                                                                                                                                                    | 125 |
+| Nr. 981b. Stockkricke,in Elfenbein fast vollrund geschnitten mit nackter weiblicher phan- tastischer Figur;auf ihrem Kopfe cin Wappenmedaillon. Interessantes Stuck in fruhem Charakter. Lange 12 cm.                                                                                              |     |
+| Nr. 981c. Zwei liegende kleine Lowen in Vollrund in Elfenbein geschnitten (Fuss und Be- kronung eines Kastens). XVI.und XVIl. Jahrh. Linge33/4und 61/ecm.2 Stick.                                                                                                                                  |     |
+| Nr. 981d. Zwei kleine Hunde in Vollrund in Elfenbein; der eine in fotter Bewegung. Linge 8und 6cm.2 Stick. Nr. 981e. Miniatur-Statuettchen des neugcborenen Jesukindes. Reizendes Vollfigirchen in Elfenbein kinstlich geschnitzt; von einer Gruppe der Geburt Christi. XVI. Jahrh. Lange 33/4 cm. |     |
+| Nr. 981f. Figur eines Negers, vollrund in Elfenbein geschnitten. XVI. Jahrh. Lange 8 cm. Lidirt.                                                                                                                                                                                                   |     |
+| Nr. 982a. Christuskorper, vollrund in schoner Anatomie vorziglich geschnitten in Elfenbein. Italienisch. XVI. Jahrh. Lange 28 cm. Ladirt.                                                                                                                                                          |     |
+| Nr. 982b. Christuskorper, sehr gut geschnitten in Elfenbein,mit seelenvollem Ausdrucke des Kopfes. XVII. Jahrh.                                                                                                                                                                                    |     |
+
+Lange 12 em.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Arbeiten in Wachs, Stein,Perlmutter,Horn ete.
+
+Nr. 983. Hausaltirchen. Die Mitte nimmt unter Stoffbehang ein Wachsrelief mit der Madonna mit dem Kinde ein; der Rahmen Buchsbaumholz in ungemein reichem architektonischem Aufbau in Form eines Altars meisterhaft geschnitzt. Auf einem hohen Sockel, dessen von Voluten fankirtes Mittelfeld Reliquien enthalt, erhebt sich der reiche Mittelbau mit Guirlanden,Engelskopfen und seitlichen Ausschweifungen. Das Mittelfeld ist seitlich von zwei Nischen fankirt, in denen die Vollfiguren Johannes des Taufers und Johannes des Evang.; iber der Mitte ein reiches Kartuschenschild mit einer mit lateinischem Spruch gravirten Metallplatte. Die Bekronung bildet eine reiche offene Giebelnische,unter der die Vollfigur des hl. Johannes von Nepomuk; zu den Seiten elegant geschwungene Architrave. Prachtstick; ungemein reich und nobel im Aufbau, wie in der Gesammtwirkung, und in seiner kunstlerischen Vollendung ein Meisterstick der Holzschnitzerei. Deutsche, wahrscheinlich Augsburger Arbeit. XVll. Jahrh.
+
+Ganze Hohe 70,Breite 42cm.
+
+Nr. 984. Grosse Sonnenuhr, in Solenhofener Stein,reich geatzt mit Calendarium,Stellarium, Tellurium etc.In der Mitte oben das von Cloth'sche Wappen iber einer Schriftbanderole,umrahmt von acht verschiedenen Wappen, dabei Bauer von Franckenberg, Quadt von Landskron,von Reichenberg,von Bassenheim ete. Oben die Jahreszahl 1716. Unten am Rande Dedication des Verfertigers
+
+F.X. J.Borius presbyter Eystettensis.In Eisenumrahmung.
+
+Hohe des Steins 50,Breite 42 cm.
+
+- Nr. 985. Grosse viereckige Tafel in Solenhofener Stein, in sehr hohem Relief vortrefflich geschnitzt mit der Anbetung der hl. drei Konige in einer figurenreichen sehr hubschen Composition mit Anklangen an die Veroneser Schule. Gutes Stick.XVII. Jahrh.
+
+Hohe 35,Breite 28cm.In Goldrahmen.
+
+- Nr. 986a. Rundes Medaillon in Solenhofener Stein, geatzt mit vielzeiliger kalligraphischer Inschrift mit dem Namen des Kunstlers:,Tobias Kharner Monacensis 1593" Diam.13 cm.In gedrechseltem Holzrahmen.
+- Nr.986b. Medaillon in Solenhofener Stein, von demselben Kinstler vertieft geschnitten und vergoldet mit lateinischer Inschrift. Mit Monogramm TK und Jahreszahl 1589. Diam.111/ecm.Ebenso.
+- Nr.987. Sonnenuhr,achteckig,in Solenhofener Stein,reich geatzt,oben abtliches Wappen mit Steinbock und Jahreszahl 1694. Monogrammirt P. S.
+
+Diam.16 cm. In Bleifassung. Gesprungen.
+
+Nr. 988. Viereckige Sonnenuhr in rothem Marmor, geatzt mit dem Stundenkreis, Spruch und gekrontem Wappen mit Bock. XVIl. Jahrh.
+
+Hohe 16,Breite 13cm.In Holzrahmen.
+
+- Nr. 989. Collection von 31 Gegenstanden in gedrehtem und polirtem Serpentinstein (LavezStein) und zwar:
+- 1—4. Vier Schuisseln mit grosser Tiefung und breitem Rande.
+- Diam.30cm.
+- 5—9. Funf verschiedene Schraubfaschen in verschiedener Musterung,vier mit Zinnverschluss,eine mit Serpentindeckel.
+
+Hohe zwischen 12 und 20 cm.
+- 10.Morser, cylindrisch, mit Stosser.
+- 11-16. Sechs Becher verschiedener Grosse, theils glatt, theils mit Rippen.
+- 17.
+- Hohe 13,Diam.11/2cm.
+- Hohe zwisehen 9 und 13cm.
+- Gedeckelter Pocal,der Kelch in Rautenmusterung,leicht beschadigt.
+- Kanne, birnformig, mit Zinnfassung und in Hochrelief ornamentirtem Zinndeckel. Hohe 15cm.
+18. Hohe 19 cm.
+- Hohe 13 cm.
+19. Theekanne,ahnlich gemustert.
+- 20-21.Zwei fache gedeckelte Bichsen.
+- 22.
+
+Hohe 6,Diam.11 cm.
+
+- Hohe 71/2,Diam.17 cm.
+- Kumpiges Gefass (Bol).
+2326. Vier kleine Deckelbuchsen. Hohe zwischen 5 und 10 cm.
+- Hohe 51/2cm.
+- 27-30.Vier Ober- und Untertassen.
+- 31.Kleiner conischer Napf. Hohe 6cm.
+- Nr.990.Vase, im Stile Louis XVI.; der.Korper eiformig,Mosaik mit Ornamentzonen, Maanderfriesen etc.; Sockel und Deckel Goldbronze,reich ornamentirt mit Palmetten und Bossen.Bezeichnet:
+
+Interessante Garnitur.Wird auf Wunsch vereinzelt.31 Stick.
+
+- ,A.Mazzesi fecit 1798“.Gutes Stick.
+
+Hohe 31 cm.
+
+- Nr.991. Ovales Hochrelief in weissem Marmor, mit der Verklarung Christi in einer an
+
+Hohe 26,Breite 22 cm.Schwarzer Holzrahmen.
+
+- bekannte italienische Darstellungen anklingenden Composition. XVII. Jahrh.
+- Nr. 992. Zwei Tafeln mit reichen Landschaftsdarstellungen unter hohem Thorbogen,mosaikartig behandelt in farbigem Marmor,unter Anwendung der Steinadern. Interessante italienische
+- Arbeit.XVIII.Jahrh.
+
+Hohe 28,Breite 20 cm.In Goldrahmen.2 Stuck.
+
+- Nr. 993.Neun Marmorbilder,in ahnlicher Ausfuhrung, Felslandschaften, Architekturen ete. bildend.
+
+Hohe 18,Breite 26cm.9 Stick.
+
+- Nr. 994. Venus im Bade,vollig nackt, in hockender Stellung nach oben schauend,in der bekannten Darstellung. Gut ausgefuhrte Statuette in Marmor; auf dem Sockel bezcichnet: J.N. Hoz1832."
+
+Ganze Hohe 21 cm.
+
+- Nr. 995. Sechszehn Pilgermuscheln, Perlmutter,tief geschnitten und gravirt mit den vier-
+- zehn Stationen,zwei Stick mit Darstellungen aus dem Marienleben.
+
+Diam.14 und 10cm.16Stick.
+
+- Nr. 996. Rumdes Amulett mit agglomerirtem Scheibchen mit dem Brustbilde der Madonna; die Rickseite mit Reliquien von Silberfaden gehalten.
+
+Diam.6cm.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Gemalde, Aquarelle ete.
+
+- Nr. 999. Ein Paar agglomerirte Scheiben. Hugelige Landschaften mit zierlicher Staffage vorziglich ausgefuihrt in Goldfolie auf schwarzem Grunde.Unten rechts bezcichnet: Jos. Gassler
+- (Chappellaine)."
+
+Linge 22,Breite 18cm.1 Scheibe mit Sprung. In geschnitzten Holzrahinen mit oberer Bandschleife.
+
+- Nr. 1000. Zwei viereckige Bildchen in Marquetteric-Arbeit in farbigem polirtem Holze;die Schlosser Reichenhausen und Reichenstein darstellend. XVIlI. Jahrhundert. Hohe 161/e,Breite 241/ecm.In Holzrahmchen.
+- Nr.1001. Drei Tafeln mit Landschaften in Holzmarquetterie, theils mit Maserholz, theilweise mit Bemalung.
+
+Hohe 22,Breite 32cm.Goldrahmen. 3 Stick.
+
+## J.F. Ermels.
+
+- Nr.1002. Zwei Flusslandschaften mit verfallenen Gebauden und Figurenstaffage. stuicke.
+
+Holz,Hohe 23,Breite 30cm.Holzrahmen.2 Stick.
+
+## Barbara Dietzsch.
+
+- Nr.1003. Zwei Gefligelsticke. Einheimische Vogel aller Art in Landschaften, theils auf
+- Baumstammen sitzend. Gegenstucke.
+
+Leinwand. Hohe 23,Breite 35 cm.Goldrahmen.2 Stick.
+
+## Michael Wohlgemuth (Schule).
+
+- Nr. 1004. Der Tod Maria in einer Composition von dreizehn Halbfiguren. Die Aureolen und der Hintergrund vergoldet und mit Punzornamenten. Interessantes Bild.
+
+Holz. Hohe 38,Breite 81 cm.Holzrahmen.
+
+## Bartholomaus Zeitblom (Schule).
+
+- Nr. 1005. Die Geburt Christi. In einer reichen landschaftlichen Darstellung kniet die Madonna borene Jesukind anbetend;links der hl. Joseph;rechts nahen die Hirten;in der Hohe Engelgruppe.
+- in reich drapirtem Gewande vor einer verfallenen Architektur, das auf der Erde liegende neugeSehr schones und interessantes Bild,der Hintergrund vergoldet.
+
+Holz.Hohe 90,Breite 70cm.
+
+<!-- image -->
+
+<!-- image -->
+
+- Nr.997. Becher mit Deckel, Steinbockhorn, der Mantel in sehr hohem Relief theils vollrund Steinbocks. XVIII.Jahrh.
+
+Hohe 12,Diam.71ecm.
+
+Nr.998.Facher,Louis XV., die Schale Elfenbein,reich, theils durchbrochen, geschnitzt mit einzelnen Figuren und Gruppen zwischen prachtigem Ornamentwerk; die Fahne Vogelleder, bemalt mit Blumen und mit reichem Spitzenmuster auf blauem Grunde;in der Mitte Medaillon mit drei in Landschaft tanzenden Figuren. Sehone Qualitat,besterhalten.
+
+Lange 28 cm.In Etui.
+
+- Gegen-
+## Hans von Culmbach (Schule).
+
+Nr. 1006. Altarfligel. Die eine Seite zeigt in einer Composition von funf Figuren die Geisselung Christi, die andere die Brustbilder zweier Bischofe auf gepunztem vergoldeten Grunde in Teppichmusterung unter reliefrten Baldachinen mit Maasswerkverzierungen. Sehr interessantes Bild. Holz. Hohe 91,Breite 83em.Holzrahmen.
+
+## Unbekannter oberdeutscher Meister, xV. Jahrh.
+
+Nr. 1007. Die Anbetung der hl. drei Konige. Composition von finf Figuren; Hintergrund und cinzelne Theile vergoldet. Interessantes Bild. Holz. Hohe 65,Breite 78 cm.Holzralmen.
+
+## Unbekannter deutscher Meister des xVill. Jahrh.
+
+Nr.1007a. Altes Paar bei der Mahlzeit und Bettler mit Knabe. Holz.-Hohe 221/e,Breite 15 cm.Holzrahmen.
+
+## Unbekannter Meister des XVIll. Jahrh.
+
+Leinwand. Hohe 85,Breite 60cm. Goldrahmen.
+
+Nr. 1008. Bildniss eines Cardinals. Lebensgrosse Halbfigur in vollem Ornate mit Hermelin, Mantel und Mozetta.
+
+Nr.1009. Viereckiges Bild in Teppich-Weberei (geschnittener Plusch) mit Madonna mit dem
+
+Kinde in einer an A. van Dyck anklingenden Composition. Hohe 75,Breite 66cm.
+
+Nr.1010. 53 Stick aquarellirte Federzeichnungen von Martin Orthner, Vogelgruppen, Quodlibets von Titelblattern, Karten,Landschaften ete. bildend, zum Theil auf Papier, zum Theil auf Pergament zierlich gemalt.
+
+Hohe 37,Breite 25 em. In Rahmen unter Glas. 53 Stick.
+
+Egypten. Unten links bezeichnet: T. G.
+
+Hohe 16,Breite 21 cm.
+
+## Mobel und Einrichtungs-Gegenstande ete.,
+
+<!-- image -->
+
+zum grossten Theile aus dem bischofl. Palast zu Meersburg stammend.
+
+Nr.1012.Cassette,viereckig,in braunem Holze,in theils gefirbtem, theils gravirtem Elfenbein allseitig reich eingelegt mit reizvollen Blumen- und Fruchtbouquets, die von Vogelfiguren belebt
+
+Hohe 12, Linge 20,Breite 101/ cm.
+
+sind. Sehr gutes Stick. Anfang XVII. Jahrh.
+
+Nr. 1013. Cassette, viereckig, in braunem Holze mit einer reichen Einlage in gravirtem
+
+Hohe 14,Linge 29,Breite 16 cm.
+
+Elfenbein,welche in Feldern Renaissance-Arabesken mit Mascarons und Ornamentbandern zeigt, zwischen denen auf der Frontseite die Standfiguren der Apostelfirsten; im Innern des Deckels Johannes auf Pathmos auf einem Sessel sitzend, welcher die Jahreszahl 1584 tragt. Im Innern zwei Secrets. Schweizer Arbeit.Ende XVI.Jahrh.
+
+35
+
+95
+
+22
+
+<!-- image -->
+
+510
+
+220
+<!-- image -->
+
+Botay.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+135
+
+Nr.1014. Kleine Holzcassette, vierseitig, die Seitenwandungen reich geschnitzt in Kerbschnittmusterung; auf dem Schieberdeckel vertieft geschnitten die Standfigur des hl. Mauritius. XVI.Jahrh.
+
+Hohe 10,Linge 15,Breite 111/ecm.
+
+- Nr.1015. Cabinet mit vorderem Klappdeckel und einer inneren Einrichtung von zwolf Schiebfichern, welche sich um ein Mittelgefach gruppiren, welches mit zwei Thiren verschlossen ist. Die Innenseite des Deckels zeigt in reich ausgefihrter Intarsienarbeit St. Georg den Drachen todtend, figuren vor theils interessantem landschaftlichen Hintergrund. Die Darstellungen heben sich in ihrem dunkleren und theils farbigen Holze ungemein wirkungsvoll von dem Goldtone des Untergrundes ab. Sehr schones Mobel von sehr hubscher und einheitlicher Gesammtwirkung. Ende XVI. Jahrh.
+
+Hohe 60,Breite 95,Tiefe 40cm.
+
+Nr. 1016. Schmuckschrankchen in schwarzem Holze mit zwei Thiren und einer innern EinDie Friese derselben zeigen in Elfenbeineinlage zierliche von Thierfiguren belebte Renaissancelaub- richtung von sechs Schiebfachern, die sich um ein mit Thure verschlossenes Mittelgelass gruppiren. ranken,die Thure das Wappen der Hohenzollern in reizvoller Arabeskenumrahmung. Als Bekronung des Ganzen ein hoher einfacher Aufsatz. Hubsches Mobel. Anfang XVHl. Jahrh.
+
+Hohe 41,Linge35,Breite 20cm.
+
+- Nr.1017. Grosser viereckiger Kasten mit hohem,im mittleren Theile geschragten Deckel, in reichster Certosa-Arbeit, in verschiedenfarbigem Holze und theils gefirbtem Bein cingelegt in geometrischer, von Rosetten durchsetzter Musterung; der Deckel mit proflirtem Messinggriff. Gutes
+- Stick.Italienisch.Ende XVI.Jahrh.
+
+Hohe27,Linge44,Breite 29cm.
+
+- Nr.1018. Schmuckkastchen,vierscitig,in Elfenbein auf Kugelfissen ruhend,mit gewundenen Ecksiulehen und reichem, theils durchbrochenem Decor; als Bekronung des kuppelformig auf steigenden hohen Deckels eine lange Profilspitze. XVII. Jahrh.
+
+Gnze Hohe 22,Linge 15,Breite 13cm.
+
+- Nr.1019. Vier Rococo-Consoltische auf zwei geschweiften Fuissen,reich gesehnitzt mit Kartuschen und Muschelwerk. Weiss bemalt und vergoldet.Die Platten grauer Marmor,versteinerte Muscheln enthaltend.
+
+Hohe 87,Breite 70cm.
+
+- 120 Nr. 1020. Ein Paar Rococo-Consoltische,zweibeinig,mit zierlich geschnitztem Muschel-und Ornamentwerk.Weiss-gelb bemalt.Die Platten rother und grauer Marmor,Versteinerungen ent-
+- haltend.
+
+<!-- image -->
+
+105
+
+Hohe 78,Breite 60cm.
+
+- Hohe 78,Breite 121cm.
+- Nr.1022.Rococo-Console auf zwei volutenformig geschweiften Fussen, durchbrochen geschnitzt mit ippigem Muschelund Blumenwerk.Die Platte grauer Marmor.Vergoldet.
+
+<!-- image -->
+
+135
+
+Hohe 82,Breite97cm.
+
+- Nr.1023.Rococo-Console, der Schragen und die geschweiften Fisse trefflich geschnitzt mit Muschel-und Rankenwerk.Die Platte grauer Marmor.Vergoldet.
+
+<!-- image -->
+
+Hohe 79,Breite 89 cm.
+
+<!-- image -->
+- Nr.1024. Rococo-Console mit zwei geschweiften Fussen, iberaus reich durchbrochen geschnitzt mit Palmetten,Muschel- und Blumenwerk. Die Platte gelber Marmor. Vergoldet.
+- Hohe 83,Breite 86cm.
+- Nr. 1025. Consoltisch, Louis XV.,auf zwei volutenformig gebogenen Fussen, der Schragen geschnitzt mit Rosenbouquets. Die Platte (gesprungen) grauer Marmor. Vergoldet.
+- Hohe 80,Breite 80cm.
+- Nr. 1026. Ein Paar Rococo-Consoltische auf zwei geschweiften Fussen, reich durchbrochen geschnitzt mit Laubwerk und Bandschleifen. Die Platten weisser Marmor. Hohe 78,Breite 74 cm.
+- Nr. 1027. Drei Rococo-Consoltische mit vorderem geschweiften Fusse, geschnitzt mit PalHohe 82,Breite 81cm.
+- Nr.1028. Consoltisch auf vorderem, volutenformig gebogenem Fusse im Rocaillestile, geschnitzt mit Palmetten und Muschelwerk. Vergoldet. Die Platte rothlicher Marmor. Hohe 86,Breite 66cm.
+- Nr.1029. Sechszehn Consoltische,Louis XVI., auf zwei cannelirten Fussen, der Schragen mit Scheibenbordiren und durchbrochen geschnitzten Lorbeerguirlanden. Die Platten grauer und rother
+- Marmor. Vergoldet.
+
+Hohe 87, Lange 110 cm.
+
+- Nr.1030.Vier Consoltische,Louis XVI., auf zwei cannelirten Fussen, der Schragen mit scheiben-
+- artig behandelter Bordire und freihangenden Lorbeerguirlanden.Die Platte grauer Marmor.Vergoldet. Hohe 84,Breite 85 cm.
+- Nr. 1031. Vier verschiedene Consolen, Louis XVI.,auf zwei cannelirten Saulen; der Schragen
+- geschnitzt mit aufgerolltem Bandwerk und Sternblumen. Die Platten rother und grauer Marmor. Hohe 87,Breite 75cm.
+- Nr. 1032. Glasschrank, Sammlungs- oder Bibliothekschrank,im Stile Louis XVI., in Eichenauf den Ecken freistehende Vasen. Der untere Theil mit 3O Schiebfachern in drei Reihen. Schones
+- holz. Der Aufsatz des mit zwei Thuren verschlossenen zuricktretenden Obertheils mit reich geschnitztem, theils vergoldetem geschweiften Aufsatz,in dessen Mitte ein ippiger Fruchtkorb; und praktisches Mobel.
+
+Hohe 275,Breite 141,untere Tiefe 62,obere Tiefe 50cm.
+
+- Nr.1033. Glasschrank, ganz ahnlich und genaues Gegenstick.
+
+Gleiche Grosse.
+
+<!-- image -->
+
+- Nr. 1034. Glasschrank,ahnlich, schmaler; der Aufsatz des Obertheils ohne die seitlichen
+- Vasen; das Untertheil mit 16 Schiebfachern in zwei Reihen.
+
+Ganze Hohe 275,Breite 102,untere Tiefe 51,obere Tiefe 37cm.
+
+- Nr.1035. Glasschrank,ebenso und genaues Gegenstick.
+
+Gleiche Grosse.
+
+- Nr. 1036. Glasschrank,ahnlich; der Aufsatz in der Mitte mit reicher Bandschleife,die von einer iberstehenden Blume iberragt wird; das Untertheil mit 14 Schiebfachern in zwei Reihen.
+- Ganze Hohe 275,Breite 92,untere Tiefe 50,obere Tiefe 37cm.
+- Nr. 1037. Glasschrank,ebenso und genaues Gegenstuick. Gleiche Grosse.
+
+<!-- image -->
+
+130
+
+<!-- image -->
+
+<!-- image -->
+
+30
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+400
+
+<!-- image -->
+
+Nr.1038. Rococo-Spiegelschrank in Eichenholz. Der untere, auf vier elegant geschweiften Fussen ruhende Theil mit Schiebfachern in zwei Reihen. Das wenig zuricktretende Obertheil ist mit einer Thire mit Spiegelscheibe verschlossen, deren Umrahmung in reichstem und schwungvollstem Stile geschnitzt und theilweise vergoldet ist und deren obere Bekronung in die mittlere Oefnung des nobel geschweiften Aufsatzes hineinspringt, der ein vortretendes Gesims zeigt und von zwei reizvollen Guirlanden iberragt wird. Feines geschmackvolles Mobel,ungemein nobel im Auf bau und vorziglich in der Ausfuihrung.
+
+Hohe 248,Breite 101,untere Tiefe 49,obere Tiefe 40cm.
+
+Nr.1039. Zwei einfache Sammlungsschranke in Eichenholz; die Untertheile mit Schiebfacheru, deren Friese wenig geschnitzt, die Obertheile mit zwei Thuren verschlossen, bei dem einen mit Glasscheiben.
+
+Hohe 232,Breite 130,untere Tiefe 62,obere Tiefe 48 cm.
+
+Nr.1040a. Grosserer dreitheiliger Bibliothekschrank im Stile Louis XVI., geschnitzt, weiss 210 bemalt und mit theilweiser Vergoldung. Der mittlere Schrank hoher und vortretend; die Untertheile sind mit je zwei reich durchbrochenen Thuren, die Obertheile mit je zwei Glasthiren verschlossen. Das theils reiche Schnitzwerk zeigt Guirlanden,Festons,Medaillonkopfe,Vasen etc. Sehr schones Mobel,aus dem Kloster Salem stammend.
+
+Hohe des mittleren Schrankes 436,der seitlichen Schranke 340, ganze Breite 510 cm.Dazu anschliessende Lambris-Fillungen.
+
+Nr.1040b. Bibliothekschrank, dazu passend,einfacher und ohne Bekronung. Ebendaher. Hohe 312,Breite 160cm.
+
+Nr.1040e.Bibliothekschrank, dazu passend,aber mit wenig ornamentalem Sehmuck.Ebendaher. Hohe 330,Breite 172 cm.
+
+<!-- image -->
+
+<!-- image -->
+
+Nr. 1041. Zwei kleine Eckschranke,Louis XVI.,auf drei pyramidenartig behandelten Fussen, die Vorderseite abgerundet, mit vier Schiebladen,die in Nussbaum- und Ahornholz eingelegt, in geschachter Musterung. Die Platte weisser Marmor.
+
+Hohe 85,Breite 87cm.
+
+Nr.1042. Zwei kleine Eckschranke, Nussbaumholz, mit vorderer grosser Thire, die wie die abgerundete Platte eingelegt in schwarz gebeiztem Holze.
+
+Hohe 90,Breite 90cm.
+
+Nr. 1043. Schreibpult auf vier geschweiften Fuissen; das Untertheil mit drei Gelassen, das Obertheil mit schragem Deckel geschlossen und mit einer inneren Schiebladen-Einrichtung. Die Aussenwandungen in hellem und dunkelem, theils reich gemasertem Holze eingelegt in verschobener Wurfelmusterung. XVIII. Jahrh.
+
+Hohe 98,Breite 105,Tiefe 50cm.
+
+Nr. 1043a. Tisch auf vier hohen geschweiften Fuissen; die geschweifte Platte in ihrem grossen Mittelfelde in hellem und dunkelem Holze reich eingelegt in geometrischer Musterung. XVIll. Jahrh. Hohe 73,Lange 106,Breite 75 cm.
+
+Nr.1044. Kleiner Servirtisch auf vier cannelirten Stollen, die Platte in verschiedenfarbigem Holze reich eingelegt mit Schafer in Landschaft.
+
+Hohe 75,Lange 66,Breite 37cm.
+
+Coril
+Nr.1045. Sechs kleine Eckconsolen,Louis XVI.,mit einem saulenartig behandelten cannelirten Stempel, der Schragen geschnitzt mit scheibenartig behandelter Bordure und Lorbeerguirlande.Die abgerundete Platte grauer Marmor.
+
+Hohe 85cm.
+
+Nr.1046. Kleine Rococo-Console. Braun bemalt.
+
+Hohe 40,Breite 40cm.
+
+Nr. 1047. Kleiner Gueridon,Louis XIV., in fachem Relief reich geschnitzt.
+
+Hohe 68cm.
+
+Nr.1048. Sechsarmiger Kronleuchter in Form eines ippigen Rosenbouquets,in Eisen geschmiedet und polychromirt, die reichen Blumen und Knospen in sachsischem Porzellan. Sehr schones Stick.XVIII. Jahrh.
+
+Linge 100 cm.
+
+Nr.1049. Sechsarmiger Kronleuchter, ebenso und Gegenstick. Dazu gegen 100 mehr oder weniger vollstandige Porzellanblumen, theilweise mit Zweigen und Blattern und ein Bouquet von Porzellanblumen,sammtlich von einem dritten,z. Z. durch einen Steinwurf zerstorten Leuchter herrihrend.
+
+Lange 90 cm.
+
+## Geweihe,
+
+zumeist aus dem bischofl.Palast in Meersburg stammend.
+
+Nr.1050.Hirschkopf,vollrund vortrefflich geschnitzt und polychromirt,auf reich geschnitztem und bemaltem Schild, mit dem Wappen der Familie Waldkirch von Schaffhausen. Schones Stick wie die folgenden
+
+Linge 140,Breite 80 cm.
+
+Nr. 1051. Hirschkopf, ahnlich,mit Geweih, Achtender,auf bemaltem Schild.
+
+Nr.1052. Hirschkopf, hnlich,mit Zwolfender; der reich geschnitzte polychromirte und vergoldete Schild mit zwei Engelsfiguren.
+
+Nr. 1053. Hirschkopf, ahnlich,mit Vierzehnender,auf einfachem Sehild.
+
+Nr.1054.Hirschkopf, ahnlich,mit Achtender,auf schon geschnitztem und polychromirtem Rococoschild.
+
+Nr.1055. Hirschkopf, ahnlich,mit Achtzehnender,auf einfachem Schild.
+
+Nr.1056. Geschnitzter Kopf mit Elenthier-Geweih.
+
+Nr. 1057. Kopf eines Steinbocks, in Vollrund, vortrefflich geschnitzt, mit grossen Hornern.
+
+Nr. 1058. Hirschkopf, einfach geschnitzt, mit Sechszehnender.
+
+Nr.1059. Hirschkopf, ahnlich,einfach,mit Zehnender.
+
+Nr.1060. Hirschkopf, vollrund vortrefflich geschnitzt, mit Sechszehnender.Auf schon geschnitztem und bemaltem Rococoschild,welches die Aufschrift tragt:Den 7.October 1765 in dem Boblinger Hut und Forst von Sr. hochfurst. Eminenz geschossen worden."
+
+<!-- image -->
+
+<!-- image -->
+
+23.
+
+<!-- image -->
+
+230.
+
+<!-- image -->
+
+280
+<!-- image -->
+
+Nr.1061.Hirschkopf, einfach geschnitzt,mit Zwolfender.
+
+Nr.1062. Hirschgeweih eines Leuchterweibchens,Vierzehnender, mit gothisirenden Kerzentragern und Ketten in Eisen.
+
+Nr.1063. Hirschkopf, vollrund geschnitzt,mit Achtzehnender,auf geschnitztem Barockschild.
+
+Nr.1064. Hirschkopf, ahnlich,mit Zwanzigender, auf einfachem Schild.
+
+Nr.1065. Hirschkopf, vollrund vortrefflich geschnitzt mit Vierzehnender, auf schonem ver goldeten und bemalten Rococoschild, mit der Aufschrift:8. Oct. 1765, Waldenbucher Forst, Blattenharter Hut.Geschossen von Sr. Eminenz."
+
+Nr. 1066. Hirschkopf, ahnlich,mit Achtzehnender; auf grossem schonen Rococoschild, das vergoldet und die Inschrift tragt:,Den 3. Oct. 1765 in der Metzinger Hut,Waldenbucher Forst
+
+Nr.1067. Hirschkopf, ahnlich, mit Zwolfender; das bemalte und vergoldete Rococosehild mit der Inschrift:Den 8. 8ber 1765. Kirchheimer Forst, Frickenhauser Hut von Sr. hochfurst.Eminenz geschossen worden."
+
+215 Nr.1068.Hirschkopf,ahnlich,mit Vierzehnender,mit der Aufschrift:Den 7ten 8ber im Waldenbucher Forst, Hildrichshausen von Sr. Eminenz geschossen worden."
+
+- 310 Nr.1069.Hirschkopf,ahnlich,mit Vierzehnender,mit der Aufschrift:Den 4ten 8ber 1765 Waldenbucher Forst, Einsiedler Hut, von Sr. hochfurstl. Eminenz geschossen worden."
+
+925 Nr.1070. Hirschkopf,hnlich,mit Sechszehnender,mit der Aufschrift:Den 5tn 8ber 1765
+
+- 300 Nr.1071. Hirschkopf, hnlich,mit Sechszehnender, mit der Aufschrift:Den 5. 8br 1765
+
+Nr.1072. Hirschkopf, ahnlich,mit Zwolfender, mit der Aufschrift:Den 3ten 8ber Waldenbucher Forst, Einsiedler Hut, von Sr. hochfurstl. Eminenz geschossen worden."
+
+- 3W Nr.1073. Hirschkopf, ahnlich, mit Vierzehnender, mit der Aufschrift:,Den 7ten 8ber 1765 Boblinger Hut und Forst, von Sr. hochfuirstl. Eminenz geschossen worden."
+
+Nr.1074. Hirschkopf, hnlich,mit Vierzehnender,mit der Aufschrift:Den 4tn 8ber 1765 Waldenbucher Forst, Einsiedler Hut, von Sr.Eminenz geschossen worden."
+
+Nr. 1075. Hirschkopf, ahnlich, mit Vierzehnender. Gleiche Aufschrift.
+
+Nr. 1076. Hirschkopf, mit Zwanzigender; auf geschnitztem Schild.
+
+Nr.1077. Hirschkopf, vollrund geschnitzt,mit Zehnender. Ohne Schild.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+## Munzen und Medaillen.
+
+Nr.1078.Amerika.Halber Dollar zu 50 Cents,1817.
+
+Nr.1079. Republik Central-Amerika. Goldmiinze （zu 4 Dollars). Die Sonne hinter 5 Spitzen der Cordilleras aufgehend.R.Baum.Gew.6,9 Gr. S. schon.
+
+Nr.1080. Augsburg (Bisthum). Johann Christoph yon Freiberg. Thaler,1681 （v. Th.H.Muller),mit Wappen u.Madonna PVLCHRA -ELECTA VT SOL * Sch.4060. Mad. 771. Selten. Als Monstranz-Anhanger in KordelflechtUmfassung.
+
+Nr.1081. Augsburg (Stadt）. Thaler,1694, mit d. Stadtwappen,Dopp.-Adler u.Titel Leopolds I.S. schon.
+
+Nr.1082.-Jubel-Medaille,1730,auf die Augsb.Confession,mit Ansicht d. Stadt u.Uebergabe der Confession.Mad.4760.Wh.2265.Gew.27Gr.
+
+Nr.1084.—Conventions-Thaler,1760,mit d. Stadtwappen und d.Brustb.u.Titel Franz I. Mad. 5528.
+
+Nr.1085.Baden.Karl Friedrich,1738-1811. Medaille,1756,z.Feier d.vor 200 Jahr.erfolgten Einf.d. ev.-luth.Bekenntn.Beiders.Inschriften.Berst.XIll,288.Gew.7/e Gr.
+
+Nr.1086.Conv.-Thaler,1766,mit Brustb.im Schuppenharnisch u.d.vollst.Wappen,zu dessen Seiten 2Greifen.Sch.5498.Mad.5441.S.g.e.
+
+Nr.1087.-Ludwig (Wilhelm August),1818-1830. Bronze-Medaille mit d. Munster zu Freiburg,1827.
+
+Nr.1088. Berghammer.Sch.5512.
+
+Nr.1089.Kronenthaler,1836,Zu ihrer Volker Heil.Brustb.u.Wappenkranz. Sch.5514. S.g.e.3 Explre.
+
+Nr.1090. -Ausbeutegulden,1852.Sch.5520.2Explre.
+
+Nr.1091. Bayern. Maximilian Emanuel,1679-1726. Goldgulden,1704,mit Brustb. u.Madonna ib.d. Wappen.K.976.
+
+Nr.1092. Maximilian Joseph.Halber Pramienthaler o.J.mit Kopf u.Schrift. Sch. 627.
+
+Nr.1093. 一 Marienthaler,1775,nach gew.Typus.Mit Anhangern.
+
+Nr.1094. Bayern (Konigreich）.Maximilian Joseph I.,1806-1825.Ducaten,1807,mit Brustb.u.Wappen.Stglz.
+
+Nr.1095. Ducaten,1808. Ebenso.
+
+Nr.1096. Conventions-Thaler,ausgeg. bei Gelegenh. d.ersten Stande-Versammlung 26.Mai 1818. Sch. 631.S.g.e.
+
+Nr.1097. Ludwig I. Conventions-Thaler,1829,Handelsvertrag zwischen Bayern,Preussen,Wirtemberg und Hessen." Sch. 641.S.g.e.
+
+Nr.1098. Convent.-Thaler,1836,Errichtung d. Ottokapelle zu Kiefersfelden".S.g.e.
+
+Nr.1099. Doppelthaler,1839,auf Errichtung d.Reitersaule Maximilians I.S.g.e
+Nr.1100. Bayern (Konigreich）. Ludwig I. Doppelthaler, 1842, mit Ansicht d. Walhalla. S. g.e.
+
+Doppelthaler,1842, auf d.Vermahl. d. Kronprinzen mit Marie von Preussen.Im Rev.d
+
+Nr.1101.Brustbilder der Neuvermahlten. S.g.e.
+
+Nr.1102.—Maximilian Il.Doppelthaler, 1854,auf die Ausstellung,mit Brustb.u. d.Ausstellungs-Palaste. 2Explre.
+
+Nr.1103. Doppel-Gulden,1855,mit der Patrona Bavariae ,zur Erinnerung an die Wiederherstellung der Mariensaule in Munchen". S.g.e. 2 Explre.
+
+Nr.1104. Brabant. Philipp II.,1555-1598. 1 Kreuzthaler, 1562,zu Antwerpen geschlagen. Z.g.e.
+
+Nr.1105.Brandenburg-Preussen.Friedrich III., 1688-1701 (als Kurfurst). Ducaten,1699,mit Bb.u.F. IIl.
+
+ibers Kreuz etc. Arnim 233. G.e.
+
+Nr.1106. Brandenburg-Bayreuth. Friedrich.Dreissiger,1735,mit Bb.u.Wapp.
+
+Nr.1107. Braunschweig. Karl I., 1735-1780. Conv.-Thaler, 1764,mit Brustb.u.Ross. Sch. 7064. Mad. 3672. Stglz.
+
+Nr.1108. Deutsche Kaiser. Karolinger. Denar mit BITV--RICES. Zweifelh.
+
+Nr.1109.Leopold I. Medaille,1688,auf d.Beschiessung v.Philippsburg,Coblenz,Heidelberg u.d.Verwustung d. Pfalz durch die Franzosen. Kriegsscenen und Allegorie. Randsch. v.Loon. ll.,362. Wh. 7312. Gew. 39 Gr.Schon.
+
+Nr.1110. .--Medaille auf die Einnahme yon Ofen,1686. VIRTVTI NIHIL INPERVIVM. Gewaltsam geoffnetes Stadtthor. R.Inschrift:BVDA etc. Leyser 328. Wh.7268. Gew.34 Gr. Verg.S. sch.
+
+gegenub. R. Jupiter und Apollo, die geborstene Weltkugel zusammenbindend.v.Loon V, 244, 1. Wh.7568. Gew. 45Gr.S.schon.
+
+Nr.1112.
+
+Maria Theresia.Die bekannte Spott-Medaille,1742.Wh.7875.
+
+Bronze-Medaille,1774,v.Wurth,auf d.Verbess.d.lat. Schulen. Brustb.u.Minerva mit
+
+Nr.1113. Kindergruppe.Wh.8054.
+
+Nr.1114.-Franz II. Medaille,1788（v. J. N.Wirt),auf s.Vermahlung mit Prinzessin Elisabeth von Wurttemberg. Die beiden Brustb.R.Schrift in 5 Zeilen.Hauschild 242. Gew. 27 Gr. Sehr schon.
+
+Nr.1115. Medaille (v.J. N.Wirt) f. d.Officiere des Tiroler Landsturms,1797. Brustb.u.Aufschrift: Henin LXXXIV,840.Mit Oehr.Gew.18 Gr.
+
+Nr.1116. Eichstatt. Sedisvacanz von 1781. Conv.Thaler,1781. Drei Schilder in Wappenkreis u.Ansicht d. Stadt.Sch.4197.Zep.VIl,69.S.g.e.
+
+Nr.1117. England. Anna. Medaille,1708,auf d.vereitelten Landungsversuch d.Franzosen in Schottland. Brustb. d. Konigin. R. Esel vor der von einer Frau gehaltenen Rose zuruickweichend. v.Loon,V, S.100 N.4. Wh.2107.Gew.28Gr.
+
+Nr.1118.-Georg Ill. Einseitige Medaille mit Brustb. N. 2 and. 3 Stick.
+
+Nr.1119. 一 Victoria.Florin,1857,mit goth.Umschr.
+
+Nr.1120. Frankfurt a.M. Doppelgulden,1848,auf d. Grundung d. Parlaments. Sch.C. 6941. Schon.
+
+Nr.1121. 一
+
+Doppelgulden,1848,,Erzherzog Johann als Reichsverweser".Sch. C. 6942.2 Explre.
+
+Doppelgulden,1855,zur dritten Sacularfeier d. Religionsfriedens. Sch.C. 6944. Schon.
+
+Nr.1122. 一
+
+Vereinsthaler,1859,mit weibl.Brustb.u.Adler. S. g.e.
+
+Nr.1123. 一
+
+- Nr. 1124. Frankreich. Ludwig XIII. Gold-Abschlag eines Pariser Thalers, 1640.LVD.XII1.D.G -FR.
+
+Nr.1125.-Ludwig XIV. Medaillon in Silber. Brustb. n.r.R.:FOEDVS CVM HELVETIS CATHOLICIS
+
+RENOVATVM 1715 zwischen zwei Lorbeerzweigen. Schone Prage. Gew. 104 Gr.
+
+Nr.1126.-Ludwig XV.Medaille,1722,v.Blanc,auf die Verlobung des Konigs mit Maria Anna Victoria von Spanien,mit Beider Brustb.u.Allegorie.Gew.27 Gr.Schon.
+Nr.1127.Frankreich.Ludwig XV. Pariser Thaler,1762.Z.g.e.
+
+Nr.1128.
+
+Nr.1129. 一 Ludwig xVI.Thaler,1785. Sch.1428.Mit Berner Contrestempel.S.sch.
+
+-Thaler,1760,mit Brustb.u.Wappen.Z.g.e
+
+Nr.1130. 一 National-Convent,1792—1795.Pariser Thaler,1793.Kopf Louis XVI.u. d.Genius.Sch.1440.Z.g.e.
+
+Nr.1131. Republik von 1792-1804.Grosse Medaille,1797 （v.Vassallo u.Salwirk),auf d. Confoderation der cisalpinischen Republik Brustb. Bonapartes.R.:L'INSVBRIA LIBERA.Gruppe von 4 Figuren. Henin. 793. Wh. 918.Gew.43 Gr.S. sch.
+
+Nr.1132. Napoleon I,Kaiser,1804—1814 u. 1815. Thaler zu 5 Francs v.J. 12 (1804),vor d.Kronung zu Paris gepragt. Sch. 1446. N. incus gepr. Thaler. 2 Stuck.
+
+Nr.1133. --Miniatur-Medaille v.Denon u. Jeuffroy mit d. Schilderhebung. Gew.1i/e Gr.
+
+Nr.1134.Freising. Sedisvacanz,1763.Medaille. Die Busten d.hl. Corbinian u. d.hl. Sigismund.R.:Marienbild in Wappenkreis. Sch.4202. Mad. 5415.Zep.VIl,72. Gew.44 Gr.S.schon.
+
+Nr.1135.Firstenberg.Joseph Wenzel,1762-1783. Breiter dreifacher Ausbeutethaler,1767. Brustb.n.r. R.Der hl, Wenzel mit Schild im Vorgrunde einer Landsch. steh. Sch.C. 5049. Sehr schones Stuck. S.g.e.
+
+Nr.1137.Italien.Florenz.Cosmus III. Scudo,1684,mit Brustb.u.d. Taufe Christi. Zu Mad. 4466.
+
+Nr.1136.Hohenzollern-Sigmaringen. Karl. Zwei-Guldenstuck,1848,mit Brustb.u.Wappen. S. g.e.
+
+Nr.1138. 一 Genua (unter den Dogen）. Halber Ducaton,1614. Stadtzeichen und Kreuz von Sternen umwinkelt. G.e.
+
+Nr.1139. Lombardisch-Venetianisches Konigreich. Franz I.,1815-1835. Medaille auf die Huldigung in Mailand,1815. Brustb.u. d. Wappen von Mailand u.Venedig. Gew. 34Gr. Sehr schon.
+
+Nr.1140. Lucca. Felix Bacciochi und Elise Bonaparte, Fursten von Lucca. Funffrankenstuck,1805, mit Beider Brustb.Sch.C.5868.Z.g.e.
+
+Nr.1141.
+
+一 Mailand.Maria Theresia,17401780. Tallero,1780,mit Brustb.u.Wapp. G.e.
+
+Nr.1142. Tallero,1780,mit Brustb.u,Wappen.G.e.
+
+Nr.1143. 一 Parma. Maria Louise. Thaler zu 5 Lire,1815. Brustb.u. Wappen. Sch.C. 5989. S.g.e.
+
+Nr.1144. 一 Ragusa. Tallero (Vislino oder 1/2 Ducato), 1795, mit weibl. Brustb. Sch. C. 5995. Z. g.e.
+
+Nr.1145. 一 Cisalpinische Republik.1797-1802. Scudo zu 6 Lire v. J. VIlI (1799). Mill.XIl,148. Amp.3956.
+
+Nr.1146. 30-Soldi-Stick v.J.IX (1801), auf d.Frieden v.Luneville u.d.Forum Bonaparte's in Mailand. Sch.C.5896.2 Explre.
+
+Nr.1147. Sardinien.Karl Emanuel,1730—1773.Halber Ducaten,1744. Adler unter d.Krone u.Verkundigung Maria. Soothe 1376.
+
+Nr.1148. Scudo,1765.Mit Brustb.u.Wappenschild. Sch.1880.Mad.4541.
+
+Nr.1149. 1 Victor Amadeus. Schwerer Scudo,1773,mit Brustb.u.Wappenschild. Sch.1881. Schon.
+
+Savoyen. Eugen Franz, Prinz v., General-Feldmarschall. Medaille,1704,auf d. Sieg bei Hoch-
+
+Nr.1150. stadt. Brustb.u.Wurgengel iber einem Lager. Sch. C. 7363. Gew. 20 Gr.S.schon
+
+Victor Amadeus II.Medaille auf den Entsatz v.Turin,1706,mit Brustb.u.Ansicht d. Stadt.
+
+Nr.1151. Randschrift. Gew. 30 Gr.
+
+Nr.1152. -Venedig. Marin. Grimani II.,15951606. Viertel-Zecchine, nach gew.Typus mit MARIN: GRIMANI:DVX. S.g.e.
+
+Nr.1153.—5-Lirestick,1848,mit dem Marcus-Lowen. Sch.C.861.G.e.
+
+Nr.1154.Kempten, Stift.Bracteat,1208,mit Kopf.2 Explre.
+
+Nr.1155. Mainz. Georg Friedrich von Greiffenklau zu Vollraths,16261629. Goldgulden,1627. Wappen u.Kreuz mit vier Wappensehildern besetzt. Kohl. 855. S. sch.
+
+Nr.1156.Friedrich Karl Joseph Frhr. von Erthal. Medaille,1777, auf seine Anwesenheit in Erfurt. Brustb.u.Ansicht d.Stadt.Sch.C.2078.Gew.36 Gr.
+
+Nr. 1157. Mexico als Freistaat,seit 1834. Piaster zu 8 Realen, 1834. S.g.e.
+Nr.1158.Niederlande.Wilhelm I, 1815-1840. Jetton,1815,mit Bb.u.Ansicht v. Amsterdam.
+
+Nr.1159.-Wilhelm II.,1840—1849.Ducaten 1849,mit steh.Ritter u.Inschrifttafel. Stglz.
+
+Nr.1160.Nirnberg. Conv.Thaler, 1758. Schweb. Adler mit d. beiden Wappen. R.:Brustb.u. Titel Kaiser
+
+FranzI.Mad.5082.
+
+Conv.-Thaler, 1761. Sitzende Noris und Dopp.-Adler mit Franz I. Titel. Mad. 5084.
+
+Nr.1161. 一
+
+Nr.1162. Conv.-Thaler, 1765,mit d. opfernden Noris u. dem Doppeladler. Mad.5086.
+
+Nr.1163. 一 Conv.-Thaler,1768,mit Ansicht d. Stadt und Doppeladler mit Josephs II. Titel. G.e.
+
+Nr.1164. Oesterreich. Karl, Sohn Kaiser Leopolds Il. Medaille (v.Baldenbach) auf d. Schlacht bei Stockach, 1799.Behelmtes Haupt. R.:Victoria. Sch.C.4244. Gew.26 Gr. Sehr schon.
+
+Nr.1165.Deutscher 0rden. Erzherzog Maximilian yon 0esterreich. Thaler,1603. Der steh.Hochmeister. R.:Turnierritter,von Wappen umgeben. Sch. 4967. Mad.925.
+
+Nr.1166.Pipste.Benedict XIV.,17401758.Halber Zecchino,1740,mit Wappen u,d.Fig. d. Glaubens.G. e.
+
+Nr.1167.
+
+-Viertel-Zecchine o.J.mit Brustb.Petri.G.e.
+
+Nr.1168. 一 Gregor XVI. Scudo,1835,mit Brustb. u.Werthangabe. Sch. 3201. Cinagli 67. S.g.e.
+
+Pius Ix. Halber Scudo,1853,m.Brustb.
+
+Nr.1169.-1
+
+Nr.1170. Polen. Revolution von 1830 u.1831. Bronze-Medaillon,1831.v.Barre. TV NE MOVRRAS PAS. 2 allegor.Figuren.R. Schrift. S. schon.
+
+Nr.1171. Russland. Nicolaus I. Rubel,1836,mit Wappen u. Schrift. Sch. 620. S.g.e.
+
+Nr.1172. Sachsen.Johann Georg I.,1611-1656. Gold-Abschlag des Gedachtniss-Gulden,1630 (Weise 558), auf d. erste Jubelfest d.Ueberg. d.Augsb. Confession,mit Johanns d.Bestand. u.Joh. Georgs I. Bildnissen. Gew. 7Gr. S.schon.
+
+Nr.1173.-- Sophia, Gemahlin Christians I. Ducaten, sog.Kinder-Ducaten,1616,WOL DEM DER FREVD AN SEINEN KINDERN ERLEBT". Tenz.22,VIIl.Kohl. 1010. Soothe 592. Stglz.
+
+Nr.1174. Salzburg. Johann Ernest Graf von Thun,1687-1709. Viertel-Ducaten,1699,mit d. Hlgen.u. Wappen.K.1541.G.e.
+
+Leopold Anton Freiherr von Firmian,17271744.Viertel-Ducaten,1734. Gew.Typ.K.1548. G.e.
+
+Nr.1175. 一
+
+Nr.1176. 一 Hieronymus Fiirst von Colloredo-Waldsee,1772-1803.Ducaten 1794,mit Bb.u.Wappen.S. sch.
+
+Nr.1177. Schweiz. Stiftung d. Schweizerbundes.Medaille v.H. J. Gessner. Stehender Schweizer mit Speer, auf dem d. Freiheitshut. R.:Die Wappen. Hall. 8. Gew. 23 Gr.S.g.erh.
+
+Nr.1178. 一
+
+Basel. Dicken,1623. Schild in Vierpass u.Doppeladler. Wie Hall. 1606. S. sch.
+
+Nr.1179. 一 Bronze-Medaille,1844, auf d.Eidgen.Freischiessen.N. 2 and. 3 Stick.
+
+Nr.1180.
+
+Vier verschiedene Schweizer Munzen,dabei Basler 1/s-Thaler,1766. Gew.28 Gr.4 Stuck.
+
+Nr.1181. 一
+
+Bern. Gold-Duplone,1794,mit dem gekronten Wappen und Spruch. G. erh.
+
+Nr.1182. Schulrathspfennig o. J.,v. J. Dassier.Der Berner Schild auf reichem Untersatz. R.: Cypressen-Garten. Hall. 809. Gew. 33 Gr. S. g.e.
+
+Nr.1183.
+
+SINE PRAEMIO VIRTVS.Minerva zwischen den Emblemen d. Kriegs u. d. Kunste u.Wissenschaften. Haller 751. Gew. 84 Gr. Schon u.trefflich erhalten:
+
+Nr.1184.St.Gallen,Bened.-Abtey.Beda Angherrn,17671796.Zwanziger,1774.2Expl.N.2 and.4 Stuck.
+
+Nr.1185. -Luzern. Dicken,1623,mit Brustb. d. Hlgen; Jahreszahl unter d.Leiste. Hell. 1138. 2 Explre.
+
+Nr. 1186.Uri. Medaille o. J., zu Geschenken u.in Altdorf zu Schulpramien verwandt. SALVE URANIA FILIA MARTIS. St. Martin und Krieger neben den drei Wappen. R.:Tell, den Apfel vom Kopfe seines Kindes schiessend.Aehnl.Sch.C.6541.Selten.Gew.15 Gr.
+
+Nr.1187.- Waadt. Bronze-Medaille,v.Andrieu, auf d.erste Zusammenkunft des grossen Rathes. Adler u.das Sitzungs-Gebaude.Sch.C.6544.Sch.
+Nr.1188. Sehweiz. Zirich. Halber Ducaten,1692,nach gew.Typ. Z. g.e. Nr.1189.
+
+Schrift,von d. Schildern d. Zinfte umgeben. Schon. Gew.15 Gr. Medaille,1736,auf d.400jahr.Bestehen der Zunfte zu Zurich. Brustb.d. Rud. Brun.R.:
+
+Halber Thaler, 1712,auf den Toggenburger Krieg. Lowe und Bar mit den Schildern v. Zirich u.Bern.R.: Trophae. Hall98.Mad.7058.G.erh. Nr.1190. Zwei Viertel-Ducaten,1712 und 1732,von versch.Stempeln. G.erh.2 Stick. Nr.1191. Medaille,1718,auf d. Toggenburger Krieg,d. Frieden v.Aarau u. d.von Baden.Alleg. weibl. Figur u.Wappenschilder. Haller 100. Sch. C. 6634. Gew.22 Gr. S.g.e. Nr.1192.
+
+Nr.1193.
+
+Thaler,1756,mit d.v.Lowen gehaltenen Schild u.Ansicht d. Stadt v.d. Seeseite. G.erh. Nr.1195.
+
+Nr.1197. 一
+
+Halber Ducaten,1743,mit Lowe u. Spruch. S.g.e. Nr.1194.
+
+Thaler,1761,ebenso. S.g.e.
+
+Zug. Schitzenthaler, 1869,zu funf Franken,mit Hans Landwing. G. erh.
+
+Nr.1196. 8-Batzen,1814.N.3 and.Gew.33 Gr.4 Stick.
+
+Nr.1198. Spanien.Ferdinand VI1.(nach seiner Rickkehr).Piaster,1814,mit Brustb.u,Wappen. Sch.2343 Nr.1199.Amadeus I. Thaler zu 5 Pesetas, 1871. S. g. e.
+
+Nr.1201.—2 versch. grosse Silberminzen u. 1 and. 3 Stick.
+
+Nr.1200.Tirkei. Rubije (/4 Zermahbub,1811), 13/eo Duc.
+
+Nr.1202.Ueberlingen.Bracteat,1240,mit gekr.Lowen. 2 Explre.
+
+——Derselbe Ducaten,wenig varirend. G. erh. Nr.1205.
+
+Nr.1203. Ungarn.Mathias Corvinus,1458-1490. Ducaten. Die hl. Maria mit d.Kinde; unten Rabe. R.:Der Heilige zwischen N-T. G.erh. Nr.1204.
+
+——Ducaten. Vierfeld. Wappen mit d. bohm. Lowen etc. R.: Der Heilige zwischen N-E. S. g. e.
+
+- Nr.1207.-Maria Theresia, 1780. Conv.-Thaler,1780,mit Wappen u. Marienbild. Sch.2562. Stglz. Gedachtniss d.Ankunft Joh.Heinrichs v. Waldstein mit 24 Sohnen im Lager Konig Primislay Ottokars v. Bohmen. Av.:Dem Konige bietet Waldstein seine 24 Sohne zum Kreuzzug nach Preussen an. R.: Aufschrift in 14 Zeilen.
+
+mit VNGARI. S.g.e. Nr.1206. Wladislaus II.,1490-1516. Ducaten.Maria mit dem Kinde u. d. Heilige zwischen K-H. Wh.446
+
+- Erhabene Randschrift. Wh.15037. Kohler M-B VI,1. Bohm. Privatm. 639. Treffliches Geprage in Silber. Gew. 122 Gr. Sehr schon und selten;gelocht.
+
+2596.Bind.S.291,N.140.
+
+Nr.1209.Wirttemberg.Wilhelm,1816-1864.Kronenthaler,1833,Handelsfreiheit durch Eintracht" Sch.
+
+Nr.1210.-Doppelthaler,1846,auf d.Vermahl. des Kronpr.Karl mit Olga von Russland, mit d.3 Brustb. S.g.e.
+
+Nr.1211.21 verschied.kleine Bracteaten und Halb-Bracteaten, dabei Zurich,bischof.v.Bamberg,Fulda etc. 21 Stuck.
+
+Nr.1214. Finf verschiedene breite Groschen, dabei Strassburger Doppel-Ass. 5 Stuck.
+
+Nr.1212.35 versch.kleinere Silberminzen, dabei viele des vor.u. deses Jahrh. Gesammtgew.90 Gr.35 Stick. Nr.1213. Zwolf yerschiedene Silberminzen, Groschen etc., dabei Schweizer, italienische, Salzburger etc. Gew.53 Gramm.12 Stick.
+
+Nr.1215. Silberling,mit dem Brustbilde Christi u.hebr. Schrift. Gew. 15 Gr. Gel,
+
+Nr.1217. Finf romische Denare, dabei Familienm.u.vier Bronze-Munzen, dabei Ptolemaer. 9 Stuck.
+
+Nr.1216. Drei verschied.tirkische,arabische etc.Silbermiinzen.3 Stuck.
+Nr.12i8. Radetzky. Grosse Bronze-Medaille v. Seidan, auf die Enthilung des Radetzky-Monuments zu
+
+Prag 1858,mit d.Biste des Feldmarschalls u.d.Denkmal.Dm. 8cm.In Etui.
+
+Nr.1219.Guttenberg und Faust. Bronze-Medaille auf d.3.Jub.d.Erfind.d.Buchdruckerkunst,1740,mit Beid.Brustb. Hausch.261.Wh.13828. Verg.
+
+Gew.24 Gr.Schon.
+
+Nr.1221. Medaille mit Glaube,Hoffnung u.Liebe,mit lat.Umschriften,1565.Wh.15345. Gew.12e Gr
+
+Nr.1222. Medaille auf Freundschaft u. Treue mit Allegorien in hohem Relief,mit lat. Umschr. u. erhab. Randschrift. Gew.25 Gr. S. schon.
+
+Nr.1223. Medaille auf d. zweite Sacularfeier d. Reformation, 1717.Luther,d. Thesen anheftend u. Alleg.
+
+Gew.9Gr.G.e.
+
+Nr.1224. Pramien-Medaille,1734,mit Konig David u. Spruch. Gew.18 Gr.G.e.
+
+Nr.1225. Medaille mit d. Glaubensbekenntniss u.3 bibl.Darstell. in Kartuschen. Gew.20 Gr. S. sch.
+
+Nr.1226. Medaille, 1626, mit Storchen iber einer Stadt u. Cimon. Deutsche Umschriften. Gew. 29 Gr. G.e.
+
+Nr.1227.Cometen-Medaille, 1618, Stuttgarter Neujahrs-Klippe u.2 and. Gew.14 Gr. 4 Stuck.
+
+Nr.1228. Medaille, 1707,mit Konig David und Spruch. Gew.18 Gr.
+
+Nr.1229. Gnaden-Pfennig v.Kloster Weingarten,mit Crucifix-Darstellung.
+
+- Nr. 1230. Sammlung von 39 grossen Medaillen der verschiedensten Art,in Eisenguss vorziglich ausgefihrt.
+
+In polirtem Kasten.
+
+Nr. 1231. Sechs verschied. Medaillen etc. in galvan. Nachbildung. 6 Stick.
+
+Nr.1232.Abguss eines einseit.ital. Bronze-Medaillons mit weibl. Biste ,LAVINIA GALLEANI DE TROTTI." Diam.9 cm.
+
+Nr.1233.Vier verschiedene falsche Medaillen u. Thaler etc. 4 Stick.
+
+## Bucher ete.
+
+- Nr.1234. Kleine Pergament-Handschrift des XV.Jahrh. Marianisches Horarium in deutscher Sprache, in Roth und Schwarz geschrieben auf 293Blattern mit 27 blattgrossen Miniaturen in Farben und Gold mit Darstellungen aus dem Leben Maria, der Leidensgeschichte etc.und mit zahllosen kleineren Initialen in Farben und Gold. Eines der Blatter tragt die Jahreszahl 1441. In Leder-Einband mit Jahreszahl 1619. Hohe 10,Breite 71e cm. Einige Miniaturen etwas verwaschen.
+
+Nr.1235. Achtzehn vollstandige Blitter eines Missale,auf Pergament geschrieben, XV. Jahrh.,jedes mit grosser Initiale in Farben und Gold, theils mit Heiligenfiguren,theils mit Ornamentwerk,einzelne mit Randborduren.
+
+- Gute Folge.18 Bll.gr.fol.
+- Nr.1236. Amsterdam.Tous les principaux batimens de la fameuse ville dAmsterdam. Amsterd. o. J. Mit zahlreichen Ansichten.pgb. qu.4.
+
+1825.-Hug,Abbildungen alter Kunstwerke aus den Fachern der Bau- und Bildhauer-Kunst. Constanz 1832. Mit Lithographieen.pb.gr.fol.
+
+Nr.1238. Biblia saera vulg. ed. Sixti V.ed. Cartier. Tomus I. Constantiae 1751. Mit Kupfern.Idb.fol.
+
+Nr.1239. Bibel, die gantze, das ist alle bucher alts und neuws Testaments, den vrspringlichen sprachen nach auffs aller treiwlichste verteutschet. Zurich, Christoffel Froschauer,1540. Mit Holzschnitten. Das Exemplar gebraucht.Holzbd.mit Sehliessen und Ecken. fol.
+
+Nr.1240. Biblia. Das ist die gantze Schrift altes und neues Testaments. Sammt einer Vorrede von J. M.Dil- herrns. Nurnbg.1693. Mit Holzschnitten. Holzbd. mit Schl. fol. Gebraucht.
+
+Nr.1241. A.Dirers kleine Passion, in Holz nachgeschnitten v. C. Deis. Eichst.1868. cart.kl.4.
+Nr.1242. Fugger, J. J., Spiegel der Ehren des Erzhauses Oesterreich,neu hrsgg.von S.von Birken. Nirnberg,1668. Mit Portraits und Wappen. pgb. fol.
+
+Nr.1244.Merian,M., Topographia Heluetiae Rhaetiae et Valesiae. O.0.1642. Mit zahlreichen Stadteprospecten.Das Exemplar gebraucht.ldb. fol.
+
+Nr.1243. Genealogie de la maison de La Tour. Il partie (extraction maternelle). Mit zahlreichen Wappentafeln.Ohne Titelblatt. Ldb.roy.fol.
+
+Nr.1245. Dasselbe Werk. Ziemlich gut erhaltenes Exemplar. Broschirt.
+
+Nr. 1247. Nauclerus und Berosius, Chronica der Teutschen.(Coln),1539. Titel fehlt. Holzbd. fol.
+
+Nr.1246. Minztabellen (Taf. 29-49 eines Werkes). pb. fol.Nebst einer Parthie Wappentafeln aus dem Tyroffschen und and.Wappenbuchern. Convolut. fol.
+
+Nr.1248. Pantaleon,H., Teutscher Nation Heldenbuch.3 Theile,Basel,1567-1568. Mit zahlreichen Holzschnitt-Portraits.Reich gepresster Lederband. fol. Theil Ill defekt.
+
+Nr.1250. Seutter, M., Atlas minor, praecip. orb. terr.imperia etc. sistens. Colorirt. Idb. qu. fol.
+
+Nr.1249. Philippon, Adam, Curieuses recherches de plusieurs beaus morceaus dornemens antiques et modernes etc. Paris,1645. Mit zahlreichen Kupfern. Anderes beigebunden. pgb.fol.
+
+Nr.1251. Sinn-Bilder. Devises et emblemes anciennes et modernes. Augspurg, 1697. Mit emblemat.Kupfern. ldb.4.
+
+Nr.1252. Stumpf, J.R., Gemeiner loblicher Eydgnoschaft Stetten Landen vnd VoLkern Chronicwirdiger Thaaten beschreibung. Zurich in der Froschow 1586. Mit zahlreichen Holzschnitten,Wappen-Abbildungen etc., die theilweise colorirt. Schones Exemplar. Holzbd.mit Schliessen und Ecken. fol.
+
+Zurich,Froschauer,1556.
+
+Des grossen gemeinen Conciliums zu Costentz gehalten, kurtze beschreybung etc.
+
+Holzbd.mit Schliessen. fol.
+
+Nr.1254.Tschudi,A., Grundliche — theils Historische — theils Topographische Beschreibung von den Ursprung —Landmarchen —Alten Namen -und Mutter-Sprachen Galliae comatae. Constantz 1758. hpgb.fol.
+
+Nr.1255.Weigel, Christ.,Biblia ectypa.Bildnussen auss Heiliger Schriff. Augsburg,1695. Mit Kupfern. gepr. schwsldb.gr.fol.
+
+Nr.1256.Welser,M., Chronica der Weitberuempten ete. Statt Augspurg. Teutsch durch Eng.Weilich.Frankfurt,1595. 一 Dessen Antiqua Monumenta. Teutsch durch Denselb. Eb., 1595. Mit Holzschnitten. schwsldb.mit Schliessen. fol.
+
+Nr.1257. Zuinger,Theod., Theatrum botanicum, das ist Neu vollkommenes Krauter-Buch. Basel,1696.Mit zahlreichen Holzschnitt-Abbildungen.Holz-Lederband mit Schl.fol.
+
+hpgb. qu. fol.
+
+Nr. 1258. Band, enth. zahlreiche Schlacht-Darstellungen nach A. Tempesta, theils von M. Merian gestoch.
+
+Nr. 1259. Band, enth.54 Blatt Kupferstiche: Ansichten von Rom, Statuen etc., in der Art des Piranesi,aus
+
+Kilians Verlag.Pappb.Roy.fol.
+
+Nr.1260.Klebeband,enth.278 Blatt:versch.Kupferstiche,dabei Callot und della Bella,Holzschnitte, Kalenderkupfer etc.Hldb.4.
+
+Nr.1261.Convolut,enth. 96 Blatt:Kupferstiche und Holzschnitte etc. alterer und neuerer Meister, dabei
+
+Copieen nach Durer,L.v. Leyden,Callot etc. 96 Bll. Versch.Form.
+
+Nr.1262.- enth. 91 Blatt:Holzschnitte,meist der Holbein'schen Schule angehorig,einzelne mit Monogrammen SHF,FE etc.91 Bll.Versch.Form.
+
+Nr.1263.—enth.51 Blatt: aus den Mllustrationen zu Ovid, Homer etc.nach A.van Diepenbecke. Gute Abdricke. 51 Bll.fol.

@@ -1,0 +1,1099 @@
+## CONDITIONS DE LA VENTE
+
+Elle sera faite au comptant.
+
+Les adjudicataires paieront dix pour cent en sus des encheres.
+
+L'exposition mettant le public a meme de se rendre compte de la nature et de l'etat des objets, aucune reclamation ne sera admise une fois l'adjudication prononcee.
+## ORDRE DES VACATIONS
+
+## Le Vendredi 28 Avril 1905
+
+| Tableaux..                            |                         | Nos     | 213a222   |
+|---------------------------------------|-------------------------|---------|-----------|
+| Porcelaines variees.                  |                         |         | 1a16      |
+| Porcelaines de Sevres..               |                         |         | 17a67     |
+| Porcelaines de la Chine et du Japon.. |                         |         | 68 a84    |
+| Meubles (Partie des)...               |                         | 158a176 |           |
+|                                       | Le Samedi 29 Avril 1905 |         |           |
+| Argenterie..                          |                         |         | 85 a98    |
+| Objets varies. . .                    |                         |         | 99a116    |
+| Pendules, Bronzes..                   |                         |         | 117a142   |
+| Sieges. . .                           |                         |         | 143a157   |
+| Meubles (Suite des)                   |                         |         | 177a203   |
+| Etoffes, Tapisseries .. .             |                         |         | 204a212   |
+<!-- image -->
+
+## DESIGNATION DES OBJETS
+
+## PORCELAINES VARIEES
+
+- 1— MouTArDiER avec couvercle, muni d'une anse,en ancienne porcelaine de Saxe : feurs.
+
+Haut.,95millim.
+
+- 2— STATuETTE en porcelaine de Saxe-Marcolini :Thesee accompagne de Cerbere.
+
+Haut., 22 cent.
+
+- 3 Groupe compose d'une femme et de quatre enfants, etendus au pied d'un vase, orne de deux enfants a califourchon sur des dauphins et de deux autres tenant des guirlandes de laurier et places sous des mascarons barbus. Meme porcelaine.
+
+Haut., 3o cent.
+
+- 4STATuETTE en ancienne porcelaine de Berlin :enfant
+
+- guerrier.
+
+Haut.,Ia cent.
+
+- 5— STATuETTE en ancienne porcelaine de Hoechst : Bergere assise tenant en laisse une brebis.
+
+Haut., 17 cent.
+- 6- Groupe en ancienne porcelaine de Frankenthal :homme et femme se battant.
+
+Haut.,2o cent.
+
+- 7— Groupe en ancienne porcelaine de Louisbourg, compose d'un jeune homme et d'une jeune femme enguirlandant de fleurs un obelisque.
+
+Haut., 26 cent.
+
+- 8 Groupe en ancienne porcelaine de Louisbourg :jeune femme faisant la barbe a un jeune homme accoude a un gueridon.
+
+Haut., 18 cent.
+
+- 9 — STATuETTE en ancienne porcelaine de Louisbourg : jeune
+- homme vetu de jaune, tenant un oiseau dans la main droite.
+
+Haut., 1g cent.
+
+- 10 —— STATuETTE en ancienne porcelaine de Furstenberg : per-
+- sonnage de la Comedie italienne, vetu d'un costume rouge et d'un long manteau noir.
+
+Haut., 11 cent.
+
+Haut., 1I cent.
+
+- I1 —VacHE en porcelaine de Furstenberg.
+- 12— STATuETTE en ancienne porcelaine d'Allemagne:enfant nu tenant un nid.
+
+Haut., 13 cent.
+
+- 13 Oiseau sur un tronc d'arbre. Ancienne porcelaine d'Alle-
+
+Haut., 1o cent.
+
+- 14 — OisEAu sur un tronc d’arbre. Porcelaine.
+
+Haut., 21 cent.
+
+- 15— SucrIEr avec son couvercle en ancienne porcelaine de Locre : guirlandes de fleurs et zones pointillees rouge.
+
+Haut., 10 cent.
+
+- magne.
+- 16PeTIT BusTE en biscuit :Marie-Antoinette. Socle en por-
+
+Haut., 3o eent.
+
+## PORCELAINES DE SEVRES
+
+- —TassE ET sA soucoupe en ancienne porcelaine tendre de Vincennes, decorees d'oiseaux en couleurs et de branchages en dorure sur fond gros-bleu. Annee 1753.
+
+Hauteur de la tasse,73 millim.
+
+- 18— SucrIer rond avec couvercle en ancienne porcelaine tendre de Sevres : paysages animes sur fond vert. Annee 1757.
+
+Haut.,1o cent.
+
+- 19- Tasse droite avec couvercle en ancienne porcelaine
+
+Haut.,go millim.
+
+- tendre de Sevres : paysages animes, fond vert. Annee 1757. Decor par Gomery.
+- 20 —PLATEAu a bords festonnes :paysages animes, bordure verte. Meme porcelaine. Annee 1757. Decor par Gomery, avec Iinscription:Peint par Gomery de 1756 a 1758.
+
+Vente Feral 1go1.
+
+Larg., 17 cent.
+
+- 21 —Tasse cylindrique et sa soucoupe en ancienne porcelaine tendre de Sevres :Medaillons a personnages allegoriques et amours avec rinceaux en dorure sur la tasse. Medaillon et reserves: amours et attributs champetres, sur la soucoupe. Annee 1757.Decor par Vavasseur.
+
+Hauteur de la tasse,77 millim.
+
+- 22 — Sucrier avec son couvercle en ancienne porcelaine tendre
+- de Sevres, decore de reserves contournees, fleurs avec encadrements de rocailles en dorure, sur fond rose Du Barry.Sur
+- celaine bleue.
+le couvercle, deux reserves : oiseaux sur des branchages. Annee 1758.
+
+Haut., 73 millim.
+
+- 23- SucRier rond avec couvercle en ancienne porcelaine tendre de Sevres : medaillons a feurs et fruits, fond vert. Annee 1785. Decor par Niquet; dorure par Chauvaux aine.
+
+Haut., 11 cent.
+
+- 24 — PeTIT sucRIER rond avec couvercle en ancienne porcelaine tendre de Sevres : medaillon contenant des fleurs. Fond
+- vert.Annee 1756.
+
+Haut., 8o millim.
+
+- 25—Tasse droite en ancienne porcelaine tendre de Sevres: amour dans une reserve sur fond vert. Annee 1761. Decor par Sioux jeune.
+
+Haut., 8o millim.
+
+- 26 — Service compose d'une tasse, d'un sucrier avec son couvercle et d'un plateau forme bateau, en ancienne porcelaine tendre de Sevres. Decor de medaillons :enfants,le petit pecheur,les bulles de savon et l'oiseau envole. Attributs champetres, rinceaux en dorure sur fond bleu-turquoise.
+- Annee 1758.
+
+Longueur du plateau,2g cent.
+
+## Vente Lelong.
+
+- 27 — Tasse droite et soucoupe en ancienne porcelaine tendre de Sevres: medaillons contenant des feurs, des fruits et les attributs de l'amour et du commerce. Fond vert. Annee
+- 175g.Decor de la soucoupe par Chulot.
+
+Haut., 7o millim.
+
+- 28-PeTIr PLATEAu carre a bords releves et ajourés en ancienne porcelaine tendre de Sevres; decor de rosaces en vert et dorure sur fond rose. Annee 1762. Dorure par
+- Vincent.
+
+Larg., 105 millim.
+- 29 — PETIT POT DE ToILETTE avec son couvercle en ancienne porcelaine tendre de Sevres, orne de deux medaillons : oiseaux sur des branchages. Fond gros-bleu orne d'ceils de
+- perdrix en dorure. Annee 1763. Decor par Chapuis aine.
+
+Haut.,75millim.
+
+- 3o — PLATEAu D'EcuELLE a bords contournes en ancienne porcelaine tendre de Sevres, orne de deux reserves a paysages sur fond bleu-turquoise; rosace et encadrements de rinceaux en dorure. Annee 1763.Decor par Chabry.
+
+Larg., 22 cent.
+
+- 31 — Deux AssiETTes en ancienne porcelaine tendre de Sevres; ornees au centre de trophees de jardinage et d'instruments de musique, au marli de rubans bleus et guirlandes de feurs. Annee 1768. Decor par Cornaille et Buteux aine.
+
+Diam.,25 cent.
+
+- 32 tendre de Sevres. Decor de medaillons a paysages animes sur fond rose a ceils de perdrix reserves en blanc. Annee
+- 1771.
+
+Hauteur de la tasse,75 millim.
+
+- 33 — Tasse cylindrique et sa soucoupe en ancienne porcelaine tendre de Sevres. Sur la tasse, medaillon : petite fille fusti. geant un amour dont l'arc et le carquois gisent a terre; rinceaux et guirlandes en dorure. Sur la soucoupe, enfant monte sur un char que traine un papillon; rinceaux et guirlandes en dorure. Fond gros-bleu. Annee 1773. Decor par Dodin.
+
+Hauteur de la tasse,66 millim.
+
+- 34 —GrANDE TAssE cylindrique et sa soucoupe en ancienne porcelaine tendre de Sevres. Sur la tasse, medaillon : berger et bergere avec chien, dans un paysage; zone de rinceaux en dorure.Au fond de la soucoupe: brebis,houlette et panier de fleurs, avec rinceaux et guirlandes de feurs en dorure.
+Fond gros-bleu. Annee 1779. Decor par Chabry; dorure par Chauvaux aine.
+
+Hauteur de la tasse, 75 millim.
+
+- 35 — Tasse droite et sa soucoupe en ancienne porcelaine tendre de Sevres. Sur la tasse, medaillon : portrait presume de Mlle de La Valliere; sur la soucoupe, allegorie a sa prise de voile. Fond bleu, charge de rinceaux, et cornes d'abondance en dorure.Annee 1781.
+
+Hauteur de la tasse, 6o millim.
+
+- 36 — TassE ET sA soucoupe en ancienne porcelaine tendre de Sevres. Decor de reserves, petits vases de fleurs et rinceaux,
+
+Hauteur de la tasse,6o millim.
+
+- sur fond jaune. Annee 1785.
+- 37 -- Deux coMpoTieRs carres en ancienne porcelaine tendre de Sevres, ornes chacun de quatre medaillons : oiseaux, sur fond bleu-turquoise, avec frise de rinceaux en dorure. Provenant du service de Buffon. Annee 1786. Decor par Vincent et Le Guay.
+
+Larg, 21 cent.
+
+- 38—Por A LAIT, forme casque, en ancienne porcelaine tendre
+
+Haut., 108 millim.
+
+- de Sevres : medaillon d'oiseaux sur des branchages, et guirlandes de feuillages sur fond rose Du Barry, rehausse de rinceaux en dorure.
+- 39 — TassE Er soucoupe en ancienne porcelaine tendre de Sevres. Decor de medaillons : enfants, dans des encadrements de rocailles sur fond rose Du Barry, charge de quartefeuilles reserves en blanc et dorure.
+
+Hauteur de la tasse, 6o millim.
+
+- 40 —PLATEAu oblong, a bords contournes, en ancienne porcelaine tendre de Sevres, decore d'un medaillon:les scieurs de long, et personnages dans un paysage avec habitations.
+- Guirlandes et rinceaux en bleu et dorure.
+
+Grand diam., 2g cent; petit diam., 21 cent.
+- 41—PoT DE ToILETTE cylindrique avec son couvercle, en ancienne porcelaine tendre de Sevres. Medaillons d'oiseaux sur fond bleu-turquoise; encadrements en dorure.
+
+Haut., 7o millim.
+
+- 42 — TassE ET sA soucouPE en ancienne porcelaine tendre de Sevres: medaillons, amours en camaieu rose, sur fond bleu-
+- turquoise; encadrements de rinceaux en dorure.
+
+Hauteur de la tasse,6o millim.
+
+- 43— SEPT PoTs A cREME avec leurs couvercles,en ancienne porcelaine tendre de Sevres, decores de medaillons, oiseaux varies; guirlandes de feurs sur les couvercles. Encadrements en dorure, fond bleu-turquoise.
+
+Haut., 85 millim.
+
+- 44 —— DEux AUTREs ANALoGUEs, mais plus petits. Meme porcelaine.
+
+Haut., 70 millim.
+
+- decore d'une reserve a feurs, encadree de rinceaux en
+
+Haut.,65millim.
+
+- dorure, sur fond bleu-turquoise.
+- 46 — PeTIT vAsE, forme Medicis,en ancienne porcelaine tendre
+- de Sevres. Muni de deux anses, il est decore d'une zone a fleurs sur fond bleu-turquoise; anses et ornements en dorure.
+
+Haut., 73 millim.
+
+- 1 SALieRE a trois compartiments et anse surelevee, en ancienne porcelaine tendre de Sevres, decoree de medaillons d'oiseaux sur fond bleu-turquoise; rinceaux en dorure.
+
+Haut.,go millim.
+
+- 48— TassE ET sA soucoupe en ancienne porcelaine tendre de Sevres. Sur la tasse, medaillon: petite fille donnant a manger aux poules; sur la soucoupe, instruments de jardinage. Frises de rinceaux en dorure, fond bleu-turquoise.
+
+Hauteur de la tasse, 6o millim.
+- 49 — NEUF PoTs A soRBET varies, en ancienne porcelaine tendre de Sevres, decor de reserves a feurs, avec encadrements
+- de feuillages en dorure sur fond vert.
+
+Haut., 68 millim.
+
+- 5o—PLATEAu rond lobe sur pied bas, en ancienne porcelaine tendre de Sevres, decore, au centre, d'un trophee d'instruments de musique, encadre d'une zone a fond rose, et quadrilles en dorure. Fond vert a reserves de fleurs.
+
+Diam.,23cent.
+
+- 51 — Tasse droite et sa soucoupe en ancienne porcelaine tendre
+- de Sevres :medaillon contenant des oiseaux; fond vert a lambrequins bleus cailloutes or.
+
+Haut., 7o millim.
+
+- 52— PeTIT PLATEAu carre, a bords obliques, en ancienne porcelaine tendre de Sevres : oiseaux dans une reserve sur fond vert.
+
+Larg., 1o cent.
+
+- 53 — Tasse trembleuse obconique avec couvercle et presentoir, en ancienne porcelaine tendre de Sevres:reserves contenant des oiseaux et quadrilles verts semes de feurs. Decor par Taillandier.
+
+Haut., 11 cent.
+
+- 54-PeTITE TAssE droite en ancienne porcelaine tendre de Sevres: reserve contenant des oiseaux; fond bleu-turquoise.
+
+Haut., 5o millim.
+
+- 55—Por A LAir forme casque, en ancienne porcelaine tendre de Sevres :oiseaux et guirlandes de laurier en camaieu violet; fond vert.
+
+Haut.,1o cent.
+
+- 56—PLATEau lobe sur piedouche bas, en ancienne porcelaine tendre de Sevres. Bouquet de roses sur fond marron et zone circulaire de rubans, rinceaux et guirlandes de fleurs.
+
+Diam.,23 cent.
+- 57 —— GrANDE TAssE cylindrique avec sa soucoupe, en ancienne
+- porcelaine tendre de Sevres. Sur la tasse, medaillon presentant une bacchante endormie et zone de feuilles de vigne en dorure. Au fond de la soucoupe:bacchante assise,buvant le jus d'une grappe que presse dans sa coupe un enfant bacchant. Zone de feuilles de vigne en dorure. Fond gros-bleu. Dorure par Le Guay.
+
+Hauteur de la tasse,75 millim.
+
+- 58 — GRANDE TAssE cylindrique et sa soucoupe, en ancienne porcelaine tendre de Sevres. Sur la tasse, medaillon a vase et bouquet de fleurs; grecque enguirlandee en dorure. Sur la soucoupe :petit lapin, fruits,feurs et vase avec grecque enguirlandee en dorure. Fond gros-bleu. Dorure par Le Guay.
+
+Hauteur de la tasse,75 millim.
+
+- 59 — GrANDE TAssE cylindrique et soucoupe, en ancienne porcelaine tendre de Sevres. Sur la tasse, medaillon presentant un souverain oriental et son épouse prenant une collation; zone de rinceaux feuillages en dorure. Sur la soucoupe, panier feuri dans un paysage; rinceaux feuillages en dorure. Fond gros-bleu. Decor par Chauvaux aine.
+
+Hauteur de la tasse,77 millim.
+
+- 6o — Tasse et sa soucoupe en ancienne porcelaine tendre de Sevres, decor de guirlandes de feuillages sur treillis de feuilles en dorure.
+
+Hauteur de la tasse,6o millim.
+
+- 61—PoT A LAIT en ancienne porcelaine tendre de Sevres, de
+- decor analogue a celui de la tasse precedente.
+
+Haut., 88millim.
+
+- 62 — PETIT DEJEuNER solitaire, compose d'un plateau oblong, d'une theiere avec couvercle et d'une tasse avec sa soucoupe, en ancienne porcelaine tendre de Sevres. Decor de paysages animes avec ruines, habitations, cours d'eau, sur fond seme de tres petites fleurettes et quartefeuilles en dorure.
+
+Largeur du plateau, 24 cent.
+- 63— EcuELLE ronde a deux anses, avec couvercle et plateau, en ancienne porcelaine tendre de Sevres, a decor d'amours en camaieu rose, dans des reserves entourees de couronnes
+- sur fond seme d'ceils de perdrix en bleu.
+
+Longueur du plateau,2o cent.
+
+- 64—PeTIT PLATEAU carre en ancienne porcelaine tendre de Sevres,a bords formes de rinceaux ajoures; bouquet de feurs; fond bleu-turquoise. Rinceaux et fleurs en dorure.
+
+Larg., 1I cent.
+
+- 65 — PeTIT sucRIER avec son couvercle en ancienne porcelaine tendre de Sevres: bouquets de feurs sur fond bleu-tur-
+- quoise; il peut accompagner la piece precédente.
+
+Haut., 5o millim.
+
+- 66 - Sucrier et son couvercle en ancienne porcelaine tendre de Sevres. Decor de medaillons de paysages animes, avec cours d'eau et habitations, separes chacun par une rose, avec encadrements de feuillages et rinceaux.
+
+Haut., go millim.
+
+- 67— PeTITE BoITE a the avec couvercle, en ancienne porcelaine
+
+Haut.,8o cent.
+
+- tendre de Sevres, a decor de bouquets de feurs et de montants bleu-turquoise.
+
+## PORCELAINES
+
+## DE LA CHINE ET DU JAPON
+
+- 68 — Por ovoide en ancienne porcelaine de Chine, famille verte, decore de reserves en couleurs : branches fleuries, fonghoang,oiseaux, feurs sur fond bleu-souffle,rehausse de dorure. Base, col et couvercle en bronze dore.
+
+Haut. du pot, 32 cent.
+- 69 —Deux coRNETs en ancienne porcelaine de Chine, famille
+
+Haut.,34 cent.
+
+- verte, fleurs et poissons. Monture en bronze.
+- 70—DEux PETITs VAsEs-RoULEAUx en ancienne porcelaine de Chine,famille verte, decores de reserves a feurs en couleurs, sur fond bleu-souffle, charge de rinceaux dores. Montures
+
+Haut., 26 cent.
+
+- en bronze.
+- —Deux poTicHEs ovoides en ancienne porcelaine de Chine, famille verte, decorees chacune de quatre grandes et quatre petites reserves:branchanges feuris en couleurs, sur fond
+- 71 bleu-souffle. Couvercles et bases en bronze dore.
+
+Haut.des potiches,55 cent.
+
+- 72 —— Bassin en ancienne porcelaine de Chine, famille verte,
+
+Larg., 28 cent.
+
+- fleurs et oiseaux.
+- 73 — JARDINIERE hexagone en ancienne porcelaine de Chine, famille rose, feurs. Pied reperce a jour.
+
+Larg.,35 cent.
+
+- 74 —— Deux PoTicHEs avec couvercles, en ancienne porcelaine de Chine, famille rose,a decor de reserves, oiseaux sur des branchages et fleurs ; fond bleu a rinceaux en dorure. Socles en bronze doré.
+
+Haut., 66 cent.
+
+- —DEUx GRANDEs PoTIcHEs avec couvercles en ancienne porcelaine de Chine, famille rose, decorees de reserves : personnages dans des paysages et fleurs sur fond bleu rehausse d'ornements en dorure. Boutons de couvercles
+
+Haut.,62 cent.
+
+- formes de chiens de Fo.
+- 76 — VAse quadrilateral en ancienne porcelaine de Chine, orne
+- de nervures saillantes et decore de feurs et feuilles en bleu.
+
+Haut., 26 cent.
+- 77 — PETIT vAsE-RouLEAu en ancienne porcelaine de Chine, decore de reserves :ustensiles varies et fleurs en bleu, sur fond bleu-souffle.
+
+Haut.,25 cent.
+
+- 78 — DEux GRANDEs PoTIcHEs de forme allongee avec couvercles en ancienne porcelaine de Chine, famille rose, ornees chacune de trois grandes reserves forme feuilles, contenant des haies fleuries,et de six petites reserves a fleurs; fond bleu
+- a rinceaux dores. Boutons de couvercles : chiens de Fo.
+
+Haut., 75 cent.
+
+- 79 —— VasE-RoULEAu en ancienne porcelaine de Chine, decore en bleu de feurettes et inbrications;monte en lampe en bronze doré.
+
+Hauteur du vase,40 cent.
+
+- 8o- BouTEILLE en ancien celadon gris de la Chine, munie de
+- deux anses, anneaux fixes. Pied et feuillages en bronze.
+
+Haut.,23 cent.
+
+- 81 — GrANDE vAsQuE a decor de reserves : dragons en camaieu bleu, fond bleu, ancienne porcelaine de Chine. Pied en bois
+- sculpte et dore a griffes et mufles de lions.
+
+Diam.,62 cent.
+
+- 82—Deux THEIEREs, cafetiere avec couvercle, petit plateau, deux tasses et deux soucoupes en ancienne porcelaine de la Compagnie des Indes : personnages dans la campagne.
+- 83—PLAT creux avec plateau reperce en ancienne porcelaine de la Compagnie des Indes. Decor d'armoiries.
+
+Diam.,44 cent.
+
+- 84 —— Trois poTicHEs avec couvercles en ancienne porcelaine du Japon. Decor en bleu, rouge et or; couvercles surmontes de chiens de Fo.
+
+Haut., 6o cent.
+## ARGENTERIE
+
+- 85 PAIRE DE FLAMBEAUx en argent; modele a balustre, coquilles, baguettes feuronnees, oves, etc. Epoque Louis XV.
+
+Haut.,25 cent.
+
+- Poincons de L'Echaudel. Annees 1747-48.
+- 86  PAIRE DE FLAMBEAUx en argent; modele a balustre a pans,
+
+Haut., 27 cent.
+
+- cartouches, baguettes feuillagees, etc. Epoque Louis XV. Poincons de Berthe.Annees 175o-51.
+- 87— Sucrier en argent ajoure et dore avec couvercle et plateau a anses, decor de guirlandes,fruits, rocailles, etc. Armorie; double-fond de verre bleu.Epoque LouisXV.
+
+Diametre du plateau,25 cent.
+
+- 88 —SALIERE en argent avec couvercle, forme coquille,a decor de rocailles. Sur la tranche,on lit le nom :P. Deyrieu.
+- Epoque Louis XV.
+
+Larg., 8o millim.
+
+- 8g —Deux FLAMBEAux en argent, en forme de colonnettes cannelees enguirlandees. Epoque Louis XVI.
+
+Haut., 1I cent.
+
+- g0 —— PAIRE DE FLAMBEAux en argent. Modele a balustre enguirlande, coquille a la base et cartouches sur le binet. Epoque
+- Louis XVI. Poincons de Fouache. Années 1776-77,
+
+Haut., 28 cent.
+
+- 91 — SoupiERE en argent, avec son double-fond, son couvercle et son plateau. De forme ovale, elle est munie de deux anses et de quatre pieds feuillages et decores de deux cartouches armories,enguirlandes;le bouton du couvercle est compose de fruits en ronde-bosse.Plateau long, contourne, a cannelures et armoiries. Epoque Louis XVI. Poincons de Fouache, annees 1777-78.
+
+Haut.,28 cent.
+- 92 —— PAiRE DE FLAMBEAUx en argent, modele a balustre triangu-
+- laire, petites cannelures, branches fleuries, etc. Armories. Epoque Louis XV. Poincons de Clavel.
+
+Haut., 28 cent.
+
+- —PAIRE DE FLAMBEAUx en argent repousse, a tiges-balustres
+- 93 enguirlandees, tetes de beliers, etc., xvinr siecle.
+
+Haut., 27 cent.
+
+- 94— Deux vAses en argent, avec leurs couvercles et leurs
+- plateaux, a anses-tetes de beliers, godrons, feurs et guirlandes. Epoque Louis XVI.
+
+Haut.,2I cent.
+
+- —Deux DEssous DE CARAFEs en argent ajouré : bustes,
+
+Diam.,14 cent.
+
+- 95 pilastres et guirlandes. Epoque Louis XVI.
+- 96 — Deux sALiEREs doubles en argent et verre bleu, a decor d'anses feuillagees, tetes de beliers, guirlandes, etc. Armoriees. Epoque Louis XVI.
+
+Haut.,13 cent.
+
+- 97— QuATRE sALIEREs en argent et verre bleu, mascarons,
+- pampres et armoiries. Epoque Louis XVI.
+
+98 ——DEux AUTREs analogues.
+
+## OBJETS VARIES
+
+## MATIERES DURES
+
+- 99 — Deux PETITs BusTEs en marbre jaune et albatre :impera-
+- trices romaines. xvie siecle. Socles en marbre et bronze.
+
+Haut.,3o cent.
+
+- 100 — Deux PETITs BusTEs: guerriers d’apres l'antique, draperies
+- d'albatre et tetes de marbre noir. xvin siecle. Socles en marbre vert de mer, avec ornements de bronze dore.
+
+Haut.,40 cent.
+
+Larg., 8o millim.
+
+Larg., 85 millim.
+- 1o1 — Deux vAses ovoides simules en serpentin vert d'Egypte, a deux anses-volutes.
+
+Haut., 52 cent.
+
+- 102 —— DEux coLoNNEs en granit rose, a bases moulurees.
+
+Haut.,I m.55.
+
+- 103 — Deux vases ovoides simules, avec anses plates surelevees. Porphyre rouge.
+
+Haut.,44 cent.
+
+- 104 — PeTIT BusTE de bacchante en lapis, sur socle en cristal de roche.
+
+Hauteur totale,74 millim.
+
+- 105 — PeTITE couPE en cristal de roche gravé:oiseaux.
+
+Haut., 46 millim.
+
+- 106 — CoFFRET en laque noire et or, a paysages animes. xvinl° siecle.
+- 107 —— LoupE montée en or émaille.
+
+Haut.,33 eent.
+
+Haut., 75 millim.
+
+- 108 — PLATEAU DE sURTouT en trois parties, metal argenté, fond de glace. Galerie ajouree, pieds-griffes. Commencement du xix siecle.
+
+Long., I m.30.
+
+- 109 — MiNIATuRE ovale:portrait du roi Louis XVI, en buste.
+- Grand diam., 38 millim.; petit diam., 27 millim.
+- 110 —— PETITE MoNTRE-CAssoLETTE, forme poire, en or emaille. Fin du xvine siecle.
+
+Haut., 55 millim.
+
+- III — DEUx PAIREs DE GRANDs cIsEAUx en fer, l'une gravee avec inscription et date 1719.
+
+Long., 31 cent.
+- 112— ReLiuRE en maroquin dore aux petits fers : Recettes generales des finances. Second vingtieme.Annee 175g.
+
+Haut., 4o cent.
+
+- 113 — CorFrET couvert en maroquin dore aux petits fers,et simulant des volumes.xvine siecle.
+
+Haut.,17 cent.;larg.,26 cent.
+
+- 114 —EcrIroiRE en laque et argent dore,comprenant:un plateau a anses et pieds feuillages, supportant un flambeau a deux lumieres avec éteignoir; deux recipients couverts,a petits godrons, et une sonnette. Avec inscription sur le portesonnette. Armoiries de Cottin de Fontaine.Epoque Louis XV.
+
+Larg.,48cent.
+
+Vente du baron Pichon,1878.
+
+- 115 -Deux EvENTAILs du temps de Louis XV,a monture de nacre doree: scene galante et allegorie.
+- 116 -EveNTaiL a monture de nacre ajouree et dorée, amours et quadrilles. Sur la feuille, trois reserves : scenes allegoriques a l'amour et champetres, separees par quatre medaillons:bustes d'homme, de femmes et d'enfant.Encadrements a rocailles et fleurs. Au revers, sujet champetre et ruines. Fin de l'époque Louis XV.
+
+Larg., 5o cent.
+
+## PENDULES,BRONZES
+
+- 117— STATuETTE de Ganymede,a califourchon sur l'aigle et
+- tenant les foudres de Jupiter. Bronze patine du xvire siecle.
+
+Haut.,44 cent.
+
+- 118 — GRAND LusTRE hollandais en cuivre poli, a deux rangs de lumieres, avec la date 165o.
+- 1Iy — GrANDE PENDuLE en marbre blanc, bronze patine et dore. Elle se compose d'une gaine sur laquelle se voient cinq cadrans indiquant I'heure,les jours,les quantiemes,les phases de la lune,ainsi que les heures du lever et du coucher du soleil. Trois statuettes de jeunes femmes, les Parques, sont placees de chaque cote des cadrans. Un coq chantant surmonte la pendule, et un bas-relief, amours, decore le
+- socle. Epoque Louis XVI.
+
+Haut.,77 cent.; larg.,52 cent.
+
+- 120 - PeNDuLE a cage en bronze cisele et dore : taguettes enrubannees et guirlandes de feuillages. Cadran signe : Ferdinand
+- Berthoud.Epoque LouisXVI.
+
+Vente Pichon,1897.
+
+Haut.,41 cent.
+
+- 121 — PeNDuLE en marbres blanc, bleu-turquin et bronze dore, composee de deux sphinx ailes, adosses, supportant le mouvement couronne de pampres et de grappes de raisin; frise en bronze sur le socle. Cadran indiquant les heures, les jours, les quantiemes et les phases de la lune, signe : Robin hr du Roy. Epoque Louis XVI.
+
+Vente Marquis, 1889.
+
+Haut.,37 cent.
+
+- 122 —PeNDuLE a cadran tournant, composee d'un vase ovoide en metal bleui, a piedouche, anses tetes de coqs et guirlandes en bronze dore. Socle en marbre bleu-turquin et bronze dore. Epoque Louis XVI.
+
+Vente Sennegon, 1887.
+
+- 123 — PeNDuLE en marbre noir et bronze dore,a mouvement surmonte d'un groupe : Venus et l'Amour. Cadran signe : Poudra,a Paris, sous lequel est place un bas-relief :amours
+- chasseurs; rinceaux sur les cotes. Epoque Louis XVI.
+
+Haut.,38 cent.
+
+- 124 — PETITE PENDuLE en bronze dore, a mouvement supporté
+- par une colonnette cannelee posee sur une terrasse, sur
+
+Haut.,55 cent.
+laquelle se voit egalement une statuette de petit jardinier accompagne de son chien. Cadran signe: Breguet, a Paris. Epoque Louis XVI.
+
+Haut., 23 cent.
+
+- 125 —PrEssE-pAPIER en bronze dore, forme d’un chien couché
+- sur une base oblongue. Epoque Louis XVI.
+
+Long.,18 cent.
+
+- 126 —PETIT FLAMBEAu en bronze dore,a tige-colonnette cannelee, placee sur un socle orne de divers ustensiles. Epoque Louis XVI.
+
+Larg., 16 cent.
+
+- 127 -PAIRE DE CANDELABREs a dix lumieres en bronze cisele et dore; modele a vase supporte par un trepied, termine par des tetes d'aigles; branches de lumieres feuillagees a tetes de coqs.Epoque Louis XVI.
+
+Vente San Donato,188o.
+
+Haut., go cent.
+
+- 128 — PAIRE DE CANDELABREs a sept lumieres en bronze doré
+- et marbre blanc. Ils sont formes chacun d'un vase ovoide a anses-branchages et guirlandes, d'ou s'échappe le bouquet de lumieres compose de branchages fleuris. Epoque Louis XVI.
+
+## Vente Oppenheim,1877.
+
+Haut., go cent.
+
+- 129 — PAIRE DE CANDELABREs a trois lumieres en bronze patine et dore et marbre blanc.Ils sont formes chacun d'une statuette d'amour tenant les branches de lumieres. L'un porte les attributs de la musique, lautre, ceux de lamour. Socles ronds en marbre blanc et bronze doré. Epoque Louis XVI.
+
+Haut.,79 cent.
+
+- 13o—PAIRE DAPPLIQuEs a deux lumieres en bronze doré; modele a gaine cannelée et vase de flammes drape. Epoque
+
+Haut.,46 cent.
+
+- Louis XVI.
+- 131  PAIRE DE CANDELABREs a trois lumieres en bronze ciselé, patine noir et doreé. Ils sont composes chacun d'une statuette de femme drapee, tenant dans les deux mains un vase, d'ou s'échappent les branches de lumieres, et reposant sur un socle carre en marbre blanc, orne de tetes de beliers en bronze dore et d'un medaillon en biscuit bleu et blanc. Epoque Louis XVI.
+
+Haut., 82 cent.
+
+- 132 —PAiRE DE cHENETs en bronze patine et dore. Ils se composent chacun d'une statuette d'enfant assis en face d'un lion couche. Terrasses a draperies, vases et rinceaux. Epoque Louis XVI.
+
+Haut.,37 cent.; larg.,42 cent.
+
+- 133 —PAIRE DE cHENETs en bronze doré:modele a cassolettes avec couvercles ajoures, sur bases oblongues a draperies et a fleurs. Epoque Louis XVI.
+
+Haut.,35 cent.; larg.,35 cent.
+
+- 134 — CaLENDRIER Louis XVI dans un cadre en bronze dore, a decor de guirlandes,noeud de rubans et sphere a la partie superieure. Il est muni de trois crochets a la partie inferieure.
+
+Haut., 35 cent.
+
+- 135 -PAIRE DE CANDELABREs a trois lumieres, formes chacun d'une statuette de femme en bronze noir du temps de Louis XVI. Bouquets de lumieres en bronze dore et bases
+- en marbre cipolin, garnies de bronze dore de Dasson.
+
+Haut., g5 cent.
+
+- 136 —Deux cHENETs Louis XVI, en bronze; modele a pilastres canneles, volutes et vases enguirlandes.
+
+Haut.,25 cent.
+
+- 137 — ENcrier simulant une fontaine, compose d'une vasque en marbre blanc, de dauphins en bronze doré et d'un vase en
+- biscuit.Fin du xvin siecle,
+
+Haut., 3o cent.; larg,40 cent.
+- 138 —Deux vAsEs ovoides avec couvercles, en marbre de couleur, ornes d'anses-mascarons et guirlandes en bronze dore.
+- Style Louis XVI.
+- 145
+
+## SIEGES
+
+- 143 — SeizE cHAIsEs en bois sculpte a coquilles et fleurs, sieges et dossiers cannes. Coussins de damas vert. Epoque Regence.
+
+Haut.,I metre.
+
+- 144 —CANAPE ET sIx FAUTEUILs en bois sculpte et dore, couverts en tapisserie du temps de Louis XV,a bouquets de fleurs et oiseaux avec encadrements de rocailles etcoquilles.Bordures bleues.
+
+Largeur du canape,1 m.25
+
+- 5—MeuBLE de salon en bois sculpte et doré, couvert en tapisserie d'Aubusson du temps de Louis XVI : enfants, sujets tires des fables de La Fontaine, chasses, draperies, feurs, etc. ll se compose d'un canape, quatre fauteuils et deux bergeres.
+
+Largeur du canape,1 m.75
+
+Haut.,32 cent.
+
+- 13g-I4o — Deux PAIREs D'APPLIQUEs a trois lumieres, en bronze cisele et dore. Modele a gaine cannelée avec mufle de lion, surmonte d'un vase,et a branches feuillagees retenues par des guirlandes de laurier.
+
+Haut.,74 cent.
+
+- 141 — Deux coLoNNEs en marbre noir avec bases en marbre jaune, chapiteaux ioniques en bronze dore.
+
+Haut.,I m.49.
+
+- I42 —DEUx sIMULACREs D'AIGUIEREs en marbre de couleur, montees en bronze dore a rocailles et feuillages.
+
+Haut.,6o cent.
+- 146 — FauTeuIL en bois sculpte et peint gris, couvert en tapisserie du temps de Louis XVI a bouquets et vases de feurs
+
+Haut., 86 cent.
+
+- dans un medaillon a fond bleu.
+- 147 — Deux TABouRETs en bois sculpte et dore du temps de Louis XIV a pieds relies par un croisillon a X. Ils sont couverts de satin brode de soie et de metal a vases et branches fleuries du xvr siecle.
+
+Larg., 5o cent.
+
+- 148 —FAuTEuIL de bureau, a siege tournant, en bois sculpté et dore, du temps de Louis XVI. Signe: Jacob. Il est couvert
+- de velours cisele a fleurettes vertes sur fond gris.
+
+Haut., 88 cent.
+
+- 149 — Deux TABouRETs Louis XVI, en bois sculpte et dore,
+
+Larg.,44 cent.
+
+- 15o —Deux FAuTeuILs Louis XVI,en bois sculpte et dore,a dossiers ovales, couverts en soie brochee a branches et
+
+Haut., 8g cent.
+
+- couverts en ancien satin blanc brode a feurs.
+- fleurs sur fond bleu.
+- 151 — FAtTEuIL-CRAPAUD Louis XVI, en bois sculpté, a siege et dossier cannes,coussins et manchettes en satin blanc
+
+H aut.,67 cent.
+
+- brode a fleurs.
+- 152  Six cHAises Louis XVI, en bois sculpte et peint blanc; sieges en soie rayee et brochee, a fond blanc.
+
+Haut., go cent.
+
+- 153 - QuATRE CHAIsEs legeres Louis XVI, en bois sculpte et dore, dossiers a lyres et volutes; trois sont couvertes de velours cisele, a feurettes roses sur fond creme, et la qua-
+- trieme de velours cisele, a fleurettes vertes sur fond rose.
+
+Haut., go cent.
+- 154 — Six cHAisEs en bois sculpté et peint blanc, dossiers a lyres, avec tetes d'aigles; balustres et pieds canneles en spirale, etc. Epoque Louis XVI. Elles sont couvertes en soie brochee,a feurettes sur fond rose.
+
+Haut., 85 cent.
+
+- 155 — CHAisE Regence en bois sculpte et dore, a siege et dossier cannes; decor de coquilles et rocailles.
+
+Haut., g8 cent.
+
+- 156 —Deux cANApEs en bois sculpte et dore,a baguettes enrubannees, feuillages, feurs, pommes de pin, couverts en
+
+Larg., I m. 30.
+
+- satin blanc brode de fleurs en couleurs.
+- 157 - CHaisE a dossier carre, en bois sculpte et dore, couverte
+
+Haut., 83 cent.
+
+- de velours a feurettes en vert sur fond vieux rose.
+
+## MEUBLES
+
+- 158 -MeuBLE a hauteur d'appui et a deux portes vitrees en bois de placage, chutes a mascarons en bronze. Dessus de marbre. Epoque Regence.
+
+Haut., 1 m.25; larg.,1 m.38.
+
+- 159 —EcRan en bois sculpte et dore, a feuille en tapisserie flamande du xvir siecle: amour voltigeant, tenant des guirlandes de fleurs.
+
+Haut., 1 m.22;larg, 84 cent.
+
+- 16o -EcRAN en bois sculpte et dore, orne d'une feuille en tapisserie du temps de Louis XV:le Loup et l'Agneau; encadrements de rocailles et feurs; fond marron.
+
+Haut., 1 m.06.
+
+- 161 - ENcoiGNuRE ouvrant a deux portes, ornees de panneaux laques, a decor de paysages animes en dorure sur fond noir.
+Chutes et encadrements a rocailles et fleurs en bronze. Dessus de marbre. Signee : J. Dubois. Epoque Louis XV.
+
+Haut., 92 cent.; larg.,78 cent.
+
+## Vente de Salverte, 1887.
+
+- 162 -TABLE de dame,en marqueterie de bois de couleur et
+- d'ivoire, decoree sur toutes ses faces d'habitations, monuments, personnages, etc. Elle contient trois tiroirs, lun formant bureau.Elle est munie d'une tablette d'entrejambes et ornee de chutes et sabots en bronze. Galeries de cuivre. Epoque Louis XV.
+
+Haut.,73 cent.; larg., 46 cent.
+
+- 163 —— BurEau plat, en marqueterie de bois de violette, a fleurs, contenant un tiroir. Il affecte la forme d'une epinette et est orne de chutes, appliques, sabots, etc., en bronze doré. Epoque Louis XV.
+
+Long., I m.35.
+
+- 164 —PETITE TABLE-PoUDREUsE en bois de placage, de forme contournee,munie de trois compartiments, ainsi que d'une tablette d'entrejambes. Encadrements et galerie de cuivre. Epoque Louis XV.
+
+Haut.,79 cent.
+
+- 165 —DEux PETITEs coMMoDEs en bois de placage,a deux tiroirs, ornees de chutes, culs-de-lampe, sabots, etc., en bronze dore. Dessus de marbre de couleur. Signees :F. Ru-
+- bestuck.Epoque Louis XV.
+
+Haut., 85 cent.;larg.,67 cent.
+
+Vente du chateau de Langeais,1886.
+
+- 166 —BurEAu a dos d'ane en bois de violette,de forme contournee, ouvrant a abattant et contenant des tiroirs. Garni-
+- tures de bronzes.Epoque Louis XV.
+
+Haut., 95 cent.;larg.,78 cent.
+- 167 —PETITE TABLE de dame Louis XV, en marqueterie de bois de couleur, munie d'une tablette d'entrejambes, d'un tiroir et d'une tablette mobile. Elle est decoree de paysages animes de style chinois, de vases, de cartes a jouer et d'usten-
+- siles varies. Chutes et galeries de bronze.
+
+Haut., 71 cent., grand diam.,48 cent.
+
+- 168 -TABLE DE NUIT a deux portes et un tiroir,en bois de violette a quadrilles; dessus de marbre. Fin de l'époque Louis XV.
+
+Haut.,72 cent; larg, 47 cent.
+
+- 16g — TaBLE-sERvANTE en acajou, munie d'un tiroir et d'une tablette d'entrejambes. Dessus de marbre blanc et bois, a quatre compartiments. Fin de l'époque Louis XV. Dans les compartiments se trouvent deux seaux a rafraichir,ainsi que deux recipients oblongs en metal argente.
+
+Haut.,66 cent.;larg.,81 cent.
+
+- 170 — PeTITE TABLE de dame en acajou, munie de trois tiroirs, celui du haut formant bureau,et d'une tablette d'entre-
+- jambes. Fin de l'époque Louis XV.
+
+Haut.,71 cent.
+
+- 171 —— MeUBLE D'ENTRE-DEUx Louis XV, a hauteur d'appui, en bois de placage et marqueterie, ouvrant a trois portes et contenant trois tiroirs. Il est orne de frises, chutes, cul-delampe, encadrements en bronze cisele et dore. Dessus de
+- marbre breche d'Alep. Signe : M. Carlin.
+
+Haut., 94 cent.;larg, 1 m.52.
+
+- 172—MEUBLE D'ENTRE-DEUx Louis XV,a hauteur d'appui, ouvrant a deux portes, ornees de panneaux partiellement laques, a decor de feurs et oiseaux. Sur l'interieur marquete des portes, se voit l'initiale L, ainsi quune feur de lys. Dessus de marbre brocatelle.
+
+Haut., go cent.; larg., 88 cent.
+- 173 — CoMMoDE a deux tiroirs, en marqueterie de bois de couleur, a decor de trophees d'instruments de musique et vases. Chutes, anneaux de tirage, sabots en bronze. Dessus de
+- marbre noir et blanc. Fin de l'époque Louis XV.
+
+Haut., 84 cent.; larg., 8o cent.
+
+- 174  PETITE TABLE ronde Louis XV, en marqueterie de bois de couleur a damier, munie d'une porte a coulisse dissimu-
+- lant trois petits tiroirs, et d'une tablette d'entre-jambes.
+
+Haut.,75 cent.
+
+- 175 — SEcRETAIRE Louis XVI, en acajou, a abattant, portes et
+- tiroir, orne de trois medaillons a sujets d'enfants, de guirlandes de feurs, d'encadrements, de frises, cul-de-lampe, etc., en bronze cisele et dore.Dessus de marbre de couleur.
+
+Haut., 1 m.45;larg, 92 cent.
+
+- 176 — TaBLE de bouillotte en bois de placage et bronzes dores.
+- Epoque Louis XVI.
+- 177 —MEUBLE D'ENTRE-DEUx a hauteur d'appui,en bois de placage, ouvrant a deux portes et muni de deux tiroirs. Mascarons, encadrements et poignees en bronze. Dessus de marbre brocatelle. Signe : Leleu. Epoque Louis XVI.
+
+Haut., 97 cent.; larg., 1 m. 88.
+
+- 178—ComMoDE a trois rangs de tiroirs, en acajou, a angles canneles, ornee de frises, encadrements, poignees en bronze dore. Dessus de marbre blanc. Signee: G. Benneman.Epoque
+- Louis XVI.
+
+Haut., 94 cent.; larg., I m.30.
+
+- 179 - CoMMoDE demi-lune en acajou, a trois tiroirs sur la facade et petite armoire et tiroir sur chaque cote. Elle est ornee de chutes, cul-de-lampe, branches et entrees de serrures en bronze dore. Dessus de marbre blanc. Signee: L.Moreau.Epoque Louis XVI.
+
+Haut., 82 cent.,; larg, 1 m.48.
+
+Vente Sennegon.
+- 18o - CoMMoDe demi-lune en acajou, contenant trois tiroirs sur la facade et munie de deux portes sur les cotes. Frises, encadrements, entrees de serrures, cul-de-lampe en bronze; dessus en marbre blanc veine de noir. Signee : L. Aubry.
+
+Haut., go cent.; larg., 1 m.30.
+
+- 181 —— Deux TABLEs rectangulaires en bois de placage, sur pieds
+- carres, munies chacune d'un tiroir formant bureau. Ornements de bronze. Signees : C.-E. Saunier. Epoque Louis XVI.
+
+Larg.,76 cent.
+
+- 182 — GuERIDoN-TREPIED en bronze et marbre bleu-turquin, pied a trois volutes reunies par un plateau et un croisillon. Epoque Louis XVI.
+
+Diam.,61 cent.
+
+- 183 -PeTITE TABLE en bois de placage, munie d'un tiroir et
+- d'une tablette d'entrejambes.Le dessus s'ouvre a abattant et forme toilette a dessus de marbre. Garnitures de bronzes rapportes. Signee : L. Moreau. Epoque Louis XVI.
+
+Haut.,76 cent.; larg, 58 cent.
+
+- 184 — BuREAU BONHEUR-DU-JoUR Louis XVI,en marqueterie de bois de couleur, ouvrant a abattant et muni d'un tiroir a casiers. Il est decore d'un trophee d'instruments de musique, de colombes et de fleurons dans des losanges. Ornements de
+
+Haut.,I m.04;larg.,79 cent.
+
+- 185 — BuREau plat Louis XVI, en bois de placage, muni de cinq tiroirs. Nombreux ornements de bronze dore; galerie de
+- cuivre.
+- Epoque Louis XVI.
+- bronze doré.
+
+Long., 1 m.63;larg.,86 cent.
+
+- 186 — BuREAu plat Louis XVI, en acajou a deux tiroirs. Garnitures de bronzes, dessus de cuir.
+
+Larg., I m.30.
+- 187—TABLE DE NuIT en acajou, ouvrant au moyen d'une coulisse, simulant des volumes. Dessus de marbre blanc. Epoque Louis XVI.
+
+Haut.,81 cent.;larg.,55cent.
+
+- 188  MeUBLE D'ENTRE-DEUx a hauteur d'appui, ouvrant a trois portes et muni de trois tiroirs. Il est compose de panneaux en ancienne laque de Coromandel, a sujets de paysages animes. Ornements de bronze dore;tablette épaisse en marbre
+- breche violette.
+
+Haut., 1 m. 05; larg, 1 m.83.
+
+- 18g — SecrETAIrE en acajou, a abattant et portes, decore de trois plaques en biscuit blanc et bleu, et de frises, encadrements, chutes, cul-de-lampe, vases, etc., en bronze dore. Tablette
+- en marbre blanc, galerie de cuivre.
+
+Haut., 1 m. 15; larg.,67 cent.
+
+- 19o —— TaBLE rectangulaire Louis XVI, en marqueterie de bois de couleur, a losanges, munie d'un tiroir formant bureau et d'une tablette d'entrejambes. Garnitures de bronzes. Galerie
+- de cuivre.
+
+Larg, 68 cent.
+
+- 191 — MEUBLE D'ENTRE-DEUx a hauteur d'appui, en acajou, ouvrant a deux portes, dont une double. ll est orne d'un medaillon en porcelaine, d'une frise, d'un cul-de-lampe, de chutes et d'encadrements en bronze dore. Tablette de marbre blanc.
+
+Haut.,8g cent.;larg.,1 m.46 cent.
+
+- 192 ——PETIT MEUBLE Louis XV, en bois de placage, de forme contournee, ouvrant a coulisse et muni d'un tiroir, orné
+- de chutes en bronze dore. Dessus de marbre blanc.
+
+Haut., go cent.; larg., 63 cent.
+
+- 193  PETIT MEuBLE en bois de placage, de forme contournee,
+- ouvrant a une porte et muni d'un tiroir ouvrant a secret. Il est orne de deux plaques en ancienne porcelaine tendre de
+Sevres, ainsi que de moulures et galeries en bronze. Dessus de marbre. Style Louis XV.
+
+Haut., I metre.
+
+- 194 — GuERiDon Louis XVI a tablette d'ancienne laque, decor en dorure sur fond noir; pied a trois volutes a griffes,
+- tablette d'entrejambes et entretoise en bronze dore.
+
+Haut., 7I cent.
+
+- 195 — GuEripon ovale en ébene, sur quatre pieds contournes reunis par une tablette. Dessus de marbre blanc; mascarons, galerie, encadrements, sabots en bronze dore.
+
+Grand diam., 81 cent.
+
+- deux amours sur les cotes et muni a sa partie superieure de deux cadrans surmontes de l'aigle de Jupiter. Il est orné de trois plaques en porcelaine tendre, ainsi que d'encadrements, rangs de perles, sabots en bronze doré.
+
+Haut., I m.75;larg.,72 cent.
+
+- 197 - CorrRET a bijoux en laque du Japon, a decor en dorure et burgau sur fond noir. De forme contournee, le dessus ouvre a coulisse et sur le cote est dissimule un tiroir secret.
+
+Haut.,2g cent.;larg,27 cent.
+
+## Veute Sennegon 1887.
+
+- 198 — MeuBLe-cABINET sur support a quatre pieds, avec tablette d'entrejambes, ouvrant a deux portes et muni de deux tiroirs;il est forme de panneaux d'ancienne laque doree et burgautee sur fond aventurine : decor de paysages et animaux. Ornements et galerie en bronze doré. Dessus de
+- marbre.
+
+Haut.,1 m.40;larg.,96 cent.
+
+- 199  TaBLE en bois de placage et marqueterie, munie sur les cotes de quatre petits tiroirs et de deux tablettes, et reposant
+- sur quatre pieds canneles avec tablette d'entrejambes. Le
+dessus presente une vue de port de mer anime, ainsi qu'un oiseau portant une banderole avec l'inscription :Dedie a Sa Majeste l'Imperatrice et Reine. Ornements en bronze dore.
+
+Larg.,55 cent.
+
+- 200 —DEUX PETITEs vITRINEs-APPLIQUEs en acajou, balustres canneles ornes de bronze doré. Dessus de marbre, galeries de cuivre.
+
+Haut., g1 cent.; larg.,77 cent.
+
+- 201 — VIrrINE en cuivre poli, a fond de glace, ouvrant a une
+- porte.
+
+Haut.,1 m.36;larg.,1 m.42;prof.,42 cent.
+
+- 202 — GRAND PARAvENT a six feuilles, en ancienne laque noire,
+
+Haut., 2 m.
+
+- a decor en dorure de paysages animes.
+- 203 —PARAvENT a six feuilles, en ancienne laque a fond noir,
+- decore en dorure et couleurs de paysages animes.
+
+Haut.,1 m.6o.
+
+## ETOFFES--TAPISSERIES
+
+- 204 —— GRAND PANNEAu en filet bleu a dessin blanc de personnages et animaux. xvin siecle.
+
+Long., 3 m.70; larg., 3 m.76.
+
+- 205  GRAND PANNEAu en satin blanc brode a fleurs, oiseaux,
+- papillons, etc. Ancien travail des colonies portugaises.
+
+Long., 2 m. 93; larg., 2 m.47.
+
+- 206 — BanDeau de damas rouge brode de metal et de soies de
+- couleur : fleurs et feuillages. xvil siecle.
+
+Long.,2 m.65.
+
+- 207 — TAPissERIE flamande du xvire siecle: Jupiter et Junon
+enlaces;a leurs pieds, deux amours tenant des torches enflammees. Fond de paysages. Bordure simulant un cadre.
+
+Haut.,3 m.35;1arg.,2 m.75
+
+- 208—SUITE DE DEUX TAPISSERIES f famandes du temps de Louis XIV:
+
+1 La Chasse de Diane. La nymphe, debout sur une roche, vient de frapper a mort un cerf que couvrent trois chiens. Trois nymphes l'entourent, armees comme elle d'arcs, et pretes a achever la bete. Fond de paysages. Bordure a feurs animees, oiseaux, trophees, avec cartouche a la partie superieure.
+
+Haut.,3 m.10; larg,2 m.40.
+
+2° Scene allegorique a la moisson. Un personnage richemilieu des nuees, lui adresse la parole. A gauche, des mois-
+
+Haut.,3m.o5;1arg.,3m.35.
+
+ment vetu s'apprete a monter sur son char deja charge de gerbes de ble et attele d'un dragon; a droite, une statue de Ceres, et au-dessus du personnage, la deesse elle-meme, au sonneurs; au fond, un paysage. Meme bordure que la tapisserie precedente.
+
+- 209 —SUITE DE DEUX TAPISSERIES sflamandes du temps de Louis XIV. Le Printemps et l'Ete sous les traits de femmes richement vetues et auxquelles d'autres femmes presentent, soit des fruits, soit des feurs. Fond de paysage pour l'une et d'architecture pour l'autre.Bordures simulant un cadre, incomplete pour l'une d'elles.
+- 210 — TapissErIe famande du xvin siecle, presentant une scene mythologique :la Naissance de Paris. Mercure l'apporte a deux femmes, dont l'une tend les bras pour le recevoir. Au premier plan,un jeune bacchant donnant a manger a un bouc; derriere lui, deux servantes occupees a transvaser du lait. A gauche, deux femmes conversant. Fond de verdure et vue de feuve.
+
+Haut.,3m.10; larg,4 m.45.
+
+Haut.,3m.40;larg,4m.g0.
+
+Haut.,2 m.8o;larg.,3m.80.
+- 211  TapissERIE rectangulaire du xvinl siecle, presentant a
+- droite deux adolescents occupes a balancer une jeune femme sur une escarpolette,et, a gauche,un groupe de femmes et enfants entourant une jarre remplie de lait. Fond de ruines et de paysages. Bordure simulant un cadre.
+
+Haut.,2m.go;larg.,3m.10.
+
+- serie d'Aubusson du xvin siecle.
+
+Long.,2m.55;larg.,2m.55.
+
+<!-- image -->
+<!-- image -->
+
+## TABLEAUX
+
+## AVED
+
+(J.-A.-J.)
+
+DEUX PENDANTS
+
+213
+
+3—Portrait de jeune femme.
+
+Assise dans un fauteuil, en robe blanche, une rose au corsage, elle fait de la tapisserie.
+
+## 214 一 Portrait d'un gentilhomme.
+
+En habit gris, gilet de soie bleu brode d'argent, le bras gauche accoude sur une cheminee, il tient dans la main une boite d'or.
+
+Toile.Haut., 8o cent.;larg.,63 cent.
+216
+
+## BOUCHER
+
+(ECOLEDE)
+
+215 Pastorale.
+
+Dessus de porte.
+
+Toile.Haut.,75 cent.;larg., 83 cent.
+
+## DEBAR
+
+(BONAVENTURE)
+
+Reunion dans un parc.
+
+Au centre, un couple danse. A droite,un joueur de guitare devant une statue de pierre.
+
+Toile.Haut.,49 cent.;larg.,5g cent.
+219
+
+## DROUAIS
+
+(Genre de)
+
+217 Portrait de jeune femme.
+
+Representee en buste, en corsage decollete, avec nceud rose sur la poitrine.
+
+Toile.Haut.,44 cent.;larg,36 cent.
+
+## DUPLESSIS
+
+218 —— Portrait d'homme en habit gris.
+
+Toile de forme ovale. Haut., 62 cent.; larg.,5o cent.
+
+## NATTIER
+
+(Attribue a)
+
+Jeune Femme en corsage blanc et manteau vert.
+
+Toile de forme ovale.Haut.,76 cent.;larg., 6o cent.
+## OCTAVIEN
+
+(FRANCOIS)
+
+220 La Serenade.
+
+Un jeune homme joue de la guitare devant un groupe de quatre personnages,reunis devant une fontaine depierre.
+
+Cadre en bois sculpte.
+
+Toile.Haut.,79 cent.; larg.,63 cent.
+## SCHALL
+
+Les Adieux. 221
+
+Un gentilhomme en habit bleu est agenouille devant une jeune femme en robe rose, assise dans un interieur orne de meubles et d'objets d'art.
+
+Bois.Haut.,31 cent.;larg,24 cent.
+
+## WATTEAU
+
+(D'apres)
+
+## Paravent a quatre feuilles. 222
+
+Il represente les Quatre Saisons, figurees par des groupes allegoriques, et entourees d'arabesques, de medaillons, de trophees et de guirlandes de fleurs.
+
+Ces quatre compositions ont éte gravees par Boucher, d'apres Watteau.
+
+Chaque feuille mesure: Haut., I m.40; larg, 56 cent.
+
+Catalogue de l'Art francais sous Louis XIV et sous Louis XV,n° 156.
+
+<!-- image -->

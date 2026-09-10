@@ -1,0 +1,4404 @@
+## Topfereien, Fayencen; Arbeiten in Thon, Porzellan etc.
+
+- 1 Theekanne, grau, in Kugelform mit eingeritzten Thieren, Rosetten etc.
+- Hohe 12 Cent.
+- 2 Kaffeekanne und kleine Lampe, grau, mit Strichverzierung. Hohe 11 Cent.
+- (Deckel feh!t.)
+- 3 Fruher Siegburger Becher. Hohe 15 Cent.
+- 4 Henkelkanne in Birnform, grau-blau, mit abgefachtem Korper und eingeritzten Verzierungen. Hohe 28 Cent. Zinndeckel.
+- 5 Birnformige Henkelkanne, grau-blau-braun,mit herzformigen Verzierungen.
+- Hohe 18 Cent. Zinndeckel.
+- 6 Nassauer Henkelkrug,birnformig, grau-blau. Der Hals gerippt, die Vorderfache mit eingeritzten Blumenranken und Vogel in Medaillon. Hohe 24 Cent.
+- Zinndeckel.
+- 7 Henkelkanne, grau-blau-braun, mit drei reliefrten grossen OrnamentMedaillons, in denen der Doppeladler mit vielfeldigem Wappen-Brustschild. Hohe
+- 27 Cent. Zinndeckel. Henkel erginzt.
+- 8 Nassauer Warzenkrug mit Henkel, grau-blau, kugelformig, mit gepressten Sternrosetten. Hohe 22 Cent.
+- 9 Cylindrische Henkelkanne, grau-blau,mit eingeritztem Ornamentfries um den
+- Korper.Hohe 17 Cent. Zinndeckel.
+- 10 Henkelkanne, grau-blau, eingeritzt Medaillon mit Vogel, Blumenranken etc. Hohe 26 Cent. Zinndeckel.
+- 111 Kreussener Krug,braun,mit Reliefmaske.
+- 12 Frankisches Deckelgefass auf 3 Fissen mit rohrenformigem Handgriff. Weiss. Hohe 28 Cent.
+- 13 Henkelkrug mit
+- Hohe 16 Cent.
+- 14 Doppeltgehenkelte Vase mit Strichverzierungen. Peruanisch. Hohe 29 Cent. Gekittet.
+- gravirt
+- 15 Henkelkrug, birnformig, blau glasirt und gedreht. Der Zinndeckel mit St. Georg den Drachen totend. Hohe 18 Cent. Zinndeckel und Fuss.
+- 16 Krug, ihnlich, mit gefochtenem Henkel. Gleiche Grose. Ebenso.
+- 17 Henkelkanne, blau bemalt, der Korper mit Abfachungen,auf denen Namens-
+- aufschriften. Hohe 22 Cent. Zinndeckel.
+- 18 Grosse birnformige Henkelkanne,braun, um den Korper reliefirte Heiligen-
+- figuren. Hohe 31 Cent. Zinndeckel.
+- 19 Grosse birnformige Henkelkanne mit Kleeblattausguss;a wunderthatiges Marienbild. Hohe 32 Cent. Restaurirt.
+- aufgemalt in Blau
+- 20 Grosse Henkelkanne, weiss,auf der Vorderflache des birnformigen Korpers ein in Blau gemaltes Wappen. Hohe 41 Cent. Restaurirt.
+- geschnirtem Halse und schwarzen Reifen.Germanisch.
+- 21 Henkeltopf, grin glasirt, vorne das hochreliefrte Standbild eines Apostels.
+- 22 Kaffeekanne,braun glasirt, mit gefochtenem Henkel und Reliefrosetten. Hohe
+- Hohe 16 Cent.
+- 22 Cent.
+- Beschidigt. Hohe 13 Cent.
+- 23 Milchkannchen,braun glasirt, mit reliefirten Blumen. Bunzlauer Fabrikat.
+- 24 Cylindrische Henkelkanne, bemalt mit bunten Blumen. Hohe 17i/2 Cent.
+- Zinndeckel.
+- 25
+- 26 Kleiner Seidelkrug mit Relieffiguren. Hohe 12,Diam. 8 Cent.
+- Cylindrisches Apothekergefass,Fayence, mit dem aufgemalten kurbayrischen Wappen in Blau. Frankisches Fabrikat. Hohe 2O,Diam.12 Cent.
+- 27 Hohe Kanne, braun, mit Kerbschnittmusterung. Kreussener Fabrikat. Hohe
+- 28 Gedeckelter Topf, braun glasirt, mit grinen und gelben Reliefverzierungen. Hohe 10,Diam.14 Cent.
+- 50 Cent.
+- 29 Topf, weiss, bemalt mit dem bayrischen Wappen und Jahreszahl 1675. Hohe 23 Cent.
+- mit blauer Malerei,3 Sticke. Lange 9 und 5 Cent.
+- 30 Zwei kleine Gefasse in Form von Pantoffeln und Miniatur-Henkelkannchen
+- 31 Fruchtkorb, der Rand gegittert, der Deckel mit vollrunden Frichten aller Art;bunt glasirt. Hohe 21, Diam.21 Cent.
+- 33 Drei verschiedene Henkelkannen, eine in Form eines Baumstumpfes. Hohe zwischen 24und 15 Cent.3 Stick.
+- 32 Zwei Topfe, grin glasirt. Hohe 20 und 12 Cent. Zinndeckel.
+- 34 Drei verschiedene Fayence-Henkelkannen. Hohe 15 Cent.
+- 36 Grosse runde Schussel mit ausgeschweiftem Rande, die Tiefung nimmt ein
+- 35 Bunzlauer Topf, der Ausguss in Form eines Adlers. Hohe 18 Cent.
+- in Blau gemaltes Abtwappen ein. Diam.47 Cent.Gekittet.
+- 38 Drei verschiedene kleine Schusseln,gerippt. Diam. 25 Cent.
+- 37 Confect-Tellerchen, lilienformig,mit blauer Malerei, nebst Schale auf drei Fussen (gekittet). Lange des Tellerchens 20 Cent. 2 Stick.
+- 39 Grosse ovale Sehussel mit Wappen in Braun gemalt. Linge 50, Breite 40 Cent.
+- 41 Doppeltgehenkelte Vase und Henkeltopf, grin glasirt. Hohe je 21 Cent.
+- 40 Barbierschussel mit blauer Blumenmalerei. Diam. 23 Cent.
+- 2 Stiick.
+- guirlanden. Hohe 26, Diam. der Unterschissel 36 Cent.
+- 42 Doppeltgehenkelte Terrine auf Unterschale, weiss, mit reliefirten Blumen-
+- 43 Topf, gerippt,und birnformiges Henkelkannchen, grun glasirt. Hohe 18 und 15 Cent. Zinndeckel.
+- kopfen. Hohe der Unterplatte 50 Cent.
+- 44 Drei Wandleuchter, Fayence; die Lichthalter Holz, mit langgefligelten Engels-
+- 45 Zwei Humpen,doppelt gehenkelt,blau bemalt. Verschieden. Diam.29 und
+- 26 Cent.
+- 47 Lavoir,muschelformig,mit zwei Schnorkelhenkeln,auf der Ruckwand Kar-
+- 48 Kleines Lavoir mit dem Namen Jesu. Bauernmajolica. Hohe 15,Lange 14, Breite 9 Cent.
+- tusche mit deutschem Spruch. Bauernmajolica. Hohe 27,Diam.30 Cent.
+- 49 Aschbecher,Fayence,muschelformig,mit Blumen in Blau bemalt. Hohe 5,
+- 50 Pfeffer- und Salzfasschen in Form von Schnecken, grun glasirt. Hohe 6 Cent.
+- Lange 13,Breite 8 Cent.
+- 51 Ein Paar dergleichen. Ebenso.
+- 52 Pfeffer- und Salzfasschen in Form von Schnecken, blau glasirt. Hohe 6 Cent.
+- 53 Huilier,Fayence,die Wandung durchbrochen,mit Blumchen in Blau bemalt.
+- Hohe 18,Lange 19, Breite 14 Cent.
+- 54 Huilier, weiss, mit Puttenfigur zwischen den muschelformigen Gefassen sitzend. Hohe 19,Breite 26 Cent.
+- 55 Tintenfass mit stilisirten Blumen zwischen Pilastern,braun glasirt. Hohe 10,
+- Lange 20 Cent.
+- 57 Tintenfass in Form eines Buches, braun glasirt. Hohe 6, Lange 15, Breite 9Cent.
+- 56 Tintenfass, vierseitig,die Wandungen mit bunt glasirten Reliefarabesken. Hohe 8,Lange 18 Cent.
+- .58 Grosses Tintenfass,blau bemalt mit Landschaftsdarstellung. Hohe 7, Lange 23,
+- Breite 15 Cent.
+- 59 Rococo-Schreibzeug in Form eines Pantoffels, Fayence, bemalt mit Arabesken
+- in Blau. Lange 17 Cent.
+- 60 Weihwasserkesselchen, die geschweifte Ruckwand mit Jesuknabe. Weiss. Hohe 30,Breite 15 Cent.
+- 62 Eckstuck mit hochreliefrten, bunt bemalten Lowenkopfen. Hohe 19, Breite 14Cent.
+- 61 Weihwasserkesselchen, Thon, mit hoher Ruickwand, an der das Christuskind unter Baidachin. Lange 28 Cent.
+- 63 Grosses Capitell mit Schnorkelwerk und freistehenden Blumen.L Hohe 16 Cent.
+- 65 Rococo-Console,Fayence. Fragmentirt. Hohe 43 Cent.
+- 64 Grosse Rococo-Console in hubscher Musterung, bunt glasirt.F Hohe 32 Cent.
+- 66 St. Johannes von Nepomuk in vollem Ornate. Interessante grosse, bunt gla-
+- sirte Figur.Hohe 82 Cent.
+- 68 Wappenlowe, aufrechtsitzend, vergoldet und bemalt. Hohe 29 Cent.
+- 67 Grosser Pfeifenkopf,weiss, mit Blechbeschlag. Lainge 27 Cent.
+- 69 Ofenfigur. Sitzender Lowe,ein Wappenschild in den Vordertatzen haltend, Terra-Cotta mit Polychromirung und Vergoldung. Hohe 30 Cent.
+- 71 Vier sitzende Lowen, zwei ein Schild haltend. Glasirt. Verschiedene Grosse.
+- 70 Ofenfigur in Form eines aufrecht sitzenden, ein Schild in OrnamentUmrahmung vorstreckenden Lowen. Gelb glasirt. XVIl. Jahrh. Hohe 27 Cent.
+- 72 Dogge, auf Kissen sitzend. Hohe 18 Cent.
+- 74 Zwei kleine Kacheln,grin, mit mythologischen Figuren. Lange 18, Breite 16 Cent.
+- 73 Kleine Kachel mit Hercules, grun glasirt. Hohe 18, Breite 17 Cent.
+- 75 Zwei Ofenfiguren in Form von Lowen, braun glasirt. Hohe 32 Cent.
+- 76 Fuss eines Ofens in Form eines aufrecht sitzenden Lowen, braun glasirt.
+- Hohe 41 Cent.
+- 78 Runde Ofenkachel, in Ornament-Umrahmung, mit Doppelwappen und Inschrift:Deiss Rott, Vogt zu Buintingen, Cattrina Zolgin, sein Ehliche
+- 77 Eine Partie grun glasirte Ofenkacheln mit Samson unter Bogennische. Hohe 18,Breite 16 Cent.
+- Haussfrauw. 1680.“ Unten das Monogramm J.F. Diam.28 Cent.
+- 80 Viereckige Kachel mit figurenreicher Landschaft. Linge und Breite 47 Cent. Beschadigt.
+- 79 Grin glasirte Kachel mit Wappen und I. E. Z. K., 1669. Lange und Breite 30 Cent.
+- 81 Schwarzglasirte Ofenkachel mit dem Reiterbildnisse des Leopoldus R. K.". Lange 54,Breite 30 Cent.
+- 83 Zwei Ofenkacheln mit Karyatiden. Lange 58 Cent.
+- 82 Kachel, ahnlich, mit dem Reiterbildnisse des Churfirst zu Sachsenn".Lange 51, Breite 40 Cent.
+- 84 St. Sebastianus an Baum gebunden.Statuette in Elfenbeinmasse. Hohe 21 Cent.Gekittet.
+- 86 Funf Muttergottes-Statuettchen, theils polychromirt. Verschiedene Grosse.
+- 85 Wunderthatiges Madonnenbild. Polychromirte Relieffigur. Hohe 28 Cent.
+- 87 Madonna als Mutter, in eigenartiger Auffassung. Interessante Relieffigur in Terracotta. Polychromirt. Auf der Rickseite monogrammirt A.P.1708.
+- 88 Moses mit den Gesetzestafeln. Flott behandelte Terracotta-Statuette. Hohe
+- Hohe 57 Cent.
+- 28 Cent.
+- 06 Schild mit dem Doppeladler, die bayerischen Wecken als Brustschild.
+- 89 Das Wappen der Familien Adam,Platzer und Renk. Drei Schildchen. Hohe 10,Breite 71/2 Cent.
+- Hohe 30,Breite 24 Cent.
+- Breite 9 Cent.
+- 91 Wappenschilder der Thunnhart und Leidinger. Masse. Bemalt. Lange 11,
+- 92 Console mit reliefirten Rococo-Ornamenten, polychromirt und vergoldet.
+- 93 Stosstiegel mit eisernem Handgriff. Die Wandung Thon umzogen von kupfernen Reifen.Hohe 20 Cent.
+- Hohe 33,Breite 22 Cent.
+- 94 Acht grosse Schachfiguren in Thon vorziglich modellirt von Foltz. Hohe
+- 95 Wappen mit Schwan, behelmt und auf reicher Helmdecke.Vorziglich
+- zwischen 69 und 46 Cent. Eine beschadigt.
+- modellirt in Thon. Hohe 60, Breite 44 Cent.
+- 97 Viereckiges Thonrelief mit mittelalterlicher Darstellung. Hohe 33,Breite
+- 96 Acht verschiedene Fussbodenziegel. 8 Stuick.
+- 27Cent.
+- 98 Thonrelief mit musicirenden Amoretten. Lange 36,Breite 18 Cent.
+- 99 Viereckiges Thonrelief mit Christi Dornenkronung in einer Composition
+- von 3 Figuren. Lange 32,Breite 24 Cent.
+- 101 Zwei Friesstucke mit Wappenschildern， von Groteskfiguren gehalten. Hohe 10,Breite 36 Cent.
+- 100 Thonrelief mit quadrirten Wappen mit reicher Helmzier und reicher Helmdecke.Lange 27,Breite 19 Cent.
+- 102 Zwei polychromirte Reliefs,eins mit Madonna. Hohe 16 und 13 Cent.
+- 104 Zwei runde Thonplatten mit reliefirter und polychromirter Sternrosette.
+- 103 Thonrelief, oval,mit Wappenfgur in Lorbeerkranz. XVI. Jahrh. Lange 19, Breite 16 Cent.
+- Diam.17 Cent.2 Stuck,
+- 105 Zwei runde Thonplatten mit den reliefirten Profilkopfen Ludwig und Xaver Schwanthaler.Modellirt von Schwanthaler.Diam.42 Cent.Eine gekittet.
+- metten. Hohe 32,Breite 24 Cent.
+- 106 Viereckige Platte mit einer reliefirten Darstellung; in Rahmen mit Eckpal-
+- 107 Grosse ovale Platte mit einem hoch reliefirten vielfeldigen Wappen in Rococo-Umrahmung,von zwei Lowen gehalten, mit polychromirten Partien. Hohe 76,Breite 61 Cent.
+- 108 Drei verschiedene Terracotta-Formen,eine mit Fisch. 3 Stick.
+- 109 Zwei Thonmodelle,eins mit schlafendem Jesusknaben. Lange 16 u.20 Cent.
+- 110 Vier verschiedene Thonformen von wunderthatigen Madonnenbildern. Hohe zwischen 33 und 16 Cent.
+- 111 Eine grossere Anzahl Thonformen, dabei Fragmente.
+- 112 Zehn verschiedene Thonformen mit Wappen etc. Verschiedene Grosse.
+- 10 Stuck.
+- 113 Funf Gipsformen,Wappen,hl. Familie und Maria. Verschiedene Grosse. 4 Stuick.
+- 114 Zwei Thonformen mit dem Wappen des Abtes Joseph von Wessobrunn, 1790. Diam. 31 Cent. 2 Stuck nebst Relieffragment.
+- 115 Eine grosse Partie meist grossere Thonformen mit figuirlichen Darstellungen und Wappen.
+- 116 Zwei Gipsreliefs. Ritter unter Bogennische, modellirt von Schwanthaler. Lange 85, Breite 24 Cent. 1 beschadigt.
+- 117 Madonna mit dem Kinde. Biscuitfigur. Hohe 16 Cent.
+- 118 Teller, bemalt mit Blumenstauden ete. in Blau. ,Schwerterzeichen“. Diam.
+- 22 Cent.
+- 119 Kleines Vaschen,birnformig,mit hubscher Blumenmalerei. Nymphenburger
+- Fabrikat. Hohe 9 Cent.
+- 120 Sechs verschiedene Kaffee-,Milch- und Theekannen,Zuckerdose und vier Paar Tassen, blau bemalt mit dem Zwiebelmuster. Theils sachsisches Fabrikat.15 Stick.
+- 121 Salzfasschen mit Vergissmeinnicht-Ranken. Wiener Fabrikat.Hohe 4, Diam.8 Cent.
+
+## Arbeiten in Glas, Glasmalereien etc.
+
+- 122 Seidel, geschlifen mit drei Wappen. Hohe 14 Cent. Zinndeckel.
+- 123 Seidel, emaillirt mit Figur etc. Hohe 19 Cent.
+- 124 Seidelglas, geschliffen mit Medaillon und Arabesken. Hohe 17 Cent. Zinndeckel.
+- 125 Cylindrisches Henkelglas, geschliffen mit Wappenmedaillon und Blumen-
+- ranken. Hohe 16 Cent. Zinndeckel.
+- 126 Weinglas, der Kelch mit Guirlande geschliffen. Hohe 15 Cent.
+- 127 Stangenglas, aufgemalt das Zollernsche Wappen. Hohe 17 Cent.
+- 128 Lavoir mit Kanne, in Sternmusterung ornamentirt. Diam.26,Hohe 20 Cent.
+- 129 Flasche und Pokal, gut geschliffen. Hohe 25 und 20 Cent. Beschadigt.
+- 130 Vierseitige Flasche, tief geschliffen mit Wappen und Namenszug. Hohe
+- 19 Cent.
+- 131 Henkelfasche mit Blumengravirung.
+- Hohe 25 Cent.Z
+- Zinndeckel.
+- 132 Cylindrische Henkelkanne, emaillirt mit Doppeladler. Hohe 21 Cent.
+- 133 Drei Essig- uud Oelfaschchen mit Zinnfassung. Hohe 16 Cent.
+- 134 Achtseitige Flasche, wenig geschliffen. Hohe 24 Cent. Zinndeckel.
+- 135 Zwei Flaschen iber Schnitzerei etc. geblasen. Hohe 17 und 18 Cent.
+- 136 Scherzfasche in Form eines Hornes, grines Glas. Hohe 16 Cent.
+- 137 Achtseitige emaillirte Flasche.Hohe 20 Cent.
+- 138 Drei verschiedene Flaschen, eine mit Doppelwappen geschlifen. Hohe zwi
+- schen 17 und 20 Cent.
+- 139 Zwei fachbauchige Henkelfaschen mit Blumen geschliffen. Hohe 20 Cent.
+- Zinndeckel.
+- 141 Hohe Henkelkanne mit Kleeblattausguss, blau-weiss marmorirt. Hohe 32 Cent.
+- 140 Cylindrischer Henkelkrug, geschliffen mit dem bayerischen Wappen. Hohe 18 Cent. Zinndeckel.
+- 142 Vier grosse Laternen verschiedener Form; stark verbleit. Hohe zwischen 30und 40 Cent.
+- 143 Wappenlilie auf Stander,Krystallglas. Hohe 20 Cent.
+- 145 Vier Glasfragmente mit huibscher Irisirung. Verschiedene Grosse.
+- 144 Hangelampe mit gekniffenem Rande. Hohe 26 Cent.
+- 146 Drei gebrannte Fenster in gothischem Stile: zwei mit vier Aposteln nach Direr, eins mit wildem Mann als Schildhalter zweier Wappen. In einem Holzrahmen vereinigt.Ein Fenster beschidigt. Ganze Hohe 152,Breite 85 Cent.
+- 147 Grosses Fenster aus 18 theils modernen Scheiben mit St.Louis, Wappen etc. und dazwischengesetzten Butzenscheiben bestehend. Hohe 150,Breite 106 Cent.
+- 148 Grosse viereckige Scheibe in gothischem Stile, ein mittlerer Vierpass zeigt
+- 149 Grosses Fenster aus 11 Wappenscheiben etc. und dazwischen gesetzten Butzenscheiben bestehend.Hohe 150,Breite 100 Cent.
+- den auf Thronsessel sitzenden s segnenden Heiland,in den Zwickeln die Symbole der Evangelisten.Vorzigliche Ausfihrung. Hohe 55,Breite 42 Cent.
+- 150 Viereckige Scheibe mit dem Brustbilde des Herzogs Christoph von Wirtemberg in reicher Ornament-Umrahmung. Hohe 22,Breite 15 Cent.
+- 152 Viereckige Scheibe mit aufrechtstehendem heraldischen Lowen, Wappen und Standarte mit den bayerischen Farben haltend,in einer Nische,deren Sockel eine Ornamentkartusche mit Jahreszahl 1672 tragt. Hohe 52, Breite 21 Cent.
+- 151 Fenster in elliptischer Form im Stile des XIV. Jahrh., gut gemalt, in schoner Farbengebung mit der Auferstehung Christi.Hohe 73, Breite 55 Cent. Holzrahmen.
+- 153 Viereckige Glasscheibe im Stile des XV. Jahrh. Madonna mit dem Kinde unter reichem Thorbogen,neben ihr knieende Donatrix.Hohe 5O,Breite 26 Cent.
+- 155 Viereckiges Scheibchen, rothes Glas, eingeschliffen das bayerische Wappen mit:VJVAT MAXIMILIAN EMANUEL. 1715. Hohe 26, Breite 24 Cent.
+- 154 Viereckige Scheibe mit der Darstellung Christi, die armen Seelen aus der Holle rettend. Lange 28, Breite 20 Cent. Gesprungen.
+- 156 Grosse runde Scheibe, in der Mitte Wappenschild mit Lowe in sternformiger Einfassung,
+- 157 Runde Scheibe mit spitz zulaufendem Wappenschild, die Umfassung mit Arabesken in Gelb auf schwarzem Grunde. Diam.30 Cent.
+- deren Grund dunkelroth mit Arabesken in Schwarz. Diam.37 Cent.
+- 158 Runde Scheibe in schonen Farben gemalt mit quadrirtem gekronten Wappen.
+- Diam.26 Cent.
+- 159 Runde Scheibe,schwarz gemalt mit Doppelwappen,Namensaufschrift und Jahreszahl 1742.Feine Ausfuihrung. Diam.24 Cent.
+- 160 Kleine oberhalb abgerundete Scheibe mit der Geburt Christi. Hubsche neuere Arbeit.Hohe 21,Breite 14 Cent.
+- 161 Runde Scheibe mit Sternrosette.Diam. 20 Cent.
+- 162 Viereckige Scheibe mit dem Augsburger Stadtpyr. Hohe 29, Breite 22 Cent.
+- Holzrahmen.
+- 163 Viereckige Scheibe mit dem Brustbilde Maximilians unter reichem Ornamentbogen,in dessen Mitte Doppeladler. Sehr huibsche neuere Arbeit. Hohe 22,
+- Breite 16 Cent.
+- 164 Schildformige Scheibe mit Panther in Gelb auf schwarzem, in Arabesken
+- gemustertem Grunde. Hohe 15,Breite 12 Cent.
+- 165
+- Viereckige Scheibe mit Dudelsackblaser, nach Durers bekanntem Stich in Farben gemalt. Sehr hubsche neuere Arbeit. Hohe 14,Breite 9 Cent.
+- 166 Kleine Scheibe mit heraldischem Adler in Schwarz auf gelbem Grunde.
+- Hohe 13,Breite 12 Cent.
+- 167 Kleine runde Scheibe mit zwei Wappenschildern (Diethelm), unten Namensaufschriften und Jahreszahlen 1691. Diam. 19 Cent.
+- 168 Butzenscheibe mit dem sachsischen Wappen. Diam. 13 Cent.
+- 169 Butzenscheibe mit dem Brustbilde der Catharina von Burgund. Diam.13 Cent.
+- 170 Butzenscheibe des Markgrafen Otto von Brandenburg. Diam.13 Cent. Gesprungen.
+- 171 Butzenscheibe mit dem Wappen der Herren von Buchheim. Diam. 12 Cent.
+- 172 Butzenscheibe mit dem Wappen des Grafen von Portnau. Diam.13 Cent.
+- Diam.12 Cent.
+- Diam.12 Cent.
+- 173 Butzenscheibe mit dem Wappen der Grafen von Sonnenberg.
+- 174 Butzenscheibe mit dem Brustbilde der Markgrafin Elisabeth.
+- 175 Funf verschiedene Butzenscheiben,fragmentirt. 5 Stick.
+- 176 Drei grossere Fragmente von Scheiben.
+- 177 Vier verschiedene Scheibchen mit Vogeln,Engeln ete. Verschiedene Grosse.
+- 178 Vier grosse Fragmente eines Fensters mit Stern und Blumenrosette.
+- 179 Fragment eines gothischen Fensters mit Wappen. Lange 10,Breite 9 Cent.
+- 180 Kleine Scheibe mit Wappen, grau in grau gemalt.
+- 181 Christus am Kreuz in Gold und Silber auf schwarzem Grunde hinter Glas
+- gemalt. Hohe 20,Breite 14 Cent.
+- 182 St. Augustinus und St. Brigitta,2 Bildchen in Malerei hinter Glas in
+- Spengler's Manier. Hohe 18,Breite 12 Cent. Je in mit Spiegelglas belegtem Rahmchen.
+- 183 Kleine Glocke mit hintergemalten Arabesken und Wappenschild. Hohe 12, Lange 8,Breite 5 Cent.
+- Ge184 Vier Silhouetten in Malerei hinter Glas. Hohe 71/2,Breite 6 Cent.
+- schnitztes Holzrahmchen.
+- 185 Drei Silhouetten hinter Glas. Eine in geschnitztem Rococorahmchen.
+
+## Arbeiten in Emaille.
+
+- 187 Goldemaillirter Orden in Form eines Kreuzes mit den Initialen F P.P.F auf blauem Grunde. Hohe 33/4,Breite 33/4 Cent.
+- 188 Goldemaillirter Orden mit Doppeladler,im Brustschilde einkopfiger Adler iber Kreuz. 14karatiges Gold. Lange 6,Breite 4 Cent. Gewicht 15 Gramm.
+- 189 Spanischer Orden in Kreuzform,mit umrahmendem Lorbeerkranz. Vergoldetes Silber mit theilweiser Emaillirung. Linge und Breite 4 Cent.
+- 190 Schwedischer Orden mit oberer Krone in Kreuzform. Vergoldetes Silber mit glanzender Emaillirung. Lange 6,Breite 3#/4 Cent.
+- 191 Franzosischer Orden in Form eines funfschenkeligen Kreuzes mit oberer Krone und mit Lorbeerkranz. Silber mit theilweiser Vergoldung und Email-
+- lirung. Lange 51/2,Breite 33/4 Cent.
+- 192 Elsass-Lothringer Kreuz als Erinnerung an 1870/71; die lilienformig auslaufenden Balken emaillirt und mit franzosischen Sprichen. Lange 6,Breite 41/2Cent.
+- 193 Orden in Kreuzform mit der Namenschifre Carl Theodors und Jahreszahl 1768.
+- Goldbronze mit blauer Emaillirung. Linge und Breite 5 Cent.
+- 194 Grosser Orden in Form eines Strahlenkreuzes mit Eglomisees und mit Glassteinen. Lange 91/2,Breite 7 Cent.
+- 195 Grosser Orden in Kreuzform, Goldbronze mit Emaillirung; auf der vorderen Mittelfache Heiligendarstellung, auf der hinteren Namenszug. Hohe 61/2, Breite 51/2 Cent.
+- 196 Orden, schildformig mit oberer Krone. Vergoldete Bronze mit Emaillirung. Lange 43/4,Breite 3 Cent.
+- 6 Cent.
+- 197 Grosser Orden in Form eines von Krone iberragten Kreuzes. Bronze mit Emaillirung; auf den Balken die Initialen F.S. C.Y. Lange 8i/2, Breite
+- 198 Byzantinisches Vortragekreuz. Die Balken sind auf der Vorderseite durchweg mit in Ornamentwerk emaillirten Platten belegt,der Christuskorper in Flachrelief vergoldet,darunter eine Heiligenfigur mit vollrund vortretendem Kopf. Auf der Ruckseite in der Mitte emaillirtes Medaillon mit Heiligenhalbfgur; die Balkenendigungen theils emaillirt, theils gravirt. Interessantes Stuck. Lange 56,Breite 25 Cent.
+- lirt,die Augen eingesetzt. Lange 161/2,Breite 13 Cent.
+- 199 Romanischer Christuskorper in getriebenem Kupfer, das Lendentuch email-
+- 200 Altarleuchter in byzantinischem Stile auf drei Fuissen, der hohe Stander mit Knauf durchsetzt, der wie die Platten des Fusses Emaillirung zeigt. Hohe 15 Cent.
+- 202 Runde Dose, auf dem Deckel Landschaft. Nebst einer andern. 2 Stick. Beschadigt.
+- 201 Turkische Pfeife (Tschibukpfeife) auf Fuss, reich emaillirt mit weiblichen Halbfiguren,Blumen etc. in bunten Farben. Hohe 4O Cent.
+- 203 Dosendeckel mit Jagddarstellung, der Grund blau. Lange 8, Breite 5 Cent.
+- 205 Vier verschiedene Emaille-Plattchen, Augsburg,eins mit Madonna mit dem Kinde.Verschiedene Grosse.4 Stick.
+- 204 Dosendeckel, russisch,mit reichen Ornament-Motiven auf verschiedenfarbigem Grunde.Lange 61/2,Breite 31/2 Cent.
+- 51/2 Cent. Eins beschadigt.
+
+## Arbeiten in Elfenbein.
+
+- 207 Ecce homo. Vollrund geschnitzte Figur an Saule. Hohe 18 Cent. In Glas-
+- 208 Heilige Familie,Christus der gute Hirte und St. Franciscus. Drei Relief grippchen in Elfenbeinrahmen. Hohe eines jeden 12,Breite 7 Cent.
+- kasten.
+- 2091 Madonna auf Wolken,das vor ihr sitzende Jesukind anbetend, das Ganze
+- 210 Madonna mit dem Kinde. Kleines Reliefstatuettchen. XVII. Jahrh. Hohe 5Cent.
+- von gefugeltem Engelskopf getragen. Fein ausgefuhrtes Reliefgrippchen,mit Polychromirung und Vergoldung. XVI. Jahrh. Linge 41/2,Breite 31/2 Cent.
+- 211 Pieta. Reliefgruppe auf Elfenbeinsockel. Hohe 9 Cent.
+- Hohe 10 Cent. Fuss fehlt.
+- 212 Stehrahmchen, die Fassung Silber, als oberer Abschluss Engel mit Posaune.
+- 213 Grosses Schiffsmodell in kunstvoller chinesischer Schnitzarbeit mit Figuren etc. Hohe 18, Lange 35 Cent. In Holzkasten.
+- 215 Sieben diverse Schachfguren. Costimfiguren des vorigen Jahrhunderts. In Lackkasten.
+- 214 22 chinesische Schachfguren, vollrund in Elfenbein, zierlich geschnitten. Lange zwischen 4 und 8 Cent. In Holzkasten.
+- 216 Ein Paar Wurfel in Form erotischer mannlicher und weiblicher Figur. Diam.21/2 Cent.
+- 217 Ein Paar Wurfel, ahnlich, kleiner. Diam.2 Cent.
+- 218 Grosser Wurfel,gravirt mit dem Tyroler Adler, Costimfiguren etc. Diam. 21/2 Cent.
+- 219 Langer Loffel mit schildformiger Muschel,als Bekronung des ornamentirten Stiels eine phantastische Thierfigur. Lange 25 Cent.
+- 220 Rohren,Madonnenbuchschen etc. 4 Theile.
+- 221 Spazierstock, der Knopf Elfenbein, geschnitten mit der Standfigur der
+- Minerva auf Sockel. Lange des Knopfes 14 Cent.
+- 222 Sieben verschiedene Spazierstocke,die Knopfe Elfenbein,meist wenig ge-
+- schnitten. Ganze Lange zwischen 97 und 81 Cent.
+- reicher Elfenbeineinlage.
+- 224 Astronomisches Instrument, allseitig gravirt mit den entsprechenden Zeichen etc.
+- 223 Astronomisches Instrument mit Compass und Diam.15 Cent. Beschadigt. In Pappschachtel.
+- und mit Leonhard Millner 1642. Lange 8, Breite 5 Cent.
+- 225 Rosenkranz, die Perlen Holz, die Zwischensatze Elfenbein geschnitzt, das
+- anhangende Kreuz Holz.Lange 7O Cent.
+- 226 Rosenkranz-Anhanger mit den Kopfen des Ecce Homo und der Mater
+- Dolorosa, sowie Todtenkopf. XVI. Jahrh. Lange 21/2 Cent.
+- 227 Ovales Amulett in Silberfassung, in hohem Relief geschnitzt, auf der einen Seite mit St. Joseph, auf der andern mit Franciscus. Lange 61/2,Breite 6 Cent.
+- 228 Runde Dose,auf dem Deckel kleine Goldrosette. Hohe 21/2,Diam. 81/2 Cent.
+- 229 Ovales Doppelmedaillon mit den in sehr hohem Relief geschnittenen Brustbildern der Mater Dolorosa und der hl. Magdalena. Gute Ausfihrung.
+- XVII.Jahrh.Lange 6,Breite 41/2 Cent.
+- 230 Ovales Relief mit der Dornenkronung in einer Composition von finf Figuren.
+- XVII. Jahrh.Lange 51/2,Breite 4 Cent.
+- 231 Ovales Relief mit der Geisselung Christi in einer Composition von drei Figuren. Lange 51/2,Breite 4 Cent.
+- 232 Rundes Relief mit vielfeldigem gekronten, von zwei Lowen fankirtem Wappen. Diam. 7 Cent. In Holzrahmchen.
+- 233 Zwei Platten eines Kastens mit den Standfiguren des heiligen Nicolaus und der heiligen Elisabeth in hohem Relief in fruhgothischem Charakter.
+- Hohe 8,Breite 4 Cent.2 Stick.
+- 234 Runde Platte mit dem Reliefbrustbilde eines Fursten. Nebst Becher und
+- Dosendeckel mit Susanna.3 Stick.
+- 235 Ovaler Dosendeckel en relief gut geschnitzt mit Genienfigur, Tropahen etc. als Umschliessung einer mittleren Uhr; auf blauer Glasdose aufgesetzt. Lange 51/2,Breite 8 Cent.
+- 236 Zwei Dosendeckel, einer geschnitten mit freiliegenden Blumen.
+- 237 Zwei gravirte Plattchen.
+
+## Arbeiten in Gold und Silber.
+
+- 238 Taschenuhr von M. C. Schreiner, gravirt und mit durchbrochenen Orna-
+- menten. In Cuveite,auf der mythologische Darstellung. Diam. 41/2 Cent.
+- 239 Taschenuhr in Cuvette, die getrieben mit Jagern und Jagerin in Rococo-
+- ornamenten.
+- 240 Brosche und Ohrring, reich in Goldfligran ornamentirt und emaillirt. Lange
+- der Brosche 8 Cent. 2 Stick. In Lederetui.
+- 241 Anhangsel, bestehend aus:kleiner, goldplattirter Pistole,Kugelzange,Ladestock,Pulverhorn und finf anderen Kleinigkeiten. Lange der Pistole 6Cent.
+- 242 Zwei Berloques, die grossen Steine mit Wappen und Namensehiffre. 2 Stick.
+- 243 Ring mit grosser Platte mit rothem Stein, gefasst von kleinen Diamanten.
+- 245 Ring, der Reif wenig ornamentirt und mit Glassteinen besetzt, die Platte
+- 244 Ring, geringes Gold, die Platte mit grosser Camee mit der Biste eines Fursten. Lange der Platte 21/2,Breite 13/4 Cent.
+- grosser Achat.
+- 246 Gothisirendes Reliquienkreuz, Silber. Die Balkenendigungen kreuzblumenformig; die Flachen allseitig gravirt, auf der Vorderseite der untern Balkenendigung mit Wappen, M.H. C. und Jahreszahl 1598.Lange 31, Breite
+- 22 Cent.
+- 247 Judisches Rauchergefass, Silber, in Form eines runden Thurmes mit hohem,spitzem Dache, auf hohem Fuss; die Leibung in reichster Filigran-
+- arbeit durchbrochen.Hohe 23 Cent.
+- 248 Rauchergefass in Form eines durchbrochenen Thurmes, von vier Eckthirmchen fankirt und mit hohem Dach,das,wie der Fuss,mit hebraischen Charakteren gravirt ist. Nurnberger Arbeit. XVII. Jahrh. Hohe 32 Cent.
+- Gewicht 317 Gramm.
+- 249 Kleines Rauchergefass in Form eines Thurmes. Hohe 2O Cent.
+- 250 Ceremoniengefass in Form eines Thurmes, auf hohem Fuss, mit schlankem Dach; auf der Vorderseite eine Uhr. Hohe 27 Cent. Gewicht 150 Gramm.
+- 251 Cylindrischer Becher, die Korperweitung mit herzformigen Ornamenten getrieben. Innen vergoldet.Hohe 9 Cent.Gewicht 77 Gramm.
+- 252 Cocosbecher mit silbernem Henkel. Hohe 10 Cent.
+- 253 Dose,vierseitig, der Deckel zeigt in figurenreicher Composition Diana mit ihren Nymphen im Bade.Hohe 13/4,Lange 71/2,Breite 51/2 Cent. Gewicht 140 Gramm.
+- 254 Dose in Form eines Seeweibchens. Hohe 6,Lange 71/2,Breite 41/2 Cent.
+- 255 Viereckiges Doschen,auf dem Deckel ovales Emailleplattchen mit Amor in
+- Landschaft.Hohe 11/2,Lange 41/2,Breite 31/2 Cent.
+- 256 Parfumbuchschen in vergoldetem Silber, in Form einer gedeckelten Vase.
+- XVllI. Jahrh. Lange 51/2 Cent.
+- 257 Parfumbuchschen, Silber,in Form eines Eies mit Zickzackmusterung. XVIII. Jahrh.Lange 31/2 Cent.
+- 258 Parfumbuchschen mit Fingerhut. Silber. XVII. Jahrh. Lange 31/2 Cent.
+- Lange
+- 260 Kleines Flacon, Silber, in Form einer schrag gerippten Flasche, mit Deckel
+- 259 Kleines Parfumbuchschen in Silberfiligran in Form einer Laterne.1 23/4Cent.
+- an Kettchen. XVIII. Jahrh. Lange 61/2 Cent.
+- 261 Nadelbuchse,Silber,hohl getrieben in Form einer Gartnerin. Hohe 51/2 Cent.
+- das einen Schwan als Helmzier
+- XVIII. Jahrh.Lange 8 Cent.
+- 262 Scheere; der Griff Silber mit Wappen, tragt. XVIII. Jahrh. Lange 22 Cent.
+- 263 Scheeren-Etui in reichstem Silberfiligran.
+- 264 Rococo-Garnhalter in Form einer Tonne, Elfenbein; Fassung, Ring und Haken Silber, gravirt mit Rococo-Ornamenten.XVIII. Jahrh. Hubsches Stick.Ganze Lange 13 Cent.
+- 265 Grosse Agraffe in reichstem Silberfiligran mit Glassteinen. Diam.11 Cent.
+- 266 Grosse Agraffe,ahnlich,wenig kleiner. Diam. 10 Cent.
+- 267 Bucheinband, griner Sammct, die grosse Schliesse Silber, reich,theils durchbrochen ornamentirt mit Renaissancemotiven und Blumenguirlanden.
+- Eingebunden:Guldener Himmels-Schlussel. Lange 141/2,Breite 81/2 Cent.
+- 268 Crayon mit Radirmesser, Silber,mit ciselirten Blumenbandern.Lange 10 Cent.
+- 269 Petschaft,Achat mit Silberfassung. Lange 7 Cent.
+- 270 Grosse vergoldete Taschenuhr von Decharmes, London, durchbrochen orna-
+- mentirt. In getriebener Cuvette. Diam.5 Cent.
+- 271 legter Cuvette.Diam.5 Cent.
+- Taschenuhr von Baccuet, London,in mit Steinen und Perlmutter einge-
+- 272 Taschenuhr von Elicot,London, in Cuvette mit Gartnerscene. Nebst einer andern. Diam.4 Cent.2 Stuck.
+- 273 Schwan,die Flugel schlagend, vorziglich getriebenes, prachtig ciselirtes Hohlfigirchen auf rundem Sockel, Silber. Sehr gutes Stick. Hohe 6 Cent.
+- 274 Kleines Halskettchen in zierlichem vergoldeten Silberfiligran mit Cameen.
+- Lange 33 Cent.
+- ornamentirtem Henkel. XVII.Jahrh. Hohe 51/2 Cent.
+- 275 Kinderspielzeug, kleine Schenkkanne in Silber mit breitem Ausguss und
+- 276 Zwei grosse Anhanger in reichstem Silberfiligran. Lange 8 Cent. 2 Stick.
+- 277 Orden in Kreuzform, blauer Wollstoff, gestickt mit Silberfaden. Hohe und
+- Breite 6 Cent.
+- 279 Freimaurer-Orden, Silber,mit Steinen besetzt,an breitem,reich gesticktem Ripsbande.
+- 278 Freimaurer-Orden,Silber,in Dreiecksform mit freistehender Blumenstaude, die vergoldet. Lange und Breite 31/2 Cent.
+- Lange 21/2 Cent.
+- 281 Papstring, angeblich von Pius II., in vergoldetem Silber, mit den Evange-
+- 280 Stockknopf in Silber, mit gothischen Ornamenten.
+- listen-Symbolen und grossem Krystall. Diam. 33/4 Cent.
+- 283 Renaissance-Ring in vergoldetem Silber, init hubsch ornamentirtem Reif und kastenformig vorgeschobenem Mittelschild mit rothem Stein.
+- 282 Grosser Ring, Silber, der Reif ornamentirt, die Platte mit Hirschkandeln, Glassteinen und kleinen Appliquen.
+- 284 Renaissance-Ring in vergoldetem Silber, der Reif zierlich ornamentirt, das Mittelschild kastenformig vorgeschoben und mit rothem Stein.
+- 286 Ring, silbervergoldet, der breite Reif gravirt, die Platte mit Gemme, die
+- 285 Renaissance-Ring, ganz ahnlich.
+- geschnitten mit dem bayrischen Wappen. Diam.21/2 Cent.
+- 288 Ring mit grossem Blutjaspis, der mit Wappen geschnitten.
+- 287 Jagerring, ornamentirtes Silber, mit drei Hirschkandeln. Diam. 21/2 Cent.
+- 289 Siegelring, die lange ovale Platte Bronze, mit Merkur bei Wappen stehend. Nebst einem a andern.
+- 291 Silberner1 Ring, der Reif mit liegenden Figuren.
+- 290 Ring mit grossem Topas mit eingeschnittenem Wappen.
+- 292 Ring, vergoldetes Silber, der Reif ornamentirt, die grosse Platte mit weiblicher Siihouette.
+- 293 Kleiner silberner Ring, die Platte mit Miniatur zwischen zwei Steinchen.
+- 294 Ring, die grosse Platte sternformig mit weissen Steinen besetzt, seitlich zwei Amethyste.
+- 296 Ring mit ornamentirtem Reif, die Platte viertheilig mit vicr rothen Steinen. 296a Ring,ahnlich,mit vier bunten Steinen.
+- 295 Ring, die grosse ovale Platte Topas, seitlich je ein kleinerer rother Stein.
+- 297 Ring mit grossem ovalen Stein, in den Thierfigur eingeschnitten.
+- 298 Zwei verschiedene Ringe,einer Silber. Verschiedene Grosse. 2 Stick.
+- 299 Drei verschiedene Ringe, Silber, die Platte des einen durchbrochen mit St. Georg. Verschiedene Grosse. 3 Stick.
+- 300 Drei Ringe, Silber, einer vergoldet, die Platte mit Hirschkandeln. Ver-
+- schiedene Grosse. 3 Stick.
+- 301 Drei verschiedene silberne Ringe, zwei mit Silhouetten auf den Platten. Verschiedene Grosse. 3 Stick.
+- 302 Drei verschiedene Ringe, zwei Silber, die Platte mit Miniatur. Verschiedene Grosse. 3 Stuick.
+- 303 Funf grosse silberne Ringe, einer vergoldet, mit Glassteinen auf der Platte. Verschiedene Grosse.5 Stiick.
+- 304 Sechs verschiedene Ringe, fuinf Silber,mit ornamentirtem Reif und Glassteinen. XVII. und XVIII. Jahrh. Verschiedene Grosse. 6 Stick.
+- 305 Sechs verschiedene grosse Ringe, vergoldetes Silber, die Reife ornamentirt, die Platten mit Glassteinen,Eglomisees ete. Verschiedene Grosse. 6 Stick.
+- 306 Fingerhut in vergoldetem Silber mit Ornamentfries und Spruchband,die
+- obere Platte mit Eglomisees. XVI. Jahrh. Lange 21/2 Cent.
+- 307 Grosser Pfeifendeckel mit hibsch durchbrochenem gewolbten Aufsatz. Hohe 5Cent.
+- 308 Grosser und kleiner Pfeifendeckel, ersterer in Form einer Krone.
+- 309 Brosche, rund, Glas mit Facetten geschlifen, die Einfassung geringeltes
+- Silber.Diam.31/2 Cent.
+- 310 Anhanger, der Calvarienberg, minutios gegossenes Gruippchen, die Figuren
+- vollrund,freistehend. Lange 7 Cent.
+- 312 Ovales Medaillon, gravirt mit den Namenszigen Jesu und Maria. Lange 51/2,Breite4Cent.
+- 311 Anhanger, vergoldet, mit der Buste Christi in durchbrochener Umrahmung. Hohe 5,Breite 41/2Cent.
+- 313 St. Sebastian,hubsches Relieffigirchen. Hohe 8 Cent.
+- 314 Anhangsel mit Madonna mit dem Kinde als Himmelskonigin. Lange 4, Breite 2 Cent.
+- 315 Kleiner Anhanger in Silber,den an den Baum gebundenen St. Sebastianus
+- darstellend. Gutes Stick.XVI.Jahrh.Lange 41/2 Cent.
+- 316 Anhanger in Form eines Miniatur-Vorhangeschlosses, Koralle, in vergoldetem Silber gefasst.Lange 3 Cent.
+- 317 Kleiner gothischer Anhanger, laternenformig,in vergoldetem Silber, mit Madonna mit dem Kinde und Heiligenfiguren. Gutes Stick. XV. Jahrh. Lange 21/2 Cent.
+- 318 Anhanger in Silber, in Form des den Drachen todtenden St. Georg. Lange
+- 41/2 Cent.
+- 319 Kleiner Anhanger in Silber mit der Geburt Christi in freistehenden Figuren.
+- XVI.Jahrh.Lange 21/2 Cent.
+- 320 Kleiner Anhanger in Silberfiligran mit Miniaturen. Nebst einem andern. Verschiedene Grosse.2 Stick.
+- 321 Ein Paar Ohrringe in Filigranarbeit mit kleinen Perlchen, eingesetzt Medaillon mit Amor in Goldgravirung. Lange 5 Cent.
+- 322S Sieben verschiedene Rosenkranz-Anhanger,Marien-Pfennige etc.
+- 323 Rosenkranz, ganz in Silber, die Gesetzeskorner vergoldet, das Kreuz und Lange 69 Cent.Gewicht
+- zwei Anhanger fein gearbeitet in Silberfiligran. 220 Gramm.
+- 324 Rosenkranz,als Zwischensatze acht silberne Munzen und Medaillen. Lange 34 Cent.
+- 325 Rosenkranz, Bernstein， die sieben Gesetzeskorner sowie das anhingende Kreuz Silber.Nebst drei andern.4 Stick.
+- 326 Rosenkranz, die Korner Koralle,Gesetzeskorner,anhingende Medaille und
+- Kreuzchen Silber.Lange 41 Cent. Nebst 7O Perlen eines Rosenkranzes.
+- 327 Zwei kleine Kreuzchen. 2 Stick.
+- 328 Neun verschiedene Kleinigkeiten: Kreuzchen,Anhinger etc. in Silber-
+- fligran.Verschiedene Grosse. 9 Stick.
+- 329 Amulett mit Madonna mit dem Kinde in Strahlenkranz und den Leidenswerkzeugen, im Innern Brustbild Christi und der Madonna. Lange 5, Breite 4 Cent.
+- 330 Ovales Amulett an drei Kettchen, getrieben mit Madonna mit dem Kinde
+- und hl. Bischof. Lange 41/2,Breite 31/2 Cent.
+- in die romischer Kriegerkopf geschnitten. Nebst
+- 331 Berloque mit Gemme, vier andern.5 Stuick.
+- 332 Vier silberne Berloques, drei mit geschnittenen Steinen. 4 Stuck.
+- 333 Medaillon,herzformig, beiderseits gepresst mit wunderthatigen Madonnen-
+- 334 Rathsherrnstock,der Knopf Silber, getrieben mit Blumen und oberer
+- bildern und seitlichen Engeln. Lange 6, Breite 5 Cent.
+- Muschel. Lange des Knopfes 81/2 Cent.
+- 335 Rococo-Rathsherrnstock, der Knopf getrieben mit Darstellung aus der romischen Geschichte und Vogel zwischen Muschelwerk,mit Monogramm I.G.A. Lange des Knopfes 8 Cent.
+- 336 Augsburger Rathsherrnstock, der Knopf Silber, reich getrieben mit Guirlanden und Fruchtbouquets, auf der Rundung der gekronte Doppeladler mit dem Stadtpyr auf dem Brustschild,unten zwei Marken, eine mit Monogramm L. O.Interessanter Stock. XVII. Jahrh. Lange des Knopfes
+- 10 Cent.
+- 337 Drei verschiedene Rathsherrnstocke, die Knopfe und Appliquen Silber, theils gravirt, ein Knopf mit zwei Marken. Verschiedene Grosse. 3 Stick.
+- 338 Stockknopf, Silber, in Form eines Pferdebeines. Nebst einem anderen. Lange
+- 8Cent.
+- 339 Loffel, Silber, die Muschel rundlich, der Stiel in Drachenkopf auslaufend. Lange 17 Cent.
+- 340 Zwei Loffel, die Muschel Horn, der Stiel Silber, gravirt mit Rococo-Ornament. Lange 19 Cent.
+
+## Arbeiten in Kupfer und Bronze.
+
+- die Balken mit an den Eeken gezacktem Eisenbelag, ihre aus Dreipass gebildeten Endigungen beiderseits mit getriebenen Kupferapplicationen, der Christuskorper vollrunder Bronzeguss, die Spitze des Kreuzes sowie die Zwickel der Balken mit proflirten Knopfen. Lange 75, Breite 35 Cent.
+- 342 Gothisches Vortragekreuz, Messing, reich getrieben mit Laubranken, der Knauf mit gefugelten Engelskopfen, auf den dreipassformigen Balkenendigungen die Evangelisten-Symbole etc., die wie der Christuskorper in massivem Bronzeguss. Linge 56Cent.
+- 343 Gothisches Vortragekreuz mit starkem bossirten Knauf, die Balkenendigungen dreipassformig, beiderseits hoch getrieben mit Halbfiguren von Hei
+- ligen und den Emblemen der Evangelisten, der Christuskorper vollrunder Bronzeguss. Hohe 60, Breite 26 Cent.
+- 344 Gothisches Vortragekreuz aus grosser Kugel sich aufbauend, die beider-
+- seitig mit Ornamentgravirung bedeckten Balken endigen in einem Dreipass,die auf der Vorderfache die hochgetriebenen Symbole der Evangelisten,auf der
+Rickseite die Halbfiguren der hl. Frauen zeigen; der Christuskorper gegossen. Linge 76, Breite 36 Cent. Gutes Stick.
+
+- 345 Vortragekreuz in gothischem Stile, die Balken mit gepresstem Kupfer belegt, das hubsch ornamentirt mit zierlichem Maasswerk, auf den Endigungen mit den hochgetriebenen Halbfiguren Johannis und Maria. Hohe 48,Breite 37 Cent.
+- 346 Gothisirendes Vortragekreuz,der Knauf bossirt, das Kreuz mit Eisen belegt, auf den Endigungen Blumenrosetten, der Christuskorper gegossen. Linge 77,Breite 37 Cent.
+- 347 Crucifix, das Kreuz durchweg mit Sehildpatt belegt, der Christuskorper vollrund in Glockenspeise gegossen, vorziglich modellirt. Schones Stuck. Lange des Christuskorpers 2 26,Lange des Kreuzes 82 Cent.
+- 348 Reliquienkreuz, doppelarmig,die Vorderseite durchbrochen,auf Fuss. Hohe 38 Cent.
+- 349 Grosses Reliquienkreuz in gothischem Stile, vergoldetes Kupfer, reich ornamentirt und mit Glassteinen besetzt, die Balkenendigungen dreipassformig.
+- Hubsche neuere Arbeit. Linge 16, Breite 12 Cent.
+- 350 Crucifix mit romanisirendem Christuskorper auf gothischem Kreuz. Linge 29,
+- Breite 19 Cent.
+- 351 Christuskorper mit nebeneinander stehenden Beinen. Lange 18, Breite 18 Cent.
+- 352 Christuskorper mit gerade ausgestreckten Armen, hibsch patinirter Bronze-
+- guss. Ende XV. Jahrh. Lange 14 Cent.
+- 353 Christuskorper,Bronzeguss in romanischem Stile. Lange 14 Cent.
+- 354 Christuskorper in byzantinischem Stile,die Fisse nebeneinander. Lange 13 Cent.
+- 355 Zwei Christuskorper in Bronzeguss. Lange 15 und 14 Cent.
+- 356 Zwei Christuskorper, Bronze,in byzantinischem Charakter. Linge 16 Cent.
+- 357 Proflbuste Christi,Bronze.Lange 12,Breite 11 Cent.
+- 358 Dornengekronter Christuskopf,ovales Relief. Nebst zwei Zinnreliefs. 3 Stick.
+- 359 Hausaltarchen in gothischem Stil mit Christus am Kreuz,aus den Seiten-
+- fugeln St. Agatha und hl. Bischof. Hohe 9, Breite 11 Cent.
+- 360 Abguss eines romanischen Bischofstabes mit St. Michael. Lange 19 Cent.
+- 361 Hoher gothischer 1 Messkelch， der Fuss vergoldete Bronze, die Kuppe silbervergoldet, der sechspassformige Fuss gravirt und ciselirt mit stilvollem Blumenwerk, der Nodus mit vortretenden Knopfen mit eingesetzten Silberplattchen. Hohe 26 Cent.
+- 362 Gothisirendes Ostensorium,der Oberbau mit Strebepfeilern und mit Glas-
+- steinen besetzt.Hohe 35 Cent.
+- 363 Gothisches Ostensorium， der sechspassformige Fuss getrieben und gravirt mit Blumen， der stark ausgebauchte Knauf bossirt, der Obertheil sechseckig, mit Eckfialen und durchbrochenen Baldachinen, das Helmdach mit Drei- und Vierpassen durchbrochen. Interessante, reiche Form,vergoldet. Hohe 28 Cent.
+- 364 Gothisches Ostensorium mit sechspassformigem Fusse und abgefachtem Knauf, der obere Theil mit Strebepfeilern und schlankem,von Kreuz iber-
+- ragtem Helmdache, versilbert. Hohe 39 Cent.
+- Hohe 3O Cent.
+- 365 Kleines gothisches Ostensorium.
+- 366 Gothisches Ciborium, der Fuss im Vierpass mit cannelirtem Knauf, das
+- Gefass kugelformig. Hohe 24 Cent.
+- 367 Grosse gothisirende Monstranz, der Fuss vierpassformig mit durchsetzter Raute,der Obertheil fach mit seitlichen Strebepfeileranlagen und hohem,von Fialen fankirtem und Kreuz iberragtem Helmdache, versilbert.Hohe 56 Cent.
+- unten mit Lilienfries, ver368 Ciborium, das cylindrische Gefass oben und silbert.Hohe 25 Cent.
+- 369 Gothisches Ciborium, das cylindrische Gefass sowie der Deckel mit Stichel gravirung. Hohe 24 Cent.
+- 370 Gothisches Ciborium, der runde Fuss mit grossem cannelirten Knauf, das Gefass cylindrisch. Hohe 35 Cent.
+- 371 Einfaches gothisirendes Ciborium. Hohe 24 Cent.
+- 372 Gothisches Ciborium mit sechspassformigem Fuss und geperltem Knauf. Hohe 17 Cent.
+- 373 Gothisches Ciborium mit sechspassformigem Fuss und hohem Helmdach auf
+- dem cylindrischen Gefasse. Hohe 36 Cent.
+- drisch mit hohem spitz zulaufenden Dach. Hohe 3O Cent.
+- 374 Gothisches Ciborium, der Fuss im Sechspass gegliedert, das Gefass cylin-
+- 375 Gothisches Ciborium, Fuss sechspassformig, Gefiss und Deckel sechseckig. Hohe 30 Cent.
+- 376 Zwei gothische Ciborien, das eine Messing, das andere Weissblech. Hohe 27 und 18 Cent.
+- 377 Zwei einfache Patenen,vergoldet. Diam. 14 und 18 Cent.
+- 378 Gothisirende Monstranz mit sechspassformigem Fusse, der Oberbau mit seitlichen Strebepfeileranlagen in der vergoldete Engelsfigirchen. Hohe 46 Cent.
+- 379 Mitteltheil einer Monstranz mit einer reichen Strebepfeileranlage. Hohe
+- 18 Cent.
+- 381 Kerzenbuchse, der Deckel durchbrochen mit Laubranken und mit Namens-
+- 380 Kirchliches Gefass,Rothkupfer, die Umwandung getrieben und gravirt mit Blumenranken. XVII. Jahrh. Hohe 17 Cent.
+- chiffre unter von zwei Engeln gehaltener Krone. Lange 18,Breite 5 Cent.
+- 382 Weihwasserkessel, Rothkupfer. Hohe 15 Cent.
+- 384 Hohe persische Flasche, vergoldet, bossirt und gravirt. Hohe 36 Cent.
+- 383 Weihwasserkesselchen, getrieben mit Rococo-Ornamenten. Hohe 221/2, Breite 14 Cent.
+- 385 Wasserkanne,Rothkupfer, der Deckel getrieben mit Stern. Hohe 32 Cent.
+- Ornament-Rosetten,persisch. Hohe 24 Cent.
+- 386 Henkelkanne mit schmaler Tulle, Rothkupfer, gravirt mit Blumen- und
+- 387 Deckelgefass, Rothkupfer, von gravirten und vergoldeten Blumen- und Orna-
+- 388 Henkelkanne,
+- mentfriesen umzogen,orientalisch. Hohe 15,Diam.13 Cent.
+- 389 Kafeekanne, Rothkupfer. Hohe 20 Cent.
+- birnformig,Rothkupfer,der Deckel mit Blume getrieben. Hohe 18 Cent.
+- 390 Kaffee- und Milchkanne,Rothkupfer. Hohe 18 und 16 Cent.
+- 391 Drei verschiedene Kaffee- und Milchkannen, Rothkupfer, einer der Deckel mit Ranken getrieben. Hohe zwischen 21 und 17 Cent.
+- 392 Milchkannchen,Rothkupfer.
+- Hohe 16 Cent.
+- 393 Milchkannchen und vier kupfergetriebene Theile: Deckel etc. Hohe 16 Cent.
+- 5 Stuick.
+- 394 Kannchen mit eiformigem Korper und kleeblatformigem Ausguss, mit Henkel. Hohe 18 Cent.
+- 395 Zuckerdose, getrieben und gravirt mit Blumen und Palmetten, auf dem Deckel die vollrunde Figur eines liegenden Lowen, versilbert. Hohe 14,Diam. 14 Cent.
+- 397 Gebackform,Traube darstellend,Rothkupfer. Lange 33,Breite 20 Cent.
+- 396 Ein Paar Salzfasschen,Empire,mit gitterformig durchbrochenem Rande, versilbert. Hohe 5,Lange 8, Breite 51/2 Cent.
+- 398 Kleine Form,in Form eines Fullhornes in Rothkupfer getrieben.Lange 13Cent.
+- 399 Kuchenform,Rothkupfer,hochgetrieben mit drei Trauben. Diam.25 Cent.
+- 400 Kuchenform, Rothkupfer, mit Godrons und dem Namen Jesu. Hohe 8, Diam.28 Cent.
+- 401 Gebackform,liegendes Lamm,Rothkupfer. Hohe 20,Lange 27 Cent.
+- 403 Gebackform, Rothkupfer,in Form eines liegenden Lowen. Hohe 13, Lange 26 Cent.
+- 402 Kuchenform,in Rothkupfer,getrieben. Hohe 21 Cent.
+- 404 Puddingform,in Form eines Fruchtbouquets. Rothkupfer. Hohe 13, Diam.
+- 405 Salzfass, Rothkupfer, mit Gravirungen im Rococostil. Hohe 29 Cent.
+- 22 Cent.
+- 406 Salzfass, Rothkupfer, das Gefass gravirt mit Wappentrophien, der ge-
+- 407 Kessel, cylindrisch,Rothkupfer, mit gedrehten Henkeln und reicher Treibarbeit,auf dem mit Fischbandern in Form von Delphinen befestigten Deckel ein Wappen mit C.Mayer und Jahresz.1657,ringsum Umschrift: Wer Gott vertraut etc.;um die Bauchweitung Adler, wilde Minner, Papagei etc., am Boden gravirtder Doppeladler. Schones Stick. Hohe 26, Diam. 22 Cent.
+- schweifte Aufsatz mit dem reussischen Wappen. Hohe 28 Cent.
+- 408 Henkelkessel mit spitzem Ausguss, Rothkupfer. XVIll. Jahrh. Hohe 21 Cent.
+- 409 Kessel auf drei Fuissen und Becher,Rothkupfer.
+- 410 Fischkessel, Rothkupfer, auf dem Deckel Medaillon mit Fischen. Hohe 16,
+- 411 Kessel auf drei Fissen mit Thierkopfhenkeln. XVI. Jahrh. Hohe 8, Diam.22 Cent.
+- Lange 25 Cent.
+- 412 Kumpchen auf Fuss, gravirt und theilweise vergoldet mit Ranken und Arabesken,persisch. Hohe 9,Diam.12 Cent.
+- 413 Bettpfanne, Rothkupfer, der Deckel gravirt mit Wappen der Augsburger
+- Familie Hermann in Laubranken. Diam. 3O Cent. Gedrechselter Holzstiel.
+- 414 Bettpfanne,Rothkupfer, der Deckel gestanzt. Diam.25 Cent.Mit Holzstiel.
+- 415 Gewurzkasten,Rothkupfer, auf dem Deckel liegender Lowe.Hohe 5,Lange 16, Breite 13 Cent.
+- 416 Kleine Kuchenpfanne in Rothkupfer mit Eisenstiel. Nebst zwei kleinen Kesselchen in Rothkupfer.Verschiedene Grosse. 3 Stick.
+- 417 Kohlenpfanne auf tellerformigem Untersatz. Hohe 8,Diam. 26 Cent.
+- 418 Eierpfanne auf drei Fussen,Rothkupfer. Diam. 20 Cent.
+- 419 Eierpfanne auf drei Fissen,Rothkupfer. Diam. 30 Cent.
+- 420 Grossere und kleinere Eierpfanne. Diam.26 und 18 Cent.
+- 421 Feuerbecken, gewellt, der Rand durchbrochen. Hohe 7, Diam. 14 Cent.
+- 422 Lavoirschussel,Rothkupfer, mit eingeschlagener Ornamentirung. Hohe 14, Diam.31 Cent.
+- 423 0vale Schussel, getrieben mit Romerschlacht, versilbert. Lunge 45, Breite 29 Cent.
+- 424 Deckel einer Kanne, Rothkupfer, vollrund getrieben mit Lowe. Lange 22, Breite 17 Cent.
+- 425 Ovales Schild einer Fleischer-Innung, getrieben mit zwei Figuren, einen Ochsen todtend.Hohe 24,Breite 18 Cent.
+- 426 Deckel eines Gefasses, Rothkupfer, getrieben mit hubschen Blumenranken, zwischen denen ein von zwei Greifen gehaltenes Wappenschild und Jahres-
+- zahl 1664,als Griff Lowe.Diam.21 Cent.
+- 427 Deckel einer Bettpfanne. Diam. 29 Cent.
+- 428 Deckel, Rothkupfer, mit der vollrund getriebenen Figur eines sitzenden Lowen. Diam.10 Cent.
+- 429 Henkelgefass, tonnenformig. XVIll. Jahrh. Hohe 15 Cent.
+- 430 Bergmannsbecher,Rothkupfer vergoldet, mit den bekannten Aufschriften. Hohe 8 Cent.
+- 431 Bergmannsbecher in Rothkupfer mit den bekannten Aufschriften. Hohe 8, Diam.7 Cent.
+- 432 Achtseitige Trinkschale mit zwei Henkeln, auf der Aussenseite Bergmanns-
+- spruch. Hohe 3,Lange 12,Breite 10 Cent.
+- 433S
+- Standuhr, Kupfer, getrieben mit heraldischen Lowen und versilbert, auf Holzsockel.Hohe 24, Breite 19 Cent.
+- 434 Thurmuhr im Renaissancegeschmack,von reich ornamentirten Saulchen fankirt, als Bekronung des durchbrochenen Kuppeldaches Kriegerfigur. Hohe 24 Cent.
+
+Hohe 27 Cent.
+
+435 Standuhr, Bronze, von Saturn gehalten, auf Holzsockel.
+
+- 436 Standuhr,Kupfer,getrieben mit heraldischen Lowen und versilbert,auf Holzsockel. Hohe 27,Breite 23 Cent.
+- 437 Kleine Standuhr im Stil Louis XIV.,Rothkupfer, durchbrochen und gravirt,
+- auf geschnitztem Holzsockel. Hohe 25 Cent.
+- Kleine Standuhr, Kupfer,auf geschnitztem Holzsockel. Hohe 18 Cent.
+- 438
+- 439 Kleine Standuhr, die Vorderflache Weissblech,getrieben.
+- Hohe 11 Cent.
+- 440 Kleine Wanduhr, die Vorderseite im Rococostil getrieben. Hohe 21 Cent.
+- 441 Kleine Wanduhr, die Vorderseite mit gepresstem Kupfer belegt. Hohe 17,
+- Breite 12 Cent.
+- 442 Wanduhr, die Vorderflache Kupfer, gepresst mit reichen Laubranken und
+- vergoldet. Hohe 26,Breite 23 Cent.
+- 443 Rococo-Zifferblatt mit gepresstem Messing belegt. Nebst zwei andern. Verschiedene Grosse. 3 Stuck.
+- 444 Uhrhalter in Form einer mit Blumenkorb und Fruchten en relief verzierten
+- gerahmten Platte. Hohe 23,Breite 15 Cent.
+- 445 Uhrhalter, getrieben im Zopfstil. Hohe 21 Cent.
+- 446 Astronomisches Instrument, gravirt mit Wappen und Umschrift: Cristof Pirchaimer R. K. M. R. H. Rat 1580. Lange und Breite 10 Cent.
+- 447 Astrolabium,Messing mit Gravirung. Diam. 18 Cent.
+- 448 Schrittmesser, modern.
+- 449 Handlaterne mit Nabelglasern. Hohe 13 Cent.
+- 450 Laterne mit Nabelglasern. Hohe 15 Cent.
+- 451 Zwei einfache Handlaternen. Hohe 17 und 15 Cent.
+- 452 Handleuchter mit ausladendem Fuss. XVI. Jahrh. Hohe 18 Cent.
+- 453 Handlaternchen mit Nabelglas. Hohe 20 Cent.
+- 454 Taschenleuchter mit durchbrochenem Deckel mit A.D. 1593. Hohe 3, Diam.10 Cent.
+- 455 Dreieckige Handlaterne mit Ornamentpressung. Hohe 14 Cent.
+- 456 Drei Canontafeln in versilberten Messingrahmchen mit kreuzformigen Eck-
+- sticken.3 Stuck.
+- 457 30 kleine Gegenstande in Bronze und Kupfer. 30 Stick.
+- 458 Schild eines Buchbeschlages mit dem freistehenden pfalzischen Lowen. Lange 9, Breite 7 Cent.
+- 459 Buchbeschlag, acht Theile, geschweift, gepresst mit Blumenranken und
+- reich durchbrochen.Vergoldet. Lange 22 Cent. Etwas beschadigt.
+- 460 Eckstuck und zwei grosse Krampen eines reichen gothischen Buchbeschlags.
+- 3 Stick.
+- 461 Vier Buchrosetten,zwei in romanischem Stil. 4 Stick.
+- 462 15 verschiedene Eckbeschlage gothischer Bucheinbande. 15 Stick.
+- 463 Zwei Einbandrosetten, schildformig, mit heraldischem Adler. Lange 10, Breite 9 Cent.
+- 464 Grosser Buchbeschlag, bestehend aus 8 Theilen,reich getrieben und durchbrochen.8 Theile.
+- 465 Funf Theile eines grossen Buchbeschlages. Bronze. Linge 12 Cent.
+- gothischen Bucheinbandes mit dem Lamme Gottes in
+- 466 Zwei Rosetten eines
+- durchbrochener Ornament-Einrahmung. Diam. 15 Cent.
+- 467 Drei gothische Buchrosetten. Verschieden. 3 Stuick.
+- 468 Dreissig einzelne Theile von Buchbeschlagen. 30 Stuick.
+- 470 Vierzig kleinere Gegenstande in getriebenem Kupfer. 40 Stick.
+- 469 Vierzig verschiedene kleinere Gegenstande in Metall.
+- 471 Gewolbte Metallplatte mit der Darstellung des grossen Pferdes nach A. Direr.
+- 472 Runde Reliefplatte mit der Verkindigung Maria in gothischem Stile. Diam. 5Cent.
+- Lange 22,Breite 18 Cent. In Rahmen.
+- 473 Ovale Platte, getrieben mit Rose. Nebst zwei getriebenen Wappenschildern. 3 Stick.
+- 474 Viereckige oberhalb abgerundete Platte, Kupfer, versilbert,sehr hoch getrieben mit der Kronung Maria in sehr schoner Composition, unten rechts das Monogramm des D（aniel) H(opfer).  Hohe 25,Breite 17 Cent. In Rahmen unter Glas.
+- 476 Runde Platte, sehr hoch getrieben mit der Buste eines bartigen Mannes mit
+- 475 Runde Platte,Kupfer, versilbert, gepresst mit dem Siegel: Ernst', Herzog von Sachsen.Diam.101/2 Cent.
+- breitem Hut. XVII. Jahrh. Diam. 6 Cent. In Holzrahmchen.
+- garischen Wappen. Diam.15 Cent.
+- 477 Zwei runde Platten, eine mit Firstenbrustbild, die andere mit dem un-
+- 4782 Zwei Appliquen in getriebenem Kupfer,den Doppeladler mit bayerischem Brustschilde darstellend. Hohe 25,Breite 16 Cent.
+- 480 Zunftschild der Messingfabrikanten in Rosenheim,beiderseits gravirt mit dem bayerischen Wappen,f figuralen Darstellungen und Jahreszahl 1717. Hohe 29,Breite 35 Cent.
+- 479 Zehn Rosetten,Plattchen etc.,getrieben.10 Stick.
+- 481 Ovales Schild, Rothkupfer, getrieben mit dem Doppeladler, die bayerischen Wecken im Brustschilde. Hohe 24,Breite 19 Cent.
+- Lange 16,Breite 11 Cent.Auf Holzsockel.
+- 482 Reiches Wappen in versilbertem Kupfer, getrieben und mit Jahreszahl 1613.
+- 483 Geschweiftes Schild, getrieben mit Wappen mit Engel.Hohe 24,Breite 19 Cent.
+- 485 Ovale Platte,getrieben mit Doppeladler mit grossem Brustschild, versilbert.
+- 484 Ovale Platte, getrieben mit Wappen, Einhorn als Helmzier. Hohe 19, Breite 14 Cent.
+- Hohe 16,Breite 12 Cent.
+- 487 Ovales Schild, getrieben mit dreifach behelmtem Abteiwappen. Breite 10 Cent.
+- 486 Ovales Schild mit Cardinalswappen. Hohe 14,Breite 101/2 Cent.
+- Hohe 12,
+- 488 Vielfeldiges schlesisches Wappenschild, getrieben. Hohe 20,Breite 16 Cent.
+- Engelskopf hangend.Lange 25,Breite 12 Cent.
+- 489 Zunftschild, getrieben mit zwei Wappen, mit drei Kettchen an Bronze-
+- 490 0vales Schild,getrieben mit quadrirtem Abtswappen,Hohe 14,Breite 10 Cent.
+- 492 Zwei getriebene Wappenschilder, eins versilbert.1 Hohe 26 und 21 Cent.
+- 491 Zehn verschiedene Schilder, Messing und Kupfer, getrieben mit reichen Wappen etc. Lange zwischen 18 und 11 Cent.
+- 493 Drei Schilder, getrieben mit dem bayerischen Wappen, von Lowen gehalten.
+- 494 Vier getriebene und gepresste Schilder mit Wappen, Portrait und Lowenkopf.
+- Verschieden.
+- 495 Kupferstichplatte von M. Schmidt, mit der Darbringung im Tempel.
+- 496 Kupferstichplatte mit Venus im Bade. Hohe 17, Breite 12 Cent.
+- Lange 17,Breite 14 Cent.
+- 497 Vier Kupferstichplatten mit aufgravirten Munzabbildungen etc.Verschiedene Grosse.4 Stuick.
+- 498 Funf Kupferstichplatten mit Siegelabbildungen.Finf Stick verschiedener Grosse.
+- 499 Funf Kupferstichplatten mit Landschaften von Math. Schmidt,nach F.Kobell gestochen.Lange 14,Breite 18 Cent. 5 Stick.
+- stellungen:wunderthatige Madonnenbilder ete.7 Stick.
+- Verschiedene Grosse. 8 Stuck.
+- 501 Acht verschiedene kleinere Kupferstichplatten mit aufgravirten Wappen.
+- 502 Acht kleine Kupferstichplatten mit religiosen Darstellungen. 8 Stick.
+- 503 Completer Commodenbeschlag im Rococostil.
+- 504 Funf complete Commodengriffe mit durchbrochenen Platten. Nebst sechs
+- 505 Rococo-Schlusselschild,reich ornamentirt. Nebst einem andern. Lange 26 und 14 Cent. 2 Stuck.
+- Schlisselblechen etc.
+- 506 Sechs verschiedene Schlusselschilder, theils hubsch ornamentirt. 6 Stick.
+- 507 Zwolf Rococo-Mobelgehange, reich ornamentirt und mit Lowenkopf als
+- 508 Funf Rococo-Schlusselschilder, Bronze, ornamentirt und durchbrochen. Lange 71/2 und 16 Cent.
+- Unterplatte. Lange 13 Cent.
+- 509 Sechs Gehange und Schlusselschild einer Rococo-Comode.7 Stick.
+- 510 Frauengurtel,rother Plusch mit grosser getriebener und versilberter Metallschnalle. Linge der Schnalle 32 Cent.
+- 512 Breiter Gurtel, getrieben mit Eichenlaubranken und Rosetten. Nebst einem andern.
+
+511 Gurtelkette, hubsch ornamentirt in Drahtgefecht und kleinen Kettchen.
+
+- 513 Gurtelkette in vergoldeter Bronze, die Glieder rosettenformig mit Blumen, die Schliesse mit Engelskopfen und Festons. XVII. Jahrh. Lange 93 Cent.
+- 514 Gurtel,Drahtgefecht. Nebst einem andern.2 Stuck.Defect.
+- 515 Drei verschiedene Messinggurtel,reich ornamentirt. 3 Stick.
+- hangend. Ganze Lange 24 Cent.
+- 516 Grosser Gurtelhaken, schildformig, von Krone iberragt,eingesetzt Miniatur mit zweigetheiltem Wappen mit Ritter, mit drei Kettchen, an Mascaron
+- 517 Schlusselhaken mit drei, von Engelskopf gehaltenen Ketten, eingesetzt Miniatur mit Doppeladler. Linge 17 Cent.
+- 519 Zehn grossere und kleinere Schnallen.
+- 518 Drei Collierschlosser mit hubsch ornamentirten Platten. 3 Stick.
+- 520 Hollandische Tabaksdose, allseitig gravirt mit Jagddarstellungen, Sprichen
+- 521 Runde Dose, im Deckel gekronte Namenschiffre in Metall ausgeschnitten. Hohe 31/2,Diam.8 Cent.
+- und Ranken. Lange 16,Breite 412 Cent.
+
+522 Dose, zweitheilig, mit der Figur der Flora.
+
+Linge 8,Breite 41/2 Cent.
+
+- 524 Kleine Damenuhr mit ornamentirtem Gehause. Diam. 3 Cent.
+- 523 Kleine ovale Dose, der Deckel ornamentirt. Hohe 11/2,Lange 5, Breite 4Cent.
+- 525 Gehause einer Nurnberger Uhr, achtseitig, reich gravirt, der rickseitige Deckel durchbrochen gearbeitet mit Christus als Schmerzensmann,umgeben von Leidenswerkzeugen. Lange 5,Breite 4 Cent.
+- 526 Vier verschiedene Uhrketten mit anhangenden Berloques. 4 Stick.
+- 527 Vier verschiedene Anhanger. An Stahlkette
+- Linge 81/2 Cent.
+- 528 Anhanger,in vergoldetem Messing, herzformig an oberer Bandschleife, eingesetzt zwei kleine Miniaturen mit Crucifix und Mater Dolorosa. Ganze
+- 529 Zwei Medaillen von Hameran mit den Brustbildern Christi und Maria, in Silberumfassung. Hohe 41/2, Breite 4 Cent.
+- 530 Sternformiges Medaillon mit Christus am Kreuz, zu den Seiten Maria und Johannes, an drei Kettchen hangend. Diam. 6 Cent.
+- 531 Halskette (Ordenskette) in Goldbronze; die Glieder abwechselnd Krone, Lowe und firstlicher Namenszug. Sehr gute Ausfuihrung.l Lange 130 Cent.
+- 532 Orden in Goldbronze, schildformig,mit dem anhingenden Vliesse,in der Mitte ein vielfeldiges in Lackarbeit ausgefihrtes Wappen. Ganze Lange 10,
+- Breite 4 Cent.
+- 533 Freimaurer-Orden, Bronze, mit dem freistehenden preussischen Adler. Lange 51/2,Breite 5Cent.
+- 534 Armring in Form einer den Schwanz im Maule haltenden Schlange mit
+- Drachenkopf.Goldbronze.Diam.71/2 Cent.
+- 535 Rococo-Stockknopf mit der reliefirten Darstellung der Flucht nach Aegypten.
+- Lange 6 Cent.
+- 536 Drei Stockknopfe in Form bartiger Kopfe. Linge 51/2 Cent.
+- 537 Stockknopf in Form eines Satyrkopfes, vergoldet. Lange 6 Cent.
+- 538 Kammerherrnschluissel,der Griff in Form eines Doppeladlers mit N auf
+- dem Brustschilde. Linge 14 Cent.
+- 539 Kammerherrnschlussel, der Griff beiderseitig mit dem bayrischen Wappen von zwei Lowen gehalten. Lange 17l/2 Cent.
+- 540 Grosser Ring, Messing, die Platte mit von Steinen umfasster Camee mit weiblicher Biste.
+- 541 Sehr grosser Ring (Bischofsring), der Reif vergoldete Bronze, die Platte mit sehr grossem Glasstein.
+- 542 Ornamentirter Ring mit Stein. Nebst einem andern. Diam. 21/2 Cent.2 Stick.
+- 543 Funf Bronze- und Eisenringe. 5 Stuick.
+- 544 Drei verschiedene grosse Ringe, Bronze, die Platten mit Siegeln. Verschiedene Grosse. 3 Stick.
+- 545 14 Messingknopfe mit gekrontem Wappen — springender Hirsch. 14 Stuck.
+- unter Hermelinmantel,versilbert.
+- grossere und 19 kleinere Messingknopfe,ahnlich. Ebenso.
+- 54717
+- 548 25 Messingknopfe mit Krone,versilbert.
+- 54922 grosse Messingknopfe mit furstlichem Wappen.
+- Messingknopfe mit J. M., versilbert.
+- 55044
+- 551 67 Messingknopfe mit gekrontem aufrechtstehenden Lowen.
+- 552 Ueber 50 meist verschiedene Kupfer- und Messingknopfe mit Kopfen,
+- Wappen etc.
+- 553 Eine Sammlung von 70 modernen Messingknopfen. In Pappdeckelmappe.
+- 554 Grabplatte,schildformig,mit zwei von gefigelter Engelsfigur gehaltenen Wappenschildern und sechszeiliger Inschrift mit Namen Thomas Alters-
+- hamer“ und Jahreszahl 1621.Lange 41, Breite 35 Cent.
+- 555 Grabplatte mit unterem Wappenschild und funfzeiliger Aufschrift mit Jahreszahl 1563. Hohe 32,Breite 40 Cent.
+- 556 Grabplatte mit oberem reichen Wappen en relief unter Bogennische,oben als Abschluss gefugelter Engelskopf,unten die sechszeilige Aufschrift mit Jahreszahl 1559 in Flachrelief. Gutes interessantes Stuck.Lange 46,Breite 37 Cent.
+- 557 Grosse runde Platte, durchbrochen,mit dem Doppeladler und deutschem
+- Spruch. XVI. Jahrh. Diam. 20 Cent.
+- 558 8Viereckige Reliefplatte mit der Verspottung Christi in figurenreicher Composition. Hohe 141/z,Breite 101/2 Cent.
+- 559 Reliefplatte mit der Kreuzabnahme in einer Composition von acht Figuren
+- in Landschaft. Hohe 191/2,Breite 141/2 Cent.
+- 560 Viereckige Platte mit dem reliefirten Huftbilde der Madonna mit dem Kinde,
+- russisch.Hohe 10, Breite 9 Cent.
+- 561 Viereckige Platte,oberhalb geschweift,mit der Relieffigur der Madonna
+- mit dem Kinde. Nebst zwei andern. Russisch. 3 Stuck.
+- Breite 10 Cent.
+- 564 Zwolf Plaquetten und einseitige Medaillen in Bronze und Zinn.
+- 563 Eisentafel mit applicirter hubscher Bronzerosette. Lange 50,Breite 33 Cent.
+- 565 Relief mit der Geburt Christi. Hohe 20,Breite 19 Cent.
+- und Johannes.Hohe 10,Breite 71/2 Cent.
+- 566 Viereckige Reliefplatte mit Christus im Grabe stehend, zu den Seiten Maria
+- 567 Ovales Relief mit Madonna und Joseph in Wolken unter Baldachin. Hohe 111/2,Breite 81/2 Cent.
+- Breite 8 Cent.
+- 568 Viereckiges Relief in Bronze mit dem Brustbilde Jesu Christi. Lange 101/2,
+- 569 Rundes Relief mit Liebespaar. Diam. 6 Cent. In Holzrahmchen.
+- 570 Rundes Bronzemedaillon mit den Profilbrustbildern Napoleons I. und Hortensens.Diam.13 Cent.
+- 571 Relief mit der Auferstehung Christi, theilweise vergoldet. Hohe 18, Breite
+- 16 Cent.
+- 573 Applique mit der Verkundigung Maria in zwei in einem Lorbeerkranz freistehenden Relieffiguren,versilbert. Hohe 13, Breite11 Cent.
+- 572 Drei Reliefs mit Wappen etc.
+- 574 Applique, Messing, ausgeschnitten und gravirt mit von zwei Lowen gehal-
+- 575 Drei Appliquen, zwei fiegende Engel und Bischof im Ornate. 3 Relief
+- tenem Wappenschild. Hohe 15,Breite 15 Cent.
+- figuren.Hohe 51/2und 4 Cent.
+- 576 Sechsarmiger Erkerkronleuchter mit reich profilirtem Balken, die Arme geschwungen, dariber in zweiter Reihe volutenformige Verzierungen. Linge 36, Diam.33 Cent.
+- 577 Altarleuchter, Messing, mit dreiseitigem Fuss, der gravirt und mit vortretenden geflugelten Engelskopfen; der Balken reich profilirt.XVII. Jahrh.
+- Hohe 50 Cent.
+- 578 Altarleuchter auf dreiseitigem gravirten und mit Engelskopfen verzierten
+- Sockel und Lowenfuissen.Hohe 3O Cent.
+- 579 Romanischer Altarleuchter mit gewolbtem Fuss und gefochtenem Schaft.
+- 580 Leuchter in romanischem Stile,Drachenfiguren am dreiseitigen Fusse und
+- Gute Nachbildung. Hohe 26 Cent.
+- am Lichterteller.Hohe.23 Cent.
+- 582 Vier romanische Wandleuchter mit Drachenfiguren. Moderne Nachbildung,
+- 581 Ein Paar romanische Leuchter, der dreiseitige Fuss und der Knauf in reichen Ranken durchbrochen.Gute Nachbildung.Hohe 22 Cent.2 Stick.
+- vergoldet.
+- 583 Ein Paar romanische Wandleuchter mit Kriegerfigur als Bekronung. Vorzigliche Nachbildung alter Originale. Linge 38 Cent.
+- 584 Ein Paar Wandleuchter,ebenso,liegender Hirsch als Bekronung. Gleiche
+- Grosse.
+- 585 Drei verschiedene Altarleuchter mit reich profilirten Stindern. Hohe zwi-
+- schen 31 und 24 Cent.3 Stick.
+- 586 Zwei kleine profilirte Altarleuchter mit grossem Fuss, Bronze. Hohe 22
+- und 19 Cent.
+- 587 Zwei grosse Altarleuchter, verschieden. Hohe 40 und 381/2 Cent.
+- 588 Ein Paar Altarleuchter,ahnlich,kleiner. Hohe 26 Cent.
+- 590 Zwei Leuchter, ahnlich. Hohe 3O Cent. Verschieden.
+- 591 Zwei Leuchter, ahnlich. Hohe 23 Cent. Verschieden.
+- 592 Kleiner Altarleuchter, der Fuss dreiseitig mit Engelskopfen, der Schaft
+- reich profilirt. XVI. Jahrh. Hohe 3O. Cent.
+- 593 Zwei kleine Leuchter,verschieden. Hohe zwischen 9 und 13 Cent.
+- 594 Zwei Leuchter mit gewelltem Fuss. Hohe 18 und 19 Cent.
+- 595 Hoher Leuchter mit hibsch profilirtem Stiele. Hohe 25 Cent.
+- 596 Standleuchter,Empire, in Goldbronze mit drei Frauenbisten. Hohe 26 Cent.
+- 597 Abguss eines hibsch gegliederten gothischen Wandleuchters. Lange 31 Cent.
+- 599 Lampe nach der Antike, der Deckel mit figuraler Reliefdarstellung und Aufschrift, auf hohem Fusse in Form einer Hahnenklaue. Interessante Form. Hohe 12 Cent.
+- 598 Arm eines Wandleuchters, gothisirend, mit Krabben und Lilien. Linge 24Cent.
+- 600 Judische Sabbathlampe zu sechs Flammen, der Stiel mit vorstehenden Knopfen. Hohe 32 Cent.
+- 601 Sabbathlampe zu acht Flammen, der Stiel hibsch profilirt. Hohe 53 Cent.
+- 602 Sabbathlampe zu acht Flammen, dariber in zweiter Reihe vier Arme fir
+- Kerzen.Hohe 45 Cent.
+- 603 Sabbathlampe zu acht Flammen, an Sagekette. Hohe 37 Cent.
+- 604 Judische Sabbathlampe zu sechs Flammen. Hohe 46 Cent.
+- 605 Rauchergefass, Empire, in Form eines Dreifusses, mit Sphinxbisten und
+- Applicationen in Goldbronze. Hohe 31 Cent.
+- 606 Lampe in Form eines Kameelkopfes, Narrenfigur als Deckelgriff. Nach der
+- Antike. Lange 16 Cent.
+- 607 Zwei Lampenhalter,Messing.1
+- Lange 46 und 43 Cent.
+- 608 Bronzemorser mit quadratischen Henkeln, die Wandung mit concentrischen Ringen und Punktverzierungen, mit Stosser. XVII. Jahrh. Hohe 18, oberer Diam.17 Cent.
+- 609 Waage,reich profilirt, der Aufsatz mit Jahreszahl 1603. Hohe 37,Lange 63 Cent.
+- 610 Kolner Goldwaage. In Holzfutteral.
+- 611 Grosses Einsatzgewicht, reich ornamentirt, der Deckel und Griff mit phan-
+- tastischen Thierfiguren,Seeweibchen etc. Hohe 34,Diam. 20 Cent.
+- 612 Gewichtsatz,ahnlich,der Deckel mit phantastischen Thieren und doppelt-
+- geschwanzten Seeweibchen. XVII. Jahrh. Hohe 7,oberer Diam. 10 Cent.
+- 613 Completer Gewichtsatz, die Scharnier- und Verschlussbander mit Thier-
+- kopfen, Grotesken etc. Gutes Stick. XVI. Jahrh. Hohe 8, Diam. 10 Cent.
+- 614 Gewichtsatz,Bronze, ahnlich. Hohe 28 Cent.
+- 615 Gewichtsatz, ahnlich. Hohe 20 Cent.
+- 616 Completer Gewichtsatz, ahnlich,kleiner. Hohe 4,Diam.5 Cent.
+- 617 Cylindrisches Deckelgefass in Glockenmetall,um die Korperweitung zieht sich ein breiter Fries in reichem Renaissancestil, um den Deckel eine
+- Palmettenbordure.Hohe 6,Diam.18 Cent.
+- 618 Kleines gothisirendes Gefass in Morserform, Bronze. Hohe 11, Diam. 8 Cent. Beschadigt.
+- 619 Hoher Henkeltopf, Bronze, in Birnform ohne Decor. XVII. Jahrh. Hohe 24, Diam.17 Cent.
+- 620 Grosse Spritze mit Rippen,aufgravirt das bayerische Wappen mit F. H. J. B. und Jahreszahl 1581.Lange 60 Cent.
+- 621 Handwarmer, kugelformig,der Deckel in Blumen durchbrochen. Hohe 10 Cent.
+- 622 Grosser Morser mit Lorbeerkranz, Saulen,Engelskopfen, Hausmarke und
+- Jahreszahl 1644, die Handgriffe in Form von Delphinen, mit Stosser. Gutes Stuck. Hohe 20,Diam.24 Cent.
+- 623 Morser, doppelt gehenkelt, die untere Halfte zeigt einen Fries mit Thierfiguren, die obere Medaillonbrustbilder und Jahreszahl 1539. Hohe 14,Diam.
+- 15 Cent.
+- 624 Morser mit zwei Delphinhenkel. Hohe 13, Diam. 121/2 Cent.
+- 625 Renaissance-Schelle mit Crucifixdarstellung, Pieta,Lilienfries und gefuigelten Engelskopfen. Hohe 13 Cent.
+- 626 Renaissance-Schelle mit Kopfen und Festons. Hohe 7 Cent.
+- 627 Klingel, Halbfigur eines Tirolers darstellend.Hohe 8 Cent.
+- 628 Klingel mit hochreliefirten Blumenranken. Hohe 9 Cent.
+- 630 Schreibzeug, reich ciselirt. Lange 19 Cent.
+- 629 Klingel, Napoleon I. in weitem Mantel darstellend. Hohe 10 Cent.
+- 631 Kleiner Krahnen mit Reliefkopf. Lange 8 Cent.
+- 632 Zwei Krahnen, der Hahn in Form eines Gansekopfes mit Lackpolychromirung. Lange 20 Cent.
+- Lange 18 und 17 Cent.
+- 634 Briefschraube in Form eines Delphins. Lange 12 Cent.
+- 635 Bronzehammer,stark oxydirt. Lange 12 Cent.
+- 636 Nahschraube mit Palmetten ornamentirt. Lange 12 Cent.
+- 637 Doppelrahmen,reich ornamentirt und mit oberer Krone. Hohe 23,Breite
+- 28 Cent.
+- 638 Briefhalter in Forin eines Delphins. Lange 10 Cent.
+- Lange 20 Cent.
+- 640 Grosse Lichtputzscheere mit reich profilirten Griffen, die Platte mit dem Doppeladler. Lange 26 Cent.
+- 639 Abschluss eines Kronleuchters, geflugelte Engelsfigur.1
+- 641 Lichtputzscheere, hnlich, die Platte mit St. Georg. Lange 24 Cent.
+- 642 Bronzegabel, Taschenbugel, Dolchgrif und vier andere Gegenstande ver-
+- schiedener Grosse.7 Stuick.
+- 643 Vier Loffel, funf Messer und Gabel, meist Kupfer und Bronze. Verschieden.
+- 644 Drei verschiedene Kreuzchen.
+- 645 Gestell einer Sanduhr. Hohe 16,Breite 25 Cent.
+- 646 Aufsatz in Messingguss mit Blumen. XVII. Jahrh. Hohe 21 Cent.
+- 647 Chinesischer Metallspiegel, rund. Diam. 19 Cent. In Lackschachtel.
+- 648 Spitze einer Fahnenstange, gravirt mit Lowen in herzformigem Schild. Nebst drei kleineren Reliefs.4 Stick.
+- 649 Hercules einen Centauren erschlagend. Gut modellirtes Bronzegrippchen.
+- Hohe 8, Lange 91/2 Cent.
+- 650 Sitzende nackte Nymphe, volrunde Statuette. Hohe 13 Cent.
+- 651 Albanese,Reiterfigur,Bronzeguss. Defect.
+- 652 Mercurstatuette, Uhraufsatz,vergoldet. Hohe 16 Cent.
+- 653 Bischof im Ornat,kleine Statuette. Hohe 8 Cent.
+- 654 Napoleon I.,kleine Vollstatuette. Hohe 8 Cent.
+- 655 Zwei sitzende Chinesen, Vollstatuettchen. Hohe 3 Cent.
+- 656 Drei Relieffiguren von Heiligen in Wolken schwebend. Appliquen. Hohe
+- einer jeden 9 Cent. 3 Stick.
+- 657 Zwei heraldische Lowen, Relieffiguren. Lange 16 Cent.
+- 658 Drei sitzende Lowen, drei verschiedene Vollfiguren.
+- 659 Buste einer Dame, Hofnarr und drei andere Vollfguren. 5 Stick.
+- 660 Kleines Wappen in Bronze und finf andere Kleinigkeiten.Verschiedene
+- Grosse. 6 Stick.
+- 661 Adler, Kameel, Pferd und Hirsch, vier Figuren in Bronzevollguss.
+- 662 Heraldischer Lowe, vollrunder Bronzeguss. Hohe 17 Cent.
+- 663 Drei Pferdebusten,vollrund, mit ciselirter Mahne. 3 Stick. Lange zwischen 9 und 8 Cent.
+- 665 Weibliche Groteskfigur auf Ziege reitend, vollrunde Gruppe. Hohe 17, Lange 18 Cent.
+- 664 Zwei desgl., ahnlich. Lange 8 Cent.
+- 666 Eidechse,Kunstguss. Lange 10 Cent.
+- 667 Laufender Hund, Vollfigur in Bronze auf ornamentirtem Sockel. Hohe 6, Lange 61/2,Breite 5 Cent.
+- 669 Sechs Figuren etc. in vollrundem Bronzeguss.
+- 668 Vier verschiedene Vollfiguren.
+- 670 Ein Paar Doppeladler mit ausgebreiteten Schwingen, Vollfiguren auf Sockeln. Hohe 16 Cent.
+- 671 Tintenfass mit hohem Deckel, der mit sitzendem Knaben, die Fisse sind durch gefigelte Halbfiguren gebildet. Hohe 18 Cent.
+- 673 Drei verschiedene Stockgriffe, einer mit lachendem Kopf. 3 Stick.
+- 672 Stockgriff, geschweift, mit vollrundem gefligelten Kopf und reichem Rebenkranze. Lange 10 Cent.
+- 674 30 kleinere Gegenstande, Plaquettes etc. 30 Stick.
+- 676 Eine Partie Appliquen, Relieffiguren, Medaillous etc.
+- 675 40 kleinere Gegenstande. 40 Stuick.
+
+## Arbeiten in Eisen.
+
+- 677 Viereckige Eisenschatulle auf vier Kugelfuissen, allseitig reich geatzt mit Darstellungen romischer Gottheiten in interessanten Costuimfiguren unter Bogennischen mit den betreffenden Unterschriften, die umgebenden Flachen und Leisten, sowie die inneren Platten des complicirten Schlosses sind ebenfalls reich geatzt mit ippigen Renaissance-Arabesken, Riemenwerk und Laub-
+- 678 Viereckige Schatulle auf durchbrochenem Sockel mit Wismuthmalerei, auf der Vorderseite die Geburt Christi,die ibrigen Flachen mit Blumenranken.
+- ranken.Gutes Stuck.XVI.Jahrh.Hohe 19,Breite 31,Tiefe 18 Cent.
+- XVI.Jahrh.Hohe 15,Lange 24,Breite 11 Cent.
+- Lange 22,Breite 11 Cent. Nebst einer andern.
+- 679 Einfache Schatulle mit reichem gravirten Schloss. XVI. Jahrh. Hohe 10,
+- 680 Viereckige Schatulle mit Costimfiguren und Blumenranken in Wismuthmalerei.XVI. Jahrh. Hohe 11,Lange 20,Breite 10 Cent.
+- 15 Cent.
+- 681 Schatulle mit oberem Handgriff. XVI. Jahrh. Hohe 14, Lange 26, Breite
+- 682 Viereckiges Kastchen mit heraldischem Lowen,Blumenranken und Jahreszahl 1764 in Wismuthmalerei. Hohe.9,Lange 18,Breite 9 Cent.
+- 683 Kleines Kistchen, allseitig geatzt. XVI. Jahrh. Hohe 7,Lange 12,Breite 8Cent.
+- 684 Viereckiges Kistchen mit Jagddarstellungen in Wismuthmalerei. XVI.Jahrh. Hohe 12,Lange 26,Breite 13 Cent.
+- 685 Viereckiges Kistchen mit Blumenranken auf grinem Grunde in Wismuthmalerei. XVI. Jahrh.Hohe 12,Lange 23, Breite 12 Cent.
+- 686 Einfache Cassette. XVI. Jahrh.Hohe 12,Lange 22, Breite 12 Cent.
+- 687 Kleines Kistchen mit Trachtenfiguren und Blumen in Wismuthmalerei.
+- 688 Kiste mit kunstvollem Schloss. Hohe 20,Lange 39, Breite 19 Cent.
+- XVI. Jahrh. Hohe 8, Lange 16, Breite 8 Cent.
+- 689 Cassettendeckel mit grossem Schloss von zehn Riegeln. Gravirt. Lange 63, Breite 37 Cent.
+- 691 Grabkreuz, die Balken von schneckenformig verschlungenem Laubwerk fankirt,vergoldet. Hohe 105,Breite 54 Cent.
+- 690 Grabkreuz, Eisen,mit unterem Schild,die Balken dreipassformig. Linge 84, Breite 42 Cent.
+- 692 Grabkreuz, der hohe Sockel reich mit Spiralen und Blattranken. Hohe 180 Cent.
+- 693 Kreuz,Reiterrelief ete., Eisenguss. 3 Theile.
+- 694 Zwei Stander zu Vortragelaternen mit seitlichen henkelformigen Ansatzen. Lange des Eisens 25 Cent. 2 Stick.
+- 695 Grablaterne, cylindrisch, mit spitz zulaufendem Dach mit Kreuz, auf der Wandung eingeschlagene Punktverzierungen,vergoldet. XVIl. Jahrh. Hohe 44 Cent.
+- 696 Laterne,ebenso.Gleiche Grosse.
+- 697 Laterne,ahnlich, bemalt und fragmentirt. Gleiche Grosse.
+- 698 Grablaterne mit oberem Kreuz, Eisenblech, getrieben und polychromirt. Lange 41 Cent.
+- 699 Viereckiges Relief, ausgeschnittenes Wappen,getriebene Kriegerbuste, grosse
+- Schnalle,Kratzer,Fahnenspitze,Plaquets etc.,Eisen.10 Theile.
+- 700 Metallplatte, gepresst mit Kaiser Maximilian unter Bogenstellung. Hohe 25,
+- Breite 18 Cent.
+- 701 Viereckiges Plaquet in Eisen mit dem reliefirten gekronten bayerischen
+- Wappen.Lange 17,Breite 14 Cent.
+- 702 Relief mit Grethchen am Spinnrade. Hohe 27, Breite 20 Cent. In Rahmen.
+- 703 Madonna mit dem Kinde. Relief. Hohe 29 Cent.
+- 704 Vollmond in Strahlenkranz, getrieben und vergoldet. Diam. 40 Cent.
+- 705 Heraldischer Adler, das Brustschild mit den bayerischen Wecken. Hohe 52, Breite 38 Cent.
+- 706 Sitzender Engel, vollrund, aus Blockeisen geschnitten. Hohe 24 Cent.
+- 707 Heraldischer Adler,ahnlich.Hohe 31,Breite 29 Cent.
+- 708 Heraldischer Adler mit den bayerischen Wecken als Brustschild, Eisenblech. XVII. Jahrh.Lange 53,Breite 42 Cent.
+- 709 Heraldischer Adler,Eisenblech.Hohe 56,Breite 64 Cent.
+- 710 Heraldischer Lowe, ausgeschnitten in Eisenblech. Lange 45 Cent.
+- 711 Bayerisches Wappen, gekront und von zwei Lowen gehalten, unten Traube,
+- in Eisen ausgeschnitten,theilweise vergoldet. Lange 36, Breite 33 Cent.
+- 712 Eisenschild, aufgemalt Wappen der ,Stadt Landtz Huhd". Lange 16, Breite 13 Cent.
+- 713 Fliegende Taube, Eisen,vergoldet. Lange 35 Cent.
+- 714 Breloque, geschnitten mit drei Wappen,in kupfernem, hubsch gravirtem
+- Behalter.
+- 715 Ring, der Reif Eisen,auf der Platte Goldplattchen mit der Biste Maximilian Josephs von Bayern.
+- 716 Taschenbugel, Eisen,zierlich proflirt. Lange 14 Cent.
+- 717 Lange Gurtelkette aus verbundenen Eisenplittchen mit abwechselnd kreuz-
+- formigen Durchbrechungen. Ganze Lange 168, Breite 5 Cent.
+- 718 Schloss mit breiter Umrandung, die wie die Platte mit reichen Laubranken auf blau angelaufenem Grunde gravirt, mit Schlissel. XVII. Jahrh. Linge 28, Breite 15 Cent.
+- 719 Thurschloss in Schildform mit Klinke, beiderseits mit reichen Blumenranken
+- in Aetzmalerei. XVI. Jahrh. Lange 16,Breite 17 Cent.
+- 720 Grosses Schloss, die obere Platte und die Umrandung durchbrochen mit Laubranken mit figuralen Endigungen, um die Seitenwandung zieht sich ein
+- geitzter Fries. Schones Stick. XVI. Jahrh. Lange 33, Breite 14 Cent.
+- 721 Grosses Schloss, die Platte Messing, durchbrochen und gravirt mit Laubwerk zwischen dem gekrontes Schild mit A.M. S. 1754. Lange 21,Breite 14 Cent.
+- 722 Grosses Doppelschloss, die beiden Aussenplatten mit reichen Blumenranken
+- geatzt. XVIl. Jahrh. Hohe 14, Breite 18 Cent.
+- 723 Grosses Schloss, die kleeblattformige Platte gravirt und geitzt mit Blumen
+- 724 Schloss, die Platte und die Umrahmung durchbrochen und getrieben mit
+- und Ranken. Lange 40 Cent.
+- Arabesken.Lange 25 Cent.
+- gravirt. Lange 39, Breite 18 Cent.
+- 725 Grosses Renaissance-Schloss, die Platte mit Laubranken getrieben und
+- 726 Grosses Renaissance-Schloss, gravirt und blau angelassen, das Schlissel
+- 727 Aehnliches Schloss,kleiner. Lange 25 Cent.
+- haus thurmformig. Lange 27 Cent.
+- 728 Sehr grosses Kirchenthurschloss, die Platte mit aufgelegten Verzierungen. XVII.Jahrh.Lange 60, Breite 30 Cent.
+- 730 Grosses Schloss mit vier Riegeln, unten geschweift, die Platte mit eingeschnittenen Arabesken. Lange 48, Breite 30 Cent. Mit Schluissel.
+- 729 Grosses Schloss,Stahl, die Platte und Umrandung reich mit Blumenranken gravirt auf blau angelassenem Grunde. Linge 43, Breite 14 Cent.
+- 731 Grosses Thorschloss, die Platte reich durchbrochen und gravirt in gothischem Masswerk. Linge 41, Breite 27 Cent.
+- Arabesken. Lange 29 Cent.
+- 732 Thorschloss mit dreipassformiger Platte, die reich geitzt mit Renaissance-
+- 733 Grosses Thorschloss, schweres Eisen,die Plattenumrandung reich in Kreisen und Arabesken durchbrochen. Lange 46, Breite 25 Cent.
+- 735 Thurschloss, die Platte mit getriebenen Arabesken. Lange 25 Cent.
+- 734 Schloss, die Stahlplatte gravirt. Lange 25, Breite 10 Cent.
+- 736 Grosses Schloss in durchbrochener Umrahmung. Lange 32, Breite 13 Cent.
+- schen 22und 13 Cent.
+- 737 Zwei Schlosser mit Gravirung auf blau angelaufenem Grunde. Linge zwi-
+- 738 Acht grosse Thorschlosser mit theils reich geschmiedeten Platten.
+- 740 Schloss,die Platte getrieben. Lange 20 Cent.
+- 739 Grosses Schloss,die Platte getrieben. Lange 27, Breite 14 Cent.
+- 741 Grosses Truhenschloss, die Platte mit Ranken getrieben. XVIl. Jahrh. Lange 30,Breite 25 Cent.
+- 742 Gothisches Truhenschloss mit durchbrochener Schliessleiste. Lange 23, Breite 16 Cent.
+- 743 Drei verschiedene Schlosser. Lange zwischen 42 und 16 Cent.
+- 745 Zwei Truhenschlosser mit geatzten Platten. Lange 21 und 27 Cent.
+- 744 Zwei grosse Truhenschlosser. Lange 30 und 27 Cent.
+- 746 Zwei verschiedene gothisirende Schlosser. Lange 25 und 17 Cent.
+- 748 Zwei grosse Schlosser mit Ornamentgravirung. Lange 32 und 29 Cent.
+- 747 Grosses und zwei kleine Renaissance-Schlosser. Lange 37, Breite 18 Cent.
+- 749 Drei verschiedene Schlosser mit Ornamentgravirung. Lange zwischen 23 und 21 Cent.
+- 751 Zwei Thurschlosser, die Platten gravirt, eins mit durchbrochenem Rande. Lange 27 und 21 Cent. 2 Stick.
+- 750 Zwei verschiedene Schlosser, die Platten gravirt auf blau angelassenem Grunde.Lange 30 und 22 Cent.
+- 752 Zwei Thurschlosser,das eine mit durchbrochener Umrahmung, das andere
+- 753 Drei kleine Schlosser mit Ornamentgravirung auf blau angelaufenem Grunde. Verschiedene Grosse.3 Stuick.
+- mit seitlicher Messingplatte. Lange 27 und 26 Cent. 2 Stuck.
+- 754 Drei verschiedene Schlosser mit Arabeskengravirung auf blau angelaufenem Grunde.Lange zwischen 20 und 15 Cent.
+- 755 Drei verschiedene gothische Schlosser. 3 Stuick. Linge zwischen 29 und
+- 22 Cent.
+- 756 Drei kleine gothische Schlosser. Lange zwischen 10 und 8 Cent.
+- 757 Drei verschiedene Schlosser, ein gothisch, ein mit Ornamentgravirung. Lange zwischen 24 und 16 Cent.
+- 758 Sechs verschiedene Schlosser mit getriebenen und verzinnten Platten. Lange zwischen 22 und 11 Cent.
+- 759 Zwolf Thor- und Thurschlosser, getrieben und gravirt. Verschiedene Grosse.
+- 760 15 Schlosstheile etc.15 Stick.
+- 761 Grosses gothisches Vorhangeschloss in Dreipassform an Kette. Lange 15, Breite 10 Cent.
+- 762 Grosses gothisches Vorhangeschloss mit Doppelriegel und zwei Schlussel.
+- Lange 18,Breite 17 Cent.
+- 763 Sehr grosses gothisches Vorhangeschloss mit Dreipassschlussel. Lange
+- 39 Cent.
+- 764 Massives gothisches Vorhangeschloss, wurfelformig. Lange 13, Breite 11 Cent.
+- 765 Grosses gothisches Vorhangedoppelschloss in Kleeblattform. Breite 11 Cent.
+- 766 Gothisches Vorhangeschloss in Kleeblattform. Lange 10 Cent.
+- 767 Zwei gothische Vorhangeschlosser. Lange 12 und 7 Cent.
+- 768 Zwei Kugelschlosser, Eisen. Hohe 5 Cent. 2 Stuick.
+- 769 Zwolf Vorhangeschlosser der verschiedensten Form und Art.Verschiedene Grosse.12 Stick.
+- 770 Sieben verschiedene Vorhangeschlosser. Lange zwischen 14 und 9 Cent.
+- 771 Grosser Zunftschlussel, der Griff mit doppeltem gefigelten Engelskopf in
+- Laubranken. Lange 48 Cent.
+- 772 Grosser Zunftschlussel, die Rohre in den bayerischen Farben bemalt, der Griff mit Schneckenverzierung und Voluten,vergoldet, auf dem Bart die Jahreszahl 1690.Lange 72 Cent.
+- 773 Schluissel mit doppeltem Bart, Passe-partout, mit beweglicher Griffscheibe in Messing, die durchbrochen mit den Namen Jesus und Maria. Lange 15 Cent.
+- 774 Zwei Schlussel mit huibsch gewundenen Griffen. Lange 12 und 11 Cent.
+- 775 Doppelschlussel, der Griff zierlich durchbrochen. Lange 15 Cent.
+- 776 Doppelschlussel, der Griff durchbrochen mit den Namenszigen Christi und Maria.Lange 15 Cent.
+- 777 Drei gothische Kirchenschlussel, Eisen. Lange zwischen 32 und 26 Cent.
+- 778 Funf verschiedene Kirchenthurschlussel ete. 5 Stick. Lange zwischen 31 und 15 Cent.
+- 779 Funf verschiedene gothische Schlussel, der Griff mit Durchbrechungen, italienisch.
+- 780 Acht verschiedene gothische Schlussel, die Griffe durchbrochen, italienisch.
+- Verschiedene Grosse. 8 Stick.
+- 781 Sieben grosse Schlussel, theils altdeutsch, theils gothisch. Lange zwischen 25 und 19 Cent.
+- 782 Elf verschiedene alte Schluissel. Verschiedene Grosse. 11 Stick.
+- 783 Zwolf verschiedene Schlussel, dabei ein Doppelschluissel mit durchbrochener
+- Platte.
+- 784 Zwolf gothische Schlussel, theils Ausgrabungen.
+- 785 16 grosse Thorschluissel.
+- 786 23 verschiedene Schlussel, theils XVI. Jahrh. Lange zwischen 16 und
+- 9 Cent.
+- 787 26 verschiedene Schlussel, theils XVI. Jahrh. Lange zwischen 16 und 10 Cent.
+- 788 33 verschiedene alte Schlissel, theils Ausgrabungen. Verschiedene Grosse.
+- 33 Stick.
+- 789 Grosse Schlossplatte, durchbrochen mit gekrontem Doppelwappen in Laubranken mit figuralen Endigungen. XVII. Jahrh. Lange 27,Breite 18 Cent.
+- 20 Cent.
+- 791 Sieben verzinnte Renaissance-Eckbeschlage. Lange 51 und 27 Cent.
+- 14 Cent.
+- 794 Zwei Schlusselschilder in Form von Costumfiguren. Lange 24 Cent.
+- 796 Funf Schlossbleche etc., verschieden.
+- 795 Vier verschiedene Schlusselschilder, zwei im Rococostil. 4 Stick. Linge zwischen 27 und 46 Cent.
+- 797 Sechs ornamentirte Schlisselschilder, Eisen. Lange zwischen 4 und 20 Cent.
+- 799 Neun verschiedene Schlusselschilder. XVII.und XVIII. Jahrh.,theils hubsch gemustert. Lange zwischen 22 und 15 Cent.
+- 798 Sechs verschiedene Schluisselbleche, zwei Messing.
+- 800 Neun verschiedene Schlusselschilder. 9 Stick. Linge zwischen 26 und 17Cent.
+- 802 Schlusselhaken mit vier Kirchenschlisseln, deren drei gothisch mit Kleeblattgriffen. 4 Stick. Lange zwischen 34 und 10 Cent.
+- 801 22 verschiedene Schlusselschilder. XVII. und XVIlI. Jahrh. Linge zwischen 20 und 15 Cent.
+- 803 Sechs verschiedene Schlossntisse, eine mit Schlissel. Verschiedene Grosse.
+- 804 Grosser Griff in Form einer aus Blockeisen gehauenen, aus Blattkrone erwachsenden Figur zwischen zwei Mascarons auf in Laubwerk durchbrochener
+- 6 Stick.
+- Platte. Ende XVI. Jahrh. Lange des Griffes 2O Cent.
+- 806 Zwei reich proflirte Renaissancegriffe. Lainge 14 und 17 Cent.
+- 805 Drei verschiedene Griffe. Linge 18 und 16 Cent.
+- 807 Vier verschiedene Griffe und Gehange.
+- platte. Lange zwischen 20 und 9 Cent.
+- 808 Vier verschiedene Thurgriffe und Knopfe,zwei auf durchbrochener Unter-
+- 809 14 theils verschiedene grosse Griffe, Eisen.
+- 811 Vier Paar Thurbander mit getriebenen Ornamenten und Gravirung. Verschiedene Grosse.
+- 810 55 kleinere Griffe und Gehange,Eisen.
+- 812 Drei Paar Thorbander mit reicher Ornamentgravirung auf blau angelaufenem Grunde. Lange zwischen 45 und 53 Cent.
+- 814 Drei Paar Thorbander und Angeln,reich geschmiedet und gravirt. Lainge
+- 813 Sechs Paar Thurbander,ahnlich.Verschiedene Grosse.
+- zwischen 42 und 58 Cent.
+- 816 16 Beschlage eines Mobels,Rosetten etc.
+- 815 Elf verschiedene Thurbeschlage, Griffe und Fragmente. 11 Stick.
+- 817 Thurklopfer, ringformig, mit eingeschnittenen Verzierungen. Diam.15 Cent.
+- 14Cent.
+- 818 Thurklopfer,ringformig, mit vorstehenden Spiralen. XVIl. Jahrh. Diam.
+- 819 Zwei Thurklopfer und zwei Thurknopfe in Eisen geschnitten. Lange zwischen
+- 820 Gothische Uhr,die Glocke in durchbrochenem Kuppelaufsatz,vorne die reliefirte Jahreszahl 1544. Hohe 38 Cent.
+- 26und 13 Cent.4 Stick.
+- 821 Gothische Uhr mit Eckfialen. Hohe 33 Cent.
+- 823 Gothische Uhr mit fankirenden Fialen. Hohe 34 Cent.
+- 822 Uhr,hnlich. Hohe 27 Cent.
+- 824 Gothische Uhr, offen, mit Eckfalen. Hohe 40 Cent.
+- 826 Werk einer kleinen gothischen Standuhr, Eisen. Hohe 16, Lunge 12,
+- 825 Gothische Uhr. Hohe 20 Cent.
+- Breite 10 Cent.
+- 827 Werk einer grossen gothischen Uhr. XVI. Jahrh. Hohe 25, Breite 15 Cent.
+- 828 Werk einer gothischen Uhr, sehr gut gearbeitet. Hohe 16 Cent.
+- 829 Gestell einer gothischen Uhr mit Fialen. Hohe 26 Cent.
+- 830 Gestell einer gothischen Uhr. Hohe 27 Cent.
+- 831 Vierseitige gothische Uhr, das Zifferblatt bemalt. Hohe 40 Cent.
+- 832 Vierseitige Uhr mit gemaltem Zifferblatt. Hohe 18 Cent.
+- 833 Vierseitige Wanduhr, das Zifferblatt gemalt, oben vollrund geschnitzter Holzkopf. Hohe 34 Cent.
+- 834 Figuren der vier Jahreszeiten. Hohe 36,Breite 25 Cent.
+- Wanduhr, das geschweifte Zifferblatt gemalt mit weiblichen allegorischen
+- 835 Wanduhr,die Vorderseite bemalt mit Madonna,Engelsfigur etc. Hohe 44,
+- Breite 33 Cent.
+- 836 Wanduhr, das Zifferblatt gemalt mit den allegorischen Figuren der vier
+- Jahreszeiten.Hohe 41,Breite 33 Cent.
+- 837 Grosse Wanduhr, das Zifferblatt Zinn in Umrahmung, die in reichen gothischen Laubranken durchbrochen; diese, sowie Werk und Gehause Eisen,
+- bemalt. XVII. Jahrh. Hohe 47,Breite 39 Cent.
+- 838 Wanduhr, dieVorderseite mit durchbrochenem Aufsatz.Hohe 23,Breite 11 Cent.
+- 839 Kleine Standuhr mit durchbrochenem Aufsatz. Hohe 21 Cent.
+- 840 Vierseitige Standuhr, das Zifferblatt bemalt. XVI.Jahrh. Hohe 20 Cent.
+- 841 Uhrwerk mit Schlagglocke. Hohe 25,Breite 12 Cent.
+- 842 Vorderseite einer polychromirt und vergoldet.Hohe 44 Cent.
+- r Wanduhr, Eisen, in Form eines gekronten Doppeladlers,
+- 843 Grosser Uhrzeiger, Eisen, in Pfeilform. Lange 66 Cent.
+- 844 Grosser Zeiger einer Kirchenuhr, nebst ahnlichem. Lange 81 Cent.
+- 845 Funf grosse Thurmuhrzeiger, die Endigungen lilienformig, Kupfer. Linge 120 Cent.
+- 846 Hostienbrenneisen, auf der einen Platte Crucifixdarstellung und Jahreszahl andern Wappen und Umschrift Hanns.H.Nothaft.Anna.
+- 1569,auf der Wispeckhin.69.Diam.101/2 Cent.
+- 847 Hostienbrenneisen,cinerseits mit Crucifixdarstellung,andererseits die Auf-
+- erstehung mit deutschen Umschriften. Diam. 16 Cent.
+- 848 Hostieneisen mit Doppeladler,Lamm Gottes, Umschriften und Jahreszahl 1566.Diam.161/2Cent.
+- 849 Hostieneisen mit der Auferstehung Christi und Wappen mit Umschrift und
+- Spruch. Diam.15 Cent.
+
+850 Hostieneisen mit dem Namen Jesu zwischen Laubranken. Diam. 13 Cent.
+
+- 851 Hostienbrenneisen,auf der einen Seite das Lamm Gottes, auf der anderen das Monogramm Christi. Diam.16 Cent.
+- 852 Hostienbrenneisen,auf der einen Seite Crucifixdarstellung und Jahreszahl
+- 1569,auf der anderen Wappen mit Namensaufschriften. Diam. 11 Cent.
+- 853 Zwei Platten eines Hostienbrenneisens mit neun Medaillons mit Crucifix-
+- darstellungen, Namen Jesu ete. Diam. 19 Cent.
+- 854 Waffeleisen,auf der einen Seite Abendmahldarstellung mit Spruch,auf der andern zwei Geschlechtswappen mit Namensumschriften und Jahreszahl 1569. Diam.18 Cent.
+- 855 Rundes Waffeleisen mit wappenhaltendem Engel und drei Wappenschildern und Jahreszahl 1567.Umschrift:,GOT ALAIN DIE ER IN EBIGKHHAIT." Diam.18 Cent.
+- 856 Waffeleisen, einerseits das Bildniss des hl. Sebastian mit Umschrift: Got
+- allain die Er 1564,andererseits die Auferstehung Christi mit der Umschrift: die Aufersdevng Crisdi 1564.Diam. 16 Cent.
+- 857 Waffeleisen,auf der einen Wange das Gastmahl des reichen Prassers,auf der anderen das bayerische Wappen mit der Umschrift: GOD ALLAINH
+- DIE EER und Jahreszahl 1572. Diam. 15 Cent.
+- 858 Waffeleisen, beiderseits Geschlechtswappen (Lachsl und Ainkirn) mit Jahres-
+- 859 Waffeleisen mit heraldischem Lowen auf der einen und Blumenvase auf der
+- zahl 1537.Diam.13 Cent.
+- anderen Seite.Diam. 14 Cent.
+- und Jahreszahl 1553. Diam. 17 Cent.
+- 860 Waffeleisen, einerseits Wappen, andererseits Engel, mit zwei Hausmarken
+- 861 Waffeleisen mit dem hl. Rupertus und weiblicher Figur, mit Doppelwappen, mit Umschriften und Jahreszahl 1563. Diam. 121/2 Cent.
+- 863 Waffeleisen, auf der einen Seite Geschlechtswappen und Jahreszahl 1644, auf der anderen Blumenwerk. Diam. 16 Cent.
+- 862 Waffeleisen mit Wappen von Weichs ete., mit Umschriften und Jahreszahl 1570.Diam.16 Cent.
+- 864 Waffeleisen, beiderseits mit Wappen. Diam. 14 Cent.
+- 865 0vales Waffeleisen,beiderseits Blumenwerk. Linge 17, Breite 12 Cent.
+- Diam.10 Cent.
+- 866 Waffeleisen,beiderseits mit stilisirter Blume.
+- 867 Waffeleisen,beiderseits mit Ornamentrosetten, dem preussischen Adler ete.
+- Diam.13 Cent.
+- 868 Wafeleisen,die Platten mit Doppeladler und Laubornament. Diam.15 Cent.
+- 869
+- 870 Wafeleisen, die eine Seite mit gekrontem Wappen, die andere glatt. Diam. 151/2 Cent.
+- Wafeleisen mit Fullhorn und Sternrosette. Diam.15 Cent.
+- 871 Waffeleisen mit heraldischem Adler und Lowen. Diam.131/2 Cent.
+- 873 Waffeleisen, herzformig, mit Waffelwerk. Lange 15, Breite 9 Cent.
+- 872 Waffeleisen mit reichen Ornamentrosetten und Figurenfries.Diam. 16 Cent.
+- 874 Waffeleisen, beiderseits Wappenschilder mit Namensaufschrift und Jahreszahl. Diam.17 Cent.
+- 875 Waffeleisen,beiderseits Ornamentrosette. Diam.17 Cent.
+- 877 Wetterfahne, Eisenblech, ausgeschnitten mit Figur ein Thier todtend,mit
+- 876 Zwei Platten eines Waffeleisens mit Figur, Wappen und Jahreszahl 1552. Diam. 16 Cent.
+- Eisenspitze. XVI. Jahrh.Lange 57,Breite 44 Cent.
+- 879 Wetterfahne in Form eines Seeweibchens. Hohe 56 Cent.
+- 878 Wetterfahne in Form eines Seepferdes. Lange 55 Cent.
+- 880 Wetterfahne mit aufgemaltem Wappen. Hohe 21 Cent.
+- 882 Windfahne, Krebs in Eisenblech ausgeschnitten. Lange 57 Cent.
+- 881 Wetterfahnemit springendem Frosch,Eisenblech. Lange  48,Breite 42Cent.
+- 883
+- Windfahne mit schwerthaltendem heraldischen Lowen in Eisenblech ausgeschnitten.Hohe 44 Cent.
+- 884
+- Windfahne, Walfisch in Eisenblech ausgeschnitten. Hohe 50,Breite 34 Cent.
+- 885 Wetterfahne in Form eines Krebses.Lange 58 Cent.
+- Zunftzeichen einer Hufschmiede-Innung mit drei untereinander hangenden
+- 886Z gekreuzten Hufeisen,bemalt. Hohe 4O Cent.
+- 887
+- Zunftschild der Schneider-Innung, bemalt mit Willkommgruss und der Kronung Maria, mit Jahreszahl 1765. Hohe 35, Breite 23 Cent.
+- 8882
+- Zunftzeichen einer Schiffer-Innung, Schiff auf geschweiftem Aufsatze darstellend. XVII. Jahrh. Hohe 40,Lange 22 Cent.
+- 8892
+- 890 Aushangeschild eines Sattlers, Eisenblech mit Vergoldung, mit Zaumzeug und Kandare. Lange 68 Cent.
+- Zwei Zunftzeichen einer Hutmacher-Innung in Form von Dreieckshiten. Diam.40 und 30 Cent.
+- 891 Aushangeschild mit grossem Eisenhut, der Arm in weit verzweigten Windungen mit auslaufenden Spiralen reich geschmiedet. Interessantes Stick. XVII.Jahrh.Hohe 59,Lange 102 Cent.
+- 892 Aushangeschild einer Weinschenke in Form eines Fillhornes mit unteren frei erwachsenden Blumenzweigen, Blumen und Rebenranke mit Traube ent quellen der oberen Oeffnung. Interessantes Stick, bemalt und vergoldet.
+- XVI. Jahrh. Hohe 5O Cent.
+- 893 Aushangeschild eines Sattlers in Form eines Sattels,Eisen, getrieben mit
+- Laubranken etc. Hohe 31,Breite 26 Cent.
+- 894 Aushangeschild eines Schmiedes, mit drei Hufeisen. Hohe 63 Cent.
+- 895 Wirthsschild in Form einer vollrund geschmiedeten polychromirten Traube,
+- nebst Rosenbouquet, ebenso.Linge 3O Cent.
+- 896 Wirthsschild, Eisenblech, ausgeschnitten mit Hirsch in Ornamentrahmen, bemalt.Hohe 56,Breite 53 Cent.
+- 897 Wirthsschild,ausgeschnitten mit Jager und polychromirt. Hohe 44 Cent.
+- 898 Aushangeschild in Form eines Halbmondes, vergoldet.Lange 5O,Breite 28 Cent.
+- 900 Vier verschiedene Schilder mit durchbrochenen Verzierungen. Linge zwi schen 31 und 27 Cent.
+- 899 Aushangeschild mit dem Munchener Kindl in doppeltem Kreis. Diam. 27 Cent.
+- 901 Neun rautenformige Schilder (Thurbelag), gepresst, zumeist mit dem Ntirnberger Stadtwappen. XVI. Jahrh. Hohe 23, Breite 16 Cent.
+- bemalt.XVIII. Jahrh. Hohe 32, Breite 50 Cent.
+- 902 Grosses geschweiftes Schild, beiderseits mit figurenreichen Darstellungen
+- 903 Grosses gekrontes Rococoschild mit dem bayerischen.Wappen, vergoldet. Hohe 62,Breite 45 Cent.
+- 905 Grosser Arm fur ein Aushangeschild mit Ranken und Blattwerk, der Halter blumenformig. XVII. Jahrh. Lange 140, Breite 60 Cent.
+- 904 Vier Schilder mit in Farben und Gold gemalten Wappen. 4 Stick. Verschiedene Grosse.
+- 906 Grosser Aushangeisenarm, aufstrebend, geschmiedet in eckigen Verzierun-
+- gen ete. XVII. Jahrh: Hohe und Linge 100 Cent.
+- 908 Fahnenstockhalter mit schraubenformig gedrehtem Griff. Lange 25 Cent.
+- 907 Schildtrager in Schneckenform auslaufend, geschmiedet, nebst einem anderen, kleiner. Lange 60 Cent.
+- 909 Ovale Platte,reliefirt mit quadrirtem, dreifach behelmtem und von Hirschen fankirtem Wappen,letzteres vergoldet. Hohe 40,Breite 33 Cent.
+- 910 Wappen mit Lamm, iber dem zwei Sterne, durchbrochen, in Eisen geschnit-
+- ten und gravirt. Lange 17 Cent.
+- vergoldet. Hohe 35,Breite 29 Cent.
+- 911 Das bayerische Wappen auf Hermelinmantel, Eisenguss, polychromirt und
+- 912 Schwere Ofenplatte mit gekrontem, von zwei Engeln gehaltenem Doppelwappen. Hohe 82,Breite 53 Cent.
+- 914 Viereckige Ofenplatte mit reliefirten Ornamenten. Lange 71,Breite 58 Cent.
+- 913 Viereckige Ofenplatte, reliefirt mit Daphne und Apollo in Rococo-Ornamentumrahmung. Hohe 56, Breite 71 Cent.
+- 915 0fenplatte mit Crucifixdarstellung und Jahreszahl 1784. Hohe und Breite
+- 916 Ofenplatte mit dem.wirttembergischen Wappen und C. H.Z.W. 1789. Hohe und Breite 55 Cent.
+- 65 Cent.
+- 917 Ofenplatte mit dem wurttembergischen Wappen und E. L. H. Z. W. 1706. Hohe 59,Breite 45 Cent.
+- 919 Zwei Ofenplatten mit dem wirttembergischen Wappen und Jahreszahlen 1823 und 1851. Die grosste Hohe 50, Breite 47 Cent.
+- 918 0fenplatte mit Wappen, Aufschrift und Jahreszahl 1561. Hohe.70, Breite 47Cent.
+- 920 Funf viereckige Ofenplatten, Eisen,mit dem reliefirten wirttembergischen Wappen und Jahreszahlen 1817,1823,1834 ete. Hohe und Breite 56 Cent.
+- 5 Stick.
+- denen Herz Jesu in Strahlenkranz, Engelskopfe ete., polychromirt und vergoldet. Lange 60,
+- 921 Acht verschiedene Feuerthiere,Eisen. Verschiedene Grosse.
+- 922 Tabernakelthire in Laubranken durchbrochen, zwischen Breite 29 Cent.
+- 923 Tabernakelthure,oberhalb gerundet, reich in Laubranken durchbrochen um Christus mit dem Kreuze, bemalt. Ende XVII. Jahrh. Hohe 5O, Breite 28 Cent.
+- 924 Gothische Tabernakelthure in Gittergefecht, die Umrandung mit lateinischer Aufschrift. Lange 72,Breite 47 Cent.
+- 925 Gothische Tabernakelthire in Gittergefecht, die Einfassung getrieben und durchbrochen. Hohe 64,Breite 40 Cent.
+- 926 Gothische Tabernakelthire in Gittergefecht und mit ornaimentirter Umran-
+- dung. Lange 74, Breite 42 Cent.
+- 927 Gittermittelstick in reichen Windungen geschmiedet.Lange 85，Breite 71 Cent. Gebrochen.
+- 928 Fensterbrustungsgitter, reich geschmiedet mit mittlerem schneckenformigen Medaillon etc. und vorderer Blumenguirlande. Lange 100,Breite 50 Cent.
+- 929 Fensterbrustungsgitter, geschmiedet in reichen Windungen, die mit schrau-
+- benformigen Endigungen, auf der Vorderseite Jahreszahl 1550. Linge 91, Breite 56 Cent.
+- 931 Gitterfullung,herzformig, durchbrochen mit Namenszug Maria und Jahreszahl 1688.Lange 22,Breite 20 Cent.
+- 930 Kleines Thurchen, Eisen, zierlich durchbrochen mit Laubrankenverschlingungen,Herzornament und Namenszug Christi. XVI. Jahrh. Vergoldet. Lange 10,Breite 11 Cent.
+- 9326 Gitterkronung,reich geschmiedet mit dem Namenszug Jesu in Strahlenkranz.
+- XVII.Jahrh.Hohe 46,Breite 48 Cent.
+- 933 Fullung eines Oberlichtfensters mit Spiralverschlingungen. XVII. Jahrh. Lange 55,Breite 33 Cent.
+- 934 Fullung, ausgeschnitten und getrieben mit reichen, von Puttenfiguren und Thieren belebten Laubverschlingungen. Lange 58, Breite 32 Cent.
+- 935 Fullung eines Rococogitters in reicher Musterung mit Schnorkelwerk und
+- vortretenden Ranken. Lange 110,Breite 40 Cent.
+- 936 Oberlichtthorfullung in von Blattkranzen durchsetzter Gittermusterung. XVII. Jahrh. Hohe 195,Breite 58 Cent.
+- 937 Zwei Gallerieen,Zopfzeit, die eine mit Namenszug in Lorbeerkranz. Lange 108 und 72,Breite 21 Cent.
+- 938 Acht grosse Fragmente eines Aufsatzes in Form von Blumenzweigen.
+- 8 Stuick.
+- 939 Zwei Oberlichtthorfullungen,reich mit Verschlingungen und Blumen.Lange 160und 135 Cent.
+- 940 Aufsatz eines Gitters mit Schneckenwindungen, geschmiedet. Hohe 40 Cent.
+- 941 Zwei Theile eines hohen Aufsatzes mit Schneckenverzierungen und oberen
+- Kartuschen. Hohe 150 und 75 Cent.
+- 942 Vier verschiedene Fenstergitter, Oberlichtfullungen etc. in reicher Schmiede-
+- arbeit. Lange 145 und 175 Cent.
+- 943 Elf Gitterfullungen,reich ornamentirt mit Schnecken,Herzverzierungen ete.
+- XVII. Jahrh. Lange 90,Breite 50 Cent. 11 Stuck.
+- 944 Zwei Dachgiebelspitzen,Eisenblech. Hohe 50 Cent.
+- 945 Pfannenstander, die Platte durchbrochen,mit aus phantastischer Figur erwachsenden Laubranken mit Fratzenendigung. Diam. 2O Cent.
+- 946 Pfannenstander,die auf drei schnorkelformigen Fussen stehende Platte mit Blumen getrieben und gravirt, Stiel und Stange reich ornamentirt. Schones Stick. Anfang XVII. Jahrh. Lange 48 Cent.
+- 947 Pfannenstander, die Platte zierlich durchbrochen mit Adam und Eva, die Flachen gravirt, der Stielhalter hubsch profilirt. XVI. Jahrh. Lange 50Cent.
+- 948 Pfannenstander, die quadrirte Platte durchbrochen mit Herzornament etc.
+- Lange 49,Breite 27 Cent.
+- 949 Pfannenstander,rosterformig.
+- Lange 46,Breite 23 Cent.
+- 950 Einfacher Pfannenstander. Lange 34 Cent.
+- 951 Pfannenhalter,die Platte getrieben und durchbrochen,mit verschlungenem Laubwerk.Lange 47 Cent.
+- 952 Kleiner Pfannenstander, die Platte in Spitzenmusterung durchbrochen und
+- gravirt. Lange 31 Cent.
+- Pfannenstander,einfach, die Platte mit zwei Ringen. Lange 53 Cent.
+- 954 Pfannenstander, die Platte durchbrochen mit einer Darstellung des Sinden-
+- 953
+- falles. XVI. Jahrh. Lange 50 Cent.
+- 955 Pfannenstander mit schraubenformig gedrehtem Stiel und durchbrochener
+- Platte. Lange 37 Cent.
+- 956 Gestell fur eine Raucherpfanne, in Kreuzen und Sternen durchbrochen.
+- Hohe 25 Cent.
+- 957 Rechauduntersatz, durchbrochon mit von Kopfen belebten Arabesken und
+- mittlerer weiblichen Figur.Diam.17 Cent.
+- 958 Kesselstander in Eisen. Hohe 95 Cent.
+- 959 Bugeleisenstander in geschwungener Form. Lange 34, Breite 17 Cent.
+- 960 Bratapparat mit langem Griff. Lange 29 Cent.
+- 961 Drei Fusse eines Dreifusses mit oberen Ringen, theilweise vergoldet. Lange
+- 32 Cent.
+- 962 Kleiner Stander in Form eines Dreifusses, die geschweiften Stollen mit
+- Thierfiguren, die Platte in Laubwerk durchbrochen. Hohe 17 Cent.
+- 963 Dreifuss,Ofenaufsatz und Gitterfullung. 3 Stuck.
+- 964 Rococo-Opferstander. Der Aufsatz friesformig durchbrochen mit Ranken-und Gitterwerk, iberragt von dem von zwei Lowen gehaltenen Cur-Trierischen Wappen. Polychromirt und vergoldet. Hohe 140,Breite 140 Cent.
+- 965 Console in Schmiedearbeit mit Schnecken und Spiralen, als Trager einer
+- Sanduhr in Messinggehause. Lange 76 Cent.
+- 966 Runde Console in Ast und Rankenwerk geschmiedet. Vergoldet. Hohe 28, Diam.25 Cent.
+- 967 Brunnenausguss in Form eines charakteristischen Mascarons. Linge 36, Breite 42 Cent.
+- 968 Brunnenverzierung in Form eines freigeschmiedeten Rosenzweiges. Lange 46.Cent.
+- 969 Ofenaufsatz,doppelt gehenkelte Blumenvase,d dariber Christusfigur. Hohe
+- 60 Cent.
+- 970 Ofenaufsatz,vierseitig,mit oberer Blattkrone. Hohe 34 Cent.
+- 971 Blumenzweig, freistehend, geschmiedet und polychromirt, nebst kleinem Thirchen.2 Theile.
+- 972 Zwei Ofenaufsatze, Blumenkorb und Blumenvase. Hohe 24 und 11 Cent.
+- 973 Kopf eines Mohren in Eisen geschnitten. Nebst runder Platte mit erotischer Darstellung en relief.
+- 974 Zwei Wachssiegel-Pressen,Holz mit Eisenwinde. Lange 19. Cent. 2 Stick.
+- 975 Grosser Schraubstock, in massivem Eisen, reich mit Palmetten ete. geschnitten.
+- Lange 90 Cent.
+- 976 Hammer mit Brenneisen L. Z. Lange 16 Cent. Holzstiel.
+- Meisterstiick Eisen mit profilirten Wangen.
+- 978 Scheere nach Art der Schafscheeren mit Perlmutterplaittchen belegt. In Eisenetui mit gravirten Ornamenten. Lange 13 Cent.
+- 977 Grosser Zirkel, XVII. Jahrh. Lange 32 Cent.
+- Hohe 13 Cent.
+- 980 Musikinstrument, Serpente, Nachbildung in Blech. Lange 58 Cent.
+- 979 Grosse Pfeffermihle zum Anschrauben.
+- 981 Gothisirender Kronleuchter mit durchbrochenem Lilienfries,hochstehenden
+- Blumenverzierungen ete., die Tragketten spiralformig gewunden. Diam. 40 Cent.
+- 982 Hoher kirchlicher Kerzenhalter mit vier aufsteigenden, durch Ringe verbundenen Streben mit ausladendem Schneckenwerk.Der obere an dem Arme hangende Theil ahnlich mit 2 Streben. Interessantes Stuick. Ganze Hohe
+- 102 Cent.
+- 983 Grosser Kerzenhalter,gallerieformig. Hohe 32, Breite 49 Cent.
+- 984 Runder Hangeleuchter fir Votivkerzen, die Tragkette spiralformig gedreht. XVI.Jahrh.Diam. 47 Cent.
+- 985 Hohe Kerzenhulse,Eisen, in zierlichen Durchbrechungen reich ornamentirt.
+- XVII. Jahrh. Hohe 98,Diam. 6 Cent.
+- 986 Doppelleuchter auf runder Platte. Die schraubbaren Arme geschwungen. Hohe 32 Cent.
+- 987 Hohe verstellbare Tischleuchter auf runder Platte. Die Spitze schraubenformig gedreht. XVI. Jahrh. Grosse 75 Cent.
+- 988 2 Tischleuchter,ahnlich. Gleiche Grosse.
+- 989 Handleuchter auf drei Fissen und Unterplatte. Mit Schneckenverzierungen.
+- Nebst Schraubleuchter. Hohe 32 Cent.
+- 990 Standleuchter in Form einer freistehenden Blumenranke.Interessante
+- Schmiedearbeit.Hohe 34 Cent.
+- 992 Funf eiserne Standleuchter, dabei drei Schraubleuchter. Verschiedene
+- 991 Ein Paar Wandarmleuchter. Die Arme erhaben getrieben in S formig gewundener und durchbrochener gothischer Blumenranke. Mit Resten der Vergoldung. XVI. Jahrh. Hohe 42 Cent. 2 Stuck.
+- Grosse.5 Stuick.
+- 993 Schiebleuchter im Renaissancestil; anf drei Fussen. Hohe 44 Cent.
+- 994 Leuchter, der Fuss mit Schneckenverzierung etc. Hohe 26 Cent.
+- 995 Drei eiserne Handleuchter. 3 Stuck.
+- 996 Vier verschiedene Wandleuchter,einer durchbrochen gearbeitet. Lange zwischen 36 und 22 Cent.
+- einer mit spiralformigem Lichter-
+- 997 Drei Handleuchter verschiedener Form, halter.Verschiedene Grosse.3 Stuick.
+- 998 Doppelarmiger Leuchter. Hohe 33 Cent.
+- 999 Hoher Schiebleuchter mit Schnorkelverzierung. Hohe 8O Cent.
+- 1000 Zwei Handleuchter, der Schaft in Form einer Spirale. XVII. Jahrh.
+- Hohe 29 und 26 Cent.2 Stuick.
+- 1001 Zwei dreiarmige Lichthalter.
+- 10022
+- Zwei Kerzenstander, der rundliche Aufsatz mit zahlreichen Stacheln. Hohe 130 Cent.
+- 1003 Wachsstockhalter mit gedrehtem Stiel. Hohe 13 Cent.
+- 1004 Wachsstockhalter auf 3 Fussen. Gedrehter Stiel,wenig gravirt. Nebst Fragment eines anderen. Hohe 24 Cent.
+- 1005
+- Wachsstockhalter in eigenartiger Form. Nebst Lichtputzscheere. Lange 27Cent.2 Stuck.
+- 1006 30 verschiedene eiserne Wandleuchter,geschmiedet.
+- 1008 14 verschiedene Theile,Wandleuchter,Riegel ete. 14 Stick.
+- 1007 Drei Lichtputzscheeren, einfach. Verschiedene Grosse. 3 Stick.
+- 1009 Vier grosse Fragmente, eines mit massiven Kugeln. Lange zwischen 44 und 95 Cent.
+- 1010 Sechs grosse Fragmente,Blumenbouquets etc.
+- 1011 Sechs verschiedene Messer mit Eisen-, Bronze- und Holzheften. 6 Stick.
+- 10 Theile.
+- 1012 Vergoldete und durchbrochene Fahnenspitze, Schuhhorn,Kellerlampe, Leuchter, Riegel, Messerschleifer,Muhle, Augsburger Stadtpyr etc. Eisen.
+- 1013 Eine grosse Kiste mit Eisenfragmenten aller Art.
+
+## Arbeiten in Zinn und Blei.
+
+- 1014 Henkelkanne in antiker Form mit eiformigem Korper und langem Ausguss.
+- Hohe 28 Cent.
+- 1015 Schussel mit Henkelkanne ahnlicher Form, der Henkel mit Perlschnuren. Hohe 27 Cent.
+- 1016 Vierseitige Flasche,allseitig gravirt mit biblischen Figuren, auf dem
+- Boden Hausmarke und Jahreszahl 1602. Hohe 12 Cent.
+- 1017 Zunftfasche in Form eines Bretzels. Lange 22,Breite 33 Cent.
+- 1018 Zunftbecher einer Schuhmacherinnung, Zinn, in Form eines Schuhes.
+- XVIII. Jahrh.Linge 24 Cent.
+- 1019 Zinnlavoir. Die Wandung dreifach ausgebaucht, der Deckelknopf kugelformig,der Krahnen Messing. XVIII. Jahrh. Hohe 46,Breite 24 Cent.
+- 1020 Barbierschissel.Diam.22 Cent.
+- 1021 Barbier-Aushangeschild in Form eines Becken mit geschweiftem Rande. Minchener Marke mit 1756.Lange 27,Breite 21 Cent.
+- 1022 Viereckige Zinnplatte, gravirt mit Bibelspruch. Unten rechts: Sculpsit
+- G.L.a Ratisp.A. 1686. Lange 31, Breite 17 Cent.
+- 1023 Kleine runde Platte mit der Reiterfigur Gustav Adolphs. Diam.13 Cent.
+- 1024 Rundes Relief mit dem polychromirten Profil-Brustbilde Josephs II. Be-
+- zeichnet:Hilpert fecit. Diam.91/2 Cent.
+- 1025 Venus, neben Delphin stehend und vollrunde Bleistatuette, vergoldet. Hohe 16 Cent.
+- 1026 Weibliche Buste,vergoldet.
+- 1027 Albrecht Durer-Statuette. Hohe 7 Cent.
+- 1028 Zwei Christuskorper. Lange 6 und 18 Cent.
+- 1029 Drei weibliche Figuren, Blei, nach unten schneckenformig auslaufend. Trager eines Gefasses. Lange 13 Cent.
+- 1030 Brunnenfigur,Nachtwachter mit Horn und Laterne darstellend, bronzirt.
+- Hohe 16 Cent.
+- 1031 Brunnenausguss in Form eines phantastischen Kopfes. Lange 18 Cent.
+- 1032 Brunnenaufsatz,Blei, nackte weibliche Figur. Vergoldet. Hohe 37 Cent.
+- 1033 Tafelaufsatz, die Essig- und Oelgefasse Glas. Hohe 23 Cent.
+- 1034 Abguss eines romanischen Leuchters. Hohe 20 Cent.
+- 1035 Zwei runde Formen,mit Doppeladler und heraldischem Lowen. Diam.15
+- und 16 Cent. 2 Stick.
+- 1037 20 verschiedene kleine Gegenstande in Zinn etc. 20 Stick.
+## Arbeiten in Stein, Horn, Perlmutter, Lack etc.
+
+- 1038 Junges Madchen, nackt, auf Sockel knieend. Die Hande im Schoosse zusammengelegt; der Kopf aufwirts erhoben. Schon gearbeitete Alabaster-
+- figur. Hohe 46,Lange des Sockels 32 Cent.
+- 1040 Modonna mit dem Kinde, vollrunde Marmorgruppe. Nebst einem andern.
+- 1039 Brustbild des segnenden Heilandes, iber dreieckigem, mit gothischem Blattwerk geschmickten Sockel. Gut ausgefihrt in Marmor. Ganze Hohe 15Cent.
+- Hohe 21 Cent.
+- 1042 Madonna mit dem Kinde, Alabastergruppe, fott behandelt. Nebst zwei andern Alabasterfiguren. Hohe zwischen 18 und 14 Cent.
+- 1041 Madonna mit dem Kinde, Alabastergruppe und eine andere. Nebst zwei Thonmasken. Fragmentirt.
+- 1043 Knieende Gotzenfigur. Hohe 15 Cent.
+- 1044 Funf Figuren,Bisten etc.in Speckstein ete.
+- 1046 Kopf des hl. Johannes des Taufers, Alabaster. Hohe 13 Cent.
+- 1045 Knabe,ein Schild haltend, Wappen mit Doppeladler aufgemalt. Vollrunde Figur, polychromirt. Hohe 48 Cent.
+- 1047 Grabplatte der Maria Pemlerin a Leitstetten,1685;mit Wappen und
+- Inschrift. Hohe und Breite 44 Cent.
+- 1049 Grosse Grabsteinplatte mit der Huftfigur eines Geistlichen im Ornate und der unteren Aufschrift: Reverendus Pater Ludovicus Holzmaire,Huius Coenobii Praepositus Obit Ano Dni 1595, Die 18. Juli Et Huius Sepelizi
+- 1048 Grabplatte des Seb. Freymann,1674; mit Wappen und Inschrift. Linge 42,Breite 42 Cent.
+- Vomit. In den Ecken Wappen etc. Hohe 117,Breite 58 Cent.
+- Hohe 58,Breite 69 Cent.
+- 1051 Quadrirtes Bischofswappen mit Helmzier, en relief aus Alabaster. Oval. Lange 13,Breite 11 Cent. Auf Holzplatte.
+- 1053 Ovales Wappen auf reicher, durchbrochener Helmdecke,in Schweizer Stein gemeisselt. Oben Aufschrift: J. Schweiger. Linge 42, Breite 42 Cent. Gekittet.
+- 1052 Gekrontes Wappen mit drei Fruchtahren, Stein,vergoldet. Hohe 37, Breite 30 Cent.
+- 1054 Wappen mit Arm, einen Hammer haltend und mit reicher Helmdecke.
+- Hohe 22,Breite 20 Cent.
+- 1055 Cartouchenschild,Marmor, umrahmt von Rankenwerk. Muschel als Abschluss. nach oben. Hohe 38, Breite 34 Cent.
+- 1056 Schild mit gekrontem Doppelwappen, polychromirt und vergoldet. Hohe 39,
+- Breite 32 Cent.
+- 1057 Kleines Wappenschild mit der Halbfigur eines Hir.chen und fast vollrunder Helmzier. Hohe 21, Breite 15 Cent.
+- Hohe 17,Breite 121/2 Cent.
+- 1058 Kleines gekrontes Wappenschild mit Lowe unter Sparren, auf dem Lilie.
+- 1059 Ovales Schild mit polychromirtem, gekrontem Doppelwappen. Hohe 22,
+- 1060 Schild mit gekrontem Doppelwappen. XVIII. Jahrh.Hohe 2O,Breite 30 Cent.
+- Breite 18 Cent.
+- 1061 Zwei kleine Wappen. Hthe 11 und 5 Cent.
+- 1062 Ovales vielfeldiges Wappen, en relief in Kehlheimer Stein; die reiche Umrahmung Marmor. Hohe 56,Breite 54 Cent.
+- 1063 Schild mit dem Wappen des Bisthums Constanz. Hohe 22,Breite 20 Cent.
+- 1064 Viereckige Platte in Kehlheimer Stein,mit der sehr hoch reliefirten Stand-
+- figur eines vollig ausgeristeten Ritters in tiefer Nische; auf dem unteren Rande die Aufschrift: AVER von WINCHEL 1568";in den Ecken Wappenschilder. Interessantes Stick. Hohe 40,Breite 23 Cent. Gekittet.
+- 1065 Achteckige Marmorplatte mit der schraffirten Darstellung der hl.Familie. Bezeichnet mit dem Monogramme Albrecht Durers und Jahreszahl 1501. Lange 30,Breite 25 Cent. In Holzrahmen.
+- XVI. Jahrh. Lange 30, Breite 26 Cent.
+- 1066 Viereckige Platte mit reich behelmtem Reliefwappen; Engel als Schildhalter.
+- 1067 Kleiner Schlussstein mit Wappenschild, Komet, polychromirt. XVI. Jahrh. Lange 12,Breite 10 Cent.
+- 1068 Ovale Marmorplatte mit aufgemalter Marine,die Farbungen des Steines
+- benutzend. Lange 24,Breite 18 Cent.
+- 1069 Ovale Marmorplatte mit reliefirtem Wappen auf Helmdecke. Lange 20, Breite 18 Cent.
+- 1070 Ovale Platte en relief geschnitten mit minnlicher Buste. Hohe 9,Breite
+- 8 Cent.
+- 1071 Aufsatz,Alabaster,mit doppelt behelmtem Wappen, von zwei Engelskopfen
+- fankirt,in hohem Relief. Hohe 32,Breite 43 Cent.
+- 1072 Viereckiges Relief in Kehlheimer Stein mit Frauenbiste. Lange und Breite 11 Cent.
+- 1073 Drei Steinplatten, bemalt mit minnlichen und weiblichen Brustbildern von
+- Schlotthauer. Hohe zwischen 51 und 45 Cent.
+- 1074 Steinplatte mit gekrontem Wappenschild zwischen Palmzweigen. Hohe 39,
+- Breite 39 Cent.
+- 1075 0vales Wappen,Elfenbein-Masse,i in von Engelsfiguren belebter,in Schnorkelwerk und Thierkopfen endigender reicher Umrahmung. Mit Hausmarken und Jahreszahl 1613. Lange 16, Breite 11 Cent. In Holzrahmen.
+- 1076 Viereckiges Alabaster-Relief mit sitzender Pomona in Renaissance-Rahmen.
+- Hohe 20,Breite 14 Cent.
+- 1077 Zwei Steinfriese mit Donatorenfamilie in hohem Relief. Lange 6O,Breite 21 Cent.
+- 1078 Viereckige Form,Schiefer,mit tief geschnittenem,aufsteigendem Blumen-
+- Ornament. Lange 29,Breite 16 Cent.
+- 1079 Brunnenmodell, Marmor, auf vierseitigem Sockel zwei uibereinander befind-
+- liche, sich verjuingende Becken, das untere mit drei Wasserspeiern in Form von Lowenkopfen. Hohe 22 Cent.
+- 1080 Morser auf rundem Fuss, Marmor. Die Wandung achtfach abgefacht.
+- Hohe 19,oberer Diam. 14 Cent.
+- 1082 Tafelaufsatz,Serpentinstein. Diam. 33 Cent. Beschadigt.
+- 1081 Grosse Henkelkanne, Serpentinstein mit Zinnreifen und Zinndeckel. Hohe 15 Cent.
+- 1083 Salzfass,muschelformig, Serpentinstein. Hohe 10 Cent.
+- 1084 Flacher Teller,Serpentinstein. Diam. 21 Cent.
+- 1085 Vierseitige Dose, reich eingelegt in Silber und Perlmutter mit gekronter Namenchiffre auf dem Deckel und Wappen auf dem Boden. Hohe 2, Lange 7,Breite 41/2 Cent.
+- 1087 Kumpiges Schalchen und Ober- und Untertasse, Serpentinstein. 3 Stick.
+- Hohe 15,oberer Diam. 1086 Grosser Morser in Serpentinstein,ohne Decor. 14 Cent.
+- 1088 Ovales Schalchen,Pudelhund als Handgriff. Lange 15 Cent.
+- 1089 Becher und mehrseitige Buchse, Serpentinstein. Hohe 13 Cent.
+- 1090 Weihwasserkessel, muschelformig,Marmor. Diam.20 Cent.
+- 1091 Lithographirstein mit Madonna mit dem Kinde. Angeblich Original-Inkunabel-
+- arbeit von Senefelder. Lange 22,Breite 22 Cent.
+- 1092 Drei Theile in Serpentin und Achat.
+- 1093 Grosse Sonnenuhr in Kehlheimer Stein. Die Platte,mit Resten der alten Vergoldung, reich geitzt mit den Stundenzahlen ete. und interessanten bezeichnet: D. Georg Nicolaus Reiffenstuel MDCCXXXII. Interessantes Stick.Lange und Breite 22 Cent.
+- 1094 Sonnenuhr. Die Platte Kehlheimer Stein,geitzt mit den Stundenzahlen und:
+- Anno salutis 1747.Lange und Breite 18 Cent.
+- 1095 Sonnenuhr in Kehlheimer Stein. Die Platte geatzt mit den Stundenzahlen, 13 Cent.
+- 1097 Dambrett, die Platten Kehlheimer Stein, aufgravirt auf der Aussenseite
+- 1096 Sonnenuhr. Die Platte Kehlheimer Stein, geatzt mit den Stundenzahlen, Arabesken, dem Namenszug Jesu und der Jahreszahl 1730.1 Lange und Breite 16 Cent.
+- das Imhoff sche Wappen, auf der Innenseite Blumen und Spiel. Mit 24 gedrechselten Dambrettsteinen,Holz.Lange und Breite 36 Cent.
+- 1098 Dambrett, die Piatten Kehlheimer Stein mit eingeritzten Blumen und Ranken, mit 24 gedrechselten Dambrettsteinen,Holz. Lange 42, Breite 36 Cent, Die Platten gesprungen.
+- 1100 Drei verschiedene Rosenkranze, 1 Holz, 1 Stein mit Silberfiligranfassung.
+- Verschiedene Grosse.3 Stiick.
+- 1101 Vierseitige Schmuckschatulle auf vier Achatkugelfuissen. Die Seitenwangravirtem Messing und mit schwarz emaillirten Endigungen. Das Gefecht ist durchsetzt von zahlreichen, verschiedenartigen Kameen, die mit Brustbildern, Profilkopfen etc., die Kanten und der Henkel in Messingkordelgefecht, der Boden gravirt. Reiches schones Stick. Hohe 11,Breite 16, Tiefe 11 Cent.
+- 1102 Viereckige Dose,Achat, mit Bronzefassung,nebst muschelformiger Achat-
+- dose mit Elfenbeindeckel. 2 Stick.
+- 1103 Kleines Doschen, Achat, mit Messingfassung. Lange 4, Breite 3 Cent.
+- 1104 Elf verschiedene Anhanger in Achat, Stein,Bergkrystall etc. in Silber-
+- fassung. Verschiedene Grosse. 11 Stuick.
+- 1105 Vier grossere und kleinere Wurfel, Stein, mit den Zahlenzeichen und
+- Initialen.Diam.zwischen 3 und 2 Cent.4 Stick.
+- korb. Lange eines jeden 4 Cent.
+- 1108 Amethyst aus einem Ringe des Abtes Haneberg, hubsch geschliffen und gravirt mit dem Namenszug Jesu. Nebst einem andern Stein, geschliffen mit Doppelwappen.
+- 1107 Doppelkopf,Weinen und Lachen. Lange 8 Cent.
+- 1109 Grosse ovale Muschel-Kamee, gut geschnitten mit dem Profilbrustbilde eines
+- Papstes.Lange 5,Breite 4 Cent.
+- 1110 Neun verschiedene Gemmen, geschnitten mit figirlichen Darstellungen. 9 Stick.
+- 1111 Zehn Gemmen mit eingeschnittenen Kopfen. 10 Stuck.
+- 1112 50 geschliffene Steine,meist Achat. 50 Stuick.
+- 1113 18 Steine,meist Achat mit eingeschnittenen Wappen. 18 Stick.
+- 1114 22 verschiedene grossere und kleinere Kameen, die meisten mit Bisten.
+- Verschiedene Grosse. 22 Stick.
+- 1115 Buchse, Steinbockhorn,auf dem Deckel Hirschkrone, en relief geschnitzt mit Hunden. Lange 16 Cent.
+- 1116 Grosse runde Horndose, der Deckel mit Landschaftsminiatur. Hohe 4,
+- Diam.11 Cent.
+- 1117 Horndose,Deckel und Boden mit springendem Hirsch,die Montirung Silber. Nebst Lackdose mit Bronzebeschlag. 2 Stick.
+- 1118 Drei verschiedene Horn- und Schildpattkamme.
+- 1119 Hornbecher,einfach und ohne Decor. Hohe 11,Diam. 6 Cent.
+- 1120 Drei Hornbecher. Hohe 121/2 Cent.
+- 1121 Reisenecessaire, Horn, bestehend aus grossem und kleinem Becher und
+- dreitheiligem Besteck.
+- 1122 Zwei Horndosen,gravirter Teller und Loffel. 4 Stuick.
+- 1123 Reiseloffel, Horn, mit gepressten Darstellungen und Metallscharnier. Lange
+- 17 Cent.
+- 1124 Zwei verschiedene Loffel mit Horn- und Holzmuschel, die Griffe mit Metallbelag. Lange 16 und 171/2 Cent.
+- 1125 5Viertheiliges Lorgnon mit Horngriff. Lange 111/2 Cent.
+- 1126 Ovale Platte, gepresst mit Ziege in Landschaft. Nebst Platte mit Liebes-
+- paar und Portraitbuste. 3 Stick.
+- 1127 Perlmuttermuschel,en relief geschnitzt mit einer Anbetung der Hirten zwischen Blumenranken. XVII. Jahrh. Diam. 14 Cent. Gekittet.
+- 1128 Kleine runde Dose, Perlmutter, mit gravirten Rosetten, die Fassung Silber. Diam.5 Cent.
+- 1129 Grosser Anhanger,Perlmutter, geschnitten in sehr hohem Relief mit der
+- Kronung Maria im Stile der oberdeutschen Malerschule des XV. Jahrh., in vergoldetem Silber gefasst. Sehr gutes Stick. Lange 5,Breite 31/2 Cent.
+- 1130 Grosser Anhanger,runde Perlmutterplatte,beiderseits geschnitten mit Pieta und mit dem Sehweisstuche Christi, in vergoldeter Silberfassung mit Flechtrand. Gutes Stuick. XVI. Jahrh. Diam.4 Cent.
+- 1131 Nadelbuchse, sehr fach, Empire, Perlmutter mit Goldfassung. Lange 8, Breite 2 Cent.
+- 1132 Ovale Platte,Perlmutter, mit Diana und Actaeon in sehr hohem Relief
+- gut geschnitten. XVII. Jahrh. Lange 7, Breite 12 Cent.
+- 1133 Rundes Relief, durchbrochen geschnitten mit Christi Einzug in Jerusalem. XVI.Jahrh.Diam.7 Cent.
+- 1134 Kleines Relief in Perlmutter mit der Geburt Christi in freistehenden Figuren. Lange 31/2, Breite 4 Cent.
+- 1135 Kleines rundes Medaillon, Perlmutter, mit der Verkindigung Maria. XV.Jahrh. Diam.3 Cent.
+- 1136 Platte, Perlmutter, gravirt mit dem Abschiede eines Fursten von seinem
+- Heere. Russisch.Lange 61/2,Breite 101/2 Cent.
+- 1137 Perlmutter-Muschel, gravirt mit Madonna mit dem Kinde auf Thron sitzend,
+- von Engeln umgeben. Lange 13,Breite 11 Cent.
+- 1138 Rundes Perlmutterrelief mit der Geburt Christi in einer fruhen Auffassung und Darstellung. Diam. 6 Cent.
+- 1139 Ovales Plattchen, in hohem Relief geschnitten mit dem Verrath des Judas.
+- In Messingrahmchen. XVI. Jahrh. Lange 41/2, Breite 31/2 Cent.
+- 1140 Kleines Medaillon in Perlmutter mit der Halbfigur der Madonna mit dem
+- Kinde. Nebst drei hnlichen.Verschiedene Grosse. 4 Stick.
+- 1141 Viereckiges Relief in Perlmutter mit der Verkindigung Maria in sehr er-
+- habener Arbeit. XV.Jahrh. Lange 41/4,Breite 4 Cent.
+- 1142 Ovale Platte in Perlmutter, gravirt mit der Darstellung einer Hirschjagd. Anfang XVIl. Juhrh. Lange 7, Breite 6 Cent. Nebst einem andern. 2 Stick.
+- Kinde iber Halbmond. XV. Jahrh. Diam. 41/2 Cent.
+- 1143 Kleines rundes Relief,Perlmutter, mit der Halbfigur der Madonna mit dem
+- 1144 Perlmutterrelief mit einer Darstellung der Geburt Christi in hibscher Compo-
+- sition. XV.Jahrh. Lange 61/2,Breite 8 Cent.
+- 1145 Modell der heil. Grabeskirche in Jerusalem,Holz, mit theils reliefirten Perlmutterplatten belegt. Hohe 20,Linge 28 Cent.
+- 1146 Zwei kleine ovale Plattchen, Perlmutter,mit den reliefirten Profibuisten
+- zweier Papste. Lange 3,Breite 21/2 Cent. In Holzrahmchen.
+- 1147 Fliegender Engel. Relieffigirchen in Perlmutter im Stile des XV. Jahrh. Lange 51/2 Cent.
+- 1148 Muschelbild mit der Figur eines Eskimo. In der Art der Arbeiten des
+- de la Porterie ausgefuihrt. In vertieftem Rahmen. Hohe 41,Breite 67 Cent.
+- 1149 Zwei Spazierstocke, Holz, die Griffe in Perlmutter geschnitten,mit Vogelkopf und Thierfigur. Ganze Lange 97 und 93 Cent.
+- Anhinger und Amulett Silberfiligran. Lange 6O Cent.
+- 1150 Rosenkranz, die Korner Holz mit Perlmutterrosetten, die Gesetzeskorner,
+- 1151 Zwei Rosenkranze, die Korner sowie das Kreuz Holz, mit Perlmutterplattchen eingelegt. Lange 58 und 52 Cent.
+- 1153 Funf verschiedene Gegenstande von Perlmutter.
+- 1152 Vier verschiedene Rosenkranze in Horn, Perlmutter und Holz, zwei davon mit Silberapplicationen.
+- 1154 Viereckige Platte, in Farben und Gold fein bemalt in Lackarbeit mit gekronten Wappen, Schwane als Wappenhalter. Hohe 24,Breite 23 Cent.
+- 1155
+- 1156 Grosser chinesischer Lackkasten. Lange 38,Breite 48 Cent.
+- Viereckige Tafel,in Lackfarben und Gold fein bemalt mit vier um einen Hermelinmantel gestellten Wappen. Hohe 25,Breite 22 Cent.
+- 1157 Grosser viereckiger Lackkasten mit Figuren und Blumen in Goldmalerei auf rothem Grunde. Japanisch. Hohe 6,Lange 45,Breite 45.
+- 1158 Viereckiger japanischer Lackkasten. Der Deckel in Gold bemalt mit drei Figuren in Landschaft. Nebst einem anderen schwarzen Lackkasten. Hohe 5,Lange und Breite 40 Cent.2 Stick.
+- 1160 Ovales Tablett,japanisch,mit Landschaftsdarstellung in Gold auf schwarzem Grunde. Lange 54,Breite 39 Cent.
+- 1162 Drei runde Lackdosen, eine mit Kaiser Nero. 3 Stuck.
+- 1161 Vier Uhrcuvetten in Lack und Schildpatt. 4 Stick.
+- 1163 Zwei viereckige Platten, in Lack mit Goldanwendung bemalt mit gekrontem M,und runde Platte,ebenso mit gekrontem Monogramm. Verschiedene Grosse.3 Stick.
+- 1164 Portrait-Medaillon in farbigem Wachs vorzuglich modellirt. Buste eines Mannes in mittleren Jahren mit langem Barte und grauem Rocke mit breitem iberfallenden Kragen. In medaillonformiger Kapsel, deren Ruckfache in Sternmusterung mit Schuppen in Blau und Weiss emaillirt. Sehr gutes Stick im Stile des XVI. Jahrh. Diam. 41/2 Cent.
+- modellirt. Das Kreuz polychromirt und vergoldet mit geschnitzten Balken-
+- 1165 Hausaltarchen mit Crucifx. Der Christuskorper vollrund gut in Wachs
+- endigungen. XVIII. Jahrh. Lange des Christuskorpers 27 Cent. In Rahmen unter Glas.
+- Breite 6 Cent. In Holzrahmchen.
+- 1166 Reliquientafel, oberhalb abgerundet, mit mittlerem Wachsmedaillon und umgebenden Reliquien zwischen Silberdrahtfechtwerk. XVII. Jahrh. Lange 12,
+- 1167 Cocosnussschale, en relief geschnitzt mit emblematischen Medaillons. Lange 15,Breite 9 Cent.
+- 1169 Zwei Cocosbecher mit Zinnfassung. Hohe.24 und 20 Cent.
+- 1168 Drei kleine Buchsen,Cocosnuss, der hohe Deckel der einen en relief geschnitten mit Blumenkorb und Vogeln. Lange zwischen 4 und 8 Cent. 3 Stick.
+- 1170 Schnitzerei in Cocosnuss mit hoch reliefirten Emblemen.Auf tellerformigem Untersatze, Holz mit Messingeinlage. Hohe 15,Diam..13 Cent.
+- stamm,Thierkopf etc. Ganze Lange zwischen 93 und 84 Cent.
+- 1171 3 verschiedene Spazierstocke. Die Knopfe Bronze mit Thier auf Baum-
+- 1172 8 verschiedene Spazierstocke. Einer mit
+- 1173 Grosser Pfeifenkopf, Meerschaum, mit dem koniglich wurttembergischen Wappen und Silberbeschlag. Lange 14 Cent.In Etui.
+- Die Knopfe und Griffe Horn. Dolch. Ganze Lange zwischen 97 und 77 Cent.
+- 1174 Grosse Pfeife, der Kopf Holz,mit Mascaron geschnitzt. Lange 75 Cent.
+- 1176 Jagdpfeife,Hirschkrone und Gemshorn mit vollrund geschnittenen Figuirchen in Elfenbein, Jager und Gemsenfamilie darstellend.Lange 33 Cent.
+- 1175 Zwei verschiedene turkische Pfeifen,1 mit langer Bernsteinspitze. Verschiedene Grosse.2 Stick.
+- 1177 Grosse Pfeife, aus abnorm gebildetem Wurzelholz gefertigt. Lange 50 Cent.
+- 1179 Zwei Pfeifen und drei Kopfe in Meerschaum und Thon. Verschiedene Grosse.5 Stuick.
+- 1178 Drei Pfeifenkopfe, Holz, geschnitzt mit Wappen (Hassin in Gottingen) etc. Verschiedene Grosse.3 Stuick.
+- 1180 Drei Pfeifenkopfe,Holz, geschnitzt, 1 mit Darstellung einer Hirschjagd, 1 mit weiblichem Kopf. Verschiedene Grosse.3 Stick.
+- 1182 Zwolf verschiedene Meerschaumpfeifen und Kopfe, theils mit silbernen Deckeln,von denen einige gravirt.Verschiedene Grosse. 12 Stick.
+- 1181 Funf Pfeifen, Holz, theils geschnitzt, einige mit Silberbeschlag. Verschiedene Grosse.5 Stuick.
+- 1183 Zehn verschiedene Thonpfeifenkopfe, einige mit Kopfen und vergoldet. Verschiedene Grosse.10 Stick.
+- Verschiedene Grosse.8 Stick.
+- 1184 Sieben verschiedene Pfeifen und Kopfe, Holz,geschnitzt mit Wappen,Burg,
+- 1185 Viereckige Dose, Schildpatt mit Silberfassung; der Deckel in Messing und
+- Perlmutter eingelegt mit Ornamentwerk und Thierfiguren. XVIlI. Jahrh. Hohe 21/2, Lange 8, Breite 61/2 Cent.
+- 1187 Zwei Schildpattdosen, die eine ornamentirt in Silberpiquetarbeit, die andere
+- 1186 Ovale Dose,Schildpatt mit Silberfassung,der Deckel in Silber und Perlmutter eingelegt mit Figuren, Thieren und Blumen-Guirlanden. XVIlI. Jahrh. Hohe 2,Lange 71/2, Breite 5 Cent.
+- mit Kaiser zu Pferde in Bronzeguss.
+- 1188 Facher in Schildpatt, chinesisch, durchstochen geschnitzt mit Chinesen in Landschaft. Nebst 2 anderen.3 Stick.
+- 1189 Drei Haarkamme, Schildpatt und Horn.
+- (1Defect.)
+- 1190 Grosser Phallus, Sehildpatt, japanisch.
+- 1191 Schurzfell fur Freimaurer,Leder. Linge 35, Breite 34 Cent.
+- 1193 Ein Paar Schuhe mit Arabeskenfriesen ete. in verschiedenfarbigem Leder. Lange 25 Cent.
+- 1192 Ein Paar Schaftenstiefel mit Ornamenten in verschiedenfarbigem Leder. Lange 33 Cent.
+- 1194 Damen-Reithandschuhe, weisses Leder, gestickt mit Ornamenten.
+- 1196 Ein Paar Damen-Halbhandschuhe, schwarze Seide mit silberdurchwirkten Streifen.Lange 14 Cent.
+- 1195 Ein Paar Watteau-Damenschuhe, gelbe Seide mit Blumenstickerei.
+- 1197 Ein Paar Miniatur-Damenstiefel, grine gemusterte Seide. Nebst MiniaturHolzschuhen.
+- 1199 Ein Paar Lederstiefel, kunstvoll gearbeitet und reich gestickt.
+- 1198 Ein Paar Schuhe, blauer Sammt mit Blumen und Ornamenten in Silberbouillon.
+- 1200 Funf verschiedene Stoff- und Lederschuhe.
+- 1202 Ein Paar chinesische Hausschuhe, Leder.
+- 1201 Ein Paar chinesische Damenschuhe.
+- 1203 Sieben Paar Damenschuhe, in abwechselnden Mustern gestickt. (Werden paarweise versteigert.) Lange 25 Cent.
+- 1205 Japanischer Sonnenschirm, japanischer Schirm,kleiner.
+- 1204 Ein Paar Holzschuhe.
+- 1206 Zehn indianische Halsketten, Arm- und Beinringe etc. aus Zahnen, Elfenbein,Kaferfligeln ete.gebildet. 10 Stick.
+- 1208 Schiffsmodell,chinesisch,Baumrinde mit Strohverzierung. Lange 44 Cent.
+- 1207 Eigenartiges Wurzelgebilde in Form einer sich windenden Schlange.
+- 1209 Notizbuch, Schlangenhaut, die Schliesse und der Schreibstift Silber. Lange 8, Breite 11 Cent.
+- 1211 Achteckige Schatulle, Maroquin, mit Goldpressung und Messingbeschlag. XVII.Jahrh. Hohe 9,Lange 14,Breite 13 Cent.
+- 1210 Etui fuir einen Pocal, Leder mit Pressornamenten. XVII. Jahrh. Hohe 26 Cent.
+- 1212 Grosser chinesischer Hut in kunstvollem Strohfechtwerk. Diam. 51 Cent.
+- 1213 Zwei chinesische Strohhute.Verschieden.
+- 1215 Vier phantastische Thiere in Strohgefecht.
+- 1214 Drei japanische Strohhute, kunstvoll gearbeitet und mit grinen Lederstreifchen bezogen.
+- 1216 Zehn verschiedene Gegenstande in Thon,Holz, Wachs etc. 10 Stuick.
+- 1217 Zehn dergleichen. 10 Stick.
+- 1218 Zehn dergleichen. 10 Stick.
+- 1219 Zehn dergleichen. 10 Stick.
+- 1220 Mikroskop. Hohe 40 Cent.
+- 1222 Zwei kleine Kurbisfaschen, gravirt, eine mit Ansicht von Athen. Hohe 15 Cent.
+- 1221 Grosse Kurbisfasche. Hohe 40 Cent.
+## Textil-Arbeiten.
+
+- 1223 Grosser viereckiger Teppich,blauer Wollstoff mit Doppelwappen,cberen Schriftbandern und unterer Jahreszahl 1637,umrahmt von reichem Blumenkranz; dieses sowie die in Zwickeln befindlichen Wappen mit Namensauf schriften in vielfarbiger Stickerei, den Zwischengrund fillen verschiedenartige Streublumen in gleicher Stickerei aus. XVII. Jahrh. Lange 240, Breite 165 Cent.
+- 1224 Zwei Wandteppiche,bemalt mit dem bayerischen und frieslandischen
+- 1225 Vollstandiges Messgewand, Casel, Stola und Manipel, geblimter violetter
+- Wappen. Lange 98,Breite 98 Cent.
+- Seidenstoff mit breitem Streifen in reichem Goldbrokat.
+- 1226 Vollstandiges Messgewand, Casel, Stola und Manipel,schwarzer gebluimter
+- 1227 Vollstandiges Messgewand,Casel, Stola und Manipel, weisser geblumter Atlas mit reich dessinirter Goldborte.
+- Stoff mit Goldborte.
+- 1128 Kleid und Kopfbedeckung einer Engelsfigur aus der Frauenkirche in Munchen.Gelbe Moireeseide und Goldbrokat mit reliefirten Ornamenten aus Flittern, Silberlitze und Draht hergestellt und mit breiter Goldspitze.
+- Lange des Gewandes 73 Cent.
+- 1230 Grosses Messkissen,reich gestickt, die Mitte nimmt ein grosses Medaillon ein mit einer Darstellung des Berges Golgatha in einer Composition von Zahlreichen Figuren. Um die Kreuze die Leidenswerkzeuge, Schriftbander, Gestirne etc., zu den vier Seiten vielzeilige Aufschriften, in den Ecken Herzornamente ete. Sehr interessantes Stick. XVI.Jahrh. Lange 5O,Breite
+- 12290 Corporale, weisse Seide mit reicher Gold- und Seidenstickerei, die einen grossen Stern,Blumen etc. zeigt. Lange 53, Breite 53 Cent.
+- 50 Cent.
+- 1232 Antependium, weisses Leinen, durchsetzt von breitem und schmalem Fries
+- 1231 Antependium, bunte geflammte Seidenstickerei. Lange 190, Breite 90 Cent.
+- in blauer Stickerei.Lange 164,Breite 41 Cent.
+- 1233 Betttuch mit flirter Spitze und Blumenborte, roth,in Stielstich ausgefuihrt.
+- 1234 Grosse Leinendecke,in Weiss gestickt mit schwungvollen Arabesken,in der Mitte Medaillon mit dem Lamm Gottes,an den Eeken die Symbole der vier Evangelisten.Lange 134,Breite 150 Cent.
+- 1235 Aehnliche Decke. Lange 196,Breite 150 Cent.
+- 1237 Decke, Leinen,mit in Roth gestickten Ornamentfriesen. Lange 130, Breite 130 Cent.
+- 1236 Leinentuch,an einer Seite in Roth gestickt mit Arabesken und Thierfriesen und mit breiter Spitze. Lange 176, Breite 270 Cent.
+- 1238 Deckchen, weisses Leinen,beiderseitig in Roth gestickt mit dem Namen
+- Jesu in Medaillon, in den Ecken Blumenarabesken; mit Spitzenbordiire. Lange und Breite 75 Cent.
+- 1240 Leinenstreifen, in Weiss gestickt mit Doppeladler, seitlich das Lamm Gottes.
+- 1239 Handtuch, weisses Leinen mit Spitzen an den kurzen Seiten.Lange 252, Breite 46 Cent.
+- Lange 90,Breite 90 Cent.
+- 1241 Leinenstreifen, gestickt in bunter Seide und Golddraht mit von Thier figuren belebtem Ornamentfries,von Medaillon mit Doppeladler durchsetzt. Lange 138,Breite 25 Cent.
+- 1242 Kleine Decke, blaue Seide; in der Mitte ein grosses, von Goldborte ein-
+- gefasstes Medaillon mit der in bunter Seide vorziglich gestickten Darstellung
+- der Anbetung der hl. drei Konige; seitlich und an den Ecken Blumen, Vogel, Wappen etc. Lange und Breite 65 Cent.
+- franse. Lange 23,Breite 20 Cent.
+- 1243 Frauentasche, schwarzer Sammet mit Blumen in Goldbouillon und Gold
+- 1244 Beutel, rother Sammet, iberaus reich gestickt mit Wappen und der franzosischen Lilie in Gold- und Silberbouillon. Interessantes Stick. Lange 13 Cent.
+- 1246 Tabakbeutel, in Seide gestickt mit zwei Costimfiguren und Wappen. Linge 20 Cent.
+- 1245 Taschenbezug, weisse Seide, gestickt mit Blumenvasen etc. unter reichster Goldanwendung. Lange 30, Breite 35 Cent.
+- 1247 Facherbeutel, weisse Seide mit bunter Stickerei.
+- 1249 Schwarzseidene Weste mit reich geblimter Seidenstickerei.
+- 1248 Geldtasche, brauner Sammet mit Reliefstickerei in Gold- und Silberdraht. Lange 13,Breite 11 Cent.
+- 1250 Schwabischer Frauenkragen, schwarzer Sammet mit Rosetten in blauem und Spiegelglas. Lange 23,Breite 18 Cent.
+- 1252 Mieder mit grunem Stoffbezug und unterer Franse. Lange 43 Cent.
+- 1251 Reich in Gold gestickter Uniformkragen, der Grund roth. Linge 51, Breite 51/2 Cent.
+- 1253 Drei Einsatze, hubsch ornamentirt mit Goldstickerei und Golddraht.
+- 1254 Schellenzug mit bunten Feldern in Wollstickerei. Lange 125 Cent.
+- 1256 Zwei grosse Wappen in Ornamentumrahmung in silberdurchwirkter Seide, reich gestickt. Lange 28,Breite 23 Cent.
+- 1257
+- 1258 Drei kleine Wappen mit reicher Gold- und Silberstickerei. Grosse zwischen 11und 14Cent.
+- Wappen, fuinffach behelmt und von zwei Lowen gehalten unter Baldachin in Wollstickerei. Lange 40, Breite 31 Cent.
+- 1259 Zwei verschiedene gestickte Doppelwappen. Lange 20 und 15 Cent.
+- 1260 Zwei baldachinformige Stickereien in Seide, Goldfaden etc. Eingesetzt Pergamentblatter mit aufgemaltem Herz Jesu. XVII. Jahrh. Lange 19, Breite 14 Cent.
+- 1261 Kleines Hundehalsband,grine Seide mit applicirtem gravirten Wappen und J. J. P.L.in vergoldeter Bronze, Das Schloss entsprechend mit Cartouche. Anfang XVIll. Jahrh. Nebst einem anderen mit finf Messingmarken.Lange 25 Cent. 2 Stuick.
+- 1263 Schieberkistchen mit Stoffbelag, der theils Relieffiguren zeigt. Hohe 21, Lange 23 Cent.
+- 1262 Pallienschachtel,auf dem Deckel Medaillon mit dem gestickten Namen Jesu in Strahlenkranz,an den Ecken hochreliefirte Rosetten. Hohe 5,Lange und Breite 21 Cent.
+- 1264 Bischof Ludwig von Toulouse, vor ihm ein Bettler, gewebte Figur im Bischofsgewande; um die Conturen ausgeschnitten. XV. Jahrh. Lange 66 Cent.
+- 1266 Bischof in vollem Ornate mit Kirche und Stab; die stofflichen Partieen Seide.
+- 1265 St.Petrus, grosse Figur, die einzelnen Gewandtheile aus verschiedenfarbiger Seide gebildet. Mitteltheil einer Fahne. Lange 100 Cent.
+- Auf Blechplatte.Lange 43,Breite 30 Cent.
+- 1268 Drei schwabische Frauenhauben, weisses Leinen, mit Stickerei auf blauem Grunde und breiter Spitze.3 Stick.
+- 1267 Zwei grosse Holzschnitte, auf gelbe und weisse Seide gedruckt.
+- 1269 Schwarzwalder Brautkrone, von Gold-und Silberdraht gebildet,dazwischen kleine Medaillons von agglomerirtem Glase. Gut erhalten. In Holzschachtel.
+- 1270 Zwei Schwarzwalder Brautkronen,reichverziert mit Gold und Silberdraht und kleinen Medaillons mit agglomerirten Glasplattchen.
+- von bunten Perlen gebildet.
+- 1271 Zwei Schwarzwalder Brautkronen, in Kranzform mit Blumen und Blattern
+- 1272 Zwei Renaissance-Brautkronen in huibscher Form, durchweg mit Perlen und Steinen besetzt. 2 Stick.
+- 1274 Zwei Renaissance-Frauenhaubchen mit Perlenstickerei.
+- 1273 Zwei bayerische Riegelhauben, schwarz mit Perlen besetzt.
+- 1275 22 Kronen und Namenschiffre einer konigl. bayerischen Livree in Silber gestickt. 22 Stick.
+- 1277 Sechs Braut- und Marienkronen mit Goldfitter, Drahtgefecht und Perlen.
+- 1276 Marienkrone, reich mit Wachsperlen und Glasperlen besetzt. Hohe 19 Cent.
+- 6 Stick.
+- 1279 Eine Partie Livreborte,abwechselnd gewebt mit Wappen und silbernem Grund.
+- 1278 Zwei Kopfbedeckungen, Seide mit Silberstickerei.
+- 1280 Taufkissen mit feinem Spitzenuberzug. Lange 27,Breite 17 Cent.
+- 1282 Ein Convolut mit Stoffresten,dabei Goldbrokat ete.
+- 1281 Convolut kleiner Stoffreste und Stickereien.
+
+## Diplomatik und Sphragistik.
+
+## A. Adels- und Wappen-Diplome, Stammbaume etc.
+
+(Wo nicht anders angegeben, auf Pergament.)
+
+- 1283 Adelsbrief Friedrichs I1. d. d.1490, f. die Gebruder Keyler. Copia
+- 1284 Wappenbrief Maximilians I, d. d. 1499,f. Zimbrecht Hitzler. Copia d.
+- d.d. 1635 mit schoner Wappen-Miniatur, die monogr.H.M. Ohne Siegel.
+- d.1616. Mit Wappen-Miniatur. Ohne Siegel.
+- 1286 Wappenbrief Rudolphs I., d. d. Prag 1579,f. die Gebrider Plintenhofer. Mit Wappen-Miniatur und Signatur des Kaisers. Ohne Siegel.
+- 1285 Wappenbrief Ferdinands I, Wien 1563, fuir die Bruider Eberle. Mit schoner Wappen-Miniatur, des Kaisers Signatur und anhangendem beschadigten Wachssiegel.
+- 1287 Adelsdiplom Maximilians von 0esterreich,d. d. 1611,f. Joseph Schwabl zum Schwabl.Mit Wappen-Miniatur.
+- 1289 Wappenbrief, d. d.Innsbruck 1637, f. Steffan Schwaigkhofer. Mit Wappen-
+- 1288 Diplom Ferdinands I.,f.H.v.Muggenthals Erhebung in den Freiherrnstand,d.d.1624.Copia auf Perg. mit Wappen-Miniatur.
+- Miniatur.Ohne Siegel.
+- Mit Wappen-Miniatur und Signatur. Ohne Siegel und gef.
+- 1290 Adelsconfrmation Ferdinands IIl., d. d.Regensburg 1653, f. Zach. Rother.
+- 1291 Adelsdiplom Franz I.,d.d. Wien 1753,f. Joh. Mich. Thanner. Sieben Blatter, prachtig geschrieben, mit in Farben und Gold ausgefuhrter WappenMiniatur und des Kaisers Signatur. Ohne Siegel. Rother Sammetband in Blechkapsel.
+- band mit anhangendem Wachssiegel in Messingkapsel. Fol.
+- 1292 Adelsdiplom, d. d. 1770,f. Jac. Jos.Peyrer verliehen durch Max Joseph v.Bayern.13 Blatter mit blattgrosser Wappen-Miniatur. In rothem Sammet-
+- 1293 Confirmation der Gnaden-Freiheit und Recht firs Gericht Flass von Erzherzog Ferdinand Carl von Oesterreich,d.d. 1646; mit Signatur und
+- anhangendem Wachssiegel.
+- 1294 Doctordiplom, f. Franz Andree, d.d. Landshut 1811. 4.Bll. In rothem Sammetband.4.
+- 1295 Diplom des bayer. St. Michaels-Ordens durch Wilhelm y. Bayern, d. d. Minchen 1799 an Max. Jos. von Hahn. Mit Wappen-Miniatur und Sig-
+- natur.Ppb.Fol.Ohne Siegel.
+- 1297 Stammbaum der Freiherren zu Fridtberg. Papier. Imp. Fol.
+- 1296 Attestation Leopolds von Lothringen, d. d. 1724, die Herren von St. Vincent betreff. Pergamenthandschr. von 15 Bll. mit eigenhandiger Signatur.Kl. Fol.
+- ment. Gr. Qu. Fol.
+- 1299 Stammbaum der Freiherren von Peckenzell auf Papier mit vielen Wappen-
+- Miniaturen. Nebst Copie eines Adelsbriefes von Rudolph II. auf Pergament mit Wappen-Miniatur, sowie nebst Prospect des Schlosses Delbach. 3 Stuick.
+- 1300 Zwei Stammbaume der Familie Pirchinger. Papier auf Leinwand gezogen.
+- 1301 Fundamental-Einleichtung iber die freiherrliche Familie Zech,von und zu Daybach, Freiherrn zu Sulz. Papierhandschrift des XVIII. Jahrh. mit zahlreichen, in Wasserfarben gemalten Wappen und einigen Anhangen. Seidenband.Fol.
+- 1302 Urkunde Eberhards v.Wurttemberg, d. d. 1482, d. Bruderhaus der
+- 1303 Grosse Urkunde des Papstes Julius II.,d. d. Rom 1505. Links beschnitten und ohne Siegel.
+- Franziskaner zu Frickenhausen betr. Mit Wachssiegel.
+- 1304 Heirathsbriefe des Hanns Vogt von Sommerau zu Prasberg, d. d. 1566. Grosse Urkunde mit 11 Wachssiegeln.
+- Rahmen unter Glas.
+- 1305 Wappen-Miniatur mit d. Wappen derer von Pellert. Grosses Blatt. In
+- 1306 Grosse Wappen-Miniatur in vorzuiglicher Ausfuihrung,in Farben und Gold auf Pergament.Fol.
+- 1308 Wappen der Familie Fischer. Ebenso. Lange 10, Breite 8 Cent. In Rahmen unter Glas.
+- 1307 Wappen der Familie Stein. Mit Goldanwendung auf Papier gemalt. Linge 25,Breite 18 Cent. In Rahmen unter Glas.
+- 1309 Sieben Gartner-Lehr- und Gesellenbriefe,meist des vorigen Jahrhunderts, hubsch ausgefuhrt.
+- 1310 Zwei Nurnberger Kaufurkunden, d. d.1447 und 1473. Mit anhingenden Wachssiegeln.2 Stuck.
+- 1311
+- 1312 Ein grosses Packet handschriftliches Material, Notizen, Vorstudien zum heraldischen ABC-Buch von der Hand des verst. Herrn Ritter Karl Mayer von Mayerfels.
+- Sieben Kaufbriefe des XVI. Jahrh., Nurnberg betreffend. Meist mit anhangenden Wachssiegeln.7 Stuck.
+- 1313 Ein Fascikel,Vorstudien zu Mayers heraldischem ABC-Buch mit Wappenpausen etc.
+- 1314 Ein grosses Convolut meist handschriftlicher Dokumente der verschiedensten
+- 1315 Ein Fascikel Papierurkunden,Passauer Bischofe,meist mit eigenhandigen Namensunterschriften.
+- Art.
+- 1316 18 Pergamenturkunden,zum Theil mit anhangenden Wachssiegeln.
+- 1317 Ein grosses Fascikel mit graf. Fugger'schen Familienpapieren. XVIl.bis XIX. Jahrh.
+- 1318 Sieben Papierurkunden verschiedener Pfalzgrafen bei Rhein, theils mit eigenhandigen Namensunterschriften.
+- 1320 Ein Convolut, enthaltend gedruckte Verordnungen Karl Theodors von der Pfalz.
+- 1319 Ein Convolut, enthaltend geschriebene und gedruckte Verordnungen Maximilian Josephs von Bayern.
+- 1321 Ein grosses Fascikel Papierurkunden und Copialien, Schloss und Herr-
+- 1322 Ein Convolut, enthaltend 11 handschriftliche und gedruckte Verordnungen etc.
+- schaft Falckenstein betreffend.
+- des Herzogs Maximilian Philipp von Bayern.
+- 1323 Ein Convolut von uber 130 Verordnungen, Satzungen und Dekrete des Churfirsten Max Emanuel von Bayern in Druck-und Papierhandschriften.
+
+## B. Siegelstampfen, Stempel etc.
+
+- 1324 Gothische Siegelstampfe, Madonna mit dem Kinde und Heilige. Umschrift: S.PLEBANI: SALZBYRGENSIS. Lange 5,Breite 31/4 Cent.Zweifelhaft.
+- Monch.Umschrift:Benedictus qui venit etc. ete. Lange 4, Breite
+- 1325 Kleine gothische Siegelstampfe,Madonna mit dem Kinde; vor ihr betender
+- 21/2Cent.
+- 1327 Gothische Siegelstampfe mit Heiligenfiguren in 3 Reihen. Hohe 51/2,
+- 1326 Zwei kleine gothische Siegelstampfen mit Madonna mit dem Kinde und Umschrift.Lange 4,Breite 21/2 Cent.
+- Breite 31/2 Cent.
+- lich.Lange 7,Breite 41/2 Cent.
+- 1328 Gothische Siegelstampfe mit Madonna mit dem Kinde. Umschrift unleser-
+- 1329 Eiserne Stampfe e einer Schreiner-Zunft mit den Emblemen. Lange 31/4, Breite 4 Cent.Holzgriff.
+- 1331 Gundelsheimer Zunftsiegel, Schild mit Kreuz und Krone, von EmblemenSchildern umrahmt. Umschrift XVII. Jahrh. Lange 4, Breite 31/2 Cent.
+- 1330 Runde eiserne Eisenstampfe, ,Waysen-Kammer von Bern" in Blattkranz. Diam.3 Cent.
+- Eisengriff.
+- Handw: d: Glaser: I: Freising.1514. Diam. 31/4 Cent.Eisengrif.
+- 1332 Siegelstampfe der Glaserzunft in Freising;Wappen.Umschrift:Ein:E:
+- 1333 Siegelstampfe der Weberzunft in Gundelsheim. Diam. 33/4 Cent.Eisengriff.
+- 31/2 Cent.Eisengriff.
+- 1334 Siegelstampfe der Gundelsheimer Schmiede- und Wagenbauerzunft. Diam.
+- 1335 Grosse runde Siegelstampfe der Gundelsheimer Fleischerzunft mit den Emblemen und Umschrift. Diam. 4 Cent.Eisengriff.
+- 33/4 und 3Cent. 2 Stick.
+- 1336 Zwei verschiedene Zunftsiegelstampfen, nicht besonders erhalten. Diam.
+- 13370 Grosse runde Siegelstampfe. Heilige iber Wappenschild. Umschrift: Sigillum Abbatisse et Conventus in Eistet. Diam. 51/2 Cent.
+- Engeln gehaltenen Wappen.Umschrift unverstindlich. Diam. 6 Cent.
+- 1338 Grosse runde Siegelstampfe. Bischof auf Thron sitzend zwischen zwei von
+- mit Wappen (Joh. Conr. Weiss, Manchester).
+- 1340 Eiserner Pragstempel mit Madonna mit dem Kinde iber den Bayerischen
+- 1339 Grosse S Stampfe （Cliche) Lange 10,Breite 71/2 Cent.
+- Wecken. Lange 23/4,Breite 11/2 Cent.
+- 1342 Munzstempel, Eisen,mit Wappen. Diam.21/2 Cent.
+- 1341 Schwerer Eisenstempel, stark gehohlt, mit zweifach behelmten Wappen. Diam.3 Cent.
+- 1343 Sieben verschiedene Siegelstampfen, meist mit Wappen. Verschiedene Grosse.7 Stuick.
+- 1345 Zwei Buchsen, Augsburger Zirbelnuss mit Stadtsiegel, eins in Silber mit Jahreszahl 1652. Hohe 18 und 21 Cent.
+- 1344 Kleine runde Siegelstampfe mit Wappen haltendem Engel und Umschriff. Diam.3 Cent.
+- 1346 Silberne Siegelstampfe mit Wappen und Umschrift: Karrel Mraczky Zdubee. Berloqueformig mit durchbrochenem Handgriff. Diam. 3 Cent.
+- tribut.Salem. Landcassae.Hohe 3,Breite 21/2 Cent.
+- 1347 Siegelstampfe. Doppeladler mit Brustschild.Umschrift: Sigillum. Con-
+- 1348 Funfzehn verschiedene Siegelstampfen mit einfachen Namenschiffren. Verschiedene Grosse.15 Stick.
+- 1350 Grosse Siegelstampfe.Allegorie. Umschrift:Haec. Seouens.Ita. N. C.P. I. Hunc timens. Lange 51/4, Breite 41/2 Cent.
+- 1349 Drei verschiedene Siegelstampfen mit Wappen. Verschiedene Grosse. 3 Stick.
+- 1351 Stampfe, Eisen. Adler unter Krone. Umschrift:Municipalita di Cavalese. Diam.31/4 Cent.
+- 1352 Runde Siegelstampfe. Wappen.Umschrift: Georg Franz Schwolla. XVII.Jahrh. Diam.3 Cent.Eisengriff.
+- 1353S Siegelstampfe.
+- 1354 Sechs verschiedene neuere Siegelstampfen mit Wappen, dabei ein eng-
+- Wappen mit reicher Helmdecke. Umschrift: Hainrich Joseph Migy. XVIl. Jahrh. Diam. 31/2 Cent. Eisengriff.
+- lisches Berloque.Verschiedene Grosse.6 Stick.
+- 1356Z
+- 1355 Siegelstampfe, Messing. In einem Dreipass:,In Treue fest." Umschrift: Die Ritterschaft zum treuen Hort." Diam.21/2 Cent. Eisengriff.
+- Holzgriffe.
+- Zwei einfache Messing-Pragstempel, einer mit Lilie. Verschiedene Grosse.
+- 1357 Petschaft. Lange 21/4,Breite
+- 1358 Berloque, Eisen, dreiseitig,mit Wappen und gekronter Namenschiffre; der Griff durchbrochen ornamentirt.Ganze Lange 5 Cent.
+- Carneol mit Wappen mit drei Pfeilen. 13/4 Cent.Holzgriff.
+- 1359 Funf verschiedene runde Siegelstampfen mit Wappen und Umschriften. XVI.Jahrh. Diam.zwischen 21/2 und 3 Cent.5 Stuick.
+- Wappen mit reicher Helmdecke. Umschrift: S: Hanns:Underperyer.Der bewegliche Handgriff gravirt mit
+- 1361 Kleine silberne Siegelstampfe mit laufendem Thier und gothischer Minuskel.
+- 1360 Runde silberne Siegelstampfe. Blumen und Jahreszahl 1550.Diam.31/4 Cent.
+- Diam.2 Cent.
+- 1363 Doppelte Siegelstampfe mit grossem nnd kleinem Wappen. Diam. 31/2 und 2 Cent.
+- 1362 Kleine runde Stampfe. Wappen mit Lilien auf Querbalken. Umschrift: Secretum Johanis. d.Predella. Nebst 2 anderen.Diam.21/2 und 3 Cent. 3 Stuick.
+- 1364
+- 1365 Runde Siegelstampfe mit Wappen und Umschrift. Diam. 31/2 Cent.
+- Grosse Stampfe (Cliche) mit reichen Wappen und Ueberschrift John Conr. Weiss. Lange 10,Breite 7 Cent.
+- Eisengriff.
+- 1366
+- 1367 Messing-Siegelstampfe. Schild, zweigetheilt, mit Rad und Hufeisen. Ueber-
+- Grosse runde Siegelstampfe. Wappen mit Lowe. Umschrift:  S. Bernardi. Rolandi Rubei. Diam.5 Cent.
+- schrift: S. ALTORF. Diam.3 Cent. Proflirter Eisengrif.
+- 1369 Drei Stahlstempel, zwei mit Figur. Lange 11 und 13 Cent.
+- 1368 Eisenstempel mit langerem Schaft und grossem Handgriff.
+- 1370 Bronze-Abguss 6
+- 1371 Markenstempel mit dem Bayerischen Wappen. XVI. Jahrh. Lange 111/2, Breite 101/2 Cent.
+- einer gothischen Siegelstampfe mit einer sehr hubschen Darstellung der Geburt Christi. Lange 101/2,Breite 61/2 Cent.
+- 1372 Stampfe, gravirt mit Allegorie. Umschrift: Hunc timens haec se ovens.
+- 1373 Sieben verschiedene Stempel und Pendeloque mit Namenschiffren. Verschiedene Grosse.7 Stick.
+- Lange 5,Breite 41/2 Cent.
+- 1374 Neun Petschafte,Zinn,geschnitten mit Kopfen,figiirlichen Darstellungen, Thieren etc. Verschiedene Grosse.9 Stick. An Holzgrifen.
+- inneueren, theils galvanischen Nachbildungen. 117 Stuck.
+- 1375 117 verschiedene, theils gothische Siegelstampfen,schlecht erhalten,oder Verschiedene Grosse.
+- 1376 Zwei Holzstempel, einer mit Hausmarke. Verschiedene Grosse. 2 Stick.
+- C. Siegel in Wachs, Trockensiegel, Lacksiegel etc., Abgusse in Gips und Schwefel von Munzen und Siegeln,Dactyliotheken etc.
+- 1377 Original-Wachssiegel Ludwigs IV. des Bayers. Diam. 21/4 Cent.
+- 1379 Original-Wachssiegel Friedrichs II. mit Jahreszahl 1472. Diam. 7 Cent. 3 Exemplare.
+
+1378 0riginal-Wachssiegel Ludwigs IV. des Bayers. Diam. 4 Cent. 3 Exemplare.1 in Lederhille.
+
+1380 Original-Wachssiegel Maximilians I. Diam. 61/4 Cent. 2 Exemplare.
+
+1382 Original-Wachssiegel Maximilians I. Diam. 8 Cent.
+
+1381 Original-Wachssiegel Maximilians I. Diam. 51/2 Cent. In Pergamenthuille.
+
+1383 Original-Wachssiegel Karls VI. Diam. 131/2 Cent. In Holzkapsel.
+
+1385 Original-Wachssiegel Leopolds I. Diam. 6 Cent. In Holzkapsel.
+
+1384 Original-Wachssiegel Ferdinands II. Diam. 10 Cent.
+
+1386 0riginal-Wachssiegel Leopolds I. Dian. 12 Cent. Beschadigt.
+
+1388 Original-Wachssiegel Leopolds I. Diam. 121/2 Cent. In Holzkapsel.
+
+1387 Original-Wachssiegel Leopolds I. Diam. 101/2 Cent. Beschadigt.
+
+1389 Grosse Siegelkapsel Karls VIl. Bronze vergoldet, reich gravirt mit Doppeladler; auf dem Brustschild das bayerische Wappen. Diam. 161/2 Cent.
+
+1391 Original-Wachssiegel Franz'1. Diam.131/2 Cent.In Holzkapsel.
+
+1390 Grosse Siegelkapsel Maria Theresias. Diam. 7 Cent. In Holzkapsel. 3 Exemplare.
+
+1392 0riginal-Wachssiegel Franz'I. Diam.131/2Cent. In Holzkapsel.
+
+1394 0riginal-Wachssiegel Franz'I. Diam.71/4 Cent. In Holzkapsel.
+
+1393 Original-Wachssiegel Franz'I. Diam. 131/2 Cent.In Holzkapsel.
+
+1395 0riginal-Wachssiegel Franz'1. Diam. 131/2 Cent. In Holzkapsel.
+
+Diam.15 Cent.
+
+1396 Grosse Siegelkapsel Franz' II., vergoldete Bronze, gravirt mit Doppeladler.
+
+1397
+
+1398 Original-Wachssiegel Franz' I1. Diam. 14 Cent. In Holzkapsel.
+
+Original-Wachssiegel Franz' II. 2 Exp., davon eines beschadigt. Diam.7 Cent. In Holzkapsel. 2 Stick.
+
+Diam.11 Cent.
+
+1399 0Original-Wachssiegel Josephs I.1
+
+Diam. 12 Cent. In Holzkapsel.
+
+1400 Original-Wachssiegel Josephs I. Diam. 71/2 Cent. 2 Exemplare. In Holzkapsel.
+
+1402 0riginal-Wachssiegel Josephs I. Diam.121/2 Cent. Gebrochen.
+
+1401 0riginal-Wachssiegel Josephs I.
+
+1403 Original-Wachssiegel Josephs II.1 Diam. 131/2 Cent. In Holzkapsel.
+
+1404 Original-Wachssiegel Josephs II. Diam. 121/4 Cent. In Holzkapsel.
+- 1405 Zwei grosse Siegelkapseln Carl Theodors mit Wappen und Namenschifre.
+- Diam.161/2 Cent.2 Stick.
+- 1406 Siegelkapsel in vergoldeter Bronze, gravirt mit Wappen und Namensauf
+- schrift und 1746.Diam.8 Cent.
+- 1407 0riginal-Wachssiegel Carl Theodors mit Jahreszahl 1790. Diam. 13 Cent.
+- In versilberter Bronzekapsel, die gravirt mit Monogramm C. T. und mit Doppeladler mit chur-bayerischem Wappen als Brustschild. Nebst zwei kleinern dess.(Werden auf Wunsch vereinzelt.)
+- 1409 Original-Wachssiegel Konigs Maximilian Joseph von Bayern. Diam. 13 Cent. In versilberter und gravirter Bronzekapsel. (Noch ein Exemplar.) Beschadigt. Ebenso.
+- 1408 0riginal-Wachssiegel Carl Theodors mit Jahreszahl 1792. Diam. 13 Cent. Ebenso mit hnlicher Gravirung. Nebst einem ahnlichen.
+- 1410 Original-Wachssiegel Erzherzogs Ferdinand von Oesterreich. Diam. 8 Cent.
+- 1411 Drei furstliche Original-Wachssiegel —Braunschweig,Lineburg, Wurz-
+- burg etc. Nebst einem andern. 4 Stick.
+- 1412 Original-Wachssiegel der Stadt Amberg. Diam. 41/4 Cent. 3 Exemplare.
+- 1defect.
+- 1413 25 0riginal-Wachssiegel von Brixen, meist von verschiedenen Bischofen.
+- 1414 Original-Wachssiegel der Stadt Frankfurt a.M. (Domus imperialis.) Nebst demselben spateren. Diam. 61/2 Cent.
+- 1415 Original-Wachssiegel der medicinischen und juristischen Facultaten der Universitat Innsbruck. Diam. 51/2 Cent. Ersteres in gravirter Bronzekapsel, letzteres mit Jahreszahl 1677.
+- 1416 0riginal-Wachssiegel der Stadt Kempten. Diam. 33/4 Cent.
+- 1417 0riginal-Wachssiegel der Stadt Lauf. Diam. 43/4 Cent.
+- 1418 Fuinf Mainzer Original-Wachssiegel. 1 von Erzbischof Wolfgang.
+- 1419 Funf 0riginal-Wachssiegel der Stadt Munchen.1 mit Jahreszahl 1418.2 ladirt.
+- 1420 38 0riginal-Wachssiegel von Nurnberg aus verschiedenen Jahrhunderten.
+- 1422 31 meist fruhe Original-Wachssiegel von Stadten, darunter Leonberg, Gersheim,Ingolstadt,Schweinitz etc. Interessant.
+- 1421 Zwei Original-Wachssiegel der Stadt Rotenburg.1 Diam.33/4Cent.1in Holzkapsel.
+- 1423 0riginal-Wachssiegel der Stadt Speyer. Diam. 91/2 Cent.
+- 1424Drei unbestimmte Original-Wachssiegel von Stadten.1 (Richen?).Interessante Sticke.
+- 1mit Rixene
+- 1425 Eine Sammlung von 77 Original-Wachssiegeln von Stadten. Interessante Sammlung, darunter von Muinchen (40), Augsburg (2), Botzen (3), Danzig, Dilingen （Universitat),Hall,Ingolstadt (7), Innsbruck,Isny,Kitzingen, Neuburg,Peisching,Regensburg (3), Sterzing (2),Ulm,Unna,Villingen ete.
+- In Holzkapseln.
+- 1426 Siegel einer St. Michaels-Bruderschaft. In zierlich gedrechselter Elfenbein-
+- kapsel. Diam. der Kapsel 51/2 Cent.
+- 1427 Siegelkapsel, gepresst mit S. Florian und Inschrift. Diam. 8 Cent.
+- 1429 Zehn verschiedene Original-Gerichts- und Zunftsiegel. XVI. Jahrh.
+- 1430 13 Original-Wachssiegel osterreichischer Erzherzoge. (Ferdinand, Carl,
+- Max etc.)
+- 1431 15 0riginal-Wachssiegel bayerischer Herzoge. Theils mit Jahreszahlen
+- 1470 und 1516 und noch frihere.
+- 1432 20 theils verschiedene Original-Wachssiegel der Abtei Seeligenthal. In Blechkapseln.
+- 1433 28 0riginal-Wachssiegel von Gerichten,Verwaltungen,kirchlichen Bruderschaften etc. In Holzkapseln.
+- 1434 48 fruhe Original-Wachssiegel von Klostern, Stiften und Kirchen, Bischofen etc., darunter Chiemsee,Frauenchiemsee,Domcapitel zu Halberstadt 1324,Stift Konigslutter 1312,Lucellen,Metz,Munchen,Nurnberg,
+- 1435 69 meist verschiedene Original-Wachssiegel von Konigen, Herzogen,Kurfirsten und anderen furstlichen Personlichkeiten.Sehr interessante Samm-
+- Salzburg, Unterschonfeld ete. Hochinteressante Sammlung.
+- lung.In Holzkapseln.
+- 1436 Eine Sammlung von 80 Original-Wachssiegeln von Klostern, Bischofen, Probsten etc., darunter Siegel aus Bamberg(10),Eichstadt (2),Gries (2), Linz a.D., Luzern, Mulheim, Salem (2), Salzburg (6), Trident, Trier, Wiltingen, Winterthur, Wirzburg etc. Interessante Sammlung. In Holzund Blechkapseln.
+- Eine Sammlung von 2oo Original-Wachssiegeln von Adeligen und Geistlichen sowie Stadten (17).In grossem buchformigem Holzkasten mit vier
+- 1438 Eine Sammlung von uiber 420 theils sehr fruhen Original-Wachssiegeln in Wachshullen von Grafen,Freiherren,Adeligen,Burgerlichen, Schoffen etc. XIII.XVII. Jahrh. Sehr interessante Sammlung von meist guter Erhaltung. (Wird auf Wunsch in Loosen versteigert.)
+- 1437 Schubladen, die vielfach eingetheilt in kleine Gefacher.
+- 1439 Eine grosse Sammlung von uber 1000 Original-Wachssiegeln in Holzkapseln von Grafen,Freiherren,Adeligen,Birgerlichen, Schoffen etc. Hochinteressante Sammlung von durchweg guter Erhaltung der einzelnen Sticke.
+- 1440 Ueber 200 Nachbildungen in Wachs. von f frihen Original-Siegeln von
+- Klostern,Stadten,Adeligen ete.
+- 1441 830 Trockensiegel und Druckstempel, grosstentheils aufgezogen und viele
+- mit Namensbeischriften.
+- 1442 Grosse Sammlung von iber 6000 Lacksiegeln von Klostern, Stadten, Corporationen ete., von Fursten,Adeligen, Geistlichen und anderen Personen jeder Stande. Dabei viele Lackabdricke alter Siegelstampfen etc. mit vielen Namensbeischriften. Hochinteressante Sammlung.
+- 1443 Sammlung von uber 1700 Lacksiegeln, geordnet und in 32 Mappen eingeklebt,enthaltend:Fursten (256), Grafen (425),Freiherren (460), Adelige (376),Universitaten,Bisthumer, Abteien ete. (138), deutsche Stadte (58). Mit Namensbeischriften. Interessante reichhaltige Sammlung.
+- 1444 Sammlung von 1222 rothen und schwarzen Lacksiegeln, geordnet und aufgezogen.
+- 1445 Sammlung von 1014 Lacksiegeln, geordnet, aufgezogen,nummerirt und
+- theilweise mit Namensbeischriften.
+- 1446 Ueber 700 Couverte mit aufgedrickten Siegeln, dabei viele von regierenden Firsten.
+- 1447 Sammlung von 525 Lacksiegeln, geordnet, aufgezogen und mit Namensbeischriften.
+- 1448 Eine Sammlung von 422 Lacksiegeln, geordnet und mit Namensbeischriften.
+- In einen Halblederband sauber eingeklebt.
+- 1449 190 Lacksiegel von Privatpersonen und Adeligen, vorziglich geschnitten. Aufgezogen in drei theils goldgepresste Lederetuis.
+- 1450 165 verschiedene Lacksiegel von vorziglichem minutiosen Schnitt. Einige in Holzkapseln und Etuis.
+- 1451 100 zum grossen Theil verschiedene Lacksiegel der Familie Mayer von
+- Mayerfels von meist vorziglichem Schnitt.
+- 1452 50 verschiedene Blei-Abguisse von Siegeln deutscher Kaiser etc.
+- 1453 100 theils grossere Gipspasten von Siegeln von Klostern, Stadten und
+- Firsten.
+- 1454 34 Gipspasten von Siegeln deutscher Kaiser (18) und Firsten. In Pappschachteln.
+- 1455 Grosser Blechkasten mit zahlreichen Abguissen von Minzen und Medaillen
+- in Gips, Metall, Thon ete. Hohe 16, Lange 40, Breite 29 Cent.
+- 1456 226 Staniolabdricke von 113 Thalern und Medaillen. Aufgezogen auf 9 Cartons.
+- 1457 Sammlung von 162 grosseren und kleineren russischen Medaillen in chronologischer Ordnung in scharf ausgefihrten Avers- und Reversdarstellungen
+- Folio-Lederkasten. Einzelne Sticke beschadigt.
+- 1458 Sammlung von Reformatorenmedaillen in Gipsabdrucken. 42 Stick. In
+- buchformiger Kapsel.
+- 1459 Ueber 220 Gipsabgusse von Munzen und Medaillen.
+- aufgezogen. Einige beschadigt.
+- 1461 Dactyliothek mit 256 Abdricken in Elfenbeinmasse von Papstmedaillen.
+- In drei buchformigen Holzkasten.
+- 1462 Dactyliothek, 22 Gipsabgisse, grosse Gemmen mit Gelehrtenkopfen.In buchformiger Kapsel.
+- 1463 Drei Biscuitplattchen mit den Reliefbuisten dreier romischer Imperatoren. Diam.61/2 Cent.
+- 1464 26 Gips- und Thonpasten mit verschiedenartigen Darstellungen,Kopfen ete.
+- 1465 Dactyliothek,bestehend aus 110 Gemmenabdricken mit mythologischen
+- Kopfen und Figuren. In buchformiger Kapsel.
+- 1466 Sammlung von 140 Schwefelabgussen von romischen Minzen. In mit Bordiren ete. goldgepresstem Maroquinetui. Vier beschadigt.
+- 1467 Eine Sammlung von 360 Pasten in Elfenbein- und Thonmasse von Siegeln deutscherund. fremdlandischer Kaiser, Konige,Adeligen, Kloster, Stadte ete. Sehr interessante Sammlung.
+
+## Munzen und Medaillen.
+
+- 1468 Amerika. Vereinigte Staaten. Halber Dollar,1858.
+- 1469 Baden. Leopold. Ausbeute-Gulden, 1852. Sch. 5520.Vorzigl. erhalten.
+- 1470 Bayern. Maximilian I. Grosse goldene Schaumunze zu 5 Ducaten, 1640. Der Herzog stehend, in der Rechten den Commandostab. Rv. Stadt-Ansicht
+- von Minchen, dariber Madonna mit dem Kinde. Gehenk.
+- 1471 Max Emanuel. Drei Dreissiger, 1692 und 1719. 3 Stick.
+- 1473 一 Maxim. Joseph. Halber Marien-Thaler, 1775,mit Brustb.
+- 1472 Zwei Dreissiger. 2 Stuick.
+- 1474Carl Theodor. Neun versch. kleine Silberminzen,Zwanziger, Groschen etc. 9 Stuick.
+- 1475
+- 1476
+- Pramien-Gulden, o.J. Lohn des Fleisses. Gut erhalten.
+- Max. Joseph I. Zwanziger, 1825.
+- 1477 Ludwig I. Wurzburger Goldgulden,o.J.,mit Brustb. und Stadt-An-
+- Bern. Halber Thaler, 1796. Gekr. Schild mit dem Baren. Rv. stehender
+- sicht von Wirzburg. Stgl.
+- 1478 Sehweizer. C. Sch.6330.
+- 1479 Bohmen. Maria Theresia. Halber Thaler, 1754,mit Brustb.
+- 1480 Brandenburg-Ansbach. Alexander. Dreissiger, 1763,mit Brustb.
+- 1481 Braunschweig. Rudolf August und Anton Ulrich. Gulden, 1695. Pferd und Werthbez.Sch. 6952.
+- 1482
+- 1483 Gulden,1764,mit Brustb.und Pferd. Sch. 7065.
+- Karl 1. Gulden,1764,mit Brustb.und Pferd. Sch.7065.
+- 1484 Deutscher Kaiser. Rudolph I1. Doppelthaler,1604. Brustb. n.r. Rv.
+- 1485 Leopold I. Tyroler Doppelthaler,o. J. Brustb. n. r. Rv. Der gekr. Tyroler Adler in einem Blatterkranze. Sch. 362. Vorz. schon.
+- 1486
+- Wappen. Sch. 176.
+- Halber Thaler,1696,mit Brustb.
+- 1487 Halber Thaler,1700,mit Brustb.
+- 1488
+- 1489 Maria Theresia. Drei verschiedene halbe Thaler, 1762,1768und 1772, mit Brustb.und Wappen.3 Stick.
+- Zwei Funfzehner und zwei andere. 4Stiick.
+- 1490 Deutscher 0rden.Maximilian von 0esterreich. 11/4 Thaler,1612.2 Exem-
+- plare.
+- mit 15 Wappenschildern. Sch. 4199. Zepern. VII, 70. Sehr schon.
+- 1491 Eichstadt.Sedisvacanz,1790. Doppelthaler.Leerer Thronstuhl. Rv.Eiche
+
+1492 —Derselbe Doppelthaler. Ebenso schon.
+
+- 1493 Frankreich.Ludwig XIV.Halber Thaler, 1650,mit Brustb.und Lilienschild.
+- 1494 Griechische Munze. Thasos, Insel. Grosse Silberminze. Av. Kopf d. jugendlich. Bacchus. Rv. Herkules mit der Keule. Wh.1649 f. Nebst einem anderen.2 Stick.
+- 1495 Hannover. Georg IV. Gulden mit Pferd und Werthbez. Sch. 1499.
+- 1496 Hannover. Wilhelm IV. Drei Gulden, 1834,mit Pferd und Werthbez. 2 versch.St. Sch.1502 u.1503.3 Stuck.
+- 1497 Hessen-Cassel. Wilhelm IX. Halber Thaler, 1789, mit Brustb. und Wappen.
+- 1498 Mailand.Maria Theresia.
+- Halber Thaler,1780,mit Brustb.
+- 1499— Cis-alpinische Republik 1797—1802. 30-Soldi-Stick v.J. IX (1801) auf den Frieden v. Luneville u. d. Forum Bonapartes in Mailand. Sch. C.5896.
+- 1500 Mecklenburg-Schwerin. Christian Ludwig. Gulden (2/3), 1676,mit Brustb. u.Wappen.
+- 1501 Nurnberg. Ducat, auf den Beginn des XVIlI. Jahrh. Die drei Stadt wappen. Rv.Lamm Gottes auf der Weltkugel. Kohl. 3035.
+- 1502 Schraubthaler. Als Einlage Pergament-Miniatur mit d. hl. Magdalena.
+- 1503 0esterreich, Kaiserreich. Franz I. Halber Thaler,1822, mit Brustb.
+- Sch.538.
+- Gulden,1824.
+- 1504
+- 1505 Ferdinand 1. Gulden,1847,mit Brustb.
+- 1607
+- 1506 0esterreich,Erzherzogthum. Maximilian-Thaler,1618,mit Brustbild und Wappen. Mad. 3411. Zieml. g.erh. Gehenk.
+- 1508 Tyroler Thaler, 1621,mit Brustb. u. Wappen. Zu Mad. 3867.
+- Leopold. Thaler,1620,f. Murbach u. Liders. Brustb. u. Wappen. Zu Mad. 1384. Schlecht erh.
+- 1509 Doppel-Thaler, o. J., auf seine Vermahlung mit Claudia v.Medicis.
+- Beider Brustbilder. Rv. der gekr. Adler. (Mad. 1386.)
+- 1510-
+- 1511 Olmitz. Wolfgang Graf von Schrattembach. Thaler,1716, mit Brustb.
+- Tyroler Doppel-Thaler,o. J.,auf seine Vermahlung mit Claudia v.Medicis. Beider Brustbilder. Rv. der gekronte Adler. (Mad. 1386.) Derselbe Doppel-Thaler.Vergoldet u.mit Oehr.
+- und Wappen. Sch.3658.Gehenk.
+- 1512 Papste. Benedict XIV. Halber Ducat, 1740. Wappen u. d. hl. Petrus.
+- 1513 Pius Ix. Zwei kleine Silberminzen u. eine andere. 3 Stick.
+- 1514 Zehn-Lire-Stick,1867,mit Brustb. Stgl.
+- 1516 Regensburg (Stadt). Thaler, 1754, mit Stadtansicht und Brustb. Franz' I. Mad.5104.
+- 1515 Regensburg. Bisthum. Karl von Dalberg. Gulden. Abgeschl.
+- 1517 - Goldene Schau-Medaille zu finf Ducaten. Tali Sub. Custodia. Stadtan-
+- sicht. Rv. Doppeladler und Titel Josephs II. Sehr schones Stick. Gel.
+- 1518 Sachsen. Christian II., Joh. Georg und August. Thaler, 1595, mit drei Brustb.u. Wappen. Zu Mad. 517.Gehenk.
+- 1519
+- Johann Philipp und seine Bruder. Thaler, 1624. Av. eins, Rv. drei Brustbilder.Mad. 1465.Gehenk.
+- 1520 Friedrich August III. Gulden (2/s), 1771, mit Brustb.u.zwei Wappen.
+- 1521 Gulden (2/3),1797,mit Brustb.u. Wappen.
+- 1522 Salzburg. Paris, Graf von Lodron. Klippe vom Ortsstempel, 1652, mit
+- Madonna u. d.Hlgen.ib. Wappen.
+- 1523 Guidobald,Graf von Thun. Viertel-Thaler,1663,mit Wappen u. d.Hlgen.
+- 1524 Thaler, 1664. Madonna. Rv. der Heilige. Sch.3850. Vorz. erh.
+- 1525
+- 1526 1 Johann Ernst, Graf von Thun. Klippe des Viertel-Thalers, 1687, mit d.
+- 一 Max Gandolf von Khuenburg. Viertel-Thaler  Klippe, 1684. Wappen u. d.Hlge.Gel.
+- Hlgen.und Wappen.Gei.
+- Franz Anton, Furst von Harrach. Viertel-Ducat, 1709, mit d. Hlgen.
+- 1527 Funfzehner,1694, mit Wappen u. d. Hlgen.
+- 1528 u.d.Wappen.
+- 1530 Sigismund von Schrattembach. Halber Thaler, 177O, mit Brustb. u. Wappen. Sch.3913.
+- 1529 Viertel-Ducat, 1719.Der Hlge. u. Wappen.
+- 1531 — Hieronymus, Furst von Colloredo. Gold-Abschlag eines Zwanzigers,
+- 1777, mit Brustb. und Wappen. Gehenk. Gew. 6,8 Gr.
+- 1532 Zwanziger, 1802.
+- 1533 Spanien. Carl II1. Halber Gold-Piaster, 1786,mit Brustb. u. Wappen.
+- 1535 Stralsund. D.L. Kuhl. Oberburgermeister. Medaille auf s. Tod. 1837 Brustb.Rv. Wappen. Schoen.Gew. 45 Gr.
+- 1536 Turkei. Vier versch. grosse und eine eckige tirkische Silberminze. 5 Stuick.
+- 1537U Ungarn. Math. Corvinus. Ducat. Vierfeld. Wappen u. Heiliger zwischen
+- N.u. zwei Berghammern. Zu Kohl. 677. Gel.
+- Leopold I,Thaler, 1693,mit Brustb.u. Wappen. Sch. 2525. Sehr
+- 1538 schon.Gehenk.
+- 1539 1/4 Thaler,1698,mit Brustb.
+- 1540
+- Halber Thaler,1703,mit Brustb. u. Wappen. Gel.
+- 1541 Die Malcontenten. Gulden,1706, mit Wappen u.Marienbild. Sch.2536.
+- 1542
+- Maria Theresia. Thaler,1743,mit Brustb.u.Madonna. Sch.2555.Gel.
+- 1543
+- Halber Thaler,1755,mit Brustb.u.Madonna.
+- 1544 Halber Thaler, 1779,mit Madonna.
+- 1546 Venedig. Andreas Gritti, 1523-1538. Lira; gew6hnl. Typus. C. Sch. 6054.
+- 1547
+- 1545 Joseph II. Halber Muttergottes-Thaler, 1782.
+- Nebst 2 and.3 Stick.
+- Franz Contarini,162325.Scudo mit Lilienkreuz u.Wappen. C. Sch.6075.
+- 1549 Zurich. Viertel-Ducat, 1722, mit Lowe u. Schrift. Zu Kohl. 2672.
+- 1548 1 Carl Ruzini. Osella nach gew. Typus. G. erh.
+- 1550 Sieben versch. kleinere Silbermunzen. 7 Stuck.
+- 1551 Drei neuere Silbermunzen:Victoria v.Engl., Pius IX.und Ruminien. 3 Stuick.
+- 1552 Georgsthaler. Av. S. Georg, den Drachen erlegend. Rv. Christus im Schiffe. Gehenkelt. Zweifelhaft.
+- 1553 Georgsthaler. Ebenso.
+- 1555 Zweidrittel-Georgsthaler. Ebenso.
+- 1554 Zweidrittel-Georgsthaler. Ebenso.
+- 1556 Zweidrittel-Georgsthaler. Ebenso. Gehenkelt.
+- 1557 Eindrittel-Georgsthaler.Ebenso. Gehenkelt.
+- 1558 Kleine klippenformige Medaille, 1556, mit Auferstehung Christi und Lamm
+- Darstellungen des Calvarienberges.
+- 1560 Medaille, 1635. Av. Christus mit der Siegesfahne. Rv. David und Goliath. Deutsche Umschriften.Gew. 20 Gr.Verg.
+- Gottes.Vergoldet und mit Oehr.
+- 1559 Breite fache Medaille mit den XVI. Jahrh. Lat. Umschr.Verg.u.gehenkelt. Gew.2O Gr.
+- 1561 Tauf-Medaille.Av.Taufdarstellung. Rv.die Anbetung der Hirten. Gew.23 Gr.
+- 1562 Thalerformige Medaille,auf Ueberschwemmung und Wassersnoth. Gew.30 Gr.
+- 1563 Jeton,auf die Theuerung 1816 und 1817. Geh.
+- 1565 Die Durand'sche Serie von Bronzemedaillen auf berihmte Personlichkeiten, schon geschnitten von den verschiedensten Stempelschneidern, aus 56 Stick
+- 1564 Eine Sammlung von 268 Kupfermunzen,romische Muinzen,Jeton's etc. In Blechkasten.
+- bestehend.In Callico-Etui.
+- 1566 Siebzehn Munzen und Medaillen, theils vergoldet. 17 Stick.
+- 1567 Vierzehn verschiedene Medaillen in Bronze und Zinn, dabei Abgisse von Kunstmedaillen etc.14 Stick.
+- 1568 Vierzehn Kriegsdenkminzen etc. von 1814,1849, 1866 und 1870. 14 Stick.
+- 1569 Acht verschiedene religiose Medaillen und Muttergottes-Pfennige.
+- 1570 Sechs verschiedene Kriegsdenkminzen von Napoleon I., Wilhelm I. ete.
+- 1571 Acht verschiedene sogen. bayerische Pfennige. 8 Stick.
+- 1572 Zwei Munzen, gefasst und mit Oehr.
+- 1573 Eine Sammlung von 50 religiosen Medaillen etc. etc. 50 Stuick.
+
+## Arbeiten in Holz.
+
+- 1574 Grosse Grabtafel mit der iber Lowen stehenden polychromirten Standfigur eines geharnischten Ritters. Nachbildung des Grabsteins aus dem XIV. Jahrh. in der alten Capelle des Schlosses Kronenberg im Taunus. Holz. Hohe 190,Breite 80 Cent.
+- 1575 Grosses Wappenschild mit doppelt behelmtem quadrirten Wappen auf einer Waffentrophae; in einer Umrahmung mit Riemenwerk und mit zwei aus Fruchtbouquets erwachsenden Engelskopfen; Helm als oberer Abschluss. Mit der originalen Polychromirung und Vergoldung und Umschrift. Gutes Stick, mit Jahreszahl 1665.Ganze Hohe 170 Cent.
+- 1576 Hohes Wappen auf reich verzweigter, tiefgeschnittener Helmdecke. Die Helmzier mit einem die Schwingen schlagenden Greife.l Das Mittelschild mit heraldischem Lowen mit geschachtem Brustschild, das mit der Inschrift: TILLI-MDCL.Interessantes Stick.Hohe 150,Breite 125 Cent.
+- 1577 Grosses Grabschild des Adam Schmidel von Seebergk mit reicher Helm-
+- zier und Decke. Das Wappen mit drei silbernen Kugeln auf rothem Grunde. Seitlich zwei kleine gemalte Wappenschildchen der Schmidel" und ,Ruppart". Unten Cartouche mit Grabschrift und Jahreszahl 1641. Decoratives Stick.Polychromirt und vergoldet. Ganze Hohe 149 Cent.
+- 1578 Grosses rundes Grabschild mit reichem Wappen. Mohr auf Mauerzinne. Die Helmzier iberragt von der Halbfigur eines Mohren. Das Ganze auf prichtiger Helmdecke und mit der Umschrift:A.Dni. MDCI. Samstags, 3. Martij, starb der Ernvest. un. weis. Herr Sebastian Morhart, Birgermar. alhie. D.G.G. V. B. S.W. Ame". Reiches Stick mit neuer Polychromirung und Vergoldung. Diam.135 Cent.
+- 1579 Grosses rundes Grabschild, bemalt mit zwei heraldischen Lowen. Die Umschrift in vergoldeten gothischen Minuskeln mit Jahreszahl 1518. Mit originaler Polychromirung und Vergoldung, die aber ladirt. Gutes Stick. Diam. 133 Cent.
+- 1580 Grosses quadrirtes Wappen, vorzuglich geschnitzt mit Madonna als Bekronung und funffacher Helmzier. In reicher,in Schneckenwerk tiefgeschnittener Umrahmung. Schones Stick,XVI.Jahrh. Neu polychromirt und vergoldet. Hohe 131,Breite 125 Cent.
+- 1581 Grosse Platte,oben verjungend und abgerundet, mit der in sehr hohem Relief geschnittenen Auferstehung Christi.Unten die Wachter. OriginalPolychromirung und Vergoldung. XVIl. Jahrh. Hohe 124, Breite 73 Cent.
+- Ohne Polychromirung. XVIl. Jahrh. Hohe 120,Breite 96 Cent. Auf Holzplatte.und ladirt.
+- 1582 Chur-bayerisches Wappen, doppelt behelmt und vom Churhut iberragt; auf tiefgeschnittener Helmdecke.
+- 1583 Grosses rundes Grabschild mit springendem Einhorn und vier wagerechten schwarzen und silbernen Balken als Wappen. Reiche Helmzier mit Einhorn als Abschluss. Auf durchbrochen geschnitzter, prachtiger Helmdecke mit der Umschrift:Ao. dmi. 1552 starb der Edel und vost.Hyronemus Roth v.Schreckenstein,dem got genad". Sehr schones decoratives Stick mit reicher Polychromirung und Vergoldung. Diam.114 Cent.
+- und Helmzier mit stehendem Raben.Die Helmdecke gut geschnitzt.Der Untergrund in von Thierkopfen belebter Teppichmusterung. Schones Decorationsstick mit Umschrift und Jahreszahl 1423; neu polychromirt und vergoldet.Diam. 111 Cent.
+- 1584 Grosses Grabschild des fromm- und edlen Herrn Martin Rabenstein;Wappen-
+- 1585 Grosses rundes Wappenschild des Erzkammerers des Hochstifts Kempter, des Reichsfreiherrn von und zu Werdenstein.Das Wappen — rothe und weisse geschobene Balken —mit Helmzier, von sitzendem Kaninchen uberragt,auf reich geasteter Helmdecke.Der Untergrund vergoldet und ausgemalt mit Laubranken und Thierfiguren in Schwarz. Vorziiglich polychromirt und vergoldet. XVI. Jahrh. Diam. 111 Cent.
+- Laubwerk-Umrahmung.XVII.Jahrh.Vergoldet. Hohe110,Breite 87 Cent.
+- 1586 Grosses doppeltbehelmtes Wappen in reicher durchbrochen geschnitzter
+- 1587 Stammbaumtafel,en relief geschnitzt mit weitverzweigtem Baum etc.
+- 1588 Grosses rundes Schild,umrahint von mit Schnecken- und Rollenwerk tiefgeschnitztem Fries. Das Mittelfeld nimmt ein dreifaches, von zwei, eine Krone haltenden Lowen fankirtes, mit heraldischen Lowen und Doppeladier geschnitztes Wappen ein. Interessantes Schild. XVI. Jahrh. Diam. 110 Cent.
+- Lange 110,Breite 55 Cent.
+- 1589 Grosses rundes Schild mit sechsfeldigem Wappen und doppelter Helmzier
+- auf geschnitzter Helmdecke und der Umschrift:Wappen des hochedlen
+- und festen Herrn von Wolckenstein zu Vilandres und Pradeli. Neu polychromirt und vergoldet. Diam.106 Cent.
+- Breite 50 Cent.
+- 1590 Wappenschild, en relief geschnitzt mit Einhorn und Umrahmung. Lange 100,
+- 1591 Schild, ahnlich geschnitzt mit Doppeladler. Gleiche Grosse.
+- von vier Fruchtbouquets durchsetzter Umrahmung. Diam. 1o0 Cent.
+- 1592 Rundes Schild, bemalt mit dem doppeltbehelmtem,vielfeldigem Wappen des Freiherrn zu Wolckenstein und Rodenegg. Auf reicher Helmdecke, auf der vier Wappen. Mit Umschrift und Jahreszahl 1620. In geschnitzter,
+- 1593 Rundes Schild, ahnlich und Gegenstick mit dem Wappen des Freiherrn zu.Goldrain,Umschrift und Jahreszahl 1620.Schone Sticke.Gleiche
+- 1594 Grosses rundes Wappenschild des hochgeborenen Sauerzapfen zu Burggrab mit reichbehelmten Wappen — zwei Morgensterne auf blauem Grunde auf geschnitzter Helmdecke. XVI. Jahrh. Mit neuer Polychromirung und Vergoldung. Diam.97 Cent.
+- Grosse.
+- 1595 Achteckiges Grabschild mit der Halbfigur eines Greises auf dem Wappen und als Helmzier. Auf prachtiger durchbrochen geschnitzter Helmdecke. Reich polychromirt und vergoldet und mit der reliefirten Umschrift:Anno Domini 1527 Jar Am 10.tag May Leopold Gossl dem Gott gnedig s Schones decoratives Sehild. Hohe 93,Breite 91 Cent.
+- dem gekronten Doppeladler, das spanische Wappen als Brustschild. XVI1I. Jahrh.Hohe 93,Breite 77 Cent.
+- 1596 Grosse viereckige Tafel, oberhalb geschweift, in sehr hohem Relief, mit
+- 1597 Das Fuggersche Wappen, zweifach behelmt, mit reicher, von zwei Lowen gehaltener Helmdecke,XVII. Jahrh. Neu polychromirt und vergoldet.
+- 1598 Das gekronte bayerische Wappen, von zwei Lowen gehalten, polychromirt und vergoldet. XVII.Jahrh.Hohe 87,Breite 100 Cent.
+- Hohe 86,Breite 75 Cent.
+- Umrahmung. Hohe 84,Breite 65 Cent.
+- 1601 Grosses Wappenschild mit dem chur-trierischen Wappen unter Hermelinmantel mit Churhut als Bekronung.Massiv geschnitzt, polychromirt und vergoldet.Hohe 83,Breite 74 Cent.
+- 1600 Viereckige Tafel mit einem zweifach behelmten Wappen in Palmkranz,en relief geschnitzt und polychromirt. Hohe 84, Breite 75 Cent.
+- 1602 Grosses Schild init Rollenwerk und oberem, fast vollrund geschnitzten Engelskopf, mit vielfeldigem Wappen. XVII. Jahrh. Vergoldet. Hohe 8O,
+- Breite 55 Cent.
+- 1603 Gekrontes Wappenschild einer gefuirsteten Abtei, mit Inful und Schwert. Das Wappen — quadrirt mit Mittelschild —letzteres 3 Zacken mit Lowen, in tiefgeschnittener Laubkranzumrahmung. Hohe 8O,Breite 59 Cent.
+- 1605 Schild mit aufgemaltem, vielfeldigem Wappen in reichem, durchbrochen geschnitztem,oben in vollrundem, gefigeltem Engelskopf abschliessenden Rahmen, der polychromirt und vergoldet. Hohe 78, Breite 64 Cent.
+- 1604 Grosses Sehild, reich geschnitzt mit Rollen- und Schneckenwerk, aufgemaltes Wappen mit Lamm. XVII. Jahrh. Hohe 79, Breite 56 Cent.
+- 1606 Grosses gekrontes Wappen in reich geschnitzter und vergoldeter Umrahmung.
+- 1607 Abteiwappen, gut geschnitzt, polychromirt und vergoldet. XVIl. Jahrh. Hohe 78,Breite 45 Cent.
+- Hohe 78, Breite 42 Cent.
+- 1608 Grosses Schild in Rollenwerkumrahmung, mit dem Ebnerschen Wappen, darunter die kleineren Wappenschilder der Nirnberger Patrizier Tucher,
+- Nitzel und Volckamer. XVII.Jahrh., polychromirt und vergoldet.Hohe 78,Breite 38 Cent.
+- 1609 Grosses Schild, von zwei Fullhornern umschlossen, oben in fast vollrundem
+- Engelskopf abschliessend, polychromirt und vergoldet, aufgemaltes Wappen
+- mit zwei gegen einander gekehrten Lowen. Hohe 7O, Breite 56 Cent.
+- 1610 Wappenschild mit springendem Einhorn in reichem Rahmen mit Rollen-
+- werk und Ornamentschnecken.XVII. Jahrh. Hohe 70,Breite 58 Cent.
+- Sechseckige Tafel, in Hochrelief geschnitzt, mit zweifach behelmtem Wappen
+- 1611 mit reicher Helmdecke. Hohe 77,Breite 67 Cent.
+- 1612 Grosses Schild mit aufrecht stehendem Lowen in reichem Laubwerk, polychromirt und vergoldet.XVI.Jahrh. Hohe 75,Breite 65 Cent.
+- 1613 Wappenschild, dreifach behelmt, auf reich geschnitzter,durchbrochener Helmdecke und unterer Inschriftscartouche, die mit Jahreszahl 1682. Original-Polychromirung und Vergoldung. Hohe 75,Breite 65 Cent.
+- Mitte zeigt ein zweifach behelmtes， Eisenhiten und Mittelschild mit Doppeladler. Hohe 74 Cent.
+- 1614 Schild mit reichem Rollenwerk, iberragt von vollrundem Engelskopf, die quadrirtes Wappen mit Krone und
+- 1615 Bischofiches Wappenschild mit en relief geschnittenem, vielfeldigem Wappen inkranzartiger Umrahmung,von der Mitra iberragt.XVII. Jahrh. Hohe 73,Breite 52 Cent.
+- 1616 Wappen mit sitzendem Lowen auf durchbrochen geschnitzter Helmdecke und mit Helmzier. Polychromirt, XVII. Jahrh. Hohe 71,Breite 49 Cent.
+- 1617 Doppelbehelmtes Wappen mit Lilie, Turnierlanze und Thurm in Rollen-
+- umrahmung. Anfang XVII. Jahrh. Hohe 68, Breite 41 Cent.
+- und schoner Helmdecke.Versilbert und vergoidet. Hohe 68,Breite 44 Cent.
+- Copie des Grabsteines des Hans von Stain auf Egglingen, d. d. 1142,en
+- 1619 relief geschnitzt und polychromirt. Hohe 68,Breite 25 Cent.
+- 1620 Grosses Wappenschild mit Arm- und tief unterschnittener Helmdecke. Hohe 67,Breite 55 Cent.
+- 1621 Grosses Schiffswappen mit oberer vorstehender Krone. Ein Mascaron hilt in verzweigter Umrahmung das Wappenschild silberne Spitze auf blauem Grunde. Unten Mascaron. Polychromirt und vergoldet. XVI. Jahrh. Hohe 67,Breite 47 Cent.
+- 1622 Grosses Wappen mit Adler und Querbalken, dreifach behelmt, die Helme mit durchbrochenen Visiren, reiche Helmdecke mit tief unterschnittenen Laubranken. XVIl. Jahrh. Mit der alten Polychromirung und Vergoldung. Hohe 66,Breite 54 Cent.
+- 1623 Das doppeltbehelmte Zwickher'sche Wappen mit reicher vortretender, theils tief unterschnittener Helmdecke.Polychromirt und vergoldet. XVII. Jahrh.Hohe 66,Breite 84 Cent.
+- 1624 Grosses Wappen mit Thurm, auf reicher Helmdecke und Thurm, als Helmzier, gut geschnitzt und polychromirt. XVI. Jahrh. Hohe 66, Breite 49Cent.
+- 1625 Ovales Schild mit dem Wappen der Nurnberger Familie Detzel in reichem
+- Rahmen,in Hochrelief geschnitzt.Hohe 65,Breite 47 Cent.
+- 1626 Wappen, zweifach behelmt, Affe mit Spiegel als Helmzier und mit reicher,
+- durchbrochen geschnitzter Helmdecke.Hohe 61,Breite 47 Cent.
+- 1627 Das Wappen der Familie von Staufenberg, von hohem Helm mit durch-
+- brochenem Visir iberragt. Polychromirt. Hohe 60, Breite 27 Cent.
+- die aus
+- 1628 Rundes Wappenschild mit drei Rauten,in einer Umrahmung,
+- vier Fullhornern mit Frichten gebildet ist. Hohe 6O, Breite 57 Cent.
+- 1629 Wappenschild,von vier Fuillhornern umrahmt. XVII. Jahrh. Lange 60, Breite 54 Cent.
+- 1630 Wappenschild in ahnlicher Fassung mit Schragbalken und Lilie. Lange 60,Breite 54 Cent.
+- 1631 Wappenschild mit grossem Helm,mit durchbrochenem Visir, in reichem, durchbrochen geschnittenem Laubwerk. Lange 57,Breite 51 Cent.
+- 1632 Die Wappen der Familien Wechsler und Scheperl, en relief geschnitzt, polychromirt und vergoldet, auf viereckiger Tafel, datirt 1737. Hohe 57, Breite 45 Cent.
+- 1633 Zopf-Cartouchenschild mit Engelskopf als oberer Abschluss, reich geschnitzt,
+- polychromirt und vergoldet. Mit Inschrift. Hohe 56,Breite 54 Cent.
+- 1634 Viereckige Tafel, gut geschnitzt mit dem reliefirten Doppeladler mit Brustschild, auf dem Monogramm M. B. T. XVII. Jahrh. Hohe und Breite 54Cent.
+- 1635 Rococo-Wappenschild auf reicher vergoldeter Helmdecke mit dem Wappen
+- des deutschen Ordens —quadrirtes Wappen iber Maltheserkreuz - und reicher Helmzier. Polychromirt und vergoldet. XVIl. Jahrh. Lange 59, Breite 44Cent.
+- 1636 Grosses quadrirtes Wappen mit reichem Laubwerk, das wie das Visir des Helmes durchbrochen geschnitzt. XVI. Jahrh. Lunge 58,Breite 56 Cent.
+- 1637 Ovales Schild mit aufgemaltem,quadrirtem Cardinalswappen, das von 2
+- Engeln gehalten.Lange 54,Breite 30 Cent.
+- 1638 Wappenschild mit Eberkopf auf reicher Helmdecke. Polyehromirt und reich
+- vergoldet.XVII Jahrh.Hohe 54,Breite 45 Cent.
+- 1639 Rococoschild, die Umrahmung geschnitzt. Hohe 56, Breite 34 Cent.
+- 1640 Rococo-Wappenschild mit Malteserkreuz, Adler als Helmzier, die reiche
+- Helmdecke vergoldet. Hohe 56,Breite 45 Cent.
+- 1642 Schild in breitem Rahmen, geschweift, mit Schneckenwerk, von der Halbfigur eines dasselbe haltenden Engels iberragt. Gutes Stuick, mit der
+- 1641 Helmzier mit vollrund geschnittenem Rehkopf. Hohe 54 Cent.
+- originalen Bemalung und Vergoldung des XVI..Jahrh.Hohe 54,Breite27 Cent.
+- 1643 Rundes Schild mit dem vorziglich geschnitzten Imhoff'schen Wappen in prachtiger, theils tief unterschnittener Helmdecke. XVIl. Jahrh., polychromirt und vergoldet.Diam.52 Cent.
+- 1644 Wappenschild, en relief geschnitten mit gekronten Lowen und Bischof in
+- durchbrochener Rankenumrahmung.Lange 51,Breite 63 Cent. Beschadigt.
+- 1645 Zehn verschiedene Schilder, geschnitzt und mit aufgemalten Wappen. 2 Blech.
+- Lange zwischen 50 und 12 Cent.
+- 1646 Wappenschild mit Engelsfigur als Sehildhalter. Polychromirt und vergoldet. XVI. Jahrh.Lange 52,Breite 28 Cent.
+- 1647 Grosses Schild mit drei gekronten Wappen (Bertels etc.), von Lorbeerkrinzen umrahmt, polychromirt und vergoldet. XVIl. Jahrh.Lange 50,
+- Breite 60 Cent.
+- 1648 Rococoschild,aufgemalt Emblem.
+- Lange 50,Breite 28 Cent.
+- 1649 Wappenschild mit Kreuz, Lilie und Thurm, zweifach behelmt, mit hibscher Helmdecke. Polychromirt und vergoldet. XVII. Jahrh. Hohe 5O, Breite
+- 45Cent.
+- 1650 Wappenschild mit Figur mit Pfeil und grosser Helmdecke. Polychromirt. Hohe 50,Breite 27 Cent.
+- 1651 Quadrirtes Wappenschild mit Adler und zwei  hintereinanderstehenden Lowen. Hohe 48,Breite 45 Cent.
+- 1652 Grosses Schild mit dem Wappen von Salzburg, mit zwei Lowen in hohem Relief geschnitten. Lange 48,Breite 47 Cent.
+- 1653 Schild in breiter durchbrochener Laubranken-Umrahmung mit oberem vollrund vortretenden Engelskopf, polychromirt und vergoldet.Aufgemalt Abtei-Doppelwappen. XVII. Jahrh. Lange 47,Breite 48 Cent.
+- 1654 Wappen, Ziegenbock als Helmzier, in reichem Laubwerk polychromirt und
+- vergoldet. XVI. Jahrh. Lange 46,Breite 36 Cent.
+- 1655 Ovales Schild, geschnitzt mit quadrirtem Wappen in durchbrochener Rococo-
+- Umrahmung.Polychromirt und vergoldet. Hohe 43,Breite 40 Cent.
+- 1656 Wappenschild mit mannlicher Halbfigur mit Fischschwanzendigung, hohe Helmzier. Hohe 48,Breite 37 Cent.
+- 1657 Quadrirtes Wappenschild mit Dreizack und Figur, mit hoher Helmzier und reicher Helmdecke. Polychromirt. XVI. Jahrh. Hohe 47,Breite 36 Cent.
+- 1658 Schild, hoch reliefrt geschnitzt mit Lamm Gottes und Kelch, seitlich durchbrochene Blattranken aus vollrundem Engelskopf erwachsend. Polychromirt
+- und vergoldet. XVI1. Jahrh.Hohe 47,Breite 45 Cent.
+- 1659 Schild mit zwei ins Kreuz gelegten Pilgerstaben, seitlich tiefunterschnittenes Polychromirt und ver-
+- Laubwerk,als Bekronung vollrunder Engelskopf. goldet.XVII. Jahrh.Hohe 47, Breite 48 Cent.
+- 1660 Wappen mit zwei Lilien und Rebe. Polychromirt. Hohe 46, Breite 29 Cent.
+- 1661 Rococoschild, aufgemalt Emblem.Hohe 46, Breite 30 Cent.
+- 1662 Weibliche allegorische Figur,vollrund geschnitten, polychromirt und ver-
+- goldet. Hohe 46 Cent.
+- 1663 Platte eines Evangelienpultes, gothisch in Flachrelief geschnitzt mit reichen Ranken als Umrahmung eines Doppelwappens. Lange 45, Breite 76 Cent.
+- 1664 Schild, geschnitzt mit Schneckenwerk und Bossen, das gewolbte Mittel-
+- theil mit gemaltem Wappen. XVI. Jahrh. Hohe 44,Breite 36 Cent.
+- 1665 Gekrontes Wappenschild zwischen zwei Palmzweigen, polychromirt und
+- vergoldet. XVII. Jahrh. Linge 44,Breite 34 Cent.
+- 1666 Zwei gekronte Wappenschilder zwischen Palmzweigen, polychromirt und vergoldet. XVII. Jahrh.Hohe 43, Breite 29 Cent.
+- 1667 Gekrontes Wappenschild mit Lowe, zwischen Palmzweigen.
+- Polychromirt
+- und vergoldet. XVI1.Jahrh.Lange 43,Breite 32 Ceht.
+- 1668 Gekrontes Doppelwappen mit Kreuz, Lowe und Welle, umfasst von InHohe 42,Breite 50 Cent.
+- 1669 Wappenschild mit reicher breiter Helmdecke. Hohe 42,Breite 44 Cent.
+- schriftsband,gut geschnitzt in Nussbaumholz.
+- 43,Breite 30 Cent.
+- 1671 Doppelwappen, jedes in Lorbeerkranz,von iberragender Engelsfigur gehalten.
+- Gut geschnitten.XVIl. Jahrh. Lange 40, Breite 43 Cent.
+- Wappen, en relief geschnitzt mit Lowe mit Blumenzweig, polychroinirt nd
+- 1672 vergoldet. Hohe 40,Breite 30 Cent.
+- 1673 Viereckige Platte,geschnitzt mit gekrontem Wappen,von 2 Lowen gehalten.
+- Hohe 37 Breite 63 Cent.
+- 1674 Geschnitztes Wappenschild in Laubumrahmung,von mit Mitra bedecktem Engelskopf iberragt. XVII. Jahrh. Polychromirt und vergoldet. Lange 40,
+- Breite 24 Cent.
+- 1675 Ovales Schild, en relief geschnitzt mit Wappen mit Querbalken. Hohe 42,
+- Breite 33 Cent.
+- 1676 Viereckige Tafel,in Flachrelief gut geschnitzt mit der Darstellung des sieghaften Glaubens,mit Vergoldung. Italienisch. XVIl. Jahrh. Hohe 38, Breite 31 Cent.
+- 1677 Kleines Wappenschild mit mannlicher Figur. Polychromirt und vergoldet.
+- Hohe 39,Breite 22 Cent.
+- 1678 Wappenschild mit Apfel, umrahmt von Palmetten und Schnorkelwerk.
+- XVIf. Jahrh. Polychromirt und vergoldet. Hohe 39,Breite 23 Cent.
+- 1679 Schild,gut geschnitzt mit dein von Ordenskette umrahmten und von Kurhut iberragten bayerischen Wappen.Polychromirt und vergoldet.XVII. Jahrh.
+- Lange 38,Breite 30 Cent.
+- 1680 Quadrirtes, gekrontes Wappenschild zwischen zwei Palmzweigen, auf consolartiger Basis, mit vollrund vortretendem Engelskopf, vergoldet. Hohe
+- 37,Breite 30 Cent.
+- 1681 Wappen mit doppelter durchbrochener Helmzier und reichem Laubwerk,
+- polychromirt und vergoldet. XVII. Jahrh. Lange 36,Breite 36 Cent.
+- 1682 Kleines zweitheiliges Wappenschild zwischen Palmetten, von oberem
+- Engelskopf uberragt. Polyehromirt und vergoldet. Lange 36, Breite 22 Cent.
+- 1683 Reichbehelmtes Wappen mit Hahn.Hohe 36,Breite 44 Cent.
+- 1684 Viereckige Tafel, in Flachrelief geschnitzt mit Christi Fusswaschung. Polychromirt. Hohe 36,Breite 46 Cent.
+- 1685 Viereckige Platte,in Hochrelief,mit freistehenden Partien,geschnitzt mit der Auferstehung Christi. Polychromirt. XVII. Jahrh. Hohe 36,Breite 48 Cent.
+- in reichem Laubwerk, polychromirt und vergoldet. Hohe 36,Breite 43 Cent.
+- 1687 Schild,die Umrahmung in Laubwerk durchbrochen,von oberem vollrunden Engelskopf iberragt.
+- 1688 Schild mit mittlerem gemalten Wappen mit Stern, umfasst von zwei mit Palmetten geschnitzten Delphinen.XVII.Jahrh.Lange 35,Breite 62 Cent.
+- Die Mittelfuillung bemalt mit Maria immaculata. XVII. Jahrh. Linge 35,Breite 32 Cent.
+- 1689 Bischofliches Doppelwappen in reicher Ornament-Umrahmung. Polychromirt
+- und vergoldet. Linge 35,Breite 48 Cent.
+- 1690 Wappenschild mit Greif iber geschachtem Balken,gut geschnitzt,mit reicher
+- Helmdecke. In Originalfassung. XVI. Jahrh. Lange 34, Breite 28 Cent.
+- 1691 Schild auf dem Wappen mit reicher Helmdecke. Hohe 34, Breite 32 Cent.
+- goldet. XVI. Jahrh. Hohe 34,Breite 47 Cent.
+- 1692 Doppelwappen unter einer Helmzier, gut geschnitzt, polychromirt und ver-
+- 1693 Runde Tafel mit dem hochreliefirten Baumann'schen Geschlechtswappen; die Umrandung mit Namensaufschriften und Jahreszahl 1682. Polychromirt und vergoldet. Diam. 33 Cent.
+- decke und mit Helmzier. XVII. Jahrh. Hohe 33, Breite 29 Cent.
+- 1695 Wappenschild,bemalt mit doppeltbehelmtem Wappen mit zwei wilden Ueber den Wappen Cardinalshut.
+- Minnern, die auch als Helmzier. XVII.Jahrh. Hohe 33,Breite 29 Cent.
+- 1696 Das gekronte bayerische Wappenschild zwischen freistehend geschnittenem Eichen- und Lorbeerzweig. Polychromirt und vergoldet. Hohe 33, Breite
+- 28 Cent.
+- 1697 Wappenschild in 0rnamentwerk,vergoldet; aufgemalt Wappen u. J. A.1627.
+- Lange 32,Breite 28 Cent.
+- 1698 Kleines Wappenschild, von Palmetten eingefasst, von Engelskopf uiberragt,
+- polychromirt und vergoldet. XVII. Jahrh. Lange 33,Brcite 2O Cent.
+- Wappenschild mit reichem laubumrankten Wappen, das Helmvisir durch-
+- 1699 brochen.Hohe 32,Breite 32 Cent.
+- 1700 Wappen mit Palmetten-Umrahmung mit oberem Engelskopf. Polychromirt
+- und vergoldet. XVII. Jahrh. Lange 32,Breite 20 Cent.
+- 1701 Viereckige Platte mit dem bayerischen Wappen. Nebst einem ahnlichen.
+- Hohe 32,Breite 27 Cent.
+- 1702 Zwei Wappenschilder. Hohe 31, Breite 21 Cent.
+- 1703 Viereckige Platte mit dem in Farben und Gold gemalten bayerischen Wappen. Hohe 31,Breite 37 Cent.
+- 1704 Wappen der Sauemheimer, mit Helmdecke und Helmzier. Polychromirt und
+- vergoldet. Hohe 31,Breite 21 Cent.
+- 1705 Viereckige Tafel, en relief geschnitzt mit reichem behelmten Wappen. Mit Originalpolychromirung und Vergoldung. Hohe 31,Breite 27 Cent.
+- 1706 Ovales Schild, in Hochrelief geschnitzt mit Profilkopf und vergoldet. Hohe 29,Breite 35 Cent.
+- 1708 0vale Platte mit reliefrtem Wappen mit Kirche, datirt 1785. Hohe 28, Breite 22 Cent.
+- 1707 Doppelwappen, mit Bock und Greif gut geschnitzt, die Helmdecke durchbrochen. Hohe 29,Breite 28 Cent.
+- 1709 Wappen mit durchbrochen geschnitzter Helmdecke, vergoldet. Hohe 29, Breite 27 Cent.
+- zweig.Lange 28,Breite 22 Cent.
+- 1711 Ovales Schildchen mit dem fast vollrund geschnittenen Augsburger Stadtwappen. In durchbrochener Umrahmung. Lange 27,Breite 15 Cent.
+- 1713 Wappen mit breiter Helmdecke, mannliche Halbfgur als Helmzier. Hohe
+- 1712 Gekrontes Wappen, quadrirt mit Zange als Mittelschild, in RollenwerkUmrahmung. En relief geschnitten auf viereckigen Unterplatten. Hohe 27, Breite 20 Cent.
+- 26 Cent.
+- 1714 Viereckige Platte mit gut geschnitztem reichen Wappen in einem Lorbeerkranze. Hohe 26, Breite 21 Cent.
+- 1715 Wappen mit Thurm, tiefgeschnitzt in Ornament-Umralmung. Hohe 25, Breite 18 Cent.
+- 1716 Viereckiges Relief mit Ecce Homo. Hohe 26,Breite 17 Cent.
+- 1717 Runde Platte aufgemalt, doppelt behelmtes Wappen mit reicher Helmdecke.
+- 1718 Wappenschild auf geschnitzter Helmdecke mit fliegendem Greif. Polychromirt und vergoldet. Lange 22,Breite 33 Cent. Beschadigt.
+- Diam.23 Cent.
+- 1719 Kleines Wappenschild in Ornament-Umrahmung mit Vogelkopfen. XVII.
+- Hohe
+- Jahrh.Lange 22,Breite 18 Cent.
+- 1721 Gekrontes Wappenschild, geschnitzt und polychromirt. Hohe 22,Breite 20 Cent.
+- 1720 Drei Wappenschilder, vorziglich ausgefihrte Modellschnitzereien. 22und 18 Cent.
+- 1722 Wappen mit aufrechtstehendem Greif und reicher Helmdecke. Polychromirt
+- und vergoldet. XVIl. Jahrh. Hohe 20, Breite 31 Cent.
+- 1723 Zwei Wappenschilder,Modellschnitzereien.Hohe 23 und 17 Cent.
+- 1724 Zwei Tafeln mit en relief geschnitzten geistlichen Wappen. Hohe 20 und 15 Cent.
+- 1725 Drei kleine geschnitzte und polychromirte Wappenschilder. Hohe 19 und 8 Cent.
+- 1726 Wappenschild mit aufgemalter Mohrenfgur auf versilbertem  Grunde. Lange 20,Breite 18 Cent.
+- 1727 Wappen mit breiter Helmdecke. Hohe 20, Breite 32 Cent.
+- 1728 Zwei gemalte Wappenschilder. Hohe 11 und 10 Cent.
+- 1729 Viereckige Platte mit der in hohem Relief gut geschnitzten Halbfigur eines Polenfuirsten. Hohe 19, Breite 15 Cent. In geschnitztem Rococorahmen.
+- 1731 Reiches Doppelwappen, polychromirt und vergoldet. Hohe 17, Breite
+- 1730 Viereckige Tafel mit reliefirtem Wappen, Korngarbe und Arm mit Sense, auf reicher Helmdecke. Mann mit Sense als Helmzier.Hohe und Breite 18 Cent.
+- 40Cent.
+- 1732 Abtei-Doppelwappen. Hohe 17,Breite 20 Cent.
+- prolychromirt und vergoldet. XVI. Jahrh. Lange 17,Breite 15 Cent.
+- 1733 Kleines Wappenschild der Familie von Schonberg, vorziglich geschnitzt,
+- 1734 Tafel, in Hochrelief geschnitzt mit zweispanniger Kalesche, in der ein Paar. XVIII. Jahrh. Hohe 16,Lange 35 Cent.
+- Lange 14,Breite 12 Cent.
+- 1735 Gekrontes Wappen, in Flachrelief auf viereckiger Holzplatte geschnitten.
+- 1736 Dreifaches Abtswappen, en relief geschnitzt mit Helmzier und Decke. Hohe 141/2,Breite 9 Cent.
+- 1737 Drei kleine Wappenschilder mit aufgemalten Emblemen. Lange zwischen
+- 13 und 10 Cent.
+- anwendung gemalt.Lange 11,Breite 81/2 Cent.
+- 1739 Das Wappen der Familie von Maltitz in reichem Helmmantel, gut
+- geschnitten, polychromirt und vergoldet. Hohe 17,Breite 14 Cent.
+- 1741 Viereckiges Plattchen mit dem in Farben und Gold gemalten Wappen des Dietrich Meyger. Datirt 1594. Hohe 10,Breite 7 Cent.
+- 1740 Viereckiges Relief, in Ahornholz vorzuglich geschnitzt mit Wappenschild mit Pilger,in Rococoeinfassung. Hohe 15,Breite 12 Cent.
+- 1742 Drei Holzschnitzereien,en relief,Wappen, wilder Eber und Eber unter
+- 1743 Funf verschiedene polychromirte Wappenschilder. Verschiedene Grosse.
+- Eichbaum.Verschiedene Grosse.3 Stuick.
+- 5 Stuck.
+- 1744 Zwei kleine Wappen mit Bock und Hirsch, en relief. Polychromirt und vergoldet. Verschiedene Grosse. 2 Stick.
+- 1745 Gothischer Processions -Vortragestab. Die Stange in Palmetten ete. geschnitzt. Der auf Kugel stehende Baldachin laternenformig,in dem die Standfigur eines hl. Bischofs. Interessantes Stick mit der Original-Polychromirung und Vergoldung. XVI. Jahrh. Ganze Linge 290 Cent.
+- 1746 Processionsstab, ahnlicher Form und mit Resten von Bemalung. XVI. Jahrh. Lange 170 Cent.
+- 1747 Processionsstab ahnlich und ebenso. Gleiche Grosse.
+- oben gewunden,unten in Palmetten geschnitzt. Polychromirt und vergoldet. XVI. Jahrh. Lange 265 Cent.
+- 1748 Grosser Processionsstab mit nach oben ausweitender Platte. Die Stange
+- 1749 Processionsstab ahnlich und ebenso. Gleiche Grosse.
+- chromirung und Vergoldung. XVI. Jahrh. Lange 185 Cent.
+- 1750 Zwei Processionsstabe ahnlicher Form. Die Stange gewunden. Mit Poly-
+- 1751 Gothischer Processessions-Vortragestab.Die Stange ahnlich.Der Aufsatz laternenformig und mit innerer Heiligenfigur. XVI. Jahrh. Ganze Lange 350 Cent.
+- 1752 Hoher gothischer Processions-Vortragestab mit hohem laternenformigen Baldachin,der theils neu erginzt. Die Stange mit reichen Weinlaubwindungen en relief geschnitzt. Interessantes Stick. Mit Polychromirung und Vergoldung. XVI. Jahrh. Ganze Lange 36O Cent.
+- 1754 Grosses Stationskreuz. Der romanischeChristuskorper yollrund gut geschnitten und polychromirt. Das Kreuz modern. Sehr interessante Schnitzerei. Hohe des Christuskorpers 165,Breite 90 Cent.
+- 1753 Grosser Processionsstab mit gewundener und in Palmetten geschnitzter Stange. Der ausweitende Aufsatz reich geschnitzt und mit 2 MessingWappenschildchen.Polychromirt und vergoldet.XVI.Jahrh.Lange 245 Cent.
+- 1755 Crucifx. Das Kreuz sehwarzes Holz; der Christuskorper vollrund gut geschnitzt in Birnbaumholz. XVII. Jahrh. Lange des Christuskorpers 21 Cent.
+- 1756 Gothisches Vortragekreuz,Holz, geschnitzt und vergoldet; die Kanten mit Krabben besetzt; die wirfelformigen Endigungen der breiten Balken bemalt
+- mit Engelsfiguren mit Banderolen, den Symbolen der Evangelisten etc. Interessantes Stick. XV. Jahrh. Hohe 85,Breite 61 Cent.
+- korpers 25 Cent.
+- 1757 Crucifix. Der Christuskorper vollrund gut geschnitzt. Linge des Christus-
+- 1758 Vier verschiedene Kreuze, theils eingelegt, theils mit Christuskorpern.
+- 1759 Kleines Reliquienkreuz mit reliefirter Reliquienfigur. Lange 24 Cent.
+- Lange zwischen 28 und 19 Cent.
+- 1760 Reliquienkreuz,geschnitzt mit Christus am Kreuz ete. Lange 22, Breite 9 Cent.
+- 1761 Zwei geschnitzte Christuskorper. Hohe 14 und 12 Cent.
+- 1763 St. Sebastianus an den Baumstamm gebunden.Vollrunde, vorziglich
+- 17641 Der hl. Nikolaus in Pluviale und Mitra. Grosse halbrunde Barockfigur..
+- geschnittene, charakteristische grosse Figur. XVI. Jahrh. Hohe 165 Cent
+- Hohe 152 Cent.
+- 1765 Weibliche Heilige. Grosse halbrunde Figur. Polychromirt. XVI. Jahrh. Hohe 140 Cent.
+- 1766 Christus auf dem Esel in Jerusalem einreitend.Vollrunde,vorziiglich geschnittene grosse Gruppe mit Original-Polychromirung und Vergoldung. XVI. Jahrh. Hohe 138,Lange 112 Cent.
+- einer Gruppe der Kronung Maria. Polychromirt und vergoldet. XVI. Jahrh. Hohe 135 Cent.
+- 1767 Christus als Weltheiland in reich drapirtem Mantel. Grosse Figur aus
+- 1768 Der segnende Heiland in reich drapirtem Mantel, die Rechte auf die Weltkugel gelegt, in Wolken sitzend, aus denen Engelskopfe hervortreten. Grosse halbrunde Figur mit der urspriinglichen Polychromirung und Ver-
+- 1769 Heilige Agnes. In edel drapirter Gewandung, auf dem Haupte eine Krone. Schone nobele Figur. XIV. Jahrh. Restaurirt. Hohe 135 Cent.
+- goldung. Hohe 138 Cent.
+- 1770 Zwei Flugel im reichsten Rococostil, durchbrochen,vorziglich geschnitzt und vergoldet, in der Mitte polychromirte und vergoldete Wappenschilder, auf dem einen das freiherrlich Fugger'sche. Schone Decorationssticke. Lange eines jeden 132 Cent.
+- mit Polychromirung und Vergoldung. Hohe zwischen 130 und 155 Cent. Mit Fractionen.
+- 1771 Vier verschiedene grosse Rococofiguren aus grosseren kirchlichen Gruppen,
+- 1772 Weibliche Heilige, grosse Figur mit Polychromirung und Vergoldung. XVII. Jahrh. Hohe 126 Cent.Beschadigt.
+- 1774 Ecce Homo. Grosse polychromirte Figur. Beschadigt. XVI. Jahrh. Hohe
+- 1773 Heiliger Bischof in vollem Ornate, in der Linken ein Buch haltend. Grosse halbrunde Figur, um 1500, mit der originalen Polychromirung und Vergoldung. Hohe 123 Cent.
+- 120 Cent.
+- 1775 Heiliger Bischof mit Pluviale mit tief unterschnittenen Falten und Mitra, in der Linken ein Buch haltend. Interessante halbrunde Figur, um 1500,
+- 1776 Madonna in reichem Strahlenkranze am Betpulte knieend. Sie hat einen langen, reich drapirten und verbramten Mantel ibergeworfen,auf den das Haar in langen Locken herabfallt. Besterhaltene Schnitzerei mit neuer Bemalung und Vergoldung. Hohe 120 Cent.
+- mit der originalen Polychromirung und Vergoldung. Hohe 120 Cent.
+- 1777 Der hl. Paulus in Lockenhaar und Rustung mit ibergeworfenem Mantel.
+- 1778 Der hl. Johannes, der Evangelist. In der Rechten ein Buch, in der Linken einen Kocher haltend. Interessante und charakteristische Relieffigur, polychromirt. XV. Jahrh. Hohe 118 Cent.
+- Gute Figur im Stile des Veit Stoss. Weiss bemalt. Hohe 120 Cent.
+- 1779 Der hl. Franziscus, knieend die Stigmatisirung empfangend. Halbrunde
+- Figur in Lebensgrosse mit Polychromirung. XVII. Jahrh. Hohe 118 Cent.
+- Fracturen.
+- 1782 Hirtenfigur, aus einer Anbetung der Hirten. Polychromirt. XVII. Jahrh. Hohe 115 Cent.
+- 1781 Madonna in reichem,edel drapirtem und vergoldetem Gewande, das Haar in langen Locken uiber die Sehultern herabfallend. Sehr schone, anmuthsvolle Figur, XV. Jahrh., mit der urspringlichen Polychromirung und Vergoldung. Hohe 116 Cent. Kind fehlt.
+- 1783 Engel, polychromirte und vergoldete Figur. Hohe 115 Cent. Fragmentirt.
+- platte. Hohe 113 Cent.
+- 1784 St. Georg mit Fahne und Schwert, iber dem Drachen stehend. Gothisirende Figur,halbrund geschnitten, mit Polychromirung auf vergoldeter Unter-
+- 1785 Die knieende hl. Magdalena. Grosse polychromirte und vergoldete Figur. XVII. Jahrh. Hohe 113 Cent.
+- schnittenen Falten. Sehr schone halbrunde Figur. Anfang XVI. Jahrh. Hohe 112 Cent.
+- 1786 Weibliche Heilige in reichem, edel drapirtem Gewande mit tief unter-
+- 1787 Sitzende weibliche Figur in reichem Gewande. Polychromirt und ver-
+- 1788 Die Geisselung Christi, in einer Gruppe von finf Figuren in hohem Relief geschnitzt. Darstellung aus einem Stationswege. Entsprechend bemalt, polychromirt und vergoldet. XVII. Jahrh.Hohe 110, Breite 47 Cent.
+- goldet. XVII. Jahrh. Hohe 112 Cent.
+- 1789 Engel. Grosse polychromirte Rococofigur mit Fracturen. Hohe 110 Cent.
+- mit Polychromirung und Vergoldung. Hohe 110 Cent.
+- Haar eine Pelzmitze,in beiden Handen einen Ast haltend. Costumlich interessante Relieffigur aus der Zeit Maximilians. Hohe 108 Cent.
+- 1791 Heiliger in langem, reich drapirtem Mantel auf dem lang herabfallenden
+- 1792 Hl. Magdalena. Grosse Fussfigur eines Crucifixes. Barock. Hohe 108 Cent.
+- 1794 Einer der hl. drei Konige in faltenreichem Mantel. Gute halbrunde Figur mit Bemalung. Um 1500. Hohe 104 Cent. Eine Hand fehlt.
+- 1793 Betende weibliche Heilige in faltenreichem Mantel, auf den das Haar in langen Locken herabfaillt. Halbrunde Figur.Polychromirt. XVI. Jahrh.Hohe 106 Cent.
+- 1795 Zwei Bischofsfiguren. Polychromirt und vergoldet. XVI. Jahrh. Hohe 103 und 89 Cent.
+- reich drapirten Mantel, den er mit der Linken hailt. Charakteristische,
+- 1797 Der hl. Bartholomaus. Der jugendliche Heilige, in reich drapirtem Gewande, halt in der Rechten die Sage. Halbrunde,weiss bemalte Figur. XVII. Jahrh. Hohe 102 Cent.
+- costimlich interessante Figur. Hohe 102 Cent.
+- 1798 Der hl. Wolfgang im Bischofsgewande, in der Rechten das Kirchenmodell haltend. Schone altdeutsche Flachfigur, das Pluviale vergoldet und mit Inschriftsborte. Hohe 100 Cent.
+- Arme schneider. Hohe 100 Cent.
+- 1799 Mutter Anna, die kleine Maria und den Jesusknaben auf dem A haltend. Gute charakteristische Reliefgruppe im Stile des Tilman Riemen-
+- 1800 Knieender Hofnarr, zwei Wappenschilder haltend. In Eichenholz vorziglich geschnittene vollrunde Figur auf Stinder.XVI. Jahrh. Hohe 100 Cent.
+- 180Oa Hl. Bischof in der Linken ein Buch haltend. Gut geschnitzte grosse Relieffigur.XVI. Jahrh. Hohe 150 Cent.
+Vollrund polychro-
+
+1800c Pilger.Vollfigur, polychromirt und vergoldet. Hohe 95 Cent.
+
+- 180ob Der hl. Sebastianus an den Baumstamm gebunden. mirte Figur. XVI. Jahrh. Hohe 110 Cent.
+
+1800d Der hl. Hieronymus vor seiner Huttei Reliefschnitzerei.
+
+1800e Mutter Anna auf einer Steinbank sitzend. Vollrund geschnitzt und bemalt. Hohe 8O Cent.
+
+imGebet. Polychromirt.Hohe 80,Breite 44 Cent.
+
+180Of Der auferstandene Heiland. Polychromirte Vollfigur. Mit Fracturen. Hohe 85 Cent.
+
+180oh Heiliger Kirchenlehrer in der Linken ein Buch haltend. Mit Resten von Polychromirung. Hohe 8O Cent.
+
+1800g Engel auf Wolken knieend. Vollrund geschnitten. Mit Polychromirung und Vergoldung. XVI. Jahrh. Hohe 85 Cent.
+
+1800i Madonna auf einer Steinbank sitzend, in der Linken das Jesuskind haltend.Fracturirte Vollfigur mit Polychromirung. Hohe 52 Cent.
+
+Rechten grosse Banderole mit Inschrift haltend, dunkel gebeiztes Holz. XVII. Jahrh.Hohe 5O Cent.
+
+1800l Der Tod.Aehnliche Figur. Weiss bemalt. Hohe 45 Cent.
+
+- 180Om Hl. Bischof in langem faltenreichen Gewande,in der Linken Kirchenmodell haltend. Polychromirt.Hohe 73 Cent.
+
+Hohe 75 Cent.
+
+180On Der lehrende Heiland. Vollrund geschnitten und mit Polychromirung.
+
+180oo Der Schmerzensmann. Polychromirte, vollrund geschnittene Figur. XVI.Jahrh.Hohe 65 Cent.
+
+1800p Weibliche Heilige. Vollrunde polychromirte Figur.Ladirt. Hohe 65 Cent.
+
+- 1800q Der hl.Florian. Gut vollrund geschnitten und polychromirt.XVII. Jahrh. Hohe 65 Cent.
+- 180Or Bischof, auf einer Steinbank sitzend, in der Linken das Kirchenmodell
+- haltend.Bemalt.Hohe 6O Cent.
+- 180Os Martyrium des St.Vitus.Die Figur Masse.
+- Polychromirt. Hohe 32 Cent.
+- 1801 Der hl. Sebastianus.Der Heilige nackt mit drapirtem Lendentuch an den mirung,in Auffassung an den bekannten Kupferstich des M. Schon erinnernd.
+- 1802 Der hl. Hieronymus im Cardinalsgewande, vor ihm der Lowe. Polychromirte Relieffigur auf viereckiger vergoldeter Tafel.Hohe 10O,Breite
+- Baumstamm gebunden.Charakteristische Vollfigur mit der alten PolychroInteressantes Stick.Hohe 100 Cent.
+- 48Cent.
+- 1803 Heiliger Bischof, in der Rechten eine Kirche haltend,das reich drapirte Pluviale mit Schriftband umbordet.Relieffigur mit originaler Polychromirung und Vergoldung. Um 1500.Hohe 100.Cent.
+- 1804 St. Sebastianus, nackt,mit Lendentuch,an den Baumstamm gebunden. Polychromirte Figur.XVI.Jahrh.Hohe 98 Cent. Unterarme fehlen.
+- Aufschlag. Costumlich interessante halbrunde Figur.Bemalt und vergoldet. XV. Jahrh. Hohe 98 Cent.
+- 1806 Gott Vater in reich drapirtem vergoldeten Pluviale,iber der Weltkugel sitzend. Halbrunde altdeutsche Figur mit der alten Polychromirung und
+- Vergoldung. Hohe 96 Cent.
+- 1807 Der hl. Paulus in reich drapirtem Gewande und Mantel, mit Buch und Schwert. Relieffigur mit Resten der Original-Polychromirung.Ende XV. Jahrh. Hohe 94 Cent.
+- Ausfuhrung. Gleiche Grosse.
+- 1809 Hl. Jesuit auf Wolken.Fast vollrunde Figur. XVIll. Jahrh.Hohe 93 Cent.
+- 1811 Drei verschiedene grosse Barockfiguren. Mit Fracturen. Hohe zwischen 90und 80 Cent.
+- 1810 Weibliche Heilige in langem,reich drapirtem Gewande. Gut geschnittene vollrunde Figur mit Resten von Polychromirung. XVI. Jahrh. Hohe 90 Cent.
+- 1812 Einer der hl. drei Konige in langem drapirten, vorn zugeknopften Mantel. Vollrund geschnittene Figur mit Original-Polychromirung.
+- XVI.Jahrh. Hohe 88 Cent.
+- reich geknickten, theils sehr tief unterschnittenen Falten. XV. Jahrh.Hohe
+- 1814 Mutter Anna, die kleine Maria an der Hand fuhrend und das Jesukind
+- 85Cent.
+- auf dem Arme haltend. Polychromirte Reliefgruppe. XVI. Jahrh. Hohe 85 Cent.
+- XVI.Jahrh.Hohe 84 Cent.
+- 1815 Der Mohrenkonig,fott behandelte, costimlich interessante Figur aus einer grossen Gruppe der Anbetung der hl. drei Konige. Mit Polychromirung.
+- 1816 Heiliger im Monchsgewande,das reich drapirt.Strenge Relieffigur mit Resten der Polychromirung.XV. Jahrh. Hohe 77 Cent.
+- Nebst einer andern Figur,Fortuna. Hohe 75 und 55 Cent. 2 Stuck.
+- 1817 Die Wahrheit. Vollrund geschnittene Figur, Empire, durchweg vergoldet.
+- 1818 Engel,Altarfigur.XVII.Jahrh. Hohe 74 Cent.
+- 1819 Die beiden Schacher am Kreuz. Vollrund geschnitten und bemalt. Lange 71 Cent.2 Stuick.
+- XV. Jahrh. Hohe 70 Cent.
+- 1821 Der Ritter St. Georg. Vollrunde gothische Figur mit Resten der Polychromirung. Hohe 7O Cent.
+- 1822
+- 1823 Die Geburt Christi. Maria wascht das neugeborene Jesukind. Grosse bemalte Reliefgruppe; die Figuren fast vollrund. XVI. Jahrh. Hohe 70, Breite 66 Cent.
+- Madonna mit dem Kinde auf Steinbank sitzend. Sehr gute halbrunde Gruppe, die reich drapirte Gewandung mit der originalen Vergoldung. XV. Jahrh.Hohe 70 Cent.
+- 1824 Der Engel der Verkundigung. Flotte Figur. Hohe 70 Cent.
+- Sehr hohes Relief mit Bemalung. XVII. Jahrh. Hohe 67, Breite 64 Cent.
+- 1825 Die Anbetung der hl. drei Konige in einer Composition von finf Figuren.
+- 1826 Papst in vollem Ornate mit Tiara, die Rechte segnend erhoben auf Thronsessel sitzend. Interessante polychromirte und vergoldete Figur in romanischem Charakter.Hohe 66 Cent.
+- 1828 Das Martyrium des hl. Sebastianus; Composition von drei Relieffiguren, mit freistehenden Theilen geschnitzt und polychromirt. Auf Holzplatte auf-
+- 1827 Halbfigur des hl. Johannes des Taufers im Schafsfell; halbrund geschnitzt, iber einem geschweiften mit Schneckenwerk und vollrund vortretenden Thierkopfen geschmickten Schilde. Interessantes Stick mit der alten Polychromirung und Vergoldung. XVI. Jahrh. Hohe 65, Breite 36 Cent.
+- gesetzt. Hohe 65,Breite 60 Cent.
+- Hohe 64 Cent. Beschadigt.
+- 1829 Christuskorper,romanisch,vollrund geschnitten mit Resten der Bemalung.
+- 1830 St. Petrus, sitzend, in reich drapirtem Gewande und weitem Mantel. Interessante Figur. XV. Jahrh. Alt polychromirt. Hohe 63 Cent.
+- 1831 Ecce Homo. Vollrunde Figur mit Polychromirung. XVI. Jahrh.Hohe 62 Cent.
+- 1832 Die hl. Katharina, sitzend, mit Rad und Schwert. Gothische Figur, polychromirt. Hohe 62 Cent.
+- Polychromirung und Vergoldung. XV. Jahrh. Hohe 62 Cent.
+- 1835 Der hl. Benno im Bischofsgewand, in der Linken den Fisch haltend, auf Steinbank sitzend. Vollrunde Figur, polychromirt und vergoldet. XV. Jahrh. Hohe 60 Cent.
+- 1834 Bischof in Pluviale und Mitra auf Steinbank sitzend. Gute Figur mit der originalen Polychromirung. XV. Jahrh. Hohe 61 Cent.
+- 1836 Der zwolfjahrige Jesus im Tempel, umgeben von den Schriftgelehrten und Weisen.Hohe Reliefgruppe von sieben Figuren. Mit Bemalung. XVIl. Jahrh. Hohe 60,Breite 50 Cent.
+- 1837 St. Sebastianus, an Baumstamm. Interessante, vollrunde Figur, mit Resten der urspringlichen Polychromirung. XV. Jahrh. Hohe 59 Cent.
+- 1838 Hildegund an den Baumstamn gebunden. Vorziglich ausgefuhrte,vollrunde Figur, gothisirend. Die reichen Gewandfalten tief unterschnitten. Hohe
+- 58 Cent.
+- 1839 Vier Mobelfiguren,Empire,nackte Frauengestalten darstellend, auf ver-
+- goldeter Kugel stehend.Hohe 58 Cent.
+- 1840 Der hl. Christoph in reich drapirtem Mantel, den Jesuknaben tragend. Gut vollrund geschnitzte Figur. Ende XV. Jahrh.Hohe 58 Cent.
+- 1841 Venus auf eine Kugel tretend.Vollrund geschnitzte Figur.Hohe 58 Cent.
+- 1842 Die hl. Katharina in reich drapirtem Mantel, in der Linken das Rad haltend. Gute Figur mit Polychromirung. XVI. Jahrh. Hohe 58 Cent.
+- 1843 St.Christoph;beschadigte Figur.
+- Hohe 57 Cent.
+- 1844 Der Fleiss.Weibliche allegorische Figur,die Linke auf einen Bienenkorb stuitzend. XVIII. Jahrh.Hohe 57 Cent.
+- 1845 Der blaue Teufel. Humoristische Flachfigur,polychromirt, mit eingesetzten
+- naturlichen Bockshornern. Hohe 55 Cent.
+- 1846 Die hl. drei Konige. Fast vollrund geschnitzte, interessante Gruppe mit alter Polychromirung und Vergoldung. XVI. Jahrh. Lange 51,Breite 34 Cent.
+- 1847 Einer der hl. drei Konige. Polychromirte vollrunde Figur. XVI. Jahrh. Hohe 51 Cent.
+- 1848 Fliegender Engel,Rococofigur.Linge 48 Cent.
+- 1849 St. Georg auf dem Drachen stehend,kleine gothische Figur,polychromirt
+- und vergoldet. Hohe 48 Cent.
+- 18501 Figur einer Heiligen, vollrund geschnitzt, polychromirt und vergoldet.
+- Hohe 47 Cent.
+- und vergoldete Rococogruppe auf hohem Sockel. Hohe 47 Cent.
+- 1851 St.Martinus zu Pferde, vor ihm der Bettler. Vollrunde, polychromirte
+- 1852 Weibliche Heilige auf Steinsessel sitzend. Interessante gothisirende Figur mit originaler Polychromirung. Hohe45Cent.
+- 1853 Der junge Tobias vom Engel gefuihrt. Polychromirte vollrunde Gruppe.
+- Hohe 43 Cent.
+- 1854 Stehender Bischof. Halbrunde Figur. XVII.Jahrh.Hohe 42 Cent.
+- 1855 Fliegender Engel. Bemalte Rococofigur.Hohe 40 Cent.
+- 1856 Zwei fiegende gothische Engel in reich drapirten Alben, vollrund ge geschnitten in Eichenholz. Hohe eines jeden 39 Cent.
+- 1857 Ecce Homo und S. Sebastianus. Gute altdeutsche Figuren, Hohe 38 und 45 Cent.
+- fragmentirt.
+- 1858 Venus, dem Wasser entsteigend, nach der Antike, die Gewandung reich
+- drapirt.Hohe 40 Cent.
+- 1859 St. Georg zu Pferde, den Drachen todtend. Vollrunde Gruppe mit Bemalung in Lackfarben und Vergoldung. XVIl. Jahrh. Hohe 4O Cent.
+
+goldung. XVI. Jahrh. Hohe 38,Breite 27 Cent.
+
+1860 Christus, dem Grabe erstehend. Flachfigur mit Polychromirung und Ver-
+
+1861 Mater Dolorosa. Vollrund geschnittene Figur mit der Originalpolychromirung. XVII. Jahrh. Hohe 37 Cent.
+
+1863 St. Johannes. Polychromirte Figur. XVI. Jahrh. Hohe 35 Cent.
+
+- 1862 Knieender Engel, vollrunde polychromirte Figur. Hohe 37 Cent.
+
+1864 Heiliger Bischof. Vollrunde Figur mit Polychromirung und Vergoldung. Hohe 35 Cent.
+
+- 1866 Zwei Madonnenstatuetten. Hohe S3 und 30 Cent. 2 Stick.
+
+1865 Madonna mit dem Kinde auf der Mondsichel. Dreiviertel-vollrunde Eichenholzgruppe. Polychromirt.Hohe 33 Cent.
+
+1867 Schlosser mit Schlisselbund und Hammer. Vollrunde polychromirte Figur mit Bekleidung. Hohe 32 Cent.
+
+1869 St. Rochus. Rococofigur, mit Versilberung und Vergoldung. Hohe 32 Cent.
+
+1868 Knieende hl. Magdalena. Polychromirte Figur. Hohe 32 Cent.
+
+1870 St. Nepomuk,Statuette auf Holzsockel. Hohe 31 Cent.
+
+- 1872 Johannesschussel,mit vollrund geschnittenem Kopf, polychromirt und vergoldet. XVI. Jahrh. Diam. 31 Cent.
+
+1871 Ecce Homo,vollrunde Statuette in Birnbaumholz. Hohe 31 Cent.
+
+- 1873 Bischofsbuste,vollrund geschnitten und polychromirt. Hohe 30 Cent.
+- 1874a Halbfgur eines Kardinals mit Hut und Buch. Ebenso und Gegenstick
+- grosseren
+- 1876 Der Sturz des Saulus.1 Polychromirte Figur. Hohe 30 Cent. Fragmentirt.
+
+1874 Halbfigur eines Papstes mit Tiara und Buch. Flachbuste,bemalt und vergoldet.Hohe 30,Breite 21 Cent.
+
+z.Vorigen. Gleiche Grosse.
+
+- 1875 Halbfgur der schmerzhaften Mutter. Ausschnitt aus einem Hohe 30,Breite 22 Cent.
+- 1877 Alexander,Markgraf von Brandenburg.
+- 1878 Puttenfigur als Wappentrager, vollrund geschnitten. Hohe 28 Cent.
+- Vollrunde Statuette.Hohe 30 Cent. Nebst zwei anderen.3 Stick.
+- 1879 Madonna mit dem Kinde. Halbrunde, bemalte Figur.
+- Hohe 28 Cent.
+
+1881 Halbfgur eines, eine Banderole haltenden Engels.Gute gothische Relief figur. Hohe 25 Cent.
+
+1880 Der Tod im Mantel, Statuette. Hohe 28 Cent.
+
+1882 Der Schmerzensmann an die Saule gebunden. Halbrunde, polychromirte Figur. Hohe 26 Cent.
+
+- 1884 St. Vitus im Feuer stehend.Vollrund geschnittene Halbfigurmit Bemalung. XVI.Jahrh. Hohe 24 Cent.
+- 1883 Christuskopf, vollrund geschnitzt und polychronirt. Lange 27 Cent.
+- 1885 Satyr, polychromirte Figur. Linge 25 Cent. Beschadigt.
+- 1887 Johannesschussel, der Kopf volrund geschnitten und polychromirt. Diam. 23 Cent.
+
+1886 Sitzender Ecce Homo, nach Dirers Schmerzensmann,vollrund geschnitten und polychromirt. Hohe 24 Cent.
+
+- 1888 Zwei verschiedene polychromirte und vergoldete Statuetten.
+- Hohe 21 und 17 Cent.
+- 19 Cent.
+- Cent.
+- Hohe
+- 1890 Der hl. Johannes von Nepomuk. Polychromirte Statuette. Hohe 191/2
+- 1891 Knieende Madonna in weitem Mantel. Vollrunde Statuette, vergoldet. XVI. Jahrh.Hohe 19 Cent.
+- 1892 St. Georg zu Pferde. Polychromirte und vergoldete Renaissance-Statuette. Hohe 18 Cent.
+- 1893 Engelsfigur. Kleine, vollrunde Statuette.
+- Hohe 17 Cent.
+- 1894 Die vier Jahreszeiten. Gruppe von vier vollrund geschnitzten, polychromirten Figuren. Hohe 17 Cent.
+- 1895 Der Winter. Allegorische Rococofigur mit Lackbemalung. Hohe 17 Cent. Auf Holzsockel.
+- 1896 Ritter im Costime Vollrunde Statuette.
+- 1897 Zwei Thiergruppen, vollrund geschnitten und polychromirt. Lange 15 Cent.
+- des dreissigjahrigen Krieges. Hohe 17 Cent.
+- 1898 Drei kleine Holzfguren, darunter Madonna und Bettler.XVII. Jahrh. Polychromirt und vergoldet.Grosse zwischen 16 und 12 Cent.
+- Hohe 14 Cent.
+- 1899 Tonne mit aufliegendem Bacchus in Weinlaune. Nebst kleiner Kinderfigur.
+- 1900 Drei Musikanten und hl. Apostel. Vier vollrund geschnittene, polychro-
+- mirte Figuren. Lange zwischen 13 und 17 Cent.
+- 1901 Johanneskopf, vollrund geschnitten und polychromirt. XVI. Jahrh. Hohe 14Cent.
+- Hohe 12 Cent.
+- 1902 Mannliche Buste, vollrund geschnitten.
+- 13 Cent.
+- 1904 Madonna mit dem Kinde und Heilige. Zwei halbrund geschnitzte vergoldete Statuetten. XVII. Jahrh. Hohe 121/2 Cent.
+- 1905 Die hl. Barbara. Ebenso. Gleiche Grosse.
+- 1906 Petruskopf, vollrund geschnitzt.Lange 10 Cent.
+- 1907 Madonna, Weltheiland, Engel und Heilige, theils vollrund, theils fach geschnitzte Statuetten. Verschiedene Grossen. 4 Stick.
+- 1908 Sieben verschiedene kleine Holzfiguren, vollrund geschnitten und theils
+- bemalt. Nebst Terracottafigur. Hohe zwischen 21 und 91/2 Cent. 8 Stick.
+- Holz geschnitten. Nebst zwei anderen. Hohe zwischen 21 und 11 Cent.
+- 3 Stick.
+- 1910 Platte,oberhalb abgerundet,in hohem Relief,zum Theil fast vollrund geschnitzt mit einer Darstellung des Calvarienberges. Hohe 40, Breite 28 Cent.
+- 1911
+- 1912 Viereckige Tafel in Marquetteriearbeit fein ausgefihrtmitd der Burg Trausnitz bei Landshut.Unten rechts das Monogramm M. E. Hohe 46, Breite 37 Cent. In entsprechend gearbeitetem Holzrahmen.
+- Grosse Platte mit gekronter weiblicher Figur vor Schloss, an dessen Fenster zwei weitere Figuren stehend, betend, en relief geschnitzt und polychromirt.Hohe 115,Breite 60 Cent.
+- 1913 Viereckige Tafel, gleiche Darstellung und Gegenstick. Gleiche Grosse. Ebenso.
+- 1915 Runde Platte in hohem Relief geschnitzt mit der hl. Familie in Perlkranz, bemalt und vergoldet.Diam.18 Cent.
+- 1914 Viereckiges Relief mit Scenen aus der Geschichte Samsons. Hohe 33, Breite 44 Cent.
+- 1916 Altarfugel. Auf der einen Seite, in Hochrelief charakteristisch geschnitten, Mutter Anna,knieend mit der kleinen Madonna und dem Jesuknaben;in einem unteren Felde durchbrochen geschnitzte und vergoldete Laubranke. Auf der anderen Seite gemalt mit der Halbfigur eines Bischofs im Ornate. Heiligenschein und einzelne Partieen vergoldet. Interessante oberdeutsche Arbeit aus dem Ende des XV.Jahrh. Hohe 46,Breite 22 Cent.
+- 1917 Pieta. Madonna in reich drapirtem Gewande, auf Sessel sitzend, den vor ihr liegenden Leichnam Christi umfassend. Interessante altdeutsche Figur,
+- 1918 Hausaltarchen, geschweift und mit Blattornamenten. Hinter dem halbrund gegitterten Aufbau ein vollrund geschnitztes Ecce Homo.XVIl. Jahrh.
+- fast vollrund in Birnbaumholz geschnitten. Hohe 62 Cent.
+- Bemalt und vergoldet. Hohe 22, Breite 21, Tiefe 10 Cent.
+- 1920 Pieta, Madonna mit dem Kinde und Skelett. 3 Holzfiguren.
+- 1919 Pieta, Madonna, den Leichnam Christi auf dem Schoosse haltend. Gothische Gruppe. Hohe 25 Cent.
+- 1921 Die hl. drei Konige in theils reichen Gewandungen. Hochreliefgruppe mit freistehenden Partien, mit der originalen Polychromirung und Vergoldung XV. Jahrh. Hohe 50, Breite 33 Cent.
+- 1922 Relief-Halbfigur eines Heiligen. Zeit Maximilians.
+- 1923 Christus von seinen Aposteln umgeben. Reliefgruppe von 12 Halbfiguren. Polychromirt. XVI. Jahrh. Hohe 56, Breite 72 Cent. Auf Holzsockel.
+- Lange 50,
+- Vorzigliche Arbeit. Lange 44 Cent.
+- 1924 Drei Missions- und Reliquienkreuze, der fast vollrunde Christuskorper mit dem Kreuza aus einem Stuck geschnitzt. Lange 26 und 30 Cent.
+- 1926 Ueber 100 grossere und kleinere Thierfiguren einer Krippe, von der verschiedensten Art. Vorziglich vollrund geschnitten und polychromirt. Einige mit Zaumzeug. Hohe zwischen 30 und 2 Cent. Zum Theil mit Lasuren.
+- 1925 Grosser Holzstock mit von 2 Lowen gehaltenem Wappen. Breite 40 Cent.
+- 1927 21 verschiedene Figuren aus einer Krippendarstellung: Gott Vater, Engel, Hirten etc.Vollrund geschnitten und polychromirt. Lange zwischen 21 und 10 Cent.
+- 1929 16 sehr grosse Gliederpuppen einer 1 Krippe, deren Kopfe vorzuglich geschnitzt, mit theils sehr reicher, dem Stande angemessener costumlich interessanter Kleidung. Die Fleischtheile polychromirt. Wie die folgenden theilweise nicht ganz complet. Lange c. 65 Cent.
+- 1928 24 theils verschiedene Thiere einer Krippe, vollrund geschnitten und polychromirt.Einige mit Zaumzeug. Hohe zwischen 45 und 20 Cent. Zum Theil mit Lasuren.
+- 1930 29 drgl.Ebenso. Lange c. 48 Cent.
+
+1932 30drgl.
+
+- 1931 17 drgl. Ebenso. Lange c. 42 Cent.
+
+Lange c. 25 Cent und kleiner.
+
+Ebenso. Lange c. 35 Cent.
+
+1934 Drei verschiedene Elephanten. Ebenso. Hohe 26 und 22 Cent.
+
+1933 110 drgl. Ebenso.
+
+1935 Pferd, ebenso,mit Satteldecke.Hohe 52 Cent.
+
+1937 Drei Pferde, ebenso, mit Zaumzeug. Hohe 42, 37 und 30 Cent.
+
+1936 0chse und Kuh.  Ebenso. Hohe 27 und 24 Cent.
+
+Hohe45 Cent.
+
+1938 Gesatteltes Pferd.Ebenso.
+
+1940 Kameel.Hohe 55 Cent. Linge 100.
+
+1939 Kameel, ebenso,mit rother gestickter Decke.Hohe 51 Cent.
+
+1941 0chse,ebenso.
+
+- 1942 Kameel,ebenso,mit gelbseidener Decke.Hohe 53 Cent.
+
+Einiges erganzt. Hohe 35 Cent.
+
+1943 Reitpferd, ebenso,mit completem Zaumzeug. Hohe 40 Cent.
+
+1945 Pferd mit erhobenem
+
+1944 Pferd,ebenso,mit goldgesticktem Sattel und Zubehor. Hohe 53 Cent.
+
+1946 Reitpferd,ebenso,mit completem Zaumzeug.Hohe 40 Cent.
+
+Kopfe, ebenso, mit Satteldecke. Hohe 51 Cent.
+
+1947 Reitpferd, ebenso, mit Satteldecke und Zubehor. Hohe 44 Cent.
+
+- 1948 Grosses Pferd, vorziglich vollrund geschnitzt von Romann Boos. Polychromirt.Hohe 68 Cent.
+- 1949 Vier Thierfiguren in Holz geschnitzt,theils fragmentirt. Lange zwischen 15 und 28 Cent.
+- Hohe 49 Cent.
+- 1950 Zwei Ofenfusse in Form vollrund geschnitzter sitzender Lowen mit Kugel.
+- Gothisirende vollrunde
+- 1952 Sitzender Lowe, gekront, mit grosser Mahne und geringeltem Schweif.
+- 1951 Grosser sitzender Lowe, den Rachen aufsperrend. Figur. Vergoldet.Hohe 65 Cent.
+- Hohe 40 Cent.
+- 1954 Zwei grosse Lowen mit geringeltem Schweif und gewaltigen Muhnen, voll-
+- 1953 Zwei Lowenkopfe in hohem Relief geschnitzt. Verschieden.Lange 24 und 22 Cent.
+- rund in Holz geschnitten und polychromirt. Lange 53 Cent.
+- 1956 Phantastischer Lowe, sitzend, eine Kerze haltend, Spottfigur, halbrund geschnitzt und polychromirt.Hohe 40 Cent.
+- 1958 Pelican mit ausgebreiteten Schwingen.i
+- 1955 Heraldischer Lowe auf Kugel, vollrund geschnitzt. Hohe 48 Cent.
+- 1957 Der Luzerner Lowe, vollrund gut geschnitzt.
+- Hohe 10,Lange 21 Cent.
+- Vollrund geschnittene Figur,bemalt und vergoldet. XVII. Jahrh. Hohe 41,Breite 63 Cent.
+- geschnittene gothische Figur, weiss bemalt. Lange 125 Cent.
+- 1959 Drache mit geoffnetem Rachen und geringeltem Schweif. Grosse vollrund
+- 1960 Widderkopf, hochreliefrt,aus einer Holzplatte vortretend.Hohe 30, Breite
+- 1961 Doppeladler auf Sockel stehend, vollrund geschnitten und vergoldet. Ende
+- 23 Cent.
+- XVII.Jahrh. Hohe 28 Cent.
+- 1962 Zwei Engel, der eine mit Tiara,der andere mit Mitra, auf geschweifter Basis sitzend. Flott behandelte Miniatur-Vollfiguren. Hohe 6 Cent. Auf vierseitigem Sockel.
+- 1963 Mohrenkopf mit grossem Turban. Nebst 2 anderen Kopfen.
+- Der untere Theil zeigt eine Anbetung der Hirten in einer Composition von funf Figuren,im Vordergrunde zwei kleine Engel; der obere Theil ist als eine Gebirgslandschaft gedacht, in welcher die zu Pferde herankommenden hl. drei Konige mit ihrem Gefolge,Hirt mit seiner Heerde etc. Edel gehaltenes,interessantes Schnitzwerk in nischenformigem Kasten mit durchbrochen geschnitztem Kasten und oberem Zinnenfries. Hohe der Gruppe 95, Breite 60, Hohe des
+- 1965 Gruppe dreier Groteskkopfe, vollrund geschnitzt in Buchsbaumholz. Hohe 10 Cent.
+- 1964 Grosse gothische Gruppe,in Eichenholz. ganzen 127,Breite 69 Cent.
+- 1966 Die Geisselung Christi. vollrund.
+- 1967 Maria's Besuch bei Elisabeth. Reliefgruppe mit der originalen Poly-
+- Viereckiges Hochrelief in Buchs,einzelne Partien Charakteristische vorziglich geschnitze Gruppe dreier Figuren vor einem Portale. Lange 33,Breite 23 Cent. In Rahmen unter Glas.
+- chromirung und Vergoldung. XVI. Jahrh. Hohe 32, Breite 22 Cent.
+- 1969 Romische Ruine. Hochrelief-Schnitzerei mit freistehenden Theilen. Hohe 20,Breite 27 Cent.
+- 1968 Die Anbetung der hl. drei Konige. Interessante Reliefgruppe von sechs Figuren mit der originalen Polychromirung und Vergoldung. XVI. Jahrh. Hohe 126,Breite 96 Cent. Auf viereckiger Holzplatte.
+- 1970 Relief mit Ecce Homo; polychromirt. Hohe 36, Breite 18 Cent.
+- funf Figuren darstellend,polychromirt. Hohe 22,Breite 25 Cent.
+- 1971 Reliefschnitzerei, die Darbringung im Tempel in einer Composition von
+- 1972 Wunderthatiges Madonnenbild. Fast vollrund geschnittenes Grippchen；
+- 1973 Reliefrte Halbfigur eines Mannes in rothem Gewande, langem Barte und
+- polychromirt und vergoldet. XVII.Jahrh. Hohe 11 Cent.
+ach.
+
+- Klapphute, in den Handen ein Schriftband mit ,In vino veritas“ haltend.
+- Bemalt.Lange 64 Cent.
+- 1974 Die Reliefbusten zweier Engel, eine breite Banderole vor sich haltend. Bemalt. XVI. Jahrh. Hohe 2O Cent.2 Stuck.
+- 1975 Christus am Oelberg. Reliefgruppe von einer Altarschnitzerei mit originaler
+- Vergoldung und Polychromirung. Hohe 40,Breite 41 Cent.
+- 1976 Christus,das Kreuz tragend. Hohe 47,Breite 41 Cent.
+- 1977 Christus vor Pilatus. Gruppe von vier Figuren. Ebenso. Hohe 50, Breite 49Cent.
+- 1978 Grosses,oberhalb abgerundetes Relief mit Maria, die Stufen des Tempels ersteigend, in einer Composition von sechs Figuren. Anfang XVI. Jahrh.; mit der Original-Polychromirung und Vergoldung. Hohe 86,Breite 66 Cent.
+- 1979 Viereckiges Relief in Holzrinde, hoch gepresst,mit Rickkehr von der
+- Jagd. Englisch. Lange 12,Breite 15 Cent.
+- 1980 0rnamentschild, ebenso,mit hochreliefrter weiblicher Biste. Lange 111/2
+- Breite 8 Cent.
+- 1981 Rundes Medaillon mit der Relief-Darstellung Christi am Oelberg. Gutes
+- Stick. XV. Jahrh. Diam. 51/2 Cent. In Holzrahmchen.
+- 1982 Pieta, in einer Composition von vier Figuren.Interessante, fast vollrund
+- geschnitzte Gruppe. Bemalt. Hohe 77 Cent.
+- 1983 Burg auf Felsen. Interessante Reliefschnitzerei. Bemalt. Hohe 95,Breite
+- 76 Cent.
+
+## Mobel und Gerathe.
+
+- und einer kleineren Schieblade. Die Thuren, sowie die Seitenwandungen in verschiedenfarbigem Holze iberaus reich eingelegt mit Rococo-Ornamentwerk.Hubsches Mobel mit Bronzebeschlagen.Hohe 229,Breite 190,
+- Tiefe 75 Cent.
+- 1985 Doppelthuriger Leinwandschrank. Der Sockel mit 2 Schiebladen. Die
+- Thuren geschnitzt mit Fruchtfestons in quadrirten Feldern, iberragt von gefluigelten Engelskopfen.Hohe 200,Breite 180,Tiefe 70 Cent.
+- 1986 Doppelthuriger Leinwandschrank auf Sockel mit 2 Schiebfachern. Die Thuiren mit je zwei Medaillons in Lorbeerkranzen, Hohe 18O, Breite 160, Tiefe 60 Cent.
+- 1987 Doppeltheiliger Kastenschrank auf hohem Fusse mit 2 Schiebladen. Das Unter- sowie das Obertheil mit 2 Thuren, die in verschiedenfarbigem Holz eingelegt und zwei Felder in architektonischer Anlage zeigen. Seitlich und in der Mitte drei gedrehte Saulen.Hohe 200,Breite 120,Tiefe 60 Cent.
+- 1988 Grosser doppelthuriger Schrank auf hohem Fusse, der mit zwei Schiebladen. Die von Pilastern fankirten Thiren in vier von guillochirten Leisten umrahmte Felder eingetheilt, die iberragende Kappe mit Lorbeerfries. Hohe 230,Breite 210, Tiefe 75 Cent.
+- 1989 Grosser gothischer Kastenschrank mit einer Thire, in Flachrelief geschnitzt mit gothischem Laubwerk. Hohe 180, Breite 130,Tiefe 68
+- Cent.
+- 1990 Kastenschrank auf Sockel mit zwei Schiebladen und aufiegendem gothi
+- schen Fries. Die Thure in verschiedenfarbigem Holze reich eingelegt mit Stadtansicht.Hohe 150,Breite 150,Tiefe 60 Cent.
+- 1991 Hoher einthiriger Kastenschrank. Schwarzes Holz mit unterer Schieb lade. Die Thire in zwei Felder eingetheilt mit geschnitztem Doppeladler auf vergoldetem Untergrunde. Seitlich zwei mit Fruchtfestons geschnitzte Saulen. Interessantes Mobel. Hohe 190,Breite 120,Tiefe 65 Cent.
+- 1992 Lavoirschrank. Die Thiren des Unter- und Obertheils mit architektonisch angelegtem Mittelfeld. Der Mittelbau nischenformig. Hohe 23O,Breite 70, Tiefe 60 Cent.
+- 1993 Hoher doppelthuriger Schrank, der Fuss mit 2 Schiebladen. Die Thiren
+- mit zuricktretender Nische und oberem Muschelaufsatz, die unteren Huilften mit von guillochirten Leisten umrahmten Feldern. Hohe 250, Breite 160, Tiefe 70 Cent.
+- 1994 Grosser doppelthuriger Kastenschrank in Eichenholz auf hohem Sockel mit zwei Schiebladen.Die Thiren zeigen in geschnitzter Umrahmung vier Felder in Maserholz zwischen drei gewelten Pilastern. Hohe 240, Breite 160,Tiefe 65 Cent.
+- 1995 Doppelthuriger Kastenschrank in schwarz gebeiztem Holze. Die Thiren mit vier Gemalden zwischen guillochirten Leistenumrahmungen. Hohe 180,
+- Breite 170,Tiefe 70 Cent.
+- 1996 Truhenformiger Kastenschrank mit zwei Thiiren, auf denen zwischen zwei Pilastern je eine Rosette. Die beiden Seiten mit Hatormaske. Hohe 90, Breite 170,Tiefe 65 Cent.
+- 1997 Rococo-Schreibschrank in eingelegter Arbeit. Der Untertheil geschweift und stark vortretend mit einer grosseren und acht kleineren Schiebladen. Der entsprechend eingetheilte Obertheil mit obeliskenformigem Aufsatz. Hohe 190,Breite 160,Tiefe 75 Cent.
+- 1998 Rococo-Schreibpult in Nussbaumholz in geometrischer Musterung eingelegt. Die Vorderseite mit fuinf Schiebfachern und Klappdeckel. Im Innern sieben weitere Compartimente. Hohe 100, Breite 100, Tiefe 50 Cent.
+- 1999 Bucherschrank. Der Untertheil kastenformig mit 2 Thuren, der Obertheil offen mit 3 Fachern. Die Flachen bedecken tiefgeschnitzte gothische Blumenranken.Hohe 210,Breite 70,Tiefe 45 Cent.
+- 2000 Gothischer Sakristeischrank. Die beiden Thuren zeigen auf der Innenund Aussenfache je zwei Gemalde mit biblischen ete. Darstellungen. Die Seiten mit eingeritzten gothischen Laubranken.Interessantes Mobel. Hohe
+- 200,Breite140,Tiefe 44 Cent.
+- 2001 Sakristeischrank im Barockstil. Die Vorderseite geschnitzt mit vergoldetem Ornamentwerk und bemalt mit vier Darstellungen aus dem Marienleben. Interessantes Mobel. Hohe 190, Breite 110,Tiefe 50 Cent.
+- 2002 Grosses gothisches Mobel mit 20 Schiebfachern. Das Gestell mit gothisehem Friesin Kerbschnittmusterung und oberer Zinnenbekronung. Hohe 150,Breite 230.Tiefe 60 Cent.
+- 2003 Sakristei-Wandschrankchen. Die Seitenfuillungen mit altdeutschen Ge-
+- malden. Hohe 110,Breite 67,Tiefe 35 Cent.
+- 2004 Gothisches Wandschrankchen auf vier Fussen. Die Thure, die dariber liegende Schieblade, sowie die Seitenfuillung geschnitzt mit durchbrochenem,
+- aufgelegtem Masswerk.Hohe 125,Breite 100, Tiefe 45 Cent.
+- 2005 Kleiner doppelthuriger Schrank mit oberer Schiebiade. Die Thuren in n Holze eingelegt mit Doppeladler. Die Schiebladen in
+- verschiedenfarbigem geometrischer Anordnung. Hohe 125,Breite 145,Tiefe 65 Cent.
+- 2006 Doppelthuriger kleiner Schrank.Die von drei gedrehten Saulen fankirten Thiren geschnitzt mit erhabenem Ornamentwerk. Die ganze vor-
+- dere Flache in verschiedenfarbigem Holze in geometrischer Musterung eingelegt. Suddeutsche Arbeit.Hohe 110, Breite 130,Tiefe 50 Cent.
+- 2007 Sckmuckschrankchen mit mittlerem Gelass und 13 Schiebladen und oberem Klappdeckel. Allseitig in verschiedenfarbigem Holze iberaus reich eingelegt. Das Ganze von vier gedrehten Saulen fankirt. Hohe 9O, Breite 110,Tiefe 45 Cent.
+- 2008 Schmuckschrankchen in vorderem Schiebdeckel,hinter dem eine Einrichtung von acht Schiebladen, deren drei auch in dem verjungenden Aufsatz. XVI1. Jahrh. Hohe 24, Breite
+- Schiebfachern 2009 Schmuckschrankchen in Palysanderholz mit zallreichen mit guillochirten Leistchen und breitem, architektonisch angelegtem Mittelfeld.
+- Schreinform,wenig eingelegt,mit 24,Tiefe 11 Cent.
+- Hohe 30,Lange 28, Breite 15 Cent.
+- Schwarzes Holz, die Friese der Schiebfacher von guillochirten Leistchen umfasst.Hohe 62,Breite 49,Tiefe 25 Cent.
+- einer architekto2011 Cabinet mit zahlreichen Schiebfachern, als Umrahmung nischen Mittelpartie mit Thiire. Die Friese derselben mit von guillochirten Leisten umrahmten Marmorplattchen belegt, auf denen unter Benutzung der Aderung des Steins Landschaftsbildchen. XVII. Jahrh. Hohe 55, Breite 105,Tiefe 31 Cent.
+- 2012 Kleines Ulmer Cabinet mit Klappdeckel und einer innern Einrichtung von neun Schiebfachern, in reichster Marquetterie-Arbeit mit Trophie von MusikInstrumenten im Innern des Deckels und mit Architektur-Motiven auf den Friesen der Schiebladen. Sehr gutes Stuick. XVII. Jahrh. Hohe 29, Lange 31,Breite 23 Cent.
+- 2013 Cabinet mit mittlerem Compartiment, um welches neun Schiebfacher verschiedener Grosse, deren Friese mit vergoldeter Metallapplication geziert. Das Ganze ist mit einem Klappdeckel verschlossen, der zierliche Arabesken in verschiedenfarbigem Holze eingelegt zeigt. XVII. Jahrh. Hohe 41,
+- Lange 55,Breite 31 Cent.
+- 2014 Gothisches Schrankchen auf in Flachrelief geschnitztem Sockel, mit einer Thure. Hohe 104, Breite 95,Tiefe 59 Cent.
+- 2015 Schlusselschrankchen. Die Thire zierlich eingelegt mit Doppeladler unter von Saulen fankirter Bogennische.Hohe 57,Breite 43, Tiefe 16 Cent.
+- 2016 Schmuckschatulle mit Klappdeckel, schwarzes Holz mit eingelegten Alabasterplatten, die auf der Vorderseite architektonisch angelegt sind. Hohe 17,
+- Breite 34,Tiefe 22 Cent.
+- 2017 Schmuckschrankchen mit zahlreichen Fachern, Nussbaumholz, wenig eingelegt.Hohe 20,Breite 22 Cent.
+- 2018 Japanisches Lackschrankchen mit Reliefdarstellungen in Gold. Hohe 8,
+- Lange 25,Breite 13 Cent.
+- 2019 Viereckiger Kasten, wenig geschnitzt mit Rococowerk. Hohe 27, Lange 57,
+- Breite 34 Cent.
+- 2020 Grosser vierseitiger Kasten, allseitig bemalt in Wismuthmalerei. Auf dem Deckel eine figurenreiche Darstellung von einer Palastarchitektur, die Seitengemalten Blumenverschlingungen Medaillons mit den allegorischen Darstellungen der Cardinal tugenden in interessanten Trachtenfiguren; eines der Medaillons tragt die
+- fachen zeigen zwischen reichen auf Silbergrund Jahreszahl 1556. Hohe 20, Lange 48,Breite 34 Cent.
+- 2021 Kleiner Kasten mit Klappdeckel, eingelegt und geschnitzt. Hohe 29,
+- Lange 40,Breite 23 Cent.
+- 2022 Kleine gewolbte Schatulle, Holz,allseitig eingelegt in dunkleren Streifen ete.
+- Hohe 19,Breite 41,Tiefe 27 Cent.
+- 2023 Achtseitig abgefachte Schatulle, simmtliche Seiten bedeckt.  Quadern in Perlmutter.Hohe 19,Lange 27,Breite 18 Cent.
+- 2025 Zwei einfache Kastchen, eins commodenformig.
+- 2024 Tuschkasten und zwei chinesische Lackkasten. 3 Stuick.
+- 2026 Grosser viereckiger Lackkasten mit figuralen Darstellungen und Arabesken
+- Hohe 12 und 10 Cent.
+- in Gold auf rothem Grunde. Japanisch. Hohe 7,Lange und Breite 55 Cent.
+- Kopf den Doppeladler zwischen reichen Arabesken und Laubranken zeigt. Vorzugliches Mobel. Hohe 120,Lange 190, Breite 100 Cent.
+- 2027 Grosse Renaissance-Bettstelle in reichster Marquetterie-Arbeit, die auf dem
+- 2028 Gothische Bettstelle mit oberem Zackenfries und Fischblasenornament. Hohe 210,Lange 200,Breite 90 Cent.
+- mit Jahreszahl 1616.Hohe 190,Lange 200,Breite 135 Cent.
+- 2029 Breite Bettlade. Vorder- und Rickwand in architektonischer Anlage und
+- 2030 Commode in geschweifter Form mit drei Schiebladen, die wie die Platte
+- 2031 Kleine Commode auf vier Kugelfuissen mit vier Schiebfachern, die sowie die Seiten in Wismuthmalerei ausgefihrt. Hohe 80,Breite 100,Tiefe 65 Cent.
+- reich eingelegt. Hohe 85,Breite 128,Tiefe 85 Cent.
+- 2032 Bettlade, wenig geschnitzt. Hohe 100,Lange 200, Breite 100 Cent.
+- 2034 Grosse Truhe in schwarzem Holze mit 2 aufgemalten vorderen Wappen.
+- 2033 Grosse Truhe auf hohem Fusse, die Vorderseite reich geschnitzt mit gothischen Laubranken in Kerbschnitt. Hohe 100,Breite 270,Tiefe 70 Cent.
+- Hohe 75,Breite 200,Tiefe 70 Cent.
+- 2036 Grosse Truhe in braunem Holze, die Vorderseite mit 5 Feldern in architektonischer Anlage geschnitzt. Hohe 60,Breite 85,Tiefe 78 Cent.
+- 2035 Grosse Truhe, geschnitzt mit gothischen Friesen in Kerbschnittmusterung den Namen Jesu.Hohe 50,Breite 175,Tiefe 65 Cent.
+- 2037 Grosse Truhe in braunem Holze,die Vorderseite mit vier in Kerbschnitt
+- 2038 Truhe in Eichenholz.
+- gemusterten Friesen. Hohe 60,Breite 176,Tiefe 60 Cent.
+- 2039 Grosse Truhe, braunes Holz. Die Friese mit Kerbschnitt-Musterung. Die Schlossplatte mit reich proflirten Ranken.Hohe 60,Breite 180, Tiefe 70Cent.
+- Seitlich zwei Friese mit verschiedenfarbigem Holze in geometrischer und architektonischer Musterung eingelegt. Mit reich proflirter Schlossplatte.Hohe 50,Breite 165,Tiefe 70 Cent.
+- 2040 Grosse Truhe in Eichenholz.Die Vorderseite zeigt, in vier Felder ein-
+- 2041 Grosse Trube in Eichenholz mit schwerem Schloss. XVI. Jahrh. Hohe 65, Breite 175,Tiefe 75 Cent.
+- getheilt, reich geschnitzte Thorbogen; seitlich zwei reich ornamentirte Eisengriffe.Hohe 50,Lange 160,Tiefe 60 Cent.
+- 2042 Grosse Truhe auf Sockel; die Vorderseite reich eingelegt,in drei durch Capitelle getrennten Feldern mit Blumen in verschiedenfabrigem Holze.
+- 2043 Truhe, einfach, die Vorderseite mit zwei gemalten Wappenschildern, das eine mit Hahn. XVI. Jahrh. Hohe 50,Breite 170,Tiefe 60 Cent.
+- XVII.Jahrh.Hohe 94,Breite 190,Tiefe 70 Cent.
+- 2044 Kleine Truhe mit schweren Eisenbeschlagen. Hohe 55,Lange 83, Breite
+- 2045 Kleine Truhe in Eichenholz mit schweren Eisenbeschlagen. Hohe 60, Breite 85,Tiefe 85 Cent.
+- 2046
+- 2047 Kinderwiege, eingelegt mit Ranken etc., den Namenszigen Jesu und Mari
+- 55Cent.
+- 6 Wiege, die Breiteseiten mit charakteristischen Mascarons geschnitzt. Hohe67, Lange 113,Breite 42 Cent.
+- und Jahreszahl 1798. Hohe 55,Lange 100,Breite 46 Cent.
+- 2048 Runder Tisch, die vier ins Kreuz gestellten Stollen iberaus reich geschnitzt mit Renaissance-Ornamentwerk.Hohe 10O Cent.
+
+2050 Tisch, einfach mit ins Kreuz gestellten, gedrehten Fussen. Hohe 80 Cent.
+
+2049 Tisch,ihnlich. Ebenso. Gleiche Grosse.
+
+2051 Schweizer Bauerntisch mit gedrehten Stollen. Hohe 8O Cent.
+
+2053 Tisch,einfach, mit vier gedrehten Stollen. Hohe 80,Lange 100,Breite
+
+2052S Schragen eines Schweizer Bauerntisches. Defect.
+
+50 Cent.
+
+2054 Gothischer Chorstuhl mit doppelten Klappsitzen. Seitlich zwei geschnitzte Wappen. Interessantes Mobel. Hohe 1i5,Breite 140,Tiefe 45 Cent.
+
+2056 Lehnsessel, die ins Kreuz gestellten Fusse gedreht. Allseitig mit rothem Piusch bezogen. Hohe 115 Cent.
+
+2055 Klappsessel in Form der alten Sella; die Wangen S-formig geschweift. Mit Original-Lederbezug. Hohe 115 Cent.
+
+2057 Rococo-Lehnsessel, reich geschnitzt und mit gemustertem Wollstoff bezogen. Hohe 130 Cent.
+
+- 2059 Vier Stuhle, die Sitze mit grunem Sammet bezogen und mit Nageln beschlagen. Hohe 112 Cent.
+
+2058 Funf Stuhle, die Traversen allseitig geschnitzt, die Rucklehnen mit Wappen. Sitze und Ruckwande mit Original-Lederbezug. Hohe 110 Cent.
+
+- 2060 Stuhl, sog. Rubensstuhl"; das Gestell reichgeschnitzt mit Mascaron und Laubranken. Sitz und Ruickwand mit gemustertem Stoffbezug. Hohe 103 Cent.
+- 2061 Stuhl, ahnliche Form,die Ruckwand von vollrunden Lowenkopfen iberragt. Sitz und Rucklehne mit rothem gemusterten Sammetbezug. Hohe
+- 118 Cent.
+- 2062 Hoher Stuhl; das Gestell sehr reich geschnitzt in gothischem Stile: die
+- Querbalken der Stollen und der hohen Ruckwand mit Wappenschildern zwischen theils durchbrochenem Geast und Laubwerk. Sitz und Ruckwand mit Leder bezogen. Hohe 147 Cent.
+- 2063 Hoher Stuhl mit reich geschnitztem Gestell: die untere Traverse mit
+- gefigeltem Engelskopf, die Ricklehne mit Mascaron. Der Sitz mit grunem Pluschbezug. Hohe 134 Cent.
+- 2064 Stuhl; die Traversen, sowie die Ricklehnen geschnitzt mit Ornamentwerk und Hatormaske. Die Rickwand unten in Delphinen auslaufend und von vollrunden charakteristischen Thierkopfen iberragt. Der Sitz mit gepresstem und polychromirtem Lederbezug. Hohe 110 Cent.
+- Stuhl, wenig geschnitzt. Die Vordertraverse mit Mascaron. Der Sitz mit
+- 2065S grinem Plischbezug. Hohe 90 Cent.
+- 2066 Stuhl, wenig geschnitzt. Sitz mit Original-Lederbezug. Hohe 100 Cent.
+- 2067 Stuhl; die Rucklehne wenig geschnitzt mit Eierfries und Jahreszahl 1704.
+- Hohe 115 Cent.
+- 2068 Schemel mit vier
+- gedrehten Fuissen. Der Sitz mit Lederbezug. Hohe 50 Cent.
+- 2069 Kinderlehnsessel mit geschnitztem Gestelle. Hohe 75 Cent.
+- 2070 Gothischer Kindersessel, Rickwand und Seitenlehnen geschnitzt mit Thierfiguren und Ornamentwerk. Mit gepresstem Lederbezug und Kupfernigelbeschlag.Hohe 120 Cent.
+- 2071 Kinderstuhlchen, geschnitzt und mit Lederbezug. Hohe 6O Cent.
+- 2072 Grosser doppeltheiliger Spiegelrahmen,reich geschnitzt mit Medaillons
+- und Bandverschlingungen. Hohe 250, Breite 110 Cent.
+- 2073 Grosse Etagere mit drei Fachern. Die Ruckwand, sowie die Seiten reich geschnitzt mit freistehenden gothischen Laubverschlingungen. Hohe 140,
+- Breite 90,Tiefe 30 Cent.
+- 2074 Etagere mit Aufsatz; zwei Facher mit je acht schraubenformigen Saulen. Hohe 60,Breite 104,Tiefe 16 Cent.Beschadigt.
+- 2075 Pfeifenstander, einfach. Hohe 100, Breite 74,Tiefe 25 Cent.
+- Hohe 130 Cent.
+- 2076 Messbuchstander. Der Fuss wenig geschnitzt mit gothischen Blumenranken.
+- 2077 Tellerbrett. Der Aufsatz in Form eines dreitheiligen Baldachins, reich durchbrochen geschnitzt im gothischen Stile mit Masswerk und FischblasenOrnament. Hohe 64,Breite 76,Tiefe 10 Cent.
+- 2078 Spiegelrahmen in geschweifter Form,mit oberer Muschel, vergoldet. Hohe 53,Breite 30 Cent.
+- 2079 Sockel mit Mascaron. Hohe 29 Cent.
+- 2080 Sockel mit zwei vollrunden Sphinxfiguren. Hohe 14,Breite 25 Cent.
+- Cylindrischer Sockel mit reliefirten vergoldeten Bandverschlingungen. Hohe
+- 2081 24,Diam.16 Cent.
+- 2082 Runder Sockel, en relief geschnitzt und vergoldet. Hohe 24,Diam. 19 Cent.
+- 2083 Console mit drei Tragern. Vergoldet. Hohe 27,Lange 30,Breite 13 Cent.
+- 2084 Grosse Console, reich geschnitzt mit freistehendem Blattwerk. Hohe 42, Breite 42 Cent.
+
+2085 Vier Trager einer Balustrade mit Palmetten geschnitzt. Linge 57 Cent.
+
+- 2086 Rucklehne eines Schemels mit zwei Wappenschildern und Jahreszahl 1724. Hohe 34,Breite 32 Cent.
+- 2087 Sockel eines gothischen Mobels. Die Vorderseite reich geschnitzt mit
+- Geast und Laubranken.Hohe 40,Breite 150 Cent.
+- 2088 Fuss eines gothischen Mobels,allseitig reich geschnitzt mit Blumenranken ete.
+- in Kerbschnitt.Hohe 30,Breite 110,Tiefe 65 Cent.
+- 2089 Obertheil eines Schrankes mit mittlerem doppelthurigen Gelass und seit-
+- lichen quadratformigen Schiebladen. Hohe 140,Breite 140,Tiefe 75 Cent.
+- 2090 Renaissance-Thure,in einem mittleren Medaillon die Kopfe der Dreifaltigkeit,in den Zwickeln Palmetten. Polychromirt und vergoldet. Hohe 34,Breite 32 Cent.
+- 2091 Vier grosse Schrankthuren in deutscher Renaissance, zwei mit Doppeladler, zwei mit Laubornament in Giebelnische. Hohe einer jeden 72,
+- Breite 51 Cent.
+- 2092 Flugel einer Thure, oberhalb gerundet, massiv in Eichenholz,beiderseits in Flachrelief geschnitztmit Darstellungen aus den Turkenkriegen, Blumen etc.Auf der Vorderseite der Doppeladler. Oben Monogramm J.C.W.XVII.Jahrh. Hohe 118,Breite 58 Cent.
+- 2093 Landschaft mit Figuren. Schrankfuillung. Holz. Hohe 18, Breite 26 Cent.
+- 2094 Breite Sesseltraverse in Hochrelief, gut geschnitzt mit Cardinalswappen
+- zwischen reichen Laubverschlingungen. Hohe 3O, Breite 54 Cent.
+- 2095 Stuhllehne mit Mascaron.Hohe 43 Cent.
+- 2096 Stuhllehne, geschnitzt mit Wappen mit Welle und Schwan. XVIII. Jahrh. Hohe 32,Breite 45 Cent.
+- 2097 Rucklehne eines Stuhles mit gekrontem Wappenschild zwischen Palmetten. Hohe 20,Breite 46 Cent.
+- 2098 Zwei Stuhllehnen, gut geschnitzt. Lange 42 Cent.
+- 2099 Zwei Stuhltraversen mit Mascaron.
+- 2100 Schemel-Rucklehne, geschnitzt mit Bluuen und Jahreszahl 1789. Hohe
+- 45，Breite 45Cent.
+- 2101 Sesselfuss mit Lowe, vergoldet. Lange 50 Cent.
+- 2102 Support,reich geschnitzt mit dem gekronten Monogramm des Max Emanuel auf einer von zwei Engeln gehaltenen Draperie. Polychromirt und vergoldet. Hohe 63,Breite 93 Cent.
+- 2103 Hoher Aufsatz mit vorziglich geschnitzten Doppelwappen auf reicher Helm-
+- decke; das eine Wappen mit heraldischem Lowen, das andere 1 und 3 Laufbrunnen,2 und 4 Thurm mit Hufeisen. Die Umrahmung seitlich mit zwei Mascarons. Gutes Stick. XVI. Jahrh. Polychromirt und vergoldet. Hohe 85,Breite 100 Cent.
+- 2104 Aufsatz, gut geschnitzt mit dem hessischen Wappen in einer von zwei
+- Lowen gehaltenen Umrahmung. Hohe 32,Breite 93 Cent.
+- 2106 Aufsatz mit vollrund geschnitztem, versilberten und gekronten Adler. Hohe 51 Cent.
+- 2105 Aufsatz mit einer in Hochrelief geschnitzten Burg mit hohem Thoreingang. XVII.Jahrh. Hohe 52,Breite 40 Cent.
+- 2107 Rococo-Thuraufsatz, im Mittelfelde gekrontes, quadrirtes Wappen. Polychromirt.Hohe 70,Breite 77.Cent.
+- 2108 Aufsatz mit Blattkranz und Mittelcartouche.Hohe 46,Breite 54 Cent.
+- 2109 Aufsatz im reichen Renaissancestil, geschnitzt mit aus Puttenfiguren erwachsendem Laubwerk,die ein mittleres Wappenschild mit Mitra halten. Polychromirt und vergoldet. XVI. Jahrh.Hohe 44,Breite 105 Cent.
+- 2110 Aufsatz mit cinem von Lowen gehaltenen Wappenschild. Vergoldet. Hohe
+- 35,Breite 40 Cent.
+- 2111 Rococo-Bekronung mit schildhaltendem Lowen. Hohe 55 Cent.
+- 2112 Grosse Holzfullung, eingeschnitten einerseits Blumenranken, andererseits der gekronte Doppeladler und Monogramm: J.A.K. Hohe 86, Breite 60 Cent.
+- 2113 Grosse gothische Fullung mit in Fischblasen durchbrochener Rosette. Hohe 66,Breite 52Cent.
+- 2114 Zwei gothische Fullungen, geschnitzt mit Masswerk.  Lange 21, Breite 20 Cent. 2 Stick.
+- 2115 Fullung mit dem hochreliefirten markgraflich-brandenburgischen Adler. Hohe 58,Breite 36 Cent.
+- 2116 Gothische Fullung, in Flachrelief geschnitzt mit Kreuzblume. Hohe 17,
+- Breite 60 Cent.
+- 2117 Fullung mit dem in Hochrelief geschnitzten preussischen Adler. Hohe 60,
+- Breite 37 Cent.
+- 2118 Zwei Fullungen mit eingeschnittenen quadrirten Wappenschildern. Lange
+- 25,Breite 28 Cent. 2 Stuck.
+- 2119 Zwei Fullungen, bemalt mit Evangelistenfiguren auf der einen und Ornamentwerk auf der anderen Seite. Hohe 33,Breite 23 Cent.
+- 2120 Drei verschiedene gothische Fullungen und Leisten mic Ranken und Orna-
+- menten in Flachrelief. Lange zwischen 55 und 60 Cent.
+- 2121 Breite Galerie, durchbrochen geschnitzt mit Rankenwerk,in dessen Mitte ein von zwei Lowen gehaltenes Wappenschild. Polychromirt. XVI. Jahrh. Hohe 32,Breite 122 Cent.
+- 2122 Kleine Leiste mit gothischen Lange 161/2,
+- Ornamentdurchbrechungen. Breite 61/2 Cent.
+- 2123 Treppenpfosten-Aufsatz in Form eines vollrund geschnittenen Lowenkopfes.
+- Hohe 38 Cent.
+- 2124 Treppenpfosten mit Fuchs, eine Gans verzehrend, vollrund geschnitten. Hohe 103 Cent.
+- 2125 Treppenpfosten in Form eines sitzenden, die rechte Tatze vorstreckenden
+- Lowen,vollrund geschnitten. Bemalt. XVII. Jahrh. Hohe 52 Cent.
+- 2126 Aufsatz eines Treppenpfostens mit Bar als Sehidhalter, vollrund geschnitten.
+- Polychromirt und vergoldet. XVIII. Jahrh. Hohe 5O Cent.
+- 2127 Pfostenaufsatz in Form eines den Kopf nach unten beugenden und die Flugel schlagenden,vollrund geschnitzten, auf Nest sitzenden Pelikans.
+- Hohe SO Cent. Ein Fligel fehlt.
+- 2128 Aufsatz eines Treppenpfostens, Neptun iber Deiphin, aus Rococowerk hervortretend. Vollrund geschnitzt und polychromirt. Hohe 55 Cent.
+- 2130 Grosse Scarabae, die untere Seite mit Charakteren. Lange 11,Breite 6 Cent.
+- 2129 Aufsatz eines Treppenpfostens, vollrund geschnitzt in Form eines Lowen. Hohe 46 Cent.
+- 2131 Spinnrad, complet; das Rad mit gedrechselten Speichen. Hohe 73 Cent.
+- 2131b Spinnrad,ahnlich. Hohe 129 Cent.
+- 2131a Spinnrad in reich gedrechselter Arbeit. Hohe 130 Cent.
+- 2131e Spinnrad,ahnlich.Hohe 120 Cent.
+- 2132 Spinnrad (defect) und Haspel. Hohe 98 und 37 Cent.
+- 2134 Lustreweibchen,vollrund geschnitzt in Form eines Seeweibchens. Polychromirt. XVI.Jahrh.Lange 51 Cent.
+- 2133 Lustre.—Delphin —.Masse,polyehromirt und vergoldet; mit echten Widderhornern.Beschadigt. Lange 65 Cent.
+- 2135 Lustreweibchen, ein vollrund geschnittenes Meerweibchen mit.langem Fischschwanz, reich polychromirt, darstellend. Lange 55 Cent.
+- 2137 Lustre, sog. Lustreweibchen in Form einer Meerjungfrau. Das Brustschild mita aufgemaltem Wappen.
+- 2136 Grosser Hangeleuchter -Lustreweibchen —im Stile des XVI. Jahrh., mit einer vollrund geschnitzten weiblichen Biste iber Wappenschild. Mit echtem Hirschgeweih. Schones Decorationsstick.Lange 54 Cent.
+- Masse und echtes Hirschgeweih. Neu polychromirt. Lange 95 Cent.
+- 2138 Achtarmiger Erkerkronleuchter in Bronze.Das Mittelstick bildet ein
+- von vier Saulen fankirter und von spitzem Dache iberragter Baldachin, unter welchem ein schildtragender Ritter mit erhobenem Schwert. Die geschwungenen Arme mit reich profilirten gothischen Laubranken und einer doppelten Reihe von Lichttillen,die von Drachenfiguren getragen. Hubsches Stuick.Hohe 60,Breite 95 Cent.
+- 2138a Kronleuchter, reich im gothischen Stile geschnitzt,mit 6 Lichtarmen, die durch geschnitzte Galerien verbunden sind. Hohe 36, Diam. 52 Cent. Defect.
+- 2139 Zwei gothische Leuchter,geflugelte Engel in Alben,vollrund geschnitzt, in beiden Handen den Leuchter haltend. Mit der urspringlichen Poly-
+- 2140 Leuchter,mit der vollrund geschnitzten Figur eines Wappenhalters. Hohe 29 Cent.
+- chromirung und Vergoldung. Hohe 34 Cent.
+- 2141 Ein Paar Leuchtertrager in Form vollrund geschnitzter knieender Engel in reich drapirten Gewandern. Hohe 48 Cent.
+- 2142 Standuhr in Form der vollrund in Holz geschnittenen und bemalten Figur
+- der Zeit. Das Zifferblatt gravirt.XVIII. Jahrh. Hohe 48 Cent.
+- 2143 Standuhr， das geschweifte Gehause Holz, das Zifferblatt Weissblech, getrieben mit Blumenranken.Hohe 41,Breite 26 Cent.
+- 2144 Standuhr,in schwarzem 1 Holzgehause,die Vorderseite mit getriebenen Messingapplicationen. Hohe 30,Breite 23,Tiefe 14 Cent.
+- 2145 Zwei Sanduhren, eine mit gedrechseltem Holzgestell. Hohe 16 und 12 Cent.
+- 2146 Uhrkasten mit vergoldeten Leistenverzierungen. Hohe 41, Breite 27 Cent.
+- 2147 Uhrhalter in Form einer Saulennische, polychromirt. Hohe 26, Breite
+- 22 Cent.
+- 2148 Uhrstander in Form eines von zwei Lowen gehaltenen Lorbeerkranzes, gut geschnitzt und vergoldet. XVIII. Jahrh. Hohe 24, Breite 21 Cent.
+- 2149 Uhrgestell in Form eines vollrund geschnitzten polychromirten Engels.
+- XVIII. Jahrh.Hohe 48 Cent.
+- 2150 Uhrgestell, gut geschnitzt im Rococogeschmack und vergoldet. Hohe 41, Breite 25 Cent.
+- 2151 Uhrstander in Form einer Draperie mit dem bayerischen Wappen. Hohe 22, Breite 12 Cent.
+- 2152 Uhrstander,vergoldet. Hohe 19 Cent.
+- Hohe 23,Breite 20 Cent.
+- 2154 Pendule-Gestell mit Saturn als Bekronung. Der halbrunde Sockel gitter-
+- formig durchbrochen und mit seitlichen Eckvasen. Hohe 75 Cent.
+- 2155 Rococo-Nische mit geschnitztem Aufsatz. Hohe 58, Breite 33 Cent.
+- 2156 Uhrstander im Zopfstil. Bemalt.Hohe 21 Cent.
+- 2157 Uhrstander, geschnitzt mit zwei am Tisch sitzenden Figuren. Polychromirt. Hohe 28 Cent.
+- 27Cent.
+- geschnitten und vergoldet. Hohe 56 Cent.
+- 2160 Uhrstander in Form einer reichen Nische. Hohe 34 Cent.
+- 2161 Uhrhalter in Form des auf Felsen gefesselten Prometheus, vom Adler
+- zerfressen. Hohe 36,Breite 32 Cent.
+- 2162 Uhrhalter, mit zwei vollrund geschnittenen Atlasfiguren. Vergoldet. Hohe 25, Breite 18 Cent.
+- 2163 Uhrgehause,oben geschweift, schwarzes Holz mit vergoldeten Eckpilastern. Hohe 50,Breite 30,Tiefe 18 Cent.
+- 2164 Uhrstander im Rococogeschmack, gut geschnitten und vergoldet. Hohe 33,
+- Breite 18 Cent.
+- 2165 Uhrgehause,nischenformig, mit hohem Aufsatz, theilweise in verschieden-
+- farbigem Holze eingelegt.Hohe 58,Breite 25,Tiefe 11 Cent.
+- 2166 Rococogehause, gut geschnitzt. Hohe 47 Cent.
+- 2167 Uhrgehause, gut geschnitzt in Rococostil, mit Vergoldung. Hohe 47 Cent.
+- 2168 Schachbrett, eingelegt. Mit completem Schachspiel, in Holz geschnitzten und polychromirten Costimfigirchen und mit Dambrettsteinen. Lange 37,
+- Breite 37 Cent.
+- 2170 Grosses kastenformiges Gehausei im Rococostil mit geschweiften Fussen Hohe 34,Lange
+- 2169 Nische fuir ein Rococo-Hausaltarchen. Die Umrandung geschweift und geschnitzt. Hohe 70, Breite 45 Cent.
+- geschnitzt,in Marmormusterung bemalt und vergoldet. 34,Breite 20 Cent.
+- 2171 Rococo-Heiligenhauschen auf 4 geschwungenen Fuissen. Eeken und Dach geschnitzt, bemalt und vergoldet,nebst Uhrgehause mit gepressten Messingbeschligen.Hohe 50, Breite 37,Tiefe 18 Cent. 2 Stick.
+- 2172 Heiligennische auf 3 geschwungenen Fissen. Die Verlangerung der beiden vorderen als Ecksaulen. Hohe 42,Breite 27,Tiefe 7 Cent.
+- 2173 Rococo-Schlittenfgur in Form einer aus Schneckenornament erwachsenden
+- Mohrenbiste.Polychromirt.Lange 35 Cent.
+- 2174 Schlittenfgur, Krieger, vollrund geschnitten und polychromirt. XVIl. Jahrh. Hohe 43 Cent.
+- 2175 Schlittenfgur, Russe mit schwarzem Bart und Zipfelmitze. Bemalt. XVII.
+- Jahrh. Hohe 32 Cent.
+- 2176 Ein Paar Schlittenfguren,hermenartig behandelte Mohrenbiste, vollrund
+- geschnitten. Hohe 46 Cent.
+- 2177 Schlittenfigur,vollrund geschnitzter Lowenkopf. Linge 44 Cent.
+- Lange zwischen 26 und 16 Cent.
+- 2179 Ein Paar Kummetaufsatze, vollrund geschnitzt in Form von Lowenbusten.
+- Lange 26 Cent.
+- 2179a Ein Paar ahnliche Aufsatze. Lange 26 Cent.
+- 81/2 und 10 Cent.
+- 2180 Drei verschiedene Dosen, eine Maserholz, zwei Lackarbeit. Lange zwischen
+- 2181 Sehmuckschalchen, geschnitzt und bemalt mit der Figur eines Gnomen. Hohe 10 Cent.
+- 2183 Dose in Form eines aufgeputzten sitzenden Affen. Maserholz. Linge 9 Cent.
+- 2182 Tabakdose in Form eines sitzenden Mannes. Hohe 9 Cent.
+- 2184 Markenkasten mit vier kleinen Kistchen, hibsch geschnitzt mit vergoldeten
+- 2185 Brodschneidebrett mit in Flachrelief in Ranken etc. geschnitztem Kopfe. XVII. Jahrh. Lange 60,Breite 44 Cent.
+- Rococo-Ornamenten auf rothem Grunde. Hohe 5,Lange 17, Breite 14 Cent.
+- 2186 Brodschneidebrett,ahnlich, die Unterplatte des Messers Eisen, gravirt und durchbrochen. Gleiche Grosse.Ohne Messer.
+- Lange 61,Breite 19 Cent.
+- 2187 Plattbrett en Flachrelief geschnitzt mit Blumenvase und Jahreszahl 1691.
+- 2188 Schachbrett in verschiedenfarbigem1 Die Rander der Mit 3O gedrechselten Steinen.
+- 2189 Grosses Schachbrett, eingelegt in verschiedenfarbigem Holze. Auf der Innenseite 2 Friese mit Kind in Muschel zwischen Laubranken. Lange und Breite 50 Cent.
+- Holze eingelegt. Innenseite mit eingelegtem Ornamentfries. Holz. Lange und Breite 48 Cent.
+- 2190 Schachbrett, die Felder gemalt, die Spiele sowie zwischengefuigte Blumen
+- 2191 Schachbrett, die Spiele und Verzierungen eingebrannt.Mit 29 gepressten
+- etc.eingeschnitten. Lange 41,Breite 37 Cent.
+- Dambrettsteinen. Lange und Breite 34 Cent.
+- 2192 Sehachbrett, eingelegt mit verschiedenfarbigem Holze in Arabesken etc. Mit 16, mit Medaillenstempeln gepressten Dambrettsteinen. Lange und Breite 44 Cent.
+- Historische Personlichkeiten und Darstellungen ete.ete. Diam. 51/2 Cent. 24 Stuick.
+- die Spiele und Rander in verschiedenfarbigem Holze eingelegt. Mit 57 holzgepressten Dambrettsteinen,mit historischen Personlichkeiten etc. Lange und Breite 46 Cent.
+- 2194 Grosses Dambrett, Nussbaum,
+- 2194a Schachbrett, eingelegt, zum Zusammenklappen.1 Lange 38, Breite 38 Cent.
+- gelegt mit Blumen und Delphinen.Mit 30 Steinen, die in Holz geschnitzt mit Imperatorenbusten ete.Lange und Breite geschlossen 41 Cent.
+- 2195 Dambrett, mit Muhl- und Tric-Trac-Spiel, in verschiedenfarbigem Holz ein-
+- 2196 16 grosse, mit Medaillenstempeln gepresste Dambrettsteine. Diam.5 Cent. 16 Stick.
+- 25 Cent.
+- 2197 Rococostockknopf mit vollrundem Turkenkopf.Buchsbaumholz.Lange
+- 2198 Sieben verschiedene Holzstocke mit figuirlichen Darstellungen:Doppeladler, Heilige ete. Verschiedene Grosse.7 Stuick.
+- 2199
+- 2200 Eine Sammlung von 18 Spazierstocken， deren Kopfe zum Theil reich
+- Sechs verschiedene meist grosse Holzstocke: grosse Zierleisten, Vignetten etc. Verschiedene Grosse.6 Stick.
+- geschnitzt sind in humoristischen und anderen Darstellungen.
+- Lange 6O Cent.
+- 2201 Eine Sammlung von 36 Spazierstocken, dabei Alpenstocke, Ochsenziemer etc.; einige geschnitzt. Interessante Sammlung.
+- 2203 Dudelsack, ahnlich. Gleiche Grosse. Nebst Fragment eines andern.
+- 2202 Clarinette, braunes Holz, der Beschlag Messing.
+- 2204 Hobel, geschnitzt mit Mascaron. Die Mundoffnung als Traggriff. Hohe 15, Breite 25 Cent.
+- 61 Cent.
+- 2206 Langhobel in Buchenholz mit Jahreszahl 1792. Lange 61 Cent.
+- 2207 Aushangeschild mit Aufschrift; die Umrahmung reich geschnitzt und vergoldet und von Engelskopf uberragt. Nebst ahnlichem. Hohe 58, Breite 44Cent.2 Stick.
+- 2208 Aushangeschild in Form der Mondsichel, vollrund geschnitzt und vergoldet.
+- Lange 53 Cent.
+- Lange 21, 2209 Stellmas fur Schreiner, geschnitzt mit Laubwerk-Motiven. Breite 11 Cent.
+- 2210 Tintenfass, der Sockel mit Arabesken in Zinneinlage. Hohe 14, Lange 26, Breite 13 Cent.
+- 12 Cent.
+- 2212 Falzbein, als Griff ein die Mandoline spielender Alter. Lange 23 Cent.
+- 2213 Kuchenform mit der Reiterfigur eines Kaisers, tief gut geschnitten. Hohe
+- 24,Breite 17 Cent.
+- 2214 Grosse Kuchenform mit der gut geschnittenen Figur eines reich costumirten
+- Ritters.XVII. Jahrh. Hohe 34,Breite 17 Cent.
+- 2215 Kuchenform, gut geschnitten mit der interessanten Costimfigur einer Dame. Hohe 21,Breite 15 Cent.
+- 2216 Grosse Kuchenform mit Doppeladler, das bayerische Wappen als Brust-
+- schild.Diam. 25 Cent.
+- 2217 Runde Kuchenform mit reich geschnittenem, sechsfach behelmtem,vielfeldigem Wappen in Lorbeerkranz. XVII. Jahrh. Diam.28 Cent.
+- Wappen als 2218 Kuchenform,herzformig mit Doppeladler und quadrirtem
+- Brustschild. Oben Monogramm W. S. Lange 25, Breite 23 Cent.
+- 2219 Grosse Kuchenform mit dem Doppeladler und drei sachsischen Kurfuirsten,
+- mit Namensumschriften und Jahreszahl 1597.Diam. 23 Cent.
+- 2220 Grosse Kuchenform, einerseits tief geschnitzt mit Kaiser auf Thron,von Fursten umgeben,in reicher Umrahmung, anderseits mit St. Georg und:
+- W.i. G.6 und 1572.Lange 41, Breite 36 Cent.
+- 2221 Sechs verschiedene Kuchenformen mit Kopfen. XVIl. Jahrh. Verschiedene
+- Grosse. 6 Stuick.
+- 2222 Neun verschiedene Kuchenformen mit Wappen, Frichten etc. XVIl. Jahrh.
+- Verschiedene Grosse.9 Stuck, davon 1 geleimt.
+- Kuchenformen mit Kopfen, Thieren, Figurendar2223 Neun verschiedene1
+- stellungen ete. Modern. Verschiedene Grosse. 9 Stick.
+- Sieben verschiedene Kuchenformen mit grosseren und kleineren Pferde-
+- 2224 darstellungen. XVII. Jahrh. Verschiedene Grosse.
+- Thierdarstellungen. Lange 15 und Diam. 8 Cent.
+- 2226 Eine Sammlung von 19 verschiedenen Kuchenformen mit interessanten Sehr interessante Sammlung. XVI.und XVII. Jalrh.
+- Trachtenfiguren. Verschiedene Grosse. 19 Stick,davon 1 beschadigt.
+- 2227 Kuchenrolle mit tief geschnitener Blumenguirlande. Linge 34 Cent.
+- Grosse Gewirzreibe,in Flachrelief geschnitzt auf der Vorderseite mit Wappen, auf der Rickseite mit hoch ansteigender Blumenstaude. Lange
+- 2228 38,Breite 11 Cent.
+- 2229 Muscatreibe,die Platte mit Messingdraht eingelegt. Lange 16 Cent.
+- 2230 Streichleder zum Messerscharfen, die Platte Holz, geschnitzt und eingelegt
+- mit Kupferdraht. Lange 18 Cent.
+- 2231 Loffel mit Arabesken in Messingeinlage. Lange 14 Cent.
+- 2232 Zwei kleine Holzloffel. XVI. Jahrh. Lange 10 Cent.
+- 2233 Geschnitzter Loffel, eingelegte Dose und Muscatreibe. Drei Gegenstande.
+- marke und G.M. Lange 15 Cent.
+- 2234 Loffel, die rundliche Muschel Buchsbaumholz, der Stiel Silber mit Haus-
+- 2235 Grosser Loffel, Holz, der lange Stiel durchbrochen mit kreuzformigem Ornament,Rosette etc.Lange 40 Cent.
+- 2237 Venetianische Holzmaske.
+- 2236 Loffel mit traubenformigem Knopf. Lange 17 Cent.
+- 34,Diam.11 Cent.2 Stick.
+- 2240 Vase, Palysanderholz mit applicirten Bronzeguirlanden. Hohe 29 Cent.
+- 2239 Vase, die Vorderseite mit grosser ovaler Platte, auf der en relief geschnitztes Wappen. Hohe 38, Breite 28 Cent.
+- 2241 Bambusbecher mit Figuren gravirt. Lange 21, Diam. 51/2 Cent.
+- 2243 Gedrechselter Holzbecher mit Deckel. In der Tiefung Sonnenuhr und astronomische Aufzeichnungen. Hohe 13,Diam. 11 Cent.
+- 2242 Ein Paar japanische Bambusbecher, geschnitzt. Hohe 16 Cent.
+- 2244 Drei verschiedene Pilgerfaschen in Cocosnuss.
+- 2246 Gussmodell mit Doppelwappen. Hohe 14,Breite 11 Cent.
+- 2245 Zehn kleinere Gegenstande in Holz, dabei Siegelkapseln, Holzstempel etc.
+- 2247 Sieben Gussmodelle mit gut geschnitzten Wappen. Hohe zwischen 26 und
+- 2248 Vier Gussmodelle in Holz,reich geschnitzt und durchbrochen. Lange zwischen
+- 14Cent.
+- 120und 50 Cent.
+- 2249 Sieben verschiedene grossere und kleinere Holzschnittplatten. Verschiedene Grosse.7 Stuick.
+
+## Waffen.
+
+- 2250 Halsberge einer Rustung. Lange 24 Cent.
+- 2252 Fragment eines Panzerhemdes (Schuppenrustung), ganz geschuppt. Auf
+- 2251 Panzerhemd, gothisch, mit Aermeln und vorne geoffnet; ganz in eng genietetem Ketten- oder Maschengewebe. Gutes Stuck. Lange 7O,Breite 150 Cent.
+- Leinenunterzug. Lange 44,Breite 41 Cent.
+- 2254 Turnier-Topfhelm, Salade, mit Klappvisir und Nackenschutz. Hohe 28 Cent.
+- 2253 Hoher Turnierhelm mit alter Helmzier: vollrund geschnittener, grotesker Lowenkopf mit dreizackiger, bunter Flitterkrone zwischen zwei gedrehten Steinbockhornern.Hohe 68 Cent.
+- 2255 Helm,ahnlich.Hohe 29 Cent.
+- Eisenband. Hohe 29 Cent.
+- 2256 Visirhelm mit doppeltem Klappvisir, rundlich,die Kappe mit breitem
+- 2257 Topf-Visirhelm,lichtes Eisen, mit vorstehenden Wangenklappen und oberem Helmfenster.Hohe 31 Cent.
+- 2259 Grosser Visirhelm mit doppeltem Klappvisir, das gitterformig durchbrochen und mit oberem Augenschirm.Der mittelhohe Kamm mit Federbuschhulse.
+- 2258 Visirhelm mit doppeltem Klappvisir,mit wulstformig vortretendem,geripptem Helmfenster und geschientem Nackenschutz. Die Kappe lang gerippt. Zeit Maximilians. Hohe 33 Cent.
+- Anfang XVII. Jahrh. Hohe 38 Cent.
+2260 Helm, ahnlich, schwarzes Eisen. Das Visir mit Augen- und Nasenhohle. Hohe 37 Cent.
+
+2261 Helm,ahnlich.
+
+2262 Visirhelm,ahnlich. Das Visir mit zwei Sterndurchbrechungen.1 Die Kappe mit breiten Rippen in Sternform. Mit Federbuschhulse.Hohe 35 Cent.
+
+Das Visir durchlocht und mit Augen- und Nasenschlitz. Hohe 34 Cent.
+
+2263 Visirhelm, ahnlich. Das Visir mit langen Augenschlitzen ohne Augen- schirm.Hohe 31 Cent.
+
+2264 Visirhelm,ahnlich, die Augenschlitzen breiter. Hohe 32 Cent.
+
+2265 Zwei Visirhelme, ahnlich,in leichtem Eisen. Hohe 31 und 28 Cent.
+
+2266 Visirhelm mit Wangenklappen und Klappvisir. Allseitig mit schwarzen Rippen.Hohe 33 Cent.
+
+2267 Visirhelm,hnlicher Form. reicher Goldtauschirung. Interessantes Stick.Hohe 29 Cent.
+
+Der Kamm,die Rippen und die Kanten mit
+
+2268 Zwei Sturmhauben,ahnlich.Hohe 23 Cent.
+
+2269 Zwei Sturmhauben,ahnlich,ohne Rand. Hohe 25 und 21 Cent.
+
+2270 Sturmhaube, ahnlicher Form, mit ornamentirter Messing-Federbuschhilse.
+
+Hohe 23 Cent.
+
+Sturmhaube in Form eines Morions mit abfallendem Rande, niedrigem
+
+22718 Kamme und Eisenrosettenbeschlag. Hohe 22,Lange 33 Cent.
+
+2272 Drei Sturmhauben, schwarzes Eisen,in Birnform mit schmalem Rande und
+
+Federbuschhilse. XVI. Jahrh.Hohe 2O Cent.
+
+2273 Eisenhut, Sturmkappe in sehr schwerem Eisen mit abfallendem Rande und mittlerem ibernieteten Eisenband. Hohe 22,Lange 45 Cent.
+
+2274 Franzosische Kappe aus der Zeit Heinrichs IV mit Augenschirm und Rings umgeben mit Eisenspangen, deren Verlingerung vorn
+
+Nackenschutz. den Gesichtsschutz bilden. Mit innerer Leinenfutterung. Hohe 18 Cent.
+
+2275 Morion in lichtem Eisen, mit durchlochten Ohrklappen und grossen Messing- rosetten.Hohe 29 Cent.
+
+2276 Morion in lichtem Eisen mit reicher Aetzmalerei, die auf der Leibung Waffentrophae,auf dem Kamme Wappen zwischen geschmackvollen reichen
+
+Renaissance-Arabesken zeigt. Hohe 33, Lange 37 Cent.
+
+2277 Morion, lichtes Eisen mit Messingrosettenbeschlag und Federbuschhulse.
+
+Hohe 26,Lange 36 Cent.
+
+Hohe 27,Lange 22791 Morion, schwarzes Eisen mit Messingrosettenbeschlag. 31 Cent.
+
+Hohe 28,Lange 2278 Morion, schwarzes Eisen mit innerem Leinenbezug. 37 Cent.
+
+2280 Morion,ahnlich. Hohe 25,Breite 37 Cent.
+
+2281 Zwei Morions, ahnlich, mit Messingrosettenbeschlag. Hohe 25,Lange 37 Cent.
+
+- 2282 Offener Burgunderhelm mit durchlochten Wangenklappen,Nacken und Nasenschutz. Erstere, sowie die Leibung, der hohe Kamm und Augenschirm geatzt mit reichen Bordiren, die zierlich geschwungene Laubranken zeigen.Mit Messing-Federbuschhuilse. XVI. Jahrh. Hohe 34 Cent.
+
+2283 Burgunderhelm mit doppeltem und
+
+Klappvisir, das mit Augenschirm Gesichtsausschnitt. XVII. Jahrh. Hohe 29 Cent.
+
+2284 Burgunder-Eisenkappe mit Nasenberg, Ohrenklappen und breitem Nacken- schutz. Hohe 22,Linge 34 Cent. Eine Ohrenklappe fehlt.
+
+2285 Helm, ahnlich, der hohe Kamm mit zwei seitlichen, erhabenen Streifen und Federbuschhulse. Hohe 34 Cent.
+
+2286 Helm,hnlich, der niedrige Kamm mit zwei seitlichen, tiefliegenden Streifen.
+
+Hohe 28 Cent.
+
+- 2287 Helm, ahnlich, schwarzes Eisen. Die Kanten, der Kamm und zwei seit-
+
+liche Bander in lichtem Eisen. Mit Federbuschhilse. Hohe 3O. Cent.
+2288 Helm, ahnlich. Schwarzes Eisen. Hohe 36 Cent.
+
+2289 Sieben Helme, hnlich, schwarzes Eisen. Mehrere defect.
+
+2290 Sieben ofene Burgunderhelme in lichtem Eisen mit Kamm, Augenschirm und Wangenklappen. Hohe zwischen 32 und 28 Cent.
+
+Mit Ohrklappen, fachem Augenschirm und Nackenschutz. XVIl. Jahrh.
+
+Hohe 15,Lange 41 Cent.
+
+2293 Topfhelm,rundlich, Eisen.
+
+2292 Eine grossere Anzahl Pappenheimer-Kappen.Werden partieenweise versteigert.
+
+Mit Kordeliberzug. Hohe 18 Cent.
+
+Eisen. Hohe 19 Cent.
+
+2295 Grosser Topfhelm in eckiger, oben rundlicher Form. Hohe 32, Diam.
+
+2294 Franzosischer Topfhelm in Birnform.
+
+35 Cent.
+
+2297 Birnhelm, ahnlich. Hohe 25 Cent.
+
+2296 Birnhelm mit schmalem Rande. Schwarzes Eisen. XVI. Jahrh. Hohe 21 Cent.
+
+2298 Birnhelm,ahnlich. Hohe 23 Cent.
+
+2299,Helm,rundlich,mit hohem Kamm.
+
+Hohe 22 Cent.
+
+2300 Ofener deutscher Kesselhelm, schwarzes Eisen mit Augenschirm und Wangenklappen,d die Kappe in oberer Spitze auslaufend. XVI. Jahrh. Hohe 25 Cent.
+
+2301 Grosse Kesselhaube mit weit vortretendem reich durchlochten Visir. Hohe
+
+24,Lange 39 Cent.
+
+2303 Zwei Eisenhute mit gradem Rande und spitzer Kappe. Hohe 19, Diam. 44Cent.
+
+2302 Sechs Eisenhute mit hohem Kamm. Hohe 13,Diam.37 Cent.
+
+2304 Vier Eisenhute, ahnlich, mit abfallendem Rande. Hohe 28, Diam. 39 Cent.
+
+2305 Zwei Eisenhute mit fachem Rande, Nasenschutz und eckiger Kappe. Hohe 18,Diam.41 Cent.
+
+2306 Zwei Eisenhute, ahnlich, mit Messingnagelbeschlag. Gleiche Grosse.
+
+2307 Drei Eisenhute in Glockenform. Hohe 25,Diam. 31 Cent.
+
+2308 Funf Eisenhute in Topfform mit abfallendem Rande. Hohe 25, Diam. 30 Cent.
+
+2309 Eisenhut, facher, mit weniger abfallendem, breiterem Rande.Hohe 18,
+
+Diam.30 Cent.
+
+2310 Elf Eisenhute mit fachem Rande,halbkugelformig,mit grosser Spitze. Hohe 23,Diam.42 Cent.
+
+2311 Vier Eisenhute,ahnlich, 31 Cent.
+
+Der Rand stark abfallend.Hohe 34, Diam.
+
+2312 Topfhelm,ahnlich,ohne Rand.Hohe 22,Diam 25 Cent.
+
+2313 Sechs Turnier-Topfhelmschalen mit festem Visir. Nachbildung. Hohe 20, Lange 44 Cent.
+
+2314 Sieben desgleichen mit Klappvisir. Hohe 20,Lange 50 Cent.
+
+- 2315 Nachbildung des Zwingli-Hutes in Blei. Hohe 15, Diam. 31 Cent.
+- 2316 Maske eines Bacinets, Eisen mit spitzer Nase, die in Kreisen durch brochen. Interessantes Stuck.Lange 28,Breite 17 Cent.
+- 2317 Steinschlossfinte, der Schaft wenig geschnitzt. Lange 128 Cent.
+- lackirt.DerHarnisch mit vierfach gegliedertem Beinschutz. Hohe des
+- Harnisches 7O Cent.
+- 2319 Curass und Helm eines bayerischen Curassieroffciers. Ersterer Eisen, mit Messingnageln beschlagen,Letzterer entsprechend und mit Haarwulst,mit Monogramm L.Lange des Curasses 4O Cent.
+2320 Vordertheil eines bayerischen Curasses, mit Kupfernageln beschlagen. Linge
+
+40Cent.
+
+Max 2322 Zwei bayerische Curassierhelme mit Kammen und Appliquen. Joseph.
+
+2321 Vordertheil eines bayerischen Curasses. Lange 40 Cent.
+
+2323 Badischer Curassierhelm mit Kamm und langem Haarbusch. Das Schild mit L.
+
+2324 Englischer Curassierhelm, Stahl, mit grossem Wulst. Schlacht bei Waterloo.
+
+2325 Zwei Curassierhelme, Stahl, mit langer Spitze.
+
+2326 Stahlhelm in Halbkugelform mit runden Ohrenklappen, die mit vorstehendem
+
+Stachel.
+
+2328 Bayerischer Landwehr-Cavalleriehelm mit dem bayerischen Wappenschild.
+
+2328a Helm,ebenso.
+
+2329 Zwei bayerische Landwehr-Cavalleriehelme. Mit Schild.
+
+2330 Bayerischer Artilleriehelm mit Schild. Pickelhaube (Maximilian).
+
+2331 Oesterreichisches Artillerie-Officierkappi. Nebst einem anderen. 2 Stuick.
+
+2332 Oesterreichisches Kappi mit Goldlitze und Doppeladler.
+
+2333 Oesterreichische Pickelhaube, Doppeladler als Schild.
+
+2334 Preussische Pickelhaube aus der Revolutionszeit (1848).
+
+2335 Pickelhaube, spiter. Nebst anderem.
+
+2336 Bayerischer Infanterie-Officierhelm,Konig Max. In Helmschachtel.
+
+2337 Bayerischer Infanterie-Officierhelm mit dem Monogramm Ludwigs.
+
+2338 Helm, ahnlich, ebenso.
+
+2339 Bayerischer Schutzenhelm mit dem Monogramm Ludwigs.
+
+2340 Bayerischer Cheveauleger-Helm mit dem Monogramm Ludwigs.
+
+2341 Bayerische Pickelhaube mit dem Monogramm Maximilians.
+
+2342 Drei bayerische Gensdarmeriekappis.
+
+2343 Bayerischer Gensdarmeriehelm. Schild fehlt.
+
+2344 Bayerischer Hatschierhelm. Stahl.
+
+2345 Bayerischer Helm. 1854.Ohne Schild.
+
+2346 Bayerischer Landwehrhelm mit Monogramm Ludwigs.
+
+2347 Bayerischer Landwehrhelm. Mit Schild.
+
+2348 Bayerischer Landwehr-Officierhelm mit Wulst. Das Schild mit L. In Lederetui.
+
+2349 Bayerischer Landwehr-Infanteriehelm. Mit Schild.
+
+2350 Bayerischer Landwehr-Trainhelm mit Schild. Pickelhaube.
+
+2351 Helm,ebenso.
+
+2352 Helm,ahnlich,Blech.
+
+2353 Bayerischer Landwehr-Trainhelm mit Schild. Schnire fehlen.
+
+2354 Munchener Landwehr-Artilleriehelm.
+
+2355 Bayerischer Landwehr-Artilleriehelm. Mit Schild.
+
+2356 Bayerischer Landwehr-Artilleriehelm mit Schild und Schniren.
+
+2356a Helm,ebenso, Schnire fehlen.
+
+2357 Bayerischer Landwehr-Schutzenhelm mit Schild und Schniren.
+
+2358 Drei bayerische Landwehr-Grenadierhelme. Nebst einem anderen. 4 Stick.
+
+2359 Freischarlerhelm. Mit Sehniren.
+
+236O Drei Hute aus der Revolutionszeit.
+
+2361 Finf franzosische Pompiershelme. Messing.
+
+2362 Zehn verschiedene franzosische Kappis. Napoleon mit Adler.
+
+2363 Sieben dsgl. Ebenso.
+
+2364 Drei dsgl. Ohne Adler.
+
+2365 Acht Helmformen, sechs Leder und zwei Blech. Eine mit Monogramm
+
+M.J.K.
+- 2366 Schweizer Morgenstern mit langer Eisenspitze. Die Stange Holz, am
+- 2367 Schweizer Morgenstern mit grosser Eisenspitze. Die Keule mit vier ins Kreuz gestellten S Spitzen. Ganze Lange 210 Cent.
+- 2368 Schweizer Morgenstern, ahnlich. Ganze Lange 190 Cent.
+- Griff. Die breite Rickenklinge mit gravirter Jagddarstellung. Das Gefass
+- 2370 Dolch, sog. Knicker, Gefass und Knopf Bronze mit reliefirten Waffen trophaen etc.Linge 54 Cent.
+- mit Resten von Vergoldung. Lange 76 Cent.
+- 2371 Dolch (Misericordias), gothisirend mit grader Parirstange und lang herabfallendem Handschutz. Lange 48 Cent.
+- 2373 Hirschdeckenschlitzer, Horn, gravirt in Zonen mit Kreisen und Jahres-
+- 2372 18 Fragmente von Waffen in Bronze und Eisen.
+- zahl 1675.Lange 16 Cent.
+- 2374 Sehlachteraxt mit auslaufender grosser Schneide. Lange 28 Cent.
+- nageln beschlagen. Lange 15,Breite 18 Cent.
+- 2375 Brustschild, Eisen, getrieben mit reicher Waffentrophie und mit Messing-
+- 2376 Eine Partie Schilder und Waffendecorationen, Helmschilder ete, die meisten mit Wappen.
+- 2378 Drei Fussangeln. Eisen.
+- 2377 Fahnenspitze, durchbrochen. Eisen vergoldet. Lange 36 Cent.
+- 2379 Lederkoppel mit vier Bronzeplatten mit reliefrten Jagddarstellungen, nebst Jagergiirtel.
+- 2380 Drei Gurtelschnallen, getrieben und gravirt.Verschieden.
+- 2381 Officierschild mit Adler in gekronter Umrahmung mit Waffentrophae. Lange 20,Breite 17 Cent.
+- 2383 Hundehalsband,Kettengefecht mit vorstehenden Stacheln auf Lederunterlage.Lange 54 Cent.
+- 2382 Ein Paar Eisschuhe,Eisen, dreitheilig. Nebst einem andern. Lange 23 Cent.
+- 48 Cent.
+- 2385 Hundehalsband in Kettengefecht mit vorstehenden Stacheln. Lange 60, Breite 51/2 Cent.
+- 2386 Hundehalsband Eisenband in Zacken ausgeschnitten.Lange 50 Cent.
+- 2388 Hundehalsband, Messing mit Rothkupfergarnitur und Schild mit: Joseph Loibl.1830.Lange 59,Breite 10 Cent.
+- 2387 Hundehalsband, Eisenblech mit Messinggarnitur, die I. M.K. P. zeigt. Lange 60,Breite 9 Cent.
+- Nase,Eselsohren,Hornern etc.Roth bemalt. Interessantes Stuck. Hohe 45Cent.
+- 2390 Spottmaske, Eisen, mit grossem Mundrohr etc. Hohe 24, Breite 18 Cent.
+- 2392 Folterwerkzeug, Steingewichte, durch Ketten verbunden. Lange 83 Cent.
+- 2391 Foltermaske, aus Eisenbandern genietet. Interessantes Stick. Hohe 27, Breite 25 Cent.
+- 2393 Spanischer Stiefel, mit kleinen Stacheln und dreifachen Schrauben. Linge 27 Cent.
+- 2395 Folterwerkzeuge,Doppelzankgeige, Holz mit Eisenbandern. Linge 130 Cent.
+- 2394 Zankgeige, Eisen mit doppelter Schliessvorrichtung. Lange 55 Cent.
+- Lange 16 Cent.
+- 2396 Folterzange.
+- 2397 Foltergeige,Holz, geschnitzt mit Fratzengesicht und Kerbschnitt. Der Beschlag Eisen. Lange 62 Cent.
+2398 Foltergeige,ahnlich, einfacher. Lange 66 Cent.
+
+2400 Prangerpfeife. Hohe 25 Cent.
+
+2399 Foltergeige,ebenso. Lange 57 Cent.
+
+2401 Pranger-Nase und -Bart, Holz.
+
+2402 Giftbecher,Eisen. Hohe 18 Cent.
+
+2403 Stab, Loffel und Crucifx des zu Munchen hingerichteten M. Battistella.
+
+Eisen.
+
+2404 Folterwerkzeug, Leibgurt mit 2 Handschellen.
+
+Lange 105 Cent.
+
+2405 Folterwerkzeug, Schelleisen mit Handschelle.
+
+2406 Folterwerkzeug, Schelleisen mit Kette zum Anschmieden.
+
+2407 Hufteisen mit 2 Handschellen.Eisen. Lange 105 Cent.
+
+2408 Hufteisen,ebenso. Lange 103 Cent.
+
+2409 Hufteisen mit 2 Handschellen und kurzer Kette. Lange 102 Cent.
+
+2410 Hufteisen,ahnlich und ebenso. Lange 100 Cent.
+
+2411 Hufteisen, mit 2 Handschellen, schweres Eisen mit langer Kette zum Anschmieden. Linge 95 Cent.
+
+- 2412 Hufteisen, ganz hnlich und ebenso. Linge 90 Cent.
+- 2413 Folterwerkzeug, Hufteisen mit zwei Handschellen und Kette zum Anschmieden.
+- 2414 Fuss- und Handschelle, durch lange Kette verbunden und mit Vorhange-
+- Seltenes Stick.Lange 140 Cent.
+- schloss.
+- 2415 Fuss- und Handschelle, ahnlich und ebenso.
+- Gleiche Grosse.
+- 2416 Doppelfussschelle mit langer Kette zum Anschmieden. Schweres Eisen. Selten. Linge der Schelle 34,der Kette 102 Cent.
+- 2417 Einfache Fussschelle mit langer Kette zum Anschmieden. Selten. der Schelle 11,Lange der Kette 153 Cent.
+- Diam.
+- 2418 Fussschelle, ahnlich und ebenso. Lange der Kette 123 Cent.
+- Diam.7 Cent.
+- 2419 Zwei Handschellen mit Kreuzdurchbrechung.
+- 2420 Zwei Handschellen, durch Ketten und Eisenband verbunden mit eingeschlagenen Schuppen und Zickzackmusterung. Seltenes Stick. Lange 79 Cent.
+- 2422 Vier Handschellen,Eisen mit Kreuzdurchbrechung. Diam.zwischen 9 und
+- 6Cent.
+
+2423 Vier Handschellen,ebenso, kleiner. Diam. zwischen 7 und 5 Cent.
+
+- 2424 Funf Handschellen, Eisen, drei mit Kreuzdurchbrechung.
+- 2425 Eiserne Daumschraube. Linge 7 Cent.
+
+2426 Zwei Daumschrauben.
+
+24272446 20 verschiedene kleinere Folterwerkzeuge,Waffenfragmente etc.
+
+2447 Zwei Armringe verschiedener Grosse.
+
+- 2448 Bussergeissel mit Holzgriff. Lange 52 Cent.
+- 2449 Drei verschiedene Bussergurtel in Drahtgefecht. Verschiedene Grosse.
+- 2450 Busserpeitsche.
+- 2451 Fassbindermesser mit breiter Ruckenklinge, der Griff Bronze in Form eines
+- auf Kugel sitzenden Lowen,reich patinirt. Lange 3O Cent.
+- eines mit Bronzegriff.
+- 2453 Zwei Messer und Gabel, die Griffe Hirschhorn, in geschnittenen Eisenspitzen endigend. Lange 25 und 22 Cent.
+- 2452 Zwei Messer und eine Gabel,eines mit Perlmutter, Linge 26 und 22 Cent.
+- 2454 Messer und Gabel, die Griffe Silber, fligranirt auf vergoldeter Unterlage. Lange 21 und 181/2 Cent.
+- 2455 Besteck: Messer, Gabel und Loffel, die Griffe vollrunde vergoldete Bronze-
+- figuren.3 Stick.
+- 2456 Besteck: Messer, Gabel und Loffl, die Griffe Bronze zum Abschrauben.
+- In Etui. Lange 10 Cent.
+- 2457 Japanisches Essbesteck. Die Scheide Schildpatt. Lainge 25 Cent
+- 2458 Pferdekummet. XVII. Jahrh. Die zwei Horner in vollrund geschnittenen
+- Lowenkopfen auslaufend. Lange 7O Cent.
+- 2459 Renaissance-Pferdekummet. Das in gut geschnitzten Lowenkopfen aus-
+- laufende Gestell grun und weiss bemalt. Hohe 76 Cent.
+- 2460 Renaissance-Pferdekummet. Der Rahmen Holz, in vergoldeten Lowenkopfen auslaufend,zwischen denen ein aus Fransen gebildeter Federbischel. Hohe 96Cent.
+- 2461 Renaissance-Pferdekummet. Das Gestell Holz,geschnitzt mit zwei vergoldeten Lowenkopfen und mit Leder bezogen.Hohe 9O Cent.
+- 2462 Renaissance-Pferdekummet. Die zwei Horner in gut geschnittenen Lowen-
+- kopfen auslaufend. Hohe 86 Cent.
+- 2462a Renaissance-Pferdekummet. Hohe 73 Cent.
+- 2463 Renaissance-Pferdekummet. Das Leder bemalt, die Stangen mit polychro-
+- mirten Lowenkopfen. Hohe 82 Cent.
+- 2464 Pferdekummet. Der bemalte Rahmen in vollrund geschnitztem Lowenkopf
+- auslaufend.Lange 85 Cent.
+- 2465 Renaissance-Pferdekummet. Der Rahmen in geschnittenen Adlerkopfen aus-
+- laufend. Lange S5 Cent.
+- 2466 Renaissance-Pferdekummet mit Geschirr. Das Gestell in geschnitzten phantastischen Lowenkopfen auslaufend, die vergoldet. Roth bemalt.Linge 86 Cent.
+- 2466a Pferdekummet,ahnlich,mit Elchgeweihen.
+- 2466b Pferdekummet,ahnlich,mit Steinbockhornern.
+- 2466c Pferdekummet,hnlich,mit Rehgeweihen.
+
+2466d Pferdekummet,ebenso.
+
+- 2466e Pferdekummet. Das Gestell mit Vogelkopfen geschnitzt.
+- 2466f Pferdekummet,ahnlich.
+- 2466g Pferdekummet,ahnlich.
+- 2466h Pferdekummet,ahnlich.
+- 2467 0chsenjoch,einfach. Lange 120 Cent.
+- 2468 Damensattel,Leder, mit Messingknopfen beschlagen, die auf der Ruckseite die Jahreszahl 1781 bilden; der Sitz mit gruinem Tuchbezug. Hohe 43 Cent.
+- 2469 Pferdemaulkorb, Eisenblech, gitterformig ausgeschnitten. Mit Zaumgeschirr.
+- XVI.Jahrh.Lange 23,Breite 21 Cent.
+- 2470 Pferdemaulkorb, schwer, aus Eisenbindern gebildet. Linge 18 Cent.
+- 2471 Kopfzaumzeug eines Pferdes, Leder mit fransenartigem gelben Wollbezug. Entsprechender Busch als oberer Abschluss. XVII. Jahrh. Lange 87 Cent.
+- 2472 Kopfzaumzeug,ahnlich. Ohne Busch. Lange 90 Cent.
+- 2473 Pferdekandare, einfach.Lange 25 Cent. Verzinnt.
+- 2474 Kandare, Eisen, mit dazu gehorigem Lederzaumzeug. XVII. Jahrh. Ganze Lange 80 Cent.
+- 2475 Drei Gestelltheile eines Renaissance-Pferdekummets. Geschnitzt und polychromirt.Lange zwischen 28 und 21 Cent.
+- 2476 Zwei Indianerwaffen mit Fischsage. Lange 63 und 46 Cent.
+- 2477 Kurzes Dolchmesser,der Griff Wurzelholz. Indianisch. Lange 37 Cent. In Lederscheide.
+- 2478 Indianer-Streithammer, Stein mit Holzstiel. Ganze Linge 66 Cent.
+- 2479 Zwei Packete Lederschnure,sidamerikanische Lassos.
+- 2480 Zwei Kocher mit Tattowirnadeln.
+- 2481 Lederkocher mit funf Pfeilen. Nebst einem anderen. Orientalisch.Linge 41Cent.2 Stick.
+- 2482 Lederscheide mit drei Wurfpiessen, die mit langen vierkantigen Spitzen. Der Beschlag Eisen. Linge der Spiesse 9O Cent.
+## Zeichnungen, Kupferstiche, Lithographieen etc.
+
+- 2483 Sechs japanische Wandrollen mit Figurendarstellungen, Inschriften etc. Theils colorirt. Verschiedene Grosse.
+- 2484 Vier Blatt Darstellungen mit Chinesen in Landschaft ete. Theils auf
+- gezogen.4 Bll.imp. fol.
+- 2485 Funf grosse japanische und chinesische Zeichnungen mit Figuren
+- darstellungen.
+- 2486 Chinesin in Garten. Aquarellirte Zeichnung mit Goldhohung. N. 2 and. 3 Bll.
+- 2487 Vier grosse Z Zeichnungen zu Glasfenstern mit Heiligen- Standfiguren. 4 Bll. gr.fol.
+- 2488 Heftchen mit Darstellungen aus der Leidensgeschichte Christi 11 Bll. Pergament-Miniaturen.
+- 2490 Convolut, enthaltend 16 Aquarelle mit landschaftlichen Darstellungen. 16 Bll.
+- kl. fol. u. qu. fol.
+- 2491 Convolut,enthaltend 19 Blatt Landschaften und Skizzen in Aquarell- und
+- Tuschmalerei. 19 Bll.Verschiedene Form.
+- 2492 Convolut, enthaltend 27 Blatt Federzeichnungen. 27 Bll. Verschiedene Form.
+- 2493 Portraitkopf, ausgefuhrt in feiner, kalligraphischer Schrift. Bezeichnet: Viersis seripsit 1786. Joh. Mich.Fried. Hohe 19,Breite 16 Cent.
+- 2494 Convolut, enthaltend 14 Bll. Zeichnungen alterer Meister.
+- und Studien. 2495 Convolut,enthaltend 23 Bll. moderne Handzeichnungen Verschiedene Form.
+- 2496 Convolut, enthaltend 27 Bll. Pferde- und Thierstudien. 27 Bl. Verschiedene
+- Form.
+- 2497 Convolut, enthaltend 44 Blatt Bleistift-Zeichnungen. 44 Bll. Verschiedene Form.
+- 2497a Drei Blatter eines Chorbuches. Pergament. Imp. fol.
+- tragenden Engeln, 1501. Chin.Pap. Qu. fol. 3 Explre.
+- 2499 Kartenspiel,Lotto ollandese“,50 Karten mit Architekturen, figurlichen
+- Darstellungen etc. Lange 9, Breite 6 Cent. In Pappkasten.
+- 2500 75 diverse Spielkarten.
+- 2501 Convolut, enthaltend 42 Blatt Stammbaume etc. 42 Bll. gr. fol.
+- 2502 Ein Convolut mit Stammbaumen, Grabtafeln ete. der Familie Welser.
+- 2503 Vier grosse Wappen, zwei in Federzeichnung, zwei aquarelirt. 4 Bll. fol.
+- 2504 Convolut, enthaltend 20 in Farben ausgefuihrte Wappen, theils aus Stammbichern.20 Bll.
+- 2505 Convolut, enthaltend 50 gezeichnete, theils aquarellirte Wappen.Verschiedene Form.
+- 2506 Convolut,enthaltend 30 kleine gemalte Wappchen.
+- 2507 Ein grosses Fascikel Papierhandschriften, Archivalien und Copialien, die
+- Familie des Freiherrn von Muggenthal betreffend.
+- 2508 Convolut,enthaltend 50 Blatt Heraldica, darunter viele gemalte Wappen.
+- 50BlL
+- 2509 Ein Convolut, enthaltend 20 Bll. Wappentafeln in Chromolithographie
+- ausgefihrt. 20 Bll.,meist gr. fol.
+- 2510 Convolut, enthaltend ca. 80 Bl. Wappen in Kupferstich,Holzschnitt und
+- Lithographie.Verschiedene Form.
+- 2511 Heftchen, 14 Bll. mit verschiedenen Darstellungen,Wappen etc. in Feder-
+- 2512 Ein Convolut, enthaltend 32 kleine Holzschnitt-Wappen.
+- und Tuschezeichnung.
+- Sammlung.
+- 2515 P. Augrand. Le repos de Mars. Laftte del. Punktirtes Blatt. Gr. qu. fol.
+- 2514 Eine Rolle Heraldica: Wappen, Grabsteine etc. in Zeichnung, Pausen, Phototypie etc.
+- 2516 Adam,G.,Ansicht eines Theiles der Stadt Bamberg. Gefalten und wasser-
+- feckig. Gr. qu. fol.
+- 2518 J. P. Le Bas. L'Hiver. Hubsche Composition nach N. Lancret. Gr. fol.
+- 2517 J. Balestra. Die hl. Familie nach Raphael. Fol.
+- 2519 Bilderchronik des sachsischen Kunstvereins. 57 Bll. gr. fol.
+- 2520 Bonnet exc. La toilette. Kl. fol.
+- 2521 Cazenave.
+- 2522 N. Cochin. Tod des Priamus nach le Mesle. N. 2 and. 3 Bll. qu. fol.
+- Kopf der hl. Elisabeth nach Raphael. Nebst 7 and. farbig gedruckten Blattern.8 Bll. fol. u. qu. fol.
+- 2523 D. Cunego. Brutus nach G. Hamilton. Gr. qu. fol. Sporf.
+- Vier Medaillons aus dem Wandgemalde der Kirche zu
+- 2525 Convolut, enthaltend 7 Bl. Copien nach Direr, M. Schon ete. 7 Bll.
+- 2524 E.Dertinger. Weilheim.Gr. fol.
+- 2526 Emminger, lith. Aussicht von Feldafing nach Geiger. Gr.qu. fol. 21 Explre.
+- 2527 Enzing-Muller, Madonna mit dem Kinde, nach Schraudolph. Guter Abdruck
+- auf chines.Papier. Gr. fol. Nebst 3 and. Bll.
+- 2529 Girard. Kampfgruppe nach Girodet-Trioson. Roy. qu. fol.
+- 2528 R. Gaillard. Lamour a lecole. Van Loo p. Qu. fol.
+- 2530 K. Grob. Graf Radetzky.Grosse Lithographie. Imp. fol.
+- 2532 C. Hess. Maximilian Joseph I., Konig von Bayern. Ganze Figur im ThronOrnate nach J. Stieler. Schoner Druck. Imp. fol. Brich.
+- 2531 C. Hess. Portrait der Konigin Caroline von Bayern nach Stieler. Fol.
+- 2533 Holl. Kate Nickleby nach Frith. Aquatintablatt. Gr. fol. Bruch.
+- 2535 J.C. Koch. Umriss eines Transparent-Gemaldes nach Schnorr von Carolsfeld. Imp. qu. fol.
+- 2537 A. W. Kufner. Ludwig V. und Schweppermann. Gr.qu. fol.
+- 2536 Der Trippelsche Fries, auf den Frieden zu Teschen,in zwei KupferstichReproduct. von Kruiger und Stahl. 2 Bll. lang. qu. fol.
+- 2538 R. Kunz. Der Rheinuibergang bei Mannheim, 1814.Nach W. Kobell. Gr. qu. fol.
+- Zeichnung von Loser.Gr. qu. fol. 26 Exemplare.
+- 2539 Ansicht von Nurnberg aus der Vogelperspective. Photographie nach einer
+- 2540 Panorama von Jerusalem. Grosse Photographie. Lang. qu. fol.
+- 11 Lithographieen mit Text.Lwdbd.imp. fol.
+- 2541 Panorama von Athen,herausgegeben von Ferd. Stademann, Munchen 1841.
+- 2542 J. Pedro. La Liseuse und La Devideuse. G. Dow p. 2 Bll. fol.
+- 2544 Rossi inc. 28 Bll. romische Ansichten. 28 gut gest. Blatter. Gr. fol.u.
+- 2543 Regnier lith. Japaner Familie;Buntdruck.In Rahmen unter Glas. Hohe 53,Breite 37 Cent.
+- gr.qu. fol.
+- 2545 Rugendas.
+- Zwei Schabkunstblatter nach Bigg. N. bes. erh. 2 Bll. gr. qu.fol.
+- 2546 Ruotte. Maria und der verkundigende Engel. Halbfigur nach G. Reni. 2 Bll. fol. Sporf.
+- 2547 Scenographia urbium Silesiae.11 Blatt colorirte Kupferstiche. Gr. fol.
+- 2548 Schleich. Animal affection. W. Miller p. Schabkunstblatt. Qu. fol.
+- 2550 Punt et Tanje. Corps de garde des offc. holland. Troost p. Gr. qu. fol.
+- 2549 A. Suntach. The anglers repast. Morland p. Punktirtes Blatt. Qu. fol.
+- 2551 J.C. Thaeter. Barbarossas Einzug in Mailand nach Schnorr. Schones
+- 2552 P. Toschi. Die Kreuztragung Lo spasimo di Sicilia", nach dem Bilde des Raphael in Madrid. Prachtblatt in vorziglichem Abdrucke mit Bardi's Namen als Drucker.Imp. fol. Ecke bruch.
+- Munch. K.Ver.-Blatt f. 1842. Roy. qu. fol.
+- 2553 Velten Verlag,13 Blatt Schweizer Landschaften nach Heinzmann. 13 Lithographieen. Gr.qu.fol.
+- 2555 Sieben verschiedene grosse Wand- und Wappen-Kalender, einer von
+- 2554 Drei grosse Wandkalender etc. 3 Bll.
+- Clemens August von Koln.7 Bll. Imp. fol.
+- 2556 Werner, F.B.Prospect der Stadt Augsburg. gefalten. Gr.qu.fol.
+- Zusammengesetzt und
+- 2557 Wolf &amp; Sohn. Neun Blatt Chromolithographieen,Initialen,Antiquitaten etc. 9Bll. gr. fol.
+- 2558 Zwei auf Seide gedruckte Kupferstiche.
+- 2559 Convolut, enthaltend sieben Photographieen:Kirchenportale,Brunnen ete.
+- 7Bll.Verschiedenes Format.
+- 2560 Convolut, enthaltend 28 Bll.Photographieen:Kunstgegenstande, Mobel ete.
+- Meist Cabinet-Format.
+- 2561 Sechs grosse Photographieen mit je zwei Grabsteinen mit Wappen. 6 Bll.
+- gr..qu. fol.
+- 2562 Convolut,enthaltend 5 Bll. Photographieen nach Siegeln.
+- 2563 Convolut, enthaltend 15 Bll. Photographieen nach Gemalden,Gobelins ete. 15Bll. Verschiedenes Format.
+- 2564 Convolut, enthaltend 19 Bll. Photographieen: Rustungen, Waffen, etc.19 Bll.Versehiedene zum Theil gr. Form.
+- 2565 Convolut,enthaltend 27 Photographieen nach Grabplatten,die meisten mit
+- Wappen. 27 Bll.Cabinet-Form.
+- 2566 Convolut, enthaltend 14 Photographieen nach geschnitzten Wappenschildern,
+- die meisten in der Sammlung befindlich.14 Bll. fol.
+- 2568 Convolut, enthaltend 16 Bll. nach antiken Reliefs ete. 16 Bll. gr. fol. und gr. qu. fol.
+- 2567 Convolut, enthaltend 9 grosse 1 Photographieen:Ansichten,Kunstgegenstande etc.
+- 2569 Convolut, enthaltend 21 Bll. antike Statuen,Basreliefs ete.aus einem Werke. 21 Bll. fol.und qu. fol.
+- 2570 Convolut, enthaltend 21 Bll. antike Basreliefs aus einem Werke. 21 Bll. gr.qu.fol.
+- 2571 Convolut, enthaltend 36 Bll. Seulpturen, Basreliefs etc., gest. v.Lacour.
+- Aus einem Werke. 36 Bll. fol. und qu. fol.
+- 2572 Convolut, enthaltend 16 Blatt Kupferstiche mit Ornamentverzierungen ete. 16 Bll. gr. Fol.
+- Festlichkeiten etc. 15. Bll. Verschiedene Form.
+- 2573 Convolut, enthaltend 15 Bll. Darstellungen von Reichstagen, Kronungen,
+- 2574 Convolut, enthaltend 20 Blatt Kriegs- und Belagerungsscenen. 20 Bll. gr.fol.
+- 2575 20 Bll. Darstellungen von Schlachten und Gefechten unter Prinz Eugen 20 Bll. gr. fol.
+- schiedene Form.
+- Ver-
+- 2577 Convolut, enthaltend 30 Bll., dabei viele historische Darstellungen, Portraits
+- ete. 30 Bl. Verschiedene Form.
+- 2578 80 Medaillons mit den Thaten Friedrichs des Grossen und crklarendem Text in franzosischer Sprache.In Holzkapsel.
+
+2579 Convolut, enthaltend 22 Bll. mytholog.Darstellungen in Kupferstich, Schabmanier und Lithographie.
+
+2580 Convolut, enthaltend 12 Blatt Interieurs, meist beschadigte Kupferstiche. 12 Bll. gr. fol.
+
+- 2581 Convolut, enthaltend 5 Blatt Sarkophage. 5 Bll. gr. qu. fol.
+
+2583 Convolut,enthaltend 18 Blatt religiose Darstellungen in Lithographie. 18 Bll. gr.fol.
+
+- 20Bll. fol.
+- 2584 Convolut, enthaltend 20 Bll. biblische und religiose Darstellungen. 20 Bll. Verschiedene Form.
+
+2585 Convolut,enthaltend 20 Blatt biblische Darstellungen.
+
+- 2587 Convolut, enthaltend 15 Blatt religiose Darstellungen. 15 Bll. gr. fol.
+
+2586 Convolut, enthaltend 24 Bll. Brustbilder von Heiligen, Darstellungen aus ihrem Leben etc.24 Bll.Verschiedene Form.
+
+2588 Convolut, enthaltend 20 Blatt Heiligenfiguren.20 Bll. gr. fol.
+
+2589 Convolut, enthaltend 24 Blatt biblische Darstellung in ornamentirter Um-
+
+24 Bll. gr. fol.
+
+rahmung.
+
+2590 Convolut， enthaltend 66 Blatt religiose Darstellungen. 66 Bll. Verschiedene Form.
+
+2591 62 verschiedene Tages-Bildchen, theils von Klauber gestochen, mit Dar- stellungen aus dem Leben der Heiligen. 62 Bll. 8.
+
+2592 Convolut, enthaltend 16 Blatt Monumente und Portale. 16 Bll. gr. fol.
+
+2593 Convolut, enthaltend 20 Blatt offentliche Gebaude und Platze. 20Bll.
+
+gr. fol.
+
+2594 Convolut, enthaltend 20 Blatt Schlossarchitekturen. 20 Bll. gr. fol.
+
+2595 Convolut, enthaltend 30 Blatt kirchlicher Architekturen. 30 Bll. gr. fol.
+
+2596 Convolut,enthaltend 40 Bll.Architekturen. 40 Bll.Verschiedene Form.
+
+2597 Convolut, enthaltend 40 Bll. Holzschnitte,dabei Trachtenfiguren von Jobst
+
+Amman etc.40 Bll.
+
+2598 Convolut,enthaltend 10 Blatt Lithographieen als Costuimfguren ete.10 Bll. gr. fol.
+
+13 Bll. gr. fol.
+
+- 2599 Convolut, enthaltend 4 Bll. Imperatorenbuisten.4 Bll.gr. fol.
+
+2600 Convolut, enthaltend 13 Bll. Portraits in Lithographie.
+
+2601 Convolut, enthaltend 17 Bll. grosse Portraits.17 Bll. gr. fol.
+
+2602 Convolut,enthaltend 10 Blatt Portraits in Kupfer gestochen. 10 Bll.
+
+gr. fol.
+
+2603 Convolut, enthaltend 20 Blatt Portraits in Lithographie. 20 Bll. gr.fol.
+
+2604 Convolut, enthaltend 22 Bll. kleine Portraits,dabei Doubl. 22 Bll.
+
+2605 Convolut, enthaltend 25 Blatt Portraits in Kupfer gestochen. 25 Bll. 8.
+
+26070 Convolut,enthaltend 4 Blatt Landschaften in Buntdruck. 4 Bll. gr. qu. fol.
+
+2606 Convolut, enthaltend 4 Blatt Landschaften in Aquatinta. 4 Bll. gr. qu.fol.
+
+2608 Convolut, enthaltend 5 Blatt Landschaften nach Haid ete. 5 Blatt gr.fol.
+
+2609 Convolut, enthaltend 7 Blatt Landschaften.Beschadigte Kupferstiche. 7 Bll.
+
+gr.Fol.
+
+2610 Convolut, enthaltend 9 Blatt Landschaften, zumeist Rheinansichten. 9 Bll.
+
+- Lithographieen. Gr.fol.und qu. fol.
+
+2611 Convolut mit 9 Blatt Landschaften in Lithographie. 9 Bll. gr. fol.
+
+- 2612 Convolut, enthaltend 9 Blatt Landschaften, meist Kupferstiche. 9Bll. gr.fol.
+- qu. fol.
+2615 Convolut, enthaltend 20 Bll. Landschaften,Portraits etc. 20 Bll.
+
+2617 Convolut, enthaltend 17 Blatt Landschaften etc.,neist Lithographieen. 17 Bll. gr.fol.
+
+2616 Convolut,enthaltend 16 Blatt Landschaften. 16 Bll.Verschiedene Form.
+
+2618 Convolut, enthaltend 34 Bll. Landschafts-Darstellungen in Kupferstich und
+
+Lithographie.'Verschiedene Form.
+
+- 2620 Convolut,enthaltend 30 Bll. in Kupferstich und Lithographie, meist Landschafts-Darstellungen.30 Bll.Verschiedene Form.
+
+schiedene Form.
+
+2621 Convolut, enthaltend 45 Bll. Landschaften, Thiersticke etc. 45 Bll. Ver-
+
+2622 Vier Bilder gehorntes Wild, nach Haider. 4 Bll. Lithographieen. Gr. qu.fol.
+
+2624 Convolut, enthaltend 16 Blatt Thiere.16 Bll. Verschiedene Form.
+
+2623 Convolut,enthaltend 6 Blatt Pferde.6 Bll. Verschiedene Form.
+
+2625 Convolut, enthaltend 22 Blatt Jagddarstellungen, nach Collaert. 22 Bll.
+
+qu.fol.
+
+2626 Convolut, enthaltend 13 Blatt alte Landkarten, darunter eine auf Pergament gezeichnet.13 Bll.gr.fol.
+
+2628 Convolut, enthaltend zwolf Blatt Ansichten offentlicher Platze. 12 Bll.gr.fol.
+
+2627 Convolut, enthaltend funf Blatt Stadte-Ansichten. Funf Lithographieen. Gr. qu. fol.
+
+2629 Convolut,enthaltend 20 Blatt Ansichten einzelner Stadttheile,Brucken etc. 20 Bll. gr. fol.
+
+Hogenberg’schen Atlas.8 Bll. fol.
+
+2630 Convolut, enthaltend acht Blatt Stadtprospecte, meist aus dem Braun und
+
+2631 Convolut, enthaltend acht Blatt Ansichten bayerischer Stadte,meist Lithographieen.8 Bll. gr. fol.
+
+2633 Convolut,enthaltend zwolf Blatt Schlossgarten etc. 12 Bll. gr. fol.
+
+2635 Convolut,enthaltend uber 30 Bll. Kunstgegenstande,Glasfenster,Orna-
+
+2634 Convolut, enthaltend 20 Blatt Prospecte von Stadten. 20 Bll. gr. fol.
+
+mentik ete.Versch.Form.
+
+2637 Eine Rolle mit zwolf grossen Lithographieen. 12 Bll. gr. fol. u. gr. qu. fol.
+
+2636 Heft,enthaltend elf Bll. Vorlagen zu Eisenarbeiten.Kl. fol.
+
+2638 Eine Rolle mit acht div. Lithographieen.
+
+2640 Convolut, enthaltend 57 Blatt Sternbilder in Kupfer gestochen. 57 Bll.gr.fol.
+
+2639 Eine Rolle mit 40 grossen Kupferstichen,Lithographicen etc. 40 Bll.
+
+2641 Convolut,enthaltend 80 Blatt Kupferstiche,Holzschnitte,Lithgraphieen etc.
+
+2642 Convolut,enthaltend 15 Blatt verschiedene Darstellungen. 15 Bll. gr. fol.
+
+80BIl.
+
+2643 Convolut, enthaltend vier Blatt Chromolithographieen. 4 Bll. gr. fol:
+
+2645 Eine Mappe,enthaltend 180 Blatt Minchener Bilderbogen. 180 Bl..gr.fol.
+
+2644 Convolut,enthaltend zwolf Blatt verschiedene Darstellungen. 12 Bll.kl. fol.
+
+2646 Convolut, enthaltend sieben Blatt Zeichenvorlagen aux deux crayons.
+
+2647 Funf Bll. Zeichenvorlagen.5 Bll. fol.
+
+7Bll. gr.fol.
+
+2648 Convolut, enthaltend 19 Bll. Carricaturen und Humoristica.
+
+2649 Eine grosse Partie Buchdeckel, gepresst mit Figurendarstellungen,reichen Ornamenten etc.
+## Romische und altgermanische Antiquitaten,
+
+zumeist Ausgrabungen und Funde aus dem Bodensee.
+
+2650 Bronzeschwert, vierkantig. Gefunden bei Tittmoning in Oberbayern. Lange 60 Cent.
+
+Ausgrabung. Linge 2651 Kurzes romisches Schwert, Bronze, zweischneidig.
+
+39 Cent.
+
+2652 Bronze-Beil von eleganter Form, schon patinirt. Linge 19 Cent.
+
+2653 Bronze-Beil. Lange 21 Cent.
+
+2654 Bronze-Beil,ahnlich.Lange 19 Cent.
+
+2655 Bronzehelm, stark oxydirt. Hohe 22 Cent.
+
+2656 Funf Keulenspitzen und Schlagringe,Bronze. Linge
+
+Lange 2657 Romischer Schlagring, in Bronze mit drei Reihen starker Zacken.1
+
+Angeblich antik. zwischen 9 und 21/2 Cent. Eine mit Holzgriff.
+
+4Cent.
+
+2658 Vier Pfeilspitzen verschiedener Lange.
+
+- 2659 Napf mit auf der Innenseite eingeritzten 21 Cent.Gesprungen.
+
+n Verzierungen. Romisch. Diam.
+
+- 2660 Fragment einer Tanagra-Figur, nebst versch. Thonfragmenten.
+- 2661 Isisfigur, Thon. Hohe 15 Cent.
+- Hohe 2662 Antikisirende Henkelkanne in Bronze, der Henkel mit Maske. 25 Cent.
+- 2663 Vier romische Lampen,theils mit hibschen Reliefornamenten. 4 Stick.
+- Diam.20 Cent.
+
+2664a Lampe, ganz hnlich, gleiche Grosse.
+
+- 2665 Vier verschiedene antikisirende Bronzelampen, theils mit reliefirten Darstellungen. Lange zwischen 8 und 15 Cent.
+
+2666 Zehn verschiedene kleine romische Fibeln, Bronze.
+
+2667 Zwanzig meist romische Spangen und Schliesser, Bronze.
+
+2668 Sieben romische Bronzefiguren, patinirt. Lange zwischen 10 und 5 Cent.
+
+2669 Zwei romische Sehlussel, Ring mit Platte, Petschaft und Phallus, Bronze.
+
+Lange zwischen 11 und 2 Cent. 5 Stuick.
+
+2670 Drei romische Bronzeschellen nebst zwei ahnlichen. Linge 7 Cent. 5 Stick.
+
+- 2671 Acht romische und keltische Armringe, Bigel etc. Lange zwischen 27 und 10 Cent.
+- 2672 Zwei romische Kesselchen, eins mit Handgriff.
+
+2673 Drei antikisirende Bronzeketten,nebst Mascaron. Lange zwischen 18 und 30 Cent.
+
+- 2674 Eine grosse Partie meist romischer Antiquitaten, dabei Loffel, Spangen, Messer etc.
+- 2675 Offcierdegen mit Handschuh und Resten von Silbertauschirung. Ausge-
+- graben bei Ederheim.
+- 2676 Zweischneidiges Schwert mit gewundener Parirstange. Ausgrabung. Linge 96 Cent.
+- 2677 Schwert, ahnlich, ohne Handschutz, ebenso. Lange 98 Cent.
+
+2678 Zwei Schwerter. Ausgrabungen.
+
+2679 Oxydirtes Schwert aus dem Anfang des XVI. Jahrh. mit S formiger ge- bogener Parirstange. Lange 48 Cent.
+
+- 2680 Kurzes Schwert, Bronze, die zweischneidige Klinge mit Strichverzierungen. Ausgrabung. Lange 37 Cent.
+2681 Vier Schwerter. Ausgrabung.
+
+2683 Drei Spiesse und altdeutsches Schwert. Ausgrabung.
+
+2682 Hirschfanger, einschneidig. Nebst ahnlichem und Schwertfragment. Ausgrabungen. Lange 48 Cent. 3 Stick.
+
+2684 Fragment einer grossen Hellebarde. Linge 64 Cent.
+
+2686 Grosse Lanzenspitze. Ausgrabung. Fragmentirt. Lange 45 Cent.
+
+2685 Sponton und Fragment einer Hellebarde. Ausgrabung.
+
+2687 Lange Lanzenspitze,lanzettformig. Ausgrabung. Nebst Enterhaken. Lange 55 Cent.
+
+2689 Drei deutsche Streitaxte. Eine mit zwei Waffenschmiedsmarken. Aus-
+
+2688 Pfahlspitze und zwei Schildbuckel. Ausgrabungen.
+
+grabung.
+
+2691 Vier verschiedene Beile und eine Lanzenspitze, Bronze. Ausgrabung.
+
+2690 Drei deutsche Beile. Ausgrabungen.
+
+2692 Beil mit langer Schneide, germanisch. Grabfund. Lange 28 Cent.
+
+2693 Messer, germanisch. Ausgrabung, nebst einem andern. Lange 29 Cent.
+
+2695 Kurzes geschweiftes Opfermesser und Messergrif, Bronze. Grabfund.
+
+2698 Vier Waffen:Lanze, Schwert etc.aus einem Allemannengrab. Ausgrabung.
+
+2696 -97 Dolch, der Griff in Rautenschnitt, nebst deutschem Beil. Ausgrabung. 2 Stick.
+
+2699 Zwei Pferdesteigbugel und Hufeisen. Ausgrabung. 4 Stuick.
+
+2701 Acht Pferdehufeisen.Ausgrabungen.
+
+2700 Sechs Pferdehufeisen. Theils Ausgrabungen.
+
+2702 Vier Pfugeisen. Ausgrabungen.
+
+2704 Zwei romische Pfugscharen, Pfeilform. Ausgrabungen. Lange 84 und
+
+2703 Zwei romische Pfugscharen. Ausgrabungen. Lange 56 Cent.
+
+90 Cent.
+
+2705 Eine grosse Sammlung von nahezu 1000 Waffen und Gerathen aus der Steinzeit, dabei viele Beile, Hammer, Pfeilspitzen, Meissel ete., einige in Knochen und Holz befestigt. Sehr reichhaltige interessante, culturhistorisch wichtige Sammlung, meistens Funde aus und an dem Bodensee. (Werden auf Wunsch vereinzelt und partieenweise versteigert.)
+
+- 2706 Grosser Kachelofen, grin glasirt, mit Reliefranken und theils mit auf schwarzem Grunde ausgesparten Medaillons mit dem Augsburger Stadtpyr etc.
+
+<!-- image -->
+## Gemalde
+
+(dabei viele Altarbilder der deutschen und italienischen
+
+Sehule), Wappen, Miniaturen etc.
+
+## Jan von Aachen.
+
+- 2707 Christus am Kreuz.I Im Vorgrunde einer Gebirgslandschaft haingt Christus am Kreuze zwischen den beiden Schachern. Am Kreuzesstamm stehen Maria und Johannes,in den unteren Ecken reiche Wappenschilder. Gutes Bild, in einen Rahmen mit Giebelaufsatz als Altar gefasst. Holz. Hohe S8, Breite 77 Cent.
+
+## Altdeutsche Schule des XV.und XVI. Jahrh.
+
+- 2708 Gothischer Sakristeischrein mit zwei von fachgeschnitzten Ranken umrahmten Thiren,die bemalt auf den Aussenseiten mit Scenen aus dem Leben des Zacharias, auf den Innenseiten mit Standfiguren weiblicher Heiligen. Hohe 102,Breite 99,Tiefe 29 Cent.
+- an einem Galgen. Rechts der Konig mit Gefolge. Breite 114 Cent.
+- 2709 Martyrium dreier Heiligen. Dieselben hangen, mit den Handen gebunden, Holz. Hohe 148,
+- 2710 Grosser Altarfugel, beiderseits bemalt. Auf der Innenseite der hl. Wolf gang im Bischofsornate; auf der Aussenseite: Ecce Homo. Holz. Hohe 123,
+- 2711 Altarfugel,aufgemalt einerseits der hl. Papst Silvester im Ornate,ander-
+- Breite 48 Cent.
+- seits die hl. Katharina. Der Hintergrund der letzteren reich gepunzt und
+- vergoldet.Holz.Hohe 115,Breite 47 Cent.
+- 2712 Christus mit der Siegesfahne, dem Grabe entsteigend, um welches die Wachter. Holz.Hohe 102,Breite 76 Cent.
+- 2714 Die hl. Angela von Foligno. Fast lebensgrosse Halbfigur der Heiligen in mit schoner Agraffe gehaltenem Mantel,in beiden Handen ein Buch,in der Hohe die Taube des hl. Geistes. Holz. Hohe 87,Breite 64 Cent.
+- 2713 Altarfugel. Der hl. Augustinus in vollem Bischofsornate, neben ihm der Knabe,landschaftlicher Hintergrund mit dem Meere. Holz. Hohe 92, Breite 79 Cent.
+- 2715 Der Sturz des Saulus. Derselbe stirzt im Vorgrunde einer Felslandschaft mit seinem Schimmel, in der Hohe Christus. Der Hintergrund mit Punz-
+- 2716 Der hl. Martinus, seinen Mantel mit dem Bettler theilend. Landschaft-
+- ornamenten und vergoldet. Holz. Hohe 84,Breite 64 Cent.
+- licher Hintergrund. Holz.Hohe 83,Breite 83 Cent.
+- 2718 Altarbild. Auf der Vorderseite gut geschnitzt, die Relieffigur der hl. Agnes mit dem Lamme;ihre Gewandungen sowie der Hintergrund polychromirt und vergoldet, letzterer theilweise reich gepunzt. Auf der Ruckseite auf gemalt die costuimlich interessante Figur der hl. Helena, das Kreuz haltend. Holz. Hohe 68, Breite 45 Cent.
+- 2717 Maria Besuch bei Elisabeth. Felsenlandschaft mit hohen tempelartigen Gebauden,vor denen die beiden Frauen. Interessantes Bild. Die Heiligenscheine vergoldet. Holz.Hohe 80,Breite 50 Cent.
+- 2719 Altarfugel. Die Taufe Christi,uber der Christusfigur Inschriftband, der Hintergrund mit Punzornamenten und mit Vergoldung. Holz. Hohe 65, Breite 38 Cent.
+- 2720 St. Lucas, die Madonna malend. An einem Hugelabhange links sitzt der Heilige; ihm erscheint in Wolken Madonna mit dem Kinde auf Halbmond
+- stehend; der Hintergrund mit Punzornamenten und vergoldet. Holz. Hohe 65, Breite 37 Cent.
+- 2722 Weibliche Heilige, gleicher Ausfuhrung. Holz. Gleiche Grosse.
+- 2721 Die hl. Barbara vor einem Vorhange stehend. Holz. Hohe 62, Breite 33 Cent.
+- 2723 Weibliche Heilige, ebenso. Holz. Gleiche Grosse.
+- 2724 Heiliger Bischof im Ornate, einen vor ihm stehenden Gluubigen ermahnend. Auf der Ruckseite ahnliche Composition. Holz. Hohe 61,Breite 41 Cent.
+- den Teufel von einem durch Sturm bedrangten Schiffe
+- 2725 Heiliger Bischof,
+- vertreibend.Holz. Hohe 59,Breite 33 Cent.
+- 2726 Die Grablegung Christi. Composition von acht Figuren im Vorgrunde
+- einer Gebirgslandschaft. Holz. Hohe 51,Breite 41 Cent.
+- 2727 Der Calvarienberg. Christus am Kreuze zwischen den beiden Schachern;
+- zu den Seiten links die hl. Frauen, rechts die wurfelnden Soldaten etc. Hintergrund und Heiligenscheine vergoldet. Holz. Hohe 49,Breite 40 Cent.
+- 2728 Doppelbild, einerseits Christus und die Ehebrecherin dargestellt in einer Composition von funf Figuren, anderseits hl. Bischof im Ornate. Holz.
+- Hohe 37,Breite 26 Cent.
+- 2729 Doppelbild, ahnlich und Gegenstick mit biblischer Darstellung und
+- hl. Cardinal im Ornate. Holz. Gleiche Grosse.
+
+## Heinrich Altdorf (Schule).
+
+- 2730 Christus am Oelberg. Im Vorgrunde die schlafenden Junger. Der Hintergrund landschaftlich mit der Darstellung des Judaskusses. Die figurenreiche Composition wird von vergoldetem Renaissancebogen umfasst. Holz. Hohe 32, Breite 34 Cent.
+
+## Altitalienische Schule.
+
+- 2731 Altarfugel, beiderseits gemalt. Auf der einen Seite knieende Fursten in reichem goldgemalten Kleide; zu ihren Fuissen das Wappen der Visconti, auf der andern Seite neun minnliche Figuren, theils mit Musikinstrumenten.
+- Interessantes Bild.
+- 2732 Christi Kreuzschleppung. Figurenreiches Bild. Holz. Hohe 115, Breite
+- 119 Cent.
+- vergoldet. Holz. Hohe 108, Breite 91 Cent.
+- 2733 Christus am Kreuz. Der Hintergrund in Teppichmusterung gepunzt und
+- 2734 Spitzbogiges Altarchen. Madonna mit dem Kinde, zur Seite Engelsfiguren, in der Hohe Gott Vater. Der Hintergrund vergoldet und mit Punzorna-
+- menten, der Giebel mit Krabben. Hohe 50, Breite 26 Cent.
+- 2735 Madonna mit dem Kinde. Vorreich gemustertem Vorhange sitzt Madonna in blauem Gewande, das eine Inschrifts-Banderole haltende Jesukind auf dem Schoosse haltend. Heiligenschein und Hintergrund vergoldet, ersterer gepunzt. Holz. Hohe 49, Breite 32 Cent.
+- 2736 Madonna mit dem Kinde. Halbfigur der Madonna in weitem Mantel, das Kind auf dem Arme haltend. In der Hohe zwei Engel. Der Hintergrund vergoldet, die Heiligenscheine gepunzt. Holz. Hohe 47, Breite 38
+- Cent.
+- 2737 Madonna mit dem Kinde. Halbfigur der Madonna in goldgesticktem Mantel, das auf ihrem rechten Arme sitzende Jesukind liebkosend an sich drickend. Interessantes Bild. Der Hintergrund vergoldet, die Heiligenscheine gepunzt. Holz. Hohe 40, Breite 33 Cent.
+- 2738 Madonna mit dem Kinde. Halbfigur in rothem, goldbordirten Mantel, auf Goldgrund, die Aureolen mit Punzornamenten. Holz.Hohe 36,Breite 27 Cent.
+## Altkolnische Schule.
+
+- 2739 St. Ursula mit ihren Gefahrtinnen. Die hl. Ursula mit zahlreichen Gefahrtinnen,theils mit den Symbolen ihres Martyriums in einem Kahne iber den Rhein fahrend, aus dessen Fluthen die Haupter hl. Martyrer hervortreten.Die Gewandungen mit Vergoldung. Unten Schild mit der Aufschrift:S. Ursula also zart, Erschossen und erschlagen wart, Mit ir eylff daussent junckfrae schon, von got vntfange e de ewig Kron." Interessantes Bild. Holz. Hohe 87, Breite 55 Cent.
+
+## Augsburger Meister aus der zweiten Halfte des XVI. Jahrh.
+
+- 2740 Portrait. Brustbild einer Dame in mittleren Jahren, in dreiviertel Wen-
+- dung nach rechts, in schwarzem Gewande mit Puffenirmeln und Halskrause, das Haar wird von einer schwarzen Haube vollig bedeckt.Interessantes charakteristisches Bild.Holz. Hohe 46,Breite 23 Cent.
+
+## Bacher. Tyroler Maler des XV. Jahrh.
+
+- thischen Baldachine die Standfigur des hl. Florian in voller Ritterrustung mit Mantel, in der Linken die Fahne, in der Rechten einen Zuber, dessen Wasser er iber ein brennendes Haus schuittet. Hintergrund und Heiligenschein vergoldet. Auf der anderen Seite der hl. Andreas mit dem Kreuze in einer rundbogigen Nische stehend. Aeusserst interessantes, sehr cha-
+- 2742 Altarfugel und Gegenstick mit den Standfiguren der hl. Barbara in reich drapirtem Gewande mit Thurm und eines hl. Bischofs in vollem Ornate mit reichem Stabe und Mitra, neben ihm ein Bar. Ebenso interessantes
+- rakteristisches Bild.Holz.Hohe 220,Breite 80 Cent.
+- Bild von gleicher Ausfuhrung. Holz. Gleiche Grosse.
+
+## Bartholomaus Beham.
+
+- 2743 Antependium. Christus als Weltheiland von seinen Aposteln,die ihre Gruppe von 13 Kniefiguren.Interessantes Holz.Hohe 72,Breite 180
+- Attribute tragen, umgeben. Bild. Hintergrund und einzelne Partieen. Cent.
+
+## Balthasar Beschey (Schule).
+
+- 28,Breite 42 Cent.
+
+## Lucas Cranach (Schule).
+
+- nach links,mit reichem,meist von schwarzem Oberkleide verdeckten Gewande.Um den Hals tragt er eine goldene Ordenskette.Interessantes
+- Bild. Holz.Hohe 42, Breite 38 Cent.
+
+## Hans von Culmbach.
+
+- 2746 Geisselung Christi. In einer Saulenhalle Christus nackt an eine Saule gebunden, von den Schergen mit Ruthen und Geisseln gepeitscht. Rechts steht Pilatus.Holz. Hohe 77,Breite 70 Cent.
+- Breite 50 Cent.
+- 2747 Die Geisselung Christi. Composition von drei Figuren. Holz. Hohe 78
+
+## Deutscher Meister des XVI. Jahrh.
+
+- 150,Breite 60 Cent.
+## Deutscher Meister des XvIl. Jahrh.
+
+- 2749 Votivbild. Der Calvarienberg in einer figurenreichen Composition,im Vordergrunde knieendes Donatorenpaar. Holz. Hohe 136,Breite 100 Cent.
+
+## Albrecht Direr's Schule.
+
+- 2750 Altarfugel, beiderseits gemalt. Der Apostel Andreas in ganzer Figur mit Kreuz und Buch unter gothischem Laubbogen stehend, auf der anderen Seite die Standfigur des hl. Friedrich, Abt von Einsicdeln, im Monchsgewande mit Kette und Bischofsstab. Interessantes Bild. Holz. Hohe 130,
+- Breite 74 Cent.
+
+## Heinrich Goltzius.
+
+- 2751 Die Auferstehung Christi. Der Heiland entsteigt, von einer Engelglorie umgeben, dem Grabe. Um dasselbe die erschreckt auffahrenden Wachter in interessanten,reichen Costimen. Landschaftlicher Hintergrund mit Felsenthor.Holz. Hohe 95,Breite 75 Cent.
+
+## Mathias Grinewald (Schule).
+
+- 2752 Madonna mit dem Kinde. Halbfigur der Madonna in blauem Mantel, das vor ihr auf rothem Kissen iber einem Steinsockel stehende Jesukind, das eine Perlenschnur um den Hals trigt, umarmend. Landschaftlicher Hintergrund. Gutes Bildchen. Holz. Hohe 35, Breite 26 Cent.
+
+## Griechisch-Russische Malerei.
+
+- 2753 Die Engel vom Berge Athos.I Der jugendliche Heiland segnend,umgeben von zahlreichen Engelsfiguren in theils goldgeschmickten Gewandungen. Die Flugel und die Heiligenscheine mit Vergoldung. Eigenthumliches und interessantes Bild. Holz. Hohe 130, Breite 150 Cent.
+- 2754 Wunderthatiges Madonnenbild. Die Himmelskonigin in dunklem,reich drapirten Gewande, halt auf ihrem linken Arme das gekronte Jesukind. Die Fleischtheile dunkelbraun, der Untergrund vergoldet. Leinewand. Hohe 85,Breite 65 Cent.
+- 2755 Madonna mit dem Kinde. Lebensgrosses Brustbild auf vergoldetem Grunde.
+- Leinwand.Hohe 84,Breite 50 Cent.
+- 2756 Madonna mit dem Kinde. Leinwand. Hohe 71, Breite 51 Cent.
+- 2757 Wunderthatiges Madonnenbild. Brustbild der Madonna, das Kind auf dem linken Arme haltend, Krone und Hintergrund vergoldet.Leinewand.
+- Hohe 30,Breite 21 Cent.
+- 2758 Wunderthatiges Madonnenbild. Die Fleischtheile dunkelbraun, der Untergrund vergoldet. Leinewand. Hohe 29,Breite 17 Cent.
+- 27591 tieen vergoldet. Hohe 16,Breite 12 Cent.
+- Halbfigur der Madonna mit dem Kinde. Hintergrund und Gewandpar-
+
+## Ambrosius Holbein.
+
+- 2760 Grosses Altarbild. Die Vorderseite zeigt auf einem Steinsockel die Standstumen mit ippig drapirten Manteln. rung reich
+- figuren der hl. Dorothea, Vitus, Fabianus und Margaretha in reichen CoDer Hintergrund in Teppichmustegepunzt und vergoldet. Die Aureolen mit den Namensauf schriften. Auf der Rickseite die Anbetung der hl. drei Konige in einer sehr schonen und reichen Composition, die leider theils gelitten. Sehr interessantes und fein durchgefihrtes Bild. Holz. Hohe 143, Breite 143 Cent.
+## Italienische Schule.
+
+- 2761 Madonna mit dem Kinde. Madonna in hellrothem Kleide und grinem Mantel sitzt, das Jesukind haltend, auf einer Steinbank. Oberhalb drei-
+- passformiges Bild. Holz. Hohe 60, Breite 40 Cent.
+- 2762 Caritas. Mutter mit zwei Kindern und Hund in einer Nische. Holz. Hohe
+- 53,Breite 25 Cent.
+- 2764 Altarfugel. Engel in Albe, die Leidenssiule haltend,mit reliefirter Goldverzierung. Hohe 49,Breite 21 Cent.
+- 2763 Die Anbetung der hl. drei Konige. Composition von sechs Figuren vor grosser Ruine, einzelne Gewandpartieen vergoldet. Holz. Hohe 5O, Breite 41 Cent.
+- 2765 Die hl. Jucunda, Kniefigur in faltenreichem Gewande,in der Rechten Pfeile und Palmzweig haltend. Der Hintergrund vergoldet.Oberhalb abgerundet. Leinwand. Hohe 43, Breite 29 Cent.
+- 2766 Christus mit der Dornenkrone. Brustbild en face. Zink. Hohe 41, Breite
+- 32 Cent.
+- 2767 Madonna mit dem Kinde. Brustbild der Maria, das Jesukind liebkosend an sich drickend. Gutes Bild. Holz. Hohe 41, Breite 32 Cent. In breitem Rahmen mit guillochirten Leisten.
+- 2768 Zwei weibliche Heilige. Links die hl. Katharina mit dem Rad, rechts die
+- hl. Ursula,in weiten rothen Manteln; der Hintergrund vergoldet und mit Punzornamenten. Holz. Hohe 30,Breite 22 Cent.
+- 2769 Die Vermahlung Maria. Composition von finf Figuren. Hohe 19, Breite 15 Cent.
+- 2770 Kreuzschleppung Christi, nach Lucas van Leyden. Figurenreiche Composition im Vordergrunde einer Gebirgslandschaft. Interessantes Bild. Holz.
+- Hohe 30,Breite 24 Cent.
+
+## J. Malthan,
+
+Maler aus dem Ende des XVI. Jahrh.
+
+- 2771 Portrait des letzten Herzogs Wilhelm von Julich-Cleve-Berg. Derselbe, bis zur Hufte in fast Dreiviertel-Wendung nach links dargestellt, ist bekleidet mit schwarzem mit Pelzstreifen verbramten Gewande und schmalem Spitzenhalskragen. Das faltenreiche Gesicht umrahmt sparlicher, greiser Linken, die an der vorderen n Gewandoffnung sichtbar wird, halt er ein Buch. Hochinteressantes, fuir die rheinische Provincialgeschichte bemerkenswerthes Original-Portrait in Original-Holzrahmen,auf dem die Umschrift: Wilhelm von Gottes Gnadenn, Hertzoch zu Gulich, Cleve vund Berg, Graue zu der Mark vund Rauensberg, Herr zu Rauenstein etc. ete. Anno Domini 1592. Aetatis Suae 76. Holz.Hohe 68,Breite 51 Cent.
+
+## Raphael Mengs (Schule).
+
+- 2772 Madchen mit Tambourin. Halbfigur eines kleinen Madchens mit Feder-
+- haarschmuck, das Tambourin schlagend. Hohe 38,Breite 32 Cent.
+
+## Oberbayerischer Meister gegen Ende des XV. Jahrh.
+
+- 2773 Der segnende Weltheiland. Er steht in reich drapirtem Gewande und hat
+- die Rechte segnend erhoben.Ihm zur Seite stehen die Gottesmutter Maria und Maria Magdalena. Heiligenscheine und Hintergrund vergoldet,letzterer gepunzt. Interessantes, oberhalb zugespitztes Bild.Holz.Hohe 193,Breite 115 Cent.
+## Oberdeutsche Schule.
+
+- 2774 Votivbild: der hl. Augustinus in vollem Bischofsgewande, zu den Seiten knieendes Donatorenpaar in interessanten Costumen — Mann in Topfhelm —und mit ihren Wappen. Interessantes, leider beschadigtes Bild. Hohe 125,
+- Breite 111 Cent.
+- 2775 Die Flucht nach Aegypten. Rechts Waldeingang, links weite Fernsicht in eine Fluchtlandschaft. Unten in der Mitte die Jahreszahl 1500: Holz.
+- Hohe 100,Breite 77 Cent.
+- 2776 Die Einschifung der hl. Ursula. Der Hintergrund dehnt sich links zu
+- einer Fluchtlandschaft weit aus. Holz. Hohe 100,Breite 75 Cent.
+- 2777 Zwei Altarfugel. Der eine zeigt die Standfigur des hl. Hubertus in Jagdcostim, der andere einen hl. Bischof in vollem Ornate. Hohe 88, Breite 30 Cent.
+- 2778 Altarfugel. Standfigur des hl. Wendelinus mit Doppelkreuz und Buch;
+- neben ihm liegt ein Ochse. Holz. Hohe 67,Breite 26 Cent.
+- 2779 Altarfugel. Standfgur des hl. Antonius im Eremitengewande in beiden
+- Handen eine Glocke; neben ihm das Schwein. Holz. Gleiche Grosse.
+- 2780 Altarfugel. Der hl. Johannes, zwei vor ihm stehende Personen unterrichtend. Der Heiligenschein und der Hintergrund vergoldet und mit Punz
+- ornamenten.Holz.Hohe 64,Breite 38 Cent.
+- 2781 Altarfugel und Gegenstuck. Der Heiland erscheint dem hl. Johannes.
+- Gegenstuick zum vorigen. Ebenso. Holz. Gleiche Grosse.
+- Figuren in einer Landschaft dargestellt, die Aureolen und die Kleidung des ersteren vergoldet. Holz, Hohe 51,Breite 42 Cent.
+- 2782 Die Heiligen Georg und Christoph. Dieselben sind, ersterer i im Rittercostum,in ganzen
+- 2783 Die Auferstehung Christi. Christus dem Grabe ersteigend, zu dessen Seiten die erwachenden Wachter. Landschaftlicher Hintergrund. Gutes Bild. Holz.
+- Hohe 41,Breite 28 Cent. Gothischer Rahmen.
+
+## Oberitalienische Schule.
+
+- 2784 Christus am Kreuz. Links mater dolorosa und die hl. Frauen,rechts der hl. Johannes mit Joseph von Arimathia. Am Fusse des Kreuzes kniet ein Dominicanermonch als Donator. Die Heiligenscheine vergoldet. Holz.
+- Hohe 102,Breite 75 Cent.
+
+## Georg Pencz.
+
+- 2785 Portrait des Maximilian Olhaffer. Lebensgrosses Brustbild in DreiviertelWendung nach links mit Vollbart, schwarzem Barett, braunem Mantel mit Halskrause. Inschrift-Sockel mit Wappen und: Maximilianus Olhaffen Sen. Obiit Anno 1557. Aetatis s. Ao. 45 und das Monogramm des Meisters. Interessantes Bild. Holz. Hohe 52,Breite 41 Cent.
+
+## Franz Pourbus.
+
+- 2786 Grabtafel. Standfigur eines Ritters in voller Ristung mit Halskrause, schwerer Kette, die Linke an den reichen Degen gelegt, neben einem Piedestal stehend,auf welchem Namensaufschrift (ex familia de Scheuring et in Ober Anchofen 1582) Costimlich interessantes Bild. Holz. Hohe 192, Breite 78 Cent.
+- 2787 Bildniss eines Ritters. Lebensgrosses Brustbild in Dreiviertel-Wendung nach rechts. In schwarzem Gewande mit Halskrause und vierreihiger Kette. Oben Aufschrift mit Wappen und Jahreszahl 1584. Holz. Hohe 40, Breite 31 Cent.
+- Breite 240 Cent.
+
+## Otto Proyel.
+
+- 2788 Bildniss eines Ritters. Copie nach Velasquez. Leinwand. Hohe 51,Breite 44 Cent.Holzrahmen.
+
+## Nach Rubens.
+
+- 2789 Susanne von den beiden Alten iberrascht. Holz. Hohe 43, Breite 31 Cent.
+
+## K.Schlotthauer.
+
+- 2790 Kopf des dornengekronten Heilandes und mannliches Brustbild. Stuccoarbeit. Hohe eines jeden 36,Breite 27 Cent.
+
+## Schwabische Schule um 1500.
+
+- 2791 Predella eines Altars.Auf der Vorderseite dargestellt Christus mit den zwolf Aposteln, die sich um ihn gruppiren. Die Apostel in farbenreichen Gewandern mit ihren Attributen. Der Hintergrund und Heiligenscheine gepunzt und vergoldet. Sehr interessantes Bild. Holz. Hohe des Bildes 57,Breite146 Cent.
+
+## Schweizer Maler um 1500.
+
+- Der eine Fligel stellt beiderseits den hl. Hieronymus,
+- 2792 Zwei Altarfugel. der andere den hl.Vitus dar,a auf der einen Seite als Standfiguren unter einer Fruchtguirlande, auf der andern in reichen Gebirgslandschaften. Interessante Bilder. Holz. Hohe 120, Breite 40 Cent.
+
+## Laurenz Strauch.
+
+- 2793 Bildniss einer1 NurnbergerPatricierin. Lebensgrosses Brustbild mit schwarzem Barett, schwarzem Gewande, Spitzenringkragen und Brustkette. Rechts Wappen, Aufschrift: Aetatis suae 19. Anno 1596 und Monogramm des Meisters. Hohe 48, Breite 36 Cent.
+
+## Tyroler Schule.
+
+- 2794 Der hl. Georg. Der Heilige in reicher Goldristung auf reich gezaumtem
+- 2795 Die Geburt Christi. Maria und Joseph beten das neugeborene im Binsenkorbe liegende Jesukind an.In der Hohe eine Gruppe psalmirender Fngel.
+- Schimmel sitzend, den Drachen todtend. Holz. Hohe 98, Breite 79 Cent.
+- Hintergrund und Heiligenscheine vergoldet, Holz.Hohe 98,Breite 79 Cent.
+- 2796 St. Blasius und St. Magnus. Beide Heiligen,bis zum I Knie dargestellt, sind in vollem Ornate und halten ihre Attribute. Hintergrund und Heiligenscheine gepunzt und vergoldet. Holz. Hohe 32, Breite 36 Cent.
+
+## Nach Tizian.
+
+- 2797 Susanna im Bade. Lebensgrosse Kniefigur vom Ricken gesehen, den Kopf nach dem Beschauer wendend,im Bade sitzend. Gut ausgefuihrte Wiederholung des bekannten Bildes. Leinewand. Hohe 102,Breite 85 Cent.
+
+## Unbekannte Meister.
+
+- 2798 Schlacht bei Thorn. Kampf der deutschen Ordensritter gegen die heidnischen Preussen. Historisch interessante,figurenreiche Composition mit mehrfachen gereimten Inschriftsschildern und Jahreszahl 1713. Leinwand. Hohe 172,
+- mit Kette und Schloss. Hohe 132,Breite 57 Cent.
+- 2800 Votivbild mit der Auferstehung Christi. Ueber einer Inschrift mit Jahres-
+- 2801 Fluslandschaft mit Badenden. Leinwand. Hohe 73,Breite 103 Cent.
+- zahl 1570 das Donatorenpaar (Gall Bischchoff, Hausvogt des Grafen zu Oettingen) mit ihren Kindern und Wappen. Holz. Hohe 131, Breite 83 Cent.
+- 2802 Portrait eines ilteren Mannes in grinem Gewande mit rothen Aermeln und mit Spitzenkragen. Leinwand. Hohe 65,Breite 54 Cent.
+- 28031
+- 2804 Portrait. Huftfigur einer Nonne ord. s. Dominici. Interessantes Costum-
+- Portrait einer Dame. Gegenstuck zum Vorigen in gleicher Auffassung. Leinwand. Gleiche Grosse.
+- bild. Leinwand. Hohe 64,Breite 53 Cent.
+- 2806 Kaiser auf dem Thron sitzend, an dessen Stufen mehrere Ritter knieen. Composition von funf Figuren. Leinwand. Hohe 61,Breite 55 Cent.
+- 2805 Der segnende Heiland, in der Linken die Weltkugel haltend. Brustbild en face. Hintergrund und Heiligenschein Init Blattornamenten etc. Polychromirt und vergoldet. Holz. Hohe 63, Breite 55 Cent.
+- 2807 Familienbild. Die zahlreichen Mitglieder der weit verzweigten Familie knieen
+- 2808 ,Wappen und Tittel unseres Lieben Herren Jesu Christi. Viereckiges
+- vor einem Altar. Auf diesem und einem grossen Sockel die Familienwappen mit den Namensaufschriften.Leinwand. Hohe 59,Breite 72 Cent.
+- Bild mit reich componirtem Wappen und unterer achtzeiliger Aufschrift. Leinwand.Hohe 59,Breite 46 Cent.
+- schrift und Jahreszahl 1584. Holz. Hohe 44,Breite 32 Cent.
+- 2809 Portrait. Brustbild der Salome Zachariae in schwarzem Gewande mit umhangenden Halsketten und breitem Spitzenkragen. Oben rechts Namensauf
+- 2810 Altarfugel. Derselbe zeigt auf der einen Seite den hl.Franciscus, auf der anderen den hl. Laurentius in ganzen Figuren. Holz.Hohe 42,Breite 24 Cent.
+- 2812 Proflbrustbild Friedrichs des Grossen in Medaillon.Leinwand. Hohe 39, Breite 31 Cent.
+- 2811 Drei Tafeln mit in je vier Feldern aufgemalten Kinderspielen,Ereignissen aus dem Leben etc. Holz. Hohe 41,Breite 56 Cent.
+- 2813 Die hl. Familie. In einer Stube sitzt dieselbe beim Tischgebet. Leinwand. Hohe 38,Breite 58 Cent.
+- 2815 Auf dem Reichstag. Kaiser auf Thron, von den sieben Kurfursten umgeben,empfangt einen bayerischen Ritter. Skizze. Hohe 36,Breite 36 Cent.
+- 2814 Brustbild eines Papstes in Medaillon. Leinwand. Hohe 38, Breite 31 Cent.
+- 2816 Bildniss einer alteren Dame en face, mit Spitzenmitze. Kupfer. Hohe
+- 2817 Ordensritter und weibliche Heilige. Huftfiguren auf vergoldetem Hintergrunde. Holz. Hohe 34, Breite 41 Cent.
+- 35,Breite 25 Cent.
+- 2818 Brustbild eines Madchens. Ausschnitt aus einem grosseren Bilde. Leinwand. Hohe 33,Breite 26 Cent.
+- 2820 Blumenstick mit Blumenvase auf Steinsockel. Holz. Hohe 28,Breite
+- 2819 Die drei Grazien in Wolken. Leinwand, Hohe 33, Breite 26 Cent.
+- 20 Cent.Oval.
+- Schoosse, am Fusse des Kreuzes. Neben ihr Johannes und Maria Magdalena. Holz. Hohe 27,Breite 22 Cent.
+- 2821 Christi Kreuzabnahme.1 Maria sitzt, den Leichnam ihres Sohnes auf dem
+- 2822 Ritter und Tod aus einem Todtentanz. Gut gemalt. Holz. Hohe 23,Breite 42 Cent.
+- 2823 Gebirgslandschaft. Holz. Hohe und Breite 2O Cent.
+- 2825 Bildniss einer jungen Dame in rothem Atlaskleide, einen Blumenkorb in den Handen tragend. Pappe. Hohe 15,Breite 13 Cent.
+- 2824 Waldlandschaft, Altar im Vordergrunde. Leinwand. Hohe 18,Breite 14 Cent.
+- 2826 Edelmann in schwarzem Gewande auf der Todtenbahre. Rechts: Mortuus
+- 14.Novemb.Ao.1648. Kupfer.Hohe 12Breite 17CentiaV0
+
+## Nach Cornelius de Vos.
+
+mg
+
+- Hohe 14,Breite 30 Cent. #810109
+
+## Schule des Meisters Wilhelm von Koln.
+
+- 2828 Madonna mit dem Kinde. Maria in blauem Mantel, auf den das lange
+- Haar hinabfillt, das Jesukind haltend,in Wolken schwebend. Gutes Bildchen. Der Hintergrund vergoldet. Holz. Hohe 26,Breite 17 Cent.
+
+## Michael Wohlgemuth (Schule).
+
+- 2829 Flugelaltar mit halbbogenformigem Aufsatz.Das Mittelbild zeigt den hl. Nicolaus in vollem Bischofsgewande zwischen den Heiligen Andreas und Thomas stehend.Auf den Innenfigeln die Standfiguren der Apostelfursten unter geschnitzten Baldachinen, die polychromirt und vergoldet.Unter den Figuren die Namensaufschriften.Auf den Aussenfugeln eine Darstellung des engl. Grusses,unter reichen Schriftbanderolen. Die Schlagleisten sind mit aufsteigendem Blumenornament bemalt.Der Haibbogen,der das Bild iberragt, zeigt auf der Vorderseite die Halbfigur der Madonna mit dem Kinde. Auf der Ruckseite zwei Wappenschilder. Die Ruckseite der Mittelbilder ist bemalt mit einer Darstellung aus dem Leben des hl. Nicolaus, oben rechts ein Wappen mit Hund. Sehr interessantes Bild.Die Heiligenscheine und einzelne Gewandpartieen vergoldet. Hohe 153, Breite aufgeschlagen 230 Cent.
+- 2830 Darstellung aus dem Leben eines Heiligen. Figurenreiche Composition. In der Mitte kniet der Heilige in voller Ruistung, dem Gott Vater in den Wolken erscheint. Der Hintergrund landschaftlich. Im Vorgrunde rechts eine gothische Architektur. Holz. Hohe 110, Breite 79 Cent.
+
+## Barth. Zeytblom.
+
+- 2831 Martyrium des hl. Vitus. Rechts sitzt ein jugendlicher Heiliger in einem Kessel siedenden Oels, dessen Feuer von zwei Schergen angefacht wird. Zwei andere Schergen schlagen auf einen zweiten Martyrer mit einer Keule. Links steht der Konig mit seinem Gefolge. Sehr interessantes grosses Chorbild. Hintergrund,Heiligenscheine und Kessel vergoldet.Holz.Hohe 120,Breite 110Cent.
+- Architekturen auf einer Bank,links von musicirenden Frauen in interessanten Costimen, rechts von psalmirenden Engeln mit weissen Alben umgeben. Interessantes Bild. Gegenstuck zum Vorigen. Holz. Gleiche Grosse.
+- 2832 Scenen aus dem Leben d desselben Heiligen.Derselbe sitzt vor reichen
+
+## Unbekannt.
+
+- 2833 Grabschild des Jacob Myller.Aufgemalt reiches Wappen mit rundem Inschriftsband mit Jahreszahl 1543.Diam. 89 Cent.
+- 2834 Wappen der Familie von Schrattenbach. Rautenformige Tafel mit dem in Farben und Gold gemalten Wappen.Leinwand. Hohe 60,Breite 40 Cent.
+- 2835 Wappenschild. Rautenformige Tafel, in Farben und Gold aufgemalt,
+- Leinwand.Hohe 60,Breite 40 Cent.
+- 2836 2 viereckige Tafeln mit mit Goldanwendung aufgemalten reichen Wappen. Unten Schriftbander,oben Jahreszahl 1699.Pappe.Hohe 44,Breite
+- Wappen mit Pfau.
+- 36 Cent.
+- 2837 Viereckige Tafel, auf der Vorderseite aufgemalt das Wappen des Hanns Sprenger 1649,auf der Ruckseite das des Christ. Pruner. Holz. Hohe 41,Breite 28 Cent.
+- 2838 Viereckige Tafel mit einem in Lackfarben und Gold vorzuiglich gemalten
+- reichen Wappen iber Pluschdecke. Holz.Hohe 35, Breite 44 Cent.
+- 2839 Wappen des Johannes Zeller. Auf Holzplatte in Oel gemalt mit unterem
+- Schriftbande und Jahreszahl 1620.Lange 15,Breite 12 Cent.
+- 2840 Die Geburt Christi. Grosser, in Farben und Gold ibermalter Holzschnitt. Hohe 18,Breite 12 Cent.
+- 2841 Ecce Homo. Kleine Oelstudie. Holz. Hohe 11, Breite 9 Cent.
+- 2842 Portrait und 4 Wappen, theils in reicher Rococoumrahmung, vorzuglich
+- 2843 Paar in Landschaft sitzend. Ovales Gouachebildchen, einzelne Partieen in
+- Seidenplattstickerei. Hohe 28,Breite 32 Cent. In Rahmen unter Glas.
+- 2844 Pergament-Miniatur init reichem doppeltbehelmten Wappen. Breite 101/2.
+- Lange 16,
+- 2845 Brustbild des hl. Ignatius von Loyola. Oelbildchen auf Holz. Hohe 14,
+- Breite 10 Cent.
+- 2847 Huftbild eines Mannes in schwarzem Gewande, im Profle nach links. Miniatur auf Pappe. Lange 8, Breite 61/2 Cent.
+- 2846 Predigt des hl. Johannes. Gouachebildchen in figurenreicher Composition. Pergament. Hohe 131/2,Breite 18 Cent.
+- 2848 Brustbild eines Edelmannes mit Allongeperricke. Oelminiatur auf Kupfer. Hohe 7,Breite 6 Cent.In geschnitztem und vergoldetem Holzrahmchen.
+- 2849 Brustbild einer Dame mit rothem Kleide und weissem Schleier. Miniatur auf Elfenbein. Hohe 7,Breite 6 Cent. Geschnitztes Rahmchen.
+- 2850 Brustbild des H. J. Czernin, Graf von Chudem. Miniatur auf Pergament. Lange 61/2,Breite 51/2 Cent.Beschadigt.
+- Lange 61/2, Breite 41/2 Cent.
+- 2851 Junge Dame einen Brief lesend.  Vor ihr eine Taube. Gut ausgefuhrte helle Miniatur auf Elfenbein. In Spiegelmetallrahmchen.
+- 2852 Madchen im Bette liegend.Lackbildchen. Hohe 6,Breite 9 Cent.
+- 2853 Junges Madchen, die Mandoline spielend. Miniatur auf Elfenbein. 6,Breite 41/2 Cent.In Holzrahmchen.
+- Hohe
+- 2854 Landschaftsbildchen, theils in Farben, theils mit Pflanzenfasern hergestellt. Diam.6 Cent.
+- 2856 Kinderbrustbild.Miniatur auf Elfenbein.Hohe 4,Breite 3 Cent. In
+- 2855 Brustbild einer Dame in blondem Haar Oelminiatur auf Kupfer in KupferMedaillon mit vorderem Emailrand. Lange 4,Breite 31/2 Cent.
+- Holzrahmchen.
+- 2857 Brustbild eines altern Staatsmannes mit grauem Haare; gut gemalt auf Elfenbein. Als Brosche in Silber huibsch gefasst. Hohe 31/2, Breite 3 Cent.

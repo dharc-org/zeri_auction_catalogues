@@ -1,0 +1,1290 @@
+## Gemalde des 15. bis 18. Jahrh.
+
+hauptsachlich der niederlandischen Malerschule.
+
+## Antwerpener Schule, 16.Jahrh.
+
+italienisch beeinfluBt.
+
+- 1 Der biBende St.Hieronymus. Der weiBbartige Heilige mit entbloBtem Oberkorper kniet betend am Eingang einer Felsenhohle vor Bichern, Totenkopf und Kruzifix. Oel auf Eichenholz. H. 66. B. 54.
+- Profilrahmen.
+
+## Jacques d'Arthois
+
+geb.1613in Brissel,gest.1686.
+
+- 2Landschaft. Die linke Bildhalfte beherrscht eine dichte Baumgruppe mit aufragenden Stammen und Aesten. Mehr gegen den Bildrand blickt man auf einen FluB und dariber hinweg auf Berge,die sich in eine blaue Ferne verlieren. Rechts fihrt ein Hohlweg durch einen Forst.Oel auf Leinwand: H.63.
+- B.96.Mit Gutachten von Dr.Karl Parker,Zirich.
+- 3 Bewaldete Landschaft mit Staffage. Dichter Laubwald auf gebirgigem Gelande links. Auf einem Wege, der durch die Mitte fihrt,zwei Gruppen sitzender und streitender Landleute.Nach rechts hiniber weite Sicht. Links unten bezeichnet: Jacques d'Arto....Oel auf Leinwand. H. 59. B. 77. Brauner Rahmen.
+
+Abb.Taf.10.
+
+- 4 Bewaldete Landschaft. Links hochstammiger Laubwald auf higeligem Gelande. Nach rechts Blick
+- in offene Landschaft;im Mittelgrund Weiher und einzelne Hauser zwischen Baumen.Die vorderen Partieen im Goldton.Oel auf Leinwand.H. 62.B.83.Alter Goldrahmen.
+
+## Art des Jan Asselyn
+
+Hollandisch 17. Jahrh.
+
+- 5 Reich abgestufte goldtonige Felsenlandschaft mit zahlreichen Herdentieren im Vordergrunde,die in seichtem Wasser waten.Hirten und Hirtinnen links am Ufer.Oel auf Leinwand. H. 49. B. 40.
+- Schwarzer Rahmen.
+
+## Pieter van Avont
+
+geb.1599 in Mecheln, gest. 1644 in Antwerpen.
+
+- Vier kleine nackte Engel fihren ein Schaflamm auf die Gruppe der hl. Familie zu, die mit den Kindern Jesus und Johannes links unter Baumen sitzt. Andere Engel bringen feingemalte Blumen. Oel auf
+- Abb.Taf.9. Leinwand.H.48.B.62.Goldrahmen.
+
+## Manier Ludolph Bakhuizen
+
+Hollandisch 17. Jahrh.
+
+- 7 Kleines Seestick. Im ruhigen Wasser eines Hafens zwei groBe Segelbarken und mehrere Ruderboote.
+- Oel auf Leinwand. H.39. B.55.Gerahmt.
+- 8 Schifie in Seenot. GroBes Seestick. Auf heftig bewegter See vorn links zwei Segelbarken, deren starke Bemannung sich abmiht,die Segel vor dem herannahenden Sturm zu bergen.Rechts hinten
+- groBer Dreimaster. Schwarzes Sturmgewolk.Oel auf Eichenholz. H.59. B.91.
+- 9 GroBes Seestick. Eine groBe Segelbarke mit reichem Schnitzwerk manovriert auf brandender See an steiler Felsenkiste links. Rechts bemanntes Ruderboot. Im Hintergrund Hafenbauten. Oel auf Lein-
+- wand. H.82.B.117. Goldleiste.
+## Jacob Adriaensz Bakker
+
+geb.1608 in Harlingen,gest.1651 in Amsterdam.
+
+## Hendrik van Balen
+
+- 10 Bildnis eines Ratsherrn. LebensgroBes Huftbild eines alten Herrn mit weiBem Spitzbart und dichtein kurzgeschnittenen Haupthaar..Er tragt ein schwarzes Gewand mit schmaler weiBer Halskrause. Die linke Hand ist zur Brust gehoben, die lassig gesenkte Rechte halt eine Schreibfeder.Unten links undeutliche Bezeichnung. Oel auf Leinwand. H. 120. B.95. Schwarzer Rahmen.Ein Werk von hoher kinstlerischer Qualitat.Das bedeutende charaktervolle Gesicht mit den ausdrucksvollen Augen hebt sich in plastischem Inkarnat aus dunklem Grunde.Ungemein geniale,durchgeistigte Charakteristik. gerechnet werden.
+
+Antwerpen 1575-1632.
+
+Abb.Taf.2.
+
+- 11 Diana von Faunen iberrascht. Die Gottin und vier Nymphen halb entkleidet, schlafend vor links sich hinziehendem Gebisch,aus dessen Schatten mehrere Faune herausspahen. Oel auf Kupfer. H. 29. B.39.Alter Profilrahmen mit Vergoldung.
+
+## Art des Jacopo da Ponte Bassano
+
+- 12 Anbetung der Hirten. Unter offenem Schuppendach links das heilige Paar mit dem Kinde,vor dem drei Hirten in stiller Betrachtung.Oel auf Leinwand.H.42.B.91.Goldleiste.
+
+Venedig 16. Jahrh.
+
+## Bassano-Schule
+
+- 13 Heimkehr des verlorenen Sohnes.Oel auf Leinwand. H. 48. B.105. Guillochierter Rahmen.
+
+Italienisch 16. Jahrh.
+
+## Art des Cornelis Bega
+
+Haarlem 17. Jahrh.
+
+- sitzende Frau, die eine Handwunde verbindet.Oel auf Leinwand. H. 35. B. 30. Alter Goldrahmen.
+
+Venedig 1426-1516.
+
+## Giovanni Bellini. Zugeschrieben
+
+- 15 Madonna mit dem Jesuskinde. LebensgroBe Halbfigur in braunem Kleide und grinem Ueberwurf vor gelbschwarz gemustertem Vorhang sitzend, das nackte Kind stehend vor sich auf dem SchoBe haltend. Oel auf Holz,parkettiert.H.84. B.60.
+
+## Nicolas Berchem. Zugeschrieben
+
+- 16 Landschaft mit einer Herde von Kihen,Ziegen,Schafen im Vordergrunde,bewacht von einem Hirtenpaar.Oel auf Leinwand. H. 60. B. 72.
+
+Hollandisch 17. Jahrh.
+
+## Art des Herri de Bles
+
+- 17 Hafenbild in grinem Ton mit zahlreichen kleinen Schiffen und bizarren Felsbildungen, staffiert mit
+
+Vlamisch 16. Jahrh.
+
+- sehr kleinen Figuren. Oel auf Holz.H.27.B.37.
+
+## Pieter van Bloemen. Zugeschrieben
+
+- 18 Kleine Herde im Vordergrunde einer italienischen Gebirgslandschaft. Eine stehende,rot und weiB ge-
+
+Antwerpen 1657-1720.
+
+- fleckte Kuh wird von einer blau und gelb gekleideten Hirtin gemolken,die mit einer stehenden Magd in roter Jacke und mit Korb auf dem Kopfe spricht. Daneben schwarzgrauer Stier,mehrere Ziegen und Schafe.Oel auf Leinwand. H.102. B.70. Goldleiste.
+
+## Paulus Bor
+
+- 19 Zwei gefangene Juden. Zwei Manner mit entbloBtem Oberkorper, der vordere ein Greis mit weiBem Vollbartund Haupthaar und gefesselten Handen,blicken flehend nach links oben. Oel auf Eichenholz.
+
+Utrecht Mitte 17. Jahrh.
+
+- H.65.B.51. Schoner alter Goldrahmen,
+## Jan Both
+
+Utrecht 1610-1652.
+
+- 20 GroBe Gebirgslandschaft mit Staffage. Reich abgestuftes Landschaftsbild mit hoher Bergkette rechts.
+- Vorn flieBt von rechts her ein Sturzbach unter einer Gruppe hoher Baume.Ein Mann mit Pferd und zwei kleine Figuren als Staffage.Oel auf Leinwand.H.122. B.157.Goldrahmen.
+
+## Pieter Bout
+
+Brissel 1658-1702.
+
+- 21 Figurenreicher Markt. Links vor hohem schloBartigen Gebaude ein lebhaftes Treiben und Feilschen einer farbig gekleideten Menge.Vieh, Obst, Gemise,Fische werden feilgeboten und gekauft. Einzelne Figuren in orientalischer Tracht. Rechts FluB mit Bogenbricke. Oel auf Leinwand. H. 33. B. 42.
+- Alter BarGck-Goldrahmen. Abb.Taf.5.
+
+## Richard Brakenburgh
+
+Haarlem 1650-1702.
+
+- 22 GroBes Konversationsstick. Um einen Tisch herum Gesellschaft von Mannern, Frauen, Kindern bei verschiedener Unterhaltung. Vorn Mutter mit Kind, das einen Papagei neckt. Hinter dem Tische beleibter Mann im Gesprach mit einer jungen Frau. Rechts davon ein junges Paar,ein rauchender Mann mit Turban etc. Oel auf Leinwand. H.100. B. 123.
+
+## Quirin Brekelenkam
+
+Leiden 16201668.
+
+- 23 BiBender St. Hieronymus. Rechts in einer Felsenhohle gemauerter Altar mit Kruzifix, Leuchtern etc.
+- Davor kniet betend der Heilige in Monchskutte,in ein am Boden aufgeschlagen liegendes Buch blickend. Links am Ausgang der Hohle sitzt ein lesender Mann. Oel auf Leinwand. H. 51. B.60. Goldrahmen.
+
+Abb.Taf.6.
+
+## Quirin Brekelenkam. Zugeschrieben
+
+Leiden 1620-1668.
+
+- 24 Alte Frau in einem Strandkorb sitzend. Sie tragt graue Jacke,weiBe Schirze,weiBen Halskragen und hohen schwarzen Hut. Mit der Rechten halt sie ein Milchnapfchen,aus dem sie loffelt. Oel auf Leinwand.H.75. B.63.Guillochierter Rahmen.
+
+## Nachfolger des Jan Brueghel
+
+Vlamisch,Anfang 17. Jahrh.
+
+- 25 Baumreiche Landschait mit Hausern.Vorn links unter hohen Baumen ein vlamisches Bauerngehoft aus leuchtend roten Ziegeln.Rechts hiniber zieht sich eine anmutige abwechslungsreiche Landschaft mit einzeln stehenden Hausern unter Baumen.Vordergrund goldtonig. Oel auf Eichenholz.H.33,5.B.54.
+
+Abb.Taf.10.
+
+- 26 Landschaft mit Dori.Im Vordergrunde Flucht nach Aegypten. Abgestufte nach hinten higelig ansteigende Landschaft mit Baumen und Bischen durchsetzt. Ein Dorf zieht sich links am Higel herunter,vorn eine Reihe offener Stalle,unter denen in kleinen Figuren die einzelnen Episoden der Weihnachtsgeschichte dargestellt sind. Auf einem Wege vorn reitet Maria mit dem Kind auf einem Esel voriber,den St.Joseph fihrt.Oel auf Holz.H.58.B.83.
+- 27 Landschaft mit Staffage. Vorn Goldton, hinten griner Ton. Vorn zwischen Baumgruppen das Gleichnis vom Saemann:Schlafende Bauern bei abgeschirrten Pferden;der Teufel streut Samen auf das
+- Feld.Oel auf Eichenholz. H.50. B. 65. Profilrahmen.
+
+## Karel Breydel
+
+geb.1678 in Antwerpen, gest.1733 in Gent.
+
+## Manier Adriaen Brouwer
+
+- 29 Zwei zechende Bauern. Oel auf Leinwand. H. 27.B.21.
+## F.B.(?) ter Bruggen
+
+bisher unbekannter hollandischer Meister um 1600.
+
+- 30 Seestrand mit Schifibrichigen (anscheinend eine Episode aus der Apostelgeschichte). Distere bizarre
+
+Da Wurzbach und Thieme-Becker den Maler nicht verzeichnen, scheint es sich hier um das Werk eines bis jetzt unbekannten Kinstlers zu handeln.
+
+- Felsen mit Schluchteingang rechts. Links stirmische in dunklen Tinten gemalte See.Am Strand ein havariertes Segelschif.Vor dem Schluchteingang eine vielfigurige Gruppe von Bewaffneten und ein Apostel um ein angefachtes Feuer sich drangend. Schiffbrichige auf einzelnen Strandklippen. Rechts bezeichnet: F. B. ter Bruggen.(Die Buchstaben des Vornamens undeutlich, der Zuname ter bruggen deutlich lesbar. Oel auf Leinwand, die auf Holz gezogen.H. 61.B. 86.Goldrahmen.
+
+## Brigger Schule des 16. Jahrh.
+
+- reich gekleidet und geschmickt, sitzen einander gegeniber. Auf dem SchoBe der Madonna das Jesuskind, in einem Livre d'heures blatternd, das ihm von St. Katharina hingehalten wird. Links im Hinter-
+- grunde Burg. Oel auf Eichenholz.H. 71. B. 57. Schoner, alter, geschnitzter Goldrahmen.
+
+## Nachfolger des Lucas Cranach d.A.
+
+- Stoff. Neben ihr in Halbfigur ein fuirstlicher Knabe in Purpur und Hermelin.Oel auf Holz. H. 60. B.45. Profilrahmen.
+- 31a Doppelbildnis. Stehende Dame in reichem golddurchwirkten Brokatkleid mit breitem Hut aus gleichem
+
+## Art des Jaspar de Crayer
+
+- 32 Betender Mann. Halbfigur mit starkem blonden Vollbart und in rotem Mantel, ein aufgeschlagenes
+
+Vlamisch 17. Jahrh.
+
+- Buch haltend.Oel auf Leinwand.H.64. B.48.Goldrahmen.
+
+## Dirk Dalens I.
+
+geb.1600 in Dordrecht,gest.1676 in Zierikzee.
+
+- links blickt man auf den grintonigen Hintergrund mit FluB. Rechts unten (in der Nahe des Bauernpaares) bezeichnet: D. Dalens 1641 (die Jahreszahl ist undeutlich).Oel auf Eichenholz.H. 39. B.59. Schwarzer Rahmen. Abb.Taf.8.
+
+## Deutscher Meister des 15. Jahrh.
+
+in Norditalien arbeitend.
+
+- umschwebten Kreuzes, ausgestreckt von links nach rechts auf griner Seidendecke. Den Kopf des Heilandes stitzt links der knieende,in reiche Goldbrokatgewander gehillte Joseph von Arimathia,rechts bei den FuBen kniet Maria Salome mit der Salbenbichse. Hinter der Leiche Johannes, Maria, zwei Frauen und Nikodemus; alle mit dem Ausdruck klagenden Schmerzes. Den Hintergrund nehmen reiche Renaissancearchitekturen ein. Oel auf Pappelholz. An beiden Hochseiten des Bildes aufgelegte geschnitzte gotische Phialen.H.124.B.155.
+
+## Deutsch, 16. Jahrh.
+
+- 35 Grablegung. Nikodemus, Joseph von Arimathia und ein dritter Mann tragen die Leiche Christi zu einem Felsengrabe rechts. Maria, Johannes, Maria Magdalena folgen von links. Oel auf Eichenholz. H.113.B.84.
+- 36 Betende Madonna nach links gewendet,mit gefalteten Handen. Halbfigur in rotem Kleid und braunem
+- 37 Das heilige Abendmahl. Oel auf Leinwand. H.66.B. 90.
+- Kopfschleier,mit Scheiben-Nimbus. Oel auf Eichenholz.H. 56. B.40.
+- 38 Der Johanneskopf auf einer Schissel. Mauerhintergrund. Oel auf Holz.H. 43. B.34. Profilrahmen.
+- Gewolbe ein weinzapfender Knecht.Oel auf Holz.H. 23. B. 32. Profilrahmen,
+- 39 Alter Edelmann,rot und gelb gekleidet, schreitet links an einer Treppe voriber.Rechts in einem
+## Deutsch, 16.Jahrh.
+
+- 40 Eine Gesellschafit von Bittstellern erscheint vor einem links thronenden Konig mit Turbankrone.Oel
+- auf Eichenholz,parkettiert.H.90.B.120.
+- 41 FuBwaschung. In palastartigem Renaissanceraum Christus knieend im Kreis seiner Juinger, dem hl.
+- Petrus die FiBe waschend.Oel auf Eichenholz,parkettiert.H.58. B.75.
+
+## Deutsch um 1600
+
+- Freunde,rechts sein Weib. Oel auf Eichenholz. H.42. B.54. Schwarzer Rahmen.
+- 43 Kruzifixus vor griner Landschaft mit Tempel links. Oel auf Eichenholz. H. 45. B. 43. Profilrahmen.
+
+## Deutsch um 1677
+
+- 44 LebensgroBes Hiftbild eines Ratsherrn in schwarzem Talar und spitzenbesetzten Baffchen.Rechts oben Adelswappen mit 3 Sternen im Felde. Darunter:Aetatis 44,1677.Oel auf Leinwand. H.125. B.91
+- Profilrahmen.
+- 45 Bildnis der Gattin des Vorigen. LebensgroBes Hiftbild in reicher Zeittracht,mit Spitzen besetzt. Links
+- oben das gleiche Wappen, darunter Aetatis 28,1677. Gleiche GroBe. Profirahmen.
+
+## Deutsch, 17.Jahrh.
+
+- 46 Bildnis einer jungen Firstin.LebensgroBes Brustbild in goldbordiertem grauen Seidenkleid mit reichem Schmuck. Auf einem Tischchen neben ihr eine Krone. Oel auf Leinwand. H. 83. B. 68. Profilrahmen.
+- 47 BiBender St. Hieronymus. LebensgroBe Halbfigur eines weiBbartigen Alten, der sich mit einem Stein
+- den nackten Oberkorper schlagt.Oel auf Leinwand.H.90.B.73.Goldrahmen.
+- 48 Brustbild einer jungen Dame mit gelocktem blonden Haar in spitzenbesetztem Brokatkleid. Oel auf
+- Leinwand.H.72. B. 60.Schwarzer Rahmen.
+- 49 Damenbildnis. Junge Dane in blauem Kleid und rotem Ueberwurf. Brustbild vor Landschaft.Oel auf Leinwand.H.85.B.67.Profilierter Goldrahmen.
+- 50 Der junge Daniel als Richter iber die keusche Susanna, die er durch sein Urteil rettet. Dramatisch
+- belebteDarstellung.Oel auf Leinwand.H.64.B.76.Profilrahmen.
+- 51 Geldzahler. Altes Ehepaar hinter einem Tische sitzend,mit Zahlen und Wagen von Geldsticken be-
+- schaftigt.Oel auf Leinwand.H.74.B.58.
+- 52 Serie von sieben groBen Gemalden, darstellend vielfigurige Kampf- und Volksszenen nach Erzahlungen des alten Testaments.Oel auf Leinwand.H.100. B. 165.Jedes in geschnitztem vergoldetem Holz-
+- rahmen.
+
+## Deutsch um 1700
+
+- 53 Junge Dame in blumengeschmicktem weiBen Kleid und rotem Ueberwurf. Oval.Oel auf Leinwand.
+- H.72.B.60.Alter ovaler Goldrahmen.
+- 54 GroBes Stilleben mit Silberhumpen,astronomischer Uhr,Leuchtr,Zitrone,TotenkopfZunftbrief,Buch
+- in breiter Anordnung.Oel auf Leinwand.H.70.B.110.
+- 55 Bildnis eines Herrn mit groBer Allongepericke, in Harnisch und rotem Mantel. Oel auf Leinwand. H.82.B.66.
+
+## Deutsch, Anfang 17.Jahrh.
+
+- 56 Bauernmadchen,Vieh fitternd, im Gesprach mit der Gottin Ceres.Oel auf Eichenholz.H.51. B.39.
+- Profilrahmen.
+
+## Deutsch, 1. Halfte 18. Jahrh.
+
+- 57 Huftbild einer jungen Dame mit gepuderter Frisur und reichem Schmuck. Sie tragt ein orangefarbenes H.88.B.70.Barock-Goldrahmen.
+- 58 Bildnis eines Herrn mit groBer weiBer Allongepericke,in Harnisch,rotem Rock, blauer Scharpe
+- und Ordensstern.Oel auf Leinwand.H.80 B.62.Goldleiste.
+## Deutsch,18. Jahrh.
+
+- 59 Joseph gibt sich seinen Bridern zu erkennen. Dramatisch bewegte Darstellung. Oel auf Leinwand. H.62.B.75.Profilrahmen.
+- 60 Viehherde in Landschaft. Vorn rechts bei einem Flusse grasende Kihe, Ziegen, Schafe. Daneben
+- 61Viehherde und Hirten im Vordergrunde einer baumreichen Landschaft. Deutsche Kopie eines nieder landischen Bildes des 17.Jahrh.Oel auf Leinwand.H.77.B.110.Goldrahmen.
+- schlafende Hirtenfamilie vor niedriger Hitte.Oel auf Leinwand. H.55. B. 78.Alte Goldleiste.
+- 62 Vierspanniger Reisewagen halt vorn links.Dabei ein abgestiegener Reiter,ein galoppierender Kurier
+- 63 Bauernbelustigung vor einer Hausergruppe. Vielfigurige Darstellung. Oel auf Leinwand. H. 38. B. 64.
+- und andere Personen.Oel auf Leinwand,die auf Holz gezogen. H.48. B.68.
+- 64 Antike Szene.Ein neben Esel knieendes Madchen reicht einem griechisch gekleideten Bewaffneten
+- 65 Hirtenfamilie mit Herde im Vordergrunde einer baumreichen FluBlandschaft.Oel auf Leinwand. H.63.B.80.Profilrahmen.
+- zwei Brote. Oel auf Leinwand. H.73. B. 52. Alter geschnitzter Goldrahimen.
+- 66 Blumenstick.Rosen, Mohn, Tulpen und andere Gartenblumen mit Trauben,Feigen,Vogelnest.Oel auf Leinwand.H.47.B.40.
+- 67 Bildnis einer jungen Dame in braunem spitzenbesetzten Kleide. Oel auf Leinwand. H. 67. B.54.
+
+## Deutsch um 1750
+
+- 68 GroBe Landschaft mit Flucht nach Aegypten.Oel auf Leinwand.H. 83. B.120.
+- 69 Bildnis eines geistlichen Kurfirsten in reichstem Ornat mit Spitzen-Ueberwurf. Rechts auf einem
+- 70 Wildschweinjagd mit Jagern in Zopftracht. Oel auf Leinwand. H.102. B. 126. Schwarzer Rahmen.
+- Tischchen der Kurhut.Oel auf Leinwand.H.118. B.90. Goldrahmen.
+- 71 Die Vogelsteller. Gruppe von Herren und Damen in Zopfkostimen mit den verschiedenen Arten des
+- 72 Bildnis eines alten Herrn mit gepuderter Zopffrisur in goldengestickter blauer Weste und schwarzem
+- Vogelfangs beschaftigt.Oel auf Leinwand. H. 98. B. 126. Schwarzer Rahmen.
+- pelzverbramten Rock.Oel auf Leinwand.H. 84.B.70.Gerahmt.
+- 73 Bildnis eines Herrn in weiBer Seidenweste und rotem Rock. Oel auf Leinwand. H. 79. B.62. Goldleiste.
+
+## Deutsch um 1770
+
+- 74 Bildnis eines Herrn in braunem Rock mit gepuderter Zopffrisur. Oel auf Leinwand. H. 84. B. 66. Schoner holzgeschnitzter Louis-XV.-Rahmen in alter Vergoldung mit Rocaillen-
+- Bekronung.
+- 75 Damenbildnis(Elisabeth Corden geb.Ludwig,1718-1772).Brustbild in blauem Seidenkleid mit Spitzen-
+- 76 Bildnis eines jungen Herrn mit gepuderter Frisur, in roter Weste und blauem Rock. Oval. Oel auf
+- armeln. Name der Dargestellten auf der Rickseite. Oel auf Leinwand. H.79. B. 66.
+- Leinwand. H. 68.B.54.Goldrahmen.
+
+## Deutsch, 2. Halfte 18. Jahrh.
+
+- die rechte Hand auf einen ledergebundenen Folianten stitzend.Gepuderte Zopffrisur.Oben rechts Wappen.Oel auf Leinwand.H.115.B.78.Goldrahmen.
+- 77 Herrenbildnis.LebensgroBes Hiftbild eines Herrn in schwarzseidenem Anzug,mit rotem Ordensband,
+
+## Deutsch, Ende 18. Jahrh.
+
+- 79 Bildnis eines geistlichen Firsten mit gepuderter Zopffrisur und brillantgeschmicktem Kreuz.Oel auf Leinwand.H.47.B.37.Profilrahmen.
+- 78 Bildnis des Kuriirsten Karl Theodor von Pfalz-Bayern. Oel auf Leinwand.H. 60. B. 47. Profilrahmen.
+- 80 GroBe Waldlandschait mit Hirschjagd. Oel auf Leinwand. H. 68. B. 115.
+- 81 GroBes Jagdstick. Kavaliere und Damen jagen einen Hirsch. Oel auf Leinwand. H. 102. B. 130.
+## Deutsch, Ende 18. Jahrh.
+
+- 82 Kleines Stilleben mit Buste, Bichern, Muscheln etc. Oel auf Eichenholz. H. 40. B. 32. Profilrahmen.
+- 83 Bildnis eines russischen GroBfirsten in reicher Uniform,mit gepuderter Zopffrisur. Oel auf Leinwand. H.60.B.46.Alter Goldrahmen.
+- 84 Bildnis eines jungen Herrn in grinem Rock, mit gepuderter Zopffrisur. Oel auf Leinwand. H. 75. B. 60.
+- 85 Zwei kleine FluBlandschaiten mit Figurenstaffage.Oel auf Leinwand. H.38. B.45.
+- 86 Bildnis eines Heeriihrers. Im Hintergrunde Truppenformation in kleinen Figuren. Oel auf Leinwand.H.58.B.41.
+
+## Deutsch um 1800
+
+- 87 Zwei Bildnisse. Herr in grinem Frack mit Spitzenkrawatte.-Dame in weiBem spitzenbesetzten Kleid. Oel auf Leinwand.H.54.B. 44.Inzwei gleichen polygonalen Profilrahmen.
+
+## Deutsch,Mitte 19. Jahrh.
+
+- 88 Familienbild der Biedermeierzeit. Ehepaar und Kind. Oel auf Leinwand. H. 122. B. 107. Goldleiste.
+
+## Simon van der Does
+
+geb.1653 in Amsterdam,gest.1717 in Antwerpen.
+
+- 89 Herde in baumreicher Landschaft.Vorn neben links sich hinziehendem buschbewachsenen Higel eine
+- kleine Herde von Kihen, Schafen,Ziegen. Eine blau und rot gekleidete Hirtin steht in der Mitte an eine saufende Kuh gelehnt.Oel auf Leinwand.H.39.B.50.Alte Goldleiste.
+- 90 Herde im Vordergrunde einer Landschait. Unter einem Baume vorn links eine stehende,zwei liegende Kihe, drei Schafe, eine Ziege. Dabei eine rot und blau gekleidete Hirtin. Oel auf Eichenholz. H. 51. B.45.
+
+## Jacob Duck
+
+geb.um 1600 in Utrecht,gest.nach 1660 im Haag.
+
+- 91 Lustige Gesellschait. In der Mitte umarmt ein becherschwingender Kavalier eine Dame im blauen Seidenkleide. Vier andere Personen sitzen und stehen umher. Links hinten drei Manner bein Spiel, um ein FaB gruppiert. Auf einer Treppe iber ihnen eine handeringende Frau.Oel auf Eichenholz.
+- H.44.B.54.Gerahmt.
+
+## Nachfolger Albrecht Dirers
+
+Deutsch,16. Jahrh.
+
+- 92 Darstellung Christi. Um einen Altar,der mit einer Perserdecke belegt ist,gruppieren sich 11 Personen in farbiger Kleidung,darunter das heilige Paar und der rechts stehende Hohepriester in goldenem Ornat,
+- der das nackte Kind auf den Armen halt.Oel auf Eichenholz,parkettiert.H.97.B.97.
+
+## Engelbert Ergo
+
+Maler in Antwerpen,Mitte 17.Jahrh.
+
+- 93 Der Untergang Trojas. Rechts eine groBe im Goldton gemalte SchloBruine, von hinten her durch eine Feuersbrunst beleuchtet.Links hinten sieht man die Stadt mit gotischen und romanischen Kirchen. links vorn Segelschiffe im Hafen,dahinter das,holzerne Pferd.Vorn bei der Ruine tragt der geharnischte Aeneas seinen Vater Anchises voriber,gefolgt von Mannern und Frauen. Rechts unten volle Bezeichnung: enghelBert. Ergo fecit.Oel auf Eichenholz. H.44. B.71.Schoner alter Goldrahmen.
+
+Der Maler ist bei Wurzbach und Miller-Singer unbekannt.Thieme-Becker erwahnen ihn als Maler zu Antwerpen im 17. Jahrh.,ohne anscheinend ein Bild von ihm zu kennen. Abb.Taf.6.
+
+- 94 Der Untergang von Sodoma und Gomorrha. Links vor einer griechischen Ruine geht Loth, von einem Engel gefihrt, gefolgt von seinen Tochtern voriber. Rechts vorn und links hinten die brennenden Stadte. Der Vordergrund im Goldton, der Hintergrund grin. Unbezeichnet, doch unverkennbar die gleiche Hand wie das vorige signierte Bild. Oel auf Eichenholz. H. 43. B.72.
+## Englisch um 1700
+
+- 95 Bildnis Lord Kenedy.LebensgroBes Brustbild mit gepuderter Allongepericke,in braunem Frack und Spitzenjabot.Oel auf Leinwand.H.73. B. 62. Schwarzer Profilrahmen.
+
+## Englisch,2.Halfte 18.Jahrh.
+
+- 96 LebensgroBes Brustbild eines jungen Mannes, der in der Linken eine Schriftrolle halt. Um die Stirn
+
+## Florentinisch um 1500
+
+Art des Lorenzo di Credi.
+
+- 97 Knieende Madonna, das am Boden liegende Jesuskind anbetend. Neben diesem der kleine Johannes.
+- Die Madonna in rotem Kleid und griinem Mantelvorlandschaftlichem Hintergrunde mit Architekturen. Oel auf Pappelholz,oben gerundet.H.67.B.40.Rundbogiger Profilrahmen.
+
+## Florentinisch, Mitte 16. Jahrh.
+
+- 98 Die heilige Familie. Maria und Joseph, St. Elisabeth mit den Kindern Jesus und Johannes. LebensgroBe
+- Halbfiguren. Oel auf Holz,parkettiert. H.105. B. 93.Goldrahmen.
+
+## Frans Francken Il
+
+Antwerpen 1581-1642.
+
+- 99 Die sieben Werke der Barmherzigkeit. StraBe einer vlamischen Stadt mit den sieben vielfigurigen Gruppen vorn und hinten. Links vorn die Hauptszene:Hungrige speisen. Ein reich gekleidetes Ehepaar verteilt Brote an eine Schar von Armen. Rechts Turm mit Gefangenem,der yon zwei Mannern besucht wird. Die ibrigen Szenen spielen weiter hinten und seitlich auf der StraBe bzw. in offenen Hausern. Links unten auf einer Tischtuchkante bezeichnet: ANO 1613 FRANSOIS FRANCKEN IN. ET FECITANNO.. Oelauf Leinwand.H.84.B.115.Alte Goldleiste. Abb.Taf.3.
+- ein rotgekleideter beturbanter Mann,der einen am Boden liegenden Gefesselten wegzuschaffen befiehlt. Links auf einer Empore die Musikanten. Nach rechts durch offene Tir Sicht auf Landschaft mit Burg. Rechts unten bezeichnet:D..FFranck...(wahrscheinlich:D(en ouden) Frans Franck.-—Frans Francken II nannte sich nach dem Tode seines Vaters ,Der alte Frans Francken".) Oel auf Kupfer. H.51. B. 65.Alter geschnitzter Goldrahmen.
+- 101 Markus Antonius empfangt Kleopatra. Der lorbeergekronte Feldherr sitzt,umgeben von seinen Rittern unter wappengeschmicktem Baldachin rechts und sprichit in lebhaftem Gestus mit der links stehenden rotgekleideten Konigin,deren Sklaven zu FiBen des Antonius neben den am Boden aufgestellten Geschenken knieen.Links hinten brennende Stadt.Oel auf Eichenholz. H.47. B.39. Profilrahmen.
+
+## Familie Francken
+
+Niederlandisch,17. Jahrh.
+
+- figuriger Staffage.Oel auf Kupfer.H. 35.B.27.Goldrahmen.
+- 102Kreuzigung in drei Figuren. Weiter landschaftlicher Hintergrund mit babylonischem Turm und klein-
+
+## Franzosisch,17.Jahrh.
+
+- brandende See..Am Strande links vorn Odysseus und eine Anzahl geretteter Schiffbrichiger.Drei stark havarierte Schiffekampfen rechtsmit der Brandung.Im Hintergrunde thronende Aphrodite auf einer Wolke.Oel auf Leinwand.H.32.B.40.Goldrahmen.
+- 103 Schiffbruch des Odysseus.Felsenkiste mit griechischen Tempelarchitekturen rechts und links, stirmisch
+- 104 Heroische Landschaft mit mannlicher Figur im Vordergrunde. Oel auf Leinwand. H.55. B.60. Alter
+
+## Franzosisch, 18. Jahrh.
+
+- Profil-Goldrahmen.
+- figuriger Staffage.Oel auf Leinwand. H. 61. B. 72.
+- 106 Bewaldete Landschaft mit betendem St. Hieronymus im Vordergrunde. Oel auf Leinwand. H. 75. B. 97.
+- Abb.Taf.6
+- Schwarzer Rahmen.
+
+## Franzosisch,18.Jahrh.
+
+- 107 Griechische Landschait mit Ruinen und zahlreicher kleinfiguriger Staffage. Oel auf Leinwand. H. 42.
+- B.58.Goldrahmen.
+- 108 Bildnis eines Gelehrten in Pelzrock. Die Linke halt ein Buch. Oel auf Leinwand. H. 74. B. 59. Goldrahmen.
+- 109 Junges verliebtes Paar neben einem in der Wiege liegenden Kinde. Oel auf Leinwand. H. 40. B.50. Goldleiste.
+
+## Barent Gael
+
+Haarlem 1620 bis nach 1687.
+
+- Bauern und Reitknechte drangen sich um drei berittene Kavaliere, die einen ImbiB nehmen und ihre Pferde fittern lassen. Auf Schweinetrog rechts bezeichnet: B. Gael. Oel auf Leinwand.H. 60. B.83. Abb.Taf.11.
+
+## Jan Pauwel Gillemans
+
+Antwerpen 1651-1704.
+
+- 111 Stilleben. Korbe und Schalen mit verschiedenartigen Frichten,umhergestreute Frichte, Schale mit Hummer, in zwei Stufen ibereinander vor rotem Vorhang malerisch geordnet. Links an der Tischkante
+- bezeichnet: Gillemans. Oel auf Leinwand. H. 62, B. 68. Profilrahmen.
+
+## Joos Goeimare
+
+Vlamischer Landschaftsmaler,Kortryk.Anfang 17. Jahrh.
+
+- 112 Landschait mit Staffage. Grintonige wildromantische Felsenlandschaft mit Wasserfall. Vorn in der Mitte Hirten und Herdentiere. Fernsicht nach rechts. Links Monogramm J G (verschl.).(Siehe Wurzbach).Oel auf Eichenholz.H.32.B.45.
+
+## Manier Hugo van der Goes
+
+Vlamisch um 1500.
+
+- 113 Kleiner Altariligel. Anbetung. Unter einer Arkade sitzt Maria in rotem Gewand und grinem Mantel, das nackte Kind auf dem SchoB. Vor ihr kniet in rotem Mantel mit Goldbrokatarmeln einer der heiligen Drei Konige, dessen Krone rechts am Boden liegt. Nach hinten Durchblick in Landschaft. Unter der Malerei Feld mit geschnitzter vergoldeter MaBwerkranke. Profilierte Umrahmung.
+- Abb.Taf.12. H.64.B.31,5.
+
+## Jan van Goijen
+
+geb. 1596 in Leiden, gest. 1656 im Haag.
+
+- 114 Landschaft mit rauberischem Ueberiall.Goldtonige Landschaft mit Buschwerk.Im Vordergrunde rauben finf Soldaten mehrere Bauern aus. Den Hintergrund schlieBt dichtes Buschwerk ab,aus dem
+- Abb.Taf.11. eine Kirche ragt.Oel auf Eichenholz.H.44. B.54.Schoner alter Goldrahmen.
+- 115 Hafen mit zahlreicher Stafage. Schoner Goldton. Vorn am flachen Strande drei Boote mit Bemannung.
+- Abb.Taf.7. Rechts bemannter Segelkutter.Oel auf Eichenholz.H.38.B. 57.Goldrahmen.
+
+## Manier Jan van Goijen
+
+- 116 Landschaft mit Dorf und hoherKirche zwischen Buschwerk.Vorn rechts zwei Reiter und rastende
+- Bauern.Im Goldton.Oel auf Eichenholz.H.50.B. 68. Schwarzer Flammleistenrahmen.
+
+## Robert Griffier
+
+geb.1688 in England.
+
+- 117 FluBlandschaft mit reicher Figurenstaffage.Weite Sicht iber ein von bewaldeten Hohen umkranztes FluBtal mit Stadten und Kastellen im Mittelgrunde.Vorn links Reiter und Bauern im Baumschatten. Oel auf Leinwand.H.41.B.48.Goldrahmen.
+
+## Robert Griffier. Zugeschrieben
+
+Holland 18. Jahrh.
+
+- als Staffage.Oel auf Eichenholz.H.33.B.40.Goldrahmen.
+## Adriaen Hanneman
+
+geb. 1601 im Haag, gest. 1671 daselbst.
+
+- 119 Bildnis einer alten Dame. Brustbild in schwarzem Kleid mit breitem weiBen Schulterkragen und schwarzer Haube. Ovales scharfgeschnittenes Gesicht mit groBen ausdrucksvollen Augen. Vor rotlicher Draperie.Links unten bezeichnet:Adr. Hannemann.F.Oel auf Leinwand.H. 80. B.64.
+
+## Jan van den Hecke
+
+geb.1620 in Quaremonde,gest.1684.
+
+- 120 Ansicht einer niederlandischen Stadt mit vielen Hausern und hoher Kathedrale im Mittelgrunde. Die
+- langgestreckte Stadt zieht sich zwischen Higeln hindurch quer iber das ganze Bild. Ueber sie hinweg blickt man aui die See. Den Higel im Vordergrunde beleben zahlreiche kleine farbige Figuren: Jager mit Hurden. Wanderer etc.Links unten bezeichnet: Heck...1648. Oel auf Eichenholz (gotische Rollwerkfillung).H.26.B.59.Profilrahmen. Abb.Taf.7.
+
+## Willem Claasz Heda. Angeblich
+
+- 121 Stilleben. Auf zurickgeraffter dunkelgriner Decke eine umgestirzte silberne Schale, Zinnkanne, halbgefillter Romer, zwei Pfirsiche,zwei Trauben.Oel auf Eichenholz.H.27.B. 43.
+
+## Egbert van Heemskerk
+
+geb.1634 in Haarlem,gest. 1704 inLondon.
+
+- 122Versammlung einer religiosen Sekte. In scheunenartigem Raum einige zwanzig Manner und Frauen sitzend und stehend,andachtig dem ekstatischen Vortrag einer Bauerin lauschend,die links auf einer Bitte steht.Links auf der Bank Monogramm FK.Oel auf Leinwand.H.42.B.51.
+- 123 Singende Bauern. In halbdunkler Kneipe sitzen finf Bauern grohlend um einen Tisch. Links in einem Kamin glimmendes Feuer.Sparliche Beleuchtung durch ein Fenster daneben.Links auf dem unteren Gesims des Kaminhelms in halber Bildhohe undeutl. Bezeichnung H K...und Jahreszahl 60 (1660). Oel auf Eichenholz.H.32.B.38.Profilrahmen.
+- 124 Kartenspielende Bauern.Vier Bauern um einen Tisch gruppiert,kartenspielend bzw.iber das Spiel diskutierend.Auf der Tischzarge bezeichnet:E.FKerck.Oel auf Leinwand.H.29.B.23,5.Altes
+
+## Art des Marten van Heemskerk
+
+Hollandisch 16. Jahrh.
+
+- Triumphwagen thront die weiBgekleidete Pax,umgeben von den allegorischen Figuren: Opulentia, Amor,Veritas,Diligentia,Justitia.—Landschaftshintergrund. Oel auf Leinwand.H. 98. B.115.
+- 125 Triumph des Friedens. Auf hohem,von zwei weiBen Pferden gezogencn,mit Blumen geschmickten
+
+## Art des Jan Hemessen
+
+Hollandisch 16. Jahrh.
+
+- 126 Bordellszene. Spielende, tanzende,karessierende Manner und Weiber. Unter ihnen drei Monche. Oel auf Eichenholz.H.48.B.67.Gerahmt.
+
+## J.C.Hildt
+
+Deutscher Maler,Anfang 18. Jahrh.
+
+- 127 Zwei Stilleben als Gegensticke. Das eine mit Schinken, Brot und halbgefiltem Romer, das andere mit Fleischschissel und gefesseltem Hahn. Beide bezeichnet: J. C. Hildt. Das eine datiert 1707, das andere 1711.Oel auf Leinwand.H.65.B.74.
+
+## Hollandisch, 17.Jahrh.
+
+unter dem EinfluB des Caravaggio.
+
+- 128 Der Lautenspieler. Halbfigur eines Mannes mit entbloBten Schultern und Federbarett, die Laute schlagend. Oel auf Leinwand.H. 90. B. 76.
+
+## Hollandisch um 1680
+
+- 129 Bildnis eines jungen Mannes in grauem geschlitzten Wams und weiBer Halskrause, in der Rechten einen Venezianer Kelch mit WeiBwein haltend.Braunes Haar, blonder Knebelbart. Rechts oben: ANNO 1683 (oder 1685) AETATIS 27.Oel auf Eichenholz.H.45.B. 38. Brauner Rahmen.
+- Rahmchen.
+## Hollandisch,17.Jahrh.
+
+- 130 Bildnis eines protestantischen Geistlichen mit blondem Knebelbart und Hlaupthaar. Schwarzes Gewand,
+- weiBer Halskragen,Kruzifix.Oel auf Leinwand.H.74.B.63.
+- H.75.B.112.
+- 132 Stehender Haushahn und liegender Jagdhund vor landschaftlichem Hintergrund. Oel auf Leinwand. H.92.B.120.
+- 133 Fischhandlerin. Frau mit pelzverbramter Mitze in grauem Kleid mit weiBem Kragen hinter einer Bristung stehend, auf der neben einer Bitte mehrere Fische liegen. Oel auf Eichenholz. H. 39. B.26. Profilrahmen.
+- 134 Sidlandische Landschait mit Palmen.Im Vordergrunde mehrere Figuren bei einem Brunnen.Oel
+- auf Leinwand.H.60.B.44.Profilrahmen.
+- 135 Seestick mit havariertem Schiff vorn.Links Schiffbrichige auf einem Felsen.Oel auf Leinwand.
+- H.41.B.56.Profilrahmen.
+
+## Hollandisch um 1700
+
+- 136 GroBes allegorisches Stilleben.Vor hohem Renaissancepalast vorn ein malerisch angeordnetes Durcheinander von Ristungen, Waffen, Skulpturen, Gemalden, Bichern,Kupfer- und Silbergerat, astronomischen Instrumenten.Daneben sitzt eine farbig gekleidete Frau als Klio,etwas weiter rechts der nackte Amor mit roter Scharpe. Rechts vor Architekturen eine exotische Gesellschaft mit Elefanten.
+- Oel auf Leinwand..H.101.B.127.
+- 137 Trauben, Aepfel, Birnen und andere Frichte auf groBer Delftschissel. Daneben groBer Mischkrug und
+- rotweingefillter Romer.Oel auf Leinwand.H.43.B.55.
+
+## Hollandisch,18. Jahrh.
+
+- 138 Hirt mit Schafen bei einer gemisereinigenden Frau vor einem Hause rechts,in dessen geoffneter Tur
+- zwei Kinder.Oel auf Leinwand.H.59.B.80.
+- 139 Baumreiche Landschaft mit FluB,Architekturen und Figuren-Staffage. Oel auf Eichenholz.H.37. B.48.
+- 140 Kihe und Schafe bei einem Haus im Vordergrunde einer Landschaft. Oel auf Eichenholz. H.41. B.34.
+
+## Art des Gillis d'Hondecoeter
+
+Hollandisch 17. Jahrh.
+
+- 141 Drei braungefleckte Kihe vorn bei einem Wasser, im Wasser ein Reiher und mehrere Enten. Grin-
+- toniger Landschaftshintergrund.Oel auf Eichenholz. H.41.B.35.
+
+## Samuel van Hoogstraten
+
+geb.1627 in Dordrecht, gest. 1678 daselbst.
+
+- 142 Damenbildnis. Junge Dame in rotem Kleide hinter Tischchen sitzend,ein Bologneserhindchien im Arm, vor sich Weintrauben. Architektonischer Hintergrund. Rechts unten bezeichnet: S.Hoogstraten. Oel
+- auf Leinwand. H. 67. B.55.Guillochierter Rahmen. Abb.Taf.4.
+
+## John Hoppner. Zugeschrieben
+
+geb.1758 in Whitechapel,gest.1810 in London.
+
+- 143 Damenbildnis. Kniebild einer in grinem Sessel vor Parkhintergrund nach rechts sitzenden Dame in weiBem Kleide, das ein griner Gurtel halt,und schwarzem, lose fallendem Spitzentuch.Sie halt mit der Linken ein farbig broschiertes Duodezbuch auf den Knieen und blickt mit anmutigem Lacheln aus dem Bilde heraus.Das gepuderte Lockenhaar halt eine weiBe gestreifte Haube. Oel auf Leinwand. H.91.B.72.Goldrahmen.
+
+## Jan Hulsman
+
+Kolner Maler des 17. Jahrh.
+
+- 144 Madonna mit Kind und zwei Heiligen in Monchs- bzw. Nonnentracht. Unter spanischem EinfluB. Oel auf Eichenholz.H.52.B.42.Goldrahmen.
+## Art des Cornelis Huysmans
+
+Niederlandisch 17. Jahrh.
+
+- 145 Bewaldete Higellandschait mit Sandhigel vorn rechts. Im Mittelgrunde Herdenstaffage. Oel auf Leinwand.H.34.B.43.Goldrahmen.
+
+## Schule des Adriaen Isenbrant
+
+Holland 16. Jahrh.
+
+- 146 Madonna mit Kind und Engeln. Halbfigur in rotem Mantel und grinem Kleid hinter Bristung stehend, auf der das nackte Kind auf einem Kissen kniet und eine Fayencevase mit Blumen halt.In der linken hat sie ein aufgeschlagenes Buch,in welchem sie liest. Rechts und links oben vier schwebende Engel.
+- Oel auf Eichenholz.H.45. B.31. Alter Goldrahmen.
+
+## Italienisch, 16. Jahrh.
+
+- 147 Madonna mit den Kindern Jesus und Johannes. Die jugendlich-anmutige Gottesmutter sitzt, blau und rot gekleidet, vor Landschaftshintergrund, die beiden nackten Kinder mit den Armen umfangend. Oel auf Leinwand.H.74.B.60.Profilrahmen.
+- 148 BiBende Magdalena in der Felsenhohle. Oel auf Leinwand. Allegorische Frauengestalt neben Architektur gelagert. Oel auf Leinwand. Zwei Gegensticke. H. 6l. B. 77.In zwei schonen altflorentiner Goldrahmen.
+- 149 Madonna mit dem Jesuskinde.Halbfigur in rotem Kleid und grinem Mantel. Oel auf Leinwand. H.66. B.56.Profilierter Goldrahmen.
+- 150 FuBwaschung. Die Juinger sitzen und stehen im Raum umher. Links kniet Jesus vor St. Petrus und
+- wascht ihm die FuBe.Oel auf Leinwand.H. 36.B.72.Profilrahmen.
+
+## Italienisch,17.Jahrh.
+
+- 151 Madonna mit dem Jesuskinde. LebensgroBe Halbfigur. Oel auf Leinwand. H. 81. B. 65.
+- 152 Tod der Lukrezia. Szene in drei Figuren. Oel auf Leinwand. H. 87. B. 130. Profilrahmen.
+- 153 Madonna mit dem schlafenden Jesuskinde. Oel auf Leinwand. H. 58. B. 45. Goldrahmen.
+
+## Italienisch, 18.Jahrh.
+
+- 154 Verkindigung Maria. Rechts die rot und blau gewandete Maria, die sich gegen den von links heranschwebenden Engel verneigt. In der Hohe der segnende Gottvater zwischen Engeln.Oel auf Holz. oben rund.H.55. B.30.
+- 155 Volksszene. Vielfiguriges farbenreiches Markttreiben zwischen antiken Ruinen. Oel auf Leinwand.
+
+## Alexander Keirincx
+
+geb.1600 in Antwerpen,gest.1652 in Amsterdam.
+
+- H.81.B.108.
+- 156 Bewaldete Landschaft mit Staffage.Durchblick durch gelichtet stehenden prachtigen Eichen-Hochwald in Goldton. Vorn auf einem Wege liegt ein ermordeter Mann,neben dem ein Lowe steht,links davon ein gesattelter Esel.-In der Mitte unten bezeichnet:A.Keirincx (Signatur ahnlich Wurzbach S.251 rechts unten).Oel auf Eichenholz.H.47.B.63.Goldrahmen. Abb.Taf.8.
+
+## Jan Kobell. Zugeschrieben
+
+Hollandisch Ende 18. Jahrh.
+
+- holzgeschnitzter altvergoldeter Rahmen.
+- 157 Schafherde und Kuh im Vordergrunde einer Landschaft. Oel auf Leinwand. H. 56. B. 69. Schoner
+
+## Kolnische Schule, 15. Jahrh.
+
+- 158 Ecce homo.Vor dem Tor eines Palastes steht neben dem nackten Heiland gravitatisch Pilatus in pelzverbramtem Goldbrokatmantel und Pelzmitze,zum Volke sprechend.Links davon Maria und Johannes mit leidvollem Ausdruck in den Mienen.Rechts hinter dem Landpfleger zwei Schergen.Die drei Glorienscheine in Goldrelief ausgefihrt.Links blickt man durch eine Fensteroffnung auf grintoniges Landschaftsbildchen.Oel auf Eichenholz.H.70.B.47.Profilrahmen. Abb.Taf.12.
+
+Dem Meister von St.Severin nahestehend.
+- Rahmen.
+
+## Kolnisch, 17. Jahrh.
+
+wohl GropengieBer(?).
+
+- 159 LebensgroBes Hiftbild einer jungen Patrizierin in reicher Zeittracht mit schwerer goldener Huftkette,
+- Mihlsteinkragen und Spitzenhaube. Links oben:AETATIS SVAE 36. Oel auf Leinwand. H. 110.B.85.
+- 159a Gegenstick zum vorigen Bilde. Hiftbild eines Herrn mit Mihlsteinkragen, die Rechte auf einen Stuhl
+- gestitzt.Rechts oben: AETATIS SVAE 46.Oel auf Leinwand.H.110. B.85.
+
+## jSir Peter Lely. Zugeschrieben
+
+geb.1618 in Soest, gest. 1680 in London.
+
+- 160 Damenbildnis. LebensgroBes Brustbild einer jungen Aristokratin. Blondes,zierlich gelocktes Haar umflieBt das anmutige Gesicht, dessen blaue Augen traumerisch ins Weite gerichtet sind. Um den schlanken Hals legt sich eine Perlenkette. Sie tragt ein tief ausgeschnittenes silbergraues Kleid mit goldener Rankenstickerei und einen iber die Oberarme fallenden blaugrauen Ueberwurf. Vor der Brust eine perlengeschmickte Agraffe.Oel auf Leinwand. H. 68.B.58. Goldrahmen. Abb.Taf.4.
+
+## Kolnische Schule des 15. Jahrh.
+
+von van Eyck beeinfluBt.
+
+- roten, grin gefittertem Mantel, der vor der nackten Brust durch eine goldene Agraffe gehalten wird. Die linke Hand halt ein reich verziertes Vortragekreuz mit rotem Wimpel, die rechte ist lehrend erhoben. Rechts auf dem Rand des Grabes kniet ein Engel in rotgelbem Gewande. Rechts und links zu Christi FiBen hocken schlafend zwei gepanzerte Wachter. Hinten offnet sich eine reich abgestufte Landschaft mit Seen,Higcln,Burgen. Oel auf Eichenholz. H. 85. B.72. Schwarzer, golden bemalter
+
+## Johannes Lingelbach
+
+geb.1622 in Frankfurt a./M.,gest.1674 in Amsterdam.
+
+- 162 Bewegtes Hafenbild mit zahlreichen Figuren im Vordergrunde: Fischer,Ladeknechte, Kaufleute in farbigen Kostimen. Links ein massiger Turm,im Hintergrunde ein Kastell. Ein groBes Segelschiff und Ruderboote auf dem Wasser. Oel auf Leinwand. H. 70. B.95.
+
+## Antonis de Lorme
+
+Holland, Ende 17. Jahrh.
+
+- 163 GroBes Kirchen-Interieur. Blick in das Mittelschiff einer gotischen Kirche mit geschnitztem Gestihl auf beiden Seiten. Zahlreiche kleine Figuren in farbigen Zeitkostimen wandeln umher.Nach hinten Blick auf Hochaltar und Chor. Oel auf Leinwand. H. 75. B.65. Schwarzer Profilrahmen.
+
+## Nicolas Maes
+
+geb.1632 in Dordrecht,gest.1693 in Amsterdam.
+
+- 164 LebensgroBes Kniebild eines jungen Kavaliers in violettem,rot gefittertem Mantel mit weiBen Schlapparmeln und Spitzenkrawatte, das sympathische Gesicht von dunkler Allongepericke umrahmt. Er sitzt, den Blick traumerisch ins Weite gerichtet,vor einer Architektur mit Parkhintergrund. Oel auf Leinwand.H.125.B.100.Brauner Rahien. Abb.Taf.2.
+
+## Alessandro Magnasco. Zugeschrieben
+
+Gelua 1681-1747.
+
+- 165 Samson und Dalila. In einer Hohle wird dem schlafenden Samson inmitten von Philistern das Haupt-
+- haar abgeschnitten. Oel auf Leinwand. H. 60. B.74. Profilrahmen aus der Zeit.
+
+## Art des Gabriel Metsu
+
+Hollandisch 17. Jahrh.
+
+- 166 Kiichen-Interieur. Eine Kochin in roter Jacke und weiBer Schirze sitzt, eine Schissel mit saftigem
+- Stick Fleisch auf dem SchoBe,neben einem Tisch mit Rot und WeiBkrautkopfen,Ananas, Morser und spricht mit einem hinter ihr stehenden jungen Mann, der einen Kohlkopf in der Hand halt. Oel auf Leinwand.H.47.B.37.Vergoldeter Profilrahmen.
+- tatig ist.
+
+## Michiel Janszoon van Mierevelt. Zugeschrieben
+
+Hollandisch um 1618.
+
+- 167 LebensgroBes Kniebild einer alten Patrizierin in schwarzem Atlaskleide mit Mihlsteinkragen, Spitzenmanschetten und goldener Halskette. Rechts oben Schrift: AETATIS SVAE 68. AO 1618. Oel auf
+- Eichenholz.H.130.B.87.Goldrahmen.
+
+## Manier des M.J. van Mierevelt
+
+Hollandisch Mitte 17.Jahrh.
+
+- 168 Bildnis eines jungen Mannes mit blondem Knebelbart und Haupthaar. Schwarzes Gewand, breiter Mihlsteinkragen.Oel auf Eichenholz. H. 78. B.57.
+
+## Art des Anthony Mirou
+
+Niederlandisch 17. Jahrh.
+
+- 169 Kleine fluBdurchzogene Landschaft mit Architekturen. Vorn mehrere Staffagefigirchen. Oel auf Kupfer.
+- H.21.B.29.Goldrahmen.
+
+## Mittelrheinisch, 15.Jahrh.
+
+- 170 Martyrium mehrerer Heiliger.Vor hohem Gebaude links, in dessen Tur-und Fensteroffnungen gefangene Bischofe und Schergen sichtbar sind,hat ein Henker zwei Heilige enthauptet, gegen einen dritten in Bischofskleidung zickt er gerade das Richtschwert. Weiter vorn ein gemarterter Heiliger vor einem sitzenden alten Konig und seiner Tochter, die von zwei Teufeln gepackt wird. Auf Goldgrund. Oel auf Holz.H.74.B.56.Profilrahmen. Abb.Taf.12.
+
+## Jodocus de Momper
+
+Antwerpen 1564-1635.
+
+- 171 Felsenlandschaft mit Figurenstaffage, Vordergrund in braunem, Hintergrund in grinem Ton. Rechts vorn bizarre Felspartie mit Hohlweg, aus der ein Zug Reiter und FuBganger kommen. Oel auf Eichenholz.H.46.B.55.Schwarzer Rahmen. Abb.Taf.10.
+- 172 Gebirgige Landschait mit Pauli Bekehrung. Rechts steil ansteigende Berge mit Burg, im Goldton. Vorn auf einem Wege sprengt ein Zug Bewaffneter verwirrt auseinander,wahrend Paulus getroffen von dem von links hereinfalenden himmlischen Strahl betaubt vom Pferd gesunken ist. Links grin gemalter baumreicher Talgrund. Oel auf Eichenholz.H.46.B.75. Abb.Taf.10.
+- 173 Wilde Felsenlandschaft. Vordergrund im Goldton, Hintergrund in blauen und grinen Tonen. Zwischen
+- den Felsen Buschwerk.Oel auf Eichenholz.H.64.B.73.Profilrahmen.
+- 174 Landschaft mit buschbewachsenem Felsen rechts vorn. Nach links hiniber Sicht auf blaues Bergland.
+- Kleine Figurengruppe links vorn. Oel auf Eichenholz. H.41. B. 56.
+
+## Monogrammiert P.V.H.1620
+
+Hollandisch 17. Jahrh.
+
+- 175 Pluindernde Marodeure in einem Bauernhause. GroBer Kichenraum mit Rauchfang rechts und Topfbank hinten. Eine Anzahl buntgekleideter Landsknechte sind eingedrungen und vergewaltigen die Insassen. Rechts legt ein Rauber das Gewehr auf einen nach vorn fliehenden Mann an,in der Mitte wird ein zu Boden geworfener Mann mit Erstechen bedroht,links belastigen zwei Soldaten ein schreiendes Madchen,andere stellen Hihnern nach etc. Dramatisch bewcgte Szene. Rechts vorn auf einem Backtrog Monogramm ↓H und Jahreszahl 1620.Oel auf Eichenholz.H. 35. B.50. Schoner alter Rahmen. Der Maler dieses in Komposition, Zeichnung und Ton sehr sympathischen Bildes scheint in der Literatur unbekannt zu sein. Wurzbach schreibt ein anders gezeichnetes Monogramm PVH. dem Paulus Van Hillegaert l.zu,der um 1620 als Historienmaler
+
+## Mooris (?)
+
+- 176 Fischerirau behabig vor ihren Korben sitzend und die Ware anpreisend. Hintergrund StraBe. Oel auf Holz. H.34. B. 26.Goldrahmen.Ein Zettel von alter Hand auf der Rickseite gibt den Malernamen Mooris an. Vielleicht:R. Moris,ein frih verstorb. Schiler G.Schalkens.
+
+Hollandisch,Ende 18. Jahrh.
+## Pedro de Moya
+
+Granada 1610-1666.
+
+- 177 Charakterkopf cines jungen Mannes mit reichem dunklen Lockenhaar und Schnurrbart. Oel auf Lein-
+- wand.H.50.B.44.Goldrahmen.
+
+## Manier Jean Marc Nattier
+
+Franzosisch,Mitte 18. Jahrh.
+
+- 178 Damenbildnis. (Madame de Boulogne.) Brustbild einer Dame mit Puderfrisur, in grinem golden gesaumten Kleid und Purpur-Ueberwurf. Oel auf Leinwand. H.78. B. 63. Holzgeschnitzter alter Rococo-Rahmen mit schonen Eck-Rocaillen.
+
+## Aert van der Neer
+
+- 179 Hollandische Kanallandschait bei Mondbeleuchtung. Transparent gemalter Wasserspiegel, belebt von einzelnen Kahnen. Auf beiden Ufern, an der rechten und linken Bildseite Hauser unter Baumen. Rechts unten monogrammiert A.V.D. N. (paarweise verschlungen）. Oel auf Eichenholz. H. 21. B. 31. Goldrahmen.
+
+## Manier des Constantin Netscher
+
+Deutsch,Ende 17. Jahrh.
+
+- 180 Dame in reich mit Spitzen besetztem Brokatkleide und rotem Ueberwurf. LebensgroBes Kniebild. Oel
+- auf Leinwand.H.117.B.92.Goldleiste.
+
+## Kopie nach Caspar Netscher
+
+- 181 Bildnis einer jungen Aristokratin in blauem,reich mit Spitzen verziertem Seidenkleide. Oel auf Leinwand.H.50.B.38.Profilrahmen.
+- 182 Junge Dame,Blumenkorb tragend und junger Mann. Oel auf Leinwand. H. 120. B. 92.
+
+## Niederrheinisch um 1550
+
+- 183 Kreuzigung Christi. Vorn die drei Gekreuzigten. Unter dem Kreuz finf Frauen und Johannes. Im
+- Mittelgrunde Juden und romische Soldner. Reich abgestufter Landschaftshintergrund.-Stark ruinos. Oel auf Eichenholz,oben giebelig gerundet.H.86.B.57.Goldrahmen.
+
+## Niederlandisch, 17.Jahrh.
+
+- 184 Seestick. Segelschiffe auf leicht bewegter See. Oel auf Eichenholz.H.55.B.71. Barock-Goldrahmen.
+- 185 Allegorischer Frauenkopf. Oel auf Eichenholz.H. 65. B.49. Goldleiste.
+- 186 Verspottung Christi. Der gefesselte Heiland neben zwei Schergen,von dcnen der eine ihm das Rohr
+- reicht. Oel auf Eichenholz. H.43.B.32.Profilrahmen.
+- 187 Damenbildnis. Junge Dame mit blondem Haar, in grinem Seidenkleid mit breitem Spitzenkragen. Oel
+- auf Holz,parkettiert. H.34. B.71.
+- rotes Kleid und blauen Mantel. Oel auf Eichenholz,parkettiert.H. 66. B.51.
+
+## Nurnberg, 16. Jahrh.
+
+Schule des Hans Leonh. Schauffelin.
+
+- 189 Auferstehung Christi. Der Auferstandene,eine Kreuzesfahne in der Linken, steht mit gestikulierend gehobener Rechten vor dem Grabe, dem er entstiegen. Rechts und links die schlaftrunkenen Wachter. Weiter landschaftlicher Hintergrund mit Bergen, Seen und einer ragenden Burg. Oel auf
+- Holz.H.116.B.116.Profilrahmen.
+
+## Oberdeutsch, Ende 15.Jahrh.
+
+- 190 Madonna (aus einer Verkindigung). Stehend in faltigem grauen Mantel, der sich als Schleppe um die FiBe bauscht. Die rechte Hand rafft den Mantel leicht hoch,wahrend die zur Brust gehobene Linke eine Lilie halt. Das anmutige Gesicht ist mit demitig gesenktem Blick leicht zur linken Schulter geneigt. Oel auf Holz,parkettiert.H. 58. B.35. Profilrahmen.
+- H.92.B.123.Gerahmt.
+- Goldrahmen.
+
+## Eduard Ockel
+
+geb.1834 in Schwante
+
+- 191 GroBe gebirgige Landschaft mit Viehherde im Vordergrunde. Bezeichnet:E. Ockel. Oel auf Leinwand.
+
+## Barend van Orley
+
+- 192 Anbetung der heiligen drei Konige.-Triptychon. Die Madonna sitzt links im Mittelbild, ein wenig vorgebeugt und halt das Christuskind auf ihrem SchoB. Dieses reicht dem knieenden Konig Kirschen zu. Der Konig,stark dem Kinde zu vorgebeugt,halt in der Rechten den Aufsatz des Pokales, der vorne in der Mitte am Boden steht. Rechts oben am Bildrand der heilige Joseph. In etwa gleicher Hohe erscheinen noch finf Begleitfiguren,von denen einer sich deutlich als Portrat (vielleicht des Stifters) zu erkennen gibt. Hinten Ruinenlandschaft mit antiken Saulen.
+
+geb.1493 in Brissel,gest.1542 daselbst.
+
+Auf den Seitenfligeln erscheinen die beiden anderen Konige,Pokale haltend. Hier ebenfalls Landschaften mit antiken Saulen.
+
+Mittelhohe 103,mittlere Breite 70,Fligelbreite je 28,5. Abb.Taf.1.
+
+Der Mantel der Madonna ist dunkelblau,der des knieenden Konigs ein rotlicher Brokat. St. Joseph tragt leuchtendes Rot und Blau, das an's Schwarzliche grenzt. Die meisten ibrigen Tone braunlich.
+
+Mit Gutachten von Dr. Theodor Frimmel,Wien,Dr.Karl Parker,Zirich,Dr. Gustav
+
+Dr.FrimmeI schreibt:Dieses Triptychon ist ein sehr wertvolles Museumsstick niederlandischen Ursprungs um 1525,dessen Benennung B.v.Orle y ich anerkenne.
+
+Glick, Wien.
+
+Dr. Par ker schreibt: Die Erhaltung des Bildes ist tadellos, es sind keinerlei Uebermalungen zu sehen.Man erkennt beim ersten Blick ein Meisterwerk hochsten Ranges.Die Komposition ist klar und ibersichtlich,die farbige Wirkung prachtig und zugleich harmonisch.Die Ausfuihrung der Brokatstofie ist von wunderbarer Feinheit,die Pokale und Schmucksticke mit goldschimiedartiger Detailliebe durchgefuihrt etc. etc. Ich halte dieses Werk fir eine charakteristische und qualitativ sehr hochstehende Arbeit des Barend van Orley.
+
+## Jan van Os
+
+- 193 Viehherde. Drei Kihe, zwei Schafe,eine Ziege lagern im Vordergrunde einer Landschaft mit Kanal. Rechts Baunie und Hauser. Rechts unten bezeichnet: J. v. Os. Oel auf Leinwand. H. 67. B. S9.
+
+geb.1744 in Middelharnis,gest.1808 im Haag.
+
+## Giovanni Paolo Pannini. Zugeschrieben
+
+- 194 GroBe Ruine eines antiken Saulentempels. Davor die biblische Szene: Christus im Kreise seiner Jinger
+
+geb.1695 in Piacenza,gest. in Rom.
+
+- uibergibt St.Petrus die Himmelsschlissel. Oel auf Leinwand. H.95. B.71. Altvergoldeter Profilrahmen.
+
+## Nachfolger des Joachim Patinir
+
+- 195 Landschait mit Ruhe auf der Flucht. Grintonige,reich abgestufte Landschaft mit Baumgruppen. Links vorn sitzt die grin und rot gekleidete Madonna, das Jesuskind saugend. St. Joseph fuillt weiter hinten an einem gotischen Brunnen einen Wasserkrug; links davon der grasende Esel. Oel auf Eichenholz. H.52.B.34.Alter Profilrahmen.
+
+Flandern 16. Jahrh.
+
+## Art des Christoph Paudiss
+
+- 196 St. Petrus mit dem Himmelsschlissel. Ausdrucksvoller Greisenkopf in Rembrandtesker Auffassung.
+
+Deutsch 17. Jahrh.
+
+- Oe!auf Leinwand.H.63. B.54.Profilrahmen.
+
+## Marten Pepyn
+
+- 197 ,Lasset die Kindlein zu mir kommen. Um den in der Mitte sitzenden Heiland drangen sich Kinder und
+
+Antwerpen 1575-1642.
+
+- junge Muitter. Hinter ihm die Gruppe der Jinger. Oel auf Eichenholz. H. 91. B.110. Goldrahmen,
+- B.34.Alter Rahmen.
+
+## Nicolas Poussin
+
+geb.1593 in Andelys, gest. 1665 in Rom.
+
+- 198 Heroische Landschaft mit antiken Ruinen und Figuren. Vorn links unter Baumen eine wuchtige Palast-
+- ruine,davor bei eineim Brunnen drei antik gewandete Personen. Vorn rechts bebuschter Felsen,im Hintergrunde Ruinen vor ragenden Bergen. Den Mittelgrund staffiert eine Herde. Oel auf Leinwand. H.57.B.72.Goldrahmen.
+
+## Daniel Preisler
+
+geb.1627 in Prag,gest.1665 in Nirnberg.
+
+- krause und Spitzenhaube. Oel auf Leinwand.H. 63. B. 51. Barock-Goldrahmen.
+- 199 Damenbildnis. Brustbild einer vornehmen Birgerfrau in reichem schwarzweiBen Kostuim mit Hals-
+
+## Pieter Quast
+
+Amsterdam 1606-1647.
+
+- 200 Dudelsackpfeiier. Alter Mann in braunem Rock und Schlapphut,sitzend,mit zurickgewendetem Kopf, einen Dudelsack auf den Knieen. Rechts oben undeutl.Monogramm P. Q. Oel auf Leinwand. H. 46.
+
+## Jan Anthonisz van Ravesteyn. Zugeschrieben.
+
+Haag 1572-1657.
+
+- 201 Damenbildnis. LebensgroBes Brustbild einer jungen Dame in schwarzem Kleide mit breitem feinen Spitzenkragen.In gemaltem Oval.Oel auf Leinwand.H.81.B.65.Guillochierter Rahmen.
+
+Abb.Taf.4.
+
+## Arnold van Ravesteyn. Zugeschrieben.
+
+1615—1690.
+
+- 202 Brustbild eines jungen Herrn in schwarzem Gewand und breitem Spitzenkragen. Fast von vorn.In gemaltem Oval.
+
+## Rembrandt-Nachfolger
+
+Hollandisch 17. Jahrh.
+
+- 203 Der zwolfjahrige Jesus im Tempel.Acht Gelehrte,zum Teil mit Turbanen,.sitzen diskutierend und Folianten nachschlagend um den mit lebhaftem Gestus redenden Jesusknaben.Oel auf Eichenholz,
+- parkettiert.H.58.B.80.Profilrahmen.
+- 204 David laBt die Bundeslade in den Tempel bringen.Das Heiligtum wird links voribergetragen.Singende und musizierende Manner und Frauen schreiten voran und folgen.Rechts der tanzende und harfen-
+- spielende Konig. Architektonischer Hintergrund.Oel auf Eichenholz.H. 61.B. 85.
+- 205 Die Bergpredigt.Vor goldtonigem Gebisch links steht der miteindringlichen Gesten predigende Heiland inmitten einer gelagerten Volksmenge in interessanten,teilweise orientalisierenden Kostimen. Oel auf
+- Eichenholz.H.47.B.62.Gerahmt.
+- 206 Bildnis eines alten Mannes.Dreiviertel Profil nach links. Oel auf Leinwand.H.70.B. 57.Profilrahmen.
+- 207 Bildnis eines Gelehrten mit spitzem Hut. Er sitzt, den Beschauer anblickend,in einem Sessel vor einem mit Bichern bedeckten Tische.Rechts eine Bezeichnung.Oel auf Holz.Flammleistenrahmen. H.40.B.32.
+
+## Kopie nach Rembrandt
+
+- 208 Bildnis eines Mannes in schwarzer Kleidung, mit Schlapphut. Oel auf Leinwand. H. 85. B. 66. Alter
+- Profilrahmen.
+
+## Rheinisch,I.Halfte 16.Jahrh.
+
+- 209 Triptychon.Im Mittelielde die Auferweckung des Lazarus.Um Christus und den aus einem gemauerten Grabe emporgestiegenen Lazarus gruppieren sich zahlreiche Juinger und Frauen in lebhafter Bewegung. Architekturen im Hlintergrunde. Auf dem linken Fligel knieen sieben mannliche Stifter,auf dem rechten sieben Frauen,beide Gruppen in reicher Zeittracht. Oel auf Eichenholz, oben gerundet. H.118.B.81.
+## Rheinisch 18. Jahrh.
+
+- 210 FluBlandschaft (Mosel?) mit Dorf und iberragender Burg links an steiler bewaldeter Hohe. Vorn links Figuren in einem Kahn und auf einem Uferwege. Oel auf Holz. H.28. B.39.
+
+## Hyacinthe Rigaud. Zugeschrieben
+
+Franzosisch,Ende 17. Jahrh.
+
+- 211 Bildnis eines firstlichen Herrn (Prinz Soubise?) in sehr eleganter Auffassung und Durchfihrung. Kniebild, stehend in Harnisch und hermelingefittertem Purpurmantel mit Ordensstern und blauer Ordensscharpe. Das Gesicht umrahmt eine gepuderte Allongepericke. Rechts auf einem Tische Turnierhelm. Links sieht man einen galoppierenden Reiter vor Landschaft. Oel auf Leinwand. Abb.Taf.4 H.47.B.38.
+
+## Ernst Friedrich Ferdinand Robert.
+
+Kassel 17631843 (Inspektor der Kasseler Galerie).
+
+- 212 Antike Szene. Jingling in griner Chlamys und rotem Himation tritt zwei weiBgekleideten Madchen gegeniber. Bezeichnet:F. Robert inv. et pinx. 1802. Oel auf Leinwand.H. 62. B. 79.Profilrahmen.
+
+## Roeland Roghman
+
+Amsterdam 1597-1686.
+
+- 213 Gebirgige Landschaft mit reicher Figuren-Staffage. In der Mitte ragt ein Felsen,rechts und links fassen
+- Felsen das Bild zusammen.Zahlreiche Figuren bewegen sich in der Landschaft.Oel auf Leinwand. H.47.B.66.Profilrahmen.
+
+## Marinus van Romerswale
+
+Holland,Mitte 16. Jahrh.
+
+- 214 Die Geldwechsler.Hinter einem Zahltisch sitzt ein schreibender Buchhalter mit roter Mitze,links davon steht ein lebhaft redender und gestikulierender Kaufmann mit einem Schriftstick in der Hand. Von rechts her sind drei Kunden herangetreten, deren einer Silbersticke aus einem Beutel schittet. Auf einem Regale an der hinteren Wand Skripturen und Kontorgeratschaften.Oel auf Eichenholz. H.97.B.114.Golden bemalter Profilrahmen. Abb.Taf.3.
+
+## Johann Heinrich Roos. Zugeschrieben
+
+geb.1631 in Ottersberg,gest.1685 in Frankfurt a.M.
+
+- 215 Viehherden und Hirten in Landschaft. Vor einer lagernden Herde von Kihen,Schafen, Ziegen steht von rechts nach links ein machtiger braunweiBer Bulle.Dahinter an einem Felsen rot gekleideter Hirte und Hirtin. Hintergrund Gebirgslandschaft mit Ruinen.Oel auf Holz. H. 56. B.47.
+
+## Art des Joh.Heinrich Roos
+
+- 216 Viehherde und Hirten vorn rechts bei Brunnen und Palastruine. Oel auf Leinwand. H. 53. B. 76. Profilrahmen.
+
+## Schule des P. P.Rubens
+
+- 217 Konversierende Gesellschait. 4 Kavaliere,3 Damen in prachtigen Kostimen des 17. Jahrh.,plaudernd,
+- musizierend,tanzend vor einem Palastportal.Oel auf Eichenholz.H.50.B.64.
+
+## Juan Ruiz
+
+spanischer Maler um die Wende des 17.u.18.Jahrh.
+
+- 218 GroBes Architekturbild mit vielen kleinen Staffagefigirchen. Spanische Hafenstadt mit prachtigen Graugriner Lokalton, grinblauer Hintergrund.Rechts bezeichnet: JOANS RUIZ.P. 1720. Oel auf Lein-
+- Renaissancepalasten und einzelnen Schiffen.Sehr reizvoll ist die ungemein figurenreiche Staffage. wand.H.50.B.93.Schwarzer Profilrahmen. Abb.Taf.9.
+
+## Russische Schule
+
+- 219 Madonna mit Kruzifixus, Auf Goldgrund. Oel auf Holz.H. 22. B. 17. Geschnitztes Goldrahmchen.
+## David Ryckaert
+
+Antwerpen 1612-1661.
+
+- 220 Bauernfamilie. Auf der Bank vor einem Rauchfang sitzt ein barfuBiger Mann in violetter Jacke mit einer neben ihm sitzenden Frau redend. Rechts davon ein anderer Mann,ein Knabe und ein Hund. Am Boden Korb,FaB, Gemise. Links oben an der Wand angeheftete Zeichnung mit Eule (Pieter Quast?) Oel auf Eichenholz.H.49.B.64.Profilrahmen. Abb.Taf.5.
+
+## Manier des Roelant Savry
+
+Deutsch 17. Jahrh.
+
+- 221 Paradies.Vorn zahlreiche Tiere:lefant,Tiger,Lowe,Affe,Hirsch,Perd etc.Im Mittlgrunde Adam
+- und Eva in grintoniger Landschaft. Oel auf Leinwand.H.40.B.50.
+
+## Cornelis Saftleven
+
+Borkum 1608-1681.
+
+- 222 Anbetung der Hirten. In primitivem Stalle vorn die von.oben stark beleuchtete Gruppe: Maria, die ein weiBes Tuch von dem schlafenden Kinde hochhebt, der in einen grauen Mantel gehillte stehende St. Joseph,zwei knieende Hirten,ein Hirtenknabe, der einen Hund an der Leine fihrt. Links Ochs,Esel, Schafe, Ziegen.Links unten bezeichnet: Corn. S. Oel auf Eichenholz.H. 47. B. 63. Schwarzer Rahmen.
+
+## Giovanni Girolamo Savoldo
+
+Italien 16. Jahrh.
+
+- Grabe, gestitzt von dem weiBhaarigen Nikodemus.Rechts in Halbfigur die weinende Maria,hinter ihr eine andere Frau. Rechts unten das weinende Gesicht der Maria Magdalena.Oel auf Leinwand.
+- H.75.B.120.
+
+## Johann Philipp van der Schlichten
+
+geb.1681,gest.1745 in Mannheim bedeutender Schiler A.v.d.Werffs.
+
+- 224 Himmelfahrt Mariae. Die jugendlich-anmutige Gottesmutter in weiBem, golden gesaumten Kleid und blauem flatternden Mantel, einen Lilienstengel haltend, schwebt auf schlangenumwundener Erdkugel in den Wolken,umgeben von gefligelten Engelkopfen.-Von ungemein feiner delikater Durchfuihrung in den Einzelheiten. Bezeichnet: Van der Schlichten fecit 1733. Oel auf Leinwand. H. 46. B.32. Goldrahmen.
+
+## Christian Georg Schitz d.J.
+
+geb. 1758 in Florsheim,gest. 1823 in Frankfurt.
+
+- 225 Rheinlandschaft. Rechts Durchblick durch eine Park-Allee mit Spaziergangern in Zopftracht. Nach
+- links blickt man iber staffierten Mittelgrund mit SchloB auf den hinten voriberflieBenden Rhein.Oel auf Leinwand.H.39. B.51.
+- 226 Zwei kleine FluBlandschaften mit Dorfern.Oel auf Buchenholz.H. 23. B. 30.Goldrahmchen.
+- 227 Zwei kleine baumreiche Landschaften mit Architekturen und Staffagefiguren. Oel auf Metal. H. 26. B.35.Goldrahmen.
+
+## Schwabisch, Ende 15. Jahrh.
+
+- 228 Bethlehemitischer Kindermord. In einer StraBe zwischen zwei Hauserreihen zwei geharnischte Landsknechte,von denen jeder ein nacktes Kind halt und es ersticht. Den vorderen Knecht links faBt eine rotgekleidete weinende Mutter bei den Haaren. Rechts auf einem Throne Herodes. Oel auf Holz. H.102.B.100.Goldleiste.
+
+## Christoph Schwarz
+
+- geb.1550 in Ingolstadt,gest.um 1597 in Minchen.
+- 229 Christus vor dem Hohenpriester. Eine Rotte von Schergen hat den Heiland zu Boden geworfen. Einer schlagt mit einem Streithammer auf ihn ein. Links der Hohepriester auf dem Throne. Oel auf Holz. H. 43. B. 29.Dazu der Kupferstich, der von Elias van den Bossche nach dem Gemalde gestochen
+- wurde.
+
+<!-- image -->
+- H.127.B.99.
+
+## Daniel Seghers. Zugeschrieben
+
+- 230 Blumenstick.Um einen in Grisaille gemalten reich skulptierten Rahmen legt sich cin farbenschones Arrangement von verschiedenen Gartenblumen,um die zwei Schmetterlinge fliegen. Der gemalte Rahmen faBt eine kleine Darstellung: St. Antonius von einem Teufel geplagt. Oel auf Leinwand. H. 78. B.57.Goldrahmen. Abb.Taf.7.
+
+Antwerpen 1590-1661.
+
+## Franz Snyders. Zugeschrieben
+
+- 231 GroBes Stilleben. Vor hoch mit Aepfeln und Trauben gefilltem Korb erlegte Feldhihner,Krammetsvogel und ein rechts an den Hinterlaufen aufgehangter Hase auf weiBer Decke.Oel auf Leinwand. H.73.B.106.
+
+Antwerpen 1579-1657.
+
+## Spanisch oder Portugiesisch,16.Jahrh.
+
+- Throne sitzt,frontal gewandt, die Muttergottes in rotem Kleide und blauem mit Reliefgoldsaumen verzierten Mantel, das in ein grines Kittelchen gehillte Jesuskind auf dem SchoBe haltend. Dieses blattert in einem Buche, das die Madonna in der rechten Hand halt. Links davon steht die rot und grin gekleidete Heilige,eine Harfe schlagend. Interessant sind die in Reliefvergoldung ausgefihrten Glorienscheine und Kleidersaume, sowie die golden und rot gepunzte Ricklehne des Sessels.Oel auf Holz. H. 87. B. 67.In altem,mit Laubwerk geschnitztem und vergoldetem Rahmen aus der Zeit.
+- 232 Thronende Madonna mit Jesuskind und St. Caecilia. Auf hochlehnigem,mit Laubwerk skulptiertem
+
+## Spanisch um 1500
+
+Abb.Taf.12.
+
+- 233 Anbetung der Konige. St. Anna und Maria in reichen Gewandern sitzen nebeneinander und halten auf einem Brokatkissen das Kind zwischen sich, das sich lehrend zu den links in kleinen Figuren knieenden drei Konigen neigt. Diese tragen auf ihren Brokatmanteln spanische Aufschriften: Myrra rey de Arabia etc.Oel auf Holz.H.65.B.50.Profilrahmen.
+
+## Spanisch,17.Jahrh.
+
+- 234 Das heilige Paar mit Mutter Anna und den Kindern Jesus und Johannes. Oel auf Leinwand.
+
+## Art des Massimo Stanzioni
+
+- 235 Moses mit den Tafeln des Gesetzes. Halbfigur in orangefarbenem Mantel. Oel auf Leinwand. H.78.B. 63.Profilrahmen.
+
+Neapel, 1. Halfte 17. Jahrh.
+
+## Jan Adriaensz van Staveren
+
+- 236 St. Benediktus in kontemplative Betrachtung versunken. Der in eine schwarze Kutte gehillte Heilige sitzt vor dem Eingang einer warmbeleuchteten Hohle mit nach hinten hochfihrender Treppe neben einem Felsblock,den sinnenden Kopf in die Linke gestitzt,auf den Knieen ein aufgeschlagenes Buch. Neben ihm Kruzifix und Totenkopf. Oel auf Eichenholz.H.70.B. 84. Profilrahmen.
+
+Leiden 1625-1668.
+
+- 237 St. Hieronymus in der Hohle. Er sitzt,rot und grau gekleidet,in einem Folianten lesend,am Ausgang einer Hohle. Zu seinen FiBen der Lowe. Bezeichnet: J.A.v. Staveren. Oel auf Kupfer. H.23. B.17.
+- 238 St. Gregorius in Papstornat mit Bichern. Rechts oben: GREGORIVS. Oel auf Holz. H. 38. B. 29.
+
+## Suddeutsch, 16.Jahrh.
+
+## David Teniers d.J. Zugeschrieben
+
+## Schule David Teniers
+
+- 239 Der Alchemist. Links hantiert vor einem Rauchfang ein alter Mann mit Topfen und Retorten. Ein vom Ricken gesehener Gehilfe hinten vor einem Tische. Bicher und Topfe am Boden und auf Tischen. Rechts an einer Tischkante Monogramm D. T.Oel auf Leinwand. H. 41.B.57.Barock-Goldrahmen.
+
+Niederlandisch 17. Jahrh.
+
+- durch obere Oeffnung. Die blau und orange gekleidete Heilige kniet betend vor Felsblock,auf dem Kruzifix und Totenkopf. Einige Bicher rechts, ein paar Kohlkopfe links am Boden. Oel auf Eichenholz, parkettiert. H. 50. B. 38.
+- 240 BiBende Magdalena in der Felsenhohle. GroBe Hohle mit starken Felsblocken,Licht von vorn und
+## Gerard Terborch
+
+geb. um 1617 in Zwolle, gest. 1681 in Deventer.
+
+- 241 Der junge Jager. Ein junger, elegant gekleideter Edelmann mit weiBem Halskragen und weiBen Aermelpuffen sitzt,den Beschauer anblickend, auf einem Rubensstuhl, sein Jagdgewehr zwischen die Beine gestelt. Rechts vor ihm liegt ein Windspiel, dahinter ein Wandtisch mit der Jagdtasche. An der Wand rechts hangt einerlegter Hase,auf den eine in der offenen Tir sichtbare Magd deutet. Oel auf Eichenholz.H.51.B.38. Abb.Taf.7.
+
+## Manier Tiepolo
+
+Ende 17.Jahrh.
+
+- 242 Eine junge Frau wird von Mannern in romischer Rustung vor eine Gotterstatue geschleppt, die sie an-
+- beten soll. Oel auf Leinwand.H.70. B. 93.
+
+## Aegidius van Tilborg
+
+geb.um 1625 in Brissel,gest.um-1676 daselbst.
+
+- 243 Maler-Atelier. Rechts sitzt der Maler vor einer Staffelei und malt das Portrat eines flotespielenden Bauern. Daneben reibt ein Lehrling Farbe an. Links an einem Tische alter Mann,Kunstblatter in der Hand. In der Mitte ein Globus,am Boden Skulpturen, Studien etc. Oel auf Leinwand. H. 84. B.120. Schwarzer Rahmen.
+
+## Art des Johann Heinrich Tischbein
+
+Deutsch 18. Jahrh.
+
+- 244 Brustbilder eines Herrn und einer Dame mit gepuderten Frisuren. Oel auf Leinwand. H. 59. B. 47. Profilrahmen.
+
+## Alte Kopie nach Tizian
+
+- 245 Heilige Familie mit dem kleinen Johannes und Zacharias. Oel auf Leinwand. H.76. B. 110. Profilrahmen.
+
+## Johann Georg Trautmann
+
+geb. 1713 in Zweibricken, gest. 1769 in Frankfurt.
+
+- 246 Gelehrter bei Kerzenlicht, eine Feder schneidend. Neben ihm brieflesende Frau. Oel auf Eichenholz.
+- H.29.B.21.Goldleiste.
+
+## Lucas van Uden
+
+Antwerpen 1595-1672.
+
+- 247 Landschaft mit Kaufmannswagen. Grintonige higelige Landschaft mit hohen Baumgruppen vorn. Aus einem Hohlweg vorn kommen mehrere planbedeckte Frachtwagen heraus,von Knechten gefuhrt und begleitet.Andere Personen lagernd und schreitend links und rechts vorn.Oel auf Eichenholz. H.34.B.44.Profilrahmen. Abb.Taf.8.
+
+## Georg Anton Urlaub
+
+geb. 1744 in Bamberg,gest. 1788 in Mainz.
+
+- 248 Brustbild einer jungen Dame in rotem, pelzbesetztem Kleid mit hoher gepuderter Frisur,in den Handen ein Notenblatt. Auf der Rickseite des Notenblattes bezeichnet: G. A. Urlaub fec. Oel auf Leinwand. H.82.B.66.Profilrahmen.
+
+## Esaias van de Velde
+
+geb. 1590 in Amsterdam, gest. 1630 im Haag.
+
+- 249 Rauberischer Ueberiall auf einen Bauernhof.In leuchtendem Goldton gemalt.Vor einem moosbedeckten, unter Baumen stehenden Bauernhof Gruppen von farbig gekleideten Landsknechten, teils zu Pferde, teils abgesessen, die Bauernfamilie ermordend und beraubend. Rechts hinten hat ein Anfihrer mehrere Soldaten um sich versammelt. Monogrammiert E.v.V. 1617.Oel auf Eichenholz. H. 44.B. 63.
+- Abb.Taf.8.
+- 250 Bauerngehoft von Baumen iberragt und yon Wasser umgeben. Rechts im Buschwerk vereinzelte Marodeure, die sich zu einem Ueberfall auf den Hof anschicken. Links auf einem Weg Bauer mit Kuh und andere Figuren. Rechts auf dem Rand des Bootes die (wohl spatere) Bezeichnung. Oel auf Abb.Taf.9. Eichenholz,parkettiert. H. 40. B. 70.
+## Manier des Adriaen van de Velde
+
+Hollandisch 17. Jahrh.
+
+- 251 Gebirgige FluBlandschaft mit Hirten und Herde im Vordergrunde. Oel auf Leinwand. H. 70. B.96.
+
+## Vlamisch, 15. Jahrh.
+
+Schule van Eyck.
+
+- 252 Madonna mit Kind und musizierenden Engeln. Sie steht frontal gewendet in weiBem Faltengewand in gotischem Erker mit offenen Fenstern;in den Armen halt sie das Jesuskind. Rechts und links von ihr je ein groBgefligelter Engel, Harfe bzw. Laute schlagend. Ueber ihr schweben zwei Engel, die eine Krone auf ihr Haupt senken. Oel auf Eichenholz. H. 48. B. 33. Alter Profilrahmen.
+
+## Jan Verkolje. Zugeschrieben
+
+Hollandisch,2. Halfte 17. Jahrh.
+
+- 253 Die Wachtstube. Soldaten sitzen und stehen um einen Tisch herum. Einige schlafen mit aufgestitzten Armen, andere liegen schlafend am Boden. Rechts in der Ecke Trommel und Fahne. Von links her schreitet gravitatisch ein Offizier in gelbem Koller und Federhut. Oel auf Eichenholz, parkettiert. H.58.B.82.Goldrahmen.
+
+## Vlamisch, 15. Jahrh.
+
+- 254 Kreuzigung Christi. Vorn wird Christus auf ein am Boden liegendes Kreuz genagelt. Rechts steht eine
+
+Schule des Dierk Bouts.
+
+- Gruppe von Soldnern und Juden mit den beiden Schachern. Links an einer Felswand die klagenden Frauen. Nach hinten offnet sich eine weite Berglandschaft mit dem tuirmereichen Jerusalem. Oel auf Eichenholz.H.68.B.46.Goldleiste.
+
+## Venezianisch, 16. Jahrh.
+
+- im Tanz.Daneben kleiner Faun.Landschaftshintergrund. Oel auf Leinwand.H. 88. B. 117.
+- 255 Tanzende Bacchanten. Zwei nackte Manner und eine leichtbekleidete tympanonschlagende junge Frau
+
+## Vlamisch um 1500
+
+- 256 Diptychon.Die beiden Felder zeigen,links:Madonna,stehend in blauem,golden gesaumtem Mantel, der auch den Kopf umhillt,die Hande betend erhoben.Hintergrund:Landschaft mit Felsen.Rechts: St. Johannes in rotem Kleid und gelbem Mantel. Hintergrund: Landschaft mit Baumen. Gotischer Profilrahmen in alter Goldfassung. Oel auf Eichenholz,parkettiert. H.29.B.23.
+
+## Schule von Verona um 1500
+
+- 257 Madonna mit Kind.Die Muttergottes steht in Halbfigur,rot und grun gekleidet,hinter einer Bristung, auf die sie das nackte Kind stitzt.Gepunzter Nimbus auf Goldgrund.Nach links und rechts hiniber Sicht auf Landschaft mit kleinen Architekturen.Oel auf Holz,parkettiert.H. 40.B. 31.Alter holzgeschnitzter Goldrahmen.
+
+## Vlamisch, I. Halfte 16. Jahrh.
+
+- 258 Thronende Maria mit dem Jesuskinde. Auf einem Throne, dessen hohe Lehne die Bildmitte nach hinten abschlieBt,sitzt die jugendliche Maria in dunkelrotem Kleide und hellrotem Mantel, das nackte Kind auf dem SchoBe haltend. Dieses greift nach einer Traube,die ihm ein von rechts herantretender Engel darbietet. Links ein Stifter mit Brille. Rechts hinten Stadtansicht mit groBer Kirche. Oel auf Eichenholz,parkettiert.H.107.B.75.Profilrahmen.
+
+Nachfolger des Quinten Massys.
+
+## Vlamischer Landschafter um 1600 und Hendrik van Balen (?)
+
+- durch die ein Weg fihrt.Links Waldgrund mit Sicht auf Dorf im Hintergrunde.Am Wegrand rechts sitzt die blau und rot gewandete Maria neben St. Joseph. Sie halt das Jesuskind auf dem SchoB, das mit dem kleinen Johannes tandelt. Links zwischen Blumenstrauchern zwei kleine Engel.Oel auf Eichenholz.H.49.B.63.Goldleiste.
+- 259 Bewaldete Landschaft mit Ruhe auf der Flucht. Grintonige, gelichtet stehende Baumgruppen rechts,
+
+Die Landschaft dirfte von einem Nachnahmer des Jan Breughel gemalt sein, Figurengruppe wohl von Hendrik van Balen. Abb.Taf.11.
+## Vlamischer Meister, I. Halfte 17. Jahrh.
+
+- 260 Die Liebhaber in der Gemaldegalerie. Warm beleuchteter Raum, der sein Licht von vorn und von einem Fenster in der rechten Seitenwand erhalt. An der rickwartigen Wand sieht man 15 verschiedene Gemalde hangen, die als minutios durchgefihrte Miniaturen nach bekannten Meistersind: Werke von Rubens (Pauli Bekehrung),J. de Momper, D. Vinckeboons, Claes Molenaer etc. Links an einem mit griner Spreite belegten Tische sitzen zwei vollbartige Herren in reicher pelzverbramter Zeittracht (angeblich Justus Lipsius und Frans Francken) und sprechen iber einen kunstvollen Globus, den der vorn Sitzende in den Handen halt. Hinter den beiden steht ein jingerer Her, der eine Mappe halt. Auf dem Tische liegt ein astronomisches Instrument, drei fein geschnittene Kameen und merkwirdige Naturalia. Auf einem zweiten Tische vorn rechts steht ein prachtiger BlumenstrauB in Vase. An der Wand rechts Buicher auf Tisch und im Regal. Auf einer geschnitzten Kredenz an der Bilderwand seltene Muscheln. Auf der Fillung der Kredenz Wappenschild:Springendes Pferd zwischen vier Diagonalkreuzen.Oel auf Leinwand. H.53.B.74.
+
+einer alten Uebermalung an der linken unteren Ecke scheint eine Schrift verborgen. Abb. Taf.5
+
+Ton und Durchfuhrung des meisterhaften Bildes erinnern lebhaft an Frans Francken Il. Unter
+
+## David Vinckeboons
+
+geb.1578 in Mecheln,gest.1629 in Amsterdam.
+
+- 261 Bewaldete Landschaft mit Staffage. Vordere Baumgruppen in der Mitte und an beiden Seiten lassen
+- den Blick frei auf grintonig gemalten Hintergrund mit See und Bewaldung. Rechts auf einem Wege der junge Tobias und der Engel. Oel auf Eichenholz. H.38. B. 56.Goldrahmen. Abb.Taf.11.
+- 262 Baumreiche Landschaft. Vorn zu beiden Seiten eines Weges rastende Bauern bei Marktvorraten und ein streitender Mann in Teufelslarve. Links hinten Haus unter Baumen. Rechts Turm und Hauser am Ufer eines Sees.Oel auf Eichenholz.H.49. B.64.
+- 263 Landschait mit Architekturen und reicher Staffage. Links hochstammiges Laubgeholz mit breitem sonnigen Weg. Auf diesem bewegt sich ein Jagerzug mit Hunden nach.hinten. Ein Jager laBt sich von einer Bauerin einen Becher Milch einschenken. Rechts Weiher, von Hausern umsaumt,mit Blick auf ein SchloB im Hintergrunde. Kleine Tier- und Menschenfiguren beleben den Mittelgrund. Oel auf Eichenholz. H.50.B. 67. Schwarzer Profilrahmen. Abb.Taf.9.
+
+## Vlamisch um 1600
+
+- 264 Landschait mit der Geschichte vom barmherzigen Samariter.Vorn links hebt der vom Pferde gestiegruppe rechts zu. Hinten Palastruine von See umgeben. Oel auf Eichenholz. H. 59. B. 85.
+
+## Vlamisch 16.Jahrh.
+
+unter dem EinfluB von Bassano.
+
+- 265 Der barmherzige Samariter verbindet vorn unter einer Baumgruppe den verwundeten Mann. Nach
+- rechts Blick in grintonige Landschaft.Oel auf Leinwand. H.49.B.59.
+
+## Art des Simon de Vlieger
+
+Hollandisch 17. Jahrh.
+
+- 266 Seestick im Silberton. Bewegte See,belebt von einzelnen bemannten Segelbarken und Ruderkahnen. Oel auf Eichenholz.H. 38. B. 51.
+
+## Vlamisch um 1600
+
+- 267 Baumreiche Landschaft mit Staffage. In der Mitte alte breitkronige Eiche. Rechts Hausergruppe. Davor zwei diskutierende Manner und drei Wanderer in farbigen Kostimen. Nach links blickt man in grintonige Higellandschaft mit Baumen und Kastell. Oel auf Eichenholz. H. 50. B. 65. Profilrahmen.
+
+## A.Voltan
+
+wohl deutscher Maler vom Ende des 18. Jahrh.
+
+- 268 Der Markusplatz von Venedig, belebt von zahlreichen farbig gekleideten Personen. Bezeichnet: A.
+- Voltan.Oel auf Pappe.H.24.B.35.Goldrahmen.
+## Vlamisch, 17. Jahrh.
+
+Nachfolger des P. P. Rubens.
+
+- 269,Tu es Petrus". Christus im Kreise seiner Jinger, den knieenden Petrus zum Fihrer der Jinger machend. Hintergrund palmenbewachsene Felsenwand mit Ruinen. Oel auf Leinwand. H. 60. B. 77. Alte Goldleiste.
+
+## Vlamisch, 16.Jahrh.
+
+- 270 Brustbild einer Frau in pelzverbramtem Kleid und weiBem Kopftuch.Oel auf Eichenholz.H. 43. B.32.Alter Eichenrahmen.
+- 271 Grintonige Landschaft mit Staffage. Im Mittelgrunde ein FluB,hinten ein Kastell zwischen Baumen. Vorn links Hirt und zwei Madchen.Kihe und Ziegen bewegen sich zerstreut im Vorder-und Mittelgrund. Oel auf Eichenholz.H. 44. B.58. Goldrahmen.
+
+## Vlamisch, Anfang 17. Jahrh.
+
+## Vlamisch, 17. Jahrh.
+
+- 272 Grablegung Christi. Die Leiche Christi wird von den farbig gekleideten heiligen Mannern und Frauen in das Felsengrab links getragen. Oel auf Kupfer. H. 43.B. 33. Brauner Profilrahmen.
+
+## Franz Anton Weib
+
+Minchener Maler,Ende 18. Jahrh.
+
+- 273 Bildnis des Weihbischofs Freiherrn von Werdenstein zu Freysing. Brustbild in reichem Ornat. Oel auf Holz.H.50.B.41.Profilrahmen.
+
+Auf der Rickseite Zettel von alter Hand mit Angaben iber den Maler und den Dargestelten.
+
+## Jacob de Wet II
+
+gest.1697 in Amsterdam.
+
+- 274 Darstellung Christi im Tempel. Vor einem Altar rechts der Hohepriester in reichem Ornat, das Kind auf den Armen haltend,davor die jugendliche Maria knieend, St.Joseph stehend,die Prophetin Hannah mit den Opfertauben. Umher Ministranten mit Kerzen und eine Reihe Zuschauer. Warmer Goldton. Oel auf Leinwand. H.68. B. 86.
+
+## Cornelis Claesz van Wieringen
+
+- 275 Kriegsflotte. Drei starkbemannte groBe Segelschiffe auf hoher, stirmisch bewegter See. Links vorn ein Segelkutter.Oel auf Eichenholz. H.33. B. 48. Goldrahmen.
+
+Haarlem 15801635.
+
+## Jan Wildens. Zugeschrieben
+
+- 276 Landschaft mit Hirten und Jagern. Links goldtonige Felspartie mit hohen Baumen. Vor den Felsen grasen eine Anzahl Ziegen, bewacht von zwei Hirten, dabei Jager mit zwei Hunden. Rechts erstreckt sich eine grintonige Hugellandschaft mit FluB. Oel auf Leinwand. H.65. B.94.
+
+Antwerpen 1586-1653.
+
+## Thomas Wyck
+
+- 277 Lustige Gesellschaft im Freien. Junge Manner und Madchen in italienischer Tracht gruppieren sich neben einer Strohhitte um drei musizierende Savoyarden,karessierend und zechend.Links schickt H.63.B.49.Flammleistenrahmen. Abb.Taf.6.
+
+Haarlem 1616-1677.
+
+## Unbekannter Maler um 1800
+
+- 278 Harem-Interieur. Sieben reichgekleidete tirkische Damen plaudernd und Handarbeit treibend. Oel
+
+## Unbekannte Maler
+
+- Kupfer.H.23.B.17.Geschnitztes Goldrahmchen.
+- auf Leinwand. H. 71.B.90.
+- 279 Madonnenkopf mit grinem Kopftuch, auf Goldgrund. Im Stil der byzantinischen Schule. Oel auf
+- :-:Fortsetzung siehe 3. Umschlagseite!::
+## Unbekannte Maler
+
+- 280 Bildnis eines firstlichen Herrn.Im Stil des 18. Jahrhunderts. Oel auf Leinwand. H. 84. B.64. Gold-
+- rahmen.
+- 281 Gebirgige Landschait mit Wasserfall und Ruinen. Oel auf Leinwand. H. 79. B. 100. Profilrahmen.
+- 282 Kruzifixus.Oel auf Eichenholz. H. 43. B. 30.
+- 283 Judith zeigt den Juden das Haupt des Holofernes. Oel auf Leinwand. H. 52. B.39.
+- 285 Christuskopf. Die Rechte im Redegestus erhoben. Rund. Oel auf Eichenholz. Dm.47. Goldrahmen.
+- 284 Betende Madonna. Halbfigur. Oel auf Leinwand. H.46. B.35. Gerahmt.
+- 287 Der Trinker. LebensgroBe Halbfigur eines Mannes mit Federbarett, Henkelkrug haltend. Oel auf
+- Leinwand. H. 80.B.63. Profilrahmen.
+- 288 GroBe Parklandschaft mit Kostimfiguren. Oel auf Leinwand. H. 110. B. 140.
+- Gerahmt.
+- 289 Kleine italienische FluBlandschait mit Hausern und Tierstaffage. Oel auf Leinwand. H. 22. B. 30.
+- 290 Madonna mit dem Jesuskinde.Oval. Oel auf Leinwand.H.39. B. 30.Gerahmt.

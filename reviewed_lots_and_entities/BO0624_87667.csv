@@ -1,0 +1,4 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_87667,369247,1,I,"n einer Felsengrotte am Meere die von TheseusverlasseneAriadne,welcher Bacchus seine Liebe gesteht.Satyren,Nymphen und Amoretten umgeben das Paar. H.340cm.B.300cm.G.R.",13,99.7,False,positional,,,Olgemalde,,
+BO0624_87667,369248,2,109,cm.,32,57.1,False,positional,,,Kohlenbecken,,
+BO0624_87667,369249,3,I,"talienischer Renaissance-Kandelaber, holzgeschnitzt, yergoldetund bemalt.Dreiteiliger Sockel,von Grotesken flankiert, mit reich profiliertem Schaft und korinthischem Kapital.Hohe 171cm.",41,99.7,False,title_direct,,,Kandelaber,,

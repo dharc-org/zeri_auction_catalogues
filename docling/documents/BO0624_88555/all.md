@@ -1,0 +1,1473 @@
+## DIENSTAG,VORMITTAGS 10 UHR.
+
+## WILHELM ALTHEIM ,Frankfurt a.M.
+
+- Am Schanktisch. Ein Fuhrmann in geficktem Rodk und Hose steht 1 mit breitrandigem Hut am Shanktisch und halt in der Linken ein Glas.
+- Rechts unten bezeicbnet:W. Altheim. Kreide43/28
+
+## AUGUSTE P.CH.ANASTASI t,Paris.
+
+- Rue d'Andresy. Am Ende der shmalen, mit unbehauenen Steinen gepflasterten Gasse blickt man uber ein kleines Studk des Flusses auf das jenseitige pappelbestandene Ufer. Holz30/24
+
+Auf der Rickseite: Stempel der Vente Anastasi 1873.
+
+## ANDERS ANDERSEN-LUNDBy,Munhen.
+
+- 3 Motiv aus AIt=Munchen. Unter dem bewolkten Himmel mit der klaren Scheibe des Vollmonds liegen die kleinen Hauschen mit ver= schneiten Dachern an der Strabe. Warmes Lampenlidt leuhtet aus den Fenstern. Leinwand23,5/28
+
+Links unten bezeicbnet:A.Andersen-Lundby.
+
+## AQUARELLIST,Ende des 18. Jahrh.
+
+- 4 Hafenansicht in den Dardanellen.Blidk auf die Einfahrt,rechts phan= tastische Stadt, links Festungswerke. Das Wasser ist belebt mit Shiffen und rudkwarts von Bergen abgeschlossen. Aquarell 29/38
+
+## PAUL BECKERT,Cronberg.
+
+- Aufbahrung Kaiser Wilhelms I.im Dom zu Berlin. Von hohen Kerzenleuchtern und den Insignien seiner Wurde umgeben,liegt in dem mit rotem Plusch benagelten Sarge in voller Uniform der Kaiser. Zahl Holz39,5/54
+- reiche prachtvolle Kranze decken den Vordergrund. Recbts unten bezeicbnet:Paul Beckert,Berlin.
+
+## ANDREAS ACHENBACH t,Dusseldorf.
+
+- 6 Kustenlandshaft im Mondshein. An der Kuste mit steil ansteigen= den,kahlen Bergwanden ist ein Shiff gestrandet und in Brand geraten. Die leichtbewegte See ist von den Flammen und dem zwischen den dunklen Wolken durcbrehenden Mondlict beleuchtet.
+
+Rechts unten bezeicbnet:A.Acbenbacb 1841.
+
+Leinwand 43/62
+
+<!-- image -->
+## JULIUS ADAM t,Munchen.
+
+- 7 Katzenstudie. Auf einer Kiste sitzt eine graugestreifte Tigerkatze und hat ihre Vorderpfoten auf ein hochstehendes Brett gelegt. Sie blidkt gespannt nach der eintonig grauen Wand, auf der sie etwas interessiert belauert. Leinwand 48/32,5
+
+Recbts unten bezeicbnet:J. Adam 1892.
+
+## ALEXANDER ADRIAENSSEN1587-1661,Antwerpen.
+
+- 8 Fish=Stilleben. Auf einem Tish liegt in der Mitte eine Scussel mit einem Karpfen; links daneben zwei Krabben. Rechts shiebt sich ein zweiter Tish mit Fischen und Austern vor. Uber diesem und vor dem &lt;parallel zur Bildflache aufgestellten ersten Tisch&gt; erscheint der Kopf einer Katze, die gierig nach den Fishen hinsieht. Hintergrund dunkel grune Wand. Tisch und Shussel zeigen braune Tone, die Farben der Fische gehen ins Grunlice uber. Holz42/57
+
+Bezeichnet links am Tiscb: Alex. Adriaenssen.fecit.
+
+## PIETER AERTSEN1508-1575,Amsterdam&lt;Art).
+
+- 9 Vorbereitungen zur Mahlzeit. Ein Mann und eine Frau stehen in einer Kuhe hinter einem reihlich mit EBwaren belegten Tisd.Beide hantieren eifrigst,eng hintereinanderstehend,nach vershiedenen Seiten gewandt. Links eine Bank,ein Kamin, Bretter mit Geschirr. Rehts rudkwarts Blidk in einen um drei Stufen erhohten, durh einen Vorhang nach vorn abgeshlossenen Raum;hier tafelt eine elegante Gesellschaft. Harte Farbkontraste, rotliches Inkarnat. Holz 16,5/37
+
+## NIKOLASBERCHEM 1620-1683,Amsterdam(Art&gt;.
+
+- 10 Viehherde an der Tranke. Eine Reihe verschiedener Tiere sind von zwei Fuhrern an das Wasser getrieben. Die Tiere bilden eine enge Gruppe, die den ganzen Vordergrund einnimmt. Dahinter Baume und Ausblicdk auf ein Dorf. Leinwand 31/40
+
+Nacbgedunkelt und vielfacb ubermalt.
+
+## CAMILLE BERNIER ,Paris.
+
+- 11 Bretonische Landscaft.Auf der herbstlich gefarbten Wiesenflace steht im Vordergrund ein Hirte mit zwei weidenden Kuhen. Links dichtes, dunkelgrunes LInterholz, das von einzelnen braunbelaubten Baumen uberragt wird. Graubewolkter Himmel. Leinwand 40/62 Links unten bezeicbnet: C. Bernier.
+## ALESSANDRO ALLORI1535-1607,Florenz
+
+seit 157Z 《Alessandro Bronzino Allori&gt; genannt.
+
+- 12 Bildnis eines Architekten. Lebensgrobe Kniefigur. Der Architekt steht, rechts, auf den er die linke Hand mit okerfarbigen Handscuhen auf
+- nah links gewendet, hinter einem mit rotbrauner Deke belegten Tish stutzt.Auf dem Tish liegen Mebinstrumente,Festungsplane,Noten und eine Mandoline. Hintergrund Zimmerwand mit Fensterausschnitt. Blidk auf eine Strabe mit der Trajanssaule und einer Kircenkuppel(San Lorenzo). Durch die Strabe zieht eine Prozession, wahrend ein Kardinal von seinem Wagen aus zusieht. Der Ausblicdk ist im Gegensatz zu dem Shwarz der Wand und der Kleidung in farbigem Braun gehalten und antwortet damit auf die im Tish angeschlagene Farbigkeit.
+
+Die Komposition des Bildes, die fast den ganzen Korper des Darge= stellten in das Bild hineinnimmt, Beruf und Umgebung harakterisiert, sowie die besondere farbige Behandlung und Modellierung der Form kennzeichnen die Kunstlerhand Bronzinos. Leinwand133/94
+
+Gutachten von Professor Angelo Perelli.Das Bild gilt traditionell als Portrat des Baumeisters Antonio II.San Gallo.
+
+Abbildung Tafel II
+
+## JEAN VICTOR BERTIN t,Paris.
+
+- 13 Klassishe Landscaft. In einem bewaldeten FluBtal, das links ruk= zwei weibliche Gestalten Bluten von Strauchern.
+- warts durch phantastischen Felsberg abgeschlossen wird, liegt im Mittel= grund am linken Ufer des Wasserlaufs ein weitlaufiges, villenartiges Gebaude. Im Vordergrund auf einem Weg des rechten Ufers pfluden Leinwand38/46 Charakteristische Arbeit des zu seinerZeit als Grinderder klassischen Ridbtung der franzosiscben Malerei angesehenen Kinstlers.
+
+## A.BERTZIK,Munhen.
+
+- 14 Madchenbildnis. Brustbild eines kleinen Maddens in altdeutscher Tracht und Schmudk, das blonde Kopfhen mit grobem Federhut nah rehts gewandt.Landshaflicher Hintergrund. Holz26,5/21,5 Rechts unten bezeichnet:A. Bertzik.
+
+## ARNOLD BOCKLIN ,Fiesole.
+
+- 15 Villa am Meer. Auf einem in das Wasser hinausragenden Felsvor= sprung steht die von schlanken Saulen getragene Loggia einer italienischen Villa, auf deren Balustrade zwei Skulpturen stehen. Eine Gruppe Cy= pressenbaume ragt in den Himmel. Leinwand141/69 Links unten bezeicbnet:A.B. Provenienzen des Bildes bekannt.
+
+Abbildung Tafel XVI
+
+<!-- image -->
+## LEOPOLD BODE t,Frankfurt a.M.
+
+- 16 Muter mit Kind. Auf einer Bank neben dem Fenster links, vor dem eine Blumenvase steht, sitzt eine junge Frau in altdeutscher Tracht und bewacht den Sclaf des Kindes, das in ihrem ShoBe liegt. Neben ihr ein Arbeitskorb mit Dedke,Wollknauel und Shere,rechts in einer Fenster nishe ein Tisch mit Kannen und Tassen. Leinwand 80/57
+
+Recbts unten bezeicbnet: Leop. Bode.
+
+## MAURICE BOMPARD,Paris.
+
+- 17 Algerisce Dorfstrabe. Vor dem sudlic-blauen Himmel als Hinter= grund stehen die eintonigen,hellen Hauser,zwishen denen auf der Strabe Eingeborene und spielende Kinder. Rechts breitblaterige Kaktusbusche. Links unten Widmung und bezeicbnet:M.Bompard.Leinw.27/35
+
+## BONIFAZIO-VERONESEd.Ae.,1540,Venedig
+
+- 18 8Anbetung des Kindes. Um das auf dem ShoB der Maria gebettete, shlafende Kind gruppieren sih rechts Josef, eine Heilige und Johannes. (Halbfiguren.&gt; Die linke Seite wird von der sitzenden Gestalt Marias eingenommen.Hintergrund Gebirgslandshaft in dunklem Braun. Maria tragt uber rotem Gewand blauen Mantel und altgoldenes Kopftuh. Josef und die Heilige tragen dunkelrote und graulila Gewander. Die Gesichtsfarbe ist rotlichgelb, nur das Inkarnat des Kindes leuchtet in hellerem Gelb, das durch das Weib des Tuhes, worauf es ruht, gehoben
+- wird. Leinwand 120/135
+
+## FRANCOIS BONVIN t,St.Germain=en-Laye.
+
+- 19 Mutter mit Kind. In Zimmer, in dessen Hintergrund ein Kinderbett sitzt neben einem kleinen Tishchen eine junge Frau in violetem Kleid und sagt ihrem Kind, das sie auf dem Shob halt, ein Gebet vor.
+
+Holz25/16
+
+## EUGENE BOUDIN t,Paris.
+
+- 20 Marine. Nahe dem Strand, auf dem eine Gruppe Fischer, liegen zwolf Segelkutter mit zum Teil hochgezogenen Segeln oder aufgespannten Netzen. Einformig grauer Himmel. Leinwand31/46
+
+Rechts unten bezeicbnet: E. Boudin 64.
+
+Abbildung Tafel XIlI
+- 25
+
+## EUGEN BRACHT t,Darmstadt.
+
+- Monte Rosa und Arve Op. 1841). In den tiefblauen Himmel mit leihten Windwolken ragen zwei windzerzauste Fohren, die in dem steinigen Untergrund einer nach rechts ansteigenden Erhebung wurzeln. An dieser ziehen auf einem Weg zwei Maultiertreiber mit ihren Tieren. Links ragt der Shneegipfel des Monte Rosa hervor. Leinwand 100/120
+- 21 Rechts.unten bezeichnet:Eugen Bracbt 1920.
+
+## RICHARD BRAKENBURGH1650-1702(Art),Haarlem.
+
+- Bauernschlagerei vor einem Wirtshause. Die erregten Bauerngruppen
+- 22 nehmen, diht aufeinandergedrangt, den ganzen Vordergrund ein. In der Mitte spielt sid der Zweikampf ab. Ringsum sitzen die Zuschauer an Tischen. Dahinter erscheinen einzelne Gruppen aus groberer Entfernung gesehen. Rehts ein Wirtshaus mit Baumen, links ein ragender Baum. Dazwishen Durhblidk auf den Himmel.Dunkle Farben,bei den Figuren mit Lichtern aufgehellt. Leinwand33/39
+
+Charakteristisch die Anlehnung an Adriaen van Ostade.
+
+## JACQUES RAyMOND BRASCASSAT t,Paris.
+
+- 23 Kuh.Vor einem leiht angedeuteten bewaldeten Hintergrund steht auf einem Wiesenweg eine braun und weibgefledkte Kuh in Seitenansicht. Das Bild kommt der Arbeit des Kunstlers im Louvre an Qualitat gleich.
+
+Leinwand46/55
+
+AbbildungTafel XVII
+
+Gutacbten von Georges Sortais,Paris.
+
+## AUGUST BROMEIS t,Cassel.
+
+- 24 Sommerlandschaft. Von der Mitte des Bildes zieht sich ein aus einem Waldstudk kommender Weg zum Vordergrund und trennt die Wiese links von einem Feldstudk, das sich leicht ansteigend nach rechts zieht. Vor diesem treibt ein Gansejunge seine Tiere uber den Weg zu einer Hirtin, die im Vordergrund eine Kuh und ein Kalb weiden labt. Links
+- von den hohen Baumen einzelne Hauser im Wiesental.
+
+Links unten bezeicdbnet:A.Bromeis,Ddf.1866. Leinwand 87/124
+
+## ANTON BURGER t, Cronberg.
+
+- Hauser am FluB. An dem linken Ufer des Wasserlaufs mit Segel und Ruderbooten in der rechten Bildhalfte,eine Reihe Fisherhauser,von deren eintonigem Grau und Braun sih das junge Laub einzelner Baume abhebt. Auf dem sparlichen Rasen vor dem vordersten Haus steht ein Reiter mit
+
+<!-- image -->
+- einem zweiten Pferd in Unterhaltung mit einer Frau mit Kind. In dem blauen Wasser des Flusses spiegeln sich die dichten,rosa getonten Wolken. Links unten bezeicbnet:A.Burger 95. Leinwand 45/72
+- 26 Im Wirtshaus. In der Wirtsstube sitzen neben dem Ofen vier Bauern mit ihren Pfeifen in der Hand und wenden sidh zu dem soeben einge= tretenen, mit Shnee bededkten Fuhrmann. Die junge Wirtin am Shank tish links begrubt freundlich den Neuankommling. Links vorn ein Tish mit Aepfelweinglas und Krug. Leinwand 26/38 Links unten bezeicbnet:A. Burger 76. Abbildung Tafel XXVII
+
+## HERMANN BURGHART t,Dobling bei Wien.
+
+- 27 Landshaft.Auf dem Weg, der neben einem reibenden Bach dem Vorder= grund zufuhrt, ein Reiter. Im Hintergrund ein Bergzug, den die Strahlen der durchbrechenden Sonne beleuchten. Leinwand auf Karton Z4/30,5 Rechts unten bezeicbnet: H. Burghart.
+
+## F.BURKART , Moskau.
+
+- 28 Sumpflandshaft. Zwischen jungem Birkenwald, der im Vordergrund in Ebene ubergeht,shilfbewachsenes, sumpfiges Gelande. Graubewolkter Himmel. Leinwand 32/40
+
+Recbts unten bezeichnet:F.Burkart 94.
+
+- 29 Russishe Winterlandscaff.Duh eine de,verschneite Steppenland schaft fahrt auf aufgeweichtem Weg ein Shliten. Rechts drei Bauern= hauser und einzelne Baume. Leinwand 29/40
+
+Rechts unten bezeicbnet:F. Burkart 94.
+
+## HEINRICH BuRKEL t, Munhen.
+
+- 30 Vor der Sheune. In einer oberbayrishen Landschaft steht rechts am Feldweg eine Sheune, vor der ein Heuwagen halt. Der Bauer ladt, auf dem Wagen stehend, das Heu in die Sheuer.Drei abgeschirrte Pferde stehen an dem Wassertrog. Links Blidk uber die Ebene auf das Vor= gebirge.Leiht bewolkter Sommerhimmel. Holz24/32,5 Links unten bezeicbnet:H.Burkel 1839 Mincben. Abb.Tafel XX
+
+## PETER BURNITZ t,Frankfurt a.M.
+
+- 31 Bauernhaus. An einem Feldweg, der rudkwarts in eine Wiese uber= geht, steht links in einem Obstgarten die Sceuer eines Bauernhauses. Das Hausdah wird von der Spitze eines Bergkegels uberragt. Rechts am Wegrain Baume in einer Wiese. Leinwand54/70
+
+Rechts unten bezeicbnet: Burnitz.
+
+Abbildung Tafel XXVI
+- 35
+
+## GUSTAV CANTON t,Munhen.
+
+- 32 In der Campagna. In der ebenen romischen Landschaf ziehen Bauern mit ihren Karren, Hirten mit Herden und Landleute mit Lasten auf einer breiten Strabe dem Vordergrund zu. Links steht ein Priester neben einer jungen Frau und laBt den Zug an sich vorbeiziehen. Dunkle Regenwolken ziehen nah rechts ab. Rudkwarts Blick uber die von der Sonne beleuchtete Ebene, die im Hintergrund von einem Gebirgszug begrenzt wird. Holz 36/61
+
+Rechts unten bezeicbnet: G. Canton.
+
+Abbildung Tafel XXV
+
+## ROSALBACARRIERA16751757,Venedig.
+
+- 33 Apostel. Der Heilige ist in Halbfigur dargestellt, der Kopf drei viertel nah rechts verzudkt in die Hohe gehoben. Mit der linken Hand preBt er den Zipfel seines braunen Mantels an die Brust. Unter dem Mantel tragt er ein ockergelbes Gewand. Hintergrund graublau, den Himmel andeutend. Kopf und Hals sind stark modelliert, die Shatten gehen ins Graue und Rotlice; die Lichtpartien sind rosa, der Bart zeigt grunlich braune Farben.
+
+Das Bild gilt traditionell als ein Werk der Rosalba Carriera und soll an= geblich aus der Sammlung des Lord Calvill stammen. Auf der Ruckseite Kohlenzeichnung: Jungling, der einen Lowen bandigt.
+
+Rechts unten bezeicbnet. Rosalba 173o.
+
+Pastell 50/44
+
+## PAUL CHAIGNEAU,Paris.
+
+- 34 Landschaft mit Shafherde. An einem kleinen Tumpel in Wiesen= landschaft steht ein Hirte mit seinen Shafen. Dichte Wolken an dem lebhaft gefarbten Abendhimmel lagern uber dem dunklen Waldstreifen, der die Landschaft im Hintergrund begrenzt. Leinwand33/41
+
+Links unten bezeicbnet: Paul Chaigneau.
+
+## ANDREASJOSEFCHANDELLE1743-1820, Frankfurt a.M.
+
+- Soldaten in einem Dorf. Um einen Reiter, der in die Trompete stoBt, gruppieren sich in der Mitte zwei andere, die neben ihren Pferden stehen. Redts schlieben sich weitere Gruppen von Soldaten und Bauern an. Hinter diesen eine Hausergruppe. Links geht das Gelande in die Tiefe. Pastell 27/40
+
+Bezeicbnetes Werk des Franfurter Pastellmalers, der mit Vorliebe, wie aucb in diesem Falle,nacb niederlandischen Kinstlern kopierte. Rechts unten bezeicbnet:A.J. Chandelle 1815.
+## CHARLES CHAPLIN t,Paris.
+
+- 36 Frauenbildnis. Von dem dunkelbraunen Hintergrund hebt sid das rosa Inkarnat des Brustbildes eines blonden jungen Madhens ab, um dessen Hals ein weibes Tuch liegt. Leinwand35/27 Links unten bezeichnet: Ch. Chaplin.
+
+## RENE CHRETIEN,Paris.
+
+- 37 Stilleben. An grunlihbrauner Wand ist ein Hase aufgehangt, dessen Kopf und Vorderlaufe auf einer Steinplate liegen; davor zwei Zwiebeln. Links unten bezeidbnet: R. Chretien. Leinwand55/44
+
+## JOHN CONSTABLE , London (zugeschrieben).
+
+- 38 Landshaft mit Bauernhaus. An einem sonnenbeschienenen Weg, uber den von rechts die Aste eines breiten Baumes hangen, steht ein hohgiebeliges kleines Haus, an das sidh links der Gartenzaun anschlieBt. Bewolkter Himmel. Karton 33/25
+
+## TITO CONTI,Florenz.
+
+- 39Die Lautenspielerin. In einem Armlehnsessel neben Tish mit roter Decke sitzt eine junge Dame in gelbem Atlaskleid und halt eine Laute in den Handen. Den Hintergrund bildet eine gobelinbespannte Wand. Links unten bezeichnet, Tito Conti. Leinwand 36/25,5
+
+## LOVIS CORINTH,Berlin.
+
+- 40 Bildnis des Malers Paul Gorge. Brustbild mit dunklem Rodk und heller Weste vor gruner Wand, an der Arbeiten des Kunstlers stehen. Aus dem rotlichen Gesicht mit Spitz= und Shnurrbart und hoher Stirne schauen die grauen Augen mit verschleiertem Blidk heraus. Der rechte Oberarm ist aufgestutzt, die beiden Hande vor der Brust verschrankt. Leinwand 81/65,5
+
+Redhts oben bezeicbnet: Lovis Corinth pinxit 19o8 Paul Gorge dAnvers. Abbildung Tafel XVIII
+
+- 41 Waldinneres. Zwishen den Stammen der Nadelbaume wadst hohes Gras. Helle Sonnenfledken fallen auf die Stamme und die Grasflahe. Den Hintergrund bildet das Laubwerk des dichten Unterholzes, so daB von dem hellen Himmel nur links oben ein Stuck sichtbar ist.
+
+Links unten bezeicbnet:Lovis.Corinth 1917.
+
+Leinw.88/60,5
+## J.B.CAMILLE COROT t,Paris.
+
+- Civita Castellana.Pic rocheux. Steile Felsen ragen spitz in den hell blauen Himmel. Grune Straucher klammern sich an das lehmbraune, Leinwand25,5/20,5
+- 42 nackte Gestein.
+
+Abgebildet in Katalog Robaut unter Nr.174.
+
+Collection Emile Duhousset.
+
+## GUSTAVE COURBET t,La Tour de Peilz.
+
+- 43 An der nordfranzosiscen Kuste. Auf dem felsigen Gestade des Vor dergrundes liegen zwei Fischerboote. Rechts ragen verschiedene hohe Felsvorsprunge in das Meer, das in einer weiten, dunkelgrunen Flace vor dem Beschauer liegt. Der dunkelblaue Himmel scheint an ver= schiedenen Stellen durh das dichte, graue Gewolk.Leinwand 50/60 Rechts unten bezeicbnet: G.C. Abbildung Tafel XIV
+
+## LEON PHILIBERT COUTURIER t,St.Quentin.
+
+- 44 Bauernhof. Vor der Sheune neben dem Tranktrog ein Heuhaufen, auf dem zahlreiches Geflugel, Hahne mit ihren Hennen, Enten, Perlhuhner und Kudken. Links im Hintergrund die Hofmauer mit Tur. Leidtbe=
+- wolkter Sommerhimmel. Leinwand65/92
+
+Links unten bezeicbnet:Ph. Couturier.
+
+## EMILE CHARLES DAMERON t,Paris.
+
+- 45 Landscaft bei Antibes. Blick in einen Segelboothafen mit zahlreichen Shiffen, der von bewaldetem Ufer eingefabt ist. Am Ende des Hafens die freundlichen Sommerhauser mit roten Dahern. Leinwand32/47
+
+Links unten bezeicbnet: E. Dameron.
+
+## EMMANUELDAMOyE t,Paris.
+
+- 46 Am See=Ulfer. Auf dem braunen Sand des Ufers im Vordergrund zwei junge Bauerinnen beim Waschen. Dahinter Baumgruppe, unter der ein Kahn festgelegt ist. Ueber die leichte Anhohe rechts ragt das Dah des Bauernhauses.Links uber der leise bewegten Wasserflache
+- bewaldetes Ufer.Grau bewolkter Abendhimmel. Holz45/73
+
+Recbts unten bezeicdbnet:E. Damoye 75.
+
+Typiscbe Arbeit des als einen der bedeutendsten Dertreter der mo=
+
+dernen Landschaftsmalerei in Frankreid anzusprecbenden Kinstlers.
+
+Abbildung Tafel XV
+## CHARLES FRANCOIS DAUBIGNY tParis.
+
+- 47 Don Quixote's Kampf mit dem Lowen. In romantischer Land= schaft steht auf dem Weg vor einer Piniengruppe ein Wagen. Aus dessen geoffneter Tur blidkt das Raubtier mit gefletschten Zahnen auf den von links sich nahernden Helden. Rudkwarts fliehen die Fuhrleute und Sancho Pansa auf Eseln einen ansteigenden Weg entlang nach einer Berghohe,auf der die Ruinen eines spanischen Palastes. Leinw. 99/81 Rechts unten bezeicbnet:Daubiguy.
+
+Aus der Sammlung deChaume. Mit Gutadhten von Georges Sortais. Abbildung Tafel XVI
+
+## CH.FRANCOIS DAUBIGNy (zugeschrieben).
+
+- 48 8 FluBlandshaft. An dem von hohen Baumen beschatteten Ufer des Vordergrundes eine Wascherin am Wasser. Rudkwarts zieht sih das leidht ansteigende Gelande in einem Bogen um den FluBlauf. Leidht ge= tonter Abendhimmel. Leinwand38/55
+
+Rechts unten bezeichnet:D.
+
+## HONORE DAUMIER t,Valmondois.
+
+- 49 Studienkopfe. Im Vordergrund des Bildes die Skizze, vermutlich zu einem Anwaltskopf, dahinter Herrenkopfe mit Zylinder.
+
+Rechts unten bezeicbnet:D.
+
+Leinwand 11,5/15
+
+## ALEXANDRE GABRIEL DECAMPS t,Fontainebleau
+
+- 50 Italienischer Hirtenknabe. Auf einem sesselartigen Felsstucdk sitzt der Knabe mit zerrissener Kleidung auf einer Berghohe, von der aus weiter Blick in gebirgige Ebene. Blauer Himmel.
+
+Unten Monogramm D C.
+
+Leinwand25/26
+
+## ALEXANDRE DEFAUX t,Paris.
+
+- 51 Huhner. Vor der Hausmauer auf Stroh steht ein Kafig, aus dem die Gludke angstlidh ihre Kudken lodt. Auf dem Kafig, auf dem ein blaues Tudh liegt, steht krahend der Hahn. Links Huhner am Futernapf.
+
+Rechts unten bezeicbnet: A. Defaux.
+
+Leinwand23/41
+
+## EDGAR DEGAS t,Paris.
+
+- 52 Haus am Meeresstrand. Zwischen der grunen Weideflade des Vordergrundes und dem blauen Meer liegt ein Hauschen am Strand. Auf der blauen Wasserflache unter graubewolktem Himmel ein Segel= boot. Leinwand23/31,5
+
+Collection Edgar Degas deuxieme Vente No. 34.
+## EUGENE DELACROIX t,Paris.
+
+- 53 Zwei kampfende Pferde.Vor gegenstandlid nidt fabbarem einfacem Hintergrund baumen sid die beiden Pferde in erbitertem Kampf sich gegenseitig beibend. Das Bild ist braun in braun gehalten. Es stelt eine Gruppe aus dem Bilde Chevaux se batant'von Delacroix im Louvre dar. Leinwand 40/46
+
+Bezeichnet rechts unten: Eug. Delacroix.
+
+## AUGUSTE DERAIN,Paris.
+
+- 54 Landschaft. Eine glatte,blaue Wasserflahe ist eingeschlossen von grun
+- und rostbraun gefarbten Baumen, die nach rudkwarts in violette Bergzuge ubergehen. Rosa und rote Abendwolken am blauen Himmel.
+
+Leinwand21,5/30
+
+## DEUTSCHER BAROCKMEISTER.
+
+- 55 Monch mit Buh. Vor einer Saule steht ein Monh Halbfigur), die eine Hand auf ein stehendes aufgeschlagenes Buh legend, die andere Hand erhoben. Leinwand57/44
+- 56 Mond mit Fahne. Ein Monh halt uber seinem Arm eine Fahne, auf deren Innenseite eine Madonna aufgemalt ist, die er liebevoll betrachtet, wahrend er mit der anderen Hand den Rosenkranz halt. Grauer Wolken himmel. Leinwand57/44
+
+Gegenstuck zum Vorigen
+
+## DEUTSCHER MEISTER,XVI. Jahrhundert.
+
+&lt;Cranach EinfluB&gt;
+
+- 57 Beweinung Christi. In zwei Reihen hintereinander gruppieren sid die Klagenden um den ganz vornen liegenden, vom Kreuze herunter ge= nommenen Christus.S Sein Oberkorper wird von dem links hinter ihm knieenden Mann aufgerichtet. Sein linker Arm wird rechts von Maria und einem Klagenden gefaBt.Die Frauen dahinter heben klagend die Hande und Johannes betrachtet wehmutig die Dornenkrone. Hintergrund grauer Himmel, unterbrochen von dem Kreuz links und dem Blidk auf eine Stadt rechts. Das Bild ist niht einheitlich gemalt. Kopf und Gewand der Magdalena zeigen Anklange an Lucas Cranach, die auh in dem Kopf der darunter stehenden Frau spurbar sind. An anderen Stellen des interessanten Bildes findet sich eine weichere verscwommene Malweise, die auf die Hand eines jungeren Kunstlers schlieben laBt.
+
+Mit Gutachten von Geheimrat Friedlander, der die Vermutung aus= spricht, daB die Tafel vielleicht unfertig aus der Werkstatt Cranachs hervorgegangen und von einem jungeren Meister vollendet sein konnte.
+
+Holz73/58
+## DEUTSCHER MEISTER des 19. Jahrhunderts.
+
+- 58 Heilige Familie. Am Fube eines didken Baumstammes links sitzt Maria und halt den Jesusknaben auf ihrem Scob. Durh ein Kornfeld kommt von rudkwarts Josef mit der Axt uber der Schulter. Im Hinter= grund Landschaft mit Wasser und Haus. Leinwand 28/33
+
+## VIRGILIO NARCISSE DIAZ DE LA PENA t,Mentone.
+
+- 59 Abend im Walde von Fontainebleau. Auf dem Weg, der durh eine Wiese mit groBen Steinen fuhrt, geht eine Frau mit rotem Rodk und Kopftuch dem Vordergrund zu.Der lebhaft gefarbte Abendhimmel leuchtet uber und zwiscen den Baumen des Horizonts hindurch.
+
+Links unten bezeichnet:V. Diaz 35.
+
+Leinwand 49/69 Abbildung Tafel XVII
+
+## WILHELMVON DIEZ,Munhen.
+
+- 60 Fruhstuckspause. Auf dem Felde sitzt der Bauer auf dem mit Pferd und Ohsen bespannten Pflug.Vor ihm steht die Bauerin, die ihm das Essen gebracht hat. Rudkwarts Waldrand am Ende einer Wiese. Grau= bewolkter Himmel. Holz20/27
+
+Rechts unten bezeicbet: Wilh.v. Dietz.
+
+Abbildung Tafel XX
+
+## JOHANNA DILL-MALBURG,KarIsruhe.
+
+- 61 Parkeingang. In der hellen Parkmauer, uber die hohe Baume ragen, ein blaues Tor, durch das der Weg nah dem Hintergrund zu fuhrt. Davor eine Nonne. Leinwand75/96
+
+Rechts unten bezeicbnet: J. Dill-Malburg.
+
+## CARLO DOLCI 1616-1686,Florenz(zugeshrieben).
+
+- 62 Christuskopf mit Dornenkrone en face auf dunkelgrunem einfarbigem Hintergrund. Die Farben des Gesichts sind gelblih-braun mit grunen Schatten. Holz 12/13
+
+Die Zuschreibung an Dolci beruht auf Uberlieferung.
+
+## JOHANN JAKOB DORNER t,Munchen.
+
+- 63 Waldinneres.Blidk in einen dihtbelaubten Buhenwald mit didken,alten Stammen, zwishen denen sidh zwei Wege hinziehen.
+
+Leinwand28/27,5
+
+Gutachten von Prof. UIhde-Bernays.
+
+## Bezeichnet:G.DOU.
+
+- 64 Alter Mann. Hinter einem Tisch mit roter Dedke sitzt ein bartiger alter Mann, der gerade aufblidkt. Seine rechte Hand liegt auf einem vor ihm aufgeschlagenen Folianten.Dunkelbrauner Hintergrund,vor dem die Figur in helleren Farben aufleuchtet. Holz21/16 Links unten bezeicbnet: G.Dou.
+## GASPARD DUGHET(G.Poussin&gt;1613-1675,Rom(Art)
+
+- 66 Der Blitzstrahl. Dustere Waldlandschaft mit schweren Baumen und fahl beleuchteten Hausern. Im Vordergrund neben einem vom Blitz getroffenen Baum ein Wagen mit Menschen beladen, die sih erschredkt verstedken. Die Kuhe, die den Wagen ziehen, sind zu Boden gefallen, ebenso vor ihnen ein Madhen. Andere Hirten eilen davon. Dunkle Farben.
+- 65 Waldlandshaft.In einer dusteren Waldlandschaft lagern im Vorder grund zwishen Farnen und Buschwerk aller Art zwei mythologische Gestalten begleitet von Amoretten als Staffage. Ein Teich,eine Ruine, shwer und breit in die Hohe ragende Baume vervollkommnen das Bild des dusteren, dunkelgrunen Waldes, der nur zum Teil den Blidk auf den ab und zu grell aufleuhtenden Himmel freilabt. Leinwand56/68,5
+
+Leinwand79/100
+
+## HERMANN DUMLER,Frankfurt a.M.
+
+- 67 Wiesenlandshaft. In einer leichtgewellten,weiten Landschaf,in der sidh von der Mitte aus nah dem Hintergrund dihte Walder ziehen, pfludkt im Vordergrund ein junges Madden Blumen in einer Wiese. Leihtbewolkter Sommerhimmel. Holz75,5/71
+
+Links unten monogr.: H.D.19o8.
+
+## ALBERT DUPRAT,Venedig
+
+Recbts unten beseidbnet: A.Duprat.
+
+- 68 Der Hafen von La Rochelle.In der Hafeneinfahrt, die rechts durch Gebaude mit Turm, links von Lagerhausern begrenzt ist, verschiedene grobe Dampfer und Segelschiffe. Im dunstigen Hintergrund die ver= shwommenen Umrisse von Lagerhausern, Krahnen usw. Bewolkter, blauer Himmel. Leinwand46,5/65
+
+## VICTOR DUPRE t,Paris.
+
+- 69 die Ebene am Horizont in eine mabige Bergkette ubergeht.
+- Kuhe an der Tranke. An einem Wasser des Vordergrundes, an dessen Ufer links ein Baum mit weitausladenden Asten den Blidk in die Ferne verhindert, steht eine Hirtin mit ihrer Kuhherde. Rects senkt sic das Gelande nah dem Hintergrund zu in ein Tal, aus dem leicht ansteigend
+
+Recdts unten bezeicbnet:V.Dupre. Leinwand51/48
+
+## PIETER ARNOUT DIIXHOORN t, Groningen.
+
+- 70 Bewegte See.Vor der Kuste, deren Befestigung im Vordergrund noh sihtbar, kreuzt ein Dreimaster mit hollandischer Flagge und verschiedene kleine Segelboote auf dem lebhaf bewegten Wasser. Graue Wolken ballen am blauen Himmel. Holz 46,5/65
+
+Recbts unten bezeicbnet:P.A.Dijxhoorn.
+## CARL EBERT t, Munhen.
+
+- 71 Holzfaller im Herbstwald. Auf einer Waldshneise zwischen hohen, gelbbelaubten Buchenstammen zersagen zwei Arbeiter einen Baumstamm. Rudkwarts beladen andere Holzfaller einen Wagen, links davon Hirte mit seiner Schafherde. Leinwand 84/116
+
+Recbts unten bezeichnet:C.Ebert,Minchen 71.
+
+## ENGLISCHER MEISTER um 1800.
+
+- 72 FrauenbildnisHalbfigur). Vor grunen Baumen sitzt eine junge Frau mit Ringellocken, dreiviertel nah links gewandt. Die Arme verschrankt, beruhrt die linke Hand die rechte Schulter. Die Dargestelte tragt ein hellgelbes Gewand, das die linke Schulter und den linken Unterarm frei laBt.Ueber die rechte Shulter ist ein hartblaues Tuh gelegt. Links unten erscheint der Kopf eines kurzhaarigen Hundes, der, im Profl ge= sehen, zu ihr aufblidkt. Ueber den Hund hinweg Blidk in die Ebene, woruber der Himmel in dammeriger Farbung liegt.
+
+Die duiggmalte sehr neandshaf,dearten,hellenFan und die Darstellung des Hundes auf einem Frauenbildnis sprechen fur den Zusammenhang mit englishen Bildnissen. Leinwand 46,5/37
+
+Abbildung Tafel IX
+
+## CHARLES VAN DER EyCKEN t,Lowen.
+
+- 73 Hollandishe Winterlandshaft. Auf der zugefrorenen Flace eines
+- Teiches im Vordergrund mehrere Shlittschuhlaufer. Am Ufer rechts eine Kirche mit Kirchgangern. Rudwarts blidkt man auf die Hauser der Stadt. In einer Allee mit kahlen Baumen am linken UIfer ein Reiter.
+
+Holz47/53,5
+
+AbbildungTafel XXV
+
+Rechts unten bezeicbnet:Ch.van der Eycken 1859.
+
+## JOSEF FAy t, Dusseldorf.
+
+- 74 Auf der Fahrte. Aus dem Walde rechts kommt auf dem Weg ein Jager mit umgehangtem Gewehr, dessen Hund der Spur des Wildes folgt.
+
+Rechts unten bezeichnet: Fay fec.
+
+Leinwand 45,5/61
+
+Auf der Rickseite NacblaBstempel.
+
+## FERDINAND FELDHUTTER,Munden.
+
+- 75 Abendlandshaft. Am Abhang eines Hugels mit herbstlich gefarbten
+- Birken ein Shafer mit seiner Herde. Matt erglanzen die schroffen Berg= zuge und mit Burgen gekronten Hugel im letzten Sonnenlicht.
+
+Recbts unten bezeicbnet: Feldhitter.
+
+Karton 28/40
+- 80
+
+## ANSELM FEUERBACH(Shulkreis&gt;.
+
+- 76 Madhenportrat.Vor blaulichgrunem Hintergrund steht der Kopf einer Italienerin mit brauner Hautfarbe und schwarzem Haar dreiviertel nach rechts. Ein buntes Tudh liegt um ihre Schultern, die linke Hand
+
+Nah der Ueberlieferung soll es sich um eine Jugendarbeit Feuerbahs handeln und der auf der Miniatur Dargestellte soll der Kunstler sein. Leinwand53/43,5
+
+- halt ein Medaillon mit einem Miniatur-Herrenbildnis.
+
+## F.N.AUGUSTE FEyEN-PERRIN t,Paris.
+
+- 77 Bretonishes Bauernmadden. Auf dem Meeresstrand mit der weiten Wasserflahe und dem gelblicgrau gefarbten Abendhimmel im Hinter= grund,ist die junge Bauerin auf einem Esel sitzend dargestelt.Sie tragt eine blaue Shurze uber braunem Rod, schwarzes Umschlagtuh uber grauem Mieder und rotes Kopftud auf braunem Haar. Sie sitzt zwischen dem Traggerust, das dem Esel beiderseits aufgelegt ist und in dem Blumen und ein Shirm. Leinwand84/47
+
+Links unten bezeicbnet: A.Feyen=Perrin.
+
+## LOUIS FRANCAIS t,Paris.
+
+- 78 Seinelandshaff. Langs des etwas erhohten rechten Ufers lauft eine schmale Strabe, die rechts von kleinen Hausern begrenzt wird. Bauers= leute und Kinder beleben den Weg. In der glaten Wasserflade des FluBlaufs spiegeln sich die didten Baumgruppen des jenseitigen Ufers. In der dunstigen Ferne mabig hoher Bergzug. Holz 30/46
+
+Links unten bezeichnet; Francais 1858.
+
+## FRANKFURTER KUNSTLER.
+
+- 79 Facher.Verschiedene Darstellungen der Frankfurter Maler Fr. Graf, Rob.Henning,E.Keuffel, Reinh.Werner, A.Berger, L.von Roessler, W. Kalb, Ant. Beder, Ad. Leicum, Gust. Kilb,J. Hoffmann, G.Kotte.
+
+Samtlicb bezeicbnet.
+
+## FRANKFURTER PORTRATIST um 1850.
+
+- Bildnis des Opernkapellmeisters Aloys Shmidt in Frankfurt a. M. Der Dargestellte sitzt neben einem Tisch mit gruner Dedke,hinter dem rehts ein violeter Vorhang hangt. Der Kopf mit dem graumelierten Haar ist etwas nach links oben gerichtet. Holz47/39,5
+
+<!-- image -->
+## BAREND GAEL 1630 &gt;nach 1681,Amsterdam.
+
+- 81 Anbetung der Konige. In einem Stall mit hohem Turausschnitt in der Rudwand halt Maria, auf einer Tonne sitzend, das Jesuskind auf dem ShoB und nimmt die Huldigungen und Gaben der drei Konige entgegen. Hinter diesen und auf der Strabe Gefolge und Romer.Hauptton des Bildes braun, in das die anderen Farben wie Rot, Blau, Grun weih hineinklingen. Holz 38,5/30,5
+
+Zuscbreibung an Barend Gael nacb Bode.
+
+## THEODORE GERICAULT t,Paris.
+
+- 82 2Kopf eines Mannes. Der uberlebensgrobe Kopf eines jungen Mannes, dessen Korper im Profl gesehen ist,wendet sich zurudk, so dab er uns die vordere Gesichtsflahe uber seinem rechten Oberarm voll zuwendet. Geoffneter Mund, gerotete Augen.Grimassenhafter Ausdruck.Breite Malweise. Leinwand 64/47
+
+Links unten bezeichnet: E. Gericault.
+
+## J.GERIE.
+
+- 83 Viehherde auf dem Heimweg.In Vorgebirgslandshaft, die rechts uber einem Wasser in eine weite, von Bergzugen begrenzte Ebene ubergeht, zieht auf einem Weg die Kuh= und Shafherde von dem Waldstudk links ruckwarts dem Vordergrund zu. Bewolkter Gewitterhimmel.
+
+Recbts unten bezeicbnet: J. Gerie. Leinwand21,5/48
+
+## Bezeichnet G.M.
+
+- 84 An der Tranke. Ein schwerbewaffneter Reiter trankt sein Pferd im Vordergrund einer weiten Landschaft an einem zu einem kleinen Teid erweiterten Wasserlauf. Er beobachtet zwei Landleute, die links rud warts uber eine Bruke gehen. Im Mittelgrund zwei Reiter auf einem
+- Weg. Rechts auf einer Anhohe Windmuhle und zwei Hauser.
+
+Rechts bezeicbnet:G. M.
+
+Leinwand 50/67
+
+## VINCENT VAN GOGH t, Auvers sur Oise.
+
+- 85 Promenade sous les Oliviers en Provence. In dem Schein des Voll mondes wandeln zwei Liebespaare uber das rote, mit Blau durchsetzte Feld, das durch den schwarzen gespenstigen Stamm eines Olivenbaumes von rechts durchschnitten wird. Das Gelande geht nah dem Horizont zu in einen braunen Streifen uber und trifft dort, getrennt durch eine scharfe, blaue Linie, mit dem zinnoberroten Streifen des Himmels zu= sammen, dessen Farbung nach oben in intensives Grun ubergeht.
+
+Leinwand33/41 Abbildung Tafel XllI
+## THEODOR GRATZ,Munchen.
+
+- 86 Bei der Feldarbeit. In der weiten, leiht gewelten, mit zahlreihen Baumen durchsetzten Landschaft der bayrischen Hohebene geht ein Bauer hinter einem, mit zwei Ohsen bespannten Pflug.Im Vordergrund rechts beleben farbige Feldblumen das Bild. Leinwand 71/101 Links unten bezeichnet: Th.Gratz.
+
+## JEANBAPTISTE GREUZE 1725-1805,Paris
+
+&lt;zugeschrieben).
+
+- 87 Brustbild eines Junglings im Oval. Der Kopf mit dem lockigen Haar
+- ist zuruckgeworfen. Der Blidk in die Hohe gerichtet. Der Mund halb ge= ffnet. Ein stark leuhtendes zinnoberrotes Tuch umhult seine Shultern,
+
+Leinwand54/47
+
+Abbildung Tafel IX
+
+## EDUARD GRUTZNER,Munhen.
+
+- 88 Bildnis eines Wirts. Brustbild in schwarzem Rodk und weiber Scurze. Ein schwarzes Kapphen auf dem didken Kopf,blidkt der Dargestellte den Beschauer mit seinen blauen Augen freundlic an. Die verschrankten Arme liegen auf dem rundlichen Baudhlein, in der rechten Hand eine Zigarre, Holz23/18
+
+Links oben bezeicbnet:E.Gritzner 14.
+
+Abbildung Tafel XXVIII
+
+## ADRIAAN GRyEFF um 1670-1715,Brussel(zugeschrieben).
+
+- 89 Totes Geflugel. Auf einem parallel zur Bildebene stehenden Tisch liegen tote Vogel nebeneinander. Links hangen andere ubereinander an der Wand. Hintergrund: einfade Wand, an der die Umrisse eines Gitter= kafigs erkennbar sind. Der ganze Grund ist dunkelbraun, vereinzeltes helles Gelb und Blau an den Vogeln. Leinwand54/71
+
+## J.A. THEODORE GUDIN t, Boulogne s.S.
+
+- 90 St. Raphael pres Freya. In der von zahlreichen Wasserlachen durh= zogenen oden Ebene, die rudkwarts durch breiten Wasserlauf begrenzt wird,erhebt sichrehts eine hoheFestungsmauer,ber der Gebaude untr Baumen sichtbar sind.Im Vordergrund grasbededkte Felsen,in der Ebene Menschen- und Tierstaffage. Hellblauer Himmel. Holz 30/39
+
+Rechts unten bezeichnet:T. Gudin.
+
+<!-- image -->
+## J.A.THEODORE GUDIN t, Boulogne s. S.
+
+- 91 Abendliche Kustenlandschaft. Vor dem Ball der untergehenden Sonne, die am rot getonten Horizont uber der ruhigen Meeresflahe steht, liegt ein Fiscerkutter auf dem Strand. Links an einer Baumgruppe vorbei zieht sih die Kuste mit Hausern und Baumen dem Hintergrund zu. Unten etwas rechts bezeichnet: J.A. Theodore Gudin. Lw.42/60
+
+## H.L.THEODOR GURLITT t,Naundorf.
+
+- 92 Italienishe Kustenlandshaft. An dem felsigen, mit Strauhern be wahsenen Ufer im Vordergrund steht hinter einer Gartenmauer unter Pinien ein kleiner Pavillon, vor dem ein Liebespaar in Unterhaltung. Jenseits der kleinen Bucht liegt eine Stadt mit Festung am Fube eines violettgefarbten Gebirgzuges. Links Blicdk in das offene Meer. Blauer Sommerhimmel. Leinwand 85/135
+
+Rechts unten bezeicbnet: Gurlitt.
+
+## CONSTANTIN GUyS t,Paris.
+
+- 93 Zwei Damen. In dekolletierten, bauschigen Kleidern mit kurzen Roden.
+
+Tusche 21,5/17
+
+- 94 Zwei Neapolitanerinnen. An einer Hausecke in Unterhaltung. Tusche 21,5/16
+
+## JOSE DE GUZMAN,Madrid.
+
+- 95 Waffelbacker in einem offentliden Park in Sevilla. In den Park= anlagen, die rudkwarts durch einen mit Blumen dicht uberwucherten Laubengang abgeschlossen werden, sitzt eine Kindsmagd auf einer Stein bank und blidkt nah den ihrer Obhut anvertrauten Kindern, die sich ruckwarts mit einem Waffelbaker unterhalten, Leinwand105/65 Recbts unten bezeichnet:J.de Guzmann 1891.
+- 96 Fahrendes Volk.Vor einem spanishen Haus, an das rechts eine laub
+- bededkte Terrasse anschlieBt und das links den Blidk in eine Strabe frei laBt, steht neben einem Pferd, auf dem zwei kleine Kinder schlafen,eine Frau mit Tamburin. Rechts neben ihr halt ein kleiner Knabe eine Schnur, an der ein Affe festgebunden. Dieser tanzt nach dem Gesang der Frau Leinwand 111/69
+- auf dem Balkon des Hauses vor drei Damen. Recbts unten bezeicbnet;J. de Guzman 189o.
+
+## THEODOR HAGEN t,Weimar.
+
+- 97 Bluhende Obstbaume. Auf einer Wiese, an die sic rechts ein braunes Feld ansclieBt,ein Baumstuk in voller Blute. Links im Hintergrund einer weiten Flache ein langgestrecktes Bauernhaus mit rotem Dah.
+
+Rechts unten bezeicbnet: Th. Hagen.
+
+Leinwand74/99
+## HENRI HARPIGNIES t,St.Privé.
+
+- 98 Pflaumenzweig. Vor grunbraunem Hintergrund hangt ein belaubter Zweig mit zahlreichen zum Teil unreifen Fruhten. Meisterhaft in der Wiedergabe. Leinwand73/42
+
+Links unten bezeichnet:H.Harpignies.
+
+Gutacbten von Georges Sortais.
+
+- 99 Landshaftsstudie. Einzelne Strauher in Ebene. Sepia14/22
+- Links unten bezeicbnet: H. Harpignies.
+
+## THOMAS HERBST t,Hamburg.
+
+- 100 In der Marsh. Zwischen saftiggrunen Wiesen ein Wasserlauf mit Kahn. Am Horizont eine Windmuhle unter lebhaft gefarbtem Abend= himmel. Karton 28/38
+
+Rechts unten bezeicbnet:Herbst.
+
+## HUBERT VON HERKOMER t,London
+
+- Wallisisce Landschaft. Wildzerkluftete Gebirgspartie, auf deren Felsen im Vordergrund eine Schar Raben uber ein Aas hergefallen sind. Zahlreiche Felsstudke auf dem braunen Heidegrund. Dichte graue Leinwand150/246
+- 101 bis schwarze Wolken.
+- Studie. Dreiviertelfigur einer Bauerin mit dunkelblauem Kopftuh und Aquarell 22/15
+- 102 gefalteten Handen.
+
+Rechts unten bezeicbnet: H.v.H.
+
+## ALBRECHT ADAM t,Munchen(Shulkreis).
+
+- 103 Pferde im Wald. Auf eine kleine Waldlidhtung mit Wasser im Vorder= grund treibt ein Junge drei Pferde. Hoher Wald, mit zum Teil didken, alten Eicenstammen,umschliebt die kleine Wiese. Links im Hintergrund halb unter Baumen ein kleines Bauernhaus. Leinwand44,5/46
+
+## CARL HILGERS ,Dusseldorf.
+
+- 104 Landschaft mit Sdlob. Im Mittelgrund liegt das sclobartige Gebaude, an das rechts der hohstammige Wald anshliebt. Nach links fuhrt eine Steinbrudke uber einen zugefrorenen Kanal, auf dem im Vordergrund zwei Jager mit Hund in Unterhaltung stehen. Graubewolkter Winter= himmel. Leinwand45,5/55
+
+Rechts unten bezeicbnet:C.Hilgers 1842.
+
+- 105 Klosterhof im Winter. Durch einen zum Teil verfallenen Torbogen blidkt man in den verscneiten, von den Klostergebauden umgebenen Hof,in dem links ein Monh einer Frau mit 3 Kindern ein Brot reiht. Recbts unten bezeicbnet: C.Hilgers. Leinwand 49/40
+- 110
+
+## CHARLES HOGUET ,Berlin.
+
+- 106 Hafen von Etretat. Im Mittelgrund landen zwei Fischerboote bei sturmischer See, deren grune Wogen an die Felsen des Vordergrundes branden. Redhts vor einem von der Sonne beleuhteten, kahlen Berg kegel, der nach der See steil abfallt, liegen die Hauser des Fischer stadtchens und auf den Strand gezogene Shiffe. Das Wasser des Mittel und Hintergrundes ist in scharfem Gegensatz zu der sonnenbeschienenen Landschaft rechts von dunkelgrauen Wolken schwarz gefarbt.
+
+Rechts unten bezeicdnet: C.Hoguet 1859. Leinwand53/67 Abbildung Tafel XIV
+
+## HOLLANDISCHER MARINEMALER.
+
+- 107S Seestudk. Vor einer Landungsbrudke,an der zwei Segelkutter an gelegt haben, kreuzen drei grobe Kriegsschiffe. Bewolkter Himmel. Leinwand 48,5/63
+
+## AUGUST HOLMBERG,Muncen.
+
+- 108 Frauenfigur in Landshaf. An einem Waldrand vor hohem,phan tastischem Brunnen, dessen Wasser in einen Tumpel im Mittelgrund laufen, liegt auf einem Felsstuck eine Frauengestalt. Ruckwarts wird Leinwand 42/30,5
+- das Bild durch ein Waldstuck abgeschlossen, Links unten bezeichnet:A.Holmberg 73.
+
+## ABRAHAM HULK ,Amsterdam.
+
+- 109 Marine. Vor der Landungsbrudke, auf der Fisher mit einem Netz beschafigt sind, kreuzen zwei Segelkutter in dem leichtbewegten Wasser. Nach rudwarts dehnt sich die Flache der offenen See mit einzelnen Segelbooten unter aufziehenden Ballenwolken am blauen Himmel. Leinwand 37/55
+
+## Rechts unten bezeichnet: A. Hulk fec.
+
+- Fisherhafen. Auf der ruhigen Wasserflache liegen die Fischerkutter mit hohgezogenen, schlaffen Segeln. Rudkwarts Blidk uber das durch Segelboote belebte Meer,rechts in der Ferne die Hauser eines Dorfchens. Rechts unten bezeicbnet: A.Hulk fec. Gegenstudk z.Vorigen
+
+## JOZEF ISRAELS t,Den Haag.
+
+- 111 Interieur. In dem mit Platten ausgelegten Zimmer sitzt vor dem Kamin, auf dem ein Kessel steht, ein alter Fischer. In den Armen halt er ein kleines Kind; zu seinen Fuben ein Korb mit Gemuse. Am Bildrand links ein Fenster, durch das helles Licht fallt, das die rechte Seite des Alten grell beleuchtet. Am Fenster ein Tisch. Leinwand75/53 Links unten bezeicbnet: Jozef Israels. Abbildung Tafel XII
+## JOZEF ISRAELS t, Den Haag
+
+- 112 Landshaft. Ein weites, intoniges, braungrunes Wiesengelande wird rudkwarts durh eine Baumallee begrenzt, zwishen der das intensive
+- Rot eines Daces hervorleuhtet. Graubewolkter Himmel.
+
+Links unten bezeicbnet: Jozef Israels.
+
+- Holz14/23,5
+
+## ITALIENISCHERBAROCKMEISTER.
+
+- 113 Heiliger. Halbfigur eines Mannes mit langem wallenden, weiBen Bart. Der Heilige blidkt nach oben,in Erwartung einer Himmelsbotschaft, die durch eine von links oben in das Bild hineinragende Posaune an= gedeutet wird. In Verzudkung hebt der Heilige seine rechte Hand der Posaune entgegen. In der Linken halt er einen kugeligen Gegenstand. Der Oberkorper unbekleidet, um die Schultern ein roter Mantel. Viel= fahe Ubermalung. Leinwand 60/48
+
+Links unten spater bezeicbnet; Tiepolo.
+
+## ITALIENISCHER DEKORATIVER MEISTER
+
+des 17.Jahrhunderts.
+
+- 114 Konig David. Die lebensgrobe Figur des Konigs ist auf der rechten Seite des Bildes dargestellt: sitzend,die Krone auf dem Haupt,gerade ausblidkend, das Szepter in der Linken.Er schreibt mit der Feder in der rechten Hand auf eine vor ihm aufgestellte Tafel. Ringsum Wolken. Leinwand 193/126
+
+## ITALIENISCHER MEISTER um 1700.
+
+- 115 Klage der Engel am Leicnam Christi Auf einem iber den Boden gebreiteten Tuh liegt der Leicnam Christi. Die Fube sind gekreuzt, die Arme hangen herab, der Kopf ruht, zuruckgebeugt,auf einem er= hohten Sitz,uber den das Tuh gespannt ist. Links neben Christus die Randfigur eines Engels, der den Kopf in die Hand stutzt. Hinter ihnen funf Engel, die teils knien, teils weinend vorwarts schreiten. Dunkelfarbiger Hintergrund, die Oberkorper unbekleidet,rotlies Inkarnat. Die Hautfarbe des Christuskorpers shimmert metal= lisch gelb. Leinwand 65/85
+
+Die Komposition zeigt Anlehnung an die,Trauer um den Leicnam
+
+Christivon G.G. Savoldo in Berlin.
+
+## ERNESTJACOMIN,Paris.
+
+- 116 Im Tal der Oise. Auf der nach dem Flub leidht abfallenden Wiese des Vordergrundes ein Angler. Rudkwarts unter Baumgruppen einzelne Hauser. Uber dem blauen Himmel dichte weibe und graue Wolken. Rechts unten bezeicbnet: Est.Jacomin. Holz41/65
+
+<!-- image -->
+## DIENSTAG,NACHMITTAGS 3UHR.
+
+## Bezeichnet:JONGKIND.
+
+- 117 Mondlandschaft. Auf dem FluB, der von dem Vollmond beleuhtet ist,zwei Segelboote, deren eines die Mondscheibe verdedt.Rehts am Ufer ein Haus unter Baumen. Holz 10,5/19,5
+
+Recbts unten bezeichnet: Jongkind.
+
+## ISAAK JUNCKER 1727-1789,Frankfurt a.M.
+
+- 118 Herrenbildnis.Vor einfad braunem Hintergrund steht der Dargestelte in braunem Fradk mit Goldknopfen und Spitzenkragen, dreiviertel nach rechts gewandt. Leinwand31/24
+
+Bezeicbnet rechts unten:J.Juncker pinx 1781.
+
+## CARL JUTZt,Dusseldorf.
+
+- 119 Im Huhnerhof. An der Hausmauer rechts stehen auf einem Mist= haufen der Hahn mit seinen Huhnern. Dahinter auf einem Zaun ein Pfau.Links im Vordergrund drei Enten am Wasser. Daruber Aus= blick uber Wiesen auf ein Haus zwischen Baumen. Leinwand 31/41 Rechts unten bezeicbnet:C.Jutz. AbbildungTafel XXI
+
+## WILHELM KALB,Frankfurt a.M.
+
+- 120 Wiesenlandscaf. Im Vordergrund eine Ebene, auf der einzelne Baume, drei Sdafe und ein Bauer mit seinem Pferd links. Im Hinter= grund schimmert ein Wasserlauf mit Segelbooten. Holz25/36 Rechts unten bezeicbnet: W. Kalb 99.
+
+## VONKAMERTZI.
+
+- 121 Hollandisce Kustenlandschaft.In der Brandung wird die Ladung verschiedener Fischerkuter geloscht. Am Strand vor den Dunen sind Frauen bei der Arbeit. Rudkwarts in das Meer hineinragend ein Boll= werk, dahinter die Hauser eines Dorfes. Leinwand50/66
+
+Recbts unten bezeicbnet:von Kamertzi 1845.
+## ALBERT VON KELLER t,Mundhien.
+
+- 122 Tanzerin (Ganzfigur). Ruckenansidt in Tanzstellung vor braunrot belaubter Heke.Der entbloBte Oberkorper hebt sich scharf von dem leihtbewolkten blauen Himmel ab. Die rechte Hand halt den Saum
+- des weiten Rodkes in drehender Bewegung ausgestreckt. Links unten bezeicbnet:Afbert Keller. Holz43/23
+
+## MAX KLINGER t,Leipzig.
+
+- 123 Kopf eines alten Mannes. Vor braunem Hintergrund Brustbild nach links. Das runzlige Gesidt von langem, grauem Haupt= und Barthaar umrahmt. Karton 68,5/48
+
+UInten etwas rechts bezeichnet:M. Klinger Berl.1877.
+
+## C.KNAPEN,Paris.
+
+- 124 Stilleben mit Bananen. Auf violettem Tuh grune Shussel und weiber Teller mit Trauben und Bananen. Dahinter an der Wand mit Leinwand 46/55
+- blauer Tapete ein Wandspiegel. Links unten bezeichnet: C. Knapen.
+
+## LUDWIG KNAUS t,Berlin.
+
+- 125 5Portrat einer jungen Dame. Brustbild nach links vor dunkelgrunem Hintergrund, das volle Gesicht,umrahmt von shwarzem Haar, dem Beschauer zugewandt. Shwarze, pelzbesetzte Jade uber rotem,weib eingefaBtem Mieder. Lange goldene Ohrgehange. Leinwand 57,5/50 Links unten bezeicbnet:Knaus 1851.
+
+## AUGUST HERMANN KNOOP,Munhen.
+
+- 126 Das Flotenkonzert. In einem Salon stehen und sitzen Herren in Rokokotracht um ein Tafelklavier, auf dem ein Pianist den auf der Flote vortragenden Herrn begleitet. Leinwand 81/100
+- Rechts unten bezeicbnet: A. Knoop.
+- 127 Die Vorlesung. Um einen Tisch ist eine Herrengesellschaft ver= sammelt, die andachtig einem Dihter lauscht, der aus seinen Werken vortragt. Gegenstudk zum Vorigen
+
+Rechts unten bezeichnet: A,Knoop.
+
+## AUGUST KOPISCH,Berlin.
+
+- 128
+- Orientalishe Kustenlandschaft. In der Mitte des Bildes zwei breit= stammige Baume. Beiderseits das grune bis tiefblaue Wasser einer Meeresbucht, aus der links steile Berge aufragen. In der Ebene davor Ruinen eines Palastes. Leinwand55/74
+
+<!-- image -->
+## PAULINE KOWARZIK,Frankfurt a.M.
+
+- 129 Stilleben. Vor geblumter Tapete steht in grunem Untersatz brauner Topf mit bunten Blumen. Daneben zwei Zwiebeln und Steinkrug.
+- Links unten Monogramm P.K.13. Leinwand auf Karton 55,5/45
+
+## JOHANN CHRISTIAN KRONER ,Dusseldorf.
+
+- 130 Auf dem Anstand. Zwishen den Kieferstammen im Vordergrund
+
+Recbts unten bezeicbnet: Ch. Kroner,Duss. 92. Leinwand 60/80 Abbildung Tafel XXIlI
+
+- kniet der Jager und beobachtet zwei Damhirsche, die nahe vor ihm uber die Waldwiese vorbeilaufen. Links ragt ein Waldstudk in die Wiese hinein; rechts davon Ausblidk in weite, leichtgewelte Ebene.
+
+## JOHANN KUPETZKy 1666-1740,Nurnberg.
+
+Gutachten von Georges Sortais.
+
+Leinwand73/59,5
+
+- 131 Selbstbildnis des Kunstlers ?. Brustbild vor dunklem, einfarbigem Hintergrund. Blauer, pelzbesetzter Rodk mit Spitzen=Halskrause. Der Kopf ist dreiviertel nach links gewandt, die Augen blicken in entge= gengesetzter Richtung den Beschauer an. Barett mit Pelzbesatz uber dem vollen,bartlosen Gesicht,in dem die braunlicen Schatten weich modelliert sind. Vergleice das Selbstbildnis in Nurnberg.
+
+Abbildung Tafel X
+
+## JOHANN GERLACH LAMBERT t,Frankfurt a.M.
+
+- 132 Blumen=Stilleben. Auf Steinsodkel vor dunkelgrunem Hintergrund ein Rosenzweig und Winde in Glasvase. Davor liegen auf blauem Tuh zwei Johannisbeer=Trauben, auf denen eine Wespe sitzt. Recbts unten bezeichnet: Lambert fec. Holz27/21,5
+
+## PAUL LECOMTE t,Paris.
+
+- 133 Viehweide. Hinter einer niedrigen Steineinfassung mit Gatter dehnt sich die sonnenbeschienene, von hohen Laubbaumen begrenzte Wiese, auf der eine Kuhherde weidet.Blauer Sommerhimmel. Leinw.38/55
+- Links unten bezeicbnet: Paul Lecomte.
+
+## MAURICE LEFEBVRE t,Brussel.
+
+- 134 Am Meeresufer. Unter schwerem Regenhimmel kommen gruine zwischen braunen Felsriffen ein Angler.
+- Wogen herangerolt und losen sich in milchige Gischt auf. Rechts Karton 34,5/45 Links unten bezeicbnet: M. Lefebure.
+## WALTER LEISTIKOW ,Berlin.
+
+- 135 Hohgebirgslandschaft. Am Ende einer groben, felsendurhsetzten weiten Flace, die von einzelnen kleinen Baumen und Strauchern be= standen ist, ragen zwei hohe Bergkegel in den blauen Himmel. Auf= steigende dihte, weiBe Wolken schmiegen sidh an die Kanten des linken Berges und legen sich um dessen Spitze. Aquarell 48/65
+
+Rechts unten bezeicbnet: W. Leistikow.
+
+## FRANZ VONLENBACH t,Munhen
+
+- 136 Bildnis der Shauspielerin Duse mit der Tohter des Kunstlers. Brustbild im Profil nach links, halt die Schauspielerin die Kleine auf dem Arm. Diese blidkt mit groben Augen etwas nadh links aus dem Bild heraus. Pastell 65/55
+
+Recbts unten bezeichnet:F.v.Lenbach. Abbildung Tafel XIX
+
+- 137 Damenbildnis.Das feineProfil des Kopfes mit rotlich=blondem Haar nah rechts gewandt. Die linke Hand auf der von weibem Tuch umhullten Brust leicht angedeutet. Perlenhalskette. Pastell 62/54 Rechts unten bezeichnet:F.Lenbacdh 1898. Abbildung Tafel XIX
+- 138
+- Kinderkopfhen. Brustbild, dreiviertel von hinten, der Kopf rechts zur Seite gewandt. Braunes Lodkenhaar, schwarze Augen.
+
+Rechts unten bezeichnet:F. Lenbacb 1893.
+
+Pastell 42,5/36
+
+## EUGENE LEPOITTEVIN , Auteuil b.Paris.
+
+- 139 Strandszene an der franzosischen Kuste. Auf einer in die See vor= springenden Landzunge stehen und sitzen neben einem auf den Strand gezogenen Shif Fisher und Handelsleute,deren iner inPadpferd halt, in Unterhaltung mit einem jungen Madcen in leuhtend rotem Rod. Die Gruppe ist umgeben von Korben mit Fishen, Warenballen und Geraten. Weiter rudkwarts ein zweiter Fischerkutter mit Figuren und Blick auf das offene Meer. Leinwand 41/57
+
+Rechts unten monogrammiert: E. L. P.
+
+## ADOLF LIER t,Wahren b.Brixen.
+
+- 140 Dorfstrabe. Auf der Strabe, die links von Bauernhausern,rechts von einem Zaun und Baumen begrenzt ist, zieht ein Hirt mit seiner Scaf herde.Vor den Hausern Wagen und Gerate. Links im Vordergrund ein Misthaufen. Leinwand 38,5/61
+
+Gutachten von Dr.Hanfstengl und Bestatigung von Frau Gustav Scbonleber iber Herkunft des Bildes. Abbildung Tafel XXVI
+
+<!-- image -->
+## CLAUDE LORRAIN 1600-1682,Rom(Art).
+
+- 141 Landschaff. Im Vordergrund einer reihbewaldeten Felsenlandschaft ziehen ein FuBganger und zwei Reiter auf einer Strabe dahin. Der Weg fuhrt rehts an einem Wasser vorbei, in das ein Wasserfall ein mundet.Rechts hinten zeigt sich ein Ausblidk in die Ferne.Vorherrschend sind dunkelgrune und braune Farben,nur im Vordergrund aufgehellt.Im Kontrast dazu steht der helle Lidhtton des Himmels. Leinwand 77/60 Abbildung Tafel XI
+
+## HEINRICHLOSSOW t,Munhen.
+
+- 142 Madhen mit Vogelkafig. Vor dem hellen Grun dichter,junger Laub= stamme steht das junge Madcen in Scaferinnentracht und betrachtet einen Vogel, den sie in einem Kafig in Handen halt.
+
+Recbts unten bezeicbnet: Lossow.
+
+Leinwand33,5/27
+
+## JULES LUNTESCHuTZ t,Frankfurt a.M.
+
+- 144 Dedkengemalde. Die Nacht. Allegorishe Frauengestalt in rotem Ubergewand schwebt sdhlafend auf Wolken. Eine Putte links halt zum Zeichen des Shweigens den Finger an den Mund. Rechts uber der Shlafenden Amor mit Bogen. Gegenstuck zum Vorigen
+- 143 8Deckengemalde.Der Ruhm. Allegorische Frauengestalt in faltigem rotem Mantel uber weibem Unterkleid,halt in der ausgestredkten rechten Hand einen Lorbeerkranz. Die Linke hat sie belehrend erhoben. Links neben ihr eine Putte. Leinwand,oval 265/190
+
+Die beiden Gemalde stammen von der Decke des Friedenszimmers im Hotel Sdwan zu Frankfurt a.M.
+
+## ASCAN LUTTEROTH,Hamburg.
+
+Recbts unten bezeicbnet:A.Lutteroth, 1872. Leinwand 106/87
+
+- 145 Spaziergang im Wald. Auf dem Waldweg, der sich zwischen mahtigen Buchenstammen und durch dichtes Unterholz hindurchzieht, steht eine junge Frau in hellem Kleid und rotem Shal und spricht mit einem kleinen Bauernmadhen, das Holz gesammelt hat.
+
+## CHRISTIAN MALI t, Munhen.
+
+- 146 Am Walhensee. Aus der tiefblauen Wasserflace ragen ruckwarts steil die Berge empor. Im Vordergrund rechts am Wasser Hutten und Holzlagerplatz, dahinter Weg mit Hirtin und Kuhherde.
+
+Rechts unten bezeicbnet: Chr.Mali.
+
+Leinwand38/42
+## WILLEM JOHANNES MARTENS t,Shoneberg
+
+bei Berlin.
+
+- 147 Junge Bauerin. Brustbild in shwarzem,reichgestidktem Mieder, ein buntes Kopftuch auf dem blonden Haar. Aquarell,oval 30/24 Rechbts unten bezeicbnet:W.J.Martens f.1863.
+
+## PAUL MATHIEU,Brussel.
+
+- 148 Dorfeingang. Beiderseits der sonnenbeschienenen Strabe, die vorne in einer Brucke uber ein FluBchen fuhrt, stehen die blanken Hauscen mit leuchtendroten Dahern.Matblauer,leichtbewolkterSommerhimmel. Recbts unten bezeicbnet:Paul Mathieu. Leinwand58/84
+
+## GABRIEL VON MAXt,Munchen.
+
+- 149 Madhenkopf. Von dem dunkelbraunen Hintergrund heben sich die
+- frischen Farben des von hellblondem Haar umrahmten Kopfdhens leb haft ab. Die groben schwarzen Augen blidken traumerisch aus dem Bild heraus. Leinwand34/27
+
+Rechts oben bezeicbnet: G. Max.
+
+Abbildung Tafel XxVIIl
+
+## ADOLF MENZELt,Berlin.
+
+- 150 Alexander der GroBe. Der junge Kaiser in breitem, rotem Mantel in theatralischer Stellung. Aquarell 22/16,5
+
+Recbts unten bezeichnet:Ad. Menzel 1832.
+
+## CLAUS MEyER , Dusseldorf.
+
+- 151 Lesender Hollander. In einer einfachen, weibgetunchten, plattenbe=
+- legten hollandischen Stube sitzt ein AIter mit Holzschuhen und Rock mit Pelzkragen auf einem Stuhl und liest in einem Buch, das er in Handen halt. An der Rudwand uber einer Kellertur ein Vogelkafg, rechts zwei durch Laden verschlossene Fenster. Holz44/32
+
+Links oben bezeichnet: Claus Meyer 84.
+
+## JOHANN GEORG MOHR,Frankfurt a.M.
+
+- 152 Aus einem bayrisden Dorfchen. An dem Gartenzaun des Hauses rechts von der Strabe steht ein Bursde in Unterhaltung bei seinem
+- Dirndl. Rudkwarts hohe Berge mit grunen Matten.
+
+Recbts unten bezeicbnet:Joh.Gg.Mohr. Leinw.a.Karton 28/36
+## Monogrammist E. S.B.
+
+- 154 Stilleben.Auf grauer Tischplatte Fayenceschussel mit Apfel, daneben Trinkgerate, Melonen und Korb mit Kirschen, dahinter Glaskanne mit Wein. Gegenstudk zum Vorigen
+- 153 Fruhte=Stilleben.Vor rotbraunem Hintergrund in Zinnschussel Apfel, Trauben und Pflaumen. Rehts daneben Korb mit Pflaumen, Kohl und Lauch.Dahinter grauer Topf mit Chinoiserien.Lw.38/110 Auf dem Rand der Zinnschissel Monogramm E.S.B.
+
+## WILLy MORALT,Mundhen.
+
+- 155 Kaktusblute. Auf einem altanartigen Vorbau, der von einer Terrasse uberhoht ist und links von einer Hausmauer begrenzt wird, steht ein Mann in braunem Rodk und betrahtet wohlgefallig die Blute eines Kaktusses in seiner Hand. Rudkwarts in der Ebene ein Stadtchen mit grober Kirche. Holz38/55
+- 156 Alt= Munchner Spaziergang.Auf dem hohen rechten Ufer oberhalb des Flusses liegt das Wirtshaus unter dichten Baumen. Davor im Vorder= grund Ausflugler in alter Traht, rehts zwei Kinder vor einem Orgelmann. In der Ferne am Horizont die Turme der Stadt. Bewolkter Sommerhimmel. Holz38/55
+
+Recbts unten bezeicbnet:Willy Moralt, Mchn.
+
+Redts unten bezeichnet:Willy Moralt,Mcbn.
+
+## LUDWIG MUNTHE t,Dusseldorf.
+
+- 156a Winterlandshaf.An dem Wasser einer winterlichen Abendlandshaft gehen zwei Jager zwischen Schneefeldern im Vordergrund. Links Busch= werk.Im dunstigen HintergrundWaldstreifen unter rotem Abendhimmel. Rechts unten bezeicbnet:L.Munthe. Leinwand39,5/61
+
+## JOSEF MUHLBECK,Munchen.
+
+- 157 Stilleben. Auf einer rohgezimmerten Tischplatte, auf der rehts ein weibes Tuh liegt, steht ein Blechteller mit einem Studk rohen Fleish, Daneben eine Zwiebel, Zinnkanne und Sellerie.Dunkelbrauner Hintergrund. Holz45/63,5
+
+Links unten bezeicbnet: Mihtbeck II.21,Mincben.
+
+## BERNHARD MUHLIG t,Dresden.
+
+- 158 Zugspitze mit Waxenstein. Uber die niedrigen Anhohen, die sic hinter dem Gebirgsbach mit Muhle im Vordergrund erheben,ragen die Bergriesen empor. Leinwand15/25
+
+Links unten bezeicbnet:B.Miuhlig.
+## EDUARD JOSEF MuLLER t,Frankfurt a.M.
+
+- 159 himmel ab.
+- Blidk auf Praunheim. Hinter den mit Strauchern und Baumen be standenen Niddawiesen, durh die sich der Wasserlauf hinzieht, heben sich die Kirce und Hauser von Praunheim vom bewolkten AbendKarton 45,5/61,5
+
+Links unten bezeicbnet:Ed.J. Mifler 1921, Blick auf Praunheim.
+
+## MIHALy DE MUNKACSy t,Endenid bei Bonn.
+
+- 160 Zeichenunterriht. In einem dusteren Zimmer vor japanishem Wand schirm sitzt ein junges Madchen und halt einen Zeichenblock auf ihren Knieen. Ihre Shwester beugt sid uber sie und deutet mit der rechten Hand erklarend auf das Zeichenpapier. Sie blidkt nah der Clythia Buste, die links auf einem teppichbelegten Tish steht.Im Vordergrund Shemel mit Zeichenmappe und Bleistift,rechts eine Palme. Links unten bezeicbnet:Munkacsy M. Leinwand 66/89
+
+Abbildung Tafel XlIl
+
+## FRIEDRICH NEHRLICH (au Federizo Nerly&gt; t,Venedig.
+
+- 161 Der Canal grande in Venedig. Auf der leicht gekrauselten Wasser fache, in der sich das Licht des Mondes silbern spiegelt, zahlreiche Gondeln, teilweise durh Lampions erleuhtet.Der Kanal wird beider= seits von Palasten begrenzt, deren einer links hell erleuchtet ist. Rudk= warts ragen die Kuppeln von Santa Maria de la Salute uber die Hauser
+- heraus, Leinwand 104/150
+
+Rechts unten bezeicdnet: F. Nerly.fc.
+
+## HEINRICH NEPPEL,Munhen.
+
+- 162 Oberbayrishe Seelandschaf. Unter dem hohen Himmel mit auf= ziehenden Gewitterwolken liegt die weite Ebene mit der ruhigen Wasser flahe eines Sees. Im Vordergrund auf Wiesen, die durh einen Feldweg getrennt sind, lagert eine Kuhherde. Den Mittelgrund des Bildes durh zieht ein dunkles Waldstuck. Karton70,5/90
+
+Rechts unten bezeidnet: H. Neppel.
+
+## FRITZ NEUHAUS t,Dusseldorf.
+
+- 163 Obersteiger in Paradekleidung.Vor grunem Hintergrund die Halb= figur, den Kopf mit dem weiben Vollbart nah links gewandt. Beide Hande halten eine Fahnenstange. Leinw.a.Karton 36,5/32,5
+
+Redts unten bezeicbnet: Fritz Neuhaus Nadlaf.
+## NIEDERLANDISCHER MEISTER vom Anfang des 17. Jahrh.
+
+- 164 Prinzessin mit Papagei. Kniestudk. Neben einem hohen Sessel steht das dreiviertel nach rechts gewandte Kind. In der linken Hand der Papagei, das zuruckgekammte Haar wird von einem Goldhaubhen verdekt. Shwarzsamtner Rock mit Goldkronchen. Silbergrauer Spitzen= kragen und Manschetten. Korallenketten. Das Inkarnat gelb-braunlich mit rosa=roten Tonen. Holz 66/52 Fruher Cornelis de Vos zugeschrieben.
+
+## NIEDERLANDISCHE MEISTER,17.Jahrhundert.
+
+Starke Verkurzungen, die plastishe Erscheinung und die farbige Auf= fassung erinnern an Poelenburgh und die Utrechter Shule. Holz 28/21
+
+- 165 Sterbende Amazone. Vor einem Baum kniet ein Jungling, der den Pfeil aus der Wunde der in seinem Shob liegenden Amazone zieht. Auffallend das graue Inkarnat der Amazone und das Rotliche des Mannes, sowie der rote Mantel des Junglings und das goldgelbe Ge= wand der Frauengestalt.
+- 166 Lowenjagd. Im Vordergrund links ein wildes Getummel von Reitern, die mit Lowen in heftigen Kampf verwidkelt sind. Reiter und Pferde sind teilweise von den Tieren zu Boden geworfen. Hinter dieser Gruppe eine Ruine, aus deren Toroffnung ein Leoparde heraussturzt. Auf der Waldwiese rechts sieht man aus groberer Entfernung einige Reiter, die in vollem Galopp einen Lowen jagen. Hier senkt sich das Gelande bis zu einem See, uber den sidh der bewolkte Himmel spannt.Die kraftigen, starken Farben des Vordergrundes gehen nah hinten in blassere,braun liche und blaugrunliche Tone uber. Vor allem die Landschaf ist luftig und fein gemalt und ist charakteristisch fur die niederlandishe Schule.
+- Leinw.45,5/110 AbbildungTafelV 167 Eberjagd. Auf einem von Baumen und Bergen umgebenen Hoch= plateau sieht man in der Mitte die kreisformige Umzingelung eines Ebers. Hunde und Reiter sturzen von allen Seiten auf das Tier los. Hinter den Baumen links kommen noch Ritter mit Hunden herbei. Rechts sieht man in groBerer Entfernung einen Reiter mit Hunden einem Eber nachsetzen. Die Berge im Hintergrund senken sich von der Burg links allmahlich nah rechts hinab. Starke Lokalfarben im Vordergrund, auffallig das Weib des Shimmels und das rote Gewand seines Reiters. Leinwand 45/110
+
+## ADOLF OBERLANDER t,Munchen.
+
+Rechts unten bezeicbnet:A. Oberlander.
+
+- 168 Hofnarr mit Tiger. In leicht angedeuteter Landshaft hupf ein Mann in Narrenkleidung vor einem Tiger her, dem er einen Federbusch vor die Nase halt. Aquarell19,5/35
+## OBERITALIENISCHER MEISTER,1.Halfte des 17.Jahrh.
+
+&lt;Guercino=Kreis&gt;
+
+- 169 Lukretia.Kniestudk).Die weibliche Gestalt ist sitzend inVorderansiht dargestelt. Sie wendet den Kopf im Schmerz zur Seite, wahrend sie mit der rechten Hand den totenden Dolth fabt. Der Oberkorper ist entbloBt,wahrend uber ihren Shob ein dunkelblauer Mantel gebreitet ist.Vor dem dunklen Grunde leuchtet das goldige Inkarnat des Korpers. Leinwand 135/98
+
+## GEORG OEDER,Dusseldorf.
+
+- 170 Sumpflandshaft.Aus einer Wiese, durch die ein Weg fuhrt, ragen kahle Buchen= und Weidenstamme in den grauen Abendhimmel. Rechts uber eine kleine Anhohe leuchten die roten Dacher eines Bauernhofes vor entlaubten Baumwipfeln, links shifbewachsene Sumpfniederung.
+
+Leinwand 60/100
+
+Rechts unten bezeicbnet:G. Oeder 89.
+
+Abbildung Tafel XXIll
+
+## HENRY OTTMANN,Paris.
+
+- 171 Fruhtestilleben.Aepfel und Birnen auf violetter Tishplatte, davor auf
+- weiBem Tuh zwei Pflaumen. Einformig graue Wand als Hintergrund.
+
+Rechts unten bezeicbnet:Henry Ottmann.
+
+Karton28/31
+
+## PIETER GERARDUSVAN OOS 1776-1839,Amsterdam.
+
+- 172 Kuhe am Waldrand. Auf einer Wiese vor dichtem Bushwerk und belaubten Baumstammen lagern zwei Kuhe und eine Ziege. Links Ausblicdk in die Ebene. Der leiht bewolkte Abendhimmel beanspruht den groBten Raum des Bildes. Im Ganzen kuhle helle Farben
+
+sehr geschatzt sind. Leinwand118/98,5
+
+Typisches Werk des Nahahmers von Paul Potter, dessen Arbeiten
+
+UInten etwas links bezeicbnet:P. G.van Os, 1816.
+
+Abbildung Tafel VI
+
+## MORITZ DANIEL OPPENHEIM ,Frankfurt a.M.
+
+- 173 Kinderbildnis. Neben einem Biedermeierstuhl sitzt ein blondlodkiger, kleiner Knabe in blauem Rodk mit Halskrause und langen, weiben Hosen und halt in der linken Hand eine Peitsche. Auf seinem rechten Arm sitzt ein Kanarienvogel. Neben ihm der Vogelkafig.
+
+Redts bezeichnet:M.Oppenheim 1830.
+
+Leinwand79/65,5
+## JEANBAPTISTE OUDRy 1686-1755,Beauvais.
+
+- 174 Jagdstilleben.Auf dem Erdboden eines Waldes liegt das erlegte Wild= pret. Im Mittelpunkt ein Hase, der an seinem Hinterlauf an einem Baumstamm aufgehangt ist. Der Kopf des Hasen ruht auf einer Jagd= tasceauf dernoheng aneinander gedrangteshossenes Geflugel li Redhts neben dieser Hauptgruppe tote Vogel, nah denen eine Katze von oben gierig ausblidkt.Hinter dem Stillebenist derWald harakterisiert durch einen didken Baumstamm in der Mite, durh dichtes Laub rechts, durh eine Waldlichtung links, uber der der Himmel erscheint. Stark leuchtende Lokalfarben im Vordergrund (viel gelb und rot), warmer grunlid brauner Ton im Hintergrund, wo die Farben besonders breit und fot hingesetzt sind. Weiche Uebergange, feine Waldstimmung. Leinwand118/90
+
+Abbildung Tafel VIlI
+
+Das Bild gilt als ein Werk von Oudry,und zeigt vor allem in der bewegtenLandscbaftsauffassung Merkmale der franzosischen Scbule.
+
+- 175 Jagdstilleben. Ein an seinem Hinterlauf aufgehangter Hase und einige davor liegende Rebhuhner.Dahinter belaubter Wald. Die Farb= stimmung ist etwas dusterer als beim vorigen Bild und zeigt weniger starke Kontraste. Gegenstudk zum Vorigen
+
+Abbildung Tafel VIII
+
+## HENRY PALIZZIt, Paris.
+
+- 176 Scafherde unter Baumen. In dem Shatten eines Waldstuckes hat ein Hirte mit seinen Shafen vor den Strahlen der Sommersonne Zu= fluht gesuht. Links rudwarts Flahland. Leinwand 28/41 Rechts unten bezeichnet:H. Palizzi.
+
+## ABRAHAMDEPAPE1620-1666,Leiden.
+
+- 177 Raucher. In einem braun gehaltenen Innenraum sitzt ein Mann mit roter Kappe und einer Pfeife im Mund,nach vorn gebeugt,auf einem Shemel und legt die linke Hand auf sein linkes Knie. Holz34/26
+- Links unten bezeichnet:A DE PAPE.
+
+## EUGEN PEIPERS t,Frankfurt a.M.
+
+- 178 Der Rhein bei Lorch. Von der Anhohe des Vordergrundes,uber die ein Weg fuhrt, blidkt man in das Stadtchen mit seinen alten, schiefer= gededkten Hausern. Links die Kirche, zu der eine Treppe hinabfuhrt. Hinter dem Stadtchen erhebt sih der Berg mit der Ruine, links Blick uber den FluB auf das linke Ufer mit dem Orte Heimbadh.
+
+Links unten bezeicbnet,Eugen Peipers.
+
+Leinwand 64/86
+## HANNS PELLAR,Darmstadt.
+
+- 179 Waldidyll. Am FuBe mactiger Baumstamme sitzt eine Dame in
+- weitem Reifrok und lauscht,mit ihrer Reitpeitshe spielend,einem Piqueur mit grunem Rod, der auf einem Waldhorn blast. Rechts unten bezeichnet:Hanns Pellar. Karton 62/57
+
+## ANTOINE PESNE 1683-1757,Berlin(Art).
+
+- 180 Brustbild eines jungen Maddhens mit ShoBhund. Nad rehts gewandt, halt es mit seiner linken Hand das Hundhen. Blabblaues Gewand. Cremefarbiges Kopftuch umhullt die Haare. Hellgelbes In=
+- karnat. Grunlihbrauner Hintergrund.Vielfahe Uebermalungen.
+
+Leinwand auf Karton 64/48,5 Abbildung Tafel X
+
+## EUGENE PETIT t,Paris.
+
+- 181 Blumenstilleben. Auf einem grunen Steinpostament liegt ein Bush verschiedenfarbiger Rosen, von denen ein Teil von hellem Sonnenlicdht beschienen ist. Leinwand38/56
+
+Rechts unten bezeicbnet:Eugene Petit.
+
+## BRUNO PIGLHEIN t,Munchen.
+
+- 182 Mutter mit Kind in Landshaf. In einer grob angelegten Landschaf, die von dem hellen Liht des Vollmondes beleuchtet wird, sitzt am Wegrain eine Frau und halt ein kleines Kind auf dem Shob. Redts unten bezeicbnet:B.Piglhein. Leinwand 116/74
+
+## EDUARD WILHELM POSE ,Frankfurta.M.
+
+- 183 Landschaf. Auf einem Weg, an dem links zerkluftete Felsen mit
+- uppiger Vegetation, stehen zwei Landleute im Gesprah.Redts Aus= siht in die Landshaft,die von hohem Bergzug begrenzt ist.Im Mittel grund ein Stadtchen. Leinwand24,5/32
+
+LInten etwas recdts monogrammiert:E.P.1841.
+
+## HENRY POTUIIJL t,Brussel.
+
+- 184 Inneres einer hollandishen Kuche. Durh die Speisekammer mit
+- zahlreichen Kuchengeraten, Gemusen, Fruchten usw. blidkt man durh einen Turrahmen rechts in die etwas erhohte Kuce, in der eine Frau in roter Bluse und shwarzem Rodk am Kaminfeuer sitzt.
+
+Das Gegenstick befindet sicd im Museum in Briissel. Bestimmung von H. Bredius. Leinwand55/44
+## PIERRE CECILE PUVIS DE CHAVANNES t, Paris.
+
+- 185 Stehender Akt. Mit erhobenen Armen; ein Tuh bededkt das linke Bein. Kreide 36/19
+
+## Bezeichnet:REMBRANDT f.1650.
+
+- 186 Abendlandscaf.Links Bauernhauser von Baumen umgeben. Rechts Blidk in Ebene mit Dach und Kirchturm. Bewolkter Abendhimmel. Links unten bezeicbnet:Rembrandt f.165o. Leinwand78/100
+
+## AUGUSTE RENOIR t,Paris.
+
+- 187 Kopf einer Dame. Das volle ovale Gesicht etwas nah links gewendet. Grunbrauner Hintergrund, von dem sidh die bunten Blumen des Hutes leuchtend abheben. Leinwand 40/28 Rechts unten bezeicbnet:A. Renoir.
+
+Gutadten von Meier= Graefe.
+
+## HYACINTHE RIGAUD 1659-1743,Paris.
+
+- 188
+- 8Portrat Ludwig XIV.in ganzer Figur, stehend.Vor einem alt= goldenen Vorhang, der links eine Saule uberschneidet, steht der Konig und stutzt seine das Szepter haltende Rechte auf den danebenstehenden Tisd. Den linken Arm hat er in die Seite gestemmt. Ein mit Herme= lin besetzter blauseidener Mantel wallt breit herab und bedeckt das weibseidene Gewand. Die weiBen Schuhe haben rote Absatze und rote Spangen und dieses Rot klingt noch einmal wieder in dem Teppidh und dem Vorhangzipfel ganz oben. Leinwand,obenrund 303/153 Abbildung Tafel III
+- 189 Marschall de Vauban in einer Landshaft stehend. Der Marshall steht in rotem Gewand mit brauner Rustung, weiber Sharpe und blauem Ordensband im Vordergrund auf einem freien Platz, der links von einem Baum gerahmt ist. In der Rechten halt er den Marschallstab, mit der Linken deutet er, in weit ausladender Gebarde, auf das freie Gelande, das den Hintergrund gibt.Der Vordergrund der Landshaf ist in dunklem Braun gehalten, wahrend sih der Hintergrund mit den Staffagefiguren zweier Reiter heller dagegen absetzt. Gegenstudk zum Vorigen. Abbildung Tafel II
+- 190 Louis Bourbon,Prinz Conde in einer Landshaft stehend.In
+- vollem Harnisch, der metallisd shillert,mit blauem Ordensband und weiBer Feldbinde steht der Furst in eleganter Stellung vor uns und deutet mit seinem rechten Arm in die Landschaft, wahrend die linke Hand den Degenknauf umfaBt. Der Hintergrund ist dunkler als bei den vorhergehenden Bildern. Gegenstuck zum Vorigen
+
+Abbildung Tafel III
+Die drei Bildnisse zeigen den eleganten Stil und die freudige Farb= behandlung des beliebten Hofmalers Ludwig's XIV., der in feinem Takt die pomphafte Darstellung der Umgebung und des Beiwerks dod den Figuren gegenuber zurudktreten laBt.
+
+Das Bild Ludwig XIV. ist eines der vielen Wiederholungen des be= ruhmten 1701 bezeichneten Bildes im Louvre, die damals als Geschenke gemalt wurden. In diesem Falle handelt es sich um Geschenke Ludwigs XIV an Colbert.
+
+## ANTON ROMAKO t, Wien.
+
+- 191 Romerin. In felsiger Gebirgslandshaft steht die lebensgrobe Ganz= figur einer jungen Italienerin. Die rechte Hand halt auf dem Kopf ein KupfergefaB, die Linke ist in die Hufte gestutzt.In ihrer Shurze tragt sie einen Kirschenzweig mit Fruhten. Leinwand220/136 Recbts unten bezeichnet:A.Romako,Roma.
+
+## JOHANN HEINRICH ROOS 1631-1685,Frankfurt a.M.
+
+- 192 Reitergruppen in Ruinenlandscaft. Vor einer in Bogen geoffneten Ruine halt ein Reiter auf einem Shimmel, an den ein zweites Pferd ge= bunden ist. Hinter ihm erscheint ein zweiter Zug von Tieren, geleitet von einem Fuhrer. Links im Vordergrund eine hohe Baumgruppe. Rechts Blidk in eine offene, ferne Landschaft mit Staffage. Holz 71/88 Recbts unten am Steinmonument bezeicbnet: J. H. Roos fc.
+
+Abbildung Tafel V
+
+## JOHANN HEINRICH ROOS1631-1685,Frankfurt a.M.
+
+(zugeschrieben).
+
+- 193 Weidende Herde. Vor einer mit Baumen bewahsenen Ruine lagert sich breit in einzelnen Gruppen eine Viehherde. Vorn rechts liegt der Hirte in rotem Gewand. Ihm zur Seite der Hund. Im Hintergrund
+- Berge. Bewolkter Himmel. Leinwand64/47
+
+Abbildung Tafel XI
+
+## SALVATOREROSA1615-1673,Rom.
+
+- 194 Seesturm. Ganz vorn ragen dunkle, zadige Felsen in unregelmabiger Gestalt in die Hohe, an die sid Menschen anklammern, die von dem in der Brandung scheiternden Sdif abgesdleudert wurden. Dieses, hinter den ersten Felsen, steht dunkel in dem brodelnden hellen Wasser= kessel und kippt mit seinen Masten schrag nah hinten. Dahinter shlagt das Wasser in einer einzigen dunklen Welle empor, auf deren Kamm in der Mitte des Bildes ein Segelschiff treibt. Das Wasser zeigt hier hellere Farbung, dehnt sich nah links hin in die Tiefe, wahrend
+- 198
+
+es nah rechts an einen Kustensaum stoBt. Sturmhimmel mit Blitzen. Das Bild ist sehr breit gemalt und gibt mit seinen scharfen Kontrasten von dunklen Felsen, Shiffen, sich aufbaumenden Wogen und dem hellen Gebrodel dazwischen eine packende Darstellung des Sturmes. Sehr ahnlich ist ein Bild von S. R. im Joaneum in Graz:Stur mische See". Leinwand 146/200
+
+Abbildung Tafel I
+
+## ROSADITIVOLI1657-1705,Rom.
+
+- 195 Lagerndes Vieh. In einer Ebene ruht eine Viehherde von Kuhen, Shafen und Ziegen, die die Breite des Bildes ausfullt. Links am Rand der Hirte neben einem Baum. Rechts Berg mit Ruine. Tiefblauer Himmel, dunkelgruner Erdboden, kraftig in Liht und Shatten abge tont.Die Tiere leuchten stark in gelblichen, braunen und dunklen Farben.
+
+Das Bild zeigt die fur Rosa di Tivoli harakteristische derbe Pinsel= fuhrung. Leinwand 66/102
+
+## LUDWIG VON ROSSLER ,Frankfurt a.M.
+
+- 196 Stabat mater dolorosa. Auf der Empore einer Kirche, zu der von rechts eine Wendeltreppe fuhrt, stehen sieben junge Nonnen singend neben der Orgelspielerin.Eine andere Nonne kommt die Treppe herauf, an der rehts ein Standbild der Shmerzensmutter steht. Links an der Wand vorbei, sieht man in undeutlichen Umrissen die Andachtigen in der Kirche. Leinwand 61/51
+
+Recbts unten bezeichnet: Ludw.v. Rossler.
+
+## CARL ROTTMANN t,Munhen.
+
+- 197 Partenkirchen 1825.Blidk in die Dorfstrabe mit Brunnen,an dem drei Wascherinnen stehen. Uber den Dahern das Gebirgsmassiv der Waxenstein- und Zugspitzgruppe. Blauer Sommerhimmel. Es handelt sich um eine Arbeit des Kunstlers, die bis zum Atelier zu= ruckzuverfolgen ist und die auber dem beigegebenen Gutachten Dr. Hanf= stengl als eine Originalarbeit Rottmanns bezeichnete.
+
+Gutacbten von A.Knittel. Malpapier auf Holz 26,5/35,5
+
+## P.E. THEODORE ROUSSEAU t, Barbizon
+
+- Landschaftsstudie. Am Ende eines Wiesengelandes, durh das ein baumbestandener Weg fuhrt, die Hauser eines Dorfes, die sich links eine Anhohe hinaufziehen. Leinwand 18/39 Rechts unten Monogramm: Th.R.
+## PETER PAUL RUBENS, Kopie.
+
+198a Der Raub der Tohter des Leukippos. Verkleinerte Kopie nad
+
+- dem Original in der alten Pinakothek,Munhen.Leinwand 130/122
+
+## PHILIPP OTTO RUNGE t,Hamburg Shulkreis&gt;.
+
+- 199 Doppelportrat. Von dem dunklen Hintergrund heben sich die hellen Gesichter des dargestellten Ehepaars ab. Neben der sitzenden Frau, von der nur der Kopf mit der weiben Spitzenhaube und ein Studk des blauen Kleides zu sehen ist, steht die Halbfigur des Mannes in
+- dunklem Uberrodk, roter Weste und weiber Halsbinde.
+
+Auffassung und Malweise weisen auf die Umgebung des Kinst= lers hin. Leinwand 65/58
+
+## WILHELM RUNZE, Frankfurt a.M.
+
+- 200 Spinnerin. Vor einer grunbraunen Wand, an der ein Heiligenbild und eine Lampe hangen, sitzt ein junges Madchen in oberhessischer Traht am Spinnrad.Gruner FuBboden. Leinwand 100/82
+
+Links oben bezeicbnet:W. Runze 1913.
+
+## KARL SCHLEGEL, Munchen.
+
+- 201 Mandolinenspielerin.Vor einem Waldstudk als Hintergrund sitzt die Dreiviertel-Figur eines jungen Madchens mit breitrandigem Hut auf dem dunklen Haar. Ein buntes, orientalisches Tuh liegt uber dem violetten Kleid,in den Handen halt sie die Mandoline.
+
+Rechts unten bezeichnet: K. A. Scblegel.
+
+Leinwand94,5/74
+
+## EDUARD SCHLEICH sen.t, Munchen.
+
+- 202 Partie am Chiemsee. Recht s am Ufer eine Hutte zwischen Strauhwerk und Baumen, davor im Schilf Mann mit roter Weste in einem Kahn. Links die ruhige, dunkelblaue Wasserflade, die im Hintergrund durd die allmahlih ansteigenden Voralpenberge begrenzt wird. Graube= wolkter Sommerhimmel. Holz 38/88
+
+Rechts unten bezeicbnet: E. Scbleich.
+
+## ADOLF SCHREyER t, Cronberg.
+
+- 203 Ruhende Araber. An dem Wassertrog vor einer Felsennische steht ein berittener Araber und trankt sein Pferd. Neben ihm ein zweites Pferd, dessen Reiter sich neben der Tranke auf den Felsen gelagert hat. Links Ausblidk in eine Ebene unter leichtbewolktem, blauem Himmel. Aquarell25/41
+
+Links unten bezeichnet:A.Schreyer.
+
+Abbildung Tafel XXI
+## ADOLF SCHREyER t,Cronberg
+
+- 204 Wallade. Auf der aufgeweichten Strabe, die zwischen Feldern nad dem Hintergrund fuhrt, reitet ein Wallahe auf einem Rappen. Das Liht der untergehenden Sonne wirft scharfe Reflexe auf Pferd und Reiter. Rects im Hintergrund Waldstudk. Leinwand 16/24 UInten etwas rechts bezeicbnet: A.S.
+
+## NORBERT SCHRODLt, Cronberg.
+
+- 205 Foxterrier in einer Wiese. Durch das hohe Gras springt ein kleiner Fox mit blauem Halsband erschredt dem Vordergrund zu, wahrend zwei Hasen in der entgegengesetzten Rihtung fortlaufen,
+
+Leinwand27/32
+
+## OTTILIE SCHULZ,Weimar.
+
+- 206 Die Verliebte. An einem Tisch mit Kerze sitzt ein junges Maddhen und betrachtet eine Photographie, die sie zwischen das Kerzenlidht und den Beschauer halt, so dab sie voll von dem Lidht getroffen wird Brauner-Hintergrund. Holz20,5/16
+
+Links oben bezeicbnet:O.Schbulz,Wmr.
+
+## LUDWIG SCKELLt, Munhen.
+
+- 207
+- Sdlob Andeds am Ammersee. Auf einer bewaldeten Anhohe uberragt das mahtige Gebaude die Ebene und den See im Hintergrund. Rechts unten bezeicbnet: L. Sckell. Holz15,5/25,5
+
+## DANIEL SEGHERS 1590-1661, Antwerpen (Art).
+
+- 208 Madonna in Blumenguirlande. Die Halbfigur der Maria mit dem
+- Kind erscheint, im Oval gefabt, auf rotlid braunem Grunde. Inkarnat hellgelb, Mantel der Maria shwarz. Um das Oval ein Kranz von Blumen in gelb und roten Farben, vielfah abgetont vor dunkelgrunem Hintergrund. Holz61/48
+
+## ANTON SEITZt, Munhen.
+
+- 209 Im Gasthaus. Im Gastzimmer sitzen an einem weibgededkten Tisch mit Weinkanne,Flashe und Glasern ein Mann und ein junges Madchen und bliden erwartungsvoll nach einem jungen Bauernburschen, der eine Sektflasce entkorkt.Hinter dem Tisd die Wirtstocter.Rects fuhren Stufen zum Ausgang. Links im Hintergrund steht der Wirt neben dem Tish mit Stammgasten. Im Vordergrund links Fasser und
+- Weinkrug. Holz24/33
+
+Rechts unten bezeicbnet:Ant. Seitz.
+
+Abbildung Tafel XXVII
+## PAUL SIGNAC, Paris.
+
+- Z10 La Rohelle. Zwishen den Befestigungen fuhrt links die Durchfahrt aus dem Hafen in das offene Meer. Lebhaft gefarbter Himmel mit bizarrer Wolkenbildung. Aquarell 20,5/28
+
+Links unten bezeicbnet: P. Signac.
+
+Recbts: La Rocbelle 1911.
+
+- Marseille. Zahlreide Schiffe beleben die blaue Wasserflahe des Aquarell 27/40
+- 211 Hafenbassins, mit farbenreicher Umgebung. Links unten bezeicbnet:P. Signac, Marseille.
+
+## FRANZ SIMM t,Munhen.
+
+- 212 Ruhende Karawane. In weitem Flahland mit Bergen im Hintergrund lagern die Eingeborenen in bunter Kleidung zwischen den ruhenden Kamelen. Aquarell22,5/33
+
+Links unten bezeichnet: F. Simm.
+
+## CARL FRITHJOF SMITH,Weimar.
+
+- 213 Auf dem Friedhof. Auf dem mit einer Hedke umgebenen Friedhof tritt eine junge Frau mit schwarzem Kleid und weiber Haube, ein Kind an der Hand, an die mit einfahen Kreuzen versehenen Grabern heran. Uber die Einzaunung hinweg blidkt man in eine ode Ebene, die durd niedrige Bergzuge abgeschlossen wird. Leinwand74/103
+
+Links unten bezeicbnet: C.Frithjof Smith.
+
+## HENDRIK MAERTENSZ SORGH,gen.ROKES
+
+## um 1611-1670,Rotterdam(Art).
+
+- 214 Ein Bauer und eine Bauerin sind damit beschaffigt, die verschiedensten Gemuse, die vor einem Gehoff auf Tischen und Fassern ausgebreitet sind, zu richten. Allerhand Haushaltungsgegenstande liegen auf dem Boden. Haustiere bevolkern den Hof. Rechts ein Hund vor seiner Hutte. Links ein Wassertumpel mit Enten. Dahinter ist das Gelande an den beiden Bauernhausern vorbei in die Tiefe gefuhrt mit Blidk auf ein entferntes Dorf. Bewolkter Himmel.
+
+Ein brauner Ton liegt uber dem Ganzen, von dem sidh vor allem die warmen roten Farben und die hellen weiblicen Lichter wirkungsvoll abheben. Holz60/82
+
+Abbildung Tafel IV
+## CORNELIS VAN SPAENDONCKt,Paris.
+
+- 215 Blumen= und Fruhte-Stilleben.Vor graugrunem Hintergrund auf braunem Steinpostament ein Arrangement verschiedenartiger Fructe, mit denen sid Blumen vereinigen,die aus einer rotbraunen Vase heraus= hangen. Einzelne Schmetterlinge und Kafer auf Blumen und Fruchten. Gutachten von Georges Sortais. Leinwand 65/49
+
+## SPANISCHER MEISTER des 19.Jahrhunderts.
+
+- 216 Portrat eines Offiziers. Brustbild in dunklem Uniformrodk mit goldenen Ahselstudken und rotem,reich mit Gold gestidktem Kragen. Die braunen Augen in dem jugendlichen, glattrasierten Gesicht unter shwarzem,hohgekammtem Haar blidken den Beschauer an. Dunkel= gruner Hintergrund. Leinwand 61/50
+
+## SPANISCHER SPATBAROCKMALER.
+
+- 217 Der Heil. Joseph mit dem schlafenden Jesusknaben. Vor grauem, einfachem Grund halt der Heilige mit seinem langen Bart,in Halbfigur dargestellt, das Kind. Joseph hat die Augen verzudkt aufwarts gerichtet. Er tragt tiefbraunes Gewand. Das Inkarnat des Kindes ist gelblid. Durcdh Murillo beeinflut. Leinwand76/62
+
+## SPANISCHER ROKOKOMALER.
+
+- 218 St. Aloisius. Der jugendlidhe Heilige tragt ein weibes Chorhemd uber shwarzem Gewand. Die rechte Hand liegt auf der Brust. Im linken Arm ruht ein Kruzifix, das er andadtig an sich preBt. Unter der linken Hand ein Totenschadel. Auf dem Tish ein Lilienstengel. Das Inkarnat zeigt rosa Tone, der Grund gelblich-braune. Leinw.65/50 Gilt traditionell als Raphael Mengs.
+
+## CARL SPITZWEG , Munhen.
+
+- Z19 Lapplander im Winter. Uber den Shnee der oden nordischen Land shaft schreiten die humoristisch aufgefabten Gestalten zweier Lapp lander,deren jeder ineFlashe tragt,demVordergrund zu.DerHimmel der vier Funftel des Bildes einnimmt, geht von braungrauer, hellerer Farbung zum Tiefschwarz am Horizont uber, vor dem links blaulih
+- grau getonte Eisberge aufragen. Leinwand50/42
+
+Rechts unten im Gras bezeicnet: Spitzweg: links unten Monogramm und Bezeichnung Spitzweg. Abgebildet in LIhde-Bernays:Carl Spitzweg No. 18. Gutachten von Prof.Karl Kottschau.
+
+Abbildung Tafel XXII
+## CARL SPITZWEG t,Munden.
+
+- 220 Verbotener Weg.Auf einem Weg, der zu dem Dorf im Hintergrund fuhrt, steht ein geistliher Herr mit auf dem Ruden verschrankten Handen und sieht einem Liebespaar nah, das hinter einem Kornfeld in einen verbotenen Weg eingebogen ist. Blauer Sommerhimmel mit brauner Wolkenbildung. Rudkwarts wird die Landschaft durh hohen Gebirgszug abgeschlossen.
+
+Nach Uhde Bernays handelt es sich um eines der fruhesten Werke des Kunstlers und sowohl die Schriftzeichen auf der Tafel Verbotener Weg als auh dasKolorit derandshaft sindna seinerAnsit,unbeding von dem Kunstler herruhrend. Leinwand34/27
+
+Mit Gutachten von Uhde=Bernays.
+
+Abbildung Tafel XXII
+
+## ADOLPH STADEMANN t,Munhen.
+
+- Winterlandschaff. Unter dem graubewolkten Winterhimmel, an dem der blutrote Ball der Sonne untergeht, liegen die kleinen Haushen des Dorfes mit verschneiten Dadern. Im Vordergrund geht die Dorfjugend auf dem gefrorenen Bah den Winterbelustigungen nah, denen ein
+- 221 Mann mit einem Hund auf dem Holzsteg zusieht.
+
+Links unten bezeicbnet:A.Stademann.
+
+Leinwand 107/146
+
+## CHRISTIAN STOCKLIN 1741-1795,Frankfurt a.M.
+
+- Kircheninneres. Die dunkleren Saulenarkaden eines Querschiffes uberschneiden die hellere Flucht des Langhauses, das ebenfalls auf Saulen ruht. Einige wenige Besuher beleben das in silbergrauen Tonen ge Holz 15,5/18
+- 222 haltene Bildhen.
+
+Rechts unten bezeichnet: Stocklin.
+
+## BERNARDO STROZZI 1581-1684,Venedig（zugeschrieben）.
+
+- 223 Santa Lucia. Halbfigurenbild einer Heiligen. Sie wendet sich drei viertel nah links, wo unten am Rand ein Tisch zum Vorschein kommt, auf dem ihre rechte Hand mit dem senkrecht aufragenden Palmwedel ruht.Der linke Arm ist gebeugt,mit der Hand rafft sie einen Gewand zipfel zusammen. Sie ist reich bekleidet, in einem roten Gewand mit Spitzkragen, uber den ein goldgelber Spitzenshawl geworfen ist. Um den Hals eine Kette. Vielfahe Ubermalung. Leinwand75/63
+
+## TIZIANO VECELLI 1476-1576,Venedig(Nahahmer).
+
+- 224 Biblische Darstellung. Ein Konig bietet einer jungen blonden Frau einen Teller mit Geld und Geschmeide an. Leinwand72,5/90
+## TIZIANO VECELLI 1476-1576,Venedig (Nahahmer).
+
+- 225 Darstellung aus dem alten Testament. Mann mit grauem Vollbart reicht einer Frau ein Tablett mit Broten. Gegenstudk zum Vorigen
+
+## WILHELM TRUBNER t,Karlsruhe.
+
+- 226 Gigantenshladt. In felsiger Landscaf vor dunkelbewolktem Himmel stehen und liegen die nadkten Korper der Giganten, die Felsblodke heben, um sie gegen Zeus zu shleudern, der auf einem Adler, den Blitz in der Hand, in den Kampf eingreif. Studie zu dem Gemalde in der Kunsthalle in Karlsruhe. Leinwand75/62
+
+Links unten bezeicbnet: W. Tribner.
+
+## K.TRUMOJECKy ,St.Petersburg.
+
+Links unten bezeichnet: K. Trumojecdy. Leinwand 60,5/45
+
+- 227 Russisder Bauernjunge. Auf einem Wege zwishen steppenartigen Grasflahen geht der Junge in weibem Kittel und tragt ein Pferdegeschirr um den Hals gehangt. In den Handen halt er einen Topf und einen Krug. Rudwarts Bauernhauser vor hohen Baumen.
+
+## FRITZ VON UHDE tMunhen.
+
+- Z28 Fructetragerin. In rotem Gewand und weibem Kragen steht ein junges Madchen mit silberner Haube auf schwarzem Haar vor einem gobelinartigen Hintergrund und halt ein Tablet mit verschiedenartigen Fruhten in den Handen. Im Vordergrund bauchige, silberne Weinkanne mit Engelsfigur am Henkel, Leinwand 119/83
+
+Rechts unten bezeichnet. A. f. F.v. UIhde.
+
+## UNBEKANNTER PORTRATMALER.
+
+- 229 Bildnis der Marquise de Grohe.Halbfigur in dekolletiertem weibem Kleid mit blauem Umhang vor grau und braunem Hintergrund mit grunem Vorhang sitzend. Shwarzes gelodktes Haar.
+
+Leinwand73/61
+
+## LESSER URy, Berlin
+
+- 230 Am See. Junge, belaubte Birkenstamme beugen sich nach links uiber den Seespiegel und lassen den Blidk uber die weite,ruhige Wasserflade frei. Diese wird im Hintergrund durch leicht ansteigendes, bewaldetes Ufer abgeshlossen. Blau und rosa gefarbter Abendhimmel.
+
+Pastell33/49 Abbildung Tafel XV
+
+Rechts unten bezeichnet: L.Ury.
+## MAURICE UTRILLO, Paris.
+
+- 231 La Place du Tertre a Montmatre. Blick auf eine Kreuzung enger StraBen mit kleinen Hausern,uber die im Hintergrund die Turme von Sacre Coeur emporragen. Einzelne sparlich belaubte Baume beleben
+- das Bild. Karton 31/37
+
+Rechts unten bezeicbnet: Maurice UItrillo,V.
+
+## ANNE VALLAyER-COSTER t,Paris.
+
+- 232 daneben ein Bundel Shwarzwurzeln. Mit Gutachten von Georges Sortais.
+- Stilleben.Auf einer Steinplate vor graugrunem Hintergrund, liegt an einem Korb mit Lauh und Zwiebeln angelehnt, ein Rochen. Links Leinwand59/72
+
+## WILHELM VELTEN, Munhen.
+
+- 233 Landsknechte vor dem Stadtcen.Auf dem Weg, der nad der Stadt fuhrt,deren Hauser und Kirhe im Hintergrund sitbar,rustet si ein Trupp Landsknechte zum Aufbruh. Die junge Marketenderin reicht einem Reiter mit zweiSdimmeln einen Trunk,rects das Marketenderzelt. Rechts unten bezeianet: W. Velten. Holz15/22
+- 234 Truppenlager. Beiderseits des Weges im Vordergrund spielt sich das
+- bunte Treiben des Lagers ab.Rechts vershiedene Zelte, im Hintergrund ein Stadtchen. Holz 14/21
+
+Rechts unten bezeicbnet:W. Velten.
+
+## JAN PIETERVERDUSSEN um 1700-1763,Avignon (zugeschrieben).
+
+- Feldlager. In einer Ebene ist das Soldatenlager mit Zelten aufgebaut. Zwischen den Zelten die Menge der ruhenden Soldaten. Links Gruppen von Kartenspielern und Musizierende. Von rechts vorn nah der Mite zieht schrag eine Strabe, auf der zwei Paare tanzen. Rechts Zelte von Gruppen belebt. Beiderseits Baume. Mitelgrund: Stillstehende Reiter, aus groBerer Entfernung gesehen. Hintergrund: Blidk auf das feindliche Lager und weiten Himmel. Farben nach hinten stark abgestuft, von Leinwand76/100
+- 235 warmem Braun zum blassen Grun. Mit Gutachten von Georges Sortais.
+
+## PIETERVERELST 1614&gt;na1668,Antwerpen.
+
+- 236 In einem Fensterbogen stehen ein Knabe und ein Madcen, die Seifen= blasen machen. Rechts am Bogen hangt ein Vogelkafig. Das Inkarnat des Gesidhtes zeigt warm leuchtende Farben, die sih von dem Dunkel des Nischenhintergrundes scharf abheben.
+
+Mit Gutachten von Exzellenz Bode. Die Zuschreibung an Verelst er= sheint ihm auf Grund eines im Kaiser-Friedrih-Museum befindlicen und bezeichn. Gemaldes (die Naherin&gt; sehr wahrscheinlich. Holz 37/29 Abbildung Tafel VII
+## CLAUDE JOSEPHVERNET 1712-1789,Paris.
+
+- 237 Franzosiscer Seehafen Marseille?&gt; Im Vordergrund am Ufer wird ein vornehmes Ehepaar von Fischern bewillkommt. Rechts stoben Fahrleute einen Nachen ab. Das Wasser grenzt rehts rudkwarts an die Hafenanlage mit Leuchtturm, wahrend es sid links in die Weite verliert. Hier ersheint ein Dreimaster. Himmel und Wasser zeigen grunblaue Farbung, die Ufer braune Tone, die das Rot und Blau in den Ge= wandern der Vornehmen zu schoner Wirkung bringen.
+
+Das bezeichnete Bild zeigt in der flotten Behandlung und schonen Farbengebung gute Qualitat. Leinwand 50/63 Bezeicbnet links unten an der Ankermauer in roter Schrift Calt): J.Dernet. Abbildung TafelIV
+
+## JACOMO VICTORS um 1670 in Amsterdam (Art).
+
+- 238 Geflugel auf einem Hof. Vor einer Baumgruppe links stolziert der Hahn, umgeben von drei Enten mit ihren Jungen. Rechts ruckwarts ein Bauernhaus zwishen Baumen. Die dichten Baumgruppen fullen den Hintergrund bis auf eine kleine Flahe rechts, wo der Himmel sichtbar wird. Die Tiere heben sich mit starken Farben und hellen Lichtern von dem dusteren Grund ab.
+
+Victors im Stadelschen Kunstinstitut in Frankfurt a. M.
+
+Leinwand99,5/77,5
+
+AbbildungTafel VI
+
+## VICTOR VIOLLET LE DUC t,Paris.
+
+- 239 Am Seine-Ufer. Auf der Wiese des linken Flubufers, die rudkwarts in einen Wald ubergeht, lagern Ausflugler, die nach einem Kahn auf dem FluB hinblicken. Uber den Baumen des jenseitigen Ufers steigt das leicht violett gefarbte Gelande allmahlid zu mabiger Anhohe an. Am Himmel leihteWolken, die von der Abendsonne zart gefarbt sind. Links unten bezeicbnet: V. Viollet le Duc. Leinwand39/56
+
+## VLAMISCH 17.Jahrhundert.
+
+- Z40 Bachus und Amor. Auf einem rotbeschlagenen Sessel sitzt ein mit
+- einem Fell bekleideter Bacchus. Er neigt sich Amor zu, der links auf einem Sofa kniet. Bacchus erfaBt mit seiner rechten Hand die Linke Amors.Beide halten in der anderen Hand,hoh erhoben,einen Beher. Auf dem Boden eine Kanne, Bogen und Pfeil Amors.Hellgelbe Lichter zeigen den Goldglanz dieser beiden Studke und des Sofas. Im Hinter= grund rehts eine Mauer mit Gitter einer Gartenlaube. Links Baum,
+vor dem sich Weinlaub in die Hohe rankt. Dazwischen der dunkellila graue Himmel, in dessen Farben von beiden Seiten die grunlichen Tone des Hintergrundes weich ubergehen. Zusammenhangende Shatten am Korper des Bacchus. Holz 28,5/23
+
+Das interessante Bildchen zeigt Anklange an Gerard de Lairesse.
+
+Abbildung Tafel VIl
+
+## EMIL F.H.VOLKERS , Dusseldorf.
+
+- 241 Reitpferd. Vor der dunkel getonten Stallwand steht ein Apfelschimmel mit Sattel u. Zaumzeug nah links. Auf dem Boden links ein rotes Tud. Links unten bezeidhnet:E.Volkers 1899. Holz32/43
+- 242 Links unten bezeichnet:E.Volkers 1899.
+- Reitpferd. Vor hellgrauer Wand ein gesattelter Brauner, rehts auf dem strohgededkten Boden ein Trankeimer. Gegenstudk zum Vorigen
+
+## ADALBERT WAAGENt,Berhtesgaden.
+
+- 243 Hochgebirgssee. In der ruhigen Wasserflahe des von felsigem Ufer umgebenen Sees spiegelt sich der rote Abendhimmel. Links steht unter hohen Tannen ein Hirsh. Rudkwarts wird das Bild von steilen, von der Sonne grell beleuchteten Felsbergen abgesclossen. Rechts steigen die Nebel aus den Waldern auf. Blauer Abendhimmel.
+
+Rechts unten bezeicbnet: A. Waagen 1896.
+
+Leinwand 92/151
+
+## MAXIMILIAN WACHSMUTH,Munhen.
+
+- 244 Plauderei. Vor einem grunen Kacelofen sitzt ein Jager in oberbay= rischer Tracht in Unterhaltung mit zwei Dirndln. Neben dem einen Madcen steht ein Topf und eine blaue Kanne. Karton14,5/19,5
+
+Rechts unten bezeicbnet: M.Wachsmuth.
+
+## MAX JOSEPH WAGENBAUER t,Mundhen.
+
+- 245 Heimkehr vom Feld. Durh eine Abendlandschaft mit lebhaft ge= farbtem Himmel treibt ein Bauer seine Kuhe uber eine Wiese nah Hause. Die Gruppe wird von den letzten Strahlen der untergehenden Sonne beleuchtet. Im Hintergrund links Waldstudk,rechts Hauser vor Baumen. Holz 37,5/31,5
+
+Rechts unten Bezeichnung unleserlicd und: pinx 1832.
+
+## J.WILHEMS,Venedig.
+
+- 246 5Vor Venedig. Auf dem blauen Wasser grobe Segelkuter und eine Gondel, die sid in der leichtbewegten Wasserflache spiegeln.Rudkwarts der Dogenpalast mit dem Campanile und die Kuppeln der Markuskirche. Rechts unten bezeicbnet: J.Withems. Leinwand38/55
+## PAUL WEBER t,Munhen.
+
+- 247 An der Amper bei Esting. In dem shilfbestandenen seichten Wasser des Vordergrundes funf Kuhe. Aus der den Teich begrenzenden Baumgruppe ragen die Kirhe und einzelne Dader des Dorfes hervor. In dem Ausblidk rehts hinter Wiesen weitere Bauernhauser. Links unten bezeichnet: Paul Weber. Leinwand 42/72,5
+
+## FRIEDR. WEISBROD,Munhen.
+
+- 248 Auf der Kegelbahn. In einem Wirtsgarten sitzen und stehen am Anfang einer Kegelbahn die Gaste, von denen sich vier am Kegeln beteiligen, wahrend ein funfter an einem kleinen Tisc rechts auf einer Tafel markiert. Leinwand 50/66
+
+Rechts unten bezeicbnet: F. Weisbrod.
+
+## FRANK WILL,Paris.
+
+- 249 Jahrmarkt von Montmartre. Vor den hohen Hausern, an die sich links die，Rote Muhleanshliebt,Karrussels und Shiffsschaukeln, die von zahlreichem Publikum umstanden sind. Leinwand 40/50 Links unten bezeicbnet: Frank Will.
+
+## JOSEF WILLROIDER t,Munhen.
+
+- Aus der bayrischen Hohebene. Auf den Feldern des Vordergrundes mit einzelnen Obstbaumen Bauersleute am Feuer. In der dunstigen Ferne die Kette der Voralpenberge unter graubewolktem Himmel. Karton 14/29
+- 250 Links unten bezeicbnet:J.Willroider. Auf der Rickseite Nacblafstempel.
+
+## PHILIPS WOUWERMAN 1619-1668,HaarlemNahahmer)
+
+- 251 Reiter vor ihrem Zelt. Von links schiebt sich ein Zelt bis etwas in die Mitte des Bildes hinein. Unter dem Toreingang des Zeltes zwei Reiter in Unterhaltung und ein Dritter, der die Fanfare blast. Daneben links zwei Soldaten, die mit zwei Frauen sprehen. Rechts steht ein Reiter neben einem Pferd, vom Rudken gesehen. Hier offnet sich der Blidk in die weite Ebene. Das Weibgrau des Shimmels steht im Kontrast zu dem warmen Dunkelbraun, das uber dem ganzen Vor= dergrund liegt. Holz 36/45
+
+## FEDERICO ZUCCARO 1543-1609,Ancona（zugeschrieben).
+
+- reihen,nah links gewandt, dem Vater, der ihnen gegenuber sitzt und eine Shale in der rechten Hand halt,ein GefaB,dessen Inhalt ihn laben
+- soll. Die drei Oberkorper unbekleidet, Inkarnat grelle Farben.
+
+Leinwand 38/45
+<!-- image -->

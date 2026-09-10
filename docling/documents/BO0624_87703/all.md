@@ -1,0 +1,705 @@
+Jos.Koch
+
+## Bedingungen:
+
+Die Sammlung ist von Mitwoch den 26. bis Samstag den 29. Oktober von morgens 9 Uhr bis nachmittags 6 Uhr und Sonntag den 30. Oktober von morgens 9 Uhr bis mittags 2 Uhr in meinem Auktionslokale Domhof No.8 (im Gebaude des erzbischoflichen Kunstmuseums) zur Besichtigung ausgestellt.
+
+Um die Raume, in denen die Sammlung ausgestellt, nicht zu uberfullen, werden durch und ist nur den damit oder mit Verzeichnissen versehenen Personen die Besichtigung der Sammlungen und Beiwohnung der Versteigerung gestattet.
+
+Die Gegenstande werden in dem Zustande verkauft, worin sie sich befinden,und kann nach geschehenem Zuschlage keine Beschwerde bericksichtigt werden; der Unterzeichnete versichert jedoch hier wiederholt, dass das Verzeichnis mit moglichster Gewissenhaftigkeit und Angabe aller sichtbaren Mangel angefertigt ist. Die Zahlung des Steigpreises einschliesslich des Aufgeldes ist an die Firma Math. Lempertz Buchhandlung und Antiquariat, Inh.:P. Hanstein, Zu leisten, widrigenfalls behalt sich der Versteigerer das Recht vor, die nicht entnommenen Gegenstande auf Kosten des Ansteigerers wieder zu verkaufen.
+
+Der Verkauf findet gegen bare Zahlung statt und ist wenigstens eine ausreichende Anzahlung, die bei der Versteigerungskasse zu entrichten ist,unerlassliche Bedingung. Ausserdem hat der Ansteigerer ausser dem Steigpreise das gewohnliche Aufgeld von zehn Prozent fuir jede Nummer zu entrichten.
+
+Der Unterzeichnete behalt sich das Recht vor, Nummern ausser der Reihenfolge zu verkaufen. Sollte durch einen Zuschlag bei erfolgtem Doppelgebote sich ein Streit entwickeln, so wird augenblicklich der Gegenstand von Neuem ausgerufen, um jedem Teile auf die unparteiischste Weise zu begegnen.
+
+Vorstande offentlicher Anstalten,sowie Privat-Sammler,die der Versteigerung personlich nicht beiwohnen konnen, durfen sich vertrauensvoll mit ihren Auftragen an den Unterzeichneten wenden; er wird dieselben punktlich und nach bestem Ermessen im Interesse der Auftraggeber erledigen. Den Auftragen ist eine Anweisung an ein hiesiges Bankhaus oder eine bare Einzahlung oder sonstige Gewahr beizufuigen. Versendung der erworbenen Gegenstande geschieht auf Kosten und Gefahr der Ansteigerer.
+
+Die Gegenstande muissen langstens nach jedem beendigten Ausruf in Empfang genommen werden; die Aufhebung bis zur Abnahme geschieht auf Gefahr der Ansteigerer.
+
+Die Grossen sind in Centimeter angegeben.
+
+Zu den bei mir von Zeit zu Zeit in Bonn und Coln stattfindenden Versteigerungen nehme ich Beitrage zu massigen Bedingungen entgegen.
+
+Coln, im Oktober 1904.
+
+Der Versteigerer
+
+Auktionator,Friesenwall 106.
+
+Der Auftraggeber
+
+Inh.: P. Hanstein in Bonn und Coln.
+
+Math. Lempertz Buchhandlung und Antiquariat.
+## Gemalde alterer Meister.
+
+## Jean Asselyn,
+
+Amsterdam 1610-1660.
+
+Durch einen Hohlweg zieht ein Jagdtross mit der Hetze und einer Anzahl berittener Jager heim. An der Spitze des Zuges ein mit Beute beladenes Pferd.
+
+## Jakob Adriaenz Backer,
+
+Holz.Hohe 22,Breite 39 cm.
+
+Schiler Rembrandts,geb.zu Harlingen 1608; zu Amsterdam 1651.
+
+## 2 Mannerportrat.
+
+Vornehmer Mann mit schwarzem lockigen Haare,in der Tracht eines Rechtsgelehrten, in rotgepolstertem Lehnstuhle sitzend. In der rechten Hand halt er seinen Hut; den schwarzen Mantel hat er um die Schulter geschlagen.
+
+Erhaltung.
+
+## 3 Frauenportrat.
+
+In gleicher Grosse wie das vorige und in derselben vorziglichen Ausfihrung und Erhaltung.
+
+Prachtvolles in Rembrandtscher Art ausgefihrtes Bild von leuchtendem Kolorit und prachtigster
+
+Leinwand. Hohe S5,Breite 70 cm.
+
+Die Frau des vorigen in schwarzem Kleide, mit weissem Kragen und weissen Armeln, die Hande ubereinander geschlagen, halt sie in einer Hand einen Facher. Sie sitzt ebenfalls in rotgepolstertem Lehnsessel.
+
+## Abraham van Beijeren,
+
+geb. im Haag 1620; zu Alkmar nach 1674.
+
+## 4 Blumen und Frichtestick.
+
+Auf einer niedrigen Mauer steht ein Korb gefullt mit den prachtigsten Blumen als: Rosen, Nelken, Tulpen etc. Vor der Mauer an der Erde liegen Melonen, Apfel und Trauben.
+
+## Hendrik Bles,
+
+geb.zu Bouvignes 1480;+ nach 1521.
+
+## 5 Altar mit der Anbetung der Heiligen drei Konige.
+
+In einer Strohhuitte sitzt unter einem Baldachin die Gottesmutter mit dem Jesuskinde, das lange blonde Haar uber die Schulter wallend. Vor ihr kniet ein greiser Konig, daneben steht ein Negerkonig, rechts der Dritte mit Gefolge,alle in prachtigen Kleidern, dem Jesuskinde Geschenke bringend. Auf dem Dache der Hutte liegen Hirten, die nach unten schauen. Im Hintergrunde der hl. Josef und Kuhe. Im Mauer- werk die Eule,das Zeichen des Meisters.
+
+In goldigem Tone gehaltenes vorzigliches Bild.
+
+## 1 Heimkehr von der Jagd.
+
+Leinwand. Hohe 108, Breite 119 cm.
+## 7 Gebirgslandschaft.
+
+Den Mittelgrund nimmt eine sich weit ausdehnende Landschaft ein. Rechts Felspartien, dem Vordergrunde zu ein kleiner Wasserfall, uber den ein Steg fihrt. Links zwischen Baumen und Gestrauchen ein Weg,uber den ein Mann einen beladenen Esel treibt.Monogramm J. B. verschlungen.
+
+Ganz in der Italienischen Eigenart gemaltes Bild.
+
+## Quirin G. Brecklenkamp,
+
+Holz.Hohe 58,Breite 50 cm.
+
+geb.zu Zwammerdam 1620;+ 1668 zu Leiden.
+
+Inneres einer Amtsstube, an deren Wanden Regale, gefuillt mit Buchern und Akten,
+
+## 8Die Pachtzahlung.
+
+stehen.Am Schreibtische sitzt der Rentmeister in schwarzer Gelehrtentracht,mit grossrandigem Filzhute und langem iber die Schulter wallendem Haar.Er hat das Gesicht zwei Bauern zugewandt, die rechts durch die Tur eintreten und schuchtern, mit abgenommener Mutze, sich zu ihm begeben. Der eine tragt in der linken Hand eine Anzahl Huhner, wahrend der andere sich auf einen Stock stuitzt.
+
+In Rembrandt's Manier gemaltes Bild,mit schoner Beleuchtung. Holz.Hohe 58,Breite 70 cm.
+
+## Bartholomaus Bruyn,
+
+geb. 1493 zu Coln; daselbst 1556/57.
+
+## 9 Portrat.
+
+Kniestuck eines Colner Burgermeisters in Amtstracht. Schwarzer mit Pelz verbramter Mantel und roten Armeln; auf dem Kopfe ein schwarzes Barett. In der rechten Hand halt er, den Finger hineingelegt, ein zugeschlagenes Buch in rotem Saffianeinbande,
+
+Oben gewolbt.
+
+## 10 Geburt Christi.
+
+geb. 1647 zu Alkmar.
+
+Die Engel in den wolkenschweren Luften verkundigen den Hirten auf dem Felde die Geburt Christi. Eine Anzahl von Hirten und Hirtinnen mit ihren Schaf-und Ziegenherden sind auf dem Felde versammelt und horen betend die von den Engeln ihnen uiberbrachte Botschaft an. Rechts vor einer Bauernhitte knieen betend Hirt und Hirtin. In origineller Rembrandt ahnlicher Darstellung, Zeichnung und Kolorit.
+
+die linke Hand ruht auf dem Tische.
+
+Holz. Hohe 46,Breite 311/2 cm.
+
+Leinwand. Hohe 74,Breite 140 em.
+
+## Reinard Coriyn,
+
+bester Schiler des Nicolas Maas.
+
+## 6 Inneres eines Metzgerladens.
+
+Frisch geschlachtetes ausgeweidetes Schwein am Schragen hangend,daneben sitzt der Metzgermeister in braunem Wams und roter Mutze.Vor ihm steht ein Madchen in braunem Rock, schwarzer Schurze und weissem Halstuche,auf dem Kopfe eine schwarze Mitze,das in der linken Hand eine Steingutkanne halt und bei dem Metzger Einkaufe macht.Im Hintergrunde die Frau Meisterin mit Zurechtmachung des Fleisches beschaftigt.
+
+AnderWand allerleiGerätschaften.
+
+Voll bezeichnetes Bild.
+
+Holz.Hohe 66,Breite 59 cm.
+
+## Jean Both,
+
+geb. zu Utrecht um 1610;+ daselbst 1652.
+
+## Jacques Domer,
+## 13 Beim Bilderhandler.
+
+Sicht in einen Bilderladen, in dessen Mitte ein schon geschnitzter Schrank steht, wahrend die Wande voller Olgemalde hangen.Links stehen drei feingekleidete Manner von denen einer ein Bild in der Hand halt, das er aufmerksam betrachtet. An der Erde allerlei Bilder.
+
+## Jean van Goyen,
+
+geb.zu Leyden 1596; 1654.
+
+Holz.Hohe 52,Breite 72 cm.
+
+## 14 Kanallandschaft.
+
+Breiter Kanal uber den ein Nachen mit sechs Personen fahrt. Am rechten Ufer ein kastellartiges Gebaude, mit von Turmen flankiertem spitzen Dache. Am Ufer halt vor einer breiten Treppe ein Nachen,der entladen wird. Im Hintergrunde auf dem Flusse rechts und links Schiffe, sowie Ansicht einer Stadt.
+
+Feingetontes Bild in bester Ausfuhrung.
+
+## J. B. Greuze Manier.
+
+## 15 Miniaturbild
+
+einer alten Frau in grauem Kleide, weisser Mutze und weissem Umschlagtuche. Holz. Hohe 17, Breite 1512 cm.
+
+## Nicolas Hals,
+
+juingster Sohn von Franz Hals.
+
+## 16 Der Rommelpottspieler.
+
+Knabe in hollandischer Tracht spielt den Rommelpott, wahrend ein alter Mann in grauem Mantel und breitrandigem schwarzen Hute dazu singt.
+
+Der Eindruck seines Vaters Franz Hals ist in dem Bilde genau zu erkennen, da es ganz in seiner Art gemalt ist. Leinwand. Hohe 23,Breite 20 cm.
+
+## W. W. Hopfer.
+
+## 17 Portrat.
+
+## Karel Du Jardin,
+
+geb.1634 in Amsterdam; 1678 in Venedig.
+
+## 11 Inneres eines Schafstalles.
+
+Sicht in einen Schafstall. Hinter einem Verschlage sieht man eine Anzahl Schafe, die sich dem Ausgange zudrangen. Auf einer vor dem Verschlage befindlichen Bank liegen Kohlkopfe und allerlei Geratschaften;unter der Bank ein Korb mit Gemise und ein zerbrochener Krug, daneben liegt ein Schaf. Links sieht man durch die geoffnete Tur auf eine Kirche. Durch die Tur schreitet ein Madchen, das ein Korbchen im Arme tragt, dem Verschlage zu.
+
+Schones Bild,das durch Ausfuhrung und Kolorit hervorragt.
+
+## Manier Albrecht Duirer's.
+
+## 12 Der heilige Hieronymus
+
+in der Studierstube, vor sich Folianten,in denen er eifrig studiert, die linke Hand auf dem Totenkopfe ruhend.Im Zimmer allerlei Geratschaften.
+
+Holz.Hohe 48,Breite 32 cm.
+
+Hohe 65,Breite 55 cm.
+
+## Sebastian Franken,
+
+geb.1573; Sterbejahr unbekannt.
+
+Brustbild eines Gelehrten.
+
+Leinwand. Hohe 50, Breite 75 cm.
+
+Holz.Hohe 40, Breite 32 cm.
+## 25 Strandlandschaft.
+
+## Kolnische Schule.
+
+Das Mittelstick mit Christus am Kreuz, unter dem Kreuze steht Maria und Johannes, am Fusse desselben kniet ein betender Dominikanerpater,ein anderer Dominikanerpater steht hinter dem hl. Johannes. Im Hintergrunde der Calvarienberg und weite Sicht ins Tal.Rechter Flugel: Stehender Heiliger mit Rad und Schwert.Linker Flugel:Heiliger mit aufgeschlagenem Fusse in Landschaft. Die ausseren Flugel mit der Geisselung Christi und der Gottesmutter mit sieben Schwerter im Herzen.
+
+## Jean van Huysum,
+
+geb.zu Amsterdam 1682; 1749.
+
+## 18 Blumengefass mit Strauss und Vogelnest.
+
+Vor dem Sockel liegen abgebrochene Rosen, daneben ein Vogelnest mit vier Eier.
+
+Auf einem Marmorsockel steht eine reliefierte Terracottavase mit Rosen, Nelken, Mohn,Winden und anderen Blumen.
+
+In der bekannten feinen Ausfuihrung und von vorziglicher Erhaltung. Auf der Platte voll bezeichnet Jan van Huysum.
+
+Leinwand,Hohe 84,Breite 61 cm.
+
+## Altitalienischer Meister.
+
+## 19 Madonna mit dem Jesuskind,
+
+von Heiligen umgeben, auf Goldgrund gemalt.
+
+Holz. Hohe 46, Breite 41 cm.
+
+## Italienischer Meister des XVI.Jahrhunderts.
+
+- 20 Die Vermahlung Marias
+
+in figurenreicher, kostumlich interessanter Darstellung.
+
+- 21 Genrebild.
+
+Holz.Hohe 56,Breite 55 cm.
+
+Eine junge Frau kammt ihr langwallendes, goldenes Haar. Vor ihr steht ein mit Wasser gefullter kupferner Kessel, neben ihr ein Madchen, das eine Vase in der Hand halt und zu ihr hinaufschaut.
+
+## 22 Kreuzabnahme Christi.
+
+Leinwand.Hohe 100,Breite 78 cm.
+
+Der Leichnam Christi liegt an der Erde,vor ihm knieen Maria, Maria Magdalena, Josef von Arimathaa und Nicodemus, die ihn in ein Tuch einhullen. Hinter ihnen mehrere
+
+Knechte.Unter dem Kreuze steht eine brennende Kerze.
+
+## Thomas de Keyser,
+
+Auf Schiefer gemalt.
+
+## 23 Herren-Portrat.
+
+## 24 Triptichon.
+
+Holz, Mittelstick, Hohe 841/2, Breite 78, Lange des ganzen Altars mit aufgeschlagenen Flugeln 180 cm.
+
+## Dirk Maas,
+
+geb. 1656 zu Haarlem.
+
+Im Hintergrunde ein sich lang hinziehender Bergricken auf dem ein Kirchdorf. Im Vordergrunde, dem Bergrucken entlang ein Tal,in dem ein Trupp feingekleideter Kavaliere,zu Pferde und zu Fuss, nebst ihren Damen und die sie begleitenden Hunde sich bewegt und wovon einige im Begriffe sind einen Karren zu entladen. Rechts Strand mit einem Schiffe,am Ufer reiche Figurenstaffage.
+
+Holz.Hohe 44,Breite 34cm.
+
+Tadelloses pueres Bild von grossartiger Komposition.
+
+lebte um 1631,zweiter Sohn v.Henr. de Keyser.
+
+Ovales Bildnis eines vornehmen Mannes in hollandischer Gelehrtentrachtmitweissem Kragen,blondem Knebelbart und blondem,sorgfaltig frisiertem Haar, in der Hand ein Pergamentbuch haltend.
+
+Holz. Hohe 82, Breite 58 cm.
+
+Hohe 32,Breite 26 cm.
+
+<!-- image -->
+## 26 Madonna in Landschaft.
+
+geb. 1496;1562.
+
+Reich geschnitzter,vergoldeter, orgelformiger Baldachin,darunter sitzt die Madonna das stehende Jesuskind mit beiden Handen im Schosse haltend. Im Hintergrunde Land-
+
+Holz.Hohe 31, Breite 23 cm.
+
+in weinrotem, faltenreichen Kleide und blondem, lang uber die Schulter wallendem Haar, schaft mit Gebirge, Flur und einer Anzahl Gehofte.
+
+## Quentin Massays,
+
+geb.1460;1530.
+
+Maria, den Leichnam Christi auf dem Schosse haltend, hat ihr Haupt daruber gebeugt.
+
+Holz.Hohe 66, Breite 51 cm.
+
+## 27 Pieta.
+
+Vortrefflich ausgefuhrtes, schon patiniertes Bild.
+
+## Gab. Metsu,
+
+geb,zu Leyden,1630; 1667 zu Amsterdam.
+
+## 28 Fischverkaufer.
+
+Hollandische Dorfstrasse in der eine Fischverkauferin ihre Verkaufsbude hat und
+
+Holz.Hohe 47,Breite 40 cm.
+
+zu der Manner und Frauen wandern. Im Hintergrunde eine Gracht mit Schiffen.
+
+## P. Molyn,
+
+lebte in der ersten Halfte des XVII. Jahrhunderts.
+
+## 29 Strandlandschaft.
+
+Rechts Hugel mit Burgruine,am Fusse desselben eine Bauernhutte mit rauchendem Kamin, vor der Hutte mehrere Figuren. Links auf einem Hugel Manner und Frauen. In der Mitte ein breites Tal, durch das man auf die im Hintergrunde liegende See sieht. Tal und Seeufer mit vielen kleinen Figuren staffiert.
+
+Holz.Hohe 33,Breite 43 cm.
+
+Genial ausgefihrtes, fleissig gemaltes Bild.
+
+## Fr. de Moucheron und Lingelbach.
+
+## 30 Landschaft mit Wasser.
+
+geb.zu Emden 1634;+ in Amsterdam 1686.
+
+Rechts Waldpartie durch die ein von Menschen begangener Hohlweg fuhrt. Im Vordergrund ein Wasser, an dem ein Fischer angelt; seitwarts ein Reiter mit Hundchen. Links hoher Baumschlag,im Hintergrunde Berge.
+
+von Lingelbach.
+
+## 31 Landschaft mit schoner Fernsicht.
+
+Leinwand.741/,Breite 66 cm.
+
+Im Vordergrunde Wasser und Baumpartie. Am Ufer ein Reiter mit zwei Hunden.
+
+Gegenstick zur vorigen Nummer.
+
+Die ansteigende Mitte bewaldet; auf einem sich hierdurch windenden Weg ziehen Reiter, Esel und Treiber dem im Hintergrunde liegenden Hochgebirge zu. Von der Hohe schone Fernsicht uber Waldesgrund.
+
+## Bart. Nazari,
+
+geb.zu Bergamo 1699; 1758.
+
+In reicher Kleidung, die Krone auf dem Haupte, die Harfe spielend.
+
+Hohe 79,Breite 66 cm.
+
+## 32 Konig David.
+
+## Jean von Mabuse,
+## 33 Reitergefecht.
+
+Eine Anzahl schwedischer Reiter im braunen Koller, langen Lederstiefeln und
+
+Voll gezeichnet.
+
+## 34 Interieur.
+
+Acht Manner und Frauen sitzen zechend bei einer reich gedeckten Tafel. Am Kopfe des Tisches, bei einer Tonne, eine Frau in blauem Kleide und rosa Mieder, der ein neben ihr sitzender Mann in den Busen fuhlt. Neben dem Paare ein Mann in roter Kleidung, ein gefulltes Pas-Glas hochhaltend. Hieran anschliessend in der Tafelrunde die anderen Personen, dabei kleine Knaben und Madchen. Im Hintergrunde offener Kamin
+
+Dieses hochfeine Bild ist wohl eines der besten Werke des Meisters, das durch Komposition, in dem Feuer brennt, daneben ein Schrank mit Geratschaften.Auf dem Schrank eine Eule, das Monogramm des Meisters.Auf einem Stuhle ein angeschnittener Schinken.
+
+Zeichnung und Kolorit sich auszeichnet.
+
+## Kornelius Poelenburg,
+
+1652.
+
+## 35 Christus im Garten Gethsemane.
+
+Anzahl Engel.Im Hintergrunde Landschaft.
+
+## Jakob van Ruysdael,
+
+geb.zu Haarlem 1625; 1682.
+
+## 36 Landschaft bei Gewitterstimmung.
+
+Voll bezeichnetes Bild.
+
+## Russischer Meister.
+
+Ansicht von Schloss Bentheim, das rechts auf einem mit Buschwerk bewachsenen Bergkegel liegt. Links Bergpartie, in der Mitte ein Tal, das von Figuren belebt wird. Der felsige Vordergrund von Baumstimpfen bestanden.
+
+Holz.Hohe 48, Breite 57 cm.
+
+Leinwand.Hohe 74, Breite 54 cm.
+
+## 37 Frauen-Portrat.
+
+Brustbild einer jungen Russin in Nationaltracht.
+
+## 38 Die heilige Agnes
+
+in der Linken einen Palmzweig,in der Rechten ein Schafchen haltend.
+
+## 39 Portrat
+
+Leinwand.Hohe 58,Breite 47 cm.
+
+der russischen Grafin Natalia Pawlowna Stroganoff, bekleidet mit weissem atlasseidenen Kleide und breiter Halskrause.
+
+## 40 Ovales Portrat
+
+Hohe 68, Breite 47 cm.
+
+der Kaiserin Elisabeth von Russland im Harnisch.
+
+Hohe 78, Breite 67 cm.
+
+Im Vordergrunde kniet Christus im Gebet versunken, den bittenden Blick zum Himmel erhoben.An der Erde liegen die schlafenden Juinger,in den Luften eine
+
+Holz.Hohe 48,Breite 36cm.
+
+Hohe 70, Breite 60 cm.
+
+Holz.Hohe 43,Breite 70 cm.
+
+## Palamedes,
+
+geb. 1607 zu London; 1638 zu Delft.
+
+## Henrick Potuyl,
+
+Holl. Meister des XVIl. Jahrhunderts.
+## 41 Russisches Heiligenbild in Silbereinrahmung.
+
+In der Quadratischen Mitte eine Heiligen-Figur,darum 16 kleinere Bildchen mit Darstellungen aus dem Leben des Heiligen. Die Silbereinfassung graviert mit Arabesken, dazwischen russische Inschriften.
+
+## 42 Russisches Heiligenbild.
+
+Madonna und funf knieende und stehende Heilige auf bunten Hintergrund.
+
+## David Ryckert,
+
+geb.zu Antwerpen 1612.
+
+Holz.Hohe 32,Breite 27 cm.
+
+## 43 Exterieur.
+
+In einer Laube sitzt ein Liebespaar. Der Mann in roter Kleidung und schwarzer Mutze halt in der Rechten einen gefullten Krug, den er zum Munde fuhrt,wahrend er den linken Arm um den Hals der neben sich sitzenden Frau geschlungen hat; auf dem
+
+Tisch allerlei Esswaren.Im Hintergrunde Landschaft.
+
+## Joh. Elias Riedinger,
+
+geb. in Augsburg 1698-1767.
+
+Holz.Hohe 30,Breite 25 cm.
+
+## 44 Jagdstick.
+
+In felsiger Berglandschaft, durch die ein Bachlein fliesst, wird in einer Schlucht ein Eber, in der anderen ein Bar getrieben.
+
+Gut ausgefihrtes Bild.
+
+Kupfer.Hohe 17,Breite 34 cm.
+
+## Jean van Scorel,
+
+geb. zu Schoorl 1495;+ zu Utrecht 1562.
+
+Das Mittelstuck: Madonna mit blonden Haaren, rotem Ober- und blauem Untergewande in einer Veranda sitzend, das Jesuskind auf dem Schosse haltend; neben ihr ein Tisch auf dem eine mit Frichten gefullte Schissel und eine zinnerne Kanne steht. Im Hintergrunde Gebirgslandschaft. Rechter Flugel:Stehender Heiliger mit Pfauenfeder. Linker Flugel: Heilige, in der Rechten das Schwert, in der Linken ein Ring. Holz. Hohe 87,Breite 60 cm. Lange des ausgebreiteten Altars 138 cm.
+
+## M. Simons,
+
+Meister d.17. Jahrh.
+
+## 45 Triptichon.
+
+## 46 Stilleben.
+
+Tischplatte, teilweise mit roter Decke belegt, auf derselben steht schrag cine mit Blumen bemalte blaue Schuissel, gefullt mit Birnen, Apfel und Pflaumen, daneben steht ein silberner Buckel-Pokal. Um die Schussel herum liegen die ganze Tischplatte fuillend Trauben,Apfel, Birnen und Pflaumen.
+
+## Hendrich van Steenwijck,
+
+geb. um 1580;1649.
+
+## 47 Wachstuben-Interieur.
+
+Vor einem offenen Kamine sitzt beim Kartenspiele eine Anzahl rauchender Krieger Huten.Im Vordergrunde stehen zwei Offiziere in braunem Wams, breiten Stiefeln und grossem Federhut, das Bandelier um bekleidet mit grauem Koller und schwarzen die Brust, von denen einer die Geige spielt.
+
+Voll bezeichnetes,vortrefflich ausgefihrtes, schon beleuchtetes Bild in der Manier desPester Codde.
+
+Hohe 791/,Breite 661/g cm.
+
+Holz. Hohe 64, Breite 100 cm.
+## 48 Tierstuck.
+
+## van Strey,
+
+Dordrecht 1756-1815.
+
+Hollandische Wiese mit Buschwerk. Auf derselben lagern und grasen eine Anzahl Kuhe und Schafe. Im Vordergrunde ein gefleckter Bulle.
+
+Voll bezeichnet.
+
+## 49 Heimziehende Kuh- und Ziegenherde.
+
+Im Vordergrunde ein bepackter, storriger Esel, der seinen Reiter abgeworfen hat und mit den Hinterbeinen nach seinen Treiber ausschlagt. Gegenstuck zur vorigen Nummer.
+
+Strey gilt als der beste Nachahmer Cuyps und ist ein gesuchter Meister, beide Bilder sind von vorziglicher Qualitat.
+
+## Teniers der altere,
+
+geb. 1582 zu Antwerpen; + das. 1649.
+
+## 50 Versuchung des heiligen Antonius.
+
+In der Grotte kniet beim Gebet der heilige Antonius,hinter ihm der Satan und allerlei Kobolde in phantastischen Tiergestalten.Vor der Grotte eine ippige fein gekleidete Frau, die in der Rechten einen silbernen Pokal halt. Rechts Landschaft.
+
+Holz.Hohe 43,Breite 65 cm.
+
+Kupfer. Hohe 52, Breite 75 cm.
+
+## 51 Winterlandschaft.
+
+Weit sich ausdehnendes beschneites Tal,in dem eine Menge Bauernhutten zerstreut liegen, mit reicher Figurenstaffage. Im Hintergrunde Bergkegel mit Schloss.
+
+Minutios ausgefihrtes,in Breughels Manier gemaltes Bildchen.
+
+## Wilhelm van der Velde,
+
+geb.1633 zu Leiden; zu Greenwich 1707.
+
+## 52 Die hollandische Herberg.
+
+Ankerplatz mit breiter, von Baumen bestandener Anlegerampe, auf der sich eine Anzahl Menschen bewegen. Vor der Rampe liegen mehrere stark bemannte Nachen, hinter ihr Segelschiffe.
+
+Schon ausgefuhrtes figurenreiches,voll bezeichnetes Bild.
+
+## Adrian van der Venne,
+
+geb. zu Delft 1589; zu Haag 1662.
+
+Hohe 20, Breite 27 cm.
+
+## 53 Zug der Armut.
+
+Eine Anzahl sich streitender zerlumpter Bettler.
+
+Grisaille.
+
+## 54 Triptichon.
+
+## H. Thiele,
+
+Meister des 18. Jahrh.
+
+Hohe 30,Breite 24cm.
+
+Holz. Hohe 35,Breite 56 cm.
+
+## Rogier van der Weyden,
+
+geb. zu Tournai 1399; zu Brissel 1464.
+
+In der Mitte liegt der vom Kreuze abgenommene Leichnam Christi, die Arme im Schosse der ohnmachtig hingesunkenen Gottes-Mutter, darum gruppiert Johannes, Maria Magdalena,Joseph von Arimathaa und andere.Im Hintergrunde sieht man den Calvarienberg
+mit Reitern am Kreuzesfusse,in der Ferne Jerusalem mit Kirche in gotischer Architektur. Links das offene Grab. Auf dem Flugel Donatoren: Rechts ein alter Mann im PilgerOrdenstracht,in der Ferne eine buschreiche Landschaft. Links: St. Petrus mit Donator
+
+Der tote Christus ist realistisch gemalt, mit der Totenfarbe ein scharfer Kontrast zu seiner ubrigen Umgebung. Das schone dunkle Rot, Blau, Grin und Weiss der umstehenden Personen ist von grosser Wirkung. Die Fligel tragen schone Frauen- und Mannerportrats und sind kostumlich interessant. Das Kolorit gibt dem Bilde den grossen Wert.
+
+Gewand den Stab in der Hand bei einer Gruppe knieender und betender Frauen in und acht Mannern,im Hintergrund Landschaft.
+
+Holz. Mittelstick 71 cm,Breite 61 cm,Linge des ausgebreiteten Altars 149 cm.
+
+## De Witt.
+
+## 55 Putten Bachanal.
+
+Superbort. Drei Putten in Landschaft von Frichten umgeben.
+
+Leinwand.Hohe 50 cm,Breite 84 cm.
+
+## C. C. van Wierengen 1630,
+
+geb. zu Haarlem 1600.
+
+## 56 Seestick.
+
+Bewegte See auf der mehrere Dreimaster mit den Wellen kampfen.
+
+## Pieter Wouvermann,
+
+geb.zu Haarlem 1624;1668.
+
+## 57 Halt zweier Reiter.
+
+Abgesessener Reiter, der sein Pferd,cinen Schimmel, am Zugel halt,umarmt eine Hirtin,deren Schafheerde seitwarts vor einem Baume lagert; dabei ein Krug und allerlei Utensilien. Der andere Reiter auf einem Braunen sitzend, schaut in die im Hintergrunde befindliche Landschaft; neben ihm steht ein Windhund.
+
+Bezeichnet.
+
+## 58 Halt vor einer Schenke.
+
+Vor einer italienischen Bauernschenke halt ein Reitertross.Wahrend eine Anzahl der Rciter abgestiegen sind und sich am Weine laben, reiten andere ihre Pferde in ein seitwarts gelegenen Flusschen zur Tranke.
+
+## Unbekannter Meister,
+
+## 59 Tabernakelformiger Altar:Triptichon.
+
+Das Mittelstuck: Gott Vater in den Luften von einer Anzahl Engel umgeben. Auf der Erde kniet Christus auf dem Kreuz,die Wundmale emporhaltend;davor Maria mit entblosster Brust. Die Flugel tragen die Bildnisse betender Jungfrauen, die eine mit Abtissinstab, unter deren Wappen in den Luften betender Engel. Ausserer rechter Flugel:Heilige mit Stab und Drache. Linker Flugel: Gewappneter Krieger der ein Schwert hoch halt.
+
+Holz.Hohe 98,Breite 70,Breite ausgebreitet 173 cm.
+
+Diam.54cm.
+
+Gut erhaltenes schones Bild.
+
+## 60 Ovales Pastellbild.
+
+Portrat einer jungen Dame mit breitrandigem Federhute.
+
+## 61 Heroische Landschaft.
+
+Im Vordergrunde unter hohen Baumen steht die Herme eines Satyr, dem vier musizierende Frauen Blumen streuen.Im Hintergrunde ein See und bewaldete Felsen- landschaft.
+
+Leinwand. Hohe 46, Breite 58 cm.
+
+Holz.Hohe 42,Breite 34 cm.
+
+Holz. Hohe 54,Breite 44 cm.
+
+Hohe 92,Breite 96 cm.
+- 62 Zwei hollandische Bilder
+
+mit Szenen aus dem Volksleben in Teniers-Manier auf Marmor gemalt. In Ebenholz und Sehildpattrahmchen. Hohe 14,Breite 18cm.
+
+- 63 Liebespaar.
+
+Madchen mit dekolletiertem Busen, das Haar mit Blumen geschmickt, wird von einem halb nackten jungen Mann umarmt. Leinwand. Hohe 97,Breite 90 cm.
+
+- 64 Junge Dame
+
+den Facher in der Linken haltend, sitzt auf einem Sopha, neben ihr ein junger Mann, der ihre Hand hoch halt, an die eine neben ihr stehende Frau einen Ring steckt. Franzosischer Meister. Hohe 44,Breite 30 cm.
+
+- 65 Mondscheinlandschaft.
+
+Wasserumzogenes kastellartiges Schloss in schoner Landschaft wird vom Monde beleuchtet. Hohe 50, Breite 42 cm.
+
+66 Stilleben. Tischplatte mit griner Spreide belegt,auf der eine mit Pfirsichen gefullte Schuissel steht. Um die Schussel herum allerlei Obst. Hohe 50,Breite 73 cm.
+
+- 67 Zwei Tiersticke.
+
+Landschaften mit Baumschlag und Wassertuimpel mit Kuhen, und Landschaft mit Bauernhutte, bei der Kuhe lagern. Holz.Hohe 40,Breite 34 cm
+
+- 68 Blumenstick.
+
+Felsige Landschaft besetzt mit Disteln und bluhenden breitblattrigen Blumen. Leinwand. Hohe 130,Breite 35 cm.
+
+- 69 Kicheninterieur.
+
+Inneres einer Kuche, in der cine Anzahl Frauen, Kinder und ein alter Mann um den Kochtopf herum sitzen. Links sieht man eine Anzahl spielender Manner und Frauen. Holz.Hohe 50,Breite 82 cm.
+
+- 70 Der Raub der Proserpina.
+
+Fein ausgefuhrtes Bild in Rubens Manier.
+
+- 71 Porzellanbild
+
+mit Landschaft von Reitern, die ihre Pferde tranken, belebt,in Wouvermann's Manier.
+
+Hohe 16,Breite 20cm.
+
+Hohe 67,Breite 43 cm.
+
+- 72 Zwei Rokoko-Portrats.
+
+Edeldame und Herr in Jagdkostim.
+
+73 Grosse Damen-Miniatur Sign. H. P. Wien. Brustbild einer jungen Frau in schwarzem Kleide, weisser Spitzenkrause und grossem Federhut. Auf Elfenbein.
+
+- 74 Runde Miniatur.
+
+Brustbild des Kaisers Josef.
+
+- 74 Ovale Grisaille-Miniatur.
+
+Dame, auf der Hand einen Papagei haltend, hinter ihr ein Neger.
+
+- 75 Rechteckige Miniatur in Schildpattrahmchen.
+
+Kniestick eines jungen Mannes in blauem Rocke und allonge Perrucke. Hohe 81/2, Breite 81/2 cm.
+
+Hohe 11,Breite 81/2cm.
+
+Diam.6 cm.
+
+Diam.8 cm.
+
+Holz. Hohe 35,Breite 27 cm.

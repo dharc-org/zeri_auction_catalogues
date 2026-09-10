@@ -1,0 +1,3 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_83861,8690,1,I,SABEY,259,90.9,False,title_direct,ISABEY,,,,
+BO0624_83861,8691,2,I,"l a conduit ses deux chevaux, l'un blanc et l'autre bai brun, pres du mur en terre ou il savait etre attendu, et voici quune jeune fille, l'aimee, se hausse jusqu'a lui. Autour d'eux,le grand silence de la nature, des arbres au feuillage rare, un ciel gris traverse par une nuee blanche.",345,99.8,False,positional,PETTENKOFEN,,,,

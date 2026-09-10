@@ -1,0 +1,12 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_81876,52928,1,I,"l piccolo gruppo di maestri stranieri che figura nel catalogo sono amici del maestro,che egli frequentava a Parigi,dove era chiamato spesso per ragioni di affari colla nota Galleria Goupil.",10,99.7,False,none,,,,,
+BO0624_81876,52929,2,1,°-La vendita sara fatta al maggiore offerente.,17,97.7,False,none,,,,,
+BO0624_81876,52930,3,2,-La maggiorazione del prezzo d’uscita e le maggiorazioni successive,18,98.5,False,none,,,,,
+BO0624_81876,52931,4,3,°Il pagamento dei lotti assegnati dovra essere fatto non oltre le 24 ore successive alla aggiudicazione. E cio se non si sono precisati speciali accordi preventivamente.,20,99.4,False,none,,,,,
+BO0624_81876,52932,5,4,"° I lotti che per eventualita non fossero ritirati entro le 24 ore successive all'aggiudicazione, saranno rimessi in vendita qualora il Direttore dellAsta lo ritenesse opportuno. Egli si riserva pero il diritto di ritenere valida la aggiudicazione e di fare esecutiva la vendita. In tale caso tutti i danni derivanti saranno a carico",21,99.7,False,none,,,,,
+BO0624_81876,52933,6,5,°Il trasporto delle opere e a carico del compratore.,23,98.0,False,none,,,,,
+BO0624_81876,52934,7,6,"°.Nella compilazione del catalogo e stato fatto il possibile per descrivere esaurientemente ogni opera.Pero i Sigg. Compratori sono pregati di osservarle attentamente durante la mostra,e di chiedere schiarimenti al personale incaricato della vendita, sul posto. E cio per evitare contestazioni, dopo l'aggiudicazione.",24,99.7,False,none,,,,,
+BO0624_81876,52935,8,7,La Galleria assume ogni responsabilita dichiarando di vendere,25,98.4,False,none,,,,,
+BO0624_81876,52936,9,8,"°Dirigere commissioni ed offerte, come chiedere schiarimenti, alla Galleria Scopinich S. A.,Via S. Andrea 8, Milano, 7l-560.",27,99.1,False,none,,,,,
+BO0624_81876,52937,10,9,"Sui lotti acquistati sara pagato dal cliente il 10 %, quale diritto",28,98.5,False,none,,,,,
+BO0624_81876,52938,11,I,NAUGURAZIONE:16 Febbraio 1929 alle ore 16.,35,98.8,False,none,,,,,

@@ -1,0 +1,1419 @@
+## CONDITIONS DE LA VENTE
+
+Elle sera faite au comptant.
+
+Les adjudicataires paieront dix pour cent en sus des cncheres.
+<!-- image -->
+
+## DESIGNATION
+
+## TABLEAUX ANCIENS
+
+PHSTELS
+
+## ANDREA DEL SARTO
+
+(Attribuéa ANDREA D'AGNOLO,DIT) Florence 1487Florence 1530
+
+## La Vierge,lEnfant fesus et Saint JeanBaptiste.
+
+La Vierge, vetue d'une robe rose, aux manches de lingerie blanche, entouree d'un manteau bleu, un voile pose sur ses cheveux blonds releves sur le front, soutient de ses deux mains l'Enfant Jesus, debout a gauche sur un tertre et faisant le geste de benir.
+A droite, le petit saint Jean tenant sa croix de bois, le corps ceint d'une peau de fauve, designe de la main droite la mere du Sauveur.
+
+Dans le fond, un paysage accidente s'etend sous le ciel nuageux.
+
+On remarque, a gauche, les constructions d’un monas- tere qui dominent une colline.
+
+Bois.Haut., 1 m. 28 cent.; larg., 96 cent.
+
+Vasari (pag. 32-33.Ed. Milanesi) a decrit une composition similaire. Le meme sujet a éte grave par Schiavonetti et on lit derriere le panneau du present tableau une note indiquant qu'il provient de la galerie Belgiojoso.
+## BELLE
+
+(ALEXIS-SIMON) (Paris1674+Paris1734)
+
+## Portrait de feune Femme. 2
+
+Vue jusqu'au-dessous des genoux, presque de face, debout dans un interieur; elle offre de la main droite levée une pomme a son singe favori, qu'elle tient en laisse de la main gauche. Coiffee d'une haute chevelure legerement poudree, agrementee d'une branche de fleurs,
+
+Elle est vetue d'une robe bleue a revers roses ajustée dans un mouvement de draperie sur le buste et agrafée a la ceinture par un joyau. Une elégere dentelle deborde aux manches et sur la poitrine. A gauche, une corbeille de fruits, pommes et raisins, est posee sur une table; a droite, une tenture de brocart dore tombe en plis lourds sur un s siege rouge. D D
+
+une boucle retombante vient rouler sur sa nuque.
+
+Toile.Haut.,I m.32 cent.;larg, 97 cent,
+
+Cadre en bois sculpte.
+## BELLOTTO
+
+(BERNARDO)
+
+(Venise 1724+Varsovie 1780)
+
+## Vue de rEglise de la Salute.
+
+L'édifice de Santa-Maria della Salute s'éleve au centre de la composition. Des personnages gravissent les degrés qui conduisent au porche, ou bien se promenent sur le quai.
+
+Au premier plan, en deca du grand canal sillonne de gondoles, un embarcadere. Sur la gauche, un gentillomme, le bras tendu vers une gondole, semble inviter a la promenade une dame vue de dos, portant sur sa large robe rose un manteau bleu brode d'or et, sur ses cheveux couverts d'un voile noir, un tricorne galonné.
+
+A droite,un officier,a chapeau de feutre empanache de plumes blanches, est suivi d'un petit chien.
+
+Toile. Haut., 7o cent.; larg, 94 cent
+
+Cadre en bois sculpte.
+
+## BERCHEM
+
+(NICOLAS)
+
+(Haarlem 162oAmsterdam 1683)
+
+L'Abreuvoir.
+
+Un vieux patre a la barbe blanche, coiffe d'une toque rouge, les deux mains appuyees sur son baton, garde un troupeau de vaches et de chevres au bord d'un cours d'eau qui coule autour d'un monument de pierre.
+
+Ciel nuageux avec effet de soleil couchant. Signe a gauche.
+
+Bois.Haut.,31 cent.;larg.,28 cent,
+## BOULIAR
+
+(MMARIE-GENEVIEVE) (Paris 1772Paris 1819)
+
+## — feune Fille en buste.
+
+Les yeux bleus, les cheveux chatains roux coiffes en bandeaux, une jeune fille a la gorge decouverte est representee en buste de trois quarts a droite, la tete inclinée sur l'épaule, un fichu bleu pose sur son corsage rouge.
+
+Toile. Haut., 45 cent., larg., 36 cent.
+
+## BOZE
+
+(JOSEPH)
+
+(Martigues 1744Paris 1826)
+
+Portrait presume de Robespierre.
+
+Coiffe d'une perruque poudree, vetu d'un habit de soie vert et d''un gilet rouge, une cravate de mousseline nouée autour du cou, il est representé presque de face, le visage souriant au spectateur.
+
+Pastel de forme ovale.Haut., 6o cent.; larg., 5o cent.
+## BRAND
+
+(JOHANN-CHRISTIAN)
+
+(Vienne 1723Vienne 1795)
+
+## Le Sacrifice d'Abrabam.
+
+Une riviere coule dans un site agreste sous un ciel nuageux. Au premier plan, sur un chemin qui gravit une colline et au pied d'un bouquet d'arbres, Abraham et 1'Ange, pres d'un autel ou lon voit un belier. Plus loin, un cavalier est arrete devant des constructions couvertes de tuiles.
+
+Signe a gauche.
+
+Bois.Haut.,31 cent.;larg.,32 cent.
+
+Cadre en bois sculpté
+
+## BRUEGHEL
+
+(JEAN,DIT DEVELOURS)
+
+(Bruxelles 1568+Anvers 1625)
+
+## Le Chemin du Village.
+
+Des paysans suivent une route qui serpente dans un paysage vallonne; les uns marchent cote a cote, s'arredautres dansent. Plus loin,on apercoit les constructions
+
+Cuivre.Haut.,3g cent.; larg.,3o cent.
+
+tent pour discuter ou bien se reposent; vers le fond, d'un village.
+
+Cadre en bois sculpte.
+## CALLET
+
+(ANTOINE-FRANCOIS) (Paris 1741Paris 1823)
+
+## Le Triompbe de Flore.
+
+La deesse est representee dans les nues, portee sur un nuage,les ailes blanches largement ouvertes, les bras leves au-dessus de sa tete blonde, tenant de ses deux mains des fleurs qu'elle a prise dans un vase que lui presente un amour.
+
+Un autre amour repand le contenu d’une urne; un troi- sieme voltige sur le ciel bleu, tenant une torche enflammee.
+
+Toile.Haut.,21 cent.; larg.,29 cent.
+
+Cadre en bois sculpte.
+
+## CHARPENTIER
+
+(FRANCOIS-PHILIPPE)
+
+(Blois1734Bl0is1817)
+
+## L'Etude du dessin. 10
+
+Une jeune femme en bonnet de mousseline, robe rose relevee sur un jupon raye, et un petit garcon, coiffe d'un large bonnet, sont assis dans un atelier. Ils dessinent sur des cartons poses sur leurs genoux. Une tete de platre est pendue sur un chevalet.
+
+Au fond, a droite,un gentilhomme coiffe d'un tricorne se presente dans l'embrasure d'une porte.
+
+Toile.Haut.,5o cent.;larg, 43 cent.
+## 12
+
+## COQUES
+
+(GONZALES)
+
+(Anvers,vers 1618Anvers 1684)
+
+## Portrait d'un Gentilhomme. II
+
+Vu jusqu'a mi-jambes de trois quarts a gauche, les yeux fixes sur le spectateur, les cheveux bruns pendant sur les oreilles, il tient dans la main droite une lettre, l'autre est relevee a la hauteur de la ceinture. Son ecouvert dun manteau de meme couleur;il porte un large col et des manchettes pourpoint noir est en partie de dentelles.
+
+Sur la lettre, on lit difficilement une adresse qui pourrait etre:A Monsieur Vermeulen.
+
+Bois. Haut., 28 cent.; larg, 19 cent.
+
+## COTTELLE
+
+(JEAN)
+
+(Paris 1645Villiers-sur-Marne 1708)
+
+## Le Depart d'Adonis.
+
+Venus drapee d'étoffes blanche et bleue, un diademe d'or dans ses cheveux poudrés, est assise sur un tertre ct sous une draperie de soie étendue sur des arbres; elle retient par le bras Adonis, qui est debout, a gauche, armé d'une pique et que l'Amour a saisi par les plis de son manteau.
+
+Deux autres enfants jouent avec des colombes devant un char doré.
+
+A droite, deux chiens couplés au pied d’un arbre.
+
+Toile.Haut.,65 cent.;larg.,8o cent.
+## 13
+
+## CUYP
+
+(BENJAMIN-GERRITSZ)
+
+(Dordrecht1612Dordrecht1652)
+
+一 Le Chirurgien de village.
+
+Un homme coiffe d'un bonnet, assis sur un tabouret de bois, a saisi par la jambe un patient, soutenu par une vieille femme dans uin interieur.
+
+Signe sur le tabouret.
+
+Bois.Haut.,34 cent.;larg.,31 cent.
+
+## DAVID
+
+(Attribue a JACQUES-LOUIS) (Paris 1748+Bruxelles 1825)
+
+## Portrait de Barbaroux.
+
+En buste, les cheveux bruns rabattus sur le front et les oreilles, les yeux fixés sur le spectateur, cravate de mousseline blanche nouee sous le menton, il porte un habit vert au large col.
+
+Toile. Haut., 40 cent.; larg., 31 cent.
+## 15
+
+## DE LACROIX
+
+(CHARLES-F.) (Marseille(2) +Berlin 1782)
+
+## Vue dun Port de la Mediterranee.
+
+ede constructions en ruines s'éleve au centre d'une baie, dans la lumiere
+
+Sur la mer calme, dont les eaux refletent le soleil pale,
+
+Une tour fortifiee et flanquée argentee d'une journee brumeuse.
+
+des bateaux a haute mature sont ancres.
+
+Signe a gauche.
+
+Au premier plan, on remarque sur un quai deux personnages, l'un couvert d'un manteau rouge, appuye sur une canne, lautre coiffe d'un turban, debout pres d'un pecheur a la ligne qui fume une longue pipe.Une barque, montee par quatre hommes, accoste au centre. A gauche, un ancien rempart a echauguette. Plus loin, vers le fond au dela d'un pont de pierre, les constructions d'une ville s'étagent devant une montagne.
+
+Toile. Haut., 46 cent.; larg,72 cent.
+16
+
+## DE MARNE
+
+(JEAN-LOUIS)
+
+(Bruxelles 1744Paris 1829)
+
+——feux villageois.
+
+Un berger assis sur le gazon etait occupe a traire une chevre blanche; trois jeunes filles se sont approchees a pas de loup : l'une lui tire loreille, lautre saisit son chapeau, la troisieme se moque de lui; son chien lampe le lait du baquet renverse dans la bagarre, un autre chien aboit. Des vaches et des petits anes paissent a l'ombre de deux grands chenes; d'autres bestiaux sont dissemines dans la plaine, jusquau bord d'une riviere qui coule dans une vallee ensoleillee.
+
+Signe a gauche.
+
+Bois.Haut., 43 cent; larg.,6 cent.
+
+## DIETRICH
+
+(CHRISTIAN-WILHELM-ERNEST)
+
+(Weimar 1712Dresde1774)
+
+## Portrait dHomme coiffe d’un turban.
+
+En buste, le visage presque de face encadre d'une barbe blonde,un turban de mousseline blanche a lisere d'or enroule sur la tete,il porte sur les épaules un manteau brun retenu sur la poitrine par une longue agrafe
+
+Toile.Haut.,53 cent.;larg.,41 cent.
+
+d'orfevrerie.
+
+Cadre en bois sculpte.
+61
+
+Allegorie.
+
+Une femme brune, couronnee de roses, drapee d'étoffes, blanche et rouge, est etendue au premier plan.Le haut du corps appuye sur un coussin vert, le bras gauche accoude,elle tient de la main droite un mors de cheval muni de sa bride.
+
+A gauche, une femme assise, une draperie jaune sur sa robe e blanche, un bras passe autour d'un amour accoude sur ses genoux a, pres d'elle, une corne d'abondance d'ou s'échappent des roses.
+
+Dans le fond, un vase d'orfevrerie sur un autel en pierre.
+
+Toile de forme ronde.Diam.,37 cent.
+
+## DESPORTES
+
+(ALEXANDRE-FRANCOIS)
+
+(Champigueul 1661Paris1743)
+
+L'Oiseau de proie.
+
+Un oiseau de proie, les ailes éployees, a saisi dans ses serres une perdrix rouge qui se debat.
+
+Dans le lointain,une vallee fermee a l'horizon par des collines.
+
+Toile. Haut., 58 cent.; larg,78 cent.
+
+Cadre en bois sculpte.
+
+## DOYEN
+
+(GABRIEL-FRANCOIS)
+
+(Paris1726Petersbourg 1806)
+## DROLLING
+
+(MARTIN)
+
+（Oberbergheim 1752+Paris 1827)
+
+## Jeune Femme a sa toilette. 20
+
+Une jeune femme brune,les cheveux separes en bandeaux sur le front et couverts d'un bonnet de dentelle, la poitrine et les épaules nues, retenant de ses deux mains une chemise autour de sa taille,est representee,a mi-corps, devant une table sur laquelle on remarque un flacon de cristal a cote d’un vase de fleurs.
+
+Un rideau gris est drape sur le fond.
+
+Toile. Haut., 6o cent.; larg.,50 cent.
+## 21
+
+## DROUAIS
+
+(FRANCOIS-HUBERT) (Paris 1727+Paris1775)
+
+## Portrait d'un Acteur.
+
+A mi-corps, le visage presque de face et coiffe d'un souple chapeau de feutre gris hardiment releve sur le front,il a de longs cheveux boucles; ses yeux bruns sourient et sa bouche ironique se pince finement.
+
+liserees de rouge. Une cravate negligemment nouee lui entoure le cou.
+
+On lit derriere le cadre:Portrait de lacteur Michaux. Signe : Drouais, et date : 1769.
+
+Toile de forme ovale. Haut.,73 cent.; larg., 6o cent.
+
+Ce portrait a figure a lExposition Theatrale du Musee des Arts Decoratifs en 1go8, no 441 du catalogue.
+22
+
+## ECOLE ALLEMANDE
+
+(XVI siecle)
+
+## Portrait de Charles-Quint.
+
+En buste, de trois quarts a gauche, les cheveux boucles sous une toque de velours vert sombre ornee de passementerie d'or, un petit col rabattu autour du cou, il porte sur son pourpoint gris a liseres dores le collier de la Toison-d'Or. Un large manteau vert a col de fourrure couvre ses épaules.
+
+Bois.Haut,47 cent.; larg.,37 cent.
+
+Fond gris.
+
+## ECOLE ANGLAISE
+
+(XVIII siecle)
+
+## 23 Portrait d'Enfant.
+
+Un petit garcon est represente de face, vu a mi-corps, les cheveux blonds rabattus sur le front, les yeux bleus ; il porte une courte veste rouge a boutons de metal,un large col de lingerie sur les épaules et une culotte rose. Fond de ciel.
+
+Toile de forme ovale.Haut., 5o cent.; larg.,4o cent.
+## 24
+
+## ECOLE FLAMANDE
+
+(xVI siecle)
+
+## Portrait d'Homme.
+
+En buste, de trois quarts vers la droite, le front denude, les yeux bruns, la barbe grise taillee en pointe, il porte un vetement vert galonne de noir et orne d'un large col rabattu.
+
+Bois. Haut., 47 cent.; larg., 36 cent.
+
+## ECOLE FRANCAISE
+
+(XVIIl siecle)
+
+## 25 Portrait de Madame Dauberval.
+
+En buste, les cheveux bruns relevés sous un large bonnet de mousseline a rubans roses, corsage decollete, un fichu raye sur les epaules.
+
+On lit derriere une inscription du temps : Madame Dauberval, femme du comedien de ce nom, une elegante.
+
+Pastel Haut.,39 cent.;larg.,31 cent.
+## ECOLE FRANCAISE
+
+(XVIIIsiecle)
+
+26 --Les Enfants vendangeurs.
+
+Un petit garcon vetu de rose, couronné de pampres, est assis sur une chevre couchee a terre et montre un cep de vigne. Une fillette en jupon bleu, etendue sur un tertre,s'accoude sur un panier de raisins; deux petits garcons sont debout dans une cuve. Dans le fond, des pieds de vigne charges de grappes. Au premier plan, une aiguiere en bronze renversee sur le sol.
+
+Toile. Haut., 78 cent.; larg, 1 m. 26 cent.
+
+Cadre en bois sculpté.
+
+## ECOLE FRANCAISE
+
+(XVIII siecle)
+
+La Danse. 27
+
+Dans un interieur decore de rocailles, un couple danse au milieu d'un salon. A droite, deux musiciens devant une fenetre; a gauche, deux autres personnages.
+
+Toile. Haut.,52 cent.; larg., 68 cent.
+28
+
+## ECOLE FRANCAISE
+
+L'Escalier de pierre.
+
+Un escalier aux larges degres, orne de deux statues, donne acces a un pavillon dont la facade s'eleve a gauche. Une femme, coiffee d'un fichu blanc, étend une draperie rouge sur une terrasse. Une autre descend les marches de pierre.
+
+Au premier plan, au centre, une jeune mere et son enfant traversent a gue une mare; un chien aboie sur la rive.
+
+Dans le fond,un temple a colonnes et a fronton orne d''un bas-relief et entoure par les arbres d'un parc.
+
+Bois.Haut.,28 cent;larg.,34 cent.
+
+Cadre en bois sculpte.
+
+## ECOLE GRECO-RUSSE
+
+29 Sainte Famille.
+
+Saint Joseph porte dans ses bras et sur un manteau d'etoffe rose lEnfant Jesus. A droite, la Vierge est debout, le bras tendu et designant d'un geste de la main, son divin fils.
+
+Le Pere eternel est represente dans une Gloire entouree de nuages, sur un ciel sombre, au sommet de la composition.
+
+Les figures sont nimbees d'or.
+
+Bois.Haut.,25 cent.;larg.,22 cent.
+
+On remarque, sur le fond, des inscriptions en lettres russes.
+## ECOLE DE VERONE
+
+(xVe siecle)
+
+## 3o—La Vierge, TEnfant Jesus et deux Anges musiciens.
+
+La Vierge est assise sous un dais tendu d'une etoffe pourpre, que traversent deux branches de citronnier chargees de leurs fruits et liees l'une a l'autre par un cordonnet dore a glands retombants. Tenant sur son genoux droit lEnfant Jesus, debout et dont la nudite est voilee d'une draperie blanche, nouee a la ceinture, elle le soutient de la main droite posee sur la hanche.
+
+Elle est vetue d'une robe rouge, recouverte par un manteau bleu a revers jaunes. Sa main gauche repliee sur sa jambe presente une rose.
+
+De chaque cote du trone, dont la base est en partie cachée par un tapis s noir a liseres roses, deux anges musiciens jouent l'un du luth, Iautre, a droite, de la harpe. Ils ont tous deux des cheveux blonds et boucles encadrant gracieusement leur visage. Celui de droite porte une tunique rose ouverte sur sa robe blanche; lautre, sur sa robe blanche, porte une tunique verte.
+
+Bois. Haut.,1 m.7o cent.; larg.,I m. 12 cent.
+32
+
+## ELIAS
+
+(NICOLAES)
+
+(Amsterdam, vers 159o Amsterdam,vers 1650)
+
+## 31 Portrait de Femme.
+
+Representee a mi-corps, tournee de trois quarts vers la gauche, ses yeux bleus regardant en face, elle est vetue dune robe de satin noir broché et plissé. Ses cheveux blonds sont releves sous un bonnet de dentelle, une large fraise a tuyautes rigides entoure son cou. Un livre a tranches rouges et a fermoirs de metal est pose a gauche, sur une table couverte d'un tapis vert.
+
+Toile. Haut., 72 cent,; larg., 58 cent.
+
+## FRAGONARD
+
+(Attribue a JEAN-HONORE)
+
+(Grasse 1732Paris 1806)
+
+## Paysanne trayant une vache.
+
+Une jeune femme brune, en jupon rouge et corsage gris, est agenouillee a terre, trayant une vache dans un bassin de cuivre.
+
+A gauche, sous un arbre, une fourche est appuyée a une auge. On apercoit dans le lointain, a droite,les constructions d'une ville.
+
+Toile.Haut.,82 cent.;larg., 1 m.o3 cent.
+
+Selon la tradition,Fragonard aurait peint cette toile pour servir d'enseigne a une laiterie de la rue Saint-Honore.
+34
+
+## GERARD
+
+(MMARGUERITE) (Grasse1761+1837)
+
+33——Les Amours prisonniers.
+
+Dans un interieur ou l'on remarque, pres d'un lit de repos couvert d'un manteau rouge, un brule-parfums, une jeune fille en robe blanche, agenouillée a terre, retient par les jambes deux amours qui s'envolent vers une porte a colonnes.
+
+Cadre en bois sculpte.
+
+## GIRODET DE ROUCY TRIOSON
+
+(ANNE-LOUIS)
+
+(Montargis1767Paris 1824)
+
+Scene mythologique.
+
+Une jeune femme brune debout au bord d'un cours d'eau, la chevelure denouee sur l'épaule, le corps entierement nu, se regarde dans un miroir, qu'elle tient de la main droite. A ses pieds, un amour tient les plis d'un linge blanc. Dans le fond,un homme couronne de pampres apparait dans un nuage.
+
+Toile. Haut., 6o cent.; larg., 5o cent,
+
+Toile.Haut.,14 cent.;larg.,18 cent,
+## 35——
+
+## GRYEFF
+
+(ADRIAEN)
+
+(Anvers 167oBruxelles1715)
+
+## Le Repos du Chasseur.
+
+Un homme, coiffe d'un chapeau de feutre galonne d'or, fumant une pipe en terre et tenant un fusil sous le bras, s'est arrete au pied d'un arbre, ou deux chiens gardent du gibier. Un lievre, des becasses, des geais et des pe- tits oiseaux aux couleurs vives sont reunis sur le sol.
+
+Dans le fond, un chasseur, precede d'une meute, tra- verse une vallee.
+
+Signe en toutes lettres.
+
+Cadre en bois sculpté.
+
+Bois.Haut.,19 cent.;larg.,24 cent.
+## HEEMSKERCK
+
+(Attribuea MAERTEN VAN)
+
+(Heemskerck 1498Harlem 1574)
+
+## 36— Portrait d'un Docteur.
+
+Un vieillard a longue barbe blanche, les yeux bleus, est represente a mi-corps tourne de trois quarts vers la droite, tenant de ses deux mains un livre sur lequel on lit:Aphorismi Hippocratis.
+
+Coiffe d’une toque verte, il est enveloppe d’une robe de soie rouge aux larges manches et aux revers de soie sombre.
+
+Sur le fond du tableau, a droite, une inscription latine suivant un écusson et un monogramme semblent indiquer le nom du personnage:
+
+M.K.D. Etatisa L X. et a gauche A MDLXI et le monogramme H. M.
+
+Bois.Haut., 48 cent.; larg., 38 cent.
+
+Cadre en bois sculpte.
+## HONDECOETER
+
+(MELCHIOR)
+
+(Utrecht 1636+Amsterdam 1695)
+
+37 Coq et Poule.
+
+Dans la campagne, un coq au plumage fauve sur le corps, blanc aux ailes et sur la
+
+A droite et au premier plan,une plante au large queue, tient un ver dans son bec. Une poule noire et blanche,a la tete huppee, marchant a gauche, convoite la proie du coq.
+
+feuillage vert.
+
+Toile.Haut.,77 cent.; larg, 1 m. o2 cent.
+
+Cadre en bois sculpté.
+
+## HUCHTUNBURG
+
+(JEAN VAN)
+
+(Haarlem 1646+Amsterdam 1733)
+
+38 ——Le Depart pour la chasse au faucon.
+
+Des chasseurs se sont reunis devant une fontaine en pierre, sur une place plantée darbres. Au centre, une dame montee sur un cheval blanc tient, sur le poing, un faucon. Un officier, en habit rouge, monte un cheval
+
+A gauche, plusieurs chiens couches ; d'autres cavaliers, vers le fond,et les constructions d'une ville au dela d'une isabelle qui se cabre.
+
+vallee, sous le soleil couchant.
+
+Signé a gauche, en toutes lettres.
+
+Toile. Haut., 26 cent.; larg., 35 cent.
+
+Collection Degeuser,vente du 13 mai 18g8,n° 22.
+## 39——
+
+## HUET
+
+(JEAN-BAPTISTE)
+
+(Paris 1745Paris 1811)
+
+Le Paysan qui cherche son veau.
+
+(Scene tiree du conte de La Fontaine)
+
+Le couple galant est au pied de l'arbre sur lequel le paysan est monte, tenant son chapeau a la main.
+
+Dans le fond et a gauche, on apercoit entre des rochers le veau échappé.
+
+Peinture en camaieu rose.
+
+Toile de forme ovale.Haut., S8 cent.;larg,68 cent.
+## HUYSUM
+
+(JANVAN)
+
+(Amsterdam 1682Amsterdam 1749)
+
+## Le Vase de fleurs. 40
+
+Des pivoines, des roses, des jacinthes, des coquelicots, des iris, des tulipes, des pavots et d'autres fleurs sont reunies dans un vase en pierre sculptee pose sur un socle, sur lequel on remarque encore une branche de roses, a cote de raisins noirs et d'un melon entame.
+
+Signe des initiales : J. V. H. et date : 1702.
+
+Le tout se detache sur une niche en pierre.
+
+Toile. Haut., 1 m.28 cent.; larg.,8g cent.
+
+Cadre en bois sculpte.
+## KRAFFT
+
+(PER) (Arboga1724+1792)
+
+## Portrait de Catherine II. 41
+
+L'Imperatrice de Russie est vue a mi-corps, presque de face,le visage souriant, un diademe de brillants et deux branches de lauriers sont posés sur ses cheveux poudres. Elle porte, sur une robe de satin blanc, le manteau double d'hermine et le collier de Saint-Andre.
+
+Toile. Haut., 82 cent.; larg., 65 cent.
+
+Cadre en bois sculpte.
+
+## LAGRENEE
+
+(JEAN-JACQUES DIT LE JEUNE) (Paris1740Paris1821)
+
+## Portrait de feune Femme.
+
+Une jeune femme blonde, les cheveux releves, ornes de roses et d'un noeud de ruban,la main droite appuyée sur la poitrine et retenant les plis d'un manteau bleu drape sur son épaule decouverte, un bijou d'orfevrerie retenant sa chemise sur la poitrine et decouvrant un sein, est represente a mi-corps, presque de face.
+
+Toile de forme ovale.Haut.,7o cent.; larg., 57 cent.
+
+Cadre en bois sculpte.
+## LARGILLIERRE
+
+(NICOLAS DE) (Paris 1656Paris 1746)
+
+Portrait de Femme en Diane.
+
+Representee dans un parc, assise, vue a mi-corps, tournée vers la droite, le visage de face, tenant un arc, le bras droit appuye sur un chien, elle porte un corsage de satin blanc aux manches ornees de dentelles, largement ouvert sur la poitrine par un corset rose lace d''un galon d'or ; une fourrure brune est posée sur son epaule.
+
+Cadre en bois sculpte.
+
+Fond de ciel aux effets de soleil couchant.
+
+Toile.Haut.,8o cent.,; larg,64 cent.
+44
+
+## LEDOUX
+
+(MIPHILIBERTE) (1767-1840)
+
+一 La feune Fille aux colombes.
+
+Une jeune fille est assise dans un interieur, le bras gauche accoude sur un socle qui supporte un vase; deux colombes blanches sont posees sur ses genoux.
+
+Les cheveux chatains clairs, separes sur le front et tombant en boucles sur la nuque,les yeux bruns, la poitrine decouverte, elle est vetue d'un corsage blanc,un fichu de gaze sur les epaules; une etoffe de soie grise est drapee autour de sa taille; dans la main gauche, elle tient une couronne de fleurs.
+
+Toile. Haut., 8o cent.;larg.,7o cent.
+46
+
+## LE DUCQ
+
+(JAN)
+
+(La Haye 1636+Vers 168o ou 1685)
+
+## 45 Un Corps de garde.
+
+Des femmes et des officiers sont reunis autour d'une table couverte d'un tapis vert et sur laquelle on remarque un jeu de tric-trac.,A gauche, une femme en robe de soie violacee, les cheveux bruns boucles, est assise, montrant ses cartes a un homme debout derriere elle. Au centre,un militaire,au large chapeau de feutre, fume une longue pipe en terre. A droite, un trophee de guerre compose d'étendards, d'armes, de panaches, d'etoffes, et de bijoux. Derriere le trophee,une femme apparait,en buste,montrant une chaine de perles.
+
+Dans le fond, d'autres joueurs sont groupes; une servante se presente dans l'embrasure d'une porte.
+
+Toile. Haut., 45 cent.; larg., 6o cent.
+
+Cadre en bois sculpté.
+
+## LEMOINE
+
+(Attribue a FRANCOIS) (Paris 1688+Paris 1737)
+
+Flore et Zepbyr.
+
+Ils sont portes dans les nues sur un nuage; la deesse est entourée d'une draperie rose soulevee par le vent;un amour voltigeant devant eux presente une corbeille de fleurs.
+
+Cadre en bois sculpte.
+
+Toile. Haut.,45 cent.; larg.,37 cent.
+## LE PRINCE
+
+(JEAN-BAPTISTE)
+
+(Metz1733+Saint-Denis-du-Port 1781)
+
+Le Joueur de Balalaye. 47
+
+Des paysans orientaux sont reunis devant une cabane, un homme aux cheveux et a la barbe hirsute joue d'un instrument a cordes. Une jeune femme blonde en robe bleue est agenouillee a terre; derriere elle, une autre jeune femme est enveloppee dans un manteau rose qui
+
+A droite, un enfant caresse un chat. Deux autres per- lui couvre la tete.
+
+sonnages completent la composition.
+
+Signe et date en bas et a droite : J.-B. Le Prince 1764. Grave par B.-L. HENRIQUEz, en 1765.
+
+Toile.Haut.,73 cent.; larg.,58 cent.
+
+## LE PRINCE
+
+(D'apres JEAN-BAPTISTE)
+
+47 bis --Le foueur de Balalaye.
+
+Gravure par B.-L. HENRIQUEz.
+## LE PRINCE
+
+(JEAN-BAPTISTE) (DEUX PENDANTS)
+
+Paysanne russe.
+
+Une femme en manteau rose double de fourrure blanche, jupon bleu sur une robe jaune, debout, tient une cruche.
+
+Paysan russe. 49
+
+Un homme a la barbe blanche, coiffe d'une toque rouge bordée de fourrure, une veste bleue serrée a la taille par une ceinture blanche, le sabre au cote, debout,
+
+Bois. Haut., 17 cent.;larg., 11 cent.
+
+fume une longue pipe.
+
+Bois.Hlaut.,17 cent.;larg.,11 cent.
+## LEYSTER
+
+(JUDITH)
+
+(Haarlem ou Raandam vers 16oo  Heemstede 166o)
+
+5o-Jeunes musiciens.
+
+Un jeune garcon n aux cheveux bruns separes sur le front par une raie et tombant en longues meches sur les oreilles et sur la nuque est debout,a droite,et vu a micorps, devant une table. Tenant d'une main un feuillet de papier, sur lequel il a les yeux fixés, il chante, battant la mesure de la main gauche. Son pourpoint de couleur brune est serre a la taille par une ceinture et en partie couvert d''un manteau noir retenu sur ses epaules.Autour du cou et aux poignets, il porte un large col et des manchettes de lingerie bordees de dentelles.
+
+A gauche, un autre jeune homme au visage largement fendu d'un rire,la bouche ouverte montrant ses dents blanches, la main droite levee, semble 1accompagner en chantant. Ses longs cheveux chatains sont coiffés d'une toque noire a panache de plumes. I1 porte un manteau verdatre double d'étoffe rouge. Au premier plan, sur la table couverte d'un tapis vert, on remarque un luth, une partition ouverte et la toque du premier chanteur.
+
+Fond clair.
+
+Toile. Haut.,78 cent.;larg,62 cent.
+## LINGELBACH
+
+(JOHANNES)
+
+(Francfort-sur-le-Mein 1623Amsterdam 1674)
+
+## 51 Le Marche italien.
+
+Des marchands de légumes ou de gibier sont arretes au premier plan, entoures de villageois, parmi lesquels on remarque un homme coiffé d'une toque rouge, un panier sous le bras, et montant un petit ane. A droite, un musicien, debout sur une caisse, chante en pincant de la guitare; plus loin, d'autres figures sous une colonnade.
+
+Deux carrosses sont arretes vers la gauche, au second plan, et des personnages de distinction sont accueillis par un gentilhomme qui les salue, son chapeau bas.
+
+Une large place s'etend au fond devant une eglise dont le dome se detache sur l'horizon devant une chaine de collines baignee dans la lumiere blonde d'une journee ensoleillee. Le ciel bleu est charge de nuages.
+
+Toile.Haut., 68 cent.; larg, 84 cent.
+## 52
+
+## MAES
+
+(NICOLAS)
+
+(Dordrecht 1632+Amsterdam 1693)
+
+## Portrait d'Homme.
+
+Vu presque de dos, mais la tete retournee de trois quarts a gauche,il regarde le spectateur. Une longue perruque blonde retombe sur ses epaules. ll est revetu d'une armure brune, une legere dentelle la depasse au col et aux poignets. Une draperie bleue a franges dorees lui ceint la taille et soutient une épee a a poignée d'or. La main gauche est appuyee sur un bouclier rond, de 1'autre main il tient le baton du commandement.
+
+Au second plan, on apercoit les flammes d'une ville incendiee. Fond de rochers se detachant sur un ciel nuageux.
+
+Toile. Haut., 1 m. 22 cent.; larg., 96 cent.
+## MABUSE
+
+(JEANVANGOSSAERTDIT JEANDE) (Maubeugevers 144o+Anvers 1533)
+
+## 53— La Vierge et l'Enfant aux perles.
+
+La Vierge est assise vue jusqu'a la ceinture, tournee de trois quarts vers la droite,les yeux bruns regardant en face. Ses cheveux chatains, separes en bandeaux sur le front, boucles sur les oreilles, sont ornes d'un bijou d'orfevrerie enrichi de perles et de pierres precieuses. La robe bleu sombre brodee d'or, ouverte en carre sur la poitrine, decouvre une chemise de fines dentelles. Un voile de mousseline blanche fronce sur son epaule gauche. De ses deux mains, elle tient contre sa poitrine son divin fils. L'Enfant, aux yeux bruns, aux cheveux blonds bouclés, vetu d'une chemise blanche ouverte sur la poitrine et decouvrant un sein,une jambe relevee sur le bras de sa mere, tient de ses deux mains un long fil soutenant des perles.
+
+Fond de marbre rouge dans un encadrement de pierre.
+
+Bois.Haut., 44 cent.; larg.,32 cent.
+## MALLET
+
+(JEAN-BAPTISTE)
+
+(Grasse1759+Paris1835) (PENDANT DUSUIVANT)
+
+54 Le four de Noce. —
+
+Une jeune femme nue devant une psyché regarde un medaillon quelle tient de la main droite. Elle est appuyee sur un gueridon ou l'on remarque un bouquet de fleurs d'oranger et un chale jaune ; la robe nuptiale est posee sur un tabouret vert.
+
+A gauche, un panier de lingerie et un carton a cha- peau.
+
+Toile. Haut., 24 cent.; larg.,1g cent.
+
+Grave en couleur sous le titre ci-dessus par CHouBARD.
+## MALLET
+
+(JEAN-BAPTISTE) (PENDANTDUPRECEDENT)
+
+## 55Le Lendemain de Noce.
+
+Dans une chambre decoree d'arabesques, et tenant par la main l'epoux encore couche, la jeune mariee retient sur sa poitrine un voile de gaze, debout devant un lit en citronnier, orne de bronze, garni de rideaux blancs.
+
+Dans le fond, un fauteuil a cariatides.
+
+A gauche, des bijoux sont poses sur un petit gueridon.
+
+Toile. Haut., 24 cent.; larg., 19 cent.
+
+Grave en couleur sous le titre ci-dessus par CHouBARD.
+
+## MALLET
+
+(D'apres JEAN-BAPTISTE)
+
+(DEUX PENDANTS)
+
+55 bis — Le Lendeimain de Noce.
+
+Deux pieces en couleur par CHouBARD.
+## METSYS
+
+(QUENTIN) (Louvain 1466Anvers 1530)
+
+56 — Le Sauveur du Monde.
+
+Le Christ est represente a mi-corps, les cheveux blonds pendant sur les épaules et sur une dalmatique rouge bordee d'un orfroi de broderie d'or et retenu sur la poitrine par une plaque d'orfevrerie enrichie de pierres precieuses.
+
+geste de la benediction; la main gauche supporte un globe de cristal sur-
+
+La main droite est levee dans le monte d'une croix d'or.
+
+Fond vert.
+
+Bois. Haut., 3o cent.;larg.,24 cent.
+
+## NATOIRE
+
+(CHARLES-JOSEPH) (Nimes 17co  Castel Gandolfo 1777)
+
+Venus et lAmour.
+
+La deesse est etendue devant un rocher, assise sur une draperie e rose, les cheveux blonds pendant sur les epaules, regardant l'amour endormi sur une gaze blanche.
+
+Au premier plan, un arc et un carquois; au fond et a droite, un dieu terme.
+
+Cadre en bois sculpté.
+
+Bois. Haut.,32 cent.;larg,42 cent.
+## NATTIER
+
+(JEAN-MARC) (Paris1685Paris1766)
+
+## 58— Portrait de la Marquise de Lenoncourt.
+
+Elle est representee a mi-corps, legerement tournee vers la gauche, le visage de face, les yeux bleus fixes sur le spectateur. Ses cheveux, legerement poudres, sont relevés sous un voile de gaze fixe au-dessus du front, tombant derriere elle et sur l'épaule droite.Vetue d'un corsage de mousseline blanche decollete et orne sur la poitrine d'un double rang de perles, elle est drapee dans un manteau de satin blanc retenu a la taille par des agrafes d'orfevrerie.
+
+Signe a gauche: Nattier pinxit 1740.
+
+Toile.Haut., 81 cent.; larg., 64 cent.
+## NEUFCHATEL
+
+(NICOLAS-LUCIDEL,DIT COLINDE)
+
+(Mons1525+Mons1600)
+
+## 59 Portrait du President Zuicbem.
+
+Debout, vu jusqu'aux genoux, tourne de trois quarts a droite, coiffe d'un bonnet noir, la barbe blanche descendant sur la poitrine, vetu sur son pourpoint de soie noire d'un large manteau de meme couleur, borde de fourrure, il tient dans la main droite une feuille de papier,et ses gants dans Iautre main.
+
+On lit sur le cadre:Viglius Ayta de Zuychem,President du Conseil secret des Pays-Bas,a Bruxelles,sous Charles-
+
+Quint et Philippe II.
+
+Bois.Haut.,1 m.o6cent.;larg.,84 cent.
+(JEANVAN)
+
+(Middelharnis 1744La Haye 1808)
+
+## 60 Fleurs et Fruits.
+
+Un bouquet de roses, roses tremieres, iris, volubilis; des feuilles de vigne, un cantaloup, du raisin, des peches, des prunes, un ananas, des groseilles, des grenades, sur lesquels on remarque un papillon et des insectes,le tout reuni sur une table de marbre.
+
+Fond de parc.
+
+Signe a droite.
+
+Cadre en bois sculpte.
+
+Bois.Haut.,68 cent.;larg.,51 cent.
+
+## OSTADE
+
+(ADRIAEN VAN)
+
+(Haarlem 161oAmsterdam 1685)
+
+## 61 —L'Homme a la Fenetre.
+
+Un villageois coiffe d'un feutre noir,un manteau de meme couleur glissant sur l'épaule, est accoude a une fenetre. Vu de trois quarts, presque de dos,le visage retourne vers le spectateur et fendu d'un large sourire, il tient d'une main sa pipe en terre et de l'autre un broc au couvercle d'etain.
+
+Le feuillage d''une vigne s'etend, en haut et a droite, sur le mur de la maison.
+
+Signe a gauche en toutes lettres.
+
+Bois. Haut.,19 cent.;larg., 15 cent.
+## OUDRY
+
+(Attribue a JEAN-BAPTISTE) (Paris 168gBeiuvais1755)
+
+62-— -Le Singe amateur de fruits.
+
+pied d'un arbre, a reuni devant lui des peches, et savoure une noisette qu'il tient dans sa patte. Deux oiseaux sont poses sur les branches de l'arbre.
+
+Dans le fond, les constructions d'une ferme avec un colombier.
+
+Toile.Haut,52 cent.;larg,40 cent.
+
+## OUDRY
+
+(JACQUES-CHARLES)
+
+(Paris 172o Lausanne 1778)
+
+63 Chien et Renard.
+
+Un chien blanc tache de noir a saisi par le dos un renard qui le mord en retournant la tete.
+
+Signe a droit : J.-C. Oudry, fi,1764.
+
+Toile. Haut., 72 cent.; larg, 9o cent.
+
+Cadre en bois sculpte.
+## 65
+
+## PARMESAN
+
+(Attribuea MAZZOLA FRANCESCO,DIT LE) (Parme 1504Casal Maggiore 1540)
+
+Venus et l Amour.
+
+La deesse est representee a mi-corps dans un paysage; lamour etendu a gauche sur un tertre, les ailes largement ouvertes et tenant un carquois,lui donne un baiser.
+
+Toile. Haut., 76 cent.; larg., 1 m. 12 cent.
+
+## POURBUS
+
+(FRANCOIS LEVIEUX) (Bruges1545+Anvers 1581)
+
+La Femme au bonnet blanc.
+
+Vue de face, en buste, les yeux gris-bleu, le visage legerement colore, les cheveux releves sous un bonnet blanc, elle porte un corsage noir au large col montant autour du cou et ouvert sous le menton, decouvrant une petite fraise a tuyautes.
+
+Bois. Haut., 40 cent;larg., 33 cent.
+## RANC
+
+(JEAN)
+
+(Montpellier 1674Madrid 1735)
+
+## 66 -— Portrait d'Homme.
+
+A mi-corps, de profil a droite, le visage tourne vers le spectateur, il porte la longue perruque poudrée et un manteau de velours rouge double de brocart d'or drape sur l'epaule. Sous le menton est nouee une cravate de dentelle.
+
+Toile. Haut.,78 cent.; larg, 58 cent.
+## RAOUX
+
+(JEAN)
+
+(Montpellier 1677Paris 1734)
+
+## La Femme aux castagnettes.
+
+Debout a mi-jambes, le corps presque de face, le visage de trois quarts tourne vers la gauche, elle semble entrainee dans un mouvement de danse. Les doigts sjouent avec des castagnettes retenues par des rubans de soie bleue. Ses cheveux poudrés et boucles, retombant en longues meches divisees sur ses épaules, sont coiffes d'un toquet de velours noir a lisere d'or, garni de plumes blanches et noires, d'un chou de rubans bleus et d'une agrafe d'orfevrerie. Une fraise souple entoure son cou. Sa robe de velours noir brode d'or, au corsage decollete garni de dentelles, se releve sur une jupe de satin broche. Les manches sont a creves sur fond de satin blanc.
+
+A droite, un masque noir est place sur le marbre d'une table, pres d''une draperie a grandes cassures, rose et or.
+
+Toile.Haut., 1 m.32 cent.; larg, 97 cent.
+## REGNAULT
+
+(JEAN-BAPTISTE,BARON) (Paris1754Paris1829)
+
+## 68 —La Mort d'Adonis.
+
+Ce tableau a été grave par C. Normand, dans les Annales du Musee, Salon de 1814, planche 62, et decrit comme il suit, aux pages 86 et 87 du meme ouvrage :
+
+- Venus,éprise d’Adonis, avait abandonne le sejour de
+- Cythere, d'Amathonte et de Paphos,pour le suivre
+- dans les forets du mont Liban ou il allait chasser.
+- Diane, a la priere de Mars, que cette preference avait
+- rendu jaloux, suscita un sanglier enorme et lirrita en
+- α lui lancant son javelot. L'animal, furieux, s'élanca sur
+- α Adonis et le terrassa. Venus accourut, mais trop tard,
+- ( au secours de son favori,il venait d’expirer; elle le
+- (changea en anemone.)
+- Monsieur Regnault a reuni dans ce tableau gracieux, dont les figures sont de grandeur naturelle, tout ce qui peut donner de linteret et du charme aux sujets poetiques. Venus est descendue de son char, traine par deux cygnes; les yeux élevés vers le ciel, elle accuse la rigueur du destin; et debout, pres du corps inanime de son cher Adonis,elle cherche vainement sur son coeur un
+- reste de vie:il a rendu le dernier soupir.
+- L'Amour soutient une des mains du jeune prince et
+- mele ses larmes a celles de Vénus. On voit dans le lointain le sanglier poursuivi par les chiens.
+
+Un dessin noble et correct, un coloris suave, un pinceau coulant et facile recommandent cette nouvelle production d'un artiste qui a éte l'un des premiers a ramener dans notre école le gout de l'antique et la pu- rete des formes.）
+
+Signe en bas et a gauche: Regnault f. 1812.
+
+Toile.Haut.,2 m.57 cent; larg.,2 m.09 cent,
+## ROLAND DE LA PORTE
+
+(HENRI-HORACE)
+
+(Paris1724+Paris1793)
+
+6g La Desserte.
+
+Sur une table de pierre en partie couverte d’une nappe blanche,on a reuni, autour d'un paté pose dans un plat de faience, des bouteilles, un verre de vin rouge, un couteau au manche d'argent et des peches.
+
+Toile de forme ovale. Haut., 58 cent.; larg.,72 cent.
+
+## ROTTENHAMER
+
+(JOHANN)
+
+(Munich 1564+Augsbourg 1623)
+
+--Le fugement de Paris. 70
+
+Le berger est assis a droite sur un rocher et offre la pomme aux trois deesses, qui se presentent a gauche. Venus est debout, et tend la main pour prendre le fruit. Au second plan,Mercure tenant son caducee.
+
+Cuivre.Haut.,28 cent.;larg.,34 cent.
+
+Cadre en bois sculpte.
+## RUBENS
+
+(PIERRE-PAUL) (Siegen 1577-1640)
+
+## 71--La Vierge avec l Enfant.
+
+Assise, vue jusqu'aux genoux,1 legerement tournee vers la droite,la Vierge aux cheveux chatains roux releves au sommet de la tete et ornes d'un voile noir qui pend sur ses epaules, vetue d'une robe rouge et d'un manteau bleu, soutient sur son genou de ses deux mains jointes 1Enfant Jesus, aux cheveux blonds boucles, couvert d'une chemise blanche et tenant tendrement sa mere de ses deux petits bras appuyés autour de son cou.
+
+Bois. Haut., go cent.; larg., 69 cent.
+
+Replique d'un tableau qui se trouve au musee de lErmitage a Saint-
+
+Petersbourg.
+
+M.Max Rooses dans 《 1'ceuvre de Rubens 》, page 255, tome I, decrit, en meme temps que celui de Saint-Petersbourg, une autre replique du meme tableau dans la collection Maurice Kann. (Vte 9juin 1911, no55 du catalogue.)
+
+Les deux tableaux du Musee de lErmitage et de la collection Maurice Kann sont peints sur toile et presentent tous deux la meme composition, la Vierge etant assise sur un banc de marbre.
+
+Le present tableau est peint sur bois et de dimensions diferentes; on remarque dans sa composition une variante importante:le banc de marbre n'y figure pas.
+## 72
+
+## SCHALL
+
+(JEAN-FREDERIC) (Strasbourg 1752(?) vers 1835)
+
+## L'Indiscretion galante.
+
+Une jeune femme est endormie, dans un parc, sur un banc de pierre. Ses cheveux blonds sont ornes d'un ruban bleu; elle porte un corsage de satin blanc decollete et une jupe rose.
+
+A gauche,un gentilhomme en habit gris, debout derriere un buisson de roses, souleve du bout de sa canne le fichu de mousseline qui couvre la gorge de la jolie dormeuse. Une autre jeune femme, en robe de soie jaune, vue de dos, retient le jeune homme par le bras.
+
+Dans le fond, sur un socle, un groupe en pierre.
+
+Bois.Haut.,32 cent.;larg.,26 cent.
+
+## SCHENAU
+
+(ZEIZIG JOHANN-ELEAZAR, DIT)
+
+(Gross Schcenau 1737Dresde 1806)
+
+## 73 La Marcbande de fleurs.
+
+Devant une arcade de pierre et le bassin d'une fontaine, agenouillee devant un panier de fleurs et fait un bouquet. La marchande,en robe bleue,est debout a droite,portant une hotte sur son dos.
+
+Cadre en bois sculpté.
+
+Bois.Haut.,36 cent.;larg.,32 cent.
+74
+
+75
+
+## SENAVE
+
+(JACQUES-ALBERT)
+
+(L001758Paris1829)
+
+La Marchande d'eufs.
+
+Une jeune villageoise en corsage bleu, jupon rouge, tablier blanc, est agenouillee dans un interieur,les mains appuyees sur un panier d’ceufs.
+
+Dans le fond,a gauche, un vase de roses, pose sur un tonneau, pres de legumes.
+
+Bois. Haut., 15 cent.; larg., 12 cent.
+
+Cadre en bois sculpté.
+
+## SORGH
+
+(HENDRICK-MARTENSZOON ROKES,OU ZORG) （Rotterdam 1621+Rotterdam 1682)
+
+La Partie de cartes.
+
+Sous une grange, ou penetre une lumiere ensoleillée, des paysans se sont reunis autour d'une table. Au centre, 1'un d'eux, en veste rouge, assis sur un tonneau, la figure épanouie d'un large sourire, tient de ses deux mains un jeu favorable.
+
+A droite, une femme est assise sur une chaise, un tablier blanc couvre sa jupe rose. Elle a une pipe en terre dans une main. Un couple est debout derriere les joueurs. Dans le fond, une porte dont le vantail superieur est ouvert.
+
+Bois.Haut.,51 cent.;larg.,41 cent.
+<!-- image -->
+
+Sur une place publique, deux hommes drapes a l'antique, armes de poignards, viennent d'etre separes par des femmes et des enfants qui s'efforcent de retenir leur fureur.
+
+Au premier plan,un chien aboit. Dans le fond, les
+
+A gauche, une femme en robe bleue, avec écharpe jaune, est tombee sur le sol, et,le bras gauche relevé dans un geste d'effroi, regarde la scene avec angoisse.
+
+constructions d'une ville, presentant une tour fortifiee devant un pont de pierre, sont agrementees de quelques arbres verts.
+
+Signe a droite.
+
+De lourds nuages courent sur le ciel bleu.
+
+Bois. Haut., 17 cent.; larg., 22 cent.
+
+## VALLIN
+
+(JACQUES-ANTOINE) (Ecole francaise fin du XVIll siecle)
+
+77 L'Oiseau mort.
+
+Un enfant nu, aux yeux bleus et aux cheveux blonds un rayon de soleil; les bras levés a la hauteur de 1epaule,
+
+Au second plan, un autre enfant aile dort etendu sur boucles, une legere draperie de mousseline retenue sur son epaule et yoltigeant derriere lui, court dans un bois sous il tient, de la main droite,un oiseau mort.
+
+un manteau sombre, devant un buisson.
+
+Toile.Haut., 16 cent.,larg.,22 cent.
+
+## TAUNAY
+
+(NICOLAS-ANTOINE) （Paris1755+Paris1830)
+## VALLIN
+
+(JACQUES-ANTOINE)
+
+78 一 foseph et la Femme de Putipbar.
+
+Ils sont representes dans un interieur tendu d'une draperie blanche. Joseph est debout, couvert d'un manteau jaune; la femme, assise a droite, coiffée d'un bonnet rouge, est vetue d'une robe blanche lui decouvrant une epaule et le torse.
+
+Bois.Haut.,2o cent.;larg.,16 cent.
+
+## WERFF
+
+(ADRIAEN VAN DER)
+
+(Kralinger165g+Rotterdam 1722)
+
+79 feune Femme en Madeleine.
+
+Une jeune femme blonde, les cheveux boucles pendant sur lépaule,le haut du corps et les jambes nus, un manteau bleu autour de la taille, est étendue sous une grotte.
+
+Bois. Haut,42 cent.;larg.,31 cent.
+<!-- image -->
+
+## FAIENCES
+
+## PORCELHINES
+
+8o— STATuETTE de femme nue sur un char, formant fontaine. Faience, Italie du Nord,xville siecle.
+
+Haut.,5o cent.
+
+- 81 —Deux GRos VAsEs ovoides en ancienne faience de Venise, a de rindecor de medaillons-bustes sur fond bleu charge ceaux fleuris. Couvercles en bois.
+
+Haut.,32 cent.
+
+- 82 -VAse avec couvercle en ancienne faience allemande ajouree, decore d'un quadrillage seme de fleurs.
+
+Haut., 4I cent.
+
+- 83 —FoNTAINE, en forme de magot chinois, en ancienne faience du Midi.
+
+Haut.,47 cent.
+
+- jouant avec un dauphin. 84GRouPE de deux enfants nus Ancienne faience blanche.
+
+Haut., 15 cent.
+- 85  PoRTE-HuILIER ovale ajouré, a decor de rinceaux. Ancienne faience de Lorraine.
+
+Larg.,25 cent.
+
+- 86— STATuETTE en terre vernissee jaune de baigneuse dans la maniere de FALcoNET. Epoque Louis XVI.
+
+Haut., 3o cent.
+
+- — Coupe ajouree avec couvercle en terre vcrnissee. Fin du xvinr siecle. Base en bronze.
+
+Haut., 22 cent.
+
+- 88GRAND GRouPE en biscuit du temps de Louis XVI, composé chasse a tir, etc., avec arbuste au centre, sur base en bois de meme époque et avec globe en verre.
+
+Haut., 5o cent.
+
+- 8g  STATuETTE d'Hercule debout en ancien biscuit.
+
+Haut.,20 cen1.
+
+- 90 — Deux coRNErs, decores de paysages animes et de fruits. Ancienne porcelaine de Chine.
+
+Haut.,40 cent.
+
+- g1— STATuETTE de prelat debout en ancienne porcelaine de Hoechst.
+
+Haut., 12 cent.
+
+- 92 —— FiGuRINE d'adolescent debout en ancienne porcelaine de Hoechst.
+
+Haut., 12 cent.
+
+- 93— STATuETTE en ancienne porcelaine de Louisbourg:Personnage barbu nu, debout.
+
+Haut., 22 cent.
+- 94 — GroupE en ancienne porcelaine de Vienne, presentant trois personnages occupes a denicher des oiseaux. Aupres d'eux, un chien.
+
+Haut., 24 cent.
+
+- 95 5—Deux GRouPEs en ancienne porcelaine de Vienne, a composition de personnages mythologiques aupres d'un arbuste.
+
+Haut., 29 cent.
+
+- 96 5— STATUETTE de fillette debout, tenant un instrument de musique.Porcelaine de Berlin.
+
+Haut.,15 cent.
+
+- 97 STATUETTE de fillette, tenant une corbeille de fleurs. Ancienne porcelaine de Saxe.
+
+Haut.,13 cent.
+
+- 98— STATuETTE de fillette, personnifiant la Moisson.Ancienne porcelaine de Saxe.
+- de Saxe.
+
+Haut., 14 cent.
+
+Haut., 10 cent.
+
+- Ioo —Deux GRoupEs en ancienne porcelaine de Saxe,f figurant 1'un Calliope et l'autre Clio assises toutes deux aupres d'un arbuste. Ancienne porcelaine de Saxe.
+
+Haut., 28 cent.
+
+- 101 - STATuETTE d'adolescent richement vetu. Ancienne porcelaine de Saxe.
+
+Haut.,13 cent.
+
+- 102 — SrATuETTE de bucheron debout en ancienne porcelaine de Saxe.
+
+Haut., II cent.
+- 1o3 — Deux PETITs BUsTEs de personnages, de style antique, en ancienne porcelaine de Saxe.
+
+Haut.,Io cent.
+
+- 104 —FiGuRINE de petite marchande de poissons. Ancienne porcelaine de Saxe.
+
+Haut., 1o cent.
+
+- 105 -PeTIT GRouPE en ancienne porcelaine de Saxe : Nymphe et satyre.
+
+Haut., 10 cent.
+
+- 106 —Deux FIGuRINEs d'enfants nus, debout aupres d'un vase. Ancienne porcelaine de Saxe.
+
+Haut., 14 cent.
+
+- 107 — CHiEN assis en ancienne porcelaine de Saxe, décore au naturel.
+
+Haut., 19 cent.
+
+- 1o8 - Deux coupes ajourees, decorees de fleurs et feuilles,en
+- porcelaine de Saxe-Marcolini.
+
+Larg.,25 cent.
+
+- 109 —PeNDuLE, forme vase, surmontee d'une figurine d'enfant tenant une corne d'abondance; rehauts de dorure. Porcelaine de Saxe; marque au point.
+
+Haut., 35 cent.
+
+- I1o - BrEBis couchee en porcelaine de Saxe barrée. Larg., 18 cent.
+- III — SrATuETTE de personnage debout, tenant une corbeille de fleurs. Ancienne porcelaine d'Allemagne.
+
+Haut., 14 cent.
+
+- 112 — STATuETTE de paysanne, tenant une couronne de fleurs. Ancienne porcelaine d'Allemagne.
+
+Haut., 13 cent.
+- I13 —SrATuETTE de femme, drapee a 1antique, debout aupres d'un vase. Socle orne de fleurs. Ancienne porcelaine d'Allemagne.
+
+Haut.,22 cent.
+
+- 114 — FiGuRINE de femme vetue a 1'orientale.Ancienne porcelaine d'Allemagne.
+
+Haut.,12 cent.
+
+- 115 — Oiseau sur un tronc d'arbre en ancienne porcelaine blanche d'Allemagne.
+
+Haut., 14 cent.
+<!-- image -->
+
+## OBJETS VARIES
+
+- 116 - MonsTrAnce en cuivre repousse et dore, a fleurs et cariatides. xvi siecle.
+
+Haut.,35 cent.
+
+- 117 — STATUETTE en bois sculpte representant le Christ debout, montrant ses plaies. Ancien travail espagnol.
+
+Haut., 25 cent.
+
+- 118 — DeUx JARDINIEREs en metal laque, de style chinois. Fond blanc. Epoque Louis XVI.
+
+Larg.,17 cent.
+
+- 119 — BeurRiER avec couvercle et plateau en cristal taille. Epoque Louis XVI.
+
+Diam., 12 cent.
+
+- 120 - Coupe ovale a deux anses en argent repousse. xvir siecle. Larg., 21 cent.
+- 121  BocAL, en forme de fruit, sur tige simulant un tronc d'arbre. Argent repousse. Ancien travail allemand.
+- 122 — GoRILLE en cire rouge.
+
+Haut., 27 cent.
+
+Haut., 13 cent.
+
+- 123 — BrULE-PARFUM, avec couvercle et sur trois pieds, en ancien email cloisonne de la Chine, a decor de rinceaux fleuris sur fond bleu.
+
+Haut., 28 cent.
+
+- 124 — Deux BoLs en ancien émail cloisonne de la Chine,a decor d'animaux sur fond bleu.
+
+Diam., 13 cent.
+<!-- image -->
+
+## SCULPTURES
+
+- 125 — HAuT-RELIEF en marbre tendre blanc, representant la Vierge assise, portant l'Enfant sur le genou gauche. xvie siecle.
+
+Haut.,47 cent.;larg.,34 cent,
+
+- 126 — PETIT GRoupE en terre cuite: Venus debout, accompagnée de 1'Amour. Attribue a Marin. Epoque Louis XVI.
+
+Haut.,25 cent.
+
+- 127—STATuETTE en terre cuite,representant une vestale debout, amplement drapee. Epoque Louis XVI.
+
+Haut., 28 cent.
+
+- 128 —GroupE en terre cuite, representant Flore jetant des fleurs sur le globe du Monde. Signe: Labatut.
+
+Haut.,38 cent.
+
+- 129 —PETIT GRouPE en terre cuite, representant deux femmes nues en train de lutter. Signe:Leonard.
+
+Haut., 18 cent.
+
+- 13o —STATuETTE en terre cuite de danseuse debout, les bras passes au-dessus de la tete.
+
+Haut.,36 cent.
+<!-- image -->
+
+## PENDULES,BRONZES
+
+- 131 — CassoLETTE en ancienne porcelaine blanche de Locre; monture en bronze doré, a trois pieds de biche, pampres, lyres, etc. Epoque Louis XVI.
+
+Haut.,25 cent.
+
+- 132 —PeNDuLE en bronze doré et marbre blanc, presentant une figure de femme jouant de la lyre, et a qui un amour offre une corbeille de fleurs. Frise de jeux d'enfants. Epoque Louis XVI.
+
+Haut.,4I cent.
+
+- 133 —DEUx CANDELABREs, a deux lumieres, en bronze dore, composes d'une statuette de petite paysanne et d'une statuette de jeune paysan debout, d'apres BoucHER, et tenant chacun un pot de fleurs d'ou s'échappent les branches porte-lumieres. Bases en marbre blanc et bronze dore. Epoque Louis XVI.
+
+Haut.,40 cent.
+
+- 134 — DEux CANDELABREs, a quatre lumieres, en bronze patine et
+- doré, formes chacun d'une statuette de femme debout, portant une corne d'abondance d'ou s'échappe le bouquet de lumieres. Bases cannelees a guirlandes. Epoque Louis XVI.
+
+Haut.,73 cent,
+- 135 —Deux cANDELABREs, a deux lumieres,en bronze dore, composes chacun d'une statuette d'amour debout portant le bouquet de lumieres. Bases en marbre blanc. Epoque Louis XVI.
+
+Haut.,54 cent.
+
+- 136 —Deux cANDELABREs,a trois lumieres, en bronze dore,a figures d'enfants tenant un bouquet de lumieres. Bases en marbre blanc et bleu-turquin. Epoque Louis XVI.
+
+Haut.,51 cent.
+
+- 137— PeNDuLE en bronze dore et marble blanc, ornee de deux statuettes : Jeune chasseur accompagne de son chien et jeune femme sur des nuees, vetue d'une draperie, laissant voir la poitrine. Base ornée de bas-reliefs a jeux d'enfants. Fin du xvlle siecle.
+
+Haut., 42 cent.;larg,44cent.
+
+- 138—STATuETTE en bronze patine,representant tun athlete debout. Signee: Madrassi. Fonte a cire perdue.
+
+Haut., 33 cent.
+<!-- image -->
+
+## MEUBLES
+
+- 139 —BuREAu, sur huit pieds a X, en marqueterie de cuivre sur ecaille, a compositions dans la maniere de Berain. ll contient un abattant au milieu de nombreux tiroirs. Garniture de bronzes a godrons et mascarons. Epoque Louis Xiv.
+
+Larg., 99 cent.
+
+- 140 —GRAND sEcRETAIRE, a abattant, portes et tiroirs, en acajou. Garniture de bronzes dores; dessus de marbre blanc.
+- Epoque Louis XVI.
+
+Haut.,1 m.47 cent.;larg.,1 m.20 cent.
+
+- 141 1— GRANDE coNsoLE en bois sculpté et dore, sur quatre pieds canneles et feuillages, decoree, sur la ceinture, de rinceaux fleuris et d'oiseaux. Epoque Louis XVI. Tablette de marbre breche violette.
+
+Larg, I m. 48 cent.; prof., 6o cent.
+
+- TABLE en bois ajoure peint et dore a feuillages, sur pieds 142 relies par un croisillon. Tablette de mosaique ede marbre. Ancien travail italien.
+
+Long., 1 m.40 cent.; larg, 78 cent.
+
+<!-- image -->

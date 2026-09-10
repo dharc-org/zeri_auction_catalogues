@@ -1,0 +1,1117 @@
+## VERSTEIGERUNG:
+
+## Dienstag, den 17.Marz 1908
+
+von 10 Uhr ab.
+
+## ADRIAAN GRYEFF.
+
+1670-1715.
+
+- Feines Bildchen auf Holz.H.19 cm,B.27 cm.G.-R.
+
+## E.v.HEEMSKERK.
+
+1610-1680.
+
+- 2.Drei Bauern am Fenster rauchend und singend.
+- Auf Holz,mit Monogramm.H.25 cm,B.20 cm.G.R.
+
+## PEETER BOUT.
+
+1658-1702.
+
+- 3.Hirten mit ihren Tieren bei einem Schuppen rastend. Auf Leinwand.Mit dem Namen des Kinstlers bezeichnet.H.16 cm,B.19 cm.S.R.
+
+## F.van der MEULEN.
+
+1631-1690.
+
+- 4.Waldpartie mit kriegerischem Transport. Hibsches Bildchen aufLeinwand.H.35 cm,B.43cm.G.R.
+
+## J. de HEEM bezeichnet.
+
+- 5.Stilleben.Auf einem Steinpostamente Pflaumen, Erdbeeren, Johannisbeeren usw. Sehr feines Bildchen auf Hole.Auf dem Postament bezeichnet.H.24 cm,B.18 cm.G.R.
+
+## D. SEGHERS. Art.
+
+- 6.Ein schoner Blumenstrauf in einer blau dekorierten Fayencevase. Hibsches Bild auf Leinwand.H.50 cm,B.35 cm.S.R.
+
+## PIETER GYSELS.
+
+1621-1690.
+
+7. Gebirgige Landschaft mit Burg an einem FluB. Landleute als Staffage.
+2. Auf Holz.H.26 cm,B.32 cm.G.-R.
+## JAN PORCELLIS.
+
+- 8.Fischerboot auf stark bewegter See. Grau in grau gemaltes Bildchen.Auf einer Flagge monogrammiert.Holz.H.18 cm,B.27 cm.S.R.
+
+1597-1632.
+
+## PALAMEDES PALAMEDESZ.
+
+- 9.Gefecht zwischen Kavallerie und Infanterie am Ufer eines breiten Stromes. Sehr fein gemaltes Bildchen auf Holz.H.30 cm,B.48 cm.S.R.
+
+1607-1638.
+
+## D.SEGHERS. Art.
+
+- 10.Inmitten eines schon komponierten Blumenkranzes mit Schmetterlingen die Madonna mit dem Kinde auf Wolken, von Amoretten umgeben. In den Luften Gott Vater. Leinwand.H.96 cm,B.72 cm. S.R.
+
+## J.ROTTENHAMMER.
+
+1564-1623.
+
+AufKupfer.H.35 cm,B.28cm.G.-R.
+
+11. Hirten beten das neugeborene Christuskind an. Rechts zwei Engel, in den Luften eine Engelsglorie.
+
+## DIRK HALS.
+
+12. Interieur mit musizierender Gesellschaft. Links eine Dame am Spinett. Hibsches Bild aufHolz.H.43cm,B.67cm.S.R.
+
+1600-1656.
+
+## PAULUS van PAETZ.
+
+- 13.Vanitas.-Bei goldenen PrunkgefaBen, einem Beutel mit Geld,eine Sanduhr und ein menschlicher Schadel.
+
+17. Jahrhundert.
+
+Interessantes Bild auf Leinwand.Rechts auf einem Zettel die volle Signatur des Kinstlers.1655.H.47 cm, B.47cm.S.R.
+
+## A. de DOMINICIS.
+
+14. Italienische Ansicht mit kastellartigem Gebaude im rechten Vordergrunde. Als Staffage ein junges Madchen, von einem Manne belauscht. Auf Leinwand.Das Bild ist in der Mitte auf einem Vasenpostament bezeichnet.H.100 cm, B.128 cm.G.R.
+
+Datiert 1665.
+
+## L.le NAIN.
+
+15. Wirtshaus-Interieur mit rauchenden Bauern, um eine Tonne sitzend. AufKupfer.H.20 cm,B.26 cm.S.R.
+
+17.Jahrhundert.
+
+## G.P.RUGENDAS.
+
+- 16.Reiterschlacht. Sehr lebendig gemaltet Bild aufLeinwand.H.59 cm,B.71 cm.S.R,
+
+1666-1742.
+## JAN KOBELL.
+
+1778-1814.
+
+- 17.Im Vordergrunde einer Wiesenlandschaft stehende Kuh und zwei liegende Schafe Daneben die junge Hirtin.
+
+Prachtig in der Beleuchtung.Auf Holz mit der Kinstler-Signatur.H.30 cm,B.40 cm.S.R.
+
+## NICOLAES MOLENAER.
+
+17.Jahrhundert.
+
+- 18.Niederlandische Dorflandschaft mit Windmuihle.Landlute als Staffage. ReizendesBildchen aufHolz,mit dem Namen desKinstlersbezeichnet.H.22cm,B.20 cm.G.-R.
+
+## B.van den BOSCH.
+
+17.Jahrhundert.
+
+- 19.Eine Gelehrtenstube.Der Inhaber erhalt von zwei Landleuten Geld und Viktualien. Im Hintergrunde hangt das beruhmte Gemalde von D. Teniers:Die Bogenschutzen. Interessantes Bild aufLeinwand.H.100 cm,B.158cm.G-R.
+
+## CORNELIS DUSART.
+
+1660-—1704.
+
+20. Interieur mit lustiger Gesellschaft. Der eine raucht, der andere geigt und der
+2. dritte halt ein Glas Bier empor.
+
+Sehr hibsches Bildchen aufHolz.H.28 cm,B.22 cm.G-R.
+
+## FRANS HALS. Art.
+
+21. Zwei alte Frauen, an einem Tische sitzend.Die eine halt einen Hund auf dem SchoBe und hebt das Glas.
+2. Gutes Bildchen aufHolz.H.29cm,B.22 cm.S.R.
+
+## B.van den BOSCH.
+
+17.Jahrhundert.
+
+22. Beim Arzt. Ein Doktor in seinem Laboratorium,von Patienten umgeben. Links im Hintergrunde wird eine FuBoperation vollzogen, rechts Adepten bei der Arbeit. Interessantes Bild aufLeinwand.H.66cm,B.84cm.G.-R.
+23. Ein Maler in seinem Atelier, von seinen Schulern umgeben. Gegenstuck zu vorher-
+3. gehendem Bilde.
+
+AufLeinwand.H.66cm,B.84 cm.G.-R.
+
+## SIENESISCHER MEISTER.
+
+Um1450.
+
+- 24.Halbfigur der Madonna mit dem Christuskind. Die Aureolen mit Ornamenten
+- in vertiefter Arbeit.Auf Goldgrund.
+
+Auf einer oben im Halbrund abschliependen Holztafel.H.61 cm,B.46 cm.Ohne R.
+
+## ABR. WILLAERTS.
+
+1613-1669.
+
+- 25.Blick auf ein Fischerdorf in den hollandischen Dunen. Am Strande im Vorder-
+- grunde neben verschiedenen auf dem Trockenen liegenden Booten wird ein reich besuchter Fischmarktabgehalten. AufLeinwand.Der Name des Kinstlers auf einer Planke am unterenRande desBildes.H.69 cm,B.105 cm.S.R.
+## C.W.E.DIETRICH.
+
+- 26.Huftbild einer alten Frau mit Kopftuch. In Rembrandtscher Manier gemaltes Bild aufHolz.H.36cm,B.27cm.S.R.
+
+1712-1774.
+
+## H.VERSCHURING.
+
+- 27.Strandlandschaft mit Landleuten und Fischern als Staffage. Links promenierender Edelmann mit seiner Gemahlin.
+
+1627-—1690.
+
+Auf Holz.Mit Signatur.H.60 cm,B.82 cm.S.R.
+
+## H. van AVERCAMP.
+
+- 28.Vor einem Schlosse, am Ufer eines zugefrorenen Flusses zahlreiche Personen, dem Eissport huldigend.
+
+1585-1663.
+
+AufHolz.Links signiert.H.46 cm,B.63 cm.S.R.
+
+## M.J.OMMEGANGH.
+
+- 29.Landschaft mit weidender Kuhherde. Im Vordergrunde links unter Baumen ein Hirtenpaar.
+
+1760-—1849.
+
+Sehr fein gemaltes Bild.Auf Holz.Mit Signatur.H.41 cm,B.55 cm.G.R.
+
+## W.de POORTER.
+
+Gestorben nach 1645.
+
+- Auf Holz.In der linken unteren Ecke eine Signatur,H.31 cm,B.40 cm.S.R.
+- 30.Alchimist in seiner Werkstatt iber einem Folianten brutend. Rechts ein Adept.
+
+## J. M. MOLENAER.
+
+1610-1668.
+
+- 31.Der Chirurg.Ein Bauer wird am Ohr operiert. Seine Familie steht klagend daneben.
+
+AufHolz,mit dem Kinstlernamen bezeichnet.H.31 cm,B.25 cm.G-R.
+
+## A.von OSTADE. Art.
+
+- auf dem SchoB haltend.
+32. Wirtshaus-Interieur mit trinkenden Bauern; links sitzender Mann,ein Madchen
+
+Hibsches Bildchen auf Holz.H.37 cm,B.31 cm.S.R.
+
+## ABR. WILLAERTS.
+
+33. Kustenlandschaft mit Stadtchen auf bewaldeter Anhohe.
+
+1577-1664.
+
+- Links das Meer mit groBeren Schiffen.Im Vordergrunde Fischmarkt.
+
+AufHolz.Rechts unten Monogramm umd Jahreszahl.1637.H.33 cm,B.48cm.S.R.
+
+## BONAVENTUUR PEETERS.
+
+1614-1652.
+
+34. Kustenpartie mit Bauernhof. Links au1 der bewegten See zwei Boote. Holz.Mit Monogramm und Jahreszahl.H.34cm,B.41cm.S.R.
+## A. van der WERFF zugeschr.
+
+- 35.Die heil. Magdalena in einer Felsengrotte betend. Erleuchtet wird die Darstellung durch eine an einem Baumast hangende Lampe. Sehr fein gemaltes Bild auf Holz.H.54cm,B.43 cm.G.R.
+
+## H. de JODE.
+
+Datiert 1658.
+
+- 36.Hafenstadt an felsiger Kuste.Im Vordergrunde rechts ein altes Kastell.Der freie Platz im Vordergrunde ist mit Figuren und Tieren staffiert. Leinwand.Linls unten der volle Name des Kiunstlers und die Jahreszahl.H.78cm,B.95cm.S.R.
+
+## B.FABRITIUS.
+
+1620-1672.
+
+- geben,zu Gericht iber eine junge Frau. Links wird ein Scheiterhaufen in Flammen gesetzt. Der Hintergrund mit Zuschauern angefuillt. Anscheinend Szene aus dem alten Testament.
+37. Gerichtsszene. Vor einem Palaste sitzt ein Richter, von vielen Gelehrten um-
+
+H.58cm,B.82cm.S.R.
+
+- sammelten Volke.
+
+## ROELOF de VRIES.
+
+38. Hof eines niederlandischen Bauernhauses. Die Frau ist mit Waschen beschaftigt, der Mann kommt eine Treppe herab. Im Vordergrunde verschiedene Geratschaften.
+2. Auf Holz.H.69 cm,B.57 cm.S.R.
+
+## PAUL BRILL.
+
+1554-1626.
+
+39. Waldlandschaft mit FluB. Im Vordergrunde links predigt Johannes dem ver-
+
+Auf Holz.H.42cm,B.59 cm.G.R.
+
+## BONAVENTUUR PEETERS.
+
+1614-1652.
+
+Auf Holz.Das Monogramm des Kinstlers auf einer Flagge.H.30 cm,B.39 cm.G.R.
+
+40. Mehrere Schiffe auf bewegter See.
+
+## P.BOUT und BOUDEWYNS.
+
+1658-1702.
+
+1644-1711.
+
+- 41.Jahrmarktsszene in einer niederlandischen Stadt. Interessantes Bild mit Humderten von Figuren.Auf Holz.H.55 cm,B.S0 cm.G.-R.
+
+## CORNELIS CORNELISZ.
+
+1562-1638.
+
+- 42.Die heil. Magdalena in Anbetung des Kruzifixes, im Vordergrunde einer Felslandschaft kniend.
+
+Auf Holz.H.67cm,B.49 cm.G.R.
+
+1631-1668.
+
+Siehe Abbildung auf Tafel XVII.
+## P. van LAAR.
+
+1582-1642.
+
+43. Markt auf dem freien Platze einer kleinen Stadt bei Rom. Im Vordergrunde Hirten mit ihrem Vieh sowie tanzende Landleute. Vielfiguriges Bild aufLeinwand.H.68 cm,B.84 cm.S.R.
+
+## E.van HEEMSKERK.
+
+1610-1680.
+
+- 44.Fischmarkt in einer Hafenstadt unweit der See. Ein Fischer bietet seine Waren an. Sehr gutes Bild auif Leinwand,mit demMonogramm desKinstlers.H.41 cm,B.56 cm.G-R.
+
+## A.BLOEMAERT.
+
+1564-1657.
+
+45. Halbfigur eines Bauern in schwarzer Kleidung, welcher einen Korb mit Eiern halt. SehrlebendigimAusdruck.AfHolz.H.84cm,B.70cm.G.R. SieheAbbildung aufTafelXVI.
+
+## SCIPIONE da GAETANO zugeschr.
+
+46. Bartiger Mann in schwarzer Kleidung, in einem Lehnstuhl sitzend, beide Hande auf die Stuhllehnen gelegt.
+
+Leinwand.H.128 cm,B.95cm.G.R.
+
+## BARTHOLOMAUS de BRUYN. Art.
+
+47. Christus am Kreuz zwischen Maria und St. Johannes. Links kniender Donator in Rustung.
+
+AufHole.Oben im Halbrund abschlieβend.H.39 cm,B.30 cm.G.R.
+
+## J. WIJNANTS.
+
+1600-1678.
+
+48. Hugelige Landschaft mit reichem Baumwuchs und Wasser. Einige Personen als Staffage.
+
+Leinwand.Das feine Bildchen ist links unten undeutlich signiert.H.29 cm B.39 cm.G.-R.
+
+## KAREL van FALENS.
+
+1683-1733.
+
+49. Vor dem Portal eines Palastes ist eine vornehme Gesellschaft im Begriff, zur Falkenjagd aufzubrechen.
+
+Leinwand. H.64 cm,B.75cm.G.R.
+
+## MONOGRAMM W.S.1548.
+
+- 50.Ecce homo.Auf einer Estrade vor dem Palaste des Pilatus wird Christus dem Volke ausgestelt, letzteres fullt den Vordergrund der Darstellung. AufHolz.Das Monogramm sowiedie BezeichnungEccehomobefindet sich aufeiner Tafel iber der Tir des
+
+Palastes.H.112 cm,B.75 cm.Br.R. SieheAbbildungaufTafelXVIlI.
+
+SieheAbbildung auf TafelVIII.
+## KAREL DUJARDIN.
+
+1622-1678.
+
+- neben junges Madchen und Knabe. Abendbeleuchtung. Sehr feines Bildchen aufHolz,mit dem Namen des Kinstlers bezeichnet.H.27 cm,B.36cm.S.R.
+- 51.Im Vordergrunde einer Landschaft junger Mann beim Melken einer Kuh. Da-
+
+SieheAbbildungaufTafelXVIII.
+
+## ROELAND SAVERY.
+
+1576-1639.
+
+Prichtiges,hichst fein durchgefuihrtes Bild.AufHolz.H.51 cm,B.76 cm.S.R.
+
+- 52.Landschaft mit schloBartigem Gebaude im Mittelgrunde. Rechts vorn als groBe Staffage die VerstoBung der Hagar.
+
+## J. WEENIX zugeschr.
+
+Feines Bildchen auf Leinwand.H.50 cm,B.40 cm.G.R.
+
+53. Toter Schwan im Vordergrunde einer Landschaft,von einem Baumstamm herabhangend.Daneben Melonen.
+
+## FRANS FRANCKEN.
+
+1542-1616.
+
+54. Das Gastmahl des Belsazar. In einer koniglichen Halle sitzen an einer hufAuβerordentlich reich komponiertes Bild von hochst feinerDurchfihrung.Auf Hole.H.68cm,B.103 cm.G.-R.
+
+## A.de GELDER. Art.
+
+55. Brustbild eines Orientalen mit Turban. Die Rechte ruht auf der Brust. Kraiftig gemaltes Bild in Rembrandt'scher Mamier.Auf Holz.H.81 cm,B.65 cm.S.R.
+
+## JAN LOOTEN. Art.
+
+56. Landschaft mit altem Dom bei Abendbeleuchtung. Als Staffage heimkehrende
+2. Hirten mit ihrer Herde.
+
+H.69 cm,B.91cm.G.-R.
+
+## G.van EECKHOUT.
+
+57. Die Abrechnung. Anscheinend eine Darstellung aus den Gleichnissen Christi.
+2. In einer Halle empfangen Weinbergsarbeiter vom Besitzer den Lohn fur ihre Muhe.
+
+Prichtiges Bild aufLeinwand.Links unten mit dem vollem Namen des Kinstlers bezeichnet.
+
+## TH. MICHAU.
+
+1676-1765.
+
+58. Landschaft mit Blick auf ein angebautes FluBtal. Rechts auf einer Anhohe ein
+
+Siehe Abbildung aufTafelVII.
+
+- SchloB.Landleute im Vordergrunde am FuBe groBer Baume. AufHolz.H.50cm,B.80cm.G.-R.
+
+SieheAbbildungaufTafelXIX.
+## PIETER van LAAR.
+
+1582-1642.
+
+- 59.Viehmarkt auf einem freien Platz,mit Tempeln und Ruinen.Rechts ein Erfrischungszelt mit zechenden Soldaten. Schones,reich komponiertes Bild aufLeinwand.H.60 cm,B.80 cm.S.R.
+
+## M. PEPIJN.
+
+1575-1643.
+
+60. Lasset die Kindlein zu mir kommen. Christus, inmitten seiner Junger sitzend, liebkost Kinder.
+
+Figurenreiches Bild aufHolz.H.90 cm,B.110 cm.G.R
+
+## LUCAS CRANACH.ATELIER.
+
+- 61.Die Ehebrecherin vor Christus.Der Heiland, in der Mitte stehend,halt die Ehebrecherin an der Hand,wahrend er die bekannten biblischen Worte zu sprechen scheint. Der ganze ibrige Raum des Bildes mit Pharisaern angefuillt.
+
+SieheAbbildungaufTafelXIII.
+
+- Auf Holz.Das Monogramm des Cranach sowie die Jahreszahl 1540 rechts im Grunde.H.87 cm,B.119 cm.G-R.
+
+## PAULUS MOREELSE.
+
+1571-1638.
+
+62. Halbfigur eines jungen Madchens in rotem, mit Goldtressen besetztem Kostim. Auf dem Haupte eine mit Perlen gezierte Haube,um den Hals einen prachtigen Spitzenkragen.
+
+AufHolz.H.110cm,B.82cm.G-R.
+
+## MARINUS van ROMMERSWALE.
+
+1497-1567.
+
+63. St.Hieronymus in Kardinalstracht vor dem Lesepult in seiner Zelle. Rechts im Hintergrunde Landschaft.
+
+Interessantes Bild auf Holz,mit mehrfachen Inschriften.H.77 cm,B.105 cm.G-R.
+
+## SPANISCHER MEISTER.
+
+Um 1500.
+
+- 64.Die Brustbilder St. Johannes, des Taufers, St. Andreas und St. Petrus, von Aureolen umgeben. Auf ornamentiertem Goldgrund. Jeder Kopf in einer durch Pilaster hergestellten Abteilung.
+65. Aehnliche Darstellung in ahnlicher Anordnung. St. Andreas, St. Jacobus und St.Philippus.
+
+Auf Holz.Totalgr6pe:H.63 cm,B.135 cm.
+
+## J. de Wet.
+
+1600-1671.
+
+66. In einer Halle Christus mit seinen Jungern beim Abendmahl. Der Maler hat den Augenblick dargestellt, wo Christus die Worte spricht: Einer von Euch wird mich verraten.
+
+InRembrandtschem Heldunlel gemaltesBild.Links im dunllen Grunde signiert.H.47cm,B.60cm.G.-R.
+
+SieheAbbildungaufTafelXVII.
+## J.de PATINIER.
+
+Vor1500-1524.
+
+- 67.In einer auBerordentlich reich komponierten Landschaft mit zahlreichen Gebauden und reicher Figurenstaffage im Vordergrunde links die auf der Flucht ruhende heil.Familie.
+
+Hochst interessantes Bild von sehr feiner Durchfihrung.Auf Holz.H.68 cm,B.83 cm. S.R. SieheAbbildung aufTafelIX.
+
+## MARTEN van HEEMSKERK.
+
+1498-1574.
+
+- 68.Brustbild des Apostels Paulus mit Buch und Schwert.
+
+Holz.H.45 cm,B.32cm.G.R.
+
+## D.SEGHERS u.J.ROTTENHAMMER angebl.
+
+- Maria.
+69. In einem schon komponierten Blumenkranz die Verkundigung der Jungfrau
+
+Auf Holz.H.48 cm,B.63 cm.G.R.
+
+## B.de BRUYN. Art.
+
+- Barett und einem Buche in der Rechten.
+
+Feines Bildchen auf Holz.H.30 em,B.23 cm.G.-R.
+
+## J.J.HOREMANS.
+
+1682-1759.
+
+- 71-72. Trinkende Gesellschaft bei einer Fontaine. Musizierende Gesellschaft auf einer Parkterrasse.
+
+Gegensticke.Hibsche Bilder auf Leinwand.H.74 cm,B.58 cm.G.-R.
+
+## FLAMISCHE SCHULE.
+
+Um 1540.
+
+Interessantes Bild auf einer oben abgerundeten Holztafel.H.74 cm,B.65 cm.S.R.
+
+73. Die Anbetung der heil. drei Konige. Im Hintergrunde eine Landschaft mit Gebauden.
+
+## J. van KESSEL.
+
+1642-1680.
+
+- 74.Landschaft. In der Mitte Kirche, von Baumen umgeben, etwas weiter zurick die Dacher eines Dorfes.
+
+Leinwand.Mit dem Kinstlernamen bezeichnet.H.74 cm,B.53 cm.Geschn.und durchbr.G.-R. Siehe Abbildung auf TafelXV.
+
+## SPANISCHER MEISTER. Um 1480.
+
+- 75.Die heilige Katharina von Alexandria,die Krone auf dem Haupte,mit ihren Marterinstrumenten auf dem Korper ihres Peinigers stehend. Letzterer in konig-
+
+Aufornamentiertem Goldgrund,unten die Inschriftora pronobis.Goldrahmenmit durchbrochengeschnitztem Baldachin.Holz.H.170 cm,B.79 cm. SieheAbbildung aufTafelXIX.
+
+- licher Gewandung.
+
+SieheAbbildung aufTafelXII.
+## P.SCHOUBROECK.
+
+Gestorben 1609.
+
+76. Bauernhof. Im Vordergrunde Wascherinnen bei einem Ziehbrunnen, ein Bauernkarren,Vieh verschiedener Art usw.
+
+Sehr fein und farbenfrisch gemaltes Bild aufHolz.H.45 cm,B.62 cm.S.R.
+
+## G. TILBORGH.
+
+1625-1678.
+
+- 77.Niederlandisches Wirtshaus.I Interieur mit Kartenspielern,um eine Tonne sitzend. Links Raucher am Kamin.
+- Leinwand.H.37cm,B.47cm.G.R.
+
+## THOMAS WIJCK.
+
+1616-1674.
+
+- 78.Markt auf einem freien Platz in Rom. Im Vordergrunde der Stand einer Fruchtund Gemuiseverkauferin.
+
+Schones Bild auf Leinwand mit dem Namen de8 Kinstlers bezeichnet.I.53 cm,B.61 cm.G.-R.
+
+## BARTH. de BRUYN.
+
+1493-1556.
+
+79. Christus am Kreuz zwischen Maria und St. Johannes. Zu beiden Seiten ein Donatorenpaar in schwarzer Patriziertracht. Zu FuiBen der Dargestelten Wappen, Sehr interessantes umd schones Bild auf Holz.H.70 cm,B.61 cm.G.-R. SieheAbbildungaufTafelX.
+
+## JAN van GOIJEN.
+
+1596-1656.
+
+- 80.Niederlandische FluBlandschaft mit Fischern.Rechts am Ufer hinter Baumen eine Dorfkirche.
+
+Holz.H.35cm,B.53 cm.S.R.
+
+## BARTH. de BRUYN.
+
+1493-1556.
+
+81. Christus, an eine Saule gefesselt, von drei Henkern gegeiBelt. Links unten ein anbetender Donator.
+
+Holz.H.92cm,B.72 cm.Br.R.
+
+## SPANISCHER MEISTER.
+
+15.Jahrhundert.
+
+82. St. Clemens in ganzer Figur stehend, die Rechte auf einen Muhlstein gestutzt, die Linke eine Palme haltend. Die Goldornamente sowie der ornamentierte Hinter-
+2. grund in erhabener Arbeit.
+
+Holz.H.138 cm,B.161cm.G.-R.
+
+SioheAhbildung aufTafelXI.
+- dem Eise.
+
+1564-1638.
+
+## PIETER BRUEGHEL d.J.
+
+83. Im Vordergrunde einer schon komponierten Landschaft ein aus Kriegsknechten und Volk bestehender Zug,Christus und die beiden Schacher zur Schadelstatte geleitend. Ein Hauptbild des Meisters mit vollem Kinstlernamen.Auf Holz.H.120 cm,B.162 cm. G-R.
+
+## OTHO van VEEN
+
+84. In einer Halle Christus von den Pharisaern umgeben die biblischen Worte auf
+
+1558-1629.
+
+- den Boden schreibend:Wer frei von Sunde usw.Rechts die Ehebrecherin. VielfigurigesBild auf Holz.H.88 cm,B.115 cm.G.-R.
+
+## H.van BALEN.
+
+85. Das Urteil. In einer Saulenhalle sitzt auf einem Thron der Konig, von seinem Darstellung aus der Geschichte des Moses.
+
+SieheAbbildungaufTafelXV.
+
+1575-1632.
+
+- Hofstaat umgeben, und spricht das Urteil iber zwei Klager. Anscheinend eine AufHolz.In der Mitte neben dem Hunde die Kinstlerbezeichnung.H.86 cm,B.85 cm.S.R.
+
+## CLAAS MOLENAER.
+
+Gestorben 1676.
+
+- 86.Vor den Toren einer niederlandischen Stadt tummeln sich zahlreiche Personen auf
+
+Gutes Bild auf Holz.Links auf einem Eisblock der Name des Kinstlers.H.59 cm,B.S5 cm.S.R. Siehe Abbildung auf TafelX
+
+## G. B. TIEPOLO. Atelier.
+
+87. Die Konigin von Saba auf einem Thron sitzend emptangt in Gegenwart ihres Hofstaates die Geschenke des Konigs David. Leinwand.H.90 cm,B.125 cm.G.R.
+2. stuck zu vorhergehendem Bilde. Leinwand.H.90 cm,B.125 cm.G.-R.
+
+## ROELOF van VRIES.
+
+89. Grofe Waldlandschaft mit Durchblick ins Freie. Im Vordergrunde zwei Kuhe,
+2. einen Bach durchschreitend.
+
+Schones Bild aufHolz.H.75 cm,B.100 cm.S.R.
+
+## ANTONIS de LORME.
+
+Tatig 1640-1666.
+
+90. Inneres einer gotischen Kirche mit reicher Architektur.Im Vordergrunde die nach den Emporen fihrende Treppe. Als Staffage Christus und die Ehebrecherin. AufHolz.H.90 cm,B.120 cm.S.R. SieheAbbildung aufTafelVI.
+
+1631-1668.
+
+Siehe Abbildung auf Tafel II.
+## LUCAS van UDEN.
+
+1595-1672.
+
+- 91.Landschaft mit Blick auf ferne Gebirge.Im Vordergrunde ein waldiges Terrain mit Landleuten und Vieh.
+
+Ganz vorziglich wirkendes Bild auf Holz,mit dem Namen des Malers bezeichmet.H.51 cm,B.S0 cm.S.R.
+
+## ANTWERPENER MEISTER.
+
+Um1530.
+
+- 92.Dreiteiliges Altarbild. Auf der mittleren Tafel:Die Anbetung der heil. drei Konige. Links: Die Anbetung der Hirten. Rechts: die Beschneidung Christi AufHolz.Oben in Halbrund abschlieβend.Totalgr6βe:H.120 cm,B.167cm.
+
+SieheAbbildung aufTafelVI.
+
+## PALAMEDESPALAMEDESZ.
+
+93. Reiterschlacht am Ufer eines Flusses. Im Vordergrunde wird ein Offizier auf sprengendem Pferde von seinem Gegner erschossen. Prichtiges Bild auf Holz.H.72 cm,B.105 cm.G.R. SieheAbbildungaufTafelXVI.
+
+## R.BRAKENBURGH.
+
+1650-1702.
+
+- 94.Schlagerei vor einem Dorfwirtshaus. Leinwand.In der Mitte unten eine undeutliche Signatur.H.54 cm,B.64 cm.Brauner R.
+
+## SPANISCHER MEISTER.
+
+Um1480.
+
+- halt eine Schriftrolle mit dem Namen der Heiligen, die Linke eine Palme.
+- Auf schon ornamentiertem Goldgrund.Die Aureole in erhabener Arbeit.Auf Hotz.H.144 cm,B.66cm.G.R.
+
+## W.v.VALCKERT.
+
+1600-1634.
+
+- 96.In einer Kuche ist die Kochin mit dem Zurichten von Gemuise beschaftigt. Der ganze linke Vordergrund ist mit EBwaren der verschiedensten Art ausgefuilt, durch eine geoffnete Tur im Hintergrunde sieht man Christus mit den beiden Jungern von Emmaus bei Tische.
+
+Leinwand.H.112 cm,B.150 cm.S.R.
+
+## J. B.WEENIX.
+
+1621-1664.
+
+- 97.Bei einer Fontane hat sich eine vornehme Jagdgesellschaft niedergelassen,um das Fruhstuck einzunehmen.Die Pferde,des Aufbruchs harrend, stehen daneben. Im Hintergrund Landschaft mit Wasserfall zwischen Felsen.
+
+Praichtiges Bild von sehr feiner Durchfuhrung.AufLeinwand.H.82cm,B.100 cm.G.R.
+
+Siehe Abbildung aufTafelXX.
+## OTHO van VEEN.
+
+1558-1629.
+
+- 98.Dreiteiliger Fligelaltar. In der Mitte Christus am Kreuz zwischen den beiden
+- Schachern.Am Kreuzesstamm die Anverwandten Christi sowie Kriegsvolk.In den Wolken Gott Vater. Auf dem linken Seitenflugel: Die Kreuztragung Christi, auf dem rechten:Die Auferstehung.
+
+B.212cm. SieheAbbildungaufTafel III.
+
+## HERMAN van SWANEVELT.
+
+1600-1655.
+
+- 99.Landschaft. Im Mittelgrunde ein felsiger Hugel mit Burg, in der Ferne Stadt an einem Gewasser.Im Vordergrunde Landleute mit ihren Tieren. Schone Landschaft.Auf Leinwand.H.75 cm,B.102 cm.G-R.
+
+## H.M.SORGH.
+
+1611-1670.
+
+- 100.Kuchen-Interieur. Im Vordergrunde: Stilleben von Kuchengeratschaften,Gemuse,
+- EBwaren usw. Zwei weibliche Figuren als Staffage. Auf Holz.H.53 cm,B.85 cm.S.R.
+
+## M. MIEREVELT, angebl.
+
+101. Brustbild eines bartigen Mannes in schwarzer Kleidung und Muhlsteinkragen. AufHolz.H.47cmB.33cm.S.R. Siehe Abbildung auf Tafel XIlI.
+
+## Q.BREKELENKAM.
+
+Gestorben 1668.
+
+102. Auf dem Marktplatze einer kleinen niederlandischen Stadt eine Frucht- und
+2. Gemisehandlerin,ihre Ware anbietend. Auf Holz,rechts am Tischrande mit dem Namen des Malers bezeichnet.H.51 cm,B.76 cm.S.R.
+
+## AELBERT CUIJP.
+
+1620-1691.
+
+- 103.Vor einem niederlandischen Bauernhause Hirten bei ihrem Vieh. Ein Knabe melkt eine Ziege. Abendstimmung.
+
+Praichtiges Bildchen.Mit dem Namen des Kinstlers bezeichnet.Auf Holz.H.41cm,B.48 cm.S.R.
+
+## DAVID TENIERS zugeschr.
+
+- Landleute auf der Wanderschaft,weiter zurick eine weidende Herde. AufHola.H.66cm,B.91 cm.S.R.
+## SPANISCHER MEISTER.
+
+Um 1500.
+
+105. St. Andreas und St. Petrus vor einem Brokatteppich in ganzen Figuren stehend. Beide Heilige halten Bucher,Kreuz und Schlussel.
+106. St.Franziskus von Padua und St. Sebastian.Ersterer mit den Wundmalen der Stigmatisation,letzterer,von Pfeilen durchbohrt,vor einem Brokatteppich. Beide Bilder werden durch ein geschnitztes,gotisches Ornament in Halbrund abgeschlossen.AufHolz.H.34 cm, B.76 cm.G.-R. SieheAbbildungenaufTafelVII.
+
+## H.MOMMERS.
+
+1623-1679.
+
+107. Landleute auf einem Platze in Rom ihre Ware feilhaltend. Im Vordergrunde rechts eine Gemuisehandlerin. Leinwand.H.50cm,B.58cm.S.R.
+
+## J. S. CHARDIN.
+
+1699-—1779.
+
+108. Familienszene im Hofe eines Landhauses. Links ein Liebespaar. Interessantes,reich komponiertes Bild auf Leinwand.Rechts unten signiert.H.65 cm,B.82 cm.Alter R. SieheAbbildungaufTafelXII.
+
+## M.MARIESCHI.
+
+Gestorben 1743.
+
+- 109.Hafenpartie mit Wartturm. Im rechten Vordergrunde eine Galeere sowie mehrere Kriegsschiffe vor Anker.Ganz vorn rechts ein belebter Quai
+- Schones Bild auf Leinwand.H.79 cm,B.125cm.G-R.
+
+## B. van der HELST bezeichnet.
+
+- Das dunkle Haar fallt auf die Schultern herab.
+- Leinuand.Links Altersangabe des Dargestellten und Malername.H.70 cm,B.57 cm.S.R.
+111. Brustbild einer Frau in schwarzer Kleidung, Haubchen und schlichtem weiBen Kragen.Gegenstuck.
+- Eben8o:Linls die Altersamgabe. H.70 cm,B.57 cm.S.R.
+
+## P.POTTER zugeschr.
+
+112. Zwei Kuhe und ein Stier im Vordergrunde einer Landschaft. Die eine Kuh ist liegend dargestellt.
+
+Vorziglich in der Technik.Auf Holz.H.47cm,B.36 cm,S.R.
+
+## BENVENUTO TISI (GAROFALO) zugeschr.
+
+113. Die heil. Familie,Elisabeth, Zacharias und Johannes in einer Halle. In den Liften Gott Vater, von einem Engelsorchester umgeben. Auf Holz.H.61cm,B.47 cm.G.R. SieheAbbildung aufTafel XI.
+## KAREL DUJARDIN.
+
+1625-1678.
+
+114. Gebirgige Landschaft bei Abendbeleuchtung. Im Vordergrunde ein hugeliges Terrain mit weidendem und ruhendem Vieh. Rechts eine antike Fontane.
+2. Der Flote blasende Hirt in einiger Entfernung.
+
+Leinwand.Da8 Monogramm desKin8tlers am Brunnenrande.H.75cm,B.110cm.G.-R.
+
+## W.van HERP.
+
+1614-1677.
+
+115. Familienfest. Vor einem altertumlichen Hause hat eine schmausende, trinkende und musizierende Gesellschaft Platz genommen. Ein junger Mann sucht eine sich straubende Magd zu umarmen. Kriftig und wirkungsvoll gemaltes Bild auf Leinwand.H.73 cm,B.110 cn.S.R.
+
+## W.van de VELDE.
+
+1633-1707.
+
+116. Auf stark bewegter See mehrere Fregatten unweit der felsigen Kuiste. Grau in Grau gemaltes Bild mit Zuhilfenahme der Feder.Auf Holz.Der Name des Meisters auf einer schuimmenden Planke.H.75 cm,B.105 cm.S.R.
+
+## PHILIPS WOUWERMAN.
+
+1619-1668.
+
+117. Der Aufbruch zur Jagd. Vor den Wallen eines Schlosses ist eine vornehme Jagdgesellschaft im Begriff, aufzubrechen. Falkenjager, Pikeure und Hunde begleiten den Zug.
+
+Siehe Abbildung aufTafelXX.
+
+Leinwand.Links am Rande das Monogramm des Wouwerman.H.82cm,B.105 cm.S.R.
+
+## D. van TOL.
+
+1642-1676.
+
+- 118-19. Zwei niederlandische Interieurs. Kuche,mit Kochin. Madchen am Spinnrad.Gegensticke.
+
+Hol2.H.36 cm,B.49 cm.S.R.
+
+- reich besetzte Boote.
+
+## F.HEREMANS.
+
+17.Jahrhundert.
+
+120. Dorf an einem Flusse, vom Kirchturm uberragt. Auf dem Wasser mehrere
+
+Sehr feines Bildchen auf Leinwand.In der Mitte unten auf einer Planke signiert.H.37 cm,B.45 cm.S.R.
+
+## SPANISCHER MEISTER.
+
+Um 1450.
+
+121. Der heilige Jacobus von Compostella mit Pilgerhut und Stab, auf einem Throne sitzend. Das Gewand sowie der ornamentierte Hintergrund mit reicher Ver-
+2. goldung in erhabener Arbeit.
+
+Hochst interessantes Bild aufHolz.H.166 cm,B.97 cm.G.-R.
+
+SieheAbbildungaufTafelVIII.
+
+SieheAbbildumg aufTafelIV.
+- Kriegstrophaen.
+
+## CH.LE BRUN.
+
+1619-1690.
+
+- 122.Die Anbetung der heil. drei Konige in einer Felsenlandschaft: Rechts im Vordergrunde die heil. Familie.
+
+Schone Komposition auf Leinwand.H.58 cm,B.75 cm.G-R.
+
+## J.BRUEGHEL und H.van BALEN.
+
+1568-1625.
+
+123. Krieg. In einer Landschaft zwischen Waffensticken der verschiedensten Art eine junge Frau mit ihren drei Kindern. Im Hintergrunde Kampfszene bei einer brennenden Stadt.
+
+Leinwand.H.85 cm,B.115 cm.G.R.
+
+124. Frieden.In einem bluhenden Garten eine junge Frau mit zwei Kindern sowie Dienern,welche eingemachte Fruchte auf ein Brett stellen.Weiter zuruck Damwild an einer Fontane. Gegenstick zu vorhergehendem Bilde.
+
+SieheAbbildungen auf Tafel XIV.
+
+- Leinwand.H.85 cm,B.115 cm.G.R.
+
+## J.MABUSE. Art.
+
+125. Allegorie. Inmitten eines architektonischen Aufbaues steht Christus unter einem Baldachin.Um ihn herum vierzehn Evangelisten.Zu seinen FuBen allegorische Figuren.
+
+Reich komponiertes Bild auf Holz.H.88 cm,B.65 cm.S.R.
+
+## DAVID TENIERS.Art.
+
+126. Wachtstube mit Karten spielenden Soldaten. Im Vordergrunde ein Mohr bei
+
+Leinwand.H.36 cm,B.46 cm.G.R.
+
+## CORNELIS DECKER. Art.
+
+- 127.Landschaft mit Wasser und Bauernhof unter Baumen.Staffiert.
+- Leinwand.H.70 cm,B.88cm.S.R.
+
+## SPANISCHER MEISTER.
+
+Um 1480.
+
+128. Altarblatt. Die hl. Jungfrau mit dem Kinde auf einem Thron zwischen zwei Heiligen sitzend.Zu ihren FuBen ein kniender Donator.In einer oberen Abteilung,von gotischen Ornamenten umgeben,Christus am Kreuz,mit den Angehorigen und Kriegsknechten zu beiden Seiten. Hierzu zwei Flugel mit je zwei Darstellungen in ahnlicher Anordnung: Die Verkundigung Maria, Die Anbetung der Hirten,Die Kronung der Maria und Die Anbetung der Konige. AufHolz.H.120resp.148cm,B.160 cm. SieheAbbildungaufTafelV.
+
+1575-1632.
+## PIETER van BLOEMEN.
+
+1657-1720.
+
+129. Kriegszug. In einer felsigen Landschaft polnische Krieger zu Pferde, Gefangene und geraubtes Vieh mit sich treibend. Im Vordergrunde Frauen bei den Leichen
+
+AufLeinwand.Vorzigliches Bud des Meisters,mit Monogramm.H.93 cm,B.106cm.G.-R.
+
+- ihrer erschlagenen Manner klagend.
+
+## H.MEMLING.Art.
+
+- gelegt.Gegensticke.
+- 130-31. Mannliches und weibliches Brustbild, die Hande zum Gebet zusammen-
+
+AufHolz.H.23 cm,B.18 cm.S.R.
+
+## JACOB JORDAENS.
+
+1593-1678.
+
+Prichtiges Haptbild auf Leinwand.H.137cm,B.121 cm.S.R.
+
+## PIETER MULIER d.Ae.
+
+1620-1670.
+
+- 133.Niederlandische Landschaft mit Fischerdorf an einem FluB. Reich staffiert.In der Manier des van Goijen gemaltes Bild. AufHolz.H.42cm,B.52cm.S.R.
+
+## HUBERT van RAVESTEJN.
+
+- drei Pernonen als Staffage.
+
+Geboren 1640.
+
+Sehr gutes Bild aufLeinwand.H.60cm,B.65cm.S.R
+
+## P.NEEFFS u.D. TENIERS
+
+1578-1656.
+
+1610-1690.
+
+135. Inneres einer gotischen Kirche mit Blick in das Hauptschiff. Zahlreiche An-
+
+Prichtiges Bild von hochst feinerDurchfihrung.Die auβerordentlich reiche Staffage von D.Teniers gemalt. Mit den Namen beider Rinstler bezeichnet.Aruf Holz.H.45 cm,B.68 cm.S.R.
+
+SieheAbbildung aufTafelIX.
+
+## SPANISCHER MEISTER.
+
+15.Jahrhundert.
+
+- 136.Die Madonna in blauem mit.Goldborten verbramtem Mantel unter einem in Relief geschnitzten Baldachin stehend und dem Christuskinde einen Apfel reichend. Unten im Goldfries die Inschrift:Ave gratia plena"
+
+Sehr interessantes Werk aufHolz.H.134cm,B.57cm.G.R.
+
+- 137.Maria,von ihren Angehorigen umgeben, auf dem Totenbett.
+- Interessantes Bild auf Holz.Mit geschnitzten Ornamenten am Oberrande.H.S0 cm,B.S8 cm.G.-R.
+- dachtige im Vordergrunde.
+132. Ein niederlandischer Patrizier in schwarzer Kleidung und groBem Hut steht neben seiner Gemahlin. Letztere halt ihr jungstes Kind auf dem SchoBe, das altere Schwesterchen steht daneben.
+
+Siehe Abbildung aufTafelI.
+## LE DUCQ bezeichnet.
+
+138. Landschaft. Im Vordergrunde am FuBe eines Baumes zwei Kuhe und mehrere Schafe.Der Hirt mit seinem Hunde sitzt daneben. Gutes Bild arufLeinwand mit obigen Namen bezeichnet.H.49 cm,B.44 cm.G.R.
+
+## LUCAS CRANACH. Schule.
+
+139. Die Enthauptung St. Johannis des Taufers.  Rechts Salome, das Haupt auf einer Schussel empfangend,
+
+Auf Holz.H.87 cm,B.60 cm.S.R.
+
+## C. C. von WIERINGEN zugeschr.
+
+140. Mehrere Kriegsschiffe auf See unweit der Kuste. Holz.H.39 c,B.58 cm.G-R.
+
+## TH. van THULDEN zugeschr.
+
+141. Christus wird von seinen Jungern in das Grab gelegt. In den Wolken anbetende Engel.
+
+Gemalde von prichtiger Farbenwirkung.Auf Holz. H.72 cm,B.56 cm.S.R.
+
+## DOM. ZAMPIERI zugeschr.
+
+142. Das Gastmahl der Kleopatra. Rechts am Tische die Konigin, eine Perle auflosend.
+
+Schones Bild auf Leinwand.H.95 cm,B.69 cm.G-R.
+
+## P.J. CODDE. Art.
+
+143. Interieur.Eine spanische Kriegsabteilung hat ein niederlandisches Bauernhaus
+2. iberfallen und sucht von den Besitzern Geld herauszupressen. Gutes Bild auf Holz.H.42 cm,B.59 cm.S.R
+
+## Art des P. BRUEGHEL.
+
+- 144.Niederlandische DorfstraBe.Unter einer Veranda im Vordergrunde Bauernfamilie
+- beim Mahl. AufHolz.H.51cm,B.66cm.G.R.
+
+## JAN van GOIJEN.
+
+1596-—1656.
+
+- 145.Hollandische Dunenlandschaft mit Staffage.
+
+Sehr feines Bildchen.Grau in Grau gemalt.H.13 cm,B.20 cm.G-R.
+
+## C. BEGA.
+
+1620-—1664,
+
+146. Ein Bauer umarmt die junge Wirtin. Letztere halt ein Glas in der Rechten.
+2. Treffliches Bildchen auf Holz.Rechts unten die Spuren eines Monogramms.H.26 cm,B.20cm.G.R.
+## NICOLAUS HUYSMANS.
+
+147. Italienische Landschaft mit schloBartigem Gebaude unter groBen Baumen.Im
+
+Leinwand.H.62cm,B.77cm.S.R.
+
+17.Jahrhundert.
+
+- Vordergrunde Hirten mit ihrem Vieh.
+
+## FLAMISCHER MEISTER.
+
+148. Halbfigur der Madonna,welche das mit einem Hemdchen bekleidete Christuskind auf dem SchoBe halt. Die Jungfrau in dunklem Gewand mit Goldbortenbesatz und Perlschmuck im Haar. Auf Holz.H.82cm,B.65 cm.S.R.
+
+16.Jahrhundert.
+
+## J.M.MOLENAER. Art.
+
+- Trinker.
+- und Marsyas.
+149. Tanzende Bauern vor einer Schanke. Unter einer kleinen Veranda Raucher und
+
+Leinwand.H.47cm,B.63 cm.S.R.
+
+## G. B. TIEPOLO.
+
+150. In einer schon komponierten Landschaft Apollo, von den Musen umgeben, ein Streichinstrument spielend. Rechts Konig Midas als Preisrichter zwischen Apollo
+
+Auf Leinwand.H.100 cm,B.125 cm.S.R.
+
+## FRANS FRANCKEN.
+
+1542-1616.
+
+- Auf Sehr interessantes reich komponiertes Bild.H.87 cm,B.148 cm.G.-R.
+151. Auf einem freien Platze in Rom auf einer Estrade sitzen die Triumvirn. ihren Befehl werden zahlreiche Personen auf grausame Weise hingerichtet.
+
+## NIEDERLANDISCHE SCHULE.
+
+- 152-53. Zwei Stilleben mit Muscheln.Gegensticke. Hibsche Bildchen aufHolz.H.26cm,B.33 cm. G.-R.
+
+18.Jahrhundert.
+
+## JACQUES COURTOIS.
+
+- 154.Zwei Reitergefechte.Gegensticke. Auβerordentlich lebendig und farbenfrisch gemalte Bilder.Leinwand.H.74 cm,B.95 cm.S.R.
+
+1621-1676.
+
+## N. van VERENDAEL.
+
+1640-1691.
+
+Fein gemaltes Bild auf Holz.H.39 cm,B.28 cm. G.-R.
+
+155. In einer Mauernische eine Vase mit Gartenblumen; ein Schmetterling belebt die Darstellung.
+
+1696-1770.
+## FLAMISCHER MEISTER.
+
+Um 1600.
+
+156. Paulus in Lystra.Auf dem freien Platze einer Hafenstadt predigt Paulus dem
+2. zahlreich erschienenen Volke.
+
+Auperordentlich reich komponiertes Bild auf Holz.H.79 cm,B.105 cm.G.-R
+
+## SPANISCHER MEISTER.
+
+15.Jahrhundert.
+
+157. Christus am Kreuz zwischen Maria und St. Johannes. Am oberen Rande des Bildes ein holzgeschnitzter gotischer Baldachin. Auf Holz.H.65 cm,B.57cm.G.R.
+
+## J. van HUYSUM.
+
+1682-1749.
+
+- 158.BlumenstrauB in einer skulptierten Vase.
+
+Sehrkriftig und wirkungsvol gemaltesBild auf Leinucand.Unten sigmiert.H.63 cm,B.46 cm.G-R.
+
+## E. van HEEMSKERK.
+
+1610-1680.
+
+159. Niederlandisches Interieur mit Karten spielenden Bauern. Links ein Liebes-
+2. parchen.
+
+AufHolz.Bezeichnet am Kaminmantel.H.32em,B.37 cm.S.R.
+
+## PAUL BRILL.
+
+1554-1626.
+
+- 160.Im Vordergrunde einer Waldlandschaf, mit Durchblick auf ferne Gebirge, Diana mit ihren Nymphen, einen Hirsch hetzend. Leinwand.H.93cm,B.125cm.S.R.
+
+## J. SCHALCKEN.
+
+1683-1722.
+
+161. WeiBbartiger Eremit mit gefalteten Handen und emporgerichteten Blicken; auf einem Tisch zwei Folianten. Halbfigur.
+
+Leinwand.Rechts mit dem rollen Namen bezeichnet.H.94cm,B.75cm.G.-R
+
+## E.van HEEMSKERK.
+
+1610-1680.
+
+162. Inneres einer niederlandischen Schule.Der Schulmeister unterrichtet Kinder
+2. im Lesen.
+
+Auf Holz.Am Stuhl,worauf der Schumeister sitzt,signiert.H.33 cm,B.26cm.G.-R.
+
+## J. LINGELBACH.
+
+1622-1674.
+
+163. Campo vacchino in Rom. Mit Figuren und Tieren auBerordentich reich staffiert. Leinwand.H.36cm,B.44cm.G-R.
+## FRANZ de PAULA FERG.
+
+- 164.Landschaft mit Bauernhof. Im Vordergrunde Landleute mit ihren Tieren. ReizendesBildchen auf Kupfer.H.23cm,B.32cm.G.-R.
+
+1689-1740.
+
+## J.v.RUISDAEL Schule.
+
+165-66. Zwei Landschaften mit Ruinen, Figuren und Tierstaffage. Gegensticke. Leinwamd.H.34cm,B.25cm.S.R.
+
+## S.v.RUYSDAEL zugeschr.
+
+167. Dorf, von Baumen umgeben, an einem breiten Strom. Landleute als Staffage. Reizendes Bild.aufLeinwand.H.26cm,B.34cm.S.R.
+
+<!-- image -->

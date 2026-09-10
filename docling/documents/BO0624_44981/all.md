@@ -1,0 +1,825 @@
+## 1 SPULKUMME.
+
+Schwach gebauchte Wandung mit umgebogener Mundung. AuBen bemalt mit zwei bunten Chinesengruppen:a) Furstin,Krieger und Dienerin mit Sonnenschirm;b) Chinese und Chinesin im Gesprach nebeneinander stehend. In den Zwischenraumen bunte indianische Blumenzweige. An der inneren Mundung eisenrote Gitterfelder,umrahmt von purpurnen Rocaillen und Goldlinien, dazwischen blaue Bluten.
+
+ANSBACH,UM 1770. Blaumarke: A,darunter D. Hohe 9 cm.-Aus Sammlung
+
+Buckardt,Berlin. Versteigerungskatalog HelbingCassirer 1925,Nr.6,Tafel VII.
+
+## 2 GRUSSENDER HARLEKIN.
+
+Im Tanzschritt,die Linke an der Spitze des breitkrempigen, grunen Hutes, die Rechte an der Hosennaht,im Gurtel die Pritsche. Der Kopf mit dem angeklebten Vollbart grinsend nach rechts gewandt. Das Kostum aus dreieckigen Flicken in Purpur, Gelb, Eisenrot, Lichtgrin und Hellblau, die Schuhe strohgelb mit hellblauen Schleifen. Halb runder weifer Sockel mit goldenem Zweigornament. Hellgrun und rotbraun staffierter
+
+Baumstumpf als Stitze.—Rechter Daumen bestofen,Hutkrempe repariert.
+
+ANSBACH,UM 1765. Eingedruckte Marke: Ansbachischer Wappenschild. Ritz zeichen: No 6. Hohe 12,3 cm.—Aus Sammlung Buckardt, Berlin.
+
+Tafel XVI.
+
+## 3RASTELBINDER.
+
+Stehend, das linke gebeugte Bein auf einen rotbraunen Baumstumpf gestutzt,in der linken Hand den Blasebalg, in der rechten Schnure,an denen Mausfalle und Tabaks raspeln iber der Schulter hangen. Schwarzer grofer Schlapphut,rosa Jacke mit kurzem schwarzem Schutzleibchen,hellgelbe Hosen. Weifer Natursockel mit grinen Flecken und golden gehohtem Ornament.
+
+ANSBACH, UM 1770. Nach Nymphenburger Modell. Ohne Marke.Hohe 18,4 cm.
+
+## 4 LIEBESPAAR UNTER ROCAILLELAUBE.
+
+Allegorie auf den ,Sommer. Eine Dame mit Facher in der erhobenen Rechten, gegen uber ein Kavalier mit Ahren in der rechten Hand und dem Dreispitz unterm linken Arm, stehen unter einem golden staffierten Rocaillebogen, der von einer Rundsaule und von einer weiblichen Karyatide getragen wird. Letztere wachst aus einer bewegten Rocaille, diese aus dem golden staffierten Rocaillesockel heraus. Auf der Ruckseite, zwischen Saule und Karyatide ein schlafender Putto auf Ahren. Zu Fufen der Figuren ebenfalls Ahren. Auf dem mit bunten Blumen belegten Rocaillebogen ein bunt staffierter Kranich. Das weife Untergewand der Dame, die Weste und die Aufschlage des Herrn mit bunten Streublumen gemustert.Facher der Dame gekittet,die Beine des Kavaliers repariert,
+
+Sockelrand unter der Saule ausgebrochen.
+
+ANSBACH,UM176570.OhneMarke.Hohe24,5cm.AusSammlungMuhsam,Berlin. Tafel XIII.
+
+## ANSBACH
+
+(Nr.1bis4)
+## FRANKENTHAL
+
+(Nr.5bis43)
+
+5ZYLINDRISCHE TASSE MIT UNTERSCHALE. Rotlichbrauner Holzmasergrund. An der Stirnseite der Tasse und im Spiegel der Unter schale ausgespart rechteckiges Bild mit schwarzer Landschaft in Kupferstichmanier, das eine bezeichnet ,Kilian pinxit -Sauer sculp, das andere ,，Notre pinxit —K. V. sculp FRANKENTHAL,UM 1771. Marke:CT mit Krone, bei der Tasse 71 (=1771). Hohe der Tasse 6,4 cm,Durchmesser der Unterschale 13,3 cm.
+
+## 6SOLITAR.
+
+Bestehend aus rautenformig geschweiftem Tablett, eiformiger Teekanne mit Deckel, SahnengieBer auf drei ZweigfuBen,halbkugeliger Tasse mit Unterschale. Bemalung: bunte Schaferbilder in runden bzw.ovalen Medaillons mit Goldspitzenumrahmung. An den Randern Ornamentborten in Gold und Purpur. In den Zwischenraumen bunte Streublumen.
+
+FRANKENTHAL,UM 1773. Marke:Blaues CT mit Krone und Jahreszahl 72 bzw.73. Durchmesser des Tabletts 29:24,8 cm,Hohe der Kanne 11 cm,Hohe des Sahnengiefers 7,5 cm,Hohe der Tasse 4,3 cm,Durchmesser der Unterschale 12,5 cm.
+
+Tafel VI.
+
+## 7-8ZWEIPOTPOURRIVASENMITDECKELN.
+
+Eiformig, mit zwei verschlungenen Blatthenkeln,auf rundem,profiliertem FuB; die durchbrochenen profilierten Deckel mit Pfeifenornament und Rosenknauf. Am Ablauf des Korpers Blattkranz. Die reliefierten Teile mit Gold staffiert. Auf beiden Seiten des Korpers grofe Bacchantengruppen in PurpurCamaieu, z. T. nach Boucher.— Der Korper von Nr.7 stark repariert, der Fuf von Nr.8 bestoBen.
+
+FRANKENTHAL,UM 1780. Marke:Blaues CT mit Krone. Bei Nr.8 Goldnummer 70.
+
+Hohe 26 cm.
+
+Tafel V.
+
+- 9 DER KLEINE LEIERMANN. Stehend,die Drehleier spielend. Auf hohem,mit Purpur und Gold staffiertem Rocailles sockel, der auf achteckigem Fuf ruht. Er tragt ein weifes Rockchen mit hellblauen Nahten, innen lachsrot. weiBe Halskrause, purpurne Weste, gelbe lange Hosen und schwarze Schuhe. Vierseitiger weiBer Sockel mit braun gestrichelten grunen Grass stellen.-—Postament gekittet.
+
+FRANKENTHAL,UM 1755. Ohne Marke. Hohe 22,8 cm.
+
+- 10 GROSSE ALLEGORISCHE GRUPPE.
+
+Liebespaar als,Herbstin einer Gartenlaube. Beide sitzen nebeneinander: er zur Seite gedreht mit ubergeschlagenen Beinen,in der Linken eine Rotweinflasche, den linken Arm im SchoB der Dame, deren linke Hand er gefaBt halt; sie halt in der ausgestreckten
+rechten Hand einen Pokal unter die Flasche. Auf der mit Gitterwerk gefuillten Rocaille: bank, auf der der Jungling sitzt,ein Korb mit Weintrauben. Die Dame tragt ein weiBes Kleid mit rotbraunen und gelben Streublumen, einen grinen,von der Schulter herab hangenden Mantel und gelbe Schuhe mit purpurnen Schleifen; der Jungling eine gelbe Kappe, blaBgelben Rock und Hosen mit blafviolettem Karo: und Sternmuster, weiBe Strumpfe und schwarze Schuhe. Die halbrunde durchbrochene Laube grasgrin mit purpurn und golden staffierten weifBen Rocaillen und Trauben. Der Sockel grasgrun mit purpurn und golden staffiertem weiBen Rocaillerand.Reparaturen an der Laube, das linke Bein des Junglings gekittet, einige Rocaillen und Blatter bestofen.
+
+FRANKENTHAL,UM 1755. Modell von J. W. Lanz. Marke: Blauer Lowe. Ein gedruckt:P H. Eingeritzt 2N7.Hohe 25,5 cm. Tafel II.
+
+## 11GROSSE GRUPPE:LIEBESPAARINDER LAUBE.
+
+Der Jungling auf erhohtem Rocaillesitz halt auf dem linken Knie einen Vogelbauer,aus dessen geoffneter Tur ein Vogel entwischen will. Rechts neben dem Juingling sitzt das Madchen, das uberrascht die Hande nach dem Vogelbauer streckt. Der Jungling in gelblichem Hut mit hellblauem Band,hellgriner,violett gefutterter Jacke,bunt geblumter gelber Weste,blaugolden gemusterter Hose,weifBen Strimpfen und schwarzen Schuhen. Das Mieder des Madchens purpurn und violett gestreift, der Rock aus breiten,wellen formig bewegten gelben und graulila Bahnen, eingefaft von hellblauen Blattschnuren und rot gestreift, die Schuhe rot. Purpurn und golden staffierte weife Rocaillelaube mit zwei schwarz marmorierten kannelierten Saulen, zur Halfte vergittert durch bunt staffierte Blumen und gelbe Rauten. Der weife Rocaillesockel purpurn und golden staffiert, innen lichtgrun.- Reparaturen an den Handen, am Vogelbauer und an der Laube.
+
+FRANKENTHAL. Modell von J. W.Lanz. Ausformung um 1755-59. Marke: Blauer Lowe.Eingeritzt:PH3. Bemalung um 1785. Hohe 27 cm.
+
+Tafel II.
+
+## 12 BUCKLIGER POLICINELL.
+
+In lebhaft schreitender Bewegung, Oberkorper und Kopf nach links gedreht,rechte Hand am Spitzbart, linker Arm mit geoffneter Hand halb zur Seite gestreckt. Er tragt einen grunen Hut mit aufwarts stehender hoher, vorn geschlitzter Krempe, blaB purpurnes,golden gesaumtes Wams mit dunklerem Rankenmuster, lange weife,eisenrot gestreifte Hosen und schwarze Schuhe mit gelben Schleifen. Weifer Natursockel mit grunen,gestrichelten Grasstellen,braun=grine Baumstumpfstitze.Hutspitzen repariert. FRANKENTHAL,UM 1755. Modell von J. W. Lanz. Eingedruckte Marke:PH （Paul Hannong). Eingeritzt: Z. Hohe 14,3 cm.- Aus Sammlung Buckardt,Berlin. Versteigerungskatalog Helbing=Cassirer 1925, Nr. 12, Tafel IX. Tafel VIII.
+
+## 13 SCAPIN.
+
+In Ausfallstellung, mit gebeugtem rechten und nach hinten gestrecktem linken Bein, der Zeigefinger der rechten Hand an der Nase, der linke Arm halb nach unten gesenkt. WeiBes Kostum mit blauen Borten, strohgelber Gurtel. Golden staffierter weifer Rocaillesockel mit rotlicher Baumstumpfstitze.-Rechter Arm gekittet.
+
+FRANKENTHAL,UM 1755. Eingedruckt:H. Hohe 12,8 cm.
+## 14ADVOKAT.
+
+Stehend,mit vorgestelltem rechten Fuf,die linke Hand am Rucken unter dem schwarzen Mantel, die rechte am purpurvioletten Gurtel. Schwarze Kappe, raue Baffchen,rotes Wams, schwarze Hosen und Schuhe,weife Strimpfe.Der Sockel mit hellgrinem Gras fleck und purpurn und golden staffiertem Rocaillerand.
+
+FRANKENTHAL,UM 1760. Eingedruckte Marke: JX:1. Hohe 14,7 cm. Tafel VIII.
+
+## 15PANTALONE.
+
+In schleichender Haltung schreitend, die Rechte an der Wange, die Linke unter dem schleppenden schwarzen Mantel. Er tragt eine schwarze Kappe,weife Halskrause,rotes Wams, rote Hosen und Strimpfe, schwarze Schuhe und Dolchmesser an schwarzem Gurtel. Weifer, golden staffierter Rocaillesockel.
+
+FRANKENTHAL, UM 1760. Modell von J. W. Lanz. Ohne Marke. Hohe 16,5 cm.
+
+Tafel VIII.
+
+## 16 PANTALONE.
+
+Gleiches Modell wie vorher. Der Kopf mehr nach links gedreht, die rechte Hand am Spitzbart. Mantel weif,Kappe,Wams und Hosen blafviolett, Strumpfe weiB, Schuhe strohgelb. WeiBer Rocaillesockel,mit Gold staffiert.
+
+FRANKENTHAL,UM 1760. Modell von J. W. Lanz. Marke: Blauer Lowe und Monogramm J.A.H.Hohe 16,5 cm. Tafel VIII.
+
+## 17PANTALONE.
+
+In schleichender Haltung stark ausschreitend,die Rechte nach vorn gestreckt,die Linke hinten am schleppenden schwarzen Mantel. Er tragt das traditionelle rote Kostum, einen schwarzen Turban, im Gurtel ein Taschentuch. WeiBer Lebkuchensockel mit grun, manganbraun und gelb getupftem Rand.
+
+FRANKENTHAL oder STRASSBURG,UM 1755 oder fruher. Modell von J. W. Lanz. Hohe 11,5 cm.
+
+## 18KOMODIENFIGUR.
+
+In Angriffsstellung, mit vorgeneigtem Oberkorper; in der rechten Hand ein (abges brochener) Dolch, in der vorgehaltenen linken Hand ein dunkellila Tuch, das iber Schulter und Rucken weht. Er tragt einen grunen Hut mit hoher spitzer Krempe, rotes Wams mit grinem und gelbem Armel, gelbe bzw. dunkellila Hosen, schwarze Schuhe.
+
+WeiBer Lebkuchensockel mit grinen Grasflecken.-Fufe repariert.
+
+FRANKENTHAL oder STRASSBURG,UM 1755 oder fruher. Modell von J. W.Lanz. Hohe 11 cm.
+
+## 19 TANZENDE KOLOMBINE.
+
+Mit erhobenem rechten Fuf, emporgestrecktem linken und gesenktem rechten Arm. In der rechten Hand eine Pritsche. Schwarze Gesichtsmaske, gelber Hut und Rock,weife Halskrause; Mieder aus dreieckigen Flicken,weif, gelb,grun,rot und schwarz. Weie Schuhe. Golden staffierter weiBer Rocaillesockel.-Pritsche bestoBen.
+FRANKENTHAL,UM 175559. Modell von J. W.Lanz.Ohne Marke. Eingeritzt:i. Hohe 16,3 cm.— Aus Sammlung Buckardt. VersteigerungsKatalog Helbing=Cassirer, Berlin 1925,Nr.21. Tafel VIII.
+
+## 20 TANZENDERHARLEKIN.
+
+Gegenstuck zur vorhergehenden Figur. Die linke Hand faft die Hutkrempe, die rechte
+
+Hand mit der Pritsche liegt an der Hufte, der Kopf mit halb weifer halb schwarzer Maske ist nach links gedreht. Der Hut gelbgrun, das Wams aus dreieckigen Flicken weif,rot,grin,gelb,purpurviolett und schwarzbraun,die langen Hosen strohgelb,die Schuhe schwarz mit blauen Schleifen. Weifer Sockel mit purpurn staffiertem Rocailles rand, braune Baumstitze.—Hutkrempe und linke Hand repariert,Pritsche bestofen. FRANKENTHAL,UM 1755-59. Modell von J. W.Lanz. Ohne Marke. Eingeritzt:i. Hohe 15,5 cm.
+
+Tafel VIII.
+
+## 21 PIERROT.
+
+Vorsichtig schreitend,mit seitlich erhobenem rechten und halb gesenktem linken Arm. Der linke FuB vorgestellt. Weifes, blau gerandertes Kostum mit ibermafig langen Armeln, durch deren seitliche Offnungen die Hande gesteckt sind. GroBer weifer Schlapphut, weifBe Kappe und Schuhe. Schwarze Gesichtsmaske. Bogenformig aus= geschnittener, golden staffierter weifer Rocaillesockel.—Daumen und kleiner Finger der rechten Hand bestofen.
+
+FRANKENTHAL, UM 1755-59. Modell von J. W.Lanz. Marke: Blauer Lowe. Hohe 15,7 cm. Aus Sammlung Buckardt. Versteigerungs=Katalog Helbing=Cassirer, Berlin1925,Nr.20.
+
+Tafel VIII.
+
+## 22ASTRONOM.
+
+Vor einem Himmelsglobus stehend,in der rechten Hand die Lupe, durch die er die Sternbilder betrachtet. Weifer,golden staffierter Schofrock,ebensolche Hosen,purpur violette Weste, schwarze Schuhe. Der Globusfuf golden und purpurn staffiert. Auf dem geschweiften Kantensockel Fernrohr,goldener Zirkel und Transporteur.— Lupe defekt.
+
+FRANKENTHAL, UM 175559. Modell von J. F. Lick. Marke: Blauer Lowe.
+
+Hohe 13 cm.
+
+Tafel xx.
+
+## 23 ZOFE.
+
+Stehend,kokett mit beiden Handen den Rock hebend. Weife, golden gesiumte Taille, weiBe Schurze mit purpurnem Punktmuster,purpurn gebluimter violetter Rock, weife Schuhe,braunes Perlenhalsband. Golden staffierter,durchbrochener weiferRocaillesockel. FRANKENTHAL,UM 1760. Modell von J.F. Luck. Marke:Blaues CT mit Krone.
+
+Hohe 13,4 cm. Tafel XX.
+## 24 BAUERNGEIGER.
+
+repariert, Schnecke der Geige abgebrochen.
+
+Auf braunrotem Steinpostament sitzend,die Geige spielend. Schwarzer Hut, schwarze Hosen,purpurn gemusterter gelber Rock, lichtpurpurne Weste, weiBe Strumpfe, schwarze Schuhe. Geschweifter,mit Purpur und Gold staffierter Rocaillesockel. Bogen
+
+FRANKENTHAL,UM 1760. Eingedruckte Marke: JX:i. Hohe 16 cm.
+
+## 25 BAUER,DIE SICHEL SCHARFEND.
+
+Stehend,in der linken Hand die (abgebrochene) Sichel, in der rechten der Wetzstein, Dreispitz und Schuhe schwarz, die Jacke weif mit gruner Borte, die Hosen strohgelb. WeiBer Sockel mit goldstaffiertem Rocaillerand und braunem Baumstumpf als Stitze.
+
+Eingeritzt: S2. Hohe 16 cm.-Aus Sammlung Wurz.Versteigerungs=Katalog Lepke, Berlin 1924, Nr.83.
+
+FRANKENTHAL,UM 1765. Modell von J. W. Lanz. Marke: Blaues CT mit Krone.
+
+## 26 DRESCHENDER BAUER.
+
+Vor einer als Stutze dienenden Garbe stehend,in beiden Handen der (fehlende) Dresch flegel.Schwarzer Hut,weifes Hemd,purpurviolette Weste,schwarze Hosen und Schuhe, weife Kniestrumpfe. Die Garbe elfenbeinfarben.Der weife Rocaillesockel mit Gold staffiert.
+
+FRANKENTHAL,UM 1760. Modell von J. W. Lanz. Marke: Blauer Lowe und Monogramm JA H. Hohe 14 cm.-Aus Sammlung Wurz. VersteigerungsKatalog
+
+Lepke,Berlin 1924,Nr. 92.
+
+## 27 BAUER MIT RECHEN.
+
+Mit leicht geneigtem Oberkorper vor einer als Stutze dienenden Garbe stehend,mit beiden Handen den Rechen haltend. Schwarzer Dreispitz,blaugestreifte weife Jacke, blaBlila Hosen,weife Kniestrimpfe, schwarze Schuhe. Die Garbe strohgelb,der weife
+
+Rocaillesockel mit Purpur staffiert.-Rechen,Hutkrempe und linke Hand repariert.
+
+FRANKENTHAL,UM 1760. Modell von J. W. Lanz. Marke: Blauer Lowe und Monogramm J.A.H. Hohe 14 cm.-Aus Sammlung Wurz.VersteigerungsKatalog Lepke,Berlin 1924,Nr.91.
+
+## 28 SCHNITTERIN.
+
+In gebuckter Stellung, mit der linken Hand Ahren fassend, die sie mit der Sichel in der rechten Hand schneidet. GroBer gelber Strohhut mit rotem Band,weiBe Kleidung, rot und blau gestreifter Rock,schwarze Schuhe. Ahren strohgelb. Weifer Sockel mit purpurn staffiertem Rocaillerand.- Hutrand und Sichelblatt bestofen.
+
+FRANKENTHAL,UM 1760. Modell von J.W.Lanz. Marke:Blauer Lowe,Mono=
+
+gramm J A H. Malerzeichen:rotes B. Hohe 10,5 cm. Tafel III.
+
+## 29 SCHNITTER.
+
+Gebuckt schreitend, in beiden Handen Korngarben. Gruner Hut,rot und blau ge streifte Jacke,blaBviolette Hosen, weiBe Strumpfe, schwarze Schuhe. Die Garben strohgelb. WeiBer Sockel mit golden und purpurn staffiertem Rocaillerand. - Hut leicht bestoBen.
+FRANKENTHAL,UM 1760. Modell von J. W.Lanz. Marke:Blauer Lowe, Mono= gramm J A H. Hohe 14 cm. Tafel III.
+
+## 30 DER UNSAUBERE KOCH.
+
+Er steht mit aufgestreiften Armeln neben einer Bank und schlagt Eier in eine weiBe
+
+Zipfelmutze. In beiden Handen leere Eierschalen. Der Rock blaBviolett mit dunklerem Blumenmuster, die Schurze weiB,die Hosen gelb,die Schuhe schwarz. Die Bank strohgelb. Der gewolbte Steinsockel braun und gelb. Kopf gekittet, linke Hand repariert.
+
+FRANKENTHAL, UM 1760. Modell von J.F.Luck. Marke:Blauer Lowe,Mono=
+
+gramm J.A. H. Hohe 19,5 cm. Tafel III.
+
+## 31DIE UNSAUBERE KOCHIN.
+
+Gegenstick zur vorhergehenden Figur. Sie steht an einem strohgelben Tisch und stopft eine Wurst, deren Fullung sie einem Nachttopf auf dem Tisch entnommen hat. Neben dem Topf drei fertige Blutwurste. WeiBe Flugelhaube, Mieder wie die Jacke des Koches mit grinen Schleifen,Schurze weif,Rock gelb mit grunem Blumenmuster, Schuhe gelb. Der flache Steinsockel braun, gelb und rotlich. - Topfhenkel und Tisch= ecke repariert.
+
+FRANKENTHAL,UM 1760. Modell von J.F. Luck. Marke: Blauer Lowe,Mono=
+
+gramm J.A.H.Hohe 19,4 cm.
+
+Tafel III.
+
+## 32 GESELLSCHAFTSGRUPPE:ALLEGORIE AUF DEN ,GERUCH".
+
+Aus der Folge der funf Sinne. Stehender Kavalier mit Schnupftabaksdose und sitzende Dame mit BlumenstrauBchen an einem Tisch mit Blumenkorb. Der Kavalier halt in der linken Hand die Dose,aus der er mit der rechten Hand eine Prise entnommen hat. Unterm linken Arm der schwarze Dreispitz. Er tragt chamoisfarbenen langen Rock, ebensolche Hosen,weife Weste und Strumpfe und schwarze Schuhe. Die Dame riecht an dem BlumenstrauBchen in der rechten Hand, die Linke ruht auf dem Schof. Sie tragt eine blafpurpurne Jacke,weifen Rock mit grunblattrigen blauen Blumen und gelbliche Pantoffeln mit grunen Spangen. Der Tisch mit goldstaffiertem weifem Ro caillegestell, das aus den Rocaillen des geschweiften weiBen Sockels herauswachst.— Kleiner Finger der rechten Hand des Kavaliers bestofen.
+
+FRANKENTHAL,UM 1760. Modell von J. F. Luck. Marke:Blauer Lowe,Mono=
+
+gramm JA H. Hohe 21 cm. Tafel I.
+
+## 33 GESELLSCHAFTSGRUPPE:ALLEGORIE AUF DAS,GEFUHL"
+
+Aus der gleichen Folge der funf Sinne wie die vorhergehende Gruppe. Ein stehender ihn mit der rechten Hand sanft ab. Er tragt einen langen purpurrosa Rock,ebensolche
+
+Kavalier umarmt eine sitzende Dame, um sie zu kussen. Seine linke Hand liegt auf dem Nacken der Dame, seine rechte Hand halt die linke Hand der Dame; diese wehrt Hosen, weife Weste und schwarze Schuhe; die Dame ein grungeblumtes, tiefaus#
+schnittenes weiBes Kleid, eine rotgeblumte Schurze und gelbe Schuhe. Neben ihr ein Tischchen mit einer Papierrolle und Toilettesachen. Geschweifter, golden staffierter weiBer Rocaillesockel, aus dem der Tischfuf unmittelbar herauswachst. - Sockel und
+
+Figuren mehrfach gekittet und repariert.
+
+FRANKENTHAL,UM 1762-65. Modell von J.F.Luck. Marke: Blaues CT mit Krone.Hohe20,5 cm. Tafel I.
+
+## 34QUACKSALBERMITAFFEN.
+
+Er steht neben einem Tisch,in der rechten Hand eine Schale,die linke Hand mit er munternder Gebarde erhoben.Der Hut schwarzbraun,der Rock weif mit Gold, die Weste mit rotlichem Gittermuster und gruinen Blumen,die Hosen strohgelb,die Schuhe braun. Auf dem grinen Tisch hockt ein Affe,mit schwarzem Dreispitz und purpurnem Rockchen, einen Becher in der Pfote haltend, daneben zwei Flaschen und ein Kasten. Grun gefleckter weiBer Sockel mit golden und purpurn staffiertem Rocaillerand.
+
+Rechter Arm erganzt,Daumen der linken Hand bestoBen.
+
+FRANKENTHAL, UM 1765. Modell von J. F. Luck. Marke:Blaues CT mit Krone und AB 6.Goldnummer 71. Hohe20,5 cm. Tafel III.
+
+## 35TANZBARGRUPPE.
+
+Zwei Savoyardenknaben sitzen, die Kopfe aneinandergelehnt,am Boden; der eine spielt auf der Drehleier, der andere taktiert mit der linken Hand. Gegeniber steht der auf gerichtete Tanzbar mit einem Stock zwischen den Vorderpfoten. Die Kleidung vor wiegend weiB,die Hosen strohgelb bzw.braun,die Weste des einen gelbgrin,der Hut und die Schuhe schwarz. Der Natursockel grun mit Baumstumpfen und Moosbelag, der weiBe Rocaillerand golden staffiert.-Ein Bein gekittet, die Kurbel defekt,der Stab repariert.
+
+FRANKENTHAL,UM 1765. Modell von Karl Gottlieb Luck. Marke:Blaues CT mit Krone und.B6.Eingeritzt:. F.. N . Z.:Hohe 15,8 cm. Tafel IV.
+
+## 36 GESELLSCHAFTSGRUPPE:DIE VIER JAHRESZEITEN.
+
+Verkorpert durch zwei im Lehnstuhl sich gegenibersitzende Damen als ,Fruhlingund ,Winter"und zwei stehende Kavaliere als ,Sommer" und ,Herbst". Die Dame als ,Fruhlingin weifem,goldbordiertem Mieder,blau=grun gebluimtem Rock,schwarzem Kopftuch, bunte Blumen im Haar und in der rechten Hand; auf dem Schof ein Blumenkorb. Die Dame als ,Winterin lachsfarbenem,mit Hermelin verbramtem Mieder,weiBem Rock,gelben Schuhen,Muff aus Hermelin in der linken Hand,violettem Mutzchen mit Hermelinrand und roter Feder an blauer Rosette; schwarze plissierte Halskrause. Die mit gold abgesetzten weifen Rokokostuhle gelb bzw. weif mit grun und rot bezogen.Der ,Sommer" in weiBem Rock mit lachsroter Scharpe,gelben Hosen, weiBem Mantel mit Vergifmeinnichtmuster an einem Band aus Ahren und Kornblumen, schwarzem Dreispitz mit buntem Federbusch. Der ,Herbstin rot ge blumtem Rock, gelber Scharpe,blausrot gestreiften weifen Hosen,purpurnem,innen weiBem Mantel an einer Weingirlande;im Haar einen Weinkranz,in den Handen eine Rotweinflasche und ein Glas (defekt). Der grun und rotbraun staffierte Sockel
+mit gruinem Moosbelag und golden staffiertem weifBem Rocaillerand.-Rechter Arm, rechtes Bein und der Kopf des ,Sommers", sowie die Federstutze gekittet, sonst nur geringfugige Beschadigungen.
+
+FRANKENTHAL,UM 1770. Modell von Karl Gottlieb Luck. Marke:Blaues CT mit Krone und 7. Ritzzeichen: F.N.o.Z. Hohe 18,5 cm.—Das bei Hofmann (Nr. 455) abgeb.Exemplar im Bayer.Nationalmuseum ohne den,Sommer" Tafel VIl.
+
+## 37ZECHERGRUPPE.
+
+Drei Bauern sitzen im Kreis, der eine auf rotbraunem Tisch,in der Hand die Pfeife, neben sich Tabaksbeutel und Weinkrug. Er wendet sich singend nach dem zweiten bartigen Gefahrten um, der ein Blatt Papier in der Hand halt und auf einem Tisch kasten sitzt. Der dritte sitzt singend auf einem FaB, in der linken Hand einen Becher. Die Kleidung weif,z.T. rot mit Blau oder Grun gestreift oder geblumt. Die Kappen gelb,weif und purpurviolett. Der grun und braun staffierte gewolbte Erdsockel mit
+
+Moosbelag und golden staffiertem Rocaillerand.- Geringfugige Beschadigungen.
+
+FRANKENTHAL,UM 1770. Modell von Karl Gottlieb Luck. Marke:Blaues CT mit Krone und 7 (=1770). Ritzzeichen:R 2. Malerzeichen:n in Gold. Hohe 19 cm.-Aus Sammlung Wurz.Versteigerungs=Katalog Lepke 1925,Nr.130.Abb.bei Hofmann Nr.465.
+
+Tafel III.
+
+## 38PIQUEURZUPFERDE.
+
+Der schwarzgezaumte Schimmel in scharfem Galopp. Der Jager halt das gelbe Jagd horn in der rechten Hand,in der Linken die Zugel. Roter Rock, grune Aufschlage und Riemen,gelbe Handschuhe und Hosen,schwarze Stulpstiefel,Dreispitz,grune Schabracke. Gruner ovaler Natursockel mit Mooss und Staudenbelag und goldstaffiertem Rocailles rand. Braune Baumstumpfstitze.-Vorderbeine und Degen gekittet, Zugel defekt. FRANKENTHAL,UM 1770-75. Modell von Karl Gottlieb Luck. Marke:Blaues CT mit Krone.Hohe 16 cm. Tafel xVII.
+
+## 39SINGENDER CHINESE.
+
+Auf dem Querbalken eines Zaunes sitzend, ein Notenblatt in der Rechten,mit der Linken taktierend. Er tragt einen groBen weiBen Spitzhut mit langen seitlichen Zipfeln, rotgeblumtes gegurtetes Gewand,violett gestreifte Pumphosen und gelbe Schuhe. Der Zaun weif mit goldenen Kanten. Oval gewolbter griner Natursockel mit golden staffiertem weifem Rocaillerand.-Zaun und FuBspitzen gekittet.
+
+FRANKENTHAL,UM 1775. Modell von Karl Gottlieb Luck.Marke: Blaues CT mit Krone. Hohe 8,6 cm.
+
+Tafel xVI.
+
+## 40 KINDERGRUPPE:KNABE UND MADCHEN BEIM GESANG.
+
+Das Madchen sitzt auf einem Stein,neben ihm am Boden der Knabe;beide umfassen sich. Das Madchen halt ein (erganztes) Notenblatt auf dem rechten Knie, der Knabe eine Schalmei in der linken Hand. Zu den Fufen des Knaben sitzt ein weifer Pudel. Das Madchen tragt einen gelben Hut,goldumsaumtes, weiBes Mieder,purpurn geblumten
+Rock, gelbe Schurze und Schuhe und rot gestreiften Unterrock; der Knabe einen schwarzen Hut, goldumsaumte Jacke, gelbe Weste, purpurne Hosen und schwarze Schuhe. Blaugrun staffierter ovaler Grassockel mit einem Belag von gelben Kornahren, grunem Moos und Blattern. Golden staffierter,weiBer Rocaillerand.Rechte Hand des Madchens und eine Pfote des Hundes repariert, die Schalmei in Holz erganzt.
+
+Tafel IV.
+
+FRANKENTHAL,UM 1775. Modell im Stil des K.G.Luck, nach Hofmann von Adam Bauer. Marke:Blaues C T mit Krone. Hohe 13 cm.
+
+## 41 KINDERGRUPPE:KNABE UND MADCHEN BEIM GESANG.
+
+FRANKENTHAL, UM 1779. Marke: Blaues CT mit Krone und Jahreszahl 79. Hohe 13 cm.
+
+Gleiches,in Einzelheiten verandertes und vereinfachtes Modell wie die vorhergehende Gruppe. Der Knabe halt in der linken Hand eine Mandoline, der Hund fehlt. Der Bes lag auf dem weifen Sockel beschrankt sich auf grine Graspartien. An den Huten bunte Blumen statt Ahren.Die Staffierung im Stil der Ludwigsburger Figuren zweifellos original. Das Madchen tragt einen chamoisfarbenen Hut mit Goldrand und grinem Band,ein Mieder mit rotem und purpurnem Mosaik,weifBen,blaugold geblumten Rock mit grin=goldpurpurnem Saumbesatz,rosa Unterrock und gelbe Schuhe; der Knabe einen weiBen Hut mit blauem Rand und gelbem Band, grinen Rock mit ausradiertem Zweig= muster,buntgeblumte weife Hosen und schwarze Schuhe. Am Sockel golden staffierter Rocaillerand.-Rechte Hand des Madchens repariert, linker Daumen des Knaben und Kopf der Mandoline abgebrochen.
+
+Tafel IV.
+
+## 42KNABE ALSFISCHHANDLER.
+
+FRANKENTHAL,UM 1774. Marke: Blaues CT mit Krone und 74. Hohe 14 cm.
+
+Er sitzt breitbeinig auf einer Tonne, seine Rechte halt den Stiel eines Fischnetzes, das in einem braunen Bottich am Boden liegt,seine Linke halt einen schwarzen holzernen Zober mit drei Fischen. Er tragt runden schwarzen Hut, offene weife Weste mit goldenen Knopfen,lachsfarbene Jacke, strohgelbe Hosen und schwarze Schuhe.-Reparaturen an der rechten Hand,am linken Arm, am Fischnetz,am Zober und am Bottich.
+
+Tafel IV.
+
+## 43CHINESENFAMILIE.
+
+Um eine Palme in der Mitte des grun, gelb und braunlich staffierten Natursockels gruppieren sich der stehende Vater,der die Palme mit der linken Hand umfaBt,die kniende Mutter,ein kriechendes Kind zwischen den Beinen des Vaters,zwei sitzende mit grofen gelbroten Fruchten und ein stehendes mit einer Knospe in der rechten Hand. Der Vater in weiBer Bluse mit Goldsaumen, purpurnen Hosen, gelben Schuhen und golden und gelb staffiertem, spitzem Kelchhut.Die Frau in weiBem,blaugrun geblumtem und rot gestreiftem Kleid, gelbem Gurtel und weifer Haube. Die Kinder in bunt ge= streiften bzw. geblumten Kleidchen und gelben, weiBen und purpurnen Schuhen. Der Baumstamm braun mit griner Blattkrone. An einem Aststumpf hangt eine Tasche.
+
+weifglasierte Exemplar der Sammlung Wurz,jetzt Sammlung Dr.Dosquet,Berlin. Tafel VII.
+
+FRANKENTHAL,UM 1785. Modell von Melchior. Marke:Blaues CT mit Krone und 85. Ritzzeichen:A.C.NOZ.(Adam Cleer). Hohe 27 cm.—Bei Hofmann,Nr.607 das
+## 44 TASSE MIT UNTERSCHALE.
+
+FULDA,UM 1780. Marke:FF mit Krone. Eingedruckt IK. Hohe der Tasse 7 cm, Durchmesser der Unterschale 13,6 cm.
+
+## FULDA
+
+(Nr.44bis 55)
+
+An den Randern gruner Blattkranz mit Nelken und VergiBmeinnichtbluten,an der Stirn seite der Tasse und im Spiegel der Unterschale bunter Blumenstrauf in grunem,von pur purnem Band umwundenem Kranz. Purpurn staffierter Henkel.
+
+## 45SCHAFERGRUPPE.
+
+Rotlichbraun und grun staffierter Felssockel mit farbigem Blatt und Blumenbelag.
+
+An einen Baumstumpf gelehnt,in sitzender Stellung, den Kopf auf den rechten Arm ge stutzt,ruht das Madchen,neben ihr der Hirtenstab,auf ihrem Schof ein Liebesbrief mit der Aufschrift ,An Die Dorris",nach dem der neben ihr sitzende Hirtenknabe greift. Vor dem Madchen steht ein Blumenkorb,am Baum hangt ihr Hut, darin ein Nest mit jungen Vogeln. Auf dem Schof des Knaben liegt eine Flote. Das Madchen tragt ein blaBgrunes,dunkelgemustertes Mieder und ebensolchen Unterrock,daruber einen bunt gebluimten weiBen Rock,der Knabe einen grunen Hut,blaubordierte weibe Jacke,eisen rot gestreifte lachsfarbene Weste und strohgelbe Hosen; die Beine und Fufe sind blof.
+
+FULDA,UM 1770. Marke:Blaues Kreuz.Hohe 13,5 cm. Tafel IX.
+
+## 46WINZER.
+
+Stehend,mit stark auswarts gestellten Fufen,in der rechten Hand eine Traube,in der linken das (abgebrochene) rote Band der mit Trauben gefillten Butte, die neben ihm am Boden steht. Er tragt gelbgrinen Hut,rot geblumte weiBe Jacke mit purpurner Scharpe, grune Hosen und schwarze Schuhe. WeiBer Grassockel mit grunem Staudenbelag und purpurn staffiertem Rocaillerand.
+
+FULDA,UM 1770. Marke:Blaues Kreuz.Hohe 14,3 cm. Tafel IX.
+
+## 47GARTNERIN.
+
+FULDA, UM 1775. Marke: Blaues DoppelF mit Krone. Hohe 15 cm. Tafel IX.
+
+Stehend,in der linken Hand einen Blumenstrauf,in der rechten Hand einen Korb mit Blumen haltend. Sie tragt eine seitlich herabfallende gelbe Zipfelmitze mit Quaste und breitem,rotlichbraunem Rand,purpurviolette Jacke mit blaugeranderten Krausen an Armeln und Hals,weifen Rock mit grinem Saumbesatz,rot geblumte weife Schurze und rote Schuhe. Der gewolbte weife Grassockel maigrin staffiert mit grunem Staudenbelag und purpurn gehohtem Rocaillerand.-Korbhenkel fehlt.
+## 48-49 GARTNER UND GARTNERIN.
+
+Gegensticke. Beide stehend. Der Gartner hat den linken FuB auf das Blatt des Spatens gestellt, dessen Griff er mit der linken Hand faBt. Der rechte Arm ist gebeugt, in der Hand halt er eine Traube. Am Boden ein Blumenkibel mit rotlich bluhender Pflanze. Er tragt niedrigen schwarzen Hut mit violetter Unterseite und BlumenstrauB chen an griinem Band,buntgeblumte weife Jacke mit grunen Knopfen und Borten, purpurngestreifte weiBe Hose mit goldener Borte, schwarze Schuhe und Halsbinde. WeiBer, gelbgrun staffierter Felssockel mit buntem Blumen und Fruchtbelag. Rotbraun gefleckte Baumstumpfstitze.—Spaten und Blumenstock gekittet.
+
+Die Gartnerin halt im linken Arm einen Korb mit Blumen,in der erhobenen rechten Hand einen BlumenstrauB. Am Boden eine weifgoldene GiefBkanne. Sie tragt einen flachen weiben Hut mit goldener Borte und blauem Band, weiBblaue Halskrause,rot kariertes weiBes Mieder mit blauen Knopfen, Schleifen und Borten, buntgeblumten weifen Rock mit Ruschenbesatz am Saum und rote Schuhe. Sockel wie vorher mit bunt Rechter Arm, Griff, Henkel und Rohr der
+
+FULDA,UM 1770. Marke: Blaues Kreuz. Hohe 18,5 cm. Tafel X.
+
+staffiertem Trauben und Fruchtbelag. Giefkanne gekittet,Hutrand repariert.
+
+## 50FLOTESPIELENDERKAVALIER.
+
+Stehend,mit stark auswarts gestellten FuBen,die Flote mit beiden Handen an den Mund haltend. Er tragt einen gringefuitterten purpurvioletten Rock, der bis an die Knie reicht, rotgestreifte weife Weste,schwarze Hosen und Schuhe. Das Haar in einem grofen schwarzen Beutel mit Schleife. Am Boden ein Notenblatt und ein Blatt mit der Auf schrift ,Secund". WeiBer Sockel mit purpurn gehohtem Rocaillerand und grinem Blatt belag. Gelbgrin staffierte Baumstuitze. Nase und Flote repariert,zwei Finger der rechten Hand bestoBen.
+
+FULDA, UM 1775. Marke: Blaues DoppelF mit Krone. Hohe 21 cm.
+
+Tafel X.
+
+## 51 MULLERBURSCHE.
+
+In Schrittstellung, auf der linken Schulter einen weiBen Mehlsack tragend, den er mit aufliegender rechter Hand in der Balance halt. Der linke Arm mit grinem Tuch in der Hand ist gebeugt. Das Kostum weif, mit gelben Knopfen und Borten an der purpurn gefutterten Jacke und blauen Borten an der Kniehose. Der Hut und die Schuhe schwarz mit gelben Schleifen. Weifer gewolbter Natursockel mit grin ge= gemalten Blattern und purpurn staffiertem Rocaillerand. Auf dem Sack N. O.in Pur pur.— FuBe und linkes Bein gekittet und repariert.
+
+FULDA,UM 1770. Marke:Blaues Kreuz. Hohe 14,5 cm. Tafel IX.
+
+## 52 KNABE ALS SCHNITTER,ALLEGORIE DES SOMMERS.
+
+- Stehend,barfufig,auf dem linken Arm eine Garbe mit Vogelnest,auf das er mit der rechten Hand zeigt. In der linken Hand eine Sichel. Er tragt einen schwarzen,mit Ahren besetzten Hut, braune, graublau gefutterte Jacke,weiBes Hemd und purpurn gestreifte Hosen. Graugruin und gelb getonter Sockel mit golden gehohtem Rocailles
+
+rand.—Hutkrempe,Sichel und rechter Zeigefinger bestofen.
+
+FULDA,UM 1770. Marke:Blaues Kreuz. Hohe 15 cm. Tafel X.
+## 53-54ZWEIKINDERFIGUREN.
+
+Als Kavalier und Dame im Zeitkostum. Beide stehend, den Kopf einander zugewandt. Der Knabe halt in der rechten Hand ein Blatt mit der Aufschrift:,Ich schulde Herrn Otmann 5 Thaler  .Die linke Hand ruht an der Hufte.Das Madchen halt einen halbgeoffneten Facher in der rechten Hand, die Linke ist seitlich ausgestreckt. Der Knabe tragt schwarzen Haarbeutel an schwarzem Band,beigefarbenen Rock und Hosen, gebluimte weiBe Weste und schwarze Schuhe.Das Madchen eisenrot gestreiften weifen Rock mit hellgrunem Saumbesatz,blaBgrinen, gerafften Uberwurf mit gelben Ruschen, rotgeblumte weife Schurze mit grunem Saumbesatz und grune Schuhe. Um den Hals eine hellblaue Perlenkette,im Haar goldene Rosetten.Weife, grunstaffierte Gras sockel mit farbigem Blatt# und Blumenbelag.-Rechter Arm und Facher des Madchens gekittet, linker Zeigefinger bestofen, der Brief in der Hand des Knaben repariert.
+
+FULDA,UM 1770. Marke:Blaues Kreuz. Hohe 14 cm,bzw.13,4 cm. Tafel X.
+
+## 55GARTNERIN.
+
+Stehend,barfuBig,in der Rechten einen mit Apfeln gefullten Henkelkorb,in der Linken einen Blumentopf haltend. Sie tragt einen rotbordierten, gelben Hut,blaBgrunes,mit dunkleren Rocaillen verziertes Mieder iber dem Hemd mit aufgeschlagenen Armeln,bunt gebluimten, weifen Rock und hellblaue Schurze. Grauer Felssockel mit grun= und gelb staffiertem Grasbelag.-Korbhenkel und Hutkrempe repariert.
+
+FULDA,UM 1770. Marke:Blaues Kreuz. Hohe 16 cm.
+## 56 HARLEKIN.
+
+Stehend, die rechte Hand mit einem versiegelten Brief am Kopf, die linke Hand mit dem grauen Hut an der Hufte. Er tragt eine schwarze Kappe und ein aus schwarzen, roten, grinen, gelben und purpurnen Flicken zusammengesetztes Kostum, schwarze Schuhe und Gurtel mit eingesteckter Pritsche. WeiBer Lebkuchensockel mit braun staffierter Baumstutze.
+
+GOTHA (?),UM 1775.Marke:Violettes R. Hohe 13,7 cm. Tafel VIIl.
+
+## GOTHA
+
+(Nr.56)
+## 57SOLITAR.
+
+HOCHST, UM 1775-80. Marke: Blaues Rad, beim Tablett und der Kanne mit Krone. Durchmesser des Tabletts 33:25 cm,Hohe der Kanne 13 cm, der Tasse 4,5 cm,Durch messer der Unterschale 10,7 cm,Hohe der Zuckerdose 7 cm. Tafel XI.
+
+## HOCHST
+
+(Nr.57bis 70)
+
+Bestehend aus rautenformig geschweiftem Tablett, birnenformiger Kanne mit Deckel, zylindrischer Tasse mit Unterschale und Zuckerdose mit Deckel. Bemalung: bunte Szenen zu Michel Sedaine's ，,Deserteur",vermutlich nach franzosischen Stichvorbildern. Im ubrigen bunte Streublumen. Deckel der Kanne mit Rosenknauf, der Zuckerdose mit Erdbeerknauf. Alle Rander vergoldet, Henkel und Ausguf mit Gold staffiert.
+
+## 58TETE=A=TETE.
+
+Bestehend aus sechsfach ausgebuchtetem Tablett, eiformiger Teekanne mit Deckel, zylindrischer Schokoladenkanne mit Deckel und schwarzem Stielgriff, Sahnengiefer auf drei Zweigfufen, sowie zwei halbkugeligen Tassen mit Unterschalen. Bemalung: bunte Vogelbilder,halb umrahmt von goldenen Rocaillen mit bunten Blumen. An den Randern gruine Blattschnure an purpurnem Band. Die Deckel mit Rosenknaufen. Goldrander.—Eine Unterschale am Rande gekittet.
+
+HOCHST,UM 1775.Marken:Eingedrucktes Rad beim Tablett,den beiden Kannen und der Zuckerdose,bei den ubrigen Stuicken blaues Rad mit Krone. Eingedruckt bei drei Stucken:I N. Durchmesser des Tabletts 33,3:23,5 cm,Hohe der Teekanne 9,5 cm, Hohe der Schokoladenkanne 11,5 cm,Hohe des SahnengieBers 8,5 cm,Hohe der Zucker dose 6.8 cm,Hohe der Tassen 4,6 cm,Durchmesser der Unterschalen 12,5 cm. Tafel XI.
+
+## 59MINIATURFIGUR.
+
+Orientale,in Tanzstellung mit leicht gebeugtem rechten Bein, dessen Fuf auf der Spitze steht. Schwarze Jacke mit lachsroten Vorstofen,purpurn gemusterte Weste, purpurne Hosen, schwarze Schuhe, gruiner Hut mit quergestreiftem Turban. WeiBer Sockel mit purpurn und golden gehohtem Rocaillerand.
+
+HOCHST,UM 1755. Marke:Rotes Rad. Hohe 9.3 cm. Tafel XVI.
+
+## 60MINIATURFIGUR.
+
+Harlekine, stehend,mit weit vorgestelltem linken Bein und gebeugten Armen,in der linken Hand die Pritsche, die sie hinterm Rucken verbirgt. Weifes, purpurn umran detes Mieder,bunter Flickenrock,purpurne Schuhe. Golden staffierter Rocaillesockel. HOCHST,UM 1755. Ohne Marke. Hohe 9 cm.- Aus Sammlung Buckardt, Berlin. Versteiger.Katalog Helbing=Cassirer, Berlin 1925,Nr. 39. Tafel XVI.
+## 61-62ZWEIMINIATURGRUPPEN.
+
+Allegorien auf ,Sommerund ,Winter".Der Sommer als Dame, die auf einer Garbe sitzt und Apfel in den Handen halt,eine Schussel mit Apfeln im Schof； gegenuber, an einen Baum gelehnt, ein stehender Kavalier, der in den Handen den schwarzen Drei spitz voll gelber Rubchen halt. Krinolinkleid weif mit purpurnem Blumenmuster, Hut und Garbe strohgelb, Schuhe hellblau. Rock des Kavaliers hellblau, Hosen rot, Schuhe schwarz. Der ovale weife Sockel weif mit purpurn und golden staffiertem Rocaillerand.-Der Winter als sitzende Frau, die ihre Hande iber ein Kohlenbecken halt,neben ihr,an einen Baumstumpf gelehnt,ein Mann, der ein (abgebrochenes) Beil in den Handen halt und den rechten Fuf auf ein Holzstick setzt. Das Mieder der Frau weif mit Pelzverbramung, der Krinolinrock purpurn, die Schuhe gelb. Jacke des Mannes hellgrun mit Pelzverbramung, Hosen gelb, Kappe purpurn und gruin. Weifer ovaler Sockel mit golden staffiertem Rocaillerand.- Sockel gekittet,Arme der Frau repariert.
+
+HOCHST,UM 1755. Marke: Rotes Rad, beim ,Winter"auBerdem eingedrucktes Rad. Hohe 12,1,bzw.9 cm. Tafel XVI.
+
+## 63MALERVOR DERSTAFFELEI.
+
+Stehend,in der Linken die Palette,in der Rechten der Pinsel. Auf der Bildtafel in Rotel angelegte Halbfigur vor wolkigem Grund. Oval gewolbter Sockel mit golden staffiertem Rocaillerand. Zwischen dem Gestell marmorierte Steinplatte mit blauer Farbe und Farbreiber. Der offene Mantel weif mit feinen purpurnen Streublumen, innen strohgelb. Die Hosen kupfergruin, die Schuhe purpurn.- Pinsel, Palette und Haarbeutelband beschadigt.
+
+HOCHST,UM 1755. Marke:Rotes Rad. Hohe 14,1 cm.
+
+Tafel XX.
+
+## 64 MUSIKANTENFAMILIE.
+
+Der Mann sitzt auf einer mit Rosen bewachsenen Felsbank, quer auf seinem linken stitzt, sitzt ein kleiner schlafender Savoyardenknabe. Der Mann in blafrosa Rock
+
+Oberschenkel ruht die Drehleier, deren Kurbel er dreht. Die Frau beugt sich im Stehen uber ihn, legt die rechte Hand auf seine Schulter und druckt mit der Linken auf die Tasten des Instruments.R Ruckwarts,auf einen geschlossenen Murmeltierkasten ge= mit goldenen Knopfen, blaBblau und rosa gestreifter weiBer Weste und Hose; die Frau in hellblauem Mieder, strohgelbem Unterrock und umgeschlagenem weiBem Rock, weifem,rosa und grun gestreiftem Schultertuch, schwarzem Kopftuch und Spitzen haubchen mit rosa Band; der Knabe in rosa Rock, strohgelben Hosen und schwarzem Hut. Der Felssockel graugrin und hellblau staffiert, mit grunem Grasbelag. -Der Sockel an einer Stelle gekittet, die Wirbel und der Schutzbogen iber dem Steg des Instrumentes abgestoBen.
+
+HOCHST,UM 1775. Modell von Melchior. Marke: Blaues Rad. Hohe 27,5 cm.
+
+Tafel xIV.
+
+## 65SCHAFERGRUPPE.
+
+Auf dem mit Gras bewachsenen Felsboden sitzt ein barfufiges Hirtenmadchen, das den rosa Hut des Hirtenknaben mit Blumen bekranzt. Hinter ihr, auf einer Felsbank,
+sitzt der barfufige Knabe, der dem Madchen mit der linken Hand Blumen reicht. Am Boden ein Korb mit Blumen,ein Schaferstab,ein Schaf und ein sitzender Hund. Das Madchen in weiBem Rock mit goldenen Streublumen,kupfergrunem Mieder und weiBer, grunsrosa gestreifter Schurze. Der Knabe in kupfergruner Jacke,rosa Armelweste und Hosen mit Strichmuster. Der Felssockel graugrun, grau und braun staffiert.—Der Korbhenkel und die Ohrenspitzen des Hundes bestofen.
+
+HOCHST,UM 1770-75. Marke:Blaues Rad. Ritzzeichen: S H. Hohe 18,5 cm.
+
+Tafel XIl.
+
+## 66-67 ZWEI FIGUREN:LAUTENSPIELERIN UND GEIGER, Gegenstucke.
+
+Beide stehend. Die Frau halt die Laute mit der linken Hand am Griffbrett und streicht mit der rechten Hand iber die Saiten. Auf ihrem Rucken tragt sie ein kleines Kind in einem Tuch, das um ihre Taille befestigt ist. Der breitkrempige Hut lichtgrau mit strohgelber Unterseite, das Schultertuch gelb und purpurn gestreift, das Mieder hell grun, der Rock blaBpurpurn mit grunem Saum. Unregelmafiger, grau und gelbgrun ge tonter Sockel.-Der Geiger halt die Geige ans Kinn und streicht mit dem Bogen uber die Saiten. Der Kopf ist seiner Partnerin zugewandt. Er tragt schwarzen Dreispitz, kupfergrunen Rock mit strohgelben Aufschlagen, blafpurpurne Hosen und weiBe Strumpfe. Auf dem unregelmafigen Sockel mit grunem Grasbelag ruht ein grauer Sack als Stutze der Figur.— Hutkrempe der Frau, Schnecke der Laute,rechter und linker Arm des Mannes, Geige und Bogen repariert.
+
+HOCHST,UM 1775-80. Modelle aus dem Kreis Melchiors. Marke: Blaues Rad. Hohe beider Figuren 16,5 cm.
+
+## 68SCHAFERGRUPPE.
+
+An einen hohlen Baumstumpf gelehnt steht ein Knabe,in der linken Hand eine Flote, die er zum Munde fuhrt,in der rechten Hand eine Leine, die am Halsband des unten sitzenden Hundes befestigt ist. Gegeniiber am Boden ein sitzendes Madchen, das ein ruhendes Schaf mit Blumen bekranzt. Am Boden ein Blumenkorb und eine Hirten tasche. Quer vor dem Knaben ein Hirtenstab. Der Knabe in blafgrauem Hut,rosa violettem Rock,blau bordierter weifer Armelweste und ebensolchen Schuhen. Das Madchen in rosaviolettem Hut mit blauen Borten und Band, strohgelbem Mieder mit blauer Borte,rosavioletter Schurze und weifem Rock mit feinen goldenen und purpurnen Streublumen und goldenem Spitzensaum. Die goldengestreiften Schuhe mit blauen Schleifen.Der unregelmafige, grau,blaulich und grunlich getonte Felssockel mit Gras= belag.— Sockel gekittet, die Hutkrempen und der Hirtenstab repariert, die Leine und eine Schuhschleife defekt.
+
+HOCHST,UM 1770. Modell von Melchior. Marke:Blaues, gekrontes Rad. Hohe 18,8 cm.
+
+Tafel XII.
+
+## 69DERBILDERHANDLER.
+
+Er sitzt auf einer Felsbank und halt mit der linken Hand die zu einem Band mit Gold schnitt vereinten Kunstblatter,von denen ein Knabe mit Weinglas,eine Landschaft und eine Landkarte sichtbar sind. Am Boden hockt ein kleines Madchen,das mit der linken Hand die obersten Blatter an einer Ecke aufhebt. Der Mann tragt einen schwarzen Dreispitz,graublauen Rock,rotgestreifte Weste und Kniehosen,weife Strimpfe und
+schwarze Schuhe; das Kind ein weifes Haubchen mit purpurnem Band, purpurnes Mieder, weiBen Rock, schwarze Schurze und Schuhe und strohgelben Unterrock.Hutrand leicht beschadigt.
+
+HOCHST, UM 1770-75. Modell von Melchior. Marke:Blaues Rad mit Krone.
+
+TafelVIl.
+
+Hohe18cm.
+
+## 70 KINDERGRUPPE.
+
+Die gestorte Schaferin. Auf eine gemauerte Steinbank gestuitzt ruht ein barfufiges kleines Madchen, das von einem knienden Knaben mit einer Feder an der Nase ge kitzelt wird. Hinter dem Madchen,uber einen Zaun gebeugt, steht ein zweiter Knabe, der den Zeigefinger der rechten Hand nach dem Mund fihrt. Auf dem Rasen neben dem Madchen steht ein weiBer Korb mit einer Wickelpuppe,Klapper und Tasse. Das Madchen tragt ein weifes Haubchen mit grinem Band, weifes,mit VergifBmeinnicht und schwarzen Strichen gemustertes Kleid, schwarz gepunktetes gelbes Schultertuch und rosa Schurze mit blauen Punkten; der kniende Knabe eine weife Zipfelmitze und eine grune Jacke,beide mit Goldborte, strohgelbe,dunkelpurpurn gestreifte Kniehose,weie Strumpfe und schwarze Schuhe; der andere Knabe einen schwarzen Dreispitz,graulila Rock und Kniehosen,weiBe Strumpfe und schwarze Schuhe. Grau,olivgrin und braun staffierter Felssockel mit grunem Glasbelag.-Tadellos erhalten.
+
+HOCHST, UM 1775. Marke:Blaues Rad. Hohe 14,5 cm.
+## LUDWIGSBURG
+
+(Nr.71bis 86)
+
+## 71-72 ZWEI POTPOURRIVASEN MIT DURCHBROCHENENDECKELN.
+
+Bauchiger Korper auf drei Rocaillefufen,eingezogener Hals mit zwei Rocaillehenkeln, deren Auslaufer bis zu den Fufen reichen. Die Rocaillen mit Gold staffiert. Auf beiden Seiten des Korpers bunte Bacchantenbilder in Landschaft,z.T.nach Boucher,umrahmt von golden staffierten Rocaillen.Der stark bewegte Rocailledeckel golden staffiert,mit bunter Amorette in vertieftem Feld.—Der eine Deckel an der Spitze stark, der andere geringfugig beschadigt.
+
+LUDWIGSBURG,UM 1760. Marke:Blaues DoppelC mit Krone. Hohe 21,5 cm bzw.
+
+23cm.
+
+Tafel V.
+
+## 73BAUERNBURSCHE.
+
+Stehend,mit auseinander gestellten FuBen, die linke Hand auf einer mit grinem Gras be wachsenen Stitze,in der rechten Hand einen Rechen haltend. Er tragt einen schief sitzenden,schwarzen Hut,weiBes Hemd mit heraufgestreiften Armeln,chamoisfarbene Kniehosen. Beine und Fufe blof. Golden staffierter Rocaillesockel.- Der Rechen repariert.
+
+LUDWIGSBURG,UM 1760-65. Marke:Blaues DoppelC mit Krone. Hohe 9,8 cm.
+
+## 74 GROSSE CHINESENGRUPPE.
+
+Auf rechteckigem, grau und grun getontem Felssockel steht ein Chinese, der sich mit dem Ellbogen des linken Armes auf eine hohe,golden staffierte Henkelkanne stitzt und mit der rechten Hand einen Teller mit flacher Schale von einem knienden Knaben ent gegennimmt. Er tragt einen grun und golden bemalten, spitzen Strohhut,blafviolettes Gewand mit goldenen Aufschlagen, Saumen und Scharpe,lange,grune,gelb und golden gestreifte Hosen und rote Pantoffeln; der barfufige Knabe ein gelbes Kleid mit goldenen Saumen und rotgolden gestreiften Armelaufschlagen und Gurtel. Am Sockel gelbe und rote Stauden.—Rechter Arm des Chinesen und Kannenhenkel gekittet,linker Daumen des Chinesen abgestofen, Teller repariert.
+
+LUDWIGSBURG,UM 1760-65. Marke:Blaues DoppelC mit Krone.Rotes Staffier zeichen:HM. Hohe 28 cm.
+
+Tafel XV.
+
+## 75 GROSSE BACCHANTENGRUPPE.
+
+Auf geschichtetem Steinsockel sitzt eine Bacchantin mit zurickgelehntem Oberkorper und ibereinandergelegten Beinen； neben ihr, den Oberkorper quer iber ihren rechten Oberschenkel zurickneigend,sitzt ein Bacchant. Beide halten in der erhobenen linken Hand und in der rechten Weintrauben. Das Haar und der Leib der Bacchantin sowie die Lenden des Bacchanten sind mit Weinlaub und Trauben bekranzt. Letzterer tragt
+einen Lorbeerkranz, erstere Arm= und FuBbander mit Schellen. An der Hufte des Bacchanten hangt eine Pansflote. Die Draperie blaBgelb und blaBpurpurn. Auf der Ruckseite eine ruhende,braun staffierte Ziege und ein sitzender Satyrknabe, der sich auf eine Urne stitzt. Am Felsen hangt ein Tambourin, darunter steht ein Napf mit ausge= preBten Trauben, deren Saft herabflieft. -Der Sockel mehrfach gesprungen, einige Blatter bestofen.
+
+LUDWIGSBURG,UM 1760-65. Modell von Wilhelm Beyer zu einem grofen Tafel: aufsatz mit Bacchantenfiguren. Marke: Blaues DoppelC mit Krone. Hohe 26,5 cm.
+
+Tafel xV.
+
+## 76 SPINETTSPIELERIN.
+
+UM 1765. Modell von Wilhelm Beyer. Marke: Blaues DoppelC mit Krone. Einge
+
+Aus der Folge der Musiksoli. Sie sitzt auf ibereck gestelltem, gruinbezogenem Rokoko stuhl,den Oberkorper gebeugt und den Kopf geneigt,vor dem tafelformigen Spinett,die Finger auf den Tasten. Auf ihrem rechten Knie ruht ein aufgeschlagenes Notenheft,auf dem Spinett eine Notenrolle. Das elfenbeinfarbene, mit goldenen BlumenstrauBen ge musterte Mieder ist am Rucken blau geschnurt, der Rock mit blaugoldenen Streublumen gemustert, die Schurze und die Schuhe blaBpurpurn mit weiBem Spitzenrand bzw. schleife. Das Spinett gelb mit rotbraunem Deckel, das Gestell aus rotbraun und golden staffierten Rocaillewangen mit Querverbindung. Der rechteckige Plattensockel grau: violett marmoriert.—Notenheft und linker Zeigefinger bestofen.
+
+druckt bzw.geritzt:+52+IAF+3M +.Staffiererzeichen:HM. Hohe 18,5 cm. Tafel XIV.
+
+## 77DAMEBEIDERTOILETTE.
+
+Abwandlung des Motivs der Spinettspielerin. Sie sitzt ibereck auf dunkelbraunem,mit gelben Rundstaben verziertem, grungepolstertem Rokokostuhl,in der erhobenen linken Hand dicht am Kopf die Puderquaste,auf dem rechten Knie der geschweifte Spiegel,den sie mit der rechten Hand halt,um sich darin zu betrachten. Links neben ihr ein kleiner runder Tisch auf golden staffiertem,weifem Rocaillefuf mit grunbezogcner Platte,auf der eine geoffnete Puderdose, Schonheitspflaster und ein Spitzenband liegen. Sie tragt ein Spitzenhemd,blafpurpurne, golden gemusterte Taille,elfenbeinfarbenen Rock mit grofen bunten Blumen und einem Uberwurf in der gleichen Farbe mit purpurnem Blumenmuster. Die Schuhe graublau und golden, der rechteckige Plattensockel grau und purpurn marmoriert.-Tadellose Erhaltung.
+
+LUDWIGSBURG,UM 1765-70. Marke:Blaues DoppelC mit Krone.Eingeritzt:VOH N 102,ferner A.Hohe 19,8 cm.
+
+Tafel XIV.
+
+## 78 GROSSE GRUPPE:AMOR UND PSYCHE.
+
+Beide dicht nebeneinander stehend,im Begriff, sich zu kussen. Amor umfaft mit der Linken die Hufte der Psyche;in der Rechten halt er einen Becher.Psyche hat ihre rechte Hand auf die Schulter Amors gelegt;in der Linken halt sie ein Korbchen mit Wein trauben. Das Gewand der Psyche laBt den Oberkorper und das rechte Bein vorn frei und deckt gleichzeitig die BloBe Amors. Es ist gelb mit roten Streublumen und gelber Innenseite. Der rechteckige Steinsockel rotbraun und grun staffiert und mit grunem Moos belegt.-Rechter Arm Amors gekittet.
+
+LUDWIGSBURG,UM 1780. Marke:Blaues DoppelC mit Krone. Hohe 35 cm.
+## 79ORPHEUSGRUPPE.
+
+An ein Felspostament gelehnt steht Orpheus, die Leier spielend,die er an die rechte Schulter halt. Unten liegt der dreikopfige Cerberus, der mit cinem Strick an das Postament gebunden ist. Orpheus tragt eine violette,golden geranderte Draperie, die durch ein blausgoldenes Band an Schulter und Hufte gehalten wird. Die Leier gelb mit braunem Rand, das Postament grau, grunlich und rotlich getont, der Hollenhund rot braun, die Oberseite des quadratischen Plattensockels grau,die Kante golden.—Lyra und rechte Hand leicht repariert.
+
+LUDWIGSBURG,UM 1765. Marke: Blaues DoppelC mit Krone. Ritzzeichen:53, fernerFi:3 M.Rotes Staffiererzeichen SB.Hohe 25,7 cm.
+
+## 80 BALLETTGRUPPE:TANZER UND TANZERIN.
+
+Die Dame steht rechts vom Herrn. Beide heben ihren linken Arm mit lockerem Hand gelenk. Der Herr faBt mit der Rechten die rechte Hand der Dame am Rucken. Weste und Mieder mit Gold gemustert,im ubrigen blasses Purpurrosa, Elfenbeingelb, Blau, Rot. Ovaler Sockel mit purpurn und golden staffiertem Rocaillerand und grunbraun getupften Baumstumpfstitzen.
+
+LUDWIGSBURG,UM 1755-60. Marke:Blaues DoppelC mit Krone. Eingedruckt: CC 3 O,ferner 2.Malerzeichen Rotes S.Hohe 15,6 cm. Tafel XIII.
+
+## 81 BALLETTGRUPPE:TANZER UND TANZERIN.
+
+.Weste,Mieder und Schurze mit Gold staf= fiert, der Rock der Dame mit Purpurblumen. Im ubrigen Weif, Gelb, Hellblau und
+
+Ahnlich wie vorher,aber im Gegensinn. Blabpurpur. Sockel wie vorher.—Rechter Arm der Dame gekittet.
+
+LUDWIGSBURG,UM 1755-60. Marke:Blaues DoppelC mit Krone. Ritzzeichen: CC 3 O. Malerzeichen: Sr.in Purpur. Hohe 16,5 cm. Tafel XIII.
+
+## 82BALLETTGRUPPE:TANZ ZU DREIEN.
+
+In der Mitte eine Tanzerin,seitlich,in gezierter Haltung zwei Tanzer mit erhobenen Armen,unter denen das Madchen hindurchschreitet,indem es nach den freien Handen der Tanzer greift. Die mit Rosengirlanden umwundenen Ballettkostume weiB,blaf purpurn und elfenbeingelb mit braunroten Borten. Im Haar der Tanzer Lorbeerkranze mit roter Feder. Querovaler Sockel mit golden und purpurn staffierten Rocaillestitzen und Rocaillerand.—Ein Finger bestofen.
+
+LUDWIGSBURG,UM 1755-60. Marke:Blaues DoppelC mit Krone. Ritzzeichen: N.3. P. Malerzeichen:Rotes S. Hohe 15.8 cm.
+
+Tafel XIlI.
+
+## 83JAGERGRUPPE.
+
+Ein stehender Jager halt in beiden Handen den Lauf seines Gewehres, das mit dem Schaft auf dem Boden steht. Gegenuber sitzt ein Madchen mit einem Vogelbauer im linken Arm. Im Bauer ein weifer Vogel. Am Boden,zu Fufen des Jagers,ein sitzen der weiBer Jagdhund. Der Jager in grunem Hut, weiBer Jacke mit grinen Aufschlagen und goldenen Saumen,roten Hosen,weifen Strimpfen und schwarzen Stulpstiefeln. Das Madchen in beigefarbenem Hut mit roter Unterseite,in blafvioletter Jacke mit grunen Aufschlagen und goldenen Saumen, gelbem Rock mit blauer Borte und schwar
+zen Schuhen. Achtteiliger, braun und grin getupfter Sockel mit goldener Kante und golden staffierter Kartusche.- Hande des Madchens und rechter Daumen des Jagers repariert.
+
+LUDWIGSBURG,UM 1760-65.Marke:Blaues DoppelC mit Krone. Eingeritzt: C:Z:C, darunter:No 3. Malerzeichen:Rotes S. Hohe 13,5 cm. Tafel XVII.
+
+## 84 MINIATURGRUPPE:WIRTSHAUSSZENE.
+
+An einem Tisch sitzt ein Mann in gebickter Stellung, Arme und Kopf auf der Tischs platte. An einer Tischecke gegenuber steht ein zweiter Mann, der die Wirtin umarmt. Auf dem Tisch liegt eine Blutwurst, ein Brot, ein Teller mit Geflugel und ein Besteck. Die Manner in schwarzem Dreispitz, purpurn und gruin staffierten weifen Rocken, gelben Hosen und schwarzen Schuhen. Die Frau in weiBgoldener Haube, grunviolett gesaumtem Mieder und strohgelbem Rock mit griner Borte. Grun staffierter recht eckiger Plattensockel.
+
+LUDWIGSBURG,UM 1765. Marke:Blaues DoppelC. Hohe 8 cm. Tafel XVI.
+
+## 85 GROSSE GRUPPE:VENUS IN DER SCHMIEDE DES VULKAN.
+
+Der nackte,sitzende Vulkan halt in beiden Armen den Panzer, der rechts neben ihm auf dem Ambos ruht,und zeigt ihn Venus, die mit entbloftem Oberkorper vor ihm steht und ihn unterm Kinn kraut. Die Gottin halt mit der rechten Hand ihr Gewand,das vom Kopf zum Rucken herabfallt, vorn das linke Bein bedeckt und an der linken Hufte verknotet ist. Ein Putto halt sich im Lauf am Gewand der Venus fest und blickt bes wundernd zu ihr hinauf. Ein zweiter Putto drangt sich zwischen Venus und Vulkan,ein dritter,am Boden hinter Vulkan kniender,halt den Helm. Unterm linken Bein des Vulkan lehnt der ovale Schild. Neben dem Ambos liegen Hammer und Zange. Der rechteckige Felssockel graugrun getont, mit grinem Moosbelag.Linker Arm der Venus gekittet, die Enden der Zange bestofen.
+
+LUDWIGSBURG,UM 1770. Marke:Blaues DoppelC. Hohe 32,5 cm.
+
+## 86 ALLEGORISCHE GRUPPE:DIE VIER JAHRESZEITEN.
+
+Laube mit zwei sitzenden Frauen als ,Winter und ,Sommer" und zwei stehenden Mannern als ，Fruhlingund ,Herbst".Der ,Winter"in weifem,pelzverbramtem Kleid mit Kopftuch und gelben Schuhen,warmt die Hande iber einem Holzfeuer. Der ,Som= mer",mit Fruchten in der Schurze und in der linken Hand, sitzt auf einer Garbe; das barfuBige Madchen tragt ein dekolletiertes,purpurn staffiertes,weifes Kleid und gelben Hut mit purpurnem Band. Der ,Fruhling", als Gartner,halt cine Giefkanne in der weifes,purpurn staffiertes Kostum und schwarze Schuhe. Neben ihm Spaten,Blumen= strauf und Blumentopf. Der ,Herbst,als Winzer, steht mit dem rechten FuB auf einer Butte voll Weintrauben und schneidet die Trauben an der Laube. Er tragt einen gelben rechten, Blumen in der linken Hand; er tragt einen gelben Hut mit purpurnem Band, Hut mit rotbraunem Band,weifes Kostum mit purpurnen Saumen und schwarze Schuhe. In der Mitte des golden und purpurn staffierten runden Rocaillesockels ein verdorrter Baum,am Rand Moos und Blumenbelag. Die Laube weif,mit Gold und Grun; an einer Saule bunte Blumenranken.-Reparaturen an der Laube, einige Teile defekt.
+
+LUDWIGSBURG,UM 1765. Marke: Blaues DoppelC mit Krone. Eingeritzt IN M. Staffiererzeichen:HM in Purpur. Hohe 19,5 cm. Tafel XII.
+## MEISSEN
+
+(Nr.87bis 110)
+
+## 87ZUCKERDOSEMIT DECKEL.
+
+Niedrige,achteckige Form. Auf der gebauchten Wandung zwei bunte Chinesenbilder in goldener Umrahmung mit Listerfeldern und braun schattiertem,eisenrotem Laubwerk, dazwischen bunte indianische Blumen. Am Deckel bunte Chinesenfiguren,rotviolette Borte und Goldspitzenrand.Unterteil gekittet.
+
+MEISSEN,UM 1723. Marke:K.P.M.und Schwerter. Goldnummer 66. Durchmesser 11,2:8,5 cm,Hohe 7,5 cm.
+
+## 88EINSATZSCHALE.
+
+Mit schwach gewolbtem Boden und Einsatzring.Im Rundfeld des letzteren bunte FluB landschaft mit angelndem Fischer im Kahn und Pagoden am Ufer. Um den Einsatzring
+
+Goldborte,am Rand Goldspitzen,dazwischen bunte indianische Blumenzweige,ebenso auf der Ruckseite.——Stark gekittet.
+
+MEISSEN,UM 1725. Ohne Marke. Goldnummer 4. Durchmesser 15,7 cm.
+
+## 89-90 ZWEIHENKELLOSE KOPPCHEN MIT UNTERSCHALEN.
+
+Bemalt mit bunten Chinesenbildern in reicher VierpaBumrahmung mit Lusterfeldern, Goldspitzen und braun schattiertem,rotem Laubwerk. Im Boden bunte indianische Blumen.Goldspitzenborduren.
+
+MEISSEN,UM 1725-30. Ohne Marke. Goldnummer 43. Hohe der Koppchen 4,5 cm, Durchmesser der Unterschalen 12,5 cm.
+
+Tafel XVI!I.
+
+## 91 SPULKUMME.
+
+AuBen bemalt mit zwei bunten Chinesenbildern in geschweiften goldenen Rahmen mit Listerfuillungen und Laubwerk in Rot und Violett. Zwischen den Rahmen bunte in dianische Blumenstauden und Zaune. Im Boden entsprechendes Chinesenbild in ahn= licher Umrahmung. Am inneren Rand Goldspitzenbordure. Als Erganzung eines alteren Service aus den 1730er Jahren.
+
+Durchmesser 17 cm.
+
+## 92FLOTENFORMIGEVASE.
+
+Bemalt mit golden konturierter,scharffeuerblauer Blumenborte an der Mindung und bunten, aus luisterfarbigen Felsen wachsenden indianischen Blumenstauden, Zaunen,
+
+Vogeln und Schmetterlingen.
+
+MEISSEN,UM 1725-30. Papierdrachenmarke. Hohe 31,5 cm. Tafel xVIII.
+## 93 TISCHGLOCKE.
+
+Mit rot und schwarz staffiertem Kurhut am Griffende. Auf der Kuppel zwei grofere und zwei kleinere bunte Landschaften bzw. Seeprospekte mit Chinesenfiguren in zier lichen goldenen,z.T.lustrierten Goldrahmen, dazwischen rotes und violettes Laubwerk. Am Griff zwei entsprechende Seeprospekte. Fufrand vergoldet,innen Goldspitzen bordure.Holzkloppel.-Griff gekittet.
+
+MEISSEN,UM 1730-35.Ohne Marke.Hohe 13,5 cm. Tafel XVIII.
+
+## 94 TASSE MIT UNTERSCHALE.
+
+Hohe Becherform mit Doppelhenkel und Schnabelausguf. Unterschale mit zwei Spitz bogenhenkeln. Bemalung in dunklem Scharffeuerblau: Paonienstauden,Vogel und
+
+Schmetterlinge, Mosaikborten mit Sechseckmuster.
+
+MEISSEN,UM 1725-30. Marke AR im Doppelring. Hohe 8 cm, Durchmesser der Schale 14 cm.—Aus Sammlung Lanna,Versteiger.1909,Nr.1556. Tafel XVIlI.
+
+## 95 RAHMKANNE MIT DECKEL.
+
+Birnformig,mit reliefierten Blutenzweigen auf der Leibung und dem gewolbten Deckel, Jformigem,reliefiertem Barockhenkel und Schnabelausguf. Bluten und reliefierte Teile vergoldet. Am Hals kalligraphische Goldspitzen. Unterm Ausguf bunte Trophaen, zwischen den Henkelansatzen einzelne Blume.
+
+MEISSENER PORZELLAN,UM 1740. Schwertermarke. Sachsische Hausmalerei zwischen 1740-50.Hohe 16 cm.
+
+Tafel VI.
+
+## 96 KAFFEEKANNE MITDECKEL.
+
+Birnformig, mit vier kurzen, grun staffierten Zweigfufen und golden gehohtem, reliefiertem SchnabelausguB. Griff in Form gebundelter gruner Vergifmeinnichtzweige mit purpurnen Schleifen. Auf dem Korper naturlich staffierte,plastische VergiBmein nichtzweige mit blauen Bluten. In den Zwischenraumen schattenwerfende Kafer und Insekten. Gewolbter Deckel mit Vergifmeinnichtzweiggriff und einzelnen Kafern und
+
+Insekten.
+
+MEISSEN,UM 1745. Schwertermarke. Hohe 25 cm.
+
+## 97MOSTRICHKANNE MIT DECKEL.
+
+Birnformig, am Hals Osiermuster und Ausschnitt fur den Loffel. Ausguf in Form einer farbig staffierten bartigen Maske mit rotviolettem Diadem.Goldgehohter Barock henkel. Flacher Deckel mit naturlich staffierter Erdbeere als Knauf. Auf der Leibung umlaufender bunter Hafenprospekt mit Schiffen,Kaufleuten und Turken am Ufer. Auf dem Deckel zwei kleine bunte Hafenbilder.
+
+MEISSEN,UM 1740. Schwertermarke. Hohe 15 cm. Tafel VI.
+
+## 98 TELLER.
+
+Glatt, bemalt mit dem ,Roten Drachenmuster". Aus dem Sachsischen Hofservice. Am Rand bestofen.
+
+MEISSEN,ANFANG 19. JAHRHUNDERT. Schwertermarke. Durchmesser 22,4 cm.
+## 99 DESGLEICHEN.
+
+Kleiner,mit gewelltem Randausschnitt, aus dem gleichen Service.
+
+MEISSEN,ANFANG 19.JAHRHUNDERT. Schwertermarke.In schwarzer Schreib schrift:K.H.C. (Konigl.Hof=Conditorei.) Durchmesser 20,3 cm.
+
+## 100 BELTRAME. FIGUR AUS DER ITALIENISCHEN KOMODIE.
+
+Blumenbelag.-—Rechte Hand gekittet.
+
+Stehend,nach rechts gewandt,der rechte Arm gebeugt,die geoffnete Hand zur Seite g streckt, der linke Arm mit der schwarzen Kappe seitlich herabhangend. Gelbes Wams und gelbe Schuhe,weiBe Halskrause und weifer Mantel, schwarzer Gurtel mit Tasche, blafBpurpurne Pluderhosen. Schwarzer Vollbart. Weifer Natursockel mit buntem
+
+MEISSEN,UM 1745. Modell von Peter Reinicke 1743-44,mit der Serie der folgenden Komodienfiguren fur den Herzog von Weifenfels. Schwertermarke. Ritzzeichen:G. Hohe 13,1 cm.
+
+Tafel XIX.
+
+## 101DOTTORE.
+
+Aus der gleichen Folge wie die vorhergehende Figur. Stehend, die rechte Hand an der Hufte,der linke Arm seitlich nach oben gestreckt. Blaulila Rock mit Goldtressen und knopfen, schwarze Hosen, schwarzer Schlapphut und Mantel, weife Halskrause. WeiBer Natursockel mit buntem Blumenbelag.- Der rechte Arm gekittet, Hutrand repariert.
+
+MEISSEN,UM 1745. Modell von Peter Reinicke 1743/44. Schwertermarke. Hohe 14,7 cm.
+
+Tafel XIX.
+
+## 102SCAPIN.
+
+Aus der gleichen Folge wie die vorhergehenden zwei Figuren. Stehend, das rechte Bein rickwarts gesetzt,der Kopf rechts gewandt, der rechte Arm schrag seitlich gestreckt. Weifes Kostuim mit goldenen Knopfen, weiBer Mantel um die linke Schulter und die Huften.Schwarze Tuchkappe. Goldborten. WeifBer Natursockel mit buntem Blumen belag.-Finger der rechten Hand repariert.
+
+MEISSEN,UM 1745. Modell von Peter Reinicke 1743/44. Schwertermarke.Hohe 13 cm. Tafel XIX.
+
+## 103PANTALONE.
+
+Aus der gleichen Folge wie die vorhergehenden drei Figuren. In schleichender Bewegung, die linke Hand am Ricken unter dem schleppenden schwarzen Mantel,die rechte Hand erhoben. Schwarze Kappe, weiBer Kragen, rotes Wams und rote Hosen, Dolchmesser am Gurtel, gelbe Schuhe. Weifer Natursockel mit buntem Blumenbelag.
+
+MEISSEN,UM 1745. Modell von Peter Reinicke 1743/44. Schwertermarke. Hohe 13,5cm.
+
+## 104 GRUPPE:HARLEKIN UND MADCHEN MIT PAPAGEIEN.
+
+Das am Boden sitzende Madchen reicht einem Papagei auf dem Baum Kirschen, die sie dem Korb auf ihrem Schof entnommen hat. Rechts von ihr ein ovaler Tisch mit sitzen=
+dem Papagei. Hinter dem Madchen steht ein Harlekin in grotesker Haltung mit zwei Kirschen in der erhobenen linken Hand. Das Madchen tragt ein weifes, mit bunten BlumenstrauBen gemustertes Kleid mit taubengrauer Innenseite und gleichfarbigem Bes satz; der Harlekin ein halb weiBes,halb strohgelbes Kostum mit purpurnen Knopfen und Borten,blafpurpurnen Spitzhut und eine Pritsche im taubengrauen Gurtel. Weifer, ovaler Sockel mit grunem Blattbelag.Rechter Fuf des Harlekin repariert, Blatter am
+
+Baum z.T.bestoBen.
+
+MEISSEN,UM 1745-50. Ohne Marke. Hohe 17,5 cm.
+
+Tafel XIX.
+
+## 105-106 ZWEIKAVALIERE ALS,VENEZIANISCHE MASKEN".
+
+Gegensticke. Beide mit schwarzem Dreispitz,weifer, bis zum Mund reichender Halb maske und weifem,weitarmeligem Mantel mit grinen Rosetten und Goldspitzen, dar= unter das Kavalierskostum. Nr. 106 tragt eine mit Goldspitzen verzierte weiBe Kapuze und weife Stulphandschuhe. Flache weiBe Lebkuchensockel.- Beide rechte Arme gekittet,einige Finger bestoBen.
+
+MEISSEN,UM 1740. Ohne Marke. Unterm Sockel von Nr. 105 in schwarzer Schrift: K.H.C.(Konigl.Hof=Conditorei). Hohe 15,5-16 cm. Tafel XIX.
+
+Der Ochs liegt mit dem Kopf am Boden,der eine Hund hat ihn am Genick,ein anderer am Ruckgrat hinten gepackt, der dritte an der Seite verbellt ihn. Der Ochs und der eine Hund weif mit braun gestrichelten Flecken, die beiden andern Hunde schwarz bzw.grau gefleckt.Ovaler weiBer Natursockel mit buntem Blumenbelag. - Verschiedene Reparaturen.
+
+MEISSEN,UM 1745-50.Schwertermarke.Hohe 10,6 cm.
+
+Tafel XVII.
+
+## 108SCHAFERIN.
+
+Stehend,nach links gewandt,in der rechten Hand eine (abgebrochene) Blume,in der linken die geraffte Schurze voll bunter Blumen. Zu ihren FuBen ein ruhendes Schaf. Sie tragt weifes Kopftuch, purpurrosa und weif gestreiftes Kleid mit buntem Dreiblatt muster und rosa Schuhe. Golden staffierter bewegter Rocaillesockel mit grunem Baum. MEISSEN. Modell von Kandler, UM 1755. Ausformung und Bemalung etwa zwei Jahr= zehnte spater. Marke: Schwerter mit Punkt. Eingedruckte Formennummer: 1.F.
+
+Hohe 26,5 cm.
+
+## 109 SITZENDER JUNGER MANN MIT DREI JAGDHUNDEN.
+
+Violette Jacke und Kniehosen,bunt geblumte,golden staffierte weife Weste, schwarze Schuhe mit gelben Rosetten, hechtgrauer Hut mit gelber Schleife und Rosette. Die Hunde grau und braun gefleckt. Grunlicher Felssockel mit durchbrochenem,golden staffiertem weifen Rocaillerand.-Zugel der Hunde defekt.
+
+MEISSEN,ENDE 18. JAHRHUNDERT. Modell von Chr.Punct. Marke: Schwerter mit Stern und zwei Strichen.Hohe 15,6 cm.
+## 110 KLEINER KNABE ALS GARTNER.
+
+Schreitend,in der Rechten einen Blumenkorb,in der erhobenen Linken eine (abge brochene) Blume haltend. Strohgelber Hut mit violettem Band, griner Rock mit gelben Aufschlagen,goldenen Knopfen und purpurnen Schleifen,violett estreifte weiBe Weste, gruine Hosen mit bunten Blumen, die Beine blof. Golden staffierter weifer Rocaillesockel mit buntem Blumenbelag.-Hutkrempe und Schleifen repariert.
+
+MEISSEN,MITTE 18.JAHRHUNDERT. Schwertermarke.Eingeritzt:14.Hohe 13 cm.
+## NYMPHENBURG
+
+(Nr.111bis112)
+
+## 111DECKELTASSEMITUNTERSCHALE.
+
+Der Tassentopf mit geflochtenem Zweighenkel. Der Deckel mit aufgelegtem, bunt staffiertem Blumenzweig. Tasse und Unterschale mit Monogramm LP in Gold mit bunten Blumen,ringsherum bunte Streublumen. Alle drei Teile mit goldener Flecht borte.-Deckel gesprungen.
+
+NYMPHENBURG,UM 1780. Marke:Eingedrickter Rautenschild. Hohe der Tasse mit Deckel 9,5 cm,Durchmesser der Unterschale 13,5 cm.
+
+## 112 TIERHATZGRUPPE:LEOPARD,VON DREI HUNDEN UBERFALLEN.
+
+Der Leopard liegt auf dem Rucken; der cine Hund unter seinem Kopf packt ihn in der Flanke,der zweite am Nacken,der dritte,von den Pranken des Raubtieres umklammert, an der Kehle. Der Leopard braun, die Hunde grauviolett gefleckt bzw.rotlichbraun. Weifer ovaler Steinsockel mit hohlen grasbewachsenen Baumstumpfen,gruner Gras= flache,Stein= und Grasbelag.—Sockel und verschiedene GliedmaBen repariert.
+
+NYMPHENBURG,UM 1765-70. Modell von Auliczek.Marke:Eingedrickter Rauten schild. Eingeritzt:D I H. Hohe 11,5 cm,Lange 22 cm.
+
+Tafel XVIl.
+## 113GOBIEL.
+
+Figur aus der italienischen Komodie. Stehend, die linke Hand seitlich erhoben,die rechte Hand am Gurtel,in dem das Dolchmesser steckt. Das Kostum weif mit schmalen und breiten gruinen Streifen. Sockel und Baumstumpfstutze weif.-Linke Hand erganzt. Sockel bestofen.
+
+<!-- formula-not-decoded -->
+
+Tafel VIII.
+
+## 114KLEINERCHINESENKNABE.
+
+In leicht gebickter Stellung,mit der linken Hand den Rock hebend,um seine Notdurft zu verrichten. Am kahlen Kopf drei Haarbischel. Blau gegurteter weiBer Rock mit goldenen Spitzen. Innenseite strohgelb. Rote Stiefel,weifer Sockel.
+
+VEILSDORF, UM 1775-80. Nach Hochster Modell. Ohne Marke. Eingeritzt:P.
+
+Hohe 11,5 cm.
+
+## VEILSDORF
+
+(Nr.113bis114)
+## 115PIERROT.
+
+Stehend,im linken Arm einen grunen Topf mit Fruchten,in der rechten Hand einen goldenen Loffel haltend, den er in den Topf steckt. Kappe und Kostum weif mit goldenen Schellen und roten Borten,braune Schuhe. Achteckiger weiBer Sockel.
+
+WIEN,VOR 1749. Marke:Eingedruckter Bindenschild und D. Hohe 10,7 cm.
+
+Tafel XVI.
+
+## 116DUDELSACKPFEIFER.
+
+In gezierter Haltung stehend,vor der Brust der Dudelsack,unterm linken Arm der blaB grune Hut. Er tragt eine blaBpurpurne Jacke, daruber eine kurze gefleckte weiBe Fell weste, strohgelbe Kniehosen und schwarze Schuhe. Weifer Rocaillesockel mit gelbgrun getonter Felsstitze. Zwei Finger der linken Hand bestofen, Sockel brandrissig.
+
+WIEN, UM 1760-65. Marke:Blauer Bindenschild. Blindstempel des Bossierers:P. Hohe 17,8 cm.
+
+## 117-118 SCHNITTER UND WINZERIN.
+
+Als ,Sommer"und ,Herbst". Beide stehend. Der Mann halt im linken Arm eine Korn garbe, in der linken Hand ein Nest mit zwei Vogeln; auf seiner rechten Hand sitzt ein einzelner Vogel. Als Stutze dienen zwei Garben; zwischen den Fufen liegen einzelne Ahren. Er tragt einen breitkrempigen grungelben Hut mit schwarzem Kinnband, blaf purpurnen Rock, grune Weste mit purpurner Ornamentborte, eisenrote Kniehosen und schwarze Schuhe. Das Madchen schultert mit der rechten Hand eine Pritsche,in der gesenkten rechten Hand halt sie Weintrauben; am Boden eine Butte und darauf ein Korb voll Weintrauben. Es tragt einen grunen Filzhut mit angesteckter Traube, blaB purpurnes Mieder mit plissiertem weiBen, von goldener Spitze eingefafBten Einsatz, strohgelben Rock mit zwei Reihen verschlungener seegruner Bandgirlanden mit purs purnen Schleifen und Rosetten, schwarze Schurze und blaBpurpurne Schuhe mit gelben Rosetten. Weifer unregelmaBiger Sockel. - Hutkrempen beider Figuren repariert,
+
+Pritsche und rechte Hand des Madchens gekittet.
+
+WIEN,UM 1760-65. Marke: Blauer Bindenschild. Blindstempel des Bossierers: F. Hohe beider Figuren 17 cm. Tafel XX.
+
+## 119GARTNER.
+
+Als ,Fruhling, zur gleichen Folge gehorig, wie die beiden vorhergehenden Figuren. Stehend, die rechte Hand am Rand eines holzernen Blumenkubels, der auf dem Griff eines groBeren Pflanzenkubels am Boden ruht. In der linken Hand halt er einen Blumens strauB. Er tragt einen grunen Hut, strohgelben Rock mit blaBpurpurnem Besatz,weiBe Weste mit Goldknopfen,hellgrinen Schurz, rote Kniehosen und schwarze Schuhe.
+
+WeiBer Felssockel mit bunt staffiertem Blumenbelag.
+
+WIEN,UM 1760-65. Marke: Blauer Bindenschild. Rote Staffierernummer 13. Hohe 16,8 cm.
+
+## WIEN
+
+(Nr.115bis120)
+## 120SCHMIED.
+
+Neben dem Ambos stehend,auf den sich die rechte Hand mit dem Hammer stitzt. Die Linke halt eine Zange. Der Blasebalg (?) am Holzblock abgebrochen. Blaulichgrauer Rock mit violetten Schnuren,blaBgrine Schurze an weifrotem Gurtel,rote Kniehosen, schwarze Schuhe.Geschweifter weiBer Sockel.
+
+WIEN,UM 1760-65. Marke:Blauer Bindenschild. Blindstempel des Bossierers:O. Violette Staffierernummer 13.Hohe 15,9 cm.
+
+TafelXX.

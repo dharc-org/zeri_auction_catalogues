@@ -1,0 +1,1727 @@
+<!-- image -->
+
+## Porzellan-Figuren und Gefasse, Tassen, Teller etc.
+
+1. Gruppe drei musizierender Amoretten, auf Sockel mit schoner Bemalung. Schwerter-Zeichen.
+2. 2.Minerva auf massivem blauem Sockel, reich mit Gold. Schwerter-Zeichen.
+3. 3.Huhnergruppe auf Sockel, in sehr farbenreicher Bemalung. Schwerter-Zeichen.
+4. 4.Gottin in orientalischem Kostim,auf liegendem Kamel sitzend,halt Rauchfass und Zepter. Reich bemalt. Schuwerter-Zeichen.
+
+5.Spielergruppe in Rokoko-Kostim.
+
+Schwerter-Zeichen.
+
+- 6.Liebespaar auf grinem Sockel. Mann musizierend,an der Rickseite ein schlafender Knabe. Farbig. Hochst.
+- 7.Liebesstreit. Mutter,Tochter und junger Mann,oben ein Amor. Schwerter-Zeichen.
+- 8.Drei arbeitende Bergleute. Schwerter-Zeichen.
+- 9.Kleine Baumgruppe mit Liebespaar und Amoretten. Schwerter-Zeichen.
+- 10.Tiergruppe mit Landleuten in Rokoko-Kostim, schon bemalt. Schwerter-Zeichen.
+11. Drei Kinder an einem Baum spielend, mit Hund. Schwerter-Zeichen.
+- 12.Amor mit Pfeil-Kocher an einer Saule stehend. Schwerter-Zeichen.
+13. Gruppe. Ein tanzendes Paar in Rokoko. Mann Flote blasend. Fulda.
+- 14.Familiengruppe auf Sockel. Spielende Knaben an einem Tische in Rokoko und reicher Bemalung.
+- 15.Amorette,einen Vogel in Kafig einlassend.
+- Schwerter-Zeichen.
+- 16.Grosse Bechertasse mit Unterteller. Auf blauem Grunde emailartige Lilien,in Mitte ein Medaillon mit niederlandischer Malerei. Hervorragendes Stuck. Sevres.
+- 17.Ein Paar Leuchter, Faune,reich in Bronze.
+- 18.Kleiner Trauben essender Knabe.
+
+Schwerter-Zeichen.
+
+19. Mandolinspielerin.
+2. Berlin.
+20. Mannliche Figur. Dudelsackblaser.
+4. Berlin.
+5. 21.Desgleichen. Flotenblaser.
+22. Sitzender gefleckter Pudel.
+
+Frankenthal.
+
+- 23.Grosse Amorettengruppe.Mann und Frau trinkend und musizierend; spielende Amoretten.Schonste Bemalung.
+
+Schwerter-Zeichen.
+
+Hohe 37cm.
+
+24. Grosse Tasse mit Unterteller.Reiche Blumenbemalung.
+2. Schwerter-Zeichen.
+25. Baumgruppe. Am Sockel zwei Figuren, auf dem Baum ein sitzender Knabe. Schuerter-Zeichen.
+4. 26.Kieine Gruppe, den Winter darstellend. Schwerter-Zeichen.
+27. Grosse Vogelgruppe, zwei Eulen.
+
+Schwerter-Zeichen.
+
+- 28.Ein Paar chinesische Vasen mit figuirlichen Darstellungen.
+29. Stehende Figur, Schaferin mit Lamm. Schwerter-Zeichen.
+30. Betender Knabe.
+
+Damm.
+31. Gruppe orientalischer Pferdebandiger.
+
+Hohe 27 cm, Schwerter-Zeichen.
+
+- 32.Desgleichen. Hohe 27 cm. Schwerter-Zeichen.
+33. Kleine Schale in Cloisone mit Bronzefassung.
+- Christophle.
+- 34.Bronze garnierte Schale mit Watteau-Gemalde.
+- 35.Grosse Bechertasse mit Deckel,blauem Grund,Vorderseite Schwanen.
+- 36.Zuckerdose mit erhabenem Vergissmeinnicht.
+- Schwerter-Zeichen.
+- 37.Desgleichen. Miterhabenen Blumen.
+38. Desgleichen. Mit erhabenen Blumen.
+- 39.Porzellandose mit Bronzegarnierung. Deckel innen reich bemalt mit Blumenkorb,
+- auf demselben eine erhabene Rosenknospe. Ganz hervorragendes Stuck.
+- 40.Kleiner Amor auf Sockel mit Eule.
+- Schwerter-Zeichen.
+41. Liebespaar an einem Tische Wein trinkend. Schwerter-Zeichen.
+- 42.Schale mit Aufsatz.
+- Grund grin bemalt,mit erhabenen farbigen Blumen. Schwerter-Zeichen.
+- 43.Fruhstickservice,bestehend aus Platte,Thee- und Rahmkanne,Zuckerdose und Grund blau,mit Gold emailartig verziert.Reiche niederlandische
+- zwei Tassen. Malerei. Sevres.
+- 44 und 45. Zwei Bechertassen,blau mit Gold,mit Medaillons, welche Ansichten von
+- Versailles darstellen. Seeres.
+46. Jagdgruppe. Hohe 25 cm. Schwerter-Zeichen.
+- 47.Porzellan-Pendule auf Sockel,auf der Vorderseite die vier Jahreszeiten als Amoretten. Sockel und Uhr reich mit erhabenen farbigen Blumen verziert. Hohe mit Sockel 65 cm. Sehucerter-Zeichen.
+- 48.Schafergruppe.
+
+Schuwerter-Zeichen.
+49. Ein Paar Vasen mit erhabenen Blumenverzierungen, Medaillon mit Schaferscenen. Schwerter-Zeichen.
+50. Knabe an einem Baume.Rokoko. Schwerter-Zeichen.
+51. Schreibzeug, einen grotesken japanischen Lowen darstellend. Fayence.
+4. 52.Weisser Elefant,auf Broncesockel.
+53. Heraldischer Lowe,auf Sockel mit erhabenen Blumen.
+54. Gruppe, Jager, Jagerin, bunt bemalt. Ludrigsburg.
+7. 55.Arbeitender Bauer,bunt bemalt. Meissen.
+56. Mannliche Figur mit Vogelkafig,bunt bemalt. Ludwigsburg.
+9. 57.Amor,sitzend, Schild mit Blumenguirlande haltend.
+58. Kaffee-Rahm-Kanne mit figirlichen Darstellungen. Wien.
+11. 59.Zuckerdose,rund mit Ansichten. Firstenried.
+12. 60.Kleines Korbchen,Rand mit erhabenen Blumenguirlanden bunt bemalt. Meissen.
+61. Jagdgruppe, Jager und Jagerin an einer Pyramide. Frankenthal.
+14. 62.Gruppe, die vier Jahreszeiten. Ludwigsburg.
+15. 63.Vogelgruppe,auf Baumasten sitzende Vogel. Meissen.
+64. Sitzender Mann,Rokoko-Kostum mit Hund. Wien.
+17. 65.Figur, ein Tambour.
+18. 66.Desgleichen, ein Grenadier.
+67. Desgleichen,sitzender Mann lesend. Wien.
+20. 68.Chinese, Guitarre spielend, bunt. Hohe 23 cm. Berlin.
+69. Chinesin, Leyer spielend, bunt. Hohe 23 cm. Berlin.
+2. 70.Kindergruppe, in Rokoko-Kostim,bunt. Wien.
+3. 71.Indianer,Affen mit Kocher. Hohe 25 cm. Berlin.
+72. Bavaria, Gruppe auf reich verziertem Sockel und Rocaille-Verzierungen. Die Bavaria
+5. mit dem Lowen in liegender Stellung und dem bayrischen Wappen. Meissen.
+73. Gruppe, Konigin mit den Tributen der Kunste und Wissenschaften,an ein Pferd
+7. gelehnt. Meissen.
+8. 74.Tasse, blau mit Gold und Untertasse,mit je zwei Medaillons,Ansichten koniglicher
+9. Schlosser. Berlin.
+10. 75.Grosse Bechertasse mit Untertasse, blau mit Gold und einem Medaillon. Portrat einer
+11. jungen Rokokodame. Minchen.
+12. 76.Pagode,beweglich,reich in dunkler Bekleidung. Hohe 35cm. Meissen.
+13. 77.Desgleichen.
+78. Gruppe, die Entfihrung der Europa. Bekannte Stellung mit Stier.
+15. Sehwerter-Zeichen.
+16. 79.Ein Paar Vasen, Urnenform, blau mit Guirlande und Medaillons, worauf Kinder-
+17. gruppen nach Boucher gemalt. Berlin.
+18. 80.Schmuckdose,Portechaise blau in Gold mit Lilienwappen und Amoretten.
+81. Madchen mit zerbrochenem Krug in bunter Kleidung. Damm.
+20. 82.Amor und Psyche,reieh,bunt bemalt.
+21. Hohe 26cm. Schwerter-Zeichen.
+83. Gruppe, zwei spielende Knappen.
+84. Mannliche Figur in Rokoko, Guitarre spielend Schwerter-Zeichen.
+- 85.Liegender Knabe mit Fisch und Krebs,bunt. Berlin.
+86. Desgleichen mit Vogel. Berlin.
+87. Gruppe. Indischer Elefant mit Kriegern auf der Jagd, in reicher Ausstattung. Hohe 38 cm,Breite 26 cm. Schaverter-Zeichen.
+- 88.Pagode, beweglich,reich, bunt. Schwerter-Zeichen.
+- 89.Desgleichen.
+- 90.Liebespaar in Rokoko-Kostim,bunt bemalt. Schwerter-Zeichen.
+- 91.Harlekin in grazioser Stellung,reich kostimiert.
+92. Reiter mit springendem Pferde, auf Sockel, Kostum Louis XIV.,reich bemalt. Schrwerter-Zeichen.
+- 93.Heertrompeter in blauem Kostim. Schuwerter-Zeichen.
+- 94.Amor mit Fackel auf Sockel. Schirerter-Zeichen.
+- 95.Figur,bunt bemalte Gartnerin. Hochst.
+- 96.Dudelsackblaser in buntem Rokoko-Kostim.
+- 97.Tiergruppe.Verfolgung eines Stiers durch Hunde auf einem mit erhabenen Blumen
+- belegten Sockel, bunt. Meissen.
+- 98.Tasse mit Untertasse,Landschaft. Schwerter-Zeichen.
+99. Bunte Kindergruppe, mit Hund und Sehafen spielend. Schwerter-Zeichen.
+- 100.Desgleichen,spielende Kinder,reich in Rokoko-Kostim. Sehwerter-Zeichen.
+- 101.Zwei Teller,rund,blauer Rand,mit erhabenen Goldarabesken emailartig,mit Gold-
+- Cartouchen,in der Mitte auf weissem Grunde die Portrats von ,Louis XVI.und ,Marie Antoinette",signiert ,,Leber" Sevres.
+- 102.Zwei Teller, durchbrochen, blau,in der Mitte Medaillons mit Rokokofiguren, auf dem Rande je 3 farbige Blumenbouquetts. Meissen.
+- 103.Ein Teller, durchbrochen,rund, blauer Rand mit erhohten Gold-Cartouchen,in
+- der Mitte Konig Ludwig XV.in stehender Stellung. Kabinetstick. Berlin.
+104. Grosse Schale, reich vergoldet, mit Karyatidenhenkel, in drei Feldern, mit Darstellungen von:,Einzug Louis XIV. in Dunkirchen 26.Juni 1653",Promenade Louis XIV.in seinen Garten von Versailles" und ,Ludwig XIV. als Imperator auf
+- dem mittleren vorderen Medaillon.Kabinetstick I. Ranges. Berlin.
+105. Gruppe chinesischer Kinder,reich bemalt.
+- Schwerter-Zeichen.
+- 106.Kindergruppe, die finf Sinne darstellend.Reizende Ausfihrung.
+- Schwerter-Zeichen.
+- 107.Frau mit Amor, ein Buch haltend.
+- Meissen.
+- 108.Papagei, auf hohem Sockel,grin bemalt.
+- Meissen.
+109. Schaferin mit Schaf und Blumen,bunt. Meissen.
+110. Weibliche Figur in Rokoko, bunt. Meissen.
+
+111.Amorettengruppe mit Pyramide und Medaillons, diverse Kinste darstellend,bunt bemalt.
+
+Schuwerter-Zeichen.
+
+- 112.Vogelgruppe mit erhabenen Verzierungen.
+- Schwerter-Zeichen.
+- 113.Figur,arbeitender Bauer.
+- Meissen.
+114. Spitzenfigur,Mandoline spielend,bunt.
+- Berlin.
+115. Figur,kleine Bauerin mit Vogel.
+- Ludwigsburg.
+- 116.Desgleichen,trinkender Knabe,blau. Berlin.
+- 117.Desgleichen, tanzendes Madchen,bunt.
+118. Jagergruppe, gross,auf Sockel mit erhabenen Blumen. 4 Figuren und 2 Hunde.
+119. Gruppe, die Neugier darstellend. Zwei weibliche Figuren in fliegenden Gewandern eilen zu zwei Amoretten,welche eine goldene Schale halten. Schwerter-Zeichen.
+120. Gruppe, zwei spielende Knaben.
+121. Kleines Rauchergefass auf Fuissen. Mit Blumen und figiirlichen Darstellungen. Berlin.
+122. Tasse mit Papageien bemalt, grine Einfassung und Goldrand. Sevres.
+4. 123.Ein Paar chinesische Vasen mit vergoldeten Henkeln,bunt bemalt. Hohe 31 em.
+5. 124.Figur,Jagerin mit Hund, in griinem Kostim.
+6. Schwerter-Zeichen.
+7. 125.Ein chinesischer Flacon mit Stopsel,reich bemalt.
+126. Ein Flacon, sitzender Hund in Bronze gefasst.
+127. Ein Paar Leuchter, cloisonne, Rebhuihner in Bronzefassung.
+128. Amorettenzug, vierspannig, der Wagen eine Porzellan-Muschel in ganz reicher Bronzeverzierung.
+129. Fruhstick-Service, Platte mit Kaffee-und Rahmkanne,Zuckerdose und zwei Tassen. Grund durchaus vergoldet mit gemalten Blumen-Bouquetts. Schwerter-Zeichen.
+130. Desgleichen, dieselben Sticke. Grund rosa, Medaillons mit Amoretten und Blumen bemalt. Defekt.
+13. 131.Schmuckschale auf Bronzefuss. Das Innere derselben enthalt Darstellungen aus
+14. Tannhauser,Tod der Elisabeth,Tannhauser im Venusberge.Prachtvolle Malerei. Fuss aus vergoldeter Bronze,feinste Ziselierarbeit,drei Nymphen tragen die Schale,auf dem Boden des Fusses liegen Schnecken und Muscheln. Schale zersprungen.
+15. 132.Ovale Jardiniere, rosa Grund,Klein Trianon.
+16. 133.Desgleichen, rosa Grund,Orangerie in Versailles
+134. Desgleichen, blau Grund, mit Ansichten von Versailles.
+18. 135.Desgleichen,
+19. 136.Tasse mit Untertasse,mit Portrats Louis XVl.und Marie Antoinette.Vorderseite
+20. verschlungenes Sevres-Zeichen mit Krone in Gold,blauer Grund.
+21. 137.Desgleichen, blauer Grund mit Medaillons und Blumen. Sevres.
+22. 138.Desgleichen,blauer Grund mit Portrat Lavalliere,Goldfassung.
+23. Sevres.
+139. Trinkender Zecher,auf Stuhl sitzend.
+25. Schwerter-Zeichen.
+140. Rauchergefass auf Fissen, blau.
+141. Sitzender Chinese in roter Bekleidung,einen Affen haltend. Sehwerter-Zeichen.
+3. 142.Ein Paar Leuchter,weibliche Tritonen auf Sockel,den Leuchter tragend,bunt
+4. bemalt,mit erhabenen Verzierungen. Hohe 30 cm. Schwerter-Zeichen.
+143. Gruppe Afrika, ein Indier in phantastischer Kleidung,in der Hand eine Frucht
+6. haltend,auf einem liegenden Lowen. Hohe 30 cm. Schwerter-Zeichen.
+7. 144.Desgleichen, sitzender Chinese mit Kind in reich bemaltem Kostim. Schuerter-Zeichen.
+8. 145.Tasse mit Uutertasse,reich vergoldet mit Fussen. Auf der Vorderseite ovales
+9. Medaillon mit Jagdgruppe aus der Zeit Louis XIV. Sehr interessantes Stuck. BayrischeManufakturNymphenburg.
+146. Ein Paar kleine Vaschen auf Fussen,in reicher durchbrochener Bronzegarnierung mit Blumenmalerei.
+11. 147.Gruppe,Amerika",sitzende Indianerin,aufKrokodil ruhend,mit Fullhorn und Papagei. Schwerter-Zeichen.
+148. Jagdgruppe, auf rundem Sockel ein Jager und zwei Hunde. Schwerter-Zeichen.
+13. 149.Amorettengruppe, den Sommer darstellend.
+14. Schwerter-Zeichen.
+150. Spitzendame an einem Toilettetische sitzend,in reich bemaltem Gewande. Schwerter-Zeichen.
+151. Amor auf Sockel,Pfeil schleifend. Schuwerter-Zeichen.
+17. 152.Desgleichen,Pfeil feilend. Schwerter-Zeichen.
+
+153.Desgleichen, Pfeil glihend.
+
+Schwerter-Zeichen.
+
+- 154.Juno in Wolken,auf dem Sockel zwei farbige Amoretten. Hohe 30 cm. Schwerter-Zeichen.
+- 155.Krieger mit Helm, auf Sockel sitzend,reich bemalt
+- Berlin.
+156. Weibliche Figur auf Sockel sitzend.Pendant zu Nr. 156. Berlin.
+157. Gruppe ,Amerika",Indianer in phantastischer Kleidung iber ein Krokodil schreitend.
+2. Berlin.
+3. 158.Priesterin in reich drapierter Kleidung,einen Elefantenzahn haltend,am Sockel
+4. ein sitzender Amor. Berlin.
+5. 159.Gruppe spielender Amoretten mit Traubenguirlanden, farbig. Sehuerter-Zeichen.
+160. Tasse mit Untertasse,mit Frichten und Blumen bemalt, Goldrand. Meissen.
+161. Grosse japanische Vase, blau mit Gold, Blumen und Landschaft. Hohe 45cm.
+8. 162.Fruhstick-Service,Platte,Thee- und Rahmkanne,Zuckerdose,eine Tasse,reich
+9. mit Blumen bemalt,Goldrand. Sehawerter-Zeichen.
+10. 163.Kleines Pudertopfchen mit Deckel,bunt bemalt. Sevres.
+164. Chinesischer Flacon mit Stopsel, bunt.
+12. 165.Amorettengruppe mit Baum, bunt bemalt.
+13. Wien.
+166. Gruppe,arabisches Pferd mit Kriegstrophaen, farbig.
+15. 167.Knabe in buntem Rokoko-Kostim. Schwerter-Zeichen.
+16. 168.Madchen mit Blumenkorb,bemalt. Meissen.
+169. Gruppe,Affe an einem Baum sitzend und Obst verzehrend.
+18. Schwerter-Zeichen.
+19. 170.Ein Paar Leuchter, die vier Jahreszeiten darstellend, Sockel reich mit bunten,erhabenen Blumen verziert. Hohe 30 cm. Schwerter-Zeichen.
+20. 171.Eine Figur,bunt.
+21. 172.Schmuckschale mit Fuss. Runde Platte in 6 Medaillons mit Szene aus den Nibe-
+22. lungen,in reizender Ausfuhrung gemalt. Durchmesser 35cm.
+23. 173.Knabe mit einem Bock, bunt.
+24. 174.Knabe, Fische aus einem Netze ziehend, bunt. Schwerter-Zeichen.
+25. 175.Frihstuck-Service, Platte,Thee- und Rahm-Kanne, Zuckerdose und zwei Tassen. Grund blau,reich vergoldeter Rand und Einfassung,Vorderseite mit Medaillons,
+26. ebenso die Platte,mit reizenden Malereien in Bouchers Manier.
+
+Sevres.
+176. Ein Paar Vasen mit Deckel, blau in grin, maurisch.
+2. 177.Desgleichen mit durchbrochenem Deckel,blau Grund mit Gold,auf beiden Seiten
+3. Medaillen mit perlartiger Einfassung, mit gemalten Kindergruppen. Sevres.
+178. Ein Paar chinesische Leuchter und eine Uhr,Elefanten bilden die Trager, reiche
+5. Bronzegarnierung,bunt.
+179. Rauchergefass auf drei Fussen,mit Deckel, eiformig,mit hibschen Amoretten-
+7. gruppen bemalt. Berlin.
+180. Bechertasse mit Untertasse, Grund tiefblau,Vorderseite in emailartiger Einfassung, Medaillon mit reizender Malerei a la Watteau,Untertasse mit reichen Blumen-
+9. bouquetts bemalt. Sevres.
+10. 181.Kindergruppe, Kamin auf einem Sockel, auf welchem sich ein Knabe Thee bereitet. Schwerter-Zeichen.
+11. 182.Runder durchbrochener Teller mit Frichten und Blumen in ganz feiner und er-
+12. habener Form,bunt bemalt. Beste Ausfihrung. Meissen.
+183. Grosser Elefant,gesattelt und bemalt.
+14. Hohe 37 cm,Lange 40 cm.
+184. Tasse mit Untertasse, blau mit Gold, Medaillons mit Ansichten von Rossny und Chantillys. Sevres.
+16. 185.Amorettengruppe, bildende Kinste darstellend, in reizender Ausfuhrung,bunt. Schwerter-Zeichen.
+186. Grenadier in Ausruistung. Meissen.
+18. 187.Tambour in Ausristung. Meissen.
+188. Gruppe, ein bekleideter Amor auf einem Sockel sitzend,halt in der Hand ein Buch und belehrt drei Madchen,bunt bemalt. Schwerter-Zeichen.
+189. Ein kleines Madchen in bunter Kleidung, einen grossen Krug haltend. Hochst.
+190. Tasse mit Deckel,zwei Henkeln und Untertasse,blauer Grund mit Gold.Rundung der Tasse mit reizenden Amorettengruppen,Henkel und Knopf des Deckels vergoldet.
+191. Schafergruppe auf Sockel. An einem Baum steht ein Liebespaar, daneben liegen auf dem reich verzierten Sockel Schafe,bunt.
+192. Tasse mit Untertasse, Grund weiss mit Gold,und figirlichen Darstellungen. Henkel gewunden. Wien.
+2. 193.Kleine Gruppe, Knabe als Gartner, bunt. Schwerter-Zeichen.
+194. Gruppe,Amor mit Kocher auf einem Centauren reitend,bunt bemalt. Schwerter-Zeichen.
+195. Kinder-Gruppe, spielende Kinder an einem Guckkasten in farbigem Kostim. Berlin.
+196. Ein Paar Schwane, weiss, auf griinem Sockel.
+6. Hohe 34 cm,Lange 27em. Schawerter-Zeichen.
+7. 197.Ein Paar Vasen,auf dem Sockel stehende Figuren an Fillhorner gelehnt, Grund
+8. blau mit Goldkrone. Hohe 27 cm.
+198. Kleiner Elefant, farbig mit gelber Decke.
+199. Ein Paar weibliche Busten auf Postament. Schwerter-Zeichen.
+200. Ein Paar behelmte Bisten auf Postament. Schwerter-Zeichen.
+201. Ein Paar Vasen mit Henkel, Grund blau mit Gold,Vor-und Rickseite mit Medaillons
+13. worauf Amorretten und Landschaften. Seeres.
+14. 202.Hirschkuh, liegend, bunt bemalt. Schuwerter-Zeichen.
+15. 203.Desgleichen, liegend, bunt bemalt. Schwerter-Zeichen.
+16. 204.Amorettengruppe, ein Amor mit Fuillhorn,stehend, der andere Trommel schlagend, bunt bemalt. Schwerter-Zeichen.
+205. Rokoko-Dame, sitzend mit Kindern,bunt bemalt. Schwerter-Zeichen.
+18. 206.Vase,zylinderformig,reich mit erhabenen Blumen und Frichten.
+19. Hohe 28cm. Schwerter-Zeichen.
+20. 207.Vase,reich mit erhabenen Blumen und Guirlanden. Hohe 20cm. Schwerter-Zeichen.
+21. 208.Sitzende Dame mit Kind und einem Huhn,in reich drapiertem Gewande. Schicerter-Zeichen.
+- 209.Kleine Terrinne mit durchbrochenem Unterteller,Deckel und Henkel, Grund krepp-
+- rote geschuppte Farbe. Auf der Rundung wie dem Deckel befinden sich 2 Medaillons mit reizenden figirlichen Darstellungen,denDeckelknopf bildet eine Erdbeere,der Unterteller mit 4 Medaillons derselben Darstellungen,das ibrige durchbrochene Blumen.Sehr hervorragend. Meissen.
+210. Schmuckkassette, oval auf Fissen, mit Henkeln,welche zwei weibliche Busten bilden.Uber die Rundung ziehen sich Blumenguirlanden von Amoretten gehalten, in der Mitte je ein Medaillon mit Landschaften, der Deckel durchbrochen mit Den Knopf bildet eine von Amoretten gehaltene Krone, innere Seite reich bemalt
+- reichen Rocaille-Verzierungen und Kartouchen,zu beiden Seiten Wappenschilder. und vergoldet.
+
+Schwerter-Zeichen.
+
+211. Reiter zu Pferd in spanischem Kostim.
+212. Henkelkanne mit Schale in Muschelform, Grund blau mit emailartigen Verzierungen, in der Muschel ein grosses eingerahmtes Medaillon mit Gemalde nach Boucher, die Kanne in gleicher Art.
+
+Sevres.
+
+Ganz hervorragend reizendes Stuck.
+
+213. Zwei Busten auf blauem Sockel, Louis XVI.und Marie Antoinette, Biscuit. Sevres.
+2. 214.Fruhstuckservice,runde Platte,Thee-und Rahmkanne,Zuckerdose und zwei Tassen. Das Ganze bemalt mit farbigen Figuren a la Watteau,Rand reich mit Gold ein-
+3. gefasst.
+215. Tasse mit Deckel und zwei Henkeln, Grund blau mit reichen Goldverzierungen,
+5. Knopf aus verschlungenem Laubwerk. Sevres,Goldmarke.
+6. 216.Reiterstatue,Biscuit,Louis XIV.als Feldherr.
+7. Hohe 40 cm. Sevres.
+217. Tasse mit Untertasse, grin mit Gold.
+218. Jager in Rokoko-Kostim mit einem Gewehre zielend.
+219. Sitzendes Eichhorn auf erhabenen Blumen verziertem Sockel mit Haselnuss, an einer Kette. Hohe 20 cm. Meissen.
+220. Sitzender Chinese in reich drapierter Kleidung.
+221. Gruppe,nackter Amor mit Vogelbauer und Vogel,bunt bemalt. Schwerter-Zeichen.
+222. Gruppe, sitzender Affe mit Frichten spielend, bunt.
+14. Schwerter-Zeichen.
+15. 223.Ein Paar Vasen, etruskische Form, blau,mit Gold reich verziert. Berlin.
+224. Bonbonniere in Eiform mit Emailmalerei,Vogel-Blumen, reiche Bronzegarnierung.
+225. Gruppe. Adam und Eva im Paradiese am Baume der Erkenntnis stehend,auf dem Sockel Tiergruppen, bunt. Hohe 36 em.
+
+Schwerter-Zeichen.
+
+226. Desgleichen, spielende Kinder mit Blumenguirlanden,bunt. Schiwerter-Zeichen.
+227. Desgleichen, badende Nymphen sitzen auf reich verziertem Sockel, umgeben von blumenwindenden Amoretten, von welchen sie mit diesen geschmiickt werden, bunt bemalt.
+
+Schwerter-Zeichen. Ausgezeichnete Komposition.
+
+- 228.Teller,rund blau,in der Mitte ein Medaillon mit Rokokofiguren, auf dem Rande drei Cartouschen mit Emblemen der Musik.
+- 229.Desgleichen,rund,blau,Rand reich goldverziert,in der Mitte Ansicht von ，,Chateau de Chenonceau",sehr hervorragende Piece.
+- 230.Desgleichen, Nro. 228 ganz ahnlich,mit ,le petit Frianon, sehr hervorragende Piece.
+- 231.Desgleichen,rotbraun,in der Mitte Portrat einer Rokokodame, am Rande drei Medaillons mit Blumen in Goldeinfassung. Sevres.
+- 232.Desgleichen, blau,in der Mitte Mutter Gottes mit Jeane d’Arc.
+- 233.Eine Pendule und ein Paar Leuchter, auf der Pendule sitzt eine Rokokodame mit einem Lamm,nach dem Zifferblatt zeigen Amoretten,die Umrahmung mit erhabenen Blumen, teilweise durchbrochen. Farbe blau und weiss. Leuchter dreiarmig in derselben Ausfuihrung.
+- 234.Amorettengruppe den Herbst darstellend,auf erhohtem blauem Sockel sitzen Amoren
+- an Muscheln, Frichte essend, bunt. Wien.
+235. Zwei Untersatze, viereckig auf Fissen, auf denselben erhabene farbige Blumen, die Seitenteile mit Rocaille-Verzierungen,auf Vor- und Rickseite je ein Medaillon mit Blumen und Figuren. Schwerter-Zeichen. Durchmesser 24cm.
+236. Ein Teller ganz wie Nr.18l.
+- 237.Ein Paar Aufsatze mit Vogeln auf Asten in reicher Bronzegarnierung und erhabenen Blumen. Meissen?
+- 238.Eine Tasse mit Untertasse, Grund Silberton mit blauen Lilien, Rand und Henkel vergoldet. Sevres.
+- 239.Desgleichen,mit Untertasse, Grund ebenso mit blauem Medaillon mit Schwanen und Landschaften.
+240. Ein Paar Vasen, gross mit Deckel. Das Ganze mit erhabenen Blumengewinden und Laubwerk umschlungen,in schonster Bemalung, Rand mit Gold. Hohe 45cm.
+
+Schiverter-Zeichen.
+
+241. Ein Paar tiefblaue Henkelvasen auf vergoldetem Sockel, auf der vordern und Ruckseite je ein grosses Medaillon mit reizenden Kindergruppen, die Einfassung mit emailartiger Goldverzierung.
+
+Sevres.
+
+Hohe 37 cm.
+
+242. Ovale chinesische Dose, gross, mit figirlicher Malerei
+2. 243.Ein Paar Leuchter, weibliche Tritonen auf Sockel tragen den Leuchter, bunt bemalt, mit erhabenen Verzierungen.
+
+Schwerter-Zeichen.
+
+Hohe 30 cm.
+
+- in der Hand,eine weibliche Figur in sprechender Stellung lehnt an einem Baum-
+- stamme.Bunte Bemalung.
+
+Schwerter-Zeichen.
+
+245. Frihstuick-Service, Platte, Thee- und Rahm-Kanne,Zuckerdose und zwei Tassen, rosa mit Blumenguirlanden,Vorderseite mit reizenden Kindergruppen, Rand und
+2. Henkel vergoldet.
+246. Chinesisches Ei,bemalt.
+4. 247.Tasse mit zwei Henkeln,Deckel und Unterteller, auf der Rundung mit Watteau-
+5. Figuren bemalt,Knopf des Deckels eine Frucht. Sevres.
+248. Sitzendes Madchen mit Vogel und Blumen.
+7. 249.Vase.Elefant mit Golddraperie.
+8. 250.Rokokodame,bunt.
+9. Schwerter-Zeichen.
+251. Wahrsagerin auf Sockel sitzend in phantastischer Kleidung, eine Fackel haltend.
+252. Japanische Huhnergruppe in bunten Farben gemalt.
+12. 253.Gruppe,Liebespaar,Mann,einer Guitarre spielenden Frau Blumen berreichend,bunt. Schwerter-Zeichen.
+254. Gruppe, chinesische Familie,Kinder mit einem Affen spielend,in reich drapierten
+
+Schcerter-Zeichen.
+
+- Gewinden.
+- 255.Blumenvase,japanische,mit eigenartigem braunem Gefecht,auf welchem erhabene bemalte Blumen.
+
+Hohe 16 em.
+- 256.Eine komische Gruppe,Frau im Bett,Mann den Liebhaber iberraschend,in reizender gemalter Ausfuihrung.Zwei Sticke. Schwerter-Zeichen.
+- 257.Eine Spitzenfigur Guitarre spielend.
+258. Grenadier in Ausristung.
+- 259.Kleiner Bauernknabe mit Krug in der Hand, bunt. Hochst.
+260. Winzer und Winzerin mit Trauben,bunt. Laudeigsburg.
+261. Amoretten an einer Pyramide stehend und sitzend,zum Teile in Wolken,die Musik darstellend,bunt bemalt. Schwerter-Zeichen.
+- 262.Drei Amoren auf Sockel,in der Mitte eine Schnitterin,den Sommer darstellend,bunt. Schwerter-Zeichen.
+- 263.Grenadier in Ausristung. Meissen.
+- 264.Sitzender Mann in Rokoko,auf Sockel,einen Krug haltend und offnend, bunt. Schwerter-Zeichen.
+265. Sitzende Frau in Rokoko,auf Sockel,einen Krug haltend und offnend,bunt. Sehuwerter-Zeichen.
+266. Gruppe, in einer Steinnische liegt die bussende Magdalene mit einem Kruzifix in der Hand,oben ein schwebender Amor. Schuwerter-Zeichen.
+267. Trinkbecher, blau mit weiss.
+268. Kleiner Winzerknabe in reich drapiertem Gewande. Meissen.
+- 269.Winzerknabe,stehend,mit Traubenkorben. Meissen.
+- 270.Mann in Rokoko-Kostim mit Allonge-Pericke,bunt. Meissen.
+271. Jager mit Hund, ausgeristet, in Rokoko. Schuerter-Zeichen.
+272. Zwei Amoretten mit einem Riesenschwert spielend
+273. Amor, Flote blasend. Meissen.
+
+274.Violoncell-Spieler,sitzend.
+
+Meissen.
+
+- 275.Violin-Spieler,sitzend.
+276. Grosse Bechertasse mit Untertasse,Grund tiefblau mit perlartig erhohten Verzierungen,Vorderseite Medaillon mit vorziglich gemalter Gruppe nach Boucher, Untertasse in der Mitte Bouquetts.Obertasse kleine Defekte. Sevres.
+277. Ein Paar Majolika-Vasen mit Amoretten, gelb und grin.
+3. Hohe 18 cm.
+278. Ein Masskrug mit Zinnbeschlag,Fayence,mit bayrischem Wappen.
+5. 279.Desgleichen, mit Zinnbeschlag,Fayence,mit Blumenbouquetts.
+280. Gruppe. Ein romischer Krieger bei einem sitzenden Greise stehend, bunt.
+7. Hohe 35 em. Berlin.
+281. Liegendes Pferd mit Nymphe und Amor auf geblimtem Sockel.
+9. Meissen.
+10. 282.Gruppe von vier Figuren: Auf erhohtem Sockel steht ein gefligelter Genius an Hymens Altar,an welchem zwei Figuren in reich drapierten Gewandern mit Fackeln in den Handen stehen, daneben eine weibliche Figur, sitzend mit Fuillhorn.
+
+Hohe 32cm.
+
+Schwerter-Zeichen.
+
+Sehr hervorragendes Stuck.
+
+283. Gruppe, an einem mit Fruichten behangten Baume sitzt ein Liebespaar, welchem von Amor Frichte gereichtwerden. Wien.
+284. Zwei grosse Vasen mit Deckel auf erhohtem Sockel in reich vergoldeter Bronzegarnierung. Die Rundungen der Vasen sind mit Gemalden a la Boucher ganz hervorragend geziert, Fuss und Hals in blauer Farbe mit erhohten Goldverzierungen.
+3. Signiert:D.L.Dapoigny.
+
+Hohe 70 cm.
+
+Sevres.
+
+Kabinetstuck ersten Ranges.
+
+- 285.Ein Paar Vasen mit Deckel,auf dem Sockel erhohte Blumen und Laubwerk,worauf spielende Amoretten,die Vasen haben muschelartige Form in Rocaille-Verzierung
+- mit tiefblauem Grund,Deckel durchbrochen mit sitzenden Amoren.
+
+Hohe 30 cm.
+
+Wien.
+
+286. Gefleckte Katze, liegend. Schwerter-Zeichen.
+2. 287.Reiterin in spanischem Kostum.
+288. Kleiner blauer Krug mit Zinnbeschlag.
+289. Grenadier in Ausristung.
+5. 290.Kleine Minerva,bunt bemalt.
+- 291.Amor als Arzt.Auf erhohtem Sockel sitzt Amor mit Pfeil und Kocher, eines jungen Madchens Puls fuihlend, ein zweiter kleiner Amor nebenan blast eine Retorte an.
+
+Hohe 25em,Durchmesser 28cm. Schwerter-Zeichen.
+
+292. Gruppe, Mars stehend auf erhohtem Sockel mit Amoretten und den Emblemen des Kriegs.
+
+Schuwerter-Zeichen.
+
+- 293.Desgleichen, Minerva,Pendant zu 292 mit den Emblemen der Kiinste. Schwerter-Zeichen.
+- 294.Elefant von einem Neger geleitet,auf demselben eine Priesterin mit Halbmond und Facher.
+
+Schwerter-Zeichen.
+
+- 295.Frihstick-Service,Platte,Thee- und Rahm-Kanne, Zuckerdose und Tasse, Grund blau, die Medaillons durchaus mit Ansichten von Versailles, Rand und Henkel reich mit Gold.
+296. Rokoko-Figur,bunt bemalt.
+297. Gruppe, Apotheose mit Zeus, Fortuna und Genius in Wolken, Zeus ein firstliches
+- Portrat haltend, dessen Wappen sich am Sockel befindet. Hohe 37cm. Schwerter-Zeichen.
+- 298.Vase mit Deckel in reicher Bronzeverzierung. Die Griffe bilden zwei Mascarons, auf der Vorderseite ein tanzendes Paar nach Watteau,auf dem Deckel Blumen.
+- Berlin.
+- 299.Kleine Vase mit durchbrochenem Deckel,durchaus mit erhabenen Blumen und Fruchten, die Medaillons mit kleinen Bouquetts,auf dem Sockel stehen Amoretten als Trager der Vase.Den Abschluss des Deckels bildet ein Bouquet.
+
+Hohe 24 cm.
+
+Schwerter-Zeichen.
+
+- 300.Violinspieler,bunt. Schwerter-Zeichen.
+- 301.Harlekin,bunt.
+- 302.Tasse mit Untertasse, Grund reich vergoldet mit Medaillons,auf welchen Ansichten
+- vonHohenschwangau.
+303. Desgleichen, Grund reich vergoldet mit Medaillons,gewunden.
+- 304.Kleiner Pagode,beweglich,in reich drapiertem Kostum.Defekt.
+- Schwerter-Zeichen.
+- 305.Desgleichen. beweglich,in reich drapiertem Kostim. Sehwerter-Zeichen.
+306. Gruppe. Auf einem erhohten Sockel, welcher Wasser darstellt, werden Venus und Amor von Flussnymphen in eine Muschel getragen. Hohe 35 cm. Schwerter-Zeichen.
+2. 307.Konigin mit Szepter und Krone,reich verziertes Hermelingewand, daneben sitzender Knabe mit Weltkugel. Hohe 26 cm. Berlin.
+308. Tasse mit Untertasse,rosa,mit Medaillons,figurlichen und bildlichen Darstellungen.
+4. 309.Pagode,klein,beweglich,in reich drapiertem Kostim.
+310. Ein Paar Vasen, weiss mit Gold, Grund in geflochtener Manier, iberaus reich mit
+6. erhabenen farbigenBlumen und Frichtenverziert. Hohe 29 cm. Schwerter-Zeichen.
+311. Fin Paar Vaschen mit Henkel, Grund Silber mit blauem Ornament,reich mit Gold,
+8. sehr fein.
+9. 312.Ovale Platte,tiefblau mit Goldornament, in der Mitte ein Gemalde: Leda mit Schwan,
+10. in reizender Ausfihrung. Sevres.
+11. 313.Zwei ovale Platten weiss mit lichtblau,Rand mit Fries von Amoretten, Engelskopfen und Frichtenguirlande,in der Mitte Krone.
+12. 314.Dose, eiformig, chinesisch,bemalt.
+315. Japanisches Vaschen auf Fissen, bemalt.
+14. 316.Porzellan-Tischglocke,Henkel und Rand in Gold,auf der Rundung Watteau-Gruppe.
+317. Schmuckkastchen, langlicht,blaugrin mit Gold, in der Mitte spielender Amor.
+318. Ovale Platte mit vergoldeten Griffen, blau, in Mitte eine Jagdgruppe.
+17. 319.Runde Platte, in der Mitte das bayrische Wappen in brillanter Ausfuhrung,auf dem Rande reich ornamentierte figurliche Darstellungen in Gold.
+320. Gruppe, Elefant mit Krieger auf der Jagd, in reicher Ausstattung.
+19. Hohe 38 cm,Breite 26cm. Schwerter-Zeichen.
+20. 321.Ein Paar Vasen, braun und blau, die ganze Rundung mit erhohten Goldverzierungen von Blumen und Landschaften, die Henkel und Fisse bilden groteske Tiere,in Bronzefassung.
+21. Hohe 42 em.
+22. 322.Frihstick-Service,Bronzeplatte mit Spiegel,2 Kannen,2 Tassen,1 Dose,tiefblau mitornamentalen Goldarabesken.
+323. Ein Paar Vasen mit Deckel, blau mit Goldeinfassung, Vor- und Rickseite, sowie
+2. Deckel je mit einem Medaillon mit Reitergruppen bemalt.Teils defekt. Hohe 25 cm. Schwerter-Zeichen.
+324. Grosse Jagdgruppe auf Sockel mit Monogramm Sevres&amp; in Biscuit. Hirsch gehetzt von 5 Riden. Lange 66cm,Breite 45 cm. Hervorragende Gruppe.
+325. Henkelkanne, blau,den Ausguss bildet ein Schwan mit erhohten Verzierungen,am
+5. Henkel ein vergoldeter Mascaron.
+6. 326.Zwei japanische Vogelgruppen auf vergoldetem Sockel. Vogel auf Zweigen, unter welchen sich junge Baren tummeln. Hohe 27 cm.
+7. 327.Schmuckdose mit Deckel und Unterteller,blau, teilweise vergoldet,mit Medaillons, Szenen aus Walkiire.
+328. Spiegel mit erhabenen Blumen und Laubwerk in Rocaille-Verzierungen,oben die Biste eines jungen Madchens in durchbrochenem Masswerk, das Ganze in brillanter Bemalung.
+9. 329.Schale mit Fuss,blau,mit Gold eingefasst,in der Mitte grosses Medaillon mit Gemalde Konig Philipp I. und Elisabeth, die Prinzessin schitzend. Sig.Thallmaier&amp;.
+330. Sechs Stick Tassen auf Fissen mit Untertassen mit erhabenen Blumen reich verziert,
+11. innen bemalt mit kleinen Bouquetts,Henkel gewunden. Schuwerter-Zeichen.
+331. Bonbonniere,herzformig,blau mit vergoldetem Schmetterling und Kafer.
+332. Ein Miniature-Hahn auf Sockel, hibsch bunt bemalt.
+14. Meissen.
+15. 333.Eine Miniature-Eule auf Sockel,hibsch bunt bemalt. Meissen.
+16. 334.Desgleichen,auf Sockel, desgleichen. Meissen.
+17. 335.Ein Miniature-Affchen auf Sockel, desgleichen. Meissen.
+336. Ein Miniature-Hahnchen auf Sockel, desgleichen. Meissen.
+19. 337.Ein Miniature-Schafchen auf Sockel, desgleichen. Meissen.
+20. 338 und 339. Ein Miniature-Huindchen auf Sockel, desgleichen. Meissen.
+340. Chinese und Chinesin in gebickter Stellung mit Papagei auf der Hand, in drapiertem buntem Gewande, Chinese Cimbal schlagend. Berlin.
+341. Zwei Busten auf Sockel, Biskuit, Marie Antoinette und Louis XV.
+2. 342.Vase mit Sockel und Deckel, Grund Gold. Griffe bilden erhabene Widderkopfe in erhohter Einfassung. Auf Vor- und Rickseite grosse Medaillons,Vorderseite reizende Kindergruppen,Rickseite Blumenbouquetts in ganz hervorragender Weise bemalt. Deckel durchbrochen mit freistehendem Laubwerk,oben Bouquet
+3. von drei Rosen.
+
+Hohe 65 cm. Berlin.
+
+- 343.Ein Paar Vasen mit Sockel und Deckel.Grund weiss,Gold.Die Henkel bilden Blatter,die Rundung der Vasen mit erhabenen Blumen,Vor-und Rickseite mit Blumen-Bouquetts bemalt. Um die Vase zieht sich ein Rosaband. Deckel durch-
+- brochen. Den Abschluss bilden drei Rosen-Bouquetts.
+
+Hohe 43 cm. Berlin?
+
+344. Ein Paar Pantoffel mit Blumenbouquet und Kafer bemalt, Fayence.
+345. Ein knieender Bauer auf Fruchtbiindel,bunt.
+3. 346.Dose, einen Bund Spargel vorstellend, gelb und grin mit rotem Band.
+4. Monogramm H.F.
+347. Schwan mit ausgespreizten Fligel.
+6. 348.Dose,einen Hecht darstellend,Fayence.
+349. Grosse Gruppe ,Toilette",auf ovalem buntem Sockel befinden sich sechs Figuren, an einem Toilettetisch sitzt ein junger Mann in reich drapiertem Morgenkleide, der von den finf andern Personen in sehr aufmerksamer Art bedient wird,zu Fissen dieses jungen Mannes ein Hund. Samtiche Figuren in Rokoko-Kostimen,
+8. bemalt und hervorragend zart und fein ausgefihrt.
+
+Hohe 30 cm,Breite 38cm. Schwerter-Zeichen.
+
+- 350.Ebensolche Gruppe mit finf Figuren,unter welchen eine weibliche.
+
+Sehucerter-Zeichen.
+
+351. Zwei weibliche Figuren zwischen Laubgewinden,nach oben zurickgebogen mit ausgestreckten Armen.
+
+Hohe 35 cm. Schuwerter-Zeichen.
+
+352. Gruppe, Mars auf Sockel mit Emblemen des Kriegs, eine wenig bekleidete Venus Victrin haltend,welche eine Heertrompete in der einen Hand halt,und mit der andern Mars einen Kranz aufs Haupt setzt.
+
+Hohe 45 cm.
+
+Berlin.
+
+- 353.Herkules auf Sockel, nackt mit Tiergewand.
+
+Hohe 32 cm. Berlin.
+- 354.Venus auf Sockel,mit vorgestrecktem Fuss und Hand auf Wolken im Triumphwagen,in der einen Hand einen Kranz haltend,auf der Rickseite zwei Tauben und am Boden Kocher mit Pfeil.
+
+Hohe 34 cm. Berlin.
+
+- 355.Apollo und Minerva.Appollo mit erhobenem Arm beugt sich zur neben ihm
+- sitzenden Minerva,auf dem Sockel Amor mit Pfeil und Kocher.
+
+Berlin.
+
+Hohe 33 cm.
+
+356. Bacchantengruppe von Biskuit. Auf erhohtem Sockel sitzt ein junger Bacchus,
+2. daneben stehen zwei Bacchantinnen,eine ihm einen Kranz aufs Haupt setzend, die andere ihm die Schale aus einem Kruge fillend, auf dem Sockel spielende Kinder,Frichte,Musikgerate,Pfeil und Kocher.Auf Plischsockel.
+
+Hohe 40 cm,Breite 38cm.
+
+Sehr hervorragendes Stuck. Sevres.
+
+- 357.Amor auf Postament,knieend,scharft seine Pfeile.
+- Hohe 48cm. Biskuit.
+358. Porzellan-Uhr mit Sockel. Das Zifferblatt umgeben von einem Kranze von Blumen, oben sitzt Jupiter in rotem Gewande,neben ihm der Adler,am Fusse wird Zeus an den Felsen geschmiedet.Der Sockel bildet mit der Uhr ein harmonisches
+- Ganzes in Rokoko,mit reichen erhabenen Verzierungen und bemalten Blumen.
+
+Hohe S3cm,Breite 45 cm.
+
+Meissen.
+
+- 359.Ein Paar Leuchter.Auf eckigem Postament befindensich zwei Amoren,welche bemalte Wappenschilder in der Hand halten, auf dem Sockel je eine grosse sitzende weibliche Figur,welche in geschlungener Form die finf Arme des Leuchters halt. Vorderseite mit reicher Draperie,das Ganze fein bemalt, Grund weiss mit Gold.
+- Hohe 63 cm,Sockelbreite 30 cm. Meissen.
+- 360.Grosser Schwan auf Sockel.
+- Hohe 44 cm,Linge 50 cm.
+- 361.Ein Paar Vasen, cylinderformig,blau,Rundung durchaus bemalt mit Wasser,in welchem Schwane schwimmen.Goldfassung. Hohe 49 cm.
+362. Grosse japanische Vase auf drei Fussen,mit Deckel, Rundung und Deckel in reich figirlichen Darstellungen bemalt,Griffe und Knauf des Deckels bilden groteske Lowen,die Fisse Pratzen,vergoldet. Hohe 63 cm,Durchmesser 38cm.
+- 363.Ein Paar Vasen auf vergoldetem Bronze-Sockel, mit Deckel in sehr eleganter Form. Grund lichtblau mit weiss,um die Rundung ein breiter Fries,welcher in ganz feiner Ausfuihrung reizende Gruppen nach Watteau darstellt.Die Einfassung mit perlartigen,weissen,erhohten Verzierungen auf Goldgrund.Den Abschluss der
+- Vase bildet ein vergoldetes Laub.
+
+Hohe 55cm. Sevres.
+- 364.Ein Paar Vasen auf vergoldetem Bronze-Sockel mit Deckel im Stil Louis XVI.,
+
+Hohe 86 cm,Durchmesser 43 cm. Kabinettstuck ersten Rangs. Sevres.
+
+- tiefblau mit Gold.Inmitten auf Vor-und Rickseite je ein ovales Medaillon mit Gemalden von Eug.Poidevin nach Wetteau in ganz hervorragender Weise gemalt. Die Medaillons eingefasst mit erhabenen Goldornamenten,ebenso die Deckel.Griffe bilden auslaufende Laubwerke in erhabenen Formen.
+365. Ein Paar Vasen, wie in Nr.364 geschildert,nur etwas kleiner und mit Gemalden nach Fragonard.
+
+Sevres.
+
+Hohe 60cm.
+
+- 366.Vogelgruppe,ein Griinspeeht sitzt aneinem weissbemalten Baumstamm,nach Insekten
+- suchend,deren mehrere am Stamm kriechen,in brillanter farbiger Ausfihrung. Hohe 35 em. Meissen.
+- 367.Desgleichen, bunter Specht,ebenso wie Nr. 366.
+- Hohe 43 cm. Meissen.
+- 368.Vase mit Deckel, weiss mit blau und Gold. Auf der Rundung befinden sich zwei Medaillons in erhohtem Rahmen,worinje ein Blumenbouquetin sehrfeiner Ausfihrung gemalt, sich befindet. Um die Vase zieht sich ein gelbes Band auf der Vorderseite in einer Schleife endigend.Die Henkel bilden Laubwerke.Deckel durch-
+- brochen,dessen Knopf bildet ein Blumenbouquet.
+
+Hohe65cm.
+
+Hervorragendes Stuck.
+
+- 369.Vase,ganz dieselbe Form,nur in Vergoldung und Malerei etwas abweichend. Ebenso hervorragendes Stick.
+370. Ein Paar grosse japanische Vasen auf reich vergoldetem Holzsockel, durchaus mit erhohten Blumen und verschlungenem Laubwerk.Auf dem Deckel schreitet ein heraldischer Lowe in brauner Farbe. Hshe 75 cm,mit Sockel 100 cm.
+- 371.Frihstick-Service in Etui. Plateau,Thee- und Rahmkanne, Zuckerdose und zwei Tassen.Grund blau mit Gold,die Medaillons mit figiirlichen Darstellungen reich
+- bemalt. Seeres.
+- 372.Weibliche Biste Du Barri,Biskuit.
+- 373.Mannliche Biste,Louis XIV.mit Sockel,Biskuit.
+- 374.Desgleichen,Louis XV.,Biskuit.
+375. Kleiner springender Hund. Meissen.
+- 376.Rokoko-Gruppe, farbig. Frankenthal.
+377. Madchen mit Blumen. Damm.
+2. 378.Ein Tambour.
+3. 379.Desgleichen, grosser, mit Bandelier und Trommel. Schwerter-Zeichen.
+380. Ein Krieger mit Schild. Schwerter-Zeichen.
+5. 381.Kleine Gruppe, Gartner und Gartnerin mit Frichten.
+6. 382.Minerva auf Sockel,bunt bemalt.
+7. 383.Kleiner Tambour.
+384. Funf verschiedene Figuren.
+385. Jager mit Hund in Ausristung.
+386. Grosse Majolika-Vase im Stil Louis XVI. Vor-und Ruckseite mit Medaillon,worauf ein Portrat umrahmt von Blumen und Mascarons,die Griffe bilden grosse Widderkopfe, oben zwei sitzende Kinder mit Blumen und Frichten spielend. Fuss und Deckel teilweise in ornamentalerVerzierung,Grundton tiefblau,Griffe gelb,Blumen und Kinder bunt. Hohe 140 cm,Lange 97 cm,Breite 77 cm.
+387. Zwei Gruppen, je zwei Amoren an Baumstamm. Defekt.
+12. 388.Eine Figur,Blumenmadchen. Defelt.
+389. Gruppe, Jager und Madchen mit Kafig.
+14. Defekt.
+390. Eine weibliche Figur mit Adler am Sockel. Defekt.
+16. 391.Ein Violinspieler in spanischem Kostuim. Defelt.
+392. Eine Figur zu Pferd. Defelkt.
+18. 393.Eine Figur. Juingling im Kostuim des vorigen Jahrhunderts.
+19. Defekt.
+20. 394.Ein Paar Vasen mit Henkel,Lilien und Medaillons.
+21. 395.Desgleichen, Damenportrat,blau in Medaillons
+396. Eine Tasse mit Untertasse,blau, Medaillon mit Schwanen.
+23. 397.Desgleichen Ansicht von Koln.
+398. Eine Tasse mit Untertasse und Teller, Gold mit blauen Bandern.
+2. 399.Desgleichen und Teller,blau mit Goldbandern.
+3. 400.Desgleichen Hoftheater Darmstadt.
+4. 401.Desgleichen blau mit Schwanen.
+5. 402.Desgleichen blau mit Schwanen.
+403. Schmuckschale auf Fuss mit Denkmal des Konig Max von Bayern.
+7. 404.Tasse mit Untertasse,blau mit Frichten.
+405. Japanische Vase.
+9. 406.Bouillon-Terrine mit Deckel und Untertasse,blau.
+10. 407.Platte mit Hohenschwangau und diversen Sehlossern auf dem Rand.
+408. Schmuckschalchen auf Bronzefuss.
+12. 409.Blumenvase,Fayence,Pfau
+13. 410.Schmuckschale,Schwan auf Sockel mit Vergissmeinnicht.
+411. Desgleichen, Schwan auf Sockel mit Vergissmeinnicht.
+412. Desgleichen, Schwan ohne Sockel mit Vergissmeinnicht.
+16. 413.Jardiniere,viereckig,weiss mit farbigen Frichten.
+414. Sechs Kaffeetassen auf Fuss mit Untertassen,blau, Gold.
+415. Schmuckschale auf Fuss, Majolika.
+416. Desgleichen, auf Fuss, Majolika.
+20. 417.Jardiniere, drei Muscheln.
+21. 418.und 419. Kaffeeservice bestehend aus 12 Tassen,3 Kannen, 1 Zuckerdose und 1Kompottschale,12 Dessert-Teller,blau,reich mit Gold verziert,mit in Gold eingerahmten Medaillons,Watteau-Gruppen.
+
+<!-- image -->
+<!-- image -->
+
+## Glas-, Email-Nippsachen und dergleichen, Bronze, Uhren, Schmuck und Miniaturen.
+
+- 421.Henkelglas mit Wappenschild und Monogramm des Konigs Max von Bayern.
+- 420.Trinkglas,Ansicht der Wohnung ihrer Majestit der Konigin von Bayern eingeschliffen.
+- 422.Desgleichen, auf Fuss,mit Deckel in drei Feldern, deren Einrahmung vergoldet, mit figirlichen Rokoko-Darstellungen und Arabesken.
+- 423.Desgleichen, mit Fuss,gelb und blau,mit silbervergoldetem ziseliertem Deckel,
+- 424.Kelchglas in Eiform, reich verziert mit Blumen, in der Mitte Medaillon mit Marine.
+- 425.Desgleichen in Eiform,reich verziert mit Bluimen.
+- 426.Kelch mit Fuss,Rubinfarbe, sehr reich geschliffen mit Figuren und Ornamenten.
+- 427.Trinkglas, konische Form,mit graviertem Wappenschild.
+- 428.Zwei hohe Kelche, Rubinglas,sehr schlanke Form. Hohe36cm.
+429. Trinkglas mit Fuss,mit dem goldenen Dachl in Innsbruck.
+430. Kristalflacon in Silberfassung.
+- 431.Desgleichen,Fisch mit Silberbeschlage.
+- 432.Desgleichen, Fisch mit Silberbeschlage,vergoldet.
+- 433.Achatschale,oval.
+- 434.Briefbeschwerer,Muschelform,Rauchtopas.
+- 435.Schale,Muschelform,Rauchtopas.
+436. Kleines Kristallkreuz auf Kristallsockel.
+437. Grosser Siegelstock, facettiert Kristall.
+- 438.Desgleichen,heller Rauchtopas,facettiert,graviert mit Sehloss Sehwanstein.
+- 439.Grosser Siegelstock,dunkler Rauchtopas,facettiert.
+440. Desgleichen, Delphin mit grosser Perle,Korallast und Lapis, silbervergoldet.
+- 441.Notizbuch, Goldgrund,emailliert mit figirlichen Darstellungen.
+- 442.Portemonnaie in Bronzefassung,emailliert,mit Gruppen a la Watteau auf beiden Seiten.
+- 443.Almanach in Leder mit kleinen Miniaturen.
+- 444.Buch mit silbernem Deckel,Vorderseite reich graviert,Rickseite ein Kalender.
+445. Emailflacon in franzosischer Malerei und schoner Fassung.
+- 446.Desgleichen,blauer Grund mit figiirlichen Darstellungen,auf dem Deckel ein Amor.
+- 447.Desgleichen, flach, aus Lapis lazuli,mit zwei Reifen in Diamanten gefasst.
+448. Desgleichen,in Fassung,.mit figiirlichen und landschaftlichen Darstellungen.
+449. Runde Dose, grin,in reicher Goldfassung, oben Medaillon mit mythologischen Darstellungen.
+- 450.Kleiner Flacon,emailliert, Goldgrund in Fassung,mit Blumen.
+- 451.Desgleichen, emailliert, Goldgrund in Fassung.
+452. Ovale Porzellan-Dose, reich mit Blumen bemalt, der innere Teil des Deckels mit figirlicher Darstellung nach Ostade.
+- 453.Doppelflacon, Email, gerade Form, Grund schwarz mit Amoretten und Blumen.
+454. Dose, Lapis lazuli mit schoner Goldfassung.
+455. Ovaler flacher Flacon,in reicher Fassung, emailliert mit figurlichen Darstellungen.
+456. Email-Dose in vergoldeter Fassung mit Medaillons und bemaltem Deckel worauf Watteau-Figuren.
+- 457.Email-Ei mit 4 Kartouchen in silbervergoldeter Fassung mit landschaftlichen Darstellungen.
+458. Siegelstock,Lapis lazuli.
+- 459.EmailBonbonniere,klein,rund,auf dem Deckel Gemalde in niederlandischer Manier.
+460. Porzellan-Dose,oval mit Amoretten und Flussnymphen.
+- 461.Portemonnaie in Bronzefassung, emailliert mit Gruppen a la Watteau auf beiden Seiten.
+462. Email-Ei,blau in vergoldeter Silberfassung mit niederlandischen Darstellungen nach Tenier.
+- 463.Ovales Email,Aurora,Goldemaille.
+- 464.Bonbonniere,emailliert,rund,klein,auf dem Deckel Schaferszenen.
+465. Email-Flacon, klein,blau mit Blumen verziert.
+466. Porzellan-Dose in Bronzefassung mit Medaillons und landschaftlichen Ansichten.
+3. 467.Email-Bonbonniere,blau mit Blumen.
+4. 468.Desgleichen, tiefblau,auf dem Deckel ein Damen-Portrat.
+5. 469.Ovale Email-Bichse in reicher Silbergarnierung,durchaus mit Landschaften und biblischen Darstellungen bemalt.
+6. 470.Email-Ei,tiefblau auf Silber emailliert,zum Schrauben,enthalt im Innern einen kleinen,ebenfalls eiformigen Flacon,bunt mit Blumen bemalt.
+7. 471.Ovale Porzellan-Dose mit Fischerszenen und Bronzefuitterung.
+8. 472.Puderbichse,Porzellan blau,auf dem Deckel ein Medaillon mit Reiterszenen in Goldfassung.Defekt. Meissen.
+9. 473.Email-Dose,einen vertieften Schwan darstellend,Deckel mit Einfassung,worauf Schwanen gemalt.
+10. 474.Kristallgefass, Weltkugel getragen von Atlas. Die Einfassung der Kugel in Silber verziert mit den Zeichen der Planeten, der Fuss mit farbig emailliertem Rand.
+11. 475.Email-Henkelvase mit Silbergarnierung,vergoldet,ganze Rundung mit mythologischen Szenen bemalt.
+12. 476.Miniatur-Brustbild Konig Ludwig XVI.
+13. 477.Email-Dose,langlichoval, Grund weiss,auf der Vorderseite das bayerische Wappen in Rocaille-Einfassung,auf dem Deckel erhohte Bisten von zwei fuirstlichen Personen in Gold, Bronzefassung.
+14. 478.Schmuckkastchen in Ebenholz mit reichen Bronzeverzierungen,die Einlagen mit Emailplatten,auf welchen mythologische Darstellungen,innen drei Schubladchen, ebenfalls mit Emailplattchen.
+479. Ein gleich ausgefuhrtes Kastchen,nur etwas kleiner und mit franzosischen Darstellungen bemalt.
+16. 480.Ovale Achatdosein silbervergoldeter Fassung,Deckel reich ziseliert.
+17. 481.Porzellan-Dose,viereckig, in Bronzefassung,die Felder wie Deckel mit Figuren in Watteau-Manier.
+18. 482.Kristallgefass, geschliffen,in emaillierter Silberfassung mit Unterteller, oben ein sitzendes Email-Figurchen. Eine in einer Landschaft sitzende Dame.
+19. 483.Miniaturbild in Sammt-und Bronzefassung Lavalliere.
+484. Email-Dose in Bronzefassung,Dose bildet einen liegenden Hasen mit Hund, Deckel mit Jagdstuick bemalt.
+- 485.Email-Ei in blaugrauem Grund,mit Landschaften und figurlichen Darstellungen nach Watteau.
+- 486.Runde Dose, Grund schwarz,Medaillon mit Goldreif, mit Louis XVl. und Marie Antoinette in weissem Ton en miniature gemalt.
+487. Siegelstock,Lapis lazuli.
+- 488.Miniatur-Bronze-Uhrchen, emailliert.
+489. Email-Bonbonniere, weisser Grund,in Silber gefasst, Deckel mit Schaferszenen.
+- 490.Miniaturbild.Joh.Friedr. Carl, Graf von Ostein,Kurfuirst von Mainz auf Per-
+- gament, signiert &gt;Leclere.
+- 491.Briefbeschwerer, Lapis.
+- 492.Desgleichen,Lapis, fein.
+493. Kreuz mit in Bronze gefasstem gemaltem Christus.
+- 494.Porzellan-Dose, Bronzefassung, in roter Bemalung mit Vogel und Figuren.
+495. Salzgefass mit zwei muschelformigen Kristallschalen, in emaillierter silbervergoldeter
+- Fassung, oben ein feines Figurchen.
+496. Siegelstock, Lapis,in Bronzefassung, mit der Buste Richard Wagners graviert.
+- 497.Porzellan-Dose mit Malerei a la Watteau, durchaus gefittert.
+498. Bonbonniere in Silberfassung, emailliert,reich mit Blumen bemalt.
+499. Porzellan-Dose in Bronzefassung,reich bemalt.
+500. Bonbonniere mit huibschen Amorettengruppen auf blauem Grund.
+- 501.Ovales Miniature,fuirstliche Personlichkeit in Bronze-Rahmchen.
+- 502.Desgleichen, furstliche Personlichkeit,Pendant zu vorigem.
+- 503.Bonbonniere,lichtblau und mit Kindergruppen bemalt.
+- 504.Desgleichen, lichtblau in Silberfassung,mit Landschaft,auf dem Deckel Schaferszenen.
+- 505.Desgleichen,in Silberfassung,Boden und Deckel mit feinen Darstellungen nach Tenier.
+- 506.Desgleichen,heller Grund mit Amoretten.
+- 507.Porzellan-Dose in Bronzefassung,bemalt mit Ansichten und figirlichen Darstellungen.
+508. Desgleichen,in Bronzefassung, bemalt in Rocaille-Einfassung mit Landschaft und Blumen. Fabr.Nymphenburg.
+509. Globus, von Atlas getragen, Kugel und Fuss emailliert mit Planeten und figirlichen Darstellungen in reicher Silberfassung.
+510. Miniature, Damen-Portrat in Bronze-Rahme.
+2. 511.Uhrchen,Lapis, in reicher Silbergarnierung mit Karyatiden, Fuss und Henkel durchbrochen.
+3. 512.Lapisdose, viereckig,Fuisse und Fassung Bronze.
+4. 513.Miniature in reicher Bronze-Rahme,Marie Antoinette sitzend,mit einem Buche beschaftigt. Sehr fein.
+5. 514.Desgleichen, in reicher Bronze-Rahme,Ludwig XIV. Sehrfein.
+515. Kruzifix in Bronze mit sechs emaillierten Medaillons.
+516. Desgleichen in Rosenholz mit eingelassenen Reliquien.
+8. 517.Dose,durchaus emailliert mit biblischen Darstellungen, beide Deckel unten und oben ebenfalls emailliert, in canellierter Silberfassung.
+9. 518.Desgleichen, ahnlich der vorigen, etwas kleiner mit Sehlachtenszenen, beide Deckel emailliert.
+10. 519.Kleine Lapis-Vase mit Deckel, den Fuss bildet ein spielender Amor, auf dem Deckel eine weibliche Figur in Silbergarnierung,emailliert.
+11. 520.Email-Schale,vertieft, weisser Grund mit erhabenen rosa Arabesken und griner Einfassung.
+12. 521.Kleines Email-Uhrchen, silbernes Figirchen mit Weltkugel.
+13. 522.Elefant auf Sockel,eine Uhr tragend,emailliert in Silberfassung,schones Zifferblatt, Sockel mit Jagdszenen, ebenfalls reich und schon emailliert.
+14. 523.Desgleichen, auf reich emailliertem Sockel mit Karyatiden und mythologischen Darstellungen,eine Repetieruhr tragend,ebenfalls reich emailliert.Den Abschluss bildet eine weibliehe Figur, das Ganze in Silber ausgefihrt.
+15. 524.Bonbonniere,emailliert,mit Landschaften uind reizend gemalten Kindergruppen,in vergoldeter Silberfassung.
+16. 525.Desgleichen,emailliert mit figurlichen Darstellungen und Landschaft.
+17. 526.Ovale Email-Dose mit Landschaft und spielenden Amoretten in vergoldeter Silberfassung und ganz reizender Ausfihrung.
+18. 527.Runde Bonbonniere mit schonen Amoretten in vergoldeter Silberfassung.
+19. 528.Viereckige Email-Dose mit gebrochenen Ecken,auf dem Deckel eine schone Familienszene in Rokoko,vergoldete Silberfassung.
+20. 529.Email-Dose,Eiform, mit schonen Amorettengruppen, vergoldete Silberfassung.
+21. 530.Email-Flacon, Eiform.Inneres gefuittert, Stopsel ein Hasenkopf,auf Aussenseite schone Gruppen von Amoretten, silbervergoldete Fassung.
+- 531.Visitkarten-Etuis in rosa,emailliert,mit hubschen Gruppen a la Watteau,silbervergoldete Fassung.
+- 532.Desgleichen,blau,emailliert,mit reizenden Gruppen in feinster Ausfuhrung.
+- 533.Desgleichen,
+- 534.Runde Bonbonniere,blau,emailliert,mit Schafen und Rokoko-Gruppen, silbervergoldete Fassung.
+- 535.Portemonnaie mit emaillierten Schalen,worauf reizende Gruppen,nach Boucher, silbervergoldete Fassung.
+- 536.Runde Bonbonniere,gelb,chinesische Malerei
+- 537.Desgleichen, gelb,chinesische Malerei.
+- 538.Flacon,emailliert, Rundung und Deckel in schoner Malerei mit figirlichen Darstellungen nach Watteau, Goldfassung.
+- 539.Email-Dose,Vogelform.
+- 540.Ovales emailliertes Brustbild Ludwig XV. mit Allongepericke, ganz hervorragende Ausfihrung.
+- 541.Kristallvase mit Deckel. Auf dem Sockel sitzen Adam und Eva am Baum,von welchem sich die Schlange ringelt. Abschluss eine kleine Vase.Das Ganze in Silberemail.
+- 542.Kristall-Fasschen auf silbernem Bocke ruhend, den Spunden bildet eine Katze. Garnierung Silber.
+- 543.Grosse Emaildose,rund, tiefblau mit erhohten perlartigen Verzierungen,in der Mitte ein grosses Medaillon mit Schaferszene gemalt. Sehr fein ausgefihrt.
+- 544.Runde Bonbonniere,Porzellan,lichtblau,mit Schaferszene auf dem Deckel.
+- 545.Grosse runde Dose,Kupfer-Email, tiefblau,auf dem Deckel zwei Schwanen.
+- 546.Desgleichen mit Bronzegarnierung.
+- 547.Kleines Miniature, Brustbild einer Dame,auf Elfenbein.
+548. Flacon, schwarz und blau, Rundung reich bemalt mit Delphin und Flussnymphen, silbervergoldete Fassung.
+- 549.Miniature,Portrat einer Dame,auf Pergament.
+550. Emailliertes Fasschen, auf dem Sockel sitzen zwei Gnomen, welche das Fasschen halten. Sockel und Fuss durchaus emailliert mit Bacchusszenen, silbervergoldeter Fassung.
+- 551.Lampe, ein kleiner Elefant mit Fuhrer, in Silber.
+- 552.Runde Bonbonniere,tiefblau mit Goldornamenten,Medaillon reizend bemalt mit Figuren &gt;Gartner und Gartnerin,Bronze.
+553. Miniatur-Brustbild einer furstlichen Personlichkeit Rahmchen reizend geschnitten im Stile Louis XVI.
+2. 554.Petschaft, Bronze und versilbert, Figur in spanischer Tracht. Hohe 12cm.
+3. 555.Desgleichen,ahnlich,Figur Heiliger Michael den Lindwurm totend. Hohn 9 cm.
+556. Federhalter aus Lapis lazuli in Goldgarnierung.
+557. Kleiner Siegelstock aus Lapis lazuli mit Onyx in Goldfassung.
+6. 558.Miniaturbild in Samt und Bronzerahme,Rokoko-Dame in einer Landschaft sitzend.
+7. 559.Desgleichen Ludwig XV.als Prinz von Frankreich.
+8. 560.Desgleichen, gross,in Samt und Bronzerahme, Ludwig XVI. in sehonem Kostim, in ganz feiner Ausfihrung, sig.E.Young.
+9. 561.Lehrender Christus auf Holz in Goldgrund.
+10. 562.Grosses Miniaturgemalde auf Elfenbein,in Etuis.Reizende Gruppe badender Nymphen mit Tritonen, in der Hohe Amoretten, sign.Leroy 1882.Sehr feine, ausgezeichnete Ausfihrung.
+11. 563.Pendant zu Nr.562.
+12. 564.GrossesMiniaturebild,mannlichesPortrat mitgepudertemHaar,in prachtvollemKostim.
+13. 565.Email-Ei,mit religiosen Darstellungen,innen Christus am Kreuz in silbervergoldeter Fassung.
+14. 566.EmailFlacon in Goldfassung,durchaus in feinster Weise nach Fragonard gemalt. Sehr hervorragendes Stuck.
+15. 567.Desgleichen,auf der Rundung mit schonen Darstellungen,Ansichten und Watteaugruppen.
+16. 568.Desgleichen, sehr schone Form,bemalt nach Watteau.
+17. 569.Kleine Bonbonniere,rosa emailliert mit Amoretten-Gruppen.
+18. 570.Grossere Bonbonniere, emaillierter Goldgrund,Boden und Deckel mit farbigen Rokoko-Figurenbemalt,silbervergoldete Fassung.
+19. 571.Email-Flacon in bauchiger Form mit reizenden Ansichten und Rokoko-Figuren.
+20. 572.Kleine Statuette auf Marmorsockel,St.Georg mit dem Drachen,Silber.
+21. 573.Desgleichen.
+22. 574.Zwei sitzende Amoretten,vergoldet, auf Marmorsockel.
+23. 575.Schmuckkassette in romanischem Stile.
+- 576.Bonbonniere mit erhabenen Figuren und Ornamenten.
+577. Silberner Stollenbecher mit Deckel,auf der Rundung sechs Medaillons mit erhabenen romischen Kopfen und Ornamenten.Deckel in ahnlicher Art.Getrieben.
+- 578.Silbervergoldetes Rokoko-Schreibzeug in Form eines Weinlaubs.Auf diesem drei Gefisse in Eiform,deren Deckel je aus einem kleinen Laube bestehen.In der Mitte eine Muschel,auf welcher zwei Loffelchen in zarter Gravierung liegen.
+579. Russisches Hausaltarchen mit zwei Fligeln,in der Mitte Christus auf Goldgrund, auf den Flugeln je ein Heiliger,ganz in massivem Silber.
+580. Handleuchter auf dreieckigem Fuss,von einer Chimare getragen. Kupfer.
+- 581.Bonbonnieremit erhabenen Ornamenten und Figuren.
+- 582.Rundes Relief in Perlmutter,Portrat Au Ludoin Au Mars?,sign.L.Durand.
+583. Turkischer Mokka-Service, Platte,Kanne und sechs Tassen mit Tirkisen.
+- 584.Japanisches emaill. Rauchergefass,reich verziert,mit Blumen bemalt,auf Fissen.
+585. Japanisches Bronze-Rauchergefass,Ochse.
+586. Mannliche Buste,Bronze,von Barbedienne.
+- 587.Weibliche Biste auf Sockel,Bronze,Barbedienne.
+588. Mannliche Buste auf Sockel,Bronze,mit Allonge-Perricke,Barbedienne.
+- 5S9.Desgleichen,Bronze,von Barbedienne,Bosuet.
+590. Runde grosse Emaildose,Kupfer,Grund tiefblau mit erhohten Lilien in Goldfarbe. Bronzefassung.
+591. Schreibmappe. Deckel aus Lapis lazuli mit reicher durchbrochener,vergoldeter Bronzefassung. In der Mitte das Monogramm L. L. mit Krone. Historisches Stuck.Viel gebraucht.
+- 592.Lineal in vergoldeter Bronze, Grund mit schonen Ornamenten graviert,mit sechs viereckigen grossen Lapissteinen.
+593. Rundes Relief in Bronzefassung,auf Samt, Portrat Marie Antoinette in Biskuit.
+594. Zwei Emailgefasse in bauchiger Form auf drei Fissen,mit weissen Lilien auf tiefblauem Grunde.
+595. Schmuckschale in gleicher Ausfihrung wie Nr. 594.
+596. Runde grosse Emaildose auf Kupfer,tiefblau mit Bronzefassung,auf dem Deckel zwei Sehwanen mit Laub umrahmt.
+597. Flacon, blau,auf Rundung und Knopf originelle figirliche Darstellungen.
+- 598.Flacon,flach,auf Vor-und Riickseite spielende Amoretten.
+- 599.Flacon,rund, grau,mit Mauerwerk und spielenden Amoretten.
+- 600.Kleiner ovaler eiformiger Flacon,auf der Riickseite Gemilde nach Fragonard. Silbergarnierung.
+- 601.Flacon,blaugrau,auf der Rundung Baumgruppe mit Sehiferszenen,einste Bemalung.
+602. Kleiner Elefant von Bronze auf einer Schildkrote stehend.
+603. Viereckige Dose von Achat auf kleinen Fuissen in Bronzefassung.
+604. Schale, blau, emailliert, auf Kupfer,in der Mitte zwei Schwanen in Schilf.
+605. Zwei Schalen, blau, emailliert, auf Kupfer, in der Mitte zwei Sehwanen, etwas kleiner.
+606. Runde Bonbonniere, blau, emailliert,mit weissen Lilien.
+607. Kleiner Hausaltar,in der Mitte auf Goldgrund lehrender Christus,ganz in Silberfassung,teilweise durchbrochen.
+608. Russischer Hausaltar in Samtetui. In der Mitte auf Goldgrund Christus, auf einem Fligel Maria mit Jesuskind in Wolken, auf dem andern Fligel Johannes, in ganz feiner und zarter Weise gemalt. Das Ganze in massiver silbervergoldeter Fassung mit erhohten emaillierten Ornamenten. Kabinettstuck.
+- 609.Briefbeschwerer mit Phothographie.Medaillon mit koniglichem Portrat,Fassung Silber, teilweise vergoldet und mit Lapis verziert.Historisch interessantes Stick.
+610. Briefbeschwerer von vergoldeter Bronze durchbrochen mit Lapisknopf.
+- 611.und 612. Ein Paar Leuchter. Lapis mit vergoldeter Bronzefassung. Hohe 21 cm.
+- 613.Uhr. Der Fuss eine kannellierte Lapis-Platte,worauf in schonsten Rocailleformen spielende Amoretten eine lapisartig emaillierte Kugel mit Uhr tragen,oben auf rotem Kissen Konigskrone in Silber mit verschiedenfarbiger Vergoldung.
+614. Siegelstock in gleicher Ausfuihrung, aber Kugel von Lapis lazuli.
+- 615.Kristallgefass in Muschelform, den Griff bildet ein Schlangenhals und Kopf, Fassung emailliert Silber,vergoldet.
+616. Zundholzstander in Bronze mit Lapis lazuli eingelegt.
+617. Federwischer in Bronze mit Lapis lazuli oben.
+618. Schreibzeug, langoval in Bronze, ganz mit Lapis lazuli garniert und zwei KristallGefassen.
+619. Briefbeschwerer, Lapis lazuli,mit liegenden Baren in Bronze.
+- 620.Trinkbecher in Eiform,gross. Grund durchaus tiefblau, transparent emailliert mit ornamentalen Dessins,Fitterung in schwer vergoldetem Silber,Email auf Silber.
+- Seltenes Prachtstick in Sammtetui.
+- 621.Miniature-Brustbild Louis XVl.als Prinz,signiert Buchta 1884.
+- 622.Desgleichen als Kind,signiert Leroy 1883
+- 623.Desgleichen in Harnisch und Allonge-Pericke,signiert Buchta 1884
+- 624.Miniature-Brustbild, Portrat einer Dame in reizendem Kostim,in Bronzefassung auf Sammt,signiert &gt;Buchta.
+- 625.HolzKassette mit grotesken Tieren,in der Mitte Medaillon mit Lilie, teilweise farbig.
+- Frihgothisch.
+- 626.Kleines bayerisches Wappen, bemalt,auf Holz.
+- 627.Kleines Kreuz in Buchs geschnitzt,mit Silberfassung und Korallen.
+628. Grosse emailierte Bonbonniere,hellblau mit erhohten Goldlilien.
+- 629.Kleiner Hausaltar mit Fligel. In der Mitte die heilige Maria auf einem Stuhle sitzend, die Fluigel mit Inschriften. Die Umrahmung der Bilder wie die Aussen-
+- seite mit Einlagen von Bronze,Perlmutter und Schildpatt.
+630. Hausaltar mit Fligeln, sogenannter Maria-Stuart-Altar.In der Mitte befindet sich auf Goldgrund das Bild der Konigin Maria Stuart,iber diesem die Kronung derselben von Engeln getragen durch Maria und Christus,auf den beiden,je in drei Felder geteilten Flugeln Szenen aus Fr.Schillers gleichnamigem Drama. Auf dem Bilde selbst liegt eine Umrahmung von reich graviertem durchbrochenem Silber. Auf der Aussenseite durchbrochenes Beschlage,in der Mitte ein Kreuz. Rickseite mit Wappen und Krone von einer Schleife mit Inschriften umrahmt. Durchaus Silber,Kasten Ebenholz.
+
+Ganz interessantes historisches Unikum.
+
+631. Ovales Miniature-Email-Bild Konig Ludwig XiV. mit Allonge-Pericke und Rustung.
+632. Desgleichen in jingeren Jahren,in sehr feiner Ausfuihrung.
+633. Miniature in Bronze auf Samt, Konig Ludwig XIV.,in ausserst feiner Ausfuihrung.
+4. 634.Desgleichen in Etui, Konig Ludwig XIV.
+635. Rauchservice in drei Gefassen,Vorderteil ein Elefantenkopf,Rickseite und Henkel in Biffelhorn reich mit Silber garniert. Indische Arbeit.
+636. Reitpeitsche mit grossem Schwan in Silber.
+637. Desgleichen mit geflochtenem Griff von Silber.
+638. Desgleichen mit Lapis lazuli, Knopf und Goldbeschlage.
+- 639.Reitstock mit silberemailliertem Knopf.
+- 640.Reitpeitsche mit Lapis lazuli und Goldbeschlage.
+641. Desgleichen mit Rehfuss und Hundskopf.
+642. Desgleichen mit Korall, Diamanten und Goldbeschlage.
+- 643.Desgleichen, schwarz,mit Elfenbeingriff ein Lowe.
+644. Desgleichen, schwarz,mit Silberbeschlag,Knopf ein Helm.
+- 645.Bronzeglocke mit drei ornamentalen Wappenschildern und Figuren,vergoldet.
+646. Desgleichen mit sehr fein ausgefuihrten erhabenen Figuren und Sehriften.
+647. Bronze-Biste auf vergoldetem Sockel in weissem Thon. Bekleidung teilweise vergoldet.Du Barry,signiert Souvage,vortreffliche Komposition.
+- 648.Russisches Heiligenbild,durchaus in silberner Umrahmung mit Ornamenten,Schweisstuch und Heiligenschein.
+- 649.Fernrohr, echtes Frauenhofer,in Etui mit Krone.
+650. Ein Paar Bronze-Leuchter, Fisse mit drei Muscheln. Die Lichter werden von ver-
+- schlungenen Amoretten getragen,welche einen Lilienschild halten,ziseliert und vergoldet.
+- 651.Opernglas in Juchten-Etui, tiefblaues Email mit Goldornamenten in vergoldeter
+- Bronzefassung.
+- 652.Aibum in dunkelgrinem Plisch,Deckel mit durchbrochenen Ornamenten und vergoldeten Bronze-Verzierungen,in der Mitte in feiner Ausfihrung das griechische Wappen,der Ricken verziert mit Athen in Bronzeschrift.Der Inhalt besteht Widmungen an den friheren
+- aus 19 Zeichnungen,Apuarellen und Olskizzen. Besitzer.
+- 653.Elfenbeinfacher mit Adlerfedern.
+- 654.Schreibmappe, Grund hellblau,die Ecken mit Bronze garniert mit je einem grossen Achatstein in feiner Gravierung.Mitte kreuzformige Bronze-Verzierung mit fuinf
+- Achatsteinen. Vergoldet.
+- 655.Kleiner filigranartiger Porzellan-Becher,weiss mit blau und Gold.
+- 656.Bronze-Figur auf Postament in altdeutscher Tracht,M.Behaim
+- 657.Desgleichen,auf niederem Postament,Gansemannchene.
+- 658.Desgleichen, auf hohem Postament,Gansemannchen,in sehr hibscher Ausfihrung.
+- 659.Desgleichen,auf hohem Postament,im Kostum des vorigen Jahrhunderts,Gribel
+- 660.Eine facettierte Platte in Silberemail,in der Mitte Triumphzug. Den Rand bilden acht Medaillons mit auf erstern beziglichen Darstellungen.Das Ganze in reicher silbervergoldeter Fassung mit Mascarons und ornamentalen Verzierungen.
+661. Rundes Miniature in Bronzefassung auf Samt,Damen-Portrat La Valliere.
+662. Oval-Miniature in Bronzefassung auf Samt, Louis XIV., signiert Buchta.
+663. Grosses Miniature in Bronzefassung auf Samt, Konigin von Frankreich in reichem Kostim mit Hermelin und Lilien,welcher ein Amor die Krone auf einem Kissen
+4. tiberreicht.
+5. 664.Miniaturbild LouisXiv. in ganzer Figur mit Krone und Szepter in feinster Ausfuihrung. Rahme teilweise emailliert in reicher durchbrochener Bronze, oben auf
+6. derselben Wappenschilder und die Krone,von zwei Engeln getragen.
+665. Bronzegruppe auf Marmorsockel Minerva&lt;,neben ihr ein Harfe spielender Amor.
+8. vergoldet.
+666. Bronzeuhr auf vier Saulen,unter derselben eine kleine Rokoko-Gruppe, der Abschluss, sowie die ganze Uhr mit Vogeln und Laubwerk reich verziert.
+667. Ein Paar vierarmige indische Leuchter auf Saulen,weisses Metall.
+11. 68.Ein Paar zweiarmige indische Leuchter, teilweise vergoldet, reich garniert und
+12. durchbrochen.
+669. Schreibgarnitur, hochst interessantes Unikum,bestehend aus:
+14. Schreibzeug von Bronze in langlichter Form. Auf muschelartigem Kahn steht Lohengrin in ganzer Figur und voller Ausristung von einem Schwan gezogen, teilweise emailliertes weisses Metall.Das Ganze von erhabenen Frichten und Guirlanden umrahmt, steht auf vier durchbrochenen Fussen.
+15. Hohe 27cm,Lange 44em.
+16. Schreibmappe, hellblauer Atlas und Samt mit Bronze-Rahme. In der Mitte die Trophaen des Lohengrin,Schild, Schwert,Hufthorn, Speer etc.,auf den Ecken in reicher erhohter Umrahmung je ein Schwan, teilweise vergoldet.
+17. Briefbeschwerer,auf weissem Marmorsockel hangen an einem darauf liegenden Felsen die Trophaen Lohengrins,teilweise emailliert und vergoldet.
+18. Federhalter und Briefbeschwerer. Auf Marmorsockel sitzen zwei gekronte und bekranzte Schwanen auf durchbrochenem Laubwerk,in der Mitte ein Gefass zu Federn,teilweise vergoldet.
+19. Falzbein aus Elfenbein,Griff gewunden mit erhabenem Laubwerk, das Messer mit Namenszug und Krone auf beiden Seiten, silbervergoldete Fassung.
+20. Kristall-Siegelstock,oben ein kleiner silberner Schwan,die Platte umrahmt mit blauer Email und erhabenen vergoldeten Verzierungen.Embleme der Kunst.
+21. 670.Kleine Bronze-Uhr im Stile Ludwig XVI.,oben ein Taubenpaar,durchbrochene Fisse.
+22. 671.Federhalter,auf vergoldetem eckigem Sockel stehen drei Schwane in weissem Metall, welche den Behalter, ein Schilfnest, tragen.
+23. 672.Bronze-Statue, orientalische Frau in liegender, schlafender Stellung.
+24. Hohe32cm,Lange 38cm.
+25. Barbedienne.
+26. 673.Zwei Jagdgruppen zu Pferd mit Hunden, auf rotem Marmorsockel mit schoner Patina. Hohe 36 cm,Breite 35cm.
+674. Bronzegefass.
+- 675.Ein Paar grosse Pferdegruppen. Kopieen der Pferdebandiger am Place de la Concorde, Bronze in feinster Ausfihrung und sehr schoner Patina, signiert Couston.
+676. Desgleichen.
+677. Ein Paar Ritter,bewaffnet in voller Ausristung und mit Turnier-Stange, auf Holzsockel stehend. Eisen. Hohe38cm.
+- 678.Statue, franzosischer Offizier im Kostim des 30jahrigen Kriegs in ganz feiner Ausfihrung und eleganter Haltung.Zink.
+- 679.Bronze-Vase, cylinderformig, mit Vogeln und Blumen garniert,indisch.
+680. Tschibuk mit grosser Bernseinspitze,reich mit farbiger Steinfassung und silbervergoldetem Flechtwerk.
+681. Desgleichen ohne Steinfassung.
+682. Desgleichen mit Steinfassung.
+683. Ein Paar Vasen, weisser Marmor mit vergoldeten Bronzefissen. Auf dreieckigem kanneliertem Sockel steht die Vase von Bronze,die Fisse bilden Pratzen,in der Mitte je eine weibliche Biste, die Vasen langlicht oval. Hohe 31 cm,Breite 34 cm.
+684. Ein Paar runde Schalen auf vergoldetem Bronze-Sockel,die Fiisse bilden Pferdehufe und durchbrochene Ornamente, Schalen in farbigem Marmor. Hohe 19 cm,Durchmesser 36 cm.
+685. Ein Paar Marmorschalen mit Fuss. Trager und Henkel in reich vergoldeter Bronze im Empire-Stil,in farbigem Marmor, schone hervorragende Arbeit. Hohe 30 cm,Breite 30 cm.
+686. Ein Paar Bronzeschalen, auf reich ziseliertem Fusse stehen als Trager drei spielende Kinder,mit auslaufendem Laubwerk die Schale haltend,vergoldet. Hohe 41cm,Durchmesser 40 cm.
+687. Ein Paar Henkelkannen mit Bronze. Auf rundem Marmor-Sockel sitzt ein Schwan mit spielendem Kinde und Lilien-Guirlande als Trager,auf der Vorderseite ein sitzender Amor auf einem Mascaron in Schildform mit Malachiteinlagn,den Henkel bildet ein spielender Amor mit Laubwerk und umschlungener Draperie, der Ausguss ist muschelformig. Reich vergoldet,in vortrefflicher Ausfihrung. Hohe 64 cm.
+688. Ein Bronze-Tischchen im Stile Louis XV. mit geschweiften Fuissen,Platte von Porzellan in Bronze gefasst mit Medaillons,in der Mitte Louis XV. mit seinen Hofdamen. Seores.
+- 689.Desgleichen mit Louis XVI. Sevres.
+- 690.Desgleichen mit Louis XIV.in juingeren Jahren. Sevres.
+691. Ein Bronze-Tischchen mit Louis XIV. in alteren Jahren.
+2. Sevres.
+692. Miniaturbild Ludwig Xiv. im Ornat,in Bronze-Rahme auf Samt mit verzierten Ecken, sign.Weiland 1885&amp;.Feinste Ausfuhrung. Hohe 33cm,Breite 24cm.
+4. 693.Desgleichen in etwas anderer Auffassung. Hohe 31cm,Breite 24em.
+5. 694.Miniaturbild La Valliere in Klein Trianon,ganz vorziglich,Rahme in Bronze und Samt.
+6. 695.Desgleichen,Marie Antoinette, sitzendes Brustbild,Rahme in Bronze und Samt.
+696. Desgleichen,Louis XIV. als Prinz von Frankreich,mit Ornamenten,in schonem
+8. Kostim auf dem Throne sitzend,von Weiland nach Rigaud. Hohe 31 cm,Breite 20 cm.
+9. 697.Miniature,Louis XIV.in alteren Jahren. Hohe 23 cm,Breite 17cm.
+698. Eine Uhr und ein Paar Leuchter. Auf durchbrochenem, vergoldetem Bronzefuss steht eine Porzellan-Gruppe:Liebespaar,daneben Kinder von Laubwerk umgeben, um die Uhr schlangelt sich Laubwerk mit freistehenden Blumen.Durchbrochene Umrahmung. Leuchter zweiarmig. Auf ahnlichem Sockel steht je eine mannliche
+11. und weibliche Porzellan-Figur mit Laubwerk und Blumen.
+
+Hohe der Uhr 53cm,der Leuchter 38cm. Meissen.
+
+699. Ein Schreibzeug und ein Paar Leuchterchen, Stil und Ausfuihrung ganz dieselbe
+
+wie Nr.698.
+
+Schreibzeug 41 cm,Leuchter 21 cm.
+
+- 700.Ein Paar Bronze-Girandoles mit sieben Armen.Auf durchbrochenem Fusse liegt ein Amor als Trager des Leuchters,welcher sich in gewundener Form erhebt. Vergoldet. Hohe 57 cm.
+701. Bronze-Tisch mit Marmorplatte und reich durchbrochenem Fusse mit Vogelgruppen und einem Pfau als Hauptstick, den Trager bilden Aste mit Ranken-Verzierungen. Tischplatte mit abgerundeten Ecken in durchbrochener Rahme,teilweise versilbert und vergoldet.
+
+Hohe 93 em,Durchmesser 48 cm. Interessantes Stuck.
+
+- 702.Bronze-Reiterstatue,Marechal Turenne auf Boule-Sockel,in der Mitte und auf den
+
+Ecken je ein Mascaron.
+
+Hohe mit Sockel 87cm,Breite 62 cm.
+
+Kabinettstuck.
+
+703. Ein Paar Girandoles,vergoldete Bronze,fir je zehn Lichter. Auf schwerem mit aufsteigendem Laubwerk und Guirlanden verziertem Sockel sitzt ein Amor,weleher den gewundenen Leuchter in schonster Rokokoform tragt. Hohe 80 cm.
+- 704.Grosse Boule-Uhr mit Sockel. Zifferblatt Goldgrund mit erhaben emaillierten Zahlen. Die Ecken der Uhr sind mit Karyatiden verziert,in der Mitte durchbrochene Goldverzierungen,oben ein stehender blasender Engel mit Palmzweig. Der Sockel in gleicher Weise wie die Uhr mit Bronze verziert,reich vergoldet. Hohe mit Soekel 128 cm.
+- 705.Bronze-Uhr auf Fuissen.Zifferblatt in getriebenem Goldgrund mit emaillierten Zahlen, Kasten mit erhohtem Laubwerk und ornamentalen Verzierungen,oben die Minerva, vergoldet.
+
+Hohe 78 cm.
+
+706. Grosse Bronze-Standuhr auf reichverziertem teilweise durchbrochenem Sockel steht Saturn an die Weltkugel gelehnt,welche das Ziferblatt bildet,auf der Uhr sitzen und stehen Amoretten,eine mit Sanduhr,die andere mit Pfeil die Zeit anzeigend, um Saturn schlingelt sich zu ihm aufblickend,ein Amor. Die ganze Uhr mit Blumen-Guirlanden und Frichten geschmickt. Saturn in schwarzem Ton,Weltkugel blau,alles ibrige in reicher Vergoldung.
+
+Hohe 60 em.
+
+707. Rokoko-Uhr auf Sockel.Der Grund rot mit weissbemalten Blumen. Die Garnierung in vergoldeter,durchbrochener Rocaille-Verzierung.Zifferblatt weiss mit emaillierten
+2. Zahlen.
+708. Bronze-Uhr mit durchbrochenem Laubwerk und Rankenverzierungen,vergoldet.
+4. Hohe68cm.
+709. Grosse Gruppe auf Marmor-Sockel, drei Krieger erheben Konig Ludwig XV.von Frankreich auf den Schild und blieken in knieender Stellung zu ihm auf, reich vergoldet in feinster Ziselierung. Gezeichnet von Herzner, modelliert von Hartmann,ziseliert von Professor Halbreiter 1872.
+6. Hohe 94 cm,Durchmesser 50 cm,Sockelhohe 27em.
+710. Grosse Hanguhr,Zifferblatt mit erhabenen Goldornamenten,unten sitzt ein Amor in verschlungenem Laubwerk mit Vogel spielend,oben eine Venus in Wolken und verschlungenem Masswerk.Das Ganze bildet eine grosse Kartusche mit erhabenen Blumen und Guirlanden,durchaus Bronze. Ganz hervorragendes Kunstwerk.
+8. 711.Uhr in Marmor-Sockel mit daraufstehender Figur.Der Marmor in grauem Ton reich in Bronze verziert,oben eine stehende Figur mit Schild,auf welehem Lilien, Amor Zepterund Krone haltend.
+
+Hohe 75 cm.
+
+- 712.Ein Paar grosse Henkelvasen.Den Fuss bilden vier Delphine mit erhabenem Laubwerk und Frichten,die Rundung der Kanne in ornamentalen,stark erhohten Verzierungen,auf der Vorderseite mit Mascaron,in der Mitte Monogramm zwei verschlungene L,den Ausguss bildet ein Drache in springender Stellung,mit auf ihm sitzendem Knaben.Den Henkel bildet ein Tierkopf in Fischsehwanz und Laubwerk auslaufend.
+
+Hohe70cm. Kabinettstuck ersten Rangs.
+713. Wasch-Service,aus sieben Stick bestehend:Krug,Waschschissel, Schwammschale, Seifenschale,Birsten-und Puderbuchsen,Flacon.Das Innere der Waschschissel mit reich aufgetragenen Goldornamenten,Masswerk und Tieren verziert,in Bronzerahme gefasst,die Fusse bilden vier Delphine mit erhohten, durchbrochenen Rocaille-Verzierungen.Der Krug mit Bronzehenkel einen verschlungenen Delphin darstellend, woran sich reiche Verzierungen in erhabener Form aufbauen.In der Mitte das Monogramm mit durchbrochener Krone,der Henkel in gefalliger massiver Form.Die tibrigen Sticke in gleicher Art gehalten und verziert. Grundton blau,das Ganze in schonster,schwerer Vergoldung.Porzellan,Meissner Fabrikat, nebst zwei weiteren Reservegarnituren.Ausgefuihrt von Harrach&amp; Sohn,modelliert von Bildhauer Professor Perron in reinstem Rokoko-Stil.
+
+Hohe des Kruges 50 cm,Linge der Schissel 61 cm,Breite 44cm.
+
+Kabinettstucke.
+
+714. Grosse astronomische Spieluhr im Stil Ludwig XIV. Die Fuisse bilden vier Engelskopfe, die verschiedenen Zifferblatter auf Goldgrund in schonster Ziselierung. An den vier Ecken stehen reizende Figuren,unter Baldachin auf Postamenten die vier Jahreszeiten,iber diesen je eine kleine Vase,auf der Bedachung der Vorund Ruckseite sitzen je zwei Amoretten.Den Abschluss bildet der Ritter St. Georg zu Pferd mit dem Drachen.Auf der ganzen Flache der Uhr befinden sich aufgelegte durchbrochene Ornamente aus weissem Metall. Zu beiden Seiten und
+2. Rickseite geschliffene Glaser zur Besichtigung des Uhr-und Spielwerkes. Das Ganze in reichster Vergoldung.Ausfuihrung in hervorragender Schonheit.
+
+Hohe 105 cm,Breite 60 cm,Tiefe 42cm.
+
+Kabinettstuckersten Ranges und Unikum.
+
+715. Grosse Hubertusgruppe in Silber. In knieender Stellung vor einem Hirsch mit Kruzifix zwischen dem Geweih befindet sich der heilige Hubertus, denselben anbetend, daneben sein sich aufbaumendes Pferd in teilweise vergoldeter Ausstattung.Der Boden der Gruppe ist mit Laubwerk und niederem Gestrauche verziert und die Ausfuhrung das Hervorragendste von Ziselierarbeit. Die Gruppe stehtaufeinem Ebenholz-Sockelvon vortrefflichem Aufbau,mitvierrunden Saulen von Lapis,in vergoldeter erhabener Silbergarnierung. Die Einlagen des Sockels sind geatzt mit heraldischen Lowen,verschiedenen Tieren und Ornamenten. Auf der Vorderseite sitzen zwei behelmte Amoretten als Sehildtrager mit dem Monogramm des Konigs und durchbrochener Krone auf blauem Grunde. Die Medaillons der beiden Seiten und der Rickseite sind mit Jagdtrophaen auf Lapis-Platten ausgestattet und ziehen sich um den ganzen Sockel Kranze von Laubwerk. Signiert
+2. 》A.Halbreiter 1886&lt;,Professor. Hohe mit Sockel 40 cm,Breite 36 cm.
+
+Kabinettstuck ersten Ranges.
+
+716. Bronze-Statue auf Marmor-Sockel. Konig Philipp Il. in schonster Ausfuihrung.
+2. Hohe mit Sockel 95 cm. Nirnberg.
+717. Schreibzeug in reich und schwer vergoldeter Bronze,von monumentalem Aufbau mit der Reiterstatue Konig Ludwig XiV.als romischer Imperator,welche auf erhohtem Sockel den Abschluss der den Schreibzeug umfassenden halbkreisformigen
+Gallerie bildet. Zu beiden Seiten dieses Sockels sitzen zwei weibliche Figuren mit den Emblemen der Macht'und Gewalt des Staats,an derVorderseite befinden sich zwei Amoretten als Schildtrager mit Monogramm des Konigs, oben mit durchbrochener Krone und zu den Fissen der Amoretten ein Frauenkopf in Blumengewinde. Auf beiden Seiten der Gallerie sitzen als Abschluss auf Postamenten zwei Amoretten mit den Emblemen des Krieges und Friedens.In der Mitte befindet sich das Schreibzeug in reicher Ornamentierung und schliesst mit einem muschelformigen Gefass,auf den Seiten mit auslaufendem Laubwerk und Blumen in schonster Ausfihrung ab.Rickseite in gleich reicher dekorativer Ausstattung. Modelliert von Bildhauer Professor Perron in Minchen,ausgefihrt von Harrach und Sohn daselbst.
+
+Hohe 62cm,Breite96 cm,Tiefe 55em. Kabinettstuck ersten Ranges und Unikum.
+
+718. Reliefbild der Konigin Marie Antoinette von Frankreich, in Silber getrieben mit Monogramm und Lilien in reich verzierter Blumendekoration und Laubwerk auf hellblauem Sammtgrund,in getriebener ovaler Bronze-Rahme mit reich durchbrochenem Aufsatz in feinster Ausfihrung.Entworfen und ausgefihrt von Harrach und Sohn in Munchen.
+
+Hohe 58cm,Breite 44cm.
+
+- 719.Zwei Pyramiden,105 cm hoch. Auf einer 50X40 cm grossen Onyxplatte steht eine Pyramide aus Lapis lazuli auf zwei ibereinander liegenden Platten aus Lapis, deren untere 42X33cm gross ist.Auf diesen ein hoher Sockel,an dessen Fuss auf der Vorderseite Neptun in grosser Figur sitzt, welcher mit dem Arme ein Aneroid-Barometre halt,neben ihm ein Amor mit Hufthorn. Die obern Ecken des Lapissockels auf dem die Pyramide ruht,bilden vier Delphinkopfe，iber dem Aneroid ist in Bronzefassung eine Gemme mit Triumphzug eingelassen, auf den vier Delphinkopfen stehen vier flache mit Bronze gefasste Lapis-Saulen, welche die Ecken der Pyramide bilden,zwischen diesen Saulen, an deren Fuss, sind die Embleme der Jagd und des Ackerbaus angebracht,iber der Gemme ein Thermometer und als Abschluss hoch an der Pyramide eine Genie in Wolken,welche eine Urne ausgiesst. Das Pendant ist in ganz derselben Weise ausgefuihrt,unter einer im Sockel eingelassenen Uhr sitzt an dessen Fuss eine weibliche Figur auf Ahren,neben diesen Sanduhr und Sichel und ebenfalls Amor. Die Saulentrager bilden Lowenkopfe mit Emblemen der Musik und Landwirtschaft. Abschluss eine Genie in Wolken,in der Linken die Sonne haltend. Beide Sticke in ganz vollendeter Schonheit und Pracht in reichster Ausfihrung aus Lapis lazuli in Goldbronze-Garnierung.
+
+Kabinettstucke und Unicas.
+
+720. Zwei grosse Girandoles auf Postament. Mohren in sehr reicher Draperie, in der Hand je einen neunarmigen Bronzeleuchter haltend.Venetianische Arbeit.
+721. Weihwasserbecken in vergoldeter Bronze. In architektonischer Schonheit erhebt
+3. sich die Ruckseite von Amoren getragen, in der Mitte das Gemilde Johannes der Taufer in der Auffassung: Du bist mein lieber Sohn, an dem ich Wohlgefallen habe, die beiden Seiten bilden Caryatiden mit Palmzweigen in der Hand,als Trager einer Marmorgruppe: Gott Vater, Sohn und heiliger Geist, und dabei das Monogramm L. mit erhabener durchbrochener Konigskrone. Oben zu beiden Seiten je
+eine kleine Vase mit Flammen.Die Trager der Marmorschale sind Amoretten in verschiedenartigen reizenden Stellungen.Das Ganze mit reichen Guirlanden, Frichten,kleinen Caryatiden und Cartouchen verziert.Modelliert von Professor
+
+Perron in Minchen. Hohe 90\_cm,Breite 60cm.
+
+Hervorragendes Unikum.
+
+- 722.Pracht-Tischglocke in Goldbronze,auf grossem monumentalem Postament mit reichen Festons und Schildern verziert. In der Mitte des Sockels Mascarons, auf den Eeken vier Amoren,der Untergrund durchaus Lapis,der Griff der Glocke besteht aus einer geflugelten weiblichen Figur,welche mit beiden Armen eine Konigskrone emporhalt,zu deren Fussen ein kleiner Amor.Der Korper der Glocke kanneliert in reichster Vergoldung und Ausstattung.Modelliert von Professor Perron,ausgefihrt von Harrach &amp; Sohn,Munchen.
+
+SehrhervorragendesUnikum.
+
+723. Grosser vergoldeter Schreibzeug aus Bronze,in reichem figirlichem Aufbau mit Konigskrone in farbigen Steinen gefasst,unter dieser zwei franzosische Wappenschilder in Email,darunter das ovale Portrat Ludwig XIV.in feinster Miniaturmalerei,umgeben von mythologischen Figuren und Amoretten.Auf den Deckeln der Tintenfasser ebenfalls Amoretten,die Kinste darstellend.Glocke in reicher Ziselierung,oben eine Knabenbuste,Vorderseite mit Monogramm und Krone. Zu dem Schreibzeug gehorig: eine dazu passend ausgefihrte grosse Federschale, ebenfalls in reichster Vergoldung.Entworfen von Brochier,modelliert von Kramer&amp;,ausgefuihrt von Harrach &amp; Sohn in Munchen.
+
+Hohe 68 cm,Breite 70 cm. Kabinett-und Prachtstuck,Unikum.
+
+- 724.Grosser Briefbeschwerer in vergoldeter Bronze. Auf einem Sockel mit Lapis belegt ruht eine Gruppe auf Felsen,zwei grosse weibliche Figuren, eine mit Palmzweig, die andere mit Heertrompete halten die Konigskrone in die Hohe,auf der Vorderseite sitzen zwei Amoretten,ein Monogramm mit Schild haltend,Rickseite in gleicher Weise verziert, das Ganze in feinster und reichster Ausfuhrung. Hohe 37 cm.
+
+<!-- image -->
+<!-- image -->
+
+## Elfenbein.
+
+725. Notizbuch mit Szenen aus Lohengrin in schoner Ausfihrung.
+726. Desgleichen, mit Bauernszene nach Defregger.
+727. Ahnliches Notizbuch.
+4. 728.Desgleichen.
+729. Kleines rundes Doschen, innen gemaltes bayerisches Wappen.
+6. 730.Ovales Relief, Brustbild Louis XIV.
+731. Liegender Lowe, Wappen der Stadt Luzern.
+8. 732.Desgleichen.Defekt.
+9. 733.Notizbuch mit Medaillons Lohengrin.
+734. Stehende Kuh auf Sockel.
+11. 735.Stehender Stier auf Sockel.
+12. 736.Notizbuch mit Maiblumen-Bouquet.
+737. Desgleichen mit franzosischer Lilie.
+14. 738.Amor auf Sockel, Pfeile schiessend.
+15. 739.Desgleichen auf Sockel,mit Hut, als Jager,an einem Blumenbouquet.
+16. 740.Laubfrosch zum offnen,mit Glasflacon.
+17. 741.Indischer Elefant auf einem Sockel schreitend,bepackt.
+742. Stier auf einem Sockel stehend.
+2. 743.Heiliger Georg den Drachen totend,auf Sockel.
+744. Gamsbock auf Sockel.
+745. Amor auf Sockel,mit einem Herz spielend.
+746. Nacktes Madchen auf Sockel an einem Baumstamme sitzend.
+6. 747.Ahnliche, bekleidete Figur in anderer Stellung.
+7. 748.Afrikanischer Elefant auf Sockel und Postament.
+8. 749.St. Georg zu Pferd,den Drachen totend,auf Sockel und Postament,in feiner Ausfihrung.
+9. 750.Spielendes Kind,mit Fackel und Blumen auf einem Baumstamm mit verziertem Sockel sitzend.
+10. 751.Desgleichen,ahnlich dem vorigen.
+11. 752.Kleiner Amor am Ambos ein Herz bearbeitend.Auf Sockel.
+12. 753.Desgleichen,als Bettler.Auf Sockel.
+754. Schwimmender kleiner Schwan. Auf Sockel.
+755. Grosses Kreuz mit Christus, in sehr feiner und zarter Ausfuihrung. Kreuz:Lange 57 cm,Breite 33 cm.Christus:Lange 30 cm,Breite 28cm.
+15. 756.Maria,auf Boule-Sockel in verzickter Stellung und in reichen fliegenden Gewandern.
+16. 757.Gruppe, drei Grazien auf Sockel und Postament. Hohe25cm. Reizende Komposition.
+17. 758.Figur auf hohem Postamente,Hagen.
+759. Merkur mit Engelkopf auf hohem Postament, in ausserst zarter und feiner Ausfihrung.
+19. 760.Feuerzeug mit Bronze, Elfenbeinplatte und Gemse.
+761. Kleines Doschen, eine Rose auf einer Nelke.
+762. Grosser, schwimmender,gekronter Schwan auf Postament in brillanter Ausfihrung.
+763. St. Georg zu Pferd, den Drachen totend,auf Sockel.
+- 764.Venus mit Amor spielend, am Sockel Tauben,Postament verziert. Hohe 27cm.
+- 765.Desgleichen,etwas kleiner gehalten. Hohe 26cm.
+766. Schwarzer Ebenholz-Elefant auf Elfenbein-Sockel, tragt auf dem Ricken einen Thermometer in einem auslaufenden Elfenbeinzahn.
+- 767.Kleiner schwimmender Schwan auf Postament.
+768. Elfenbein-Pokal,auf rundem mit Laubwerk verziertem Sockel ruht der Pokal auf verzierter Saule in sehoner Form mit vier Medaillen, worauf reich und fein geschnitzte Szenen aus den Nibelungen,Deckel mit durchbrochenem Masswerk und
+- gothischen Saulen verziert, die Fitterung ein silbervergoldetes Gefass. Hohe 40cm.
+- 769.Uhr auf Postament, das Zifferblatt befindet sich in einem Gemauer,worauf erhabenes
+- Laubwerk, oben St. Georg den aufsteigenden Drachen totend. Sehr interessant.
+- 770.Amor mit Fackel auf einem Postament stehend.
+771. Lichtschirm,den Trager bildet eine agyptische Figur auf rundem Sockel. Der Schirm stellt den Abschied des Lohengrin von Elsa in ganz hervorragender Arbeit dar,in einer Umrahmung von Eichenlaub mit Frichten. Sehr interessantes Stuck.
+772. Stier auf Postament.
+773. Portemonnaie mit Lilie.
+- 774.Notizbuch mit farbigem erhabenem Maiblumen-Bouquet.
+- 775.Bonbonniere, klein, rund, glatt.
+- 776.Kleines Notizbuch mit gemaltem Postillon d'Amour.
+- 777.Desgleichen mit gemalten Amoretten.
+- 778.Uhr auf Sockel. Burgartiges Gebaude,an dessen Treppe ein Landsknecht steht,
+- oben die kleine umrahmte Uhr. Das Ganze aus der Rundung eines rohen halben Elefantenzahnes gefertigt.
+- 779.Kleiner Amor auf Postament mit Pfeil und Bogen spielend.
+780. Notizbuch. Das Vorderteil stellt das Innere des Hans Sachs'schen Hauses yor, auf den Seiten Wappen der Stadt Nurnberg.Sehr feines Stick.
+- 781.Sitzende Venus auf Baumstamm mit Sockel.
+- 782.Desgleichen.
+783. Relief, Christus mit den Juingern am Olberg. Sehr zarte Ausfuihrung.
+2. 784.Falzbein.Gemsjager,in schoner Ausfuihrung.
+785. Desgleichen mit bayerischem Wappen,Rokokoform.
+4. 786.Desgleichen, Wilhelm Tell.
+5. 787.Kleiner St. Georg,den Drachen totend,auf Sockel und schwarzem Postament mit Glasglocke.
+6. 788.Runde Dose,auf deren Deckel ein schreitender Schwan.
+789. Kleine schwarze Holzgruppe mit Nachen, oben Wilhelm Tell in Elfenbein, in bekannter Stellung denselben abstossend.
+790. Reliefbild in vergoldeter Bronze-Rahme,Anbetung der Maria mit dem Jesuskind, am Sockel spielende Amoretten, in feinster Ausfuhrung.
+791. Zehn Stick Figuren auf mit Elfenbein eingelegten Ebenholz-Sockeln:Fliegender Hollander,Parcival,Lohengrin,Walter Stolzing,Tannhauser,Tristan,Siegfried, Hans Sachs, Parcival, Wilhelm Tell. Samtlich in ganz hervorragender Ausfuhrung. Hohe 30 cmmit Sockel.
+
+<!-- image -->
+<!-- image -->
+
+## Email- und Miniatur-Portrats, Denkmunzen in Gold
+
+## und Silber, Orden, silberne Pokale, Prachtdegen und Reitpeitschen mit Edelsteinen.
+
+792. Cigarrenspitze in Meerschaum mit durchbrochenen Verzierungen,oben ein Reiter in Rokoko-Tracht.
+2. 793.Desgleichen, ebenso.
+794. Desgleichen, Lohengrin im Kahn,vom Schwane gezogen.
+4. 795.Desgleichen,ebenso,etwas kleiner.
+5. 796.Meerschaum-Pfeife,Biste eines jungen Madchens.
+6. 797.Kleine Miniature, koniglicher Prinz,Kinderportrat in Goldfassung.
+798. Miniatur-Portrat,Dame als Jagerin in Rokoko,auf Kupfer.
+8. 799.Notizbuch mit Kalender,die Platten emailliert, auf einer Seite Grund weiss mit erhohtem Goldportrat in blauer Einfassung,auf der andern das bayerische Wappen mit Kriegstrophaen.
+9. 800.Tabakdose in Gold,emailliert,auf dem Deckel das Portrat des Sultans in ovaler Umrahmung mit Steinfassung,auf der Flache kleine emaillierte Blumchen und
+10. Vergissmeinnichte mit Diamanten. Hervorragendes Stuck.
+801. Gold-Emaildose, Grundfarbe grin und weiss mit erhohten perlartigen Verzierungen,
+12. in der Mitte des Deckels das Portrat Louis XIV.
+13. 802.Goldenes Armband in drei Gliedern mit Smaragden und in der Mitte Medaillons
+14. mit Miniatur-Gemalden Aufzug des Konigs in Delhi,Catab Minhar bei Delhi, Fadscha Mahal bei Agra,indisches hochst originelles Stick.Fein Gold.
+803. Email-Portrat,klein oval, in schonster Ausfuhrung.
+804. Grosse hollandische Silberdose in erhabener Verzierung,langlicht.
+3. 805.Goldene matte Kette mit Cache.
+806. Bronzebichse, emailliert.
+807. Goldene Taschenuhr.
+808. Notizbuch in Silberfiligranfassung mit getriebenen Ansichten.
+809. Siiber-emaillierte Uhr mit schonen figirlichen Darstellungen.
+8. 810.Flacon,blau emailliert in Silberfassung.
+811. Kleine silberne Traube.
+812. Busennadel, gesatteltes Pferd in Silber,Goldstiel.
+11. 813.Desgleichen,silbernes Schwert.
+814. Esserich-Schale,klein,in Silber getrieben,mit Sehwan.
+13. 815.Nelke in getriebenem Silber.
+816. Kieines Kreuz,Lapis lazuli in Goldfassung, in Etui.
+817. Grosse Spindeluhr, Gold,mit Ubergehause.
+818. Gold-Lorgnette, emailliert,
+819. Kleines goldenes Kreuz.
+820. Goldener Anhanger,tirkisch,in Halbmondform mit Turkisen
+821. Goldenes kleines ovales Medaillon mit Steigbigel.
+20. 822.Busennadel, Lapis in Wurfelform, Goldstiel.
+823. Vier Lapis-Knopfe, langlichte Form,in Silberfassung.
+22. 824.Uhrschlussel in Schluisselform, Goldemail.
+23. 825.Kruzifix aus Lapis in Silberfassung, Geschenk Papst.Pius IX.,graviert 7.Mai 1867&amp;.
+826. Email-Taube in Gold, in Etui.
+25. 827.Photographie-Rahmchen in Silber,Hufeisenform.
+26. 828.Kleine venetianische Gondel, Silberfiligran.
+829. Kleines silberemailliertes russisches Gefass.
+28. 830.Goldener Uhrendeckel mit emailliertem Schwan,innen Darstellung des Lohengrin.
+29. Mit Uhrschluissel.
+30. 831.Becher, silbervergoldet,mit Deckel und Henkel,reich graviert und mit Steinen besetzt.
+832. Becher, silbervergoldet und graviert, in Etui.
+833. Miniature, Dame in Rokoko-Kostim,Elfenbein.
+3. 834.Relief in Bronzefassung,in Etui, auf blauem Grunde das Portrat Richard Wagners in Wachs poussiert, in sehr feiner Ausfihrung.
+4. 835.Kleine Kristalluhr,emailliert. Den Trager bildet ein musizierender Amor. Silber vergoldet.
+836. Goldene Pfauenfeder, Griff blau, transparent emailliert,die Feder nach der Natur.
+837. Silberne Rose, Flacon,reich ziseliert.
+7. 838.KristallFlacon, flach, in reicher Silbergarnierung, teilweise emailliert.
+839. Orientalisches Messer, Griff Elfenbein,oben und unten silberne Tierkopfe,Klinge reich graviert.
+9. 840.Reichziselierter Dolch,versilbert.
+10. 841.Orientalisches Messer, Seheide mit Stoff.
+11. 842.Briefbeschwerer, silbervergoldet mit durchbrochenen Verzierungen,oben ein schreitender indischer Elefant mit drei kleinen Amoretten in Umrahmung von 44 Stiek grossen Turkisen. Brillantes Stuck.
+843. Pferd in Silber, als Flacon,ungesattelt,in sehr feiner Ausfihrung.
+844. Kuh in Silber, als Flacon, in sehr feiner Ausfuihrung.
+14. 845.Rosenbouquet in Silber, farbig emailliert.
+15. 846.Zwei silberne Salz- und Pfeffer-Gefasse mit Loffel als Reitpeitschen,Hufeisenform, russisch.
+16. 847.Esserich-Schale,Silber,reich mit Frichten ziseliert.
+17. 848.Miniature der Konigin Marie Antoinette in feiner Ausfuhrung.
+18. 849.Medaillon mit Landschaft,in breiter,durchbrochener silbervergoldeter Rahme.
+19. 850.Tintengefass, Pferdefuss in weisser Metalfassung. Deckel: Jokaikappe und Reitpeitsche.
+20. 851.Kleine runde Dose,auf Deckel und Rickseite ein feines Marine-Miniaturbild.
+852. Zwei Reiterpistolen und ein orientalisches Messer in einem Etui.Die Pistolen alt orientalisch mit Feuerschlossern,Laufe mit Gold tauschiert,Gravierung mit reicher Silbereinlage,der Messergriff mit feinen durchbrochenen Verzierungen,Seheide ganz verziert,teilweise vergoldet.
+853. Orientalisches reich ziseliertes Messer.
+- 854.Miniaturbild,Louis XIV.als Prinz von Frankreich,in iberaus reich ausgefuhrter
+- Bronze-Rahme in Samt.
+- 855.Desgleichen Marie Antoinette&amp;in jugendlichem Alter,in hervorragender Schon-
+- heit in Oval-Bronze-Rahme.
+- 856,Silbermunze Dombau Ulm.
+- 857.Medaille mit Ludwig XVIll., Silber.
+- 858.Desgl. mit Ludwig XV., Silber.
+859. Desgl., russische, Silber, Kreml und kaiserliche Familienportrats.
+860. 14 Stick diverse Bronzemedailien.
+861. Silberminze, Louis XVI.,Marie Antoinette und Dauphin.
+862. Silbermedaille,Portrat von Louis XV.
+- S63.Degleichen,Portrat von Marie Antoinette.
+864. Funf Stick silberne Funffrancsthaler von 1709,1711 und 12.
+865. Silbermedaille,Portrat eines geistlichen Fuirsten von 1831.
+866. Silbervergoldete Salzburger Klippe.
+867. Silbermunze, Heinrich V.,1831.
+868. Silbermedaille,Louis XVI.
+869. Bronzemedaille,Louis XV.
+- 870.Medaille, Kronprinz Rudolf von Osterreich,1881.
+871. Desgl., grosse silberne mit Louis XIV., Rickseite vier Familien-Portrats.
+- 872.Portrat-Medaille in Gold,auf der Vorderseite zwei Medaillons mit erhohten Portrats von Kartuschen umrahmt, darunter das bayerische Wappen. Ruckseite die Dedikation.
+873. Grosse russische Goldmedaille mit Kaiser Nikolaus, Rickseite Anker mit Strahlen.
+- 874.Goldminze in feinem Samt-Etui, Konig Ludwig Il. von Bayern.
+- 875.Desgl.,Pio nono.
+- 876.Desgl.,Portrat Kronprinz Ludwig und Kronprinzessin Therese, von 1810.
+877. Desgl., Portrat Konig Max I. und Konigin Therese.
+878. Desgl.,Portrat Konig Ludwig I. der Stadt Augsburg, 1836.
+879. Salzburger Schraubthaler, Silber.
+- 880.Grosse Bronzemedaille mit Portrat Franz Liszt,1840.
+881. Goldminze Erzherzog Albrecht.
+882. Ein Etui mit russischen Kronungsmunzen, Doppelportrat Kaiser Alexander lll. mit Gemahlin:zwei grosse Goldminzen, drei Silberminzen, auf dem Deckel des Etui
+3. das russische Wappen.
+883. Lapis lazuli-Uhr in Bronze, Empire-Stil.
+884. Zwei Lapis lazuli-Schalen in Bronze,auf Postamenten.
+6. 885.Kleine Kristall-Uhr, silbervergoldet,auf Sockel, Ziferblatt emailliert,an den Ecken
+7. Saulen mit Abschluss von Drachen, oben ein kleiner Knabe mit Trauben.
+886. Thermometer mit Barometer zum Aufstellen,in viereckiger Bronze-Rahme. Das Barometer halten drei stehende Amoretten in Wolken,das Thermometer Tauben, welche von Nymphen in Laubwerk auslaufen, das ibrige reich verziert mit Ranken-
+9. werk und Arabesken,oben eine strahlende Sonne. Schone getriebene Arbeit. Hohe 37cm,Breite 18cm.
+10. 887.Siegelstock in Silber,einen russischen Kaviarhandler darstellend,in Etui
+888. Kristall-Uhr, silberemailliert, den Trager bildet ein Mohr, den Abschluss Drachen, in Etui.
+12. 989.Kleiner Eier-Service,bestehend aus Platte,Eierbecher und Loffelchen mit Salzgefass. durchaus in Silber garniert und emailliert mit mythologischen Szenen in zartester und feinster Ausfuihrung.
+890. Reliefbild von Elfenbein,Marie Antoinette,in schoner Ausfuihrung in blauem Samt und durchbrochener Bronze-Rahme.
+891. Grosse emaillierte Vase auf Sockel in Form eines Fillhorns. Auf der Vase Abrahams Opfer in schonster und reichster Ausfuihrung emailliert,den massiven Griff bildet ein befligelter Faun,Drachenkopfe haltend. Fuss und Innenseite des Fillhorns ahnlich emailliert.
+15. 892.Kleine Vase,muschelformig mit Sockel, durchaus in feinster Weise mit mythologischen Darstellungen emailliert. Den Trager bildet ein Amor auf einem Delphin reitend. Silbervergoldet.
+16. 893.Kristall-Schale,Fuss und Einfassung mit kleinen figirlichen Darstellungen in schonster Ausfuhrung emailliert. Den Trager bildet ein Neger mit aufgehobenen Handen, teilweise emailliert,in silbervergoldeter Fassung.
+17. 894.Kleines Reisebesteck in Fischhaut-Etuibestehend aus Messer,Gabel,Loffel, Schere, Pfropfzieher und Feile. Grife in Elfenbein. Bei Messer und Gabel bilden ver-
+18. goldete Bronze-Apostel den Abschluss.
+19. 895.Opernglas in Etui,mit schonen emaillierten Schafergruppen nach Boucher, ver-
+20. goldete Bronze.
+21. 896.Bouquethalter,silbervergoldet in Etui.
+897. Cigarren-Etui in Silber, eine Seite mit emailliertem Pfau,die andere mit einem Blumen-Bouquet, gefasst mit Perlen, Diamanten und Turkisen.
+898. Becher auf Fuss, Casuarei in Silberfassung und schoner Gravierung.
+3. 899.Kleine Tula-Pfeife.
+4. 900.Trinkhorn mit Deckel, silbervergoldet, durchaus mit Ornamenten graviert,in der Mitte erhohtes bayerisches Wappen,in Etui.
+901. Glocke von Bronze mit Lapisgriff.
+6. 902.Kleiner Bouquethalter, Trompete,Fullhorn in Gold.
+903. Busennadel mit drei Opal in Diamanten,bouquetartig gefasst und schwarz emailliert.
+904. Goldenes Glieder-Armband mit drei Opalen und achtzehn Brillanten.
+9. 905.Goldene Broche mit Brillanten und Perlen.
+10. 906.Anhanger, Gold und Silber, mit Miniaturbild,Madchen in Rokoko-Kostum, Perlfassung.
+907. Brosche-Anhanger, reich Rokoko mit fein emailliertem Pfau, mit Diamanten und grosser Perle.
+12. 908.Tasse mit Untertasse in Silber, guillochiert, innen vergoldet.
+909. Grosse Zuckerdose in Silber mit Henkel und Untertasse,quillochiert,auf dem Deckel kleines Bouquet.
+910. Trinkbecher in Silber, vergoldet und graviert.
+911. Kleiner Stollenbecher in Silber,mit Blumen ziseliert und teilweise vergoldet.
+16. 912.Kleine Kanne in Silber mit Henkel.
+17. 913.Plateau in Rokoko,in Silber vergoldet,mit Monogramm L. L., ausserst feine Ziselierung.
+18. 914.Desgleichen,oval und getrieben,in Silber vergoldet,mit vier Schildern mit Schwanen und bayerischem Wappen.
+19. 915.Desgleichen, oval und getrieben,in Silber,in der Mitte Amoretten-Gruppe,Stand mit Blumen.
+916. Schmucktrager,in Silber,in runder Form, den Trager bildet ein Page in reicher
+21. Kostimierung,Ober- und Rickseite in ornamentaler Weise graviert,mit Samtfutterung.
+
+Hervorragendes Stuck.
+
+917. Silberpokal in Kugelform, teilweise vergoldet.
+918. Silberkanne auf Fissen, reich graviert,auf dem Deckel ein Vogel.
+- 919.Zwei Flacon mit Rubinglas in Etuis,mit feinem silbervergoldetem Beschlage und Ornamenten.
+920. Schmuck-Kassette in Bronzegarnierung.
+921. Drei silbervergoldete Schalen in Muschelform, auf Fissen mit Deckel,in hohem getriebenem Rokoko-Stil, auf Vorderseite Monogramm L.und durchbrochene Krone, auf den Deckeln Krebs,Vogel und Laubwerk. 5763 Gramm.
+
+Ganz hervorragend.
+
+922. Silberner Flaconstander im Rokokostil, oben spielende Amoretten mit Delphin und Blumenguirlanden,an den Seiten je eine kleine Vase und auf diesen Flacons.
+
+4850 Gramm.
+
+Prunkstuck ersten Ranges.
+
+- 923.Ebenholz-Kassette in reich vergoldeter Bronzegarnierung, oben ovales Medaillon mit Miniaturbild.
+- 924.Ordensstern, in Silber, transparent auf Gold emailliert.
+925. Desgleichen in Silber,altpreussischer schwarzer Adler.
+926. Desgleichen in Silber,alt Hessen-Darmstadt.
+- 927.Desgleichen in Bronze,heiliger Geist.
+928. Desgleichen,heiliger Geist.
+- 929.Desgleichen, Silber,in Mitte Gold,sachsischer Rauten-Orden.
+- 930.Kette, kleine,zum goldenen Vliess. Gold.
+931. Goldenes Vliess mit Band. Gold.
+932. Schwarzer Adler-Orden mit Krone, russisch. Gold.
+933. Russischer Orden in Gold.
+- 934.Desgleichen in Gold.
+935. Russischer Ordensstern, Silber.
+- 936.Desgleichen.
+- 937.Papstliches Kreuz, silbervergoldet.
+938. Russischer Ordensstern, Silber.
+- 939.Desgleichen.
+- 940.Stock von Elfenbein mit Griff von zwei umschlungenen Figuren.
+- 941.Reitpeitsche in Gold garniert mit drei Brillanten und sechs Tirkisen.
+- 942.Reitpeitsche. Griff eine goldene Konigskrone, durchbrochene Fassung in massivem, blau emailliertem Gold, von Ranken umschlungen. Das Ganze in Brillanten und
+- farbigen Edelsteinen reich gefasst.
+
+Kabinettstuck ersten Ranges.
+
+- 943.Desgleichen in schwerer Goldfassung auf blau emailliertem Grund,der obere Reif mit farbig emaillierten Blumen,worauf ein gekronter,ganz mit Diamanten besetzter grosser Schwan mit Sicherheitskette.
+
+Kabinettstuck ersten Ranges.
+
+- 944.Paradeschwert, silbervergoldet,im Stil Louis XIV.,mit erhabenen,in verschiedenen Farben emaillierten,ornamentalen und figurlichen Darstellungen,mit farbigen und weissen Edelsteinen duschaus besetzt, in der Mitte Monogramm L.mit Konigskrone. Der untere Teil der Scheide in ahnlicher Weise verziert. Kabinettstuckersten Ranges.
+945. Etuis mit vier goldenen Manschettenknopfen, zwei grosse und zwei kleinere, sehr schwer auf blau Email, Fassung mit Rubinen und Diamanten.
+- 946.Goldener Stern zum Ritterkreuz des Georg-Ordens mit Rubin,Saphir und Diamanten.
+947. Desgleichen, Bandkreuz zum spanischen Ordens Karls Ill. mit Brillanten.
+948. Silbervergoldeter Becher,gravierter Eberzahn,Unterteil Form einer Glocke,oben
+- ein aufgetakeltes Schiff von einem Delphin getragen.
+
+Hohe35cm.
+
+Ganz interessantes Stuck.
+
+949. Pokal,silbervergoldet,in Form eines aufgetakelten Schiffes, Fuss reich garniert und ziseliert,mit vier Blumen und Lapiskugeln,Trager ein Delphin und reitender Knabe,Vorderteil des Schiffes ein erhabener Mascaron mit Kristall-Klunker,im Rickteil ein sitzender Amor als Steuermann.Von Harrach in Munchen.
+
+Hohe34cm.
+
+Hervorragendes Stuck.
+
+950. Pokal, silbervergoldet. Fuss blau und weiss emailliert, die Trager bilden Greife, welche Wappenschilder halten,der Deckel mit vier freistehenden Karyatiden, worunter Wappenschilder teilweise emailliert. Den Abschluss bildet eine Figur Wilhelm Tell.Der Becher in dunkelgrauem mattem Ton in Form einer Granatkugel.Gefertigt von Weishaupt.
+
+Hohe 46cm.
+
+- 951.Pokal, silbervergoldet mit Deckel, Fuss in ornamentaler Verzierung und kleinen freistehenden Delphinen,die Triger bilden vier Mascarons mit Kranzen,der Pokal in drei Felder,das obere und untere mit reichen figirlichen Darstellungen,die Rundung glatt.Der Deckel in ahnlich hervorragender Weise ziseliert.Den Abschluss
+- bildet St.Georg zu Pferd,den Drachen totend.
+
+Hohe 40cm. Ganz hervorragende,getriebene Meisterarbeit im Renaissance-Stil.
+
+- 952.Siegfried-Pokal, silbervergoldet,Fuss glatt mit aufgelegten Lapis-und Granat-Steinen, in durchbrochener Fassung. Den Trager bildet Siegfried in ganzer Figur, den
+- Drachen totend.Der Pokal mit vier Medaillons mit fein gravierten Darstellungen
+aus den Nibelungen. Den Deckelabschluss bilden in grossen Figuren Siegfried und Chrimhilde.Wollenweber.
+
+Hohe 45 cm.
+
+- 953.Herzbecher, dreiteilig,silbervergoldet. Fuss reich verziert mit aufgelegten Ornamenten.Trager ein knieender Indianer mit Pfeil und Kocher, der auf dem Haupte
+- drei Baumzweige,auf welchem sich je ein Becher befindet,trigt.
+
+Hohe35cm.
+
+Interessantes, ganz feines Stuck.
+
+- 954.Pokal,silbervergoldet. Fuss ziseliert mit aufgelegtem Laubwerk.Den Trager bildet eine freistehende Figur Indianerin in Kriegstracht,der Pokal ein Straussen-Ei, der untere Teil mit Mascarons und Figuren, der obere mit Karyatiden,Wappenschild,emaillierten Friichten und erhabenen Ornamenten verziert.In der Mitte der Karyatiden sechs grosse Lapis labochons.Deckel in architektonischem Aufbau, dessen Abschluss ein mit einem Buffel kampfender Indianer zu Pferd bildet.Heymann Hohe60 cm.
+- 955.Pokal,Silber mit Deckel. Fuss in reicher erhohter Ziselierung,Tiere umd Ornamente. Den Trager bildet eine freistehende grosse igyptische Frauenfigur mit Faeher in grazioser Stellung. Den Pokal bildet ein Straussenei, teils in silberner, teils in vergoldeter Garnierung mit Mascarons und erhabenen Ornamenten.Um den Deckel ziehen sich Kranze und Frichte, den Abschluss bildet ein bepacktes Kamel.
+
+Hohe58cm.
+
+Sehr hervorragendes Stuck.
+
+956. Ein desgleichen mit Tscherkessin,Deckel-Abschluss ein Elefant, und ausserdem
+2. noch die schwachen Stellen mit Lapis verziert. Hohe 60cm.
+3. 957.Pokai, Silber mit Deckel. Fuss in reicher getriebener Arbeit. Den Trager bildet eine sitzende Negerin,den Pokal ein reichgarniertes Straussenei,oben ein Fries mit Jagddarstellungen graviert. Deckel in gleicher Weise wie der Pokal verziert, Abscluss eine silberne Figur,Wilhelm Tell darstellend. Hohe 56cm.
+958. Nautilus,Silber, teilweise vergoldet. Fuss rund mit erhabenen Ornamenten.Den Trager bildet ein Baumstamm mit verschlungenen Delphinen,daneben Laubwerk. Die Garnierung des Nautilus auf der Vorderseite der Muschel ein Mascaron auf vergoldeten erhabenen Ornamenten. Rickseite in ahnlicher Weise mit Meerpferd. Hohe 36 cm.
+
+Sehr hervorragendes Stuck.
+
+- 959.Trinkhorn auf hohem Fuss mit Deckel, Silber, teilweise vergoldet. Fuss mit vier Wappenschildern. Den Trager bildet ein Hirschkopf, weleher zwischen den Geweihen das Horn tragt. Das Beschlag mit Mascarons in schildartiger Umrahmung.
+- Den Abschluss des Deckels bildet eine Diana.
+
+Hohe 58cm.
+
+- 960.Ein desgleichen ohne Deckel,auf freistehenden Fissen mit ornamentaler Verzierung, vorn ein freihangender Sehild.
+
+Hohe 77 cm.
+961. Ein Dolch in Etui,reich verziert.
+2. 962.Kleiner Siegelstock, Atlas mit Weltkugel in Bronze. Kugel Achat.
+963. Bonbonniere,Bronze emailliert mit Portrat Ludwig XIV.
+4. 964.Desgleichen, Bronze blau emailliert,mit erhohten gelben Lilien.
+965. Desgleichen,ebenso.
+6. 966.Kleines Portemonnaie in Silberfassung, die Schalen in blau mit schwimmenden Schwanen.
+967. Doppel-Flacon in Silberfassung,blau emailliert mit erhohten goldfarbigen Lilien.
+968. Bonbonniere,auf blauweissem Grund Lilien.
+969. Desgleichen miniature in vergoldeter Silberfassung,blau mit Blumenkranzen und Goldornamenten.
+970. Desgleichen in vergoldeter Bronzefassung, blau mit Schwanen.
+971. Desgleichen klein, hellblau mit Goldstern.
+12. 972.Desgleichen grossere lichtblau mit Goldlilien.
+13. 973.Desgleichen kleinere lichtblau mit weissen Ornamenten und grosser Lilie.
+974. Desgleichen klein,Bernstein in Goldfassung. Defekt.
+975. Schatulle, schwarz auf Fussen,mit reichen Perlmutter-Einlagen.
+
+<!-- image -->
+<!-- image -->
+
+## Kunstmobel mit Vernis-matin-Malerei und BronzeVerzierungen.
+
+976. Kleines Kabinett-Schrankchen in Boule-Arbeit mit Toilette-Einrichtung.Tisch mit geschweiften Fussen,an welchen je eine auslaufende Karyatide sich befindet,die Fuisse mit Laubwerk verbunden. Die innere Einrichtung des Aufsatzes besteht aus sechs Schubladchen,auf welchen sich Sehilder mit Perlmutter-Einlagen befinden. Vor diesem Aufsatz befindet sich in Pultform mit zwei Klappdeckeln die Einrichtung fur die Toilette-Gegenstande,welche aus mit in Silber montierten und rische Wappen auf Elfenbein in feinster Bemalung,unter diesem die Krone,zu beiden Seiten zwei Amoren in Elfenbein,das Monogramm Lhaltend.Unter der Krone eine Bronze-Rahme fur ein Bild,zu beiden Seiten derselben und auf dem Pultdeckel je ein Medaillon mit den Emblemen der Kinste.Das Ganze mit feinsten und reichsten Einlagen von Bronze etc.in ganz reizender Form und sehr hervorragender Ausfihrung.
+
+Silber453 Gramm.
+
+- 977.Konsole-Schrank, franzosische Arbeit.Von massivem Rosenholz mit kraftiger Marmorplatte. Auf der Vorder- und den beiden Nebenseiten befinden sich je ein grosses Medaillon mit verzierten Gruppen mythologischer Darstellungen in Vernis-matin-Malerei,die vergoldete Bronze und Gravierung des Mobels bestehen aus Karyatiden,Arabesken und verschlungenem Laubwerk und sind das Schonste und Grossartigste,was zu irgend welcher Zeit ausgefuhrt worden ist. Der innere Teil ist in gleicher Art wie das Aussere in Bronze und Malerei ausgefihrt.
+
+Hohe 110 cm,Breite der Vorderseite 73cm und mit den Seitenteilen 110 cm.
+
+- 978.Ein desgleichen.
+- 979.Ein desgleichen.
+- 980.Ein desgleichen.
+981. Etagere aus Rosenholz mit reichsten Einlagen aus demselben Material in geschweifter Form und in drei Etagen aufgebaut. Die Ecken bilden je eine sitzende weibliche Vollfigur in vergoldeter Bronze mit Blumen,durchbrochenem Masswerk und Rankenverzierungen in den Fuss auslaufend als Trager der obersten Etage. Das ganze Mobel sowie die Innenseite in durchbrochenen reichenBronze-Verzierungen
+2. von Harrach &amp; Sohn in Munchen. Holzarbeit von Possenhofer in Munchen. Hohe 97 cm,Breite 110 cm.
+3. 982.Zwei Rokoko-Kommode in Rosenholz auf Fissen mit Marmor-Platten. In der Mitte
+4. der Vorderseite befindet sich in einer Umrahmung eine Portratbiste.Die Griffe bilden Drachen in reiches Laubwerk auslaufend. Das ganze Mobel ist mit einer iberaus reichen verschlungenen Bronze-Garnierung bedeckt. Hohe 87 cm,Breite 112cm.
+983. Grosser vergoldeter Rokoko-Spiegel mit reichem Aufsatz und Konseletisch.In majestatischem Aufbau verbinden sich Tisch und Spiegel.Die Eeken des Tisches bilden Karyatiden als Trager mit auslaufendem durchbrochenem Laubwerke. Die Vorderseite zeigt Vogel und Arabesken,an der Spiegelrahme ziehen sich Blumengewinde aus welchen ibereinander zu beiden Seiten je zwei dreiarmige BronzeOben befindet sich das Monogramm LLmit grosser durchbrochener Konigskrone, getragen von Amoretten. Der Abschluss sowie das Ganze ist in reich durchbrochener Arbeit ausgefuihrt und wird selten
+
+Hohe 430 cm.Breite 100 cm. Kabinettstuck ersten Ranges.
+
+- Leuchter sich hervordrangen. ein derartiges Stick von gleicher Pracht aufzuweisen sein.
+- 984.Kleines Kabinett-Schrankchen mit Klappe in Rosenholz im Stil Louis XV. Auf hohen Fissen erhebt sich das Schrankchen, die Vorderseite mit grossen Medaillons in Bronzefassung mit einer reizenden,ganz hervorragenden Gruppe in Vernismatin nach Boucher gemalt. Unter derselben kleine Einfassungen in ahnlicher Art mit Amorettengruppen, zu beiden Seiten Embleme der Kuinste. Das Ganze in reichster Bronzegarnierung, oben mit durchbrochener Gallerie.
+
+Hohe135 em,Breite 85cm,Tiefe 40 cm.
+
+- 985.Ganz ahnliches Schrankchen wie Nr.984. Die ganzen Flachen in Vernis-matinMalerei,die Vorderseite mit Gruppen in feinster Ausfuihrungnach Watteau bemalt.
+- Gleiche Grosse.
+- 986.Ebenso mit mythologischen Darstellungen. Hohe 127 cm,Breite 63 cm, Tiefe 34 cm.
+- 987.Ebenso, Grosse wie Nr.986, mit reicher figuirlicher Darstellung nach Watteau, musizierende Gruppes.
+- 988.Fauteuil im Empire-Stil mit Armlehnen. Sitz und Rickseite roter Damast mit
+- weissen Blumen.Ricklehne in ovaler durchbrochener Goldrahme mit Aufsatz. Das Ganze in reicher Vergoldung. Hohe 124 cm,Breite 75 cm.
+- 989.Desgleichen in gleicher Grosse wie Nr. 988 und ebenso behandelt, nur mit geschweifter Ricklehne.
+990. Kopfstick eines Prachtbettes.Auf massiven Fuissen,welche sich als Karyatiden Nacht und Morgen erheben,befindet sich das Kopfstick aus Rosenholz in geschweifter Form,den Aufsatz bildet eine Bronze-Gruppe Schlafender Knabe mit Helm,Kocher und Pfeilen in Wolken und Blumen.Auf der Vorderseite ein grosses ovales Medaillon in Vernis-matin mit reicher durchbrochener Bronze-Rahme.Das mythologische Gemalde in iberaus zarter und feiner Ausfihrung,unterhalb desselben ein kleines Medaillon mit Amorettengruppen in gleicher Einfassung und Bemalung. Die grossen weiblichen Busten der beiden Seiten wachsen aus muschelformigen Miedern hervor. Links die Nacht mit Mohnblumen,rechts der Morgen und das Erwachen in reizender Stellung. Die innere Seite teilweise in gleicher Art,ebenfalls mit Medaillons und mythologischer Darstellung Sonnenaufgang bemalt.Das ganze Prachtwerk ist sowohl in technischer wie stilistischer Beziehung das Schonste und Grossartigste, was je in vergoldeter Bronze-Arbeit zur Ausfuihrung gelangte.
+
+Hohe 170 cm,Breite 210cm.
+
+Hauptstuck der ganzen Samimlung und Unikum.
+
+<!-- image -->
+<!-- image -->
+
+## Olgemalde,Miniaturgemalde,GobelinMalerei,Glasbilder,
+
+## Marmorfiguren und Gruppen.
+
+## Grosse der Bilder ohne Rahmen in Centimeter.
+
+Munchner KatalogNr.
+
+1020. Schoyerer, J., sign. Ol auf Leinwand. Rutli mit Vierwaldstattersee, in Holz rahme. 125breit,86hoch.
+1021. Derselbe, sign. O1 auf Leinwand. Mythen mit Vierwaldstattersee, in Goldrahme. 125 breit, 86 hoch.
+
+3
+
+1022. Derselbe, sign. Ol auf Leinwand. Ruine Zwing-Uri bei Amsteg, breite 4 Goldrahme.
+
+104breit,74hoch.
+
+1023. Derselbe. Ol auf Leinwand. Mythen in anderer Auffassung, Goldrahme. 132 breit, 86 hoch.
+1024. Unbekannt. Ol auf Leinwand. Louis XIV., Empfang und Bewirtung hochster geistlicher Wirdentrager, in durchbrochener Goldrahme. 113 breit, 78 hoch.
+1025. Schwoisser,Professor. Aquarell mit hervorragenden Darstellungen aus dem Leben Konig Louis XIV.
+
+Reichster architektonischer Aufbau des Ganzen,marmor-und bronzeartig, auf demselben die Bisten der hervorragendsten Manner seiner Zeit:Colbert, Mazarin,Louvois,Turenne,Prince de Conde,Philipp duc d''Orleans,Moliere, Racine,Van der Meulen, ferner die Medaillons: Marly, Mariage de Louis XIV. et de Marie Therese 1660,Etablissement de 1Hotel des Invalides 1674, Louis XIV.recoit a Fontaineblau la reparation fait au nom du papa Alexander VIl.par le cardinal Chezi 28 Juillet 1664, Grand Trianon,Louis XIV. recoit au Louvre la reparation faite au nom de Philipp IV.par le comte de fuentes 24 Mars 1662, rechts und links von diesen je ein grosses Medaillon mit der Devise Nec pluribus impar&amp; mit dem Einzug in Paris
+
+5
+
+6
+- 1.Le mariage de LouisXIV.
+
+zur rechten und Versailles zur linken Seite. Die Mitte des Bildes bilden neun neben einander gereihte und architektonisch verbundene historische Darstellungen und zwar von der linken nach der rechten Seite:
+
+- 2.Empfang eines spanischen Gesandten.
+- 4.Louis XIV.mit seinen Ministern.
+- 3.Huldigung.
+- 5.Kronung,als Haupt- und Mittelstick.
+- 7.Louis XIV.auf dem Sehlachtfelde.
+- 6.Empfang einer orientalischen Gesandtschaft.
+- 8.Louis XIV.mit einem Plan zur Grindung des Observatoriums in der Hand.
+
+Den Sockel des Bildes bilden rechts und links je finf Medaillons von
+
+- 9.Hochzeitsmal im Spiegelsaal zuVersailles.
+
+Amoretten gehalten, darstellend die Portrats von den Hofdamen Lavlliere, Montespan,Maintenon, Mancini,Lebrun, links;Mignard, Francois d'Ain, Elisabeth Charlotte,Henriette Anne,Fontangesrechts.In der Mitte dieser unter der Kronung als Abschluss des Ganzen ein grosser weiblicher Genius, in der Linken den Wappenschild mit Lilien haltend, zu Fuissen Krone, Szepter und Schwert,Kriegstrophaen und Lorbeerkranze. Goldrahme 42 cm breit in drei Bogen der Form des Bildes entsprechend, im Stil Louis XIV., sehr reich verziert und durchbrochen.Bild unter Glas. 253 breit,140 hoch.
+
+1026. Unbekannt. Ol auf Leinwand. Kronungszug Konig Louis XIV.in Rheims, in sehr reicher und ganz durchbrochener 37 cm breiter Goldrahme. 124 breit,88 hoch.
+
+8
+
+1027. Karger, C., 1865 sign. O1 auf Leinwand. Spiegelsaal in Versailles mit 9 Goldrahme. 125 breit, 95 hoch.
+1028. Unbekannt. Ol auf Pappe.Marie Antoinettevon ihrem Hofstaate umgeben,.10 in blauer Lederrahme. 43breit, 34 hoch.
+3. 1029.Ditto.Ol auf Leinwand. Louis XIV.im Fauteuil sitzend,in reichstem Kostim 11
+4. wird derDauphin vorgefuhrt.In durchbrochener breiter Goldrahme,prachtvolles Farb-und kostumreiches Familienbild. 142 breit,104 hoch.
+1030. A. Morlon, sign.Ol auf Leinwand. Louis XIV.in prachtvollem Kostim,die
+6. 12 Lavalliere unter einem Baume iberraschend. Rechts im Hintergrunde zwei Hofdamen und ein Herr,Begleiter Louis XIV. Links eine vierspannige Karosse des Konigs und dessen Gefolge.In reicher Goldrahme. 192 breit,130 hoch.
+1031. Derselbe, sign.Ol auf Leinwand.LouisXIV.nach der Jagd bei einem Picknick
+8. 13 mit Hofgesellschaft wird durch Lavalliere,welche als Diana erscheint, uiberrascht.Prachtvolle Waldlandschaft in Goldrahme. 150 breit,98hoch.
+
+KatalogNr.
+| KatalogNr.                                                                                                                                                                                |   Munchner |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 1033. R. S. Zimmermann, sign. Ol auf Leinwand. Interieur eines Thronsaales,                                                                                                               |         15 |
+| 1034.Derselbe, sign. Ol auf Leinwand.Interieur eines Schlafzimmers,blau mit Gold.                                                                                                         |         16 |
+| 1035.Derselbe,sign. Ol auf Leinwand. Interieur des Schreibzimmers des Konigs mit Bild von Richard Wagner,blau mit Gold.                                                                   |         77 |
+| 1036.Derselbe, sign. Ol auf Leinwand. Interieur eines Salons,blau mit Gold. Vier Pendants in sehr reichen durchbrochenen 23 cm breiten Goldrahmen, im Stil LouisXIV. 100 breit, 79 hoch.  |         78 |
+| 1037. Fr,Pecht. Ol auf Leinwand. Portrat Richard Wagners,oval in reich ver- zierter Goldrahme mit Lorbeerund Eichenlaub,obenBandschleife,untenLyra. 72 hoch, 60 breit.                    |         18 |
+| 1038. Unbekannt. Ol auf Leinwand. Louis XIV. im Schlafzimmer mit einem Be- suche beiTisch,umgeben vom Hofstaat,figurenreiches Bild in durchbrochener Goldrahme. 111 breit, 76 hoch.       |         19 |
+| 1039.A. Bethge,1874 sign. O1 auf Leinwand. Gebirgslandschaft,als Stafge Touristen,im Hintergrund Gebirge mit Schnee, in Goldrahme. 80 breit,54 hoch.                                      |         20 |
+| 1040.L.y Escosura, sign.Ol auf Leinwand. Rubens wird durch Konig Philipp IV. dem Velasquez in seinem Atelier vorgestellt,wahrend er eine Infantin malt. In Goldrahme. 200 breit, 130hoch. |         21 |
+| 1041.Unbekannt. Ol auf Leinwand. Schneeberge mit einem See im Vordergrund. In Goldrahme. 92breit,55 hoch.                                                                                 |         22 |
+| 1042. Ditto. Ol auf Leinwand. Farbenstudie. Indische Pavillons und Minarets. Halbrund in Goldrahme. 90 breit,52 hoch.                                                                     |         24 |
+| 1043.Possard,Felix, sign.Ol auf Leinwand. Lowenhof in der Alhambra.In 36 cm breiter Goldrahme mit durchbrochenem Fries. 144 hoch, 77 breit.                                               |         26 |
+| 1044.Gobelin-Malerei. Konigin auf dem Throne, ihre Kinder empfangend,in halb- runderHolzrahme. 115 breit, 58 hoch.                                                                        |         27 |
+|                                                                                                                                                                                                                                   | Minchner Katalog Nr.                                                                | Minchner Katalog Nr.   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------|
+| 1045.Unbekannt. Ol auf Leinwand. Gemahlin Louis XV.in ganzer Figur an einem Tische, auf welchem die Biste desselben steht,mit sehr reicher,in Holz geschnitzter, durchbrochener Goldrahme mit Wappenschild und Krone als          |                                                                                     | 28                     |
+| 1046. Ditto. Ol auf Leinwand. Leczinska,Gemahlin Louis XV. in ganzer Figur in reicher Goldrahme mit Aufsatz von Krone und Wappenschildern,getragen von Palmen, die auf Fillhornern stehend das Bild einrahmen. 68 hoch, 50 breit. | 29                                                                                  |                        |
+| 1047. Ditto. Ol auf Leinwand. Louis XIV. in ganzer Figur im Hermelinmantel, links Szepter,rechts die Krone,in reich verzierter Goldrahme,Aufsatz mit Krone und Wappenschild, die Eeken mit Monogramm L. L. 68hoch,50breit.        |                                                                                     | 30                     |
+| 1048. Ditto. Ol auf Leinwand. Louis XIV. in der Jugend, als Konig mit Szepter 31 in rechter Hand, Krone auf einem Tisch.In Goldrahme. 78 hoch, 70 breit.                                                                          |                                                                                     |                        |
+| 1049. Ditto. Ol auf Leinwand. Louis XIV.als junger Konig, in Glanzgoldrahme. 59 hoch, 43 breit.                                                                                                                                   |                                                                                     | 32                     |
+| Goldrahme. 165hoch,137 breit.                                                                                                                                                                                                     | 1050. Ludwig Volz, sign. Ol auf Leinwand. Hirschkuh in waldiger Landschaft, in      | 33                     |
+| Loffererberg.In Goldrahme. 80 breit,50 hoch.                                                                                                                                                                                      | 1051.Koebel, G., sign. Ol auf Leinwand. Frauen-Chiemsee mit Hochgern und            | 134                    |
+| Lichtdruck.                                                                                                                                                                                                                       |                                                                                     | 38                     |
+| mit Blumen stehend.In schwarzer Rahme. 179 hoch, 90 breit.                                                                                                                                                                        | 1052. Benczur, J., sign. Ol auf Leinwand.Pfau in Naturgrosse auf einer Freiterrasse | 39                     |
+| In Goldrahme. 135breit,97hoch.                                                                                                                                                                                                    | 1053.Hammann, Ed., 1866 sign. Ol auf Leinwand. Louis XIV. Eidesleistung.            | 40                     |
+| See mit Schwanen und Gesellschaft zur Jagd ziehend.Pendant zu Nr.1056(45).In Goldrahme. 53 breit,44 hoch.                                                                                                                         | 1054. D. G.,1830 sign. O1 auf Leinwand. Mittelalterliche Felsenburg, am Fusse       | 41                     |
+| Farbendruck.                                                                                                                                                                                                                      |                                                                                     | 42                     |
+| grossartige Komposition, Bronzerahme. 75hoeh, 62 breit.                                                                                                                                                                           | 1055. Wilhelm Trubner, Munchen 1878 sign. Ol auf Leinwand. Kreuzigung Christi,      | 43                     |
+| 1056.Unbekannt. Ol auf Leinwand.Mittelalterliches Schloss, Gesellschaft zur Jagd ziehend.                                                                                                                                         |                                                                                     | 45                     |
+
+53 breit, 44 hoch.
+|                                                                                                                                                               | Minchner KatalogNr.   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
+| 1057. D. G., 1830 sign.Ol auf Leinwand. Kloster im Walde,in Goldrahme. 37breit,30hoch.                                                                        | 46                    |
+| 1058. E. Laire, nach Troy sign. Ol auf Leinwand. Louis XIV.umgeben von seinem Hofe,eine orientalische Gesandtschaft empfangend,in Goldrahme. 111breit,68hoch. | 48                    |
+| 1059. J. Doll, Munchen sign. Ol auf Leinwand. Winterlandschaft bei Nacht, Sehlitt- schuhlaufen,in Goldrahme. 47breit,37 hoch.                                 | 51                    |
+| 1060. Unbekannt. Ol auf Leinwand, Heilige Maria auf Halbmond von Engeln um- geben,auf Goldgrund,in Goldrahme. 6lauf 61.                                       | 52                    |
+| 1061.Max Schulze, sign. Ol auf Holz. Projekt fur Sehloss Falkenstsin, in schwarzer Holzrahme. 55hoch, 45 breit.                                               | 53                    |
+| 1062.Lossow, Hch., 1868 sign. Ol auf Leinwand. Maria Stuart und Mortimer, in Goldrahme. 63 hoch,47 breit.                                                     | 54                    |
+| 1063. Koebel, G., sign. Ol auf Leinwand. Motiv von Partenkirchen mit Zugspitze, 55 in Goldrahme. 63 breit,42 hoch.                                            |                       |
+| 1064. Unbekannt. Ol auf Leinwand. Salbung Siegfrieds und Weihe zum Kampf Figurenreiches Bild in Goldrahme. 43 breit, 33 hoch.                                 | 56                    |
+| 1065. Fallt aus.                                                                                                                                              |                       |
+| 1066.K.von Frank. Olbild auf Leinwand. Heinrich IV. Goldrahme. Defekt. 52hoch,40 breit.                                                                       | 58                    |
+| 1067. Fallt aus.                                                                                                                                              |                       |
+| 1068.Koebel, G,sign.Ol auf Leinwand. Kugelmuhle bei Berchtesgaden, in Gold- rahme. 48 hoch, 40 breit.                                                         | 60                    |
+| 1069.Fallt aus.                                                                                                                                               |                       |
+| 1070. Gianetti, sign. Ol auf Leinwand. Franz I. mit Gefolge auf der Treppe. Gold- rahme. 84 breit,57 hoch.                                                    | 61                    |
+| 1071.Koebel, G., sign.Ol auf Leinwand. Chiemsee, in Goldrahme. 37breit,27hoch.                                                                                | 62                    |
+| 1072. E. H. Bruissel. Ol auf Leinwand. Winterszene, Sehlittengespann worauf 64                                                                                                                                                                                                                                                                                    | Minchner Katalog Nr.                                                           |    |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|----|
+| 1073.Unbekannt. Ol auf Leinwand. Gebirgslandschaft,in Goldrahme.                                                                                                                                                                                                                                                                                                  |                                                                                |    |
+| 42 breit,32 hoch.                                                                                                                                                                                                                                                                                                                                                 |                                                                                | 65 |
+| 1074.v. Gr.A., sign. Ol auf Leinwand. Junges Madchen, Brustbild in Goldrahme. 40hoch,32 breit.                                                                                                                                                                                                                                                                    |                                                                                | 66 |
+| 1075. Kundmuller, H., sign. Porzellan,Kopf Maria Stuarts nach der Hinrichtung. Auf einer Platte ganz mit einem Schleier bedeckt,links unten ein Band mit der Inschrift:Maria Seotiae Regina,in Goldrahme. 48 breit, 39 hoch.                                                                                                                                      |                                                                                | 67 |
+| 1076. Derselbe. Porzellau.Maria Stuart in ganzer Figur,in Goldrahme. 39 hoch,29 breit.                                                                                                                                                                                                                                                                            |                                                                                | 68 |
+| Farbendruck:Rotkappchen.                                                                                                                                                                                                                                                                                                                                          |                                                                                | 69 |
+| 1077. dy pinto de Medscher, sign. Ol auf Leinwand. Maria Mancini. Luigi Testa, Copia Marzo 1870.In Goldrahme. 50 hoch, 42 breit.                                                                                                                                                                                                                                  |                                                                                | 70 |
+| 1078.v.Heuss, 1886 sign. Pastell in Passe par tout, in schwarzer Rahme mit 71 Gold,Chiffre Laus Winden in einem Frichtenkranz. 103hoch,90breit,                                                                                                                                                                                                                   |                                                                                |    |
+| 1079.Unbekannt. Ol auf Leinwand. Louis XIV.mit Gemahlin. Glorifikation. Sehr reiche,durchbrochene,in Holz geschnittene Rahme,deren Aufsatz Krone auf Kissen,getragen von Amoretten und unter diesen das bayerische Wappen, eingefasst mit Kette,an welcher das goldene Vlies,im Vordergrunde unter dem Wappen Ordenskette mit bayerischem Orden. 66breit,52 hoch. | 1080. Dito. Ol auf Leinwand. Christus am Kreuz mit schlafenden Fischern, im 24 | 72 |
+| Hintergrund Vesuv.Rund,in Goldrahme. Kleines Olgemalde von Prinzessin Mathilde.                                                                                                                                                                                                                                                                                   |                                                                                | 74 |
+|                                                                                                                                                                                                                                                                                                                                                                   |                                                                                | 75 |
+| 1081.Korkbild in schwarzer verzierter Holzrahme,Lichtenstein&. 90breit, 70 hoch.                                                                                                                                                                                                                                                                                  |                                                                                |    |
+| 1082.Stuhlmuller,K., sign. Ol auf Holz. Inneres eines Bauernhofes mit Vieh und Huhner, sehr schones sonniges Bild in schwarzer polierter Holzrahme. 44hoch,33breit.                                                                                                                                                                                               |                                                                                | 76 |
+| 1083.und 1084.Farbendruck in Goldrahme.Kaiser Alexander Il.und Gemahlin.79/80 Oval.                                                                                                                                                                                                                                                                               |                                                                                |    |
+
+72hoch,52 breit.
+Minchner
+
+|                                                                                                                                                                                            | Katalog Nr.   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| 1085.,Lesker". Ol auf Leinwand. Mars und Venus. Dem schlafenden Mars er-81 scheint Venus von Amoretten umgeben auf Wolken.Ohne Rahme. 540hoch,300breit.                                    |               |
+| 1086.Derselbe. Ol auf Leinwand. Bachus und Venus. Ohne Rahme. 540 hoch, 300 breit.                                                                                                         | 82            |
+| 1087. Derselbe. Ol auf Leinwand. Mars in den Armen der Venus. Ohne Rahme. 540hoch,300breit.                                                                                                | 83            |
+| 1088. Derselbe. Ol auf Leinwand. Empfang des grossen Conde. Ohne Rahme. 300 breit,292 hoch.                                                                                                | 84            |
+| 1089. J. Jurri nach Rigaud. Ol auf Leinwand. Ohne Rahme. Louis XiV.in lebens- grosser Figur mit Hermelin, Krone und Szepter. 275 hoch, 200 breit.                                          | 85            |
+| 1090. Jacque Leman. Ol auf Leinwand. Ohne Rahme. Louis XIV. auf dem Throne, von seinem Hofe umgeben, empfangt eine persische Gesandtschaft. 240 breit,125 hoch.                            | 86            |
+| 1091.C. Bertrand nach Horace Vernet.Ol auf Leinwand. Goldrahme. Nach der Schlacht.x 239 breit,125 hoch.                                                                                    | 87            |
+| 1092. Unbekannt. Ol auf Leinwand. Konig Louis XIV. zu Pferd mit seinen Ka- valieren,Versailles im Hintergrund. Ohne Rahme. 195 breit, 87 hoch.                                             | 88            |
+| 1093. Ditto. Ol auf Leinwand. Konig Louis XIV. kirchliche Einsegnung. Ohne Rahme. 81 breit, 65 hoch.                                                                                       | 89            |
+| 1094. Ditto. Ol auf Leinwand. Konig Louis XIV. Glorifikation. Ohne Rahme. 88 breit,68 hoch.                                                                                                | 91            |
+| 1095. Ditto. Ol auf Leinwand. Ohne Rahme. Konig Ludwig XIV. feierliche kirch- liche Einsegnung nach Ubergabe der Throninsignien. 200breit,135hoch.                                         | 92            |
+| 1096. Pechmann,H, sign. Bayerisches Wappen, in Ol auf Kupfer, von Posaunen blasenden Genien und Amoretten getragen. Ohne Rahme. 132 breit,85 hoch.                                         | 93            |
+| 1097.Unbekannt. Papier. Skizze,radschlagender Pfau. Ohne Rahme. 200 hoch, 176 breit.                                                                                                       | 94            |
+| 1098.H. Doll. Minchen 1879. Ol auf Leinwand auf Karton. Skizze der blauen Grotte am Linderhof.Ohne Rahme. 100 breit,75 hoch.                                                               | 97            |
+| 1099.H.Morlon. Ol auf Leinwand.Lavalliere als Diana iberrascht den Konig Louis XIV. Holzrahme kinstlerisch im Rokokostil ganz reich geschnitten von Professor Perron.Rahme 2568.Sehr fein. | 98            |
+|                                                                                                                                                                                                                                              | Minchner Katalog Nr.                                                           |     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----|
+| 1100. Hoeger, 0., 1868. Ol auf Leinwand. Nachtfest auf dem Starnberger See. Ohne Rahme. 107 breit,70 hoch.                                                                                                                                   |                                                                                | 66  |
+| 1101. Unbekannt. Ol auf Leinwand. Ankunft Lohengrins und Empfang von Elsa. In Goldrahme. 131 breit,90 hoch.                                                                                                                                  |                                                                                | 100 |
+| 1102.W.Hauschild, 1873. Ol auf Leinwand. Interieur des Parade-Schlafzimmers in Chiemsee.In Goldrahme. 151 breit,110 hoch.                                                                                                                    |                                                                                | 101 |
+| 1103.P.Koerle,1860. Ol auf Leinwand. Interieur des Schlafzimmers Konig Ludwigs in der Residenz. In Goldrahme. 104breit,76hoch.                                                                                                               |                                                                                | 102 |
+| 1104.R. L.Zimmermann. Ol auf Leinwand. Interieur mit Ausblick in Garten. In Goldrahme. 116 breit, 87 hoch.                                                                                                                                   |                                                                                | 103 |
+| 1105. Unbekannt. Ol auf Leinwand. Konig Louis XIV. feierliche Einsegnung. Figurenreich.Ohne Rahmen. 195 breit,132 hoch.                                                                                                                      |                                                                                | 104 |
+| 1106. J. Aigner. Ol auf Leinwand. Ankunft Thannhausers auf der Wartburg. In Goldrahme. 146breit,100 hoch.                                                                                                                                    |                                                                                | 105 |
+| logischer Komposition. Ohne Rahme. 150hoch,125breit.                                                                                                                                                                                         | 1107. Unbekannt. Olskizze fir einen Plafond in ausserordentlich reicher mytho- | 106 |
+| 1108.Math.Werkmeister, Munchen 1878. Ol auf Leinwand. Rokoko-Interieur. In Goldrahme. 102 breit,82 hoch.                                                                                                                                     |                                                                                | 107 |
+| Goldrahme. 100 breit, 77 hoch.                                                                                                                                                                                                               | 1109. Benczur,J. Ol auf Leinwand. Rokoko-Interieur, Mobel blau in Gold. In     | 108 |
+| volles Kolorit.Ohne Rahme. 90 hoch, 76 breit.                                                                                                                                                                                                | 1110.Unbekannt. Ol auf Leinwand. Heiliger Georg totet den Drachen,pracht-      | 109 |
+| Farbendruck ohne Rahme.                                                                                                                                                                                                                      |                                                                                | 110 |
+| 1111. Fallt aus.                                                                                                                                                                                                                             |                                                                                |     |
+| 1112. Unbekannt. Ol auf Leinwand. Louis XIV. in seiner Jugend auf Thronsessel sitzend,halt in reichstem Konigsgewande das Szepter. In reicher,breiter und prachtvoller Goldrahme mitWappenschilder,Krone und Monogramms. 120 hoch, 85 breit. |                                                                                | 111 |
+| 1113. Unbekannt. Olskizze ohne Rahme. Alte Frau, interessant.                                                                                                                  | Munchner Katalog Nr. 112   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| 1114. Benczur,J., Kopie nach Ondry. Ol auf Leinwand. Ankunft des Konigs Louis XV.und Aufbruch zur Jagd.Ohne Rahme. 186 breit,127 hoch.                                         | 114                        |
+| 1115. Piloty. Zwei Skizzen fur Wagenschlage auf Kupfer, die eine: Konig auf dem Thron vom Parlament umgeben,die andere einen Ballsaal darstellend.                             | 115/116                    |
+| 1116. Unbekannt. Ol auf Leinwand. Ohne Rahme. Konig Ludwig XV. mit Suite, Ankunft des Konigs und Aufbruch zur Jagd. 150 breit, 100 hoch.                                       | 117                        |
+| 1117. Ditto. Ol auf Leinwand. Ohne Rahme. Diana iberrascht den Konig. 156 breit,103 hoch.                                                                                      | 118                        |
+| 1118. Zeolid Lecran d’apres Vigie Lebrun. Maria in Wolken,links oben Gott Vater mit Cherubinen, rechts Engel mit Rosenkranz. Ol auf Leinwand. Ohne Rahmen. 174 hoch, 83 breit. | 119                        |
+| 1119. nach Boucher. Olskizze ohne Rahme. Venus und Apollo. 53 hoch,44 breit.                                                                                                   | 121                        |
+| 1120. E. Schwoisser. Ol auf Kupfer. Interieur des koniglichen Schlafzimmers. schwarzer Holzrahme. 48 breit,41 hoch.                                                            | In 122                     |
+| 1121.Unbekannt. Ol auf Leinwand. Audienz beim Konig.Ohne Rahme. 68 breit,49 hoch.                                                                                              | 123                        |
+| 1122.Ditto. Olskizze ohne Rahme. Versailles mit Park und Fontanen. 60 breit, 49 hoch.                                                                                          | 124                        |
+| 1123. nach Boucher. Olskizze ohne Rahme. Venus und Apollo. 54 hoch,44 breit.                                                                                                   | 125                        |
+| 1124. Unbekannt. Olskizze ohne Rahme. Louis XIV. Empfang. 56 hoch,56 breit.                                                                                                    | 126                        |
+| 1125. Ditto. Olskizze ohne Rahme. Louis XIV. kirchliche Trauung. 56 hoch,56 breit.                                                                                             | 127                        |
+| 1126.Ditto. Olskizze ohne Rahme.Beleuchteter Festsaal mit Balkon. 67hoch, 55 breit.                                                                                            | 128                        |
+| 1127. Ditto. Oiskizze ohne Rahme. Louis XIV.in achtspanniger Karosse,Huldigung mit Fahnen. 71 breit,41 hoch.                                                                   | 129                        |
+|                                                                                                                                                                                                                     |   Minchner Katalog Nr. |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
+| 1128.Unbekannt. Olskizze ohne Rahme.Louis XIV.mit Hofdamen und Park. 43breit,25hoch.                                                                                                                                |                    130 |
+| 1129. Ditto. Olskizze ohne Rahme. Louis XIV.mit seinem Sohn und Hofstaat. 65 breit,50 hoch.                                                                                                                         |                    131 |
+| 1130. Chr. Klaus, Muinchen 1871. Olskizze ohne Rahme. Schatzgraber von Wolfg. Goethe,in den Ecken vier Medaillons mit finf Vers Tente. 56 hoch, 46 breit.                                                           |                    111 |
+| 1131.Venetian. Glasgemalde.Portrat Richard Wagners in Glasrahme,achteckig. 39 hoch, 26 breit.                                                                                                                       |                    265 |
+| 1132. Unbekannt. Ol auf Leinwand. Konig Louis XIV. iberrascht Lavalliere. In schwerer breiter Goldrahme. 50 breit, 36 hoch.                                                                                         |                     54 |
+| 1133. Brustbild. Ovale Photographie von der Pfordtens in Lebensgrosse und Goldrahme.                                                                                                                                |                   2517 |
+| 1134.Unbekannt. Ol auf Holz. Maria im Glorienschein,betend. Nach Florentiner Arbeit,in schwarzer Holzrahme. 21 hoch, 14 breit.                                                                                      |                   2217 |
+| 1135. Kirchner. Ol auf Leinwand. Festspiele in Versailles, Ohne Rahme. 68breit,49 hoch.                                                                                                                             |                   2528 |
+| 1136. Derselbe. Ol auf Leinwand. Konig Louis XIV. und Gemahlin mit Hof, Auffuhrung kriegerischer Spiele. In sehr reicher, 30 cm breiter,durch- brochener Goldrahme. 125 breit, 87 hoch.                             |                   2524 |
+| 1137. Derselbe. Pendant zu 1136. Apollos Huldigung der Musen. 125breit,87hoch.                                                                                                                                      |                   2526 |
+| 1138. Derselbe. Pendant zu 1136.Konig und Konigin,im Vordergrunde tanzende Madchen,im Hintergrunde Wasserwerke. 125 breit, 87 hoch.                                                                                 |                   2527 |
+| 1139. Derselbe. Pendant zu 1136. Konig und Konigin, Ankunft im Park zu Versailles. 125 breit, 87 hoch.                                                                                                              |                   2522 |
+| 1140. Aigner. Ol auf Holz. Entfuihrung eines Edelfrauleins durch einen Edel- mann zu Pferd. In prachtvoller,in Holz geschnittener, durchbrochener Goldrahme. 23 hoch,15 breit.                                      |                   2216 |
+| 1141. Miniature. Pompadour in sitzender Stellung und prachtvollem Gewande, in der Rechten ein Buch haltend. Ausserst feines,von Professor Perron ausgefihrtes,holzgeschnittenesRahmchen mit demWappen derPompadour, |                    636 |
+|                                                                                                                                                                                                                                                               | Minchner Katalog Nr.   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
+| als Aufsatz von Amoretten gehalten,auf den Seiten schnabelnde Tauben- paare und am Fusse Fackeln, Pfeil und Bogen. Zum Aufstellen. 29 hoch, 21 breit.                                                                                                         |                        |
+| 1142.Ditto.Marie Antoinette& in ganzer Figur,die rechte Hand auf den Tisch gestitzt,auf welchem Kissen und Krone liegen. Rahmchen reich vergoldet mit Wappen und Krone. 29 hoch, 21 breit.                                                                    | 307                    |
+| 1143.0.Jallandrouse von Lamormain,Aubusson,Gobelin.Ein befligelter Damon entfuhrt eine Nymphe,welche von einer zweiten,am Boden liegenden, zu halten gesucht wird. 310hoch,200 breit.                                                                         |                        |
+| 1144.,Aufray", Gouche Revue,im Vordergrund eine Hofequipage,aus weleher ein Kavalier eine Dame hebt.Eichenholz-Rahme. 34 breit,26 hoch.                                                                                                                       | 2212                   |
+| 1145.Unbekannt. Ol auf Leinwand. Louis XIV.im Hermelin,die Rechte auf das Szepter stitzend,mit dem Sehwert des heiligen Ludwig,rechts die Krone aufeinem Schemel.Altes Bild in prachtvoller breiter Goldrahme mit Konigskrone als Aufsatz. 178hoch,110 breit. | 2523                   |
+| sehr reicher in Holz geschnitzter durchbrochener Goldrahme, mit Wappen- schild und Krone als Aufsatz, auf den Ecken Muscheln. 138 hoch, 98 breit.                                                                                                             | 2525                   |
+| 1147. Ditto. Farbige,langovale Plafondskizze Apollo.Ohne Rahme. 70 hoch,52 breit.                                                                                                                                                                             | 120                    |
+| 1148.Lichtbild.Ruine Falkenstein in prachtvoller Mondbeleuchtung. In Holzrahme. 46 hoch,33 breit.                                                                                                                                                             | 2203                   |
+| 1149. Desgleichen. 33 hoeh, 24 breit.                                                                                                                                                                                                                         | 2205/874               |
+| 1150.Desgleichen. Chiemsee bei Mondbeleuchtung. 30 hoch,23 breit.                                                                                                                                                                                             | 2206/641               |
+| 1151. Desgleichen. Schloss Berg und Starnberger See in sonniger Beleuchtung. 2211/638 28hoch,22breit.                                                                                                                                                         |                        |
+| 1152.Desgleichen. Nibelungen,Siegfried und Brunhilde, Sigm.Eggert,1863. 33 hoch,24 breit.                                                                                                                                                                     | 2210                   |
+| 1153. Desgleichen. Nibelungen, Pendant zu 1152, Konig und Konigin, 2209/764 Sigm.Eggert, 1863. 33 hoch,24 breit.                                                                                                                                              |                        |
+| 1154. Lichtbild. Aus Rheingold:Das Licht losch ich aus, Das Gold entreiss ich dem Riff, Schmiede den rachenden Ring. 29 hoch,20 breit.                                                                                       | Miinchner Katalog Nr. 2207   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
+| 1155. Desgleichen. Aus Rheingold:Der Welt Erbe gewanne zu eigen Wer aus dem Rheingold schife den Ring. 29 hoch,20 breit.                                                                                                     | 2208                         |
+| 1156.Fr. Pecht, 1865: Ol auf Leinwand. Vorzigliches Portrat Richard Wagners, in einem Fouteuil sitzend,die linke Hand auf einem Notenheft.Uber demselben die Buiste Konig Ludwig Il.,in reicher Goldrahme. 130hoch,113breit. |                              |
+| 1157. Unbekannt. Ol auf Leinwand in Gobelin-Manier. Thannhauser beim Sanger- krieg auf der Wartburg.Ohne Rahme. 300 hoch,180 breit.                                                                                          | 2518                         |
+| 1158.Ditto.Ol auf Leinwand in Gobelin-Manier.Ankunft des Lohengrin,in reicher, farbiger und vergoldeter Bordiire. 285hoch,250breit.                                                                                          | 2519                         |
+| 1159. Ditto. Ol auf Leinwand. Hans Sachs liest in einer Laube Gedichte vor. Nirnberg im Hintergrunde. Ohne Rahme. 140hoch,115breit.                                                                                          | 2520                         |
+| 1160.Seide-Stickerei. Louis XIV.,knieend mit Krone in der Linken,empfaingt einen Palmzweig von der heiligen Maria. 178hoch,144 breit.                                                                                        | 2476                         |
+| 1161. Skizze in Ol auf Leinwand. Triumph Amors,Vorlage zum Vorhang des Prachtbettes. 430hoch, 245 breit.                                                                                                                     |                              |
+| 1162. Ein Paar Marmor-Vasen mit Deckel,von Bildhauer Ungerer,auf reichem2575/76 Sockel mit drei Mascarons. Die Vasen mit drei Nymphen-Paaren,auf den Deckeln drei Delphine mit je einem Amor dazwischen. Hohe 73.            |                              |
+| 1163.Zeus in Marmor,von Bildhauer Professor Perron. Hohe 80.                                                                                                                                                                 | 2501                         |
+| 1164. Parsival in Marmor,von Professor Zumbach in Wien. Hohe 76.                                                                                                                                                             | 607                          |
+| 1165. Niobide in Marmor nach Tradier,von Professor Perron. Hohe 83.                                                                                                                                                          | 2498                         |
+| 1166. Parsival in Marmor nach Gralsbecher,von Professor Perron. Hohe 94.                                                                                                                                                     | 2498                         |
+| 1167. Drei Grazien in Marmor mit Uhr. Weissenfels. Hohe 76.                                                                                                                                                                  | 2504                         |
+| 1168. Ein Paar Pferdebandiger, Chevaux de Marly v.Place la Concorde. Perron. 2506/7 Hohe 76.         | Minchner KatalogNr.   |
+|------------------------------------------------------------------------------------------------------|-----------------------|
+| 1169. Sappho Pferdebandiger, von Conrad Knoll, Munchen. Hohe 88.                                     |                       |
+| 1170. Ludwig xV.,Roi de France. Buste auf Sockel. Hohe 95.                                           | 136                   |
+| 1171.Hermes, erganzt. Perron. Hohe 82.                                                               | 2500                  |
+| 1172. Venus und Adonis. Perron. Hohe 78.                                                             | 2499                  |
+| 1173. Mars und Venus. Perron. Hohe 85.                                                               | 2503                  |
+| 1174.Louis xV.,auf reichem Sockel in ganzer Figur.Von Professor Hess,Munchen. Hohe 100.              | 133                   |
+| 1175.Minerva. Perron. Hohe 100.                                                                      | 2509                  |
+| 1176. Merkur.Original von Perron. Hohe 116.                                                          | 2210                  |
+| 1177.Viktoria zu Pferd. Perron. Hohe 90.                                                             | 2505                  |
+| 1178. Pegasus. Perron. Hohe 90.                                                                      | 2508                  |
+| 1179.Marie Antoinette. Buste. Hohe 50.                                                               | 432                   |
+| 1180. Louis xiv. Ganze Figur auf ausserordentlich reichem Sockel,von Prof.Hess. Mit Sockel Hohe 132. | 132                   |
+| 1181. Louis xiV., ebenso, von Perron. Mit Sockel Hohe 125.                                           | 186                   |
+| 1182. Richard Wagner-Buste.                                                                          | 1102                  |
+| 1183. Marmor-Weihkessel mit Genien.                                                                  | 663                   |
+| 1184. Eine Marmorvase.                                                                               | 2590                  |
+| 1185.Desgleichen.                                                                                    | 2591                  |
+
+<!-- image -->

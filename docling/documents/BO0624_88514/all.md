@@ -1,0 +1,2226 @@
+## A.Achenbach
+
+geb. 1815 in Kassel, lebte in Dusseldorf.
+
+- 1Einsame Mihle. Waldmihle am Gebirgsbachin waldigem Felstal.Vorne Wassertimpel. Herbststimmung. Bez.:A.Achen-
+- bach.O1 auf Leinwand. 21,5x27cm.Goldrahmen.
+
+## Benno Adam
+
+geb.1812 in Minchen, gest.1892 daselbst.
+
+- 1a Rappe. Hengst von der Seite gesehen. Studie. Ol auf Mal-
+- pappe. 29,5 x35 cm.Unter Gias. Dunkler Rahmen.
+
+## Emil Adam
+
+lebt in Minchen.
+
+- 2 Ausritt. Dame in schwarzem Reitkleid auf Braunem in einem Park spazieren reitend.Im Hintergrund ein SchloB. Bez.: Emil Adam 1885 Minchen. Ol auf Leinwand. 64x 85 cm. Geschnitzter Rahmen.
+
+## Aiwasowski's Art
+
+- 3 Seestick. Strand mit Fischerbooten. Blick auf die bewegte
+- See.Gewitterstimmung.Ol auf Leinwand. 36 x 54 cm.
+- Dunkler Rahmen.
+
+## Carl Adloff
+
+geb.1819 in Dusseldorf, gest.1863 daselbst.
+
+- 4 Blick auf einen hollandischen Seehafen. Vorne Schiffer in Booten.Am Hafen Hauser, Bricke und Kaimauer. Bez.: C.Adloff 1852. O1auf Leinwand. 42x 57 cm.Goldrahmen.
+
+## C.O.Arends
+
+Miinchen.
+
+- 5 Abenddammerung. Moor. Dunkle Baumsilhouetten gegen dammerige Luft. Bez.:C. O.Arends,M.O1 auf Malpappe. 30 x
+- 33cm. Dunkler Rahmen.
+- 6 Abend. Einsames Haus am dunklen Waldsaume. Vorne Wasser mit Baumen. Bez.:C.O.Arends, M. Ol auf Malpappe.
+- 29,5 x 38 cm.Dunkler Rahmen.
+
+## C.Arfolk
+
+Norwegen.
+
+- 7 Norwegische Fjordlandschaft. Heiterer Sommertag im Fjord. Griner Strand. Segler auf dem Wasser. Fischerkahne am Ufer. Bez.: C.Arfolk.Ol auf Leinwand. 78 x 167 cm.Goldrahmen.
+
+## Oumbertus Argyros
+
+Minchen.
+
+- 8 Orientalische Tanzerin. Orientalisches Madchen mit entbloBtem
+- Oberleib in gelbseidenem Rockchen reich geschmicktvor dem Spiegel. Bez.:O. Argyros, Minchen.Ol auf Leinwand.
+- 73,5x53,5 cm.Goldrahmen.
+
+## Alois Bach
+
+geb.1809 in Eschelkam,lebte in Minchen.
+
+- 9 Vor dem Stall. Heimkehrender Schimmel und Fohlen vor dem Stall. Bez.: Bach 1860. Ol auf Papier auf Leinwand auf-
+- gezogen.23,5 x30 cm.Gerahmt.
+
+## E.Bachrach-Baree
+
+geb.1863 in Odernberg,lebt in Munchen.
+
+- 10 MorgenimbiB im Grinen. Dame im Garten am Fruihstickstisch
+- Zeitung lesend. Bez.:Bachrach.Ol auf Malpappe 43 x 38,5 cm. Dunkler Rahmen.
+
+## Wilhelm Bader
+
+geb.1855 zu Darmstadt, lebte in Minchen.
+
+- 11 Am Parktor.Sommerabendstimmung im Park.Unterm Tor
+- Liebespaar. O1 auf Holz.12x 9 cm. Dunkler Rahmen.
+
+## Hermann Baisch
+
+geb.1846 in Dresden, gest.1894 in Karlsruhe.
+
+11a Schimmel. Ol auf Leinwand. 48X58cm.Goldrahmen.NachlaB-und Facsimile-Stempel.
+
+11b Kuh. O1 auf Leinwand. 49X39cm. Holzrahmen. NachlaB- und Facsimile-Stempel.
+
+11c Kihe. Skizze. Ol auf Malpappe.22X15 cm. Goldrahmen.
+
+- NachlaB- und Facsimile-Stempel.
+
+## Hans von Bartels
+
+- 12 Fischerdorf. Dorf zwischen den Dunen mit alter gotischer Backsteinkirche. Auf dem Weg Staffage.Bez.:2.06 Hans Bartels. Guasch.34x46,5 cm. Unter Glas.Dunkler Rahmen.
+
+geb.1856 zu Hamburg, gest.1914 in Munchen.
+
+- Tafel II.
+- 13 Auf Rigen. Vorne Strandbauer mit Korb am Arm. Am Ufer zerfallenes Boot.Im Hintergrund steile Kuste.Bez.:Hans Bartels. Aquarell. 25 x 36 cm. Unter Glas.Dunkler Rahmen.
+- 14 Fische. Fischkorbe mit Seefischen in hellem Licht. Studie. Bez.:H.B.1904.Os.01 auf Malpappe.16,5x20,5 cm.
+- Unter Glas. Dunkler Rahmen.
+
+## Anna Barth
+
+lebte in Mindelheim.
+
+- 15 Der Brief. Am Tisch sitzende junge Frau einen Brief beantwortend. Auf dem Tische silberner Leuchter mit brennender Kerze. Bez.:Anna Barth. Ol auf Leinwand. 60,5x48 cm.
+- Goldrahmen.
+
+## G.von Bechtolsheim
+
+lebt in Minchen.
+
+- 16 In der Sonne. Dame mit Sonnenschirm,blauem Mantel und weiBem Kleid im Garten.Bez.:Bechtolsheim. Ol auf Malpappe.
+- 28,5x21 cm.Dunkler Rahmen.
+- 17 Abend an der Ammer bei Oberammergau. Vorne FluB und Weiden. Blick auf Wiese und Heuer und Berge im Abendlicht. Bez.:Bechtolsheim.O1 auf Leinwand.78,5x109cm.
+- Schwarzer Rahmen.
+- 18 Kuh. Von der Seite gesehene Kuh auf gruiner Wiese. Bez.: 01auf Malpappe.30,5x43 cm.Dunkler
+- Bechtolsheim. Rahmen.
+- 19 An der Isar. Blick vom Hochufer aus auf den FluB. Bez.: Bechtolsheim. 10 auf Malpappe.27,5x41 cm.Dunkler Rahmen.
+- 19a Isartallandschaft. Bewaldete Hohenzige. Kirche im Tal. Bez.:Bechtolsheim.Ol auf Malpappe. 23x50 cm.Dunkler
+- Rahmen.
+
+## Emil Beithan
+
+Minchen.
+
+- 20 Siesta.An ihrem Gemisestand eingeschlafene altere italienische Frau in sitzender Stellung. Bez.: Emil Beithan 1903.Ol auf
+- Leinwand. 60,5x51,5 cm.Unter Glas.Dunkler Rahmen.
+
+## E.Berninger
+
+geb.1843 in Arnstadt, gest. in Munchen.
+
+- 21 Am Suezkanal. Blick gegen Kairo. Staffage: Beduinen und Karawanen. Bez.:E. Berninger, Cairo.Oi auf Malpappe.
+- 17x25,5 cm.Dunkler Rahmen.
+
+## Wilfrid Beauquesne
+
+geb.1847, lebte in Paris.
+
+- 22 Der Kampf um die Bricke. Im Vordergrund franzosische Artillerie von preuBischer Infanterie gestirmt.Seitwarts Bricke. Im Hintergrund Stadt. Bez.:W. Beauquesne. Ol auf
+- Leinwand.85x133cm.Goldrahmen.
+
+Tafel I.
+
+## E.Bissle
+
+lebt in Minchen.
+
+- 23 Italienischer Klosterhof. Blick auf den Hof mit sonnebeschienenen Hausern. Im Hintergrund Berge. Bez.:E. Bissle. Ol
+- auf Malpappe. 44 x60 cm. Goldrahmen.
+
+## W.Blaine
+
+- 24 Blick auf Kairo. Beduinenlager vor der Stadt.Vorne Beduinen miden. Bez.:Cairo v.W.Blaine.Ol auf Leinwand. 24,5x auf ihren Kamelen. Im Hintergrund die Stadt und die Pyra 48,5 cm.Goldrahmen.
+## Elias van Bommel
+
+geb.1824 in Amsterdam, gest.1890 in Wien.
+
+- 25 Hollandisches Stadtebild.Der Dom in Ackin.Auf dem freien
+- Platz davor Marktbuden mit Verkaufern,Verkauferinnen und Lasttragern. Sommerstimmung. Auf der Rickseite der Vermerk:Die Domkirche zu Ackin gemalt von Elias van Bommel, Ehrenmitglied der Kgl. Akademie von bildenden Kinsten in Amsterdam im Juli 1877. Eigene Unterschrift Elias van Bommel.O1 auf Leinwand.55,5x74,5 cm.Goldrahmen. TafelI.
+
+## Anton Braith
+
+geb.1836 in Biberach, gest.1905 daselbst.
+
+- Unter Glas. Goldrahmen.
+- 26 Jungvieh an der Tranke. Junge Rinder im Wasser stehend. Bez.:A.B.Bleistiftzeichnung in Passepartout.8x12 cm.
+
+## K.Brizzi (Styr)
+
+lebte in den 60er Jahren in Minchen.
+
+- 26a Gebirgslandschaft mit Hausern am Wildbach und einer 0l auf Leinwand.135X180 cm.Goldrahmen. Kapelle.Im Hintergrund Hochgebirge.Bez.:K. Brizzi 1867.
+
+## L.Braun?
+
+- 27 Ulanen im Manover. Ulanen ins Dorf einreitend. Ol auf Holz.
+- 24×20,5cm.Gerahmt.
+
+## A.Broust
+
+- 28 Garbenbinder.Binder auf dem Felde.Eine Schnitterin mit dem Rechen dabei. Sommerabend. Bez.:A.Broust.Farbige
+- Lithographie.43,5x54,5 cm.Unter Glas.Gerahmt.
+
+## K.Buchholz?
+
+geb.1849 zu SchloB Nippach,gest.1889 in Oberweimar.
+
+- 29 Winterlandschaft. Haus zwischen zwei Baumen. Bez.:K.Buchholz. Ol auf Leinwand. 22x29 cm. Dunkler Rahmen.
+
+## Robert Bichtger
+
+Minchen.
+
+- 30 Musizierende Landkinder. Am Ufer eines kleinen Sees liegt Bez.:Rob.Buichtger.Ol auf Leinwand.61x121 cm.Goldrahmen.
+
+## Hugo Burgel
+
+Tafel II.
+
+lebte in Munchen.
+
+- 32 Abend. Baumsilhouetten gegen die Abendluft. Dammerstimmung. Bez.: Hugo Birgel. Ol auf Malpappe. 31 x42 cm. Dunkler Rahmen.
+- 31 Im Allacher Wald.Herbstliche Baume in der Sonne.Bez.: Hugo Birgel. O1 auf Leinwand. 36x48 cm. Dunkler Rahmen.
+- 33 Altwasser. Braunes Altwasser mit Auenwald in Herbststimpappe.27,5x34 cm.Dunkler Rahmen.
+
+## Art des Burkel
+
+- 34 DorfstraBe im Winter. Links Gehoft und hohler Baum.Rechts
+- Wegweiser. Staffage. O1 auf Malpappe. 12,5x17 cm.
+
+## Paul Burmeister
+
+geb.1847 in Anklam, lebt in Muinchen.
+
+- 35 Uberrascht. Abend im Park. Auf einer Bank sitzt ein Madchen in Empirekleidung in eine Lektire vertieft. Hinter ihr steht ein junger Mann.Bez.:P.Burmester.Olauf Holz.21x15,5cm. Gerahmt.
+- 36 Ruhender Akt. Weibliche Aktfigur auf einem Ruhebett. Bez.: P.Burmeister.O1 auf Leinwand.39,5x50 cm.Unter Glas. Goldrahmen.
+
+## A.V.Byon
+
+- 37 Alter Mann mit Brille und rotem Halstuch in blauem Rock. Brustbild. Bez.: Byron.O1 auf Holz. 30,5x25,5 cm.Goldrahmen.
+
+Muinchen:
+
+- 38 Alte Frau mit Florhaube, einen Brief lesend. Bez.: Byon.
+- O1 auf Holz. 31x25 cm.Unter Glas.Goldrahmen.
+
+## Alexander Calame?
+
+geb.1810 in Vevey, gest.1864 in Mentone.
+
+- auf einen See. In der Ferne Hochgebirge. Sommerstimmung. Bez.:Vorne A.C.;rickseitig Alexander Calame 1864. Ol auf Leinwand.100x141 cm.Goldrahmen.
+- 39 Schweizer See. Vorne Felsen, Baume und Wasserfal. Blick
+
+## Nida Carson
+
+italienischer Maler.
+
+- 41 Mutter und Kind. Zeichnung nach einem Relief von Guiseppe Chiotti.Bez.:Carson. Bleistiftzeichnung.29,5x19,5 cm. Unter Glas.Gerahmt.
+
+## T.Compton
+
+lebt in Minchen.
+
+- 42 Imst. Blick von der Arlbergbahn auf die Gebirgskette. Bez.: T. Compton.Aquarell. 26x37 cm.Unter Glas. Goldrahmen.
+
+## A.Coppens
+
+- 43 Abend. Abendstimmung in der Strabe eines altertimlichen Stadtchens. Vorne beleuchtetes Haus. Bez.:Anna Coppens. rahmen. Farbige Lithographie.37,5x68cm. Unter Glas.Eichen-
+
+## Maximilian Dasio
+
+- 44 Im Atelier. Lauschiger Winkel mit Schrank und Kredenz mit Vasen, Musikinstrumente u. dgl. Eine in Weib gekleidete lesendeDame im Stuhl davor. Bez.:Dasio s/l.Kuppelmayer 85.
+
+lebt in Muinchen.
+
+- Olauf Leinwand. 56x46 cm. Dunkler Rahmen.
+
+## Daubigny Art oder Schule
+
+- 45 Eichen.Weideland. FluB.Vorne Eichen.Schafe am Wasser und Hirte.O1 auf Malpappe. 37x48 cm. Goldrahmen,
+
+## Kopie nach Defregger
+
+- 46 Abschied. Kopie nach dem bekannten Original. Ol auf Leinwand.24,5x20cm.Gerahmt.
+
+## Eugene Delacroix
+
+- 47 Frauenkopf. Hand mit Tuch an die Wange gepreBt. Ol auf Leinwand. 35x26 cm.Dunkler Rahmen.
+
+geb.1812 in Boulogne sur Mer, gest.1868 daselbst.
+
+- 47a Romeo und Julie. Untermaltes Bild. O1 auf Holz. 47 x39 cm. Dunkler Rahmen.
+
+## Deutsch, Anfang 19. Jahrh.
+
+- 48 Die Vogelfanger. Madchen mit Vogel auf der Hand. Am Boden kniend ein Knabe. Ein anderer klettert auf den Baum. Hinterglasmalerei.35x28 cm.Goldrahmen.
+
+## Feodor Dietz
+
+geb.1813 in Neunstetten, gest.1870 in Frankreich.
+
+- 50 Aus dem Tiroler Freiheitskampf 1809.Franzosische und Isel.Bez.:F.D.nach P.HeB 1844. O1 auf Leinwand. 51x 61,5 cm. Goldrahmen.
+- 49 Reiterkampf. Infanterie schieBt auf Husaren in blauer Uniform und roter Attila. Im Hintergrund Geschitze auf einem Hugel. Bez.:F.Dietz 1852. O1 auf Leinwand. 45,5x59 cm. Goldrahmen.
+
+## A.Doll
+
+geb.1826 in Minchen, gest.1887 daselbst.
+
+## J.J.Dorner
+
+- 51 Wintertag. SchloBchen am Ufer eines zugefrorenen Sees. Auf dem Eise gehen Leutenach der im Hintergrund liegenden Stadt. Bez.:A.Doll 1855. Ol auf Holz. 22x33 cm. Gold rahmen.
+
+geb.1775 in Muinchen, gest.1852 daselbst.
+
+## J.J. Dorner d.AItere?
+
+- 52 Die Wallfahrt Birkenstein b. Fischbachau. Das Kirchlein auf der Hohe.Weiter zurick der Wendelstein. Auf dem Weg Wallfahrer.Riickseitig bez.:gez.v.Dorner, k.b. CentralGallerie-Inspektor.Aquarell. 25x33 cm.Unter Glas.Goldrahmen.
+
+geb. 1741 in Breisgau, gest.1813 in Munchen.
+
+- 53Am Bildstockl.Wandernde Tiroler Familie betend vor einem Bildstockl.Abendstimmung.Ol auf Blech.46x36cm. Goldrahmen.
+## J.von Duczynska
+
+Minchen.
+
+- 54 Fremder Besuch. Alte Bauersfrau am Tisch. Madchen in modern stadtischer Kleidung daneben.Bez.:Duczynska 1910. O1auf Leinwand.104,5x108,5cm.Dunkler Rahmen.
+- 54a Die Amme,ein Kind an der Brust. En face. Brustbild. Bez.:
+- J. Duczynka 1907.O1 auf Leinwand. 78,5x64 cm. Dunkler Rahmen.
+- 55 Pythia.Frauenkopf mit ernstem Blick, strahlenartig geordnetem Haar in expressionistischer Art. Lindenholzbiste.
+
+## Adolf Eberle
+
+geb.1843 in Minchen, gest.1914 daselbst.
+
+- 56 Bauerliches Interieur. Kachelofen mit Ofenbank und Stubentire. Alter Lehnstuhl am Ofen. Bez.:A.Eberle Schliersee 15.Sept.1882.O1 auf Leinwand.58x68cm.Dunkler
+- Rahmen.
+
+## Carl Ebert
+
+geb.1821 in Stuttgart, gest.1885 in Minchen.
+
+- 57 Fischeridyll. See beim Mondschein. Am nachtlichen Ufer Kahne und Leuchtfeuer. Fischer mitten im Hintergrund.
+- Bez.:CEbt...15. O1auf Holz. 10x14 cm.Gerahmt.
+- 58 Bei Serajewo. Felstal und Schlucht. Vorne Wildbach. Mondschein.Nachtstick. O1 auf Holz. 13,5x10,5 cm.Schwarzer Rahmen.
+
+## F.Eibner
+
+geb.1825 in Hilpoltstein, gest.1877 in Muinchen.
+
+- 59 StraBburger Minster. Kirche und Turm von der Seite gesehen.
+- Auf der Gasse Marktleben,Planwagen,Verkaufsstande,Handler und Handlerinnen in alter Elsasser Volkstracht. Sommerstimmung.Bez.:F.Eibner 1852.Aquarell. 55x46,5 cm. Unter Glas.Goldrahmen.
+
+## Reinhold Max Eichler
+
+lebt in Minchen.
+
+- 60 Stubenmadchen.Brinette mit weiBem Haubchen und violettem Kleid.En face. Brustbild. Bez.:R.M.Eichler. Ol auf Lein-
+- wand.52,5x40 cm.Goldrahmen.
+
+## E.J.Engelmann
+
+Minchen.
+
+- 61 A:n Starnberger See. Vorne Weg mit Erntewagen und Schnit-
+- tern.Olauf Holz.13x26 cm.Gerahmt.
+
+## Karl von Enhuber
+
+geb.1811 in Hof, gest.1867 in Minchen.
+
+- 62 Ein schwieriger Fall. Der Dorfkinstler, Maler und Schuster zugleich wird,von einem kleinen Buben, der einen zerrissenen Schuh vorweist,befragt.Landliche Stube. Bez.:E.1848.
+- O1auf Leinwand.26,5x19,5 cm.Goldrahmen.
+
+## Moritz Erdmann
+
+geb.1845 in Arneburg, gest.1920 in Muinchen.
+
+- blick zwischen lichten Buchen und Tannen. Bez.:Faksimile M.Erdmann.Ol auf Leinwand.56,5x44,5cm.Dunkler Rahmen.
+- 63a Heiterer Sommertag. Birken und Tannen, dazwischen ein Bauernhaus. Bez.: NachlaBstempel.Ol auf Malpappe. 40x45 cm.Dunkler Rahmen.
+
+## Th.Ethofer
+
+lebte in Rom.
+
+- 64 Selbstbildnis des Malers. Dreiviertelprofil im hellen Sommeranzug mit roter Krawatte. Brustbild. Bez.:Th.Ethofer Roma 1878. O1auf Holz. 35x29 cm.Olauf Holz. 35x29cm.
+- Unter Glas.Goldrahmen.
+
+## C.Ettinger
+
+Minchen.
+
+- 65 Abend. Huigeliges Terrain mit aufsteigenden Nebeln und Vollmond. Im Hintergrund Dorf.Auf dem Weg zwei heimkehrende Jager. Bez.: C.E.64. Ol auf Leinwand. 35,5x49 cm.Gold-
+- rahmen.
+- Hohe 66cm.
+
+## R.Falkenberg
+
+geb.1850 in Berlin,lebt in Munchen.
+
+- 1885.Ol auf Leinwand. 46x33,5 cm.Dunkler Rahmen.
+- 66 Samann. Bauer mit Sieb auf dem Felde. Bez.:R.Falkenberg
+- 66a Bildnis einer jungen brinetten Frau in dunkler Bluse. Ol
+- auf Leinwand. 57x72 cm. Gringetonter Rahmen.
+
+## Otto Fedder
+
+lebt in Minchen.
+
+- 67 Kartoffelernte. Herbstlich grauer Tag. Auf dem von einer Au begrenzten Feld Leute bei der Ernte. Bez.:Fedder.Ol
+- auf Holz.12,5x14 cm.Gerahmt.
+- 68 Winterabend.Verschneite Landschaft. Untergehende Sonne im Nebel. Auf dem Weg Staffage. Bez.:Fedder. Ol auf Holz. 18x27 cm.Dunkler Rahmen.
+
+## Ferdinand Feldhuter
+
+lebte in Minchen.
+
+- 69 Aus dem Wetterstein. Blick auf einen kleinen See im Vordergrund mit Weg und Staffage. Weiter zurick schneebedeckte Berge. Bez.:Ferdinand Feldhiter Munchen 1883. Ol auf
+- Leinwand.80x136 cm.Goldrahmen.
+
+## G.Fenkohl
+
+- 70 Schifferkutter in voller Fahrt bei leicht bewegter See und bewolkter Luft. Bez.:G.Fenkohl. Ol auf Malpappe. 58,5x 70 cm.Dunkler Rahmen.
+
+## Anselm Feuerbach Art
+
+- 71 Im Kloster. Abtissin auf ihrem Thron,um sie italienisches
+- Volk. Skizze.O1 auf Leinwand. 61,5x42 cm.
+
+## August Fink
+
+geb.1846 in Munchen, gest.1916 daselbst.
+
+- 72 Waldlandschaft. Blick in Waldinneres. Vorne Buchenstamm. Weiter zurick bestonner Weg.Sommertag.Bez.:A. Fink. 01 auf Leinwand. 53x77 cm.Goldrahmen.
+
+## Ernst Finkmeyd
+
+lebte in Paris.
+
+- 73 Abend. Sidliche Landschaft. Baum und Haus im Vordergrund. Weiter zurick Hirten zu Pferde,ihre Herden heimtreibend. Bez.:Ernst Finkenmeyd 1853 Paris. O1 auf Malpappe.16,5x
+- 22 cm. Dunkler Rahmen.
+
+## Max Fleischer
+
+geb. 1841 zu ProBnitz, lebte in Breslau.
+
+- 74 Spaziergang. Junge elegante Frau mit einem weibgekleideten Madchen,den roten Sonnenschirm iber die Schulterin sonniger Landschaft. Bez.:M.Fleischer. Ol auf Holz. 27x21 cm.
+- Gerahmt.
+
+## F.Folz
+
+## lebte in Diisseldorf.
+
+- 75 Felsiges Tal. Zwischen hohen Felsen dahinstromendes FliBchen. Blick ins Tal. Bewolkte Sommerluft. Bez.:F.Folz 68?
+- O1 auf Leinwand.66x55,5 cm. Goldrahmen.
+
+## F.Freund
+
+Minchen.
+
+- 76 Im Moor. Alter Torfstich. Timpel und herbstlich gefarbte Vegetation.Bez.:F.Freund. O1 auf Leinwand. 50x97 cm.
+- Dunkler Rahmen.
+
+## Franzosische Schule
+
+- 78 Dammerung. Abend am FluB. Baumsilhouette,Wasser und Vorne Staffage. Sommerabendstimmung.Aus
+- tonige Luft. dem NachlaB Dr. Hyazinth Hollands. Ol auf Malpappe. 24x32,5 cm.Unter Glas.Goldrahmen.
+- 79 Madchen am Bache. Dunkelhaariges Madchen netzt sich die FiBe im Bach. Ol auf Malpappe. 31 x25 cm. Gerahmt.
+- 79a Bauernhaus unter Baumen. Blick in fernes Gelande. Heitere
+- Abendluft dariber.Ol auf Holz.14x24 cm. Gerahmt.
+
+## Friedbichler
+
+Minchen.
+
+- 80 Fischer beim Netzziehen. Die Netzschlepper am beschilften Strand unter einer alten Weide. Bez.: Friedb. Ol auf Holz. 8x10,5 cm.Goldrahmen.
+## Friedr. Friedlander
+
+geb.1825 in Kehljanowitz, lebte in Wien.
+
+- 81 Die vier Temperamente. Vier Veteranen in dem Stibchen eines alten Kameraden Erinnerungen aus ihrer Kriegszeit austauschend. Alle vier nach ihrem Temperament verschieden im Ausdruck.Bez.:Friedr.Friedlander. Ol auf Holz. 31x 38,5 cm.Goldrahmen.
+
+## D.Frohlich
+
+- 82 Fischer am See. Fischer beim Mondschein am Ufer eines Sees. Nachtstimmung.Bez.:D.Frohlich 1867.O1 auf Holz. 10x26,5 cm.Dunkler Rahmen.
+
+Tafel I.
+
+lebte in Minchen.
+
+## M. Gaisser
+
+- 83 Fischerjunge. Junger Fischer ruhig dasitzend und vor sich hinsehend. Bez.:Facsimile Max Gaisser. Ol auf Malpappe.
+
+geb.1857 in Augsburg, gest.1922 in Minchen.
+
+- 32×24,5 cm.Unter Glas.Goldrahmen.
+
+## A.Geigenberger
+
+lebte in Minchen.
+
+- 84 Alpdricken. Im Bett liegende Frau wird von einem gespenstischen Tier belastigt.Bez.:Monogramm A.G.Aquarellierte Zeichnung. 13,5x24 cm.Unter Gias.Goldrahmen.
+
+## L. Genin
+
+- 85 Badende. Zwei Frauen im Bach unter Baumen von der Sonne beschienen. Blick auf das sonnige Feld drauBen. Ol auf Malpappe. 36x29 cm.Dunkler Rahmen.
+
+lebt in Minchen.
+
+## E.A.Gerold
+
+Minchen.
+
+- Kuhe.Sommertag.Nach dem Regen.Bez.:F.A.Gerold. 01 auf Leinwand. 69x106 cm.Goldrahmen.
+- 86 Waldlandschaft. Auf einer WaldbloBe weidende Schafe und
+
+## A.E.Gerstmayer
+
+- 87Hochgebirgslandschaft. Tief eingeschnittenes Tal zwischen dunkien Tannenhangen. Schneeberge im Hintergrund. Bez.: E.Gerstmayer 1912. O1 auf Leinwand. 60x40 cm. Gold rahmen.
+
+Minchen.
+
+## E.Geselschap
+
+- 88 Gute Kameradschaft. Madchen mit kleinem Briderchen auf dem SchoB,streichelt einen kleinen gefleckten Hund, der nach dem Brot in seiner Hand schnuppert. Bez.:E. Geselschap 1858.
+
+geb.1814 in Amsterdam, gest.1878 in Dusseldorf.
+
+- 01 auf Leinwand.25x19,5 cm.Goldrahmen.
+
+## Josua von Gietl
+
+- 89 Getreideernte. Heiber Sommertag. Schnitter im Kornfeld bei der Arbeit. Bez.:Gietl.O1 auf Malpappe.16,5x22,5 cm. Gerahmt.
+
+geb. in Muinchen, gest.1922 daselbst.
+
+- 90 Strohmanderln. Auf dem abgeernteten Felde aufgerichtete Strohmanderln gegen grobe schwere Gewitterluft gesehen. Bez.: Gietl. 01 auf Malpappe. 31,5x46 cm.Gerahmt.
+- 91 Kartoffelernte.Herbstliches Feld mit Kartoffelklaubern. Herbstlicher Wald und Ortschaft im Hintergrund. Bewolkte Luft dariber. Bez.:Gietl.Ol auf Leinwand. 46x31 cm. Unter Glas.Dunkler Rahmen.
+
+## H.L. Gleichen-RuBwurm
+
+- 92 Am Meer bei Trouville. Felsblocke am Strand. Blick auf die See und Schiffe. Dunkle bewolkte Luft dariber. Bez.:Glei chen-RuBwurm 83. O1 auf Leinwand. 56x76 cm. Gold-
+
+geb. 1836 in Greifenstein, lebte in Weimar.
+
+- rahmen.
+
+lebte in Minchen.
+
+## G.Goldberg
+
+- 93 Ophelia. Ophelia mit dem Kranz auf dem Haupt, in die blonLandschaft. LebensgroBe Figur. Kniestick. Bez.:G.Goldden Strahne ihres Haares greifend. Abendstimmung in der berg 1886. Pastell. 129x81 cm. Pluischrahmen.
+
+## Kopie nach Greuze
+
+- 94 Madchenkopf. Brustbild eines blonden,nach oben blickenden Madchens mit nackten Schultern. Ol auf Leinwand.40 x33 cm.
+
+## Hermann Groeber
+
+Minchen.
+
+- Kleidchen,eine Blume mit beiden Handen auf dem SchoB haltend. Sitzend. Kniestick. Bez.:H. Groeber. Ruckseitig: Lisl (Hanna Bick, Tannheim 1913 gem.von Hermann Groeber. O1 auf Holz. 62x54 cm. Dunkler Rahmen.
+- 95 Lisl. Munteres dunkelhaariges Bauernmadchen im blauen
+
+## Gysis Schule
+
+(Minchen.)
+
+- 96 Italienerin.Madchen mit rotem Kopftuch. Um den Hals auf Leinwand.
+- rote Perlenkette.En face.Brustbiid. 01 31x23,5 cm.Unter Glas.Goldrahmen.
+
+## Oskar Hagemann
+
+lebt in Karlsruhe.
+
+- Halskrause und himbeerfarbenem Kleid,eine blaue Blume in der Hand. Bez.: Oskar Hagemann 1920. Ol auf Leinwand. 41,5x36cm.Unter Glas.Goldrahmen.
+
+## K.W.Hahn
+
+- geb.1829 zu Ebersbach, gest.1887 in Dresden. 99 Ein Leckerbissen. Junger Bauer sitzt am Tisch und reicht einem auf dem Kafig sitzenden Vogel ein Zuckerstuickchen. Vorne ein Hundchen.Gemitliche landliche Stube.Bez.: W. Hahn. O1 auf Leinwand. 39,5x35,5 cm. Goldrahmen.
+
+## Hans von Hajeck
+
+Minchen.
+
+- 100 Vor dem FluBibergang. Bayerische Schwere Reiter am Ufer. Im Hintergrund Dorf. Sonniger Tag. Bez.:Hajeck 1902.O1 auf Malpappe.27x42 cm. Goldrahmen.
+
+## F.Happel
+
+- 101 Spielende Fichse. Zwei junge Fichse vor ihrem Schlupf. Bez.:Friedrich Happel.Oi auf Leinwand. 32x40 cm.Goldrahmen.
+
+geb.1825 in Arnsberg, gest.1854 in Dusseldorf.
+
+## H.Hartwich
+
+Minchen.
+
+- 102 Auf der Weide.In herbstlicher Landschaft Kuhe auf der Weide. Hirtin am Strumpf strickend dabei. Dorf im Hintergrund.Bez.:H.Hartwich. O1 auf Leinwand.25,5x33,5 cm. Unter Glas.Dunkler Rahmen.
+
+## Hans Heider
+
+Minchen.
+
+- 103 Sonniger Schnee. Schneefeld vor einem Stadtchen von der Sonne beschienen. Im Hintergrund Hauser. Warm getonte Winterluft.Bez.:H.Heider.Oi auf Leinwand. 100xi13 cm. Versilberter Rahmen.
+
+Tafel V.
+
+## Karl Heilmayer
+
+- 104 Fischerhitte am See. Blick vom baumbestandenen Ufer aus auf den in der Morgenfrihe erglanzenden See. Bez.:K.H. Olauf Holz.16x24 cm.Goldrahmen.
+
+geb.1829 in Minchen, lebte daselbst.
+
+## Max Heilmaier
+
+- 105 Trunkener Bacchant. Junger Bacchant mit Becher in der Rechten und Weinschlauch unterm Arime wird von einem
+
+lebt in Nirnberg.
+
+- Bockchen in die Seite gestoBen. Bronzestatuette. Hohe 68 cm.
+
+## Carl Heinisch
+
+- 106 Kuihe ans Wasser ziehend. Unter alten Weiden Mihlwehr. Olauf Holz. 20x17 cm.Dunkler Rahmen. Am Wasser Kuihe.Herbstabendstimmung. Bez.:C.Heinisch.
+
+geb. 1847 in Neustadt, lebte in Minchen.
+
+- Goldrahmen.
+## H. Heinlein
+
+- geb. 1803 in Weilburg, gest.1885 zu Munchen. 107 Hochgebirgslandschaft.Vorne Tal mit Gebirgsbach und Felsen. Auf griner Matte Schafherde. Im Hintergrund Felsberge in Wolken gehillt. Abendstimmung. Bez.: Heinr. Heinlein.Ol auf Leinwand. 56x75 cm.Goldrahmen.
+
+## B.Heldrich
+
+Munchen.
+
+- 108 Der Herrgottsschnitzer. Alterer Mann in weiBem Rock an einem Kruzifixus schnitzend. Auf dem Werktisch vor ihm Heiligenfiguren und Engelskopfchen. Bez.:B.Heldrich.O1 auf Leinwand.96x80,5cm.Goldrahmen.
+- 109 Die Kartenspieler. Zwei Holzknechte in Oberlandlertracht beim Kartenspiel am Biertisch.Bez.:B.Heldrich Munchen. 01auf Leinwand. 48x67 cm.Goldrahmen.
+- 110 Am Sonntag. Miesbacher Dirndl im Sonntagsstaat unter der
+- Kirchentir.Blick ins Kircheninnere. Bez.:B.Heldrich Minchen.O1 auf Holz. 35x27 cm.Unter Glas. Goldrahmen.
+- 111 Die Mutter. Junge Mutter in dunklem Haar und roter Jacke, das Kind an der Brust. Im Hintergrund Herdfeuer. Bez.: B.Heldrich.O1 auf Holz. 35x27,5 cm.Unter Glas.Gold-
+- rahmen.
+
+## F.Hellmer
+
+lebte in Munchen.
+
+- 112 Bayerische Landschaft. Dorf im Moor in Abendstimmung. 01 auf Malpappe.32x42cm.
+- NachlaBstempel Hellmer. Unter Glas.Goldrahmen.
+
+## A.Hengeler
+
+lebt in Munchen.
+
+- 113 Abendfrieden. Abendliche,in sonnigwarme Stimmung gehillte Landschaft. Blick auf einen See und Gebirge. Im Vordergrund auf freier Hohe sitzt ein Mann mit der Laute, ihm gegeniber eine in gelbe Seide gekleidete sitzende Frau mit Blumen im SchoB. Bez.: Ad. Hengeler. Ol auf Holz. 70x95 cm.Unter Glas.Dunkler Rahmen. Tafel II.
+- 113a Ruhende Venus. Uppige Frau auf weibem Ruhebett gegen grinen Vorhang. Ausblick ins Freie. Ol auf Leinwand. 26,5x39 cm.Dunkler Rahmen. Werk der franz. Schule,
+- von Prof.A.Hengeler restauriert und ibermalt.
+
+## Henrici
+
+## Munchen.
+
+- 114 Moor. Torfhitte mit bunten Moosen uiberzogenes Gelande in heiterer Herbstluft. Ol auf Papier und Leinwand aufgezogen.
+- 18x31,5 cm.Dunkler Rahmen.
+
+## F.S.Hermann
+
+lebt in Berlin.
+
+- 115 Tulpenernte.GroBes Tulpenfeld unter bewolktem Himmel. Im Felde figurliche Staffage. Bez.:F. S. Hermann,Holland.
+- 01auf Leinwand. 90x140 cm.Goldrahmen.
+
+## R.HeB
+
+geb.1801 in Disseldorf, gest.1874 in Reichenhall.
+
+- 116 Fuchsjagd. Ein in der Dammerung anschleichender Fuchs. Unter Tannen stehender Schitze im Anschlag. Bez.:R.HeB. 01 auf Malpappe. 28x22,5 cm. Gerahmt.
+
+## Herm. Ludwig Heubner
+
+Miinchen.
+
+- 117 Im Salon. Junge schwarzgekleidete Dame am Tisch. Gelbe Tulpen darauf. Vorne Korbsessel. Bez.:F. H. 11. Tempera. 56×42 cm.Unter Glas.Versilberter Rahmen.
+
+## E.Hildebrand
+
+Munchen.
+
+- 118 Sommer. Vorne Wasserspiegel. Grine Au. Blick auf bergige
+- Landschaft. Bewolkte Luft. Bez.: E. Hildebrand. Ol auf Holz. 23x15 cm.Unter Glas.Goldrahmen.
+
+## R. Hirth du Frenes
+
+geb.1856 in Grafentonna, gest.1916 in Miltenberg.
+
+- 119 Blihender Zweig. Abgebrochener Zweig mit weiben Bluiten im Sonnenlicht.Bez.:R.Hirth d.Fr.OI auf Malpappe.
+- 27,5x41,5 cm. Dunkler Rahmen.
+- 120 Bildnis von Wanda Hirth du Frenes, Gattin des Kunstlers. Blonder Kopf en face mit Hut,Pelz und dunklem Jackett. Brustbild. Bez.:R.Hirth du Frenes. Pastell. 66x52,5 cm. Unter Glas. Dunkler Rahmen.
+
+## D.Howard Hitshcock
+
+Bekannter amerikanischer Maler.
+
+- 121 Auf den hawaischen Inseln. Palmenhain im Vordergrund.
+- Blick in die Ferne. Bez.:O.Howard Hitshcock Hch.98. O1 auf Leinwand. 32x51 cm. Goldrahmen.
+
+## Horst Hacker
+
+geb.1842 zu Leipzig, lebte in Munchen.
+
+- 122 Starnberg. Blick auf Starnberg und den See von einer Anhohe aus.Im Vordergrund Maher.Gewitteriger Sommermorgen. Bez.:Horst Hacker Muinchen. OI auf Leinwand. 35,5x62 cm. Dunkler Rahmen.
+
+## Hollandisch um 1830
+
+- 123 Marine. Segler mit hollandischer Flagge auf ruhiger See.Ol
+- auf Kupfer.18,5x27,5 cm.Dunkler Rahmen.
+
+## A.Holmberg
+
+geb.1851 in Minchen, gest. daselbst.
+
+- 124 Frauenbildnis. Junge blonde Frau mit grinem Federnhut, weiBer Halskrause,Goldkette und dunkler Jacke.Dreiviertelprofil nach links. Brustbild. Links unten schlecht leserlich
+- signiert.O1 auf Leinwand. 54x45cm. Gerahmt.
+
+## J.Horadam
+
+lebte in Muinchen.
+
+- 125 Ochse in der Sonne. Gefleckter weiber Ochse auf sonniger Wiese. Bez.:J.H. O1 auf Malpappe. 28x39 cm. Dunkler
+- Rahmen.
+- 126 Ochse. WeiB und grau gefleckter Ochse im Grinen. Bez.: J.H.(Horadam). O1 auf Malpappe.28,5x39 cm.Dunkler Rahmen.
+
+## C.Rudolf Huber
+
+geb.1839 in Schleinz, lebte in Minchen.
+
+- 127 Jockei und Pferd. Abgeworfener Jockei hinter einer Huirde stehend,lockt das Pferd wieder zu sich her. Hintergrund Wiesenland. Bez.: C. Rudolf Huber 1869. O1 auf Leinwand.
+- 42,5x55,5 cm.Goldrahmen.
+
+## J.Hilser
+
+- geb.1819 zu Kleinenbrosch, gest.1849 in Dusseldorf.
+- 128 Sonnige Herbstlandschaft. Bewaldetes Gebirgstal. Vorne sonniger Weg mit herbstlich belaubten Baumen. Auf dem Weg wandernde Familie zu Pferd und zu FuB. Bez.: J. Huilser. O1 auf Leinwand.81x63 cm.Goldrahmen.
+
+## Julius Huther
+
+lebt in Muinchen.
+
+- 129 Landliches Idyll. Lagernde Kuh und badende Frauen in higeliger Landschaft. Bez.: Julius Huther 1919. O1 auf
+- Malpappe. 32x24 cm. Unter Glas. Dunkler Rahmen.
+
+## Theodor Hummel
+
+Minchen.
+
+- 130 Stilleben. Rote, gelbe und weibe Rosen und Porzellan. Bez.: Th.Hummel 1913. 01 auf Malpappe. 42,5x63,5 cm. Schwarzer Rahmen.
+
+## A.Hutschenreuther
+
+lebte in Minchen.
+
+- 131 Im Klosterhof. Schwestern im Klosterhof die Tauben fitternd. Bez.:Hutschenreuther. Ol auf Leinwand. 45x37cm. Unter Glas.Dunkler Rahmen.
+
+## Angelo Jank
+
+Muinchen.
+
+- 132 Franzosischer Kiirassier in Helm und KiraB, Gewehr im Anschlag zu Pferd. Bez.:A. Jank 1915. O1 auf Holz. Rund 48 cm.Unter Glas. Goldrahmen.
+
+## J.(Monogramm)
+
+- 133 Franzosische Kiste. Steile felsige Kiste. Sonnenbeschienene Bucht mit Dampfern. Bez.: J. Ol auf Leinwand. 18x32 cm. Goldrahmen.
+## Carl Jutz jun.
+
+- 134 Bauernmadchen. Madchen mit dunklem Hut und farbigen Schleifen in karriertem Kleid im sonnigen Grin. Bez.:
+
+Duisseldorf.
+
+- C. Jutz.O1 auf Malpappe. 57,5x49,5 cm. Goldrahmen.
+
+Minchen.
+
+## F.Kaltenbacher
+
+- 135 Damenbildnis. Dame in Balltoilette mit weiBem Federn-
+- facher, hoher Haarfrisur gegen grine Wandbespannung. Brustbild. Bez.:F.Kaltenbacher.Ol auf Leinwand. 55x 40 cm. Dunkler Rahmen.
+
+## Richard Kaiser
+
+- 136 Oberbayerische Vorland.Vorne Baum an einem FluBchen und grine Wiesen. Im Mittelgrund altes Stadtchen an waldigen Hohen.Im Hintergrund Bergkette.Leuchtende Sommerluft dariber.Bez.:Richard Kaiser Minchen 1918. O1 auf Leinwand. 116x151 cm.Goldrahmen. Tafel v.
+
+Munchen.
+
+## Otto von Kameke
+
+geb.1826 in Stolp,lebte in Dresden.
+
+- 137 Die Jungfrau. Dammeriges beschattetes Tal im Vordergrund. Wildbach und Felsgeroll. Uber dem Tal im Fruhlicht steigt die lichte Berggruppe empor. Lichte,leicht bewolkte Luft. Bez.:O.v.Kameke. O1 auf Leinwand. 93x129 cm. Goldrahmen.
+
+## Hugo Kauffmann
+
+geb. 1844 in Hamburg, gest. 1916 in Minchen.
+
+- 138 Schlafender Hund. Brauner Huhnerhund am Boden liegend. Bez.: NachlaBstempel. Ol auf Malpappe. 11,5x15 cm. Dunkler Rahmen.
+
+## Hermann Kaulbach
+
+geb.1846 in Minchen, gest.1909 daselbst.
+
+- 139 Friedrich der GroBe und Sebastian Bach.Auf der Orgelempore der Kirche Sebastian Bach an der Orgel und Friedrich der GroBe am Notenpult mit der Flote. Bez.:H.K.73/5. Rickseitig bestatigt.Dieses Bild ,Friedr. d. Gr.u.Se. Bach"ist ein Originalgemalde von der Hand meines Mannes Prof. O1auf Leinwand. 63,5x88 cm.Unter Glas.Dunkler Rahmen. H.Kaulbach  gemalt.Sofie Kaulbach.NachlaBstempel. Tafel II.
+
+## Wilhelm von Kaulbach
+
+- 140 Die heilige Familie auf der Flucht. Maria mit dem Kinde auf dem Esel sitzend, Joseph geht singend daneben her,umgeben von singenden, die hi.Familie geleitenden Engeln. Bez.: Gruppe aus der Zerstorung yon Jerusalem W.Kaulbach (siehe das gleichnamige Bild in der Minchener Pinakothek).
+
+geb.1805 in Arolsen, gest.1874 in Minchen.
+
+- Federzeichnung.55x41 cm.
+
+## Otto Keitel
+
+- 141 Hihnerhof. Blick in einen alten Hof und auf die Huihnersteige mit Hihnern. Bez.:O.Keitel. Aquarell. 30,5x21 cm. Unter Glas.Gerahmt.
+
+geb. 1862 in Braunschweig, lebt in Karlsruhe.
+
+## Albert von Keller
+
+- 142 Siesta. Ruhende Tanzerin. Tanzerin in gelbem Seidenkleid und schwarzen Florstrimpfen ruht in einer roten Chaiselongue. Bez.: Albert Keller. Ol auf Leinwand. 62x51 cm. Unter Glas.Dunkler Rahmen.
+
+geb. 1844 in Gais i. d. Schweiz, gest. in Munchen.
+
+Tafel IV.
+
+- 144 Spanische Tanzerin.Tanzerin im Gehen Tamburin schwingend. Bewolkter Frihlingshimmel im Hintergrunde. Bez.:Aibert von Keller. O1 auf Leinwand.54x36 cm. Unter Glas. Dunkler Rahmen.
+- 143 Portrat der Tanzerin Rosetti. Die Tanzerin in groBer Toilette sitzend,mit liebenswirdigem Ausdruck und eleganter Haltung gegen roten Hintergrund auf rotem Teppich.Bez.:Albert von Keller 1913.Olauf Leinwand. 72x50 cm.Goldrahmen. Tafel IV.
+- 145 Somnambule. WeiB gekleidet, einen Arm erhoben, mit der
+- andern Hand auf einen magischen Kreis zeigend. Im eksta01 auf Malpappe. 84x76 cm. Rahmen Gold mit Schwarz. tischen Ausdruck nach oben schauend. Bez.:Albert Keller.
+
+## P.W. Keller-Reutlingen
+
+- 146 Sommertag. Weg zwischen Kornfeldern und Baumen. Im Hintergrund Dorf. Lichte,warme Sommerstimmung. Bez.: P.W.Keller-Reutlingen.O1 auf Malpappe. 23x35,5 cm. Unter Glas.Dunkler Rahmen.
+
+geb.1854 zu Reutlingen, gest. 1919 in Miinchen.
+
+- 147 Hochufer. Uber dem FluB aufragendes felsiges Ufer mit lingen. O1 auf Malpappe. 44x33,5 cm. Unter Glas. Dunkler alter Weide.Blaues Wasser unten.Bez.:P.W.Keller ReutRahmen.
+
+## H.Klatt
+
+## lebt in Minchen.
+
+- 148 SchloB Leutstetten an einem nebligen Marzmorgen.Vorne Waldweiher, Birken, dariber Dach und Giebel des Schlosses. Neblige Frihjahrsstimmung. Bez.:H. Klatt. Ol auf Leinwand.43,5x55 cm.Dunkler Rahmen.
+- 149 Herbst. Birken am Weg und Unterholz. Kihle klare HerbstBez.:Hans Klatt.O1 auf Leinwand. 64,5x74 cm. Goldluft.Farbig frische Herbststimmung in der Landschaft.
+- rahmen.
+
+## Christian Klaus
+
+geb.1843 in Nirnberg, lebte daselbst.
+
+- 150 Mittelfrankischer Bauernbub. Die Hande in der Hosentasche, 32×23 cm.Goldrahmen. Zipfelmitze auf dem Kopf. Bez.:C. Klaus. Ol auf Holz.
+- 150a Mittelfrankisches Bauernmadchen,ein kleines Schwesterchen auf dem Arm tragend. Bez.: Ch.Klaus. O1 auf Holz. 32x 23,5 cm.Goldrahmen.
+
+## H.Kley
+
+- 151 Meereszauber I. Vor ein paar Madchen im Seebad taucht ein Nock mit Dreizack auf. Federzeichung in Passepartout. 26×18,5cm.
+
+lebt in Minchen.
+
+- 151a Meereszauber Il. Altere Dame mit durren Beinen stelzt durchs Wasser. Der Nock ibergibt sich. Bez.:Kley. Federzeichnung in Passepartout. 26x18,5 cm.
+- 152 Sparliche Toilette. Sidlanderin in rotem Kopftuch, Hand iber dem SchoB. Bez.:Kley. Aquarell. 35x23 cm. Unter Glas. Gerahmt.
+- 152a Alpiner Spuk. Hitte mit alpinistischen Akten. Mannlein und Weiblein auf dem Ofen am Bett. Bez.:Kley. Federzeichnung in Passepartout. 26x24,5 cm.
+- 153 Artisten. Weibchen auf dem Arm eines Athleten balancierend. Rickseitig:Weibersalut.Bez.:Kley.Federzeichnungen. 30×23cm.
+- 154 Dressur. Am Boden liegende Nymphe laBt einen Esel im Kreis tanzen. Ein lachender Faun sieht zu. Bez.: Kley. Federzeichnung in Passepartout. 27x22 cm.
+- 153a Tanzerin. Varietetanzerin in rotem Kleide. Bez.:Kley. Guasche in Passepartout. 27,5x14 cm.
+- 155 Aus seinem Skizzenbuch. Vorderseite: Ein Herrenreiter mit Monokel und Dame. Ruckseitig Herr und Dame im Wind. Unten dicke Dame in hockender Stellung. Bez.:Kley Skizzenbuch 1. Federzeichnung in Passepartout.30x23 cm.
+
+## H.P. Klimsch
+
+- 156 Zu zweien allein. Zwei Bauernmadchen sitzen Ricken an Rucken auf der einsamen Flur an einem Wassertimpel. Weiter zurick das Dorf, dazwischen Moor.Bez.:H.P. Klimsch 94Minchen.Olauf Leinwand. 63x91 cm. Dunkler Rahmen.
+
+Frankfurt a. M.
+
+- 157 Pferde auf der Weide. Schimmel, Brauner und Fohlen auf der Weide in abendlicher Dammerung. Ol auf Leinwand. 61x49 cm.Dunkler Rahmen.
+- 159 Kopf eines Schimmels. Schimmel den Kopf gegen den Beschauer gewendet.Brustbild.Bez.:oben Bonita;unten H.P.Klimsch 93 Minchen.O1 auf Leinwand. 36,5x30 cm. Holzrahmen.
+- 158 Birken. Kahle Birkenstammchen im Vorfrihling in Moorlandschaft.Im Hintergrund blaue Dammerung, die den Wald verhult. Bez.: H.P.Klimsch 96 Muinchen. Ol auf Leinwand. 88x70 cm.Dunkler Rahmen.
+## F.Knab
+
+geb.1837 in Wurzburg, lebte in Minchen.
+
+- 160 Blick auf Muinchen. Vom Steg der Thalkirchner Uberfalle aus.Goldigrote Abendstimmung.Herbst. Bez.:F.Knab. Olauf Leinwand. 46x58 cm.Goldrahmen.
+
+## W.Knoll
+
+geb.1839 zu Berlin,lebte in Frankfurt.
+
+- 161 Rudelsburg. SchloBruine zwischen Baumen.Von der Hohe Blick ins Tal. Bez.:W.Knoll. Aquarell. 33x47 cm. Unter
+
+## A.Knoop
+
+- Glas.Gerahmt.
+
+lebte in Munchen.
+
+- 162 Liebelei.Rokokoparchen auf dem Divan in verliebtem Kosen. Ol auf Malpappe. 15,5x11 cm. Unter Glas. Dunkler Rahmen.
+- 163 Schlafende Lautenspielerin.Dame im Kostim des 17. Jahrhunderts mit der Laute auf dem SchoB. Rickwarts:H.Knoop s/l R.Koerb. Ol auf Malpappe. 21 x17 cm. Oval. Gold rahmen.
+- 164 Mozart am Fligel. Mozart spielt seinen Freunden auf dem
+- Klavier ein neues Stick vor. Rokokozimmer in Seitenbeleuchtung. Bez.:A.Knoop.Ol auf Leinwand. 55x45 cm. Dunkler Rahmen.
+
+## R.Kochanowski
+
+lebt in Munchen.
+
+- 165 Sommerabendstimmung. Warm besonntes Ufer. Dahinter leuchtende Sommerwolken.Bez.:R.Kochanowski.Ol auf Holz. 16x44 cm. Dunkler Rahmen.
+- 166 Gewitter im Anzug. Moorlandschaft mit Kuhen. Im Hintergrund heraufziehendes Gewitter. Bez.:R.Kochanowski. O1
+- auf Holz.12,5x21,5cm.Dunkler Rahmen.
+- 167 Abendstimmung. FluBufer mit weidenden Kihen. Abendluft dariber. Bez.:R.Kochanowski.O1 auf Holz.9,5x17 cm. Dunkler Rahmen.
+
+## Christian Kohler
+
+geb.1827 in Darmstadt.
+
+- 168 Eichen im Gewitter. Waldweg mit alten Eichen im Gewitter. Auf dem Weg Mann und Frau als Staffage. Bez.: Ch.Kohler. Ol auf Leinwand. 41,5x54 cm. Unter Glas. Goldrahmen.
+
+## G.Kolnsperger
+
+lebt in Minchen.
+
+- 169 Herbstlied. Faun blast einer unter einem herbstlich gefarbten Baum liegenden Nymphe ein Lied vor. Bez.: G. Kolnsperger.
+- O1 auf Holz.20,5x17 cm. Goldrahmen.
+
+## Karl Koeppel
+
+lebte in Minchen.
+
+- 170 Wald. Blick in einen Tannenwald. Im Vordergrund Waldwiese. Sommerstimmung. Bez.:NachlaBstempei Karl Koeppel. Ol auf Malpappe. 20x28 cm.Unter Glas. Goldrahmen.
+
+## Kopie nach Pieter de Hooch
+
+- 171 Interieur. Besonnte Stube. Lesende Frau darin in roter Jacke. Original in der Pinakothek in Minchen. Ol auf Leinwand. 73x57 cm.Dunkler Rahmen.
+
+## Gustav Krausche
+
+lebte in Minchen.
+
+- 172 Madchenkopf. Brunette mit Blumen im Haar und Pelz um
+- den nackten Hals und die Schultern. Brustbild.Bez.: G.Krausche. O1 auf Holz. 16x12 cm.
+- 173 Odaliske. Eine Haremsschone am Fenster mit Schleier iber dem SchoB,mit ihrem Halsschmuck spielend. Bez.:Gustav Krausche Minchen 84. O1 auf Holz. 41x30,5 cm. Goldrahmen.
+
+## Karl Kronberger
+
+geb.1841 in Freystadt, gest.1921 in Minchen.
+
+- 174 Schneemann. Kinder haben einen Schneemann vor dem Hause aufgerichtet. Ein Bub setzt ihm einen Napoleonshut auf. Ol auf Leinwand. 71,5x51,5 cm. Unter Glas. Dunkler Rahmen.
+
+Tafel VI.
+
+- 175 Goldene Hochzeit. Das alte Paar an der Stiege im Licht-
+- schein,umgeben von Enkeln und Kindern. (Karton.) Kohle-
+
+## C.Kroner
+
+Munchen.
+
+- Munchen 1904.O1auf Leinwand.31x37,5 cm.Goldrahmen.
+- 176 Winterabend.Verschneite Allee mit Staffage.Bez.:C.Kroner,
+
+## Bernhard Kuihn
+
+Muinchen.
+
+- Geraten. Bez.:Bernh.Kihn 84.O1 auf Leinwand. 44,5x 36,5 cm.Dunkler Rahmen.
+- 177 Landliches Interieur. Blick in eine Tenne mit landlichen
+
+## L.A.Kunz
+
+Muinchen.
+
+- 178 Rosen und Paonien in grinem Glas auf Holz. 93x61 cm. Goldrahmen.
+- 179 Sonnenblumen. Auf Holz. 106x62 cm. Rahmen schwarz mit Gold.
+- 180 Gemisestudie:Melonen,Tomaten, rote Riben. Ol auf Pappe. 62x92cm.Goldrahmen.
+
+## Max Kuschel
+
+lebt in Munchen.
+
+- Max Kuschel.Ol auf Leinwand. 56x75 cm. Goldrahmen.
+- 181 Frihlingsstimmen.Fruhlingslandschaft.Im Vordergrund musizierender Juingling und Geige spielende Jungfrau. Bez.:
+
+## Jef Lambeaux
+
+geb.1852 in Antwerpen, gest. daselbst.
+
+- 182 Das Konzert. Zwei Nymphen mit Schalmei blasendem Kind auf einem Felsen sitzend.Bronze-Gruppe,82 cm hoch.Sockel 38X42 cm.Bez.:Jef Lambeaux, Ste la des Bronces.Ste Ame Fonderie J. Petermann Bruxelles.EinschlieBlich des alleinigen Reproduktionsrechtes.
+
+## Eugen Landrio
+
+- 183 Mexikanische Landschaft. Blick auf felsige Landschaft mit einer Stadt am Meerbusen. O1 auf Papier. 30,5x44 cm. Dunkler Rahmen.
+- 184 Mexikanische Landschaft. Felsiges FluBtal im Vordergrund,
+- 183a Mexikanische Landschaft. FluBtal im Vordergrund. Weiter zurick Meer und Schneeberge. O1 auf Papier. 29,5x42,5 cm. Dunkler Rahmen.
+- 29x41 cm.Goldrahmen.
+
+## Hermann Lang
+
+geb.1856 in Krumbach, lebt in Munchen.
+
+- 185 Alte Gasse. Alte Hauser in alter Gasse. Blick ins Gruine. O1 auf Leinwand. 32x32 cm. Holzrahmen.
+- 186 Studie. Am Boden sitzender blondhaariger Knabe. Ol auf
+- Leinwand. 17,5x23 cm. Dunkler Rahmen.
+
+## J.A.Lazinsky
+
+- geb.1808 in Simmern b.Koblenz, gest.1871 in Disseldorf. 187 Einsamer See.In nordischer Landschaft zwischen Felsen eingebetteter gefrorener See.Truiber Wintertag.Bez.: A.Lazinsky 1844.O1 auf Leinwand.38x58cm. Goidrahmen.
+
+## S.Larson
+
+geb.1825 in Ostgotland,gest.1864.
+
+- 188 Nordische Landschaft. Felsiges Tal. Uber Felsen schaumendes Wasser.Blick auf Felsberge.Effektvolle malerische Abendbeleuchtung. Bez.:Larson 1857.Ol auf Leinwand.
+- 54x41 cm.Dunkler Rahmen.
+- 189 Nordisches Wildwasser.Vorne iber Felsen schaumendes Wasser. GroBe bewolkte Luft dariber. Bez.:S.Larson 18.. Gegenstick zum Vorigen.Ol auf Leinwand. 54x41 cm. Dunkler Rahmen.
+- 190 Seesturm. Vorne stirmische, weiBe See an felsiger Kiste gestrandetes Segelschiff.Distere stirmische Gewitterluft dariber.Bez.:M. Larson 1857. O1 auf Leinwand. 52x73 cm. Goldrahmen.
+
+## M.Lebling
+
+lebt in Miinchen.
+
+- 191 Der Hiter. Dackel sitzt auf einer Fuhre Grinfutter und halt die Schafe davon ab,die daran naschen wollen. Bez.: M.Lebling.O1 auf Leinwand.48,5x68 cm.Goldrahmen.
+- 192 Uberfall. Zum Angriff gegen einen Dackel vorgehender Stier. Im Hintergrund Malgerat und der Maler hinter dem
+- Zaun.O1 auf Holz. 16x26cm. Gerahmt.
+## Franz Leinecker
+
+- 193 Freibad.Im besonnten, teils beschatteten Waldgrund badende Frauen. In Spitzwegscher Art gemalte Szene. Bez.:Lein-
+
+lebte in Minchen.
+
+- ecker.O1 auf Holz.14x10 cm. Goldrahmen.
+
+## Emilie Leleux
+
+geb.1824 in Genf, gest. 1885 daselbst.
+
+- auf Holz. 67x52,5 cm.Goldrahmen.
+- 194 Beim Morgenkaffee.Junges Paar im Rokokokostim am Fenster eines Gemaches im gleichen Geschmack wird von einem Kammermadchen bedient.Bez.:Emilie Leleux.O1
+
+## Art des Lenbach
+
+- mit Wein iberwachsene Pergola. Italienische Dame, Kinder undDienerin. Rahmen.
+- 195 Im Schatten der Pergola. Blauer italienischer Himmel. Eine
+
+## C.Leopold
+
+- 196 Dorf am Rande des Moores. Vorne Bach und Krautgarten mit figirlicher Staffage. Weiter zuriick Dorf,teils beschattet, teils in der Sonne. Bez.:C.Leopold Minchen 1902. Ol auf Leinwand. 46,5x64 cm. Dunkler Rahmen.
+
+Muinchen.
+
+## A.Leu
+
+geb. 1818 in Minster, lebte in Duisseldorf.
+
+- 197 Wasserfall. Gebirgstal. Vorne Wasserfall mit Regenbogen. Bewolkte Luft dariber.Sommerstimmung.Bez.:A.Leu 1852. O1 auf Leinwand. 36x50,5 cm.Goldrahmen.
+
+## W.Lichtenheld
+
+- 198 Romantische Landschaft. Burg im Grinen auf der Hohe. Rickseitig die Herkunft des Bildes aus des Kuinstlers NachlaB
+
+geb.1817 in Hamburg, gest.1891 in Munchen.
+
+- bestatigt.O1 auf Malpappe. 13x22 cm. Dunkler Rahmen.
+
+## Ernst Liebermann
+
+- 199 Dammerung und Lampenlicht. Mutter mit ihren zwei Kin-
+
+lebt in Munchen.
+
+- dern in der blauen Stunde in einem Bilderbuch lesend. Bez.: Ernst Liebermann Munchen 07.Ol auf Leinwand. 115x103cm Goldrahmen.
+
+## Adolf Lier
+
+- 200 Gebirgstal. Vorne Laubbaume, Pappeln.Blick auf einen FluB und ins Tal. Links Berge. Heitere Sommerluft dariber. NachlaBstempel A.Lier.O1 auf Malpappe.30x42cm.
+
+geb. 1826 in Herrnhut, gest. 1882 in Minchen.
+
+- Goldrahmen.
+
+Tafel III.
+
+- 200a Herbst. GroBe,herbstlich gefarbte Baumgruppe in dunkler Silhouette gegen gewitterige Luft.Im Vordergrund Kuhherde an einem Aitwasser. Abendstimmung. Bez.:A. Lier. Ol auf Holz.15,5x22cm.Dunkler Rahmen. Tafel III.
+
+## Lierschule
+
+- 201 Gewitterwind.Gewittersturm mit groBen Wolken uber einem Dorfe. Vorne Busch und Wasser. Ol auf Holz. 15x 22 cm.Gerahmt.
+- 202 Baume. Eine Gruppe Waldbaume iberm Unterholz in grauer bewegter Luft. Kihler Sommertag. Bez.:A.Lier.Ol auf Malpappe.21,5x15 cm.Goldrahmen.
+- am Hugel und sandigen Weg junge Bauerin und Kind mit Malpappe.21 x25,5 cm.Gerahmt. Schafen. Bewolkte Sommerluft iber dem Ganzen.Ol auf
+- 203 Vor dem Dorfe. Zwischen Baumen ruht ein Dorf. Vorne
+
+## Jakob Lohinger
+
+- 204 Hof im Gebirge. Bauernhof mit sonniger Wiese davor. Im
+
+Munchen.
+
+- Hintergrund Wald und Gebirge. Sommerlandschaft. Bez. Unter Glas. Dunkler Rahmen. Jakob Lohinger Munchen. O1 auf Landschaft. 27,5x42 cm.
+- Goldrahmen.
+
+## F.Lossow
+
+geb.1837 in Minchen, gest. 1872 daselbst.
+
+- 205 Gestorte Rast. Marktesel heftig gegen zwei raufende Hunde ausschlagend, die ihn beim Fressen storten. Gemisekarren, Marktweiber und schreiendes Kind in der Nahe. Blick in eine Gasse. Ol auf Malpappe. 35 x45 cm. Dunkler Rahmen.
+
+## M.Lity
+
+- 206 Im Moor. Grasschopfe zwischen Wasserlaufen. Bez.:Lity.
+
+Minchen.
+
+- O1 auf Malpappe. 35x45 cm. Dunkler Rahmen.
+- 206a Partenkirchen. Im Hintergrund Berge. Bewolkte Luft. Bez.:Lity. Ol auf Leinwand. 41 x60 cm. Goldrahmen.
+
+## T.Mackowski
+
+Berlin.
+
+- 207 Am Wehr. Wasserwehr und Mihle unter einem alten Eichbaum. Bauerin an der Sonne wasche trocknend. Sommerstimmung.Bez.:J.Mackowski. O1 auf Leinwand. 45x79 cm.
+
+## Christian Mali
+
+- 208 Schafherde im Gebirge. Schafe eine steinige StraBe herabdrangend. Bez.:Ch.Mali, Meran d. 1.Mai 1905. Aquarell. 11xi8,5 cm.Unter Glas.Goldrahmen.
+
+geb. 1832 in Brooklyn, gest.in Minchen.
+
+- 208a Bei Kleinengstingen auf der schwabischen Alb. Bez.: Ch. Mali Kleinengstingen schwabische Alb.Aug.1904. Aquarell.11,5x18,5cm.Unter Glas.Goldrahmen.
+- spitze. Bez.: Ch.Mali. O1 auf Malpappe. 12,5x21,5 cm. Goldrahmen.
+- 209 Gebirgslandschaft.Blick auf die sonnenbeschienene Berg-
+- 209a Kihe im Wasser.Lichter Sommertag.Bez.:Ch.Mali Kleinengstingen Aug.1904. Aquarellierte Zeichnung in Passepartout. 11x18 cm. Unter Glas. Dunkler Rahmen.
+
+## M.Mayershofer
+
+- 211 Rennen. Bunte Menge im Vordergrund. Blick auf die Rennbahn und uiber das gruine Land hin. Sommertag.Bez.: M.Mayershofer.O1 auf Leinwand. 52x73 cm.Dunkler
+
+lebt in Minchen.
+
+- Rahmen.
+- 212 Baumgarten in der Sonne. Grine Wiese. Im Hintergrund Baume. Sommerstimmung. Bez.:Mayershofer.Ol auf Malpappe. 36x50,5 cm.Unter Glas. Goldrahmen.
+- 213 Blick vom Atelierfenster auf Hauser und Baume in der Morgensonne. Sommerstimmung.Ol auf Leinwand. 33x 41 cm.Goldrahmen.
+
+## C.Mayr-Graz
+
+- 214 Waldidylle. Dame mit Kind an der Brust im Grinen. Weiter zurick in der Walddammerung asendes Reh.Bez.:C. MayrGraz. Ol auf Holz. 27x36 cm.Unter Glas. Goldrahmen.
+
+lebt in Murnau.
+
+## A.v.Meckel
+
+geb.1856 in Berlin, gest.1893 daselbst.
+
+- mit Gemiise. Im Hintergrund ein Kamel. Tropenstimmung. Bez.:A.Meckel.O1 aufLeinwand.200x132 cm.Gerahmt. Tafel IV.
+- 215 Des Beduinen Lieblinge. Arabische Frauen im Palmenwald
+- 216 Nebliger Morgen. Angler auf dem FluB in nebliger Morgen-
+- 217 Im Nildelta. Uberschwemmung im Nildelta. GroBe lichte Abendluft iber der Landschaft. Bez.:A.Meckel.Ol auf Lein-
+- stimmung.Bez.:A.Meckel1889.Ol auf Leinwand. 121x176cm.Gerahmt.
+- wand.141x204cm.Gerahmt. TafelI.
+- 218 Palanken der Oasenbewohnerinnen.Mit Decken zeltartig
+- 219 Der Abgewiesene.Junger Beduine an der Mauer lehnend. Hinter ihm Sonnenlicht. Bez.:A.Meckel 28.IV.92. O1 auf Malpappe.52x34,5 cm.Goldrahmen.
+- aufgepacktes Kamel,mit einer Beduinenfrau. Bez.:A.Meckel 13.IV.92.01 auf Malpappe. 51,5x34,5 cm. Goldrahmen.
+- 220 Der Wachter des Ksar. Beduine auf seine Flinte gestitzt. Bez.:A.Meckel 2.I11. 99. O1 auf Malpappe. 53x34 cm. Goldrahmen.
+- 221 Sandsturm in der Sahara. Die graue vom Sand verwehte
+- Wiste.Im Hintergrund Berge. Bez.:A.Meckel. Ol auf Malpappe.33x53,5 cm.Goldrahmen.
+
+## A.Meermann
+
+geb. 1829 in Rehden, lebte in Minchen.
+
+- und Gebirge. Heiterer Sommertag. Olauf Leinwand. 85x144cm.Goidrahmen.
+- 222 Oberbayerische Landschaft.Im Vordergrund Weg mit Staffage. Baumgruppe als Silhouette. Blick auf einen See Bez.:A.Meermann.
+
+## Lothar Meggendorier
+
+lebt in Minchen.
+
+- 223 Kahnfahrt bei Mondenschein am Siemsee. Auf mondbeschie-
+- nener Seeflache Kahn mit zwei Bauernburschen, Madchen und Spitzhundchen. Bez.:Lothar Meggendorfer. Ol auf Malpappe.35x50 cm.Dunkler Rahmen.
+
+## J.Melcher
+
+lebte in Minchen.
+
+- 224 Am Samstag. Dirndl im roten Mieder schmickt sich fir den
+- O1 auf Leinwand. 43x32,5 cm.Goldrahmen. Sonntag mit Roschen den Hut. Bez.:A. Melcher Miinchen 76.
+
+## W.Melchior
+
+- geb.1817 zu Nymphenburg, gest.1860 in Minchen. 225 Schafe im Stall. Von der Seite her fallt helles Licht herein und streift die ruhenden Schafe.Ol auf Leinwand. 17x22 cm. Gerahmt.
+
+## Adolf von Menzel
+
+geb. 1815 in Breslau, gest.1905 in Berlin.
+
+- 226 Friedrich der GroBe. Der Konig,die Linke an der Seite, die zur Seite sehend. Bez.:Dedicated to old England Adolph v.Menzel.Handschriftlich darunter Adolph von Menzel.
+- Rechte auf dem Stock, mit dem Dreispitz auf dem Kopf, Radierung. 39x31 cm. Unter Glas. Dunkier Rahmen.
+
+## E.Merk
+
+geb.1859 in Minchen,lebt daselbst.
+
+- 227 Wirfelspieler. Zwei alte und ein junger Soldat aus der Zeit des DreiBigjahrigen Krieges bechern und wurfeln.Bez.:
+- E.Merk. Oi auf Holz. 2ix27 cm. Dunkler Rahmen.
+
+## Casar Metz
+
+- geb.1823 in Mainz, gest.1895 in Munchen. 228 Blick auf den Kaiser von Oberaudorf aus. Vorne Anhohe. Das Gebirge dahinter in Morgenluft. Frihmorgenstimmung. Ol auf Malpappe. 28x61 cm. Unter Glas. Dunkler Rahmen.
+
+## Migneffe
+
+Minchen.
+
+- 229 Auf dem Ball. Zwei Damen in Balltoilette mit Fachern vor einer grinen Wand. Bez.: Migneffe 06. Ol auf Malpappe.
+- 42x42cm.Dunkler Rahmen.
+
+## A.von Mo
+
+- kaschiertem Holzsockel. Bez.:A.von Mo. Hohe 44 cm.
+- 230 Jockei zu Pferd.ZinkguB. Bronziert auf mit Messing
+
+## Karl Friedrich Muller, gen.Feuermiller
+
+geb.1807 in Dresden, gest.1865 in Munchen.
+
+- 231 Musikantentisch. In einer Wirtsstube um einen beleuchteten Tisch sitzende Musikanten. Ol auf Papier auf Leinwand aufgezogen.15x13 cm.Gerahmt.
+
+## Miller-Grantzow
+
+lebt in Minchen.
+
+- 232 Ernte. StraBe durch Felder. Beladener Getreidewagen und
+- Schnitter. O1 auf Holz. 12,5x20 cm.Gerahmt.
+- 232a Seeufer. See mit flachem Ufergelande, Baumgruppe und
+- blumiger Wiese.Ol auf Holz. 10x19 cm. Gerahmt.
+- 233 Sennerin mit dem Heukorb. Madchen fest ausschreitend tragt Heu auf dem Ricken von der Hitte weg. Die Gestalt im Profil gesehen. Ol auf Malpappe.23,5x14,5 cm.Versilberter Rahmen.
+
+## L.Muller-Mainz
+
+Minchen.
+
+- 234 Im Stall. Bauernbursche schwatzt mit der vor ihm sitzenden Magd.Nebenan gefleckte ruhende Kuhe.Bez.:Lorenz Muiler-Mainz,Minchen 1895.O1 auf Leinwand. 90x120 cm. Goldrahmen.
+- 235 Sitzende. Weiblicher Ruckenakt auf einem Fell sitzend. Gesicht im Profil gegen den Beschauer. Bez.:L. Miller-Mainz, Munchen.Pastell.90x60 cm.WeiBer Rahmen.
+- 236 Siesta. Auf einem Perserteppich liegender weiblicher Akt. Bez.:Lorenz Miller-Mainz,Munchen1896.Pastell.70x130cm. Unter Glas. Goldrahmen.
+
+## Muller-Wischin
+
+lebt in Minchen.
+
+- 237 Friedensengel. Vorne Prinzregentenbricke in Munchen mit Blick auf das Friedensdenkmal mit dem Engel gegen die herbstlich gefarbten Isaranlagen und Bogenhausen.Bez.:
+- Miller-Wiscnin.O1 auf Malpappe. 43,5x70 cm. Goldrahmen.
+
+## M.Muller
+
+Minchen.
+
+- 238 Apport! Hihnerhund einen toten Fuchs apportierend. Schnee-
+- landschaft im Hintergrund. Bez.:M. Muiller jun., Minchen. Olauf Leinwand. 56x45 cm.Dunkler Rahmen.
+
+## Alexander Muraschico
+
+lebt in Moskau.
+
+- 239 Im Abendlicht. Russisches Madchen im weiBen Kleide von 1911. Ol auf Malpappe.132x60 cm. Bronzierter Holzder Abendsonne seitwarts beschienen.Bez.:A.Muraschico
+- rahmen.
+
+## Antonio Montemezzo
+
+geb.1841 zu St. Paolo di Piave, gest.1898 in Minchen.
+
+- 240 Viehweide. Weidemit ruhenden und weidenden Kihen. Bez.: A.Montemezzo.Olauf Holz.21,5x32 cm.Dunkler Rahmen
+- 240a Hahnenkampf. Zwei Hahne. Im Hintergrund Hihner. Ol
+- auf Holz. 13x18 cm.Goldrahmen.
+- 241 Bauernmadchen.BarfiBiges Madchen am Wasser. Bez.: Ruickseitig.NachlaB Montemezzo.Ol auf Holz.27,5x18,5cm.
+- Dunkler Rahmen.
+- 242 Frihling. Goldrahmen.
+
+## E.Morizot
+
+lebt in Wien.
+
+- Unter bluihenden Baumen junger Bursch und Bauerin am Weg. Weiter zuriick Dorf und blaue duftige Ferne. Bez.:E.Morizot. Ol auf Leinwand. 49x65 cm.
+
+## Minchener Schule
+
+- 243 Mannliches Bildnis. Herr mit Brille. Roter Vollbart. Profil. Bez.:Unleserlich. Rickseitig bez.:Bildnis des Malers Prof. Ernst Zimmermann 1852—1901. Ol auf Holz.20x14,5 cm. Dunkler Rahmen.
+
+## Minchener Schule, Art des Gebler
+
+- 244 Kuhherde auf sonniger Weide. Lagernde und weidende Kihe.
+- Ol auf Malpappe. i9x41 cm. Dunkler Rahmen.
+
+## Munchener Schule, Art des Reinhardt
+
+- 245 Kihe im Wasser. Sommerstimmung. Ol auf Malpappe. 17x25,5 cm.Dunkler Rahmen.
+
+## Munchener Schule, Art des Schleich jr.
+
+- 246 Herbstlicher Auenwald. Hirsche am Wasser. Vorne Weiden. Wald im Hintergrund. Ol auf Papier,auf Leinwand aufgezogen.34x50 cm.Gerahmt.
+- 247 Am Dorfweiher. Am mit Weiden bestandenen Weiher Gansemadchen.DorfstraBe und Hauser. Ol auf Holz. 17,5x26,5cm. Gerahmt.
+- 247a Abend im Dorf. Ol auf Papier, auf Leinwand aufgezogen. 12×24cm.Gerahmt.
+
+## Miinchener Schule
+
+- 248 St.Wolfgangskirche in Rothenburg. Blick durch Torchen ins
+- 30×40cm.
+## Minchener Schule, Seidls Art
+
+- 249 Weiher. Von Baumen umstanden. Terrassenartig abgestufte Berglandschaft.Sommerstimmung.Ol auf Leinwand. 13,5x19 cm.Gerahmt.
+
+## Minchener Schule
+
+- 250 Bauerin.Sitzende Bauerin in rotem Mieder und Rock,weiBen Hemdarmeln und blauem Schurz. O1 auf Malpappe.30x22 cm. Dunkler Rahmen.
+- 251 Studienkopf. Profilkopf eines bartigen Mannes mit weiBem Schulterkragen.Ol auf Malpappe. 25x18cm.Dunkler Rahmen.
+- 252 An der Wornitz? Vorne Dorf mit hohen Pappeln. Zur Seite
+- 29x20 cm.Dunkler Rahmen.
+
+## Minchener Schule 1870-18S0
+
+- 253 An der Amper. Vorne Wasser und Schilf. Fliegende Enten dariber. Biick iibers Land hin. Heitere Sommerluft. Ol auf Malpappe. 22x42 cm.Dunkler Rahmen.
+
+## Minchener Schule (Lierschule)
+
+- x50 cm.Goldrahmen.
+- 254 Sommer. Blumige Wiese. Links groBe Baumgruppe. Rechts hinaus groBe bewegte Sommerluft. Ol auf Malpappe. 38,5
+
+## Munchener Schule 1870-1880
+
+- 59 cm.Goldrahmen.
+- 255 Abend am See. Von der Abendsonne beschienenes Ufer mit Fischerhitten.Gewitterstimmung.Ol auf Leinwand. 46x
+
+## Hjalmor Munsterhjelm
+
+- 256 Nordische Landschaft. Bach mit Steg und Felsblock im Wasser. Blick auf bewaldetes Gelande mit Holzhauser. Sommertag. Bez.:H. Munsterhjelm.Ol auf Leinwand. 38,5x61 cm.Goldrahmen.
+
+geb.1841 in Tunlois (Finnland).
+
+## A.M.
+
+- 257 Lachender Knabe. Rothaariger Bub mit lachendem Gesicht in braunem Kittel und dunkler Weste. Bez.:A.M.84.O1 auf Holz.18x14 cm.Gerahmt.
+
+## Paul Nauen
+
+- 258 Nordische Sage. In Schwinds Art komponiertes Bild. Durch
+
+geb. 1859 in Hamburg, gest. in Minchen.
+
+- Saulen geteiltes Triptychon. Erstes Bild: Im Walde singende Saga. Zweites: Die Konigin mit dem Schatze im Schild. Drittes: Wehklagende Frau.Im Fries der Allvater.Links und rechts von ihm Freundschaft und Frieden. Bez.:Nauen. Aquarellierte Zeichnung. 84x110 cm.Goldrahmen.
+
+## Heinrich Neppel
+
+- 259 Vorfrihlingstag. Auenlandschaft.Vorne Frau Holz sammelnd. Bewolkte Luft. Bez.:H.Neppel. Ol auf Leinwand. 31x 44,5 cm. Dunkler Rahmen.
+
+Munchen.
+
+- 259a Am Bildstockl.Gebirglerin auf dem Wege vor dem BildDunkler Rahmen.
+- Gewitterige Luft. Dorf im Hintergrund. Bez.:H.N. Ol auf
+- 261 Heraufziehendes Gewitter am Ammersee.Vorne am Wasser Kihe. Bez.:H.Neppel.O1 auf Malpappe. 20x35 cm. Dunkler Rahmen.
+- Malpappe. 14,5x28,5 cm. Dunkler Rahmen.
+- 262 An der Tranke. Kihe an der Tranke und auf der Weide. Oberbayerische Landschaft in Gewitterstimmung. Bez.:H. Neppel. Ol auf Malpappe. 15x29 cm. Dunkler Rahmen.
+
+## Louis Neubert
+
+- 263 Uber Sand und Higel. Gewelltes sandiges Terrain und Malpappe.21,5x34,5cm.Gerahmt.
+
+geb.1846 in Leipzig, gest.1892 bei Pirna.
+
+- rahmen.
+
+## R. Nielsen
+
+Norwegen.
+
+- 264 Norwegischer Fjord. Stille Bucht zwischen steilen Felsen. Fischerhauschen am Strand. Kahn und kleiner Dampfer. Bez.:R.Nielsen 1898.O1 aufLeinwand.74x100 cm.Gold-
+- 265 Norwegischer Fjord. Fischer bei der Arbeit in der Bucht. Griner Strand mit Hauschen. Blick in das felsige Fjord. O1 auf Leinwand 74X100 cm. Bez. R.Nielsen 98. Gold-
+
+## L.Nordhoff
+
+Diisseldorf.
+
+- wand.78x99 cm.Dunkler Rahmen.
+- 266 Brandung. Vorne felsige Kiste mit Fischer. Blick auf die Brandung und See. Bez.:L.Nordhoff H.98. Ol auf Lein-
+
+## Zacharias Notermann
+
+Antwerpen.
+
+- 267 Hunde am Brunnen. 37,5x45,5 cm.Goldrahmen.
+- Jagdhund, schlirft aus dem Brunnentrog.Daneben ein weib- und schwarzgefleckter Rattenfanger. Bez.:Zach. Notermann 55.Ol auf Leinwand.
+
+## A.Obermillner
+
+- 268 Sommertag. Auenlandschaft. FluBchen im Grinen mit Staffage.GroBe blaue Sommerluft dariber.Bez.:Ober-
+
+lebt in Wien.
+
+- millner. Ol auf Malpappe. 18x27 cm. Schwarzer Rahmen.
+
+## H. Osterreicher
+
+- reicher 1888.O1 auf Holz.21x14,5 cm.Goldrahmen.
+- 269 Am Fenster. Junges Madchen im wei Ben Kleide Blumen am Fenster begieBend und Ausschau haltend.Bez.:H. Oster-
+
+## Fritz Osswald
+
+Minchen.
+
+- 08.O1 auf Leinwand.70x60,5 cm.Goldrahmen.
+- 270 Tauwetter. Schneebedeckter tauiger Boden.Wirtsgarten. Zwischen den Stammen das Wirtshaus. Bez.:Fritz Osswald
+
+## Joh.Nep.Ott
+
+- 271 Blick auf den Wetterstein und die Zugspitze.Bewaldeter Vordergrund mit Kuhherde, Jager und Hirten als Staffage. Rechts Wasserspiegel. Die Berge im Abendlicht. Bez.: J. N.
+
+geb.1804 in Muinchen, gest. 1870 daselbst.
+
+- Ott 1830.O1 auf Leinwand. 61,5x79 cm. Goldrahmen.
+
+## T.O., Art des Willroider
+
+- Malpappe. 21 x36,5 cm. Dunkler Rahmen.
+- 272 Herbststimmung. Moorlandschaft. Bach mit dunklen Baumsilhouetten.Bewolkte Herbstluft. Bez.:T.O.20.1.O1 auf
+
+## Paul Paede
+
+- 273 Tanz der Nymphen. Auf einer sonnigen WaldbloBe tanzende Nymphen.Vorne im Baumschatten zuschauende Nymphen und Madchen.Bez.:P.Paede.Ol auf Leinwand.44,5x 59,5 cm.Goldrahmen.
+
+lebt in Minchen.
+
+- 274 Im Wirtsgarten. Biertisch unter schattigem Baum.Ein Madel bedient zwei Arbeiter. Blick auf Haus und Garten in der Sonne.Bez.:Paul Paede.O1 auf Leinwand. 48x60,5cm Dunkler Rahmen.
+- 275 Madchen im Grinen. Besonnter liegender Akt. Bez.:Paul Paede 07. O1 auf Malpappe. 50,5x71 cm. Goldrahmen.
+
+## Franz von Pausinger
+
+- 276a) Biwack. Im felsigen Tal biwakierende Karawane. Kohle-
+
+geb.1839 in Salzburg, lebt in Wien.
+
+- zeichnung. 88x136 cm.Holzrahmen.
+- b) Bootsfahrt. Arabische Schiffer Segelboote flott machend.
+- c) Karawane in Hochgebirgslandschaft. Vorn Beduinen,
+- Kohlezeichnung. 88x136 cm. Holzrahmen.
+- hinten Lasttiere. Kohlezeichnung.112x78 cm. Holzrahmen.
+- d) Beduinenhauptling vom Fels Ausschau haltend. Kohlezeichnung. 112x78 cm. Holzrahmen.
+- e) Karawane.Auf eine Oase heranziehende Karawane. Kohlezeichnung mit WeiB gehoht.Bez.:v. Pausinger. 52×102 cm.Holzrahmen.
+- rahmen.
+## Hanns Pelar
+
+Minchen.
+
+- Blume zerzupfend.Fruihlingsstimmung.Bez.:Hanns Pelar 1910. Ol auf Holz. 35x35 cm.Dunkler mit Goldleisten durchzogener Rahmen.
+- 277 Blumenorakel. Faun an einem Strauch auf griner Wiese eine
+
+## P.F.Peters
+
+- 278 Hof in Langenburg. Blick in den SchloBhof mit Turm. Figirliche Staffage. Bez.:P. F.Peters SchloB Langenburg. Aqua-
+
+d.J., geb.1818 in Nymegen.
+
+- rell.31,5x25cm.Unter Glas.Goldrahmen.
+- 278b Kistenlandschaft an der Riviera. Bez.:P.F.Peters. Ol auf Leinwand.115X160 cm.Goldrahmen.
+- 278a SchloB KiBlegg-Wurzach.  SchloB mit Kirche von vorn gesehen.Vorne Weiher mit Schwanen.Rickseitig bez.: Gemalt von P.F. Peters. Aquarell. 27,5x38 cm.Unter Glas. Goldrahmen.
+
+## Jos.Petzl
+
+geb.1803 in Miinchen, gest.1871 daselbst.
+
+- kniend. Bez.:Jo.Petzl. O1 auf Leinwand. 34,5x24 cm. Goldrahmen.
+- 279 Die Braut. Braut vor einem Tisch mit Blumen und Kruzifix
+
+## Bruno Piglhein
+
+- 280 Betendes Madchen. Madchen mit gefalteten Handen. Bez.: Piglhein.Kohlezeichnung.38,5x48,5 cm.Unter Glas. Gerahmt.
+
+geb. 1848 in Hamburg, gest.1894 in Muinchen.
+
+- 281 Im Wartezimmer.Junge Frau in StraBentoilette auf dem Stuhl sitzend.Bez.:Pigihein.Ol auf Leinwand.90x135 cm.
+
+## Pilotyschule
+
+- Goldrahmen.
+
+Wahrscheinlich Max Adamo
+
+- 282 Konigin Elisabeth vor dem Sarge. Die Konigin in Trauerkleidung mit dem Schwert in der Hand. Vor ihr kniender Edelmann und Volk. Im Hintergrund Kathedrale. Ol auf Leinwand.90x105cm.Unter Glas.Goldrahmen.
+
+geb.1837 in Munchen, gest. daselbst.
+
+## E.Platz
+
+Muinchen.
+
+- 283 Bildnis. Junge, brinette Dame, Pelz iber die Schultern, aufwarts blickend. Bez.:E.Platz, Munchen 1891. Ol auf Leinwand.53x44 cm.Dunkler Rahmen.
+
+## Graf F.Pocci
+
+- 284 Die Schul ist aus. Humoristische Darstellung eines Schulhauschens mit heimgehenden Kindern. An Stelle der Tire treten sie durch den Anfangsbuchstaben D des Verses heraus: Die Schul ist aus, jetzt lauft nach Haus. Bez.:F. Pocci 1863. Sehr selten vorkommender Kinstler. Aquarellierte
+
+geb.1807 zu Muinchen, gest 1876 daselbst.
+
+- Zeichnung. 25x34 cm. Unter Glas.Gerahmt.
+
+## L.Preller
+
+- 285 Schifferhafen. Strand mit Boten und Segelschiffen. Untergehende Sonne. Bez.:Preller. Ol auf Leinwand. 21 x32 cm.
+
+geb. 1822 in Oldenburg, lebte in Weimar.
+
+- Dunkler Rahmen.
+
+## H.v.Preen
+
+lebt in Minchen.
+
+- 286 Auf der Rebhihnerjagd. Schitzen im freien sonnigen Feld
+- auf Rebhuhner schieBend. Bez.:H.v.Preen.Ol auf Malpappe. 22x34 cm.Dunkler Rahmen.
+
+## J.W.Preyer
+
+geb. 1803 in Rheydt, gest.1889 in Dusseldorf.
+
+- 287 Stilleben. Sektglas,Trauben, Pfirsiche und Nisse auf heller Tischplatte. Bez.:J. W.Preyer. O1 auf Leinwand. 32,5x 27,5 cm.Goldrahmen.
+
+## Fr.Pro1B
+
+geb. 1855 in Dresden,lebt in Muinchen.
+
+- 288 Lesendes Bauernmadchen. Madchen auf einer Bank in einem alten Buche lesend. Bez.: Fr. ProB 95. Ol auf Leinwand.
+- 75x61 cm.Dunkler Rahmen.
+- Rahmen.
+- 289 Vesper. Bauernknabe,vom Brotlaib ein Stick abschneidend. Im Hintergrund Kichengeschirr. Gegenstuick zum Vorigen. Bez.:F.ProlB 89.O1 auf Leinwand.75x61 cm. Schwarzer
+- Goldrahmen.
+
+## Leo Putz
+
+- 290 Zwei weibliche Akte. Blondine auf dem Kanapee schlafend. Brinette im Stuhl nach einem Apfel greifend.Sonniges Interieur. Bez.:Leo Putz. O1 auf Leinwand. 63x75 cm.
+
+## Franz Quaglio
+
+- 291 Halt des Postwagens. Madchen halt den Postwagen auf der StraBe an und ibergibt ihm einen Brief.·Gebirgler dabei. Bez.: Franz Quaglio.O1 auf Holz.24x32,5cm.Gold-
+
+geb. 1844 in Minchen, lebte daselbst.
+
+- rahmen.
+
+## A.v.Ramberg
+
+- 292 Malven. Malvenblumen am Stengel. Studie. Ol auf Mal-
+
+geb. 1819 in Wien, gest. 1875 in Minchen.
+
+- pappe. 18x12 cm. Unter Glas. Goldrahmen.
+
+## Karl Raupp
+
+- 293 Am Kreuzweg. Sonnige LandstraBe,die sich mit einer andern kreuzt. Vorne Wegweiser. Bez.:K. Raupp. Ol auf Malpappe.
+
+geb.1837 in Darmstadt,gest.1918 in Minchen.
+
+- 23,5x27 cm.Dunkler Rahmen.
+- 294 Sommermorgen. Zwischen Feld und Wald hinziehender Weg. Rechts groBe Baumgruppe in griner Morgenfrische. In der Tiefe blau leuchtende Berge und heitere Sommerluft. Bez.: K.Raupp.Ol auf Malpappe. 26,5x22cm.Goldrahmen.
+- 295 Idyll an der Friedhofsmauer. Frau am Eingang zu einem Dorfkirchhof und mit einem Zicklein spielende Madchen.
+- Bez.:K.Raupp. Aquarellierte Skizze.15x11 cm.Gerahmt.
+
+## Heinrich Richard Reder
+
+Minchen.
+
+- 296 Wallenstadter See. Bewegter See. Bewaldete Ufer. Berge im Hintergrund. Bez.:H.R.Reder. O1 auf Holz.9x20 cm. Goldrahmen.
+- 296a Regenstimmung im Bayer. Wald. Vorne Wasser, im Hinter-
+- grund Waldberge. Bez.: H. R.Reder. Ol auf Malpappe. 16,5x31 cm.Dunkler Rahmen.
+
+## Carl Reinhardt
+
+- geb.1818 in Leipzig, gest. 1877 bei Dresden. 297 Zur Tranke. Kuhherde aus dem Wald heraus zur Tranke ziehend. Im Hintergrund Hirtin mit einem jungen Stick. Bez.: Reinhardt. Oi auf Leinwand. 25x41 cm.
+
+## Wilhelm Reinhart
+
+- geb.1814 in Bayreuth, gest.1881 in Muinchen. 298 Rehe im Walde. Verschneiter Wald mit gefallten Stammen. Im Vordergrund ein Rudel Rehe.Bez.:Wilh.Reinhardt. Olauf Leinwand. 78x105 cm.Goldrahmen.
+
+## A.Resch
+
+lebt in Minchen.
+
+- 299 Am Strand. Strand mit Dune in nebliger Stimmung. Am Strand liegende Segelboote. Bez.:A.Resch 07. O1 auf Lein-
+- wand. 40x50 cm. Holzrahmen.
+
+## Hanno Rhomberg
+
+geb.1820 in Minchen, gest.1869 in Walchsee.
+
+- 300 Der erste Rauchversuch. Bauer im Stadel sitzend,laBt den Jungen aus der Pfeife schmauchen. Blick durch die Ture ins Freie. Bez.: H.Rhomberg. Ol auf Holz. 23x19 cm. Goldrahmen.
+
+## Paul Rieth
+
+Muinchen.
+
+- 301 Bei der Toilette.Blonde starke Dame wird von ihrem Madchen ins Korsett geschnirt. Bez.: Rieth. Mit WeiB gehohte Tuschzeichnung. 45x21 cm. Unter Glas. Dunkler Rahmen.
+
+## Fr. de Ripeaupiere
+
+Minchen.
+
+- 302 Bergspitze.Vorne groBes Schnefeld,dariber aufragend ein Felsmassiv. Dunkeiblauer alpiner Himmel. Bez.:F. de R. Olauf Leinwand. 95x111 cm.WeiBer Rahmen.
+
+Muinchen.
+## R.Ritter
+
+lebt in Munchen.
+
+- 303 Im Liebesgarten. In abendlicher Dammerung ein Liebespaar im Garten. Rosenstraucher,ein paar Haschen auf dem Weg. Blick in die abendlich gestimmte Landschaft. Bez.:R.Ritter
+1912. O1 auf Leinwand. 69x82 cm. Goldrahmen.
+
+## Lina Rohrer
+
+lebt in Minchen.
+
+- 55x76 cm.Goldrahmen.
+- 304 Blumenstilleben.Flieder im Korb vor offenem Fenster in sonniger Beleuchtung. Bez.:L.Rohrer. Ol auf Leinwand.
+- 305 Jagdstilleben.An einem FuB aufgehangter toter Hase. Kopf auf einem Brett mit Fichtenzweigen aufliegend. Bez.:
+- L.Rohrer. O1 auf Leinwand. 110x66 cm. Goldrahmen.
+
+## C.Roehrer
+
+Minchen.
+
+- Bez.:C.Roehrer 02.O1 auf Malpappe. 51x34,5 cm.Versilberter Rahmen.
+- 306 Kupido im Grinen. Alte Parkplastik. Frihlingsstimmung.
+
+## C.Rohrer
+
+- 307 Phryne.Weiblicher Torso. Stehende Figur ohne Arme.
+
+lebt in Munchen.
+
+- Terrakotta.Hohe 51 cm.
+
+## Philipp Roth
+
+- 308 An der Wurm. Das FluBchen vorne. Am Ufer Bauerngehoft unter Baumen.GroBe bewolkte herbstliche Luft dariber. Im Hintergrund das ferne Minchen. Bez.:Ph. Roth M. 95.
+
+geb.1851 in Darmstadt, gest.1921 in Minchen.
+
+- 01 auf Leinwand. 64x93 cm.Dunkler Rahmen. TafelV.
+
+## C.Rottmann?
+
+- 309 Blauer See. Sommerblaue Gebirgsluft, leicht bewolkt.Berge im blauen Duft und blauer See mit grinen Ufern. Bez.: C.R.1840.O1 auf Leinwand.32x45cm.UnterGlas. Goldrahmen.
+
+geb.1798 in Handschuhsheim, gest.1850 in Muinchen.
+
+## J.Sarotta
+
+- 310 Italienisches Madchen in weiBem Kleid, blauer Schleife im Haar und roter Halskette,nach der rechten Seite schauend. Brustbild. Bez.;J. Sarotta. O1 auf Leinwand.46,5x36 cm.
+
+lebt in Italien.
+
+- Unter Glas.Goldrahmen.
+
+## C.Scherbring
+
+- 311 Nach dem Regen. Gehoft mit Pappelbaumen unter wolkiger Regenluft in grinen Wiesen. Bez.:C. Scherbring. Ol auf Malpappe.26x30,5 cm.Goldrahmen.
+
+lebt in Munchen.
+
+## Julius Scheuerer
+
+- 312 Turteltauben. Zwei groBe Tauben im Vordergrund im
+
+lebte in Planegg b. Muinchen.
+
+- Bez.: Jul. Scheuerer. Ol auf Holz.
+- 312a Pfau. Pfau von der Seite gesehen,im Grase stehend. Bez.:
+- herbstlichen Laube. Oval.58,5×48,5cm.
+- Jul. Scheuerer. Guasch auf Papier. 22,5x25,5 cm.
+
+## Otto Scheuerer
+
+- 313 Kampfende Birkhahne und Hennen auf einer Bergwiese. Bez.: Otto Scheuerer Mch. O1 auf Malpappe. 30x36 cm. Dunkler Rahmen.
+
+Munchen.
+
+- 313a Auerhahn. Aufgebaumter balzender Auerhahn.Bez.:Otto Scheuerer Mch.O1 auf Malpappe. 30x36cm.Dunkler Rahmen.
+
+## R.Schietzold
+
+- 314 Starnberg. Im Vordergrund das alte SchloB. Links Kirche. Blick auf den See und die Berge. Im Vordergrund Heuernte. Gewitterstimmung. Bez.:R. Schietzold. Oi auf Malpappe. 17x25 cm. Dunkler Rahmen.
+
+lebte in Murnau.
+
+Tafel VI.
+
+## W.Schirmer?
+
+- 315 Abendstimmung am FluB. FluBtal mit einer Furt im Vordergrund. Reichstaffierte, romantisch stimmungsvolle Landschaft. Ol auf Malpappe. 24x37 cm.Unter Glas. Dunkler Rahmen.
+
+## Schirmers Art nahestehend
+
+- 316 Pittoreske Landschaft. Felsen und alte Stamme. Ausblick auf ein vielfach gewundenes FluBtal. Sommerluft dariber. Ol auf Leinwand. 46,5x33 cm.Goldrahmen.
+- 317 Pittoreske FluBlandschaft. Ruysdaelbaume,im Vordergrund Felsen und Staffage. Ausblick in duftige Fernen auf ein
+- Higelland. O1 auf Leinwand. 46,5x33cm.Goldrahmen.
+
+## August Schleich
+
+- 318 Wildente im Rohricht. Rauchmalerei. Porzellan,rund,19 cm. Bez.:Schleich.Dunkler Rahmen.
+
+geb.1814 in Munchen, gest.1865 daselbst.
+
+- 318a Rebhuhn im Riedgras. Rauchmalerei.Porzellan. 19,5 cm.Bez.:Schleich.Dunkler Rahmen. Rund,
+- 319 Sechs Jagdsticke. Runde, auf Porzellan gemalte Tiere: bild. Porzellan,rund,7cm. Schwarze Rahmchen. Hirsch, Gemse,Hase,Fuchs,Rebhuhn und Wildente.Rauch-
+
+## Eduard Schleich sen.
+
+- 320 Gewitter am Abend. Bauernhauser unter Baumen. Gewitterwolken, dariber Abendstimmung. Bez.:E.S. Ol auf Malpappe.16x20 cm.Dunkler Rahmen. Tafel III.
+
+geb.1812 in Harbach b. Landshut, gest.1874 in Munchen.
+
+- 321 Abendlandschaft mit blauer Ferne. Auf dem Weg Kuhherde. Vom Dorfe her links bricht eine feuerige Helle durch Baum und Busch. Bez.: Unten rechts eingeritzt Ed. Schleich. O1 auf Holz.15x27 cm.Gerahmt. Tafel III.
+- 322 Einsamer Huigel. Higel im Moor. O1 auf Holz. 17,5 x29,5 cm.
+
+## Schleichschule
+
+- Dunkler Rahmen.
+- 322a Blick ins Tal. Am alten bayer. Wegweiser auf der Anhohe. O1auf Leinwand. 27x36 cm.Gerahmt.
+
+## Heinrich Schlitt
+
+lebt in Munchen.
+
+- 323 Ein guter Bissen? Wichtelmannchen in roter Kappe und rotem Rock mit Pfeife und in Pantoffeln halt dem Laubfrosch im Glase eine gefangene Wespe vor. Bez.:Heinrich Schlitt. O1 auf Holz. 24x18 cm.Unter Glas.Dunkler Rahmen.
+
+## Mathias Schmid
+
+geb.1835 in See (Tirol),lebt in Minchen.
+
+- 324 Der Kunsthandler auf dem Lande. Junge mit iber dem Rucken gebundenen Regenschirm zeigt eine Mappe mit bunten Bildern. Bez.:Mathias Schmid 1867. Ol auf Malpappe. 22,5x15 cm.Dunkler Rahmen.
+
+## Hermann Schneider?
+
+- 325 Damenbildnis. Junge Dame in Gesellschaftstoilette, Schal am Arm und Facher in der Hand im Freien. Bez.:H. S. O1
+
+lebte in Minchen.
+
+- auf Leinwand. 49x28 cm.Goldrahmen.
+
+## Schonleberschule
+
+- See. Lichte italienische Luft dariber. Ol auf Leinwand. 32,5x51,5 cm.Holzrahmen.
+- 326 Capri. Felsige Kiste mit Blick auf die leicht bewegte blaue
+
+## J.Schoyrer
+
+- 327 Bei Bernried am Starnberger See. GroBe,herbstlich gefarbte Baumgruppe am Strand. Blick iber den See ans andere Ufer. Heiterer Tag. Bez.: J. Schoyrer. OI auf Malpappe. 19x33cm. Dunkler Rahmen.
+
+lebt in Minchen.
+
+## Schulze
+
+- 328 Bildnis des Hauptmann Hammer aus Baden-Baden. Alter,
+
+lebt in Schweden.
+
+- jovial aussehender Herr. En face. Brustbild. Ol auf Malpappe. 27 x22,5 cm. Unter Glas. Dunkler Rahmen.
+- Dunkler Rahmen.
+
+## F.Schutteruz
+
+Muinchen.
+
+- 329 Stilleben.MaBkrug, Kupferschissel, Kohl und Zwiebel. Bez.:F. Schutteruz Muinchen. Ol auf Holz. 19x24 cm. Schwarzer Rahmen.
+
+## M.Schwab
+
+Munchen.
+
+- 330 Abendlandschaft. Higel und Weg am Wasser. Baume im Hintergrund. Bez.:M. Schw.Ol auf Malpappe. 15 x20 cm.
+- 331 Am See. Stille Bucht. Baumgruppe mit Blick auf den im Licht erglanzenden See. Bez.: M. Sch. Ol auf Malpappe.
+- 19x18 cm.Dunkler Rahmen.
+
+## G.Schwarzmeier
+
+- 332 Stilles Tal. Zwischen bewaldeten Hugeln liegendes Dorf in
+- der Dammerung. Bez.: G. Schwarzmeier. Ol auf Malpappe. 42x53cm.Versilberter Rahmen.
+
+## Else Sebald
+
+Minchen.
+
+- 333 Madchenkopf. Dunkelhaariges Madchen mit nacktem Hals von der Seite gesehen. Bez.:E. Sebald 1914. Pastell und Guasch.61x51 cm. Unter Glas.Versilberter Rahmen.
+
+## A.Seel
+
+lebte in Disseldorf.
+
+- 334 Eine schwierige Aufgabe.Schulmadchen sitzt mit ihrer Schiefertafel am Herd vor dem Fenster und sinnt uber ihre Aufgabe nach. Bez.:A. Seel.Ol auf Leinwand. 37x28,5 cm. Goldrahmen.
+
+## Art des Seidel
+
+- 335 Tiroler Burg. (Freundsberg?) Von bewaldetem Tal aus gesehene Burg im Sonnenlicht auf dem Berg. Im Hintergrund Bergkette. Auf dem Weg Staffage. Abendstimmung. Ol auf
+- Malpappe. 23,5x29 cm. Dunkel gerahmt.
+
+## Carl Seiler
+
+geb.1846 in Wiesbaden, gest. 1921 in Minchen.
+
+- 336 Zum Ausgang fertig. Rokokoherr im violetten Kostim, den dunklen Dreispitz unterm Arm mit der linken Hand sich auf den Spazierstock stitzend. Bez.:C. Seiler 1902.O1 auf Holz. 15x10,5 cm.Unter Glas. Goldrahmen.
+- 337 Blauer Husar. Husar auf dem Reitweg mit herbstlichen Baumen. Von vorn gesehen. Bez.: NachlaB C. Seiler.OI auf Holz. 23x15 cm. Unter Glas. Dunkler Rahmen.
+- 338 Kopf eines Handwerkgesellen. Dreiviertelprofil nach links. Bez.:NachlaBstempel. Ol auf Holz. 7,2x5,5 cm.Dunkler Rahmen.
+
+## Otto Seitz
+
+geb.1846 in Muinchen, gest. daselbst.
+
+- 339 Blumen auf Goldgrund. Auf Goldgrund gemalte Rosen, Mar-
+
+## Robert Seitz
+
+- gariten u.a. Bez.:Otto Seitz.Ol auf Leinwand. 60 x32,5 cm. Holzrahmen.
+
+Munchen.
+
+- 340 Weiblicher Rickenakt. Sitzende Blondine von rickwarts
+
+## Sellmayer
+
+- gesehen. Bez.:R.Seitz. 01 auf Leinwand.96x96 cm. Gerahmt.
+
+geb.1834 in Munchen, lebte daselbst.
+
+- 341 Rehe. Am Kornfeld lagernde Rehe. Ein Stick augt nach
+- der im Feld aufgestellten Vogelscheuche. Bez.: Sellmayer. O1 auf Leinwand. 19x30,5 cm.Goldrahmen.
+
+## L.Serdaque
+
+- 342 Kihe auf der Weide. Im Vordergrunde die ruhenden Tiere.
+- Im Hintergrund bergige Landschaft mit bewolkter Luft. Bez.:L. Serdaque. Oi auf Holz. 28x34,5 cm. Goldrahmen.
+
+## Seyfarth
+
+Minchen.
+
+- 343 Balzender Auerhahn in abendlicher FluBlandschaft. Bez.: Seyfarth Munchen. O1 auf Leinwand. 27,5x40,5 cm.Unter
+- Glas.Dunkler Rahmen.
+
+## J.Seyler
+
+Munchen.
+
+- 344 Mythologische Szene. Weibliche Aktfigur und mannliche mit dem Speer unter Baumen. Bez.:J. Seyler. Ol auf Leinwand.46x56cm.Goldrahmen.
+
+## Franz Simm
+
+geb.1853 in Wien, gest.1918 in Munchen.
+
+- 345 Der Vorleser. Rokokoherr im Stuhle, aus einem Blatt vorlesend. Bez.:F.Simm. Bleistiftzeichnung.37x28cm. Unter Glas.Gerahmt.
+
+## F.C. Simmler
+
+- geb.1801 zu Hanau, gest.1872 in Aschaffenburg. 346Schweizer Landschaft. Blickin ein Gebirgstal mit einer Burg ruine. Vorne auf griner Matte weidende Kihe. Am Weg 01 auf Leinwand. 52x62 cm.Dunkler Rahmen. Hirten am Feuer. Sommerstimmung. Bez.:F. Simmler fec.
+
+## Francois Simoneau
+
+- geb.1783 in Bornham, gest.1859 in London. 347 Bildnis der Tanzerin Lucile Grahn in schwarzer Kleidung,in der Linken ein weiBes Spitzentuch. Vor ihr ein aufwartendes 87x118cm.Goldrahmen. Hundchen. Im Hintergrund Landschaft. Ol auf Leinwand.
+
+## L.Skell
+
+Tafel IV.
+
+geb.1842 in Oberginzburg, gest.in Munchen.
+
+- 348 Muhle bei Worgl (Tirol). Vorne Sturzbach und Muhle. Bewaldete Hange zur Seite. Im Hintergrund Berge. Sommertag. Bez.:L.Skell. Ol auf Leinwand. 52x42 cm.Goldrahmen. 349 Gewitterige Landschaft. Im Hintergrund See. Vorne Baum-
+- gruppen und Schafherde. O1 auf Hoiz. 16 x25 cm. Gerahmt.
+
+## A.Splitgerber
+
+geb.1844 in Steingaden, gest. 1918 in Munchen.
+
+- 350 Herbstabend. Herbstlicher Baum in abendlicher Landschaft. Vorne am Wasser eine Kuh. Bez.: A. Splitgerber. Ol auf
+- Holz.10,5x21 cm.Dunkler Rahmen.
+- 351 Dorf im Winter. Hauser im Schnee am Wasser. Dicke Ol auf Holz.
+- neblige Winterluft.Bez.:A.Splitgerber. 9,5x18,5 cm. Dunkler Rahmen.
+- 352 Herbst. Herbstliche Baume gegen blaue Luft. Weg durchs Grine. Heiterer Tag.Bez.:Splitgerber. Aquarell. 14,5x
+- 9,5 cm. Unter Glas. Dunkler Rahmen.
+- 353Abend.Dammeriger Herbstwald. Schafherde auf dem Weg.
+- Wasser im Vordergrund. Bewolkte Luft. Bez.:A. Splitgerber. O1 auf Holz. 12x22 cm. Dunkler Rahmen.
+- 354 Blick auf die Kampenwand. Im Vordergrund Tal,weiter
+- zurick die Kampenwand. Studie. Bez.:A. Splitgerber. O1 auf Leinwand. i5x24 cm. Dunkler Rahmen.
+
+## Philipp Otto Schafer
+
+geb.in Darmstadt, lebt in Tirol.
+
+- chantin,mit dem Thyrsus auf schmalem Bergsteig am Abgrund hingehend, nach dem aus der Tiefe aufsteigenden Tod klassischem Einschlag.Pastell. 80x40 cm. schlagend.Heitere Berglandschaft im Hintergrund.Von Unter Glas. Goldrahmen.
+
+## A.Stademann
+
+geb.1824 in Minchen, gest.1895 daselbst.
+
+- 356 Heimkehr von der Jagd. Auf verschneitem Holzweg zwischen
+- Wald und Feld heimkehrende Treiber, Hunde und Schlitten. Bez.:A. Stademann.O1 auf Holz. 28x40 cm.Goldrahmen.
+- 357 Wintervergnigen. Gefrorener Weiher mit Schlittschuhlaufern
+- und Schlittenfahrern.Im Hintergrund Windmihle. Bez.: A.Stademann. O1 auf Holz.17x27 cm.Gerahmt.
+- 358 Hollandische Winterlandschaft. Zugefrorener Kanal mit eingefrorenem Schiff. Windmihlen zur Seite, belebt von zahlreichen Figuren. Bewolkte graue Winterluft dariber. Bez.: A.Stademann.Ol auf Leinwand. 32,5x48 cm.Goldrahmen.
+- 359 Winterlandschaft. Hollandisches Dorf mit Windmihlen in Abendstimmung. Eis im Vordergrund mit figirlicher Staffage. Bez.:A. Stademann. O1 auf Leinwand. 32,5x49 cm.Goldrahmen.
+## Toni von Stadler
+
+- 360 Im Moor. Vorne FluB mit Schilf und Weiden. GroBe bewolkte Luft dariber. Herbststimmung. Bez.:T. Stadler. O1 auf Holz. 42,5x52,5 cm.Goldrahmen. Tafel V.
+
+geb.1850 in Gollersdorf, gest.1917 in Minchen.
+
+## E. Stechele-Maurer
+
+lebt in Muinchen.
+
+- 361 Stilleben. Buntbemalte irdene Topfe und alter Steingutkrug Maurer. Ol auf Leinwand. 44x53cm.Dunkler Rahmen. auf blauer Tischdecke gegen hellen Grund. Bez.:E.StecheleMinchen 1922.
+
+## Stieglmeier
+
+- 362 Abend am See.Fischerhitten am See. Fischer im Kahn. O1 auf Leinwand.
+
+lebte in Muinchen.
+
+- 39x54 cm.Goldrahmen. Blick auf den See.Bez.:Stieglmeier.
+
+## Carl Strathmann
+
+- 363 Blaue Stunde. Blick auf das blaue Meer in blau dammernder
+
+Minchen.
+
+- Abendluft. Am Strand Baumgruppe. Vorne blumige Wiese. Bez.:C. Strathmann.Ol auf Malpappe. 24x33,5 cm.Unter Glas.Goldrahmen.
+- 364 Die Burg im Meer. Auf einer felsigen Insel Burg. Auf der
+- See Segelschiffe.Leuchtende blaue Lifte und Wasser. Bez.: C. Strathmann.O1 auf Malpappe. 28x47,5 cm.Unter Glas. Goldrahmen.
+
+## S.O. Strechine Art
+
+- 365 Am Dorfweiher. GroBe schattende Baume am Weiher. Auf der sonnigen Wiese Ganse.Weiter zurick Bauernhauser. O1 auf Malpappe. 30x50 cm. Dunkler Rahmen.
+
+## Franz von Stuck
+
+- 366Waldstimmung. Blick von einer Waldwiese in den schattigen grinen Wald. Sommerstimmung. Bez.: Stuck. Ol auf Malpappe. 52x40,5 cm.Unter Glas. Dunkler Rahmen.
+
+lebt in Minchen.
+
+- 367 Aktstudie zur Sphinx.Liegender weiblicher Akt beide Arme
+- aufgestitzt. Bez.:Franz Stuck.Rotelzeichnung. 27x47 cm. Unter Glas. Gerahmt.
+
+## A.v. Swieszewski
+
+- 368 Am See. Gebirgssee in Abendstimmung mit heimkehrenden Fischern. Bez.:A.v.Swieszewski. Ol auf Holz. 15,5x32 cm.
+
+geb.1839 in Warschau, gest.1895 in Muinchen.
+
+- Goldrahmen.
+- 369 Bergsee. Auf dem See Kahnfahrer. Berge im Hintergrund
+- im Alpenglihen. Bez.:A.Swieszewski.O1 auf Holz. 15,5x 32cm. Goldrahmen.
+
+## Unbekannt
+
+- 371 Norwegisches Fjord. Felsen und Schneeberge. Dunkle Flut. Am Strand Madchen.Ol auf Leinwand. 56x80 cm.Gold rahmen.
+- 370 Winterlandschaft. Beschneite Waldlichtung. Vorne gefallter Baum und alte Eiche. Staffage: Jager und Hunde. Abend stimmung.Ol auf Leinwand.63x75 cm.Goldrahmen.
+- 372 Wintertag.. Bauernburschen im verschneiten Wald mit Pferden. O1 auf Leinwand. 45x56 cm.Dunkler Rahmen.
+- 373 Alter Turke. Kopf eines Alten im weiBen Bart mit Turban. 01 auf Papier. Rund auf braunem Grund. 17,5x14,5 cm. Alter Goldrahmen.
+
+## Art des Teichlein
+
+- Rahmen.
+- 374 Waldinneres. Herbstlicher Wald. Mitten durch Weg nach einer Lichtung mit Staffage. Malerisch poetische Waidstimmung. Ol auf Leinwand. 22 x27 cm. Unter Glas. Dunkler
+
+## Emil Terschak
+
+Munchen.
+
+- 375 Schiffbrichiger. Auf nachtlicher See ein vom Mond beschienenes Wrak mit einem halbentkleideten Schiffbrichigen. Bez.:Emil Terschak, Minchen 1881. Ol auf Leinwand. 63x87 cm.Goldrahmen.
+
+## Arthur Thiele
+
+- 376 Gemsen.Auf freier Hohe Gemsen verhoffend. Bez.:A. Thiele.
+
+lebte in Munchen.
+
+- Ol auf Malpappe. 24x31,5 cm. Dunkler Rahmen.
+
+## L.Thiersch
+
+geb.1825 in Minchen, lebte daselbst.
+
+- 377 Mannliche Aktstudie. Sitzender Mann auf einen Stock gestitzt. Bez.:L.Th. Ol auf Leinwand in Passepartout. 60x24,5 cm.Unter Glas.Dunkler Rahmen.
+
+## Hans Thoma
+
+## Karlsruhe.
+
+- 378 Die heiligen drei Konige. Maria mit dem Kinde,vor ihr die hl. drei Konige, vom Stern von Bethlehem beschienen. In interessante Arbeit. Transparentbild auf Seide unter Glas. der blauen Nacht weiter zurick Diener,Kamele usw. Seltene, 68x85cm.Gerahmt.
+- 379 Schwarzwaldlandschaft. Im Vordergrund unter schattenden
+- Baumen ruhender Mann mit Hund.Von hier aus Blick auf sonniges Feld mit Baumen und Dorf. Bez.:H. Th.95. Steindruck. 44x57 cm.Unter Glas.Gerahmt.
+
+## Thumann
+
+- Rock und weiBer Schirze, ein StrauBchen in der Linken mit freundlichem Lacheln gegen den Beschauer blickend, sitzt am Hause. Blick aufs Dorf und Berge. Bez.:Monogramm T.H. O1 auf Leinwand. 69,5x46 cm. Goldrahmen.
+- 380 Dirndl im Feiertagsgewand,Hut, Brusttuch, Mieder,roten
+
+## Paul von Tiesenhausen
+
+- 381 Brandung. Stirmische See an felsiger Kiste. Die Klippen hoch iber das Wasser ragend, mit Mowen bevolkert. Uber der dunklen See gewitterige Luft. Bez.:Paul v.Thiesenhausen, Muinchen 1876.O1 auf Leinwand.62x105 cm.
+
+## F.Tolnay
+
+- 382 Musik. Sidliche Schone mit der Mandoline in der Hand am
+
+Minchen.
+
+- Fenster. Bez.:F.Tolnay. O1 auf Leinwand. 81,5x50 cm. Polierter Holzrahmen.
+- 383 Auf dem Balkone. Junge, festlich geschmickte Frau mit japanischem Sonnenschirm lehnt am Balkongitter.Bez.: F.Tolnay.O1 auf Leinwand.81,5x50 cm. Polierter Holzrahmen.
+
+## W. Velten
+
+Minchen.
+
+- 385 Picknick. Edelleute mit Wagen und Pferd, andere mit Frauen auf dem Rasen beim Fruhstick. Frihlingsstimmung im Walde.Bez.:W.Velten.O1 auf Holz.19x30 cm.Unter Glas.Goldrahmen.
+- 386 An der Barriere. Drei Pferdekopfe,zwei Braune und ein Fuchs schauen iber die Barriere. Bez.:W.Velten. Ol auf Malpappe in Passepartout. 17 x20 cm. Goldrahmen.
+
+## F.van der Venne
+
+- 387 Winteridyll. Alter Postschlitten mit zwei Pferden bespannt im beschneiten Wald. Bez.:F.v.d.Venne. Ol auf Lein-
+
+Munchen.
+
+- wand.21x30,5 cm.Dunkler Rahmen.
+
+## J.A.van der Ven
+
+- in Passepartout. 53,5x35,5 cm.Gerahmt.
+- 388 Bildnis eines Bildhauers auf dem Stuhle sitzend,das Modellierholz in der Hand. Bez.: J.A. van der Ven. Bleistiftzeichnung
+
+## Ch.Vetter
+
+- 389 Interieur. Blick in ein vornehmes, mit alten Mobeln ausgestattetesZimmer. Vorne Fruihstickstisch mit Rosen. Bez.:Ch.Vetter 1920.O1 auf Leinwand. 56x53 cm.Goldrahmen.
+
+lebt in Muinchen.
+
+geb.1837 in Estland, gest.1876 in Minchen.
+
+- Goldrahmen.
+## C.Vogel
+
+- 390 Die Malerin. Kopistin im Rubenssaal der Munchener Pinakothek vor ihrer Malstaffelei bei der Arbeit. Bez.:C.Vogel Minchen. Ol auf Malpappe. 60 x46,5 cm. Dunkler Rahmen
+
+lebt in Munchen.
+
+## E.F.H. Volkers？
+
+geb. 1831 in Birkenfeld,lebte in Dusseldorf.
+
+- Pferch.O1 auf Leinwand.33x43,5 cm.Goldrahmen.
+- 391 Fuchsstute in der Landschaft. Im Hintergrund Hitte und
+- 391a Fuchshengst im Stall. Das Pferd von der Seite gesehen.
+- O1 auf Leinwand. 34x44 cm.Goldrahmen.
+
+## F.Voltz?
+
+- 392 Kihe auf der Weide. Kihe im welligen Gelande ruhend
+- 18,5x37,5 cm.Dunkler Rahmen.
+
+## Fried.Voltz
+
+- 393 Baume. Studie zu Laubbaumen. Rickseitig:Aus dem Be-
+
+geb.1817 in Nordlingen, gest.1886 in Munchen.
+
+- sitz von Dr.WeiB, der es aus dem NachlaB von Friedrich Voltz bekam.Ol auf Malpappe. 19,5x29 cm.Dunkler Rahmen.
+- 394 Gute Freundschaft. Bauerin, der Kuh im Stall den Kopf graulend. Vorne liegendes Mutterschaf mit Jungen. Bez.: Aus dem NachlaB des F.Voltz. Bleistiftzeichnung. 35x47 cm. Gerahmt.
+- 395 Fischer. Mit Korb und Netz iber der Schulter einhergehend.
+- 396 Wald.Lichtung im Laubwald mit den Baumkronen gegen
+- Bez.:F.V. 40.Aquarell.31x20 cm.Dunkler Rahmen.
+- die blaue Sommerluft.Ol auf Malpappe. 22x29 cm. Dunkler Rahmen.
+
+## Ludwig Voltz
+
+- 397 Jagdstick. In einer Auenlandschaft am Wiesenboden erlegtes Wild:Wildente,Hase und Fische,dabei sitzender brauner Hihnerhund. Bez.:L.Voltz,Minchen 1870. Ol auf Leinwand.68x88 cm.Goldrahmen.
+- 398 Jagdstick. Erlegter Hirsch mit SchweiBhund unter einer Buche. O1 auf Malpappe. 23x17,5 cm.Gerahmt.
+- 19X215cm.Goldrahmen. In der Art des Habenschaden. rauchenderHirte. Berglandschaft. O1 auf Malpappe.
+- 398a Auf der Alm. Kuh, Ziegen und ruhender, seine Pfeife
+
+## Art des Voltz
+
+- Malpappe. 19x28 cm.Goldrahmen.
+- 399 An der Schwemme. Reiter mit zwei Pferden am Wasser spricht mit ein paar Madchen.Sommerlandschaft.Ol auf
+
+## S.V.
+
+- O1 auf Leinwand. 32,5 x26,5 cm.Goldrahmen.
+- 400 Herrenbildnis. Mann Dreiviertelprofil in dunklem Bart und dunklem Rock in rotem Lehnstuhl sitzend. Bez.: S.V. 1854.
+
+## Adalbert Waagen
+
+- 401 Gebirgstal. FluB mit alter Steinbricke. Haus am Ufer. Im Hintergrund Berge. Abendstimmung. Bez.:A.Waagen. Rahmen.
+
+geb.1833 in Minchen, gest.1898 in Berchtesgaden.
+
+- 402 Sonniger Bergwald. Sonnige WaldbloBe mit Jager. Hintergrund die Mihisturzhorner.Bez.:A. Waagen. Im 10 auf Leinwand. 53,5x41 cm. Unter Glas. Dunkler Rahmen.
+
+## Watly? Englische Schule
+
+- davor mit Fuhrmann und Frau. Am Wege unter einem auf Leinwand. 51x39 cm.Goldrahmen.
+- 403 Rast. Bauernhaus unter Baumen. Karren mit Schimmel
+
+## Josef Watter
+
+- 404 Die Neugierige. Zofe,die im Atelier stobert, liest in einem
+
+geb.1837 in Regensburg, lebte in Minchen.
+
+- alten Buch. Bez.: J.Watter. O1 auf Leinwand.53,3x38,5cm. Goldrahmen.
+
+## James Webb
+
+- 405 Bewegte See. Segelschiffe im hohen Seegang.  Stirmische
+
+England, war auch in Dusseldorf.
+
+- Luft. Bez.: James Webb 82.O1 auf Leinwand. 30,5x56 cm. Goldrahmen.
+
+## A.Weber
+
+- 406 Bergsee. Von bewaldeten Hohen umgebener kleiner See. Vorne am Weg Staffage. Herbstlandschaft. Bez.: A.Weber.
+
+geb.1817 in Frankfurt a. M., gest.1873 in Duisseldorf.
+
+- O1 auf Leinwand.39x47 cm.Goldrahmen.
+- 407 Deutscher Wald.Herbstlicher Wald mit Eichen auf einer WaldbloBe. Weg am Weiher entlang. Heimkehrender Jager und Schnitterin.Abendstimmung. Bez.:A.Weber. Oi auf Leinwand.68x94 cm.Goldrahmen.
+
+## Paul Weber
+
+- 408 Schubkarrenfahrt. Bauerin fahrt ein Madchen auf dem mit Grinfutter beladenen Schubkarren.Im Hintergrund Gespann und Haus. Abendluft. Bez.:Paul Weber. Ol auf Leinwand.
+
+geb.1823 zu Darmstadt, gest.1916 in Minchen.
+
+- 42,5x32,5 cm.Goldrahmen.
+
+Muinchen.
+
+## W.H.Wendiberger
+
+- 409 Tschechisches Landhaus. Haus in der Sonne unter schattigen
+- Baumen.Vorne Wasser und Bauerin. Bez.:W.H.Wendlberger. Ol auf Leinwand. 39x51 cm. Dunkler Rahmen.
+
+## Julius Wendorf
+
+- 409a Bergsee mit Fischern und Haus. Hintergrund Gebirge. Bez.:Julius Wendorf. Schwarzer Rahmen. 01auf Leinwand.21x29 cm.
+
+geb. 1847 in Naugord (Pommern), lebt in Berlin.
+
+## S.L.Wenban
+
+- 410 Vorgebirgslandschaft. StraBe,Baume und Bauernhaus. Blick in ein offenes Gebirgstal. Bez.:S.L.Wenban.Farbstiftzeichnung. 28x44 cm. Unter Glas. Dunkler Rahmen.
+
+geb. 1848 in Cinnati, gest.1897 in Minchen.
+
+- 411 Haus am Wasser. Weiden und altes Haus am Ufer. Vorne groBer Wasserspiegel. Bez.:S.L.Wenban. Aquarell. 27x 41 cm. Unter Glas. Dunkler Rahmen.
+- 412 Winterabend. Beschneite Auenlandschaft.Am offenen Bach
+- ein paar Rehe. Winterabendstimmung. Bez.:S. L.Wenban
+
+## Anton von Werner
+
+- 413 In der Loge. Dame mit dunklen Haaren und rotem Haarband und bloBen Schultern sieht iber die Bristung der Loge.Bez.:MonogrammA.W.O1 auf Leinwand. 61 x49,5cm.
+
+geb. 1843 in Frankfurt a. d.O., lebte in Berlin.
+
+- Goldrahmen.
+
+geb.1831 auf Karlstein,gest.1892 in Minchen.
+
+## Willibald Wex
+
+- 414 Der Bannwaldsee bei Hohenschwangau. Getreidefeld mit Schnitter im Vordergrund. Blick auf den See und Berge. Morgenstimmung. Bez.:Will. Wex. Ol auf Holz. 23x54 cm.
+- Goldrahmen.
+
+## Ludwig Willroider
+
+- 415 Sommerabend. Weiher mit alten Hauschen und Weiden, Enten auf dem Rasen. Bez.:Lud. Willroider. Mit Weiβ gehohte Zeichnung auf Tonpapier in Passepartout. 23,5x
+
+geb. 1845 in Villach, gest.1910 in Muinchen.
+
+- 31 cm.Unter Glas.Gerahmt.
+- 415a Bei Ginzburg. Guinz mit Weiden bestandenem Ufer im Vordergrund.Bez.:Guinzburg, Lud.Willroider. Bleistiftzeichnung.33,5x60,5 cm.Unter Glas.Gerahmt.
+- 416 An der Gunz. FuBweg durch Wiese an Weiden entlang nach dem FluBe. Dorf im Hintergrund. Bez.:Lud.Willroider a.d. Gunz. Kohlezeichnung mit WeiB gehoht. 39x56 cm. Unter Glas.Gerahmt.
+## Oskar Wolfle
+
+Muinchen.
+
+- 417 Winterabend.Verschneite Landschaft im Auenwald. Timpel. Weg mit Staffage.Im Hintergrund Hauschen mit Licht. Schwer bewolkter, stimmungsvoller Winterabend. Bez.:Osk. Wolfle. Gegenstick zum Vorigen. Ol auf Malpappe. 39x
+- 59,5 cm.Goldrahmen.
+- 418 Sommertag. Auenlandschaft mit Karrenweg und Fuhrwerk. Vorne Wasser. Regnerische Stimmung. Bez.:Osk.Wolfle.
+- Ol auf Malpappe. 59,5x39 cm. Unter Glas. Goldrahmen.
+
+## Th. Wolff-Ferrari
+
+Minchen.
+
+- 419 Einsamer Berg und See. Berg im Abendrot mit schwarzem, kleinem See davor. Bez.:Wolff-Ferrari 06. Ol auf Leinwand.
+- 49x65,5 cm.Dunkler Rahmen.
+
+## C.Wuttke
+
+Muinchen.
+
+- 420 Abendstimmung in Tsingtau (Kiautschau). Hafen von Tsingtau. Vorne felsige Kiste. Blick auf den Hafen und die Berge. Bez.:C.Wuttke-Tsingtau 1898. O1 auf Leinwand. 38,5x 90 cm.Goldrahmen.
+
+## Alfred Zimmermann
+
+geb.1854 in Munchen,lebte daselbst.
+
+- 421 Der Gratulant. Serioser alter Herr in rotem Frack und Diplomatenbinde,einen RosenstrauB in der Hand gratuliert einer vergnigt lachelnden, am Fliederbusch sitzenden,in gelbe Seide gekleideten Biedermeierdame.Bez.:A.Z.Oi auf Holz. 32x24 cm.Unter Glas.Goldrahmen. Tafel VI.
+- 422 Der vergnigte Gratulant. Alter lachender Mann halt einen bunten StrauB. Huftbild.Bez.:A.Zimmermann.Ol auf Holz.27,5x20,5cm.Unter Glas.Goldrahmen.
+
+## R.S.Zimmermann
+
+- geb. 1815 in Hagenau am Bodensee, gest. 1893 in Munchen. 423 Der Vater Zimmermann.Der Alte in der Pelzmitze,Brille und im braunen Samtrock im Profil. Brustbild. Bez.:R.S.Z. Auf der Rickseite der Vermerk:R.S.Zimmermann 1865 (Portrat seines Vaters） von Obigem zum Geschenk erhalten 1865 A.SchultheiB.O1 auf Pappe. 23,5x17,5cm.Unter Glas.Dunkler Rahmen. Tafel VI.
+
+## Aug.Rich.Zimmermann
+
+geb.1820 in Zittau, gest.1870 in Minchen.
+
+- O1auf Leinwand.38x48,5 cm.Goldrahmen.
+- 424 Abend in den Bergen. Vorne Fels, alter Baum mit Falke.
+
+## K.Zoll
+
+geb.1818 in Schweden, gest.1860.
+
+- 425 Zwei Freunde. Blondes Madchen kniet vor einem Stuhl und eine gemitliche Stube. Bez.: K.Zoll.Ol auf Leinwand. halt ihren Liebling,ein weiBes Hundchen,im Arm. Blick in
+- 31x26,5 cm.Goldrahmen.
+
+## J.Zuber
+
+Munchen.
+
+- 426 Jungstes Gericht. Engel in Gewitterwolken einherschreitend, Posaunen blasend.Bez.:J. Zuber. Ol auf Holz. 63x60 cm. Dunkler Rahmen.
+- 427 Walkire,wie sie mit goldenem Kamme sich das Haar kammt und dabeierregt in die Ferne schaut.Brustbild.Bez.:
+- J.Zuber.Ol auf Leinwand.37x27 cm.Goldrahmen.
+- 428 Ahasver.Der ewige Wanderer mit dem Stabe kummergebeugt in Blitz, Sturm und Regen.Bez.:J.Zuber. Oi auf
+- Leinwand.44x44cm.Goldrahmen.

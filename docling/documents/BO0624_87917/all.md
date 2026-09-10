@@ -1,0 +1,696 @@
+27.Victor Freudemann.
+
+<!-- image -->
+
+## RUDOLF BERENY
+
+- Cellospieler.
+
+Ganze Figur eines Cello spielenden Herrn in dunklem Anzug, vor roter Portiere sitzend. Drei viertelprofl nach rechts.
+
+Unten links voll bez. und dat. 19oo.
+
+## ARNOLD BOECKLIN
+
+geb. 1827 in Basel, gest. 19o1 in Fiesole
+
+Pappe.Hohe 59 cm.Breite 5o cm. Gerahmt.
+
+- 2 2Mutter und Kind.
+
+Brustbild eines jungen Weibes, im Gesichtsausdruck dem streng schonen Stil der Antike sich nahernd. Antikisierende Gewandung, die die Schultern und die obere Brust frei laBt. Im linken Arm ruht das Kind, dem der Kopf der Mutter zugeneigt ist. Als Hintergrund bis an den Horizont reichendes Getreidefeld.Leicht bewolkter Himmel.
+
+Unten links monogr. A. B.
+
+Abbildung Tafel I.
+
+- 3 Hafenbild.
+
+Quai, auf dem eine Menge Giter zur Versendung aufgefahren ist. Die Masten der zahlreichen tiger Ferne.
+
+Unten rechts bez. u. dat.
+
+Abbildung auf der nachsten Seite.
+
+Holz. Hohe 46 cm, Breite 38 cm.Goldrahmen.
+
+Pappe. Hohe 6o cm,Breite 41 cm. Goldrahmen.
+
+## EUGENE-LOUIS BOUDIN
+
+geb.1825 in Honfleur, gest.1898 in Deauville.
+## 4 Bildnis.
+
+Brustbild einer Dame in mittleren Jahren, in einer Loge sitzend, die Linke halt das Opernglas. Unten links monogrammiert.
+
+## AUGUSTE BOULARD
+
+geb. 1825, gest.1897 in Paris.
+
+Leinwand. Hohe 61,5 cm, Breite 51 cm. Goldrahmen.
+
+Abbildung auf der nachsten Seite.
+
+3.Eugene-Louis Boudin.
+
+<!-- image -->
+
+## Vor einem Bauernhofe.
+
+Niederes Bauernhaus mit Strohdach, iberragt von der einfachen, alten Dorfkirche. Im Vordergrunde Bauer, mit der Mistgabel Dunger ausbreitend; ein kleines Huhnervolk benutzt die Gelegenheit, in dem gewendeten Duinger herumzupicken. Bewolkter Himmel. Sehr schones stimmungsvolles franzosisches Dorfbild.
+
+Unten links bez. A.B.
+
+Abbildung Tafel 2.
+
+Leinwand.Hohe 56 cm,Beite 46,5cm.Goldrahmen.
+## 6 Altes Tor.
+
+Blick fallt durch das Tor auf die Fassade eines an das Tor angebauten Hauses. Hell getincht, und
+
+4.Auguste Boulard.
+
+<!-- image -->
+
+von der tiefstehenden Sonne beleuchtet, ist diese Wand die Lichtquelle der im ibrigen ganz im Schatten liegenden Szene. Modifiziert wird das Beleuchtungsproblem durch den auf die beleuchtete Wand fallenden Schatten einzelner Zweige eines in der Nahe stehenden Baumes. Eine Wasser tragende Magd,in Ruckenansicht, staffiert die Komposition.
+
+Unten links signiert A.B.
+
+Leinwand.Hohe 46 cm,Breite 36 cm.Goldrahmen,
+
+## AUGUSTE BOULARD
+
+geb.1825, gest.1897 in Paris.
+- 10 Landschaft.
+
+Weidenbaum als Abschluf； sein schwaches Geast erhalt durch aufziehendes, loses weifes Gewolk ein eigenartiges Relief. Rechts die blumige Wiese, begrenzt von einer Gruppe Laubbaumen. Den Fernblick schlieft ein einstockiges Landhaus mit weif getinchter Fassade, in vollem Lichte gegeben. Trefliches Werk des Meisters, bei aller Grofzigigkeit der Komposition seine Vorliebe fuir subtile
+
+Rechts unten voll signiert.
+
+Behandlung einzelner Details zeigend.
+
+## AUGUSTE BOULARD
+
+geb.1825,gest.1897 in Paris.
+
+- Familienbild aus dem Bauernleben.
+
+In einem sehr dirftig eingerichteten Raum das Bauernweib, den hungrigen Kindern Brot schnei- dend. Links am Herdfeuer sitzt der Bauer, das jungste Kind in den Armen, einen an das Herdfeuer gesetzten Topf mit kochendem Inhalt beobachtend.
+
+Unten rechts monogr.A.B.
+
+Abbildung Tafel 3.
+
+- 8 Kinder im Grinen.
+
+Wiesengelande, durch einen Bach durchschnitten. Im Vordergrunde bei einem einzelnen Baume sitzen drei kleine, hibsch gekleidete Madchen. Die zwei alteren sind mit Puppen beschaftigt, das Mittelplan schlieft ein am Bache gelegenes Haus, ein schmucker Fachwerkbau, die Szene. Am Hori- jungste blickt einen etwas abseits sitzenden Knaben an, der das Puppenspiel neugierig verfolgt. Im zont die Silhouette einer Windmihle. Sommertag mit umzogenem Himmel. Reizvolle Wiedergabe eines niederlandischen Motivs, ebenso stimmungsvoll als Landschaftsbild, wie als anmutiges Genrebild.
+
+Unten links voll bez.
+
+Hohe 38 cm, Breite 46 cm. Holzgeschnitzter,vergoldeter Rahmen.
+
+<!-- image -->
+
+## JOHN CONSTABLE
+
+geb.1776 in East Bergholt (Suffolk),gest.1837 in London.
+
+- 9 Englische Landschaft (The Footpath from the Swan at Highgate leading to Finchley).
+
+Landschaft mit Wald und Wiese (im Charakter der sogen. ,englischen Garten"), von einem breiten Weg durchschnitten. Rechts vorn ein Blockhaus, dabei ein Wassertimpel. Gewitterschwile Stimmung mit interessanter Beleuchtung des Baumschlags und Reflexen im Wasser. Vorzigliche
+
+Interpretation der englischen Landschaft.
+
+Abbildung auf der nachsten Seite.
+
+Holz. Hohe 32 cm, Breite 44 cm.Goldrahmen.
+
+## JEAN-BAPT.CAMILLE COROT
+
+geb. 1796 in Paris, gest. 1875 daselbst.
+
+Leinwand. Hohe 35 cm, Breite 27，5 cm. Goldrahmen.
+
+## FRANTZ CHARLET
+
+Bruissel.
+## 1I Am Waldesrand.
+
+Rechts der Waldeingang, in der Mitte Wassertimpel, links Huigel, von einem Bauernhaus und einem Kirchturm iberragt. Vorn ein Wanderer. Abenddammerung mit verschwommener Ferne und flau umzogenem Himmel.
+
+Unten rechts bez.
+
+Pappe.Hohe 26,5 cm,Breite 33 cm.Goldrahmen.
+
+9.John Constable.
+
+<!-- image -->
+
+## GUSTAVE COURBET
+
+geb. 1819 in Ornans, gest. 1877 zu La Tour de Peilz.
+
+## 12 Am Meer.
+
+Als Vorwurf das Farbenspiel, das der Blick iber die ruhige See bei klarem Himmel im vollen Mittagslichte eines schonen Sommertages gewahrt. Als einzige Staffage einige Felsklippen im Vordergrunde rechts. Ausgezeichnete koloristische Schopfung mit grofartiger Luftperspektive.
+
+Unten rechts voll bez. und dat. 58.
+
+Abbildung Tafel5.
+
+## I3 Waldeinsamkeit.
+
+Imposante Schilderung von Wald, Wiese und Felsen der Hochgebirgswelt. Die ganze Szene fuilt der in marchenhafter Ruhe liegende Wald. Einzelne alte Stamme und hochragende Wipfel sind leicht individualisiert, mit unvergleichlicher Meisterschaft ist aber das Waldinnere, die Tiefe des Haines interpretiert. Im Mittelplan rechts ein Stick Rasen, bis an den Wassertumpel des Vordergrundes reichend. Dieser Wassertimpel ist die einzige Staffage der grofartigen Waldschilderung;
+
+Leinwand. Hohe 95 cm,Breite 139 cm.Goldrahmen.
+
+## COROT zugeschrieben
+von Felsblocken, die Strauchwerk durchsetzt, umrahmt,nimmt er einen stillen Waldbach auf. Rechts dient eine schrof abfallende,nackte Felswand als Abschlufkulisse. Farbensatte Wiedergabe der sommerlichen Pracht der Vegetation des Hochgebirges. Die Wipfel heben sich vom blauen, mit losem weifen Gewolk durchzogenen Himmel ab. In dem ippig reichen Blattwerk und auf dem prachtigen Rasen die Reflexe der tiefstehenden Sonne.
+
+Links unten voll bez.
+
+Abbildung Tafel 6.
+
+Leinwand. Hohe 5o cm,Breite 6o,5 cm. Goldrahmen.
+
+16.Franz Courtens.
+
+<!-- image -->
+
+## I4 Gebirgslandschaft.
+
+Felsenstock vor dem Hochgebirge, das die Szene schlieft. Im Vordergrunde ist die mit Moosrasen und durftigem Strauchwerk bewachsene Felsengalerie durch eine Schlucht unterbrochen, die ein wilder Gebirgsbach im Laufe der Zeit sich ausgewaschen hat. Hochsommerstimmung. Die Vegetation in leuchtenden Farben, der Bach idyllisch ruhig dahinflieBend, klare Fernsicht auf die Gletscherwelt. Umzogener Himmel eines heiBen Tages.
+
+Leinwand.Hohe 59 cm,Breite 81,5 cm.Goldrahmen.
+
+Links unten voll bez.
+
+## 15 5 Damenbildnis.
+
+Huftbild einer jungen schwarzhaarigen Dame,in dunklem Krinolinkostim en face, vor neutralem Hintergrund.
+
+Unten rechts voll bez.
+
+Abbildung Tafel 7.
+
+Leinwand.Hohe 63 cm,Breite 5o cm. Goldrahmen.
+Abbildungobenstehend.
+
+## FRANZ COURTENS
+
+Bruissel
+
+## 16 Tierstick mit landschaftlicher Staffage.
+
+Auf sommerlicher Wiese, die durch Baumschlag begrenzt ist, steht eine gescheckte Kuh, die von einem Burschen gemolken wird. Volles Mittagslicht mit dunsterfilter Luftperspektive.
+
+Unten rechts voll bez.
+
+Abbildung auf der vorigen Seite.
+
+Leinwand. Hohe 58 cm,Breite 7o cm. Goldrahmen.
+
+17.Honore Daumier.
+
+<!-- image -->
+
+## HONORE DAUMIER
+
+geb.1810 in Marseille, gest.1879 in Valmondois.
+
+## Nach der Verurteilung. 17
+
+Eine schmerzgebeugte, schwarz gekleidete Frau, das Taschentuch an die Augen gedrickt, in ihrem Kummer allein zwischen einem stolz aufgeblasenen Juristen in Amtsrobe, der neben ihr geht, und einem mit kindlichem Unverstandnis die arme Mutter begleitenden Knaben.
+
+Leinwand. Hohe 46 cm, Breite 37.5 cm. Goldrahmen.
+## 18 Jordanlandschaft.
+
+Hugeliges Gelande, vorn der stille Fluf, an einem Hugel vorbeifliefBend, uber den man in die Tiefe des Bildes, auf Walder und ferne Hohenzige blickt. Rechts Waldeingang, davor ein romischer Krieger zu Pferd, links ein einzelner alter Baum als Abschlufkulisse. Bewolkter Himmel. Interessanter Landschaftscharakter.
+
+Unten rechts monogr. D. C. Collection His de la Salle. Abbildung nebenstehend.
+
+Pappe.Hohe 21 cm, Breite 20 cm. Goldrahmen.
+
+18. Alexandre-Gabriel Decamps.
+
+<!-- image -->
+
+## EUGENEDELACROIX
+
+geb.1799 in Charenton-St.Maurice,gest.1863 in Paris.
+
+- 19 Lowen.
+
+Zwei mannliche Lowen, bereit, aufeinander loszugehen.
+
+Abbildung Tafel 8.
+
+Unten rechts bez. E. D. 1844.
+
+Leinwand.Hohe 24,5 cm, Breite 32,5 cm.Goldrahmen.
+
+## NARCISSO VIRGILIO DIAZ DE LA PENA
+
+- 20 Waldinneres.
+
+geb.18o7 in Bordeaux, gest. 1876 in Mentone.
+
+Lichter Laubwald. Spatsommer-Nachmittag. Einzelne junge Birken und der durch die Wipfel sichtbare blaue Himmel bringen interessante Noten in das prachtige Kolorit. Unten rechts bez.
+
+Leinwand. Hohe 21,5 cm,Breite 27 cm. Goldrahmen.
+
+Abbildung Tafel 9.
+
+## ALEXANDRE-GABRIELDECAMPS
+
+geb. 18o3 in Paris, gest.186o in Fontainebleau.
+## 21 Wiese im Sonnenschein.
+
+Kleiner Talkessel in bergigem Gelande. Die Berge mit dunklen Waldungen, das von ihnen eingeschlossene Wiesenland in dem durch Gewittergewolk gebrochenen Sonnenschein. Unten links voll bez.
+
+Leinwand.Hohe 18 cm,Breite 26 cm.Goldrahmen.
+
+22. Jules Dupre.
+
+<!-- image -->
+
+## JULES DUPRE
+
+geb. 1812 in Nantes, gest. 1889 in Isle.Adam.
+
+## 22 Landschaft.
+
+Den Mittelplan nimmt ebenes Wiesengelande ein, das noch von der untergehenden Sonne beleuchtet ist, wahrend die Berge, die die Szene schlieBen, schon im Dammerlichte liegen und je nach den Waldungen oder Wiesen, die ihren Ruicken bedecken, mehr oder minder dunkle Nuancen zeigen. Am FuBe des Berges rechts im Mittelgrunde eine kleine Ortschaft. Vorn, erheblich tiefer liegend als das Gelande des Mittelplans, ein Wassertimpel mit Abfuf, den eine alte, einfache Brucke iber schlagt.Links vorn interessante Baumschlagkulisse.S Stimmungsvolle,charakteristische Arbeit des Meisters.
+
+Leinwand.Hohe 39,5 cm,Breite 55.5 cm.Goldrahmen.
+
+Unten links voll bez.
+
+Abbildung oben.
+
+## DIAZ zugeschrieben
+- 23 Kustenlandschaft.
+
+Im Vordergrunde, die Szene von links nach rechts ansteigend schneidend, die higelige Kuste: Wiesenland mit vereinzeltem Baumschlag und Windmihlen. Im Mittelplan die ruhige blaue See, bis an den Horizont reichend. Blauer Himmel. Ausgezeichnete Luftperspektive. Fein abgestimmtes, intim wirkendes Werk.
+
+Unten links voll bez.
+
+Abbildung Tafel 10.
+
+Hohe 38 cm, Breite 46 cm. Goldrahmen.
+
+- 26 Liebesszene.
+
+Parklandschaft. Von einem Hugel, der die Szene im Mittelplan abschliefBt, fallt Wasser in einen Weiher, an dem drei Rokokodamen und ein Kavalier in galanter Unterhaltung versammelt sind. Auf dem Huigel rechts und links schoner Baumschlag, in der Mitte iber dem Wasserfall Ausblick auf den in prachtiger Mondscheinbeleuchtung gegebenen Himmel. Unten rechts voll bez.
+
+Abbildung Tafel 11.
+
+Leinwand. Hohe 38 cm, Breite 28 cm. Goldrahmen,
+
+## JULES DUPRE
+
+geb. 1812 in Nantes, gest.1889 in Isle-Adam.
+
+## JOHN EKENAES
+
+Asgaardstrand (Norwegen)
+
+- 24 Von den oberbayerischen Seen.
+
+Auf stillem See ein kleines Flof mit einer Fischerfamilie: ein junger Bursche rudernd, ein Alter das Netz ordnend und ein Madchen mit dem Fischkasten beschaftigt. Im Hintergrund Alpengluihen,
+
+Unten links voll bez.u.dat. Minchen 83.
+
+Leinwand. Hohe 22 cm, Breite 43.5 cm.Goldrahmen.
+
+ENGLISCHER MEISTER (erste Halfte des 19. Jahrhdts.)
+
+- 25 Vor dem Gewitter.
+
+Zu beiden Seiten der breiten LandstraBe, die die Szene in der Richtung von Sud nach Nord schneidet, liegen im Mittelplan die wenigen Gehofte des kleinen Dorfes,rechts durch prachtigen alten Baumschlag staffiert,links sich von dem durch schweres Gewittergewolk verfinsterten Himmel abhebend. Im Vordergrunde Wassertuimpel mit Enten,auf der Strasse Hirte mit heimziehender Schafherde. Gute Wiedergabe des nahen Gewittersturms, namentlich die Beleuchtung der Rand zone der Wetterwolken ist vorziglich durchgefuihrt.
+
+Holz. Hohe 26,5 cm, Breite 40 cm.Goldrahmen.
+
+## ANSELM FEUERBACH
+
+geb. 1829 in Speyer, gest.188o in Venedig.
+
+Unten rechts bez. Constable.
+
+das sich im Wasser spiegelt.
+- 27 Altdeutsches Stadtbild.
+
+Die langgestreckte Reihe alter Giebelfassaden eines an einem Flusse sich hinziehenden Stadtchens, meist Fachwerkbauten alter Zeit, in der Abenddammerung geschildert. Prachtige Wiedergabe eines anmutig-reizvollen Motivs.
+
+Unten links voll bez.
+
+Abbildung aufSeite3.
+
+## FRANCISCO JOSE DE GOYA Y LUCIENTES
+
+geb.1746 in Fuente de Todos,gest.1828 in Barcelona.
+
+Hohe 81 cm,Breite 2oo cm.Goldrahmen.
+
+## 28 Bildnis.
+
+Brustbild eines jungen Mannes im Profil nach rechts, aus dem Bilde blickend. Er tragt braunen Rock, weife Weste und weiBen, dicken, unter dem Kinn gebundenen Schal. Neutraler Hintergrund. Ausgezeichnetes Portrat. Leinwand.Hohe 61 cm,Breite 47 cm.Goldrahmen.
+
+Abbildung Tafel 12.
+
+30. Francisco Jose de Goya y Lucientes.
+
+<!-- image -->
+
+- 29 Die Hexen.
+
+In hugeliger,oder Landschaft ist eine Gruppe stehender und sitzender alter Weiber von groteskdamonischem Ausdruck versammelt, die meisten der naher charakterisierten halten Kinder in den Armen; eine der Hexen saugt vampyrartig an einem der unglicklichen Kinder; ein nacktes erschopftes schweifartig in den Hintergrund. Der Himmel zeigt den Beginn der Morgendammerung.
+
+Leinwand. Hohe 36 cm, Breite 27 cm. Goldrahmen. Collection Duchesse d'Osunna.
+
+Abbildung Tafel13.
+
+- 30 Seestick.
+
+Meeresbucht von Burdeos. Ruhige See bei schonem Wetter mit leicht bewolktem Himmel. Der Wald von Schiffsmasten und die leicht ansteigende Kiste mit der hoch gelegenen Ortschaft schliefen die Szene, die eine Anzahl bemannter Schifferboote vorn links staffiert. Prachtiges Hafenbild, in vollem Sonnenschein gegeben.
+
+Collection Duchesse d'Osunna.
+
+Abbildung oben.
+
+## VIKTOR FREUDEMANN
+
+Berlin.
+
+Leinwand.Hohe 19 cm,Breite 24 cm.Goldrahmen.
+## HENRI HARPIGNIES
+
+Paris
+
+## 3IItalienische Landschaft im heroischen Stil.
+
+In reich zerkluftetem Felsgelande ein grofer See. Vereinzelter Baumschlag. Im Vordergrunde rechts machtige Steineiche,links Hirtin mit Ziegen. Blauer Himmel. Unten links voll bez. u. dat.
+
+Abbildung Tafel 14.
+
+Leinwand. Hohe 25 cm, Breite 33 cm. Goldrahmen.
+
+33. Louis-Gabriel-Eugene Isabey.
+
+<!-- image -->
+
+## AD.HOLZEL
+
+## 32 Heifer Sommertag im Moos.
+
+Unten links voll bez. u. dat. Dachau 04.
+
+Dachau
+
+Im Vordergrunde breites Gewasser, im Mittelplan Bauernhauser mit Baumgarten (Ampermotiv). Bleifarbener Himmel.  Das ganze Motiv gesehen durch den aufsteigenden Wasserdunst. AuBerordentlich interessanter, fuir die Probleme Neu-Dachaus charakteristischer Vorwurf.
+
+Leinwand. Hohe 45,5 cm, Breite 55 cm. Goldrahmen.
+- 33 Strandbild.
+
+Segelboot mit Fischerkahn, durch die Ebbe auf den Strand gesetzt: Bewolkter Himmel. Holz. Hohe 25.5 cm, Breite 22 cm. Goldrahmen. Abbildung aufdervorigen Seite.
+
+33. Friedrich August von Kaulbach.
+
+<!-- image -->
+
+## FRIEDRICH AUGUST VON KAULBACH Miinchen
+
+## 34 Bildnis.
+
+dem Beschauer zugewandt.
+
+Unten links voll bez.
+
+Abbildung nebenstehend.
+
+## LOUIS-GABRIEL-EUGENE ISABEY
+
+geb.1804 in Paris,gest.1886 daselbst.
+
+Leinwand. Hohe 71 cm, Breite 64 cm.Goldrahmen.
+- 35 Portrat der Guerreo.
+
+Huftbild im Profl nach links, der ungemein ausdrucksvolle Blick dem Beschauer zugewandt. Dekolletiertes Kostim,das die Buiste und die Arme freilaβt.
+
+Oben rechts voll bez. u. dat. 1903.
+
+Leinwand.Hohe 74 cm,Breite 55 cm.Goldrahmen.
+
+## FRANZ VON LENBACH
+
+geb. 1836 in Schrobenhausen, gest. 1904 in Muinchen.
+
+Leinwand.Hohe 125 cm,Breite 89,5 cm.Goldrahmen.
+
+## ADOLF LIER
+
+geb. 1826 in Herrnhut, gest. 1882 in Wahren bei Brixen.
+
+- 36 Bismarck.Portrat.
+
+Bildnis en face,in dunklem Mantel und weifem Halstuch,barhaupt, Kniestick. Unten links voll bez.
+
+Abbildung Tafel 15.
+
+- 37 Spitzingsee.
+
+Im Vordergrund der tiefblaue See mit den sattgrinen Uferwiesen. Die Berge schliefen den Himmel. Die Wasserflache im Hintergrunde durch die Berge beschattet,vorn die Wolken spiegelnd. Ganz vorn Uferpartie mit einer Gruppe von Baumen, die sich von der Bergwand des Hintergrundes abheben. Einsame Bauernhauschen, ein Fischer im Kahn und einige Figuren staffieren das Bild.
+
+Unten links signiert.
+
+- 38 Landschaft mit Jager.
+
+Weites Flachland oberbayerischen Charakters. Hochsommerstimmung mit loser Wolkenbildung. Im Vordergrund Jager, in Ruckenansicht, sich schuffertig machend. Bei ihm ein Huhnerhund. Rechts Schafer mit Herde.
+
+Unten rechts voll bez.
+
+Abbildung auf der nachsten Seite.
+
+- 39 Bach im Chiemgau.
+
+Wiesengelande mit ippigem Graswuchs, durchschnitten von einem breiten seichten Gewasser, auf same Bauerngehofte vor dunklem Baumschlag. Dunstig verhangener Fernblick auf das Gebirge. den zerstreuten bunten Feldblumen iberaus stimmungsvolle Schilderung des Landschaftsbildes des
+
+Unten links voll bez.
+
+dem eine Schar Enten schwimmt. Rechts im Mittelplan ein Erntebild. Links im Hintergrund einbayerischen Hochlandes, gleich prachtig im Kolorit wie in der feinen Licht- und Luftbehandlung.
+
+Abbildung auf der nachsten Seite.
+
+Holz. Hohe 21 cm, Breite 37 cm. Schwarzer Rahmen.
+
+Leinwand. Hohe 42 cm,Breite 65 cm.Goldrahmen.
+
+## FRIEDRICH AUGUST VON KAULBACH
+
+Munchen
+## 40 Am Bache.
+
+Breiter Gebirgsbach zwischen Wiesengelande und Wald. Im Vordergrunde eine Schleuse mit Steg, durch Figuren staffiert; im Hintergrunde erblickt man die Fassade eines oberbayerischen Bauernhauses. Prachtiger Baumschlag in der Stimmung eines schonen Sommertages mit heiterem blauen Himmel, von dem sich die Wipfel abheben.
+
+Unten rechts voll bez.
+
+Leinwand. Hohe 55 cm, Breite 675 cm.Goldrahmen.
+
+38. Adolf Lier.
+
+<!-- image -->
+
+39.Adolf Lier.
+
+<!-- image -->
+
+## 4I Regenstimmung.
+
+Ackerfeld bei stromendem Regen. Links Schuppen, unter dem ein Bauer untergetreten ist, wahrend Pferde und Pfug im Regen stehen.
+
+Unten links bez.
+
+Holz. Hohe 16,6 cm, Breite 25,5 cm. Schwarzer Rahmen.
+
+## ADOLF LIER
+
+geb.1826in Herrnhut,gest.1882 in Wahren bei Brixen,
+## 42 Landschaft.
+
+Wiesengelande,durch alte Weidenbaume staffert. Im Vordergrunde einige Lammer und ein Bauernweib. Frihsommertag mit aufziehendem Gewolk.
+
+Pappe. Hohe 17.5 cm, Breite 23 cm. Unter Glas und Rahmen.
+
+Aquarell, unten rechts sign. A. L. 1873.
+
+43.Jean-Francois Millet.
+
+<!-- image -->
+
+## JEAN-FRANCOIS MILLET
+
+geb.1814 in Gruchy, gest,1875 in Barbizon.
+
+- 43 Zwei Rotstiftzeichnungen auf beiden Seiten eines Blattes.
+
+A:Landschaft. Rechts kleine Anhohe mit zwei Heuschobern, vorn rechts ein Schafer mit zwei Schaferhunden (Wolfshunden), im Mittelplan die Schaf hirde, am Horizont die Silhouette eines Dorfes. Fein behandelte Skizze mit prachtiger Luftperspektive.
+
+B:7 Skizzen, dabei Schnitter mit Sense, Bauer in Ruckenansicht, Mutter mit Kind, zwei Magde (Kopfe), ein Hund.
+
+Auf beiden Seiten sign.J.F. M.1865.
+
+Die eine Seiteoben reproduziert.
+
+## ADOLF LIER
+
+geb. 1826 in Herrnhut, gest. 1882 in Wahren bei Brixen.
+
+GroBe des Blattes 22:29 cm. Gerahmt.
+44 Skizze.
+
+Madchengruppe in Felsenlandschaft. Vier Madchen in antikisierender Gewandung, die bei dreien den Korper mehr oder minder unbedeckt laft, das eine Madchen tragt einen gefillten Eimer,ein zweites, ruhendes Madchen halt einen leeren Henkelkrug. Eine dritte Gestalt, die ein Manteltuch vierte Figur blickt sinnend in die Ferne. Bleistiftzeichnung, leicht mit Blau gehoht.
+
+Unten links voll signiert.
+
+Abbildung beistehend.
+
+Pappe.Hohe 3I cm, Breite 28,5 cm.Brauner Rahmen.
+
+34. Pierre-Cecile Puvis de Chavannes.
+
+<!-- image -->
+
+## KARL RAUPP
+
+Muinchen.
+
+- Vom Chiemsee.
+- 45
+
+Von der Grasernte heimfahrende Fischerfamilie. An dem Gestade des ruhigen Sees das Boot, auf den nach vorn kommenden jungen Schnitter wartend. Im Boote zwei junge Bauernmadchen, bereit das Rudern zu ibernehmen, eine alte Bauerin und drei Kinder. Umzogener Himmel mit aufsteigendem Wetter. Dunstige Fernsicht auf das Gebirge.
+
+Unten rechts voll bez. (1893 gemalt).
+
+Leinwand.Hohe 82 cm,Breite 166 cm.Goldrahmen.
+
+## PIERRE-CECILE PUVIS DE CHAVANNES
+
+geb.1824 in Lyon, gest.1898 in Paris.
+46 Landschaft.
+
+## PIERRE-ETIENNETHEODOREROUSSEAU
+
+geb.1812 in Paris, gest.1867 in Barbizon.
+
+Links Eingang in lichten Laubwald, rechts Wiesengelande, sich in das Flachland der Ferne verlierend.Leicht bewolkter Himmel, Hochsommerstimmung. Vorn im Mittelplan eine Holzsammlerin. Schones stimmungsvolles Werk des Meisters.
+
+Abbildumg Tafel 16.
+
+Leinwand.Hohe 68 cm,Breite 98 cm.Goldrahmen.
+
+50.Karl Spitzweg.
+
+<!-- image -->
+
+ROUSSEAU zugeschrieben.
+
+## 47 Vor dem Gehofte.
+
+Wiesengelande in bunter Herbstfarbung, unterbrochen durch einen breiten Pfad, der zu dem Gehofte fihrt, dessen Umfassungsmauer vom Baumschlag iberragt ist und durch ihren Kalkbewurf eine feine Nuance in das Kolorit bringt. Vorn Holzsammlerin in rotem Rock. Leicht bewolkter Himmel. Abenddammerung.
+
+Holz. Hohe 16 cm, Breite 21 cm. Goldrahmen.
+
+Rechts unten signiert Th.R.
+## 48 Zechender Kavalier.
+
+Junger Kavalier im Kostum des 17. Jahrhunderts bei Kerzenlicht an einem Tische sitzend, ein auf demselben stehender Bierkrug bezeichnet die Situation.
+
+Holz. Hohe 31,5 cm,Breite 24 cm.Goldrahmen.
+
+Oben links bez. A.Schroder 1895.Mi.
+
+51. Alfred Stevens.
+
+<!-- image -->
+
+## ALFRED von SCHROTTER
+
+Graz
+
+Holz. Hohe 14 cm, Breite 11,5 cm.Goldrahmen.
+
+## 49 Krieger
+
+Huftstick eines Offiziers im Kostim des 17. Jahrhunderts. (Lederkoller, Schlapphut etc.) en face. Oben rechts voll bez.und dat. 86.
+
+## ALBERT SCHRODER
+
+Munchen
+## 50 Korporalsleiden.
+
+## KARL SPITZWEG
+
+geb.18o8 in Munchen, gest.1885 daselbst.
+
+Auf dem Vorplatz vor der Tur eines einfachen Hauses ein Soldat der Buirgermiliz, sein ganzes Augenmerk auf das Einfadeln einer Nahnadel richtend, um seinen Waffenrock zu flicken. Der Vorplatz durch einen Vogelbauer, durch Weinlaub und den Ausblick auf die Giebel der Nachbarschaft huibsch staffiert.
+
+Unten links voll signiert.
+
+AbbildungaufSeite20.
+
+Leinwand.Hohe 38,5 cm,Breite 31 cm.Goldrahmen.
+
+52. Henri de Toulouse-Lautrec.
+
+<!-- image -->
+
+## ALFRED STEVENS
+
+Paris.
+
+## 51 Damenbildnis.
+
+Auf einer Veranda steht eine junge Dame im Profil nach links.Ein neben ihr sitzender weiBer Spitz,bluihende Gartenhecken und Topfblumen staffieren den Vordergrund,wahrend der leicht bewegte durch mehrere Segel belebte Spiegel des Meeres dem Prospekt einen grofartigen Abschluf gibt.
+
+Unten links voll bez.
+
+Abbildung auf der vorigen Seite.
+
+Leinwand.Hohe 81 cm,Breite 65 cm.Goldrahmen.
+
+## HENRI DE TOULOUSE-LAUTREC
+
+geb.1864 in Albigeois, gest. 19o1 in Paris.
+
+## 52 Vor dem Rennen.
+
+Auf dem Rennplatz (Wiesengelande) ein Rennpferd, in langsamem Schritt von einem Burschen Mittelplan zwei Sportsmen, der eine mit Zylinderhut, im Gesprach. Buntstiftzeichnung.
+
+Abbildung oben.
+
+Pappe.Hohe 41 cm, Breite 6o cm.Goldrahmen.
+
+Unten rechts monogrammiert.
+## 53 Landschaft.
+
+Waldeingang. Als Abschluf der Szene der dunkle dichte Laubwald mit einer Gruppe hochragender Pappelbaume im Vordergrunde, davor higeliges Wiesengelande, zwischen dem sich der in den Wald fuhrende Weg hinzieht. Zwei Wanderer staferen das Bild. Dammerungsstimmung eines schonen Sommertages mit leicht bewolktem Himmel.
+
+Unten rechts signiert C.T.
+
+Abbildung Tafel 17.
+
+## 54 Tierstick.
+
+Auf Wiesengelande, das im Hintergrunde durch Baumschlag abgeschlossen wird, steht eine junge Kuh in Vorderansicht.
+
+Unten links monogr.C. T.
+
+Holz.Hohe 34 cm, Breite 24.5 cm.Goldrahmen.
+
+<!-- image -->
+
+Holz. Hohe 32 cm,Breite 23,5 cm.Goldrahmen.
+
+## CONSTANTIN TROYON
+
+geb. 1810 in Sevres, gest. 1865 in Paris.

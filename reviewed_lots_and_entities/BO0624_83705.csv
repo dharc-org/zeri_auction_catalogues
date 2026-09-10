@@ -1,0 +1,5 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_83705,102735,1,I,## ROBERT (Hubert),3,100.0,False,title_direct,ROBERT (Hubert),Scuola di Hubert Robert,,,
+BO0624_83705,102736,2,2,Le Galant imprudent.,22,95.0,False,positional,ROBERT (Hubert),,,,
+BO0624_83705,102737,3,I,MPRIME,44,92.3,False,positional,VESTIER (Antoine),,,,
+BO0624_83705,102738,4,19,",rue des Saints-Peres",50,93.0,False,positional,PHILIPPE RENOUARD,,,,

@@ -1,0 +1,2917 @@
+## CONDITIONS DE LA VENTE
+
+Elle sera faite au comptant.
+
+Les adjudicataires paieront dix pour cent en sus des en- cheres.
+
+L'exposition mettant le public a meme de se rendre compte de letat et de la nature des objets,aucune reclamation ne sera admise une fois l'adjudication prononcee.
+## ORDRE DES VACATIONS
+
+## Le Mardi 27 Avril 1909
+
+|                                      |                                      |                                      |                                      | Numeros.                        | Numeros.                  | Numeros.                        |                                 |
+|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|---------------------------------|---------------------------|---------------------------------|---------------------------------|
+| Aquarelles,Dessins, Gouaches,Pastels | Aquarelles,Dessins, Gouaches,Pastels | Aquarelles,Dessins, Gouaches,Pastels | Aquarelles,Dessins, Gouaches,Pastels |                                 | 46a170                    |                                 |                                 |
+|                                      |                                      | Le Mercredi 28 Avril 1909            | Le Mercredi 28 Avril 1909            | Le Mercredi 28 Avril 1909       | Le Mercredi 28 Avril 1909 |                                 |                                 |
+| Tableaux anciens.                    | Tableaux anciens.                    | Tableaux anciens.                    | Tableaux anciens.                    |                                 | 1a45                      |                                 |                                 |
+| Faiences et Porcelaines              | Faiences et Porcelaines              | Faiences et Porcelaines              | Faiences et Porcelaines              | Faiences et Porcelaines         | 171a185                   |                                 |                                 |
+| Miniatures.                          | Miniatures.                          | Miniatures.                          | Miniatures.                          |                                 | 186a206                   |                                 |                                 |
+| Objets divers.                       | Objets divers.                       | Objets divers.                       | Objets divers.                       |                                 | 207a240                   |                                 |                                 |
+|                                      |                                      |                                      | Le Jeudi 29 Avril 1909               | Le Jeudi 29 Avril 1909          | Le Jeudi 29 Avril 1909    | Le Jeudi 29 Avril 1909          |                                 |
+| Marbres,Terres cuites.               |                                      |                                      |                                      |                                 | 241 a250                  |                                 |                                 |
+|                                      | Bronzes,Pendules.                    | Bronzes,Pendules.                    | Bronzes,Pendules.                    | Bronzes,Pendules.               | 251a265                   |                                 |                                 |
+| Meubles couverts en tapisserie.      | Meubles couverts en tapisserie.      | Meubles couverts en tapisserie.      | Meubles couverts en tapisserie.      | Meubles couverts en tapisserie. | 266a274                   | Meubles couverts en tapisserie. | Meubles couverts en tapisserie. |
+| Meubles..                            | Meubles..                            | Meubles..                            | Meubles..                            |                                 | 275a285                   |                                 |                                 |
+| Etendards,Etoffes.                   | Etendards,Etoffes.                   | Etendards,Etoffes.                   | Etendards,Etoffes.                   |                                 | 286a314                   |                                 |                                 |
+| Tapisseries, Tapis.                  | Tapisseries, Tapis.                  | Tapisseries, Tapis.                  | Tapisseries, Tapis.                  |                                 | 315a342                   |                                 |                                 |
+<!-- image -->
+
+## Tableaux Anciens
+
+## BACHELIER
+
+(JEAN-JACQUES) Paris,1724-1806. (DEUX PENDANTS)
+
+Le Triomphe du chat.
+
+一 Le Triomphe du chien.
+
+Des enfants et des petits bacchants portent, sur leurs epaules, un chien et un chat sur des brancards enguir- landes de feurs et de fruits.
+
+Toile.Haut.,1 m.04;larg.,I m.45.
+
+## BOQUET
+
+(PIERRE-JEAN)
+
+Paris,1751-1817.
+
+## 3-Les Femmes revolutionnaires ou Jacobines.
+
+On lit sur la monture cette vieille inscription:
+
+《La veille de la fatale journee du 1o Aoust, quantite de ces megeres occupoient le milieu des grouppes qui se formoient dans le jardin des Thuilleries,la ellesreprochoient aux hommes leur peu de resolution,et qu'ils seroient des laches s'ils ne venoient pas le lendemain assaillir le chateau;les citoyens etoient d'autant plus irresolus que le plus grand nombre ignoroit ce qu'on vouloit faire....
+
+Figures peintes a l'huile, decoupees et collees sur un fond d'aquarelle.
+
+Haut., 23 cent.: larg.,36 cent.
+## BOSCH
+
+Ecole de JEROME)
+
+## 4-Les Bords du Styx.
+
+Cuivre.Haut.,44 cent.;larg.,66 cent.
+
+## CALLET
+
+(ANTOINE-FRANCOIS)
+
+Paris,1741-1823.
+
+## 5-Les Trois Graces.
+
+Trois jeunes femmes,aux formes elegantes,dansent et s'enguirlandent de feurs au son de la musique que font des amours au milieu de nuages roses.
+
+Toile.Haut.,42 cent.;larg.,52 cent.
+## CALLOT
+
+(Ecole de JACQUES)
+
+## 6-Le Pont-Neuf sous la minorite de
+
+## Louis XiV.
+
+Sur le terre-plein du Pont-Neuf se dresse la statue equestre du roi Henri IV;des boutiques sont installees en plein vent; sur le pont meme, des carrosses passent, des seigneurs, des hommes de loi et des gens du peuple circulent dans tous les sens. A droite, sur la Seine, l'ancien Louvre; sur la rive gauche, le College des Quatre-Nations avant la construction du Dome. Au fond,le Pont-Royal.
+
+Toile. Haut., 6o cent.;larg., i m.24.
+
+## CHARPENTIER
+
+(JEAN-BAPTISTE)
+
+Paris,1728-1806.
+
+## -La Joueuse de vielle.
+
+Debout dans la campagne, un chapeau bleu orne de lilas pose sur sa haute coiffure poudree, elle porte un manteau rouge garni de rubans.
+
+Toilc. Haut.,5o cent.;larg.,38 cent.
+## 8
+
+## COYPEL
+
+(ANTOINE)
+
+Paris,1661-1722.
+
+(DEUX PENDANTS)
+
+## Renaud et Armide dans les plaisirs.
+
+Dans I'ile enchantee,Armide,assise sur un tertre orne de feurs, tient la tete de Renaud appuyee sur son epaule; elle lui montre leurs traits refetes dans un miroir que leur presente un amour, soutenu lui-meme par deux autres amours. A gauche, une nymphe sortant des ondes, couvre de feurs les deux amants. Derriere,les frondaisons rousses d'un bois se detachent sur un ciel bleu.
+
+## -Angelique et Medor. 6
+
+Angelique,a demi couchee,presque nue, s'appuie sur les genoux de Medor qui lui montre, sur lecorce d'un arbre, les deux noms inseparables qu'il vient d'y graver. Au-dessus d'eux plane un amour leur decochant un trait, tandis qu'a gauche un autre amour couronne d'herbes marines Neptune sortant des ondes. Au fond, des collines baignees par l'onde bleue d'une riviere.
+
+Toiles. Haut.,74 cent.; larg., 92 cent.
+
+Cadres en bois sculpte et dore.
+12-Le Sabbat.
+
+## EISEN
+
+(FRANCOIS) Bruxelles,1685-1775.
+
+(DEUX PENDANTS)
+
+## 11-01 Jeux d'Amours.
+
+Dans un encadrement de rinceaux et de colonnettes enguirlandes, des amours voltigent dans les nues, poursuivant des colombes ou jouant avec des feurs.
+
+Toiles.Haut.,I m.6o;larg,70 cent.
+
+## FRANCK
+
+(FRANCOIS)
+
+Anvers,1581-1642.
+
+Bois.Haut.,51 cent.;larg.,66cent.
+## GUARDI
+
+(FRANCESCO)
+
+Venise,1712-1793.
+
+## 13-Salle de fete en plein air.
+
+Deux jeunes femmes causent au milieu d'un parterre encadre de loges a balcons et de treillages enguirlandes de feurs multicolores;au centre, un dais orne de draperies de soie rose et bleue sur un decor de rochers au milieu desquels on remarque un grand nombre de couples elegants.
+
+Toile. Haut.,36 cent.; larg.,48 cent.
+## HAUER
+
+(JEAN-JACQUES)
+
+Algesheim,175r-182g.
+
+## Un Estaminet.
+
+Dans un estaminet, garni d’une boiserie vert d’eau
+
+A gauche, deux dames sont assises derriere un comptoir encastrant quatre paysages, de nombreux personnages, semblant avoir éte peints d'apres nature, sont reunis autour des tables, en diverses attitudes. Les uns jouent aux dominos, d'autres prennent leur cafe, lisent ou se reposent. Un gentilhomme debout domine la salle de sa haute taille;coiffe d'un tricorne noir,il porte un habit rouge ouvert sur un gilet jaune et tient un face-a-main.
+
+sur lequel un jeune seigneur accoude appuie son large manchon.
+
+Signe et date : 1786.
+
+Toile. Haut., 71 cent.; larg., go cent.
+
+## LAJOUE
+
+(JACQUES DE)
+
+Ecole francaise,1687-1761.
+
+## 15-Un Escalier de parc.
+
+Des dames et des gentilshommes sont assis sur les marches d'un large escalier de pierre decore de statues et de fontaines. Au premier plan,un élegant chasseur presente ses chiens a deux dames parees de robes de soie rose et jaune.
+
+Toile.Haut.,68 cent.;larg.,94 cent.
+## LAJOUE
+
+(Attribue a JACQUES DE)
+
+## 16- Fete dans un parc.
+
+Devant un decor d'architecture, orne de guirlandes et de figures de bronze, des danseurs se melent aux spectateurs.
+
+Toile.Haut.,44 cent., larg.,53 cent.
+
+## LEGRAND
+
+(Mlle)
+
+Ecole francaise, xvin siecle.
+
+## Portrait de jeune femme.
+
+Les cheveux boucles et poudres, un fichu de mousseline borde de dentelles sur son corsage rouge, elle est representee en buste, tournee vers la gauche.
+
+Toile de forme ovale. Haut.,6o cent.; larg,5o cent.
+## LEMOINE
+
+(FRANCOIS)
+
+Paris,1688-177.
+
+## 18—La Baigneuse.
+
+Une jeune temme blonde, deux chaines de perles passees dans ses cheveux boucles,la main droite appuyée sur un tronc d'arbre, a mis le pied dans un cours d'eau. Une suivante en robe bleue,agenouillee a terre, soutient sa maitresse par la taille en retenant autour d'elle une draperie jaune et un linge blanc.
+
+Grave par Laurent Cars.
+
+L'esquisse de cette composition est au musee du Louvre.
+
+Toile.Haut.,1 m.75;larg.,1 m.40.
+
+Cadre en bois sculpte et dore.
+## LONGHI
+
+(PIERRE)
+
+Venise,1702-1762.
+
+## 19 — Scene d'interieur dans un palais,a Venise.
+
+Au milieu d'un salon tapisse de cuir de Cordoue, des jeunes seigneurs et des dames jouent aux cartes, d'autres invites les regardent. A droite,un jeune abbe remet une gimblette a une jeune femme coiffee d'un tricorne. Plus loin, une servante releve indiscretement une portiere, epiant cette scene. A gauche, sur une table, devant un dressoir orne de faiences, une autre servante verse du chocolat.Une petite flle, debout, est deja servie.
+
+Toile.Haut.,96 cent.;larg.,1 m.32.
+
+Cadre en bois sculpte.
+## LONGHI
+
+(PIERRE)
+
+## La Lecon de danse. 20
+
+Au milieu d'un salon, un maitre a danser, vetu d'un habit rose, tient par la main une jeune femme en robe de soie jaune clair et indique d'un geste le mouvement qu'elle doit faire.Un musicien joue du violon, une autre dame assise regarde les danseurs.
+
+Toile.Haut.,64 cent.;larg.,54 cent.
+
+## MACHY
+
+(PIERRE-ANTOINE DE)
+
+Paris,1722-1807.
+
+## 21 Vue du Louvre et du quai.
+
+L'Hotel des Monnaies s'éleve a gauche sur le quai,au bord de la Seine;plus loin,l'aile gauche du college des Quatre-Nations. Sur la berge du fleuve, des chevaux et des bestiaux vont a l'abreuvoir; des bateaux-lavoirs et des chalands sont amarres a droite et a gauche.
+
+Dans le fond, le Louvre s'etend en perspective.
+
+Effet de soleil couchant.
+
+Signe a gauche.
+
+Bois.Haut.,3g cent;larg.,67 cent.
+## MACHY
+
+(PIERRE-ANTOINEDE)
+
+—L'Incendie. 22
+
+Devant les ruines d'uneconstruction en flammes eta la lueur d'un brasier qui illumine, sous un ciel bleu, une eglise et les maisons d'une ville, une foule de personnages s'agitent ou travaillent. Les uns actionnent une pompe, d'autres font la chaine,remplissent ou versent des seaux d'eau, grimpes sur des echelles ou montes sur les toits.
+
+A droite, un tonneau se vide, des soldats attendent en reserve.
+
+Toile.Haut., 49 cent.; larg, 77 cent.
+
+## MARTIN
+
+(PIERRE-DENIS)
+
+Ecole francaise,1673-1742.
+
+(DEUX PENDANTS)
+
+23—Le Colin-maillard.
+
+24
+
+—La Main-chaude.
+
+Paysages avec cours d'eau et cascade, animes de figures.
+
+Toiles.Haut.,1 m.85;larg,1 m.10.
+
+：
+## 25
+
+26-Le Duo.
+
+Une jeune femme en robe rose, assise, joue du clavecin, accompagnant un joueur de fute portant une robe de chambre bleue.
+
+Toile. Haut.,1 metre; larg.,78 cent.
+
+## MONNOYER
+
+(BAPTISTE)
+
+Lille,1634-1699.
+
+## -La Jeune femme aux fleurs.
+
+Une jeune femme, drapee dans une etoffe de soie jaune, tient un vase de feurs pose sur un socle.
+
+Toile.Haut.,1 m.38;larg.,1 m.02.
+
+## 27
+
+## MIGNARD
+
+(Ecole de)
+
+## -La Promenade en traineau.
+
+Des dames en toilette d'apparat montent des traineaux en bois sculpte et dore, atteles de chevaux caparaconnes. Au premier plan, deux cygnes dans une piece d'eau. Dans le fond, un chateau precede d'un parc a la francaise.
+
+Toile. Haut.,72 cent.; larg., 88 cent.
+
+Cadre en bois sculpte.
+
+## MIGNARD
+
+(Ecole de)
+## 30
+
+## PANNINI
+
+(JEAN-PAUL) Plaisance,16g2-1765.
+
+(QUATRE PENDANTS)
+
+## 28—Le Portique.
+
+Quatre colonnes soutiennent une archivolte au-dessus gravissent de larges degres. Dans le fond, une fontaine devant un parc aux arbres tailles en charmille. A droite, d'un escalier de pierre. Des dames et des gentilhommes les arcades d'un monument en ruine.
+
+## 29 L'Embarcadere.
+
+Un couple s'avance au bord de la mer,vers un bateau orne d'un dais a rideaux roses. Une fontaine jaillit dans une vasque, des monuments ornes de colonnes, de balcons, de vases et de statues de pierre enrichissent la composition.
+
+## Promenade dans le parc d'un chateau.
+
+Sur les marches d'un palais, a droite, un abbe presente ses graces a un jeune couple;un mendiant fuit. Plus loin, quelques personnages regardent les vestiges du palais. Derriere eux, un escalier de pierre,orne de balustres, encadre un groupe de Neptune en marbre que baignent les eaux bleues d'un lac. Un rideau d'arbres se detachent sur un soleil couchant.
+
+## 31 Reunion de personnages au milieu de ruines.
+
+Entre deux portiques de pierre, des personnages de qualite echangent de menus propos. Dans le fond, un couple est assis a gauche d'un escalier monumental, derriere lequel un jet d'eau s'eleve devant un temple en ruine. Le ciel bleu est orne de nuages legers.
+
+Toiles.Haut.,I m.49; larg.,I metre.
+## RAGUENET
+
+(NICOLAS-JEAN-BAPTISTE)
+
+Ecole francaise, xvi siecle.
+
+## 32-Joutes au Pont-Notre-Dame,devant la Pompe a feu.
+
+De nombreuses embarcations, conduites par des rameurs qui vont mettre en presence les jouteurs. Une jeune femme, celebre jouteuse sans doute, se tient debout et va se mesurer avec les champions du jour. Aux fenetres du batiment de la Pompe a feu et a celles des autresconstructions qui ornent le pont,la foule contemple cette fete.
+
+Signe et date,en bas, a droite: Raguenet, 1756.
+
+Toile maroufee sur bois. Haut., 6o cent.; larg, 97 cent.
+34 -Une Voute.
+
+Un large escalier s'ouvre sous une voute; des person- nages en gravissent les degres.
+
+Toile.Haut.,32 cent.;larg.,44 cent.
+
+## ROBERT
+
+(HUBERT)
+
+Paris,1733-1806.
+
+## 33-Personnages au milieu d'un palais en
+
+## ruines.
+
+Sous une voute immense, en partie defoncee,on remarque la statue equestre d'un empereur romain.Des personnages drapes se chauffent a la famme d'un brasier.
+
+Toile de forme ovale. Haut.,73 cert., larg.,5g cent.
+
+## ROBERT
+
+(HUBERT)
+## SAINT-AUBIN
+
+(GABRIEL DE)
+
+Paris,1724-1780.
+
+## 35- La Promenade dans un parc.
+
+Des dames se font trainer en vinaigrettes au milieu des promeneurs. Deux statues de marbre se detachent sur les charmilles.
+
+Peinture sur papier maroufle sur toile.
+
+Haut., 9 cent.; larg,15 cent.
+
+Cadre en bois sculpte.
+
+## TARAVAL
+
+(HUGUES)
+
+Paris, 1728-1785.
+
+36—1o.
+
+Les cheveux blonds épars,la jeune femme est portee sur un nuage, assise sur des draperies blanche et grise. Un voile de gaze jaune est drape sur son bras gauche. A droite,l'aigle emblematique.
+
+Toile. Haut., 1 m. 15; larg, 1 m.23.
+## TROY
+
+(FRANCOIS DE)
+
+Toulouse,1654-1730.
+
+## Portrait presume de la Comtesse de
+
+## Lude.
+
+Representee dans un parc,en robe bleue, accoudee sur un socle de pierre,elle desarme l'Amour.
+
+Toile.Haut.,46 cent.; larg.,38 cent.
+
+## VALLIN
+
+(JACQUES-ANTOINE)
+
+Ecole francaise,xvll siecle.
+
+## 38-Venus et l'Amour.
+
+Au milieu d'un paysage montagneux, Venus, a demi couchee sur un tertre, recoit des grappes de raisin que lui offre un petit bacchant.
+
+Bois.Haut.,26 cent.;larg.,31 cent.
+## WATTEAU
+
+(FRANCOIS)
+
+Valenciennes,1758-1823.
+
+## Fete a l'Etre supreme.
+
+La foule entoure une eminence ou l'on glorifie la Liberte.
+
+Au premier plan, des couples se dirigent vers la fete.
+
+Toile.Haut.,32 cent.;larg.,40 cent.
+
+## ECOLE ALLEMANDE
+
+(xvie siecle)
+
+## 40-Un Tournoi.
+
+Des chevaliers en armures combattent a cheval, au son des fanfares et des canonnades. L'Empereur et sa cour occupent une tribune en planches. Des hommes d'armes portent des lances; des tentes sont dressees dans la campagne.
+
+Toile.Haut.,1 m.85;larg,3m.10.
+## ECOLE FRANCAISE
+
+(xvine siecle)
+
+(DEUX PENDANTS)
+
+## Decors de theatre.
+
+## Dans l'un: 41
+
+Deux galeries de treillages dores bordent une terrasse ornee de sculptures et de pins tailles. Un mezzetin,un seigneur en habit rose, se promenent.
+
+Au premier plan,deux couples;dans le fond,un bassin a jet d'eau et les deux pavillons d'un chateau.
+
+## Dans l'autre: 42
+
+Les personnages jouent devant un édifice circulaire decore de statues.A droite, des fontaines separees par des rochers;a gauche,un quinconce.
+
+Toiles Haut.,58 cent.;larg,77 cent.
+
+## ECOLE FRANCAISE
+
+(xvile siecle)
+
+## 43 —Un Jeu d'oie.
+
+Les cases d'un jeu d'oie sont disposees autour d'une composition representant des villageois jouant aux cartes dans la campagne.
+
+Bois.Haut.,8cent.;larg.,87 cent.
+## ECOLE FRANCAISE
+
+(xvilre siecle)
+
+## 44 -Portrait d'homme en robe bleue.
+
+Peinture sur metal.
+
+Haut.,12 cent.;larg.,ro cent.
+
+## ECOLE ITALIENNE
+
+(xvie siecle)
+
+## Une Maison de jeu.
+
+Dans une grande salle, aux murs tendus de cuir de Cordoue et ornes de tableaux, de nombreux personnages sont reunis autour des tables, assis ou debout, quelquesuns portant des masques. Les cartes et les pieces d'or se melent a la lueur des chandelles.
+
+Toile.Haut.,1 m.22;larg.,1 m.72.
+
+<!-- image -->
+<!-- image -->
+
+## Aquarelles, Dessins, Gouaches, Pastels
+
+## BALTARD
+
+(LOUIS-PIERRE)
+
+Paris,1764-1846.
+
+46 —Vue du Pantheon.
+
+On remarque, devant le monument, des carrosses et des promeneurs.
+
+Dessin au lavis d'encre de Chine.
+
+Haut.,32 cent.; larg, 41 cent.
+
+## BARBIER-WALBONNE
+
+(JACQUES-LUC)
+
+Nimes,176g-1860.
+
+Scenes de la campagne d'Italie.
+
+47-48
+
+—
+
+Aquarelles signees.
+
+Haut.,28 cent.;larg,40 cent.
+## 50
+
+## BELANGER
+
+(FRANCOIS-JOSEPH)
+
+Paris,1744-1818.
+
+## 49—
+
+## Une Salle de fete.
+
+Une construction, decoree de colonnes, de medaillons,
+
+Des orchestres occupent deux terrasses,a droite et a gauche.
+
+de guirlandes et de figures de danseuses sur des socles, est ouverte par trois portes cintrees donnant acces a une foule de personnages.
+
+Dessin au lavis d'encre de Chine rehausse d'aquarelle.
+
+Haut., 50 cent.; larg, 66 cent.
+
+## BERAIN
+
+(JEAN)
+
+Saint-Mihiel,163g-1711.
+
+## Carrousel des Galans Maures de Grenade, entrepris par Mgr le Dauphin, a Versailles.
+
+Suite de vingt-sept aquarelles,representant des dames et des gentilshommes en costume de gala et montes sur des chevaux caparaconnes; et de deux autres aquarelles, representant un frontispice etun titre ornementes.
+
+Signe:Berain,1685.
+
+Trois aquarelles sont encadrees,mais seront comprises dans le recueil.
+
+Haut.,3g cent.; larg., 27 cent.
+## BLARENBERGHE
+
+(LOUIS VAN)
+
+Lille,1734-1812.
+
+## 51-Les Quais de Bordeaux.
+
+Au premier plan,a droite,un homme de qualite salue deux jeunes femmes. Non loin d'eux, des pretres, des marchands ambulants et des tentes dressees en plein vent. Sous I'une d'elle, une boulangere debite des pains; plus a gauche, un armateur, arrete devant un amoncellement de tonneaux, examine une liste de marchandises. Ca et la,des chariots traines par des chevaux et des beufs. A droite, sur la Garonne, des debardeurs effectuent des chargements, tandis que de nombreux bateaux sillonnent le feuve. Dans la perspective du quai, on apercoit les batiments de la Douane et de la Chambre de Commerce, qui formaient la place Louis XV, construite parl'architecte Gabriel.
+
+Importante gouache, signee en bas, a gauche : I'an
+
+Haut.,28cent.;larg.,63 cent.
+
+Blarenberghe.
+## BONNART
+
+Ecole francaise, xvire siecle.
+
+## 52—Un Essayage.
+
+Le marchand de mode essaie un corsage a une dame debout, au centre;a gauche, une chambriere retient un manteau sur une table-toilette.
+
+Dessin a la plume et au lavis d'encre de Chine.
+
+Haut.,24 cent.;larg,17 cent.
+
+## BOSIO
+
+(JEAN-FRANCOIS)
+
+Monaco,1764-1827.
+
+## 53—Une Guinguette.
+
+Merveilleuses et muscadins dansent dans une salle éclairee par un lustre. Des femmes sont assises sur des chaises et des jeunes gens les lorgnent. A gauche, un orchestre sur une estrade.
+
+Dessin au lavis d'encre de Chine rehausse de blanc.
+
+Haut.,36 cent.;larg.,53 cent.
+
+Cadre en bois sculpte.
+
+## BOSIO
+
+(JEAN-FRANCOIS)
+
+## 54 — Le Restaurant du Bceuf a la Mode.
+
+Au centre, un garcon tombe avec un poulet sur un plat. Dessin au lavis d'encre de Chine.
+
+Haut.,35 cent.;larg.,43cent.
+## BOUCHER
+
+(FRANCOIS)
+
+Paris,1703-1770.
+
+## 55-Venus et lAmour.
+
+La deesse est debout, portant sur l'epaule droite une draperie qu'un amour soutient a ses cotes.
+
+Dessin a la pierre d'Italie rehausse de pastel.
+
+Haut., 37 cent.;larg., 21 cent.
+
+On lit, au verso,une inscription:
+
+《Dessin donne a M. Denis par M. Boucher,peintre de 1'academie Royal en avrille1752.
+## BOUCHER
+
+(FRANCOIS)
+
+## 56-La Sculpture.
+
+Une jeune femme assise regarde un medaillon que lui presente un amour.
+
+Au second plan,la Renommee accoudee sur un fut de colonne.
+
+Dessin a la sanguine.
+
+Haut.,21 cent.;larg.,15cent.
+## BOZE
+
+(JOSEPH)
+
+Martigues,1744-1826.
+
+## —Portrait presume de Madame Royale.
+
+La fillette assise sur un coussin rouge, les cheveux
+
+A gauche,une corbeille de fleurs.
+
+blonds et boucles, vetue d'une robe de mousseline blanche serree a la taille par une ceinture bleue, joue avec des roses.
+
+Pastel de forme ovale.
+
+Haut.,52 cent.;larg.,62cent
+
+Ancienne collection de Bonnefoy,garde-meuble de Trianon.
+## BRONZINO
+
+(CHRISTOPHE ALLORI,ditle)
+
+Florence,1577-1621.
+
+## 58 — Nymphe lutinee par des satyres.
+
+Dessin au crayon noir et a la sanguine.
+
+Signe a droite.
+
+Haut.,22 cent.;larg.,16 cent.
+
+## CARMONTELLE
+
+(LOUIS CARROGIS,dit)
+
+Paris,1717-1806.
+
+## 5g - Portrait de Mll Sainval I'ainee.
+
+Elle est representee debout, devant une colonnade, paniers. Ses cheveux releves et poudres sont ornes de plumes; elle porte un carquois dans le dos et un poi- un bras leve au ciel et l'autre pendant sur sa jupe a gnard a la taille.
+
+Dessin au crayon noir et a la sanguine.
+
+Haut.,3g cent.; larg., 25 cent.
+
+## CARMONTELLE
+
+(LOUIS CARROGIS, dit)
+
+## 6o-La Famille Calas.
+
+La mere, les deux filles avec Jeanne Viguiere, leur bonne servante, le fls et son ami le jeune Lavaysse, representes dans la prison.
+
+Dessin aux crayons de couleurs.
+
+Grave par Delafosse.
+
+Haut., 28 cent.; larg, 40 cent.
+## CARMONTELLE
+
+(LOUIS CARROGIS,dit)
+
+## 61 —Mozart enfant.
+
+L'enfant genie se tient debout et de profil vers la droite, jouant du violon.
+
+Dessin a la sanguine.
+
+Haut.,22 cent.;larg.,15 cent.
+
+On lit, sur la marge,le quatrain suivant :
+
+En voyant son souris perfide, On lecroit enfant delAmour
+
+Et on juge au penchant qui vers les arts le guide, Qu'une Muse la mis au jour.
+
+15May1762
+## COCHIN
+
+(CHARLES-NICOLAS)
+
+Paris,1715-1790.
+
+62-Fete donnee a Versailles pour la naissance de M. le Duc de Bourgogne, le 30 decembre 1751.
+
+Au centre, un arc de triomphe surmonte d'un groupe de femmes presentant les armes de France et ielie,a gauche et a droite,par une galerie de pierre,en forme d'hemicycle, ornee de statues et d'arbustes poses dans des niches. Une foule de curieux circule dans les parterres, autour de deux bassins qui vomissent leurs grandes eaux.
+
+Tres important dessin au lavis d'encre de Chine.
+
+On lit,au bas,a droite :C. N. Cochin. Perot invenit.
+
+Sur le dessin:les armes de France en forme de cul de lampe.
+
+Haut.,4o cent.;larg,go cent.
+
+Grave a l'eau-forte par Marvie. Termine au burin par J.Ouvrie.
+## 64
+
+## COTELLE
+
+(JEAN)
+
+Paris,1645-1708.
+
+## 63 一
+
+## Une Tempete a Marly.
+
+Sur la terrasse du chateau, des personnages s'enfuient; les uns courent apres leur chapeau,les autres tombent;
+
+les manteaux senvolent, les jupes se soulevent.
+
+Aquarelle gouachee.
+
+Haut.,26 cent.;larg.43cen.
+
+## COUSTOU
+
+(NICOLAS)
+
+Lyon,1658-1733.
+
+## Projet de fontaine.
+
+Trois figures de femmes entourent une colonne portant un vase decore de mufles de lions.
+
+Dessin a la pierre d'Italie rehausse de blanc. Signe a gauche.
+
+Haut.,43 cent.;larg,28 cent.
+
+COYPEL
+
+(ANTOINE)
+
+Paris,1661-1722.
+
+## 65- Satire de la Bulle Unigenitus.
+
+Composition allegorique.
+
+Gouache.
+## DARCIS
+
+(LOUIS)
+
+Paris,18o1.
+
+## 66—Un Incroyable.
+
+Debout, de profil a gauche,la main droite appuyee sur sa canne et tenant son chapeau de feutre. Aquarelle.
+
+Haut., 35 cent.;larg.,24 cent.
+
+## DENON
+
+(Le Baron VIVANT)
+
+Givry,1747-1825.
+
+## 67-Portrait de Talma.
+
+En buste, dans le role de Neron. Dessin a la pierre d'Italie rehausse de sanguine. Signe a droite.
+
+Haut., 13 cent.;larg., 11 cent.
+
+## DESRAIS
+
+(CLAUDE-LOUIS)
+
+Paris,1746-1816.
+
+## -Enseigne des grands jardins Tivoli.
+
+## 68—
+
+On lit, sur un baldaquin et sur la tenture qui ornent un buffet, le programme du spectacle.
+
+Dessin a la plume et au lavis de bistre.
+
+Haut.,43 cent.;larg,58 cent.
+## DUPLESSI-BERTAUX
+
+Paris,1747-1813.
+
+## 6g -L'Ecole Militaire.
+
+Des jeunes gens et des jeunes femmes sont arretes devant une grille fermant la cour de l'ecole, ou des soldats se promenent. Des tentes sont dressees a droite et a gauche. Dans le fond, le monument de Gabriel.
+
+Dessin a l'encre de Chine.
+
+Haut.,31 cent.,larg,49 cent.
+
+## EISEN
+
+(CHARLES)
+
+Valenciennes,1720-1778.
+
+## 70 — Projet de monument.
+
+Un medaillon de jeune femme orne une pyramide surmontee d'un vase porte sur un socle decore d'amours et d'attributs.
+
+Dessin au lavis d'encre de Chine.
+
+Haut.,32 cent.;larg.,22 cent.
+## FRAGONARD
+
+(HONORE)
+
+Grasse,1732-1806.
+
+## -Les Jets a'eau.
+
+Des jeunes femmes sont surprises dans leur chambre a coucher par des jets d'eau qui jaillissent de deux lances passees par une trappe. Les unes sont etendues sur leur lit, une autre est montee sur un tabouret, ouvrant une paire de rideaux.
+
+Dans le fond,une jeune femme, accoudee dans un eilde-hoeuf, eclaire la scene avec une lampe. Sous un lit,un petit chien couche.
+
+Dessin a la sepia,grave par Auvray.
+
+Haut.,27 cent.,larg.,38 cen1.
+## FREUDEBERG
+
+(SIGISMOND)
+
+1745-1801.
+
+## 72 -Le Petit jour.
+
+Au milieu d'une elegante chambre a coucher, un fermier general, assis dans une bergere, parle d'un air satisfait a une jeune femme qu'une servante habille d'une robe legere.Derriere elle,une cheminee ornee d'une glace et, a gauche,au fond,un lit a baldaquin defait.
+
+Dessin a la plume rehausse de bistre.
+
+Au bas, sur la marge, le croquis d’un bras de femme dessine au crayon.
+
+Grave par N. De Launay.
+
+Haut.,3g cent.;larg.,22 cent.
+## GERSTMAIER
+
+(JOSEPH)
+
+Ecole allemande, commencement du xix siecle.
+
+73 一 Portrait du Duc de Reichstadt.
+
+Il est debout dans un parc, en costume de hussard autrichien.
+
+Aquarelle gouachee.
+
+Haut.,40 cent.;larg.,2g cent.
+## GRAVELOT
+
+(HUBERT)
+
+16g9-1773.
+
+## 74 -La Partie de cartes.
+
+Quatre personnages sont reunis dans un salon, decore de boiseries et dont la haute fenetre est ouverte sur un parc.
+
+Eau-forte terminee a l'encre de Chine.
+
+Haut.,21 cent.;larg.,18 cent.
+
+## HESSE
+
+(HENRI-JOSEPH)
+
+Paris,1781-1849.
+
+## -Portrait de Talleyrand.
+
+Represente en buste, en habit brode orne des insignes de differents ordres.
+
+Dessin au lavis de bistre rehausse d'aquarelle
+
+Haut.,15 cent., larg.,15 cent.
+## HILAIRE
+
+(JEAN-BAPTISTE)
+
+Ecole francaise,xviln siecle.
+
+DEUX PENDANTS
+
+## 76-Le Jardin du Luxembourg.
+
+A droite,des dames assises sur des chaises de paille regardent des enfants jouant avec un chariot. A gauche, un escalier ouvrant sur un terrasse ou un soldat est accoude.
+
+D'autres promeneurs animent le parc.
+
+Au second plan, s'eleve une aile du palais.
+
+## Le Jardin du Luxembourg.
+
+Il est anime de plusieurs personnages: des dames, des enfants,un soldat；a gauche,la fontaine de Medicis;a droite,les batiments du seminaire de Saint-Louis,couverts d'un toit a la Mansard et en partie caches par un massif d'arbres.
+
+Aquarelles gouachees, signees et datees :1793.
+
+Haut.,37 cent.;larg.,49 cent.
+## HOIN
+
+(CLAUDE)
+
+Dijon,1750-1817.
+
+## -Portrait presume d'Hortense Delannoy. 78
+
+En buste,les cheveux boucles et releves sous un ruban bleu, un fichu sur les epaules,elle regarde vers la gauche. Dessin au crayon noir et a l'estompe rehausse de pastel.
+
+On lit au bas:La devouee Hortense Delannoy,mai- tresse du traitreRobespierre.
+
+Haut.,37 cent.;larg.,26cent.
+
+## HUET
+
+(JEAN-BAPTISTE)
+
+Paris,1745-1811.
+
+(DEUX PENDANTS)
+
+79-8o - Les Singes predicateurs.
+
+L'un, dans un bateau, s'adresse a des cygnes; l'autre, dans une hotte, preche devant un troupeau de dindons. Gouaches de forme octogonale.
+
+Haut., 28 cent.; larg,28 cent.
+
+## HUQUIER
+
+(GABRIEL)
+
+Orleans, 1695-?
+
+## 81 Vue du cabinet de M. de Marigny.
+
+Une large piece sous un haut plafond a poutres apparentes, decoree de nombreux tableaux sur les murs et de consoles.A gauche, le jour entre par une fenetre. Des vases ornent une cheminee sous un trumeau.
+
+Sanguine.
+
+Haut.,35 cent.;larg.,49 cent.
+
+7
+## 84 一
+
+## ISABEY
+
+(JEAN-BAPTISTE)
+
+Nancy,1767-1855.
+
+## 82 Portrait presume du Ducde Penthievre.
+
+Vu presque de face, assis, les mains croisees,il porte une redingote sombre sur un gilet blanc. Son tricorne est pose, a droite, sur une table couverte d'un tapis.
+
+Dessin au crayon noir et a l'estompe rehausse de blanc. Signe a droite.
+
+## JOLY
+
+(ALEXIS-VICTOR)
+
+Paris,1798+?
+
+## 83 -Te Deum dans une eglise.
+
+Au milieu de la nef d'une eglise,on apercoit,entre les colonnades de pierre, un faisceau de drapeaux devant lesquels de nombreux fideles se tiennent.
+
+Gouache.
+
+Signe en bas, a gauche:A. Joly fecit.
+
+Haut.,51 cent.;larg.,38 cent.
+
+## JUILLERA
+
+(J.)
+
+Ecole francaise,xvi siecle
+
+Episode des guerres de la Revolution.
+
+Aquarelle.
+
+Signee et datee : 1797.
+
+Haut., 28 cent.； larg,21 cent.
+
+Haut.,22 cent.;larg.,42 cent.
+## LAJOUE
+
+(JACQUES de)
+
+Ecole francaise,1687-1761.
+
+## 85 --Projet d'une salle de fetes.
+
+Un monument circulaire,a galerie et colonnades, s'eleve au milieu d'un parc. ll est entoure de personnages.
+
+Dessin a la plume, lave d'encre de Chine et d'aquarelle.
+
+Haut.,3o cent.; larg,52 cent.
+
+## LANGENDYK
+
+(THIERRY) Rotterdam,1748-1805.
+
+## 86 -Un Salon sous I'Empire.
+
+Aquarelle.
+
+Signee a gauche, et datee:18o5.
+
+Haut.,24 cent.;larg.,32 cent.
+
+## LARSONNEUR
+
+Ecole francaise, xvin siecle.
+
+## Vue du Palais de Justice,prise sur la cour du May.
+
+On lit,au bas du dessin:
+
+Vue perspective du monument du Palais, sur la cour du May, continue sous le Ministere de M. Joly de Fleury, Ministre d'Etat et des Finances, sous les yeux de M. Debonnaire de Forges, Maistre des Requetes, etc. sur les dessins et conduite de L.Desmaisons,Chevalier de I'Ordre du Roi,Architecte de sa Majeste.
+
+Dessin au lavis d'encre de Chine rehausse d'aquarelle.
+
+Haut.,32 cent.;larg.,3g cent.
+## 06
+
+## LEBARBIER
+
+(JEAN-JACQUES-FRANCOIS)
+
+Rouen,1738-1826.
+
+## 88 -Le Temple de I'Hymenee.
+
+Sous un temple a colonnades, un groupe entoure de personnages represente l'hymen.Un chevalier et une jeune femme se tiennent par la main, devant un autel. Sur un nuage, un genie voltige, portant un bouclier armorie. A droite et a gauche, deux groupes allegoriques.
+
+Haut., 62 cent., larg.,53 cent.
+
+Aquarelle.
+
+## LE GUAY (ETIENNE-CHARLES)
+
+Sevres,1762-1840.
+
+## Portrait de jeune femme.
+
+Vue a mi-corps, tournee de trois quarts a droite, les cheveux releves et boucles,elle estcouverte d'un manteau de soie blanc,orne de fourrure.
+
+Dessin au crayon noir et a lestompe rehausse de sanguine.
+
+Signe a gauche.
+
+Haut.,37 cent.,larg.,25 cent.
+
+## LE GUAY
+
+(ETIENNE-CHARLES)
+
+## La Ruche d'amours.
+
+Une jeune fille fuit devant un essaim d'’amours s'echap- pant d'une ruche.
+
+Dessin a la mine de plomb.
+
+Signe a droite.
+
+Haut.,19 cent.;larg.,23 cent.
+## LE GUAY
+
+(ETIENNE-CHARLES)
+
+## gI -Le Dauphin, fils de Louis XVI.
+
+Il beche dans un jardin, devant un socle supportant un buste de fillette.
+
+Dessin a la mine de plomb.
+
+Signe a gauche.
+
+Haut., 17 cent.; larg, 12 cent.
+
+## LEMOINE
+
+(JACQUES-ANTOINE)
+
+Rouen,1752-1824.
+
+## 92 一 Portrait de jeune femme.
+
+Debout dans un parc, les cheveux boucles et poudres, un bouquet de roses a son corsage vert, elle releve un tablier de mousseline sur son jupon bleu.
+
+Dessin au crayon noir et a la sanguine, lave d’encre
+
+Haut.. 34 cent.; larg., 21 cent.
+
+## LEMOINE
+
+(JACQUES-ANTOINE)
+
+## -La Jeune musicienne. 93
+
+Une jeune femme assise pince du luth. Devant elle, une partition estouverte surunetable.
+
+On lit a droite : Dessine par Lem. a Malmaison, 1779.
+
+Dessin au crayon noir et a l'estompe.
+
+Haut., 37 cent.;larg.,28 cent.
+
+de Chine et d'aquarelle.
+## LEMOINE
+
+(JACQUES-ANTOINE)
+
+## Buste de jeune fille nue,les cheveux 94 一 traverses d'un ruban.
+
+Dessin ovale a la pierre noire et a l'estompe.
+
+Haut.,13 cent.; larg., 10 cent.
+
+## LEMOINE
+
+(JACQUES-ANTOINE)
+
+95-Portrait de Mlle Cretu.
+
+Elle est representee en buste, de profl, dans un medaillon orne de feurs et de lauriers.
+
+On lit sur l'encadrement:Mue Cretu,actrice du spectacle de Bordeau.
+
+Dessin au lavis de bistre.
+
+Haut., 22 cent.; larg., 16 cent.
+
+## LIOTARD
+
+(JEAN-ETIENNE)
+
+Geneve,1702-1788.
+
+## 96 -La Menagere endormie.
+
+Une jeune femme coiffee d'un bonnet, la jupe drapee sur son jupon raye, est assise dans un interieur sur une chaise de bois, accoudee sur une table et sommeillant.
+
+Dessin au crayon noir et a l'estompe rehausse de
+
+Haut., 40 cent.; larg, 29 cent.
+
+sanguine.
+
+Signe et date : 1780.
+## LOUIS
+
+(VICTOR)
+
+Paris,1735-1807.
+
+## 97 - Coupe d'une salle de spectacle.
+
+Composition d’architecture animee de personnages.
+
+Dessin au lavis d'encre de Chine.
+
+Haut.,42 cent.;larg.,57 cent.
+
+## MARTIN
+
+(PIERRE-DENIS)
+
+Ecole francaise,1673-1742.
+
+## 98 Un Parc a la francaise.
+
+Au centre des parterres, on remarque l'architecture de la salle a manger elevee dans les jardins de Trianon. Au premier plan, sur une éminence de terrain, des cavaliers et des carrosses.
+
+Dessin a la plume et au lavis d'encre de Chine.
+
+Haut., 17 cent.; larg.,24 cent.
+## 9一
+
+## MEISSONIER
+
+(E.)
+
+Lyon,1815-18g1.
+
+## Gentilhomme du temps de Louis Xlll.
+
+Marchant de droite a gauche, il frise sa moustache d'une main degantee.
+
+Dessin au lavis de bistre rehausse de blanc.
+
+Signe du monogramme et date: 1878.
+
+Haut.,21 cent.;larg.,1o cent.
+
+## MEISSONIER
+
+(E.)
+
+## Charles Ier.
+
+Figure équestre.
+
+Dessin au lavis de bistre rehausse de blanc.
+
+Signe du monogramme et date: Le Puy,26 septembre
+
+Haut.,23 cent.;larg.,17 cent.
+
+1874.
+
+## 99
+
+## 100
+## MOREAU LE JEUNE
+
+(JEAN-MICHEL)
+
+Paris,1741-1814.
+
+(DEUX PENDANTS)
+
+## Fetes a l'Etre Supreme,le 20 Prairial an 2.
+
+- Iot —La premiere composition represente la foule a l'entree des Jardins des Tuileries, autour du grand bassin. A droite, un char allegorique.
+- 102 La seconde composition represente le Champ de Mars. anime d'une foule innombrable, devant les batiments de l'Ecole militaire.
+
+Dessins au crayon noir rehausse de blanc, sur papier bistre.
+
+Signes a droite des initiales.
+
+Haut.,27 cent.;larg,44 cent.
+## 103
+
+## MOREAU LE JEUNE
+
+(AttribueaJEAN-MICHEL)
+
+## Le Temple de I'Amour.
+
+Au milieu d'un parc immense,au premier plan,un escalier separe par deux terrasses de pierre ornees de statues, au-dessus desquelles des arbres s'elevent en forme de panache.Au fond,un temple rond a colonnades se detache sur un rideau d'arbres aux colorations legeres.
+
+Gouache en maniere de decor.
+
+Haut.,58 cent.;larg,6g cent.
+
+## NATOIRE
+
+(CHARLES-JOSEPH)
+
+Nimes,1700-1777.
+
+104 Femime nue.
+
+Assise sur un lit de repos,le haut du corps tourne vers la droite et appuye sur un coussin.
+
+Dessin a la sanguine rehausse de blanc.
+
+Haut.,3o cent.; larg.,24 cent.
+## NICOLE
+
+(NICOLAS)
+
+Besancon,17o1-1784.
+
+(DEUX PENDANTS)
+
+## 1o5 -Le Pont de I'Hotel-Dieu.
+
+On remarque, sous les arches, des pecheurs a la ligne et des religieuses lavant du linge.
+
+Aquarelle signee a droite et datee:177o.
+
+## 106 -Le Pont Notre-Dame.
+
+Vue de la voute du Petit Chatelet avec son corps de garde.
+
+Aquarelle signee et datee:1770.
+
+Haut.,27 cent.;larg.,43 cent
+
+## NICOLE
+
+(NICOLAS)
+
+## 107 Composition architecturale.
+
+t a galerie et colonnades, s'ouvre une large piscine. Au premier plan, de nombreux
+
+Au centre d'un monument personnages sous une voute.
+
+Aquarelle signee et datee:1780.
+
+Haut.,35 cent.;larg.,5o cent.
+## NICOLE
+
+(NICOLAS)
+
+## 108- La Place du Vatican.
+
+Des carrosses et des cavaliers defilent devant de nom- breux spectateurs.
+
+Lavis de bistre rehausse d'aquarelle.
+
+Signe et date: 1785.
+
+Haut.,35 cent.:larg.,54 cent.
+
+## OUDRY
+
+(JEAN-BAPTISTE)
+
+Paris,1686 1755.
+
+## 601 Vue de l'ile des Cygnes du parc d'Arcueil.
+
+Des cygnes se baignent dans un bassin, devant un bosquet de treillage, orne de statues se detachant sur un fond de parc.
+
+Dessin a la pierre noire rehausse de blanc.
+
+On lit,a gauche: D'apres nature,an 1745.
+
+Haut.,35 cent.;larg.,45 cent.
+## OZANNE
+
+(NICOLAS-MARIE)
+
+Brest,1728-1811.
+
+## 011 Le Grand bassin de Rambouillet.
+
+Le roi Louis XV et la reine Marie Leczinska, entoures de courtisans, vont penetrer dans l'embarcation royale qui doit les mener a la rive opposee, derriere laquelle on apercoit, a l'arriere-plan,le chateau de Rambouillet encadre de charmilles. A gauche, des rameurs accourent;
+
+on voit ca et la quelques personnages se promenant.
+
+Dessin au lavis d'encre de Chine rehausse d'aquarelle.
+
+On lit, en bas,a gauche : par Ozanne laisne, et a droite:en 1764.
+
+Haut.,22 cent.;larg.,45 cent.
+
+## PALLOY
+
+(PIERRE-FRANCOIS)
+
+Paris,1754-1835.
+
+## Plan de la Bastille. III
+
+On lit en haut et a droite, au dessous dune inscription relatant le role du signataire :P. F. Palloy, patriote pour la vie.
+
+Aquarelle.
+
+Haut.,1 m.12;larg.,1 m.28.
+## 112
+
+## 113—
+
+## PAROY
+
+(JEAN-PHILIPPE,Comtede)
+
+Paris,1750-1824.
+
+## 一 La Caverne de brigands.
+
+Des bandits jouent aux cartes, sur le dos d'une malle, le sort d'une jolie captive.
+
+Aquarelle gravee par l'artiste.
+
+Haut.,28 cent.;larg.,45 cent.
+
+## PERCIER
+
+(CHARLES)
+
+Paris,1764-1838.
+
+## Coupe d'une salle de fete.
+
+Un carrosse est arrete devant un monument,ou entrent des personnages pour se livrer au plaisir de la danse.
+
+Dessin a la plume et au lavis d'encre de Chine et de bistre.
+
+On lita droite:Executerue duBouloien18o2.
+
+Haut.,56 cent.; larg.,8o cent.
+## II4
+
+## POYET
+
+(BERNARD)
+
+Paris,1742-1824.
+
+## —La Maison du Duc de Chartres.
+
+Construite au couvent de Bellechasse,pour y elever les deux Princesses, ses filles.
+
+Signe:Poyel,architecte,ancien pensionnaire du Roy, 1778.
+
+Haut.,16 cent.;larg.,20 cent.
+
+## PREVOST
+
+Ecole francaise, xvi siecle.
+
+## 115 -Le Cabaret Ramponeau.
+
+La foule remplit la haute salle, decoree d'enseignes et d'inscriptions humoristiques. Au centre,deux femmes se battent.
+
+On lit,au bas, une inscription en vers, de chaque cote d'un medaillon representant le portrait du tenancier.
+
+Dessin au lavis d'encre de Chine.
+
+Haut.,3o cent.;larg.,4o cent.
+
+Aquarelle.
+## PRIEUR
+
+(FRANCOIS-LOUIS)
+
+Ecole francaise, xvin siecle.
+
+## 6-L'Entree du Roi par l'allee d'honneur
+
+## 116 des Tuileries.
+
+Sous les arbres,a gauche et a droite, la foule court au devant du cortege royal. Dans le fond, on apercoit, derriere les terrasses, les arbres des Champs-Elysees.
+
+Dessin rehausse d'aquarelle
+
+Signe des initiales et date : 1779.
+
+Haut., 23 cent.; larg.,3o cent.
+
+## PRIEUR
+
+(FRANCOIS-LOUIS)
+
+-Le Peuple dansant sur les ruines de 117 la Bastille.
+
+A droite, un arbre de la Liberte.
+
+Aquarelle, signee: P., 1791.
+
+Haut.,26 cent.; larg.,29 cent.
+
+## PRUD'HON
+
+(PIERRE-PAUL)
+
+Cluny,1758-1823.
+
+118 -Jeune femme nue.
+
+Debout et accoudee sur un fut de colonne, les cheveux boucles.
+
+Dessin a la mine de plomb et a l'estompe rehausse de sanguine, non termine.
+
+Haut.,16 cent.;larg.,9 cent.
+## REMBRANDT
+
+(HARMENTZ VAN RYN)
+
+Leyde,1607-1669.
+
+## 611 —Les Premiers pas.
+
+Un homme assis, de profil, tend les mains vers un bebe que soutient sa mere. Dessin a l'encre de Chine.
+
+Haut.,16 cent.1/2;larg.,64 cent.1/2.
+
+## ROBERT
+
+(HUBERT)
+
+Paris,1733-1806.
+
+## 120 Fontaine monumentale.
+
+Deux femmes et un enfant sont arretes au bord d'une vasque en pierre,regardant l'eau couler d'une fontaine, formee de deux figures allegoriques elevees sur un pie- destal.
+
+Aquarelle, signee a droite.
+
+Haut.,38 cent.:larg.,23 cent.
+
+## ROBERT
+
+(HUBERT)
+
+## 121 Temple et escalier monumental.
+
+Devant un temple circulaire,une fontaine jaillit dans une voute entre deux escaliers de pierre ornes de sphinx. A gauche, de grands degres donnant acces a une terrasse. Aquarelle gouachee.
+
+Haut.,35 cent.;larg.,6o cent.
+## ROBERT
+
+(HUBERT)
+
+## 122 -Les Bains romains.
+
+Au milieu d'une voute de pierre supportee par deux colonnes, se dresse la statue de Melpomene. En avant, un escalier de pierre devant lequel deux femmes causent. A gauche et a droite, des groupes assis et debout.
+
+Dessin a la sepia rehausse d'aquarelle.
+
+Haut., 22 cent.; larg,3o cent.
+
+## ROBERT
+
+(HUBERT)
+
+123-La Terrasse.
+
+Plantee de peupliers,elle domine un large fosse ou l'on remarque plusieurs personnages parmi des ruines. Dessin a la sanguine.
+
+Haut.,40 cent.;larg.,34 cent.
+
+## ROBERT
+
+(HUBERT)
+
+## 124 Ruines du temple de Serapis.
+
+Elles sont baignees par un cours d'eau borde d'arbres.
+
+Dessin a la sanguine.
+
+Signe au centre.
+
+Haut.,34 cent.;larg.,45 cent.
+## ROBERT
+
+(HUBERT)
+
+## 125 - Vue d'une ville italienne.
+
+Devant une terrasse e portant une colonnade demicirculaire, deux hommes remuent un baquet. Dessin a la sanguine.
+
+Haut.,22 cent.;larg.,52 cent.
+
+## ROBERT
+
+(HUBERT)
+
+126 -Vue d'un monument de Rome.
+
+Des masures entourant une cour cachent les soubasse- ments d'un palais.
+
+Dessin a la sanguine, date: 1763.
+
+Haut., 46 cent.; larg.,34 cent.
+
+## ROBERT
+
+(HUBERT)
+
+## 127 - Ruines romaines.
+
+Au centre,une colonnade demi-circulaire.Au premier plan, une cascade, des rochers et des broussailles.
+
+Dessin a la sanguine.
+
+Haut.,3g cent.;larg.,53 cent.
+## SAINT-AUBIN
+
+(AUGUSTIN DE)
+
+Paris,1736-1807.
+
+128 - Fete de nuit sur la place Louis xV.
+
+La foule accourt sur le passage du Roi, sur la place illuminee. Dans le fond, les deux batiments de Gabriel brillent sous le ciel sombre.
+
+Dessin au lavis d'encre de Chine.
+
+Haut.,28 cent.;larg, 49 cent.
+## 129
+
+## SAINT-AUBIN
+
+(AUGUSTIN DE)
+
+## Portrait de Mlle Dugazon.
+
+Vue de profl a gauche, ses cheveux frises traverses d'un ruban bleu tendre.Elle est vetue d'un corsage rose cendre, surmonte d'un fichu de mousseline blanc. Un bouquet de roses est pique sur le sein gauche.
+
+Dessin de forme ovale a la pierre noire rehausse d'aquarelle.
+
+Haut.,2o cent.;larg.,18 cent.
+## SAINT-AUBIN
+
+(Attribue a AUGUSTIN DE)
+
+130 一 Vue du chateau etdu parc de Versailles, prise devant le bassin de Latone.
+
+Des promeneurs animent les allees du parc. En haut et au centre de la composition,les armes du Marquis de Marigny et une banderole portant la dedicace au Directeur des Batiments du Roi.
+
+Dessin a la pierre d'Italie.
+
+Haut.,27 cent.; larg.,64 cent.
+
+## SAINT-AUBIN
+
+(GABRIELDE)
+
+Paris,1724-1780.
+
+## 131 - Une Galerie de sculptures.
+
+Vue en perspective, animee de visiteurs.
+
+Dessin au lavis d'encre de Chine et de bistre.
+
+Haut.,15 cent.;larg.,24 cent.
+
+## SAINT-AUBIN
+
+(GABRIEL DE)
+
+## 132 - Allegorie a la gloire du Roi.
+
+Le Roi est entoure d'une foule de personnages. On remarque dans le fond le Palais de Justice et la SainteChapelle.
+
+Dessin au lavis de bistre et d'encre de Chine rehausse de blanc.
+
+Haut., 18 cent.; larg.,27 cent.
+## SERGENT-MARCEAU
+
+(ANTOINE-FRANCOIS)
+
+Chartres,1751-1847.
+
+## 133 — La Charge du Prince de Lambesc.
+
+Le regiment  Royal Allemand  charge la foule a l'entree des Tuileries,le 12 juillet 1789.
+
+Aquarelle signee a droite.
+
+Gravee en couleurs par l'artiste en 1789.
+
+Haut., 18 cent.; larg., 13 cent.
+
+## SERGENT-MARCEAU
+
+(ANTOINE-FRANCOIS)
+
+(DEUX PENDANTS)
+
+## 134 —L'Arrivee du Roi a Paris.
+
+- Vue du Louvre au moment de l'arrivée du Roi a Paris, le
+
+17 Juillet 1789,a 6 heures apres midi, escorte d'un grand nombre de citoyens qui l'accompagne a l'Hotel de Ville.
+
+## 135 —La Charge de Lambesc.
+
+Le Prince de Lambesc etant entre au Tuilleriesa la teted'un detachement Le Royal Allemand,le 12Juillet 1789,a 7 h. du soir,il met en fuite les citoyens qui s'y promenaient et sabrenten sortant un vieillard qui se trouvait sur son passage.
+
+Aquarelles gouachees.
+
+Haut., 39 cent.; larg., 51 cent.
+
+## SERGENT-MARCEAU
+
+(ANTOINE-FRANCOIS)
+
+## 136 - La Prise de la Bastille.
+
+Frontispice pour illustrer un ouvrage. Dessin au lavis d'encre de Chine.
+
+Grave par Sergent-Marceau.
+## SINGLETON
+
+Ecole anglaise,xvme siecle.
+
+## 137-La Prise de la Bastille.
+
+Devant la porte detruite de la forteresse,un officier des gardes est foule aux pieds par les assaillants qui dirigent la gueule de leurs canons sur la prison.Des femmes,des enfants se ruent sur les royalistes.A travers d'epaisses fumees apparait la Bastille.
+
+Aquarelle.
+
+Grave par W.Nutter.
+
+Haut.,47 cent.;larg.,58 cent.
+
+## THEVENIN
+
+(CHARLES)
+
+Paris,1764-1838.
+
+## 138 -La Prise de la Bastille.
+
+αDe Launay， gouverneur de la forteresse, frappe par le peuple,meurt,victime du devoir. Au milieu d'une bataille indescriptible,le peuple, ivre de sang,massacre a coups de baionnettes les soldats du Roi:les canons vomissent leur feu de revolte contre la forteresse,tandis que les batiments deviennent la proie des fammes.
+
+Dessin a la plume,rehausse d'aquarelle et de gouache. Grave par Thevenin.
+
+Haut.,47 cent.;larg.,58 cent.
+## 141
+
+## TRINQUESSE
+
+(LOUIS)
+
+Ecole francaise,xvill siecle.
+
+## 13g -Jeune femme lisant une lettre.
+
+Assise dans un fauteuil, un pied appuye sur un tabouret, une jeune femme a les yeux baisses sur un billet qu'elle tient de la main droite.
+
+Dessin a la pierre d'Italie rehausse de blanc.
+
+Haut.,28cent.;larg.,22 cent.
+
+## TRINQUESSE
+
+(LOUIS)
+
+## 140 -La Bascule.
+
+D'elegants personnages se divertissent dans un parc, au clair de la lune.
+
+Dessin a la plume et au lavis de bistre rehausse de blanc.
+
+Haut.,41 cent.;larg.,26 cent.
+
+## VAILLANT
+
+(WALLERANT)
+
+Lille,1623-1677.
+
+## —Portrait de la Duchesse de Longueville.
+
+Vue a mi-corps dans un medaillon de pierre, en robe jaune decolletee,les cheveux boucles.
+
+Pastel.
+
+Signe a droite et date:1665.
+
+Cadre en bois sculpte.
+
+Haut., 33 cent.; larg., 27 cent.
+142
+
+## VIGNON
+
+(PIERRE)
+
+Ecole francaise,xvill siecle.
+
+## -Vue d'une eglise.
+
+Elle est ornee d'un portique a colonnades, dominant une place publique ou de nombreux personnages vont et viennent.A droite,l'eventaire d'une marchande de soupe.
+
+Aquarelle.
+
+Signee a droite.
+
+Haut.,41 cent.;larg..65 cent.
+
+## WITT
+
+(JACQUES DE)
+
+Amsterdam,1695-1754.
+
+143—Le Printemps.
+
+144 一 L'Ete.
+
+145 L'Automne.
+
+Compositions allegoriques pour plafonds.
+
+Dessins au lavis de bistre ou d'encre de Chine,rehausses d'aquarelle.
+
+Signes.
+
+Haut., 26 cent.; larg.,37 cent.
+## 147
+
+## ECOLE ALLEMANDE
+
+(xvine siecle)
+
+## -La Salle de jeu.
+
+Des joueurs se querellent et se battent; a gauche,un hallebardieret des hommes d'armes entrent par une porte. Dessin au lavis d'encre de Chine.
+
+Haut.,28 cent.;larg.,42 cent.
+
+## ECOLE ANGLAISE
+
+(Fin du xvue siecle)
+
+## Vue d'un parc anglais.
+
+Des cavaliers et des promeneurs suivent une route autour d'une piece d'eau.
+
+Dans le fond, un monument surmonte d'un campanile.
+
+Aquarelle signee sur une barriere.
+
+On lit sur la balustrade:Paddington.
+
+Haut.,3o cent.;larg.,23 cent.
+## ECOLE FLAMANDE
+
+(Fin du xvie siecle)
+
+148 - Festin dans les parterres d'un chateau,en contre-bas d'une terrasse ou jouent des musiciens.
+
+Gouache, signee en bas, a droite, et datee: F. D. 159o.
+
+Haut., 12 cent.; larg., 16 cent.
+
+Cadre Louis XIll, en bois sculpte et dore.
+
+## ECOLE FRANCAISE
+
+(xvne siecle)
+
+149 —La Toilette.
+
+Dans le vestibule d'un palais ouvrant sur un parc,une jeune femme est debout devant une table-toilette;elle se laisse coiffer par une suivante, pendant qu'elle regarde deux amours:l'un,lui presentant un medaillon du roi Louis XIV, et l'autre pincant une lyre.
+
+Dessin a l'encre de Chine.
+
+Haut.,35 cent.;larg,44 cent.
+
+## ECOLE FRANCAISE
+
+(xvire siecle)
+
+15o-Reunion de gentilshommes a l'entree d'un palais donnant sur une cour.
+
+Gouache.
+
+Haut.,12 cent.;larg.,1g cent.
+
+Cadre Louis XIlI en bois sculpte et dore.
+## ECOLE FRANCAISE
+
+(xvire siecle)
+
+## 151 Costumes.
+
+Un seigneur vetu de rouge. Une dame de qualite vetue de rose. Un seigneur vetu de gris.
+
+Une dame de qualite vetue de jaune. Aquarelles.
+
+Haut., 14 cent.; larg., 10 cent.
+
+Cadre en bois sculpte.
+
+## ECOLE FRANCAISE
+
+(xviIe siecle)
+
+## 152 2-L'Offrande a I'Amour.
+
+Une jeune.et charmante femme, vetue d'une robe de soie bleue, vient de deposer des roses sur la statue de l'Amour et lui prend en echange une feche qu'elle enleve de son carquois. Des roses tremieres encadrent cette scene qui se detache sur le fond d'un parc.
+
+Gouache.
+
+Haut.,32 cent.;larg.,26 cent.
+
+## ECOLE FRANCAISE
+
+(xville siecle)
+
+## 153 —Le Retour de la chasse.
+
+Une chatelaine, assise a droite de la terrasse d'un cha- teau, recoit ses invites qui rentrent de la chasse. Gouache.
+
+Haut., 20 cent.; larg., 36 cent.
+## ECOLE FRANCAISE
+
+(xvie siecle)
+
+Un Parc.
+
+Deux allees de peupliers bordent un bassin rectangu- laire, anime de bateaux, ou prennent place des dames et des gentilshommes.A droite et a gauche, des promeneurs; dans le fond, un pavillon.
+
+Aquarelle.
+
+Haut.,23 cent.; larg.,39 cent.
+
+## ECOLE FRANCAISE
+
+(xvie siecle)
+
+155 Un Bal pare.
+
+Une elegante societe, paree et costumee, est assise a droite et a gauche, dans un salon regardant un couple danser au son d'un orchestre.
+
+Aquarelle gouachee.
+
+Haut., 23 cent.; larg.,32 cent.
+
+## ECOLE FRANCAISE
+
+(xvile siecle)
+
+## 156-Une Fontaine monumentale.
+
+Elle s'eleve dans un parc orne de charmilles. Au premier plan, des personnages.
+
+Aquarelle gouachee.
+
+Haut., 53 cent.;larg.,36 cent.
+## ECOLE FRANCAISE
+
+(xvilre siecle)
+
+## 157—La Visite a l'atelier.
+
+Un artiste,vu de dos, est assis devant son chevalet; un gentilhomme, en habit bleu,lorgne une jeune femme nue assise sur une chaise longue. A droite, un autre personnage coiffe d'un tricorne.
+
+Pastel de forme ovale, sur velin.
+
+Haut.,53 cent.;larg.,41 cent.
+
+## ECOLE FRANCAISE
+
+(xvine siecle)
+
+## 158—Les Rendez-vous.
+
+D'elegants personnages se promenent, au clair de lune, dans un parc a la francaise, orne de statues. Pastel.
+
+Haut.,28 cent.;larg.,37 cent.
+
+## ECOLE FRANCAISE
+
+(xv siecle)
+
+## 159 -L'Allemande,chez Rugieri.
+
+Un couple fait apprecier une danse aux spectateurs reunis devant un decor d'architecture.
+
+A droite,un orchestre.
+
+On lit, au bas :L'Allemande, che Rugieri,devant le Palais du Soleil.
+
+Dessin a la plume.
+
+Haut., 16 cent.;larg.,25 cent.
+## ECOLE FRANCAISE
+
+(xvile siecle)
+
+## 160 - Hotel de Thelusson,en construction
+
+## a Paris.
+
+A gauche, le portail de l'hotel sous lequel passe une voiture.Au centre,a droite, des macons construisent le mur de cloture;un chariot attele de quatre chevaux porte des madriers. Au fond, les pavillons relies aux galeries.
+
+Dessin rehausse d'aquarelle.
+
+Haut.,35 cent.;larg.,68 cent.
+
+## ECOLE FRANCAISE
+
+(xvile siecle)
+
+## 16r - Figures de la Comedie-Francaise.
+
+Mlle Dumesnil et M. Lekain dans Jocaste et Edipe.
+
+M.Mole et Mlle Sainval dans Andromaque et Pyrrhus.
+
+M.Lekain dans Edipe.
+
+M.Preville dans Crispin,medecin.
+
+Mlle Dumesnil dans Elisabeth, du Comte d'Essex.
+
+Mlle Clairon dans Diane,de l'opera de Sylvie.
+
+M.Preville dans M.Leblanc,de la Fille Capitaine.
+
+M.Brisard dans Zopir,de Mahomet.
+
+MM.Preville etAuge dans Me Sangsue et M.Brigan- deau,du Mercure Galant.
+
+Mlle Dumesnil et M.Mole dans Merope et Egiste.
+
+M.Lekain dans Gustave.
+
+Une artiste dans Electre, d'Oreste.
+
+Quatorze compositions sur velin, a laquarelle, rehaussees d'or, dans le meme cadre.
+## ECOLE FRANCAISE
+
+(xv siecle)
+
+## 162 Figures de la Comedie Italienne.
+
+Mme Favart dans la Vieille, de la Fee Urgel.
+
+M. Clairval dans le chevalier Robert, de la Fée Urgel.
+
+M.Laruette dans Pierre Leroux, de Rose et Colas.
+
+M.Cailleau dans Werstem.
+
+M. Carlin dans Arlequin, du Prince de Salerne, acte 1er.
+
+M.Carlin dans Arlequin en voleur,a Art voleur,
+
+Prevost et Juge.
+
+M. Carlin en Arlequin.
+
+Arlequin en deuil de son maitre, dans le Vieillard amoureux.
+
+Cinq artistes en gentilshommes.
+
+Treize aquarelles sur velin, dans le meme cadre.
+
+## ECOLE FRANCAISE
+
+(xvile siecle)
+
+## 163 3- Figures d'Operas.
+
+M. Legros et Mle Arnould dans Castor et Pollux. Mlle Duplan jouant le role de Medee, dans Thesee. MM.Vestris pere et fils et Mlle Guimard dans le ballet d'Endymion.
+
+M. Gelin et Mle Durancy dans Castor et Pollux.
+
+Quatre compositions sur velin a l'aquarelle,rehaussees d'or, dans le meme cadre.
+## ECOLE FRANCAISE
+
+(xvi siecle)
+
+## 164 - Figures du theatre de Drurylane.
+
+M.Garrick dans King Richard. M.Garrick dansJohn Brute. MM.Weston et Garrick dans Scrub et Archer. MM. Barry et Garrick dans Violante et D. Felix.
+
+Quatre compositions sur velin a laquarelle, dans le meme cadre.
+
+## ECOLE FRANCAISE
+
+(xvie siecle)
+
+## 165 - Figures de ballet.
+
+Un saint Pierre dansant et une soupirante en bleu. Un danseur et une danseuse en rose et noir. Un Chinois et une Chinoise. Six aquarelles dans le meme cadre.
+
+## ECOLE FRANCAISE
+
+(xville siecle)
+
+## 166 - Figures de ballet.
+
+Un Turc et une bayadere.
+
+Un paysan et une paysanne en bleu. Un danseur et une danseuse orange. Six aquarelles dans le meme cadre.
+## ECOLE FRANCAISE
+
+(xvilIe siecle)
+
+## 166bis  Figures de ballet.
+
+Un danseur et une danseuse vetus de rose. Un danseur et une danseuse vetus de bleu.
+
+Un bacchant et une bacchante. Six aquarelles dans le meme cadre.
+
+## ECOLE FRANCAISE
+
+(xvIe siecle)
+
+## 167-La Promenade en foret.
+
+Deux jeunes femmes en toilette decolletee suivent un sentier.
+
+Dessin a la plume et au lavis de bistre.
+
+Haut.,32 cent.;larg,43 cent.
+
+## ECOLE FRANCAISE
+
+(Commencement du xixe siecle)
+
+## 168 -Le Passage des Varietes.
+
+Il est rempli de promeneurs circulant devant les magasins dont on remarque les enseignes.
+
+On lit, en haut : Theatre des Varietes. Aquarelle.
+
+Haut.,24 cent.; larg.,16 cent.
+## ECOLE FRANCAISE
+
+（Premiere moitie du xixe siecle)
+
+-691
+
+—Vue du pavillon de Flore, prise des bords de la Seine, pres du pont Royal. Aquarelle.
+
+Haut.,34 cent.; larg,5o cent.
+
+## ECOLE HOLLANDAISE
+
+(xvine siecle)
+
+170 L'Entree d'une bourse de Commerce.
+
+Gouache.
+
+Haut., 13 cent; larg., 19 cent.
+
+Cadre Louis XIlI en bois sculpte et dore.
+
+<!-- image -->
+<!-- image -->
+
+## OBJETS D'ART &amp; D'AMEUBLEMENT
+
+## FAIENCES &amp; PORCELAINES
+
+- I— PoT A EAU ET BAssIN en ancienne faience de Mous171
+
+tiers : paysages animes et guirlandes.
+
+Hauteur du pot,22 cent.
+
+- 172 - Deux GRANDs vAsEs avec couvercles en ancienne faience de Marseille, fabrique de la veuve Perrin, presentant des reserves contenant des paysages animes et se detachant sur un fond marbre,charge de fleurs et de fruits en ronde bosse.
+
+Haut., 6o cent.
+
+- 173 3— CHAIsE PERcEE en ancienne faience de Rouen,decor bleu a lambrequins.
+
+Haut.,47 cent.
+
+- bourg, a decor de grosses fleurs. Au revers de lun
+
+Diam.,49 cent.
+
+- d’eux, la marque de Hannong.
+- 175 -Deux coMpoTIERs en ancienne faience de Delft, decores chacun d'un monogramme timbre d'une couronne de comte, au milieu de feuillages avec lambre-
+- quins a la chute. Au revers, la marque de Pynacker.
+
+Diam.,22 cent.
+- 176 —Deux vasEs de pharmacie a deux anses en ancienne faience d'Urbino, a decor de grotesques, d'un cote, de feuillages en camaieu bleu, de Iautre.
+
+Haut.,32 cent
+
+- 177 — Deux FLAMBEAux en ancienne porcelaine de Chine, decores en bleu avec armoiries polychromes.
+
+Haut., 24 cent.
+
+- 8— THEIERE ET sUcRIER avec couvercles,dix tasses et huit soucoupes, en deux modeles, aux armes de la Du Barry. Ancienne porcelaine de la Compagnie des
+
+Hauteur de la theiere,14 cent.
+
+- 178 Indes.
+- 179 - GroupE en ancienne porcelaine de Frankenthal : scene galante a deux personnages, occupes a boire sous un bosquet.
+
+Haut.,31 cent.
+
+- 18o —Deux sTATuETTEs en ancienne porcelaine de Louisbourg, representant: lune, Minerve; lautre, la Venus au dauphin.
+
+Haut., 2g cent.
+
+- 18t - AssiETTe en ancienne porcelaine tendre de Sevres, au chiffre de la Du Barry, avec decor de vases et guir-
+- landes au marli.
+
+Diam.,24 cent.
+
+- GRoupe en ancien biscuit de Sevres :le Jaloux, composition de trois personnages groupes autour d'un
+
+Haut.,25 cent.
+
+- 182 socle. Marque de Fernex.
+- 183 — GroupE en ancien biscuit de Sevres: satyre,bacchantes et enfants.
+
+Haut.,23 cent.
+- 184 — Deux Groupes en ancien biscuit de Sevres, personnifiant l'Ete et lAutomne. Marque de Le Riche.
+
+Haut., 24 cent.
+
+- 185 - GRAND GRouPE en ancien biscuit:la Naissance de Bacchus.
+
+## MINIATURES
+
+- 186 -MINIATuRE oblongue:portrait de femme, a mi-corps,
+- vetue de noir et tenant une perruche. Epoque Regence.
+
+Haut., 55 millim.;larg.,7o millim.
+
+- 187 - MinIATuRE ronde:portrait de Marie-Antoinette dauphine, en buste, vetue d'un corsage decollete, un ruban
+- rose au cou. Fin de I'epoque Louis XV.
+
+Diam.,5 cent.
+
+- 188 - MINIATuRE ronde,representant Camille Desmoulins et Lucile aupres d'un clavecin. Miniature non terminee, par Leguay (Etienne-Charles Leguay,né en 1762).
+
+Diam.,8cent.
+
+- 189 —MiniATuRE ronde:portrait de femme,a mi-corps, vetue de blanc avec chapeau releve, ceinture bleue et
+- écharpe noire. Fin de I'epoque Louis XVI.
+
+Diam.,7 cent.
+
+- 19o - MiniaTuRE ovale: portrait de femme en corsage rose
+- decollete.Epoque Louis XVI.
+
+Haut.,35 cent.
+
+Grand diam., 45 millim.
+- I9I— MINIATuRE ovale: portrait de femme en corsage bleu avec écharpe de dentelle noire et coiffure de mousseline. Epoque Louis xVI.
+
+Grand diam., 4o millim.
+
+- 192—MiNIATuRE ovale,portrait de femme en buste,vetue d'un corsage bleu a rubans blancs; cheveux poudres retenus par un ruban. Signee: H.D.,1785. Epoque
+- Louis XVI.
+
+Grand diam., 65 millim.
+
+- 193—PETITE MINIATURE ovale, portrait de femme en corsage marron,les cheveux poudrés,avec ruban bleu et plume
+- blanche.Epoque LouisXVI.
+
+Grand diam., 55 millim.
+
+- 194 —MiNIATuRE ronde,portrait de femme en buste,vetue
+- d'un corsage noir, les cheveux defaits; fond de paysage. Epoque revolutionnaire.
+
+Diam., 65 millim.
+
+- 195MINiATuRE, portrait d'officier en habit bleu, a collet et épaulettes rouges, et parements blancs. Epoque
+- revolutionnaire.
+
+Diam., 65 millim.
+
+- 196—MINIATuRE ronde, jeune femme assise et jouant du clavecin; elle est vetue d'un corsage bleu et coiffee d'une couronne de roses. Par Bouton. Fin du xvinne siecle.
+
+Diam.,75millim.
+
+- 197 - MinIATuRE ronde : portrait de femme a mi-corps,
+- vetue d'un corsage raye bleu et coiffee d'un bonnet a deux rangs de perles, par Marco Gabicchia. Fin du xvVIll siecle.
+
+Diam.,7 cent.
+- 198  MiniATuRE ovale : portrait d'homme en habit rouge. Fin du xvine siecle.
+
+Grand diam.,45millim.
+
+- 199 — MINIATuRE ovale:portrait de jeune femme vetue de blanc avec ceinture bleue et s'appuyant sur des volumes.
+- Fin du xvilr siecle.
+
+Grand diam.,75 millim.
+
+- 200 — PeTITE MINIATURE ovale:portrait de jeune officier en
+- buste, portant une tunique bleue a collet rouge. Fin du xvlle siecle.
+
+Grand diam.,25 millim.
+
+- 201 — MiNIATURE ronde :portrait d'homme en buste,en
+- habit bleu a parements rouges. Fin du xvin siecle.
+
+Diam.,6 cent.
+
+- 202 —MiniATuRE ronde:portrait de femme en corsage gris avec fichu blanc; fond de verdure. Fin du xvine siecle.
+
+Diam.,6 cent.
+
+- 203 —MINIATuRE ronde:portrait de femme en buste, des roses dans les cheveux,vetue d'une chemisette couverie d'une tunique violette. Fin du xvinr siecle.
+
+Diam.,7 cent.
+
+- 204 —MiniATuRE par Fontallard:portrait de jeune femme,
+- portant une écharpe mauve sur un corsage blanc; un foulard, mauve également, est noue autour de sa tete. Fin du xvine siecle.
+
+Diam.,6 cent.
+
+- 205 — MiniATuRe ronde : portrait d'homme en buste, vetu d'un habit noir avec cravate blanche. Commencement du xixe siecle.
+
+Diam.,5 cent.
+- 206 —MINIATuRE ovale de l'école d’Isabey, portrait presume
+- de la comtesse de Kercado, en buste, des feurs dans les cheveux,un grand voile sur la tete.
+
+Grand diam., 14 cent. Petit diam.,11 cent.
+
+## OBJETS DIVERS
+
+- 207-TABaTIERE plate en or guilloche, du commencement
+- du xixe siecle; bordures de rinceaux ciseles.
+
+Long,6 cent.
+
+- 208-BorrE en racine, decoree d'une miniature, vue de
+- port de mer; avec double fond, contenant une autre miniature :le Roman dangereux. Aurait appartenu a Beaumarchais.
+
+Diam., 8 cent.
+
+- 20g— TaBATIeRE en ecaille, ornee d’un fixe : vue de port
+
+Long., 65 millim.
+
+- 210 -QuiNzE BouToNs peints sous verre,a decor d’em-
+- blemes. Epoque revolutionnaire.
+- de mer.
+
+Diam.de l'un,35 millim.
+
+- 211 - AnNEAu d'argent aux effigies de Lepelletier et de
+- Marat, executees sur cuivre, avec les inscriptions : Marat,martir de la liberte—Lepelletier,martir de la liberte.
+
+Diam.,2o millim.
+- 212 — MeDAILLoN en verre, presentant, en bas-relief,un buste d'officier de profil, execute en cire de couleur.
+
+Diam., 14 cent.
+
+- Epoque Louis XVI.
+- 213—MEDAILLoN rond en schiste,presentant, en bas-relief,
+
+Diam.,II cent.
+
+- un buste de femme de profil, vetue d'un corsage decollete, execute en cire de couleur.
+- 214 -Deux seaux en argent en forme de vases avec couvercles; decor de feuillages au culot. Travail d'Amster-
+
+Haut.,31 cent.
+
+- 215 —NeF en argent, montee sur roulettes et ornee de per-
+- sonnages et de canons. Travail hollandais.
+
+Haut.,44 cent.
+
+- 216 — SucrIer en argent dore avec couvercle, decore de guirlandes, et sur trois pieds ornes de tetes de boucs. Travail anglais.
+
+Haut.,15 cent.
+
+- 217-PeTIT MoNuMENT en forme de rotonde sur plan hexagonal, plaque d'ivoire sculpte; dome a imbrications, decor de feuillages et guirlandes. Travail italien de la fin du xvr siecle.
+
+Haut.,45 cent.
+
+- 218 -CarTEL porte-montre en bois et carton peints et
+
+Haut.,28 cent.
+
+- dores, a decor de rocailles, avec mascaron en haut; a la partie interieure,figure de genie assis sur un trophee d'etendards avec cartouche aux armes de France. Epoque Regence.
+- dam.Fin du xvile siecle.
+- 219—BAROMETRE-THERMoMETRE du temps de Louis XVI, en bois sculpte et dore, a decor de branches de laurier, guirlandes de fleurs,rubans, attributs de musique et
+- couronnes de feuillages.
+
+Haui.,1m.23
+
+- 220 —Deux sTATuETTEs allegoriques en bois sculpte,peint et dore;anges debout portant sur la tete des cornes d'abondance.Italie,xvin siecle.
+
+Haut.,1m.40,
+
+- 221—RaPEA TABAc enivoire sculpte,presentantune femme
+- a sa toilette, au milieu des rochers. Epoque Regence.
+
+Long.,2I cert.
+
+- 222—MEDAILLoN en platre:Mm Vigee-Lebrun, vue de
+- profil,en buste,par Chaudet. Encadre.
+
+Diam.,12 cent.
+
+- 223 -Ecriroire composee dun plateau dancienne laque dans une monture en bronze, avec trois recipients en forme de vases et double porte-lumiere egalement en
+- bronze.
+
+Larg., 5o cent.
+
+- 224 — BorTe a jetons decoree au vernis :allegorie de la Fortune sur fond vert.Elle contient quatre boites en ivoire, ornees de sujets tires des Fables de La Fontaine. xvile siecle.
+
+Larg., 1g cent.
+
+- 225 —AuTRE BoITe a jetons en bois decore au vernis, contenant quatre petites boites; decor a sujet galant sur la grande boite; entants personnifiant les Saisons sur les petites.
+
+Larg.,18 cent.
+- 226 —VAsE-BALusTRE avec couvercle en bronze et émail cloisonne, a motifs irreguliers sur fond bleu; anse a
+
+Haut.,27 cent.
+
+- torsade.Ancien travail chinois.
+- 227 - BRAsERo en cuivre sur trois pieds griffes. Travail
+
+Diam.,6o cent.
+
+- espagnol.
+- 228 —SaMovAr de forme spherique,en cuivre patine et dore,a anses mufles de lions. Epoque du Premier Empire.
+
+Haut.,45 cent.
+
+- 229 — Deux LANTErNEs dapparat en fer repousse et dore, decorees de figures de cherubins et surmontees de l'eten-
+- dard de Saint-Marc.Venise, xvir siecle. Hampes en bois.
+
+Hauteur des lanternes,I m.1o.
+
+- 230 -TroIs GRoUPEs DE soLDATs de plomb du xvIn1e siecle. Haut.,3 cent.
+- 231-232 -Deux PETITs cANoNs en bronze,a decor de trophees et armoiries, sur affuts en bois garnis de fer. xville siecle.
+
+Longueur totale,I m.25.
+
+- 233 -SaBrE a garde de bronze composee d'emblemes revolutionnaires:fusee formee d'un faisceau de licteur surmonte d'un bonnet phrygien; branches de garde a feuilles de chene; coquille presentant la Declaration des Droits de I'homme et l'acte constitutionnel de la Republique francaise,Fourreau offrant des emblemes varies.
+
+Iong., I m.o6.
+
+- 234 —TroMPETTE allemande,signee:Philipp Scholler in Minchen,avec pavillon en soie et broderie d'argent aux armes d'Empire.xvine siecle.
+
+Long.,75 cent.
+- 235 -- TAMBouR orne d'une armoirie avec la date 1621.
+
+Haut.,37 cent.
+
+- 236 -GRAND TAMBouR orne d'un écusson aux armes de Baviere. xvie siecle.
+
+Haut.,5o cent.
+
+- 237 — Harpe en bois sculpte, peint et dore, a decor de personnages, feurs et attributs. Epoque Louis XVI.
+
+Haut.,1 m.60.
+
+- 238 —- CLavEcin a caisse peinte a decor de figures, feurs et rocailles sur fond or.L'interieur du couvercle presente l'Enlevement d'Europe, composition de nombreux amours, tritons et nereides. Table d'harmonie ornee de fleurs. xvil siecle.
+
+Long,2 m.25; larg.,05 cent.
+
+- 239 - CHAIsE A PoRTEuRs peinte sur toile,monture en bois
+- dore, decor de marines, fleurs et attributs sur fond rose. Epoque Louis Xv.
+
+Haut.,1 m.65.
+
+- bois sculpte et dore. Elle presente des figures mythologiques, des feurs, des armoiries et des rocailles sur fond bleu. Epoque Louis XV.
+
+Haut., I m.75.
+- 242 —HauT-RELiEF en marbre blanc:Alexandre le Grand Composition de cinq personnages, fond architectural.
+- faisant peindre sa maitresse Campaspe par Apelle. Ecole francaise du xvill siecle.
+
+Haut.,85 cent.；larg.,7o cent.
+
+- 243 —Deux JARDINIEREs oblongues, en marbre breche violette,munies de deux anses a tetes de satyres,et ornees d'un trophee d'attributs ainsi que de volutes. Elles reposent sur quatre pieds de biches. xvi siecle. Provenant du chateau de Meudon.
+
+Haut.,85 cent., larg., 8o cent.
+
+- 244 —- BusTe en marbre blanc, grandeur nature, d’empe-
+- reur romain,une draperie sur les epaules,la tete legerement tournee. Travail italien du xvinr siecle.
+
+Haut.,84 cent.
+
+- 245 -BtsTe de femme, grandeur nature,a tete de marbre blanc et chlamyde de marbre de couleurs. Travail italien du xvine siecle, d'apres l'antique.
+
+Haut., 67 cent.
+
+- 246  BusTe de femme en marbre blanc, grandeur nature. Elle est vetue a l'antique et porte une ceinture; dans les cheveux,un diademe. Travail italien du xvim siecle,
+- d'apres Iantique.
+
+Haut.,G6 cent.
+
+- 247 - DEux GRANDs MoTIFs, composes de dauphins et de cornes d'abondance, dix marches de cascade, et fragment de vasque en marbre du xvi siecle,provenant de la fontaine du bosquet de l'Arc de Triomphe de Versailles.
+
+Haut. des motifs,8o cent.;larg.,I m.70.
+
+- 248 -- Groupe,grandeur nature, en terre cuite:1Hama-
+- dryade, d'apres Coysevox.
+
+Haut.,1 m.55.
+- 249 —Bas-RELiEF rectangulaire,en terre cuite, presentant le Triomphe de Bacchus; composition de six personnages, bacchants, bacchantes et enfants satyres.
+
+Haut., 57 cent.; larg., 1 m. 15.
+
+25o -Deux GAINes plaquees de marbre de couleurs.
+
+Haut., 1 m.25.
+
+## BRONZES -PENDULES
+
+- 251 - MorTIEr en bronze, decoré d’armoiries et de feuil-
+- lages; anses a volutes. Italie, xvre siecle.
+
+Haut., 13 cent.
+
+- 252 -DEux BRAs-APPLIQUEs Regence,a deux lumieres,en
+- bronze redore, a figures d'amours.
+- 253 lacs. Epoque Louis xVI.
+
+Haut., 43 cent.
+
+- 3- SeRruRE en bronze dore et acier, a rosace et entre-
+
+Haut., 12 cent.; larg., 15 cent.
+
+- 254  PAIRE DE FLAMBEAux,en bronze cisele et dore, decores
+- de cannelures torses et de feuillages. Epoque Louis XVI.
+
+Haut.,31 cent.
+
+- 255 —PeNDuLE en bronze patine et doré,offrant sur le mouvement une figure allegorique de femme assise, representant la Science. D'un cote,un petit genie; de lautre, une sphere armillaire. La base offre une frise symbolique des sciences et des arts. Epoque Louis XVI.
+
+Haut.,53 cent.
+- 256 —PAIRE DE CANDELABREs, en bronze patine et dore, composes chacun d'une figure de nymphe debout
+
+N°255.
+
+<!-- image -->
+
+portant le bouquet de lumieres. Base en marbre blanc, ornee de guirlandes de bronze. Epoque Louis XVI.
+- 257-GRANDE PENDULE A MUsIQUE, en marbre blanc et bronze dore du temps de Louis XVI. Le mouvement, surmonte d'une pyramide, est encadre de quatre colonnettes enguirlandees supportant des attributs. La base, renfermant le mecanisme, est decoree de pilastres ainsi que d'une lyre et d'un masque du soleil. Elle proviendrait de la chambre a coucher de Louis XVI,
+- a Fontainebleau.
+
+Haut.,1 m.16;larg.,57 cent.
+
+- 258 — PeNDuLE en bronze dore vermeil et or mat, decoree d'un groupe de trois statuettes :Venus et Ceres enguirlandant l'Amour de feurs. Base oblongue, ornee d'une frise de jeux d'enfants dressant un dieu terme. Mouvement apparent; cadran marquant les quantiemes. Fin
+- de I'époque Louis XVI. Contre-socle en bois dore.
+
+Haut.,38cent.
+
+- 259 -DaupHin en bronze patine, provenant dune fontaine.
+- xvil siecle.
+
+Long., 20 cent.
+
+- 260 Bas-RELIEF sans fond, en bronze a patine noire, representant le Jugement de Paris. Il est applique sur une plaque de marbre lumachel et encadre de marbre petit antique.xvim siecle.
+
+Haut.,43 cent.;larg.,70 cent.
+
+- 261 —PeNDuLE en bronze dore, a mouvement contenu dans un vase dont les anses sont formees de genies ailes soutenant des guirlandes de raisin. Ce vase repose sur uine base portee par quatre lions couches. Cadran a quantiemes, signe: Ridel, a Paris. Fin du xvine siecle.
+
+Haut.,55 cent.
+262 — PeNDuLE en marbre blanc et bronze patine et doré, de la fin du xvinr siecle,a mouvement couronne d'un
+
+No258.
+
+<!-- image -->
+
+aigle et porte par deux pilastres, ornes de cariatides et surmontes de sphinx.
+
+Haut.,75 cent.
+- 263  PAIRE DE GRANDs FLAMBEAUx en bronze patine et dore, formes chacun d'une cariatide de femme tenant une corbeille et sur base a guirlandes de laurier.Fin du xvile siecle.
+
+Haut.,37 cent.
+
+No264.
+
+<!-- image -->
+
+- 264 -STATuETTE en bronze,a patine noire,representant une naiade étendue,le torse nu,les jambes en partie recouvertes d'une draperie.Fin du xvin ou commencement du xix siecle.
+
+Haut.,42 cent.
+- 265 —— LustRE a trois rangs de lumieres, en bronze, garni de pendeloques, guirlandes et grappe de raisin en cristal
+- de roche.
+
+Haut.,I metre.
+
+## MEUBLES
+
+## COUVERTS EN TAPISSERIE
+
+- 266 —TaBouRET a X en bois doré,couvert en tapisserie d'Aubusson du temps de Louis XV: les Petits oiseleurs. Encadrement rouge a rocailles et guirlandes de fleurs.
+
+Larg.,45 cent.
+
+- 267 — CaNAPe et quatre fauteuils en bois dore, couverts en tapisserie d'Aubusson du temps de Louis XV. Les dossiers presentent des compositions pastorales a personnages et les sieges, des groupes d'animaux. Bordures
+- de fleurs et de rocailles avec contrefond rouge.
+
+Largeur du canape,1 m.50.
+
+- 268 -- EcrAN en bois sculpte et dore; feuille en tapisserie d'Aubusson du temps du Louis XV presentant une bergere et un enfant dans un paysage. Encadrement de
+- rocailles,bordure rouge.
+
+Haut.,I n.10.
+
+- 269 - FAuTeuIL en bois sculpte et dore a rocailles, couvert en tapisserie d'Aubusson du temps de Louis XV,a sujets galants dans des paysages encadres de rocailles avec bordure rouge.
+
+Larg.,75 cent.
+- 270 -CaNAPe et quatre fauteuils en bois sculpte, couverts en tapisserie d'Aubusson du temps de Louis XV.Le canape presente, sur le siege, divers animaux et sur le dossier des jeux d'enfants dans des encadrements rouges ment des fables de La Fontaine, dans des encadrements
+- a rocailles. Les fauteuils offrent des sujets tires egaledifferents de ceux du canape.
+
+Largeur du canape,I m. 8o.
+
+- 271 - Deux FAuTEuILs non montes completant le mobilier
+- precedent.
+- de rubans.
+
+Iargeur d'un fauteuil,o cent.
+
+- 272 —CaNApe en bois dore, couvert en tapisserie d'Aubusson de la fin du regne de Louis XV,a medaillons contenant des personnages et des animaux et se detachant sur un fond blanc enguirlande de feurs et
+
+Larg.,2 metres.
+
+- 273 - TaBouRET de pieds en bois dore, couvert en tapisserie d''Aubusson du temps de Louis XVl,presentant un
+- bouquet de fleurs dans un medaillon.
+
+Grand diam., 5o cent.
+
+- 274 —TabourET de piano, en bois dore, couvert en tapisserie d''Aubusson du temps de Louis XVI,a feurs et attributs de I'amour.
+
+Diam.,37 cent.
+## MEUBLES
+
+- 275  CaBINET en bois noir, garni d'appliques de cuivre a
+- figures de chimeres, d'Hercule, de Jason, etc. Au centre, un tabernacle entoure de colonnettes torses. Sur les cotes, des tiroirs. Support a colonnes torses. xvne siecle.
+
+Haut., 1 m. 8o; larg., 1 m.32.
+
+- 276 — BoIs DE FAUTEuIL du temps de Louis XIV, sculpte a feuillages et quadrilles.
+
+Haut., 70 cent.
+
+- 277 — Deux ToRcHEREs en bois sculpte, partiellement peint et dore,a decor de serpents et tetes de dauphins. Epoque Regence.
+
+Haut.,1 m.57.
+
+- 278 ArMoire a deux portes, en bois sculpte, a decor de rocailles, fleurs et oiseaux, avec mascaron au fronton. Epoque Louis XV.
+
+Haut.,2m.5o;larg.,1 m.50.
+
+- 279 —PARAvENT a six feuilles, peint sur toile, a sujets galants dans des encadrements a rocailles. Epoque Louis XV.
+
+Haut., 2 metres; larg. d’une feuille, 68 cent.
+
+- 280 -TABLE TRIANGULAIRE en marqueterie a fleurs de la
+- fin du regne de Louis XV, signee : Landrin.
+
+Haut.,78 cent.
+
+- 281 —CoMMoDe a trois rangs de tiroirs, en marqueterie de bois de couleurs a quadrilles et trophees d'instruments de musique; garnitures de bronze. Dessus de marbre blanc.Fin de I'époque Louis XV.
+
+Larg., I m.25.
+- 282  SecRETAIRE droit a abattant, portes et trois rangs de tiroirs, en bois de placage a filets. Il est orne d'encadrements, de chutes, d'entrees de serrure,de poignees et de rosaces, en bronze cisele et doré. Dessus de marbre brocatelle. Au revers,la signature de: C.Krier.(Charles Krier,rue du Bac, recu maitre en 1774.) Epoque Louis XVI.
+
+Haut.,1 m. 88;larg.,98 cent.
+
+- 283 —TABLE-ETAGERE formant rafraichissoir, en acajou,a filets de cuivre,avec recipients en metal. Epoque Louis XVI.
+
+Diam.,55 cent.
+
+- 284 — ConsoLE demi-lune en bois ajoure, sculpte et partiellement dore, a decor de rosaces dans des medaillons ovales; pieds canneles. Dessus de marbre breche d'Alep. Epoque Louis XVI.
+
+Larg., 1 m.16.
+
+- 285  CAGE D'HoRLoGE en chene sculpte, a decor de feuillages et de rocailles. xvin siecle.
+
+Haut.,2m.73.
+
+## ETENDARDS—ETOFFES
+
+- 286 - ETENDARD en soie, presentant des chardons et des
+- tulipes stylises, ainsi que deux branches ecotees disposees en sautoir; dans un des angles, une arbalete. xvi siecle.
+
+287 - ETENDARD, copie du precedent.
+- 288  ETENDARD en soie, offrant une figure de saint Sebastien avec la date 1758, surmontee d'armoiries ducales. xvIn siecle.
+- 289 — ErENDaRD en soie, presentant un dragon couronne encadre de feuillages. xvi siecle.
+- 290  ETENDARD en soie de couleurs, avec croix latine au centre. xvinl siecle.
+- 291 - ETENDARD en soie de la guilde de saint Christofe. Hollande,xvinl siecle.
+- 292 - ETENDaRD en toile peinte aux armes du royaume des Deux-Siciles. xvill siecle.
+- 293 - ETENDaRD en soie brodee aux armes de Toscane, sur fond rouge et blanc. Hampe sculptee. xvie siecle.
+- 294 一 ETENDARD en soie a l'aigle d'Empire. xvn siecle.
+- 295 -ETENDarD de section revolutionnaire, presentant léquerre et le bonnet phrygien avec la devise:Vive la
+- Nation.Egalite.Fraternite.
+- 296 —Guipon tricolore de lépoque revolutionnaire,avec I'inscription :Vivre libre ou mourir.
+- 297 — BaNnieRE en satin blanc brode, presentant la Vierge de gloire. xvin siecle.
+- 298 — PETIT PANNEAu en damas rouge, avec applications, presentant un écusson d'armoiries. Espagne, xvil siecle.
+- 299 PaNNEau en satin vert, avec broderie de soie et de metal,presentant les armes d'un duc dans une couronne
+
+Diametre de l'ecusson,6o cent.
+
+- 3o0 —PAvILLoN DE TROMPETTE en soie rouge, avec applications de broderie,presentant une nef aux armes
+
+Haut., 65 cent.; larg., 6o cent.
+
+- 3o1 - GrAND PANNEAu de tenture en velours rouge brode de soie au passe. Il presente un écusson d'armoiries, ainsi que des cornes d'abondance,des rinceaux, des animaux,etc. xvile siecle.
+
+Haut.,2m.65;larg.,2 m.30.
+
+- 3o2 — GARNITURE DE LIT,composee de cinq panneaux et d'une courte-pointe en soie blanche avec applications,a decor de personnages, animaux et fleurs. xvir siecle.
+
+Longueur de la courte-pointe, 2 m.6o.
+
+Largeur de la courte-pointe,2 m.55.
+
+- 3o3 — GRAND PANNEAu de tenture en velours de Genes,a surface couverte de feurs sur fond lame de metal.
+- xvine siecle.
+- de feuillages.
+- d'Empire.
+
+Long,.2 m.7o; larg,2 m.40.
+
+- 3o4 —TAPis DE TABLE rectangulaire, en velours rouge,
+- presentant au centre un écusson d'armoiries ducales rapporte en broderie de soie et de metal. xville siecle.
+
+Haut.,1 m.35;larg., 1 m.20.
+3o5  CHAPE en broderie de soie et d'argent, a surface entierement couverte de fleurs.xvir siecle. Elle pro-
+
+No312.
+
+<!-- image -->
+
+vient du couvent des Dames de la Maternite de Metz, a qui elle fut donnee par Anne d'Autriche.
+
+Haut.,1 m.15;larg.,2m.95.
+- 3o6 - Trois Ecussons brodes de metal. xvine siecle.
+- 3o7 —Jupe defaite et corsage en satin jaune avec broderie de soie et de metal a grosses feurs et dauphins. Epoque Louis XV.
+
+Long.,3 metres.
+
+- 3o8 -HaBIT ET cuLoTTE en velours rouge cisele a rosaces.
+- xvl siecle.
+- 3og — HaBIT en velours violet brode a feurs. Epoque Louis XV.
+- 31o — RoBe en soie vieux rose, brochee a feurs et lamee
+- de metal. Epoque Louis XV.
+- 311 -HABIT, cULoTTE ET GILET en velours rouge cisele a
+- quadrilles. Epoque Louis XV.
+- 312 —FEuILLE DEcRAN en satin creme,avec applications de broderie en chenille et au point de chainette,rehaussee de metal. Au centre, une cassolette entouree de drape-
+- ries enguirlandees de fleurs. Epoque Louis XVI.
+
+Haut., go cent.; larg, 7o cent.
+
+- 313 — Jupe en satin raye bleu et blanc avec fleurettes.
+- Epoque Louis xVI.
+
+Haut.,86 cent.
+
+- 314 - BanDe etroite en soie bleu pale et broderie au passe
+- et en chenille,a rinceaux,feurs, oiseaux, avec masca rons peints. Epoque Louis XVI.
+
+Haut.,2 m.6o;larg.,13 cent.
+No318.
+
+<!-- image -->
+
+## TAPISSERIES TAPIS
+
+- 315—TapissERIE rectangulaire flamande du commencement du xvire siecle, presentant des sujets tires de l'histoire de Roland. Composition de nombreux personnages, avec inscriptions indiquant leurs noms.
+
+Haut.,2m.55;larg.,3metres.
+
+- 316 —TapissErIE famande du xvire siecle, presentant un jardin a la francaise avec berceau de verdure.Au premier plan, des buissons fleuris.
+
+Haut.,2 m.40;larg.,2 m.35.
+
+- 317 - FRAGMENT DE TAPissERIE verdure presentant des caria tides et des vases avec arbustes. Flandres, xvine siecle.
+
+Haut.,1 m.o5;larg.,1 m.30.
+
+- 318FRAGMENT DE TAPISsERIE DEs GoBELINs du temps de Louis XIV, de la tenture des Maisons royales. Elle faisait partie de la piece du chateau de Saint-Germain, et presente une chasse au faucon avec le roi et la reine au premier plan.
+
+Haut.,So cent.;larg.,2 m.5o.
+- 319 —Tapisserie rectangulaire,presentant un groupe de
+- trois cavaliers en promenade,et,au second plan,divers personnages jouant au saut de mouton. Au fond, une foret et des collines. Bordures marron, a corbeilles de feurs et de fruits, coquilles et rinceaux. Flandres, commencement du xvinr siecle.
+
+Haut.,2 m.75;larg.,3m.45.
+
+- 320 -PaNNEAu en tapisserie d'Aubusson du temps de
+- Louis XV,presentant un épisode de la legende de l'Amour et Psyche.
+
+Haut.,2 m.25;larg.,1 m.95.
+
+- 321 -LAMBREQUIN en tapisserie de Beauvais du milieu du xvi siecle,offrant une corbeille de feurs au milieu de rinceaux et de guirlandes surmontes de draperies, d'apres Salembier. Fond blanc.
+
+Haut.,55 cent.;larg., 1 m.60.
+
+- 322 -PANNEAu en hauteur,en tapisserie d'Aubusson du milieu du xvin siecle, presentant un trophee d'instruments de musique suspendu a un ruban au-dessus d'un vase de fleurs. Encadrements a baguettes enguirlandees, avec oiseaux.
+
+Haut., 2 m.7o; larg., go cent.
+
+- 323 -PaNNEAu de la meme suite,attributs de l'Amour et vase de fleurs.
+
+Haut.,2 m.7o;larg., 5o cent.
+
+- 324.—QuATRE PANNEAUx etroits, en hauteur, en tapisserie d'Aubusson du milieu du xvinr siecle,presentant, sur fond blanc, des trophees d'attributs divers suspendus a des rubans au-dessus de paysages animes d'oiseaux. Encadrements de baguettes enguirlandees, avec bor-
+- dures rouges.
+
+Haut.,2m.20;larg.,40cent.
+- 325 — SuiTe de sept tapisseries d'Aubusson du milieu du xvm siecle, d'apres J.B. Huet, presentant, l'une,la Cueillette des cerises, composition de sept personnages; trois autres, des sujets galants; et les trois dernieres, des paysans et paysanne. Fond de paysage. Encadrements verts a draperies vieux rose,baguettes,rinceaux
+- et guirlandes.
+
+Larg.,2 m.6o;8o cent.; 85 cent.; 1 m. 15; 1m.15; 1 m.10; 1 m. 10.
+
+Haut.,1 m.8o.
+
+- 326—DEUX TAPISSERIES rectangulaires d'Aubusson du milieu du xvin siecle,presentant, sur fond blanc damasse, chacune, deux medaillons a sujets champetres, separes par des trophees d'attributs. Encadrements de baguettes enguirlandees de feurs, sur contre-fond vieux rose damasse.
+
+Haut.,2 m.70;larg.,4 metres.
+
+- 327  SIx FRAGMENTs DE TAPIssERIE d'AubussOn du milieu
+- du xvine siecle, a corbeille,bouquets et guirlandes de fleurs, sur fond blanc.
+- 328—TROIS TAPISSERIES d'Aubusson du temps de Louis XVI, presentant chacune, entre deux colonnes enguirlandees de feurs, des paysages animes de paysans et d'animaux : le Depart pour le marche, En route pour le marche, le Retour, d'apres Jean-Baptiste Huet. A la partie superieure, des guirlandes et des trophees d'attributs soutenus par des rubans.
+
+Haut.,2m.35;larg.,2 metres.
+
+- 329 -QuATRE coLoNNEs en tapisserie d'Aubusson du temps de Louis XVI, de la meme suite que les tapis-
+- series precedentes.
+
+Haut.,2 m.35.
+- 33o - DEUx LAMBREQuINs en tapisserie de Beauvais du temps de Louis XVI, a guirlandes de feurs et passementeries simulees sur fonds blanc et vert,avec gland
+- au centre.
+
+Haut.,35 cent.;larg.,1 m.55.
+
+- 331-DossIEr ovale,en tapisserie d'Aubusson du temps
+- de Louis XVI, a medaillon de fleurs.
+
+Grand diam.,50 cent.; petit diam.,36 cent.
+
+- 332FRAGMENT DE TAPIssERIE d'Aubusson du xVIn siecle: Char d'une divinite.
+
+Haut.,2m.40;larg.,1 m.90.
+
+- 333 -TapissERIE rectangulaire presentant le chateau de Versailles, avec oiseaux et bouquets d'arbres au premier plan. Bordures jaunes, a fleurs, oiseaux et cartouches. Flandres, xvir siecle.
+
+Haut.,3m.25;larg.,4m.50.
+
+- 334 -TapissERIE rectangulaire flamande du xvin siecle, presentant Pan poursuivant Syrinx, qui se metamorphose en roseau; sur le cote, les nymphes, ses soeurs. Au second plan, paysage montagneux avec des habitations. Dans les nuages, l'Amour contemplant la scene.
+
+Haut., 2 m.85; larg.,4 m. o5.
+
+- 335 -Deux TAPissERIEs rectangulaires flamandes du xvill
+- siecle,presentant,lune une nymphe et I'Amour,lautre une figure de Flore. Fond de paysages avec chute d'eau et oiseaux;dans le lointain,des habitations Bordures a enroulements de feuillages et de feurs avec monogramme timbre d'une couronne de comte a la partie superieure.
+
+Haut.,3m.15;larg.,2m.65.
+
+Haut.,3m.15;larg.,2 metres.
+- 336 —TapissERIE rectangulaire flamande du xvin siecle, presentant une clairiere interrompue par des bouquets d'arbres. Dans le fond, des habitations. Bordures de
+- fleurs.
+
+Haut.,2m.95;larg,4m.85.
+
+- dures flamandes des xvir et xvinl siecles.
+- 338—QUATRE FRAGMENTS DE BORDURES DE TAPISSERIES famandes du xvine siecle, a fleurs, medaillons et rubans.
+- 9—TROIS FRAGMENTS DE BORDURES DE TAPISSERIE flamande du commencement du xvire siecle,a feurs et feuilles
+
+Longueur,environ 12 metres.
+
+- —TapisserIe verdure presentant des oiseaux au premier plan. Bordures de fleurs et de rubans. Flandres,
+
+Haut.,2m.75;larg.,3metres.
+
+- SIEGE ET DosSIER DE CANAPE et six fragments en tapisserie de la fin du xvin siecle, a bouquets de feurs
+
+Largeur du canape, 1 m.20.
+
+- 342 - Tapis de la Savonnerie du commencement du xixe
+- siecle,presentant, sur fond rouge,une rosace centrale, ainsi que des bouquets de fleurs et des cornes d'abondance aux angles. Bordures claires a rinceaux.
+
+Long., 5 m.6o; larg, 4 m.9o.
+
+<!-- image -->
+
+- 341 sur fond blanc borde de rouge.
+- 339 sur fond gros bleu.
+- 340 xville siecle.

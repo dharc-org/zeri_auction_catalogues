@@ -1,0 +1,1242 @@
+## Eriter Auctionstag.
+
+## Dienstag, den 11. Februar 1902, pon 10 uhr ab.
+
+(Das alphabetifde Derzeichni der im Katalog vorkommendenKunitlernamen befindet fichauf derlegten Seite desKataloges.)
+
+<!-- image -->
+
+## Nad Nicolaas Berdhem. 1620-1683.
+
+- 1.Weibliche Halbfigur. Lwd. H.67cm. B.54 cm. G..R.
+
+## n.Ia Tombe.1616-1676.
+
+- Hubiches Bild auf Lwd. mit Signafur. H. 60 cm.B. 82 cm.S..R.
+2. Diana. Vor dem Eingang zu einer Feliengrofte Diana mit einer Mymphe und Jagdhunden.
+
+## Hyacinthe Rigaud? 1659-1743.
+
+- 3.Louis XIV. Huftbild in Bruiftharnich und Pericke. Der redhte Hrm ift erhoben. Sehr feines Bild auf Lwd.H. 37 cm. B.27 cm. Rococo-G..R.
+
+## nad P.P.Rubens.1577-1640.
+
+4. Die Hnbetung der Konige. Die bekannte Kompofifion in fehr feiner Durchfuhrung. Holz.6.54cm.B.40cm.G.-R.
+
+## Jtalienilcher Meiifer.i7. Jahrh.
+
+- 5.Das Urtheil des Paris. Jm Vordergrunde einer Felienlandicthaff. Venus iff von Hmor begleitet. Don Rorrekfer Zeichnung. Lwd. H.56 cm.B. 65 cm.G..R.
+
+## C. de Ia Hyre.17. gahrh.
+
+Gutes, etwas nachgedunkeltes Bild auf Holz mit der Kunstlerbezeichinung links. H.49 cm. B. 90 cm. S.R.
+
+6. Paitorale. Jn der nahe eines Feliens, welcher von einer Ruine bekront wird, Hirten mit ihren Thieren.
+
+## P.J.Quait?1606-1647.
+
+7. Genreicene.mulizirende Betflerfamilie vor der Hausthur eines Bauern, welcher mit feiner jungen Frau zuhort.
+
+Sehr feines Bildden auf Holz. H. 25 cm.B. 20 cm. S..R.
+
+## UnbeRannf.18. gahrh.
+
+- 8.9. Zwei groBe Landichaften mit mythologicher Staffage.
+
+nterefiante Bilder pon eigenartiger, feiner Durchfuhrung. Gegenstidke. H.90 cm. B. 133 cm. R.
+## AIfdeufidh.16. Jahrh.
+
+10. St. Stephan. Knieitudk in Bifchofs-Ornat mit mitra und Stab. Der Heilige hailt als
+2. Zeidhen feines Marfyriums eine Sdhale voll Steine.
+
+Jn Tempera auf ornamentirtem Goldgrund. Holz. H. 66 cm. B. 34 cm. S..R.
+
+## Hrt des Lucas Cranadh. 1472-1553.
+
+11. Chriftus mit der Weltkugel. His Kind, die Recdhte legnend erhoben. Unten die betende
+2. Maria und ein Dominicaner-Mond in Halbfiguren.
+
+Huf Holz. Don fehr feiner Durdhfuhrung. H. 37 cm. B. 26 cm. Gerahmt.
+
+## Sdule des G.Reni. 1575-1642.
+
+12. St.magdalena. Todtenichadel.
+2. Huftbild mit braunem, herabwallendem Haar. Jn den Handen ein
+
+Gutes Bild auf Lwd. H. 60 cm. B. 44 cm. G..R.
+
+## Franzofide Sdule. 17. Jahrh.
+
+13. Weibliches Porfrait. Bruifbild einer Furifin in reicher, geffickter Kleidung und praditigem
+2. Spibenkragen.
+
+Jnterellantes Bild auf Lwd. H.57 cm. B.41 cm. S..R. Siehe Reproduktion auf Tafel 12.
+
+## Deutide Sdhule. 17. Jahrh.
+
+14. mannlidhes Portrait. Huftbild eines Mannes in KuraB und allongeperidke. Lwd. H.75 cm.B.60 cm. S..R.
+
+## Niederlandiider Kunifler.17. Jahrh.
+
+15. mannlidhes Portraif. Bruitbild eines Furiten mit muhliteinkragen und goldener Ketfe um den Hals.
+
+Don guter Charakterifik. Lwd. H.46 cm. B. 34 cm. S.R. Siehe Reproduktion auf Tafel 12.
+
+## W.v.Valckerf.1600—1634.
+
+16. Toilette der Venus. Die Gotfin fibt mit unbekleidetem Oberkorper auf einem Ruhebette. Rechts Hmor, welcdher auf den Beichauer zielt.
+
+Ganz vorzugliches Bild, links auf einer Papierrolle mit dem Mamen des Kunitlers bezeidinet. Holz. H.102 cm.B.76 cm. S..R.
+
+## Bonifazio Veneziano. Geltorben nadh 1579.
+
+17. madonna. Die heilige Jungfrau in Halbfigur mit dem Kinde. Dasielbe nimmt Fricite
+
+Holz.H.45cm.B.53cm.G..R.
+
+- entgegen, welche ihm St. Johannes anbietet. Links St. Joieph.
+
+## Hbraham v. Beijeren. 1621-1674.
+
+18. Stillleben. Rielenhummer, Talchenkrebs und Fifch auf einem mit weiBem Tafeltuch be dedkten Tiiche. Drei Fiche hangen Don der Decke herab. Sehr gut gemalfes Bild auf Lwd. H.95 cm. B. 83 cm. Gerahmf.
+
+## Hrt des D. Teniers.1610-1690.
+
+19. Jnterieur. Bauern trinkend und mit der Wirthin plaudernd. Links ein fchlafender Mann. But durdigefuhrtes Bildden mit dem Monogramm des D. Teniers. Holz. H.26 cm. B.21 cm. S..R.
+## Frans Francken.1581-1642.
+
+- geben, auf einem Throne libt. Das Befolge der Konigin traigt Gelchenke. Prachtiges Bild von groBer Farbenfrifche. Holz. H. 54 cm.B. 75 cm. G.R.
+20. Die Konigin von Saba. Sie kniet vor Salomo, welcher, von feinem ganzen Hofe um
+
+## Niederlandifche Scthule.17. Jahrh.
+
+21. Landichaff. Jm Vordergrunde die hell beleuchteten Ruinen eines alten Schlofies. Huf Holz. Schn in der Wirkung. H.74 cm. B.61 cm. G..R.
+
+## Pieter Claasz. Thafig 1624-1653.
+
+22. Stilleben. Eine Schale mit gekochten Krabben, Weigbrod, zwei Weinpokale etc. Shones Bild von fehr feiner Durchfuhrung. Holz. H. 35 cm. B. 46 cm. S..R.
+
+## Arf des B. Schiapone. Thatig 1440-1470.
+
+23. Madonna. Halbfigur, das unbekleidete Chrituskind haltend. Die Kopfe find von Hureolen umgeben, den Hintergrund fchlieBf ein rother Vorhang.
+
+Sehr intereliante Erbeif. Holz. H. 42 cm. B.27 cm.HIter G.R.
+
+## Niederlandifcher Kunitler. 17. gahrh.
+
+24. Der Kampf um die Hofe. Jm Vordergrunde einer Landicthaft ifreiten Frauen um eine Hoie, der Beliber fich dariber beluifigt. Nach van der Venne. Jnterelfantes Bild.Lwd.H.48 cm.B. 64 cm.S..R.
+
+## Salom.v. Ruijsdael. 1623-1670.
+
+25. Landicthaff. Ein FluB, defien ufer mit hohen Baumen beitanden find. Ganz vorn funf
+2. Kuhe am Wafier.
+
+Feines Bilddien auf Holz. Rechts der Mame des Kuniflers. H.41 cm. B.46 cm. S..R.
+
+## Balthafar Denner. 1685-1749.
+
+26. mannliches Portraif. Bildnib eines Mecklenburgilchen Prinzen in Perike und rothem,
+2. goldgeificktem Rock iber dem Bruitharniich.
+
+Dortrefliches Werk des Meifters, mit defien namen es bezeidhnet ift. 1736. Lwd. H.75 cm.
+
+B.61 cm. G.-R. Siehe Reproduktion auf Tafel 2.
+
+## J.Hnt.v.Raveifeijn.1572-1657.
+
+27. Portrait. Bruiftbild eines Furifen in dunklem, lodkigem Haar. Um den Hals tragt der
+2. jugendlich Dargeiftellte einen prachifigen SpiBenkragen.
+
+Sehr feines Bild auf Lwd. Oval.H.49 cm. B. 36 cm.S.R.
+
+## Franzolifdhe Schule. 18. Jahrh.
+
+28. Soldatenicene. Jm Vordergrunde einer Landichaft zwei Soldaten, von denen der eine eine junge Frau umarmt halt, wahrend der andere einen ftuirmilchen Hngriff auf ein junges madchen ausfuhrt.
+
+Hodif fein durchgefuhrtes Bild, die Hrbeit eines namhaften Kuniflers. Lwd. H. 40 cm. B.33 cm. S.R.
+## Jan van Huijium. 1682-1749.
+
+29. Blumenitick. StrauB von Gartenblumen der verichiedeniten Art, durd einen Sdumetter ling belebt.
+
+Sdhon in Kompoifion und Farbe. Lwd. H.69 cm. B. 53 cm. G..R.
+
+## John Crome. 1768-1821.
+
+30. Landichaft. Jm Vordergrunde recdhts, von Biumen umgeben, Landhaus, links Blid auf einen FluB, in defien Fluthen fich der aufgehende Mond piegelt.
+
+Originelle Technik. Brillante Wirkung. Lwd. H. 7O cm. B.9o cm. G.R. Siehe Reproduktion auf Tafel 8.
+
+## Frans Hals d. J. 1617-—1669.
+
+31. Stillleben. n der Mahe eines Holzichuppens verichiedene Kicdhengerathichaften, Gemiie etc.
+2. Dahinfer Kihe und Sdhafe.
+
+Dortreflidhe, etwas nacigedunkelte Hrbeit auf Holz mit dem Mamen des Kunstlers. H.32 cm B.61 cm.S.R.
+
+## W. B.Ferguion.1633-1695.
+
+32. Gefligelifilleben. Todte Ente, iowie einige Singvogel auf einem Steinpoitament. Gemalde von feiner Durchiuhrung und brillanter Wirkung. Lwd. H. 68 cm. B.54 cm. S.R. Siehe Reproduktion auf Tafel 9.
+
+## Niederlandiiche Sdule. Anfang 17. gahrh.
+
+33. 34. Zwei Poraits. Huftbild eines Mannes in fchwarzer Kleidung und muhliteinkragen. Jn den Handen halt er einen Brief und die Handichuhe. Die Gemahlin des Vorher beichriebenen in Muhliteinkragen und Haube. Gegenifucke.
+
+Huf Holz. Don feiner Durchfuhrung. Signirt: Hnno 1605. Hetatis 33 reip.34.H.68 cm. B.55 cm. S.R. Siehe Reproduktionen auf Tafel 8.
+
+## J.B.Lamprecht.1680-1731.
+
+35. Jnterieur. Zwei Frauen in Unterhaltung, zwei manner horen zu, ein dritter wird im Hintergrunde am Kamine fichtbar.
+
+Reizendes Bilddhen auf Holz. H. 16 cm. B. 22 cm. S.R.
+
+## Jtalienilche Sdule. 16. gahrh.
+
+36. Die heilige Cacilia. Banze Figur in reicher, hellfarbiger Kleidung mit blauem Ueber wurf. Sie ipielt die Orgel.
+
+Lwd. H. 153 cm. B. 86 cm. Eine weibe Wandverkleidung dient als Rahmung.
+
+## Jan van Huijjum. 1682-1749.
+
+37. Blumenitick. Bartenblumen der verichiedeniften Hrt in einer Vaie malerifch gruppirt.
+2. Pradhfiges Bild von ichoner Wirkung. Iwd. H. 81 cm. B. 59 cm. G.R.
+
+## Unbekannt.17. gahrh.
+
+38. Stilleben. Jm Vordergrunde einer Landichaft in und bei einer Metallichale Fruichte der Derichiedeniten Hrt. Belebt ift die Daritellung durch zwei Papageien.
+
+Shones dekoratives Stuick. Lwd. H. 88 cm.B. 124 cm. S.L.
+## Rachel Ruijfch.1664-1750.
+
+39. Blumenitick. gn einer Blasvale Rofen, Tulpen und Chryfanthemen. Eine Lrybelle belebt
+
+Feines Bild auf Lwd., mit dem Dollen namen bezeicthnef. H. 47 cm. B. 40 cm. G.R.
+
+- die Daritellung.
+
+## Joos van Craesbeeck. 1606-1662.
+
+Dortreflich gemaltes Bilddhen. Holz. H.15 cm.B.14 cm. S.R.
+
+40. nach der Schlagerei. Bruitbild eines Bauern mit hoher mube, welcher fich die ver wundete Hand verbindet.
+
+## Hbraham Janilens. 1575-1632.
+
+Braun In braun gemaltes Bild mit dem Namen des Kiniflers. Jnterefiante Hrbelt auf Holz. H. 56 cm. B.86cm.S.R.
+
+41. marfyrium. Ein Heiliger, vor der Statue des Hpollo zwifchen zwei Pfahle geipannt, wird von Henkersknechten gepeinigt.
+
+## Offomar Elliger d. He.1633-1679.
+
+2. Weintrauben mit Sdhmetterlingen.
+2. 42 A. 42B. Zwei Stillleben. 1. Roien, von einem Schmefterling und einem Malkafer belebt.
+
+Sehr feine Bilder auf Holz, mit dem Nlamen des Kuniflers bezeichnet. H. 34 cm. B. 26 cm. S.R.
+
+## David Teniers. 1610-1690.
+
+Treffliches Bild von hodhit feiner Durchfuhrung und groBer Farbenfriche. Holz. H.42 cm. B.59 cm. S.R.
+
+43. Kuden-Jnterieur. Ein alfer Bauer liebkoif ein Maddhen, weldhes Gefabe reinigt. Rehts zwei manner am Kamin und links am Boden ein Kidhen-Stilleben.
+
+## Pieter Wouwerman.1623-1683.
+
+44. Lagericene. Soldat zu Pferde bei einer Strohhifte. Links Ocientreiber. Hubides Bild auf Holz. H. 31 cm. B.29 cm. S.R.
+
+## Ch. W.E. Diefrich.1712-1774.
+
+45. Badende Mymphen. Jn einer Felienlandichaft erheben fich links die Ruinen eines Der fallenen Palaifes, wahrend fidh rechts der Blick auf ein weifes Thal offnef. Hls grobe Staffage find ganz im Vordergrunde des Bildes acht badende nymphen angebracht. Ein ganz vortreffliches Bild des Mleiters, links unten mit dem namen deflelben bezeldinet. wd. H.55 cm. B. 80 cm. G.R. Siehe Reproduktion auf Tafel 2.
+
+## Halbert Cuijp. 1605-1691.
+
+46. Weibliches Portrait. Kniefitidk eines iftzenden jungen maddhens in fdhwarzem Koftum. Huf einem Tiiche neben ihr ffeht eine Glasvaie mit Blumen. Links oben ein Wappen, Relzendes Bild. Prachfig in Farbe und Husfuhrung. Lrwd. H. 106 cm. B.74 cm. S.R. Siehe Reproduktion auf Tafel 5.
+
+## H.v. d.Neer zugelchr.1619--1692.
+
+47. mondichein. Blick auf einen niederlaindifchen FluB, deffen Ufer mit Hauiern und Baumen beitanden.
+
+Sehr wirkungsvoll gemaltes Bild auf Lwd. H. 87 cm. B. 115 cm. S.R.
+## Hdam Pijnacker.1621-1673.
+
+48. Hirfenicene. Jm Vordergrunde einer Felienlandichaft Schafe, Ziegen und einige Enfen. Eine junge Hirtin melkt ein Scthaf, ein junger Mann mit einem Keffel voll milcth iteht
+2. daneben.
+
+Treffliches Bild auf Lrwd. H.94 cm.B. 65 cm. .R.
+
+## Frans Pourbus zugelchrieben. 1545-1581.
+
+49. Portraif. Bruifbild eines Mannes in kurzem Haar und rothlicthem Scinurr- und Knebel
+2. bart. Er fragt dunkle Kleidung und Muhlifeinkragen.
+
+Charakterifiches Porfraif auf Holz. H. 67 cm.B. 58 cm. G.-R.
+
+## 9.m. Turner, angeblich. 1775-1851.
+
+50. Venedig. Hm Canal grande mit Blick auf die Kirche maria della falute. Zahlreiche
+2. groBere Fahrzeuge und Bondeln beleben das Waifer.
+
+Sehr interellantes fchones Bild. Lwd. H. 75 cm. B. 125 cm. R. Sielie Reproduktion auf Tafel 7.
+
+## Willem Kalff. 1621-1693.
+
+51. Stilleben. Huf einem Tifche Schale mit Frichten und Fleifch. Daneben Bohnen, Brot,
+2. Weinglas und Kanne.
+
+Gemilde von hodit feiner Durchfuhrung. Lwd. H. 48 cm. B. 58 cm. S.-R. Siehe Reprodukfion auf Tafel 10.
+
+## Jacques Callot? 1592-1635.
+
+- 52H.52 B. Landsknecht. Befflerfamilie. Fein durchgefihrte Bildchen, dem Meifter zugelchrieben.
+- H.9cm.B.7 cm..R.Durdhbrochen.
+
+## Bonavenfuur Peefers.1614-1652.
+
+- 53A. Marine. Blick auf die ftuirmifch bewegte See mit mehreren Schiffen. Jm Vordergrunde
+- veriinken zwei Fahrzeuge in den Wellen.
+
+Gutes Bild mit dem Monogramm des Kuniflers auf einer Planke. Lrwd. H. 57 cm. B. 82 cm. .R.
+
+- 53B. Desgleichen. Mehrere Schiffe auf ifturmilcher See, unweif der Kuite. Ebenio, monogrammirf. Gegenitidk zu porhergehendem Bilde. Lwd. H. 57 cm. B. 82 cm. .R.
+
+## Niederlandifcher Kunitler. 17. gahrh.
+
+54. Brufbild eines unbirfigen Mannes in chwarzer Kleidung. Rechts oben der Hame des
+2. Dargeitellten.
+
+Charakteriticher Kopf auf Lwd. H. 45 cm. B. 35 cm. S.R.
+
+## Schule Rembrandts.1607-1669.
+
+55. Des Meiifers Eigenporfraif. Dorzuglidh gemaltes Bild auf Lwd. H. 72 cm. B. 54 cm. G.R.
+
+## marco Ricci.1679-—1729.
+
+56. Der heilige Franciscus de Paula fchlagt Wafier aus dem Felien.
+2. Sehr lebendig gemaltes Bild von fchoner Durchfuhrung. Lwd. H. 47 cm. B. 38 cm. S.R.
+
+## J.v. Walscapele. Thatig 1670-1680.
+
+57. Stilleben. Huf einem Holztiche verichiedene Fruchte in und bei einem Korbe, ein halb
+2. gefullter Pokal, gekochte Krebie efc.
+
+Hubich komponirtes Bild auf Holz. H. 59 cm. B. 72 cm. .R.
+- Branatapfel etc.
+
+## Altniederlindiicte Schule. 16. gahrh.
+
+58. Porfrait. Bruftbild eines mannes in Bareff und pelzverbramtem Rock. Er hailt einen ZirRel, fowie einen mathematifcthen Korper in den Handen.
+
+Don fehr feiner Durchiuhrung. Holz. H. 53 cm. B. 43 cm. S.R. Siehe Reproduktion auf Tafel 9.
+
+## J. Brueghel (1568-1625) und H. van Balen (1575-1632).
+
+- 59.Ceres. Die Botfin, mit einem rofhen Bewande bekleidet, fibt, von den Erzeugnifien der Erde umgeben, am Ufer des Mleeres, in welch' lebterem zahlreiche Fiche. Eine Nymphe,
+
+HuBerordentlich fein ausgefuhrtes Bild auf Kupfer. Von groBer Farbenfrifche. H. 6O cm. B.93 cm. GR. Siehe Reprodukfion auf Tafel 11.
+
+- ein Faun, fowie Hmoreffen umgeben die Boffin.
+
+## J.de mlomper?1564-1635.
+
+60. Winfer. Miederlandifche Dorflandichaff. Huf einem Wege im Vordergrunde zahlreiche Landleufe, ganz vorn ein Bauer, welcher Schweine freibt.
+
+Hubiches Bild auf Lrwd. Rechts unten der Mame. H. 57 cm. B. 81 cm. S.R.
+
+## Van Flierden. 17. Jahrh.
+
+61. Stillleben. Huf einem Holztifche Zinnkanne, halb gefullter Romer, Schale mit Fruichten, gekochfer Hummer etc.
+
+Prichfiges Bild von Rlarer, durchiicutiger Fairbung. Huf Holz gemalt und mif dem vollen Kunifler namen bezeictinef.H.60 cm.B. 73 cm.G.-R.
+
+## Florentiniicthe Schule. 14. Jahrh.
+
+62. Thronende maria mit dem Kinde. Jhr Gewand it mit Hrabesken bedekt, dariber ein dunkelfarbener Mlanfel. Zu beiden Seiten iftehen St. Hieronymus und St. Johannes der Taufer. Den Hintergrund bildet eine iftrahlende Glorie in Gold.
+
+archiftektonich gehalten und mit Ornamenten in Relief bedeckt. H.120 cm. B.61 cm.
+
+Hochit interelfiantes Bild auf einer Holzplaffe, weldhe oben im Spitzbogen abichliebt. Der G.R. ift
+
+## B. van der Meer.17. Jahrh.
+
+63. Stillleben. Huf einem mit Teppich bedeckten Tifche Weintrauben, Pfirfiche, Kirichen,
+
+Shon in der Wirkung. Lwd. H.52 cm. B.42 cm. B.-R.
+
+## H.D.DydR.1599-—1641.
+
+64. mannliches Portraif. Bruitbild eines Mannes in mifleren Jahren, mit Kinn- und Knebel
+2. bart. Die linke Hand ruht auf der Bruif.
+
+Dorzigliches Gemalde, meifterhait in Technik und Wirkung. Lwd. H. 76 cm. B.62 cm. Siehe
+
+Reproduktion auf Tafel 3.
+
+## J.v.d. Capelle? Thatig 1650-1680.
+
+65. Seeifuick. Hafen mit zahlreichen Kriegsichiffen und Handelsfahrzeugen.  Jm Vorder grunde rechts mehrere Kahne mif Bemannung.
+
+Gutes Bild auf Lwd., monogrammirt. H. 50 cm. B.91 cm. S.-R. Siehe Reproduktion auf Tafel 3.
+## Bezeichnet: J. Boua ff. 17. gahrh.
+
+66. Stilleben. Jm Vordergrunde einer Landichaff Winzer bei ihren mit Trauben gefuillten
+2. Gefaben. Rechits Blumen und Fruchte der verichiedenifen Hrt, dahinter eine Heerde.
+
+Pricdtiges, dekoratives Bild. mit obigem namen links unten bezeidinet. Lwd. H. 102 cm. B.153cm.S.
+
+## Salvafor Roia zugelchrieben. 1615-1673.
+
+- 66日.Landicthaft. Bebirgige Gegend mit Waiierfall im Vordergrunde. Hls Staffage Hirten
+- mif Vieh.
+
+Dorzugliches, floff und wirkungsvoll gemaltes Bild auf Lwd. Es traigt links unten das Mlonogramm und die Jahreszahl 1650. H.95 cm.B. 130 cm.G.R.
+
+## P.P.Rubens.1577-1640.
+
+67. Chritus und Johannes. Hls Kinder in einer Landichaff. Chritus, fait ganz unbekleidet,
+2. am Fube eines iberhangenden Feliens fibend, liebkoft ein Lamm, welches ihm Johannes zufihrf.
+
+Ein ganz vorziglicdhes Gemalde aus dem Htelier des Mleifters. Nach Hniicdht verichiedener Huforitaten ift das Bild im Htelier unter Beihulfe des Mleifters gemalft. Es ift klar in der Farbe und frei und geiftvoll in der Technik. Die Kompofifion, welche oft wiederholt wurde, kommt in den Galerieen Don Berlin, Schleigheim und Genua vor.Lwd. H.121 cm. B.148 cm.G.R. Siehe Reproduktion auf Tafel 1.
+
+## monogramm W. 1661. 17.Jahrh.
+
+68. Benreicene. Eine Hlte, die Brille auf der Nafe, fucht ihrer Kabe Ungeziefer ab. Huf einem Medaillon, welches die Frau um den Hals fragt, das Monogramm W. und die Jahreszahl 1661.
+
+Schones, goldtoniges Bild von brillanter Cechnik. Wohl Hrbeit eines ipaniichen Meifters. Lwd. H.90 cm. B. 73 cm.G.-R. Siehe Reproduktion auf Tafel 4.
+
+## Lucas Cranach.1472-1553.
+
+69. madonna. Haibfigur. Das Chrituskind ffeht ganz unbekleidet auf dem Schoobe der Jungfrau und nimmt Kirichen von einem Teller. Jm Hintergrunde eine Landichaff.
+
+Gemilde auf Holz. Sehr lieblich im Husdruck, von groBer Weidhheit in der Durchfihrung. H. 56 cm. B.32 cm.Holz-R.
+
+## Barth v. der Helif. 1613-1670.
+
+70. minnlides Porfrait. Halbfigur eines Patriziers in geblumtem, goldbordirtem Wams und muhliteinkragen. Die Linke hat die Handichuhe gefabt, die Rechte ift auf die Stuhl lehne geititt.
+
+Holz, monogrammirf. H. 114 cm. B. 85 cm. S.-R. Siehe Reproduktion auf Tafel 5.
+
+## Niederlandiiche Schule. 17. Jahrh.
+
+71. Stillleben. Jm Vordergrunde einer Waldlandichaft Blattpflanzen und Blumen bei einem verwifferten Baumitamm. Eine Schlange belebt die Dariftellung. Floff und wirkungsvoll gemaltes Bild auf Lrwd. H. 130 cm. B. 95 cm.
+
+## Jan Brueghel zugelchr.1568-1625.
+
+72. Schmiede des Vulcan. Jm Vordergrunde eines zerfallenen Palaites Vulcan, Hmor und Venus bei Waffenifucken der verichiedeniten Hrt, welche am Boden veriftreut liegen. Jm
+2. mittelgrunde Schmiedegelellen.
+
+Sehr reich komponirtes Bild von feinifer Durchfuhrung. Lwd. H. 46 cm.B. 66 cm. G..R.
+## . Bapf. Leprince. 1733-1781.
+
+73. Raift. Ruffiche Bauern mit ihrem Vieh und Wagen auf der Wanderichaft raifend. Reizendes, reid komponirtes und fein gemaltes Bildchen auf rwd. mit Kuniflernamen und gahres zahI 1764.H.24cm.B.32cm.G.R.
+
+## Osc. Kunath. Datirt 1860.
+
+74. Troit. Ein monch froitet einen Gefangenen, der mit gefalteten Handen auf einem
+
+Vorfrefflidhes Bild eines neueren Kuniflers. Schon in Farbe und Kompolition. Lwd., fignirt. H. 43 cm.
+
+## Niederlandiiche Scdhule. 17. gahrh.
+
+75. mannliches Portrait. Halbfigur eines ilteren Mannes mit Kappchen. Die Rechte halft
+2. den dunkelfarbigen Mantel, die Linke eine Papierrolle mit Merkuritab.
+
+Don lehr Runiflerifcther Durchfuhrung. Lwd. Bezeichnet: Hetatis 80. 1664. H.115 cm. B.85 cm. .-R. Siehe Reproduktion auf Tafel 9.
+
+## J.C.Dr0och=Sloof.1586-1666.
+
+- 75a. Kirchweih. DorfitraBe mit Kirche, durcth zahlreiche Landleute belebt. Jm Vordergrunde ein Quackialber feine Waaren anpreiiend.
+
+Lebendiges, farbenfrifches Bild auf Holz. Jn der mitfe unten fignirt. H. 38 cm. B. 6O cm. S..R.
+
+## Nic. molenaer. 17. Jahrh.
+
+76. Winfer. Huf dem Eiie eines niederlindifchen Kanals zwilchen Hauiern zahlreicthe
+2. Shliffichuhlaufer. Landleute mit Pferden etc.
+
+Sehr hubiches, reich komponirtes Bild auf Holz. H. 6O cm. B.84 cm. G.-R. Siehe Reproduktion auf Tafel 10.
+
+## C.Roepel.1678-—1748.
+
+77. Stillleben. Jn einer Wandniche, von einem eiiernen Ring herabhangend, Fruichte der verichiedeniten Ert. Kafer und Schimetferling als Staffage.
+
+Gemalde auf Lwd., von hochit feiner Durchfuhrung. mit dem Namen des Kuniflers und der Jahres zahl.H.50 cm.B.36 cm.S.-R.
+
+## Jtalienifche Schule. 14. Jahrh.
+
+78. Madonna. Die heilige Jungfrau in ganzer Figur mit Brokatmantel. Sie hailt das Chriffuskind, welches von zwei Engeln angebetet wird, im Hrme. Zu beiden Seiten: Heiliger in Ordenstracht und Heiliger in Hermelinmantel. Huf Goldgrund, die Hureolen
+2. mit angeichlagenen Ornamenten.
+
+Hochit intereffantes, wohl erhaltenes Gemalde auf einer Holzplaffe, welche oben im Halbkreis ab IdlieBt. H.92 cm. B.48 cm..R.
+
+## Cornelis DecRer.17. Jahrh.
+
+79. Landichaf. Ein halb zerfallenes Bauernhaus am Ufer eines Fluffes, von groben Baumen umgeben. Jm Vordergrunde mehrere Landleute in Unterhaltung, fowie ein Hngler. Sehr ichon in Farbe und Kompoifion. Lrwd. H. 8O cm. B. 64 cm. S.-R.Siehe Reproduktion auf Tafel 9.
+2. Steine fiBt.
+
+B.33cm.SR.
+## Ch. J.v. d. Laenen zugelchrieben. 1615-1651.
+
+80. Jnterieur. Eine Geiellichaft von Herren und Damen. Hls Hauptgruppe junges Paar,
+2. ein Dueff fingend.
+
+Schones, fein durchgefihrtes Bild auf Holz. H.4O cm. B.54 cm. S.R. Siehe Reproduktion auf Tafel 4.
+
+## Jan van Son. 1658-1718.
+
+81. Frucdhtiftuck. Huf einem Steingelims Pfiriche, Citronen, Kirichen und Weintrauben. Letztere an einer blauen Schleife hangend.
+
+Reizendes, farbenfriches Bildchen mit dem amen des Kuniflers. H. 39 cm. B. 34 cm. ..R.
+
+## UnbeRannf. 18. yahrh.
+
+82. Stillleben. Jm Vordergrunde eines SchloBhofes find Fruichte verichiedener Hrt auf einer
+2. Terraffe gruppirt.
+
+Shones, dekoratives Bild. Lwd. H.91 cm. B. 120 cm. S..L.
+
+## AItdeufiche Schule. 16. Jahrh.
+
+83. St. Midhael. Jn rothem falfigen Gewand mit erhobenem Schwerf. (Die Vertreibung
+2. aus dem Paradies.)
+
+Don auBerordentlidh feiner Durchfuhrung. Huf Holz. H. 32 cm. B. 17 cm. S..R.
+
+## Hrt des Ph. Wouwerman. 1619-1668.
+
+84. Jagdicene. Eine vornehme Geiellichaff nah der Jagd zur Heimkehr ritend.
+2. Sehr hubiches, reid komponirtes Bild auf Holz. H. 47 cm. B. 63 cm. S..R.
+
+## Jan Vollepens. 1649-1728.
+
+85. Weibliches Portrait. Vornehme Dame in dunkelgriunem Kleid in ganzer Figur, auf cinem
+2. Stuhle fibend. Ein mohrenknabe kniet neben ihr.
+3. Sehr feines Bilddhen, rechts mit voller Signatur. Lwd. H. 27 cm. B. 19 cm. .R.
+
+## Cornelis de Heem. 1631-1695.
+
+86. Blumenitiuck. Gartenblumen der verichiedeniten Hrt in und bei einem Korbe, durch JnieRten belebt.
+
+Meiterhaft in Farbe und Technik. Huf Lwd., mit Monogramm. H. 64 cm. B. 78 cm. G.R.
+
+87. Desgleichen. Hehnliche Darifellung und Gegenituck zu vorhergehendem Bilde. Ebenio fchon und ebenfalls mit dem Monogramm bezeicdhnet. H.64 cm. B. 78 cm. G.R. Siehe Reproduktionen auf Tafel 10.
+
+## Jufepe de Ribera. 1588-1656.
+
+88. Hpoftel. Profilbruitbild eines barfigen Greiies, anicheinend St. Petrus. Jn der charakterifichen Manier des Mleiffers. Lwd. H. 72 cm.B. 60 cm.G..R.
+
+## Lieve Verichuier. 1630-1686.
+
+89. Marine. Hollandiche Kriegsichiffe auf leicht bewegter See unweift der Kufte. Jm
+2. Dordergrunde rechts ein Looffenboot.
+
+Trefflichies Bild auf Lwd. Huf einer ichwimmenden Tonne der Nlame des Kiniflers. H. 6O cm.
+
+B.76 cm. S.-R. Siehe Reproduktion auf Tafel 11.
+## J.de Paez.18. Jahrh.
+
+90. 9i. Die vier Welttheile. 1. Europa und Fimerika. Ein roimicher Krieger und ein Wilder. 2. Hfien und Hfrika. Ein Sultan und ein mohrenkonig. Von Rococo-Ornamenten
+
+Sehr interefiante Bilder von hochift feiner Durchfihrung. Signirt. H. 44 cm. B. 17 cm. G.-R.
+
+## AItmiederlandifcher Mleifer. 16. gahrh.
+
+- Jm Hintergrunde eine Landichaf.
+- umgeben.
+92. Madonna. Halbfigur, das ganz unbeRleidete Chrituskind im Hrme haltend und liebkoiend.
+
+Reizendes Bildchen Don fehr kiniflericher Durchufuhrung. Holz. H. 33 cm. B. 28 cm. .R.
+
+## Bonavenfuur Peefers.1614-1652.
+
+93. Seeificdk. Mehrere Schiffe auf iturmgepeitichter See in der Mahe einer feligen Kuite. Gutes Bild auf Holz. Eine ichwimmende Planke tragt die Signafur. H.27 cm. B. 57 cm. S.R.
+
+## Sebaifiaen Vrancx.1573-1647.
+
+94. Chriftus bei dem Phariiier Simon. Eine reic beiebte Tafel mit zahlreichen Baiten. Jm Vordergrunde Chritus, dem St. magdalena die Fube falbt. Judas wird hinter
+
+Dorzugliches, reich Romponirtes Werk. Holz. H.54 cm. B.68 cm.R. Siehe Reproduktion auf
+
+## J.m.W. Turner, angeblich. 1775-1851.
+
+- ift durch zahireicthe Gondeln belebt. Sonnige Beleuchtung.
+- Chriftus fichtbar.
+
+Tafel5.
+
+95. Venedig. Blick auf den Dogenpalast, die Piazetfa und die Dogana. Das ruhige Walfier
+
+Hochit interefiantes Bild auf Lwd. H. 75 cm. B. 125 cm.G.R. Siehe Reproduktion auf Tafel 6.
+
+## m. Jansze Mierepelf. 1567-1641.
+
+96. Weiblicthes Porfraif. Halbfigur einer Patrizierin in dunklem, geblumtem Kleid und gold geffickter Taille. Hm Hals ein Muhliteinkragen, auf dem Haupte ein Spibenhaubchen. Links oben ein Wappen, rechts: Hnno domi. 1638 Hetatis 26.
+
+Sehr aniprecthendes, fchones Portrait auf Holz. H.130 cm. B.100 cm. S.R. Siehe Reproduktion auf Tafel 6.
+
+## Cornelis van Poelenburg. 1586-1667.
+
+- 96a. Diana. mit ihren Nymphen in einer Felienhohle. Sie entdedkt die Schwangerithaft der Kallito.
+
+Feines Bild auf Holz. H. 33 cim. B.47 cm. G.-R.
+
+## Hrt des David Teniers.
+
+97. Flamifches Feit. Vor einem Dorfwirthshaufe zahlreiche fanzende, fchmauiende und trinkende Bauern. Recits Blick auf eine higelige Landicthaft. Sehr gutes Bild von brillanter Wirkung. Ewd. H. 128 cm. B. 212 cm. G.R.
+## L.Cranach zugelcthrieben. 1472-1553.
+
+98. Mannliches Porfrait. Bruitbild eines barfigen Mlannes mit Barett, welcher eine weine
+
+- Nelke in der erhobenen Rechten halt. unter dem gruinen Gewande wird das gefailtelte
+
+Hemd fidhtbar. Bild von feiner Charakteritik. Holz. H. 48 cm. B. 36 cm. S.R. Siehe Reproduktion auf Tafel 7.
+
+## J.B. Lambrechts zugeichr.168o-1731.
+
+- Hubiches Bildchen. Lwd. H.37 cm. B.29 cm. G.R.
+
+## Januarius Zick.1733-1797.
+
+100. Die Daritellung Chriti. Jn einer Tempelhalle der Oberpriefter, das Chrituskind haltend, von zahlreichen Perionen umgeben.
+
+Reidhe Kompolifion. Lwd. H. 142 cm. B. 112 cm. G.R.
+
+## UnbeRannt. 18. Jahrh.
+
+101. 1o2. Zwei Scenen aus der Gelchichte Jakobs. Jakob empfangt das mit Blut getrainkte
+2. Kleid feines Sohnes. — Joieph von leinen Bridern wiedererkannt. Begenificke. Lwd. H.90cm.B.70cm.S.R.
+
+## m. Hobbema zugeichrieben. 1638-1709.
+
+103. Landichaff. Waiiermuhle am Rande eines Geholzes. Recthts auf einem Hugel Hirfen
+2. und Scafheerde.
+3. Huf Holz. Das Bild fragt den namen des Hobbema. H. 58 cm. B. 80 cm. S.R.
+
+## Th.Lawerence? 1769-1830.
+
+104. Portrait. Bruitbild eines Mannes mit frilchen Gelichitsfarben und dunklem, gelocktem Haar. Er tragt fchwarzen Leibrodk und weibe Halsbinde.
+
+Lwd. H.76cm.B.63cm.G.R.
+
+## Willem KI.Heda.1594-1678.
+
+105. Stilleben. Huf einem Tifiche halbgefuillter Romer, Kohlengefab, Tabakspfeife, gefchalfe
+2. Citrone etc.
+
+Sehr fchon in der Farbe. Huf einem Stidk Papier iteht der Mame des Kunitlers. Holz. H. 48 cm. B.36cm.S.R.
+
+## Racthel Ruijich.1664-1750.
+
+106. Blumenitick. Jn einer Vaie Gartenblumen der verichiedeniten Hrt in malerifcther Bruppirung. Gemalde von vorzuglicher Wirkung. Lwd., in der rechten unteren Ecke der Kuniflername. H. 61 cm.
+2. B.74cm.G.R.
+
+## Jan van Boijen. 1596-1656.
+
+107. Landichaft. n der nahe eines Schloffes, welches fich am Ufer eines Stromes erhebt,
+2. ankern verichiedene Fahrzeuge, zwei Kavaliere reiten uber eine Holzbricke.
+
+Jn goldigem Tone gemaltes Bild auf Holz. Ein Kahn fragt das Signum 9. v. . 1637. H. 40 cm. B.53cm.S.R.
+## Meiffer von Sf. Severin. 16. gahrh.
+
+Sehr interefiantes Bild mit zahlreicthen Figuren in falfigen und geifickten Gewandern. Redhts oben das Wappen der Stadt Balel. Lwd. H. 160 cm. B. 120 cm. S.R.
+
+108. St. Uriula. Vom Papfite geleitet, in Baiel einziehend. Der Bifchof von Baiel empfangf die Hnkommlinge knieend. Jm Hintergrunde Stadt-Hrchifektur. Unten eine Jnichrift in gothifchen Lretfern.
+
+## Jtalienifche Schule. 15. gahrh.
+
+- Engel. Huf ornamentirtem Boldgrund.
+109. Madonna. Jn Halbfigur, das Kind auf dem SchooBe haltend, welchem ein junger Rnieender IHlann ein Kreuz iberreicht. Links St. Hieronymus und rechts ein anbetender
+
+Trefflicthe Hrbeit in der itrengen Mlanier der Dorraphaelifchen Meifer. Holz. H. 60 cm. B.45 cm. G.R.
+
+## B.v. der Mleer. 17. Jahrh.
+
+110. Fruchtfick. Weinfrauben, von der Decke herabhangend. Jn einem Korbchen Himbeeren. Gemaide von iehr feiner Durchiihrung. Mif dem Kuniflernamen bezeicthnet. H.52 cm. B.42 cm. G.R.
+
+## Francois Duchaitel. 1625-1694.
+
+111. Verbandplat. Mach der Schlacht werden vor einem Zelte Verwundete verbunden. Links
+
+Figurenreiches Bild von fehr feiner Durchfihrung. Huf metall H. 56 cm. B. 79 cm. S.R.
+
+- Todte und im mlitfelgrunde Verfolgung der Befiegten.
+
+## H.D. Weifhoven. 17. Jahrh.
+
+112. Stillleben. Jagdgerathichaften der verichiedeniten Hrt von einer Bretterwand herabhangend. Lwd. Hubidhes Bild, in der miffe unten fignirf. H. 108 cm. B. 84 cm. S.R.
+
+## Palcha Weifich. 1723-1803.
+
+113. Landichaff. Waldparfie mit Hirt und Kuhherde an einem Bach.
+114. Desgleichen. Waldinneres mit Rothwild an einem Bache.
+3. Reizendes, hochit fein durchgefihrtes Bildchen mit dem Nlamen des Kuniflers. H. 22 cm. B.30 cm. G.R.
+4. Ebenio. Gegenifuick zu vorhergehendem Bilde. Signirt. H. 22 cm. B. 30 cm. G.R.
+
+## Flumilche Sdule.um 1650.
+
+115. Weibliches Portrait. Vornehme Dame in fchwarzem, gelchlintem Koftim und weiber Haube. Um Hals und Bruit tragt die Dargeifelte koifbare Goldketften, an den Hrmen Hrmbinder mit Wappen.
+
+Sehr intereliantes Bild auf Lwd. H.91 cm. B. 68 cm. GR. Siehe Reproduktion auf Tafel 4.
+
+## Bartholomeus Spranger. 1546-1628.
+
+Reidh komponirtes, fchones Bild auf Kupfer. H. 65 cm. B. 48 cm. G.R.
+
+116. Die Geburt Chrifi. maria mit dem Kinde und Sf. Jofeph von den anbetenden Hirten umgeben, in den Lruiften eine Engelsglorie.
+## K. Janek. Datirt 1667.
+
+117. madonna. Die heilige Jungfrau in blaugrunem Gewand mit rothem Ueberwurf in einer Landichaft fibend. Sie hailt das Chriftuskind auf den Knieen, welchem St. Johannes die FuBe RiBt.
+
+Sehr fchon im Kolorit. mit dem namen des Kiniflers rechts unten. 1667. Lwd. H.110 cm.
+
+B.140 cm.G.R.
+
+## Simon de Vlieger zugeichr.160o-1656.
+
+118. Marine. Mehrere Schiffe auf ftark bewegter See in der Mihe eines felfigen Vorgebirges.
+2. Sammtliche Fahrzeuge fihren die hollaindifche Flagge. Gutes Bild auf Holz, in der miffe geiprungen. H. 62 cm. B. 88 cm. .R.
+
+## Deutfcthe Sdule. 17. Jahrh.
+
+119. mannliches Porfrait. Halbfigur eines vornehmen mannes in rothem, goldgeificktem Bewand und Ichwarzer Aillongepericke. Sehr reictes, fein durchgefuhrtes Koitimitick auf Lrwd. H.93 cm. B.76 cm. S.R. Siehe Reproduktion auf Tafel 12.
+120. Desgleichen. Huftbild eines Firifen mit Hermelinmantel uber dem KuraB. Dunkle
+3. Hllongepericke.
+
+Lwd. H.80cm.B.65 cm.S.R.
+
+## J.K. SeeRatz.1719-1768.
+
+121. Der Kartenipieler. Drei manner auf einer Tonne Karfen Ipielend, ein vierfer fteht
+2. rauchend dabei.
+
+Hubiches Bildchen auf Lrwd, links mit S. bezeichnet. H. 29 cm. B. 35 cm. S.·R.
+
+## Hollandifcher Meifter.um 1640.
+
+122. St. Paulus. Bruifbild des Hpoitels mif Schwerf und Buch.
+
+Sehr wirkungsvolles, charakterifiches Bild auf Lwd. H.61 cm. B.50 cm. G.R. Siehe Reproduktion auf Tafel 2.
+
+## P.della Vecchia.1605-1678.
+
+123. Gewalt geht vor Recht. Ein Krieger, das Schwerf in der Hand, ergreiff ein GeieBbuch, welches ein barfiger Breis verfheidigf. Huf dem Schwerfe die Jnichrift: Jus in armis. Schones, kraffig gemaltes Bild auf Lwd. nicht ganz fadelfrei in der Erhaltung. H. 117 cm. B.160 cm.G.-R.
+
+## Shule von Siena.14. Jahrh.
+
+124. Zwei religioie Daritellungen. Chriftus ericheint ieinen Jungern beim Ofterfeif. Hpoftel in einem Tempel lehrend. Huf Boldgrund mit eingeichiagenen Hureolen und Ornamenten. Huf einer Holztafel, welche oben in einem ipiben Winkel endigt. Jn der Hrt des Gioffo. H.16o cm.
+2. B.50 cm..=R.(gofhiich).
+
+## Jtalieniiche Schule. 16. gahrh.
+
+125. madonna. Sie halt das Chrituskind auf dem SchooBe. Links St.Jofeph und der kleine
+2. Johannes, rechts die heilige Katharina.
+
+Hochit anmuthige Dariftellung eines hervorragenden Kuniflers. Holz. H. 84 cm. B. 69 cm. .R, Kleine Beichadigung.
+## William Hogarth zugelchr.  1697-1764.
+
+- Sehr gut gemaltes Bild, auch als Koitumitudk interefiant. Lwd. H. 64 cm. B. 53 cm. S..R.
+126. Huffbild einer jungen Frau mit Haube, welche die Hande im muff verbirgt.
+
+## Luca Giordanno?1632-1705.
+
+127. Bruitbild eines bartigen Hpoitels. Geiffoolle Technik. Lwd. H.53 cm. B.40 cm. .-R.
+
+## J.Fr. de Troij, angeblidh. 1679-1752.
+
+128. Weibliches Portraif. Halbfigur einer jungen Furifin in gepudertem Haar und aus gelchniffener, geblumfer Taille, iber welcher ein rofher Ueberwurf. Die Rechte hailt
+
+Praichfiges Portrait auf Lwd. H. 122 cm. B.94 cm. G.R. Siehe Reproduktion auf Tafel 6.
+
+## Hendrik Hvercamp.159o-1660.
+
+- staffirt.- 2) Schliffichuhlaufer auf einem zugefrorenen Kanal.
+- Weintrauben.
+129. 13o. Zwei niederlandifche Hnichten. 1) Stadthaus in einer niederlandiichen Stadt,reich
+
+Hubiche Bildchen auf Holz. H. 17 cm. B.20 cm. S.-R.
+
+## C. H. Schmidt. Hnfang des 19. Jahrh.
+
+Feinmalerei auf Holz. mif Kuniflerignatur.H. 32 cm. B. 26 cm. .R.
+
+131. Der Brief. Junge Frau am Toiletftenfifcth einen Brief halfend. Hinter ihr iteht ein junger mann.
+
+## Hrt des David Ceniers.
+
+132. Die Kartenipieler. Wirthshaus-Jnterieur mit Bauerngelellichaft an einem Tifche, zwei manner ipielen Karfen. Redhts Familie am Kamin. Lwd. H.56cm.B.81 cm..R.
+
+## Reyburn? Anfang des 19. Jahrh.
+
+- tragt fchwarzen Leibrock und dito Halsbinde.
+135. Porfrait. Bruitbild eines Mannes mit Rurzem Backenbart und dunkelblondem Haar. Er
+
+Lwd. H.76cm. B.62 cm.G.-R.
+
+## W. Kalff zugelcthrieben. 1621-1693.
+
+136. Sfillleben. Huf einem Tiiche verichiedene Schalen mit Fleifth,Backwerk,Fruchten,Blumen etc. Hubiches, dekoratives Bild auf Holz. H. 58 cm.B. 82 cm. .-R.
+
+## .Juncker.18. gahrh.
+
+137. 138. Zwei Genreicenen. Zwei Bauern vor der Thur eines Hauies in Unterhaltung. Raucthender Bauer und junges madchen. Begenificke. Huf metall, ein Bildchen fignirf. H. 14 cm. B. 10 cm. G.R.
+
+## Niederlandiiche Kunifler. 17. yahrh.
+
+139. Hrchimedes mit Meliungen an der Welftkugel beichaftigf.
+2. Holz. H.48 cm. B.36 cm. G.-R,
+140. Seelchlacht.
+
+Sehr fein gemaltes Bildchen auf Kupfer. H. 10,5 cm. B. 17 cm. S..R.
+## Sdhule des P.P.Rubens.1577-1640.
+
+141. Chritus am Kreuz. Jm Hintergrunde Jeruialem und ichwarz auffteigende Wolken.
+2. Wirkungspolles Bild. Huf Holz. H. 103 cm. B. 71 cm. G..R.
+
+## Niederlandiiche Sdule. 17. Jahrh.
+
+142. Weibliches Porfrait. Huftbild einer pornehmen Dame in fdhwarzer Kleidung mif reichem Spibenbeiab und Perlenicthmuck. Gutes Bild auf Lwd. H. 82 cm. B. 71 cm. S.R. Siehe Reproduktion auf Tafel 12.
+
+## Nad David Teniers. 1610-1690.
+
+143. Jnterieur. Kartenipielende, raudhende und trinkende Bauern an einem Kamin. Lwd. H.40 cm.B.52 cm.S.R.
+
+## Balfh. Denner, angebl. 16851749.
+
+144. mannliches Portrait. Kopf eines rauchenden Mlannes.
+2. Lwd.H.35 cm.B.28 cm.S..R.
+
+## Manier des J.Ruliel. 1745-1806.
+
+145. Weibliches Portrait. Halbfigur einer igenden jungen Dame mit braunem lodigen Haar, weldhe die Hande im Sdoobe gefaltet half. Sehr anmuthiges Porfraif. Lwd.H. 90 cm. B. 68 cm. G..R.
+
+## Niederlandiice Sdule.
+
+## 17.Jahrh
+
+146. Blumeniftidk. Steinkartufche mit dem Porrait einer jungen Frau. En grilaille. Die Kartufche ift mit Blumen und Fruditen gelcthmiickt.
+2. Hubiches Bild auf Lwd. H. 92 cm. B. 72 cm. ..R.
+
+## Unbekannt.18.gahrh.
+
+147. Weibliches Porfraif. En face Bruifbild einer jungen Dame in ausgeichnitfener blauer
+2. Taille und gepudertem Haar. Paftellgemalde. H.36 cm. B. 28 cm. S..R.
+
+<!-- image -->
+## Zweiter Auctionstag.
+
+mittwoch, den 12. Februar 1902, Don 10 uhr ab.
+
+<!-- image -->
+
+## Unbekannt. 18. Jahrh.
+
+148. Buftbild eines mlannes mit gepudertem Baar. Lwd. 6.79 cm. B. 68 cm. .R.
+2. Gegenitidke. 5. 94 cm. B. 131 cm. Ohne Rahmen.
+149. 15o. Zwei Stillleben. Frichte und Blumen in Landichaffen mit Papagei und Bahn.
+
+## L.Bohm.1760.
+
+151. Weiblides Portrait. Bruifbild einer alten Frau in weiber Baube. Lwd. 6. 32 cm. B.26 cm. Br.-R.
+
+## Deutfdher Kunifler. 18. Jahrh.
+
+152. 153. Zwei Jnterieurs mit Familienicenen in Rococo-Koifum. Sehr fein gemalte Bilder auf Lwd. B.33 cm. B.27 cm..R.
+
+## Hrt des Salv. Roia. 1615-1673.
+
+154. Landichaff. Fellige Gegend mit Waiierfall und zwei Figuren als Staffage. Lwd. B. 49 cm. B.60 cm. S.R.
+
+## Nadh Tiziano Vecellio. 1477-1576.
+
+155. St. marcus. Huf einem Poifamente fhronend, von Dier Beiligen umgeben. Gute alfe
+2. Kopie.Lwd. 5.68cm.B.44 cm.
+
+## Hngebl.C.W. E.Dietridh.1712-1774.
+
+156. Jnterieur. Zwei alte Leute am geoffneten Feniter (Cobias und iein Weib?) Bolz.
+2. 5.23 cm.B.19 cm.S.-R.
+
+## Nach H.D.Dydk.1599-1641.
+
+157. H.v. Dyk. Bruifbild, nadh links gewendet. Lwd. 5.23 cm. B. 18 cm. .R.
+
+## n.v.Verendael bezeichnet.164o-1691.
+
+158. Blumenitidk. Eine Glasvaie, welche auf einem Poitament ifeht, enthalt Gartenblumen der verichiedenifen Hrt. Zwei Shmetferlinge beleben die Dariftellung. Sehr farben frilches Bild auf metall. Signirt. 5. 52 cm. B. 37 cm. S.-R.
+## J.v.Huchtenburgh zugelchrieben. 1646-1733.
+
+159. Sdhlacht. Schwedicthe und ruliche Reiterei im Kampfe. Bubicthes, lebendig gemaltes
+2. Bilddhen auf Bolz. 6. 27 cm. B. 33 cm. G.R.
+
+## Hrt des Frans Pourbus. 1545-1581.
+
+160. Portrait. Buftbild eines Feldherrn in Bruitharnifch mit Kommandoitab. Bolz. B. 65 cm. B.51 cm.S.R.
+
+## Joh. Ch. Vollerdt. 1708-1769.
+
+161. Landicthaft. SchloBruine auf einem Bugel, links FluBthal. Von feiner Durchfuhrung.
+2. 5olz. 5.28 cm. B.38 cm. G.R.
+
+## Spaniiche Schule. 17. Jahrh.
+
+162. Chritus in reidher Gewandung, einen Blumenitab in der Rechten, fuhrf ein Kind an der
+2. Band. Jnfereliantes Bild auf Bolz.6.153 cm.B.95 cm..R.
+
+## Manier des Dav. Teniers. 1610-1690.
+
+163. Jnterieur. Ein Bauer wird von einem Quadkialber chirurgifcth behandelt. Subicdies Bild.
+2. Lwd.5.39cm.B.54cm.B.R.
+
+## Jfalieniiche Schule. 16. gahrh.
+
+164. Der Belucdh. Die Feilige Jungfrau begriBt St. Elifabefh vor der Chur des Bauies. Bolz. 5.43cm. B.37 cm.G.-R.
+
+## Unbekannt. Ende des 16. Jahrh.
+
+165. Der engliche GruB. Balbfiguren. Huf Bolz. 5. 35 cm. B. 46 cm. G.R.
+
+## J.Jordaens zugeichr. 1593-1678.
+
+166. Der trunkene Bacchus. Balbfigur mit Weinfrauben und drei Satyrfiguren. Lwd. 6.136 cm. B. 110 cm. S.-R.
+
+## Miederlandifcher Kunffler.17. Jahrh.
+
+167. marine. Zwei Fifcherboote auf ipiegelglatfer See. Hbenditimmung. Lwd. in fergo mit
+2. D.d. Velde bezeichnef. 5.41 cm. B. 33 cm. S.-R.
+
+## UnbeRannte Kunifler. Verichiedene Zeit.
+
+168. Kopf der madonna. mit gelenkten Blicken und weiBem Kopffuch. Huf Bolz, itark be
+2. ichadigf. 5.18 cm.B.14,5cm..R.
+169. mainnliches Bruitbild. Redts oben: Franciscus Jndia med. Bolz. 6. 30 cm. B.22 cm..-R.
+170. Desgleichen. Gelehrter mif ichwarzem Kappchen. Bolz. 6. 14 cm. B. 12 cm. G.R.
+171. Portrait. Buftbild eines Offiziers. Ueber dem Bruitharnich ein weiBer Uniformrock mit
+6. blauen Hufihligen.Lwd. 5. 85 cm. B.64 cm. S.R.
+172. Desgleichen. Furitin in goldgeificktem Koftum und Bermelinmantel. Suftbild. Lwd. 5.81 cm.B.62cm..R.
+## UnbeRannte Kunitler.  Verichiedene Zeit.
+
+- Jungern Don Emmaus. Gegenifucke. Huf Bolz. 5. 32 cm. B. 51 cm. .R.
+173. 174. Zwei Landichaffen. Hls Staffage die Flucht nach Hegypten und Chriftus mit den
+175. Stillleben. Zwei fchnabelnde Cauben, durch eine Kabe belchlichen. Lwd. b. 39 cm.
+
+## J.meffenleifer.1750-1825.
+
+- B.31 cm..R.
+176. Zwei Genreicenen. Ein mann, welcher Wein in einen Krug laufen lobt. Junge mutter mif Kind. Sehr fein durchgefuhrte Bilder. Huf Kupfer. S. 41 cm. B. 28 cm. S.R.
+
+## Niederlandifther Kunitler.19. yahrh.
+
+177. Winter. Junges Paar, die Schliffchuhe anichnallend. Hquarell. B. 28 cm. B. 35 cm. Berahmt.
+
+## Nach J.R. Smith. 1752-1812.
+
+178. Der Beluch beim GroBpater. Reizende Genreicene von funf Figuren. Sehr Ichones Koitiumifick von feiner Durdifuhrung. Lwd. B. 51 cm. B. 40 cm. .R.
+
+## Deuticdhe Schule.17. Jahrh.
+
+179. Mannliches Porfraif. Balbfigur eines jungen Furiften mit goldtauichirtem Bruitharnilch. Die Recite half den Kommandoitab. Shones Porfrait auf Lwd. 6. 96 cm. B. 78 cm. S.R.
+
+## Rembrandts Schule. 17. Jahrh.
+
+180. Studienkopf. Bruitbild eines Mlannes mif hoher Pelzmube. Bubichies Bild auf Bolz. 5.23 cm.B. 18 cm. S.-R.
+
+## Frans Hals bezeichnef. 1581-1666.
+
+- dem Ilamen. 6.42 cm. B.37 cm. S.R.
+181. Miederlandifcher Bauer. Ladhender Kopf mit fchwarzem Schlapphut. Huf Bolz, links mit
+
+## Niederlandifcthe Schule.Vericiedene Zeit.
+
+182. Winterlandichaff. Strabe einer Stadt mit vielen Perionen und Chieren als Staffage. 5olz. 6.37 cm. B.44 cm. .R.
+183. Landichaft. Jm Vordergrunde Birten mif Beerde an einem Flufie. Lwd. 5. 47 cm. B.50cm. S.R.
+3. 184.madonna. Jn ganzer Figur mit St. Jofeph und zwei Beiligen. St. Johannes bringt dem Kinde Fruichte. Huf Kupfer. 5. 29,5 cm. B. 19 cm. Oben abgerundet.
+186. Der Crinker. Bruifbild eines Mlannes, welcher einen Krug hilt. Bolz. 6. 67 cm.
+
+## Jan Mienie Molenaer? 1668 gelforben.
+
+- Hrme, ifeht daneben. bolz. 6. 25 cm. B.28 cm. S.R.
+185. Botfer Bachianal.Venus, Baccus und Ceres an einem Ciiche, von Bacchanfen und Amoreffen umgeben. Lwd. b. 58 cm.B.72 cm. B.R.
+- B.58 cm.S.-R.
+187. Bauernicene. Jnterieur mit Schuhmacher bei der Hrbeit. Die Frau, ihr Kind auf dem
+## manier des Antonio Canal. 1697-1768.
+
+188. Venedig. Kirdhe an einem Kanal. Jm Vordergrunde zahlreiche Koitumfiguren. Lwd.
+2. 5.60cm. B.82 cm.S.R.
+
+## Nicolay Krus. 17. yahrh.
+
+189. Reiterporfrait. Ein Feldherr zu Pferde mit Gefolge und Pagen. Jntereliantes Bild auf
+2. Bolz mit dem namen des Kuniflers. 6. 35 cm. B. 52 cm. G.-R.
+
+## Nad Eug. Verboekhoven. 1799-1881.
+
+190. Beerde einen Bad durchichreitend, der den Vordergrund des Bildes einnimmt. Jm
+2. miffelgrunde der Birf. Bolz, lignirf. 6. 34 cm.B. 49 cm. B.-R.
+
+## Niederlandiiche Scule. 18. Jahrh.
+
+191. Jnterieur. Zwei Bauern beim Bretfipiel. Ein dritfer mit der Pfeife als Zuichauer. Bolz.
+2. 5.62 cm.B.40 cm. G.R.
+
+## Unbekannf.18. yahrh.
+
+192. Weibliches Portrait. Die Markgrifin von Bayreuth, Schweiter Friedrichs des GroBen.
+2. Jn blauem Koituim und Spitzenhalstuch. Schones Bild auf Lwd. B.47 cm. B.36 cm. G.R.
+
+## Jacopo Mlarieldhi. 1711-1794.
+
+193. Venedig.  Parfie am Canal grande. Das Walier im Vordergrunde ift durch zahlreicdhe
+2. Gondeln mit Jniaiien belebt. Subiches Bild auf Lwd. 5.52 cm. B. 63 cm. G.R.
+194. Venedig. Blick auf die Piazzeffa,Dogenpalait und Seufzerbricke. Zahlreiche Gondeln
+4. beleben den Vordergrund. Ebenio. 5. 50 cm. B.63 cm. G.R.
+
+## Felix Kreuzer. 17. Jahrh.
+
+195. Landichaff. Bauernhof im rechten Vordergrunde. Hls Staffage Chritus mit den Jungern
+2. von Emmaus. Huf Kupfer. 5.23 cm. B. 33 cm. .R.
+
+## B.H.Berdkheyde.1638-1698.
+
+196. Jnterieur. Eine Sdhenke mit rauchenden und trinkenden Bauern. Ein Geiftlicher, welcher Huf 5olz.5.41 cm.
+2. durdh die Chur tritt, icheint den Zechern Vorwurfe zu machen. B.60 cm. S.R.
+
+## 1591-1634.
+
+## Le Valentin zugelcrieben.
+
+197. Buftbild. Junger Mann in reicher Kleidung, mif Federbareff und erhobener Rechten. Lwd. 5.66cm.B.57 cm.S.-R.
+
+## E. Dan der Poel zugelchrieben. 1621-1664.
+
+198. nachtitidk. Niederlandiche Stadt an einem Kanal, einige Bauier in Flammen. Huf Bolz. Oval.5.52 cm.B. 68 cm..R.
+
+## Manier des J. D. de Heem. 1600-1684.
+
+199. Stillleben. Huf einer Kaiietfe iteht eine Metallichale mif verichiedenen Frudten. Bild Don gufer Wirkung auf Lwd. Recdhts unten das Monogramm des de Beem. B.41 cm. B.55 cm.S.-R.
+## Hrt des W.D.d. VeIde.1633-1707.
+
+200. mlarine. Mehrere Schiffe auf See, das vorderite ift eine hollindifche Korvetfe. Bibiches Bild auf Lwd. 6. 40 cm. B. 54 cm. HIter .R.
+
+Hrt des H.v. de Velde. 1635-1672.
+
+- Eine Kuh und zwei Schafe, im Sintergrunde ein Dorf. Bolz. b. 15 cm. B.20cm. S.-R.
+
+## Hrt des Nic. Berchem. 1620-1683.
+
+- Birten mit ihrer Beerde, welche aus Rindvieh befteht, einen Fluk durdh fchreitend. Hbendifimmung. Lwd. 6.41 cm. B. 60 cm. S.R.
+
+## Hrt des Frans Floris. 1517-1570.
+
+203. Cleopatra. Knieifick mit entbloitem Oberkorper, in jeder Band eine Mafter haltend.
+2. Bolz. B.67 cm. B. 51 cm. S.R.
+
+## Sdule des H. BoIBius. 1558-1616.
+
+204. St. Bieronymus. Jn der Einode fich Raiteiend und heilige Schriften leiend. Daneben der Lowe. mif Iateinifcher Jnichriff. Bolz. 6. 36 cm. B. 24 cm. S.R.
+
+## L.v.RoeBler.Geb.1842.
+
+205. SchloBwache. Jnterefianfes Hrchitekturiftidk mit Soldaten und zwei madchen als Stafage.
+2. Feines Bildchen. 6. 15 cm. B. 20 cm.G.R.
+
+## Karl Seb. Bemmel. 1743-1796.
+
+- wirkungsvoll gemaltes Bilddhen auf Bolz. 5. 23 cm. B. 30 cm. .L.
+206. Dorfitrabe mit brennendem Baus. Zahlreiche Perionen als Staffage. Sehr lebendig und
+
+## Nad David Teniers. 1610-1690.
+
+207. Der Wunderdoktor. Balbfigur eines Mannes, welcher mit der Linken eine Phiole empor
+2. halt. Fein gemalfes Bildchen auf Lwd. B. 20 cm. B. 15 cm.B.R.
+
+## m. g. Waelelaerch. Erite Halfte des 19. Jahrh.
+
+208. Marine. Mehrere Fifcherboote auf See unweit einer niederlandifchen Kuitenitadt. Feines Bildchen auf Bolz. Signirf. 5. 20 cm. B. 25 cm. S.R.
+
+## Unbekannfe Kunifler. verichiedene Zeit.
+
+209. Skutari. Blick auf die Stadf mit einer moichee und reicher Staffage. Lwd. B. 61 cm. B.77 cm..R.
+210. Beilige Nonne. Sie fchreibf in ein Bucth. Ein Engel itehf hinter ihr. Lwd. B. 46 cm.
+3. B.42 cm.S.-R.
+211. Democritus. Balbfigur eines Iachenden Greiies. Lwd. 5. 72 cm. B. 59 cm.
+212. Sturm. Bochgehende See mit fcheiterndem Schiff. Rechts befeifigte Stadf. Lwd. B. 53 cm. B.72cm..R.
+213. 214. madchen- und Knaben-Bruitbild. Gegenificke. Lwd. 6.38 cm. B.29 cm. G.R.
+215. Die Geburt Chrifi.Die madonna das Kind nahrend. Lrinks St. Jofeph und anbetende Birten. Kupfer. 6.31 cm. B. 44 cm. G.R.
+8. 201.Chieritick.
+9. 202.Die Furth.
+## UnbeRannte Kunifler.  Verchiedene Zeit.
+
+216. 217. Zwei lindliche Genreicenen. Landliches Mahl. Jn der Spinnitube. Gegenificke.
+2. Figurenreiche Bildchen. 5.20 cm. B. 28 cm. S.R.
+218. 219. Zwei desgleicen. Scenen aus Dorfichulen. Ebenio. 5.20 cm. B. 28 cm. S.R.
+
+## liederlandifche Schule. Ende 17. Jahrh.
+
+220. Loth mit feinen Todhtern. Sehr feines Bildcen auf Holz. 6. 15 cm. B. 20 cm. G.R.
+
+## UnbeRannte Kunitler. Veridtiedene Zeit.
+
+- 221-223. Drei Oelbilder. mannlicher Kopf. Die eriten Eltern in der Vorholle. Geflugelituck.
+- Huf Bolz und metall. Verichiedene GroBe. S.R. und G.R.
+224. 225. Verihiedene Chiere. Zwei Landichaffen, in welchen Chiere der verichiedeniten
+- Hrt paarweife gruppirt find. Lwd. Gegenifticke. 6. 47 cm.B. 63 cm. R.
+- Die Befreiung St. Petri Der Engel weit dem Hpoifel den Weg zur Freiheif. Bolz.
+226. B.61 cm.B.50 cm.Gerahmt.
+227. Landichaff. Gebirgsdorf zwifchen Baiumen. Pappe. 6. 10,5 cm. B.21 cm. .R.
+- 228.S Scladht. ReiftericharmuBel im Vordergrunde einer Landichaft. Lwd.b.38cm. B.46cm. Br.-R.
+- Madonna. Balbfigur, mit Chritus, yohannes und drei Engeln. Jn runder Einfafiung. Huf
+- 229.I Kupfer.6.13 cm. B. 10 cm. S.R.
+230. Der Cod des Bypolith. Er wird von durdigehenden Pferden gelchleift. Bolz. b.15 cm.
+- B.17 cm.S.R.
+
+## 1619-1668.
+
+## Art des Ph. Wouwerman.
+
+231. Scimmel. Geiaftelt in einer Landichaff ffehend. Der Reifer it abgeifiegen und ruht an einem Baumifamme. 5. 30 cm. B. 22 cm.S.R.
+
+## D.van Bergen zugeichrieben.T Thafig 1661--1690.
+
+232. Chierifidk. Kuhe, Sdafe, Ziegen und ein Bund im Vordergrunde einer Lrandichaft. Lwd. Friich in den Farben. 6. 55 cm.B. 47 cm. S.R.
+
+## Niederlandifcher Kunitler.17. gahrh.
+
+233. Reiterkampf. Geharnifchte mit geichlojienem Vifier im Vordergrunde einer niederlandifchen
+2. Landichiaf. Bubiches Bild auf Kupfer. P.Snayers zugeichrieben. B.30 cm. B. 45 cm. .R.
+
+## Nad P. Veronele. 1528-1588.
+
+234. St. Laurenfius. Das martyrium des Beiligen. Figurenreiche Kompofition.  But gemaltes Bild auf Lwd. 6.51 cm. B.70 cm. S.R.
+
+## Niederlandifche Schule. 17. gahrh.
+
+- Frau einen Leierkaiten drehend. Knabe mif Papagei.
+- 235.235a. Zwei Genreicenen.F Begenifike. Huf Bolz.B. 23 cm. B. 19 cm. S.R.
+236. madonna. Die heilige Jungfrau mit dem Kinde, von St. Joieph, St. Johannes und
+- St.Hnna umgeben. Lwd. 6. 97 cm. B. 73 cm.S.R.
+## Hngeblich .v. Piloty. 1826-1886.
+
+237. Der Zufammeniturz eines Cempels. Hnicheinend Allegorie auf den chrifichen Glauben. Lwd.5.55cm.B.35cm.S.R.
+
+## Bezeichnet G. Sch.1818. Anfang des 19. gahrh.
+
+238. 239. Zwei Porfraits. Mainnliches und weibliches Bruifbild. Gegenitucke. Huf Metall. 5.30cm. B.23cm..R.
+
+## Unbekannte Kunifler. Verdhiedene Zeit.
+
+- Landichaf. Lwd. 6. 41 cm. B.32 cm. W.R.
+241. Venus und meleagar. Hbichiedsicene. Lrinks Hmoreffe mit Jagdhund. Skizze. Lwd. 5.47 cm. B.50cm..R.
+242. Landichaff. Ein Schafer blait die Flote, rechts ein Stier und zwei Ziegen. Lwd., fignirt. 5.53 cm. B.63cm. .R.
+243. Das Bruitbild Lufhers mit fchwarzem Bareff. Bolz. 6. 4O cm. B.32 cm. S.R.
+245. Miederlandifches nterieur mit der Wirthin und zwei Bauern. Bolz. 5. 14 cm. B.20cm. S.R.
+244. Reifergefecht im Vordergrunde einer Landichaff. Bolz. 5. 19 cm. B. 25 cm. S.R.
+
+## F. Rufer. Miffe des 19. Jahrh.
+
+- HuBerordentlich fein durchgefuhrfe Hquarellminiature. Signirf. Oval. B.15 cm. B.14 cm. Berahmt.
+
+## HngebI.O.v.Veenn. 1558-1629.
+
+- 5olz.5.28 cm.B. 39 cm.B.R.
+
+## J.P.uIbricht. Hnfang des 19. Jahrh.
+
+248. Hrchitektur. Hltes IchloBarfiges Gebaude. Hls Staffage militariche Scene. Lwd., fignirt. 5. 48 cm. B.63cm.G.R.
+
+## F. Gauermann bezeichnet. 1807-1862.
+
+249. Kuhe und Ziegen auf der AIm. Lwd., fignirt. 5. 45 cm. B. 57 cm. S.R.
+
+## Franzofifcther Kunitler. 18. gahrh.
+
+250. Landichaft mit Birfen bei einer Fontaine. Jm Vordergrunde Schwane. Lwd. 6. 63 cm. B.54 cm.S.R.
+
+## Ch. G. Shub.1718-1791.
+
+251. Blick auf den Drachenfels am Rhein. Lwd. Bubiches Bild. 6.38 cm. B. 61 cm. G.R.
+
+## UnbeRannfe Kunitler. Verichiedene Zeit.
+
+252. Bauernhaus, von Baumen umgeben. Lwd. B. 84 cm. B. 65 cm.
+253. Buiftbild einer jungen Dame in ausgelchnifener meergriner Caille. Lwd. 5.77 cm. B.63cm.
+254. StrauB von Garfenblumen. Lwd. 5. 63 cm. B. 47 cm.
+255. Drei Daritellungen. St. Fieronymus. St. Magdalena. Der Cod der heiligen Magdalena. Lwd. 5.30cm.B.23cm.G.R.
+## J.millet zugelchrieben. 1666-1723.
+
+256. Landichaf. Gebirgige Gegend mit groBen Baiumen. Junges Paar am Wege. Lwd.
+2. 5.83 cm. B. 56 cm. S.-R.
+
+## Hrt des Micol. Berchem. 162o-1683.
+
+257. 258. Zwei Sirtenicenen. Birten bei einem Brunnen ruhend. Sirten auf dem Maricth.
+2. Huf Bolz. Gegenifticke. 5. 20 cm. B. 25 cm. S.R.
+
+## Hrt des Dav. Teniers.1610-1690.
+
+259. Landichait. Ein Bohlweg im Walde, mit mehreren Landleuten als Staffage. Bolz.
+2. 5.24cm.B.32 cm.S.-R.
+260. Die BogenichuBen. Kompofifion von acht Bauern vor einem Wirfhshauie. Sehr gut
+4. gemaltes Bildchen auf Bolz. 5. 25 cm. B. 37 cm. G..R.
+
+## G.van Tilborgh? 1625-1678.
+
+261. Jnterieur. Zwei Bauern, an einem Ciche fibend, ipielen Karten, zwei andere ichauen zu, ein driffer wendet den Rucken. Subiches Bildchen auf Bolz in der Manier des H.v. Oitade. 5. 28 cm. B. 33 cm. S.-R.
+
+## Niederlandifche Schule. 17. Jahrh.
+
+262. Madonna. Balbfigur, das ganz unbekleidete Kind auf dem Schoobe haltend. Huf Bolz.
+2. Lebhaft in den Farben. 6.41 cm.B. 34 cm. S.R.
+
+## Shule Rembrandts.17. Jahrh.
+
+263. Bruifbild eines barfigen Greifes mit geienkten Blicken. Huf Bolz. B. 23 cm. B.17 cm.
+2. .-R. Durchbrochen.
+
+## J.Wenglein.
+
+264. Chriffus am Kreuz. Lwd. 5.120 cm. B. 82 cm. G..R.
+
+## Hngebl. Karl Blechen. 1798 -1840.
+
+265. Waldparfie. Huf einer Bolzbrucke, welche iber einen Bach fuhrt, zwei junge madchen. Creffliches Bild, ganz in der Manier des Kuniflers. Lwd. 5.58 cm. B. 72 cm. G.-R.
+2. 266-268. Drei gerahmte Kupferifiche von C. n. Codin und g. Ph.le Bas. Hniicdhten der
+3. Bafen Mlarieille und Toulon. Royal-Quer-Folio.
+4. 269-271. Drei desgleichen Don Denielben. Hnichten von le Havre, Bordeaux und Golphe
+5. de Bandol. Royal-Quer-Folio.
+272. 273. Zwei gerahmte Hquafinfablaffer, farbig, nadh R. Dodd. Scenen aus der Schlacht
+7. Don Trafalgar.mit Rand. Jmperial-Quer-Folio.
+274. 275. Zwei gerahmte Lithographien von StraBgichwandtner. Kolorirf. Die Rennpferde Baihi Bozuk und Ducrow. Royal-Quer-Folio.
+276. Gerahmtes Schabkunitblaff von Ward nach Weitall. Elfiex und Eliabeth von England. Royal-Quer-Folio.
+277. Gerahmte Cuichzeicthnung von einem niederlindichen Kinitler. Landichaft mit Kirche und reicher Staffage. Sehr fein durchigefihrtes Blatf. 5. 34 cm. B. 45 cm.
+2. mit Rleinem Rande. Royal-Quer-Folio.
+278. Gerahmtes Schabkunifblaff von J.R. Smith nach Bome. Hitarte und Zadig. Schoner Druck
+279. Helferes Oelbild auf Bolz. Bofferliebichaff. 5. 47 cm. B. 59 cm. S.-R. Defekt.
+5. Hbdruck auf chinelichem Papier mit Rand.
+280. Gerahmter Kupferifich pon E. mandel nacdi Ciziano. La bella di Ciziano. Vorzuglicther
+281. Helteres Oelbild. Stilleben. Lreinwand. 5. 60 cm. B. 52 cm. G.-R.
+8. Blatf mit Rand. Br.-Quer-Folio.
+282. Gerahmter Farbendruck von n. Schiavoneffi nacth Creiham. Hdam und Eva. Schones
+283. Gerahmte Bouacthe, bezeichinet 9. L. 1828. Der Rheinfall bei Schaffhauien.S Staffirt.
+11. 5.41 cm.B.52cm.
+284. 284a. Zwei gerahmte Glasbilder, pericth. Furit und Furifin. Bei einem Bilde die Scheibe
+285. Oelbild von S. Seitz. Balbfigur einer Sibylle mit Schriffrolle. 5. 84 cm. B. 60 cm. B.R.
+14. zerbrochen. 5.44 cm.B.34 cm.
+286. 287. Zwei Oelbilder von Fromm. Jtalienilche Landichaften. 5.20 cm.B.ca.25 cm. .R.
+289. 29o. Zwei altere Oelgemalde, anicheinend von e.W. E. Dietrich. Kopfe von Orientalen.
+288. Gerahmter Kupferifich von e. Mayer. Der Dom zu KoIn. Royal-Quer-Folio.
+18. Begenituicke.B.25 cm. B. 18 cm. B.R.
+291. 292. Zwei gerahmte Photographien nach H. del Sarto und Raffaello Sanfi. madonnen.
+20. Royal-Folio.
+293. Eine desgleichen. Die Malerin Vigee le Brun. Se ipse pinx. Royal-Folio.
+22. 297-299. Drei gerahmte Kupferifiche von R. morghen. Philosophia. Cheologia. Poesis.
+23. 294- 296. Drei desgleichen. Skulpturen nach der Hntike. Kreuzabnahme. Royal-Folio.
+24. Nacth Raffaello Sanfi.
+300. 3o1. Zwei desgleichen. Landicthaften mit myfhologicther Staffage. Royal-Quer-Folio.
+302. 3o3. Zwei gerahmte Kupferitiche von G. Edelinck und R. morghen. Fred. Leonard. Chalia. Br.-Folio.
+304. Sieben gerahmte Photographien. Daritellungen aus dem Leben Chrifi. nach alten Reliefs. Gr.-Folio.
+305. 306. Zwei gerahmte Hquarelle. Kindericenen. 5.13 cm. B.9 cm.
+308311. Vier Oelbilder von Lowe, Breslau. HIte Berliner Hnichten. (Ein Bild
+307. Oelbild auf Kupfer. Soldat am FluBufer. 5. 24 cm. B. 20 cm.
+31. G.-R. ohne Rahmen.)
+312. 313. Zwei Oelbilder von G. Lange. Landichaffen. Gegenificke. 5. 23 cm. B.31 cm. G.R.
+314. 315. Zwei Oelbilder. Madonna mit dem Kinde. Huf Kupfer. Lrandichaft mit Bauernhaus.
+
+<!-- image -->

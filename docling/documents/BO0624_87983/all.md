@@ -1,0 +1,1428 @@
+<!-- image -->
+
+## VERSTEIGERUNG:
+
+## FREITAG,DEN 10.NOVEMBER 1911
+
+VON 11UHR AB.
+
+## JAN van OS.
+
+1744-1808.
+
+## Blumenstiick.
+
+Nr.1.
+
+In einem TongefaB 3 Gartenblumen der verschiedensten Art zu einem StrauBe gruppiert.
+
+Leinwand.An der Tischkante die Kunstlersignatur.H.51 cm, B.39,5 cm.G.-R.
+
+## BALTHASAR DENNER.
+
+1685-1749.
+
+Ein Heiliger.
+
+Nr.2.
+
+Brustbild eines bartigen Greises mit Heiligenschein. Leinwand.H.31 cm,B.22,5 cm.G.-R.
+Nr.4.
+
+## Schule des P.P.RUBENS.
+
+## Nr.3. Kampf der Land- und Wasserbewohner.
+
+Am felsigen Ufer Krokodil und Tiger im Kampf. FluBgott, Nymphe und Amoretten als Zuschauer.
+
+Leinwand.H.28 cm,B.35,5cm.S.R.
+
+## DEUTSCHER KUNSTLER.
+
+17. Jahrh.
+
+## Die Kreuztragung.
+
+Christus, unter der Last des Kreuzes zusammengebrochen, von
+
+Henkern gegeibelt. Simon von Cyrene hilft das Kreuz tragen. Im Hintergrunde Berittene.
+
+Holz.H.17 cm,B.12 cm.Architektonischer R.
+
+Nr.5.
+
+## Die Kreuzigung.
+
+Christus wird mit Nageln an das Kreuz geheftet. Im Hintergrunde die klagenden Angehorigen Christi.
+
+Holz. H.17 cm,B.12 cm.Architektonischer R.
+Nr.6.
+
+## HIERONIMUS FRANCKEN.
+
+1578-1623.
+
+## Gastmahl.
+
+Kavaliere und Damen, um eine mit Frichten besetzte Tafel sitzend. In der Mitte der Wand Darstellung einer Plunderung, rechts das jungste Gericht.
+
+Holz.H.22 cm,B.36cm.S.R.
+
+## A.WYNANTSZ.
+
+Gestorben nach 1848.
+
+## Architektur.
+
+Nr.7.
+
+Partie aus einer niederlandischen Stadt. Vorn Hauser an einem
+
+Kanal, im Mittelgrunde gotische Kirche.
+
+Leinwand. Links unten signiert. H.20,5 cm, B.26 cm. S.R.
+
+## FR.POURBUS. Art
+
+16. Jahrh.
+
+## Weibliches Bildnis.
+
+Nr.8.
+
+Brustbild einer Nurnberger Patrizierin in jugendlichem Alter. Uber der roten, mit Gold- und Silberborten besetzten Taille ein prachtiger
+
+Spitzenkragen.
+
+Leinwand.H.42 cm,B.32 cm.S.R.
+Nr.9.
+
+## JAN van HUIJSUM.
+
+1682-1749.
+
+## Blumenstick.
+
+Auf einem Steinpostamente angeschnittene Melone, Weintrauben, Pfirsiche, Kirschen und Blumen.
+
+Holz. Mit dem wollen Namen des Kunstlers bezeichnet. H. 51 cm, B.41 cm.G.-R.
+
+## HANS HOFFMANN.
+
+Zweite Halfte des 16.Jahrh.
+
+## Klaus Narr.
+
+Nr.10.
+
+Portrat des Hofnarren Kaiser Rudolphs Il. Kopf mit roter Kappe.
+
+Auf eine runde Holztafel gemalt. Durchm.16 cm. Br.R.
+
+## PAOLO FARINATI
+
+1524-1606.
+
+Eigenportrat des Kunstlers.
+
+Unten
+
+Nr. 11.
+
+Brustbild in schwarzer Kleidung und schmaler Halskrause. die Inschrift: Paulus Farinatus P. V.
+
+Holz.H.19,5 cm,B.14cm.G.-R.
+Nr.12.
+
+## PEETER GYZELS.
+
+1621-—1690/91.
+
+## Jagdstilleben.
+
+Im Vordergrunde einer Landschaft neben Flinte und Jagdtasche ein toter Schwan, ein Hase und Gefligel verschiedener Art. Ein Hund bewacht die Jagdbeute.
+
+Kupfer.H.51 cm,B.42cm.G-R.
+
+## JAN FYT.
+
+16111661.
+
+## Jagdstilleben.
+
+Nr.13.
+
+Toter Hase im Vordergrunde einer Landschaft an einem Baumstamme liegend. Daneben zwei tote Singvogel.
+
+Holz.H.29 cm,B.42 cm.G.-R.
+
+## DOMENICO ZAMPIERI. DOMENICHINO.
+
+1581-1641.
+
+## Madonna.
+
+Nr.14.
+
+Die heilige Jungfrau in blauem Gewande halt das ganz unbekleidete Christuskind auf dem Schobe.Durch ein Fenster im Hintergrunde Blick in das Freie. Mit Benutzung einer Komposition des Raffaello Santi.
+
+Leinwand.H.30,5cm,B.24cm.G.-R.
+Nr.15.
+
+## CORNELIS DUSART.
+
+1660-1704.
+
+## Der Trinker.
+
+Lachender Mann mit rotem Barett, vor seinem Hause sitzend, halt einen kolossalen, mit Wein gefuillten Romer mit beiden Handen. Im Hintergrunde Landschaft bei untergehender Sonne.
+
+Leinwand.Im Grunde rechts mit dem Kunstlernamen bezeichnet. H.39 cm, B.31 cm.G.-R.
+
+## DEUTSCHE SCHULE.
+
+Nr.16.
+
+Mitte 17. Jahrh.
+
+## Philippina Sabina, Grafin von Hohenlohe.
+
+Ganze Figur in schwarzem, mit Silber besticktem Gewande. Die Rechte halt eine Orange. Durch ein Fenster im Hintergrunde blickt man auf ein SchloB.
+
+Kupfer. Links unten Name und Titel der Dargestellten. 1653. H. 21 cm, B.15cm.S.R.
+
+## Nr.17.
+
+## Charlotte, Grafin von Hohenlohe.
+
+Ganze Figur in lila Gewand mit Silberstickerei. Die Linke halt einen Facher.
+
+Kupfer.Links oben der Name der Dargestellten. 1652. H.21 cm, B. 15 cm. S.R.
+Nr.18.
+
+## KAREL van FALENS.
+
+1683-1733.
+
+## Jagdszene.
+
+Ein Mann fuihrt einen Schimmel am Zaum, daneben Jager, eine Ziegenmelkerin liebkosend. Im Mittelgrunde Piqueur, einen Falken auf der Faust. Das Original von Wouwerman in der Pinakothek zu
+
+Munchen.
+
+Leinwand.H.37 cm,B.43 cm.G.R.
+
+## ADAM ELSHEIMER.
+
+1578-1620.
+
+## Die Flucht nach Aegypten.
+
+Nr.19.
+
+Maria, auf dem Esel sitzend, halt das Christuskind im Arm. Joseph fuhrt den Esel am Zugel, ein Engel leuchtet mit einer Fackel.
+
+Auf Schiefer gemalt. Mit dem Namen des Kunstlers und der Jahreszahl 1618.
+
+Eines der spateren Werke des Kunstlers. H.21 cm,B.17,5 cm.G.-R.
+
+## PIETER CLAESZ.
+
+Tatig:1624--1653.
+
+## Stilleben.
+
+Nr.20.
+
+Auf einem mit weiBem Tuch bedeckten Tische angeschnittener Schinken, Brot, Schale mit Fruchten, silberne Pokale usw.
+
+Holz.Auf dem Messergriff Spuren der Signatur.H.64 cm, B.86 cm.S.R.
+
+Abbildung auf Tafel 34.
+Nr.21.
+
+## HANS VREDEMAN de VRIES.
+
+1527-1604.
+
+## Architektur.
+
+Der Hof eines Palastes mit auBerordentlich reicher Architektur. Zahlreiche Kostuimfiguren als Staffage.
+
+Holz. Rechts neben einer Saule monogrammahnliches Zeichen.H.52 cm, B.66cm.G.-R. Abbildung aufTafel32.
+
+## CORNELIS Van POELENBURG.
+
+1586-1667.
+
+## Die Anbetung der Hirten.
+
+Nr.22.
+
+Unter einem Felsenbogen das Christuskind, von den Hirten angebetet. Links vorn herbeieilende Hirten und in den Luften der Engel der Verkiindigung,von Amoretten umgeben.
+
+Holz.H.40,5 cm,B.55,5.G-R.
+
+## JAN WIJNANTS.
+
+Tatig 1641-1679.
+
+## Landschaft.
+
+Nr.23.
+
+Hugelige Gegend mit Baumen im Vordergrunde. Kavalier zu Pferde und Jager als Staffage.
+
+Leinwand.Unten am Rande der Kunstlername. H. 23,5 cm, B.29 cm. G-R.
+
+Abbildung auf Tafel 45.
+
+Abbildung auf Tafel 38.
+Nr.24.
+
+## JAN WEENIX.
+
+1640-—1719.
+
+## Stilleben.
+
+Im Vordergrunde einer Landschaft totes Wild, ein Hase, Rebhuhner usw., von zwei Hunden bewacht.
+
+Leinwand.In der rechten unteren Ecke signiert.1678.H.83 cm,B.115 cm.S.R.
+
+## MARCO RICCI.
+
+1679-—1729.
+
+Die Flucht nach Aegypten.
+
+Nr.25.
+
+St. Joseph, das Christuskind tragend, fuhrt Maria iber einen Bach. Rechts ein Engel, den Esel am Zugel fuihrend. Amoretten in den Luften.
+
+Leinwand.H.86 cm, B.115 cm.G.-R.
+
+## FRANCIS WHEATLEY.
+
+1747-1801.
+
+## Familienszene.
+
+Nr.26.
+
+Englischer Pachter mit Frau und Kindern, am Kamine stehend. Die Aufmerksamkeit der Familie wird durch ein auf dem Fruhstickstische sitzendes Rotkehlchen erregt.
+
+Leinwand. Rechts unten das Monogranm und die Jahreszahl 1792. H.30 cm,
+
+B.34,5 cm.G.-R. AbbildungaufTafel48.
+## UNBEKANNTER ENGLISCHER MEISTER.
+
+17.Jahrh.
+
+## Mannliches Portrat.
+
+Nr.27.
+
+Englischer Offizier in Kniestick, sitzend, ein Schreiben in der
+
+Rechten haltend.
+
+Leinwand.Oval.H.42cm,B.34 cm.G-R.
+
+## DAVID RIJKAERT.
+
+1612-1661.
+
+Die Kartenspieler.
+
+Nr.28.
+
+In einem Wirtshause sitzen drei Bauern beim Kartenspiel, der Wirt, ein gefiltes Glas in der Hand, steht daneben. Links im Hintergrunde drei Manner und eine Frau am Kamin.
+
+Holz. Unten am Rande der Name des Kunstlers und die Jahreszahl 1647.
+
+Abbildung auf Tafel 37.
+
+H.58cm,B.77cm.S.R.
+
+## FRANCOIS LE MOYNE.
+
+1688-1739.
+
+## Die Toilette der Venus.
+
+Nr.29.
+
+In einer Landschaft Venus, ganz unbekleidet,unter einem Baume sitzend. Eine Nymphe halt ihr einen Spiegel vor, eine andere bringt einen Perlenschmuck.Links Amor.
+
+Leinwand.H.49 cm,B.36.G.-R.
+Nr.30.
+
+## HENDRICK GERRITSZ POT.
+
+1585-1657.
+
+## Mannliches Brustbild.
+
+Ein Mann in schwarzer Kleidung und weiBem gefaltelten Kragen. Das Haupt bedeckt ein breitrandiger Filzhut.
+
+Auf eine runde Kupferplatte gemalt.Durchm.14 cm. S.R.Abbildung auf Tafel 43.
+
+## DEUTSCHE SCHULE.
+
+18.Jahrh.
+
+## Madonna.
+
+Nr.31.
+
+Die heilige Jungfrau in rotem Gewand und blauem Mantel, das Christuskind auf dem SchoBe haltend. Beide haben die Blicke nach oben gerichtet. Auf der Ruckseite anbetender Engel.
+
+Holz.H.125cm,B.80cm.G-R.
+
+## ITALIENISCHER MEISTER.
+
+Um 1650.
+
+## Madonna.
+
+Nr.32.
+
+Die heilige Jungfrau, in einem Zimmer sitzend, halt das Christuskind im Arme. Links Amorette, Windeln an einem Feuer trocknend.
+
+Leinwand auf Holz.H.19,5 cm.B.16,5 cm.G-R.
+Nr.33.
+
+## JAN LIVENS.
+
+1607-1672.
+
+Greis.
+
+Kopf eines bartigen Mannes, von vorn gesehen. Oval.
+
+Leinwand.H.48 cm,B.38cm.S.R.
+
+Abbtdung aufTafel 46.
+
+## PETRUS PAULUS RUBENS. Atelier.
+
+Nr.34.
+
+Der Tod des Adonis.
+
+Adonis, mit gebrochenem Speer am Boden liegend, wird vom Eber getotet. Die Jagdgefahrten suchen mit ihren Speeren das witende Tier zurickzuhalten. Die Landschaft von Wildens gemalt. (Brisseler Ausstellung 1910.)
+
+Holz.H.73 cm.B.103 cm.G.R.
+
+## HENDRIK van BALEN.
+
+1575-1632.
+
+## Allegorie auf den Krieg.
+
+Nr.35.
+
+Im Vordergrunde einer Landschaft, bei den Ruinen eines Palastes, Kriegsmaterial der verschiedensten Art, rechts eine junge Mutter mit ihren Kindern, von denen zwei im Streit begriffen.In der Ferne: Schlacht vor den Toren einer brennenden Stadt. Die Waffen von David Teniers gemalt.
+
+Holz.H.58 cm,B.89 cm.G.R.
+
+Abbildung auf Tafel 31.
+
+Abbildung auf Tafel 3.
+Nr.36.
+
+## ABRAHAM de VRIES.
+
+Tatig 1630-—1650.
+
+## Mannliches Bildnis.
+
+Brustbild eines Mannes in dunkelbraunem Gewande und schlichtem weiben Kragen, von vorn gesehen. Das Haupt bedeckt ein Federbarett, das dunkle, volle Haar fallt auf die Schultern herab.
+
+Leinwand.H.73cm,B.64 cm.G.-R.
+
+## BENJAMIJN CUIJP.
+
+Angeblich 1608 geboren.
+
+## Der Ueberfall.
+
+Nr.37.
+
+Im Vordergrunde einer Waldlandschaft werden reisende Kaufleute von Raubern mit Flintenschussen begruBt. Ein Packentrager ist von einer Kugel durchbohrt zu Boden gestuirzt.
+
+Holz. Rechts unten das Monogramm des Meisters. H. 50 cm, B.68 cm. G.-R.
+
+## ABEL GRIMMER.
+
+Tatig um 1600.
+
+## Winter.
+
+Nr.38.
+
+Dorf an einem zugefrorenen Flusse mit Schlittschuhlaufern. Im Hintergrunde Darstellungen aus dem Kindermord, rechts vorn die heilige Familie auf der Flucht.
+
+Holz. Rechts an einem Hause mit dem Namen des Kunstlers bezeichnet.
+
+H.42,5cm,B.58cm.S.R.
+## JAN VERMEER van HAARLEM d.Aelt.
+
+1628-1691.
+
+## Landschaft.
+
+Nr.39.
+
+Dichter Wald, rechts, zwischen Laub versteckt, der Giebel eines
+
+Bauernhauses. Landleute ruhen am Wege im Vordergrund. Gewitterstimmung.
+
+Holz. Die rechte untere Ecke tragt die Kunstlersignatur. H. 67 cm, B.51 cm. G.-R. Abbtldung aufTafel 47.
+
+## NICOLAES VERKOLJE.
+
+Nr.40.
+
+1673-—1746.
+
+## Diana.
+
+Diana, von zwei Nymphen und zwei Hunden begleitet, in einer
+
+Waldlandschaft. Die Gottin schuitzt das Auge mit der Hand gegen Sonnenstrahlen. Halbfiguren.
+
+Leinwand. Rund. Rechts am Rande der Kunstlername in groβen Charakteren Durchm.88cm.S.R. AbbildungaufTafel42.
+
+## PIETER JANSZ QUAST.
+
+Nr.41.
+
+1606-1647.
+
+## Das Losegeld.
+
+Inneres eines Gewolbes. Landleute bieten einem Offizier Losegeld. Links, auf einer Treppe sitzend, rauchender Soldat.
+
+Holz. Auf einem Sack mit dem Namen des Kuinstlers und der Jahreszahl 1644
+
+bezeichnet.H.48 cm,B.62 cm.S.R.
+Nr.42.
+
+## SEBASTIAEN VRANCX.
+
+1573-—1647.
+
+## Landschaft.
+
+In einer Landschaft alter Festungsturm mit angebautem Wirtshaus, In der Ferne ein Dorf. Mehrere Personen mit dem Keltern von Wein beschaftigt. Am Himmel ein Regenbogen.
+
+Leinwand.Mit dem Monogramm des Kunstlers. H.80 cm, B.118 cm.S.R. Abbtldung auf Tafel 40.
+
+## H. J. VONCK.
+
+17.Jahrh.
+
+## Stilleben.
+
+Nr.43.
+
+Tote Schnepfen, Krammetsvogel und Singvogel, von der Wand herabhangend.
+
+Holz.Rechts mit dem vollen Namen bezeichnet. 1663.H.53 cm,B.26 cm.S.R.
+
+Nr.44.
+
+## Stilleben.
+
+Tote Vogel, von der Wand herabhangend. Daneben Jagdtasche und Flinte. Gegenstick zu vorhergehendem Bilde.
+
+Holz.Rechts unten mit woller Namensbezeichnung.1663.H.53 cm, B.26 cm.S.R.
+Nr.45.
+
+## JAN van GOIJEN.
+
+1596-1656.
+
+## Nymwegen.
+
+Blick auf die Stadt von der Wasserseite. Auf einem Hugel das Segler. Ein groBer Teil der hier gemalten Burg steht heutigentags alte SchloB mit Mauern,Zinnen und Turmen. Auf dem Rhein mehrere nicht mehr.
+
+Holz. Rechts auf einem Hugel der Name des Kunstlers und die Jahreszahl 1633. H.49 cm,B.71cm.R.S. Abbildung auf Tafel 19.
+
+## HENDRICK GERRITSZ POT.
+
+1585-1657.
+
+Weibliches Bildnis.
+
+Nr.46.
+
+Halbfigur einer niederlandischen Patrizierin in schwarzer Kleidung,
+
+Muhlsteinkragen und Haube. In ovaler Einfassung.
+
+Holz.H.16,5cm,B.11 cm.S.R.
+
+## ADRIAN DIRK OLEN.
+
+17.Jahrh.
+
+## Gefliugelstick.
+
+Nr.47.
+
+Hahn und Henne im Vordergrunde einer Landschaft, daneben ein
+
+Kibitz und ein Frosch. In den Liften ein Singvogel.
+
+Leinwand, bezeichnet.Der Kunstler ist vielleicht identisch mit dem im allgemeinen Kunstlerlexikon angegebenen Maler Jan van Alen, einem Nachahmer von M. d'Hondecoeter,1651—1698.H.86cm,B.78cm.G.-R
+
+AbbildungaufTafel46.
+Nr.48.
+
+## NIEDERLANDISCHER MEISTER.
+
+Um 1520.
+
+## Tryptichon.
+
+A.Mittelbild: Maria,in ein faltiges, rotes Gewand gekleidet,das Christuskind auf dem SchoBe haltend.  Zwei Engel halten eine Krone uber das Haupt der Jungfrau. B. Linker Seitenflugel: St. Johannes der Taufer mit Lamm und Buch.C. Rechter Seitenfligel: St. Katharina von Alexandrien mit Schwert und Rad.
+
+Hol%.Totalgroβe H.48 cm, B.79 cm.S.R
+
+Abbtldung auf Tafet 29.
+
+## MEISTER DER WEIBLICHEN HALBFIGUREN.
+
+16.Jahrhundert.
+
+Musizierende Gesellschaft.
+
+Nr.49.
+
+Musizierende und trinkende junge Leute, um zwei Tische gruppiert, rechts ein junges Paar in Umarmung. Im Hintergrunde eine Ansicht Anscheinend der verlorene von Paris mit der Kirche Notre Dame. Sohn unter den Dirnen.
+
+Holz.H.84cm,B.127cm.G-R
+
+Abbildung auf Tafel 8.
+
+## WILLEM CLAESZ HEDA.
+
+1594-1678.
+
+## Stilleben.
+
+Nr.50.
+
+Auf einem Tische mit weibem Tischtuche Schale mit Austern, verschiedene Pokale, ein umgestirzter Krug usw.
+
+Holz.Auf einer Papiertute der Name des Heda.H. 62 cm, B.81 cm.S.R. Abbildung auf Tafel 34.
+## BARTHOLOMEUS van der HELST, zugeschr.
+
+1613-1670
+
+Mannliches Portrat.
+
+Nr.51.
+
+Brustbild eines jungen Mannes in schwarzem Wams und schlichtem weiBen Kragen.Das dunkle Haar fallt auf die Schultern herab.
+
+Holz.H.51 cm,B.44cm.S.R.
+
+## ANTONIO da CANALE.
+
+1697-1768.
+
+## Venedig.
+
+Nr.52.
+
+Blick auf eine Barockkirche mit Kuppel. Auf dem Wasser des
+
+Canal grande mehrere Gondeln.
+
+Leinwand.H.53 cm,B.70 cm.G.-R.
+
+## Sir THOMAS LAWRENCE.
+
+1769-1830
+
+## Weibliches Bildnis.
+
+Nr.53.
+
+Huftbild eines jungen Madchens in ausgeschnittenem weiben Kleid und Strohhut. Landschaftlicher Hintergrund. Ovale Einfassung.
+
+Leinwand.H.61 cm, B.50 cm.G.-R.
+
+Abbildung auf Tafel 49.
+Nr.54.
+
+## JACOB GERRITSZ CUIJP.
+
+1575-1649
+
+## Kindergruppe.
+
+Funf Kinder, zwei Knaben und drei Madchen, im Vordergrunde einer Landschaft. Die Knaben halten Pfeil und Bogen, zwei Madchen bekranzen ihr Schwesterchen mit Blumen.
+
+Hole.In der linken unteren Ecke signiert.H.155 cm,B.123 cm.G.R.
+
+Abbildung aufTafel 16.
+
+## SALOMON KONINCK.
+
+Geboren 1609 in Amsterdam.
+
+## Bartiger Greis.
+
+Nr.55.
+
+Ein alter Mann in dunkler Kleidung und Barett halt eine Goldmunze in der Rechten, die Linke weist darauf hin. Die Blicke sind lachelnd auf den Beschauer gerichtet.
+
+Leinwand. H.75 cm,B.62 cm.G-R.
+
+## WILLEM van de VELDE.
+
+1633-1707.
+
+## Marine.
+
+Nr.56.
+
+Englische Fregatte, unweit der Kiste Anker werfend. Links ein kleineres Fahrzeug. Im Vordergrunde Fischer, die Netze ziehend.
+
+(Angeblich Ankunft Wilhelms Ill. von England.)
+
+Leinwand.H.90 cm,B.108 cm.Br.R.
+
+Abbildung auf Tafel 35.
+
+Abbidung auf Tafel 43.
+Nr.57.
+
+## ANTON GHERING.
+
+Gestorben 1668 zu Antwerpen.
+
+Inneres der Jesuitenkirche in Antwerpen.
+
+Basilika mit Blick auf Altar und Orgel. Taufgesellschaft als Staffage wohl von anderer Hand.
+
+Leinwand. In der rechten oberen Ecke der Kunstlername. 1665. H.57 cm,
+
+B.84 cm.G.-R.(Orig.-R.des Dresdener Museums.) Abbildung auf Tafel 38.
+
+## ABRAHAM van BEIJEREN,zugeschr.
+
+1621-1674.
+
+## Stilleben.
+
+Nr.58.
+
+Auf einem Holztische gekochter Hummer, tote Fische, Schale mit
+
+Austern, verschiedene Fruichte, ein Krug, halbgefuilltes Weinglas usw. Eine Katze belebt die Darstellung.
+
+Auf Leinwand. H.82 cm, B.126 cm.G-R.
+
+## JACQUES BILTIUS.
+
+17.Jahrh.
+
+## Stilleben.
+
+Nr.59.
+
+Toter Hase und Schnepfe, an Stricken von einem Marmortisch herabhangend. Daneben Singvogel, Vogelbauer und Jagdtasche.
+
+Leinwand. Rechts unten der oolle Kunstlername und die Jahreszahl 1679. H.100 cm,B.85 cm.G-R.
+
+Abbildung auf Tafel45.
+Nr.60.
+
+## HERRI BLES gen. CIVETTA.
+
+1480-1521.
+
+## Die Anbetung der Konige.
+
+In einem zerfallenen Palast Maria, das Kind auf dem SchoBe haltend, und St. Joseph. Zu beiden Seiten die Konige in reichen Kostumen, prachtige GefaBe darbringend. Im Hintergrunde das Gefolge der Konige in einer Landschaft.
+
+Holz. In der linken oberen Ecke das Zeichen des Kunstlers, ein Kauzchen. H.67cm,B.51cm.G.-R. Abbildung auf Tafel30.
+
+## HIERONYMUS BOSCH.
+
+1460-1516.
+
+## Die Versuchung des heil. Antonius.
+
+## Nr.61.
+
+Der Heilige kniet, von Damonen und Spukgestalten umgeben, vor einem phantastischen zerfallenen Gebaude. Im Hintergrunde eine brennende Stadt.
+
+Holz.H.58cm,B.47cm.S.R
+
+Abbtldung auf Tafel 30.
+
+## DIRK van DELEN u. FRANS FRANCKEN.
+
+1607-1673.
+
+1607-—1667.
+
+## Alba und die Frauendeputation.
+
+## Nr.62.
+
+In einem Saale mit reicher Architektur Alba, unter einem Thronhimmel sitzend, zu beiden Seiten der Kardinal Granvella und ein Bischof. Siebenzehn Frauen, jede mit dem Wappen einer niederlandischen Provinz, knien vor dem Diktator. Rechts Gefangener vor einem Richterkollegium. Im Hintergrunde die Hinrichtung Egmonts.
+
+Holz. Links am Rande der Name des Kunsters und die Jahreszahl 1631. Abbtldung auf Tafel 32.
+
+H.45cm,B.63cm.S.R.
+Nr.63.
+
+## ADRIAEN BROUWER.
+
+1606-—1638.
+
+## Bauernportrat.
+
+Halbfigur eines Bauern mit struppigem Haar und lachendem Gesichtsausdruck. Die Linke halt eine Schale. Landschaftlicher Hintergrund (Brisseler Ausstellung).
+
+Holz.Kollektion Graf Brunswik,friher Galerie Lichtenslein.H.12,5 cm,B.8,5 cm.
+
+G.-R. Abbildung auf Tafel 42.
+
+## REINIER ZEEMAN.
+
+1623-1668.
+
+## Marine.
+
+Nr.64.
+
+Niederlandisches Geschwader von elf Schiffen auf der Ausfahrt. Im Vordergrunde links ein mit mehreren Personen besetztes Boot.
+
+Leinwand.H.90 cm,B.163cm.G.-R.
+
+Abbildung auf Tafel 40.
+
+## PETRUS PAULUS RUBENS. Atelier.
+
+Nr.65.
+
+1577-1640.
+
+## Die heilige Familie.
+
+Maria, in rotem Gewande, blickt auf das in einem Korbe ruhende Christuskind. Links St. Elisabeth und St. Johannes, dem Kinde ihre Ehrfurcht bezeugend, rechts St. Joseph. LebensgroBe Figuren.
+
+Leinwand. Die Wiederholung des Bildes im Palazzo Pili zu Florenz.H. 155 cm,
+
+B.123cm.G-R. Abblldung auf Tafel 2.
+Nr.66.
+
+## JUSEPE de RIBERA.
+
+1588-1656.
+
+## St. Petrus.
+
+Brustbild. Die Rechte halt den braunen Mantel vor der Brust zusammen, die Linke halt einen Fisch.
+
+Leinwand. Unten am Rande der volle Name des Kunstlers. E.164. H.69 cm,
+
+B.55cmG-R Abbidung aufTafel44.
+
+## A.J. DUCK.
+
+Tatig 1630-—1650.
+
+Der verlorene Sohn.
+
+Nr.67.
+
+In einer Halle sitzt ein junger Mann mit einer Dirne an einer mit Austern und Wein besetzten Tafel. Links zwei Manner und eine Frau, Streich-Instrumente spielend.
+
+Holz.In der Mitte unten die etwas undeutliche Kunstlersignatur. H.56 cm, B.86cm.S.R. Abbildung auf Tafel 33.
+
+## CONSTANTIJN NETSCHER.
+
+1688-1722.
+
+## Weibliches Bildnis.
+
+Nr.68.
+
+Vornehme Dame in faltigem Gewande, an einer Fontane sitzend. Die Linke halt eine Muschel, um Wasser damit aufzufangen. Im
+
+Hintergrunde Parklandschaft.
+
+Leinwand,owal.H.55 cm,B.43 cm.G.-R.
+Nr.69.
+
+## JEAN BAPTISTE NATTIER,zugeschr.
+
+## Damenbildnis.
+
+Portrat einer vornehmen Dame in ausgeschnittenem blaugrinen Gewande. Im gepuderten hochfrisierten Haar eine Agraffe. Ovale Einfassung.
+
+Leinwand.H.25 cm,B.18,5 cm.G.-R.
+
+## DIRK HALS.
+
+1600-1656.
+
+## Gesellschaftsbild.
+
+Nr.70.
+
+In einem schmucklosen Raume,dessen linke Seite ein Himmelbett einnimmt, sind Kavaliere und Damen um einen mit Speisen besetzten
+
+Tisch gruppiert. Im Hintergrunde Musizierende.
+
+Hol%. Links am Rande monogrammiert HD 1634.H.53 cm,B.78 cm. S.R.
+
+Abbildung aufTafel33.
+
+## BALTHASAR van den VEEN.
+
+1596-1657(?)
+
+## Landschaft.
+
+Nr.71.
+
+Links dichtes Geholz, in Mittelgrunde Landhaus, von Baumen umgeben. Als Staffage Landleute auf einer Wiese, Leinenstuicke zum
+
+Bleichen auslegend.
+
+Holz. Links unten das Monogramm des Kunstlers. H.47 cm, B.61 cim. G.R. AbbildungaufTafel20.
+Nr.72.
+
+## ABRAM DIEPRAM.
+
+1622-—1674(2)
+
+## Zechbrider.
+
+Inneres einer niederlandischen Schanke. Vier Bauern, trinkend und rauchend um einen Tisch versammelt. Ein fuinfter tritt zur Tur herein.
+
+Holz.H.48cm,B.37cm.G-R.
+
+## FRANS FRANCKEN III.
+
+1607-1667.
+
+Die Anbetung der heil. drei Konige.
+
+Nr.73.
+
+In einem Stalle die heilige Jungfrau mit dem Kinde und St. Joseph. Die Konige mit reichem Gefolge nahen von rechts, dem Kinde kostbare GefaBe darbringend. Durch eine Tur im Hintergrunde rechts Blick auf Kameltreiber mit ihren Tieren. (Brisseler Ausstellung 1910.)
+
+Holz.H.52 cm,B.71 cm.G.-R.
+
+Abbldung auf Tafel 31.
+
+## JACOB SALOMONZ van RUIJSDAEL.
+
+1640-1681.
+
+## Landschaft.
+
+Nr.74.
+
+Am Rande eines Waldes der Hirt bei seiner aus Kihen und Schafen bestehenden Herde. Im Mittelgrunde Felder uind ein Dorf, von Baumen umgeben.
+
+Hol%. In der Mitte unten monogrammiert. H.50 cm,B.68 cm. S.R. Abbildung auf Tafel 36.
+
+Abbildung auf Tafel 15.
+Nr.75.
+
+## JAN FYT u. THEODOR ROMBOUTS.
+
+1611—1661.
+
+1597-1637.
+
+## Der Geschmacksinn.
+
+Ein junger Mann mit Pelzmutze tragt einen Affen auf der Schulter, dem er eine Frucht reicht. Halbfigur (Ausstellung Brussel 1910.)
+
+Leinwand. Koll.Demidoff. H.76 cm,B.58 cm.G.R. Abbildung auf Tafel 39.
+
+Nr.76.
+
+## Der Gesichtsinn.
+
+Ein junger Mann, in rotem, goldverbramtem Mantel, halt einer auf seinem Arme sitzenden Eule eine Brille vor. Halbfigur (Aus- stellung Brussel 1910.)
+
+Leinwand. Koll.Demidoff. H.76 cm, B.58 cm.G.R.Abbildung auT Tafel 39.
+
+## MICHIEL JANSZE MIEREVELT.
+
+1567-1641.
+
+## Mannliches Bildnis.
+
+Nr.77.
+
+Brustbild eines Mannes in mittleren Jahren mit kurzgeschnittenem Schnurr- und Knebelbart und zurickgekammtem Haar. Ueber dem schwarzen Wams liegt ein Muhlsteinkragen.
+
+Holz.H.60 cm,B.47 cm.G.-R.
+
+Abbildung auf Tafel 41.
+Nr.78.
+
+## MICHAEL von MUNKACSY.
+
+1846-1900.
+
+## Der Ringkampf.
+
+In einem ungarischen Wirtshause fordert ein professioneller Ringkampfer einen jungen Bauern zum Kampfe heraus. Gaste und Wirtsleute erwarten gespannt den Ausgang des Kampfes.
+
+Holz.Rechts unten der volle Name des Kinstlers.1887.H.120 cm,B.163 cm.G.-R.
+
+Abbiidung auf Tafel 28.
+
+Nr.79.
+
+## Landschaft.
+
+Hugelige Gegend bei aufziehendem Wetter. Im Vordergrunde Landmann bei seinem mit zwei Pferden bespannten Pflug.
+
+Leinwand.Mit Kunstlersignatur.H.58 cm,B.98 cm.G-R.
+
+## MICHIEL van COXIE.
+
+1499-1592.
+
+## Die Kreuzigung.
+
+Nr.80.
+
+Christus am Kreuz,zwischen den beiden Schachern, im Augenblick der Sonnenverfinsterung. Am Kreuzesstamm die trauernden Angehorigen Christi, im Hintergrunde die durch das Naturereignis erschreckten Krieger. Der berittene Anfihrer der Krieger zeigt Portratähnlichkeit mit Karl V.
+
+Holz.In der rechten unteren Ecke mit dem vollen Namen des Kunstlers bezeichnet. H.130cm,B.105cm.Architektonischer G.-R. Abbildung aufTafel 10.
+Nr.81.
+
+## LUCAS CRANACH d.Jung.
+
+1515-1586.
+
+## Die Ehebrecherin vor Christus.
+
+Christus halt die Ehebrecherin an der Hand und spricht zu den mit Steinen bewaffneten Pharisaern die oben angefihrten Worte:,Wer zeile das Monogramm,der Drache.
+
+Holz.H.14cm,B.19,5 cm.S.R.
+
+## ADRIAAN van OSTADE.
+
+1610-1685.
+
+## Bauerntanz.
+
+Nr.82.
+
+In einer Scheune tanzt ein Paar nach den Klangen einer Geige und eines Dudelsackes. Links im Mittelgrunde trinkende und rauchende Gesellschaft. Komposition von zirka funfundzwanzig Figuren.
+
+Holz.Ein am Boden liegendes Stuck Holz tragt das Monogramm des Kunsllers. H.45cm,B.62 cm.S.R. Abbildung auf Tafel 4.
+
+## FRANS HALS d.J.
+
+1617-—1669.
+
+## Der Trinker.
+
+Nr.83.
+
+Halbfigur eines jungen Mannes in Federbarett und blaugrinem Gewande. Die Linke zeigt auf einen Pokal, den die Rechte halt.
+
+Holz. Die unregelmaβigen Zeichen iber dem Becher sollen die Signatur des Kunstlers bedeuten.H.90 cm,B.70 cm.S.R. Abbildung auf Tafel 35.
+
+Abbildung auf Tafel 29.
+Nr.84:
+
+## ANTONIO da CANALE.
+
+1697-1768.
+
+## Venedig.
+
+Der Canal grande mit vielen Palasten und Kirchenfassaden. Gondeln auf dem Wasser.
+
+Leinwand.H.61 cm,B.96 cm.Br.R.
+
+## GEORGE MORLAND.
+
+1763—1804.
+
+## Die Fischer.
+
+Nr.85.
+
+Ein Fischer in blauem Rock und roter Mitze laBt sich von einer Frau Milch in ein BlechgefaB fuillen. Rechts,in einem Kahne, zwei Fischer mit den Netzen beschaftigt.
+
+Leinwand. Rechts am Rande die Kunstlerbezeichnung. H.63 cm,B.76 cm.G-R.
+
+Abbildung auf Tafel 48.
+
+Abbildung auf Tafel 26.
+
+Nr.86.
+
+## PIETER de HOOCH.
+
+1629-1677.
+
+## Offiziere im Quartier.
+
+Inneres eines niederlandischen Burgerhauses. Ein junger, sitzender Offizier spricht mit einer Ordonnanz, daneben junge Frau, Wein kredenzend. Ein zweiter Offizier sitzt am Kamin.
+
+Leinwand.H.64cm,B.70 cm.S.R.
+
+Abbildung auf Tafel 22.
+Nr.87.
+
+## GILLIS TILBORGH.
+
+1625-1678.
+
+## Bauernhof.
+
+Rechts Bauernfamilie von sechs Personen, schmausend und trinkend, um eine Tonne sitzend. Links am Ufer eines Ententeiches Liebes- paar. In der Mitte Blick in eine DorfstraBe.
+
+Leinwand.Rechts am Boden die Signatur des Kinstlers. H.56 cm, B.76 cm.S.R. AbblldungaufTafel14.
+
+## ADRIAAN van OSTADE.
+
+Nr.88.
+
+1610-1685.
+
+## Bauerntanz.
+
+Vor einem niederlandischen Bauernhaus Landleute, nach dem Klang einer Fiedel tanzend. Die Tanzer von Zuschauern umgeben.
+
+Auf eine ooale Holzplatte gemalt.Mit Kinstlernamen.H.25 cm,B.34 cm.G.-R. Abbildung auf Tafel 5.
+
+## MELCHIOR D'HONDECOETER.
+
+Nr.89.
+
+1636-—1695.
+
+## Gefligelstick.
+
+An der Ecke eines Hauses ein Pfau, ein Hahn, zwei Huhner und eine Taube, dariber fliegende Schwalbe. Links Blick in eine Abend- landschaft.
+
+Leinwand.H.100 cm, B.130 cm.S.R.
+
+Abbildung aufTafel 23.
+Nr.90.
+
+## SALOMON van RUIJSDAEL.
+
+1623-1670.
+
+## Landschaft.
+
+Dorf, von Baumen umgeben, an einem breiten Gewasser. Landleute als Staffage.Truibes Wetter.
+
+Auf eine ooale Holzplatte gemalt.H.39,5 cm, B.53 cm.S.R.
+
+Abbildung auf Tafel36.
+
+## DAVID TENIERS d. Jung.
+
+1610-1690.
+
+## Das Kegelspiel.
+
+Nr.91.
+
+Dorfstrabe.Im Vordergrunde neun Bauern, Kegel spielend. Im Mittelgrunde, vor ihren Haustuiren, Landleute in Unterhaltung.
+
+Leinwand. Der oolle Name des Kunstlers rechts unten. H.45 cm, B.64 cm.S. R.
+
+Abbildung auf Tafel 13.
+
+## BERNAERT FABRITIUS.
+
+1620-1672.
+
+## Das Opfer des Manoah.
+
+Nr.92.
+
+Bartiger Mann in rotem Gewande und junge Frau im Gebet vor Neben dem Altar ein geopfertes Lamm, eine einem Opferaltare. Schissel mit Blut und das Opfermesser.
+
+Holz.H.57 cm,B.71 cm.G-R.
+
+AbbildungaufTafel44.
+Nr.93.
+
+## PEETER BRUEGHEL d.Aelt.
+
+1525-1569.
+
+Das Laboratorium eines Chirurgen.
+
+Der Chirurg mit seinen Gehilfen nimmt an verschiedenen LandEin Kranker wird von seiner Frau auf dem Ruicken hereingetragen. Komposition von dreiundzwanzig Figuren. In leuten Operationen vor. der Galerie fuhrte das Bild den Titel:,Der Steinschneider".
+
+Holz. Auf einem Plakat an der Wand bezeichnet: P.Bruegel 1556. H.74 cm,
+
+B.103cm.G.-R. Abbildung auf Tafel9.
+
+## LABILLE-GUIARD.
+
+18.Jahrh.
+
+## Kindergruppe.
+
+Nr.94.
+
+Madchen, in gestreiftem Kleid und blauer Scharpe, auf einem Stuhle sitzend, reicht einem Wachtelhindchen ein Stuick Backwerk.
+
+Das kleinere Briderchen, von ihr umarmt, sitzt auf einer FuBbank daneben.
+
+Leinwand.H.105 cm,B.87 cm.G.-R.
+
+## JAN STEEN.
+
+1626-—1679.
+
+## Familienfest.
+
+Nr.95.
+
+In einer von Weinlaub iberrankten Vorhalle sitzt eine musizierende und trinkende Gesellschaft, in der Mitte das GroBelternpaar, darum gruppiert die Kinder und Enkel. Rechts vorn ein Hund.
+
+Leinwwand. Das Monogramm in der Oeffnung des Fasses rechts. H.59 cm B.68cm.G.R. Abbildung auf Tafel 11.
+
+Abbildung auf Tafel27
+Nr.96.
+
+## JAN LIVENS, zugeschr.
+
+1607-1672.
+
+## Mannliches Portrat.
+
+Brustbild eines alteren Mannes mit grauem Bart und gelocktem dunklen Haar.
+
+Leinwand.H.64 cm,B.51 cm.G.-R.
+
+## JEANNE PHILIBERTE LEDOUX.
+
+1767-1840.
+
+## Madchenbildnis.
+
+Nr.97.
+
+Ein junges Madchen mit seitwarts geneigtem Kopf und enbloBter Brust.(In der Art des J. B. Greuze.)
+
+Leinwand.H.42 cm, B.35 cm.G-R.
+
+## ISACK van OSTADE.
+
+1621—1649.
+
+## Das Dorfwirtshaus.
+
+Nr.98.
+
+Vor einem, von groBen Baumen umstandenen Wirtshause halten Kavaliere zu Pferde, um einen Trunk einzunehmen. Rechts Korbwagen, von einer Frau geleitet, und links Schimmel an einer Krippe. Im Mittelgrunde das Dorf. Gewitterstimmung.
+
+Leinwand. Rechts unten der wolle Kunstlername und die Jahreszahl 1641.
+
+H.66 cm,B.82cm.G.R. Abbtldung auf Tafel 6.
+Nr.99.
+
+## PHILIPS WOUWERMAN.
+
+1619-1668.
+
+## Reitergefecht.
+
+Ueberfall am Eingang einer Felshohle. Ein Trompeter in rotem Rock stoBt in'sein Instrument, zahlreiche Verwundete und Getotete liegen am Boden.
+
+Leinwand. Das Monogramm des Kinstlers ist rechts unten aus Strohhalmen gebildet.H.53cm,B.64cm.S.R. Abb:IdungaufTafel47.
+
+## JAN de WIT.
+
+1695-1754.
+
+## Erntefest.
+
+Nr.100.
+
+Im Vordergrunde einer Landschaft Ceres, bei einem Altare stehend. Landleute bringen ihr Blumen, Fruichte und Gemuse zum Opfer dar. Im Mittelgrunde erntende Landleute, auf dem fernen Meere Neptun, von Nymphen umgeben.
+
+Leinwand. Auf dem Altar Spuren der Signatur.H.150 cm,B.120 cm.G.-R. Abbildung auf Tafel 17.
+
+## JACOBVan RUISDAEL.
+
+1628-1682.
+
+## Landschaft.
+
+Nr.101.
+
+Gebirgige Landschaft mit Sturzbach im rechten Vordergrunde. Die felsigen Ufer des Baches sind von hohen Baumen und dichtem Buschwerk beschattet. Im Vordergrunde ein Hirt bei seiner aus Rindvieh, Schafen und Ziegen bestehenden Herde.
+
+Holz. Links unten auf einem Stein das Monogramm des Kunstlers. H. 82 cm, B.115 cm.S.-R. Abbildung aufTafel 7.
+Nr.102.
+
+## BALTHASAR van den VEEN.
+
+1596—1657(?)
+
+## Haarlem.
+
+Im Vordergrunde ein Kanal, dessen Ufer mit Baumen, Landhausern und Windmuhlen bestanden. In der Ferne die Stadt Haarlem, von der machtigen Hauptkirche iberragt. Boote mit Fischern auf dem Wasser.
+
+Holz. In der rechten unteren Ecke ein schwer lesbares Monogramm. H.75 cm,
+
+B.109 cm. S.R. Abbildung auf Tafel 18.
+
+## RICHARD BRAKENBURGH.
+
+1650-1702.
+
+## Lustige Gesellschaft.
+
+Nr.103.
+
+Inneres einer niederlandischen Schanke. Vorn ein Trinker, die Wirtin umarmend, und ein anderer die Zinnkanne lachend emporhebend. Im Hintergrunde des Raumes Liebespaare, links am Kamin ein Raucher.
+
+Leinwand.H.80cm,B.104cm.S.R.
+
+## J. M.W.TURNER.
+
+1775-1851.
+
+## London.
+
+Nr.104.
+
+Blick auf die entfernte Stadt, von Greenwich aus gesehen. Im Mittelgrunde die weitlaufigen Gebaude des Seehospitals. Wild als Staffage.
+
+Leinwand. Ein fruihes Bild des Meisters vor der Feuerfarbenperiode. H.82 cm, B.110cm.S.R. Abbildung auf Tafel25.
+
+Abbildung auf Tafel 12.
+Nr.105.
+
+## FRANS SNYDERS.
+
+1579-1657.
+
+## Orpheus.
+
+In einer verzierten Kartusche Orpheus, von verschiedenen Tieren umgeben, die Leier spielend. Um die Kartusche ein prachtig komponierter Frichtekranz. In den vier Ecken Papageien, Affe und Hund. Die Figuren von H. van Balen gemalt. (Brisseler Ausstellung 1910.)
+
+Leinwand.Rechts unten die volle Signatur des Kunstlers.H.174 cm,B.225 cm.S.R.
+
+Kollektion Munkcacsy. Abbtldung auf Tafel 24.
+
+## PETRUS PAULUS RUBENS. Atelier.
+
+Nr.106.
+
+1577-1640.
+
+## Die Verkindigung Maria.
+
+Maria kniet vor einem Betschemel, von rechts her naht in prachtigem Brokatmantel der Engel der Verkindigung. Die den heil. Geist symbolisierende Taube und schwebende Amoretten in den Luften. (Brisseler Ausstellung 1910.)
+
+Auf eine oben abgerundete Holztafel gemalt. H.240 cm, B.150 cm. S,R.
+
+Abbildung aufTafel1.
+
+## AALBERT CUIJP.
+
+1605-1691.
+
+## Pastorale.
+
+Nr.107.
+
+In einer von der Abendsonne beleuchteten Landschaft Hirten mit ihren Tieren. Links Kavalier zu Pferde,einem Knaben Geld in den aufgehaltenen Hut werfend. In einiger Entfernung SchloB auf einer felsigen Anhohe.
+
+Leinwand. Rechts unten am Rande bezeichnet: A.C.H.45 cm, B. 62 cm. G-R. Abbtldung aufTafel 21.
+Nr.108.
+
+## PATRICK NASMYTH.
+
+1787-—1831.
+
+## Landschaft.
+
+Bewaldete Gegend. Im Mittelgrunde ein landliches Wirtshaus.
+
+Staffiert.
+
+Leinwand.Mit Kunstlername und Jahreszahl 1830.H.19 cm.B.26 cm. G-R.
+
+## SIR HENRY RAEBURN.
+
+1756-1823.
+
+Lord Newton.
+
+Nr.109.
+
+Brustbild in dunkelblauem Leibrock,roter Weste und Spitzenjabot.
+
+Holz.H.19 cm,B.14cm.G.-R.
+
+## JEAN BAPTISTE JOSEPH PATER, zugeschr.
+
+Nr.110.
+
+Landliches Fest.
+
+Gesellschaft von Herren und Damen, bei einer Fontane lagernd. Aehnliche Gruppen im Mittel- und Hintergrunde.
+
+Leinwand.H.29 cm,B.26cm.G.-R
+Nr.111.
+
+## NICOLAAS MAES,zugeschr.
+
+Weibliches Bildnis.
+
+Halbfigur in reicher Gewandung,an einem Tische stehend, einen Blumenkorb haltend. Links oben ein Wappen, rechts: Aetatis suae 19 Anno Di. 1692.
+
+Holz.Links unten mit Kunstlernamen.H.40 cm,B.33 cm.S.R.
+
+## HYACINTHE RIGAUD.
+
+1659-1743.·
+
+Louis Xv.
+
+Nr.112.
+
+Halbfigur, als Dauphin von Frankreich,in braunem, mit Gold borte besetztem Rock.Die Rechte halt einen Stock,die Linke den Hut.
+
+Leinwand.H.81 cm,B.64 cm.G.-R.
+
+## AART van der NEER.
+
+1619-1692.
+
+## Mondschein.
+
+Nr.113.
+
+Dorf mit Windmihlen an einem niederlandischen FluB. Auf dem Wasser Segelboot, am Ufer Fischer.
+
+Holz.Monogrammiert.H.14 cm, B.19 cm.S.R.
+
+Abbildung auf Tafel 41.

@@ -1,0 +1,5 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_50119,253844,1,I,La Vierge et l'Enfant.,9,97.7,False,positional,SANDRO BOTTICELLI,,,,
+BO0624_50119,253845,2,II,"La Vierge,l'Enfant et le epetit saint Jean.",25,96.6,False,positional,FILIPPINO LIPPI,,,,
+BO0624_50119,253846,3,I,L'Adoration des Bergers.,38,95.8,False,positional,LORENZO LOTTO,,,,
+BO0624_50119,253847,4,I,V L'Adoration des Bergers.,50,98.0,False,positional,MATTEO DI GIOVANNI,,,,

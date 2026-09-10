@@ -1,0 +1,4 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_87611,731898,1,1,OLGEMALDE ALTER MEISTER Dreiteiliges Altarbild,11,66.7,False,title_direct,,,OLGEMALDE ALTER MEISTER,,
+BO0624_87611,731899,2,2,Madonna,24,93.3,False,positional,,SCHULE DES VERROCCHIO,,,
+BO0624_87611,731900,3,3,Portrat,34,93.3,False,positional,TINTORETTO,,,,

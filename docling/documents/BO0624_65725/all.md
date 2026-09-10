@@ -1,0 +1,1564 @@
+<!-- image -->
+
+## TABLEAUX ANCIENS.
+
+## 1. GALERIE DE PORTRAITS.
+
+## BERNARDUS ACCAMA.
+
+Peintre frison ne en 1697, mort en 1756.
+
+- 1 Portrait de Guillaume IV, Prince d'Orange et Stathouder.
+
+Le Prince est ici a l'age de dix ans, en pied, debout; un parc dans le fond. ll est vetu d'un costume luxueux, en etoffe a feurs brodees avec un manteau d'etoffe rouge. ll fait un geste de la main droite.
+
+Signe: B. Accama pinxit,1721.
+
+Toile.—Hauteur 141, largeur 105 centimetres.
+
+## JAN DE BAEN.
+
+Néa Harlem en 1633,mort a la Haye en 17o2.
+
+- 2 Portrait de Cornelis Tromp.
+
+Le heros est represente debout, jusqu'aux genoux et represente en Romain, maniere favorite dont quelques peintres aimaient a affubler nos amiraux. Revetu d'une cuirasse et enveloppe d'un manteau agrafe sur l'epaule. Les bras nus, chevelure longue. La main gauche repose sur la hanche, la droite sur le casque.
+
+Signe: de Baen.
+
+Toile.——Hauteur 114,largeur 92 centimetres.
+- 3 Portrait de femme.
+
+Dame elegante agee d'environ trente ans. Representee a mi-jambes. Vetue de soie rougefonce, la poitrine un peu decouverte et les bras nus. Un rang de perles et des pendants d'oreilles a longues perles decorent sa belle tete. — Un page moresque lui offre des feurs. Signe.—Toile.-Hauteur 1o7,largeur 87 centimetres.
+
+## JAN DE BAEN.
+
+- 4 Portrait de jeune fille: Susanna de Wijs, nata 3 Sept. 1683, aet. 17.
+
+Une jeune beaute est occupee a cueillir des feurs qu'elle tient dans sa main gauche. Elle est representee a mi-jambes, presque de face. Sa robe de satin jaune brode, legerement decolltee, les bras nus, est richement ornee de deux rangs de grosses perles et de bijoux. Son cou porte un double rang de perles et sa chevelure est egalement ornee de bijoux.
+
+Ovale.-Toile,avec l'inscription susdite sur le revers.-Hauteur S6 centimetres.
+
+## J. F. BODECKER.
+
+Ne a Cleves en 166o, mort a Amsterdam 1737.
+
+- 5 Portrait d'un officier.
+
+Il est pris presque de face, en armure. Bodecker a signe et date 1698.
+
+Toile.—Hauteur 4o, largeur 3o centimetres.
+
+## CORNELIS BRISE.
+
+Nea Harlem en 1622,mort a Amsterdam apres 1670.
+
+- 6 Un boulanger montrant un panier rempli de petits pains placé devant lui sur une plinthe.
+
+Signe: C. B. 1650.
+
+Toile.-Hauteur 119, largeur 99 centimetres.
+
+## JAN DE BAEN.
+## ABRAHAMVANCONINXVELDT?ETJANBOTH.
+
+- 7 Portrait d'homme et de sa femme avec leur enfant, dans un paysage.
+
+Ce sont de bons types de patriciens hollandais, dans le costume de lépoque. Elle, en robe e fraise ornee de bijoux; lui aussi, vetu de noir et son chapeau a large bord, recouvre une epaisse chevelure. La petite fille au milieu, dans un joli costume, tient une corbeille de fruits et de feurs qu'un perroquet vient dinspecter. A gauche, une perspective de foret, a droite, un paysage montagneux tres-lumineux. L'avant-plan des deux noire alarge cotes est couvert de troncs d'arbres et de broussailles.
+
+Le tableau est'repeint, neanmoins nous le considerons etre encore un tableau interessant pour I'histoire de l'art hollandais.
+
+il a de ressemblance avec lui.
+
+Toile.—Hauteur 112,largeur 122 centimetres.
+
+## M. D. L. COURT.
+
+- 8 Portrait d'une jeune fille.
+
+Elle est representee en grande toilette, de plein corps, dans le jardin, accompagnee d'un chien.
+
+Signature presque illsible.
+
+Voir la reproduction.
+
+Toile.-Hauteur 12o, largeur 82 centimetres.
+
+## ALBERT CUYP.
+
+Nea Dordrecht en 162o,ou il mourut en 1691.
+
+- 9 Portrait d'homme.
+
+Un honme distingue, d'environ quarante ans, est represente debout, jusqu'aux genoux. Il est habille de noir, avec une collerette etroite. La main droite repose sur le dos d'une chaise, la gauche tient des gants.
+
+Beau portrait. -Voir la reproduction.
+
+Bois.-Hauteur 1o5,largeur 77 centimetres.
+## 10 Portrait d'officier.
+
+Un jeune offcier, en buste, des trois quarts a droite. Sa cuirasse est en partie couverte d'une large écharpe orange et d'une collerette a dentelles.
+
+Marque:Aetatis 25,Ao.1642.
+
+Voir la reproduction.
+
+- I1 Portrait d'enfant.
+
+Un bel enfant, habille d'apres les moeurs d'un costume peu enfantin, est ici en pied, debout, tenant des oeillets.
+
+Signe: Aetatis suae 4. Ao. 1639. A. Cuyp.
+
+Bois.——Hauteur 1o4,largeur 775 centimetres.
+
+## JACOB WILLEMSZ. DELFF.
+
+Nea Gouda 15.,mort a Delft 16o1.
+
+- 12 Portraits d'un Sieur Storm van 'sGravesande et de sa femme.
+
+Il est represente a mijambes, des trois-quarts a droite. Sa main gauche avec les gants repose sur la table devant lui, la main droite sur la hanche.
+
+Habit noir ouvre, decore d’un ruban rouge a joyaux, qui tombe du cou. Collerette tuyautee.
+
+A droite en haut Anno Dni 1581 Aetatis suae 24.—A gauche, également en haut, ses armes.
+
+Elle est representee a mi-jambes des trois quarts a gauche en corsage jaunatre et en robe noire. Poignets serres. Collerette et manchettes tuyautees.
+
+Les doigts portent plusieurs bagues a pierres fines. Sa coiffure consiste en un bonnet a guipures. A gauche Ano. Dni 1581. Aetatis meae 19.A droite ses armes: Trois choux sur sinople.
+
+Bois.-Mesure pour chaque tableau:Hauteur go,largeur 7o centimetres.
+
+## JACOB WILLEMSZ. DELFF.
+
+- 13 Portrait d'homme.
+
+Jeune noble represente a mijambes. Habit noir, manchettes et collerette tuyautes. Sa main droite repose sur une table ou est depose un petit psautier avec reliure brodee en or, ainsi qu'une medaille des gueux, en or.
+
+En haut, a droite, les armoiries: une roue accompagnee de trois corbeilles. A gauche: Anno 1590. Aetatis suae 30.
+
+Bois.-Hauteur 104,largeur 75 centimetres.
+
+## ALBERT CUYP.
+
+## ALBERT CUYP.
+
+Bois.——Hauteur 7o.5, largeur 6o centimetres.
+## 14 Portrait de bebe.
+
+Petit gargon represente jusqu'aux genoux. Habille de noir avec tablier blanc, manchettes et collerette tuyautees.
+
+Sa main droite tient un beignet qui éveille la tentation d'un petit chien qui saute a ses pieds.La main gauche porte une corbeille de fruits.
+
+Date 1581. Aetatis 2.
+
+Bois.-Hauteur 61, largeur 48 centimetres.
+
+## JACOBUS DELFF.
+
+Nea Delft en 1619,il y mourut en 1661.
+
+- 15 Portrait de Corneille Tromp jeune.
+
+Il est represente en buste, des trois quarts a droite. Ses cheveux noirs lui tombent sur les
+
+Signe: Aetatis 25. 7. Delff. 1655.
+
+epaules. Son tres riche costume est en soie blanche brodee d'or, avec une écharpe, aussi blanche et or, d'un magnifique travail.
+
+Nous ne connaissons pas de portrait de J. Delff de cette qualite.
+
+Voir la reproduction.
+
+- 16 Portrait d'homme.
+
+Il est age d'environ 45 ans et represente en buste, presque de face. Habit noir a manches
+
+Bois.-Hauteur 71,largeur 6o centimetres.
+
+Toile.-Hauteur 69,largeur 6o centimetres.
+
+- 17 Portrait d'homme.
+
+Un homme distingue, en buste, en costume noir avec une collrette bordee de dentelles, est vu des trois quarts a droite.
+
+Signe: S. DvwART f:
+
+## JACOBUS DELFF.
+
+## S. DUWART.
+
+Bois.—Hauteur 75, largeur 6o.5 centimetres.
+- 21 Portrait de femme.
+
+Femme distinguee en toilette tres soignee. Elle est a mi-corps, des trois quarts a gauche, de satin brun et noir.
+
+Bois.-Hauteur 68,largeur 55 centimetres.
+
+## PHILIP VAN DIJK.
+
+Nea Amsterdam en 168o, mort a La Haye 1753.
+
+- 18 Portrait d'une dame: De la Palma.
+
+Une femme representee jusqu'aux genoux, assise. Au haut, l'ecusson d’armoiries des De la Palma.
+
+Elle appartient a la famille Hogendorp.
+
+Signe:P.van Dijk,1726.
+
+Toile.——Ovale.—Hauteur 52,largeur 42.5 centimetres.
+
+## NICOLAES ELIAS.
+
+Proprement dit Nicolaes Eliasz. Pickenoy, ne a Amsterdam en 159o ou 91, mort dans cette ville entre 165o et 1656.
+
+- 19 Portrait de femme.
+
+Bonne tete d'une femme d'environ cinquante ans, tres bien peinte. Elle porte la grande collerette tuyautee.
+
+## NICOLAES ELIAS.
+
+- 20 Portraits d'homme et de sa femme, pendants.
+
+Ces beaux portraits representent deux personnes appartenant a cette partie de la population a mi-jambes, en costumes noirs et avec collerettes tuyautees. lls tiennent leurs gants. La qui ont porte les Pays-Bas au maximum de gloire et de fortune. Ils sont representes debout, femme porte un serre-tete blanc, ainsi que de riches bracelets.
+
+Chaque tableau est marque Ao. 1631. Belles pieces, d'une bonne conservation. Voir la reproduction.
+
+Bois.—Hauteur 122,largeur 9o centimetres.
+
+## NICOLAES ELIAS.
+
+Bois.—Hauteur 43, largeur 29 centimetres.
+## GOVERT FLINCK.
+
+Nea Cleves en 1615,mort a Amsterdam166o.
+
+- 22 Portrait d'homme.
+
+Homme distingue, habille avec gout d'un manteau d'un gris fin rehausse d'or. Les cheveux lui tombent en boucles sur les epaules. Il se trouve sur un balcon, dirige a droite,offrant une peche. Au fond, des arbres.
+
+Beau cadre en bois sculpte, ayant en haut l'ecusson d’armoiries: d’or a la fasce de gueules chargees de 3 étoiles d'azur; au 1 3 canards au naturel, au 2 parti, 1 pale en 6 de gueules, au 2 echiquete d'azur.
+
+Voir la reproduction.
+
+- 23 Portrait d'homme.
+
+Un homme d'Etat, en buste, vu de face. ll porte le costume noir et la fraise tuyautee de l'epoque.
+
+Bois.-Hauteur 7o,largeur 59 centimetres.
+
+## D. VAN HAGEN.
+
+Seconde moitie du XVIIe siecle.
+
+- 24 Portrait de Facob Visser, Capitein van een compagnie mariniers of zee soldaeten. Edelmoedig voor 't Vaderland gesneuvelt bij Woerden op den 12 van Wynmaant 1672. Zynde cen soon van Gerrit Segersz., Burgermeester en Raad der stadt Enchuysen, overgrootvader van Margareta Ris, vrouwe van Mr.f. de fong van Persijn".
+
+Le peintre la represente en heros romain, dans la maniere de Van der Helst, a mijambes et bras nus. Une cotte de cuir de couleur violette se voit sous un plastron blanc.
+
+Signe: D. v. Hagen.
+
+Signe.-Toile.—Hauteur g2,largeur 74 centimetres.
+
+## GOVERT FLINCK.
+- 25 Portrait de jeune homme.
+
+Bon portrait, portant la signature et la date: J. V. H. 1696.
+
+(Provient de la famille Hogendorp?)
+
+Est ce la peinture d'un membre de la famille?
+
+Toile.-Ovale.—Hauteur 55,largeur 45.5 centimetres.
+
+## FRANS HALS.
+
+Nea Anvers?en 158o,mort a Harlem en 1666.
+
+- 26 Portrait d'une vieille.
+
+qu'elle souligne de la droite quelque question religieuse.
+
+Quelle bonne figure dans le serre-tete; sur le tapis de la table, on voit un écusson, parti: au 1 d'argent a une fleur au naturel, au 2 de sable 3 os 2 ct 1.
+
+Bois.-—Hauteur 32,largeur 26 centimetres.
+
+Voir la reproduction.
+
+## BARTHOLOMEUS VANDER HELST.
+
+Nea Harlem en 1611 ou 1612,mort a Amsterdam en 167o.
+
+- 27 Fréderic Henri.
+
+Il est represente a mi-corps des trois-quarts a droite, en cuirasse noire. Une chaine d'or, d'ou
+
+Signe: B. v. d. Helst.
+
+pend la medaille de St. Michel, sort sous sa collerette blanche a dentelles.
+
+Bois.—Hauteur 74,largeur 58 centimetres.
+
+## BARTHOLOMEUS VAN DER HELST.
+
+- 28 Portrait d'un membre de la famille Van Schoonhoven?
+
+Homme age d'environ 5o ans. Sa physionomie trahit l'homme d'Etat ou quelque magistrat. — Buste des trois quarts a droite, dans un habit noir faconne et enveloppe d'un manteau de fourrure. Large collerette tuyautee.
+
+d'or a un poireau au naturel, au 2 et 3 de sable a un croissant d'or.
+
+Ce tableau porte les memes armes que celui decrit sous le numero 83, ecartele: au 1 et 4
+
+Signe: Bartholomeus van der Helst 1654.
+- 29 Portrait d'enfant.
+
+Fillette representee presque en pied. Habillee d'une robe d'ecarlate, couverte d'un corsage et d'une collerette blanche a dentelles
+
+La jolie tete coiffee d'un bonnet jaune. Sa main gauche tient des oeillets.
+
+Signe: C. Hondt.
+
+- 30 Frere et soeur.
+
+Charmant tableau representant deux enfants, de cinq a six ans, figures entieres, l'un a cote de l'autre.
+
+pomme; sa soeur a une belle chaine en or, a la quelle pend une boite a odeur. Elle tient des fleurs.
+
+Bois.—Hauteur 11o,largeur S5 centimetres.
+
+## MAITRE ANONYME.
+
+XVIe siecle.
+
+- 32 Portrait de Hendrick Montens le Vieux.
+
+Un vieillard, vu a mi-corps, tenant un rouleau de papier et un livre. Au haut, deux écussons d'armoiries. En bas, cette inscription: Hendrick Montens doude, ghebooren 1463, gestorven den
+
+1Decemb.1548, out sijn 85 Faere.
+
+Bois.—Hauteur 43,largeur 32 centimetres.
+
+## MAITRE ANONYME.
+
+XVIe siecle.
+
+- 33 Portrait de Maria frov van St. Aldegonde, Huisfrov van Jan de
+- Horn,Heere van Baussignies &amp; Boxtel.
+
+Elle est representee a mi-corps, de face, les mains jointes. En habit noir, tresse de soie blanc a la famande a longues bandes sur la tete.
+
+A gauche l'inscription susdite, a droite, ses armes avec Es 32? 1544.
+
+Bois.—Hauteur 34,largeur 26 centimetres.
+
+Bois.——Hauteur 93, largeur 69 centimetres.
+
+## CORNELIS KETEL.
+
+Nea Gouda 1548,mort a Amsterdam 1616.
+- 35 Portrait de Petrus Schagae anno 1573".
+
+## MAITRE ANONYME.
+
+XVIe siecle.
+
+- 34 Portrait de Barbara d'Autriche, fille naturelle de Maximilien Empereur.
+
+Elle est representee en buste dans l'habit blanc et a cape noire de l'ordre de St. Gertrude. En hautune inscription:Doma Barbara d'Austria dictus Discot filia naturlia Maximilianus Imptor. Obt in Ords Stis Gertrudis in Busco 22 Sepr 1568. Cette inscription est reproduite ici litteralement; un ecusson de vierge avec le double aigle.
+
+Bois.-Hauteur 24,largeur 20.5 centimetres.
+
+## MAITRE ANONYME.
+
+XVIe siecle.
+
+- Veenlant, Amiral dans la Mer du Nord pendant la Guerre Espagnole. "Obit in armis pro patria sepultus
+
+Il est represente a mi-corps, a droite, dans une cotte de cuir a coupures et enveloppe d'un manteau noir. Un bonnet noir sur la tete. Devant lui sa bourguinotte.
+
+Portrait tres curieux.ll contient ses armes a droite,a gauche, les clefs et la tiare papale avec linscription: Qum fuisset Rome Aetatis sve 26 Ammo 1552 (sic). En bas, une longue inscription en latin, son nom, sa mort, etc.
+
+Bois.—De forme ronde.Diametre 44 centimetres.
+
+## MAITRE ANONYME.
+
+XVIe siecle.
+
+- 36 Portrait d'une jeune dame.
+
+Coiffee d'un bonnet blanc. Le corsage legerement decollete, orne d'une grande chaine en or.La main droite tient des oeillets,la main gauche un rosaire.
+
+Bois.——Hauteur 67.largeur 56 centimetres.
+## MAITREANONYME.ECOLEFLAMANDE.
+
+Seconde moitie duXVIe siecle.
+
+- 37 Portrait d'homme.
+
+Buste d'un jeune homme portant une espece de chapeau-bonnet noir. Sa main, ornee de deux bagues, sort du manteau, d'ou l'on voit aussi sortir une mince collerette tuyautee. On le voit des trois quarts a gauche.
+
+Tres beau portrait.
+
+Toile.-Hauteur 44, largeur 35 centimetres.
+
+## MAITREANONYME.ECOLEFLAMANDE.
+
+XVII siecle.
+
+- 38 Portrait d'un Cardinal.
+- 39 Portrait d'homme.
+
+Type d’un magistrat, represente en buste, des trois quarts a droite, en costume noir et avec une collerette a larges tuyaux.
+
+Bois.-Hauteur 57, largeur 48.5 centimetres.
+
+## MAITRE ANONYME.
+
+Premiere moitie du XVIle siecle.
+
+Bois.-—Hauteur 64, largeur 55 centimetres.
+
+## MAITRE ANONYME.
+
+du XVIIe siecle.
+
+- 40 Gustave Adolphe, roi de Suede.
+
+Le roi est represente en buste, des trois quarts a droite. ll porte une cuirasse et par-dessus une large echarpe bleue brodee des insignes de la royaute, puis une collerette en points de Venise.
+
+Bois.-Hauteur So,largeur 65.5 centimetres.
+- 42 Portrait d'un garcon.
+
+Il est represente en buste, presque en face, dans un costume élegant, rouge a coupures remplies de soie blanche.
+
+On lit: Aetats 13 Ao. 1628.
+
+- 43 Portrait de dame.
+
+Elle est representee dans un riche et long corsage de soie noire ouvree, sur une robe de satin blanc brodee de feurs. Une large collerette a dentelles sous laquelle parait une chaine
+
+Manchettes a dentelles. La main droite tient un eventail de plumes, la main gauche repose sur une chaise a cuir rouge.
+
+en or. Une ceinture a rosaces blanches et rouges qui se repetent sur les bras.
+
+pale; au 2 ecartele, aux 1 et 4 d'or au chevron d’azur, accompagne de 3 arbres au naturel,
+
+Toile.-Hauteur 114, largeur 88 centimetres.
+
+aux 2`et3 d'azur au sautoir d'or.
+
+## MAITRE ANONYME.
+
+XVIIe siecle.
+
+- 41 Gustave Adolphe, roi de Suede.
+
+Le roi est represente en buste, des trois quarts a droite, avec cuirasse, echarpe et collerette a dentelles.
+
+Bois.-Hauteur 24. largeur 19 centimetres.
+
+## MAITRE ANONYME.
+
+XVIIe siecle.
+
+Bois.-Hauteur 62.5,largeur 58 centimetres.
+
+## MAITRE ANONYME.
+
+XVIIe siecle.
+- 45 Portrait d'un enfant.
+
+L'enfant est en pied, tenant de sa main gauche son chapeau a panache et de sa droite une corne d'un bouc qui est a cote de lui.
+
+Signe: Rembrandt 1639.
+
+- 47 Portrait d'homme.
+
+Un homme distingue, probablement un pretre catholique, vu le stole en soie rouge brodée qu'il a autour du cou. ll est en buste, presque de face.
+
+Toile.-Hauteur 6o.5, largeur 5o.5 centimetres.
+
+## MAITREANONYME.
+
+XVIIe siecle.
+
+- 44 Hendrick Loeffius, Ministre réformé.
+
+Buste, on lit au revers du panneau: Rev: Dns Henrucus Loeffius post. Revolut: primus creatus pastor 1619,obit...1638.
+
+Bois.—Ovale.-Hauteur 22,largeur 17 centimetres.
+
+## MAITRE ANONYME.
+
+Vers 1625.
+
+Bois.-Hauteur 1o4,largeur 77 centimetres.
+
+## MAITRE ANONYME.
+
+Moitie du XVIle siecle.
+
+- 46 Portrait d'un officier et de sa femme.
+
+Bois.-Hauteur 68, largeur 57.5 centimetres.
+
+## MAITRE ANONYME.
+
+Moitie du XVIIe siecle.
+- 51 Portrait d'un amiral.
+
+son epaule.
+
+## MAITREANONYME.
+
+de la seconde moitie du XVIle siecle.
+
+- 48 Portrait d'un jeune homme.
+
+Un jeune homme d''environ vingt-cinq ans est represente debout, jusqu'aux genoux, le bras gauche appuye sur le piedestal d'un grand vase qu'on voit au second plan. ll est habille de rouge et de bleu.
+
+Toile.-Hauteur 1o5, largeur 92 centimetres.
+
+## MAITREANONYME.
+
+XVIle siecle.
+
+- 49 Portrait de Paulus Borell.
+
+Represente en buste, des trois quarts a droite. Le revers du panneau nous a conserve le nom, mais difficile a dechiffrer: Mr.Paulus Borell geb.17 Nov.1616,Raad der stad Delft,
+
+Baljuw en Opperdijkgraaf van den lande van Voorne en den Briel,obiit 15 Fumy 1688. Marque:Aetatis 3o Ao.1647.
+
+Bois.-Hauteur 71,largeur 6o centimetres
+
+## MAITREANONYME.
+
+Vers 1650.
+
+- 50 Portrait d'un jeune homme.
+
+Toile.—Hauteur 27.5, largeur 23 centimetres.
+
+## MAITRE ANONYME.
+
+XVIle siecle.
+
+Toile.-Hauteur 1o7,largeur 93 centimetres.
+## MAITRE ANONYME.
+
+Vers 1670.
+
+- 52 Portrait d'une dame de Hogendorp.
+
+Dame elegante representee a mi-corps, en robe noire. Le devant legerement ouvert, les bras a manches courtes se terminant en dentelle. Un rang de grosses perles et des perles pendentives aux l'oreilles decorent sa jolie tete. Avec ses armoiries: l'ecu masc.: d'or au cerf saillant de sable (Boot?); I'écu fem. d'argent a la roue de moulin de sable (Hogendorp).
+
+Toile.-Hauteur 73, largeur 63 centimetres.
+
+## MAITRE ANONYME.
+
+XVIle siecle
+
+- 53 Portrait de Guillaume Ill?
+
+un bras en cuir cisele. Un jabot a guipures et un noeud de soie rouge au col.
+
+Toile.——Hauteur 48, largeur 38.5 centimetres.
+
+## MAITREANONYME.
+
+- 54 Portraits de Peter Reiner van Stepraedt et sa femme.
+
+Lui, represente jusqu'aux genoux en demi-armure, elle, en robe bleue decolletee et a longue chevelure.
+
+Au revers du premier:Peter Reiner Stepraedt Anno 1688. Aetatis 37"
+
+Cadres sculptes.-Bois.-Hauteur 36,largeur 3o centimetres.
+
+## MAITRE ANONYME.
+
+- 55 Portraits de Maria Joanna van Amstel van Mijnden et de son mari.
+
+Elle est representee en robe verte, decolletee,lui, en demi-armure. Au revers du premier se trouve 1inscription:Maria Joanna van Amstel van Meinders.Anno 1688. Aetatis 4oet ses armoiries peintes.
+
+Bois.-Chaque piece,haute de36, large de 3o centimetres.
+## MAITRE ANONYME.
+
+Vers la fin du XVIIe siecle.
+
+- 56 Les portraits d'un officier et de sa femme.
+
+Deux portraits elegants;lui, en cuirasse, elle, en costume de cour. Les cadres sont en bois sculpte et dore.
+
+Toile.-Hauteur 39,largeur 32 centimetres.
+
+## MAITRE ANONYME.
+
+Fin du XVIIe siecle.
+
+- 57 Portraits de gardes civiques.
+
+Huit personnes a tete robuste sont placees de face presque de grandeur nature. Quatre en costume noir sont placees a table, les autres en habit militaire et a echarpes sont accostees debout.
+
+Cadre sculpte.-Toile.-Hauteur 1.7o, largeur 2.8o centimetres.
+
+## MAITRE ANONYME.
+
+- 58 Portrait de jeune fille dans un riche costume a broderies. Elle tient un perroquet auquel elle offre des raisins.
+
+Signe: Watteau, mais nous croyons plutot que c'est une oeuvre de G. Kneller.
+
+Toile.-Hauteur 84,largeur 67 centimetres.
+
+## J. V. MERCK.
+
+Seconde moitie du XVlle siecle.
+
+- 59 Portrait de jeune homme.
+
+Il est represente a mi-corps des trois quarts a droite. En habit noir a collerette a dentelles. Ses beaux cheveux blonds tombent sur ses épaules.
+
+Toile.-Ovale, jadis rectangulaire. Hauteur 71 centimetres.
+
+Signe et date 1658.
+## 6o Portrait de femme.
+
+Une jeune dame est assise dans un paysage, s'occupant des feurs qu'elle a cueillies et reunies dans une corbeille.
+
+Signe: F. de Meijer 1712.
+
+Bois.-Hauteur 34,largeur 27.5 centimetres.
+
+## MICHIEL JANSZ. MIEREVELD.
+
+Nea Delft en 1567 ou il mourut en 1641.
+
+- 61 Portrait d'un gentilhomme.
+
+Un homme de noble prestance. Est-ce Frederic Henri Prince d'Orange? La ressemblance est grande.
+
+Il est debout, vu jusqu'aux genoux, dans un costume tres soigne de noir, avec une large collerette et des manchettes en dentelles. La main gauche, tenant un chapeau, repose sur une table recouverte d'un tapis rouge. ll est dirige a droite.
+
+Marque Ao.1632.
+
+Tres beau portrait, d'une conservation remarquable. Voir la reproduction.
+
+Bois.-Hauteur 121, largeur 89 centimetres.
+
+## MICHIEL JANSZ. MIEREVELD.
+
+- 62 "VRou. JoHANNA. De WITT. 1638". Portrait d'une jeune femme.
+
+Elle est en buste, des trois quarts a gauche, dans une superbe toilette en soie noire relevee de perles, de diamants et d'un large fichu ou collerette de belles dentelles.
+
+C'est le type d’'une femme spirituelle qui vous frappe par son regard spirituel.
+
+Signe:Aetatis 20.Ao.1638.M. Miereveld.
+
+Le nom donne est peint sur le revers du panneau.
+
+Voir la reproduction.
+
+Bois.—Hauteur 69,largeur 59 centimetres
+## MICHIEL JANSZ. MIEREVELD.
+
+## 63 Portrait d'homme.
+
+Il est represente en buste, des trois quarts a droite, avec des cheveux .frises; un costume noir et une collerette plate.
+
+Signe: Aetatis 32, Ao. 1639. M. Miereveld.
+
+Bois.-Hauteur 7o.5, largeur 58 centimetres.
+
+## MICHIEL JANSZ. MIEREVELD.
+
+- 64 Portrait de femme.
+
+habillee de noir et de blanc. Elle porte une large collerette tuyautee.
+
+Signe:Aetatis 26, Ao.1638. M.Miereveld.
+
+Voir la reproduction.
+
+Bois.—Hauteur 7o.5,largeur 58.5 centimetres.
+
+## MICHIEL JANSZ. MIEREVELD.
+
+- 65 Portrait d'homme.
+
+Buste des trois quarts a droite, avec collerette blanche et costume noir.
+
+Bon cadre en bois sculpte et doré.
+
+Bois.-Hauteur 49,largeur 42 centimetres.
+
+## MICHIEL JANSZ. MIEREVELD ET J. DELFF.
+
+- 66 Portrait d'homme.
+
+Un bon type hollandais du XVlle siecle, d'age moyen. Buste des trois quarts a droite. habit noir, large collerette tuyautee.
+
+Signe: Aetatis 55, Anno 1643. M. Miereveld fecit.9. Delfius perfecit.
+
+Bois.—Hauteur 68,largeur 55 centimetres.
+- 67 Portrait d'un noble.
+
+Buste presque en face. Habit noir a collerette tuyaute. Type male a barbe blonde, la tete coiffee d'un bonnet noir.
+
+Bois.——Hauteur 38,largeur 3o centimetres.
+
+## MATHYS NAIVEU.
+
+Ne a Leyde en 1647,mort a Amsterdam vers 1721.
+
+- 68 Portrait d'homme.
+
+Represente a mi-corps, de trois quarts a droite. ll est vetu d'un habit bleu et enveloppe d'un manteau d'ecarlate d'ou sortent ses belles mains. Sa tete est ornee d'une longue chevelure. Signe et daté 1700.
+
+Toile.—Hauteur 57,largeur 4o centimetres.
+
+## PIETER NASON.
+
+Nea Amsterdam en 1612,mort a la Haye entre 1688-1691.
+
+- 69 Cornelis Tromp, célebre amiral.
+
+Tromp est represente jusqu'aux genoux, en armure, et avec deux ordres, entre autres celui de 1'Elephant de Danemark.Sa main droite,gantee,tient le baton de commandement.Au coin gauche du bas, ses armoiries. Au fond,un combat naval.
+
+Voir la reproduction.
+
+- 70 Portrait d'un officier.
+
+Un militaire distingue. Vu jusqu'aux genoux, debout. Il est en armure complete, sauf le casque qui se trouve a cote. Dans le fond, une escarmouche de cavaliers. Signe: P.Nason f. 1674.
+
+Toile.-Hauteur 126,largeur 104 centimetres.
+
+Toile.—Hauteur 119,largeur 1o1 centimetres.
+
+## PIETER NASON.
+- Beck, sa femme.
+
+## CONSTANTIJN NETSCHER.
+
+Ne en 1668a La Haye,ou il mourut en 1722.
+
+- 71 Guillaume III d'Orange, Stathouder  des d'Angleterre.
+- Pays-Bas et Roi
+
+Le Prince est figure en pied, en armure complete, sauf le casque qui est sur une table a cote.ll tient le baton de commandement et parait donner quelque ordre.
+
+Il se trouve dans une tente; au fond, on voit une sentinelle et un negre conduisant le cheval du Prince.
+
+Signe et date: N. Maes 16..?
+
+Beau cadre en bois sculpte et dore, avec les armes du Prince.
+
+Toile.-—Hauteur Si,largeur 65 centimetres.
+
+## CONSTANTIJN NETSCHER.
+
+- 72 Portraits de Gisbert de Hogendorp et de Catherine Marguerite
+
+Ces deux portraits font une paire. Hogendorp est en armure; dans le fond, la mer avec des vaisseaux.
+
+Sa femme se detache sur un fond de parc.
+
+Chaque tableau a un ecusson d'armoiries, et porte la signature: Consts Netscher. 1713.
+
+Toile.-Ovale.-Hauteur 52.5,largeur 43.5 centimetres.
+
+## CONSTANTIJN NETSCHER.
+
+- 73 Portrait de jeune femme.
+
+Fille, decolletee, dans une elegante toilette de bal. Fin du XVIle siecle; cadre sculpte. Signe.
+
+Toile.-Hauteur 38.5,largeur 32 centimetres.
+
+## CONSTANTIJN NETSCHER.
+
+- 74 Portrait de dame dans un riche costume a la romaine. Buste.
+
+Signe; C. Netscher 1708.
+
+Bois.—Hauteur 8o, largeur 66 centimetres.
+## CONSTANTIJN NETSCHER ET PHILIP VAN DIJK.
+
+- 75 Johan Francois, van Hogendorp, homme d'Etat, et sa femme.
+- Deux portraits.
+
+Ces deux portraits font pendants; chacun est a mi-jambes. Au revers de la toile, les armes de seize quartiers.
+
+Johan Franc. van Hogendorp a éte longtemps dans le gouvernement de Flessingue; puis
+
+Ontfanger-generaal der Vereenigde Nederlanden."
+
+Sa femme est de la famille van Campen.
+
+Les toiles portent les signatures des peintres.
+
+Toile.-Ovale.——Hauteur 52, largeur 44 centimetres.
+
+## HENDRICK TEN OEVER.
+
+Seconde moitie du XVIle siecle.
+
+- 76 Une famille hollandaise.
+
+Jeune mere entouree de trois enfants, un garcon et deux fllettes. Elles sont habilles dans le costume de l'epoque,a larges cols rabattus et a dentelles.
+
+Le chef de la famille, assis a gauche, figure dans un habit noir a col rabattu, avec longue
+
+Voir la reproduction.
+
+chevelure. Ses jambes avec bas de soie blancs, sont croisees.
+
+Toile.-Hauteur 156,largeur 192 centimetres.
+
+## ANTHONIEPALAMEDESZ.
+
+- 77 Un ministre reforme et sa femme. Deux portraits, pendants.
+
+Il est represente dans sa bibliotheque, debout, devant la Bible, expliquant quelque passage. Il est dirige vers la droite.
+
+Sa femme, egalement presque en pied et debout,·se trouve sur un balcon, ayant un paysage montagneux comme fond. Elle tient une branche d'oranger avec trois fruits.
+
+Signe:A.Palamedes pinxit 1671.
+
+Voir la reproduction.
+
+Toile.-—Hauteur 1o6, largeur 89 centimetres.
+## IZAAK PALING.
+
+Ne a Leyde, travaillait a la Haye. Seconde moitie du XVIle siecle.
+
+78 Portrait d'homme.
+
+Il est represente en buste, presque de face en habit offciel, manteau et petit collet. Ses cheveux tombent sur ses epaules.
+
+Signe:Paling F.1683.
+
+## REMBRANDT.
+
+Toile.-Hauteur 76, largeur 63 centimetres.
+
+## HUB. QUELLINUS?
+
+Frere de Arthus Quellinus, ne en 16o5? mort a Anvers 1688.
+
+- 79 Portrait de Arthus Quellinus, le celebre sculpteur, renommé
+- par son oeuvre a l'Hotel de Ville (Palais a Amsterdam).
+
+Buste des trois quarts a droite. Habit noir a large rabat. Longs cheveux blonds. Date1657.
+
+Bois.-Hauteur 85, largeur 66 centimetres.
+
+## JAN MAURITS QUINCKHARD.
+
+Ne a Rees 1688, mort a Amsterdam en 1772.
+
+8o Portrait de femme: membre de la famille Huyghens.
+
+Elle est agee d'environ 35 ans et representee a mi-corps, en habit de satin blanc decollete; enveloppee dans un manteau bleu tenu sur l'epaule par une epingle a perles.
+
+A gauche, ses armes: d'argent a deux fasces de sable.
+
+Signe et date 1741.
+
+- 81 Portrait dhomme.
+
+ll est represente debout, jusqu'aux genoux, habille de noir, avec chapeau et collerette,
+
+Signe:Rembdt Anmo 1639 Aetatis 31.
+
+celle-ci est bordee de pointes.
+
+Voir la reproduction.
+
+Toile.-Hauteur 94,largeur 75 centimetres.
+
+Bois.——Hauteur 112, largeur So centimetres.
+- 84 Portrait de dame.
+
+Elle est assise dans un fauteuil. Vue de mi-corps en face. La main droite tient un eventail de plumes.
+
+Large collerette tuyautee et manchettes a dentelles.
+
+Signe:E 66 An 1643 Rembrandt.
+
+## REMBRANDT (Attribue a).
+
+## 82 Portrait d'un magistrat.
+
+Un homme de distinction est debout devant nous,vu jusqu'aux genoux. Il porte un costume noir, une collerette tuyautee, et une épee. Sa main droite tient ses gants.
+
+Au haut l'indication:Aetatis 43,1651.Puis la signature fausse Rembdt. Cadre en bois sculpte et dore.
+
+Bois.—Hauteur 113, largeur 82 centimetres.
+
+## REMBRANDT (Signe).
+
+- 83 Portrait deAnnavan Schoonhoven. (Fille de Gerard van Schoonhoven et de Anna Monachia?-Voir leurs portraits graves par W. J. Delff d'apres Miereveld).
+
+Elle est representee a mi-corps, vue de cote, la tete tournee vers le spectateur. Sa jolie tete aux yeux spirituels porte une chevelure brune. La robe noire est couverte d'une large fraise a dentelles. Le cou ainsi que les mains sont ornes de perles. Les manchettes evasees a dentelles. Ses mains croisees tiennent un eventail de plumes.
+
+En haut, a gauche, ses armoiries dans un ecusson virginal: D'or avec un poireau, ecartele d'azur a croissant d'or. Au revers: en gros caracteres: Amna v. Schoomhoven Gerardsdr., puis une ancienne notice sur papier ou l'on dechiffre encore son nom.
+
+Signe: Rembrandt 1645. Signature fausse.
+
+Bois.-Hauteur 72, largeur 61 centimetres.
+
+## REMBRANDT (Signe).
+
+Toile.-Hauteur 13o,largeur 104 centimetres.
+## P. P. RUBENS.
+
+Son ecole.Premiere moitie du XVlle siecle.
+
+## 85 Portrait de femme. Ano Aetats 43. 1636.
+
+Une dame du grand monde, a en juger son magnifque costume, est representee debout, presque en figure entiere, se detachant sur une draperie rouge.
+
+Elle porte une large collerette bordee de dentelles, puis differentes chaines en or et en joyaux sur un costume noir; sa main droite tient un eventail de plumes.
+
+Au haut, deux ecussons, l'ecu masc. d'azur a une gerbe de ble d'or; l'écu fem. a une etoile et un trefle en pale.
+
+Beau cadre en bois sculpte et dore.
+
+Toile.-Hauteur 1o6, largeur 93 centimetres.
+
+## HERCULES SANDERS.
+
+Ne en 1606, Travaillait a Amsterdam depuis 1635-1663.
+
+- 86 Portrait d'une dame distinguée.
+
+Elle est representee debout, presque figure entiere. Elle porte une tres belle toilette, soie noire relevee de rubans et de broderies en or, puis une triple collerette en pointes, un double rang de perles autour du col.
+
+La main droite tient un éventail. Signe et date: 1640. Voir la reproduction.
+
+Toile.—Hauteur 13o, largeur 108 centimetres.
+
+## HERCULES SANDERS.
+
+- 87 Portrait d'hom me. (Pendant du portrait precedent).
+
+Jeune homme en costume soigne de soie noire double de soie blanche, et avec une tres est gantee.
+
+Signe:H. Sanders fecit Ao.1640. Voir la reproduction.
+
+Toile.-Hauteur 127, largeur 106 centimetres.
+## DIRCK DIRCKSZ. SANTVOORT.
+
+NeaAmsterdam en 161oouil futenterre168o.
+
+- 88 Portrait d'une bourgeoise d'Amsterdam.
+
+C'est la meme spirituelle physionomie qu'on voit a droite sur le tableau des regentes du
+
+Bois.-Hauteur 71.5 largeur 61 centimetres.
+
+Spinhuis qu'on connait de ce maitre au Musee d'Etat, a Amsterdam. Elle est representee a mi-corps, sa main droite tient une bourse. Habit noir avec large collerette tuyautee et serretete a dentelles.
+
+## DIRCK DIRCKSZ. SANTVOORT.
+
+- 89 Portrait d'enfant.
+
+Figure entiere d'un enfant vetu d'un costume jaune a zigzags en noir, avec collerette platte et des manchettes. Il tient une balle et un baton appartenant au jeu de Kolf.
+
+Au haut lindication: Ao. 1631.
+
+Voir la reproduction.
+
+Bois.——Hauteur 114, largeur 86.5 centimetres.
+
+## DIRCK DIRCKSZ. SANTVOORT.
+
+- 90 Portrait d'un adolescent.
+
+Un jeune gentilhomme d'environ dix-sept ans est debout, vu a mijambes, dirige vers la gauche, la main droite sur une table avec tapis bleue. ll porte un costume de bon gout, rouge, festonne d'or, a coupures doublees de satin blanc. Une large collerette et ses manchettes sont bordees de dentelles.
+
+Marque:Ao.1637. Voir la reproduction.
+
+Bois.-Hauteur 115, largeur 86 centimetres.
+
+## DIRCK DIRCKSZ. SANTVOORT?
+
+- 91 Portrait d'une jeune fille.
+
+Representee a mi-corps, presque de face, ses mains croisees. Une large collerette a dentelles et avec une grande broche de pierres precieuses. Ses manchettes egalement a dentelles. Sa jolie tete est coiffee d'un bonnet a dentelles, orne de perles. Date1649.
+
+Bois.—Hauteur 85, largeur 66.5 centimetres.
+## 92 Portrait d'homme.
+
+Il est represente a longue perruque en buste, enveloppe d'une simarre brodee. ll aura les 50 ans.
+
+A droite,quelques in-folio titres: Fournaal,Solicitatisboecck,Declaratis Boeck,en haut, ses armes: de gueules au moulin d'argent.
+
+Ovale.—Toile.-Hauteur 87 centimetres.
+
+## H. SERIN.
+
+## H. SERIN.
+
+- 93 Portrait du fils du précédent?
+
+1l est represente en buste a longue perruque. Enveloppe d'un manteau vert, double de brocart.
+
+A droite les armes et la signature H. Serin F.1778.
+
+## D. SMIT.
+
+- 94 Portrait d'un savant nauticien et de sa femme.
+
+Il est represente a mi-corps en habit noir avec calotte. Sa main droite touche un globe sur la table devant lui.
+
+Signe:D.Smit,1681.Oudt 54 jaar.
+
+Elle est representee a mi-corps, debout, les mains croisees. Habit noir avec petit chale blanc et avec un bonnet dit serre-tete.
+
+Les deux portraits:Bois.-Hauteur 38, largeur 32 centimetres.
+
+Signe: D. Smit, 1682. 51 jaar oudt.
+
+## DAVID TENIERS.
+
+Ne a Anvers en 161o, mort a Bruxelles en 1690.
+
+- 95 Portrait d'homme. A mi-corps.
+
+Joli portrait, portant le monogramme du Maitre au coin gauche du haut. Voir la reproduction.
+
+Bois.—Hauteur 2o largeur 15 centimetres.
+
+Ovale.-Toile.-Hauteur 87 centimetres.
+- 96
+- Portrait de femme.
+
+Elle est representee, comme Ter Borch aimait a le faire, en pied,debout entre chaise et table. Son costume est élegant mais simple, soie noire et collerette bordee de dentelles. La main droite tient un éventail compose de plumes.
+
+Toile.-Hauteur 73,largeur 58 centimetres.
+
+## GERARD TER BORCH.
+
+- 97 Portrait d'un magistrat.
+
+Il est age d'environ cinquante ans. Figure entiere debout, enveloppe d'un manteau noir a rabat. Sur une table, a droite, recouverte d'un tapis rouge-brun se trouve son chapeau a large bord.
+
+Toile.——Hauteur 8o,largeur 65 centimetres.
+
+Haarlem 1638-1698.
+
+Zwolle 1617-1681 Deventer.
+
+- 98 Deux portraits, avec une vue de ville comme fond.
+
+Les deux personnes, probablement un couple marie, sont placees au premier plan, sur la partie droite du tableau. Ce sont des personnes de distinction, habillees de noir. La dame tient un éventail. Ces portraits sont de Ter Borch.
+
+Berkheyde a fait le reste de la composition, qui est encore assez important. C'est une vue la place.
+
+Voir la reproduction.
+
+## GERARD TER BORCH.
+
+Nea Zwolle1617,mortaDeventer1681.
+
+Toile.-Hauteur 81,largeur I1o centimetres.
+## THEODORE VAN TULDEN.
+
+Nea Bois-le-Duc.Travaillait dans la seconde moitie du XVIle siecle.
+
+## 99 Groupe de famille.
+
+Homme et femme avec un enfant representes grandeur nature.
+
+Lui comme heros romain en armure, moustache et longue chevelure noires, bras et pieds nus,en sandales.
+
+Elle en satin blanc borde de vair. Les manches, le corsage, le cou et les oreilles ornes de pierres fines et de perles. Un manteau d'ecarlate I'environne. L'enfant, gargon d'environ douze ans, lui prend la main, c'est son fils de premier mariage. Il est habille de couleur jaune-brune, une medaille romaine pend a son cou.
+
+En bas, a gauche:
+
+En second mariage Lavinia soit a Eneas Pour prix de son courage Avec contentement d'Ascaneas.
+
+A droite, en haut, les armoiries: l'ecu de lui: a la fasce accompagnee de 2 fermails et d’un fer de moulin; l'ecu d'elle: a la fasce accompagnee de 3 etoiles.
+
+Voir-la reproduction.
+
+Toile.—Hauteur 2.2o, largeur 1.8o metres.
+
+## CORNELIS TROOST.
+
+Ne a Amsterdam 1697, ily mourut en 1750.
+
+I0o Portrait d'homme et de femme.
+
+Il est represente a mi-jambes, debout, dirige vers la droite. Belle tete, tres bien exprimee.
+
+Elle est vetue en robe brune, tres simple.
+
+Toile.—Hauteur 6o, largeur 48 centimetres.
+
+## HENDRICK CORNELISZ.VAN VLIET.
+
+Ne en 1611 ou 1612a Delft, ou il mourut en 1675.
+
+- 101 Portrait d'homme.
+
+Buste d'homme, vu des trois quarts a droite, Il est habille de noir avec une simple collerette blanche.
+
+Signe: H. van Vliet Ao. 1657.
+
+Toile.-Hauteur 67.5,largeur 58 centimetres.
+## WILLEMVAN DER VLIET.
+
+Nea Delft en 1586,mort en 1644.
+
+102 Portrait d'un garcon.
+
+Un gargon, vu jusqu'aux genoux, debout, portant un costume soigne, est vu des trois quarts a droite. Il tient ses gants et son chapeau.
+
+Bois.——Hauteur 11o.5,largeur 83.5 centimetres.
+
+Signe: Aeta 11 Ao. 1634. W. van der Vliet fecit. Voir la reproduction.
+
+## JOAN VOLLEVENS JUNIOR.
+
+Né a Geertruidenberg en 1649, mort a La Haye en 1728.
+
+103 Portrait d'homme.
+
+Il est age d'environ 65 ans. Vetu d'un riche costume orne de joyaux. Une longue perruque lui tombe sur les épaules.
+
+Beau cadre en bois sculpte surmonte d'armoiries. Signe et date 's Hage 1719.
+
+Ovale.-Toile.-Hauteur 84,largeur 67 centimetres.
+
+## CORNELIS VAN DER VOORT.
+
+Nea Anvers en 1576, mort a Amsterdam en 1624.
+
+104 Portrait d'un bourgmestre ou de quelque dignitaire.
+
+Un type crane et noble et hollandais pur sang. ll est represente debout sur un plancher a dalles, grandeur nature et faisant face au spectateur.
+
+Il porte une epee. Habit noir fagonne, a manches decoupees, en laissent voir d'autres violettes brode en or, tandis que l'autre qui est gantee tient un manteau noir qui entoure son corps. La tete coiffee d'un chapeau haut et a large bord. Bas de soie violette. Bottines avec des noeuds de ruban noir.
+
+A gauche,une table couverte dun tapis de Smyrne sur lequel se voit son casque a plumes et ses gantelets. Plus haut, ses armes: Ecartele: aux 1 et 4 de gueules au lion d'or, aux 2 et 3 de . . . au cavalier. Sur le tout de .. . au cygne au naturel.
+
+Voir la reproduction.
+
+Toile.—Hauteur 2.14, largeur 1.34 metres.
+105 Portrait d'homme.
+
+Vu jusqu'aux genoux. La figure presque de face, barbe legere et pointue et petites moustaches relevees en pointe. Riche costume d'ecarlate brode d'or, legerement enveloppe revers: Ao. 1632.Aet. 40.
+
+Beau tableau de costume. Voir la reproduction.
+
+Bois.Hauteur 114, largeur 86 centimetres.
+
+## JACQUES WABBE.
+
+106 Portrait de femme.
+
+damassee et brodee d'or. Elle porte une large fraise de dentelles et un triple rang de perles autour du cou. Elle est coiffee d'un couvre-chef a larges dentelles. Sa chevelure ornee de bijoux. Les poignets garnis de perles et de manchettes evasees a larges dentelles. Sa main droite tient un eventail de plumes.
+
+Signe du monogramme: J. WAB. (Ces trois dernieres initiales unies). Aetatis 26 Anno 1631. Tres-beau tableau de costume, faisant pendant avec le precedent. Voir la reproduction.
+
+Bois.—Hauteur 122, largeur 95 centimetres.
+
+Monogramme: J. I. WB (JACOB WABBE?)
+
+107 Portrait de jeune homme.
+
+Buste des trois quarts a droite. Habit rouge a tresses. Enveloppe d'un manteau d'ecarlate. Chevelure noire lui tombant sur les epaules. Un noeud de soie blanche autour du cou.
+
+Signe du monogramme et date 1657.—Bois.—Hauteur 75, largeur 6o.5 centimetres.
+
+## JACQUES WABBE.
+
+Ne a Hoorn.
+## ADRIAANVAN DER WERFF.
+
+NeaKralingen en 1659,mort aRotterdam en 1722.
+
+108 Portrait d'homme.
+
+Jeune homme, de tres bonne mine, revetu d’un costume a la mode, entre autres la grande perruque tombant en boucles sur ses epaules.
+
+Cuivre.—Ovale.-Hauteur 22,largeur 16.5 centimetres.
+
+## JOHAN WESTERBAAN.
+
+Travaillait a La Haye vers 1660.
+
+109 Portrait de Arn. Geesteranus, ministre remonstrant a La Haye.
+
+En buste, des trois quarts a droite. Habit noir a collerette tuyautee. Une calotte sur la tete. Toile.—Hauteur 8o,largeur 67 centimetres.
+
+## 1. W(ESTERBAAN?).
+
+- 1o Portrait d'un magistrat.
+
+Homme distingue, en buste, des trois quarts a droite. Son costume noir est festonne, d'or et a coupures doublees de satin blanc. Une large collerette est bordee de dentelles. Marque: au coin haut de gauche: Ao. 1642.
+
+Bois.-Hauteur 67,largeur 57 centimetres.
+
+I.W.
+- 111 L. Cranach.- Portrait de Sybille de Cleves et de son fils Jean le Constant, electeur de Saxe.— Elle est vetue d'une robe de brocart a col releve. Coiffee d'un vaste escoffion de forme bizarre surmontant une crepine a bouffants. Le tout orne de perles et de pierres fines. Son fils de l'age de trois a quatre ans est vetue d'écarlate et de vair orne de perles et de pierres fines.
+
+Belle copie d'un portrait remarquable, surtout au point de vue du costume.
+
+Bois.-Hauteur 59.5, largeur 43 centimetres.
+
+- 112 C. van Cuylenburgh, Portrait d’un cadet de marine, a mi-corps.
+
+Signe et date 1782.——Toile.—Hauteur 5o, largeur 43 centimetres.
+
+- 113 Antonie van Dijck, Portrait d'homme. Tres belle copie.
+
+Ovale.-Toile.—Hauteur 75,largeur 58 centimetres.
+
+- 114 Maitre anonyme (Murkens?),Portrait d'homme. Imitation de la peinture de Rembrandt. Le nom de ce maitre figure sur le tableau, avec la date de 1643.
+
+Bois.—Hauteur 57, largeur 49.5 centimetres.
+
+- 115 Maitre anonyme, Portrait d’un jeune homme. Signe Rembrandt.
+
+Bois.—Hauteur 62, largeur 5o centimetres.
+
+- 116 Maitre anonyme, Portrait de femme. Fragment d’un beau tableau, vers 1640.
+
+Bois.-—Hauteur 6o,largeur 39.5 centimetres.
+
+- 117 Maitre anonyme. - Jeune homme represente en buste, des trois quarts a droite, en costume noir.
+
+Bois.——Hauteur 74, largeur 58 centimetres.
+
+- 118 M. Miereveld. — Maurice de Nassau. Buste, grandeur nature, des trois quarts a droite. Signe: M. Miereveld f.
+
+Bois.——Hauteur 72,largeur 58 centimetres.
+
+Hauteur 31.5 largeur 26 centimetres.
+- 120 Constantijn Netscher, Portraits de famille, pere, mere et enfant. Deux toiles, pendants.
+
+Hauteur 52, largeur 48 centimetres.
+
+Bois.—Hauteur 25.5 largeur 2o centimetres.
+
+- 122 Une paire de portraits fantastiques, gargon et fillette. Peintures a l'huile sur bois, puis decoupees pour les placer dans les salons. Vers 169o.
+
+C'est vers cette epoque qu'on suivait la mode de placer des portraits decoupes dans les salons. Les pieces ici offertes ont ete peintes expressement pour les decouper.
+
+Hauteur 1o3 centimetres.
+
+- s s p se  s   s  s p d  a un petit chien. Peinture a la l'huile sur bois et decoupee comme le no. precedent. Fin du XVlle siecle.
+
+Peints expressement pour la decoupure,voir la grosseur du bois.
+
+- I21 P. Cz.Slingelandt,Portrait d'homme.
+
+Hauteur 1oo centimetres.
+<!-- image -->
+
+## 1. PORTRAITS MINIATURES.
+
+- 124 Portrait de jeune homme En buste. Son habit noir ouvert pres du col laisse voir une chemise tuyautee. Bonnet noir a plumes. - Travail famand. Vers 1500.
+
+Maraufle.-—Hauteur 15.5,largeur 12.5 centimetres.
+
+Au revers, une notice, en manuscrit du siecle dernier, indiquant le personnage represente
+
+- 125 Portrait d'homme d'age moyen. En buste,habit noir a collerette. comme Adriaan van Bergen" le liberateur de la ville de Breda en 1590.
+
+Ovale.-Cuivre.-Hauteur 95milimetres.
+
+- 126 Portrait d'enfant a lage d'environ 7 ans. Habit noir a collerette. Coiffe d'un joli bonnet rouge a broderies.
+
+Tres jolie miniature.
+
+Date 16oo.-Ovale, sur cuivre.-Hauteur 78 milimetres.
+
+- La jolie tete a chevelure blonde ornee de roses.Vers 16oo.
+
+Ovale.—Cuivre.—Hauteur 57 milimetres.
+
+- 128 Portrait de jeune homme en habit venitien. Buste. Vers 1600.
+
+Ovale.-Cuivre.—Hauteur 37 milimetres.
+
+- 129 Portrait d'une dame agee d'environ 4o ans. En buste, collrette tuyautée et bonnet blanc. Vers1600.
+
+Rond.-Bois.-Diametre 65milimetres.
+- 130 Portrait d'homme d'environ 3o ans. Buste. Habit noir a collerette a dentelles venitiennes. Signe du monogramme V. S. L. (entrelaces) et date 16o7.
+
+Ovale.—Cuivre.—Hauteur 119 milimetres.
+
+- 131 Vieille femme, a mi-corps. Habit noir a fourrure, une collerette et un serre-tete. Vers 1620. Ovale.—Bois.—Hauteur 153 milimetres.
+- 132 Portraits de Johan Smuysers et de Sara Sanen. Deux miniatures maniere Frans Hals. Ils sont representes a mijambes.-Le portrait de l'homme est date Aet. 33 Aumo 1625.--Ils ont eterestaures.
+
+Bois.-Hauteur 17o,largeur 137 milimetres.
+
+- 133 Gustave Adolphe, Portrait en buste des trois quarts a droite.
+
+Ovale.-Cuivre.-Hauteur 28 milimetres.
+
+- 134 sGosuin. Ludov. Spirinck Aetatis 53 An. 1638."— Joli portrait avec cette legende en or. Buste a droite.
+
+Ovale.Cuivre.-Hauteur 46milimetres.
+
+- 135 Portrait de jeune homme vetu d'un habit noir a collrette. Un chapeau noir couvre sa chevelure blonde
+
+Miniature d'un ton tres rembrandtique, attribue a Th. de Keyser.
+
+Ovale.-Cuivre.-Hauteur 121 milimetres.
+
+- 136 Portrait d'un chef polonais. — Beau portrait, en buste, d'un homme portant le bonnet polonais. Attribue a Rembrandt.
+
+Bois.—Hauteur 13,largeur 1o centimetres.
+
+- 137 Portrait d'homme enveloppe d'un manteau noir, laissant voir son rabat. Cuivre.—Hauteur 17o, largeur 133milimetres.
+- Ovale.-Cuivre.-Hauteur 95 milimetres.
+36
+
+- 139 Portrait d'homme a haut chapeau. Habit a collerette a dentelles. Cadre sculpte. Ovale.-Maraufe.-Hauteur 115 milimetres.
+- 140 Dame a l'age de 35 ans environ. En buste. Corsage a dentelles, decollete. Chevelure noire. Ovale.-Cuivre.-Hauteur 75milimetres.
+- 141 Portrait de T. C. u. Gent oud een jaer 17og. Miniature sur cuivre dans une boite en argent. — Le bebe est represente dans un costume classique et a bonnet de plumes.
+
+Hauteur 93 milimetres.
+
+- 142 Miniature sur ivoire representant la Sainte Famille avec Jean Baptiste, enfant et les Saintes femmes, etc. Travail italien.
+
+Hauteur 129,largeur 155 centimetres.
+
+- 143 Deux paysages en couleurs. Petites miniatures dans un cadre en ebene. XVIlle siecle.
+- 144 Halte de chasse d'apres Ph. Wouwerman. - Dessin a la gouache. XVlle siecle. Hauteur 32,largeur 26.5 centimetres.
+<!-- image -->
+
+## II.TABLEAUX ANCIENS.
+
+## JAN BRUEGHEL LE VIEUX DIT LE VELOURS.
+
+Ne a Bruxelles en 1568,mort a Anvers en 1625.
+
+145 Paysage boise.
+
+Entre les arbres montant t jusqu'au haut du tableau se voit une maisonnette, d'ou sort une femme. L'avant-plan est occupe par un chasseur et une laitiere. Au loin, une tour de village.
+
+Beau tableau en vert et bleu-fonce plein de lumiere.
+
+Bois.-—Hauteur 67,largeur 52 centimetres.
+
+## PIETER CLAESZ.
+
+Le pere de Claes Berchem.Nea Steinfurt,etabli a Harlem avant 1617.Mort en 1661.
+
+146 Nature-morte.
+
+Une table couverte, de plats d'etain avec des citrons, du pain et du vin, etc.
+
+Bois.-Hauteur 47, largeur 63 centimetres.
+147 Groupe de famille.
+
+Un marchand revenant d'un voyage vient de rentrer chez lui. l est debout au milieu du tableau. Sa femme avec ses deux jeunes filles et un gargon sont reunis pres d'une table ou prend soin des bouteilles placees dans un rafraichissoir.
+
+Le pere en habit noir, col a dentelles et a longue perruque; sa femme en jupe de soie blanche et corsage noir, la tete couverte d’un chale en dentelles.
+
+Les filles en robes trainantes, l'une en soie blanche, l'autre rayonnee de rouge et de bleu.
+
+Toile.-Hauteur 92,largeur 12o centimetres.
+
+## GASPARD DE CRAYER.
+
+Baptise a Anvers en 1584, decede a Gand en 1669.
+
+148 Entrevue de Saint Benoit et Totila, roi des Goths au mont
+
+Cassin. VIe siecle.
+
+La renommee, du celebre cenobite venait jusqu'au roi Totila,le devasteur de lItalie.Il voulut le voir au mont Cassin. ll ne connaissait que l'arianisme et respectait la foi de Nicee que professait la majorite des peuples de l'Italie.Dans l'entrevue qui eut lieu entre ces deux personnages, le Saint, dit-on, parla au roi avec une égale franchise sur les desordres auxquels se livrait ce prince et sur le peu de temps qui lui restait pour en reparer le scandale; et si la severite de ce langage ne corrigea pas le barbare du moins n'excita-t-elle point sa colere.
+
+Le saint est represente de gauche, devant le cloitre et entoure de deux autres moines. A ses pieds,un corbeau.
+
+Le roi en armure et a casque emplume est agenouille devant Saint Benoit. ll porte un manteau tenu par un petit gargon. Les chevaliers de sa suite sont vetus de brocarts et d'ecarlate, d'autres en armure. Le peintre les a costumes, tantot en guerriers hongrois tantot en guerriers mauresques. Des chevaux gardes sont places a une distance a droite. Un beau cheval blanc de grandeur nature y remplit presque toute la surface.
+
+Entre le groupe des chevaliers et celui des chevaux se voit une brillante perspective de paysage sous un ciel plein de lumiere.
+
+Tableau celebre du maitre decrit par Descamps dans son Voyage pittoresque. Il provient de I'abbaye d'Afflichem pres d'Anvers.
+
+Voir la reproduction.
+
+## GONZALES COQUEZ.
+
+Nea Anvers en 1618,mort en 1684.
+- 150 St. Laurent.
+
+Figure entiere debout. Dans son chasuble et tenant une grille, un livre et une palme dans sa main gauche.
+
+## SIMON VAN DER DOES.
+
+Nea Amsterdam?en 1653,mort a Anvers en 1717.
+
+- 149 Paysage avcc betail.
+
+Au pied d'une grande statue de centaure, deux boucs sont en train de se battre. Dans le
+
+Signe: Van der Does.
+
+lointain, des montagnes.
+
+Toile.-Hauteur 52,largeur 6o.5 centimetres.
+
+## ANTHONIE VAN DIJK (Maniere de).
+
+Bois.-Hauteur 345,largeur 25 centimetres.
+
+## JAN VAN GOYEN.
+
+Ne a Leyde 1596, mort a La Haye en 1656.
+
+- 151 Vue de riviere pres d'un village avec des barques-pecheurs.
+
+Signe: W. van de Velde.
+
+Bois.-Hauteur 42, largeur 54 centimetres.
+
+## DIRK HALS.
+
+Frere de Frans Hals,premiere moitie du XVIe siecle.
+
+- 152 Une musicienne.
+
+Jeune flle dans un interieur, ou l'on voit des tableaux, s'amusant a jouer sur un clavecin.
+
+Bois.-—Hauteur 34,largeur 28.5 centimetres.
+154*Cavaliers
+
+Toile.--Hauteur 39,largeur 48 centimetres.
+
+## MAITRE ANONYME.
+
+154 La bataille de Bréaute et Lekkerbeetjen.
+
+Charge de cavalerie pendant la guerre Espagnole. Tout l'avant-plan est rempli de cavaliers se battant a coups de sabre et dechargeant leurs pistolets. Dans le lointain, le profl de la ville de Bois-le-Duc.
+
+A gauche, une legende enumeree donnant les noms des cavaliers. Tableau important de l'époque.
+
+Bois.-Hauteur 6o,largeur 154 centimetres.
+
+## DIRK LANGENDIJK.
+
+Ne a Rotterdam en 1748, ou il mourut en 1805.
+
+de l'armée de Napoleon en Egypte poursuivant un Maure.
+
+Dans le lointain, des rochers et une forteresse.
+
+M. B. O. L.
+
+155 Bouquet de feurs dans un vase: roses, tulipes, orchidees, etc. sur une plinthe. Signe du monogramme M. O. B. L. (entrelaces).
+
+Bois.—Hauteur 84, largeur 6o centimetres.
+
+Signe : D. Langendijk 1786.
+
+## MELCHIORD'HONDECOETER.
+
+Nea Utrecht 1636,mort a Amsterdam en 1695.
+
+153 Coin d'un parc avec volaille.
+
+Signe:M. Hondekoeter 1672.
+
+Bois.-Hauteur 34.5o, largeur 28 centimetres.
+156 Corps de garde.
+
+Sous les voutes d'un chateau en ruines sont reunis plusieurs soldats de larmee de Frederic Henri. Un trompette donne le signal en se dirigeant vers l'entree. Au fond, des soldats
+
+Bois.——Hauteur 48, largeur 63.5 centimetres.
+
+## ADAM PIJNACKER.
+
+Nea Pynacker pres de Delt en 1622,mort a Amsterdam 1673.
+
+- 157 Paysage boisé.
+
+Coin de bois d'ou sort un troupeau. Au premier plan, des hetres a troncs tourmentes, que le peintre s'entendait a peindre a merveille. A droite, une perspective de montagnes. Signe: A. Pynacker.
+
+Toile.-Hauteur 6o,largeur 5o centimetres.
+
+## PETRUSPAULUS RUBENS.
+
+Né a Siegen en 1577, mort a Anvers 1640.
+
+- 158 Meleagre et Atalante.
+
+Meleagre offrant la tete du Sanglier.
+
+Belle ancienne copie d'apres le tableau de Munich? Les figures seules ont éte reproduites.
+
+Toile.-Hauteur 18i,largeur 129 centimetres.
+
+## RACHEL RUIJSCH.
+
+Née en 1664 ou 1665 a Amsterdam,ou elle mourut en 1750.
+
+pres du feu ou en conversation.
+
+- 159 Fleurs.
+
+Sur une plinthe sont placees une corbeille et une coupe en argent remplies de fleurs.
+
+Roses, tulipes, oeillets, lilas, etc.Brillant de couleur, fond noir.
+
+Bois.——Hauteur 59, largeur 86 centimetres.
+
+## ANTHONIE PALEMEDESZ.
+
+Nea Delft 16oi, mort a Amsterdam en 1673.
+I6o Guirlande de feurs et de fruits encadrant un medaillon ou est representee la circoncision. Hauteur 25,largeur 2o centimetres.
+
+## JAN STEEN.
+
+Nevers 1626a Leyde, ou il fut enterre en 1679.
+
+- 161 Les desirs satisfaits.
+
+Un homme dans la force de l'age se repose pres d'une table. ll tient un bocal qu'une femme remplit de vin blanc. Une autre femme lui tend un rechaud a feu pour allumer sa pipe. Sur la table, un plat a hareng.
+
+## JAN STEEN.
+
+- 162 Scene d'un menage de paysan.
+
+Un paysan jete a terre est rosse par sa femme assistee de deux autres. Sur l'avantplan, de la vaisselle dispersee.
+
+Signe: Jan Steen.
+
+Toile.-Hauteur 125,largeur 142 centimetres.
+
+Bois.--Hauteur 38,largeur 3o.5 centimetres.
+
+## DAVID TENIERS.
+
+Ne a Anvers en 161o, mort a Bruxelles en 169o.
+
+- 163 Village flamand.
+
+Une ferme devant laquelle des paysans en conversation. Dans le lointain,le village.
+
+Bois.-Hauteur 25,largeur 35 centimetres.
+164 Marine.
+
+A droite, sur l'avant plan, une jolie figure de pecheur; dans le lointain, les dunes.
+
+Bois.-—Hauteur 21.5. largeur 25.5 centimetres.
+
+## HENDRICK CORNELISZ.VROOM.
+
+Néen 1566a Harlem,ou il fut enterre en 1640.
+
+- 165 Mer houleuse avec trois navires a trois mats luttant contre I'orage.
+
+Bois.——Hauteur 44, largeur 97 centimetres.
+
+## WILLEMVANDEVELDELEJEUNE.
+
+NeaAmsterdam en 1633,mort a Greenwich en 17o7.

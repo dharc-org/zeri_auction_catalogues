@@ -1,0 +1,8 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_81871,21619,1,I,LLUSTRAZIONI,10,96.0,False,none,,,,,
+BO0624_81871,21620,2,I,"l maestro, appartenente alla scuola ferrarese, ha molte affinita col Garofalo, specialmente in quest'opera.",46,99.5,False,positional,NICOLA PISANO,Scuola Ferrarese,,,
+BO0624_81871,21621,3,I,"l pittore, di cui si conoscono soltanto poche opere, e un piacevole artista della scuola bresciana che divulga lo stile del Moretto e del Savoldo.",72,99.7,False,positional,GIOVANNI DA ASOLA,Scuola Bresciana,,,
+BO0624_81871,21622,4,I,"l martirio di S. Sebastiano. Pala ad olio su tela, tipica per il maestro che vi si rivela seguace del padre e del Farinati: cornice dorata m.2,02x1,17.",155,99.7,False,positional,FELICE BRUSASORCI,,,,
+BO0624_81871,21623,5,I,"l dipinto e assai simile a quello col medesimo soggetto che si trova nella Galleria Spada, opera documentata del noto caravaggesco romano.",220,99.6,False,positional,ORAZIO BORGIANNI,,,,
+BO0624_81871,21624,6,I,"l riposo della Sacra Famiglia nella Fuga in Egitto. Tela m. 1,42 x 1,22, entro cornice dorata. Tipico lavoro del periodo neogiorgionesco del noto pittore e incisore genovese.",271,99.7,False,positional,GIOVAN BENEDETTO CASTIGLIONE DETTO IL GRECHETTO,,,,
+BO0624_81871,21625,7,I,"l Centurione innanzi a Cristo. Tela di cm. 6o x 96, entro cornice dorata antica.",306,99.3,False,positional,NICOLA GRASSI,,,,

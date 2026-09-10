@@ -1,0 +1,7339 @@
+## NIEDERLANDISCHE MEISTER.
+
+16. bis 18.Jahrhundert.
+
+(Aus dem Besitze des Sammlers mit dem Eulenstempel.)
+
+## JAKOB D'ARTOIS,
+
+flamischer-Maler,Brissel 1613-1686.
+
+- 1Waldlandschaft.
+
+Getuschte Rotel- u. Kreidezeichnung.
+
+Blattgrosse 17,3:23 cm.
+
+Rechts oben Sammlerstempel FH (Sammlung Habich).
+
+## HENDRIK VAN AVERKAMP,
+
+holland.Maler,Amsterdam 1585-Kampen 1663.
+
+- 2 Fuhrwerk auf der Rast. Getuschte Federzeichnung. Blattgrosse 4:8 cm.
+
+- 3 Landendes Ruderboot und vornehmes Paar. Getuschte Federzeichnung. Blattgr0sse 6,3:16,4 cm.
+
+- 4 Schiffer im Lastboot,am Lande mehrere Personen. Getuschte Federzeichnung. Blattgr0sse 16,5:22,5 cm.
+
+- 5 Segelschiffe und Boot. Getuschte Federzeichnung.
+
+Blattgrosse 14,2:15 cm.
+
+## LUDOLF BACKHUYSEN,
+
+Emden 1631—Amsterdam 1708.
+
+- 6 Grosses Segelschiff. Getuschte Federzeichnung.
+
+Blattgrosse 20:13 cm.
+
+## JANABRAHAMSZ BEERSTRATEN,
+
+holland.Maler,Amsterdam 1622-1666.
+
+- 7 Landschaft mit Ruine.
+
+Getuschte Kreidezeichnung. Signiert mit Monogramm : ,J. B."
+
+Blattgr0sse 18,5:27 cm.
+
+## CORNELIS BEGA,
+
+holland. Maler, Haarlem 1620-1664, der bedeutendste Schiler des Adr.v. Ostade.
+
+- 8Marktfrau.
+
+Rotelzeichnung. Mit alter Bezeichnung.
+
+Blattgrosse 26,2:15,4 cm.
+
+Siehe die Abbildung.
+
+- 9 Sitzende Romerin im Profil von links. Kohlezeichnung mit Weiss gehoht. Auf blauem Papier.
+
+Blattgrosse 22,5:17,5 cm.
+Siehe unter Nr.215-217.
+
+## CLAAS NIKOLAAS PIETERSZ BERCHEM,
+
+- 10 Rinder und Schaf.
+
+holland.Maler,Haarlem 1620-Amsterdam 1683.
+
+Kreidezeichnung auf Pergament.Signiert:,NB(verschlungen) f Blattgrosse 23,5:35,7 cm. Siehe die Abbildung.
+
+- 11 Romische Landschaft mit Viehherde. Weissgehohte Kreidezeichnung auf gelblichem Papier. Blattgrosse 28,7:34,3 cm.
+
+## JAN DE BEYER,
+
+Aarau 1705-Cleve 1768.
+
+- 12 Ansicht der Kirche zu Persingen (Holland). Getuschte Federzeichnung. Blattgr0sse 11,6:16,6 cm. Oben ist zu lesen:,,Kerk to Persingen Siende op Nymegen. d. 25. Juni 1752".
+
+## JAN BISSCHOP,
+
+holland. Kupferstecher,Haag 1646—1686.
+
+(Episcopius)
+
+- Tuschzeichnung in Sepia.Bez.:J. de Bischop Fecit. Na Raphael. Blattgrosse 34,5:19,5 cm.
+
+## ABRAHAMBLOEMAERT,
+
+- 14 Figurliche Studien, desgleichen auf der Ruckseite. Getuschte Rotelzeichnung.Bez.:,Bloemaert". Blattgr0sse 16,5:19,7 cm.
+- 15 S. Franciscus.
+- Weissgehohte Rotelzeichnung. Blattgrosse 24:18,6 cm. Auf der Rickseite Besitzervermerk,G.Munch 1869"
+- 16 Junger Kavalier.
+
+Getuschte Federzeichnung. Eigenhandig signiert:,A. Bloemaert f. Blattgrosse 16,2:9,2 cnr.
+
+- 17 Mariae Himmelfahrt. Getuschte Federzeichnung mit Kolorit. (Graugrin mit Rot.)
+- 18 Romische Kindesliebe.
+- 19 Bauer einen Korb tragend. Getuschte Kreidezeichnung.
+
+Getuschte, weissgehohte Federzeichnung in braun.
+
+## PIETER DE BLOOT,
+
+holland.Maler, Rotterdam 1601—1658.
+
+Links unten Sammlerstempel. In der Sammlung als Saftleven bezeichnet.
+
+Blattgrosse 23,4:18 cm.
+
+Blattgrosse 30,2:20 cm.
+
+Blattgrosse 18,8: 13 cm.
+
+holland.Maler,Dortrecht 1564—1657.
+
+## WILHELM VON BEMMEL,
+
+holland.Maler,1630-1708..
+## ABRAHAM VAN BORSSUM,
+
+holland.Maler,Amsterdam 1629—1672.
+
+- 20 Ansicht eines holland. Ortes mit Hutten im Vordergrund.
+
+Getuschte Kohlezeichnung.
+
+Blattgrosse 13,9:20,3 cm.
+
+Im Dresdner Kupferstichkabinett befindet sich eine ahnliche Zeichnung.
+
+Siehe die Abbildung.
+
+## ANDRIES BOTH,
+
+holland.Maler,1609—1650.
+
+- 21 Der Sundenfall.
+
+Blattgr0sse 16:13,7 cm.
+
+Getuschte Federzeichnung in Sepia. Rechts unten signiert:Aboth. Auf der Rickseite die eigenhand.
+
+Bezeichnung:A both, der Sammler-Stempel WK.und der Besitzervermerk:G. Duchardin.
+
+JAN BOTH,
+
+geb. Utrecht um 1610-1652.
+
+- 22 Gebirgsbach-Landschaft.
+
+Getuschte Kreidezeichnung.
+
+Blattgrosse 33: 24,7 cm.
+
+## LEONHARD BRAMER,
+
+holland.Maler,Delft 1595—1674.
+
+- 23 Verhohnung Christi.
+
+Weissgehohte Tuschzeichnung auf blau Papier.
+
+Blattgr0sse 34,2:23,3 cm.
+
+Rechts unten Stempel der Sammlung Grahl.
+
+：Siehe die Abbildung.
+
+## BARTHOLOMAUS BREENBERGH,
+
+holland.Maler,1599—1659.
+
+- 24 Romische Ruinen mit Maultieren.
+
+Getuschte Kreidezeichnung.
+
+Blattgr0sse 20,3:17,4 cm.
+
+Aus der Sammlung Birkenstock.
+
+## ART PIETER BREUGHELS D.AE.
+
+holland Maler,1530—1569.
+
+- 25 Hugel mit Kreuzen u. Galgen.
+
+Federzeichnung. Aus der Sammlung Grahl.
+
+Blattgr0sse 14,6:25,2 cm.
+
+- 26 Pferdegespann im Walde.
+
+Kolorierte Federzeichnung.
+
+Blattgrosse 14:13 cm.
+
+- [ ] Siehe die Abbildung.
+
+## PAUL BRILL,
+
+flamischer Maler, Antwerpen 1554-Rom 1626.
+
+- 27 Bewaldete Meereskiste mit Segelschiffen auf der See.
+
+Tuschzeichnung.
+
+Blattgrosse 21:28,4 cm.
+
+Mit alter Bezeichnung auf der Rickseite.
+
+Siehe die Abbildung.
+- 28 Rundtempel im Tivoli. Getuschte Federzeichnung in Sepia.
+
+## JOHANN G.VAN BRONKHORST,
+
+- 29 Porticus mit Staffage.
+
+holland. Maler, 1603-1677.
+
+Getuschte Kreidezeichnung. Sepia.
+
+Auf der Rickseite der Sammlerstempel:,F. G.
+
+## JOHANN VAN BRONCKHORST
+
+holland.Maler,Leyden 1648—1720.
+
+- 30 Gruppe von Wasservogeln. Farbige Tuschzeichnung. Signiert : ,J. B. fc."
+
+## HERMANN VON BRUSSEL,
+
+holland. Maler, Haarlem 1763-Utrecht 1815.
+
+- 31 Bauernhauser zwischen Eichen. Getuschte Kreidezeichnung. Blattgr0sse 23,5:33,3 cm.
+- 32 Landschaft mit knorrigen Baumen,Holzbriicke und Bauernhaus. Getuschte Federzeichnung.
+- 33 Landstrasse mit hohen Baumen. Getuschte Bleistiftzeichnung.
+
+## JAN VAN DE CAPELLE,
+
+holland.Marinemaler,Amsterdam um 1650.
+
+- 34 Flusslandschaft mit Segelboot. Kreidezeichnung.
+
+## AERT CLAESZ (gen. AERT VAN LEIDEN),
+
+- 35 Jesus, die Junger und die Pharisaer. Auf der Rickseite dasselbe in anderer Fassung. Getuschte Federzeichnungen in Sepia.
+
+holland. Maler des 16.Jahrh.,geb.Leiden 1490—1564.
+
+- Blattgrosse 18,5:28 cm. Unten die Schrift: Discipuli Jesu spicas evellebant fricabant manibus et comedebant.
+
+Schoner Entwurf fir ein Glasgemalde des fast unbekannten, seltenen Meisters.
+
+## JAN DE COSTER,
+
+- 36 Waldesrand. Getuschte Kreidezeichnung. Bez.: ,J. Coster fec."
+
+flam. Maler des 17. Jahrh.
+
+## AELBERT CUYP,
+
+holland.Maler,Dordrecht 1620—1691.
+
+Blattgrosse 20,1:26,8 cm.
+
+Blattgrosse 20,1:22,1 cm.
+
+Blattgrosse 7,6: 19,8 cm.
+
+- 37 Zugbricke iber einen Fluss. Getuschte Kreidezeichnung.
+
+Blattgrosse 19,2:14,7 cm.
+
+Blattgrosse 20,5: 15 cm.
+
+Blattgrosse 20,5:25 cm.
+
+Blattgrosse 20,4 :30,8 cm.
+
+Blattgrosse 13,5 : 21 cm.
+## CORNELIS DEKKER,
+
+holland. Maler, Haarlem ca.1600—1678.
+
+- 38 Flusslandschaft mit Bauernhutte.
+
+Getuschte Kreidezeichnung.
+
+Blattgr0sse 16:28,2 cm.
+
+Unten rechts Sammlerstempel.
+
+## ABRAHAM VAN DIEPENBECK,
+
+hoiland.Maler,Herzogenbusch 1596—Antwerpen 1675.
+
+- 39 Der schlafende Jesusknabe.(Entwurf fuir einen Kupferstich.)
+
+Getuschte Federzeichnung in Sepia.
+
+Blattgrosse 26,6: 18,4 cm.
+
+Unten auf dem Schriftband: PVERO.DORMIENTE. DIVINA MENS. VIGILAT.
+
+- 40 Junger Kavalier zu Pferde steigend.
+
+Zweifarbige Tuschzeichnung auf braunem Papier.
+
+Blattgrosse 29,6:17,4 cm.
+
+=Siehe die Abbildung.
+
+## KAREL DU JARDIN,
+
+holland.Maler,Amsterdam 1622-Venedig 1678.
+
+- 41 Landschaft mit Felsen u. Mauleseln.
+
+Feder- u. Tuschzeichnung in Sepia.
+
+Blattgrosse 23,6: 20 cm.
+
+Auf der Rickseite Tierstudien in Bleistift.
+
+Siehe die Abbildung.
+
+## CORNELIUS DUSART,
+
+holland.Maler,Haarlem 1665-1704.
+
+- 42 Wirtshausszene.
+
+Getuschte Federzeichnung in grau-griner Farbe.
+
+Blattgr0sse 24,3:18,5.cm
+
+## ANTHONIS VAN DYCK,
+
+flam.Maler,Antwerpen 1599—1641.
+
+- 43 Christus am Kreuz und Kriegsknecht.
+
+Getuschte Bleistiftzeichnung in braun.
+
+Blattgrosse 25,5:15,5 cm.
+
+Auf der Rickseite Skizze.
+
+Siehe die Abbildung.
+
+- 44 Herrenbildnis (Kopf en face).(Entwurf fir einen Kupferstich.)
+
+Blattgrosse 15,5:12 cm.
+
+Getuschte Kreidezeichnung.
+
+- 45 Pieta mit Heiligen und Engeln.
+
+Blattgrosse 26:37,7 cm.
+
+Getuschte Kreidezeichnung auf blaulichem Papier.
+
+Auf der Rickseite ein Frauenkopf eine Amphora tragend,in Rotei.
+
+Skizze zum Originalgemalde in der Dusseldorfer Gallerie.
+
+Siehe die Abbildung.
+## NACH VAN D YCK.
+
+- 46 Huftbild eines Prinzen aus dem Hause Oranien, mit Degen und Mantel.
+
+Tuschzeichnung mit weiss gehoht. Gerahmt.
+
+Blattgrosse 25:19,5 cm.
+
+## ALLAERT VAN EVERDINGEN,
+
+holland.Maler,1621—1675.
+
+- 47 Flusslandschaft mit Felspartie und Dorf.
+
+Getuschte Federzeichnung in Sepia.
+
+Blattgrosse 14:19 cm.
+
+- 48 Gebirgsbach mit hohem Holzsteg.
+
+Getuschte Kreidezeichnung.
+
+Blattgrosse 14,5:21,5 cm.
+
+- 49 Gebirgslandschaft mit Holzsteg u.Wassermihle.
+
+Getuschte Kohlezeichnung.
+
+Blattgr0sse 19:30,4 cm.
+
+Siehe die Abbildung.
+
+- 50 Segelschiffe.
+
+Tuschzeichnung.Auf der Rickseite signiert:,A.V.EVERDINGEN 1631." Blattgr0sse 15,5:23,7 cm.
+
+## FLAMISCHER MEISTER
+
+um 1620.
+
+- 51 Jesuskind den Tod iberwindend.
+
+Rotelzeichnung.
+
+Blattgrosse 17,6:14,5 cm.
+
+## FLAMISCHER BILDNISMALER
+
+des 17. Jahrhunderts,wahrscheinlich JOOST SUSTERMANS,Antwerpen 1597-Florenz 1681.
+
+- 52 Bildnis eines Kavaliers.
+
+Getuschte Federzeichnung.
+
+Blattgrosse 24,1:19 cm.
+
+## FLAMISCHER MEISTER
+
+des 17. Jahrhunderts, Richtung des Franz de Momper (1605-1680).
+
+- 53 Landschaft mit Eichenallee und Dorf im Hintergrunde.
+
+Getuschte Kohlezeichnung.
+
+Blattgrosse 18:26,3 cm.
+
+War auch als Hermann von Brissel angesprochen.
+
+## GOVAERT FLINCK,
+
+Cleve 1615-Amsterdam 1660.
+
+- 54 Ruhender Mann vom Rucken gesehen.
+
+Weissgehohte Kohlezeichnung, auf blaugrauem Papier.
+
+Blattgrosse 14:18,5 cm.
+
+JAN FYT,
+
+flam.Maler, Antwerpen 161l—1661.
+
+- 55 Hundin mit Welpen.
+
+Getuschte Bleistiftzeichnung.
+
+Blattgrosse 19 :30,5 cm.
+
+Rechts unten Stempel der Sammlung ,Grahl"
+
+Siehe die Abbildung.
+## BARENT GAEL(GAAL), holland. Maler, Mitte des 17. Jahrh.
+
+- 56 Reitschule.
+
+Tuschzeichnung. Eigenhandig signiert :,B gaal"
+
+Blattgrosse 17,2:28,2.cm.
+
+## JACOB DE GHEYN,
+
+flam.Maler u.Kupferstecher,Antwerpen 1565—1615.
+
+- 57 Das Reich des Neptun.(Entwurf fuir ein Kupfer.)
+
+Getuschte Federzeichnung. Eigenhandig bez. ，J. D.Gheyn".
+
+Blattgr0sse 20,5:16,2 cm.
+
+Unten Stempel der Sammlung ,Grahi.
+
+Siehe die Abbildung
+
+## PIETRO LEONE GHEZZI,
+
+Rom 1674—1755.
+
+- 58 Stehende Frau mit gefalteten Handen. (Kopie nach einem deutschen oder niederland. Meister des 16. Jahrh.)
+
+Federzeichnung.
+
+Blattgrosse 20,5:12,3 cm.
+
+Auf der Rickseite Besitzervermerk.
+
+## HENDRIK GOLTZIUS,
+
+Mihlbrecht (Julich) 1558—Haarlem 1616.
+
+- 59 Diana.(Entwurf fuir einen Kupferstich.) Tuschzeichnung.
+
+Blattgrosse 11 :8,5 cm.
+
+- 60 Mars und Venus. Federzeichnung auf rotbraunem Papier weissgehoht. Blattgrosse 20: 14,2 cm.
+
+## JAN VAN GOYEN,
+
+holland.Maler, Leiden 1596—Haag 1656.
+
+- 61 Bauernhauschen mit Windmuhle. Getuschte Kreidezeichnung.Eigenhandig signiert:,VG 1657" Blattgrosse 17:20 cm.
+
+Siehe die Abbildung.
+
+- 62 Brickensteg und Windmihle, Figuren. Blattgrosse 11,5:15,2 cm. Kohlezeichnung.
+
+- 63 Dorfausgang. Blattgrosse 15:20,3 cm. Blaulich aquarellierte Kreidezeichnung.
+
+- 64 Dorfstrasse. Blattgrosse 12,4:23,6 cm. Kreidezeichnung.
+
+- 65 Dorfstrasse.
+
+Blattgrosse 12,1:23,5 cm.
+
+Kreidezeichnung.
+- 66 Fahre mit Planwagen u. Pferden darauf.
+
+Kohlezeichnung.
+
+Blattgrosse 15,5:22 cm.
+
+- 67 Hauser am Kanal.
+
+Kohlezeichnung.
+
+Blattgrosse 11,8:22,6 cm.
+
+Siehe die Abbildung.
+
+- 68 Hauserzeile eines Dorfes.
+
+Kreidezeichnung. Aus der Sammlung Rumohr.
+
+Blattgrosse 12,3:21,2 cm.
+
+- 69 Hollandisches Dorf.
+
+Kreidezeichnung.
+
+Blattgrosse 11,3: 13,7 cm.
+
+- 70 Landschaft mit Baumen und Huitten.
+
+Kreidezeichnung.
+
+Blattgr0sse 12,3:23,7 cm.
+
+ART DE GREEF,
+
+holland. Maler, um 1650.
+
+- 71 Schlossansicht.
+
+Getuschte Federzeichnung.Oben bez.:,by binghdunten :,den 2. September 1635.Blattgrosse 9,5:15 cm. Unten rechts Sammlerstempel ,,Gr"(Sammlung Grahl).
+
+## JAN HACKAERT,
+
+holland.Maler,1629—1699.
+
+- 72 Baumgruppe. (Partie aus dem Hochgebirge.)
+
+Getuschte Federzeichnung in Sepia.
+
+Blattgrosse 20:15,5 cm.
+
+,Sammlung Grahlals ,Everdingen" abgebildet.
+
+- 73 Flussufer mit hohen Baumen.
+
+Getuschte Kreidezeichnung.
+
+Blattgrosse 17,5:24,2 cm.
+
+INDER ART DES JAN HACKAERT.
+
+- 74 Flussufer mit Hausern und Segelboot.
+
+Federzeichnung.
+
+Blattgrosse 11,9: 23 cm.
+
+## J.V.D.HAGEN,
+
+holland.Maler, Haag 1635—1669.
+
+- 75(Kaisergraacht in Amsterdam.) Hollandischer Kanal mit Schiffen und Hauserzeilen.
+
+Getuschte Feder-u.Bleistiftzeichnung.
+
+Blattgrosse 23,7:46,5 cm.
+
+## G.DE HEER,
+
+flam. Maler u.Kupferstecher, Mitte des 17. Jahrh.
+
+- 76 Halbverfallenes Haus mit figurl. Staffage an einem Flussufer gelegen.Auf dem Flusse rudern Fischer voriber.
+
+Federzeichnung auf Pergament. Eigenhandig signiert:,G. de Heer"
+
+Blattgrosse 32,6:44 cm.
+
+Vorziglich ausgefihrte Zeichnung des wenig bekannten Malers, dessen Blatter It. Notiz bei Nagler sehr selten sind.
+
+Siehe die Abbildung.
+## Auktionskatalog XL.Karl Ernst Henrici,Berlin W. 35.
+
+## ANTHONIS TER HIMPEL,
+
+## Delfter Maler um 1650.
+
+- 77 Winterlandschaft mit Schlittschuhlaufern etc.
+
+Tusch- u. Rotelzeichnung. Bez.:,A ter Himpel"
+
+Blattgrosse 13,5:19,5 cm.
+
+## MEINDERT HOBBEMA,
+
+holland.Landschaftsmaler,Amsterdam 1638-1709.
+
+- 78 Bauerndorf am Fluss.
+
+Kreidezeichnung.
+
+Blattgrosse 13:21 cm.
+
+Rechts unten Sammlerstempel ,Gr."(Sammlung Grahl).
+
+- 79 Bricke in der Campagna.
+
+Blattgr0sse 13,7:22,3 cm.
+
+Kreidezeichnung.
+
+Siehe die Abbildung.
+
+## ROMEYN DE HOOGHE,
+
+holland.Maler, Haag 1645—1708.
+
+- 80 Szene aus der Schlacht bei Lepanto. Getuschte Federzeichnung.
+
+Blattgrosse 18,6:29 cm.
+
+## SAMUEL VAN HOOGHSTRATEN,
+
+Rembrandtschule,holland.Maler,1626-1678.
+
+- 81 Biblische Scene (im Stile Rembrandts).
+
+Blattgr0sse 17,6:27,6 cm.
+
+- Federzeichnung in Sepia.
+
+## JAN HUISWYT,
+
+holland. Maler.
+
+- 82 Segelboot im Schilf.
+
+Blattgrosse 25:15 cm.
+
+Getuschte Federzeichnung.
+
+- J.VAN HUYSUM,
+
+holland. Maler, gest. 1740.
+
+- 83 Brabantische Flusslandschaft.
+
+Blattgrosse 11,2: 18,3 cm.
+
+Getuschte Federzeichnung in Sepia.
+
+Bez. rechts unten: ,25. Juni 1675 ut M. Kasteel van Hornit (?) to sien naar Rurmunde."
+
+Von hochst beachtenswerter Seite auch dem Claude Lorrain zugeschrieben.
+
+## JOHANN JACOB JANSON,
+
+holland.Landschaftsmaler,1729-1784.
+
+- 84 ,t'dorp Heel in Gelderland."
+
+Blattgrosse 14,2:18 cm.
+
+Sepiazeichnung.Rickseits bez.:,Johanes (Jakob) Janson fec.1758."
+
+## JACOB JORDAENS,
+
+flam. Maler, Antwerfen 1593—1678.
+
+- 85 Mythologische Szene.
+
+Blattgrosse 8,8: 11 cm.
+
+Tuschzeichnung, braun und gelb.
+86 Silen mit Faunen u. Bacchantinnen.
+
+Weissgehohte Kreidezeichnung.
+
+Blattgrosse 30:42,2 cm.
+
+Siehe die Abbildung.
+
+## JAN VAN KESSEL D.J.,
+
+holland.Maler,Amsterdam 1642-1680.
+
+- 87 Waldstrasse.
+
+Tuschzeichnung.
+
+Blattgrosse 15: 19,5 cm.
+
+## VALENTIN KLOTZ(CLOTS),
+
+holland.Maler, Maastricht 2. Halfte des 17. Jahrh.
+
+- 88 Strohgedeckte Bauernhauser u. Windmuhle.
+
+Tuschzeichnung in zwei Farben.
+
+Blattgrosse 11,2:18,2 cm.
+
+## WOUTER.KNIJF,
+
+niederrhein.Maler,Wesel 1610—um 1679 (Haarlem).
+
+- 89 Busch im Geest (in Goyens Art).
+
+Kreidezeichnung, der Himmel blaulich getont.
+
+Blattgrosse 11,7:24,5 cm,
+
+Rechts unten Sammlerstempel.
+
+## JAN KOBELL D.AE.
+
+holland.Tiermaler u.Radierer,1778-1814.
+
+- 90 Kuhe, Schaf und Ziege auf der Weide. Getuschte Kreidezeichnung in Sepia, mit Weiss gehoht.
+
+Blattgrosse 22:28,5 cm.
+
+## HENDRIK KOBELL D.J.
+
+holland.Maler, Rotterdam 1751—1799.
+
+- 91 Kriegsschiffe auf stirmischer See.
+
+Tuschzeichnung.
+
+Blattgrosse 25,2:35,2 cm.
+
+Siehe die Abbildung.=
+
+- 92 Segelschiffe auf sturmischer See.
+
+Getuschte Federzeichnung. Eigenhandig bez.:J.H. Kobel 1771.
+
+Blattgrosse 11,4 : 16,1 cm.
+
+## PHILIPS KONINGH,
+
+holland.Maler, Amsterdam 1619-1688.
+
+- 93 Ansicht von Delft.
+
+Tuschzeichnung.
+
+Blattgrosse 82: 14,2 cm.
+
+Oben rechts Sammlerstempel ，,H(Sammlung Habich).
+
+- 94 Verkundigung Mariae.
+
+Weissgehohte Kreide- u. Federzeichnung.
+
+Entwurf im Stile Rembrandts, dessen Schiler Koningh war.
+
+Blattgrosse 37 : 26,8 cm.
+## SALOMON KONINGH,
+
+holland.Maler,Amsterdam 1609—1656.
+
+- 95 Mann u. Frau einen Ring betrachtend.
+
+Tusch- u. Federzeichnung. Signiert SK, daneben Sammlerstempel.
+
+Blattgrosse 8:7,8 cm.
+
+## LUCAS JACOBS VAN LEIDEN,
+
+holland.Maler u. Kupferstecher,Leiden 1494—1533.
+
+- 96 Der Heilige Hieronymus. (Entwurf fur einen Kupferstich.)
+
+Getuschte Federzeichnung.
+
+Blattgrosse 8,7: 11,1 cm.
+
+Siehe die Abbildung.
+
+## JAN LIVENSZ,
+
+holland.Maler,Leyden 1607—Amsterdam 1674.
+
+- 97 Bauernhaus unter Baumen.
+
+Getuschte Kohlezeichnung.
+
+Blattgrosse 12: 16 cm.
+
+- 98 Gebirgige Landschaft.
+
+Blattgrosse 21,3:34,2 cm.
+
+Feder-u. Tuschzeichnung in Sepia.
+
+## JOHANN LINGELBACH,
+
+Frankfurt a.M.1622Amsterdam 1674.
+
+- 99 Reiter mit Pferd und Hund.
+
+Rotelzeichnung.
+
+Blattgrosse 12:17,2 cm.
+
+## JAN LUYKEN,
+
+holland.Maler,1649—1712.
+
+- 100 Entwurf fir eine Bibel-Illustration.
+
+Blattgrosse 11,4: 14 cm.
+
+Lavierte Federzeichnung in Sepia.
+
+Links unten mit Feder alt bezeichnet:,,De naakten werden gekleet. 25.36"
+
+- 101 Hafenbild mit Kaufleuten, Waarenballen u. s. w.
+
+Blattgrosse 13,6: 12,6 cm.
+
+Tuschzeichnung in Sepia.
+
+## IZAAK VON MANSFELD,
+
+holland. Kunstler.
+
+- 102 Oberitalienische Seenlandschaft.
+
+Blattgrosse 8,2: 16,1 cm.
+
+Tuschzeichnung.
+
+Auf der Rickseite der Vermerk:,von Mansfeld Izaakson.
+
+Von anderer autoritativer Seite dem Jan Lievens zugeschrieben.
+
+## JAKOB MATHAM,
+
+holland. Maler, Haarlem 1571—1631.
+
+- 103 Der Sundenfall.
+
+Blattgrosse 30:20 cm.
+
+Getuschte Federzeichnung in Sepia,mit Weiss gehoht.
+## LIEVEN MEHUS (MEUS),
+
+flam.Maler, Oudenarde 1630—1691.
+
+- 104 Studienkopfe u.Karikaturen.
+
+Federzeichnung, leicht angetuscht.
+
+Blattgrosse 26,3:19,5 cm.
+
+Bez.:,Livio Meus" links unten Monogramm ,,LM"
+
+Mit 2 Sammlerstempeln, dabei der von Sir Joshua Reynolds.
+
+## F.VAN MERKEREN,
+
+holland. Maler d.17. Jahrh.
+
+- 105 Der Stammbaum Christi.—Die Tanzenden.
+
+2 Blatt Federzeichnungen.
+
+Blattgrosse 12,4:28 cm.
+
+## ADAM FRANS VAN DER MEULEN,
+
+flam.Maler, Brissel 1631—Paris 1690.
+
+- 106 Reitergefecht in einer weiten Landschaft.
+
+Weissgehohte Tuschzeichnung auf graublauem Papier.
+
+Blattgrosse 24:39,7 cm.
+
+## NICLAS MOLENAER,
+
+holland. Maler, Haarlem 1600—1676.
+
+- 107 Hollandischer Kirchhof am Kanal. Kreidezeichnung. Blattgrosse 10,2:19,8 cm. Auf der Ruckseite vom Kunstler (?) beschriftet:,out nisdorp in noortholland 1646. Von anderer Seite dem A. Cuyp zugeschrieben.
+
+- 108 Kanal mit Schiffen u. Kirchdorf.
+
+Getuschte Rotelzeichnung.
+
+Blattgrosse 9,5 : 15,5 cm.
+
+Mit Sammlerstempel der Sammlung Habich.
+
+## PIETER DE MOLYN,
+
+holland.Maler, Haarlem 16001661.
+
+- 109 Bauerngehoft.
+
+Tuschzeichnung auf grau-blauem Papier. Rechts unten Sammlerstempel.
+
+Blattgrosse 18:27,3 cm.
+
+- 110 Dorfstrasse mit Vieh treibendem Bauer. Tuschzeichnung. Signiert mit dem Monogramm:,PM
+
+Blattgrosse 17:22 cm.
+
+- 111 Geestlandschaft mit Staffage. Getuschte Kreidezeichnung. Bez.:,P. Molyn 1654."
+
+Blattgrosse 15,5:19,6.cm.
+
+- 112 Landschaft mit Bauernhuitte rechts. Getuschte Kreidezeichnung mit der Feder nachgezogen.
+
+Blattgrosse 17,2:28 cm.
+
+- 113 Landschaft mit Holzbricke. Getuschte Federzeichnung.
+
+Blattgrosse 12,1: 24,3 cm.
+## JODOCUS DE MOMPER,
+
+## flamischer Maler,1564—1635.
+
+- 114 Landschaft mit Wasserschloss und Staffage.
+
+Getuschte Federzeichnung in Sepia. Signiert:，,Jodocus de momper"
+
+- Blattgrosse 23,7:36,5 cm.
+
+## ISAAK DE MOUCHERON,
+
+holland.Maler, Amsterdam 1670—1740.
+
+- 115 Verfallener Rundtempel am Meeresufer (ital. Motiv vom Golf von Bajo). Blattgrosse 24,5:37,2 cm.
+
+- Zweifarbig getuschte Federzeichnung.
+
+## NIEDERLANDISCHER MEISTER
+
+des 17. Jahrhunderts.
+
+- 116 Ansicht eines romischen Stadttores. Getuschte Federzeichnung in Sepia.
+
+Blattgrosse 18,8:30 cm.
+
+- G.VAN NIEUWELANDT,
+
+Antwerpener Kinstler des 17. Jahrh., offenbar Bruder des Willem van N., Schiler von Paul Brill.
+
+- 117 Sudliche Landschaft m. Stadt im Hintergrunde.
+
+Blattgrosse 17:23 cm.
+
+Sepiazeichnung. Bez.,G.v. Nieuwland 1622.
+
+## GERARD VAN NIJMEGEN,
+
+holland.Maler,Rotterdam 1735—1808.
+
+- 118 Hollandische Landschaft mit Hausern am Wasser. Getuschte Bleistiftzeichnung. Signiert:,GVN"
+
+Blattgrosse 10,5 : 19 cm.
+
+## CORNELIS VAN NOORDT,
+
+holland.Maler, Haarlem 1731-1795.
+
+- 119 Landschaft mit hohen Baumen, Hauser, Kuhe u. Maulesel als Staffage. Blattgrosse 27:22 cm. Tuschzeichnung,koloriert.
+
+## FRANS VAN NEVE,
+
+flamischer Maler, Antwerpen 1606—1681.
+
+- 120 Ansicht der Ruinen auf dem. Palatin in Rom. Blattgrosse 20:32 cm. Farbig getuschte Bleistiftzeichnung. Oben der Vermerk:,Pallazo magiore nel Monte Palatino in Roma.
+
+## PIETER GERARDUS VAN OS,
+
+holland. Maler,Haag 17761839.
+
+- 121 Landschaft mit Kuhherde.
+
+Blattgrosse 26,5:23,5 cm.
+
+Tuschzeichnung. Signiert : ,PvOsf."
+
+ADRIAN VAN OSTADE,
+
+Haarlem 1610—1685.
+
+- 122 Singendes Bauernpaar.
+
+Blattgrosse 13,3:12 cm.
+
+Feder- u. Tuschzeichnung.
+
+Siehe die Abbildung.
+## IZAAK VAN OSTADE,
+
+holland.Maler,Haarlem 1621—1649.
+
+- 123 Winterlandschaft mit Eislaufern.
+
+Tuschzeichnung. Mit Besitzer-Vermerk:,AF
+
+Blattgrosse 14,8:20,8 cm.
+
+- D.VAN OSTERHOUT,
+
+holland. Maler, geb. 1805.
+
+- 124 Landschaft mit einer Bricke und Maultiertreiber.
+
+Getuschte Federzeichnung.
+
+Blattgr0sse 20,6:26,6 cm.
+
+## ANTHONIS PALAMEDESZ STEVAERTS,
+
+holland.Maler,Delft 1601—Antwerpen 1678.
+
+- 125 Reitergefecht.
+
+Tuschzeichnung mit der Feder nachgezogen.In Sepia.
+
+Blattgrosse 34:51 cm.
+
+EGBERT VAN DER POEL,
+
+holland.Maler,Delft 1621—Rotterdam 1664.
+
+- 126 Bauernhaus.
+
+Blaugetonte Kreidezeichnung.
+
+Blattgrosse 15:19,2 cm.
+
+## CORNELIS VAN POELENBURGH,
+
+holland.Maler,Utrecht 1586-1666.
+
+- 127 Badende Frauen am Strande.
+
+Rotelzeichnung.
+
+Blattgrosse 18,4:29,3 cm.
+
+JAN PORCELLIS,
+
+flam.Maler,1597—1632.
+
+- 128 Italienische Kiste mit Hafen.
+
+Getuschte Federzeichnung. Eigenhand. signiert :,JP 1606"
+
+Blattgrosse 17,5:27 cm.
+
+## ABRAHAM RADEMAKER,
+
+holland.Maler,Amsterdam 1675Haarlem 1735.
+
+- 129 Bergige Flusslandschaft mit Schiffen.
+
+Getuschte Federzeichnung. Bez.:,A. Rademaker Fec."
+
+Blattgrosse 16,9 : 29 cm.
+
+## REMBRANDT HARM.VAN RHYN,
+
+Leyden 1606—Amsterdam 1669.
+
+- 130 Junger und alter Mann.
+
+Federzeichnung.
+
+Blattgrosse 15:15,3 cm.
+
+- [ ] Siehe die Abbildung.
+
+REMBRANDT-SCHULE.
+
+- 131 Jugendlicher Halbakt.
+
+Kreide- u. Tuschzeichnung.
+
+Blattgrosse 20,3:15,4 cm.
+
+Siehe die Abildung.
+## ROELANT ROGHMAN,
+
+holiand.Maler,Amsterdam 1597-1686.
+
+- 132 Landschaft mit Stadt (Cleve).
+
+Tuschzeichnung.
+
+Blattgrosse 8,8:17,6 cm,
+
+## PETRUS PAULUS RUBENS,
+
+flam.Kinstler, Siegen 1577—Antwerpen 1640.
+
+- 133 Dorflandschaft, desgleichen auf der Ruckseite.
+
+Getuschte Federzeichnung,in Sepia.
+
+Blattgrosse 16,4: 18 cm.
+
+Siehe die Abbildungen.
+
+- 134 Landschaft mit Bricke,Ortschaften, Wald u. Bergen.
+
+Kreidezeichnung.
+
+Blattgrosse 27:40,6 cm.
+
+Hervorragend schone frihe Zeichnung.
+
+Siehe die Abbildung.
+
+## JACOB VAN RUISDAAL,
+
+holland.Maler,Haarlem 1628—1682.
+
+- 135 Hollandischer Hafen mit Rundturm.
+
+Getuschte Kreidezeichnung.
+
+Blattgrosse 9,5: 18,5 cm.
+
+- 136 Landschaft m. Bach, Bruicke und Hausern an der Strasse, Getuschte Kreidezeichnung. Blattgrosse 8,2:21 cm.
+
+- 137 Landschaftsbild mit Kirche und Windmuhle. Getuschte Kreidezeichnung. Blattgrosse 8:17,8 cm.
+
+- 138 Marsch und Geest. Rotelzeichnung. Eigenhandig signiert:,JvR"(verschlungen). Blattgr0sse 15,3:20 cm. Siehe die Abbildung.
+
+- 139 Schleifstein und Pflug.2 Blatt.
+
+Getuschte Kreidezeichnungen.
+
+Blattgrossen 8,4:11 u. 6,6: 13,7 cm.
+
+## SALOMON VAN RUISDAAL,
+
+Haarlem 16001670.
+
+- 140 Bauernhuitten am Wasser.
+
+Blattgrosse 18:26 cm.
+
+Kohlezeichnung.
+
+Auf der Rickseite in der Handschrift des 17. Jahrh. in Tinte u. Bleistift : Moulyn Haarlem.
+
+：Siehe die Abbildung.
+
+- 141 Wasserschloss mit Zugbricke.
+
+Blattgrosse 14,7:24,7 cm.
+
+Getuschte Kreidezeichnung.
+
+Aus den Sammlungen Esdeile und Liphart.
+
+：Siehe die Abbildung.
+## RUTGERS(DER ALTE),
+
+holland.Landschaftsmaler,um 1660-70.
+
+- 142 2 Blatt Landschaften mit mythol. Staffage im Vordergrunde.
+
+Federzeichnungen. 1 Blatt bez.:,De Ruttiers".
+
+Blattgrossen 21:29,5 cm und 20:32,5 cm.
+
+## DAVID RYCKAERT,
+
+flamischer Maler, Antwerpen 16151677.
+
+- 143 Der barmherzige Samariter. Getuschte Federzeichnung in Sepia. Rechts unten Sammlerstempel.
+
+Blattgrosse 13,4:16,4 cm.
+
+## CORNELIS DU SAART,
+
+holland.Maler,Haarlem 1600—1704.
+
+- 144 Raucher auf umgestilptem Holzzuber sitzend. Rotelzeichnung.
+
+Blattgrosse 16,2: 11,5 cm.
+
+## CORNELIS SAFTLEVEN,
+
+holland.Maler, Rotterdam 1606-1681.
+
+- 145 Ackergerat. Lavierte Kreidezeichnung. Blattgrosse 20:30,3 cm.
+
+- 146 Gruppe von 4 Schafen.
+
+Getuschte Kreidezeichnung.Eigenhandig signiert:,CSL 1656"
+
+Blattgrosse 10,5 : 20,5 cm.
+
+- 147 Schlafender Bauer.
+
+Kohlestiftzeichnung.Bez.:,CSL.(Monogr.) 1658".
+
+Blattgrosse 28,5:22,5 cm.
+
+## HERMANN SAFTLEVEN,
+
+holland. Maler, 1609-1685.
+
+- 148 Baume am Waldesrand.
+
+Getuschte Kreidezeichnung.
+
+Blattgrosse 20,5:34,5 cm.
+
+Kapitales Blatt. Auf der Rickseite ausfihrliche Notiz iber das Blatt und Sammler-Name.
+
+：Siehe die Abbildung.
+
+- 149 Gebirgstal.
+
+Getuschte Kreidezeichnung.
+
+Blattgrosse 19,5:30,3 cm.
+
+- 150 Italienische Landschaft mit Bauernhof.
+
+Kreidezeichnung laviert.
+
+Blattgrosse 19,5:31,2 cm.
+
+- 151 Strasse mit Bergtunnel.
+
+Getuschte Kreidezeichnung. Eigenhandig signiert:,HS del.
+## ROELAND SAVERY,
+
+flamischer Maler, Kortryck 1576-Utrecht 1639.
+
+- 152 Steile Kistenlandschaft mit iberhangendem Felsen.
+
+Getuschte Kreidezeichnung.
+
+Blattgr0sse 16:18,5 cm.
+
+## WILLEM SCHELLINKS,
+
+holland.Maler,Amsterdam 1627—1678.
+
+- 153 Bauernbursche.
+
+Kohiezeichnung auf blauem Papier.
+
+Blattgrosse 19:11,2 cm.
+
+## JAN CHRISTIAN SCHOTEL,
+
+holland.Maler,Dordrecht 1787-1838.
+
+- 154 Der Strand von Scheveningen.
+
+Getuschte Federzeichnung.
+
+Blattgr0sse 28,6:44,5 cm.
+
+Sorgfaltig fast bildmassig ausgefihrte Zeichnung.
+
+## BARTHOLOMAUS SPRANGER,
+
+flamischer Maler,Antwerpen 1546-Prag 1611.
+
+- 155 Maria mit dem Kinde und dem Knaben Johannes. Getuschte Federzeichnung.
+
+Blattgrosse 19,8:16,1 cm.
+
+## ABRAHAM STORCK,
+
+holland.Maler,Amsterdam um 1630—1710.
+
+- 156 Ansicht einer Hafenstadt.
+
+Tuschzeichunng.
+
+Eigenhand. signiert:,A. S.Ferner alt-handschriftlich:,A. Storck f.1690.Blattgrosse 21,4:30,3 cm.
+
+## JAN STORCK,
+
+holland. Maler,Amsterdam um 1650.
+
+- 157 Hollandische Kriegsschiffe auf der Reede eines Hafens. Tuschzeichnung. Eigenhandig bez.:,J. Storck f."
+
+Blattgr0sse 17,7:32,5 cm.
+
+## JOHANNES STRADAMUS,
+
+Brigge 1536-Florenz 1605.
+
+- 158 Turke auf galoppierendem Pferd (mit Variante fir den Oberkorper des Reiters).
+
+Blattgrosse 25,7:19,3 cm.
+
+Getuschte, weissgehohte Federzeichnung.
+
+Vermutlich Entwurf fir einen Kupferstich.
+
+## HENDRIK TAVERNIER,
+
+holland.Maler,Haarlem 1734—1807.
+
+- 159 Bauernhauser.
+
+Blattgrosse 8,5: 8,7 cm.
+
+Getuschte Bieistift-u.Federzeichnung. Farbig.
+
+17
+160 Baumstudie.
+
+Bleistiftzeichnung. Alt bez.:,D.Teniers.
+
+Aus der Sammlung des Baron Liphart in Dorpat.
+
+## GERARD TERBORCK,
+
+holland.Maler,Zwolle 1617—Deventer 1681.
+
+161 Angeschirrtes Pferdegespann auf einem Dorf-Markt.
+
+Kreidezeichnung.
+
+Blattgrosse 25,5:10,8 cm.
+
+Blattgrosse 19:30,5 cm.
+
+Links unten Sammlerstempel der Sammlung Grahl. Auf der Rickseite Feder-, Rotel- u. Kreideskizzen.
+
+AUGUSTIJN TERWESTEN D. AE.(gen. SULP), holland.Maler, Haag 1649—Berlin 1717.
+
+- 162 Romische Landschaft. (Bruicke iber einen Fluss.) Farbig getuschte Federzeichnung.
+
+Unten beschriftet:,,Een gezigt buite Rome A: Terwesten Fec:. Rickseits signiert:,A. Terwesten"
+
+## THEODOR VAN THULDEN,
+
+flam.Maler,Herz0genbusch 1606—1670.
+
+- 163 Aphrodite bei Neptun fir einen Schiffbrichigen (Aeneas) bittend. Getuschte Federzeichnung auf graubraunem Papier.
+
+## JAKOB TOORENVLIET,GEN.JASON,
+
+holland.Maler,Leyden 1641—1719.
+
+- 164 Mutter mit Kind, im Begriff ihm die Brust zu geben. Von einem Madchen, das dem Kinde einen Apfel zeigt,ist nur der Oberkorper ausgefihrt.
+
+Weissgehohte angetuschte Kreidezeichnung.
+
+Siehe die Abbildung.
+
+## JACOB VAN DER ULFT,
+
+holland:Maler, Gorcum 1627—1690.
+
+- 165 Historisch-mythologische Szene.
+
+Tuschzeichnung.
+
+Blattgrosse 37,5:26,2 cm.
+
+Biattgrosse 11,8 : 15,5 cm.
+
+- 166 Vom Hohenpriester werden dem Fuirsten die Schlussel einer Stadt ibergeben.
+
+Blattgrosse 10,8:14,8 cm
+
+Blattgr0sse 19,8:33,5 cm.
+
+Tuschzeichnung.
+
+- 167 Landschaft mit Tempelruinen. Feder iber Bleistiftvorzeichnung.
+
+Blattgr0sse 19,5:27,6 cm.
+
+Blattgrosse 26:29 cm.
+
+DAVID TENIERS D.J., holland.Maler,1610—1690.
+
+## UNBEKANNTER MEISTER
+
+d.17. Jahrhunderts.
+## ADRIAEN VAN DE VELDE,
+
+holland.Maler,Amsterdam 1635—1672.
+
+- 168 Kniender junger Bursche, ein Gefass reichend. Kreidezeichnung.
+
+Blattgrosse 17,8:14,2 cm.
+
+- 169 Zwei Pferdekopfe.
+
+Rotelzeichnung. Links unten alte Bezeichnung:,Adr. v.d. Velde.
+
+Blattgrosse 9,1:13 cm.
+
+- 170 Sitzender,schlafender Bauer. Kreidezeichnung.Links oben Sammlerstempel.
+
+Blattgr0sse 17:10,6 cm.
+
+## ESAJAS VAN DE VELDE,
+
+holland.Maler,Amsterdam um 1590-Haag 1630.
+
+- 171 Waldlandschaft mit Zigeunern. Getuschte Kreidezeichnung. Sepia.
+
+Blattgrosse 24:34 cm.
+
+## WILHELM VAN DE VELDE D. AE.,
+
+holland. Maler Leyden 161C-Greenwich 1693.
+
+- 172 Schiffszimmerplatz vor der Dine. Tuschzeichnung, zum Teil mit der Feder nachgezogen. Bez.:,W.V.Veld f. Blattgrosse 17,4:48,5 cm.
+
+## WILLEM VAN DE VELDE D.J.
+
+holland.Maler,1633-1707.
+
+- 173 Kriegsschiffe und andere Schiffe im Hafen.
+
+Tusch-u. Bleistiftzeichnung. Eigenhandig bez.:,WvV"
+
+Blattgr0sse 26,5:40,2 cm.
+
+：Siehe die Abbildung.
+
+## HENDRIK VERSCHURING,
+
+hollnd.Maler,1627—1690.
+
+- 174 Reitschule.
+
+Tuschzeichnung.
+
+Blattgrosse 20:31,3 cm.
+
+## SIMON DE VLIEGER,
+
+holland.Maler,Rotterdam 1601—1653.
+
+- 175 Baumgruppe. (Skizze.) Tuschzeichnung.
+
+Blattgr0sse 19,2:29,5 cm.
+
+- 176 Heubeladenes Boot an einer Gracht anlegend.
+
+Getuschte Kreidezeichnung.
+
+Blattgrosse 6,4:8,8 cm.
+
+Siehe die Abbildung.
+
+- 177 Schlittschuhlaufer.
+
+Getuschte Kreidezeichnung.
+
+Blattgr0sse 8,4: 6,6 cm.
+
+Rechts unten Sammlerstempel der Sammlung Grahl,
+- 178 Schlossteich von Baumen umgeben.
+
+Getuschte Kreidezeichnung.
+
+## JAN GEORG VAN VLIET,
+
+holland.Maler,Delft 1610-nach 1631.
+
+- 179 Biste eines Orientalen mit Turban u. Pelzmantel. (Kopie nach Rembrandt.) Federzeichnung. Bez.:,J. G.van Vliet fec."Links oben:,Rt. inuentor." Blattgrosse 23,5:18,5 cm.
+- 180 Concordia und.Pax.
+
+MARTEN DE VOS, flam.Maler,Antwerpen 1531—1604.
+
+Blaugetonte Federzeichnung. Mit Monogramm des Kinstlers MDV (verschlungen). Blattgrosse 18,8:29 cm. Das Blatt zeigt Spuren der Durchpausung und hat wohl als Entwurf fir einen Stich gedient.
+
+## ANTHONIS WATERLOO,
+
+flam.-holland.Maler,Lille 1609-1675.
+
+- 181 Bauernhaus neben Turmruine.
+
+Tuschzeichnung.
+
+- 182 Blick von der Geest auf die Marsch.
+
+Getuschte Kreidezeichnung.
+
+- 183 Gebirgsbach.
+
+Weissgehohte Kreidezeichnung mit Rotel, auf blauem Papier.
+
+- 184 Gebirgslandschaft.
+
+Getuschte Kreidezeichnung.
+
+JAN BAPTIST WEENIX, holland.Maler,Amsterdam 1621-1664.
+
+- 185 Totes Lamm und Hirschkalb.
+
+Kreidezeichnung auf blaugrauem Papier.
+
+## THOMAS WIJCK,
+
+holland.Maler,1616—1677.
+
+- 186 Hof einer romischen Schenke.
+
+Getuschte Federzeichnung in Sepia.
+
+Eine ahnliche Zeichnung findet sich im Amsterdamer Kupferstichkabinett. (Vergl. Abb. 97 des betr. Kataloges.)
+
+- 187 Italienischer Hof.
+
+Getuschte Federzeichnung. Signiert:,1643.“
+
+## ADAM WILLAERTS,
+
+flamischer Maler, Antwerpen 1577-Utrecht 1664.
+
+Getuschte Federzeichnung. Aus der Sammlung Grahl.
+
+- 188 Baumgruppe.
+
+Blattgr0sse 32,5:51,2 cm.
+
+Blattgrosse 34,5:23,2 cm.
+
+Blattgr0sse 18,3:34,5 cm.
+
+Blattgrosse 28:22,5 cm.
+
+Blattgr0sse 26,6:30,7 cm.
+
+Blattgrosse 19,8:29,2 cm.
+
+Blattgrosse 27:41,2 cm.
+
+Blattgr0sse 28:20,5 cm.
+- 189 Fluss mit Bricke und Ruinen.
+
+Federzeichnung in Sepia. Eigenhandig signiert:,AW
+
+Blattgr0sse 15:23,3 cm.
+
+## JAKOB DE WIT,
+
+holland.Maler,Amsterdam 1695—1754.
+
+- 190 Studienkopf fuir das Gemilde im Stadthaus zu Amsterdam (Moses nach Michelangelo). Tuschzeichnung. Blattgrosse 18,7:14,2 cm.
+
+Siehe die Abbildung.
+
+## JAN DE WIT,
+
+holland.Maler,Amsterdam 1695-1754.
+
+- 191 Die finf Sinne.
+
+Getuschte Federzeichnung mit Weiss gehoht, in Sepia. Eigenhandig signiert:,J d Wit inv."
+
+Blattgrosse 19,8:23,5 cm.
+
+- 192 Maria Himmelfahrt (Entwurf fir ein Gemalde). Weissgehohte Federzeichnung auf graugrinem Papier. Bez.:J d Wit. Blattgrosse 23:14,5 cm.
+
+Siehe dieAbbildung.
+
+- 193 Puttenfries mit dem Abzeichen Mercurs. (Entwurf fuir ein Gemalde.) Blattgr0sse 11,6:29,7 cm. Federzeichnung in Sepia. Eigenhandig bez.:,J d Wit invt."
+
+## PETER DE WITTE (gen.P. CANDID),
+
+flam.Maler,Brigge 1548-Minchen 1628.
+
+- 194 Der Untergang des Pharao im Roten Meere. (Entwurf fir ein dekoratives Gemaldc.) Blattgrosse 22,2:26,8 cm. Getuschte Federzeichnung.
+
+## PIETER CHRISTOFFEL WONDER,
+
+holland.Maler, Utrecht 1777—Amsterdam 1852.
+
+- 195 Halbfigur eines Knaben mit Steckenpferd.
+
+- Blattgrosse 21,5:18,2 cm. Weissgehohte Kreidezeichnung auf rotlich-blauem Papier.
+
+- 196 Knabe mit Steckenpferd und Peitsche. Blattgrosse 26,5:18,9 cm. Weissgehohte Kreidezeichnung auf rotlich-blauem Papier.
+
+- 197 Madchen aus einem Krug eine Schale fuillend. Blattgr0sse 31:19,6 cm. Rotel-,Kreide-u. Kohlezeichnung.
+
+- 198 Scheuerweib mit Besen. Blattgrosse 39,7:26 cm.
+
+- Weissgehohte Kohlezeichnung auf rotlich-blauem Papier.
+
+Siehe die Abbildung.
+## PHILIPS WOUWERMANN,
+
+holland.Maler, Haarlem 1619—1668.
+
+- 199 Stallendes Pferd mit daneben stehendem Reiter.
+
+Getuschte Kreidezeichnung in Sepia.
+
+Siehe die Abbildung.
+
+## JAN WYCK,
+
+holland.Maler,Haarlem 16401702.
+
+- 200 Italienische Landschaft mit Ruinen.
+
+Getuschte Kreidezeichnung. Signiert oder Besitzvermerk:,J Wyck 1670
+
+## JAN WYNANTS,
+
+holland.Maler,Haarlem um 1600-1678.
+
+- 201 Landschaft mit Wassermihle.
+
+Getuschte Federzeichnung.
+
+## GERRIT VAN ZEEGELAER,
+
+- 202 Sitzende Dame.
+
+Kreidezeichnung.
+
+holiand.Maler,Loenen bei Utrecht 1719-1794.
+
+Blattgrosse 15,7:20 cm.
+
+Blattgr0sse 19,3:25,5 cm.
+
+Blattgrosse 13:19,5 cm.
+
+Blattgr0sse 20,5:16 cm.
+I1.
+
+## DEUTSCHE,FRANZOSISCHE,ENGLISCHE,ITALIENISCHE
+
+## HANDZEICHNUNGEN.
+
+16.bis 19.Jahrhundert.
+
+Olgemalde alter u. neuerer Meister, Miniaturen, Pastelle etc. (Aus verschiedenem Besitz.)
+
+## ANDREAS ACHENBACH,
+
+Landschaftsmaler, Cassel 1815-Dusseldorf 1910.
+
+- 203 Waldlandschaft.
+
+Oelmalerei auf Holz. Bez.:,A.Brick August 1841.Gerahmt.
+
+Hohe 27,Breite 38 cm.
+
+：Siehe die Abbildung.
+
+W.ADAM, Minchen.
+
+- 204 2 Landschaftsbilder.
+
+Quer-40.
+
+Oelzeichnungen auf Pappe u. Leinwand.
+
+## AUGUST WILHELM JULIUS AHLBORN,
+
+Landschaftsmaler, Hannover 1796-Rom 1857.
+
+- 205 Romische Landschaft.
+
+Blattgrosse 10,6:18,3 cm.
+
+Federzeichnung. Bez.:,Ahlborn
+
+THEODOR ALT,
+
+geb. 1846 in Dohlau, lebt in Ansbach.
+
+- 206 Pavillon und linker Torweg am Schloss zu Ansbach.
+
+Hohe 16, Breite 20 cm.
+
+Aquarellmalerei.Bez.:,,Th.Alt".Gerahmt.
+
+Siehe die Abbildung.
+
+- 207 Kinderkopfchen.
+
+Hohe 29,5, Breite 25,5 cm.
+
+Oelmalerei auf Pappe. Bez.:,Th. Alt. Gerahmt.
+
+Siehe die Abbildung.=
+
+## PAOLO ANESI,
+
+Romischer Maler u. Kupferstecher der 2.Halfte des 18. Jahrh.
+
+- 208 Landschaft mit Baumen und Ruinen.
+
+Blattgr0sse 17,4:23 cm.
+
+Rotelzeichnung.
+
+Oben in Spiegelschrift: Ao 1796. Links unten Stempel der Sammlung Grunling.
+
+LOUIS APOL,
+
+holland. Landschaftsmaler,geb. 1850 im Haag.
+
+209 Winterlandschaft.
+
+Hohe 36, Breite 51 cm.
+
+Aquarellmalerei, Bez.:,Louis Apol fc. 71. Gerahmt,
+- 218 Ziegenfamilie lagernd.
+
+## AQUARELLMALEREI
+
+des 18. Jahrhunderts.
+
+- 210 Die Heilige Familie. In den Wolken Gott-Vater und Heiliger Geist. Altes Aquarell.
+
+## A.AUJOURDHUI.
+
+- 211 Zahnradbahn im Park.zu Luzern. Humoristisches Blatt mit interessanter, figirl. Staffage. Kreidezeichnung mit Weiss gehoht,auf braunlichem Papier. Ca.1840.
+
+Blattgrosse 30,5:20,3 cm.
+
+Blattgr0sse 23,5:35 cm.
+
+## ARBEIT EINES SCHULERS DER BARBIZON SCHULE.
+
+(Daubigny?)
+
+- 212 Angelndes Madchen am Ufer sitzend, gegeniber Geholz. Oelmalerei auf Leinwand. Gerahmt.
+
+Siehe die Abbildung.
+
+## O. DE BAS,
+
+- 213 Ansicht des Schlosses Auffay in der Normandie. Bleistiftzeichnung.
+
+franzos.Landschaftsmaler, gest.1783.
+
+## JOH.WOLFG.BAUMGARTNER,
+
+- 214 Heinrich dem Vogler am Vogelherd wird die Konigskrone iberbracht.
+
+Maler u. Radierer,Kufstein 1712-Augsburg 1761.
+
+Getuschte Kreidezeichnung.Eigenhand.igniert:,J.W.Baumgartner invent.et fecit.Blattgrose53,5:72 cm.
+
+## WILHELM VON BEMMEL,
+
+- 215 Landschaftsbild. Tuschzeichnung. Signirt:,W. Bemmel f."
+- 216 Decorativer Entwurf mit romischen Ruinen. Tuschzeichnung.
+- 217 Waldesrand. Kohlestiftzeichnung auf grau-grinem Papier. Bez.:,W. Bemmel"
+
+## O. A. BENCK,
+
+deutscher Meister. 19. Jahrh.
+
+Bleistiftzeichnung mit Weiss gehoht,auf getontem Grund.
+
+## BERLINER KUNSTLER.
+
+holland.Maler,Hofmaler des Landgrafen von Hessen-Kassel,1630—1708.
+
+Blattgr0sse 26,5:40,5 cm.
+
+Blattgrosse 30:40 cm.
+
+Blattgrosse 40:26,3 cm.
+
+Blattgrosse 22 : 17,9 cm.
+
+SieheuntrNr.220,228,240245,249258,259,264,281,292,295,304,308-312,333,340, 340a,351-357,362,367,371—374,417,420-421,442,447,474,477,481—483,486,489— 493,514.
+
+Hohe 25,5,Breite 35 cm.
+
+Blattgr0sse 13,8:19,5 cm.
+- 223 Schaferszenen.
+- 2 Blatt Tuschzeichnungen in Boucher's Art. Ca.1800.
+
+## FRIEDRICH AUGUST BRAND,
+
+Wiener Landschafts-u.Genremaler,1735—1806.
+
+- 224 Bauernburschen beieinander stehend. Federzeichnung. Bez.:,F. B."
+
+## HERMANN BRUGGEMANN,
+
+Marinemaler, geb. Stralsund 1822.
+
+- 225 Matrosenkneipe in Stralsund, durch das Fenster Ausblick auf den Hafen. Im Vordergrunde Matrosen am Wirtstisch sitzend mit dem Wirt sprechend. Im Hintergrund 2 Personen am Fenster.
+
+Original-Oelgemalde auf Holz.
+
+Hohe 33, Breite 26,5 cm. Bez.:,Hermann Briggemann Stralsund 21/9 1848. In Goldrahmen.
+
+Wundervolles Oelbild, mit interessanten, charakteristischen Figuren,aus alt-stralsunder Zeit.
+
+## CHRISTIAN FRIEDR. HEINRICH BETTKOBER, Berliner Bildhauer u.Modelleur,1746—1809.
+
+Siehe unter No. 304.
+
+219 Weite Ebene.
+
+Oelmalerei. Leinwand auf Holz. Bez.:,A. Bocklin. Gerahmt.
+
+Bei Bruckmann als Nr. 50a aufgefihrt. Ca.1845 gemalt.
+
+Siehe die Abbildung.=
+
+FR.BOLT,
+
+Berliner Maler u.Kupferstecher,1769—1836.
+
+220 Frauenbildnis.Huftbild im Profil.
+
+Stiftzeichnung. Bez.:,,Fr. Bolt May 1808."
+
+Meisterhaft gearbeitetes Blatt schwarz, farbig getont.
+
+## FRANCOIS BOUCHER,
+
+franz.Maler,1703-1770.
+
+- 221 Entwurf fuir ein Deckengemalde. Venus mit Amoretten auf Wolken schwebend. Blattgr0sse 32,5:27,5 cm. Original-Kreidezeichnung auf Blaupapier. Eminent feine Original-Handzeichnung des berihmten franzosischen Kinstlers.
+
+SiehedieAbbildung.
+
+- 222 Kopf eines jungen Madchens im Profil, lebensgross. Blattgr0sse 35:25 cm. Original-Kreidezeichnung,mit Weiss gehoht,auf grauem Papier. Prachtstick von wunderbarer Feinheit. Auf der Rickseite die Notiz: 1863,3. Apr. aus L'Doll's Nachlasse.
+
+Siehe die Abbildung.
+
+## ART UND ZEIT DES BOUCHER.
+
+## ARNOLD BOCKLIN,
+
+Basel 1827-Fiesole 1901.
+
+Hohe 17,Breite 23 cm.
+
+Blattgrosse 9,5: 6,5 cm.
+
+Blattgrosse je 6 : 19,5 cm.
+
+Blattgrosse 15,5:18 cm.
+- 226 Sterbeszene.
+
+Bleistiftzeichnung.
+
+Rechts unten eigh. Widmung u.Datierung:,Stockholm 8. Marz 1833."
+
+## KARL BUCHHOLZ,
+
+Weimar 1849—1889.
+
+- 227 Landschaft mit Dorf und Windmihle. Oelmalerei auf Leinwand. Bez.:,K. Buchholz.W."Gerahmt.
+- 227a Waldwiese,
+
+Siehe die Abbildung.
+
+Oelmalerei auf Leinwand.Bez.:,K.Buchholz Wmr. 8l. Gerahmt.
+
+Blattgrosse 39:30,3 cm.
+
+Hohe 30, Breite 39,5 cm.
+
+Hohe 31,Breite 41,5 cm.
+
+Siehe die Abbildung.
+
+- 227b Herbstliches Waldmotiv aus dem Webicht bei Weimar. Oelmalerei auf Lcinwand. Rickseits mit eigh. Echtheitsbestatigung von Prof. Hoffmann Fallersleben. Gerahmt. Hohe 27,Breite 20,5 cm.
+
+Siehe die Abbildung.
+
+## K.LUDWIG BERNH.CHR. BUCHHORN,
+
+Kupferstecher und Zeichner in Berlin,1770-1856.
+
+- 228 Selbstportrat.Brustbild, Gesicht dem Beschauer zugewandt. Bleistiftzeichnung. Gez.,L.Buchhorn. Ca.1800.
+
+## HEINRICH BURKEL,
+
+Pirmasens 1802-Minchen 1869.
+
+- 229 Bauernhof von Baumen umgeben. Tuschzeichnung in Sepia.
+- 230 Zigeunerlager.
+
+Oelstudie auf Leinwand. Gerahmt.
+
+- 231 Schusterjunge.
+
+Oelmalerei auf Holz. Gerahmt.
+
+Siehe die Abbildung.
+
+Mit Bestatigung des Dr. Ludwig von Buerkel auf der Rickseite.
+
+Siehe die Abbildung.
+
+WILHELM BUSCH,
+
+Wiedensahl 1832-1908.
+
+Mit Bestatigung von Busch's Nachlassverwalter Noldecke.
+
+DANIEL D.AE.U.DANIEL CAFFE D.J.
+
+Siehe unter No.375-377.
+
+Leipziger Kinstler.
+
+## GUSTAV H. BRUSEWITZ,
+
+schwed.Maler, Goteborg 1812—1899.
+
+Blattgrosse 26:36,5 cm.
+
+Blattgrosse 13,3 : 11,6 cm.
+
+Hohe 33, Breite 47 cm.
+
+Hohe 23, Breite 24 cm.
+- Rotelstiftzeichnung.
+
+## ALEXANDRE CALAME,
+
+Vevey 1810-Mentone 1864:
+
+- 232 Kuhherde auf der Weide. Getuschte Kreidezeichnung. Bez.:,Ac."
+
+Blattgrosse 19:24 cm.
+
+- 233 Wasserfall in felsiger Gegend. Rechts auf engem Pfad Maultiere etc. Getuschte Kreidezeichnung. Bez.:,AC" Blattgr0sse 36:29,4 cm.
+
+## LUCA CAMBIASO,
+
+Genua 1527-1588.
+
+- 234 Simson und Dalila.
+
+Bleistift-u.Federzeichnung in Sepia.
+
+Blattgr0sse 26:38,7 cm.
+
+## PLACIDUS CAMPULO,
+
+ital. Maler.
+
+- 235 Darstellung aus dem Leben Jesu.
+- 236 2 verschiedene Entwirfe einer mythologischen Szene.2 Blatt. Tusch- u.Federzeichnungen. Bez.:,Placido Campulo" Blattgrosse 20:26 cm und 20:27,5 cm.
+
+Tusch-u. Federzeichnung.
+
+Bez.:,Cavalier Placido Campulo, prima intentione a 20 Luglio 1736.
+
+Blattgr0sse 26:39,5 cm.
+
+Mit eigh. Notiz Lava ter s unter dem Bilde von 1788. Aus Sammlung A. R.
+
+## LODOVICO CARRACI,
+
+italien.Maler, Bologna 1555—1619.
+
+- 237 Entwurf zu einem grossen Gemalde (Szene aus der heiligen Schrift). Blattgrosse 59,5:42 cm.
+
+## JOSEPH CHABORD,
+
+franzos.Bildnismaler, Schiler Regnaults,1786-1848.
+
+- 238 Bildnis der Dorothea von Curland, spatere Herzogin von Sagan. Gurtelbild in weissem ausgeschnittenen Gewand,mit Shawl und Turban.
+
+Olmalerei. Bez.,Chabord". Ca.1816. Gerahmt.
+
+Hohe 66,Breite 55 cm.
+
+Meisterwerk,im Auftrag des Firsten Talleyrand gemalt.(Thieme-Becker VI.324.)
+
+## NICOLAS TOUSSAINT CHARLET,
+
+## franz.Maler,17921845.
+
+- 239 Karikatur: Selbstbildnis des Kinstlers. Kopf, halb im Profil nach rechts, auf einem Petschaft, welches auf einem gesiegelten Briefkuvert steht. Rechts am Rande Conturen einer Frauenfigur.
+
+Oelgemalde auf Leinwand.
+
+Bez.:,,Souvenir d’atelier, Charlet. Gerahmt.
+
+Hohe 63, Breite 42,5 cm.
+## DANIEL CHODOWIECKI,
+
+Danzig 1726-Berlin 1801.
+
+- 240 Berliner Jahrmarkt.
+
+Original-Tusch- u.Federzeichnung. Bez.:,,D. Chodowiecki de!.
+
+Blattgrosse 9:22,3 cm.
+
+Prachtstick. Herrliches Altberliner Bild mit interessanter figirlicher Staffage.Allerlei Verkaufs- stande, darunter ein Instrumentenmacher. Rechts im Hintergrunde die 1so9 abgebrannte Petrikirche mit den umliegenden Hausern.
+
+Siehe die Abbildung.
+
+- 241 Dame in reicher Toilette, sitzend.
+
+Original-Rotelzeichnung.Ca.1775. Gerahmt.
+
+Blattgr0sse 27:20,5 cm,
+
+Prachtige Portrat-Gewandstudie.
+
+- 242 Im Berliner Tiergarten.(Flora und Zelten.)
+
+Original-Tusch- u. Federzeichnung.
+
+Blattgrosse 8,7: 11 cm.
+
+Prachtige Altberliner Ansicht,mit iberaus feiner,interessanter figirlicher Staffage.
+
+Siehe die Abbildung.
+
+- 243 Promenade im Tiergarten.
+
+Original-Bleistift-u.Federzeichnung.Bez.:,D. Chodowiecki del."
+
+Blattgrosse 8,5 : 11,5 cm.
+
+Prachtige Handzeichnung. Mit reicher figirlicher Staffage.
+
+Siehe die Abbildung.
+
+- 244 Spielende Kinder.
+
+Original-Bleistiftzeichnung, die Figuren mit Feder u. Tusche ausgearbeitet.
+
+Bez.:,D.Chodowiecki del.
+
+Blattgrosse 9: 11 cm.
+
+Reizende Kinderszene, vorzigliche Arbeit des Kinstlers.
+
+- 245 ,,Zum Buche der Kinder. Tab: I."
+
+Original-Federzeichnung.
+
+Blattgrosse 18,5:22,5 cm.
+
+Reizendes Blatt in 4 Teile geteilt. In der ersten Reihe Abbildungen von menschlichen Nahrungs- mitteln,in der zweiten Reihe Gebrauchsgegenstande,in der dritten Blumen u.Pflanzen,in der letzten allerlei Tiere.
+
+## CONVOLUT.
+
+- 246 6 Handzeichnungen moderner Meister des 19. Jahrh.
+
+Tusch-, Feder- u.Rotelzeichnung.Z. Teil in Sepia.(Landschaften, mytholog. Szenen etc.) Fol. u. quer-fol.
+
+## CONVOLUT
+
+- 247 17 Zeichnungen verschiedener deutscher Maler. Landschaften,Akte,Tierbilder usw.
+
+Aquarelle, Bleistift- u. Kreidezeichnungen
+
+Verschiedene Formate.
+
+COPIEN
+
+nach Lukas Cranach, Hans Holbein u. G. Pencz.
+
+- 248 3 Blatt Portrats von Joannes Cadivin (?), Philipp Melanchthon u. Hans Sachs.
+
+Feder-,Kreide-u. Rotelzeichnungen,
+## PETER VON CORNELIUS,
+
+deutscher Maler, Disseldorf 1783-Berlin 1867.
+
+- 249 Bildnis einer Unbekannten.
+
+Tuschzeichnung in Sepia. Eigenhand. signiert:,Cornelius."
+
+Blattgr0sse 42,5:31,5cm.
+
+Prachtiges Stick,ganz hervorragende Arbeit des Kunstlers.
+
+Siehe die Abbildung.
+
+- 250 Der jugendliche Christus mit dem Kreuze.
+
+Blattgr0sse 24,7:18,3 cm.
+
+Weissgehohte Bleistiftzeichnung auf gelbem Papier.
+
+Siehe die Abbildung.
+
+- 251 Gretchen in der Kirche ohnmachtig werdend,hinter ihrer Bank Mephisto. (Entwurf fur die Illustra- tionen zum Faust.)
+
+Blattgrosse 48:64 cm.
+
+Federzeichnung mit Bleistiftvorzeichnung.
+
+Eigenhandig signiert u. datiert:,P. Cornelius invt.1811
+
+Ganz hervorragendes Blatt in grosser Ausfihrung.
+
+Siehe die Abbildung.
+
+- 252 Juinglingskopf mit Kranz und Madchenkopf mit Schleier. Blattgrosse 29:35 cm. Bleistiftzeichnung.
+
+- 253 Kopf des toten Hyacinth. Blattgrosse 24:30 cm. Bleistiftzeichnung.
+
+- 254 Madchenkopf aufblickend. Blattgr0sse 24,2:21,2 cm. Bleistiftzeichnung.
+
+- 255 Studienkopf fir das juingste Gericht in der Ludwigskirche zu Minchen. Blattgr0sse 27,7:20,6 cm. Bleistiftzeichnung auf gelbem Papier.
+
+## NACH PETER VON CORNELIUS.
+
+- 256 Juinglingskopf. Blattgrosse 22,6: 18,8 cm.
+
+- Bleistiftzeichnung.(Pause.)
+
+- 257 Studienkopf (fir einen Teufel) fuir das jingste Gericht in der Ludwigskirche in Munchen. Blattgrosse 20:17,5 cm. Bleistiftzeichnung auf gelbem Papier.
+
+- 2582 Studienkopfe (Juinglingskopf u. Madchenkopf). Blattgrossen je 25,5 : 20,5 cm. Bleistiftzeichnungen.
+
+## HERMANN MORITZ COSSMANN,
+
+geboren 1821 in Berlin, Schiler Otto's in Berlin, arbeitete ab 1845 in Paris. Gestorben 1890 in Paris.
+
+- 259 Volksszene auf der Pont neuf in Paris.
+
+Hohe 36, Breite 45 cm.
+
+Olgemalde. Bez.:,M. Cossmann. Paris". Ca. 1855. Gerahmt. Prachtige ausserst farbenreiche Arbeit.Meisterhafte Wiedergabe der Volkstypen aus dem3.Kaiserreich.
+
+Siehe die Abbildung.
+Siehe unter Nr. 379a.
+
+## JOSEPH FRIEDRICH AUGUST DARBES,
+
+Bildnismaler, Hamburg 1747—Berlin 1810.
+
+## PAUL DECKER D.J.,
+
+Maler und Direktor der Akademie zu Nirnberg, 1685-1742.
+
+- 260 Abraham segnet seine Enkel. Federzeichnung,Rotel, weiss gehoht.
+
+Unten rechts von der Hand des Sammlers:,Paul Dekert inv. et del. Aus der Sammlung A. R.
+
+## AUGUSTE DELACROIX,
+
+franz.Landschaftsmaler, Boulogne 1812—1868.
+
+- 261 Bauernwagen und Bauern am Nemisee.
+
+Tuschzeichnung in Sepia.
+
+DEUTSCHE MEISTER d.19. Jahrh. (Cacilie Brandt, Joh.Maur u. a.)
+
+- 262 4 mannliche u. ein weibliches Portrat.
+
+Tusch-, Feder- u. Bleistiftzeichnungen. Samtlich signiert. Darunter das Bildnis eines Dr. W. Krug in Hamburg.
+
+## JOH.CHRISTOPH DIETZSCH,
+
+Nirnberger Landschaftsmaler, 1710-1769.
+
+- 263 Landschaftsbild.
+
+Kohlestiftzeichnung. Bez.:,J. C. Dietzsch.
+
+C.A. DILLER,
+
+- 264 Hausliche Szene in einer altberliner Juristenfamilie ,Die schlechte Zensur"
+
+Gebirtig aus Danzig, arbeitete in Berlin um 1830.
+
+Olgemalde. Bez.:,,CADiller 1838". Gerahmt.
+
+Prachtiges Biedermeierbild in sehr schonen Farben.
+
+## GEORG VON DILLIS,
+
+- 265 Gebirgswasser in felsiger Waldgegend. Tuschzeichnung.
+- 266 Waldpartie im Gebirge. Tusch- und Kreidezeichnung in Sepia.
+
+franzos.Maler, Strassburg 1833-Paris 1883.
+
+Minchen,1759—1841.
+
+## GUSTAVE DORE,
+
+- 267 Torrent dans le Tyrol. Gebirgsbach im Tiroler Hochgebirge,im Hintergrunde schneebedeckte Gipfel. Oelgemalde auf Leinwand.Rechts unten bez.:,G.Dore. Gerahmt. Hohe 130, Breite 96 cm. Vente Gustave Dore (Paris 1885) Nr. 52.
+
+Hohe 65,Breite 60 cm.
+
+Blattgrosse 19,2 : 15 cm.
+
+Blattgr0sse 36,5: 16,4 cm.
+
+Blattgrosse 23,7:25,6 cm.
+
+Blattgrosse 12,8:18 cm.
+
+Verschiedene Formate.
+
+Blattgrosse 28,5 : 18,5 cm.
+- 268Hohlweg mit Baumen.
+
+Bleistiftzeichnung. Signiert:,A. Dressler 17. XI.(18)43."
+
+## DUSSELDORFER KUNSTLER.
+
+Sieheunter No.203,249-258,313—331,366,473,504.
+
+## CHARLES ECHARD,
+
+geb.1748 zu Caen, gest.1810.
+
+- 269 Auf umgestulptem Zuber sitzender Bauer. Federzeichnung auf blaugrauem Papier. In der Art Ostades. Oben links bez.:,Echard f.
+
+Blattgr0sse 16,5:10,6 cm.
+
+## JOHANN NEPOMUK ENDER,
+
+berihmter Wiener Bildniss- u.Historienmaler,1793-1854.
+
+- 270 Vorlagen zu Kalenderkupfern.24 Blatt.
+
+Original-Tuschzeichnungen.
+
+Blattgrossen je ca. 14:10 cm.
+
+Ausserst fein ausgefihrte Arbeiten, mit reizenden Figuren. Vorlagen fir Jos. Stober zu Kalenderu.Almanach-Kupfern.Bis ins Feinste ausgearbeitete Blatter.
+
+- 271 Vorlagen zu Kalenderkupfern.4 Blatt.
+
+Original-Tuschzeichnungen. Je 2 zusammen in reizenden Passepartouts. Bez.:,J. Ender"
+
+Reizende Blattchen, von ausserst feiner Arbeit.
+
+## ENGLISCHE KUNSTLER.
+
+Siehe unter No.381—382,396,415,484,515,541.
+
+## JOH.CHRISTOPH ERHARD,
+
+Maler u. Radierer, geb.in Nurnberg,1795—1822.
+
+- 272 Maler auf einem Feldstuhl sitzend u. zeichnend. Selbstbildnis. Im Profil nach links.
+
+Orig.-Bleistiftzeichnung.
+
+Blattgrosse 18:12,2 cm.
+
+Blattgrossen je 15,5: 19,5 cm.
+
+Blattgr0sse 28:19 cm.
+
+## DRESDNER KUNSTLER.
+
+Siehe unter No.282-283,345,346,435—436,456—457,459—467.
+
+## ADOLF DRESSLER,
+
+Landschaftsmaler,Breslau 1833-1881.
+
+## JOH. FR. ERMELS,
+
+## Koln 1621-Nirnberg 1699.
+
+- 273 Landschaft mit Bergthal, Burg und Stadt. 2 Blatt.
+
+Getuschte Federzeichnungen.
+
+Rickseits ebenfalls mit Landschaftsbildern.
+
+- 274 Inneres vom Colosseum in Rom.
+
+Tusch- u. Federzeichnung. Bez.: ,J. Ermels.
+
+Blattgrosse 18 : 25 cm.
+
+Blattgrosse je 8,5:5,5 cm.
+- 276 Madchenkopf.
+
+Oelmalerei auf Leinwand. Bez.:,Luitp.Faustner. Gerahmt.
+
+## COMTE F.B.DE FLORIMONT,
+
+## FRANKFURTER KUNSTLER.
+
+Siehe unter No.99,335,404,440,476,486a,453,488,497,538-539.
+
+## FRANZOSISCHE KUNSTLER.
+
+SiehenterNo.211,212,213,221-223,238,239,261,267,269,280,284,285,398,423,531.
+
+## JOSEPH FREY,
+
+Mannheimer Architekt,1758-1812.
+
+Siehe unter Berliner Ansichten.
+
+## PETER CARL GEISSLER,
+
+Leipziger Maler u. Kupferstecher,arbeitete auch in Nirnberg,um 1830.
+
+- 278,Die Erleuchtung.Frauengestalt mit kleinem nackten Knaben u. Engel. Bleistiftzeichnung. Bez.:,Zeichnung von P. C. Geisler. Nirnberg 1835. Blattgrosse 17:12,3 cm.
+- 279 Zwei orientalische Frauengestalten.
+
+Bleistiftzeichnung.,Nach Parris gez.v.P. C. Geissler. Nirnberg 1837. Blattgrosse 11,6:8,5 cm.
+
+CLAUDE GELEE,gen.LORRAIN, franzos.-italien.Landschaftsmaler,1600-1682.
+
+- 280 Flusslandschaft mit Baumen u.Ortschaften,mit starken Schlagschatten. Getuschte Federzeichnung, in Sepia. Blattgrosse 13,5:18,3 cm. Charakteristische Zeichnung des berihmten Meisters.
+
+## J.W.VON GOETHE.
+
+Handzeichnungen siehe Abteilung VI,Nr. 1i96—l197.
+
+CARL GRAEB,
+
+Landschaftsmaler,Berlin 1816—1884.
+
+- 281 Landschafts-Idyll (ital. Motiv). Bleistiftzeichnung.
+- 277 Segelboot am Seeufer. Tuschzeichnung.
+
+## JOSEPH ESPERLIN,
+
+schwab.Rokokomaler,1707-1775.
+
+- 275 Weibliche Gestalt von Engeln umgeben. Rotelstiftzeichnung. Bez.:,Esperlin.
+
+LUITPOLD FAUSTNER, geb. Minchen 1845.
+
+Blattgrosse 32,5:42 cm.
+
+Hohe 50 Breite 27 cm.
+
+Blattgrosse 9,8: 14,8 cm.
+## ANTON GRAFF,
+
+Winterthur 1736-Dresden 1813.
+
+- 282 Handstudien.
+
+Kohlestiftzeichnung mit Weiss gehoht.
+
+Blattgr0sse 31:27,5 cm.
+
+Auf graubraunem Papier. Rickseite ebenfalls mit Studien.
+
+Wundervolle Arbeit des Kinstlers. Studie zu Vogel. Tafel 40,im hohen Alter um 1810 gearbeitet.
+
+- 283 Handstudien,links unten Ordensstern u. Krone skizziert. Kohlestiftzeichnung mit Weiss gehoht. Auf grau-braunem Papier. Wundervolle Arbeit des Kinstlers.
+
+Blattgrosse 30:38,5 cm.
+
+## FRANCOIS MAVIUS GRANET,
+
+berihmter franzos. Architekturmaler,um 1770.
+
+- 284 Vedute aus einer sidfranzos. Stadt. Tuschzeichnung in Sepia.
+
+Blattgrrosse 13,7:9,5 cm.
+
+## JEAN BAPTISTE GREUZE,
+
+franz.Maler,17251805.
+
+- 285 Kopf eines kleinen Madchens, rickwarts gebeugt,nach oben blickend. Kreidezeichnung mit Weiss gehoht.
+
+Blattgrosse 18:13,5 cm.
+
+H. B.,
+
+Hamburger Maler, um 1840.
+
+Siehe unter Hamburg in Abteilung V.
+
+## HUGO FREIHERR VON HABERMANN,
+
+Minchen.
+
+- 287 Dame mit Hut, halb vom Rucken gesehen. Pastellmalerei. Bez.:,Habermann 97. Gerahmt.
+
+Hohe 62, Breite 41 cm.
+
+Siehe die Abbildung.
+
+## KARL HAGEMEISTER,
+
+geb.1848 in Werder b/Potsdam,lebt in Werder.
+
+- 288-Mohnfeld.
+
+Aquarellmalerei.Bez.:,K.Hagemeister 1875."Gerahmt.
+
+Hohe 65, Breite 99 cm.
+
+Siehe die Abbildung.
+
+## THEODOR HAGEN,
+
+geb. 1842 in Dusseldorf, lebt in Weimar.
+
+289 Waldinneres.
+
+Oelmalerei auf Leinwand. Bez.:,Th. Hagen. Gerahmt.
+
+Hohe 25,Breite 33 cm.
+
+Siehe die Abbildung
+
+- 290 Chaussee bei Weimar zur Erntezeit. Oelmalerei auf Pappe. Bez.:,Th. Hagen." Gerahmt,
+
+Hohe 33,Breite 53 cm.
+- 292 Waldpartien.2 Blatt.
+- Bleistiftzeichnungen.
+
+## Zeichner,Maler u. Stecher,Nirnberg 1771—1839.
+
+291 Huftbild eines Offiziers in Medaillon.
+
+Bleistiftzeichnung.Bez.:,C. v.Haller 1804.
+
+## AUGUST HAUN,
+
+Landschaftsmaler, geb. Berlin 1815.
+
+Blattgrossen 20:28,3 u.15:21,3 cm.
+
+Siehe ferner unter Nr. 1195.
+
+## EDUARD VON HEUSS,
+
+pfalzischer Maler im Kreis der Nazarener,1808-1880.
+
+- 294 Selbstbildnis nach vorn mit erhobenem Weinglas, links Pallette.
+
+Olmalerei. Bez.,Dr.v.Heuss".Ca.1860. Gerahmt.
+
+scherzhafte Gedicht:
+
+- 295 Bauerngehoft.
+
+Flott gemaltes Selbstbildnis des durch die Bildnisse Cornelius', Overbeck's u.a. berihmten ehemaligen Mediziners. Auf dem Bild in der Olmalerei mit dem Pinsel das auf seinen Berufswechsel deutende
+
+O quae mutatio rerum Der Staub bedeckt den Doktorhut Die Medizin schon lange ruht Und statt des Messer und Peincette Ueb'Pinsel ich nun und Palette Doch nicht o jerum, jerum — Vivat mutatio rerum!
+
+Dr.v.Heuss."
+
+## EDUARD HILDEBRANDT,
+
+Landschaftsmaler, Danzig 1818Berlin 1868.
+
+Aquarell. Bez.:,E.Hildebrandtu. Nachlassstempel.
+
+## RUDOLF HIRTH DU FRENES,
+
+- 296 Brustbildnis seiner Gemahlin.
+
+geb.Minchen 1846.
+
+Oelmalerei. Bez.:,R. Hirth du Frenes". Gerahmt.
+
+Siehe die Abbildung.
+
+## HAMBURGER KUNSTLER.
+
+Siehe unter Nr.337,347348,380, 446,sowie unter Hamburger Ansichten in Abteilung V.
+
+## C.A.VON HEIDELOFF,
+
+Maler u.Architekt,lebte in Nirnberg,1788—1865.
+
+- 293 Brustbild des Geigenkinstlers Paganini im Profil nach links.
+
+Bleistiftzeichnung. Bez.:,Heideloff
+
+Siehe die Abbildung.
+
+Blattgrosse 12,5:8,5 cm.
+
+Blattgrosse 36,6:22 cm.
+
+Hohe 75, Breite 62,5 cm.
+
+Hohe 16,8, Breite 20 cm.
+
+Hohe 35, Breite 27 cm.
+- 297 Oberbayrisches Schitzenfest,dabei Musikkapelle und tanzende Paare. Oelmalerei auf Leinwand. Bez.:,R. Hirth d.F."Gerahmt.
+
+Hohe 30, Breite 45 cm.
+
+Siehe die Abbildung.
+
+## HISTORISCHE PORTRATS UND PLAKETTEN.
+
+- 298 Alexander I., Kaiser von Russland (1777—1825), u. seine Gemahlin Elisabeth Alexiewna (1779 bis 1826).2 Busten.
+
+- Gold-Bronze, auf Bronzesockeln.Ca.1810. Hohe der Busten je 12% cm, mit Sockel 18 bez. 19 cm.
+
+- 299 Heinrich Karl Wilhelm Furst Carolath-Beuthen, Reichsgraf zu Schoenaich, preuss. General der Kavallerie;1783-1864.Brustbild in Uniform als Major,ca.1820. Hohe 34, Breite 28 cm. Oelgemalde auf Leinwand. Gerahmt.
+
+- 300 Elisabeth Christine, Konigin von Preussen, Gemahlin Friedrich's Il., geb. Prinzessin von Braun- schweig (1715—1797). Fast ganze Figur nach vorn,in lila Kleid mit reichen Spitzenmanschetten. Die Rechte auf die Lehne eines Stuhls mit Krone gelegt. Auf dem Stuhl Purpurmantel liegend. Hohe 142, Breite 114 cm. Oelgemalde auf Leinwand, aus der Zeit. Gerahmt. Wundervolle, grosse Darstellung vorziglich gearbeitet, in herrlichen Farben. In bester Erhaltung. Siehe die Abbildung.
+
+- 301 Friedrich Wilhelm Ill.,Konig von Preussen.Huftbild in Uniform mit Orden,Epauletten u. Scharpe,
+
+- in jungeren Jahren. Ganz wenig nach links, Kopf en face.
+
+- Hohe 85, Breite 74 cm. Oelgemalde auf Leinwand. Ca.1820. Gerahmt. Ganz hervorragende Arbeit, vorziglich in Farben, von bester Erhaltung und Frische.
+
+Siehe die Abbildung.
+
+- 302——Derselbe.
+
+Hohe 63,Breite 54 cm.
+
+Oelgemalde auf Leinwand aus der Zeit. Gerahmt.
+
+- —Siehe ferner unter Nr. 447.
+
+- 303 Heinrich, Prinz v.Preussen, der Bruder und grosse Heerfuihrer Friedrich des Grossen; 17261802.
+
+- Brustbild fast nach vorn. In Uniform,mit breitem,roten Ordensband von links nach rechts und Ordensstern. Im .Oval.
+
+Hohe 54, Breite 45 cm.
+
+Oelgemalde auf Leinwand aus der Zeit. Gerahmt.
+
+Wundervolle Darstellung des Prinzen in herrlichen Farben.Hervorragend erhaltenes Bild.
+
+Siehe die Abbildung.
+
+- 303a Katharina II., Kaiserin von Russland. Relief, kreisrund.
+
+Feuervergoldete Bronze. Ca. 17so. In gleicher Umrahmung mit Schleife und Ose mit Schlinge. Durchmesser 1l cm.
+
+- 304 Konigin Luise. Relief-Biste im Profil nach rechts. Durchmesser 52:42 mm. Flachrelief in Silber, auf blauem Stein aufgelegt. Auf Silberplakette mit Umrahmung. Rickseits graviert:,Heinr. Bettkober fait d’apres la nature a
+
+Berlin 1798.E.—S."
+
+Wundervoll gearbeitetes Stick,welches die besondere Geschicklichkeit des Kinstlers zeigt.
+- 305 Alexander Graf TalleyrandPerigord, duc de Dino,prince deSagan,Gemahl der Prinzessin Dorothea von Curland (1782—1852). Brustbild,Kopf halb nach rechts. In schwarzem Rock mit weisser Weste.
+- Aquarellmalerei,hervorragend im Kolorit. Gerahmt.
+
+Ganz hervorragende Arbeit eines bedeutenden Kiinstlers.
+
+rands, der Herzogin Wilhelmine von Sagan.
+
+Siehe die Abbildung:
+
+## E.T.A.HOFFMANN,
+
+- 306 Brustbild des Dichters Zacharias Werner. Brustbild im Profil nach links, im weissen Ordensmantel mit rotem Kreuz.
+
+der bekannte Novellist,Komponist und Zeichner,1776-1822.
+
+Aquarellzeichnung. Oval.
+
+- E.T.A. Hoffmann lernte Werner 1804 in Warschau kennen.
+
+Siehe die Abbildung.
+
+## LOUIS HOGUET.
+
+- 307 Friedrich Wilhelm IV, Konig von Preussen und sein Hof. Der Konig und 12 Herren seiner Umgebung als Kinder gekleidet in versch. Gruppen mit einander spielend. In der Mitte der Darstellung der Konig mit der Garde du Corps Mitze, kurzen Hosen u. Wadenstrimpfen. Scharf satirische Darstellung.
+
+Aquarellmalerei.
+
+Siehe uinter Nr.1—202,sowie 209,215-217.
+
+## HOLLANDISCHE KUNSTLER.
+
+## THEODOR HOSEMANN,
+
+- 308 Billardspieler. Der eine eifrig beim Spiel,der andere den Billardstock zwischen den Beinen, die Spitze mit Kreide bereibend,mit einer voribergehenden Kellnerin schakernd.
+
+Genremaler u. Zeichner des Berliner Volkslebens,1807-1875.
+
+Aquarellmalerei auf Karton. Bez.:,6 TH 5".
+
+Blattgrosse 18,6:15,7 cm.
+
+dem Bilde als Unterschrift von H.'s Hand:,Na denn wollen wir noch einmal, wollen wir noch einmal heirasusa."
+
+Reizende humoristische leicht frivole Darstellung, die einzelnen Figuren meisterhaft scherzhaft ausgearbeitet.Im Hintergrunde die Conturen von anderen Spielern, darunter Hosemanns Selbstportrat.Unter
+
+Siehe die Abbildung.
+
+- 309 ,Ein Sonnenstrahl. Altes Lied Neu Illustriert von Th. Hosemann. 1863."
+
+Reizende, fein ausgefihrte Handzeichnung.
+
+：Siehe die Abbildung.
+
+- 310 Ein tanzender und zwei musizierende Orientalen. Aquarellzeichnung.
+
+Blattgrosse 23,7:15,8 cm.
+
+Aquarellierte Bleistiftzeichnung.
+
+Blattgrosse 10,5:29 cm.
+
+Durchmesser 8,1:7,5 cm.
+
+Blattgrosse 18,5:14,5 cm.
+- 311 Entwurf zu einer Festkarte oder dergl.(Szene aus Faust):
+
+Getuschte Bleistiftzeichnung.Gerahmt.
+
+Vorzigliche Arbeit,hochinteressante, figurenreiche Darstellung.
+
+- 312 Zwei altere Stutzer sich vor einander verbeugend.
+
+Aquarellzeichnung.
+
+Reizende, humoristische Szene in prachtiger Ausfuihrung.
+
+## KARL WILHELM HUBNER,
+
+Disseldorf, Stifter des Malkastens,1814-1879.
+
+- 313 Brustbild. Selbstbildnis. Bleistiftzeichnung. Ca.1850.
+
+## O.R. JACOBI,
+
+## Disseldorfer Maler.
+
+- 314 Prinz Alexis Croy;1825-1898. Ganze Figur im roten Jagdrock m. schwarzer Mitze,halb im Profil n. 1.,Arm in Arm mit einem anderen Herrn im Reitanzug,ebenfalls ein Mitglied der Hocharistokratie
+- (ein Herzog).
+
+Oelstudie auf Leinwand.Ca.1860.
+
+Blattgrosse 39:27,5 cm.
+
+Dieses, sowie alle folgenden Blatter von Jacobi,hervorragend in ihrer genialen kurzen Ausfihrung, sind vermutlich die Vorarbeiten zu einem grossen Sportbild, das der Kiinstler anlasslich einer vom west- leicht auch gebracht hat.
+
+Einige Blatter sind bezeichnet:,O.R.J.1856"und ,O.R. Jacobi 1858"
+
+- 315 Prinz Alexis Croy (1825—1898). Ganze Figur in Sportkostim.
+
+Orig.-Bleistiftskizze
+
+Blattgrosse 37,5:27 cm.
+
+- 316 Rudolph Herzog von Croy. Ganze Figur im Profil nach rechts. In rotem Jagdrock m. schwarzer
+- Mitze. In der Rechten die Reitpeitsche.
+
+Oelstudie auf Leinwand. Ca.1860.
+
+- Siehe die Abbildung.
+- 317 Franz Egon Ludwig 1.Graf von Firstenberg-Herdringen;1818-1902. Ganze Figur im roten Jagd-
+- rock mit schwarzer Mitze,im Profil n. r.,im Sattel sitzend.
+
+Oelstudie auf Leinwand.ca.1860.
+
+Blattgr0sse 39,5:24,3 cm.
+
+- 318 Baron Klemens von Kettler. Huftbild im roten Jagdrock mit Mitze, im Sattel sitzend.Zugel u. Gerte in den Handen.
+
+Oelstudie auf Leinwand. Ca.1856.
+
+Blattgr0sse 37,3:26 cm.
+
+- 319 Ignaz Freiherr von Landsberg-Velen, Herr auf Steinfurt (Westfalen); geb. 1830. Fast ganze Figur im roten Jagdrock m. schwarzer Muitze, im Profil n.1.,im Sattel sitzend.
+
+Biattgrosse 32:19 cm. Oelstudie auf Leinwand. Ca.1856.
+
+Blattgrosse 30:23 cm.
+
+Blattgrosse 9:8,5 cm.
+
+Blattgrosse 15,5:12 cm.
+
+Blattgrosse 40:24,6 cm.
+- 320 Leopold Furst zur Lippe, Sohn des Fursten Paul Alexander Leopold, gest.1875. Ganze Figur im roten Jagdrock mit schwarzer Mutze, mit beiden Handen die Peitsche haltend. Oelstudie auf Leinwand. Ca.1856. Blattgr0sse 41,5:26,5 cm.
+
+：Siehe die Abbildung.
+
+- 321 Baron Miltitz. Huftbild im roten Jagdrock mit schwarzer Muitze, halb im Profil n. r.
+
+- Oelstudie auf Leinwand. Ca.1856. Blattgrosse 39:26 cm.
+
+- 322 Graf Alfred Nesselrode-(Ehreshoven). Huftbild im roten Jagdrock mit schwarzer Mutze,im Profil
+
+- nach r., im Sattel sitzend. Oeistudie auf Leinwand.Ca.1856. Blattgrosse 29:19,3 cm.
+
+- 323 Herr v. Olfers (westfalischer Adel). Huftbild im roten Jagdrock m. schwarzer Kappe, en face. Oelstudie auf Leinwand. Ca.1860. Blattgr0sse 34:24 cm.
+
+- 324 Herr von Schadow. Huftbild im roten Jagdrock m. Cylinder, en face. Im Sattel sitzend. Oelstudie auf Leinwand. Ca.1856. Blattgr0sse 36,6:24,5 cm.
+
+- 325 Graf von der Schulenburg. Brustbild halb nach r., im roten Jagdrock m. schwarzer Muitze. Oelstudie auf Leinwand.Ca.1856. Blattgr0sse 29,2:22,5 cm.
+
+：Siehe die Abbildung.=
+
+- 326 Clemens August Graf Westphalen zu Furstenberg;1805-1885. Ganze Figur im roten Jagdrock mit Cylinder, Kopf im Profil n. r.,im Sattel sitzend, Pfeife im Munde. Oelstudie auf Leinwand. Ca.1860.
+
+Biattgrosse 39:24 cm.
+
+- 327 Friedrich Joseph Graf Westphalen zu Furstenberg (1830-1900). Huftbild im Profil nach rechts. Im Sattel sitzend.
+
+Oelstudie auf Leinwand.
+
+Blattgrosse 37,2:24,5 cm.
+
+- 328 Joseph August Graf Westphalen zu Furstenberg (1831—1894). Huftbild im Profil nach links. Im roten Jagdrock u.schwarzer Muitze im Sattel sitzend.
+
+Oelstudie auf Leinwand.Bez.:,OR 1856."
+
+Blattgr0sse 36,2:27 cm.
+
+Siehe die Abbildung.
+
+- 329 Comtesse Elisabeth Maria Westphalen zu Furstenberg, spatere Prinzessin Alexander von Croy; 1834—1887.Ganze Figur im blauen Reitkleid mit Cylinder im Sattel sitzend. Oeistudie auf Leinwand, ca.1860.
+
+Blattgrosse 41:34 cni.
+
+Siehe die Abbildung.
+
+- 330 Graf Max WernerFerdinand Wolf Metternich;1837-1883.Kniebild im roten Jagdrockm.schwarzer Muitze,im Profil n.r., im Sattel sitzend.
+
+Oelstudie auf Leinwand.Ca.1860.
+
+Blattgrosse 29 :18,5 cm.
+
+Siehe die Abbildung.=
+- 331 Mr. de Monthivot, Herr v. Struk, Baron Unger, Henry Booth (Huntsman). Huftbilder u. ganze Figur in roten Jagdrocken m. schwarzen Kappen,im Sattel sitzend.4 Blatt. Oelstudien auf Leinwand. Ca.1860. Folio-Blatter.
+
+## LORENZ JANSCHA,
+
+Rodein （Krain)1742—Wien 1812.
+
+- 332 Knuippelsteg iber Gebirgsbach an felsigem Hang.
+- Tuschzeichnung in Sepia.
+
+Siehe unter Nr. 365,473.
+
+## FRIEDRICH JENTZEN,
+
+Berliner Kinstler.
+
+- 333 Friedrich Wilhelm IV.mit seinem Gefolge (General von Prittwitz,Prinz Carl u. A.)zu Pferde,bei einem Manover in der Mark, die Front abreitend, im Hintergrunde ein Schloss.
+
+Bleistiftzeichnung im Oval.
+
+Entwurf zu einer Lithographie.
+
+## ITALIENISCHE MEISTER
+
+des 17. Jahrh.
+
+- 334 2 Szenen aus der heiligen Schrift u. a. 3 Blatt.
+
+Tusch- u. Federzeichnungen in Sepia.
+
+C.Maratti, J. Landini etc.
+
+## ITALIENISCHE KUNSTLER.
+
+Sieheunter Nr.208,234—237,334,360,369,441,546.
+
+## JUSTUS JUNCKER,
+
+geb. Mainz 1703, gest. Frankfurt a/M.1767.
+
+- 335 2 Alt-Frankfurter Kuchenszenen.
+
+Oelmalereien auf Leinwand.
+
+Rickseitig bez.:,J. Juncker". Ca. 1750. Gerahmt.
+
+Juncker findet sich in Goethes Dichtung und Wahrheit mehrfach erwahnt.
+
+Siehe die Abbildung.
+
+## KALENDERKUPFERVORLAGEN.
+
+3369 Blatt Vorlagen zu Kalender-Kupfern.
+
+Tusch- u.Federzeichnungen.Etwa 1830.
+
+Feine Arbeiten.
+
+Siehe ferner unter Nr.270-271.
+
+KARLSRUHER KUNSTLER.
+
+Blattgrosse 68:56 cm.
+
+8u.40.
+
+Blattgrosse 38:26 cm.
+
+Hohe 76,Breite 46 cm jedes Bild.
+
+Blattgrossen ca.14:9 cm.
+- nach rechts.
+
+Bleistiftzeichnung mit der Signatur ,Kayser 1850"
+
+- 340a Moritz von Schwind, der berihmte Maler u. Radierer. Brustbild.
+- Bleistiftzeichnung.Bez.:Kayser 1850."
+
+## ALBERT VON KELLER,
+
+- 341 Dame in Weiss im Stuhl sitzend.
+
+geb. 1844 in Gais in d. Schweiz, lebt in Minchen.
+
+Oelstudie auf Pappe. Bez.:,Keller 69". Gerahmt.
+
+Vielleicht frihe Studie zu dem Bilde,Die letzten Stiche.Es dirfte sich hier um eine der frihesten bekannten Arbeiten Keller's handeln.
+
+## ：Siehe die Abbildung.
+
+342 Die Heilige Elisabeth vor einer Wald-Kapelle kniend. Links oben eine Burg. Oelmalerei auf Holz. Bez.:,A. Keller. Ca.1875. Gerahmt. Hohe 17,5,Breite 16 cm. Dirfte Studie zu dem bei Rosenhagen,Albert von Keller,Bielefeld 1912, Seite 42 erwahnten Bild sein, oder das Originalgemalde selbst (?).
+
+## ：Siehe die Abbildung.
+
+- 343 Bei der Toilette. Dame ein blaues Kleid anziehend. Oelmalerei auf Holz. Bez.:,Albert Keller 1881". Gerahmt. Ausserordentlich feines Stick aus des Kinstlers bester Zeit. Die Dargestelte ist wahrscheinlich des Hohe 29,5,Breite 19 cm.
+
+Kinstlers Gattin Irene geb. Baronin Eichthal.
+
+## HUGO KAUFFMANN, Hamburg 1844—Muinchen 1916.
+
+- 337 Der Antrag.Alterer Mann einem jungen Madchen einen Strauss iberreichend. Oelmalerei auf Pappe. Bez.:,H.Kauffmann 83". Gerahmt. Hohe 29,Breite 23 cm. Reizendes Bildchen aus des Meisters bester Zeit.
+
+## WILHELM VON KAULBACH,
+
+Historienmaler,Arolsen 1805-Minchen 1874.
+
+- 338 6 Originalskizzen aus ,Zerstorung Jerusalems"im Neuen Museum in Berlin. Kreidezeichnungen, zumeist auf getontem Papier.
+
+Verschiedene Formate.
+
+- 339,Weihnacht.Das Christkind umgeben von einer Engelsschar. Getuschte Federzeichnung. Pauspapier auf Karton aufgelegt.
+
+## J.KAYSER,
+
+Berlin,um 1850.
+
+Blattgrosse 29:26,7 cm.
+
+Blattgrosse 23:15,5 cm.
+
+Blattgrosse 24:15,5 cm.
+
+Hohe 12,5,Breite 9,5 cm.
+- 344 Mutter mit Kind im Kahn, in dem ein roter Sonnenschirm aufgespannt.
+
+Oelmalerei auf Holz.Gerahmt.
+
+Bildnis der Frau von Keller mit Sohnchen.
+
+Siehe die Abbildung.
+
+## ERNST BENEDICT KIETZ,
+
+geb.Leipzig 1815, lebte lange in Paris,gest.Dresden 1892.
+
+- 345 Pierre Jean de Beranger. Lebensgrosses Brustbild im Alter von 73 Jahren.
+
+Kreidezeichnung mit Weiss gehoht. Bez.:,E.B. Kietz fec. 1853.'Gerahmt. Hohe 48, Breite 41 cm. Lebenswahres Original-Portrat,1853 in Paris entstanden. Von demselben Kinstler stammt das beriihmteste Heine-Portrat.
+
+## JOH.FR.KLENGEL,
+
+sachs. Maler, Kesselsdorf 1751—Dresden 1824.
+
+- 346 Der Hohentwiel.—Burgruine.—Landschaft mit Viehherde.3 Blatt. Tuschzeichnungen u.getuschte Federzeichnungin Sepia.Blattgrossen 18:23,5 cm,10,5:17 cm u.10,5:21,2cm.
+
+## DAVID KLOECKER VON EHRENSTRAHL,
+
+Maler, Hamburg 1629-Stockholm 1698.
+
+- 347 Grefve Niels Bjelke, schwed. General-Feldmarschall, General-Gouverneur von Pommern (1644 bis 1714). Fast ganze Figur in Rustung.
+
+Kreidezeichnung,mit Weiss u. Rotel gehoht. Blattgrosse 28:21,5 cm. Rechts unten eigenhand.:,Ehrenstrahl pinx."Rechts:,Moritz Samuelson Del."
+
+- 348 Karl Xl. von Schweden. Brustbild.
+- Oelstudie auf Papier.
+
+## RICHARD KNOTEL,
+
+Kostimmaler u. Zeichner, geb. Glogau 1857.
+
+- 349,Kadett der Fusilier-Leib-Garde.—,Grenadier-Bataillon von Kenitz. 1762.2 Blatt.
+
+Federzeichnungen.Bez.:,R. Knotel"
+
+Interessante Militarkostime.
+
+## ANTON KOCH,
+
+thiring. Landschaftsmaler,um 1800.
+
+- 350 Waldpartie vom Thuringer Wald mit figuirl. Staffage.
+
+Tusch- u. Federzeichnung in Sepia.
+
+KOLNER KUNSTLER.
+
+40.
+
+Blattgrosse 23:28,8 cm.
+
+Siehe unter Nr.273-274,370.
+
+## KARL WILHELM KOLBE D.J.,
+
+Berliner Genre-u. Historienmaler,1781—1853.
+
+- 351 Der Antiquitatenhandler zu Pferde mit aufgespanntem roten Regenschirm. Unter dem Arm ein Gemalde,auf dem Ricken eine Mappe mit Kunstblattern. In einer Landschaft reitend. Hohe 39, Breite 51 cm.
+
+Oelgemalde auf Leinwand. Bez.,C. K.Ca.1840.Gerahmt.
+
+Hohe 23, Breite 38 cm.
+
+Blattgrosse 11,7:8,5 cm.
+- 358 Herrenbrustbild.
+
+## ALBERT KRETSCHMER,
+
+Maler deutscher Volkstrachten, Burghof b/Schweidnitz 1825-Berlin 1891.
+
+- 352 Wendische Bauerinnen in ihrer Tracht.
+
+Aquarellmalerei. Bez.:,A.Kretschmer.
+
+## FRANZ KRUGER,
+
+Berliner Bildnis-u.Pferdemaler,1797-1857.
+
+- 353 Brustbild der Kronprinzessin Elisabeth Louise von Preussen, Tochter Maximilian I. von Bayern, Gemahlin Friedrich Wilhelm IV.
+
+Bleistiftentwurf zu der Lithographie.
+
+Blattgr0sse 261:2912 cm.
+
+- 354 Johann Gottlieb Struve, Berlin und seine Gemahlin Frau Luise Struve, geb.Frankl. 2 Brustbilder. Kohle- u.Kreidezeichnungen.Gerahmt. Blattgrosse 21:18 cm u.20,5:18 cm. Ganz hervorragende Arbeiten.
+- 355 7 Brustbilder,Mitglieder einer Familie.
+
+Bleistiftzeichnung mit Kreide gehoht.
+
+Ganz hervorragende Blattchen in der dem Kiinstler eigenen Feinheit und besonderen Art,vermutlich die Eltern, Sohne und Tochter ein und derselben Familie darstellend.
+
+## Siehe die Abbildungen.
+
+- 356 Jager neben seinem Pferd stehend einem erlegten Hasen die Hinterlaufe zum Festbinden durchschneidend;neben ihm zwei grosse Hunde.
+
+Oelmalerei auf Leinwand.Gerahmt.
+
+Frihe Arbeit des Kinstlers. Herrlich in Farben von hervorragender Erhaltung und Frische.
+
+Siehe die Abbildung.
+
+- 357 Pferd mit Stallknecht. Oelmalerei auf Pappe.Frihe Arbeit.Ca.1825. Gerahmt.
+
+## C.L'ALLEMAND,
+
+Professor in Hannover, 1809—1880.
+
+Kreidezeichnung mit Weiss gehoht. Bez.:,,C.1Allemand 1831
+
+## GEORG JAKOB LANG,
+
+- 359 Verspottung Christi.
+
+Nirnberger Maler ( 1740).
+
+Feder- und Tuschzeichnung weiss gehoht.
+
+Signiert: GJ (verschl.) Lang. Inv. fec. Ao 1688.
+
+Hohe 44, Breite 51 cm.
+
+Blattgrosse 32,5:40 cm.
+
+Blattgrosse 22,3:17,3 cm.
+
+Blattgrosse 41,2:27,8 cm.
+
+Blattgr0sse 25,2:19,3 cm.
+
+Blattgrossen je ca. 11:9 cm.
+## GIOVANNI ANDREA LAZZARINI,
+
+ital.Maler,Canonicus von Pesaro,1711—1801.
+
+- 360 Entwurf fur eine Kreuzigung.
+
+Tuschzeichnung. Bez.:,,Lazarini
+
+Blattgr0sse 24,5:40 cm.
+
+## CARL AUG.LEBSCHEE,
+
+Schmiegel（Posen)1800-Minchen 1877.
+
+- 361 Die alte Muhle am Wendelstein (Bayrischzell). Tuschzeichnung. Bez.u. datiert (1816).
+
+Blattgr0sse 54:36,3 cm.
+
+## LEIPZIGER KUNSTLER.
+
+Siehe unter Nr.278-279,345,375-377,405a,496.
+
+## WALTER LEISTIKOW,
+
+Bromberg 1865-Berlin 1908.
+
+- 362 Fischerhitte unter Baumen.
+
+Oelmalerei auf Leinwand.Bez.:,W.Leistikow.Gerahmt.
+
+Hohe 19, Breite 31 cm,
+
+Siehe die Abbildung.=
+
+## FRANZ VON LENBACH,
+
+Minchen 1836-1904.
+
+- 363 Kind im Aehrenfeld.
+
+Hohe 16, Breite 19 cm.
+
+Oelmalerei.(Weimar 1866 oder 1867.) Gerahmt.
+
+Aus dem Besitze des Grafen Stanislaus von Kalckreuth.
+
+SiehedieAbbildung.
+
+- 364 Brustbild einer Munchner Schonen.
+
+Pastellmalerei. Bez.:,Fr. Lenbach. Gerahmt.
+
+Hohe 50,Breite 45 cm.
+
+Siehe die Abbildung.
+
+## CARL FRIEDRICH LESSING,
+
+Breslau 1808-Karlsruhe 1880.
+
+- 365 Stehender u.ruhender mannlicher Akt.2 Blatt.
+
+Kreidezeichnungen.
+
+Blattgr0ssen 56:40,5 cm u.39,5:53 cm.
+
+Mit eigenhand. Signaturen:,C. F. L. d. 16 Dcbr. 1825und ,C. F. L. (18)23
+
+## OTTO LESSING,
+
+Maler u.Bildhauer, geb.Disseldorf 1846, lebte in Berlin,
+
+- 366 Frauenakte.2 Blatt.
+
+Folio.
+
+Bleistift- u,Kreidezeichnungen.
+367 Biergarten.
+
+## MAX LIEBERMANN,
+
+geb.1849 in Berlin, lebt daselbst.
+
+Pastell. Bez.:,M. Liebermann.Gerahmt.
+
+Hohe 33, Breite 49 cm.
+
+Studie zu dem bei Pauli, Max Liebermann, 191l, auf Tafel 149 abgebildeten Oelgemalde.
+
+Siehe die Abbildung.
+
+## ANTON LIEHM,
+
+Janegg （Bohmen)1817-1860.
+
+- 368 6 Blatt Baumstudien.
+
+Bleistiftzeichnungen.
+
+Fol.
+
+PIETRO LONGHI,
+
+Maler, Venedig 17021785.
+
+369 Portrat des Carlo Goldoni (ital. Buhnendichter).
+
+Getuschte Kreidezeichnung, mit Rotel u. Blau gehoht.
+
+Blattgrosse 35:23 cm.
+
+Mit eigenhand. Bezeichnung:,,Goldoni".
+
+Siehe die Abbildung.
+
+## SIMON MEISTER,
+
+Kolner Maler,Koblenz 1803-Koln 1844.
+
+- 370 Selbstbildnis des Kunstlers. Ganze Figur des Kinstlers zusammen mit einem Freund (Soldat) am
+
+- Ufer des Rheins auf der Deutzer Seite stehend, ein Ruder in der Hand. Rechts im Hintergrunde die Stadt Koln.
+
+Oelgemalde auf Leinwand. Gerahmt.
+
+Hohe 39,5, Breite 33 cm.
+
+Wundervolles, farbenprachtiges Bild, mit interessanter figirlicher Staffage auf dem Rhein, vor- ziglich erhalten.
+
+Siehe dieAbbildung.
+
+AD.MENZEL,
+
+Berlin.
+
+- 371 Alter bairischer Holzpflug.
+
+Getuschte Bleistiftzeichnung.
+
+Blattgrosse 12:18 cm.
+
+Eigenhandig bez.:,A. Menzel 2 Aug. 84 Kissingen. Gerahmt.
+
+Ganz hervorragende Zeichnung des Kiinstlers mit voller Signatur.
+
+：Siehe die Abbildung.
+
+- 372 Handstudien.
+
+Kreidezeichnung. Eigenhand. signiert:,AM 90.Gerahmt. Ganz hervorragend ausgefihrte Zeichnungen.
+
+Blattgrosse 22:15 cm.
+
+## PAUL MEYERHEIM,
+
+Berliner Tiermaler, gest.1916.
+
+- 373 Dame im Zoologischen Garten.
+
+Bleistiftstudie.Weiss gehoht. Bez.:,Paul Meyerheim 1870".Gerahmt.
+
+Hohe 32, Breite 12 cm.
+
+Siehe die Abbildung.
+## WILHELM ALEXANDERMEYERHEIM,
+
+Maler u.Lithograph, Danzig 1815-Berlin 1882.
+
+- 374 Winterlandschaft vor den Toren Danzigs.Partie am Tor der Jopengasse mit der Marienkirche im Hintergrunde. Im Vordergrunde das Ufer der zugefrorenen Weichsel mit Pferde- u.Handschlitten u.anderer reicher figurlicher Staffage.
+
+Oelgemalde auf Leinwand.Bez.:,W.Meyerheim". Ca.1860. Gerahmt. Hohe 67, Breite 96 cm. Wundervolle Alt-Danziger Ansicht mit interessanter Hausergruppe am Jopengassen-Tor. Hervorragend gearbeitet,vorziglich in Farben, von bester Erhaltung.
+
+## MINIATUREN.
+
+## PASTELLBILDNISSE,PERGAMENTMALEREIEN,BRONZEN-,EISEN,GOLD-U.SILBER-
+
+## ARBEITEN ETC.
+
+DANIEL CAFFE,D.AE., hauptsachlich Pastellmaler, Kistrin 1756—Leipzig 1815.
+
+- 375 Herrenbildnis. Ganze Figur in blauem Rock, roter Weste u. grauen Kniehosen,mit Hut u. Stock
+- in der Rechten im Zimmer stehend. Neben ihm ein Windhund.
+
+Pastellmalerei.Ca.1795.Oval.Gerahmt. bis 1807 bezeichnet.
+
+Siehe die Abbildung.
+
+- 376 Damenbildnis (Gemahlin des Carl Friedr.Loth),nach vorn. In weissem Kleid mit rotem Tuch um
+- die Schultern.In ovaler Umrahmung. Im Hintergrunde Landschaft.
+
+Pastellmalerei.Ca.1795.Gerahmt.
+
+Siehe die Abbildung.
+
+## DANIEL FERDINAND CAFFE,D.J.,
+
+Portratmaler in Pastell u.Oel, Leipzig 1793—1833.
+
+377 Herrenbildnis. Brustbild in braunem Rock,halb nach links.
+
+Pastellmalerei. Bez.:,D.F. Caffe j.n.D. Caffe s.1825. Gerahmt. Hohe 43,Breite 37 cm.
+
+SiehedieAbbildung.
+
+Das Bildnis ist von dem jungeren Caffe nach einem Entwurf des Vaters gemacht worden, daher die Bezeichnung ,n（ach) D. Caffe s(enior). Laut alter Bezeichnung auf dei Rickseite soll der Dargestellte ebenfalls der Carl Loth aus Leipzig in spaterem Alter sein.
+
+## MORITZ MICHAEL DAFFINGER,
+
+oesterreich.Miniaturmaler,Wien 1790—1849.
+
+378 Brustbild eines Grafen von Beust. In braunem Rock,im Profil nach links.
+
+Miniatur-Malerei auf Elfenbein. Ca:1825. Oval.
+
+In schmalem Metallrahmchen mit Oese.
+
+- 379 Huftbild eines Herrn in schwarzem Rock mit roter Weste, halb im Profil nach rechts.
+
+Miniatur-Malerei auf Elfenbein. Oval. In schwarzem Holzrahmen.
+
+Wundervolle Arbeit des berihmten Wiener Miniaturmalers.
+
+Hohe 19, Breite 7,2 cm.
+
+Hohe 57, Breite 46 mm.
+
+Hohe 43,Breite 35 cm.
+
+Hohe 37,Breite 29 cm.
+## JOSEPH FRIEDRICH AUGUST DARBES, Bildnismaler,Hamburg 1747—Berlin 1810.
+
+379a Damenportrat. Huitbild in weissem Kleid mit offenem Haar. Halb im Profil nach links Pastellmalerei. Signiert:,Darbes i.d. fect.1797.Gerahmt. Hohe 32,5,Breite 27 cm.
+
+## BALTHASAR DENNER,
+
+Portrat-u.Miniaturmaler,Hamburg 1685-Rostock 1749.
+
+380 Brustbild eines Mannes in schwarzem Rock mit hohem Kragen.
+
+Miniatur-Malerei auf Elfenbein. Bez.:,,BD.Oval.
+
+In schmalem Metallrahmchen mit Oese.
+
+## GEORGE ENGLEHEART,
+
+engl. Miniaturmaler, Hofmaler Georg Ill., Schiler Reynolds, geb. in Kew 1752 (schlesischer Abkunft), gest.nach 1815.
+
+Miniatur-Malerei auf Elfenbein.Bez.:,G.E."Oval.
+
+381 Brustbild eines englischen Aristokraten in dunklem Rock. Mit hellblauem Hintergrunde.
+
+In schmaler Metalleinfassung mit Oese.
+
+Hochfein gearbeitete Miniature.
+
+382 Huftbild eines englischen Aristokraten in blauem Rock mit schwarzem Kragen.Mit grau u. blauem Hintergrunde.
+
+Miniatur-Malerei auf Elfenbein. Oval. In schmalem Goldrahmchen mit Oese. Hohe 68,Breite 55 mm. Ausserst fein gearbeitete Portratminiature,hervorragend in Farben, von tadelloser Erhaltung.
+
+## J.E.F.
+
+383 Brustbild eines (franzos.) Generals in blauem Rock mit hohem,roten Kragen.
+
+In schmalem,goldenen Rahmen mit Oese.
+
+Miniatur-Malerei auf Elfenbein. Rickseits bez.:,J. E. F." Oval.
+
+Hohe 67, Breite 55 mm.
+
+Ausserst fein gearbeitete Miniature, vorziglich in Farben und Erhaltung.
+
+## EUG.HAGNAUER,
+
+oesterreich.Miniatur-Maler,um 1800.
+
+Glas, umgeben von einem Kranz einzeln gefasster Brillanten.
+
+Das Ganze auf dem Deckel einer reich verzierten und ziselierten goldenen Dose; der Deckel tragt links und rechts von der Miniature noch je 3 grossere Brillanten.
+
+Miniatur-Malerei auf Pergament.
+
+Grosse der Miniature 4;5:3,5 cm. Grosse der Dose: Hohe 3 cm, Breite 7,5 cm, Lange 9,5 cm.
+
+Ganz hervorragende Goldschmiedearbeit.Gewicht ca. 2oo Gramm. Wundervolle Portrit-Miniature, vorziglich in Farben.
+
+Hohe 68,Breite 55 mm.
+
+Hohe 40,Breite 30 mm.
+## PERGAMENTMALEREI
+
+des 15. Jahrh.
+
+- 385 Maria mit dem Jesuskinde unter einem Thronhimmel sitzend. Unten an den Stufen links und rechts
+- ein Monch und eine Nonne stehend.
+
+Pergamentmalerei in Gold und Farben.
+
+Blattgr0sse 9,3: 10,5 cm.
+
+## PERGAMENTMALEREI
+
+des 18. Jahrh.
+
+- 386 Christus als Kind. Pergamentmalerei mit Spruch.
+
+Blattgrosse 10,3:6,5 cm.
+
+- 387 Christus am Kreuz.
+
+Pergamentmalerei.
+
+Blattgrosse 22,5:13,8 cm.
+
+- 388 Die Heilige Apollonia.
+
+In Pergament kunstvoll ausgeschnitten u. in Farben. Altes Aquarell, 1766. Blattgrosse 20,5:13,7 cm.
+
+## PORTRAT-MINIATUREN UND PASTELLE,
+
+unbezeichnet.
+
+- 389 Major von Hornberg. Brustbild in Uniform. Miniatur-Malerei auf Pergament. Ca.1790. Oval. Hohe 72, Breite 55 mm. In schmalem Metallrahmchen mit Oese.
+- 390 Aug.Wilh. Ifland, Schauspieler,1759-1814. Brustbild in ovaler Umrahmung nach vorn,Kopf halb im Profil nach rechts.In blauem Rock.
+
+Pastellmalerei Ca.1800.Gerahmt.
+
+Hohe 36, Breite 30 cm.
+
+Siehe die Abbildung.
+
+- 391 Karl Theodor, Kurfuirst von Pfalzbaiern;1724—1799, Brustbild in Uniform. Hohe 29,Breite 19 mm.
+- Miniatur-Malerei auf Pergament. Ca.1780. Oval. In goldenem Medaillon mit Deckel u. Oese.
+- 391a Vikener, Hessischer General. Ca.1800. Brustbild im Profil n. 1. in Uniform. Hohe 48, Breite 40 mm. Miniaturmalerei in prachtigen Farben. Aus der Zeit.
+- 392 Mannliches Huftbild in braunem,gestreiften Rock mit langem,lockigen Haar. Halb im Profil nach links. Graugriner Hintergrund.
+
+Miniatur-Malerei auf Elfenbein. Ca.1800. Oval.
+
+Hohe 73, Breite 60 mm.
+
+In schmalem Metallrahmchen mit Oese. Ruickseits von alter Hand bez. als Herzog Karl von Wirttemberg.
+
+Eine ausserst fein gearbeitete Portratminiature. Vermutlich eine Person aus dem damaligen deutschen Dichterkreise.
+
+- 393 Mannliches Huftbild in blauem Rock, halb im Profil nach links. Graugriner Hintergrund.
+- Miniature auf Elfenbein. Ca.1800. Oval. In schmalem Metallrahmchen mit Oese. Hohe 66, Breite 53 mm. Ausserst feine Arbeit, vorziglich in Farben.
+- 394 Mannliches Brustbild in lila Rock u.blauer Weste. Mit blauem Hintergrunde. Miniatur-Malerei auf Elfenbein.Ca.18oo.Rundbild.In rotem Samtrahmen. Durchmesser 60 mim.
+- 395 Huftbild einer Dame in weissem Kleid u. hoher Frisur. Halb im Profil nach links. Portratminiature der Empire-Zeit.
+
+Miniatur-Malerei auf Elfenbein.Oval. In rotem Samtrahmen.
+
+## WILLIAM WOOD,
+
+engl.Miniaturmaler,1768-1809.
+
+- 396 Brustbild eines engl. Aristokraten in schwarzem Rock, Kopf halb nach rechts. Im Hintergrunde Landschaft mit Schloss.
+
+Miniatur-Malerei auf Elfenbein.Ca.180o.Rechts bez.Rundbild. In Metallrahmchen mit Oese. Ganz prachtige Arbeit, brillant in Farben, hervorragend erhalten.
+
+Siehe ferner unter Nr.287,298,303a,304,305,475,494.
+
+F.MOCK, bad.Maler.
+
+- 399 Brustbild einer jungen Schwarzwalderin. Aquarellzeichnung.Bez.:,F.Mock 1896."
+
+## MUCK,
+
+engl. Maler, um 1830.
+
+- 400 Bath Abbey Church-Wrington Church Somersetshire.2 Blatt
+- Bleistiftzeichnungen. Blattgrossen 14,5:12,8und 9,5:14 cm.
+
+Bez.:,M. 27.April 1836"u.,Muck den 20. Dez. 1836"
+
+## MUNCHNER KUNSTLER.
+
+SieheuntrNr.204,229230,265266,276,287,296297,337-339,341344,361,363,64， 416,431,452,458.469472,479,480,485,516-517,536-537.
+
+## MICHAEL VON MUNKACSY,
+
+Munkacs (Ungarn) 1846-Budapest 1900.
+
+- 401 Der Gross-Inquisitor.
+
+Oelstudie auf Holz. Rickseitig bez.:,Munkacsy Michale. Gerahmt. Hohe 37, Breite 23,5 cm. Siehe die Abbildung.
+
+## EUPHEMIE MURATON,
+
+franzos. Malerin von Blumen u. Fruchtsticken, Gattin u. Schilerin des Alphonse Muraton (geb. 1824）.
+
+- 402 Kamelie.(Blumenstick.)
+
+Oelmalerei auf Leinwand.Bez.:,Euphemie Muraton —1863. Gerahmt.
+
+Siehe die Abbildung.
+
+Hohe 81,Breite 65 cm.
+
+Durchmesser 68 mm.
+
+Blattgrosse 16,2: 13,8 cm.
+
+Hohe 60,Breite 52 mm.
+- 403 Himmelskonigin.
+
+Federzeichnung. Rickseits: Grablegung eines Heiligen. Federzeichnung. Blattgr0sse 46,8:33,2 cm.
+
+JOHANN ANDR. BENJAMIN NOTHNAGEL,
+
+Frankfurter Maler und Radierer,1729—1804.
+
+- 404 Brustbild eines jungen Mannes mit Barett. Tuschzeichnung. Mit Unterschrift: ,A. B. Nothnagel fec."
+
+## NURNBERGER KUNSTLER.
+
+Siehe unter Nr.260,263,272—273,278—279,291,293,359,418—419.
+
+## OELSTUDIE.
+
+- 405 Handstudie. Unterarm,die Hand einen Gansekiel haltend. Oelstudie auf Leinwand.
+
+ADAM FRIEDRICH OESER, Leipziger Maler u.Radierer,1717—1799.
+
+- 405a Biblische Szene. Moses schligt mit dem Stab Wasser aus dem Felsen.
+
+Federzeichnung. Bez. eigh.:,A.F. Oeser del. nach La Fage Blattgrosse 45,5:31,2 cm. Interessante, figurenreiche Darstellung.
+
+## FRIEDRICH OVERBECK,
+
+Maler,Libeck 1789—Rom 1869.
+
+- 406 Auferweckung des Lazarus. Bleistiftzeichnung. Blattgrosse 40,6:53,2 cm. Ganz hervorragende Arbeit des Kinstlers.
+- 407 Bildnis einer Dame. Bleistiftzeichnung.
+
+Blattgrosse 26:18,7 cm.
+
+- 408 Die Mutter Gottes mit dem Jesus Knaben. Blattgrosse 33,5 :26,2 cm. Rotelzeichnung,mit Feder u. Pinsel.
+- 409 Mannlicher Akt: ein mit einem Hammer zuschlagender Mann.
+- Bleistiftzeichnung. Blattgr0sse 21,5:13,9 cm. Nach der Notiz des Enkels des Kinstlers, Carl Hoffmann:Aktstudie aus spaterer Zeit ebenfalls v.G.Fr.Overbeck. Carl Hoffmann."
+- 410 Mannlicher Akt.
+
+Blattgr0sse 42,7:33,9 cm.
+
+Weissgehohte Bleistiftzeichnung auf gelbem Papier. (1so8.)
+
+## NAZARENER.
+
+Sieheunter Nr.249258,294,338-339,359,403-406,414,459-467,469-472,505.
+
+## NAZARENERZEICHNUNG.
+
+Hohe 11, Breite 10 cm.
+
+Blattgr0sse 23,2:36 cm.
+- 411 Mannlicher Akt.
+
+Bleistiftzeichnung.
+
+Nach der Notiz des Enkels des Kinstlers am unteren Rande des Bildes 181o im Kloster S. Isidoro in Rom gezeichnet.
+
+- 412 Studie zu einem Philosophen.
+
+Bleistiftzeichnung.
+
+Nach der Notiz des Enkels des Kinstlers im Kloster S. Isidoro zu Rom gezeichnet.
+
+- 413 Studienkopf einer Albaneserin.
+
+Bleistiftzeichnung.
+
+Mit Zeugnis des Enkels.
+
+- 414 Verhullte Monchsgestalt.
+
+Bleistiftzeichnung.
+
+Nach der Notiz des Enkels des Kinstlers in Rom im Kloster S. Isidoro gezeichnet.
+
+## R.S.L. PIGOT,
+
+engl. Maler, um 1860.
+
+- 415 Londoner Zeitungs-Junge auf der Strasse ein Exemplar des ,Punchhochhaltend. Oelgemalde auf Leinwand. Bez.:,,R.S.L. Pigot 1867.Gerahmt. Hohe 30,Breite 25 cm, Vorziglich in Farben. Reizende Darstellung.
+
+## FERDINAND PILOTY D.J.,
+
+Minchner Maler,1828—1895.
+
+- 416 Brustbild eines bartigen alten Mannes.
+
+Tuschzeichnung. Eigenhand. signiert:,Piloty"
+
+## C.PISTORIUS,
+
+Berlin 1796-Karlsbad 1862.
+
+- 417 Huftbild des Musikers Leon de Saint-Lubin.
+
+Oelgemalde auf Leinwand. Bez.:,C. Pistorius 1843. Gerahmt.
+
+Wundervolie,farbenprachtige Oelmalerei,vorziglich gearbeitetes Bildnis des berihmten Violinisten.
+
+## JOHANN DANIEL PREISSLER,
+
+Nurnberger Maler,1666—1737.
+
+Feder- u. Tuschzeichnung in Sepia.
+
+- 418 Kunstschuler um ein mannliches Modell gruppiert beim Zeichnen.
+
+## JOHANN JUSTIN PREISSLER,
+
+- 419 Mythologische Scene (Hermes und ein schlafender Hirt). Entwurf fir einen Kupferstich.
+
+Blattgrosse 19,2:15,1 cm.
+
+Maler u.Kupferstecher, Nurnberg 1698-1771.
+
+Feder-u. Tuschzeichnung in Sepia.
+
+Im Rand eigenhandige Widmung:,In memoria del nobilismo Sign Possesore fece questo. Gione Giustno Preisler Direttre del Accad. di Norimberga Ao 1743 il di 5.Marzo.
+
+Blattgrosse 33,5:12,2 cm.
+
+Blattgrosse 22:16,5 cm.
+
+Blattgrosse 25: 23 cm.
+
+Blattgrosse 28,8:21,3 cm.
+
+Blattgrosse 24:17,2 cm.
+
+Hohe 33,Breite 26 cm.
+
+Blattgrosse 19:11,7 cm.
+H.S.G.R.,
+
+Berliner Maler,Art des Eduard Magnus.
+
+- 420 Frauenbildnis.Huftbild nach links gewandt. Oelgemalde auf Leinwand. Bez.:,HSGR". Ca.1840.Gerahmt. Hohe 52, Breite 38 cm.
+
+## EDM.RABE,
+
+Berlin 1815—1890.
+
+- 421 Die Untersuchungs-Kommission. Oesterreichische Beamte mit Dragonern von oberitalienischen
+- Bauern gefuhrt vor einem Skelettfund.
+
+Oelmalerei auf Leinwand. Bez.:,E. Rabe 1839.Gerahmt.
+
+## ANTON HEINRICH FURST RADZIWILL,
+
+Kunstdilettant, Gemahl der Prinzessin Friederike Dorothea Louise von Preussen,1775-1833.
+
+- 422 Franzos. Revolutionstruppen auf der Rast.
+- Federzeichnung.Ca.1795. Blattgrosse 22,2:28 cm.
+
+## DENIS AUGUSTE MARIE RAFFET,
+
+franz.Maler,Zeichner u.Lithograph,1804—1860.
+
+- 423 Russische Bauern.Orientale.2 Blatt. Bleistiftzeichnungen.
+
+ED.RATTI,
+
+Maler,arbeitete in Berlin und Wien.
+
+- Bleistiftzeichnung. Bez.,Ed.Ratti.Ca.1852. Gerahmt. Blattgrosse 30:21 cm.
+- 424 Bildnis des Malers Carl Begas. Mit dem eigh. Namenszug des Dargestellten.
+- 425 Bildnis des berliner Kupferstechers Eduard Mandel. Bleistiftzeichnung. Bez.:,Ed. Ratti fec. Berlin". Gerahmt. Blattgrosse 29:20 cm. Mit dem eigh. Namenszug des Dargestellten.
+- 426 Bildnis des berliner Malers F.E. Meyerheim,Vaters von Paul Meyerheim. Bleistiftzeichnung. Bez.:,Ed. Ratti f. Berlin 1852. Gerahmt. Blattgrosse 30:21,5 cm. Mit dem eigh. Namenszug des Dargestellten.
+- 427 Brustbild des Arztes Prof.Dr.J. Oppolzer. Bleistiftzeichnung. Bez.:,Ed. Ratti fec. Wien 1851. Blattgrosse 291:20 cm. Mit dem eigh. Namenszug des Dargestellten.
+- 428 Bildnis der deutsch-bohm. Sangerin Flora Schreiber-Kirchberger. Bleistiftzeichnung. Bez.:,,Ed. Ratti fec. 1851." Blattgrosse 30:20,5 cm. Mit dem eigh. Namenszug der Dargestellten.
+- 429 Bildnis des Osterreich. Staatsmannes und Komponisten Vesque von Puittlingen. Blattgrosse 30:20,5 cm.
+- Bleistiftzeichnung. Bez.:,Ed. Ratti fec. Wien 1851".
+
+Hohe 42,Breite 53 cm.
+
+8u.40.
+- 430 Ansicht des Stiftes Gottwei.
+- Bleistiftzeichnung.
+
+## HEINRICH RASCH,
+
+geb. 1840 in Norburg auf Alsen, lebt in Minchen.
+
+- 431 Ertappte Suinder. Polizisten mit Kindern am Strande. Hohe 17, Breite 24 cm. Oelmalerei auf Leinwand. Bez.:,R.Minchen. Gerahmt.
+
+## FR.REMDE,
+
+Weimarer Maler, Schitzling Goethes,1800—1877.
+
+- 432 Weimarer Burger. (Landesdirektionsrat Gille.) Brustbild h.n. 1.,in blauem Rock. Oelgemalde auf Leinwand. Bez.:,Fr. Remde 1836. Auf Holzplatte aufgezogen. Gerahmt.
+
+## FRIEDRICH RHEINFELDER,
+
+Wiener Maler u. Zeichner,geb. 1838.
+
+- 433 Bildnis der Schauspielerin Friederike Gossmann in ganzer Figur. Aquarell- u.Bleistiftzeichnung.1858. Bezeichnet. Blattgr0sse 28,5:20,5 cm. Entzickende feine Arbeit in zartesten Farben. Zwei Grillen in der Darstellung deuten auf die be-
+
+rihmteste Rolle der Kunstlerin, in der sie in Wien auftrat,hin.
+
+Siehe die Abbildung.
+
+- 434 Satan. Alte Kupplerin steht hinter einer jungen, hubschen Platterin u.redet auf diese ein.
+- Tusch- u. Bleistiftzeichnung,mit rot u. weiss gehoht. Blattgr0sse 23:20,3 cm. Bez.:,Fritz Rheinfelder 1854". Sehr fein gearbeitetes Blatt, in Anlehnung an Gavarni.
+
+## LUDWIG RICHTER,
+
+Dresden 1803-1884.
+
+JOH.ELIAS RIDINGER,
+
+Ulm 1698-Augsburg 1767.
+
+Siehe in Abteilung IV unter Nr. 806-810.
+
+ERNST RIETSCHEL, sachs. Bildhauer u. Maler,1804—1861.
+
+- 435 Ansicht einer ital. Kirche. Getuschte Bleistiftzeichnung.
+- 436 Steine am Wasser.
+
+Aquarellzeichnung.
+
+437-Juno-Buste.
+
+Oelmalerei auf Papier.
+
+JOH. NEPOMUK RAUCH,
+
+Maler, Wien 1804—Rom 1847.
+
+Blattgrosse 22 :35,5 cm.
+
+- Hohe 18, Breite 15 cm.
+
+Blattgr0sse 20,3:25 cm.
+
+Blattgr0sse 10,4:16 cm.
+cm.
+
+cm.
+
+m.
+
+cm.
+
+be- cm.
+
+cm.
+
+cm.
+
+cm.
+
+## LUDWIG ROEDER,
+
+hessen-darmstadt. Maler,geb.um 1760.
+
+- 438 Burgruine.
+
+Tuschzeichnung.Signiert:,R.inv.1810."
+
+Blattgr0sse 26:33,5 cm.
+
+JOH. GOTTFR. SAMUEL ROSEL,
+
+Breslau 1768-Potsdam 1843.
+
+- 439 Wirtshaus an der Landstrasse. Tuschzeichnung.
+
+Blattgr0sse 17,6:23 cm,
+
+JOH.MELCHIOR ROOS, Tiermaler,Frankfurt a/M.1659-1731.
+
+- 440 Ziegen.2 Blatt.
+
+Quer-40.
+
+Rotelstiftzeichnungen. Das eine links unten bez.:,1718"
+
+## SALVATORE ROSA,
+
+Maler u. Radierer, Renella bei Neapel 1615-Rom 1673.
+
+- 441 3 Blatt mannliche Figuren. (Landsknechte etc.) Ruckseits ebenfalls Figuren, im Ganzen 6 Dar- stellungen.
+
+Federzeichnungen.
+
+40.
+
+JOHANN GEORG ROSENBERG, Berliner Maler,1739—1808.
+
+- 442 ,Bayan. Ein Araber.Rennpferd in Landschaft. Aquarellierte Bleistiftzeichnung. Bez.:,J. Rosenberg del. 1795
+
+Blattgr0sse 32,5:47,5 cm.
+
+## GEORG PHILIPP RUGENDAS,
+
+Augsburger Maler,1666—1742.
+
+- 443 Pluindernde Soldaten. Tusch- u. Federzeichnung. Signiert:,,G. P. Rug. pinx. Ao 1707". Blattgrosse 36:63,5 cm.
+
+- 444 Reitergruppen. 2 Blatt. Federzeichnungen. Eigenhand. signiert:,G.P. Rug. 1696. Blattgr0sse 42:32 cm.
+
+## JOHANN LORENZ RUGENDAS,
+
+Augsburger Maler, 1775-1826.
+
+- 445 Maultiertreiber in Viehherde.
+
+Tusch- u. Federzeichnung in Sepia. Signirt:,Rugendas".
+
+Blattgr0sse 37,5:50,5 cm.
+
+VALENTIN RUTHS, Hamburg 1825—1905.
+
+- 446 Dunenlandschaft mit Buchengeholz.
+
+Oelmalerei. Bez.:,V. Ruths". Gerahmt.
+
+Hohe 37, Breite 53 cm.
+
+Siehe die Abbildung.
+- 452 Kochin auf dem Markt.
+
+Landschaftsmaler,19. Jahrh.
+
+## H.SCHAEFFER,
+
+Berliner Maler.
+
+- 447 Friedrich Wilhelm Ill. Huftbild in Uniform. Rechts im Hintergrunde Blick auf das Kreuzbergdenkmal und Berlin.
+
+Oelmalerei auf Leinwand. Bez.:,H. Schaeffer 1840. Gerahmt.
+
+## SCHENAU
+
+(Joh.El. Zeisig), sachs.Maler u.Radierer,1734—1806.
+
+- 448 Kavalier mit einem Florett einen Spiegel zerstossend. Aquarellierte Tusch- und Federzeichnung. Blattgrosse 38,3:27 cm.
+- 449 Familienszene beim Aufsetzen des Heiratskontraktes. Tusch-u. Federzeichnung.
+- 450 Strassenszene.
+
+Tusch-u. Federzeichnung.
+
+- 451 Segelschiff-Nothafen.
+
+Tuschzeichnung in Sepia. Eigenhandig signiert: ,P. F. Schiedges 1840" Blattgrosse 11,5:18 cm.
+
+## SCHLESISCHE KUNSTLER.
+
+Siehe unter Nr.268,349,352,365,381—382,439,532.
+
+## HEINRICH SCHLITT,
+
+Minchen.
+
+Oelmalerei auf Holz. Bez.:,Heinrich Schlitt 188o". Gerahmt.
+
+Siehe die Abbildung.
+
+## JOHANN JOSEPH SCHMELLER,
+
+Hohe 25, Breite 16,5 cm.
+
+Frankfurter Maler, Schiler Jagemanns in Weimar, von Karl August und Goethe hoch geschatzt, 1796—1841.
+
+- 453 Selbstportrat.
+
+Kreidezeichnung.
+
+Schones Kinstlerportrat mit eigh. Widmung: ,Zum freundschaftl. Andenken von J. J. Schmeller."
+
+## JOHANN BERNHARD SCHMELZER,
+
+- 454 Hausherr im Schlafrock und Pantoffeln uiber eine in der Hand haltende Nota ergrimmt.
+
+Humoristische Darstellung.
+
+Blattgrosse 17,4 : 12,2 cm.
+
+sachs. Maler, geb. 1833.
+
+Bleistiftzeichnung. Bez.:,J. B. Schmelzer fec."
+
+Blattgr0sse 59,5:46,5 cm.
+
+Blattgrosse 26,2:38,8 cm.
+
+Blattgrosse 31,5:33 cm.
+
+Hohe 85,Breite 74 cm.
+
+## P.F. SCHIEDGES,
+LIZ- cm.
+
+m.
+
+m.
+
+m.
+
+m.
+
+n.
+
+n.
+
+- 458 Alter Monch.
+
+Oelmalerei auf Leinwand. Bez.:,Theodor Schmidt Minchen
+
+Siehe die Abbildung.
+
+## JULIUS SCHNORR VON CAROLSFELD, 1794—1872.
+
+- 459 Abraham wird von Melchisedek gesegnet. Federzeichnung iber Bleistiftvorzeichnung.Links unten datiert: d.4t Julij 1823. Blattgrosse 20,4:268 cm.
+
+Fur die Wigandsche Bibel in Bildern.
+
+- 460 David spielt die Harfe vor Saul.
+
+Federzeichnung. Signiert u.mit Monogramm u. Datum (1824).
+
+Fir die Wigandsche Bibel in Bildern.
+
+- 461 Kinderkopfchen. Kreidezeichnung.
+- 462 Kniendes Madchen (Akt).
+
+Bleistiftzeichnung. Eigh. datiert:,Februar (18)34"
+
+- 463 Paulus und Barnabas zu Systra. (Apostelgeschichte 14,13—14.)
+- Federzeichnung.Eigenhand. bez.mit Monogramm und datiert ,1860. d.16. Juni. Blattgrosse 22:26 cm.
+- 464 Tanzerin mit Tamburin. Rotel- u. Bleistiftzeichnung.
+
+Blattgr0sse 48,3:29,2 cm.
+
+## PETER SCHMID VON LICHTENBERG (IN BAYERN),
+
+Unbek. siddeutscher Kiinstler des 17. Jahrhunderts.
+
+- 455 Allegorische Darstellung (die Musik). Federzeichnung in Tusche, laviert und weiss gehoht auf hellbraun punktiertem Papier. Bezeichnet. Blattgrosse 18,7:14,4 cm. Oben die eigenhandige Aufschrift des Kinstlers:,zu guther gedechtniss gemacht in Dantzig den
+
+27 lanuar. Petter Schmid von Lichtenburg."
+
+## J.H.SCHMIDT,
+
+Hildburghausen 1749—Dresden 1829.
+
+- 456 Bildnis des Heinr. Christ. Graf v. Baudissin, sachs. General.
+- Bleistiftzeichnung.Ca.1780.
+
+Blattgrosse 38,5:25,3 cm.
+
+- Kreidezeichnung. Signiert ,S. Blattgrosse 36,5:23 cm.
+
+Sehr hibsche Portratzeichnung.
+
+## THEODOR SCHMIDT,
+
+Minchen.
+
+Hohe 45, Breite 36 cm.
+
+Blattgrosse 21:25,7 cm.
+
+Blattgr0sse 21:16,3 cm.
+
+Blattgrosse 28.5:192 cm.
+- 465 Trauerndes Madchen (Halbakt). Bleistiftzeichnung.
+- 466 Weiblicher Halbakt. Bleistiftzeichnung.
+
+Blattgrosse 16:15,7 cm.
+
+Blattgrosse 29,4:17,4 cm.
+
+- 467 Die Weisheit verbindet Gerechtigkeit und Reichtum.Entwurf zu einem Vasenbild. Federzeichnung.VomKinstler mit Monogramm signiertudatiert ,1857 d.16.AprilBlattgrse21,2:31,8 cm. Auf Anordnung des Konigs Johann von Sachsen entworfen, der ein Motto dafir verfasst hat.
+
+## FRANZ VON SCHOBER,
+
+468 Bildnis seiner Gemahlin Thekla von S., geb. von Gumpert, der Jugendschriftstellerin.
+
+bekannter Kunstdilettant, Freund Moritz von Schwinds, 1798-1882.
+
+Bleistiftzeichnung. Mit Signatur:,FvS".
+
+Meisterhafte Bleistiftzeichnung ca.1860.
+
+## JOHANN VON SCHRAUDOLPH,
+
+- 469 Beerdigung des Heiligen Bonifazius. Entwurf zu einer Freske im Dom zu Speyer.
+
+bair. Maler,Oberstdorf (Allgau) 1808 —Minchen 1879.
+
+Bleistiftzeichnung.
+
+Ein Stich dazu liegt bei.
+
+- 470 Entwurfe fur die Ausmalung des Domes zu Speyer. 5 Blatt.
+
+Weissagung des JesaiasDer brennende Dornbusch ——Jesus als Lehrer—Die Geburt der Maria —
+
+Blattgrosse 19,8 : 36,4 cm.
+
+Bleistiftzeichnungen.4 Blatt eigenhandig bez.u. datiert,1 Blatt mit eigenhand. Bestimmung.4
+
+Ubergabe des Kreuzes u. Banners von Seiten des H. Bernhard an Kaiser Conrad II.
+
+- 471 Entwurfe fir Fresken im Dom zu Speyer. 9 Blatt. Bleistiftzeichnungen. Teils eigenhand. signiert u. datiert. Verschiedene Formate.
+
+Hervorragende Arbeiten:Esther vor Ahasver (2 Biatt) —Der Tempel Solomonis wird eingeweiht.— Ankunft des Heiligen Bernhard vor Conrad Ill. und a. mehr.
+
+- 472 3 Fenster der Kirche Au in Muinchen.3 Blatt.
+
+Aquareilierte Bleistiftzeichnungen, vorziglich in Farben, teilweise noch nicht ganz ausgemalt.
+
+## ADOLF SCHROEDTER,
+
+- 473 Volksszene an der Kranzlerecke in Berlin. Bleistiftzeichnung, zum Teil aquarelliert.
+
+Fol.
+
+Maler in Duisseldorf, Schiler Buchhorn’s in Berlin, Schwedt 1805-Karlsruhe 1875.
+
+Blattgrosse 18,5:28,3 cm.
+
+Interessantes,humoristisches Blatt,mit ausserst reicher figirlicher Staffage und charakteristischen Kostumen.
+
+Blattgrosse-25:15 cm.
+m.
+
+n.
+
+11.
+
+## FRANZ AUGUST SCHUBERT,
+
+Dessauer Maler u. 1llustrator, lebte um 1850 in Berlin, 1806—1893.
+
+- junges Paar. Hinter dem Stuhle steht der Vater.
+
+Tuschzeichnung in Sepia.Ca. 1850.
+
+## ANDREAS SCHUCH,
+
+Maler u. Stecher in Ulm, um 1649.
+
+- 475 Bildnis des Joseph Furtenbach 1Il., Maler in Ulm (1632-1655).
+
+Tuschzeichnung auf Pergament mit 3 eigenhand. Zeilen, Ortsangabe, Datum u. Unterschrift des Schuch. Andreas Schuch Mahler." Blattgrosse 15 :9,5 cm,
+
+Es liegt ein Frauenportrat, Tuschzeichnung auf Pergament, bei.
+
+## CHRISTIAN GEORG SCHUTZ,
+
+der bekannte Frankfurter Kinstler,1718-1791.
+
+- 476 2 Landschaftsbilder,Mainansichten.
+
+Oelgemalde auf Holz. Das eine signirt:,C. G. Schiz". Gerahmt.
+
+Prachtvolle Landschaftsbilder, vorziglich in Farben.
+
+：SiehedieAbbildungen
+
+## KARL FRIEDRICH SCHULZ,gen.JAGD-SCHULZ,
+
+berliner Maler, 1796—1866.
+
+- 477 Grenadier vom 1. Garde-Regiment zu Fuss in Potsdam,mit der historischen friedericianischen Blechmitze.
+
+Aquarellmalerei.
+
+Blattgrosse 22:15 cm.
+
+Hervorragend feine Arbeit des durch seine zahlreichen Costimbilder friedericianischer Soldaten berihmten Malers,vorziiglich in Farben.
+
+JACQUES VAN SCHUPPEN,
+
+Maler, Paris 1670Wien 1751.
+
+- 478 Portrat-Studie, einen Fursten in Rustung darstellend.
+
+Grisaille.
+
+Der Dargestellte soll ein braunschweigischer Herzog sein.
+
+LUDWIG MICHAEL SCHWANTHALER, Bildhauer u.Maler,Munchen 1802—1848.
+
+- 479 Entwurf zu einem Fries.
+
+Federzeichnung. Rechts unten eigenhand. signiert: ,L. Schwanthaler intent. Blattgrosse 13:38 cm.
+
+## SCHWEDISCHE KUNSTLER.
+
+Siehe unter Nr.226,347-348,518529.
+
+Blattgrosse 15,5:9,8 cm.
+
+Hohe je 23,Breite je30,5 cm.
+
+Blattgr0sse 47,6:33 cm.
+## SCHWEIZER KUNSTLER.
+
+Siehe unter Nr.219,232—233, 282—283, 341——344, sowie in Abteilung V1. (No.1112—1182.)
+
+## MORITZ VON SCHWIND,
+
+Wien 1804-Minchen 1871.
+
+- 480 Bildnis des Malers Anton Seitz.
+
+Bleistiftzeichnung. Bez.:,,Schwind 1854".
+
+Siehe die Abbildung.
+
+## FRANZ SKARBINA,
+
+geb. Berlin 1849.
+
+- 481 Fligel von Schloss Monbijou im Schnee.
+
+Oelmalerei auf Leinwand. Gerahmt.
+
+Siehe die Abbildung.
+
+- 482 Das Pelerinenweibchen.
+
+Pastellmalerei. Eigenhandig signiert:,F. Skarbina 1894. Gerahmt.
+
+- 483 Zimmer im Koniglichen Schloss.
+
+Oelmalerei auf Leinwand. Bez.:,F. Skarbina. Gerahmt.
+
+Siehe die Abbildung.
+
+## WILLIAM COLLINGWOODSMITH,
+
+engl. Landschaftsmaler, Greenwich 1819—Bristol 1903.
+
+484 2 Blatt Landschaften.
+
+Aquarellzeichnungen.
+
+KARL SPITZWEG,
+
+- 485 Dorf am Fluss, im Mondschein.
+
+Oelmalerei auf Holz. Gerahmt.
+
+Minchen 1808-1885.
+
+Auf der Rickseite die Echtheitsbestatigung des Professors Uhde Bernays.
+
+Siehe die Abbildung.
+
+M.A.STEIN,
+
+- 486 Knabenbildnis.
+
+Berliner Maler, arbeitete im Konigl. Lithograph. Institut, geb. um 1800.
+
+Kohle-u.Kreidezeichnung: Bez.:,Stein del.1827"
+
+## ED. JACOB VON STEINLE,
+
+486a Kleine nackte Kinder an Felsen sitzend.
+
+Maler,Wien 1810—Frankfurt a.M.1886.
+
+Bleistiftzeichnung. Bez. mit Signum: ,ein Stein (gezeichnet) und le.
+
+Blattgrosse 15,5:12,5 cm.
+
+Blattgr0sse 20,5:23,2 cm.
+
+Hohe 41,Breite 25 cm.
+
+Hohe 46, Breite 31 cm.
+
+Hohe 37,Breite 53 cm.
+
+Quer-40.
+
+Hohe 11,5, Breite 22 cm.
+n.
+
+## JOSEPH STIELER,
+
+Portratmaler, sein Hauptwerk Goethes Bildnis in der Neuen Pinakothek zu Munchen, Mainz 1781Minchen 1858.
+
+487 Selbstportrat. Brustbild.
+
+Bleistiftzeichnung.
+
+## CHRISTIAN STOCKLIN,
+
+Maler,in Frankfurt a/M.tatig,1741—1795.
+
+488 Phantastische Ruinen.2 Blatt.
+
+Tusch-u.Federzeichnungen. Bez.:,,Stocklin"
+
+## KARL WILHELM STRECKFUSS,
+
+berliner Maler, 1817—1896.
+
+- 489 Blick vom Atelier des Kuinstlers in der Anhaltstrasse auf den Garten u. das Palais des Prinzen
+- Albrecht.
+
+Oelmalerei auf Leinwand.
+
+Bez.rechts unten u. auf der Rickseite mit Nachlassstempel.
+
+- 490 Die alte Kirche in Lankwitz bei Berlin.
+
+Bleistiftzeichnung. Bez.:,Lankwitz 28 5 91". Mit Nachlass-Stempel.
+
+Hohe 38,Breite 46 cm.
+
+Blattgrosse 32:23,5 cm.
+
+- 491 Junge Dame, Schulerindes Malers,in seinem Atelier in der Anhaltstrasse 3,vor einer Staffelei
+- sitzend und malend. Rickenansicht.
+
+Aquarellzeichnung. Bez.:,W. Streckfuss 1856"
+
+Wundervolle Arbeit in vorziglichen Farben.
+
+- 492 Junge Magd in ganzer Figur, halb nach rechts.
+
+Kohlestiftzeichnung. Bez.:,27. Februar 1840". Mit Nachlass-Stempel.
+
+Vorzigliche Arbeit, die deutlich den Einfluss Franz Krigers zeigt.
+
+- 493 Koch,Grenadier der 2.Compagnie des Kaiser Franz Grenadier Regimentes.Ganze Figur mit Helm
+- u.geschultertem Gewehr.
+
+Kohlestiftzeichnung. Bez.:,Berlin 19. Juli 1841. Mit Nachlass-Stempel. Blattgr0sse 45,5:23,5 cm.
+
+## BERTELTHORWALDSEN,
+
+Bildhauer,Kopenhagen 1770-1844.
+
+- 494 Flachrelief nach einem Modell von Th. (Mythologische Szene, kampfende Krieger).
+
+Eisenteller aus der Berliner Eisengiesserei.
+
+Am Rande an einer Stelle ausgebessert.
+
+Durchmesser 66 cm.
+
+Blattgrosse 14:11 cm.
+
+Blattgrosse je 14:21 cm.
+
+Blattgrosse 23,5:18,5 cm.
+
+Blattgrosse 43:30 cm.
+- 495 Studienkopfe.
+
+## JOH.HEINR.WILHELM I.TISCHBEIN,
+
+Maler u.Radierer,1751—1829.
+
+Kreidezeichnungen in Rotel. Bez.:,W. Tischbein"
+
+## JOH. FRIEDR.AUG.TISCHBEIN,
+
+- 496 Kniebild eines Knaben in grinem Uniform-Rock. In der Linken langer Stock, in der Rechten Federhut.
+
+Blattgrosse 18,5:27 cm.
+
+Maler,Maestricht 1750-Heidelberg 1812,Professor u.Akademie-Direktor in Leipzig.—Zugeschrieben.
+
+Oelmalerei auf Leinwand. Gerahmt.
+
+## JOHANN GEORG TRAUTMANN,
+
+Frankfurter Maler, 1713—1769.
+
+- 497 Brustbild eines Mannes mit Barett. Tusch-u. Federzeichnung. Signiert:,TM
+
+## UNBEKANNTE MEISTER
+
+des 17.u.19. Jahrh.
+
+- 498 Szene aus der heiligen Schrift, mytholog. Szenen u. a. 11 Blatt. Federzeichnungen, z. Teil leicht getuscht.
+- 499 11 Blatt. Tusch- u. Bleistiftzeichnungen.
+
+Hohe 87, Breite 65 cm.
+
+Blattgrosse 32:27,5 cm.
+
+80, 40 u. fol.
+
+Verschiedene Formate.
+
+Blattgrosse 28,3: 40,5 cm.
+
+Blattgrosse 22,5:30,5 cm.
+
+Blattgrosse 15,8:22,4 cm.
+
+Quer-40.
+
+Verschiedene Formate.
+
+## UNBEKANNTE MEISTER
+
+- 500 Ansicht des Schlosses Trakehnen. Getuschte Federzeichnung.
+
+des 19. Jahrh.
+
+- 501 Dampfer im Sturm zwischen Klippen. Norwegisches Motiv. Bleistiftzeichnung. Bez.:,E. H."
+- 502 Fischerboot am Kanal, im Hintergrunde Segler. Tuschzeichnung.
+- 503 8 Blatt Landschaftsbilder.
+
+Tusch-, Rotel- u.Bleistiftzeichnungen.
+
+Die Bastei (in der sachs. Schweiz) — Festung Konigstein a. Elbe — Gebirgslandschaften u. a.
+
+## UNBEKANNTE MEISTER
+
+der Dusseldorfer Schule u.a.
+
+- 504 Biblische u. mytholog. Szenen, Kopfstudien etc. 9 Blatt. Bleistiftzeichnungen.
+
+60
+## UNBEKANNT.
+
+- 505 Christus am Kreuz. Aquarellmalerei. Bez. mit Monogramm: ,T R 59"
+
+Blattgrosse 45,5:26,8 cm.
+
+- 506 Figurenstudien.4 Blatt.
+
+- Tusch- u. Kreidezeichnungen mit Kolorit. 8u.40. U.d. Kinstlern die Namen:Biesold und Lubich.
+
+- 507 Landschaftsbilder. 6 Blatt. Aquarellzeichnungen.(1 Blatt bez.,N. Veit). 8°,quer-4 und quer-fol.
+
+- 508 La Pharmacie.Alchemist in seinem Laboratorium. Tusch- u. Federzeichnung. Ca.1700. Blattgr0sse 28:35,7 cm.
+
+- Hochinteressantes Blatt.
+
+- 509 Mythologische Szenen. 10 Blatt. Tusch-·u.Federzeichnungen. Verschiedene Formate.
+
+- 510 Mythologische Szenen u.a. 9 Blatt. Entwirfe fuir Deckengemalde. Tusch- u. Federzeichnungen. 8°,quer-4 u. quer-fol.
+
+- 511 Tierbilder (Kuhe u. Enten). 4 Blatt. Aquarellzeichnungen. Quer-8 u. quer-40.
+
+- 512 Tierstudien.2 Blatt. Bleistift- und getuschte Federzeichnung.
+
+Quer-4 u. fol.
+
+- 513 Weibliche Akte u. a. 4 Blatt. Verschiedene Formate.
+
+- Bleistiftzeichnungen.
+
+## PHILIPP VEIT,
+
+Maler u. Radierer,Berlin 1793Mainz 1877.
+
+- 514 Der Sundenfall.—Der Baum der Erkenntnis. 2 Blatt. Bleistiftzeichnungen.Eigenhandig bez.:,Ph. Veit. Blattgrossen 36,5:25 cm und 33,5:18,9 cm.
+
+## EMILE JEAN HORACE VERNET,
+
+franz. Maler u.Lithograph, 1789—1863.
+
+- 515 Soldat auf einem Stuhl sitzend eine Schissel in der Hand. Bleistiftzeichnung. Blattgrosse 14,3:8,8 cm.
+
+FRIEDRICH JOHANN VOLTZ, Tiermaler,Munchen 1817—1886.
+
+- 516 Kalbchen.
+
+Oelmalerei auf Leinwand. Bez.:,F.V."
+
+Hohe 22, Breite 265 cm.
+
+Siehe die Abbildung.
+| 517 Landschaft mit Rindern, Ziegen u. Hirten. Kohlezeichnung mit Weiss gehoht. Bez.:,F. Voltz 1862. Gerahmt.          | Hohe 35, Breite 50 cm.     |
+|-----------------------------------------------------------------------------------------------------------------------|----------------------------|
+| 518 Anspringendes Pferd. Bleistiftzeichnung.                                                                          | Blattgrosse 23,4:25 cm.    |
+| 519 Christus am Kreuz. Bleistiftzeichnung.                                                                            | Blattgrosse 23,7:14,3 cm.  |
+| 520 Erweckung des Lazarus. Bleistiftzeichnung.                                                                        | Blattgrosse 30,5:42,5 cm.  |
+| 521 Gefesselter Krieger. (An einen zerbrochenen Schiffsmast gefesselt.) Bleistiftzeichnung.                           | Blattgrosse 27,5:25 cm.    |
+| 522 Kampfende Krieger. Bleistiftzeichnung.                                                                            | Blattgrosse 25,3:38,5 cm.  |
+| 523 Kain und Abel. Federzeichnung.                                                                                    | Blattgrosse 25:41 cm.      |
+| 524 Krieger mit Gottin im Kriegswagen. Bleistiftzeichnung.                                                            | Blattgrosse 24:39 cm.      |
+| 525 Mythologische Darstellung. (Opferung einer Priesterin,knieend.) Bleistiftzeichnung mit schwedischer Unterschrift. | Blattgrosse 27:40,5 cm.    |
+| 526 Opfer fur Wotan. Bleistiftzeichnung. Eigenhandig signiert:,Wahlbom                                                | Blattgrosse 43:29 cm.      |
+| 527 Pan und Dryape. Bleistiftzeichnung.                                                                               | Blattgrosse 24,4 :31,5 cm. |
+| 528 Stockholm.Ansicht. Bleistiftzeichnung. Mit eigenhand. Widmung. 1842.                                              | Blattgrosse 30,5:43,5 cm.  |
+| 529 Szenen aus der heiligen Schrift u. Mythologie. 4 Blatt. 3 Bleistift- und 1 Federzeichnung. Samtlich signiert.     | Quer-4o, quer-fol. u. fol. |
+| A.WALKER. 530 Gotisches Interieur aus Burg Trausnitz (Oberpfalz). Oelmalerei auf Pappe. Bez.:,A.Walker.Gerahmt.       | Hohe 51, Breite 38,5 cm.   |
+- 531 Handstudien.
+
+Kreidezeichnung in Rotel.
+
+## JEAN ANTOINE WATTEAU,
+
+franzos. Maler u.Kupferstecher,1684—1721.
+
+## HEINRICH THEODOR WEHLE,
+
+schlesischer Maler,1778—1805.
+
+- 532 Landschaft mit Kloster und merkwirdiger Felsbildung im Vordergrunde. Federzeichnung.
+
+## WIENER KUNSTLER.
+
+Siehe unter Nr.224,270271,332,378—379,424430,433-434, 478,480, 486,486a, 533,
+
+542-543.
+
+## GRAFIN RESI WILCZEK,
+
+Wiener Kunstdilettantin.
+
+- 533 Albertus Prinz v. Aremberg. Huftbild in Rustung.
+
+Bleistiftzeichnung (wohl nach van Dyck). Bez.:,J. Resi Wilczek 1843" Blattgrosse 28: 19,5 cm.
+
+## JOHANN GEORG WILLE,
+
+berihmter Maler u.Kupferstecher, Bieberthal (Hessen-Nassau) 1715—Paris 1808.
+
+- 534 Alte Scheune mit Garten u.Gartenmauer. Rotelstiftzeichnung. Bez.:,J. G. Wille 1773
+
+Blattgrosse 20,2:28,5 cm.
+
+- 535 Der Schulmeister am Fenster einen Gansekiel spitzend, im Hintergrunde Schulzimmer mit Kindern. In fensterartiger Umrahmung.
+
+Tuschzeichnung in Sepia.
+
+Vorzigliche Arbeit, wundervoll erhaltenes Blatt.
+
+Siehe die Abbildung.
+
+## LUDWIG WILLROIDER,
+
+Minchen,1845—1910.
+
+- 536 Landschaft bei tribem Wetter.
+
+Oelgemalde auf Leinwand. Bez.:,Lud. Willroider". Gerahmt.
+
+- 537 Ulmen am Wasser.
+
+Oelmalerei auf Pappe. Bez.:,Ludw. Willroider, Gerahmt. Hohe 36,5,Breite 32 cm.
+
+Mit Nachlassstempel auf der Rickseite.
+
+## HEINRICH WINTER,
+
+geb.Frankfurt a/M.1843.
+
+- 538 2 Eel mit zwei Knaben, der eine reitend.
+
+Kreidezeichnung, schwarz mit Rotel.
+
+Blattgrosse 30,3:24,3cm.
+
+Hohe 26, Breite 32 cm.
+
+Blattgrosse 8,6: 14,5 cm.
+
+Blattgr0sse 23:34,5 cm.
+
+Blattgrosse 18,4 : 25,8 cm.
+Siehe unter Nr. 1158 ff.
+
+- 544 Aktstudien u.a.16 Blatt.
+
+## FRANZ XAVER WINTERHALTER,
+
+Bildnismaler, Menzenschwand (Baden)1806-Frankfurt a/M.1873.
+
+539 Brustbild der Herzogin Victorie Auguste Antoinette von Nemours, geb. Prinzessin von Sachsen-
+
+- Coburg-Gotha (1822-1857).
+
+Aquarellzeichnung.1849.Oval. Gerahmt.
+
+Blattgrosse 19,5:15,5 cm.
+
+Firstenmaler Winterhalter hat die charakteristischen Merkmale der koburgischen Familienzige meisterhaft wiedergegeben. Die Prinzessin heiratete den Sohn Ludwig Philipps von Frankreich Ludwig von Orleans, Herzog von Nemours. Ihr Bruder August war mit einer Tochter Ludwig Philipps, der Prinzessin Klementine
+
+Ganz hervorragend feines Portrat der schonen Prinzessin in vorziglichen Farben. Der berihmte
+
+Siehe die Abbildung.=
+
+## TIBERIUS WOCHER,
+
+badischer Maler,1728—1799.
+
+- 540 Schlafender Bauer von Raubern iberrascht.
+
+Tuschzeichnung.Bez.:,T. Wocher"
+
+## JOSEPH WRIGHT,gen.WRIGHT OF DERBY,
+
+engl. Maler, 1697—1764.
+
+- 541 Junge Sidlanderinnen an einem Steinbrunnen Wasser holend.4 stehen,2 sitzen auf einer Stein-
+- bank neben dem Brunnen.
+
+Feder- u. Aquarellzeichnung in prachtigen Farben.
+
+Wundervolle, farbenreiche Arbeit des geschatzten Kiinstlers.
+
+Siehe die Abbildung.
+
+## ANTON ZAMPIS,
+
+W.ener Maler,1820—1883.
+
+- 542 Furst Trautmannsdorf auf seinem Selbstfahrer mit zwei prachtigen Schimmeln.
+
+Aquarell und Deckfarbenmalerei in herrlichen Farben, um 1850.
+
+Siehe die Abbildung.
+
+- 543 ,Pepi Biedermann. Sportsman." 1850. Zu Pferde. Karrikatur. Bleistiftzeichnung,leicht aquarelliert.1854.
+
+Ausserst humoristische Arbeit, von feinster Ausfuihrung.
+
+Siehe die Abbildung.
+
+## CARL LUDWIG ZEHENDER,
+
+schweizer Maler.
+
+## ALEXANDER ZICK,
+
+Bildhauer u. Maler,geb. Coblenz 1845.
+
+Kreidezeichnungen, z. Teil mit Weiss gehoht, manche auf braunem, grinem oder blauem Papier. Samt lich signiert. Verschiedene Formate.
+
+Sehr interessante,hervorragend gearbeitete Blatter.
+
+Blattgrosse 25:20 cm.
+
+Blattgrosse 25:20 cm.
+
+Blattgrosse 39,5:28 cm.
+
+Blattgrosse 30,5:21,5 cm.
+11- me
+
+ft le
+
+545 Initialen.4 Blatt.
+
+Tusch-u. Federzeichnungen.
+
+Die Buchstaben A, D, G u.O mit den Portrats Rubens,Tily’s,eines Monches u. eines kleinen nackten
+
+## ANTONIO ZUCCHI,
+
+ital.Maler,Gatte der Angelika Kauffmann,1726-1795.
+
+- 546 Fischer und tanzende Paare.2 Blatt. Federzeichnungen.
+
+Blattgrossen je 19:42 cm.
+
+Knaben darin.
+
+80.
+## 'II
+
+## KUPFERSTICHE.
+
+Farbendrucke, Schabkunstblatter etc.
+
+## J.S. AGAR.
+
+- 547 Dudley, Earl of Harrowby, Huftbild im Pelz. J. Philipp p. J. Wright del. Punktiert. Braundruck. Publ.London 1813.Fol.
+
+## LOUIS JEAN ALLAIS,
+
+franzos.Stecher,1762—1833.
+
+- 548 La preuve virginale.(Zwei jungeVestalinnen,ine sitzend,betrachten sich in iner Schale mit Wasser) Aquatintablatt mit Radierung. Boquet pinx. A Paris chez Bance. Fol. Breitrandig. Ganz hervorragender Abdruck, brillantes Exemplar von allerbester Qualitat.
+
+## F.BARTOLOZZI.
+
+- 549 [Mrs. Baldwin.] A Portrait of a Lady in a Grecian Dress. — Ganze Figur in griech. Kostim, tanzend u.Tamburin schlagend. Rd.Cosway del. Rot-braun.London 1782. Folio.
+- 550 Charlotte Augusta, Princess Royal von England (Tochter Konigs Georg IV.), spat. Konigin von Belgien; 17961817. Als einjahriges Baby schlafend im Himmelbett. Zu Fuissen ein Lowe. R. Cosway del. Punktiert.In Farben gedruckt.Publ. London 1797.Folio.
+- 551 Lady Elizabeth Foster, Duchess of Devonshire. Huftbild. Sir Joshua Reynolds p. Punktiert. Braundruck.Publ. London 1787.Fol. Breitrandig.
+- 552 Mr.Henderson,in the character of Lago.Brustbild in Oval. Stuart del. Punktiert. Brauindruck. Klein-fol. Breitrandig..
+
+Vorzigliches Exemplar, sehr schoner Abdruck, fast unbeschnitten.
+
+- 553 Le Comte de Lusi. Ganze Figur. Punktiermanier u. Radierung. Abdruck in braun. Folio.
+- 554 Marlborough, George,4. Duke of;17661840.Brustbild.Oval. J. Ogborne sc.Punktiert.Abdruck in braun. Publ. London 1795. Folio.
+- 555 Miss Wallis,beruhmte Schauspielerin u. Sangerin. Ganze Figur im Park von Bath, im Hintergrunde die Stadt.Original-Kupferstich in Punktiermanier u. Radierung.Vor a1ler Schrift. 1795. Gross-fol. Mit Rand.
+
+Sehr feines engl. Damenbiidnis in prachtigem Abdruck vor aller Schrift.
+
+Siehe die Abbildung.
+
+- 556 Bacchanalian Nymph. Kniebild eines jungen Madchens, sitzend, mit Tamburin: Oval.A. Kauff-
+- mann pinx.Punktiert.London. Publ. 1784. Klein-fol. Breitrandig.
+
+Schoner Abdruck, guterhaltenes Exemplar.
+k.
+
+)
+
+pu on
+
+S- n1-
+
+k
+
+le
+
+5.
+
+-
+
+- sitzend. 2 Blatt. Gegensticke: G. B. Cipriani inv. Punktiermanier u. Radierung. Braundrucke. Publ. London 1782. Folio. Breitrandig.
+- eine kleine Katze haltend. Sir Joshua Reynolds p. Punktiermanier. Braundruck. Publ. London
+- 1787,by W. Dickinson. Folio.
+
+Hamilton p. 148. Sehr niedliches Kinderbildnis in anmutiger Pose.
+
+- 559 Parental affection. Elternpaar mit Kindern vor dem Haus am Tisch sitzend u. essend. W. Hamil-
+- ton p.Punktiert.Publ. London 1795. Fol.
+- 560 The sitting of the Council of Five Hundred at St. Cloud to whom Bonaparte having presented himself, he dissolved, Nov. 10th. 1799. — (Napoleon I. lasst im Sitzungssaal der Funfhundert zu St.Cloud die Deputierten durch seine Grenadiere mit gefalltem Bajonett vertreiben.) F. Vieira Portuensis inv.Punktiermanier u.Aquatinta. In Farben gedruckt und altkoloriert. Publ. London Sept.1,1800, by Messrs.Bartolozzi &amp; Vendramini. Gr.quer-fol. Selten.
+- 561 The Water Cress Girl.Country Girl going Reaping. 2 Blatt. F. Wheatley del.Punktiert. Braundrucke. London, Publ. 1796 and 1797. Fol. Breitrandig. Prachtexemplare. Vorzigliche Abdricke,das zweite Blatt vor der Unterschrift.
+
+## P.A.BAUDOUIN.
+
+- 562 Le lever. J. Massard sc. 1771. Avec Privilege du Roi. Fol.
+- Schoner franzos. Kupferstich in einem guten Abdruck. Galante Darstellung. Ohne Rand.
+- 563 La toilette. N. Ponce sc. 1771.Avec Privilege du Roi. Fol.
+- Schoner franzos. Kupferstich. Galante Darstellung.Vorziglicher Abdruck, ohne Rand.
+
+## J.F.BAUSE.
+
+- 564 Johan Peter Uz. Brustbild in alteren Jahren. J. F. Bause sc. 1776. 4. Mit Rand.—Keil 198.
+- Schones Exemplar.
+
+## DANIEL BERGER,
+
+## Berlin,1744-1824.
+
+- 565 Friedrich Wilhelm von Seydlitz, preuss. General der Kavallerie. Ganze Figur in Uniform: Denkmal
+- in Berlin von Tassaert. J. C. Frisch del. Radierung. 1781. Gross-fol. Schones Exemplar.
+- 566,Der allgemeine Frieden durch Gleichgewicht der Tapferkeit, Maerz 1802.Monument mit den Medaillonbildnissen franzos.,russ. u. oesterreich. Feldherrn. Mit allegor. Beiwerk. Aquatintablatt
+- in Sepia.Ludw. Wolff inv. et delin.D. Berger fecit, Berolin.1802.Fol. Breitrandig.
+- 567 Preussens glorreiches erstes Jahrhundert. Obelisk mit 5 Medaillon-Brustbildern (Friedrich 1., Friedrich Wilhelm I.,Friedrich II., Friedrich Wilhelm II., Friedrich Wilhelm III.). F. G.Weitsch
+- inv.et del. Aquatintablatt.Braundruck. Berlin 180o.Fol. Selten.
+## PIETRO BETTELINI,
+
+ital.Kupferstecher,1763-1828.
+
+- 568 Happiness. Kleines Madchen mit Schafchen im Arm. Oval. Original-Radierung. London, Publ.
+- 1788, by Colnaghi. Klein-fol. Mit Rand.
+
+## FR.BOLT,
+
+Berlin.
+
+- (Bildhauer Boy, Bolts Schwager). Original-Radierung. Plattengrosse 4,8 : 5,2 cm.
+- 569 Ein Tobakskollgium.Bolt,aufrecht,der Maler Carstens und Bildhauer Boy,Bolts Schwager, sitzend; alle drei in einem wohnlich eingerichteten Zimmer, aus langen Pfeifen rauchend. Original Radierung. ,J. F. Bolt fecit 1788." Plattengrosse 9,2 : 12,6 cm. -Ein kleines radiertes Portrat
+
+Sehr seltene frihe Arbeiten des Kinstlers, auf einen Bogen gedruckt. Kl.folio.
+
+- 570 Eine Gruppe auf einer Gartenbank. Drei Manner und eine Frauensperson, des Kinstlers Schwester, in Unterhaltung. Original-Radierung. ,J. F. Bolt fec. 1790. Kl.-4°. Mit Plattenrand. Selten.
+- Sehr fein ausgefihrte, frihe Arbeit des Kinstlers.
+- 571 Fikette. Junges Madchen auf einer Bank sitzend, neben sich ein Korbchen, zu Fissen einen Hund.
+- Original-Radierung. ,Fr. Bolt ad viv. fec. in Fr. Buchholtz 1792 u. sc. 1802. Klein-folio. Mit breitem Rande,unbeschnitten. Selten.
+
+Schones Exemplar des reizenden Blattes.
+
+- 572 Visitenkarte fur Madame Schadow. Original-Radierung in rotbraun.J. F. Bolt i. et f. 92." Quer-12. Sehr selten.
+
+Vgl. Walter von Zur Westen, Berlins graphische Gelegenheitskunst.1912. I:Wohl die schonste unter den Boltschen Besuchskarten ist die fir ,Madame Schadow. Hier hat Bolt eine Anmut und Liebenswirdigkeit entfaltet......etc.
+
+- 573 Ein Guckkasten. Zwei Alte und ein Knabe vor dem Kasten, daneben der Guckkastenmann, in der Rechten einen leeren Zettel haltend. Original-Radierung.,Fr. Bolt inv. et sc. 1796.Kleinquer-80.
+
+Erster Zustand des eminent seltenen Blattes, das nach dem Einfigen und Druck von Schillers Gedicht ,Spiel des Lebens als Neujahrswunsch Verwendung fand.Vgl. Geschaftsbriefe Schiller's von Karl Goedeke. Leipzig 1875. Seite 192. Der Verleger Karl Spener in Berlin schreibt dort am 10. Sept. 1796 an Schiler: ,Ew. Wohigeboren iberaus gitige Antwort habe ich erhalten,und ich ermangle nicht, Ihnen fir die darin enthaltene Zusage vorlaufig meinen herzlichsten Dank abzustatten. Der Guckkastenmann hat keine eigenthimliche Beziehung, sondern er soll bloss das Medium sein, dem Publikum einen Neujahrswunsch darzubringen. etc. Die Vossische Zeitung vom 27. Dec. 1798 urteilt ginstig iber den Guckkasten und hebt hervor, dass er,zugleich einem unserer besseren Dichter zu einer sinnreichen Strophe Anlass geben hatetc.
+
+- 574 Terpsichore. Titelkupfer zu Schillers Xenienalmanach fuir 1797. Punktierstich in Oval.,Fr. Bolt fec. 1796."Klein-folio. Mit breitem Rande, fast unbeschnitten.
+
+Prachtexemplar des seltenen Stiches.—Vgl. Geschaftsbriefe Schiller's von Karl Goedeke. Leipzig 1875. Seite 192. Carl Spener in Berlin, der Kupferdrucker der Terpsichore, schreibt dort am 10. Sept.1796 an Schiller...... ..Hie beygehend erhalten Ew.Wohlgeboren die ersten Drucke von der Terpsichore;
+
+kleine Anzahl vorlaufig von Hrn. Bolt verlangt haben.etc.
+bl.
+
+er, al-
+
+äat er,
+
+d.
+
+lit te
+
+IS- in
+
+n1- ht
+
+te.
+
+in
+
+T:
+
+11- bt
+
+Ir-
+
+CC.
+
+lt ig
+
+96
+
+e;
+
+ne
+
+- Auschreitungen,die Bolt in sehr drastischer Weise festgehalten hat riginalRadierung.,Fr.ol
+- fec. 97. Schmal-qu.-89. Mit Rand. Sehr selten.
+- Potsdam . . 1805. Ludwig Wolf del. Punktiert. Berlin 1807. Gr.-fol. Breitrandig. Selten.
+- -Siehe ferner unter Nr. 1033.
+
+## L.M.BONNET.
+
+- 577 Knabenkopf mit lockigem Haar, Profil nach rechts. C. Vanloo del. Crayonmanier. Sepiadruck. Folio.
+- Nr.3. Vorziglicher, breitrandiger Abdruck dieser seltenen Erstlingsarbeit von L. M. Bonnet.
+- 578 Venus mit Amor u. Taubchen zur Seite. F. Boucher del. In schwarz u. roter Kreide. Paris 1767. Folio.Nr. 14. Anmutige Darstellung.
+- papier gedruckt. Paris 1768. 4.—Nr. 26 a.
+- 580 Junge Frau stehend.Le Prince del. Kreidemanier. Roteldruck. Folio. Unbeschnitten.—Nr. 69.
+- 581 Romische Ruinen. 2 Blatt. Boucher inv. Radierung u. Crayonmanier. Roteldrucke. Fol. z.T. unbeschnitten.—Nr.121 u.122.
+- 582 Tete de Putiphar. Deshayes del. Crayonmanier, in schwarz u. weiss auf Blaupapier gedruckt. Gr.-fol. Unbeschnitten.
+- Nr. 162. Sehr schone Portratstudie in kinstlerisch voliendeter Kreidemanier,yon einer Original-
+- Handzeichnung kaum zu unterscheiden.-Prachtiger Abdruck mit ganzlich unbeschnittenem Rande.
+- 583 Dame angelnd. Ollivier pinx. Crayonmanier. Rot und schwarz auf weiss Papier gedruckt. A Paris
+- chez Bonnet.Quer-klein-fol.
+- Nr. 17o. Vorzigliches Blatt in mehreren Crayons gedruckt.
+- 584 Madchen mit Rosenknospe am offenen Busen. Le Clerc delin. Kreidemanier in Roteldruck. Paris,
+- chez Bonnet.4o. Schones Exemplar.——Nr.237.
+- 585 Portratstudie. Brustbild eines Knaben mit langem Haar. % Lebensgrosse. Le Clerc delin. Crayon-
+- manier. In rot und schwarz gedruckt. Folio. Breitrandig.
+- Nr. 244.Interessanter Kupferstich in Kreidemanier, die Fleischpartien in Rotel gedruckt, das Ubrige in Schwarzbraun.
+- A Paris chez Bonnet. Gr.-fol.Nr. 840.
+- 587 L'Amant ecoute. Dame mit Galan im Salon. Huet del. Von mehreren Platten rein in Farben gedruckt. Folio. Abdruck von besonderer Farbenpracht.
+
+588 Zwei Kinderkopfe, Knabe u. Madchen. Francois Boucher del. Crayonmanier. Roteldruck. Folio.
+
+## NACH BOUCHER.
+
+- 589 Madchenkopf. Kupferstich in Kreidemanier. Roteldruck. Gr.8.
+
+nung mit Tinte:,F. Boucher"
+
+Vortrefflich gelungene Nachahmung einer franzos. Kreidezeichnung. Von alter Hand die Bezeich-
+
+## H.BUNBURY.
+
+- 590 Going to market.(Zwei Frauen mit Korben.) Gegenstick. (Junge Frau auf einer Bank sitzend, einem herbeieilenden Knaben eine Weintraube zeigend.) Im Oval. 2 Blatt. Punktiert: H. Haughton u. G. Shepheard sc. London, Publ. 1790, by W. Dickinson. Fol.
+
+Zwei ganz hervorragende Abdricke, Blatt 2 vor der Unterschrift. Vorziglich erhaltene Exemplare ohne Plattenrand, sonst aber hervorragende Qualitat.
+
+## THOMAS BURKE.
+
+- 591 Her Majesty Queen Charlotte raising the Genius of the Fine Arts. Angelica Kauffmann pinxt. Schabkunstblatt.Publ.London 1772. Fol.
+
+Siehe die Abbildung.
+
+## ANTHONY CARDON.
+
+- 592 A Son of Mr. Jekyll. —Ein hubscher kl. Knabe auf einem Schubkarren sitzend. W. Lodder del. Anthony Cardon sc.Punktiert. Braundruck. Publ. London 1805.Kl.-fol.
+
+Entzickendes Kinderbildnis von schonster dekorativer Wirkung.
+
+## ANTOINE CARREE,
+
+- 593 Brustbild eines lachenden jungen Madchens. P. A. Wille fil. del. Crayonmanier. Roteldruck. Fol.
+
+Schiler von Janinet, Paris um 1781—90.
+
+- Nr. 1.Brillanter Abdruck mit breitem Rand.
+ckt.
+
+olio.
+
+ich- ube
+
+by lare
+
+ab- lel.
+
+Fol.
+
+## D.CHODOWIECKI.
+
+- et fils. Quer-4. Mit Rand. ——E. 48, Copie 6.
+- 595 12 Blatter zu Cervantes' Don Quixote. 12. Je zwei unzerschnitten. —- E. 58, 1. Selten. Schone Exemplare,vor der Unterschrift.
+- 596 Die Gleichheit aller Stande im Grabe. Quer-kl.-fol. —E. 60.
+- 597 Cabinet d'un peintre. Das Familienbild des Kuinstlers. Quer-kl.-fol. Mit Rand. - E. 75. Sehr selten.
+
+Schones Exemplar mit Rand, guter Abdruck.
+
+- 597a Premier promenade de Berlin. La place des Tentes au Parc. Die Zelte im Berliner Tiergarten. Quer-fol. Mit Rand.—E, 83. Sehr selten.
+- 598 1.5. Blatt zu Nicolai's Sebaldus Nothanker. 1. Band. Erste Auflage. 8o. Zum Teil beschnitten. E.921,93,11,94-96,1.
+- und weibliche Brustbilder in Profil. Quer-8o. Mit Rand.—E. 114.Ausserst selten.
+- 600 Titel-Vignette zu Nicolai's Freuden des jungen Werther.12o. Beschnitten. —E. 120,1.
+- 601 1. u. 2. Blatt zu Cervantes′ Don Quixote. 1. 2. Theil. 8°.——E. 147148, 1.
+- 603 Titel-Vignette zu Goethe's Werther,trad.de PAllemand:Lotte wird von Werther zum Ball abgeholt. Quer-120.E. 151. Sehr selten. Eines der reizendsten Blatter des Meisters in einem schonen Exemplar.
+- 604 12 Blatter zu Goldsmith’s Landpriester von Wakefield. 12.—E.159, I1l.
+- 605 12 Blatter zu Gellert's Fabeln. 12.—E. 160, 11. Selten.
+- 606 3.5. Blatt zu Cervantes′ Don Quixote, 4. 5. 6.Theil. 8.—E.169—171.
+- 607 12 Blatter. Der Fortgang der Tugend und des Lasters. 12. Je 2 Blatt unzerschnitten. —— E. 188, 1. Selten.
+
+Schone Exemplare, vorzigliche Abdriicke.
+
+- 608 8 Blatter zu Buirger's Gedichten. Erste Ausgabe. 8°. —— E. 232—239, 1. Sehr selten. Schone Exemplare, vorzigliche Abdricke.
+- 609 12 Blatter zu Shakespeare's Hamlet. 12°. Beschnitten.—E.252. Selten.
+- 610 12 Blatter. Natirliche und affectirte Handlungen des Lebens, erste Folge. 12. Beschnitten. E.256,11.
+- 611 1.—2. Blatt zu der Phil. Gatterer Gedichte. (Erster Theil.) 8. E. 264 265, 1I.
+- 612 5.8. Blatt zu Le Sage's Gil Blas. 8° u. quer-12. E. 285-288, 1. Schone Exemplare.
+- 613 9.—12. Blatt zu Le Sage's Gil Blas. 8° u. quer-120.—E. 313-316, I1.
+- 614 12 Blatter.Natuirliche und affectirte Handlungen des Lebens, zweite Folge. 12.E. 319.
+- 615 Die Wallfahrt nach Frantzosch Bucholz. Der bekannte Familienzug: Frau mit Kindern und Esel etc. Radierung.Quer-4.Breitrandig.—E.337. Prachtexemplar,vorziglicher Abdruck.
+- 616 1. u. 2. Blatt zu Lichtenberg's Vorschlag zu einem Orbis pictus. (Mannliche Bedienten.) 8. Mit Rand.—E.342-343.
+- 617 12 Blatter Heirathsantrage. Erste Folge. 120.Unzerschnitten. Breitrandig.—E. 345, I1.
+- 618 12 Blatter Hochzeits-Gebrauche bei verschiedenen Volkern. 12. Beschnitten.—E. 356,I1.
+- 619 Titel-Vignette zu Cramer's Unterhaltungen. Quer-12. Breitrandig.—E.376. Schones Exemplar.
+- 620 Titel-Vignette zu Pestalozzi's Lienhard u. Gertrud.12o. Mit Rand.—E. 381.
+- 622 12 Blatter zu Huon de Bordeaux par le Comte de Tressan. 12.—E. 439,II.
+- 623 12 Blatter zum Centifolium Stultorum,Narrheiten.120.—E.440,1I.
+- 624 12 Blatter zu Pestalozzi's Lienhard und Gertrud; franz. Ubersetzung. 8°.—E. 444 455.
+- 625 12 Blatter zu Yorik's (Sterne's) empfindsame Reisen. (1783). 120. Je 2 Blatt unzerschnitten. E.464,11.
+- 626 12 Blatter zu Le Sage, Gilblas de Santillane.120. Unzerschnitten.—E.482, IV.. Selten.
+- E.539,111.
+- 628 12 Blatter zu Schiller's Cabale und Liebe. 12. Unzerschnitten. Breitrandig. Schones Exemplar.— E.541,I1.
+C.
+
+it
+
+- 80.—E.582,111.
+- 631 12 Blatter: Beweggruinde zum Heirathen und ihre Folgen. 12. —E. 598, 1ll. Es fehlt Blatt 12.
+- 632 12 Blatter zu Blumauer's Aeneide. 12. Breitrandig. —— E. 611, 11. Schone, breitrandige Exemplare, vorzigliche Abdricke.
+- 633 12 Blatter: der Todtentanz. 12. —— E. 662, 11. Sehr selten.
+- 634 6 Blatter zu Blumauer's Aeneide. 12. —E. 689, 11, 2.
+- 635 Das Gehirn eines Kunstlers. Quer-12. Breitrandig.—E. 696,I b. Prachtiges Exemplar.
+- 636 Zwei Blatter zu Ehrenberg's Taschenbuch fir 1796. 8. Breitrandig.Von der unzerschnittenen
+- Platte.E. 777—778, I a.Mit Einfallen.
+- 637 Vier Blatter zu Carl Lang’s Almanach fuir 1797. 8°. Teils breitrandig. ——E. 789, I c; 790, 11;791, I c;
+- 792,Ic.
+- 638 4 Blatter zu Carl Lang's Almanach fir 1798.8°.—E. 847—850,III.
+- 639 9.—16. Blatt zur Geschichte der Bartholomausnacht.(Schluss).12o. Abdruck von der unzerschnit-
+- tenen Platte. Breitrandig.—E. 920 a, II, a. Sehr selten. Mit Einfallen.
+
+Schones Exemplar, Abdruck von der unzerschnittenen Platte,mit den Einfallen.
+
+- 640 4 einzelne Blatt. 8°.—Aus E. 602, 843 u.unbekannt.
+- 641 D a nie1 C h o d o wie c ki. Huftbild sitzend, die Brille in den Handen. A. Graff p. Fr. Arnold sc. Kl.-fol. Breitrandig. Schones Exemplar.
+
+Original-Zeichnungen von Chodowiecki siehe in Abt. 1l, Nr.240—245.
+
+## LAMBERT ANT.CLAESSENS,
+
+beriihmter holland.Kupferstecher,Schiler von Bartolozzi,1764—1834.
+
+- pinx.Punktiermanier. Fol. Mit Rand.
+- 642 Aspettare e. &amp; prbi di renevoni. Frauengestalt mit Hut zum Fenster hinausschauend. L. B. Coclers
+
+Am unteren Rand ohne Plattenrand, sonst schones Exemplar, guter Abdruck.
+
+## CONVOLUT.
+
+- 643 Ca. 100 verschiedene Portrats. Kupferstiche, Radierungen, Lithographien etc. 17.19. Jahrh.
+- Verschiedene Formate.
+
+Vertreten sind verschiedene Firsten (Hohenzollern, andere deutsche Firsten, ausserdeutsche), Feld- herrn, Politiker,Dichter, Gelehrte und Kinstler. Sehr reichhaltige Sammlung.
+- 643a 43 Familien- u. Adelsportrats. Kupferstiche, Radierungen, Lithographien. 17.—19. Jahrh. Ver-
+- schiedene Formate.
+
+Vertreten sind Firsten, Feldherrn, Gelehrte, Literaten etc. Reichhaltige Sammlung.
+
+643b 10 Stiche,Radierungen,Lithographien etc. (Landschaften,Portrats etc.) Verschiedene Formate.
+
+## P.CH.COQUERET.
+
+## JULES DAVID,
+
+## berihmter franzos.Lithograph,1808—1892.
+
+- 645 Sagesse et inconduite. Album moral representant en action les suites de la bonne et mauvaise conduite chez les femmes. 12 sujets. Composes et lithographies par J. D.12 Original-Lithographien
+- in Orig.-Umschlag. Quer-gross-fol.
+
+Prachtvolle Folge von ausserst fein gearbeiteten Blattern, mit reicher, ornamentaler Umrahmung.
+
+## G.DAWE.
+
+- 646 Miss O'Neill as Juliet.Halbfigur. F. C. Lewis sc. Kreidemanier u.Aquatinta. London, Publ. 1816. Gross-fol.Breitrandig.——,Proof"
+
+## JOHN DEAN.
+
+- 647 Mrs. Martyr,the Inchantress in the Pantomime Omai. Halbfigur im Oval. M. Brown p. Schabkunstblatt.Publ.(London) 1786.Folio.Breitrandig.
+
+## L.PH.DEBUCOURT,
+
+## 1755-1832.
+
+- 648 Jouis,tendre mere.(Madame Debucourt mit ihrem Sohnchen.) Original-Aquatintablatt.Brillanter Abdruck vor der Unterschrift. Folio.
+
+## G.DEMARTEAU.
+
+- 649 Madchenkopfe. Boucher fec. Crayonmanier. Abdruck in schwarz. C.P. R. Folio.—Nr.14.
+- 650 Kopf der Jungfrau Maria. Boucher f. Crayonmanier. Roteldruck.C. P. R. Folio.
+- Nr.26. Brillanter Abdruck.
+- 651 Madchenbildnis.F. Boucher del. Crayonmanier.Roteldruck. Fol. Nr. 49.Entzickende Frauenportratstudie.
+- 652 Knabenkopf. F. Boucher inv. del. Crayonmanier. Roteldruck. Fol. Unbeschnitten. Nr.115. ,Tire du Cabinet de Monsieur Bergeret"
+- 653 Allegorie sur la mort du Dauphin pere du roi. Crayonmanier. C. N. Cochin filius inv. et del. Klein-fol. —Nr.141.
+- Selten.
+er- te.
+
+ol.
+
+n- en
+
+1g.
+
+6.
+
+b- er
+
+ol.
+
+- Roteldruck.Kl.-quer-fol.—Nr.213.
+- 655 Ein kleiner Engel auf Draperien. Mit rot gedruckter Umrahmung. F. Boucher f. Crayonmanier. In Farben gedruckt. (Rot und schwarz auf weiss.) Quer-fol.
+
+Nr. 219. ,Quatorzieme Estampe a plusieurs Crayons, tiree du Cabinet de Monsieur de la Haye, a Paris ches Demarteau Graveur du Roi ...
+
+Brillanter Abdruck dieser sehr schonen graphischen Pastellimitation, in Farben gedruckt und mit der ebenfalls in rot gedruckten Umrahmung.
+
+- 656 Mausolee. F. Boucher f. Crayonmanier. Roteldruck. Fol. Breitrandig, unbeschnitten. Nr.235.Vorziglicher Abdruck.
+- 657 Amoretten mit dem Wagen und den Tauben der Venus spielend. (Boucher del.) Crayonmanier.
+- Roteldruck.(1772.) Schmal quer-fol.-Nr.358,1.
+- 658 Brustbild eines jungen Madchens mit schwarzem Haar u. weiss-rotem Kopftuch. Lebensgross. Profil nach rechts. Vincent del. 1780. Grave par Demarteau, en 1786. Kreidemanier, brillant in
+- rot u. schwarz gedruckt. A Paris chez Demarteau. Gross-fol. Breitrandig.
+
+Nr. 648. Vorziglich in Farben,etwas wasserfleckig u.wurmstichig am rechten Rand.
+
+- 659 Frauenbrustbild. En face. Kopf nach rechts unten geneigt. Fast lebensgross. Vincent del. Kreide-
+- manier, rot u.schwarz gedruckt.1788.Mit blauem Rand.Gross-fol.
+
+Nr. 662. Vorziglich in Farben. Wohlerhaltenes Exemplar.
+
+- 660 Frauenbrustbild. Fast lebensgross. Vincent del.1782. Kreidemanier, rot u. schwarz gedruckt.1788.
+- A Paris chez Demarteau.Gross-fol. Mit blauem Rand.
+
+Nr. 663. Vorziglich in Farben, wohlerhaltenes Exemplar.
+
+## FRANCOIS DEQUEVAUVILLER, franz.Kupferstecher,1745—1807.
+
+- 661 Vue de 1Adige. (Partie an der Etsch.) —Vue de Landeck. 2 Blatt oesterreich. Landschaftsbilder. Radierungen. Brandt le fils pinx. Quer-fol.
+
+## P.DREVET.
+
+- 662 August Il., der Starke, Konig von Polen. Huftbild in Rustung. Fr. de Troys p. Fol. Sehr selten.
+- Les Drevets,107I.
+
+## ANT.JEAN DUCLOS.
+
+- 663 La Reine annoncant a Mme de Bellegarde, des Juges, et la liberte de son mari; en mai 1777. Com-
+- pose et dessine au pastel par Dessosses. Grave a Paris en 1779. Quer-fol. Mit Rand.
+
+Vorziglicher Abdruck, wohlerhaltenes Exemplar dieses historisch u. kostimlich hochinteressanten
+
+Blattes.
+
+## JEAN DUPLESSIS-BERTAUX,
+
+## Radierer,1747—1813.
+
+- 664 Volksszene aus der Zeit der Revolution: Tanz des Bauernvolks vor der Freiheitsstatue. Radierung.
+1795. P. A. Wille fil. inv. et del. 1794. Gross-quer-fol. Vor der Schrift. Selten u. interessant.
+- lith.Fol. Gerahmt.
+
+## RICH.EARLOM.
+
+- 665 The larder. (Tafel mit allerlei Wildpret, dahinter Mann einen Hasen hochhaltend.) Martin de Vos pinx. Schabkunstblatt. Publ. 1775 by Boydell, London. Gross-quer-fol.
+
+Vorziglicher Abdruck,wohlerhaltenes Exemplar mit breitem Rand.
+
+## JOHANN NEPOMUK ENDER,
+
+Wiener Bildnismaler,1763-1854.
+
+- 666 Dorothea Prinzessin von Kurland. Huftbild mit Spitzenhut und Spitzenmantille, sitzend. Melegh
+
+## FARBSTICHE.
+
+- 667 4 Szenen aus dem Leben der Heiligen Genoveva von Brabant. 4 Blatt Farbstiche. Punktiert. Ovale. A Paris, chez Basset. Klein-fol.
+
+Genoveva erhalt den Brief ihres Gatten, der sie verstosst.—G. rettet ihr Kind vor dem Tode.-
+
+G. lasst ihr Kind durch eine Hirschkuh saugen.—G. wird von ihrem Gatten im Walde entdeckt.
+
+## FR.FIESINGER.
+
+- 668 Stanislas Cte. de Clermont-Tonnerre,Prasident der National-Versammlung. (1747-1792.) Brustbild
+- im Oval. J. Guerin del. Punktiert. Braundruck. 4o.Breitrandig.
+
+## JOHN FINLAYSON.
+
+- 669 Miss Metcalfe. Kleines Madchen mit Hund. N. Hone p. Schabkunstblatt. Publ. 1772, (London). Gross-folio.Breitrandig. Selten.
+
+## J. C. FRANCOIS.
+
+670 Madonna. Crayonmanier. Roteldruck. C. P. R. A Paris ches Demarteau. Fol. Der Kupferstich tragt eine grosse,bisher unbekannt gebliebene Inschrift,welche fast unsichtbar ganz unten in die Umrahmung eingefigt ist und von der kinstlerischen Mitarbeiterschaft der Konigin an der Vorlage zu diesem Kupferstich handelt etc. ,Dessinee ..... par Marie Leszcinska ....... du Roy de Pologne, Duc de Lorraine et de Bar."
+
+## SIGM.FREUDENBERGER.
+
+- S.Freudeberg del. P. Maleuvre sculp.1774.A Paris ches Buldet.Fol.
+- 671 Leboudoir. Dame in ihrem Boudoir auf dem Sofa sitzend, links auf einer Fussbank ein Musikinstrument und Noten, hinter der geoffneten Balkontire Dame u. Herr stehend,J. H. E.inv.
+
+Prachtiger Abdruck mit Nummer (7),vorzigliches Exemplar.
+
+Siehe ferner in Abteilung VI unter Nr.1150—1153.
+
+## J. GODBY.
+
+- 672 His Royal Highness the Duke of Cambridge. Brustbild. Fr. Rechberg p. Punktiert.Fol. Breitrandig.
+
+## ANT. GRAFF.
+
+- 673 Bildnis des Joh. Georg Sulzer,Professor in Berlin. Orig.-Radierung. 4.Breitrandig. Selten.
+OS
+
+ch
+
+d
+
+ar
+
+1
+
+u
+
+## LUDW.EMIL GRIMM.
+
+- Radierung. Cassel. ,29. Nov. 1838 ad viv." Fol. Sehr selten.
+
+Stoll 25. Wessely 32. Schones Exemplar mit Rand.
+
+- selten. Stoll 54. Wessely 35.
+- 677 Ernst August Rumann, Chef des Hannov. Justiz-Depart. Brustbild im Oval. Orig.-Radierung. ,ad vivum Hanover den 22. Mai 1827". Fol. Breitrandig, unbeschnitten. Sehr selten.
+- Stoll 76. Wessely 72. Prachtexemplar, auf dinnem Papier.
+- Radierung. 4.Breitrandig.
+
+Stoll 141.Wessely 144.
+
+- 679 Das junge Madchen mit dem Stieglitz. (Grimms 4jahr. Tochter Friderike spatere von Eschwege). Halbfigur. Orig.-Radierung. ,ad viv. Cassel 1837 d. 18. Dec. 40. Stoll 143. Wessely 121.
+- 680 Marchenfrau aus Nieder-Zwern. Huftbild. Orig.-Radierung. gez. den 30. Aug. 1814.in Cassel Quer-40.Breitrandig.—A.90.
+
+## FRIEDRICH KARL GROEGER,
+
+Hamburger Bildnismaler u.Lithograph,1766-1838.
+
+- 681 Huftbild des Hamburger Pastors an der Michaelskirche Joh. Jac.Rambach. Getonte Lithographie.
+- Auf Stein gez. von Groger. In der privil. Hamb. Steindruckerey. Fol.
+
+Frihe hamburger Lithographie.
+
+## MENO HAAS.
+
+- 682 Friedrich der Grosse Konig von Preussen. Ganze Figur in Uniform, im Park auf einem Schimmel
+- reitend.Im Hintergrunde Schloss Sanssouci. L.Wolf del.Berlin 1808. Imperial-fol.
+
+Vorziglicher Abdruck. Sehr fein ausgefihrtes und besonders gut profiliertes Portrat von dekorativer
+
+## HARPER,
+
+engl. Maler.
+
+- 683 Day. —Night. 2 Schabkunstblatter. Arnold u. Dawe sc. London, Publ. 1828. Klein-fol. Breitrandig.
+- Vorzigliche Exemplare, prachtvolle Abdricke, das erste Blatt auf China.
+
+## FRANCIS HAWARD,
+
+London 1759-97.
+
+684 Clio. Oval. W. Hamilton p. Punktiert. Roteldruck. Publ. London 1782. Kl.-fol. Breitrandig.
+
+Wirkung.
+685 Urania. Oval. W. Hamilton p. Punktiermanier. Roteldruck. Publ. London 1782. Kl.-fol. Breitrandig.
+
+## J.ST.HELMAN.
+
+686 Le charlatan allemand.—Le charlatan francois. 2 Blatt Radierungen. Dess. par Bertaux en 1776.
+
+Grave par Helman en 1777. Fol. Mit Rand.
+
+2 reizende Blatter mit reicher, hochinteressanter figirlicher Staffage.
+
+Siehe die Abbildungen.
+
+## ANTON HICKEL.
+
+- 687 Princess of Lamballe. Ganze Figur vor einem Schreibtisch sitzend. Schabkunstblatt. Peint d’apres
+- nature a Paris en 1789. S. Malgo sculp.London, Publ. 1793. Fol. Ohne Rand.
+
+## C.H.HODGES.
+
+- 688 A good Eoy.Halbfigur eines Knaben, gegen einen Tisch gelehnt und in einem Buch lesend. C. Borck-
+- hardt p. Schabkunstblatt. Publ. London 1786, by J. R. Smith. Folio.
+
+## J.HOPPNER.
+
+- 689 The Show. Lady Duncannon und ihre Kinder bei einem Guckkastenmann. J. Young sc. Schab-
+- kunstblatt.Publ.London 1792. Gross-fol.
+
+## RICH.HOUSTON.
+
+- 690 Princess Charlotte (Sophie) of Mecklenburg-Strelitz. Huftbild in Oval mit viereckiger Umrahmung. Schabkunstblatt.Done from a Miniature Picture by R.Houston 1761.Fol.
+
+Vorziglicher Abdruck, wohlerhaltenes Exemplar dieses seltenen Portrats der Prinzessin Charlotte
+
+Sophie, der Gemahlin Georg Ill. von England.
+
+- 691 Pamela. Huftbild einer jungen Dame auf einer Terrasse. G.Van der Myn pinx. Schabkunstblatt. Fol. Mit Rand.
+
+Schones Exemplar,vorziglicher Abdruck.
+
+## RICH.HOUSTON u.R.SAYER.
+
+- 692 Schmiede.3 Personen um einen Ambos stehend.Schabkunstblatt,rein in Farben gedruckt.Painted
+- by E.Penny.London,Publ. 1771. Fol.
+
+Prachtiger Farbdruck von Qualitat, ohne Rand.
+
+## J.B.HUET.
+
+- 693 Madchenkopf. Augustin Le Grand sc. Kreidezeichnungsstich.Roteldruck. A Paris chez Bonnet. Gr.-folio.
+- 694 Vue de linterieur d’une ferme. Jubier sc. In schwarzer Kreidemanier. A Paris chez Bonnet.
+- Kl.-quer-fol.
+
+## F.JANINET.
+
+- 695 Henri IV.a 1assemblee des notables, tenue a Rouen, en 1596. Bertaux inv.et del. Aquatintablatt,
+- rein in Farben gedruckt. Klein-fol.
+S
+
+te t.
+
+pa t.
+
+et.
+
+tt,
+
+## J.JONES.
+
+- Degen und Federhut in der Linken. M. Shee p. Schabkunstblatt. Publ. 1782. Gross-fol. Breitrandig.——Vor der Unterschrift.
+
+Vorziglicher Abdruck, mit den Kinstlernamen auf dem geschabten Rand der Platte.
+
+## ANT.KARCHER.
+
+697 Franz Graf Algarotti, ital. Philosoph. Buste im Oval. Punktiert. Manh. 1796. 80.
+
+## ANGELIKA KAUFFMANN.
+
+- 698 Cupid and Ganymede. A Flower painted by Varelst. 2 Blatt Rundbilder. Gegensticke. Thomas Burke sc. Punktiert. Publ. London 1784. Folio.
+
+Zwei entzickende engl. Kupferstiche, die sich ganz besonders als dekorativer Wandschmuck eignen. wahrend die Gottin Flora auf einer Wolke vor ihm erscheint und eigenhandig eine Blume i. d. Malerei vollendet.
+
+- 699 A nymph sacrificing.P. Bettelini sculp. Punktiert. Braundruck. Quer-kl.-fol. Beschnitten.
+- 700 Poetry. Oval. T. Ryder sc. Punktiermanier. Sepiadruck. Publ.London 1784,by S. Watts. Folio. Unbeschnitten.
+
+## JOSEF KRIEHUBER,
+
+Wiener Zeichner, Maler u.Lithograph,1801—1876.
+
+- 701 Catherine Friederike Wilhelmine Benigna,Prinzessin von Curland, Herzogin von Sagan. Huftbild en face.Orig.-Lithographie. Bez.:,Kriehuber 1841."Auf China. Fol. Gerahmt. Selten.
+- 702 Johanna Herzogin Acerenza Pignatelli, geb. Prinzessin von Curland. Brustbild. Schrozberg pinx.
+- Lithographie. ,Kriehuber del. (18)40." Auf China. Fol. Gerahmt. Selten.
+
+## FRANZ KRUGER.
+
+- 703 Luise, Prinzessin Friedrich der Niederlande, Tochter der Konigin Luise; 18081870. Huftbild sitzend.Orig.-Lithographie. 1825. K1.-fol. Vor aller Schrift.
+- 704 Sam. Rosel, Berliner Maler. Brustbild. Orig.-Lithographie. 4°. Vor aller Schrift.
+- 705 C. Timm, Geheimer kgl. preuss. Kimmerer. Brustbild. Orig.-Lithographie. 1826. Fol. Selten.
+- 706 Vier Windhunde bei einem Weidenbaum u. Bretterzaun. Im Hintergrunde Reiter. Orig.-Stich in
+- Kreidemanier.Quer-40.
+
+Siehe ferner unter Nr. 725.
+## SIR THOMAS LAWRENCE.
+
+- by J. Thomson. Punktiert. London Publ. 1827. Imperial-Fol. Breitrandig, fast unbeschnitten.
+
+Prachtblatt. Die Kopfe von ausserster Feinheit.
+
+Siehe dieAbbildung.=
+
+## J.PH.LE BAS.
+
+708 Le negociant. Kaufherr vor seinem Schreibtisch sitzend, neben ihm zwei Herren. Linienstich. J. B.
+
+- Descamps pinx. A Paris chez J. Ph. Le Bas. Fol. Mit Rand. Vorziglicher Abdruck.
+
+Sehr seltene Darstellung.
+
+Siehe die Abbildung.=
+
+## LE GRAND.
+
+- 709 The Tamborine. —The Tingling Cymbal. Kinderfiguren. 2 Bll. Punktiert, rein in Farben gedruckt. Paris, chez Legrand. 80.
+
+Wohlerhaltene reizende Farbstiche.
+
+710 Le premier baiser de Pamour. Fr. Schall pinx. Punktiert. Fol. Abdruck mit offener Schrift.
+
+## N.LE MIRE.
+
+- 711 General Washington. Ganze Figur vor dem Kriegszelt. Mit Staffage. L. Le Paon p. Radierung. Vor der Unterschrift. Fol.
+
+## FRANCOIS LE MOYNE.
+
+712 Venus im Bade. Laurent Cars sc. Folio.
+
+## LOUIS LEMPEREUR,
+
+1728-1807.
+
+- 713 Le jardin d’amour. (Der Liebesgarten.) Rubens pinx. Linienstich. Gross-quer-fol. Mit Rand.
+- Vor aller Schrift.
+
+Das Hauptblatt des Kunstlers in einem ganz hervorragenden Abdruck vor aller Schrift,mit Rand.
+
+Vorziglich erhaltenes Exemplar.
+
+## JEAN CHARLESLEVACHEZ,
+
+franzos.Kupferstecher, Schiler von Daulle u. Beauvarlet, 1734—1804.
+
+- 714 Venus entrant au bain. Venus au bain.  2 Blatt. M. Cosway del. Aquatintablatter in Farben ge-
+- druckt. Klein-fol.
+
+## P. J. LUTZENKIRCHEN,
+
+## Frankfurter Kupferstecher,1775—1820.
+
+- 715 Prof. Dr. Ferd. Franz Wallraff, Kunstschriftsteller, Begrinder des Museums in Koln. Brustbild.
+- Bened.Beckenkamp p. Col.1812. Schabkunstblatt 1816.Fol.
+
+Brillanter, breitrandiger Abdruck.
+ed
+
+B.
+
+t.
+
+g.
+
+Id.
+
+e- d.
+
+- Dorgerloh 20,22,23,34. Danckelmann.
+
+## QUIRIN MARK,
+
+Wiener Kinstler.
+
+- 716 Les petits soldats. L'arquebuser. (Spielende Kinder mit ihren Eltern im Park). 2Blatt. Aquatinta
+- u. Radierung in Braun. Vinz. Gruiner p. a Vienne chez Q. Mark. Klein-fol.
+
+Sehr seltene Blatter mit interessanten Kostuimen.
+
+Siehe die Abbildung.
+
+## A.MENZEL.
+
+- 717 4 Blatt Orig.-Lithographien. (Portraits.) 4°. Breitrandig. Selten. Albrecht Achilles, Joachim Il., Johann Sigismund, Kurfirsten von Brandenburg, Minister von
+- 718 3 Kopfe in einer Reihe. (Alter Jude, greiser Invalide u. junger Mann.) Orig.Radierung, leicht
+- angetuscht. Bez.:,A. Menzel 1843". Quer-kl.-fol. Gerahmt. Sehr selten.
+
+Dorgerloh 1365, 11.
+
+Radier-Versuche:2 Studienblatt,obere Reihe.
+
+- 719 Drei Damen oder ,stille Teilnahme". Radierung. Bez. ,Adolph Menzel 87". Fol. Breitrandig. -
+- Auf Japanpapier.
+
+Dorgerloh 1383, II1.
+
+- Namenszug in Facksimile als Unterschrift. Selten.
+
+## MILITARIA.
+
+- A.BARTSCH u.W.KOBELL.
+- 721 Des Trouppes francoises en Marche. Des Husards francois qui sarretent et causent ensemble.— Zwei Blatt sehr schone Militarkostime. Wilhelm Kobell p.1800. A. Bartsch sc.1802. Radierungen mit Original-Kolorit. Quer-folio. Vorzigliche, breitrandige Abdricke mit handschriftl. Unterschriften. Von grosster Seltenheit.
+
+## BEFREIUNGSKRIEGE.
+
+- 722 Soldat 1813 von Vater u. Braut Abschied nehmend. Aquatintablatt. L. Wolf del. Jigel sc. Ca. 1818.Quer-fol. Breitrandig.
+- 723 Der heilige Bund der Drei fir Europas Freiheit, im Jahre 1813. Ein oesterreich., preuss. u. russ. Soldat vor einem Denkmal mit einem Medaillonbildnis, die Brustbilder der3 verbindeten Herrscher, Kaiser Alexander, Kaiser Franz und Konig Friedrich Wilhelm Ill. Radierung. A. Siegert del. G. Boettger sen. sc. 1814. Kl.-fol. Breitrandig.
+
+## DEBUCOURT.
+
+- stirzend. Aquatintablatt in Sepia.Quer-fol. Ohne Rand.
+## FRANZ KRUGER.
+
+- 725 Koniglich Preussche Garde Dragoner Attake reitend. Original-Lithographie. 1827. Quer-fol.
+
+## MILITARKOSTUME.
+
+- 726 25 Blatt preuss. Militarkostume. Farbige Lithographien. L. Sachse &amp; Co. Berlin 1843. Fol. Mit besonderer Bericksichtigung der damaligen Neuuniformirung und Bewaffnung. Auf vielen Blattern mehrere Truppengattungen vertreten.
+
+## POLNISCHES MILITAR.
+
+- 727 Finis Poloniae. Auszug der vertriebenen Polen aus ihrem Vaterlande in die Verbannung. 1831. Im Vordergrunde General Rybinski zu Pferde, umgeben von trauernden Soldaten mit zerfetzter Fahne. Aquarellmalerei. Ca. 1840. Blattgrosse 33: 39 cm. Unter Glas in schwarzem Rahmen.
+- 728 Wojsko krolestwa polskiego, 18151830. Uniformen der verschiedenen polnischen Regimenter u. mit altem Kolorit.T. Sznlca w Poznaniu. Ca.1840. Quer-gross-fol.
+
+## ED. RABE,
+
+## Berlin.
+
+- 729 Preuss. Militarkostuime.6 Blatt Original-Lithographien mit altem Kolorit.E. Rabe fec. Ca. 1860. Quer-fol. Sehr selten.
+- 1.) Fligel-Adjutanten und General-Stab.
+- 3.) Regiment Garde du Corps.
+- 2.) Generale.
+- 4.) Preuss. Cuirassiere in Feldanzug.
+- 6.) Cadettencorps. Hochinteressante Militarkostime aus den Jahren 1683-1850, ca. 60 verschiedene Figuren auf den
+- 5.) Infanterie (der Linie), Musketiere.
+
+Blattern.
+
+Unter den einzelnen Figuren Jahreszahl der Uniformen, Namen u.Nummer des betreffenden Regiments.
+
+## LUDWIG SEBBERS,
+
+Zeichner u. Hofmaler in Braunschweig, geb.um 1808.
+
+- Garde Curassier Regiment. Rittmeister von der Garde Reserve Armee Gensdarmerie. 4 Blatt Lithographien mit hervorragendem alten Kolorit, v. Dieter, Dahl u. Mateling. Steindr. von Feilgenhauer
+- &amp; Weigel.Ca.1840.Fol.
+
+Ganz hervorragend gearbeitete Militarkostimblatter mit allerfeinstem, alten Kolorit.
+
+Siehe ferner unter Nr. 349, 477,493.
+
+## JEAN MICHEL MOREAU LE JEUNE.
+
+Prachtvoller Abdruck, vorziglich erhaltenes Exemplar. Eines der reizendsten Blatter aus der Folge.
+
+- 731 Les delices de la maternite. Helman sculp. 1777. A. P. D. R. Mit der Zahl Nr. 19. Fol.
+- Breitrandig. Schones Exemplar.
+fol.
+
+elen
+
+31.
+
+ter u.
+
+hie
+
+50.
+
+en ts.
+
+ul
+
+0- er
+
+e.
+
+## GEORGE MORLAND.
+
+- kunstblatt. Wiliam Ward sc. London, Publ. 1814. Gross-quer-fol. Mit Rand.
+
+Prachtblatt. Ganz hervorragender Abdruck von bester Erhaltung.
+
+- Smith sc. Schabkunstblatt von ganz hervorragender Frische. London, Publ. May 1, 1799. Gross-
+- quer-fol. Breitrandig.
+
+Das berihmte Pferdebild nach Morland in unvergleichlich schonem Abdruck mit breitem Rand.
+
+- 734 Cottage family. (Landleute bei der Heimkehr vor ihrem Hauschen.) Schabkunstblat. J. R. Smith sc. London, Publ. 1803. Fol. Mit Rand.
+
+Prachtblatt. Ganz hervorragend schoner Abdruck, vorziglich erhaltenes Exemplar.Reizende Darstellung.
+
+=Siehe die Abbildung.
+
+- 735 Dressing for the masquerade. Bartoloti sc. Punktiermanier. Braundruck. Fol. Mit Rand.
+- 736 The Effects of Youthful Extravagance and Idleness. The Fruits of Early Industry and Economy. 2 Blatt. Schabkunstblatter. W. Ward sc. London, Publ. 1789. Gross-fol. Breitrandig.
+
+als die Erhaltung betrifft.
+
+Prachtexemplare. Ganz hervorragende Blatter von erstklassiger Qualitat, sowohl was den Druck
+
+Siehe die Abbildungen.=
+
+- 737 Shepherd’'s meal. (Schafer unter einem Baum sitzend u. essend). Schabkunstblatt. J. R. Smith sc.
+- London,Publ. 1803.Gross-fol. Mit Rand.
+
+Prachtexemplar. Ganz hervorragender Abdruck,vorziglich erhaltenes Blatt.
+
+=Siehe die Abbildung.
+
+- 738 Slave Trade.——African Hospitality. (Sklavenhandler.-Rettung Weisser durch Neger beim Schiffbruch). 2 Blatt.J. R. Smith sc. Schabkunstblatter in Farben angedruckt. London, Publ. 1791, by J.R. Smith.Quer-gross-fol. Beschnitten.
+
+Vorziglich in Farben erhaltene Blatter. Interessante Gegensticke,mit reicher figirlicher Staffage.
+
+- 739 Stable amusement. (Inneres eines Pferdestalles, zwei Knechte hetzen 2 Hunde aufeinander.) Schab-
+- kunstblatt. W. Ward sc. London, Publ. 1801. Quer-gross-fol. Mit Rand.
+
+Prachtexemplar. Vorziglicher Abdruck, schon erhaltenes Blatt.
+
+- 740 Valentine's day. Schabkunstblatt. Engraved by J. Dean. London, Publ. 1787, by J. Dean. Gross-fol. Prachtexemplar des Original-Stiches.Hervorragender Abdruck,mit breitem Rand,fast unbeschnitten.
+
+## ROBERT NANTEUIL,
+
+## berihmter Kupferstecher,1623-1678.
+
+- 741 Frangois de onne, de Crequy, duc de Lesdiguieres, Pair de FranceBrustbild m Panzer Oval mit viereckiger Umrahmung. Nanteuil ad vivum faciebat 1662. Fol. Breitrandig. Selten.
+- Reizende Darstellung.
+- Linienstiche.Folio.
+
+## J.NORTHCOTE.
+
+- 742 Diligence &amp; Dissipation. I : The modest girl and the wanton fellow servants in a gentleman's house. Gaugain &amp; Hellyer sc. Punktiert. London, Publ. 1796, by T. Gaugain. Quer-fol. Breitrandig. Vorziglicher Abdruck,wohlerhaltenes Exemplar.
+
+## W.NUTTER.
+
+- 743 The cake in danger. Kleines Kind mit Kuchen in der Hand, vor ihr bettelt ein Hund. Painted by
+- J.Russell. Punktiert. Klein-fol. Breitrandig.
+
+## JEAN OUVRIER.
+
+- 744 L'Origine de la Peinture ou les Portraits a la Mode. La Lanterne Magique. 2 Blatt. J. E. Schenau p.
+
+Sehr schone, kraftige Abdricke dieser kostlichen frihen Darstellungen der Silhouettier- und Pro- jektionskunst. Prachtiger Wandschmuck von feinster dekorativer Wirkung.
+
+## W.PETHER.
+
+- 745 Charles James Fox. Brustbild. J. Nollekens mod. Schabkunstblatt. Publ. 1792. Fol. Breitrandig.
+
+## C.PFEIFFER.
+
+- 746 Joh. Gottfried v. Herder. Huiftbild im Lehnstuhl sitzend. J. Tischbein p. Punktiert.Fol. Breitrandig.
+- Prachtvolles Blatt in Punktiermanier, vorziglich erhalten, vor der Verleger-Adresse.
+- 747 Christian Martin Wieland. Kniebild im Garten sitzend, halb nach links, im Alter. F. Tischbein p. Punktiert. Nurnberg 1800. Fol. Breitrandig. Selten.
+
+Prachtblatt mit breitem Rand; vorziglicher Abdruck von bester Erhaltung.
+
+## JOH. PICHLER.
+
+- 748 Leopold Il. Kaiser von Oesterreich; 1747—1792.Brustbild im Oval. J. Hickel p. Schabkunstblatt.
+
+## PITOU,
+
+franzos. Kupferstecher.
+
+- 749 La bonne maman. La bonne nourice. 2 Blatt. Oval. Punktiermanier. In Farben gedruckt. Chovaux del. A Paris chez Bonnet. Klein-fol. Beschnitten.
+
+Kostimlich interessante Blatter, rechts oben mit den Nos. 685 u.686.
+
+## LUDWIGGOTTLIEB PORTMAN,
+
+Kupferstecher, geb. 1772 in Darmstadt, gest.nach 1842 in Holland.
+
+- 750 12 Blatt hollandischer Kostumblatter.Kupferstiche mit feinstem, alten Kolorit nach C. F. Bounach, J. W. Caspari, D. Koning, G. F. J. van Os, Overmann, C. van Slangenburgh u. a. Amsterdam 18047.Klein-fol.Breitrandig.
+
+Mit holland.u. franzos. Unterschrift. Bauern, Stadter, Handelsleute etc. darstellend.
+
+- Ca.1790.Fol.Breitrandig.
+Lse.
+
+by up.
+
+Pro- dig.
+
+dig.
+
+p.
+
+att.
+
+ho- ch,
+
+am
+
+## REMBRANDT HARMENSZVAN RIJN,
+
+holland.Maler u.Radierer,1606—1669.
+
+- ",Rembrandt f. 1636". 49. Mit Rand. Gerahmt.
+
+Vorziglicher Abdruck mit wenigen Stockflecken.
+
+## NACH REMBRANDT.
+
+- randig. Vor aller Schrift.
+
+Prachtiger friher Abdruck,vorziglich erhaltenes Exemplar.
+
+## SAMUEL WILLIAM REYNOLDS,
+
+Maler u.Kupferstecher,1773—1835.
+
+753 Holy family. Painted by Proccacini. Schabkunstblatt. London, Publ. 1823. Klein-fol. Breitrandig.
+
+754 General Mac Gregor. Huftbild in Uniform. J. S. Rochard p. Schabkunstblatt. Fol. Breitrandig.
+
+- 755 General Francisco de Paula Santander,Prasident von Columbien;1792-1840. Halbfigur in Uniform. Schabkunstblatt.London 1824.Fol.Prachtiger Abdruck.
+
+## JOH.ELIAS RIDINGER.
+
+Siehe die Abteilung IV:Ridinger-Sammlung. Nr.811—1016.
+
+## BERNHARDRODE,
+
+berliner Maler u. Radierer.
+
+- 756 Elisabeth Christine, Gemahlin Friedrichs des Grossen im Hinschweben zu den hoheren Regionen. Allegorische Darstellung auf ihren Tod. Radierung. L. S. Ringck fec. 1798. Klein-fol. Selten.
+
+## L. SAILLIAR,
+
+engl. Stecher.
+
+- 757 Georg IV. von England. Brustbild als Prinz von Wales. Oval. Smart p. Punktiert. Braundruck.
+- Publ.London 1785.4.Breitrandig.Selten.
+
+## GOTTFRIEDSCHADOW,
+
+Bildhauer u:Radierer,1764—1850.
+
+- 758 Familiengruppe. Zwei Manner und junge Frau mit nacktem Knaben. Orig.-Radierung. Bez. rechts unten:,Schado. Quer-kl.-4. Breitrandig, unbeschnitten.—Fr. 44.
+
+Vorziglicher Abdruck, wundervolles Exemplar.
+
+759. Festblatt des Aelteren Kinstler-Vereins (Le duc de Roquelaur). Gez. v. Schadow. Radiert v. Stirmer. 1822.Quer-fol.
+
+Hochinteressantes Blatt. Verhohnung der franzos. Kultur, mit interessanten Kostimen.
+## KARL FRIEDRICH SCHINKEL,
+
+## Berliner Baumeister u. Maler,178l—1841.
+
+- in Sepia. Jugel fec. Quer-fol.—Vor aller Schrift.
+
+Wundervolle Darstellung der von Schinkei entworfenen Dekoration. Auch die folgenden Blatter
+
+- 761 Der Sal in dem Trauerspiel. ,Konig Yugurd. Aquatintablatt. Juigel fec. Quer-fol. ——Vor allr
+- Schrift.
+- 762 Schlosshof der Burg Gurneck in dem Schauspiel:,Kathchen von Heilbronn. Aquatintablatt. Jugel fec.Quer-fol.—Vor aller Schrift.
+- 764 6 Blatt Theater-Dekorationen.Aquatintablatter nach Schinkel von Jigel,Dietrich,u.Thiele, tils in Farben gedruckt, teils in Sepia, oder nur teilweise farbig gedruckt. Berlin,bei L.W. Wittich.
+- Quer-fol.2 Blatt vor aller Schrift.
+- 1.) Saal in dem Trauerspiel: Konig Yugurd. 2.) Halle mit der Aussicht auf die Stadt Rheims (Jungfrau von Orleans).3.) Die Vestalin.3.Akt.4.) Tempel der Peruaner (Oper Cortez).5.) Domkirche zu Rheims (Jungfrau von Orleans). Vor aller Schrift. 6.) Gefangnis in dem Trauerspiel: Konig Yugurd.
+- Vor aller Schrift.
+
+## G.F.SCHMIDT.
+
+- 765 Georg Dietlof von Arnim. Kniestick,vor dem Lehnstuhl stehend.Pesne Effig. pinx.1742. G.F. Schmidt sculpt.Berolini 1756. Gross-fol. Breitrandig.—Wessely 3.
+- 766 Anna Louise Karschin, geb. Durbach, Dichterin. Kopf im Profil. Radierung.1763. 8°. —Wessely 29, 11.
+- Umrahmung.Linienstich.Parisis 1743. Fol. Mit Rand. Sehr selten.
+
+Wessely 4l,II. Prachtiger Abdruck mit Rand. Irrtimlich mit Friedrich IIl. bezeichnet.
+
+- 768 Joannes Baptista Rousseau. Ganze Figur vor einem Tisch sitzend. J.Aved p.1738. Kl.-fol. Wessely 95, 1I1.
+- 769 Brustbild eines Knaben, Profil nach links. Boucher del. Kupferstich in Crayonmanier. Petropol. 1759.K1.-fol.
+
+W.133.Brillanter Abdruck in schwarz.Sehr seIten.
+
+## CARLSCHROEDER,
+
+Kupferstecher und Maler, geb. Braunschweig 1761.
+
+- Braunschweig 1791.Fol.Breitrandig,unbeschnitten.
+- 770 Caroline Amalie Elisabeth, Gemahlin Georg's IV.von England;17681821.Huftbild als jugendliche braunschweig. Prinzessin. Original-Radierung und Punktiermanier in 4 Farben gedruckt.
+
+Rarissimum.Entzickendes Portrat, meisterhaft in Farben ausgefuihrt. Prachtiges Exemplar.
+att tter
+
+ler.
+
+ler gel
+
+ift.
+
+eils ch.
+
+ng- che
+
+ird.
+
+F.
+
+'I
+
+ger
+
+0ol.
+
+nd- ckt.
+
+r.
+
+## ADOLF SCHROEDTER,
+
+Maler,Lithograph u. Radierer, Professor in Karlsruhe, 18051875.
+
+- die Rheinlande und Westphalen. 7 Blatt getonte Lithographien. In Orig.-Umschlag. Quer-gros-fol.
+
+## CHRISTIAN GEORG SCHUTZ,
+
+der bekannte Frankfurter Kinstler;j718-1791.
+
+- 772 Rheinlandschaften.Quer-fol.
+
+Schone Abdricke der selten vorkommenden Blatter.
+
+ALOYS SENEFELDER,
+
+Erfinder der Lithographie,1771—1834.
+
+773 General Augereau. Trolli del. Lithographie mit altem Kolorit. Fol.
+
+## H.SINGLETON.
+
+- 774 Lingo and Cowslip. Rundbild. Edm. Scott sc, Punktiert. Braundruck. London, Publ. 1788 Fol. Breitrandig.
+
+Vorziiglicher Abdruck, schones Exemplar.
+
+## JOHNSMITH.
+
+- 775 The Lord (William Ann) Bury als kleines Kind. G. Kneller p. Schabkunstblatt. Fol. —Wessely 34.
+- 776 Edward Lord Hinchingbrooke. Huftbild im Oval. G.Kneller p. Schabkunstblatt. Fol.—Wessely
+- 136,11.
+- 777 James Earl of Salisbury. Ganze Figur als Knabe. G. Kneller p. Schabkunstblatt. Fol. Mit Rand.—
+- Wessely 223, I1.
+
+## JOHN RAPHAEL SMITH.
+
+- 778 Belisa. Dame mit Huindchen auf einem Sofa sitzend. Rundbild. Punktiert. Braundruck. London, Publ.1783.Klein-fol.Am unteren Rande wenige Wurmstiche.
+- 779 The Chantress (Miss Smith). Orig.-Kupferstich in Punktiermanier. Braundruck. Publ. London
+- 1783.K1.-folio.
+- 780 The Frail Sisters. J. Hogg sc. Punktiert. Publ. London 1784. Kl.-folio.
+- Sehr schones, dekoratives Rundbild in braun gedruckt. Vorziglicher Abdiuck mit Rand.
+- 781 The lady and astrologer. Oval. Engrav. by P. Simon. Punktiermanier. London, Publ. 1802. Fol.
+- Breitrandig. Schones Exemplar.
+- 782 A Visit to the Grandfather. J. R. Smith p. Will. Ward sc. Mit punktierter Unterschrift. Publ.
+
+A Visit to the Grandmother. J. Northcote p. J. R. Smith sc. Publ. London 1785. Zwei Schabkunst-
+
+- London 1788.
+
+blatter in vorzuglichen Abdricken mit Rand. Gross-fol.
+
+Siehe die Abbildungen.=
+## SPORT.
+
+## CHARLES HUNT.
+
+- 783 ,Canezou."Property of Lord Stanley. Henry T. Davis p. Farbstich in Aquatintamanier. Publ.
+- London 1850.Gr.-quer-fol.
+- rennen. Aquatintablatter mit Handkolorit. Publ. London 1840. Gross quer-fol. Breitrandig.
+- 785 Rockingham,rode by Darling. The Winner of the Great St.Leger Stakes at Doncaster,1833: J. F. Herring p. Aquatintablatt in Farben gedruckt u. koloriert. Publ. London 1833, by S. &amp; J. Fuller. Quer-fol.Vorzuglicher Abdruck.
+
+## JAGDKALENDER.
+
+- 786 ,Neujahrs-Geschenk fuir Jagd- u. Forstliebhaberu. Fortsetzung:,Taschenbuch fir Forst-u Jagdfreunde"f. d. Jahr 1794,1797-99 u.1802 u.1808.Hrsg.v.F.v.Wildungen (Hessen-kassel. Regierungsrat u.Oberforstmeister).Marburg. 6 Bandchen in 12u.kl.-8. Mit zahlreichen Kupfern in schwarz u. farbig. Orig.-Pppbde.
+
+Interessante kleine Jagd- u. Sport-Almanache,mit wichtigen Artikeln u. Abhandlungen u. feinen Abbildungen. An 2 Bandchen die Umschlage etwas defekt.
+
+## JAMES POLLARD.
+
+- 787 St.Albans Grand Steple Chase. Folge von 4 Blatt Ansichten der grossen Pferdewettrennen.
+- Aquatintablatter mit sehr feinem Kolorit.Ca.1825.Quer-fol.
+
+Sehr dekorative, schone grosse Blatter in lebhaften Farben. Prachtvoller Wandschmuck.
+
+## J.ROGERS.
+
+- 788,Cadland.Winner of the Derby at Epsom, 1828. Printed by Dean &amp; Munday. Aquarellierte Lithographie. Publ. London 1828. Auf Whatman-Papier von 1827. Quer-fol. Breitrandig, unbeschnitten.
+
+## TANDEM.
+
+- 789 Zweispanniger Selbstfahrer mit voreinander gespannten Pferden. Aquatinta u. Radierung. Publ.
+- 1812 by Pollard.Quer-kl.-fol.Breitrandig.
+
+Siehe ferner unter Nr. 542-543.
+
+## STEINDRUCKPROBE.
+
+- 790 Quodlibet. Zusammenstellung verschiedener lithographischer Arbeiten der Steindruckerei von C. L Asch, Post Strasse 2 u. Burg Strasse 6 in Berlin.Lithographie. Quer-gr.-fol.
+
+Interessanter Prospect der bekannten alten berliner Steindruckerei.
+e-
+
+F.
+
+er.
+
+u.
+
+el.
+
+rn en
+
+en.
+
+rte ig,
+
+bl.
+
+L.
+
+## JOH.MICH.STOCK,
+
+Goethe viel u. lernte dort das Aetzen und Kupferstechen.
+
+791 Sechs Buicherkupfer. Kostuimlich sehr interesant. kl.-8. Selten.
+
+## J.H.TISCHBEIN SEN.
+
+- 791a Friedrich Il., Landgraf von Hessen-Cassel, Graf von Hanau, preuss. General; 1720-1785. Brustbild in Uniform. Tischbein pinx. 1778. G. W. Weise sculps. Cassell 1776. Fol. Mit Rand. Schoner Abdruck.
+
+## CHARLES TOWNLEY.
+
+- 792 Heinrich Friedrich Ludwig, Prinz von Preussen, Bruder Friedrich's des Grossen, und Capitain von Tauentzien. Ganze Figuren in Uniform vor dem Zelte stehend. Cuningham p. Schabkunstblatt. In brillantem, ersten Abdruck ,vor aller Schrift. Berlin 1787. Imperial. Selten.
+- 793 Karl Il.August,Herzog von Pfalz-Zweibricken;174617751795.Huftbild nach links,in Uniform,
+- mit dem Stern und dem Band des Hubertusordens. Schabkunstblatt. Fol. Vor aller Schrift.
+- Rarissimum. Prachtblatt in weichem Ton, in viereckiger Umrahmung, vorziglicher Abdruck.
+
+=Siehe dieAbbildung.=
+
+## CHRIST.WILH.JACOB UNGER,
+
+Maler u. Kupferstecher, Schiiler Tischbeins in Cassel, 1775-nach 1820.
+
+- 794 Der Mensch wird vor den Richterstuhl der Tiere gebracht. (Nach der Fabel von Gellert.) Radierung. P.Potter pinx. W. Unger aqua forti 1804. Quer-gross-fol. Breitrandig. —Vor der Unterschrift. Prachtblatt in vorziglicher Erhaltung,reizende Darstellung.
+
+## FRIEDRICH LUDWIG UNZELMANN,
+
+Holzschneider,Berlin 1797—Wien 1854.
+
+- 795 Kurfuirst Friedrich I. unter einem Thronhimmel im Freien, lasst eine Thronrede vorlesen. Holz-
+- schnitt auf China. Bez.:,Unzelmann". Quer-4°.
+
+## C.VERMEULEN.
+
+- 796 Philipp V. Konig von Spanien; 16831746. Huftbild in Rustung. J. Viuien p. ad viv. 1701. Fol.
+
+## WILLIAMWARD.
+
+- 797 Retirement. Mrs. Brudenell mit gr. Hut und Reifrock im Park sitzend. J. R. Smith p. Schabkunstblatt. Publ. London 1786. Folio. Prachtiges Damenbildnis.
+
+## A.WATTEAU.
+
+- 798 L'acordee de village. Hochzeitsfeier im Freien vor der Stadt. Radierung. N. de Larmesin sculp. a Paris chez la Veuve Chereau. A. P. D. R. Imperial-quer-fol. Breitrandig.
+
+P achtexemplar, vorziglicher Abdruck. Hochinteressantes figurenreiches Blatt mit reicher Staffage.
+- Radierung. C. N. Cochin sculp. a Paris chez F. Chereau, avec privilege du Roy. Imperial-quer-fol. Breitrandig.
+
+Prachtexemplar,vorziglicher Abdruck. Hochinteressantes, ausserst figurenreiches Blatt.
+
+- 800 L'embarquement pour Cythere. Radierung. Tardieu sculp. a Paris chez F. Chereau. Avec Privilege du Roy.Imperial-quer-fol. Breitrandig.
+
+Prachtexemplar, vorzuglicher Abdruck.Hochinteressantes,äusserst figurenreiches Blatt,mit prich
+
+## Siehe die Abbildung.
+
+tigen Kostimen.
+
+- 800a Loccupation selon lage. Grossmutter u. Mutter spinnend u. nahend, dabei zwei Kinder spielend. Linienstich. Dupuis sc. A Paris chez F. Chereau. Avec priv. du Roy. Quer-fol.
+
+## JAC. WESSEL,
+
+## Maler von Danzig, gest. 1780.
+
+- 801 Gottlieb Gabr. Weickhmann,Burgermeister u. Ratsherr zu Danzig,geb. 1708. Huftbild stehend. Schabkunstblatt.Matth. Deisch fec. Gedani 1765.Fol. Beschnitten, aufgezogen. Selten.
+
+## JOH. HEINRICH WIESE,
+
+Schiler von Oeser, geb.Leipzig 1748, 1803.
+
+- 802 Zwei Bauernmadchen am Brunnen bei einem Weidenbaum. Orig.-Kupferstich in Kreidemanier. Roteldruck.Fol.Breitrandig.
+
+## C.WILLIAMS.
+
+- 803 ,A Caledonian Beauty." Karikatur auf die Mode der kurzen schottischen Rocke. Radierung mit altem Kolorit.Publ. 1816,by J. Johnston.Folio.
+
+## R.WOODMAN.
+
+- 804 The Choice of Penelope. Rundbild. C. R. Reyley p. Punktiermanier.Abdruck in braun.Publ. London 1789. Folio.
+
+## J.YOUNG.
+
+- 805 Field Marshal Count Wurmser, commander in chief of the imperial army in Italy. (Dagobert Sigis-
+- mund Graf v.Wurmser,k. k.Generalfeldmarschall;1724—1797). Hiftbild in Husaren-Uniform. Farbig gedrucktes Schabkunstblatt.Painted by Brand, of Vienna. Fol. Sehr selten.
+- Reizende Szene.
+etc fol.
+
+ege ich-
+
+der fol.
+
+nd.
+
+er.
+
+nit bl.
+
+is- m.
+
+IV.
+
+## JOH. ELIAS RIDINGER,
+
+Augsburger Maler u. Kupferstecher,16981767.
+
+## Sammlung von Originalen und Radierungen.
+
+a)Originale.
+
+- Rotrock auf Schimmel von Hunden gefolgt.
+
+Original-Oelgemalde auf Leinwand.
+
+Links unten am Rande bez.:,J. E. R." Gerahmt.
+
+Prachtstick ersten Ranges,vorzuglich in Farben,reizende Darstellung. Die Seitenheit von Original- bildern Ridingers mit Signatur ist genugsam bekannt.
+
+=Siehe die Abbildung.
+
+- 807 Jagdszene: Der Hirsch wird von den Hunden u. Jagern auf einer Waldlichtung gestellt.
+- Original-Oelgemalde auf Leinwand. Bez.:,Joh. Elias Ridinger 1727." Gerahmt. Hohe 36, Breite 52 cm. Prachtvolle Arbeit des Kinstlers,vorziglich in Farben, mit hochinteressanter,reicher figiriicher Staffage.
+
+Siehe die Abbildung.
+
+Dazu das Gegenstick siehe die nachste Nummer.
+
+- 808 Jagdszene: Jagd auf Reiher mit dem Falken.
+
+Original-Oelgemalde auf Leinwand. Bez.:,Joh. Elias Ridinger 1745. Gerahmt. Hohe 36, Breite 52 cm. In derselben feinen Ausfihrung wie dievorhergehende Nummer,ebenfalls mit reicher,interessanter figirlicher Staffage.
+
+Siehe die Abbildung.=
+
+- 809 Leith Hund wie er den erlegten Hirschen beschnaeuffelt. Vorn ein erlegter Zwolfer, dem ein Leit-
+- hund,vom dahinter stehenden Jaiger gehalten, den Schweiss von der Seite leckt.
+
+Blattgr0sse 22,7:17,3 cm.
+
+Getuschte Kreidezeichnung mit Weiss gehoht. Mit Unterschrift: Joh. Elias Ridinger ad viv. Ao. 1756.
+
+Th. 3ll. Ganz hervorragende Original-Handzeichnung des Kinstlers, vorziglich erhalten.
+
+810 Adam und Eva.
+
+=Siehe die Abbildung.
+
+Bleistiftzeichnung. Bez.:,Riedinger."
+
+=Siehe die Abbildung.
+
+- b)Radierungen.
+- 811 Der Thiergarten. Orig.-Radierung. Fol. Sehr breitrandig. Th. 13.
+- 812 Des Edlen Hirschen Alter. Orig-Radierung. Fol. Sehr breitrandig. Prachtexemplar. Th. 14.
+- exemplar. Th.15.
+
+Hohe 27,5,Breite 33,3 cm.
+
+Blattgr0sse 16,8:23,5 cm.
+- 814 Das bestetten des Edlen Hirsches mit dem Leithund. Orig.-Radierung. Fol. Sehr breitrandig. Prachtblatt.Th.16.
+- 815 Die Wolfs-Falle oder Grube. Orig.-Radierung. Fol. Sehr breitrandig. Prachtblatt.Th. 18.
+- 816 Die Fuchs-Eisen und Fallen. Orig.-Radierung. Fol. Sehr breitrandig. Prachtblatt. Th.19.
+- 818 Die Par-Force Jagd. Orig.-Radierung. Quer-fol. Breitrandig. Th.21.
+- 819 Das umstellte Jagen. Orig.-Radierung. Quer-fol. Breitrandig. Schones Exemplar. Th.22. 820 Die Wasser-Jagd.Orig.-Radierung.Quer-fol. Breitrandig. Th.23.
+- 821 Die in das Netz gefallene Hirsche. Orig.-Radierung. Quer-fol. Breitrandig. Schones Exemplar. Th. 24.
+- 822 Wie die Jagd angeblasen wird. Orig.-Radierung. Quer-fol. Breitrandig. Th.25.
+- 823 Die Hirsch Brunsst. Orig.Radierung. Quer-fol. Breitrandig.Th.26.
+- 824 Das Brunst Schiessen. Orig.-Radierung. Quer-fol. Breitrandig. Th. 27.
+- 825 Wie die Hunde ihr recht bekommen oder gepfneischt werden. Orig.-Radierung. Quer-fol.Breit-
+- randig.Th.29.
+- 826 Wie die Schweine mit Netzen gefangen werden. Orig.-Radierung. Quer-fol. Breitrandig. Th. 31. 827 Der Einsprung an dem Saugarten. Orig.-Radierung. Quer-fol. Mit Rand. Th.32.
+- 828—Dasselbe. Breitrandig. Schones Exemplar.
+- 829 Wie auf die Schweine angestanden wird.Orig.-Radierung.Quer-fol. Breitrandig. Th.33.
+- 830 Die Schweine Hatz. Orig.-Radierung. Quer-fol.Breitrandig.Th. 34.
+- S31 Wie die Rehe in Netzen oder Garn gefangen werden. Orig.-Radierung.Quer-fol. Breitrandig. Schones Exemplar.Th.35.
+- 832 Der Anstand auf die Rehe.Orig.-Radierung. Quer-fol. Breitrandig. Th.37.
+- 833 Wie der Wolff mit Netzen zu fangen. Orig.-Radierung. Quer-fol. Breitrandig. Th. 38.
+- S34 Wie der Wolff auf das Luder gebracht wird. Orig.-Radierur g. Quer-fol. Mit Rand. Th. 39.
+t-
+
+4.
+
+1-
+
+1.
+
+es
+
+- 837-Dasselbe.Breitrandig
+- randig. Th. 41.
+- 840-Dasselbe.Breitrandig.
+- Th.43.
+- 842 Wie die Hasen mit Netzen gefangen werden. Orig.-Radierung. Quer-fol. Breitrandig. Th. 44.
+- 843 Der anstand auf Hasen und wie sie von dem Stober Hunde getriben werden. Orig.-Radierung.
+- Quer-fol.Breitrandig.Th.45.
+- 844 Wie die Hasen mit Wind-Hunden gehetzt werden. Orig.-Radierung. Quer-fol. Breitrandig.Th.46.
+- 845 Die Auer-Hanen Paltz. Orig.-Radierung. Quer-fol.Mit Rand.Th.47.
+- 846-Dasselbe.Breitrandig.
+- randig.Th. 48.
+- 848 Die Versuche mit den Leit-Hunden zur Par Force Jagt. Orig.-Radierung. Quer-gross-fol. Mit Rand.
+- Th.49.
+- 849 Die gantze Meute derer parforce Hunde wird auf den Rendevous aufgefuihret. Orig.-Radierung. Quer-fol.Mit Rand.Th.50.
+- 850 Die Par Force Pferde werden auf den Rendevous aufgefuihret. Orig.-Radierung. Quer-fol. Mit Rand.
+- Th.51.
+- 851 Das Fruh-Stick wird von denen Piquers u. Besuchknechten eingenommen, u. die Harden a 36 bis 40 hunden in Ordnung gebracht. Orig.-Radierung. Quer-fol. Mit Rand. Th. 52.
+- 852 Die Relais werden von dem Comandeur der Jagt ausgesetzt. Orig.-Radierung. Quer-fol. Th. 53.
+- 853 Die Ankunfft des Fursten auf dem Rendevous. Orig.-Radierung. Quer-fol. Mit Rand. Th. 54.
+- 854 Der Zug nach dem Bogen auf den Anjagts Hirschen. Orig.-Radierung. Quer-fol. Th. 55:
+- 855 Der Anjagts Hirsch wird mit dem Lancier Hunde gesprengt. Orig.-Radierung. Quer-gross-fol. Mit Rand. Th.56.
+- 856 Der Hirsch stelt sich im Wasser die Hunde werden gestopfft und ihme der Fang gegeben. Orig. Radierung. Quer-gross-fol. Breitrandig. Schones Exemplar. Th. 61.
+- 857—Dasselbe. Gebraunt u.beschnitten.
+- 858 Der Hirsch wird von denen Parforce Hunden angefallen und ihme der Fang gegeben. Orig.-Radierung. Quer-gross-fol. Breitrandig. Schones Exemplar. Th. 62.
+- 859—Dasselbe. Gebraunt und scharf beschnitten.
+- 860 Dem Hirschen werden die Hessen abgehauen oder die jarrets coupiret. Orig.-Radierung. Quer. gross-fol. Breitrandig, schones Exemplar.Th. 63.
+- 861 —Dasselbe. Gebraunt u. beschnitten,etwas eingerissen.
+- 862 Das Curee. Orig.-Radierung. 1756.Gross-quer-fol. Breitrandig. Schones Exemplar.Th.64.
+- fol.Mit Rand.Th.65.
+- 864 Wie die Sauen im freyen auf den ball gehaezt und mit einer gantzen hatz Hunde forcirt werden. Orig.-Radierung. Quer-fol.Mit Rand. Th.66.
+- 865 Vorstehender Hund vor einem Hasen im Lager. Orig.-Radierung.Fol. Breitrandig.Th.101.Prachtblatt,unbeschnitten.
+- 866 Vorstehender Hund auf Fasanen.Orig.-Radierung. Fol. Breitrandig.Th.102.Prachtblatt,unbeschn.
+- 867 Kleiner vorstehender Huiner Hund auf Wachteln. Orig.-Radierung. Fol. Breitrandig. Th. 104. Prachtblatt,unbeschnitten.
+- exemplar,unbeschnitten.
+- 869 Falconier Knecht den Uhu auf der Hand fihrend. Radierung. Mart. Elias Ridinger sc. Fol. Mit Rand. Th.120.
+- 870 Falconier knecht den Schuhu vom boden aufnehmend. Radierung. Mart. El. Ridinger sc. Fol. Mit Rand. Th.121.
+fol.
+
+g.- ng.
+
+er- er-
+
+en.
+
+ht- n.
+
+04.
+
+nt-
+
+Ait lit
+
+- Prachtexemplar, unbeschnitten.
+- 872 Birg Jaeger. Radierung. Mart. El. Ridinger sc. Fol. Mit Rand. Th. 123.
+- 874 Falconier mit dem Luier den Falken einholend. Radierung. Mart. E. Ridinger sc. Fol. Mit Rand. Th.130:
+- 875 Besuch Knecht der den Hirsch mit dem Leit Hund sprengt. Radierung. Mart. El. Ridinger sc.
+- Fol.Mit Rand. Th. 134.
+- 876 Der Falkonier nimt den Falken wider auf. Radierung. Mart. El. Ridinger sc. Fol. Breitrandig. Th. 135. Prachtexemplar, unbeschnitten.
+- 877 Wild-Enten baitze nachdem sie aufgestobert worden. Radierung. Mart. El. Ridinger sc. Fol. Mit
+- Rand.Th.138.
+- 878 Hirschgruppe. Darunter die Spuren mit Erklarungen.Orig.-Radierung. Gross-fol. Mit Rand.Th.187.
+- Prachtige, grosse Darstellung.
+- 879 Die wilden Schweine. Darunter ihre Fahrten m. Erklarungen. Orig.-Radierung. Gross-fol. Mit
+- Rand. Th.188.
+
+Prachtiges Blatt,grosse Darstellung.
+
+- 880 Eine Dammhirschfamilie. Darunter ihre Fahrten m. Erklarungen. Orig.-Radierung. Gross-fol. Mit Rand.Th.189.
+
+Prachtblatt, grosse Darstellung.
+
+- 881 Die Gems. Darunter ihre Fahrte m. Erklarung. Orig.-Radierung. Gross-fol. Mit Rand. Th. 190. Prachtblatt, grosse Darstellung.
+- 882 Betrachtung der wilden Thiere mit beygefigter vortrefflichen Poesie des hochberihmten Herrn Barthold Heinrich Brockes. Titelkupfer u.40 Blatt Orig.Radierungen.Aug. Vind. 1736. Quer-fol.
+- Breitrandig.Th.195-235.
+
+Schone Serie, mit deutsch., franzos.u latein. Unterschriften und deutschen Versen von Brockes. Vorzigliche Abdricke,wohlerhaltene Exemplare, darin ui. a. sehr schone Bilder von Hirschen.
+
+- 883 Ein Gabelhirsch, welcher die mit Baast-bewachsene Kolben auf, und noch nicht verreckt hat. Orig.Radierung. Quer-gr.-fol. Mit Rand. Th. 197.
+- Radierung. Quer-gr.-fol. Mit Rand.Th. 200.
+- 885 Ein Hirsch von 12 inden, welcher in voller Flucht ist. Orig.-Radierung. Quer-grossfol. Mit Rand. Th.201.
+- 886 Ein Hirsch von 14 inden, welcher den Bast in leichten gestreiche abstreifft. Orig.-Radierung. Quer. gross-fol. Mit Rand. Th.202.
+- Quer-gross-fol.Mit Rand.Th.203.
+- 888 Ein starker Brunfft-Hirsch von 18 anden, welcher von Hitze des Brands sich zu Kuihlen in einem Brudel oder Solachen ligt.Orig.-Radierung. Quer-gross-fol. Mit Rand. Th. 204.
+- 889 Schweine von 6 bis 7 und mehr Jahr nennt man Haubt Schweine . ... Orig.-Radierung. Quergross-fol. Mit Rand. Th. 211.
+- 890 Gefleckter Dam Hirsch. Orig.-Radierung. Quer-gross-fol. Mit Rand. Th.212
+- 891 Weisser Dam Hirsch und die Hundin .... Orig.-Radierung. Quer-gross-fol. Mit Rand. Th. 213.
+- 892 Der Rehebock und Geiss sind im andern Jahr zur Brunfft tichtig...... Orig.-Radierung. Quergross-fol. Mit Rand. Th.214.
+- 893 Der Iltiss. Orig.-Radierung. Quer-gross-fol. Mit Rand. Th. 215.
+- 894 Die Biber haben 2. bis 3. Junge .... Orig.-Radierung. Quer-gross-fol. Mit Rand. Th.222.
+- 895 Titelblatt zu: Genaue und richtige Vorstellung der wundersamsten Hirschen sowohl als anderer besonderlicher Thiere....verfertiget von Joh. Elias Ridinger seel. 1768. Orig.-Radierung.Fol. Breitrandig.Prachtblatt.Th.242.
+- 896 Anno 1724 haben Ihro Hochfuirstl. Durchl..Herzog zu Wuirtemberg disen Hirsch in der Brunfft
+- 897 Anno 1720 Haben .. . Herzog zu Wurtemberg Disen hirsch in der Brunfft ... Reichenberger Forsts geschossen.Orig.Radierung.Fol.Mit Rand.Th.244.
+- 898 In dem Herzogthum Wurtemberg wurde Anno 1736 Diser HirschTod gefunden. Orig.-Radierung. Fol. Mit Rand. Th. 245.
+- 899 In dem Herzogthum Wurtemberg ist Anno 1736 dises Stuck Wild —Kirchheimer Forsts Tod gefunden worden.Orig.-Radierung. Fol. Mit Rand. Th.246.
+- walde selbst geschossen den 18 September Anno 1696. Orig.-Radierung. Fol. Mit Rand. Th. 247.
+and.
+
+uer- ing.
+
+nem uer-
+
+213.
+
+uer- erer
+
+Fol.
+
+infft orsts
+
+ung.
+
+ge- ten-
+
+247.
+
+- Radierung. Fol. Mit Rand. Th.248.
+- Orig.-Radierung.Fol. Mit Rand.Th.249.
+- bock .. .in dem Tubinger Forst geschossen worden. Orig.-Radierung. 1740. Fol. Mit Rand. Th. 250.
+- 904 Anno 1728 haben .. . Alexander Herzog zu Wirtenberg disen Hirsch geschossen. Orig-Radierung.
+- Fol. Mit Rand.Th.251.
+- 905 Anno 1718 die 20 Aprilis haben ... Wilhelm Friederich Marggraff zu Anspach disen Haasen bey Windspach Gebaizet. Orig.-Radierung.Fol.Mit Rand.Th.252.
+- schossen. Orig.-Radierung.Fol. Mit Rand. Th. 253.
+- 907 Anno 1735 haben . . . Carl Alexander Herzog zu Wurtemberg dises Extra Haupt Schwein ... bey Stuttgart geschossen. Orig -Radierung. Fol. Mit Rand. Th. 254.
+- 908 Disen Hirsch Haben ... Carl Alexander Herzog zu Wurtemberg Anno 1735 den 22. Aug. Kirchheimer Forsts selbst geschossen. Orig.-Radierung. Fol. Mit Rand. Th. 255.
+- 909 Anno 1721 haben... Eberhard Ludwig Herzog zu Wuirtenberg disen Hirsch in der Brunfft. Tubinger Forsts selbst geschossen. Orig.-Radierung. Fol. Mit Rand.Th.256.
+- 910 Anno 1739 die 15 7bris Haben. Herr Frantz Lactantius -Freiherr von Firmian .. disen Hirsch .in dem Salzburg geschossen. Orig.-Radierung. 1741. Fol. Mit Rand. Th.257. Prachtblatt.
+- 911 Anno 1741 die 8 9bris Ist dises sehr Alte und rare Stuck Wild....bey Augspurg geschossen worden....Orig.-Radierung.1741.Fol.Mit Rand. Th.258.
+- 912 Anno 1698 Haben . . . Alexander Sig. Herzog von der Pfaltz . . . dises Wild . . . in dem Algow selbst gepuirschet. Orig.-Radierung.1741.Fol. Mit Rand.Th.259.
+- 913 Ano 1675 Ist dieser Edle Hirsch . . . bey Basel gepuirschet worden. Orig.-Radierung. 1741. Fol.
+- Mit Rand.Th.260.
+- Gems-Bock .. . gestossen. Orig.-Radierung. 1741. Fol. Mit Rand. Prachtblatt. Th. 261.
+- 916 Anno 1710 und Ao.1721. Haben Ihro ... . Eberhard Ludwig Herzog zu Wurtenberg dise beyde Hirsche..in der Enninger Marck...geschossen. Orig.Radierung. Fol. Mit Rand. Th. 263.
+- burg-Onoltzbach Anno 1720 . . . . auf dem Triesdorffer Wildfuhr . . : selbst geschossen. Orig.Radierung.1741.Fol.Mit Rand.Th.264.
+- 918 Anno 1615 die 3 Xbris Haben Herr Wilhelm von Maxelheim Freyherr von Waldeck dises Haupt Schwein im forst Durenpuchs ... gefangen.Orig.-Radierung. 1742. Fol. Mit Rand. Th.265.
+- 919 Anno 1678 ist diser grosse und starke Hirsch bey Neuburg an der Donau von 3 Teutschen jagt Hunden ...lebendig gefangen....worden. Orig.-Radierung. Fol. Mit Rand. Th.266.
+- 920 Diser Hirsch von 19.Enden ist im Algeuw...Anno 1701.gefunden worden. Orig.-Radierung.1742. Fol.Mit Rand. Th.267.
+- 921 Dises Haupt Schwein .. ist Anno 1731 in dem Algeu bey Oberndorff geschossen worden. Orig. Radierung. 1742. Fol. Mit Rand. Th.268.
+- Radierung.1743.Fol.Mit Rand. Th.269.
+- 923 Kaempffende Brunfft Hirsche.Nach der Natur in der Grin Au bei Neuburg Anno 1722.gezeichnet. Orig.-Radierung. Fol. Breitrandig,unbeschnitten.Th.271.
+- 924 Anno 1736 Ist dise Wilde Gans ...in der Grafschaftf Muimpelgard ...zum Schuss gebracht worden. Orig.-Radierung.1744.Fol.Mit Rand. Th.272.
+- 925 Raub Vogel bey Tage. Orig.-Radierung.1744.Fol. Mit Rand. Th. 273.
+- 926 Anno 1734. Ist diser wohlgerichte Huner Hund ..... gezeichnet worden. Orig.-Radierung. 1744. Fol.Mit Rand.Th.274.
+- 927 Ein Hirsch mit einem Stuck Wild und Hirsch Kalb in der Ruhe. Orig.-Radierung. 1744. Fol. Mit Rand.Th.275.
+- 928 Diser Fuchs mit zwey Schwanzen ist.. 1734. in der Heyde bey Oranienburg .. geschossen .. worden.Orig.-Radierung.Fol. Mit Rand. Th.276.
+- 929 Diser Hirsch Ist von Sr. Excell. dem Hrn. Grafen von Lengheim bey Wagna .. geschossen worden. Orig.-Radierung.1744.Fol.Mit Rand. Th.277.
+- 930 Anno 1719. Ist dise extra Grosse Wilde Gans bey Maul-brunn .. gefangen worden. Orig.-Radierung.1745.Fol.Mit Rand. Th.278.
+- 931 Indianischer Wolff. Orig.-Radierung. Fol. Mit Rand. Th. 279.
+yde en-
+
+ig.- ipt
+
+agt
+
+42.
+
+g.- g.-
+
+et.
+
+cht
+
+14.
+
+Ait en.
+
+a-
+
+- nitzischen Herrschaft aus Schlesien .  .. erkaufft worden. Orig-Radierung. 1745. Fol. Mit Rand. Th.280.
+- 933 Diser rahre Tyger-Schimmel mit Schwartzen Haren .  .. Orig.-Radierung. 1745. Fol. Mit Rand.
+- Th.281.
+- 934 Anno 1718 Ist diser grosse Luchs . .in dem Tubinger Forst .. geschossen worden. Orig.- Radierung. 1745.Fol.Mit Rand.Th.283.
+- 935 Isslaendischer weisser mit Schwartzen Federen gesprengter Falke . ... . Orig.- Radierung. Fol.
+- Mit Rand.Th.284.
+- 936 Die Hohle einer Baehrin mit Jungen.... Orig.-Radierung. Fol. Mit Rand. Th. 285.
+- 937 Anno 1740 Ist dises noble Pferd so ein Schimmel .. . gemahlt worden. Radierung. Aug. Querfurth
+- pinx. J. El. Ridinger sc. Fol. Mit Rand. Th.286.
+- 938 Anno 1731. Habe dise Vorstellung in dem Parc von Nymphenburg gegen Stahrenberg nach der Natur gezeichnet. (Hirsche von Hunden angefallen). Orig.-Radierung. Fol. Mit Rand. Th. 287.
+- 939 Anno 1746 Ist dises Edle Leib Pferd ... gemahlt... worden. ad vivum pinx.J. El. Ridinger sculp. Fol. Mit Rand. Th. 288.
+- .Radierung.Ermeltraut
+- 940 Anno 1720 Habe dise Baehren Hatz nach der Natur gezeichnet. Orig.-Radierung.1746. Fol. Mit
+- Rand.Th.289.
+- 941 Nimmersatt! (Pelikan). Auf der Donau zwischen Peterwardein u. Belgrad Anno 1740 geschossen ...
+- Orig.-Radierung.Fol. Mit Rand. Th.290.
+- 942 Diser rahre Hase ist bey Wien . . geschossen . . . worden. Anno 1747. Orig.-Radierung. Fol. Mit Rand.Th.291.
+- 943 Anno 1741 im Monath September Ist diser Hirsch von 16 Enden .. . im Forst Romrod (Hessen) ..von dem Land-Grafen zu Hessen-Darmstadt selbst geschossen worden. Orig.-Radierung. Fol.
+- Mit Rand.Th.292.
+- 944 Diser Hirsch mit Weissen Flecken ist den 12. Sept. 1746 . . . in der Graffschafft Wernigerode
+- gepiirscht worden. Orig.-Radierung.Fol. Mit Rand. Th.294.
+- 945 Ano 1748 im Monath May und Junio ist dises Nashorn Rhinoceros In Augspurg lebendig gesehen worden... Orig.-Radierung. Fol. Mit Rand. Th.295.
+- geschossen worden.Orig.-Radierung. 1750. Quer-fol. Mit Rand. Th. 296.
+- statt ...bey Romrod geschossen worden. Orig.-Radierung. Fol. Mit Rand. Th. 297.
+- 948 Anno 1720 Haben disen gantz weissen Fuchsen ... Herr Graf von Ohringen ohm veit Ohrenthal selbst geschossen. Orig.-Radierung. Fol. Mit Rand. Th.298.
+- 949 Diser Hirsch von 28 Enden Ist 1742...von dem Landgraffen zu Hessen-Darmstatt t...bey Battenberg... geschossen worden. Org.-Radierung. 1753. Fol. Mit Rand. Th. 299.
+- 950 Dises stumpf-ohrichte Haupt-Schwein mit gestutzter Ruthe . . . haben der . . Landgraff Ludwig zu Hessen Darmstatt ...1749... im Bessunger Forst ... erlegt.Orig.-Radierung. 1743. Fol. Mit Rand.Th.300.
+- 951 Anno 1750 Ist diser schone Hirsch:..von dem ... Grafen von Pappenheim iber dem Matzhofer Forst selbst geschossen worden. Orig.-Radierung. 1753. Fol. Mit Rand. Th.301.
+- 952 Anno 1741. Ist dieser Hase mit 8 Laeufften...bey Meisselhausen ...bekommen worden. Orig. Radierung.1753.Fol.Mit Rand.Th.302.
+- 953 Anno 1718 Diser junge . . . 8ter ist .. in Tirol . . . tod gefunden worden. Orig.-Radierung. 1754.Fol.Mit Rand.Th.303.
+- 954 Anno 1700..haben Herzog zu Pfaltz und Bischoff zu Augspurg disen Hirsch lebendig gefangen. Orig.-Radierung.1754.Fol.Mit Rand.Th.304.
+- 955 Diesen Hirsch mit Schlappohren haben des .. Herrn Landgrafen von Hessen Darmstadt.. Durchl. ..1754 in der Gegend von Darmstadt geschossen. Orig.-Radierung. Fol. Mit Rand. Th.305.
+- 956 Dieser Hase mit angedeuteten raren Zahnen ist..1753 im Lechheimer Forst 4 Stund weit von Darmstadt geschossen worden.Orig.-Radierung. Fol. Mit Rand. Th. 306.
+- 957 Als anno 1728 ich.. einem Fuchs das eisen gelegt, habe ich den andern Tag eine Wilde Gans noch lebendig, den Fuchs aber tod ... gefunden.Orig.-Radierung. Fol. Mit Rand. Th. 307.
+- randig.Th.308.
+- 959 Gepanzerte...Leib und Cammer Hunde. Orig.-Radierung. Fol. Mit Rand. Th.309.
+- 960 Grosse Arth der Wind Hunde, wovon der Grossere den Schirmer oder Retter vorstellet. Orig.Radierung.Fol.Breitrandig.Th.310.
+- 961 Disen Hirsch von 24 Enden haben ..Herr Landgraff Wilhelm der achte zu Hessen-Cassel . am Burg-wald ...1752 geschossen. Orig.Radierung. Fol. Mit Rand. Th. 313.
+n- al
+
+ey
+
+Z- g.
+
+11
+
+- 964 Diser sehr rare weisse Dachs . . . ist 1724 . . im Parck bey St. Hubertusburg ausgegraben und behaezt worden.Radierung.Mart. El. Ridinger sc. Fol. Breitrandig, unbeschnitten. Schones Exemplar.Th.316.
+- Radierung. Mart. El. Ridinger sc. Fol. Breitrandig, unbeschnitten. Schones Exemplar. Th. 317.
+- 966 Diesen weissen Tann-Hirsch mit angezeigtem raren Gewaechs . . haben Karl Landgraf zu HessenDarmstadt, Ludwig VIll. 1763 im Gerauer-Wald geschossen. Radierung. G. A. Eger ad viv. pinx. Mart. El. Ridinger sc. Fol. Breitrandig. Unbeschnitten. Schones Exemplar. Th. 318.
+- 967 Diese 2. Hirsche ... sind 1756 an der Bergstrasse .. . vest ineinander verwickelt .. gefunden worden. G. A. Eger ad viv. pinx. Joh. Elias Ridinger direx. Mart. El. Ridinger sc. Fol. Breit-
+- randig, fast unbeschnitten. Schones Exemplar. Th. 319.
+- 968 Dises Rehe-Bocks Gewichtel ist gantz in einander gewachsen ...., alle dise Reh-Bocke sind in dem Hohenloischen .. geschossen worden. Radierung. Mart. El. Ridinger sc. Fol. Breitrandig,
+- fast unbeschnitten. Schones Exemplar. Th. 320.
+- 969 Anno 1758, Dises Thier ist in einem .. Thiergarten zu Trebitz in Maehren auferzogen worden... Orig.Radierung.Fol. Breitrandig. Schones Exemplar.Th.321.
+- 970 Diser curiose gehornte Hase ist in der Grafschafft Ortenburg in Bayeren geschossen worden. Ra-
+- dierung. Mart. El. Ridinger sc. Fol. Breitrandig. Schones Exemplar. Th. 322.
+- 971 Anno 1760 Ist diser rare Rehe-Bock auf der ... Herrschafft Grosstall in Bohmen ... geschossen worden. Radierung. Mart. El. Ridinger sc.1765. Fol. Mit Rand. Am unteren Rande wasserfleckig.
+- Th.323.
+- 972 Dise 2 mit einem Kopf zusammen gewachsene junge Hasen hat eine Graeserin . . . lebendig ge-
+- funden ... . Orig.Radierung. 1765. Fol. Breitrandig. Schones Exemplar. Th. 324.
+- 973 Diser schwartze Tann-Hirsch ist Anno 1739 . . . zu Thierberg . . geschossen worden. Radierung. 1765.Mart. El. Ridinger sc.Fol. Breitrandig. Th.325.
+- 974 Den 7ten Octobris 1765 wurde .. in den Boeblinger Oberforst-Amt .. ein Hirsch von 20. Enden gepurstet. Radierung. J. D. Wocher del. J. E. Ridinger sc. Fol. Breitrandig. Th.326.
+- Hirsch .. . geschossen. Radierung. J. D. Wocher del. M. El. Ridinger fec.Fol. Breitrandig, fast
+- unbeschnitten. Schones Exemiplar. Th. 327.
+- Mart. Elias Ridinger. 1766. Fol. Breitrandig. Th. 328.
+
+Etwas fleckig am unteren Rande.
+
+- 977 Am 20ten . . August Ao. 1653 ist . . . diser Hirsch . . zu Mittenwald ..  gefaellt worden. Orig.Radierung. Fol. Breitrandig.Th.329.
+
+Etwas fleckig am Rande.
+
+- 978 Diser Hirsch . . . auf beyden Seiten gleich gefleckt . . ist 1726 . gefangen worden. Orig.-Radierung.Fol. Breitrandig.Th.330.
+- 979 ihro Durchl. des Fursten von Anhalt Dessau Leib kleiner Wind und Hassen Hund, Avions. Orig. Radierung.1767.Fol.Breitrandig.Th.331.
+- 980 Diser grosse.. Hirsch von 16 enden ..ist 1740 von dem Landgrafen Ludwig zu Hessen Darmstadt, in dem Ruppen Fang geschossen worden. Radierung. Mart. El. Ridinger sc. Fol. Mit Rand. Th. 332.
+- 981 Anno 1740 hatt Herr Aug: Querfurth .. dieses schone Pferd .. abgemahlt. Radierung. Mart. El. Ridinger sc.Fol.Breitrandig. Schones Exemplar. Th.333.
+- 982 Diser besonders rare Tyger (Pferd) ..ist nach dem Leben in Wien gemahlt. Radierung. Mart. El. Ridinger sc. Fol. Breitrandig. Schones Exemplar. Th. 334.
+- 983 Diser Hirsch von 24 Enden...ist 1760...nahe bey Dessau ... gefangen worden. Radierung. M.E. Ridinger sculp.Fol. Breitrandig. Schones Exemplar. Th. 335.
+- 984 Diser Hirsch von 16 Enden ... der ohne Ohr genannt,ist 1765 gejagt worden. Radierung. Mart.El. Ridinger sculps. Fol. Mit Rand.Th.336.
+- 985 Diser gefleckte Hirsch ist Anno 1715 ... ohnweit Ohrenburg . geschossen worden. Radierung. Mart. El. Ridinger sculps. Fol. Mit Rand. Th.337. Etwas fleckig.
+- 986 Wer mit Vernunfft die Seltenheit von diesen zweye Hirsch-Geweich betracht...Radierung. Mart. El. Ridinger sculps. Fol. Mit Rand. Th. 338.
+- 987 Dieser Hirsch mit 3 Stangen wurde 1753..von Herrn Landgrafen Ludwig VIll. zu Hessen-Darmstadt .. bey Cranichstein .. geschossen.Radierung.Mart. Fl. Ridinger sc. Fol. Breitrandig. Schones Exemplar.Th.339.
+- 988 Diser Hirsch,welchen .:Landgraf Ludwig VIll. zu Hessen-Darmstadt Ao. 1763 aus Battenberg in Ober-Hessen herausfuhren ....Radierung. G.A.Eger del. M. El. Ridinger sc. Fol. Breitrandig. Th.340.
+V.
+
+g.- a-
+
+g.- dt,
+
+32.
+
+El.
+
+E1.
+
+ng.
+
+ng.
+
+ng.
+
+ng.
+
+-U
+
+nes erg
+
+lig.
+
+- dinger sc. Fol. Breitrandig. Schones Exemplar. Th. 341.
+- Fol. Breitrandig.Th.349.
+- M.E. Ridinger sc. Fol. Breitrandig. Th. 353. Prachtblatt, unbeschnitten.
+- 994 Zwey Auer-Ochsen detto von den Baeren uiberfallen. Radierung. M. El. Ridinger sc. Quer-fol. Breitrandig.Th.362.
+- 995 Ihro Hochfuirstl. Durchl.... haben diesen Hirsch von ungerad 16 Enden in der Brunst-Zeit Ao. 1775
+- erlegt. Radierung. M.E.Ridinger sc.Fol. Breitrandig. Th. 373.Prachtblatt, unbeschnitten.
+- 996 Von der Haasen ist daes alte Sprich-Wort sie gehen selb ander im Frih Jahr zu Felde und kommen um Bartholomai selb 15 oder 17. wiederum zu Holze .... Radierung. M. E. Ridinger sc. Fol.
+- Breitrandig.Th.387. Prachtexemplar,unbeschnitten.
+- 997 Der brillende Low. Orig.-Radierung. Klein-fol. Beschnitten u. ausgebessert. Th. 519.
+- 998 Vier Tafeln Elephanten. Radierungen. P. F.v. G(adenus) ad viv. del. 1741.Klein-fol.u.kl.-querfol.Breitrandig.Th.537-540.
+- 999 Zehn Tafeln Affen oder doch ihnen verwandte Thiere. Radierungen von Joh. El. Ridinger nach Ide, Hamilton, Rotingus u.a.10 Blatt. Klein-fol. Th.541—550. Es fehlt Blatt 10 (Th.550).
+- 1000 Neue Reit-Kunst in Kupferstichen inventiert u. gezeichnet von Joh. Elias Ridinger. Titelkupfer u. 22 Blatt Radierungen von Probst u. Joh.Dan.Hertz.Augspurg 1722. Quer-fol. Th.605-627. Wundervolle Serie,in der leider das letzte, 22.Blatt fehlt (Th.627）.
+- 1001 Neue Reit Schul vorstellend einen vollkommenen Reuter in allen Lectionen. Erster Theil. Anno 1734. Blatt 411 u.14. Orig.-Radierungen. Gross-fol. Breitrandig. Selten. Th. 631-638 u. 641. Blatt 46 bis zum Bildrand beschnitten u. gebraunt, samtliche anderen Blatter in prachtigen, breit randigen Exemplaren.
+- 1002 Spazierritt von der Schule mit ihren verschiedenen Lectionen. Ritt nach der Linken. Radierung.
+- Mart. Elias Ridinger filius aeri incidit. Quer-gross-fol. Mit Rand. Th. 715. Sehr schones, figurenreiches Blatt.
+- 1003 Das Pferd und der Loewe. Orig.-Radierung. Fol. Mit Rand. Th. 716.
+
+1004 Der Auer Ochs und der Tiger. Orig.-Radierung. Fol. Mit Rand. Th. 717.
+
+1005 Die bey ihren Jungen von einen Baeren iberfallene Lowin. Orig.Radierung. Fol. Mit Rand. Th.718.
+
+1006 Der witige Leopard wie er einen Esel zerreisst. Orig.-Radierung. Fol. Mit Rand. Th. 719.
+
+- 1007 1.) Der grosse Habicht ... 2.) Zwei kleinere Adler ...: Orig.-Radierung. Fol. Mit Rand. Th. 755.
+- 1008 1.) Orientalischer Adler oder Geyer-Konig.2.) Europaischer grosser Adler. Orig.-Radierung. Fol. Mit Rand.Th.756.
+- 1009 1.) Der grosse Uhu...2.) Mittlere Art der Horn Eule.... Orig. Radierung. Fol. Mit Rand. Th. 757.
+- 1010 1.) Die grosse Ohreule. 2.) Die graue Eule ..... Orig.-Radierung. Fol. Mit Rand. Th. 758.
+- 1011 Vier Blatt verschiedene Voegel mit allerlei biblischen Spruechen. Orig.-Radierungen. 1749. Fol. Mit Rand.Th.759-762.
+- 1012 Lehrreiche Fabeln aus dem Reiche der Thiere .... Erster Versuch. Hrsg. v. Joh. E. Ridinger,
+- Augspurg. 1774.Fabul I—VI1l. Orig.-Radierungen.Fol. Breitrandig.Th. 765-772. Titelblatt (deutsch, lat.u. franzos.), sowie begleitender Text (ebenfalls in drei Sprachen) zu Fabul IVI liegen bei. Die Kupfer sind in schonen Exemplaren vertreten.
+- 1013 Fabul:IV. Schandliche Trunckenheit entdecket die Thorheit des Gemithes. Orig.-Radierung. 1743. Fol.Mit Rand. Th.768. Vorziglicher Abdruck, wohlerhaltenes Exemplar.
+- 1014 Das Paradies oder die Schopfung u. der Suindenfall des ersten Menschenpaares.12 Blatt. OriginalRadierungen.Quer-gross-fol.Th.807-818. Blatt 8 u. 1l defekt u. ausgebessert.
+- 1015 Ao. 1760 im Februar ist dieser grosse ganz zahm erzogene Lowe in Augspurg zu sehen gewesen.... Orig.-Radierung. Fol. Breitrandig.unbeschnitten.
+- 1016 Diser Hirsch von 46. Enden ... ist am 31. Aug. 1736 von . . . Herzog Franz Josiae zu S. Coburg-Saalfeld . . . anderthalb Stunden von ... Coburg ... geschossen worden. Orig.- Radierung. Fol. Mit Rand.
+18.
+
+55.
+
+Fol.
+
+57.
+
+ol.
+
+er, nq
+
+ng.
+
+al-
+
+S.
+
+ng.
+
+V.
+
+## STADTEANSICHTENU.A.
+
+- F. Jukes sc. Kupferstich in Punktiermanier, alt-koloriert. London Pubd. 1802. Quer-fol.
+2. 1019 ASPERN. Erstuirmung des Kirchhofes von Aspern durch das Regiment Benjowsky mit einem Batailln von Jordis am 21. May 1809. Aquatintablatt koloriert. Gez. von F. von Habermann,
+3. gest. von Anton Pucherna. Wien bei Artaria &amp; Comp. Quer-folio. Sehr selten.
+4. 1020 BALLENSTEDT. Fahnenweihe der Burgerwehr 1848. Lithographie mit alten Kolorit, v. C. Harding.Quer-fol.Breitrandig.
+
+Bei der Weihe der schwarzrotgoldenen Fahne ist auch die Herzogin anwesend.
+
+## BERLIN.
+
+- 1021 Grundriss der Konigl. Residenzstadte Berlin. Kupferstich m.altem Handkolorit. Im Jahr 1792
+- von neuem angefertiget durch Daniel Friedrich Sotzmann. Quer-fol. Breitrandig.
+- 1022 Panorama von Berlin vom Konigl. Zeughause gesehen. Gez.u. lith.v. F.v. Laer. Ca. 1840. Quer-fol.-obl. Breitrandig.
+- 1023 Das Monument auf dem Kreutzberge. Aquatintablatt. Hinze del. F. Jugel aqua., Umriss Fincke sc. Ca.1830.Quer-40.
+- 1024 Die Neue Konigs-Wache. Aquatintablatt. Hinze del. F. Jigel aqua., Umriss Fincke sc. Ca.
+- 1830.Quer-4°.
+- 1025 Platz am Zeughause in B. Radierung m. prachtigem alten Kolorit. Hinze del. A. Gentili sc.
+- Ca.1820.Berlin, Verlag v. G.E. Muiller. Quer-fol. Sehr selten.
+
+Hochinteressantes Blatt,mit reicher figirlicher Staffage.Parade vor dem Zeughaus,Vorbeiritt von Husaren vor den beim alten Konigl. Palais zu Pferde versammelten Furstlichkeiten.Rechts die Neue Wache.
+
+Mit Widmung an Nikolaus I. v. Russland.
+
+=Siehe die Abbildung.=
+
+- 1026 Das Neue Schauspielhaus in Berlin. Schinkel gez. Aquatintablatt in Sepia. Jugel gest. 1820. Berlin,bei L. W.Wittich. Imperial-quer-fol. Breitrandig. Selten.
+
+reicher figirlicher Staffage.
+
+Wundervolls,ganzbreitrandiges Exemplar,vorziglicher Abdruck dieses interessanten Blattesmit
+- 1029 Palais Kaiser Wilhelm, 1. mit den daneben liegenden Hausern Unter den Linden u. dem Denk. mal FriedrichdesGrossen.Pozllan vasemit farbig gemalter nsicht.Vase tiefblauKopf
+- Sockel 48cm.
+
+Berlin:Szeptermarke mit Wappen u. Malereimarke der Manufaktur. Ca.1859.
+
+Ganz prachtige Ziervase von ausserordentlicher Grosse und wundervoller, grosser Ansicht in her. lichen Farben,mit interessanter,figurlicher Staffage.
+
+- 1030 Die Singe-Akademie. Aquatintablatt. Hinze del. Juigel aquat. Ca. 1830.Quer-40.
+- 1031 Ansicht des Hackeschen Marktes von der Oranienburger Strasse mit der Spandauer Bruicke. Im Hintergrunde h. n. 1. die Marienkirche. Links u. rechts vor der Bricke im Vordergrunde stattliche Hauser, sowie niedrige kleine Trodlerbuden. Wunderschoner, figurenreicher Kupferstich mit feinem, alten Kolorit. Dess. et grave p. J. Rosenberg a Berlin 1780. Mit franzos. Unterschrift u. Widmung an den Minister von Hertzberg. Imp.-quer-fol. Breitrandig.
+
+Prachtiges Exemplar einer mit der schonsten dekorativen Biatter der bekannten Foige.
+
+- 1032 10 Blatt zum Teil farbige, zum Teil getuschte Grundrisse, Plane u. Original-Entwirfe zu Ritter Akademie, Brandenburger Tor, Konigl. Bibliothek in Berlin, etc. von Joseph Frey,Mann heimer Architekt (1758-1812).Zum Teil bezeichnet.Quer-gross-fol.
+- 1033 Tre p to w. Durchsicht von Treptow nach Stralau. Original-Radierung.,Fr. Bolt ad vivum fec:
+- 1797.Klein-40.Mit Rand.
+
+Ausserst seltenes, sehr fein gearbeitetes Blattchen.
+
+## Siehe die Abbildung.
+
+VON GEBR. GROPIUS,im Diorama, Berlin um 1830. Fol. u. quer-fol.
+
+- 1034 ,Besoffen is Er! aber nich von't Hubeln, ne von Schnaps!. "—Ein betrunkener Tischler wird zu Hause von seiner Frau mit dem Besen empfangen. Orig.-Lithographie von B. Dorbeck.
+- Altkoloriert. Mit Trockenstempel von Gebr. Gropius. Quer-4.
+- 1035 ,Der Racker ist tuicksch, er will man nich leben!—Manner versuchen einen gesturzten alten Gaul mit Hebebaumen etc. muhsam aufzurichten. Orig.-Lithographie mit altem Kolorit. Mit Trockenstempel von Gebr.Gropius.Quer-4o.
+- 1036 ,Frau Gehem Sekeltaren de Holzhauer brauchen kene Rechnung, da steht unse Schreib zeug ..."Holzhauer verhandelt mit einer Frau iber den Preis. Orig.-Lithographie von B.Dorbeck. Altkoloriert.Mit Trockenstempel von Gebr. Gropius. Klein-fol.
+er-49.
+
+enk- igem
+
+Kopf
+
+Ssu herr-
+
+icke.
+
+tatt- mit
+
+tu.
+
+(tter ann-
+
+fec:
+
+BEN
+
+hler eck.
+
+zten orit.
+
+eib- von
+
+- stempel von Gebr. Gropius. Klein-fol.
+- ."Mann vor der ein kleiner Abflussgraben ist. Orig.-Lithographie von B. Dorbeck. Altkoloriert. Mit Trocken-
+- stempel von Gebr. Gropius. Klein-fol.
+- 1039 ,Ochse! wat is denn det hier vor en Kellergefalle!? — Eine Frau mit einer Laterne in einem Holzkeller, in den ein Herr von der Strasse aus hineingefallen ist. Orig.-Lithographie von St(eifeck). Altkoloriert. Mit Trockenstempel von Gebr. Gropius. Klein-fol.
+- 1040 ,Un weil ick en rummer drehe, denk ick der Schlag regiert mir, seht der Junge aus wien Komedienzettel und hat die ganze Hosen voll Patafia Flecke.—Ein Junge hat sich an ein frisch gestrichenes Grabkreuz gelehnt. Orig.-Lithographie von B. Dorbeck. Altkoloriert. Mit Trockenstempel von Gebr. Gropius. Klein-quer-fol.
+- 1041 ,wat giebt sie denn vor det Balg den Dag Miethe zum betteln gehn? Zwei Bettlerinnen, die eine mit einem Kind, die andere mit einem Blinden. Orig.-Lithographie. Altkoloriert. Mit Trockenstempel von Gebr.Gropius. Klein-quer-fol.
+- 1042 BERLIN 1806. -Entrée des Francais a Berlin, le 27 octobre 1806. Swebach del. Bo-
+- vinet sc. Radierung. A Paris, chez Bance. Ca. 1807. Klein-quer-fol. Sehr seltene franzosische Darstellung.
+- 1043 BILDER AUS DEM LEUTNANTSLEBEN. Erinnerung an Rudolph von Uthmann,Leutnant im 7. Inf.-Regiment. Geblieben den 30.April 1848 im Gefecht bei Miloslaw.10 Blatt Orig.-Lithographien mit den dazu gehorigen Textblattern. L.Sachse &amp; Co.Berlin.Ca.1840.Quer-4. Sehr selten.
+- Reizende Berliner humoristische Blatter mit den dazu gehorigen Textblattern.
+
+BERLINER EISEN. Siehe unter Nr. 494.
+
+- 1044 BERLINER PORZELLANSERVICE fir einen Sanger. Ovales Tablett mit Kaffe- u. Teelanne,Milchgiesser,Zuckerdose, sowie zci Tassen. Blattermuster (gruin),mit Lila, sowie reicher Coldverzierung. Auf den einzelnen Blattern Namen u. Spriche in Goldschrift.
+
+Berlin: Szeptermarke.ca.1830, mit Malereimarken auf samtlichen Teilen.
+
+BERLINER STECHER. Siehe unter Nr. 564-567,569-576,594 641, 682, 703-706, 717 bis 720,722,725,756,758-769,795.
+
+Siehe ferner unter Nr. 489.
+- 1045 BRUSSEL-LAEKEN. Vue de la maison de campagne de Scoonenbergh pres de B. Radierung. S.Le Febre del. S. Middiman sculp.1786. Quer-fol.Breitrandig.
+
+Es liegt ein Blatt darstellend eine Festlichkeit (1785) in Laeken bei.
+
+DANZIG.Siehe unter Nr.374.
+
+- 1046 DRESDEN. Ansicht von Dresden von Neustadt aus gesehen. Blick uber die Bricke auf die Hof.
+- kirche u. Bruhl'sche Terrasse. Im Vordergrund in der Mitte die reich belebte Bruicke. Oelgemalde auf Metallplatte mit Uhrwerk und Uhr auf dem Turm der Hofkirche. Bildgrosse 57 :85 cm. In Goldrahmen.
+
+Wundervolle, farbenreiche Ansicht mit grossem Uhrwerk im Rahmen-Kasten auf der Rickseite.
+
+- 1047 Die Moritz-Strasse am neuen Markt in D.,rechts das Gasthaus zur Stadt Rom, links Hotel de Saxe. Original-Oelgemalde auf Holz. Ca.1820. Grosse 27,5:35 cm.In altem, breiten, verzierten
+- Goldrahmen.
+
+Hochinteressante alt-Dresdener Ansicht schon in Farben,vorziglich erhalten, mit reicher, interes santer, figirlicher Staffage.
+
+- 1048 EUTIN. Ansicht von Silbeck bey Eutin. Radierung mit altem Kolorit. Hansen pinx.bey Cetti in Kiel.Ca.1820.Quer-4.Breitrandig.
+- 1049 FRANKREICH.-FRANZOSISCHE KARIKATUREN aut die Restaurationszeit,die Bourbonen und das Pariser Leben.Sammlung von 14 Blatt kolorierten Radierungen ca.1815 in 4 und Kl.-folio.
+
+Sehr interessantes Konvolut seltener Einzelblatter zur Kulturgeschichte des XIx. Jahrh.,,Le Mat de Cocagne.—,,Dejeuner du Dimanche——,Le bon Royaliste.——,L'Aspirant CivilL'Aspirant"
+
+,Les habits retournes"—，,Promenade au Palais Royal"—，,Promenade a Jeun".—,Gourmandinos ....
+
+—,Le nouveau Don Quichotte.—Antichambre d’un Grand Seigneur"
+
+- 1050 FRANKFURT 1848.—Aetz-Bilder aus Frankfurt a.M. 1stes Heft. 5’ Blatt Radierungen von
+- Fr.Pecht. Leipzig. Ca.1848. In Original-Umschlag. Fol.
+
+Ausserst seltene und feine karikierte Darstellungen auf die Mitglieder des Frankfurter Parlaments bezigiich mit portratahnlicher Wiedergabe der einzelnen Personen.
+
+- 1051 FREDERIKSBORG. Ansicht des Konigl. Lustschlosses F. auf Seeland. Radierung mit feinem alten Kolorit.H. G.F. Holm del. J. Holm sc. Ca. 1830. quer-4.
+- 1052 FRIEDLAND i. Bohm. Schloss Friedland bei Nachod, Wallenstein's Schloss. Tuschzeichnung in Sepia.Ca.1830. Bildgrosse 36:5112 cm.
+- 1053 GMUNDEN. Die Stadt Gmunden von der Seeseite. Radierung mit prachtigem alten Original Kolorit. Runk del. Ziegler sc. Ca.1795. Wien, bey F. X. Stockl. Cum Priv. S. C.M.Quer-fol.
+- Breitrandig.
+
+Sehr seltene, vorziglich erhaltene Ansicht.
+ing.
+
+Hof- alde
+
+.In
+
+Seite, lotel
+
+erten ceres-
+
+Cetti onen
+
+und
+
+Mat ant".
+
+von nents
+
+inem nung
+
+inal r-fol.
+
+- wohnte. Lithographie. Kl.-qu.80.
+
+Die Auflosung lautet:,F. Betmann, Gastgeber zur Krone in Gottingen, recommandirt sein Gast haus allen Reisenden ganz gehorsamst."
+
+- 1055 GRATZ. Die Stadt Gratz mit der Gegend umher. Radierung mit prachtvollem alten Original
+- Kolorit. Runk del. Ziegler sc. Ca. 1795. Wien, bey F. X. Stock. Cum Priv. S. C. M. Quer-fol. Breitrandig.—— Sehr seltene prachtvolle Ansicht.
+- 1055a HAMBURG. —Landschaftsbild an der Unterelbe bei Bla n kene se. Rechts im Vordergrunde auf einer Anhohe zwischen Baumen Hauser. Links die Elbe mit Dampfer u. Segelboot.
+
+Oelgemalde auf Leinwand. Rechts unten Bez.: ,HB pinxit 18..(ca. 1840). Gerahmt.
+
+Interessante alte Ansicht aus der Umgebung Hamburgs, mit figurlicher Staffage, gut in Farben, wohlerhalten.
+
+Bildgr0sse 26,8·38 cm.
+
+- u.radiert v. Jacob Roux.Lief. I (soviel erschienen). 6 Blatt. Jena u.Weimar 1806. Quer-fol.
+- In Originalumschlag,unbeschnittenes Exemplar. Selten.
+
+Diese vorziglich erhaltenen, breitrandigen Blatter stellen dar:
+
+- 2.Ansicht der Saalbricke etc
+- 1.Jena, Standpunkt am Philosophengange.
+- 3.Ruinen der Kunitzburg.
+- 4.Wasserfall im Rauthale.
+- 5.Der Baadeplatz am Paradiese.
+- 6.Gegend bei Unterwollnitz.
+- 1037SCHLACHT BEI JENA.,Zwei Preussische Fahnenjunkerv.Kleist u.v.Platen stirzen sich in die Saale. Radierung m.altem Handkolorit. Kl.-4. Breitrandig. Sehr selten.
+
+Die beiden Fahnenjunker stirzen sich auf der Flucht vor den Franzosen,um ihre Fahnen nicht in die Hande des Feindes gelangen zu lassen, bei Giebichenstein (bei Halle) in die Saale.
+
+- 1058 ITALiENISCHE Volkstypen u. Kostume. 12 italienische Trachtenbilder. Kolorierte Litho-
+- graphien.Ca.1830.80.
+- 1059 KALISCH 1835. Erinnerung an Kalisch im September 1835. Im Vordergrund Friedrich Wilhelm Ill., Zar Nikolaus, Zarin Alexandra Feodorowna, die preuss. Prinzen und glanzende Suite, vor denen sich die Reiterstickchen der Tscherkessen abspielen, der Platz von preuss.u.russ.Truppen umgeben, im Hintergrund Stadt und Schloss Kalisch. H. Geelhaar gez. Steindruck von Kneisel.
+- Quer-folio.
+
+Interessantes Paradebild von jener durch Nikolaus seinem Schwiegervater aufgedrungenen theatralischen Bekundung russisch-preussischer Waffenbriderschaft. Von grosster Seltenheit.
+
+- Breitrandig.
+- 1061 KIEL. Ansicht der Bade Anstalt zu K. im Holsteinschen. Radierung mit feinem alten Kolorit. Hansen pinx. bei J. A. Cetti in Kiel. Ca.1830. Quer-kl.-fol. Breitrandig.
+- 1062 — KNOOP. Ansicht von Knoop an den Schlesw: Holst: Canal bey Kiel. Radierung mit altem Kolorit. Hansen pinx.Ca.1820.Quer-4o. Breitrandig.
+- 1063 - NEUMUHLEN. Ansicht von Neumihlen bey Kiel. Radierung mit feinstem alten Kolorit.
+- Hansen pinx.Ca.1820.Quer-kl.-fol. Breitrandig.
+- 1064 - Ansicht der RASTORFER-Pappiermuhle an der Schwentine. Radierung mit altem Kolorit. C.Hansen pinx. Ca.1S20. Quer-4. Breitrandig.
+- Mitzel lith.Quer-fol.
+- 1066 KOPENHAGEN. Die Borse. Aquatintablatt in Sepia. H. G. F. Holm del. J. Holm sen. sculps.
+- Ca.1830.Quer-80.Selten.
+- 1067 KRIEBLOWITZ. Schloss Krieblowitz, das Gut Bluichers. Radierung mit altem Kolorit. Ca.1825.Quer-40.
+- 1068 KUL M. Ansicht der Schlacht bei Kulm. L.Wolf del. et fec. Quer-4o. Daruiber im Oval: Brustbild Friedrich Wilhelm Ill., in Uniform, halb nach rechts. Punktiert. L. Wolf del. Krethlow sculp. Das ganze Blatt kl.-fol.
+- 1069 —Vandammes Gefangennehmung in der Schlacht bei Culm, den 16ten September 1813 durch
+- Kosackcn.Aquatintablatt. L.Wolf del. Juigel sculp. Ca.1820. Quer-fol.
+- 1070 LAUSITZ.—WENDISCHE VOLKSTRACHTEN. 9 Blatt Radierungen.Richter del. Schon
+- berg sc.u.A. Ca.1810. 4. Breitrandig.
+
+Seltene wendische Trachtenbilder,vorziglich erhalten.
+
+- 1071 LEIPZIG.Ansicht des Richterischen Caffee-Hauses. Kupferstich.Darunter beschreibender Text. Gross-folio. Mit Rand.
+
+Schone Ansicht des von Friedr. Conr. Romanus i. J. 17ol erbauten Prachtbaues.
+
+- 1072 —— Richters Caffée-Haus in Leipzig (im zweiten Stock des Homannischen Hauses). Orig.-Kupfer-
+
+Goethe verkehrte bei Joh. Georg Richter. Zur Messe herrschte hier reger Verkehr;Vertreter verschiedener Stande u. Volker zechten u. spielten hier. Dieses reich bewegte Leben u. Treiben stellt der
+
+- stich [von Geyser (?)] ca.1765. Quer-fol. Gerahmt.
+
+vorliegende Kupferstich sehr charakteristisch dar.
+
+- 1073 — Frauentr achten zu Leipzig. 5 Blatter, Kopfputz und Kleidung. Original-Radierungen
+- vo Rossmaessler und Thoenert.12o.(2 Bl. unzerschn itten.)
+lorit.
+
+altem lorit.
+
+lorit.
+
+er p.
+
+ulps.
+
+lorit.
+
+tbild culp.
+
+lurch hon-
+
+Text.
+
+pfer- ver-
+
+tder ngen
+
+- 32:44cm.
+- thauerin. 3.) Eine Litthauerin am Strande des Curischen Haffes. 4.) Ein Fischer in seiner Winterkleidung, von den Muindungen des Memel Strohmes. 5.) Ein Pole von den Polnischen Getraide Witinnen auf dem Memelstrom. 6.) Ein Litth. Madchen aus der Gegend von Prokuls. 7.) Ein Litth. Madchen aus der Gegend von Tilsit. 8.) Ein Pole von den grossen Polnischen Holzflossen auf dem
+- Memel-Strohm. Aquarellierte Federzeichnungen. 8o. Sehr interessant.
+- 1076 LONDON. View of Richemond Bridge. —View in Hide Park. 2 Blatt Londoner Ansichten in quer-oval. L. Belanger le Romain p. Radierungen in Farben angedruckt. Guyot sculpsit. London,
+- Publ.1793 by Colnaghi.Quer-kl.-fol.
+
+Interessante Ait-Londoner Ansichten.
+
+- 1077 LOSCHWITZ a. Elbe. Korners Weinberg in Loschwitz. Aquarellmalerei. 19 : 23,5 cm.Auf Karton.
+- Gerahmt.
+
+Am ehemaligen ,Dorfplatz", idyllisch im Grinen, steht das alte Wohnhaus des Appellationsrats Christian Gottfried Korner, zu seinem Weinberg gehorig. Hier empfing der alte Korner seinen jungen Freund Schiler in den Jahren 1785—1787 und auch 1801.—In dem Gartenhauschen dort schrieb Schiller am,Don Carlos".
+
+- 1078 MAINZ. Belagerung der Stadt Mayntz in der Nacht vom 29ten zum 30ten Juny Anno 1793.Aquatintablatt in Sepia.J. G.Schitz pinx. J. F. Tielker sculp. a.q. t.Gross-quer-fol. Interessante, sehr seltene Ansicht.
+- 1079 Ansicht von Mayntz nach der Ubergabe im Julio 1793. Radierung mit feinem, alten Kolorit. G.M.Kraus del. et scull. Quer-gross-fol.
+- 1080 — Ansicht von M. vom gegenuber liegenden Ufer aus gesehen. Lithographie mit altem Kolorit. Ca.1845. Quer-gross-fol. Aufgezogen.
+- 1081 Ansicht des Doms mit der interessanten Hauserpartie am Dom. Original-Oelgemalde auf Holz,
+- bez.:,,E. Schmidt. Ca.1840. Bildgrosse 41:51 cm. Gerahmt. Wundervolles, architektonisch interessantes Gemalde, vorziglich in Farben.
+- 1082 MUNDEN. (Hanno ver). Prospect von Muinden im Hannovrischen von der Nordwest-Seite. Radierung mit feinem,alten Kolorit. A. Range del. et sc. z.H.Cassel 1791. Gross-quer-fol. Breitrandig. Sehr interessante, seltene alte Ansicht von Hannov. Minden. Schones, breitrandiges Exemplar
+- gleterre. Englands Verderben. (Armiertes Floss mit Raum fur 10 000 Mann, wie es Napoleon bei einer Landung an der englischen Kuste zu benutzen gedachte.) Radierung, mit erklarendem Text.
+
+Hochinteressantes seltenes Blatt.
+
+- bey Fietta et Comp. in Kriegshaber. Ca. 1800. Quer-kl.-fol. Breitrandig.
+- 1084 SCHLOSS NEUHAUS.Vue du chateau de Neuhaus du vilage de Knigl, et de la maison de plaisance d'Aigen prise du convent de Maria Plan cote de lorient. Radierung mit altem Kolorit. Dess. d'apres nature par Mademoisselle Therese de Barisani. Ch. F. C. Wirsing sculp. Ca. 1795. Quer-fol.
+- 1085 NURNBERG. 11 Ansichten von N, speziell der Burg.Ausgefuihrte Federzeichnungen u. 3 Skizzen.
+- Julius Bock fec.1835-38. Kl.-fol.u.kl.-quer-fol.Selten.
+
+Heidenthurm mit dem Eingange zum Kaiserschioss — Nirnberg von der Westseite — Das Schloss von der Sidseite—Spittler-Thor zu N.— Grundriss des Kaiserschlosses u.a.
+
+- 1086 OSSMANNSTEDT bei Weimar. Wielands Grab zu Osmannstaedt. Orig.-Radierung (J. Roux del. et sculps.) Ca.1810. Gross-quer-fol. Breitrandig. Beiliegend: Wielands Grab-Monument zu Osmannstadt. M.M.sc.Quer-40.
+- 1087 OSTENDE. Vue d'Ostende, prise du bord de la Creque Gauweloose pres du Fort de Slyckena. Radierung. O. Le May pinx.L. J. Masquelier sculp.1782. Gross-quer-fol.
+- 1088 PARIS 1814.—Siegreicher Einzug der hohen Verbuindeten (Friedrich Wilhelm IIl., Kaisel Alexander und Kaiser Franz) in Paris am 31. Marz 1814.L. Wolf del. F. Jugel. sc. Aquatintablatt. Gross-quer-fol. Breitrandig.
+- 1089 PILLNITZ a. Elbe. Ansicht des sachs. Lustschlosses Pillnitz. Im Hintergrunde Konigstein u. Lilienstein. Farbiges Original-Aquarell. Ca. 1820. Blattgrosse 39:51 cm.
+
+Reizendes Blatt yon vorziglicher Wirkung.
+
+- 1090 PLOEN. Ansicht von P. Radierung mit altem Kolorit. L. Hansen pinx. bei J. A. Cetti in Kiel.
+- Ca.1830.Quer-kl.-fol.Breitrandig.
+- 1091 POLOTZK 1812. Tod des bayerischen Generals Graf Erasmus von Deroy am 18.August 1812 im Treffen bey Polotzk. Aquatintablatt koloriert. Gez.u.gest.von J. Lorenz Rugendas. Augsburg ca.1820.Quer-folio.Sehr selten.
+
+Interessante Episode aus dem Feldzug 1812.
+
+- 1092 POTSDAM. Gesamtansicht. Getonte Lithographie. Gez. u. lith. v. Borchel. Imperial-quer-fol. Breitrandig.
+- 1093 —Der Ruinenberg bei Potsdam. Original-Oelgemalde auf Leinwand. Signirt: ,L. K. pinxt (18)59.
+- Bildgrosse 43,5 :62 cm.In altem Goldleisten-Rahmen.
+
+Wundervolle Darstellung des Ruinenberges mit reizender figirlicher Staffage im Vordergrunde, herrlich in Farben.
+de orit.
+
+795.
+
+zen.
+
+vom
+
+S- von
+
+del.
+
+ann- ena.
+
+aiser inta-
+
+1nu.
+
+Kiel.
+
+2 im burg
+
+r-fol.
+
+059.
+
+nde,
+
+- Durchmesser der Vase 22 cm. Hohe mit Sockel 31 cm.
+
+Berlin: Szeptermarke u. Malereimarke der Manufaktur. Ca. 1830. Wundervolles Stick, prachtige Form mit schoner farbiger Ansicht.
+
+- (spiteren Konig Friedrich Wilhelm II.) am Neuen Markt in Potsdam gemalt von Profesor Zielcke. mit dem Schild mit den Hohenzollernfarben. Untertasse ganz vergoldet. Tasse in hoher Becher-
+- form. Spezialauftragsarbeit der koniglichen Porzellanmanufaktur ca. 1850.
+
+dienen. In dem beiliegenden Begleitschreiben des Konigs Fr. W. IV. von 1853 ist auf den Umstand hingewiesen, dass der verstorbene Konig Fr.W.II in dem auf der Tasse dargestelten Hause in seiner Jugend (als Sohn des Prinzen von Preussen, dann seit 1786 Konigs Friedrich Wilhelm Il.) geweilt und Unterricht genossen habe. Die Tasse ist als Prachttasse ein Meisterwerk der Klein-Malerei sowohl als auch der Por- zellanplastik.
+
+- 1096 PRAG.Hradschin und Kleinseite vom Kreuzherrenkloster auigenommen.Aquatintablatt. Nach
+- Schone seltene Ansicht von P., vorziglich erhalten.
+- d.Natur gez.v.V. Morstadt.Beendigt v.J. B. Hossel. Quer-fol. Breitrandig.
+- 1097-PRAG 1757. Pr. Heinrich bey Prag d:6tn May 1757. Prinz Heinrich, Bruder Friedrich
+- C.Hampe del. S. Ringck sc. Berlin (17)99. Radierung. Kl.-quer-fol. Breitrandig, unbeschnitten.
+- d.Grossen mit seinen Truppen iber einen Graben setzend u. die feindliche Stellung stirmend.
+- 1098 SALZBRUNN in Schlesien.,Der Koenigl. Baierische Artillerie Hauptmann Regnier erobert am 15ten May 1807 im Treffen bei Salzbrunn in Schlesien die des Tags vorher verlornen Canonen
+- wieder .. Heidecker Artillerie Oberlieutn. inv. Bollinger sc. Altkoloriert. Quer-fol. Selten.
+- 1099 SALZBURG. Gesamtansicht der Stadt umgeben von 12 Einzelansichten aus der Umgebung.
+- Stahlstich. J. Schon, Salzburg. Gr.-quer-fol.
+- 1100 SCHWEINFURTH. Ansicht in Radierung m. Handkolorit. Nach d. Natur von J. C. Ochlig. Ca. 1850. Quer-fol.Breitrandig.
+- und die Nicolaikirche. (Die Gegend der jetzigen Charlottenbricke.) Oigemalde von L. L. Muiller
+
+Wundervolle alte Originalansicht von dem berihmten Ansichtenmaler von Berlin und der Mark der Kinstler gestellt hat nennt mit dem Zusatz: ,Millr malt Landschaften.Authentische alte An-
+
+- etwa 1800. Bildgrosse 63,5:46 cm.Gerahmt.
+
+sichten von Spandau gehoren zu den grossten Seltenheiten.
+- 1102 STOCKHOLM. Banco in Stockholm. G. Bodenehr fec. et exc. Aug. Vind. Ca. 1720. Quer-4.
+- Breitrandig.
+- Siehe ferner unter Nr. 528.
+
+STRALSUND. Siehe unter Nr. 225.
+
+- K1.-qu.-80.
+
+In einer Hausergruppe der Gasthof ,AEspritan der Ill,im Hintergrunde die Spitze des，Minsters Am 2. April 1770 frih um 10 Uhr traf Goethe in Strassburg ein und stieg im ,Gasthof zum Geist" ab.
+
+- 1104 TRIEST. Vue de la ville et du port-franc de Trieste. Radierung. Ignace Heymann p. Giacinta Maina sc.1802. Imperial-quer-fol. (66 :103 cm.) Mit Wappen u. Widmung.
+
+Hochinteressante, seltene Gesamtansicht der Stadt u. des Hafens von Triest aus der Zeit um 1800.
+
+Unter der Ansicht nahere Bezeichnung der durch Nummern angegebenen bemerkenswertesten Gebaude etc.
+
+- 1105 TUBINGEN. Ansicht von T. Lithographie. Nach d. Natur gez. v. Wenng. Lithogr. von Elias. Ca.1820.Gross-quer-fol.
+- 1106 WERNIGERODE. Ansicht des Marktplatzes zu W.,mit seinen wundervollen historisch-alten Gebauden. In der Mitte das als Kunstdenkmal ausserst interessante Rathaus. Original-Olgemalde. Ca.1840. In altem Rahmen. Grosse des Bildes 52:83 cm.
+- 1107 WIEN. Vue de la ville de Vienne du cote du palais imperial. Radierung mit prachtvollem,alten
+- Kolorit. J.F. Wizani sc. Ca.1810.Imp.-quer-fol.
+
+Wundervolle, seltene Gesamtansicht,mit ausserst reicher u. interessanter figirlicher Sraff e im
+
+Vordergrunde.
+
+- 1108 Ansicht von W.auf den Garten des Belvedere. Radierung mit feinem alten Kolorit. Hammer
+- gest. Ca. 1825. Quer-gross-fol. Mit grau getuschtem Rand.
+- 1109 —Die Metropolitankirche St. Stephan in W. Radierung.Andon Leitner fec. Ca. 1795. Wien bey
+- Ignatz Eder. Gross-fol. Breitrandig.
+- 1110 —,Der alt Rossmarkt",heute ,Stock am Eisenplatzin Wien. Original-Aquarell in alten Farben. Ca.1700.Quer-klein-fol.
+- 1111 —Wasserfeuerwerk in Wien den 4. Oktober 1832. Lithographie. Nach d. Natur v.F. G.Wolf.
+- Gedr.in lith.Inst.Wien.Ca.1835.Quer-fol.
+r-40.
+
+ing.
+
+ers".
+
+'ab, inta
+
+800.
+
+etc.
+
+lias.
+
+Iten
+
+Ilde.
+
+Iten im
+
+mer bey
+
+ben.
+
+olf.
+
+VI.
+
+## SCHWEIZ.
+
+## ANSICHTEN.TRACHTENBILDER. KUNSTBLATTER.
+
+(Aus Nachlass Zehender.)
+
+- 1112AARAU.(Frickthal）.Junges Par aus dem Frickthal,Hand in Hand bei einander. (Himely pinx.）, Rullmann del. Mit feinem alten Kolorit. Ca. 1820. Klein-fol. Schones, seltenes Trachtenbild.
+- 1113 ARPENAS-FALL. Vue de la Cascade d'Arpenas. Original-Radierung mit altem Kolorit. Fait par J. A. Linck. Ca. 1790. Gross-quer-fol. Fleckig.
+- 1114 BERN.Plan von der Stadt und dem Stadtbezirk Bern. Gez.u.zum Theil aufgenommen,A 1809 durch R. J. Bollin.Radierung mit altem Kolorit. Gest.v. J. J. Scheurmann. Hrsg. durch Joh. Jak. Burgdorfer, Bern 1811. Gross-quer-fol.
+- 1115—Souvenir de la Suisse.Ansicht von Bern von der Aare aus gesehen. Umgeben von 20 Medaillons, Trachtenbilder der einzelnen Kantone. Aquatintablatt mit feinstem,alten Kolorit. Dess.par F.Meyer. Grave par J. Hurlimann. Quer-fol.
+
+Sehr interessantes Blatt, besonders wegen der reizenden Kostimbildchen wichtig.
+
+- Siehe ferner unter Nr.1166.
+- 1116 BERN (Canton). Maison de paysan du Canton de Berne. Original-Radierung mit feinstem,alten
+
+Prachtvolles schweizer Landschaftsbild mit interessanter figirlicher Staffage.
+
+- 1117 BEX. Vue de Bex. Original-Radierung mit feinem alten Kolorit. Fait par J. A. Linck. Ca. 1790. Gross-quer-fol.
+- Vor aller Schrift.
+- 1119 BRUNNEN. Vue de Brounnen et d'une partie du lac des quatres cantons prise a Wyl. Orig.Radierung mit altem Kolorit. Lory fec. Quer-4.
+- 1120 BURGLEN. Burgle lieu de naissance de Guillaume Tell, dans le Canton d'Ury. Orig.-Radierung
+- mit altem Kolorit.Lory fec.1796.Quer-4.Breitrandig.
+- 1121 DER HOHE EIGER von der Wengernalpe aus. Im Vordergrunde Viehherde an Alpensee. Orig.-
+- Aquarell von ,J. A. ca. 1800. Bildgrosse 32 :26 cm. Auf getuschtem Untersatzpapier.
+- 1122 ENTLIBUCH. Junges Madchen in ihrer Heimatstracht am Spinnrad sitzend. Lithographie mit
+- feinem Kolorit. Dess. et lith. par F. N. Konig. Kl.-fol.
+- 1123 FLULEN. Le port de Fluelen, dans le Canton d'Ury. Orig.-Radierung mit feinstem, alten Kolorit. Dan.Lafond fecit.4. Breitrandig.
+- 1124 GENF. Geneve et le Mont Blanc, sortie du Rhone du Lac de Geneve. Aquatintablatt in Farben gedruckt und mit feinstem Handkolorit. J. Du Bois p. Himely sculp. Ca. 1830. Quer-fol. Breitrandig, vorziglich erhaltenes Blatt. Wundervolle Ansicht, sehr selten. Auf feinstem WhatmanPapier.
+- 1125 —Vue de Geneve &amp; Jonction de lArve avec le Rhone. Radierung mit altem Kolorit. Fait par J.A.Linck.Quer-gross-fol.
+- 1126 -Vue du Pont des Bergues, de lisle J. J. Rousseau et de Geneve prise de I'hotel des Bergues. Dessinee d'apres nature et grave par Faican. Mit figuirl. Staffage. Abdruck vor aller Schrift mit feinstem alten Kolorit.Ca.1830.Quer-40.
+
+In diesem Zustand von grosster Seltenheit.
+
+- 1127 —Vue du pont et de l'hotel des Bergues, et de lisle JJ. Rousseau a Geneve. Dessine et grave
+- par Faican. Mit figurl. Staffage. Abdruck vor aller Schrift mit feinstem Originalkolorit. Ca.1830. Quer-4.
+
+In diesem Zustand von grosster Seltenheit.
+
+- 1128—La petite Laitiere. Junges Genfer Madchen in ihrer Nationaltracht,neben ihr ein Butterfass. Lithographie mit feinstem alten Kolorit. Lith. par Konig. 4. Feines, interessantes Trachtenbild.
+- 1129 GIESSBACHFALL. Cascade du Giessbach sur le lac de Brientz. Orig.-Radierung mit feinem alten Kolorit. Peint &amp; grave par H. Rieter. 1804. Gross-quer-fol. Vor aller Schrift. Wundervolles schweizer Landschaftsbild.
+- 1130 —Chute du Giessbach au bord du lac de Brientz. Orig.-Radierung mit feinem, alten Kolorit. Lory fec. Quer-4.Breitrandig.
+- 1131 ISELTWALD(Brienzersee).Vue prise a Iseltwald,sur le lac de Brientz. Orig.-Radierung mit feinstem
+- alten Kolorit. Peint d'apres nature &amp; grave par H. Rieter, avec privilege. 1804. Gross-quer-fol. Wundervolles schweizer Landschaftsbild.
+- 1132 INTERLAKEN.Ansicht der Stadt vom nordl. Ufer der Aare aus gesehen, im Hintergrunde das Gebirgsmassiv nach dem Grindelwald Gletscher zu. Orig.-Radierung mit schonem Kolorit. Wit-
+- zani sc. Gr.-quer-fol. Breitrandig.
+
+Prachtvolle farbige Ansicht. Brillanter Abdruck auf Whatman-Papier von 1826.
+
+- 1133 JUNGFRAUGLETSCHER. Cime de la Jungfrau vue pres dUnterseewen. Original-Radierung
+- mit feinem, alten Kolorit.Peint d’apres nature &amp; grave par H.Rieter, avec privilege.Klein-fol.
+- 1134 LAUSANNE. Vue de Lausane. Radierung mit feinem, alten Kolorit. Dess. par J. L. Aberli et grave par B.A.Dunker, avec Privilege. Quer-fol.
+rit.
+
+Den an-
+
+oar les.
+
+mit ave
+
+130.
+
+ass.
+
+em rit.
+
+em, fol.
+
+das
+
+Vit- ung
+
+fol.
+
+et
+
+- tintablatt,mit feinstem Originalkolorit.J.Meyer,F.Hegi del.F.Hegi sc.Lucerne ca.1825.Qufol
+- Sehr seltenes Blatt in prachtigen Farben.
+- 1136 — Dasselbe Blatt. Ohne Kolorit.
+- Siehe ferner unter Nr. 211.
+- 1137 MEYRINGEN. Chutes du Dorf et Alpbach a Meyringen. Orig.-Radierung mit altem Kolorit.
+- Lory fecit. 40.
+- 1138 MILITAR. Schweitzerische Truppen vor einem Wirtshause rastend. Orig-Radierung mit feinem, alten Kolorit. In Wien bey T. Mollo u. Comp. Quer-fol.
+- Siehe ferner unter Nr.1166.
+- 1139 OBERHASLI-THAL. Vue de la vallée d'Oberhasli prise au bas de la tour Refti. Orig.-Radierung
+- mit feinem,alten Kolorit. Lory fec. Quer-40.
+- 1140 REICHENBACHFALL. Derniere Cascade du Reichenbach dans la vallee d'Oberhasli. OriginalRadierung mit prachtigem, alten Kolorit. Peint d'apres nature &amp; grave par H. Rieter, avec privilege, 1804. Quer-gross-fol.
+- 1141 RHONEFALL. Vue de la perte du Rhone. Original-Radierung mit altem Kolorit. Fait par J. A. Linck.Ca.1790. Quer-gross-fol.
+- 1142 RIGI-KULM. L'Auberge du Rigikulm.Aquatintablatt mit feinstem,alten Kolorit.A. Schmid del. C.Rordorf sculp.Ca.1820.Quer-40.
+- 1143 —Partie auf dem Rigi. Original-Gouachemalerei.(L. Bleuler fec.) Ca.1830.Klein-quer-fol. Mit
+- grau getuschtem Rand.
+- 1144 ST. BERNHARD.Vue de 1hospice du grand St. B. Aquatintablatt koloriert. Dess. par Opper
+- mann (18)53. Grave par Weber. A Zurich chez F. Sal. Fussley. Quer-4.
+- 1145 ST. GOTTHARD. Vue perspective du Mont St. Gothard. Radierung mit altem Kolorit. Dess. d'apres un modele execute en relief sous la direction de Mr. Exchaquet. Publie en 1792 par Chr.
+- de Mechel, a Basle. Gross-quer-fol.
+- 1146 STMAURICE (Vallais）.Le pont de St Maurice dans le bas VaillaisRadierung mit feinem, alten
+- Handkolorit. Quer-fol. Mit grau getuschtem Rand.
+- 1147 SCHWANAU. Vue de lisle de Schwanau, sur le lac de Lowerz. Radierung mit feinstem, alten
+- Kolorit.Dess. par L. Zehender, Grave par Lory. Quer-4. Breitrandig.
+- 1148 SCHWEIZER ANSICHTEN. 19 Blatt. Aquatintablatter, Radierungen, u. Orig.-Aquarell. Fol. u.quer-fol.
+
+Album von St.Moritz (13Blatt)—Aegeri See —— Eiger Gletscher — Grindelwaldgletscher — Lausanne ——Luzern——Vevey.
+
+- 1149 3 SCHWEIZER ANSICHTEN. Farbige Lithographien.Quer-4. Wundervolle Landschaftsbilder, dabei eines mit Salinen-Anlagen.
+
+## SCHWEIZER KUNSTLER.
+
+## S.FREUDENBERGER.
+
+- 1150 Bauer u. Bauerin vor ihrem Hause. Der Mann sitzt auf einer Bank, vor ihm steht die Frau mit der Linken die Schirze hochhaltend. Rechts hinter einem saufenden Hund ein kleines Kind mit
+- Gerte. Orig.-Radierung mit feinem,alten Kolorit. 4. Vor aller Schrift. Selten.
+- 1151 Bauerin mit Kind vor ihrem Hause sitzend, der Mann mit einem Korb Obst vor ihr stehend. Ra-
+- dierung. Grave a 1eau forte par B. A. Dunker et termine au Burin par M. G. Eichler 1778. Fol. Breitrandig,unbeschnitten.
+
+Prachtblatt.Wundervolles schweizer Trachten- u. Landschaftsbild.
+
+- 1152 La Filleuse. Aquatintablatt in Sepia. Klein-fol. Mit Rand. Vor dem Kunstlernamen. interessantes Trachtenbild in einem prachtigen Abdruck in braun.
+- 1153 Le Retour du faucheur. Heimkehrender Bauer wird von seiner in der Haustir stehenden Frau
+- u.Kindern begruisst. Orig.-Radierung mit feinstem,alten Kolorit.1777. Klein-fol. Mit Rand. Vor aller Schrift.
+
+Prachtblatt.Reizendes schweizer Kostimblatt.
+
+## F. N. KONIG.
+
+- 1154 Huftbild eines kleinen Kindes in blauem Kleidchen mit weisser Spitzenkrause u. blonden Locken. Orig.-Aquarellmalerei in ganz prachtigen Farben.Rechts bez.:,,F.N.Konig 1817.Blattgrosse 21 :17,5 cm. Prachtstick. Ganz hervorragende, herrlich in Farben erhaltene Arbeit des Kunstlers,von grosser
+
+Siehe die Abbildung.
+
+Feinheit und Lebendigkeit.
+
+- 1155 Huftbild des Aloys v. Reding, schweizer Staatsmann, Landamman des Cantons Schwyz (1764 bis 1818).
+
+Gouachemalerei in miniaturenhafter, feinster Ausfihrung,in prachtigen Farben.Blattgrosse 17,3:14,6 cm.
+
+Siehe die Abbildung.
+
+Eine ganz hervorragend ausgefihrte Gouachemalerei in prachtigen Farben.
+
+## G.LORY FILS.
+
+- Kolorit. ,Lory. fec: 1794. Klein-fol. Mit grau getuschtem Rand. Vor der Unterscrift. Prachtvolles Trachtenbild, hervorragend in Farben.
+- 1156 Bauerin in der Scheune die Hackselmaschiene drehend. Orig.-Radierung mit allerfeinstem, alten
+I.
+
+le it
+
+it a-
+
+8.
+
+u
+
+1.
+
+n.
+
+er
+
+4
+
+1.
+
+kleine Hauser, in das vorderste geht ein Mann. Im Hintergrunde Quergasse. Orig.-Radierung mit hochfeinem, alten KoloritKlein-fol. Mit grau getuschtem Rand.Vor aller chrift. Prachtexemplar. Reizendes Trachtenbild, herlich in Farben.
+
+## KARL LUDWIG ZEHENDER,
+
+schweizer Maler u.Kupferstecher,1751—1814.
+
+1158 Selbstbildnis des Kinstlers. Brustbild nach vorn. Fast lebensgross.
+
+Original-Kreidezeichnung auf graubraunem Papier.
+
+Siehe die Abbildung.=
+
+- 1159 Das Moosbad im Emmenthal.
+
+Original-Bleistift-u. Sepiazeichnung. Bez.:,C.L.Zehender 1807 Blattgrosse 24,3:37,7 cm.
+
+- 1160 Mihle am Waldesrande mit interessanter figirlicher Staffage. Blattgr0sse 24,3:38 cm. Original-Sepiazeichnung. Vor der Unterschrift. Wundervolles Landschaftsbild mit reicher,interessanter Staffage.
+- 1161 Le contentement matrimonial ou le paysan bernois au sein de sa famille. Original-Radierung mit allerfeinstem,alten Kolorit. Zehender inv. &amp; delin. Fol.
+
+Prachtexemplar eines schweizer Familien-u.Trachtenbildes. Probe-Exemplar aus Zehenders Nachlass.
+
+Siehe die Abbildung.=
+
+- 1162-derselbe Conturendruck ohne Kolorit.
+- 1163 Le depart du laboureur. La matinee champetre. 2 Blatt. Orig.-Radierungen (von K. L. Zehender)
+- mit feinem,alten Kolorit. Quer-fol. Mit Rand.
+
+Zwei wundervolle schweizer Trachten- u. Landschaftsbilder,reizende Gegensticke. Aus Zehenders Nachlass.
+
+：Siehe die Abbildungen.=
+
+- 1164 Junge Schnitterin unter einem Baume auf einem Baumstamm rastend, Sichel in der Linken, vor ihr. Korbchen mit Essen u. Essgeschirr und Butterfasschen.Orig.-Radierung mit hochfeinem, alten Kolorit. Kl.-fol. Vor aller Schrift.
+
+Ganz hervorragend schones Trachtenbild, herrlich in Farben und vorziglich erhalten.
+
+Siehe die Abbildung.
+
+- 1165 Schweizer Landleute bei einem Ausflug im Walde lagernd. Orig.-Radierung mit allerfeinstem,
+- alten Kolorit.,Zehender invenit 1792". Quer-gross-fol.
+
+Wunderbares,ausserst figurenreiches schweizer Trachtenbild, ganz hervorragend in Farben und von grosser Reichhaltigkeit verschiedener Kostime. Aus Zehenders Nachlass, ein Probeexemplar.
+
+=Siehe dieAbbildung.=
+
+Blattgrosse 53,5:46 cm.
+- welche die Insurgenten am.17. Sept.1802 erstirmten und wobei ein Her von Werdt das Leben verlor. Orig.-Radierung mit hochfeinem, alten Kolorit. ,C. Louis Zehender fec. Imp.-quer-fol.
+
+Hochinteressante historische Szene aus den Herbsttagen des Jahres 1802,als die von den Franzosen eingesetzte Regierung nach Lausanne vertrieben wurde.
+
+Auch militarkostimlich von grossem Werte.Das Blatt kam nicht in den Handel.
+
+Siehe die Abbildung.
+
+- 1167 STAEG pres de Twing Uri, sur la route du St.Gotthardt. Orig.Radierung mit feinem, alten Kolorit. Lori fecit.4.Breitrandig.
+- 1168 TELLS CAPELLE am Vier-Waldstadter See. Fruihe getonte Lithographie. Nach d. Natur gez. von C. Heinzmann (ca. 1818). Bei J. Velten in Carlsruhe.1824. Quer-fol. Breitrandig.
+- in herrlichen Farben,mit ovalem Hintergrunde.Ca. 1830.Blattgrosse je ca.22:2312 cm.
+
+Diese hervorragend gearbeiteten Trachtenbilder,Huftbilder junger Madchen in ihrer Nationaltracht, sind von wunderbarer Feinheit der Farben,vorziglich erhalten und stellen die Trachten folgender Kantone dar:Aarau——Freiburg-St.Gallen—Genf ——SolothurnWaad—Zirich.
+
+- 1170 - 13 junge Madchen aus verschiedenen Kantonen neben einander stehend. Radierung mit feinstem, alten Kolorit.Quer-40.
+
+Aarau,Frebug,olothun,haffhausen,Apnzell,St.Galln, raubnden,rgau,Waad,hurgau, Tessin, Wallis.
+
+- 1171 - Bauersleute mit ihren Kindern auf einer Bank unter Baumen vor ihrem Hauschen sitzend, in der Haustur lehnt ein alter Bauer. Rechts im Hintergrunde Dorfkirche. Original-Radierung mit feinstem, alten Kolorit. Oval ausgeschnitten u. auigezogen. Quer-8o.
+
+Reizendes Familien- u. Trachtenbild.
+
+- 1172 -- Junge Bauerin und Knabe ein Schafchen futternd, daneben Kuh u. Ziege. Im Hintergrunde am Felsen Hauschen. Orig.-Aquarellzeichnung (Zehender ?), in herrlichen Farben. Blattgrosse 12,7:15cm.
+
+Wundervolle Handzeichnung,herrlich in Farben.
+
+- 1173 —L'occupation Suisse. Bauer u. Bauerin vor ihrem Hause Kuhe trankend. Orig.-Radierung (v.Zehender) mit feinem, alten Kolorit. Quer-4. Mit Rand.
+- 1174 —Paysanne au marche a Vevey. Bauerin vor ihren Obstkorben stehend. Im Hintergrunde Hauser. Lithographie mit feinstem,alten Kolorit. Kl.-40.
+
+Reizendes Trachtenbild mit reicher, interessanter Staffage im Hintergrunde.
+
+- 1175 UNTERSEEN pres d’Interlacken. Original-Gouachemalerei.Publie par L. Bleuler, Laufen Suisse,
+- Ca.1830.Quer-kl.-fol. Mit breitem, grau getuschten Rand.
+rn, en
+
+o0.
+
+sen it
+
+ez.
+
+er, ht,
+
+one m,
+
+au, nd,
+
+ng de
+
+sse ng
+
+er.
+
+se,
+
+- Kolorit. Ca.1820.Klein-fol.
+
+VEVEY. Siehe unter Nr.1174.
+
+- 1177 WANDELBACH-FALL. Chute du Wandelbach dans la Valle d'Oberhasli. Orig.-Radierung mit feinem, alten Kolorit. D. Lafond fec. 4. Breitrandig.
+- 1178 ZURICH. Vue de la ville de Zurich. Wundervolle Gesamtansicht. Aquatintablatt mit feinstem, alten Kolorit. Dess. d'apres nat. par D. A. Schmied. Grave p. F. Hegi. Gross-quer-fol.
+- 1179 —Gesamtansicht. Aquatintablatt, mit feinstem, alten Kolorit. Ca. 1835. Quer-fol.-obl.
+- 1180 -Ansicht des Hotels Baur au lac. Original-Gouachemalerei. Ca.1835. Quer-fol. Mit grau ge-
+- tuschtem Rand. Farbenreiches Blatt, Blick auf den Ziricher See und die daran liegenden Ortschaften, sowie Alpenpanorama.
+- 1181 -AUF DEM UTLIBERG, BEI ZURICH.Aquatintablatt in Farben gedruckt u.mit feinstem Kolorit. Ca.1835.Quer-4.Mit grau getuschtem Rand.
+- 1182 ZUG. Vue de la ville et d'une partie du lac de Zoug. Radierung mit prachtigem, alten Kolorit. Dess. d'apres nature par Pierre Biermann.Publie en 1791 par Chr. de Mechel a Basle. Gross-quer-fol.
+- Wundervoile Ansicht von Zug, ganz prachtig in Farben und in vorziglicher Erhaltung.
+- tinta. Weimar,Lobe. Kl.-quer-40.
+
+## VII.
+
+## ALT=WEIMAR.
+
+## Goethe.
+
+## a)ALT-WEIMAR.
+
+- 1183 ERINNERUNGEN AN WEIMAR und seine Umgebung. 10 Ansichten in Lithographie u. Aqua-
+- 1184 Das Grossherzogl. Residenz-Schloss zu Weimar. Aquatintablatt v.Ed. Lobe. Kl.-quer-4.
+- 1185 Ansicht des Schlosses zu Weimar. Original-Bleistiftzeichnung. J. P. S. Rosel gez. Ca.1840.
+- Blattgrosse 22,3:34.2 cm.
+- 1186 Durchsicht der Schlossbricke im Herzogl. Parcke bey Weimar. Aquarellmalerei. Ca. 1800. Blattgrosse 26:34 cm.
+
+Vorziglich in Farben,interessantes Blatt mit hibscher figiirlicher Staffage.
+
+- 1187 Ansicht der Bibliothek und des Furstenhauses. Getonte Lithographie. Quer-80.
+- 1188,Fall der Laeuter-Quelle im Herzogl.Parck bey Weimar. Nach Natur gemalt und gestochen von C. Horny.Rechts auf dem Wege neben dem Bach zwei sich tummelnde Knaben und eine Frau mit Giesskanne. Altkoloriert. (Weimar ca.1805.) Quer-folio. Vorzigl. Abdruck mit sehr breitem Rand.
+- 1189 GOETHE'S GARTEN BEI WEIMAR. Im Vordergrunde die llm,im Hintergrunde das Gartenhaus, vor dem eine Schafherde. Original-Radierung.(J.Roux del. &amp; sc.) Gross-quer-fol. Sehr seltener Originalstich,beschnitten,ohne die Unterschrift.
+
+Gesange fir Freimaurer.—Confirmation des Erbprinzen Carl Friedrich.—Have anima (Riemers
+
+- 1190 3 Altweimarer Druckschriften.1799 u.1813.8o.Ppbd.u.kart. Trauergedicht auf Goethe).
+- 1191 -EISENACH. Ansicht der Wartburg am Weg in das Johannes Thal. Original-Radierung mit
+- feinem,alten Kolorit. G.M. Kraus fec.1799. Quer-fol. Mit Rand.
+- 1192 —OSMANNSTAEDT b. Weimar.Wielands Grab zu O. Original-Radierung. J. Roux del. et sculps. Gross-quer-fol. Breitrandig.
+).
+
+2n le
+
+nr
+
+1- rs
+
+it
+
+S.
+
+## b)GOETHE.
+
+## I.Goethe-Bildnisse etc.
+
+ORIGINAL-BILDNISSE. BILDNISSE
+
+ORIGINAL-HANDZEICHNUNGEN GOETHES. GOETHES IN KUPFERSTICH ETC.
+
+## 1.Originalbildnisse.
+
+## CATHARINAZIMMERMANN,
+
+Tochter des berihmten Arztes J. G. Zimmermann, Jugendfreundin Goethes, in dessen Elternhaus sie 1775
+
+weilte.ca.1755—1781.
+
+1193 Brustbild Goethes im Profil nach rechts in jungen Jahren. Bleistiftzeichnung auf Pergament. Rechts unten von der Hand des Vaters mit Feder bez.:,Catharina Zimmermann delinet. Um 1775. Blattgrosse 11,2 :8,7 cm.
+
+Ganz hervorragende Arbeit der Kinstlerin, auf der Ruckseite ein Vermerk von alter Hand:,J. W.
+
+Goethe ad naturam."
+
+Lt.Nagler,Kinstler-Lexikon, Bd.XX1I, S.286 war diese Zeichnung bis 1835 im Besitze des Decans
+
+Goethe schildert in ,,Aus meinem Leben, Ill.15. ausfihrlich den Besuch Zimmermanns mit seiner Tochter im Hause seiner Eltern (Ende September 1775). Die Tochter blieb langere Zeit,und der Wunsch der Frau Aja dem Sohne gegeniber, dass er das sich unglicklich fihlende Madchen heirate, deutet auf die nahen Beziehungen, die das Weilen unter einem Dache mit sich brachten. ,Schlank und wohl gewachsen trat sie auf ohne Zierlichkeit.,Meine Mutter gab sich noch viel Mihe mit dem guten Kinde. Die personlichen Beziehungen zu dem jugendlichen Poeten, den sie Tag fuir Tag wahrend ihres Besuches sah,bedingen bei einer so begabten Kinstlerin genaueste Kenntnis von Goethes Gesichtszigen, eine Bildniszeichnungvon ihrer Hand hat also den denkbar hochsten Originalwert,selbst wenn sie erst nach Catharina's Weggang aus dem Hause am Hirschgraben entstanden sein sollte. Wie nahe die Freundschait der beiden jungen Leute war, geht aus einer Notiz des Vaters Zimmermann in einem Briefe an die Frau von Stein hervor:,Mr. Goethe fait trop d'honneur a ma fille.
+
+Veith zu Schaffhausen. Im Uebrigen ist sich Nagier iber die Kunstlerin absolut im unklaren, sie hat nie in Weimar gelebt und starb schon 1781 im Alter von 25 Jahren.
+
+lich — das Original ist nicht nachweisbar; siehe Schulte-Strathaus, Tafel 15) im Wesentlichen iberein. Ob aber Schmoll wirklich die Vorlage fir die berihmte Vignette im Lavater zeichnete? Es ist bekannt, wie eifrig der berihmte Leibarzt Zimmermann (der Vater Catharinas) fuir Lavater charakteristische Kopfzeichnungen zusammenbrachte. Er pflegte diese Kopfzeichnungen, meist Silhouetten, mit einem hand schriftlichen Vermerk zu versehen (Namen des Dargestellten etc.). Hier hat er nun den Namen seiner Tochter als Kinstlerin mit seiner feinen, zarten Hand kalligraphisch unter die Zeichnung gesetzt. Eine einfache Abzeichnung nach ,Schmoll dirfte der geistvolle Mann kaum durch ausdrickliche Bezeichnung als Arbeit seiner Tochter geehrt haben.Sollte es sich hier um die Vorlage fir die Lavater'sche Vignette handeln? Auch das Einzige, was von Naglers Notiz iber die Zeichnung glaubhaft ist, namlich dass sie noch 1835 inSchweizer Besitz gewesen ist, deutet darauf hin, dass sie von LavatersSammlung herrihren kann.
+
+Ist auch der Beweis, dass es sich um Lavaters Vorlage handelt,nicht lickenlos zu fihren, so belegt die Aufschrift von Zimmermann, dass hier die Arbeit der Jugendfreundin Goethesvorliegt, diewie gesagt—in Goethes Elternhaus langere Zeit mit Goethe zusammen war, und also mit seinen Gesichts-
+
+Der Einwand, dass der Stich nach Schmoll die Gesichtslinien scharfer hervorhebe als die weiche Zeichnung der Catharina Zimmermann,laBt sich so widerlegen, dass hier eine Zeichnung vorliegt, dieor 140 Jahren entstand, ein Zeitraum, in dem von dem glatten Pergament manche zarte Linie abgerieben sein mag, die sich — mit dem Griffel in Kupfer geritzt natirlich auf den Kupfer-Abdricken so klar wie in der Entstehungszeit erhalten hat.
+
+zigen genau vertraut war, ein Umstand, der das Bildnis zu einem Wertobjekt ersten Ranges macht.
+
+：Siehe die Abbildung.=
+## ORIGINAL-SILHOUETTE.
+
+- 1194 Halb-Brustbild Goethes. Geschnittener Schattenriss nach links, mit rosa Untergrund. Im Oval mit reizender Umrahmung in Gruin, darin auf schmalem Schildchen von alter Hand ,Goethe. Um 1780.Klein-40.
+
+Schulte-Strathaus 45. Nicht bei Rollett. Enthalten in einer Sammlung von 43,zum grossten Teil als Unterschriften von der Hand Zimmermann's u. Lavaters.
+
+Von den Dargestellten seien folgende erwahnt.
+
+Birde
+
+Joh. Georg Jacobi
+
+Nicolai
+
+Joh.Georg Feder (Philosoph)
+
+Carl Herzog v. Wirttemberg
+
+Paul Petrowitsch von Russland Abbe Raynal
+
+Philippine Gatterer (Gottingen)
+
+Karschin
+
+Pfarrer Hahn
+
+Kaestner
+
+Joh. Georg Schlosser (Goethes Schwager)
+
+Gottl. David Hartmann
+
+Klopstock
+
+Christ. Gottl. Heyne
+
+Karl Ludwig v. Knebel
+
+Chr. Ph.D.Schubart Spalding
+
+Joh. Jak. Hess
+
+Lichtenberg (Gottingen)
+
+Holty
+
+Moser
+
+Wilh.Heinr.Tischbein u.a.mehr
+
+Friedrich Jacobi
+
+Friedr. Karl Freiherr von Mooser
+
+Siehe die Abbildung.=
+
+## C.A.HEIDELOFF.
+
+- 1195 Brustbild Goethes n. links. Original-Bleistiftzeichnung von C. A. Heideloff. 1829. Blattgrosse 24,5:19cm.
+
+Das skizzierte Bildnis ist eine Studie offenbar zu der in Schulte-Strathaus unter 160 genannten Tuschzeichnung Heideloffs.  Beigelegt zur Beurteilung und Vergleichung des Duktus eine zweite Bleistift zeichnung Heideloffs,flotender Hirtenknabe,mit eigh.Unterschrift ,Heideloff den 19. Febr.1831in gleichem Format und auf demselben Papier.
+
+=Siehe die Abbildung.==
+
+## MARTIN GOTTLIEB KLAUER,
+
+Weimarer Modelleur,1742-1801.
+
+1195a Originalbuiste Goethes modelliert von M. G: Klauer etwa 1780. Hohe mit Sockel 60 cm. Schwarzgrin patiniert, alte Fassung.
+
+Meisterverk des von Lavater erkannten kiassischen altweimaraner Kiinstlers. Schulte-Strathaus nennt unter Nr. 36-40 fuinf Busten Goethes in Gips von Klauer um 1780. Die hier aus Alt-Wei marer Familienbesitz hervorgeholte gehort zu den Werken Klauers dieser Epoche und dirfte die schonste aller dieser Arbeiten sein. Sie nahert sich am meisten der auf Tafel 4o abgebildeten,nur weist der Faitenwurf des Gewandes Verschiedenheiten — zu Gunsten des hier vorliegenden Originaies —auf. Auch ist die Kopfhaltung eine edlere und ruhigere. Spuren der Uberlieferung deuten darauf hin, dass es sich um jenes Original handelt, das Goethe der Frau von Stein 178o im Dezember ibermittelte: ,Hier ist ein Bild. Sezzen Sie es aufs Camin, denn es muss hoch stehen und iben Sie die
+
+Physiognomik."
+
+：Siehe die Abbildung.
+
+## 2.Handzeichnungen Goethes.
+
+196 FEDERZEICHNUNG,getuscht:Scene aus einem romischen Drama. Breite 16 cm. Hohe 8,5 cm.
+
+Die Zeichnung ist von Goethe nach den Dekorationen einer sicilianischen roten Tonvase in Palermo 1787 kopiert und wurde von ihm an Carl Wilhelm von Knebel d. J., Sohn seines alten Freundes, ge schenkt. Die Attestion der Tochter des Geschenkempfangers Frau M. Buchholz geb. von Knebel liegt bei. Der Name Goethes auf der Zeichnung ist von spaterer Hand.
+
+Siehe die Abbildung.=
+val
+
+Teil gen
+
+and hes
+
+ehr isse
+
+sch- tift-
+
+in cm.
+
+laus
+
+Wei- die
+
+nur aies
+
+rauf ber-
+
+die cm.
+
+ermo
+
+,ge- liegt
+
+- 20:33cm.
+
+Wundervolle Feder- und Tuschzeichnung Goethes, die sehr sorgfaltig ausgefihrt ist. Sie stammt
+
+=Siehe die Abbildung.
+
+aus dem Besitze des Weimarer Sammlers Henss.
+
+- von Goethe als Student in Leipzig in sehr zarter Ausfihrung radiert, Es zeigt auf einem Postament, zwei Bucher, daran angelehnt eine ovale Tafel mit ,S und kleiner Rosenguir. lande. Klein-16°. Bis zum Plattenrand beschnitten.
+
+Seltenheit ersten Ranges.
+
+- 119S RADIERTE BLATTER NACH HANDZEICHNUNGEN VON GOETHE, hrsg. von C. A. Schwerdgeburth. Weimar (1821). 6 Blatt Radierungen von C. Holdermann und C. Lieber. Klein-folio. Orig.-Umschlag.Unbeschnitten.
+
+Schone Sepia-Abdricke mit Schwerdgeburths Trockenstempel.—Auf Blatt II als Staffage: Christiane und August v. Goethe.
+
+Auf dem Umschlag ein zum ersten Male abgedrucktes Gedicht Goethes.
+
+- 3.Bildnisse Goethes in Kupferstich,Lithographie etc.,sowie in
+- plastischen Darstellungen.
+
+Goethe-Kreis.
+
+- 1199 Kopf im Profil nach rechts in einem Oval. Joh. H. Lips del. et fec. Radierung (aus Lavater, Phy-
+- siognomische Fragmente). 4°. Breitrandig,fast unbeschnitten.
+
+Schulte-Strathaus X. Rollett VIl, 1. Seltenes Blatt in altem Original-Abdruck, nach einem um 1774 gefertigten Gipsmedaillon von einem Schiler Nahl's in Kupferstich ausgefihrt.
+
+- 1200 Kopf im Profil nach links. Oval. Copie nach Joh.H. Lips. Radierung (aus Lavater, Physiogno mische Fragmente). In der linken oberen Ecke am Plattenrand:,Carricatur,rechts ,G 4°.Unbeschnitten.
+
+Schulte-Strathaus X. Rollet VIl.3.
+
+- 1201 Eisenplakette mit dem Relief Goethes nach links. Nach dem Wachsrelief von Gerh. von Kigelgen. Weimar.1808. Berliner Eisenguss. Ca.1815. Mit Oese. Durchmesser 10 cm. Schulte-Strathaus 95. Rollett 50.Rickseits eingeritzt VII—I.
+- 1202 Wachshochrelief im Profil nach rechts in Anlehnung an das Schadow'sche Modell. Hohe ca. 8 cm.
+- Unter Glas in altem schwarzen Holzrahmen, mit ovaler Messingeinfassung.
+- 1203 Lebensgrosses Brustbild im Profil nach links, mit kurzgeschnittenem Haar u. Ordensstern auf der Brust. Ferd. Jagemann gez. (1817). C. Muiller sc. Gross-folio. Breitrandig.
+
+Schulte-Strathaus 114. Rollett LXII,1.Guter Stich. Wohl das berihmteste Portrat des alternden Goethe,in einem schonen Exemplar des Originalstiches,der am 1.Sept.1817 als erschienen angezeigt wurde.
+
+- 1204 Brustbild, lebensgross. Ferd. Jagemann gez. (1817). C. Miller sc. Gross-folio. Breitrandig.
+
+Schulte-Strathaus 114. Rollett LX!l, 1.,Guter Stich in Crayon-Manier; auf gelblichem Papier mit weissen Lichtern.Prachtvolles Exemplar.
+- 1205 Buste in Nachbildung desModells von Christian Daniel Rauch (1820),mit Inschrift: ,Goethe
+- (20mm) hoch.
+
+Ton.
+
+Schulte-Strathaus 118. Rolltt LXIX. Sehr seltenes Stick. Vorzuigliche Erhaltung. In dunklem
+
+- 1205a —— Dieselbe. Das Ganze auf viereckigem, stufenartigen Eisensockel, dessen Durchmessr am
+
+Schulte-Strathaus 118. Rollett LXIx. Ganz hervorragendes Stick. Biste und beide Sockel aus einem Stick. Vorzigliche Erhaltung. In graubraunem Ton.
+
+- Fusse 7,7 cm betragt.
+- 1206 Halbfigur, sitzend,im Hauskleid,nachrechtsblickend;dieRechtehalt ineFeder,die linke Hand ist auf den Tisch gestitzt. O. Kiprinsky del. (1823). H. Grevedon lith. Auf China. Fol. Breit-
+
+Schulte-Strathaus 124. Rollett LxxIl, 1.,Kraftig und sicher durchgefihrte Steinzeichnung. Rarissimum. Prachtiger Abdruck auf China.Vor der Unterschrift, vorziglich erhalten.
+
+- randig. Sehr selten.
+- 1207 Brustbild h.n. 1. C.Vogel von Vogelstein p. 1824. (Deutz? lith.). Mit Unterschrift: GOE-THE und kleiner Darstellung des Goethe-Hauses in Frankfurt a. M. zwischen den getrennten Teilen des Namens. Fol. Breitrandig, unbeschnitten. Selten. Schulte-Strathaus 126. Rollett LXXIX,1.
+- 1208 Brustbild n. 1. blickend. C.Vogel (von Vogelstein p.1824). S.Bendixen (lith.).Hamburg, Gedruckt in der privileg. Steindruckerei 1826. Auf China. Mit Facsimil. Unterschrift:,Liegt dir Gestern klar und offen....(4 Zeilen aus den ,zahmen Xenien").,Weimar, 7. Nov.1825"und Namenszug.Gross-folio. Selten.
+
+Schulte-Strathaus, 126. Rollett LXXIX,4.,Ziemlich gute Lithographie. Abdruck auf China, mit Trockenstempel.
+
+- 1209 Goldener Fingerring mit gruinem Stein, in den Goethes Kopf im Profil nach links geschnitten ist. Nach der Medaille der Angelika Facius (1825). Hohe des Steins 22, Breite 16 mm. Schulte-Strathaus 134, Rollett LXXxVl. Aus gewohnlichem Gold.
+- 1210 Brustbild. Kopf h.n. r. Mauzaisse fec. (1827) nach der Zeichnung v. J. J. Schmeller. Lithographie.
+
+Schulte-Strathaus 146. Rollett xCV,5. ,Sehr tichtige Steinzeichnung.
+
+- Fol. Mit vollem Rand.
+- 1211 Brustbild nach Stieler: L a m p e n s c hi r m ca. 1830. Ein schmaler, schwarzer Holzrahmen fasst in transparentem Porzellan (Biscuit) aus der Koniglichen Berliner Porzellan-Manufaktur ein Brustbild Goethes nach Stieler ein. Grosse ohne Rahmen 16 :14,5 cm. Mit Rahmen 19 :17,5 cm. Schulte-Strathaus 153. Prachtiges Berliner kunstgewerbliches Erzeugnis, sehr selten im Handel.
+- 1212 Miniatur-Statuette Goethe's nach Rauch (Weimar, Sept. 1828) aus Elfenbein aus einem Stick, auf Elfenbeinsockel. Das Ganze auf schwarzem Holzsockel unter runder hoher Glasglocke. Statuettengrosse 31 mm.
+
+Das Porzellan tragt als Marke: ,Scepter. K. P. M. 244 C. Das Goethebild ist meisterhaft portratahnlich.
+
+Schulte-Strathaus 155.Ein Kunstwerk der Elfenbeinschnitzerei.
+he".
+
+ckel
+
+Klem am
+
+aus and
+
+ceit-
+
+1g."
+
+HE
+
+ilen ckt
+
+ern
+
+2nS- ina,
+
+ten nie.
+
+sst ein
+
+m.
+
+el.
+
+ch.
+
+k，
+
+a-
+
+- Eck und Durand (Paris). —- Profil n. rechts. Links vom Kopfe wagrecht: Goethe. Unter dem Frag-
+
+Schulte-Strathaus 159. Rollett CIlI,2.
+
+- 1214 Portrat-Relief von David, Weimar 1829. Gipsmedaillon. Durchmesser 31,5 cm. In Holzrahmen.
+- Schulte-Strathaus 159. Rollett CIll, 2.
+- 1215 Halbfigur stehend. ,Nach dem Leben gezeichnet u. gestochen von C. A. Schwerdgeburth. Weimar 1832.Mit der Unterschrift. Fol.
+
+Schulte-Strathaus 165. Rollett CVIll, 5.
+
+- 1216 — Dasselbe Blatt. Brillanter Abdruck vor der Unterschrift u. Adresse. Gross-folio. Breitrandig,
+- unbeschnitten.
+
+Schulte-Strathats 165. Rollett CVIlI, 5.
+
+- 1216a GOETHE'S TODESANZEIGE vom 23. Marz 1852 mit der ursprunglichen unterdrickten Fassung als Todesursache ,Stickfluss in Folge eines zuruickgeworfenen Katharrhalfiebers". Karte in Typendruck mit ca.2 cm breitem Papierrand. Blattgrosse 10:15 cm.
+
+Rarissimum.
+
+Naheres iber diesen Einblattdruck siehe:,Brockhaus,Zum 8. August 1899. Seite 77.
+
+Ausserordentlich seltener Geiegenheitsdruck mit der urspringlichen Fassung des Anzeigentextes, die unterdrickt wurde. Das o in Wolfgang steht auf dem Kopfe. Die Karte ist gut erhalten.
+
+- 1216b —Dieselbe,mit der spateren Fassung alsTodesursache:,Stickfluss in Folge eines nervos
+- gewordenen Katharrhalfiebers. Karte in Typendruck, bis zur schwarzen Einfassungslinie beschnitten,Blattgrosse 6,4:10,6 cm.
+
+Ebenfalls ausserordentlich seltener Gelegenheitsdruck.
+
+- 1217 Zeugnisse aus Altweimar. Hausliches Leben und literarisches Wirken Goethes und seines Kreises. 42 Stuicke a. d. Weimar.-Wochentl. Anzeiger, spater Weimar.Wochenblatt a. d. J. 1797-1829.
+- Zus. (lose) in ein. alten reich m. Goldpressung verzierten Ganzlederbd. in-4.
+- 1.Literar. Anzeige betr.Hermann u. Dorothea.W. W.A.Nr. 84.1797.
+- 2.Verordnung betr. das Ilmenauer Bergwerk, sign.J.W.v.Goethe, Chr. G.Voigt.W.W.A.Nr. 5.1798.
+- 4.Lit. Anzeige:,Die Kunst mit Weibern glicklich zu sein. Ein Almanach nach Goethe, Lafontaine, Rosseau auf 1800.W.W.A.Nr.94.1799.
+- 5.Literar. Anzeige:Palaophron u. Neoterpe. W. W. Bl. Nr.16. 1801.
+- 7.Literar. Anzeige von:,Hermann u. Dorothea.Franz. Uebers. W.W. Bl. Nr. 40. 1801.
+- 6.Literar. Anzeige des ,Janus". W. W. Bl. Nr.26. 1801.
+- 8.Verlags-Anzeige von Gebr. Gadicke:,Portrat des Herrn Rat von Goethe von Lips.
+- 10.Literar. Anzeige von: ,Tancred u. Mahomet nach Voltaire von Goethe. W.W. Bl. Nr. 81. 1802.
+- 9.Todes-Anzeige von Corona Schroeder (Schroter). W.W. B.Nr. 69. 1802.
+- l1.Literar. Anzeige: Was wir bringen. W. W. Bl. Nr.90. 1802.
+12. Anzeige eines Diebstahls a. d. Garten des Herrn Geh. Rat von Goethe.W. W. Bl. Nr.23.1803.
+- 13.Literar. Anzeige:,Die natirliche Tochter. W.W.Bl. Nr. 80.1803.
+- 15.Theater-Anzeige der ,Natirlichen Tochter auf dem hiesigen Hoftheater. W.W. Bl. Nr. 101. 1803.
+- 14.Literar.Anzeige:,Taschenbuch v. Wieland u. Goethe". W. W. Bi. Nr. 88.1803.
+- traurig nach ..w. w. Bl. Nr.103.1803.
+17. Diebstahisanzeige aus Goethe's Haus a. Frauenthor.W. W. Bl. Nr. 86. 1806.
+- Nr.29-31.1807.
+- 21.Verzeichnis der Kur-und Badegaste von Berka 1815. Nr.125.Vulpius. Nr.150. Frau Geheimeratin von Goethe. Nr. 152. Herr Kammerassessor von Goethe.
+- 22.Verlagsanzeige:,Drei Lieder von Goethe. W. W. Bl. Nr. 7. 1815.
+- 23.,Da man bei Gelegenheit der Revision der Bibliothek des Herrn Geh.Rat von Goethe mehrere Werke
+- vermisst...W.W.Bl.Nr.47.1815.
+24. Beforderung von Julius August Walther von Goethe zum Kammerjunker. W. W. Bl. Nr. 52. 1815.
+- 25....zum Kammerrath.W.W.Bl.Nr.7.1816.
+- 26.Dekorierung Goethe's m. d. Orden vom weissen Falken, sowie Statuten des Ordens. W. W. Bl. Nr. 8
+- u.11.1816.
+27. Bekanntmachung betr. der ,Freyen Zeichenschuleunterzeichnet von Goethe, von Voigt. W. W. Bl. Nr.38.1816.
+- 28.Weitere Bekanntmachung betreffend der freyen Zeichenschuie. W. W. Bl.Nr. 48.1816.
+- 29.Programm der Unterrichtsstunden in der freyen Zeichenschule. W. W. Bl. Nr. 79. 1816.
+30. Liter.Anzeige von:,Wilhelm Meisters Wanderjahre. W. W. Bl. Nr. 43.1821.
+- 31.Anzeige eines Tableaux v. Goethe's Faust in 23 Darst.W. W. Bl. Nr.19. 1822.
+- 32.Theater-Anzeige von:,Tasso".W.W. Bl.Nr.38.1823.
+33. Anzeige von Porzellantassen mit einer Ansicht von ,Goethe's Haus". W.W. Nr. 87. 1824.
+- 34.Theater-Anzeige von ,Hermann und Dorothea.W. W.Bl. Nr.24.1824.
+- 35.Literar. Anzeige ,Der junge Feldjager im spanisch-portugiesischen Kriege. W.W. Bl. Nr.57.1825. 36/37. Auslosung von Hoftheater-Obligationen. Unterzeichnet: Stichling, von Goethe,Kruse.W. W. Bl.Nr.19/20.1826.
+- 38.,Im von Goethe'schen Hause wird ein Kindermadchen sogleich in Dienst gesucht.W. W. Bl. Nr. 81. 1827.
+39. Tauf-Anzeige:Herrn Julius August Walther von Goethe, Geh. Cammerrath's allhier, Tochterl. Alma Sedina Henriette Cornelia.W.W.Bl.Nr.4.1828.
+- 40.,Den Unterzeichneten ist bisher die Ehre zu Theil geworden, bei dem Eintritte eines neuen Jahres viele Glickwinsche nach alterer Sitte in personlichen Besuchen zu empfangen...Unterzeichnet von Goethe, von Fritsch, von Gersdorff, Schweitzer. W. W. Bl. Nr. 102. 1828.
+- 41.Theater-Anzeige von Goethes ,Faust.W.W. Bl. Nr. 67.1829.
+- Samtliche Sticke sind tadellos erhalten.Der Einband stammt aus der Bibliothek,de S. A. S. Madame la Duchesse de Courlandeund tragt deren Exlibris, dariber sauber eingeklebt alte Silhouette.
+- 1218 ANNA AMALIA, Herzogin von Sachsen-Weimar, Mutter des Grossherzogs Karl August; 1739
+- bis 1807. Brustbild nach vorn,im Oval. G.M. Kraus pinx. C.Muiller sc.Punktiert. Klein-fol. Selten.
+- mit Goethe und Schiller in dauernder Verbindung;1744—1817. Brustbild. F. Tischbein p., J. G. Muiller sc. Fol. Prachtvolles, unbeschnittenes Exemplar des seltenen Stiches. Mit Nadelschrift.
+- 1220 GLEIM,F.W.,Dichter,Mitarbeiter an den Horen;17191803.Huftbild, sitzend.H.Ramberg p. Schreyer sc. Fol. Sehr selten.
+- 1221 HERDER,Johann Gotfried von,Philosoph,Dichter,Superintendent in Weimar,seit der Strass burger Zeit mit Goethe bis zum Tode befreundet; 17441803. Brustbild in Lebensgrosse. Buri
+- ad nat. delin.C.Muller sc.Kreidezeichnungsstich. Gross-folio. Breitrandig.
+
+Sehr schones Exemplar,mit den Daten und dem Facsimile von Herders Handschrift.
+m
+
+31.
+
+in ke
+
+5.
+
+8
+
+31.
+
+25.
+
+W.
+
+81.
+
+ma res
+
+on
+
+S.
+
+te.
+
+39
+
+en.
+
+rt, ft.
+
+G.
+
+p.
+
+SS- uiri
+
+- Jagdwagen, gefolgt von Jagdgasten zu Pferde u. den Lieblingshunden auf der Heimfahrt begriffen. (Nach dem Leben entworfen u. auf Stein gezeichnet von C. A. Schwerdgeburth. Weimar. Ca. 1820).
+
+Verkleinerung des bekannten grossen Leipziger Steindrucks von Kneisel,mit grosser Waldlandschaft und Fernblick auf die Stadt Weimar.
+
+- Steindruck von Hall &amp; Walther in Weimar. Mit altem Kolorit. Quer-4.
+
+1223-Zwei ,Erinnerungsblatter": I: Grossherzog KARL AUGUST in Civil u.mit Schirmmitze, auf einem Schimmel im Schlosspark reitend, gefolgt von einem Diener in Livree, ebenfalls zu Pferde, und 4 Hunden. v.A（rnswald) del.A. Bohme sc. (Weimar ca.1829.) Altkolorirter Stich, der Grund aquatintiert und der Himmel blau vorgedruckt. Kl.-quer-fol.
+
+- II: Grossherzogin LUISE umgeben von CARL FRIEDRICH, MARIA PAWLOWNAund CARL ALEXANDER.als Knabe, in Begleitung eines Hundes, im Park zu Wilhelmsthal promenierend. Im Hintergrund Schloss Beivedere. v.A(rnswald) del. C. Ermer sc. Altkolorirter Stich. Kl.-quer-fol.
+
+Jedes Blatt unter Glas in Birkenholz-Rahmen. Zwei stimmungsvolle Darstellungen in Farben von grosser Seltenheit,da diese，Erinnerungsbltternie in den Hande kamen und nur alsGeschenkexemplare hergestellt wurden.
+
+Die Zeichnungen entwarf der junge Leutnant Bernhard v.Arnswald, spat. Schlosshauptmann der
+
+Wartburg, der auch mit Goethe's Enkelin sehr befreundet war.
+
+- 1224 KARL EUGEN, Herzog von Wurttemberg, Erbauer d. Lustschlosser Solitude u. Hohenheim,
+- Grinder der Karlsschule, Schillers Landesherr;1728-1793. Ganze Figur zu Pferde. Im Hintergrunde die weiten Anlagen von Schloss Hohenheim. Gez. von Heideloff. Gestochen von N. H. und J. C. Stadler in London. Fein kolorirtes Aquatintablatt. Quer-folio. Unter Glas in altem Holzrahmen.
+
+Von grosster Seltenheit.
+
+- 1225 — Kniebild nach vorn im braunen Waffenrock, als Ueberwurf der mit dem Bande seines Hausordens geschmickte blaue Hermelinmantel, darunter der Kirass mit breitem Ordensband. Die rechte Hand auf die Hufte gestitzt, die linke auf den Ritterhelm.Olgemalde auf Leinwand. Ca.1800. Bildgrosse 16,5 :12,5 cm. In Goldrahmen.
+- 1226 KLOPSTOCK.—En memoir de Klopstock. Gedachtnissblatt auf K. Antikes Grabmonument in griechischer Gegend mit zeitgemasser Staffage. Kupferstich in Sepia. Die Landschaft gez.v. Mechau, die Architektur von Klinsky. In Kupfer gest.v. A. Herzinger. Ca. 1805. Gross-quer-fol.
+- Breitrandig.
+- 1228 NEUREUTHER, Eugen. Randzeichnungen zu Goethe's Balladen und Romanzen. Heft 1 (5 Blatt), Heft 2 (2 Blatt), Heft 3 (5 Blatt),Heft 4 (8Blatt）.Minchen, Stuttg. u.Tubingen im Verlage der J.G.Cottaschen Buchhandlung.1829-1830.Fol.
+
+sind im Ganzen 5 Hefte mit zusammen 46 Blatt (inclusive Umschlag und 5 Titelblatter) erschienen. 5. Heft erschien 1839.
+
+Die hibschen lithographierten Zeichnungen sind von Goethe ausserordentlich gelobt worden. Es Das
+
+In vorliegenden Blattern sind samtliche 4 Titeiblatter enthalten.
+- 1229 SCHILLER,Friedr.von;17591845.Brustbild, lebensgross.,Nach der 1804von Prof.Weitsch nach der Natur geertigten farbigen Kreidezeichnung lithographiert vonF.ChevalierAuf ge tontem Grunde in orig. Farben. Mit Unterschrift. Imperial.
+- 1230 —Brustbild n.1.,in Oval mit 4eck. Einfassung. H. Lips sc. 8°. Unbeschnitten.
+- 1231 - Eisenplakette mit dem Relief Schillers nach rechts. Berliner Eisenguss. Ca. 1815. Mit Oese.
+- Durchmesser 9,5 cm.
+
+Rickseits eingeritzt:VIl-3.
+
+- 1232 - WALLENSTEIN. Brustbild. Original-Oelgemalde aus der Zeit, auf Leinwand. 59 :46 cm.
+- Gerahmt.
+- 1233 SILHOUETTEN AUS DEM GOETHEKREIS.8 Blatt. Gestochene, geschnittene u. getuschte
+- Portratsilhouetten.120, 8 u.40.
+- Joh. G.Boehme, G.F.W. Grossmann, Christoph Kaufmann, Jakob Michael Lenz, Friedr. Sieg. Pit terlin, Aug. W.Platz,Franz Volkmar Reichard.
+- 1234 STOLBERG,Friedrich Leop. Graf zu,mit Goethe eng befreundet;17501819.Brustbild (1810). J.C. Rinklake del., J. G.v. Muiller sc. Fol. Breitrandig. Schoner Abdruck des seltenen Blattes.
+- 1235 WEIMARER ORIGINALE. GALLERIE MERKWURDIGER U. INTERESSANTER MENSCHEN.1. Heft: 6 Blatt Trachtenbilder. Alt-Weimarer Typen. Original-Radierungen von Theod. Goetz,1820. Mit feinem,alten Kolorit. Klein-4°. In Orig.-Umschlag. Sehr selten. Dame —Leibjager mit 2 Hunden ——Herzogl. Jager mit Haasen u. wilden Hihnern —Diener mit Laterne u. Hund —Herr in blauem Rock —alter Invalide.
+- 1236 WIELAND,Christian Martin,der Dichter des,Oberon;1733-1813.Kniestick,sitzend,in einer Parkscenerie mit Marmorstatuen. Gemahlt von F. Tischbein. Gestochen von C.Pfeiffer.Punktiert in braun gedruckt.Nurnberg,Frauenholz 1800. Folio. Mit Trockenstempel u. breitem Rand.
+
+Prachtblatt, wohl das schonste graphische Portrat Wielands. Selten.
+ch ge-
+
+se.
+
+m.
+
+nte pit-
+
+0).
+
+es.
+
+ER
+
+on mnit
+
+ler ert
+
+## TAFEL-ANHANG.
+
+HANDZEICHNUNGEN NIEDERLANDISCHER MEISTER.
+
+16.-18.JAHRHUNDERT.
+II.
+
+HANDZEICHNUNGEN,STUDIEN UND GEMALDE VON MEISTERN

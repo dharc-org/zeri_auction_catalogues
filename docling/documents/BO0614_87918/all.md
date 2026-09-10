@@ -1,0 +1,914 @@
+## 3
+
+## Herbstlandschaft.
+
+Vorne rechts stehen zu beiden Seiten der dem Hintergrunde zufuihrenden Strafe zwei Huitten zwischen Baumen und Strauchern. Diese sowie die sich links ausbreitende Wiesenflache mit kleinem Gewasser zeigen braunliche Herbstfarbung. Den Hintergrund schlieBt eine Hugelkette ab. Den blauen Himmel bedecken teilweise graue Wolken. Auf Holz.Hohe 42 cm,Breite 58 cm.In schwarzem Rahmen.
+
+## Jan Both
+
+geb.zu Utrecht 1610, gest. 1652.
+
+## Kleine Landschaft. 4
+
+Im Mittelgrunde liegt zwischen den bewaldeten Ufern eine kleine Mihle. Vor dieser stehen Bauern an einem schmalen Bache. Vorne links sitzt ein Hirte bei seiner Herde, welche sich aus Rindern, Schafen und Ziegen zusammensetzt, weiter zurick steht eine Frau vor einem halb sichtbaren Haus. Den Hintergrund bildet eine von Huigeln begrenzte Wiesenlandschaft, auf der ein Hirte seine Schafe weidet.Weife Wolken bedecken strichformig den Himmel.
+
+Unten in der Mitte bez.:Bf.
+
+Auf Holz. Hohe 28 cm, Breite 38 cm. In Goldrahmen.
+
+## Olgemalde alter Meister.
+
+(Die Kunstlernamen sind nach Angaben des bisherigen Besitzers beibehalten.)
+
+## Jacques d'Arthois
+
+## Waldlandschaft.
+
+## 2 Winterlandschaft.
+
+Im Vordergrunde des das Dorf durchziehenden Baches tummeln sich Kinder auf dem Eise. Am Ufer iberragt eine Kirche die kleinen Huitten, vorne rechts hutet ein Bauer Schweine. Schwarze Wolken tirmen sich am Himmel auf.
+
+Links bez.:W.Berents 8o fecit.
+
+Auf Holz. Hohe 51,5 cm, Breite 32 cm. In Goldrahmen.
+
+## A.van Borssom
+
+geb.zu Amsterdam 1629, gest. daselbst 1672.
+
+geb. zu Brussel 1613, gest. nach 1683.
+
+Auf der den dichtbelaubten Wald durchschneidenden Landstraβe steht ein Bauernpaar, mit einem am GebaudeHelle Wolken bedecken den durch die Baume schimmernden blauen Himmel.
+
+Auf Leinwand. Hohe 68 cm,Breite 93 cm.In Goldrahmen.
+
+## W.Berents
+
+17.Jahrhundert.
+## 6 Bauernkirchweih.
+
+Eine groBe Menschenmasse hat sich auf dem weiten Platze zwischen Wirtshausern vor einem in der Mitte stehenden grofen Gebaude,anscheinend das Rathaus, versammelt. Burger und Bauern bewegen sich in verschiedenen Gruppen, teils stehen sie im Gesprache beisammen, teils beleben sie die Gasthauser. Vorne balgende Kinder und eine Kette von Personen; aus dem Hause rechts, das drei Wappen und eine Fahne zieren, giefBt ein Bauer auf die unten Sitzenden eine Kanne mit Wasser, weiter zurick eine Prigelszene. In der Mitte des Platzes befinden sich die Verkaufsbuden, von Publikum umringt, rechts eine Theaterbude,von deren Podium der Besitzer einen Eindringling vertreibt. Die Stadt breitet sich zu beiden Seiten eines Flusses aus, den reich besetzte Boote befahren, am Ufer noch viel ihrer harrendes Volk. Im Hintergrunde dehnt sich higelige Landschaft und in weiter Ferne gewahrt man eine Stadt mit sehr vielen und hohen Turmen und Hausern.Auf dem Rathause die Jahrzahl 16o2. Abbildung sieheTafel1. Auf Holz. Hohe 105 cm, Breite 140 cm. In Goldrahmen.
+
+## Art des Paul Bril.
+
+## 8 Bauernschenke.
+
+## Herbstlandschaft mit FluB.
+
+Die mit zum Teil braun gefarbten Laubbaumen belebte Landschaft im Vordergrunde failt besonders ein machtiger Baum ins Auge — zieht sich zu beiden Seiten des Flusses hin und steigt rechts hugelig an. Vorne rechts eine Gruppe von Bauern, die teils zu Fuf, teils beritten im Gesprache beisammen stehen. Dahinter ein Hohlweg mit Wanderern, weiter zurick erhebt sich eine kleine gotische Kirche. Links weiter Ausblick in die Ferne,in der man einige Gebaude wahrnimmt. Ein Hohenzug schlieft die Szenerie in weiter Ferne ab. Auf Leinwand. Hohe 7I cm, Breite 119 cm. In Goldrahmen.
+
+## Adriaen Brouwer
+
+geb.zu Audenaarde um 16o5, gest.zu Antwerpen 1638.
+
+In der Mitte einer Wirtsstube steht mit einem Glas Bier in der Hand die Wirtin bei drei sich am Kamin warmenden Bauern, von denen zwei sitzen. Rechts von dieser Gruppe im Vordergrunde sitzt ein pfeifenrauchender Alter auf einem Fasse, dahinter drei Kartenspieler am Tische; einer derselben hat sich, heftig gestikulierend, erhoben. Ein neuer Gast mit Hut und Mantel wird an der Tur vom Wirte begriBt. Auf dem Boden stehen verschiedene Gefafe. Durch die Tuir hat man wenig Ausblick in die Landschaft.
+
+Unten links undeutlich bez.
+
+Abbildung siehe Tafel 2.
+
+## Jan Brueghel und Hendrik van Balen
+
+geb.zu Bruissel 1568,gest.1625 — geb.zu Antwerpen 1575, gest.1632.
+
+## Fischzug der Diana.
+
+Im Vordergrunde einer Waldlandschaft steht rechts unter einem Baume, der mit Jagdtrophaen behangen ist, die Gottin mit zwei Nymphen, die vor ihr ein mit Fischen gefilltes Netz ausleeren. Daneben breitet sich iber die ganze vordere Bildfache die aus erlegtem Gefluigel und Wild bestehende Jagdbeute aus. An einem Baume links, von dem ein getotetes Reh herabhangt, lehnen und liegen Jagdwaffen. In der Mitte und im Hintergrunde des Bildes belustigen sich Nymphen an dem Waldbach. AbbildungsieheTafel1o. Auf Holz. Hohe 51,5 cm, Breite 76,5 cm. In Goldrahmen.
+
+## Pieter Brueghel d. J.
+
+geb. zu Brussel 1564, gest.zu Antwerpen 1638.
+## Karawane. 9
+
+## Giovanni Benedetto Castiglione
+
+geb.zu Genua 1616, gest.zu Mantua 1670.
+
+Geratschaften und erlegten Hasen und Vogeln befinden sich vier Manner. Ein Alter sitzt auf einem Pferde und hat einem juingeren Manne eine Kassette gereicht, die beiden Gefahrten beschaftigen sich
+
+Auf Leinwand. Hohe 63 cm,Breite 102 cm. In Goldrahmen.
+
+## Graf Carlo Cignani
+
+geb. zu Bologna 1628, gest. zu Forli 1719.
+
+- 10 Die hl. Maria mit Kind.
+
+Schofe sitzt. In der rechten Hand halt sie ein offenes Buch. Das Kind wendet sich zu dem neben ihm stehenden kleinen hl. Johannes, der seine Hande iber die Brust gekreuzt hat. An der rechten Seite der hl. Maria befindet sich eine Heilige, die nur im Brustbild sichtbar ist. Rechts von der
+
+Gruppe Ausblick auf die von dem Tempel iberragte Stadtpartie,vor dieser ein kleines Gewasser.
+
+Abildung siehe Tafel3.
+
+- Johann, Herzog von Sachsen, II
+
+Auf Leinwand.Hohe 96 cm,Breite 84 cm.In Goldrahmen.
+
+## Lukas Cranach d. Ae.
+
+geb. zu Kronach 1472, gest.zu Weimar 1553.
+
+im Brustbilde hinter einer Bristung sichtbar; auf letzterer sind 32 Verse in deutschen Lettern auf gezeichnet. Der Furst tragt einen schwarzen mit Pelz verbramten Rock und weiBes Unterkleid, auf dem wenig nach links gewandten Kopfe sitzt ein Barett, die beiden Hande halten den Mantel iber der Brust zusammen. Oben links ein Tafelchen mit der Inschrift: Fohans der Erst: ChurllFurst und Hertzog zu Sachssen.
+
+Abbildung siehe Tafel 4.
+
+Auf Holz. Hohe 76 cm,Breite 48 cm.In Goldrahmen.
+
+## Anthony Jansz van der Croos
+
+geb. im Haag 1606, gest. nach 1669.
+
+## 12 Landschaft.
+
+Am Rande eines eingezaunten Waldes steht eine Huitte unter machtigen Baumgruppen; auf einen der Baume sind zwei Manner gestiegen, um Vogelnester auszunehmen; am Fufe des Baumes stehen eines Gefahrten Aste absagt, die ein dritter zusammenrafft. Zwischen den beiden Gruppen zieht sich einige Burschen, welche ihre Hite aufheben, um die Beute in Empfang zu nehmen. Rechts im Vordergrunde stehen zwei verwachsene Weiden und ein kahler Baum, von dem ein Mann mit Hilfe die Strafe hin,welche von zwei Wanderern belebt ist, von denen der eine geht, wahrend der zweite rastet. Den Hintergrund bildet Flachlandschaft mit hinter Baumen kaum sichtbarer Ortschaft.
+
+Abbildung siehe Tafel5.
+
+## 13 Die Gilde.
+
+Auf Leinwand. Hohe 146 cm, Breite 114 cm.In Goldrahmen,
+
+## Aelbert Cuyp
+
+geb. zu Dortrecht 1605, gest. daselbst 1620.
+
+Sechs vollbartige Herren sitzen und stehen in Halbfiguren um einen Tiscch und blicken den Beschauer an. Der mittlere der Portratierten schreibt in einem Buche, ein rechtsstehendes Mitglied der Gilde reicht seinem Nebenmann eine Schriftrolle, die dieser erfaBt. Das Hauptcharakteristikum der Kleidung der Portratierten bilden die dunkelgrinen Wamse und die kleinen weissen Muhlsteinkragen.
+
+Abbildung siehe Tafel 6.
+
+Auf Holz. Hohe 86 cm,Breite 17o cm.In schwarzem Rahmen.
+## I4
+
+## 16
+
+## I7
+
+## 18
+
+## FluBlandschaft.
+
+von einigen hohen Kirchen iberragt wird; im Mittelgrunde auf einer Landzunge eine kleine WindFrau bestehende Gruppe, bei welcher ein Jager mit Hund und erlegtem Wasservogel steht.Lichte muhle. Vorne links befindet sich vor Gestrauch und einer Mauer eine aus Fischhandlern und einer Wolken am hellblauen Himmel.
+
+Abbildung siehe Tafel 14.
+
+## 15 Wuirfelnde Bauern.
+
+Auf Holz. Hohe 6o cm, Breite 9I cm. In schwarzem Rahmen.
+
+## Karel Du Jardin
+
+geb.zu Amsterdam 1622,gest.zu Venedig 1678.
+
+Im Vordergrunde eines Hohlweges sitzen drei wirfelspielende italienische Bauern um einen viereckig behauenen, grofBen Stein,auf den ein Hund steigt. Daneben stehen zwei gesattelte Pferde. Im Hintergrunde der StraBe kommt ein Maultiertreiber zu Pferd an einem durch Baume halbversteckten Gebaude vorbei. Links wenig Ausblick in die Landschaft.
+
+Auf Leinwand. Hohe 52 cm,Breite 65 cm. In Goldrahmen.
+
+## William Gouw Ferguson
+
+geb. in Schottland 1633, gest.nach 1695.
+
+Auf einer von Baumen bewachsenen Felsgruppe, welcher eine Quelle entspringt, liegen verschiedene groBere und kleinere tote Vogel und ein Eichkatzchen. Links Ausblick in die alpine Landschaft.
+
+Auf Leinwand.Hohe 87 cm,Breite 71 cm.In Goldrahmen.
+
+## Frans Floris
+
+geb.zu Antwerpen 1517, gest. daselbst 1570.
+
+Im Innern einer Saulenhalle nahern sich rechts drei bewaffnete Manner einer Frau, welche ein Schwert in der erhobenen Rechten halt.In der Mitte des Vordergrundes leert eine Dienerin aus einer grofen reicht eine Magd einer alten Frau, die unter einer roten Draperie sitzt, einen goldenen Pokal. Daneben steht eine gekronte Frau in weifer Kleidung, von drei Dienerinnen und einem Kinde begleitet; dieses halt einen Affen an einer Kette fest, der mit dem am Boden liegenden Schmucke spielt. Durch eine rickwarts gelegene Ture betreten soeben viele Frauen die Halle. Rechts Ausblick auf den von lichten Wolken bedeckten blauen Himmel. Auf Holz. Hohe 46 cm.,Breite 72 cm. In Goldrahmen.
+
+## Stilleben.
+
+## Allegorische Darstellung.
+
+## Stilleben.
+
+## Johann von Fockenberg
+
+grofes Stick Fleisch, Krebse und diverse Gefafe. Vorne rechts ein an den Hinterlaufen an der Wand aufgehangter Hase.
+
+Auf Leinwand. Hohe 102 cm,Breite I21 cm.In Goldrahmen.
+
+Unten rechts bez: Foh.V.Fockenberg fecit.
+
+## Frans Francken d. A.
+
+geb.zu Hehrentals 1542, gest.1616.
+
+Im Vordergrunde antikisierender Architektur stehen mehrere Personen um ein Gemalde gruppiert.
+
+## 19 ,Bilderkauf".
+
+Maler an einer Saule des Eingangs befestigt; er weist darauf hin, wahrend eine Gruppe von finf
+Personen, unter welchen besonders ein Orientale auffalt, das Bild lebhaft bespricht. Den von der untergehenden Sonne beleuchteten Hintergrund bilden hohe Gebaude.
+
+Abbildung sieheTafel7.
+
+## 20 Stilleben.
+
+Auf einem Piedestal die Bezeichnung: Ao. 159o Dor. F.Francken.
+
+Auf Leinwand. Hohe 82,5 cm,Breite 67.5 cm.In Goldrahmen.
+
+## Jan Fyt
+
+geb.zu Antwerpen 161l, gest. daselbst 1661.
+
+Eine Auerhenne und ein Singvogelchen liegen tot im Vordergrunde einer Landschaft am Boden. Auf Leinwand. Hohe 38 cm,Breite 44 cm.In Goldrahmen.
+
+## 2I Gegenstick zum vorigen.
+
+Tote Wildente und ein kleines totes Vogelchen in Landschaft. Ebenso. Gleiche GroBe.Ebenso.
+
+## P.Gallee
+
+## 22 Blumenstick.
+
+Eine Girlande, welche sich aus verschiedenen Gartenblumen und Fruichten, dabei Erdbeeren und Stachelbeeren, zusammensetzt.
+
+Unten links bez: P. Gallee.
+
+## Stilleben. 32
+
+Auf Holz. Hohe 35,5 cm, Breite 44 cm.In Goldrahmen.
+
+## Jan Paul Gillemans
+
+geb.zu Antwerpen 1618,gest. nach 1675.
+
+verschiedenen Feld- und Gartenfrichten gebildete und von einem Kakadu belebte Girlande. Dahinter eine Saule, von einer roten Draperie fast verdeckt. In der Mitte vorne ein angebrochener Granatapfel. Rechts Ausblick in die Hugellandschaft.
+
+Auf Leinwand. Hohe 6o cm,Breite 82 cm.In schwarzem Rahmen.
+
+## J.H.Gryeff
+
+17. Jahrhundert.
+
+## 24 Stilleben.
+
+Im Vordergrunde einer Parklandschaft liegt vor einem Baume und der Statue des Atlas die aus einem erlegten Hasen und verschiedenen toten Vogeln bestehende Jagdbeute,welche von einem Hunde aufmerksam bewacht wird. Rechts bluihende Pfanzen, dabei Disteln und Winden, Weinlaub mit Traube. Links Ausblick in die Landschaft mit Architektur.
+
+Rechts bez.:.H. Gryef.
+
+Abbildung siehe Tafel8.
+
+Auf Leinwand. Hohe 58 cm, Breite 74 cm. In Goldrahmen.
+
+## Willem Klaasz Heda
+
+geb. zu Haarlem 1594, gest. nach 1678.
+
+## 25 Stilleben.
+
+Auf einem Tische, der mit Decken behangen ist, gruppieren sich um eine kleine verschlieBbare Kassette Trauben, Zitronen, Melonen, ein Hummer und ein mit Wein gefilltes Glas.
+
+Abbildung siehe Tafel9.
+
+Auf Holz. Hohe 64 cm, Breite 47 cm. In Goldrahmen.
+## 27
+
+## 28 Sybilla.
+
+Kniebild einer sitzenden Dame in weifem,dekolletiertem Kleide mit pelzverbramtem rotem Brokatuberwurf. Das Haupt mit langen Locken und Perlschmuck ist dem Beschauer zugewandt. Die Dame halt auf ihrem Schofe ein offenes Buch,dessen eine Seite beschrieben ist, wahrend die zweite ein Marienbildnis zeigt.
+
+## Gerard Hoet
+
+geb.zu Bommel 1648,gest. im Haag 1733.
+
+## 26 Diana und ihre Nymphen im Bade.
+
+Im Vordergrunde eines von dichten Baumen bestandenen Waldes hat sich die Gottin mit ihren Nymphen
+
+niedergelassen. Sie sitzt im Gesprache mit ihrer Umgebung am Boden, wahrend ihr eine Dienerin das Haar kammt. Eine Nymphe sitzt am Bachrande, eine zweite hat sich etwas weiter rickwarts am Waldboden niedergelassen und wendet sich im Gesprache zurick. Mehrere Hunde beleben das Bild. Rechts bez.: G. Hoet. F.
+
+Abildung siehe Tafel 10.
+
+## Schlachtenszene.
+
+Wildes Kampfgetimmel belebt den Vordergrund; Soldaten zu Pferde sind mit Degen und Pistolen aneinandergeraten.
+
+Uber die ansteigende linke Landschaftspartie im Hintergrunde, die von einer Ruine iberragt wird, sprengt ein Trupp Soldaten； Pulverwolken verdunkeln das Firmament.
+
+Auf Leinwand. Hohe 5I cm,Breite 8o cm. In Goldrahmen.
+
+## Abraham Janssens van Nuyssen
+
+geb.zu Antwerpen 1575, gest.1632.
+
+Auf Leinwand.Hohe 1o7 cm,Breite 78 cm.In Goldrahmen
+
+## Alexander Keirincx
+
+geb. zu Antwerpen 16oo, gest. zu Amsterdam 1652.
+
+## Waldlandschaft mit alttestamentlicher Darstellung. 29
+
+Den Vordergrund des Bildes nimmt ein dichter Wald ein.Links bewirtet Abraham die beiden Engel, wahrend aus dem etwas weiter rickwarts gelegenen Hause sein Weib Sarah neugierig herausblickt. Durch die mittlere Waldlichtung erblickt man eine an einem Flusse gelegene Dorfpartie mit Kirche.
+
+Abbildung siehe Tafel 11.
+
+Auf Holz. Hohe 40 cm, Breite 64 cm.In Goldrahmen.
+
+## Johann Kupetzky
+
+geb. zu Poesing bei PreBburg 1666, gest. zu Nuirnberg 1740.
+
+## 30 Portrat eines Malers.
+
+Zeichenstift.
+
+Ein alterer Mann in grinem pelzverbramten Rock und schwarzer Samthaube steht vor einer Staffelei mit noch unbemalter Leinwand. Er ist in Halbfigur sichtbar, steht nach rechts gewandt und sieht dem Beschauer entgegen. Sein rechter Ellbogen stitzt sich auf eine Balustrade, die Hand halt den
+
+Abbildung sieheTafel7.
+
+Auf Leinwand.Hohe 87 cm,Breite 67 cm.In Goldrahmen.
+
+Auf Holz. Hohe 49 cm, Breite 67 cm.In Goldrahmen.
+
+## Jan van Huchtenburgh
+
+geb. zu Haarlem 1646, gest.zu Amsterdam 1733.
+## 31 Nymphe und Faune.
+
+## W.Lansius
+
+Im Vordergrunde einer reichbewaldeten Landschaft liegt auf ausgebreiteten Tuchern eine schlafende Gruppe blickend, hinter einem Felsblock. Rechts Ausblick auf higelige Landschaft. Graue Wolken am Himmel.
+
+Rechts bez.: W. Lansius. f.Oval.
+
+Auf Holz. Hohe 38 cm,Breite 5o cm.In Goldrahmen.
+
+## Charles Lebrun
+
+geb. zu Paris 1619, gest. daselbst 1690.
+
+## Die Anbetung der heiligen Drei Konige. 32
+
+blick in die hugelige Landschaft.
+
+Vor dem im Schutze von Felsen gelegenen Stalle rechts sitzt die Jungfrau mit dem Kinde auf dem Schofe, hinter ihr steht der hl. Joseph, der sich auf seinen Stab stitzt. Links vor dieser Gruppe knien und stehen ehrerbietig die heiligen drei Konige mit den Geschenken, welche sie dem Kinde sind. Weiter zurick eine Gruppe von drei romischen Soldaten mit zwei Pferden. Links weiter Aus-
+
+Abbildung siehe Tafel 12.
+
+## 33 Blumenschmuck.
+
+Auf Leinwand. Hohe 6o cm, Breite 76 cm. In Goldrahmen.
+
+## Abraham Louis van Loo
+
+geb. zu Amsterdam um 1641, gest. zu Nizza 1713.
+
+Im Vordergrunde einer Landschaft steht ein Piedestal mit Urne und daneben eine Panstatue; diese bekranzt ein Putto mit einer reichen Blumengirlande, die ihm drei kleine Gefahrten, einer derselben ist beinahe zu Boden gesunken, tragen helfen. Dahinter ragen einige hohe Baume als einzige Land schaftszierde empor.
+
+Auf Leinwand.Hohe 166,Breite 116 cm.In Goldrahmen.
+
+## Gerrit Lundens
+
+geb.zu Amsterdam 1622, gest. nach 1677.
+
+## 34 Landliche Hochzeit.
+
+Im Innern eines Wirtshauses tanzt eine aus Mannern und Frauen bestehende Gesellschaft rund um einen Tisch. Sie kehren dem auf demselben erhoht sitzenden, zartlichen Brautpaare den Rucken zu. Um diese Gruppe sind die verschiedenen zechenden Hochzeitsgaste versammelt. In der rechten Ecke stehen die Musikanten zum Teile auf einer Bank. Mehrere Fenster gewahren Ausblick ins Freie. Auf dem Boden Gefafe.
+
+Unten links bez.:G. Lundens 1669.
+
+Abbildung siehe Tafel 17.
+
+Auf Holz. Hohe 92 cm, Breite 119 cm. In schwarzem Rahmen.
+
+## Karel van der Mander der Altere
+
+geb. zu Meulenbecke in Flandern 1548, gest. zu Amsterdam 1606.
+
+## 35 Musizierende Musen.
+
+Im Vordergrunde einer heroischen Landschaft mit Tempel auf einem Hugel und grotesken Felsbildungen sitzen acht Musen. Sie spielen verschiedene Instrumente nach Anleitung der vor ihnen stehenden neunten Muse. Von rechts naht Minerva. Rechts Ausblick auf hohgelegene Ruinen. Durch das grinblaue Gewolke fiegt der Pegasus.
+
+Auf Leinwand. Hohe 54 cm, Breite 69 cm. In Goldrahmen.
+## 36 Herrenbildnis.
+
+## Michiel Jansz Mierevelt
+
+geb.zu Delft 1567, gest. daselbst 1641.
+
+Brustbild eines Herrn in mittleren Jahren mit dunkelblondem Haar, Schnurrbart und kurzem spitzem Vollbart in schwarzem Rocke und weifem Muhlsteinkragen, das Gesicht dem Beschauer fast voll zugewandt.
+
+Abbildung siehe Tafel 4.
+
+## 37
+
+## Herrenbildnis.
+
+tragt schwarzen Rock und weiBen Muhlsteinkragen.
+
+Auf Holz. Hohe 51 cm, Breite 37 cm. In Goldrahmen.
+
+## Art des M. J. Mierevelt.
+
+Auf Leinwand. Hohe 61 cm, Breite 54 cm.In Goldrahmen.
+
+## Francois Millet
+
+geb. zu Antwerpen 1642, gest. zu Paris 1679.
+
+## 38 Landschaft.
+
+Durch das higelige Terrain mit herbstlich gefarbten Baumgruppen zieht sich dem Hintergrunde eine Strafe zu, die von Passanten belebt wird. Im Vordergrunde links geht ein Madchen, welches auf dem Kopfe einen fachen Korb tragt; rechts von ihr sitzt ein rastender Wanderer mit Hund am Boden；im Mittelgrunde ein Herr zu Pferde, welcher einem Bauern einen Auftrag zu erteilen scheint.
+
+Im Hintergrunde treibt ein Hirt seine Herde; rechts davon steht ein kleines Bauernhaus. Disteres Gewolke bedeckt den Himmel.
+
+Unten links undeutlich bezeichnet.
+
+Abbildung siehe Tafel 18.
+
+## 39 Neuigkeiten.
+
+Auf Leinwand. Hohe 56 cm,Breite 77 cm.In Goldrahmen,
+
+## Klaes Molenaer
+
+geb. in Haarlem, gest. daselbst 1676.
+
+Vor einem im Vordergrunde rechts stehenden Wirtshause hat sich eine Gruppe von Bauern um zwei Manner versammelt, die erhoht vor der Mauer stehen; der eine der beiden liest aus einem Blatte vor, der andere verteilt die Neuigkeiten,die den Mienen der Zuhorer entsprechend anscheinend sehr belustigend sind. Einige Bauernhitten links ziehen sich dem Hintergrunde zu; eine Frau mit Schaff geht an einem Ziehbrunnen voriber. Graue Wolken stehen am Himmel.
+
+Unten rechts bez:K.Molenaer.
+
+Abbildung sieheTafel 13.
+
+Auf Holz. Hohe 38 cm,Breite 35 cm.In Goldrahmen.
+
+## 40 Winterlandschaft.
+
+Kinder und Erwachsene, zum Teil in Schlitten, zum Teil schlittschuhlaufend, tummeln sich auf dem breiten zugefrorenen Fluf. Aus diesem schopfen durch ein in das Eis geschlagenes Loch rechts Bauersleute Wasser. Das Ufer rechts zeigt einige Bauernhauser und mehrere Windmihlen, im Hintergrunde dehnt sich eine mit einer Mauer befestigte Stadt aus. Schwere Schneewolken bedecken fast ganz den Himmel.
+
+Rechts bez.:K. Molenaer.
+
+Auf Leinwand.Hohe 76 cm,Breite 1o8 cm.In Rahmen.
+
+## 41 Winterlandschaft.
+
+Abbildung siehe Tafel 21.
+
+Auf der den Vordergrund einnehmenden Eisdecke eines Flusses bewegen sich Schlittschuhlaufer jeden Alters. Vorne links zwei Damen, von denen sich die eine von einem Kavalier soeben die Schlittschuhe anschnallen laft. Daneben fahren drei Manner einen Holzschlitten. Rechts eine Huitte zwischen uberragte Dorf ein. Schneewolken bedecken den Himmel.
+
+Auf Holz. Hohe 61 cm,Breite 85 cm.In Goldrahmen.
+## 42 Landschaft.
+
+## Pieter de Molyn
+
+geb. zu London um 16oo, gest.zu Haarlem 1661.
+
+Die fast ganz in braunen Tonen gehaltene Landschaft steigt vorne rechts wenig an; einige Hitten sind rechts von einzelnen schonen Baumgruppen sichtbar. Die Landstrafe ist nur von wenigen Personen belebt: ein Bauernpaar, das mit einem Knaben im Gesprache begriffen ist, daneben ein zweiter Bauer und ein von links kommender Wanderer, der einen Falken auf der Hand halt und von einem Hunde geht. Den Hintergrund schlieBt ein Gewasser mit Baumgrenze und dahinter sichtbarem Kirchturme ab.
+
+Unten rechts bez.:P. Molyn 1626.
+
+Abbildung siehe Tafel14.
+
+- 43 Herrenbildnis.
+
+Auf Holz. Hohe 64 cm,Breite 91 cm.In Goldrahmen.
+
+## Giovanni Battista Moroni
+
+geb. zu Albino bei Bergamo um 1520, gest.zu Brescia 1578.
+
+in der rechten Hand halt der Portratierte ein offenes Buch, die linke erfaft die Armlehne des Stuhles. Uber den Tisch, auf welchem ein pelzverbramtes Kleidungsstick liegt,ist eine gemusterte Decke gebreitet. Abbildung siehe Tafel15. Auf Leinwand. Hohe 1oo cm,Breite 81 cm. In Goldrahmen.
+
+## J.Mathys Naiveu
+
+geb. zu Leiden 1647, gest.zu Amsterdam 1721.
+
+- 44 Allegorie auf die leiblichen Werke der Barmherzigkeit
+
+Figurenreiche Komposition inmitten einer Stadt mit reicher Architektur. Im Vordergrunde erhalten vorne in der Mitte erhalten zwei Frauen und zwei Manner zu trinken, rechts sitzen drei betende mehrere Bedirftige Brot aus den Handen eines Wohltaters, links kleiden zwei Diener einen Nackten, Personen. In der Mitte des Vordergrundes sitzt eine reichgekleidete Dame, welche ein Kind stillt. Im Mittelgrunde rechts eine Gruppe, die um einen Kranken beschaftigt ist; im Hintergrunde gewahrt man auf einer Bricke die Befreiung eines Gefangenen, weiter zurick bewegt sich ein Leichenzug.
+
+Bez.:F.M.Naiveu fecit 1709.
+
+Abbildung siehe Tafel16.
+
+## Marktszene.
+
+Auf Holz. Hohe 74 cm, Breite 1oo cm. In Rahmen.
+
+## Niederlandische Schule
+
+17.Jahrhundert.
+
+Eine aus Kavalieren, Damen, Bauern und Kindern bestehende Volksmenge tummelt sich auf dem von reicher architektonischer Staffage begrenzten Stadtplatz um eine in der Mitte gelegene Saule mit dem Standbild der Justitia. Den Platz entlang reihen sich Verkaufsbuden aneinander, auferdem haben Hintergrunde eine Strafe zu, welche von einer Stadtpartie abgeschlossen wird. Graue Wolken reiche Komposition.
+
+Abbildung siehe Tafel 16.
+
+## Winterlandschaft.
+
+Auf Leinwand. Hohe 66 cm,Breite 103,5 cm. In Goldrahmen.
+
+## Izaak van Ostade
+
+geb. zu Haarlem 1621, gest. daselbst 1649.
+
+Ein breiter zugefrorener Fluf, auf dem sich Schlittschuhlaufer und Schlittengefahrte bewegen, nimmt Im Mittelgrunde rechts Uferpartie mit von einer machtigen Kirche iberragten Hausergruppe.
+
+Auf Holz. Hohe 4I cm,Breite 61 cm.In schwarzem Rahmen.
+
+2
+
+- 45
+
+## 46
+## 48 Auf der Weide.
+
+Im Vordergrunde einer Wiesenlandschaft Rinder und Schafe neben einem einzelnen Baume. Im
+
+Mittelpunkte links melkt eine Bauerin vor dem Hause eine Kuh, im Hintergrunde breitet sich das Dorf aus.Graues Gewolk am blauen Himmel.
+
+Auf Holz. Hohe 45 cm,Breite 52 cm. In Goldrahmen.
+
+## Schule des Rembrandt.
+
+## 49
+
+## Der barmherzige Samariter.
+
+Vor dem an der Landstrafe stehenden Wirtshaus hebt ein Diener den Verwundeten vom Pferde, das ein Knabe am Zuigel festhalt.Unter der Tuir verhandelt der Samariter mit dem Wirte betreffs Auf brunnen. Rechts Ausblick in die Landschaft mit einem von einer Mauer umzogenen Park.Vorne
+
+Auf Holz. Hohe 78 cm, Breite 68 cm. In schwarzem Rahmen.
+
+nahme des Mannes, ein Bauer horcht von einem Fenster aus zu. Im Mittelgrunde ein Mann am Ziehrechts ein Hund.
+
+## Theodor Rombouts
+
+geb.zu Antwerpen 1597, gest. daselbst 1637.
+
+## 50 Dorflandschaft.
+
+Die von schonen Laubbaumen bestandene Flachlandschaft ist im Vordergrunde von einigen Personen belebt. Zwei Manner sitzen unter einem Baume links, eine alte Bauerin mit Knaben schreitet iber den Steg eines kleinen Baches in der Mitte, ein Bauer mit Hund kommt soeben von einem unter Wolken tirmen sich am Firmamente empor.
+
+Auf Holz. Hohe 39 cm, Breite 55 cm. In Goldrahmen.
+
+## David Ryckaert
+
+geb.zu Antwerpen 1612, gest. daselbst 1661.
+
+Neben dem Toreingange eines Hauses sitzt die aus Mannern, Frauen und Kindern bestehende viel kopfige Familie um einen Tisch. An diesem sitzen singend der alte Hausvater und ein Mann, der mit hocherhobenem Kopfe und einem Blatte in der Hand seine Stimme erschallen laBt; gegeniber sitzt in einem Korbstuhl eine ihn aufmerksam anblickende alte Frau mit Pfeife. Die ibrigen Personen unterhalten sich eifrig, eine Mutter stillt ihr Kind. In der rechten Ecke liegen verschiedene Gerate
+
+Unten in der Mitte bez:R.B.
+
+## Singende Bauern.
+
+## 51
+
+## Adam Pijnacker
+
+geb. zu Pijnacker bei Delft 1622, gest. zu Amsterdam 1673.
+
+## 47 FluBlandschaft mit Staffage.
+
+An dem rechts ziemlich hochansteigenden Ufer, das mit zum Teil herbstlich gefarbten Laubbaumen bewachsen ist,landen zwei Boote. Diese sind mit Menschen und Frachtgitern belastet; letztere wurden Erdboden umher. Ein Schiffsknecht schnirt einen Ballen, daneben steht ein Esel; auf einem Faβe liegt ein getotetes Reh. Bei dem ersten kleineren Kahn steht im Gesprache mit dem Fischer ein Herr. Die linke Seite nimmt der dem Hintergrunde zustromende Fluf ein. Abendstimmung mit wenigen grauen Wolken am Himmel.
+
+Unten rechts bez.:A. Pijnacker.
+
+AbbildungsieheTafel11.
+
+Auf Leinwand. Hohe 70 cm,Breite 82 cm. In Goldrahmen.
+
+## Art des Paul Potter.
+und Gartenfruichte, dahinter kommt ein Mann mit einem grofen Brotlaib. Durch das Tor hat man Ausblick in die Landschaft mit einigen Bauernhausern. Abendlicher Sonnenschein. Unten links undeutlich bezeichnet.
+
+Auf Leinwand. Hohe 75 cm,Breite 1oo cm. In Goldrahmen.
+
+## Roeland Savery
+
+geb.zu Kortryk 1576, gest.zu Utrecht 1639.
+
+Abbildung siehe Tafel 17.
+
+## 52 Paradies.
+
+Vogel und Vierfifler verschiedenster Art, unter denen ganz besonders ein Schimmel rechts auffallt, beleben die mit schonen Baumen bewachsene, von einem Flusse durchzogene Landschaft. Im Mittelgrunde des Bildes stehen, von Tieren umringt, unter dem Baume der Erkenntnis die beiden ersten Menschen, den Verlockungen der Schlange lauschend. Tietblauer Himmel mit wenigen weifen Wolken.
+
+Auf Holz. Hohe 54 cm, Breite 88 cm. In Goldrahmen.
+
+Unten links bez: Roelande Savery Fe.
+
+Abbildung siehe Tafel 23.
+
+## Otho Marcellis van Schrieck
+
+geb.zu Nymwegen 1619 oder 1620, gest.zu Amsterdam 1678.
+
+## 53 Tierstick.
+
+Vor einem Baumstrunke liegen drei tote Vogel; zwei Rebhuhner und ein Rotkelchen, die bereits listern auf zwei grofe Fliegen lauert, welche auf dem Flugel des groBeren Rebhuhns sitzen. Vorn
+
+Auf Kupfer. Hohe 31 cm, Breite 39 cm. In Goldrahmen.
+
+die Beute der verschiedensten Insekten bilden. Vom Baume herab windet sich eine Schlange, die rechts schlangelt sich eine Eidechse herbei.
+
+## Heinrich Wilhelm Schweickhardt
+
+geb.im Brandenburgschen 1746, gest.zu London 1797.
+
+## Kleine Higellandschaft.
+
+Felsen ziehenden Strafe gehen zwei Bauern mit einem schwerbeladenen Esel, weiter zurick fahrt ein Planwagen. Vorne links einige Baumgruppen mit zum Teil schon herbstlich gefarbtem Laubschmuck. Die rechte Seite des Bildes zeigt ein sich weit ausdehnendes Huigelterrain, das Baumpartien beleben.
+
+Die untergehende Sonne beleuchtet das Ganze mit rotlichem Schein.
+
+Unten links bez:H.W.Schweickhardt.
+
+Auf Holz. Hohe 30 cm,Breite 34 cm.In Goldrahmen.
+
+## Alexander Maximilian Seitz
+
+geb. zu Muinchen 18i1, gest zu Rom 1888.
+
+## 55 Die Begegnung zwischen Esau und Jacob.
+
+Im Vordergrunde der higeligen Landschaft begrift der kriegerisch gekleidete Esau liebevoll den vor ihm in die Knie gesunkenen Jacob. Dessen meist aus Frauen und Kindern bestehendes Gefolge umsteht staunend diese Gruppe. Von der rechten Seite zieht eine grofe aus Kamelen, Rindern und Schafen bestehende Herde iber einen Huigel dem Vordergrund zu. Links steht eine Abteilung Krieger, welche auf ihren Fuhrer wartet. Im Hintergrund Fluflandschaft mit Hohenzigen.
+
+Unten rechts bez:M.Seitz Roma 1835.
+
+Auf Holz.Hohe 65 cm,Breite 8o cm.In Goldrahmen.
+
+## 54
+## 56 Im Wirtshaus.
+
+zecht eine um ein Faf versammelte Familie; ihr hat sich der frohliche Wirt beigesellt, welcher sein gefuiltes Glas hocherhoben halt. Im Hintergrunde der Stube viele Gaste, dabei ein sich kissendes Paar. Links durch die offene Tur belauscht ein Bauer die Vorgange in der Schenke.
+
+Auf Leinwand. Hohe 62 cm, Breite 79 cm. In Goldrahmen.
+
+## Herman van Swanevelt
+
+geb. zu Woerden 16o0, gest. zu Paris 1655 (?).
+
+Im Vordergrunde des bergigen Terrains erhebt sich rechts ein sparlich bewachsener steiler Felsen mit kleinem Gewasser am Fufe. Links sitzen unter einem hohen Baume zwei rastende Wanderer, von links kommt auf der Strafe ein Maultiertreiber, der mit einem Fufganger im Gesprach begriffen ist. Im Hintergrund, den ein See und Hohenzige abschliefen, erhebt sich links eine Ruine auf einem Huigel.Von der Sonne golden beleuchtetes Gewolk am Firmament.
+
+## 57 Italienische Landschaft.
+
+Rechts bez.:H.V.Swanevelt.Fe.Wurden 16.o(?).
+
+Abbildung siehe Tafel18.
+
+Auf Leinwand. Hohe 56 cm,Breite 69 cm. In Goldrahmen.
+
+## Jan Philips van Thielen
+
+geb. zu Mecheln 1618, gest. zu Boisschot 1667.
+
+## Blumenstilleben.
+
+## 58
+
+Jasmin,Winden, Nelken,Anemonen etc. bestehend und von Kafern und Schmetterlingen belebt, zieht sich um eine grofBe Steinkartusche. Diese zeigt in der Mitte ein Bild mit der Stigmatisation des hl.Franziskus im Vordergrunde einer Landschaft.
+
+Unten in der Mitte bez.:F.P.Van Thielen F.Ano 1657.
+
+Abbildung siehe Tafel 19.
+
+Auf Leinwand. Hohe 126 cm, Breite 111 cm. In Goldrahmen.
+
+## 59 Gegenstick zum Vorigen.
+
+Mit ganz ahnlichem Blumenarrangement. In der Mitte der Steinkartusche steht der hl. Antonius mit dem Kinde auf dem rechten Arme und einer Lilie in der linken Hand.
+
+Unten links bez.:.P.Van Thielen F.Ano 1657.
+
+## Lucas van Uden
+
+geb.zu Antwerpen 1595, gest. daselbst 1672.
+
+Abbildung siehe Tafel 19.
+
+## 60 Dorflandschaft.
+
+Im reich bewaldeten Vordergrunde treibt ein Bauernpaar eine kleine Rinderherde dem Wassertimpel Zu. Dieser wird von einem rechts aus einem Parke kommenden Bachlein gespeist. Ein Landhaus und ein paar kleinere Hauser bilden hier einen Gutsbesitz. Auf der Strafe promeniert die Gutsherrschaft mit Kindern. Mit Ausblick auf die bewasserte und mit Baumen reich bestandene Landschaft im Hintergrunde.
+
+## 61 Ecce-homo.
+
+Auf Leinwand. Hohe 6o cm,Breite 73 cm.In Goldrahmen.
+
+## Unbekannt.
+
+roten Mantel, der die Brust unbedeckt laft; auf dem etwas zur Seite geneigten Kopfe mit seinem
+
+Ein leichter Glorienschein umfieft das Haupt.
+
+Abbildung sieheTafel20.
+
+Auf Holz. Hohe 65 cm, Breite 48 cm. In Goldrahmen.
+
+Ebenso.Gleiche GroBe.Ebenso.
+
+## Art des Jan Steen.
+## 62 Mater dolorosa. Gegenstick zum Vorigen.
+
+Brustbild in rotem Kleide mit gruinem Mantel, der das weiBe Kopftuch zum groBten Teil bedeckt.
+
+Augen ist wenig nach der Seite geneigt.
+
+Abbildung sieheTafel 20.
+
+## Predigt des hl. Johannes.
+
+den Heiligen umgebende Menge horcht diesem aufmerksam zu.1 kommen zwei Frauen und ein Kind, nebenan sitzt ein lauschender Mann.
+
+Ebenso. Gleiche GroBe. Ebenso.
+
+Vor einem Felsentore sitzt der Heilige von zahlreichen Mannern, Frauen und Kindern umringt. Die Durch das Tor im Hintergrunde
+
+Auf Leinwand. Hohe 79,5 cm, Breite 56 cm. In Goldrahmen.
+
+Der Heilige sitzt vor seiner Steinhohle, im Vordergrunde einer von Baumgruppen und grotesken und im Gesprache mit einem vor ihm sitzenden Monch. Ein herzufiegender Rabe bringt dem Heiligen ein Stick Brot. Links ein von Schwanen und Enten belebter Teich, auf dem Steg dariber steht ein Schwein. Im Hintergrunde links steht ein Monch bei einem Zentaur, daneben zwei Bauern, weiter zurick schreiten zwei Klausner.
+
+Auf Leinwand. Hohe 1o2 cm, Breite 131 cm. In Goldrahmen.
+
+## 63
+
+## 64 St. Antonius in Landschaft.
+
+## 65 Der Fischhandler.
+
+Im Innern einer Scheune sitzt der Alte an dem mit Fischen bedeckten Tisch, ein kleiner Knabe mit Angelgerate steht bei ihm. Davor Fische auf dem Boden und in einem Bottich zwischen einem Brunnen und leeren Fischbehaltern. An der linken Wand ein Fenster, durch welches helles Sonnenlicht in das Gemach faillt.
+
+Rechts bez.:PD VTRf.
+
+Auf Holz. Hohe 48,5 cm, Breite 65 cm. In Goldrahmen.
+
+## 66 Winterlandschaft.
+
+Viele Personen tummeln sich auf dem zugefrorenen Flusse, den im Hintergrunde eine grofe Stadt am Wege. Graue Wolken am hellen Winterhimmel.
+
+Rechts bez.:D.V. H. (Niederlandischer Meister des 17. Jahrhunderts.)
+
+Abbildung sieheTafel21.
+
+Auf Leinwand. Hohe 59 cm, Breite 82 cm.In Goldrahmen.
+
+## 67 Landschaft.
+
+Links hoch ansteigendes, felsiges Terrain mit sparlichem Baumschlag und niederem Gestripp, von wenigen Personen belebt. Rechts iber abfallendes Hugelland Ausblick in die ferne Ebene. Lichter von vereinzelten Wolken bedeckter Himmel.
+
+Auf Holz. Hohe 62 cm,Breite 84 cm. In schwarzem Rahmen.
+
+## 68 Flamische Landschaft mit reicher figirlicher Staffage. 17. Jahrhundert.
+
+Im Vordergrunde zahlreiche Bauersleute, welche ihre Waren zum Markte zu tragen scheinen; die Mehrzahl derselben hat bereits Rast gemacht. Rechts dicht belaubter Wald, aus dem sich soeben ein mit zwei Pferden bespannter und mit Fassern beladener zweiraderiger Karren dem Vordergrunde nahert, wahrend im Mittelgrunde des Waldes Hirten ihre Herden treiben. Vorne rechts Gewasser mit Enten.Links Ausblick auf die von einem Flusse durchzogene weite Ebene mit Stadt. Den Hintergrund schlieBen Hohenzige ab.
+
+Abbildung siehe Tafel 22.
+
+Auf Leinwand. Hohe 61 cm, Breite 81 cm. In Goldrahmen.
+## 69
+
+## 73
+
+## Gegenstick zum Vorigen.
+
+Ahnliche Anordnung wie beim vorigem Bilde, doch liegt hier die Waldpartie links,wahrend die Ebene mit Stadt an einem Flusse rechts liegt. Auch hier Hohenzige als Abschluf des Hintergrundes.
+
+Ebenfalls reiche figirliche Staffage.
+
+Abbildung siehe Tafel 22.
+
+## 70 Blumenstilleben.
+
+Ebenso.Gleiche Grofe.Ebenso.
+
+Verschiedene Gartenblumen stehen in einen Korb und in eine Vase verteilt auf einem Tische, der von abgefallenen Blattern bedeckt ist. Zwei Schmetterlinge beleben das Blumenstick.
+
+Auf Holz. Hohe 6o cm, Breite 1oo cm. In Rahmen.
+
+## Adriaen Hendriksz Verboom
+
+geb.zu Amsterdam 1628,gest. daselbst nach 1667.
+
+## 71 Landschaft bei Abendstimmung.
+
+Ein hochbeladener Heuwagen, von einem die Peitsche schwingenden Bauern gefihrt, zieht dem Vordergrunde zu, den schreitende Wanderer und rastende Bauersleute beleben. Links steht unter machtigen Baumgruppen eine strohbedeckte Hitte, rechts breitet sich eine Wiese aus, die von einem kleinen Geholz begrenzt wird. Mit weitem Fernblick.Von der untergehenden Sonne rotlich beleuchtetes
+
+Gewolkbedeckt den Himmel.
+
+Links bez.: A.Ver Boom.
+
+Abbildung siehe Tafel 23.
+
+## 72 Rast im Walde.
+
+Auf Leinwand. Hohe 66 cm,Breite 8o cm.In Goldrahmen.
+
+## Esaias van de Velde
+
+geb. zu Amsterdam vor 159o, gest.zu Leiden 1630.
+
+Drei Reiter stehen im Gesprache beisammen, rechts ist einer der Reiter abgestiegen, links sitzt ein leute aus dem Gefolge,einer derselben ist ihnen, gleichsam Ausschau haltend,vorangeritten.Blauer, leicht bewolkter Himmel.
+
+Auf dem einen Baumstamme links bez:E.v.Velde 1619.
+
+Abbildung siehe Tafel 24.
+
+## Markt am Wall.
+
+Vor dem Wallgraben spielt sich ein Handel mit Rindern ab. Viele Bauern stehen zwischen den Tieren; vorne bekraftigen zwei Manner den Kauf mit Handschlag, daneben balgen sich Kinder, ein Burgersmann mit seiner Frau steht zusehend dabei. Links treibt eine Bauerin eine Kuh, die ein Bauer am Strick fihrt. Uber die Fallbricke links treibt ein Mann zwei Schweine; aus dem Stadttore schreiten zwei Ratsherren heraus. An der rechten Seite des Wassers stehen hohe Hauser. Regenwolken bedecken strichweise den Himmel.
+
+Abbildung siehe Tafel 24.
+
+Auf Holz. Hohe 5o cm,Breite 75 cm. In schwarzem Rahmen.
+
+## Adriaen Pietersz van der Venne
+
+geb.zu Delft 1589, gest. zu Haag 1662.
+
+## 74 Tanzende Bauern.
+
+Auf ebener StraBe drehen sich Frauen und Manner toll im Kreise nach den Klangen einer Geige und Triangel. Erstere spielt ein auf dem Boden sitzender Bauer, die letztere schlagt eine neben ihm stehende Frau; beides groteske Figuren. Daneben ein Korb. Unten rechts liegt ein Schriftband mit zwei
+
+Auf Holz. Hohe 33.5 cm, Breite 51 cm. In schwarzem Rahmen.
+
+Auf Holz. Hohe 38 cm, Breite 5o cm. In Goldrahmen.
+## 75 Eskorte.
+
+## 77 Halt vor der Schmiede.
+
+## Jan Pieter Verdussen
+
+geb.zu Antwerpen gegen 17oo, gest.zu Avignon 1763.
+
+Vom bewaldeten Seeufer her zieht ein von Soldaten umgebenes vierspanniges Bauerngefahrte der linken Seite zu; auf dem Wagen sitzen zwei Bauerinnen. Rechts breitet sich die grofe Wasserflache Links bez:P. Verdussen.
+
+Auf Leinwand. Hohe 63 cm, Breite 8o cm. In Goldrahmen.
+
+## Nicolaes van Verendael
+
+## 76 Blumenstick.
+
+geb. zu Antwerpen 1640, gest. daselbst 1691.
+
+Girlande aus verschiedenen Gartenblumen gebildet, mit abfallenden Bliten, von einem Schmetterling belebt.
+
+Unten links bez: V. Verendael 1655.
+
+Auf Leinwand. Hohe 45 cm, Breite 57 cm. In Goldrahmen.
+
+## Hendrik Verschuring
+
+geb.zu Gorkum 1627,gest.zu Dortrecht 1690.
+
+Einige Soldaten haben im Hofe einer Schmiede halt gemacht; rechts und links ist je einer derselben mit einer Bauerin im Gesprach begriffen. In der Mitte stehen zwei Pferde, das eine ist mit einem Pferd tragt noch seinen Reiter, der einer Frau ein Buindel hinabreicht. Ein kleines Madchen, Geflugel und Hunde beleben den Vordergrund. Auferhalb des hohen Torbogens gewahrt man die Schmiede,
+
+Unten links bez: H. Verschuring fec.
+
+Abbildung siehe Tafel 13.
+
+Fouragesack, Feldkessel und einer erbeuteten Henne beladen, sein Fuhrer steht daneben. Das zweite die Haustreppe hinaufsteigen.
+
+Auf Leinwand. Hohe 62 cm, Breite 74 cm. In Goldrahmen.
+
+## Maerten de Vos d. Ae.
+
+## 78 Allegorie auf die christliche Religion.
+
+geb. zu Antwerpen 1532, gest. daselbst 1603.
+
+Der Heiland sitzt in Halbfigur rechts an einem mit einer Decke behangenen Tische und halt einer ihm gegenuiber sitzenden Frau ein offenes Buch hin. Diese hat die Hande betend gefaltet und blickt andachtig auf dasselbe. Das reiche Gewand, Schmuck und Krone lassen auf eine hier gegebene allegorische Darstellung der christlichen Religion resp. der Kirche schlieBen. Links neben ihrem Kopfe finden sich die Worte:Ecclesia", rechts neben dem Haupte Christi, welches ein Glorienschein umfiefBt, erblikt man dessen Monogramm. Zwischen den beiden Halbfiguren hangt an der Mauer eine Tafel mit acht Versen in lateinischer Sprache.
+
+Auf Holz.Hohe 65 cm,Breite 87 cm.In Goldrahmen.
+
+## Hendrik Corneliszen Vroom
+
+geb. zu Haarlem 1566, gest. daselbst 1640.
+
+Abbildung siehe Tafel12.
+
+## 79 Marine.
+
+Kriegsschiffe, Segelschiffe und Boote beleben das Meer, welches zwei Drittel der Raumflache des Bildes einnimmt. Rechts kleine Uferpartie, von einem alten Kastell mit hohem, rundem Turm iberragt und von verschiedenen Personen belebt. Einige Manner arbeiten an einem Kahn. Blauer, wenig bewolkter Himmel. Auf einem Boote links undeutliche Signatur.
+
+Abbildung siehe Tafel9.
+
+Auf Leinwand.Hohe 52,5 cm,Breite S6,5 cm,In Goldrahmen.
+## 808 Stilleben.
+
+## Alida Withoos
+
+Tochter des bekannten Stillebenmalers Mathias Withoos, 17. Jahrhundert.
+
+Vor einer Felspartie steht ein von Blattern und Blumen umwucherter Baumstrunk; in diesem hat ein Vogelchen sein Nest aufgeschlagen; soeben kommt sein Gefahrte mit Futter herbeigeflogen. Kafer, Schmetterling,Libelle und Schnecke beleben die Pfanzen. Links Ausblick auf den dunkel gehaltenen Himmel.
+
+Unten links bez.:Verschlungenes Monogramm A.W.F. 1696.
+
+AbbildungsieheTafel8.
+
+Auf Leinwand. Hohe 68 cm, Breite 88 cm.1n Goldrahmen.
+
+C
+
+## Italienische (vielleicht Ribera's) Schule
+
+Mitte I7.Jahrhundert.
+
+Im Vordergrunde der higeligen Meereskiste, die vom tiefblauen Firmament iberwolbt wird,lagern vier Putten. Die eine lehnt sitzend an einem Steinblock und sieht traumend gen Himmel, wahrend ihre rechte Hand ein Notenblatt halt. Dahinter eine zweite kleinere Putte, welche auf den Stein ein Bild mit dem Portrat des Kinstlers mit der Unterschrift:Jos. Hispanus Academicus Romanus"(ge-
+
+## 81 Allegorie auf Kunst und Reichtum.
+
+meint ist wahrscheinlich Jose de Ribera, gen. Spagnoletto) gestellt hat. Links etwas zurick liegen zwei Gefahrten. Der eine halt eine Laute und blickt in das Notenbuch, welches auf der Brust der liegenden Gespielin ruht. Uber dieser Gruppe schwebt auf einer grauen Wolke ein Engel. Dieser glorie umgebenen, hoch in den Wolken links oben schwebenden Geldbeutel zeigt. (Wahrscheinlich gemacht hatte.)
+
+Auf Leinwand.Hohe 7o cm,Breite 94 cm.In Goldrahmen.

@@ -1,0 +1,1912 @@
+<!-- image -->
+
+## Keramik.
+
+|     | 1Etrurische Henkelkanne in Birnform,rother Thon, schwarz bemalt mit Frauen bei der Toilette und mit Akanthusblattwerk. Hohe 23 Cent. Hals fehlt.                                     |          |
+|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| 5L  | 2 Etrurische Henkelkanne, roth-gelber Thon; die bauchige Leibung schwarz bemalt mit Liebespaar. Hohe 23 Cent.                                                                        | hale     |
+|     | 3 Etrurische Salbflasche,rother Thon; die birnformige Leibung von schwarz und weiss schraffirter Ornamentbordire umzogen. Hohe 13 Cent.                                              |          |
+|     | 4 Romisches Malertopfchen, rother Thon mit schwarzer Bemalung; die kugelformige Leibung gerippt. Hohe 7 Cent.                                                                        | Renaburg |
+|     | 5 Tanagra-Figur. Stehende weibliche Gewandfigur, das Haar zu einem Knoten zusammengerafft,in der Linken.einen Facher haltend. Sammlung Rollin,Paris,wie die folgenden. Hohe 19 Cent. | Frihla   |
+|     | 6 Tanagra-Figur. Stehende weibliche Gewandfigur, deren Arme unter dem Mantel verborgen,die Linke in die Hufte gestutzt. Mit Resten der Bemalung. Hohe 18 Cent.                       | ha llir  |
+| 160 | 7Tanagra-Figur. Junges Madchen in faltenreicher Gewandung,auf Schemel sitzend, in der Rechten einen Beutel haltend. Mit Resten der Bemalung. Hohe14-Cent.                            | Ae/abong |
+|     | 8 Tanagra-Figur.Venus-Statuette,leicht geschurzt,an eine Saule gelehnt. Vorherrschend in Roth bemalt. Hohe 17 Cent.                                                                  |          |
+
+Hohe 17 Cent.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+arh
+gaabong.
+
+155
+
+<!-- image -->
+
+<!-- image -->
+
+Boiabers.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- Rechten einen Facher haltend.
+
+Hohe 2o Cent.
+
+- 10 Bunzlauer bauchiger Topf in Silbermontirung; die Aussenwandung in gekornter Musterung ornamentirt und braun glasirt. Den Fuss bilden drei vollrund ciselirte Pferde und ausgezackte Palmettenbordure;um den Korper laufen drei Ornamentlisenen, die in ein Kordelgeflecht am
+- Halse endigen. Interessantes Stick. XVIl. Jahrh.
+
+Hohe 25 Cent.
+
+- Kartuschenschilder, in denen gefugelte Engelskopfchen und rundes Wappenschild, dariber Inschriftband und wulstformig vortretende Ornamentbordure.Der Deckel Silber,gravirt mit Wappenschild.Schones,
+- scharf gepresstes Exemplar.
+
+Hohe18 Cent.
+
+- geringelte Natter,Muscheln und Blattwerk; den aufsteigenden Rand bedecken Fische,Frosch,Eidechse,Krebs und Blattpflanzen der verschiedensten Art,den iberfallendenRand zierenBlindschleiche,Eidechsen und zahlreiche grossere und kleinere Muscheln.Die Ornamentation ist in hohem Relief, theils vollrund uber die Natur modellirt und in den Naturfarben emaillirt,der Untergrund gelb glasirt. Prachtstick von
+
+Hohe 7,Lange 5o,Breite 38 Cent.
+
+- grossem Reichthum und hervorragender Gesammtwirkung.
+- decorirt mit reliefirter,buntbemalter figurenreicherDarstellung:Perseus befreit Andromeda. Die Ruckseite braun marmorirt. Schones Stick. Diam.26 Cent.Gesprungen.
+- 014 Kumpige Gubbio-Schale auf kurzem Fussansatz mit schonem perlmutterartig und in Kupfergelb wirkendem MetallLister. Im Medaillon des Bodens in erhabener Arbeit Marcuslowe,die linke Tatze auf ein Buch gelegt. Um dasselbe, den breiten Rand einnehmend, reliefirte Pinien apfel in Metalton und Kugelfrichte in Rubinroth. Die Reliefornamente sind mit Blau umzogen und mit prachtigem Goldluister verziert. Prachtstick.
+
+<!-- image -->
+
+14110
+
+Diam.22 Cent.Leicht gesprungen.
+
+- 15 Urbino-Pilgerflasche,Gourde",von Orazio Fontana; die herzformige Leibung mit zwei seitlichen Henkeln in Form gefugelter Drachen. Die ganze Flache in leuchtenden Farben vorziglich bemalt mit dem Kampfe gegen die Philister. Mit Schraubdeckel. Schones Stuick von bester Erhaltung.
+
+Hohe 32 Cent.
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- Leibung in prachtigen Farben bemalt mit figurenreichen mythologischen Darstellungen und Wappenschild. Mit Schraubdeckel.Gutes Stick. Hohe 42 Cent.
+- Farben mit reichem Schwarz bemalt,mit dem im Vorgrunde einer Landschaft stehenden Aeolus,Abschied von Odysseus nehmend.Auf der Ruckseite die Bezeichnung:,Aeolus immittit ventos iunono precanto. Schones Stick von bester Erhaltung.
+
+Diam.26 Cent.
+
+- mit Jupiter und Io in einer architektonischen Flusslandschaft.Auf dem Boden der Ruckseite bezeichnet:,Ione scieso in terra p.Amor."Sehr schones Stuick.
+
+Diam.26 Cent.Gekittet.
+
+- da Rovigo.In der Mitte der Tiefung sitzt Jupiter,in der Rechten die Blitze haltend,zu seinen Fussen der Adler. Auf dem Rande Gottheiten in einem Wolkengebilde. Auf der Rickseite die Bezeichnung:,1540 Palta visio d-imera sira gusa, darunter das Monogramm des Kunstlers X. Prachtstuick von bester Erhaltung.
+
+Diam.26 Cent.
+
+- vorziglich bemalt mit der Darstellung von Jacobs Traum in einer reichen Composition in weit ausgedehnter Flusslandschaft. Auf der Riickseite die Bezeichnung:,la scala et iacob hebbe in visione." Sehr
+- schones Stuick.
+
+Diam.261 Cent.Leicht gesprungen.
+
+- herrschend in Gelb und Blau bemalt mit reich verschlungenem figuralen Laubwerk.Der Deckel Silber, getrieben mit Blumenrosette.
+
+Hohe 1o Cent.
+
+- aufgetragenen Emaillefarben mit Pfauen und Fasanen in Parklandschaft. Fuss und Hals umziehen Ornamentborduiren auf Rosa-Untergrund. Feine Qualitat.Auf hohen Holzpostamenten.
+
+Hohe 97 Cent.
+
+- 23 Garnitur dreier birnformiger und zweier fleutenformiger chinesischer Vasen,Porzellan famille rose.Die Leibung in dick aufgetragenen Emaille-
+- farben vorziglich bemalt mit Gartenmotiv,Fuss und Hals von breiter Ornamentborduire umzogen. Feine Qualitat Zwei der birnformigen Vasen gedeckelt.
+
+1*
+
+Hohe 5o Cent.
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 24 Drei chinesischeDeckelvasen,Porzellan,famillerosein gestreckterBi form,die Leibung bemalt in dick aufgetragenen Emaillefarben mit bluhenden Mandelzweigen und aus Schnorkelwerk gebildeten Borduren. Schone Sticke.
+
+500
+
+Lange der Platte 16, Breite 13 Cent.Ganze Hohe 36,Breite 26 Cent.
+
+Hohe 25 Cent.
+
+- 25 Ein Paar viereckige Porzellan-Plaquettes, uberaus fein bemalt in dick aufgetragenen Emaillefarben mit Darstellungen aus dem Frauenleben der Chinesen. In breitem Rahmen mit reichster Intarsien-Einlage. Sehr gute Sticke.
+
+150.2
+
+- 26 Ein Paar birnformige Porzellan-Flacons mit eingeschnurter Leibung, vorzuiglich bemalt mit ausgesparten, von Goldarabesken umrahmten Medaillons,in denen Bauernfeste in Teniers' Geschmack und Seekusten in Roth-camaieu.Sachsisches Fabrikat. Marke:A.R.
+
+Hohe 2o Cent.
+
+- 27 Ovales Medaillon in schwarzem Wedgwood, mit der Profilbuiste Rousseau's. In ornamentirtem Bronzerahmchen.
+
+Hohe 9, Breite 6 Cent.
+
+- Fayence,blau bemalt mit von Vogelfiguren belebten Blumenranken. Fabrikat Delft.
+
+<!-- image -->
+
+Hohe 29 Cent.
+<!-- image -->
+
+## Arbeiten in Glas.
+
+- gekronte Doppeladler mit den Wappenschilden der Reichsstande etc. auf den ausgebreiteten Schwingen,in Art des Burgkmair'schen Holzschnittes; derselbe tragt im Bruststiicke eine Crucifixdarstellung,iber den Fluigelspitzen Kronen,von denen Flammen ausstrahlen,oben eine Borduire in Gelb und Roth mit weissen Nuppen, darunter die Aufschrift: Das heilige Romisch Reich sampt seinen Gliedern und Gliedmassen Anno 1660.-Georg Krusze." Sehr schones Glas.
+
+Hohe 29 Cent. Aus dem Fussansatz unbedeutendes Stuckchen ausgesprungen.
+
+- Aufschrift; Fuss und Deckel Silber, letzterer getrieben mit Portraitmedaillon.
+
+Hohe23 Cent.
+
+- 25,50 31 Jubelhumpen zur Feier des Westfalischen Friedens. Grines Glas,mit wenig ausladendem Fusse, gerade aufsteigender Leibung und Deckel mit hohem Knopf. Die Vorderseite zeigt auf einem weiss emaillirten Kleeblatte die Standfiguren des deutschen Kaisers, des Konigs von Frankreich und der Konigin von Schweden,in der Hohe Gott Vater, Spruchbander und Jahreszahl 1649. Die Ruckseite zeigt knieende Figuren und mehrzeilige Aufschrift. Sehr schones, seltenes Glas.
+
+<!-- image -->
+
+Hohe 37 Cent.
+
+- 32 Cylindrischer Humpen, Willkomm einer Schuitzenbruderschaft. Die ganze Leibung zeigt in zwei Staffeln Schutzen,mit Bichsen und Armbristen nach den verschiedensten Zielen schiessend, theils wurfelnd, theils Kegel schiebend. Um den Rand zieht sich eine ausgezackte Ornamentbordire und Aufschrift:Der Briderschaft gantz voll geacht dis glas ist in zu ehren gemacht, darous sie sollen trinken vill wen sie schissen zu den zill,und sich auch also halten, das sie konnen scheibe und
+- vogel spalten 1607." Sehr schones, seltenes Glas.
+
+Hohe 3i Cent.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+Falle.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 33 Kurfurstenglas in Cylinderform, sich nach oben wenig erweiternd. Die
+
+Hohe 27 Cent.
+
+- Vorderseite emaillirt mit dem Kaiser in Thronsessel, an dessen First die Jahreszahl 1597; seitlich die Standfiguren der Kurfirsten mit deren Wappenschilden und beziglichen Aufschriften. Unten um das ganze Glas laufend mehrzeilige Aufschrift in Versmass, auf die Stellung der Kurfirsten Bezug nehmend. Vorzuigliches Glas von untadelhafter Erhaltung.
+- der emaillirt mit Harpyien; den Lippenrand umzieht eine blau und weiss genuppte Ornamentbordire. Interessantes Glas. Venetianisch. XVI. Jahrh.
+
+Hohe 13 Cent.
+
+Hohe g Cent.Diam.15 Cent.Gekittet.
+
+- 35 Kumpchen,,Coupe", Taufschale, wenig ausladend. Violetes Glas, die Vorderseite weiss emaillirt mit drei Rundmedaillons in romanischem Charakter, in denen allegorische Figuren,Gefisse mit Wasser ausgiessend. Den Rand umzieht eine ausgeschweifte Ornamentbordire. Interessantes Stuick.
+- 150 36 Flache Schale auf hohem Fusse, der Stander in Form eines birnformigen Hohibalusters in blauem Glase mit volutenformig gebogenen Ansatzen in weissem Glase. Der fache Kelch von Kordelflechtborduren um zogen und mit aufgesetzten reliefirten Mascarons. Interessantes, seltenes Gefiss. Venetianisch.XVI. Jahrh.
+
+Hohe 18 Cent. Durch den Stander zieht sich ein Metallstab.
+
+- die geschmackvollen Windungen des Stieles, die Fluigel blau. Um den conischen Kelch zieht sich die Darstellung einer Hirschjagd mit Reitern, hohen Baumen etc., in fein ausgefihrter Diamantradirung. Sehr schones Glas.
+
+Hohe 3o Cent.
+
+- 38 Hohes Flugelglas mit trichterformigem Kelche, der mit dem Diamant gravirt, mit reich componirter Hirschjagd; Faden in Weiss und Roth durchziehen spiralformig die hubschen Windungen des Stieles; die Fligel
+
+Hohe 28 Cent.
+
+- weiss gerippt. Sehr schones Glas.
+- 250 39 Champagnerglas mit hohem Spitzkelche, der mit dem Diamant gravirt, mit von Vogelfiguren belebten Blumenstauden.Den hohen Stiel des Fusses bildet eine in Windungen verschlungene Lyra, von weissen Faden schraubenformig durchzogen und in blaue Rosetten auslaufend. Interessantes, seltenes Glas.
+
+Hohe 28 Cent.
+15
+
+- 40 Hohes Flugelglas mit glockenformigem Kelch; durch die reichen, spiral forinig gedrehten Windungen des Stiels ziehen sich weisse,rothe und
+
+Hohe 27 Cent.
+
+- gelbe Faden.Hubsches Glas.
+- formigen Zwischensatzen;seitlich gekniffene Flugelansatze,von rothem Faden durchzogen; der conisch zugespitzte Kelch Latticinioglas. Schone,
+
+Hohe 19 Cent.
+
+- aparte Form.
+- 42 Kleines Flugelglas mit weissen Faden in den Verschlingungen des Standers
+- und blauen gekniffenen Fluigelansatzen; der Kelch glockenformig. Hohe 17 Cent.
+- 43 Kleiner Pokal. Kumpige Schale auf hohem Fusse, der Stainder in eleganten Windungen ausgefihrt und von rothen und weissen Faden schraubenformig durchzogen: seitlich gekniffene Flugelansatze in blauem Glase; der Kelch zeigt in Diamantgravirung Rebenguirlande. Schones, federleichtes Glas.
+
+Hohe 14 Cent.
+
+- 44 Birnformige Henkelkanne mit rohrenformigem Ausguss; Fuss und Hals von blauer Kordelflechtbordire umzogen,die Leibung mit aufgesetzten Lowenkopfchen in blauem Glase.Venetianisch.
+
+Hohe 14 Cent.
+
+- 45 Kleines Venetianer Henkelkumpchen mit vorderm rohrenformigen Ausguss, die birnformige Leibung mit aufgesetzten reliefirten Masken
+- kopfchen. Feines Stick.
+
+Hohe 12 Cent.
+
+- 46 Kleiner kugelformiger Henkelbecher mit weitem Halse; Fuss und Henkel von blau gekniffenen Borduren umzogen.
+
+Hohe 1o Cent.
+
+- 0 47 Henkelflaschchen, die gerippte Leibung blau-weisser Glasfluss; der Hals
+- in versilbertem Kupfer montirt.
+
+Hohe 15 Cent.
+
+- 48 Kleine birnformige Vase auf silberornamentirtem Fusse; die ganze Lei bung bedeckt ein grin emaillirtes Blattwerk,in dem Vogelfiguren; um den obern Theil zieht sich eine blau-weiss gemusterte Perlschnur; der Hals mit kleeblattformig gebogenem Rande. Interessantes Stuick.
+
+Hohe 18 Cent.
+
+- 145 Spanisch. XVI. Jahrh.
+
+<!-- image -->
+<!-- image -->
+
+- 49 Latticinio-Deckelvase auf hohem Fusse, der in Goldbronze durchbrochen ornamentirt. Die gerippte wuirfelformig gemusterte birnformige Leibung ist mit feinen Latticiniofiden in gitterformiger und geflochtener Musterung durchzogen. Der kuppelformige Deckel mit abschliessendem Glasknauf in schwarzlichem Glase. Schones Stick von eleganter Form. XVI. Jahrh. Hohe 34 Cent.Der Fuss ladirt.
+- 160 50 Romisches Salbflaschchen in blauem Glase; die birnformige Leibung umjur zieht eine ausgezackte Ornamentbordire in gelbem und weissem Glasfusse, der Hals mit kleeblattformigem Ausguss. Schones Stick mit huibscher Irisirung.
+
+Hohe g Cent.
+
+- 45 51 Romische Salbflasche in abgeflachter Kugelform mit langem Halse. Schone Form mit prachtig schillernder Irisirung und Blitterpatina.
+
+<!-- image -->
+
+Hohe 14 Cent.
+
+- Wollran dreizehn grossern und kleinern Feldern:Crucifixdarstellung,betende Donatoren,Handwerker bei der Arbeit etc. Interessante deutsche
+- Scheibe.Signirt:P.B. 1590.
+
+Hohe 38,Breite 31 Cent.Gesprungen.
+
+- 53 Ovale Wappenscheibe, bemalt mit dem Swanenburgischen Wappen und
+
+Hohe 23,Breite 19 Cent.
+
+- Jahreszahl 1617.
+- 6 54 Ein Paar kleine viereckige Scheibchen, bemalt mit Vogel auf Ast. XVIl. Jahrh.
+
+Hohe 14,Breite 1o Cent.
+
+- 55 Kleine Rundscheibe, vorherrschend in Gelb und Braun bemalt mit Susanna vor Daniel. XVIl. Jahrh.
+
+Diam.11 Cent.
+
+- 56 Ovale Scheibe, vorherrschend in Gelb und Braun bemalt mit Windmihle, Inschrift und Jahreszahl 1664.
+
+Hohe 25,Breite 2o Cent.Gesprungen.
+
+57 Ovale Wappenscheibe, bemalt mit Doppeladler.
+
+Hohe 16,Breite 14 Cent.
+## Arbeiten in Eifenbein.
+
+<!-- image -->
+
+<!-- image -->
+
+58
+
+<!-- image -->
+
+2490
+
+<!-- image -->
+
+58 Romanischer Bischofs-Curvaturstab.
+
+Herr Prof.J.Burckhard in Basel schreibt uber dieses Stuck:
+
+,Der Bischofsstab ist eine ausserordentlich schone und hervorragende Arbeit des XIl.Jahrhunderts und ist dem Herrn Besitzer hierzu Gluck zuwinschen.
+<!-- image -->
+
+Yehgman Ban.
+
+<!-- image -->
+
+58
+
+Schon der Knauf hat kunsthistorisch seine eigene Bedeutung; seine Formen sind namlich nicht in Elfenbein gedacht, sondern fast durchaus aus dem Goldschmiedestyl heribergenommen,namentlich die Capitale der kleinern Halle und das daruber hinlaufende grosse Band. An den noch fast reinen Uncialen der Inschrift konnte man versucht sein,in Betreff der Zeit noch ins XI.oder X. Jahrhundert hinauszugehen,allein die ganze ibrige Behandlung verbictet dies, namentlich sind die kleinen Nebenpfeiler neben den Saulen der Halle vor dem XIl.Jahrhundert nicht denkbar.
+
+Auf eine bestimmte Gegend als Entstehungsort deutet nichts hin; das Ganze kann eine franzosische,englische, scandinavische Arbeit sein so gut wie eine deutsche oder niederlandische. Das Zusammenfassen geschwungener Theile in eine Drachengestalt,das Ausfillen des Raumes mit Ungethumen und dergl.findet sich damals in der Decoration iberall, doch mochte ich am ehesten an deutsche Her- kunft denken.
+
+Sehr merkwurdig und von der grossten Seltenheit in der damaligen nordischen Kunst ist das geflugelte Kind （sog.Putto)auf der einen Seite oben,welches darauf hinfuhren konnte, dass der Kunstler etwa in Frankreich antike Sarkophage gesehen habe,an welchen dergleichen uberallvorkommt.Im Uebrigenfreilich ware er vomAlterthum unberihrt und vollig naiv geblieben. Nur etwa seine reinen Uncialen mochte er noch aus antiken Inschriften sich angeeignet haben.
+
+Die Figuren stellen offenbar das Priesteramt in seiner Wurde dar: Unter dem Baldachin,der dieKirche darstellt,in der Mitte der segnende Bischof mit dem Buche;zu seiner Rechten ein Priester mit dem geschlossenen Buche,zu seiner Linken ein Diakon,den Stab des Bischofs haltend. Fur die beiden Figuren,welche frei in der Rundung angebracht sind,konnen als Erklarung wohl nur in Vorschlag kommen: Firmung,Busse oder Priesterweihe,und von diesen drei Sacramenten hat das letztere hier gewiss das meiste Recht fur sich.
+
+Herr Prof.Moritz Heyne setzt den Ursprung des Stickes spatestens
+
+Herr L. Gmelin,Munchen,halt es fur eine franzosische Arbeit.
+
+Hochbedeutendes,interessantes Stick.
+
+in den Ausgang des XI. Jahrhunderts.
+
+Lange 23 Cent.
+
+59 Romanische Deckelplatte eines Evangeliariums,in hohem Relief meisterhaft geschnitzt. Die Mitte der Platte nimmt ein vierpassformig ausgebogenes Ornament ein,in dem die sitzende Figur des Heilandes in faltenreicher Gewandung, in der Linken ein Buch haltend, die Rechte segnend ausgestreckt. In den Zwickein die vier Evangelisten mit ihren Attributen, auf Schemel sitzend,das Evangelium schreibend; am obern Ende
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- wandungen,Leuchter haltend. Ende XIV. Jahrh.
+
+baldachinartiger Ueberhang. Das Ganze wird umrahmt von einem schrig aufsteigenden Eierstabfries. Aeusserst interessantes und charakteristisches Capitalstick. Anfang XIll. Jahrh.
+
+Hohe 2ot/e,Breite 12 Cent.
+
+- ubereinander stehenden Darstellungen der Flucht nach Egypten und der Kreuzschleppung in figurenreicher Composition unter gothischer Bogenstellung, seitlich acht auf Pergament gemalte Apostel und Heiligen figuren in eingelassenen eichenholz-geschnitzten gothischen Nischen. Der rechte Seitenfluigel,in vier Compartimente eingetheilt,zeigt die Anbetung der Konige, Christi Einzug in Jerusalem, Christus am Kreuz und die Grablegung, der linke entsprechend geschnitzt mit der Verkundigung, der Geburt Christi, dem letzten Abendmahle und Christus am Oelberg. Auf der Aussenseite der Fligel Kronung Maria und Golgatha. Hervorragendes, uberaus reiches Kunstwerk,in hohem Relief meisterhaft geschnitten.XIV. Jahrh.
+
+Lange 44,Breite 15 Cent.
+
+- in faltige Gewander gekleideten,auf einem Throne sitzenden Heiland en face dar,die Rechte segnend erhoben,in der Linken ein Evangeliar haltend. Der ganze Hintergrund mit en relief kunstlich geschnitzten reichen Blatter-Ornamenten;in den vier Ecken die Symbole der Evangelisten. Die Seitenbilder stellen Moses und Aaron in ganzen Figuren en face dar,ersterer die Gesetzesrolle,der andere Buichse und Rauchgefiss haltend. Beide Figuren stehen in einem Saulenportal,das in der Hohe einen verzierten Rundbogen bildet. Prachtstick,besonders
+
+Hohe 32,Breite 35 Cent. Die Mitteltafel in der Mitte gebrochen. Slg. Ruhl.
+
+- bemerkenswerth durch seine Grosse. XIll. Jahrh.
+- von einem Engel gekronten Madonna, das stehende Jesuskind auf dem Schoosse,unter dreipassformigem Baldachin,der von einem gothischen, mit Krabben besetzten und von einer Kreuzblume bekronten Spitzbogen uberragt wird. Auf den Fluigeln Engelsfiguren in reich drapirten Ge-
+
+Hohe 15,Breite12.
+
+- 350 63 Triptychon. Das Mittelbild zeigt, unter einer gothischen tiefen Nische mit fankirten Eckthuirmchen, Crucifixdarstellung mit Maria und Johannes als Seitenfiguren; die beiden Fluigel mit den Standfiguren der hl.Katharina und Maria Magdalena.Interessantes Stick. XIV. Jahrh.
+
+Hohe 12,Breite 12 Cent.
+<!-- image -->
+
+340
+
+<!-- image -->
+
+<!-- image -->
+
+64 Diptychon, oberhalb spitz zulaufend und durchbrochen geschnitzt mit
+
+Kreuzblumen.Jede der beiden Tafeln zeigt unter dreipassformigen Bogenstellungen zwei Darstellungen aus dem Leben Jesu.Der linke Fluigel mit der Geburt Christi:in der Mitte Maria,auf dem Ruhebette liegend;in der Hohe die Hirten und die verkindenden Engel, dariber Christus am Kreuz,zur Seite Maria und der hl. Johannes. Der rechte Fligel mit Anbetung der hl. drei Konige und Christus in der Vorholle. Schones Stick,die Figuren in sehr hohem Relief geschnitten,einzelne
+
+Theile freistehend.XIV.Jahrh.
+
+Hohc 22,Breite 121 Cent.
+
+<!-- image -->
+
+- 65 Viereckige Schnitzplatte mit zwei tibereinander stehenden Darstellungen;
+
+DnZlenk-
+
+<!-- image -->
+
+266
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- die untere zeigt unter gothischem Baldachin Christus,auf dem rechten Arme das Lamm Gottes tragend,zu seiner Seite vier Standfiguren von Aposteln; die obere zeigt die Grablegung Christi in einer Composition von sieben Figuren, Schones Stick. XIV.Jahrh.
+
+Hohe 17,Breite 9 Cent.
+
+- 66 Viereckige Schnitzplatte mit der Anbetung der hl. drei Konige unter gothischem Baldachin. Rechts sitzt Madonna, das Jesuskind auf dem Schoosse haltend; vor ihm kniet einer der Konige, seine Geschenke darreichend; in der Hohe Engelsfiguren,Weihrauchfasser schwenkend. Schones Stick von lebendiger, anmuthiger Composition. XIV. Jahrh.
+
+Hohe 15,Breite 1o Cent.
+
+- meisterhaft geschnitten. Unter gothischem Bogen Christus am Kreuze, zu den Seiten Maria und Johannes,in edel drapirter Gewandung; den Hintergrund nimmt eine hubsch componirte Landschaft ein.Minutiose und feine Ausfihrung, doch wohl eine spatere deutsche Arbeit.
+
+Hohe 13, Breite 7 Cent.
+
+- unter dreitheiligem spitzbogigen Baldachin. Gutes Stick. XIV.Jahrh. Hohe 8, Breite 6 Cent.
+
+170
+
+<!-- image -->
+
+<!-- image -->
+
+- 69 Viereckiges gerundetes Relief,vorzuglich geschnitten mit der Huftfigur des hi. Sebastianus,an den Baumstamm gebunden. Gutes Stick. Italienisch. XVIl. Jahrh.
+
+Hohe 12,Breite 9 Cent.
+
+70 Viereckige Schnitzplatte mit der Huftfigur der Madonna, das auf einer Brustung stehende Jesuskind haltend; im Vorgrunde Engel, eine Schale mit Frichten haltend; im Hintergrunde der hl. Joseph. Gute Schnitzarbeit des XVIl. Jahrh.
+
+Hohe 18,Breite 12 Cent.
+
+<!-- image -->
+
+<!-- image -->
+
+RomlHa
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 71 Ein Paar achtfach abgeflachte Reliefs (Platten eines Buchdeckels), durchbrochen geschnitten mit einem reich verschlungenen Akanthusblattwerk, in den Zwickeln die Symbole der Evangelisten; im Mittelfelde in hohem Relief vier Engel, die Leidenswerkzeuge haltend,und Moses mit den Gesetzestafeln. Interessante Sticke. XIll. Jahrh.
+
+Hohe 14,Breite 9 Cent.
+
+- dreiseitigen Gliedern in abnehmendem Umfange, mit Ring und anhiingendem Kreuze. Die einzeln durch Silberfiligrankugeln getrennten Glieder ausserst minutios in hohem Relief geschnitzt mit 36 Portrait busten von Papsten, Bischofen,Heiligen etc. in nischenformigen Vertiefungen.Die Endbalken des anhangenden Kreuzes durchbrochen geschnitzt mit aufgerolltem Blattwerk,der Christuskorper vollrund mit ibereinander geschlagenen Fussen. Schones, interessantes Stuick. XVI.Jahrh. Lange 8s Cent.
+- 73 Grosse Betnuss in Form einer in zwei Theile zerlegten Kugel. Die eine
+- Halfte zeigt Christus mit der Kreuzesfahne, auf Thronsessel sitzend als pastor bonus,auf dem Schoosse ein Lamm haltend,die Rechte segnend erhoben;zu seiner Rechten ein knieender Engel;links Lammer an einem Bergabhang. Die andere Halfte zeigt den hl. Georg zu Pferde,den Drachen todtend. Beide Darstellungen sind in gothisirendem Charakter gehalten und mit grosster Feinheit, theils in Hochrelief, theils frei geschnitten, ausserdem an manchen Stellen colorirt. Selten schones Stuck,von bester Erhaltung. Spanisch. XVI. Jahrh. Diam.6 Cent.
+- 74 Betnuss, kugelformig, in zwei Theile zerlegt. Auf der einen Halfte in Hochrelief die Geburt Christi: das Jesuskind in einer Wiege liegend,zu den Seiten Maria und der hl. Joseph, in der Hohe Gott Vater. Die andere Halfte zeigt die Flucht nach Egypten: Maria, das Jesuskind auf dem Schoosse haltend, auf dem Esel reitend, der von dem hl. Joseph gefuihrt. Die Aussenflachen sind muschelartig geschnitten. Schones,
+
+Diam.8 Cent.Slg.Milani
+
+- seltenes Stuick von bester Erhaltung.XVI. Jahrh.
+- 75 Grosser cylindrischer Humpen in Elfenbein mit reicher Fassung in vergoldetem Silber. Um die Korperweitung zieht sich friesformig,in hohem Relief meisterhaft geschnitzt,der Triumphzug der Amphitrite in schoner Composition. Fuss,Henkel und Deckel vergoldetes Silber, erstere getrieben mit Akanthusblattwerk;um die untere Wolbung des Deckels zieht sich ein Palmettenfries,durchsetzt von Kartuschenschildern und Mascarons; der reich gegliederte, geschwungene Henkel mit einer hermenartig behandelten Frauenbuiste,im Innern mit vergoldetem Silber geftittert. Prachtstick, die Schnitzarbeit von grosser Vollendung; die Garnitur von vorziglicher Ausfuihrung.XVIl.Jahrh.Aus Schloss Biljoen. Hohe 23 Cent.
+<!-- image -->
+
+<!-- image -->
+
+- bein in hohem Relief vorzuglich geschnittener Fries mit Triton und Amphitrite,iber die Meereswogen fahrend.Die Montirung vergoldetes Silber, der Deckel getrieben mit ippig verschlungenem Rankenwerk und Palmetten; als Bekronung vasenformiger Aufsatz. Schones Stick von lebendig bewegter Zeichnung und kunstlerischer Vollendung in der Ausfuhrung. Hohe 22 Cent.
+- mit dem Kampf der Lapithen und Centauren um Hippodamia,die Braut des Lapithenkonigs Pirithous. Die Fassung Silber, getrieben und ciselirt mit reich verschlungenem Muschelwerk und Palmetten; der elegant gegliederte Henkel mit aus,Palmetten erwachsender Kriegerbiste. Schones Stuick. Xalsh Hohe22Cent.
+- ladendem,silbergetriebenem Fusse; die Leibung gravirt mit drei von Fruchtfestons und Blumenguirlanden umrahmten MedaillonsmitBacchanalen; den fachen Deckel schmicken Rosen und Tulpenbouquets; im Innern mit vergoldetem Silber gefittert. Prachtstuck. XVIl. Jahrh.
+
+<!-- image -->
+
+Hohe18 Cent.
+
+- Muschelwerk und Palmetten,der glockenformige Kelch Elfenbein,in Hochrelief vorziglich geschnitten mit Kinderbacchanal in einer schonen Composition, mit reizend gezeichneten Figirchen in der Art des Duquesnoy. Prachtstick, die Schnitzarbeit von grosser Vollendung, der
+- Eierstabfries umzogen und mit Palmetten geschnitten, die eiformige, aus einem Akanthusblattwerk erwachsende Leibung vorziglich in Hochrelief geschnitten mit spielenden Putten; den Lippenrand ziert ein Eierstabfries. Schones Stick, die Schnitzarbeit von grosser Vollendung.
+- XVIl. Jahrh. Hohe 2o Cent.
+- Figuren eines Tritons und einer Najade,mit dem rechten Arme sich umschlingend,in der erhobenen Linken eine Austernschale als Schmuckbehailter haltend; seitlich Delphine und Putte. Sehr feines Stick,von trefflicher Arbeit. Italienisch.XVIl. Jahrh.
+
+420.8
+
+<!-- image -->
+
+- Hohe g Cent.
+- 82 Zierstuck in Form einer geoffneten Perlmuschel,in deren Innerm eine vollrund geschnitzte Amorette,in der Rechten einen Blumenzwcig haltend. Prachtstuick,von vorziglicher Schnitzarbeit. XVll. Jahrh.
+
+Lange 12,Breite5 Cent.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Rorne
+<!-- image -->
+
+Fnorobuh
+
+<!-- image -->
+
+<!-- image -->
+
+innen gewolbten Flichen,Elfenbein, zart gravirt mit lebendig componirtem Reiterkampf, Waffentrophaen und figuralem Rankenwerk.In der Mitte der Vorderseite silberciselirtes Medaillon mit romischem Krieger zu Pferde;die Rickseite gravirt mit Quadrige.Der lange Hals Silber,ciselirt in Form eines Harnisches, die Sperre als Helm. Sehr gutes Stuick. XVIl. Jahrh.
+
+Hohe 14 Cent.
+
+fast nacktmitumgirtetem Bockfell, das Haar mit Reben bekrinzt,in eilender Stellung; in der Rechten halt er eine Eule, in der Linken einen Thyrsosstab.
+
+<!-- image -->
+
+83
+
+Meisterhaft geschnittene,vorziglich modellirte Vollfigur.XVIll. Jahrh. Hohe 32 Cent. Auf grinem Marmorsockel.
+
+85 Fauna, in der Rechten eine Taube haltend. Gegenstick, ebenso. Gleiche Grosse.
+
+86 Buste Voltaire's mit ibergeworfenem Mantel und langer Allongepericke, auf rundem,mit Lorbeergehingen und Musiktrophie geschmicktem Postamente.Meisterhaft geschnittene vollrunde Figur von grosser Schonheit.XVIll. Jahrh.
+
+87 Buste Moliere's. Gegenstick,ebenso.
+
+Hohe 28 Cent. Mit kleinen Defecten.
+
+Gleiche Grosse.
+
+88 Madonna mit dem Kinde,auf reich sculptirtem Thronsessel sitzend,die Fuisse auf den Halbmond gestellt; die Haare fallen in langen Locken auf das faltenreiche Gewand; auf hohem,achtfach abgefachtem Sockel, der fast vollrund geschnitzt mit Kartuschenschildern,Engelsfiguren und Blumengehangen.Vorziiglich ausgefuhrte Vollfigur in gothischem Charakter. Spanisch. Hohe 34 Cent.
+
+89 Venus, dem Bade entstiegen, nach Etienne Allegrain,den rechten Fuss auf einen Felsen gestitzt, sich mit einem Tuche trocknend;Hals und Haar zieren mehrreihige Perlschnure. Vorziglich geschnitzte Volfigur von meisterhafter Modellirung.XVIl. Jahrh. Hohe 33 Cent.
+<!-- image -->
+
+- 90 Paris, vollig nackt, in der Rechten den Apfel, in der Linken einen Hirtenstab haltend.Meisterhaft behandelte,anatomisch schone Vollfigur. XVIl. Jahrh.
+
+Hohe 27 Cent.
+
+- Stellung an einen Baumstamm gebunden,das Haupt zur Seite geneigt. Vortrefflich geschnittene Vollfigur.XVI. Jahrh.
+
+Hohe 19 Cent.
+
+- / 92 Kreuz, die breiten Balken in Flachrelief geschnitzt mit Todtentanz nach H.Holbein.Interessantes Stick.
+
+Lange 23,Breite 17 Cent.
+
+- 93 Salbbuchschen in Form einer gedeckelten Urne: der Fuss mit Palmetten geschnitten, die cylindrische Leibung in hohem Relief fast vollrund geschnitten mit Costimfiguirchen. Interessantes Stick. Katakombenfund(?) Hohe8Cent.
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Arbeiten in Emaille.
+
+Vorwiegend Limoges-Arbeiten.
+
+510
+
+94 Grosses Vortragekreuz mit nach den Enden sich erweiternden Armen; vergoldetes Kupfer mit vielfarbigem Grubenschmelz.Auf derVorderseite, die mit Cabochons geschmickt,die gegossene Figur des Heilandes auf emaillirtem Kreuze; auf den Balkenendigungen reliefirte Heiligenfiguren mit vollrunden Kopfen.Auf der Rickseite,die kraftige Gravuren zeigt, die Figur des segnenden Heiiandes in der Mitte und die Evangelisten-Symbole an den Enden.Schones Stuick.XIll. Jahrh.
+
+Hohe 38,Breite 28 Cent.
+
+- laufend mit aufgesetzten runden Plittchen in translucider Emaille, Brustbilder von Heiligen und Crucifixdarstellung zeigend, die Ruckseite mit eingelassenen Reliquien in kastenformigen Vertiefungen.Gutes Stick.XV. Jahrh.
+
+<!-- image -->
+
+Hohe 14,Breite 11 Cent.
+
+996 Reliquienschrein in Sargform auf vier stollenartigen Fuissen,mit hohem Satteldach und Platten in Grubenschmelz umkleidet. Die Vorderseite in einer Dreitheilung zeigt auf dem Kasten in der Mitte eine Crucifixdarstellung mit den Seitenfiguren und Engeln,auf dem Deckel den segnenden Heiland in einer Mandorla;zu den Seiten die Standfiguren der Evangelisten unter romanischen, von Saulen getragenen Bogenstellungen. Die Kopfe der aufgelegten Figuren fast voilrund, die Ge wandtheile gravirt, der Grund dunkelblau mit hellblauen und grunen Kreisornamenten. Quer- und Ruckseite mit Brustbildern gefugelter Engel in Ornamentmedaillons. Sehr schones Stuick in bester Emaille. XIll.Jahrh.
+
+Hohe 19, Lange 22, Breite 1o Cent.
+
+n
+<!-- image -->
+
+1400
+
+<!-- image -->
+
+<!-- image -->
+
+- 97 Reliquienschrein in Sargform auf vier Fussen, mit Platten in Gruben-
+
+Hohe 18,Lange 18,Breite 8 Cent.
+
+- schmelz bekleidet.DieVorderseite zeigt auf demKasten eine Crucifixgeschragten Deckel die Standfiguren der vier Evangelisten. Die Kopfe der Figuren sind hochreliefirt, die Gewandungen gravirt und vergoidet. Auf den Querfachen je eine entsprechend behandelte grossere Heiligenfigur,die Ruickseite durch Glasdeckel verschlossen. Bedeutendes, interessantes Stuck. XIll. Jahrh.
+- 98 Platte eines Buchdeckels,vorherrschend in Blau,Roth und Grun emaillirt mit reich gemustertem Ornamentwerk und gefasstmit Opalen,Saphiren ciselirte Standfigur des segnenden Heilandes,in den Zwickeln die Sym-
+
+Hohe 2,Breite 1o Cent.
+
+- und Rubinen.Im Mittelfeld in einer Mandorla die hochreliefirte,kupferbole der Evangelisten.Interessantes Stick.XIll. Jahrh.
+
+<!-- image -->
+
+Pnihl
+
+<!-- image -->
+
+<!-- image -->
+
+- 5309 99 Grosse viereckige Platte eines Reliquienschreines.
+- Blau emaillirter Untergrund mit einem reich verschlungenen Rankenwerk; aufgesetzt drei hochreliefirte，in vergoldetemKupfer getriebene Figuren:Madonna mit dem Kinde und zwei weibliche Heilige, deren Augen emaillirt. Hochinteressantes Stuick von vorzuiglicher Ausfuihrung. Xill. Jahrh. Hohe 12,Breite 13 Cent.
+- herrschend in Blau und Grun emaillirt mit den Standfiguren zweier Apostel; der Untergrund gepunzt.Gute Stuicke.Venetianisch. XIll. Jahrh.
+
+Hohe 18,Breite 1o Cent.
+
+- die Gewandung vielfarbig emaillirt. Interessante Stucke. XIll. Jahrh. Hohe 7/ Cent.
+- 28 102 Ein Paar viereckige byzantinische Platten mit ausgefuihrter buntfarbiger Zellenemaille,deren eine die Auferweckung des Lazarusin einer Composition von 8 Figuren, die andere die Flucht nach Egypten zeigt. Interessante Sticke. Italienisch.
+
+<!-- image -->
+
+Hohe 1o1/, Breite 18 Cent.
+
+- 103 Hostienbuchse, die cylindrische Leibung mit Sternrosetten und Blumenranken in buntfarbiger Emaille auf blauem Grunde,der dachformig zugespitzte Deckel von Kreuz iberragt. Schones Stick. XIl. Jahrh.
+
+Hohe 12 Cent.
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Woliman
+
+<!-- image -->
+
+- die conisch zugespitzte Leibung mit Blumenwerk in buntfarbiger Emaille auf blauem Grunde und aufgesetzten, in Bronze ciselirten Schlangen, Stuick.XIll. Jahrh. Hohe 13 Cent: alie
+- 105 Runde Fibula, das Mittelfeld durchbrochen ornamentirt und ciselirt mit Hercules, den Lowen todtend; die kranzformige Umrahmung emaillirt, mit spiralformig gewundenem Bande in Hell-und Dunkelblau. Interessantes Stick.XIl. Jahrh.
+
+<!-- image -->
+
+Diam.9 Cent.
+
+- 106 Knauf eines romanischen Bischofstabes in facher Kugelform, durchbrochen ornamentirt und ciselirt mit Drachenfiguren. deren Augen emaillirt. Schones Stuick.
+
+Lange 6 Cent.
+
+107 Gothischer Henkelbecher,die conische,nach unten sich stark erweiternde Leibung mit vorderm bunt emaillirtem Wappenschilde auf blauem Grunde,Fuss und Hals von einer silberciselirten,zierlich gemusterten Lilienbordure umzogen und emaillirt mit geschachtem Ornamentfries. Interessantes Stuick. oloer Hohe 12 Cent.
+
+<!-- image -->
+
+- nach Egypten: Maria,auf dem von Joseph gefihrten Esel sitzend, das Kind auf dem Schoosse haltend;im Hintergrunde Landschaft mit hohen Baumen.Vorzuiglich schones Stick von minutioser Treibarbeit und vorziglicher Bemalung. Spanisch. XVI. Jahrh.
+
+Diam.4Cent.
+
+- 109 Gehenkelte Schenkkanne von Jean Courteys, mit meisterhaft ausgefuihrter Malerei, weiss in grau, mit rothlicher Tonung und mit Gold gehoht, auf schwarzem Grunde. Der eiformige Korper wird durch ein wulstformig vortretendes Band mit Goldarabesken in zwei ungleiche Theile geschieden. Der obere zeigt Fauna und Fruchtgehange, der untere Dante auf dem Parnass in figurenreicher Composition. Fuss und Hals umziehen Palmetten in Grisaille und Gold. Die Aussenseite des Henkels weiss emaillirter Untergrund mit Lorbeerborduire in Roth. Die Innenfache des Gefisses ist weiss emaillirt. Unter dem Henkel das Monogramm: J. C. 1564. Capitaistick von eleganter Form und feinster Bemalung.
+<!-- image -->
+
+110 Gehenkelte Schenkkanne von Pierre Courteys,in transluciden und opaken Emaillefarben auf schwarzem Grunde mit Goldhohung vorziglich ausgefuhrt. Ein wulstformig vortretendes weiss emaillirtes Band theilt die eiformige Leibung in zwei Halften,deren jede eine figurenreiche Darstellung mit Gottern im Olymp zeigt. Um den hohen Fuss und Hals ziehen sich Palmetten und Lorbeergehange in Braun und Grin. Das Innere des Fusses bemalt mit goldenen Sternchen und Lilienverzierungen. Die Leibung bezeichnet:P.C.Prachtstick.
+
+<!-- image -->
+
+Hohe 28 Cent.
+
+111 Grosse getiefte Schale in farbiger translucider und opaker Emaille mit Goldhohung auf schwarzem Grunde.Den Fuss und die Aussenflaiche der Schale schmicken Gehinge,Blumenvasen,Karyatiden und Mascarons;um den Rand des Fusses zieht sich eine Eierstabbordire; der hohe Stander von fachem Knaufe durchsetzt und goldbemalt mit Lorbeerbordure. Die Innenflache zeigt in figurenreicher Darstellung Mutius Scavola vor Porsenna; um den Rand zieht sich ein Fries von zierlichen,reizvollen Goldarabesken. Capitalstick von grosster Schonheit in Zeichnung und Ausfuihrung, dem Pierre Reymond zugeschrieben. Hohe 12 Cent.
+
+<!-- image -->
+
+gemalt ,sur aillons",mit goldaufgesetztenLichtern,mit einerKreuzigungs gruppe nach A.Direr. Das Mittelbild zeigt Christus am Kreuze zwischen den Schachern; am Fusse Madonna,St. Johannes und die heiligen Frauen; im Hintergrunde zahlreiche Krieger,einer zu Pferde. Die Seitenfugel zeigen die Geisselung und die Grablegung Christi. Capitalstick von grosster Feinheit und vorziglicher Erhaltung.
+
+<!-- image -->
+
+## alne
+
+Pierre Reymond,in farbiger Malerei mit leichter Goldhohung vorzuglich ausgefihrt, mit dem Salvator Mundi,in Thronsesselsitzend,dieRechte auf die Weltkugel gestitzt, die Linke segnend erhoben; in medaillonformiger Umrahmung, die aus Palmetten gebildet.Die Zwickel fillen die Symbole der Evangelisten und fiegende Schriftbander. Schones Stick,unten bezeichnet:P.R.
+
+Hohe 14,Breite 14 Cent.
+
+Hohe 28,Breite 5o Cent.
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+1060
+
+Hohe 17,Breite 14 Cent.
+
+114 Grosse viereckige Platte yon Leonard Limosin,in vorziglicher Ausfihrung mit dem letzten Abendmahle in bunten Farben, zum Theil auf Folienunterlage ,sur paillons" und mit Gold gehoht. In einer Saulenhalle sitzt an einer langen Tafei Christusin einem Thronsessel, um ihn gruppirt seine Junger;in der Hohe Engelsfiguren und Lorbeergehange. Schones Stick von de taillirter Ausfihrung.Auf einem Kartuschenschilde dasMonogramm: L.L.In Holzrahmen.
+
+<!-- image -->
+
+II4
+
+<!-- image -->
+
+115
+
+grunde zahlreiche Krieger,zum Theil beritten.Capitalstickvon
+
+115 Viereckige Platte von Leonard Penicaud,mit einer Darstellung der Kreuzschleppungin translucider Emaillefarbe vorziglich gemalt, die Lichter mit Gold aufgesetzt.In der Mitte Christus,mit dem Kreuz beladen,von der vor ihm knieenden Veronika dasSchweisstuch empfangend; seitlich und im Hinter- grosster Feinheit; auf der Ruckseite das eingestanzte gekronte Monogramm des Kunstlers:L. P.In ornamentirtem Bronzerahmchen.
+
+116 Viereckige gewolbte Platte von Jacques Laudin,in meisterhaft ausgefihrter Grisaille-Malerei mit Goldhohung auf schwarzem Grunde, die Verkundigung Maria darstellend. Rechts kniet Madonna vor ihrem Bette an einem Betpulte; links erscheint der verkuindende Engel; in der Hohe in
+
+<!-- image -->
+
+Hohe 12,Breite 17 Cent.
+WolkengebildedieTaube. VortrefflicheAusfihrung, unten rechts bezeichnet: I. L.Auf der Ruckseite: ,LaudinEmailleur aLimoges I. L." In Holzrahmen. Hohe 20,Breite 16 Cent.
+
+<!-- image -->
+
+<!-- image -->
+
+117 Grosse viereckige Platte von Jacques Laudin; dieselbe zeigt in GrisailleMalerei mit Goldhohung auf schwarzem Grunde die Anbetung der hl. drei Konige. Im Vorgrunde einer Saulenarchitektur sitzt Madonna, das Jesuskind auf dem Schoosse haltend,vor ihm die Konige,ihre Geschenke darbringend;im Hintergrunde Kuhe und Esel, in der Hohe der Stern.Sehr feines Stiick,unten rechts Monogramm:I.L.;auf der Ruckseite:,Laudin Emaillieur aLimogesI. L." In Holzrahmen.
+
+Hohe 20,Breite 17 Cent.
+
+<!-- image -->
+
+118 Grosseviereckige,etwas gewolbte Platte in relief artigbehandelterfarbiger Emaille mit Gold auf blauem Grunde.Dieselbe zeigt in figurenreicher Darstellung ChristiEinzug inJerusalem: Christus,auf dem Esel reitend,von seinen Jungern gefolgt; vor ihm die Einwohner von Jerusalem,Ticher und Palmen auf den Weg ausbreitend. Sehr gutes Stick.XVI. Jahrh.In Holzrahmen.
+
+Hohe 181/e, Breite 12t Cent.
+
+<!-- image -->
+
+116
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Christi Im Mittelgrunde einer Landschaft steht Christus mit gebundenen Handen, von Judas umarmt; im Vorgrunde Petrus, dem Malchus das Ohr abhauend;im Hintergrunde Kriegsknechte. Vorzigliche Arbeit des XVIl.Jahrh.
+
+120 Viereckige gewolbte Platte, vorziglich weiss in grau auf schwarzem Grunde gemalt mit der Standfigur des hl. Petrus nach A.Durer.Schones Stick. XVIl. Jahrh.
+
+Hohe 23,Breite 16 Cent.Restaurirt.
+
+121 Viereckiges Relief mit St. Paulus. Ebenso.
+
+Gleiche Grosse.
+
+122Kleine viereckige Platte in GrisailleMalerei auf schwarzem Grunde, mit der Huftigur des hl. Joseph, auf dem rechten Arme das Jesuskind haltend, in der Linken eine Lilie.
+
+Hohe 18,Breite 14 Cent.
+
+<!-- image -->
+
+Hohe 1I,Breite 11 Cent.
+
+I19
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+## Arbeiten in Silber.
+
+123 Deckelpokal in Silber, theilweise vergoldet und reich getrieben. Auf
+
+Hohe 35 Cent.Gewicht 6oo Gramm.
+
+rundem ausgeschweiften,mit Palmetten getriebenen Fusse erhebt sich der vasenformige,reich gegliederte Schaft,an dem unten.vier vollrund ciselirteFrauenkopfe,und der oben mitvierfastvollrund heraustretenden Bockskopfen geschmickt ist. Der eng eingeschnuirte, am untern Ende mit Buckeln verzierte Kelch zeigt in der Mitte volutenformig gebogene,mit Maskenkopfchen geschmickte Ansatze,der obere Theil und der Deckel getrieben mit Palmettenbordire;als Bekronung des letztern Standfigur der Minerva.Sehr hubsches,decoratives Stick von reichem Aufbau und schoner Gesammtwirkung. Mit undeutlichem Beschau-und Meisterzeichen des XVlIl. Jahrh.
+
+Fuss getrieben mit Fruchtbouquets und aufgelegtem geringelten Blattwerk. Den Stainder bilden vier ins Kreuz gestellte, volutenformig gebogene Ornamentschnorkel. Kelch und Deckel bilden eine grosse Ananas; als Bekronung des letztern vollrund ciselirte Puttenstatuette, in der Rechten einen Schild haltend. Schones Stick mit Augsburger Beschauzeichen des XVIl.Jahrh.und Meisterzeichen der Goldschmiede- familie Gelb.
+
+Hohe 26 Cent.Gewicht 275 Gramm.
+
+- getriebenem Fusse; der Schaft in Form einer gerippten Vase mit drei volutenformig gebogenen Ansitzen,welche als Bindeglied den Uebergang zu dem glockenformigen Kelche bilden.Der cylindrische Mantel des aus einer wulstformigen Rundung erwachsenden Kelches vorzig lich getrieben mit figurenreicher Darstellung aus der Geschichte des verlorenen Sohnes. Den fachen Deckel umzieht eine breite, von Lowenkopfchen durchsetzte Ornamentbordure;als Bekronung auf sockel formigem Aufbau vollrund ciselirte Eberstatuette. Schones Stick. Mit Amsterdamer Beschauzeichen um 1608 und Meisterzeichen B.
+
+Hohe 28 Cent.Gewicht 393 Gramm.
+
+<!-- image -->
+
+485
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- gehaltenen Fuss umzieht ein ciselirter Renaissance-Ornamentfries auf gepunztem Grunde,wahrend der Knauf des balusterformigen Schaftes mit reichen Blumengehangen und Bandschleifen verziert ist. Der fache, lalm sich stark erweiternde Kelch getrieben mit Buckelverzierungen und aufgesetzten Ovalmedaillons, die Maskenkopfe in reichem Laubwerk zeigen; den Lippenrand umzieht eine reich gemusterte Schnorkelbordire, waihrend der Deckel dem Fusse entsprechend ornamentirt ist. Schones Stuick mit Augsburger Beschauzeichen des XVll Jahrh.
+
+<!-- image -->
+
+Hohe25 Cent.Gewicht 538 Gramm.
+
+der runde Fuss ciselirt mit Palmettenbordire; auf selbigem in hubsch gegliedertem Aufbau der kugelformige Schaft,durchbrochen ornamentirt und ciselirt mit Laubwerk und Lowenkopfchen und fankirt von drei fast vollrunden Drachenfiguren als Tragern. des eiformigen Kelches. Derselbe wird von zwei silbernen Reifen in Kordelflechtmusterung umfasst und ist en relief und vertieft geschnitten mit Laubarabesken. Als Bekronung des Deckels Statuette eines romischen Kriegers. Pracht stick von einer stylvollen vollendeten Zeichnung und meisterhafter Ausfihrung.XVll. Jahrh. alnek Hohe 22 Cent.
+
+<!-- image -->
+
+500
+
+<!-- image -->
+
+450
+
+<!-- image -->
+
+- 128 Grosser Pokal auf sechsfach ausgeschweiftem Fusse, getrieben mit Palmetten und Strahlenkranz in Flammenmusterung. Der sechsfach gekantete Schaft,von grossem bossenformigen Knaufe durchsetzt,mit reliefirten Engelskopfchen und Fruchtbouquets aufs reichste ornamentirt. Der fache Kelch Serpentinstein,von einem durchbrochen ornamentirten Silbermantel umgeben, ciselirt mit Bandschleifen,Fruchtgehangen und Maskenkopfchen. Apartes Stuick. Mit Amsterdamer Beschauzeichen um 1606.
+
+Hohe 22 Cent.
+
+- 129 Frauenbecher in Form einer interessanten weiblichen Costimfigur mit Vertugalla,in den erhobenen Handen einen kleinen Becher schwebend haltend. Das Gewand gravirt mit reichen und ippigen Ornamenten der Spatrenaissance auf granirtem Grunde;der obere Becher mit eingeschnirter Leibung und getrieben mit geschachten Ornamentfriesen. Treffliche Augsburger Arbeit mit Beschauzeichen des XVIll. Jahrh. und Meisterzeichen:Anker.(Thelot?)
+
+Hohe 26 Cent. Gewicht 317 Gramm.
+
+- 130 Frauenbecher in Form einer mannlichen Costuimfigur. Gegenstick. Ebenso. Gleiche Grosse.Gewicht 35o Gramm.
+- 131 Frauenbecher. Weibliche Costumfigur mit aus Latticinioglas gebildeter Vertugalla,eingefasst von silberornamentirtem Reif; die ubrigen Gewand-
+
+<!-- image -->
+<!-- image -->
+
+partieen vergoldetesSilber.In den erhobenenHanden halt sieschwebend cinen kleinen Traubenbecher. Treffiche Nurnberger Arbeit mit Beschauzeichen des XVIl.Jahrh.und Meisterzeichen von Caspar Widmann.
+
+<!-- image -->
+
+Hohe 21 Cent.
+
+- 132 Grosser Munzhumpen mit Henkel und Deckel, in vergoldetem Silber prachtig getriebenundausserstreichverziertmiteingelassenenMunzen und Medaillen (zusammen 79 Stick), auf gepunztem und in Form von Tropfen ausgestochenem Grunde. Der ausladende Fuss gewolbt und wie der Henkel mit vielen romischen Denaren der Consular- und
+- Kaiserzeit besetzt.Die cylindrische Leibung zeigt in drei Zonen ovale und runde Portrait-Medaillons, wobei franzosische,brandenburgische u.a., sowie silberne Nachschlage von romischen Grossbronzen. Auf dem Deckel gruppiren sich um die habsburgische Fursten-Medaille von 1594 hnliche Grossbronzen,und in den Boden ist eine grosse Medaille auf Matthias Il. als Konig von Ungarn eingelassen.Sehr schones Stick. Augsburger Arbeit des XVll. Jahrh. mit Beschauzeichen von Cornelius
+
+Ganze Hohe 2o1/e,Diam.161/e Cent.Gewicht 2027 Gramm.
+
+- 29101 Pape,1723.
+- goldet. Der elegant gegliederte Fuss getrieben mit Delphinen und Wasserwogen, der hohe Stander mit frei vorstehenden Ornamentschnorkeln;der Rumpf des Schiffesgravirt mit verschlungener Blumenbordire,der obere Rand durchbrochen ornamentirt.Das Schiffchen ist vollstandig ausgeristet mit Tauwerk,Segel, Strickleiter und Flagge, auf demselben bewegen sich sechs Figuren.Reizende Goldschmiedearbeit mit Nurnberger Beschauzeichen des XVIl. Jahrh.und Meister-
+
+Hohe4oCent.Gewicht458Gramm.
+
+- zeichen von Esaias zur Linden (1609).
+- 134 Trinkkanne in kurzgedrungener cylindrischer Form mit Deckel und Henkel, 550 in Silber getrieben und vergoldet.Der Mantel und Deckel vorziiglich getrieben mit den durch Amoretten dargestellten Jahreszeiten in von Palmetten umrahmten Medaillons;der Henkel elegant gebogen.Gutes Stick mit Augsburger Beschauzeichen des XVIl. Jahrh.und Meisterzeichen:H.M.
+
+<!-- image -->
+
+Hohe 11 Cent. Gewicht 277 Gramm.
+
+- 135 Humpen mit Deckel und Henkel, Silber,theils vergoldet.Auf dem Mantel des Korpers in zweitheiligem Aufbau vorziglich gravirt die Thaten des Hercules in den bekannten Compositionen des H.S.Beham in acht durch vortrefflich gezeichnete Karyatiden getrennten Langmedaillons. Statuette des hl. Martin, dem Armen seinen Mantel gebend,als Bekronung des Deckels, gravirte Blumenranken und die Umschrift:
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+1400
+
+28
+
+,Wen. Gott. mit. Vns.is. Wer kan Wider. Vns. Sein." Sirene als Handgriff des hubsch ornamentirten Henkels. Vorzugliches Stick von vortreflicher Arbeit. Marke: ein von Krone iberragtes V. XVI. Jahrh. Hohe 16,Diam.11 Cent.Gewicht 488 Gramm.
+
+<!-- image -->
+
+136 Grosser cylindrischer Becher mit Deckel, auf drei Kugelfuissen,mit theil weiser Vergoldung; der Mantel zeigt in vorziglicher Treibarbeit drei durch Fruchtgehange getrennte Medaillons,in denen biblische etc. Dar-
+
+135
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+stellungen;auf dem Deckel,in Langmedaillons,in Landschaft liegende mythologische Figuren,als Bekronung vollrund ciselirte Statuette des hl. Georg zu Pferde, den Drachen todtend.Prachtstuck. Mit Niirnberger Beschauzeichen des XVIl. Jahrh. und Meisterzeichen:H. N.
+
+Hohe 20 Cent.Gewicht243 Gramm.
+
+- 137 Hoher gedeckelter Becher, auf drei Fussen in Form vollrund ciselirter Lowenfiguren ruhend. Die untere Halfte der cylindrischen Leibung des Bechers getrieben mit Buckelverzierungen und durchbrochen ornamentirten Lilienborduren；die obere,halbkugelformig sich erweiternde Leibung gerippt, der Lippenrand von ciselirter Ornamentbordire umzogen. Der Deckel getrieben mit Buckeln,von Lilienborduire eingefasst und von Kreuzblumenornament uberragt. Schones,decoratives Stick, mit Beschauzeichen von Kristianstad um 1727.
+
+Hohe 14 Cent.Gewicht 5go Gramm.
+
+- Die conische Leibung in schuppenartiger Musterung gravirt, der Lippenrand von Palmettenbordure umzogen, als Deckelbekronung vasenformiger Aufsatz. Schones Stick mit Strassburger Beschauzeichen des XVIl. Jahrh. Meisterzeichen: C. P.
+
+Hohe 16 Cent.Gewicht 165 Gramm.
+
+- 360 139 Kleiner Becher auf Fussansatz,aus einem Astgefecht gebildet; die conische Leibung durch Kettenfechtbordure in zwei Halften eingetheilt, deren untere getrieben mit Mascarons und Fruchtgehange in kartuschenformiger Umrahmung, die obere gravirt mit Bandschleifen; den Lippenrand umzieht ein Schriftband. Der Boden gravirt mit Inschrift und
+- Jahreszahl 1531.
+
+Hohe 1o Cent.Gewicht 16o Gramm.
+
+- aus Austernschalen gebildetem Fusse erheben sich drei Delphine, eine vollrund ciselirte Najade tragend, die in den erhobenen Handen die Muschel hailt; dieselbe ist von silberner Bordure umfasst und von vier Lisenen in Form ciselirter Delphine gehalten. Die ganze Flache en relief geschnitten mit verschlungenem Laubwerk und gravirt mit zwei Ovalmedaillons, die Geschichte des Propheten Jonas zeigend. Als Bekronung des Ganzen auf der hintern Muschel Vollstatuette des Neptun, auf Delphin reitend. Sehr feines Tafelzierstick von schoner Gestaltung und trefflicher Arbeit.XVIl. Jahrh.
+
+Hohe 38 Cent.
+
+- 141 Grosser Nautilus, in vergoldetem Silber aufs reichste montirt. Um den runden, schon profilirten Fuss zieht sich ein breiter Fries mit Tritonen
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+und Najaden auf Meereswogen, in vorziglichster Treibarbeit; der fein gegliederte vasenformige Schaft mit vier ins Kreuz gestellten Harpyien. Die von Kordelschntiren gehaltene Muschel zeigt in schwarz schraffirter Gravirung, wohl von Bellekins, von Palmetten umrahmte Medaillons mit biblischen Darstellungen; die Schnecke mit silbergetriebenem Delphinkopf und kleiner Vollstatuette des Mercur,in der Rechten den Stab, in der Linken einen Becher haltend.Vortrefflich schone, geschmackvolle Arbeit. XVIl. Jahrh.
+
+Hohe 35 Cent.
+
+- Fuss getrieben mit Palmettenbordiiren;auf demselben,als Trager der glatten Muschel,vollrund ciselirtes Seeweibchen;der obere Abschluss der Muschel mit Eidechse in Schilfgewachs. Treffliche Augsburger Arbeit des XVIl. Jahrh.
+
+Hohe 18 Cent.
+
+- namentwerk getriebenem Fusse; den Schaft bilden drei volutenformig aufgerolte Verzierungen,in Maskenkopfchen endigend. Die von drei Lisenen gehaltene Muschel mit in Silber ausgeschnittenem Rande,der
+
+Hohe16 Cent.
+
+- gravirt mit Fruchtgehangen. XVIl. Jahrh.
+- 144 Cocosbecher, als Deckelpokal in Silber gefasst: die Nuss en relief reich geschnitten mit drei von Lorbeerkranzbordiren umrahmten Medaillons mit der Anbetung der Hirten,Anbetung der Konige und der Beschnei dung Christi. Die obere Platte des hohen Fusses umzieht eine schuppenartig gemusterte Ornamentbordire; der Stinder reich gegliedert und mit Ornamentborduren von Mascarons durchsetzt; seitlich drei volutenformig gebogene Henkelansatze als Trager des auf einer runden Platte ruhenden Kelches. Derselbe wird von drei Lisenen in Form von Herculesfiguren gehalten. Der Deckel in schuppenartiger Musterung getrieben und uberragt von vollrund ciselirterKriegerstatuette.Prachtstick von edel gegliedertem, imposantem Aufbau und meisterhafter Ausfuihrung.
+
+Hohe36 Cent.
+
+- 1250 145 Cocosbecher,in vergoldetem Silber als Deckelpokal montirt. Um die Wolbung des auf drei Voluten ruhenden Fusses und des Deckels zieht sich eine breite,hoch getriebene Perlkranzbordire und gravirtes Schriftband.Der Stander in Form einer gerippten Vase mit drei volutenformig gebogenen Henkelansatzen als Tragern des von drei Ornamentlisenen gehaltenen Kelches. Selbiger zeigt in drei von Palmetten umrahmten Medaillons in Flachrelief vorzuiglich geschnittene biblische Darstellungen;
+- XVIl. Jahrh.
+<!-- image -->
+
+<!-- image -->
+
+als Bekronung des Deckels vollrund ciselirte Statuette der Minerva, in der Rechten den Speer,in der Linken den Schild haltend. Sehr schones Stick von imposantem Aufbau.XVI. Jahrh.
+
+Hohe 34 Cent.
+
+- runde Fuss auf der Wolbung gravirt mit Palmettenbordure auf gepunztem Grunde; der runde,glatte Schaft durchsetzt von grossem sternformigem Knauf,dessen Endigungen ciselirt mit Maskenkopfchen. Der von drei Ornamentlisenen gehaltene Kelch vorziglich geschnitten mit der Hochzeit zu Kana,Christus und die Samariterin am Brunnen und Christus im Hause des Simon. Der kuppelformige Deckel dem Fusse entsprechend ornamentirt und von vasenformigem Aufsatz uiberragt. Prachtstick,imposant im Aufbau und vortrefflich in der Ausfihrung.XVIl.Jahrh. &amp;
+
+Hohe 3o Cent.
+
+<!-- image -->
+
+- 147 Cocosbecher, als gothischer Deckelpokal in vergoldetem Silber montirt. Der achtfach ausgeschweifte,mit Buckeln getriebene Fuss mit aufgelegtem Blattwerk. Der runde gerippte, sich nach oben verjuingende Schaft in ein geringeltes Blatt- und Schnorkelwerk verlaufend. Die glatte Nuss wird von drei schmalen,mit Laubwerk ciselirten Bandern gehalten. Den Rand des Deckels umzieht eine durchbrochen ornamentirte Lilienbordure,als Bekronung: Statuette eines Ritters,in der Rechten einen Schild haltend. Sehr schones, elegantes Stick.
+
+Hohe 3o Cent.
+
+- 1400 148 Cocosbecher, in Silber montirt.Der hohe gewellte Fuss gravirt mit Landschaftsmotiven und Blumenwerk.DieNuss geschnitten mit der Erschaffung der Eva, dem Suindenfalle und der Austreibung,in drei, durch silberciselirte Bander getrennten Feldern.Der sich conisch erweiternde Hals gravirt mit Jagddarstellung und Palmettenfries. Schones Stick von trefflicher Arbeit.XVIl.Jahrh.
+
+<!-- image -->
+
+300
+
+Hohe 16 Cent.
+
+- 149 Tafelzierstuck in Form einer Eule, deren Korper aus Cocosnuss,in Gefasses dienende Kopf naturalistisch behandelt. Suddeutsche Gold schmiedearbeit.
+- ciselirtem Silber montirt, die Fusse mit anhiingenden Bellchen; um den Hals zieht sich ein Schriftband mit Jahreszahl 1556;der als Deckel des faloor Hohe 19 Cent.
+- 1480 150 Cocosbecher als Deckelpokal in Silber montirt. Der hohe Fuss getrieben mit Buckelverzierungen; die von drei schmalen Bandern gehaltene
+- Nuss geschnitten mit lebendig componirter Hirschjagd;um den Lippenrand zieht sich ein gothisches Schriftband. Der Deckel von Lilienkranzborduire eingefasst und von Venusstatuette iberragt. Interessantes Stuick.
+
+<!-- image -->
+
+<!-- image -->
+
+Hohe 15 Cent.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Auubak
+
+Kantueg
+
+Fabnbar
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+L020
+
+- 151 Hoher Deckelpokal, aus einem Straussenei gebildet.Auf breitem,mit Eierstabfries verziertem Teller erhebt sich der gewulstete,mit Palmetten getriebene und vergoldete Fuss, auf dem drei vollrund ciselirte Straussfiguren als Trager des grossen Strausseneies,welches durch drei breite Bander, die durchbrochen ornamentirt und ciselirt mit Karyatiden, ge halten wird; der Lippenrand zart gravirt mit lebendig componirter Jagddarstellung. Der Deckel dem Fusse entsprechend ornamentirt und von vollrund ciselirter Amorettenstatuette bekront. Prachtstick von reicher, vornehmer Wirkung und meisterhafter Ausfuihrung. XVIl. Jahrh.
+- Nalon. gedrungene Fuss gravirt mit Palmettenbordure.Das Ei von vier Lisenen gehalten,die ciselirt mit Lilienbordire und in Lowenkopfe verlaufend. Der Schraubverschluss in Puttenbuiste endigend und mit doppelter Panzerkette als Traghenkel. Im Boden eingravirt Wappenschild des Heinrich Hibschman von Biberbach und Jahreszahl 1627. Treffliche Arbeit mit Augsburger Beschauzeichen des XVll. Jahrh. und Meisterzeichen mit Hausmarke.
+
+Hohe 43 Cent.
+
+Hohe 27 Cent.
+
+- 490 153 Tafelzierstuck, aus einem Widderhorn gebildet,mit reichster Silbermontirung;dieEndigung als Dose in Silber gefasst,getrieben mit iippigem Rococo-Ornamentwerk und geziert mit grossem Topas. Seitlich vollrund ciselirter Bockskopf mit anhangenden kleinen Gerathschaften:Hammer, Rechen, Schaufel etc., an Gliederkettchen. Die Spitze des Hornes ciselirt mit Akanthusblattwerk und gefasst mit Halbedelsteinen. Schones, decorativesStuick. ala7 Hohe 20,Lange 3o Cent.
+- 530 154 Deckelpokal mit Rubinglaseinsatz. Der runde Fuss in der Wolbung vorziglich getrieben mit Blumen- und Riemenwerk,von kleinen Maskenkopfchen durchsetzt. Der Schaft in Form einer urnenformigen Vase, mit Kettengehainge und kleinen Lowenkopfchen verziert. Vier schmale Bander, ciselirt mit Karyatiden, halten den Rubinglasbecher, dessen hoch getrieben mit Amorette und Memento mori. Feines Stick. Mit Amsterdamer Beschauzeichen um 1608 und Meisterzeichen:S. Hohe 28 Cent.
+- 155 Birnformiges Rubinglasflacon in reicher Silbermontirung auf ovalem Fusse, der getrieben mit spielenden Amoretten. Um den Hals zieht sich ein breites Band, durchbrochen ornamentirt mit Schwanen und seitlichen Vasen, an denen Panzerkette befestigt. Der Schraubverschluss ciselirt mit ruhendem Chinesen. Schones Stuick mit Lubecker Beschauzeichen des XVIl. Jahrh.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+156Flacon,ebenso.
+
+Hohe 25 Cent.
+
+Gleiche Grosse,
+<!-- image -->
+
+<!-- image -->
+
+- motiv.Der Deckel Silber,in Hochrelief getrieben mit hollandischem Stuben-Interieur; denRand umzieht eine Lorbeerkranzbordure.Treffliche Treibarbeit des XVIl. Jahrh.mit Meisterzeichen: C. F.
+
+<!-- image -->
+
+Hohe 17 Cent.
+
+- .158 Schmuckschatulle in Kofferform mit gewolbtem Deckel, Silberfiligran, vergoldet. Der hohe, wenig ausladende Fuss mit aufgesetzten, volldurchbrochen ornamentirt mit geometrisch gemustertem Ornamentwerk und zahlreichen aufgesetzten Knopfchen; die Handhabe in Drachenkopfe endigend,der Riegel in eine Lilie auslaufend. Mit Pariser Beschauund Meisterzeichen von Hubert Louvet (1732-1738). Schones, decora-
+
+<!-- image -->
+
+325
+
+<!-- image -->
+
+<!-- image -->
+
+- rund ciselirten Drachenfiguren; Seitenwandung und Deckel aufs reichste tives Stick. Lalsd Hohe 1o,Lange 15,Breite 10 Cent.Gewicht 477 Gramm.
+- 159 Vortragekreuz, ganz mit getriebener Silberfolie belegt, die Balken mit
+
+Hohe 44 Cent.
+
+<!-- image -->
+
+- vierpassformigen Endigungen,in denen auf der Vorderseite die Symbole der Evangelisten,im Mittelfeld die Dreifaltigkeit; die Rickseite gefasst mit Cabochons und getrieben mit Ornamentwerk in geometrischer Anordnung.Schones Stick.XV.Jahrh.
+- getrieben und ciselirt mit Palmetten; in die sechs Kniufe des letzteren sind kleine Plittchen mit Halbfiguren von Heiligen in translucider
+- Emaille eingelassen. Hubsche Arbeit. XVI. Jahrh.
+
+Hohe 18 Cent.
+
+- 161 Messkelch in vergoldetem Silber,mit rundem, conisch erhobenem Fusse, der vorziiglich getrieben mit Blattwerk und durchsetztvon drei kleinen Rundmedaillons mit Brustbildern von Heiligen in translucider Emaille; der breite, fach gehaltene Knauf elegant gegliedert mit sechs vorstehenden Bossen,in denen Heiligenfiguren, dem Fusse entsprechend; ober-und unterhalb Galerieverzierungen; die Cuppa glatt. Sehr gutes Stick.XV.Jahrh.
+
+Hohe 16 Cent.
+
+- 162 Christus als Schmerzensmann mit umgiirtetem Lendentuche, an die Siule gebunden. Vollrunde Hohl-Statuette von vorziglicher Modellirung.
+
+Hohe 23 Cent.
+
+- 510 XVIl.Jahrh.Auf Marmorsockel.
+
+<!-- image -->
+
+5力
+
+- 163 Credenzschale in flacher Form auf hohem Fusse, in vergoldetem Silber: der fache Fuss ciselirt mit Fruchtfestons auf gepunztem Grunde; der Stander in Form einer vollrund ciselirten Kriegerstatuette,die Linke auf einen Schild gelehnt,in der erhobenen Rechten die Schale tragend; die untere Flache ciselirt mit hoch reliefirter Rosette und gravirt mit
+
+98.1436.
+
+<!-- image -->
+
+<!-- image -->
+
+Wallena
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Rlnenhie
+<!-- image -->
+
+<!-- image -->
+
+310
+
+34
+
+breiter, reich verschlungener Laubrankenbordure,von den verschiedensten Vogelfiguren belebt. Im Fond der Schale durchbrochen ornamentirtes,in Hochrelief ciselirtes Medaillon mit Orpheus in einer Landschaft, die Leier spielend,umgeben von zahlreichen Thierfiguren und von Lorbeerkranzbordire umrahmt. Schones Stick. XVI. Jahrh. Mit undeutlichem Meisterzeichen.
+
+Hohe 18,Diam.18 Cent.Gewicht 68o Gramm.
+
+- 164 Grosse Credenzschale auf hohem, gewelltem Fusse, vasenformigem Stander und flacher Schale, durchweg mit reichster,zum Theil getriebener figuirlicher Ornamentation versehen.Den Fuss schmicken Medaillons mit weiblichen liegenden Figuren, umrahmt von Lorbeergehangen und durchsetzt von geflugelten Engelskopfchen; das vasenformige,mit Fruchtbouquets und Lowenkopfchen ciselirte Mittelstick mit drei volutenformig gebogenen,in Drachenkopfe auslaufenden Henkelansitzen; die untere Flache der Schale getrieben mit uppigem Blumengehange,Engelskopfchen und Riemenwerk. Die obere Flache zeigt in einem grossen Medaillon weit ausgedehnte Landschaft, in deren Vorgrund musicirende Dame; an einem Brunnen lagernd,Jager,von Hunden begleitet etc.Der aufsteigende Rand gravirt mit reich componirter Jagddarstellung. Schones,elegantes Stick. Mit Nurnberger Beschauzeichen des XVIll. Jahrh.und Jahresbuchstabe D 1776-80.
+
+Hohe 21,Diam.22 Cent.Gewicht 98o Gramm.
+
+- 3100 165 Grosse Trinkschale, der Kelch Bergkrystall, geschnitten in Form einer Muschel,reich gefasst in vergoldetem Silber.Auf rundem,gewelltem, mit Renaissance-Ornamentbordire getriebenem Fusse erhebt sich der urnenformige,mit reizvollen Arabesken und Vogelfiguren ciselirte Schaft. Die Aussenwandung des Kelches tief geschnitten mit gekrontem Doppeladler und Palmetten. Prachtstick von meisterhafter Ausfuihrung. Mit Hamburger Beschauzeichen des XVIl. Jahrh.
+- 100
+
+Hohe 21 Cent.
+
+- 166 Runde Schussel mit breitem flachen Rande, in hohem Relief vorziglich getrieben. Der Fond mit der Taufe Christi im Jordan, umrahmt von Lorbeerkranzborduire.Den Rand umziehen Blumen und Fruchtbouquets, durchsetzt von Profilkopfen romischer Kaiser.Augsburger Arbeit des XVIl.Jahrh.
+
+Diam.26 Cent.Gewicht 317 Gramm.
+
+- 1000 167 Kleine ovale Schussel, Silber, meisterhaft getrieben und gravirt. Die ain hines
+
+Lange 16, Breite 14 Cent.
+
+- Tiefung zeigt die Standfiguren des hl. Philippus und Jacobus in zarter Gravirung,umrahmt von einer Lorbeerkranzborduire in hohem Relief. Der aufsteigende,zwolffach ausgebauchte Rand zeigt auf der Innenflaiche allegorische Figuren; die Aussenseite mit Sprichen,auf selbige Bezug nehmend.Vortreffliche Arbeit mit Augsburger Beschauzeichen des XVIl. Jahrh.und Meisterzeichen:Henkelkanne.
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+891
+
+168 Ovales Relief,vorziglich getrieben und ciselirt mit Prometheus,an den Felsen geschmiedet,uiber ihm der Adler.Gutes Stick mit Pariser Beschauzeichen des XVIl. Jahrh.
+
+Hohe 16,Breite 20 Cent.
+
+<!-- image -->
+
+169
+
+169 Ovale Plaquette,in Hochrelief meisterhaft getrieben mit der hl. Familie: Huftfigur der Madonna, das Jesuskind auf dem Schoosse haltend, vor ihr der Johannesknabe,in dem Arme ein Lamm haltend; im Hintergrunde der hl. Joseph. Feines Stick mit Konigsberger Beschauzeichen des XVIl. Jahrh. Hohe 3o, Breite 24 Cent.
+
+170 Viereckiges Relief,meisterhaft getrieben mit Christus,dieKaufer aus dem Tempel treibend,in einer Compositionvon sechs Figuren. Schones Stick.
+
+Hohe 21, Breite 2o Cent.
+
+100 171 Viereckiges Relief, getrieben mit der Grablegung Christi nach A.Direr.Im Vorgrunde Joseph vonArimathia und diehl.Frauen; im Hintergrunde Blick auf Jerusalem. Gutes Stuick.XVIl.Jahrh. Hohe 13,Breite 9 Cent.
+
+<!-- image -->
+
+170
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 172 Ovales Relief, vorziglich ciselirt mit drei Feldherren zu Pferde in einer Landschaft;im Hintergrunde befestigte Stadt.Gutes Stick.XVll.Jahrh. Hohe61e,BreitegCent.
+- 173 Viereckige Nielloplatte mit der Kreuzabnahme Christi. Im Vorgrunde die hi. Frauen,den Leichnam Christi salbend,im Hintergrunde der Calvarienberg.Schones Stick.XVI. Jahrh.
+
+Hohe 9, Breite 7 Cent.
+
+- formigem Sockel steht Madonna in faltenreicher Gewandung,dasJesuskind auf dem Arme haltend,zu ihrer Rechten der hl. Joseph,zur Linken die hl. Magdalena. Schones Stuick. Russisch. XVIl. Jahrh.
+
+<!-- image -->
+
+175
+
+Hohe 12,Breite 1o Cent.
+
+<!-- image -->
+
+176
+
+- 175 Grosse runde Medaille auf Admiral Tromp,in Silber getrieben und reich ciselirt. Auf dem Avers das sehr hoch reliefirte Brustbild unter einer von zwei Engeln gehaltenen Krone,in einem Rahmen von Trophien; unten Banderole mit Aufschrift; auf dem Revers die Darstellung einer Seeschlacht mit hollandischer Umschrift und Jahreszahl 1653. Vorzuigliche Erhaltung.
+- 176 Grosse Schaumunze,1574,auf die hl.Dreifaltigkeit, in Silber gegossen und ciselirt von Hans Reichardt (Heinrich Reitz) in Leipzig. Die Vorderseite zeigtzwischen zwei aufWolken stehenden und anbetenden Engeln, sowie in der Hohe umgeben von gefligelten Engeiskopfchen, die hl. Dreifaltigkeit. Gott der Vater ist dargestellt als romisch-deutscher
+
+Diam. 7/e Cent.
+<!-- image -->
+
+Kaiser in prunkvollem Kronungsornate,mit Krone, Scepter und Reichsapfel,auf prichtigem Throne sitzend;vor ihm steht —in frei vortretender,vollrunder Arbeit -das Crucifix mit Gott dem Sohne,und dariber, auf dem Querbalken des Kreuzes, Gott der hl. Geist in Gestalt einer Taube. Um den Rand zieht sich die Legende: PROPTER SCELVS POPVLI MEI-PERCVSSI EVM ESAIE LII.Auf der Ruckseite die Anbetung der hl. drei Konige vor einem grossen Kirchengebaude, in Form eines gerahmten Bildes, das von zwei Engeln in reich drapirten Gewandern gehalten wird und unten die Aufschrift: INVENERVNTPVERVMCVMMARIA|ADORAVERVNTu.S.W. in finf Zeilen tragt.Oberhalb des Bildes das kursachsische Wappen. Die Legende lautet:(R)EGNANTE.AVGVSTOD:G:DVCE SAXONIE ZG:GROSSVM HVNCLIPSIE·HR:CVDEBAT: ANM·DL·XXIlMENSEIANV.Prachtstuick. Unser Exemplar erwahnt und abgebildet in Knackfuss,Deutsche Kunstgeschichte. Bd. Il. pag.82. Diam.I2 Cent.
+
+145
+
+- 177 Renaissance-Gurtelkette, bestehend aus zehn langlichen, durchbrochenen und mit Knopfen ornamentirten Platten,zwischen denen doppelreihige Panzerkette befestigt; die Schliesse in Form einer convexen Rosette mit aufgelegtem Rankenwerk. Mit Passauer Beschauzeichen und Meisterzeichen:R.Z. Lange 10o Cent.Gewicht 248 Gramm.
+
+<!-- image -->
+
+180
+
+<!-- image -->
+
+- emaillirten Blumchen und gefasst mit Steinen. In nischenformiger Vertiefung Madonna mit dem Kinde,in Elfenbein geschnitzt und polychromirt.
+
+Hohe 1o, Breite 9 Cent.
+
+- Der hohe,altarformig aufgebaute Sockel Silber,ciselirt mit Arabesken und Rankenwerk, gefasst mit Turkisen. Die Balken des Kreuzes zeigen auf der Vorder-und Riickseite zahlreiche Compartimente mit biblischen Darstellungen und Ikonographie der griechischen Kirche. Interessante Hohe 29 Cent.
+- Arbeit.
+- Sockel; der proflirte Schaft mit eingelassenem Todtenkopfe,in rother Koralle geschnitten; das Kreuz Buchsbaumholz, ausserst minutios geschnitzt mit biblischen Darstellungen. Feines Stick. Russische Arbeit.
+- Hohe 23 Cent.
+- 181 Grosse ovale,an den Ecken abgerundete Tabatiere; die Seitenwandungen
+- vorziglich getrieben mit ippigen,von den verschiedensten Vogelfiguren belebten Blumenranken. Der Deckel zeigt eine figurenreiche Darstellung mit Rebecca am Brunnen. Schones Stick mit Leipziger Beschauzeichen des XVIl. Jahrh.und Meisterzeichen:P. J. K.
+
+Hohe 5,Lange 15,Breite 7 Cent.
+
+<!-- image -->
+
+<!-- image -->
+
+Aavn Lazh
+<!-- image -->
+
+182 Ovale Bonbonniere,Achat, der Deckel Silber,ciselirt mit reizenden Laubarabesken und geziert mit Rubinen,Smaragden und Rosen.Feines Stick. Hohe 3,Lange 61/e,Breite 5 Cent.
+
+<!-- image -->
+
+1450
+
+<!-- image -->
+
+850
+
+183 Anhanger in Form eines sechseckigen, yon kleinen Siulchen flankirten Thurmes, die Seitenwandungen mit aufgesetzten vergoldeten Appliquen, ciselirt mit Engelsfigurchen, die Leidenswerkzeuge haltend; als Bekronung des Daches Hahn. Im Innern geschliffener Krystallcylinder,in den eine minutiose Buchsbaumschnitzerei eingelassen mit 12 Darstellungen aus der Leidensgeschichte Jesu. Ausserordentlich zierliches,schones und seltenesStick.
+
+Hohe g Cent.
+
+184 Vergoldeter gothischer Anhanger. In einer ovalen nischenformigen Vertiefung die vollrund ciselirte Statuette des hl. Georg,den Drachen todtend;seitlich aufgerolltes Blattwerk und aufgesetzte Wappenschildchen. An Gliederkettchen. Hubsches Stuick.
+
+<!-- image -->
+
+<!-- image -->
+
+185 Kreuzanhanger, silbergetrieben und mit geschliffenen Bergkrystallplatten belegt,unter denen auf Pergament gemalte Heiligenfiguren;die Rickseite Silber,in Flachrelief getrieben mit Salvator Mundi;die dreipassformigen Endbalken zeigen die Symbole der Evangelisten. Interessantes, gutes Stuick.
+
+Hohe 12 Cent.
+
+Hohe 14,Breite 14 Cent.
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Arbeiten in Bronze, Kupfer und Eisen.
+
+- 186 Altarkelch, kupfervergoldet,mit silberner Cuppa; der weit ausladende,
+- aus dem Sechspass entwickelte Fuss,dessen Rand von sternformigen Zacken durchsetzt,ciselirt mit Palmetten und gefasst mit Opalen.Der grosse Knauf sechseckig mit vortretenden Rundmedaillons,die emaillirt mit Heiligenfiguren;die Cuppa Silber mit aufgesetzten vierpassformigen Appliquen, gravirt mit den Symbolen der Evangelisten und mit nischenformigem Reliquienbehalter. Gutes Stick.XVI. Jahrh.
+
+Hohe2o Cent.
+
+- 187 Pokal auf sechsfach abgeflachtem,mit Rankenwerk durchbrochen ornamentirtem Fusse; der Schaft in Form eines Hirsches,in den Vorderlaufen den glockenformigen, aus Latticinioglas gebildeten Pokal haltend.
+
+Hohe 14 Cent.
+
+- Gutes Stuick.XVIl. Jahrh.
+- 188 Gothisches Reliquiar auf grossem, vierpassformig ausgeschweiftem,mit Palmetten gravirtem Fusse. Der runde gerippte Schaft, durchsetzt von gelassenem rothen Zellenschmelz.Der cylindrische Reliquienbehalter von grossem Baldachin iberragt mit seitlichen Eckthurmchen,unter
+
+Hohe 35 Cent.
+
+- flachem,bossenformigem Knauf, strahlenformig auslaufend und mit eindenen Standfiguren von Heiligen. Gutes Stick.
+- 310 189 Reliquien-Buste eines Bischofs,auf hohem, sockelformigem,mit Rubinen, Turkisen und Rosen gefasstem Fusse. Vollrunde,vorziglich getriebene
+- Figur.Vergoldet.
+
+Hohe 14 Cent.
+
+- Wa 190 Bischofstab-Curvatur in vergoldetem Kupfer mit aufgesetzten silberciselirten Appliquen. Der runde Schaft gravirt mit Lilienverzierungen in rautenformigen Feldern. Der reich gegliederte Knauf sechseckig mit aufgesetzten,reich mit Krabben verzierten Spitzbogen,unter denen,
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+hahahu
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+800
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+in Thronsesseln sitzend,vollrund in Silber ciselirte Paipste, Bischofe und Konige. Die Kriimmung in Form einer Volute,auf deren Endigung kleine Statuette:Madonna mit dem Kinde; seitlich aufgesetztes Blattwerk und vollrund ciselirter Drache. Interessantes, seltenes Stick. Franzosisch. XV. Jahrh.
+
+Lange 28 Cent.
+
+- 191 Fragment eines gothischen Bischofstabes in Form eines sechseckigen, mit Fischblasen-Ornamenten durchbrochenen,von Fialen flankirten Thurmes; eingesetzt kleine Emailleplattchen mit Lamm Gottes.
+
+Hohe.1o Cent.
+
+- 192 Relieffigur der hl.Kunigunde, Gemahlin Heinrichs Il., in sitzender Stellung. Das reich gemusterte Ornat mit Palmetten auf gepunztem Grunde,das Haupt mit Krone geschmickt,beide Hainde auf ein im Schoosse liegendes Buch gestitzt. Interessante, vorziglich modellirte, fast vollrunde Figur.Vergoldet.
+
+Hohe 29 Cent.
+
+- 193 Klingel in Glockenspeise, der Mantel mit reliefirter Darstellung,Orpheus unter den Thieren,und Aufschrift:Petrus Cheineus me fecit 1566." Gutes Stick.
+
+Hohe 14 Cent.
+
+- 194 RenaissancePulverhorn,dreiseitig ausgeschweift,Holz mit rothem Sammt bezug und mit Applicationen in Goldbronze verziert.Die Vorderseite ganz in Goldbronze, ciselirt mit Waffentrophie,allegorischen Figuren des Krieges und des Friedens und geflugelten Engelskopfchen. Die Kanten der Langseiten bedeckt ein Fries mit stylvoll gravirter Ornamentbordire;aufgesetzt kleine Lowenkopfchen,Ringe im Maule haltend zum Befestigen der Schnur. Sehr schones, geschmackvolles Stick. XVI. Jahrh. Hohe 22, Breite 21 Cent.
+- umrahmt von Renaissance-Rankenwerk und Kalendarium. Im Innern Compass.
+
+Diam.5 Cent.
+
+- 196 Viereckiges Relief, meisterhaft ciselirt mit Pieta. Am Fusse des Kreuzes kniet Madonna, den Leichnam Christi in Tucher wickelnd, seitlich Engelsfiguren.Treffliche Arbeit,dem Benvenuto Cellini zugeschrieben. Hohe 8, Breite 6 Cent.
+
+Gleiche Grosse.
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+198 Viereckiges Relief,vorziglich getrieben mit der Grablegung Christi Im Vorgrunde einer Felslandschaft die hl.Frauen,den Leichnam Christi beweinend;im Hintergrunde Blick auf den Calvarienberg. Schones Stick. Hohe 42,Breite32Cent.
+
+<!-- image -->
+
+198
+
+199 Modellrustung,Kampfharnisch mit Visirhelm,hochgewolbter Brust,Armzeug mit grossen Vorder- und Hinterfuigen, geschobenen Handschuhen, Panzerhemd und Beinrohren mit geschobenen Schuhen.Hubsche Arbeit in blankem Stahl mit Messingnieten verziert;auf Gliederpuppe.XVI.Jahrh. Hohe32Cent.
+
+200 GothischesTruhenschloss,Eisen,kastenformig,umrahmt von durchbrochen ornamentirter Lilienbordire.Die Mitte derFrontseitenimmt ein grosser baldachinformiger Vorbau ein,unter dem vollrund ciselirte Statuette des hl. Hieronymus. Zu den Seiten von Fischbiasenornament durch6
+
+1436.
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+brochenes Maasswerk und aufgesetzt vier kleine,vollrund ciselirte Heiligenstatuetten.Der Kammbartschluissel in Form den altromischen Schluisseln entnommen. Prachtiges Stick von hervorragender Schonheit in Bezug auf Composition, Zeichnung und technische Behandlung. Hohe 18,Breite 16 Cent.
+
+201 Viereckige Cassette mit gewolbtem Deckel und oberer Handhabe, allseitig in Silber aufs reichste tauschirt mit figuralem Rankenwerk,von den verschiedensten Vogelfiguren belebt. Sehr schones, feines Stick. XVIl. Jahrh. Hollandisch.
+
+Hohe 15,Lange 18,Breite 12 Cent.
+
+202 Kleines Schmuckkastchen auf vier Kugelfuissen, allseitig uiberaus reich geatzt mit Jagddarstellungen und （ Costimfiguren auf vergoldetem Grunde. Schones,zierliches Stiick. XVIl. Jahrh.
+
+Hohe 7,Lange 12,Breite 6 Cent.
+
+203 Kleine vierseitige Cassette in Kofferform mit gewolbtem Deckel, allseitig in fachem Relief geschnitten mit schwungvollen, edel gezeichneten Laub- und Blumenranken, die von theils phantastischen Vogelfiguren, grotesken Thier-Harpyien etc.belebt sind. Auf der Vorder- und Rick seite Portraitmedaillons. Schones, geschmackvolles Stick. XVll. Jahrh. Hohe 11, Lange 15, Breite 11 Cent.
+
+<!-- image -->
+384
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Arbeiten in Stein, Steinnuss, Wachs etc.
+
+- 204 Rundes Medaillon in Kelheimer Stein,vorziglich in Flachrelief geschnitten mit der Anbetung der Hirten in ciner Composition von sieben Figuren,
+
+Diam.4 Cent.
+
+- im Vorgrunde eines Stalles. Feine Ausfuihrung. XVI. Jahrh.
+- 205 Flacon, Steinnuss,auf silbermontirtem Fusse; die Leibung in hohem Relief vorziiglichgeschnittenmit Lowenjagd in einem aufgerollten Laubrankenfries; der Hals Silber, gravirt. Sehr schones Stick. XVI. Jahrh.
+
+Hohe 8 Cent.
+
+- den Darstellungen der Leidensgeschichte Christi in acht mehr oder minder figurenreichen Compositionen unter von Saiulen getragenen Bogenstellungen,in deren Zwickeln bei dem untern Friese die Symbole derEvangelisten.DieDarstellungen sind vonmeisterhafter Composition und edel und streng gehaltener Zeichnung,voll Ausdruck und Empfindung; die Sculptur,zum Theil in Hochrelief,zum Theil vollrund gehalten, ist von der sorgfiltigsten,bis in das Kleinste vollendeten Ausfihrung. Ganz vortreffliches Stick,in vergoldetem,ciselirtem Silber montirt. XV. Jahrh. Lange 6,Breite 41eCent.
+- 207 Achteckige Tabatiere,Empire,Lapis lazuli mit eingelassenen Streifen in
+- weissem und braunem Stein;die Montirung Gold. Schones Stuick.
+
+Hohe 2,Linge 8,Breite 5 Cent.
+
+- 208 Zierstuck,aus einem rothen Korallenast gebildet,auf halbkugelformigem Fusse in Latticinioglas. Anhingend neun romische etc. Gegenstinde: Thranenflaschchen,Fibel etc. Hohe 22 Cent.
+- 209 Original-Wachssiegel Karls Vl. Diam.14 Cent.
+- 210 Kurbisflasche mit eng eingeschnittener Leibung,vorziglich gravirt mit zwei ibereinanderstehenden Friesen mit tanzenden und streitenden Bauern in Teniers'Geschmack. Hohe 2o Cent.
+
+6
+
+<!-- image -->
+
+Froihk
+
+<!-- image -->
+
+HaMlnger
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+## Miniaturen,Pergament-Handschriften etc.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 211 Miniatur-Brustbild des Malers P. Mignard in schwarzem Sammtwams, weisser Halskrause und langem,braunem Lockenhaar. Vorziglich aus-
+
+gefihrte Miniatur auf Elfenbein.In vergol detem Silberrahmen. Hohe 11,Breite 9 Cent.
+
+212 Brustbild eines jugendlichen Patriziers in
+
+Hohe 7, Breite 6 Cent.
+
+schwarzem Wams, breitem Spitzenkragen und braunem lockigen Haar.Vortrefflich ausgefihrte Olminiatur auf Silberplatte.
+
+## 213 Brustbild einer jungen
+
+Hohe 1o, Breite 8 Cent.
+
+<!-- image -->
+
+211
+
+214 Gebetbuch in niederdeutscher Sprache. Hervorragend schones Manuscript von 176 Blittern auf Pergament aus der Mitte des XV. Jahrh. Die tadellos erhaltene Handschrift istmit 6 blattgrossen und 40 kleineren Miniaturen von hervorragender Qualitat geziert,welche, mit Gold gehoht,in frischen bunten Farben Scenen aus dem Leben der Jungfrau Maria und des Gottessohnes darstellen. Die Auszeichnungsbuchstaben in Gold,Blau und Roth. Auf vielen Seiten umrahmt eine buntfarbige, zumTheil mitphantastischenThiergestaltenbelebte Rankenbordire den
+
+Frau in brauner Klei dung und schwarzem Lockenhaar,ein Kind an ihren Busen drickend. Olminiatur auf Kupfer.
+<!-- image -->
+
+Text. Die mit grosser Feinheit ausgefuihrten Miniaturen weisen, wie auch die Sprache,auf Niederdeutschland als die Gegend der Entstehung hin. Blindgepresster Lederband mit zwei kupfernen Schliessen. Hohe des Einbandes 19,Breite 15 Cent.
+
+- 215 Gebetbuch in lateinischer Sprache. Pergamentmanuscript von 73 Blattern aus der zweiten Halfte desXV.Jahrh.AufjederSeite ist der Textan drei Seiten von einer buntfarbigen,goldgrundigenBordure eingefasst,welche meist aus Blaitter- und Blumenranken besteht, die haiufig von verschiedenen Thiergestalten belebt sind. An kleineren Miniaturen im Text weist der Codex 81 Stick auf, wahrend 22 die ganze Seite ausfillen. Einige sind nach Art der Grisaille-Malerei ausgefihrt,bei allen aber herrscht der Goldton vor, wie auch der Text mit vielen kleinen, goldgehohten Initialen und sonstigen Zierstrichen ausgestattet ist. Interessantes Stuick von bester Erhaltung. Der Lederband,gleich gut conservirt,ist mit blindgepresster Bordure verziert, die mit kleinen goldenen Sternchen belebt ist, und hat auf Vorder-und Ruckseite das eingepresste Monogramm:I. S.X.
+
+Aus der Sammlung des Herzogs von Hamilton,England.
+
+<!-- image -->
+
+<!-- image -->
+
+5250
+
+<!-- image -->
+
+Hohe des Einbandes 2o,Breite 13 Cent.
+
+- 216 Livre d'heures.Vorziglich erhaltenes lateinisches Pergamentmanuscript von 143 Blattern aus dem Anfange des XV.Jahrh. Mit zehn Miniaturen, von welchen sechs jedesmal eine ganze Seite ausfuillen. Wo die Miniatur kleineren Umfanges ist,umrahmt eine buntfarbige Bordire auf Goldgrund den Text.Die in giinzenden Farben erstrahlenden Miniaturen, auf das feinste ausgefihrt, sind, wie der ganze Codex, franzosischen Ursprunges.Der Ledereinband,dessen Vorderdeckel lose,ist mit goldgepresstem Ornament verziert und stammt aus dem XVI. Jahrh. Hohe des Einbandes 18,Breite 13 Cent.
+- 217 Livre d'heures. Pergamentmanuscript von 103 Blattern aus der Mitte des XV.Jahrh.Die tadellos erhaltene Handschrift auf sehr feinem Pergament grossten Feinheit ausgefihrt sind und auch costimlich und decorativ hohes Interesse beanspruchen. Bei den kleineren Miniaturen fasst jedesmal eine Bordire den Text ein,welche meist aus Rankenwerk gebildet ist,das von theilweise phantastischen Thiergestalten belebt wird. Die Auszeichnungsbuchstaben im Text sind mit Gold gehoht. Arbeit erster Qualitat, franzosischen Ursprungs. Der rothe Maroquinband,mit goldgepresstem Ricken und Goldpressung auf Vorder-und Hinterdeckel, dirfte auch franzosische Arbeit sein und dem XVIll. Jahrh. angehoren. Aus der Sammlung des Herzogs von Hamilton,England.
+
+Hohe des Einbandes 121/e,Breite 9 Cent.
+
+- 218 Gebetbuch in niederdeutscher Sprache.Pergamentmanuscript von 155 Blaittern aus dem Ende des XV. Jahrh.,mit 27 blattgrossen und 37 kleineren Miniaturen geschmickt. Viele Initialen in Gold gehoht
+
+<!-- image -->
+
+BoHen
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+und mit buntfarbigem Rankenwerk geziert.Beim Kalendarium fehlt cin Blatt. Rother Sammetband mit zwei emaillirten silbernen Schliesscn. Hohe des Einbandes 12,Brcitc 1o Cent.
+
+- Blittern aus der ersten Halfte des XV. Jahrh.,mit 10 grossen und 3 kleineren Miniaturen, sowie 17 Bordiren und 1206 buntfarbigen,in Gold gehohten Initialen. Die Miniaturen, Scenen aus dem Neuen Testament darstellend,sind mit grosser Feinheit ausgefihrt.Ein Blatt ist etwasbeschadigtund einige sind etwas abgegriffen,sonstvon guter Erhaltung. Franzosischen Ursprungs. Franzosischer Renaissance-Einband mit huibsch ornamentirter Vergoldung (genre Grolier)aus dem
+- Ende des XVI. Jahrh.
+
+Aus der Sammlung des Herzogs von Hamilton,England. Hohe des Einbandes 13e,Breite 9 Cent.
+
+- 220 Gebetbuch in lateinischer Sprache.Pergamentmanuscript von 163Blaittern aus der Mitte des XV. Jahrh. Mit vielen in Gold gehohten kleinen Initialen und bunten Zierlinien im Text.Die 13 Miniaturen sind mit grosser Feinheit ausgefuihrt; die 14 grosseren Initialen bunt mit Gold gehoht; auf den Seiten, wo sich diese befinden,rahmen Randleisten in Pfanzenschmuck den Text ein. Deutsche Arbeit von trefflicher Erhaltung. Goldgepresster Lederband aus dem XVlll. Jahrh.
+
+Hohe des Einbandes 11,Breite 81 Cent.
+
+- 221 Gebetbueh in lateinischer Sprache. Manuscript auf feinem Jungfernpergament aus dem Ende des XV. Jahrh. auf 12i Blaittern. Der Text jeder Seite ist von einer den ganzen Rand ausfillenden, goldgrundigen Bordure mit einer auf buntem Bande geschriebenen Legende umgeben. Beim Kalendarium steht am Anfange jedes Monats cine auf diesen bezigliche Miniatur. Ausser diesen weist der Codex an auf Goldgrund verzierten kleinen Initialen 30 auf,an kleinen Brustbild-Miniaturen im Text 30 und an blattgrossen 17. Sowohl die Schriftzige als auch die Malereien sind mit grosster Feinheit angefertigt, und der ganze Codex weist auf Italien als Ursprungsland hin. Goldgepresster Lederband mit dem gekronten Monogramm:L.D.
+
+Aus der Sammlung des Herzogs von Hamilton, England. Hohe des Einbandes 1oe,Breite 61/ Cent.
+
+- 222 Kartenspiel: Nieuwe Constitutie Kaart van's Paussen gewaande onfeilbarheid gestigt op dolheid en blindheid. 43 Kartenblitter theilweise mit Darstellungen aus der Papstgeschichte. Kupferstiche aus dem Ende des XVII.Jahrh. Hohe jedes Blattes 8,Breite 5 Cent.
+- Die aus den dreissiger Jahren dieses Jahrhunderts stammenden Blitter sind mit Rococo-Ornament und kleinen Costimfiguren verziert. Chromo-
+- lithographie. Hohe jedes Blattes S,Breite 6 Cent.
+<!-- image -->
+
+<!-- image -->
+
+## Textil-Arbeiten.
+
+<!-- image -->
+
+- 224 Wandteppich, friesformig,gewirkt,mit Seide und Goldfaden durchzogen. Derselbe zeigt in vier durchlaufenden, durch obere fliegende Binder abgetheilten Feldern: Christus,das Kreuz schleppend; Christus am Kreuze: rechts am Fusse die hingesunkene Madonna und derhl. Johannes, links Longinus mit der Lanze; Christi Kreuzabnahme: am Fusse des Kreuzes die hl. Frauen,ein Tuch ausbreitend, Joseph von Arimathia und Nikodemus, den Leichnam Christi haltend;die Grablegung:Christus, in einem Sarkophag liegend,von den hl. Frauen gesalbt; Christi Auferstehung: der Heiland mit erhobener Rechten, in der Linken die Sieges fahne haltend; am Fusse des Grabes die erschrockene Wache,im Hintergrunde die Zinnen von Jerusalem. Capitales Prachtstick von vorziglicher Arbeit,ungemein figurenreicher Composition in der Art des M. Schongauer,harmonischer Farbenwirkung und ganz vorzuiglicher Erhaltung. Deutsche Arbeit des XV. Jahrh. Hohe I2o,Breite30o Cent.
+- 225 Wandteppich, gewirkt, mit vorherrschender Anwendung in Gruin und Roth.Derselbe zeigt die Konigin von Saba vor Salomon: der Konig in reichem Gewande,auf Thronsessel sitzend,in der Rechten das Scepter haltend;vor ihm kniet die Konigin,von zahlreichem Gefolge begleitet. Den Rand umzieht eine in Edelsteinnuppen gemusterte Ornamentbordure. Schones Stick,die reiche Composition in der Art des L.v.Leyden.
+
+<!-- image -->
+
+1Sien3460
+
+<!-- image -->
+
+- Um1500. Hohe24o,Breite 230 Cent.
+- 226 Kronungsteppich der Maria Theresia, angefertigt von Jacobus Achen in Frankfurt. Das Ganze in verschiedenem buntfarbigem Tuche applicirt und in bunter Seide gestickt.Im Mittelfelde Doppeladler und die Kaiserkrone,von zwei Engeln gehalten; in kranzformiger Umrahmung darum gruppirt die Brustbilder der Kurfirsten mit beziglichen Aufschriften und Sprichen.Den Rand umziehen die Standfguren der Apostel,biblische Darstellungen und Aufschrift:Im Jahr 1745 den 12. des Monaths Augusti ist dieses Stuick angefangen worden.Im Jahr Anno 1750 den 16. des Monaths Septembris ist dieses Stick fertig worden."Hochinteressante,technisch vollendete Arbeit. Hohe 168,Breite20o Cent.
+- 227 Grosse persische Decke, das Mittelfeld rother Atlas,vorherrschend in Gold und Silberfiden sowie mit sparsamer Anwendung von bunter Seide aufs reichste gestickt mit ippig verschlungenem,von Vogel figuren belebtem Rankenwerk.Den Rand umzieht eine breite Blumenbordire aufviolettem Untergrunde. Prachtstick. XVll. Jahrh.
+
+Lange 23o,Breite 135 Cent.
+<!-- image -->
+
+[228
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+228 Kleine Decke in reichster Stickerei in farbiger Seide und Gold auf Unterlage in weisser Rohseide，von beiden Seiten vorziglich in gleicher Weise durchgestickt.Das Ganze bedecken drei friesformige,ibereinanderliegende Bordiren mit schwungvollem Blumen-und Blattwerk, zwischen denen zahlreiche Gotter und Gottinnen. Die Fleischtheile sind im Plattstich ungemein ausdrucksvoll ausgefihrt,die ibrigen Partieen durch Goldfaden mit farbigen Lasurstickereien behandelt.Prachtstick von hoher Vollendung in der Zeichnung und fast noch hoher in der Technik.XVII.Jahrh.Franzosisch.
+
+Hohe 62,Breite 92 Cent.
+
+229 Decke in ganz ihnlicher Anordnung. In Holzgestell.
+
+<!-- image -->
+
+Gleiche Grosse.
+<!-- image -->
+
+## Arbeiten in Holz.
+
+- 230 Gruppe,Eichenholz,vollrund geschnitzt mit derVermihlung der hl.Maria in einer Composition von finf Figuren. Die Mitte nimmt der Hohepriester Simon ein,mit der Linken die neben ihm stehenden Hande von Joseph und Maria umfassend; seitlich die hl. Elisabeth. Vorziglich geschnitzte Gruppe von J.von Calcar. xV. Jahrh.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Hohe 31,Breite 35 Cent.
+
+- vorziglicher Ausfuhrung auf hohem geschweiftem Nussbaumsockel in Goldbronze,applicirt mit Maskenkopfen und Palmetten. XVIl. Jahrh.
+- Hohe der Gruppe 46 Cent.;Hohe des Ganzen 62 Cent.
+- 232 Die Geisselung Christi in einer Composition von drei vollrund geschnittenen Buchsbaumfiguren: Christus mit umgurtetem Lendentuche,an eine Saule gebunden, das Haupt zur Erde geneigt. Einer der fast vollig entblossten Kriegsknechte halt in der Rechten ein Beil, der andere in beiden Han den die Geissel, zum Schlage ausholend. Vorzuglich vollrund geschnittene Figuren. XVIl. Jahrh. Auf wirfelformigen Postamenten. Hohe 34 Cent.
+- 233 Gladiator,fast nackt,mit leicht geschiirztem Lendentuche,in der Rechten das Schwert,in der Linken den Schild haltend. Vortrefflich modellirte, vollrund in Buchsbaumholz geschnitzte Figur. XVIl. Jahrh.
+
+Hohe32Cent.
+
+- 234 Standfigur der hl. Cacilia, Buchsbaumholz, vollrund geschnitzt. Das faitenreiche Gewand mit der Rechten wenig aufgerafft, das blumen-
+- bekrainzte,mit einem Tuche bedeckte Haar filt in langen Locken auf
+<!-- image -->
+
+die Schultern herab;in beiden Handen halt sie eine kleine Orgel. Vorzuglich geschnitzte,trefflich modellirte Figur.XVI. Jahrh. (Coll. Heimsoth und Milani).
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Hohe 21 Cent.
+
+- 235 Brustbild der schmerzhaften Mutter, die Gewandpartieen Birnbaum holz geschnitzt mit Applicationen in Silber, die Fleischtheile Elfenbein; das Gesicht mit seelenvollem, schmerzerfilltem Ausdruck. Gutes Stick. Auf der Unterseite Monogramm L.B.und Jahreszahl 1502.
+
+Hohe 12 Cent.
+
+- 236 Miniatur-Statuette der Madonna mit dem Kinde, in Birnbaumholz vorziglich geschnitzt; Standfigur der Madonna in reich drapirtem Gewande und Mantel, auf dem Haupte eine hohe Krone; sie halt auf dem linken Arme das Kind. Vorziglich vollrund geschnitten.XVI. Jahrh.
+
+Hohe 11 Cent.
+
+- 237 Buste eines jungen Romers in lockigem Haar und ubergeworfenem Mantel. Vollrund in Birnbaumholz geschnitzte Figur,auf hohem Sockel.
+
+Hohe 18 Cent.
+
+238 Buste einer jungen Romerin. Gegenstick. Ebenso.
+
+Gleiche Grosse.
+
+- 315 239 Viereckige Schnitzplatte in Buchsbaum mit der Auferstehung Christi. Um das Grab gruppirt vier Kriegsknechte, theils am Boden liegend, in der Hohe Christus in flatterndem Gewande,die Rechte erhoben,in Holzschnitzerei, die Figuren fast vollrund mit freistehenden Partieen in lebendiger Bewegung meisterhaft herausgearbeitet. XVll. Jahrh.
+
+Hohe 19,Breite 14 Cent.
+
+- 240 Viereckige Schnitzplatte mit der Kronung Maria. Auf einem Wolkengebilde, in dem Halbfiguren von Engeln.kniet Maria,die Hainde iber die Brust geschlagen; seitlich Gott Vater und Christus, eine Krone haltend; in der Hohe Taube des hl. Geistes und Engelgruppen. Gegenstuick.Ebenso. Gleiche Grosse.
+- 241 Hausaltar in Form einer gothischen Nische, in Eichenholz uberaus reich geschnitzt; der reich gegliederte Sockel,halbkreisformig vortretend,durchbrochen geschnitzt mit Fenster- und Gitterwerk und von zahlreichen Eckthirmchen und Fialen flankirt; die Rickwand durchbrochen ornamentirt mit Fischblasen Ornament; die baldachinformige Bedachung mit vortretenden,aus Engels-und phantastischen Thierfiguren erwachsenden Thiirmchen mit aufgesetzten Krabben und Kreuzblumen. In der 7#
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+CAemurrnrd
+<!-- image -->
+
+Nische steht eine vollrund geschnitzte Madonnenstatuette in reich drapirter Gewandung,die Hande zum Gebet gefalten. Hervorragend schoneArbeit. Hohe132,Breite7o Cent.
+
+242 Hausaltarchen in schwarzgebeiztem Holze, in ungemein reichem,architek241 244 tonischem Aufbau in Form eines Altares mit Applicationen in Silber.
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+260
+
+<!-- image -->
+
+Auf hohem Sockel,in dessen Innerm kleinere Schiebladen,erhebt sich der treppenformig aufsteigendeMittelbau,derwie der Sockel durch zwei Thurchen verschlossen, deren Fries in Silber getrieben mit biblischen Darstellungen. Der Oberbau mit fuinf theils seitlich ausladenden,nischen- formigen Vertiefungen, in denen theils in Relief, theilsvollrund Crucifixdarstellung,Verkindigung Maria,Flucht nach Egypten und Auf erstehung,in Silber meisterhaft ciselirt. Schones, decoratives Stiick.Augsburger Arbeit des XVIl. Jahrh. Hohe 55, Breite 28 Cent.
+
+243 Hausaltarchen, reich in Lindenholz geschnitzt, in Form einer gothischen Nische,unter der Madonna in faltenreicher Gewandung, auf dem linken Arme das Jesuskind, in der Rechten das Scepter haltend. Treffliche neuereArbeitmit Monogramm M.E.
+
+Hohe go Cent.
+
+244 Hausaltarchen mit Ma-
+
+Gleiche Grosse.
+
+<!-- image -->
+
+242
+
+245 Russisches Hausaltarchen, Buchsbaumholz, nischenformig; der Fuss geschnitzt mit Palmetten; in der oberen Wolbung geflugelte Engelsfiguren,im Fond Halbfigur der Madonna,auf dem linken Arme das Jesuskind tragend. Die Rickseite geschnitzt mit griechischem Kreuz und russischer Aufschrift.XVIl.Jahrh. Hohe 12,Breite 9 Cent.
+
+246 Hausaltarchen, ganz in Silber ciselirt, in Form einer eiformigen Vase mit eingelassener Uhr. Der achtfach abgefachte Sockel mit oberer Krystallplatte belegt, unter der in Elfenbein minutios geschnittene
+
+- donna,in der Rechten eine Lilie haltend. Gegenstick.
+
+<!-- image -->
+
+Wblbol).
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Darstellung der Verkundigung.Der Sockel birgt in seinem Innern ein doppelfligeliges Altarchen,in Olfarbe vorziiglich bemalt mit Crucifixdarstellung.Der Schaft aus drei volutenformig gebogenen Palmetten gebildet.Den Korper der Vase bildet eine Uhr in Art der Nurnberger Eier; seitlich zwei aus Pyramiden gebildete Henkelansitze. Schones Stick.XVIl.Jahrh.
+
+247 Russisches Medaillon, Buchsbaumholz,durchbrochen geschnitzt mit einem reichen Astgeflecht, in dem zahlreiche Brustbilder von Heiligen;die Umrahmung Silber mit aufgelegtem Ranken werk,ausgedrehtem Silberdraht gebildet; der Untergrund grin emaillirt; gefasst mit Steinen. Gutes Stick. XVIl. Jahrh.
+
+Diam.7 Cent.
+
+248 Reliquienkreuz,Birnbaumholz, die Balken en relief vorziiglich geschnitten mit der schmerzhaften Mutter,am Fusse des Kreuzes stehend; der Christuskorper vortrefflich modellirt;in der Hohe Gott Vater. XVIl. Jahrh.
+
+Vinkenbrink.
+
+Die iussere Form des Apfels ist in zwei Hailften getheilt, deren jede figurenreiche Darstellungen,die sieben Werke der Barmherzigkeit versinnbildend,zeigt.
+
+Bei der einen Halfte besteht der Vorgrund aus drei Treppenstufen, in einen langen gewolbten Gang fuihrend,an dessen Ende eine mit Gardinen versehene Bettstelle steht,vor dem Bette ein Stuhl, vor welchem eine Frau kniet. In dem Gange befinden sich drei Einginge, von denen einer in eine Kammer fuihrt,in welcher ein betender Mann hinter zwei zurickgeschobenen Gardinen. Hinter diesem Gemache sieht man verschiedene kleinere Gange und Zimmer, die durch freihingende kleine Kronieuchter erhellt. Als Stafage armliche alte Frau auf Kriicke,Bettler auf Stroh liegend,dem von einem vor ihm stehenden Manne ein Almosen gereicht wird; im Hintergrunde eine in Mantel ge-
+
+Lange 21 Cent.
+
+Hohe 18 Cent.
+
+<!-- image -->
+
+245
+huillte Person, durch ein vergittertes Fenster schauend. Eine grosse, reich geschnitzte Freitreppe fihrt nach den oberen Gemaichern,die von zierlichen Figirchen belebt.
+
+faches Gewolbe von 24 Pfeilern getragen. Rechts in der ersten Halle bewegt sich ein grosser Leichenzug,voran ein Vorbeter, ihm folgend die Leichentrager und Leidtragenden, diese wiederum begleitet von einer Menge Zuschauer.In der Mitteihalle befindet sich das aufgeworfene Grab,zu dessen Seite ein knieendes Kind,von einem bejahrten Manne geliebkost. Links unter einer Altane armlich gekleidete Personen, Speise,Trank und Kleidung empfangend. Die Saulen sind mit Wappenschildern,Fahnen etc.verziert,wahrend von der Decke kleine Kronleuchter herabhangen. Auf dem ersten Pfeiler rechts das Monogramm des Kuinstlers:A.V. Capitalstick von ganz hervorragend schoner Ausfihrung.
+
+Jansz Vinkenbrink.Vesinet 1887.4.
+
+<!-- image -->
+
+<!-- image -->
+
+300
+
+249
+
+<!-- image -->
+
+Das Stick wurde schon im Inventar beim Tode des Kinstlers besonders erwahnt. Grossere Beschreibungen iber dasselbe befinden sich im Nederlandsch Magazijn von 1835,p.83,und D.Franken, Albert
+
+Diam.5 Cent.
+
+<!-- image -->
+
+250 Betnuss in Buchsbaum, in zwei Theile zerlegt,welche beide mit Darstel lungen aus dem Leben des hl. Hieronymus geschnitzt sind. Auf der einen Halfte S. Hieronymus vor einem Betpuite;neben ihm der Lowe, dessen Fusse zwei Klosterbrider waschen;hinter freistehend geschnitzten Baumen erblickt man im Grunde eine zweite Scene aus dem Leben des Heiligen; die andere Halfte zeigt den von seinem Lowen begleiteten Cardinal,vor dem Crucifixe betend;in der Tiefung entsprechend eine andere Darstellung. Auf beiden Theilen zieht sich ringsum ein Schriftband mit lateinischen Spruichen. Beide Darstellungen sind im gothischen Charakter gehalten und mit grosster minutioser Feinheit theils in Hoch-
+
+<!-- image -->
+
+relief, theils frei und vollrund geschnitzt; die Aussenflachen doppelwandig;
+<!-- image -->
+
+<!-- image -->
+
+die iussere Wandung in Maasswerk und Fischblasen-Ornament durchbrochen geschnitzt;um die mittlere Weitung zieht sich cin Schriftband.
+
+Diam.5 Cent.
+
+Selten schones Stuick von bester Erhaltung. XV. Jahrh.
+
+251 Betnuss in Form einer zweitheiligen Kugel, deren Aussenflache in Fischblasen-Ornament durchbrochen geschnitzt. Auf der Innenfliche der einen Seite,in hohem Relief iusserst minutios geschnitzt,Delila,Simson seiner Starke beraubend;im Hintergrunde Heldenthaten Simsons. Die andere Hailfte zeigt Judith, das abgeschlagene Haupt des Holofernes in den von der Dienerin bereitgehaltenen Sack packend;im Hintergrunde Gastmahl. Sehr schones Kunstwerk; die Figuren sind fast vollrund mit freistehenden Partieen in lebendiger Bewegung meisterhaft herausgearbeitet.XV.Jahrh.
+
+<!-- image -->
+
+Diam.4Cent.
+
+Hl0\_252 Portrait-Medaillon in Buchsbaum,mitderProfilbuste Lazarus Spenglers, desReformatorsvon Nirnberg,nach rechts gewandt; das lange, bis auf die Schultern fallende Haar mit Klappmitze bedeckt;das Gewand lauft nach dem Rande zu in volutenformig aufgerollte Verzierungenaus.Seitlich Aufschrift:,Laza. Speng. A.S.1533."Auf der RuckseitedasMonogrammvon Johannes Teschler: J. T. 1533.Prachtstick,erwahnt und abgebildet in:
+
+Knackfuss,Deutsche Kunstgeschichte.Lpzg. 1888.Bd.II.S.78.Abb.493. Diam.12 Cent.
+
+<!-- image -->
+
+252
+
+253 Grosses Portrait-Medaillon in Buchsbaum. Av. Brustbild eines Patriziers und seiner Gemahlin in reicher Kleidung,in hohem Relief geschnitzt. Am Rande Umschrift:Herman. ab.Oher. Aet.s.30+ Margar. ab. Oher Aet. s. 24."Rev.Zweifach behelmtes Doppelwappen auf reicher Helmdecke und Jahreszahl 1605. Sehr schones Stick von trefflicher Ausfihrung. XVIl. Jahrh.
+
+Diam.5'/e Cent.
+<!-- image -->
+
+- 254 Grosses Portrait-Medaillon in Nussbaumholz. Brustbild eines Mannes in mittleren Jahren,nach links,mit Barett und pelzverbramtem,gemustertem Gewande.Ganz vorzigliche Arbeit;der trefflich modellirte Kopf ernst und charaktervoll im Ausdruck.Um den Rand zieht sich als Umrahmung ein Lorbeerkranz.XVI.Jahrh.
+
+<!-- image -->
+
+Diam.7lCent.
+
+- 255 Portrait-Medaillon in Buchsbaum,mit der Reliefbuste der Konigin Christine von Schweden in weit ausgeschnittener Kleidung, das Haar mit Diadem geschmickt. XVIl. Jahrh.
+
+<!-- image -->
+
+Hohe 6,Breite 5 Cent.
+
+- 256 Ovales Portrait-Medaillon in Buchsbaum mit dem hochreliefirten Brustbilde des Hans Petzoldt in Dreiviertel-Wendung nach links,mit grosser Halskrause.Umschrift:,Hans Petzoldt Aet.Suae.78. 1623."Vorziglich schone Arbeit.
+
+<!-- image -->
+
+Hohe 5,Breite 4 Cent.
+
+- 257 Portrait-Medaillon der Ursula Sebasti Ligsalz,in Flachrelief geschnitzt; seitlich Jahreszahl1527.
+
+<!-- image -->
+
+Diam.12 Cent.
+
+- 258 Rundes Portrait-Medaillon in Buchsbaum,Brustbild Franz'Il.von Frankreich in jungeren Jahren,nach links,mit Barett und pelzverbramtem Gewande.
+
+Diam.7 Cent.
+
+- 259 Portrait-Medaillon Ludwigs Vll. von Frankreich. Gegenstuick. Ebenso. Gleiche Grosse.
+- 260 Portrait-Medaillon in Buchsbaum mit der Proflbiste Steudels,nach links gewandt, in pelzverbramtem Gewande;um den Rand die erhaben auf liegende Umschrift:,Joannes Steudel Divi ·Maximil · Caes·Aug Ab·Instrument·Musicis·Et·S·LI."Schones Sttick.
+
+<!-- image -->
+
+<!-- image -->
+
+Diam.6 Cent.
+
+- 261 Portrait-Medaillon,Nussbaumholz,mit dem reliefirten, nach rechts gewandten Brustbilde eines Mannes in mittleren Jahren mit Barett und grossem Barte.
+
+Diam.7 Cent.
+
+- 262 Portrait-Medaillon der Gemahlin des Vorigen. Gegenstuick. Ebenso. Gleiche Grosse.
+- 263 Oval-Medaillon, Buchsbaumholz,mit dem Profilbrustbilde Papst Benedicts XIV.
+
+<!-- image -->
+
+<!-- image -->
+
+360
+
+Hohe 6,Breite 5 Cent.
+
+- 264 Dambrettstein in Buchenholz,in Flachrelief geschnitten mit dem Profilbrustbilde Schiesers,in Klappmitze und reicher Gewandung. Um den Rand:Conrat. Schieser 1526.Schones Stick. Diam.6 Cent.
+
+1436.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+- 265 Drei Dambrettsteine, vorziglich in Flachrelief geschnitzt,mit Profilbrustbildern von Patriziern in reicher Tracht.Vortreffliche Arbeit von lebensvoller Auffassung und vollendeter Durchfuihrung. XVll. Jahrh. Diam.5Cent.
+- 106 266 Viereckiges Futteral, Buchsbaumholz,in Form eines Buches; Ricken und Decken durchbrochen geschnitzt,mit geometrisch angeordnetem gothisirenden Ornamentwerk.Gutes Stick.XVI. Jahrh.
+
+Hohe 4,Lange 14,Breite9 Cent.
+
+- 267 Grosse Muskatreibe, Buchsbaumholz, reich geschnitzt mit uppig verschlungenem Rankenwerk.XVIl. Jahrh.
+
+300
+
+<!-- image -->
+
+- 931
+
+Lange 2o Cent.
+
+- 268 Grosse Zundpulverflasche, Birnbaumholz, rund geformt und nach der Mitte zu kreisrund ablaufend. Die Vorderflache in sehr hohem Relief, theils vollrund geschnitzt, mit vier einen Hirsch und einen Eber anfallenden Hunden; oben silbervergoldeter Hals mit Sperre. Sehr schones Stuick von vorzuiglicher Schnitzarbeit. XVIl. Jahrh.
+
+Diam.12 Cent.
+
+- silbermontirt. Die Scheide mit je vier durch Kordelflechtbordiren getrennten Friesen,in denen sich in zahlreichen, nach unten verjuingenden Feldern minutios geschnitzte biblische Darstellungen befinden. Auf dem unteren Ende die Initialen:,W. G. W.1593."Die Schnur-Oese in Form eines fast vollrund vortretenden Engelskopfes. Sehr schones Stick.
+- Lange24 Cent.
+- 270 Grosser Loffel, Buchsbaumholz,reich geschnitzt, die Muschel mit Relief darstellungen: auf der inneren Fliche Christi Verklarung, auf der iusseren die Grablegung; der Stiel in theils vollrunden Figuren mit Crucifix-Darstellung, dem leidenden Heiland, Figur des Todes etc.； als Bekronung der knieende Heiland; zwischen den Darstellungen Schriftbander. Interessantes Stuick. XVI. Jahrh.
+
+Lange 1g Cent.
+
+- auf drei vollrund geschnitzten Lowenfiguren ruhend. Um die Korperweitung in hohem Relief figurenreiche Darstellungen aus der Geschichte der Esther; der Henkel geschnitzt mit Palmetten und in Maskenkopfe auslaufend; der Deckel zeigt die Verkiindigung Maria,von Schriftband umrahmt. Interessantes Stuck. XVIl. Jahrh. Hollandisch.
+
+Hohe 23 Cent.
+
+<!-- image -->
+<!-- image -->
+
+## Mobel und Einrichtungsgegenstande.
+
+<!-- image -->
+
+theil, Ebenholz fournirt und aufs reichste geschnitzt in Buchsbaumholz. Auf flachem,nach vorne zu gerundetem,mit Palmetten geschnittenem Sockel erheben sich vier schwere pyramidenformige Fusse als Triger des weit vortretenden Obertheiles,das durch drei Schiebladen und drei Thiiren verschlossen. Das gerundete Mittelfeld,von reichem architektonischem Aufbau,von zwei cannelirtenRundsiulen flankirt undmit sieben nischenformigen Vertiefungen,in deren jeder eine in Buchsbaumholz vollrund geschnittene Figur,die vier Jahreszeiten,Allegorie auf Kricg und Frieden darstellend.Die Thire mit eingelassenem,oberhalb gerundetem Relief in Buchsbaumholz, geschnitzt mit vielen vollrunden Partieen, die Himmelsstuirmer darstellend. Die beiden Seitenthiiren mit je zwei ibereinander liegenden nischenformigen Vertiefungen,in denen vollrund geschnitzte Buchsbaumfiguren, die vier Elemente darstellend; als oberer Abschluss des Ganzen: Galerieverzierung mit aufgesetzten freistehenden Vischen.Effectvolles Mobel von grossem Reichthum undvorziglichster Ausfihrung.
+
+<!-- image -->
+
+<!-- image -->
+
+Hohe 253,Brcite 230,Tiefe 72 Cent.
+
+- 273 Grosser hollandischer Aufsatzschrank, Eichenholz,auf vier Kugelfuissen ruhend.Der hohe,durch Schieblade verschlossene Sockel geschnitzt mitRingeim Maulehaltendem Lowenkopfund Blumenvasen in figuralem Rankenwerk. Das Untertheil, durch zwei grosse Thiren verschlossen, in je zwei von Proflleisten umrahmte Felder eingetheilt,in hohem Relief geschnitzt mit biblischen Darstellungen.Die Schlagleiste in Form ciner cannelirten Saiuie,die Seitenleisten mit fast vollrundvortretenden, aus Palmetten erwachsenden Amorettcn. Die beiden Thuren des Obertheiles geschnitzt mit den Emausjingern und der Himmelfahrt Christi; die weit vortretende Kappe umzieht cin brciter,von Maskenkopfchen durchsetzter Fries mit reizvoll gemustertem,figuralem Laubwerk.Gutes Mobel. XVIl. Jahrh.
+
+Hohe 220,Lange 15o,Tiefe 70 Cent.
+
+- 274 Grosser Tisch, Nussbaumholz,auf breitem,Iformigem Fusse, reich ge-
+
+Hohe 82,Lange 120,Breite 76 Cent.
+
+- schnitzt mit Palmetten und vollrunden Lowenfiguren; sieben Stollen in Form cannelirter, aus Palmetten erwachsender Rundsiulen tragen den breiten, durch grosse Schieblade verschlossenen Schragen, der geschnitzt mit Lowenkopfchen und von Epheuranken umrahmten Urnen. Schones Mobel.Nach 1600.
+
+<!-- image -->
+<!-- image -->
+<!-- image -->
+
+275 Cabinet in schwarz gebeiztem Holze mit Applicationen und Belag in getriebenem Silber und Schildpatt.Die Frontseite zeigt im Mittelfelde eine nischenformige Vertiefung in reicher architektonischer Anlage mit. Thorbogen,in dem vollrund in Silber ciselirte mythologische Figuren; die Bruistungen, die fankirten Saulen und Pilaster theils mit Schildpattbelag,theils mit gravirten Silberplatten bekleidet. Um das Mittelfeld gruppirt neun grossere und kleinere Schiebladen,deren ausgebauchte
+
+<!-- image -->
+
+274
+
+Friese mit Schildpattbelag und durchbrochen ornamentirten und getriebenen Silberplatten verziert, die mythologische Darstellungen in reizvollen Compositionen zeigen.Als oberer Abschluss Galerie-Verzierung mit in Silber getriebenen Saulchen und Blumenvasen. Die Seitenwandungen mit Elfenbeineinlage in geometrischer Anlage und mit getriebenen Silberapplicationen verziert. Sehr schones, iusserst reich aufgebautes und prichtig wirkendes Mobel. Augsburger Arbeit des XVIl.Jahrh. Hohe 6o,Lange 6o,Breite 28 Cent.
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+276 Kleines Cabinet mit vorderem und oberem Klappdeckel,mit grinem Sammtbezug,die Kanten mit kupferciselirten Leisten beschlagen,die Zwickel durchbrochen ornamentirt,die Innenfliche ganz mit gravirten und vergoldeten Kupferplatten belegt,Darstellungen aus dem Leben Samsons zeigend. Die Einrichtung mit acht kleineren Schiebladen um ein mittleres Gelass,die Friese ciselirt mit figuralem Rankenwerk in Behams Geschmack.Treffliche Augsburger Arbeit.Ende XVI. Jahrh. Hohe21,Lange 21,Breite 15 Cent.
+
+<!-- image -->
+
+275
+
+277 Vierseitiger Kunstschrein mit Klappdeckel auf ausladendem Fusse, Eschenholz, allseitig belegt mit einem zierlich ausgesigten gothisirenden Maasswerk in Nussbaumholz. Das Schloss silberciselirt mit Lilienverzierungen. XVIll. Jahrh.
+
+278 Gothisches Minnekastchen mit Klappdeckel, Kirschbaumholz,in hohem
+
+Hohe 17,Lange 32,Breite 19 Cent.
+
+Relief vorziglich geschnitzt. Die Seitenwandungen zeigen in grosseren und kleineren Feldern Darstellungen aus dem Leben eines Ritters,als:
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+Turnier; Ritter, eine Dame entfihrend,etc. Der Deckel mit der Anbetung der heiligen drei Konige unter gothischer,reich mit Krabben verzierter Bogenstellung.Hochinteressantes Stuick von vorziglicher Ausfihrung und bester Erhaltung.
+
+Hohe 8,Lange 23,Breite 1o Cent.
+
+cationen in Goldbronze. Auf flachem ausgeschweiften,auf vier Fissen ruhendem Sockel.erhebt sich der schlanke,kuppelformig auslaufende Aufbau,von vier vollrund in Goldbronze ciselirten,am Boden liegenden Pferden getragen. An den vier Ecken hermenartig behandelte charakteristische weibliche Bisten auf reich ornamentirten Sockeln. Das Zifferblatt zeigt reizvolle Arabesken; unter demselben zwei hochreliefirte weibliche allegorische Figuren auf die Kunst, in der Rechten ein Kartuschenschild mit der Signatur:Balthazar a Paris"haltend.Als Bekronung des Ganzen auf der.von Palmetten fankirten, von einer Ornamentgalerie mit freistehenden Vaschen eingefassten Kuppel die auf Wolken dahineilende Fama,in die Posaune blasend. Effectvolles Prachtstick.
+
+Hohe 1oo,Breite 5o Cent.
+
+- kirchlichen und profanen Gebauden Europas etc.,in kuinstlerischster Vollendung gestochen von der Stempelschneider-Familie Wiener. Alle Medaillen von tadelloser Erhaltung und mit Stenpelglanz. 63 Stick. Die Sammlung besteht aus:1.einer Suite von 41 Stick,Diam.59 mm, in besonderem Mahagoni-Schrankchen; 2. einer Suite von 2o Stick, Diam. 5r mm, in Original-Kasten； 3.zwei verschiedenen Medaillen auf das Regierungs-Jubilaum Leopolds I,1855,Diam.75 mm.
+
+<!-- image -->

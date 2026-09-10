@@ -1,0 +1,1555 @@
+- schaft.
+
+## Otto Ackermann-Paseg
+
+Munchen.
+
+- 1 Die Alpspite und Zugspite von einer Almweide aus gesehen. Pastell auf P. 70X54 cm. Bez.: Otto Ackermann=Paseg Oberammergau. H. R.
+
+## Franz Alt
+
+geb.1821 in Wien, gest.1914 daselbst.
+
+- 2 Ein Teil der Arena in Florenz, umgeben von Hausern der Gegenwart; bewegtes Strabenleben. Oel auf H. 18,5X14,5 cm. Bez.: Franz Alt 1866. G.R.
+
+## A.Baar
+
+Wien.
+
+- 3 Chiemsee mit Fraueninsel links und Herreninsel rechts; im Vordergrund ein Boot mit Fischer und Frau, im Hintergrunde die Kampenwand.
+
+Oel auf L. 32X44 cm. Bez.:A.Baar 71.G.R.
+
+- Hochgebirgslandschaft mit Bauernhaus und Heuhutten, an einem Wildbach gelegen, im Hintergrunde steil ansteigende Felsen.
+
+Oel auf L.52X43 cm.Bez.:A.Baar.G.R.
+
+## Hermann Baisch
+
+geb.1846 in Dresden, gest.1894 in Karlsruhe.
+
+- 5 Schiffsbauplat in Holland mit einem in Reparatur liegenden Boote;im Hinter=
+- grunde hollandische Stadt.
+
+Oel auf L. und P. 33X37 cm. Bestatigt von A.AIt. H. R.
+
+## A.von Bayer
+
+geb.1803 in Rorschach, gest.1875 in Karlsruhe.
+
+- 6 In Betrachtung. Dominikaner in einer Loggia sitend, blickt sinnend auf die Land Oel auf H. 18X16 cm. Bez.: A. B. H.R.
+
+## Frit Bergen
+
+Munchen.
+
+- 7 Eine Postkutsche fahrt dem Tore eines Stadtchens zu; aufeiner Wiese Hirtin mit Gansen. Oel auf P. 27X41 cm. Bez.: Frit Bergen Mch. G.R.
+- 7a Unterhaltung. Ein Bauer mit einer Kuh spricht mit einem vor dem Hause sitenden Bauern und seiner Frau. Oel auf P. 27X41 cm. Bez.: Frit Bergen. G.R.
+
+## Hans Best
+
+Munchen.
+
+- 8 Selbstportat. Brustbild. Bleistift auf P. 37X28 cm. Bez.:H.Best 01. G.L.
+- 9
+
+## Carl von Blaas
+
+geb.1815 in Nauders (Tirol), gest.1894 in Wien.
+
+- Neapolitanerin in ihrer Nationaltracht. Brustbild. Oel auf L. 40X32 cm. Bez.:C.von Blaas 1881. H.R.
+
+## Anton Braith
+
+geb.1836 in Biberach, gest.1905 dase1bst.
+
+- 10 An der Tranke. Eine Kuh, ein Kalb und zwei Jungrinder im seichten Wasser ihren Durst 1oschend,im Hintergrund unter einer alten Weide zwei Kuhe,links davon der Kirchturm des Dorfes sichtbar; heiber Sommertag.
+- Abb. Taf. 4.Oel auf L. 47X75 cm. Bez.:Anton Braith Munchen 1884. G.R.
+- 11 Drei Blatt in einem Passepartout. Ruhendes Mutterschaf -Kopf — und weidendes
+- Lamm —— ganze Figur —— im Hintergrunde drei weitere grasende Schafe. Vor dem Stalle. Zwei Schafe —— Kopfe —vor der Stalltuire. Auf der Alm. Zwei Kalber wiederkauend auf einer Almwiese ruhend. Aquarell und Farbstift. Je 11X9 cm. Bez.: A.Braith 1902, 1901,1903.( G.L.
+- 12 Funf Blatt in einem Passepartout. Zwei Kopfe von Kalbern, drei weidende Schafe, zwei Blatt: Kuhe im Wasser.
+- Bleis und Kohle. 9,5X6,5 bis 10,5X9 cm. Bez.: A.Braith und Jahreszahl 1893-1899.G.L.
+- 12a Drei Ziegen auf einem Felsplateau.
+- Blei und Kohlestift auf P. 5,5X12 cm. Bez.: A. Braith 1900. G. L.
+
+## Albert Brendel
+
+geb. 1827 in Berlin, gest. 1895 in Weimar.
+
+- 13 Schafe auf der Weide. Im Vordergrunde zwei Schafe an einem Wasser; herbst# liche Baume, blauer Himmel. Oel auf H. 18X12,5 cm. Bez.: Brendel. G.R.
+
+## Heinrich Burkel
+
+geb.1802 in Pirmasens, gest.1869 in Munchen.
+
+- 14 Almabtrieb. Auf einer Bergstrabe zieht ein Tiroler Senner mit seiner geschmuckten Herde talabwarts, vor einer an einer Felswand angebrachten Votivtafel zieht er den Hut, auf der einen Seite des Weges kraftiger Tannenwald; im Hintergrunde das schneebedeckte Hochgebirge.
+
+Abb.Taf.10. Oel auf H. 18,5X26 cm.Bez.:H.Burke1. G.R.
+
+- 15 Strecke nach der Jagd vor einem Jagdhaus. Bleistift auf P. 21X34 cm.
+- 15a Italienisches Eselgespann und figurale Staffagen. Bleistiftzeichnung auf P. 18X22 cm.
+- 15b Erntewagen und rastende Gruppe. Bleistiftzeichnung auf P. 21X34 cm.
+- 15c Italienischer Polizeitransport auf Zweiraderwagen vor einem Kastell. Die Zeichnung ist mit zwei Streifen Papier vergrobert. Bleistiftzeichnung auf P. 26X36 cm.
+- 16
+- Vor der Osteria berittene und andere Campagnabewohner, auf der Pergola weitere Gaste. Bleistiftzeichnung auf P. 21X27,5 cm.
+- 16a Italienische Strabenszene. Frau mit Kindern ihr totes Pferd beweinend; ein Muli steht abseits. Bleistiftzeichnung auf P.15X19 cm.
+16b Robkauf. Vor einer Scheune findet ein Pferdehandel statt.
+
+Bleistiftzeichnung auf P. 21X31 cm.
+
+- 16c Aus Rubland. Troika am Schlagbaum. Bleistiftzeichnung auf P. 21X29 cm.
+- 17
+- Schwere Fahrt. Ein von italienischen Bauern volibesetter Wagen wird von den Pferden mit Muhe gezogen. Bleistiftzeichnung auf P. 20X26 cm.
+- 17a Marmortransport in der Campagna. Ein mit vier Ochsen bespannter Wagen zieht einen Wagen mit einem Marmorblock uber eine Bruicke. Figurenstaffage.
+
+Samtliche Blatter tragen den Nachlab-Stempel.
+
+Bleistiftzeichnung auf P. 21X29 cm.
+
+## Burger-Muhlfeld
+
+- 18 Im Sonntagsstaat. Ein Madchen mit kurzem rosa Kleidchen auf einem Divan sitend. Oel auf P. 70X61 cm. Bez.: Burger Munchen.
+
+## Wilhelm Busch
+
+geb.1832 in Wiedensah1 (Hannover), gest.1908 in Mechthausen.
+
+- 19 Der Bettelsanger. Der Kunstler als singender Bettler, die rechte, nach Almosen
+- ausgestreckte Hand halt eine Munze.
+
+Abb.Taf.9.
+
+Oel auf L.36X20 cm.Bez.:W.B. G.R.
+
+## Jean Baptist Camille Corot
+
+geb.1796 in Paris, gest.1875 daselbst.
+
+- 20 Hugellandschaft; im Anschlub daran Ebene,im Hintergrunde Gebirge. Aus der
+- Vente Corots stammend.
+
+Oel auf P. 12X43 cm. Bez.: C. Corot (Ort nicht gut leserlich) 1836. Ruckwarts Abb.Taf.6. Siegel der Vente Corot. G.R.
+
+## Alexander Johann Dallinger
+
+geb.1783 in Wien,gest.1844 daselbst.
+
+- 21 Auf der Weide. Im Vordergrunde zwei ruhende und zwei stehende Kuhe,in der Mitte des Bildes Hirte mit Schafen im Gesprach mit einer Frau und einem Buben, im Hintergrunde Ortschaft mit Kirche.
+
+Oel auf L. 51X61 cm. Bez.: A. J. Dallinger 1836. H. R.
+
+## Josef Danhauser
+
+geb.1805 in Wien, gest.1845 daselbst.
+
+- 22 Die Briefleserin. In einem Stuhle sitend, halt in der linken Hand einen Brief und blickt, den Kopf auf die rechte Hand gestutt, in Gedanken vor sich hin. Kniestuck. Aquarell auf P. 19,5X17 cm. Bez.:J. D. Geschnitter R.
+
+## Franz von Defregger
+
+geb.1835 in Dolsach,gest.1921 in Munchen.
+
+- 23 Junges Tiroler Bauernmadchen mit bruinettem Haar, weibem Hemd und dunklem
+- Mieder, etwas nach rechts gewendet, auf den Beschauer sehend. Brustbild.
+
+Abb.Taf.5. Oel auf H. 21X16 cm. Bez.: Defregger. H.R.
+
+## M.Zeno Diemer
+
+Munchen.
+
+- 24 Bewegte See. Segelschiff im Gischt der Wogen.
+
+Oel auf L. 100X142 cm. Bez.: M. Zeno Diemer. H.R.
+## Wilhelm von Diez
+
+geb.1839 in Bayreuth, gest.1907 in Munchen.
+
+- 5Vor dem Wirtshaus. Eine Anzahi Bauern siten vor einem landlichen Wirtshaus, vor sich die Mabkrige,in Unterhaltung begriffen; ein Bauer auf einem mit einem Schimmel bespannten Wagelchen in Unterhaltung mit der Kellnerin. Ehedem
+- 25 Sammlung Kommerzienrat A. Sturm.
+
+Abb.Taf.10.
+
+Oel auf H. 18X24 cm. Bez.:Wilh.v.Diez 1905. G.R.
+
+- 26 Der Vorposten in Brustharnisch und Schlitarmeln, gelben und gelbschwarzen Bein= kleidern, die linke Hand am Schwertknauf, die rechte auf die Hellebarde gestutt,
+- in Landschaft; im Hintergrunde an einem Flusse altes Stadtchen.
+
+Abb.Taf. 9.
+
+- Oel auf H. 24X16 cm. Bez.: Wilhelm Diez 1898. G.L.
+- 27 Bildnis seines Sohnes Stephan, einem blauaugigen frischen Jungen, mit blondem langen Haar,braunem Gewande und Lederschurze, die Hande eine Peitsche haltend auf dem Rucken gekreuzt, in Landschaft stehend.
+
+Oel auf L.65X43 cm. Bez.:Wilh.Diez. G.R.
+
+## Ludwig Dill
+
+Karlsruhe.
+
+- 28 Italienische Fischerboote. Zwei im Hafen verankerte Fischerboote mit aufgezogenen
+- Segeln bereiten sich zur Ausfahrt vor; bewolkter Himmel.
+
+Oel auf P.72X92 cm.Bez.:L. Dill. G.R.
+
+## Carl von Dombrowski
+
+Munchen.
+
+- 29 Balzender Auerhahn im Wienerwald. Der Urhahn labt von einer auf einem Hang stehenden Buche sein Liebeslied erschallen;vereinzelnte Schneeflecke bedecken den Waldboden. Blick auf das teilweise verschneite Gebirge; die Landschaft in das fahle Licht des Morgens getaucht.
+
+Oel auf L. 20oX135 cm.Bez.: Carl von Dombrowski. G. L.
+
+## Joh.Gg.Edlinger
+
+zugeschrieben.
+
+- 30 Studienkopf eines Patriarchen mit Stirnglate, gekrauseltem weiben Haar, kraftigem Schnurr und Vollbart, faitenreichem Gesicht, mit gesenktem Kopf auf den Beschauer blickend. Oel auf L. 62X45 cm.G.R.
+
+## Luitpold Faustner
+
+geb.1845 in Munchen, gest.1926 daselbst.
+
+30a Fruhling am See. Studie. Oel auf L. 22X29 cm. Bez.: Luitp. Faustner. H.R.
+
+30b Waldinneres. Studie. Oel auf P. 27X35 cm. Bez.: Luitp.Faustner. H.R.
+
+30c Bittgang im Walde. Studie. Oel auf P. 25X24 cm. Bez.: Luitp. Faustner. H. R.
+
+31 Waldblobe im Sonnenschein. Studie.
+
+Oelauf L.24X32cm. Bez.: Luitp.Faustner. H.R.
+
+31a Waldweiher. Studie. Oel auf L. 11X19 cm. Bez.:Luitp.Faustner. H.R.
+## Otto Fedder
+
+- 32 Halt vor dem Wirtshaus. Vierspanniges Botenfuhrwerk,der Fuhrmann spricht mit Wirt und Kellnerin; eine Frau treibt ein Kalb in die Stadt.
+
+Munchen.
+
+Oel auf P.11X13,5 cm. Bez.:O.Fedder 1913. H.R.
+
+## Albert J.Franke
+
+- 33 Der Toast. In einem reichausgestatteten, von Kristallustern beleuchteten Gemache, sieben Herren des Rokoko beim Wein; einer derselben bringt einen Toast aus. Oel auf H. 38X28 cm.Bez.: A. J. Franke. H.R.
+
+geb.1860 in Buchwit bei Breslau, gest.1924 in Munchen.
+
+## E.A.Franke
+
+- 34 Die Sammler. In einem vornehm ausgestatteten Raume mit Gobelin, Saulen, Spiegel und Bucherschrank sind acht Herren der Empirezeit mit der Durchsicht von Zeichnungen und Schriftstucken beschaftigt.
+
+Munchen.
+
+Oel auf H. 33X43 cm. Bez.:E.A.Franke.H.R.
+
+## Franzosische Schule
+
+um 1800.
+
+- 35 Landschaft mit Ruinen und zwei Figuren. Oel auf L. 16X38 cm. G.R.
+
+## A.Friedlander
+
+Wien.
+
+- 36 Ueberfall. Zwei Reiter des Dreibigiahrigen Krieges werden von einem Hellebardier angefallen. Oel auf H. 15X20 cm. Bez.:A.Friedlander. H.R.
+
+36a Die Requisition. Ein Bauer wehrt sich gegen die Wegnahme seines Fuders Heu. Oel auf H. 15X20 cm. Bez.:A.Friedlander. H.R.
+
+## Max Gaisser
+
+geb.1857 in Augsburg, gest.1922 in Munchen.
+
+- 37 Hollandischer Patrizier in deutschem Kostum, mit Spithut und weibem Umschlag= kragen, in der rechten Hand ein Schriftstuick, in der linken die Tonpfeife, sitt an einem mit Steinkrug, weingefilltem Pabglas,Hummer und Fleisch bestelltem Tische und blickt gedankenvoll vor sich hin.
+
+Oel auf H.18X24 cm. Bez.: M.Gaisser. G.R.
+
+- 38 Eine lustige Gesellschaft. In einem hohen hollandischen Gemache siten drei Hol= lander, wahrend einer steht, und horen einer lustigen Geschichte zu.
+
+Abb.Taf.9. Oel auf H. 30X23 cm. Bez.:M.Gaisser. G.R.
+
+## Friedrich Gauermann
+
+geb.1807 in Miesenbach (Oesterreich), gest.1862 in Wien.
+
+- 39 Getreideernte mit arbeitenden und ruhenden Landleuten. Oel auf L. 56X58 cm. Bez.:F.Gauermann 1854.G.R.
+- Gemsen.
+- Oel auf L. 56X58 cm. Bez.: F.Gauermann 1854. G.R.
+- 39b Nach der Barenjagd. Auf einem Schlitten wird der von Jagern und Hunden
+- begleitete Bar heimgebracht.
+
+Oel auf L. 56X58 cm. Bez.: F.Gauermann 1854.G. R.
+
+- 39c Aufzug zur Alm. Sennerin, Knecht und Mann zu Pferd treiben die Herde auf
+- Oel auf L. 56X58 cm. Bez.:F. Gauermann. G.R. die Alm.
+
+## Otto Gebler
+
+geb. 1838 in Dresden, gest. 1917 in Munchen.
+
+- 40 Mittagspause auf dem Felde. Einem bei einem Gebusche ruhenden Bauern reicht die Frau das Mittagsmahi, an einem Pflug ein Pferd und ein Ochse; an einem
+- Hang eine kleine Schafherde, in der Luft einige Raben.
+
+Oel auf H. 11X27 cm. Bez.:O. Gebler. H. R.
+
+- 41 Hellbraune Kuh mit dunkleren Flecken, dem Beschauer zugewandt, auf Wiesengrund. Oel auf L. 56X59 cm. Bez.: O.Gebler. G.R.
+
+## August Gerasch
+
+Wien.
+
+- Funf Schafe und ein Lamm im Stall, die Magd mit rotem Kopftuch hantiert im Oel auf H. 19X23,5 cm.Bez.: A.G.G.R.
+
+## Henri Gogarten
+
+geb. 1850 in Linz a.Rh., gest. 1911 in Munchen.
+
+- 43 Wald im Winter mit zugefrorenem Bach und einem Steg mit Reisigsammlerin.
+- Oel auf L. Bez.: Henri Gogarten 1892. H.R.
+
+## Guilliment.
+
+- 44 Huhnerhof mit Huhnern, Enten und Ziehbrunnen. Oel auf L. 52X50 cm.Bez.: Guilliment. H. L.
+- 44a Gegenstuck.Huhnerhof mit Pfau, Huhnern und Enten. Oel auf L. 52X50 cm. Bez.: Guilliment. H.L.
+
+## Heinrich Louis Theodor Gurlitt
+
+geb.1812 in Altona, gest.1897 in Naundorf bei Schmiedeberg.
+
+- 45 Ansicht von Theben. In auberster Ferne der Parnab, links der Helicon, rechts das Sphinxgebirge etc. (laut ruckwartiger handschriftlicher Notiz des Kunstlers); Blick uber fruchtbare Felder; im Vordergrunde griechischer Bauer und seine auf einem Esel reitende Frau, einem von Baumgruppen eingefabtem Flub zuschreitend, links Steinbrucke mit zwei Passanten; suidlicher, teilweise bewolkter Himmel. Er= Oel auf L. 80X125 cm. Bez.:Gurlitt. G.R.
+
+Abb.Tafel 6.
+
+- wahnt bei Muller=Singer.
+- 45a Der Waldbach zwischen Geroll seinen Weg bahnend. Naturstudie. Oel auf P. 42X58 cm. Bez.: Gurlitt. G. L.
+- Sommerlandschaft; benannt: Untere Dobe Waterneversdorf 21 ten Sept. 63. Im Vordergrunde Felder mit Baumgruppen, dahinter weitere Felder, zwischen Baumen
+
+Bleistiftzeichnung auf Papier und Pappe aufgez. 47X72 cm. Bez.: L. Gurlitt und die obengenannte Bezeichnung. H. L.
+
+- 46 Gutshauser, links Windmuhle.
+- 42 Nebenraum.
+## Hugo von Habermann
+
+Munchen.
+
+- 47 Sitende Dame mit blondem Haar, groBem blauen Hut und ebensolchem Kleide, den linken Arm iber die Lehne des Stuhles hangend; im Profi nach rechts sehend.
+- Ehedem in der Galerie Henneberg, Zurich.
+
+Oel auf L. 74X58 cm. Bez.:Habermann 1910.G.R.
+
+- 48 Bildnis einer dunkelhaarigen Frau mit entbloBtem Oberkorper. Oel auf P. 28X26 cm.Bez.:Habermann. G. L.
+
+## Horst Hacker
+
+geb.1842 in Plaubig,gest.1906 in Munchen.
+
+- 49 Mentone an der Riviera mit Blick auf die an der Spite der Bucht gelegene Stadt. Reiche Vegetation. Oel auf L.59X86 cm. Bez.:Horst Hacker 1900. G.R.
+
+## F.Halberg-Kraus
+
+- 50 Abendstimmung. Drei Kune an einem Flubufer; wolkiger im Westen aufgehelter Himmel. Oel auf P. 51X71 cm. Bez.:F.Halberg=Kraus,Munchen. H.R.
+
+Munchen.
+
+## Ernst Hanfstangl
+
+lebte in Munchen.
+
+- 51 Villegatur auf Anacapri mit Blick auf das Meer. Oel auf L. 49X78 cm. Bez.: Ernst Hanfstang!, Anacapri 94. G. L.
+- 51a Strabenmotiv auf Anacapri mit Frauenstaffage.
+
+Oel auf L. 63X107 cm.Bez.: Ernst Hanfstangl, Anacapri 94.G.R.
+
+## Edmund Harburger
+
+geb.1846 in Eichstatt, gest.1906 in Munchen,
+
+- 52 In der Bierschenke. Auf dem Gantertisch steht der Banzen zur Neige, der von ruckwarts gesehene Wirt unterhalt sich durchs Schankfenster mit einem Bauern. Nicht ganz vollendet. Oel auf H. 71,5X38,5 cm. Bez.:E.Harburger. H.R.
+
+## M.Hartwig
+
+Munchen.
+
+- 53 Partie vom Starnbergersee. Im Vordergrunde kleine weidende Schafherde,am
+- Ufer zwischen Baumen eine Kirche und einige Hauser; Blick auf den See und das gegenuberliegende Ufer. Oel auf L. 70X100 cm. Bez.: M.Hartwig. H.R.
+- 53a Landschaft mit Fernblick. Bez.: M. Hartwig.
+- 53b Gegenstuck. Landschaft mit Flub. Oel auf P. Je 13,5X16 cm. Bez.: H. Hartwig. H. R.
+
+## C.Heinisch
+
+lebte in Munchen.
+
+- Bauer und zwei Frauen beim Aufladen des gemahten
+
+Oel auf P. 38X46 cm. Bez.:C.Heinisch. H.R.
+
+- 54 Vor einem alten Stadtchen. Grases.
+- 62
+- Geschnitter Holzsockel.
+
+## E.Hellrath
+
+geb. 1838 in Rees bei Dusseldorf, gest. 1923 in Munchen.
+
+- 55 Auf der Weide. Am Ufer der Amper bei Emmering lagert und steht eine Herde Rinder, am Rande des Wassers sitt der Hirtenjunge. Blick auf das bewaldete gegenuberliegende Ufer. Oel auf L. Bez.:Emmering 76.E.Hellrath. H. L.
+- 56 Aus Altenmarkt bei Traunstein.Vor einem Bauernhaus zwei Landleute bei der
+- Gartenarbeit. Oel auf L. 36X60 cm.Nachlab-Stempel. H. R.
+
+## Theodor Hummel
+
+Munchen.
+
+- 57 Gartenblumenstraub in gelblicher Tonvase, sehr farbenfreudig.
+
+Oel auf L. 55X61 cm. Bez.:T.Hummel 25.
+
+## R.H.
+
+- 58 Mondnacht an einem Flu6. In einem Kahn zwei Fischer, am Ufer ein SchloB.
+- Oel auf L.42X35 cm.Bez.:R.H.1842.G.R.
+
+## Carl Irmer
+
+- 59 Dunenlandschaft mit Fischerhausern. Windmihle und Frau mit Karren und Kind.
+
+geb 1834 in Babit (Brandenburg), gest. 1900 in Dusseldorf.
+
+- Oel auf L. 40X60 cm. Bez.:C.Irmer. G.R.
+- 59a Motiv aus dem Odenwald. Zwischen Baumen in einer Schlucht Hauser mit Ziegeldachern; auf einer Anhohe eine Kirche, im Mittelgrund ein Bergbach.
+
+Oel auf L. 40X6O cm. Bez. Nachlab=Stempel: C. Irmer, Nachlab. G. R.
+
+## Angelo Jank
+
+Munchen.
+
+- 60 Ein flotter Sprung. Eine Dame in schwarzem Reitkleid, weibem Jakett und dunklem Hut, nimmt auf einem Schimmel eine Hurde.
+
+Oel auf L. 70X89 cm.Bez.: A. Jank.G.R.
+
+## Japanische Plastik.
+
+- 61 Japaner im Kampfe mit einer Schlange. Er halt mit der linken Hand den Kopf der Schlange, die sich um seinen Korper windet, von seinem Korper ab, mit der rechten Hand holt er zum Schlage auf den Schlangenkopf mit einem Buschmesser aus.Masse hemalt und mit echten Haaren versehen.Hohe 59, Breite 40, Tiefe 15 cm.
+
+## G.F.Ihle
+
+- 2 Bildnis eines sitenden Kindes im Nachtgewande der Biedermeierzeit; in den
+
+lebte in Wurttemberg.
+
+- Handen halt das Kind Blumen. Oel auf L. 87X72 cm. Das Bild tragt ruckwarts von des Kuinstlers Hand die Bez.:Christian Ludwig Gottlieb Neubert nat. d. 12. Appril 1769 pinx den 16. Januar 1770 G. F.Ihle.G. L.
+- 65
+- 67
+- 69
+
+## Hermann Kaulbach
+
+geb.1846 in Munchen, gest.1909 dase1bst.
+
+- 63 Klosterfrieden. In Kissen, in einen Lehnstuhi gebettet, ruht eine genesende Nonne; ihre Huterin,ein kleines Madchen, sieht die Ruhende teilnehmend an.
+
+Oel auf L.142X103 cm.H.R.
+
+- 64 Inneres einer Tiroler Bauernkuiche mit dem offenen Feuerherd. Oel auf P. 60X38 cm. Bez.: H. K. ruckwarts NachlaB=Stempel. G. R.
+
+## Aibert von Keller
+
+geb. 1844 in Gais (Appenzell), gest.1920 in Munchen,
+
+- Bildnis einer Dame mit rotbraunem Haar, schwarzer und roter Taille; fast en face, auf rotem Grunde. Brustbild.
+
+Oel auf H. 35,5X27 cm. Bez.: A1bert Keller. H.R.
+
+- 66 Bildnis der Prinzessin Elvira. Skizze zu dem bekannten Bilde.
+
+Oel auf L. und H. aufgez. 45X23 cm. G.R.
+
+## Ferdinand Keller
+
+geb.1842 in Karlsruhe, gest.1922 dase1bst.
+
+- Dame in graublauem Kleide mit Fahrrad, vor einem Gebuisch stehend.
+
+Oel auf L. und H. aufgez. 49X25 cm. G. R.
+
+## Paul W.Keller-Reutlingen
+
+geb.1851 in Reutlingen,gest 1919 in Munchen.
+
+- 68 Nachmittagssonne. Im Vordergrunde machtiger schattenspendender Eichbaum, durch dessen Laubkrone Sonnnenkringeln auf den Boden fallen,im Schatten weiden Schafe, weitere Schafe und der Hirte stehen in voller Sonne auf einem Plateau
+- mit vereinzelnten Birken.
+
+Abb. Taf. 10. Oel auf L. 50X70 cm. Bez.: P.W. KellerReutlingen. H.R.
+
+## E.V.Kerckhove
+
+Brussel.
+
+- Unangenehme Mitteilung. In einem Studierzimmer entziffert ein alterer Mann mit der Lupe ein Schriftstuck, ein anderer Mann hort zu und scheint von der Mite teilung unangenehm beruhrt zu sein.
+
+Oel auf H. 49X37 cm. Bez.:E.V.Kerckhove 1879. G.R.
+
+## Klassiker
+
+Zeit um Preller.
+
+- 70 Italienische Landschaft mit aufziehendem Gewitter. Eine Hirtin sucht Schut unter einer Felswand, am Wege Hirte mit Ziegen und Schafen; alte Korkeiche. Blick auf Gebirge, von rechts bricht das Unwetter herein.
+
+## W.Klein
+
+Munchen.
+
+- 71 Alter Bauer mit grunem Hut, roter Weste,in Hemdarmeln, eine Pfeife rauchend. Oel auf H.16X12 cm. Bez.:W.Klein. G.R.
+
+Oel auf L. 23,5X30 cm.G.R.
+- 72
+
+## Hermann Knopf
+
+## Munchen.
+
+2Der Liebling.Ein dem Beschauer zugewandtes lachendes Hollander=Madchen hait ihren Liebling, eine rotliche Kate, im Schob. Oel auf L. 74X80 cm. Bez.: Hermann Knopf Munchen 1903. G.R.
+
+## Kopie
+
+nach Ferdinand Bol.
+
+73 Bildnis der Frau des Malers Govaert Flinck. Oel auf L.100X75 cm. H.R.
+
+## Kopie
+
+- nach van Dyck. 74 Bildnis eines Ratsherrn. Oel auf L.100X75 cm. H.R.
+- 74a Bildnis einer Dame in reichem Kostim. Oel auf L. 100X75 cm. H.R.
+
+## Kopie
+
+## nach Lenbach.
+
+- 75 Bismarck in Zivil; in einem Stuhle sitend, die Hande auf den Stock gestutt. Kniestuck. Oel auf L.115X95 cm. G.R.
+
+## Kopie
+
+nach Ostade.
+
+- 76 Mann und Frau mit Weinkrug; dahinter ein spottender Mann.
+
+## Kopie
+
+77 Die Amazonenschlacht. Oel auf L.124X240 cm.G.R.
+
+nach Rubens.
+
+- 78 Der kleine Jesus mit Johannes und zwei Engeln. Original im Wiener Hofmuseun.
+
+## Kopie
+
+nach Andrea del Sarto.
+
+79 Maria mit dem Jesuskinde, Mutter Anna mit Johannes und musizierende Engel. Oel auf H. 87X72 cm.G.R.
+
+## Kopie.
+
+80 Medea mit ihren Kindern. Oel auf L.168X144 cm.H.R.
+
+## O.Kubel
+
+Munchen.
+
+Oel auf L.65X55 cm.Bez.:O.Kubel. H.R.
+
+81 Der Kofel bei Oberammergau mit seiner markanten Form.
+
+81a Das Leinbachtal bei Oberammergau in herbstlicher Farbung. Oel auf L. 55X65 cm. Bez.:O.Kubel. H.R.
+
+## Fritz Kuithan
+
+## Munchen.
+
+Aquarell auf P. 47X62 cm. Bez.: Frit Kuithan Schliersee 1903. H. L.
+
+- 82 Schweibhund, den gefundenen Hirsch verbellend.
+
+Oel auf L.97X126cm.H.R.
+
+Oel auf H. 43X33 cm.H.R.
+- 83 Hirschbrunft. Rohrender Zwolfender am Rande eines Bergwaldes. Im Hinter grunde das Mutterwild. Oel auf I.108X77 cm. Bez.: Frit Kuithan.H.R.
+
+Oel auf L. 86X113 cm. Bez.:Frit Kuithan Schliersee.
+
+- 84 Gemswild auf dem Wechsel; aus den Schlierseer Bergen. Im Vordergrunde der Leitbock mit nachfolgenden Geiben.
+- 84a Schweizer Bergmaher.
+
+Gouache auf P. 45X31 cm. G.L.
+
+S.Kurz Munchen.
+
+- 85 Lauernder Fuchs in Landschaft. Oel auf L. 58X68 cm. Bez.: S.Kurz. H.R.
+
+## Charles Josef Kuvasseg pere
+
+- 86 Das Felsentor von Etretat,leicht vom Meer bespilt, durchschritten von einem Fischer
+
+geb.1802 in Triest, gest.1877 in Nanterre (Dep.Seine)
+
+- und seiner auf einem Esel reitenden Frau.
+
+Oel auf L. 50X82 cm. Bez.: C. Kuvasseg pere. H.R.
+
+## Heinrich Lang
+
+geb.1838 in Regensburg, gest.1891 in Munchen.
+
+- 87 Ungarische Kavalleriepatrouille in der Pubta. Oel auf L. 21X46 cm. Bez.: Heinrich Lang. G.R.
+
+## M.Lanninger
+
+Kopie nach Guido von Maffei.
+
+- 88 Dachs vom Bau vertrieben im Kampfe mit drei Deckeln. Oel auf L.167X125 cm.Bez.: M. Lanninger nach Guido von Maffei. G.R.
+
+## Frans von Leemputten
+
+geb.1850 in Werchter (Brabant),gest.1914 in Schaerbeek.
+
+- 89 Der Austrieb. Auf einem Waldweg zieht ein Hirte mit Hund und Schafherde zum Weideplat; leicht bewolkter Himmel. Fruhling.
+
+Abb. Taf. 4. Oe1 auf L. 59X49 cm. Bez.: Frans von Leemputten 1893. G. R.
+
+## Franz von Lenbach
+
+geb. 1836 in Schrobenhausen, gest. 1904 in Munchen,
+
+## Oscar Leu
+
+- 90 Bildnis des Grafen Schack mit leicht ergrautem Haar, Schnurrbart und Mucke, weibem ausgeschnittenen Kragen, schwarzer Krawatte, dunklem Rock und Mantel. Brustbild en face. Oel auf P.7OX53 cm.Bez.:F.Lenbach.G.R. Abb.Taf.8.
+
+Munchen.
+
+- Herbst im Voralpenlande, bewaldete Vorberge mit Wiesenflachen,im Tale zwischen Baumen ein Dorf. Oel auf L. 72X72 cm. Bez.:Oscar Leu. H.R.
+
+## Ludwig von Lofft
+
+- 92 Studienkopf einer altdeutschen Frau mit rot und schwarzgestreiftem Barett, roter Korallenkette um den Hals, weibem Brusteinsat und dunkler Bluse. En face. Ehedem Galerie Henneberg Zurich.
+
+geb. 1845 in Darmstadt, gest.1910 in Munchen.
+
+Oel auf L. 44X34 cm. Bez.: Lofft 75. H.R.
+
+- 91
+
+Abb.Taf.7.
+- gebirge.
+
+## August Lohr
+
+lebte in Munchen.
+
+- 93 EinodBauernhof in Tirol auf hoher Berghalde stehend; im Hintergrund das Hoch Oel auf L.56X45cm.Bez.:A.Lohr 1883.G.R.
+
+93a Wasserfall im Hochgebirge. Oel auf L. 52X43 cm. Bez.:A. Lohr Munchen 1882. G.R.
+
+## M.Luger
+
+lebte in Munchen.
+
+- 94.Auf der Alm bei Lenggries. Oel auf P. 28X40 cm. Bez.: M.L. H.L.
+
+94a Frauenchiemsee mit Kampenwand. Oel auf P. 28X40 cm. Bez.:M.L. H.L.
+
+## Emil Lugo
+
+geb.1840 in Karlsruhe, gest.1902 in Munchen.
+
+- 95 Belauscht. Am Ufer eines Wassers, unter hohen Baumen, eine sitende und eine liegende Frauengestalt, die lettere mit blauem, die erstere mit rotem Ueberwurf angetan, werden von einem im Gebusch versteckten Faun belauscht. Blick auf von Bergen abgeschlossenes Gelande; blauer, teilweise bewolkter Himmel.
+
+Oel auf P. 107X100 cm. Bez.:E. Lugo 1899.G.R.
+
+## Johann Ludwig Lund
+
+geb.1777 in Kiel,gest.in Kopenhagen.
+
+- 96 Lesender Mann. Ein alter Herr mit Stirnglate, weibem langen Haar,leichtem
+- Backenbart,liest in einem mit den Handen gehaltenen Buch. Aus dem Nachlasse von Professor H. Louis Th. Gurlit; laut ruckwartiger Notiz gegen 1835 gemalt. Oel auf P. 24X22 cm.G.R.
+
+## Jean Baptist Mallet
+
+geb. 1759 in Grasse (Dep.Var.), gest.1835 in Paris.
+
+- 97 Muttergluck. Eine junge Mutter lehrt ihremjungsten, auf dem Schobe knieenden Kinde, das Beten, ein etwas groberer Junge kniet betend neben der Mutter, eine Frau sitt am Tisch,eine weitere bringt das Fruhstuck fur das Kind,in einem Neben= raum der Mann am Schreibtisch. Aitdeutsche Kostume.
+
+Aquarell auf P. 22X17 cm. Bez.: Mallet 1830. G.L.
+
+## Gabriel von Max
+
+geb.1840 in Prag, gest.1915 in Munchen.
+
+- 98 Millas Spielland. Des Kunstlers Tochterchen mit der Puppe auf dem Schob, ins mitten ihres Spielzeugs vor dem Puppenhaus sitend.
+
+Aquarell auf P. 26,5X21 cm.Bez.:Weihnacht 188o. Millas Spielland G.Max. H.L.
+
+## Jos.Mayr.
+
+- 99 Stilleben mit Weinglas, Aepfeln, Nussen und Munzen. Oel auf Blech. 18X24 cm. Bez.: Jos. Mayr 1846. G.R.
+
+## Gustav Michele
+
+Munchen.
+
+- 100 Gestorte Nachtruhe. Auf dem Dache eines Altmunchner Hauses veranstalten Katen im Mondschein ihr Konzert, ein seiner Ruhe beraubter alter Mann blickt aus dem Dachfenster und scheucht die Ruhestorer fort. Blick uber Dacher auf die
+- Frauenkirche. Oel auf L. 106X87 cm. Bez.: Gustav Michele, Jakobides 1887. G.R.
+## Josef Minjon
+
+geb. 1818 in Dusseldorf, gest. daselbst.
+
+- 101 Bacharach am Rhein. Auf einem freien Plat, mit Blick auf die Kirche, fuhren
+- reisende Schausteller einen Baren vor. Zuschauer umgeben die Vorstellung. Hinter der Kirche auf einem Berge eine Ruine.
+
+Oel auf L.63X76cm.Bez.:J. Minjon 1850.G.R.
+
+## Carl Morgenstern
+
+geb.1812 in Frankfurt,gest.1893 daselbst.
+
+- 102 Oberbayerischer See mit Badehutte. Auf dem See ein Kahn,im Hintergrunde Gebirge. Oel auf P.aufgez.19,5X26 cm. Bez.:C.Morgenstern. G.R.
+
+## C.E. Morgenstern
+
+Munchen-Breslau.
+
+- 103 Starnberg mit dem Schlob und der Kirche; Blick auf den See und das Gebirge. Oel auf P.36X58 cm.Bez.:C.E.Morgen.G.R.
+
+## Morit Muller genannt Feuermiller
+
+geb.1807 in Dresden, gest.1865 in Munchen.
+
+- 104 Die Heimkehr des Hochzeitspaares. Das junge Paar im Kostum des Isarwinkels bei Lenggries wird bei Fackele und Kerzenschein vom Wirt und den Gasten aus dem Wirtshaus geleitet, die Musik spielt einen Tusch.Farbenfrohes bewegtes Bild.
+- Oel auf L.83X70 cm.Bez.:M.Muller 1855.G.R.
+
+## Morit Muller jr.
+
+Munchen.
+
+- 105 Gemsen im Hochgebirge von einer Schneelawine uberrascht.
+
+Oel auf L.78X64 cm. Bez.:Muller ir.G.R.
+
+## Muinchener Schule
+
+Art des Ed.Schleich.
+
+- 106 Landschaft mit Baumen und Wasser. Herbst. Oel auf L.13X27,5cm.H.R.
+
+## Muinchener Schule
+
+Art des Karl Haider.
+
+- 107 Mann mit dunkelbraunem Kopfhaar und rotem Schnurr= und Backenbart. Brustbild. Oel auf H.42,5X43 cm.H.R.
+
+## G.Niemann
+
+Munchen Garmisch.
+
+- 108 Morgensonne am Risserkopf. Winter. Oel auf L. 61X61 cm. Bez.:G.Niemann 1920.
+
+## Wilhelm Joseph Niessen
+
+geb. 1827 in Koln,1ebte in Koln.
+
+- 109 Die Grablegung. Am Kreuzesfube liegt Jesus an Maria gelehnt, Magdalena halt des Heilands linke Hand, aus den Wolken sehen Engelskopfchen ernst auf den Heiland herab. Oel auf L. 112X133 cm. Bez.: Wilh.Niessen inv. Geschnitter R.
+## Harry Niestle
+
+MunchenDachau
+
+- 110 Zwei Odalisken bei der Morgentoilette, das Haar mit Perlenschnuren zierend. Oel auf L. 123X152 cm. Bez.: Hy.Niestle 1911. G. L
+
+## Georg Oeder
+
+Dusseldorf.
+
+- 111 Sonnenuntergang im Winter. An einem durch einen verschneiten Laubwald fliebenden
+- Bach ein verhoffendes Reh; Blick auf den roten Bali der Sonne.
+
+Abb.Taf.7.
+
+Oel auf L. 75X53 cm.Bez.: G.Oeder 76. G.R.
+
+## Hugo Oehme
+
+Munchen.
+
+- 112 Motiv aus Gern mit der Wurm. Hauser zwischen Baumen.
+- Oel auf L.30X35 cm. Bez.:Hugo Oehme Munchen. G.R.
+
+112a Rosenbukett dunkelrot, hellrot und gelb in einem Glase.
+
+Oel auf H. 24,5X21 cm. Bez.: Hugo Oehme Munchen. G.R.
+
+## Georg Papperit
+
+- 113 Vornehme Dame der italienischen Gesellschaft in dunkler Kleidung und Spiten# mantille, vor rotem Vorhang mit Blick auf den Canale Grande.
+
+geb.1846 in Dresden, gest.1918 dase1bst.
+
+Abb.Taf.8. Oel auf L. 114X80 cm. Bez.: G. Papperit. G.L.
+
+## Hans von Petersen
+
+geb.1850 in Husum (Schleswig), gest.1914 in Munchen.
+
+- 114 Fischkutter mit vollen Segeln in Fahrt. Kohle und Farbstift auf L. Achteckig. 53X55 cm.Ruck warts Nachlab-Stempel. G. R.
+
+## Richard Pietsch
+
+- 115 Spatwinter im bayerischen Gebirge. Bauernhof am Fube hoher Berge. Oel auf L. 110X140 cm. Bez.: Rich.Pietsch. G.L.
+
+Munchen.
+
+## P.Vielleicht H. Poeppel.
+
+- Oel auf L. 7oX90 cm. Unterschrift unleserlich mit P beginnend. G.R.
+- 116 Sudliche Gebirgslandschaft mit Schlob auf einem steilen Berge und zwei Brucken uber einen Flub; am Fube des Berges Ansiedlung. Blick auf das Hochgebirge.
+
+## Emil Rau
+
+- 117 Sonntagnachmittag. Hubsche Schlierseerin auf einem Stuhle sitend und strickend,
+
+Munchen.
+
+- blickt auf den Beschauer; im Hintergrunde die Berge.
+
+Oel auf L. 45X36 cm. Bez.:E.Rau. H.R.
+
+## Reder-Broili
+
+- 118 Abend. Auf einem Weiher ein Kahn,zwischen Baumen Bauernhauser.
+
+lebte in Munchen.
+
+Oel auf H. 16X25 cm. Bez.:Reder-Broili. G.R.
+
+- 118a Gegenstick. Gewitterstimmung.Im Vordergrunde Weiher und zwei Kuhe,zwischen Baumen Hauser sichtbar. Gewitteriger Himmel.
+
+Oel auf H. 16X25 cm. Bez.:Reder-Broili. H.R.
+## J.Reiner
+
+Munchen.
+
+- 119 Aite Bauerin mit Kopftuch an einem Tische sitend und in der rechten Hand ein Glas mit Nelken haltend. Oel auf H. 51X50 cm.Bez.:J.Reiner. G.R.
+
+## Rudolf Ribarz
+
+geb.1848 in Wien,lebte in Paris.
+
+- 120 Franzosischer Gutshof mit vier Rindern in einem Box und Huhnern, rechts Laub geholz, links die Gutsgebaude; das Ganze von kraftiger Sommersonne beschienen. Blauer Himmel. Oel auf H. 48X65 cm. Bez.: Rudolf Ribarz. G.R.
+
+## August Riedel
+
+dessen Art.
+
+- 121 Junge Italienerin in Nationaltracht unter Orangenbaumen.
+
+## Lina Rohrer
+
+- 122 Rosenstraub von dunkele und hellroten Rosen in einem Glas. Oel auf L. 53X44 cm. Bez.:L. Rohrer. G.R.
+
+Munchen.
+
+- 122a Weibe Rosen im Glas. Oel auf P. 27X21,5 cm. Bez.: L. Rohrer Munchen. G.R.
+
+## F.Rothaug
+
+Munchen.
+
+- 123 Die tote Gans. Gansemadchen mit einer toten Gans im Arm. Oel auf P. 30X13,5 cm. Bez.: Rothaug F. G.R.
+
+## O.von Ruppert
+
+lebte in Munchen.
+
+- 124 Schaubuden beim Munchener Oktoberfest im Jahre 1876.
+
+Aquarell auf P. 30X46 cm. Bez.: O. v. Ruppert 1876. Oktoberfest Munchen. H. R.
+
+## Eduard Schleich d. Ae.
+
+geb.1812 in Harbach, gest.1874 in Munchen.
+
+- 125 Der Konigssee mit Blick auf das Watmannmassiv, dessen Gipfel von den ersten Strahlen der Morgensonne beleuchtet wird; am Ufer Ahornbaume und Almhuitte. Oel auf L.46X40 cm.Bez.:Ed.Schleich 1842. G. R.
+- 126 Almweide im Gebirge. Auf einem Hochplateau zwei Hirten mit Kuhen, rechts
+- Blick auf das Voralpenland mit See, links mabig ansteigende Berge.
+
+Oel auf L.37X32 cm.Bez.:Ed.Schleich.G.R.
+
+## Mathias Schmid
+
+geb.1835 in See (Paznaunthal, Tirol), gest.1923 in Munchen.
+
+- 127 Letter Blick in die Heimat. Die Auswanderung der vertriebenen Zillertaler Protes stanten im Jahre 1837. Auf einer Grathohe sehen die Auswanderer, Ait und Jung, tranenden Auges auf die ihnen liebgewordene Heimat zuruck. Erwahnt bei Botticher
+- auf Seite 588 unter Nr. 17.
+
+Oel auf L. 105X170 cm. Bez.:Mathias Schmid Munchen 1877.G.R.
+
+Abb.Taf.5.
+
+Oel auf L.74X60 cm.H.R.
+- 128 Eine Frage. In einem mit Zirbenholz vertafelten Zimmer stelt ein Tiroler Madchen an einen an einem Tische sitenden Burschen eine Frage, ein in der Ecke sitendes Madchen hort zu. Oel auf L.64X48 cm.Bez.:Math.Schmid.G.R.
+
+## M.Schneidt
+
+129 Unangenehme Nachrichten. Oel auf L.40X33 cm.Bez.:M.Schneidt. G.L.
+
+Munchen.
+
+129a Angenehme Nachrichten. Oel auf P. 39X33 cm. Bez.:M.Schneidt.G.L.
+
+129b Der Nixenkub. Ein Jungling kubt eine Nixe im Walde.
+
+Oel auf P. 33X30 cm. Bez.:M.Schneidt. G.L.
+
+130 Toter Kiebit. Oel auf P.17X27 cm. Bez.:M.Schneidt 18. H.L.
+
+130a Madonna das schlafende Kind betrachtend.
+
+Oel auf L. 33X39 cm. Bez.:M.Schneidt.G.R.
+
+## Alfred von Schonberger
+
+Munchen.
+
+131 Chiemseefischer beim Neteinziehen.
+
+Oel auf H. 18X24 cm. Bez.:Aifred von Schonberger. H.R.
+
+131a Fahrt auf dem Chiemsee bei Frauenworth.
+
+Oel auf H. 18X24 cm. Bez.: Aifred von Schonberger. H.R.
+
+## Adolf Schreyer
+
+zugeschrieben.
+
+- 132 Beduine auf Vorposten. Der mit roten Burnus angetane Beduine halt mit einem Schimmel auf einem kleinen Gebirgsplateau und blickt in die Ferne; die Berge sind von der aufgehenden Sonne beleuchtet.
+
+Oel auf L. 67X82 cm.Bez.: Ad.Schreyer.G.R.
+
+## Richard Schubring
+
+geb.1853 in Dessau, gest.1925 in Munchen.
+
+Oel auf L.Oben abgerundet. 164X94 cm. G.R.
+
+- 133 Kopie nach Paolo Veronese. Madonna mit dem Kinde auf einem Thron, daneben Josef in Schwebestellung, auf einer Saule der Johannesknabe mit dem Kreuze; daneben zwei mannliche und eine weibliche Heilige.
+
+## G.Schuler
+
+- 134 Partie bei Butbach in Hessen.Winterbild.
+
+Nurnberg.
+
+Oel auf Blech.19X26 cm. Bez.:G. Schuler 1862. H.R.
+
+134a Winterlandschaft mit Wanderer.
+
+Oel auf Blech.19X27 cm. Bez.:G.Schuler 1861. H. L.
+
+## Robert Schulte
+
+geb.1828 in Magdeburg, lebte in Munchen.
+
+- 135 Der Voldenfjord in Norwegen mit einem ankernden Dampfer und zwei Segels
+- booten, am Ufer zwei Fischerhutten;im Hintergrunde rechts die hochstrebenden Berge, links Blick auf die Einfahrt des Fjords.
+
+Oel auf L.32X48 cm. Bez.:R. Schulte.H.R.
+- 136 Norwegischer Fjord mit einfahrendem Dampfer; im Vordergrunde leichte Brandung
+- am felsigen Ufer. Oe1 auf H. 16,5X26,5 cm. Bez.:R. Schulte. G.R.
+
+## Johann Konrad Seekat
+
+geb.1719 in Hainstadt (Pfalz),gest.1768 in Darmstadt.
+
+- Gegenstuck. Die Auferstehung Christus ist aus dem Grabe erstanden, die Wachter sind geblendet zuruckgesunken. Oel auf L.Je 27X22,5 cm.G.R.
+- 137/a Die Grablegung. Die Junger und Freunde tragen Christus zu Grabe.
+
+## August Seidel
+
+geb.1820 in Munchen,gest.1904 daselbst.
+
+- 138 Mondlandschaft mit Ruine auf steilem Felsen,in einer Bucht ein Kahn, am Ufer Lagerfeuer. Oel auf P. 26X21 cm. Bez.:A.S.70.G.R.
+
+## Carl Seiler
+
+geb.1846 in Wiesbaden, gest.1921 in Munchen.
+
+- 139 Die beiden Freunde. Zwei elegante Herren an einem weib gedeckten Tische in einem mit Kamin ausgestattetem Gemache im Gesprache.
+
+Oel auf L. 28X34 cm. Bez.:C. Seiler. G.R.
+
+## Otto Seit
+
+geb.1846 in Munchen, gest.1912 daselbst.
+
+- 140 Flugel des linken Kutschenschlages fur die Prunkkutsche Konig Ludwig Il., dar wahrscheinlich des Residenztheaters -- bei einer Festvor=
+- stellend die Logen -v stellung in der Zeit des Rokoko.
+
+Oel auf P. in Lyraform. H. 77, Br.55 und 16 cm. MasseR.
+
+## Julius Seyler
+
+Manchen.
+
+- Seetangernte. Der Seetang wird mit Wagen und Arbeitern an das Ufer gebracht; im Hintergrunde ein Leuchtturm.
+
+Oel auf P. 50X65 cm. Bez.: Jul. Seyler. G.R.
+
+- 142 Sioux-Indianer auf der Streife. Die Krieger reiten hintereinander in gebirgigem Terrain einem Gebirgszuge entgegen. Nach personlichem Erlebnisse.
+
+Oel auf P. 41X69 cm. Bez.: J. Seyler. G. R.
+
+## A.Singer
+
+- 143 Gebirgsstudie mit Sandreibe. Oel auf L. 62X48 cm. Bez.: Singer 190o. H.R.
+
+lebte in Schliersee.
+
+## Carl Spitweg
+
+geb.1808 in Munchen, gest.1885 daselbst.
+
+- 144 Die Versuchung. Am Rande eines Wassers in einer Schlucht sitt ein Eremit, mit aufgeschlagenem Buch auf den Knien, auf einer Steinbank, daneben auf einem Steintisch Wein und Brot; aus dem Wasser ist eine Nixe aufgetaucht, die mit Tanzbewegungen den Eremiten zu verlocken sucht, der Felsen und die Schlucht sind mit Baumen bewachsen. Das Ganze von der Mondsichel beleuchtet, die am blauen Abendhimmel steht. Oel auf H. 37,5X22 cm. G.R.
+
+Abb.Tafel 1.
+
+- 141
+- 145 Die beiden Alchimisten. In einen hohen turmahnlichen Raum fallt das Mondlicht schrag auf ein Prisma, das das Licht in gelblicher Farbe auf die beiden, den Vorgang aufmerksam betrachtenden Alchimisten zuruckwirft, die auf der Ruckseite vom Mondlicht scharf beleuchtet werden.
+
+Oel auf L. 48X26 cm. Nachlab=Stempel, Rombus mit S und Spitweg. H. R.
+
+Abb.Taf.2.
+
+## Adolf Stademann
+
+geb.1824 in Munchen, gest.1895 daselbst.
+
+- 146 Winterlandschaft mit verschneiter Landstrabe und zwei einem Walde zuschreitenden Figuren. Oel auf P.16,5X23 cm.Bez.:A.Stademann. G.R.
+
+## Toni von Stadler
+
+geb.1850 in Gollersdorf, gest.1917 in Munchen.
+
+- 147 Herbstlandschaft mit Flub. Der trage dahinziehende Fluf ist von kraftigem, gelb= gefarbtem Laubwald eingefabt;im Vordergrunde Weidengebusch,bedeckter Himmel. Oel auf H. 21,5X27 cm. Bez.: T. St.,17. H.R.
+
+## Wilhelm Strecker
+
+geb.1795 in Stuttgart, gest.1857 daselbst.
+
+- 148 Josef den Jesusknaben in der Handhabung des Richtwinkels unterweisend.
+- Abb.Taf.8.
+- Oel auf L. 98X76 cm. Bez.: W.Strecker fec.1825. G.R.
+- 149 Maria den Jesusknaben in den 10 Geboten Gottes unterrichtend. Das Kind spricht mit gefalteten Handen die Gebote nach.
+
+Abb.Taf.8. Oel auf L.98X76 cm.Bez.:W.Strecker 1824.G.R.
+
+## Franz von Stuck
+
+Munchen.
+
+Bez: Franz Stuck.
+
+- 150 Der Athlet, eine Kugel mit beiden Armen stemmend.
+- 151
+
+Bronze. Hohe 67,Breite 28 cm.
+
+- Originalzeichnung der Kunstlerpostkarte fur das Kunstlerfest 1898 im Hof und Nationaltheater; antike weibliche Gestalt,in der rechten Hand eine Amphora,in der linken einen Phyrusstab, begleitet von einem Leoparden.
+
+Aquarell in Sepia weis und schwarz. 17X14 cm. Bez.: Franz Stuck. G. R.
+
+## Johanna Tecklenborg
+
+152 Oberbayerischer See mit Kahn am Ufer; im Hintergrunde die Berge.
+
+Munchen.
+
+Oel auf P. 28X42 cm. Bez.: J. Tecklenborg. H.R.
+
+## Arthur Thiele
+
+153 Gebirgsstudie. Oel auf P. 17X22 cm. Bez.:A.Thiele. H.R.
+
+geb.1841 in Dresden,gest.1919 in Hohenschaftlarn bei Munchen.
+
+153a Herbst im Gebirge. Studie. Oel auf P. 18X23 cm. Bez.:A.Thiele. H.R.
+
+153b Buchenwald. Studie. Oel auf P. 17X24 cm. Bez.:A.Thiele. H.R.
+
+154 Schmalreh im Walde. Studie. Oel auf P. 15X16 cm. Bez.:A.Thiele. H.R.
+
+154a Waldbiobe und Jungholz. Studie. Oel auf P. 18X23 cm. Bez.:A.Thiele. H.R.
+
+154b Rehkit im Walde. Studie. Oel auf P. 20X21 cm. Bez.:A.Thiele. H.R.
+- 158
+
+## Hans Thoma
+
+- 155 Schwarzwaldlandschaft mit Kuhen, zwischen Felsblocken weidend. Am Rande eines Laubwaldes der Hirte; rechts auf einer Anhohe Tannenwald. Blauer, teilweise
+
+geb.1839 in Bernau (Schwarzwald), gest.1925 in Karlsruhe.
+
+- bedeckter Himmel.
+
+Oel auf L. 41X55 cm. Bez.:Das Bild gemalt zu haben Karlsruhe Mai 1922
+
+## Victor Thomas
+
+Abb.Taf.6. Hans Thoma. G.R.
+
+Munchen,
+
+- 156 Gretchen. Ein auf einem Stuhle sitendes Madchen, mit Naharbeit im Schob,hat die Hande uber die Knie gefaltet und den Kopf ausruhend auf die Tischplatte gelegt; in einem Glas ein Fliederstraub, auf dem Tische ein Nahkissen.
+
+Oel auf L. 59X71 cm. Bez.:V.Thomas. H.R.
+
+## Desiré Thomassin
+
+Munchen.
+
+- 157 Auf der Dorfstrabe ein Bauer mit zwei Kuhen und einem Hund, im Gesprach mit
+- einer Frau mit drei Ziegen; vereinzelnte Hauser an der Strabe.
+
+Oel auf L. 50X40 cm. Bez.:D.Thomassin. G.R.
+
+## Martha von Tobien
+
+Dorpat-Munchen.
+
+Oel auf L. 75X65 cm. Ruckwarts bez. Martha von Tobien. Rahmen geschnitt
+
+## Wilhelm Trubner
+
+geb.1851 in Heidelberg, gest.1918 in Karlsruhe.
+
+- Bildnis einer Dame mit dunkelblondem Haar,in demselben eine Agraffe,mit blauen Augen,Perlohrringen,Filigranbrosche mit Chemisette, dunklem Kleide. Brustbild en face. Ehedem Galerie Henneberg, Zurich.
+
+Abb.Taf.3. Oel auf L.53X45 cm.Bez.:W.Trubner 1886. H.R.
+
+- 159 Herrenbildnis mit dunklem Schnurrbart, dunkelgebrauntem Gesicht, dunkler Kra watte, grauer Weste, braunem Rock und grauem Hut vor dunklem Hintergrunde. Abb.Taf.7. Oel auf L.57X37 cm.Bez.:W.Trubner.G.R.
+
+## Frit von Uhde
+
+geb. 1848 in Wolkenburg i. S., gest.1911 in Munchen.
+
+- 160 Aus dem Atelier des Kunstlers. Der bekannte Erker mit dem kraftigen Lichteinfall. Ehedem Nachla6 Uhde,Kat.35 vom 31. Mai 1911 und Galerie Henneberg, Zurich. Oel auf L. 98X68 cm. Ruckwarts die Bestatigung der Tochter des Kunstlers, Abb.Taf.7. Anna von Uhde.H. L.
+
+## Unbekannt
+
+Deutsche Schule.
+
+- 161 Portrat eines vornehmen Mannes. Brustbild. In braunem Haar mit rotem Barett
+- und rotem pelzverbramten Rock. In der Hand eine Schriftrolle haltend.
+
+Oel auf H.24,5X22 cm.
+
+- 157a Bildnis Goethes mit den Ordensauszeichnungen. Kopie nach dem in der Universitat Dorpat befindlichen Originalgemalde von Gerhard von Kuegelgen 1809.
+- und vergoldet.
+## W.Velten
+
+Munchen.
+
+- 162 Der Abschied. Ein junges Paar nimmt von der Wirtin Abschied, vor dem Hause der Postwagen; altes Stadtchen. Oel auf H. 16X24 cm.Bez.:W.Velten.H.R.
+- 162a Nach der Jagd. Aus der Zeit der Kurfursten halt ein von Piqueren zu Pferd begleiteter Reisewagen vor einem strohgedeckten Hause.
+
+Oel auf H. 16X24 cm. Bez.:W.Velten. H.R.
+
+## Hermann Volkerling
+
+Munchen-Haar.
+
+- 163 Narcib vor Busch werk mit Wicken umranktem Schaferstabe stehend und in Gedanken verloren,vor sich hinblickend; hinter ihm seine Schafherde.
+
+Oel auf L. 153X141 cm. G.L.
+
+- 164 Motiv aus dem Isartal mit steil abfallenden Ufern, in der Hohe Waldpartien. Tempera auf P. 41X56 cm. Bez.:Vo 1914. G.R.
+- 165 Weiblicher Studienkopf mit uppigem dunklen Haar,blauem Ohrgehange, dunklem
+- Kleide mit weibem Brustausschnitt. Tempera auf L. und P. aufgez. 51X44 cm. Tragt ruckwarts den Vermerk: Hermann Volkerling 1913. S.R.
+
+165a Parkmotiv mit Baumgruppen und See; blauer teilweise bedeckter Himmel. Oel auf P.33X47 cm.Bez.:1891 H.V.G.L.
+
+## F.Volkers
+
+geb.1831 in Birkenfeld, lebte in Dusseldorf.
+
+166 Reitpferd gesattelt, Grauschimmel. Oel auf L. 34X45 cm.Bez.:F.Volkers.H.R.
+
+## O.Vollrath
+
+Munchen.
+
+- 167 Konigsfasanenhahn mit zwei Hennen auf freier Wildbahn. Oel auf L. 66X100 cm. Bez.:E.Vollrath. H.R.
+
+## Friedrich Volt
+
+geb.1817 in Nordlingen,gest.1886 in Munchen.
+
+- 168 Studie einer weib= und schwarzgefleckten Kuh. Oel auf L. 33X49 cm. Ruckwarts Nachlab-Stempel. H.R.
+
+## Ludwig Volt
+
+- 169 Verhoffender Sechserbock vor einer Nagelfluhwand stehend. Motiv aus Gruns
+
+geb. 1825 in Augsburg, gest. 1911 in Munchen.
+
+- wald bei Munchen. Oel auf L. 55X44 cm. Bez.: L. Volt. H.R.
+
+## Ferdinand Wagner
+
+- 170 An der Votivtafel. Ritterdame vor einer an einem Baum angebrachten Votive tafel stehend. Sonnenuntergang. Oel auf L. 66X40 cm. G.R.
+
+geb. 1847 in Passau, gest. 1927 in Munchen.
+## Baron Egidius Karol Gustaf Wappers
+
+- 171 Trauernde Frau, neben sich auf einer Truhe ein Kruzifix liegend, daneben eine
+
+geb.1803 in Antwerpen, gest.1894 in Paris.
+
+- brennende Kerze, kauert am Boden, die Arme um das Knie geschlungen.
+
+Oel auf H. 56X45 cm. Bez.:B.Gustaf Wappers 59. H.R.
+
+## W. Weigl
+
+Munchen.
+
+Oel auf P. 17X24 cm. Bez.: Wilh. Weigl Litauen 17. H.R.
+
+- 172 Landschaft aus Litauen.
+
+172a Der Ziehharmonikaspieler.
+
+Oel auf P. 29X33 cm. Bez.:W.Weigl 1913.
+
+- 173 Bauernhaus in der Sonne.
+- Oel auf P. 33X23 cm. Bez.: W.Weig1 1917. H.R.
+
+## M. Weigl.
+
+173a Herbstlandschaft. Oel auf P.17X25 cm. Bez.:M.Weigl 1917. H.R.
+
+## Wiener Schule.
+
+- 174 Auf einem erhohten Punkte iber einem See eine Almwirtschaft; die Sennerin im Gesprach mit einem Jager melkt eine Kuh, weitere Tiere lagern und weiden in der Nahe. Oe1 auf Blech. 48X63 cm.
+
+## Ludwig Willroider
+
+geb.1845 in Villach, gest.1910 in Munchen.
+
+- 174 Motiv bei Bernried. Waldrand mit Figuren und Wiese. Oel auf L.u.P.aufgez. 30X24 cm.Bez.:Faksimile u.Nachlab-Stempel. H.R.
+- 175a Aus den Auen bei Rosenheim. Baumgruppen und Wiese. Oel auf L.u.P.aufgez.23,5X31 cm.Bez.:Faksimile= u.Nachlab-Stempel. H.R.
+
+## Josef Wopfner
+
+geb.1843 in Schwaz （Tirol), gest.1927 in Munchen.
+
+- 176 Heuernte auf dem Chiemsee. Ein mit Heu beladener Kahn, gefuhrt von sechs Mannern und Frauen, auf dem Heu eine weitere Frau und Kind, wird zur Frauen insel gerudert. Oel auf H. 15,5X21 cm. Bez.: J. Wopfner. H.R.
+
+## Ludwig von Zumbusch
+
+- 177 Der Anachoret. Aiter Mann mit Haarkranz um den kahlen Kopf. Vollbart und entbiobtem Oberkorper,halt in der Hand eine Sanduhr die er aufmerksam bes trachtet; die Sanduhr ist nicht ganz vollendet.
+
+geb.1861 in Munchen, gest.1927 daselbst.
+
+Oel auf L.37X29,5 cm.Bez.:Zumbusch 1883. G.R.
+## II.TEIL.
+
+## Alliot
+
+| 179 Gorgonenhaupt. Gemeinsame Arbeit von Schwiegersohn und Schwiegervater.                                                                                                     | Relief in Masse. Rund. Dm.62 cm.   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
+| 180 Der Abschied des Rekruten. Aquarell auf P. 16X13 cm.Bez.:Abschied,BurgerMuhlfeld. H. L.                                                                                    |                                    |
+| Berlin. 181 Brandung bei Helgoland. Oel auf H. 48X67 cm. Bez.:Hans Busse 1910. Br.R.                                                                                           |                                    |
+| Cuyp dessen Art. 182 Landschaft mit Ruine und Reitern.                                                                                                                         | Oel auf L. 39X57 cm.G.L.           |
+| 183 Abend. Im Vordergrund eine Schafherde,dahinter einige Bauernhauser.                                                                                                        | Oel auf P.18X29,5 cm.H.R.          |
+| Alois Erdtelt geb.1851 in Herzogswalde, gest.1911 in Munchen. 184 Studienkopf einer brunetten Frau mit blauen Augen. Oelauf P.58X44cm.G.R.                                     |                                    |
+| Otto Fedder Munchen. 185 Winterabend. An einem Bach ein Bauernhaus und zwei Wanderer. Oel auf L. 20X45 cm.Bez.: Otto Fedder. G.R.                                              |                                    |
+| Oel auf H. 27X37 cm.Bez.: Otto Fedder, Munchen 98. G.R.                                                                                                                        |                                    |
+| geb.1805 in Munchen, gest.1885 daselbst. 187 FluBtal von bewaldeten Hohen umgeben. Blick auf ein Schlof und das Gebirge. Oel auf L.39X46 cm.Bez.:Charles 1e Feubure 1839. G.R. |                                    |
+| Ph.Fleischer lebte in Muinchen. 188 Dalmatinische Kuste. Oelauf H.16X25cm.G.L.                                                                                                 |                                    |
+| Alfred Friedlander Wien. 189 Bugeltrunk. Ein Reiter des Dreibigiahrigen Krieges reicht der Schenkmaid den geleerten Krug. OelaufH.15X20,5 cm.Bez.:A.Friedlander.               |                                    |
+| 190 Lagerszene aus dem Dreibigiahrigen Krieg mit bewegtem Lagerleben. Oel auf H. 20X26 cm.Bez.:A.Friedlander. H.R.                                                             |                                    |
+
+Paris.
+## A.Hanger
+
+191 Dorfpartie im Sonnenschein. Oel auf P. 23X12 cm. Bez.:A.Hanger. H.R.
+
+## Munchen.
+
+192 Pfau und Huhner auf einer Wiese. Oel auf H. 12X16 cm. Bez.: Hanger. H.R.
+
+## Heinrich Heinlein
+
+1803-1885.
+
+193 Bergwand im Oettal Oel auf P. 28X20,5 cm.NachlabStempel. G.R.
+
+194 Bergkuppe. Oel auf Papier.20X25,5 cm.NachlaB-Stempel. H.R.
+
+## Ph.Helmer
+
+195 Landschaftsstudie mit Wasser. Oel auf L. 36,5X32 cm.Bez.:Faksimile Stempel. H.R.
+
+## 1846-1912.
+
+## A.Hebfeld Munchen.
+
+196 FuchsFehe mit Wildente und jungen Fuchsen. Oel auf P. 23X31 cm.Bez.:A.Hebfeld. Ger.
+
+## A.Hutschenreuther
+
+197 Unangenehme Begegnung. Ein Jager begegnet im Walde einer alten Frau.
+
+geb. 1849 in Wollendorf (Thuringen), gest. in Munchen.
+
+Oel auf L.68X48 cm.Bez.:A.Hutschenreuther.H.R.
+
+## P.von Kalkreuth
+
+198 Mole mit Leuchtturm und Fischerbooten. Oelauf L.70X102 cm Bez.:P.v.Kalkreuth.
+
+## Hamburg.
+
+- 199 Zwei Fischerfrauen, ein Fischer und ein Junge auf der Mole mit dem Blinkfeuerturm; ausfahrendes Fischerboot. Oel auf L. 58X8O cm. Bez.:P.v.Kalkreuth.
+
+## Ludwig Kandler
+
+## lebte in Munchen.
+
+200 Mann mit Reisigbundel in Landschaft. Oel auf P.36X20 cm.NachlabStempel.G.R.
+
+## P.W.Keller-Reutlingen
+
+201 Dorfpartie mit Weiher. Sonnenuntergang. Oel auf P 31X47 cm.Faksimile u.NachlabStempel. H.R.
+
+geb. 1851 in Reutlingen, gest. 19i9 in Munchen.
+
+## Th.Koppen
+
+202 Strand an der Adria mit Fischerboot. Oel auf P. 18X33 cm. Aus dem Nachlasse. H.R.
+
+geb. 1828 in Brake a. Weser, gest. 1903 in Munchen.
+
+## J.K.
+
+203 Bauer in Hemdarmeln, roter Weste, mit Buch, Brot und Schnapskrug. Oel auf L. 42X33 cm.Bez.:J.K. 4.XIl.16.
+
+## J.Loninger
+
+Munchen. 204 Winter im Buchenwalde. Oel auf H. 12X15 cm. Bez.: J. Loninger. H.R.
+
+205 Hasenjager im Winter. Oel aufL.30X39 cm.H.R.
+
+## E.Loujot
+
+206 Heuernte. Heuwagen mit zwei Pferden und Bauersleute. Oel auf H. 9X15 cm. Bez.: E. Loujot. H.R.
+
+## Munchen.
+
+## D.I.P.L.
+
+207 Schlof Ried im Engadin, an einem Bergflub gelegen. Oel auf H. 42X33 cm. Bez.ruckwarts: D. J. P.L. Schlof Ried. H.R.
+
+## 1 Mappe.
+
+208 10Zeichnungen und Aquarellevon L.Braun,W.Gail,Ant.Hoffmann,Horodam,nach Berchem,Steub.
+## A.de Marees
+
+209 Hafeneinfahrt mit Leuchtturm. Oel auf L. 38X48 cm.Bez.:A.de Marees. G.R.
+
+## Anton Massa
+
+## Munchen.
+
+- 210 Blick vom Prinzenweg in Starnberg auf den See und das Gebirge.
+
+OelaufH.36,5X49 cm.Bez.:Massa28.
+
+## Louise Max Ehrler
+
+## Munchen-Wien.
+
+211 Pfirsiche auf einem Teller und am Boden liegend. Oel auf L. 36X52 cm. Bez.: L.Max Ehrler. H. R.
+
+## Christ. Ernst Morgenstern
+
+## zugeschrieben.
+
+212 Mondnacht an der Meereskuiste.Am Ufer zwei Fischer mit Laterne; der Mond scheint durch die Wolken.
+
+Oel auf Papier und H.aufgez. 25,5X34 cm.H.R.
+
+## Ludwig Muiller
+
+213 Tiroler Bauer an einem Tisch lesend. Oel auf L. 49X40 cm. Bez.:Ludwig Muller. G.R.
+
+## Munchen.
+
+## Morit Muller d.Ae.
+
+lebte in Munchen.
+
+214 Stilleben. Rebhuhn. Oel auf P.33X23 cm.Bez.:M.Muller 23.8.83.H.R.
+
+## L.Muller-Cornelius Munchen.
+
+215 Viehmarkt.Vor einem Dorfe wird ein Viehmarkt abgehalten.
+
+Oel auf P.10X20 cm Bez.:L. MullerCornelius. H.R.
+
+## Minchener Schule
+
+216 Aiter Herr in Couleur, mit Zigarre im Mund. Kohle und Blei, weib gehoht. 64X48 cm.G.L.
+
+## 1.Munsch
+
+geb. 1832 in Linz, gest. 1896 in Munchen.
+
+- wams, in den Handen eine Hellebarde haltend,blickt von der Zinne einer Bastei in das weite Land. Oel auf L.55X44 cm.Bez.:J. Munsch Munchen.G.R.
+
+## G.H.M.
+
+218 Nach dem Regen. Motiv aus Gunzburg. OelaufL.45X4Ccm.Bez.:G.H.M.H.R.
+
+## A.Neufang
+
+219 Ackernder Bauer mit drei Ochsen. Oel auf P. 48X62 cm. G.R.
+
+Munchen.
+
+## C.Okert
+
+220 Entwischt. Ein Fuchs sieht einem abfliegenden Spielhahn nach. Oelauf H.13,5X26cm.Bez.:C.Okert.G.R.
+
+## lebte in Munchen.
+
+## P.X.P.
+
+Oel auf P. 22X16 cm. Bez.:P.X.P. H.R.
+
+221 Fridrizianischer Soldat in rotem Rock und schwarzem Koller Zu Pferd. Naturstudie.
+
+## L.Raich
+
+Munchen. 222 Stilleben mit Obst und Chiantiflaschen. Oel auf H. 13,5X18 cm. G.R. 223 Gegenstuick. Stilleben mit Obst und Fayencekrug. Oel auf H. 13,5X19 cm. G.R.
+
+## Heinrich Rasch 1840—1913.
+
+Oel auf L. 27X18 cm. Bez.: Florenz, Giardino Boboli, H. Rasch. H. R.
+
+224 Giardino Boboli, Florenz. Parkmotiv mit Terrassentreppe und Frau mit Madchen.
+## J.Sander Munchen.
+
+225 Postkutsche vor einem Schlob. Oel auf H. 8X12 cm. Bez.:I. Sander. H.R.
+
+226 Gegenstuick.Bauernfuhrwerk zur Stadt fahrend. Oel auf H. 8X12 cm. Bez.:I. Sander.H.R.
+
+## F.Sartori
+
+227 Lago di Caldonazza in Sudtirol. Oel auf P. 22X15 cm.Bez.:.F.Sartori. H.R.
+
+## Munchen.
+
+## Otto Scheuerer
+
+228 Foxterrier auf der Fuchsfahrte. Oel auf H.19,5X40 cm. Bez.:Otto Scheuerer. H.R.
+
+## Munchen.
+
+## August Seidel
+
+## 1820—1904.
+
+229 Landschaftsstudie mit Baumgruppen, Sandgrube und Figur. Motiv bei Starnberg.
+
+## A.Splitgerber
+
+230 Mondnacht in der Stadt. Oel auf P. 29X19 cm. Nachlab-Stempel. H.R. 231 Studie eines Baumstumpfes. Oel auf P.15X24 cm.NachlaB-Stempel. H.R.
+
+## 18441918.
+
+O.Sto1z1
+
+Munchen.
+
+232 Inneres eines Kuhstalles. Raffaellistift auf P.36X46 cm.Bez.:O. S.H.R.
+
+## Heinrich Thiele
+
+geb.1779 in MeiBen,gest.1848 daselbst.
+
+233 La pointe pescade: Angler in einer Bucht; auf einem Hohenzug Befestigungsmauern und Gebaude. Oel auf L. 20X27 cm. Ruckwarts bez.:La pointe pescade Heinr.Thiele pinx 1848. G.R.
+
+## Charles Tooby
+
+geb.1863 in London, gest.1917 daselbst.
+
+234 Scherzende Stiere auf der Weide; ein gelber und ein rotbrauner Stier mit den Hornern leicht stobend. Oel auf L.50x73 cm.H.R.
+
+Unbekannt. 235 Nymphe am Waldbach. Oel auf P.Oval.27X29cm.G.R.
+
+## Unbekannt.
+
+236 Nach der Jagd. Jager mit Hasen. Oel auf P. 13×13 cm. H.L. 237 Alte Schmiede. Oel auf P. 13X13cm.H. L.
+
+Unbekannt. 238 Blumenstudie. Oel auf P. 25X17 cm.G.L.
+
+239 Rosenstilleben. Oel auf P. Oval. 79X29 cm. H.R.
+
+Unbekannt.
+
+Hubertushirsch am Wasser. Linoleumschnitt. 29X9 cm.H. L.
+
+240 2 Aquarelle. Liebespaare. Aquarell auf P.Oval. 22X16 cm.H. L.
+
+## CarI Voss
+
+geb.1856 in Rom, gest. in Munchen.
+
+241 Landschaft mit Bach und Windmahle Oel auf L. und P. aufgez. 29X22 cm. Bez.: Car1 Vof. H.R. 242 Amperufer mit Baumen und Getreidefeldern.
+
+Oel auf P. 32X51 cm. Bez.:Carl Vo6 Amperufer.H.R.
+
+## Wagner-Hohenberg
+
+## Munchen.
+
+243 Kardinal in einem Buche lesend. Bibliothekraum. Oel auf L. 65X52 cm. Bez.: Wagner-Hohenberg. G. R.
+
+Oel auf L. 16X19,5 cm.G.R.
+## Adalbert Wex
+
+Munchen.
+
+244 Blick in das Salachtal bei Reichenhall. Spatwinter. Oel auf P. 21X32 cm.Bez.: Ad.Wex 25.Febr.
+
+## Christian Wilberg
+
+Oe1aufP.27X44cm.G.R. 245 Brandung am flachen Meeresufer.
+
+geb.1839 in Havelburg,gest.1882 in Paris.
+
+## Josef Willroider
+
+geb.1838 in Villach,gest.1915 in Munchen.
+
+246 Dorfpartie mit Weiher. Oel auf P.25X35cm.Bez.:I.Willroider.H.R.
+## Bevorstehende Auktionen: Hugo Helbing, Munchen
+
+## 4.-5.Mai 1928:
+
+Sammlung Stadtrat W. Hupka, BadenBaden. Altes Zinn, Fayencen, Keramik, Steingut,Antiquitaten.
+
+## Zmeite Halfte Mai 1928:
+
+Antiquitaten und alte Gemalde.
+
+## Ende Mai 1928:
+
+Moderne Gemalde, Aquarelle und Handzeichnungen.

@@ -16,8 +16,8 @@ BO0624_5287,506329,14,3bis,Portrait de dame - Ecole Espagnole,104.0,91.4,False,p
 BO0624_5287,506330,15,14,Portrait de Gentilhomme — Ecole Bolonaise.,106.0,96.3,False,positional,,Scuola Bolognese,TABLEAUX,,
 BO0624_5287,506331,16,4bis,Portrait de Gentilhomme - Damiani.,108.0,91.2,False,positional,,,TABLEAUX,,
 BO0624_5287,506332,17,5bis,Portrait de Clement XIll -- Batoni.,112.0,91.2,False,positional,,,TABLEAUX,,
-BO0624_5287,506333,18,6bis,Portrait de peintre (On y lit -Riberwaider 1733) --Ecole Allemande,114.0,44.2,False,positional,,,TABLEAUX,,Sec. XVIII
-BO0624_5287,506334,19,7bis,Portrait d’ une princesse Russe - (On y lit - Riberwalder 1733) - Ecole Allemande,116.0,57.6,False,positional,,,TABLEAUX,,Sec. XVIII
+BO0624_5287,506333,18,6bis,Portrait de peintre (On y lit -Riberwaider 1733) --Ecole Allemande,114.0,44.2,False,positional,,,TABLEAUX,,
+BO0624_5287,506334,19,7bis,Portrait d’ une princesse Russe - (On y lit - Riberwalder 1733) - Ecole Allemande,116.0,57.6,False,positional,,,TABLEAUX,,
 BO0624_5287,506335,20,8bis,Portrait d’Elisabeth Gonzaga — Eeole Bolonaise.,118.0,93.6,False,positional,,,TABLEAUX,,
 BO0624_5287,506336,21,9bis,Portrait d'un Arquebusier -Ecole Flamande.,,0.0,True,none,,Scuola Fiamminga,,,
 BO0624_5287,506337,22,10bis,Portrait de Gentilhomme - Ecole Bolonaise.,120.0,89.4,False,positional,,Scuola Bolognese,TABLEAUX,,
@@ -229,18 +229,18 @@ BO0624_5287,506542,227,216,S. Pierre -- Gessi,367.0,61.5,False,positional,,,TABL
 BO0624_5287,506543,228,215,Iudith -- Allori.,368.0,86.7,False,positional,,,TABLEAUX,,
 BO0624_5287,506544,229,218,La sainte Familie -- Ferri.,370.0,92.0,False,positional,,,TABLEAUX,,
 BO0624_5287,506545,230,217,La Vierge —- Palma.,371.0,88.2,False,positional,,,TABLEAUX,,
-BO0624_5287,506546,231,219,La Vierge. Grand tableau signé -P.P.Agapiti 1533.,372.0,92.9,False,positional,,,TABLEAUX,,Sec. XVI
+BO0624_5287,506546,231,219,La Vierge. Grand tableau signé -P.P.Agapiti 1533.,372.0,92.9,False,positional,,,TABLEAUX,,
 BO0624_5287,506547,232,221,La sainte Famille (bois) - Ecole Florentine. /,373.0,95.1,False,positional,,Scuola Fiorentina,OGGETTI IN LEGNO,,
 BO0624_5287,506548,233,220,S. Antoine -- Allegrini.,374.0,84.4,False,positional,CORREGGIO,,TABLEAUX,,
 BO0624_5287,506549,234,222,La Vierge. Grand tableau tres-precieux -- Sinibaldo Ibi.,375.0,93.6,False,positional,,,TABLEAUX,,
 BO0624_5287,506550,235,223,La Charite -— Caracci.,376.0,83.7,False,positional,CARRACCI,,TABLEAUX,,
 BO0624_5287,506551,236,225,La sainte Famille - Ecole Romaine.,377.0,36.4,False,positional,,Scuola Romana,TABLEAUX,,
-BO0624_5287,506552,237,224,Chemin de la croix. Signé M.Palmigiani 1535.,378.0,36.4,False,positional,,,TABLEAUX,,Sec. XVI
+BO0624_5287,506552,237,224,Chemin de la croix. Signé M.Palmigiani 1535.,378.0,36.4,False,positional,,,TABLEAUX,,
 BO0624_5287,506553,238,226,L.Annonciation (bois) — Inconnu.,379.0,93.1,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5287,506554,239,227,N.S.(bois) Ecole Rcmaine.,380.0,91.7,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5287,506555,240,228,"Chemin de la croix (bois) - Palmigiani,",381.0,94.4,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5287,506556,241,229,La Vierge (bois) -- Inconnu.,382.0,91.7,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5287,506557,242,230,La sainte Famille (bois) signe - A.B. Bocconi 1537.,383.0,95.7,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
+BO0624_5287,506557,242,230,La sainte Famille (bois) signe - A.B. Bocconi 1537.,383.0,95.7,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5287,506558,243,231,La Vierge —— Inconnu.,384.0,76.9,False,positional,,,TABLEAUX,,
 BO0624_5287,506559,244,232,La Vierge - Albertinelli.,385.0,91.7,False,positional,,,TABLEAUX,,
 BO0624_5287,506560,245,233,La Vierge (bois) -- Ecole du Perugino.,386.0,91.2,False,positional,"VANUCCI PIETRO, PERUGINO",,OGGETTI IN LEGNO,,
@@ -360,12 +360,12 @@ BO0624_5287,506673,358,351,La Vierge (bois) 一 Laurati.,565.0,92.3,False,positi
 BO0624_5287,506674,359,352,S. Sebastien (bois) — Ecole Ombrienne.,567.0,48.1,False,positional,,Scuola Umbra,OGGETTI IN LEGNO,,
 BO0624_5287,506675,360,353,S. Ubald (bois) — Nelli. S. Sebastien (bois) — Ecole Ombrienne.,569.0,75.9,False,positional,,Scuola Umbra,OGGETTI IN LEGNO,,
 BO0624_5287,506676,361,354,N. S. (bois) — Ecole Ombrienne.,571.0,92.3,False,positional,,Scuola Umbra,OGGETTI IN LEGNO,,
-BO0624_5287,506677,362,355,La Vierge. Signo pinx. 1510 -- Hjer. Nardini.,575.0,95.0,False,positional,,,TABLEAUX,,Sec. XVI
+BO0624_5287,506677,362,355,La Vierge. Signo pinx. 1510 -- Hjer. Nardini.,575.0,95.0,False,positional,,,TABLEAUX,,
 BO0624_5287,506678,363,356,Chemin de la croix (bois) - Giotlino.,577.0,85.3,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5287,506679,364,357,Chemin de la croix x (bois) - Giotto.,579.0,35.1,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5287,506680,365,358,La creche (bois) - Ecole Ombrienne.,581.0,93.8,False,positional,,Scuola Umbra,OGGETTI IN LEGNO,,
 BO0624_5287,506681,366,359,Fragment (bois) --Inconnu.,,0.0,True,none,,,OGGETTI IN LEGNO,,
-BO0624_5287,506682,367,360,Banniere (bois) signe G.F. 1530 F.- Inconnu.,583.0,95.0,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
+BO0624_5287,506682,367,360,Banniere (bois) signe G.F. 1530 F.- Inconnu.,583.0,95.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5287,506683,368,361,Tryptique (bois)- Ecole Senoise.,585.0,24.4,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5287,506684,369,362,La Vierge  (bois)——Inconnu.,587.0,70.6,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5287,506685,370,363,La rencontre a Ierusalem (bois) -I. Redi.,591.0,94.7,False,positional,,,OGGETTI IN LEGNO,,
@@ -422,7 +422,7 @@ BO0624_5287,506735,420,413,Deux prophetes (bois) — M. Nelli.,661.0,93.1,False,
 BO0624_5287,506736,421,414,N. S. (bois) Signe Angelus --- Ecole de Gubbio.,663.0,95.0,False,positional,,Scuola Umbra,OGGETTI IN LEGNO,,
 BO0624_5287,506737,422,415,La Nativite （bois)--L Ecole Venitienne.,665.0,95.9,False,positional,,Scuola Veneziana,OGGETTI IN LEGNO,,
 BO0624_5287,506738,423,416,(Deux) Fragments de tryptique (bois) — Ecole Om- brienne.,667.0,87.2,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5287,506739,424,417,Miracle recu par C. Brancaleoni l'an 1521. -- Ecole Ombrienne.,669.0,84.9,False,positional,,Scuola Umbra,TABLEAUX,,Sec. XVI
+BO0624_5287,506739,424,417,Miracle recu par C. Brancaleoni l'an 1521. -- Ecole Ombrienne.,669.0,84.9,False,positional,,Scuola Umbra,TABLEAUX,,
 BO0624_5287,506740,425,418,(Deux) Miracles (bois) — Ecole Ombrienne.,671.0,94.4,False,positional,,Scuola Umbra,OGGETTI IN LEGNO,,
 BO0624_5287,506741,426,419,La Vierge (bois) -- Ecole Venitienne.,673.0,90.9,False,positional,,Scuola Veneziana,OGGETTI IN LEGNO,,
 BO0624_5287,506742,427,420,N. S. (bois) — Fiorenso di Lorenzo.,677.0,93.3,False,positional,,,OGGETTI IN LEGNO,,
@@ -485,9 +485,9 @@ BO0624_5287,506798,483,577,Buste d’Ange en haut relief Ouvrage de Luca della B
 BO0624_5287,506799,484,578,Plat de Faenza representant la Creche. Petit Medaillon de la Grue representant La Vierge.,783.0,71.4,False,positional,,Scuola Faentina,PIATTI,,
 BO0624_5287,506800,485,579,Grand Vase — Castelli.,785.0,90.5,False,positional,,,VASI,,
 BO0624_5287,506801,486,581,Beau plat de Deruta a grand refet representant le - buste d’une jeune flle.,787.0,78.4,False,positional,,,PIATTI,,
-BO0624_5287,506802,487,582,Plat de Deruta representant S. Ierome. *584. Immense plat a reflet avec les Armoiries des Ducs d'Urbino dans le bord representant la Madeleine chez le Pharisien signe mastro Giorgio d' Agobio 1528.,790.0,89.3,False,positional,,,PIATTI,,Sec. XVI
+BO0624_5287,506802,487,582,Plat de Deruta representant S. Ierome. *584. Immense plat a reflet avec les Armoiries des Ducs d'Urbino dans le bord representant la Madeleine chez le Pharisien signe mastro Giorgio d' Agobio 1528.,790.0,89.3,False,positional,,,PIATTI,,
 BO0624_5287,506803,488,583,"Grande tuile plate a grand refet, representant la Vierge et l'enfant assis entre deux saints Eveques. Ouvrage sublime de mastro Giorgio et illustre par plusieurs ecrivains.",791.0,98.8,False,positional,,,FAJENCES ITALIENNES,,
-BO0624_5287,506804,489,584,Immense plat a reflet avec les Armoiries des Ducs d'Urbino dans le bord representant la Madeleine chez le Pharisien signe mastro Giorgio d' Agobio 1528.,,0.0,True,none,,,PIATTI,,Sec. XVI
+BO0624_5287,506804,489,584,Immense plat a reflet avec les Armoiries des Ducs d'Urbino dans le bord representant la Madeleine chez le Pharisien signe mastro Giorgio d' Agobio 1528.,,0.0,True,none,,,PIATTI,,
 BO0624_5287,506805,490,585,Plat de Fontana representant Tobie et I Arcange Ra. phael.,792.0,96.6,False,positional,,,PIATTI,,
 BO0624_5287,506806,491,586,Plat de Deruta representant le buste d'une jeune file avec inscription autour 《 Un bel morir tutta la vita onora &gt;.,793.0,98.3,False,positional,,,PIATTI,,
 BO0624_5287,506807,492,587,Statuette d'Ange a genoux - Ouvrage a reflet de mastro Giorgio.,794.0,39.5,False,positional,,,FAJENCES ITALIENNES,,
@@ -651,7 +651,7 @@ BO0624_5287,739559,649,1002,Belie plaque en bronze repousse Bambochade -- Travai
 BO0624_5287,739560,650,1003,Encensoire en bronze -- Travail du XIv.me,1069.0,93.8,False,positional,,,BRONZES,,
 BO0624_5287,739561,651,1004,Petit buste en bronze repr. Venus Travail du XV.me siecle.,1070.0,71.7,False,positional,,,BRONZES,,
 BO0624_5287,739562,652,1005,Beau mortier en bronze -- Travail du XV.m siecle.,1071.0,69.8,False,positional,,,BRONZES,,
-BO0624_5287,739563,653,1006,Vase en metal - Travail du XIV.me siecle. 1008 et 1009.,1072.0,80.9,False,positional,,,OGGETTI IN METALLO,,Sec. XI
+BO0624_5287,739563,653,1006,Vase en metal - Travail du XIV.me siecle. 1008 et 1009.,1072.0,80.9,False,positional,,,OGGETTI IN METALLO,,
 BO0624_5287,739564,654,1007,Vase en cuivre - Travail du XIv.m siecle.,1074.0,93.8,False,positional,,,VASI,,
 BO0624_5287,739565,655,1008 et 1009,Deux medaillons en bronze dore repr. deux portraits de papes - Travail du XVI.m siecle.,1075.0,67.2,False,positional,,,BRONZES,,
 BO0624_5287,739566,656,1011 et 1012,Deux croix byzantines en bronze dore.,1076.0,81.8,False,positional,,,BRONZES,,
@@ -661,7 +661,7 @@ BO0624_5287,739569,659,1017,Paix en metal argente Travail du XVI.me siecle.,1079
 BO0624_5287,739570,660,1014 a 1016,"Trois objets d'ornement en argent, en bronze et en cuivre emaille.",1080.0,89.5,False,positional,,,OGGETTI VARI,,
 BO0624_5287,739571,661,1018 a 1023,Six petits tableaux peints sur cuivre.,1081.0,83.1,False,positional,,,BRONZES,,
 BO0624_5287,739572,662,1024 a 1027,Quatre clefs anciennes dont une tres-remarquable.,1082.0,40.8,False,positional,,,BRONZES,,
-BO0624_5287,739573,663,1029,Haut relief en ivoire -- Travail du XI.me siecie. 1024 a 1027. Quatre clefs anciennes dont une tres-remarquable.,1083.0,72.2,False,positional,,,BRONZES,,Sec. XI
+BO0624_5287,739573,663,1029,Haut relief en ivoire -- Travail du XI.me siecie. 1024 a 1027. Quatre clefs anciennes dont une tres-remarquable.,1083.0,72.2,False,positional,,,BRONZES,,
 BO0624_5287,739574,664,1030,Statuette de la Vierge en bois et en ivoire. - Tra-,1084.0,94.9,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5287,739575,665,1031,Petit buste mutile de la Vierge en ivoire -- Travail du XII.me siecle.,1085.0,81.7,False,positional,,,BRONZES,,
 BO0624_5287,739576,666,1032,Beau fragment d’un Christ en ivoire. Travail du XVme siecle,1089.0,84.4,False,positional,,,OGGETTI VARI,,
@@ -693,7 +693,7 @@ BO0624_5287,739603,691,1078,Tablettes en ivoire.,1143.0,88.4,False,positional,,,
 BO0624_5287,739604,692,1079,Petit medaillon peint sur le verre.,1145.0,93.2,False,positional,,,BRONZES,,
 BO0624_5287,739605,693,1080 a 1084,Cinq objets differents en verre de Murano.,1147.0,87.2,False,positional,,Scuola di Murano,OGGETTI VARI,,
 BO0624_5287,739606,694,1084a,Petite cuvette et cruchon en verre de Murano.,1149.0,92.6,False,positional,,Scuola di Murano,BRONZES,,
-BO0624_5287,739607,695,1084b,Beau benitier en argent cisele aux armoiries papales et 1084.d Trente-cinq pierres dures gravees.,1151.0,67.1,False,positional,,,BRONZES,,Sec. XI
+BO0624_5287,739607,695,1084b,Beau benitier en argent cisele aux armoiries papales et 1084.d Trente-cinq pierres dures gravees.,1151.0,67.1,False,positional,,,BRONZES,,
 BO0624_5287,739609,696,1084c et 1084d,Trente-cinq pierres dures gravees.,1153.0,81.5,False,positional,,,BRONZES,,
 BO0624_5287,739610,697,1085 a 1092,Six gravures -S Sujets de religion.,1156.0,84.6,False,positional,,,GRAVURES ET DESSINS,,
 BO0624_5287,739611,698,1118 a 1121,Cinq gravures Sujets differents.,1158.0,83.8,False,positional,,,GRAVURES ET DESSINS,,
@@ -726,7 +726,7 @@ BO0624_5287,739640,724,1224 et 1225,Deux Statuettes en inarbre.,1215.0,80.0,Fals
 BO0624_5287,739641,725,1238 a 1241,Quatre petits troncs en marbre.,1217.0,83.3,False,positional,,,GRAVURES ET DESSINS,,
 BO0624_5287,739642,726,1226 a 1237,Douze panneaux en marbre et mosaique.,1219.0,85.7,False,positional,,,GRAVURES ET DESSINS,,
 BO0624_5287,739643,727,1242 a 1247,Quatre Coupes et deux Vases en marbre.,1221.0,86.0,False,positional,,,GRAVURES ET DESSINS,,
-BO0624_5287,739644,728,1250,Reproduction du sanglier de Florence. et 1249. Deux panneaux en marbre.,1223.0,66.1,False,positional,,,GRAVURES ET DESSINS,,Sec. XIII
+BO0624_5287,739644,728,1250,Reproduction du sanglier de Florence. et 1249. Deux panneaux en marbre.,1223.0,66.1,False,positional,,,GRAVURES ET DESSINS,,
 BO0624_5287,739645,729,1251 et 1252,Deux petites colonnes en marbre noir.,1227.0,84.7,False,positional,,,GRAVURES ET DESSINS,,
 BO0624_5287,739646,730,1253,Verre casse,1229.0,81.5,False,positional,,,GRAVURES ET DESSINS,,
 BO0624_5287,739647,731,1254,Petite lumiere en verre de Murano.,1231.0,93.0,False,positional,,Scuola di Murano,GRAVURES ET DESSINS,,

@@ -1,0 +1,303 @@
+## CONDITIONS DE LA VENTE
+
+Elle sera faite au comptant.
+
+Les acquereurs paieront dix pour cent en sus des encheres.
+
+Paris, Imp. de lArt, E. Moreau ct Ci, 41, rue de la Victoire.
+<!-- image -->
+
+## DESIGNATION
+
+## TABLEAUX
+
+HUBERT-ROBERT (Genre d)
+
+- Patre dans la montagne. Toile..
+
+## BOUCHER (Genre de)
+
+- —Portrait de Jeune Femme. 2
+
+Toile ovale.
+
+Cadre en bois sculpte doré.
+
+## BOUCHER (Genre de)
+
+- 3— Portrait de Jeune Femme tenant des roses.
+
+Toile.
+
+Cadre en bois sculpte dore.
+
+## SANTERRE (D'apres)
+
+- 4 — Portrait d'Homme.
+
+En buste, grande perruque et cuirasse. Toile.
+
+Cadre Louis XIV, bois sculpte doré.
+## ECOLE FRANCAISE du xvIne siecle
+
+## 5 L'Attente.
+
+Jeune femme, en deshabille galant, sur un lit de repos. Toile.
+
+## ECOLE FRANCAISE du xvie siecle
+
+6 — Portrait d'Homme.
+
+En habit bleu et gilet a broderie. Pastel.
+
+Cadre Regence en bois sculpte doré.
+
+## COUTURE (D'apres TH.)
+
+## —Les Romains de la decadence.
+
+Aquarelle.
+
+## FAIENCES ET PORCELAINES
+
+- Plat en ancienne faience italienne, a fond godronne en relief, decore au centre d'armoiries en couleur et au marli de rinceaux
+- a feurs et animaux.
+- Plat rond en ancienne faience d'Urbino, decore au centre d'un sujet guerrier tiré de l'histoire ancienne; marli a rinceaux feuris et amours.
+- Plat rond en ancienne faience de Deruta,
+- 10a refets metalliques,offrant, au centre, un buste de jeune femme, avec inscription sur une banderolle; marli a compartiments.
+- Grand vase, a couvercle, formant fontaine, I1 en ancienne faience de Nevers; il est orne, de chaque coté, d'un mascaron et decore, sur la panse, d'un sujet de chasse; frises de feuillages en bleu sur blanc.
+
+Haut., 85 cent.
+
+- 12 2— Grand vase, a couvercle, formant fontaine, en ancienne faience de Nevers, a deux anses doubles et ornementation en relief de mascarons, guirlandes, coquilles et feuillages. Le couvercle feurdelise est termine par deux consoles soutenant un petit buste. Décor bleu sur fond blanc.
+
+Haut., 93 cent.
+
+- —Deux bustes, grandeur nature, homme et 13 femme, en ancienne terre cuite émaillee en couleur, de fabrication rouennaise; ils reposent sur des piédouches, décorés, au centre, sur la face principale,d'une corbeille de fruits et, sur les faces laterales, de quadrillés en bleu, sur fond blanc.
+
+Haut., 65 cent.
+- ancienne faience de fabrication rouennaise, decorees en couleurs de motifs a palmettes, feurs et feuillages, sur fond blanc. Ces consoles peuvent
+- 4— Deuxconsoles-supports,ena 14 recevoir les bustes precedents.
+
+Haut.,5o cent.
+
+- 15 Statuette d'enfant-berger,tenant en ses bras un agneau, en terre cuite émaillee en blanc. xvile siecle.
+- 16 - Vase décoratif, a piédouche, en terre cuite émaillee en blanc, decoré en relief de pampres de vigne, de laurier et de feuilles. Il repose sur un fut de colonne cannelee avec base, orne de guirlandes de feurs. xvine siecle.
+- —Petite statuette en biscuit : La Folie. 17
+- 8— Petite statuette en biscuit:L'Enfant au
+- 18 tambour.
+- 19 一 Deux petites figurines en biscuit de Sevres : L'Enfant a la cage, d'apres Pigalle, et L'Enfant a la colombe lui faisant pendant.
+- 20— Groupe en biscuit, figurant la Fidelite: Jeune Femme, avec amour et chien. Socle en bronze cisele et doré, de style Louis XV.
+- 21
+- 22
+- 23
+- —Deux groupes en biscuit, figurant le Serment d'Amour et la Fontaine d'Amour d'apres les compositions de Fragonard. Socles en bronze cisele et dore, de style Louis XV.
+- — Corbeille ajourée et son plateau en porcelaine anglaise, decorée en bleu.
+- Deux corbeilles, avec couvercles et plateaux, en porcelaine anglaise, a decor bleu.
+- 24 Vase ovoide a deux anses et double couvercle, dont l'un ajoure, en porcelaine, decorée de feurs, oiseaux et dorures.
+- Paire de vases en porcelaine, decorée 25 dans le gout de Sevres, de feurs en couleur sur reseau en dorure.
+- 26 一 Paire de vases en porcelaine, decoree dans le gouit de Sevres, de motifs a arabesques orientales.
+- Petit pot couvert a anse, de forme cotelée, 27 一
+- en porcelaine, decorée dans le gout de Sevres.
+- 28 8— Cinq pots a creme couverts en porcelaine, decoree dans le gout de Sevres, de feurettes, medaillons et bandes bleues, pointillees d'or.
+- 29 — Bouillon, avec son couvercle et son presentoir, en porcelaine, genre Sevres, decoree sur fond lie de vin, de reserves a sujets de pastorales.
+- 3o — Deux petites coupes sur piédouche en porcelaine, décorée dans le gout de Sevres, sur fond bleu-turquoise, de feurettes en couleurs.
+- 31 一 Pot a creme en porcelaine tendre, decoree dans le gout de Sevres, d'une reserve blanche avec volatiles en couleur, sur fond bleu-turquoise.
+- 32 —Petit dejeuner, compose de deux tasses et soucoupes, theiere, sucrier et pot a creme,en porcelaine, genre Sevres, decoree sur fond rose de reserves a feurs.
+- 33
+- — Bouillon, avec son couvercle et son présentoir, en porcelaine tendre de Sevres, décoré en couleur de medaillons avec bustes de femmes, et ornements en dorure sur fond bleu-turquoise et rose.
+- 34 一 Vase pot-pourri et son couvercle en porcelaine tendre de Sevres, decorée sur fond bleu-turquoise de reserves blanches avec oiseaux en couleur.
+- 35
+- 5— Aiguiere et son bassin en porcelaine tendre de Sevres, decorée sur fond rose pique d'or, de rubans bleu-turquoise et de reserves a bouquets de feurs en couleur.
+- 36 — Deux coupes en porcelaine tendre de Sevres, decorees chacune sur fond gros bleu, pointille d'or, de rubans en vert et bordure d'or, et de trois reserves blanches avec bouquets de feurs en couleur. Montures en
+- bronze.
+- 37 Plateau, de forme rectangulaire, en porcelaine tendre de Sevres, a bords ajoures et festonnes, decore en couleur de lambrequins a feurs et rehauts d'or. Monture en bronze dore.
+- 一 Plateau, en forme de losange, a bords ajoures et festonnes, en porcelaine tendre de Sevres, decoré au centre d'un bouquet de feurs sur fond gros bleu, orne de dorures.
+- 38 Monture en bronze dore.
+- Petit vase couvert, forme d'un sucrier, en 39 ancienne porcelaine tendre de Sevres, decore, sur fond bleu-turquoises, de deux reserves blanches avec oiseaux en couleur. Monture en bronze.
+- Sucrier couvert en porcelaine de Vienne, 40— decoré de reserves blanches, avec bouquets
+- en couleur sur fond rose.
+- Bouillon a deux anses, avec couvercle et presentoir, en porcelaine de Vienne, decoré d'un lambrequin imbrique violet, rehausse de dorure et bouquets de feurs en couleur.
+- 41
+- —Deux figurines en porcelaine blanche de 42 Berlin : Jardinier et Jardiniere portant un gros fruit formant bonbonniere, a couvercle.
+- —Deux petits dejeuners, composés chacun 43 d'un plateau avec theiere, pot a creme, sucrier, deux tasses et soucoupes, deux cuillers en porcelaine de Berlin, decores de lambrequin et ornements en dorure, feurettes et chiffre D, en couleur.
+- Plat, douze assiettes et une corbeille en 44 一 porcelaine de Berlin, decores de feurettes en couleur et chiffres A. B. entrelaces.
+- 45 一 Service a cafe, compose d'une grande et d'une petite cafetiere, un sucrier, six tasses et soucoupes en porcelaine de Berlin, decores de guirlandes de feurettes en couleur et chif-
+- fres A. B. entrelaces.
+- 46— Statuette en porcelaine de Saxe : Jeune
+- Fille tirant a l'arc.
+- Deux groupes de deux personnages, a sujets pastoraux, en porcelaine de Saxe-Marcolini,
+- 47 一 decores en couleur.
+- 48
+- Groupe de trois personnages enguirlandant un vase, en porcelaine de Saxe-Marcolini, decore en couleur.
+- Boite rectangulaire en ancienne porcelaine 49 de Saxe, decoree, sur toutes ses faces, de sujets militaires; a l'interieur du couvercle, deux personnages sont assis aupres d'une tente. Monture a charniere en argent doré.
+- 5o— Boite rectangulaire en ancien émail de
+- Saxe, a decor en grisaille de sujets de personnages, dans le gout de Watteau.
+- 51— Boite en ancienne porcelaine de Saxe, dé-
+- coree de sujets, de paysages, avec figures.
+- — Moutardier couvert en ancienne porcelaine de Saxe, decore de bouquets de feurs en cou-
+- 52 leurs.
+- 53 — Soupiere a deux anses et couvercle, de forme ovale, en ancienne porcelaine de Saxe,
+decoree de medaillons a sujets de paysages et marines avec figures. Fond dore, avec ornements reserves en blanc.
+
+- 54 — Deux chiens carlins en ancienne porcelaine
+- de Saxe, decorés au naturel. Socles en bronze dore, de style Louis XVI.
+- 55 - Groupe de trois amours en ancienne porcelaine de Saxe, figurant les Sciences. Socle en bronze dore, de style Louis XV:
+- 56 — Deux petits vases-jardinieres, avec leurs plateaux, en ancienne porcelaine d'Amsterdam, a draperie en relief et medaillons avec
+- amour et feurs en couleur.
+- 57 一
+- Deux cache-pots en ancienne porcelaine de Nyons, decores de feurettes en couleur et en dorure.
+- 58 8—Deux figurines de Chinois en ancienne porcelaine tendre de Chantilly, decorées en couleur, sur socles en bronze, de style Louis XV.
+- 59 - Paire de grands cornets en porcelaine du Japon, decores en couleurs. Montures en bronze, de style Louis XV.
+## OBJETS DIVERS
+
+## ARGENTERIE
+
+- 6o — Bas-relief ancien, a double face, figurant
+- le Christ et la Vierge, en marbre sculpte.
+- Miroir a fronton en bois sculpte dore.
+- 19 Epoque de Louis XVI.
+- 62 — Peigne en metal doré, orné d'une plaque gravee en bas-relief, a figures, simulant un camee.
+- —Petit facon, formant cachet,figure par une statuette de femme, en ivoire sculpté, rehausse de couleurs, avec monture en metal
+- 63 grave et dore.
+- 64 — Cippe, en ivoire sculpte en bas-relief, d'une scene de combat antique; monture a anse, couvercle et base en argent dore.
+- 65-Medaillon-pendentif en or, enrichi de
+- pierres de couleur.
+- 66 — Tabatierc en écaille brune, posee et piquée
+- d'or, a dessins rocailles. Epoque Louis XV.
+- 67 — Bonbonniere ronde en écaille blonde cerclée de cuivre dore; elle est ornée sur le dessus d'une miniature du temps de l'Empire: Portrait de femme, en buste, dans un paysage, et au-dessous des initiales entrela-
+- cees M C decoupees en or.
+- 68 -Boite ronde en ancienne laque d'or du Japon, decoree de branchages et volatiles.
+- 69 一
+- Petite boite en ancienne laque d'or du Japon, montee en or. Etui en galuchat.
+- 70 一
+- -Boite, en forme de double coquille, en ancienne laque d'or du Japon.
+- 71 Petit coffret, ouvrant a deux portes, avec tiroirs a l'interieur, en ancienne laque d'or du Japon.
+- Chocolatiere en argent, avec double fond
+- 72 一 a eau chaude. Elle est a trois pieds a griffes et bec orne, agrementee de mascarons et palmettes. Commencement du xixe siecle.
+- 73 一
+- Cafetiere en argent, de style Empire, a trois pieds et bec a tete de chimere.
+- Deux aiguieres a vin en cristal taille. Mon-
+- 74—1 ture en argent fondu, ajouré et cisele, de style Louis XVI.
+## BRONZES D'ART ET D'AMEUBLEMENT
+
+## SCULPTURES
+
+## BRONZES DE BARYE
+
+- Statuette d'Homme assis. Bronze d'apres 75 Pantique. Socle en marbre.
+- —Statuette de Faune dansant. Bronze d'apres 76 l'antique.
+- Groupe de Silene et Bacchus enfant. Bronze
+- 77 d'apres lantique.
+- —Lion marchant. Bronze de Barre, a patine 78 verte.
+- —Lion marchant (modele different). Bronze
+- 79 de Barye, a patine verte.
+- 80
+- —Lion assis. Bronze de Barye, a patine verte.
+- 8o bis — Bronze de Mene : Le Piqueur.
+- 81 —Statue en marbre blanc : David, d'apres
+- Michel-Ange.
+
+Haut., 1 m.5 cent. environ.
+- 82 — Buste en marbre blanc, d'apres Chinard : Mme Recamier.
+- 83  Paire d’appliques Louis XVI en bronze.
+- 84—Paire de candelabres Empire,a quatre
+- lumieres portees par une figure de femme, debout, sur un socle, en bronze cisele et doré.
+
+## SIEGES
+
+## MEUBLES ANCIENS ET MODERNES
+
+- 85
+- -Fauteuil en bois sculpte, garni de tapisserie au point, de style Louis XIII.
+- 86—Quatre chaises, époque Louis XIV, en bois sculpte, recouvertes de soierie a rayures.
+- -Grand fauteuil en bois sculpté, époque
+- Louis XV.
+- 88— Petit canape Louis XVI en bois sculpte ciré.
+- 89 — Deux chaises en bois sculpte et dore, de style Louis XVI, avec sieges et dossiers re-
+- couverts de tapisserie d'Aubusson, a motifs
+- de feurs et rinceaux en couleur sur fond clair.
+- —Quatre fauteuils, époque Directoire, en bois sculpté et laque blanc,recouverts d'une
+- 90 etoffe jaune.
+- 91 - Cabinet a tiroir en bois noir, orne de cui-
+- vres decoupes. Epoque Louis XIll.
+- — Table a pieds en eventail en chene sculpte,
+- 92 de style Renaissance.
+- 93
+- Meuble en bois sculpte. Epoque Renaissance.
+- 94 - Meuble a deux corps en bois sculpte,
+- ouvrant a quatre portes et deux tiroirs. Renaissance.
+- Crédence en bois sculpte, ouvrant a porte et tiroir, decoree de cariatides et moulures
+- 95 一 ornementees. En partie du xvie siecle.
+- 96 一 -Table, de forme basse, en marqueterie d'écaille et de nacre, ouvrant a quatre tiroirs. Epoque Louis Xlll.
+- 97— Table, de style oriental, a quatre pieds
+- avec incrustations de nacre et de metal sur bois, ornee de moucharabieh a la ceinture.
+- —Horloge a gaine, ouvrant a porte, en bois 98 peint, a decor de personnages et ornements dans le gout chinois, avec rehauts de dorure.
+- Cadran metallique, xvie siecle.
+- -Petite table-bureau en bois de placage et
+- 99 一 marqueterie. Travail hollandais du xvine siecle.
+- 99bis Table a jeu, bois noir et bronzes.
+- Epoque Louis XIV.
+- Etagere en bois de placage. Epoque 100
+- 一 Louis-XV.
+- 101Grande vitrine, de style Louis XV,ouvrant
+- a deux portes, avec partie inferieure pleine, en bois de placage. Elle est richement ornee de cuivres dores, moulures et medaillons en bas-relief.
+- 102 一
+- Commode a trois rangs de tiroirs, avec avant-corps saillant en marqueterie de bois
+rose et autres, a motifs de flets et medaillons Heuris, vases et guirlandes de laurier, ornee Dessus de marbre. Epoque de bronzes. Louis XVI.
+
+- 103 — Secretaire droit, ouvrant a un abattant et deux portes, en marqueterie de bois de placage, orné, sur labattant, d'un medaillon ovale sous une large draperie; sur les portes, des feurettes, au milieu de carrelages, en bois divers. Dessus de marbre. Epoque Louis XVI.
+- ——t01 Petite table-bureau, de style Louis XV, en bois de violette, ornee de bronzes, avec quart-de-rond en cuivre a la ceinture.
+- 105—
+- Vitrine ouvrant a une porte,de style Louis XVI, en acajou, avec filets de cuivre. Dessus de marbre et galerie.
+- Ic6 — Grande commode, formant meuble d'entre-deux, en acajou, a quatre pieds en forme de faisceaux, avec griffes de lion. Riche garniture de bronzes dores; sur le devant un large trophee d'attributs militaires : bouclier, carquois, drapeaux, lauriers, etc. Dessus de
+marbre blanc. Copie du garde-meuble. Style Louis XVI.
+
+- 1o7 - Bibliotheque tournante en acajou et moulure de cuivre.
+- 1o8— Meuble de salon en bois sculpte peint gris, d'époque Louis XVI, couvert en ancienne tapisserie a feurs; compose de:un canape, quatre fauteuils et deux chaises.
+
+## TAPISSERIES ANCIENNES
+
+## TAPIS
+
+- 10g —— Serie de quatre tapisseries des Flandres, representant des scenes de combat, avec cavaliers, archers et de nombreuses figures. Fonds de paysages, remparts de ville et camps. Chaque tapisserie est encadree d'une large bordure, avec figures allegoriques, vases feuris, rinceaux et inscriptions. xvi siecle.
+
+Largeurs : 2 m. 40 cent.; 3 m. 15 cent. 3 m. 8o cent.;4 m. 45 cent.
+
+Haut.,3m.3o cent.
+- — Tapisserie famande, offrant une compo-
+- I10 sition a plusieurs personnages en riches costumes. Encadrement, a bouquets de feurs, fruits et feuiilages. Commencement du xvile siecle.
+
+Haut.,3 m.10.cent.; iarg.,2 m.45 cent.
+
+- Panneau de tapisserie des Flandres. Verdure, avec animaux au bord d'une riviere.
+- III xvll siecle.
+
+Haut., 2 m. 40 cent.; larg., 2 m. 55 cent.
+
+- 112 - Panneau de tapisserie des Flandres. Verdure, avec oiseau et fond de village. xvin
+- siecle.
+
+Haut., 2 m. 3o cent.; larg., 2 m. 8o cent.
+
+- 113— Tapisserie de la Manufacture d'Aubusson, figurant une scene de quatre personnages dans un paysage. Bordure d'encadrement, a fleurs, fruits et feuillages. xvie siecle.
+
+Haut., 2 m. 85 cent.; larg., 3 m. 10 cent.
+
+- 114 - Tapisserie de la Manufacture d'Aubusson,
+- representant dans un fond de paysage un fauconnier a cheval; volatiles au premier plan.
+Bordure d'encadrement, a feurs et feuillages. xvil siecle.
+
+Haut., 2 m. 40 cent.; larg., 3 m. 70 cent.
+
+- 115 - Tapisserie-verdure de la fabrique d'Aubusson. Bordure d'encadrement, a feurs en-
+- rubannees. xvine siecle.
+
+Haut., 2 m. 6o cent. ; larg., 3 m. 8o cent.
+
+- 116-
+- Tapis d'Aubusson.
+
+117 -- Carpette ancienne, orientale.
+
+118 — Objets non catalogues.

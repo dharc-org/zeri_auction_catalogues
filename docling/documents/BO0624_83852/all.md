@@ -1,0 +1,1131 @@
+## CONDITIONS DE LA VENTE
+
+Elle sera faite au comptant.
+
+Les acquéreurs payeront dix pour cent en sus des encheres.
+<!-- image -->
+
+## Tableaux Modernes
+
+## BASTIEN-LEPAGE
+
+N°1
+
+Orage sur la plaine.
+
+Un chemin qui serpente a travers la plaine; et, au-dessus du sol, un ciel obscurci dont les nuages versent des trombes d'eau. Sur le chemin, un chemineau s'avance a grands pas.
+
+Signe a gauche, en bas : J. Bastien-Lepage, Damvillers.
+
+Toile.Haut.,58cent.;larg.,8o cent.
+
+## BERNE-BELLECOUR
+
+N°2
+
+Au bastion.
+
+Signe a gauche, en bas : E. Berne-Bellecour, 72.
+
+Panneau.Haut.,27 cent.1/2;larg.,18 cent.1/2.
+## BOLDINI
+
+N3
+
+Un Joueur de trombone.
+
+Signe a gauche, vers le bas : Boldini.
+
+Panneau.Haut.,42 cent.; larg.,33 cent.
+
+## BONVIN
+
+N° 4
+
+## La Vieille servante.
+
+Elle est assise, un gros livre ouvert sur les genoux. Elle est vetue de noir,et porte un tablier bleua bavette.Pres d'elle, sur une table, dans une corbeille, des bas bleus et de la laine a repriser. A droite, un seau de cuivre. Elle tient ses besicles de la main droite.
+
+Signe a droite, en bas : F. Bonvin, 1884.
+
+Tolie.Haut.,45 cent.; larg.,31 cent. 1/2.
+## BONVIN
+
+N°5
+
+## Les Enfants de choeur.
+
+C'est pendant le preche. Pres du lutrin, sur le pupitre duquel est ouvert un antiphonaire in-folio, les enfants de chceur, vetus de rouge, sont assis. Ils sont cinq. Les deux premiers se laissent aller a un sommeil bienfaisant. Le troisieme, tournant la tete de face, regarde le public. Les deux autres, les yeux en dessous, causent a voix basse en se dissimulant.
+
+Signe a gauche, en bas : 1856, F. Bonvin, avec cette dedicace : A mon ami Gil-Perez.
+
+Toile. Haut.,27 cent.; larg., 35 cent.
+## BONVIN
+
+No 6
+
+## L'Ecole.
+
+La religieuse est a sa chaire, couverte d'un tapis rouge. Autour de la classe, les fillettes, en robe brune et bonnet noir, sont assises sur les banquettes basses et tiennent un livre ouvert sur leurs genoux. Au milieu de la classe, une des eleves est debout devant la chaire.
+
+Signe a droite, en bas : F. Bonvin, 1875.
+
+Panneau. Haut.,23 cent.;larg.,32 cent.
+
+## BOUDIN
+
+N°7
+
+Le Havre.
+
+Signe a droite, en bas : E. Boudin, 94.
+
+Panneau.Haut., 4o cent.; larg.,32 cent.
+## BOUDIN
+
+No8
+
+## Le Port d'Anvers (Tete de Flandre).
+
+L'embouchure de I'Escaut, large, avec des milliers de petites vagues a la crete brodee d'une mince écume. Les steamers, les paquebots, les sloops de peche et les barques s'agitent a sa surface, glissent, se croisent, les voiles gonfees de vent, les cheminees refoulant d'épais nuages de fumee. A droite, au fond, pres des quais, toute une fotte est amarree. Au haut des mats, des pavois agitent leurs fammes bariolees. Au-devant du ciel bleu, des nuages s'envolent, gris et blancs, en un tohu-bohu tragique, ou l'eil d'un observateur se plait a decouvrir des formes incessamment variees.
+
+Signé a droite, en bas : E. Boudin, 76, Anvers.
+
+Toile. Hau., 6g cent., larg, 98 cent.
+## CAZIN
+
+Depuis l'heure tragique de la mort du grand artiste, en ce coin de Lavaudou ou il s'en était alle chercher le calme et le recueillement, on navait pas vu passer en vente des ceuvres si importantes de lui. Et voici que l'admirable serie de tableaux reunis par un des amateurs qui surent, des le debut, admirer le genie du maitre, nous fournit l'occasion d'etudier sommairement ce que fut son ideal,ce que fut son mode d'interpretation delanature.
+
+On a prononce, a tort, a mon sens, des noms de peintres a cote du sien:tout essai de comparaison, de rapprochement,me semblevain;Cazin etait lui-meme,avec une extraordinaire intensite de personnalite; sa matiere, sa maniere, ses preparations, qui sont souvent des chefs-d'ceuvre, lui appartiennent en propre et revelent l'admirable surete de son art. Quant a son inspiration, je ne crois pas quun artiste, si ce n'est Corot, l'ait suivie avec plus de fidelite, plus dunite, et ne l'ait developpee plus magnifiquement, sans arret, sans stagnation, avec une volonte plus manifeste de s'elever toujours. Il a aime les aubes et les crepuscules, les petites chaumieres dominant les falaises, les plaines, les landes, les plages abritees, ou la vague deferle sans fracas ; il n'a pas ete le narrateur claironnant du bruit;il est l'apotre de la melodie;il s'emeut devant les ciels ou le soleil ne transparait qu'a travers l'ouate des nuees, ou la lune, dans une lumiere attenuee, dessine son petit croissant aux reflets argentes; il s'emeut devant le mur au crepi rude, perce d'une fenetre éclairée, qui semble un eil de feu dans le soir qui tombe ; autour, c'est le grand silence; parfois, un grillon vibre parmi les meules ; tres loin, tres loin,un chien aboie, dont le vent apporte la voix presque imperceptible ; mais il y a, dans ce sommeil des choses, et sur ce sommeil,une flamme qui veille,la petite lampe dont le
+vacillement rouge met un regard fauve derriere les vitres. Et c'est une melancolie poignante dans cette nature, dont le peintre a tout compris, tout note, parce qu'il s'y est attendri, parce qu'il a compare les minutes de la vie humaine aux minutes de la vie éternelle, qui se recommencent pendant des siecles et des siecles, sans les artifices mensongers des villes. O les campagnes de inscrites dans son ceuvre! O ces poemes de couleurs, qui chantent aux yeux de tout leur euchromatisme exactement observe, qui chantent au coeur de toute leur émotivitevecue!
+
+Avec sa sensibilite si mobile, Cazin, lorsqu'il prenait la figure humaine,devait chercher celle qui s'harmoniserait le mieux avec le mode de son paysage: il prit les figures de l'Ancien et du Nouveau Testament ; —telle la Vierge dans la Fuite en Egrpte, plus loin decrite, ——il y trouvait les types generalises des vicissitudes terrestres; c'étaient les humbles qu'il savait replacer dans le cadre de leur gehenne eternelle, de leur eternelle angoisse.Il ne s'est pas embarrasse d'un effort archeologique :hommes, il les a demandes a l'humanite,non a l'histoire,et il nous les montre vrais, vivants, pleins des passions qui les ont agites, qui les agitent toujours dans les livres sacres, et qui en font des acteurs actuels incessamment dans la bible de I'humanite. Qu'importent les noms ? A travers les ages, ils sont toujours les memes, hautainement esclaves des servitudes d'ici-bas ; et ce sont eux, ainsi compris, que Cazin, penseur profond, a reintegres,— je ne dis pas ressuscites — dans I'ambiance ou ils n'avaient cesse de vivre. Au point de vue de la technique meme, Cazin ne s'impose pas a notre admiration seulement par ses tableaux, mais aussi par ses preparations de tableaux et par ses dessins, ou se revele une etude a la fois savante et libre, toujours forte et originale.
+
+Il faut les regarder attentivement, ces ceuvres de Cazin, si bien choisies,tableaux,preparations et dessins dont quelques-uns sont vraiment des chefs-d'euvre;on sent, a l'impression vibrante qu'ils provoquent, pourquoi Cazin est bien de ceux qui, dans le dernier quart du xixe siecle, ont le mieux merite de lart francais.
+## CAZIN
+
+N°9
+
+## Chateau-Rouge.
+
+A la lisiere d'un bois,le long de la route, on a amene les troncs d'arbres abattus, deja debites en bille. Sur la route, a droite, une paysanne s'éloigne, poussant une brouette. Son profil se dessine sous un petit bonnet blanc, et le gris passe de son caraco tranche sur le ton de sa jupe brune. A gauche, le Chateau-Rouge, l'humble construction peinte en blanc et rouge, sous sa coiffure de tuiles,et accolee a une masure aux crepis fouettes par les averses. Plus loin, vers la droite,une bicoque en briques et torchis,autour de laquelle s'elevent de grands arbres aux panaches balances, et, plus loin encore, les futaies et les arbres du bois. Au premier plan, a gauche, pres des troncs qu'on a roules sur les herbes folles, du cote de la route, un charpentier est a sa besogne, tandis que, grimpe sur une échelle, accroche au faite du toit, un couvreur remet de l'ordre dans les tuiles disjointes. Le ciel est encore embrume,mais on devine,au pale rayon de soleil qui caresse le mur, que l'azur va bientot paraitre. Les nuees flottent encore pour permettre simplement a la lune de disparaitre dans le jour qui monte.
+
+Signe a gauche, en bas : J.-C. Cazin.
+
+Toile. Haut., 1 m. o7; larg., 1 m.25.
+## CAZIN
+
+N°10
+
+## La Fuite en Egypte.
+
+Un sol mouvemente: des herbes rudes et, dans le fond, des collines aux fancs desquelles des sentiers sont traces. A droite, la Vierge, portant l'Enfant Jesus, laisse aller son ane qui broute : elle est vetue d'une limousine brune, qui tombe sur le tapis rouge fonce de la selle. Plus loin, saint Joseph, sa besace sur le dos et peinant de la longue marche épuisante. La Vierge est vue de dos, la tete tournee de profil a gauche. Autour des trois figures, lauréole symbolique dessine son disque d'or. Le ciel est gris, quelques oiseaux le ponctuent de leur vol rapide. Il y a dans cette ceuvre ce grand sentiment d'humanite que Cazin fait s'épanouir en ses pages bibliques. Ce ne sont plus des personnages qui passent. C'est la gehenne d'ici-bas qui poursuit sa marche a travers les siecles.....
+
+Signe a gauche, en bas : J.-C. Cazin, 1877.
+
+Toile. Haut., 98 cent.; larg, 1 m.30.
+## CAZIN
+
+No1I
+
+## Route Louis XV.
+
+A gauche, la route qui s'étend en suivant les vallonnements du sol. Elle est bordee, a gauche par la foret, a droite par des champs en remblais, le long desquels s'alignent de grands arbres. Dans les premiers plans,a lendroit ou un chemin coupe la route, un homme s'avance,foulant de son pied lourd et las les herbes rares. ll est vetu d'un pantalon brun et d'une vieille jaquette grise. Il est coiffe d'une casquette et porte sous le coude gauche, suspendue par une courroie a l'épaule,un boite d'outils. C'est le chemineau qui s'en va de hameau en hameau, cherchant,pour des heures de travail incertaines, les ressources de sa misere certaine. A gauche, dans le ciel ennuage, s'allume le croissant de la lune. A droite,au-dessus de I'horizon ou s'indiquent des massifs d'arbres,les dernieres lueurs du soleil couche dessinent dans les nuees sombres de chaudes clartes.
+
+Signe a gauche, en bas : J.-C. Cazin.
+
+Toile. Haut., 95 cent.; larg, 97 cent.
+## CAZIN
+
+N°12
+
+## Le Zuiderze en Hollande.
+
+Au premier plan,un chemin trace dans I'herbe rude et borde par une rangee de briques ; puis de l'eau, de l'eau transparente et limpide, qui sétend jusqu'a l'horizon en nappe frissonnante. Trois barques a voiles y evoluent sous un ciel mouvemente ou s'allument des clartes fauves. A droite, sur la rive opposee, un sol herbeux dessinant un coude, et a la surface plate duquel, parmi des massifs d'arbres, sont construites des maisonnettes coiffees de tuiles rouges. Leurs refets se melent aux reflets du ciel et semblent s'enfoncer dans I'eau.
+
+Signe a gauche, en bas : J-C. Cazin.
+
+Toile.Haut.,55 cent. 1/2; larg,46 cent.
+
+## CAZIN
+
+N°13
+
+## Le Soir sur la falaise.
+
+Le soir descend : seules les parties hautes du ciel demeurent éclairees. Au-dessus de l'horizon, qui semble plonger dans la mer bleue, de grands nuages passent. Au premier plan, dominant la falaise et blotties dans un deblai de sol aux roches vetues de mousses, les maisonnettes apparaissent basses sous leurs toitures de tuiles brunes. Nul étre vivant n'apparait. Le silence et le recueillement partout. Seul le vent qui passe doit gemir, le vent qui balance au loin, sur la mer, une barque a voiles apparue comme un oiseau de nuit.
+
+Signe a droite, en bas : J.-C. Cazin.
+## CAZIN
+
+No14
+
+## Au dela de Zaandam.
+
+Une plaine qui s'etend au loin, et au-dessus de laquelle plane un vaste ciel tout agite de nuees grises et rosees. Les premiers plans sont traverses par une riviere, au bord de laquelle une vache noire est en train de se desalterer. A droite, un bouquet d'arbres est plante au bord de l'eau. Vers la gauche, des moulins se dressent, ayant a leur base des maisonnettes coiffees de tuiles rouges. Entre les deux moulins les plus rapproches, une ligne de lumiere blonde rampe sur le sol aux herbes fauchees.
+
+Signe a gauche, en bas : J-C. Carin.
+
+Toile. Haut., 6o cent.; larg, 73 cent.
+## CAZIN
+
+N°15
+
+## L'Abreuvoir.
+
+C'est vers la fin du jour :le soleil disparu embrase de reflets roses les nuees qui s'envolent au devant du ciel clair,et sur les murs des maisonnettes alignees au bord de la route, quelques rayons glissent encore. Au premier plan,a gauche, l'abreuvoir offre son miroir profond aux jeux de deux canards. A lextremite,un ouvrage d'art en pierres et ciment s'arrondit en demi-cercle, et les gens du pays y viennent prendre le frais. A droite, un chemineau est assis sur un garde-fou de pierre, au pied duquel descend une rampe. Au fond, passe la route, bordee, d'un cote,par les petites maisons aux toitures de tuiles rouges ou brunes et, de I'autre, par un mur, au-dessus duquel s'elancent les frondaisons d'un arbre. A droite, au fond, une porte de ferme, ouverte.
+
+Signe a droite, en bas : J.-C. Cazin.
+
+Toile. Haut., 8o cent.; larg, 1 metre.
+## CAZIN
+
+N°16
+
+## Mont Saint-Frieux, pres d’ Equihen.
+
+Au premier plan, entre de grandes herbes,une mare vers laquelle descend un terrain en pente douce, puis un talus verdoyant au-dessus duquel serpente un sentier qui s'en va tournant vers la droite. Au fond, sous un ciel ou de grands nuages transparents sont balayes par le vent, le terrain dessine des monticules au sol parfois chauve de yerdure. A droite,a l'endroit ou le sentier tourne, une route passe, bordee de chaque cote de grands arbres aux frondaisons deja brulees par le soleil d'éte.
+
+C'est le calme, c'est le recueillement de la nature heureuse, épanouie; seuls, vivants et agites dans cette harmonie claire, des oiseaux traversent le ciel.
+
+Signe a gauche, en bas : J.-C. Cazin.
+
+Toile.Haut., 66 cent.1/2;larg., 8o cent. 1/2.
+## CAZIN
+
+No17
+
+## Vieille tour espagnole en Flandre.
+
+Nuit d'été, nuit étoilee,avec de grands nuages qui fuient rapides dans l'infini. Au fond, les maisons construites au bord de l'eau et dans l'eau, qui occupe les premiers plans, de profonds refets frissonnants. Vers la droite, des fenetres sont éclairees. Plus a droite encore, une petite lumiere brille derriere un carreau.
+
+Une grande lumiere lunaire illumine, dans cette ombre, une antique construction en forme de tour.
+
+Signe a gauche, en bas : J.-C. Cazin.
+
+Toile. Haut.,38 cent.; larg, 46 cent.
+
+## CAZIN
+
+N°18
+
+## Le Hameau sur la falaise.
+
+A droite, émergeant du creux de la falaise,les toitures des maisons du hameau. A gauche, le sol herbeux, et, a l'horizon, sous le ciel largement ennuage et marque d'une lueur de feu, la mer,la mer immense, sur le fot de laquelle se balancent quelques barques de pecheurs.
+
+Signe a gauche, en bas : J.-C. Cazin.
+
+Toile.Haut., 33 cent.; larg,41 cent.
+## CAZIN
+
+N°1g
+
+## Zaandam.
+
+Au premier plan, a gauche, l'eau coule claire, transparente, pleine des reflets du ciel et du sol; a droite, de l'autre cote d'une cabane de pecheurs, un bois s'avance jusquau bord de I'eau. Les arbres ont des frondaisons legeres, dont l'harmonie chante sous un ciel embrase par les feux du soleil couchant. Plus loin que le bois, en suivant la rive,et dominant les toitures de tuiles rouges de quelques maisonnettes, un moulin se dresse.
+
+Signe a gauche, en bas : J.-C. Cazin.
+
+Toile. Haut., 5o cent.; larg., 6o cent.
+## CAZIN
+
+N°20
+
+## La Lecture.
+
+A la porte de la chaumiere,une jeune femme s'est assise sur le sol et, se servant d'un revers de talus en guise de pupitre, elle lit.Autour d'elle, des arbres et des herbes fleuries.
+
+Signe a gauche, en bas : J.-C. Cazin.
+
+Toile.Haut.,36 cent.;larg.,27 cent.1/2.
+
+## CAZIN
+
+N°21
+
+## Venise.
+
+Un coin de canal, le soir. La lune, qui allume son croissant dans le ciel assombri, promene des refets pales sur le mur d'un palais et a la surface de l'eau. A gauche, le long du palais, les pilotis d'amarre des gondoles. Quelques s lanternes bariolees indiquent sur le canal des promenades de plaisance, tandis qu'au fond, dans la penombre, l'autre rive du canal aligne ses constructions.
+
+Signe a droite, en bas : J.-C. Cazin.
+## CAZIN
+
+N°22
+
+## Une Ferme aux environs d'Anvers.
+
+Au premier plan,un carre de choux, ou des paysannes sont au travail. Vers la droite, un champ ou le faucheur a passe et sur le sol duquel on a dresse et aligne des dizeaux.Au fond, blotties parmi les arbres, dont les panaches se balancent sous le ciel clair, les fermes, diversement orientees, apparaissent coiffées de tuiles rouges ou brunes. Un dernier rayon de soleil vient ramper sur le sol, sur les toits et sur les frondaisons, tandis que dans la nuee transparente la lune dessine son croissant argente.
+
+Signe a droite, en bas : J.-C. Cazin.
+
+Toile.Haut.,36 cent.; larg., 56 cent.
+
+## CAZIN
+
+N°23
+
+## Soleil couche a Equihen.
+
+Du haut de la falaise, dont le versant s'enveloppe d'ombres, on apercoit, au loin, la mer calme, a la surface de laquelle se balancent quelques barques a voiles. Au-dessus de I'horizon, plus haut qu'un large ruban de nuages sombres, le ciel apparait tout
+
+Signe a droite, en bas : C. Cazin.
+
+illumine des tardives lueurs du soleil disparu.
+
+Toile.Haut.,45 cent.;larg.,55 cent.
+## CAZIN
+
+No24
+
+## Le Nuage.
+
+Le sol vallonné est herisse de hautes herbes battues par le vent. Au fond, a droite, on apercoit la vallée boisee. Puis, audevant du ciel clair, ce sont d'immenses nuees blanches et fauves qui roulent, laissant a decouvert, vers la gauche, un pan d'azur.
+
+Signe a droite, en bas : J.-C. Cazin.
+
+Toile.Haut.,28 cent.;larg.,27 cent.1/2.
+
+## CAZIN
+
+N°25
+
+## Le Soir.
+
+Les collines entourent un étang oui vont se desalterer les vaches.Au-dessus descollines, le ciel bleu plane derriere les transparences blondes et rousses de nuees, tandis que la lune émerge, disque d'argent, de blancheurs agitees.
+
+Signe a gauche, en bas : J.-C. Cazin.
+
+Toile.Haut.,17 cent.;larg.,22 cent.
+
+## CAZIN
+
+N°26
+
+## Hameau au bord de la mer.
+
+A droite, dominant la falaise,les maisons du hameau.A gauche, la mer qui s'etend jusqu'a 1'horizon et balance une barque a voiles ; le ciel est gris avec de larges trainees fauves.
+
+Signe a droite, en bas : J.-C. Cazin.
+
+Panneau. Haut.,22 cent.； larg., 32 cent.
+## CAZIN
+
+N°27
+
+## La Plaine d'Arbonne.
+
+Les champs laboures, puis des plants de choux.Au premier plan, a droite, une paysanne suit le bord du sillon.Plus loin, vers la gauche, travaillant dans le plant des choux, une autre paysanne, le corps plie en deux. Plus loin encore,une meule.A droite,au fond,une meule sur un rideau de bois. Et au-dessus de cette plaine,un ciel immense,au-devant duquel les nuagesjouent leur plus belle feerie.
+
+Signe a gauche, en bas : J.-C. Cazin.
+
+Panneau.Haut.,32 cent.; larg, 4o cent.
+
+## CAZIN
+
+N°28
+
+## La Route.
+
+A gauche, derriere un massif d'arbres,les maisons d'une ferme en bordure de la route qui tourne. Au premier plan, la route ou le passage des fardiers a creuse des sillons. A droite, d'autres arbres encadrant d'autres maisons. Dans le ciel ou
+
+Signe a gauche, en bas : J.-C. Cazin, 1899.
+
+planent de claires nuees, une étoile allume son clou d'or.
+
+Preparation pour un tableau.
+## COROT
+
+No29
+
+## Le Temple de la Sibylle,a Rome.
+
+Sur le ciel clair ou courent de legers nuages blancs,le temple de la Sibylle dresse son architecture elegante. Au fond, on apercoit, a droite, un massif de verdure ; a gauche, le clocher carre d'une eglise.
+
+Signe a gauche, en bas : Corot, 1836.
+
+Toile.Haut.,37 cent., larg.,26 cent,
+
+## CONDER
+
+N30
+
+Lac d'Ecosse.
+
+Signe a droite, en bas : Conder, 1899.
+
+Toile.Haut.,64 cent.; larg,75 cent.
+## DAGNAN-BOUVERET
+
+Les ceuvres de Dagnan-Bouveret qui sont plus loin cataloguees offrent a l'attention des connaisseurs une des faces les plus seduisantes du talent du maitre. Ses grandes toiles : la Vierge, les Disciplesa Emmaiis,la Cene,leDepart des conscrits,et tant d'autres,ont montre le peintre dans sa recherche de composition et dans son souci d'exprimer completement des idees complexes. Dans ses portraits, qui contribuerent si justement a établir sa reputation,il s'est acquitte, en coloriste distingue et en psychologue, de cette rude besogne qu'est la representation de contemporains, quine pratiquent pas toujours le《 Connais-toi toi-meme ） du philosophe grec, et imaginent d'eux des images de legende contre lesquels la conscience d'un artiste se voit obligee de combattre avec tact et courtoisie.
+
+Mais dans ses petits tableaux, dans les morceaux d'art qu'il a executes au hasard de l'inspiration, en pleine liberte de pensee et en pleine joie de peindre, il y a une émotion de plus. Ces ceuvres-la nous permettent de mieux comprendre l'art robuste et sain de M. Dagnan-Bouveret. Ses simples figures des champs nous apparaissent dans leur grace naturelle, sous l'air qui vibre, avec cette verite, affranchie de toute complication,qui est si pres de la simplicite religieuse des evocations bibliques. Leur geste humain, qui n'a plus pour mission que de traduire la vie humaine, avec ce que la nature y a mis de beaute, nous arrete et nous amene a les contempler; plus de symbole qui nous incline a la meditation et nous contraigne a un effort d'analyse, pour en avoir la comprehension essentielle; plus d'elements sociaux, qui nous empechent de separer completement la tache de l'art du modele qui s'est impose a son interpretation ;
+nous sommes introduits dans l'intimite d'une ame qui observe, qui écoute sa sensibilite, d'un temperament qui se livre, d'une vision qui se plait a de claires transpositions de tons et de valeurs, et nous sommes heureux des memes joies que connut l'artiste, alors qu'il concevait et executait ces morceaux d'anthologie, sortes de preludes a de plus amples symphonies.
+## DAGNAN-BOUVERET
+
+No31
+
+## A la fontaine.
+
+Au bas de la maison, la fontaine dresse sa stele de pierre et son auge. Sous le robinet, une jeune fille a place sa cruche en terre vernissee verte et elle cause avec des femmes, l'une assise, deux autres debout, qui attendent leur tour de prendre de l'eau. Elles sont vetues d'un costume pittoresque: tablier a bavette, corsage noir, guimpe et coiffe blanches.A droite,au bas d'un escalier,une vieille femme est assise,le menton dans la main gauche,la main droite aux doigts ankyloses abandonnee sur le genou; pres d'elle, elle a pose son baton. Et tandis quau bruit de la fontaine elle entend se meler le babillage espiegle des filles, elle refechit, elle songe, elle se souvient..... Au haut de lescalier, par une porte entrouverte, un chat tachete de blanc vient flairer le vent. A gauche, en haut, sur le rebord d'une fenetre,un pot de fleurs attend le prochain rayon du soleil. Derriere les figures,le mur se dresse, torchis et pierre aux fissures duquel se sont accrochees des mousses parasites.
+
+Signe a gauche, en bas : P.-A.-I. Dagnan-B., 1go3.
+
+Toile.Haut.,5g cent.;larg,45 cent.
+## DAGNAN-BOUVERET
+
+## N°32
+
+## Bretonne,
+
+Elle est vue presque de face, debout jusqu'a mi-jambes. Elle est adossee a une haie. Son bras droit pend naturellement; le bras gauche est ploye sur la haie et la main tient une branche de genet. Elle est vetue d'un tablier a rayures blanches et a bavette sur son corsage noir, d'une guimpe blanche et d'une coiffe de meme couleur. Derriere elle, de l'autre cote de la haie, on apercoit un champ traverse par une riviere, puis, a lhorizon, une colline sous un ciel gris.
+
+Signe a droite, vers le bas : P.-A.-I. Dagnan-B., 18g3.
+
+Ce tableau a éte grave par Ch. Waltner.
+
+Toile.Haut.,65 cent.;larg,47 cent.
+## DAGNAN-BOUVERET
+
+No33
+
+## La Gardeuse de vache.
+
+Dans un pre aux herbes vertes, qui s'étend jusqu'a l'horizon, sous un ciel gris, une paysanne, vetue d'un jupon brun et protegeant sa tete sous les plis de sa jupe bleu fonce relevee, ou elle sencapuchonne a laide de la main gauche, tient de la main droite la longe de sa vache grise qui broute : la bete renifle de son museau I'herbe mouillee et se bat les flancs de sa queue.
+
+Signe a droite, en bas : P.-A.-I. Dagnan-B., Demoy.
+
+Toile. Haut., g6 cent.;larg, 91 cent.
+## DAGNAN-BOUVERET
+
+No34
+
+Une Rue a Alger.
+
+Signe a gauche, en bas : I. Dagnan-B.
+
+Date a droite, en bas : Alger, 1888.
+
+Toile. Haut.,41 cent.; larg., 26 cent.
+
+## DELASALLE
+
+No35
+
+Les Vieilles maisons au bord du canal, a Rotterdam.
+
+Signe a gauche, en bas : H. Delasalle.
+
+Panneau. Haut., 1g cent., larg,26 cent.
+## DELASALLE
+
+No36
+
+La Seine a Paris.
+
+Toile. Haut.,54 cent.; larg.,8o cent.
+
+## DELASALLE
+
+No37
+
+Lever de lune.
+
+Toile. Haut., 6o cent.; larg., 85 cent.
+
+## DELASALLE
+
+No38
+
+Bords de canal (Amsterdam).
+
+Signe a gauche, en bas : A. Delasalle.
+
+Panneau. Haut., 24 cent. 1/2; larg., 3o cent.1/2.
+## DIAZ
+
+No39
+
+## Clairiere dans la foret.
+
+Les grands arbres s'écartent et laissent le bon soleil dorer le sol tout vetu d'herbes. Sur les écorces luisantes et rudes, des trainees de lumiere blondissent. Entre les frondaisons balancees, on apercoit de place en place l'azur du ciel radieux. Au premier plan, une petite mare offre son clair miroir aux reflets qui s'y veulent baigner.
+
+Signe a gauche, en bas : N. Diaz.
+
+Panneau.Haut.,15 cent.;larg.,22 cent.
+## EDELFELT
+
+N° 40
+
+En barque.
+
+Signe a droite, en bas : A. Edelfelt.
+
+Toile. Haut.,45 cent.; larg,42 cent.
+
+## FANTIN-LATOUR
+
+N° 41
+
+## Pensees.
+
+Sur une table, on a pose, pres d’une branche de pommes d'api, une bourriche et deux petits pots de pensees.
+
+Signe a droite, en haut : Fantin, 74.
+
+Toile. Haut.,47 cent.;larg,55 cent.
+## FRIANT
+
+Beaucoup se tiennent pour sufisamment renseignes quand ils entendent dire que M. Friant a suivi la voie inauguree par Bastien-Lepage. Encore que cette proposition ne soit pas parfaitement exacte, il y a dans l'art de M. Friant des qualites qui lui sont absolument personnelles, et dont il a donne, il y a longtemps, la mesure, en son celebre tableau, la Toussaint, aujourd'hui
+
+M. Friant est un peintre precis, dont le metier va jusqu'a I'habilete, sans cependant se priver du charme que donne a l'expression une facture large. S'il place bien ses figures dans l'atmosphere qui leur convient, et qui les peut mettre en relief, s'il leur donne l'accent qu'elles doivent avoir dans l'équilibre de la composition, il les établit, quant au dessin, avec une exactitude telle, qu'il épargne au spectateur le moindre effort d'imagination, pour en continuer l'expression et en degager le sens. Et c'est la la caracteristique de la maniere de M. Friant. Pour atteindre a cette écriture de sa pensee, determinee sans secheresse, il en a concentre la formule et il est arrive a traduire sa vision incisive aussi completement et aussi parfaitement qu'il est possible a de la couleur de le faire. C'est de la verite spontanee,instantanee, qu'il nous montre: la vie ne se presente pas dans son ceuvre aspectreel.
+
+au musee du Luxembourg.
+
+Les tableaux de lui, qui sont plus loin decrits, en temoignent amplement, et ils s'imposent a l'attention des amateurs par la vigueur de leur euchromatisme, et la haute probite d'art de celui qui les a signes.
+## FRIANT
+
+N°42
+
+## Les Pommes de terre.
+
+Dans un interieur ouvrier, la menagere, vue de profil a droite, apporte sur la table un plat de pommes de terre. A droite,deux jeunes filles assises,en caraco rouge,et une gamine, egalement assise de l'autre cote de la table au fond, regardent les legumes avec un air de convoitise. Au premier plan, une fillette, appuyee contre sa grande soeur, espere sa part du regal. A gauche, un homme, une main sur la table, tourne la tete et repose le coquemart dans lequel les pommes de terre ont éte cuites. Les figures se detachent sur le fond gris du mur, auquel on voit suspendus quelques oignons et une cage a oiseaux.
+
+Signe a gauche, en bas : E. Friant, 94.
+
+Panneau. Haut., 3o cent.; larg., 38 cent.
+## FRIANT
+
+No43
+
+## En barque.
+
+Au bord du lac, des roches se dressent majestueuses et sauvages et voici que passe une barque a voile. Une jeune femme est assise a la barre. Elle est vetue de blanc, elegante et fine; a ses pieds, un homme jeune est assis et reve.
+
+Signé a droite, en bas : E. Friant, 1895.
+
+Panneau.Haut., 5o cent., larg., 61 cent.
+## FRIANT
+
+N°44
+
+## Le Dernier jour d’un condamne.
+
+Dans la cellule, l'homme qui va mourir est assis, la tete écroulee sur la poitrine; devant lui, un vieux pretre, qui vient de dire la messe, dessine de sa main droite un geste d'absolution; pres du pretre, un enfant de cheur regarde, ému, cette scene tragique. Dans le fond, la foule des assistants. Au premier plan, a droite, les gardiens et les gens du greffe.
+
+Signe a droite, en bas : E. Friant, 1900.
+
+Panneau. Haut.,4o cent.; larg.,61 cent.
+## FRIANT
+
+No 45
+
+## Le Mendiant.
+
+A l'entree d'une eglise, pres d'un pilier dont la pierre est sculptee, un mendiant est assis. Il est vu de trois quarts a gauche et sommeille, la tete protegee par un vieux capuchon. Pres de lui son chien est assis. A gauche, par le porche ouvert, on apercoit le sanctuaire dont les fenetres en ogive sont garnies de vitraux, et, dans le sanctuaire, deux figures enveloppees d'ombre qui prient au pied de l'autel.
+
+Signe a droite, en haut : Friant, 87.
+
+Toile.Haut.,65 cent.;larg,47 cent.1/2.
+
+## FRIANT
+
+N°46
+
+## Dans la grotte.
+
+Au premier plan, le sol crayeux d'une ancienne carriere. Au fond, une muraille de roches ou se creuse une grotte. A l'entree de l'excavation, un pauvre homme s'est assis, la tete grave, les mains jointes.
+
+Signe a droite, en bas : E. Friant, 90.
+
+Panneau.Haut., 2g cent.; larg.,35 cent.
+## FRIANT
+
+N°47
+
+## Aux environs de Tunis.
+
+A gauche, a lombre, dans une chambre de verdure, deux jeunes enfants causent et rient. L'un est assis sur un banc de piere, l'autre est debout; a droite, on apercoit des champs e dominent des constructions cultives, puis une montagne que blanches, sous un ciel bleu tendre.
+
+Signe a gauche, en bas : E. Friant, 87.
+
+Toile. Haut.,45 cent.; larg.,52 cent.
+
+## FRIANT
+
+N°48
+
+## Le Souck des tailleurs, a Tunis.
+
+Au premier plan, c'est la ruelle; un homme y passe, conduisant un chien blanc; un autre vient d'arreter son ane et remplit une corbeille d'oranges qu'il puise dans les sacs suspendus au bat. Dans le fond apparaissent en perspective les logettes ou les tailleurs sont accroupis et travaillent. La note rouge des fez chante, assourdie, sur le platre des murs.
+
+Signe a gauche, en bas : E. Friant, 87.
+
+Toile. Haut.,45 cent.; larg.,53 cent.
+## FRIANT
+
+N°49
+
+Le Forum.
+
+Signe a gauche, en bas : E. Friant.
+
+Toile.Haut.,45 cent.1/2; larg.,53 cent..
+
+## FRIANT
+
+No50
+
+Tolede.
+
+Signe a droite, en bas : E. Friant, 91.
+
+Toile. Haut.,38 cent.1/2;larg.,54 cent. 1/2.
+
+## FRIANT
+
+No51
+
+## Sous le hangar.
+
+En passant devant le hangar, les deux fillettes se detournent et sourient au jeune homme qui est debout, en train de fumer sa Au fond, de lautre cote d'un feuve au bord duquel sont amarres cigarette,et qui se laisse regarder avec une fatuite non dissimulee. des chalands, on apercoit les constructions d'une petite ville.
+
+Signe a droite, en bas : E. Friant, 88.
+## FRIANT
+
+No52
+
+## Le Dejeuner du matin.
+
+La fillette est assise a table, un grand bol devant elle, et, tandis qu'elle dejeune, maniant sa cuiller de la main droite, elle repasse sa lecon de geographie en suivant de la main gauche sur la carte etalee devant elle.
+
+Signe a gauche, en haut : E. Friant.
+
+Panneau.Haut.,24 cent.1/2;larg.,17 cent.1/2.
+
+## FRIANT
+
+N°53
+
+La Jeune fille aux canards.
+
+Signe a droite, en bas : E. Friant, 18g5.
+
+Panneau.Haut.,25 cent.1/2;larg,17 cent.1/2.
+
+## GIRARDOT
+
+(L.-A.)
+
+No54
+
+## Vieilles fortifications a Tanger.
+
+A gauche et au premier plan,les constructions avec leurs terrasses. A droite, au fond, la mer. Sur une terrasse, au premier plan, a droite, une jeune femme inclinee, regardant les embar- cations qui sont a sec sur la plage.
+
+Signe a droite, en bas : L.-A. Girardot, Tanger, 1888.
+
+Toile. Haut., 31 cent.； larg., 81 cent.
+
+Salon de la Societe nationale, 18go.
+## HELLEU
+
+No55
+
+## L'Etoile.
+
+Signe en bas, vers la droite : Helleu.
+
+Toile.Haut.,78 cent.; larg,64 cent.1/2.
+
+## KUHL
+
+N°56
+
+Le Nettoyage des cuves.
+
+Toile. Haut., 1 m. 12;larg., 75 cent.
+
+## LEBOURG
+
+No57
+
+La Rentree au port.
+
+Signe a droite, en bas : Albert Lebourg.
+
+Toile. Haut., 40 cent.; larg., 65 cent.
+
+## LEBOURG
+
+N°58
+
+Bords de riviere.
+
+Signe a droite, en bas : A. Lebourg.
+
+Toile. Haut., 5o cent.; larg,74 cent.
+## LE SIDANER
+
+N°5g
+
+## Le Chien.
+
+A la campagne :un coin d'ombre devant la maison aux fenetres closes, les volets ouverts. A droite,un massif d'arbres aux frondaisons epaisses, qui laissent cependant filtrer le soleil, accroche en papillons d'or aux feuilles ou sur le sol.A l'ombre des massifs d'arbres, un banc de bois peint en gris.Au pied du banc, calme, l'eil ouvert cependant, un chien noir est couche, la tete allongee sur le sol;il gouite un repos beat,la patte droite de devant legerement allongee:il s'abandonne, il est heureux, mais le mouvement de ses oreilles relevees indique qu'il veille.
+
+Signe a droite, en bas : Le Sidaner.
+
+Toile. Haut., 65 cent.; larg, 81 cent.
+de clairs reflets.
+
+## LE SIDANER
+
+N 60
+
+## L'Ecluse.
+
+Au premier plan,a gauche, le sol en pente,qui descend vers la berge. Du meme cote, au fond, une maison un peu en retrait de la route. Au fond, dominant les travaux d'art et la passerelle de lécluse, des arbres aux frondaisons blondes. Au premier plan, a droite, l'eau courante a la surface de laquelle frissonnent
+
+Signe a droite, en bas : Le Sidaner.
+
+Toile.Haut.,55 cent., larg.,73 cent.
+
+## LE SIDANER
+
+No61
+
+## Le Canal.
+
+Le soir : les maisons qui longent le canal, éclairees a lextérieur par les derniers reflets du soleil et a linterieur des bou- tiques par les becs de gaz qui rutilent derriere les vitres.
+
+Signe a gauche, en bas : Le Sidaner.
+
+Pastel. Haut.,72 cent.;larg.,59 cent.
+
+## LUIGI-LOIR
+
+No62
+
+Les Boulevards, le soir.
+
+Signé a droite, en bas : Loir-Luigi, 1883.
+
+Toile.Haut., 38 cent.; larg.,55 cent.
+## MUENIER
+
+N°63
+
+## Villefranche.
+
+Derriere le rideau des pins parasols, on apercoit la baie aux eaux lumineuses et les maisons elevees sur le bord et abritees par des collines. Dans le ciel, de belles trainees chaudes.
+
+Signe a droite, en bas : J.-A. Muenier, 1893.
+
+Toile.Haut., 63 cent.1/2;larg.,75 cent.
+
+## MUENIER
+
+No 64
+
+## Le Pont de Couvelon (Haute-Loire).
+
+A droite, le pont de pierres aux arches dorees par le soleil; a gauche, le cours d'eau vers lequel se dirigent, en suivant une pente douce, quelques ruminants conduits par une paysanne.Au fond, les maisons d'un village, blotties parmi des massifs d’arbres.
+
+Signe a gauche, en bas : J.-A. Muenier, 18g3.
+
+Toile.Haut.,64 cent.;larg.,76 cent.
+## MUENIER
+
+No 65
+
+## L'Epervier.
+
+L'homme vient de tirer son epervier sur le gazon, au bord de la riviere :il se tient debout, tandis que deux gamins debarrassent les mailles des poissons qui fretillent,mettant des refets de nacre mouvants parmi les cordes humides. Sur la rive opposee et plus loin qu'un champ, on apercoit, derriere un rideau de branches, les maisons d'un hameau, coiffees de tuiles rouges.
+
+Signe a droite, en bas : J.-A. Muenier, 1898.
+
+Toile. Haut.,37 cent.; larg.,45 cent,
+
+## MUENIER
+
+N°66
+
+## Le Petit pont.
+
+Au premier plan, a droite, la route qui traverse le petit pont de pierres. Sur la route s'avance un vieux colporteur. Sur la gauche de la route, le terrain herbeux descend en pente douce jusqu'a la riviere.
+
+De l'autre cote du pont, des coteaux dont le sol est marque par la geometrie des cultures. Au sommet, des massifs d'arbres et, plus haut, le ciel tout illumine du soir qui descend.
+
+Signe a gauche,en bas: Muenier, mars 18g9.
+
+Toile.Haut.,65 cent.; larg., 81 cent.
+## MUENIER
+
+No 67
+
+Petite fille assise au bord de l'eau.
+
+Signe a gauche, en bas : J.-A. Muenier, 93.
+
+Toile.Haut, 12 cent.1/2; larg, 18 cent.
+
+## DE NITTIS
+
+No 68
+
+## Automne.
+
+Signe a gauche, vers le bas : De Nittis.
+
+Toile. Haut., 63 cent.; larg., 41 cent.
+
+## PICARD
+
+(LOUIS)
+
+No 6g
+
+La Femme aux cheveux roux.
+
+Signe a droite, en haut : Louis Picard.
+
+Toile.Haut.,41 cent.; larg.,27 cent.1/2.
+
+## PICARD
+
+(LOUIS)
+
+N70
+
+Etude de femme debout.
+
+Signe a droite, en haut : Louis Picard.
+
+Panneau.Haut.,25 cent.1/2;larg.,18 cent. 1/2.
+## ROLL
+
+N°71
+
+## Coucher de soleil.
+
+Signe a droite, en bas : Roll.
+
+Toile. Haut., 56 cent.; larg, 8o cent.
+
+## ROUSSEAU
+
+(PHILIPPE)
+
+No72
+
+Apres la chasse.
+
+Signe a gauche, en bas : Ph. Rousseau.
+
+Panneau. Haut., 16 cent.1/2;larg.,31 cent.1/2.
+
+## ROUSSEAU
+
+(PHILIPPE)
+
+No73
+
+La Cornemuse.
+
+Signe a gauche, en bas : Philippe Rousseau, 77.
+
+Toile.Haut., 55 cent.; larg., 8o cent.
+## TADEMA
+
+(ALMA)
+
+N°74
+
+## Le Poete Gallus.
+
+Il est debout sur une terrasse, appuyé le dos contre un balcon de marbre blanc; ses pieds portent sur un sol dalle de marbre rouge. Il est vetu d'une aube blanche, retenue a la ceinture par une étoffe de soie verte a broderie blanche.Derriere lui, la mer s'étend bleue et profonde. Des fleurs violettes grimpent sur le balcon. Et, dans la clameur vague de l'infini, il reve, il songe, ses cheveux noirs souleves par le vent, et sa tete inclinee se pose sur la main gauche relevee.
+
+Signe a gauche, en bas : L. Alma Tadema, OP. CCCXIV.
+
+Panneau.Haut.,24 cent.,;larg.,16 cent.1/2.
+## TADEMA
+
+(ALMA)
+
+No75
+
+## Bacchis reve.
+
+Sur le banc de marbre blanc qui domine la mer, Bacchis s'est assise; ses bras sortent nus de son peplum sombre; sa main droite tient une feur cueillie en passant; sa tete,grisee d'air, se renverse. Ses cheveux roux sont enserres dans une coiffe violette. Elle ecoute passer dans le vent qui souffle des paroles vagues qui la ravissent; derriere elle, en haut de la falaise qui domine la mer, les temples des dieux dressent leur architecture savante. Mais qu'importe a Bacchis les mysteres divins. Dans ce cadre de nature, elle ne songe qu'a des joies humaines, et son regard se mouille d'une émotion sensuelle.
+
+Signe en bas, au milieu : Alma Tadema, OP. CCXLIV.
+
+Panneau.Haut.,23 cent.;larg,16 cent.1/2.
+## THAULOW
+
+N°76
+
+## La Riviere.
+
+Entre les berges, ou les saules ont reverdi, la riviere court capricieuse et gonflee par les dernieres pluies. Dans l'eau, ou le barrage proche creuse des remous, le ciel, dore par les derniers rayons du soleil qui se couche, met des tons jaunes et roses. Au fond, on apercoit une maisonnette a l'entree de la foret qui dresse la masse sombre de ses arbres.
+
+Signe a gauche, en bas : Frits Thaulow.
+
+Toile.Haut.,6o cent.; larg.,73 cent.
+<!-- image -->
+
+## Pastels
+
+## AQUARELLES-DESSINS
+
+## BESNARD
+
+(ALBERT)
+
+N°77
+
+## La Femme a la colonne.
+
+Une jeune femme debout, vue de trois quarts a gauche, adossee a une colonne. Elle a les bras qui tombent naturellement, les mains jointes. Elle est vetue d'une jupe brune et d'un corsage noir. Ses cheveux blonds sont separes en bandeaux sur le milieu de la tete. Elle regarde avec une attention resignee.
+
+Aquarelle.
+
+Signe a droite, en bas : A. Besnard, 1887.
+## BESNARD
+
+(ALBERT)
+
+N°78
+
+## La Femme a la lampe.
+
+Accoudee sur une table éclairée par une lampe a colonne coiffee d'un large abat-jour vert, une jeune femme, en peignoir legerement ouvert, tient de sa main droite un miroir et semble prendre plaisir a voir l'effet que produit sur sa chair chaude un collier de pierres. Son visage recoit la lumiere sur le front, le nez,la bouche aux levres sensuelles, le menton fin et volontaire. Dans l'ombre apparait le casque des cheveux chatains haut releves sur le sommet de la tete. Tout traduit dans la figure une jolie coquetterie bien feminine.
+
+Pastel.
+
+Signe a gauche, en haut : Besnard.
+
+Haut.,6o cent.;larg,47 cent.1/2.
+## CAZIN
+
+N°79
+
+La Cabane du douanier sur la falaise.
+
+Sépia.
+
+Signe a droite, en bas : J.-C. Cazin.
+
+Haut.,20 cent.;larg.,24 cent.
+
+## CAZIN
+
+No80
+
+Chateau-Rouge.
+
+Dessin au crayon.
+
+Cette indication a gauche, en bas : Chateau-Rouge, 28 sept.
+
+1897.
+
+Haut., 29 cent.; larg.,38 cent.
+
+## CAZIN
+
+No81
+
+Maisons au bord de la route.
+
+Dessin au crayon sur papier mastic.
+
+Haut., 20 cent.; larg., 3o cent.
+Aquarelle.
+
+Signe a droite, en bas : G. Bethune. Chateauroux, 88.
+
+Haut.,3g cent.; larg.,56 cent.
+
+## CAZIN
+
+No82
+
+L'Entree du village.
+
+Dessin au crayon.
+
+Ce dessin porte une mise au carreau.
+
+Signe a droite, en bas : J.-C. Cazin.
+
+Haut.,29 cent.; larg, 21 cent.
+
+## CAZIN
+
+N°83
+
+Le Hameau sur la falaise.
+
+Dessin au crayon.
+
+Signe a droite, en bas : J.-C. C.
+
+Haut., 20 cent.; larg., 23 cent.
+
+## BETHUNE
+
+(GASTON)
+
+No84
+
+Chateauroux.
+## DAGNAN-BOUVERET
+
+No85
+
+Etude.
+
+Dessin a la sanguine.
+
+Signe a gauche, en bas : P.-A.-J. Dagnan.
+
+Haut.,31 cent.; larg,24 cent. 1/2.
+
+## DETAILLE
+
+(EDOUARD)
+
+N°86
+
+## Le Porte-etendard.
+
+Aquarelle.
+
+Signe a gauche, en bas : Edouard Detaille, 1880.
+
+Haut., 31 cent.; larg., 22 cent.
+
+## FORAIN
+
+No87
+
+Un dessin a la plume rehausse de crayons de couleurs, avec cette legende:
+
+aTu ne croirais pas ca: depuis que je suis veuve, i'ai ete demandee 27 fois en mariage.....et rien que par des hommes avec qui j'ai marche!
+
+Haut.,36 cent.;larg.,26 cent.
+## FORAIN
+
+No88
+
+Un dessin a la plume rehausse de crayon bleu pour la photo- gravure avec cette legende:
+
+Si je t'ai trompe?...Je tecoute que j’tai trompe —et sans douleur.
+
+Signe a droite, en bas: J.-L. Forain.
+
+Haut.,3o cent.;larg.,24 cent.
+
+## LA FARGE
+
+(JOHN)
+
+No89
+
+A Samoa.
+
+Aquarelle.
+
+Signe a droite,en bas :La Farge, 18g1.
+
+Haut.,48cent.,larg.,3g cent.1/2.
+
+## LEVY-DHURMER
+
+N°g0
+
+La Fabrication de l'huile aux environs de Tunis.
+
+Pastel.
+
+Signe a gauche, en bas : L. L.-Dhurmer, 1go2.
+
+Haut.,48 cent.;larg.,58 cent,
+## LEMAIRE
+
+(MADELEINE)
+
+N°g1
+
+Pensees et giroflees.
+
+Aquarelle.
+
+Signe a droite, en bas : Madeleine Lemaire.
+
+Haut.,5o cent.;larg.,35 cent.
+
+## MORAND
+
+(G.)
+
+N° 92
+
+Fleurs dans des vases.
+
+Aquarelle.
+
+Signe a gauche, en bas : G. Morand, 1883.
+
+Haut., 48 cent.; larg., 33 cent.
+
+## RENOUARD
+
+Nog3
+
+Un Marche aux bestiaux.
+
+Dessin au crayon.
+
+Signe a droite, en bas : P. R.
+## RENOUARD
+
+N°94
+
+## Jeux d’enfants,a Battersea Park.
+
+Dessin au crayon.
+
+Signe a gauche, en bas : P. Rd.
+
+Haut., 35 cent.; larg.,48 cent.
+
+## RENOUARD
+
+No95
+
+Au Musee.
+
+Dessin au crayon.
+
+Signe a droite : P. R.
+
+Haut.,52 cent.; larg,36 cent.
+
+## THAULOW
+
+No 96
+
+## Gros temps.
+
+La plage est battue par la vague, qui monte, roule, se retire, se replie, éclate, deferle, mettant dans l'air des vapeurs qui s'effacent comme des fumees de poudre.Au fond, la falaise sous un ciel orageux.
+
+Jamais le peintre n'a mieux fait sentir la souplesse de I'eau, en meme temps que le poids enorme de la masse soulevee. Nul mieux que lui n'a interprete cette splendeur incessamment variee : la mer.
+
+Pastel.
+
+Signe a droite,en bas: Frits Thaulow.
+
+Haut.,65 cent.; larg, 8o cent.
+
+<!-- image -->

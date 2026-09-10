@@ -1,0 +1,1015 @@
+## CONDITIONS DE LA VENTE
+
+Elle sera faite au comptant.
+
+Les adjudicataires paieront dix pour cent en sus des encheres.
+<!-- image -->
+
+## DESIGNATION
+
+## AUBRY
+
+(ETIENNE)
+
+Versailles,1745Versailles,1781.
+
+1
+
+## Le Mariage rompu.
+
+Nous ne saurions mieux faire que de reproduire la description du n°124 du livret du Salon de 1777:
+
+( Un jeune homme et une jeune fille sont prets a recevoir la benediction nuptiale. A l'instant ou le cure écrit l'acte, arrive une femme precedee d'un huissier, presentant au cure une opposition et une promesse de mariage. Cette femme se jette aux pieds du jeune homme et cherche a l'attendrir en lui montrant deux enfans,fruits de leur amour secret. Le futur epoux voyant sa pretendue tomber en faiblesse dans les bras de sa mere,vole a son secours et lui demande pardon de sa infortunes, fait retourner les yeux de son fils sur ses enfans. Le fils, sentant a ce spectacle son coeur se dechirer, se rend,et lamour paternel triomphe）.
+
+Important dessin au lavis de sepia, certainement la premiere pensee du tableau expose au Salon de 1777 et cite au livret sous le no 124.
+
+Haut., 448 millim.; larg., 585 millim.
+
+Collection Pierre-Francois Basan (vente a Paris,le 11 frimaire an VII [1er decembre 1798],n°62). Collection Eugene Kraemer (vente a Paris, les 2-5 juin 1g13,n° 126). Grave par RoBERT DE LauNAy, sous le titre : le Mariage rompu.
+## BLARENBERGHE
+
+(LOUIS VAN) Lille,1734+1812.
+
+2
+
+## Une Noce de village.
+
+Dans une cour de ferme, on a dresse sur le gazon la longue table de repas denoce,et des villageois,assis ur des bancs, semblent, apres avoir festoye, se livrer au plaisir des entretiens galants.
+
+Au premier plan, au bord d'une mare,la jeune epousee, debout, accompagnee d'un jeune officier qui l'embrasse, est entouree d'elegants personnages. Un jeune abbe s'incline profondement devant elle. Un gentilhomme en habit vert, coiffe d'un feutre noir, frappe sur l'epaule d'un vieillard qui tient son chapeau a la main. Un pretre est vu de dos entre deux commeres. A droite, des musiciens sont groupes pres d'un bouquet d'arbres et des couples s'appretent pour la danse.
+
+Les batiments de la ferme occupent la gauche de la composition, s'elevant sur une hauteur, devant un bois de haute futaie. Une vieille tour couverte de tuiles sert de colombier. La campagne s'etend vers le fond,a droite, dans une large vallee, ou l'on remarque la masse imposante d'un chateau et un clocher de village.
+
+Signe en bas, a droite : Van Blarenberghe, 1789.
+
+Gouache.
+
+Cadre en bois sculpte.
+
+Vente du 21 aout 1865,a Lille.
+
+Haut.,36o millim.;larg.,533 millim.
+## BOILLY
+
+(LOUIS-LEOPOLD) La Bassee,1761+Paris,1845.
+
+3
+
+## Le Baiser.
+
+En longue robe blanche a grands plis, froncee au col et ceinte a la taille par une écharpe de soie,une jeune femme, les cheveux epars sur les epaules et coiffee d'un chapeau garni de nceuds de rubans, tend ses levres au baiser d'un jeune homme, debout pres d'elle, et qui l'enlace tendrement.
+
+Derriere eux, sur la droite, une ligne de sveltes peupliers s'enfonce vers l'horizon.
+
+Dessin au crayon noir, a l'estompe, avec rehauts de blanc.
+
+Haut.,540 millim.;larg.,408millim.
+Cadre en bois sculpte.
+
+Ce dessin est sans doute celui qui a figure a la vente Arnault,le 15 avril 1835, n°21,et qui est cite par H.Harrisse,L.L.Boilly, p.176,n°1o74.Le tableau, de meme grandeur,figura au Salon de 18o8 （n°54),a la vente Boilly de 1829（n°6),a la vente Daupias (18g2,n°2),et se trouvait en dernier lieu dans la collection Bariholdi.
+
+## BOILLY
+
+(LOUIS-LEOPOLD)
+
+## La Lecture du onzieme bulletin
+
+## de la Grande Armee.
+
+Une nombreuse famille est reunie dans un interieur, autour d'une table, sur laquelle une carte de l'Europe est etalee. Un vieillard, assis dans un fauteuil, ses besicles sur le nez, tient le bulletin qui apporte le detail des operations et, de la main gauche,montre un point sur cette carte; un jeune homme, debout pres de lui, les manches relevees, en designe un autre de son index, pour marquer les progres de la marche de la Grande Armee. Des hommes les entourent et suivent avidement les indications. Debout, a droite, un fichu blanc sur les epaules,une jeune femme, delaissant le tricotage commence, s'est egalement approchee, ainsi quun soldat en armes. A gauche, pres d'une cheminee surmontee d'un buste de l'empereur, une femme allaite son enfant; une petite fille, devant elle, s'est arretee de jouer pour regarder un chien en hostilite avec un chat noir, le dos arque, aux pieds d'un garconnet qui fait l'exercice avec un baton.
+
+Signe:L.Boilly,1806.
+
+Dessin au lavis d’encre de chine, rehausse d’aquarelle.
+
+Haut.,427 millim.; larg.58o millim.
+Cadre en bois sculpte.
+
+Collection G. Lutz.
+
+Exposition centennale de 1goo.
+
+Reproduit par H. Harrisse, L.-L. Boilly, pl. a la p.28, cf. p.84 et p. 164,n886.
+
+Le tableau,expose au Salon de 1824(n 179),fut acquis par le duc d'Orleans,brale, aujourd'hui au Musee Conde de Chantilly. Quant au dessin decrit ci-dessus, disait mutile et vole en 1848,au Palais-Royal. Retrouve a Londres, en 1875,par le duc d'Aumale et restaure par ses soins, dapres la lithographie de Bellay,il se trouve Harrisse α cest une piece qui, par la purete du trait et la largeur d'execution, assure a Boilly une place parmi les grands dessinateurs du siecle et qui devrait etre au Louvre.
+
+## BOILLY
+
+(LOUIS-LEOPOLD)
+
+5
+
+## Un Cafe de Paris en 1815.
+
+PENDANT DU SUIVANT
+
+Dans la grande salle du cafe Lamblin, des consommateurs sont attables. Au premier plan, au centre, deux joueurs de dames, un vieillard a cheveux blancs et un homme coiffe d'un haut chapeau. Des curieux sont assis ou groupes debout autour d'eux et suivent la partie. A droite, un personnage a perruque et a lunettes, lit une gazette. A gauche, d'autres habitues se desalterent, causent ou se livrent aux distractions du jeu. Au fond,a droite,derriere le comptoir,deux jeunes femmes en robe decolletee s'entretiennent avec deux galants.
+
+Dessin au lavis d’encre de Chine et a l'aquarelle.
+
+Haut., 52o millim.,; larg.,735 millim.
+Cadre en bois sculpte.
+
+Exposition centennale de 1goo.
+
+Cite par H.Harrisse,L.-L.Boilly,p.163,no 885.
+
+Le tableau, lithographie par Jules Boilly et qui figura a la vente Boilly de 1829, n'a pas éte encore retrouve.
+
+## BOILLY
+
+(LOUIS-LEOPOLD)
+
+6
+
+## Un Cabaret de Paris en 1815.
+
+PENDANT DU PRECEDENT
+
+Dans un cabaret populaire dont le plafond s'appuie sur des pilliers carres, des gens du peuple sont attables.Au centre, devant des flacons et des verres, deux hommes coiffes de larges chapeaux,un foulard noir sous le menton, en vestes courtes, tiennent des cartes; une femme en bonnet et assise a le bras pose sur l'épaule de l'un d'eux. Des enfants, agenouilles au premier plan, s'amusent de deux marionnettes, qu'un petit joueur de vielle fait évoluer au son de son instrument. Un homme a face joviale,le bonnet de coton sur loreille,debout derriere eux s'apprete a deguster le contenu d'un verre qu'il approche de ses levres. A gauche, un ouvrier,les manches de sa chemise relevees au-dessus des coudes,vu presque de dos, le regarde. A sa table et aux tables voisines, des amoureux se lutinent ou se versent des boissons. Dans le fond de la piece, on apercoit d'autres groupes et une porte ouverte.
+
+Dessin au lavis d’encre de Chine et a l'aquarelle.
+
+Haut., 597 millim., larg., 821 millim.
+## BOREL
+
+(ANTOINE)
+
+Ecole francaise, xvin siecle.
+
+## Le Gage touche.
+
+PENDANT DUSUIVANT
+
+La partie vient de finir, le vieux mari, qui a perdu, doit s'executer et, se mettant a quatre pattes sur le tapis,il vient baiser le pied d'une jeune femme assise,derriere laquelle se penche un homme en habit bleu. Pendant qu'il est ainsi occupe, sa femme, qui tient dans la main droite la tabatiere et les besicles de son vieil époux, donne sa main a baiser a un galant assis sur le meme canape qu'elle. Une amie semble les inviter a la prudence.
+
+Signe en bas, a gauche : A. Borel, avec les lettres A. B. en mono- gramme.
+
+Aquarelle gouachee, dans un riche encadrement lave en grisaille.
+
+Haut.,432millim.,;larg.,418millim.
+## BOREL
+
+(ANTOINE)
+
+8
+
+## Le Colin-maillard.
+
+PENDANT DU PRECEDENT
+
+Le mari, a qui l'on avait bande les yeux, s'apercoit que c'est a dessein.Arrachant le mouchoir qui le rendait momentanement aveugle, il saisit le bras d'un jeune homme qui se penchait tendrement vers l'epouse assise. Deux autres couples semblent rire de sa deconvenue.
+
+Signe en bas, a gauche.
+
+Aquarelle gouachee dans un encadrement lave en grisaille.
+
+Haut.,432 millim.,;larg.,318millim.
+## BOUCHER
+
+(FRANCOIS) Paris,1703+Paris,1770.
+
+6
+
+## Venus aux colombes.
+
+Nue, allongee sur des draperies, accoudee sur le bras gauche, la deesse baisse les yeux. A gauche, derriere elle, un carquois et deux pigeons qui se becquetent.
+
+Signe en bas,a droite:F. Boucher.
+
+Dessin aux trois crayons.
+
+Haut.,292 millim.;larg.,440 millim.
+## BOUCHER
+
+(Attribue a FRANCOIS)
+
+10
+
+## L'Enfant a la bouteille.
+
+Debout, vu de face,la tete inclinee sur l'épaule droite,il semble indiquer du doigt au spectacteur qu'il regarde, une bouteille treillissee qu'il tient de la main gauche.
+
+Dessin au crayon noir, avec rehauts de blanc, sur papier bleu.
+
+Haut., 234 millim.,; larg., 171 millim.
+
+Grave par DEMARTEAu (no 211, date de 176g).
+## BOUCHER
+
+(D'apres FRANCOIS)
+
+11
+
+## Le Dejeuner.
+
+Reduction en contre-partie du tableau du Musee du Louvre, popularise par la gravure de Lepicie.
+
+Une jeune femme,entoure de sa famille, prend le cafe.Charmant interieur de style Louis Xv.
+
+Lavis a rehauts d’aquarelle.
+
+Haut.,335millim.; larg.,270 millim.
+## BOUCHER
+
+(D'apres FRANCOIS)
+
+12
+
+## Renaud et Armide.
+
+La magicienne est assise sur un coussin pose sur un tertre. Elle est vetue d'une tunique blanche, serree autour de la taille par une écharpe, une draperie posee sur sa jambe gauche, et porte des sandales nouees de rubans. Des chaines de perles ornent sa chevelure piquee d'une rose. Le visage penche vers le heros amoureusement etendu a ses pieds, elle passe la main droite sous sa nuque. Aupres d'eux, quatre Amours se sont empares des armes de Renaud. A gauche, la colonnade d'un palais. Fond de parc.
+
+Dessin au crayon noir a rehauts de blanc.
+
+Haut.,324 millim.;larg.,402 millim.
+## BOUCHER
+
+(D'apresFRANCOIS)
+
+13
+
+## Pensent-ils a ce mouton?
+
+PENDANT DUSUIVANT
+
+Assise sur un tertre, qu'ombragent de grands arbres, une bergere, en robe decolletee, une rose au corsage, la main gauche appuyee nonchalamment sur le cou d'un de ses moutons, ecoute les tendres propos d'un jeune homme, dont le visage se penche vers le sien.
+
+Au premier plan,un chien, que le galant tient en laisse, leve la tete vers eux, et, derriere lui, un panier de feurs est pose sur un manteau.
+
+Au fond, on apercoit une chaumiere cachee dans les arbres.
+
+Dessin au crayon noir, a rehauts de blanc et de sepia.
+
+Haut., 393 millim.,; larg., 3r5 millim.
+## BOUCHER
+
+(D'apres FRANCOIS)
+
+14
+
+## La Lettre.
+
+## PENDANT DU PRECEDENT
+
+Deux jeunes femmes sont assises pres d'une fontaine, ornee d'un groupe d'amours sculptes en bas-relief, et envahie par la verdure. L'une d'elles, vue presque de dos, en robe decolletee, le chignon releve sur la nuque, lit une lettre a sa compagne, dont la main gauche prend une rose dans un panier de feurs. Derriere elle, au second plan, le visage d'un jeune homme qui les epie, apparait entre deux troncs d'arbres.
+
+A gauche, deux chevres et un mouton.
+
+Dessin au crayon noir, avec rehauts de blanc.
+
+Haut., 393 millim.; larg., 315 millin.
+## BOUCHER
+
+(Ecole de FRANCOIS)
+
+15
+
+## La Baigneuse surprise.
+
+PENDANT DU SUIVANT
+
+a droite, sur un tertre,pres d'un panier de fleurs. Une chemise protege encore a demi sa nudite, cependant quun pied deja dans le ruisseau, elle se defend des temerites d'un homme agenouille pres d'elle et vetu d''une culotte bleue, d'une veste rouge et d'un chapeau gris.
+
+Fond d'arbres et de verdure.
+
+Gouache.
+
+Haut.,294 millim.,; larg.,220 millim.
+## BOUCHER
+
+(Ecole de FRANCOIS)
+
+16
+
+## La Jeune Mere.
+
+PENDANT DU PRECEDENT
+
+Dans un paysage boise, elle s'avance vers la gauche, sur un chemin pierreux, en robe bleue, a manches jaunes, relevee sur un jupon court. Un voile blanc protege ses cheveux et retombe en pointes sur sa gorge. Dans une bercelonnette d'osier a rideau rose, qu'elle porte sur son dos, le haut du corps et la tete d'un enfant apparaissent entre deux montants de bois. Une fillette marche a sa droite, portant un panier au bras et tenant un baton de la main gauche. Un chien roux les accompagne.
+
+Gouache.
+
+Haut.,294 millim.,;larg.,220 millim.
+## CHASSELAT
+
+(CHARLES-ABRAHAM)
+
+Paris,1782Paris,1843
+
+17
+
+## Jeune Femme assise de cote dans un fauteuil.
+
+PENDANT DU SUIVANT
+
+La tete de face,tournee vers le spectateur, les mains croisees sur un genou releve; coiffure bouffante, robe a manches courtes, fichu sur les epaules.
+
+Dessin au crayon noir, a rehauts blancs.
+
+Haut., 298 millim.,; larg., 18o millim.
+
+Collection Frederic Villot. Collection des Goncourt (vente a Paris, le 15 février 1897,n° 43 du catalogue). Ce dessin et le suivant, sont peut-etre l'ceuvre de Pierre Chasselat, mort en 1814.
+## CHASSELAT
+
+(CHARLES-ABRAHAM)
+
+18
+
+## Femme assise sur un fauteuil.
+
+PENDANT DUPRECEDENT
+
+De face, un pied pose sur un coussin. Coiffure bouffante dans laquelle est piquee une rose, ample fichu. Les mains reposent sur les genoux.
+
+Dessin au crayon noir a rehauts blancs.
+
+Haut.,3o4 millim.;larg.,197 millim.
+
+Collection des Goncourt (vente a Paris,le 15 fevrier 1897,n 44 du catalogue).
+
+Collection Frederic Villot.
+## COCHIN LE FILS
+
+(CHARLES-NICOLAS)
+
+Paris, 1688Paris,1754
+
+19
+
+## Illuminations des ecuries de Versailles a l'occasion du second mariage du Dauphin
+
+## (9 feorier 1747).
+
+Le spectateur (dit M. Emile Dacier, dont nous reproduisons ici la description), tournant le dos au chateau, embrasse toute lavant-cour, dont les balustres sont garnis d'une ligne de pots-a-feu; plus loin,la place Royale, ornee d'ifs illumines; et, au fond, les deux écuries, dont les facades sont dessinees par des lumieres et les entablements couronnes de girandoles. Une architecture simulee, de semblable decoration,relie entre eux les batiments des deux écuries, d'un cote a l'autre de la Grande Avenue (aujourd'hui avenue de Paris). Une foule nombreuse remplit la place Royale; des carrosses sortent du batiment figure a droite, dont la porte est ouverte. Dans l'avant-cour du chateau,ou vont et viennent des groupes de personnages, un carrosse attele de six chevaux, encadre de cavaliers portant des torches, s'avance vers le chateau, au milieu d'une haie de spectateurs.
+
+Lavis a la plume, avec rehauts de gouache.
+
+Haut.,445 millim.; larg.,9o5 millim.
+
+Expose au Salon de 1750.
+
+Collection Jacques Doucet (vente a Paris, 5 juin 19i2,n° 11). Grave par INGRAm (Jombert, Catal. de l'Euvre de Cochin, n°161).
+
+On lit, dans un encadrement menage au-dessous du dessin et coupe d'un cartouche aux armes royales:Vue general (sic) de la grande illumination des ecuries de
+Versailles,a l'occasion du mariage de S.M.Louis XV. Cette indication, dit encore M.Dacier,est inacceptable,le mariage fut celebre a Fontainebleau,et il n'y eut aucune fete a Versailles a cette occasion.Il s'agit ici des fetes donnees a l'occasion du second mariage du Dauphin,fils de Louis XV,avec Marie-Josephine de Saxe. Le dessin a vraisemblablement éte gratife d'un titre a une epoque ou le souvenir de ce qu'il represente s'etait perdu.
+
+On remarquera que le dessin, prepare specialement pour la gravure, est en sens inverse de l'estampe; d'apres le Mercure (fevrier 1745, p. 177), 1'illumination eut lieu, pour la premiere fois, le jour du mariage, a l'issue du bal donne dans le manege de la grande ecurie? Ce batiment se trouve a gauche, quand on tourne le dos au chateau. Sur l'estampe,il occupe sa situation veritable.
+
+Au Salon de 175o,Cochin exposait deux dessins consacres a cet évenement:le Roy tenant grand appartement dans la grande galerie de Versailles et les iliuminations des grandes ecuries de Versailles jointes ensemble par des arcades de lumieres.Le livret ajoute : Les deux dessins se gravent actuellement .En effet, le premier a été Dans le catalogue de la Chalcographie,l'estampe est donnee comme anonyme (n° 4o34), sans doute parce qu'elle est avant toute lettre. C'est le catalogue publie par Joubert qui devoilelenom d'Ingram.
+## DANLOUX
+
+(Attribuea HENRI-PIERRE)
+
+Paris,1753Paris, 1809.
+
+20
+
+## Jeune Femme coiffee d'un cabriolet.
+
+En buste,les epaules enveloppees d’une écharpe, le visage presque de face sous une molie chevelure bouclee, le regard dirige vers la droite, elle est coiffee d'un chapeau releve sur le front et orne de noeuds de rubans.
+
+Dessin au crayon noir.
+
+Haut.,328millim.;larg.,255 millim.
+## ECOLE FRANCAISE
+
+Epoque du Premier Empire.
+
+21
+
+## Les Trois Seurs.
+
+Elles sont representees en buste, de face ou de profil, toutes coiffees du meme grand turban blanc ou bleute, vetues de robes blanches plus ou moins ouvertes.
+
+On lit en bas, a gauche : L. Boilly. Gouache circulaire sur velin.
+
+Diam.,224 millim.
+## ECOLE FRANCAISE
+
+xvIll· siecle.
+
+22
+
+## Jeune Femme coiffee a la chinoise.
+
+A mi-corps, en robe echancree sur la poitrine, le visage de face, elle porte sur sa chevelure relevee, un chapeau de paille en forme de cone aplati, pose sur le cote et garni de fleurettes.
+
+Dessin aux trois crayons avec rehauts de pastel.
+
+Haut., 332 millim.;larg., 268 millim.
+## ECOLE FRANCAISE
+
+xvilI siecle.
+
+23
+
+## Le Baiser.
+
+deux jeunes amants échangent un baiser. Un amour, au-dessus d’eux, effeuille des roses et tient une torche de la main gauche.
+
+Composition de forme circulaire.
+
+Dessin avec rehauts de pastel.
+
+Diam., 3oo millim#
+## ECOLE FRANCAISE
+
+xVll siecle.
+
+## 24
+
+## Portrait d’une jeune femme.
+
+A mi-corps, tournee vers la gauche, elle est coiffee d’un chapeau a bords tuyautes, releve a l'arriere et garni de plumes. Les boucles de sa perruque,legerement poudree,retombent sur sa nuque,une collerette de gaze lui entoure le cou. Son corsage decollete, a manches courtes, est orne, sur le devant, d'un noeud de ruban.
+
+Dessin au crayon noir et a la sanguine, a rehauts de blanc. Forme ovale.
+
+Haut.,175 millim.; larg., 144 millim.
+## FRAGONARD
+
+(JEAN-HONORE)
+
+Grasse, 1732Paris, 1806.
+
+25
+
+## Le Sacrifice au Minotaure.
+
+Au milieu de la composition (dit M. Emile Dacier, dont nous reproduisons ici la description),a droite d'un petit autel circulaire sur lequel une urne est posee, la jeune fille designee par le sort tombe evanouie dans les bras de ses compagnes, en levant ses mains au ciel, tandis que sa mere, étendue sur le dos, au premier plan, se tord les bras avec desespoir.A droite,un groupe de femmes, les unes pleurant, d'autres suivant la scene avec émotion.A gauche,deux pretres debout devant l'autel et un homme agenouille pres d'un trepied. Dans le ciel planent des divinites infernales.
+
+Bistre et aquarelle.
+
+Haut.,335 millim.;larg.,442millim.
+
+Cadre ancien, epoque Louis XVI, bois sculpte et dore.
+
+Collection Brun-Neergard (vente a Paris, aout 1814,n° 127). Collection Jacques Doucet (vente a Paris, le 5 juin 1g12,n° 146).
+
+La peinture,dont cette aquarelle st esquisse,aisait aussi partie dela collection Jacques Doucet (vente a Paris,le5 juin 1g12,n 146), et se trouve actuellement chez Mme Watel-Dehaynin.
+## FRAGONARD
+
+(JEAN-HONORE)
+
+26
+
+## Jeune Femme assise.
+
+Assise sur une chaise, elle est vue de face, la tete tournee de troisquarts a droite, les deux mains croisees lune sur l'autre et posees sur les genoux. Elle porte sur sa robe un mantelet ruche dont les pans sont croises sur sa poitrine.
+
+Signe en bas, a gauche: Frago, 1785. Dessin a la sanguine.
+
+Haut.,223 millim.,; larg., 172 millim.
+
+Cadre ancien, en bois sculpte et ajoure, attribue a Bagard de Nancy.
+
+Collection Camille Marcille. Collection des Goncourt (vente a Paris,le 15 fevrier 1897,n83). Collection Pierre Decourcelle (vente a Paris,le 2g mai 1g11, n° 89）.
+
+Grave par JuLEs DE GoNcouRT.
+
+A figure a l'exposition de 1'Ecole des Beaux-Arts (1879, no 593), a l'exposition
+
+Chardin-Fragonard et a l'exposition de Berlin,1gio.
+## FRAGONARD
+
+(JEAN-HONORE)
+
+27
+
+## La Visite au grand-pere.
+
+Devant la porte d'une habitation rustique,le grand-pere, assis dans son fauteuil,recoit la visite de ses sept petits-enfants, que lui amenent leurs parents. La jeune mere s'incline vers le vieillard, en lui presentant les deux aines. Son mari est a ses cotes. Tout autour, des animaux domestiques; sur la gauche, une petite charrette d'enfant trainee par un gros chien.
+
+Dessin lave a la sepia.
+
+Haut.,285 millim., larg.,31o millim.
+
+Collection du baron Adolphe de Rothschild.
+## FRAGONARD
+
+(JEAN-HONORE)
+
+28
+
+## Buste de Napolitaine.
+
+Elle est representee de face, les cheveux releves et ramenes sous un bonnet,avec ses boucles doreille,un lourd collier, sans doute en corail, qui lui retombe sur la poitrine, les epaules recouvertes du fichu national.
+
+La tete se detache sur un fond ombré.
+
+En bas, a droite, 1'inscription : femme de Ste-Lucie, Naples, 1774. Sepia.
+
+Haut.,355millim.; larg.,278millim.
+
+Collection Marmontel (vente a Paris,le 28 mars 18g8,n°24）.
+
+Dessin execute par Fragonard lors de son voyage en Italie avec le celebre financier
+
+Bergeret.
+## FRAGONARD
+
+(Attribue a JEAN-HONORE)
+
+29
+
+## Jeune Femme tenant sa traine.
+
+Elle est debout, tournee vers la droite, coiffee d'un large chapeau orne de rubans et pose sur son abondante chevelure, vetue d'une robe de soie bordee d'un volant et dont le corsage fronce sur les epaules et la poitrine; elle soutient sa traine de la main droite.
+
+Dessin a la pierre d'Italie.
+
+Haut.,399 millim.; larg., 252 millim.
+## GRAVELOT
+
+(HUBERT-FRANCOIS-BOURGUIGNON,dit) Paris,16g9+1773.
+
+30
+
+## L'Entretien galant.
+
+En jupe de soie évasee, a grands plis, froncee a la taille, le corsage échancre garni de dentelles sur le devant et aux manches, un collier de perles au cou,un fin bonnet sur les cheveux,une jeune femme, Les yeux baisses, elle écoute, un peu cambree en arriere, un jeune gentilhomme, en perruque a catogan,habit de cour et jabot de dentelle, debout, de profil a droite, tient dans la main droite un eventail deployé. qui se penche vers elle, tete nue, la main gauche tendue en avant.
+
+Dessin au crayon noir, a rehauts de blanc.
+
+Haut.,425 millim.,; larg., 338 millim.
+
+Collection du general comte Andreossy (vente a Paris,le 13 avril 1864, n° 783）. Collection des Goncourt (vente a Paris, le 15 fevrier 1897,n 110）. Exposition de 1'Ecole des Beaux-Arts (1879, no 5o6).
+## GRIMOU
+
+(ALEXIS) Argenteuil,1678+Paris,1733
+
+31
+
+## Jeune Femme coiffee d'un toquet.
+
+En buste,une collerette de lingerie autour du cou, la tete penchee sur l'paule gauche,levisage de trois-quarts,le regard rieur,la bouche minaudiere, elle a la main gauche levee, lindex pres de la joue. Un toquet est pose sur ses cheveux releves et frisottant sur la nuque.
+
+En bas, a la sanguine, une étude pour la main.
+
+Dessin aux trois crayons.
+
+Haut.,395 millim.;larg.,251 millim.
+## HOIN
+
+(CLAUDE-JEAN-BAPTISTE)
+
+Dijon, 1750 Dijon, 1817.
+
+32
+
+## La Consultation de l'Oracle.
+
+Dans une haute salle a colonnes, deux jeunes femmes, en robe decolletee, les cheveux ornes de fleurs et rubans, s'approchent d'une table couverte d'un tapis rouge, sur lequel une chiromancienne, assise a gauche et vetue d'un costume a l'orientale, étale un jeu de cartes.
+
+d’un vase pose sur la table.
+
+A gauche, par terre, quelques livres. Une legere vapeur s’échappe
+
+Au fond, par une haute porte cintree, on apercoit un paysage.
+
+Haut.,3go millim.;larg.,31o millim.
+
+Collection Muihlbacher (vente a Paris, le 15 mai 1899,n° 143). Collection H.J. Mandl (ventes a Paris, le 25 février 1go4, et le g fevrier 19o5, no38).
+
+Gouache.
+## HUET
+
+(JEAN-BAPTISTE) Paris,1745Paris,1811.
+
+33
+
+## Le Repos des bergers.
+
+En robe decolletee,les cheveux releves en chignon arrondi au-dessus de sa tete, une jeune femme tenant dans ses bras un enfant, est assise devant la porte d'une grange rustique remplie de gerbes de ble. Un second enfant est agenouille a ses pieds pres de deux moutons. Elle regarde un berger, coiffe d'un large chapeau de feutre et étendu a sa droite, dormant le visage appuye sur une main.A gauche, devant eux, les jambes nues, un second berger joue de la flute. Fond de paysage.
+
+Signe en bas, a droite : J.-B. Huet, 178g. Aquarelle.
+
+Haut.,3o5 millim.;larg.,232millim.
+## ISABEY
+
+(JEAN-BAPTISTE)
+
+Nancy,1767+Paris,1855.
+
+34
+
+## Le Petit Coblentz (oue du boulevard
+
+## de Gand sous le Directoire).
+
+L'artiste y a groupe,en caricature, sept des personnages les plus celebres de lépoque; sur la gauche, Vestris, en bleu, levant son face a main; devant lui, Mm Recamier, en robe rose rayee, au bras de Garat, en habit violet.Au fond,a droite,Bonaparte et Talleyrand,puis,vers le centre, Murat, assis sur une chaise dans une attitude negligee,une canne a la main. Tout a fait a gauche, au premier plan, l'artiste luimeme, qui ne s'est pas plus avantage qu'il n'a flatte ses autres modeles, bien qu'une inscription placee au-dessus de la tete de Murat semble les qualifier de a proteges des graces 》.
+
+Plume rehaussee d'aquarelle.
+
+Haut.,453 millim.;larg.,45o millim.
+
+Collection du comte de La Beraudiere (vente a Paris, le 16 avril 1883,no 153).
+
+Collection Richard Lion(vente a Paris,le 3 avril 1886,n°63).
+
+Grave par E. LoizELET.
+## JEAURAT
+
+(ETIENNE)
+
+Paris,169g+Versailles,178g.
+
+35
+
+## Le Petit Dessinateur.
+
+A mi-corps et presque de face, assis sur une chaise, le chapeau de feutre incline sur loreille, il a la main droite posee sur sa feuille a dessin et tient le crayon entre ses doigts.
+
+Dessin a la sanguine.
+
+Cadre en bois sculpte.
+
+Haut., 5oo millim.;larg.,397 millim.
+## LANCRET
+
+(NICOLAS)
+
+Paris,16go+Paris,1743.
+
+36
+
+## Feuille d'etude.
+
+La meme jeune femme est representee en deux attitudes differentes. A gauche, elle est figuree debout, legerement penchee en avant, regardant vers la droite. De la main gauche elle releve sa jupe et
+
+Sur la droite, elle est assise,la tete tournee vers la droite,la main decouvre ses jambes.
+
+ramenee sur la poitrine.
+
+Sanguine.
+
+Collection Andrew James.
+
+Haut.,168 millim.; larg.,202 millim.
+## LANCRET
+
+(Attribue a NICOLAS)
+
+37
+
+## Un Mezzetin.
+
+Assis,le corps inflechi vers la droite, le bras accoude,le visage de face,un large toquet rejete sur la nuque,il tient,de la main gauche,une tige simulant un caducee.
+
+Sanguine.
+
+Collection AndrewJames.
+
+Haut.,214 millim.;larg.,245millim.
+## LAWREINCE
+
+(NICOLAS)
+
+Stockholm,1737+Stockholm,1807.
+
+38
+
+## Les Trois Soeurs au Parc de Saint-Cloud.
+
+Deux d'entre elles, en robes blanches, marchent vers la droite en se tenant par la taille; la premiere est coiffee d'un chapeau de paille a grande plume et la seconde d'un grand bonnet a forme de cloche. La troisieme,en robe lilas, tete,nue,les cheveux tombant dans le dos,est assise sur un tertre. L'une de ses soeurs l'aide a se relever; a droite, dans un bosquet, une statue de l'amour.
+
+Signe en bas, a gauche: Lavreince.
+
+Aquarelle gouachee.
+
+Haut.,168 millim.; larg.,217 millim.
+
+Collection Audouin (vente a Paris,le 18 janvier 18g2).
+
+Collection G. Muhlbacher (vente a Paris,le 15 mai 1899, n° 166). Gravee par J.-B. CHAPUy.
+## LAWREINCE
+
+(NICOLAS)
+
+39
+
+## Le Petit Lever.
+
+Une jeune femme vient de quitter son lit et, assise sur un fauteuil, elle passe les bas que lui presente une soubrette vetue de rose. A droite, le lit et la table de nuit; devant la cheminee, que masque un petit paravent, une robe bleue jetee sur une chaise.
+
+Gouache.
+
+Haut.,270 millim.;larg.,202 millim.
+
+Collection G... et T... (vente a Paris, le 31 janvier 18g8,n 115).
+## LESPINASSE
+
+(LOUIS-NICOLAS DE)
+
+Pouilly, 1733+Paris, 1808.
+
+40
+
+## Vue du Grand Trianon,
+
+## prise du cote de l'entree, en 1780.
+
+Sur la place qui precede l'entree (dit M. Emile Dacier, dont nous reproduisons ici la description), de nombreux personnages, des carrosses, des chevaux attaches aux arbres, etc...
+
+Aquarelle et gouache sur trait de plume.
+
+Haut., 206 millim.; larg.,33g millim.
+
+Cadre style Louis XVI, bois sculpte et dore, avec guirlande a la partie inferieure et tablette.
+
+Collection Jacques Doucet (vente a Paris, 5 juin 1gi2, n 31). Exposition retrospective de la Ville de Paris, a l'Exposition Universelle de 1goo, no183bis.
+
+Grave par Nee,pour le Voyage pittoresque de la France,t. I, oe livraison, pl. 21.
+
+Le titre est donne par une inscription manuscrite a l'encre, sur la tablette inferieure du cadre.Deux autres vues deVersailles,par Lespinasse,se trouvaient dans la collection Jacques Doucet (nos 3o et 32).
+## MALLET
+
+(JEAN-BAPTISTE)
+
+Grasse,175gParis,1835.
+
+## La Tireuse de cartes.
+
+Dans une piece circulaire, assise dans un fauteuil, un carton a dessin sur ses genoux, une jeune femme tire les cartes a une amie. Celleci, debout aupres d'un gueridon,regarde avec anxiete la carte qui vient de sortir; une autre jeune femme, coiffee d'un chapeau de paille a rubans roses, est assise aupres de la devineresse; a gauche, par terre, un carton a chapeaux.
+
+- .Gouache.
+
+Haut.,26o millim.,;larg.,200millim.
+## MALLET
+
+JEAN-BAPTISTE)
+
+42
+
+## Le Petit Dejeuner.
+
+Un jeune homme tient sur ses genoux une jeune femme, en neglige blanc. Debout, devant eux, une amie fait fondre le sucre dans une tasse de cafe bouillant. Sur une table circulaire, devant la cheminee, une cafetiere et un sucrier; a gauche, un lit et un paravent.
+
+Gouache.
+
+Cadre en bois sculpté.
+
+Haut.,315 millim.,;larg.,220 millim.
+## MARECHAL
+
+(JEAN-BAPTISTE)
+
+Ecole francaise, fin du xvi et commencement du xix siecle.
+
+43
+
+## Interieur de palais.
+
+α C'est une sorte d'imposant atrium (dit M.Emile Dacier, dont nous reproduisons ici la description);le riche plafond a caissons est supporte par huit colonnes engagees, — quatre sur la paroi de gauche et quatre sur celle de droite,— et par quatre autres colonnes, — deux au premier plan et deux au fond, sur la paroi qui fait face au spectateur. La, une petite niche, menagee entre les colonnes, abrite une statue d'Apollon Citharede,debout sur une base sculptee. A gauche, par trois fenetres garnies de rideaux a crepine, drapes et retenus par des embrasses,le soleil penetre dans la piece,le premier plan restant dans lombre. Sur la paroi de droite, on voit deux fenetres et, plus loin, une porte, egalement drapees de rideaux. Dallage en damier noir et blanc. Des petits personnages ca et la.)
+
+chal,1779.
+
+Signe a lencre, dans l'angle inferieur de droite: J.-B. Mare-
+
+Haut.,48o millim.;larg.,637 millim.
+
+Cadre ancien, epoque Louis XVI, en bois sculpte et dore.
+
+Collection Jacques Doucet (vente a Paris,le5 juin 1g12,n°33）.
+## MAUCERT
+
+Ecole francaise, xvm siecle.
+
+## Exposition de tableaux sur la place Dauphine.
+
+Tout autour de la place Dauphine, dont l'angle Sud-Est est visible sur la droite, des marchands de tableaux ont organise une exposition en plein air. Le public est accouru en foule pour la visiter, s'empressant devant les toiles, en bavardant au milieu de la place; une dame, curieuse, souleve le voile qui masque un tableau, quun commissionnaire apporte sur ses crochets.
+
+Parmi les boutiques visibles, au second plan, on distingue celle d'un joyallier,et une maison: A lancien caffe du Commerce.
+
+Signe : Maucert, 1784.
+
+Lavis de sepia rehausse d'aquarelle et de gouache.
+
+Haut.,497 millim.; larg.,814millim.
+
+Collection de Mme Lelong (vente a Paris, le 27 avril 1go3,t. I., n° 64).
+
+On lit dans le Journal de Paris, du mercredi 16 juin 1784, P.733:α L'exposition L'affluence du mondey etait grande et la difficulte d'approcher nous a fait echapper des tableaux a eu lieu hier a la Place Dauphine, comme il est d'usage tous les ans. beaucoup d'objets... C'est a l'obligeance de M. Etienne Deville que nous devons cette piquante citation.
+OPIZ
+
+(G)
+
+45
+
+## La Marchande d'oranges.
+
+PENDANT DUSUIVANT
+
+A droite, une marchande d'oranges tient dans sa main droite un fruit qu'elle vient de prendre dans son panier. Tout en se chauffant les mains au poele d'un rotisseur,un galant fait le bel esprit aupres de deux clientes de la fruitiere. Derriere lui,un petit balayeur; dans le fond, un tondeur de chiens et un marchand de cirage. Sur le mur, des affiches facetieuses.
+
+Signe en bas, a gauche : G. Opiz, inv. et del.
+
+Dessin a lavis d'encre de Chine rehausse d'aquarelle.
+
+Haut.,365 millim.;larg.,31o millim.
+## OPIZ
+
+(G.)
+
+## 46
+
+## La Marchande d'huitres.
+
+PENDANT DU PRECEDENT
+
+Dans la rue Montorgueil, devant le rocher de Cancale, ou une inscription nous apprend quon peut trouver diner, souper et dejeuner a la fourchette, une marchande d'huitres sert sa clientele,aidee d'une servante qui ouvre les huitres avec son couteau. Sur la gauche, une marchande de poisson et un coltineur portant, sur ses paules,un sac de farine avec la legende:Moulin Mont Martre,1813.
+
+Signe en bas, a gauche : G. OPIZ inv. et d.
+
+Dessin au lavis d’encre de Chine, rehausse d’aquarelle.
+
+Haut., 3o7 millim.; larg., 293 millim.
+## OUDRY
+
+(JEAN-BAPTISTE)
+
+Paris,1686+Beauvais,1755.
+
+## 47 Un Epagneul.
+
+Blanc, tache de feu,les pattes sur une touffe de feuillage,le corps tendu,la queue droite,la tete tournee vers la gauche,les yeux fixes,il est a l'arret.
+
+Dessin au crayon noir, a l'estompe et a la sanguine.
+
+Haut.,38o millim.; larg.,422millim.
+## PORTAIL
+
+(JACQUES-ANDRE) Nantes,16g1 +Versailles, 175g.
+
+48
+
+## La Musique de chambre.
+
+Ils sont cinq hommes et femmes, qui jouent de la fute, ou qui chantent. Au milieu,au premier plan, se tient debout un joueur de basse de viole, qui appuie son instrument sur un tabouret et se retourne vers le spectateur.
+
+Dessin a la sanguine et au crayon noir.
+
+Haut., 295 millim.;larg.,25o millim.
+
+Cadre en bois sculpte.
+
+Collection Pierre Decourcelle (vente a Paris le 2g mai 1gi1, n 139).
+supprime) par VIDAL.
+
+## PUJOS
+
+(ANDRE)
+
+Ecole francaise, xvin siecle.
+
+4.9
+
+## Portrait de Mademoiselle Beaumenil.
+
+Elle est representee en buste, de trois-quarts a droite, dans un encadrement de forme ovale surmonte d'un arc,d'un carquois, d'une torche de guirlandes de roses et d'une couronne de laurier. D'autres roses ornent sa haute chevelure relevee, dont les boucles retombent
+
+Au premier plan et au centre, pres d'un amour jouant de la lyre, on lit sur une banderolle :Hte Aide Beaumenil de l'Academie Royale de musique,Pensionnaire du Roy,et,a droite, sur le feuillet d'un livre sur son corsage decollete et orne de dentelles.
+
+ouvert:Tibule et Delie opera.
+
+Dessin au bistre, sur traits de plume.
+
+Haut.,204 millim.;larg.,148millim.
+
+Grave avec de petites variantes dans l'encadrement (l'Amour jouant de la lyre est
+## SCHENEAU
+
+(JEAN-ELEAZAR)
+
+Schenau,1745 +1756.
+
+50
+
+## Les Apprets de la maternite.
+
+PENDANT DU SUIVANT
+
+Dans un interieur du temps de Louis XVI, ou deux chambrieres preparent un lit, un jeune homme conduit par la main une jeune
+
+Au second plan, un medecin est assis, accoude sur un bureau et tenant une montre.
+
+femme dont la delivrance semble imminente.
+
+Lavis aquarellé.
+
+Cadre en bois sculpte.
+
+Collection Pierre Decourcelle (vente a Paris, le 2g mai 1gi1,n 161).
+
+Haut., 1go millim.; larg.,247 millim.
+## SCHENEAU
+
+(JEAN-ELEAZAR)
+
+51
+
+## La Toilette du nouveau-ne.
+
+PENDANT DU PRECEDENT
+
+Une jeune femme, en robe bleue,assise au coin d'un foyer, tient dans ses bras le petit garcon qui vient de naitre et qu'elle va remettre a une nourrice qui, assise sur la gauche, sapprete a lui donner le sein.
+
+Lavis aquarelle.
+
+Cadre en bois sculpte.
+
+Collection Pierre Decourcelle (vente a Paris, le 2g mai 1g11,n° 162）.
+
+Haut.,187millim.;larg.,245millim.
+## VAN GORP
+
+(HENRI-NICOLAS)
+
+Paris, xvill siecle.
+
+52
+
+## Le Visiteur attendu.
+
+Une jeune femme attend avec impatience la visite de son amoureux, assise aupres d'un gueridon ou sont posees une écharpe, une cafetiere et une tasse; elle relit la derniere lettre de son amoureux. Mais voici la soubrette qui arrive, annoncant a sa maitresse, qui se leve, la visite attendue. Derriere un paravent, dans l'embrasure d'une porte, on voit apparaitre le jeune homme.
+
+Au mur, a droite de la cheminee, un portrait ovale de jeune femme.
+
+Signee a gauche, en bas, et datée.
+
+Gouache.
+
+Haut., 335 millim.,;larg.,265 millim.
+## VINCENT
+
+(FRANCOIS-ANDRE)
+
+Paris,1746+Paris,1816.
+
+53
+
+## Jeune Femme en buste.
+
+Elle est representee le visage presque de face, les regards diriges vers la gauche. Au-dessus du front, un nceud de ruban orne sa chevelure dont les boucles retombent sur le cou.
+
+Dessin aux trois crayons.
+
+Haut,46o millim.;larg.,33o millim.
+## WATTEAU
+
+(JEAN-ANTOINE)
+
+Valenciennes,1684Nogent-sur-Marne,1721.
+
+54
+
+## Feuille d'etudes: sept tetes.
+
+duisons ici la description),la meme tete de femme, avec indication du buste, representee dans quatre poses differentes :la premiere de troisquarts,relevee et inclinee a gauche; la seconde de profil, tournee vers la droite,le buste vu de dos; la troisieme presque de face et un peu inclinee a droite,les yeux baisses,le buste de profil a droite;la quatrieme de face, inclinee en avant,les yeux baisses.
+
+Au-dessous, une tete de femme, tournee de trois-quarts a droite et un peu relevee, le cou tendu; un masque d'homme, vu de face les yeux baisses; et une tete d'homme (ou de femme), vue presque de face, penchee en avant, les yeux baisses ？
+
+C'est, croyons-nous, le dessin de Watteau le plus important qui ait, depuis longtemps, passe en vente publique.
+
+Trois crayons, sur papier chamois.
+
+Haut., 227 millim.; larg., 285 millim.
+
+Cadre ancien, epoque Louis XV, bois sculpte et dore.
+
+Collection des Goncourt (vente a Paris, 15 fevrier 1897,no 344）; la marque de la collection des Goncourt se voiten bas,a droite.
+
+Collection Jacques Doucet (vente a Paris, le 5 juin 1g12, no 66).
+
+Exposition des dessins de maitres anciens, a 1'Ecole des Beaux-Arts, 1879,n°472.
+
+Reproduit par les Goncourt, lArt du XVIIIe siecle (éd. in-4°, t. I,pl. a la p. 42), etau cataloguedelaventedes Goncourt.
+
+Cf. Ph. de Chennevieres, les Dessins de maitres anciens exposes a l'Ecole des Beaux-Arts, dans Gazeite des Beaux-Arts,1879, t.II.p. 1g1, et E. de Goncourt,
+
+Catalogueraisonne,etc.,p.346.
+## WATTEAU
+
+(JEAN-ANTOINE)
+
+55
+
+## Feuille de trois tetes.
+
+En haut, a gauche: un masque d'homme de profl a gauche, imberbe, au nez busque.
+
+En bas, a gauche, le meme homme de face, en buste, avec de longs cheveux retombant sur ses epaules, un large chapeau rond et un rabat.
+
+En haut, a droite,un buste de jeune femme, de trois-quarts a droite, les cheveux releves et surmontes d'un bonnet, un fichu est jete sur ses epaules.
+
+En bas, a droite, l'artiste a esquisse un profil de la meme femme.
+
+Sanguine.
+
+Haut., 3o1 millim.; larg.,163 millim.
+
+Cadre en bois sculpte.
+
+Collection de Mme Lelong. N'a pas figure a la vente.
+
+<!-- image -->

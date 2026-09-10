@@ -1,0 +1,1844 @@
+<!-- image -->
+
+## Andreas Achenbach,
+
+geb. zu Cassel 1815.
+
+- Landschaft. Waldige Gegend mit sumpfigem Wasser. Als Staffage:
+
+Interessante Federzeichnung. In Tusche lavirt. Bezeichnet:A.Achenbach 1846. Hohe 22, Breite 31 Cent. Unter Glas und Rahmen.
+
+- Bauer, auf Esel reitend.
+
+## Antonio Allegri, gen. Correggio (Art und Schule).
+
+Leinwand. Hohe 82, Breite 74 Cent.
+
+- 2 Die Geburt Christi. Die jugendliche Mutter des Herrn hebt den Sehleier von ihrem Neugeborenen, den der hl. Joseph und in der Hohe schwebende Engel andachtig betrachten. In der Ferne die mit einem Licht nahenden Hirten.
+- 3 Kolossalkopf. Weissgelockter bartiger Kopf, nach oben blickend.
+- Fragment einer grossen Decoration aus dem herzoglichen Palaste in Modena. Leinwand. Hohe 171, Breite 111 Cent.
+- 4 Traum eines Konigs. In einem Sessel sitzt derselbe schlafend; in der Hohe in Wolken ein von Engeln getragener Ordensgeistlicher.
+- Leinwand. Hohe 70,Breite 38 Cent.
+- Thierstick. Ein buntgefiederter Hahn, den Kopf nach unten gebeugt, nach rechts schreitend.
+
+Leinwand. Hohe 50, Breite 371/ Cent.
+
+## Christofani Allori (Schule).
+
+- 6 Weibliches Bildniss. Brustbild eines jungen Madchens in DreiviertelWendung nach links, das vom aufgelosten Haar umrahmte Gesicht dem Beschauer zuwendend und die Brust mit einem weissen Gewand be-
+
+Leinwand auf Holz. Hohe 33,Breite 24 Cent.
+
+## Salimbene Arcangiolo,
+
+Maler von Siena zwischen 1560 und 1570.
+
+- Ruhe auf der Flucht. Im Vorgrunde Maria,welche den nackten Jesusknaben auf dem Schoosse halt. Rechts in einer Landschaft der hl. Joseph
+
+Leinwand. Hohe 30,Breite 22 Cent.
+
+- deckt.
+- mit dem Esel.
+- 9
+- 14
+- 16
+
+## M.L. Bages,
+
+moderner Meister.
+
+- Kirchen-Interieur. Theil einer alten gothischen Kirche mit Grabmonu-
+- 8 menten und Holzverschlagen.
+
+Bezeichnet: M. L. Bages 1876.
+
+Leinwand. Hohe 72, Breite 52 Cent.
+
+## Giovanni Francesco Barbieri, gen. Guercino,
+
+geb.1591 in Cento; 1666 zu Bologna.
+
+- Lucifer. Mit der Linken die Fackel erhebend und in der Rechten Blumen haltend, sitzt derselbe in Wolken. Seitwarts eine Anzahl schwebender Amoretten.
+
+Leinwand. Hohe 97,Breite 130 Cent.
+
+## Federico Baroccio,
+
+geb.zu Urbino 1528;1602.
+
+- 10 Studienkopf. Lebensgrosser Kopf eines Mannes mit grossem Kinn- und Schnurrbart. Dreiviertel nach rechts gerichtet, halt er das Auge nach unten.
+
+Leinwand. Hohe 39,Breite 32 Cent.
+
+## Fra Bartolommeo (Copie).
+
+- 11 Das jingste Gericht. Christus,von Engeln umgeben, in Wolken sitzend;
+- Maria, der hl. Joseph und die Apostel.
+
+Copie des obern Theiles des Frescobildes im Spital S. Maria Nuova in Florenz. Leinwand. Hohe 73, Breite 137 Cent.
+
+- 12 Madonna mit dem Kinde. Kniefigur der Maria,die ihren sich zartlich an sie anklammernden Jesusknaben, der rickwarts aus dem Bilde blickt, liebevoll an sich gedrickt halt.
+
+Holz. Hohe 45, Breite 33 Cent. In altem geschnitzten Goldrahmen.
+
+- Die hl. Catharina. Halbfigur der jugendlichen Martyrerin in rothem Kleid
+- 13 mit ihren Attributen.
+
+Holz. Hohe 62,Breite 47 Cent. In geschnitztem Holzrahmen.
+
+## Giovanni Antonio Bazzi, gen. Sodoma,
+
+geb. zu Vercelli 1477(?); zu Siena 1549.
+
+- Pieta. Am Fusse des Kreuzstammes sitzt Maria und halt den Leichnam Christi auf dem Schoosse. Zu beiden Seiten der hl. Hieronymus und der bl. Bernhardin.
+
+Holz. Hohe 42,Breite 30 Cent.
+
+- Allegorie. Zwei bei einem mit Inschriftband umwickelten Baum kampfende Amoretten,die,in einer Hand die Wappenschilde haltend,mit gezickten Schwertern sich gegeniber stehen.
+
+Holz. Hohe 58,Breite 117 Cent.
+
+## Domenico Beccafumi,
+
+geb. bei Siena 1486;  zu Siena 1551.
+
+- Die heilige Familie. Lebensgrosse Halbfigur Maria, den mit dem kleinen Johannes spielenden Jesusknaben auf dem Schoosse haltend; hinter ihr der hl. Joseph.
+
+Stark restaurirtes Bild.
+
+Holz. Rund. Diam.83 Cent. In geschnitztem,polychromirtem Rahmen.
+- 17 Wunder des hl. Antonius von Padua. Der Heilige, umgeben von Ketzern, halt in der Rechten das Sacrament, vor welchem ein Esel die Kniee beugt.
+
+Leinwand. Hohe 30,Breite 39 Cent.
+
+- 18 Venus. Im Vorgrunde einer Landschaft sitzt an der Erde die fast unbekleidete Gottin. Hinter ihr eine Amorette.
+
+Holz. Hohe 70, Breite 139 Cent.
+
+## Lorenzo di Bicci (Manier).
+
+Holz. Hohe 46,Breite 39 Cent.
+
+- 19 Madonna mit dem Kinde. In Halbfigur dargestellt,ist Maria,die Hande gefaltet haltend,nach rechts gewandt; vor ihr auf einem Kissen der kleine Jesusknabe, der in beiden Handen ein weisses Tuch halt; die Nimben und Gewandborten vergoldet und gepunzt.
+
+## Domenico di Tommaso Bigordi, gen. Ghirlandajo,
+
+geb.zu Florenz 1449; 1493oder 1494.
+
+- 20 Der Tod des hl.Franciscus von Assisi. In einem Kirchengewolbe liegt ihn herum eine Anzahl Priester und Monche, von denen einige Wundmale des Heiligen kussen. Auf der Ruckseite alte, auf die Autordie schaft bezigliche Inschrift.
+
+Holz. Hohe 26, Breite 19 Cent.
+
+## Abraham Bloemaert,
+
+- 21 Das Gottermahl.In einem ippigen Haine sitzen die Insassen des Olymps
+
+geb. zu Gorkum 1565;  zu Utrecht 1658.
+
+- an reichgedeckter Tafel. Rechts eine gebirgige Landschaft mit sich liebkosenden und musicirenden Paaren.
+
+Feintoniges Bild von lebendiger Composition. Bez.: A.B. 1610. Holz. Hohe 70, Breite 132 Cent.
+
+## Bologneser Schule.
+
+- Halbfigur eines alteren Mannes mit weissem langem Haar,Kinn- und Schnurrbart. Er ist bekleidet mit schwarzem Gewande,iber welchem der weisse Schulterkragen bis auf die Brust herabfallt.
+- 22 Mannliches Bildniss. Lebensgrosse
+
+Sehr gutes, ausdrucksvolles Bild.
+
+Leinwand. Hohe 75, Breite 57 Cent. In geschnitztem Rahmen.
+
+- 23 Mannliches Bildniss. Halbfigur eines Mannes,in Lebensgrosse fast en face dargestellt, mit hoher Stirn und weissem Kinn- und Schnurrbart. Er tragt ein schwarzes Gewand, das seine Linke vorn zusammenhalt, und weissen Umlegekragen.
+
+Leinwand. Gleiche Ausfuhrung. Gleiche Grosse.
+
+Gegenstick zum Vorigen.
+
+- Madonna mit Heiligen. Umgeben von einer Anzahl Engelsfiguren, thront Maria, auf ihrem Schoosse das Jesuskind haltend, in Wolken. An der Erde eine Gruppe von Heiligen, dabei links der hl. Sebastianus am
+
+Leinwand. Hohe 45,Breite 2) Cent.
+
+- 24 Baumstamme.
+- Petrus in Reue. Halbfigur des Apostelfursten, den Kopf in Besturzung
+- 25 nach links neigend und zu dem Hahn aufblickend.
+
+Leinwand. Hohe 33, Breite 23 Cent.
+
+- 26 Der hl.Andreas. Kniefigur des nur mit einem rothen Mantel bekleideten Heiligen, der mit der Rechten das Kreuz umfasst halt.
+
+Gegenstick zum Vorigen.
+
+Leinwand. Gleiche Grosse.
+
+- 27 Amor. Nach rechts gewandt, sitzt der jugendliche Amor, nur mit einem rothen Mantel bekleidet, auf einem Steine, an welchen der Kocher ge-
+- lehnt ist, und halt in der ausgestreckten Linken den Bogen.
+
+Leinwand. Hohe 35,Breite 27 Cent.
+
+## Bonifacio Veneziano ll,
+
+zu Venedig 1553.
+
+- 28 Die hl.Familie. Fast in Lebensgrosse dargestellt, sitzt die jugendliche Maria vor dem hl. Joseph. Sie halt auf dem Schoosse den sich zartlich an seine Mutter anklammernden nackten Jesusknaben,dem der kleine Johannes eine Taube darbringt.
+
+Leinwand.Hohe 95,Breite 94 Cent.
+
+## Paris Bordone (Manier).
+
+- Die Rast auf der Falkenjagd. Von einem fernen Schlosse her ziehen drei Reiter, der eine mit Falken, nebst Knechten zu einem Hause, vor wel chem eine Gesellschaft von Frauen und Mannern sich mit Musiciren be-
+
+Holz. Hohe 38, Breite 63 Cent.
+
+## Peeter Brueghel d. J.,
+
+geb. zu Brussel 1564; zu Antwerpen 1637/38.
+
+- 30 Der Bauernstreit. Eine Anzahl Bauern ist beim Kartenspiele,dessen Blatter an der Erde zerstreut umherliegen,in Streit gerathen. Einer, der mit einem Dreschflegel s seinen Gegner getroffen hat, wird von einem Genossen, ein zweiter mit Krug von einer Frau und der Getroffene ebenfalls von einer Frau zurickgehalten, die ihm eine Heugabel zu entreissen versucht. Links ein zum Streite eilender Mann und in der Ferne die Hauser eines Dorfes,auf dessen Strasse eine Menge Volkes sich
+
+Vorziglich erhaltenes Bild, das durch den Stich von Lucas Vorstermann (Le Bl. 144) allgemein bekannt wurde. Bezeichnet:P. BREVGHEL 163.
+
+Holz.Hohe 411/2,Breite 57 Cent.
+
+## Byzantinische Schule.
+
+- 31 Noli me tangere. Der auferstandene Erloser,in der Linken die Kreuzesfahne haltend, schaut zu der am Boden knieenden Maria Magdalena hin. Die Scheibennimben vergoldet.
+
+Holz. Hohe 211/e,Breite 17 Cent.
+
+## Polidoro Caldara, gen. da Caravaggio,
+
+geb. 1495 zu Caravaggio; ↑ nach 1543.
+
+- 32 Die Anbetung der Hirten.Im Vorgrunde einer reich ausgestatteten Landschaft sitzt Maria bei der Krippe e und hebt das Tuch von dem neugeborenen Christuskinde,um dieses den Hirten zu zeigen. Zu beiden Seiten in Steinnischen die Standfiguren des hl. Laurentius und des hl. Franciscus.
+
+Treffliche Superporte.
+
+Holz. Hohe 46,Breite 148 Cent.
+
+- 29 schaftigt.
+- belustigt.
+## Carletto Caliari (Manier).
+
+Leinwand. Hohe 126,Breite 70 Cent.
+
+- 33 Johannes,predigend. Ganze Figur des Vorlaufers Christi, mit der Rechten nach oben weisend. Um ihn herum einige Zuhorer.
+
+## Paolo Caliari, gen. Veronese,
+
+- Die hl. Familie. Maria sitzend, halt auf ihrem Schoosse den sich zartlich an seine Mutter schmiegenden nackten Jesusknaben. Hinter ihm der
+- 341 hl. Joseph.
+
+geb. zu Verona 1528;  zu Venedig 1588.
+
+Skizze fur ein grosseres Bild.
+
+Leinwand. Hohe 67, Breite 58 Cent.
+
+## Paolo Caliari, gen. Veronese (Copie).
+
+- musicirende Personen; in der Ferne wohlgepfegter Lustgarten.
+- 35 Palastscene. Bei einem Tische sitzt ein vornehmes Paar, vor ihm einige
+
+Skizze nach einem Bilde in der Galerie von Turin.
+
+Leinwand. Hohe 34,Breite 411/e Cent.
+
+## Luca Cambiaso,
+
+- 36 Maria mit dem Kinde. Unter einem rothen Vorhange steht die jugendliche Maria in weissem Kleide mit blaulichem Mantel und halt auf beiden Armen den nackten Jesusknaben, zu dem sie zartlich niederblickt.
+- 37
+
+geb. zu Moneglia bei Genua 1527; zu Madrid um 1585.
+
+Leinwand. Hohe 67,Breite 50 Cent.
+
+## Lodovico Cardi, gen. Cigoli (Manier).
+
+- Pieta. Auf dem Schoosse seiner Mutter ruht der dornengekronte Leichnam des Erlosers, den Maria in namenlosem Schmerz betrachtet und der hl. Johannes mit einem Leintuche bedeckt.
+
+Leinwand. Hohe 98, Breite 78 Cent.
+
+- 38 Ecce homo.Brustbild des dornengekronten Heilandes, die Arme iber der Brust gekreuzt haltend. Ein Scherge, seitwarts hinter ihm stehend,hebt
+
+Holz. Hohe 72,Breite 54 Cent.
+
+- den rothen Spottmantel von der Schulter des Erlosers empor.
+
+## Agostino Carracci,
+
+- 39 Engelgruppe. Eine Anzahl theils musicirender, theils singender Engel
+
+geb. zu Bologna 1557; zu Parma 1602.
+
+- in Ueberlebensgrosse dargestellt.
+
+Leinwand. Hohe 192, Breite 125 Cent.
+
+Studie nach einem Frescogemilde des Correggio.
+
+## Agostino Carracci (Manier).
+
+- 40 gewandt; die Rechte halt er auf der Brust.
+- Mannliches Bildniss. Lebensgrosse Halbfigur in schwarzer Kleidung mit weissem Umlegekragen. Das mit Schnurrbart gezierte Gesicht ist seitwarts
+
+Leinwand. Hohe 70, Breite 58 Cent.
+
+## Annibale Carracci (Copien).
+
+- 41 Faun und Nymphe. Lebensgrosse nackte,am Boden lagernde Nymphe, vom Rucken gesehen; vor ihr ein sinnlich lachender Faun, in der Rechten eine Schale haltend,links der Kopf einer Amorette. Alte Copie.
+
+Leinwand. Hohe 99,Breite 125 Cent.
+- 42 Zug von Bacchantinnen. Von phantastischen Thierfiguren gezogen, sitzt auf einem Wagen eine Bacchantin, deren Gefahrtinnen,zum Theil Trauben
+- tragend, sie umtanzen.
+
+Leinwand. Hohe 72, Breite 88 Cent.
+
+## Annibale Carracci (Manier).
+
+- 43 Maria mit dem Kinde. Lebensgrosse Kniefigur der Gottesmutter, die seitwarts blickend den kleinen Jesusknaben, der vor ihr steht, an sich drickt.
+- 44
+- 45
+- 46
+
+Leinwand. Hohe 103, Breite 76 Cent.
+
+- Maria mit dem Kinde. Lebensgrosse Halbfigur Maria, nach rechts gewandt. Sie halt auf ihrem Schoosse den vollstandig entblossten, sich innig an sie schmiegenden Jesusknaben.
+
+Leinwand.Hohe 87,Breite 59 Cent.
+
+## Lodovico Carracci (Schule).
+
+- Beweinung Christi. Der Leichnam des Erlosers,ausgestreckt auf einem Tuch liegend. Ueber ihn beugt sich seine weinende Mutter und zu den Fussen zwei ebenfalls weinende Engel.
+
+Leinwand. Hohe 67, Breite 150 Cent.
+
+## Giovanni Benedetto Castiglione,
+
+geb. zu Genua 1616; zu Mantua 1670.
+
+- Viehstick. Im Vorgrunde einer felsigen Gegend zieht ein auf einem Pferde sitzender Hirt mit seiner Heerde nach vorne.
+
+Leinwand. Hohe 67,Breite 63 Cent.
+
+- 47 Hagar und Ismael. Erstere,im Walde am Boden knieend, zeigt dem in der Hohe schwebenden Engel ihren am Boden liegenden Knaben.
+
+Leinwand. Hohe 119,Breite 93 Cent.
+
+## Adam Coloni,
+
+geb.zu Rotterdam 1634;1685.
+
+- Die Feuersbrunst. Ein michtiges, die Wolken weithin erleuchtendes nachtliches Feuer verzehrt die strohgedeckten Hutten eines Dorfes, dessen
+- 48 Bewohner ihre Habe zu retten suchen.
+
+Effectvolles,tichtig gemaltes Bild. Bezeichnet.
+
+Holz. Hohe 39,Breite 32 Cent.
+
+## Giovanni Battista da Conegliano, gen. Cima,
+
+geb. zu Udine (?), thatig um 1500.
+
+- 49 Maria mit dem Kinde. Bei einem grunen Vorhange sitzt,bis zum Knie dargestellt, Maria, die auf ihrem Schoosse den nackten Jesusknaben tragt. Links eine Fensteroffnung mit Blick auf eine gebirgige Flusslandschaft.
+- Holz. Hohe 54,Breite 43 Cent.
+
+## Jacques Courtois, gen. le Bourguignon,
+
+geb. zu St. Hippolyte 1621;  zu Rom 1676.
+
+- 50 Schlachtenbild. Bei einem ausgedehnten Gebaude-Complex tobt eine Reiterschlacht, die sich nach links zu einem weiten Gelande hinzieht.
+
+Leinwand. Hohe 40, Breite 65 Cent.
+
+- 51 Handgemenge. Im Vorgrunde einer weiten Ebene,die links von den Mauern einer Stadt, rechts von hohem Gebirge begrenzt wird, sind
+- Fusstruppen mit Reitern in heftigem Kampfe begriffen.
+
+Leinwand. Hohe 72,Breite 95 Cent.
+- 55
+- 56
+
+## Denlyn R.,
+
+- 52 Nachtstick. Vor einem Gebaude gruppirt sich um ein hell aufloderndes Feuer eine Gruppe von Mannern, Frauen und Kindern. Rechts auf einem vom Vollmonde beleuchteten Flusse ein Schiffer in seinem Kahn.
+
+thatig Ende des 18. Jahrh.
+
+Sehr gutes Bild von trefflichstem Effecte in Folge der wirksamen Doppel-
+
+Holz. Hohe 38, Breite 53 Cent.
+
+beleuchtung. Bezeichnet: R. Denlyn 1797. Prov. Galerie Storp.
+
+## Joost Cornelisz. Droogsloot,
+
+- 53 Dorfstrasse. Von Figuren reich belebte breite Strasse eines Dorfes, die auf einen weiten Wiesenplan mindet.
+
+Droogsloot 16..
+
+thatig zu Utrecht 1. Halfte des 17. Jahrh.
+
+Trefflich ausgefihrtes Bild von hibschem braunen Gesammttone. Bezeichnet:
+
+Holz. Hohe 60, Breite 83 Cent.
+
+## Anthonie van Dyck,
+
+- 54 Weibliches Bildniss. Brustbild einer alten Frau, en face dargestellt,in schwarzem Gewande mit spitzenbesetztem weissen Umlegekragen und einem den Kopf bedeckenden braunen Tuche.
+
+geb. zu Antwerpen 1599; zu Blackfriars 1641.
+
+Prov. Galerie Spinola in Genua.
+
+Leinwand. Hohe 63,Breite 48 Cent.
+
+## A.van Dyck (Schule und Copien).
+
+- Christus und die Ehebrecherin. Gruppe von sechs lebensgrossen Huftfiguren. Leinwand. Hohe 88, Breite 139 Cent.
+- Mannliches Bildniss. Brustbild eines Mannes in schwarzem Gewande mit weissem Umlegekragen. Das mit Haaren sparlich versehene Haupt ist nach oben gerichtet.
+
+Leinwand. Hohe 52, Breite 44 Cent.
+
+Effectvolles Bild von guter technischer Ausfihrung.
+
+- 57 Bildniss eines Ritters. In Ueberlebensgrosse dargestellt, ist derselbe mit Brustharnisch,rothen Beinkleidern, ebensolcher Scharpe und Mantel bekleidet und halt die Rechte erhoben. Am Boden Schiid und Helm. Leinwand. Hohe 202,Breite 118 Cent.
+
+## Allart van Everdingen,
+
+geb. zu Alkmaar angebl. 1621; zu Amsterdam 1675.
+
+- Landschaft. Am linken Ufer eines sich weit in die Ferne ziehenden, von Gebuschen begrenzten Flusses liegt,von Baumen fast verdeckt, dicht
+- 58 am Wasser ein niedriges Bauernhaus mit hohem Strohdache.
+
+Hubsches Bild in selten wohlthuenden Farbtonen. Bezeichnet: A.v.E. Leinwand. Hohe 25, Breite 31 Cent.
+
+## Florentinische Schule.
+
+- Maria mit dem Kinde umd Engeln. Maria,auf dem Throne sitzend,halt mit der Linken den Jesusknaben umfasst. Am Fusse des Thrones zwei musicirende Engel, auf dem spitz zulaufenden Untertheil des Rahmens
+- 59 ein Engel mit Schriftband, auf dem:,Ecce virgo".
+
+Holz. Hohe 60,Breite 35Cent.
+- 60 Maria dem hl. Thomas den Giirtel iberreichend. Vor einer von Engeln gehaltenen Gloriole sitzt die weissgekleidete Maria in Wolken.I Links Zur Halfte sichtbar der Heilige, den Gurtel empfangend. Goldgrund.
+- Holz. Oben zugespitzt. Hohe 371, Breite 27 Cent.
+- 61 Crucifixus. Der todte Erloser, am Kreuze hangend, an dessen Fuss Maria Magdalena kniet. Zu den Seiten die hl. Maria und der hl. Johannes. Landschaftlicher Hintergrund. Mit Vergoldung.
+
+Holz. Hohe 44,Breite 35 Cent.
+
+- 62 S.Benedictus. Brustbild des jugendlichen Heiligen,seitwarts nach oben blickend; er tragt die Palme.
+
+Leinwand auf Holz. Hohe 44,Breite 33 Cent.
+
+- 63 Fruchtstick. Studie von Aepfeln,Pfaumen,Birnen, Gurken und andern Fruchten.
+
+Leinwand. Hohe 29,Breite 43 Cent.
+
+- 64/66 Drei minnliche Bildnisse.Brustbilder dreier Ordensgeistlichen,sammtlich nach links gerichtet. In einem Oval.
+
+Holz. Hohe 111/,Breite 9 Cent.3 Stuck.
+
+- Maria mit dem Kinde und Heiligen.Maria, sitzend dargestellt,halt den nackten Jesusknaben auf dem Schoosse. Zu beiden Seiten der hl. Johannes d. T. und der hl.Franciscus Seraphicus.
+
+Holz. Hohe 122,Breite 92 Cent.
+
+- 68 Der hl. Jacobus major. Ganze Figur des Apostels, der nach links knieend in seinen Armen den Pilgerstab halt.
+
+Holz. Hohe 110,Breite 44 Cent.
+
+- 691 Der hl.Hieronymus. In ganzer Figur dargestellt, steht derselbe im Vorgrunde einer Landschaft,in beiden Handen ein Buch haltend. An der Erde Lowe und Cardinalshut.
+
+Holz.Hohe 138,Breite 44 Cent.
+
+- 70 Stillleben.Auf einer Tischplatte steht neben einem halbgefullten Glaspokale und umgesturzter Weinfasche ein Teller mit Messer und angeschnittener Frucht etc.
+
+Leinwand. Hohe 58, Breite 92 Cent.
+
+- 71 Pieta. Der Leichnam des Erlosers, bis zum Knie dargestellt,ruht in den Armen der Mutter des Herrn, wahrend seine Hande von Engeln gehalten werden.
+
+Leinwand. Hohe 68,Breite 114 Cent.
+
+- 72 Noli me tangere. Christus erscheint als Gartner der vor ihm knieenden Maria Magdalena. Landschaftlicher Hintergrund.
+
+Holz. Hohe 36,Breite 48 Cent.
+
+- 73 Das Gleichniss vom Weinberge. Die Auszahlung des Lohnes. Gruppe
+
+Gutes,wohlerhaltenes Bild.
+
+Leinwand. Hohe 36,Breite 47 Cent.
+
+- von fuinf Figuren.
+- 74 zu nehmen， iberbringt.
+- 75
+
+## Frans Francken d. J.,
+
+getauft zu Antwerpen 1581; daselbst 1642.
+
+- Daniel in der Lowengrube. Inmitten einer Gruppe von funf Lowen sitzt der Prophet, die Hande nach oben streckend,um die Speise in Empfang die der von einem Engel zur Grube gefuhrte Habakuk
+
+Gutes Bild, ansprechend in der Farbe und von guter Erhaltung. Holz.Hohe 41,Breite 30 Cent.
+
+## Franzosische Schule.
+
+- Landschaft. Rechts abschissige Felspartie mit kleinem Haus inmitten Hirt mit Schafheerde und Reiter.
+
+Holz. Hohe 20,Breite 25 Cent.
+
+- 76 Iphigenia. Vor dem Opferaltar der Diana steht die Jungfrau mit entblosstem Nacken, bereit, den Todesstreich zu empfangen. Um sie herum griechische Soldaten etc., dabei der Seher Calchas.
+
+Leinwand. Hohe 62,Breite 75 Cent.
+
+## Agnolo Gaddi (Schule).
+
+- 77/78 Zwei Tafeln mit der Verkindigung. 1) Nach links gewendet ist die jugendliche Maria sitzend dargestellt. Sie halt in der Linken das auf ihrem Schoosse ruhende Buch, wahrend sie die Rechte auf die Brust legt. Vor ihr der hl. Geist in Gestalt der Taube. Goldgrund. 2) Der schwebende Engel Gabriel mit Lilie. Ebenso.
+- 79
+
+Holz. Hohe 29,Breite 21 Cent. 2 Stick.
+
+- Madonna mit dem Kinde. Kniefigur Maria, die mit beiden Handen den kleinen Jesusknaben tragt, der die Rechte segnend erhoben hat. Goldgrund. Holz. Oben zugespitzt. Hohe 60,Breite 58 Cent.
+- 80 Maria mit dem Kinde. Maria, in ein blaues Gewand gekleidet,halt auf ihrem Schoosse den kleinen Jesusknaben,der in der Linken einen Vogel tragt.
+
+Holz. Hohe 105, Breite 64 Cent.
+
+## Giorgione, eigentlich Giorgio,
+
+geb. vor 1477 zu Vedelago;  zu Venedig 1511.
+
+- 81 Die Jungfraulichkeit. Dieselbe ist personificirt durch ein junges Madchen, das an der Erde sitzt und ihre Hand auf den auf ihrem Schoosse ruhenden'Kopf eines Einhorns legt.
+
+Leinwand. Hohe 28, Breite 37 Cent.
+
+- Simson, den Saal der Philister zerstorend. Zwischen den machtigen Blocken des im Einsturz befindlichen Hauses eine grosse Anzahl Personen, zur Erde niederstirzend. Rechts Durchblick auf eine waldige Hugel
+
+Holz. Hohe 41,Breite 100 Cent.
+
+## Giotto di Bondone,
+
+geb. zu Vespignano 1276;  zu Florenz 1336.
+
+- Die Beweinung Christi. Die hl. Mutter hat den von ihr emporgehaltenen Leib ihres gottlichen Sohnes zartlich umfasst, wahrend der hl. Johannes
+- 83 die Wundmale des Erlosers kusst. Auf Goldgrund.
+
+Leinwand auf Holz. Hohe 22,Breite 171 Cent.
+
+- 82 landschaft.
+- Christus am Oelberge. Im Vorgrunde rechts die schlafenden Junger, 84 links in der Hohe Christus, dem ein Engel den Kelch darbringt. Holz. Hohe 37,Breite 16 Cent.
+
+## Giotto (Schule).
+
+- 85 Die Stigmatisation des hl. Franziscus. Derselbe kniet im Vorgrunde einer Landschaft. Der Horizont und der gepunzte Nimbus vergoldet. Leinwand auf Holz. Hohe 28,Breite 23 Cent.
+- 86 Joachim und Anna. Dieselben umarmen sich bei der goldenen Pforte. Bei ihnen drei andere Personen und in der Hohe ein Engel, der die
+- Hande auf die Haupter Joachim's und Anna's legt. Goldgrund.
+
+Holz. Hohe 29,Breite 34 Cent.
+
+## Giovanni da San Giovanni, genannt Manozzi, geb.1590;1636.
+
+- Martyrium des hl.Laurentius. Von zingelnden Flammen umgeben, liegt Haupte ein Engel
+- 87 der Heilige auf dem Rost hingestreckt. Bei seinem mit Palme.
+
+Auf der Ruckseite bezeichnet.
+
+Stein. Hohe 37,Breite 70 Cent.
+
+- 88 Martyrium des hl. Stephanus. Der Auflosung nahe, liegt der hl. Diacon blutiberstromt und mit gefalteten Handen an der Erde. Bei ihm der Engel, der eine Krone und einen Palmzweig tragt.
+
+Stein. Gleiche Grosse
+
+Gegenstick zum Vorigen. Ebenso.
+
+- Maria Magdalena. Die Heilige wird von zwei Engeln gegen Himmel
+
+Gegenstick zum Vorigen. Ebenso.
+
+## Hendrik Goltzius,
+
+Stein. Gleiche Grosse.
+
+geb.zu Muhlbrecht 1558; zu Haarlem 1617.
+
+- 90 Die Anbetung der hl. drei Konige.Vor architektonischem Hintergrunde
+- anderen Konige und deren Gefolge,links der hl. Joseph.
+- sitzt Maria, auf ihrem Schoosse den Jesusknaben haltend, dem der greise, vor ihm knieende Caspar seine Gabe darreicht. Hinter ihm die beiden
+
+Farbenprachtiges Bild, sehr gut in der Composition und von bester Erhaltung. Holz. Hohe 85, Breite 65 Cent.
+
+## Frans Hals (Schule).
+
+Treffliche Ausarbeitung und charakteristische Darstellung. Leinwand. Hohe 72, Breite 97 Cent.
+
+- 91 Die Falschspieler. Halbfiguren dreier junger Manner mit dem Kartenspiel beschaftigt.
+
+## Jan van Hannsberge,
+
+- Diana und ihre Nymphen. Umgeben von ihrem Gefolge sitzt Diana vor einem Felsen bei einem Flusse, in welchen eine Nymphe ihre Gefahrtinnen zu locken sucht.
+
+thatig zu Utrecht;  1705.
+
+Hubsch gruppirtes Bild.
+
+Holz. Hohe 50, Breite 41 Cent.
+
+- 89 getragen.
+- 92
+- 99
+
+## Nicolaas de Helt Stockade,
+
+geb. 1614 zu Nymwegen;  1669.
+
+- 93 Landschaft mit Vieh. Vor grossen landlichen Gebaulichkeiten ist eine Frau im Begriffe eine Kuh zu melken, wahrend eine andere bei Ziege und Schaf am Boden liegt. Bei dieser Gruppe ein Bauer mit Schaufel sowie eine Magd mit Kind.
+
+Holz. Hohe 46,Breite 59 Cent.
+
+## Prof. Heuss,
+
+thatig im XIX.Jahrhundert.
+
+- 94 die Hande emporhaltend,schwebt in
+
+Meisterhaft entworfene Studie. Prov. Galerie Storp.
+
+- Christi Himmelfahrt.Christus， Wolken und blickt nieder zu den ihn umgebenden Jungern.
+
+Leinwand. Hohe 85, Breite 64 Cent.
+
+## H. J. S. bezeichnet.
+
+- 95 Anbetung des Christkindes. Auf die Krippe gebettet ruht der neugeborene Christusknabe schlafend und wird von Maria und dem hl. Joseph angebetet.
+
+Sehr gutes, innig aufgefasstes Bild. Bezeichnet: H. J. S.
+
+Leinwand auf Holz. Hohe 13, Breite 151/e Cent.
+
+## Hollandische Meister.
+
+XVII. Jahrh.
+
+- 96 Bathseba im Bade. Im Vorgrunde einer mit Sculpturen ausgestatteten
+- Parkanlage sitzt Bathseba, mit ihrer Dienerin im Gesprache, im Bade. Auf dem Balkon seines Palastes links David.
+
+Sehr gut durchgefuhrtes Bild.
+
+Leinwand. Hohe 68, Breite 92 Cent.
+
+- 97 Landschaft. Flussreiche mit Waldern durchsetzte Gegend, in der im Vor-
+- grunde als Staffage Pan und Syrinx.
+
+Leinwand. Hohe 78, Breite 100 Cent.
+
+- 98 Der hl. Gamelbertus. Im Vorgrunde einer weiten Landschaft steht, von Wasser ringsumgeben,eine kleine Einsiedelei, in deren Thuroffnung der Heilige betend kniet.
+
+Holz. Hohe 201/e,Breite 231/e Cent.
+
+## Gysbert d'Hondekoeter,
+
+geb. zu Utrecht 1613;  1653.
+
+- Stilleben. In einer Landschaft liegt an der Erde ein erlegter Hase zwischen einem Rebhuhn und einem Goldfasan.
+
+Sehr schones Bild des seltenen Meisters. Bezeichnet:Hondekoeter 1631.
+
+Leinwand. Hohe 39,Breite 60 Cent.
+
+## Jan van Huchtenburgh,
+
+geb. zu Haarlem 1646 (?);  zu Amsterdan 1733.
+
+- letztere die Flucht zu ergreifen suchen. An der Erde Gefallene, getodtete Pferde etc.
+
+Trefflich arrangirtes Bild von guter Farbung und ebensolcher Erhaltung. Leinwand. Hohe 76, Breite 88 Cent.
+- 101 Stillleben.
+
+Bezeichnet: Jan van Huysum.
+
+## Jan van Huysum,
+
+geb. zu Amsterdam 1682; daselbst 1749.
+
+- Auf einer Marmorplatte liegt,von einem Falter umfattert,ein Zweig von weissen Trauben bei rothen Trauben, Pfirsichen etc.
+
+Leinwand. Hohe 42, Breite 35 Cent.
+
+## Italienische Meister.
+
+- 102 Maria mit dem Kinde. Lebensgrosse Halbfigur Maria, die den Christusknaben, zu dem sie zartlich niederblickt,zuzudecken sucht. In einem Oval. Holz. Hohe 89, Breite 66 Cent.
+- 103 Figur eines Martyrers.Laurentius?) Kniefigur des Heiligen mit Palme
+
+Gute Arbeit.
+
+Holz. Hohe 161/e,Breite 15 Cent.
+
+- 104 Die Stigmatisation des hl.Franziscus. Vor einem Felsen kniet derselbe in Verzickung nach oben schauend, wo in den Wolken das Kreuz mit
+
+Auf Marmor. Hohe 22,Breite 19 Cent.
+
+## Charles Lebrun,
+
+geb.zu Paris 1619; 1690.
+
+- 105 Alexander im Zelt des Darius. Die Angehorigen des Darius knieen, theils vor dem Zelt,um Gnade fehend,vor Alexander.
+
+Sehr gutes Bild von trefflicher Composition und bester Erhaltung. Leinwand. Hohe 60, Breite S7 Cent.
+
+## Cornelis Lelienbergh,
+
+geb. im Haag um 1600;  daselbst nach 1663.
+
+- 106 Stillleben. An der Ecke einer Tischplatte liegen in und bei einem Kubel ein Zweig mit Apfelsinen, sowie zwei Melonen bei todtem Gefigel. Effektvoll behandeltes Bild von trefflicher,warmer Farbung und feissiger
+
+Holz. Hohe 6l,Breite 84 Cent.
+
+- Durchfihrung.
+- 107 Stillleben.
+
+Helles, elegant gemaltes Bild von guter Erhaltung.
+
+- Vor einem Baume, von dessen Ast ein Specht herniederhangt, liegt eine Anzahl Gefugel, darunter Wildente, Gimpel,Buchfink， Spatzen etc.
+
+Leinwand. Hohe 67,Breite 83 Cent.
+
+- 108 Todtes Geflugel. Aehnliche Composition.
+
+Leinwand. Gleiche Grosse.
+
+Gleich vortreffliche Ausfuhrung.
+
+## Filippo Lippi,
+
+- 109 Maria mit dem Kinde. Vor nischenformigem Hintergrunde steht Maria, bis zum Knie dargestellt. Sie halt mit beiden Hunden den in ein weisses
+
+geb. zu Prato um 1457 od. 58; zu Florenz 1504.
+
+- Tuch gehullten Christusknaben.
+
+Holz. Hohe 65,Breite 43 Cent.
+
+- und Buch. Mit Vergoldung.
+- den Seraphimfugeln erscheint.
+in
+
+S-
+
+1.
+
+le
+
+e
+
+it
+
+，
+
+D
+
+- Henkelkanne,l Blumen aller Art.
+
+## Francesco Lopez (Schule).
+
+- 110 Stillleben. Auf einem zum Theil gedeckten Tische steht eine verzierte hoher Glasbecher, Teller etc., sowie ein Gefass mit
+
+Leinwand. Hohe 49,Breite 65 Cent.
+
+## Ambrogio Lorenzetti,
+
+geb. zu Anfang des Xiv. Jahrh. in Siena;  um 1348.
+
+- 111 Der hl. Franziscus von Assisi und die drei Klostergelibde: Armuth,
+- Keuschheit und Gehorsam, durch drei weibliche Figuren personificirt, erscheinen dem links stehenden Heiligen.
+
+Holz. Hohe 39, Breite 35 Cent.
+
+## Pietro Lorenzetti,
+
+geb. gegen Ende des XIlI. Jahrh.in Siena;  wahrscheinlich um 1348.
+
+- 112 Martyrium der hl. Afra. Auf einem brennenden Scheiterhaufen kniet
+- die Heilige und halt die eHande betend gefaltet. Um sie herum die Schergen und Krieger etc. Goldgrund.
+
+Holz. Hohe 33, Breite 43 Cent.
+
+## Pietro di Lorenzo, gen. Laurati,
+
+thatig zu Siena in der ersten Halfte des XIV. Jahrh.
+
+- 113 Der hl. Nicolaus, Almosen spendend. Links die offene Stube mit dem verarmten Edelmann und dessen drei Tochtern und rechts der hl. Nicolaus,
+- goldene Kugeln durchs Fenster werfend.
+
+Holz. Hohe 20, Breite 28 Cent.
+
+- 114 Dieselbe Darstellung. Der hl. Nicolaus an der linken Seite. Holz. Hohe 181/e, Breite 341/ Cent.
+
+## Andrea Mantegna (Schule).
+
+- 115 Allegorie. Am diesseitigen Gestade einer grossen Meeresbucht sind drei Frauen einem Ritter behulflich seine Ristung abzulegen.
+
+Holz. Hohe 40,Breite 37 Cent.
+
+## Simone Martini,
+
+geb. zu Siena 1283; zu Avignon 1344.
+
+- 116 Gruppe von Kirchenvatern. Sechs Kirchenvater uber eine These discutirend,die einer derselben vortragt.
+
+Holz. Hohe 21,Breite 76 Cent.
+
+## Matteo di Giovanni,
+
+geb. 1435, vielleicht in Borgo S. Sepolero;  zu Siena gegen 1500.
+
+- 117 Die Verehrung des Schweisstuches Christi.Drei Darstellungen auf einem Bilde vereinigt.
+
+Holz. Hohe 21,Breite 48 Cent.
+
+## Francesco Mazzuoli, gen. Parmegianino,
+
+geb. zu Parma 1504;  zu Casalmaggiore 1540.
+
+- 118 Maria mit dem Kinde. Fast in ganzer Figur sitzend dargestellt, tragt die jugendliche Madonna auf dem linken Arme den kleinen Jesusknaben, der nach einem Blumenstrauss greift, den Maria in der Rechten halt.
+
+Holz. Hohe 47,Breite 371e Cent.
+
+- Neben ihnen, hinter einer Steinbruistung, der kleine Johannes.
+- 119 Maria mit dem Kinde und Engeln. Bei zwei Saulen,an denen vorbei Blick in eine Landschaft, sitzt Maria auf einem Throne und schaut zartlich zu dem auf ihrem Schoosse im Schlafe ruhenden nackten Kinde nieder. Neben ihnen, unter einem rothen Vorhange, eine neugierig sich
+
+Leinwand. Hohe 63, Breite 50 Cent.
+
+- nahende Engelgruppe.
+
+## Johann Martin Metz,
+
+- 120 Stillleben. Grosse sculptirte Vase, in der eine Anzahl Blumen zu wohlgeordnetem Strausse verbunden ist. Am Fusse derselben bei und auf n Unterbau, belebt von Vogel und Schmetterling, einem steinernen ein umgestirztes Vogelnest bei Traubenzweigen und Melonenausschnitt.
+
+geb.um 1730, thatig zu Coln, Bonn ete.; ↑ gegen Ende des XVIl1. Jahrh.
+
+Trefflich ausgefihrtes Bild, ansprechend in Arrangement und Farbung. Bezeichnet: J. M.Metz pinx. 1768.
+
+Leinwand. Hohe 105, Breite 72 Cent.
+
+- 121 Blumenstick. Auf einer Gartenmauer stehen Topfe,Vasen und Schalen, angefullt mit einer Menge Blumen aller Art, darunter Rosen,Tulpen, Aurikeln etc. Auf dem Deckel eines zwischen den Blumentopfen liegenden
+
+Vortreffliches Bild von malerischer Gruppirung und sehr guter Erhaltung.
+
+- Buches die Inschrift: Catalogue des Auricules chez J.M. Metz, peintre 1768.
+
+Bezeichnet.
+
+Leinwand. Hohe 74,Breite 150 Cent.
+
+- 122 26 Darstellungen von Blumen, Frichten ete. Gegensticke in theils
+
+Leinwand. Hohe 271/e,Breite 21 Cent. 26 Stick.
+
+- guten Ausfuhrungen, theils bezeichnet: J. M. Metz.
+
+## Theobald Michau,
+
+- 123 Landschaft. Romische Triumphbogen und andere Bauten zieren die weite Flusslandschaft; in dem Vordergrunde, bei einem Laufbrunnen eine Jahrmarkt-Scene mit zahlreicher Figurenstaffage.
+
+geb. zu Doornik 1676;  zu Antwerpen 1755.
+
+Lebendig componirtes Bild.
+
+- 124 Landschaft. Aehnliche Composition.
+
+Leinwand. Gleiche Grosse.
+
+Leinwand. Hohe 50, Breite 58 Cent.
+
+Gegenstick in gleicher Ausfihrung.
+
+## Hendrik Mommers,
+
+geb.zu Haarlem 1623; daselbst 1697.
+
+- Art ein Mann beschaftigt, Wasser aus einem Fasse in einen Kubel zu giessen. Hinter ihm eine Magd bei Kuhen und Schafen und bei einem kleinen Feuer cin nacktes Kinderpaar.
+
+Leinwand. Hohe 43, Breite 65 Cent.
+
+Sehr gutes effektvolles Bild.
+
+## Giovanni Battista Moroni,
+
+- 126 Mannliches Bildniss. Brustbild eines jungen Mannes in schwarzem Gewande mit weissem,durchbrochenen Spitzenkragen. Das Gesicht mit kleinem Schnurr- und Knebelbarte ist nach dem Beschauer zu gerichtet.
+
+geb.zu Bondo b. Albino um 1520-25;↑ zu Bergamo 1578.
+
+Leinwand. Hohe 54,Breite 42 Cent.
+1- nf
+
+n
+
+e-
+
+S
+
+e
+
+n
+
+- Pfeile haltend.
+
+## Niederlandische Meister.
+
+- 127 Jacobus d. A. Bis zur Halfte in Lebensgrosse dargestelt, steht derselbe fast en face im Pilgergewande mit Stab und Pilgerfasche.
+
+XVII. Jahrh.
+
+Leinwand. Hohe 84, Breite 68 Cent.
+
+- 128 Mannliches Bildniss. Brustbild in schwarzer Jacke mit spitzenbesetztem weissen Umlegekragen und mit breitem schwarzen Hut.
+
+Leinwand. Hohe 24, Breite 171/e Cent.
+
+## Oberdeutsche Schule.
+
+- 129 Die hl. Ursula mit ihren Genossinnen. Im Vorgrunde einer waldigen Gebirgslandschaft steht die Heilige mit ihrem Gefolge,in den Handen
+
+Holz. Hohe 78, Breite 57 Cent.
+
+## Prof. Moritz Oppenheim (t),
+
+moderner Meister.
+
+- 130 Weibliche Studie.Brustbild ciner alten Frau mit hellem Kleide und
+
+Gute Studie.Prov.Galerie Storp.
+
+- Brusttuch. Neben ihr eine brennende Kerze.
+
+Leinwand. Hohe 24,Breite 191e Cent.
+
+## Adriaan van Ostade (nach ihm).
+
+- 131 Die Trinker. Ein altes Paar mit gefulltem Glas und Krug bei einem
+- Tische sitzend. Hinter ihnen ein lachend zuschauender Bauer. Papier. Hohe 171,Breite 111/e Cent.
+
+## Schule von Parma.
+
+- 132 Die Flucht nach Aegypten. Maria auf dem Esel sitzend halt auf ihrem Schoosse den nackten Jesusknaben. Neben ihnen der hl. Joseph. Leinwand. Hohe 27,Breite 36 Cent.
+
+## Giovanni Battista Piazetta (Schule).
+
+- 133 Italienische Landschaft.Durch eine Mauer von einer Ortschaft getrennter Platz, auf dem links ein offener Saulenbau mit Altar. Figurenstafage. Leinwand. Hohe 37,Breite 95 Cent.
+
+## Sebastiano del Piombo,
+
+geb. zu Venedig um 1485; zu Rom 1547.
+
+- 134 Der hl.Dominicus. In sein weisses Ordensgewand gekleidet ist derselbe Rechten ein Buch.
+
+Holz. Hohe 72, Breite 56 Cent.
+
+## Jacopo da Ponte, gen. Bassano (Copien).
+
+- 135 Beim Gefligelhandler. Grosser Hofraum mit mancherlei Personen, die mit und um Gefugel aller Art beschaftigt sind. In der Ferne Waldlandschaft und wegziehende Reiter.
+
+Leinwand. Hohe 114,Breite 180 Cent.
+
+- 136 Die Anbetung der Hirten. Die hl. Familie im Stalle zu Bethlehem. Vor der Krippe ein Hirt, das Jesuskind betrachtend; an der Erde hockend Zwei Genossen mit zwei Hahnen beschaftigt.
+
+Leinwand. Hohe 52, Breite 69 Cent.
+- 137 Christus am Oelberge. Im Vorgrunde die drei schlafenden Junger,
+- links etwas erhoht der Heiland und vor ihm der Engel.
+
+Leinwand. Hohe 30, Breite 41 Cent.
+
+## Pordenone, eigentlich Giovanni Antonio,
+
+geb. 1483 zu Pordenone;1540 zu Ferrara.
+
+- 138 Der hl.Bernhard von Clairvaux. Die Hande ausgebreitet haltend,kniet der Heilige vor der in den Wolken ihm erscheinenden Maria mit dem Kinde. Vor ihm einige Engelsfiguren.
+
+Leinwand. Hohe 43,Breite 36 Cent.
+
+- 139 Mannliches Bildniss. Brustbild eines bartigen Mannes fast en face dargestellt; er tragt schwarze Kleidung und iber den Schultern hangt eine
+
+Leinwand. Hohe 54,Breite 44 Cent.
+
+- doppelreihige Goldkette.
+
+## Frans Pourbus d. J.,
+
+geb.1572 zu Antwerpen;↑ in Paris 1622.
+
+- 140 Mannliches Bildniss. Kniefigur eines Mannes in schwarzem Gewande mit Radkragen. Er halt in der Rechten ein Crucifix, auf das er mit der
+
+Leinwand. Hohe 31, Breite 24 Cent.
+
+## Nicolas Poussin (Schule).
+
+- Gegend,die reich mit Waldungen zwei Baumstammen hindurch Blick
+- 141 Landschaft.Italienische gebirgige ausgestattet ist. Rechts zwischen auf ein hochgelegenes Burggebaude.
+
+Feintoniges, gut erhaltenes Bild.
+
+Leinwand. Hohe 341/e,Breite 44 Cent.
+
+- 142 Landschaft. Ein die Gegend durchquerender Fluss, auf welchem Nachen mit mehreren Personen, wird jenseits begrenzt von hohem mit einer Feste gekrontem Gebirge. Diesseits breiter Weg mit Figurenstaffage. Leinwand. Hohe 33,Breite 46 Cent.
+- 143 Landschaft. Aehnliche Darstellung.
+
+Gegenstick zum Vorigen.
+
+Leinwand. Gleiche Grosse.
+
+- 144 Lanaschaft. Steil abfallende Gebirge,die mit hohen Baumen zum Theil Als Staffage Hirten bei einer Heerde und zwei rastende
+
+Leinwand. Hohe 72, Breite 60 Cent.
+
+- besetzt sind. Manner.
+
+## Rembrandt, Harmensz. van Ryn (Copie).
+
+- 145 Mannliches Bildniss. Brustbild eines bartigen Greises in rothem Mantel, mit weisser Scharpe und grosser Pelzmitze. Gute Copie.
+
+Holz. Hohe 26,Breite 191e Cent.
+
+## Guido Reni,
+
+- 146 Der Erzengel Michael. In der Linken die Waage haltend, zickt er das
+
+geb. zu Calvenzano b. Bologna 1575; zu Bologna 1642.
+
+- Schwert gegen den unter ihm liegenden Lucifer.
+
+Leinwand. Hohe 48, Breite 39 Cent.
+
+Skizze zu dein in Rom befindlichen grossen Bilde.
+
+- Linken hinweist.
+- 147
+
+## Pandolfo Reschi,
+
+- Waldlandschaft. Romantische gebirgige und bewaldete Gegend,in deren Vorgrunde ein Wasser, durch welches drei Reiter ihre Pferde lenken. Am Ufer ebenfalls Reiter etc.
+
+thatig in der 2. Halfte des XVII. Jahrh.
+
+Leinwand. Hohe 33, Breite 48 Cent.
+
+## Pandolfo Reschi (Manier).
+
+Leinwand. Hohe 33,Breite 421e Cent.
+
+- 148 Schlachtenbild. Im Vorgrunde einer weiten Ebene sind Ritter und Turken ins Handgemenge gekommen, wahrend der Kampf in die Ferne fortgesetzt wird. An der Erde Getodtete, Armatursticke etc.
+
+## Henri Ritter,
+
+- 149 Matrosenspiel. Am Strande eines Seehafens gruppirt sich eine Anzahl Seeleute um zwei tanzende Matrosen, denen ein Alter aufspielt.
+
+geb. zu Montreal 1816;  zu Dusseldorf 1853.
+
+Lebendig componirtes Bild. Bezeichnet: Henry Ritter 1838.
+
+Leinwand. Hohe 31,Breite 25 Cent.
+
+## Jacopo Robusti, gen. Tintoretto,
+
+- 150 Minnliches Bildniss. Brustbild eines alteren Mannes in Dreiviertel Wendung nach rechts. Derselbe, in ein schwarzes Gewand mit weissem Umschlagekragen gekleidet,tragt grauen n langen Bart; das Haupt ist von weissen Haaren nur sparlich bedeckt.
+
+geb. zu Venedig 1519; daselbst 1594.
+
+Leinwand. Hohe 53, Breite 42 Cent.
+
+## Jacopo Robusti, gen. Tintoretto (Manier).
+
+- 151 Mannliches Bildniss. Lebensgrosses Brustbild eines blondbartigen Mannes in Dreiviertel-Wendung nach links dargestellt; er ist bekleidet mit rothem, pelzverbramten Mantel.
+
+Leinwand. Hohe 56,Breite 44 Cent.
+
+- 152 Mannliches Bildniss. Brustbild eines bartigen Mannes in schwarzem Ge-
+
+Leinwand. Hohe 48, Breite 40 Cent.
+
+- wande mit Ruschekragen.
+- Von Engeln getragen,schwebt der gottliche Erloser empor. Am Boden die erschreckt aufschauenden Krieger und links
+- 153 Christi Auferstehung. in der Ferne die nahenden Frauen.
+
+Leinwand. Hohe 136,Breite 113 Cent.
+
+## Salvator Rosa (Schule).
+
+- 154 Flusslandschaft. Auf einem im Vorgrunde die ganze Breite des Bildes einnehmenden Flusse ein grosses Segelboot vor steilem hohen Felsgebirge. In der Ferne weite Ebene und hohe Gebaude.
+
+Leinwand. Hohe 27,Breite 56 Cent.
+
+## Johann Rottenhammer,
+
+geb. zu Minchen 1564;  zu Augsburg 1623.
+
+- 155 Die Anbetung der Hirten. Vor einem Stallgebaude kniet Maria, den kleinen Jesusknaben in den Handen haltend. Hinter ihnen der hl. Joseph, auf die Mittelgruppe deutend,und die herbeieilenden Hirten.
+
+Holz. Hohe 30,Breite 23 Cent.
+
+Farbenprachtiges Bild von guter Erhaltung.
+## P.P. Rubens (Copien).
+
+- 156 Die Anbetung der Hirten. Maria hebt das Tuch von dem in der Krippe
+- auf Stroh gebetteten Christuskinde und zeigt den Neugeborenen den sich herandrangenden Hirten.
+
+Holz. Hohe 58,Breite 88 Cent.
+
+- 157 Allegorie. Eine sturzende mannliche Figur mit Zirkel bei zwei weiblichen, deren eine ein Kind halt.
+
+Leinwand. Hohe 119,Breite 145 Cent.
+
+## Salomon van Ruysdael (Schule).
+
+- 158 Landschaft. Am Ufer eines Flusses, auf dem ein Fischer im Kahn, liegt
+- vor einer dichten Baumgruppe ein Haus an einem zum Flusse fihrenden, von Bauerin mit Ziege belebten Wege.Rechts drei hohe Baume.
+
+In sattem Farbtone sehr gut ausgefihrtes Bildchen.
+
+Holz. Hohe 13, Breite 18 Cent.
+
+## Sachsische Schule.
+
+- 159 Landschaft.Weite Ebene, in der im Vorgrunde links ein von Baumen
+- umstandenes Gehoft. Bei demselben zwei Reiter und drei Fussganger, im Vorgrunde zwei rastende Manner.
+
+Freundliches Bildchen.
+
+Holz. Hohe 21, Breite 28 Cent.
+
+## Francesco Rossi de Salviati,
+
+geb.zu Florenz 1510; zu Rom 1563.
+
+- 160 Allegorie. Weibliche Figur in Lebensgrosse dargestellt, halt mit der
+- Linken eine Krone iber das Mediceische Wappen.
+
+Ausschnitt aus einem grossern Bilde.
+
+Leinwand. Hohe 96, Breite 78 Cent.
+
+## Raffaello Santi,
+
+geb.zu Urbino 1483; zu Rom 1520.
+
+- 161 Der hl. Georg. Derselbe,in Rustung auf weissem Pferde sitzend, bekampft mit der Lanze den unter ihm liegenden Drachen. In der Ferne die enteilende Cleodolinde.
+
+Sehr schones,interessantes,aus einem Kloster in Siena stammendes Bild. Nach alten Ueberlieferungen ein der ersten Zeit des Kuinstlers nahestehendes Werk. Kupfer. Hohe 20, Breite 16 Cent. In geschnitztem, theils vergoldeten Rahmen.
+
+## Raffaello Santi (Copien).
+
+- und zwei Engelsfiguren.
+- 162 Die hl.Familie mit Elisabeth und Johannes. Hinter ihnen der hl. Joseph
+
+Leinwand. Hohe 34, Breite 27 Cent.
+
+- 163 Die Vision des Ezechiel. Gott Vater schwebt, von Engeln getragen, inmitten
+- der Attribute der vier Evangelisten iber der Erde.
+
+Holz. Hohe 41, Breite 30 Cent.
+
+- 164 Fornarina. Lebensgrosses Brustbild.
+
+Holz. Hohe 65, Breite 501/e Cent.
+
+## Andrea del Sarto,
+
+geb.zu Florenz 1486; daselbst 1531.
+
+- 165 Maria Besuch bei Elisabeth. Vor der Treppe des Hauses umarmen sich
+- die beiden Frauen. Zacharias und eine alte Dienerin stehen zu den
+e
+
+h
+
+t
+
+，
+
+n
+
+r
+
+e
+
+1.
+
+n
+
+h
+
+n
+
+Seiten der geoffneten Thure. Im Vorgrunde links der hl.Joseph und rechts ein Diener, mit Bundel die Treppe hinansteigend.
+
+Holz. Hohe 75,Breite 95 Cent.
+
+Interessantes Bild von eigenartiger Composition und schonem Colorit.
+
+## Andrea del Sarto (Schule).
+
+- 166 Mannliches Bildniss. Brustbild eines jungen Mannes mit langem braunen Haar, auf dem eine breite Mutze. Er ist nach links dargestellt und schaut den Beschauer an.
+
+Papier auf Holz. Hohe 39, Breite 27 Cent.
+
+- 167 5 kleine Bilder. Christus,Maria, Johannes, St.Nicolaus und St.Laurentius. Halbfiguren in einem Rahmen. In Kreisform.
+
+Holz. Diam. eines jeden Bildes 15, ganze Lange 86 Cent.
+
+- 168 Weibliches Bildniss. Brustbild einer altern Frau en face dargestellt und bekleidet mit schwarzem Gewande und weissem gefranzten Kopftuche,
+
+Holz. Hohe 56, Breite 44 Cent.
+
+- dessen Enden auf die Brust herniederhangen.
+
+## Roelant Savery,
+
+geb. 1576 zu Kortryk;  zu Utrecht 1639.
+
+- 169 Das Paradies. Umgeben von Thieren aller Art, stehen Adam und Eva am Baume der Erkenntniss. Rechts die Vertreibung aus dem Paradiese, links die Erschaffung der Eva.
+
+Holz. Hohe 42,Breite 70 Cent.
+
+- 170 Noe zur Arche ziehend. Von seiner Frau und seinen Tochtern umgeben, schreitet Noe, vor ihm Thiere aller Art,zur Arche.
+
+Holz. Gleiche Grosse.
+
+Gegenstick zum Vorigen. Gleiche Ausfuihrung.
+
+## Hans Leonhard Schaufelein,
+
+geb. vor 1490 zu Nurnberg;  zu Nordlingen 1539 od. 1540.
+
+- 171 Gethsemane.Im Vorgrunde die schlafenden Junger und Christus, der zu dem niederschwebenden Engel aufblickt,in der Ferne die nahenden
+- Rotten und zwischen beiden Gruppen Christi Gefangennahme.
+
+Sehr interessantes gutes Bild.
+
+Holz. Hohe 78,Breite 67 Cent.
+
+## Bartolomeo Schidone,
+
+geb. zu Modena 1560 (?); 1615 od. 1616 zu Parma.
+
+- 172 Ruhe auf der Flucht. Unter einem Baume sitzt Maria mit ihrem gottlichen Kinde; vor ihnen der hl. Joseph und an der Erde kauernd ein kleiner Engel r mit Schale.
+
+Holz. Hohe 46,Breite 39 Cent. In geschnitztem Holzrahmen.
+
+## Schule von Siena.
+
+- 173 Die Kronung Maria. Zwischen zwei Engelsfiguren in der Hohe Maria, welcher der Heiland die Krone aufsetzt; am Boden auf einem gemusterten
+- Teppich zwei stehende und zwei knieende Heiligen.
+
+Goldgrund mit gothischen Spitzbogen.
+
+Holz. Hohe 73, Breite 47 Cent.
+
+- 174 Bildniss eines heiligen Bischofs. Brustbild fast en face. In der einen Hand halt der Heilige die Mitra, in der andern das Pedum.
+
+Holz. Hohe 59,Breite 46 Cent.
+- 175 Martyrium des hl. Laurentius. Der Heilige, von Kriegern und Schergen umgeben,wird auf den Rost gestossen. Der Scheibennimbus und die Flammen des Feuers Gold.
+
+Holz. Hohe 211/e,Breite 291e Cent.
+
+- 176 5 Heiligenfiguren. Darstellung von zwei weiblichen und drei minnlichen Heiligen in ganzer Figur. Auf gepunztem Goldgrund.
+
+Leinwand auf Holz. Hohe eines jeden ca.28, Breite ca.10 Cent. In einem Rahmen vereinigt.
+
+- 177 Maria mit Heiligen. Auf dem Throne sitzend,halt Maria den Jesusknaben auf dem Schoosse,zu den Seiten ein hl. Ordensgeistlicher upd
+
+Holz. Hohe 46,Breite 33 Cent.
+
+- eine hl. Ordensfrau.
+- 178 Der Liebesgarten. Bei einem Brunnen vier Personen zwischen zwei sich liebkosenden Paaren; vor ihnen zwei junge Manner und eine Dame
+- den Reigen tanzend, zu dem ein Genosse auf der Harfe spielt.
+
+Trachtenbild des XV. Jahrhunderts.
+
+Holz. Diam. 71 Cent. In zwolfeckigem,mit dem Bilde verbundenen Rahmen.
+
+- 179 Madonna mit dem Kinde. Halbfigur Maria, auf dem linken Arm den in ein gelbes Gewand gekleideten Christusknaben tragend,zu dem sie zart-
+
+Leinwand auf Holz. Hohe 66,Breite 39 Cent.
+
+- lich niederblickt.
+- 180/181 Zwei Theile einer Predella. Christus am Oelberge und die Gefangen-
+
+Holz. Hohe eines jeden 15,Breite 311/e Cent. 2 Stick.
+
+- nahme des Heilandes.
+
+## Spatrussische Schule.
+
+Fullung einer kleinen Tabernakelthiire.
+
+- 182 Golgatha. Christus am Kreuze hangend, um dessen Fuss die hl. Gruppe, Kriegsknechte etc.; auf Goldgrund mit Punzornamenten.
+
+Leinwand auf Holz. Hohe 43,Breite 15 Cent.
+
+- 183 Maria mit dem Kinde. Halbfigur Maria, welche die beiden Hande ausgestreckt emporhalt.Auf ihrer Brust in einem Rondeau der segnende
+
+Holz. Hohe 12,Breite 10 Cent. In geschnitztem Goldrahmen.
+
+## Spanischer Meister.
+
+Leinwand. Hohe 92,Breite 69 Cent.
+
+- Christusknabe.
+- 184 Portrait eines Kindes. Ganze Figur eines kleinen Madchens in blauem, weiss garnirten Kleide mit Aermelbesatz von bunten Bandern; die Rechte halt einen Facher.
+
+## Spinello di Luca,
+
+- 185 Die Grablegung der hl. Maria. Zu beiden Seiten die Apostel und hinter mit dem Jesuskinde.Auf
+
+geb. zu Arezzo um 1332 od.33; daselbst.
+
+- dem Grabe in einer Gloriole der hl. Joseph Goldgrund.
+
+Holz. Hohe 18,Breite 571/e Cent.
+
+- 186 Die hl. Catharina. Ganze Figur der Heiligen,mit Buch und Palme,an
+- der Erde die Sticke eines Rades.Holzgrund.
+
+Holz. Hohe 83 Breite 29 Cent.
+- 187 Der hl.Jacobus. In ganzer Figur dargestelt, ist der Apostel in braunem Mantel und grunem Untergewand gekleidet und tragt in der Linken das Buch, wahrend die Rechte den Pilgerstab halt. Goldgrund.
+
+Holz. Hohe 82,Breite 26 Cent.
+
+## E. W. Spranger,
+
+- 188 Weibliches Bildniss. Halbfgur, vor einem Vorhange bei einem Tische sitzend,in weissem,reich mit Spitzen besetzten Atlaskleide.
+
+moderner Meister.
+
+Bezeichnet: E. W. Spranger,Berlin 1887.
+
+Leinwand. Hohe 75,Breite 61 Cent.
+
+## Joost Suttermans (Copie).
+
+Leinwand. Hohe 87,Breite 71 Cent.
+
+- 189 Weibliches Bildniss. Halbfigur einer Dame in schwarzem Gewande mit emporstehendem hohen Spitzenkragen. Um den Hals tragt sie eine Perlenkette und die Rechte halt einen Facher.
+
+## David Teniers (Art).
+
+- 190 Hollandische Dorfansicht. Am Ufer eines iberbrickten Flusses sitzt ein Bauer in rother Jacke, seine Angel auswerfend. In seiner Nahe, auf einem Wiesenplan, eine an der Erde hockende Bauernfamilie mit Trinken und Essen beschaftigt und eine ruhende Heerde. Rechts die Hauser
+- eines Dorfes.
+
+Hubsches Bildchen.
+
+Leinwand. Hohe 32,Breite 44 Cent.
+
+## Toscanische Schule.
+
+- 191 Madonna mit Heiligen. Das gottliche Kind auf dem Schoosse haltend, ist Maria ungeben von Engeln,in Wolken sitzend dargestellt. Am Boden knieend der hl. Hieronymus und der hl. Franziscus.
+
+Holz.Hohe 53, Breite 321e Cent.
+
+Sehr gutes Bild. Oben gerundet.
+
+- 192 Madonna mit dem Kinde. Maria bis zum Knie sitzend dargestellt,im Profile nach rechts, halt auf dem Schoosse das kleine Jesuskind, das
+- sie innig umarmt und kisst.
+
+Holz. Hohe 73, Breite 63 Cent.
+
+## Tizian Vecellio (Copien).
+
+- 193 Bacchanale. Faune und Nymphe mit Faunknabe, nach links ziehend. Gute Copie nach dem in der Galerie Pitti befindlichen Bilde des Meisters.
+- Leinwand. Hohe 87,Breite 102 Cent.
+- 194 Bildniss des Ariost. Brustbild des schwarzbartigen Mannes,fast im Profile nach links dargestellt. Er ist bekleidet mit schwarzem Gewande und kleinem weissen Kragen.
+
+Holz. Hohe 51, Breite 39 Cent. In geschnitztem Goldrahmen.
+
+- 195 Ritter-Portrait. Brustbild eines jungen Mannes mit schwarzem Schnurrund Kinnbart. Er tragt einen Brustharnisch und sein Blick ist dem Beschauer zugerichtet.
+
+Holz. Hohe 56, Breite 43 Cent.
+- 196 Die hl.Familie mit dem hl.Johannes. In Halbfigur dargestellt, sitzt Maria in Landschaft und halt auf ihrem Schoosse den Jesusknaben, dem der kleine Johannes sein Inschriftband uberreicht. Hinter letzterm der
+- hl. Joseph.
+
+Leinwand. Hohe 48, Breite 62 Cent.
+
+- 197 Danae. In Ueberlebensgrosse dargestellt,liegt dieselbe auf dem Ruhebette,wahrend eine Amorette den Vorhang emporhebt,unter dem eine sonnige Landschaft zum Vorschein kommt.
+
+Leinwand. Hohe 112, Breite 149 Cent.
+
+- 198 Der Tod Petri des Martyrers. In sein Dominikaner-Gewand gekleidet, liegt der Heilige blutend am Boden, wahrend sein Morder, das gezuckte Schwert in der Rechten haltend, sich iber ihn beugt und ein Ordensbruder entfieht. In der Hohe eine Engelgruppe mit Palme.
+
+Holz. Hohe 52,Breite 30 Cent.
+
+- 199 La Fede.Votivbild fur den Dogen Grimani im Dogen-Palaste zu Venedig.
+- Gute Copie von Trajan Wallis.
+
+Leinwand. Hohe 31,Breite 43 Cent.
+
+## Nicolaas Tyssens,
+
+geb. zu Antwerpen 1660, thatig zu Rotterdam, Breda, Dusseldorf etc.
+
+- 200 Stillleben. Bei und in einem Korbe liegt unter einem rothen Vorhang eine Anzahl todter Vogel, von welchen einen eine Katze zu erhaschen
+- sucht.
+
+Naturwahr ausgefihrtes Bild.
+
+Holz. Hohe 26, Breite 361/e Cent.
+
+- 201 Stillleben. Auf einem Tische steht neben todten Vogeln ein Korb mit Fruchten aller Art. Dabei sitzt ein Eichhornchen,an einer Nuss knu-
+- spernd.
+
+Gegenstick zum Vorigen. Gleiche Ausfuhrung.
+
+Holz.Gleiche Grosse.
+
+## Diego Velasquez de Silva,
+
+getauft zu Sevilla 1599; zu Madrid 1660.
+
+- 202 Mannliches Bildniss. (Papst Innocenz X.?) Lebensgrosses Brustbild eines Mannes mit kurzem Bart, grosser brauner Mutze und braunem Mantel. Leinwand. Hohe 40, Breite 32 Cent.
+
+## Venetianische Schule.
+
+- 203 Gruppe von drei Halbfiguren. Eine Frau und zwei Manner in Lebens-
+- grosse dargestellt. Ausschnitt aus einem grossern Bilde.
+
+Leinwand. Hohe 55, Breite 78 Cent.
+
+- 204 Die Begegnung. Vor einem dichten Gebusche steht, an einen Baumstumpf gelehnt, ein Alter mit Spiess und spricht zu einer vor ihm stehenden jungen Dame.
+
+Holz. Hohe 35,Breite 27 Cent. In geschnitztem Holzrahmen.
+
+- 205 Mannliches Bildniss. Brustbild eines altern Mannes in rothbraunem Rocke zugewendet. In einem Rondeau.
+
+Holz. Hohe 191/,Breite 191/e Cent.
+- 206 Das Concert. Zwei vornehme Damen Guitarre und Klavier spielend,
+- seitwirts ein Cavalier auf der Querfote blasend und ein Knabe, der singt. Holz. Hohe 181e, Breite 301/e Cent.
+- 207 Vision eines Papstes. In seinem Ornat mit Buch auf einer Wolke sitzend,
+- palme ihm zeigen.
+
+Leinwand. Hohe 132, Breite 77 Cent.
+
+- 208 Der hl.Johannes d.T. Bis zum Knie dargestellt, steht derselbe in Lebensgrosse bei einem Baumstamme. Er halt in der Linken den Kreuzstab, wahrend seine Rechte nach rechts hinweist.
+
+Leinwand.Hohe 136,Breite 114 Cent.
+
+- 209 Biblische Landschaft. Waldige,hugelige Gegend; in der Mitte die von Strahlen ibergossene Arche und der knieende Noe. Zu den Seiten und
+- im Vorgrunde eine Menge Thiere aller Art.
+
+Leinwand. Hohe 76,Breite 165 Cent.
+
+- 210 Biblische Darstellung. Gott Vater, umgeben und getragen von einer
+- grossen Anzahl Engelsfiguren, nach links hin schwebend.
+
+Leinwand. Hohe 100, Breite 165 Cent.
+
+- 211 Maria mit dem Kinde. Die jugendliche Maria halt auf ihrem Schoosse den Jesusknaben, dem der kleine Johannes einen Apfel iberreicht.
+- Leinwand. Hohe 64, Breite 71 Cent.
+
+## J.A. Vercruicen.
+
+- 212 Der hl. Eligius beim Goldschmied. In sein Ornat gekleidet, sitzt der heilige Bischof bei einem mit Schmucksachen bedeckten Tische, hinter dem der Goldarbeiter steht,der einen Ring emporhalt. Der Heilige halt in der Rechten einen Zeichenstift, in der Linken eine Tafel und schaut seitwarts zu einem Knaben hin, der Mitra und Chormantel tragt.
+- Vortrefflich ausgefihrtes Bild. In der Farbe hochst ansprechend und sehr gut
+
+erhalten. Bezeichnet: J. A.Vereruicen Jn. Et pinx.
+
+Leinwand. Hohe 146,Breite 196 Cent.
+
+## Schule von Verona.
+
+- 213 Das Concert. Vor einer nackten, schlafenden,weiblichen Figur, die auf rothem Tuche ruht, sitzt eine Dame beim Spinett,bei ihr ein die Querpfeife blasender alterer Mann und ein junger, der die Violine handhabt.
+
+Leinwand. Hohe 105,Breite 148 Cent.
+
+## Vlamische Schule.
+
+- 214 Landschaft. Bei einem breiten, vorne einen Fall bildenden Wasser ein
+- Weg mit Figurenstaffage. Links ein grosses Gebaude.
+
+Kupfer. Hohe 25,Breite 36 Cent.
+
+- 215 Stillleben. In buntem Durcheinander gruppirt sich eine Menge Obst,
+- als Trauben, Pfirsiche, Aepfel, Birnen um eine Schuissel mit Feigen und eine Silberkanne.
+
+Leinwand. Hohe 87,Breite 72 Cent.
+- 216 Rast auf der Wanderung. Bei den Resten machtiger alter Bauten halt eine Anzahl von Frauen, Mannern und Kindern bei einer Menge Thiere ihre Rast.
+
+Leinwand.Hohe 74,Breite 102.
+
+Effectvolles Bild von trefflichster Beleuchtung.
+
+- 217 Mannliches Bildniss. Brustbild eines altern Mannes in schwarz-roth gemustertem Wamms, mit eisernem Halskragen und weissem Umlegekragen. Das Gesicht mit dem kurzgeschnittenen Zwickel und Schnurrbart ist
+- etwas nach rechts gerichtet.
+
+Leinwand.Hohe 64,Breite 51 Cent.
+
+## Trajan R. Wallis jr.
+
+- 218 Portrait des Erzbischofs Minucci von Florenz. Lebensgrosse Halbfigur. Er hat die Linke auf ein Buch gelegt, wahrend die ringgeschmickte
+- rechte Hand auf einem Tuch ruht.
+
+Leinwand. Hohe 108,Breite 79 Cent.
+
+- 219 Weibliches Portrait. Junges Madchen, fast bis zum Knie dargestellt
+- und bekleidet mit rothem Gewande, schaut lachelnden Blickes nach oben und halt in beiden Handen ein Blatt, auf dem das Bild Christi im Vierpass.
+
+Leinwand. Hohe S8,Breite 60 Cent.
+
+- 220 Mannliches Bildniss. Brustbild eines Mannes mit grossem, uber die Brust herabhangenden Barte, en face dargestellt; das mit langem Lockenhaar bedeckte Haupt tragt ein kleines Kappchen.
+
+Leinwand.Hohe 44,Breite 34 Cent.
+
+- 221 Simson, die Saulen stirzend. Trimmer des Palastes sturzen mit einer Anzahl Menschen hernieder,wahrend Simson im Begriff ist eine zweite Saule niederzureissen.
+
+Leinwand. Hohe 27,Breite 99.
+
+- 222/223 Zwei Darstellungen aus der 0dyssee. 1. Odysseus rettet sich auf die
+
+Holz.Hohe 27,Breite 98 Cent. 2 Stick.
+
+- Insel Ogygia und 2. Odysseus wird von Nausicaa bekleidet.
+- 224 Weibliches Bildniss. Halbfgur einer, in einem Lehnstuhle sitzenden vornehmen Dame,in schwarzem Gewande.Vom Lockenhaupte hangt eine grosse Perle auf die Stirne hernieder, den entblossten Hals schmickt eine edoppelreihige Kette.
+
+Holz.Hohe 24,Breite 19 Cent.
+
+- 225 Einzug eines Siegers. Figurenreiche Skizze.
+
+Leinwand. Hohe 39, Breite 67 Cent.
+
+## Hendriks Wybrand,
+
+- 226/227 Zwei Kinderportraits. Halbfiguren. Sie halten beide vor sich ein Inschriftblatt. Auf der Ruckseite Bezeichnungen, wonach die Dargestellten Mitglieder der Familie Haksteen und zwar I Pieter Haksteen und seine Schwester sind. Datirt 1780.
+
+geb. zu Amsterdam 1744; zu Haarlem 1831.
+
+Recht hibsche,ausdrucksvolle Bilder. Beide bezeichnet:W.Hendriks pinx. Leinwand. Hohe 42, Breite 35 Cent. 2 Stick.
+## Domenico Zampieri, gen. Domenichino (Art).
+
+- 228 Engelgruppe. Einige sich an der Hand fassende, schwebende Engel bei
+- einem nach unten schauenden grosseren Engel.
+
+Ausschnitt aus einem Bilde.
+
+Leinwand. Hohe 50, Breite 63 Cent.
+
+## Unbekannte Meister.
+
+- 229 Der hl. Nicolaus und der verarmte Edelmann.1 Letzterer sitzt in Ge-
+- danken versunken in einem Gemache, den rechten Arm auf ein vor ihm liegendes, geoffnetes Buch stutzend. Vor ihm seine drei Tochter mit Handarbeit beschaftigt und in der Umrahmung des Fensters sichtbar der hl. Nicolaus, der einen Beutel mit Geld in die Stube wirft.
+
+Sehr gutes Bild von trefflichster Auffassung und Ausfuhrung. Gut erhalten. Leinwand. Hohe 160, Breite 205 Cent.
+
+- 230 Die Salbung Davids. Umgeben von einer Menge Krieger, seinen Bridern etc., kniet David auf einer Estrade. Vor ihm Samuel, das Horn mit Oel
+- uber seinen Kopf haltend.
+
+Figurenreiches Bild von schoner Gruppirung und trefflicher Farbung.
+
+Leinwand. Hohe 146,Breite 210 Cent.
+
+- 231 Brustbild eines Geistlichen. In seinem schwarzen Talar ist derselbe in Dreiviertel-Wendung nach rechts dargestellt, das frische Gesicht, welches von einer weissen Perricke umrahmt ist, dem Beschauer zuwendend. Leinwand. Oval. Hohe 24,Breite 18 Cent.
+- 232 Landschaft. Eine hugelige Gegend, die beiderseits Waldungen zeigt, ist belebt von Reiter und einer Anzahl Fussganger. Im Mittelgrunde kommt das Dach und der Thurm einer Kirche zum Vorschein und in der Ferne schliesst cine Bergkette die Thalniederung ab.
+
+Hubsches Bildchen.
+
+Holz. Hohe 24,Breite 31 Cent.
+
+- 233 Madonna mit dem Kinde. Halbfigur Maria, auf dem linken Arm den segnenden Jesusknaben haltend, der in der Linken eine Blume tragt. Nimben und Umrahmung vergoldet.
+
+Leinwand. Hohe 191/e,Breite 16 Cent.
+
+- 234 Romische Scene. Vor hohen Saulenbauten und Sculpturen steht eine vornehme Romerin, zu der zwei andere hinschreiten.
+
+Leinwand. Hohe 65,Breite 85 Cent.
+
+- 235 Ludwig Xll. von Frankreich. Halbfigur des Konigs im Prunkgewande
+- mit Scepter und Krone. Die Rechte halt eine Inschrifttafel.
+
+Interessantes Costuimbild in lebensgrosser Darstellung.
+
+Holz. Hohe 79,Breite 611/e Cent.
+
+- 236 Stillleben. In malerischer Anordnung liegt zwischen Tulpen und anderen Blumen eine Anzahl Orangen. Dabei in einem hangenden Ring ein grinfedriger Papagei..
+
+Trefflich ausgefuhrtes Bild von weicher, wohlthuender Farbung. Leinwand. Hohe 39,Breite 77 Cent.
+
+- 237 Amorettenfries (Baechanale). Zug von 13 Amoretten,musicirend,einen
+- Ziegenbock fuhrend etc.; vorne eine trunkene Amorette.
+
+Holz. Hohe 121e,Breite 90 Cent.
+- 238 Golgatha. Umgeben von vielen Personen hangt der gottliche Erloser
+- am Kreuze, wahrend man die beiden Schacher aufzurichten im Begriffe ist. Leinwand. Hohe 49,Breite 118 Cent.
+- 239 Maria mit dem Kinde.Halbfigur der sitzenden Maria,die,in e einen weiten rothen Mantel und blaues Gewand gekleidet, den nackten Jesusknaben liebkost.
+
+Leinwand. Hohe 32,Breite 24 Cent.
+
+- 240 Portrait eines Kindes. Brustbild eines kleinen Knaben in schwarzer Jacke mit weissem Umlegekragen. Das von dichten, braunen Locken
+
+Leinwand. Hohe 38,Breite 29 Cent.
+
+- umrahmte Gesicht ist dem Beschauer zugewandt.
+- 241 Maria mit dem Kinde und Engeln.In ein rothes Gewand gekleidet, sitzt Maria, zur Halfte dargestellt und halt den Jesusknaben auf dem Schoosse. Um die Gruppe herum drei kleine Engel, von denen einer einen weissen Vorhang emporhalt.
+
+Holz. Hohe 76,Breite 64 Cent.
+
+- 242 Die Beweinung Christi.Der vom Kreuze abgenommene Heiland ruht auf einem Leinentuche am Boden. Um ihn herum die weinenden Frauen und Junger, sowie in der Ferne der Calvarienberg.
+
+Holz. Hohe 30,Breite 54 Cent.
+
+- 243 Kistenlandschaft.Auf wenig bewegten Fluthen einige Boote und am Ufer bei einer Steintreppe,die e zu einem grossen Gebaude fihrt,ein Reiter im Gesprache mit einem Manne und ein Lasttrager.
+
+Leinwand. Hohe 60,Breite 102 Cent.
+
+- 244 Die hl. Genovefa von Paris. Inmitten einer Landschaft sitzt die Heilige,
+
+Leinwand. Hohe 55,Breite 42 Cent.
+
+- um sie herum die sich an sie drangenden Schafe und in der Hohe in Wolken schwebende Engel.
+- 245 Flusslandschaft. Oedes, steiles Gebirge, begrenzt linksseitig einen Fluss,
+- auf dem vorne Nachen mit Schiffer und andern Personen.
+
+Leinwand. Hohe 21, Breite 231/e Cent.
+
+- 246 Die hl.Familie.In Landschaft sitzt vor dem hl. Joseph die Mutter Gottes unter einem Baum und halt auf ihren Knieen den nackten Jesusknaben, der Blumen aus den Handen des kleinen Johannes entgegennimmt. Kupfer. Oval. Hohe 21, Breite 16 Cent.
+- 247 Mannliches Bildniss. Brustbild eines alteren Mannes mit weissem,von Kappchen bedeckten Haare, weissem Kinnbart und dunkelm Schnurrbart. Er ist bekleidet mit braunem Rocke mit weissem Umlege-
+
+Leinwand. Hohe 45,Breite 36 Cent.
+
+- einem kragen.
+- 248 Mannliches Bildniss.Brustbild eines bartigen Mannes in weissem Gewande; en face dargestellt, halt er das Gesicht im Profile nach rechts.
+
+Leinwand. Hohe 61,Breite 50 Cent.
+
+- 249 Maria mit dem Kinde. Huftfigur der den Beschauer anblickenden Madonna. Sie halt mit der Linken den vor ihr sitzenden Jesusknaben um-
+
+Leinwand auf Holz. Oben gerundet. Hohe 61,Breite 46 Cent.
+
+- In einem Oval.
+- fasst.Griner Grund.
+- 250 Ecce homo. Bis zum Knie dargestellt, steht der gottliche, dornengekronte Heiland mit dem Spottmantel bekleidet und halt in der gefesselten Linken das Rohr. Neben ihm,auf eine Bristung gelehnt, Pilatus,auf den Erloser zeigend.
+
+Leinwand. Hohe 99,Breite 81 Cent.
+
+- 251 Der Raub der Tochter Silo's durch die Benjaminiter. Die Mittelgruppe des Bildes nimmt eine weibliche Figur ein, die ihren rechten Arm um einen Baum schlingt und mit der Linken dem Krieger wehrt,der mit gezucktem Schwert auf sie eindringt. In der Ferne ebenfalls fiehende Frauen und die sie bedrohenden Manner.
+
+Leinwand auf Holz. Hohe 45,Breite 35 Cent.
+
+- 252 Fruchtstick. In einer Landschaft liegt an der Erde eine Menge Obst,
+- darunter geoffnete Melone,Trauben,Pfirsiche etc.
+
+Leinwand. Hohe 50,Breite 63 Cent.
+
+- 253 Madonna. In Halbfgur dargestellt, halt Maria die Hande gefaltet und
+- betet in einem Buche,das vor ihr liegt.
+
+Leinwand. Hohe 60, Breite 50 Cent.
+
+- 254 Die Stigmatisation des hl.Franziscus. In einer gebirgigen Einode kniet
+- der Heilige mit ausgebreiteten Armen; in der Hohe das Kreuz mit Seraphimfugeln und im Vorgrunde ein Ordensgenosse des Heiligen. Leinwand. Hohe 68,Breite 50 Cent.
+- 255 Kinderbildniss. Brustbild eines kleinen Madchens mit dichtem, weit abstehendem Haar. Fast en face dargestellt, ruht sein Blick auf dem Beschauer; es tragt ein gelbes Kleid, dessen Halsborde mit einem Edelstein geschmickt ist.
+
+Leinwand. Hohe 45,Breite 40 Cent.
+
+Sehr gutes, interessantes Bild von tiefer, sinniger Auffassung und prachtigem Ausdruck.
+
+- 256 Kistenlandschaft. Auf dem Meere einige theilweise wenig sichtbare Schiffe und ein Nachen mit Ruderer am Gestade, auf dem einige Manner. Links Rest alter Bauten und steile Felsen.
+
+Leinwand. Hohe 38, Breite 48 Cent.
+
+- 257 Minnliches Bildniss. Lebensgrosse Halbfigur eines Mannes, en face dar-
+- gestellt; er tragt rothes faltenreiches Gewand mit weissem, auf die Brust niederfallenden Schulterkragen, sowie kleinen Schnurr- und Knebelbart. Leinwand. Hohe 73,Breite 58 Cent.
+- 258 Diana und Aktaon. Erstere vor einem Gebusche mit ihrem zahlreichen
+- Gefolge im Bade. Rechts am Ufer Aktaon, dessen Kopfe bereits das Geweih erwachsen ist.
+
+Leinwand. Hohe 33,Breite 26 Cent. In durchbrochen geschnitztem Goldrahmen.
+
+- 259 Die Himmelfahrt Maria. Von einer Engelsglorie umgeben, schwebt Maria, die Hande ausgebreitet haltend, gegen Himmel empor; zu beiden Seiten zwei grossere Engelsfiguren.
+
+Holz. Hohe 30, Breite 112 Cent.
+
+- 260 Maria mit dem Kinde. Mitteltheil eines Klappaltars, oben zugespitzt und
+- mit gothischem Blattornament geschmickt.
+
+Holz. Hohe 90, Breite 46 Cent.
+- 261 Crucifixus. Der gottliche Heiland am Kreuze hangend. Zu beiden Seiten ein Dominikaner-Monch und eine Frau mit Kind betend. Auf Goldgrund. Holz. Hohe 23,Breite 45 Cent.
+- 262 Der Raub der Proserpina. Pluto auf seinem,mit zwei Pferden bespann-
+- ten Wagen sitzend, halt in seinen Armen die sich straubende Proserpina. Leinwand. Achteckig. Hohe 115,Breite 95 Cent.
+- 263 Portrait eines Bischofs. Lebensgrosse, fast ganze Figur eines Bischofs,
+
+Leinwand.Hohe 135,Breite 105 Cent.
+
+- der in einem Sessel sitzt und die Rechte segnend erhebt. Alte Copie.
+- 264 Bacchus. Halbfgur des jugendlichen Bacchus, der auf seinem linken
+
+Leinwand. Hohe 47,Breite 37 Cent.
+
+- Arme eine Anzahl Trauben tragt.
+- 265 Der hl.Franziscus Xaverius. In Lebensgrosse bis zur Hufte dargestellt, ist der Heilige in sein Ordensgewand gekleidet, iber welches die Stola niederfallt. Er halt mit beiden Handen das Crucifix,wahrend ein Engel
+
+Leinwand. Hohe 75,Breite 63 Cent.
+
+- ihm die Palme reicht.
+- Vor einem Gebaude halten zwei Engel die ohnmachtig hingesunkene Heilige. Vor ihr Christus mit einem
+
+Holz. Hohe 73,Breite 57 Cent.
+
+- 266 Die hl. Catharina yon Siena. Herz.
+- 267 Drei Bilder mit Heiligen. In ganzer Figur dargestellt, stehen der Erzengel Michael, die hl. Apollonia und der hl. Hieronymus in Landschaft. Holz. Hohe eines Jeden 151/e,Breite 16 Cent. In einem Rahmen vereinigt.
+- 268 Die Anbetung der Hirten. In einem niedrigen Stallgebaude kniet Maria, den neugebornen Jesusknaben anbetend. Links der hl. Joseph schlafend, rechts die herbeigeeilten Hirten.
+
+Holz. Hohe 18,Breite 58 Cent.
+
+- 269 Mannliches Bildniss. Brustbild eines Mannes in schwarzem Gewande mit
+- Kupfer. Hohe 16,Breite 12 Cent.
+- weissem Umlegekragen. Als Umrahmung portalartige, antike Nische.
+- 270 Antonius von Padua, Wunder wirkend. Umgeben von seinen
+- Ordensbridern, steht der Heilige beim Portale einer Kirche und halt mit der Rechten die Monstranz empor, vor welcher ein Esel niederfallt. In der Hohe wird der Heilige, den Jesusknaben tragend, von Engeln Himmel gefuhrt. gegen
+
+Holz. Hohe 47,Breite 36 Cent.
+
+- 271 Der hl. Laurentius. Bis zum Knie dargestellt, steht der Heilige in seinem Diakon-Gewande, in der Rechten seine Attribute, Rost und Palme, haltend. Holz. Hohe 27,Breite 23 Cent.
+- 272 Brustbild eines Cardinals. In rothem Gewande mit weissem Umlegekragen, ist derselbe fast im Profile nach links dargestellt. Das mit rothem Barett bedeckte Haupt halt er dem Beschauer zu gerichtet. Leinwand. Hohe 40, Breite 321/e Cent.
+- 273 Die hl. Catharina und hl.Lucia. Brustbilder mit ihren Attributen, Rad
+
+Holz. Hohe 17, Breite 32 Cent.
+
+- 274 Weibliches Bildniss. Junge vornehme Dame in ganzer Figur bei einem Tische stehend, auf welchem ihre linke Hand ruht. Sie ist gekleidet in weisse, mit Goldbordure verzierte Gewandung.
+
+Leinwand. Hohe 174,Breite 118 Cent.
+
+- 275 Der Apostel Jacobus. In einen blaugrinen Mantel gekleidet, steht der Apostel in Lebensgrosse, in Halbfigur dargestellt en face und halt sein Attribut, eine Keule, in beiden Handen.
+
+Leinwand. Hohe 88, Breite 71 Cent.
+
+- 276 Das Opfer Abrahams. Vor dem Opferaltar knieend,halt Abraham den Isaac mit der Linken umfasst und ist im Begriffe,demselben das Messer in die Brust zu stossen.
+
+Leinwand. Hohe 39, Breite 33 Cent.
+
+- 277 Landschaft. Am Ufer eines von Nachen und Seglern belebten Flusses liegt bei einem Bergabhange ein hubsches Villengebiude vor einer dichten Baumgruppe.
+
+Leinwand. Hohe 32,Breite 44 Cent.
+
+- 278 Meereskiste. Ruhige See,an deren Gestade ein Nachen mit einer Frau; in der Ferne eine Anzahl Segler, die bei einem Werft vor Anker liegen. Leinwand. Hohe 16, Breite 26 Cent.
+- 279 Zur Geschichte des Jonas. Im Vorgrunde sitzend, empfingt er von Gott den Auftrag, nach Ninive zu wandern. Rechts die Stadt mit dem Ungeheuer etc.
+
+Holz. Hohe 77,Breite 108 Cent.
+
+Trefflich ausgefuhrtes Bild.
+
+- 280 Das Opfer Abrahams. Abraham ist im Begriff, seinen Sohn Isaac zu Knechte Abrahams mit dem Esel.
+
+Gut ausgefihrtes Bild.
+
+Holz. Hohe 65, Breite S3 Cent.
+
+- 281 Diana umd Aktaon. Bei einem cascadenartig niederstirzenden Brunnen sitzt Diana mit ihren Nymphen und zeigt auf Aktaon,der sich neugierig genaht hat.
+
+Holz. Hohe 50,Breite 62 Cent.
+
+Gut componirtes Bild.
+
+- 282 Ecce homo. Halbfigur Christi an einer Brustung stehend,neben ihm zwei Krieger.
+
+Holz. Hohe 191/2,Breite 14 Cent.
+
+- 283 Stillleben. Melonen, Trauben, Nusse und andere Fruchte liegen bei und auf einer Schussel, hinter der ein Blumenstrauss.
+
+Leinwand. Hohe 87,Breite 73 Cent.
+
+- 284 Doppeltafel. Einerseits mit schlafendem Bischof, dem Christus im Traume erscheint, andrerseits Bischof vor einem Altar mit Priestern,Nonnen etc.
+
+Holz. Achtpassformig ausgeschnitten. Diam.116.
+
+- und zwei Augen auf einer Schuissel.
+- 285 Mythologische Scene. Bei einem Felsen steht in einer Landschaft Vulcan,
+- der eine Botschaft von einer Nymphe der Diana entgegennimmt. Holz. Hohe 37,Breite 29 Cent.
+- 286 Historische Darstellung. An einem Flussufer ein Segelschiff, dessen
+- Bemannung linksseitig in einem offenen Hause einen Ueberfall bewerkstelligt.
+
+Holz. Hohe 42,Breite 139 Cent.
+
+## Willem van Aelst,
+
+geb. 1620 zu Delft; zu Amsterdam 1679.
+
+- 287 Stillleben. Auf einer Tischplatte liegt,belebt von Fliege und Falter, eine Menge Blumen in einem durchbrochenen Korbchen. Auf der Platte selbst einige Muscheln und eine Tulpe, bei denen Raupen und eine Eidechse kriechen.
+
+Fleissig durchgefihrtes Bild, recht gut in Anordnung und Farbung. Holz.Hohe 34,Breite 511/e Cent.
+
+## Jacques d'Arthois,
+
+getauft zu Brussel 1613; nach 1673.
+
+## Adriaan van de Velde,
+
+geb. zu Amsterdam 1635/36; daselbst 1672.
+
+- 288 Waldlandschaft mit Eberjagd. An einem breiten Waldwege, uber den hinaus Blick auf einen Fluss und Hugellandschaft, wird ein Eber, von einer zahlreichen Hundemeute gestellt, von einem Jager erlegt. Bei der Gruppe ein Reiter sowie mehrere andere Personen.
+
+Ansprechendes Bild,die Staffage lebendig componinrt.
+
+Leinwand. Hohe 48,Breite 56 Cent.
+
+## Jan Asselijn,
+
+geb. zu Diepen 1610;  zu Amsterdam 1660.
+
+- 289 Felsgrotte.Geraumige Hohle, durch deren Bogenoffnung Blick auf eine sonnige Landschaft.Rechts mit Gestripp bewachsene Saulenreste und als Staffage lasttragende Frau mit Mann und Kind,rastendes Bauern-
+- paar etc.
+
+Gut ausgefihrtes Bild.
+
+Holz. Hohe 28, Breite 35 Cent.
+
+## Cornelis Huysmans,
+
+getauft zu Antwerpen 1648;zu Mecheln 1727.
+
+- 290 Motiv am Maasflusse. Einzelstehende Gehofte schmicken die baum-
+- reichen,hugeligen Gelande des kleinen Flusses, an dem im Vorgrunde einige Fischer ein beladenes Boot ans Ufer zu ziehen sich bemihen und eine Schaafheerde weidet.
+
+In warmen Gesammttone trefflich ausgefihrtes Bild,von vortheilhaften Lichteffecten.
+
+Leinwand. Hohe 60, Breite 73 Cent.
+
+## Karel van Mander,
+
+geb.zu Delft um 1580; nach 1665.
+
+- 291 Bauernaufzug. Gruppe von sechs bis zum Knie dargestellten Figuren, nach links hin-
+
+Holz. Hohe 321/e,Breite 481e Cent.
+
+- die theils den Dudelsack handhabend, theils singend ziehen.
+## J.B. le Bas.
+
+- 292 IHIme Fete flamande nach D. Teniers. Roy. qu. fol. Guter Abdruek, bis zum Plattenrande beschnitten. Unter Glas
+- in Rahmen.
+- 293 Dasselbe Blatt der Ausgabe Vve Jean als HIme Fete famande. Schoner Abdruck mit vollem Rande. Unter Glas in Rahmen.
+- 294 IVme Fete flamande nach D.Teniers. Roy. qu. fol. Sehr guter Abdruck, bis zum Plattenrande beschnitten.Unter Glas in Rahmen.
+- 295 Dasselbe Blatt der Ausgabe Vve Jean als Iere Fete famande.
+- Schoner Abdruck mit vollem Rande. Unter Glas in Rahmen.
+
+## Heinrich Sintzenich.
+
+- 296 Sophonisbe.F.Solimena 1783. kl. fol. Nagl. 41. Vorziglicher Abdruck in Farben, vor der Dedication. Aufgezogen.
+- 297 Die Vestalinnen. Sconjans p.
+- kl. fol. Nagl. 35. Ebenso mit der Dedication. Aufgezogen.
+- 298 Die hl.Cacilia. Domenichino p. kl. fol. Nagl. 33. Ebenso. Bis zur Darstellung beschnitten und aufgezogen.
+- 299 Cassandra und ihre Gefahrtin. A.Hickel p.
+- kl. fol. Nagl. 36. Ebenso,ebenso.
+
+## Saverio Salvioni,
+
+- 300 Actstudie. Sitzender romischer Krieger mit Schild und Schwert; am
+
+thatig zu Rom zu Anfang des XIX. Jahrh.
+
+- Boden der Helm.
+
+Rothstiftzeichnung. Bezeichnet.
+
+Hohe 55,Breite 41 Cent. Unter Glas in Rahmen.
+
+## Unbekannt.
+
+- 301 5 Zeichnungen diversen Inhalts. Maria mit dem Kinde, Kopfe,Fi-
+
+Stift-und Federzeichnungen.
+
+<!-- image -->
+
+Verschiedene Grossen.
+
+- guren etc.

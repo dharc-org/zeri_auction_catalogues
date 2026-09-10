@@ -1,0 +1,211 @@
+## ITALIAN AND FRENCH GOTHIC AND RENAISSANCEWORKS OFART
+
+Chevalier Raoul Tolentino of Rome,Italy, the eminent connoisseur of Italian Works of Art in its fullest terms, is now about to place his sixth important collection on exhibition at the American Art Galleries for Public Sale.Signor Tolentino is most favorably known from theAtlantic to thePacific,both for the authenticity and for the exceedingly fine taste displayed in his collections,each as it appears seemingly surpassing those previously shown; for he has a fair for ransacking Europe and discovering beautiful objects that can be acquired from the famous collections throughout Italy and elsewhere in Europe.
+
+No such protagonist of the grand and beautiful in Italian Art as Signor Tolentino has appeared in America, working with a constant and conscientious zeal that is seen at every point of his collection.He acquired many of the objects of great importance in this gathering with the written expertization of Professor Giacomo de Nicola,the learned Director and great authority on Italian Art of the Bargello Museum,Florence,and who is also an author, distinguished for his many works on the Art of the Renaissance Period. He also had the privilege of consulting the Professor regarding other objects in his own collection and had the honor of receiving from him written expertverifications on many of these.The extremely beautiful Embroidered Velvets and GothicTapestrieswere acquired from the celebrated Georges Seligmann Collection,Paris; Fine Furniture, Bas-reliefs and Important Primitive Paintings from the Fairfax Murray,London,the Princess Maddalena Belgioioso,the Conte Vimercati,Milan,the Conte Oddi,Perugia,the notable Stroganoff, Rome,and the Bardini Collections.
+
+Primitive Paintings of the Italian School have long been acclaimed by the American amateur and connoisseur, but to-day Primitive Sculpture and Furniture have become the great objective of museums and private collectors.
+
+The objects referred to and illustrated in the following pages give a slight resume of the delightful ensemble, but will leave a definteresting and superb collection.
+<!-- image -->
+
+Italian Majolica and Faience, ranging from the fifteenth to the eighteenth century, include many beautiful and rare specimens of Cafaggiolo, Urbino, Gubbio, Castel Durante and Castelli. Two exceedingly fine oviform vases,one of them illustrated herein,are executed with biblical subjects in rich colors and gilding by the famous Dr. Carlo Antonio Grue, who was without doubt the greatest master of the Castelli in Abbruzzo.
+<!-- image -->
+
+Amongst other Hispano-Moresque Lustred Majolica specimens, this charming plaque of the fifteenth century has a peculiarly dainty radiance, with glistening gold reflets and passages of fine blue. Its provenance is the Fairfax Murray Collection, London. There is also in the faience group a grand Vase by Diomede Duranti, Roman circa 160, thirty-six inches high, decorated in his delightful manner; a fifteenth century Gubbio Pitcher by Maestro Giorgino adorned with the coat of arms of the Orso family, one of whom was a Doge of Venice this has the provenance of the Fairfax Murray Collection,
+
+And a sixteenth century Urbino Plaque of the unusual size of
+
+London.
+<!-- image -->
+
+<!-- image -->
+
+seventeen inches;this is dated 1545and has a Terzina of theDivine Comedy"by Dante inscribed on the back. Its provenance is again the well known Fairfax Murray Collection.
+
+These two fine Cafaggiolo Alberelli of the fifteenth century betray the rare boldness of technique and color for which this Faience is especially notable in its early period. The busts of a citizen and his daughter depicted within medallions easily declare themselves to be vivid portrayals of the subjects represented.
+<!-- image -->
+
+Fine authentic specimens of Gothic and Renaissance Carved Walnut Furniture are now extremely difficult to obtain, but all of the very numerous examples are authentic which are displayed in this collection and make an imposing array.
+
+Many rare types of Fratina,Dantesque, Savonarola, Sgabello and innumerable beautiful Needlework Chairs grace the gathering. Over forty Center and Refectory Tables also appear. The sixteenth century Florentine Octagonal Table above has a rarely fine urnshaped shaft, carved with arabesqued amorini masks in a charmingly free manner. It was formerly in the Bardini Collection.
+<!-- image -->
+
+A very unusual type of Tuscan Octagonal Table of the early sixteenth century is elaborately carved in walnut,with an exquisite central shaft, supported on four scrolled brackets at crown and having four bold open S-scrollings surrounding the shaft, set on a leaf-enriched square base and spade-shaped feet. There are several very finely carved Walnut Prie-Dieu, one of the type so often occurring in the charming paintings by Andrea del Sarto. Decorative objects are plentiful and even finely embellished small hanging Coat Racks are amongst this extensive and cleverly varied collection.
+<!-- image -->
+
+An exceedingly rare fifteenth century Gothic Money Changer's Table from the right bank of the Rhine is of moment, for it was the only specimen of furniture depicted in the de luxe illustrated catalogue of the famous Stroganoff Collection. The table is richly carved with coats of arms, scrolled foliage, fruit and animals.
+
+Many small and large Cabinets in beautifully carved walnut are presented and are of interest, for they have great distinction and decorativevalue.
+This marvelous and unique Walnut Cabinet of the Bambocci Stipo type, Florentine, fifteenth century, is undoubtedly the finest example of sculptured walnut ever brought to this country and is remarkable for the elaboration of the intricate and minute details which give a richness that enhances without detracting from the symmetry of the whole. The cornice and frieze are unusual, having pendants as well as the brackets generally found to the leaf moldings, amorini,equestrian figures of warriors and putti. The pilasters have front, with fine walnut-root drawers, fanking architecturally niched doors and drawers in which many further figures are seen and several small bas-reliefs in which are very minutely depicted the following and a "Festival."In "The Occupation" is a King enthroned, giving Justice. The Cabinet has a rare rich nut brown patina and is a most delightful example of the marriage gifts bestowed by the wealthy Florentine patricians.
+<!-- image -->
+<!-- image -->
+
+The archaic fifteenth century Tuscan Walnut Credenza illustrated above is carved in a very unusual manner with busts of burly warriors occupying the arched and columned niches of the doors, which are parted and fanked by fine voluted bracket-pilasters of a most interesting and classic type.
+<!-- image -->
+
+This extremely rare Umbrian Credenza of the fifteenth century, also in walnut, is remarkable for the perspective of the arched portals,which adorn the two doors;the scrolled handles thereupon forming curious knockers.A very beautiful brown patina enriches the wood,and similar original patina is found on many other objects in thegathering.
+<!-- image -->
+
+Amongst the larger cabinets are two having great distinction. Curiously,both are French Renaissance.The first,of the Henri II period, is characteristically sculptured and has its original polychrome. The doors are enriched with many varied busts within scrolled medallions and a seated Madonna occupies a niche at center of the crown. It is dated 1556 on the upper left pilaster. This cabinet and several Gothic Certosino Credenze are amongst the most important objects ofFurniture in the collection.
+
+The other is sculptured in ebony and is of the Henri IV period; executed by one of the great masters of the Fontainebleau School.
+<!-- image -->
+
+It is richly adorned with very intricate arabesque-molded lozenge panels in the four doors,which are occupied by bas-relief profane and biblical subjects; the two friezes and stiles of the doors are enriched with demi-figures and beautiful leaf scrollings. There are also a number of French Renaissance Cabinets and Tables of the Schools of Jean Goujon,the Lyonese and Avignon.
+<!-- image -->
+
+Amongst a number of Gothic Chests and Cassoni, several are reminiscent of those previously brought to America by Signor Tolentino,which were illustrated by William Odom in his notable work on Italian Furniture.The beautifully illuminated Venetian Gothic Chest seen above is similar in type to one illustrated on page 39 of Frida Schottmuller's "I Mobili del Rinascimento in Italia," and is there given as having been executed circa 1550.Dr.William Bode also illustrates a similar type in his "Italian Renaissance Furniture? and states that others are practically unknown.
+<!-- image -->
+
+This very important sixteenth century Walnut Refectory Table, amongst a number of other fine Refectory tables, is from Tuscany and was produced at the golden age of the Renaissance. Thetwo lyre-shaped end supports,each formed of two standing eagles,are superbly sculptured and the whole proportion is extremely satisfying and dignified. Very fewRefectory tables of this importance are now to be found throughout all Italy.
+<!-- image -->
+
+A superbly sculptured Walnut Coffret, Umbrian of the sixteenth century, from the collection of Conte Oddi of Perugia, was illustrated in the catalogue of the last exhibition of Renaissance Works of Art held in the city of Perugia and deservedly attracted wide attention. It is of exquisite proportions and is richly sculptured with a cartouche, scrolled with demi-nymphs and very vigorous acanthus leaves. Small coffrets of this exceptionally fine quality are nowvery rarely tobefound.
+
+Amongst a number of Gothic and Renaissance beds, there is a low four-poster with very unusual pinnacles of beautiful Gothic tracery, and the Four-poster seen opposite, with tester valanced in rare needlework, displaying biblical subjects and having spiraled posts with pinnacles of bronze.
+<!-- image -->
+
+The bed is set on its original broad dais, carved on the facias with interlaced and spiraled medallions. This charming bed is allied in type to the famous one depicted by Carpaccio and seen in his painting, "The Dream of St. Ursula," which hangs in the Accademia, Venice.
+<!-- image -->
+
+Two extremely interesting Cassoni,from the collection of the Princess Maddalena Belgioioso,Milan,are Florentine late sixteenth century and one is delightfully sculptured with a Hunting panel in bas-relief, depicting hounds attacking and a huntsman at left shooting at a stag. The very finely conceived terminal figures and base with central cartouches,festoons,coat of arms, amorini and strap scrollings, betray the drawing and hand of Jean de Bologne, for a bronze inkstand given to him by Bode displays the same distinctive correlated motives.The other,not illustrated,is similar in treatment except that the panel is more pastoral in character.
+<!-- image -->
+
+This noble Gothic Chest of the fifteenth century was evidently devised for a Prince Royal of France,for feurs-de-lis are not only in the coroneted coat of arms at the center but in the tracery above the double fanking arches which are occupied by figures of saints and royal personages, very vigorously sculptured. The famous School of Avignon claims this highly accomplished specimen of Gothic sculpture.
+<!-- image -->
+
+Thevery famous Collection of Georges Seligmann of sumptuous velvets was mainly acquired by Signor Tolentino and is now to be again dispersed.The specimens illustrated are all from this beautiful gathering and denote its irresistible charm. The rare Gothic gold needle-painted blue velvet Chasuble above, Spanish of the fifteenth century, depicts, in the cruciformed orphreys, a series of rare primitives obviously designed by a master painter. The subjects are, The Annunciation,""The Nativity" and "The Death of the Virgin."
+<!-- image -->
+
+Another Gothic Needle-painted Chasuble-Front,German,fifteenth century,from the Georges Seligmann Collection depicts similar subjects to the one preceding and is a primitive unquestionably from the hand of a master painter of the period. It is perhaps of even greater beauty than the last; the field is of delightful green brocatelle,woven with a very unusual pattern of lobed foral motives and scrolled Gothic leaves.
+<!-- image -->
+
+This exceedingly beautiful Gold Needle-painted Chasuble,a stately primitive of the Spanish fifteenth century Gothic period,is executed with rare precision and a sincere insight into the divineness of the subject, the "Descent from the Cross"; placed within a medallion at the center of the cruciformed orphreys.The field is of radiant Gothic amethystine cut velvet, woven with lobed devices occupied by lovely carnation and pomegranate bouquets. It is also from the Georges Seligmann Collection.
+
+Velvet Chasubles of Opus Anglicum are of excessive rarity, and scarcely to befound outside ofMuseums and Cathedral Sacristies.
+<!-- image -->
+
+There are in all five Chasubles and Copes of this rare needlework in the Collection. This example is English Gothic of the fifteenth century and the method of the embroidery is very similar to the famous Syon Cope,now in South Kensington Museum. A Crucifixion before the seated figure of God the Father is at crown, and a Gothic vase of lilies at foot. The beautiful velvet field is powdered with rayed demi-figures of angelots and feurs-de-lis. A very similar and analogous example is illustrated by "Le Farey."
+<!-- image -->
+
+A rare early fifteenth century Spanish Gothic Processional Banner displaying on cut and uncut green velvet cruciformed orphreys in gold needle-painting, occupied by very naive subject, "The Nativity"within a lozenge-shaped medallion at center of cruciform and pairs of Saints standing in niches. A most remarkable and rarely balanced series of Primitives from the hand of a master painter of theepoch,
+<!-- image -->
+
+Perhaps the rarest of the Georges Seligmann series of Needlepaintings is the twelfth or thirteenth century Greek Byzantine Appendium, with eight rope-motived irregular oblong panels, bearing arched niches having spirally twisted columns and occupied by figures of Saints Michael, Peter, John the Baptist, Joseph nand Christopher, the Holy Father, King David and the Madonna. Silver threads deftly employed add greatly to the richness of the embroidery. A museum will no doubt be the ultimate resting place for this remarkable early specimen of fine craftsmanship.
+<!-- image -->
+
+A single example other than embroidered Vestments, sumptuousJardiniereVelvets,Brocatellesand furthermeritorioustextiles will have to now suffice.It is a very distinguished French Room Hanging of over a hundred years, woven in exquisite drap d'or, enriched in cut jade-green velvet with jardinieres of rare blossoms supported by facing rampant lions of archaic character within tasseled scrolled strapmedallions surmounted byperched birds and tasseled canopies,fanked by kneeling figures.
+
+The cartoon for this beautiful hanging was executed by Jean Berain, 1638-171l, and is of his early and best period. James Penderel-Brodhurst,the eminent authority on Berain,says of him:He was in fact the oracle of taste and the supreme pontiffwhose fiatwas law in allmattersofdecoration."
+<!-- image -->
+
+Finely Forged Iron,mainly Italian of the fifteenth to the seventeenth century,is seen in great abundance. Gothic Torcheres rival the beautiful Renaissance torcheres,wall appliques, window grilles and garden gates. Florence and Venetia, the principal exponents of the forge, are splendidly represented by delightful examples; several Venetian Grilles are of particular moment; as are the Torcheres ofFlorence. Signor Tolentino was fortunate in recently acquiring a collection of over one hundred specimens of Forged Iron from one of Italy's leading amateurs, which are now again to be dispersed. The Florentine Early Renaissance Gates above are of exceedingly fine proportions, displaying vases of scrollings and husks; they are accompanied by their original marble posts, sculptured with bas-relief figures and arabesqued leaf-scrollings. These gates originallyadorned theVillaof thePoetBrunati.
+Amongst the Far Eastern objects discovered by Chevalier Tolentino is this rare silver inlaid Bronze Candlestick of the thirteenth century, from the De Motte Collection,Paris,1922. It displays tovery greatadvantage the intricate workmanship ofMosul, with its medallioned figures and superb surrounding interlacing arabesques and borders.The Italian Bronzes include fine examples by Gaggino (1478-1538), Ghiberti (1378-1475), and a signed Inkstand by Antonio Danti,the sixteenth century Florentine,depicting the "Contest of Apollo and Marsyas." Danti was a pupil of Riccio.
+<!-- image -->
+
+This rare Early Gothic Rock Crystal and Bronze Candlestick, Venetian of the thirteenth century,is of great interest,and displays a bulbous shaft, supported on an open tripod base, enriched with very curious archaic scrollings which develop chimeric animals and substantial clawfeet.
+<!-- image -->
+
+A demi-suit of richly Etched and Gilded Armor of very fine Milanese workmanship,of the early sixteenth century,is most beautifully adorned with radiating bandings on the breast and backplates, the collarette, shoulder and arm pieces. The bandings enclose oval figure medallions, basket panels, the knots of Solomon and scrollings in gilding.It is interesting to note that there is an identical suit of armor in theMetropolitanMuseum of Art,forged by the same great armorer Pompeo della Chiesa.Another of striking similarity is in the Armory at Turin.
+
+A Bronze Reliquary, silvered and parcel gilded, found originally in a Church, is of great rarity. It contains the skull of a celebrated but unfortunately untraced warrior saint,and although the modeling is of a Romanic character, there is a decision and broadness in the handling that suggests portraiture of the highest type.
+<!-- image -->
+
+This reliquary represents a masterpiece of an unknown Gothic sculptor of the tenth or eleventh century,and is very reminiscent of the famous sculpture of three men appearing on the Ducal Palace of Venice which were executed in porphyry about this period. Reliquaries of this type with the actual portions of the body preserved within and the exterior objectfollowing their contour are exceedingly rare.
+<!-- image -->
+
+A noble BronzeEquestrian Group of thegreatEmperorMarcus Aurelius has a fine distinction and is by the fourteenth century Umbrian Filarete, who gathers more laurels and appreciation for his fine works as time passes. Aurelius is seated on a very strongly modeled charger, his head uncovered and wearing a long toga over simple robes.Dr.William Bode in his work on Italian Renaissance bronzes illustrates a similar group but not of such superlative execution as this,which is in the Albertina Museum,Dresden.
+
+A Bronze Bust of great distinction by the Venetian Alessandro Vittoria (1525-1608) depicting Antonio Lando (1553-1618),the famous Venetian Captain,and Procurator of San Marco,who was related to the great Doge of Venice,Pietro Lando.
+<!-- image -->
+
+He wears closely cropped curly hair, a full beard and a toga above armor. His markedly strong face is turned slightly to left and downward. Supported on an oblong plinth scrolled at ends and inscribed ANTONIO LANDo DIVI MARCI PROCURATOR"There are a number of other fine bronzes in the collection; one of importance is a statue of "Venus after the Bath"by Jean de Bologne (1524-1608), similar to one illustrated in the Stroganoff Collection Catalogue and to another in the Berlin Museum. This came from Fairfax Murray Collection,London.
+<!-- image -->
+
+Several Della Robbia Faience Bas-reliefsand Statuettes add vastly to the ensemble with their dignity and beauty.A Portrait Bust of a Florentine patrician's little child is exquisitely charming. Her smiling chubby face is crowned with curling locks of hair tumbling about her neck. Finely modeled portrait busts akin to this by Giovanni Della Robbia (1469-1529) are extremely rare, especially of children.Professor Giacomo de Nicola,the very eminent Director of the Bargello Museum,Florence,has nothing but words of praise for this bust,which he declares to be "by the hand of Giovanni della Robbia."
+
+Dr. Bode illustrates on page 166 of his "Florentiner Bildhauer'* a portrait bust of a young child, preserved in the Cluny Museum.
+<!-- image -->
+
+It is convincingly analogous to this. Bode gives this to Luca Della Robbia, Giovanni's great uncle,whose footsteps were so closely followed by the greatnephew.
+
+The inimitable bas-relief portrait,herewith illustrated, depicts Pope Martin V, who was a member of the great Colonna family. He is seen at bust length with virile head in profile to left,wearing a papal tiara;the Colonna coat of arms is at upper left corner. This unusual bas-relief, executed by Luca della Robbia (1400-1482) is of surprising dignity,which is greatly aided by the unusual breadth and freedom of themodeling.
+<!-- image -->
+
+A Stucco Bust by Jacopo della Quercia (1374-1438) is very gracious and charming;it was the original model for one of the figures in a group,known as the masterpiece of this sculptor which adorns the"Fonte Gaia"at Siena.This bust was executed from della Quercia's favorite model,"The Bandinella."Professor Giacomo deNicola,the eminent Director of the Bargello Museum,Florence,has given a written opinion on this very beautiful Stucco Bust. He states that it is identical with one in a group on the Fountain referred to,recalling that another figure in stucco similar to one in this group is in the Museum at Amsterdam,and yet another,the "Sapienza," in the Berlin Museum. This bust is the third that has appeared and it is unique. The freshness and details of modeling preclude the possibility of it being taken from a mold, and the coloring of monochromed rose-pink simulating marble,differentiates it fromtheothers.
+“origin."
+
+<!-- image -->
+
+"There is no possibility that this wonderful bust was executed "subsequent to that of the Fountain group, but must be of prior
+
+Andrea della Robbia (1455-1525) was one of the most famous of the Della Robbia family,and noted for his numerous fine works which attest his greatness as a sculptor. This remarkable statue of Andrea's is of St. Anthony of Padua, who stands wearing a monastic habit,the folds of which are executed with great dexterity. The Saint carries his emblems,a missal and a branch of lilies,and is of most dignified bearing.
+<!-- image -->
+
+A unique Bas-relief in pressed leather,very strongly modeled by the great sculptor Donatello (1386-1466) depicts the haloed Madonna at half length,Her voluminous mantle covering Her head. She bends toward right,holding the Infant Saviour to Her breast. Dr. William Bode says in the introduction to his "Florentiner Bildhauer':"In contrast with the other Italian cities, well known in the glorious history of the Italian Renaissance,the average Florentine citizen possessed an inborn taste for the beautiful and a certain longing for the artistic, a longing to be surrounded by the beautiful. As the average citizen could not possibly afford the magnificent originals of the great masters such as Verrocchio,Donatello, Sansovino and others, they had to look for a substitute and here we have the origin of the many stucco, terra-cotta,pressed leather and wax copies after these famous originals."Several other Bas-reliefs in Terracotta and Stucco by the hand of Donatello are in the collection.
+
+A Bas-relief, sculptured in statuary marble and parcel gilded, arrests our attention with its charm and gracious human feeling.
+<!-- image -->
+
+It is by Francesco de Simone,Florentine (1437-1493),and came from the well known English Collection of Fairfax Murray. Professor Giacomo de Nicola also declares it "to be a fine work of Simone." The Holy Virgin, at three-quarter length, is posed before a shell niche, wearing closely fitting robes and a mantle falling over Her haloed head. She holds the Saviour toward Her breast,He being
+seated on a cushion at the right. The niche is surmounted by a fine winged shell and ribboned festoon of leaves and fruit.The columned and pedimented architectural frame is of green Fiesole stone. There are amongst other sculptures two thirteenth century Pisan Marble Statuettes of the Virgin and St. Joseph in the collection, but not illustrated herein;these arrest one with their archaic modeling and naive
+
+Polychromed Stucco Bas-relief by Luca della Robbia (14001482), most engaging in its playful naturalistic feeling, depicts the Infant Saviour held in the arms of His mother. He is smiling and attempting to pull a hooded mantle from Her head. The Virgin is clad in finely embroidered robes and mantle,and is seen at threequarter length before a rudimentary landscape. The bas-relief is within a decorated contemporary columned architectural frame.A decided analogy in the playful atmosphere of the two subjects exists between this bas-relief and one illustrated by Dr.William Bode in "Florentiner Bildhauer," page 169, which is in the possession of G.von Benda,Vienna. The latter,however,is very different in coloring and has not the matchless high patina resembling the glaze ofTerra-cotta.
+
+charm.
+<!-- image -->
+Another Polychromed Bas-relief by Luca della Robbia (14001482),with similar abandon and joyousness to the preceding, presents a three-quarter length robed figure of theVirgin as a care-free young matron, looking down at her Son, who stands beside her at right, playfully lifting Her mantle above His head. The group is before a gilded diapered foral background andwithin apedimented and columned frame.A duplicate in the Berlin Museum of this charming bas-relief is illustrated by Dr. William Bode in "Floground. There is, however, on page 62,a marble bas-relief by Michelozzi with a similar background.
+<!-- image -->
+<!-- image -->
+
+We now see two portraits of Italy's greatest poets which came from the famous Stroganoff Collection,Rome. That of the divine Florentine School. His earnest intellectual face is seen in profile to left and his lofty brow is crowned with bays. Looking upon the features of the Poet one feels that this painting must be from the hand of a man who had either seen the poet or had some positive records of his strong features to guide him in their delineation.
+<!-- image -->
+
+The Venetian painter, Carpaccio (1450-1522),was not only the painter of Petrarca's portrait, but was his intimate friend.The Poet Laureate,who in his day for the time being outdistanced the divine Dante, is seen in profile to left, wearing a cowled habit, his countenance easy-going, calm and serene. Surely a very great historical record of this poet, so notable for his influence on contemporary Italian literature.
+<!-- image -->
+
+TwoPrimitivePaintings in themanner ofBartolommeoVivarini arevery subtle in color and have all thenaive freedom of the early Venetian School. The first depicts "The Birth of the Saviour"and "The Presentation in the Temple"; both incidents curiously occurring within different vaulted apartments of a palace.The other depicts"The Death of the Virgin." Gatheredaround thepalleton which rests the body of the Virgin are at center rear and right, the sorrowful figures of eleven apostles.The scene transpires in a noble chamber which is arranged with a Byzantine-Romanesque columned arcade at rear. Vivarini, one of the greatest exponents of color in the early Venetian School, fourished during the second decade of the fifteenth century.
+<!-- image -->
+
+Both of these paintings were originally in the Fairfax Murray Collection, London. The eminent Director of the Bargello Museum, Giacomo de Nicola, has reviewed these interesting primitives, and remarks in part as follows:"It is difficult to determine the authorship "of these two paintings, but it is not diffcult on account of the artistic "ambience to determine their source. It is the manner of the Vene"tian painters of the second half of the fifteenth century; the school "of Bartolommeo Vivarini. The painting is well preserved,but what "above all gives charm is the ingenuity and sincerity of the facial "expressions and intimate sentiments of the personages, together with "the rendering of the domestic details of the interiors.' "
+<!-- image -->
+
+A most interesting primitive, depicting the Madonna and Child by Cenni di Francesco di Cenni, early fourteenth century. The Virgin is seen at half length, wearing closely fitting robes and a hooded mantle and holds the Infant Saviour on Her left arm. With His left hand He is toying with an embroidered kerchief that the Virgin wears. This rare example of Cenni was originally in the well known collection of Fairfax Murray,London.
+<!-- image -->
+
+This inspiring work of Filippino Lippi (1457-1504), of the Florentine School, portrays two robed fying angels, en face, carrying stems of lilies and swinging their censers in the path of the descending Dove of Peace. The simple disposition of the two figures is most graceful and captivating. B. Berenson illustrates this typical example by Lippi in both The Study and Criticism of Italian Art," London, 1911, page 59, and "The Florentine Painters of the Renaissance," 1907, page 97. Starye Gody also gives an illustration in his work of 19o9. This delightful painting came from the famous Stroganoff Collection. The Paintings from the Stroganoff Collection are of especial note, for the Conte was a connoisseur of high attainments and always gathered round him the savants of his day to criticise his varied acquisitions.
+There are two paintings ofgreat distinction that require mention here,although not illustrated,namely,the fine "Pieta"by Marco de that short lived northern Italian painter,Defendente Ferrari (15161553).
+
+"and even more that of Giambellino."
+
+The brilliant painter, Filippo Mazzola of Parma (1460-1505), is seen to great advantage in his rendering of this fine Madonna and Child which emanated from the Stroganoff Collection,and is there catalogued as follows: No. 21. "Before a black curtain at center, "fanked by two casements commanding a view of the light-blue sky, "is the demi-figure of the Madonna, wearing a crimson robe, blue "mantle, lined with green and a yellow hood. She holds Her Son "with Her right hand,while He stands on a marble balustrade. Signed "at lower right F: Ma. This painting is one of the most beautiful "works of Mazzola and shows the influence of the Cremona School
+
+"There is a resemblance to his Madonna in the Parma Gallery, "which is illustrated in Bolletino d'Arte dell Min. della Pubbl. "Istruzz, 1910, fig. a, page 92, which is very striking. Previously "from the collection of Conte Vimercati of Milan."
+<!-- image -->
+The Holy Family, by a gifted follower of the Florentine Filippo Lippi (1406-1469), probably Benozzo Gozzoli, is altogether charming and presents The Holy Virgin,at three-quarter length, wearing a crown, very beautifully embroidered robes and a mantle. She sits before a gloriously embroidered cloth of gold velvet hanging and caresses with both hands theInfant Saviour who sits on Her left knee looking up adoringly at His Mother. St. Anne and the youthful St. John are at left and right. The influence of the beautiful Venetian coloring is clearly seen in all its richness in this fine composition.
+<!-- image -->
+<!-- image -->
+
+Rare Gothic and Renaissance tapestries have many claims on the imagination,for they have not only their decorative beauty,but are authentic documents ofhistoriccostumes and inmanyinstancesrecord customs,manners and the intimate thoughts of long past generations. Amongst the twenty tapestries are two of French Gothic origin and of great interest: one illustrated by De Motte in his latest magnificent work:"La Tapisserie Gothic";the other herein depicted, the subject being "The Baptism of Our Lord.He stands about center of the composition,nude save a loin cloth,while St. John at the right,clad in his proverbial hair shirt,baptizes Him;while an angel atleft holds in readiness OurLord's cloak.A scrolled label about crown is inseribed: "This is My Son."At center foot within a shield is a complicated mark of the weaver,most unusual,forweaversmarks are very seldom seen on Gothic tapestries.This Tapestry was formerly in the celebrated Georges Seligmann Collection,Paris.
+
+Beautiful Renaissance Tapestries abound in the collection,in fact over twenty-five,amongst them several Grotesques with strange animals and others with classic subjects.
+"Niobe in Tears"is the theme of this fine Brussels sixteenth century tapestry.Niobe stands about center of a fowered foreground before a temple sheltered by woods. She wears voluminous robes and is weeping for her lost children. The composition is finished with delightfully compartmented borders, displaying classic figures within finely arched niches and clustered fruit which interrupt the figures and flank the varied cartouches.
+
+<!-- image -->
+<!-- image -->
+
+This unique fifteenth century French Gothic Hanging Lantern Holder is composed of a polychromed sculptured walnut bust of a young girl in the characteristic Gothic costume of the period, having at her back a set of mammoth deer antlers, and is suspended with the antlers on chains to a small canopy. This very unusual specimen has the provenance of the De Motte Collection,Paris,1922. Several similar interesting Lantern Holders are preserved in Northern French Museums.
+Chevalier Raoul Tolentino, an innate expert antiquarian, was a pupil of the great historian of Italian art, Professor Adolpho Venturi of Rome, and owes the Professor much in his artistic career. To his uncle, Signor Arnoldo Terracina of Rome, his first mentor, he very gratefully makes acknowledgment of the splendid training in all the varied ramifications of antiquarian lore that his uncle so liberally bestowed upon him.
+
+The important Velvets,Brocades,Brocatelle and Needlework with their glorious colors will certainly add great beauty to the forthcoming exhibition;of these,over one hundred sumptuous Velvets, able Georges Seligmann Collection of Paris. Mr.Seligmann was an ardent amateur of great ability and talent,who spent over twentyfiveyears traveling throughout England, France, Spain and Italy to form his very valuable Collection.
+
+There are over nine hundred objects in the gathering,amongst them over one hundred in Forged Iron of the Gothic and Renaissance Periods. These were collected by Brunati, the poet and author, over a space of fifteen years and were finally acquired by Signor Tolentino. There are numerous types of Chairs, Tables, Credenze and Cabinets in the gathering that are illustrated in the three works ofnote thatwe have on Italianfurniture,namely,that of Dr.William Bode,of Frida Schottmiller and of William Odom.
+
+Professor de Nicola, the very eminent Director of the Bargello Museum at Florence,is widely known by his authorship ofnumerous works on all phases of Italian art. Professor Munoz of the University of Rome and Doctor Ludovic Pollak are both preeminent in their field of historic Italian art, and were the experts and authors of the fine de luxe catalogue of the famous Stroganoff Collection, so many specimens ofwhich are now to be dispersed herewith.
+
+Signor Tolentino is fortunate in being able to bring this most interesting and diverse Collection to America.It betrays rare artistic elements and is replete with numerous sterling works of art which not only give great pleasure to the beholder,but has very positive educational value and maintains very high ideals.
+
+## AMERICAN ART ASSOCIATION,INC.
+
+A profusely illustrated catalogue reith about five hundred illustrations of the entire Collection,partlyinfour-color process,rvill beshortly issued,and can behad on application to the Association.

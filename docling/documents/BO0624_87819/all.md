@@ -1,0 +1,701 @@
+## Bedingungen.
+
+ie Versteigerung geschieht gegen sofortige Barzahlung in deutscher Reichswahrung und hat der Ersteher auf den Zuschlagspreis ein Aufgeld von zehn Prozent zu entrichten.Sollte durch erfolgtes Doppelgebot eine Meinungsverschiedenheit entstehen, so wird die betreffende Nummer sofort nochmals ausgeboten.  Das geringste Gebot bis zu M. 100. ist M.1.—,von M.100.—an M.5.—.
+
+Der Unterzeichnete behalt sich das Recht vor, Nummern zu vereinigen oder zu trennen, sowie die Reihenfolge der Nummern nicht genau einzu- halten.
+
+Da durch die Ausstellung Gelegenheit geboten ist, sich von der Eigenschaft und dem Zustande der einzelnen Gemalde zu iberzeugen, so konnen Reklamationen nach erfolgtem Zuschlage in keinerlei Weise bericksichtigt werden. Die im Katalog enthaltenen Angaben und Beschreibungen der zum Verkauf gestellten Gemalde werden nicht gewahrleistet.
+
+Die Ansteigerer haben ihre Ankaufe nach jeder Vakation zu ibernehmen und den Steigerungspreis hiefuir inklusive des Aufgeldes an die Firma Hugo Helbing zu leisten, widrigenfalls sich der Versteigerer das Recht vorbehalt, die angesteigerten, nicht in Empfang genommenen Gemalde auf Kosten und Gefahr des Ansteigerers wieder zu verkaufen.
+
+Die Bilder sind Freitag, den 8. und Samstag, den 9.November 1907 vormittags von 10-1 Uhr,nachmittags von 2-5 Uhr, sowie Sonntag,den 10. November 1907 vormittags von 10-12 Uhr zur
+
+## Besichtigung in der Galerie Helbing
+
+## Wagmuillerstrasse 15
+
+ausgestelt; es ist nur den mit Katalogen versehenen Personen die Besichtigung der Sammlung gestattet, wie dies auch beziglich der Beiwohnung der
+
+Auktion der Fall ist.
+
+Bei der Besichtigung wird bestmoglichste Vorsicht empfohlen, da
+
+## HUGO HELBING
+
+KUNSTHANDLUNG &amp; KUNSTANTIQUARIAT
+
+MUNCHEN
+
+LIEBIGSTR.21-WAGMULLERSTR.15.
+Die Kunstlernamen sind nach Angaben der bisherigen
+
+Besitzer beibehalten.
+
+## ANTONIO BALESTRA,
+
+geb.1660 in Verona, gest. 1740 daselbst.
+
+- 1 REBEKKA AM BRUNNEN. In bergiger Landschaft ein grosser Ziehbrunnen, dabei steht Rebekka. Ihren Schopfeimer hat sie dem Eliezar iberlassen, der damit Wasser in die beim Brunnen befindlichen Trankplatze giesst, zu denen sich eine Schafherdeherandrangt. Links andere junge Madchen iber Rebekka und den Fremdling 1m Gesprach.
+
+Leinwand.Hohe 82,Breite 100 cm.Goldrahmen.
+
+## JOACH.FRANZ BEICH,
+
+geb. 1665 zu Ravensburg, gest. 1748 in Munchen.
+
+- 2 LANDSCHAFT IN GEWITTERSTIMMUNG.Im
+- Vordergrunde links hohe Baumkulisse,rechts zwei Jagdgenossen in antikisierender Gewandung mit Hund. Im Mittelgrund festungahnliches Gebaude, in das der Blitz einschlagt. Gebirge als Abschlusskulisse.
+
+Leinwand. Hohe 30,Breite 26,5 cm.Goldrahmen.
+
+## PETER BEMMEL,
+
+geb. zu Nurnberg 1685, gest. 1754 in Regensburg.
+
+- LANDsCHAFT. Im Vordergrunde ein Fluss, hohe Baume am linken Ufer, rechts Flachland,mit zwei Figuren staffiert. Ausblick in weite Ferne mit Ge-
+- 3 birgscharakter.
+
+Pappe. Hohe 13,Breite 16 cm. Schwarzer Rahmen.
+
+## 4 LANDSTRASSE IN EINER FLUSSNIEDERUNG.
+
+Links Bergwand,im Vordergrunde zwei prachtige Eichbaume. Weite Fernsicht, fgurliche Staffage.
+
+Pappe. Hohe 12,Breite 16,5 cm. Schwarzer Rahmen.
+- 5 WEIHER mit higeligem Ufer, das Weideland und
+- am Wasser vereinzelten Baumschlag zeigt, mit Rindern und Hirten staffiert.
+
+Pappe. Hohe 13, Breite 16 cm. Schwarzer Rahmen.
+
+- 6
+- BAUERNHAUS am Waldeingang, links Fernblick auf das Gebirge.
+
+Pappe. Hohe 11,5,Breite 15 cm.Schwarzer Rahmen.
+
+## DIRK VAN BERGEN,
+
+tatig in Haarlem von 1661—1690.
+
+- 7 TIERsTuCK. Weidende Rinderherde mit Hirten vor Baumschlag, rechts Blick in die hugelige Ferne.
+
+Holz. Hohe 17, Breite 23 cm.Goldrahmen.
+
+- 8 Gegenstick:RINDERHERDE BEI DER TRANKE. Links die Hirtenfamilie. Hugelige Landschaft mit vereinzeltem Baumschlag und Ausblick auf ferne
+
+Ebenso. Ebenso. Ebenso.
+
+## PIETER VAN BLOEMEN,
+
+geb. 1667 in Antwerpen, gest. 1720 daselbst.
+
+- REITERKAMPF. Szene aus den Turkenkriegen. 9
+- Tirkische Reiter, mit Krummsabel und Bogen bewaffnet,mit Pappenheimern kampfend.
+
+Leinwand. Hohe 24,Breite 33 cm.Goldrahmen.
+
+- 10 Gegenstuck: Aehnliche Darstellung.
+
+Ebenso. Ebenso. Ebenso.
+
+## SCHULE DES G. BOURGUIGNON.
+
+- 11 REITERBILDNIS. Portrat eines Heerfuhrers in Halbristung, Schlapphut und hohen Reiterstiefeln, auf einem galoppierenden Schimmel, die Rechte halt den entblossten, gesenkten Degen. Hinter ihm,nach vorn reitend,ein Unterfuhrer.Im Hintergrunde rechts einige gemeine Reiter.
+
+Leinwand.Hohe 44,Breite 31 cm.Goldrahmen.
+
+- Gebirgszige.
+- 12 Gegenstick: Aehnliches Reiterbildnis.Der Heerfuhrer galoppiert hier nach vorn, sich nach dem ihm folgenden Unterfihrer umwendend. Im Hintergrund
+
+Ebenso. Ebenso. Ebenso.
+
+## JACQUES CALLOT zugeschrieben,
+
+geb.1592 zu Nancy, gest. 1635 daselbst.
+
+13 JUNGLING IN RITTERRUSTUNG. Der Korper vorniber gebeugt, ruht auf dem vorgesetzten linken Beine. Der Kopf ist zurickgewendet, die rechte Hand halt die auf den Boden aufgesetzte Turnierlanze, die linke Hand ist auf den ovalen Schild gestitzt, der ebenfalls auf den Boden gestellt ist. Die ganze Figur zeigt eine, durch einen Zuruf schnell unterbrochene hastige Bewegung.Der Jungling tragt eine vollstandige Rustung ohne Handschutz und eine Kettenhaube mit Federschmuck, dazu ein rotes Manteltuch, das von der Kopfbedeckung uber den Rucken hinabfallt.
+
+Leinwand.Hohe 49,Breite 38,5 cm.Holzgeschn. Goldrahmen.
+
+## GIOV.BENED. CASTIGLIONE,
+
+geb. 1616 in Genua, gest. 1670 in Mantua.
+
+- LANDSCHAFT MIT RUINEN.Weite Landschaft in Campagnacharakter r sanftgewellten Bergmit CS ketten am Horizont. Im Vordergrunde links machtige antike Tempelruine, von reicher Baum- und Strauchvegetation uberwuchert. Dabei die alte Landstrasse, die durch zwei Campagnolen und ein Weib,die auf Pferden und Maultieren reiten, be-
+- 14 lebt ist.
+
+Leinwand. Hohe 96, Breite 100 cm. Goldrahmen.
+
+## PHILIPPE DE CHAMPAGNE,
+
+geb. 1602 in Brussel, gest. 1674 in Paris.
+
+- 15 HERRENBILDNIS. Brustbild,en face,eines Herrn in gepuderter Allongeperrucke, schwarzem Amtsgewand mit weissem, durch Schnire gebundenen Halskragen und grossem aus Edelsteinen bestehenden Anhanger auf der Brust.
+
+Leinwand. Oval. Hohe 75,5, Breite 60 cm.
+
+- ein dritter Reiter.
+- 16
+
+## DANIEL NIC.CHODOWIECKI.
+
+Nach ihm.
+
+- FRIEDRICH DER GROSSE zu Pferde in Landschaft, bei einem Eichbaum.
+
+Holz. Hohe 26,Breite 18 cm. Goldrahmen.
+
+- Gegenstuck:KAISER JOsEPH II zu Pferd, in Land-
+- 17 schaft, ebenfalls mit Baumkulisse.
+
+Ebenso. Ebenso. Ebenso.
+
+## JOOS VAN CRAESBEECK,
+
+geb.um 1606 zu Neerlinter, gest.vor 1662 zu Brussel.
+
+- 18 BAUERNKNEIPEREI. Hinter einem Bretterzaun sitzen auf einem primitiven Stuhl, auf einem Hackklotzund auf anderen Sitzbehelfen vier altere Bauern in zerlumpten Kleidern. Sie sind in berauschter Stimmung und sollen wahrscheinlich die yier Temperamente im Zeichen des ubermassigen Alkoholgenusses vorfuhren. Ein umgestirztes dient und ein dickbauchiger Krug, der auf dem Fussboden steht,ist wohl bis auf die letzte Neige geleertworden. Dieselbe hebt der dem Fasse zunachst sitzende Bauer in einem zylindrischeni Glase in der Rechten empor. Dieser letzte Tropfen wird ziemlich apathisch kredenzt； der ihn ausbietet, neigt schon bedenklich vorniber;er ist ein barhaupt dasitzender, weissbartiger Alter und halt in der schlaff herabhangenden Linken einen leeren Steinkrug, der wohl im nachsten Augenblick der Hand entgleiten und zu Boden fallen wird. Dabei begleitet er lallend den Gesang, der seinen Nachbar ganz beschaftigt. Die Tonpfeife in der erhobenen Rechten haltend, die Augen stier genHimmel gerichtet, singt dieser Alte buchstablich aus vollem Halse. Der Dritte, still auf dem Hackklotz sitzend, ist der einzige, der sich fur den Trunk zu interessieren scheint. Es ist aber nicht der Ausdruck des Begehrens, sondern mehr ein neugieriges Erwarten des Augenblicks, da der Inhalt des Glases ausgeschittet oder das ganze Glas fallen wird. Der vierte Bauer weitaufgerissenen Augen stier zur Seite.
+
+Holz. Hohe 24,Breite 33,5 cm. Goldrahmen.
+- 21
+
+## GEORGE DESMAREES,
+
+geb. 1697 in Stockholm, gest. 1776 in Munchen.
+
+- 19 kostbare Draperie.
+- BILDNIS. Huftbild des Furstbischofs von Wurzburg und Bamberg, Adam Friedrich Graf von Seinsheim (1708-1779).Der Kirchenfurst sitzt in vollem Ornat in einem Lehnsessel, der Korper in Seitenansicht, das Gesicht im Dreiviertelprofl,den Beschauer anblickend. Links auf einem Tische die Krone und andere Insignien. Als Hintergrund eine
+
+Leinwand.Oben in einem Halbbogen abgerundet.
+
+Hohe 66,5,Breite 5.1cm.Goldrahmen
+
+- 20 BILDNIs. Brustbild eines bartlosen Mannes in pelzverbramtem Rock und mit Turban, den eine Agraffe zusammenhalt.
+
+Holz.Hohe 20,Breite 16 cm.Goldrahmen.
+
+## CARL FRHR. V.DONNERSBERG.
+
+- LANDsCHAFT. Im Vordergrunde vereinzelte hohe Baume, im Hintergrunde hohe Gebirgszuge in Abendbeleuchtung.
+
+Holz. Hohe 10, Breite 14 cm. Schwarzer Rahmen.
+
+## CORNELIS DUSART,
+
+geb. 1660 in Haarlem,gest. 1704 daselbst.
+
+- 22 WIRTSHAUSSZENE. In einem kellerartigen Raum sitzen zwei Bauern und eine Frau in Unterhaltung. Der am weitesten nach links sitzende Mann macht offenbar einen Witz,ehe er den erhobenen Krug zum Mund fuhrt, woriber das Weib verstandnisvoll lacht, wahrend die dritte Person,in einem zerfallenen Fasse sitzend, ganz damit beschaftigt ist, seine Pfeife an dem Feuer eines kleinen Kohlenbeckens in Brand zu setzen.
+
+Holz. Hohe 15,Breite 34 cm.Goldrahmen.
+
+## ADAM ELSHEIMER
+
+geb. 1578 in Frankfurt a. M., gest. wahrscheinlich 1620 in Rom.
+
+- 23 LANDSCHAFT IN DAMMERUNGSSTIMMUNG. Das higelige Gelande wird von der Mitte des Vor-
+dergrundes bis zur linken Partie der Tiefe des Bildes durch einen breiten Fluss durchschnitten, auf demselben Fischerbote, die von am Ufer harrenden Fischern empfangen werden. Schwere Baumkulissen fankieren die Seiten des Biides, einzelne ruinenartige Architekturen staffieren den Mittel-und Hintergrund. Ausblick in die higelige halb in Dammerung versunkene Ferne; Gewitterwolken am blauen Himmel.
+
+Blech. Hohe 23,5,Breite 31,5 cm.Goldrahmen.
+
+- 24 Gegenstuck WALDLANDSCHAFT mit tKohlerhutten an einem Flusse,durch mehrere Figuren staffiert. Ausblick in die gebirgige Ferne. Abendstimmung. Machtige Wolkenbildung.
+
+Ebenso. Ebenso. Ebenso.
+
+## FRANZOSISCHE SCHULE
+
+18. Jahrhundert.
+
+- MANNLICHES BILDNIS. eines nach links blickenden Greises mit wirrem Haupthaar und
+- 25 Brustbild offener Brust.
+
+Pappe. Hohe 11,5, Breite 8,5 cm. Goldrahmen.
+
+- 26 SCHAFERIDYLLE. In einer Landschaft stehen vor
+- einem Baume ein Jingling und ein junges Madchen in landlicher Tracht. Der Jungling iberreicht dem Madchen einen Rosenstrauss, einen prachtigen Rosenzweig halt auch seine rechte Hand. Vor dem Madchen steht ein Blumenkorb,hinter dem Jungling eine hohe Butte. Im Hintergrund rechts zwei Madchen in Unterhaltung.
+
+Leinwand. Hohe 58, Breite 42 cm. Goldrahmen.
+
+## SIGMUND FREUDENBERGER.
+
+Nach ihm.
+
+- 27 DER UBERRASCHTE GATTE.Auf einem Himmel-
+- bett sitzt die junge Frau, sich entkleidend, vor ihr steht zaghaft der mitgekommene Liebhaber, wahrend von einer Galerie der,wohl abwesend geglaubte, Gatte, in Allongeperricke und mit Brillenglasern, die Situation besturzt ibersieht.
+
+Leinwand.Hohe 30, Breite 23 cm.
+- 28
+- Gegenstuck:DER EINGELASSENE LIEBHABER. Ein Liebhaber, die Schuhe in der Hand tragend, steigt muhsam durch das enge Fenster der Schlafkammer seiner Liebsten, die,im Hemd vor dem Bett stehend, ihn mahnt, jedes Gerausch zu vermeiden, da nebenan die beiden Alten schlafen.
+
+Leinwand.Hohe 30,Breite 23 cm.Goldrahmen.
+
+## CHRISTIAN GOTTLOB GEISSLER,
+
+geb. 1729 zu Augsburg, gest. 1808.
+
+- 29 AUs VENEDIG. Vorn rechts die Piazzetta mit dem
+- statuengeschmickten Bau mit der Arkadenhalle. Auf dem Platze Gefigelhandier und konversierende Patrizier und Damen. Am Landungsquai haben zahlreiche Gondeln angelegt. Links der Kanal und Blick auf S. Maria della Salute.
+
+Holz. Hohe 51, Breite 70 cm.Goldrahmen.
+
+- 30 Gegenstick. PARTIE VOM AUSSEREN CANAL GRANDE. Rechts die Hauser und Palaste, links Fernblick, vorn der Canal mit Gondeln reich belebt. Ebenso. Ebenso. Ebenso.
+
+## JON VON GOYEN zugeschrieben,
+
+geb. 1596 in Leiden, gest. 1656.
+
+- 31o8 LANDSCHAFT MIT KIRCHDORF. Auf der einen
+- der Anhohen der leicht higeligen Landschaft liegt die eng um die Kirche gruppierte Ortschaft, ringsum von Weideland umgeben,nur verstreute Baumgruppen und ein rechts im Mittelgrund an der Landstrasse gelegener Weiler staffieren das Terrain, das vorn ein Fluss, mit einer stark gewolbten Holzbricke iberschlagen, durchschneidet. In des Meisters Art mit einzelnen und zu Gruppen vereinigten Figuren reich belebt. Rechts schliesst eine grosse Baumkulisse das Bild ab. Braunlicher Ton in v. d. Velde's Art.
+
+Holz.Hohe 32,5,Breite 42 cm. Schwarzer Rahmen,
+- 36
+
+## JOHN GEORGE VON HAMILTON,
+
+geb.1672 in Bruissel, gest. 1737 in Wien.
+
+- 32 STILLEBEN. Ueber einem Tisch hangt ein toter Hase, neben ihm hangen drei tote Vogel, auf dem Tisch liegen allerlei Kichenpflanzen.
+
+Leinwand. Hohe 85, Breite 74,5 cm. Schwarzer Rahmen.
+
+## JOSEPH HAUBER,
+
+geb.1766 in Gerardsried bei Kempten, gest. 1834 in Munchen.
+
+- 33 KOPF EINES BARTIGEN GREISES.En face,nach vorn geneigt, mit tiefgefurchter Stirn und ausdrucksvollen Augen.
+
+Holz.Hohe 24,5, Breite 17 cm. Goldrahmen.
+
+- 34 DIANA UND AKTAON. In Landschaft vor einem Felsen sitzt die Gottin, dem Bade entstiegen,nackt, vor ihr eine ebenfalls nackte Begleiterin, knieend den Korper der Herrin trocknend. Um den Felsen kommt der Jungling,nur mit dem Oberkorper sichtbar, den Kocher auf dem Ricken,mit der Geste des Staunens iber den iberraschenden Anblick.
+
+Leinwand. Hohe 70, Breite 57 cm. Goldrahmen.
+
+- 35 SCHLAFENDE VENUS. In einer offenen Saulen-
+
+Leinwand. Hohe 41,Breite 52 cm. Goldrahmen.
+
+- halle mit Ausblick in die weite, von den weichen Linien ferner Hugelketten abgeschlossenen Landschaft liegt die nackte, nur mit Perlendiademen geschmickte Gottin,auf prachtigem Ruhebette schlafend. Hinzu fliegende Amoretten heben den schweren Vorhang zu Haupten der Gottin.
+- Gegenstick:VENUs VON AMOR GEWECKT. In einer Saulenhalle mit Ausblick in eine Parklandschaft sitzt in liegender Stellung Venus nackt auf einem kostbaren Ruhebett, Amor zartlich umfangend, der eben herangefogen ist und die schlafende Mutter geweckt hat.
+
+Leinwand. Hohe 41,Breite 52 cm.Goldrahmen.
+## A.HELDT.
+
+- 37 ADLER BEI EINEM STILLEBEN. Auf einer Trapezstange sitzen zwei Adler, der eine hat einen toten Vogel in der einen Klaue, den er wohl von dem Vorrat an totem Gefigel und Wild geholt hat, das unter dem Trapez auf einem Tisch ausgebreitet ist. Leinwand.Hohe 87, Breite 71 cm. Goldrahmen.
+
+## HIRSCHHORN.
+
+- 38 BRUSTBILD EINES ALTEN MANNES in langem weissen Haar, en face.
+- 39 BRUSTBILD EINER ALTEN FRAU IN HAUBE,
+
+Ebenso Ebenso. Ebenso.
+
+## JUSTUS JUNCKER,
+
+geb. 1701 in Mainz, gest. 1767 in Frankfurt a.M.
+
+Holz. Hohe 25, Breite 21 cm.Goldrahmen.
+
+- 40 ARZT AM SCHREIBTISCH.In einen Quartband Eintrage machend; auf dem mit bunter Decke belegten Tisch ein Totenkopf, Tintenzeug, Bucher und eine Kerze.
+- 41 Gegenstick: GELEHRTER AM SCHREIBTISCH. Sinnend vor einem aufgeschlagenen Quartband sitzend, auf dem mit bunter Decke belegten Tisch cin Globus, Foliant, Zirkel, Lineal und ein grosses Blatt, auf dem die Bezeichnung Juncker Ao. 1752.
+
+Beide Bilder stammen aus der Kgl. Galerie Schleissheim.
+
+Ebenso.Ebenso.Ebenso.
+
+## MICHEL ANGELO MAESTRI
+
+(gest.um 1812)
+
+und FELICE SANTINI,
+
+- 42-4S SIEBEN NACHBILDUNGEN VON AMORINI,
+
+Hohe je 36, Breite je 49,5 cm,
+
+- die im sogenannten Casino Raffaels als Fresko von dessen Schilern Giulio Romano u. A. nach antiken Vorbildern ausgefuhrt waren. Sorgfaltigst durchgefuhrte Gouachemalereien auf schwarzem Grunde. In reich geschnitzten durchbrochenen und bronzierten Rahmen.
+
+Leinwand. Hohe 27,5,Breite 21,5 cm. Goldrahmen.
+
+- en face.
+- Amor nach rechts gewendet im mit Greifen bespannten
+
+Amor nach links im Wagen; der Wagen mit einem chimarischen Tier, halb Sphinx, halb Ziege, mit Lowenschweif bespannt. # Zur Seite dieses Tieres ein alter bartiger Mann mit erhobenem Schild und fatterndem roten Mantel.
+
+- Wagen.
+
+Amor nach links in einem mit zwei Ziegen bespannten Wagen.
+
+Amor nach rechts in einem mit zwei Tigern bespann-
+
+Amor nach links in einem mit zwei Hirschen bespannten Wagen.
+
+ten Wagen.
+
+Amor nach rechts in einem mit zwei Lowen bespannten Wagen,einer der Lowen hat einen Menschkopf.
+
+Venus auf
+
+- einer yon Delphinen gezogenen Muschel mit Schaufelradern. Auf den Delphinen reitet je
+
+eine Amorette.
+
+Dr. Martin Schubart.
+
+Alle sieben Bilder tragen das Zeichen der Sammlung
+
+## OTTO MARCELLIS,
+
+van Schrieck, gen. Snuffelaer geb. 1619/20 in Nymegen, gest. 1678.
+
+- 49 BLUMENsTuCK. Cacteenzweige, von Schmetterlingen besucht.
+
+Pappe. Hohe 24,Breite 32 cm. Goldrahmen.
+
+- 50 Gegenstick: Krautblatter, von Raupen und Schmetterlingen belebt.
+
+Ebenso.Ebenso.Ebenso.
+
+## MARIA ANNA JOSEPHA AUGUSTE,
+
+Tochter des Kurfursten Karl Albert von Bayern (als deutscher Kaiser Karl VID, geb. 1734, verm. mit Markgraf Ludwig Georg von Badlen-Baden, Schulerin von Desmarees, gest.zu
+
+Munchen 1776.
+
+- 51 SELBSTBILDNIS.Huftbild in blauem Atlaskleid mit weissem Spitzenbesatz. Ein diademartiger Edelsteinschmuck in der hohen Frisur und ein grosser Ordensstern an der Brust bilden den einzigen Schmuck.Die linke Hand halt die Palette,die rechte ergreift einen der Pinsel;das Gesicht ist dem Beschauer voll zugewendet.
+
+Leinwand. Hohe 87,5, Breite 76 cm.Holzgeschnitzter
+
+Goldrahmen.
+## ALESSANDRO MAGNASCO,
+
+geb.1681 in Genua,gest.1747.
+
+- 52 BERGLANDSCHAFT IM GESCHMACK SALVATOR ROsA'S. Italienische Ortschaft in hugeliger, zwischen der Ebene und dem Gebirge liegender Gegend. Ein hoher vierseitiger Turm ragt uber unregelmassig gebaute Bauerngehofte empor. Dahinter etwas Baumschlag und die weite Ebene. Dieses Landschaftsbild ist vorn durch zwei machtige Kulissen gerahmt: rechts ein schroff abfallender, oben weit iberhangender Felsen, nur stellenweise mit Strauchwerk bekleidet;links hohe alte Baume auf dem felsigen Boden. Dazwischen fallt, die ganze Passage sperrend, ein Gewasser iber Felsim Gesprach.
+
+Leinwand. Hohe 49,Breite 37 cm.Goldrahmen.
+
+## CASPAR NETSCHER.
+
+Dessen Art.
+
+- 53 BETHSEBA SCHLAFEND.Im baumreichen Garten schlaft, auf einer Felsbank sitzend, nur an den Lenden von Tichern umhillt, das Weib,vor ihm steht eine kostbare hohe Badevase.
+
+HolzHohe 39,5,Breite 31,5 cm.
+
+## NIEDERLANDISCHE SCHULE.
+
+- 54 APOTHEKER. Brustbild eines Apothekers in rotem Hut, mit einer grossen Apothekerfasche in der einen und einem Napf in der anderen Hand.
+- 55 BEIM DORFBADER. In einer Stube bei einem Tische, auf dem Aderlassschissel und Medizinfaschen stehen, sitzen auf roh zusammengefugten Stihlen der Dorfbader und sein Patient, ein junger Bursche mit wirrem Haar, der wegen einer Armwunde den Heilkinstler konsultiert. Dabei ein alterer Bauer als aufmerksamer Zuschauer.
+
+Holz. Hohe 23, Breite 20 cm. Goldrahmen.
+## GABRIEL PERELLE,
+
+geb. 1603 in Vernon s. Seine, gest. 1677 in Paris.
+
+- 56 LANDsCHAFT. Im Vordergrund eine I Berglehne mit einer machtigen Turmruine, die die Mitte des Bildes fullt. Reiche Vegetation auf dem Bergricken, auf und bei der Ruine. Vom Berge eilt ein Bach dem breiten Flusse zu, der im Mittelgrunde fiesst. Am Bache ein Angler, weitere Figuren am Flusse. Am Horizont die Silhouette einer Stadt. Vorn in der Mitte bez. C. E. P.
+
+Rund auf Holz. Durchmesser 23 cm. Goldrahmen.
+
+## REMBRANDT.
+
+Copie nach ihm.
+
+- 57 MATRONE, Brustbild en face,mit schweren Augendeckeln,in schwarzem Schleier mit diademartigem Schmuck an der Kopfbekleidung und mit Brustschmuck.
+
+(Nach einem Originale der Eremitage zu St. Petersburg.) Holz. Hohe 23,5, Breite 20 cm. Goldrahmen.
+
+## GUIDO RENI zugeschrieben.
+
+- 58 DIE HL. MARIA BEWEINT DEN LEICHNAM CHRISTI. Auf einem grossen roten Teppich mit Goldfranzen ist das Leichentuch a ausgebreitet,auf dem der Leichnam des Erlosers liegt, dessen linken Arm ein kleiner Engel umfasst, der teilnehmend zur hl. Maria emporblickt, die bei dem Leichnam kniet, die gefalteten Hande um das hochgestellte rechte Knie geschlungen. Der landschaftliche higelige Hintergrund （Golgatha) ist in Dunkel gehullt,von oben schwebt eine Wolke mit Cherubims herab. Vorn bei dem Leichnam liegen auf einer Schissel zwei Kreuzesnagel, die Dornenkrone und das Schriftband mit der Inschrift J. N. R. J.
+
+Leinwand.Hohe 55,Breite 42 cm. Goldrahmen.
+
+Nach einem alten Zettel auf der Ruckseite aus dem Kloster Kremsmunster stammend.
+
+## SCHULE RUBENS.
+
+- 59 BILDNIs. Brustbild einer jungen Frau,rotblond,mit hoch aufgebundener Frisur und tief ausgeschnittenem Kleid,im Dreiviertelprofl nach rechts, mit freudigem Gesichtsausdruck aus dem Bilde blickend, die Hande halten einen Blumenstrauss an die Brust.
+
+Holz. Hohe 63,5,Breite 54 cm.Goldrahmen.
+- 63
+
+## GODFRIED SCHALKEN,
+
+geb. 1643 in Made, gest. 1706 im Haag.
+
+- 60 BRUTUS UND CASARS GEIST. In einem durch
+- der Schatten Casars, nach dem Brutus mit trotziger Miene blickt.
+- eine romische Lampe erleuchteten Gemache sitzt Brutus an einem Tisch, bei dem seine Waffen aufgehangt sind. Wahrend sein  Gesicht vom Lampenlicht erhellt ist, ist der grosste Teil des Raumes in Halbdunkel gehullt;in diesem Halbdunkel erscheint
+
+Unten links bez. G.S.f. 1705. Leinwand.Hohe 70,Breite
+
+64,5cm.
+
+## MATTHIAS SCHEITS,
+
+geb. vor 1640 in Hamburg, gest. um 1700 daselbst.
+
+- 61 LIEBESPAAR BEIM WEIN.An einem einfachen Tische sitzt ein alter Bauer in rotem Rock und pelzgefitterter Sammtmitze bei einem jungen Bauernmadchen, das sehr einfach gekleidet ist.aVerliebt grinsend hat der Alte die rechte Hand des Madchens wie zur Bekraftigung des erhaltenen Jawortes gefasst, wahrend sein rechter Arm auf der rechten Schulter des Madchens ruht. Auf dem Tische ein Stengelglas mit Rotwein und angebrochenes Weissbrot.
+
+Holz. Hohe 34,Breite 24,5 cm. Goldrahmen.
+
+## CASPAR SCHNEIDER,
+
+geb.1754 in Mainz,gest. 1839.
+
+- 62 LANDSCHAFT.Schone deutsche Waldlandschaft, links ein Kirchlein inmitten des prachtigen Baumschlags, vorn ein grosseres Gewasser. Ein Boot bringt einige Personen ans Ufer, das durch ein sich unterhaltendes Paar,einen Wanderer, der eine Last auf dem Rucken tragt,und durch Wascherinnen staffiert ist.
+
+Leinwand. Hohe 54, Breite 49 cm.Goldrahmen.
+
+## W. SPRANGER.
+
+- GRABLEGUNG CHRISTI. In der Mitte des Vordergrundes ein steinerner Sarkophag, in den der Leichnam des Erlosers eben hineingehoben wird. Rechts
+- 65
+
+die heiligen Frauen und Johannes, links Joseph von Arimathia und Apostel vor der Steinwand des Eingangs zum Felsengrabe, rechts Ausblick auf Golgatha.
+
+Leinwand. Hohe 54, Breite 78 cm.Goldrahmen.
+
+## F.L.STORCH.
+
+- 64 RUHENDE VENUS. In waldiger Landschaft, die in Abenddammerung gehillt ist,liegt nackt auf einem prachtigen Ruhebett die Gottin, ein blaues Tuch erfassend, um es iber die Schenkel zu decken.
+
+Blech. Hohe 18,Breite 22,5 cm. Goldrahmen.
+
+## KATHARINA TREU,
+
+geb. 1742 in Bamberg,gest. 1811 in Mannheim.
+
+- EIsvoGEL. Auf dem Aste eines knorrigen Baumstammes sitzend, vor violettem Fond.
+
+Pastell. Hohe 29,5,Breite 21,5 cm. Goldrahmen.
+
+## UNBEKANNTER ITALIENISCHER MEISTER.
+
+- 66
+- GEBURT CHRISTI. In der Krippe liegt das Jesuskind, das die hl. Maria den herbeigekommenen Hirtenkindern zeigt. Diese Gruppe hat eine dreifache Beleuchtung, durch den Glorienschein des gottlichen Kindes und der hl. Maria, sowie durch die Lichtwolke, die von oben herab, durch Cherubims belebt, sich auf die Krippe niedersenkt. Der hl. Joseph, zu Haupten des Jesuskindes knieend, die Hirtenkinder, das Innere des Stalles und die durch die Stalltire sichtbare Landschaft sind in Dunkel gehullt, das je intensiver wird, je grosser die Entfernung von der Lichtquelle in Ger Krippe ist.
+
+Leinwand.Hohe 60,Breite 48,5 cm. Geschnitzter Goldrahmen.
+
+## UNBEKANNTER MEISTER DES 16. JAHRHDTS.
+
+- 67 DER TOD BEIM FESTE. In offener Saulenhalle mit perspektivischem Ausblick auf Palastarchitekturen sitzt eine zahlreiche Gesellschaft in prachtigen Kostimen an der reich besetzten Tafel, mit dem Ausdruck des Entsetzens dem Tod zugewandt,der hinzugetreten ist und eine der Damen vom Stuhle gerissen und niedergeworfen hat. Dienerschaft, Musikanten, Komodianten staffieren die Szene.
+
+Kupfer. Hohe 25,Breite 31,5 cm. Goldrahmen
+## UNBEKANNTE MEISTER.
+
+- 68 TRINKER AM FENSTER. An dem holzernen Rahmen eines mit Weinlaub umrankten Fensters steht mit dem Ricken angelehnt, den Kopf zurickgewendet, so dass er aus dem Fenster herausblickt, ein Bauer in rotem, armellosem Wamms und Schlapphut, mit der Rechten eine grosse Kanne hebend, um sie zum Munde zu fihren.
+
+Holz.Hohe 24, Breite 20 cm. Goldrahmen.
+
+- 69 Gegenstick. BLASENDER HIRTE.Vor einem ebenfalls mit wildem Wein bewachsenen halbrunden Tor steht,nur in halber Figur sichtbar,ein Mann in Arbeitskittel und Tuchmitze, mit der Rechten ein Stierhorn an den Mund setzend, dabei aus dem Bilde heraussehend. Daneben cin kleiner Knabe.
+
+Ebenso. Ebenso. Ebenso.
+
+(Nach Ostade's Radierung B. 7.)
+
+- 70 MADONNA. Bei einem offenen Fenster, das Ausblick in die gebirgige Landschaft gewahrt, sitzt die hl. Maria,auf dem Schosse das blonde Jesuskind, das in der rechten Hand eine Blume,in der linken einen Apfel halt, eine Blume halt auch die linke Hand der Madonna. Aepfel und Weintrauben liegen auf einer Schale links am Bildrande, oben links eine Dra-
+
+Holz.Hohe 61,Breite 53 cm.
+
+- perie, einen Teil der Fensteroffnung verschliessend.
+- 71 MADoNNA. In einer Landschaft vor einem Eich-
+- baum die hl. Maria, dem Jesuskinde, das ein Kinderhaubchen tragt, die Brust reichend. Im Hintergrunde der hl. Joseph mit Pilgerhut. Halbfiguren. Leinwand. Hohe 62,5,Breite 85,5 cm.Goldrahmen.
+- 72 MADONNA MIT ZWEI HEILIGEN. Die hl. Maria halt mit dem rechten Arm das auf ihrem Knie sitzende blonde Jesuskind, die linke Hand halt ein aufgeschlagenes Gebetbuch. Der Madonna zur Rechten steht ein Franziskanermonch,die Hande anbetend iber die Brust gekreuzt, zur Linken eine Heilige mit langem Lockenhaar,den Mund zum Singen geoffnet.
+
+Leinwand. Hohe 67,Breite 82 cm.Goldrahmen.
+- 73 DAS JESUSKIND UMARMT DEN KLEINEN JOblonde Jesuskind, den knieenden Johannesknaben zartlich umarmend.Neben dem Jesuskindedie
+
+Leinwand. Hohe 56,5, Breite 35,5 cm.Goldrahmen.
+
+- HANNEs. Vor einem starken Paumstamm,in dessen Astwerk ein zuschauender Eugel sitzt, steht das Weltkugel, neben dem kleinen Johannes der Kreuzstab und das Schriftband mit Agnus Dei.
+74. DER HL. JOHANNES EV., der gottlichen Inspiration lauschend. Brustbild mit gen Himmel gerichtetem Antlitz, die Linke, zur Brust erhoben, halt eine Schriftrolle.
+
+Leinwand. Hohe 56, Breite 43 cm. Goldrahmen.
+
+- DER UNGLAUBIGE THOMAS. Der Heiland mit schmerzerfilltem Ausdruck in dem auf die linke Schulter geneigten Haupte, entblosst mit der Rech ten seine Seitenwunde und fuhrt mit der Linken die Hand des unglaubigen Apostels an die Wunde. Die anderen Apostel stehen als aufmerksame Zuschauer
+- 75 dabei.Haibfguren.
+
+Holz.Hohe 37,Breite 50,5 cm.Goldrahmen.
+
+- 76m ANANIAS UND SAPHIRA WERDEN GESTRAFT. Vor einem kathedraleahnlichen Gebaude ist die altchristliche Gemeinde eben Zeuge des Wunders der Bestrafung der Unterschlagung der beiden Mitglieder, das eine derselben ist tot zu Boden gefallen, das andere,noch eine mit Geldsticken ge fullte Urne haltend,mit Blindheit geschlagen in die Kniee gesunken. Bei diesem der hl. Petrus mit erhobenem rechten Arm die gottliche Gerechtigkeit preisend, neben ihm der hi. Johannes, zunachst menschliches Mitleid mit den gestraften Sundern zeigend. Vorn die an die Gemeindekasse abgelieferten Geld-und anderen Schatze. Links Ausblick in die Landschaft. Grisaille-Manier.
+
+Holz. Hohe 66,Breite 50,5 cm.Goldrahmen.
+
+- MARTYRIUM DER HL.BARBARA.Die Heilige mit gebundenen Handen, auf einem Steine knieend, ist gewartig, den Todesstreich zu empfangen. Ihr zur Rechten ein Mann, sie zur Anbetung eines Gotzenbildes auffordernd,zur Linken ein Mann mit
+- 77
+dem aufgehobenen Schwert, das der herbeigeeilte Vater der Jungfrau zu ergreifen sucht, um selbst den Todesstreich gegen die Tochter zu fuhren. Bei dem Steine kniet eine klagende Freundin der Martyrerin. Im Hintergrunde links der Turm mit den drei Fenstern, rechts das versammelte Volk. Von oben schweben Engel herab,die den Kranz, die Palme und den Kelch fur die Martyrerin bereit halten...
+
+Leinwand.Hohe 69, Breite 40 cm.Goldrahmen.
+
+Leinwand. Hohe 69, Breite 39,5 cm. Goldrahmen.
+
+- 78 DAS OPFER ABRAHAMS.Abraham hat das Messer gezickt, um seinen Sohn, der mit verbundenen Augen und gebundenen Handen neben dem anzuzundenden Holzstoss sitzt, zu opfern; von oben schwebt der Engei herab,der Einhalt gebietet. Landschaftliche Staffage.
+- 79 SZENEN AUS DEM LEBEN EINES HEILIGEN
+
+versteigert) zugeschrieben.
+
+- KIRCHENFURSTEN (Bernhard von Clairvaux?) Acht Tafelbilder (Altarfugel) eines altdeutschen Meisters, der der Werkstatt Albrecht Altdorfers nahesteht; diesem Kunstler waren die Bilder in der Sammlung Hamminger. Regensburg (1895
+
+Holz. Hohe je 71, Breite je 53 cm.
+
+Der Zyklus veranschaulicht folgende Begeben- heiten:
+
+- In prachtiger Landschaft bei Sonnenuntergang eine rot gekleidete schwangere Frau betend, uber ihi schwebt ein grosser schwarzer Adler.
+
+Weib in Geburtswehen,bei ihr klagende und betende Frauen, sowie eine mit dem Weihwedel. In dem anstossenden Kreuzgang kniet ein Mann vor der offenen Gruft eines Bischofs. Ueber die Mauer des Kreuzgangs Blick in die Landschaft.
+
+In einem Kathedralen ahnlichen Hallenbau liegt ein
+
+Die Taufe. In der hohen Kreuzbogenhalle das machtige Taufbecken. Ein Mann mit einer Krone halt den Taufling,der zum Erstaunen der vornehmen Versammlung die Worte des amtierenden Geistlichen mit Reden und Gesten begleitet.
+
+Der Heilige treibt einen Teufel aus. In felsiger Gegend, verstossen von der menschlichen Geselischaft,
+begegnet dem Heiligen ein Besessener; auf die Beschworungsformel fahrt der Teufel zum Munde des Unglicklichen heraus.
+
+- noch.
+- Zwei Besessene sind zum Tode verurteilt, den einen hat der Damon zwar zur Erde geworfen, doch muss er auf die Beschworungsformel den Besessenen verlassen, der andere Unglickliche steht mit gebundenen Handen ruhig aufrecht; der Damon in ihm trotzt
+- Der Heilige hat einen Toten erweckt. In schoner Landschaft stehen zahlreiche prachtig gekleidete Manner, erstaunt iber das Wunder der Erweckung des noch in die Leichenticher gehuillten Mannes, der bei dem offenen Grabe sitzt. Bei ihm der betende Heilige und ein anderer, ohne innere Ueber-
+
+Der Heilige im vollen Bischofsornat in einem Kruppel- zeugung betender Mann.
+
+hause heilt einen Blinden.
+
+umgeben, liegt der Gefeierte auf dem Sterbebett. Dabei betende und klagende Freunde.
+
+Der Tod. Schwer krank, doch schon mit dem Nimbus
+
+- 80 BETENDER MoNCH. Beim Mondenschein,der durch das Fenster seiner Zelle fallt, kniet ein Kapuziner, die Hande iber die Brust gekreuzt, die Lippen bewegt. Auf einem Tische vor ihm liegt der Rosenkranz, dariber zwei aufgeschlagene Folianten (Bibel in deutscher Sprache). Ein geschlossener Fo-
+- liant und ein Kruzifix liegen am Boden.
+
+Leinwand. Hohe 58, Breite 45 cm. Goldrahmen.
+
+- 81 BETENDER KAPUZINER. Nach rechts in Seiten-
+- ansicht mit erhobenen Augen und gefalteten erhobenen Handen dargestellt. An der Kutte hangen ein Kruzifix, der Rosenkranz und ein Gebetbuch.
+
+Leinwand.Hohe 74, Breite 61 cm. Schwarzer Rahmen.
+
+- 82
+- FAUN UND BACCHANTEN. In einer Landschaft, die durch eine Waldkulisse rechts abgeschlossen wird, sitzen auf einem Rasenhugel ein alter Faun und eine junge,rebenbekranzte Bacchantin, die bemuht ist, auf der Pansfote zu blasen und von ihrem alten Gesellschafter Unterweisungen empfangt. Am Boden ein schlafendes nacktes Kind.
+
+Leinwand.Hohe 47,Breite 38,5 cm. Goldrahmen.
+
+- 83 LANDSCHAFT MIT ARCHITEKTURSTAFFAGE. Im Vordergrunde rechts ein Fluss an hugeligem,
+baumbestandenen Ufer,im Mittelgrunde an einem durch Turm und Mauer befestigten Gehoft vorbeifiessend,in der Tiefe des Bildes sich verbreiternd und unter Brickenbogen dem Blick entschwindend. In der Ferne eine Stadt und noch entfernter, als Abschlusskulisse, massige Hohenzuge. Vorn figurlich
+
+Holz.Hohe 18,5,Breite 28 cm.Goldrahmen.
+
+## 84
+
+staffiert.
+
+FLUSSLANDSCHAFT IN BERGIGER GEGEND. Das Bild beherrscht ein grosser Fluss, der an einem Bergstock voriberfiesst,welcher links die Szenerie abschliesst. Die Ufer zeigen mehrere Einbuchtungen und im Vordergrunde teilt sich der Fluss in zwei Arme, eine Insel umfiessend. Am Ufer, besonders rechts im Vordergrunde,Gruppen hoher Waldbaume auf dem im allgemeinen felsigen Terrain. Im Mittel- und Hintergrunde eine befestigte Stadt am Flusse. Im Vordergrunde figurliche Staffage:  drei Fischer, ein Netz zusammenziehend. Wascherinnen, Wasche waschend,weiter zurick ein Hirte und ein Reiter.
+
+Leinwand. Hohe 71,5, Breite 78,5 cm. Schwarzer Rahmen.
+
+- 85 Gegenstick: LANDSCHAFT MIT FLUSS. Hochebene mit Gebirgszigen als Abschlusskulisse. Ein breiter Fluss mit vielen Einbuchtungen an den fel sigen,bewaldeten Ufern, kommt aus der Tiefe des Bildes nach vorn, wo er einen Wasserfall bildet. Im Hintergrunde Architekturstaffage, im Vordergrunde bei einem hohen Baum Holzarbeiter mit einem Hund, links und in einem Boote auf dem Flusse weitere Figuren.
+
+Ebenso.Ebenso.Ebenso.
+
+- 86 WALDLANDSCHAFT mit breitem Fluss,dem zwei Nymphen entstiegen sind, bei ihnen mehrere Hunde. Leinwand. Hohe 6l, Breite 77,5 cm. Goldrahmen.
+- 87 RAUBERLAGER BEI MONDSCHEIN. In weiter einem Feuer eine Rauberbande, abseits rechts an einen Baum gefesselt, ein geplindertes Opfer der
+- Bande.
+
+Holz. Hohe 17,5, Breite 23 cm.Goldrahmen.
+- 88iREICHSTAGSVERSAMMLUNG ZU WORMS.In einer gothischen Kathedralkirche sind die weltlichen und geistlichen Wirdentrager des Reiches versammelt und disputieren lebhaft.
+
+Holz.Hohe 43,5, Breite 28,5 cm. Goldrahmen.
+
+- 89 PATRIZIER-BILDNIS.Brustbild eines im Dreiviertelprofl nach links blickenden graubartigen Mannes mit hoher gefaltelter Halskrause und in schwarzem Rock. Dabei die Beischrift:Aetatis suae
+- LIII. Anno D. M.DC.XII.
+
+Holz.Oval.Hohe 15,5, Breite 12 cm.
+
+- 90 ALTMUNCHENER HERRENBILDNIS. Huftbild
+
+Leinwand.Hohe 81, Breite 67 cm. Geschnitzter Goldrahmen. Auf der Riickseite latein. Aufschr., die den Portraitierten bezeichnet als Joh. Philipp Hepp, geb. 1696 in Arn-
+
+- eines Herrn inDreiviertelprofl aus dem Bilde herausblickend. Er tragt rote, offene, das weisse Halstuch hervortreten lassende Weste, grunen Rock mit goldenen Knopfen und eine gepuderte Perrucke. Die linke Hand halt eine Art Visitenkarte, worauf steht: Amon fils Joseph Hepp a Munich. Ferner in der Ecke ein Monogramm.
+
+stein,gest.1775.
+
+- 91 Gegenstick:ad ALTMUNCHENER DAMENBILDNIS. Huftbild einer alteren (weisshaarigen) Dame, wohl der Gattin des Vorigen. Sie ist en face portratiert und tragt ein lilafarbenes Seidenkleid,daribereinenweissseidenenShawl,H ferner eine schwarze Riegelhaube, Halsschmuck und eine religiose,in Edelstein gefasste Medaille am Brustlatz. Die rechte Hand halt ein Gebetbuch.
+
+Ebenso. Ebenso. Analoger holzgeschnitzter Goldrahmen.
+
+- 92 LANDSCHAFT MIT BLICK AUF MUNCHEN. Im Vordergrund Hugelland mit Baumschlag und Figuren, am Horizont die Silhouette der Stadt.
+
+Holz. Hohe 16,Breite 23 cm.Goldrahmen.
+
+## ADRIAN VERDOEL,
+
+geb. 1620 in Overmaas, gest. 1681 in Vlissingen.
+
+- 93 BILDNIS. Brustbild eines weissbartigen Patriziers, en face, nach links blickend. Er tragt Federbarett,
+pelzverbramten Rock und Ordenskleinod auf der
+
+Leinwand. Hohe 49,5, Breite 40 cm.Goldrahmen.
+
+Brust.
+
+- 94 BILDNIS. Brustbild eines Edelmannes,Dreiviertelden Schnurrbart, eine Art Pandurenczako (Pelzmitze mit weisser Feder und Goldschniren) u
+- profl nach rechts. Er tragt Kinn- und herabhangenund Pandurenrock (mit metallenem Schulterkragen und Goldbortenverschnirung).
+
+Leinwand. Hohe 49,5,Breite 40 cm. Goldrahmen.
+
+## JOHANN PAUL WAXSCHLUNGER,
+
+geb.vor 1700,gest.1724.
+
+- 95 STILLLEBEN. In Waldlandschaft mit Fernblick ist an einem Eichstamm die Jagdbeute,bestehend aus einem Hasen und Gefigel, niedergelegt, resp. aufgehangt. Als Wachter steht ein Jagdhund dabei;in den Aesten des Eichbaums tummeln sich Vogel.
+
+Leinwand. Hohe 36,5,Breite 31,5 cm.Goldrahmen.
+
+- 96 Gegenstuck:AHNLICHE DARSTELLUNG. Die Jagdbeute besteht hier aus einem Reh und Geflugel, dabei ein Jagdhorn.
+
+Ebenso. Ebenso. Ebenso.
+
+## WITTENBACH.
+
+- 97 NACH DER JAGD. Rast einer grosseren Jagdgesellschaft im Walde unter prachtigen Laubbaumen. Im Vordergrunde die Jager,wohl meist Portrats, dabei ihre Hunde. Links das zur Strecke gebrachte Wild, rechts Treiber,teils Mundvorrat herbeitragend, teils mit Hunden beschaftigt.
+
+Leinwand. Hohe 65,Breite 87 cm.Goldrahmen.
+
+## MICHAEL WOLGEMUT,
+
+geb.1434,gest.1519.
+
+- 98 DORNENKRoNUNG CHRISTI. Vor einem Spitzbogenfenster, das Ausblick auf einen Hugel (Golgatha) zeigt, sitzt der Erloser, in einen Mantel gehullt,die Hande gebunden,auf dem Haupte die
+- 100
+
+Dornenkrone, die zwei Schergen mit aller Kraft auf den Kopf des Gepeinigten dricken.Vor ihm kniet ein dritter Scherge, eine Huldigung fingierend.
+
+Holz. Hohe 24,Breite 82 cm. Goldrahmen.
+
+- 99 GEISSELUNG CHRISTI. In einer Halle mit getafeltem Fussboden ist der Heiland an eine Saule gebunden, den Misshandlungen der Knechte preisgegeben. Einer speit ihm ins Gesicht, ein anderer schlagt mit Ruten, ein dritter mit einer Geissel, ein vierter zieht die Stricke scharfer an, wahrend der finfte frische Ruten zusammenbindet.
+
+Holz. Hohe 81,Breite 42 cm.Goldrahmen. Beide Bilder wurden 1845 aus dem Nachlasse des furstl.
+
+Thurn und Taxis'schen Domanenrates Dorrer in Regensburg erworben.
+
+## FRANS WOUTERS,
+
+geb. 1612 in Lierre, gest. 1659/60 in Antwerpen.
+
+- SUSANNA UND DIE BEIDEN ALTEN. Bei einem Brunnen sitzt das dem Bade entstiegene noch unbekleidete Weib,sich mihsam der beiden Alten erwehrend, deren einer das Badetuch an sich zu reissen sucht. Links auf einer Steinbank Schmuck, ein Kamm und eine Parfumvase.
+
+Leinwand. Hohe 94,Breite 76 cm. Brauner Rahmen.
+
+## GUILLAUME BOURGUIGNON,
+
+geb.1621,gest.1676.
+
+- 101 SCHLACHTENBILD.Vor einer stark befestigten Stadt tobt ein heftiger Kampf,vor den Mauern fanatisch ansturmende Turken, auf den Festungswallen leidenschaftlich abwehrende Verteidiger.
+
+Leinwand.Hohe 99,Breite 27,5 cm.
+
+## ANTONI VAN DYCK.
+
+Dessen Sehule.
+
+- 102 MADONNA.IDie hl. Maria, im Kniestick stehend,
+- halt das auf einem Tische stehende blonde,nackte Jesuskind. Links Ausblick in die Landschaft.
+
+Leinwand. Hohe 114,Breite 81 cm. Goldrahmen.

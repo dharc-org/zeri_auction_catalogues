@@ -1,0 +1,2088 @@
+## Conditions de la vente
+
+La vente se fait expressement au comptant. Les acquereurs paieront dix per cent en sus des encheres.
+
+L'offre minime doit etre d'un Mark et depuis 100 Marks en avant de cinq Marks.
+
+Quand il aura quelque doute sur le dernier prix, le lot sera mis immediatement de nouveau aux encheres.
+
+L'expert se reserve la faculte de reunir ou de diviser les numeros du catalogue.
+
+Les epoques et les attributions ne sont donnees qu'a titre d'indication et sans aucune garantie. Il en est de meme pour les indications de metal, argent ou or. L'exposition mettant le public a meme de se rendre compte de l'etat et de la nature des objets, aucune reclamation ne sera admise une fois l'adjudication prononcee.
+
+Les objets adjuges seront conserves sans aucune responsabilite.
+
+L'expedition sera faite aux frais et au risque de l'adresseur, aux personnes avec lesquelles la librairie n'est pas en communication reguliere contre remboursement du montant. L'emballage sera fourni au prix coutant.
+
+Le soussigne se charge des
+
+## Commissions
+
+des personnes qui ne pourraient assister a la vente, aux conditions d'usage.
+
+Karl W.Hiersemann,Leipzig, Konigstr.29 Libraire et Antiquaire
+<!-- image -->
+
+## I. Autographes.
+
+- 1 Autographes de generaux des guerres Napoleoniennes. 2o3 pieces, lettres autogr. et signees, lettres sign., documents autogr. et sign., pieces sign. de personnages qui se sont distinguees dans ces guerres. Pour la plupart des officiers de l'armee autrichienne,alors des Prussiens, des Bavarois, des Hanovriens, des Wurtembergeois, des Saxons etc. Une grande partie des documents datent de cette epoque meme, l'autre un peu avant ou apres, l'ensemble embrasse
+
+Ils s'y trouvent les noms suivants:Comte d'Argenteau, Lieutenant-General Max Comte Auersperg,le commandant Aschbacher,Comte Bellegarde, Géneral de Berger,E. W. de Besser, Prince Biron de Curland, Baron de Bonomo, General de Bronikowski, Caulaincourt duc de Vicenza, Lieut.General Clam-Martinitz,General Clausewitz,Lieut.-Gen.Dall'Aglio,Comte v.d.Decken, General Comte Deroy,Comte F.zu Dohna, Colonel de Dolffs, Commandant Friccius, General v. d. Goltz, von Haake, Comte de Hacke, Command. v. Hellwig, le Prince hered. de Hesse Hombourg (Frederic VI.), Frederic V. de Hesse Hombourg, Feldmarechal Philipp de Hesse Hombourg, Francois Prince de Hohenzollern-Hechingen, Comte Kielmannsegge, Comte Kinsky, General de Ledebur,Alois Prince Liechtenstein,Prince Charles de Ligne, Prince Charles de Lothringe, Baron de Manteuffel, Charles duc de Mecklenbourg, Comte C.de Normann, Colonel Fr.v. Odeleben,les Archiducs Jean,Ferdinand et Maximilien d'Autriche, les generaux de Pirch, Prince Auguste de Prusse, les generaux Raglovich, von Rudolphi, Ryssel, von Schmettau, Thile, v. Thumen, Comte von Wallmoden,Comte Wartensleben,Comte Wimpfen,le duc Eugene de Wurtemberg etc.
+
+- les annees 179oa 1848.In-8, in-4 et in-fol.
+- 2Berlin. Plainte des maitres passementiers et tisserands de Berlin a la deputation patronale dans le district du Palais d'Anspach, par laquelle ils se plaignent queI les compagnons demenagent dans d'autres districts pour s'echapper des exercices compulsoires. Berlin
+
+Document interessant pour l'histoire de la fondation du ,Landsturm" en 1813. Signe par le lieutenant George Ziegler et Io maitres.
+
+- le 8.juin 1813. In-fol.2 ff.av.adresse.
+- 3 Blucher, Gebh. Leberecht von, le celebre Feldmarechal prussien,
+- 1742—1819,l. a.s.Stargard,le 4 aout 1811.2 p.in-4. Tres belle lettre amicale a une amie dans laquelle il parle des evenements politiques et personnels. Av. signature et 6 lignes complim. de son fils Franz. Des lettres autographes du marechal sont tres rares. - Voir l'illustration.
+- 4 1
+- 1.s. Stargard, 1o.VI.18o6.1 p.in-fol.
+- 5 doc. s. Liege le 2 mars 1815. 1 p. in-fol. Ordre du jour relatif a certains deplacements d'officiers.
+
+Au gouvernement pomeranien a l'egard d'une avance a 3 offciers.
+- 6 Bonaparte, Josephe Napoleon, roi de Naples et d'Espagne, 1768 —1844, l. s. e. c. a. (,Votre affectionne Josephe") avec postscriptum aut. sign. de 7 lignes. Terni, 25. Mai, 18o8. 2 p. in-4. Au ministre des travaux publiques a l'egard de la nouvelle Academie. Lettre interessant avec un long postscriptum: ,Faites finir le pont de la Sanita sans quoi on ne peut rien concevoir a tout ce qui a ete fait a Capodimonte et prenez s'il le faut le deux premiers mille ducats qui vous proviendront des revenus chus d'Avers et pour cela avant toute autre chose. Ecrivez moi
+- 7 —p. a.s.,Bonaparte, lambassadeur de la Republique"..Rome le 16 Vind. 1an 6(7. Oct. 1797）. 9 lignes sous une petition de 31/2 p. in-fol.
+
+Petition d'un Louis Digne qui en 1764 fut directeur des postes francaises et consul de France a Rome.
+
+No.3.
+
+<!-- image -->
+
+- 1.a. s.S.1. n.d.1 p. in-4. 8 — Au general Berthier.
+- 9 一 l,s. avec compliment autogr. Morfontaine le 3 Messidor an II (22.VI.1803). In-4. 2 lignes autogr., il promit son aide pour l'emigration pour l'Amerique.
+- 10 —1. s. av. compl. autogr. Paris, 1 Brumaire an 13 (23. Oct. 18o4). 12 p.in-4. Lettre d'envoi d'un mandat de 1575o fr. pour paiement d'une traite du Mr. Jerome.
+- 11 Dalberg, C. Theod. Baron de, electeur de Mayence, grand-duc de Francfort,1744—1817,1.a.s.E Erfort le 6 mars 1781. Lettre de recommandation a M. le Prof. Eck a Leipzig pour le Lt. Colonel Wissow et son neveu le Comte von der Leyen.
+
+Quittance pour l'achat de poudre et de salpetre pour l'armee du royaume
+
+- 12 Esercito. de Regno d'Italia 18o9.1 f. in-4. d'Italie.
+- 13 Gneisenau, Aug. Comte Neidhardt de,le celebre Feldmarechal prussien,176o—1831,l.a.s.et adresse a.Berlin, dimanche matin (vers1818).1p.4.
+
+Lettre amicale a Mme de Bardeleben a Berlin,il parle du Conseiller intime de Savigny, du philosophe Schleiermacher et du poete Chamisso.
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+deuxieme epouse de Jerome Bonaparte, 1783—1835,1.a.s. Hainburg, le 31 dec. 1816.1 p.in-8. A sa belle-soeur la Princesse Elise Baciocchi. ,Ma chere soeur! Je suis bien pere) que je viens de faire. Si quelque chose pouvait m'en consoler, ce serait les temoignages d'interets que vous ainsi que toute la famille avez bien voulu me donner dans cette circonstance."
+
+- 15 Koerner, Theodor, le celebre poete allemand, 1791—1813,l. a. s. (Freiberg) mardi le 13 aout (18o9).21/4 p.in-4.
+- en Silesie et d'une visite a Dresde.
+
+Lettre cordiale a ses parents avec l'adresse du pere. ll parle d'une excursion
+
+- 16 Piece tres interessante, avec quelques corrections et un dessin fugitif. ll parle
+- 17 Manuscrit autogr. s.S. 1. n. d. 2 p. in-4, avec l'enveloppe. Manuscrit de contenu physical écrit probablement pendant une lecon publique du Professeur A.G.Werner a Freiberg （Saxe). En 18o9/10 lepoete fut eleve de l'école des mines dans cette ville et de ce temps-la date le present manuscrit. Sur l'enveloppe se trouve la notice autogr. ,Nachgeschrieben in der Geognosie'.Piece tres rare.
+- Manuscrit autogr. S.1. n.d. 4p.in4. d'un voyage et des impressions qu'il recut de la mer.
+- p. a. S. l. n. d. 8 lignes, in-4.
+- 18 seum a Dresde.
+- Poeme autogr. commencant: ,Nach dem heil'gen Sinn der reinen Taube..." Avec deux corrections, peut-etre inedite. L'authenticite de la piece est con-
+- 19 Koerner, Maria (nomme aussi Minna) nee Stock, l'epouse de Chr. G. Koerner, la mere du poete et lamie de 'uiller et de Goethe,
+- Ip.in-4.
+
+Lettre cordiale de la vieille femme, agee de 72 ans a ce temps, a ses filleuls
+
+Rudolphe et Charles Ulrich.
+
+- 20 一
+
+Donation des tirelires de leurs enfants defunts (Theodor et Emma) a son
+
+- 13juin 1831. 6 lignes in-8 obl. filleul Rudolphe Ulrich. Les plis racommodes.
+- 21 Koerner, Emma, la soeur unique de Theodor Koerner, 1788—1815,
+- Copie d'une lettre,dans laquelle la mort de Theodor Koerner est annoncee. Des autographes d'Emma Koerner sont tres rares. L'authenticite est con-
+- p.a. 1l/ p. in-80, tres rare. firmee en crayon de la main du Directeur Dr. Peschel.
+- 22 Lelong, commissaire de la division navale aux ordres de Jerome Bonaparte, a Genes, chef d'administration de la marine a Trieste, inspecteur de la marine dans les provinces Illyriennes, a Lorient, Collection d'environ 7o manuscrits le concernant. In-folio (1798—1815). L'une de ces pieces in-folio est reliee d'une
+- etc.— et4. reliure en parchemin, de la meme epoque.
+
+On peut etablir la classification suivante:
+
+1. Gestion de la comptabilite. -a) registre de ma correspondence avec
+divers,relativement a la comptabilite de la division navale aux ordres du frere de S. M. l'Emp., stationnee d. le port de Genes. 16 messidor an 13 (18o5). 36 p. écrites dans un epais cahier relie en parchemin et dt. les autres p. ont éte laissees blanches. b) lettres des agents comptables, du commissaires des armemens, du directeur des vivres etc., du chef d'administrations de la marine, membre de la Legion d'honn.(signees Ticol?) et du commissaire Giraud.
+
+II. Etats: 2 de Trieste dt. un signe Lelong, un ordre de repartition, de Livourne, 3 autres du meme port, dt. un sur la prise le Veloce conduite l'Inspecteur de la marine.
+
+IIl. 3o lettres diverses, parmi lesquelles une correspondance du fls Lelong,une lettre italienne,signee anci,Rovigno 813,une autre de Deraux, commissaire de marine, et la plupart des autres, de ses amis, datees de Zara, Livourne, St. Servan, Paris, Raguse Rome etc.
+
+- 23 Louise, reine de la Prusse, 1776—181o, p. s. ,Luise Koenigin". Berl.,le 3 fev. 18oo.Av.cachet roy. 1/p. in-fol. nobles a Zehdenick a la comtesse Elisabeth von Voss.
+- 24 Napoleon I., empereur des Francais, 1769—1821, p. s. ,Bonaparte St. Cloud, 21. Prairiel an XI (1o juin 18o3). Avec cachet. 1 f. in-fol. Belle signature du premier Consul contresigne p. le ministre de la guerre et le secretaire d'etat, av.en-tete gravé,s.velin.Brevet de capitaine pour Pierre Emanuel Tamisier ne a Lons-s.-Saunier.
+
+Brevet manuscrit conferant le droit de prima preces du cloitre des femmes Piece historique interessante.
+
+- Avec cachet et vign. gravee.1 If.in-fol-obl. Brevet de notaire pour le Citoyen Pierre Demay a Sens (Yonne). Contresigne p. le ministre de la justice et le secretaire d'etat.
+- 26 —p. s.,Bonaparte" avec trois lignes autogr. sur la marge de la petition d'une femme d'officier de l'armee d'Italie, un certain Dejean: Le 28nivose XI1 (19. jan.18o4）.11/2 p. in-fol.
+
+Le premier Consul recommande la petition au ministre de la finance. Voir l'illustration.
+
+feumauxi
+
+Tewre
+
+Cuwuetn
+
+Juameahi
+
+No.26.
+
+<!-- image -->
+
+- 27 p. s. ,Bonaparte". Paris le 29 ventose l'an XII (21. mars 18o4). Avec cachet, sur velin.1 f. in-fol-obl.
+
+Nomination du Citoyen Clemens Boos, membre du conseil general, comme President du tribunal de la premiere instance du Dept. Rhin et Moselle.
+- 28 Napoleon I., empereur des Francais, 1769182 1, p. s. ,Bonaparte.
+- 29 —p. s. ,Napol(eon). Saint Cloud, le 12 aout 181o. 1 p. in-fol. av. timbre.
+- Paris, le 29 ventose l'an XII (21 mars 18o4). Avec cachet, contresignee p. le ministre de l'Interieur et le secretaire d'Etat. 1 f. in-fol. A l'egard du College elect. du Dept. Rhin et Moselle a Coblenz.
+
+Passe-port pour le navire francais ,Le Jeune Pierre capitaine W. Stent de la maison Debast-Dekert a Gand destine pour l'Angleterre et les ports du Nord. Contresignee par Montalivet,ministre de l'interieur, Maret Duc de Bassano, secretaire d'etat, Decres, ministre de la marine et des colonies, Sieyes, directeur general des douanes.
+
+- 30 Alexandre de Wagram et de Neuchatel (Marechal Berthier) comme Major-general de l'Armee d'Espagne pour le sous-lieutenant Koch du Ier regiment du contingent prussien. Paris,le 29 aout1810. S. ,Alexandre".
+- p. s. ,Np.", sur la marge d’une demande de conge par le prince
+- 31 ——p. s.,Bonaparte", comme general en chef en Egypte. Caire le 23 nivose an VI1 (12 jan. 1798). 2 ff. in-fol. av.cachet. Pliee et tres tachetee.
+
+Passe-port pour le commissaire des guerres G. Benaben, qui etant malade, retourne en France.
+
+- 32 Ney, Michel, duc d'Elchingen, prince de la Moskowa, marechal de
+- France, 17691815, doc. s. Copie de l'Etat des services du Marechal Ney Prince de la Moskowa". 2 ff. in-fol. Sur la seconde page blanche se trouve collee une piece coupee d'un document signature autographe: ,Le marechal Due d'Elchingen Prince de la Moskowa, pair de France Ney. Avec cachet en cire rouge au blason du prince.
+- 33 Scharnhorst, Gerh. Dav. von, le celebre reorganisateur de l'armee prussienne, 1756—1813, 1. a. s. Berlin (1810).1 p.in-4. Lettre d'affaires, demandant la liste de qq. choses et cartes.
+- 34 Schill, Ferd. von, commandant d’un corps franc prussien, 177618o9,
+- 1.s. Lauenburg, le 13 juin 18o3. 2p. in-fol. Tres rare.
+- Belle lettre au capitaine von Ohlen a Berlin a I'egard de l'organisation et des uniformes de son corps.
+- 35 —le meme et L.A. W. baron de Lutzow, aussi commandant d'un corps franc, 1782—1834, doc. s. S. l.n. d.in-fol. Rare. Piece interessante avec les signatures des deux celebres commandants sur une feuille, contresignee p. Petersdorf et von Schalken. Quittance pour 4 Louisd'or.
+- 36 Stammbuch.— Album amicorum du Dr. Lazarus Mombert, premier medecin ordinaire de la reine de Westphalie. 47 f. avec 46 inscriptions de compagnons d'etudes,des amis et des amies de Goettingue, Cassel et Grossschneen de 18o6 a 13. 47 ff. in-8 obl. dont 46 av. gravures en grande partie vues de Goettingue,
+Cassel, Wilhelmshoehe, Jena, Munich, Suisse saxonne, Brocken etc.,
+
+- Ils s'y trouvent les noms suivants: Comte Alex. Sievers, Antoinette Bohme,
+- 4 color a la main. Emboitage dor. de l'epoque.
+- Carl Caspari,C. Buchheister, Michel Meylert,F. W. Rodowe, Dr. med. et chir. J. Brunner, Dr. med. Hoff bauer, Dr. J. H. Pabst, Jac. Pinhas (ici se trouve une dedicace avec le nom et titre du proprietaire etc.).
+- lignes, in-4. Cadres de verre en couleurs.
+- 37 Watzdorf, Heinrich August von, gentilhomme saxon, p. a. s. 2 quittances pour son frere. Wurtzbourg le 2 et 8 nov. 1816, 8 et 7
+
+Sur papier avec filigranes: 1.L'aigle a deux tetes et l'inscript. ,Gott erhalte den deutschen Kaiser.2. Portrait de l'empereur Francois I designe:
+
+,Franz Il. Deutschlands Befreier"
+
+## I1. Livres, Suites de costumes.
+
+- 38 Abrantes, Duchesse de, memoires ou souvenirs histor. sur Napoleon,
+- 18 tom. en 9 vol. Paris 1831—35. D.bas., bel exemplaire. Memoires anecdotiques des plus interessants et tres complets sur Napoleon.
+- la revolution, le directoire, le consulat, l'empire et la restauration.
+- Ed.originale recherchee et tres rare.
+- (or 23?): The Antigallican Monitor and Anti-Corsican Chronicle.) A weekly paper No.1 to 1o1. London, Jan. 27, 1811 to Dec. 27,
+- 39 The Antigallican Monitor. (Published by L. Goldsmith, from No. 24
+1812. Relie en 2 vols. d.-veau. In-fol. Avec l'ex-libris de Wm. Rogers. Une des plus rares et plus importantes revues de l'epoque Napoleonienne. Dans le British Museum ne s'en trouve que le Prospectus. No.23 du 3o Juin
+
+L'ancien proprietaire a ajoute une table de matieres ms.
+
+- 181I manque.
+- 40 1'Armee Roy. Saxon., 181o15. Suite de 1o f. de costumes, grav.
+- Ces ff. rares forment les No. XI a XX d’une plus grande suite et renferment
+- 41 l'Armee francaise representee en 18 feuilles. A Prague chez Francolor. a la main. J.Berka sc. D.-veau.
+- et color., a peu pres 4o fig. pet. in-8, design. ms. toutes les troupes sauf la cavalerie:
+- cois Zimmer, marchand des beaux-arts. Titre grave et 18 planch. In-4. Vers 18o9. D'une rarete hors ligne. Voir le catalogue des principales suites de costumes ou se trouve la notice suivante: ,cette collection ... donne des details fort interessants sur la tenue des troupes francaises vers 18o9. Il n'en existe d'exemplaire complet (a notre connaissance du moins) ni a la Bibliotheque nat., ni a la Bibl. des Beaux-Arts, ni dans les principales collections de Paris. Bel exemplaire grand de marges.—Voir l'illustration.
+
+Goedeke VIl, 824, 31. Le premier tirage de cette piece fugitive tres rare.
+
+- 42 Arndt, Ernst Moritz, an die Preussen. In-fol. S.l. n,d.(Konigsberg[]1813.)4p.
+
+par laquelle le poete allemand s'adresse a ses compatriotes les provoquant contre Napoleon.
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 43 Arndt, Ernst Moritz, Geist der Zeit.4vols. (I. II. 2.éd. III. IV. 1.éd.) (Altona),Londres et Berlin 18o7—18.
+- 44 Berthier, Alex., relation de la bataille de Marengo, gagnee le 25 prairial an 8,par Napoleon Bonaparte, premier Consul, commandant en personne l'armee franc. de reserve sur les Autrichiens, aux ordres du lieut.gen.Melas. Av. un beau frontisp. dess. p. Vernet et grav. p. Pauquet, et 6 plans et vues, grav. sous la direction de Sanson.
+
+Goedeke VIl, 822, 21.Tres rare en exemplaires complets.
+
+No.41.
+
+<!-- image -->
+
+In.-4. Paris 18o6. Reliure orig. de maroquin olive, bordures de lauriers et armes de l'empereur sur les plats,dos en veau, dent inter., tr. dor. Exempl. sur papier fort de velin. 4o pp.
+
+- 45 Blatter,deutsche. Hrsg. von F. A. Brockhaus. 6vol. et Nouv. Serie.3 vol. Av.4 grav. Leipzig et Altenbourg 181316. En
+
+Ouvrage tres rare, tire a petit nombre.
+
+- 9 vol. cart de l'epoque.
+
+l'organe officiel des Allies publiee par l'editeur F. A. Brockhaus protege par
+
+- Bel exemplaire bien complet de cette interessante Revue en partie supprimee,
+le prince Schwarzenberg. Il s'y trouve (vol. I No.34)le premier tirage du Litzow's wilde Jagd', poeme de Theodor Koerner, alors des poemes p. E.M. Arndt, le Comte Stolberg, Henri von Kleist, etc.
+
+- 46 Bonaparte, Jerome. Appel du jugement du Tribunal de premiere instance de la Seine, du 15 fev.1861: Jerome Napoleon Bonaparte et Elisabeth Patterson contre le Prince Napoleon. Baltimore s. d.(1861).1 139PP.
+
+Westphalie, le 4e frere du l'empereur Napoleon.Ce prince fut marie premierement a la fille d'un marchand a Baltimore, nommee Elisabeth Patterson, mariage divorce en 18o5.Le fils de cette premiere reunion et sa mere disputent l'heritage au prince Jerome Napoleon Charles, Comte de Montfort, fils de Jerome Bonaparte et de la princesse Catherine de Wurtemberg.
+
+Tirage prive tres rare. ll s'agit du heritage de Jerome Bonaparte, roi de
+
+- 47 Chataignier, neuestes Costume der Staatsbeamten der Republik Frankreich nach dem Befehl des ersten Consuls Bonaparte — Nouveaux costumes des focntionnaires de la Republique francaise par In-4.Leip-
+- ordre du premier Consul Bonaparte. 5 gravures color. zig, Comptoir d'industrie (vers18o0). Couverture orig. Rare. Belle suite publiee par Baumgaertner d'apres les originaux.
+- 48 Code de Napoléon le Grand. In-fol. A Florence, chez Molini, Landi et Co. raire,18o9.
+- tr. dor. Exempl. en papier velin double, No.1o de 121. Edition de luxe, imprimee a la maniere de Bodoni et dediee par les editeurs a S. A. J. Elisa, princesse de Lucques et de Piombino (soeur ainee de Napoleon). De cette edition on n'a imprime que I21 exempl. signes p les éditeurs. Expl. No. 1o, sans portrait, IV, 428 pp. Les ff. du prem. cahier ont éte transportees p.le relieur.
+- Impr. a Pise, dans la typographie de la Societe litteAncien maroquin vert a longue grain,bordures a la grecque sur les plats, dos dore a compart. et corbeilles de feurs,
+- 49 (Coelln, F. v.,) neue Feuerbrande.Marginalien zu der Schrift:Vertraute Briefe iber die inneren Verhaltnisse am preuss. Hofe seit dem Tode Friedrichs II. 6 vols.(18 cahiers). Av. gravures et illustr. satiriques en partie p. C. H. G. Geissler. Amsterd. et Coelln, Peter Hammer (Leipzig, Graeff), 18o7—o8. En 6 vol. d.-veau.
+
+couvertures originales, des supplements et feuilles volantes.
+
+Exemplaire bien complet d'une revue rare et fort interessante pour l'histoire politique et sociale de la Prusse apres la mort du grand Frederic.Avec les
+
+- 50 Costumes militaires. 14 ff., gravures coloriees. Saint-Fal del., Alix sculp. In-fol. obl. Paris chez Noel, rue St. Jacques, No. 16, vers1815. En portef.
+- 1)Infanterie anglaise.2 2) Inf. écossaise.——3) Officiers generaux russes.—
+
+Suite d'une rarete hors ligne inconnue a Lipperheide, non descrite dans le ,Catalogue des princip. suites de costumes milit. frang. Contient:
+
+- 4) Les memes prussiens. 5)Autrichiens.— 6) Officiers et soldats bava-
+- 13) Garde royale de France.——I 14) Infant. et cavalerie frang.
+3. rois.—7)—polonais.——8)—hollandais.——9) Inf. suisse.—1o) Off.et soldats de l'armee ottomane.— 11) Troupes espagnols.——I2) Suedois.—
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 51 Czoesch,J. J., Europens Umwalzung durch Frankreich:1792— 1814. Tableau-synchronique presentant en couleurs et en 2 colonnes les faits arrives de 1792a 1814 en les differents pays de l'Europe.2ff. montees sur toile. In-4.Vienne 1826——27. 138X151cm. Emboitage.
+- 52 Dresden zur Zeit der franzos. Besetzung. — Dresde pendant l'occupation francaise(1813). 12 gravures coloriees de l'epoque (d'une suite de 2o). In-4obl. Sans indication du graveur.
+- 1.L'entree d'Alexandre I et de Frederic Guillaume Il. -- 2.Les Russes traversent l'Elbe pres de Blasewitz.—3. Napoleon depechant la reconstruction du pont de Neustadt.5.L'incendie causee par l'artillerie russe a Schertnitz.—6. Chasseurs russes au Grand Jardin. —7.L'artillerie russe aupres des moulins a vent.—8. Infanterie autrich.au Jardin Moschinska. Io. Forge de campagne capturee par les Cosaques devant la Porte noire.—I1.La garnison franc. retranchante les faubourgs. 13. Le manque du pain. (noir). 14. Des Francais sauves par une fille.— 17. Famine entre la garnison frang.
+- 53 Erinnerungsblatter fuir gebildete Leser aus allen Standen. Jahrgang 1813—17. Publ. p. les freres Schumann. Av. frontisp. Zwickau 1813—17.Cart.
+
+Revue tres importante pour l'histoire de cette epoque. L'un des éditeurs fut un aieul du compositeur Robert Schumann. Manque le frontisp. dans l'annee 1816.
+
+- 54Geissler, C. G.H.,Fursten und Feldherren der Freiheitskriege. Reunion de 6 gravures coloriees d'une finesse peu commune representant les portraits equestres des personnages suivants: Alexandre I., Bennigsen, Frederic Guillaume Il., Gustav Adolphe IV., Archiduc Charles, Colonel Schill. In-4.1 Leipzig, Compt. d'industrie (1813). Sous passepartout. Tres rare. Voir l'illustration.
+- 55 General-Gouvernements-Blatt fuir Sachsen. Vol.1a4(du10/22 oct.1813 au 1 juin 1815 =121 nos.). In-4. Dresde 181315. Cart.
+
+Tres rare et important. L'organe officielle des Allies. Il manque: No. 12, 23, 38, le supplement aux Nos. 33 et 104, les pp. 62425 et la gravure du No.46.
+
+- 56 Koerner, Theodor, samtliche Werke. 4 vols. Av. frontisp. Carlsruhe, im Bureau der deutschen Classiker, 182o.Cart. de l'epoque.
+- Edition contrefacon inconnue a Goedeke et Peschel. Premier tirage des ceuvres
+- completes, tres rare. Qq. taches au commencement autrement bel exempl.
+- zwolf freie deutsche Gedichte. Nebst e. Anhang. S. 1. 1813.
+
+Goedeke VIl,841,14. Premier tirage tres rare, publ. par l'ami du poete, Wilh. Kunze a Leipzig. Qq. taches.
+
+- 57 VIII, 54 Pp.
+- 58 Las Cases, Cte. de, memorial de Sainte-Helene, ou journal ou se trouve consigne, jour par jour, se qu'a dit et fait Napoleon durant dix-huit mois. 8 vols. Paris 1823.
+- 59 Las Cases, Cte. de, Denkwirdigkeiten von Sankt Helena od. Tagebuch, in welchem alles, was Napoleon in e. Zeitraum v. 18 Monaten gesprochen u. getan hat aufgezeichnet ist. 8 tom. en 4 vol. et suppl. Av. carte. Stuttg. et Dresde 1823—25. Cart. de l'epoque.
+- 60 Leipzig. —Leipziger Fama oder Jahrbuch der merkwurdigsten Weltbegebenheiten.Annee 1812 (des le 22 mai) jusqu'a 1815 incl.2 vol.cart et br.
+
+Tres rare et important pour l'histoire de la bataille de Leipzig.
+
+No.54.
+
+<!-- image -->
+
+- 61—Leipziger Tageblatt, Annees 1812 et 1813. In-4.Leipzig
+- 62 -Zeitung,Leipziger. Annee1813. Av. nombr. supplements. In-4.Leipzig 1813. Cart.
+- 1812—1813. 1 vol. d.-veau, le reste en nos. Deux annees tres rares et interessantes pour l'histoire de cette epoque, renfermantss des ordres et notifications des differents commandants. Qq. taches. 701—1096,1153—1156;1813 No.150—156,227—234,332-345etPP. 1165-68,1173-82.
+
+Vol. des plus rares, red.p. Aug. Mahlmann. Tres important pour l'hist. de
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+cette annee. 1l manque un grand nombre des supplements, les nos. 37, 48, 72,102, 110,111,151-53, 181-97, 199-221 et les Pp.453-56, 703—704,783—784,1123-1124,1203-1204,1319-1322. Qq.annonces sont enlevees en coupant.
+
+Goedeke VIl, 25, Ill. Recherche pour les notices interessantes sur Napoleon. Cahier 5 (1er du vol. IIl) manque.
+
+- 63 Leuchtkugeln. (Hrsg. v. C. Nicolai). Ein Journal in zwanglosen Heften. 4 vols.(=8 cahiers).Quedlinburg, G. Basse, 1815—16 br.n. r., couvert. jaunes orig. Rare.-
+- 64 Louise, reine dePrusse. Beschreibung, vollstandige, des traurigen Zuges der hohen Leiche I. M. der hochsel. Konigin Louise von Hohenzieritz nach Berlin und des am 27. VIl. 181o erfolgten feierlichen Einzugs in die Stadt nach d. Kgl. Schlosse. Nebst zwei darauf passenden schonen Gedichten. In-4. Berlin 181o.4 Pp. Description des obseques de la reine.
+- 65 Militaire francais vers 18o6.22 gravures color. sans indication de l'artiste et sans nom de l'editeur.(Estampes allemandes d'apres des orig. franc.) 2oX12 cm.Faisant part d'une suite.Rare.
+
+Les present. ff. renferment: Dragon-Officiers de l'Artillerie et de l'Infanterie. Chasseurs a pied. Dragonapied.— Officier des Grenadiers.— Officier des Hussards.—Officier des Grenad. de la Garde.—Off.de la Legion d'honneur.—Tambours.— Géneral.—Soldats de l'Infanterie. Trompette de 1'etat.— Garde du corps.— Chasseur a cheval.—Off. des dragons. —Off. des Hussards de Paris. Off.d'etat.Cuirassiers.— Chasseurs a pied.—Musique.—Charpentiers a cheval.
+
+- 66 Military Library or Journal, the British, comprehending a complete bodyof military knowledge; and consisting of original communications; with selections from the most approved and1 respectable foreign military publications. 2vols.With 29 plates ot military
+- 1799—1801. Veau anc.
+
+Fort interessant pour l'histoire du costume militaire anglais et etranger de cette epoque, donnant aussi des renseignements sur les campagnes de Napoléon en Italie, en Autriche eten Egypte.
+
+- 67 Moscou. —Beschreibung des Greuels und Verwistung der alten russischen Hauptstadt Moskau bey dem Einzug der franzos. und aliirten Armee,d.14.IX.1812. Welche Stadt auf Befehl des Pol.Gouvernars Rostopschin ... angezuindet wurde. In·4. S. l. 1812.
+- 8 pp. rare.
+- A la fin un peu endommage et tache,
+- Publiee par ordre de Paris 1858—69. D.rel. exemplaire de ledition rare in-4,imprimee sur beau
+- 68 Napoleon 1I., correspondance (inedite). l'empereur Napoleon III. 32 vols.In-4. veau.Bel papier fort.
+- 69
+- Arnault, Ant.-Vinc., vie politique et militaire de Napoleon. Ouvrage orne de 136 planches lithographiees d'apres les dessins originaux des premiers peintres de l'ecole francaise, executees par
+- les plus habiles artistes, et imprimees par C. Motte. 2 vols. in-fol. imper. Paris,E.Babeuf.1822—26. D.veau, dos dor. (Frs. 4o8.) Gericault, Girodet, Grenier,Raffet, Vernet etc.
+- Bel exemplaire non rogne de cet ouvrage estime orne de lithographies d'apres V.Adam,Bellange Champion, Chasselat, Colin, Courtin,Decamps, Gautherot, Le dos du Ier vol.un peu endommage.
+- 70 Napoleon I., Napoleon-Bibliothek, reunion de 2o ouvrages en 39 vols. sur Napoleon I. la plupart en langue allemande, I en espagnol, 3 en italien, 4 en francais. In-12, in-8 et in-4. 1 1796—1905. Rel. en jolies reliures specialement faites pour ce but, d.-maroq. rouge ou vert, fers speciaux, coins, dos dore au chiffre et aux emblemes de Napoleon I (aigle et abeille) tete doree autrem. n. r. (p. Zaehnsdorf). Chaque vol. avec l'exlibris de Raph. Maur. Bauer. Charmante collection, dont les reliures seules valent 4oo—5oo Frs.
+- 71 — Spottlieder.— 6 satires en langue allem. contre Napoleon, dont4 imprimees, 2 manuscrites. S. 1. n. d. (vers 1812—13) 10 pp.
+
+Contient:Beitzke, Geschichte der deutschen Freiheitskriege 1813-14. 3 vols. 1859—60.—Binder-Krieglstein,Regensburg 18o9.Berl. 1902. -Blumen,von Jena bis Neife, 18o619. Leipz. 1904.-Elogio di Napoleone Bonaparte. Bologna 1796.—A.J.F.baron Fain,Manuscrit de 1812. 2 vols. 1827.-Le meme, Ms. de 1813. 2e ed. 2vols. Paris 1825.—Lememe,Ms.de1814.P.1824.—I L.Fris Ducos, persecucion de la iglesia p.Napoleon, 1796—1813. Madr.1815.—F.v.Gentz, Tagebicher.4 vol.Leipz.1873—74.—Geschichte der Befreiungskriege: v.Holleben,Fruhjahrsfeldzug 1813. Bd. I.Friedrich, Herbstfeldzug 1813. 3Bde.——v. Janson,Feldzug 1814.2 Bde.—v.Lettow-Vorbeck,Napoleons Untergang.Bd.I=7 vols.Berlin 1903—o5.— Hartmann,Proklamationen Napoleons. 1796—1815. Oppeln 189o.—v.Helfert,Fabr.Ruffo. Wien 1882.de Jomini,Napoleons Leben. 4 vols. Tub.182829. Le Notti di San Cloud,il matrimonio dell Imperatori. Lond. 1863. 一 v.d. Osten-Sacken,Napoleon bei Bautzen. Berl. 19o5.—Ders.,Feldzug 1812. Berl.19o1.—A.Révérend,armorial du prem.Empire. 4 vols. P.1894-97.-W.Rosenthal,Furst Tallyrand. Leipz. 1905.—Storia general della famiglia Bonaparte. Firenze 1846.—A.Veltze, Oesterreichs Termorylen 18o9. Wien 1905.
+
+1.Wer so aus RuBland wandern muf. 2. Brider singt Victoria. 3. Ich bin der Schlachter Bonaparte. 4. Hort ihr Herren und laBt euch sagen. 5. Neuer Titel Napoleons. 6. Napoleno und das Echo.
+
+- 72 Nicholson, W., history of the wars occasioned by the French Revolution (in n all the parts of Europe, up to the re-establishment of Louis XVIII). Embellished with (22) elegant engravings, beautifully coloured (portraits). In-fol. Londres 1816.D.-veau.
+
+Prince d'Orange, bataille de Waterloo.
+
+Orne des gravures suivantes: allegorie de la Britannia, Alexandre I., Bonaparte,le Prince regent, Platoff, Frederic Guillaume Ill.,Blucher, Wellington, Picton,Hill, Francois II.,Duc de York,Marquis d'Anglesea,Moore, Schwarzenberg, Abercombie,Coote,Lyndoch, Bernadotte, Prince de Saxe-Cobourg,
+
+- 73 Record, an illustrated,of important events in the annals of Europe during the years 1812, 1813,1814 a.1815, comprising a series of
+- Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+views of Paris, Moscow,the Kremlin, Dresden,Berlin, the battles of Leipsic, etc. etc. etc. Together with a history of those momentous transactions. With the supplement, Campaign of Waterloo.With 29 plates. Folio. London 1815—16. Half brown morocco,top and edges gilt, beautiful copy.
+
+- 74 Retablissement de la religion catholique. Tableau in-fol. avec le buste de Bonaparte (Bonneville del. sculp.) comme en-tete.Contient le ,discours prononce par le cardinal Caprara, legat du Saint-Siege, au premier r Consul Bonaparte" et la ,Proclamation" meme. Paris, Bonneville（18o2). Rare.Qq. taches.
+
+Les 29 charmantes gravures coloriees (des aquatintes) renferment: 1.Moskow. 2.A Map exhibiting the Retreat of the French Armyf from Moskow to Paris. 3. Precipitate flight of the French through Leipsic pursued by the Allied Armies. 4. Grand Entry of the Allied Sovereigns into Leipsic. 5.Grand Entry of the Allied Sovereigns into Paris. 6. Facsimiles. 7. The Kremlin,Moskow.8. Smolensko.9.Dantzic.1o. Berlin.11. Hamburgh. 12. View at the Hague.13.Frankfort.14.Dresden.15. Amsterdam. 16. Rosiere.17. Entrance into Hanau over the Kinzig bridge. 18.Ceremony of the Te Deum by the Allied Armies on the Square of Louis XV. at Paris.19.Leipsic. 20.View of the Grimma Suburb,Leipsic. 21.Map of the Island of Elba, Portrait of Napoleon, View of Porto Ferrajo. 22. Portraits of the Allied Sovereigns and their generals. 23. Les Quatre Bras. La Belle Alliance. 24. A plan of the glorious battle of Waterloo. 25. Hougomont. La Haye Sainte.26. The battle of Waterloo.27. Waterloo.28. Portraits of the british and their Allies. 29. The Royal Family of France. The Family of Buonaparte. French Generals, Statesmen, etc.
+
+- 75 Rose, J. H., the life of Napoleon I. including some new materials from the British official records. Avec cartes et illustr.2 vol. Lond.1903. Exemplaire unique augmente par linsertion de 1325 d'autres illustrations, dessins orig, portraits, caricatures color., vues, estampes historiques, gravures, bois, etc. anciens et modernes. Le texte et les illustrations, ou necessaire, bordes de grandes marges en papier fort,le tout formant neuf volumes gr. in-fol. D. maroq. vert, coins, tete doree.
+
+Collection unique et d'une valeur presque inestimable qui a pris des annees areunir. La grande quantite d'illustr. renferme: Napoleon et ses generaux, grande aquarelle originale; la bataille a pelotes de neige a Brienne, aquarelle orig.;lEcole militaire,F Paris 18o3 gravure; Chateau de Versailles, grav.en couleurs; Mirabeau, mezzotinte; l'attaque des Tuileries par Monnet 1792; execution de Louis XVIl. p. Monnet; Mme. Roland, mezzotinte; vues de Toulon, aquatinte, 1794, rare; bataille de Lodi p. Cruikshank et nombr. gravures de la meme serie; Napoleon,portr. equestre p. Simon d'apres Vernet; Bonaparte a St. Cloud p. Monnet; Porto Ferrayo, Elba, serie de 4 aquatintes color. p. Jukes d'apres les dessins du Capt. J. Weir, Sir D. Dundas, mezzotinte p. Reynolds; Chateau de Malmaison, grande aquatinte color.; Wm. Pitt p. Gillray; Blucher, mezzotinte; vues de Gibraltar, p. W. H. Toms, serie de grandes Morghan et nombr. autres portr. de l'empereur; un grand nombre d'estampes sur la bataille de Waterloo;la reine Hortense d'apres Girodet; serie de vues de St. Helene, des portraits rare du Duc de Reichstadt; plus que So caricatures angl. et frang. etc. etc.
+- 76 Sauerweid, A., l'armee Saxonne representee en 3o feuilles, dessinee par Sauerweid, gravee par Gronicher, coloriee par Botticher. In-fol.
+- Dresde(1810). D.-toile.
+
+Une excellente reproduction moderne en 3o dessins magnifiquement colories d'apres l'edition originale presque introuvable aujourd'hui.
+
+- cont. minute details of the battles of Quatre-Bras, Ligny, Wawre and Waterloo.2eéd. 2vols. Av, portr. en medaillon gr. s. acier, et atlas de 2 cartes, 9 plans (montes s. toile), 1 carte supplementaire et 9 gravures finement coloriees  (vues de Quatre-Bras,Belle Alliance, Waterloo,Genappe etc.). In-fol.Lond.1844. D.-veau.
+- 77 Siborne, W., history or the war in France and Belgium in 1815,
+
+L'un des exemplaires rares avec les 9 gravures supplem. representant les champs de bataille pres Waterloo.
+
+- 78 Sporschil, J., die grosse Chronik. Geschichte des Krieges des verbindeten Europa gegen Napoleon Bonaparte 181315.4 éd. 3 tom. en 5 vol. av. 1 vol. de supplement et table de matieres alphabet.ensemble 7 vols. Av. nombr. portr., vues, plans, cartes, etc.Gr.in-8. Braunschweig 1842—43. 6 vol. d.-veau, la table en toile.
+- 79 Strahlheim,E.,Geschichte unserer Zeit oder Uebersicht der merkde supplement et 13 cahiers extraordinaires. Av.nombr.portraits et autresi illustr.lith. In-12. Stuttg.1826—31.
+- wirdigsten Ereignisse von 1789—183o.3o vols. avec 7 cahiers En 35 vols. d.veau, bel exemplaire, bien complet renfermant tout ce qui a paru.
+- 80 Tableaux historiques de la Revolution francaise. Collection complete, composee de 113 numeros en 3 vols. (Texte p.l'abbe Fauchet, Champfort, Ginguene et Pages.) Av. 3 frontisp. et 153 planches. Paris, chez Auber, impr. p. Didot aine et termine par Charles. Am XIII de la Rep.franc.18o4. 一 Tableaux historiques des Campagnes d'Italie depuis l'an IV jusqu'a la bataille de Marengo, suivis du precis des operations de l'Armee d'Orient, des details sur les ceremonies du Sacre, des bulletins officiels de la Grande Armee d'Allemagne jusqu'a la paix de Presbourg. (Texte p.P. A.M. Miger.) Av. vign. et 3o planches. Paris, chez Auber, 18o6. Ensemble 4 vols. gr. in-fol. Av. nombr. planch., portraits etc.1 D.maroqu.bleu, dos dore, emblemes napoleoniens. Grand papier velin, presque non rogne.
+- 81 Venturini,C.,Russlands und Deutschlands Befreiungskriege 1812 del., Zschoch sc.) et 3 cartes. Leipzig 1816—19. Cart.
+
+Tres bel exemplaire de la plus complete édition des Tableaux histor. avec les Campagnes d'Italie tous les deux sur papier velin uniformement relies.
+
+Ouvrage interessant par les costumes militaires, on y renarque des Cosaques, des cuirassiers russes, des troupes frang., suedoises, saxonnes,wurtembergeoises, autrichiennes etc. etc.
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente 1.
+- De dato Bres-
+
+Reglement pour l'organisation de la Landwehr (premiere reserve).
+
+- 82 Verordnung iber die Organisation der Landwehr. lau, den 17.Marz 1813. Tres rare.
+- 83 Verordnung iber den Landsturm. Gegeben Breslau, den 21. April 1813. In-fol. Berlin, G. Decker (1813). 8 Pp. Tres rare. Aq. taches.
+- 84 Warden, W., lettres écrites a bord du vaisseau de S. M. le ,Northumberland" et a l'isle Sainte-Helene,dans lesquelles la conduite et la conversation de Napoleon Buonaparte et de sa suite pendant le voyage et les premiers mois de sa residence dans cette isle sont fdelement decrites et rapportees par W. Warden, chirurgien a bord du Northumberland. Manuscrit in-4 de 2o6 pages d'une ecriture du commencement du 19e siecle, demi-rel. bas. violette.
+
+Reglement pour lorganisation du Landsturm (levee en masse des hommes).
+
+Tres interessant. On a joint a ce ms., qui est de 2 differ. écritures, un portrait de Napoleon, dessine a la mine de plomb, d'apres un tableau du chateau des Tuileries, et un facsimile calque d'autographes. Taches de moisissure.
+
+- 85 Westall, R., victories of the Duke of Wellington, from drawings by R. W. Avec 12 planches color. d'apres les dessins de Westall grav. p. T. Fielding. In-4. Londres 1819. D.maroq.
+
+## III. Portraits, estampes historiques,affiches.
+
+- 86 Abukir.— Representation of the defeat of a squadron of French ships under the command of Admiral Brueys, by a squadron of English ships under the command of Admiral Nelson of () BayAbukyr on the 1 August 1798. Aquatinte, coloriee. Londres, S. Tessari &amp; Fr.Weber, 1798. 39X56 cm. Sans marges. Encadre. Rare.
+- 88 Die Befreier Europas. Den verbindeten Volkern gewidmet. Alexandre I, Frederic Guillaume IHI et Frangois I sur un char triomphal, au fond temple de la Concorde. F. G. Weitsch del., D. Berger sc. Berl. 1815. 49X68 cm. Encadre, qq. dechirures racommodees.
+- 87 Amiens.—Der allgemeine Frieden durch Gleichgewicht der Tapferkeit. Marz 18o2.Tableau allegorique de la paix d'Amiens, mars 18o2. Piedestal a la tete de Janus av. la paix et la fortune et 6 portr. en medaillon: Francois I, Napoleon, Massena, Wellington, Sydney Smith, Suwarow. Aquatinte teintee, L. Wolff inv. et del., D.Berger fec. Berl. 1802. 391/X251/cm. Encadre.
+
+Designation en allemand et en russe.
+- 89 Berezina. Passage de l'armee francaise sur la Berezina l'annee 1812.Peint p. P.Hess,lith.Dupressoir. Av. design. en russe. Karlsruhe, Velten,vers 183o.45X7o cm. Sur Chine.
+- 90 —meme sujet, lithogr. p. C. W. Faber du Faur, vers 184o. 46X75 cm. Cadre dore.
+- 91 Berlin.La residence Berlin du Tempelhoferberg. Peinte d'apres la nature et grav. p. J. F. Hennig. Jolie grav. color. du commencem.
+
+No.92.
+
+<!-- image -->
+
+Piece principale du celebre peintre de l'expedition en Russie, Faber du Faur fut Colonel de l'artillerie wurtembergeois sous Ney pendant la campagne en Russie.
+
+- du 19. siecle. 21/eX32 cm. Encadre.
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 92 Blucher, Prince de Wahlstadt, feldmarechal prussien, 1742—1819,
+
+Tres beau portrait, tete forte comme nature.
+
+- portrait equestre, av. manteau, lepee dans la main abaissee, dans paysage. Peinture originale a l'huile signee G.F. Steinmiller perfec. Pr. Lieuten. K. H. Garde Grenadier Regt. Cassei. vers 182o. 81X681, cm. Anc. cadre dore.
+
+G.F. Steinmiller, capitaine dans l'armee de la Hesse electorale a publie en 1827 une suite de costumes militaires de ce pays.— Voir l'illustration.
+
+No.93.
+
+<!-- image -->
+
+- 93 Borodino. Schanzensturm von Borodino. Les deux regiments saxons garde du Corps et Cuirassiers de Zastrow prennent d'assaut le retranchement russe a Borodino.Peinture orig.a lhuile sur toile de L. A. Schuster, travail preparatoire pour son grand tableau du meme sujet (188X285 cm) conserve dans la Galerie de Dresde.
+- 51X84 cm. Beau cadre dore.
+
+Ludwig Albrecht Schuster, ne a Bertholsdorf pres Stolpen en 1824, fut l'eleve de Julius Hubner de l'Academie le Dresde,alors il étudia aVersailles et Munich avant de s'etablir definitivement a Dresde en 1852, ou il mourut en
+
+Magnifique tableau de la melee de bataille. 1905.—Voir l'illustration.
+
+- 94 4— le meme sujet. gravure coloriee, sans nom d'artiste, vers 183o. 381/X49 cm. Encadre.
+- Bataille de Borodino (Moscowa) 7.sept. 1812. Peint p. P. Hess lith. p. Victor. Carlsruhe, chez J. Velten, vers 1830. Cadre dore. Tache.Rare.
+- 95 Borotino. 44X71cm.
+- 96 Charles Louis,archiduc d'Autriche, 17711847, a mi-genoux, J. B. Seele p. F. Wrenk sc. superbe portrait a la maniere noire. Vers 1810.501X39/ cm. Encadre. Qq. petites dechirures.
+- Raccomod., sans marges.
+- 97 Champ de bataille (la vie d'un soldat). Jazet. Paris, Bulla et Delarue, vers 184o. 54X641/ecm.Encadre.
+- Peint p. Bellange, gr. p.
+- 98 Culm.— Capture du general Vandamme dans la bataille de Culm le16.Sept.1813. Aquatinte color. dess. et gr. p. J. L. Rugendas. Encadre.
+- 99 Dresde.— Mort du general Melissino (Millesinow) le 26. d'aout 1813 devant Dresde. Dess. p. F. Mathai gr. a l'eau forte p. feu M. Ch. Godefroi Schulze acheve de graver p. E. G. Kriger, vers 1820. 42/eX6o1/cm.Encadre.
+- Augsb.vers 182o. 3811eX55cm.
+
+Belle gravure avec blason et inscription en russe et francais. Qq. taches sur les marges, autrement bel épreuve de cette rare piece.
+
+- 100 Extra-Blatt (supplement extraordinaire) des Deutschen Blatter publiees par Brockhaus a Leipzig, avec des nouvelles sur les evenements du 16. oct. et les negociations de paix du 17. oct. Altenbourg mardi le 19. oct. 1813. 29X15 cm. Encadre.
+- 101 Eylau.—Le general Lestok (A.W.v.L'Estocq) dans la bataille d'Eylau, le 7. et 8. fev.18o7.Gravure color. de lepoque. Jean Haas del. et sc.1 15X22 cm.Encadre.
+- 102 Francois I.,1'empereur d'Autriche, 1768—1835, buste dans un gr. p. J. Fischer. Vienne 1798. 431eX431/e cm. Encadre.
+- 103 Frederic le Grand renumerant la bravoure de ses petits fils.Dedie aux braves Prussiens p.F. Juigel.Grand tableau allegorique Gaede del. Jugel sc.vers 1815. 47X651 cm. Encadre.U Un peu tache.
+- medaillon comme empereur romain av. designat. en latin, dess. et Voir Nagler IV,p.349.
+- 104 Frederic Guillaume Ill., roi de Prusse, 177o—184o, buste en uniforme,manteau de sacre, ruban et etoile de laigle noir. Peinture orig.a 1huile,vers 1825. 2oX.15 cm.1 Encadre. Voir l'illustration.
+- 105 — buste en uniforme a droite, en-bas la bataille d'Ulm. Grav. color.L. Wolf del., Krethlow sc. Berlin vers 1820. 32X1811cm. Encadre. Un peu tache.
+- 106 dess.le 17. mars 1845. 5oX41 cm. Encadre.
+- Heil dem Konige, Friede dem Vaterlande. Curieux tableau en calligraphie, avec portrait, la couronne, l'aigle et nombr. decorations en partie en couleurs et en ov. Dessin a lavis original sign.F. Muller
+- 107
+- — le meme et la reine Louise, en-bas une sentence de tous les deux sur l'etat deplorable de leur pays. Deux portraits, buste dans
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+un ovale, dess. sur marbre p. Franz Leopold et Gottfried Niedlich, professeur roy. des beaux-arts, linscription p. Fr. Marquard.Reproduit et édite p.Wilh.Reuter, Berlin 18o7—o8.21X181/,cm.
+
+Cadres de l'epoque.
+
+Pieces des plus rares et peu connues executees par un proces curieux connu comme ,polyautographie". Portraits d'une conception tres artistique.
+
+No.104.
+
+<!-- image -->
+
+108 Frederic Guillaume Ill., le meme et la reine Louise, les memes, deux gravures populaires sur bois p. Janatius Zurngibl, imprimeur, Cadres imprimees en couleurs. Berlin vers 1797. 36X29 cm. de l'epoque.
+
+Tres rare, portraits equestres publies probablement a l'occasion de la succession au trone, malgre l'execution simple des portraits parlants et decoratifs.
+- 109 Frederic Guillaume IV., comme prince royal de Prusse, Kirchhof del., L. Haas sc., grav. color. Berl., Levy, vers 183o. 36 X29 cm. Encadre.
+
+Tres jolie miniature. Un peu raclee et efacee sur la marge, autrement tres bien conservee.
+
+- 110 Frederic Guillaume, duc de Brunswick, 17711815, buste a gauche en uniforme av. le bonnet. Miniature orig. sur bois, ovale, vers1810.6X41cm. Cadre de l'epoque.
+- 111 —lembarquement du duc de Brunswick-Oels le 7 aout 18o9 a Bracke et Elsfleth sur Weser pour l'Angleterre. Grav. color. Jean Meno Haas inv. et fec. Berolini 181o. 23leX32/, cin. Encadre. Tres rare.
+- 113 —la mort du duc de Brunswick a Genappes dans la bataille de trois jours de Fleurus, Waterloo et Belle Alliance. Dess. et grav. p.G. A. Lehmann. Grav. finement color., au fond attaque de cavalerie. (Berlin 1815.) 24X311/ cm. Encadre.—Voir l'illustration.
+- 112 — le duc de Brunswick-Oels entoure de ses officiers donnant le mot d'ordre. Grav.color.vers 181o.3 321/2X25cm. Cadre de lépoque. Rare.
+
+No.113.
+
+<!-- image -->
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 114 Garde francais, grenadier a cheval. Lith. color. (p. Trentsensky). Vienne chez Brickmann,vers 183o. 3311X30cm. Encadre.
+- 115 (Geissler, C. G. H.), Nations diverses: 2 officiers de la Garde Grenadier a cheval avec ecureuil et 2 101/2X141/2cm.
+
+Un veritable Geissler, tres rare, du Almanach de guerre de 18o9.
+
+- polonaise, Mameluk， cuirassiers franz. Gravure color. p. Geissler. Cadre dore.
+- 116 Grossbeeren. — Scene de la bataille de Grossbeeren (23 aout 1813). Attaque de village par la Landwehr (premiere reserve) pomeranienne au soir. Peinture orig. a l'huile. 40X50cm. Cadre dore.
+- 117 Hofer, commandant tyrolien. J. Haas del. et sc. 18o9. Figure entiere,color. Representation un peu romantique. 29X19 cm. Cadre brun fonce. Rare.
+- 118 Hohenlinden. Bataille de Hohenlinden commandee par le General Moreau en personne, le 2 dec. 18oo (le 12 Frimaire au IX). Belle aquatinte color. p. J. L. Rugendas a Augsbourg v. Steinlen Encadre.
+- 119 Hussard saxon a pied. Aquatinte color. p. Serbe. (Vers 18oo.)
+- sc. 39'/X55 cm.
+- 25X2o cm.Encadre.Rare.
+- 120 Jena. Scene pendant la bataille de Jena le 14 oct. 18o6. Vue d'une rue, au fond maison incendee, les habitants tachent de sauver leur propriete. Aquarelle orig. signee Fr. Miller Jena (vers 181o).
+- 29X39 cm. Cadre de 1'époque.
+- 121 Jerome Napoleon, roi de Westphalie, Contre Amiral de l'Empire Francais. Dess. p. J. B. Bosio, anc. prof. de l'Ecole Polyt. de Paris, grave p. Louis Rados de Parme. Gr.-in-fol. Milan 181o. Superbe portrait, figure entiere debout, en uniforme, au fond vue de Cassel.
+- 122 Joseph Napoleon, Roi des Espagnes et des Indes. Dess. p. J. B. Bosio anc. prof. de l'Ecole Polyt. de Paris, grave a Milan p. Lovis Beau portrait,
+- Rados de Parme 181o. Gr.-in-fol.Milan 1810. figure entiere, debout, au fond vue de Madrid.
+- 123 Josephine, Imperatrice des Francais, reine d'Italie. Dess. p. J. B. Bosio anc. prof. de l'Ecole Polyt. de Paris, grave a Milan p. D. Cavalli. Gr.-in-fol.Milan 18o9. Superbe portr., figure entiere
+- debout, au fond paysage.
+- 124 — Grand Habit de Sa Majeste l'Imperatrice, le jour du Couronnement. Dess. p. Isabey, grav. p. Pauquet, coloris de 1'époque. 25 X 2o cm.
+- Cadre brun.
+- 125 Koerner, Carl Theodor, le celebre poete allemand, 1791—1813 buste en uniforme du corps de Litzow, Miniature originale p. Emma
+- Koerner. 9X61/, cm. Cadre en style de l'epoque.
+- Piece magnifque peinte par la soeur du poete Emma, probablement d'apres le pastel du poete fait par elle-meme en son vivant (maintenant au KoernerMuseum a Dresde). Provenant de la succession du frere adopte de Koerner
+- le Capitaine Gottfried Carl Ullrich.- Voir l'illustration.
+- 126 Koerner, Carl Theodor, le celebre poete allemand, 1791—1813, buste en uniforme. Emma Koerner p. F. Muiller sc. Grav. color. 18X14'/e cm. Cadre dore.
+- 127 cinq portraits.
+
+Belle épreuve, grande de marges.
+
+- 一 1.Buste, E. Koerner del. L.Buchhorn sc. 11 X81/ cm. Rare.—2.Buste en uniforme.Grav. col. d'apres E. Koerner. 61/X51/2 cm Encadre.— 3.Sur son lit de mort dess. p. Olivier le 26. Vill. 18i3. Buste. Lith. teintee. 19 X 14/2 cm.- 4. La mort de K. le 26 aout i813. Grav. anonyme. 81/X 14%/4 cm. Encadre. — 5. Medaillon au photographie de K. 26X20mm.
+- 128 —6 representations concernant Koerner et la vigne de sa famille
+- a Dresde.
+- 1.La tombe a Woebbelin. Grav.anonyme color.91/2X17 cm.Encadre. —2. Billet de participation a la procession de Ludwigslust a Woebbelin Av. 3 represent. en lithogr.—3. La vigne a Loschwitz.Faber p., J. G. A. Frenzel sc. 7X 1o cm. Encadre. —4. Pavillon sur la vigne, p. les memes. 7X 1o cm. Encadre. —5. Vue de la vigne vers Dresde, p. les memes. 7X10cm. Encadre.—6. Vue de la vigne vers Blasewitz p. les memes. 7X10 cm.Encadre.
+- 6112X3112cm. Cadre ovale.
+- 129 —silhouette originale, buste a droite, designe Th. Korner. Vers 1812.
+- 130  silhouette lavee, buste a droite. Vers 182o. 4oX2o mm.
+
+No.125.
+
+<!-- image -->
+
+Belle piece, Koerner comme étudiant a Leipzig.
+
+- Cadre ovale.
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 131 Koerner, Carl Theodor, le celebre poete allemand, 1791—1813, das Heldengrab (la tombe du heros). Un acrostiche dedie, a l'emper. Frangois I. écrit et des. p. F. W. Lehmann, gr. p. J. B. Seitz. Munich vers 1825. 77X53 cm. Encadre. Un peu tache. Les lettres initiales des 14 lignes sont celles du nom Theodor Koerner.
+
+Excellente copie d'apres la charmante miniature de l'actrice agee de 22 ans.
+
+- 132 — Adamberger, Antonie, actrice a Vienne, 179o—1867, la fancee de Theodor Koerner, plus tard Mme Arneth, grav. color. d'apres la miniature de Monsorno conservee au Koernermuseum a Dresde. 8o X 6o mm. Cadre ovale.
+
+En partie rehaussee de vernis.
+
+No.136.
+
+<!-- image -->
+
+- 133 Grosszschocher, la maison de Koerner, c'est-a-dire lhabitation du jardinier de la terre de Grofzschocher pres Leipzig, dans laquelle Th.Koerner fut soigne apres sa blessure recue a Kitzen par le jardinier J. F. Hauser. Aquarelle orig. a la plume vers 1850. 9X1312cm.
+- 134— Fevr., (Leipzig) 1887. In-8-obl.
+- 135 Koerner, Chr. Gottfr., conseiller a la cour d'appel a Dresde, pere de Theodor Koerner, 1756—1831. Buste, Ant. Graff p.L. Sich-
+- ling sc. 14X81/2 cm. Encadre. Ajoute piece autogr. signee.
+136 Koerner, Chr. Gottfr., conseiller a la cour d'appel a Dresde, pere de Theodor Koerner,1756—1831,le meme et son epouse Maria Koerner,la mere du poete, l'amie de Schiller et de Goethe pres. Deux miniatures probablement p. Dora Stock, dansun ovale. 8o X6o mm, vers 18oo. En deux cadres, style l'epoque.
+
+Pieces magnifiques, charmantes miniatures sans doute par la miniaturiste Dora Stock,la sceur de la mere Koerner.
+
+Deux pendants. Du portrait du pere se trouve une copie au Koerner Museum a Dresde; tandis que le portrait de la mere est unique et fut inconnu jusqu'ici.
+
+Provenant de la succession de la frere adopte du poete le feu capitaine G. C. Ullrich. L'authenticite confrmee par les heritiers.——Voir 2 l'illustrations.
+
+No.I30a.
+
+<!-- image -->
+
+- 137 Koerner, Maria (aussi Minna)1 nee Stock, épouse de Chr. G. Koerner, la mere du Theodor. Miniature orig. sur ivoire, agee de 72 ans, buste dans un ovale. 6oX45 mm. Cadre ovale.
+
+Charmante miniature, probabiement lunique portrait existant de la derniere decade du mere Koerner, vraisemblablement peint par un parent de la famille. De la succession du capitaine Ullrich. Voir l'illustration.
+
+- 138 Koerner, Emma, soeur unique de Theodor, 1788—1815.1 Miniature orig., buste, d'apres le portrait p. Dora Stock conserve dans le Koerner Museum a Dresde. 125X1o5 mm. Dans un ovale. Encadre.
+
+Charmant et vivant portrait de la soeur agee de 2o ans.
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 139 Koerner,Emma, soeur unique de Theodor, 1788—1815, pastel, probablement p. Dora Stock, vers 18oo. 91/X6 cm. Cadre style de l'epoque.
+
+conserve dans le Koerner-Museum. Provenant de la succession du Cap. Ullrich.
+
+Joli portrait artistique,resemblant fortement le pastel d'Emma p. Dora Stock
+
+- 140 Kirassiere, franzosische. — Cuirassiers francais du 6e regiment en reconnaissance dans un village tyrolien 18o9. Peinture a l'huile, vers1820. Encadre. Jolie piece.
+- 141 Leipzig.— -Ansicht eines Theiles der englischen Anlagen bey Leipzig. —— Partie des promenades de Leipzig. Dess. p. Junge, aquatinte p. Haldenwang. Leipzig, chez Karl Tauchnitz, vers 1810. 371lX 4912 cm. Encadre.
+- —Vues du marche de Leipzig, 2 pendants, calques en encre et aquarelle d'apres des gravures de 1'epoque, vers 177o. 12 X 18 cm. Encadre.
+- 142
+- —Vue de la forteresse Pleissenburg et de l'observatoire a Leipzig. Dess. d'apres la nature et grav. p. C. Taubert vers 18oo. 33 X 461/, cm.
+- 143 Encadre.
+
+No.137.
+
+<!-- image -->
+
+Magnifique gravure coloriee tres decorative.
+
+- Resume des decrets de la chancellerie d'etat concernant le 144 systeme continental en 1I articles. Berlin le 21n0v.18o6（en langue allemande) Signe (dans la presse) p. Napoleon, H. B. Maret, secretaire d'etat, le marechal Berthier et le commandant Rene. 47X38 cm. Encadre.
+- 145 Leipzig. — La bataille de Leipzig (la mort du Colonel Krosegk). L'infanterie prussienne attaquant un carre de la garde imper., au fond le village de Wachau incendie et la ville de Leipzig. Paris, Durand et Sauve, vers 1814. 441/eX571le cm. Belle épreuve avant la lettre. Cadre dore. Un peu tache dans les marges.
+- 146 — Die Blauemitze bey Leipzig. G.Geissler del. et fec.Aquatinte color.vers18oo.16X24cm. Encadre. Tres curieux et fort rare. Le jardin de Jaeger nomme,Blaue Mutze"(bonnet bleu) etait un des plus favoris lieux de divertissement des habitants de Leipzig de l'autrefois. Ou y remarque beaucoup de monde probablement des personnages bien connus a ce temps la. Voir l'illustration.
+- 147 —Denkmal des 18. Oct. 1813 auf die ewig denkwirdige Schlacht bei Leipzig.—1 Monument du 18 Okt. 1813,commemoratif de la bataille de Leipzig. Dedie aux MM. C. de Schwarzenberg, Barcley de Tolli. G.L. Blucher, et C. P. Wrede p.L. de Kleist (signature autogr.). Aquatinte color. G.Opitz del. et sc.vers 1816. 53 X 671l cm. Encadre.
+
+No.146.
+
+<!-- image -->
+
+Georg Emmanuel Opitz ne a Prague en 1775 fut l'eleve de Casanova a Dresde.Il mourut a Leipzig en 1841.
+
+Projet d'un monument commemoratif de la bataille des nations. Belle et interessante gravure, fort rare.
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 148 Leipzig. — Feierlicher Einzug Konig Antons von Sachsen. —Entree du roi Anton de Saxe a Leipzig le 23 Okt. 1827. Grav. color. p. C.G.H.Geissler 1827.26X43cm. Sans marges, monte et encadre.
+
+Belle piece; une multitude de personnes regardent sur la place devant la porte de Grimma et sur les toits des maisons voisines l'entree du roi.
+
+- 149
+- — L'Esplanade devant la Porte de St. Pierre (Peterstor). Aquatinte, Thormeyer del., Aubertin sc. Leipzig, Georg Voss, 18o4. 351/2X 54 cm. Encadre.
+- 150 —Die ersten Franzosen in Leipzig. Les premiers Francais a Leipzig (0ct. 18o6). Gravure color. p. C. G. H. Geissler. Vers. 1810.1 19112X291j2cm. Sans marges, monte et encadre.
+
+Caricature en couleurs, les Francais en entrant portent du pain et de la viande sur les points de leurs baionettes.
+
+- 151 —le meme sujet, deux groupes de soldats vendant leur butin, gravure color. p.C. G.H. Geissler, vers 181o. 191/eX30cm. Sans marges, monte et encadre.
+- 153 —Das Grimmaische Thor. Gravure color. Interessante pour 1'histoire du costume par les differ. groupes de citoyens qu'on remarque devant la porte. Vers 179o. 16X25 cm. Remonte et encadre.
+- 152 — Das Gothische Portal im Park (Vue de la ville No. 2). Aquatinte. Leipzig, chez Georg Voss, vers 18oo. Rare. Encadre. 36X51 cm.
+- 154 — Plan de la ville de Leipzig apres la division en quatre arrondissements avec indication des numeros et des diff. cours de justice. Gravure coloriee. Avec plus que Ioo lignes de texte explicatif. Leipzig, chez les herit. de Schreiber. 33X47 cm. Encadre.
+
+Fort rare. Imprime pour les soldats russes loges a Leipzig.
+
+- 155 — Autel domestique en forme d'une gravure color., Dieu, le Christ et la Ste. Vierge, en haut l'enbleme du St. Esprit, av. designation et textes en russe. Leipzig, Comptoir d'industrie (Baumgartner). Vers 1813. 31X20cm.1 Encadre.
+- 156 ——Leipzig et les champs de bataille vus du clocher de la Nicolaikirche avec texte explicatif. Gravure color. de lepoque. Dess. p. Arrigoni a Vienne, gr. p. O. J. Wagner a Leipzig. 35X3 11/, cm. Encadre.
+
+On a ajoute sous le meme cadre deux nos. de la Leipziger Zeitung du 21
+
+et 22 Oct.1813.
+
+- 158 —Panorama de la derniere action de la grande bataille de Leipzig le 19.d'0ctobre 1813. Grav.color. Dess. d'apres la nature et grav. a l'eau forte p. C. G. H. Geissler. Leipz.1838.5oX98cm. Grande piece, tres interessante et fort rare. La plus importante de toutes les
+- 157 —Leipzig vers l'occident. Aquatinte color. anonyme. Vers 18oo. 19X27cm. Encadre.
+platz. Le coloris un peu leger, autrement tres belle epreuve. Sous passe-
+
+- 159 Leipzig.— Plan de Leipzig avec indication de la fuite de Napoleon Leipz. Comptoir d'industrie,
+
+partout. Geissler etait temoin oculaire de cette derniere action.
+
+- a travers la ville. Gravure coloriee. vers1814.3 34X32 cm.Encadre.
+- allied armies, 19.0ct.1813. Copie de la gravure precedente. Aquatinte color. London,Bowyer 1815. 28X521/2cm. Encadre.
+- 160 — Precipitate flight of the French through Leipzic pursued by the
+- 161 —Der Rossplatz (marche aux chevaux) vers 18oo. Gravure coloriee p. C. G. H. Geissler. Leipz. vers 18oo. 47X72 cm. Encadre.
+- meme sujet, dessin a la plume d'apres une gravure de Geissler
+
+Superbe gravure interessante pour le costume. Sans marges, remontée.
+
+- 163 —La bataille de Leipzig (Schwarzenberg annoncant la victoire aux souverains allies). Av. designation en allemand et en latin. Hochle del., Wolf lith. Vienne, Inst. lith., vers 1835. 35X47 cm. Encadre.
+- 162 p.R. Heinmann (Leipzig) 1896. 33X51 cm. Encadre.
+- 164
+- 165 maire. Vers18o0. Encadre.
+- 4 —le meme sujet. Peint p. P. Krafft a Vienne, grav. p. J. Scott a Londres, impr. p. Dixon a Londres. Mannheim, chez Artaria &amp; Fontaine, 182o. 42X59 cm. Encadre. Superbe gravure.
+- 166
+- —Scene a la porte de Grimma. Caricature en couleurs gr. sur bois d'apres Geissler representant les gardes de ville saluant le
+
+Interessant pour le costume.
+
+- d'une lieue carre. Dess. p. C.W. Gerlach.Grav. color. vers 18oo. 68X63 cm. Encadre.
+- Sprengung der Ranstadter Bruicke (destruction du pont de RanAquarelle orig. p. un temoin oculaire,
+
+On a reuni dans le meme cadre 2 petites grav. (vue de Mockern et vue de Lieber-Wolkwitz) et une affiche concernant les officiers blesses prussiens.
+
+- 168 一 Staudens Ruhe (nom d'une petite auberge a) Reudnitz 184o. Aquarelle orig. d'apres la nature de l'epoque. 14X19 cm. Encadre.
+- 167 stadt)le190ct.1813. sign. G. Dr. 17X26cm. Encadre.
+- 169 Scene apres la bataille des nations, prince Schwarzenberg annoncant la victoire le 18oct.1813. Aquatinte finement color. p. J. L. Rugendas. Le paysage dess. p. Wagner. Augsb. vers 1814. 38X54²lcm. Encadre.
+- 170 -Bataille des nations a Leipzig le 19 oct. 1813. Aquatinte color. dess. et gr. p. J. L. Rugendas. Le paysage dess. p. J. Wagner. Augsb.1814. 38X55 cm. Encadre.
+
+Superbe épreuve de cette belle gravure de toute rarete.
+
+Brillante et tres rare estampe representant la melee devant la porte de Grimma.
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+
+1
+cher- asse-
+
+eon trie,
+
+the nte.
+
+dre.
+
+ure cm.
+
+sler bire
+
+tin.
+
+cm.
+
+cott aria
+
+sur le
+
+eur
+
+00.
+
+de an-
+
+ire,
+
+40.
+
+lre.
+
+on-
+
+J.
+
+I4.
+
+nte er.
+
+na.
+
+I.
+
+- 171 Leipzig. —Vue de Leipsick du cote de la porte de Grimma prise au
+- moment de la foire (vers 1 8oo). Dess. et grav. p. C. G. Hammer. Dresde chez Henry Rittner, vers 1845. 37 X 53 cm. Cadre de 1'epoque. Magnifique aquatinte fort interessante pour l'histoire des foires et du costume. Evidemment d'apres le dessin original de Geissler conserve dans la Bibliotheque Munic. de Leipzig. —De la plus grande rarete.
+- 172 2— Zur Erinnerung an die Schwarzen in Leipzig (les hussards noirs de Brunswick a Leipzig le) 26. juillet 18o9. Gravure color.de Geissler.181/X28 cm. Encadre.Tres rare.
+- 173 Leuchtenberg, duc de (1781—1824).—Eugene Napoleon, archichanchelier de l'empire franc., vice-roy d'Italie et prince de Venise. Figure entiere debout, en uniforme dess. p. Bosio, gr. a Milan p. L. Rados. 18o8. 65X441/a cm. Encadre. Tres rare.
+- 174 Louis Ferdinand, prince dePrusse, 177218o6,buste a gauche en costume de page.A Aquarelle lavée sign. G. Hugel, vers 1810. 25X19 cm. Encadre.
+- 175 — Die Herzogin von Sachsen-Coburg bekranzt die Asche des Prinzen Louis v. PreuBen. La duchesse de Saxe-Cobourg aupres du lit de mort du prince Louis de Prusse. Oct. 18o6. Runk fec. grav.-color. populaire. Halle, Dietlein, vers 18o6.2oX27 cm. Encadre. Fort rare.
+
+No.177.
+
+<!-- image -->
+- 176 Louis Napoleon, roi de Hollande, Grand Contestable de l'Empire Francais. Dess. p. J. B. Bosio, grave p. Lovis Rados de Parme. gr. in-fol. Milan 181o. Figure entiere debout en uniforme, au fond
+- paysage.
+- 177 Louise, reine de Prusse, miniature originale sur ivoire, d'apres la
+- peinture de J. Grassi 18o2, dans un ovale. Cadre de l'epoque, metal dore ,richement ornemente et orne de grenats et de turquoises. 42X31mm.
+
+Piece tres jolie et precieuse.—Voir l'illustration.
+
+No.178.
+
+<!-- image -->
+
+- 178  buste, J. M. Haas fec. grav. au pointille. Vers 1797. Cadre ovale.
+- 179 — dans l'eglise a Koenigsberg entouree de leurs enfants et de son
+- Tres rare.—Voir l'illustration.
+- mari. Dess. et gr. a 1'eau-forte p.J. Haas, lave p. Linger. 25X31 cm. Encadre. Piece rare de l'epoque.
+- Grav. color. Halle, chez Schubert, 18o7. Encadre. Un peu chiffonne.
+- 180 —premier revoir de la famille royale aimee apres la separation par la guerre. Steuersc.
+- 181-1 masque de la reine morte et 5 portraits 18oo—5o. 1. Platre de gypse. — 2. Buste dans un ovale. M. Voigt sc. color. vers 1815.
+- 12 X7/2 cm. Encadre. — 3. Buste d. un ovale. W. Sander fec. 121/X81/2 cm
+- Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- v.18oo. Enc. 4. Buste. Rosmasler sc.18o8. 51/aX4 cm. Enc.— 5.Buste en medaillon. F.G. Endler f. 18oo. 6.Buste, gr. s. acier. 11X812cm. F.Brandstetter,Leipzig vers 185o.
+- del., D. Berger sc.Berl. 18i1.42X58cm.Encadre. Belle gravure, Qq. dechirures d. 1. marg. racomm., autrem. bel. exempl.
+- 182 Louise, reine de Prusse, Frederic Guillaume III. aupres le lit de mort de la reine a Hohenzieritz le 19. juillet 181o. H. Daehling
+- 183 Marceau, F. S. D., general de la Repub. franc., 176996.
+- 184 Marie Therese Charlotte, flle de Louis XVI., duchesse d'Angoucostumes. Paris, chez Jean, vers 18oo.  27 X 2o cm.
+- Funerailles de M. peint p. F. Bouchot, gr. p. Sixdenier. Paris, Delarue,vers 184o. 55X76 cm.Encadre.
+- 185 Marie Louise, archid. d'Autriche, imperat. des Francais et reine Figure entiere, debout, au fond la grille du chateau de St. Cloud. Terminee la tete d'apres nature p. M. Prudon, dess. p.
+
+Magnifique portrait de femme du premier empire. Epreuve tres rare.
+
+- d'Italie. J. B. Bosio, gr. a Milan p. L. Rados. 181o. Aux armes imp. 63X43 cm.Encadre.
+- 186 Memel.L'empereur Alexandre recu a Memel p. le roi Frederic Guillaume et la reine Louise (le10.juin 18o2.) Grav. color., maniere pointillee. Daehling pinx., F. Bolt fec. Berlin, Asner, 18o5. 33X481/ cm. Encadré. De la plus grande rarete.
+- —le meme sujet. Lith. d'apres la peinture de Daehling. 131/X22 cm.
+
+Fort rare, incunable de la lithographie.
+
+- 187 Vers 1810.
+- 188 Moscou.— Incendie de Moscou le 15. sept. 1812. Aquatinte en
+
+Superbe estampe, vue de la ville incendiee de la hauteur du Kreml, sur le devant melee des troupes frang. avec les incendiaires. Coloris tres decoratif. Qq. taches comme dans tous les exempl.
+
+- coul. p. J. L. Rugendas, Augsb. 39X55 cm. Cadre dore de l'epoque. Fort rare.
+- 189 — Retraite de l'armee francaise de Moscou au mois de novembre
+- Cadre de l'epoque, dore. Fort rare, au fond Napoleon entoure de ses generaux et des gardes.
+- et decembre 1812. Aquatinte color. p. J. L. Rugendas, Augsb. 39X55cm.
+
+Un peu tache comme tous les exemplaires.
+
+- 190 (Murat). Joachim Napoleon, roi des Deux Siciles, en habit de grand Amiral de l'Empire Francais. Dess. p. J. B. Bosio, gr. p. L. Rados de Parme. Gr.-in-fol. Milan 181o. Figure entiere, debout, au fond marine.
+- 191 Napoléon I., empereur des Francais, 1769—1821, buste de face, la tete tournee vers la droite, uniforme des chasseurs, avec l'etoile de la legion d'honneur. Peinture originale a l'huile,grandeur naturelle, dans un ovale, sans nom d'artiste apparemment p. Andrea
+Appiani (Mailand 1754—1817) vers 18o9. 52X41 cm. Beau cadre dore.
+
+Magnifique portrait la tete forte comme nature. Au fond un petit espace clair autrement d'une conservation sans reproche.— Voir l'illustration.
+
+No.191.
+
+<!-- image -->
+
+- 192 Napoléon I., empereur des Francais, 17691821, peinture a 1huile sur toile, a la Charlet, fgure entiere,debout, chapeau et manteau neiges, celui-ci ouvert faisant voir d'uniforme, le ruban de la legion d'honneur et l'epee, a gauche les debris d'un canon, au fond une
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+ville neigee, l'attitude characteristique les mains sur le dos. Magnifique travail d'un artiste inconnu. 6o X 5o cm. Cadre dore.
+
+Provenant du chateau d'Ermenouville, de la prossession d'une ancienne famille noble.
+
+- 193 Napoléon I., empereur des Francais, 1768—1821,a l'age mur a mi-corps, en uniforme des chasseurs. Peinture orig. a l'huile s. boisvers1825. Cadre dore, richement ornam., en haut une tro
+
+Beau portrait de face a la David, la main droite pas dans le gilet. Travail
+
+- phee av. l'initiale N.27 X2o'/ cm.
+
+artistique, bon etat sauf qq. petites dechirures.
+
+No.195.
+
+<!-- image -->
+
+- 194 — buste de face, grandeur naturelle, peinture a l'huile d'apres L. David, vers 184o. 6o X 50 cm. Cadre dore.
+- un offcier anglais de la garnison de l'ile, vers 182o. 2oX14/ cm. Sous passepartout et cadre dore.
+
+Magnifique aquarelle artistique, Napoleon en pied, presque de face la tete tournee vers la droite, dans un paysage au fond une partie de la villa de
+Longwood, habit vert, gilet blanc, culotte blanche, bottes noires, coiffe du petit chapeau,etoile de la legion d'honneur sur la poitrine. De tous les portraits connus de l'empereur le dessin present ressemble le a l'egard de l'attitude extraordinairement parlante et caracteristique.L'artiste—— car il sagit d'un tel a fixe Napoleon dans un de ses moments ou il s'exprima sa colere sur l'indigne traitement qu'il recut. L'expression de la face, l'oeil brillant, la bouche mi-ouverte, la geste de la main droite et l'attitude entiere sont tellement vivants qu'il sera difficile de trouver un aussi bon portrait de l'empereur de ce temps-la. Sans nom d'artiste, provenant de la possession d'une ancienne famille anglaise.
+
+Voir l'illustration.
+
+- 196 Napoléon I., empereur des Francais, 1769—182 1, a Fontainebleau, a mi-corps, d'apres la peinture connue p. Delaroche, aquarelle sur papier vers 1845, dans un ovale, haut 2o1/2 cm. Cadre dore.
+
+Tres bonne copie faisant l'impression d'une miniature.
+
+- —portrait équestre, au fond Moscou incendie, entoure de scenes Charmant dessin original, deux petites espaces dans la marge sup. raccom.
+- 198 — buste, dessin orig. au crayon de craie p. Emil Unger s signe 1852,26 nov. 45X59cm. Beau portrait, la tete forte comme nature.
+- 197 de sa vie. 661/X511/2cm. Cadre style de l'epoque. autrement bon état.
+- 199 figure entiere debout, en uniforme de chasseur, la main gauche sur le dos, la droite dans le gilet. Aquarelle vers 188o. 47 X 16 1/, cm. Encadre.
+- 200 - Bonaparte tenant le drapeau et un grand sabre sur le pont d'Arcole (le 15 nov.1796). Grav. color., peint p. Le Gros, grav. p. J. Longhi 1798. Nouv. impression.4 43X31112cm. Encadre.
+- 201 —le general Bonaparte franchissant les Alpes. Peint p. P. Delaroche gr. p. A. Francois. Paris,Goupil,1852. 63X49cm. Encadre. Tache d. l. marg.
+- 202 — Bonaparte, premier consul, figure entiere, se promenant dans le parc de la Malmaison. Peint p. Isabey gr. p. Leney vers 1810. Encadre.
+- Nouv.impr. 55X38cm.
+- 203 — portrait équestre, lithogr. d'apres Levachez p. Vernet, vers 182o. Soigneusement color. 60X77 cm. Cadre dore de l'époque. Bonaparte en uniforme d'infanterie aux insignes de la légion d'honneur, tourne vers la gauche pointant avec la droite vers des hussards au fond, en arriere Murat et Josephe et Louis Bonaparte (b). Magnifique piece décorative. Tres rare.
+- 204—
+
+Un des plus parlants et plus rares portraits de l'empereur.
+
+- Dess. p. E. Bourgois, eleve de David, gr. p. Bertrand. Buste de face, grand.natur., aux insignes de la legion d'honneur.I Magnifique gravure pointillée. Paris, chez Aumont, vers 183o.·Aux armes imp. 61X50cm. Encadre.
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 205 Napoleon I., empereur des Francais, 1769—1821, portrait équestre, representation connue, a droite, lithogr. color., vers 183o. 31X24 cm. Encadre.
+- 206
+- 207 —buste de face, en uniforme, Le Fevre pinx. Gregorius del., Ruotte sc. 33X261/, cm. Encadré. Bel portr., un peu court de marges et tache.
+- —Napoleon a cheval, impression en couleurs. Paris, chez Lordereau, impr. Sergent, vers 189o. 63X50cm. Encadre.
+- 208 — grand habit de S. M. l'Empereur, le jour du couronnement. Dess. p. Isabey, gr. p. Pauquet, coloris de l'epoque. 2
+- — en costume de sacre, Garnerey pinx. P. M. Alix sc. grav. en
+- 25X20cm. Cadre brun.
+- 209 coul. 541X45112cm. Nouv.impr. Cadre noir.
+- 211 et Marie Louise, grav. a la maniere noire, L. Wolf del., Leo-
+- 210 — couronne son auguste épouse (18o4). Gravure de lépoque soign. col. Paris, Basset. 24X19cm. Cadre brun clair.
+- pold sc. Berl., Weiss, vers 181o. 3o X 24 cm. Cadre brun fonce. Tres rare.
+- 212 — a Sainte Helene, figure entiere, revetu du manteau avec chapeau regardant sur la mer. Lith.Lemercier. Paris, chez Jeannin, vers1830.39X31cm. Encadre. Un peu tache.
+- Bonaparte a Jaffa (a l'hopital des pestiferes) peint p. Gros
+- 213 visitant lambulance (La vie d'un soldat). Peint p. H. Bellange, gr. p. Jazet. Paris vers 184o. 53X641/e cm. Cadre noir.
+- 214 — 18o4, gr.p.Laugier 1829.57X78cm. Encadre.
+- An IX (1800). Dessine p. Isabey et Vernet, finement grav. et color. (Paris) s. d.
+- 216 entoure des personnages illustres qui l'ont combattu. Peint p. V. Adam lith. p. Marin-Lavigne. Paris, Jeannin, vers 1840. 511/sX73cm. Impr. sur Chine. Encadre. Qq. tach. dans le marge inf.
+- 215 一 Revue du General Bonaparte Per Consul. 57 X36 cm sans marges. Nouv. impr. Cadre noir.
+
+Ajoute le trait explicatif aussi encadre.
+
+- 217 - Napoleon et ses generaux sur le champ de bataille. Maniere noire d'apres Vernet p. V. G. Kininger 1839. 5o/X721 cm.
+- Encadre.
+
+Magnifique piece de la plus grande rarete.
+
+Belle piece decorative.
+
+- 218 —meme sujet, lith.color. rehaussee de vernis, vers 187o. 47 X 72 cm. Cadre noir.
+- 219 — Napoleon entre en Espagne ... il marche vers Madrid. Figure entiere debout aupres d'un feu, au fond des troupes frang. travers. la montagne. Peint p.Beaume gr. p.Parnier, vers 183o. 45 X 581/, cm.
+- Cadre noir.
+- 220 Napoléon I., empereur des Francais, 17691821, Napoleon a la bataille d'Austerlitz le 2 déc. 18o5. (Tableau, la piece de centre entouree de 16 autres vues de bataille de Castiglione jusqu'a Moscou). Dessine d'apres divers artistes gr. s. acier p. E. Rouargue. Darmst. G. G. Lange, vers 185o. 421/ X 48 cm. Encadre. Un peu
+- tache.
+- 221 —,La paix" p. Prudhon (Napoleon sur un char triomphal.). Dedie
+- au vainqueur de Marengo. Lith. vers. 189o. 36 X 62 cm. Encadre.
+- 223 — Napoleon et sa famille. Tableau de quatre portraits équestres sur une feuille representant Napoleon, Josephine, Josephe et Louis
+- 222 —Napoleon et le roi de Rome:,Chut! Papa dort"— ,Le cabinet de Napoleon. 2 pendants, grav. color., impress. sur soie, vers185o.18X15cm. Encadre.
+- Bonaparte. Grav. color. Paris, Basset, vers 18o5. ln-4. Cadre
+- dore. Rare.
+- 224 — Napoleon, sa famille, son empire, ses institutions. Grand tableau en forme d'un N forme de fleurs. En bas lempereur en costume de Cesar et le genie de la paix. Lith. p. Guillaume Herz, imp. chez Leopold Voss. Gr. in-fol. obl. Leipz.1812. Encadre. Rare.
+- 225 — la tombe a Sainte Helene. Gerard pinx. Quatre genies deroulant un tapis qui porte au milieu la tombe. Lith.vers 1830. 45X631/cm. Encadre.
+- 226 —la vie de Napoleon en 14 silhouettes d'ensemble 34 figures collees des deux cotes sur 7 ff. de papier blanc, vers 1825. Grand. du pap. 11 X17l2 cm.
+- 227 Napoléon, Francois Charles Joseph, prince imp., ne le 2o mars 1811.Gr.p.F.Lignon. Beau portr. colorie, s.d.15X13 cm. Encadre.Rare.
+- 228 Nettelbeck, Joach. Chr., marin, le defenseur heroique de Colberg, 1738—1824, buste, designe ,J. Nettelbeck, Colbergs Befreier 18o7". 46 X3611e cm.
+- Peinture orig. a lhuile, sign. P. Voigt, vers 181o. Encadre. Qq. dechir.
+- 229 Papiers monnoies de la Republique francaise. Deux grandes tableaux graves p. J. Humin, representant environ Ioo pieces (Assignats, mandats territoriaux etc.). En couleurs. Gr.in-fol.Malines 18oo. Cadre noir. Rare.
+- 231 —Les Prussiens devant Paris (le 3o mars 1814). Piece curieuse et decorative, au centre on remarque Blucher et Gneisenau. Comp. et lith. p. G. Bleibtreu vers 186o. 44/X6o cm. Impr. sur Chine. Cadre dore.
+- 230 Paris.— La colonne Vendome (otant la statue de Napoleon) le 8apr.1814. Dess. et grav. a l'eau-forte p. G. Opitz. Heidelb. vers 1815. 43X55 cm. Cadre dore. Un peu tache. Magnifique piece de toute rarete.
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 232 Paris. Entree des Allies a Paris le 31 mars 1814, dess. p. L. Wolf, gr. p. F. Jugel. Berl., Weiss, vers 183o. 431/X55 cm. Cadre dore. Sans marges, un peu tache.
+- tete passant une porte accomp. de quatre hussards. Peinture orig. Cadre dore.
+
+Beau tableau interessant.Curieusement les hussards ont des uniformes autrich. tandis qu'il s'agit en effet des Francais.
+
+- a 1'huile.35X44cm.
+- 234— quatre gravures color. se faisant pendants, represent. No. 1: les adieux a sa famille; No. 2: sa mort a la retraite de Leipsic;
+
+No.234.
+
+<!-- image -->
+
+No.3: comme on retrouva son corps dans 1'Elster; No.4: comme sa femme apprit sa mort. Pieces presque contemporaines, au pointille, sign. A.V.,P. T.et pub. p.Dembour &amp; Ganzel a Metz. Cadres noirs.
+
+- Avec trois lignes de commentaire.2oX29 cm. Tres rare. Voir l'illustration.
+- 235 —La mort du Prince Joseph Poniatowski a la bataille de Leipsick le 19. oct. 1813. Dess. p. H. Cotta, aquatinte p. P. Skerl. Dresd.,
+- C. G. Morasch, vers 182o. 261/eX39 cm. Encadre.
+
+Belle piece, a gauche le kiosque japonais au Jardin Richter.
+
+- 236 — Portrait, Thamisch lith., impr. p. R. Weber. Leipzig chez Schule.
+- 19X17 cm.Cadre brun.
+- 237 Portrait d'un homme inconnu, a l'age viril, en uniforme d'un officier, garde nationale (), habit noir, collet vers, faux col rabattu, épaulettes dor. Peinture orig. a l'huile, cadre de l'epoque. Vers 183o. 62X5o cm.Aq.dechir.
+- 238 Prague.  Entrevue des trois monarques a Prague. L. Wolf delin. F. Jugel sc. Berlin vers 1813. 42X46 cm. Cadre noir. Charmante aquatinte, au devant les figures debout d'Alexandre I., de Frederic
+- 239 Prusse.—Le glorieux premier siecle de la Prusse. Monument allegorique portant les portraits en medaillon des cinq premiers rois (Frederic I., Frederic Guillaume I., Frederic II., Fred. Guill. II. et III.).
+- Guillaume et de Francois I. entoures de leurs plus eminents generaux. Au fond vue de Prague.
+- Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+
+No.239.
+
+<!-- image -->
+s Belle aquatinte brune F. G. Weitsch inv. et del., D. Berger fec. Berl.18o0. 39X25112cm.( Cadre brun clair. Rare. Nagler, Vol. 21, p. 27o: ,Portraits forts comme nature. Voir l'illustration.
+
+- 240 Regensburg. L'incendie de Ratisbonne le 23 avril 18o9.
+- effet. 51X661 cm. Beau cadre dore. Magnifique piece, on remarque un combat sur le pont de la Danube, au
+- Peint p. Oldendorp, gr. p. Gottschick. Eau-forte color. d’un grand
+
+devant groupes de soldats.
+
+Dessin artistique, au fond la ville.
+
+- 241 一 Napoleon blesse a Regensburg, le 29 avr. 18o9. Dessin lave p. C. R. Hippe (d'apres la peinture de Gautherot, galerie de Versailles). 1840. 28X41 cm. Encadré.
+- 242 St.Helene.— Arrivee du ,Northumberland" a l'ile.  Aquatinte ,dessinee d'apres la nature par un ingenieur. Tres rare estampe
+- de 1'epoque.22X31 cm. Cadre brun. Entre deux montagnes fortifiees au devant on remarque la ville et le port avec la fregatte avec Napoleon sur le point de debarquer.
+- 243 Schill, Ferd. von, commandant d'un corps franc prussien, 1776— 18o9, figure entiere, debout, dans un paysage, peinture de l'epoque a 1'huile.48X32 cm.Cadre dore. Un peu poudreux.
+- 21X15cm. Cadre brun.
+- 244 — buste a gauche, unif. de hussard, aquarelle orig. moderne, tres artistique, av. facsimile de sas signature, sign. A. Warnemunde.
+- 245 Schwarzenberg, Carl Phil., Prince de, feldmarechal autrichien, 1771—182o, buste de face, peinture orig. a 1huile, vers 1815. 24X19cm. Encadre.
+- 246 Tolentino.— Bataille de Tolentinole2 et3mai 1815. Gagnee p. un corps d'armee autrich. sous Bianchi sur l'armee napol. commandee e. le roi Joachim. Dess. p. Weingarten, exec. p. J. A. Klein, gr. p. H. Mansfeld. Vienne, P. Cappi, ca. 182o.4 46X69 cm. Cadre dore.
+- 247 Vernet, Horace. — Attents! attents!!! Soldat napoleonien dans une auberge rustique un petit enfant sur ses genoux.) Vernet pinx. 1823. Aquatinte color. p. J. P. M. Jazet, vers 187o. 47X38cm.
+- Encadre.
+- 248 Wagram.— Wagram le 6 juillet 18o9. Peint p. Bellange gr. p. Rollet. Paris, Delarue, vers 1840. 55X72 cm. Encadre.
+- 249 Waterloo.— J. Hesse a Berlin. Lithogr., belle epreuve sur Chine, vers 186o. 441/eX63 cm. Cadre dore.
+- Blucher a Belle-Alliance. Bleibtreu fec. impr. p.
+- 250 — Entrevue de Blucher et de Wellington sur le champ de bataille de Belle Alliance en 1815 au soir du 18 juin. Dess., grav. et
+- publ. p. J. L. Rugendas a Augsb. 1816. En-bas poeme en allem. et franc. Aquatinte color. 381/X55 cm. Cadre noir. De la plus grande rarete.
+- 251 Waterloo.— M.Levy, 1815. Belle gravure coloriee. Cadre brun fonce.
+- Meme sujet, dess. et gr. p. G. A. Lehmann. Berl.,
+- 252 —— ,Serrez les rangs! Scene de la bataille de Waterloo. Peinture a 1'huile d'apres Raffet, vers 185o. 18X25 cm. Cadre dore. Petite dechir.au milieu racomm.
+- 253 Wellington chez le peintre David. "Je ne peins que l'histoire." (Le peintre devant son grand tableau du Premier Consul au passage du St. Bernard.) Gravure d'apres L. H. d. Rudder (1836), vers 1875. 49X631/2 cm. Encadre.
+
+## IV. Caricatures.
+
+- 254 Napoleon en caricatures. 38 caricatures allemandes, dont 35
+
+Interessante reunion renfermant: Unschuld in Arcadien, Steckbrief hinter Nicolaus Bonaparte, Universal-Monarchie, Napoleons Ankunft in der Holle, Franzosisches Kaisertum,Triumph d.J. 1813, Eitles Bestreben, Commencement du Finale,Stufenleiter,Befehlen Sie Spanisch Bitter, Seifenblasen,Freiwilliger Ruckgang der grofen Armee, Das firchterliche Raubnest, Europ. Barbierstube,Der Hut,Klagen der Anhanger Bonapartes.
+
+- color., 3 noires, de l'epoque, gravures, sauf une lith.
+- 255 — Caricatures, six, de Leipzig, grav. color., une noire de lepoque,
+- Contient: Die ersten Franzosen in Leipzig (noir), Napoleon am Rabenstein: Befehlen Eure Majestat 1ooooo alte Garden? Das grofe Vogelschiefen zu Leipzig 1813, Ankunft der Franzosen in Leipzig, Napoleon sur l'ecrevisse Les 5 prem.p.
+- 256 — Schadow, J. G., quatre caricatures politiques, aquatintes. Paris,
+- dont 5 p. C. G. H. Geissler. Tres rare. attaque par un Cosaque, Napoleon a la foire de Leipzig. Geissler.—Voir l'illustration.
+- In-4obl.
+- I.Le partage du monde.II. Caricature representant Fama a la renverse sur une laie (refer. aux bulletins fanfarons). If.Emparez vous de Berlin. IV. La Landwehr prussienne et l'ours de Berlin defendant la porte de Halle a Berlin Extraordinairement rare, dans la crainte de Napoleon publ. sous le nom de
+- chez Gilrai,（1813）. contre l'infanterie francaise.
+
+Gillray, le fameux caricaturiste anglais.
+
+- 258 — 21 anglaises, dont 2 noires, le reste color., grav. et eaux-fortes de l'époque.
+- 257 —Truimmer der franzos. Armee bey ihrer Rickkehr ins Vaterland (Les restes de larmee francaise retournant dans leur patrie) 1813. Deux gravures color. dess. et grav. p. Geissler, vers 1813. 161/X331/2 cm.
+
+Belles et grandes estampes renfermant des pieces p. Gillray, Cruikshank, Marks etc., p. e.: Three great actors, a hasty sketch at Verona, Blucher in
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+London 1814,Blucherian discipline, Boney in a stew,a stoppage to a stride,
+
+- 259 Napoleon en caricatures, Boney and the gay lads of Paris calculating for the next triumphant entry into Moscow. Caricature angl. anonyme en couleurs, en-bas des vers p. l'editeur S. W. Fores. Lond., Avril 1813. 36X251/2 cm. Encadre.
+
+Blucher the brave, the first kiss, French invasion, the Governor of Europa, a hint to the Blind, The King of Brobdingnag, Middlesex election, Blucher beating the Corsican big drum, Tiddy-Doll, the French gingerbread baker etc.
+
+- Broadley I p.321.
+- 260 —— the progress of the empress Josephine. Caricature angl. color. representant limperatrice en 8 differ. etats. Woodward del. C. W. sc. Londres, Th. Tegg, 18o8. 22X32'/, cm. Encadre.
+- 261 —(Combe, William) the life of Napoleon, a Hudibrastic poem in 15 cantos, by Dr. Syntax, embellished with 3o engravings by pages de texte et 3o belles caricatures, titre grave c'y inclus. Bel
+- G.Cruikshank.Lond.1815. D.maroquin rouge, dos dor. 260 exemplaire.
+- 262 ——le meme, serie de 22 (au lieu de 3o) caricatures sans le texte.
+
+No.255.
+
+<!-- image -->
+- 263 Caricatures, quatre, francaises, grav. en coul. de l'epoque: Autant en emporte le vent, Jugement dernier (d'apres Michel-Ange). Le four des allies, L'entree d'une partie des allies a Paris. Belles et grandes pieces.
+
+## V. Medaillons, plaquettes, bustes, statuettes.
+
+- 264 Alexandre I., empereur des Russes, buste a droite en uniforme, medaillon en fer de fonte, vers 181o. 8cm.
+- Haut.65 cm.
+- 265 — buste en uniforme, platre bronze, vers 182o.
+- 266 Blucher, feldmarechal prussien, buste a gauche en uniforme, nombr. ordres sur la poitrine, medaillon en fer de fonte, vers 181o. 8 cm.
+- 267 一
+- meme sujet, plaquette en fer embouti, de la fonderie roy.a Berlin, ouvrage de l'époque, 54 mm.
+- 268
+- 3— buste a droite, medaillon en fer de fonte,monture d'or vers 1813.. De la fonderie roy. a Berlin.5 cm.
+- 269 —buste a droite,medaillon en relief, G.Loos dir. Glek f.,copie en gypse couleur d'ivoire. Vers 1815. 61/cm.
+- Cadre dore. Belle piece.
+- 270
+- buste en fer de fonte, haut. 161/, cm vers 1815, fabrique dans la fonderie roy.a Berlin. Rare.
+- 271 —porte-montre avec buste de Blucher sur colonne, av. couronne de chene, en fer de fonte (Mllr fec.?) haut. 18 cm.
+- Piece curieuse et rare de la fonderie roy. de Berlin.
+- 272 一 tete a gauche d'apres Schadow, av. monture ornementee, en laiton embouti, vers 182o. 12cm.
+- 273 —buste en laiton embouti p. Heuberger, 6 cm. Sur une croix d'albatre. 13X13X2 cm., av.decor.en laiton et perles bleues (imitation du ,croix de fer", ordre allemande).Av.orillon comme decor de mur.
+- 274 Dalberg, C. Theod. baron de, electeur de Mayence, grand-duc de Francfort, 1744—1817, buste en platre, haut. 6o cm, piedestal racomm.
+- 275 Francois I., empereur d'Autriche, buste a gauche en uniforme, medaillon en fer de fonte de la fonderie roy. de Berlin. De lépoque. 85 mm.— Voir l'illustration.
+- 276 Frederic August I., roi de Saxe, buste a droite, en uniforme, medaillon en fer de fonte, vers 181o. 8 cm.
+- 70cm.
+- 277 — buste idealise en fer fondu couvert de gypse, vers 182o, haut.
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 278 Frederic Guillaume Il1.,roi de Prusse, 177o184o, buste en relief en plomb bronze, en-bas petit cadre contenant la signature autogr. du roi, monte sur peluche et encadre, le buste 2oX11 cm.
+- Vers 18i0.
+
+La signature est coupee. d'une lettre accordant la demission au second-lieutenant de Werner du regt. Sanitz.La lettre est collee sur le revers du cadre.
+
+- 279 — buste a gauche comme prince royal, en cuirasse, medaillon en fer de fonte,vers 181o.8 cm.
+- 280 — buste a droite, en uniforme, medaillon en fer de fonte, vers 1814.82mm.
+
+No.275.
+
+<!-- image -->
+
+De la fonderie roy. de Berlin.
+
+- 281 —buste a gauche, en uniforme, en fer de fonte, sur velours vert, hauteur 17 cm, dans un cadre ovale en fer de fonte bronze, av. ornements (trophees et couronne) s. piedestal ornem. haut. 48 cm. Jolie piece de la fonderie roy. de Berlin.
+- 282  buste en fer fondu, haut. 171le cm. Vers 1815. De la fon-
+- derie roy. de Berlin.
+
+Rare et belle piece.
+
+- 283 — buste en uniforme, platre bronze, vers 182o, haut. 7o cm.
+- 284 Frederic Guillaume Ill.,roi de Prusse, 177o184o, Aufruf ,an
+- mein Volk! (Appel au peuple). Breslau le 17.mars 1813. Plaquette en fer de fonte, entouree de lauriers et branches de chene av. emblemes et noms de batailles. 1863, p. G. Muller, Berlin. 2 5X2o cm.
+- 285 Hofer, Andreas, commandant tyrolien,1767—181o, statue en
+
+No.285.
+
+<!-- image -->
+
+Piece rare et tres bien conservee, le fourreau de l'epee manque.
+
+- papier-mache, en costume national, l'epee au cote, le chapeau dans la gauche sur le coeur. Colorie a la nature, joli ouvrage autrich., vers 181o, haut. 75 cm. Voir l'illustration.
+- 286 Louise, reine de Prusse, buste a droite, plaquette en fer, sur fond rouge, 18o mm, cadre en fer de fonte ornem.
+- Jolie piece de la fonderie de Berlin.
+- Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 287 Louise, reine de Prusse, buste dans un ovale, plaquette en fer. 37X33 mm. De la fonderie roy. de Berlin.
+- buste en relief, presque de face, la tete tournee vers la gauche,
+- 288 — buste en medaillon d'apres Daehling. Plaquette en fer de fonte, encadre. De la fonderie roy. de Berlin.
+- 289 一 en plomb dore. 38X3o mm.  De lépoque.
+- 291 Sarcophage de la reine Louise d'apres Chr. D. Rauch 1827 (2 état, conserve dans le Hohenzollern-Museum), en bronce fondu, vers 1828,haut. 12 cm.1 Belle et rare piece, fabriquee a Berlin.
+- 290 buste en relief, a droite, en gypse teinte, H. Bettkober fec. d'apres la nature a Berlin 1798. Dans un ovale. 20X11 cm. Belle et rare piece.
+- 292 —la meme et Fredéric Guillaume IlI, buste de la reine et 15X19cm.
+- du roi se regardant, plaquette en gypse, vers 18o5.1 Encadre.
+
+Jolie piece de l'époque.Cassures au bord.
+
+- 293 (Mobelbeschlage.) — Ferrures de meubles, 31 pieces de l'époque de 1813 a 15, en laiton embouti av. les bustes de personnages
+- celebres etc. d'apres Heuberger, Detler et Caque.
+
+Contient 2o ferrures rondes,diam. 55 mm. Av. les bustes de: Frangois I (2 p.), l'imperatrice Maria Ludoviga, le prince imp. Ferdinand et l'archiduc Charles d'Autriche, Alexandre I.,le roi Maximilian Josephe et le prince Louis de Baviere, le roi Frederic et le prince Guillaume de Wurtemberg, Bernadotte, le Prince regent Georges, Louis XVlll, Wellington, Berthier, Tallyalors 4 ferr. av. buste de l'archiduc Charles av.armes et cour. 8x9 cm, enfin 7 ferr. av. Kosaques 51/2x7 cm.
+
+- 294 Napoléon I., buste a gauche laure, Galle fec., plaquette ronde en laiton embouti dore, av. inscript., montee s. relours noire et encadree. Vers1810.72mm.
+- 295 - buste a droite comme officier d'artillerie, plaquette ronde en
+
+Jolie piece en cadre ornemente.
+
+- fer embouti,vers 182o.1 17cm. Belle piece.
+- 296 tete a gauche, lauriee d'apres Andrieu, plaquette en etain dore sur velours gris, en-bas facs. de la signature de l'empereur encadré, le tout dans un beau cadre, style empire. 25X21 cm haut, de
+- la plaq. 140 mm. Voir tresor num.41,4.
+- 297 memor. du couronnement 18o4. 7o mm. Encadre.
+- — meme sujet d'apres A. Galle, plaquette en cire rouge, com-
+- 298 一 buste a droite en uniforme d'artillerie, cordon de la legion d'honn., plaquette en fer embouti, 1o2 mm (p. Ploss). Tete forte comme nature.— Voir l'illustration.
+- 299 buste d'apres le marbre de Canova a Ajaccio, en metall fondu,
+- peint av. couleur de l'huile blanche, haut. 6o cm, vers 184o. Puttrich fec.
+- 300 — meme sujet en platre, haut. 25 cm.
+- 301 Napoléon I.,buste en fer fondu, vers 182o, haut. 7 cm.
+- en albatre, dans un ovale, haut. 75 mm, ouvrage franc. vers 181o. Cadre ornem. en laiton dore. Tres artistique.
+- 303—1 masque en platre, pris a l'ile Sainte Helene,le 24 mai 1821 par son medecin ordinaire Francesco Antommarchi, par l'ordre du
+- general Bertrand, tous les deux presents a linstant de sa mort,
+
+No.298.
+
+<!-- image -->
+
+dans un coffre a couvercle en verre, l'interieur couvert de velours noire. Tres bien conserve.
+
+- 304 — statue avec l'aigle imp. (d'apres Seurre) en platre haut. 65 cm,
+
+Le masque, signe D. F. Antommarchi, fut apparemment pris peu apres la mort,l'expression n des traits est naturelle et tranquille. Le face est prise jusqu'aux oreilles qui ne sont que legerement indiquees.
+
+- vers 1830.
+- (d'apres Daehling) en platre bronze. J. Christofani a Dresde fec. Haut.71 cm.1 Piedestal-racomm.
+- 305 5— statue en uniforme d'un colonel des chasseurs de la garde
+- 306  a cheval, d’apres Raffet, statuette en bronze fin francais, haut.
+- 25 cm.Jolie piece.
+- 307 — statuette d'apres Seurre sur piedestal a plusieurs marches orne d'un N., en bronze dore de l'époque, haut. I2 cm.
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 308 Napoleon I., meme sujet sur haut piedestal a marches, en bronze de canon, produit frang., haut. 14 cm. De lepoque.
+- 309 — meme sujet sur piedestal a l'aigle imp. En bronze, haut.
+- 14cm.
+- 310—S ment executee de lépoque.
+- statuette d'apres Daehling, sur piedestal ornemente,en bronze franc., haut. la statue 2o cm,le pied. 15 cm.Jolie piece fine-
+- 311—1
+- meme sujet, en bronze d'argent dore sur pied rond, ouvrage francais de l'époque, haut. 7 cm. Jolie piece.
+- 312 — meme sujet sur haut piedestal, en fer de fonte, haut. 12 cm. Jolie statuette franc.
+- 313—
+- meme sujet en bronze, haut. 3'/ cm, sur piedestal rond en albatre ornemente, s. socle en bronze et bois noir, haut. ent. 12 cm.
+- meme sujet sur socle rond en albatre.Bronze franc. de
+- 314— l'époque, haut. 16 cm.L'épee endom.
+- 315 — meme sujet sur petit socle rond, haut. 18 cm.1 Bronze frang. de l'epoque. Belle piece.
+- 316  meme sujet sur socle aux lauriers, haut. 24 cm. Bronze de
+- canon franc. de l'epoque. Un pied endom.
+- 317 meme sujet en bronze dore de l'époque, haut. 7 cm.
+- 318
+- 319 一
+- meme sujet en bronze dore, haut. 8 cm.
+- epingle é cravatte en argent grave, buste ovale a gauche en uniforme, monture doree. Ouvrage allemand de l'époque. 18X15 mm.
+- 320 — sonnette a main av. statuette d'apres Daehling en bronze dore, ornements antiques. Ouvrage franc. du commenc. du 19 siecle,
+- haut.11/cm.
+- 321 — cachet en forme d'une statuette d'apres Daehling en laiton dore, haut. 6 cm. Monogramme A. D. et cheval sautant, d'origine
+- hannovrienne.
+- 322 — meme sujet revetu du manteau, en bronze d'argent dore, haut. 5 cm, du commenc. du 19 siecle1 D'origine westphalienne.
+- 323 一
+- 324 sarcophage d'apres l'original au Dome des Invalides, sous le un poudrier, en-bas figure couchee de Napoleon en relief. Fer fondu, haut.12 cm. Jolie piece.
+- cachet en forme du Napoleon de la colonne Vendome, en bronze d''argent dore, ma nche en bois brun sculpte. Produit frang de l'époque, haut. 1o cm.
+- 325—templerond en lame de cuivre ornementee et percee, av. colonnes en verre depoli, au centre statuette de l'empereur d'apres se trouve une plaquette en étain dore represent. Napoleon sur le mont St. Bernard,haut. 22 cm. Belle piece.
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 326 Napoleon I., thermometre en forme de la colonne Vendome, en bronze fondu dore, produit franc. vers 182o, haut. 2o cm.
+- 327 — Napoleon et Josephine, bustes en relief en papiermache blanc sur fond bleu, haut. 45 mm, encadre.
+- 328 — Famille de Napoleon empereur des Francais. Bustes de l'emp., de Marie Louise et du roi de Rome entoures d'emblemes. Enbas Heurthaux fec. 1815. Plaquette en laiton dore, 65 mm. Encadre.
+
+Pieces et tres jolies rares du commencement du 1ge siecle.
+
+No. 331.
+
+<!-- image -->
+
+- 329 Waterloo. —La garde meurt et ne se rend pas!" Groupe de
+- 330 Wellington, duc de, buste a gauche, medaillon en fer de fonte av. inscription, bordure dorée. 5 cm. J Jolie piece de l'époque, de la fonderie roy. de Berlin.
+- 3 grenadiers, plaquette en bronze, vers 182o. 151eX16 cm. Encadre.Jolie piece.
+- 331 — buste a gauche en uniforme, medaillon en laiton embouti et grave a la main. Tete forte comme nature, ouvrage beau et soigneux probablement d'un medailleur anglais vers 1825. 6 cm
+- 332 Wendler, Chr. Ad., professeur et medecin a Leipzig, l'ami de la famille Koerner, buste en metal fondu peint av. coul. a l'huile
+- diam. Encadre.— Voir l'illustration.
+- blanche, haut. 5o cm. H. Knauer fec. 1852.
+
+C'etait dans la maison de Wendler que Koerner fut soigne d'apres la blessure regue a Kitzen.
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+## VI. Medailles, monnaies, decorations
+
+## d'honneur.
+
+Toutes les medailles sont en bronze, sauf indication contraire,
+
+S Histoire metallique de Napoleon et au Tresor numismatique. Abbrev.: Rv. = revers, a dr. =a droite, a g. =a gauche, b=bon, t.b.=tres bon, f.d.c.=fleur de coin.
+
+- 333 Francois 1., empereur d'Autriche, 3 medailles 18o8 a 14. 18o8. Mariage avec Maria Ludov. Beatrix de Modena (p. Stuckhart et Guillemard). Bustes a dr., Rv. Couronne de chene et legende. 49 mm.— 18o9. Defense de Tyrol. Hofer et 2 tireurs. Rv. legende dans une couronne de chene. 3o mm. t. b.1814. Visite a la monnaie de Paris (p. Gayrard). Tete a g. Rv. legende. 40 mm. t. b.
+- 334 Frederic Guillaume IIl., 11 medailles diverses, 1793—1821. 1.1793. Mariage av.Louise de Mecklembourg (Loos). Argent, 43 mm. t. b. Emboit.2.1797.Avenement au royaume (Loos). 41 mm.f.d.c. 3.1798. t.b.—4.18o9.Retour du roi et de la reine (Loos) 44 mm.t.b. 5.1810. Mort de la reine (Loos).Arg.39 mm. t.b.,emboit.—6. Meme évenement (Loos). Arg. 39 mm. t. b. Emb. —7. Funerailles de la reine （Loos). 36 mm.f.d.c.—8. Meme evenement.Arg.Emboit. 9.Guerre de1813(Jacob) 74mm.fer.f.d.c.—1o.1818. Monument du Kreuzberg (Brandt). 5o mm.—11. 1821. Inauguration du meme. Fer. 96 mm.t.b.—Voir l'illustration.
+- 335 Temple de gloire. Rv. 3 vertus debout. Cette medaille s'ouvre et forme une boite contenant 12 grav. color. F. F. sc. represent. des scenes de batailles av. descript., reunies par un ruban. Etain. 50 mm. t.b.
+- 336 —med. a estampes 1814. Victoires de l'annee (Stettner). Bustes des 3 monarques. Rv. Germania.1 Dedans 12 grav. represent. de batailles. S. Adam del. sc. Etain, 5o mm.
+- Conclusion de la paix (Harber et Wyon).7o mm. Capitulation de Pampelona (Brenet et Droz).
+- 337 Georges IV. et Wellington, 3 med., 1813 a 15. 1.Georges IV.,1814. 2.Wellington,1813.
+- 338 Koerner,Th., centenaire de sa naissance, 23 sept. 1891, buste ag. Rev.lyre et sabre.Nickel. 26mm.— Plaquette commemor., buste a g. Rv. laur. et legende. 5o mm. b.
+- 41 mm. t.b,—3.le meme, 1815. Vota publica. 52 mm.
+- 339 Leipzig, 15 med. commemor. de la bataille des nations. 1.Bustes des 3 monarques, Rv. legende.J. Lang f. alliage d'arg. 45 mm. vers 182o. Dorig. autr. t.b.2. 1863. Iubile de 50 ans. Fondu de balles de canons. 26 mm. t. b. 3. Neuf med. en etain 1863. 27a 58 mm.—4. 1863. Meme évenement, quatre med. div. Alliage de plomb. 3cm.
+- 340 Medailles, sept. div., et 13 jetons de l'epoque des guerres Na-
+- poleoniennes.
+- —5. Frederic Auguste I. de Saxe, 1827. La mort (Thomas). 28 mm. t. b.
+- 1.Alexandre1.1814. Visite a Paris (Andrieu). 40mm.f.d.c.— 2.Belgique.1815.Waterloo.3o mm.Av.orillon. -3.Blucher.1816. Dédicace des citoy. de Berlin (Koenig).Fer.8o mm.t.b.—4. Brunswick. 1818. Quatrebras et Waterloo (Huseler). H. 168a. 35 mm. t.b.
+- I 6.Charles IV. d'Espagne, 18o1. Invention de Droz (Sepulveda). Tres. num. 88, 11. 39 mm. 7.Louis I1. de Baviere. 1863. Aux combattants léon (9) Frederic Guillaume Ill, Alexandre I, Jerome et Blucher.
+- 341 Medailles de victoires publ. p. Jaeger, libraire, Frankfort s. M. 61 pieces en alliage d'arg. 1813—15, dont 57 d'un diam. de 15 mm, 2 ovales 17X2o mm, 1 ovale 21X3o mm etune grande
+- 42mm.
+
+No.334.
+
+<!-- image -->
+
+Jolie et rare collection de medailles commemorat. aux victoires gagnees par les Allies. L'une est monte comme epingle a cravatte, Io sont reunies pour une chaine a montres. Le tout dans une boite ouverte au centre description sous verre.
+
+- 342 Medaille a estampes, cherte de 1816—17 (Stettner). Cette medaille s'ouvre et forme une boite qui contient 8 grav. color. reunies par un ruban. Etain. 48 mm. t. b.
+Medailles Napoleoniennes du directoire, du consulat et de lempire p. Andrieu, Brenet, Chavanne, Depaulis, Droz, Gatteaux, Jeuffroy, Lavy, Manfredini, Stettner etc. etc.
+
+343 Directoire,1796. 5 medailles.
+
+- de Millesimo, combat de Dego (Lavy). Mill. I, 2. 43 mm. f. d. c.—
+- 1.Bataille de Castiglione (Lavy). Mill. 1, 4. 43 mm. t. b. 2. Bataille
+- 3.Bat. de Montenotte. (Gayrard et Jeuffroy). Mill. 4, 1. 4o mm. f. d. c.—
+- Po(Salvirck).Mill. 2,3.43 mm.
+- 4.Capitulation de Mantua (Lavy). Mill. I, 5. 43 mm.—5. Passage du
+- 344 1797..5 medailles. 1.Capit. de Mantoue (Gatteaux). Mill. 4, 6.35 mm.t.b.—2. Prise du Palazzo Broletti a Brescie. Mill. 61, 381.63 mm. f. d. c.—3. Paix de Campo Formio (Chavanne). Mill. 3,1o. 43 mm.-- 4.Fondation de la Republ. cisalpine (Vasallo et Salvirch). Mill. 5,14.48 mm.b. 5.Traite de Campo Formio (Duvivier). Mill. 5,8. 56 mm. t.b.
+- 345—1798.3 medailles.
+- 346 Consulat, 18oo. 9 medailles. 1.Bataille de Marengo (Brenet et Auguste). Mill. VIll., 25. Tres. 77,1.
+1. Napoleon en Egypte (Bovy). 4I mm. f. d. c. Rare, manque chez Mill. et au Tres. num., frappee s. Louis Philippe.— 2.Conquete de la HauteEgypte (Jouannin et Brevet). Mill. 7, 2o. 40 mm. f. d. c.
+- 50 mm. Pet. trou au bord.—2. Assassinat du general Kleber au Caire (Caque). 4I mm. t.b. manque au tresor et chez Mill.—3 3.Republ. cisalpine (Lavy). Mill. 7, 24. 33 mm. —4. Colonne nationale (Duoivier). Mill. 9,29. 56 mm. t.b.—5. Bataille de Marengo (Andrieu). Sans rv. 68 mm. Copie en etain.—6. Mort du gen. Desaix d.la bat. de Marengo (Brenet et Auguste). Mill. 8, 26. 5o mm. t. b.—7. Machine infernale. Mill. 16, 36. 6o mm. t. b.-- 8. Place Bellecour a Lyon (Chavanne). Tres 78,3. 43 mm. —9.Meme évenem. Mill. 9,32. 44 mm.
+
+No.347.
+
+<!-- image -->
+- 347 Consulat, 18o1. Paix de Luneville. 3 medailles.
+- 1.(p.Andrieu).Mill. 12,41.42mm. t.b. 2.(Droz). Mill. 1I, 42. 55 mm. t. b.3. (p. L.). Mill. 15, 45. 38 mm. t. b. —Voir lillustration.
+- 348 — 18o2. 3 medailles.
+3. Reunion de Piemont a la France (Lavy). Tres. 91, 7. 5o mm. t. b.
+- 1.Renouvellement de la Republ. cisalpine (Manfredini). Mill. 17, 57. 54 mm. t.b.—2. Colonne élevée a Marseille (Poize). Mill. 13, 63. 43 mm. t. b.
+- 349—1 1803—04. 4 medailles. 1.Visite au Musee centr. des arts (Jeuffroy). Mill. 3o, 7o. 40 mm. 2.Traite d'Amiens rompu (Jeuffroy). Mill. 3o, 69. 41 mm. t. b.—3. La fortune conservatrice （Brenet). Mili.16,72. 34 mm. 4.L.A.H.de Bourbon Conde Duc d'Enghien fussile a Vincennes (Gatteaux). Manque au Tresor et chez Mill. f. d.c.
+- 350 Napoléon I.,18o4. 10 medailles, ajoute 3 med. en miniature, frappees plus tard.
+
+1.Visite de Pie VI1. (Droz et Jaley). Trés. 3, 14. 4I mm. t. b. — 2. 200o barques sont construites (Droz). Mill. 3o, 81. 40 mm. t.b.— 3. Fete de la ville de Paris (Brenet). Mill. 32, 89. 35 mm. - 4. Couronnement (Andrieu et Jeuffroy). Mill. 32, 83. 40 mm.—5.Legion dhonneur (Andrieu et Jaley). Mill. 31, 78. 4o mm. t. b.6.Le Code civile decrete (Brenet). Mill.25,82.42mm. —7.Honneurs legionnaires a l'armee de Boulogne (Jeuffroy et Jaley). Mill. 31, 8o. 4I mm. 8.La monnaie retablie (Andrieu).Trés. VI, 7a.41 mm. f. d.c.— 9.Meme évenement (Andrieu) Mill.29,92.40mm.t.b. 10.Quatre medailles en miniature: 18o4. Sacre (Droz et Salle). Mill. 32, 85. 26 mm. t. b. — 1836.L'arc de Triomphe (Vivier et Leveque). 25 mm.—Meme even.(Montagny). 26 mm. —184o. Translation des cendres (Caunois). 25 mm. t. b.
+
+- 13 medailles.
+1. Allocution a la grande armee (Andrieu). Mill. 34, 104. 40 mm. t. b.
+- 351 1805.
+2. Levee du camp de Boulogne (Droz et Brenet). Mill. 34, 1o3. 4o mm. t. b. —3. Bataille d'Austerlitz (Andrieu). Mill. 35, 110. 41 mm. t. b.——4.Ecole des mines du Mont Blanc (Andrieu et Brenet). Mill. 33, 79. 4o mm. t. b. 5. Prise de Vienne (Manfredini). Mill. 34,1o7.42mm. f. d. c. 6.Prises de Vienne et de Presbourg (Andrieu et Galle). Mill. 34, 106. 40 mm. f. d. c.—7. Entrevue a Urchitz (Andrieu). Mill.35, 111. 40 mm. t.b.—8. Paix de Presbourg （Droz et Andrieu). Mill. 35,113. 4o mm. —9. Couronnement a Milan (Manfredini). Mill.38, 97. 42 mm. f. d. c.— 10. La Ligurie reunie a la France (Andrieu et Brenet). Mill. 29, 1o1. 41 mm. —11. Les drapeaux franc. regagnes a Innsbruck (Droz et Brenet). Mill. 34,108.40 mm.t t.b.I2.Deux plaquettes en étain:L'empereur tete ag. - Josephine, buste a dr., sans rv. (Andrieu). Meme sujets comme Tres. Vll,12 et 13, mais le bord plus large. 67mm.
+- 352 —18o6.12 medailles. 1.Occupation de Hambourg (Andrieu et George). Mill.4o, 2o8 4o mm. t. b. —2. Conquete de Naples (Droz et Brenet). Mill.35, 12o. 40 mm. t. b.— 3.Entree a Berlin (Andrieu et Jaley）. Mill. 40, 205. 40 mm. f. d. c. 4.La Saxer royaume (Andrieu).Mill. 40, 207.40 mm. t.b.— 5.La Dalmatie conquise（ (Droz et Brenet）. Mill.35, 119.40 mm. t.b.—— 6.L'Istrie conquise (Andrieu et Brenet).Mill. 35, 118. 4o mm. t.b. 7.Grand Sanhedrin (Depaulis et Dupres). Mill. 36, 125. 41 mm. t. b. — 8. Bataille de Jena (Andrieu). Mill. 4o, 203. 41 mm. f. d. c.—9.Meme évenement (Andrieu et Galle). Mill. 4o, 202. 40 mm. f. d. c. 一 10.Souverainetes
+donnees (Droz et Andrieu). Mill. 35, 121. 40 mm. t.b. 11.Arc de triomphe sur la Place du Carrousel (Droz et Brenet). Mill.36,124. 4o mm. t.b.—I2. Reddition de Spandau,Stettin,Magdebourg et Custrin (Andrieu et Jeuffroy). Mill. 40, 206. 41 mm. f. d.c.
+
+- 353 Napoleon I., 18o7. Medaille a estampes en etain. Victoires de aupres d'un autel. Av. 18 scenes de batailles grav. Tres. num. 22, 7. 50 mm. t. b.
+- 354 ——1807.8 8medailles.
+- 1.L'aigle couronne (Andrieu et Jaley). Mill. 42, 230. 40 mm. t. b. 2.Prises de Berlin, Varsovie et Koenigsberg (Andrieu et George). Mill. 41, 217. 4o mm. f. d. c. —3. Route de Nice a Rome (Andrieu et Gayrard). Mill. 42, 229. 40 mm. t. b. —4.Royaume de Westphalie (Andrieu et Brenet). Mill. 42, 224. 40 mm. t. b. —5. Duche de Varsovie (Andrieu et Brenet). Mill. 42, 223. 40 mm. t. b. 6.Napoleon a Osterode (Andrieu). Mill. 41, 213. 40 mm. t. b.—7. Bataille de Friedland (Andrieu et Brenet). Mill.41,216.40mm.t.b.— 8. Mariage du roi de Westphalie (Andrieu).
+
+Mill. 42, 225. 40 mm. t. b.
+
+- 355 —18o8.2medailles.
+- 1.Entree a Madrid (Andrieu et Brenet). Mill. 42, 234. 40 mm. t. b.
+- 2.L'Etrurie reunie a la France (Andrieu et Brenet). Mill. 42, 227. 4o mm. t. b,
+- 356 1809. 8 medailles.
+- 2.Les Anglais attaquent Anvers (Depaulis et Domard). Tres. 33, 4. 4I mm. f.d.c.3. Victoire d'Abensberg et d'Eckmuhl (Andrieu et Brenet). Mill. 4.Paix de Vienne (Andrieu). Mill. 45,249. 40 mm. f. d. c.  5. Bat. d'Essling (Brenet). Mill. 44, 240. 40 mm. t. b. —6. Bat. de Raab (Andrieu et Dubois).Mill. 45, 242. 40 mm. t. b.— 7.Victoires de 18o9 (Manfredini). Mill.48,248. 42 mm. t. b.-8. Rome
+- 一 1. Seconde entree a Vienne (Andrieu). Mill. 44, 239. 4o mm. f. d. c. 44,237.40mm.t.b.—
+- unie a la France (Andrieu). Mill. 45, 243. 40 mm. t. b.
+- 357 — 181o. 4 medailles. 1.Mariage av. Marie Louise (Andrieu). Etain bronze, sans revers. Trés.42, 1. 142 mm. t.b.-2. Meme évenement (Andrieu et Jouannin). Mill. 46,256. 40 mm. f. d. c.3. Arrivee de Marie Louise a Milan (Manfredini). Mill. 46, 258. 43 mm. b. — 4. Premiere decade du 19e siecle (Andrieu). Mill. 50, 269. 68 mm. t. b.
+- Bapteme du roi de Rome (Andrieu). Mill. 271, note.
+- 358—1811. 68 mm. f. d. c. Rare.— Voir l'illustration.
+- 359 1812. 3 medailles. 1.Ecole frang. des beaux-arts a Rome (Gatteux). Tres. 54, 7. 58 mm. t. b. 2.Bataille de la Moskwa (Andrieu et Jeuffroy). Mill. 51, 275. 40 mm. f. d. c. 3. Entree a Moscou (Andrieu et Brenet). Mill. 51, 276. 4o mm. t. b.
+- 360 1813. 3 medailles. 1.Bataille de.Vurschen （Depaulis et Brenet).Mill. 51,282.41 mm. 2.Bataille de Lutzen (Depaulis et Brenet). Mill.51, 281.4I mm. t.b.— 3.Bataille de Leipzig (Steiner). Bustes de Francois I. et Alexandre I. se regardant. Rv. Porte de Grimma. Jeton. 33 mm. t.b.
+## 361 Napoleon I.,1814. 5 medailles.
+
+1.Defence de 1'empire. Trés. 6o, 2.4I mm. t.b. Rare.2. Bataille de Monteron (Depaulis et Brenet). Tres. num. 6o, 6. 40 mm.—3. Paix de Paris. Mars arrete par Pax.Rev.Les armes des 6 Allies, en-bas: This is the work of Jehovah etc. Manque au Trés. et chez Mill. 56 mm. t.b. 4. Meme évenement. Legende dans une couronne. Rv. Leg. dans une chaine brisée. Fer. 52 mm. —5. Congres de Vienne. Tres. 72, 3. 76 mm. Etain.
+
+- 362— 1815. 4 médailles. 1. Retour de 1empereur. Mill. 52,287. 38 mm. f. d.c.—2. Bataille de Waterloo (Rogat）. Trés. 65,8. 4I mm. f. d. c.—3. Napoléon demandant un refuge d'Angleterre (Depaulis).41 mm. t.b.——4. Embarquement s. le Bellerophon (Webb et Brenet). Mill. 52, 289. 40 mm. t. b.
+- 363 — Reunion de 1o plaquettes et medailles en étain, sans revers, p.Andrieu, 1789 a 181o, se referant a Napoléon et la Revolution. Dans une boite en forme d'un livre, cour. de veau, aux armes de Napoléon, dore,un peu endom.
+
+No.358.
+
+<!-- image -->
+
+Contient:1789.Siege de la Bastille.— Arrivee du roi a Paris.81 mm. Trés 6, 5 et 13, 2.1800. Bataille de Marengo. 66 mm. Trés.77, 3. —Passage du S. Bernard. 66 mm. Trés.76,5.—1804..Napoleon, buste a dr.habit du sacre (2 exempl.). 65 mm. Tres. 1, 1.—1805. Josephine, tete a dr. 66 mm. Tres. 7, 13. —1810. Marie Louise, tete a dr. 69 mm. Tres 41,6.—Napoléon I., tete a g.I4I mm.Trés.4I,4.——Nap.et Marie Louise,tetes a g.I4I mm. Trés42，I.
+- 364 Napoleon I.,1818—40. 4 medailles.
+- 365 Louis XVII.—1 18o3.Abdication refusee (Andrieu).Tete a dr. Rr. Le roi refuse un document que lui presente une femme et un guerrier antique. En-bas: Pactiones abdicandi repudiatae. Varsoviae 18. Febr. 18o3. 5o mm. t. b. Manque au Tresor.
+- 1.A. Massena, prince d'Essling (marechal frang., mort 1817). 1818. tete a g.(Barre). Rv. Couronne et légende. 4I mm. f. d.c. 2.Pour les souscripteurs de:Victoires et conquetes des Francais de 1792 a 1815. Edi(Montagny). Tetes de Napoleon et Louis Philippe se regardant. Rv. L'arc de triomphe.52mm.t.b.——4.1840. Translation des cendres (Bovy). Inconnu a Mill. et Tresor num. 4I mm.
+- 366 Assignats.— Collection de 214 assignats emis par l'Assemblée Nationale et le gouvernement revolutionaire.
+
+tous portent l'inscription ,Hypoteque sur les domains nationaux. La loi punit de mort le contrefacteur, la nation recompense le denonciateur, alors La collection embrasse:
+
+Selon leur valeur les papiers sont de differente grandeur et de differ. dessin, la date de leur emission et la signature en facsim. d'un des Deputes.
+
+8pieces de50o livres.—11 p. de 40o1.—Ip.de 300et 1 de 250 1. 14 p. de 1oo 1., dont 2 av. la design. ,francs", 1 p. de go 1. —15 p. de 5o i., dont 4 sur une feuille non coupee.— 6p.de251. 15p.de Io1.,dont6sur1 feuille.—61 p.de5l., dont 40 sur 4 ff. de 10 p. chaque. —— 45 p. de 5o sols, dont 6 sur 1 f. —— 11 p. de 25 sols.— 21 p. de 15 sols, dont 20 s. If.— 4 p. de 1o sols.—Bou état, qq.un peu uses.
+
+- 367 Francois I. Tyrol.Iet 2okreuzers18o9. Aigle et legende: Gefuirstete Grafschaft Tirol.Rv. valeur.
+
+Monnaies frappees p. Andreas Hofer.
+
+- emise de la ville de Kolberg en Prusse, 18o6—o7.
+- 368 Kolberg.— Monnaie obsidionale en papier, 8,4 et 2 groschens
+
+Papier-monnaie manuscrit avec cinq signatures et le timbre du gouvernement de Kolberg, deux pieces de 4, une de 2 et une de 8 groschens. Trés rare.
+
+- 369 Napoléon I. 36
+- monnaies francaises frappees sous le Consulat et l'empire, ajoutee une de la revolution.
+- I.Révolution. Monneron de 5 sols. 1792. Pacte federatif et legende,b. I et 2 fr.an 12(18o4). Tete de Bonaparte et valeur, t.b.4.Cinq fr. an 12 (18o4),meme type, b.5. Napoléon I. Cinq fr. an 13 (18o5). Tete a la Titus.Rv.Republ.fr.et valeur,b.—6.Cinq fr.18o6. Meme type.—7. Cinq fr. 18o8. Tete lauree. Rv. Republ. fr. et valeur, b. 8.Cinq fr. 181i. Tete laure, Rv. Empire fr. et val. b. - 9. Cinq fr. 1815. Meme type.— 10. Deux fr.an 13（18o5), an 14(18o5),1806, monture et orillon.—12.Un fr.an 13(18o5,2 exempl.), 18o6, 18o8, 1812. Tete et val.—13.1 fr.an 13(1805),1806, 18o8,18o9. Tete et val.— 14.1/4 fr.an 12（1804), an 13（18o5),18o6,18o7.Tete et val.— 15.
+- 18o8,18o9.Tete et valeur.—11.Deux fr.1812.Tete et val. dore, av. 7 p. de billon. N. et val.:5 cent. et 10 cent. (2 variantes) 18o8; 5 cent. (sous le N.un V.), 10 cent. (sous le N. un W.Wolschat) 1814. Monnaie obsid. Anvers. 1 decime 1814 et 1815 Monnaie obs. Strasbourg.
+- 370 Napoleon I., Napoleone Imperatore e Re: 5,2, et 1 lire. Tete et armes., 1o soldi (2 variantes) 5 et 1 soldi; 3 et 1 centesimi. Tete et couronne et Io cent. N. av. cour. et val. Io pieces. 1808-14.
+
+Serie complete de toutes les monnaies, sauf les monnaies d'or, frappees en Italie180814.
+
+- 371 Jerome Napoleon,roi de Westphalie (18o7—14). 27 monnaies
+- 18o8-I3 ajoute qq. pieces en double.
+
+1.Thaler. Tete a dr.Rv.Koenig von Westpfalen.Fr.Pr.X.eine feine Mark.1812.C.t.g.—2. 2Thaler 18o9.Tete a g. et val.,nach dem Reichs Fuf fein Silber", t. b.—3. /3 213 Thaler.24 Mariengroschen. 1810.—4. 5. 1812. Tete a dr.et Val. ,nach dem Leipziger Fuf fein Silber",b.—6./Thaler.1813.Tete et val.,n.d.Leipz. FuB.— 7. 1/Thaler.18o8et18o9.— 8. 1/Thaler.181o. ,N.d.R.F.f. Silb.T.b.—9.1 Pfennig 181o. H. N.et val. 10. Deux fr.18o8. Tete et val. b.—11. I, 2, 3,5, 10 et 20 Cent. 1812. H. N. et val. b.-I2. Meme serie. 18o9,1810,1812(1 cent.en double).
+
+- 372 Joseph Napoléon,roi de Naples (18o6—18o8) et d'Espagne
+- (18o8—13) 4 monnaies div.
+- 1.Naples. Scudo di 120 grani 18o8. Tete et armes, b.—2.Espagne. Piaster de 20 Reales 181o, tete et armes, t. b.—3. Quatre reales 1811. Tete et armes,b.—4. Un real.1813,b.
+- 373 Joachim Murat, grand duc de Berg （18o6—18o8) et roi des
+- deux Siciles（18o8—15),8 div.monnaies.
+- 1.Berg. 3 Stuber 18o6.J. av.cour. et laur. et val.—2.Siciles. 12 Carlini 18o9.Tete a g. et val. b.3. Deux et trois grana 181o. Tete etval.—4. Cinq lire 1813. Tete et armes, t. b.—5.1 1/e,Iet 2 lire. 1812—13, tete et val. b.
+- 374 Elisa Bonaparte et Felice Bacchiochi, souverains de Lucques et Piombino （18o5—18o8), 5 franchi 18o7,1 fr.,3 et 5 cent. 18o6. Tetes et val. b.
+- 375 Marie Louise, imperatrice de France, duchesse de Parme, 1815.
+- 5, 2, et 1 lire. Tete et armes, 1o et 5 soldi. Tete et monogr. cour.
+- 376 Decorations d'honneur, 5 pruss., de lepoque des guerres na-
+- 1.L'étoile de l'Aigle noir, brodee en argent. 11 cm.—2 2.Meme piece. 9cm.—3. Croix brodee en or et argent d'un chapitre de demoiselles prussien. Av.l'aigle et couronne. Rare.—4. Meme croix sans couronne. 5. Croix en miniature en argent de la croix de fer 1813. Haut.3 cm.
+- poleonniennes.
+- en bronze, legende: Fur lange und gute Dienste, av. ruban av. le brevet, pour Chr. F. Mehlhorn de Wildbach pres Schneeberg, combattant des campagnes de 1812—15, date Dresde 13 dec. 1833, timbre et signe:
+- 377 Medaille militaire saxonne,(16 mm) Fr. Hein. v. Koppenfels Colonel. In-4° obl.
+- Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 378 Medaille de St. Helene en bronze, av. la medaille en miniat,
+
+Av.le brevet p. Ch.F.Mehlhorn.
+
+- fondee p. Napoleon IHI pour tous les anc. militaires qui ont servi sous les drapeaux franc. de 1792 a 1815. Toutes les deux av. rub., vert. et rouge.
+
+## VII. Bijoux en fer, etc.
+
+- 379 Bijoux en fer,
+- 1.Breloque, ancre lauree en fer, au centre petit bouclier en argent. 51X33 mm. —2.Broche ovale, en fer.Ouvrage de filigrane,au centre bouclier d'or avec un bouquet de roses en fer de fonte. 45X3o mm.—3. Grand breloque de fer en forme d'une medaille, couronne de feurs et coquilles au
+- vulgairement nommes ,Gold gab ich fuir Eisen" (or donne pour fer). En 1813 tout le monde en Prusse sacrifia ses bijoux pour remplir les caisses vides de letat, et en échange on s'acheta de tels bijoux en fer: Breloque, broche, pendants d'oreilles etc., 6 pieces.
+- centre medaillon en argent: Frederic le grand a cheval, Rv. Lion. 67 mm.
+- 5.Meme type. 2 pieces 23X13 et 19X15 mm.-6. Pendants doreilles,
+4. Medaillon en fer dore, buste de Frederic Auguste de Saxe. 3oX24 mm.
+- buste de femme et lyre ornementee. 5o mm.-Voir l'illustration.
+- 380 — bracelet en filigrane de fer de quatre petites chaines, fermoir ornamente avec un guerrier antique sur fond d'argent, long.19l cm,
+- larg. 34 mm. Jolie piece.
+- 381 — bracelet en fer de cinq reseaux ovales de feuillages reunis par petits ornements de feuilles et grappes. Fermoir au fond d'argent,long. 21 cm,larg. 67 mm.2 pieces.
+- 382— bracelet en fer de 7 reseaux ovales avec ornements gothiques, fermoir ajouree aux ornements de feuillages au centre medaillon en argent orne d'une portr. de femme. 1912X41/e cm.2pieces.
+- 383 — croix brabanconne avec riche decoration arabesque entrelacee de feuillages et feurs, au centre petit bouclier d'argent orne d'une croix, d'une ancre et d'un coeur en fer, av. chainette en filigrane
+- de fer ornem. 87 X65 mm, la chain. d'une long. de 48cm.
+- 384 — croix brabanconne av. ornements gothiques, au centre ancre, feches et arc sur fond d'argent. Av. chainette en filigrane av. fermoir au bouclier d'argent ornemente de feuillages. 72X6o mm, chain. 56 cm.
+- 385 — croix brabanconne av. ornem. de feuillages et feurs, au centre rossette ajouree, ornee d'un portrait argente en medaillon av.monture d'or. Av. chainette de nombr. anneaux de fer. 8oX70 mm, chain. 48 cm.
+- fligrane de fer de fonte, forme de quatre joints doubles qui sont reunis par trois camees elegantes aux montures d'or av. reliefs en style antique: trophees, sacrifice de l'armee,
+- 386—collier enf sacrifice du peuple). Long. 45 cm.
+387 Bijoux en fer, medailles commemoratives, 2 pieces, 1814.
+
+- 1.Prise de Paris, ovale,fer de fonte, Victoria et legende.33X27 mm Av.petite monture doree et orillon.(Manque chez Heyden).—2.Pour non-combattants des annees 1813-14. Ovale, fer de fonte. Croix et légende: F. W. fuir Pfichttreue im Kriege. 32X25 mm. S. ruban. (Heyden 559.)
+- 388 8—bourse en filigrane de fer fondu, 12X8 cm, fermoir orne de gremillets, sur le bouton le mot: Souvenir, en-bas 2 breloques. Belle piece.
+- 389 — collier forme de 17 petites medailles de victoire av. jolies
+- montures d'argent, dont 15 av. la Victoria et legende: Gott segnete die vereinigten Heere, Rv. noms de batailles etc., 2 en ovale av. camees, bustes du roi de Prusse et de l'empereur des Russes, une ovale plus grande legende se referant a l'entree a Paris.  41 cm. Medailles frappees p.la librairie Jager a Francfort.
+- Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+
+No.379,etc.
+
+<!-- image -->
+- 390 Bijoux en fer, croix latine en fer, au bout des barres quatre tetes d'anges, s. les barres l'oeil de Dieu, l'ancre, le calice et orneentouré de 4 couronnes. 7oX53 mm. Av. jolie chainette d'anneaux, ornee de rossettes en filigrane d'argent, long. de la chain. 29 cm.
+- 391——.1 meme sujet, sur le bouclier du centre une tete d'ange. Av. chainette formee de nombr. anneaux fermee p.une broche de fer. 70X 53 mm, chain. 44 cm.
+- 48X32 mm, long. de la chain. 48 cm.
+- 392 — croix latine en fer, au bout des barres ornements de feuillages en argent, au centre des boucliers ovales d'argent, sur lanterieur le mot ,Germania", sur le poster. l'ancre. Av. chainette formée de rossettes enf filigrane d'argent reunies par petits anneaux.
+- 393 — petite croix en fer, les bouts des barres av. petits ornements de feuill. en argent, au centre des boucliers ovales en argent. Av.: Victoria B. L. (bei Leipzig), Rv.18. Oct. 1813. Av. chain. en filigr. d'argent. 35 X 35 mm, chain. 40 cm.
+- 394 — croix, 12 pieces en fer, de divers genre, avec petits boucliers d'argent, emblemes allegoriques et inscriptions, des annees 1810
+
+La collection embrasse: 9 pieces commemoratives de la bataille de Leipzig, 16.—19.Oct.1813 (renfermant Heyden No.561 fa i).— mort de la reine Louise de Prusse 181o.—1a l'occasion de la reddition du char
+
+- a 14. haut. 2o a 43 mm, l'une de 9 cm.
+
+1.rappelant la triomphale de la porte de Brandebourg a Berlin 1814.I sans designation ornee d'arabesques et de feurs. 9x6il, cm. — Belle et rare collection.
+
+- 395 —Louise, reine de Prusse, 1776—181o, medaillon ovale en fer,
+
+Heyden 56ia.De la fonderie roy. de Berlin. Au rev. les dates de la Piece commemorative emise a Breslau
+
+- buste a dr. en relief, 4X3'e cm, monture en or ciselée, av. orillon. Rare.
+
+naissance et de la mort de la reine. en compensation des bijoux en or sacrifies pour la patrie.
+
+- 396— de la reine, au revers une capsule doree renfermant une boucle des cheveux de la reine Louise. Sign.K. 50X35mm. On a ajoute un document confirmant que la reine elle-meme fit present de cette piece a la comtesse Reichenbach Gescholz nee comtesse Solms a
+
+Keitschdorf.
+
+- 397 — anneau en or, orne du buste de la reine Louise en fer fondu,
+- av.couronne enor. Diam. 2o mm. Bel ouvrage de l'époque.
+- 398 anneau en or, orne d'un medaillon au buste de la reine Louise en fer fondu. Diam. 17 mm. De l'epoque.
+- 399 —collier en fer, mis par la comtesse Doenhoff le jour des funerailles de la reine Louise en 181o. 14 joints en filigrane de
+- fer aux feurs et feuillages. Long. environ 4o cm. Ouvrage magnifique en fer fondu.
+- 400 Bijoux en fer, pendants d'oreilles, deux, en forme d'une poire, formee p. quatre morceaux de fer ajoure aux arabesques,
+
+Jolies pieces artistiques.
+
+- reunis aux bouts, long. 62 mm.
+- 401  anneau en or au buste de roi Frederic August de Saxe dans un medaillon de fer. 20X17mm.
+- Belle piece,
+
+le portrait ressemblant une camee a la ,Egyptian Black" de
+
+- 402 — anneau en fer, au milieu un petit bouclier en or av. couronne de rayons et legende: 18. oct. 1813. Victoria, vers 1814. Rare, pour les intendantes des hopitaux militaires.
+
+Wedgwood.Vers. 18o8.
+
+- au buste de Frederic Guillaume IHI dans un
+
+Le joli portrait ressemblant un camee a la ,Egyptian Black" de Wedgwood, apparemment d'apres G. Loos.
+
+- 403 anneau dore, medaillon,en fer 16X12 mm.
+- anneaux en fer de fonte, 7 pieces de lepoque de 1813 a 1814. 1.Sur le petit bouclier ，,Paris le 31 mars 1814".—2. Cisele,s.le bouclier 3.Deux tetes de guerriers port. un bouclier av. coeur, croix et ancre. —— 4. Sur un boucl. octogonal coeur, couronne et ancre.——5. Boucl. porte p. tetes de guerriers av. gremillets.— 6. Etroit et mince av. 3 médaillons (coeur, croix et ancre).— 7. Etroit au bord cisele av. boucl. en
+- 404 一 pigeon.— argent, lég. ,Gold gab ich fir Eisen".
+- 405 anneau a cachet avec un A gothique grave, 22 mm. Vers
+1813. Tres rare.
+- 406 —croix en style gothique rayonnante a 12 pointes, en fer, au centre une rossette sur fond d'or entouree de fleurs. 9o X75 mm, Piece magnifique.
+
+Ces petits et simples anneaux ne se trouvent que fort rarement. Ils furent mis au lieu des anneaux d'or delivres a la monnaie de Berlin pour 1'équipement de l'armee. Von Heyden,Ehrenzeichen, 216b.
+
+- 407 —anneau nuptial en fer avec legende: ,Gold gab ich fuir mm, probablement destine 12 pour la main d'une femme.
+- 408 — anneau nuptial en fer avec legende:,Eingetauscht zum
+- 409 — chainette de montre formee de 9 medailles émises par la librairie Jaeger a Frankfort s. M. Les petites medailles commemoratives des victoires des Allies sont reunies par jolies montures en argent. Av. Victoria av. legende: ,Gott segnete die vereinigten Heere, Rv.:noms de diverses batailles. Long. 26 cm.
+- Wohl des Vaterlandes". Diam. 19 mm, larg. 6 mm. Tres rare. Un des fameux anneux fabriques dans la fonderie royale deGlauwitz et émis par Rudolphe Werkmeister a Berlin sous l'autorisation du gouverne-militaire au printemps de 1813 en échange des anneaux en or.
+
+Ces chainettes furent frequemment mises apres les victoires des Allies. La presente a comme breloque une plus grande medaille ovale a monture en
+- 410 Bonaparte, Jerome, roi de Westphalie, deux boutons a manchettes dores, faits de monnaies de 5 cents frappees au royaume de Westphalie en 18o9 et 1812.— Clef a montre doree, avec
+- 411 Broche octogonale en argent, av. ornaments et buste laure de
+- buste de Jerome dans un medaillon emboute. De l'epoque.
+- Blucher grave. 32 cm.
+- 412 Boutons a chemise, 3, dores, avec bustes de Fredéric le grand, sur nacre de perles. Ouvrage allemand, vers 1813.
+
+Rare et tres interessant. De tres petites portions du coloris se sont detachees.
+
+- de Napoleon I. et du prince Poniatowski peints en couleurs Octogones de 16X 18 mm.
+- 413 Louise, reine de Prusse, 1776—181o, broche avec joli medaillon au buste de la reine, peint sur porcelaine. Le buste est entoure d'une guirlande portee p. 3 amourettes, en metal fondu argente.
+- 414 — collier en argent avec medaillon en fer fondu (buste de la reine en relief d'apres Daehling), Revers argente. 4o X 32 mm.
+- 50X35 mm. De lepoque.
+- —broche en jais au buste de la reine en argent emboutti Ovale, en monture d'argent. 5oX44 mm.
+- 415 (d'apres Bettkober).( Belle piece de l'epoque.
+- 416 Napoléon I., bague en alliage jaune dore, avec 2 couronnes et camee blanc au buste de l'empereur a dr. 16X 13 mm, vers 1810. 6 gr. Emboitage de l'époque. Jolie piece.
+- 417 Chainette de montre avec clef, faite de I1 monnaies argentees,
+- francaises et italiennes (pieces d'un franc, de 1o et de 5 soldi. 1808a1813).
+
+## VIll. Pendules et montres.
+
+- 418 Pendule viennoise, style empire, en bois de hetre noir. L'horloge ronde avec sonnerie repose sous un portique a l'arc rond, av. ferrures ornamentees et laigle franc. couronne en laiton dore, haut. 50cm.
+- 419 Pendule viennoise, style empire, en bois de hetre joliment incruste. L'horloge en cage quadrangulaire est suspendue aux quatre colonnes d'une salle des glaces, couronnee d'un vase dore. Sur le large socle se trouve une representation du Chronos et d'autres ornements en lame d'or.Av. sonnerie des quarts d'heure et un carillon dans le socle, haut. 65 cm. Dans une cage de verre. En
+- fonction.—— Voir l'illustration.
+- 420 Pendule viennoise, style empire, bois de cerisier joliment incruste, la cage quadrangulaire portee par les deux colonnes d'une salle des glaces avec ornements en lame d'or. Avec sonnerie des heures, haut. 52 cm.
+- 421 Montre de l'epoque de Napoleon I., carillon émaille avec representation polychrome d'un guerrier antique et d'un puits. La cage en argenterie Christofle, le rouage dore et en partie ajoure. Diam. 5cm. Ouvrage allemand.
+- 422 — carillon emaille av.represent. polychrome de l'empereur Francois sur un siege sous un dais a l'aigle imper., la cage en argent, le rouage dore et garni de pierres rouges, en partie ajoure avec monture d'argent.Diam. 6 cm.En fonction.Ouvr. allem.
+- 423  carillon émaille av. les bustes polychromes de Napoleon I., de La cage en alliage d'or, le rouage dore et en partie ajoure, diam. 5 cm,
+- l'empereur allemand et de l'empereur des Russes. fonctionne. Ouvr. allem.
+- Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+
+No.419.
+
+<!-- image -->
+- 424 Montre de lepoque de Napoleon I., sur la. surface deux femmes en peinture émaillee qui portant le carillon. Cage en argent, rouage dore et ajoure, signe J. M. Spaeth, Regensbourg. Diam.5 cm. Fonctionne.
+- 425 — le carillon soutenu par une femme assise en peinture polychrome emaillee. Cage d'argent, rouage dore et en partie ajoure. Diam. 5 cm.Fonctionne. Ouvr. allem.
+
+## IX. Tabatieres, fourneaux de pipe.
+
+- 426 Alexandre 1., empereur des Russes, 1777—1825, tabatiere ronde en ebonite, au medaillon embouti et dore d'Alexandre I., Morel f, av.inscription sous verre:81/cm. Ouvr. allem.Vers 1815.
+- —le meme et limperatrice Elisabeth Alexievna, tabatiere ronde en ebonite av. les bustes d'Alexandre I. et d'Elisabeth Alexievna (Marie Louise de Bade) en medaillon embouti dore, inscr. en russe
+- 428 Austerlitz. — Tabatiere ronde en ebonite av. representation allegorique emboutie de la bataille d'Austerlitz. Legende: Immodus concurrere vidit.— Il a vu sans effroi leurs violens efforts.— Bataill des trois empereurs.  7ll cm. Ouvr. frang. de 1'epoque. le lion angl. s'enfuyant a g., au fond la mer avec navires.
+- 427 1814, s.verre. 81/cm. De l'epoque. Rare.
+- viceroi d'Italie, medaillon de Beauharnais embouti et dore av. inscr. s. verre.
+
+Le bord inter. du couvercle un peu rompu.
+
+- 429 Beauharnais, Eugene duc de Leuchtenberg, 81/2 cm. Ouvr. franc. de l'epoque.
+- 430 Belle-Alliance.— Tabatiere ronde en bois noir,le couvercle orne d'une gravure represent. la fin de la bataille de Belle-Alliance. 81/cm. Ouvr. allem.
+- 431 Berlin.  Tabatiere ronde en ebonite, sur le couvercle une gravure coloriee representant la Porte de Brandebourg av. les bustes des 3 allies, entouree de 22 petits medaillons des plus éminents generaux. 9'/ cm.Vers 182o. Rare.
+- 432 Blucher, Gebh. Leberecht, feldmarechal prussien, tabatiere ronde
+
+Un petit morceau du bord du couv. manque.
+
+- en' ebonite au medaillon embouti et dore de Blucher, legende: Blicher Feldmarschall von die (l) preuss. Armee. Sous verre. 8 cm. Vers 1820.
+- 433
+- 3— meme type, Collot f. 8 cm. . Vers 1830.
+- 434 Blucher, Gebh. Leberecht, feldmarechal prussien, tabatiere ovale
+- en fer-blanc noirci, av. medaillon de Blucher (buste en uniforme), Belle piece d'un habile miniaturiste allemand.
+- 435 (Elchingen.) - Tabatiere ronde en os sur le couvercle au bord dore une gravure color. representant la bataille d'Elchingen le 14. 0ct. 18o5. L'inter. garni de corne. Diam. 8 cm. Vers 182o. Belle piece.  Voir l'illustration.
+- 436 la Famille imperiale, tabatiere ronde en bois brun clair, ornee d'un medaillon en metal embouti dore representant les bustes de Francois, de Marie Louise et de Napoleon. Gayrard f. Inscript. en frang. 61/e cm. Ouvr. franc. de l'epoque.
+- 437 Fontainebleau.— Tabatiere ronde en bois brun, avec une representation en metal embouti dore sous verre: Les adieux de Napoléon de la Garde imper. d'apres Vernet. L'inter. garni de corne. 8cm. Ouvr. franc. de l'époque.
+- 438 Frederic Guillaume Ill., roi de Prusse, tabatiere ronde en ebonite, av. medaillon embouti dore du roi, av. inscription en francais.
+- 8 cm. Vers 18o5. Rare.
+- Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+
+No.435.
+
+<!-- image -->
+- 439 Frederic Guillaume Ill., roi de Prusse, tabatiere en bois brun au buste embouti dore du roi av.inscr. frang., sous verre.L'inter. garni de corne. 81/ cm. Ouvr.allem. Vers 18o5.
+- 440 — tabatiere ronde en ebonite av..portrait en miniature du roi Frederic Guillaume Il. en uniforme.Belle peinture a vernis a la
+- Stobwasser. Diam. 81/2 cm.- Vers 1815.
+- 441 Louise, reine de Prusse. Tabatiere ronde en ebonite,sur le couvercle une jolie miniature: Alexandre I prend conge de la reine Louise aupres du sarcophage de Frederic le Grand 18o5. Peinture a vernis a la Stobwasser. 1o cm. Vers 1810. Le bord du couvercle un peu endommage.
+- 442 — tabatiere ronde en ebonite, av. medaillon de la reine Louise
+- en metal embouti dore sous verre. 8 cm., vers 1810.
+- 443 Marie Louise, archiduchesse d'Autriche, femme de Napoleon I., 1791 a 1847, tabatiere ronde en bois brun clair, av. medaillon en metal embouti dore de limperatrice sous verre.6 cm. Ouvr. frang. de lepoque. Piece jolie.
+- 444 Les Monarques allies. — Tabatiere ronde en ebonite av. medaillon embouti et dore representant les bustes de Francois I., d'Alexandre I. et de Frederic Guillaume III. L. Heuberger fec. Av. inscription, sousverre. 9cm. Ouvr. allem. de Pepoque.
+- Boite a cigares en fer-blanc brun, sur le couvercle une gravure color. represent. la glorification de Napoleon par
+- 445 Napoleon I.— Ouvr. hollandais de l'epoque, rare.
+- 446 — tabatiere ronde en ebonite, au medaillon embouti de Napoleon comme premier Consul d'apres Brennet.8 cm. Ouvr. franc. de P'epoque.
+- 447 tabatiere ronde en ebonite av.le portrait en miniature de Napoleon (buste en uniforme d'apres Daehling). 8i/ cm. Ouvr.
+- franc. de lepoque.
+
+Piece rare, jolie peinture a la Stobwasser.
+
+- 448 tabatiere ronde en ebonite av.medaillon embouti du premier Consul d'apres Bouillon, rouge-brun. L. A. M. f. Linter. garni
+- de corne.. 8 cm. Ouvr. franc. de epoque.
+- 449 — tabatiere ronde en ebonite av. representation en metal embouti dore de Napoleon a cheval revetu du manteau, Gayrard fec. Diam. 8cm. L'inter. garni de corne. Ouvr. franc. vers. 1812.
+- 450 — tabatiere ronde en bois noir,av. medaillon embouti dore du premier consul M.&amp; P. F., sous verre. 7 cm. Ouvr. franc. de lepoque.
+- 451 Napoleon I., tabatiere en corne av.representation en relief de Napoleon aupres du sarcophage de Frederic le Grand, av. legende: S'il n'etait pas la je ne serais pas ici. 5/X81/ cm. Ouvr. frang. vers1820. Belle piece.
+- 452 — tabatiere ronde en bois brun clair, av. medaillon en metal Berlot f.Sous verre. 711cm. Ouvr. franc. de lépoque. Belle
+- embouti dore representant les bustes de Napoleon et de Marie Louise. et rare piece.
+- 453 — tabatiere ronde en bois du poirier brun, le couvercle av. une representation allegorique du l'empereur entoure de trophees en bois sculpte,le revers ornemente.Diam. 8 cm. Bel ouvr. franc. vers 1815.
+- Piece belle et artistique.
+- 454 — tabatiere quadrangulaire en corne avec representation finement sculptee: ,Marie Louise et son fils au cenotaphe de Napoleon" av. buste de lempereur, sur le socle la legende: ,Au courage malheureux". 51/X91/4 cm. Ouvr. franc. vers 182o.
+- 455 — tabatiere au petit chapeau, c'est-a-dire en forme d'un chapeau de Napoleon, en corne sculptee, sur le couvercle la colonne Vendome d'apres Seurre av. la legende: ,Napoleon le grand cheri de la Victoire. Il sut par son genie eterniser sa gloire". Ouvr. frang.
+- Jolie et rare piece. De telles tabatieres furent frequemment en usage, particulierement parmi les anciens militaires. Elles ne se vendirent que secretement par ce que leur vente fut defendue pendant la restauration.
+- de lepoque vers 1818. 4X8cm.
+- 456 — tabatiere ronde en ebonite, sur le couvercle une gravure color. allegor.:, ",Songe de Bertrand',.I Diam.9 cm. Ouvr. franc. vers 1820.
+- 457 Paris.  Tabatiere ronde en ebonite sur le couvercle une reOuvr. franc. vers
+
+Piece interessante et tres rare.
+
+- Paris1789. L'inter. garni de corne. 8 cm. 1795.Rare.
+- 458 St. Helene. — Tabatiere de St. Helene, ronde en ebonite, sur le couv. une gravure color. representant la tombe de Napoleon sur St. Helene, entre les branches d'un saule pleureur la silhouette de lempereur debout au petit chapeau. Monture doree. 9 cm. Ouvr. franc. de la Restauration.j Jolie et rare piece.
+- 459 Schwarzenberg, C. Ph. prince de, feldmarechal autrich., tabatiere ronde en ebonite av. medaillon embouti dore du prince.1 L.Heuberger féc. Av. inscription, sous verre. 8 cm. Ouvr. allem. vers 1825.
+- 460 Tabatiere ronde en ebonite, sur le couvercle une gravure teintee: Le serment des allies. Av. legende: Die edlen Herrscher schwuren
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+Rare,le bord un peu endommage.
+
+- am Altare Europens Ruhe kraftvoll zu erhalten. et angl. Diam. 81/ cm. Vers 1813.
+
+En allem., ital.
+
+- 461 Tabatiere ronde en ebonite, sur le couvercle une gravure coior.
+
+Wellington,Kleist, Schwarzenberg,Bulow,Platow,Wrede, Czernitschew,Jorck.
+
+- allegor. Couronne de chene et legende: ,Bringt Ihnen dreimal Lebehoch, zerbrochen ist Europens Joch durch Ihre tapfere Hand! L.Schlemmer fec. Ouvr. allem. 1815. Dans le feuillage les noms: Wittgenstein, Charles Jean, Koutousow, Blucher,
+- 462 Tabatiere, couvercle d'une, en fer-blanc, couvert d'une jolie gravure coloriee (voiture du train des équipages et piquet franc.) verni Vers18o6. 91/X7cm.
+- 911 cm. De toute rarete.
+- 463 Alexandre I., empereur des Russes, fourneau de pipe av. le buste de l'empereur en relief a dr., en uniforme. En porcelaine de la manufacture roy. de Berlin, haut 1o cm. Couvercle argente. Vers 1814.Rare.
+- 465 —Fourneau de pipe en porcelaine, av. le buste peint du roi, au bord dore. Av. la marque de la manufacture roy. de Berlin, haut. 12 cm, vers 181o.
+- 464 Frederic Guillaume IlI., roi de Prusse. — Fourneau de pipe au buste du roi en relief, en uniforme, a gauche. En porcelaine de la manufacture roy. de Berlin.Haut. 8 cm.Vers 1812. Present du roi a un officier.
+- 466 Koerner, Th., le celebre poete allemand. — Fourneau de pipe au buste peint. de Koerner en uniforme. Av. la marque de la manufacture de Meissen. Haut. 15 cm. Av. couvercle. Belle et
+- 467 — Fourneau de pipe avec les portraits de Koerner et Schiller. debout, peinture de Rudolstadt. En porcelaine thuringienne. Haut. 8cm. Couvercle argente et ajoure. Piece curieuse et rare.
+- rare piece de l'epoque.
+- 468 Leipzig. — Fourneau de pipe avec une scene de la bataille
+- de Leipzig, le Prince de Schwarzenberg annoncant la victoire au monarques allies. Peinture a la main de Rudolstadt. De la manufacture de Meissen. Couv. argente. Haut.14 cm. Vers 1820.
+- 469 Louise, reine de Prusse. — Fourneau de pipe, au buste de la reine dans un medaillon au bord dore, peinture sur porcelaine, de la manufacture roy. de Berlin. Av.couvercle argente et a ajoure. Haut.12cm. Vers 1810. Av. marque. Belle piece.
+- 470 —la meme et Frederic Guillaume II.—Fourneau de pipe aux bustes des deux monarques en relief. De la manufacture roy.
+- de Berlin. Couv. argente et ajoure.  Haut. 13 cm. Rare piece. Present du roi au Colonel Boden a Nordhausen en 18o6.
+- Fourneau de pipe en forme d'un buste de l'empereur en uniforme d'artillerie, peinture polychrome doree. En
+- 471 Napoleon I. 一 porcelaine francaise. Haut.8cm. Vers 1820. Belle piece fort rare.
+- 472 fourneau de pipe en porcelaine avec representation color. de Napoleon·a cheval en relief. Porcelaine thuringienne. Vers 182o,
+- haut. 13 cm.
+- 473—fourneau de pipe av.representation coloriee de Napoleon comme chef de l'armee, porcelaine thuringienne, haut. 11 cm., vers 1825.
+- 474'— fourneau de pipe avec statuette bronzee de Napoleon sous un portail, entoure de branches au initiale N., jolie peinture en or. Porcelaine francaise. Haut. 1o cm.Vers 1810. Belle piece de l'epoque.
+- 475 fourneau de pipe en porcelaine blanche au couvercle en double, en ouvrant le couvercle super. une statuette de Napoleon s'eleve dans lattitude connue les bras croises, a cote la legende ",Il n'est plus". Vers1821. Haut. 15 cm. Piece curieuse de lepoque apres la mort de Napoleon, quand les Bourbons tacherent de supprimer la memoire du grand empereur dans le peuple. Comme la police rechercha énergiquement ces bibelots-la,ils sont fort rares.
+- 476 — fourneau de pipe en porcelaine blanche av. couvercle dore au portrait de Napoleon, figure entiere debout d'apres Daehling, av. cure pipe en laiton av. statuette de Frederic le Grand comme poignee, figure entiere debout a la canne, doree. Haut. I2 cm. Ouvrage de Berlin du temps avant 18o6 quand on s'attendit encore a la victoire des. soldats du ,vieil Fritz sur Napoleon.
+- 477 Recamier, Mme. de. Fourneau de pipe au buste decollete de Mme. Recamier (1777—1849). Beau portrait en peinture de porcelaine. De la manufacture de Meissen vers 182o.Av.la marque. Haut. 1o cm.
+- 478 Smolensk. — Fourneau de pipe av. la representation connue, deux soldats franc. portant sur leur fusil un offcier blesse du champ de bataille de Smolensk,d'apres J. L. Rugendas. De la manufacture roy. de Berlin. Haut. 15 cm. Couvercle argente, tuyau en corne et bois sculptes.
+
+Belle piece finement peinte et d'un coloris excellent et vivant.
+
+- 479 Fourneau de pipe tartare, en bois brun sculpte, figures de deux cosaques a cheval (l'un du Don, l'autre de la Crimee). Av. couvercle ajoure. Haut. 13 cm, larg. 8 cm. Bel ouvrage russe du commencement du 19e siecle.
+## X. Curiosites, souvenirs etc.
+
+480 Amulette russe (autel domestique) a l'image de St. Nicolas en relief, bronze fondu av. inscription. 98 X 58 mm. Vers 1810. Rare. Ces amuletts furent portees frequemment par les soldats russes pendant les guerres Napoleoniennes. Provenant de cosaques de Leipzig.
+
+No.481.
+
+<!-- image -->
+
+- 481 — avec deux pieces laterales s'ouvrantes, en bronze fondu embouti, en partie émaille en bleu. Au milieu la Ste. Vierge av. lEnfant, s. les parties lat. 4 representations de l'ecriture sainte av. inscrip.——Voir
+- tions 9o X 1o2 mm. Vers 181o. Provenant de Leipzig. l'illustration.
+- 482— 1 meme type.Au milieu la vierge Maria av. lEnfant, sur les parties later. 6 images doubles de Saints, av. inscriptions.
+- 6oX90 mm. Vers 1810.
+
+Provenant de cosaques de Leipzig.
+- 483 Blucher. — Cuillers, trois, en argent, les manches en filigrane au buste de Blucher. Long.61/cm. Ouvr. allem., vers 1814.
+- Belles pieces, l'une un peu endommagee.
+- 484 Aigle prussien en fer-blanc fort, de l'epoque de Napoleon I. Av. couronne double, globe et sceptre. Haut. 94 cm, larg. 63 cm. Rare et grande piece provenant de Breslau.
+- 485 Petit pot a anse, dore, style empire, contenant un metre a ruban. Haut. 5o mm. Vers.18o0. Ouvr. allem.Jolie piece.
+- 487 Ruban de paix de soie, souvenir de la fete de paix le 18. janv. 1816,imprime avec un poeme de 8 strophes commencant ,Laut ertons im hohen Liede ..
+- 486 Lampe style empire en fer-blanc vert, en forme d'un vase a anses, orne de 6 medaillons a tetes. Haut. 54 cm.
+
+Ajoute un autre ruban de soie blanche av. l'inscription ,Friede d. 18. I. 1816"
+
+- 488 Koerner,Theodor. Relique de Koerner, serrure de porte sur laquelle la main du poete eut souvent repose. Provenant de la chambre dans laquelle Koerner avait coutume de loger dans la maison de son ami F. Wilhelm Kunze a Leipzig, Klostergasse 166, pendant ses divers sejours dans cette ville.Ici ll demeura aussi en 1813 avant de joindre le corps franc de Lutzow et dicta son poeme le1 plus connu Lutzow's wilde verwegene Jagd a son ami Kuntze. Dans une boite a couvercle de verre. M. Buhrig, antiquaire a Leipzig, lui-meme a acquit et ote la ser-
+- rure quand cette maison fut demolie.
+- 489 Tenailles a balles de 1813.F Haut. vers 16 cm.
+- 490 Leipzig. Livres de quittances, trois, pour les contributions imposees pour couvrir les dettes occasionnees par la guerre. 1.Pour la maison de Kuster,Reichsstrasse 16,18o6-1822. 一 2.Pour la maison No. 555 du relieur Brecheisen, 1834.— 3.Pour la maison No. 1196 du sequestre Chr. G. Seidel, 18o7 a a1859.
+- 491 Louise, reine de Prusse. — Chiffonniere en bois richement sculpte,
+
+Piece tres curieuse, dont la reine ft usage dans leur jeunesse, provenant de la possession de la famille du valet de chambre de la reine Wolter a Berlin.
+
+- avec couvercle s'ouvrant et serrure, sur pieds. Peint en rouge et en vert.12X20cm.
+- 492 — sucrier ovale, avec couvercle, sur pieds, en porcelaine thu-
+- Restaure.
+- ringienne, decor en vert. Sur le couvercle un anneau av. deux medaillons au buste de la reine Louise. Haut. 8 cm. Vers 1812.
+- 493 Napoléon I.— Mouchoir imprime de 11 caricatures de Napoleon et de 4 portraits (Schill—Christophe-Friese—Hofer) aux angles. Designe au milieu: Stage of Europe Dec. 1812.— Europaeische Schaubihne 1812 et d'autres inscriptions en anglais et allem.
+- Imprime en rouge sur toile de coton anglaise, vers 1812. 75 X 87 cm.
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 494 Paris.  Plan Routier de la Ville et Fauxbourgs de Paris divise
+- en douze Mairies. Paris, chez Jean, 18o9. Grave. 551/X82 cm. Plie.
+
+Bon état, seulement dans les plis un peu endommage. Selon une note sur l'exterieur ce plan fut trouve a l'attaque du chateau de Malmaison par les Prussiens sur la table de travail de Napoleon par le volontaire prussien Du Moulin qui l'apporta en Allemagne.
+
+- 495 Cachet en laiton, du 4e bataillon, 1ie regiment de la Landwehr roy prussienne. Av.empreinte en cire.
+- 496 Flacon d'odeurs dont se servit un officier russe pendant la campagne de 1812—13. Coupe de bois a devisser en forme dun euf de pigeon, en dedans un vaisseau en plomb au couvercle fixe avec des vis, sur lequel se trouve empreint laigle russe.1 Rare.
+- 497 meme type, 2 autres exemplaires.
+- 498
+- meme type, sur le couvercle de la boite inter. laigle russe et une croix (amulette).
+- 499 Tyrol.,So ziehet Edelmann, Burger und Bauer in Thirol zu Felde". 4fgures, debout, grav. alleg. color. vers 18o9.2 201/2X171/ecm. s.marge. Interess. p. le costume.— Hofer, fg. ent., debout, grav. color.de 1ép.2oX13 cm.I Les marges racomm. -- Amulette impr. en usage en 18o9 chez les soldats bavarois. Av.lettre d'envoi datee de18o9 d'un certain J. Geissler d'Augsbourg. Tenailles a balles en fer. 1809. Haut. 16 cm. Bon etat.
+- 500 Du Pain blanc, deux tres petites pieces, de lepoque de 1813. Dans une boite en verre.
+
+bouchee.
+
+Tres curieux, illustrant la cherte de ce temps-la, les pieces ne sont qu'une
+
+- 501 Wellington.— Rasoir avec manche en corne jaune sur lequel est sculpte le buste de Wellington et des emblemes allegor. Av. légende: Victory-Peace-Duke of Wellington. D'origine anglaise vers 1820.
+- 502 Westphalie. Documents divers se referant a l'histoire du royaume
+
+de Westphalie et du roi Jerome Bonaparte. Reunion interessante contenant: I. Bulletin du consistoire a legard de la celebration du jour de naissance du roi. Hannover 5. XI. 1811. Feuille volante.— 2.Obligation de la caisse d'amortissement sur 2oo franco. 8. Ill. 18og. 2 ff. in-fol.3. Passe-porte de la police generale pour le serrurier Tiefenbach de Hanau.Cassel 7.IIl. 1811.In-4.4.Licence pour un cabaret pour la veuve F. Hoernlein. Cassel le 3o. Dec. 18o8. In-40. —5. Appel au Westphalois de rester tranquilles malgre l'invasion des Cosaques. Cassel 8. X. 1813.In-fol. — 6. Obligation d'etat sur 1oo fr. No. 3748. I1le classe. Cassel 1.IX.1811.2ff.in-fol.—7.Cachet roy. en cire. 4x4/ cm. —8. Coupons dinteret, 30, sur 5 fr. de la caisse d'amortissement.1813—20. Sur 5 ff.in-fol.
+## XI. Representations plastiques.
+
+- 503 Grenadiers anglais, neuf, avec les hauts colbacks, ci inclus un offcier et un tambour. Figures en bois sculpte peintes a la nature, les colbacks a poil, avec plumet blanc. Vers 181o. Haut. 13 cm.
+- Jolies pieces.
+
+Jouet du prince Fr. Ferdinand Jul. Leopold de Prusse, le plus jeune fils de la reine Louise. Provenant de la famille de Wolter, valet de chambre de la reine. Un peu endommage.
+
+- 504 Fantassin autrichien, avec colback. Figure en bois sculpte peinte,
+- vers 1790. Haut. 15 cm. Le fusil endommage.
+- 505 Leipzig.
+- 一 Scene de la bataille de Leipzig, l'attaque des Russes et Prussiens sur Probstheida le 18. oct. 1813,a quatre heures de l'apres-midi. Un des plus importants combats de la bataille des nations, representation en anciens soldats d'etain dessines par un peintre militaire vers 182o, en partie completee avec paysage modele et fond en aquarelle, en partie d'une date plus recente. 16tX81 cm. Haut. du fond 35 cm.
+
+d'effet de cette terrible melee.
+
+Representations de batailles comme la presente, presque de
+
+Apres plusieurs vains assauts sur Probstheida les Russes et les Prussiens attaquent de nouveau assistes par leurs dragons (a droite). Par la violente canonnade de l'artillerie a cheval franc. et le feu terrible de l'infanterie la cavalerie des Allies est ramenee et poursuivie par des dragons, hussards et chasseurs de la garde a cheval. Au fond le village de Probstheida bruilant, a gauche infanterie francaise avancant, au devant Napoleon a cheval, dans les premiers rangs, exhortant les soldats a la resistance. Probstheida reste cn possession des Francais.
+
+l'epoque, et en grande partie composee d'anciens soldats d'étain, qui se distinguent avantageusement des produits modernes por les details plus finement executes, sont extremement rares.
+
+- Strasbourg, en carton, peintes a la nature.
+- 506 Figurines de soldats d'infanterie franc., 85 pieces, haut. environ 110 mm, vers 182o executees par l'officier franc. J. L. Dupont de
+
+Curieuse collection composee de 4 officiers, d'un chirurgien, d'un tambourmaitre, d'un tambour, de 14 sous-officiers, de 4 sapeurs et de 59 grenadiers Les figures en complet équipement sont montees sur
+
+Le capitaine Jean Louis Dupont ne a Strasbourg prit part dans la bataille de Waterloo ou il fut gravement blesse, les deux jambes lui furent detachees. pour son empereur il a alors dessine et execute ces soldats. 1l mourut en 1861 chez ses parents, une famille Flemming a Cassel, de l'armee francaise. un pied en bois et montrent une habilite artistique.
+
+Plein d'enthousiasme de la quelle provient cette collection. Sauf qq. petits endommag. bien conserve.
+
+- et Francais dans la vallee de l'Inn super. a Landeck pendant
+- 507 Tyrol.— Le theatre du combat des Tyroliens contre les Bavarois
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+16cm.
+
+excellentes et.tres artistiques.
+
+Representation plastique tres.exacte jusqu'aux details et pleine d'effet de cette terrible lutte,composee de figures d'etain peintes a la nature en couleurs. de l'huile, au fond a gauche le chateau Landeck et les Alpes d'Oetzthal,a droite un autre chateau. Scene caracteristique de ce combat dans les montagnes. Les braves Tyroliens sous leurs commandants Hofer et Haspinger,hommes et femmes les enseignes deployees,exhortes s par des moines la croix levee en haut,en partie caches derriere des roches, des arbres et des barricades, combattant de toutes parts l'ennemi (les Bavarois sous le Colonel Bourscheidt, les Francais sous le LieutenantColonel Vassereau). Dans l'eglise defendue par.un canon et des tireurs et deja une proie des fammes on sonne le tocsin. A droite les Tyroliens attaquent une ferme defendue par des troupes bavaroises et francaises aux baionnettes croisees.Au fond sur une élevation les commandants de l'ennemi et leur suite a cheval observent le combat. L'execution et le groupement des figures, l'attitude des.combattants et des blesses,le paysage et tous les autres details, sont
+
+Piece curieuse d'une parfaite conservation.
+
+- huit, cavallerie saxonne, a cheval. Ouvr. de Haut.1o cm. Pieces anciennes et rares.
+- 508 Soldats d'etain, Thuringue vers 178o.
+
+## XII. Porcelaines et faiences.
+
+- 509 Alexander I., empereur des Russes. — Tasse avec sa soucoupe,
+- decor dore d'une branche fleurie au buste de l'empereur Alexandre I. en relief. Bordure doree. Porcelaine de Schlaggenwald. Haut. 7 cm.
+- 510 Berlin.—Tasse avec sa soucoupe de forme courbee, decor dore presentant le quadrige de la porte de Brandebourg a linscription: ,Willkommen wieder in Berlin 1814—Nun ewig unser". Bordure doree. De la manufacture roy. de Berlin, av. marque. Haut. 9 cm.
+- Buste en porcelaine de la
+- 511 Blucher,Leberecht prince de.— manuf. roy. de Berlin, av.marque. Haut 12 cm. Rare. Belle piece bien conservee.
+- 512— Tasse av. sa soucoupe, de forme de poire, style empire, decoree du buste noir de Blucher en uniforme sur fond en dorure mate, fond et large bordure en dorure brillante. Soucoupe a decor de feuillage et fruits. Porcelaine bohemienne. Haut. 1o cm.
+- Belle piece decorative.
+- 513
+- 514 Plats en faience,deux,decor polychrome de figures militaires (d'apres Knotel) presentant infanterie et cavallerie de l'epoque du roi Frederic Guillaume III. Villeroy &amp; Boch, Mettlach.Vers 188o. Diam.21 cm.
+- — Tasse de forme courbee en haut, decoree de la statuette de Blucher d'apres Rauch, doree et bordure dor., de Berlin av. marque. Haut. 7cm.
+
+Vente du 13 au 14 Octobre 1913.
+- Tasse avec sa sou-
+- 515 Frederic Guillaume Ill.,roi de Prusse. — coupe, decor d'un medaillon au buste du roi, anse et bord en dorure mate, de la manuf. roy. de Berlin, av. marque. Haut. 12 cm.
+- 516 — Statuette de biscuit, figure entiere debout, la main droite
+- reposant sur le socle d'un buste de la reine Louise. Haut. 2o cm. De la manuf. roy. de Berlin. Representation rare des dern.annees de sa vie.
+- 517 — Tasse avec sa soucoupe, a decor dore de branches et feuilles au buste de Frederic Guillaume Il. en relief av. l'annee 1813. Bordure doree.Porcelaine de Schlaggenwald. Haut.7 cm.
+- 518 Garde francaise, soldat de la, jouant avec un enfant assis sur une table, en porcelaine polychrome, sur un socle ornemente et dore. Haut. 7 cm. De Poessneck. Restaure.
+- 519 Jean, roi de Saxe. — Plat en faience a decor vert de feuilles et grappes de la vigne en relief, au centre le buste du roi en uniforme entoure d'arabesques verts. Marque: K. C. Diam. 18 cm.
+- Bel ouvr. de Saxe.
+- 520 Statuettes d'enfants, deux gamins revetus l'un du habit trop grand de hussard, l'autre du habit trop grand de la garde, av. shakos. Charmants pendants plaisants en style anglais en porcelaine polychrome et doree sur socle ornem. et doree. Dela manuf.de Fontaineblau ou Paris, marques J. P. (Jean Petit). Haut.25 cm.
+- Belles pieces, l'une restauree.
+- 521 Louise, reine de Prusse.- Tasse av. sa soucoupe en porcelaine grise au buste de la reine sur fond dore av. l'inscription: Sie lebt auf immer in den Herzen treuer Patrioten. 1o.I1. 1776—19.VII. 1810. Bord au decor de fraises et feuilles en or, pied, bordure et anse dores. De la manuf. roy. de Berl., av.marque.
+- 522 — Tasse style empire de haute forme, av. sa soucoupe, decoree d'un medaillon au buste de la reine Louise, bord et anse dores. De la manuf. roy. de Berlin av. marque. Haut. 12 cm.
+- 524 — Buste de biscuit d'apres F. G. Endler sur socle rond. Haut.
+- 523 - Tasse av. sa soucoupe, decor dore d'une branche feurie au buste de la reine, bordure doree. Porcelaine de Schlaggenwald, av. marque. Haut. 7 cm.  Rare.
+- 23cm.1 Manuf. roy. de Berlin.
+- 526 Napoleon I. a cheval, en uniforme revetu du manteau gris, d'apres David. Porcelaine polychrome et doree, sur socle polychrome de chicots et feurs. Porcelaine de Thuringue. Haut. 19 cm.
+- 525—1 Buste en porcelaine polychrome, d'apres G. Schadow 1794, sur socle rond. dore. Haut. 16 cm. Manuf. de Furstenberg. Rare et belle piece. Voir la reproduction.
+- 527 — Buste de biscuit, en uniforme les bras croises, d'apres Daehling.Biscuit de Paris. Haut. 2o cm.Restaure.
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 528 Napoleon I. — Statuette de biscuit, figure entiere debout, en long manteau, coiffe du chapeau, les bras croises av. telescope. Haut.25cm. Biscuit de Paris. Belle piece. Voir la reproduc-
+- tion sur la couverture.
+- 529 — Statuette en uniforme d'artillerie d'apres Daehling. Faience polychrome angl. Haut.12 cm.
+- 530 — Statuette de porcelaine polychrome, en uniforme de Colonel des chasseurs de la Garde. Porcelaine thuringienne. Haut. 6 cm.
+- Tasse av. sa soucoupe, style empire, decoree du chiffre N
+- 531 sotis,av.bordure doree.
+- dore entoure de tiges de myosotis, soucoupe au bouquet de myoManuf. de Meissen, av. marque. Haut. Iocm.
+- 532 — Tasse av. sa soucoupe, de forme de poire, style Sevres, decor en vert dore,au buste de Napoleon. Porcelaine de Saxe. K. P. Dresden I (?) av. marque en or.Haut. 11 cm. Jolie piece.
+- 533— Porte-fleurs av. statuette de Napoleon d'apres Daehling (haut. 6 cm) sur haut. socle courbe aux jolis bouquets polychromes. Haut. 14 cm. Porcelaine de Meissen.
+- 534 — Assiettes, cinq, decorees de scenes de batailles de la car-
+- riere de Napoleon I., 1799 a 18o6. En faience frang. Diam. 21 cm. Representant, Reddition d'Ulm — Jena  Passage du Danube — Mantoue —Aboukir.
+- 535 Bibelots grotesques, trois, en porcelaine polychrome et doree, re-
+- presentant Napoleon sur une couronne, Wellington sur un tambour et Nelson sur rouleau de corde. Manuf. de Hochst av. marque. Haut. 7 cm. Belle qualite.
+- 536 Reichstadt, Napoleon Francois Josephe Charles duc de. —Tasse av. sa soucoupe, decor polychrome et dore de branches et feuillage au buste du duc de Reichstadt en uniforme. Sevres au chiffre N. couronne. Haut. 8i/e cm.
+
+## XIll. Coiffures, cuirasses, vetements,trom=
+
+## pettes, tambours et équipement.
+
+- 537 Napoleon I. Chapeau et sabre de Bonaparte provenant de la possession du senateur Zarnelli a Milan. Le chapeau de forme republicaine ayant 531/ cm de longueur, le revers retrousse anterieur 181/g cm le revers poster. 21 cm de hauteur, la cocarde manque. Le revers en partie fragile et perfore laisse clairement voir son grand age, la tete est renouvelee.—Le sabre avec monture en bronze dore, garde quadrangulaire a branche unique av. tete de Dauphin au bout, pommeau tete de lion. Sur
+la lame courbe deux trophees.Fourreau en maroquin a trois garnitures en bronze dore, aux ornements de trophees etc. repousses et ciseles.  Piece magnifique qui se fait remarquer par la richesse de sa decoration, son état de conservation et l'eclat de sa dorure.
+
+Ajoute une lettre de lautiquaire K. Ed. Schulze de Strasbourg du 16 avril 1831 confirmant l'authenticite des deux pieces et leur provenance de la collection du senateur Zarnelli.
+
+De toute rarete, on ne connait que 9 chapeaux a peu pres de Napoleon,dont un seulement de lepoque du consulat.
+
+- 538 Corps-franc de Lutzow.— Shako avec plumet, pistolet et sabre avec ceinturon porte-sabre du chasseur a cheval Fritz Keller
+- de Breslau.
+
+Sur le shako se trouve encore la petite tete de mort.qui par ordre regimen- taire du 3 janv. 1814 fut defendue.
+
+- 539 Fusilier francais de l'infanterie de ligne, tenue de campagne, du 9 regiment. Vers 1822. Figure en grandeur naturelle, haut. 185 cm. et sabre-briquet, banderoles en buffle blanc, culotte blanche, guetres blanches, epaulettes rouges.
+- 540 Artilleur a pied de Frankfort s. M. en uniforme complet, vers
+1835. Figure en grandeur naturelle,haut. 19o cm.
+
+Piece tres bien conservee et probablement unique. Soldat completement equipe avec shako, giberne, épaulettes, sabre et banderolle.
+
+- 541 Grenadier de la garde saxonne de 181o en tenue de parade. Figure la grandeur naturelle, haut. 21o cm. Tres rare. Figure bien conserve d'un soldat completement équipe au haut bonnet a poil, avec giberne, sabre-briquet, banderole etc. En 1813 les grenadiers de la garde saxonne prirent part dans le combat du 18 Oct.a cote de la garde imperiale.
+
+## Coiffures et cuirasses.
+
+## France.
+
+- 542 Shako de carabinier d'infanterie legere franc. sous Napoleon vers.
+- 543 Shako de voltigeur du 7e regiment d'infanterie de ligne sous Napoleon I., vers 181o.Pompon et cordon verts.
+1809. Fond rouge, plumet rouge, cordon blanc.
+- 544 Shako de carabinier du 2e regiment d'infanterie legere vers 18o9.
+- 545 Shako de grenadier du 4e regiment d'infanterie de ligne, vers 1812. Le 4e regiment se distingua en 1813 dans la defense de Probstheida pres Leipzig.
+- Pompon rouge.
+- 546 Shako de fuselier du 5e regiment d'infanterie de ligne, vers 181o.
+- 547 Shako de voltigeur du Se regiment d'infanterie de ligne, vers 18o8. Garni de galons jaunes. Pompon jaune.
+- Cordon rouge, pompon bleu.
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 548 Shako de fusilier du 1oe regiment de ligne,vers 181o. Cordon natte et raquettes rouges. Pompon bleu.
+- 549 Shako degrenadier du'11e regiment de ligne vers 1812. Plaque rayonnante, av. pompon de famme.
+- 550 Shako du I3e regiment d'infanterie legere. Vers 18o6.Plaque quadrangulaire ornee d'un cor de chasse, haut plumet a la cote.
+- Rare.
+- 551 Shako du 18e regiment d'infanterie de ligne vers 1812.
+- 552 Shako de fusilier du 18e regiment d'infanterie de ligne vers 1812. Cordon rouge. Pompon jaune-rouge.
+- 553 Shako
+- Shako de fusilier du 21e regiment d'infanterie de ligne. Vers 1813.
+- de fusilier du 2oe regiment d'infanterie vers 1811. Cordon natte et pompon rouge.
+- 554 Le 2ie regiment se distingua en 1813 dans les combats de Dresde et Leipzig.
+- 555 Shako de voltigeur du 23e regiment d'infanterie de ligne, vers 1812.
+- Shako de grenadier du 25e regiment d'infanterie de ligne vers
+- 556 1812. Cordon et pompon rouges. Belle piece.
+- 557 Shako de voltigeur du 121e regiment d'infanterie de ligne
+- vers 1812.
+- 558 Bonnet a poil de grenadier a pied du 1er regiment de la vieille
+- garde imperiale vers 18o8. Plumet rouge, cordon blanc, en haut. la grenade blanche. Tres rare.
+- service de la France, l'infanterie de ligne). Vers 181o. Rare.
+- 560 Shako de linfanterie suisse de la Garde royale vers 1815.
+- 561 Shako de grenadier de l'infanterie de la 4 legion departementale. (Restauration 1815—20.) Rare.
+- Shako de sergent de la garde nationale vers 183o. Plaque
+- 562 ornee d'un coq et d'une grenade. Rare.
+- 563
+- Casque de cuirassier. Plumet et criniere noirs.
+- 564 Cuirasse de cuirassier du 3 regiment 1814. Designee: Man. Imp. de Chatt.Juin 1814. I taille, Ier largeur No. 491. Belle piece.
+- 565 Casque d'officier de dragons. Plumet et criniere noirs.
+- 566 Shako de marechal des logis chef du 5 regiment de hussards. vers 18o8. Fond bleu, borde d'un galon tresse d'or et orne d'un double galon egalement d'or en forme de chevron, cordon jaune, plumet rouge.
+- Le 5e regiment de hussards prit part dans les batailles d'Austerlitz en 18o5, d'Eckmihl et de Wagram en 18o9, de Borodino et de la Beresina en 1812, de Leipzig, Bautzen et Hanau en 1813.
+- 567 Shako du 5 regiment de hussards vers 1812. Fond bleu, garni de galons jaunes, cordon jaune. Tube caracterist.
+
+Hanau etc.
+
+Le regiment combattit a Austerlitz, Eckmuhl, Wagram, Borodino, Leipzig,
+
+- 568 Shako du 8e regiment de hussards vers 1812.1 Fond rouge, cor-
+
+Cree en 1793 le 8e regiment se distingua a Austerlitz, Lubeck, Eylau,Wagram, Wilna, Borodino, Altenburg, Leipzig, Strasbourg etc. ll fut dissolu
+
+- 569 Shako d'officier du 8e regiment de hussards vers 1813. Fond rouge, garni de galons d'or, cordon d'or. Belle piece.
+- don noir-rouge.Belle piece, tube caracteristique. en 1814.
+- 570 Shako de trompette du 8e regiment de hussards vers 18o9. rouge, garni de galons d'or, cordon jaune.
+- Fond
+- Rouge av. cordon
+- 571 Shako du 9° regiment de hussards vers 1812.1 natte et raquettes jaunes. La cocarde remplacee.
+- 572 Czapzka d'officier du 1er,regiment de chevaux-legers lanciers de la garde imper. (lanciers polonais). Vers 1809. Cordon en argent, plumet blanc. La cocarde a ete remplacee. En 1813 ce regiment appartenait au 8e corps sous Poniatowski.
+- 573 Czapzka du 1er regiment de chevaux-legers lanciers (lanciers polonais) de la garde imper. vers 18o9. La cocarde remplacee.
+- 574 Shako du 6e regiment d'artillerie a pied vers 1812.Plaque en losange, cordon et pompon rouges.
+- 575 Shako du 7 regiment de chasseurs a cheval vers 18o8.
+
+## Belgique -Autriche - Suisse -Westphalie.
+
+- 576 Casque de cuirassier du 1er regiment de cuirassiers de Belgique (des 1832royaume independant). Designe Fonson a Bruxelles 1832. Criniere noir, plumet rouge.
+- Sans cocarde.
+- 577 Chapeau d'oficier de l'etat-major autrichien vers 18o9,de la haute forme caracteristique, borde d'un large galon d'or ornem.
+- 578 Shako de sergent du train westphalien vers 1812. Garni de
+- 579 Shako de sergent du train westphalien vers 1812. Garni de double galon blanc en forme de chevron, cordon blanc, pompon rouge.
+- galons blancs, pompon rouge. Rare.
+- 580 Shako de capitaine du train westphalien vers 1812.Garni de galons d'argent, pompon blanc. Rare.
+- 581
+- 582 Shako de voltigeur des troupes (cercle interieur) du Canton Appenzell (Suisse) vers 1813. Tras rare.
+- Shako d'artilleur a cheval de la 2e compagnie d'artillerie westphalienne de ligne vers 18i2. Plumet et cordon rouges. Rare.
+- Du Canton Appenzell-Inner-Rhoden.
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 583 Shako de fusilier des troupes (cercle interieur) duCanton Appenzell.1813.Sans cocarde. Du Canton Appenzell-Inner-Rhoden.
+- 585 Shako d'infanterie de' Neufchatel (Suisse) de lepoque de la
+- 584 Shako de sergent d'infanterie du canton Geneve(Suisse) vers 1815. Rare.
+- souverainete prussienne (1814 a 48).Vers 183o. Rare.
+
+## Prusse.
+
+- 586 Shako de fusilier du regiment d'infanterie de Colberg, 1813. Belle piece.
+- a pied. Vers 1815. Av. haut plumet blanc-noir..
+- 588 Shako dinfanterie pruss.vers 1815.La garniture en cuir de derriere restauree.
+- 589 Shako d'officier du bataillonde fusiliers du 18e )1 regiment d'infanterie, vers 183o. Plumet noir et blanc, cordon d'argent.
+- 590
+- Czapska du regiment d'Uhlans brandebourgeois, vers 1810. Cordon natte noir et blanc.
+- 591 Czapska d'officier de l'escadron d'Uhlans de la garde, attache a la Garde du corps. 181o. Plumet noir-blanc, cordon d'or. Rare, Apres plusieurs transformations cette troupe devint le regiment de cuirassiers de la garde.
+- 592 Czapska de marechal des logis chef du 3e regiment de cavallerie de la Landwehr silesienne. (1813—15.)Orne de la croix de la Landwehr.
+- 593
+- Casque du regiment garde du corps, 1813. Chenille crin noir.
+- avec le grand sabre frangais.
+- 594 Cuirasse du regiment garde du corps, noire, aiguillette rouge,
+
+Les regiments prussiens recurent de nouveau le cuirasse en 1814-15 et les anciens sabres pruss. furent echanges en meme temps pour des sabres francais. Les cuirasses noires sont un present de l'empereur des Russes.Dans l'interieur se trouve l'inscription manuscrite: I1. Esc. G. d.c. 182o. Rennert und Goulas.
+
+- 595 Shako du Ier regiment de hussards (nomme hussards du corps)
+- vers 1824.Av. tete de mort, cordon et plumet blancs.
+- 596 Shako d'un regiment de hussards. Vers 182o.
+- 597 Shako de la cavalerie pomeranienne (cavalerie de la Landwehr prussienne). 1813.
+- 598 Shako de dragon de la ligne, vers 1821.. Cordon et plumet blancs.
+- 599 Shako du 4e regiment de dragons, vers 1815. Cordon jaune.
+- 600 Shako d'artillerie a pied de la ligne(Artillerie a pied de la garde). Vers1820.
+- 601 Shako et giberne de l'artillerie a cheval. Vers1825.Haut
+- plumet noir.
+- 602 Shako dinfanterie du grand-duche de Bade, vers 184o. Plaque
+- au lion aile et chiffre L. Cordon blanc.
+- 603 Shako de fusilier de la Landwehr bavaroise vers 183o. Cordon Couvercle en fer-blanc. et pompon blancs.
+- Vers 1830. 604 Shako de grenadier de la Landwehr bavaroise.
+- des grenadiers de la Landwehr bavaroise 605 Shako de
+- sergent vers 1830. Cordon blanc.
+- 606 Shako de hautboiste bavarois vers 183o. Cordon vert, pompon.
+- noir et rouge.
+- 607 Shako d'officier Vers 1830.
+- des tirailleurs de la Landwehr bavaroise.
+- 608 Shako de la Landwehr bavaroise vers 183o. Pompon rouge
+- Cordon blanc.
+- 609 Shako d'officier de la Landwehr bavaroise vers 183o. Plumet
+- bleu et blanc, cordon d'argent.
+- 610 Shako de sous-offcier des tirailleurs de la Landwehr bavaroise.
+- Vers 183o. Cordon et pompon verts.
+- de grenadier de Hesse vers 1832. Avec couvre-nuque.
+- Vers 1832. 611 Shako d'officier d'infanterie de Hesse-Cassel.
+- 612 Shako
+- 613 Shako
+- d'artillerie de Hesse-Darmstadt. Vers 1828. Av.plumet.
+- 614 Shako
+- de sergent des voltigeurs de la garde bourgeoise de Lubeck (troupe hanseatique). Fond vert, galon d'or, cordon rouge, plumet vert-jaune. Plaque ornee de cor de chasse. Vers 182o. Tres rare.
+- 615 Shako de fanqueur d'infanterie de Nassau. Vers 182o.
+- 616 Shako du 2e regiment dinfanterie de Nassau vers 181o. Plaque avec le No. 2 et un N. Cordon et pompon jaunes. Le 2e regiment combattit les Prussiens en 18o6—18o7,les Autrichiens en 18o9 prit part dans la campagne en Espagne en 18o8—13, et dans la bataille de Waterloo 1815.
+- 617 Chapeau d'officier de l'etat-major du contingent de Reuss vers Orne d'un galon tresse d'or.
+1812. Cocarde noire-rouge-jaune. Rare.
+- 618 Shako de dragon saxon vers 181o. F.A. Cordon blanc. Pompon vert.
+- Plaque au monogramme
+- 619 Chapeau d'officier de l'etat-major saxon. Cocarde blanche (d'argent), orne d'un galon d'or et d'une courte houppe rouge et argent. Vers 1812.Rare.
+- 620 Shako de sergent de la brigade saxonne d'artillerie a cheval, vers 181o. Plumet rouge.
+- 621 Shako d'offcier dinfanterie du grand-duche de Saxe-Weimar
+- vers 1828. Au monogramme dore C.F. Belle piece.
+- 622 Shako dinfanterie de Schwarzbourg-Rudolstadt, vers 182o.
+- Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I
+- 623 Shako d'infanterie legere de Schwarzbourg-Rudolstadt, vers 1830.
+- 624 vers1810.
+- 625 Shako du 2e () regiment wurtembergeois de chevaux-legers (No. 12), vers 1813. Borde en haut d'un large galon bleu. Plaque au monogramme F. R. Av. couvre-nuque.
+- Chapeau d'officier de l'etat-major (aide-de-camp) wurtembergeois, Garni de galons d'or. Cocarde rouge.
+- 626 Shako de trompette du 3e () regiment wurtembergeois de cavalerie, vers 1815.1 Fond rouge, garni de galons d'or. 1 Plaque
+- 627 Shako de sergent du Ier bataillon wurtembergeois de chasseurs a pied, bataillon ,von Hugel(dit de chasseurs noirs), vers 18o6. Fond vert, en haut galon blanc.
+- aux armes. Pompon d'or.
+
+Aujourd’hui le 5e regiment wurtemberg. de grenadiers ,Konig Karl", No. 123.
+
+## Vetements, Equipement, Trompettes, Tambours.
+
+## France.
+
+- 628 Epaulettes, 3 paires, du premier empire. Rouge-blanc, vert-rouge et noir-rouge.
+- 629
+- Giberne, avec banderole, du 17e regiment d’artillerie a cheval,
+- Cor de chasse des voltigeurs d'infanterie du premier empire. Diam. 4o cm.
+- 630 premier empire.
+- 631 Plaque de ceinturon d’artilleur, premier empire.
+- 633 Banderole de tambour d’infanterie, en buffle noir, avec les
+- 632 Plaque de ceinturon d'infanterie, second empire.
+- baguettes dans un porte-bag. de laiton. Premier empire.
+- 635 Hausse-col d'officier du second empire.
+- 634 Giberne, avec banderole en buffle noir, de l'infanterie. 1er empire.
+- 636 Tambour de l'infanterie de ligne, 1er empire. Fut cuivre, haut.
+- 35 cm, accompagne des baguettes, dont lune endommagee.
+- Orne d'un soleil et d'un N couronne.
+- 637 Plaque de shako de lancier de la Garde imperiale, second empire.
+
+## Allemagne - Autriche - Russie.
+
+- 638 Dolman du 5e regiment prussien de hussards. Drap bleu fonce, orne de galons jaunes' et de tresses d'un vert fonce. Collet bleu
+- 639 Dolman du 6e regiment prussien (le 2e silesien) de hussards. Drap vert, orne de galons jaunes et de tresses d'un vert fonge, collet vert.Vers 1832.
+- fonce.Vers 1832.
+- 640 Aigle (a deux tetes) de giberne de la cavalerie autrichienne.
+- 641 Epaulettes de la 1re garde noble imper. et roy. d’archers (autrich.).
+- Lame de cuivre au F I. couronne.
+- de veterans de Breslau. 642 Drapeau noir-blanc d'une association Orne d'une longue houppe double d'or, du medaillon militaire de 1813 et au bout d'une grande ,croix de fer" en fer de fonte. Haut. 235 cm. Vers 182o. Un peu endommage.
+- 643 Cor de chasse contourne en 5 spirales de la 1 musique roy. saxonne sous le roi Frederic August I. Diam. 32 cm. L'embouchure manque.
+- 644 Cor de chasse des chasseurs-tireurs prussiens, vers 181o. Diam. 36 cm.
+- 645 Giberne d'officier de la cavalerie mecklenbourgeoise, avec la
+- plaque.
+- 646 Giberne, avec banderole en buffle blanc, de la cavalerie prus-
+- sienne, vers 1840.
+- 647 Decor de timbale d'un regiment prussien de cuirassiers. En soie bordee d'une frange d'argent, broderie d'or et de couleur, le monogramme F. W. R. couronne et laigle noir pruss. entoure de lauriers.
+- Long. 12o cm. Rare.
+- pieces d'équipement. Vers 1813.
+- 648 Couronnes saxonnes,t trois, en laiton,detachees de diverses
+- 649 Croix de bonnet, 2, de la Landwehr prussienne, avec linscription ,Mit Gott fur Konig und Vaterland 1813".
+- 650 Epaulettes d'officier de la cavalerie russe. Belles pieces.
+- 651 Ornement de sabretache d'officier de la Garde du Corps saxonne. Fond drap bleu au monogramme F.A.R. couronne brode or.
+- 652 Giberne de fusilier prussien sous Frederic le Grand, avec banderole en buffe blanc et fourreau de baionette. Vers 1780.
+- Giberne, avec banderole en buffle blanc de grenadier prussien
+- 653 sous Frederic Guillaume III. Grande piece.
+- 654 Collier de cheval en cuir embouti, richement ornemente, a l'aigle autrich.et lannee 18o7.
+- Provenant de lecurie de lempereue Francois I d'Autriche. Bon etat.
+- 655 Plaque de giberne de la cavalerie wurtembergeoise, couronne roy. au monogramme F.F. sur fond de drap rouge fonce.
+- 656 Boutons detaches de la chainette de casque du regiment du roi de Saxe, orne de trophees etc. Rare.
+- Corne d'appel d'infanterie prussienne sous Frederic Guillaume II.
+- 658 Havresac de la Landwehr prussienne de 1813. En cuir.
+- 657 Designee J. R. 26.
+- 659 Tambour de linfanterie bavaroise. Fut de bois, haut. 45 cm. Peau infer. raccommodee.
+- 660 Tambour de lartillerie a pied saxonne. 1812. Fut cuivre, cercles
+- rouge et vert. Haut. 4o cm. Belle piece.
+- 661 Tambour de l'infanterie saxonne. Fut en bois. Haut. 4o cm. Vers 18io.Peaux endommagees.
+- 662 Tambour de la garde bourgeoise de Salzwedel. Fut cuivre aux
+- armes embouties et dedicace datee 25 mai 1814.Haut. 42 cm. Peau super. endomm.
+- 663 Tambour de la garde bourgeoise wurtemberg. d'Esslingen sur le Neckar, vers 178o.Fut en bois, cercles en fer peints bleu et jaune. Haut. 45.cm. Sur la peau l'inscription manuscrite: Ludewig Henniger, EBlingen, 1783.
+- 664 Plaque de shako bavarois, 18o6. Monogramme M. J. K. couronne.
+- 665 Plaque de shako (tete de mort aux os croises) du regiment de hussards (corps noir) du duc Frederic Guillaume de Brunswick-
+- Oels. Vers 1813. Haut. 61/2 cm.
+- 666 Plaque de shako hanovrien, cheval sautant entoure de branches de laurier av. couronne, en bas: ,18 juin Waterloo 1815". Diam. 11cm.
+- 667 Plaque de shako autrich., aigle a deux tetes av. armes au chiffre
+- F.I.Vers1810.
+- 668 Plaque de shako de Saxe-Weimar, monogramme C. F. Vers 1828.
+- 669 Plaque de shako de voltigeur de l'armee wurtemberg. En forme de faucille, av. cor de chasse.Vers 182o.
+- 670 Boutons d'uniformes de larmee westphalienne, 1o pieces, dont Contient: Division du Weser.— Bataillon de chasseurs. Artiste veteri-
+- 3 en double.18o7-13. naire etc.
+
+## Costumes civils.
+
+- 671 Chapeau a trois cornes d'un bourgeois de Leipzig du commencement du 19 siecle. Feutre noir borde d'un galon de velours. 2 pieces.
+- 672 Parapluie d'un bourgeois de Leipzig du commencement du 19 siecle. Couvert de toile bleue au bord de diverses couleurs, manche av. poignee en laiton ornem., tete de serpent. Haut.
+- 86 cm.
+- 673 — Toile rouge au bord de plusieurs couleurs, poignee ornementee, tete de lion. Haut. 94 cm.
+## XIV. Armes.
+
+## Armes a feu portatives.
+
+- 674 Fusil d'infanterie franc. sous Napoleon I., batterie en fer portant la marque de la manufacture imp. de Ste. Etienne. Av. baionette et baguette.
+- 675 meme modele, un autre exemplaire.
+- 676 meme modele,la batterie portant la marque de la manufacture
+- imp. de Bresay. Av. baionette et baguette.
+- meme modele, la batt. av. la marque de la manuf. imp. de
+- 677 Versailles. Av.baionette et baguette.
+- 678 一
+- meme modele, Manuf. de Charleville. Av. baionette et baguette. Belle piece.
+- 679 Fusil d’infanterie prussienne, batterie en fer. Av, Baionette. 137 cm.
+- Vers1812. Crosse cassee.
+- 680—1 meme type, av. baionette triangulaire. Sur le canon la marque:
+1812. Vers 1812. Av.baguette.
+- 681 Carabine franc. de dragons, batterie en fer portant la marque: Liege Man.Imp. et M.1777. Trouvee en 1859 sur le champ de bataille de Plaussig pres Leipzig.
+- 682 一
+- meme modele, av. guidon et baguette, sur la batterie la marque: Man.imp. de Mutzig. Av. timbre et l'annee 1812.
+- 683 Carabine de dragons,hanovrienne, batterie en fer, av.la marque: G.R. couronne, talon en laiton marque ,Tower". Rare piece. Les deux regiments de dragons hanovr. existant dans cette epoque firent part de la legion allemande au service d'Angleterre (the King's German legion) ils se distinguerent en 1815 dans la bataille de Waterloo.
+- 684 Fusil d'infanterie legere saxonne, batterie en fer, vers 181o.
+- 686 Fusil d'infanterie, franc., batterie portant la marque de la manu160 facture imp. de Charleville, sur le canon: Mle 1777. Batterie 9.6. endommagee.
+- 685 Fusil de chasseurs, pruss., batterie en fer portant la marque: Potzdam. Vers 181o. Belle piece.
+- 687 Fusil d'infanterie pruss. vers 181o. Batterie en fer.
+- 688 Pistolet de cuirassiers franc.av.batterie portant la marque de la Manuf. imp. de Maubeuge.Av. marques des armuriers.Long. 34cm. Sur canon et crosse l'annee 1813.
+- av. guidon, crosse sculptee. Long. 8o cm.
+- 689 Carabine d'offcier, pruss., vers 181o.Av. batterie, canon rond
+- 690 Pistolet d'offcier, franc., vers 1812. Batterie port. la manuf. imp. de Maubeuge. Long. 34cm. Chien endommage.
+- Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 691 Pistolet d’offcier, pruss., vers 181o. Av. batterie, canon octogonal
+- av. guidon, crosse sculptee.1 Long. 31 cm.
+- 692 Pistolet d'officier, saxon ), vers 1812. Av.batterie, canon rond, en bas polygonal. Crosse sculptee. Long. 3o cm.
+- 693 Pistolet d'officier de cavalerie, pruss, av. ferrure ornem. et ajouree, la balle restant encore dans le canon. Endommage. Trouve sur le champ de bataille de Moeckern (16. Oct. 1813). Interessante piece.
+- 694 Fusil a percussion franc. avec guidon et garniture en laiton. Long.
+- 125cm.
+- 695 Pistolet d'uhlan de la garde pruss. Av. batterie portant la marque: Potzdamm. Canon rond, le chien un peu grave. Long. 45 cm. Belle piece. Talon en laiton av. etoile.
+- 696 Pistolet de cuirassier de la garde russe, av. batterie port. la marque: Tula. Canon rond, talon en laiton av. l'aigle et le chiffre A I. Chien endomm. Long. 42 cm.
+- meme modele, batterie portant la marque: Tula 1813. Canon en bas angulaire,chien endomm. Talon en laiton ovale avec
+- 697— l'aigle et le chiffre A. I. Long. 42 cm.
+
+## Armes blanches.
+
+- 698 Sabre d'artillerie frang. Poignee en laiton, lame courbe, fourreau en fer.Vers 1812.
+- 699 Sabre d'artillerie a cheval, franc. Poignee en laiton. Lame courbe signee: Manuf. imp. de.Chatellerault 1853 on 1854. Fourreau fer.
+- ment courbe d'acier de Solingen 1 linscription: No'me saqves sin rason  No me enbaines sin honor av. trophee et ornements. Poignee en laiton. Fourreau maroquin, garnitures laiton av. baudrier. Vers1805. Rare et belle piece.
+- 701 Sabre de cavalerie ital. vers 18o8. Garde a trois branches. Lame
+- courbe signee: Barisoni. Foureau fer.
+- 702 Sabre de cavalerie pruss. Modele 1852.Lame large legerement courbe. Garde a cinq branches en fer signee i9. D. 169. Fourreau fer.
+- 703 Sabre d'officier de chevau-legers lanciers franc. Lame courbe
+- decoree d'ornements dores (trophee, tete de Turc, croissant, étoiles).
+- Garde a 4 branches.1 Fourreau laiton. Regiment connu sous le nom de Lanciers polonais.
+- 704 Sabre de chevau-leger bavarois, vers 1812.Lame courbe, large
+- coquille et garde en fer. Fourreau fer.
+- et cisele, fusee nacre, garde a branche unique av. oreillon portant dans un medaillon la tete lauree de Napoleon entouree de trophees. Lame richement ornementee. Long. 88 cm. Fourreau maroquin
+- noir a garnitures dorees. Rare.
+
+Magnifique piece tres bien conservee. Don d'honneur de l'empereur a ses officiers.
+
+- 706 Epee d'honneur saxonne. Monture richement ciselee et doree. Fusee ebene.Coquille portant dans un medaillon le profl du roi Frideric August I de Saxe entoure de branches de chene et de laurier. Lame avec. marque: NTOL..O.. Fourreau en maroquin noir a garnitures dorees. Long. 9o cm. Belle et rare pieces.
+- Present du roi a ses officiers.
+- 707 Epee d'honneur westphalienne de l'epoque du roi Jerome Bonaparte. Monture en bronze dore et cisele, fusee ebene,coquille au chiffre J. N. entoure de branches de chene et de laurier. Lame bleuie gravée av, ornements dores. Av. porte-epee en or. Fourreau maroq. noir a garnit. dor. Long. Ioo cm.Tres rare. Present du roi a ses officiers.
+- 708 Sabre d'offcier de fusiliers, pruss. Lame legerement courbe, bleuie ornee de trophees et ornements dores. Signee J. S. C. Poignee laiton, pommeau a tete de leon. Fourreau maroq. a garnit. laiton.
+- 709 Sabre-briquet d'infanterie de la garde pruss. Poignee laiton.
+- 710 Couteau de chasse. Lame avec marque d'un loup et lannee 1515. Fusee en os couvert de fl de cuivre. Long. 69 cm.Manuf.de Passau ou Solingen.
+- Vers 1812. 3 pieces, lune av. fourreau en maroquin.
+- 711
+- Sabre d'hussard franc., vers 18o6. Lame courbe, poignee en fer av. garde.Fourreau fer.
+- 712 —meme type, vers 181o. Lame courbe signee: Manuf, imp. du Klingenthal. Coulaux Freres. Poignee laiton. Fourreau laiton.
+- 713 Sabre de sous-offcier de hussards, pruss., vers 181o. Lame courbe gravee. Poignee et fourreau en fer.
+- 714 一 meme modele. Lame courbe. Poignee en fer av. garde. Fourreau en maroq. av. garnit. en fer.
+- 715—1 meme type,lame courbe,poignee en fer. Long. 92 cm. 2exemplaires. Sabre dit de Blucher.
+- fer.Deux pieces.
+- 717 Epee d'offcier d'infanterie bavaroise, vers 1812. Lame droite gravee au monogramme M. J. K. couronne. Poignee doree av. garde.
+- Sabre dit de Blucher.
+- Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+- 718 Epee d'officier d'infanterie de l'epoque de la revolution.#Lame bleuie av. ornem, dores. Poignee au cuivre dor. av. garde, pomgarnit. dor.Rare.
+- 719 Sabre d'officier d'infanterie saxonne, vers 181o.Lame legerement courbe,gravee.. Poignee en laiton, pommeau a tete de lion. Poignee endommagee.
+- Lame legerement
+- courbe, poignee en laiton, signe: 1o6 L. J 3. 236. Fourreau maroq.
+- 720 Sabre-briquet d'infanterie franc., vers 1812.1
+- 721 meme modele, signee: Man. imp. du Klingenthal Janvier 1813.
+- Poignee en laiton.2 pieces.
+- 722.—1 meme modele, signe: 3. R. Q. 16. Fourreau en maroquin. Av. baudrier.
+- 723 Sabre-briquet d'infanterie prussienne, vers 18oo. Lame legerement courbe. Garde en laiton.
+- 724 Sabre-briquet de sous-officier d'infanterie danoise vers 181o. Lame droite a deux tranchants. Poignee en laiton,a deux branches.
+- 725
+- 7261 Lance de cosaque d'un regiment caucasien. Vers 1810. Av. manche.
+- Sabre-briquet d'artillerie pruss., vers 1812.Lame droite, poignee en laiton signee: 26.R.8.F.W.55.46.
+- 727 Lance de cosaque russe, vers 1813. Av. long. manche,
+- 728 Sabre de cuirassier frangais. Lame droite a deux pans creux signee: Man. imp. du Klingenthal Janvier ou Oct. 1812. Large poignee en laiton a quillons recourbes. Fourreau fer. Deux pieces.
+- 729 Sabre de cuirassier autrich.vers 181o. Lame droite, gravee sur
+- 730 Lance d'eclaireur francais sous Napoleon I. Av. manche.
+- les deux cotes, aigle couronne et N. 1. Poignee en fer av. garde ajouree.
+- 731 Sabre d'infanterie de marine, franz., 1er empire.Lame legerement
+- courbe av. l'ancre cauterisee. Poignee en laiton
+- 732 Epee d'officier du corps sanitaire bavarois. Lame gravee au monogramme M. J. K. couronne. Poignee en fer repousse, garde doree ornee du lion av. armes. Fusee en corne ciselee av. bouclier dore au monogramme J.I. K. couronne. Vers 1810. Belle piece.
+- 733 Epee d'offcier superieur prussien, vers 1815. Lame droite av. ornements cauterises. Poignee en cuivre ornemente et cisele av. garde.
+- 734 Sabre d'officier des chasseurs a cheval franc.Vers 181o.Lame legerement courbe av. ornements. Belle poignee en cuivre. Fourreau
+- a garnit. en laiton. Belle piece.
+- 735 Sabre d'officier de chasseurs-volontaires pruss. Vers 1813. Lame courbe, poignee en fer gravee signee: Crause in Herzberg No. 543. Fourreau en fer a garnit. ornement. en laiton.
+- 736 Sabre d'officier dinfanterie de marine franc., vers 1812. Lame
+- courbe bleuie, av. ornaments dores, la pointe a deux tranchans. Poignee en laiton, pommeau a tete de lion. Fourreau en maroq. a garnit. ornem.en laiton.
+- 738 Sabre d'officier d'artillerie a cheval pruss., vers 181o. Lame courbe gravee et doree (tete de Turc, trophees etc.) Poignee en laiton ornement., canons.croises et monogr. F. W. R. Fusee peau de serpent., pommeau a tete de lion. Fourreau fer a garnit. en laiton. Belle piece.
+- 737 Sabre d'officier, aide-de-camp d'etat-major franc., vers 1812. Lame courbe, la pointe a deux tranchans, av. gravures dorees (tete de Turc, trophees, croissant. et etoile). Poignee en laiton. Fourreau maroq. a garnit. ornem. en laiton. Belle piece.
+- 739 Sabre d'offcier de hussards pruss., vers 1812. Lame fortement courbe. Poignee peau de serpent.·Fourreau laiton.Belle piece.
+- 740 Sabre d'officier d'infanterie de ligne westphal. sous Jerome Napoleon, vers 1813.·Lame legerement.courbe, gravee.
+- 741 Pique de la Landwehr prussienne, en fer, long. 32 cm. Sans hampe.
+- Poignee en laiton.
+- 742 Sabre de chasseur a cheval de la Garde franc., vers 1812. Lame courbe, la pointe a deux tranchans, poignee en laiton av. garde. Fourreau en maroq. a garnit. en laiton.
+- 743 Sabre de chasseur a cheval franc. Lame courbe signee: Manuf. imp.du Klingenthal 1811. Poignee en laiton. Fourreau en fer.
+- 744 Sabre-briquet du train franc. Lame legerement courbe signee:
+- Manuf. imp.du Klingenthal Decembre 1812.Poignee en fer. Fourreau maroq. a garnit. en laiton.
+- 745 Lance d'uhlan pruss.de 18i3.Av. manche et famme en noir
+- et blanc.
+
+## XV. Objets trouves sur le champ de bataille.
+
+- 746 Objets, 67 divers, provenant de la bataille de Leipzig, trouves principalement en labourant ou en remplissant de batiments le sol dans la ville et les environs de Leipzig. Les places de trouvaille en crochets.
+
+La collection embrasse:1. Serpes, deux, de l'artillerie a pied frang. Lame droite a deux tranchans, poignee en laiton (Liebertwolkwitz).— 2. Sabrebriquet, franc., lame legerement courbe, poignee en laiton (Elstermuhlgraben).
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+—3. Sabre d'officier d'infanterie legere. Lame ornem., poignee en laiton, pommeau a tete de lion. Fourr.maroq.endom.（Ibd.).— 4.Sabre de cavalerie legere. Lame courbe,poignee en laiton av. garde.(Ibd.).-5.Eperon de cavalerie franc.(Probstheida). - 6. Eperon d'artillerie frang. tres lourd.(Connewitz).——7.Etrier d'artillerie frang.(Liebertwolkwitz).— 8.Fer a cheval, quatre, et une hache (Probstheida, Reudnitz et Holzhausen).—9. Boulet de canon perce (Probstheida).9 cm. 10.Boulets de canon,25, en grande partie franc. Jusqu'au diam. de 161/ cm,renfermant des pieces de 6 livres et des boulets de marine.—I 11.Boulets de canon et boules de fusil,24 pieces,diam.1 a 4 cm (Schoenefeld, Stoetteritz,Lindenau etc.)—I2.Cranes humains,deux (Moeckern). 13. Crane de cheval (Inselstrasse).—I4. Machoire superieure d'un crane de cheval (Querstrasse).
+
+## Table alphabetique
+
+## des noms de personnages et de lieux.
+
+Abrantes, duch. de 38. Abukir 86,534. Adamberger,Antonie 132. AlexanderI.186,187,264,265,293, 334，340,360,389,423，426,427, 441,442,444,460,463,509. Altenburg 1oo. Amiens 87. Anton v. Sachsen 148. Appiani,Andr.191. Arcole 200. Arndt,Ernst Moritz 42,43,45. Austerlitz 351,428. Bacchiochi,F. 374. Baden.602. Bayern 1,499,507,603—610,659, 664,704，717,732. Beauharnais,Eugen 429. Belgien 576. Berezina 89, 90. Berlin 2,73,88,91,352,354,431, 463-465,469,470,478,510,511, 513,515,516,521,.522,524. Berthier,A.44. Bleibtreu,G.231,249. Blicher,Geb.L.v.3—5,92,231, 249—251,258,266—273,340,411, 432-434,483,511-513. Blicher, Franz 3. Bonaparte, Elisa 374. Bonaparte, Eugene 173.
+
+Bonaparte, Jerome 22,46,121,354,
+
+371,410,502. Bonaparte, Joachim 1go. Bonaparte,Joseph 6--10,122,203, 223,372. Bonaparte,Josephine 123, 124,223, 260,327，351. Bonaparte,Louis 176,203,223,373a. Bonaparte,MarieLuise 185,211,328, 357,363,375,436,443,452,454. Borodino, 93-95,359. Breslau, 82,83, 642. Carl Lud wig,Erzherzog v. Ostereich 96. Coln 49. Culm 98. Custrin 352. Czosch, J. J. 51. Dalberg, C. Th. Frhr.v. 11,274. Danemark 724. David,L.194,203,253. Delaroche,P.196,201. Drescher, C. 134. Dresden,52,73, 99, 128. Elchingen 435. England 503. Eylau 101. Ferdinand:Julius Leopold von Preussen, Sohn d. Luise 503. Fontaineblau 437. Frankfurt, 341,409, 540.
+Frankreich 41, 47,50,65, 80,114,
+
+Landeck 5o7. Leipzig60—62,100,133,134,141— 172,233-235,255,339,360,393， 394,468,490,505,671-673,746. Lelong 22. L'Estocq, A.W.v.1o1. London 66,72,73,77,85 Louis Ferdinand, Prinz v. Preussen, 174,175. Lubeck 614. Ludwig XVIll.365. Luise,Konigin v.Preussen 23,64,107, 108,1.77—182,186,187,286—292, 334,395-399,413-415,44I,442, 469,470,491,492,516,521—525. Luneville 347. Litzow,L.A.W.Frh. v.35, 538. Marceau,F. S. D., General 183. Maria Theresia Charlotte 184. Mecklenburg 645. Meissen 466,.468,477,531, 533. Memel 186. Millesinow 99,343. Mombert,Dr.L.36. Moskau 67,73,188,197,359. Murat, Joachim 373. Napoleon.I.24-31,44,48,58,59, 68—71,.74,75,78,84,97,144,189, I91-226,241,242,254-263,294— 328,.340,343—364,369,370,378, 412,416,423,436,437,445-456, 458,471-476,493,494,526—535， 537. Napo1eon 11.222,227,328,358,454, 536. Nassau 615, 616. Nelson 86. Nettelbeck 228. Ney, Mich., duc d'Elchingen 32. Nicolai, C. 63. Nicolaus,H. 48o. Nirnberg 342. Opitz,G.E.,81,147, 230. Oesterreich 1, 504, 577, 640, 641, 654,667,729. Paris 230-—232,457,494. Poniatowsky 53,233-236,412. Prag 238. Preussen I,42, 231, 239, 376,484, 495，5 514,586-601,638,639,644， 646, 647,649,652,653,657,658, 665, 679,680, 685,687,689,691, 693， 695,702,708,709,713—716, 723， 725,733,735,738,739,741, 745， 746.
+
+```
+140,229,366,.417,506,518,520, 539,542—575,.628-637,674——678， 681,682,686,688, 690, 694,698, 6.99，703,705,711,712,718, 720-722,728,730,731,734,736, 737,742-744 Franz I., Kaiser v. Osterr. 102, 275, 293,333,360,.367,422,423，436, 444,460. Friedrich I. 239. Friedrich I1.103, 239,412,451,476. Friedrich August 1. 276, 277, 340, 379,401. Friedrich Wilhelm, Herzog v. Braunschweig 110—113. Friedrich Wilhelm 1. 239, 340. Friedrich Wilhelm I1. 239. Friedrich WilhelmIl.104-108,182, 186,187,239,278-284,292,334—336, 340,389,402,403,438—440,444, 460,464,465,470,515-517. Friedrich Wiihelm IV. 109. Gallé,A.297. Geiss1er,C.H.G.49,54，115, 146, 148,150,151,158,160—162,165, 17I,172,255,257. Georg IV. 337. Gleiwitz 408. Gneisenau, A. Graf N.v. 13, 231. Goldsmith, L. 39. Grossbeeren 116. Hamburg 352. Hannover I,349, 666, 683. Hess, P. 89, 90, 95. Hessen 611-613. Hofer,Andr.117,285, 333,367,493， 499,507. Hohenlinden 118. Jena 120,352,534. Johann, Konig v. Sachsen 519. Italien 12,417,701. Karl IV.v. Spanien 340. Katharine, Konigin v. Westf. 14, 36. Kleist, H. v. 45. Kleist, L.v. 147. Kolberg 368. Koerner,Chr. Gottfr.135, 136. Koerner,Emma 21,125,127,138,139. Koerner,Maria 19—20,136,137. Koerner,Theod.15—18,45,56,57, 62,125-134,332,338,466,467, 488.
+```
+
+Karl W. Hiersemann, Leipzig, Konigstrasse 29. Catalogue de vente I.
+Rauch,Chr. D. 291.
+
+Regensburg 240, 241,424.
+
+Recamier,Mme de.477.
+
+Repnin, Furst 55.
+
+Rudolstadt 468.
+
+Reuss 617.
+
+Rugendas 98,118,169,188,189,250, 478.
+
+Sachsen I,40,55,76,93—95,119, 377,508,541,618—620,643,648, 651,656, 660, 661,684,692,706, 719.
+
+Russland 52,67,73,81,93-95,188, 479-482,496—498,650,696,697, 726,727.
+
+Sachsen-Weimar 621, 668.
+
+St.Helena 58,59,84,195,212,225, 242,303,378,458.
+
+Salzwedel 662.
+
+Scharnhorst, G.D.v.33.
+
+Schlaggenwald 509, 517, 523.
+
+Schill,Ferd.34—35, 243,244, 493. Schiller 467.
+
+Schumann, Gebr. 53.
+
+Schwarzburg-Rudolstadt 622, 623.
+
+Schwarzenberg 163, 164, 169, 245, 459,468. Schweiz 582-585. Smolensk 478. Spanien 700. Stock,Dora 136,138,139. Stock, Minna, siehe Maria Korner. Strahlheim,C.79. Taeubert,C.143. Thuringen 467, 472, 473, 492,508, 526,530. Tirol 499,507. Tolentino 246. Unger,E.198. Vandamme 98. Vernet,H.203,215,217,247. Wagram 248. Water10077,249-252,329,340,430. Watzdorff, H.A.v. 37. Wellington 85,250,253,293,330, 331,337,501. Westfalen 502,578—581,670,707, 740. Wien 418,419. Wirttemberg I,624—627,655,663 669.
+
+Schuster,L. A. 93.
+
+<!-- image -->

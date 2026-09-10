@@ -1,0 +1,793 @@
+## CONDITIONS DE LA VENTE
+
+Elle sera faite expressement au comptant.
+
+Les acquereurs paieront 19 fr. 50 pour cent en sus des encheres.
+
+95 020.-Imprimerie Lahure,rue de Fleurus, 9,a Paris.—1927.
+<!-- image -->
+
+## Dessins Anciens
+
+## HOLBEIN
+
+(Attribue a Hans et a lEcole d'Hans)
+
+## Les Simulachres de la Mort.
+
+Suite de 44 dessins a la plume legerement rehausses de bistre et reunis dans un petit in-4 relie en maroquin rouge.
+
+Collection de Lord Arundel.
+
+- de P.-P.Rubens.
+- de J. Boeckhorst.
+- Crozat.
+- de Ch.von Mechel, Bale.
+- Ambroise Firmin-Didot.
+- du prince Galitzin, Saint-Petersbourg.
+- du Prince Liechtenstein.
+
+Cette interessante suite de dessins etait ainsi presentee au Catalogue d'Ambroise Firmin-Didot,1879,p.222.
+No 381 - HOLBEIN (H.).Les Simulachres de la Mort. Petit in-4°,mar. rouge,fil., tr. dor.(rel. du xvin siecle).
+
+Quarante-quatre dessins originaux de Holbein, executes a la plume et legerement releves de bistre.
+
+Avant de posseder ce precieux recueil et sans l'avoir vu, M. Didot lui avait, d'apres les renseignements fournis par des ouvrages speciaux, consacre une notice detaillee dans son Essai sur la gravure sur bois, col. 6o-66. Les iconographes les plus autorises n'ont jamais mis en doute l'authenticite de ces dessins. Mariette lui-meme, qui les a vus chez Crozat, a émis a plusieurs reprises lopinion que ces compositions etaient bien de Holbein : Ils sont, dit-il, tellement dans son gout et sa maniere qu'on n'imagine pas qu'un autre que lui ait pu les faire; c'est a quoi il faut s'en tenir.  Il est vrai qu'a un endroit de son Abecedario, il s'est mis en contradiction avec lui-meme en les attribuant a un peintre hollandais nomme Jean Bockhorst, mais il ne faut point s'arreter a cette assertion, car il est historiquement prouve que ces dessins ont fait partie de la collection Arundel, en Angleterre, ou Holbein les aura executes avant de passer dans les Pays-Bas ou ils devinrent la propriete de ce meme Bockhorst. Ils ont éte graves sur cuivre par Hollar et publies d'abord a Londres,en 1647,et ensuite en Hollande, en 1651,avec des encadrements ajoutes par A. de Diepenbecke, sous ce titre :Mortalium nobilitas iconibus ab Holbenio delineatis et W. Hollar exculptis, expressa ab Abraham a Diepenbecke. On est autorise a croire que Hollar qui a vecu en Angleterre, de meme que Holbein, devait etre mieux informe que ne le
+
+Sur ces quarante-quatre dessins, les sujets de trente-quatre sont graves dans l'édition de 1538, qui suit; ceux des dix autres se retrouvent dans l'édition plus complete de 1547, avec cette difference que deux de nos dessins a sujets doubles, qui representent, l'un (n° 4o) : des Enfants chevauchant sur des batons et un Petit Guerrier nu; l'autre (n° 41):les Petits Vainqueurs et le Triomphe du Petit Bacchus forment quatre planches dans l'édition gravee. Il en resulte qu'il ne manque a notre recueil que sept dessins de cette suite, qui correspondent aux planches n 1,3,5, 8,12,25 et 4o de 1édition de 1538. Ce qui est a remarquer, c'est qu'il n'y a que la partie droite du dessin n° 39 (l'Idiot entraine par la Mort) qui a ete reproduite par la gravure, tandis qu'un groupe d'enfants, du meme style et de la meme main que celle qui a trace les autres sujets, est reste inedit. Cette circonstance, jointe a d'autres remarques faites par M. Didot, demontre que nos dessins ne sauraient etre consideres comme des copies des gravures des Simulachres de la Mort.
+
+fut Mariette un siecle plus tard.
+
+Quoi qu'il en soit, d'ailleurs,nous concluons avec notre venere maitre
+
+&amp; qu'il suffit de reconnaitre que ces dessins sont des chefs-d'euvre; que la tradition les a donnes a Holbein, et qu'ils en sont dignes a tous egards .
+Voici leur odyssee : de la collection Arundel ils passerent dans les PaysBas et ont appartenu d'abord a Rubens, puis a Bockhorst. Ils tomberent ensuite entre les mains de Crozat, a la vente duquel, en 177i,ils furent achetes par le conseiller Fleischmann, de Strasbourg, qui les donna a Chr. von Mechel, de Bale (dont ils portent l'ex-libris). Ils furent ensuite vendus au prince Galitzin,ambassadeur de Russie a Vienne, et transportes a SaintPetersbourg,ou le voyageur Coxe, selon Dibdin, les avait vus dans le cabinet de I'empereur deRussie.
+<!-- image -->
+
+## Tableaux Anciens
+
+## ALUNNO
+
+(Attribue a Niccolo Alunno da Foligno) Foligno, vers 143o  vers 1502
+
+## Le Christ en croix.
+
+La croix ou le divin supplicie agonise s'erige sur la colline rose,manteau sombre; a droite,saint Jean-Baptiste,en tunique verte, manteau rose, se lamentent tandis que des anges re- apre et denudee du Golgotha. A gauche,la Vierge en tunique cueillent le sang du Sauveur dans des calices d'or.
+
+Fond d'or.
+
+Voir la reproduction.
+
+## 2
+
+Bois. Haut., 41 cent.; long., 45 cent. Cadre en bois sculpte.
+## Marco BELLO
+
+(Attribue a)
+
+Ecole Venitienne xvr siecle
+
+## 3 —La Vierge et lEnfant Jesus.
+
+Vetue d'une robe rouge sous un manteau bleu, la Vierge, assise devant une tenture verte, soutient l'Enfant Jesus de la main gauche. A droite, on apercoit le ciel ou glissent de legers
+
+Bois. Haut., 58 cent.;larg., 48 cent. Cadre en bois sculpte.
+
+## Jean-Victor BERTIN
+
+(Attribue a) Paris,1775Paris,1842
+
+## Les Cascatelles de Tivoli.
+
+Un torrent coule, au centre, entre des collines verdoyantes, grossi par les eaux bruissantes d'une cascade qui tombe d'une hauteur boisee et couronnee par le temple de la Sibylle. Une lavandiere,a gauche, se penche sur la margelle d'une fontaine; a droite, deux bergers etendus dans l'herbe gardent leur troupeau.
+
+Toile.Haut., I m.45;larg., 1 m. 93.
+
+Collaction de Sir Henry Campbell Bannermann, Londres.
+
+nuages clairs.
+## 5
+
+## Jean-Baptiste-Simeon CHARDIN
+
+(Ecole de)
+
+## —La Mere laborieuse.
+
+Dans une chambre une jeune femme, assise, vetue d'un corsage jaune raye de bleu, d'une jupe brune et d'un tablier blanc, presente une tapisserie a une fillette en corsage vert et jupe rouge. Pres d'elle un panier a ouvrage; a droite, des cartes, une raquette et un volant.
+
+Toile. Haut.,48 cent.; larg., 37 cent. Cadre en bois sculpte.
+
+Le Musee du Louvre conserve l'oeuvre originale du maitre, gravee par
+
+Lepicie. Le present tableau offre avec elle quelques variantes, notamment dans les couleurs des vetements des personnages et dans les accessoires.
+## 6
+
+## CLEVE
+
+(Attribue a Joos van der Beke, ou van)
+
+Anvers, ou Cleves vers 1485+ vers 1541
+
+## -Portrait d'homme.
+
+Le visage de trois quarts vers la droite, les cheveux longs et bouffants sous une coiffure de velours noir, il est vu presque a mi-corps. Il porte un vetement de velours rouge garni de fourrure et joue avec une bague, qui orne lindex de sa main
+
+Toile. Haut., 58 cent.; larg.,44 cent. Cadre en bois sculpte.
+
+gauche.
+
+Voir la reproduction.
+
+## COQUES
+
+(Gonzales Cocks, ou) Anvers,1618Anvers,1684
+
+## -La Famille de lorfevre.
+
+Une famille est reunie autour d'une table recouverte d'un tapis d'Orient et dressee sur la terrasse d'un parc. A gauche, un jeune homme vetu de velours noir a la main posee sur un vidrecome cisele. Une fillette joue, au premier plan, avec un
+
+Bois. Haut., 86 cent.; larg., 6g cent. Cadre en bois sculpte.
+
+chien.
+
+Collection de feu Monsieur P...; vente, a la galerie Georges Petit, les
+
+17-18 juin 1924, n° 17 du catalogue.
+## Francois DESPORTES
+
+Champigneulles,1661  Paris,1743
+
+## 8 —La Querelle.
+
+Dans une resserre a gibier, une chatte et ses chatons sont surpris par un chien alors qu'ils rodaient autour d'un faisan et d'une perdrix. La mere chatte assaillie se defend de la griffe crocs.
+
+Signe a droite vers le haut et date 1715.
+
+Toile. Haut., 1 m.; larg., 1 m. 27.
+
+## Gainsborough DUPONT
+
+1767 Londres, 1797.
+
+## Le Chemin de la ferme. 9
+
+Il sinue, au centre, borde, a gauche, d'un talus verdoyant et ombrage par de grands arbres. Un paysan s'y avance, un fagot de bois sur l'épaule, precede d'un chien.A droite, des paysannes et des enfants devant une chaumiere.Effet de soleil couchant.
+
+Toile. Haut., 1 m. 94; larg., 2 m. 15.
+
+Collection Blakeslee,New-York.
+## 10
+
+## Antoine van DYCK
+
+(Ecole d')
+
+## Portrait du comte de Portland.
+
+Il est represente a mi-jambes, en pourpoint de soie noire et tient une letire de la main droite.
+
+Toile. Haut., 1 m. 32; larg, 99 cent.
+
+## ECOLE FRANCAISE
+
+xvIne siecle.
+
+## Le Repos des moissonneurs. II
+
+Parmi des champs ensoleilles, un patre, a gauche, conduit ses moutons aux sons du fageolet; au centre, un chariot charge de gerbes; a droite, des moissonneurs se reposent de leurs travaux en compagnie de leurs femmes et de leurs enfants.
+
+Toile. Haut., 68 cent.; larg., I m. o1. Cadre en bois sculpté.
+## 12
+
+## ECOLE ITALIENNE
+
+La Vierge, l' Enfant Jesus, saint Joseph, sainte Elisabeth et saint Jean-Baptiste.
+
+La Vierge, au centre, en robe rose, manteau bleu, soutient l'Enfant Jesus debout dans son berceau et qui caresse le petit saint Jean dans les bras de sa mere agenouillee a droite. Saint Joseph, a gauche, contemple la scene.
+
+Toile. Haut., 1 m. 03; larg., 92 cent.
+
+Cadre en bois sculpté.
+
+## ECOLE PROVENCALE
+
+Fin du xve siecle.
+
+13—
+
+Christ de pitie.
+
+Fond dore.
+
+Bois. Haut., 22 cent.; larg., 19 cent.
+## ECOLE PROVENCALE
+
+Fin du xve siecle.
+
+## Saint Paul, saint Andre et deux autres saints.
+
+Fond dore.
+
+Bois. Haut., 22 cent; larg., 3o cent.
+
+## ECOLE PROVENCALE
+
+Fin du xve siecle.
+
+Saint Pierre, saint Jean l'Evangeliste et 15 deux autres saints.
+
+Fond dore.
+
+Bois.Haut., 22 cent.; larg., 3o cent.
+## 16-
+
+## 17
+
+## ECOLE VENITIENNE
+
+xvre siecle.
+
+La Madone, vue de face, la tete légerement inclinee sur l'épaule et paree d'un voile blanc, tient l'Enfant Jésus nu et souriant sur ses genoux. A gauche, une perspective montagneuse.
+
+Toile. Haut., 66 cent.; larg, 51 cent.
+
+M.Lionello Venturi incline a voir dans ce tableau une ceuvre de Palma, premiere periode.
+
+## ECOLE VENITIENNE
+
+## Le Repos de la Sainte Famille. 一
+
+Les divins voyageurs sont arretes pres d'une ruine, dans un paysage accidente. Ils sont assis sur un tertre et saint Joseph, un baton a la main, contemple l'Enfant Jesus avec tendresse.
+
+Bois. Haut., 71 cent.; larg., 92 cent.
+## Jean-Honoré FRAGONARD
+
+(Attribuea)
+
+## 18— -L'Exode des pasteurs.
+
+Une lavandiere agenouillee, au premier plan, sur la rive d'un cours d'eau, interrompt son labeur pour regarder leur un chariot charge de ballots, de couvertures et d'ustensiles menagers. Une jeune femme assise parmi la paille, pres d'une troupeau en marche. Il s'avance de gauche a droite entourant fillette, allaite son dernier ne et deux pasteurs suivent, la houlette sur l'epaule.
+
+Toile. Haut., 1 m. 27; larg., 95 cent. Cadre en bois sculpte.
+
+Collection de Mrs Jewsbury, Manchester.
+## Jean-Honoré FRAGONARD
+
+(Attribuea)
+
+—Vieillard en buste. 19
+
+Toile. Haut., 54 cent.; larg, 45 cent. Cadre en bois sculpte.
+
+Collection Charis, Grasse.
+
+## Jean-Honoré FRAGONARD
+
+(Attribué a)
+
+Vieillard en meditation. 20
+
+Toile.Haut., 58 cent.; larg,48 cent.
+
+Collection Charis, Grasse.
+## Thomas GAINSBOROUGH
+
+Sudbury, 1727 Londres, 1788.
+
+## Portrait de M Hammond. 21-—
+
+La chevelure poudree,le visage souriant et tourne de trois quarts vers la gauche, il est represente presque a mi-corps. Vetu d'un habit marron entrouvert sur un gilet jaune a boutons dores,il tient de la main droite une lettre portant la sus- cription : Lewis Corkran Esq Bombay. Ecussons bruns.
+
+Toile. Haut., 74 cent.; larg,62 cent. Cadre en bois sculpte.
+
+Acquis d'un descendant du personnage.
+
+Voir la reproduction.
+## Hugo van der GOES
+
+(D'apres)
+
+<!-- image -->
+
+Pieta. 22
+
+Fond dore.
+
+Toile. Haut., 53 cent.; larg., 70 cent.
+
+## Jan GOSSAERT
+
+(Attribue aJAN VAN MABUsE, ou)
+
+Maubeuge,vers 1478Middelburg,vers 1536.
+
+## 23 —— Mars, Venus et I Amour.
+
+Le dieu, debout, a gauche, en cuirasse, cnemides vertes brodees d'or, s'appuie, drape dans un manteau rose, sur une corne d'abondance. Venus, a droite, vetue d'une tunique diaphane, pose la main sur un miroir. Au centre, lAmour armé
+
+d'une feche.
+
+Bois.Haut.,53 cent.;larg.,45 cent.
+
+Cadre en bois sculpte.
+
+Exposition de la Toison dor,a Bruges, juin-octobre 1go7, n 222 du catalogue sous le nom de Jan Gossaert.
+
+Collection Ch. Butler, Londres.
+## Hans HOLBEIN
+
+(Ecole de)
+
+## —Portrait presume du comte d' Essex. 24
+
+Coiffe d’un toquet de velours noir, il est vu de face, a mi- corps, et tient des gants de la main gauche.
+
+Voir la reproduction.
+
+Bois. Haut., 52 cent.,; larg., 36 cent. Cadre en bois a applications d'ecaillc.
+
+## ISENBRANT
+
+(Attribue a Adriaen YsENBRANT,ou) 1551
+
+## 25 —— L'Adoration des Mages.
+
+La composition se presente sous la forme d’un triptyque.
+
+I'adoration des anges et des bergers.
+
+A) Sur le volet de gauche la Nativite est representee avec
+
+B) Sur le panneau central est figuree l'Adoration des rois mages.
+
+C) Sur le volet de droite : la Fuite en Egypte.
+
+et saint Michel terrassant le dragon.
+
+Au revers des volets et peints en grisaille: le Christ de Pitie
+
+Bois de forme chantournee dans la partie superieure.
+
+Les volets mesurent : Haut., 1 m. o8; larg.,32 cent. Le panneau central mesure : Haut., 1 m.o5; larg., 73 cent.
+
+Ce tableau avait ete considere anterieurement comme une ouvre de
+
+H. Met de Bles. M. le Docteur Max Friedlander estime qu'il est plutot peint dans la maniere d'Isenbrant.
+
+Voir la reproduction.
+## LELY
+
+(Pieter van der Faes,dit Sir Peter) Soest,1618Londres,1680
+
+## 26 —Portrait presume de Lady Shaftesbury.
+
+Les cheveux blonds et bouclés, paree d'un collier de perles, vetue d'une robe jaune au corsage largement decollete, elle est assise sur un tertre et presente des fleurs de la main gauche.
+
+Toile.Haut., 1"23; larg., 95 cent.
+
+## Johannes LINGELBACH
+
+Francfort-sur-le-Mein,1622 Amsterdam,1674
+
+## 27——Vue d’un port.
+
+Un port s'ouvre, en centre, protegé, a gauche, par une tour ronde et borde, a droite,par de hautes falaises. Au premier plan, sur un quai, des Orientaux, assis sur des ballots de marchandises ou des tonneaux, devisent entre eux en attendant le depart d'un navire charge de passagers. Derriere eux, un gentilhomme, le chapeau a la main, invite une dame a prendre place dans une barque accostee pres du bord. A droite,la facade d'un palais et, a l'angle du quai, une statue de Neptune tenant le trident.
+
+Signe a gauche, en bas, et date : 1668.
+
+Bois. Haut., 52 cent.; larg.,67 cent.
+
+Collection du comte Stroganoff;vente,a Paris,le 22 mai 1924,n°9 du catalogue.
+## 28
+
+## Bernardino LUINI
+
+(Attribuéa) Luino, vers 1475 +apres 1533
+
+## La Vierge,l'Enfant Jesus et saint Jean.
+
+Debout sur les genoux de sa mere, Jesus presente une feur au petit saint Jean qui tend la main pour la recevoir.
+
+Toile.Haut., 44 cent.; larg.,34 cent. Cadre en bois sculpte.
+
+Collection Albani,Florence. Langton Douglas, Dublin.
+
+## LUINI
+
+(Ecole de Bernardino)
+
+<!-- image -->
+
+Fresque.
+## Andrea MANTEGNA
+
+(Attribue a) Padoue,1431Mantoue,1506
+
+## 3o —Le Sauveur du Monde.
+
+Debout et nu, il est vu de face tenant le globe symbolique de la main gauche. Saint Jean, a gauche, deroule un phylactere;
+
+a droite, la Vierge et sainte Elisabeth.
+
+Toile.Haut., 71 cent.; larg., 44 cent.
+
+Cadre en bois sculpté.
+
+Collection Couvreur;vente, a Paris, le 27 novembre 1875,n° 66 du catalogue.
+
+Collection Dollfus;vente, a Paris,1er et 2 avril 1g12,n°71 du catalogue. Exposition de tableaux au profit de lceuvre des Orphelins d'AlsaceLorraine, au Louvre,1885,n° 326 du catalogue.
+
+Voir la reproduction.
+## MATSYS
+
+(Ecole de Quentin Mersrs, ou)
+
+## 31 —Le Redempteur.
+
+En buste, le visage de face, il fait de la main droite le geste
+
+Bois. Haut., 40 cent.; larg., 38 cert.
+
+## Michiel Jansz van MIEREVELD
+
+(Attribue a)
+
+Delft,1567Delft,164！
+
+## 32 —Portrait presume du marquis d'Hamilton.
+
+Il est vu a mi-corps, de trois quarts vers la gauche. Il porte un pourpoint de velours vert brode d'or a creves de satin blanc
+
+A gauche, en haut, l'inscription : JoHN 1. MARQ. HAMILToN.
+
+agremente d'une collerette de tulle plisse borde de dentelle.
+
+Bois. Haut., 65 cent.; larg. 53 cent.
+
+de la benediction.
+## Pedro de MOYA
+
+(Attribuea) Grenade,161o  Grenade,1666
+
+## 33 — Portrait d'homme.
+
+En pourpoint gris agremente d'une large collerette et de manchettes en point de Venise, drape dans un manteau gris, l'epee sous le bras, il tient son feutre de la main gauche.
+
+Toile. Haut.,1 m. 14; larg., 9+ cent.
+
+## Bernard van ORLEY
+
+(Attribuea)
+
+Bruxelles, vers 1495 + Bruxelles, 1542
+
+La Vierge, vetue d’une robe brune, échancree sur une guimpe de linon et brodee d'or et de perles, est assise et tient l'Enfant Jesus sur ses genoux. Elle le protege sous un pan de son manteau fourré, et appuie son visage contre celui du Sauveur, qui lui caresse la joue de la main gauche. Fond doré.
+
+Bois. Haut., 96 cent.; larg., 70 cent. Cadre en bois sculpte.
+
+Collection de Madame X...;vente,a la galerie Georges Petit, le 15mai 1922, n° 31 du catalogue.
+## Adriaen van OSTADE
+
+(Attribuea) Haarlem,161o Haarlem,1685
+
+## 35 —L'Escarcelle.
+
+Le manteau sur l'épaule, coiffe d'un feutre usage,un homme est arrete dans une rue de village pres d'un étal de poissons et semble chercher sa bourse pour une emplette.
+
+A droite une signature a demi effacee.
+
+Bois. Haut., 15 cent.;larg.,15 cent.
+
+Collection A. de Ridder; vente, a Paris, le 2 juin 1924, n° 49 du catalogue.
+
+Decrit dans WILHEM voN BoDE :La galerie de tableaux de feu A. de
+
+Ridder, Berlin 1913, et reproduit meme ouvrage, pl. 42.
+
+## Isack van OSTADE
+
+(Ecole d') Harlem,1621Harlem,1649
+
+## 36 — Scene d'hiver en Hollande.
+
+Une auberge s'eleve, a droite, au bord d'un canal gelé ou de conduit pres de la rive un traineau attele d'un cheval bai. D'autres personnages animent encore la composition.
+
+On releve les traces d'une signature en partie effacee sur l'arriere du traineau.
+
+Bois. Haut., 6g cent.;larg., 88 cent.
+
+Collection Rodman Wanamaker, Philadelphie. Une composition sensiblement similaire est conservee au Musee d'Anvers.
+## Girolamo del PACCHIA
+
+Sienne, 1477 apres 1535
+
+## eElisabeth,
+
+## 37—La Sainte Famille, sainte saint Jean et sainte Claire.
+
+L'Enfant Jesus assis, au centre, sur les genoux de la Vierge en robe rouge et manteau double de vert, se penche vers le petit saint Jean debout, a ses cotes, la croix sur l'epaule. Saint Joseph les regarde et derriere sainte Elisabeth, a gauche,
+
+Tondo.
+
+sainte Claire tient un lis. Fond de paysage.
+
+Bois. Diam., I m.12.
+
+Collection de Madame X...; vente,a la Galerie Georges Petit, le 15mai 1922,n°32 du catalogue.
+
+Voir la reproduction.
+## Anthonie PALAMEDESZ
+
+Delft,vers 16o1 Amsterdam,1673
+
+38— Le Repas.
+
+On apercoit, a gauche, dans un interieur, une table chargee de fruits;un gentilhomme,a pourpoint de satin gris, culotte galonnee d'argent et souliers a bouffettes, debout au centre, presente la main a une jeune femme en corsage jaune a longues basques, entrouvert sur une jupe de velours vert. Trois personnages causent derriere eux. A droite, un page en habit rouge.
+
+Signe a droite du monogramme.
+
+Bois de forme octogonale. Haut., 58 cent.;larg., 78 cent.
+
+Collection de Mme la Marquise de X..; vente, a la Galerie Georges Petit le 5 juin 1924, n° 52 du catalogue.
+
+Voir la reproduction.
+
+## Anthonie PALAMEDESZ
+
+39— Le Corps de garde.
+
+Devant la porte d'une ville ceinte de remparts des soldats sont groupes derriere un officier, assis au centre, et qui lit une lettre. Le messager, qui vient de la lui presenter, se tient debout respectueusement pres de lui le chapeau a la main.A gauche, deux autres militaires pres d'un feu. L'un d'eux allume sa pipe a un tison.
+
+Signe a gauche et date. La date est incomplete.
+
+Bois.Haut., 65 cent.;larg., go cent.
+## Sir Henry RAEBURN
+
+Stockbridge,1756+Edimbourg, 1823
+
+## 40 — -Portrait de Mrs Craigie Halkett.
+
+Le visage de trois quarts vers la gauche, les yeux bruns, les levres souriantes, elle est coiffee d'un bonnet blanc tuyauté agremente d'un ruban. Une écharpe de gaze autour des épaules, vetue d'un corsage de soie noire, elle est representee en buste.
+
+Toile. Haut., 74 cent.; larg., 62 cent. Cadre en bois sculpte.
+
+Collection H.-B. Sands. Collection de Mrs Lindsay, Edimbourg. Expose a la Raeburn Exhibition en 1876. Expose a la Scottish National Exhibition, Edimbourg, 1go8. Mentionne dans JAMEs CREIG: Sir Henry Raeburn, P. 47. Mentionne dans SiR WALTER ARMsTRoNG : Sir Henry Raeburn, p. 121. Mentionne dans WILLIAM RAEBURN ANDREw : Life of Sir Henry Raeburn, p.125,n°137.
+
+Voir la reproduction.
+
+## Sir Henry RAEBURN
+
+## 41 —Portrait de Lady Holland.
+
+Coiffee d'un turban de soie blanche orne d'un croissant de pierreries, elle est assise dans un large fauteuil de velours velours noir au corsage légerement decollete sur une guimpe de linon et joue de la main gauche avec un pli de l'écharpe qui rouge et representee a mi-jambes. Elle est vetue d'une robe de lui pare les epaules. Pres d'elle, un mantelet gris.
+
+Toile. Haut., I m. 24; larg., I m.
+
+Voir la reproduction.
+## REMBRANDT
+
+(Attribue a Rembrandt Harmensz van Rijn, dit)
+
+Leyde,16o6Amsterdam,1669
+
+## 42 -L'Homme a la plume doie.
+
+Il est assis,vu a mi-corps, tourne de trois quarts vers la gauche, devant une table chargee de livres et de registres. Coiffe d'un beret brun, vetu d'un lainage rude sur lequel retombent les pointes d'un col de lingerie, un couteau dans la main droite,il examine attentivement la pointe d'une plume d'oie qu'il voudrait tailler avec finesse. Pres de lui des sacs de monnaie poses sur le plat d'un livre relie de cuir jauni, et, sur une étagere ou s'entassent les feuilles de ses comptes, un sablier.
+
+Cadre en bois sculpte.
+
+Toile. Haut., I m.27; larg., I m. o8.
+
+Tres vraisemblablement le tableau qui faisait autrefois partie de la collection du Chevalier Erard et qui figura a sa vente, en 1832, sous la designation : L'Usurier (toile,haut., 46 pouces; larg., 39 pouces) et le n 124 du catalogue,ou il était mentionne comme a portant la signature de Rembrandt avec la date de 1647 》.
+
+Rembrandt and Lievens. It was in any case painted about 1628-1629.
+
+Peut-étre le n 397 du Catalogue Raisonne de JoHN SMITH, p. 137. Catalogue et decrit dans C. HoFsTEDE DE GrooT : Catalogue Raisonne, p.151, sous le n° 235 avec la remarque :α The author has not been able to form any definite opinion as to this effective picture, and hesitates between
+
+Reproduit pl. III dans α Art in America , avril 1gi3. La planche illustre un article de M. Wilhelm von Bode.
+
+Traduction d'une Lettre du Dr W.Bode.
+
+Charlottenburg, le g novembre 1912.
+
+Cher Monsieur,
+
+Mes meilleurs remerciements pour l'envoi de la petite photographie de votre grand  Tailleur de plume 》, dont je suppose que vous madresserez bientot une epreuve plus grande.
+Si vous n'y voyez pas d'inconvenient, je publierai dans nos Annales cette ceuvre de jeunesse extremement interessante de Rembrandt, avec quelques autres tableaux du maitre datant egalement de la premiere periode et recem- mentretrouves.
+
+Bien entendu, nous la ferons egalement figurer dans le volume supplementaire (de l'Euvre complet de Rembrandt), car je n'ai pas le moindre doute a l'endroit de son authenticite. Meme elle est de beaucoup une des plus importantes et des plus interessantes de ses ceuvres de jeunesse et peut dater de 1627-29.
+
+A premiere vue, chacun sera frappe et se demandera: Cela peut-il etre de Rembrandt, quelque remarquable que ce soit? Et la couleur bleu-clair, et surtout une si grande étendue de bleu, est-elle possible chez Rembrandt? Cependant, quiconque a en tete les ceuvres de jeunesse sait que ce bleu ne manque pour ainsi dire dans aucun des premiers tableaux. Ici,il ne frappe que parce que le tableau depasse les dimensions habituelles de cette premiere periode.
+
+Les autres couleurs : le jaune, le gris-vert pale sont tout a fait caracte- ristiques de cette periode.
+
+De meme, la facon dont quelques cheveux sont burines dans la pate avec le manche du pinceau, la nature du dessin et de léclairage, la touche, jusqu'aux types, tout y est absolument caracteristique de cette periode de Rembrandt.
+
+Chez aucun de ses contemporains ou eleves on ne les retrouve, meme de loin.Au surplus, le dessin, l'eclairage et la facture sont beaucoup trop remarquables pour tous les autres Hollandais de la meme epoque.
+
+Agreez, etc., etc.
+
+Voir la reproduction.
+
+Signe : W. BoDE.
+## REMBRANDT
+
+(Ecole de Rembrandt Hamensz van Rijn,dit)
+
+<!-- image -->
+
+Le visage de face, barbe blanche, drape dans un manteau brun entrouvert sur une simarre brodee d'or, il est representé en buste.
+
+Bois. Haut., 18 cent.; larg., 13 cent. 5. Cadre en bois sculpte.
+
+Vente a Londres chez Christie,le 3 avril 1914, n 67 du catalogue.
+
+## REMBRANDT
+
+(Ecole de Rembrandt Harmensz van Rijn, dit)
+
+## 44 —Portrait de femme.
+
+En buste, corsage rouge lace sur une guimpe de lingerie, des feurs dans sa chevelure.
+
+Bois de forme ovale. Haut., 11 cent.; larg.,8 cent.
+
+Cadre en bois sculpté.
+## Alexandre ROSLIN
+
+(Attribuea)
+
+Malmoe,1718+Paris,1793
+
+## 45 -Portrait d’une jeune femme et de son
+
+## enfant.
+
+La chevelure poudree sous un voile de gaze rayee, le visage souriant sous un diademe de pierreries, vetue d'un corsage blanc decollete et garni de perles, elle presente un bouquet a sa fillette assise sur ses genoux.
+
+Toile. Haut., 75 cent.;larg., 6o cent. Cadre en bois sculpte.
+
+Voir la reproduction.
+
+## Godfried SCHALCKEN
+
+Made,1643La Haye, 1706
+
+## 46 — Jeune femme a sa fenetre.
+
+Coiffee d'un bonnet, le visage de trois quarts vers la droite, un fichu croise sur son corsage rouge, elle se penche a sa fenetre, une bougie a la main. A droite, une draperie.
+
+Bois de forme cintree dans la partie superieure.
+
+Haut.,31 cent.; larg., 21 cent.
+
+Collection de Mme la Marquise de X...; vente cit. na 84 du catalogue.
+## David TENIERS
+
+(Attribuea)
+
+Anvers,161o ÷ Bruxelles,1690.
+
+<!-- image -->
+
+La fete se deroule sur la place d'un village devant une auberge ou de joyeux buveurs sont assis a des tables propices aux fraiches libations. Debout sur le fond d'un tonneau un menetrier joue de la cornemuse et ses rythmes entrainent les village dont on apercoit la demeure, au second plan dans la verdure, vient, accompagne d'une dame, honorer la kermesse
+
+évolutions d'une ronde paysanne. A gauche,le seigneur du de sa presence.
+
+Au premier plan, vers le centre, sur une pierre,une signature en partie effacee: D. Teniers.
+
+Toile.Haut.,1 m.15;larg.,1 m.79.
+## Giovanni-Battista TIEPOLO
+
+(Attribuéa)
+
+Venise, 1692 Madrid,1769.
+
+## 48 — La Naissance de la Vierge.
+
+Esquisse pour un plafond.
+
+Toile de forme octogonale.Haut., 75 cent.; larg., 39 cent. Cadre en bois sculpte.
+
+## TINTORET
+
+(Ecole de Jacopo Robusti, dit le)
+
+49 9—La Cene.
+
+Dans une vaste salle ornee de colonnes et decoree de statues de marbre,le Christ,en tunique rose et manteau vert,est assis derriere la Sainte Table, au centre, entoure de ses disciples. A droite et a gauche, au premier plan, des groupes de serviteurs.
+
+Toile.Haut.,72 cent.; larg., I m.34. Cadre en bois sculpte.
+## TINTORET
+
+(Ecole de Jacopo Robusti, dit le)
+
+## 50— -Portrait d'homme.
+
+Drape dans un manteau de velours rouge borde de fourrure blanche mouchetee de noir,il est represente a mi-corps. Le visage de trois quarts vers la gauche,il porte des besicles d'ecaille.
+
+Collection du comte Potocki.
+
+Toile. Haut., 96 cent.;larg., 8o cent, Cadre en bois sculpte.
+
+## Adriaen van de VELDE
+
+Amsterdam,1636+Amsterdam,1672.
+
+## 51——L'Abreuvoir.
+
+Deux arbres dominent,a droite,un tertre, cloture par une haie artificielle. Deux patres, l'un assis, l'autre couche sur le gazon, y gardent nonchalamment leur troupeau que surveille un chien. Une chevre blanche s'abreuve a une mare et une vache en trouble les eaux tranquilles. Une seconde vache rumine sur la rive et deux autres sont etendues dans I'herbe, a gauche, tandis que des moutons broutent, ou se reposent leur nourriture prise.
+
+Bois. Haut., 49 cent.;larg.,72 cent.
+
+Collection du comte Stroganoff;vente, a Paris,le 22 mai 1924,n° 17 du
+
+Grave par S. Ghalactionnow.
+
+catalogue.
+
+N28o du catalogue raisonne, par M. C. Hofstede de Groot, vol. VII, p.522.
+## Johannes-Cornelisz VERSPRONCK
+
+(Attribuea)
+
+Harlem, 1597  Harlem, 1662
+
+## 52 — Portrait d'homme.
+
+Les cheveux blonds rabattus sur le front et bouffant sur la nuque, le visage de trois quarts vers la droite, il est representé a micorps, vetu de noir, la main droite ramenee sur la poitrine, de l'autre il tient des gants.
+
+A gauche on lit une inscription : Etatis 45 an° 1659.
+
+Toile.Haut.,73 cent.;larg., 62 cent. Cadre en bois sculpte,
+
+Collection F.-H.Ward,Londres.
+
+Voir la reproduction.
+## Jean-Antoine WATTEAU
+
+(Ecole de)
+
+## 53 —— La Lorgneuse.
+
+Une jeune femme est assise, a droite, sur un tertre pres d'un bosquet. En jupe rose, robe bleue, corsage rayé de brun decollete en carre, elle regarde un galant assis en contre-bas, qui s'interrompt de jouer du fageolet pour lui sourire. A ses pieds, une corbeille de raisins; au fond, une construction sous le ciel lumineux.
+
+Composition gravee par G. Scotin.
+
+Bois.Haut.,32 cent.; larg.,23 cent. 5. Cadre en bois sculpte.
+
+Cf. Jean de Julienne et les graveurs de Watteau au XVIlle siecle,par EMILE DACIER et ALBERT VUAFLART,P. 12,n° 13.
+## WET
+
+(Gerrit de Wett; ou de) Amsterdam,1616+Amsterdam,1679
+
+## 54 ——Le Bapteme de l'Eunuque.
+
+L'Eunuque, que saint Philippe vient de rencontrer et qui lui a demande le bapteme, est agenouille au bord d'un cours d'eau dans l'attitude du recueillement. Saint Philippe, en simarre et manteau violaces, repand sur son front l'eau lustrale. A droite, arrete pres d'une ruine entouree de verdure, le char dore de l'Ethiopien.
+
+Signe vers le centre.
+
+Bois. Haut., 1 m. o1; larg., I m. 28. Cadre en bois sculpte.
+## Francisco de ZURBARAN
+
+(Attribuea)
+
+Fuente de Cantos,15g8Madrid,1662
+
+## 55—8 Saint Francois d''Assise en extase.
+
+Vetu de bure,les mains croisees sur la poitrine,le saint apparait en oraison devant un crucifix pose sur des livres, pres
+
+A gauche, une signature : Fran de Zurbaran fet.
+
+Toile. Haut., 1 m. 3o; larg., 94 cent. Cadre en bois sculpte.
+
+Exposition d'art ancien espagnol, Hotel Jean Charpentier, 6 juin-6 juillet 1925,n° 114 du catalogue, ou il est reproduit.
+
+d'un sablier.
+
+Collection Grimaldi, Cadix.
+
+Nous croyons devoir mentionner que, depuis cette Exposition, divers critiques ont egalement prononce devant cette ceuvre le nom de BeRNARDo STRozz1(Genes,1581,Venise,1644).
+95020.-IMPRIMERIE GENERALE LAHURE.-1927 9,RUE DE FLEURUS,PARIS

@@ -1,0 +1,1048 @@
+## OLGEMALDE,
+
+VON ERSTEN MEISTERN UNSERER ZEIT
+
+Versteigerung vom 19. Oktober 1920
+
+## A) Vormittags von 10 Uhr ab
+
+## C.REICHERT.
+
+- 1-2.Kopfe zweier Jagdhunde mit erlegtem Wild. Gegensticke.
+- Holz,signiert.H.15 cm,Br.14 cm.G.R.
+
+## CL.v.WILLE.
+
+- 3.Kopf eines Hundes. Leinwand, signiert.H.41 cm,Br.35 cm.G.R.
+
+## D.THOMASSIN.
+
+- 4.Herbstwald bei schwerer Bewolkung. Als Staffage Kuhe an der Tranke. Leinwand,signiert.H.24 cm,Br.35 cna.G.-R.
+- 5.Heuernte.
+
+Holz, signiert.H. 18 cm,Br. 27 cm.G.-R.
+
+## E.LINGENFELDER.
+
+- 6.Studienkopf eines alten Mannes.
+- Leinwand,signiert.H.47 cm,Br.31 cm.S.R.
+
+## HORST HACKER.
+
+- 7.Blick auf einen oberitalienischen See. Leinwand, signiert. H. 35 cm,Br.70 cm. G.R.
+
+## P.PRIEM.
+
+- 8.Vor dem Gewitter.Flache Landschaft mit Herde als Staffage.Gewitterwolken.
+- Leinwand, signiert.H. 77 cm,Br.100 cm.S.R.
+- 9.Dorfkirche bei Abendbeleuchtung.Staffiert. Leinwand, undeutlich signiert.H.75 cm,Br.98 cm.G.-R.
+
+## B.ZICKENDRAHT.
+
+10. Kopf eines jungen Madchens, mit weibem Schal um das dunkle Haar und den entbloBten Hals.
+2. Leinwand, signiert. H. 28 cm,Br.23 cm.G.R.
+
+## A.HUTSCHENREUTTER.
+
+- 11.Stilleben mit Aepfeln und bauchiger Flasche. Leinwand, signiert.H.45 cm,Br.56 cm.G.-R.
+
+## O.W.DINGER.
+
+- 12.Rastende Eingeborene mit ihren Fahrzeugen auf einer brasilianischen Ebene. (Porto Allegre).
+- Leinwand, signiert.H.44 cm,Br.59 cm.G.-R.
+
+## PAUL SPANGENBERG.
+
+- 13.Brustbild eines jungen Madchens aus den Suidalpen mit rotem Brusttuch, landschaftlicher Hintergrund.
+
+Malpappe, signiert. H.30 cm,Br.24 cm.S.R.
+
+- 14.Brustbild eines lachenden jungen Madchens mit weiber Haube und grinem Schal. Malpappe, signiert.H.43 cm,Br.30 cm.S.R.(Beschadigt.)
+
+## C.HOPPENRATH.
+
+- 15.Rosen in einem Glasgefaf. Leinwand.H.70 cm,Br.46 cm.S.R.
+## HANS PRENTZEL.
+
+- Leinwand,signiert.H.36 cm,Br.51 cm.S.R.
+16. Sonniger Herbsttag im Stadtpark,im Hintergrunde Blick auf die Stadt.
+17. Blick auf eine alte Steinbricke und Kleinstadthauser bei Sonnenaufgang, Personen- und Tierstaffage. Aquarell, signiert.H. 68 cm,Br.97 cm.S.R.
+
+## HANS KLOHSS.
+
+- 18.Sonnige Vorfruhlingslandschaft, staffiert. Malpappe, signiert. H. 55 cm,Br.67 cm.G.-R.
+19. Winterlandschaft, im Hintergrunde ein Dorf.
+- Leinwand, signiert.H57 cm,Br.78 cm.G.R.
+
+## G.ENGELHARDT.
+
+- 20.Partie am Staubbachfall. Leinwand, signiert. H. 120 cm,Br. 92 cm. G.R.
+- 21.Weiblicher Akt.
+
+## GEORG KARS.
+
+- Leinwand, signiert.H.80 cm,Br. 63 cm.Gerahmt.
+- 22.Bois de Boulogne.
+- Leinwand, signiert.H. S0 cm,Br.93 cm.Gerahmt.
+
+## KEES VAN DONGEN.
+
+- 23.Boot im Hafen. Malpappe, signiert.H. 60 cm, Br.70 cm. Gerahmt.
+- 24.Vor dem Hotel.
+
+## GILLES.
+
+- Aquarell.H. 62 cm,Br.46 cm.Ohue Rahmen.
+
+## M.J. WAGENBAUR.
+
+- Holz, monogrammiert.H.20 cm, Br.23 cm.G.-R.
+- 25.Stehender Stier und liegendes Kalb in flacher Landschaft.
+
+## E.BERNHEIM.
+
+- 26.StraBe in Barbizon. Leinwand, signiert.H.32cm,Br.40 cm.G.-R.
+- 27.Bildnis einer lachenden, jungen Dame. Pastell, signiert.H. 38 cm,Br.30 cm.S.R.
+
+## F.MULLER-GOSSEN.
+
+- 28.Hafenpartie mit Segelschiff und Torpedoboot.Abendstimmung. Leinwand, signiert.H 59 cm,Br.79 cm.G.-R.
+
+## GIUSEPPE BUSCAGLIONE
+
+- 29.Ora mistica. Mondaufgang hinter einem Waldruicken.Im Tale Hittenrauch. Leinwand, signiert.H.95 cm,Br.156 cm.G.R.
+
+## HANS SCHLEICH.
+
+- 30.Waldpartie von einem Bach durchflossen. Leinwand, signiert. H.54 cm,Br. 39 cm.S.R.
+- 31.Waldpartie mit Weiher. Gegenstick. Leinwand,signiert.H. 54 cm,Br.39 cm.S.R.
+
+## LOVIS CORINTH.
+
+- 32.Weiblicher Aktmit aufgestitztem Arm.Kniestick. Leinwand, signiert.H. 50 cm,Br.40 cm.G.R.
+
+## WILLY BRANDES.
+
+- Leinwand, rechts unten signiert.H.50 cm,Br.74 cm.G.-R.
+- 33.Kihe auf der Weide mit Hirte und Hund.
+
+## O. JERNBERG.
+
+- Leinwand, links unten bezeichnet. H.35 cm, Br. 63 cm. G.-R.
+- 34.Feldlandschaft mit Baumallee.
+
+Abbildung Tafel-17
+## KARL BUCHHOLZ.
+
+- 35.Landschaft mit Wassertimpel. Aquarell.H.17 cm,Br.23,5 cm.S R.
+- 36.Tiberbricke bei Rom.
+
+## CARL LANGHAMMER.
+
+Holz,links unten bezeichnet.H.44 cm,Br.60 cm.G.R.
+
+- 37.Waldwiese mit Birken und weidenden Kihen. Leinwand,rechts unten signiert.H.46 cm,Br.70 cm.S.R.
+
+## WILH. KANDLER.
+
+38. Partie aus der romischen Campagna mit Tempelruine und Ziegenhirten bei ihrer Herde. Leinwand, signiert.H. 120 cm,Br.150 cm.G.R.
+
+## F.LEEKE.
+
+Mit Deckfarben gehohte farbige Kreidezeichnung. Papier auf Leinwand,signiert H. 98 cm,Br.125 cm.S.R.
+
+39. Ein junger Dichter liest einer am Kaffeetisch sitzenden Gesellschaft von drei Damen aus seinen Werken vor.
+2. 40.Fischerboote im Hafen.
+
+## H. von HAYEK.
+
+Malpappe.H.26cm,Br.42 cm.G.-R.
+
+- 41.Allegorie auf die Freiheit.
+
+H.KAULBACH.
+
+- Holz mit NachlaBstempel auf der Rickseite. H.24 cm,Br.17 cm.S.R
+
+G.MARSCHALL.
+
+Leinwand, signiert. H. 83 cm,Br. 110 cm. S.R.
+
+- 42.Partie aus den Waldern von Rominten.
+
+## PHILIPP ARONS.
+
+- 43.-44.Zwei Frauenkopfe.Oval,Gegensticke. Leinwand,signiert.H.57cm,Br.46 cm.G.-R.
+- 45.Inneres eines Biedermeier-Zimmers.
+
+P.FRANKE.
+
+Malpappe,signiert,unter Glas.H.26 cm,Br.20 cm.S.R.
+
+H.HEIM.
+
+- Leinwand,signiert.H. 54 cm,Br.80 cm.G.-R.
+- 46.Mecklenburgische Landschaft mit Wasser und Bauernhausern.
+
+W. MORAS.
+
+- Tempera,monogrammiert.H.13 cm,Br.21 cm.S.R
+- 47.Fjordlandschaft bei Sonnenuntergang.
+
+A.DETTMERS.
+
+48. Wassermihle in Thuringen. Malpappe, signiert. H.16,5 cm,Br.25 cm.S.R.
+2. 49.Birkenallee bei Gorsdorf i. d.Mark. Leinwand.H.56 cm,Br.50 cm.G.R.
+
+M.KLIX.
+
+## RICHARD KAISER.
+
+- Leinwand, signiert.H.150cm,Br.155 cm.Heller R.
+50. Sonnenbeschienene Dorfkirche mit Teich im Vordergrunde.
+
+## F.W. KELLER-REUTLINGEN.
+
+- Leinwand,signiert.H.47 cm,Br.66 cm.S.R
+- 51.Schwabisches Madchen,im Grase liegend.
+
+## MUNCHENER KUNSTLER.
+
+- Oelstudie.H.34 cm,Br.26 cm. Mahagoni-R.
+- 52.Bauernjunge mit Rhabarber.
+- 53.Landschaft mit Gefligel.
+
+C.L.HOFMANN.
+
+Holz,signiert.H.10 cm,Br.14 cm.S.R.
+## R.EICHLER.
+
+- Leinwand,signiert.H.92cm,Br.70 cm.G.-R.
+54. Weiblicher Akt, vom Rucken gesehen.
+
+## F.v.WILLE.
+
+- Leinwand,signiert.H.50 cm,Br.60 cm.S.R.
+55. Blick auf ein mit Ginster bewachsenes Tal.
+
+## L.PASSINI.
+
+- 56.Weibliches Bildnis,Kniestick, in hellblauem, ausgeschnittenem,mit schwarzen Spitzen besetzten Kostim.Die Linke halt einen Facher. Aquarell, mit dem Namen des Kinstlers und der Jahreszahl 1873 bezeichnet.H.54 cm,Br. 38 cm. G.-R.
+
+## CHIERICI GAETANO.
+
+- schreiend am Boden. Vier Katzen stellen sich den Eindringlingen entgegen. Leinwand, signiert.H.113 cm,Br.153 cm.G.R.
+- 57.Der Ueberfall. Ein kleines Madchen, von einer hereinstirmenden Ganseherde crschreckt, liegt
+
+## OTTO v.KAMEKE.
+
+- Leinwand, signiert.H. 64 cm,Br.44 cm.G.-R.
+- 58.Wildbach zwischen Felsen in Hochgebirge.
+
+## STANISLAUS V.KALCKREUTH.
+
+59. Blick iber cinen tannenbewachsenen Felshang auf das Ortlermassiv.Abendbeleuchtung. Leinwand,signiert und datiert 84.H.114 cm,Br.84 cm.G.R.
+
+## C.OESTERLEY.
+
+- 60.Fjordlandschaft mit Schiffen vor Anker. Leinwand,siguiert.H.77 cm,Br.131 cm.G.-R.
+
+## H.SAVRY.
+
+- Leinwand signiert. H. 50 cm, Br.80 cm.G.R.
+- 61.Kuhherde an einem hollandischen Kanal.
+
+## J.HUTH.
+
+- 62.Helgolander Kuste bei untergehender Sonne. Als Staffage Fischerboote. Leinwand,signiert.H.44cm,Br.70 cm.G-R.
+
+## F.HALBERG-KRAUSS.
+
+- 63.Blick auf das Ufer eines Sees.Im Vordergrunde bluihende Gewachse. Malpappe, signiert.H.29 cm,Br. 41 cm.S.R.
+
+## W.LICHTENHELD.
+
+- 64.Landschaft mit Wasser bei Mondbeleuchtung. Leinwand, siguiert.H.57 cm,Br.86 cm. G.R.
+
+## R.P.BONINGTON.
+
+- 65.Krieger des 17. Jahrhunderts in einer Schanke im Streit um das Spiel. Ein junges Madchen schaut zur Tur herein. Auf Holz.Monogrammiert. H.37 cm,Br.45 cm. G.R.
+
+## P.F.MESSERSCHMITT.
+
+- 66.Postwagen vor einer Torwache haltend. Gouache mit dem Namen des Kunstlers.H. 48 cm,Br.64 cm.G.R.
+
+## TH. WEDEPOHL.
+
+Pastellgemalde, signiert.H.65 cm,Br.97 cm.G.-R.
+
+## CASPAR RITTER.
+
+68. Brustbild einer jungen Dame mit vollem dunkelblonden Haar. Oval. Leinwand, signiert.H.68cm,Br.47 cm.G.-R.
+
+## S.GLUCKLICH.
+
+69. Bildnis einer jungen Dame im Florentiner Hut.Halbfigur sitzend. Leinwand, signiert.H.95 cm,Br.70 cm.G.-R.
+
+## C.von SIEVERS.
+
+- 70.Stilleben.An cinem grin glasierten Krug Spargelbund, Salatblatter usw. Leinwand, signiert.H.45 cm,Br.63 cm.G.-R.
+
+6
+
+67.Fernblick am Scharmitzelsee.
+- 76.Waldlandschaft.
+- 77.Hochgebirgslandschaft.
+- 79.Blick ins Tibertal.
+
+## W. TRUBNER.
+
+71. Brustbild des Konigs von Wurtemberg in Dragoner-Uniform mit Mutze.
+2. Leinwand, signiert.H.64 cm, Br.47 cm.G.-R.
+
+## F.SKARBINA.
+
+- 72.Auf der Digue: Eine Dame, einen Facher in der Rechten haltend, gibt von der Promenade herab einem unten stehenden Herrn ein Zeichen.Lebhaftes Strandleben. Leinwand, signiert und datiert 1883. H.135 cm,Br.84 cm.G.-R.
+- 73.Abendliches StraBenbild,Dame mit Kind.
+
+Pastellgemalde, links unten der NachlaB-Stempel.H. 60 cm,Br. 45 cm. G.-R.
+
+- 74.Park im Schnee bei untergehender Sonne,staffiert.
+- Pastellgemalde,links unten der NachlaB-Stempel.H. 60 cm,Br. 45 cm
+
+## FRANZ EICHHORST.
+
+- 75.Bauernstube mit zwei alten Frauen.
+
+Leinwand, rechts unten bezeichnet.H.51 cm,Br. 64 cm.G.R.
+
+## WILHELM AMBERG.
+
+Oel auf Malpappe, links unten W.Amberg, Misdroy.H.32 cm,Br. 42 cm. S.R.
+
+## THEOD.HAGEN.
+
+Oel, signiert.H.41 cm,Br.47 cm.S.R.
+
+## FRIEDR. KALLMORGEN.
+
+- 78.An der Elbe,Abschied vom Dampfer.
+- Leinwand,links der Kinstlername.H.51 cm,Br. 69 cm.G.-R.
+
+## LUDWIG von HOFMANN.
+
+Leinwand,rechts unten das Kinstlermonogramm.H.26 cm,Br.46 cm.G.-R.
+
+## KARL BENNEWITZ V. LOEFEN.
+
+- 80.Dorfchen am Walde, Vieh auf der Weide.
+- Leinwand, rechts unten das Kinstlermonogramm.H.28 cm,Br. 52 cm.G,-R.
+
+## LOVIS CORINTH.
+
+Buntstiftzeichnung, links unten Lovis Corinth,Appenzell 1895.H. 36 cm,Br.28 cm.S.R.
+
+- 81.Madchenbrustbild.
+82. Centaurenpaar in Umarmung. Leinwand,rechter Teil mit der Signatur nach hinten umgeschlagen.H.56 cm,Br. 44 cm.G.R.
+- S2a. Kniestick einer jungen Dame in Hut und blauem Mantel, einen grinen Facher in der Rechten. Leinwand,signiert.H.47cm.,Br.22 cm G.-R.
+
+## K.MULLER-KURZWELLY
+
+Malpappe, signiert.H. 20 cm,Br. 31 cm. S.R.
+
+## BENCKENSTEIN
+
+Leinwand.H.27 cm,Br.24 cm.G.-R.
+
+## A.BRENDEL
+
+- 82d. Heimgekehrte Schafherde drangt in den vom Schafer geoffneten Stall.
+- Leinwand,signiert.H. 79 cm,Br.63 cm.G.-R.
+
+## J.WENTSCHER
+
+- 82e. Nordischer Bergsee. Leinwand, signiert. H. 60 cm,Br.79 cn.G.-R.
+
+## F.V.DEFREGGER.
+
+- 83.Brustbild eines Tirolers mit Federhut und Pfeife.
+- Holz,signiert.H.19 cm,Br.14,5cm.G.-R.
+
+## A.v.MENZEL.
+
+- 84.Halbfigur einer Obstverkauferin. Bleistift,monogrammiert 81.H.12,5 cm,Br.20 cm. Gerahmt.
+
+Abbildung Tafel15
+
+- G.-R.
+- 82b.Winterlandschaft.
+- 82c.Meereskiste.
+
+Abbildung Tafel 15
+
+Abbildung Tafel14
+
+Abbildung Tafel14
+## L.MUNTHE.
+
+- 85.Eichwald im Schneesturm. Als Staffage Fahrzeuge und Knechte beim Sammeln von Bruchhoiz. Leinwand, signiert und datiert 1867.H.102 cm,Br.148 cm.G.-R. Abbildung Tafel 1
+
+## CARL LARSSON.
+
+- 86.Winterlandschaft mit offenem FluB an einem Waldrand. Morgenstimmung. Im Mittelgrunde cinsames Gehoff. Leinwand, monogrammiert u. datiert 95. H. 60 cm, Br. 101 um. G.-R. Abbildung Tafel13
+
+## ANDERS ZORN.
+
+- 87.Zwei badende Frauen am Meeresufer. Wasser-und Deckfarben,signiert und datiert Dalar 87.H.61 cm,Br. 33 cm.G-R. Abbildung Tafel2
+
+## MAX KLINGER.
+
+- 88.Das Landhaus des Kinstlers in GroB-Jena. Aquarell, monogrammiert und datiert 3.9. 06.H.22 cm,Br.31 cm.Gerahmt, Abbildung Tafel 16
+- 89.Blick auf eine Stadt.
+
+## OTTO GREINER.
+
+- Aquarell mit Signatur und Widmung. H.17 cm, Br.24 cm. Ohne Rahmen. 90.Waldboden mit Blumen. Aquarell, monogrammiert. H. 13 cm,Br.25 cm.Ohne Rahmen.
+- 91.Die Nacht.
+- 92.Haus an der Mauer.
+
+## MAX SLEVOGT.
+
+Aquarell, signiert. H. 100 cm,Br.75 cm. Gerahmt. Auf der Ruckseite Notiz des verstoibenen Minchener Kunsthistorikers Prof.Dr.Karl Voll, des Schwagers des Kinstlers:Das Aquarell ist 1895 nach dem lebenden Modellim AnschluB an Bocklins Nacht alsPlakat fir den Simplicissimus gemacht,fiel aber gegen Th.Th.Heines zwei Hunde durch.Dr.Voll." Abbildung Tafel19
+
+Oelskizze, signiert. Hohe 26 cm, Br.36 cm.Gerahmt.
+
+## FRANZ MARC.
+
+- 94.Landschaft.Fruhwerk des Kunstlers. Malpappe, auf der Rickseite begonnene Interieurstudie des Kinstlcrs und Provenienzbestatigung. H.35 cm Br.41 cm.Gerahmt. Abbildung Tafel16
+
+Abbildung Tafel17
+
+- 93.Baume im Schnee. Aquarell, bezeichnet Marc Kochel III 06. Auf der Rickseite Provenienzbestatigung. H. 48 cm,Br.36 cm. Gerahmt. Abbildung Tafel16
+
+## MAX LIEBERMANN.
+
+- 96.Dinenlandschaft mit Blick auf die brandende Nordsee. Malpappe, signiert 07. H.38 cm, Br. 47 cm.G.R. Abbildung Tafel4
+- 95.Landschaftsstudie. Frau auf buschigem Weg. Malpappe, signiert.H,33 cm,Br.47 cm.G.R Abbildung Tafel4
+97. Spielende Kinder am Ostseestrand.Im Hintergrund Badende. Malpappe, signiert.H.24 cm,Br.34 cm. Abbildung Tafel5
+- 98.Bildnis des Professors Soyka. Brustbild in schwarzer Joppe. Leinwand, signiert 91.H. 67 cm,Br.50 cm.G.R. Abbildung Tafel3
+
+## ALBERT v.KELLER.
+
+100. Nixen, einen jungen Ritter in den Sumpf lockend. Mondbeleuchtung. Malpappe,signiert.H.42 cm,Br.64 cm.G.-R. Abbildung Tafel10
+2. 99.Damenbildnis. Ganze Figur in hellrosa Kostim auf einem Lehnsessel. Um den Hals ein dunkler Pelz. Malpappe, signiert.H.68 cm, Br.46 cm.G.R. Abbildung Tafel9
+3. 101.Junges unbekleidetes Madchen, nach dem Bade auf einer Wiese ruhend.
+4. Leinwand, signiert.H. 40 cm,Br.60 cm.G.-R.
+
+## HUGO von HABERMANN.
+
+- 102.Edeldame in grinem, faltigem Kostum, sich die Handschuhe anziehend. Kniestick. Malpappe, signiert.H.36 cm,Br.22 cm.S.R.mit Goldleisten. Abbildung Tafel 11
+## F.v.STUCK.
+
+- 104.Profilkopf der Frau Braun mit dreifacher goldener Kette im braunen Haar.
+- 103.Weiblicher Profilkopf mit blaugrunem Band im dunkelbraunen Haar. Malpappe, signiert.H.21 cm,Br.20 cm.G.-R.
+- Malpappe, signiert. H.22 cm, Br.21 cm.G.R.
+
+## LUDWIG KNAUS.
+
+105. Szene vor einem landlichen Tanzsaal bei Kerzenbeleuchtung. Figurenreiche Komposition. Leinwand,monogrammiert.H.78 cm,Br.61 cm.G.-R.
+2. 105a.Interieur mit Stuhl.
+
+## MAX LIEBERMANN
+
+Malpappe mit eingekratzter Signatur.H.34 cm,Br.26 cm.G.-R.
+
+105b. Hugelige Landschaft mit Dorf im Mittelgrunde. Staffiert. Leinwand, signiert.H.49 cm,Br.67 cm.G.R.
+
+## FRITZ v.UHDE.
+
+- 106.Der blaue Page. Mit gefalteten Handen in ganzer Figur stehend. Leinwand.H.57cm,Br.40cm.G.-R.
+
+## OTTO H.ENGEL.
+
+- Malpappe, signiert.Entwurf zu dem in der National-Galerie befindlichen Bilde. H.49 cm,Br.70 cm. G.R. Abbildung Tafel12
+107. Dunenlandschaft an der Nordsee. Als Staffage zwei Madchen in friesischer Tracht.
+
+## N.GYSIS.
+
+- 108.Marokkaner in roter Jacke, ein Saiteninstrument spielend. Leinwand,signiert.H.58cm,Br.43 cm.G.R. Abbildung Tafel12
+
+## A.WIERUSZ-KOWALSKI.
+
+- 109.Ein mit zwei Pferden bespannter Schlitten mit drei Personen.Schneesturm. Leinwand, signiert.H.34 cm,Br.56cm.G.-R Abbildung Tafel 11
+
+## HANS THOMA.
+
+- Aquarell mit Monogramm und der Jahreszahl 1876. H. 34 cm, Br.47 cm.G.-R. AbbildungTafel6
+- Lichte Nacht.
+- Leinwand.H. 73 cm,Br.93 cm.G.-R.
+
+## A.v.MENZEL.
+
+- 112.Kirchen-Interieur mit buntem Glasfenster.Als Staffage zwei betende Frauen. Gouache.H.24 cm,Br.16 cm.G.-R.
+
+## LOVIS CORINTH.
+
+Abbildung Tafel
+
+AbbildungTafel10
+
+113. Dame mit Sonnenschirm auf einer blumigen Wiese in ganzer Figur, sitzend. Leinwand.Bezeichnet Lovis Corinth. Tyrol i910.H. 82 cm,Br.100 cm.G.-R. Abbildung Tafel S
+2. 114.Studienblatt.
+
+## A.v.MENZEL.
+
+- Bleistift,monogrammiert und datiert 93.H.18 cm,Br.1l,5 cm.Gerahmt.
+
+115.Landschaft mit Staffage.
+
+## HANS v.BARTELS.
+
+Malpappe, signiert. H.33 cm, Br.50 cm.S.R.
+
+## FR.V.DEFREGGER.
+
+- Malpappe, signiert.H.23 cm,Br.17 cm.G.R;
+116. Zitherspielendes junges Madchen. Halbfigur, sitzend. (Arbeit aus dem Jahre 1918.)
+
+## CARL JUTZ.
+
+- 117.Hahn im Bauerngehoft. Holz, signiert.H.27 cm,Br.40 cm.G.-R.
+118. Mondnacht an einem See.
+
+## L.DOUZETTE.
+
+- Malpappe, signiert.H.33 cm,Br.47 cm.G.R.
+
+Abbildung Tafel6
+
+Abbildung Tafel5
+## J.WOPFNER.
+
+119. Chiemsee mit Kaisergebirge. Malpappe, signiert. H.19 cm, Br.32 cm.G.R.
+
+## A.CALAME.
+
+- 119a.Alpenlandschaft. Leinwand,signiert.H.16 cm,Br.21 cm.G.-R
+
+## GEORG SCHUSTER-WOLDAN.
+
+120. Halbfigur einer jungen Dame in rotem Kleid und Pelz, vor einem Tisch mit Blumenvase sitzend. Leinwand, signiert. H.120 cm,Br.105 cm.G.R.
+
+## ED.V.GEBHARDT.
+
+- 121.Kopf der trauernden Maria. Malpappe.H.34 cm, Br.25 cm. G-R.
+
+## MAX LIEBERMANN.
+
+- Malpappe. H.40 cm,Br. 22 cm.WeiBe Leiste.
+
+## LOVIS CORINTH.
+
+- Handen tragend. Holz, signiert und datiert 1897. H.57 cm,Br.42 cm. Gerahmt.
+- 121a. Studic eines Madchens mit Hut.
+122. Flora. Brustbild eines jungen Madchens mit entbloBten Schultern, Blumen im Haar und in den
+- 122a. Mannliches Portrat.Halbfigur, sitzend mit zusammengelegten Handen.
+- Leinwand,signiert.H.100 cm,Br.92 cm.G.-R.
+
+## K.MULLER-KURZWELLY,BERLIN.
+
+123. Felsenklippe, an welcher das Meer in groBen Schaumwellen brandet. Seevogel als Staffage. Bild von grandioser Wirkung. Leinwand, signiert.H. 148 cm,Br.245 cm G.-R.
+
+## TH.HOSEMANN.
+
+- Holz,monogrammiert 1842.H.17 cm,Br.16 cm.G.R.
+
+## FRIEDRICH VOLTZ.
+
+125. Kuhherde an einem oberbayrischen See im Wasser stehend.
+2. Holz, signiert.H.18,5 cm,Br.40,5 cm.G-R.
+
+## LEOPOLD v.KALCKREUTH.
+
+Abbildung Tafel13
+
+126. In einer flachen Vorfrihlingslandschaft hitet eine Frau ihre Kuh. Regenstimmung. Leinwand, signiert und datiert 1902. H. 159 cm,Br.159 cm. G.-R.
+
+## BENJ.VAUTIER.
+
+127. Genesung.Halbfigur ciner jungen sitzenden Frau mit dunklem Haar. Leinwand.H.31 cm,Br.26cm.G.R.
+
+## LUDWIG BECKMANN.
+
+- 128.Auf der Saujagd.Winterlicher Waldweg mit Jagern und Hunden. Im Vordergrund ein erlegter Eber.
+- Leinwand.H.85cm,Br.121 cm.S.R.
+
+## J.F.MILLET.
+
+- 129.Zwei Holzsammlerinnen in herbstlicher Landschaft.
+- Leinwand, signiert.H.32 cm,Br.23 cm.S.R
+
+## ED.V.GEBHARDT.
+
+- 130.Verspotung Christi.Christus,in schwarzem Mantel am Tempeleingang stehend,wird von einer Volksmenge verhohnt und bedroht. Leinwand, signiert.H.60 cm,Br. 44 cm.S.R.
+- 131.Brustbild Christi in braunem Mantel im Profil'nach links. Die linke Hand ist bis zur Gesichtshohe erhoben.Lichteffekt.
+- Holz, signiert. H.43 cm,Br. 42 cm.S.R.
+- 131a. Christus in rotem Mantel, in gebeugter Haltung nach rechts schreitend. Brustbild.
+- Holz,signiert.H. 46 cm,Br.39 cm.S.R.
+
+## ARTHUR KAMPF.
+
+- 132.Bildnis einer Dame in weiBem Kleid. Ganze Figur, stehend.
+- Leinwand,signiert.H.192cm,Br.108 cm.G.-R.
+## H.E.POHLE.
+
+- 133.Halbfigur einer sitzenden Dame in Pelzmantel und Hut. Kohle,signiert.H.83cm,Br.67cm.G.-R.
+
+## WILH.AMBERG.
+
+134. Sitzendes junges Madchen in weibem Gewand, in einem Buch lesend. Leinwand.H.40cm,Br.33 cm.G.-R.
+
+## G.SIMONI.
+
+- 135.Marktszene in Tanger. Im Vordergrund ein Teppichhandler, seine Waren ausrufend. Reich komponierte Darstellung. Aquarell, signiert. H.58 cm,Br. 86 cm.Gerahmt.
+
+## PAUL MEYERHEIM.
+
+- 136.Zwei Hasen. Leinwand,signiert.H.76 cm,Br.105cm.G.-R.
+
+## A.CALAME und J.BAKOF.
+
+- Leinwand,signiertJ.Bakof.H.90 cm,Br.129 cn.Gerahmt.
+
+## GIUSEPPE AGUJARI.
+
+- 138.Bildnis einer Dame.Oval. Aquarell, signiert.H.21 cm,Br.16,5 cm.Gerahmt.
+139. Weiblicher Akt.
+
+## JULIUS PASCIN.
+
+Leinwand.H.65 cm,Br.50 cm.Gerahmt.
+
+## P.MICHETTI.
+
+- Leinwand, signiert.H.20 cm,Br.31 cm.G-R
+- 140.Kleines Madchen mit Blumen, am Waldrand sitzend.
+
+## L.DILL.
+
+- 141.Baume an einem Weiher. Malpappe,unter dem Rahmen die Signatur.H.32 cm,Br.43 cm.S.R.
+
+## J.WENGLEIN.
+
+142. Ufer eines Weihers mit Gebisch. Malpappe, monogrammiert.H. 29 cm,Br.41 cm.S.R
+
+## BOERNER-LIEBERMANN.
+
+- 143.Die Netzflickerinnen. Probediuck der Boernerschen Radierung,von Liebermann farbig iberzeichnet und handschriflich signiert. Imp.-Qu.Fol.Gerahmt.
+
+## TH.WEDEPOHL.
+
+- 144.Blumen in einem Korbe.Oval. Malpappe,signiert.H.58 cm,Br.70 cm.G.R
+
+## M.A.STREMEL.
+
+145. Madchen im Atelier, eine chinesische Puppe in der Linken haltend. Holz.H.39cm,Br.33cm.G.R.
+2. 146.Inneres einer Tischlerwerkstatt mit drei arbeitenden Gesellen. Leinwand, signiert und datiert 1889.H.37 cm,Br.44 cm.G.-R.
+
+## TOULOUSE-LAUTREC.
+
+- Gouache,signiert.H.60 cm,Br.36 cm.Gerahmt.
+147. Stehende Frau,in der Hand einen Spiegel haltend.Halbe Rickenansicht.
+148. Maskenszene.
+
+Gouache.H.56 cm,Br.39 cm.Gerahmt.
+
+## EUGENE CARRIERE.
+
+- Malpappe, signiert.H.31 cm,Br.33 cm.G.-R.
+149. Alte Frau in einem Innenraum sitzend.
+150. Frau mit Kind und junges Madchen.
+151. Frau mit entbloBtem Hals, vom Rucken gesehen.
+- Malpappe.H.30 cm,Br.33 cm.G.-L.
+- Leinwand,signiert.H.44 cm,Br.37cm.G.-L.
+
+Abbildung Tafel20
+
+- AbbildungTafel19
+
+Abbildung Tafel 20
+
+Abbildung Tafel15
+## F.SCHEFFENECKER.
+
+- 152.Winterlandschaft bei Nebel. Leinwand, signiert.H.65 cm, Br.53 cm.G.-R,
+
+## PAUL BAUM.
+
+153. Sturzacker mit Bauernhausern im Mittelgrund. Leinwand.H.26 cm,Br.38 cm.G.R.
+154. Sonnige Wiesenlandschaft im Fruhling. Leinwand, signiert.H. 41 cm, Br. 54 cm.G.-R.
+
+## C.AMIET.
+
+- Leinwand, signiert.H. 40 cm,Br. 40 cm.Ohne Rahmen.
+- 155.Brustbild eines schlafenden jungen Madchens.
+
+## B) Nachmittags von 4 Uhr ab.
+
+## J.KELLER.
+
+156. Dorfmotiv bei Dachau. Mit Figuren und Tierstaffage. Leinwand,monogrammiert. H.28 cm,Br. 42 cm.G.R.
+
+## W.EBERSBERGER.
+
+- Holz, signiert.H.22 cm,Br.31 cm.G.-R.
+157. Fischerhiuschen auf der Fantasie.Bayreuth.
+
+## E.BAUER.
+
+- Holz, signiert.H. 22 cm,Br.27 cm. G.R.
+158. Stilleben.Trockene Weintrauben,geoffnete Orange usw.
+
+## LICHTENBERGER.
+
+- Malpappe, signiert.H.60 cm, Br.71 cm.G.R.
+159. StraBe einer GroBstadt im Schnee.
+
+## CUCUEL.
+
+160. Szene vor dem Osterreichischen Pavillon auf der Pariser Weltausstellung. Aquarell, signiert und datiert Paris 1900. H. 45 cm,Br. 62 cm.WeiBer Rahmen.
+
+## D. P. v. LOKHORST.
+
+161. Gartenpartie mit einer flaggengeschmickten Laube. Leinwand, signiert.H.54 cm,Br.75 cm.G.R.
+
+## CURT MESSERSCHMIDT.
+
+- Leinwand, signiert.H. 61 cm,Br.42 cm.S.R,
+- 162.Landliches Interieur mit Frau an einer Kommode.
+- 163.Partie in einem niederdeutschen Dorfe. Herbststimmung.
+- Leinwand, signiert.H. 48 cm,Br. 69 cm.G.-R.
+
+## LUISE BEGAS-PARMENTIER.
+
+- umgeben. Leinwand, signiert.H.70 cm,Br.120 cm.G.-R.
+- 164.Blick auf ein weites Tal, im Vordergrunde auf einer Anhohe Mormorstatue, von Cypressen
+165. Mausoleum auf einer Anhohe, von Cypressen umgeben.
+- Leinwand, signieit. H. 70 cm,Br.120 cm. G.R.
+
+## AUGUST F.KOPISCH.
+
+- 166.Italienische Kistenlandschaft.Im Vordergrunde zwei groBe Baume. Leinwand.H.54 cm,Br.72 cm,G.-R.
+
+Der bekannte Dichter des，Heinzelmannchen."
+## J.W. PREYER.
+
+## C.HANSEN.
+
+- 167.Stilleben. Weintrauben,Pfirsich usw. Holz, signiert.H.22 cm,Br.28 cm.G.-R.
+- 168.Vorfrihling. Flache Landschaft mit Blick auf ein Waldchen. Leinwand, signiert.H.48 cm,Br. 61 cm.S.R.
+
+169.Kircheninterieur mit Betenden.
+
+## B.PANKOK.
+
+- Gouache, Malpappe, signiert.H.26 cm,Br.32 cm.Brauner Rahmen.
+170. Italienische Landschaft mit Cypressen. Gouache,signiert.H.29 cm,Br. 23 cm.G.-R
+
+## WILLIAM KRAUSE.
+
+171. Halbfigur einer wendischen Konfirmandin in reicher bunter Tracht. Leinwand, signiert.H.50 cm,Br.70 cm.G.-R.
+
+## M.FRITZ.
+
+- Leinwand,signiert.H.65cm,Br.100 cm.G.-R.
+- 172.Blick auf ein Stadtchen an der Mosel. Im Vordergrunde Fahre.
+
+## JAMES MARSHALL.
+
+- Leinwand.H.115cm,Br.137cm.G.-R.
+173. Sokrates und seine Frau Xanthippe.
+
+## HANS GOTZINGER.
+
+174. Inneres einer Schmiede im Hochgebirge.Staffiert. Leinwand, signiert.H. 45 cm, Br.60 cm.G.-R.
+
+## C.KLIMSCH.
+
+- 175.Parklandschaft mit durchfallenden Sonnenstrahlen Leinwand, signiert.H.53 cm,Br.69.cm.G.-R.
+
+## CESARE DELL'AQUA.
+
+176. Halbfigur einer Orientalin,eine Lachtaube liebkosend. Leinwand, signiert. H.112 cm,Br.84 cm.G.-R
+
+## W.MORAS.
+
+- 177.Landlicher Hof. Malpappe, signiert. H.15 cm, Br.10 cm. S.R.
+
+## ANDREAS ACHENBACH.
+
+## W.MEYERHEIM.
+
+- 178.Entwurf zu dem 1853 gemalten Bild:,Norwegischer Wasserfall". Leinwand auf Pappe.Dabei der Stich des obengenannten Bildes und Zertifikat.H. 25 cm, Br. 28 cm. G.R.
+179. Spielende Kinder in einer Landschaft. Aquarell, signiert. H.15 cm,Br. 21 cm.G.-R.
+
+## REICH-MUNSTERBERG.
+
+- 180.Bauernhaus in der Haide. Leinwand, signiert. H. 66 cm, Br.96 cm.S.R.
+
+## C.v. SIVERS.
+
+- Leinwand, signiert.H.80 cm,Br.120 cm.S.R.
+- 181.Inneres einer Bauernstube.Im Fenster Geranien.
+- 182.Waldweg im Tauwetter.
+
+## CARL RODER.
+
+- Leinwand, signiert. H.70 cm, Br. 110 cm.S.R.
+
+## UNBEKANNT.
+
+- Malmappe.H.40 cm,Br.54 cm.G.R.
+- 183.Hafenpartie mit Fischerbooten vor Anker.
+- 184.Ein Verurteilter,von einem Monch getrostet.
+185. Die heilige Familie und Sankt Katharina. Halbfiguren. Holz.H.36 cm,Br.30 cm,S.R.
+- Leinwand.H.43cm,Br.34 cm.G.R.
+- 186.Brustbild eines jungen Mannes. Leinwand.H.67 cm,Br.52 cm.Alter R.
+## E.HEERMANN.
+
+- 187.Brustbild A.v. Menzels. Originaliadierung.Friher Druck.Gerahmt.Gr.Fol.
+
+## CH. SELL sr.
+
+- auf Erkundung.Gegensticke. Holz, signiert.H. 21 cm, Br.29 cm.G.R.
+- 188-89. Soldner des dreiBigjahrigen Krieges, sein Pferd am Zugel fihrend.-Zwei Kavallerieoffiziere
+- 190.Pferde auf der Weide.
+
+## A.ROLOFF.
+
+- Leinwaud, signiert.H. 57 cm,Br.73 cm.S.R.
+
+## E.VOLKERS.
+
+191. Rappe, gesattelt und gezaumt, vor einer Mauer. Am Boden Eimer und Woilach. Leinwand, signiert.H.47cm,Br.58 cm.G.-R.
+
+## PHILIPP KLEIN.
+
+- Balltoilette einer Dame und Husarenattila und ·mitze, auf einem Sessel liegend.
+- 192.Nach dem Balle. Leinwand,signiert. H.77 cm,Br.94cm.G.-R.
+
+## LOVIS CORINTH.
+
+- 193.Eva und die Schlange. Farbige Kreidezeichnung, signiert. H.41 cm,Br. 30 cm.G.R.
+
+## D.P.van LOKHORST.
+
+- 194.Landschaft mit Windmihle und weidenden Kuhen. Leinwand.H.35cm,Br.54 cm.S.R.
+- 195.Schafe auf der Weide (unvollendet). Leinwand.H.36 cm,Br.55 cm.Ohne Rahmen.
+
+## DIRK van LOCKHORST.
+
+- 195a. Gruppe von vier Schafen in einer Landschaft. Leinwand,signiert.H.35 cm,Br.50 cm.Brauner Rahmen
+
+## CONRAD LESSING.
+
+- Malpappe,signiert.H. 67 cm,Br.81 cm.G.-R.
+196. Ruine des Schlosses Belfort in Luxemburg.
+
+## G.K.ENGELHARDT.
+
+- 197.Blick auf die Lengentalalp mit Hutten im Vordergrund.
+- Leinwand.signiert.H.55 cm,Br. 76 cm.S.R.
+- 198.Abend im Lengental,im Vordergrunde alte Kiefern. Leinwand, signiert.H.57 cm,Br.69 cm.S.R.
+
+## SCHUTZ.
+
+- Leinwand, signieit.H.50 cm,Br. 68 cm.S.R.
+- 199.Landschaft mit strohgedeckten Hausern und italienischen Pappeln.
+
+## H.KOCHANOWSKI.
+
+## HANS KLOHSS.
+
+- 200.Winterliche Flachlandschaft mit Schilf im Vordergrunde,Abenddammerung. Leinwand, signiert.H.36 cm, Br.54 cm.S.R. (Beschadigt.)
+201. Tauwetter in flacher Landschaft.
+- Malpappe, signiert.H. 54 cm,Br. 63 cm. S.R.
+
+## ADOLF SCHLABITZ.
+
+202. Brustbild eines bartigen Mannes.
+2. Oel,rechis unten bezeichnet.H. 58 cm,Br. 46 cm.S.R.
+
+## RICHARD ESCHKE.
+
+203. Am Meeresstrande,Manner und Frauen Fischnetze waschend. Gouache,Papier auf Leinwand, links unten bezeichnet.H.80 cm,Br.130 cm.G-R.
+
+## CARL BREITBACH.
+
+Oel,links unten der NachlaBstempel.H.48cm,Br. 6O cm.G.-R.
+
+- 204.Waldinneres.
+- 205.Marine.
+
+## WILLY HAMACHER.
+
+- Leinwand,rechts unten signiert.H.110cm,Br.140 cm.G.-R.
+
+## GEORG MACCO.
+
+- 206.Landschaftsmotiv bei Palermo. Leinwand,rechts unten der Kinstlername.H. 33 cm,Br.46 cm.G.R.
+
+## HEINRICH LESSING.
+
+- 207.Gutshof mit Muble am Bach. Leinwand,rechts unten signiert.H. 66 cm,Br. 56 cm. S.R.
+
+## KARL ROTTMANN.Art.
+
+- Leinwand,auf der Rickseite Zertifikat des Prof. Jul. Zimmermann.H.31 cm,Br.40 cm.G.R.
+- 208.Partie aus der Levante mit Gebauden und Blick auf das Meer. Staffiert.
+
+## JULIUS EXTER.
+
+210. Gesellschaft im Grunen.Krocketspieler und spielende Kinder unter bluhenden Obstbaumen. Leinwand, signiert und datiert 1888.H.125cm,Br.230cm.G.R.
+209. Das SchweiBtuch der heiligen Veronika. Darunter die Kreuzigung Christi Leinwand signiert.H.68 cm,Br. 48 cm.S.R.
+3. bartigen Mannes mit Hut. Malpappe, signiert.H.61 cm, Br.49 cm,S. R.
+
+## ROIG Y SOLER.
+
+- Leinwand, signiert. H. 55 cm,Br.94 cm.G.-R
+212. Partie aus dem Hafen von Barcelona. Im Vordergrund Denkmal mit zwei Bronzelowen.
+
+## OTTO DILL.
+
+- Leinwand,signiert.H.47 cm,Br.60 cm.S.R
+213. Drei Pferde an einem Holzzaun stehend.
+
+## ED. MANET.
+
+- 214.Handstudie mit Laute. Rotelzeichnung.aus seiner Lehrzeit bei Couture. H. 18 cm,Br.24 cm. Gerahmt.
+
+## O.HETTNER.
+
+- 215.Vier Fischer am Meere. Farbige Kreide,monogrammiert. H. 54 cm,Br.48 cm.G-R.
+
+## KARL HOFER.
+
+- 216.Nachtliche Strafenszene. Tusche und Feder, monogrammiert.H. 35 cm, Br. 41 cm. Gerahmt.
+
+## E.VUILLARD.
+
+- Oeltempera, signiert.H.27 cm,Br.23 bzw.21,5 cm.
+- 217.Drei Interieurs in gemeinsamer Rahmung.
+
+## DORA HITZ.
+
+218. Kleines blondes Madchen mit Haubchen. Aquarell, signiert Paris 1887. H.38 cm, Br.26 cm.Gerahmt.
+
+## FR.PRELLER d.A.
+
+- 219.Eichengruppe an der See. Bleistiftzeichnung, signiert und datiert 1851.H. 18 cm, Br.26 cm. Gerahmt.
+- 220.Brandung an felsiger Kuste.
+
+## RICH.DREHER.
+
+- Tusche, signiert.H.38 cm,Br.52 cm.Unter Glas.
+
+## OTTO FISCHER.
+
+- Aquarell, signiert.H.56 cm,Br.45 cm.G.-R.
+- 221.Am Atelierfenster.Der Radierer Starke bei der Arbeit.
+## RICH. MULLER.
+
+- Kohle, weib gehoht, signiert. H. 52 cm,Br.35 cm. S.R.
+- 222.Alter Schuhmacher in seiner Werkstatt.
+
+## WILH. KREIS.
+
+- 223.Motiv aus dem Park Alt-Troja bei Prag. Kreidezeichnung.H.24 cm,Br.36 cm.Gerahmt.
+
+## KONST.SOMOFF.
+
+- Aquarell, signiert （um 1903).H.13,5 cm,Br.10 cm. Gerahmt.
+- 224.Der Park in Pawlowsk bei St.Petersburg.
+
+## H.CRAMER.
+
+- 225.Vordergrundstudie mit Narzissen. Malpappe, signiert.H.40 cm,Br.51 cm.S.R.
+- 226.Partie aus Misdroy.
+
+## J. JACOB.
+
+- Wasser-und Deckfarben,signiert.H.25 cm,Br.34 cm.S.R.
+- 227.Blick auf den grinen Graben. Dieselbe Technik,signiert.H. 37 cm,Br.30 cm.S.R.(beschadigt).
+
+## JULES.CHERET.
+
+- 228.Pierette. Halbfigur mit Facher. Pastell, signiert.Um 1895.H.34 cm,Br.26 cm.Gerahmt.
+
+## L.V.HOFMANN.
+
+- 230.Badendes Madchen am Waldbach. Pastell,monogrammiert.H.23 cm,Br.35 cm. Gerahmt.
+- 229.Strandlandschaft mit Badenden. Weif gehohte Kreidezeichnung mit Monogramm. H.23cm,Br.36cm. Gerahmt.
+
+## L.OURY.
+
+- 231.Profilbrustbild eines jungen Madchens mit Kappe und dunklem Mantel. Leinwand, signiert.H.49 cm,Br. 40 cm.G.-R.(beschadigt）
+- 232.Partie aus dem Park von Versailles.
+
+## A. BENOIS.
+
+- Aquarell, signiert.H. 26 cm,Br.43 cm.Gerahmt.
+- 233.Rennpferd,nach links gewendet.
+
+## G.A.FRIEDRICH.
+
+- Leinwand.H.35 cm,Br.43 cm.S.R.
+
+## JULIUS DIEZ.
+
+- 234-35. Zwei Friese mit mythologischen Figuren und Pferden. Auf Goldgrund. Gegensticke. Deckfarbe auf Holz, signiert. H. 23 cm,Br.113 cm.S.R.
+- 236.Kauernder junger Hund.
+
+## G.MORLAND ANGEBL.
+
+- Malpappe.H.26 cm,Br.22 cm.G.-R.
+- 237.Birkenwaldchen.
+
+## UNBEKANNT.
+
+Malpappe. H. 21 cm,Br. 26 cm.S. R.
+
+## HANS MAKART.
+
+- Bleistiftzeichnung.H.53 cm,Br.29 cm.Gerahmt.
+238. Studie cines bartigen Mannes in ganzer Figur. (Aus dem NachlaB Wien 1885.)
+- 239.Bauer, sein Feld beackernd.
+
+## H.MUHLIG.
+
+- Holz,signiert.H. 15 cm,Br.12 cm.G.-R.
+## M.V.SCHWIND.ART.
+
+240. Susanna im Bade,von den beiden Greisen iberrascht.Im Hintergrund koniglicher Palast. Leinwand.H.100 cm,Br.78cm.G.-R.
+
+## J.G.WILLE.
+
+241. Ruine der Abtei von St.Maur. Sepiazeichnung, signiert,H.18 cm,Br.25 cm.S.R.
+
+## WALTER SCHNACKENBERG.
+
+- Aquarell, signiert.H.70 cm,Br. 55 cm.Weiber Rahmen
+- 242-43.In der Proszeniumsloge.-Variete.Gegenstuicke.
+
+## J.LEISTEN.
+
+- 244.Festzug auf der Freitreppe eines Palastes.Kostim des 17. Jahrh. Leinwand,signiert,H.1i0 cm,Br. 82 cm.G.-R.
+245. Gerahmte Federzeichnung von A.Volkmann:Jungling mit Stier. H.31 cm,Breite 32cm.
+246. Gerahmte Bleistiftzeichnung von Rich. Muiller:Frauenkopf. H.24cm,Br.17cm,
+247. Gerahmter Farbenhoizschnitt von Alb.Kriger nach P.P.Rubens. Das Kind des Kiinstlers mit dem Vogel. H.29cm,Br.23 cm.
+248. Gerahmter farbiger Linoleumschnitt von A.Illies:Am Ufer eines holsteinischen Sees. Handschriftlich signiert.Fol.
+249. Gerahmte Radierung von Aubrey de Rhoe-Bian:Heubeladener Kahn auf einem FluB. Gr.-Qu.-Fol.
+251. Gerahmte Steinzeichnung von Kathe Kollwitz: Selbstportrat.Fol.
+- 252.Gerahmte Lithographie von A. v.Menzel: Das Vater Unser. Roy.-Fol.
+253. Gerahmtes Aquarell von Richter-Lefensdorf 1892. Die Insel S. Giorgio bei Venedig. Signiert.H.37 cm,Br.67cm.
+254. Gerahmte Tuschzeichnung von F. Bukert. StraBe in Dresden. H.34cm,Br.23cm.
+255. Gerahmtes Blatt nach Rembrandt. Sechs Ratsherren. Gr.-Qu.-Fol.
+256. Getonte Gipsbuste: Franz von Lenbach.
+
+<!-- image -->

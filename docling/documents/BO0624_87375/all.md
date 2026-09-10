@@ -1,0 +1,2641 @@
+<!-- image -->
+
+## Glasmalereien etc.
+
+## Im Empfangs-Saale.
+
+- 1-11 Grosses gothisches Saalfenster, aus acht viereckigenu und drei spitzbogigen Scheiben bestehend:
+- 1) Oben in der mittleren Spitze beginnend: Scheihe, nach oben und unten gespitzt, mit dem, den hl. drei Konigen erscheinenden Stern, in von Banderole mit:,orietur stella ex Jacob" durchzogener Landschaftsdarstellung.
+- 3) Spitzbogige Scheibe, ganz ahnlich.
+- 2) Spitzbogige Scheibe in Fensteranlage,in der untern Halfte zwei Prophetenhalbfiguren iber breiten Banderolen mit Bibelspruichen, die auf die nachfolgenden Darstellungen beziglich; dariber Engel in reich drapirter Albe, ein Wappen emporhaltend, angeblieh Weyerstrass und on Bergheim; der Untergrund blau.
+- 4) Elisa vor dem Konige und Naeman der vom Aussatz geheilt sein will;
+- sein Heer hinter ihm.
+- 5) Todtung der Propheten durch Ahab (I. Konige 18,3）.
+- 7)Der Zug der Israeliten durchs rothe Meer.(Hostes marguntur per maris iter.—)
+- 6) Die Erscheinung Gott Vaters im Fener,vor der Gesetzgebung. Figurenreiche Composition im Vorgrunde einer Landschaft; die Menge schaut knieend und betend nach der Erscheinung..
+- 8) Elias erweckt den Sohn der Samariterin.(II.Konige 4,34.) Dargestellt in einem gothischen Zimmer, durch dessen Fenster und Thurbogen man in eine Landschaftsdarstellung bliekt.
+- 9) Die Ruckkehr Mosis vom Berge Sinai mit der Zerstorung des goldenen Kalbes. Oben Engel mit Schriftband:Jehovas Dabat tuas
+- 11)Abraham und Melchisedek.(I. Mos. 14, 20.)Abraham kommt beutebeladen aus dem siegreichen Kriege zurick und bringt Melchisedek den Zehnten, den sein Neffe Lot in einem goldenen Gefisse hinter ihm tragt.Hinter Melehisedek steht ein Priester in der Tracht der Cisterzienser-Monche.
+- 10) Moses macht zu Mara das bittere Wasser siss, indem er einen von Jehova gewiesenen Baum hineinwirft.(2.Moses 15,23-25.) Figurenreiche Composition.
+- 12-22 Grosses gothisches Saalfenster, ahnlich, aus acht viereckigen und drei spitzbogigen Scheiben bestehend:
+- Kreuz und Kirchenmodell vor landschaftlichem Hintergrunde.
+- 12) Oben in der mittleren Spitze beginnend:Scheibe, oben und unten gespitzt, mit der. stehenden Figur der Kaiserin Helena mit Krone,
+- 13) Spitzbogige Scheibe mit Propheten-Bisten iber breiten Banderolen, mit drei Reihen lateinischer Spriche; dariber zwischen gothischen Verschlingungen Engel in Albe ein Wappen (angeblich der Kolner Familie von Reidt) mit Heugabel und Eichbaum im Schilde, emporhaltend. Der Grund rosaroth.
+- 14) Spitzbogige Scheibe, ganz ahnlich und mit gleichem Wappen. Der Grund dunkelblau.
+- 15) Die Geburt Christi. Maria und Joseph, das neugeborene Kind anbetend,
+- 16) Das Gastmahl im Hause des Pharisaers. Christus mit drei anderen
+5. knieen vor dem Stalle;in der Umgebung Engelgruppen; im Hintergrunde die Hirten bei ihren Heerden.
+6. Figuren um eine besetzte Tafel sitzend; die hl. Magdalena salbt seine Fisse; links Bliek in ein zweites Gemach mit Gastmahl.
+- 18) Die Taufe im Jordan;rechts figurirte Landschaftsdarstellung, von Banderolen mit lateinischen Bibelsprichen durchzogen.
+- 17) Die Darbringung im Tempel. Composition von 5 Figuren in KirchenArchitectur; der Altar mit lateinischen und hebraischen Sprichen.
+- 19) Christus wird vom Teufel versucht,in drei verschiedenen Darstellungen, die von Schrift-Banderolen umzogen sind; der Hintergrund landschaftlich,mit Sehlossarhitectur.Unten ein Schriftband.
+10. den drei erschreckt auffahrenden Jungern.
+- 20) Die Verklarung Christi. Christus zwischen Moses und Elias erscheint
+- 21) Die Auferweckung des Lazarus in einer Composition von neun Figuren
+13. im Hintergrunde Sehlossarchitectur.
+- 22) Die Hochzeit zu Kanaan. Composition von acht Figuren in einer Saulenhalle; im Hintergrunde rechts drei Musikanten,
+15. 23-33 Grosses gothisches Saalfenster,ahnlich, aus acht viereckigen und drei gespitzten Scheiben zusammengesetzt:
+- 23) Spitzbogige Scheibe mit einer Gruppe dreier psalmirender Engelsfiguren,
+17. ein Notenblatt herabhaltend:
+- 24) Spitzbogige Scheibe von einem Ornamentfries umrahmt. Zu den Seiten einer reichen Saule Propheten-Halbfiguren in Banderolen mit lateinischen Sprichen; dariber das mit reicher Helmdecke und schoner Helmzier versehene prachtige Wappen der Familie Horn zu Parweis.
+- 25) Spitzbogige Scheibe in ganz ahnlicher Anordnung mit dem reichen
+20. Allianzwappen der Grafen von Merode.
+- 26) Zwei grotesk gehaltene mannliche Busten von Banderolen mit latei
+22. nischen Sprichen umzogen； dariber zwei Wappen vor Kirchenarehitectur, links Merode,rechts Lilie in rothem Felde.
+- 27) Aehnliche Darstellung mit den Allianzwappen der Familien Merode und de Berghes-Grimberg.
+- 28) Christus in Gethsemane;links die schlafenden Junger; im Hintergrunde
+25. naht Judas mit der zahlreichen Sehaar der Hascher.
+- 29) Christus vor Pilatus,in einer von Banderolen mit lateinischen Sprichen durchzogenen Composition von sechs Figuren; unten quergetheiltes burgerliches Wappen, das in der unteren Halfte ein schwarzes Feld, oben in weissem Felde drei nebeneinander stehende Muscheln zeigt.
+- 30) Der hl. Johannes der Evangelist in einer Saulenhalle stehend;vor ihm
+28. knieen drei Edeldamen in interessanten Costimfiguren mit prachtigen Gewandungen und hohen Gugelhauben.
+- 31) Zwei Hohepriester vor dem Altare opfernd; im Hintergrunde links
+30. Darstellung einer Schule.
+- 32) Zwei Knappen in einer Burg reichen sich vor einem Feuerheerd eine
+32. Schissel.
+- 33) Grosse Schlossarchitectur;links auf der Zugbricke vier Gewappnete in voller Rustung; rechts lasst sich ein Gefangener an einem Seile herab, Hohe eines jeden ganzen Fensters, einschliesslich der Umfassungsrahmen 380,Breite 150 Cent. Hohe jeder einzelnen Seheibe zwischen 60
+2. und 70 Cent.,Breite 56 Cent.
+
+Die vorstehend sub Nr.1-33 verzeichneten gotlischen Saalfenster sind sowohl in Bezug auf ilre theils 'profan gehaltenen Compositionen, die sich entschieden derKolnischen, speciell de Bruyn'schen Sehule anschliessen, sowie durch ihre, theils sehr feine und edel gehaltene Zeichnung und Ausfihrung von hervorragender Sehonheit und kunsthistorischer Bedeutung und bilden in ihrer Gesammtheit ein Ganzes,wie es wohl selten in Privatbesitz vorkommen durfte. Die Zeit ihrer Entstehung fallt in das Ende des XV.Jahrh.und stammen dieselben laut einer Notiz bei Stramberg, Rhein. Antiqu. lI, 10 S. 683, aus Koln und nach einer Darlegung von aus'm Weerth im Repertorinm fur Kunstwissenschaft aus der Kreuzbriderkirche daselbst.
+
+Versteigerung gelangen.
+
+Die hochinteressante Serie wird zuerst in den einzelnen, oban verzeichneten Scheiben, dann in ganzen Fenstern und zuletzt in ihrer Gesammtheit zur
+
+<!-- image -->
+
+## Im Cabinet links des Saales.
+
+- 34 Grosses, stark zugespitztes Fenster aus der Uebergangszeit der Gothik in die Renaissance, zumeist braun in braun gemalt. Die untere Parthie zeigt unter einem Renaissance-Bogen den hl. Benedict in vollem Ornate, mit Inful und Stab; vor ihm kniet, eine Banderole mit der Aufschrift:,See. Benedicte ora pro me" haltend, ein vornehmer Benedictiner-Monch, hinter dem eine heilige Martyrerin als Sehutzpatronin steht; iber der Darstellung vier musicirende Engel. Ein prachtiger Renaissance-Fries fihrt zu der obern Abtheilung i uber,in deren unterer Halfte die charakteristischen Halbfiguren eines Bischofs, der einen Pilger ermahnt iber dreizeiligen Banderolen, sich von dem blauen, gemusterten Hintergrunde wirkungsvoll abhebend; dariber das reiche Wappen der Herzoge von Juilich, Berg und Ravensberg. Hervorragendes Fenster von strenger Zeichnung und grossartiger rWirkung.
+
+Hohe 183, Breite 55 Cent.
+
+- 35 Gothisches Fenster mit der Geisselung Christi in einer an die Darstellung des Zwott erinnernden Composition von fuinf Figuren in einer reichen Saulenhalle mit parquettirtem Boden. Sehr interessante
+
+Hohe 95,Breite 57 Cent.
+
+- Glasmalerei. Oberdeutsch;XV.Jahrh.
+- 36 Runde Scheibe mit Darstellungen auf die Eitelkeiten des Lebens; links ein Gastmahl, rechts Spiel und Tanz,im Vorgrunde der Tod, dariber Inschrifttafel.Ringsum Schriftband mit:#gloria alitur industria,fieri curav. Anthonicus Bopparter 1588; unten Sehild mit Hausmarke.
+
+Diam.29 Cent.
+
+- 37 Kleines Scheibchen, schildformig, mit dem Mainzer Rad auf rothem Grunde.XVI. Jahrh.
+
+Hohe 8,Breite 7 Cent.
+- 38 Viereckige Schweizerscheibe. Unter einem Renaissance-Bogen das eine mit zwei fatternden Adlern in schwarz auf goldenem Grunde, das
+- stehen zwei, von den Abts Insignien iberragte Wappen andere mit Eichhornchen anf silbernem Grunde -,zwischen den Standfiguren der Madonna mit dem Kinde und eines hl. Abtes; in den oberen Zwickeln Kinderfries in Holbein's Geschmack.XVI. Jahrh. Hohe 43,Breite 31/Cent.
+- 39 Viereckiges Schweizerscheibchen. Abts-Wappen,quadrirt, mit den Insignien zwischen den Standfiguren der Madonna mit dem Kinde und eines hl. Abtes unter reicher Renaissance-Bogenstellung, in deren Zwickeln Darstellungen aus dem Martyrium des letztern; unten Cartusche mit Namensinschrift.XVI. Jahrh. Hohe 34,Breite 22 Cent.
+- 40 Ovales Scheibchen mit Johannes dem Taufer im Vorgrunde einer Gebirgslandschaft stehend.XVII.Jahrh. Hohe 20,Breite 15 Cent.
+- 41 Viereckiges Scheibchen mit Crucifixdarstellung unter einem reichen Portale mit allegorischen Figuren; in den oberen Zwickeln Christi Grablegung und Christus in der Vorholle; auf dem Sockel Kartusche mit Namensaufschrift:,Petrus Urbanius Pastor in Lorcherhausen und Altarista zu Lorch,anno 1650." Hohe 31, Breite 21 Cent.
+- 42 Scheibchen,oberhalb abgerundet,mit Pilger in Landschaft. Hohe 22, Breite 17 Cent.
+- 43 Scheibchen,oberhalb abgerundet,mit den Standfiguren der Heiligen
+- Petrus und Cacilia. Hohe 23, Breite 19 Cent.
+- 44-46 Drei kleine runde Scheibchen, fein gemalt mit Darstellungen aus der Geschichte des verlorenen Sohnes,nach Art der Kleinmeister. XVI.Jahrh.
+
+Diam.eines jeden 9 Cent.
+
+- 47 Viereckige Schweizerscheibe mit dem Schwur auf dem Rutli. Unter
+
+Hohe 32,Breite 20 Cent.
+
+- einem reichen Renaissance Bogen, iber dem Figurendarstellung, stehen, die Hand zum Schwur erhoben, drei interessante Kostimfguren. Auf dem Sockel Medaillon mit der Aufschrift:,Thoman Wiirsch von Underwalden 1504".
+- 48 Scheibchen, oberhalb abgerundet, mit der Enthauptung der hl. Mar.
+- garetha. XVII.Jahrh. Hohe 22, Breite 15 Cent.
+- 49 Viereckige Scheibe mit der Verkundigung Mariae zwischen zwei allegorischen Figuren;in der Hohe Monatsdarstellung; auf dem Sockel, zwischen zwei kimpfenden Genien, vielfeldiges Wappen mit Namens. unterschrift:(Peter Bresman,Kaiffman von Littig und Jahreszahl 1650)".
+
+Hohe 32, Breite 20 Cent.
+
+- 50 Scheibchen,oberhalb abgerundet,mit der Standfigur eines romischen
+- Kaisers im Ornate.XVII.Jahrh. Hohe 23, Breite 18 Cent.
+- 51 Scheibchen, oberhalb abgerundet, grau in grau gemalt mit der hl.
+- Ursula mit ihrer Gesellschaft.XVII.Jahrh. Hohe 24,Breite 19 Cent.
+- 52Viereckige Scheibe mit dem Stammbaum der Maria in einem reichen Ornamentmedaillon, in dessen oberen Abschnitten zwei allegorische Figuren; unten Inschriftafel: ,Balthasar Schmidt, Schulthes zu Lorch etc. etc. 1650"und Wappen mit Hausmarke.
+- Hohe 35,Breite 21 Cent.
+
+<!-- image -->
+
+## Im Cabinet rechts des Saales.
+
+- 53 Grosses oberhalb zugespitztes Fenster, in zwei Abtheilungen. Die obere zeigt unter einer reichen, von Thurm iberragten gothischen Nische den Ritter St.Georg in voller Ristung, als Schild das Banner der Grafen Merode,welches aber auch Trierentspricht,haltend und den Drachen erlegend.Der Hintergrund blau,in Blatt- und Arabeskenwerk in Schwarz gemustert. Auf der unteren Fillung eine knieende Donatrix (Catharina von Merode) als interessante Kostimfigur.Hinter ihr, seine Hande auf ihre Schultern legend,gefigelter Engel in Albe, vor ihr das grafich Merode'sche Wappen und Banderole mit:Sta Katharina ora pro me. Capitalstick von hervorragender Schonheit in der edlen strengen Zeichnung und der prachtigen Farbenwirkung.Ende XV. Jahrh. Hohe 183, Breite 55 Cent.
+- 54 Runde Scheibe mit reich behelmtem Wappen mit Adler-Klauen und Flugeln auf goldenem Grunde, auf prachtiger Helmdecke. XVI. Jahrh.
+- Diam.27 Cent.
+- 55 Der hl. Alban und die hl. Barbara. Zwei ausgeschnittene Einzelfiguren eines grossen gothischen Glasfensters. Hohe 65,Breite 66 Cent.
+- 56 Viereckiges Fenster nit den reich behelmten Doppelwappen des
+
+Hohe 72,Breite 64 Cent.
+
+- Kaufmann Hendrich Schieffer zu Koln und seiner Ehefrau, Susanna Neumans in einer reichen grau in grau gemalten Kartusche, mit Fruchtfestons haltenden Engelsfiguren, Namensschild und Jahreszahl 1694.
+- 57 Viereckiges Scheibchen mit David und Goliath in Landschaftsdarstellung; oben Flusslandsehaft mit besetztem Kahn; auf dem Sockel Puttenfiguren zuu den Seiten eines Wappenschildes (Schonemann und Frau Apollonia Meyer) und Jahreszahl 1650. Hohe 31, Breite 21 Cent.
+- 58 Viereckiges Scheibchen mit der Auferstehung Christi unter einem reichen Renaissance-Portale,fn dessen oberen Zwickeln die Frauen am Grabe und Christus als Gartner. XVII, Jahrh, Hohe 26,Breite 22 Cent.
+- 59 Kleines Scheibchen mit dem Sturze Sauls; unten Wappenschild mit zwei Adlern und musicirenden Puttenfiguren. XVII. Jahrh.
+- Hohe 25,Breite 29 Cent.
+- 60 Kleines Scheibchen mit Wappenschild, mit zehn Lilien auf rothem Querbalken.(Colonna?)XVI.Jahrh. Hohe 14,Breite 12 Cent.
+- 61 Kleines rautenformiges Scheibchen mit Wappenschild: Zinnen-
+- balken in schwarz auf silbernem Grunde. XVI. Jahrh. Diam.19 Cent.
+- 62 Rautenformiges Scheibchen mit Lowe in Gold auf schwarzem Grunde.
+
+Hohe 16, Breite 14 Cent.
+
+- XVII. Jahrh.
+2. 63 Kleines Scheibchen mit doppeltgeschweiftem Lowen auf blauem Grunde.XVHI.Jahrh
+3. Hohe 16,Breite 14 Cent.
+4. 64 Ovales Scheibchen mit dem quadrirten, doppeltbehelmten Wappen der Kolner Familien von Hardtfaust und von Bronckhorst;unten Schild mit Namensaufschrift und Jahreszahl 1613. Hohe 34,Breite 18 Cent.
+5. 65 Kleines rundes Scheibchen mit dem Wappen (3 goldene Ringe) der
+6. Anna Maria Rink,Aebtissin von Marienhausen, 1735. Diam.15 Cent.
+7. 66 Kleines Scheibchen mit Doppeladler in schwarz auf rothem Grunde. XVIII.Jahrh.
+8. Hohe 14,Breite 12 Cent.
+9. 67 Rundes Scheibchen mit dem Wappen des Mich.Sehnock, Abtes von
+10. Eberbach,1702. Diam.15 Cent.
+11. 68 Rautenformiges Scheibchen mit dem pfalz-bayerischen Wappen auf dem schwarzen Kreuze der Deutsch-Ordensritter. XVI. Jahrh. Hohe und Breite 18 Cent.
+12. 69 Rautenformiges Scheibchen mit Wappen:oben schwarzer Lowe in goldenem, unten schwarzes Andreaskreuz in silbernem Felde. XVI.
+
+Hohe und Breite 18 Cent.
+
+- Jahrh.
+- 70 Viereckiges Scheibchen mit dem quadrirten grafich Ostein’schen
+- Wappen.XVI. Jahrh. Hohe 18,Breite 16 Cent.
+- 71 Ovales Scheibchen mit dem doppeltbehelmten Allianzwappen der Gertraud Witwe von Schal und Beybach, Adelsfraw zu Birresheim; mit Aufschrift und Jahreszahl 1605. Hohe 34,Breite 18 Cent.
+
+<!-- image -->
+## Im Speisezimmer.
+
+- 72 Runde Schweizerscheibe. Die Mitte nimmt ein Schild mit dem Mainzer Rad und Rheingauer Haingericht auf rothem, in Arabesken gemustertem Grunde cin. Dasselbe ist kreuzformig umstellt von vier Langmedaillons,welcheauf schwarzem,mit Arabesken in Weiss gemustertem Grunde, grau in grau mit gelb gemalteDarstellungen aus den Minnespielen zeigen. Das Ganze umzieht eine Arabeskenbordire. Herrvorragendes Stick.Ende XV. Jahrh.
+
+Diam.33 Cent.
+
+- 73 Runde Scheibe. Die Mitte fullt ein ausgeschweiftes Schild mit einem Wiedehopf auf hellem in Arabesken gemustertem Grunde.Um dasselbe, kreuzformig gestellt, vier Medaillons mit interessanten Scenen aus den Minneliedern. Das Ganze ist hauptsachlich grau in grau mit gelb ge-
+- halten.Gute Scheibe. XVI. Jahrh.
+
+Diam.33 Cent.
+
+- 74 Runde Scheibe mit Christus am Kreuz,zu dessen Seiten DonatorenPaar mit seinen Kindern;unten am Kreuzesstamme Hausmarke; im Hintergrunde Arehitecturen. Oben Banderole mit Namensaufschrift:
+- ,Mathaus van Achen etc."und Jahreszahl 1572. Diam. 26 Cent.
+- 75 Viereckiges,oberhalb abgerundetes Scheibchen nit Sonne und Phonix in reicher, von Cherubim tiberragter Kartusche. XVll. Jahrh. Hohe 211/, Breite 17/ Cent.
+- 76 Scheibchen, oberhalb abgerundet, mit dem Wappen der Kolner Patri
+- zier-Familie Heinsberg (drei Flammen unter schwarzem Querbalken) XVII.ahrh. Hohe 21/, Breite 171 Cent,
+- 77 Runde Scheibe mit der Darstellung der ehernen Schlange. in gelb und braun ausgefuhrt.Inschrift:Numeri 4 Cap.21."XVI. Jahrh. Diam.22 Cent.
+- 78 Ovales scheibchen mit dem Wappen des Kolner Patrizier-Geschlechts Beywegh(1585 Canonicus ron Severin) mit springendem Bock,in reicher Kartusche,mit Engelskopf in Maskaron. Unter dem Sehild ein grosses Kreuz.XVII. Jahrh.
+
+Hohe 23/, Breite 18/ Cent.
+
+- 79 Ovales Wappenscheibchen mit Spitzbalken und drei Glocken in Gold auf schwarzem Grunde,auf reicher Helmdecke.(Aachener Patrizier-Familie Klocker.) XVIl.Jahrh. Hohe 221/, Breite 18′/Cent.
+- 80 Runde Scheibe mit der Auferstehung Christi im Vorgrunde einer Gebirgslandschaft, in vorziglicher Ausfihrung,braun in braun und
+- gelb. XVI. Jahrh.
+
+Diam.23 Cent.
+
+- 81 Scheibchen,oberhalb abgerundet,mit Doppel-Wappen der Julich Bergischen Patrizier-Familie Kronenberg, das eine mit Meerweibehen,
+- das andere mit Berg.XVII. Jahrh. Hohe 241/,Breite 19 Cent.
+- 82 Scheibchen,oberhalb abgerundet,mit getheiltem Wappen der Kolner Familie Schlein: links Strom mit oberer und unterer Blume,rechts Vogel.
+- XVII.Jahrh.
+
+Hohe 21/e, Breite 19 Cent.
+- 83 Runde Scheibe mit dem Tode der hl. Clara in einer Composition von sechs Figuren; in der Hohe der ausfahrende Teufel und Gott Vater
+- in einer Engelglorie. XVIl. Jahrh.
+- 84 Scheibchen,oberhalb abgerundet,mit doppeltbehelmtemdreigetheiltem Wappen mit Lowen und drei Zainhaken. XVI. Jahrh. Hohe 20,Breite 16 Cent.
+
+Diam.241/eCent.
+
+- 85 Scheibchen, oberhalb abgerundet, mit reich behelmtem,von zwei
+- Engeln gehaltenem Wappen. XVII.Jahrh. Hohe 20,Breite 16 Cent.
+- 86 Rundes Scheibchen mit der Auferstehung Christi;im Vorgrunde gemalt. XVI.Jahrh.
+- knieen sechs betende Stiftsdamen, braun in braun mit Schwarz und Gelb Diam.22 Cent.
+- 87 Ovales Scheibchen mit Wappen mit drei Enten, auf reicher Helm-
+
+Hohe 23, Breite 18 Cent.
+
+- decke. XVII. Jahrh.
+- 88 Ovales Scheibchen mit Hausmarke des Hans Eslein von Warden-
+- dorp,in reicher Kartusche; 1606. Hohe 23,Breite18 Cent.
+- 89 Runde Scheibe mit der hl. Elisabeth, Brod an zahlreiche Kriippel
+- und Arme vertheilend;im Hintergrunde reiche Architecturen. Interessante, theils braun in braun, theils in Farben ausgefihrte Scheibe. XVI.Jahrh.
+
+Diam.24 Cent.
+
+- 90 Scheibchen, oberhalb abgerundet, mit einfach behelmtem DoppelWappen mit Gans auf rothem und drei Kleeblattern auf goldenem Grunde.Anfang XVII. Jahrh. Hohe 221e, Breite 19 Cent.
+- 91 Scheibchen,oberhalb abgerundet,mit dem von Cardinalshut iberragten Wappen der Familie von Hilgers, mit Spitzbalken und drei Kreuzen in blau, auf goldenem Grunde. Hohe 221/, Breite 19 Cent,
+- 92 Runde Scheibe, braun in braun mit Gelb gemalt. Sterbender Heiliger; ein Bischof und vier andere Figuren stehen um das Sterbelager； in der Hohe der Teufel; das Ganze von einer hubsehen Arabeskenbordire umzogen. XVI. Jahrh. Diam.32 Cent.
+- 93 RundeScheibe emit Christus am Kreuz,zwischen Maria und Johannes, in einer mit Figuren staffrten Landschaftsdarstellung； mit Namensumschrift:Schiffer Merten am Haeff, Hausmarke und Jahreszahl 1564.Grau in grau mit Gelb gemalt. Diam.32Cent.
+- 94 Runde Scheibe,braun in braun mit Gelb fein gemalt,mit der Tarquinia vor reichem landschaftlichem Hintergrunde mit Architecturen und
+- auf zweibespanntem Wagen iber die Leiche ihres Vaters hinfahrend, Figuren. XVI. Jahrh. Diam.26 Cent.
+- 95 Viereckiges Wappenscheibchen,mit dem Lamme Gottes; oben Lilie.
+
+Hohe und Breite 21 Cent.
+
+- XVII.Jahrh.
+- 96 Wappenscheibchen,ganz ahnlich. Gleiche Grosse.
+- 97 Wappenscheibchen mit Stern auf weissem Grunde und blau-weisser Helmdecke. XVII.Jahrh.
+- Hohe 21,Breite 21 Cent.
+- 98 Rundes Scheibchen, braun in braun mit gelb gemalt mit dem Auszuge der Weiber von Weinsberg: im Vorgrunde rechts der Kaiser mit seinem Gefolge. XVII. Jahrh. Diam.221/Cent.
+- 99 Ovales Scheibchen mit dem Wappen der Grafen von Eltz. XVIII.
+
+Hohe 181/2, Breite 15′/ Cent.
+
+- Jahrh.
+- 100 Ovales Scheibchen mit getheiltem Wappenschilde;links mannliche Halbfigur, rechts Ochsenkopf. XVII. Jahrh.
+- Hohe 23,Breite 171/Cent.
+- 101 Runde Scheibe,braun in braun mit gelb gemalt mit interessanter weiblicher und mannlicher Kostimfgur beim Wirfelspiel; zwischen denselben unten grosses Wappenschild mit von Hand gehaltenem
+- Rebenzweig mit zwei Trauben. Schweizer Arbeit. XVI. Jahrh. Diam.22 Cent.
+- 102 Aehnliche Scheibe mit reich kostumirtem Paar:eine Dame reicht dem mit dem Hute griissenden Cavalier einen Beeher. Unten dasselbe Wappen.
+- Gleiche Grosse.
+- 103 Viereckiges Scheibchen mit Wappen:Kleeblatt iber rothem Quer-
+- balken,Helmdecke und Helmzier blau und weiss. XVIl. Jahrh. Hohe und Breite 21 Cent.
+- 104 Viereckiges Scheibchen mit dem Wappen der Familie Robens in Koln: drei verschlungene Ringe, Helmdecke und Helmzier roth und
+- weiss. XVII. Jahrh. Hohe und Breite 21 Cent.
+- 105 Rundes Votivscheibchen, gelb in gelb mit schwarz gemalt. Die hl. Ursula mit vier Schitzlingen in ausgedehnter Gebirgslandschaft stehend;unten links Schild mit Hausmarke,oben Banderole mit
+- Namensaufschrift (Daiffenbarth) und Jahreszahl 1543. Diam.25 Cent.
+- 106 Viereckiges Wappenscheibchen mit Lowe in silbernem Feldc (Raugraf?) XVIl.Jahrh. Hoh- 22,Breite 20 Cent.
+- 107 Runde Scheibe mit der Huftfigur des hl. Philippus in einer RenaissanceNische, auf deren Sockel ein lateinischer Spruch und in deren Bogen ein Wappen; den Hintergrund nimmt eine Landschaftsdarstellung ein. Feine Ausfihrung braun in braun,mit gelb.XVI. Jahrh. Diam.221/ Cent.
+- 108 Ovales Scheibchen mit dem Wappen der Familie Hardenrath:drei Kesselhite in blauem Felde,Reihermitze als Helmzier, XVII.Jahrh, Hohe 221/, Breite 17/ Cent.
+- 109 Ovales Scheibchen mit dem Doppelwappen des Stefan Broelmann und Clara Bachofen von Echt (Kolner Familien): links zwci Lilien und Stern in roth; rechts Lamm auf goldenem Grunde. XVII. Jahrh. Hohe 23,Breite 19 Cent.
+- 110 Viereckiges Scheibchen mit dem doppeltbehelmten grafich Bassenheimschen Wappen.XVIl. Jahrh.
+- Hohe 21,Breite 18 Cent.
+- 111Viereckiges Scheibchen,mit dem doppeltbehelmten quadrirten Allianz Wappen der Familien Lyskirchen und Hackeney.XVII. Jahrh. Hohe 23, Breite 18 Cent.
+
+<!-- image -->
+
+## Im Nebencabinet des Speisezimmers.
+
+- 112 Grosse viereckige Schweizerscheibe. Gefigelter Engel in reich drapirter Albe und rothem goldbordirtem Pluviale steht,zwei grosse Schilder mit Hausmarken haltend,unter einem reichen RenaissanceSaulenportale, in dessen Zwickeln links eine Puttenfigur,rechts eine Chimare. Kostbares Stick von edler, strenger Zeichnung und herrlicher Farbengluth,wie die folgenden.Anfang XVI.Jahrh.
+- Hohe 6/e, Breite 68 Cent.
+- 113 Grosse viereckige Scheibe mit der Ausstellung Christi. Auf einer Estrade stehend, zeigt Pilatus den Schmerzensmann dem unten stehenden zahlreich versammelten Volke;links reiches Portal.Die Darstellung wird seitlich ron prachtigen Renaissance-Saulen fankirt.
+- Hohe 60,Breite 65 Cent.
+- 114 Grosse viereckige Scheibe.In einer,seitlich von zwei massiven Saulen getragenen Gewolbehalle stehen in Disputation begriffen, zwei Monchsfiguren; die Darstellung wird von reichen Banderolen mit vollstandig gothischem Charakter. Anfang XVI.Jahrh. Hohe 60,Breite 72 Cent.
+- 115-120 Serie von sechs grossen Scheiben, zwei Fenster bildend, mit Darstellungen aus dem Leben des hl. Bernhard.Wahr-
+- scheinlich aus dem Kloster Eberbach herstammend.
+- 1) Erlebniss aus seiner Jugend.Bernhard wird von einer Wittwe nach gemeinsainer Mablzeit auf seinem Lager aufgesucht und begegnet der Versuchung mit dem dreimaligen Ausruf:latrones! Eine zweizeiliga Unterschrift besagt das Nahere:(Cum) Adolescens Bernardus cum sociis (suis) apud matronam quandam hospitaretur -. (oculorum) laqueo capta eidem tamquam hon (oratiori seorsum) preparavit surgensque de nocte impudenter ad eum accessit,quam...tertia clamavit. latrones latrones.
+- 2) Der thronende Papst Innocenz ll. von den sitzenden Gestalten von sechs kirchlichen Wurdentragern umgeben auf dem Coneil zu Pisa
+- (1134).Ueber dem Haupte Bernliards steht das Wort:,Pise
+- Innocenz II.(1138),indem er denselben mit beiden Handen gleichsam yor dem Throne des in strenger Miene dasitzenden Innocenz niederbeugt,Ueber dem Haupte eines Cardinals steht:Roma". Rechts und links knieen als Donatoren ein Patrizier mit dem Monogrtmm seines Namens (wahrscheinlich Johann Strauss) und ihm gegenuber seine Frau,
+- bez.:,Elssgen sin ellige husfraue",
+- 4) Zwei Monche schleppen einen Dritten, der die Gegenwart Christi im Altarssacrament leugnet, gewaltsam vor Bernhard,mit beziglichen Spruchbandern. Johann yon der Strondanck Burger zu Coelne* erscheint in knieender Figur links mit seinem Wappenschild als Donator.
+- 6) Der sechste Vorgang stellt eine Mahlzeit dar, bei welcher Bernhard mit einem Bischof und drei anderen Personen zu Tische sitzt.Im Nebenzimmer liegt ein Kranker. Ein Diener empfangt von dem zu Tische sitzenden Bischof eine Schussel, die er dem Kranken darreicht. Die rechts kniende Donatrix wird inschriftlich bezeichnet:Klargen Stroessin (Stranss) sin ellige Husfrau 1505. Ein Wappenschild mit einem Strauss, der ein Hufeisen im Schnabel tragt,illustrirt den Familien-Namen.
+- 5) Bernhard mit Gefolge in Mainz anlangend, wo er von dem Bischof Adalbero in knieender Verehrung empfangen wird.Mit beziglichen Spruchbandern.Die Beischrift der rechts knienden Donatrix:—eil van Spych sin ellgen husfrauw 1532 -scheint nach den Sehriftcharakteren und der Jahreszahl spatere Erneuerung.
+
+Diese sechs im grossen Stil gehaltenen Scheiben gehoren zu den hervor- ragendsten Leistungen der Kolner Glasmalerei vom Beginne des XVI. Jahrh.
+
+<!-- image -->
+
+## Im Hausgange.
+
+- 121 Fenster,aus sechs grosseren und drci kleineren gothischen Scheiben zusammengesetzt. Die mittlere zeigt das Sonnenbildniss, die untere, rautenformig.dieWappen der Lorch'schen Familie Hertwich undSchelzel, wahrend die oberen,kleineren, gothische Buchstaben in Wappenschildern und gothische Rosetten zeigen.(Aus der Kirche zu Lorch stammend.)
+
+Hohe 84, Breite 94 Cent.
+
+- 122 Viereckiges Fenster mit Ausschnitten aus grosseren Kirchenfenstern des XIV.und XV. Jahrh. In der Mitte eine Crucifixdarstellung mit den Seitenfiguren Johannis und Mariae, fankirt von den etwas grosseren Figuren des hl. Johannes und der hl. Barbara mit dem inschriftlich， Husen" bezeichneten Kirchenmodell in den Handen. (Marienhausen.) Oben zwei schildformige Scheibchen, das eine mit den Wappen von Mainz und dem Rheingauer Haingericht, das andere mitg goldenem Kreuz.
+
+Hohe 84,Breite 100 Cent.
+
+- 123 Viereckige Scheibe mit dem reich behelmten Wappen der Familie
+- Wonsheim.XVII.Jahrh. Hohe 37,Breite 33 Cent.
+- 124 Viereckige Scheibe mit dem firstlich Hornes'schen Wappen,iberragt von Cherubim und Cardinalshut. XVII. Jahrh. Hohe 37,Breite 33 Cent.
+- 125 Viereckige Scheibe mit dem, hauptsachlich grau in grau gemalten Wappen des Abtes Robert Kolb, des Klosters Arensburg,mit fankirenden Bischofsfiguren und unterer Kartusche mit 'sechszeiliger Aufschrift und Jahreszahl 1694. Hohe 47,Breite 36 Cent.
+- 126 Viereckige Scheibe, ahnlich, mit dem Wappen des Martinus de Confuentia, Benedictiner Abt in Geinsheim. Ebenfalls mit Aufschrift und Jahreszahl 1694. Gleiche Grosse.
+- 127 Viereckige Scheibe mit dem Wappen des Philipp Franz von Wonsheim,Metropolit.Satrapa zu Bingen;unten Engelskartusche mit sechszeiliger Schrift und Jahreszahl 1694. Hohe 47,Breite 36 Cent.
+- 128 Viereckige Scheibe, ein Wappen mit drei Hackmessern auf reicher
+- Heimdeeke zeigend.XVII. Jahrh. Hohe 37,Breite 33 Cent.
+- 129 Viereckige Scheibe mit dem von Cardinalshut iberragten Wappen des Francisc. ab Eick,Canonicus von St. Gereon zu Koln; unten mehrzeilige Inschrifttafel und Jahreszahl 1663. Hohe 46,Breite 35 Cent.
+- nauer, churfirstlich pfalziseher Rath und Dechant zu Heidelberg； unten Kartusche zwischen Engelskopfen,mit siebenzeiliger Inschrift
+
+Hohe 48,Breite 38 Cent.
+
+- und Jahreszahl 1698.
+- 131 Viereckige,oberhalb geschweifte Scheibe mit dem Doppelwappen der Grafen Bassenheim und Raugraf, in einem breiten Ornamentrahmen,in dessen oberer Leiste ein Medaillonkopf. XVII. Jahrh. Hohe 38, Breite 30 Cent.
+- 132 Viereckige Scheibe mit dem Doppelwappen des H.von Aussem, unten Kartusche mit Namensaufschrift und Jahreszahl 1704.
+- Commerzienrath zu Mulheim a. Rh. und seiner Frau, gen.Dunckens; Hohe 49,Breite 38 Cent.
+- 133 Fenster,mit dem yon zwei Lowen gehaltenen Wappen des Mainzischen Landhauptmanns Bernhard O'Cahan von Jrachty. Mit Namensaufschrift und Jahreszahl 1700. Oben kleineres Wappenscheibchen. Hohe 75,Breite 46 Cent.
+- 134 Grosse viereckige Scheibe, mit dem Wappen der Kolner Fanilie von Siegen mit goldenen Spitzen auf blauem Grunde,auf reicher Helmdecke.Unten die Initiale:CT.(verschlungen).XVI. Jahrh. Hohe 50,Breite 46 Cent.
+- 135 Kleines viereckiges,oberhalb abgerundetes Fenster mit einer Crueifixdarstellung, auf in Blumen gemustertem Grunde,mit den Seitenfiguren von Johannes und Maria; das Kreuz steht auf einem Halbbogen in dem eine Drachenfigur. Interessante Scheibe vom Anfange des XIV.Jahrh. Hohe 48,Breite 28 Cent.
+- 136 Fenstermit zwei Schweizerscheiben, das Wappen der Familie von Staufenberg im Elsass, unter Bogenstellungen zeigend. XVI, Jahrh.
+
+Hohe 59, Breite 27 Cent,
+- 137 Fenster, zusammengesetzt aus drei grosseren Sehweizerscheiben, davon zwei mit dem Wappen vou Bern und dem Wappen der Grafen von Werdenfells, XVI. Jahrh.; das dritte mit dem Wappen der Venner zu Solothurn, unter reichem Bogen, mit allegorischer Figur etc. datirt1641;zu den Seiten je zwei kleine Scheibchen mit Vogeln.
+- Hohe 86,Breite 46 Cent.
+- 138 Fenster, bestehend aus drei grosseren Schweizerscheiben mit farbenund vier kleineren Scheibchen mit Vogeln.
+- prachtigen,reichen Wappen (Greder, Schenk ete.,letzteres datirt 1603) Gleiche Grosse.
+- 139 Schweizerscheibe mit dem von Einhornen gehaltenen und bekronten Wappen des Ant. Bernh. Riviere, franzosischer Minister; mit Jahreszahl 1556;in den Zwickeln der Besuch Mariae bei Elisabeth und spielende Amoretten.
+
+Hohe 47,Breite 31 Cent.
+
+- tretfich ausgefuhrten Wappen in Renaissance-Ornamenten; unten die Aufschrift: Johann von Boll, Edelknacht: Frau Magdalena E . reder:Sin Ehe Gmahel.Anno 1648." Hohe-30,Breite 38 Cent.
+- 141 Fenster, zusammengesetzt aus vier grossen und vier kleineren, theils Schweizer Scheiben, deren eine eine Crucifixdarstellung, die anderen Wappen und Wappenfragmente, die kleinen Vogelfiguren # zeigen. XVI.und XVII.Jahrh.
+
+Hghe 90, Breite 45 Cent.
+
+- 142 Fenster, ahnlich, mit zwei grosseren Scheiben, die eine mit Crucifix. darsteltung und Jahreszahl 1690, die andere mit einer figurenreichen Darstellung der bekannten Sage der die eigenen Kopfe tragenden Sehweizer; zu den Seiten je vier kleine Scheibchen mit Vogelfiguren. Gleiche Grosse.
+- 143 Viereckiges Fenster, fast ganz grau in grau gemalt, mit einzelnen farbigen Theilen. Dasselbe zeigt Gott Vater dem Moses im brennenden Dornbusch erscheinend,in einer Landschaftsdarstellung mit Unten links Wappenschild mit drei Leitern auf braunem und Spitzbalken auf weissem Grunde. Sehr interes-
+
+Hohe 70, Breite S7 Cent.
+
+- reichen Architecturen. santes Stiek.Mitte XV. Jahrh.
+- 144 Fenster. Dasselbe besteht aus drei, nach oben gespitzen Fuillungen, der hl. Lambertus, Augustinus und Panoder Kreuzornamenten in Schwarz auf weissem Grunde gemusterten Hintergrinden zeigen; die Figuren der ausseren Fluigel stehen unter, von drei hohen Thirmen iberragten, mit Krabben geschmickten Baldachinen.Hochinteressantes,frihgothisches
+- welche die Standfiguren cratius vor mit Blumen Fenster,von intensiv wirkender Farbengebung. Hohe jeder Fullung 72, Breite 30 Cent.
+- 145 Fenster, nach oben zugespitzt. Standfgur der Madonna mit dem Kinde, das blaue Uebergewand in Blumenranken gemustert. Sie halt in der Rechten einen Granatzweig; der Hintergrund ist vorwiegend in grin reich gemustert mit Kreuzen und Rauten, deren einzelne Flachen wieder Blattwerk zeigen. Hochinteressantes fruhgothisches Fenster, wahrscheinlich aus St. Cunibert in Koln.
+
+Hohe 88, Breite 38 Cent.
+- 146 Fenster, frihgothisch, oberhalb zugespitzt; mit der Standfigur der Madonna mit dem Kinde. In stark gebogener Haltung,mit blauem Gewande, und rothem Ueberwurf, das mit blauem Kleidchen angezogene Jesukind auf dem rechten Arme haltend, steht sie in einer gothischen von Kreuzblume iiberragten und von Strebepfeilern fankirten Nische, deren Hintergrund mit Rauten und blattformigen Feldern in gelb und gruin, mit schwarz conturirten Verzierungen geschmickt ist.
+- Huchinteressantes Stick von edler Zeichnung. Ebendaher. Hohe SS,Breite 41 Cent.
+- 147 Sehr grosses Fenster mit der Kreuzschleppung Christi in einer
+
+Hohe 140,Breite 205 Cent. Mit kleinen Restaurationen.
+
+- iberaus figurenreichen Composition vor landsehaftlichem Hintergrunde, in dem links reiche Palastarchiteeturen.Die Darstellung ist zu den Seiten von Saulen fankirt,von denen die links befindliche reichstes Renaissane Ornamentwerk zeigt;auf dem Capitell derselben die Aufschrift:ab Holtt." Capitalstick ersten Ranges,von edler, entschieden Raphaelischen Einfluss verrathender Composition eines Deutschen Meisters. Hochinteressante Costimfiguren,vorzuglichste Ausfihrung und wirkungsvollste Farbengebung.XVI. Jahrh.
+- 148 Oberlicht aus buntfarbigen Scheiben zusammengesetzt;in der Mite
+- achteckige Seheibe mit hubsch staffirter Winterlandschaft. Hohe 48,Breite 52 Cent,
+- 149 Oberlicht,ahnlich mit Flusslandschaft.
+- Gleiche Grosse.
+- 150 Hoher Deckelpokal, der Stiel mit Hohlbaluster, der Kelch geschliffen mit Vogeln und Lowen. Hohe 38 Cent.Fuss defect.
+- 151 Flache Latticinio-Schale auf Fuss mit Hohlknopf,mit spiralformigen Faden durehzogen. Hohe 101/e, Diam. 21 Cent.
+- 152 Grosse Kumpe; die Aussenwandung geschliffen mit Rebenranken. Hohe 14,Diam.29 Cent.
+- 153 Drei grosse vierseitige Flaschen, geschliffen mit Vogeln und Blumenranken.
+- Hohe 24 Cent.
+- 154 Ober- und zwei Untertassen. Milchglas mit bunter Malerei.
+
+<!-- image -->
+- Hohe 21 Cent.
+
+## Fayencen.
+
+- 155 Jager im Anschlag. Sehr gut modellirte Figur.
+- 156 Springender Hirsch. Sehr gute Figur.
+- Hohe 17,Lange 20 Cent. Geweih beschadigt.
+- 157 Hohe birnformige Deckelvase; achtseitig abgefacht, bemalt mit Blattornament und Figuren.Delfter Fabrikat. Hohe 48 Cent.
+- 158 Doppeltgehenkeltes Vaschen mit blauer Blumenmalerei.
+- Hohe 12i/e Cent.（Ein Henkel fehlt.)
+- 159 Ovale Terrine, gerippt,mit reicher Blumenmalerei: Henkel und Deckelgriff aus Astwerk bestehend.Delfter Fabrikat,Marke: B. Z.B. Hohe 20,Lange 36, Breite 20 Cent.
+- 160 Grosse achteckige Schissel,in Tiefblau bemalt in chinesischem
+- Geschmack. Lange 53, Breite 37 Cent.
+- 161 Grosse achteckige Schiissel, in Tiefblau bemalt a la Moustier. Marke:V.E. Lange 44,Breite 33 Cent.
+- 162 Grosse faconnirte Schissel mit blauer Blumenmalerei.
+- Diam.44 Cent.
+- 163 Grosse runde Schissel, blau bemalt, in der Tiefung Blumenkorb mit Vogeln, der Rand mit Lamberquins. Marke: P.O. Diam.43 Cent.
+- 164 Grosse Schissel, muschelformig,weiss.
+- Lange 42,Breite 35 Cent.
+- 165 Grosse getiefte Schiissel, in chinesischem Geschmacke bemalt mit Blumenstauden,Vogeln und reicher Randverzierung. Nurnberger Fabrikat, sehr schone Qualitat. Hohe 91/e, Diam. 36 Cent.
+- 166 Schissel,ahnlich,kleiner. Diam.31 Cent.
+- 167 Schiissel, faconnirt,mit Landschaftsdarstellung in blauer Malerei. Diam.36 Cent.Beschadigt.
+- 168 Getiefte Schissel, blau bemalt mit figurirter Landschaftsdarstellung. Marke:N.
+- Diam.34 Cent.
+- 169 Runde Schiissel mit blattformig faconnirtem Rande, blau bemalt
+- in Feldern mit Landschaften und Blumen. Diam. 34 Cent.Gesprungen.
+- 170 Getiefte Schissel, in Blau,Roth und Gold bemalt a la japonaise. Delfter Fabrikat. Marke:b. Diam.30 Cent.
+- 171 Schiissel, ahnlich, etwas kleiner. Diam.25 Cent.
+- 172 Getiefte Schale, faconnirt,violett marmorirter Grund,mit Mittel. medaillon in Blau, mit Schiferfigur. Diam.29 Cent.
+- 173 Schiissel, achteckig, blau bemalt a la Moustier. Marke: T. O.
+- Diam. 29 Cent..
+- 174 Kleine faconnirte Schiissel mit blauer Malerei.
+- Diam.28 Cent.
+- 175 Zwei runde Gemiseschisseln, gerippt, die Innen- und Aussenwandung mit hubsch gemalten Blumen. Frankenthaler Fabrikat: "Lowenmarke".
+
+Hohe 9, Diam.28 Cent.
+
+- 176 Kleine Schale,faconnirt,mit blauer Blumenmalerei. Diam.23 Cent.
+- 177 Compotschale mit gezahntem Rande, mit Blumenmalerei. Franken
+- thaler Fabrikat:,Carl Theodor". Diam.21 Cent.
+- 178 Runde Schale, siebformig durchbrochen,mit gezahntem Rande,blan bemalt mit Blumen.Auf drei Fisschen.Delfter Fabrikat. Hohe 51/e, Diam.221/2Cent.
+- 179 Gedeckelte kumpige Schale, blau bemalt mit Blumenguirlanden und Festons.Delfter Fabrikat.Marke:W. Hohe 14,Diam.23 Cent.
+- 180 Zehn Teller mit Blumenbouquets in Buntmalerei. Strassburger Fabrikat.Marke:T.H.
+- 181 Butterstilpe mit bunten,theils reliefirten Blumen. Delfter Fabrikat.
+- Diam. des Untertellers 21 Cent.
+- 182 Zwei Wand-Blumenkorbchen mit Blumenmalerei. Hochster Fabrikat. Hohe 10, Lange 17, Breite 12 Cent.
+- 183 Theekannchen und Milchkannchen mit bunter Blumenmalerei. Hohe 14 und 11 Cent.Henkel gekittet.
+- 184 Theekannchen, gerippt,a la japonaise bemalt.Marke: A. Hohe 7 Cent.
+- 185 Henkelkanne,birnformig, mit dem blau gemalten Wappen Carl Philipps von Hessen. Hohe 25 Cent.Zinndeckel.
+- 186 Kleine birnformige Henkelkanne mit Landschaftsdarstellung in Buntmalerei.Marke:K. Hohe 14 Cent. Zinndeckel.
+- 187 Henkelkannchen,birnformig, mit Haus in Tuschmalerei auf hell griinem Grunde. Hohe 141/ Cent.Zinndeckel.
+- 188 Henkelkannchen,ahnlich. Gleiche Grosse.Zinndeckel.
+- 189 Dickbauchige Henkelkanne, gerippt,mit Vogeln und Blumen in Blau gemalt.Delfter Fabrikat. Hohe 13 Cent.Zinndeckel.
+- 190 Henkelkanne,gerippt,weiss.
+- Hohe 26 Cent. Zinndeckel.
+- 191 Cylindrische Henkelkanne mit Blumenmalerei. Hohe 20 Cent.Zinndeckel.（Gesprungen.)
+- 192 Henkelkannchen mit Figur in Tuschmalerei auf grinem Grunde.
+- Nurnberger Fabrikat. Hohe 15 Cent.
+- 193 Henkelkannchen, ahnlich.Ebenso. Gleiche Grosse.
+- 194 Kleiner Seidelkrug mit blauer Blumenmalerei.
+- Hohe 12 Cent, Zinndeckel.
+- 195 Kleiner Seidelkrug mit bunten Blumen.Marke:F. Hohe 10 Cent.
+
+## Europaisches und orientalisches
+
+## Porzellan.
+
+- 196 Ein Paar hohe achtarmige Kandelaber, Porzellan,in reicher Bronzefassung. Den mit Godrons geschmuckten Sockel zieren auf seinen Flachen fein gemalte Conversationsscenen in Watteau's Geschmaek den Stander bildet ein Baumstamm, auf dem zwei Amorettenfiguren als Trager des Leuchters.Die Arme abwechselnd Porzellanund Bronze,dieletzteren mit freihangenden Blumenbouquets.Die hohe Bekronung Porzellan, reich ornamentirt mit Flugeln, Mascarons,frei aufliegenden Blumenranken etc.Die Flachen mit fein gemalten Blimchen. Prachtvolle, iusserst decorative Sticke. Alt-sachsisches Fabrikat.
+
+Hohe 120 Cent.Restaurirt und mit Schaden.
+
+- 197 Ein Paar hohe gedeckelte Vasen.Auf dem Sockel, der reich ornamentirt,eine blumenumkrinzte weibliche Figur mit Blumenkorb; den mit Rococo Schnorkelwerk geschmickten eiformigen Korper umzieht eine prachtvolle Guirlande von freistehenden Blumen und Friichten, die zugleich die Henkel bilden,an der Seite eine vollrunde schwebende Amorettenfigur. Als Bekronung des im Rococostyl durchbrochenen Deckels ein prachtiges Blumenbouquet. Prachtvolle Decorationssticke. Sachsisches Fabrikat.
+
+Hohe SO Cent.
+
+- 198 Ein Paar Vasen mit reichem bunten Decor in Unterglasur-Malerei.
+- Hohe 75 Cent.
+- 199 Vase,eiformig, mit vortreteaden Widderkopfen und antiken Dar stellungen in braun auf schwarzem Grunde. Hochster Fabrikat. Hohe 20 Cent. Ladirt.
+- 200 Runde Terrine mit vorziglich ausgefihrter Blumenmalerei, die Umrandung breit in Korbgefecht gemustert; Citrone als Deckelknopf. Frankenthaler Fabrikat:,Carl Theodor" Hohe 23, Diam.24 Cent.
+- 201 Runde Terrine, ihnlich. Gleiche Grosse.
+- 202 Rococo-Terrine mit Blumenmalerei und in Korbgefecht gemustertem Theodor".Nebst Deckel einer ahnlichen. Hohe 24,Lange 28, Breite 20 Cent. （Ein Henkel abgebrochen.)
+- 203 Zwei grosse ovale Schisseln, in der Tiefung fein gemalte Blumenbouquets, der Rand in Flechtmusterung mit Streublimchen.Frankenthaler Fabrikat:,Carl Theodor". Lange 48, Breite 34 Cent,
+- 204 Vier ovale Schisseln mit Blumenmalerei und mit in Korbgefecht gemustertem Rande.Frankenthaler Fabrikat:,Lowenmarke Lange 42, Breite 30 Cent.(Eine gekittet.)
+- 205 Zwei ahnliche Schisseln.
+- Lunge 38, Breite 27 Cent.
+- 206 Grosse runde Schissel mit fein gemaltem Blumenbouquet, der
+- Rand mit Streublimchen, auf in Korbgeflecht gemustertem Grunde. Frankenthaler Fabrikat.Marke:Lowe und A.H. Diam.40 Cent.
+- 207 Zwei ovale Schiisseln mit vorziglich gemalten Blumenbouquets und mit Streublimchen auf dem mit Korbgefecht gemusterten Rande.
+- Frankenthaler Fabrikat:,Carl Theodor" Lange 41, Breite 29 Cent.
+- 208 Zwei ahnliche Schusseln.
+- Lange 39, Breite 27 Cent.
+- 209 Sechs grosse runde Schiisseln, bemalt mit Blumenbouquets und Blumenranken, der Rand in Flechtwerk gemustert.Frankenthaler
+- Fabrikat mit Lowenmarke: Diam.33 Cent.
+- 210 Fiinf grosse runde Schisseln, etwas kleiner.
+- Diam.31 Cent.
+- 211 Drei grosse Schisseln mit fein ausgefihrter Blumenmalerei, der Rand in Korbfechtmusterung. Frankenthaler Fabrikat:Carl Theodor". Diam.33 Cent.
+- 212 Runde Schiissel, ahnlich, etwas kleiner. Diam,311/Cent.
+- 213 Zwei runde Schiisseln, ahnlich, kleiner.
+- Diam.28 Cent.
+- 214 Zwei runde Schisseln, ahnlich, der Rand ausgeschweift. Diam.30 Cent.
+- 215 Schissel,ahnlich.Frankenthaler Fabrikat; Periode Carl Theodor, mit den bayrischen Wecken. Diam.30 Cent.
+- 216 Vier grosse runde Schisseln mit fein gemalten Bouquets und geschweifte Rand in Flechtwerk gemustert.
+
+Diam.30 Cent.
+
+- Streublimchen,der Sichsisches Fabrikat:Punktperiode.
+- 217 Zwei vierpassformig geschweifte kleine Schalen mit Blumenbouquets, der Rand in Korbfechtmusterung. Frankenthaler Fabrikat: "Carl Theodor". Lange 27/, Breite 22 Cent.
+- 218 Vier ovale Schalchen,ahnlich. Lange 23, Breite 21 Cent.
+- 219 Drei runde Schalen,ahnlich. Diam.23 Cent.
+- 220 Drei kleine ovale Schalchen mit fein gemalten Blumen. Frankenthaler Fabrikat:,Carl Theodor". Lange 24,Breite 19 Cent.
+- 221 Kleines Schalchen mit fein ausgefihrter Blumenmalerei und
+- ajourirtem Rande.Frankenthaler Fabrikat:,Carl Theodor Diam.181/2Cent.
+- 222 Fruchtkorbchen,doppeltgehcnkelt, gitterformig durchbrochen:aut dem Boden gut gemaltes Blumenbouquet. Frankenthaler Fabrikat. Hohe 10,Diam.20 Cent.
+- 223 Ovale Compotschale mit gut gemalten Blumen und in Korbgefecht
+- gemustertem Rande.Ludwigsburger Fabrikat. Lange 27, Breite 23 Cent.
+- 224 Runde getiefte Schale, faconnirt und mit Blumenbouquets und Goldrandchen.Alt-Berliner Fabrikat. Hohe 6,Diam.231/Cent.
+- 225 Achtzehn Teller, gut gemalt mit Bouquets und Streublumchen, der Rand in Korbfechtmusterung. Sachsisches Fabrikat: Punktperiode. Diam.24 Cent.
+- 226 Zwolf Teller mit vorziglich ausgefuhrter Blumenmalerei, Streublimchen auf dem in Korbgefecht gemusterten Rande. Frankenthaler Fabrikat:,Carl Theodor"
+- 227 Zwolf Teller, ahnlich. Ebenso.
+- 228 Zwolf Teller,ahnlich. Ebenso.
+- 229 Zwolf Teller, ahnlich. Ebenso.
+- 230 Zwolf Teller, ahnlich. Ebenso.
+- 231 Zwolf Teller, ahnlich.
+- Ebenso.
+
+232 Zwolf Teller,ahnlich. Ebenso.
+
+- 233 Zwolf Teller,ahnlich. Ebenso.
+- 234 Zwolf Teller, ahnlich, mit Lowenmarke.
+- 235 Drei Teller, ahnlich, mit Lowenmarke.
+- 236 Zwei Teller; in der Tiefung bekrontes E in Gold;um den Rand
+- Goldarabeske auf griinem Grunde. Diam.231/Cent.
+- 237 Teller mit Blumenmalerei, der Rand in Flechtmusterung. Ludwigs-
+- burger Fabrikat. Diam.25 Cent.
+- 238 Service:Kaffekanne, Milchkanne, Theebiichse, Zuckerdose und 6 Fabrikat.
+- Ober- und 6 Untertassen, mit reicher Blumenmalerei. Ludwigsburger Hohe der Kannen 24 und 16 Cent. Milchkanne beschadigt.
+- 239 Milchkanne, Theebiichse und zwei Unterschalen,in Langstreifen
+- gemustert. Sichsisches Fabrikat. 4 Stick.
+- 240 Milchkannchen mit hubsch ausgefihrter Blumenmalerei Ansbacher
+- Fabrikat. Hohe 12 Cent.
+- 241 Drei Ober- und Untertassen mit Blumenmalerei, der Rand in
+- Korbfechtmusterung. Ludwigsburger Fabrikat.
+- 242 Ober- und Untertasse, beide Theile mit fein gemalten figurirten Landschaftsbildchen.F'abrikat Fulda.
+- 243 Ober und Untertasse mit tiefen, grun bemalten Furchen und rother Blumenmalerei.Alt-sachsisches Fabrikat.
+- 244 Obertasse, geradseitig,vorne Medaillon mit Amor auf Lowe reitend.
+- Pariser Fabrikat. Hohe 6'/ Cent.
+- 245 Tasse, ahnlich, mit Nymphe.
+- 246 Ober- und Untertasse, geradseitig,mit vertikal laufenden Ornament-
+- streifen.Hochster Fabrikat.
+- 247 Vier verschiedene spatere Tassen, drei mit Ansicht von Hannover,
+- eine mit Wappen.
+- 248 Sieben verschiedene neuere Tassen und Sahncgiesser.
+- aus der Zeit der Freiheitskriege. Hohe 221/e Cent.
+- 249 Nachtlampe in Thurmform,mit Theetopf,bemalt mit Darstellungen
+- 250 Neptun,nackt, mit ibergeworfenem Tuche und Zackenkrone.
+- Hohe 19 Cent.
+- 251 Neptun. Weisse Figur.
+- Hohe 19 Cent.Gekittet.
+- 252 Mannliche Figur, weiss. Alt-Berliner Fabrikat.
+- Hohe 18 Cent.
+- 253 Weibliche Maskenfigur, die Mandoline spielend. Gute Figur.
+- Frankenthaler Fabrikat. Hohe 12 Cent.
+- 254 Knabe als Pierrot, tanzend, eine Maske vorhaltend. Sehr feines. Figiirchen.Frankenthaler Fabrikat:,Carl Theodor" Hohe 11 Cent.
+- 255 Amorette als Wildpretthandler. Sehr gutes Altmeissener Figiirchen. Hohe 10 Cent.Unbedeutend beschadigt.
+- 256 Amorette als Geigenspieler.Alt-sachsische Figur. Hohe 9i/e Cent. Etwas beschadigt.
+- 257 Amorette mit Mantel und Facher. Alt-sachsische Figur. Hohe 9/ Cent.Beschadigt.
+- 258 Knabe, nackt,mit Blumen. Sachsisches Fabrikat. Hohe 10 Cent.
+- 259 Zwei Theetopfe, Milchkanne und Spilnapf, Strichverzierung. Schwarzes Wedgewood. Deckel fehlen.
+- 260 Theetopf und Milchkanne mit Reliefdarstellung in der Art der Lady Tempelton. Schwarzes Wedgewood. Hohe 16 und 15 Cent.
+- 261 Theekanne und Milchkanne,in Korbfechtmusterung. Sehwarzes
+- Wedgewood. Hohe 18 Cent.
+- 262 Drei Theetopfe und zwei Milchtopfe,ahnlich.
+- Deckel fehlen.Verschiedene Grosse.
+- 263 Ein Paar hohe chinesische Vasen in Flcutenform, in schonem
+- Blau bemalt mit Mandarinenfiguren, Astwerk etc. Hohe 44 Cent.(Eine gekittet.)
+- 264 Hohe Deckelvase, chinesisch, famille Rose, reich bemalt in Emailfarben. Hohe 43 Cent. Stark restaurirt.
+- 265 Gehenkeltes Flacon, japanisch, eiformig,mit eng eingeschnirtem Halse; rother Grund mit Goldarabesken, ausgespart zwci Medaillons in Emailfarben, gemalt mit Vogel auf Blumenstaude und zwei der Hoehseltenes Stiick, dasselbe
+- schlungenen Zweiges,weiss glasirt. tragt die in Franks Catalog Taf. X. Fig. 120 angefihrte Marke. Hohe 14 Cent.
+- 266 Grosse geschweifte Schissel, in Emailfarben bemalt mit sitzender
+- Pagodenfigur. Lange 50,Breite 42 Cent.
+- 267 Grosse runde Schiissel, japanisch, in Blau und Roth, mit reichster Goldanwendung bemalt mit Landschaftsmotiv, Blumenranken ete. Sehr schone Qualitat. Diam,39 Cent.
+- 268 Zwei Schisseln, ganz ahnlich, etwas kleiner.
+- Diam.35 Cent.
+- 269 Zwei Schiisseln,ahnlich, kleiner. Diam.33 Cent.
+- 270 Zwei Schisseln, ahnlich, kleiner. Diam. 28 Cent.
+- 271 Grosse Schissel, chinesisch, famille Rose, in Emailfarben reich bemalt mit Blumenvasen, Bouquets, Vogeln etc. Diam.38 Cent.
+- 272 Schiissel, ganz ahnlich, kleiner.
+- Diam. 31 Cent.
+- 273 Grosse Schissel, famille Rose, in reichen Emaillefarben mit Gold, in der Tiefung Enten und Blumenranken, um den Rand Reiter-
+- figuren, Schiffer im Kahn ete. Sehr schone Qualitat. Diam.35 Cent.
+- 274 Schiissel, ganz ahnlich.
+- Gleiche Grosse.(Gekittet.)
+- 275 Schissel, japanisch, in Blau, Roth und Gold mit Blumenvasen und Blumenranken. Hohe 6, Diam. 34 Cent.
+- 276 Zwei Schiisseln, kleiner. Diam.24 Cent.
+- 277 Sieben Teller, ahnlich. Diam.221/e Cent.(Einer gekittet.)
+- 278 Zwolf Teller, chinesisch, famille Rose, mit reichen Blumen in
+- Emailfarben.
+- 279 Sechs Teller, verschieden, japanisch und chinesisch.
+- Ornamentwerk.Compagnie des Indes. Hohe 8, Diam. 17ie Cent.
+- 280 Kimpchen,in Farben und Gold bemalt mit Blumenkorbchen und
+- 281 Kumpchen, japanisch, fein gemalt in Blau und Roth, mit reicher
+- Goldanwendung, mit Blumen und Arabesken. Hohe 8, Diam.16 Cent.
+- 282 Vier Ober- und Untertassen, chinesisch, famille Rose, mit Blumen in Emailfarben.
+- 283 Zwei Ober- und Untertassen mit Goldarabesken auf blauem Grunde; ausgespart Medaillons mit Blumenbouquets in Emailfarben.
+- in Emailfarben und Arabeskenrand in Gold.Chinesisch.  Sehr schone Qualitat.
+- 284 Zwei Ober- und Untertasschen, Eierschalenporzellan,mit Figuren
+- 285 Zwei Ober- und Untertasschen, japanisch,in Blau,Roth und Gold bemalt.
+- 286 Ober- und Untertasse, mit Figuren und Ornamentwerk bemalt.
+- Compagnie des Indes.
+- 287 Tasschen, Eierschalenporzellan,mit Figuren in Emailfarben.
+- 288 Chinesin zu Pferde. Interessante Figur, in Emailfarben bemalt. Hohe 20 Cent.
+- 289 Sitzende Figur, chinesisch, das Gewand mit Blumen auf gelbem
+- Grunde gemustert. Hohe 15 Cent.
+## Arbeiten in Metall.
+
+- 290 Completes Rococo-Essbesteck, bestehend aus zwolf Loffeln,zwolf Gabeln und zwolf Messern in vergoldetem Silber, reich ornamentirt mit erhaben aufliegenden Blumenguirlanden.Die Griffe der Messer und Gabeln Porzellan, altsachsisch, mit fein ausgefuhrten Blimchen Augsburger
+- in goldumrahmten Kartuschen.Kostbare Garnitur. Arbeit mit Stempel und Marke:A.W.
+
+Gewicht incl.der Porzellangriffe 2150 Gramm.In mit Arabesken und Vugelfiguren gepresstem Original-Lederkasten. Zwei der Griffe gekittet, sonst besterhalten.
+
+- 291 Rococo-Essbesteck,bestehend aus zwolf Loffeln, zwolf Gabeln und zwolf Messern, ganz in vergoldetem Silber mit in Muschelwerk ornamentirten Griffen. Augsburger Arbeit, mit Stempel und Marke P. G.
+- Gesammtgewicht 1425 Gramm.In Original-Lederkasten.
+- 292 Ein Paar silberne Leuchter, Louis XVI., der Fuss in Form einer cannelirten Saule; der Lichterhalter vasenformig mit freihangenden Fruchtfestons. Augsburger Marke.
+- Hohe 261/Cent.Gewicht 1030 Gramm.
+- 293 Ein Paar silberne Leuchter,ahnlich.
+- Gleiche Hohe.Gewicht 1030 Gramm.
+- 294 Ein Paar silberne Leuchter,ahnlich. Gleiche Hohe.Gewicht 1030 Gramm.
+- 295 Ein Paar doppeltgehenkelte Brodkorbe, Empire, Silber, durch
+- brochen nit Godrons und Blumenbouquets. Hohe 11,Lange 35, Breite 23 Cent.Gewicht S40 Gramm.
+- 296 Viereckige Kupferplatte, getrieben mit Christus am Kreuz, zu dessen Seiten Maria,Johannes und Magdalena, in den Wolken
+- Engelsfiguren.. Hohe 44,Breite 33 Cent. Goldrahmen.
+- 297 Viereckige Platte, ahnlich. Gegenstick zum Vorigen in gleicher
+- Ausfuihrung. Gleiche Grosse.
+- 298 Indische Gotzenfigur in Goldbronze. Hohe 9 Cent.
+- 299 Viereckige Schatulle, Eisen, mit zwei Henkelgriffen, die Frontseite
+- mit Blumenmalerei und mit vergoldeten Rosetten. Hohe 17, Lange 27, Breite 15 Cent.
+- 300 Grosse Thurmuhr mit Glocke.
+- 301 Zinn-Teller mit dem Reiterbildniss Ferdinands II., um den Rand elf Reiterfiguren deutscher Kaiser in reichen Ornamentmedaillons. Mit Nirnberger Marke und G.S. Diam.20 Cent.
+## Mobel und Arbeiten in Holz.
+
+- 302 Rococo-Schreibschrank in Marquetteriearbeit, mit Riemen in mehrfarbigem Holze eingelegt.Der untere Theil kommodenformig, nit drei Schiebfichern, der Mitteltheil mit geschrigtem Klappdeckel; der zuricktretende Obertheil mit neun Schiebfichern, die um ein mit Thire verschlossenes Mittelgefach gruppirt. Hohe 195, Breite 120, Tiefe 63 Cent.
+- 303 Schreibschrank in hollandischer Lackarbeit. Der Untertheil kommodenformig, mit drei Schiebfachern, der zuricktretende Obertheil,zu dem eine geschragte Platte iberfihrt, mit zehn Sehiebfachern um cin mit Thire verschlossencs Mittelgelass. Die sammtlichen Friese
+- zeigen Figuren,Thiere und Ranken in Gold. Hohe 160,Breite 122,Tiefe 66 Cent.
+- 304 Hohe Truhe, architectonisch angelegt und hiibsch eingelegt in ver-
+- schiedenfarbigem Holze. Hohe 112, Lange 88, Breite 77 Cent.
+- 305 Buffetschrank, an den Ecken abgeschragt, mit drei Thiren, mit reichen Bandverschlingungen in Marquettericarbeit. XVIIl. Jahrh.
+- Hohe 95,Lange 230,Breite 55 Cent.
+- 306 Buffetschrank, ganz ahnlich. Gleiche Grosse.
+- 307 Biffetschrank,ahnlich, die drei Thiren mit gespitztem Stern. Hohe 95, Lange 210,Breite 50 Cent.
+- 308 Schmaler Buffetschrank mit zwei Thiren, die in verschiedenfarbigem Holze in Bandern eingelegt. XVIlI. Jahrh. Hohe 8s,Lange 198,Breite 48 Cent.
+- richtung von sieben Schiebfachern. Die Innenseiten der Deckel, stellungen, der Fries der Mittelschieblade ein Wappen. Hohe 28, Lange 301/e, Breite 201 Cent.
+- 309 Schmuckschrankchen in Ebenholz, mit Applicationcn in Silberfolie; mit oberem Deckel, vorderem Klappdeckel und innerer Einsowie die Schiebladenfriese sind mit Plattchen in Silber belegt, die gravirt mit den Cardinaltugenden, geschmackvollen Arabeskenverschlingungen etc., die Mittelplatte des Klappdeckels zeigt drei hibsch componirte Darstellungen aus der Geschichte Josephs, unter Bogen-
+- 310 Altjapanischer Lackkasten, mit Drachenfigur in Gold.
+- Hohe 18, Lange 30, Breite 27 Cent.
+- 311 Schreibkasten in japanischer Lackarbeit mit Landschaften in Gold auf schwarzem Grunde. Hohe 17,Lange 44,Breite 25 Cent.
+- Hohe 51/2, Lange 81/2, Breite 14 Cent.
+- 312 Markenkastchen in Lackarbeit mit reicher Vergoldung.
+- 313 Markenkastchen. Aehnlich.
+- Gleiche Grosse.（
+- (Uncomplet.)
+- 314 Himmelbett in Marquetteriearbeit, mit vier hohen, wellenformigen Saulen, das Kopfstick mit geschweiftem hohen Aufsatz. XVIIl. Jahrh.
+- Hohe 235, Lange 215, Breite 120 Cent.
+- 315 Himmelbett,ganz ahnlich. Gleiche Grosse.
+- 316 Himmelbett,ganz ahnlich. Gleiche Grosse.
+- 317 Grosser viereckiger Bauerntisch.Das Gestell wenig geschnitzt und mit Resten der Polychromirung. Hohe 86,Lange 158, Breite 141 Cent.
+- 318 Tisch, die Platte hubsch eingelegt; die durch Andreaskreuz verbundenen Stollen gedreht. Hohe 80, Lange 125, Breite 70 Cent.
+- 319 Spieltisch, der spiralformige Stander auf drei geschweiften Fussen, die fuinfeckige, geschweifte Platte in Marquetteriearbeit, in verschie denfarbigem Holze und Elfenbein reich eingelegt mit allegorischen Figuren,Kartenspielen und Arabesken.XVIII.Jahrh. Hohe 75,Diam. der Platte 88 Cent.
+- 320 Spieltisch,ahnlich, die Platte viereckig, mit abgeschragten Ecken. Hohe 75,Diam,der Platte 92 Cent,
+- 321 Rococo-Spiegelconsole mit reichem Muschel- und Schnorkelwerk;
+- vergoldet und mit Holzplatte. Hohe 0,Breite 80 Cent.
+- 322 Spiegelconsole mit reichen Blumen- und Rebenranken,vergoldet.
+- Mit Marmorplatte. Hohe S1,Breite 84 Cent.
+- 323 Ein Paar hohe Gueridons,reich geschnitzt und vergoldet.
+- Hohe 130 Cent.
+- 324 Lavoirstander. Die Ruckwand ausgeschweift, geschnitzt mit Akanthusblattern,als oberer Abschluss eine Muschel. Hohe 150 Cent.
+- 325 Luster,nach Art sog. Lusterweibchen mit der Halbfigur cines geharnischten Landsknechts, in der Rechten einen Leuchter tragend; mit grossem Geweih.XVI.Jahrh. Breite 100 Cent.
+- 326 Rococo-Wanduhr auf Sockel, bemalt mit Blumen auf rothem Grunde
+- und mit Messingapplicationen. Hohe einschliesslich des Sockels S4 Cent.
+- 327 Venetianer Spiegel mit hohem Aufsatz und geschlifenen Glasplatten belegt. Hohe 105, Breite 53 Cent.
+- 328 Rococo-Meublement, bestehend aus einem Sopha und neun Lehnse.seln.Das Gestell mit geschweiften Fissen,reich geschnitzt mit Ornamentwerk; der Bezug in Laub- und Blumenranken geblimter Stoff.
+- Hohe 95,Lange des Sophas 175 Cent.
+- 329 Holzstuhl. Die Rickwand geschweift, geschnitzt mit Palmetten und Ornamentwerk um: eine mittlere Ovaloffnung.
+- Hohe 95 Cent.
+- 330 Holzstuhl. Dic geschweifte Rickwand geschnitzt mit Maskarons
+- und Ornamentverzierung um die mittlere herzformige Oeffnung. Hohe 9s Cent.
+- 331 Holzstuhl. Die Ruckwand mit grossem Maskaron mit Blattkrone, der geoffnete Mund dient als Durchbrechung. Mit Jahreszahl 1726. Hohe 93 Cent.
+- 332 Holzstuhl. Die Rickwand ausgeschweift, yorziglich geschnitzt mit einem Wappen mit zwei Speeren, mit reicher Helmzier und Helmdecke iber einer Akanthusblattverzierung. Sehr schones Stick. Hohe 98 Cent.
+- 333 Holzstuhl. Die hohe Rickwand reich geschnitzt mit Wappen zwischen zwei Engelbisten,iber Maskaron und Blattwerk. Hohe 102 Cent.
+- 334 Holzstuhl. Die Rickwand geschnitzt mit Palmetten und Laubranken um die herzformige Mitteloffnung. Hohe 94 Cent.
+- 335 Holzstuhl. Die Riekwand geschnitzt mit zwei Lowen als Trager einer den oberen Abschluss bildenden Krone. Hohe 89 Cent.
+- 336 Holzstuhl, ahnlich. Gleiche Grosse.
+- 337 Holzstuhl. Die Rickwand geschnitzt mit grossem Maskaron und
+- fugelformig gebildetem Ornamentwerk. Hohe 91 Cent.
+- 338 Holzstuhl. Die geschweifte Rickwand geschnitzt mit Blumen und herzformigen Durchbrechung als oberer Ab-
+- Palmetten;iber der schluss eine Traube. Hohe 92 Cent.
+- 339 Holzstuhl. Die Ruckwand geschnitzt mit Laubranken und Blumen um die herzformige Mitteloffnung. Hohe 94 Cent.
+- 340 Holzstuhl. Die Riickwand geschnitzt mit Palmetten und Frucht-
+- bouquet, als oberer Abschluss eine Krone. Hohe 89 Cent.
+- 341 Holzstuhl.Die Ruckwand geschnitzt mit dem gekronten Doppel
+- adler auf dessen Brustschild Initialen und Jahreszahl 1649. Hohe 92 Cent.
+- 342 Holzstuhl. Die Rickwand geschnitzt mit zwei seitlichen Maskarons
+- iber Blumenranken. Hohe 98 Cent.
+- sendem Engelskopf und mit oberer Muschel. Hohe 93 Cent,
+- 344 Holzstuhl. Die Rickwand geschnitzt mnit dem gekronten und gefigelten Doppeladler, dessen Brustschild in Herzform durchbrochen. Hohe.88 Cent.
+- 345 Holzstuhl. Die Rickwand geschnitzt mit zwei Delphinen, als oberer Abschluss gefugelter Engelskopf. Hohe 90 Cent.
+- 346 Holzstuhl. Die Rickwand reich geschnitzt mit Laubwerk um eine grosse Mitteloffnung. Hohe 92 Cent.
+- 347 Holzstuhl, ganz ahnlich. Gleiche Grosse.
+- 348 Holzstuhl. Die Rickwand geschnitzt mit Palmetten und Godrons. Hohe 89 Cent.
+- 349 Zwei Holzstihle mit gedrehten Mittelstollen und oberer geschnitz.
+
+Hohe 77 Cent.
+
+- ter Leiste.
+- 350 Ein Paar yollrund geschnitzte Orientalenfiguren, polychromirt
+- und vergoldet. Hohe 54 Cent.
+- 351 Indische Gotzenfigur, vollrund geschnitzt.
+- Hohe 43 Cent.
+- 352 Sitzender Gotze,vollrund in Holz geschnitzt und vergoldet.
+- Hohe 18 Cent.
+- 353 Gotzenhund,vollrund in Holz geschnitzt und vergoldet. Hohe 22 Cent.
+- 354 Hirschkopf, Holz, auf im Renaissancestyl geschnitzter Platte auf
+- gesetzt.
+- 355-359 Finf grosse Fillungen einer Holztafelung in MarquetterieArbeit, theils mit allegorischen Figuren, theils mit Bandwerk. XVIII. Jahrh.
+
+Hohe 90,Lange jeder Fillung zwischen 125 und 225 Cent.
+
+- 360-362 Drei Thiren eines Schrankes, die mittlere mit Crucifixdarstellung, die seitlichen mit den Standfguren Johannis und Mariae in reicher Blattwerkumrahmung in Marquetteriearbeit gut ausgefihrt. Hohe der Mittelthire 86,Breite 54, Hohe der Seitenthuren 56,Breite 36 Cent.
+- 363 Riickwand eines grossen Buffets,reich geschnitzt mit drei von
+- Pilastern fankirten Giebelbogen.XVII.Jahrh. Hohe 83,Lange 165 Cent.
+- 364 Gekrontes Wappen, viertheilig, mit Thurm und durch Kreuz verbundenen Ringen. Hohe 60,Breite 50 Cent.
+- 365 Grosses Schild, sog. Kellerrecht des Wild  und Rheingrafen Carl Magnus. Oben das dreifach behelmte und polychromirte Wappen unten Spruchreime. Culturhistorisch interessantes Stick. Hohe 110,Breite 105 Cent.
+- 366 Rosette, geschnitzt mit Rankenornament. Diam.40 Cent.
+- 367 Ober- und Untertasse mit Schildpattmusterung in Lackarbeit. Die
+- Obertasse geleimt.
+## Varia.
+
+- 368 Pieta. Madonna in reich drapirtem Gewande, den Leichnam Christi
+- auf dem Schoosse haltend. Vorziigliche, ausserst edel gehaltene Michel-Angeleske Gruppe in Marmor, von der Hand eines Ober. deutschen Kunstlers. XVI. Jahrh. Hohe 33 Cent.
+- 369 Kleines Cheminee in weissem Marmor,mit Blumenrosetten.
+- Hohe 105,Breite S0,Tiefe 36 Cent.Modern.
+- 370 Grosse Gotzenfigur in Speckstein, japanisch. Hohe 36 Cent.
+- 371 Gotzenfigur, Speckstein. Auf Sockel.
+- Hohe 22 Cent.
+- 372 Bichse mit Schraubdeckel. Serpentinstein.
+- Hohe 5,Diam.10 Cent.
+- 373 Ovales Relief in Alabaster, mit der Bergpredigt Christi, in einer schonen figurenreichen Composition in sebr hohem Relief, theils vollrund ausgefihrt.Auf der Rickseite bezeichnet: F.T.R. 1805. Hohe 25,Breite 32 Cent.
+- 374 Ovales Relief in Alabaster, mit Johannesschissel und Engelsfigur. Bezeichnet:A.K.1801. Hohe 12,Breite 9 Cent.
+- 375 Relief, oberhalb abgerundet, mit dem Opfer Abrahams. Hohe 161/e, Breite 11 Cent.
+- 376 Ovales Relief in Alabaster,mit sitzender Pomona.
+- Hohe 11/e,Breite 15/Cent.
+- 377 Relief,in Alabaster,oberhalb abgerundet,mit Crucifixdarstellung. Hohe 16,Breite 11 Cent.
+- 378 Holzrahmen mit acht Thonfliesen von zwei frihgothischen Fuss. bodenbelagen. Auf jeder Seite vier, ein Muster bildende,zusammengehorige Platten, die auf der einen Seite roth-ziegelfarbig,auf der andern grin-glasirt.
+- 379 Grosses Thonrelief mit der Darstellung des Calvarienberges.
+- Hohe 40,Breite 30 Cent.
+- 380 Viereckiges Thonrelief mit Prometheus. Hohe 34,Breite 22 Cent.In Rahmen unter Glas.
+- 381 Birnformige Bunzlauer Henkelkanne mit drei Medaillons in hell braun,auf dunkelbraunem Grunde. Hohe 27 Cent. Zinndeckel.
+- 382 Nassauer Warimflasche, grau-blau, mit Wappen in Rosettenkranz.
+- 1685.
+
+Hohe 24 Cent. Zinnschraube.
+- 383 Der Calvarienberg. Grosse,in Holz und Elfenbein ausgefihrte Gruppe und wohl eine Originalarbeit Trogers. Auf einer Erhohung steht das Kreuz, der Christuskorper Elfenbein,am Fusse die schmerzhafte Mutter,herum sind funf Soldaten,in theils interessanten Costimfiguren, einer zu Pferde, gruppirt. Prachtvolle, interessante Gruppe, in der gewohnten Weise, die Fleischparthieen in Elfenbein；das Ganze von grossartiger Wirkung und vorziglicher Ausfihrung. Hohe 135,Breite 100 Cent.
+- 384 Grosse Reliefgruppe in ahnlicher Ausfihrung, den Calvarienberg darstellend: Christus am Kreuz, Engel fangen in Kelchen das Blut auf: am Fusse Johannes; die ohnmachtig hingesunkene Maria unterstitzen die hl. Frauen; der Hauptmann zu Pferde ete. Sehr schones Stick in vorziglicher Ausfuhrung Hohe 41, Breite 28 Cent. In Rahmen unter Glas.
+- 385 Viereckiges Elfenbeinplattchen in hohem Relief gut geschnitzt mit einem Mannerkampf in antiker Auffassung. Hohe 31,Breite 8 Cent.
+- 386 Kiimpchen in fruhem chinesischem Cloisonne-Email mit Thierfiguren etc., auf blauem Grunde. Hohe 10,Diam.18 Cent.(Stark ladirt.)
+- 387 Runde Dose, Schildpatt,mit Bronzegarnitur; auf dem Deckel Perl-
+- mutterplattchen mit Familienscene. Diam,6 Cent.
+- 388 Eine Sammlung von Hirsch- und Rehgeweihen, dabei sehr viele
+- Abnormitaten,die meisten schadelacht.
+- 389 Schadel eines Auerochsen im Samlande ausgegraben. Sehr interessantes Stiick.
+- 390 Eine grossere Anzahl von Pfanzentheilen, Blittern, Blithen, Frichten, Cacteen etc., sowie ein Vogel; sammtliche auf eigenthimliche Art (wahrscheinlich auf galvanoplastischem Wege) durch goldglanzende, silberglinzende oder andersfarbige Metalliberzige bekleidet und so conservirt.
+- 391 Breiter tyroler Giirtel, Leder, reich mit Kupferstiften beschlagen, mit dem Doppeladler und Thierfiguren. Linge 100, Breite 20 Cent.
+- 392 Valentin Green. Jupiter und Leda, nach Willison. Schabkunstblatt. In Rahmen unter Glas.
+- Catharina Il. im Kronungsornate. Aquatintablatt nach Lambi.
+- 393 Sixdeniers. In Rahmen unter Glas.
+- 394 Christi Geisselung, nach van Dyck. Braunes Aquatintablatt.
+- In Rahmen unter Glas.
+- 395 Initiale M, mit Christus, den Aposteln erscheinend. In Farben und
+- Gold ausgefihrt,ringsum ein Ornamentrahmen. XIV. Jahrh. Hohe 17/e,Breite 17i/g Cent. In Rahmen unter Glas.
+- 396 Initiale O, mit Christus in einer Mandorla den Kirchenvitern erscheinend.Ebesso.
+
+Hohe 14, Breite 16 Cent.In Rahmen unter Glas.
+
+- 397 Blumenstick.Aquarelle von Barbara Dietzsch. Hohe 30, Breite 23 Cent.In Rahmen unter Glas.
+- 398 Jugendliche knieende Bachantin,nackt, durch das blonde Haar eine Rebenranke gefochten. Vorziglich ausgefihrtes, gut erhaltenes Pastellbild.
+
+Hohe 76,Breite 66 Cent. In Rahmen unter Glas.
+
+- 399 Vier chinesisehe Aquarellzeichnungen: drei Blumen- und Frucht stiicke, ein Kriegsschif; auf Reispapier. In Rahmen unter Glas.
+
+<!-- image -->
+<!-- image -->
+
+## Gemalde.
+
+## Joseph Abel,
+
+geb. zu Aschach 1756; zu Wien 1818.
+
+## 400 Die hl.Magdalena.
+
+In einer Felshohle kniet dieselbe, fast vollig entkleidet,uber einem Crucifixe betend.
+
+Leinwand. Hohe 46,Breite 34 Cent.
+
+Unten rechts bezeichnet: Jos.Abel p. 1815.
+
+## 401 Ruhe auf der Flucht nach Aegypten.
+
+Leinwand.Hohe 140,Breite 205 Cent.
+
+In einer weit ausgedehnten Mondscheinlandschaft sitzt bei grosser Saulenruine, Madonna in rothem Gewande und blauem Mantel, das nackte Jesukind auf ihrem Schoosse; vor ihr schwebt iber Blumen cine Gruppe von drei musicirenden Engeln.Im Hintergrunde links der hl. Joseph, den Esel wegfihrend.
+
+## Heinrich Aldegrever,
+
+geb. zu Soest 1502;lebte noch 1555.
+
+## 402 Adam und Eva.
+
+Am Baume der Erkenntniss steht links Adam,cinen Apfel in der Rechten haltend;ihm reicht die rechts stehende Eva einen zweiten Apfel. Interessantes Bild,die Composition an den Kupferstich Bartsch
+
+Holz.Hohe 114, Breite 74 Cent.
+
+Nr. 11 und 12 anklingend.
+
+## Antonio Allegri, gen. Correggio,
+
+geb.zu Correggio um 1494; daselbst 1534.
+
+## 403 Die biissende Magdalena.
+
+In einer Felshohle kniet die Heilige links, iber Crucifix und
+
+Kupfer. Hohe 22, Breite 28 Cent
+
+Todtenkopf betend.
+
+## Nach Antonio Allegri, gen. Correggio.
+
+## 404 Die hl.Magdalena.
+
+Kniefigur, die Brust entblosst,in der Rechten Crucifix und Todtenkopf haltend.
+
+Leinwand. Hohe 108, Breite 77 Cent.
+## 405 Die Geburt Christi.
+
+Holz.Hohe 50,Breite 36 Cent.Gesehnitzter Rahmen.
+
+## Altdeutsche Schule.
+
+In einem Stalle beten Maria und Joseph das neugeborene Jesukind an:im Hintergrunde eine von Gebirgszigen begrenzte Flusslandschaft.
+
+## 406 Die Anbetung der hl. drei Konige.
+
+Vor ciner reichen Bogenruine sitzt Maria in blauem Mantel, auf dem Schoosse das Jesuskind haltend, dem die hl. drei Konige in prachtigen Goldgefassen ihre Geschenke darbringen;unter dem Bogen der hl. Joseph und das Gefolge. Reicher landschaftlicher Hintergrund. Sehr schones Bild, das wohl dem de Blees zuzuschreiben ware; einzelne Gewandparthiceu, sowie die Gefisse vergoldet.
+
+Holz.Hohe 93,Breite 105 Cent.
+
+## Altflandrische Schule,
+
+aus dem Anfange des XVI. Jahrh.
+
+- 407 Fliigelaltar, oberhalb geschweift.
+
+Auf dem Mittelbilde die Anbetung der hl. drei Konige in einer schonen Composition,vor einem reichen Saulenportale, durch welches man in eine reizende Landschaft blickt.Der linke Fligel zeigt die Geburt Christi; der rechte die Ruhe anf der Flucht nach Aegypten, vor reichen landschaftlichen Hintergrinden. Sehr schones Bild.
+
+Holz.Hohe 93,Breite aufgeschlagen 130 Cent,
+
+## Altkolnische Schule.
+
+## 408 Die Geburt Christi.
+
+Maria und Joseph beten das auf dem Boden liegende Jesukind an；im Hintergrunde Hirten und lobpreisende Engel. Holz.Hohe 20, Breite 19 Cent.
+
+## Jacopo Amigoni,
+
+geb.zu Venedig 1675; zu Madrid 1752.
+
+- 409 Venus und Amor in Gebirgslandschaft,von Amoretten umgeben.
+- Kupfer.Hohe 251/e,Breite 20/Cent.
+- 410 Juno von Wolken getragen. Gegenstick zum Vorigen. Kupfer. Gleiche Grosse.
+
+## Jacques d'Artois,
+
+geb. zu Brissel 1613;↑ 1665.
+
+Links bei einer Gruppe hoher Baume cin Bauernhaus; auf dem an demselben vorbeifihrenden Wege Hirt mit Heerde, Bauerin etc.; rechts dehnt sich eine weite Fernsicht,von Hohenzug begrenzt, aus,
+
+## 411 Landschaft.
+
+in deren Mittelgrunde cine Stadt.Gutes Bild.
+
+Leinwand. Hohe 109,Breite 134 Cent.
+
+## Joachim Franz Beich,
+
+geb. zu Minchen 1665; daselbst 1748.
+
+## 412 Nach der Siindfluth.
+
+Noah mit seiner Familie. Schones Bild in guter Farbengebung. Leinwand. Hohe 114, Breite 132 Cent.
+
+Romantische Gebirgslandschaft mit mehreren Wasserfillen; aut einer Bergspitze die Arche;im Vorgrunde,auf einem Bergabhange
+## 413 Architecturstick.
+
+## A. Belange.
+
+Das Innere eines Tempels mit weiten Saulenhallen und Figurenstaffage. Unten links bezeichnet: A.Belange 1591. Holz. Hohe 31,Breite 41 Cent.
+
+## Willem van Bemmel,
+
+414 Flusslandschaft bei Abendstimmung.Vom Hintergrunde her, der von Gebirgszug begrenzt, zicht sich zum Vorgrunde ein breiter Fluss, auf dem ein Kahn. Auf dem Ufer links eine Anhohe,auf der ein Schloss; rechts eine Gruppe hoher Baume, die einen Durchblick auf eine Ortschaft gewahren.Im Vorgrunde Hirte mit Heerde. Leinwand. Hohe 75,Breite 95 Cent.
+
+geb. zu Utrecht 1630; 1708.
+
+## Johann Georg Bergmiller,
+
+415 Die Verklarung Christi. Leinwand. Hohe 96, Breite 57 Cent.
+
+geb.zu Dirkheim 1688; zu Augsburg 1762.
+
+## Pieter Boel,
+
+geb.zu Antwerpen 1625; 1630.
+
+Im Vorgrunde einer Gebirgslandschaft ist ein todter Hase an
+
+## 416 Todte Hasen.
+
+einem Baumstamme aufgehangen; daneben liegt ein zweiter.
+
+Leinwand.Hohe 80,Breite 65 Cent.
+
+## Sebastien Bourdon,
+
+geb. zu Montpellier 1616; zu Paris 1671.
+
+## 417 Madonna mit dem Kinde.
+
+aus einem geofneten Buche;rechts der kleine Johannes. Leinwand.Hohe 54,Breite 44 Cent.
+
+Maria unterrichtet den auf ihrem Schoosse sitzenden Jesuknaben
+
+## Jan van Breda,
+
+geb.zu Antwerpen 1683； 1750.
+
+Grosses Zelt, in dem Soldaten; andere sitzen mit ihren-Weibern
+
+## 418 Zeltlager.
+
+vor demselben.
+
+Leinwand. Hohe 21, Breite 27 Cent.
+
+## 419 Zeltlager.
+
+Vor mehreren Zelten haben Reiter Halt gemacht; einer derselben erhebt sein Glas.
+
+Leinwand.Gleiche Grosse.
+
+## Philipp Hieronymus Brinkmann,
+
+geb:zu Speyer 1709; zu Mannheim 1761.
+
+## 420 Landschaft.
+
+Weit ausgedehnte Elachlandschaft;als Stafage,von der Hand Lowensterns, ein Reitergefecht.
+
+Leinwand.Hohe 39,Breite 50.Cent.
+## Philipp Hieronymus Brinkmann,
+
+geb. zu Speyer 1709; zu Mannheim 1761.
+
+Ebenso. Gleiche Grosse.
+
+## 421 Landschaft mit ahnlicher Staffage.
+
+## Peeter Brueghel der Juingere, gen. Hollen-Brueghel,
+
+422 Dorfkirmess.
+
+geb.zu Bruissel 1564; zu Antwerpen 1637/1638.
+
+Auf den Strassen eines Dorfes spielen sich in theils figuren- reichen Compositionen die einzelnen Scenen des Kirchweihfestes ab. Metall.Hohe 47,Breite 31 Cent.
+
+## Pierino Buonacorsi, gen. Perino del Vaga (Schule).
+
+Madonna, das Kind anbetend;im Hintergrunde vor grinem Vorhange der hl. Joseph mit dem kleinen Johannes.
+
+423 Die heil.Familie.
+
+Kupfer.Hohe 21,lreite 17 Cent.
+
+## Jacques Callot,
+
+geb.zu Naney 1594; daselbst 1635.
+
+In der ausserst figurenreichen, auch durch die Radirung, Meaume Nro.137,bekannten Composition.
+
+## 424 Das Martyrium des hl. Sebastianus.
+
+Holz.Hohe 271/, Breite 54 Cent.
+
+## 425 Christi Kreuzschleppung.
+
+Composition.
+
+Figurenreiche, durch die Radirung (Meaume Nro.17) bekannte
+
+Holz. Hohe 221, Breite 55 Cent.
+
+## Annibale Carracci,
+
+geb.zu Bologna 1569;zu Rom 1609.
+
+- 426 Brustbild Christi.
+
+Der Heiland in rothem Gewande und blauem Mantel. Kupfer.Hohe 40,Breite 31 Cent.
+
+## Nach Annibale Carracci.
+
+Christus am Kreuz,bei der einbrechenden Finsterniss; im Hintergrunde die Stadt Jerusalem.
+
+## 427 Der Calvarienberg.
+
+Holz,Hhe 43,Breite 28 Cent.
+
+## Cochin fils,
+
+Meister des XVIII. Jahrh.
+
+428-431 Vier italienische
+
+Veduten:Neapel,Genua,Malta ete.
+
+Kupfer.Hohe eines Jeden 33,Breite 90 Cent.
+
+Suite von vier Bildern.
+
+## Jacques Courtois, gen,le Bourguignon,
+
+## 432 Reitergefecht.
+
+geb. zu St. Hippolyte 1621; zu Rom 1676.
+
+Figurenreiche Composition im Vorgrunde einer weit ausgedehnten
+
+Leinwand.Hohe 36,Breite 50 Cent.
+
+Landschaft.
+## Lucas Cranach der Aeltere,
+
+- 433 Die ersten Menschen.
+
+geb.zu Kronach 1472; zu Weimar 1553.
+
+Drei Gruppen Manner, sich ersehlagend;die Weiber mit ihren Kindern schauen jammernd und
+
+Holz.Hohe 5t, Breite 38 Cent.Reich geschnitzter italienischer
+
+## Lucas Cranach d.A. (Manier）.
+
+- 434 Lucretia sich den Tod gebend.
+
+Holz.Hohe 83,Breite 62 Cent.
+
+Jugendliche Halbfigur mit goldgesticktem Gewande und reichem Halsgeschmeide, sich den Dolch in die entblosste Brust stossend. Auf dem Dolche bezeichnet:Gielmer (?) 1520.
+
+## Lorenzo di Credi,
+
+Italienischer Meister des XVI.Jahrh.; 1531.
+
+- 435 Die heilige Familie.
+
+Holz.Diam. 87 Cent.In mit Fruchtfestonsreich geschnitztem
+
+Vor einem alten Gemauer kniet Madonna in rothem Gewande und reich drapirtem blauen Mantel, die Hande iber der Brust gefalten, das vor ihr liegende Jesukind anbetend,neben dem der kleine Johannes kniet; rechts hinter ihr der hl. Joseph. Den Hintergrund bildet eine reizende Flusslandschaft mit Schloss, Anhohe ete. Sehr schones Bild von tiefer Empfindung und inniger Anmuth. Rund.
+
+italienischem Rahmen.
+
+## Abraham van Cuijlenburg,
+
+Meister in Utrecht um die Mitte des XVIl. Jahrh.
+
+- 436 Gotterversammlung.
+
+Juno,Venus und Minerva, dabei der kleine Amor iber Wolken schwebend；im Hintergrunde andere Gottheiten.Vorzigliches Bild.
+
+Holz.Hohe 27,Breite 23 Cent.
+
+## Benjamin Cuijp,
+
+geb.zu Dordrecht 1608.
+
+## 437 Susanna im Bade.
+
+Holz.Hohe 40,Breite 60 Cent.
+
+Susanna,voilig nackt,im Vorgrunde ciner Landschaft, auf dem Rande des Bades sitzend, mit den beiden Alten im Gesprach. Gutes Bild.
+
+## Deutscher Meister des xVill. Jahrh.
+
+438 Auerhahn und Huhn in einer Waldlichtung stehend.
+
+Leinwand.Hohe S6,Breite 122 Cent.
+
+## 439 Bildniss.
+
+Lebensgrosses Brustbild eines Mannes in mittleren Jahren in
+
+Drei-Viertel-Wendung nach rechts.
+
+Leinwand. Hohe 43, Breite 33 Cent.
+
+schreiend zu.Landschaftlicher Hintergrund mit Schloss an Fluss, Gebirgszug ete. Sehr gutes gez. Original Bild. Eine Zeichnung in Silberstift zu diesem Bilde befindet sich in dem Kupferstich-Cabinet zu Berlin.
+
+Rahmen.
+## 440 Portrait.
+
+## Deutscher Meister des xVill. Jahrh.
+
+puderte Lockenhaar gefochten; ein Korbchen mit Rosen haltend. Leinwand.Hohe 85, Breite 66 Cent.
+
+## Feodor von Dietz,
+
+- 441 Kaiser Alexander HI. von Russland.
+
+geb.zu Carlsruhe 1813.
+
+Derselbe steht in ganzer Figur, in Lebensgrosse im vollen
+
+Leinwand,Hohe 236, Breite 165 Cent.
+
+Kronungsornate,im Purpurmantel, mit Ordensketten,vor dem Thronsessel; das Scepter halt cr in der Rechten, die er auf ein Kissen legt, auf dem die Krone. Sehr schones,vorziglich ausgefihrtes Bild. Unten die drei Wappen.
+
+## 442 Peter der Grosse.
+
+legt er auf ein Geschiitz, die Linke auf eine Landkarte. Leinwand.Hohe 1l8, Breite 88 Cent
+
+Lebcnsgrosse Huftigur; die Rechte,in der er den Degen halt,
+
+## Jacob van der Does, der Aeltere,
+
+- 443 Landschaft mit Vieh.
+
+geb.zu Amsterdam 1623;im Haag 1673.
+
+Im Vorgrunde rechts licgt vor einer Hitte ein Hirtenknabe, eingeschlafen bei seiner Heerde. Holz. Hohe 38, Breite 31 Cent.
+
+## 444 Landschaft mit Viehheerde.
+
+Holz.Hohe 221, Breite 31 Cent.
+
+## Jacob van der Does, der Juingere,
+
+## 445 Bildniss eines Gelehrten.
+
+hollandischer Meister des XVII. Jahrh.
+
+Brustbild eines jungeren Mannes mit lang herabfallendem Haare in Dreiviertel-Wendung nach rechts,in einem Buche studirend. Leinwand.Hohe 25,Breite 201/ Cent.
+
+## Carlo Dolci,
+
+geb. zu Florenz 1616; 1686.
+
+Die sehmerzhafte Mutter in Brustbild, in weitem blauen Mantel.
+
+- 446 Mater Dolorosa.
+
+Gute Wiederholung des bekannten Bildes. Leinwand.Hohe 50,Breite 40 Cent.
+
+## Johannes Franciscus van Douv en
+
+- 447 Portrait eines Fiirsten.
+
+geb.zu Roermond 1655; 1727.
+
+Lebensgrosses Brustbild in Allongeperricke und grossem Mantel. Leinwand. Hohe 86, Breite 62 Cent.
+
+## 448 Portrait einer Furstin.
+
+Lebensgrosse Halbfigur en face, in blauem, goldgestiektem Kleide und rothem Mantel. Leinwand.Hohe 84,Breite 67 Cent.
+## Johannes Franciscus van Douven,(Manier.)
+
+- 449 Bildniss einer Furstin.
+
+Lebensgrosses Brustbild in reich gesticktem Kleide und Herimelinmantel.
+
+Leinwand.Hohe 73,Breite 53 Cent.
+
+## Bezeichnet: Albrecht Durer.
+
+## 450 Die Geschichte der ersten Menschen.
+
+Weite Gebirgslandschaft;im Vorgrunde derselben sitzt Eva mit ihren Kindern; rechts der das Feld bebauende Adam. Im Hintergrunde die sich ermordenden Brider. Sehr interessantes,in braunem Colorit gehaltenes Bild in der Manier des Lucas v. Leyden.Unten rechts das Monogramm.
+
+Holz.Hohe 98,Breite 68 Cent.Slg.J.P.Weyer.
+
+## Nach Albrecht Durer.
+
+Kopf des leidenden Heilandes, eine grosse Dornenkrone auf dem
+
+- 451 Ecce homo.
+
+langgelockten Haare. Links Duirer's Monogramm und Jahreszahl 1515. Holz.Hohe 35,Breite 26 Cent.
+
+- 452 Christus am Oelberg.
+
+Holz.Hohe 95, Breite 63 Cent.
+
+Im Mittelgrunde kniet Christus, dem in Wolken ein Engel mit Kreuz erscheint; im Vorgrunde die schlafenden Jinger; im Hintergrunde rechts die Hascher.
+
+## 453 Christus am Kreuz.
+
+Ebenso.
+
+Zu den Seiten Maria und Johannes, Magdalena und Kriegsknecht.
+
+Gleiche Grosse.
+
+- 454 Christi Einzug in Jerusalem.
+
+Im Hintergrunde die Hiuser der Stadt. Ebenso. Gleiche Grosse.
+
+## Dusseldorfer Schule.
+
+## 455 Ruhende Italienerin am Bache.
+
+Im Vorgrunde einer Lndschaft liegt ein junges Wcib, den Oberkorper entblosst,auf rothem Tuche auf einem Erdhigel bei einer Waldquelle.
+
+Leinwand.Hohe 126,Breite 112 Cent.
+
+## Antonius van Dyck,
+
+geb. zu Antwerpen 1599; zu Blackfriars 1641.
+
+- 456 Madonna mit dem Kinde.
+
+Lebensgrosse Kniefigur der Maria in rothem Kleide und blauem Mantel, vor ciner Saule sitzend, das auf ihrem Schoosse stehende Jesukind mit der Rechten an sich drickend; mit der Linken umfasst sie den sich an ihren Schooss lehnenden Johannesknaben,Sehr schones Atelierbild.
+
+Leinwand.Hohe 112,Breite 82 Cent.
+## Antonius van Dyck (Schule).
+
+Im Vorgrunde einer Waldlandschaft sitzt das Liebespaar; links drei Amoretten mit Blumenkranzen. Im Hintergrunde mehrere Geharnischte.
+
+## 457 Rinaldo und Armida.
+
+Leinwand.Hohe 145,Breite 220 Cent.
+
+## Gerbrand van den Eckhout,
+
+geb.zu Amsterdam 1621; daselbst 1674.
+
+## 458 Chlorinde.
+
+Halbfigur in orientalischer Gewandung mit reichem Turban,
+
+Leinwand. Hohe 64,Breite 51 Cent. Geschnitzter Rahmen.
+
+iber Tancred's Aschenurne weinend.
+
+## Englischer Meister.
+
+## 459 Satyre auf den Wein.
+
+Kellergewolbe; als Staffage ausgeputzte Affenfiguren, theils zechend, theils streitend etc.
+
+Leinwand.Hohe 55,Breite 71 Cent.
+
+## Adolph Farmann.
+
+- 460 Gebirgslandschaft mit Figuren und Vieh. Holz.Hohe 141/,Breite 161j Cent.Ohne Rahmen.
+
+## Christoph Fesel,
+
+geb,zu 0chsenfurt 1737; 1805.
+
+Derselbe sitzt,nackt,einen rothen Mantel ibergeworfen,im Vor
+
+## 461 Johannes der Taufer.
+
+grunde einer Landschaft auf einem Erdhigel. Holz.Hohe 120, Breite 76 Cent.
+
+## Foelix,
+
+Maler zu Mainz Mitte des XVIlI.Jahrh.
+
+- 462 Portrait eines Mainzer Kurfirsten,in ganzer Figur im vollen Ornate neben cinem Rococotische stehend, auf dem der Kurhut,auf den er die Rechte legt. Gutes Bild.Bezeichnet:Foelix pinx. 1756. Leinwand.Hohe 42,Breite 29 Cent.
+
+## Francois Francken, gen. der Jungere,
+
+geb.zu Antwerpen 1580; daselbst 1642.
+
+Dieselbe sitzt am Eingange eines Waldes. Kupfer.Hohe 21,Breite 16 Cent.
+
+- 463 Die hl. Familie.
+
+## 464 Madonna mit dem Kinde.
+
+umfassend. Kupfer.Hohe 30,Breite 23 Cent
+
+Kniefigur, das auf ihrem Schoosse stehende nackteJesukind
+
+## Franzosischer Meister.
+
+- 465/466 Zwei mythologische Compositionen.
+- Kupfer.Hohe eines Jeden 32,Breite 24 Cent.
+## 467 Reitergefecht.
+
+In einer Gebirgslandschaft withet, sich bis in den fernsten Hintergrund fortziehend, ein heftiger Reiterkampf.Reiche Composition. Leinwand. Hohe 58,Breite 70 Cent.
+
+## M. Gillig,
+
+Maler in der zweiten Halfte des XVII. Jahrh.
+
+## 468 Fruchtstick.
+
+Rebenranken, Pfirsiche, Birnen und anderes Obst. Leinwand. Hohe 60, Breite 70 Cent.
+
+## Ernest Joseph Angelon Girard,
+
+geb,zu Paris.
+
+- 469 Portrait des Jerome Napoleon.
+
+Brustbild in reicher goldgestickter Uniform. In einem Oval. Leinwand.Hohe 26,Breite 20 Cent.Ohne Rahmen.
+
+## Ulrich Glantschnigg,
+
+geb. zu Hall 166l; zu Botzen 1722.
+
+- 470 Der hl. Franciscus.
+
+Kniebild des Heiligen im Monchsgewande, auf einem Felshigel sitzend.
+
+Holz.Hohe 56,Breite 38 Cent.
+
+## Jan Glauber gen.Polydor,
+
+geb. zu Utrecht 1646; zu Schoonhoven 1726.
+
+- 471 Arkadische Landschaft.
+
+Links im Vorgrunde Paar an sculptirter Ruine sitzend. Leinwand.Hohe 80, Breite 116 Cent.
+
+## Nicolaus Glockendon,
+
+Nurnberger Meister des XVI. Jahrh.
+
+## 472 Predella.
+
+Zwei Engel, der eine in Albe, der andere in reich gemustertem Levitenrock und Pluviale,das Schweisstuch Christi haltend. Rother Hintergrund.Interessantes, gut erhaltenes Bild.
+
+Holz. Hohe 51,Breite 135 Cent.
+
+## Jan van Goijen,
+
+geb. zu Leiden 1596; im Haag 1656.
+
+## 473 Canallandschaft.
+
+Durch den Mittelgrund zieht sich, den Vordergrund einnehmend, ein Fluss, auf dem mehrere Kahne.Die beiderseitigen Ufer sind mit Gebiuden besetzt,im Vorgrunde ein Angler. Gutes Schulbild. Oval,
+
+Holz. Hohe 27,Breite 37 Cent.
+
+## Francesco Froschi.
+
+italienischer Meister; XVII. Jahrh.
+## Jan van Goyen,
+
+geb.zu Leiden 1596; im Haag 1656.
+
+Rechts der von zahlreichen Seegelbooten belebte Canal;auf dem Ufer links grosses Gehoft.Gegenstick zum Vorigen. Holz.Gleiche Grosse.
+
+## Heinrich Goltzius,
+
+## 475 Die Anbetung der Hirten.
+
+## 474 Canallandschaft.
+
+geb.zu Mihlbreeht 1558; zu Harlem 1617.
+
+Gruppe von finf Figuren vor verfallenen Gebaulichkeiten. Holz.Hohe 36, Breite 28 Cent.
+
+## Jan Gossaert, gen. Jan van Mabuse,
+
+## 476 Madonna mit dem Kinde.
+
+geb.zu Manbeuge um 1470;zu Antwerpen 1541.
+
+Hinter einer Bruistung sitzt vor grinem Vorhange, Madonna in reicheim goldbordirten Gewande mit rothem Mantel und weissem
+
+Holz.Hohe-68,Breite 54 Cent.
+
+Kopfschleier,das in Windeln gehillte Kind an sich drickend. Durch das geoffnete Fenster links sieht man in eine reizende Gebirgslandschaft.Schones Bild.
+
+## Jan Hackaert,
+
+geb.zu Amsterdam 1636; daselbst 1699.
+
+Die Mitte des Bildes nimmt ein breiter Weg cin, auf dem Wagen,Reiter,Jagdknecht mit Hundemeute und andere Figuren； derselbe ist rechts von einem Walde begrenzt;links ein Wasser, von hohen Baumen besetzt.Im Hintergrunde ein Schloss (Hechenstamm);auf dem davor liegenden Weideplan mehrere Kihe. Schones Bild.
+
+## 477 Landschaft.
+
+Leinwand.Hohe 84, Breite 120 Cent.
+
+## Jacob Philipp Hackert,
+
+- 478 Ansieht von Castell-Gandolfo am Nemisee. Leinwand.Hohe 35,Breite 43 Cent.
+
+geb.zu Prenzlau 1737;↑ 1807.
+
+## 479 Italienische Landschaft.
+
+Gleiche Grosse.
+
+Gegenstick zum Vorigen in gleicher Ausfihrung.
+
+## Hieronymus Hau,
+
+## 480 Portrait des Johann Georg Konig.
+
+Maler des XVIII. Jahrhunderts.
+
+Lebensgrosses Brustbild en face,mit Allongeperricke,Atlassrock und ibergeworfenem rothen Mantel.Gut behandeltes Bild.
+
+Leinwand.Hohe 88,Breite 67 Cent.
+## Egbert van Heemskerk der Jungere,
+
+## 481 Bauernstick.
+
+geb.zu Harlem 1645; zu London 1704.
+
+Funf Bauern sind zechend und singend um einen Tisch gruppirt. Gutes Bild. Unten rechts das Monogramm. Holz.Hohe 23/2, Breite 27 Cent.
+
+## 482 Der Messerkampf.
+
+Gleiche Grosse.
+
+Gruppe dreier Figuren in drastischer Composition.Gegenstick zum Vorigen.
+
+## Karl Wilhelm von Heideck, gen. Heidegger,
+
+## 483 Ueberfall.
+
+geb.zu Saaralben 1788; 1861.
+
+Herzog von Leuchtenberg mit seinem Gefolge im Vorgrunde
+
+K.v. Hdk.p.
+
+einer Landschaft von Kosacken iberfallen.Unten rechts bezeichnet:
+
+Leinwand.Hohe 80,Breite 110 Cent.
+
+## Bezeichnet: Hellenrother.
+
+Leinwand. Hohe 30,Breite 23 Cent.
+
+- 484 Brustbild eines Offziers in Rembrandts Geschmack.
+
+## Matheus van Helmont,
+
+## 485 Der Kesselficker.
+
+geb. zu Brissel 1650.
+
+Derselbe sitzt im Mittelgrunde bei seiner Arbeit, umgeben von anderen Figuren.
+
+Leinwand.Hohe 36, Breite 27 Cent.
+
+- 486 Der Scheerenschleifer.
+
+Leinwand. Gleiche Grosse.
+
+Derselbe steht bei seiner Arbeitzwischen zwei Mannern und zwei Kindern. Gegenstick zum Vorigen in gleicher Ausfihrung.
+
+- 487 Landschaft.
+
+## Meindert Hobbema (Manier).
+
+Hugeliges Terrain, auf dessen Anhohen Gruppen hoher Baume; im Mittelgrunde mehrere Bauernhauser zwischen Buschwerk versteckt liegend.Als Staffage mehrere Reiter,deren einer abgestiegen,an einem Bache stehend,aus seinem Hute trinkt.Gutes Bild.
+
+Leinwand.Hohe 54,Breite 50 Cent.
+
+## Hans Holbein, der Juingere,
+
+geb.zu Augsburg 1497; zu London 1543.
+
+- 488 Mannliches Bildniss.
+
+zu Florenz dem Meister des Todes der Maria zugeschrieben,
+
+Brustbild eines jungeren Mannes, in Dreiviertel-Wendung nach rechts,in gemustertem Gewande, mit pelzverbramtem Mantel; das gelockte Haar bedeckt ein schwarzes Barett;mit der Rechten steckt er einen Ring auf den Zeigefinger der linken Hand.Griner Hintergrund. Vorzigliches Bild von charakteristischer Lebenswahrheit und vortrefflicher Ausfuhrung. Ein ahnliches Portrait ist in den Uffizien
+
+Holz.Hohe 66,Breite 43 Cent.
+- 489 Interieur.
+
+Zwei Bauernpaare, zechend und singend.
+
+Holz.Hohe 22, Breite 26 Cent.
+
+## Franz Christoph Janneck,
+
+geb. zu Gratz 1703; zu Wien 1761.
+
+- 490 Die hl. Euphemia. mit Stadt; neben ihr eine Lowin.
+
+Dieselbe steht in Verzickung im Vorgrunde einer Landschaft Holz.Hohe 32,Breite 24 Cent.
+
+## Abraham Janssens,
+
+geb.zu Antwerpen um 1575; daselbst 1632.
+
+- 491 Lautenspielerin.
+
+Reichgekleidete Dame,in Huftfigur, die Laute spielend.
+
+Leinwand.Hohe 67,Breite 59 Cent.
+
+## Italienische Schule.
+
+- 492 Das wunderthatige Antlitz Christi. Leinwand.Hohe 50,Breite 40 Cent.
+- 493 Kopf der Maria.
+
+Nach dem Bilde in der Kirche Maria Maggiore in Rom. Gegen- stick zum Vorigen in gleicher Ausfuhrung. Leinwand.Gleiche Grosse.
+
+- 494 Petrus erweckt einen Todten.
+
+Composition von sieben Figuren.
+
+Leinwand.Hohe 49,Breite 69 Cent.
+
+- 495 Joseph und Potiphar,
+- Leinwand.Hohe 55,Breite 45 Cent.
+- 496 Diana und ihre Nymphen im Bade, von Actaon iberrascht.
+- Leinwand.Hohe 54,Breite 58 Cent
+- 497 Leda und der Schwan.
+
+Vor einem grinseidenen Vorhange sitzt Leda,den Schwan auf dem Schoosse haltend. Leinwand.Hohe 92,Breite 126 Cent.
+
+- 498 Samson und Delila.
+
+Gruppe dreier Kniefiguren.
+
+Leinwand. Hohe 120,Breite 155 Cent.
+
+- 499 Zwei Amoretten mit Lowe spielend. Holz.Hohe 28,Breite 22 Cent.
+
+## Nach Angelika Kauffmann.
+
+- 500 Weibliche Halbfigur  Thalia -mit Maske.In einem Oval.
+- Leinwand.Hohe 43,Breite 35 Cent,
+
+## Johann Horemans,
+
+geb.zu Antwerpen 1685;+ 1759.
+- 502 Portrait.
+
+## Nach Angelika Kauffmann.
+
+- 501 Allegorische Figur des Krieges.
+
+Leinwand.Gleiche Grosse.
+
+Weibliche Halbfigur mit Dolch und Helm.Gegenstick zum Vorigen in gleicher Ausfuhrung.
+
+## Johann Kupetzky,
+
+geb.zu Poessing 1666;1740.
+
+Brustbild eines Mannes in mittleren Jahren, in rothem Rocke und Pelzmitze,in Dreiviertel-Wendung nach links.
+
+Leinwand.Hohe 46,Breite 38 Cent.
+
+## Pieter van Laar, gen. Bamboccio,
+
+geb.zu Landen 1612; 1673 oder 1674.
+
+## 503 Italienischer Pferdemarkt.
+
+Leinwand.Hohe 80, Breite 77 Cent.
+
+Auf einem freien, von hohen Ruinen begrenzten Platze spielen sich die verschiedenen Scenen des Pferdemarktes ab:Pferde werden vorgefihrt,andere stehen in Ruhe,dazwischen die Gruppen der Verkaufer und Kaufer.Sehr schones und interessantes Bild in hellem Tone.
+
+## Gregorius Leballoz,
+
+Spanischer Meister, XVII. Jahrh.
+
+- 504 Die Vermahlung der hl. Catharina.
+
+Dieselbe ist in Wolken dargestellt,mit Engelglorien. Unten links bezeichnet mit Namen und Jahreszahl 1693.
+
+Holz.Hohe 49,Breite 49 Cent.
+
+## Eustache Lesueur,
+
+geb.zu Paris 1616; daselbst 1655.
+
+## 505 Der Calvarienberg.
+
+Leinwand. Hohe 70,Breite 40 Cent
+
+Christus am Kreuz, zwischen den Schachern; zu Fissen desselben Madonna und die hl.Frauen,Johannes und Magdalena. In der Um gebung die Kriegsknechte. Interessante grau in grau behandelte Skizze.
+
+## Lucas van Leyden (Schule).
+
+- 506 Die Verspottung Christi.
+
+Composition von zwolf Kniefiguren, in theils interessanten Costimen, die Kopfe zum Theil grotesk gehalten. Originelles, interessantes Bild.
+
+Holz.Hohe 60, Breite 76 Cent.
+
+## Giovanni Antonio Licinio Regilloda Pordenone,
+
+geb.zu Pordenone 1483;zu Ferrare 1539.
+
+## 507 Bildniss eines Cardinals.
+
+Lebensgrosses Girtelbild im Ornate,in den Handen ein Buch haltend. Der Hintergrund grin mit Arabesken in schwarz gemustert. Leinwand.Hohe 100, Breite 84 Cent.
+## 510 Reiterschlacht.
+
+## Lambert Lombard,
+
+geb. zu Luttich 1505; daselbst 1566.
+
+Kopfschleier.
+
+## 509 Pferdestick.
+
+508 Brustbild der Mutter Anna in Lebensgrosse, mit reich drapirtem
+
+Holz.Hohe 51,Breite 37 Cent.
+
+## Dirk Maas,
+
+geb.zu Haarlem 1656.
+
+In einem Hofraume gallopirt ein Reiter auf einem Schimnel; ein Knecht fuhrt ein zweites Pferd aus dem Stalle;als Staffage mehrere andere Figuren.
+
+Leinwand. Hohe 30, Breite 38 Cent.
+
+## Jan Martss de Jonge,
+
+Maler des XVII. Jahrhunderts.
+
+Im Vorgrunde einer Hugellandschaft tobt ein wilder Reiterkampf,
+
+Holz.Hohe 48,Breite 63 Cent.
+
+in dem man handgemein geworden;den Boden bedecken gefallene Krieger, Pferde,Armatursticke etc. Sehr gutes Bild.
+
+## Anton Franz van der Meulen (Manier).
+
+Auf dem breiten Wege eines Dorfes sind zahlreiche Truppen versammelt;im Vorgrunde links wird ein grosses Geschutz aufgepflanzt.
+
+## 511 Kriegsscene.
+
+Leinwand.Hohe 33, Breite 37 Cent.
+
+## Jan Miel,
+
+geb.zu Ulaerdingen b.Antwerpen 1599;1664
+
+In einer Felshohlesind zahlreiche Rauber versammelt;als Mittelgruppe zwei Kartenspieler.Unten rechts bezeichnet: J. Miel f. Leinwand.Hohe-31, Breite 45 Cent.
+
+## Hans Mielich,
+
+## 512 Rauberbande.
+
+## 513 Portrait.
+
+geb. in Munchen 1515; daselbst 1572.
+
+Lebensgrosse Halbfigur eines alteren Mannes mit weissem Haare, eine Nelke in der Rechten haltend.Rechts Wappen, Monogramm und Jahreszahl.
+
+Leinwand.Hohe S5,Breite 68 Cent
+
+## Jean Francois Milet, gen. Francisque,
+
+## 514 Italienische Landschaft.
+
+geb.zu Antwerpen 1644;zu Paris 1680.
+
+Dieselbe ist von Hohenzug begrenzt; im Mittelgrunde eine Stadt. Hubsch ausgefuhrte Figurenstaffage.Gutes Bildehen.
+
+Holz.Hohe 33,Breite.45 Cent
+## Moderne Meister.
+
+- 515 Landschaft mit Dorf und Viehherde.
+
+Leinwand.Hohe 32,Breite 44 Cent.
+
+## 516 Bildniss Peter's des Grossen.
+
+Brustbild in Kurass und Hermelinmantel.Oval.
+
+Leinwand.Hohe 38,Breite 30 Cent. Ohne Rahmen.
+
+- 517 Bauernstiick.
+
+## Jan Mienze Molenaer (Manier.)
+
+Vorgrunde rechts ein Bauer die Wirthin umarmend. Leinwand. Hohe 33, Breite 35 Cent.
+
+## Jodocus de Momper,
+
+geb.zu Antwerpen 1564; daselbst 1631/1635.
+
+- 518 Gebirgslandschaft.
+
+von mehreren Flussen durchzogen, an denen Stadte und Ortschaften liegen. Rechts eine Anhohe, auf der bei einer Gruppe hoher Baume die Schenke, vor der mehrere Reiter,Monche etc.； auf dem breiten hinauffuhrenden Wege zahlreiche Reiter,Jager,Lastthiertreiber ete. Sehr schones Bild von guter Qualitat.to
+
+Links eine weite,von hohem Gebirgszug begrenzte Thalebene,
+
+Holz.Hohe 68,Breite 103 Cent.
+
+- 519 Der Schulmeister.
+
+## Monogrammirt A.H.
+
+Derselbe unterrichtet vier um einen Tisch sitzende Knaben. Unten rechts das Monogramm.
+
+Holz.Hohe 23,Breite 19 Cent.
+
+## Monogrammirt J.L.
+
+- 520 Der Mohrenknabe.
+
+Holz.Hohe 52,Breite 40 Cent.
+
+Hiftfgur im hellblauem Gewande,mit Bogen,Kocher und Pfeil In einem Oval.Unten links bezeichnet: J.L.Gutes Bild. 80
+
+## 521 Interieur.
+
+## Monogrammirt V.A. B.
+
+In einer Dorfschenke sitzen Gruppen zechender und rauchender Bauern mit ihren Weibern um einen Tisch;links zwei Bauern zum Spiele eines Geigers,singend.Im Hintergrunde rechts mehrere Figuren am offenen Kaminfeuer.Gutes Bild.Unten links bezeichnet:
+
+V.A.B.f.
+
+Holz. Hohe 49, Breite 65 Cent.
+
+## Hans Muller,
+
+Maler des XvIl. Jahrhunderts.
+
+## 522 Die Anbetung der Hirten.
+
+Composition von finf Figuren im Vorgrunde einer gebirgigen Flusslandschaft.
+
+Kupfer. Hohe 22,Breite 17 Cent.
+- 524 Venus im Bade.
+
+## H.M.Muller,
+
+neuerer Meister.
+
+- 523 Lebensgrosse Halbfigur eines Beduinen mit Mantel. Gute Studie.
+
+Leinwand. Hohe 76, Breite 59 Cent.
+
+- Links bezeichnet: H. M. Muller, Dresden 1870.
+
+## Bernhard Neher,
+
+geb.zu Biberach 1806.
+
+Venus steigt aus Wolken in's Bad,der kleine Amor reicht ihr einen Apfel;in der Hohe links zwei Amoretten und der von Tauben gezogene Wagen.
+
+Leinwand.Hohe 130,Breite 87 Cent.
+
+## Johann Esaias Nilson,
+
+geb.zu Augsburg 1721;↑ daselbst 1788.
+
+In einem Parke sind zahlreiche Herren und Damen in einzelnen Gruppen versammelt;im Hintergrunde rechts eine Karrosse.
+
+- 525 Parkscene.
+
+Leinwand.Hohe 31,Breite 43 Cent.
+
+- 526 Grosses Parkfest.
+
+Gegenstuck zum Vorigen in gleicher Ausfuhrung Gleiche Grosse.
+
+## Niterio dit Castili. (?)
+
+## 527 Susanna im Bade.
+
+An einer von Amorfiguren bekronten Fontaine sitzt Susanna im Bade, den Mantel leicht ibergeworfen, dargestellt bis zum Knie; neben ihr liegt ihr Schmuck.Links die beiden sie iberraschenden Alten, deren einer eine goldene Kette halt.Gruppe dreier lebensgrosser Kniefiguren. Prachtiges Gallerie-Bild von virtuoser Behand lung in Helldunkel, meisterhafter Ausfihrung in den Gewandparthieen und Charakteristik in den Kopfen.Auf der Rickseite die alte Bezeichnung:"Niterio dit Castili.Dasselbe wurde haufig dem Pedro Campana 1503-1580zugeschrieben.
+
+Leinwand. Hohe 118, Breite 148 Cent.
+
+## Pieter Nolpe,
+
+geb.im Haag 1601; zu Amsterdam 1670.
+
+- 528 Zeltlager.
+
+Holz.Hohe 50,Breite 97 Cent.
+
+Im Vorgrunde rechts mehrere Zelte, vor denen Reiter und Fuss soldaten; den breiten,nach dem Hintergrunde zu fuhrenden Weg beleben Fouragewagen, Reiter, Gruppen von Soldaten etc. Interessantes Bild.
+
+## Nurnberger Meister des XVll. Jahrh.
+
+- 529 Portrait.
+
+und Goldschmuck.Interessantes Costimbild;oben Wappen und
+
+Jahreszahl 1660.
+
+Leinwand. Hohe 100, Breite 70 Cent.
+- 535 Marine.
+
+## Oberdeutsche Schule.
+
+- 530 Die Verkiindigung Mariae.
+
+Pluviale.Gutes Bild.
+
+Links kniet Maria in goldgemustertem Gewande und blauem Mantel; rechts der verkindende Engel in Albe und goldgesticktem
+
+Holz.Hohe 32,Breite 37 Cent.
+
+- 531 Der Tod der Maria.
+
+Holz.Hohe 84,Breite 75 Cent.
+
+Maria liegt auf dem von den Aposteln umgebenen Sterbebette,der hl. Johannes reicht ihr eine brennende Kerze. Sehr schone Composition im Style des bekannten Kupferstiches des M. Schon ga uer.
+
+- 532 Altarfigel.
+
+schaftlicher Hintergrund.Die Ruckseite mit Ornamentwerk bemalt. Holz.Hohe 59,Breite 35 Cent.
+
+Christus am Kreuz; zu den Seiten Maria und Johannes. Land-
+
+- 533 Christus am Oelberg.
+
+Judas mit den Haschern.
+
+Im Vorgrunde links die schlafenden Jinger;im Hintergrunde
+
+Holz.Gleiche Grosse.
+
+## Paolo Panelli,
+
+bluhte um 1700.
+
+- 534 Italienische Landschaft;links breite Allee. Kupfer.Hohe 26,Breite 23 Cent.
+
+## Jan Parcellis,
+
+geb.zu Leyden 1597;zu Leyerdorp.
+
+Bewegte See mit drei grosseren Schiffen.
+
+Leinwand. Hohe 51,Breite 68 Cent.
+
+## Nach Pietro Perugino.
+
+- 536 Madonna mit dem Kinde.
+
+Kniefigur der Gottesmutter, sich an eine Bank lehnend,das Kind auf dem Schoosse haltend.
+
+Holz.Hohe 33,Breite 25 Cent.
+
+## Johann Georg Pforr,
+
+geb. zu Upfen 1745; zu Frankfurt 1798.
+
+- 537-538 Zwei Pferdesticke.
+
+2) Schimmel in Vorgrunde einer Lardschaft nach links schreitend. Leinwand.Hohe eines jeden 41,Breite 59 Cent.
+
+- 1)Pferd im Vorgrunde einer Landschaft, von Mann gefihrt,nach rechts schreitend.
+
+## Sebastiano del Piombo,
+
+geb. zu Venedig·1485;zu Rom 1547.
+
+- 539 Brustbild eines Capuziner-Monches.
+
+Halbfigur in Lebensgrosse, in Dreiviertel-Wendung nach rechts, mit langem Barte,den Kopf mit der Kutte verhillt.Vortreffiches Bild von grosser Lebenswahrheit und charakteristiseher Auffassung. Holz.Hohe 55,Breite 43 Cent. Reich geschnitzter italienischer Rahmen.
+## Jacopo da Ponte, gen. Bassano (Manier.)
+
+Friesformiges Bild von figurenreicher Composition. Holz.Hohe 21,Breite S0 Cent.
+
+- 540 Die Anbetung der Hirten.
+
+## Paul Potter (Manier.)
+
+## 541 Landschaft mit Vieh.
+
+Reiter.
+
+Hugellandschaft;im Vorgrunde mehrere Kihe, ein Hirte kommt mit einer Heerde von Kihen und Ziegen eine Anhohe hinauf;links
+
+Holz.Hohe 24, Breite 32 Cent.
+
+## 542 Landschaft mit Vieh.
+
+links Bretterzaun mit entlaubtem Baume.
+
+Auf einem Weideplan lagert eine Heerde von Kihen und Schafen;
+
+Leinwand.Hohe 46, Breite 56 Cent.
+
+## Nicolas Poussin,
+
+geb.zu Villers 1594; zu Rom 1665.
+
+Unter einem Saulenportale kniet Madonna vor dem das Jesukind haltenden Hohenpriester;zu den Seiten die Verwandten,Krippel und andere Figuren； in der Hohe Engelgruppen.Sehr schones Bild in
+
+## 543 Die Darbringung im Tempel.
+
+klarem hellen Kolorit.
+
+## 544 Hirschjagd.
+
+Leinwand.Hohe 45,Breite 64 Cent,
+
+## August Querfurt,
+
+geb. zu Wolfenbuttel 1696; zu Wien 1761.
+
+Im Vorgrunde einer Hugellandschaft verfolgen zahlreiche Reiter
+
+Leinwand.Hohe 95, Breite 132 Cent.
+
+mit der Hundemeute einen Hirschen. Lebendig componirtes Bild. Monogrammirt:Q.
+
+## 545 Aufbruch zur Falkenbeitze.
+
+Leinwand.Gleiche Grosse.
+
+Im Vorgrunde einer weit ausgedehnten Landschaft versammeln sich Kavaliere und Damen zur Falkenjagd. Gegenstickzum Vorigen, in gleicher Ausfuhrung.
+
+## 546 Reiterkampf.
+
+Leinwand.Hohe 28,Breite 40 Cent.
+
+Im Vorgrunde einer gebirgigen Landschaft sind mehrere ReiterAbtheilungen handgemein geworden.
+
+## 547 Schlachtbild.
+
+Leinwand. Hohe 66, Breite 82 Cent.
+
+Aneinem Gebirgsabhange withet eine wilde Schlacht mit Orientalen;in einzelnen Gruppen sind die Reiter handgemein geworden;im Mittelgrunde entspinnt sich ein harter Kampf um die Geschitze; den Boden bedecken gestirzte Pferde, Gefallene,Armaturstickeetc. Sehr schones Bild,von lebendiger,figurenreicher Composition.
+- 551 Pferdestick.
+
+## Karl Rahl,
+
+geb. zu Wien 1812; daselbst 1865.
+
+- 548 Diana und Endymion.
+
+der ihr eine Rose reicht.Schone Composition.Bezeichnet:K.R. Leinwand.Hohe 124,Breite 104 Cent.
+
+In einer Waldlichtung zieht Endymion der auf seinem Schoosse sitzenden Venus einen Dorn aus dem Fusse; links der kleine Amor,
+
+## Imitator des Rembrandt Harmensz van Rijn.
+
+- 549 Gelehrter in seiner Studirstube.
+
+setzten Tische sitzend.
+
+Gelehrter in orientalischer Tracht, an einem mit Bichern be-
+
+Holz.Hohe 32,Breite 23 Cent.
+
+## Rembrandt Harmensz van Rijn (Manier.)
+
+- 550 Brustbild eines Offziers.
+
+Halbfgur mit Schnurr-und Knebelbart,fast en face,mit schwarzem Barett, goldener Halskette und rothem Mantel. Interessantes Bild. Leinwand. Hohe 46,Breite 39 Cent.
+
+## Johann Elias Ridinger,
+
+geb. zu Ulm 1698; zu Augsburg 1767.
+
+Zwei Pferde und Hund stehen im Vorgrunde einer Landschaft links an einem Waldeingange. Holz.Hohe 47,Breite 35 Cent.
+
+- 552 Thierstick.
+
+Hund im Profil im Vorgrunde einer Landschaft stehend. Leinwand.Hohe 38, Breite 32 Cent.
+
+## Nach Giulio Romano.
+
+- 553 Der Raub der Amphitrite.
+
+Wiederholung der bekannten Composition.
+
+Kupfer.Hohe 25,Breite 201f Cent.Ohne Rahmen.
+
+- 554 Neptun eine Nymphe raubend.
+
+Ohne Rahmen.
+
+Gegenstick zum Vorigen. Kupfer.Gleiche Grosse.
+
+## J.van Rombouts,
+
+thatig zu Haarlem um 1660.
+
+Links Waldeingang mit breitem Wege,auf dem mehrere Figuren; rechts ein grosses Gehoft, vor dem ein Wagen abgeladen wird. Der Hintergrund mit weiter,von Gebirgszug begrenzter Fernsicht. Leinwand. Hohe 61,Breite 78 Cent.
+
+## Philipp Peter Roos,
+
+geb.zu Frankfurt a.M. 1685; zu Rom 1705.
+
+- 556 Thierstick.
+
+Im Vorgrunde einer Felslandschaft wird ein Bar von mehreren
+
+Hunden angefallen.
+
+Leinwand. Hohe 48, Breite 68 Cent.
+
+- 555 Landschaft.
+## Johann Rottenhammer,
+
+geb. zu Munchen 1564;  zu Augsburg 1623.
+
+Gott Vater legt die Hand auf die eben ins Leben gerufene Eva. Kupfer.Hohe 33,Breite 45 Cent.
+
+## Petrus Paulus Rubens,
+
+## 557 Das Paradies.
+
+geb.zu Siegen 1577; zu Antwerpen 1640.
+
+- 558 Landschaft mit Regenbogen.
+
+anklingend.
+
+Vom Hintergrunde zieht sich nach links ein Fluss, einen Wasserfall bildend, iber den eine Holzbricke fihrt; das Ufer links gebirgig, mit mehreren grossen Gebaulichkeiten; im Vorgrunde rechts, bei einer Gruppe hoher Baume, zwei Hirtenpaare bei ihrer Heerde;auf einer Erhohung sitzt ein dritter Hirte, die Flote blasend.Sehr schones Bild, die Composition an die durch Bolswert's Stich bekannte
+
+Holz.Hohe 68, Breite 106 Cent.
+
+## 559 Venus und Adonis.
+
+Venus umarmt den zur Jagd ziehenden Adonis. Gute skizzenhafte Wiederholung der bekannten Composition.
+
+Leinwand.Hohe 34,Breite 42 Cent.
+
+- 560 Altarfugel.
+
+## Schule des Peter Paul Rubens.
+
+Auf der Vorderseite die Anbetung der Konige in der bekannten figurenreichen Composition.Auf der Ruckseite in einer Nische die Standfigur des hl. Andreas vor landschaftlichem Hintergrunde.
+
+Holz. Hohe 68, Breite 38 Cent.
+
+- 561 Der Sturz der Engel.
+
+Gute Wiederholung der bekannten Composition.
+
+Leinwand.Hohe 85,Breite 67 Cent.
+
+- 562 Toilette der Nymphen der Diana.
+
+Figurenreiche Composition in einzelnen Gruppen.
+
+Leinwand.Hohe 56,Breite 82 Cent.
+
+- 563 Gefligelter Amor neben Emblemen und Armatursticken stehend
+- Leinwand.Hohe 117,Breite 68 Cent.
+- 564 Venus und Amor.
+
+Venus, auf ihrem Ruhelager schlafend;in der Umgebung Amor und gefigelte Genien,deren einer ein reiches Blumenbouquet halt.
+
+Leinwand.Hohe 61,Breite 78 Cent.
+
+- 565 Indianerin.
+
+Halbfgur einer Furstin in reichem Costume, mit Kocher und Bogen,auf der Rechten einen Papagei haltend.
+
+Leinwand. Hohe 64,Breite 55 Cent.
+## 566 Reitergefecht.
+
+Im Vorgrunde einer Gebirgslandschaft withet ein heftiger Reiter- kampf.Figurenreiche Composition.
+
+Leinwand.Hohe 28,Breite 40 Cent.
+
+## Salomon van Ruijsdael,
+
+geb. zu Haarlem;  daselbst 1670.
+
+- 567 Canallandschaft.
+
+Rechts das von Segelbooten und Kahnen belebte Wasser; auf dem Ufer links die Kirche und Hauser einer befestigten Stadt; auf dem breiten Wege des Vorgrundes als Staffage mehrere Figuren.
+
+Sehr gutes Bild.
+
+Holz. Hohe 70, Breite 92 Cent.
+
+## Nach Jacob van Ruisdael.
+
+- 568 Hugelige Landschaft mit Figurenstaffage. Leinwand.Hohe 75,Breite 96 Cent.
+
+## Russisch-griechische Malerei.
+
+- 569 Wunderthitiges Madonnenbild.
+
+Die Gewandungen versilbert und mit Blumen gemustert.
+
+Leinwand.Hohe 32, Breite 23 Cent.
+
+## Karl Ruthart,
+
+Maler des XVII. Jahrhunderts:
+
+- 570 Jagdstuck.
+
+Zwei Hirsche im Kampfe, in einer Waldlichtung. Leinwand.Hohe 31,Breite 41 Cent.
+
+- 571 Hirsch und Hirschkuh an Waldeingang stehend
+- Gegenstick zum Vorigen in gleicher Ausfihrung. Leinwand. Gleiche Grosse.
+- 572 Thierstick.
+
+Auf einem Felsabhange zerfleischen zwei Leoparden einen Dammhirsch;auf einem entlaubten Stamme mehrere Lammergeyer. Leinwand. Hohe 98, Breite 78 Ceut.
+
+## David Ryckaert,
+
+geb.zu Antwerpen 1612; daselbst 1661.
+
+- 573 Genrebild.
+
+Eine Frau ersucht zwei Manner und einen Knaben zum Eintritt in ein Haus.  Hibscher Ton.
+
+Leinwand. Hohe 30,Breite.221/ Cent.
+
+## Georg Philipp Rugendas,
+
+geb.zu Augsburg 1660;↑ 1742.
+## Bartolomeo Schidone,
+
+## 574 Die Findung Mosis.
+
+geb.zu Modena 1560; zu Parma 1615.
+
+Am Ufer des Nils steht Pharaos Tochter mit ihren Gespielinnen, deren eine, im Wasser stehend, das Binsenkorbchen holt. Oval. Leinwand. Hohe 56, Breite 73 Cent.
+
+## Schule des Martin Schongauer.
+
+## 575 Die Verkiindigung Mariae in zwei Bildchen:
+
+dachin vor dem Betpulte knieend,iber ihr die Taube des hl. Geistes.
+
+Holz.Hohe 19,Breite 15 Cent.
+
+2)Der Engel, knieend, in Albe und weitem Pluviale; vor ihm Banderole.Zwei hochinteressante Bildchen, die Hintergrinde mit Punzornamenten und vergoldet.
+
+## Schweizer Meister des xVl. Jahrh.
+
+Figurenreiche Darstellung in interessanten Costumfiguren;rechts Pilatus, sich die Hande waschend.Sehr interessantes, leider stark beschadigtes Bild.
+
+- 576 Christus wird dem Volke vorgestellt.
+
+Leinwand.Hohe 140, Breite 115 Cent.
+
+## Christian Seibold,
+
+- 577 Brustbild einer jugendlichen Dame. Sie hat einen Epheukranz durch's gelockte Haar geflochten. Oval. Leinwand.Hohe 64, Breite 52 Cent.
+
+geb. zu Mainz 1703； zu Wien 1768.
+
+- 578 Weibliches Brustbild.
+
+Gegenstiick zum Vorigen. Leinwand. Gleiche Grosse.
+
+Ebenso.
+
+## Spanische Meister.
+
+Lebensgrosses Brustbild eines jugendlichen Mannes, den mit grossem Federbarett bedeckten Kopf nach oben wendend;an die Linke hat er den Degen gelehnt.Interessantes,ausserst charak-
+
+- 579 Portrait eines Offziers.
+
+teristisches Bild.
+
+Leinwand.Hohe 70, Breite 58 Cent.
+
+- 580 Mannliche Halbfigur mit struppigem Barte. Leinwand. Hohe 41,Breite 29 Cent.
+- 581 Benedictiner-Monch.
+
+Leinwand.Hohe 53, Breite 41 Cent.
+
+Lebensgrosses Brustbild, fast im Profl nach rechts.
+
+## Bartholomaus Spranger,
+
+- 582 Das Weltgericht.
+
+geb.zu Antwerpen 1546; zu Prag 1616 oder 1625.
+
+Figurenreiche Composition im Style des Michel-Angelo;in der Hohe der Weltheiland, umgeben von Engelglorie. Holz.Hohe 124, Breite 93 Cent.
+## Bartholomaus Spranger,
+
+geb. zu Antwerpen 1546; zu Prag 1616 oder 1625.
+
+## 583 Bachus und Venus.
+
+Gruppe zweier Kniefguren.
+
+Holz.Hohe 37,Brite 27 Cent.
+
+## Johann Christoph Storer,
+
+geb. zu Konstanz 1611;  daselbst 1671.
+
+- 584 Ecce Homo.
+
+Brustbild des leidenden Heilandes,mit der Dornenkrone,in rothem Mantel. Bezeichnet: Johan Christoph Storer pinx: 1671. Metallplatte.Hohe 41,Breite 31 Cent.
+
+- 585 Mater Dolorosa.
+
+Brustbild in Dreiviertel-Wendung nach rechts,in rothem Gewande mit blauem Ueberwurf und gelbem Kopfschleier.
+
+Metallplatte. Gleiche Grosse.
+
+## Abraham van Stork,
+
+geb. zu Amsterdam 1650; 1708.
+
+## 586 Marine.
+
+Bewegte See; zwei grossere Schiffe kampfen mit den Wellen. Leinwand. Hohe 51, Breite 69 Cent.
+
+## Lorenz Strauch,
+
+geb. zu Nurnberg 1554; 1636.
+
+## 587 Weibliches Portrait.
+
+Kniefigur einer juingeren Dame in schwarzem gemustertem Gewande,mit goldgestickter Haube, Spitzenkragen und Manchetten;um den Hals tragt sie eine dreifache Goldkette mit prachtigem Bijou;
+
+Arme und Finger schmucken Spangen und Ringe. Interessantes Costimbild.Oben links Monogramm und Jahreszahl 1606.
+
+Leinwand. Hohe 86, Breite 66 Cent.
+
+## 588 Weibliches Bildniss.
+
+Huftfigur einer Dame in mittleren Jahren, mit Pelzhaube, ge- mustertem schwarzem Gewande und Ringkragen; mit reicher Halsund Girtelkette.Interessantes Costimbild.Oben rechts:aetatis suae 28. anno 1609."
+
+Leinwand. Hohe 92, Breite 66 Cent.
+
+## Abraham van Stry,
+
+geb. zu Dortrecht 1753; 1826.
+
+## 589 Landschaft mit Vieh.
+
+Im Vorgrunde einer Flachlandschaft an einem mit Segelbooten besetzten Flusse eine liegende und eine stehende Kuh.Gutes Bild.
+
+Holz. Hohe 31, Breite 38 Cent.
+## 591 Bauernstick.
+
+## Pieter Tanje,
+
+- 590 Portrait eines Fursten.
+
+geb.zu Bolsward 1706.
+
+Lebensgrosses Brustbild in Dreiviertel-Wendung nach rechts,in Allongeperricke,Brustharnisch und Spitzenkravatte. Leinwand.Hohe S0,Breite 60 Cent.
+
+## David Teniers der Aeltere,
+
+geb.zu Antwerpen 1582;+ daselbst 1649.
+
+Rechts unterhalten sich bei einem Brunnen, der vor einigen
+
+Hausern steht, mehrere Figuren. Leinwand.:Hohe 31,Breite 36 Cent.
+
+## 592 Die Kreuzschleppung Christi.
+
+Holz.Hohe 37,Breite 27 Cent.
+
+Der figurenreiche Zug bewegt sich unter einem Felsthore her nach rechts;im Vorgrunde links die hl. Veronika, das Schweisstuch haltend.Interessantes Bild.
+
+- 593 Interieur.
+
+## Nach David Teniers d. J.
+
+Bauernpaar an einem Tische sitzend.
+
+Kupfer.Hohe 24, Breite 17 Cent.
+
+## Gerard Ter-Borch (Schule).
+
+Knabenfigur mit rothem Hute auf dem langgelockten Haare;ein
+
+## 594 Portrait eines Prinzen.
+
+Hund springt an ihm herauf.Gutes Bild. Leinwand.Hohe 37, Breite 27 Cent
+
+## Giovanni Battista Tiepolo,
+
+- 595 Skizze zu einem Deckengemalde.
+
+geb.zu Venedig 1693; zu Madrid 1770.
+
+von reicher Engelglorie umgeben;iber der Darstellung Gott Vater, von Engeln getragen:unten musicirende und psalmirende Engelgruppen.
+
+Leinwand.Hohe 118,Breite 47 Cent,
+
+Schones,oben und unten abgerundetes Bild.
+
+## 596 Aehnliche Skizze.
+
+gruppe die hl. Brigitta, als obere Gruppe der Heiland in reicher Engelglorie.
+
+Gegenstuck zum Vorigen in ahnlicher Anordnung. Als Mittel-
+
+Leinwand.Gleiche Grosse.
+
+## Johann Heinrich Tischbein,
+
+geb.zu Hayna 1722; zu Kassel 1780.
+
+Lebensgrosse Halbfigur in Puderperricke,reichem Brustharnisch
+
+## 597 Portrait eines jugendlichen Fursten.
+
+mit Ordensband und ibergeworfenem Hermelinmantel;links neben ihm der Helm.Gutes Bild.
+
+Leinwand.Hohe 90, Breite 71 Cent.
+- 603 Landschaft.
+
+## Johann Heinrich Tischbein,
+
+geb.zu Hayna 1722; zu Kassel 1780.
+
+- 598 Portrait des Kaisers Leopold II.
+
+Lebensgrosses Brustbild im Kronungsornate, in Harnisch und mit dem Orden des goldenen Vliesses. Leinwand.Hohe 85,Breite 71 Cent.
+
+## Johann Heinrich Tischbein (Manier).
+
+- 599 Bildniss einer Prinzessin.
+
+Brustbild,von vorne, in gepuderter Lockenfrisur. Holz.Hohe 26, Breite 19 Cent.
+
+- 600 Bildniss eines Firsten.
+
+Brustbild fast en face, in Puderperricke und goldgesticktem grunen Rocke mit Ordensstern.
+
+Holz.Hohe 25,Breite 17 Cent.
+
+## Johann Georg Trautmann,
+
+geb. zn Zweibricken 1713; zu Frankfurt a. M. 1769.
+
+- Barte.
+
+Holz. Hohe 27,Breite 20 Cent.
+
+## Tyroler Meister aus dem Anfange des XVI. Jahrh.
+
+- 602 Paulus vor dem Tribunen Lysias.
+
+Von mehreren Kriegsknechten wird Paulus gebunden vor den unter reicher Saulenhalle auf Thron sitzenden Tribunen gebracht; rechts blickt man durch ein Thor in eine Landschaft. Die Rickseite bemalt mit Ecce Homo.Ausschnitt aus einem Altarbilde.
+
+Holz.Hohe 38,Breite 35 Cent,
+
+## Lucas van Uden,
+
+geb. zu Antwerpen 1595; daselbst 1672.
+
+Durch den Mittelgrund zieht sich ein breiter Weg, auf dem mehrere Figuren und Karren, beiderseits von Gruppen hoher Baume begrenzt, nach dem gebirgigen Hintergrunde zu.
+
+Leinwand.Hohe 38,Breite 54 Cent.
+
+## Unbekannte Meister.
+
+- 604 Madonna mit dem Kinde.
+
+Kniefigur.
+
+Leinwand. Hohe 32, Breite 25 Cent.
+
+- 605 Die Anbetung der Hirten.
+
+Leinwand. Hohe 80, Breite 51 Cent.
+
+- 606 Ecce Homo.
+
+Kniefigur.
+
+Auf Schieferplatte. Hohe 25,Breite 17 Cent. Ohne Rahmen.
+## Unbekannte Meister.
+
+Kupfer. Hohe 22, Breite 18 Cent.
+
+- 607 Das Schweisstuch Christi.
+- 608 Das Pfingstfest.
+
+Die Ausgiessung des hl. Geistes innerhalb eines Tempels. Leinwand. Hohe 361/e, Breite 31 Cent.
+
+- 609 Susanna im Bade. Gruppe dreier lebensgrosser Kniefiguren. Leinwand. Hohe 143, Breite 118 Cent.
+- 610 Nymphe im Bade;ihr schaut ein Meergott zu. Leinwand.Hohe 52,Breite 45 Cent.
+- 611 Bauernpaar.
+
+Gruppe zweier Kniefiguren an einem Tische sitzend; die weibliche Figur zundet sich eine Thonpfeife an. Leinwand. Hohe 68, Breite 57 Cent.
+
+- 612 Interieur mit zwei Figuren.
+- Kupfer.Hohe 24, Breite 18 Cent.
+- 613 Zwei Savoyardenknaben mit dressirten Thieren, vor einer Familie ihre Kunststicke zeigend. Leinwand.Hohe 72,Breite 90 Cent.
+- 614 Charlatan,von zahlreichen Weibern und Kindern umgeben. Pappe.Hohe 21,Breite 161/ Cent.
+- 615 Mutter und Kind. Leinwand. Hohe 46, Breite 35 Cent.
+- 616 Tancred und Chlorinde.
+
+Gruppe zweier Brustbilder in Ueber-Lebensgrosse.In einem Oval. Leinwand.Hohe 66, Breite 54 Cent.
+
+- 617 Landschaft mit Schloss Waldershausen.
+- Leinwand.Hohe 25,Breite 35 Cent.
+- 618 Landschaft mit Sauhetze.
+- Holz, Hohe 22, Breite 19 Cent. Ohne Rahmen.
+- 619 Waldlandschaft mit Jagern.
+- Leinwand.Hohe 65, Breite 84 Cent.
+- 620 Portrait der Catharina Il.von Russland.
+
+Brustbild in schwarzer Haube und schwarzem Kleide, nach links gewandt; den Beschauer anblickend. Gutes Bild. Leinwand.Hohe 55,Breite 41 Cent.
+
+- 621 Polenfurst.
+
+Huftbild in voller Uniform, mit Reihermitze und Commandostab. Leinwand. Hohe 54,Breite 52 Cent.Geschnitzter Rahmen.
+
+- 622 Weibliches Portrait.
+
+kragen.
+
+Brustbild einer jungen Dame in schwarzem Gewande, mit Ring
+
+Leinwand. Hohe 50,Breite 40 Cent.
+- 623 Frauenportrait.
+
+## Unbekannte Meister.
+
+Brustbild einer Dame en face, Sternendiadem im hellen Lockenhaar.
+
+Leinwand. Hohe 63, Breite 52 Cent.
+
+- 624 Weibliches Bildniss.
+
+Interessantes Costumbild,mit Spitzenkragen.
+
+Leinwand.Hohe 87,Breite 7o Cent.
+
+- 625 Weibliches Brustbild in Ueber-Lebensgrosse.
+- Leinwand.Hohe 61,Breite 5 Cent.
+- 626 Brustbild eines graubartigen Orientalen. Leinwand.Hohe 44,Breite 36 Cent.
+
+## Wallerant Vaillant,
+
+geb. zu Lille 1623; 1677,
+
+- 627 Portrait der Madame de Montespan.
+
+Lebensgrosse Kniefigur in weissem Atlasgewande, mit blauer Scharpe, im Vorgrunde eines Parkes, mit der Rechten in dem Wasser einer Fontaine spielend. Sehr schones Bild.Unten links bezeichnet:
+
+V.Vaillant 1671.
+
+Leinwand.Hohe 125,Breite 98 Cent.
+
+## Jan Valentin, gen. Moise,
+
+Maler zu Coulommiers; zu Rom 1634.
+
+- 628 Weibliches Brustbild.
+
+Dargestellt in Lebensgrosse, fast im Profil nach links, den Busen entblosst.Derb gemaltes Bild.
+
+Leinwand.Hohe 54, Breite 41 Cent.
+
+## Nach Tiziano Vecellio.
+
+- 629 Der Goldregen der Danae.
+
+Danae auf dem Ruhebette liegend; rechts Amor. Skizzenhafte
+
+Behandlung.
+
+Leinwand. Hohe 64, Breite 46 Cent.
+
+- 630 Ruhende Venus.
+
+Im Vorgrunde einer Gebirgslandschaft ruht Venus, vollig nackt, Perlenschnire im gelockten Haare, an einem Erdhigel, auf dem eine Baumgruppe, zwischen Blumen. Sehr gutes Bild. Leinwand.Hohe 115,Breite 168 Cent.
+
+- 631 Ruhende Venus.
+
+Gute Copie des bekannten Bildes in der Dresdener Gallerie. Leinwand. Hohe 110,Breite 170 Cent.
+
+- 632 Der Goldregen der Danae. Gute Copie des bekannten Bildes. Leinwand. Hohe 112, Breite 175 Cent.
+
+## Adriaan van de Velde (Manier）.
+
+- 633-634 Zwei Landschaften mit Vieh.
+- Arbeiten eines deutschen Meisters des vorigen Jahrhunderts.
+- Leinwand. Hohe 23, Breite 37 Cent.
+## 635 Schlachtbild.
+
+## Ezajas van de Velde (Manier).
+
+An einem Hugelabhange rechts, auf dem versteckt die Fusssoldaten liegen,tobt ein heftiger Reiterkampf; als Mittelgruppe der
+
+Leinwand.Hohe 75, Breite 95 Cent.
+
+Kampf um die Fahne.
+
+## Jan van de Velde,
+
+## 636 ,Wer nicht liebt Wein,Weib und Gesang."
+
+geb. zu Leyden 1598;lebte noch 1677.
+
+Drei interessante Costimbilder, das erste ein Medaillon mit weiblichem Portrait, das zweite Glas und Flasche haltend, das dritte Geige spielend.Drei interessante Bildchen.
+
+einigt.
+
+Holz. Hohe eines Jeden 25, Breite 23 Cent.In einem Rahmen ver-
+
+## 637 Marine.
+
+## Willem van de Velde (Manier)
+
+Ruhige See mit zwei Segelbooten. Auf einem Kahn Monogramm
+
+Leinwand.Hohe 41, Breite 36 Cent.
+
+und Jahreszahl 1686.
+
+## 638 Marine.
+
+Ruhige See mit grosser Flotte, die theilweise im Feuer. Leinwand. Hohe 40,Breite 72 Cent.
+
+## Nicolaus van Verendael,
+
+## 639 Jephthas Rickkehr aus der Schlacht.
+
+Maler aus Antwerpen, blihte von 1660--1670.
+
+Im Vorgrunde einer Landschaft reitet Jephtha, dem seine Tochter, in schonem Colorit.
+
+begleitet von zahlreichem Gefolge, jubelnd entgegeneilt.Gutes Bild
+
+Leinwand. Hohe 100, Breite 155 Cent.
+
+## Frans de Vriendt, gen. Frans Floris,
+
+## 640 Susanna yon den beiden Alten iberrascht.
+
+geb.zu Antwerpen um 1517/1518； daselbst 1570.
+
+Susanna, mit reichen Goldgeschmeiden,im Bade;rechts prachtige Steinfontaine; links ein Laubgang,unter dem eine weibliche Figur.
+
+Holz.Hohe 76,Breite 106 Cent.
+
+Gutes Bild.
+
+## Frans de Vriendt, gen. Frans Floris (Manier.)
+
+Links ein Satyr. Holz.Hohe 38,Breite 27 Cent.
+
+- 641 Venus und Amor.
+
+## 642 Venus und Amor
+
+Gleiche Grosse,
+
+Aehnliche Composition.Gegenstick zum Vorigen.
+## Max Joseph Wagenbaur (Manier).
+
+## 643 Landschaft mit Vieh.
+
+Im Vorgrunde einer Flachlandschaft steht eine Kuh an einem
+
+Holz.Hohe 34,Breite 31 Cent.
+
+Sumpfwasser; daneben zwei Schafe.
+
+## Adriaan van der Werff,
+
+geb. zu Kralinger Ambracht 1659; zu Rotterdam 1722.
+
+## 644 Portrait eines Firsten.
+
+Derselbe steht in vollem Kronungsgewande,mit Hermelinmantel, vor einer von massiver Saule herabfallenden reichen Draperie; das in der Rechten gehaltene Scepter stitzt er auf ein rothseidenes Fauteuil.Vorzigliches Bild.
+
+Leinwand. Hohe 69,Breite 49 Cent.
+
+## 645 Portrait eines jugendlichen Firsten.
+
+Leinwand. Hohe 82, Breite 65 Cent.
+
+Lebensgrosses Brustbild in Dreiviertel-Wendung nach rechts, in Allongeperricke, goldgesticktem Rocke mit Spitzenkravatte und rothem Mantel.
+
+## 646 Portrait eines Firsten.
+
+Lebensgrosse Halbfigur im Profile nach links, mit Allongeperricke,Brustharnisch und Spitzenkravatte.
+
+Leinwand.Hohe 69,Breite 59 Cent.
+
+## 647 Ruhe der Diana nach der Jagd.
+
+In einer Waldlichtung sitzt Diana vor einer Baumgruppe
+
+Leinwand. Hohe 165,Breite 148 Cent.
+
+schlafend auf einem Erdhigel, auf ihrem Schoosse den Windhund. Ueber ihr Amor einen Pfeil abschiessend； rechts hangt an einem Baume, Pfau, Reh und Feldhuhn als Jagdbeute bei den Jagdgerathschaften.Im Hintergrunde ihre Nymphen einen Hirsch verfolgend. Prachtvolles Galleriebild.
+
+## Roger van der Weyden,
+
+geb. 1400 zu Tournai; zu Brissel 1464.
+
+## 648 Mater Dolorosa.
+
+Lebensgrosses Brustbild der schmerzhaften Mutter, en face, in blauem Gewande und reich drapirtem weissen Mantel und Kopftuch, die Hande betend iber der Brust gefalten. Sehr schones Bild, von tiefer,inniger Empfindung.
+
+Holz.Hohe 67,Breite 44 Cent.
+
+## Nach Roger van der Weyden.
+
+Brustbild der Madonna in blauem Mantel, unter einem reichen
+
+## 649 Mater Dolorosa.
+
+gothischen Baldachin.
+
+Holz. Hohe 231/2, Breite 19 Cent. In reich geschnitztem und vergoldetem Rahmen.
+## Michael Wohlgemuth,
+
+geb zu Nirnberg 1434; daselbst 1519.
+
+## 650 Die Anbetung der hl. drei Konige.
+
+In einer Ruine sitzt Madonna, das Jesukind auf dem Schoosse; hinter ihr der hl. Joseph；links die ihre Geschenke darbringenden hl. drei Konige.Gutes Bild. Einzelne Gewandparthieen und die
+
+Gefasse vergoldet.
+
+Holz.Hohe 37,Breite 36 Cent.
+
+## Woumans.(?)
+
+651 Die hl.Familie,in eigenthimlicher Darstellung,beim Mahle sitzend. Holz.Hhe 20,Breite 16 Cent.
+
+## Januarius Zick,
+
+geb. zu Munehen 1733;zu Ehrenbreitstein 1797.
+
+## 652 Christus am Kreuz.
+
+Das Kreuz bei Abendstimmung im Vorgrunde einer Landschaft stehend.
+
+Leinwand.Hohe 40,Breite 25 Cent.
+
+## Johann Georg Ziesenis,
+
+geb. zu Kopenhagen 1716; zu Hamaer 1777.
+
+- 653 Portrait einer Firstin.
+
+Lebensgrosses Brustbild mit gepuderter Lockenfrisur, en face, mit spitzenbesetztem Chemisette, goldgesticktem Gewande und blauem Mantel.Gutes Bild.
+
+Leinwand.Hohe 86,Breite 64 Cent.
+
+## 654 Bildniss einer Firstin.
+
+Huftfigur en profl, den Kopf fast en face,in blauem gemustertem Gewande und rothem,reich drapirtem Mantel. Leinwand. Hohe 96,Breite 82 Cent.
+
+## 655 Portrait eines Prinzen.
+
+Jugendlicher Prinz stehend, in rothem goldgesticktem Rocke, mit zwei Hunden.
+
+Holz.Hohe 25, Breite 18 Cent.In geschnitztem Rahmen mit Aufsatz.
+
+## Francesco Zucchaerelli,
+
+geb. zu Pitigliano 1702;↑ zu Florenz 1788.
+
+## 656 Landschaft.
+
+Links fihrt ein Weg, auf dem Mann mit Frau und Hund, an einem Hugelabhange vorbei.
+
+Leinwand.Hohe 31, Breite 44 Cent.
+
+<!-- image -->

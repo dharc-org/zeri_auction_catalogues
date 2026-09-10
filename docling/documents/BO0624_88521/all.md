@@ -1,0 +1,1988 @@
+- 1
+- 2 TintenfaB,viereckig mitToneinsatz. Anf. 19. Jahrh. Hohe 6,5 cm.
+- 3
+- 4 SalzfaB, Becherform. Anf. 19. Jahrh. Hohe 5,5 cm.
+- 5
+- 6
+- 7
+- 8
+
+## Zinn.
+
+- Chanukka Schiffchen. Gemarkt. 18. Jahrh. Hohe 16,5 cm.
+- Desgleichen auf geschweifter Platte. 18. Jahrh. 10/15 cm.
+- Desgleichen, Schalenform. Hohe 5 cm.
+- Desgleichen, Schale auf breitem FuB. Hohe 3 cm.
+- 9 Buchse, gedeckelt. Gemarkt, bez. 1753. Hohe 7 cm.
+- Schalen-Becher, gedreht. 18. Jahrh. Hohe 6 cm.
+- 10 Becher, gedeckelt. Urnenform. Hohe 14 cm.
+- 12 Desgleichen. 19. Jahrh.Hohe 7,5 cm.
+- 11 Becher. Bez. 1862. Hohe 6,5 cm.
+- 13 Puppengeschirr: Platte, Schuissel, Gewirzkastchen.
+- Durchmesser 9 cm.
+- 14 Bierglasdeckel mit Zimmermannsemblemen. 19. Jahrh.
+- 15 Kunkelschussel. 19. Jahrh. Durchmesser 9 cm.
+
+## Mabgefabe.
+
+19. Jahrh. mit Marken.
+2. 16 Doppelliter mit Deckel. Hohe 26,5 cm.
+3. 17
+4. 18 Liter desgleichen. Hohe 20,5 cm.
+5. Liter desgleichen. Hohe 21 cm.
+6. 19 Halbliter desgleichen. Hohe 17 cm.
+7. 21 Doppelzehntelliter desgleichen. Hohe 11 cm.
+8. 20 Halbliter ohne Deckel. Hohe 14,5 cm.
+9. 22
+10. 23 Zehntelliter desgleichen. 2 Stick. Hohe 9 cm.
+11. Desgleichen.
+12. 24 Doppelhundertstelliter desgleichen. 3 Stick. Hohe 5 cm.
+13. 26 1/4 Liter. Marke franzos. Ruckert in Wurzburg. 19. Jahrh. Hohe 12 cm.
+14. 25 Hundertstelliter desgleichen. Hohe 4 cm.
+15. 27
+16. Sat von Doppelzehntelliter, Zehntelliter, Halber Zehntel-
+17. 28 Halber Zehntelliter und Doppelhundertstelliter.
+18. 29
+19. 30 Halber Zehntelliter mit Marke. 18. Jahrh. Hohe 6,5 cm.
+20. liter, Doppelhundertstelliter,Hundertstellitr.
+21. Halber Liter mit AusguB. 18. Jahrh. Hohe 15 cm.
+22. Desgleichen, auf 3 FuBen. Hohe 3 cm.
+- 47
+
+## Kaffee- und Milchkannen.
+
+- Empire. 31 Zylindrischer Korper. Abhebbarer Deckel. Hohe 19 cm.
+- 32 Gedrehter Korper. Gedeckelt. Rokoko. Hohe 19,5 cm. Abbildung Tafel IV.
+- Hohe 24 cm.
+- 33 Desgleichen.
+- 34
+- Birnformiger Korper. Gedeckelt. 18. Jahrh. Hohe 19 cm.
+- 35 Desgleichen. Mit Rosenzinnmarke. Hohe 22 cm.
+- 36 Breiter AusguB. Ohne Deckel.Empire. Mit Marke. Hohe 14 cm.
+- Desgleichen. Ohne Marke. 18. Jahrh. Hohe 16 cm.
+
+## Kannen.
+
+- Starker AusguB.Anf. 19. Jahrh.
+- 38 Zylindrische Form. Hohe 27 cm.
+- 39 Desgleichen. Mit Marken. 18.19. Jahrh. Hohe 20 cm.
+- 40 Zylindrische Form, nach unten weit ausladend. Hohe 22 cm.
+- 41 Desgleichen. Graviert. Hohe 30 cm.
+- 42 Kleiner AusguB. Meistermarke von 1710.
+- Desgleichen. Marke Ulm, sowie Meistermarke. 18. Jahrh.
+- 43 Hohe 20,5 cm.
+- 44
+- Desgleichen. Marke Kreuz und Meistermarke.17. Jahrh. Hohe 28 cm.
+- Desgleichen. Meistermarke, graviert 1778. Hohe 27 cm.
+- 45 Abbildung Tafel IV.
+- Zylindrische Form, ohne AusguB. Graviert am Deckel: "As mus Gratt 1754". Meistermarke. Hohe 28 cm.
+- 462 Abbildung Tafel IV.
+
+## Schraubflaschen.
+
+- Viereckig, datiert 1763. Hohe 29 cm.
+- 48 Sechseckig, datiert 1780. Hohe 20 cm.
+- 49
+- Desgleichen.Stempel Gunzenhausen.19. Jahrh.Hohe 22 cm.
+- 50 Achteckig. 19. Jahrh. Hohe 19 cm.
+- 51 Zylindrisch. Datiert 1840. Hohe 13 cm. Abbildung Tafel IV.
+19. Jahrh. Hohe 15 cm.
+- 52 Desgleichen.
+- 53 Desgleichen.
+- 54 Desgleichen.
+- 19.Jahrh.Hohe 23 cm.
+- Datiert 1853. Hohe 26 cm.
+- 55 Desgleichen. Datiert 1851. Hohe 25 cm.
+- 56 Desgleichen. Datiert 1827. Zinnmarken.Hohe 26 cm.
+- 37
+- 65
+
+## Krige, samtlich gedeckelt.
+
+- 57 Gerillt. 19. Jahrh.Hohe 19 cm.
+- 58 Desgleichen. 19.Jahrh. Hohe 18 cm.
+- 59 GlockenfuB. 19.Jahrh.Hohe 19 cm.
+- 60
+- Desgleichen. Anf. 19. Jahrh.Hohe 19,5 cm.
+- 61
+- Glatt. Anf. 19.Jahrh.Hohe 11,5 cm.
+- 62 Pokal. Bekronung romischer Krieger.17.-18. Jahrh. Hohe 38 cm. Abbildung Tafel IV.
+- 63
+- Kokospokal.Alt, Zusammengesetzt.17.-18. Jahrh. Hohe 31 cm.
+- 64 Becher. Glockenform, graviert mit Studentenzirkel und Kneipnamen.Anf. 19. Jahrh.Hohe 18 cm. Abbildung Tafel IV.
+
+## Leuchter.
+
+- Viereckiger FuB. Vasenformiger Schaft. Gemarkt. Empire.
+- 2 Stick.Hohe 24 cm. Abbildung Tafel IV.
+- 66 RundfuB.Verdickter Schaft. Empire. Hohe 19 cm.
+- 67 GlockenfuB. Gerillter Schaft. Tulle fehlt. Empireform. Hohe 21 cm.
+- 68 TellerfuB. Schlanker Schaft. 18.—19. Jahrh. Hohe 22 cm.
+- 69 GlockenfuB. Balusterschaft.2 Stick. Anf. 19. Jahrh. Hohe 15 cm.
+- 70 Desgleichen. 1 Stuick.Hohe 14,5 cm.
+- 71
+- 72 Desgleichen. 18. Jahrh. Hohe 17,5 cm.
+- Desgleichen. Hohe 15 cm.
+- 73 Lampe, viereckiger FuB.Balusterschaft. Gedeckelt.
+- 74 Desgleichen. RundfuB, gehenkelt. 18.—19.Jahrh. Hohe 9,5 cm.
+19. Jahrh. Hohe 26 cm.
+- 75 Desgleichen. 18.Jahrh. Hohe 19 cm.
+- 76Desgleichen. 18. Jahrh. Hohe 5 cm.
+
+## Liturgische Gegenstande.
+
+- 2 Maienkriglein.Vasen, gehenkelt. 18.Jahrh. Hohe 15 cm.
+- 77 Abbildung Tafel IV.
+- 78
+- Desgleichen. 18.—19. Jahrh. Hohe 20 cm.
+- 79
+- Hostienbichse. 8eckiger FuB, reich gegliederter Schaft. Hohe 18 cm.
+
+Abbildung Tafel IV.
+- 80 2 MeBkannchen auf 8eckiger, gravierter Platte. Kannchen Hohe 9,5 cm, Platte 24/18,5 cm.18. Jahrh. Abbildung Tafel IV.
+- Desgleichen. Ohne Platte. 18. Jahrh. Hohe 11 cm.
+- 81 Abbildung Tafel IV.
+- 82 2 MeBkannchen. Anf. 19. Jahrh. Hohe 12 cm.
+- 83 Desgleichen. 18. Jahrh. Hohe 11 cm.
+- 84 Untersatzplatte fir Taufkanne.Gemarkt. 18. Jahrh.
+- Durchm.32 cm.
+- 85 Kruzifix.GlockenfuB.Balusterschaft. Kleeblattform.18. Jahrh. Hohe 39 cm. Abbildung Tafel IV.
+- Kreuzenden in
+- Kruzifix.Hoher GlockenfuB, breites einfaches Kreuz.
+- 86 Anf. 19. Jahrh.Hohe 78 cm.
+- Gemarkt.Rokoko. Lamm als Be-
+- 87 Abendmahlkanne. kronung. 18. Jahrh. Hohe 33 cm.
+- 88
+- Desgleichen. Figurlicher Henkel. 18. Jahrh. Hohe 35 cm.
+- Mit Reliefschmuck:Heiliges Abendmahl.
+- 89 Weihwasserkessel, gehenkelt. 18. Jahrh. Hohe 6 cm.
+- 90 Desgleichen.Hohe 5 cm.
+- 91 Desgleichen ohne Henkel. Hohe 8 cm.
+- 92
+- Weihwassergefab. Mit Relief: Gottvater und Kruzifix. Deutsch. 18. Jahrh. Hohe 14 cm.
+
+## Wochenbettschisseln.
+
+- 93 Doppelhenkel, gedeckelt. Empire. Hohe 9 cm.
+- 94 Desgleichen. Hohe 10 cm.
+- 95
+- Desgleichen. Mit Marke Schnell in Hall. Hohe 11 cm.
+- 96
+- Gedrehte Rokokoform. 18. Jahrh. Hohe 10 cm.
+- 97 Doppelhenkel ohne Deckel.2 Marken.18. Jahrh.
+- Hohe 4 cm.
+
+## Schusseln.
+
+- 98 Stark vertieft.Glatter Rand.18.—19.Jahrh.Durchm.23cm.
+- 99
+- Desgleichen.19. Jahrh.Durchm.22 cm.
+- 100 Durchm. 22 cm.
+- 101
+- 102 Desgleichen.Durchm.21 cm.
+- Baderschussel mit Gravierung von 1793. Marke.
+
+## Teller.
+
+- Vertieft.2 Stick. Gemarkt.Anf.19.Jahrh. Durchm.21 cm.
+- 103
+- Vertieft, mit Rand. Gemarkt.Anf.19. Jahrh.Durchm.23,5 cm.
+- 104 Desgleichen. Gemarkt. Graviert:1848. Durchm.23 cm.
+- 105 Mit (neu) getriebenem Hirsch.Durchm. 22,5 cm.
+- 106 Flach.19. Jahrh.Durchm.22 cm.
+- 107
+- Desgleichen. Zinnmarke von 1791. Durchm.21 cm.
+- 108 Zinnmarken von 1708.Graviert 1752.
+- Desgleichen. Durchm. 21 cm.
+- 109 Desgleichen.1 18. Jahrh.Durchm.22 cm.
+- 110 Desgleichen. 2 Stick. Eines graviert 1769. Durchm.22 cm.
+- 111-122 Desgleichen. 12 Stick. Alle gemarkt. 18. Jahrh.
+- Durchm. 24 cm.
+- 123-127 Fassonierter Rand. Stark vertieft.5 Stuick.Gemarkt.18. Jahrh.Georg Nerf. Durchm.23,5 cm.
+- 128—141 Fassonierter Rand, flach.
+- 14 Stuick.Gemarkt. 18. Jahrh./Anf.19. Jahrh. Georg Nerff. Durchm.23,5 cm.
+- 142
+- 143
+- Platte mit reich geschweiftem Rokokorand. 18. Jahrh. Durchm.18/30 cm.
+
+Abbildung Tafel IV.
+
+- Desgleichen. Durchm. 17,5/28 cm.
+- Abbildung Tafel IV.
+- 144 Untersatzplatte. Gemarkt. Anf. 19. Jahrh. Durchm.23 cm.
+- 145 Kurfurstenteller. Nirnberger Zinnmarke. 17.Jahrh. Durchm. 20 cm.
+- 146
+- GroBe Platte. Marke Nerff.Ende 18. Jahrh. Durchm.35 cm.
+- Desgleichen.Marke Schott.Ende 18.Jahrh.Durchm.32,5cm.
+
+## Glas.
+
+- Humpen in Stiefelform. 19. Jahrh. Hohe 19 cm.
+- 147
+- 148
+- 149
+- ScherzgefaB: Hund, grin. 19. Jahrh. Lange 20 cm.
+- 150 Desgleichen. WeiB, beschadigt. Lange 19 cm.
+- 151 Platte mit Korb. Kristall. 19. Jahrh. Lange 29 cm.
+- 152-154 Drei Teller, desgleichen. Durchm. 18,5 cm.
+- 155 1 Teller, desgleichen. Durchm. 17 cm.
+- 156 Deckelpokal. Kristall mit Golddekor. Deutsch. I. Halfte
+19. Jahrh. Hohe 20,5 cm.
+- 157 Zuckerdose. Kristall mit vergoldeter Montierung, in Originallederfutteral, mit beiliegendem Schreiben Konig Wilhelms I. von Wurttemberg. Hohe 10 cm.
+- 158 Bowle. Kristall. Deckel versilbertes Metall mit trinken-
+- dem Gnom. Hohe 39 cm.
+- 159162 4 Trinkglaser.15kantig. Wappen Monogramm 1786. Hohe 8 cm.
+- 163-165 3 Schnapsflaschen. ZinnverschluB. Farbige Emailmalerei. 18.Jahrh.Hohe 1315 cm.
+- 166
+- 167 Trinkglas mit farbiger Transparentmalerei:Wallensteins Lager von Johann Georg Buhler, Urach 17611823. Hohe 12 cm.
+- Kriglein.Farbige Emailmalerei.1601.Originalzinndeckel, gesprungen. Deutsch von 1601. Hohe 18 cm.
+- Biedermeierglas. Rot mit reichem Golddekor, Kristall.
+- Desgleichen. Auf rotbraunem Grund Goldblumen.Grine
+- 168 Hohe 12,5 cm. Abbildung Tafel Ill.
+- 169 Medaillons. Hohe 1l cm. Abbildung Tafel Ill.
+- 170
+- 171 Milchglasbecher. Farbige Malerei, deutsch. 18. Jahrh.
+- Desgleichen. Nur geschliffen. Hohe 13,5 cm.
+- Hohe 8,5 cm.
+- 172
+- 173 Saugflasche mit ZinnverschluB. Anf.19. Jahrh. Hohe 17 cm.
+- Schnupftabaksdose in Form einer Hand, die die Feige macht. Blaues Glas mit farbiger Malerei. Biedermeier. 9 Liter.
+
+## Majolika.
+
+- 174 GroBe Platte. Im Fonds Christus und die Samariterin
+- 175 Desgleichen. Im Fonds Hagar und ihr Sohn. Durchm.
+- 176
+- Nach italienischem Vorbild. Durchm.42 cm.
+- 37,5cm.
+- 177 Schlangenhenkel. Dekor: Antike Szenen
+
+178
+
+- 2Kannen. nach italienischem Vorbild. Hohe 45 cm.
+- Desgleichen. Im Fonds Mutius Caevola. Durchm.37,5 cm.
+
+Weihwasserbecken.
+
+Bunt bemalt.
+
+Alpenlandisch.
+
+- Rechteckige Landschaftplatte mit Ruinenarchitektur und Wasserfall. Italien, 18. Jahrh. Leichte AbstoBungen. Durchm. 27 cm.
+18. Jahrh. Springe und Erganzungen. Hohe 40,5 cm. 179 Runde Fillplatte mit gemalter Ruinenarchitektur und Landschaft. Italien, 18. Jahrh. Der Rand abgeschliffen. Durchm.28 cm.
+- 180
+- Blumenvase. Gelb und blau. Orientalische Form. Gez.
+- 182 2 Blumenvasen. Blatterkelch mit Schnepfe. Mod. Hohe 40cm.
+- 181 Sevilla. Hohe 37 cm.
+## Steingut.
+
+- 183 Rechaud. Marke B. 19. Jahrh. Hohe 22 cm.
+- 184 Tasse mit Untertasse. Rot, Biedermeier. Marke HN Hohe 5 cm.
+- 185 Service:88 Stuick.
+- 22 Suppenteller, 46 Speiseteller, 1 SuppenterrinemitPlatte,2Gemiseschusseln,2Deckel schisseln,2Tunkenschisseln,4kleineBeilageschusseln, 6 Fleischplatten,1Fischplatte,1 tiefe,1 flache Platt, 2 Salatschisseln. Dekor in Ueberdruck. Farbige chinesische Landschaften. Marke Davenport. Erikamuster. England, 1. Viertel 19. Jahrh.
+- 186191 6 Teller. Darstellungen aus dem Leben Napoleons: Napoleon in Kairo, Donauuibergang 1805, Schlacht bei Jena, bei Austerlitz, bei Ligny, Napoleon auf Helena. Fabrikstempel: S. v. B. Holland, 19. Jahrh. Durchm. 18,7 cm.
+- Teller. Sechsseitiger Rand. Gedruckter Dekor. Eng192 lische SchloBansicht. Marke Creil. Durchm. 19,8 cm.
+- 193 Schokolade-Tasse und Untertasse. Listriert. Fabrik-
+- stempel: Sarguemines.
+- 194 Kaffee-Tasse und Untertasse.Luistriert.Fabrikstempel: Sarguemines. Die Obertasse beschadigt.
+- 196 Kaffeekanne. Listriert. Fabrikstempel: Sarguemines, Der Deckel fehlt. AusguB und oberer Rand beschadigt.
+- 195 Teller.Listriert.Achtseitiger Rand.Fabrikstempel: Sarguemines. Durchm.18,5 cm.
+- 197 Untertasse.Listriert. Fabrikstempel: Sarguemines. Durchm.13,5 cm.
+- 198 Desgl. Fabrikstempel: Sarguemines. Durchm. 13,2 cm.
+- 199 Untersatzteller. Durchbrochener Rocaillerand. Bunter Blumendekor. 19.Jahrh. Fabrikstempel: D. &amp; C. Durchm.27,2 cm.
+- 200 Kugelvase. Blaugrin. Modern. Hohe 9 cm.
+- 201
+- 2 Vasen. Reiches, farbiges Blumendekor. Goldrand. Modern. Hohe 33 cm.
+- Blumenschale. Pierrot und 3 Balleteusen. Vienna Fayence.
+- 202 Schauer. Modern. Lange 40 cm.
+- 203 Ruhender Rappe. Schramberg. Modern. Lange 15 cm.
+
+## Steinzeug.
+
+- 204 Kriglein. Altes Beschlag. Hohe 20 cm.
+- Desgleichen. Henkel geflickt. Hohe 20 cm.
+- 205
+## Fayencen.
+
+- 206 Kanne ohne Deckel. Kornblumen- und Festonsdekor. Marke Schretzheim. 18. Jahrh. Hohe 14 cm.
+
+206a Desgleichen. Hohe 14 cm.
+
+206b Desgleichen. Hohe 16 cm.
+
+- 207 Desgleichen. Ohne Marke. Gekittet. Hohe 11 cm.
+- 208 TintenfaB. Schretzheim. 18. Jahrh. Hohe 6 cm.
+
+209
+
+- 210-213 4 Teller.Blumen-und figirl. Dekor.
+- Helmkanne.Blau.Schretzheim.18./19.Jahrh.Hohe 20 cm.
+- Teilweise gesprungen.Lothringen.Ende 18. Jahrh. Durchm.23cm.
+- 18.Jahrh. Durchm.25 cm.
+- 214 Teller. Grinblaues Dekor. StraBburg ?
+- 215 Birnkrug. Dekor: Pferd. Gekittet. Suiddeutsch. 18. Jahrh. Hohe 25 cm.
+- 216 Birnkriglein. Blumendekor. Zinndeckel. Gekittet. Suid deutsch.18. Jahrh. Hohe 17 cm.
+- 218
+- 217 Salz- und PfeffergefaB. Farbiges Blumendekor. Suddeutsch. 18. Jahrh. Lange 14 cm.
+- 219 SalzgefaB. Frauengestalt. Neulothringen. Hohe 18 cm.
+- Teller. Blumendekor. 2 Stick. Siddeutsch. 18. Jahrh. Durchm. 24 cm.
+- 220 Desgleichen. Gekittet. Hohe 18 cm.
+- vom Ende des 18. Jahrh.Hohe 34 cm.
+- 221 Gruppe von 4 Figuren auf Bergsockel, in der Tracht
+- 222-225 Teller. Blau Dekor. Schiff. 4 Stick. Neudelfft.
+- Durchm. 23 cm.
+
+## Porzellan.
+
+- 227/228 2 Tassen mit Untertasse. Eine Untertasse gekittet. Landschaftsdekor. EingepreBte Marke:Pferd. Furstenberg? 18. Jahrh.Hohe 7 cm.
+- 230 Tasse mit Untertasse. Eierbecherform. Empiredekor auf mattgrinem Grund. Tasse gesprungen. Frankreich. Anf. 19. Jahrh. Hohe 11 cm.
+- 229 Service. Bestehend aus: Teekanne, Zuckerdose, Milchkanne und Tasse mit Untertasse. Golddekor.Graumalerei. Landschaft. Frankreich. Anf. 19. Jahrh.
+- 231 Untertasse. Korbflechtmuster. Farbige Putten. Goldrand. Blaumarke:Hochst. 18. Jahrh. Durchm.14 cm.
+- 232 Untersetzplatte in Blatform. Farbiges Blumendekor. Blaumarke: Hochst mit Krone. Gesprungen. Durchm. 22 cm.
+- 233 Teebichse. Figurendekor.Blaumarke: Ludwigsburg. Hohe 11 cm.
+- 234 Tasse mit Untertasse. Blaumalerei. Ludwigsburg. 18.Jahrh. Hohe 5,5 cm.
+- 235 Tasse mit Untertasse. Golddekor.Farbige Malerei. Eremit und heil. Magdalena.Goldmarke W.B. Lud-
+- 236 Vase. Kelchform. Blau mit Gold. Goldmarke F.R. Lud-
+- 237
+- wigsburg ? Anf. 19. Jahrh.
+- wigsburg.Anf. 19. Jahrh. Hohe 19 cm.
+- Anf.19. Jahrh.Hohe 10 cm.
+- Tasse auf 3 Klauenfuben. Empireform. Dekor blau und Gold. Goldmarke: F. R. mit Krone. Ludwigsburg.
+- 238 Kaffeetasse mit Untertasse. Bunter indianischer Vogeldekor. Goldrand. Blaumarke: Ludwigsburg mit Krone. 18.Jahrh.
+- 239
+- 240
+- 241 Desgleichen.
+- Abbildung Tafel III.
+- Teetasse mit Untertasse. Bunter indianischer Vogeldekor. Goldrand.Blaumarke: Ludwigsburg mit Krone.18.Jahrh. Abbildung Tafel IIl.
+- 242 Desgleichen. Schuppenmuster mit buntem Blumendekor und violettem Rand. Blaumarke: Ludwigsburg mit
+- 243-245 Desgleichen.
+- Krone. 18. Jahrh. Abbildung Tafel III.
+- 246 Desgleichen. Schuppenmuster mit buntem Blumendekor und Goldrand. Blaumarke: Ludwigsburg mit Krone. 18. Jahrh.
+- 2481 Desgleichen. Korbrand. Bunter Blumendekor. Goldener Randstreifen. Blaumarke: Ludwigsburg. 18. Jahrh. Abbildung Tafel IV.
+- 247 Desgleichen.
+- 249
+- Kaffeetasse und Untertasse. Korbrand. Bunter Blumendekor. Goldener Randstreifen. Blaumarke: Ludwigs-
+- 251
+- 250 burg mit Krone. 18. Jahrh. Abbildung Tafel IIl.
+- 252 Desgleichen. Schuppenmuster mit buntem Blumendekor und Goldrand. Blaumarke:Ludwigsburg mit Krone. 18. Jahrh.
+- Desgleichen.
+- Desgleichen.
+
+Abbildung Tafel IIl.
+
+- 253 Desgleichen. Blaumarke: Ludwigsburg. 18. Jahrh.
+- Desgleichen.
+- 254 Cremetasse. Muschelform mit Asthenkel auf drei FuBen. Bunter Blumendekor. Goldrand. Blaumarke: Ludwigsburg mit Krone. 18. Jahrh. Abbildung Tafel IIl.
+- 255
+- 256
+- Violetter Rand. Blaumarke: Ludwigsburg
+- Desgleichen.
+- Desgleichen. mit Krone. 18.Jahrh.
+- 257 Desgleichen. Blaumarke: Ludwigsburg. 18. Jahrh.
+- 258 Teetasse mit Untertasse. Gemalter Korbrand mit bunten
+- Blumengehangen. Blaumarke: Ludwigsburg mit Krone 18.Jahrh.
+- 259
+
+Abbildung Tafel VI.
+
+- Desgleichen.
+- 260 Flacher Teller. Korbrand. Bunter indianischer Vogeldekor.Goldener Randstreifen. Blaumarke: Ludwigsburg mit Krone. 18. Jahrh. Durchm. 24,3 cm. Abbildung Tafel IIl.
+- 261/262 Desgleichen.
+- 263 Desgleichen. Korbrand. Bunter Blumendekor. Violetter Randstreifen. Blaumarke: Hirschstange. Ludwigsburg. 18. Jahrh. Durchm.24 cm.
+- 264 Desgleichen.
+- Blaumarke: Ludwigsburg.
+- 265 Desgleichen. Korbrand. Bunter Blumendekor. Violetter Randstreifen. Blaumarke:Ludwigsburg mit Krone. 18.Jahrh.
+- 266 Desgleichen. Blaumarke: Ludwigsburg. 18. Jahrh. Abbildung Tafel IIl.
+- 267 Desgleichen. Korbrand. Bunter Blumendekor. Violetter Randstreifen. Blaumarke: Ludwigsburg mit Krone. 18. Jahrh.Durchm.24,5 cm. Abbildung Tafel IIl.
+- Im Rand ein gemalter Eichenkranz.Im Spiegel das wtirtt. Konigswappen. Blaumarke: Hirschstange. Ludwigsburg. Anf.19.Jahrh. Durchm.23 cm.
+- 268 Desgleichen.
+- 269 Desgleichen. Abbildung Tafel IV.
+- Schlittschuhlauferpaar. Bunt bemalt. Siehe Balet,Abbildung Nr. 49. Der Sockelrand leicht bestoBen. Blaumarke: Ludwigsburg mit Krone.18.Jahrh. Hohe 12,5 cm.
+- 270 Gartnerpaar.Bunt bemalt. Siehe Balet, Abbildung Nr.54. Tadellos erhaltenes Stick. Blaumarke: Ludwigsburg. 18.Jahrh. Hohe 12 cm. Abbildung Tafel IIl.
+- 271 Abbildung Tafel IIl.
+- 272 Cimon und Pera. Bunt bemalt. Siehe Balet, Abbildung haltenes Stick. Blaumarke: Ludwigsburg. 18. Jahrh. Hohe 17,5 cm.
+- 273 Liegender FluBgott mit Putto. Bunt bemalt. Modell von Ferretti. Siehe Balet Nr.113. Ludwigsburg. 18. Jahrh.Hohe 19,5 cm.
+- Nr.126. Die Ketten leicht beschadigt, sonst gut erAbbildung Tafel IIl.
+- Abbildung Tafel Ill.
+- 275 a) Wahrsager. Bunt bemalt. Siehe Balet Nr. 182. Gut erhaltenes Stick. Blaumarke: Ludwigsburg mit Krone. 18. Jahrh. Hohe 20 cm. Abbildung Tafel IIl.
+- 274 Orpheus mit der Leier. Bunt bemalt. Modell von Beyer. Siehe Balet Nr. 151. Ein Stick vom Schwanz des Cerberus fehlt. Sonst gut erhalten. Ludwigsburg. 18. Jahrh. Hohe 26 cm. Abbildung Tafel IIl.
+- 276 b) Wahrsagerin. Bunt bemalt. Gegenstick zu Nr. 275a. Im Sockel ein feiner Sprung. Sonst tadelloses Stick. Blaumarke: Ludwigsburg. 18. Jahrh. Hohe 20,5 cm. Abbildung Tafel Ill.
+- 277 Jagerpaar. Bunt bemalt. Siehe Balet, Abbildung Nr.40. Der Schwanz des Hundes erganzt,beide Ohren des Rehbocks abgestoBen, das Astwerk des Baumes be-
+- 278
+- schadigt. Ludwigsburg. 18. Jahrh. Hohe 28,5 cm. Abbildung Tafel IIl.
+- 279 Kaffeekanne.Farbige Blumenranke. Ohne Deckel. Meiben.
+- 3 TaBchen mit Untertassen. Blaudekor. MeiBen. 18. Jahrh. Hohe 4 cm.
+- 18.Jahrh.Hohe 23 cm.
+- Gold und Grin. Erhaltung: sehr gut. MeiBen. 18. Jahrh. Hohe 10,5 cm.
+- 280 Teekannchen. Heroldmalerei. Chinesendekor in Purpur, Blaumarke: KPM und Schwerter.
+- 281 SalzfaBchen. Flache Form.Vogeldekor. Meiben.19. Jahrh. Lange 9 cm.
+- Knabe mit Hund, Madchen mit Katze. Meiben. Schwerter-
+- 283 Biedermeier.
+- 282 marke. Hohe 13 cm.
+- Amor. Modell von K.Link. Hoffmann 414. Der linke Arm angekittet,Bogen fehlt, Schilfblattspitzen zum Teil abgestoBen. Blaumarke: C.T. mit Krone. Franken-
+- 284 thal.18. Jahrh.Hohe 10,5 cm. Abbildung Tafel IIl.
+- 285 Walzenkrug. Farbiges Blumendekor, in Purpurrokokokartusche. Arche Noah in hellrot. Marke: Buchszweig. Schretzheim. Silbermontierung, Deckel und FuBreif, I1. Halfte 19. Jahrh.Schretzheim 18. Jahrh. Hohe 12 cm.
+- Abbildung Tafel IIl.
+- 286 Suppenterrine. Farbiges Blumendekor. Knauf Putto mit Marke Volkstett.
+- Vogel. Terrine gesprungen. 18. Jahrh. Hohe 25 cm.
+- 287 Tasse mit Untertasse. Indianisches Purpurdekor. Marke:
+- Kleeblatt. Kloster Veilsdorf. 18. Jahrh.
+- Abbildung Tafel IV.
+- 288 Becher mit Untertasse. Goldrand und Spruch. Gekittet.
+- Empire. Hohe 11 cm.
+- Tasse mit Goldrand. Empire. Hohe 6,5 cm.
+- Tasse mit Untertasse. Farbiges Blumendekor in Gold. Biedermeier. Hohe 8,5 cm.
+- 289
+- 290
+- 291
+- Desgleichen. Blau mit Gold. Hohe 6 cm.
+- 292 Desgleichen. Vogeldekor. Karlsbad. Hohe 8 cm.
+- Farbiges,figiirliches Reliefdekor.
+- 293 Vase. Gehenkelt. Moderne Marke Capo di Monte. Hohe 15 cm.
+- 294
+- 295
+- Jubilaumsteller. MeiBen. 1898.
+- Lange 22 cm.
+- Fisch.Berlin. Modern.
+- Hohe 15,5 cm.
+- 296 Elefant.Neuludwigsburg.
+- Desgleichen. Hohe 19 cm.
+- 297 Papagei.
+- 298 Pfau. Desgleichen. Hohe 16 cm.
+- 299 Blumenschale. Hollanderin. Modern. Hohe 12 cm.
+- 300 Desgleichen. 2 Pierrot. Hohe 11 cm.
+- 301
+- Desgleichen. Knabe. Hohe 16 cm.
+- 302 Desgleichen. Putto. Hohe 10 cm.
+- 303
+- Desgleichen. GieBkanne. Hohe 10 cm.
+- 304
+- Sitzender Chinese. Bunt. Modern. Hohe 9,5 cm.
+- 305 2 liegende Chinesenkinder als Pfeife. Modern. Lange 8 cm.
+- 306
+- Pfeifenstopfer. Modern. Lange 7 cm.
+- 307 Blumenkorb auf hohem BaumfuB, von Putten umspielt Farbiges Blumendekor.Modern.Thiringen.Hohe35cm.
+
+## Ostasiatische Kunst.
+
+- 311 1 japanischer Teller mit Malerei in rot und blau, ge-
+- zackter Rand, repariert.Durchm. 22 cm.
+- 312 2 alte chinesische Teller, bemalt mit Fischen in braun
+- und blau (einer repariert).Durchm. 25 cm.
+什
+
+n.
+
+北
+
+n.
+
+in
+
+- 313 1 japanische Miniaturtasse mit Untertasse, mit Bemalung
+- in blau und Gold.
+- 314 Chin. Gottheit aus Porzellan, mit Papierrolle und
+- 1 Hirsch und blauer Bemalung, repariert. Hohe 19 cm.
+- 315 1 Baum.
+- japanische Porzellan-Vase, bauchige Form, weiBer Grund mit bunter figirlicher Bemalung, japanische Krieger in Rustung beim Schreiben unter bluhendem Hohe 25 cm,repariert.
+- 316 2 chinesische Porzellanvasen, heller Craquele-Grund mit vielen Schriftzeichen und GefaBen in grin, gold, rot und braun. Am FuB und am Ansatz des Halses braune Bordiren mit reliefierten Eidechsen und Feldern mit hellem Grund und Blumen bemalt. Braune Henkel aus Tierfiguren. Hohe 60 cm. 19. Jahrh. Repariert. Abbildung Tafel Ill.
+- 317 2 japanische Bronzevasen mit reliefierten Blumen und
+- 318 1 chinesische Bronze-Rauchervase, mit Ornamenten verziert, getragen von 3 Chinesen. Hohe 18,5 cm. Abbildung Tafel Ill.
+- 319
+- 320
+- 321 11 turkisches Messingschreibzeug.
+- 322
+- Vogeln verziert. Hohe 15 cm.
+- 1 chinesische Bronze-Ente,Flugel Cloisonne. Hohe 13 cm. Abbildung Tafel Ill.
+- 1 japanische Bronze, japanisches Madchen mit ausgestrecktem Arm und reichem Gewand. Hohe 40 cm.
+- 1 runder Handspiegel mit Bronzerahmen und Griff, indisch.
+- 323 1 japanisches Efenbeinfigirchen,ein Fischer, der einen Korb mit Fischen auf dem Ricken tragt, in einer Hand das Netz, in der andern eine Schildkrote. Hohe 6,5 cm.
+- 324 1 japanisches Elfenbeinfigirchen, japanische Frau mit Kind auf dem Rucken. Hohe 6,5 cm.
+- 325 1 japanische Lackvase, mit Schriftzeichen, Vogel und Zweigen verziert.Hohe 12 cm.
+- 326 2
+- japanische Lackdosen mit Deckel. Hohe 12 cm.
+- 327 1 vierteiliger japanischer Lack-Paravent mit Landschaften in Reliefmalerei und Bluten verziert. 1 Teil:26,5x90 cm.
+- Lackmalerei.
+- 328,1 japanische Eck-Etagere mit 7 Etagen.I
+
+AuBerdem noch verschiedene indische und afrikanische Schnitzereien, Gehorne, Schmuck usw.
+## Plastik, Gegenstande aus Messing usw.
+
+- 331 1 Galvanobronze - Figur, Doryphoros von Polyklet.
+- Hohe 210/ cm. Mk. 8500000.
+
+Abbildung auf der 1. Seite.
+
+Diese Figur wird im Auftrag der Akad. V. C. Turnerschaft "Hellas",Wien IV, Stachemberggasse 8 versteigert und der
+
+Erlos der ,Ruhrhilfe" iberwiesen.
+
+- Bronzefigur, stehendes, nacktes Madchen, Original
+- 332 1 von Iffland. Hohe 21 cm.
+- 333 1 Bronzefigur, Venus aux belles fesses, Original von Sommer. Hohe 23,5 cm.
+- 334 Bronzebiste auf Marmorsockel, Diana. Hohe mit
+- Sockel 24 cm.
+- 335 1 Bronzefigur, Tanzerin. Hohe 27,5 cm.
+- 336 1
+- Bronzegestell mit kleiner Ampel u. Eulen. Hohe 33,5 cm.
+- 337 1 Bronzefigur, Minnesanger. Hohe 44 cm.
+- 338 1 Bronzefigur, stehendes Madchen. Hohe 44 cm.
+- 339 2 Galvanobronze-Figuren, Minnesanger und Edeldame. Hohe 41 cm.
+- 340 2 Galvanobronze-Figuren, Mutter mit Kind. Hohe 60 cm.
+- 341 1 Galvanobronze-Beleuchtungsfigur, weibl. Gestalt mit Schmetterlingsfligeln. Hohe 33 cm.
+- 342 1 Galvanobronze-Schale auf FuB. Hohe 3O cm.Durchm. 25 cm.
+- 343 1 spanisches Kastchen,rechteckig,mit Deckel mit reichem Beschlag. 15. Jahrh. GroBe 10,6x7,2 cm. Hohe 5,3 cm.
+- 344 1 Prunkschissel,oval, getrieben, am Rand reiches Ornament, auf dem Grund Herkules, den Nessus totend. In der Mitte Widmung von 1615. Vergoldet. GroBe 52x40,5cm. Original Deutschordensschatz Wien. Meister vermutlich Tobias Kramer 1582-1634 Rll 314a.
+- 345
+- 1 Taufkanne, Helmkannenform, vergoldet, Henkel mit Frauengestalt. Um 1720. Hohe 27,8 cm.
+- 346 1
+- Schale, Kelchform mit reich getriebener Arbeit, Mascarons mit Fruchtgehange. Anf. 17. Jahrh. Hohe 8,9 cm.
+- Klappaltarchen,4teilig,mit Szenen aus der Geschichte Jesu und Maria. Russisch.18.19. Jahrh.GroBe
+- 347 1 10,7x17,5 cm.
+- 348 1 Relief, Geiselung Christi von Moderno, versilbert und
+- 349 1 Relief mit mythol. Szene von Moderno, versilbert und
+- vergoldet in schwarzem Rahmen. GroBe 10x13 cm.
+- vergoldet in schwarzem Rahmen. GroBe 15x11 cm.
+- 351 1 Prunkpokal, vergoldet, mit reichem RenaissanceOrnament, Bekronung Ritter. 16. Jahrh. Original im Welfenschatz. Hohe 50 cm.
+- 350 1 Becher mit figirlichem Ornament,sassanidisch,Original im Antikenkabinett in Wien. Hohe 6 cm.
+- 352 1 Wasseralfinger EisenguB, ruhender Lowe. GroBe
+- 16x8 cm.
+- 353 1 Paar Bronzeleuchter, Rokoko. Hohe 16 cm.
+- 355 1 Leuchter, WeiBmetall. Hohe 17 cm.
+- 354 1 Paar Bronzeleuchter, Rokoko. Hohe 15,5 cm.
+- 356
+- 357 1 Leuchter, Messing.
+- 1 Leuchter, Messing. Hohe 18 cm.
+- 358 1
+- 359 1
+- niederer Handleuchter, Messing.
+- Hohe 17 cm.
+- alte juidische Messingampel.
+- 361 21 kleine Eisenfigirchen auf Holzsockel, Romer und Germane. Hohe 9 cm.
+- 360 1 Reliquienstander in Kreuzform, Messing. Hohe 20 cm.
+- 362 2 Reliefs aus Galvanobronze, Germanische Kriegsszenen, geschweifter Rand. GroBe 28x58 cm.
+- 2 GroBe 17x70 cm.
+- 363 Reliefs aus Galvanobronze, Sommer und Herbst.
+- 364 1
+- Bronzerelief von W. Eberbach, Bildnis Th. Noldeke, beruhmter Orientalist. GroBe 10x16,5 cm.
+- 365 1 Kupferrelief, die Nacht. GroBe 65x65 cm.
+- 70×39 cm.
+- 366 2 Messing-Wandleuchter mit getriebenem Schild. GroBe
+- 367 2 verzinnte Barockleuchter. Hohe 70 cm.
+- 368
+- 369
+- 1 turkische Mokkamihle, Messing.
+- 370 10 alte Mobelgriffe und Beschlage.
+- 372
+- 1 kleiner Messing-Schopfer.
+- 371 1 Tintenzeug in Form eines Miniaturschreibtisches,ZinkguB.
+- 373 1 Fischkessel, Kupfer, aus dem Jahre 1720.
+- 1 kleine Hexe aus Gips.
+- 374 Hifthorn von Herzog Eberhard Ludwig, Elfenbein,
+- 375
+- 376 1 Holzskulptur, mannlicher Kopf in Oval. Hohe 16 cm.
+- 1 mit geschnitzter Sauhatz.
+- 1 alte Holzskulptur, sitzender Christus. Hohe 60 cm.
+- 1 holzgeschnitztes Brett mit Blumenguirlande. GroBe
+
+378 1 Holzfigur, Eva nach Durer. Hohe 35 cm.
+
+- 377 16X54cm.
+
+379 1 kleines Kruzifix mit Reliquien. Hohe 16 cm.
+
+380 1 antiker romischer Kopf, Marmor. Hohe 29 cm.
+
+381 1 Marmorbiste, Flora, italienisch. Hohe 60 cm.
+
+382 11 Marmorbiste, Kopf des Eros, il Genio del Vaticano.
+
+- 383
+
+Muschel mit eingeschnitzter Gemme.
+
+- 384 1 Tafelaufsatz, 3 Etagen, Alabaster, Biedermeierzeit. Hohe 56 cm.
+- 385
+- 1Korbchen mit Henkel, Alabaster, Biedermeierzeit. Hohe 25 cm.
+- 386
+- 2 Vasen mit Henkeln, Alabaster. Hohe 72 cm, defekt.
+
+## Uhren.
+
+- 387 1 holzgeschnitzter Uhrenstander, vergoldet, Louis seize, Herkules, mit silberner Taschenuhr mit bemaltem Ziffernblatt. Hohe 24 cm.
+- 388 1 holzgeschnitzte Louis seize Uhr mit Eck-Konsole, vergoldet, mit 2 allegorischen Figuren, Taubenpaar, Amorette und Reliefs. Hohe (mit Konsole) 85 cm.
+- 389 1
+- spieler, auf Holzsockel. Hohe (ohne Sockel) 27 cm.
+- BronzeguBUhr, vergoldet, Rokokostil, mit Violin-
+- 390 1 Goldbronze-Empireuhr, mit weibl. Figur, Gefligel in der Hand und Krug auf dem Kopf, am Sockel Relief mit landwirtschaftlichen Emblemen. Hohe 37 cm.
+- 392 1 Goldbronze-Uhr, Hebe mit Ganymed, auf Alabastersockel. Hohe 60 cm.
+- 391 1 Goldbronze-Uhr mit sitzender mannlicher Figur und Emblemen des Zimmerhandwerks. Mit Holzsockel und Glasglocke. Hohe (ohne Sockel) 42 cm.
+
+393 Marmoruhr mit Holzsockel und Napoleon-Bronze-
+
+- 394 1 Biedermeier-Uhr mit Konsole,Bronzeverzierungen. Hohe (mit Sockel) 30 cm.
+- 1 Statuette.Hohe 52 cm.
+- 395 Louis seize Uhr, holzgeschnitzt, vergoldet. Hohe 55 cm.
+- 396 1
+
+397 19 Schwarzwalder Wanduhr.
+
+- Gemalde-Uhr, heroische Landschaft mit Staffage, in Aquarell, imTurm Uhr mit Schlagwerk. GroBe73x52 cm.
+- 398 1Prunkuhr mit vielen Ziffernblattern, reich ornamentiert,
+- von Jeremias Metzger, Augsburg, 1567. Hohe 20 cm.
+1
+
+## Mobel.
+
+- 399 1 kleines Schrankchen mit vielen Schubladen, Renais-
+- 399a 2 holzgeschnitzte Ovalrahmen,Lichtmab 52,5x44,5 cm.
+- sance. Hohe 35 cm, Breite 29 cm.
+- 400 1 schwarze Figurensaule. Hohe 1,17 m.
+- 401 Figurensaule.Hohe 1,18 m.
+- 402
+- 402a 1 kleiner runder Tisch mit Perlmuttereinlagen,Biedermeier.
+- 1Boule-Spieltischchen, Platte aufgeklappt, 60x80 cm.
+- 402b 1 Mahagonivitrine mit Bronzebeschlagen, Hohe 110 cm, Breite 60 cm, Tiefe 30 cm.
+
+## Altertimer verschiedener Art.
+
+- 1 Porzellan-Pfeifenkopf mit Ansicht von Augsburg. 403
+- 405 1 groBe Meerschaumpfeife mit Silberbeschlagen.
+- 404 1PorzellanPfeifenkopf,bemaltmit Jagdpicknick,repariert.
+- 406
+- 407 1 Meerschaum-Zigarrenspitze, Nixe.
+- lange Meerschaumpfeife mit Silberbeschlagen.
+- 408 1
+- dto. Adlerkralle.
+- 409 1 holzgeschnitzter Pfeifenkopf, Hirschkopf und Jager
+- 411 1 Meerschaumspitze mit Bernsteinmundstick.
+- 410 1 MeerschaumZigarrenspitze, Venus mit Amor, defekt.
+- 412 1
+- 413 1 Meerschaumspitze mit springenden Hunden.
+- Meerschaumspitze mit Rokokoverzierungen.
+- 414 1 holzgeschnitzte Zigarrenspitze, Fuchs mit Hasen.
+- 415 1 Biedermeier-Steckkamm, holzgeschnitzt.
+- 416 1
+- 417 1 Biedermeier-Spielkastchen mit 4 Markenkastchen und bunten Spielmarken und Spielkarten.
+- 418
+- 419
+- Leseglas.
+- Renaissancedolch,Silber tauschiert. Lange 36 cm,
+- 1 alter Bauernschirm.
+- 419a 1 eiserne Kassette mit KunstschloB auf 4 EisenfuiBen, 18. Jahrh. Hohe 68 cm, Breite 75 cm, Tiefe 35 cm.
+- 420
+- 1 facettierter Spiegel in vergoldetem Stuckrahmen, Glas 48×40 cm.
+
+## Gold, Silber u.Schmuckgegenstande.
+
+- 421 1 goldene lange Halskette,18kar.,3fache Erbskette40gr.
+- 422 1 gold. lange Uhrkette, 14kar. lange Glieder mit Rokokoverzierungen u. verziertem Schraubenkarabiner 29 gr.
+- 1 Paar goldene Ohrringe, Biedermeierzeit,mit blau und
+- 423 weibem Email verziert.
+- 424 1 goldener Herrenring mit Gemme, weibl. Kopf, 14 kar.
+- 425 1 goldener Ring mit Turkis, 8kar.
+- 426 1 goldener Damenring mit Turkis.
+- 427 1 goldener Ring mit Haararbeit.
+- 428 1 goldener Ring mit Granaten.
+- 429 1 silberne Tasse mit Untertasse und Loffel. Schlangenhenkel mit Gravierung:Carl von Schitz, 1823 und Fisch, Augsburg, Seethaler. Loffel, Stuttgarter Beschau.500 gr.
+- 430 1 silbernes Korbchen mit blauem Glaseinsatz und Henkel, Empireform, graviert F. A.K. 1804, mit Stempel, 138 gr. Abbildung Tafel Ill.
+- 431 1
+- 432 1 silberner kleiner Teller mit Filigranrand, 29 gr.
+- silberner Becher mit Henkel und Rokokoverzierungen, um 1880, 90 gr.
+- 433 1 silberner Zahnstocherbehalter in Form eines Stachelschweins, 511/ gr.
+- 435 1 Silberkasten mit 12fachem Besteck, Fadenmuster. Marke E. Foehr, Stuttgart.
+- 434 2 silberne Kompottloffel in Etui, verg. und mit Ornamenten in Email reich verziert, mit Stempel, 1571/ gr.
+- 436 1: silberne Herren-Taschenuhr.
+- 437 2Silberminzen. Braunschweig 1653 u.Mecklenburg 1549.
+- 438
+- 439 1 Gemmenanhanger, Flora in Etui.
+- 10 verschiedene alte Silberminzen.
+- 440 2 kleine Gemmen fir Ringe.
+- 442 11 Miniaturenanhanger mit Silbermontierung, junger Prinz.
+- 441 1 kl. Miniature fuir Anhanger, Hollanderin.
+- 443 1
+- 444 1 silbernes Nadelbichschen, Tiroler.
+- Anhanger, Madchen-Silhouette auf Goldgrund, 1812.
+- 445 1 silberner Rosenkranzanhanger, Kruzifix.
+- 447 1
+- 446 1 Armband mit Granaten.
+- Geldborse mit silbernem Bugel.
+- 449 Elfenbeinbrosche, Engel.
+- 448 1 SchlieBe, vergoldet mit Perlmutterverzierungen.
+- 450
+- 451 1 dto., Steinhauerembleme.
+- 1 Kravattennadel mit Elfenbeinschnitzerei, Pferd.
+- 452 1 Riechdoschen mit Rokokoszene bemalt.
+- 453 1 Paar Ohrringe, Perlenimitation mit gold. Montierung in Etui.
+d
+
+r.
+
+1-
+
+d
+
+e一
+
+r.
+
+1,
+
+n
+
+r.
+
+9.
+
+Z.
+
+2.
+
+g
+
+- 454 1 Paar Ohrringe, Bergkristall mit Perlenimitation und
+- gold. Montierung in Etui.
+- silbernes Armband mit Bergkristallen.
+- 455 19
+- 456 18 silberne Brosche, Hufeisen mit Bergkristallen.
+- 457 1A Anhanger mit rotem Stein und Bergkristallen.
+- silbernes Blatt mit Perlen und Bergkristall.
+- 458 1
+- 459 1 silberne Brosche mit Granatsteinen.
+- 460 1
+- silberner Uhrschlissel mit Zuricher Reformationsmunze 1819,5 gr.
+- 461 1 Halsschmuck aus Glasperlen u. Perlmutter-Muschelchen.
+- 462
+- Theaterschmuck,wie Halsketten,Gurtel, Spangen, Broschen, Ringe usw. 24 Teile in Etui.
+- 463
+- Theaterschmuck, wie Krone, Diademe und Haarnadeln. 8 Teile in Etui.
+- 464 1 Sammlung von 40 Halbedelsteinen.
+- 465 1 vers. Samovar.
+- 466 1vers. Jardiniere, W. M. F. mit Glaseinsatz.
+- 467
+- 1 Medaille, Ostende 1904.
+- 467a 1 Tablett mit Kaffeekanne, Rahmkannchen und Zucker-
+- dose, versilbert.
+
+## Miniaturen.
+
+- Rokokoherr, Aquarell, in breitem, ovalem Goldrahmen
+- 468
+- 469 Kavalier, Oel in ovalem Messingrahmen.
+- 470
+- Madchenkopf auf Elfenbein, in rundem Rahmchen.
+- 471 Weibl. Rickenakt, Oel. Anf. 19. Jahrh.
+- Mannl. und weibl. Bildnis der Biedermeierzeit. Oel auf
+- 472 Messing, bez. F. J. Pollinger, 1842.
+- 473 Friedrich der GroBe als Kind mit seiner Schwester, nach dem Gemalde von Antoine Pesne, auf Elfenbein in Bronzerahmen.
+- 474
+- Dame mit Hut, nach Gainsborough, auf Elfenbein in Elfenbeinrahmen.
+- 475 Madchen mit Hund, auf Elfenbein in Elfenbeinrahmen.
+- 476 Offizier, auf Elfenbein in Elfenbeinrahmen.
+- 477 Dame mit Diadem, auf Elfenbein in Elfenbeinrahmen.
+- 478 Madchen aus der Biedermeierzeit, auf Elfenbein in Elfenbeinrahmen.
+- 479 Dose mit Miniature, Reiter mit Hunden, Bronzemontierung
+- 480 2 kol. Graviren, Rokokoszenen, in alten Rahmchen.
+- Kol. Gravire,Rokokodame am Spinett, in altem Messing
+- 481 rahmchen.
+
+482
+
+Kol. Gravire, Napoleon in ovalem Rahmen
+
+483 Kol.Gravre,Madchen aus derRokokozeit,inoval.Rahmen.
+
+2 kol. Graviren, Milchmadchen und der zerbrochene
+
+484 Krug in ovalem Messingrahmen.
+
+- 485
+
+Kol. Gravure, Diana in Messingrahmen.
+
+486 Kol. Graviire, Flora.
+
+487 2 Silhouetten in Biedermeierrahmchen.
+
+488 2 Silhouetten in Biedermeierrahmchen.
+
+488a 1 Biedermeier-Lichtbild, Furstin.
+
+## Stoffe, Decken und Teppiche.
+
+- 489 1 wollene Decke, 1,75x1,75 m, schwarzer Grund mit bunter tirk. Bordire.
+- 490 wollene Decke, 1,65x1,65 m, weiBer Grund mit breiter
+- bunter tirk. Borduire.
+- 491 1 wollenes Tuch,1,50x150 m,roter Grund mit bunter Rosenbordire und Fransen, etwas defekt.
+- 492 wollenes Tuch, 1,55x1,55 m, schwarzer Grund mit bunter turk. Bordire und Fransen,etwas defekt.
+- 493 wollenes Tuch,75x75 cm, gruner Grund mit buntem
+- Rosenmuster und Fransen, etwas defekt.
+- 494 1
+- 495 1 wollenes Tuch, 80x80 cm, heller Grund mit Streifen und bunter Blumenbordire und Fransen, etwas defekt.
+- wollenes Tuch, 70x70 cm, weinroter Grund mit lila Rosenmuster und Fransen.
+- 496 wollenes Tuch, 85x90 cm, schwarzer Grund mit
+- 497 1 wollenes Tuch, 80x80 cm,weiBer Grund mit bunter Blumenbordire und Fransen.
+- 1 bunter Blumenbordire, etwas defekt.
+- 498 wollenes Tuch, 80x80 cm, blauer Grund mit bunter Blumenbordire und Fransen.
+- 500 wollenes Tuch, 90x90 cm, schwarzer Grund mit
+- 499 1 wollenes Tuch, 9595 cm, brauner Grund mit lila Blumenbordure.
+- 1 buntem Blumenmuster und Fransen, etwas defekt.
+- 502 1 wollenes Tuch, 80x80 cm, roter Grund mit buntem
+- 501 1 wollenes Tuch,1,50x1,50 m, brauner Grund mit lila Blumenbordire und Fransen.
+- Blumenmuster und Fransen, etwas defekt.
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+1.
+
+le it
+
+er er
+
+社
+
+n
+
+a
+
+n
+
+r
+
+r
+
+a
+
+1
+
+- 503
+- 1 wollenes Tuch, 1,00x1,00 m,brauner Grund mit lila Blumenbordiire.
+- 504 wollenes Tuch,80x80 cm,roter Grund mit buntem
+- 1 Blumenmuster und Fransen.
+- 505 wollenes Tuch, 8080 cm, weiBer Grund mit buntem
+- 1 Blumenmuster und Fransen, etwas defekt.
+- 506 1
+- baumwollenes Bauerntuch,1,00x1,10 m,roter Grund mit bunter Bordire.
+- baumwollenes Bauerntuch,1,10x1,10 m, roter Grund
+- 507 mit bunter Bordire.
+- 508 1 Seidendecke,1,35x1,35 m, schwarzer Grund mit bunter
+- Streifenbordire und Fransen.
+- 509 Seidendecke, 1,40x1,45 m, rot und grin kariert mit Blumenmuster und Fransen.
+- 510 1 Seidendecke,1,20x1,15m,rot und grin kariert mit Blumenmuster und Fransen, etwas defekt.
+- 511 Seidendecke, 1,20x1,25 m, rot und grin kariert mit
+- 1 Blumenmuster und Fransen, defekt.
+- Seidendecke,125x130 m, schwarzer Grund mit roter
+- 512 Streifenbordire und Spitze.
+- 513 1 Seidentuch, 1,00x1,00 m,rosa Grund mit buntem Blumenmuster und Fransen, defekt.
+- 514 1Seidentuch, 65x65 cm, blau mit bunten Blumen und Fransen.
+- 515 1Seidentuch,1,00x1,00m,roter Grund mit hellenStreifen, defekt.
+- wollenes Tuch, 75x75 cm, heller Grund mit buntem
+- 516 1 Blumenmuster und Fransen, defekt.
+- 517 Seidentuch, 6565 cm, grin und lila kariert mit Blumen
+- 1 und Fransen, etwas defekt.
+- 1 Seidentuch,7580 cm, weiber gemusterter Grund mit
+- 518 bunter Bordire und Fransen.
+- 519 1 seidener Trachtenkittel.
+- 520 1 seidener Trachtenkittel.
+- 521 1 Trachtenhaube mit Goldborten und Flitterstickerei auf
+- golddurchwirktem Grund.
+- Teepuppe in Biedermeiertracht, alter BiedermeierPuppenkopf mit Strohhut.
+- 522 1
+- 523 1 Perlbeutel, weiber Grund mit bunten Blumenkranzen.
+- 1 Perlbeutel, heller Grund mit buntem Rosenmuster.
+- 524
+- Blumenmuster und weibem, spitzenartigem Rand, 12 cm breit.
+- 526 2 kleine, gestickte Deckchen.
+- 527 2 kleine, gestickte Deckchen, rund, indisch.
+- 528
+- 1 Seidenband aus der Reutlinger Webschule mit Bildnis von Konig Wilhelm I. von Wirttemberg.
+- 528a 1 weiBes Seidentuch, doppelseitig bestickt mit seidenen Fransen, 2,45&gt;0,67 m.
+- 1 2,20×0,70m.
+- 529 weiber Tullschal, mit versilberten Faden durchzogen,
+- 530 1 weibBer Tuillschal, mit vergoldeten Faden durchzogen, 2,35×0,75m.
+- 531 1 schwarzer Tuillschal mit versilberten Faden durchzogen, 2,05x0,60 m.
+- 532 1 Stick Goldbrokat. 19. Jahrh. 1,30x0,58 m.
+- 533 1
+- Seidenstickerei mit Blumen und Vogeln auf roter Seide mit Fransen, japanisch, 1,88x0,48 m.
+- 534 1
+- orientalische Seidendecke mit Stickerei auf rotem Grund, 48x48 cm, defekt.
+- 535 1 orientalische Seidendecke mit Gold- und Seidenstickerei auf griinem Grund mit Goldspitze 50x50 cm.
+- 536 1 orientalische Seidendecke mit Gold- und Silberstickerei auf braunlichem Grund, 1,60x1,45 m.
+- 537 1 rote Kaschmir-Decke,indisch, mit uberaus reicher Gold und Seidenstickerei, Ornamente und Vogel, 2,70×1,30 m.
+- 538 1 orientalische Decke,auf schwarzem Grund bunte Seidenstickerei,50x50 cm.
+
+Ferner: einige deutsche und Perserteppiche.
+
+## Gerahmte Stiche und Lithographien.
+
+- 541 Ansicht des Klosters Beuron. Kol. Aquatintastich.
+- 542
+- 543
+- Hohentwiel im Verteidigungszustand. Kol. Stich.
+- 544
+- Gesamtansicht von EBlingen. Oeldruck.
+- 545 Fenster der Stiftskirche. Farbiger Druck.
+- Kopie des altesten Bildes von Kunzelsau. 1806. Kol. Lithographie.
+- 546 Burgermilitar um 1830. Kol. Lithographie.
+- 547 Prospect des Romer-Bergs zu Franckfurt am Mayn. Guckkastenbild. Kol. Stich. Bei G.B.Probst exc.Voller Rand.
+em nd,
+
+nis en
+
+en, en,
+
+ch- de
+
+em rei
+
+rei er
+
+el, te
+
+1.
+
+K- d.
+
+- Prospect ausser der S. Catharinen Pfort zu Franckfurt am
+- 548 exc. Voller Rand.
+- Mayn. Guckkastenbild. Kol. Stich. Bei G. B. Probst
+- 549 Parforcejagd. Nach Coreggio, Minchen. Farbige Gravuire.
+- Liegendes Madchen. Farbiger Druck. In Rokokorahmen,
+- 550 weib mit Gold.
+- 551 Luftbad. Schlafendes Madchen. Uebermalte Photographie.
+- 552 Pariser Damen bei der Toilette. 5 kol. Drucke.
+- 553 Ueberraschung beim Wascheaufhangen. Uebermalte Photographie.
+- 554
+- 555 The Reading of a Will. Painted by David Wilkie R.A. Engraved by John Burnet. Gr.-qu.-fol. mit Rand.
+- Hollandisches Madchen und Fischerknabe. Alte Handzeichnung.
+- 556 David Wilkie R.A. pinxit. Abr. Raim-
+- 557
+- The Rent Day. bach sculpsit. Gr.-qu.-fol. mit Rand.
+- Village Politicians. David Wilkie R.A. pinxit. Abr.Raim-
+- bach sculpsit. Gr.-qu.-fol. mit Rand.
+- 558 The blind Fiddler. Painted by David Wilkie. Engraved
+- by John Burnet. Gr.-qu.-fol. mit Rand.
+- 559 Alfred in the Neatherd's Cottage. Painted by D. Wilkie
+- R.A. Engraved by James Mitchell. Gr.-qu.-fol. mit Rand.
+- 560 Shakespeare wegen Wildfrevels vor dem Friedensrichter. Gem. von Schrader. Gest. von P. Habelmann. Gr.qu.-fol. mit Rand.
+- 561
+- Bildnis von Friedrich Voltz. Rad. von J. L. Raab. Fol.
+- 562 Virgo Maria Sancti Sixti Raphael pinx. Thouvenin del
+- et sculps. Fol. mit Rand.
+- 563 Et ibunt hi in supplicium aeternum justi autem in vitam aeternam (Jungstes Gericht).P.P. Rubens pinxit Antwerpiae Carolus Ernestus HeB sculpsit Monachi. Gr.-fol. mit Rand.
+- 564
+- Vesuv. Stich von C. Frommel 1830. Gr.-qu.-fol.m.Rand.
+- 565 Aetna. Stich von C. Frommel. Gr.-qu.-fol. mit Rand.
+- 566 8 verschiedene Pferdebilder. Farbige Lithographie nach Volkers usw.
+- Schabkunstblatt. John Steen pinxit,
+- 567 A dutch School. V. Green fecit.
+- 568 Kinderlust. Gravire nach Fred Morgan.Fol.
+- 569 Gedenkblatt des Johann Philipp Palm, Buchhandler in Nurnberg. Stahlstich von Chr Riedt, Nurnberg, nach Perlberg.
+- 570 Die beiden Opfer. Napoleon-Apotheose. Stich.
+- 571 Der Unterricht. Kol. Stich.
+
+572 Bildnis des Marc de Wilson,
+
+Chevalier Sieur de la Colombiere. N. Regnesson sculp. Mit Rand qu.
+
+- 573 Italienische Landschaft. Kol. Stich.
+- 574 Vue de Loschwitz. Kol. Stich.
+- 575 Der Kunstkenner. Farbdruck nach Jos. Frank, Munchen.
+- 576 Alter Hofeingang. Rad. von Leo Kayser.
+- 577
+- Abendstimmung. Rad. von Friz.
+- 578 Burg Eltz. Rad. von Fischer-Oels.
+- 579 Maiennacht. Rad. von Herm. Thiele.
+- 580 Biedermeierzeit. Bunter Scherenschnitt von Friedrichson.
+- 580a Bauernfrau.S Scherenschnitt.
+- 581 Rokokodame. Scherenschnitt.
+- 581a Rokokoherr. Scherenschnitt.
+- 582
+- Eifersucht. Scherenschnitt von Gert Mann.
+- 583 Tanzerinnen.  Scherenschnitt von Gert Mann
+- 584
+- 585 Der Dichter. Bunter Scherenschnitt von J. V. Schaefer.
+- Huldigung. Bunter Scherenschnitt von J. V. Schaefer.
+
+## Mappenwerke,Aquarelle,Hand zeichnungen, Stiche usw.
+
+586 1 Album mit 13 Scherenschnitten von Frl. von Mogling.
+
+588 1 Mappe mit 47 Photographien aus ,Pariser Salon".Akte.
+
+587 1 Album mit 10 alten Aquarellen, Blumen.
+
+- 589 6 Mappen ,Die Kunst in der Photographie".
+- 591 10 Blatt Handzeichnungen von Louis Braun, Haberlin usw.
+- 590 10 Blatt Lithographien. Akte und galante Szenen.
+- 592 6 Blatt Aquarelle von F. Heinrich Aus dem Vaterunser"
+- 593
+- 594
+- 4 Blatt Aquarelle. Ansichten aus Baden.
+- 595 2 Oelstudien aus Amerika.
+- 20 Blatt Aquarelle und Zeichnungen in PostkartengroBe.
+- 596 3 Handzeichnungen von Pilgram. Mannliche Akte.
+- 597 Schafers Morgengebet. Handzeichnung. Ludwig Richter
+- 598
+- zugeschrieben.
+- 599 1 Mappe mit 31 Blatt Handzeichnungen von Prof. Louis Braun.
+- 2 Aquarelle von C. Richard. Hochgebirgslandschaften.
+- 600 Waldinneres.
+- 601
+- Handzeichnung von Jakob Grinenwald.
+- 18 Blatt neue Reitschul, v. Johann Elias Ridinger.Neudrucke.
+- 602 17 Blatt Pferdedressuren. Stiche von Nunzer.
+- 604 Liebesdienst. Aquarell von K. Schott.
+- 603 3 Blatt alte Stuttgarter Ansichten. Stiche.
+- 605
+- 606
+- La Caninomanie. Kol. alter franzosischer Stich mit Rand.
+- 607
+- La bien venue. Kol. alter franzosischer Stich mit Rand.
+- 608
+- 609
+- 610
+- St. Roch. Kol. alter franzosischer Stich mit Rand.
+- La mode. Kol. alter franzosischer Stich mit Rand.
+- Les amusements de la bague Chinoise au Jardin de Tivoli Kol. alter franzosischer Stich mit Rand.
+- La mere a la mode. La mere telle que toutes devraient etre. Kol. alter franzosischer Stich mit Rand.
+- 611 La famille anglaise a Paris. - La parisienne a Londres.
+- 2 Blatt kol. alte franzosische Stiche.
+- 612 The children in the Wood. Rotelstich, im Rund, leicht farbig. Design.by Thomas Stothard. Engraved by Edmund Scott.Ecken abgeschnitten. Fol.
+- 613 Jupiter et Danae. Schabkunstblatt. Dessine par J. B. Huet, peintre du Roi. Tire du Cabinet de Monsieur Lallie. Qu.fol. mit Rand.
+- 614 Hercule et Omphale. Schabkunstblatt. F. Boucher del. Tire du Cabinet de Monsieur Lallie. Qu.-fol. mit Rand.
+- 615
+- 8 Blatt Szenen aus dem Leben von Gotz von Berlichingen. Almanachblatter. Stiche.
+- 616
+- Hamburg nach dem Brande 1842. Stich qu.und Zeitungen und Extrablatter von 1866, 1871 und 1914.
+- 617 Nach Gerard von J. Godefroy
+- Bataille d'Austerlitz. sculp. 1813.Gr.-fol. mit Rand.
+- 618 Tod des Admiral Nelson. Grave a Paris par Falckeisen 1789. Qu.-fol. mit Rand.
+- 619 Congres de Vienne. Seance des plenipotentiaires des huit puissances signatures du traite de Paris. Stich, gr.-qu.-fol.
+- 620 Kgl. Wuirtt. Militar 1865. Farbige Lithographie von Kirn.
+- 621
+- Pauline, Konigin von Wurttemberg. Imp. Lithographie von Villain.
+- 622 Dasselbe.
+- 623
+- Apoll unter den Hirten. Lithographie nach Schick von C. C. Schmidt.Gr.-qu.-fol.
+
+Ferner Radierungen von Corinth, Goetze, Thiele, Friz,
+
+Schwerdtner, Nathusius u.a.
+## Bucher.
+
+- 631 Allers, C. W. Capri. 53 Facsimiledrucke und 9 Aquarell-
+- gravuren. Minchen 1892.
+- 632 Allgemeine Historie der Reisen zu Wasser und zu Lande oder Sammlung aller Reisebeschreibungen. Mit zahlreichen Kupfern. Band 4—19. Leipzig 1749-1769. Gleichzeitige Pappbande mit Lederricken.
+- 633 Arndt, Johann. Samtliche Geistreiche Buicher vom 2.Auflage. Wahren Christentum.
+- Tubingen 1738. Mit Titelkupfer, Portrat des Autors. Schweinslederband mit SchlieBen.
+- 634 Avenarius, Johann.
+- Precationes Wittenbergae 1604. In Schweinsleder.
+- 635
+- 636
+- 637
+- Biondi, Giofranc.L'Eromena,La Donzella,l Corallo.
+- Venedig 1629-1632.In Schweinsleder.
+- Bichele, C. Die Geschichte Wurttembergs, mit Holzschnitten. Stuttgart 1855.Br.
+- Der Horchposten des konigl. wuirtt. Gebirgsbataillons. 1.Band.1915.
+- 638 Dobel, Heinrich Wilhelm. Neueroffnete Jager-Praktika. 4. Auflage. I. und I1. Teil. Leipzig 1868. Pappband.
+- 639
+- Gessler, J. Die Mode des 19. Jahrhunderts, 1800-1897. Wien um 1897.
+- Fur jedes Jahr ein fertiges Blatt. Aus der gleichen Folge 10 Blatt.
+- 640 Goebel, Johann Konrad. Der erste Teil, der ander Teil der Augsburgischen Konfessions-Predigen. Titelkupfer. Augsburg 1633-1634. 2 Bande in Schweins-
+- leder.
+- Heyberger, G.und Fusslen, J. Festzug zur Vollendung
+- 641 des Ulmer Minsters.U Ulm 1890.
+- 642 Hirt, Dr. Johann. Rostopschin oder: Napoleon in Moskau.Konstanz 1838. In rotem gleichzeitigem Maroquinband.
+- 643 Hochstetter, M.H.F.543 Abbildungen zu H. Rebans Naturgeschichte. (2 Tafeln Pflanzenreich fehlen.)
+- 644 Kauffmann, Hugo. Hochzeitsbuch mit Musikanten. 25 Tusch- und Federzeichnungen. 2.Auflage. Munchen 1889.
+- 645 Kraiss, Joh.Konr. Tagebuch der Reichsstadt Biberach. Pappband mit
+- 1790-1801. Stift Buchau,1801. Lederricken.
+- 646 Passhalius, Carolus. De Coronis. Leyden 1671. Mit
+- 647 Petrobelli, Oratio. Specchio di Verita. Venedig 1626. Beigebunden: Bell'haver, Thomas. Doctrina facile per ridurre. 1'Hebreo. Venedig 1608. Schweinsleder.
+- Titelkupfer in Schweinsleder.
+- 648 Robertson,F.R. W. Leipzig.
+- 649 Stillhammer, Hans Wilhelm. Rumanien. Mappe: 20 Zeichnungen,Konigl.Wurtt.Gebirgsbataillon1916/17.
+- Sermons Vol.IV. Tauchnitz. 1866.Gebunden.
+- 650 Szegedinus,Stephan. Speculum pontificum Romanorum.
+- 651
+- 1592.In Schweinsledereinband.
+- 652 Weitzmann, C. Auserlesene Gedichte. Herausgegeben von Friedrich Weitzmann. Stuttgart 1854.Br.
+- Vely, E. Herzog Karl von Wurttemberg und Franziska von Hohenheim. 3.Auflage. Stuttgart 1877. Gebunden.
+- 653 7 Miniatur-Buchlein in Karton, bestehend aus: Plaisir et Gaite, A Paris chez Marcilly fils; L'emploi di Temps etrennes,Paris,chezMarcilly fils1815,epetitaroissien de l'enfance, Paris, Le petit Paroissien de l'enfance, Paris, Le petit Volage pour lannee 1819, Tanzbichlein, Photographie-Album.
+
+## Gemalde moderner und alter Meister.
+
+## Emil Adam, Minchen
+
+- 661 Bildnis der Kaiserin Elisabeth von Oesterreich zu Pferd. Oel auf Leinwand, 60x85 cm. Holzgeschnitzter Naturrahmen.Bez. Emil Adam, Minchen.
+
+## Eugen Adam, Minchen *
+
+- 662 25x33 cm. Bez. Eugen Adam, 1871.
+- Bayerischer Landsturm bei der Erstirmung eines Gehofts. Szene aus dem Krieg 1870/71. Oel auf Leinwand,
+
+## Richard Aigner, Minchen
+
+- 663 Kuhhandel. Ein Handler bietet einem Bauern Banknoten an, die der Bauer aber abweist und im Begriff ist, durch die Stalltire zu verschwinden. Oel auf Holz,
+- 32x20 cm.Bez. R. Aigner.
+
+## E.Ankelen,Minchen
+
+- 664 Strasse am Hafen von Neapel mit Aussicht auf den Vesuv. Im Vordergrund italienische Karrenfuhrwerke,
+- Tragtiere und sonstige Figuren. Oel auf Leinwand, 50x95 cm. Bez. E. Ankelen, Napoli.
+- 665 Sizilianisches StraBenbild.Im Hintergrund rauchender Bez. Vulkan. Oel auf Leinwand, 65x108 cm. E.Ankelen, Minchen.
+- Nachtstimmung an der siditalienischen Kiste. Auf der leicht bewegten See ein Segelboot, auf dem ein Feuer brennt. Oelauf Leinwand,65×108 cm. Bez.E.Ankelen,
+- 666 Munchen.
+
+## Frhr.v. Babo, Baden-Baden
+
+- 667 Der Maler Hans Thoma. Portrat des Kinstlers, der auf der Terrasse eines Parks spazieren geht. Oel auf Leinwand, 92x132 cm. Bez.Largo.Frhr.von Babo.
+
+## Hermann Baisch,Karlsruhe *
+
+- 668 Kuhe auf der Weide. Oel auf Pappe, 15x22 cm. Bez. H. Baisch und NachlaB-Stempel auf der Ruckseite.
+
+## P.Barucci, Rom
+
+- 669 Marktszene in einer italienischen Stadt. Im Vordergrund vor einem monumentalen Brunnen Gefligel- und Gemisehandler, die ihre Ware ausbreiten. Rechts daneben rastende Zug-und Tragtiere. Dahinter vor einem tempelartigen Gebaude viel Bauernvolk. Oel auf Leinwand, 70x130 cm.Bez. P.Barucci, Roma.
+
+## Karl Wilhelm Friedr.Bauerle, Stuttgart
+
+- 670 Rheinisches Winzermadchen mit Fruchtenkorb vor einem
+- Rebstock. Rechts das Rheintal mit der Burg Caub. Oel auf Leinwand, 71x61 cm.
+
+## M.Bergmann, Munchen
+
+- 671 Viehweide. Eingezaunte Wiese mit weidenden Kuhen. Links unter einem Weidenbaum 2 ruhende Kuhe,rechts Daneben eine junge Mutter, die auf dem Brunnentrog sitzt und Oel auf Leinwand, 69x100 cm. Bez.
+- 672
+- im Vordergrund 2 Kuhe an der Tranke. ihr Kind stillt. M.Bergmann.
+- Pferde-Schwemme. Junger Bauernknecht, der, auf einem Schimmel reitend, 2 Pferde in die Schwemme fuhrt. Im Hintergrund Wiesenlandschaft mit einsamem Gehoft. Oel auf Leinwand, 100x80 cm. Bez. M. Bergmann.
+
+## Hans Best, Minchen
+
+- 673 Kopf eines Tiroler Bauern aus den Freiheitskampfen.
+- Oel auf Holz, 35x25 cm.Bez. Hans Best.
+- 674 Oberbayrischer Jagdgehilfe mit Federhut. Oel auf Pappe, 26X19 cm.Bez. Hans Best.
+- 675 Bauersfrau mit Kopftuch. Gegenstick zum Vorigen. Oel auf Pappe, 26x19 cm.Bez. Hans Best.
+
+## K.Blatter-Uhlig,Berlin
+
+- 6762 Zechende Ritter in einer hollandischen Stube.Oel auf
+- Holz, 35x27 cm. Bez. K. Blatter-Uhlig.
+
+## A.de Bouche, Minchen
+
+- 677 EntbloBte Odaliske mit reichem Kopf und Halsschmuck in ihrem Gemach.Oel auf Leinwand, 70x59 cm. Bez. A.de Bouche.
+- 678 Odaliske in ihrem Gemach auf Kissen ruhend. Oel auf Leinwand, 75x106 cm.Bez. A. de Bouche.
+
+## Anton Braith,Biberach
+
+- 679 2 Zugochsen bringen 2 mit Fassern beladene Wagen zu Tal. Aquarell, 14x8,5 cm. Bez. A. Braith 17.Mai 97.
+- 681 Maulesel mit Fassern beladen beim Abstieg im Gebirge.
+- 680 Braun und weib gefleckte Kuh liegt vor einem Wassertimpel im Hochgebirge. Weiter rickwarts 2 liegende Kuihe. Aquarell,10x16cm. Bez.A.Braith 1908.
+- Aquarell, 12,5x9 cm. Bez. A. Braith 1909.
+
+## Reinhold Braun,Stuttgart
+
+- 682 Der kleine Reiter. Kleiner Knabe mit roter Weste reitet auf einem eingeschirrten Schimmel durch die Stalltire. Links eine Kutsche. Rechts ein Schubkarren. Pappe,
+- 12,5x12 cm.Bez. Braun.
+- Schimmel im Stall. Aquarell, 26X32 cm. Bez. R. Braun.
+- 683
+
+## Albert Heinrich Brendel, Berlin .
+
+- 684 Aufbruch zur Weide. Ein wallonischer Schafer offnet das Tor eines Schafstalls, aus dem die Schafe ungestim herausdrangen. Oel auf Leinwand, 59x47 cm.
+- Bez.Brendel 74.
+
+Abbildung Tafel I.
+
+## Colestin Brigner,Berlin .
+
+- 685 Hugellandschaft mit Windmihle. Links vor der Muhle zieht ein Hohlweg, auf dem 2 Bauern gehen, voriber. Sommerliche Stimmung bei heranziehendem Gewitter.
+- Oel auf Leinwand, 23x31 cm.Bez. B. Brigner.
+## H.Bittgen,Kirchheim .
+
+- 686 Am Thurner See.Auf dem diesseitigen bewaldeten Ufer steht ein schloBartiges Gebaude. Jenseits des Oel auf Leinwand, Ufers die Hochgebirgskette. 27x41 cm.Bez. Lac de Thune, 14 aout du matin.
+- 687 Partie aus Nordtirol. Bauernhaus, daneben dreitirmige Kapelle an einem See. Am jenseitigen Ufer das steil aufsteigende Hochgebirge. Oel auf Leinwand,34x25 cm.
+- 8Verschneiter Tannenwald. Durch eine Lichtung ist eine bewaldete Anhohe mit SchloBruine sichtbar.Oel auf
+- 688 Holz,65x52 cm. Bez. Buittgen 1844.
+
+## R.H. Burnitz, Frankfurt a. M..
+
+- 689 Perspektivische Ansicht der Kapelle vom kgl. groben
+- Orden des goldenen Adlers in Ludwigsburg. Aquarell, 72X54cm.
+
+## Wilhelm v. Busch .
+
+- 690 Sautreiber. Bauer mit roter Aermelweste, welcher ein Schwein vor sich her treibt. Leinwand auf Holz,
+- 14x12 cm.Bez.B.
+
+## A.Chelius, Minchen.
+
+- 691 Jager hinter einem HolzstoB auf dem Anstand im Winterwald. Oel auf Pappe, 12x21 cm. Bez. A. Chelius.
+- 692 Vor der Strecke. Ein Jager mit seinen jungen Treibern betrachten das im Schnee liegende tote Reh.Oel auf Pappe,12x21 cm. Bez. A. Chelius.
+- 693 Kuhe auf der Weide vor einem Gehoft, an das sich ein mit einer Mauer umgebener parkahnlicher Garten anschlieBt.Oel auf Leinwand,65x90 cm. Bez.A.Chelius,
+- Minchen.
+- 694 Treibjagd im Winter.Oel auf Pappe,13x21 cm. Bez. A. Chelius, Munchen 1921.
+
+## L. Correggio, Minchen.
+
+- Bez. L. Correggio.
+- 695 Waldniederung in der bayer.Hochebene.Pappe,32x43cm.
+## Robert Curry, Minchen.
+
+- 696 Sonniger Wintertag.
+- 697 Stiller Waldsee im Winter mit Ausblick auf das Hoch-
+- Weites Gebirgstal, durch das ein stiller Bach flieBt. Im Hintergrund zu FuBen des Gebirges, das von der Sonne beschienen ist, liegt ein Dorf. Oel auf Leinwand, 60x73 cm. Bez.R. Curry.
+- gebirge. Oel auf Leinwand, 58x73 cm. Bez.R. Curry.
+
+## Hans Dahl
+
+- 698 Heimkehr von der Feldarbeit. Nordisches Bauernmadchen mit rotem Mieder auf dem Heimweg durch die Wiesen. Im Hintergrund ein Fjord. Oel auf Holz, 44x30 cm. Bez.Hans Dahl, Berlin.
+
+geb. 1849 in Hardanger.
+
+## Ch. Davois.
+
+- 699 Kasperltheater.In der Ecke einer Dachkammer fihren Kinder ein Puppentheater vor. Links davor Kinder und Erwachsene als Zuschauer. Oel auf Leinwand, 62x78 cm.Bez. Ch.Davois.
+
+## G.Dehn,Minchen,.
+
+- 700 Partie aus Schwab. Hall. Oel auf Pappe, 42x54 cm Bez.G.Dehn.
+
+## C.F. Deiker, Disseldorf .
+
+- 701J Jagdhund mit erlegtem Fasan.Rauchmalerei auf ovaler
+- Platte,25x16 cm.Bez.C.F. Deiker.
+
+## Deutsch.Anf. 18. Jahrh.
+
+- 702 Der hl. Josef. Oel auf Leinwand, 27x20 cm.
+- 703
+- Maria mit gefalteten Handen. Oel auf Leinwand,27x20 cm.
+
+## Hans Diez, Minchen.
+
+- Einsamer Waldteich bei herbstlicher Stimmung.Im Vordergrunde ein badendes Madchen. Oel auf Holz,
+- 704 50x37 cm.Bez. Hans Diez.
+
+## Ludwig Dill, Karlsruhe.
+
+- Oel auf Pappe. Bez. L. Dill.
+- 705 Segelboote auf hoher See.
+- 706 Fischerboote in der Lagune. Oel auf Pappe. Bez. L. Dill.
+
+## Albin Egger-Lienz, Wien.
+
+- 707 Angreifende Kaiserjager im Granatfeuer. Aquarell,
+- 46x70 cm.Bez.Egger-Lienz.
+## Hugo Engl, Silz in Oesterreich.
+
+- 708 Muttergluck. Inneres einer Tiroler Bauernstube, in der eine junge Mutter ihr Jingstes, das eben erwacht ist, freudig emporhalt. Daneben das groBere Schwesterchen, das auf der Kante des Bettchens sitzt. Oel auf Holz, 40x32,5 cm. Bez.H. Engl.
+
+## S.F.
+
+- 709 Das Schelztor in Esslingen a. N. Rechts und links und Buschwerk herauswuchern.
+- vom Tor die Stadtmauer mit Graben, aus dem Baume Hinter der Mauer die Stadt, weiter rickwarts die Stadtkirche. Sommerlicher Himmel.Oelauf Leinwand,53x44 cm. Bez.S.F.
+
+## Otto Fedder, Minchen.
+
+- 710 Der Sonderling.Alter Mann mit Laute hinter der Mauer eines alten Stadtwinkels. Oel auf Pappe, 22x12 cm.
+
+## N. Felbinger.
+
+- 711 Madchenbildnis. Oel auf Pappe,56x40 cm.
+
+## Franzosischer Meister. (18. Jahrh.)
+
+- 712 Bubende Magdalena. Oel auf Leinwand, 31x26 cm.
+
+## F.Freund, Minchen.
+
+- Schafe auf der Weide an einem Wehr.Oel auf Lein-
+- 713 wand, 56x49 cm.Bez.F. Freund.
+
+## Josef Futterer, Minchen.
+
+- 714 Alter Jager mit Vollbart, der sich auf den Tisch stitzt und die Pfeife raucht. Neben ihm ein MaBkrug. Oel
+- auf Leinwand, 54x50 cm.Bez. Josef Futterer.
+
+## Max Gaisser, Minchen
+
+- 715 In einer hollandischen Stube ist eine Frau,die am Fenster steht,mit Stricken beschaftigt. Oel auf Pappe, 57x46 cm.Bez.M. Gaisser.
+
+## Caspar Augustin Geiger, Minchen.
+
+- 716 Alter Faun mit Jungem auf einem Baumstamm sitzend. Oel auf Holz, 35x24 cm. Bez. Casp. Aug. Geiger, Minchen.
+## Carl Goser,Biberach 1803-1858.
+
+- 717 Abschiedsszene aus der Auswanderung der evang. Zillertaleram31.8.1837. Historisches, figurenreiches Gemalde. Lt. Thieme-Becker das Hauptwerk des Meisters. Oel auf Leinwand, 90x126 cm. Bez. K.F. Goser, 1839.
+
+## A. D. Golz, Minchen.
+
+- 718 Arabischer Priester, der sein Gebet auf einem Teppich verrichtet.Oel auf Holz, 11x10 cm. Bez.A.D. Golz 87.
+
+## Th. Gratz, Minchen.
+
+- 719 Vollansicht des Staffelsees bei Murnau mit dem hohen Peibenberg im Hintergrund. Im Vordergrund Bauern Oel auf Leinwand, 68x100 cm.
+- 720
+- bei der Heuernte. Bez.Th.Gratz.
+- Tanzerin.
+- 721
+
+## Grah, Leipzig.
+
+- Sportsdame. 2 Aquarelle,29x21 cm,in Rokokorahmen. Bez.Grah, Leipzig.
+
+## O. Grau, Minchen.
+
+- 722 Vorgebirgslandschaft mit Wassertimpel im Vordergrund. Oel auf Pappe, 14x22 cm. Bez. Grau.
+
+## Eduard von Griitzner, Minchen.
+
+- 723 Kanzler aus der Zeit des GroBen Kurfirsten. Fein durchgefihrte Bleistiftzeichnung.29x22 cm.Bez.E.Gritzner.
+
+## Franz Guillery, Minchen.
+
+- 724 NackteTanzerin mit Papagei. Oelauf Leinwand,55x35 cm.
+
+## C.v.Haberlin, Stuttgart .
+
+- 725 Orientalisches Cafe.Getonte Bleistiftzeichnung,24x32cm.
+- NachlaBstempel.
+
+## F.Halberg-Krauf, Minchen.
+
+- Oel auf Pappe, 726 Waldrand mit Sumpf. Herbststimmung. 33X41 cm.Bez.F.Halberg-KrauB.
+- 727 Oberbayrische Gebirgslandschaft. Im Vordergrund ein Gebirgsbach, der durch das mit verkimmertem GeDahinter das stripp bewachsene Vorgelande flieBt.I Hochgebirge bei aufsteigendem Nebel. Oel auf Leinwand, 52x48 cm.Bez.F.Halberg-KrauB.
+- 728 Hohlweg im bayerischen Alpenvorland mit Ausblick auf einen See. Herbststimmung. Auf dem Weg ein Botenwagen, der talabwarts fahrt. Oel auf Pappe,46x70 cm. Bez. F.Halberg-KrauB.
+- 729 Viehweide im bayerischen Alpenvorland. Rechts im Vordergrund Steingeroll mit Baumgruppen, die sich in der Ferne verlaufen. Links feuchtes Wiesengelande mit weidendem Vieh. Grauer Regenhimmel. Oel auf Leinwand, 48x70 cm.Bez. F.Halberg-KrauB.
+- 730 Sommertag. Waldpartie im Sonnenschein. Links machtiger Eichbaum und groBe gefallte Baumstamme. Rechts in einer Lichtung eine Bauernfrau mit 2 Kindern. Oel auf Leinwand, 75x100 cm.Bez. F. Halberg-KrauB.
+- 731 Winterwald. Oel auf Pappe, 29x23 cm. Bez. F.Hal-
+- berg-KrauB.
+- 7321 Partie aus der Ramsau. Bez. F.Halberg-KrauB.
+- Oel auf Pappe,24x36 cm.
+
+## D.Harders.
+
+- 733 Oel auf Leinwand,
+- Sonnenuntergang auf dem Meer. 69x134 cm.Bez.D.Harders.
+
+## Ludwig Hartmann,Minchen *.
+
+- 7341 Landschaft bei Pocking. Oel auf Pappe, 14x22 cm.
+- Nachlabstempel.
+
+## M.Haubtmann, Munchen.
+
+- 735 Aus den Dolomiten. Oel auf Pappe,20x13 cm. Bez. M.Haubtmann.
+
+## Robert von Haug, Stuttgart .
+
+- 736 Kaiser Wilhelm I. in der Schlacht bei Sedan. Der Kaiser verteilt an die Krieger das Eiserne Kreuz. Aquarell, 20x24 cm.Bez.R.Haug 1912.
+- 737 Furstenpaar unter dem Volk.Zeitbild aus den Frei-
+- heitskriegen. Aquarell, 20x24 cm. Bez. R.Haug13.
+- 738 Die SchloBwache in Ludwigsburg um 1840. Aquarell,
+- 15x23 cm. Bez. Haug.
+
+## Ch.Haug, Munchen.
+
+- 739 Ein alter Forster, der im Mondschein iber ein Schneefeld schreitet.Oelauf Pappe,25x15 cm. Bez.Ch.Haug
+- 742
+- 743
+
+## Robert Heck,Stuttgart 1831-1889.
+
+- 740 Forsthaus am See. Rechts von dem Haus ein groBer steinerner Torbogen. Der mit dem Boot heimkehrende Jager wird von Frau und Kind empfangen. Pappe.
+- 37x47 cm.Bez.R.Heck.
+
+## E.Heilemann, Minchen.
+
+- 741  Schlechte Unterhaltung. Herr und Dame der Gesellschaft
+- in einem Weinlokal. Wahrend er die Zeitung liest, spaht sie nach Unterhaltung aus. Aquarell, 30x23 cm. Bez.E.Heilemann.
+
+## E.Hell, Munchen.
+
+- Waldlandschaft.Oel auf Pappe,19x15 cm. Bez.E.Hell.
+- Einsames Bauernhaus am Bergabhang. Im Vordergrund ein Weiher. Oel auf Pappe, 11x15 cm. Bez.E.Hell.
+- Bauernhaus am Waldrand. Oel auf Pappe, 11x15 cm.
+- 744 Bez. E.Hell.
+- 745 Wirtshaus unter Baumen. Oel auf Pappe,11x15 cm.
+- Bez. E.Hell.
+
+## Hermann Hendrich, Minchen.
+
+- 746 Darstellung des Gralstempels aus der Wagner'schen Oper Parsifal". Oel auf Leinwand, 154x110 cm. Bez. H.Hendrich.
+
+## R.Hense.
+
+- 747 Betender Kapuziner.Oel auf Kupfer, 13x12 cm.
+
+## E.Hettich, Minchen .
+
+- 748 Partie aus der Ramsau. Enges Gebirgstal mit GieBbach.
+- Am hinteren TalschluB das Hochgebirge. Oel auf Leinwand,60x80 cm.Bez.E.Hettich.
+
+## H.E.Heyn,Leipzig 18411894.
+
+- 749 Thiringer Waldlandschaft mit Eichenriesen. Im Vordergrund ein Wassertimpel, an dem ein Weg vorbeifuihrt. Im Hintergrund offenes Gebirgstal mit mehreren Dorfern. Oel auf Leinwand, 75x93 cm. Bez.E.Heyn.
+
+## J. Hohmann, Minchen.
+
+- 750A Ausritt. Serenissimus mit Gefolge im SchloBpark reitend.Oel auf Holz, 16x20 cm. Bez.P.Hohmann.
+- 751 Im SchloBpark. Serenissimus mit grinseidenem Rock, auf einem Schimmel reitend.Daneben ein Soldat der Leibgarde zu FuB. Oel auf Holz, 12x17 cm. Bez.P. Hohmann.
+- 751a Am Parktor. Furst und Furstin,die eben dem Gefahrt entstiegen sind, begeben sich durch das Parktor zum SchloB. Rechts daneben ein Hofling, der die Furstlichkeiten ehrfurchtsvoll begriBt. Oel auf Leinwand, 12x16 cm.Bez. P.Hohmann.
+- 752 Aufbruch zur Jagd.2 Jager in Rokokotracht mit ihrer Hundemeute vor dem Jagdschlob. Oel auf Holz, 15X20 cm.Bez.P.Hohmann.
+- 753 Begegnung. Rotbefrackter Rokokoreiter unterhalt sich mit einem Monch und einem Madchen mit Ziegen. Oel auf Holz, 12x16 cm.Bez.P.Hohmann.
+- 754 Ausritt. 2 Rokokoreiter im Trab durch den Park reitend.
+- Oel auf Holz,16x21 cm.Bez. P.Hohmann.
+
+## E.Horlacher, Stuttgart.
+
+- 755 und Schneeglockchen in einer Vase. wand, 71x51 cm.Bez. E. Horlacher.
+- Fruhlingsboten. StrauB von Palmkatzchen, Seidelbast Oel auf Lein-
+
+## E.Hunten,Disseldorf 1827-1888.
+
+- 7561 Ein flotter Sprung. 2 rotbefrackte Reiter beim Sprung Oel auf Leinwand, 40x31 cm.
+- iber ein Hindernis. Bez. E.Hunten.
+
+## Hans G. Jentzsch, Minchen.
+
+- 757 Christmesse. Marktplatz eines alten Stadtchens zur Winterszeit. Langs des freien Platzes stehen Verkaufsbuden,vor denen die neugierigen Kinder stehen. Im Vordergrund links ein alter Mann, der Obstfigurchen feilbietet. Winterliche Abendstimmung. Oel auf Leinwand. 76x56 cm. Bez. Hans G. Jentzsch.
+
+## 1. Israel, Minchen.
+
+- 758 Turkische Familienszene.
+- Ein kleines Madchen weint, weil ihr der Bruder die Puppe, die am Boden liegt, zerbrochen hat. Die Mutter steht dabei und trostet die Kleine, wahrend eine auf einer Ottomane liegende Turkin der Szene zuschaut. Oel auf Leinwand, 42X58 cm.Bez. I. Israel.
+## Italienisch, 17. Jahrh.
+
+- 759 2 italienische Bauern halten mit einem Pferd, dem zu beiden Seiten Fasser umgehangt sind. Der eine unterhalt sich mit 2 Burgern der links sichtbaren Stadt, wahrend der andere sich hinter seinem Pferd versteckend, erschreckt auf die Skelette und Gerippe schaut, die er am Abhang eines Ufers entdeckt hat. Interessante italienische Arbeit auf Marmor. 22x36 cm.
+
+## Italienisch, Anf. 18. Jahrh.
+
+- 759a Pieta. Madonna mit dem Leichnam Christi und dienenden Engeln. Oel auf Leinwand,100x95 cm.
+
+## Italienisch, Ende 17. Jahrh.
+
+- 760 Perseus befreit die Andromeda.F Figurenreiches Bild. Oel auf Leinwand, 80x103 cm.
+- 761 Enthauptung der hl.Katharina. Dekoratives, figurenreiches Bild in alter holzgeschnitzter Rahme. Oel auf
+- Leinwand,85x107 cm.
+
+## Italienisch,Anf.18. Jahrh.
+
+- wand, 74x68 cm.
+- 762 Madonna mit Krone und Palmzweig. Oel auf Lein-
+
+## J. Jungbluth, Dusseldorf.
+
+- 763 Winterabend. Einsames Gehoft am Ufer eines zugefrorenen Flusses. Auf dem FluB verschiedene Figuren. Winterlicher Abendhimmel mit aufgehendem Mond. Oel auf Leinwand, 93x75 cm. Bez. J. Jungbluth.
+
+## Friedr.von Keller, Stuttgart .
+
+- 764 Wohl bekomms! Trinker, der das gefillte Weinglas freudestrahlend in die Hohe halt. Auf dem Tisch die halbgefillte Bowle, Aepfel und FliederstrauB.Oel
+- auf Leinwand, 70x42 cm.Bez. F. Keller.
+- 765Der GenieBer.S SpieBbirger, der vor dem gedeckten Tisch sitzt und schmunzelnd auf den servierten Gansbraten schaut. Oel auf Leinwand, 70x42 cm. Bez. F.Keller.
+
+## Paul Wilhelm Keller-Reutlingen .
+
+- 766 Schafherde im Walde. Von der Sonne hell beschienener Waldrand mit Schafherde.Oel auf Leinwand,55x70cm.
+- Bez. P. W.Keller-Reutlingen.
+## Th.Kleehaas, Minchen.
+
+- 767 Junges Bauernmadchen mit rotem Brusttuch. Oel auf Leinwand, 32x24 cm. Bez. Th.Kleehaas, Minchen.
+
+## R.Knobloch, Minchen.
+
+- 768 Stiller Wiesenbach, der von Birken eingesaumt ist.
+- Oel auf Pappe, 60x50 cm.Bez.R.Knobloch.
+
+## J.Kornbeck, Nirtingen
+
+- 769 Heuernte in einem Waldwinkel mit vielen Figuren. Oel auf Pappe, 24x40 cm. Bez. J. Kornbeck.
+- 770
+- Heuernte. Oel auf Pappe,24x40 cm. Bez. J. Kornbeck.
+
+## Karl Kricheldorf, Minchen.
+
+- 771 Madchen am Fenster in einer Bauernstube. In der Hand halt sie einen Liebesbrief und schaut vertraumt ins Freie. Oel auf Leinwand,60x44 cm.Bez.Karl Kricheldorf.
+
+## Johann Kurzinger,Minchen,1735-1794.
+
+- 772 Tiroler Bauer, der am Tisch sitzt und Zither spielt. Daneben sein Sohn,der mit den Handen den Takt angibt. Auf dem Tisch ein Steinkrug, Brot und Messer. Oel auf Leinwand, 30x25 cm. Bez.an der Tischkante J.Kurzinger.
+
+## Karl Kistner, Minchen.
+
+- 773 Nachwinterliche Bodenseelandschaft, am Ufer hohe
+- Pappeln. Oel auf Leinwand, 92x120 cm.Bez. K.Kistner.
+
+## J.Kuhlmann, Minchen.
+
+- 774 Raucher. Oel auf Leinwand, 47x42 cm. Bez.Kuhlmann.
+
+## Otto Leu, Frankfurt a. Main .
+
+- Meeresstrand mit Segelbooten. Aquarell, 27x60 cm.
+- 775 Bez. Otto Leu.
+- 776
+- Sandiges Ufer mit verkimmerten Baumgruppen. Aquarell, 26x50 cm.Bez. Otto Leu.
+- 777 Ruhige See mit Segelbooten, Aquarell, 31x50 cm.
+- Bez. Otto Leu.
+- 778 Einsamer Meeresstrand.
+- Getonte Bleistiftzeichnung. 32X47 cm. Bez. Otto Leu.
+- 779 Segelboot am Meeresstrand.
+- Aquarell, 30x49 cm. Bez. Otto Leu.
+- 780 Fischerboote am Strand. Aquarell, 53x42 cm. Bez.
+- Otto Leu Ahlbeck.
+- 781 Fischerboote und Dampfer auf hoher See. Aquarell,
+- 46x40 cm. Bez.Otto Leu.
+- 782 Staubecken mit Bricke. Aquarell, 27x50 cm. Bez. Otto Leu.
+
+## Curt Liebich, Gutach im Schwarzwald.
+
+- 783 Schwarzwaldidyll. Bergabhang mit weidenden Ziegen. Im Vordergrund neben einem Brunnen sitzt ein Bauernmadchen im Gras und macht ihre Schulaufgaben. Oel auf Leinwand, 32x40 cm. Bez. Curt Liebich.
+
+## Art des Claude Lorrain.
+
+- 784 Heroische Landschaft. In der Mitte machtiger alter Eichbaum. Links vor einem burgartigen Gebaude ein Weg mit Reiter und FuBganger. Holz 41x34 cm.
+
+## E. Louyot, Minchen.
+
+- 785 2 kleine hollandische Fischermadchen an der Kiste. Oel auf Pappe 26x50 cm.Bez. E. Louyot.
+
+## C.H.M.
+
+- 786 Kuh im Stall. Oel auf Leinwand, 25x28 cm.Bez.
+
+## E.M.
+
+- 787 Sumpfige Vorgebirgslandschaft. Ein Huiterbub treibt 3 Kuhe durch einen Bach. Am jenseitigen Ufer ein Bauernhaus unter hohen Baumen. Im Hintergrund hinter sonnenbeleuchteten Feldern das Gebirge. Oel auf Leinwand, 27x37 cm.Bez. E.M.
+
+## Christian Mali, Biberach *.
+
+- 788 Ansicht einer Hauserpartie an der Pliensau in Esslingen. Aquarell 16x21 cm.Bez. Chr.Mali.
+- 789 Partie aus Ufing in Oberbayern. Aquarell, 25x25 cm.
+- Bez. Chr. Mali,Ufing 59.
+
+## Luise Henriette v. Martens, Stuttgart.
+
+- 790 Ein junges Madchen beugt sich iber einen Felsblock und laBt Feldblumen, von denen sie einen StrauB zur Rechten in ihrem Strohhut gesammelt hat, in den Bach fallen. Oel auf Leinwand, 82x65 cm.
+- C.H.M.83.
+## Fritz Martin,Minchen.
+
+- 791 Liebesglick. Liebespaar, das eng umschlungen auf der Bank in einem vornehmen Salon sitzt. Links daneben auf einem Hocker liegt eine Laute. Oel auf Leinwand, 70x90 cm.Bez. Fritz Martin.
+- 792 Die Erklarung. Kavalier im Sonntagsstaat besucht seine Auserwahlte in ihrem Heim und richtet die entscheidende Frage an sie. Das Madchen blickt verlegen zu Boden. Oel auf Leinwand, 70x90 cm. Bez. Fritz Martin.
+
+## E.Mercker, Minchen.
+
+- 793 Der Hamburger Hafen mit groBen Dampfern und Segelbooten. Im Hintergrund die Werftanlagen. Bewolkter dunstiger Himmel. Oel auf Pappe, 62x82 cm. Bez. E.Mercker, Minchen.
+- Starker Wellengang bei herannahendem Gewitter.Oelauf Leinwand,65x85 cm.
+- 794 Segelboote auf hoher See. Bez.E.Mercker.
+- 795 Seestick.Oel auf Leinwand, 88x65 cm. Bez.E.Mercker.
+
+## Kunz Meyer-Waldeck.
+
+- 796 Fischfang in Sardinien. Sardinische Fischer in einem
+- Fischerbootbeim Einziehen der Netze. Oel auf Leinwand, 59x89 cm.Bez. Kunz Meyer-Waldeck.
+
+## Martin Meyer,Muinchen *
+
+- 797 Orientalische Landschaft bei Sonnenuntergang. Aquarell,
+- 17x29 cm.Bez. Martin Meyer 1866.
+
+## Arnold Moller, Minchen
+
+- 798 2 Ochsen am Pflug in herbstlicher Landschaft. Oel auf
+- Leinwand, 50x68 cm. Bez. Arnold Moller.
+
+## Willi Moralt, Minchen
+
+- 799 Ein guter Tropfen. Vor der idyllischen Einsiedelei, die in eine Felsennische eingebaut und von Buschwerk umgeben ist, sitzt der einsame Monch in brauner Kutte und betrachtet wohlgefallig das mit Wein gefillte Glas in seiner Hand. Oel auf Holz,40x25 cm.1 Bez. Willi Moralt, Munchen.
+
+Abbildung Tafel II.
+- 800
+- 801
+
+## E.Morgenstern, Minchen
+
+- Landschaft mit Buschwerk und Baumgruppen. Oel auf Pappe, 11x20 cm. Bez. E. Morgenstern.
+
+## G. Mormili,Neapel
+
+- Neapolitanischer Fischerknabe mit Laute. Oel auf Leinwand, 72x50 cm.Bez. G.Mormili, Napoli.
+
+## Moritz Miller,Minchen
+
+- 802 Fluichtendes Reh, das von einem Dachshund gejagt wird, iberquert eine Waldlichtung. Oel auf Holz, 30x35 cm. Bez. M. Muiller sr., Minchen.
+
+## Miller-Baumgarten
+
+- Oel auf Holz,22x31 cm. Bez.Muller-Baumgarten.
+- 803 Seelandschaft. Am Strand ein Boot mit rastenden Fischern.
+
+## L.Muiller-Cornelius, Minchen
+
+- 804 Viehmarkt in einem oberbayerischen Gebirgstal mit vielen Figuren. Links neben der Marktszene Wallfahrtskapelle, davor betendes Bauernvolk. Oel auf Pappe,21x30 cm. Bez. L. Muiller-Cornelius.
+
+## V.N.
+
+- 805 Italienisches Madchen mit buntem Facher. Oel auf Lein-
+- wand, 31x20 cm.Bez.V.N.
+
+## Niederlander Schule,18. Jahrhundert
+
+- 806 Landschaft mit Tragtieren und Reitern. Oel auf Lein-
+- wand,34x26cm.
+- 807 Bauernhaus,vor dem eine zechende und rauchende am jenseitigen Ufer eine Baumreihe, hinter der ein
+- Gesellschaft sizt. Vor dem Haus flieBt ein FluB vorbei, Dorf versteckt liegt.Oel auf Holz, 26x35 cm.
+- Schlittschuhlaufer auf einer Eisflache. Rechts vor einem turmahnlichen Gebaude steht ein Schlitten,der eben mit einem Schimmel bespannt wird. Rechts im Hintergrund verschneites Dorf mit
+- 808 Eisvergnigen. Windmuhle.Oel auf Holz,34x26 cm.
+- 809 Kichenidyll. Im Vordergrund eine Frau, die ein Huhn rupft.Auf einem Tisch ein GefaB mit Gemise und Fleisch.Rechts daneben 2 Wildvogel. Vor dem Tisch am Boden Messinggeschirr und Gemise.Im Hintergrund eine Frau vor dem brennenden Herdfeuer. Oel auf Holz, 35x43 cm.
+- 810 Hollandische Wassermihle. Auf dem Kanal fahrt ein mit 3 Personen besetztes Boot. Im Hintergrund fuihrt ein Steg iber den Kanal zum benachbarten Dorf. Oel auf Holz, 22x30 cm.
+- 811 Inneres einer hollandischen Bauernstube mit vielem umherliegendem Gerat und Korben. Vor einem FaB steht eine Bauernfrau und reinigt das Zinngeschirr. Oel auf Leinwand,50x65 cm.
+
+## R.O.
+
+- Weinernte am Rhein. Ein Wagen, der mit einem groben FaB beladen ist, halt vor einem Weinberg. Hinter dem Weinberg Gebirge mit Burgruine. Links Ausblick ins Rheintal. Oel auf Holz, 24x32 cm. Bez.
+- 812 R.O.82.
+- Alexander Frhr.v.Otterstedt,Stuttgart,18481910
+- 813 2 klassische Frauengestalten in heroischer Landschaft.
+- Aquarell, 35x25 cm.Bez.C.O.
+
+## Pieter Francis Peters, Stuttgart
+
+- 814 Partie an der Riviera. Oel auf Leinwand,16x33 cm.
+- Bez.P.F.Peters.
+
+## H.Pfizenmayer,Stuttgart
+
+- Motiv aus Bebenhausen. Aquarell, 46x35 cm, Bez.
+
+## A. J.von P.
+
+- 815a Ueberrascht. Ein Abt geht mit einem Monch durch die hohen Kornfelder spazieren. Der Monch macht den Abt auf den vor den beiden auf dem Weg liegenden Hut und Schirm aufmerksam, das von einem Liebespaar, das eben im hohen Kornfeld verschwindet,zurickgelassen wurde. Im Vordergrund ein weiber Pudel, der die zurickgelassenen Gegenstande anbelt. Oel auf Holz,24x35 cm.Bez. A. J.v.P.
+
+## Franz Quaglio, Minchen
+
+- 816 Aus der Schlierseer Gegend. Gehoft, das am Bergabhang unter Baumen und Buschwerk versteckt liegt. Im Vordergrund 2 Pferde mit Fullen auf der Weide. Oel auf Pappe,40x55 cm.Bez.Franz Quaglio,Fischhausen.
+
+## Louis Reinhardt, Minchen
+
+- 817 Schafe und Huhner im Freien. Oel auf Holz, 7,5x10 cm. Bez. L.Reinhardt.
+- 815
+## Albert Reinwald, Stuttgart
+
+- 818 Sitzende Katze. Oel auf Pappe,15x21 cm.E Bez.
+- A.Reinwald.
+- Kaninchenfamilie. Oel auf Pappe, 35x50 cm.Bez.
+- 819 A.Reinwald.
+- 820 Flotenspieler. Oel auf Leinwand, 43x35 cm.
+
+## Eugen Richter, Minchen
+
+- 821 Gebirgslandschaft bei Partenkirchen. Oel auf Pappe, 16x11 cm.Bez. Eugen Richter.
+
+## A.Roseler, Minchen
+
+- Bez. A.Roseler.
+- 822 Bauer mit grinsender Miene, der eine kupferne Weinkanne in den Handen halt. Oel auf Leinwand,41x36 cm.
+- 823 Bauer mit roter Weste, der sich die Pfeife anzindet.
+- Oel auf Leinwand, 42x37 cm. Bez. A. Roseler.
+- 824
+- Lustige Gesellschaft. Dachauer Bauern sitzen im Dorfwirtshaus um den runden Tisch und lauschen vergnigt dem Guitarrespiel eines ihrer Kollegen. Oel auf Leinwand, 101x81 cm. Bez. A. Roseler.
+- 825 Bauernkopf.Oelauf Leinwand,41x36 cm.Bez.A.RoBler.
+
+## Josef Rosl, Minchen.
+
+- 826 Die gelehrige Schilerin. Alter Gesangslehrer mit Laute erteilt einem Madchen,das ein Notenbuch in den Handen halt, Unterricht. Mittelalterliches Kostimbild. Oel auf Leinwand,65x80 cm. Bez. Jos. Rosl, Muinchen 1878.
+
+## J.Rollin.
+
+- 827 Hafen eines nordischen Fischerdorfs. Am Ufer Fischerboote mit Fischern, die ihre Netze zum Trocknen ausgehangt haben. Rechts das Dorf, dahinter hohe Berge. Oel auf Leinwand, 68x105 cm. Bez. J. Rollin.
+
+## Joh.Heinr. Roos,Frankfurt a.M.1631-1685.
+
+- 828 Weidendes Vieh mit Hirte vor einer Burgruine. Oel auf Leinwand,36x49 cm.Bez.
+- 829 Ruhendes Vieh unter Baumen. Daneben der Hirte. Oel auf Leinwand, 36x49 cm.
+- 837
+
+## Max Rofmann, Minchen.
+
+- 830 Alte Bauernfrau am Spinnrad. Oel auf Holz, 26x18 cm.
+- Bez. M. RoBmann.
+
+## Franz Roubaud, Minchen.
+
+- 831 Tscherkessen beim Reiterspiel. Ein alter Tscherkesse in gelbem Gewand reitet mit einem Hammel in rasendem Tempo davon, wahrend die ibrigen versuchen ihn einzuholen und ihm den Hammel zu entreiben. Im Hintergrund eine maurische Festung. Wolkenloser Himmel. Oel auf Leinwand,59x81 cm.Bez.F.Roubaud.
+
+## F.Ruben.
+
+- 832 Ueberfahrt. Gartnermadchen setzt sich in einem Boot uber den See. Im Hintergrund eine Kirche. Oel auf Pappe, 62x42 cm.Bez.F.Ruben.
+
+## Giuseppe de Rubelli, Rom.
+
+- 833 Die VerstoBung der Hagar. Aquarell, 16x22 cm. Bez.
+- unter der Rahme.
+
+## A. Sachs, Minchen.
+
+- 834 Oel auf
+- Schlittenpost im bayerischen Hochgebirge. Leinwand, 46x62 cm. Bez. A. Sachs, Minchen.
+
+## Walter Schachinger, Minchen.
+
+- 835 Stilleben. Fisch und Goldpokal auf einem Tisch. Oel
+- auf Holz, 44x73 cm. Bez. Walter Schachinger.
+
+## Art des Godfried Schalcken.
+
+- 836 Bei der Wahrsagerin. Eine vornehme Dame reicht der alten Wahrsagerin die flache Hand, um sie deuten zu lassen. Daneben ein kleiner Knabe, der der Szene zuschaut. Die Alte halt in der einen Hand eine Kerze, deren Schein die Gesichter beleuchtet. Oel auf Leinwand, 52x43 cm.
+
+## C.Schaller, Weimar.
+
+- Schafe mit Schafer auf der Weide bei heranziehendem Gewitter. Oel auf Pappe,22x31 cm. Bez. C. Schaller, Weimar.
+
+## Viktor Schivert, Minchen.
+
+- 8381 Nach dem Bade.
+- Junges nacktes Madchen,das im Freien auf einem ausgebreiteten Tuch liegt. Oel auf Leinwand, 93x77 cm.Bez. V. Schivert, Munchen.
+## A.Schlegel, Munchen.
+
+- 839 Junges Madchen, das einen Korb mit Frichten in den
+- Armen halt. Links daneben vollbehangter Rebstock. Oel auf Leinwand, 97x80 cm. Bez.A. Schlegel, 1922.
+
+## Robert Schleich, Minchen.
+
+- 840 Heimkehrender Heuwagen. Getonte Federzeichnung,
+- 5,2x7,2 cm. Rob. Schleich.
+
+## Schneider-Seenus, Minchen.
+
+- 841 Badendes Mdchen vor dem See. Oel auf Holz, 6x16 cm. Bez. Schneider-Seenus.
+- 842 Badendes Madchen. Oel auf Holz, 16x12 cm.Bez.
+- Schneider-Seenus.
+
+## Matthias Schmid, Miinchen *
+
+- 842a Abschied in den Bergen.
+- Ein Tiroler Bauernbursch nimmt Abschied von seiner Geliebten, die traulich an seiner Seite lehnt. Links dahinter ein Bildstock und kleine Kapelle, weiter rickwarts auf halber Bergeshohe ein einsames Gebirgsdorf. Rechts das tiefe Tal, aus dem der Nebel emporsteigt. Oel auf Leinwand, 86x62 cm.Bez. Matthias Schmid.
+- 842b Brustbild eines Tiroler Bauernmadchens mit Kopfschmuck. Oel auf Holz, 17,5x14 cm. Bez. Matthias Schmid.
+
+## Wilhelm Schwarz, Stuttgart.
+
+- 843 Schneefeld mit Hochgebirge von der Sonne beschienen. Oel auf Leinwand, 57x80 cm. Bez. Wilhelm Schwarz.
+
+## Chr. Sell, Duisseldorf, 1831-1881.
+
+- 844 Ulanenpatrouille, die im Galopp die Strabe herabreitet, wird von franzosischen Infanterieposten beschossen. Episode aus dem Krieg 1870/71. Oel auf Leinwand,
+- 26x34 cm. Bez. Chr. Sell.
+
+## Viktor Sieger, Minchen-Wien.
+
+- 845 Morgenandacht. Inneres einer oberbayerischen Bauernstube mit Bettnische, deren Vorhang zurickgezogen ist. Vor einem Kruzifix kniet ein Madchen und verrichtetdie Morgenandacht. Oel auf Leinwand,
+- 52X64 cm.Bez. V. Sieger.
+## L.Sigwart, Minchen.
+
+- 846 Bewaldeter Bergabhang mit Ausblick in ein weites Tal,
+- von dem ein Weg herauffihrt. Oel auf Leinwand, 50x77 cm.Bez.L.Sigwart.
+- 847 Seelandschaft mit Gebirge bei Sonnenuntergang. Am linken Ufer ein einsames Kirchlein mit Park, der von einer Mauer umgeben ist. Oel auf Leinwand, 50x77 cm. Bez.L.Sigwart.
+
+## O.SpieB, Minchen.
+
+- 848 Leda mit dem Schwan. Oel auf Pappe, 47x37 cm.
+- Bez. SpieB.
+
+## A.Stademann, Munchen
+
+- Einsames, verschneites Gehoft unter groben Baumen am Waldrand.Im Vordergrund eine Eisflache, iber die eine Bricke fuihrt, mit Figuren. Winterlicher,bewolkter Himmel. Oelauf Leinwand,75x58cm.
+- 849 Wintertag. Bez. A. Stademann.
+- 850 Heimkehr.Waldaustritt mit Jager und Holzsammler die sich auf dem Heimweg befinden. Links ein Bauernhaus. Oel auf Pappe,35x49 cm. Bez.A. Stademann.
+
+## Sodoma zugeschrieben.
+
+- 851 Bildnis der Roxane, Gemahlin Alexanders des GroBen.
+- (Brustbild). Oel auf Holz, 27x21 cm.
+
+## Suddeutsch. Ende 18. Jahrh.
+
+- 8521 Maria mit dem Jesuskind iberreicht einer Heiligen den Rosenkranz. Oel auf Leinwand, 82x66 cm.
+- 853
+- Der hl. Josef mit dem Jesuskind. Oel auf Blech, 12x9 cm.
+- 854 Bildnis der Maria Magdalena mit gefalteten Handen. Oel auf Blech, 12x9 cm.
+
+## Hans Thoma, Karlsruhe.
+
+- 855 Hausergruppe mit hohen Giebeln am Dorfbach, iber den eine Bricke fuihrt. Rechts davon eine groBe Linde, unter der eine Figur sitzt. Aquarell, 9x12 cm. Monogramm H.Th.
+## Desire Thomassin,Minchen.
+
+- 856 Winterabend.Hollandischer Kanal, der mit Fischerhutten und Windmihlen umsaumt ist. Am Ufer des Kanals Fischerboote. Rechts im Vordergrund verschneiter Weg mit Figuren. Oel auf Holz,24x59 cm. Bez. Desire Thomassin.
+
+## Trost Napoli.
+
+- 857 Neapolitanisches Blumenmadchen.
+- Oel auf Leinwand, 40x26 cm. Bez. Trost Napoli.
+
+## Unbekannter Miniaturmaler.
+
+- 858 Darstellung des jungsten Gerichts nach Michelangelo. Aquarell, prachtvoll ausgefihrte Miniaturmalerei. Klosterarbeit. 39x31 cm.
+
+## Unbekannter Meister.
+
+- 859 Fuchsjagd. 3 rotbefrackte Reiter mit Hunden im Galopp.
+- Oel auf Leinwand, 50x70 cm.
+- 860 Rast.Rotbefrackter Reiter, sein Pferd trankend. Oel auf Leinwand, 50x70 cm.
+- Zuindender Blitz. Erntearbeiter, die von einem schweren Gewitter iberrascht werden, sehen wie in ihrem Dorf der Blitz einschlagt und zlindet. Oel auf Leinwand,
+- 861 40x55cm.
+- 862 Engel, Kopie nach der Sixtina in Dresden. Ovales
+- Pastell, 50x40 cm.
+- Ansicht des alten Schlosses in Stuttgart. Oel auf Pappe,
+- 863 28X22 cm.
+- Seelandschaft mit Fischern. Am linken Seeufer parkähnlicher Garten mit SchloBruine und Wasserfall.
+- 864 Oel auf Leinwand, 51x160 cm. Sureporte.
+- Italienische Eselstreiber reiten iber das Gebirge. Links unten ein Wiesental mit weidendem Vieh. Oel auf
+- 865 Leinwand, 54x79 cm.
+- 866 Italienisches Bergkloster am Meeresstrand. Aquarell, 38×49 cm.
+- 867 Ansicht des Gestits Scharnhausen. Aquarell, 28x40 cm.
+- Die Bebenhauser Jagd zur Zeit Herzog Karls. Aquarell,
+- 868 40×55cm.
+- 869 SchloB Monrepos bei Ludwigsburg. Aquarell, 25x37 cm.
+- 870 Damenbildnis. Oel auf Leinwand, 60x48 cm.
+- 871
+- Die hl. Maria mit den Rosen. Oel auf Holz, 22x15 cm.
+- 872 Fischerboote auf hoher See. Oel auf Pappe, 15x20 cm.
+- 873 Ansicht eines Schlosses auf bewaldeter Anhohe. Oel
+- auf Holz, 21x19 cm.
+- Bildnis einer jungen Dame aus der Biedermeierzeit.
+- 874 Oel auf Leinwand, 32x29 cm.
+- 875 Junge Dame mit Kavalier. Aquarell, 21x17 cm.
+
+## Unbekannter Rokokomaler.
+
+- 876 Bildnis einer jungen Dame mit reichem Kostim.Oel auf Leinwand,35x26 cm,holzgeschnitzte vergoldete Rahme.
+- 877 Bildnis einer Dame mit weinrotem,spitzenbesetztem Kostim.Oel auf Leinwand,35x26 cm,holzgeschnitzte vergoldete Rahme.
+
+## Unleserliche Signatur.
+
+- 878 Stallmeister mit 5 Pferden und einem Fillen beim Ausritt.
+- Oel auf Blech, 36x48 cm. Unleserliche Signatur.
+
+## W. Velten, Minchen.
+
+- 879 Pferdemarkt vor dem Stadtchen. Ein Bauer fuihrt Kaufliebhabern 2 Schimmel vor. Rechts daneben das Wirtshaus, unter der Ture die Wirtin in Unterhaltung mit einem Bauern. Links zum Verkauf bereitstehende Pferde.Oel auf Holz, 14x23 cm. Bez. W.Velten.
+
+## Emil Volkers, Disseldorf .
+
+- 880 Springende Pferde auf der Weide. Aquarell, 9,5x16 cm.
+
+## G.Voroze.
+
+- 881 Segelboote und Dampfschiffe auf hoher See.  Oel auf
+- Leinwand, 44x118 cm. Bez. G.Voroze.
+
+## Paul Johann Walch, Minchen.
+
+- 882 Sonniger Wintertag. FluBlandschaft mit Baumen in tiefem
+- Schnee. Im Hintergrund verschneites Dorf, blauer Bez.P. J.Walch.
+- 883 Winterlandschaft. FluB uber den ein Holzsteg fuihrt. Bedeckter Himmel. Oel auf Leinwand, 70x80 cm. Bez. P. J. Walch.
+
+## C. Walliser, Bern.
+
+- 40X48 cm. Bez. C. Walliser.
+- 884 Ansicht eines Schlosses mit Park am Genfer See. Aquarell,
+
+## C. Wasenegger, Munchen.
+
+- 29x30 cm. Bez.C.W.
+- 885 Aesendes Hochwild am Waldrand. Oel auf Pappe,
+- 886 Rehbock,der von einer Lichtung ins Dickicht tritt. Oel
+- 887
+- auf Pappe, 33x47 cm. Bez.C.W.
+- Kopf eines Rehbocks. Oel auf Holz, 21X16 cm. Bez.C.W.
+- 888
+- Abend im Hochgebirge. Unter Fichtengruppen eine Jagdhitte, auf dem zu der Hutte fuihrenden Weg ein Jager mit Rucksack. Oel auf Holz, 17x25 cm. Bez. C.W.
+- 889
+- Schleichender Fuchs mit Ente. Oel auf Pappe,15x29 cm. Bez. C.W.
+- 890 2 Hasen im Kornfeld. Aquarell, 12x19 cm. Bez. C. W.
+
+## Constantin Wauters, Antwerpen.
+
+- Bez. Const. Wauters.
+- 891 Friedrich der GroBe und der Windmiller. Das Bild stellt die bekannte Episode dar, wie Friedrich der GroBe den Muiller zu iberreden sucht, wobei er durch Voltaire unterstitzt wird. Oel auf Leinwand, 36x46 cm.
+
+Abbildung Tafel II.
+
+## C.A. Weinberger.
+
+- 892 Junge Gutacherin in Tracht. Oel auf Leinwand, 38x28cm. Bez. C.A. Weinberger.
+
+## Viktor Weishaupt, Munchen *
+
+- 893 20x32 cm.
+- Kuhe auf der Weide. Oel auf Pappe. Bez.V. Weishaupt.
+
+## J.Wopfner, Miinchen.
+
+- 894 Schwiler Sommertag am Chiemsee. Im Vordergrund Fischer beim Netzeinziehen am Ufer. Im Hintergrund die Fraueninsel. Gewitterwolken kommen vom Gebirge her und verdecken den blauen Sommerhimmel. Oel auf Leinwand, 39x54 cm.Bez. J. Wopfner. Abbildung Tafel 1.
+## Albert Zimmermann,Minchen 1808-1888.
+
+- 895 Wilde Gebirgslandschaft mit GieBbach im Vordergrund. Auf einer mit Felsblocken und verkiimmerten Fichten umsaumten Lichtung kampfen 2 Adler um ein totes Schaf.Im Hintergrund das Hochgebirge. Oel auf Leinwand,74x114.Bez.1868.
+
+## Alfred Zimmermann, Minchen.
+
+- 896 Waldrand mit Vieh, das an einem kleinen Teich weidet. Bewolkter Himmel. Oel auf Pappe, 37x48 cm. Bez.A.Zimmermann.
+
+## Ernst Zimmermann, Minchen.
+
+- 897 Kopf eines blonden Bauernknaben.S Studie.Oel auf Pappe, 18x14,5 cm. Bez. E. Z. auf der Vorderseite. Auf der Ruickseite Ernst Zimmermann.
+
+## Heinrich von Zugel, Muinchen.
+
+- 898 2 bepackte Maulesel. Bez. H.Zugel 1919.
+- 899
+- Bleistiftzeichnung, 11x12 cm.
+- Goldrahme mit ovalem Ausschnitt, 76x56 cm.
+
+## J. KeBler, Minchen.
+
+- 900 Der Konigsee. Oel auf Leinwand, 94x140 cm. Bez. J.KeBler.
+
+## Nachtrag.
+
+## Fr. von Keller, Stuttgart .
+
+- 901 Erdarbeiter. Oel auf Pappe, 18X35 cm. Bez.F. Keller.
+
+## Karl Offterdinger, Stuttgart
+
+- 902 Unterhaltungim Wirtshaus. Aquarell. Bez. C. Offterdinger.
+
+## Johann Sperl, Minchen *.
+
+- 903 Baumgarten. Hinter einem Gartenzaun ein dunkelrotes Haus, das von Baumen und Strauchern umgeben ist.
+- Oel auf Leinwand, 35x50 cm. Bez. J. Sperl.

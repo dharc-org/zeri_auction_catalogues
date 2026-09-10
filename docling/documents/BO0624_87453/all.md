@@ -1,0 +1,3505 @@
+<!-- image -->
+
+## Bedingungen.
+
+Sammlung ist in Zurich im Zunfthaus zur Meise zur Besichtigung ausgestellt:
+
+## Montag den 28. und Dienstag den 29. August 1893
+
+von 10 Uhr Morgens bis 5 Uhr Nachmittags.
+
+Nur den mit Katalog versehenen Personen ist die Besichtigung der Kunstgegenstinde und die Beiwohnung der Versteigerung gestattet. Den Besuchern wird bei der Besichtigung und Untersuchung der Gegenstande die grosstmoglichste Vorsicht empfohlen, damit kein Gegenstand durch Ungeschicklichkeit, Reiben u. dergl. beschadigt werde.
+
+Jeder hat den durch ihn angerichteten Schaden zu ersetzen.
+
+Die Versteigerung geschieht gegen baare Zahlung in Deutscher Reichswihrung und unter dem Aufgelde von 1ooo des Steigpreises fir jede Nummer.
+
+Die Gegenstande werden in dem Zustande verkauft, worin sich solche befinden, und kann nach geschehenem Zuschlage keinerlei Reclamation bericksichtigt werden. Sollte sich beim Zuschlage eine Differenz wegen Doppelgebots ergeben, so wird die betr. Nummer, um jedem Theile auf die unparteischste Weise zu begegnen, sofort wieder von neuem ausgesetzt; auch behilt sich der Unterzeichnete das Recht vor, Nummern zusammen zu stellen oder zu theilen.
+
+Die Kaufer sind gehalten,ihre Erwerbungen nach jeder Vacation in Empfang zu nehmen und Zahlung dafir einschliesslich des Aufgeldes von 1oo/o per Nummer an den Unterzeichneten zu leisten; widrigenfalls behalt sich der Letztere das Recht vor, die angesteigerten, nicht in Empfang genommenen Gegenstande auf Kosten und Gefahr des Ansteigerers wieder zu verkaufen. Die Aufbewahrung bis zur Abnahme und Bezahlung geschieht mit moglichster Sorgfalt, jedoch auf Gefahr des Kaufers.
+
+Auftrage zur Auction ibernimmt der Unterzeichnete,an den briefliche Mittheilungen vom 25. August ab nach Zurich, Adresse: Zunfthaus zur Meise zu richten sind.
+
+Koln, 15. August 1893.
+
+J.M. HEBERLE (H. Lempertz Sohne).
+
+Koln a.Rh.
+I.Abtheilung.
+
+Gemalde,Kupferstiche etc.
+<!-- image -->
+
+## Michelangelo Amerighi, gen. Caravaggio,
+
+geb. zu Caravaggio 1569; zu Porto Ercole 1609.
+
+## Die Falschspieler.
+
+Hirte und Bauer beim Kartenspiel, links der Genosse des Falschspielers,ihm die Karten des andern verrathend. Gruppe dreier Kniefiguren in Lebensgrosse.
+
+Leinwand. Hohe 110,Breite 144 Cent.
+
+Pastos behandeltes gutes Bild.
+
+## 2 Judith.
+
+## Nach Caravaggio.
+
+Dieselbe steht nach links gewandt in prachtigem Kleide, in der Rechten das Schwert,in der Linken das Haupt des Holophernes haltend;hinter ihr die Amme. Gruppe zweier Kniefiguren in Lebensgrosse.
+
+Leinwand. Hohe 137,Breite 113 Cent. Geschnitzter Rahmen.
+
+Vortrefflich ausgefihrte Copie von Erni
+
+## V. le Beau,
+
+Maler von Lyon; XVIll. Jahrh.
+
+## 3Venetianer Carnevals-Bildnisse. (Gegenstucke.)
+
+1.Jugendliches mannliches Brustbild in Schafer-Costum in offenem Gewande mit breitem Kragen und Federbarett. 2. Jugendliches Frauen Brustbild in tief ausgeschnittenem violetten Kleide mit breitem Kragen;
+
+In der Art des Antoine Watteau vortrefflich ausgefihrte interessante Costim- das Haar mit Feder-Toupet geschmickt.
+
+bilder.
+
+## 4 Charakterkopf.
+
+Holz. Hohe 46,Breite 36 Cent.2 Stick.
+
+## Quirin Becker,
+
+moderner Meister.
+
+Brustbild eines alten Bauern in Lebensgrosse, fast en face, in blauem Vortreffliches Bild voll Lebenswahrheit. Oben rechts bezeichnet:Q.Becker.
+
+Rocke und hoher Mutze,mit vergnigt lichelndem Gesichtsausdruck. Leinwand. Hohe 33,Breite 26 Cent.
+
+## J. Franz Beich,
+
+geb.zu Ravensburg; zu Minehen 1748.
+
+Im Mittelgrunde cine Burg auf einer Anhohe; auf dem breiten Wege
+
+## 5 Flusslandschaft mit Gebirgszug.
+
+links Schafer mit seiner Heerde und andere Figuren.
+
+Leinwand. Hohe 78,Breite 93 Cent.
+## 8 Stillleben.
+
+## Willem van Bemmel,
+
+geb.zu Utrecht 1630; 1708.
+
+1.Dorfstrasse mit Brunnen und Forsthaus. 2.Flachlandschaft mit
+
+## 6Zwei Landschaften. (Gegenstucke.)
+
+Waldeingang. Beide mit reicher Figurenstaffage.
+
+Holz. Hohe 23,Breite 34Cent. 2 Stick.
+
+Gute,breit behandelte Bilder.
+
+## G.van Bentum,
+
+geb. zu Leiden; 1727.
+
+Alte,neben der zwei andere Figuren,Kuchen iber dem offenen Feuer backend, dessen Schein die Gruppe beleuchtet.
+
+## 7Die Kuchenbackerin.
+
+Holz.Hohe 26,Breite 21 Cent.
+
+## Pieter Boel,
+
+geb.zu Antwerpen 1622; zu Paris 1674.
+
+An der Wand hangen und auf einer Steinplatte liegen todtes Wild
+
+Gutes decoratives Bild von nicht tadelloser Erhaltung.
+
+und Gefugel aller Art,dabei Hase,wilde Ente.
+
+Leinwand. Hohe 81,Breite 126 Cent.
+
+## Ferdinand Bol,
+
+geb.zu Dordrecht angebl.1611; zu Amsterdam 1681.
+
+## Bildniss eines spanischen Ritters.
+
+Schones, ungemein effectvolles Bild,in reich geschnitztem Rahmen mit durchbrochenem Laubwerk und vollrund vortretenden Engelskopfen.
+
+Lebensgrosses Brustbild in grinem Gewande mit Pelzmantel und Ritterhalskragen. In leichter Wendung nach links halt er den Kopf fast en face; das lockige Haar bedeckt ein hohes rothes Federbarett.
+
+Leinwand. Hohe 81, Breite 67 Cent.
+
+## Sebastien Bourdon,
+
+geb.zu Montpellier 1616; zu Paris 1671.
+
+Im Vorgrunde einer weiten Landschaft sitzt Pharaos Tochter im Kreise
+
+## 10 Die Findung Mosis.
+
+ihrer Gespielinnen und Dienerinnen,deren eine den eben gefundenen Knaben auf dem Schoosse halt.
+
+Leinwand.Hohe 68,Breite 89 Cent.
+
+Vorzigliches Bild.
+
+## Elias van den Broeck,
+
+Antwerpener Meister; zu Amsterdam 1711.
+
+Vor landschaftlichem Hintergrunde liegt auf einem Steinsockel ein Strauss von Gartenblumen: Tulpen, Rosen u. s.w.; dazwischen kriecht eine Eidechse.
+
+Leinwand. Hohe 57,Breite 49 Cent.
+
+## 11 Blumenstuck.
+
+## 9
+## Ambros Brueghel,
+
+- 12 Blumenstuck.
+
+zwischen 1653 und 1670 Director der Aeademie zu Antwerpen.
+
+Auf einem Steintische liegt ein Strauss von Gartenblumen, von Inseckten umfattert.
+
+Hibsch in der Farbung.
+
+- 13 Fruchtstuck.
+
+Holz. Hohe 25,Breite 31 Cent.
+
+Auf einem Steinsockel liegen Pfrsich, Pfaume, Trauben, Johannis- beere u. s.w. Gegenstick zum Vorigen in gleicher Ausfihrung.
+
+## Johann Brunner,
+
+Holz. Gleiche Grosse.
+
+- 14 Bettlerfiguren.(Gegenstucke.) Kupfer. Hohe 30,Breite 21 Cent. 2 Stick.
+- 15 Jupiter und lo.
+- 16 Vexirbild.
+
+Kreuz dar.
+
+Genremaler der Gegenwart.
+
+## Nach Correggio.
+
+Vortreffliche Copie des bekannten Bildes der Berliner Galerie in Originalgrosse. Leinwand. Hohe 140,Breite 85 Cent.
+
+## Salomon Corrodi,
+
+Maler zu Ziurich Anfang XIX. Jahrh.
+
+Dasselbe stellt je nach der Drehung Todtenkopf, Blumenstrauss oder
+
+Bezeichnet: Corrodi invenit et pinxit 1806.
+
+## Edmund Francis Cuningham,
+
+- 17
+
+Pappe. Linge 38, Breite 28 Cent.
+
+geb.zu Calzo 1741; 1795.
+
+Lebensgrosses Brustbild nach rechts gewandt. den Kopf fast en face, Adlerordens,in cinem grossen Medaillon.
+
+## Friedrich ll., der Grosse, von Preussen.
+
+Vortrefflich ausgefihrtes interessantes Portrait.
+
+Leinwand. Hohe 80, Breite 64 Cent.
+
+## Georg Desmarees,
+
+## 18 Johann Herzog von Sachsen.
+
+geb. zu Stockholm 1697; zu Minchen 1776.
+
+Lebensgrosses Brustbild en face,mit Puderperricke, in grauem Rocke mit Spitzencravatte und ibergeworfenem rothen Mantel.
+
+Leinwand. Hohe S0,Breite 65 Cent.
+
+Vorzigliches Bild von feiner, feissiger Ausfihrung.
+
+## J. Destree,
+
+moderner Meister.
+
+Rechts zieht sich der breite Canal hin, auf dem mehrere Kahne und
+
+- 19 Canal-Landschaft.
+
+Boote; links auf dem Ufer liegt eine Ortschaft mit hohem Thurm.
+
+J.Destree. Holz. Hohe 18,Breite 28 Cent.
+
+Freundliches, gut ausgefihrtes Bildchen,hell im Tone.Unten rechts bezeichnet:
+## Deutscher Meister XVl. Jahrh.
+
+## 20 Mannliches Bildniss,angeblich Gutenberg.
+
+Holz. Hohe 54, Breite 40 Cent.
+
+Lebensgrosses Brustbild in Dreiviertel-Wendung nach links. Stark beschadigtes Bild.
+
+## Ch. W.E. Dietrich,
+
+geb.zu Weimar 1712; zu Dresden 1774.
+
+## 21 St. Petrus in Reue.
+
+In einer Felshohle sitzt der alte Heilige in weissem Gewande mit blauem Mantel,iber einem aufgeschlagenen Buche betend.
+
+Feine, fleissige Durchfuhrung in der bekannten Art des Meisters.
+
+## 22 Die hl. Magdalena.
+
+Vor einem Erdhigel kniet die Bisserin, iber einem aufgeschlagenen
+
+Buche betend;vor ihr liegt der Todtenkopf.
+
+Gegenstick zum Vorigen in gleicher Ausfihrung.
+
+## Caspar Dorer,
+
+Genremaler, thatig zu Anfang des XVIIl. Jahrh.
+
+## 23 Allegorische Darstellung.
+
+Konig auf Thron, umgeben von seinen Rathgebern, Recht sprechend;
+
+als Anklager Abt und der Tod.
+
+Unten links bezeichnet: Caspar Dorer Badensis pinxit 1711. Holz. Hohe 36,Breite 45 Cent.
+
+## Joseph Dorn,
+
+geb.zu Gratz-Sambach 1759; zu Bamberg 1841.
+
+## 24 Bildniss einer Alten.
+
+Brustbild in Lebensgrosse, fast im Profl nach links, in blauem Kleide mit pelzbesetztem Mantel und grauem Kopftuche.
+
+Vortrefflich ausgefihrtes Pastellbild,ganz an die Arbeiten des Denner erinnernd.
+
+## 25 Alter Jude.
+
+Hohe 42,Breite 34 Cent.
+
+Lebensgrosses Brustbild en face, mit weissem Barte und Turban, die
+
+Augen nach unten gerichtet.
+
+Hohe 42,Breite 34 Cent.In Rahimen unter Glas.
+
+Vortrefflich ausgefuhrtes Pastellbild.
+
+## Johannes Franciscus Douven,
+
+geb.zu Roermond 1655; 1727.
+
+## 26 Bildniss eines Fursten.
+
+Lebensgrosses Gurtelbild in dreiviertel nach links gewandt, iber den Harnisch cinen goldgestickten rothen Rock, mit rothem Ordensband und
+
+Ordensstern.
+
+Vortrefflich ausgefihrtes Bild.
+
+Holz. Hohe 34, Breite 25 Cent.
+
+Holz. Gleiche Grosse.
+
+Leinwand.Hohe 88,Breite 71 Cent.
+## 27 Weibliches Bildniss.
+
+Brustbild in blauem Gewande und hoher Puderfrisur. Leinwand. Hohe 47,Breite 41 Cent.
+
+## Gabriel Francois Doyen,
+
+geb.zu Paris 1726; zu St. Petersburg 1806.
+
+In reicher phantastischer Kleidung steht die jugendliche Orientalin mit der Rechten auf einen Tisch gelehnt,unter dem eine Rauchervase. Landschaftlicher Hintergrund.
+
+## 28 Bajadere.
+
+Gut behandeltes,effectvolles Bild.
+
+Leinwand. Hohe 185,Breite 128 Cent. Slg. Graf Ross in Berlin.
+
+## Nicolaus Dumoustier,
+
+Bildnissmaler zu Paris; 1669.
+
+## 29 Margaretha von Valois.
+
+gelockte Haar ziert eine Zackenkrone.
+
+Lebensgrosses Brustbild als Esther dargestelt, fast en face, das Haupt wenig nach rechts geneigt； in der Rechten halt sie ein Scepter, das lang-
+
+Gutes Bild, weich in der Behandlung.
+
+Leinwand. Hohe 52, Breite 37 Cent.
+
+## Nach Anthonie van Dyck.
+
+- 30 Madonna mit dem Kinde.
+
+Kniefigur der Madonna in rothem Gewande und blauem Mantel, den
+
+Blick verzickt nach oben gerichtet, das vor ihr stehende nackte Jesuskind mit beiden Armen haltend.
+
+Gut ausgefuhrte Wiederholung des bekannten Bildes. Leinwand. Oberhalb geschweift. Hohe 99,Breite 70 Cent.
+
+## Adam Elsheimer,
+
+getauft zu Frankfurt a.M. 1578; zu Rom muthmasslich 1620.
+
+- 31
+
+## Die Flucht nach Egypten.
+
+In einer Gebirgslandschaft zieht die hl. Familie nach links; in der
+
+Hohe Blumen streuende Engel.
+
+Kupfer. Hohe 37, Breite 25 Cent.
+
+## Oscar von Elsner.
+
+Gartenweg mit zu einem Pavillon aufsteigender Treppe; im Hintergrunde das Schloss.
+
+Leinwand. Hohe 34,Breite 32 Cent.
+
+Gutes Bild.
+
+- 32 Parklandschaft.
+
+Gute Studie.
+
+## 33 Marine.
+
+Leicht bewegte See mit mehreren Fischerbooten; in dem vorderen wird das Netz eingezogen.
+
+Leinwand.Hohe 46,Breite 66 Cent.
+
+## Douven (Manier).
+## 35 Fruchtstuck.
+
+## G.Engelhardt,
+
+## 34 Gebirgslandschaft mit Wasserfall.
+
+moderner Meister.
+
+Wildes Felsgeklufte,zwischen dem sich, mehrere Falle bildend,ein breiter Fluss hindurchzwangt; auf einer Holzbricke links zwei Bauern mit Ziegen.
+
+Vorziglich ausgefihrtes Bild. Unten links bezeichnet: G.Engelhardt. Leinwand. Hohe 39, Breite 31 Cent.
+
+## Jakob van Es,
+
+geb.zu Antwerpen 1570; 1621.
+
+Auf einer Steinplatte steht eine Delfter Schissel mit prachtigem Obst: Trauben, Pfirsiche etc.; daneben liegen offene Pfirsich, Nusse etc. Sehr gutes Bild. Auf der Kante des Tisches bezeichnet:J.F.VAN ES. Holz. Hohe 32,Breite 40 Cent.
+
+## Georg Ettlinger,
+
+## 36 Weibliches Bildniss.
+
+geb. zu Gratz,1781 Hofmaler in Minchen.
+
+Lebensgrosses Gurtelbild einer alten Frau, en face, in einfacher Kleidung mit weisser Spitzenhaube.
+
+Leinwand. Hohe 65, Breite 54 Cent.
+
+Gut behandeltes Bild.
+
+## William Gouw. Ferguson,
+
+## 37 Todte Vogel.
+
+geb. angeblich in Sehottland;  nach 1695.
+
+In einer Steinnische liegen theils in fachem Korbe mehrere Koppeln todter Vogel.
+
+Leinwand. Hohe 52,Breite 45 Cent.
+
+## Frans Francken,
+
+## 38 Die hl. Maria Magdalena de Pazzis.
+
+Vorzigliches Bild.
+
+getauft zu Antwerpen 1581; daselbst 1642.
+
+Dieselbe sitzt im Gewande der Carmeliterinnen mit ihren Attributen im Vordergrunde einer reichen Landschaft.
+
+Kupfer. Hohe 22, Breite 17 Cent.
+
+## Anton Graff,
+
+geb. zu Winterthur 1736; zu Dresden 1813.
+
+Lebensgrosses Brustbild in Dreiviertel-Wendung nach links mit spriessen-
+
+## 39 Bildniss eines spanischen Officiers.
+
+dem Schnurrbart und dichtgelocktem Haar; er tragt graues Koller mit breitem Spitzenkragen.Graulicher Grund.
+
+Leinwand.Hohe 49,Breite 39 Cent.
+
+Gut ausgefuhrtes Bild im Geiste und der Richtung des A.van Dyck.
+
+Feine Ausfuihrung.
+## 40 August der Gerechte von Sachsen.
+
+## 41
+
+Lebensgrosses Brustbild in Dreiviertel-Wendung nach rechts. Charakteristische,vorziglich ausgefuhrte Kreidezeichnung. Hohe 45, Breite 35 Cent. In Rahmen unter Glas.
+
+## Mannliches Bildniss.
+
+Leinwand. Hohe 72, Breite 55 Cent. Beschadigt.
+
+Lebensgrosses Brustbild in braunem Rocke und Zopfperricke.
+
+## L.von Hagn,
+
+moderner Meister.
+
+In einem reichen Gemache sitzt an einem Tische,auf dem Kanne und Fruchtschale stehen, eine junge Frau in reichem Gewande, einen Brief lesend;an ihre Kniee lehnt sich, sie aufmerksam betrachtend,ein kleines
+
+## 42 Die Briefleserin.
+
+Madchen.
+
+Unten rechts bezeichnet:L.v. Hagn 1851.
+
+- 43 Die Spinnerin.
+
+Sehr schones Bild, fott in der Ausfihrung und hubseh im Tone des Helldunkels.
+
+Leinwand. Hohe 40,Breite 34 Cent.
+
+In einfach ausgestatteter Stube sitzt, die Linke auf einen Tisch gelehnt, eine jugendliche Frauengestalt am Spinnrocken, in Gedanken versunken iber einem Brief, den sie in der Rechten halt.
+
+Bezeichnung.
+
+- 44 Zwei Thierstudien.
+
+## Guido Hammer,
+
+geb.zu Dresden 1821.
+
+Kopf eines Jagdhundes und eines Windhundes im Profl, auf grunlichem Grunde.
+
+Flotte Studien. Bezeichnet:N.d.N. Guido Hammer 1848.
+
+Pappe.Hohe 28,Breite 44 Cent.
+
+## Horlimann (Manier).
+
+- 45 Zwei Schweizer Wasserfalle. Medaillonformig.
+
+Holz. Hohe 28,Breite 20 Cent. 2 Stiek.
+
+## Joseph Hohr,
+
+Historienmaler in der 2.Halfte des XVIHl. Jahrh.
+
+## 46 Sechs Bilder aus der griechischen Mythen-und Heroengeschichte.
+
+Paris,Rickkehr des Agamemnon etc.
+
+Mehr oder minder figurenreiche Compositionen, dabei das Urtheil des
+
+Sechs Bilder von vortrefflieher und feissiger Ausfihrung, bezeichnet: Joseph Hohr inv.et pinx. 1782. Die interessante Serie erhalt einen erhohten Werth durch die sie umfassenden reich geschnitzten Rahmen im Stile Louis XVI. Die Bilder werden auf Wunsch vereinzelt.
+
+Hohe je 37,Breite 54 Cent. 6 Stuck.
+
+Leinwand. Gleiche Grosse.
+## 49
+
+## Gerard van Honthorst,
+
+geb. zu Utreeht 1590; daselbst 1656.
+
+## 47 Bauer beim Fruhstuck.
+
+linken Arme halt er einen Krug. Landschaftlicher Hintergrund.
+
+Leinwand. Hohe S0,Breite 64 Cent.
+
+## Jan van Huchtenburgh,
+
+geb.zu Haarlem angebl. 1646; zu Amsterdam 1733.
+
+## 48 Reiterschlacht.
+
+Das Gefecht breitet sich nach links in weite Ferne aus; allenthalben sind kleinere Gruppen Kampfender;rechts im Vorgrunde ist man handgemein geworden.
+
+Leinwand. Hohe 66, Breite 110 Cent.
+
+Sehr gutes Bild. Unten rechts das Monogramm: J. H.
+
+## Schlachtenbild und Gegenstuck.
+
+links ist man im Streite um ein Geschitz handgemein geworden. Lebendige Composition.
+
+Gegenstick zum Vorigen in gleicher Ausfuhrung und mit gleicher Bezeichnung. Leinwand.Gleiche Grosse.
+
+## Carl Conrad Hueber,
+
+thatig gegen Ende des vorigen Jahrhunderts.
+
+- 50 Der hl. Johannes der Taufer.
+
+Der Heilige sitzt, das Lamm liebkosend,am Ufer des Jordan. Hubsche Farbengebung. Ruekseitlieh bezeichnet: Carl Conrad Hueber pinxit in
+
+Weissenhorn 1781.
+
+## 51 Die hl. Agnes.
+
+Die Heilige im Vorgrunde einer Gebirgslandschaft sitzend； neben ihr auf sculptirtem Piedestal das Lamm.
+
+Gegenstick zum Vorigen in gleicher Ausfihrung.
+
+## Rudolf Koller,
+
+geb.zu Zurich 1828.
+
+Bullen, schwarz-weiss gefeckt, im Profil nach links, auf der Weide stehend.
+
+Pappe. Hohe 33,Breite 40 Cent.
+
+## Lina Krieger.
+
+Im Vorgrunde einer Landschaft sitzen, sich liebkosend, die Knaben
+
+## 52 Thierstudie.
+
+Flotte Behandlung.
+
+## 53 Die hl. Familie.
+
+Jesus und Johannes; links, etwas zuruck, die hl. Maria mit Buch.
+
+Gut ausgefihrtes, grosses Pastellbild. Mit den Namen bezeichnet.
+
+Hohe 43, Breite 34 Cent. In Rahmen unter Glas.
+
+Leinwand. Hohe 63,Breite 46 Cent.
+
+Leinwand. Gleiche Grosse.
+- 55
+
+## F.Kunzli,
+
+## 54 Bildniss des Malers Preller.
+
+Paris.
+
+Brustbild in Lebensgrosse, in Dreiviertel-Wendung nach links, mit langem grau melirten Barte und grossem Barett.
+
+Vortreffliche Ausfuihrung in Titian’scher Auffassung.
+
+- Graf Egmont.
+
+Pappe. Hohe 47, Breite 38 Cent.
+
+Lebensgrosses Brustbild in schwarzem Gewande, mit weit abstehendem Kragen und goldener Halskette, den Blick nach unten richtend.
+
+Pappe. Hohe 49,Breite 381/e Cent.
+
+Copie nach P.Delaroche in vorziglicher Ausfihrung.
+
+## 56 Sitzender Herr im Costume der Revolutionsperiode.
+
+Gute Ausfihrung,
+
+Copie einer Einzelfigur aus Paul Delaroche's beruhmtem Bilde:Die Girondisten".
+
+Pappe. Hohe 27,Breite 21 Cent.
+
+## 57 Die Jungfrau von Orleans, verwundet.
+
+der Hals zeigt eine grosse, klaffende Wunde.
+
+Lebensgrosses Brustbild in voller Rustung, auf einem Lager liegend;
+
+Vorziglich ausgefuihrtes Bild (Copie.)
+
+Pappe. Hohe 52,Breite 45 Cent.
+
+## 58 Bildniss eines Geistlichen nach F. Bol.
+
+Gute Copie.
+
+Brustbild fast en face.
+
+- 59 Das Opfer der Iphigenie.
+
+Leinwand. Hohe 30,Breite 24 Cent.
+
+## Nach N. Largilliere.
+
+Als Mittelfigur einer grossen Gruppe Iphigenie auf dem Holzstoss;
+
+Leinwand. Hohe 79,Breite 66 Cent.
+
+iber ihr schwebt Diana in Wolken; hinter ihr das Reh. Schone,reiche Composition.
+
+## Herman van Lin,gen. Stilheid,
+
+- 60 Reiterbildniss.
+
+Maler zu Utrecht 1659-1670.
+
+Im Vorgrunde einer weit ausgedehnten Landschaft reitet ein Cavalier in rothem Rocke auf Schimmel.
+
+Gut ausgefihrtes Bild.
+
+Leinwand. Hohe 26,Breite 23 Cent.
+
+## Bernh. Gottfried Manskirsch,
+
+## 61 Landschaft.
+
+geb.zu Bonn 1736; zu Koln 1817.
+
+Gebirgiges Gelande, das sich nach rechts zu einer tiefen Thalschlucht weit erbreitert,in der Ruine auf Hugel ete.; im Vorgrunde Figurenstaffage.
+
+bezeichnet:G.Manskirsch.
+
+Vortreffliches Bild von guter Qualitat des Meisters. Links auf einem Steine
+
+Holz.Hohe 34,Breite 50 Cent.
+## H. de Meyer,
+
+Sehlachtenmaler aus Holland. Ende des XVII. Jahrh. (S.Nagler B. IX S. 216.)
+
+In einem leicht hugeligen Gelande wuthet ein heftiger Reiterkampf, der sich bis zum Hintergrunde zu fortsetzt; im Vorgrunde rechts stirzt einer
+
+## 62 Reitergefecht.
+
+der Anfuhrer, vom feindlichen Geschosse getroffen, von seinem Schimmel.
+
+Lebendig componirtes Bild von vorziglicher Ausfuhrung. Unten links bezeichnet: H.De Meyer.
+
+## 63
+
+## Reitergefecht.
+
+Holz. Hohe 38, Breite 28 Cent.
+
+Im Vorgrunde einer Landschaft,in deren Hintergrunde links eine Burg, ist ein Reitertrupp ins Handgemenge gekommen; der Kampf setzt sich nach rechts hin fort.
+
+Holz. Gleiche Grosse.
+
+Gegenstick zum Vorigen in gleicher Ausfihrung.
+
+## Johann Jacob Meyer,
+
+## Charakterkopf.
+
+geb. zu Zirich 1749; 1812.
+
+## 64
+
+schwarzem Kopftuch, die Augen geschlossen.
+
+Holz.Oval.Hohe 45,Breite 39 Cent.
+
+Interessantes,lebenswahr behandeltes Bild.Unten rechts bezeichnet: J. Meyer pinx.
+
+## 65 Weiblicher Studienkopf.
+
+Charakteristische Auffassung.
+
+Lebensgrosses Brustbild einer alten Frau, en face, mit aufwarts geschlagenem Blick, der Kopf mit weissem Tuche umhullt.
+
+## 66 Weiblicher Studienkopf.
+
+Pappe. Hohe 47,Breite 37 Cent.
+
+Profl-Brustbild einer alten Frau in Lebensgrosse mit schwarzem Gewande und Spitzenhaube.
+
+Gleiche Ausfuihrung.
+
+## 67 Mannlicher Studienkopf.
+
+Pappe. Gleiche Grosse.
+
+Brustbild eines Mannes mit langem Haare und langem Barte in Ueber-
+
+Charakteristisehe,lebenswahre Auffassung.
+
+Pappe.Hohe 48,Breite 37 Cent.
+
+## Nach Pierre Mignard.
+
+## 68 Bildniss eines jugendlichen Fursten.
+
+Interessantes Costimbild.
+
+Lebensgrosse Halbfigur in Dreiviertel-Wendung nach rechts in vollem Harnisch, mit Allongeperricke, Spitzen-Cravatte und rother Schleife.
+
+Leinwand. Hohe 67, Breite 57 Cent.
+
+## Martin van Meytens,
+
+geb.zu Stockholm 1695 (?); 1770.
+
+## 69 Maria Theresia in mittleren Jahren.
+
+Lebensgrosse Halbfigur, nach rechts gewandt, der Kopf en face,in grinem Sessel sitzend; sie tragt ein weit ausgeschnittenes Spitzenkleid mit
+
+Lebensgrosse.
+grauem Ueberwurf; das Haar schmickt ein Blumenzweig, den Hals eine
+
+Schones Portrait in feiner, eleganter Ausfuhrung.
+
+Leinwand. Hohe 77,Breite 62 Cent.
+
+## Moderne Meister. (Unbekannte.)
+
+## 70 Kloster S. Domenico in Perugia.
+
+Rechts das Klostergebiude mit Saulengang; auf der Mauer der Terrasse sitzt ein Monch; links weiter Fernblick auf die Kirche.
+
+Sehr gutes,skizzenhaft behandeltes Bild.
+
+- 71 Landschaftsstudie.
+- 72 Fuhrmannslust.
+
+Leinwand. Hohe 29, Breite 45 Cent.
+
+Leinwand.Hohe 39, Breite 48 Cent.
+
+Fuhrmann vor seinem beladenen Fuhrwerk hertanzend.
+
+- 73 Fruchtstuck.
+
+Leinwand. Hohe 28,Breite 23 Cent.
+
+Porzellanschale mit Frichten, dabei ein Blumenstrauss. Skizze.
+
+Pappe. Hohe 27, Breite 41 Cent.
+
+- 74 Naturstudie mit Bauernhaus.
+
+Leinwand. Hohe 22,Breite 18 Cent.
+
+- 75 Schwabische Bauerin in Kniefigur.
+- 76
+
+Kupfer. Hohe 22, Breite 171/e Cent.
+
+- Schloss, in grossem Parke liegend.
+- 77
+- Liebespaar.
+
+Leinwand. Hohe 25,Breite 34 Cent.
+
+Im Vorgrunde einer Landschaft steht ein Bauer in polnischer Tracht, mit einem jungen Madchen schakernd.
+
+- 78
+
+Leinwand. Hohe 37, Breite 26 Cent.
+
+## Andachtige, vor einer Capelle betend.
+
+- 79 lo.
+
+Leinwand. Hohe 27, Breite 31 Cent.
+
+Brustbild einer schonen, jugendlichen Frauengestalt, vom Rucken
+
+Meisterhaft ausgefihrtes Pastellbild, ungemein weich in der Behandlung.
+
+- 80 Madchen mit Canarienvogel.
+
+liebkost.
+
+Oval. Hohe 45,Breite 37 Cent.
+
+Brustbild eines leicht gekleideten jungen Madchens mit lang herabfallendem schwarzen Haare, auf der Schulter einen Canarienvogel,der sie
+
+Gegenstick zum Vorigen in gleich vorziglicher Ausfuhrung.
+
+- 81 Weibliches Bildniss.
+
+Gleiche Grosse.
+
+Kniefigur einer hubschen jugendlichen Frauengestalt,nach rechts gewandt, den Kopf dem Beschauer zudrehend; sie traigt ein rosa Gewand doppelreihige Perlenkette.
+## 85
+
+mit leicht ibergeworfenem blauen Halstuche; in der Rechten halt sie ein
+
+Grosses, schones Pastellbild, in der Manier des J. Koppay vortrefflich ausgefuhrt.
+
+Notenblatt.
+
+## 82 Weibliches Bildniss.
+
+Gegenstick zum Vorigen in gleicher Ausfihrung.
+
+## 83 Weibliches Bildniss.
+
+sie ein Album.
+
+Hohe 95, Breite 70 Cent. In Rahmen unter Glas.
+
+Jugendliche Frauengestalt, bis zum Knie dargestellt,in spanischem schwarzen Spitzenkleide mit Kopfschleier.
+
+Gleiche Grosse. Ebenso.
+
+Kniefigur einer hubschen Blondine mit weit ausgeschnittenem spitzenbesetzten schwarzen Kleide; das mit Edelweiss geschmuckte Haar falt in langen Locken iber die entblossten Schultern herab; in den Handen halt
+
+Gleiche Ausfuihrung.
+
+## 84 Jugendliche Italienerin.
+
+gelehnt; die Arme ibereinanderschlagend, halt sie in der Linken einen Nelkenzweig.
+
+Gleiche Grosse. Ebenso.
+
+Gegenstick zum Vorigen in gleicher Ausfihrung.
+
+## Eglon Hendrik van der Neer,
+
+geb.zu Amsterdam 1643;  zu Dusseldorf 1703.
+
+## Die bussende hl. Magdalena.
+
+Den Oberkorper entblosst, sitzt die Heilige in einer Felsgrotte, iber dem Crucifixe betend; rechts neben ihr antike Sculpturen; links erscheinen im Hintergrunde zwei Figuren.
+
+Sehr schones, feissig behandeltes Bild yon bester Erhaltung. Leinwand. Hohe 51,Breite 42 Cent.
+
+## A.Nothnagel,
+
+geboren zu Bug am Forst 1729; zu Frankfurt 1804.
+
+## 86
+
+## Zwei Landschafts-Skizzen.
+
+- 2.Flachlandschaft mit Waldeingang und grosser Sehlossruine.
+
+## 87 Neapel von Posilipo aus.
+
+mehrere besetzte Boote.
+
+Freundliches,huibsches Bild. Unten links bezeichnet: A.Nothnagel 1857.
+
+## 88 Schloss Lueg in Krain.
+
+Flott ausgefihrte Naturstudie. Unten rechts bezeichnet: A.N.
+
+- 1.Flusslandschaft mit Figurenstaffage.
+
+Leinwand. Hohe 22,Breite 28 Cent. 2 Stick.
+
+Leinwand.Hohe 46,Breite 65 Cent.
+
+Links die eigenartigen Felsgebilde, bei denen das Schloss liegt.
+
+Leinwand. Hohe 26, Breite 31 Cent.
+
+Gleiche Grosse. Ebenso.
+## 89 Burgpartie in Nurnberg.
+
+Freundliches, angenehmes Bild von vorzuglicher Ausfihrung. Unten links be-
+
+Der runde Thurm der alten Burg mit den anliegenden Hausern. Figurenstaffage.
+
+zeichnet:A.Noth  (Nagel) 1855.
+
+- 90 Vietri bei Palermo.
+
+Leinwand. Hohe 42,Breite 35 Cent.
+
+Auf dem bewegten Wasser rechts ein besetztes Boot. Gutes Bild. Unten links die Bezeichnung:A.Noth  (Nagel) 1853. Leinwand.Hohe 40,Breite 55 Cent.
+
+## Johann Esaias Nilson,
+
+- 91 Friedrich Wilhelm ll. von Preussen.
+
+geb.zu Augsburg 1721;↑ daselbst 1788.
+
+Brustbild in Lebensgrosse in Dreiviertel-Wendung nach rechts, geradeaus-
+
+Meisterhaft ausgefihrtes,sehones Portrait.
+
+blickend,in Uniform mit Spitzen-Cravatte und breitem Ordensband.
+
+Leinwand. Hohe 63,Breite 51 Cent.
+
+## Antonis Palamedesz,
+
+- Die Lautenspielerin.
+
+geb.zu Delft um 1601; daselbst 1680.
+
+Dieselbe sitzt in blauem Atlasgewande an einem Tische;links neben ihr steht,ihrem Spiele lauschend, ein Cavalier; rechts neben ihr liegt ihr Windhund; im Hintergrunde die das Zimmer verlassende Dienerin.
+
+rung.Unten links bezeichnet: A.Palamedes.
+
+Treffliches Bildchen,huibsch in der Composition und vorziglich in der Ausfuih-
+
+- 93 Die Wachtstube.
+
+Holz. Hohe 23,Breite 18 Cent.
+
+Im Vorgrunde sitzt als Hauptfigur nachlassig auf einem Stuhle ein Officier in gelbem Koller und Stulpenstiefeln;rechts weiter zurick ein die Flote blasender Soldat und eine vom Ricken gesehene Frau.
+
+Holz. Hohe 22, Breite 18 Cent.
+
+Gutes Werk des Meisters von vortrefflicher Ausfihrung. Unten links bezeichnet: A.Palamedes.
+
+## Portraits meist des XvIll. Jahrh.,
+
+- 94 Lebensgrosses Gurtelbild im Jiger-Costum mit Allongeperricke.
+
+dabei viele von firstlichen Personlichkeiten.
+
+- Gute Ausfuihrung.
+
+Leinwand. Hohe S8,Breite 66 Cent.
+
+- Gurtelbild eines jugendlichen Fursten in Uniform und Kurass in drei verschiedenen Aufnahmen.
+
+Leinwand.Hohe S3,Breite 66 Cent. 3 Stuck.
+
+- Gurtelbild einer Dame in schwarzem, silbergestickten Kleide mit rothem
+
+Rickseitlich bezeichnet: Elisabeth Eleonora Juliana von Leitsch (Segeni) Fec. Anno 1746.
+
+Leinwand. Hohe 90, Breite 68 Cent.
+
+- 95
+- 96 Ueberwurf.Puderfrisur.
+- 92
+- 97 Gurtelbild eines Ritters in alteren Jahren, von kraftiger Statur, in schwarzem
+- Gewande mit breitem Steinkragen. XVII. Jahrh. Leinwand. Hohe 84, Breite 66 Cent.
+- 98 Gurtelbild eines Mannes in juingeren Jahren, in braunem Puderperricke; die Rechte in erklirender Geste vorstreckend.
+- Rocke,mit Leinwand. Hohe 82,Breite 66 Cent.
+- 99 Gurtelbild eines jugendlichen Prinzen in sachsischer Uniform,aus der Zeit August's des Starken. Leinwand.Hohe S5,Breite 68 Cent.
+- 100 Halbfigur eines Ritters im Harnisch, mit gepuderter Allongeperricke.
+- XVII. Jahrh. Leinwand. Hohe S1, Breite 64 Cent.
+- 101 Halbfigur eines preussischen Generals mit gepuderter Allongeperricke.
+- Gute Ausfuhrung.
+- 102 Halbfigur eines desgl. Gleiche Ausfihrung.
+
+Leinwand. Hohe 70, Breite 55 Cent.
+
+- Leinwand. Gleiche Grosse.
+- dabei Prem.Lieut. v. Packisch, gen. 103 Funf Huftbilder von Militairs, v.Festenberg 1769, Lieut. von Siegsfeld etc. Interessante Costimbilder. Leinwand. Hohe 82,Breite 68 Cent. 5 Stick.
+- 104 Kleiner Knabe. Derselbe sitzt in grinem Manteliberwurf auf rothem
+- Kissen und halt in der linken Hand eine Rose. Leinwand. Hohe 79,Breite 59 Cent. Nebst einem ahnlichen. 2 Stick.
+- 105 Kurfursten-Portrait. Brustbild in Allongeperrucke,goldgestickter Weste und rothem Mantel. Leinwand. Hohe 85, Breite 64 Cent.
+- 106 Portrait, ahnlich, in grunem Ueberwurf, in Oval. Leinwand. Hohe 87, Breite 70 Cent.
+- 107 Huftfigur eines alteren Mannes, in Lehnstuhl sitzend und bekleidet mit
+- braunem Rocke und schwarzer Allongeperricke. Leinwand. Hohe 92, Breite 71 Cent.
+- in weisser spitzen-
+- 108 Johanna Sophia Freiin von Blaubitz. Huftfigur besetzter Damast-Taille mit grunem Manteluberwurf. Auf der Ruekseite bezeichnet:J. Klimann pinxit. Leinwand. Hohe 84,Breite 64 Cent. Nebst 5 ahnlichen Darstellungen. 6 Stiek.
+- 109 Junge Dame in weissem, weit ausgeschnittenen Kleide und rothem Mantel
+- in Dreiviertel-Wendung nach rechts, das Gesicht dem Beschauer zugewandt. Leinwand. Hohe 26,Breite 20 Cent.
+- 110 Junger Mann im Profile nach links, in schwarzem Rocke, weisser Weste und Krause.
+- Gegenstick zum Vorigen.Leinwand. Gleiche Grosse.
+- 111 Funf Brustbilder von Staatsmannern und Militairs in Uniform. Leinwand. Hohe 86,Breite 66 Cent.5 Stick.
+- 112 Zwei verschiedene Portraits in Uniform.
+
+Leinwand. Hohe 76,Breite 57 Cent. 2 Stick.
+
+- 113 Zwei Damen-Portraits in reich gestickten Gewandungen.
+
+Leinwand. Hohe 81,Breite 66 Cent. 2 Stick.
+
+Interessante Costimbilder.
+
+- 114 Kopf eines jungen Mannes mit Schnurr- und Knebelbart, das frische Gesicht fast en face haltend.
+- Gutes Bild.
+
+Leinwand. Hohe 36,Breite 28 Cent.
+
+## Nach Nicolaus Poussin.
+
+- 115 Zwei Darstellungen aus der Geschichte Mosis.
+
+Leinwand.Hohe 68,Breite 89 Cent.
+
+## Jean Prudhomme,
+
+Bildnissmaler zu Neufchatel; zu Neuenstadt 1795.
+
+- 116 Bildniss der Prinzessin Sophia von Polen.
+
+Gutes Bild.
+
+Lebensgrosses Brustbild in Dreiviertel-Wendung nach links in grauem blau ausgeschlagenen Kleide und hoher Pelzmutze.
+
+Leinwand.Hohe 58,Breite 41 Cent.
+
+## Rembrandt zugeschrieben.
+
+## 117 Mannliches Bildniss.
+
+Gewandung, mit breitem schlaff anliegenden Kragen und grossem breitkrampigen Hut. Graulicher Grund.
+
+Lebensgrosses Brustbild eines jungen Mannes, bartlos, in sehwarzer
+
+Interessantes Bild mit guter Schattenwirkung.
+
+Leinwand. Hohe 50,Breite 40 Cent.
+
+## Nach Rembrandt.
+
+## 118 Der Rattengiftverkaufer.
+
+Copie der auch durch Visscher's Stich bekannten Composition.
+
+Leinwand.Hohe 40,Breite 32 Cent.
+
+## Jusepe de Ribera,
+
+geb. zu Jativa (San Felipe) 1588; zu Neapel 1656.
+
+- 119 Der hl. Hieronymus.
+
+Lebensgrosse Halbfigur des Heiligen in Dreiviertel-Wendung nach rechts, iber Buch und Todtenkopf betend; die Figur wird von einer kleinen
+
+Lampe sparlich beleuchtet.
+
+Gutes Bild.
+
+Leinwand. Hohe 79,Breite 63 Cent.
+## 120 Jagdstuck.
+
+## Johann Elias Riedinger,
+
+geb. zu Ulm 1695 (2); 1767.
+
+In einer Waldlichtung lagert bei einer Gruppe machtiger Baume eine Familie weisser Hirsche; links weite Fernsicht in eine Gebirgslandschaft. Schone Composition in vorziglicher Ausfihrung. Leinwand. Hohe 68, Breite 81 Cent.
+
+## Philipp Peter Roos, gen. Rosa di Tivoli,
+
+geb.zu Frankfurt a.M.1651; in Tivoli 1705.
+
+## 121 Thierstuck.
+
+Zwei Kaninchen, fressend, im Vorgrunde einer gebirgigen Landschaft. Leinwand. Hohe 50,Breite 42 Cent.
+
+## 122 Thierstuck.
+
+Schafe und Ziegen im Vorgrunde einer Landschaft; links sitzt die Hirtin.
+
+## 123 Thierstuck.
+
+Gegenstick zum Vorigen in gleicher Ausfuihrung. Leinwand. Gleiche Grosse.
+
+Leinwand. Hohe S0,Breite 60 Cent.
+
+Hirtenknabe bei seiner Heerde von Schafen und Ziegen im Vorgrunde einer Felslandschaft.
+
+## Pietro Rotari,
+
+geb. zu Verona 1707;  zu Petersburg 1762.
+
+## 124 Die hl. Familie.
+
+Links sitzt die hl. Maria, auf dem Schoosse das Jesuskind haltend, dem der hl. Joseph einen Kirschenzweig reicht. Gruppe dreier Kniefiguren in Lebensgrosse.
+
+Gutes Bild.
+
+Leinwand. Hohe 113, Breite 93 Cent.
+
+## Nach Rachel Ruysch.
+
+## 125 Zwei Blumenstucke.
+
+Hohe 43,Breite 32 Cent. 2 Stick.
+
+## Nach G. B. Salvi, gen. Sassoferrato.
+
+## 126 Mater Dolorosa.
+
+Lebensgrosse Halbfigur der leidenden Gottesmutter in blauem Mantel, die Hande gefalten. Leinwand. Hohe 74,Breite 59 Cent.
+
+## Godfried Schalcken,
+
+geb. zu Dordrecht 1643;↑ im Haag 1706.
+
+## 127 Madchen mit Licht.
+
+Halbfigur einer jugendlichen Frauengestalt, von dem Scheine der in der Linken gehaltenen Kerze beleuchtet; sie ist im Begriffe, eine Thire zu offnen.
+
+Holz. Hohe 32, Breite 25 Cent.
+
+Gut ausgefuhrtes Bild mit hubscher Lichtwirkung.
+## 132 ,Alle Neun."
+
+Kegeljunge,den guten Wurf ausrufend. Hubsches Bildchen. Ohne Bezeichnung.
+
+## Joseph Scherer,
+
+## 128 Weibliches Bildniss.
+
+Interessantes Costimbild. Riickseitlich bezeichnet:Seherer pinxit. Leinwand.Hohe S6,Breite 66 Cent.
+
+geb.zu Aretsried 1814.
+
+Huftbild einer alteren Dame, en face,in schwarzem Kleide, mit eigenartiger grosser Haube.
+
+## Andrea Schiavone,
+
+geb.zu Sebenico in Dalmatien 1522; 1582.
+
+## 129 Die hl. Familie.
+
+Im Vorgrunde einer Gebirgslandschaft sitzt bei verfallenem Thorbogen Maria, auf dem Schoosse das Jesuskind, welches den vor ihm knieenden kleinen Johannes segnet; rechts etwas zurick die hl. Elisabeth.
+
+Gutes Bild; die Composition mit Anklingen an Rafael's Bild Madonna mit dem langen Schenkel (Museum in Neapel).
+
+Leinwand. Hohe 50, Breite 42 Cent.
+
+## August Schleich,
+
+geb. zu Muinchen 1814.
+
+## 130 Thierstuck.
+
+Vorziigliche, lebendige Skizze.
+
+Kopf eines Wolfes mit weit aufgesperrtem Rachen, im Profl nach links.
+
+Pappe. Hohe 27,Breite 39 Cent.
+
+## Johann Ulrich Schnetzler,
+
+geb.zu Sehaffhausen 1704;1768.
+
+## 131 Bildniss eines Cantors.
+
+Gut ausgefihrtes, grosses Portrait. Rickseitlich bezeichnet: U. Sehnetzler pinxit.1750.
+
+Lebensgrosses Kniestick in Dreiviertel-Wendung nach rechts,in schwarzem Talare mit Puderperricke, neben einem mit griner Decke belegten Tische, auf dem ein offenes Etui; in der Linken halt er ein Notenblatt.
+
+Leinwand. Hohe 110, Breite S3 Cent.
+
+## G.Sonderland (Manier).
+
+Leinwand.Hohe 50,Breite 41 Cent.
+
+## A.Stademann,
+
+moderner Miinchener Meister.
+
+## 133 Winterlandschaft.
+
+Den ganzen Vorgrund nimmt ein zugefrorenes Wasser ein, auf dem zahlreiche Schlittschuhlaufer. Abendstimmung.
+
+Holz.Hohe 10,Breite 29 Cent.
+
+Hubsches Bildchen.
+## David Sulzer,
+
+geb.zu Winterthur1784.
+
+Lebensgrosses Brustbild eines jingeren Mannes in Dreiviertel-Wendung
+
+## 134 Mannliches Bildniss nach B. van der Helst.
+
+nach rechts, in schwarzem Gewande mit breitem Spitzenkragen. Vorzigliche, fleissige Ausfuihrung.
+
+Leinwand.Hohe 66,Breite 53 Cent.
+
+## Sophie Sulzer.
+
+Lebensgrosses Brustbild eines alten Mannes in Dreiviertel-Wendung nach links,in schwarzem Gewande, mit kahlem Kopfe und langem weissen Barte; er hat die Augen geschlossen.
+
+Leinwand. Hohe 46,Breite 41 Cent.
+
+## 135 Mannlicher Studienkopf.
+
+Charakteristische Auffassung.
+
+## Meyer von Tegenstorf,
+
+## 136 Thierstudie.
+
+neuerer Meister.
+
+Kopf eines Fuchses, im Profl nach links. Griner Grund. Holz. Hohe 20,Breite 26 Cent.
+
+## 137 Wirthshausscene.
+
+## Nach D. Teniers d. J.
+
+Gruppe von vier Figuren um einen runden Tisch； der Wirth bringt
+
+Holz. Hohe 35,Breite 43 Cent.
+
+mehrere Krige herbei.
+
+## Johann Alexander Thiele,
+
+## 138 Zwei Landschaften im Stile des Salvator Rosa.
+
+geb.zu Erfurt 1685; zu Dresden 1752.
+
+Gebirgslandschaften, die eine mit breitem Wasserfall, die andere mit
+
+Bezeichnet.
+
+Leinwand.Hohe 46,Breite 42 Cent.2 Stick.
+
+## Nach Tizian.
+
+Lebensgrosses Brustbild, im Profl nach rechts, mit Federhut.
+
+## 139 Franz l. von Frankreich.
+
+Gute moderne Copie des bekannten Bildes.
+
+Leinwand.Hohe 53,Breite 45 Cent.
+
+- 140 Bildniss der Herzogin von Urbino. Halbfigur in reichster Gewandung. Copie des bekannten Bildes, von A. Weckesser gemalt.
+- 141 Gelehrter,lesend.
+
+Leinwand. Hohe 59,Breite 46 Cent.
+
+## Toppey.
+
+Halbfigur, hinter einem Tische,auf dem Maler-Utensilien liegen. Gutes Pastellbildchen. Unten links bezeichnet: pinx. Toppey. Hohe 15,Breite 17 Cent.
+
+Felsbogen.Figurenstaffage.
+## Johann Georg Trautmann,
+
+- 142 Charakterkopf.
+
+geb.zu Zweibricken 1713; zu Frankfurt 1769.
+
+Brustbild einer alten Frau, fast en face,leicht nach rechts gewandt, in schwarzem Gewande und schwarzem Kopftuch.
+
+Leinwand. Hohe 36,Breite 32 Cent.
+
+- 143 Zwei Brustbilder von Alten, in Rembrandt's Geschmack.
+
+Holz.Hohe 24,Breite 18 Cent.2 Stick.
+
+Gute Ausfihrung.
+
+## Johann Nicolaus Treu,
+
+## 144 Jacob und Rebekka am Brunnen.
+
+geb. zu Bamberg 1734; zu Wiirzburg 1786.
+
+Jacob, yon seinen Dienern gefolgt,iberbringt der auf ihren Krug sich lehnenden Rebekka Geschmeide. Gruppe von fuinf lebensgrossen Kniefiguren. Gutes,decoratives Bild in holzgeschnitztem Rahmen.
+
+- 145 Die Findung Mosis.
+
+Gegenstick zum Vorigen in gleicher Ausfihrung.
+
+Leinwand. Hohe 125,Breite 142 Cent.
+
+Ein Diener bringt in einem Binsenkorbe der Tochter Pharao's den eben gefundenen ausgesetzten Knaben. Gruppe von sechs lebensgrossen Kniefiguren.
+
+Leinwand. Gleiche Grosse.
+
+## Unbekannte Meister.
+
+- 146 Vier Bilder. Zwei grosse Landschaften,Frauenbildniss und Stillleben. Leinwand. Verschiedene Grosse.4 Stiek.
+- 147 Die Enthauptung des hl. Johannes.
+
+Leinwand. Hohe 42, Breite 34 Cent.
+
+Kupfer.Hohe 28, Breite 42 Cent.
+
+Figurenreiche Kerkerscene.
+
+- 148 Stadtansicht mit Seehafen.
+- 149 Das jungste Gericht.
+
+Figurenreiche Composition mit Anklangen an bekannte Darstellungen. Leinwand. Hohe 120,Breite 160 Cent.
+
+- 150
+- Binnensee, von hohen Bergen eingeschlossen.
+
+Oval.Hohe 35,Breite 44 Cent. In Rahmen unter Glas.
+
+Vorziiglich ausgefihrte,wirkungsvolle Aquarelle.
+
+- 151 Christuskopf.
+
+Leinwand.Hohe 43,Breite 31 Cent.
+
+Abbildung nach der Darstellung auf dem Schweisstuche der Veronica in Rom.
+
+- 152 Kopf der Maria.
+
+Gegenstick zum Vorigen in gleicher Ausfihrung.
+
+Abbildung des Lucas-Bildes in Rom.
+
+Leinwand. Gleiche Grosse.
+## 153 Hafenansicht.
+
+Vor einer italienischen Stadt machtige Kriegsschiffe, Segelboote etc., vor denen eine Menge Minner mit dem Bergen der Ladung beschaftigt ist. Leinwand. Hohe 108,Breite 151 Cent.
+
+## Jacob Vaillant,
+
+Hofmaler, geb. zu Lille 1628.
+
+## 154 Friedrich Wilhelm von Brandenburg, gen. der grosse Kurfuirst.
+
+Lebensgrosses Brustbild, wenig nach rechts gewandt, mit Allongeperricke, reicher Spitzen-Cravatte und Hermelinmantel.
+
+Gutes,interessantes Portrait.
+
+Leinwand. Hohe 50, Breite 44 Cent. Aus Gleim's Nachlass.
+
+## Jean Vallin,
+
+Maler zu Paris, geb. 1770; 1834.
+
+## 155 Mythologische Landschaft.
+
+der der kleine Amor den jugendlichen Bacchus zieht; Amoretten schleppen Fruchtkorbe,Vase etc. herbei; rechts Blick auf eine Bucht, in deren Ferne ein Boot erscheint..
+
+Links Waldeingang; vor demselben liegt, vollig entkleidet,Venus,zu
+
+Vorzigliches,in seinen feinen und delicaten Ausfuihrungen an die Arbeiten des C.Poelenburg erinnerndes Bild. Unten links bezeichnet:Vallin 1793.
+
+Holz.Hohe 40,Breite 52 Cent.
+
+## Hans Martin Veith,
+
+geb.zu Schaffhausen 1650; daselbst 1717.
+
+## 156 Bildniss eines Geistlichen.
+
+rechts einen Blick in eine Landschaft gewahrt.
+
+Kniebild in Lebensgrosse, mit langem weissen Barte, in schwarzem Gewande und Barett,in grossem Sessel sitzend vor rothem Vorhange, der
+
+Interessantes Bild. Auf der Sessellehne bezeichnet: JO:M:Veith:pinx 1691.
+
+Leinwand. Hohe 103,Breite S5 Cent.
+
+## Joseph Vivien,
+
+geb.zu Lyon 1657; zu Bonn 1736.
+
+Brustbild in Lebensgrosse, nach rechts gewandt, den Kopf fast en face, mit grosser Allongeperricke, in vollem Panzer mit weissem Halstuche und
+
+## 157 Marschall Turenne.
+
+rothem Mantel.
+
+Vorzigliches Portrait in charakteristischer Auffassung und von grosser Lebenswahrheit.
+
+Leinwand. Hohe 74,Breite 58 Cent.
+
+## Friedrich Voltz,
+
+geb. zu Nordlingen 1817.
+
+Vor der Thire seines Stalles steht, Einlass begehrend, ein schwarzgefleckter Bulle;links im Vorgrunde Henne mit Kichlein.
+
+Leinwand.Hohe 35,Breite 46 Cent.
+
+## 158 Thierstuck.
+
+weiss
+
+Fein ausgefuihrtes, sehones Bild. Ohne Bezeichnung.
+## Maximilian Jos. Wagenbauer,
+
+geb.zu Grafing 1774; zu Muinchen 1829.
+
+## 159 Landschaft mit Vieh.
+
+Links pfugender Bauer, rechts die Hirtin bei ihrer Heerde. Skizze.
+
+Leinwand. Hohe 23, Breite 28 Cent.
+
+## Antoine Watteau,
+
+getauft zu Valenciennes 1684;  zu Nogent 1721.
+
+- 160 Bildniss eines Pagen.
+
+Brustbild in Lebensgrosse, fast en face, den Kopf, dessen Lockenhaar eine pelzbesetzte Mutze bedeckt, leicht nach rechts geneigt; er tragt ein braun und grun gestreiftes Atlasgewand mit leicht uingeknupftem Halstuche.
+
+Elegantes,vorzuglich ausgefuhrtes Bild.
+
+Holz. Hohe 31,Breite 25 Cent.
+
+## August Weckesser,
+
+geb.zu Winterthur; lebt in Rom.
+
+## 161 Der Vesuv-Fuhrer Antonio.
+
+Lebensgrosses Brustbild, im Profil nach rechts. Interessanter Studienkopf.
+
+Pappe. Hohe 42, Breite 33 Cent.
+
+## Friedr.Wilh.Weidemann,
+
+geb. zu Osterburg 1668;  zu Berlin 1750.
+
+## 162 Konigin Sophie Dorothea von Preussen.
+
+Fast ganze Figur in Lebensgrosse in blauer, reich mit Gold gestickter ubergeworfen; in der Rechten halt sie einen Facher; auf einem Tische neben ihr steht die Krone.
+
+Interessantes,vorziglich ausgefuihrtes Bild.
+
+Leinwand. Hohe 132,Breite 102 Cent.
+
+## 163 Friedrich Wilhelm l. von Preussen als Kronprinz.
+
+Kniestick in Lebensgrosse in Kurass mit Scharpe,Ordensband und blauem goldgestickten Rocke; in der vorgestreckten Rechten den Feldherrnstab haltend; vor ihm auf einem Tische steht der Helm. Landschaftlicher
+
+Hintergrund mit Darstellung einer Sehlacht.
+
+Interessantes, gut ausgefuhrtes Bild.
+
+Leinwand. Hohe 132,Breite 102 Cent.
+
+## Joh.Friedr. Wenzel,
+
+geb.zu Berlin 1709;  daselbst 1782.
+
+## 164 Friedrich l. von Preussen als Konig.
+
+Lebensgrosses Brustbild, fast en face, mit gepuderter Allongeperricke, in Panzer mit Ordensband und Hermelinmantel.
+
+Historisch interessantes,vorziglich ausgefuhrtes Bild.
+
+Leinwand. Hohe S3,Breite 63 Cent.
+## C.Witte (Breslau),
+
+## 165 Ansicht eines Schlosses.
+
+moderner Meister.
+
+Rechts und links der Park.
+
+Leinwand. Hohe 53, Breite 67 Cent.
+
+Bezeichnet: C.Witte,Breslau.
+
+## Wittenberger Schule des XVI. Jahrh.
+
+Brustbild des Reformators,leicht nach rechts gewandt. Gut ausgefuihrtes,interessantes Bild. Oben die Aufschrift:D *MARTINVS*
+
+Holz.Hohe 37,Breite 29 Cent.
+
+## 166 Bildniss Martin Luther's.
+
+LVTHERVS *.
+
+## 167 Thierstudie.
+
+## Wydemann,
+
+moderner Meister.
+
+Lebensgrosser Kopf eines Esels, im Profil nach rechts. Pappe. Hohe 52, Breite 43 Cent.
+
+## Conrad Zeller,
+
+## 168 Weiblicher Studienkopf.
+
+geb.zu Hirslanden bei Zirich 1807.
+
+Lebensgrosses Brustbild einer jungen Dame in Dreiviertel-Wendung
+
+Pappe. Hohe 45, Breite 32 Cent.
+
+nach rechts.
+
+## Reinhard Sebastian Zimmermann,
+
+## 169 Weibliches Bildniss.
+
+geb.zu Hagenau am Bodensee 1815.
+
+Lebensgrosses Brustbild einer niederlandischen Patricierfrau in pelz-
+
+Fleissig ausgefihrtes Bildniss,an die Arbeiten des Denner erinnernd.
+
+besetztem Gewande und weisser Haube mit Kragen.
+
+Hohe 41,Breite 321/e Cent.In Rahmen unter Glas.
+
+## Malereien hinter Glas.
+
+## 170 Flusslandschaft mit reicher Staffage.
+
+Hohe 32,Breite 41 Cent.
+
+Grosses Bild in Malerei hinter Glas in vorziglicher Ausfihrung.Treffliche Arbeit J. Spengler's in selten schoner Qualitat.
+
+- 171 Flusslandschaft mit Fischern in Kahn und Jagern.
+- Ebenso und von gleich sehoner Qualitat.
+
+Gleiche Grosse.
+
+- 172 Flusslandschaft mit grossem Castell und zu Markt ziehenden Bauern.
+- Ebenso.Ebenso. Gleiche Grosse.
+- 173 Seesturm. Ebenso. Ebenso.
+
+Hohe 19,Breite 25 Cent.
+- 174 Flusslandschaft mit grossem Dorf und Windmihle. Ebenso. Ebenso. Gleiche Grosse.
+
+- 175 Schaferscene in Boucher's Geschmack.
+
+Ebenso.Ebenso.
+
+Gleiche Groese.
+
+- 176 Zwei kleine Landschaften mit hubscher Figurenstafage. Ebenso.Ebenso. Hohe je 121l,Breite 18 Cent.2 Stick.
+
+- 177 Sauhatz. Ebenso. Ebenso. Hohe 18,Breite 25 Cent.
+
+- 178 Susanna im Bade,von den Alten uberrascht. Viereckiges Bild in Malerei hinter Glas.
+
+Hohe 19,Breite 27 Cent.
+
+- 179 Die Findung Mosis.
+
+Ebenso. Hohe 22,Breite 30 Cent.
+
+- 180 Huhnerhof.
+
+Ebenso. Interessant.
+
+Hohe 18,Breite 23 Cent.
+
+- 181 Jacobs Traum.
+
+Ebenso.
+
+Hohe 19,Breite 24 Cent.
+
+- 182 Kain und Abel.
+
+Ebenso.
+
+Hohe 18,Breite 24 Cent.
+
+- 183 Hirschjagd.
+
+Ebenso.
+
+Hohe 27,Breite 32 Cent.
+
+- 184 Hirschjagden.
+
+2Bilder.Ebenso,kleiner.
+
+Hohe 17,Breite 24 Cent. 2 Stiick.
+
+## 185 Tobias ringt mit dem Engel.
+
+Grosses Bild in Malerei hinter Glas in Gold und Silber auf schwarzem Grunde. Hohe 41,Breite 41 Cent.In mit Glas belegtem Rahmen.
+
+## Pastellbilder etc.
+
+- 186 Bildniss eines Malers.
+
+Lebensgrosses Brustbild mit Schnurr- und Knebelbart und lang herab-
+
+Hohe 41, Breite 32 Cent. In Rahmen unter Glas.
+
+fallendem Haare, in schwarzer Kleidung mit schlaff anliegendem Kragen. Gute Ausfihrung.
+
+- 187 Herumziehende Musikanten.
+
+Jugendliche Bettlerfiguren, der eine die Drehleyer spielend, der andere die Schalmei blasend.
+
+Hohe 38, Breite 27 Cent. In Rahmen unter Glas.
+- 188 Der hl. Johannes, das Evangelium schreibend. Nach dem bekannten Bilde des Dominichino. Hohe 33, Breite 28 Cent. In Rahmen unter Glas.
+- 189 Ludwig XiV. als jugendlicher Konig.
+
+Brustbild nach rechts, der Kopf mit Allongeperricke en face,im
+
+Harnisch mit blauem Ordensband und rothem Mantel. Gute Ausfihrung.
+
+Hohe 31,Breite 23 Cent. In Rahmen unter Glas.
+
+## 190 Bildniss des jugendlichen Rembrandt.
+
+Vorzigliche Ausfuhrung.
+
+Brustbild in braunem Gewande mit Halskragen und Kette, den Kopf mit dem Barett bedeckt.
+
+Hohe 37,Breite 27 Cent.
+
+- 191 Vier Darstellungen aus Paul et Virginie.
+- Hubsche Compositionen in guter Ausfuhrung. Aquarelle.
+
+Hohe 33,Breite 40 Cent. In Rahmen unter Glas. 4 Stiick.
+
+## 192 Madchen mit Lamm.
+
+Crayon-Zeichnung,theils in Farben. kl. fol. In Rahmen unter Glas.
+
+## Kupferstiche.
+
+- pinx. gr. qu. fol. Bis zum Rande beschnitten. Unter Glas in Rahmen.
+- 194 C. F. Boece, Le distilateur“ nach D. Teniers.
+- fol. Unter Glas in Rahmen.
+- 195 P. Bon,,Cries of London". Der Stuhlfechter. F. Wheatley pinx. fol. Unter Glas in Rahmen.
+- 196 J. B. Bullinger und andere, 8 Bll., meistens die Belagerungen von Zurich betreffend. Herausgegeben von der Gesellschaft der Constabler und Feuerwerker in Zurich 1732-1748.
+
+qu. fol. Aufgezogen hinter Glas. 8 Bll.
+
+- 197 D. Chodowiecki,12 Bll. Buch-Illustrationen. kl. 8o. Zusammen aufgezogen. Unter Glas in Rahmen.
+- 198 Cornilliet, "Raphael etudiant avec ses eleves des bas-reliefs anciens". Vauters pinx. Superber Abdruck mit vollem Rande.
+- 199 P. Cottin,"Deception".A. de Dreux pinx. Vorzuglicher Abdruck mit vollem Rande. Imp. qu. fol.
+- 200 Adversite". Der erlegte Hirsch und das fiegende Reh. Verlat pinx. Superber Abdruck mit vollem Rande. Imp. qu. fol.
+- 201 Bonheur".Hirschfamilie auf der Weide; nach ihm selbst. Sehr schoner Abdruck mit vollem Rande. Imp. qu. fol.
+- 202 Descourtis,Paul und Virginie". Schall pinx. Vortrefflicher englischer Buntdruck. qu.fol.
+- 203 F.Diday,Waldpartie bei Morat im Sturm". gr. qu. fol. Unter Glas in Rahmen.
+- 204 J. M. Fuestinus,Die Hebekunst".Herausgegeben von der Gesellschaft der Feuerwerker in Zurich 1723. Nebst vier Bll. desgl.auf die Kriegskunst vom Jahre 1772, 1778,1791 und 1794. qu.fol.5Bll.
+- 205 C. Gessner, 2 Blatt: Zwei liegende Hunde und zwei Kuhe an der Tranke* Sepiadruck. Breiter Rand. 2 Bl. qu. 4. In Rahmen unter Glas.
+- 206 J. Jacob Haid,Johannes Frisius, Zurcher Consul", Casp. Fuessli pinx. Schabkunstblatt. fol.Unter Glas in Rahmen.
+- 207 F. Holl,Sunshine Jugendliche blumenbekranzte Frauengestalt nach C.
+
+Sehr guter Abdruck mit vollem etwas wasserfeckigen Rande. fol.
+
+- Baxter.
+- 208 Jazet, Les illusions perduesnach Gleyre. Abfahrendes Boot mit singenden Madchen; am Ufer ein alter Barde.
+- Vorziglicher Abdruck mit vollem Rande. Imp. qu. fol.
+- 209 Thomas Landseer,Browsing.Weidender Hirsch mit Rehen, nach Edwin
+
+Sehr schoner Abdruck mit vollem Rande. Imp. qu. fol.
+
+- Landseer.
+- 210 The Indian tent". Stute und Fohlen im Stall. Edwin Landseer pinx. Vorziglicher Abdruck mit breitem Rande. Imp. qu. fol.
+- 211 The monarch of the glen". Hirsch im Hochgebirge. Edwin Landseer pinx. Prachtiger Abdruck mit vollem Rande.Imp. fol.
+- 212 一
+- Das goldene Zeitalter".The lion and lamb. Edwin Landseer pinx. Vortrefflicher Abdruck.Imp. qu. fol. Mit breitem,etwas eingerissenem Rande.
+- 213 A. Ledoux, Der zwolfjahrige Mozart, seine erste Messe dirigirend. Hille
+
+Superber Abdruck mit vollem Rande. Imp. qu. fol.
+
+- macher pinx.
+- 214 Alfred Lucas,Defiance". Hirsch mit zwei Hunden im Wasser. Edwin Landseer p.
+
+Prachtiger Abdruck mit vollem Rande. Imp. qu. fol.
+
+- 215 G. Luderitz,,Die Nahschule", nach B. Vautier. Herrlieher Abdruck mit vollem Rande. Imp. fol.
+- 216 Alphonse Martinet,,Allein auf dem Rendez-vous". A. de Dreux pinx. Sehr schoner Abdruck mit vollem Rande. Imp. qu. fol.
+- "Le Retour au chateau“.Reiterin und zwei Hunde. Alfred de Dreux
+
+Vorziglicher Abdruck mit vollem Rande.
+
+- 217— pinx.
+- 218 L. Massard,"Die Verlobung“nach Anton Dieffenbach.
+- Superber Abdruck mit vollem Rande. Imp. qu. fol.
+- 219 Chas. Mottram,The straits of Ballachulis". Rinderheerde, einen Fluss
+- Vorziglicher Abdruck mit vollem Rande. Imp. qu. fol.
+- durchschwimmend.Rosa Bonheur p.
+- 220 Chas. Mottram und L. Lowenstam, Les longs Rochers de Fontainebleau",
+- nach Rosa Bonheur 1875.
+
+Gegenstick zum Vorigen. Ebenso sehon. Imp. qu. fol.
+
+- 221 Fr. Oldermann,Friedrich Wilhelm IV. in seinem Arbeitszimmer". F.
+- Kriger pinx. gr. fol. Unter Glas in Rahmen. Rand ctwas wasserfeckig.
+- 222 Rud. Rahn, Das Hirtenmadchen unter ruhenden Schafen“. Koller p. Berner
+- K.V.B. fur 1865. fol.Gerahmt.
+- 223 R. Rahn u. A. Schleich,Reinecke Fuchs", von Goethe, mit Zeichnungen von W.von Kaulbach. Munchen 846. Rother Safian-Lederband mit Goldpressung. gr.4.
+- 224 Wilh. Rohr, Kriegsgesang der Kosaken.“ Jos. Brandt pinx.
+- Superber Abdruck mit breitem Rande.Lang qu.fol.
+- 225 Joh. Georg Seiller,Die Passion"in 28 Bll. kl. 8. Schaffhausen 1726. Zusammen aufgezogen. Unter Glas in Rahinen.
+- 226 W. H. Simmons, ,The dawn of love". Die inhaltreiche Frage. Thom.
+- Brooks pinx. gr.fol. Unter Glas in Rahmen.
+- 227 F. Stacpoole,"Das Abschiedsmahl". The farewell caress. C. B. Barber pinx. Sehr schoner Abdruck mit breitem Rande. Imp. qu. fol.
+- 228 Unbekannt,Heimkehr der Fischer im Sturm“.
+- 229
+- gr. qu. fol. Unter Glas in Rahmen.
+- colorirt.
+
+In Rahmen unter Glas. qu.4.
+
+- 230 N. J.Voyez, 3 Bll. ,Weibliche Kopfe in Medaillons: Der Wunsch, die Verwunderung und die ZartlichkeitLe Brun pinx. Gute Abdricke mit vollem Rande. 3 Bll.
+- 231 Wagner,Vier Heilige, darunter Sebastianus und Rochus vor der Statue
+- des hl. Paulus, nach Titian. fol.mit breitem Rande unter Glas in Rahmen.
+- 232 Walch,20 Blatt Schabkunstblatter,Zurcher Consules darstellend. 20 Bll.kl.fol.Unter Glas.
+- Schoner englischer Buntdruck in Oval. fol.
+- 234 G. Zobel, "Laying down the law". Hunde, um einen Pudel versammelt. E.Landseer pinx.
+
+Gutes Sehwarzkunstblatt. gr. qu. fol. Unter Glas in Rahmen.
+## Lithographieen, Oeldrucke, Photographieen und
+
+## Convolute.
+
+- 235 A. Calame, 13 Bll. Lithographieen nach A. Calame.
+- fol.13 Bll.
+- 236 Gustav Frank, Ansicht von Nurnberg"
+- 237 Julien,3 Bll. jugendlicher Frauengestalten,Halbfiguren. Nebst 1 desgleichen in Buntdruck von Lafosse. gr.fol.4 Bll.
+- gr. qu. fol. In Rahmen unter Glas.
+- 238 Et. Lassalle, ,Napoleon I. nach der Schlacht von Waterloo". Lebensgrosses Brustbild nach dem bekannten Bilde des P.Delaroche. Colorirte, dadurch sehr wirkungsvolle Lithographie. Hohe 65, Breite 49 Cent. In Rahmen unter Glas.
+- fol.Unter Glas in Rahmen.
+- 239 Maute,,Waldlandschaft mit Hirschfamilie“.
+- 240 Pestalozzi, Lithographie nach Schoner.
+- In Rahmen unter Glas.
+- 241 A. Strassgschwandtner, 4 Bll. ,Jagddarstellungen“. Buntdruck.
+- qu.fol.4 Bll.
+- 242 Harrison Weyr,,The Christmas carol Singer". Engl. Buntdruck. Rund.
+- Unter Glas in Rahmen.
+- Vortrefflich colorirte Lithographie. gr. qu. fol.
+- 245 Zwei Blatt Ansichten schweizerischer Stadte. Vortrefflich colorirte Drucke, einer bez.mit A. M. qu. fol. Unter Glas in Rahmen. 2BIl.
+- 244 一 Vier Bll. Landschaftliche Darstellungen, Stadte-Ansichten etc. Vortrefflich colorirte Lithographieen. gr. qu.fol. Unter Glas in Rahmen. 4 Stick.
+- 246 Die Heimkehr vom Nicolausmarkt" nach H. Kretzschmer. Oeldruck. Hohe 54,Breite 65 Cent.
+- 247 Die Heimkehr von der Kirchweih" nach H. Krctzschmer. Gegenstick. Gleiche Grosse.
+- 248 "Winterlandschaft", Oeldruck,nach Hilgers. Hohe 43,Breite 63 Cent.
+- 249 Napoleon I., die Verwundeten besuchend", nach Bellange, Oeldruck.
+- 一 Hohe 52,Breite 64 Cent.
+- 250 Nach L. Knaus. Die hl. Familie“
+- Vorziigliche grosse Photographie.Imp. fol.
+- 251 Nach B. Vautier. ,Ein Zweckessen auf dem Lande." Superbe, grosse Photographie. Imp. qu. fol.
+- 252
+- "Gang zur Civiltrauung". Ebenso.Ebenso.
+- 253 Goupil. Le depart du bataillon."A. de Neuville pinx. 1879. Imp. fol. Photogravire. Auf chinesischem Papier mit vollem Rande.
+
+254 19 Stick Photographieen nach Gemalden. In eleganter Leinwandmappe.
+
+255 Convolut, enthaltend 15 Blatt Kupferdrucke, meist Kopfe. 15 Bll.
+
+256Enthaltend 19 Blatt Kupferstiche verschiedenen Inhalts. 19 Bll.
+
+257 一 Enthaltend 36 Bll. Kupferstiche religiosen Inhalts. 36 Bll.
+
+- 258 一 Enthaltend 39 Bll.landschaftliche Darstellungen. Kupferdrucke. 39 Bll.
+- 259 一 Enthaltend 23 Bll. Kupferstiche und Lithographieen, meist Architekturen. 23Bll.
+- 260 —Enthaltend 80 Bll. Kupferstiche und Lithographieen, Genre-Darstellungen, Allegorie etc. 80 Bll.
+- 261 -Enthaltend 9 Bll. landschaftliche Darstellungen etc. in Buntdruck. gr.qu. fol. 9 Bll.
+
+262 —Enthaltend 7 Blatt Kupferstiche, figurliche Darstellungen nach der Antike.
+
+fol.7Bll.
+
+- 263 Sammel-Album, enthaltend 108 Lithographieen, Buntdrucke, Handzeichnungen etc., meist landschaftlichen Inhalts. In gepresstem Lederband. gr. qu. fol.
+- 264 —Enthaltend 99 Kupferstiche,Aquarelle etc. berihmter Ansichten aus der Schweiz,Italien,Frankreich etc. qu.fol. Gepresster Leder-Einband.
+- 265 Album,enthaltend 55 Bll. Stahlstiche, Kupferdrucke,Aquarelle etc. In Sammet-Einband mit Golddruck und Eckbeschlagen.
+
+<!-- image -->
+II.Abtheilung.
+
+## Kunstsachen und Antiquitaten.
+<!-- image -->
+
+## Waffen.
+
+## Rustungen und Ruistungstheile.
+
+- 266 Deutsche Halbristung in blankem und zum Theil geschwarztem Eisen; der Panzer mit stark vorgeschobener Gansebauchgrate und mit anhangenden Krebsschwanzen, der breite zugespitzte Kragen mit langen Oberarmschienen, die gegliederten Fausthandschuhe mit langem Stulp, der geschlossene Helm mit gitterformig durchbrochenem Visir und rundem wulstformigen Kamm. Gute Rustung. XVI. Jahrh.
+
+Hohe 110 Cent.
+
+- 267 Halbristung in blankem Eisen; der Panzer mit sanft gewolbter Gansebauchgrate mit kurzem Vorderschurz und anhangenden Krebsschwanzen; der spitz zulaufende Halskragen mit eng gegliederten Oberarmschienen; der offene Helm mit seitlichen Ohrklappen,hohem Kamm und vorspringendem Augenschutz.Gute Ruistung.XVI. Jahrh.
+- 268 Halbristung in gleicher Ausfihrung.
+
+Hohe 110 Cent.
+
+Gleiche Grosse.
+
+- 269 Halbristung in geschwarztem und zum Theil polirtem Eisen; der fache Panzer mit Vorderschurz mit anhangenden Krebsschwanzen, die wie die Oberarmschienen mit polirten Messingnigeln beschlagen; der offene Helm mit fachem Kamm, grossem weit vorspringenden Augenschirm und seitlichen Wangenklappen. Gute Rustung. XVI. Jahrh.
+
+Hohe 110 Cent. Rickstick fehlt.
+
+- 270 Halbristung in blankem Eisen, bestehend aus Panzer, geschobenen Krebsschwinzen,Oberarmschienen,Halskragen und offener Sturmhaube mit hohem Kamm, grossen Ohrklappen und weit vorspringendem Augenschirm. Gute Rustung. XVIl. Jahrh.
+
+Hohe 100 Cent.
+- 271 Halbristung in blankem,t theils geschwarztem Eisen; das Bruststick getrieben mit herzformigen Canneluren, der Halskragen, Bein- und Armschienen getrieben mit breiten Bindern, der offene Helm mit hohem Kamm und Augenschirm. XVII. Jahrh.
+
+Hohe 100 Cent. Riickstick fehlt.
+
+- 272 Halbrustung in blankem 1 Eisen; der Panzer mit schwach vortretender Gansebauchgrate; der Unterschurz mit anhangenden breiten Krebsschwanzen reich mit Kupfernageln beschlagen, Halsberge mit langen Achselsticken, schlagen, die offene Burgunderkappe, eng cannelirt,mit langem Nackenschutz,seitlichen Ohrklappenund weit vorspringendem Augenschirm. Schone Ruistung von bester Erhaltung. XVIl. Jahrh.
+
+Hohe 105 Cent.
+
+- 273 Morion mit hohem Kamm, mit aufgesetzten Messingrosetten,iberaus reich
+- geatzt und gravirt mit dem Opfer Abraham's, Ritterfiguren, figuralem Blumenund Ornamentwerk, ganz im Stile des XVI. Jahrh.
+
+Hohe 32 Cent.
+
+- 274 Sturmhaube mit hohem Kamm mit Federbuschhulse, der Rand in Kordel fechtmusterung getrieben. XVIl. Jahrh. Hohe 38 Cent.
+- schirm; die Kanten polirt. XVII. Jahrh.
+- Lange 23 Cent.
+- 276 Pappenheimer Kappe mit zwei seitlichen hohen Flugelansatzen. XVIl. Jahrh. Lange 40 Cent.
+- 277 Ein Paar Oberarmschienen in geschwarztem Eisen, die Kanten in polirtem Eisen, getrieben mit Ornamentbordire. XVIl. Jahrh. Lange 35 Cent.
+- 278 Ein Paar Fausthandschuhe in blankem Eisen mit geschobenen, theils wulstformig getriebenen Schienen und hohen Stulpen. XVI. Jahrh. Lange 38 Cent.
+- 279 Nachbildung eines Ritterhalskragens, im Stile des XVI. Jahrh. Auf der Flache Reiterkampf. Hohe 26,Breite 23 Cent.
+- 280 Officiersschild. Bronzeguss, mit dem gekronten Monogramm Friedrich's des Grossen. Lange 11, Breite 10 Cent.
+- 281 Bruststick eines Panzers in schwerem Eisen, wenig gravirt. XVI. Jahrh. Hohe 40,Breite 35 Cent.
+- 282 Bruststuck eines Panzers mit stark vortretender Gansebauchgrate in schwerem Eisen. XVI. Jahrh. Lange 35 Cent.
+- 283 Nachbildung eines altitalienischen Prunkschildes in Eisenguss. Lange 70, Breite 55 Cent.
+- 284 Nachbildung eines altitalienischen Prunkschildes aus der Ambraser Sammlung, das Mittelfeld mit mythologischer, figurenreicher Darstellung. Diam.58 Cent.
+## Hellebarden,Partisanen, Streitaxte etc.
+
+- 285 Gothische Hellebarde mit kurzem breiten Spiess, axtformigem, mit Kreuz durchbrochenen Beil und kurzem Haken mit Waffenschmiedsmarke. Schones
+
+Lange 82 Cent.Holzschaft.
+
+- Stuck. XV. Jahrh.
+- 286 Gothische Hellebarde mit kurzem breiten Spiess,kreuzformig durchbrochenem Beil und rechtwinklig gestelltem Haken.Mit Waffenschmiedsmarke. Sehr
+- gutes Stuck.XV. Jahrh.
+
+Lange 76 Cent. Holzschaft.
+
+- 287 Gothische Hellebarde mit kurzem vierkantigen Spiess, geschragtem axtformigen Beil und kurzem Haken mit Waffenschmiedsmarke.Anfang XVI. Jahrh.
+
+Lange S5 Cent.
+
+- 288 Hellebarde mit langen vierkantigen sich nach unten erbreiternden Spiess. Das geschragte Beil und der kurze Haken gelocht. XVI. Jahrh. Lange 105 Cent. Holzschaft.
+- 289 Hellebarde mit langem vierkantigen Spiess, breitem geschragten Beil mit Waffenschmiedsmarke und spitzem gebogenen Haken. XVI. Jahrh.
+- Lange 75 Cent.
+- 290 Hellebarde mit schwerem vierkantigen Spiess, axtformigem Beil und kurzem
+
+Lange 74 Cent.Holzschaft.
+
+- Haken; die Schaftbander gefammt. XVI. Jahrh.
+- 291 Hellebarde mit verborgenem Ronsart, die Hellebarde und der Haken durchbrochen ornamentirt, der hohle Schaft Eisen; aus demselben schnellt durch einen Druck auf eine Feder ein schwertformiger Spiess hervor. Interessantes
+- Stuck. XVI. Jahrh.
+
+Lange 170 Cent.
+
+- 292 Hellebarde mit langem vierkantigen Spiess, das ausgeschweifte Beil gelocht,
+- der lange Haken mit Waffenschmiedsmarke. XVI. Jahrh.
+
+Lange 125 Cent. Holzschaft.
+
+- 293 Hellebarde mit langem vierkantigen Spiess, das halbmondformig ausgeschweifte Beil mit Kreuzdurchbrechung, der spitze Haken mit volutenformig gebogenem Ansatz. XVI. Jahrh.
+
+Lange 85 Cent.
+
+- 294 Hellebarde mit langem vierkantigen Spiess, das halbmondformig ausgeschweifte Beil und der spitze Haken mit Kreisdurchbrechung und Ornamentgravirung. Schones Stick. XVI. Jahrh.
+
+Lange 75 Cent. Holzschaft.
+
+- 295 Hellebarde mit vierkantigem Spiess, halbmondformigem Beil und spitzem
+- Haken. XVI. Jahrh.
+
+Lange 75 Cent. Holzschaft.
+
+- 296 Hellebarde mit breitem blattformigen Spiess mit hoher,in die runde Tulle verlaufender Mittehrippe; das halbmondformig ausgeschweifte Beil und der
+- spitze Haken mit Kreisdurchbrechungen. XVI. Jahrh.
+
+Lange 82 Cent. Holzschaft.
+- 297 Hellebarde mit breitem blattformigen Spiess, das geschweifte Beil mit Herzdurchbrechungen, der Haken mit Fischblase durchbrochen. XVI. Jahrh. Lange 78 Cent. Holzsehaft.
+- 298 Hellebarde mit breitem blattformigen Spiess, das geschragte Beil mit KreuzOrnament, der gebogene Haken mit Fischblasen-Ornament durchbrochen. XVI. Jahrh.
+
+Lange 65 Cent.
+
+- 299 Hellebarde mit breitem blattformigen Spiess, das axtformige Beil mit A,
+- der Haken mit Fischblase durchbrochen. XVI. Jahrh.
+
+Lange 75 Cent. Holzschaft.
+
+- breitem fachen Beil und langem spitzen Haken,in Messing tauschirt mit Mascarons, Palmetten etc.
+
+Lange 98 Cent. Holzschaft.
+
+- 300 Hellebarde mit langem lanzettformigen Spiess, XVII. Jahrh.
+- Kreisdurchbrechung, der lange Haken ausgeschweift und nach unten gebogen.
+- XVII. Jahrh.
+
+Lange 95 Cent.
+
+- 302 Hellebarde mit breitem blattformigen Spiess, kleinem ausgeschweiften Beil
+- und Haken. XVII. Jahrh.
+
+Lange 54 Cent. Holzschaft.
+
+- 303 Schweizer Hellebarde mit langem dreikantigen Spiess, das Beil durchbrochen mit T,der gekrimmte Haken mit Fischblasen-Ornament. XVI. Jahrh.
+- 304 Hellebarde, ganz ahnlich,ebenso.
+
+Lange 60 Cent.
+
+Gleiche Grosse.
+
+- 305 Partisane mit breitem blattformigen Spiess,auf Halbmond stehend, reich XVII. Jahrh.
+
+Lange 74 Cent.
+
+- 306 Partisane mit breitem blattformigen Spiess, der, wie die halbmondformig die profilirte Tulle mit Widerhaken. XVII. Jahrh. Lange 65 Cent. An geschupptem Holzschaft.
+- 307 Partisane mit breitem blattformigen Spiess, auf halbmondformiger Basis
+- stehend, in Gold tauschirt mit Kriegerfigur und Waffentrophae. XVII.Jahrh. Lange 65 Cent.Holzschaft.
+- Spiess, auf halbmondformig a ausgeschweifter Basis stehend, die reich gravirt mit Waffentrophae; die runde
+
+Lange 32 Cent.
+
+- 308 Partisane mit langem vierkantigen Tulle proflirt. XVIl. Jahrh.
+- 309 Partisane in Art der Hellebarden; der breite blatformige Spiess geatzt mit Rankenwerk und Waffentrophae. Mit Resten von Vergoldung. XVII. Jahrh. Lange 75 Cent. Holzschaft.
+- 310 Partisane mit breitem lanzettformigen Spiess, auf halbmondformig ausge-
+
+Lange 55 Cent.
+
+- schweifter Basis stehend, die runde Tulle proflirt. Ende XVIl. Jahrh.
+- 311 Partisane mit breitem blattformigen Spiess, auf halbmondformig ausgeschweifter Basis stehend, iberaus reich gravirt mit Kriegerfigur und Waffentrophae, die Tulle profilirt. Schones Stick. Ende XVII. Jahrh.
+- 312 Partisane, der breite Spiess,auf zwei gegeneinander gestellten Halbmonden stehend, gravirt mit Blumenstauden. XVIII. Jahrh.
+
+Hohe 70 Cent. Holzschaft.
+
+Lange 49 Cent. Holzschaft.
+
+- 313 Sponton mit breitem blattformigen Spiess; die runde Tulle profilirt und mit S-formigen Hakenansatzen. Ende XVII. Jahrh.
+- 314 Sponton mit breiter lanzettformiger Klinge, auf reich proflirter Tulle, mit
+
+Lange 70 Cent. Holzschaft.
+
+- S-formig gebogenen Hakenansatzen. XVill. Jahrh.
+- 315 Sponton, ebenso.
+
+Lange 85 Cent.
+
+Gleiche Grosse.
+
+- 316 Sponton mit breitem lanzettformigen Spiess, aus prohlirter Tulle erwachsend.
+
+Lange 75 Cent. Holzschaft.
+
+- XVIII. Jahrh.
+2. 317 Schweizer Morgenstern, der lange Holzschaft in eine birnformige Keule
+
+Lange 220 Cent.
+
+- mit spitzen Eisenzacken auslaufend. XV. Jahrh.
+- 318 Schweizer Morgenstern, ahnlich. Gleiche Grosse.
+- setzten Eisenstacheln.XV.Jahrh.
+- 319 Schweizer Morgenstern, lange Holzkeule mit oberem Spiess und einge-
+
+Lange 180 Cent.
+
+- 320 Schweizer Morgenstern, ahnlich. Gleiche Grosse.
+- 321 Luzerner Streithammer mit langem vierkantigen Spiess; der Hammer mit
+
+Lange 95 Cent.
+
+- Zacken, das Beil in langer Schnabelform. XVI. Jahrh.
+- 322 Streitaxt mit hammerformigem,in eine breite Schneide auslaufendem Beil und achtfach abgefachtem Stiele, ganz in Silber tauschirt mit uppig ver schlungenen Laubranken, schraffrten Ornamentfriesen etc. Schones Stuck.
+
+Linge 40 Cent.
+
+- XVII. Jahrh.
+2. 323 Parade-Axt eines sichsischen Bergknappen, sogen.Bergbarthe", die Axt mit breit zulaufender Schneide und mit Kleeblatt-Durchbrechung, der Schaft,
+3. und Jahreszahl 1683.
+
+Lange 85 Cent.
+- 324 Parade-Axt, ahnlich; der Schaft, ganz verbeint, iberaus reich gravirt mit Christus am Kreuze und figurenreichen Darstellungen aus dem Bergmannsleben. Schones Stuick. XVII. Jahrh.
+
+Linge SO Cent.
+
+- 325 Franzosischer Streitkolben im Stile des XVI. Jahrh.: der Schaft schrauben-
+- formig gedreht, in fugelformige spitze Zacken auslaufend.
+
+Linge 60 Cent.
+
+- 326 Streitkolben, der runde Schaft an dem unteren Ende schraubenformig gedreht, die obere Partie mit vorspringenden Rippen und Stacheln. XVI.
+
+Lange 63 Cent.
+
+- Jahrh.
+- 327 Schweizer Bauernwaffe in Art der Partisane, mit breitem Spiess und kurzem
+- gebogenen Haken. XVII. Jahrh.
+
+Lange 15 Cent.
+
+- XVII. Jahrh.
+2. 328 Jagdspiess mit lanzettformigem Eisen mit hoher Mittelrippe. Lange S6 Cent. Holzsehaft.
+3. 329 Speer mit blattformigem Eisen, aus einem mit Akanthusblatt-Verzierungen geschnittenen Capital erwachsend. Der runde Schaft geitzt mit Palmetten und mit Resten von Goldtauschirung. XVI. Jahrh.
+
+## Schwerter und Sabel.
+
+- 330 Schweizer Zweihander (Flammberge).I Die breite zweischneidige Klinge an der Wurzel mit langen Widerhaken versehen, die kreuzformige Parirstange mit Lilien-Endigungen, der Griff beledert. XVI. Jahrh.
+
+Lange 65 Cent.
+
+Linge 180 Cent.
+
+- 331 Schwert, die schmale zweischneidige Klinge mit zwei Blutrinnen, der muschelformige Handschutz durchbrochen mit Palmetten, die kreuzformige Parirstange und der Knopf mit Rosetten geschnitten, der Griff mit Eisen-
+- draht umfochten. XVI. Jahrh.
+
+Lange 105 Cent.
+
+- 332 Schwert, die Ruckenklinge mit tiefer Blutrinne, die Parirstange S-formig gebogen und mit Eselshuf, der Knopf gekantet. XVIl. Jahrh.
+
+Lange 105 Cent.
+
+- Das Stichblatt siebformig 333 Schwert mit breiter zweischneidiger Klinge. durchbrochen, die Parirstange S-formig gebogen und in rosettenformig ornamentirte Knopfe auslaufend, der Griff mit Draht umfochten. XVIl. Jahrh. Hohe 100 Cent.
+- 334 Schwert, die Ruckenklinge mit zwei tiefen Blutrinnen, mit der Signatur Andrea Farara",d der grosse muschelformige Handschutz und der runde Knopf durchbrochen ornamentirt, der Griff mit Draht umfochten. XVII. Jahrh.
+- Lange 98 Cent.
+- 335 Schwert, die zweischneidige Klinge mit funf Blutrinnen mit der Signatur
+- "Thiell Keuller Me fecit Solingen", der halbkugelformige Handschutz gitter-
+formig durchbrochen, der birnformige Knauf gerippt, der Griff mit Draht umfochten. XVIl. Jahrh.
+
+Linge 93 Cent.
+
+- 336 Schwert, die Ruckenklinge mit Resten von Gravirung, der muschelformige Handschutz siebformig durchbrochen. XVIl. Jahrh.
+- 337 Schwert, die Ruckenklinge gravirt mit Spruch, Tauben und Jahreszahl 1661; die Parirstange Sformig gebogen, der herzformige Knauf mit Palmetten geschnitten.
+
+Lange 90 Cent.
+
+Lange 105 Cent.
+
+- 338 Korbschwert mit breiter zweischneidiger Klinge,der Korb gegliedert mit siebfomig durchbrochenem Stichblatt, der Griff Holz, eng gerippt. XVII.
+
+Lange 100 Cent.
+
+- Jahrh.
+- 339 Korbschwert mit wenig gebogener Ruckenklinge, das Stichblatt durch-
+
+Lange 88 Cent.
+
+- brochen ornamentirt, der Korb eng gegliedert. XVII. Jahrh.
+- 340 Schwert mit breiter zweischneidiger Klinge, die gravirt mit der Reiterfigur Karl's VI., Doppeladler und Jahreszahl 1730; die Parirstange S-formig gebogen, das herzformige Stichblatt mit Sternen und Kreisen durchbrochen, der
+
+Lange 105 Cent.
+
+- fache Knauf mit Palmetten geschnitten.
+- 341 Korbschwert, die zweischneidige Klinge gravirt mit der Jahreszahl 1734, der Korb gegliedert, das Stichblatt mit Rankenwerk durchbrochen, der
+
+Lange 98 Cent.
+
+- Griff mit Eisendraht umfochten.
+- 342 Schwert, die gefammte Klinge gravirt mit dem Brustbilde Friedrich August's und Waffentrophae, die Parirstange S-formig gebogen, der Knauf
+
+Linge 106 Cent.
+
+- mit kleeblattformigen Endigungen, der Griff mit Draht umfochten.
+- 343 Cermonienschwert, Zweihander, mit breiter facher Klinge, gerader Parirstange und schraubenformig gedrehtem Knauf.
+
+Lange 110 Cent.
+
+- 344 Schwert. Die zweischneidige Klinge gravirt mit Waffentrophae, der Griff gekantet,der Griff mit Draht umfochten.
+
+Lange 94 Cent.
+
+- 345 Schwert mit zweischneidiger Klinge, der Handschutz durchbrochen ornamentirt und ciselirt mit Rankenwerk und Frauenbiste, der Griff mit Draht
+
+Linge 90 Cent.
+
+- umflochten.
+- 346 Sabel mit wenig gekrimmter Ruckenklinge, gravirt mit Jahreszahl 1689; der Handschutz getrieben mit Hirsch, der Korb gegliedert. XVII.Jahrh. Lange 96 Cent.
+- 347 Sabel, die zweischneidige Klinge mit tiefer Blutrinne,in der die Signatur:
+
+Lange 94 Cent.
+
+- 348 Sabel mit gebogener Ruckenklinge, der Griff mit Draht umfochten, der Knopf Bronze, geschnitten mit Lowenkopf. XVIl. Jahrh.
+
+Lange 70 Cent.
+
+- 349 Sabel, die lange, zweischneidige Klinge mit hoher Mittelrippe, gravirt mit Kriegerbusten und Laubverschlingungen, der Handschutz getrieben mit Lange 112 Cent.
+- die Stichplatte getrieben mit Palmetten. XVII.Jahrh.
+
+Lange 105 Cent.
+
+- 351 Sabel mit stark gebogener Ruckenklinge, der Handschutz getrieben mit Blumenwerk, der Griff mit Draht umfochten. XVIIl. Jahrh.
+
+Lange 85 Cent.
+
+- 352 Pandurensabel, die gekrimmte Rickenklinge mit orientalischen Charakteren, der Griff Horn, mit gravirtem Silberbeschlag.
+
+Lange 66 Cent.
+
+- 353 Pandurensabel, die Ruckenklinge gravirt mit Halbmond und Sternen,
+
+Lange 65 Cent.
+
+- Waffentrophae etc., der Griff Hirschhorn. XVIII. Jahrh.
+- 354 Pandurensabel, die gekrimmte Ruckenklinge gravirt mit Panduren,Wappen Griff in Elfenbein, schraubenformig gedreht.
+
+Lange 64 Cent.
+
+- figuren und Spruchen, das Stichblatt getrieben mit Palmetten, der Griff
+
+Lange 108 Cent.
+
+- beledert.XVIII. Jahrh.
+- 356 Ungarischer Reitersabel, ahnlich. Gleiche Grosse.
+- 357 Ungarischer Reitersabel, die Ruckenklinge gravirt, der Korb Messing,der Knopf mit vollrundem Lowenkopf.
+
+Lange 85 Cent.
+
+- 358 Krummsabel mit tiefer Blutrinne und siebformig durchbrochenem Stichblatt, der Griff Horn mit Kupfernigeln beschlagen.
+
+Lange 105 Cent.
+
+- 359 Reitersabel, die gekrummte Ruckenklinge mit tiefer Blutrinne,der Korb gegliedert und mit Eisendraht umfochten.
+
+Lange 95 Cent.
+
+- 360 Reitersabel mit zweischneidiger Klinge, der Korb eng gegliedert. Lange 95 Cent.
+- 361 Schwerer Reiterpallasch mit Ruckenklinge,breitem durchbrochenen Hand schutz,der Griff beledert.
+- 362 Zwei Sabelklingen, geatzt mit Rankenwerk. Eine mit Jahreszahl 1414.
+
+Lange 110 Cent.
+
+- Lange 80 und 94 Cent.2 Stuiek.
+
+## Hirschfanger und Degen.
+
+- 363 Jagdschwert, die breite zweischneidige Klinge geatzt mit Rankenwerk,
+- Lange 70 Cent.
+- Jagdthieren und Jahreszahl 1430, der Griff Horn, schraubenformig gedreht.
+- 364 Hirschfanger, die Ruckenklinge gravirt mit Jagdthieren, der Griff Hirsch
+
+Lange 90 Cent.
+
+- 365 Hirschfanger, die Ruckenklinge mit tiefer Blutrinne, der Grif Hirschhorn,
+- mit muschelformigem Handschutz und mit Eisennageln beschlagen. XVII. Jahrh.
+
+Lange 77 Cent.
+
+- 366 Hirschfanger, die Ruckenklinge gravirt mit Jagdthieren, der Griff Hirschhorn, die Fassung Bronze, ornamentirt mit Apollo auf dem Parnass, Jagd-
+
+Lange 73 Cent.
+
+- darstellungen etc. XVII. Jahrh.
+- 367 Hirschfanger, der Grif Hirschhorn, in Messing montirt und reliefrt mit
+
+Linge 55 Cent.
+
+- Jagddarstellung. XVIl. Jahrh.
+- 368 Hirschfanger, die Rickenklinge gravirt, der Griff Hirschhorn,mit muschel formigem Handschutz in Messing.
+
+Linge 82 Cent.
+
+- 369 Hirschfanger, die gebogene Ruckenklinge gravirt mit Rankenwerk, der
+
+Linge 75 Cent.
+
+- Handschutz Bronze,mit vollrunder Jagerstatuette.
+- 370 Hirschfanger, die Ruckenklinge gravirt mit Rankenwerk und Jagdthieren, der Griff Hirschhorn; Handschutz und Bigel ciselirt mit Jagddarstellung.
+- Linge 73 Cent.
+- 371 Hirschfanger, die Ruckenklinge gravirt mit Jagdthieren und Spruch, der muschelformige Handschutz Bronze, ciselirt mit Lowenkampf, der Griff Hirschhorn.
+
+Lange 65 Cent.
+
+- 372 Rococo-Hirschfanger, die Ruckenklinge gravirt mit Jagddarstellungen auf vergoldetem Grunde, der muschelformige Handschutz und der Bugel ciselirt mit Jagddarstellungen, der Griff mit Schlangenhaut bezogen.
+
+Lange 64 Cent.
+
+- 373 Hirschfanger, die Ruckenklinge gravirt mit Waffentrophae auf blau angelaufenem Grunde, der Griff Eifenbein mit ciselirtem Silberbeschlag.
+
+Linge 63 Cent.
+
+- horn. XVIl.'Jahrh.
+- 374 Hirschfanger mit breiter zweischneidiger Klinge, muschelformigem Hand schutz und S-formig gebogener Parirstange, der Griff Horn.
+
+Linge 63 Cent.
+
+- 375 Hirschfanger, gravirt mit Jagdthieren; der Handschutz Bronze, ciselirt mit Vogelfiguren; der Griff Horn, mit Messingnageln beschlagen. Lange 60 Cent.
+- 376 Hirschfanger, die gekrummte Ruckenklinge mit tiefer Blutrinne, der muschel formige Handschutz sowie der Bigel Bronze, ciselit mit Jagddarstellung; der Griff Horn.
+
+Lange 62 Cent.
+
+- 377 Hirschfanger, die Klinge mit tiefer Blutrinne, der Grif Hirschhorn.
+- Linge 60 Cent.
+- 378 Degen, die Klinge gravirt mit Spruch und Rankenwerk, der Griff und das Stichblatt durchbrochen ornamentirt mit Puttenfiguren ete. XVII. Jahrh.
+- 379 Degen,ahnlich.
+
+Lange 95 Cent.
+
+Linge 90 Cent.
+
+- 380 Degen mit langer dreikantiger Klinge, das Stichblatt siebformig durchbrochen,
+
+Lange 100 Cent.
+
+- der Knopf eng cannelirt. XVIII. Jahrh.
+- 381 Degen, die dreikantige Klinge gravirt auf blau angelaufenem Grunde.
+
+Lange 85 Cent.
+
+- XVIII. Jahrh.
+2. 382 Rococo-Degen mit schmaler vierkantiger Klinge, der Griff Bronze, ornamentirt. Lange 81 Cent.
+3. 383 Degen, die vierkantige Klinge durchbrochen ornamentirt und mit Resten von Vergoldung,der Griff Stahl.
+
+Lange 85 Cent.
+
+- 384 Degen mit schmaler vierkantiger Klinge, der Griff Messing, versilbert.
+- 385 Drei kleine Degen, einer fragmentirt. Linge 58 Cent.
+
+## Dolche.
+
+- 386 Dolch, die Klinge mit Jahreszahl 1579,Griff und Scheide Silber, ciselirt und getrieben mit ippigem Rankenwerk.
+
+Lange 88 Cent.
+
+Linge 35 Cent.
+
+- 387 Deutscher Dolch mit breiter zweischneidiger Klinge,kreuzformiger Parirstange,der Griff beledert.XVII. Jahrh.
+
+Lange 38 Cent.
+
+- 388 Dolch,Panzerbrecher,mit schwerer zweischneidiger Klinge,die kreuzformige Parirstange mit kugelformigen Endigungen, die durchbrochen ornamentirt, Lange 38 Cent.
+- 389 Dolch, die messerformige Klinge in Messing tauschirt; der Griff Bronze in einen Vogelkopf auslaufend; die Scheide Messing, getrieben mit Rankenwerk. Lange 46 Cent.
+
+Linge 38 Cent.
+
+- 390 Dolch mit breiter schwertformiger Klinge, die Parirstange nach unten gebogen, der Griff mit Leder bezogen. XVII. Jahrh.
+- 391 Bayonnetdolch mit sageformiger Ruckenklinge, der Grif Holz, eng gerippt. XVII. Jahrh.
+- 392 Langer Pandurendolch, die gekrummte Ruckenklinge gravirt mit Sonne und Rankenwerk auf blau angelaufenem Grunde, der Griff Horn, mit muschel-
+
+Lange 58 Cent.
+
+Lange 43 Cent.
+
+- formigem Handschutz in Messing.
+- 393 Grosses spanisches Zuschlagmesser, die Klinge geatzt mit Ornamentfriesen,
+
+Lange 50 Cent.
+
+- die Schale Horn mit aufgesetzten Messingrosetten.
+- 394 Dolch mit breiter zweischneidiger Klinge,die Parirstange nach unten ge-
+
+Lange 42 Cent.
+
+- bogen,der Griff Bein.XVII. Jahrh.
+- 395 Dolch in Degenform mit vierkantiger Klinge. Lange 44 Cent.
+- 396 Birmanisches Messer, der Griff Holz, in einen Vogelkopf auslaufend. Lange 35 Cent.
+- 397 Javanischer Dolch mit breiter zweischneidiger Klinge, der fache Griff Horn,in Eisen montirt.
+- 398 Malayischer Kris, die gefammte Klinge damascirt, der Griff Holz, wenig geschnitzt. Lange 48 Cent.
+
+Lange 40 Cent.
+
+- 399 Malayischer Dolch mit gefammter, mit Widerhaken versehener Klinge und
+
+Lange 30 Cent.
+
+- S-formig gebogener Parirstange, der Griff Horn.
+- 400 Kleines tirkisches Messer mit silberner, in Rankenwerk reich getriebener Scheide.
+
+## Feuerwaffen.
+
+- Lange 18 Cent.
+- 401 Kleine Modellkanone, das Rohr Messing,die Lafette Holz.
+- Hohe 17,Lange 35 Cent.
+- 402 Schwere Wallbichse mit Luntenschloss, der gekantete Lauf mit Waffen-
+
+Lange 188 Cent.
+
+- schmiedsmarke.XVI. Jahrh.
+- 403 Luntenschlossgewehr, der Schaft Nussbaumholz, in Ahornholz eingelegt mit Mascarons und Kartuschenschildern.
+- 404 Luntenschlossgewehr, der Schaft schwarz gebeiztes Holz, der runde Lauf am unteren Ende mit Palmetten geschnitten.
+
+Lange 125 Cent.
+
+- 405 Schweres Luntenschlossgewehr, der Schaft glatt, der gekantete Lauf mit Waffenschmiedsmarke.XVI. Jahrh.
+
+Linge 60 Cent.
+
+- 406 Radschlossgewehr, der Schaft schwarz gebeiztes Holz, der runde Lauf mit drei Waffenschmiedsmarken. XVII.Jahrh.
+
+Lange 145 Cent.
+
+- 407 Radschlossgewehr, der Kolben wenig geschnitzt. XVlI. Jahrh. Lange 95 Cent.
+- 408 Radschlossgewehr, der Schaft Kirschbaumholz mit Einlage in Ahornholz, die Schlossplatte gravirt mit Rococo-Ornamentwerk und bezeichnet:,Franz Fierstall in Wagerrein".Der Lauf gekantet.
+
+Linge 98 Cent.
+
+- 409 Doppellaufige Steinschlossflinte, der Schaft wenig geschnitzt, der gekantete
+
+Lange 105 Cent.
+
+- 410 Steinschloss-Fasanenflinte, der Schaft glatt, der Lauf mit gravirter Messing einlage.
+
+Lange 165 Cent.
+
+- 411 Tyroler Steinschloss-Stutzen, der Schaft glatt, der runde Lauf kanonenrohrformig.
+- 412 Tyroler Stutzen, ebenso.
+
+Lange 105 Cent.
+
+Gleiche Grosse.
+
+- 413 Tyroler Steinschloss-Stutzen, der Schaft glatt,der gekantete Lauf sich nach oben stark erweiternd.
+- 414 Stutzen,ahnlich.
+
+Lange 95 Cent.
+
+Gleiche Grosse.
+
+- 415 Tyroler Steinschloss-Stutzen, der Schaft wenig geschnitzt und mit ciselirter Messingeinlage. Der runde Lauf Messing, mit drei Waffenschmiedsmarken. Lange 80 Cent.
+- 416 Schwere Percussions-Jagdflinte, der Schaft ausserst reich geschnitzt mit
+
+Lange 135 Cent.
+
+- Jagddarstellungen,Mascarons und Rankenwerk, der gekantete Lauf silbertauschirt und mit Waffenschmiedsmarke.
+- 417 Carabiner, der Schaft Nussbaumholz, eingelegt mit Blumen- und Schnorkelwerk in gravirtem Eisen.
+
+Lange 56 Cent.
+
+- 418 Radschlosspistole, der Schaft schwarz gebeiztes Holz, geschnitten mit Palmetten; die Schlossplatte gravirt mit Tulpenbouquet.
+
+Lange 48 Cent.
+- 419 Ein Paar Radschlosspistolen, der Schaft Nussbaumholz, in Elfenbein uberaus reich eingelegt mit Portraitmedaillons, phantastischen Thierfiguren und reich verschlungenem Rankenwerk. Ende XVI. Jahrh.
+
+Lange 55 Cent.
+
+- 420 Ein Paar Radschlosspistolen, der Schaft geschnitzt mit Blumenkorb und mit eingelegtem Schnorkelwerk in Silber; der sich nach oben stark erbreiternde Lauf unterhalb gekantet, die Schlossplatte mit der Signatur:Kassaignard
+
+Linge 32 Cent.
+
+- anantes"
+- 421 Lange Radschloss-Reiterpistole, Nussbaumholz, der Schaft wenig geschnitzt, die Garnitur Eisen. Anfang XVII. Jahrh.
+- 422 Radschlosspistole, der Schaft schwarz gebeiztes Holz mit glatter Eisengarnitur, die Schlossplatte mit der Signatur: "J. Breuer".
+
+Lange 65 Cent.
+
+Lange 46 Cent.
+
+- 423 Lange Steinschlosspistole, der Schaft Nussbaumholz mit durchbrochen ciselirter Messinggarnitur, die Schlossplatte mit der Signatur:Renzi". Linge 55 Cent.
+- 424 Ein Paar lange Steinschlosspistolen, der Schaft geschnitzt mit RococoLange 48 Cent.
+- 425 Ein Paar Steinschlosspistolen, der Schaft Nussbaumholz mit geometrischer Einlage in dunklem Holze und in Kerbschnitt gemustert,der Kolbenschuh mit trefflich geschnittenem Mascaron in Messing, der Lauf oberhalb gekantet, in Silber tauschirt mit Rankenwerk,an dem unteren Ende Bayonnetdolch. XVIII. Jahrh.
+
+Lange 46 Cent.
+
+- 426 Steinschlosspistole, der Schaft Nussbaumholz, Kolbenschuh und Abzugs-
+
+Lange 44 Cent.
+
+- bugel durchbrochen ornamentirt.
+- 427 Steinschlosspistole,der Schaft glatt, mit Messinggarnitur. Lange 44 Cent.
+- 428 EinPaar schwere Steinschlosspistolen,der Schaft glatt,mit Messingbeschlag, Lange 38 Cent.
+- 429 Ein Paar Steinschlosspistolen, der Schaft glatt, mit Messingbeschlag, der runde Lauf unterhalb gekantet. Lange 36 Cent.
+- 430 Ein Paar Steinschlosspistolen, der Schaft wenig geschnitzt mit glattem der runde Lauf unterhalb gekantet, mit der Signatur:
+
+Linge 35 Cent.
+
+- Silberbeschlag, "L.Lazarino
+- 431 Ein Paar Steinschlosspistolen, der Schaft iberaus reich eingelegt mit verschlungenem Rankenwerk in ciselirtem Silber, der Lauf Messing mit der Signatur:,London"
+
+Lange 34 Cent.
+- durchbrochen ornamentirter und ciselirter Silbereinlage, der Abzugsbugel tief geschnitten mit Mascaron, der Lauf in Messing tauschirt. Linge 30 Cent.
+
+- 433 Steinschlosspistole, einfach. Lange 28 Cent.
+
+- 434 Ein Paar schwere Steinschlosspistolen, der Schaft glatt, der runde Lauf mit der Signatur:T.u.H.26“. Linge 26 Cent.
+
+- 435 Steinschlosspistole mit Messinglauf, an dem Bayonnetdolch. Lange 26 Cent.
+
+- 436 Ein Paar kleine Steinschlosspistolen, der Schaft Nussbaumholz mit ciselirter Messingeinlage.
+
+Lange 24 Cent.
+
+- 437 Kleine Steinschlosspistole, der Schaft glatt, der Lauf Messing. Lange 23 Cent.
+
+- 438 Kleine Steinschlosspistole, der Schaft wenig geschnitzt, Kolbenschuh und Schlossplatte Messing mit eingelassenem Medaillon. Linge 22 Cent.
+
+- 439 Kleine Steinschlosspistole, der Schaft in Silber eingelegt mit Rankenwerk. Lange 20 Cent.
+
+- 440 Kleine Steinschlosspistole, der Schaft durchbrochen mit ornamentirter Silbereinlage. Lange 17 Cent.
+
+- 441 Kleine doppellaufige Steinschlosspistole, ganz in Eisen, gravirt mit Rococo- Ornament.
+
+Lange 15 Cent.
+
+- 442 Ein Paar schwere Percussionspistolen, der Schaft glatt, mit der Signatur: "Mre Rte de Culle“.
+
+Lange 36 Cent.
+
+- 443 Flobertpistole, einfach. Lange 38 Cent.
+
+- 444 Pulverhorn, ausgeschweift, weisses Bein,gravirt mit Jagddarstellungen und concentrischen Ringen. XVII. Jahrh.
+
+Lange 35 Cent.
+
+- 445 Pulverhorn in ahnlicher Ausfuhrung. Gleiche Grosse.
+
+- 446 Pulverhorn, ahnlich. Gleiche Grosse.
+
+- 447 Pulverhorn, ahnlich. Gleiche Grosse.
+
+- 448 Pulverhorn, ahnlich, gravirt mit Kriegerbuste, Rankenwerk etc. XVIl. Jahrh. Lange 37 Cent.
+- 449 19 Pulverhorner in geschweifter Form, Holz, theils mit Leder und theils
+
+Verschiedene Grosse.19 Stick.Werden auf Wunsch vereinzelt.
+
+- mit Sammt bezogen; die Eckbeschlage Eisen. XVIl. Jahrh.
+- 450 Pulverhorn, Eisen, die konisch zugespitzte Leibung eng gerippt und gravirt mit Rankenwerk; reich mit Messingnageln beschlagen. XVIl. Jahrh.
+- Lange 19, Breite 10 Cent.
+- 451 Pulverhorn, faschenformig, in schwarz gebeiztem Holze,in Hochrelief thieren, Jager, auf dem Anschlag liegend, etc. Sehr schones Stuck von trefflicher Arbeit. XVII. Jahrh.
+
+Lange 17, Diam.10 Cent.
+
+- 452 Pulverhorn, weisses Bein, gravirt mit zwei Drachenfiguren, eine Sternrosette haltend.
+
+Lange 34 Cent.
+
+- 453 Pulverhorn, weisses Horn,gravirt mit Kriegerbuste in reich verschlungenem
+
+Lange 34 Cent.
+
+- 454 Aufschittehornchen,kreisrund, Nussbaumholz mit geometrisch gemusterter
+
+Diam.7 Cent.
+
+- Laubwerk.XVII.Jahrh.
+- Einlage in Elfenbein.XVII. Jahrh.
+- 455 Aufschuttehornchen,kreisrund, in Kerbschnitt gemustert. Diam. 8 Cent.
+- 456 Aufschuttehornchen,ahnlich. Gleiche Grosse.
+- 457 Aufschittehornchen, Steinnuss, geschnitten mit tanzenden und zechenden Bauern.
+
+## Diverses.
+
+- 458 16 ovale ausgeschweifte Schilder, bemalt mit Schweizer Cantonalwappen. Hohe 70,Breite 40 Cent.
+- 459 Kugelarmbrust (Balester); der kurze dreikantige Schaft Holz, der Spannhebel mit Waffenschmiedsmarke. XVI. Jahrh.
+- 460 Drei einfache Radschlosser und ein Luntenschloss.
+
+Lange 55 Cent.
+
+Lange 27 und 10.Cent. 4 Stick.
+
+- 461 Zwei Candaren, mit Messingappliquen verziert. Lange 15 Cent.
+- 462 Complete Ausristung eines brasilianischen Farmers, bestehend aus Hose, Koller und Hut, aus braunem Wildleder zusammengesetzt. Die Ausristung mit Steinschlossfinte, Steinschlosspistole,langem Dolch und Trinkfasche in
+- Form der Pilgerfaschen.
+- 463 Ausgestopfter Kopf eines Konigstigers.
+
+Hohe 160 Cent.
+
+Lange 24,Breite 43 Cent.
+
+Lange 10,Diam.4 Cent.
+## Porzellane, Fayencen, emaillirte Topfereien etc.
+
+- 464 Grosses Tafel-Speiseservice, bestehend aus: zweiovalen gedeckelten Terrinen, acht grossen ovalen und ausgeschweiften Plateaux, vier grossen ovalen Fischschisseln， zehn runden grossen Schisseln, sechs ebenso, kleiner， drei viereckigen（ Compotschalchen, sechs kleineren ovalen Schalchen,vier blattformig ausgeschweiften Schalchen,einhundertfunfundfinfzig fachen und tiefen Tellern und sechszehn Tellern mit gitterformig durchbrochenem Rande. Sammtliche Theile im Fond bemalt mit Chrysanthemstauden in japanischem Geschmack; der aufsteigende Rand mit Blumenwerk. Schones Service,zum Theil sachsisches, zum Theil Berliner Fabrikat. Mit Marken.
+
+Lange der ovalen Schusseln 50 und 30,Breite 35 und 20 Cent.,Diam.der runden Sehisseln 45 und 30 Cent.,Diam. der Teller 24 Cent.
+
+- 465 Sechsunddreissig flache Teller mit humoristischen Darstellungen.
+- 466 Zwolf Teller, ebenso, grosser.
+- Diam.20 Cent.
+- Diam.22 Cent.
+- 467 Zwolf flache Teller, der Fond theils mit weiblichen, theils mit mannlichen
+- Portraits, der Rand gitterformig durchbrochen.
+
+Diam.21 Cent.
+
+- 468 Sechs flache Teller mit Vogeln, auf Ast sitzend, Fruchtranken etc. Diam.20 Cent.
+- 469 Sechs Ober- und Untertassen mit farbenprachtigen Blumenstauden etc.
+- Hohe der Obertassen 6,Diam.der Untertassen 13 Cent.
+- 470 Funf Tassen mit Untertassen, die Aussenwandung kapuzinerbrauner Untergrund, die Innenflache blau bemalt mit Kranichen in Landschaft.
+
+Hohe der Obertassen 5 Cent.
+
+- 471 Sechs Ober- und Untertassen, die Aussenwandungen mit Vogeln, Fischen und Vergissmeinnicht-Blumchen geschmickt. Hohe der Obertassen 5,Diam.der Unterschalen 15 Cent.
+- 472 Funf Ober- und sechs Untertassen, mit reichster Blumenbordure geziert.
+- Hohe der Obertassen 6,Diam. der Untertassen 13 Cent.
+- 473 Ein Paar Tassen mit Untertassen (compagnie des Indes),in Emailfarben, bemalt mit Vogelfiguren,Blumenstauden und Ornamentborduren. Nebst
+- einer anderen.
+
+Hohe 5,Diam.8 Cent.
+
+- 474 Ein Paar Tischleuchter (Rococo) auf hohen mit Palmetten verzierten Fussen, der Schaft in Form einer auf Lowenfussen ruhenden Saule. Berliner Fabrikat.
+- Marke:Scepter.
+
+Hohe 28 Cent.
+
+- 475 Ein Paar achteckige Flaschen, in Blau und Roth reich bemalt mit Blumenund Rankenwerk, die Ecksticke mit Gitterverzierung.
+
+Hohe 28 Cent.1 defect.
+- 476 Majolika-Flasche in Form eines Pantoffels, bemalt in Gelb und Blau. Lange 20 Cent.
+- 477 Majolika-Pantoffel, ahnlich.
+- 478 Majolika-Teller,bemalt mit Flusslandschaft. Diam.22 Cent.
+
+Lange 18 Cent.
+
+- 479 Majolika-Weihwasserkessel, nischenformig, mit aufgesetzten vollrunden Engelsfigurchen, grun glasirt.
+
+Hohe 33,Breite 18 Cent.
+
+- 480 Majolika-Weihwasserkessel, die Ruckwandplatte en relief ornamentirt mit den Leidenswerkzeugen. Braun glasirt. Bunzlauer Fabrikat.
+
+Lange 28,Breite 20 Cent.
+
+- 481 Majolika-Salzfass, sockelformig durchbrochen, ornamentirt mit Puttenfigur. Bunt bemalt.
+
+Hohe 14 Cent.
+
+- 482 Majolika-Salzfass, sockelformig,auf vier Lowenfussen ruhend,reich bemalt
+
+Hohe 12 Cent.
+
+- mit figuralem Ornamentwerk.Defect.
+- 483 Majolika-Salzfass, vasenformig, mit zwei seitlichen Puttenfiguren als Henkelansatze.
+
+Hohe 10 Cent.
+
+- 484 Ein Paar facherformig ausgeschweifte Compotschalchen, der Fond blau bemalt mit Blumenstaude, der aufsteigende Rand mit Ornamentbordire.
+
+Lange 19, Breite 13 Cent.
+
+- Delfter Fabrikat.Marke:B.K.
+- 485 Ein Paar flache Schalen auf Fussansatz, weiss glasirt.
+- Hohe 5,Diam.7 Cent.
+- 486 Ovales doppeltgehenkeltes Gitterkorbchen, weiss glasirt.
+
+Hohe 6,Breite 15 Cent.
+
+- 487 Servirplatte, Fayence, auf vier Lowenfussen,oval, mit blauer Lambrequin-
+
+Hohe 5,Lange 45,Breite 34 Cent.
+
+- bordire.
+- 488 Biscuitgruppe,Ariadne,auf dem Panther sitzend.
+- Hohe 30,Linge 26 Cent. Auf schwarzem Holzsockel.
+- 489 Hohe Vase, achtfach abgefacht, mit Blumenguirlande etc. Delfter Fabrikat. Hohe 30 Cent.
+- 490 Kugelformige Henkelkanne, grau-blau; die Leibung mit eingesetzten Stern-
+- rosetten und Rankenwerk.
+
+Hohe 30 Cent.
+
+- 491 Birnformige Henkelkanne, die Vorderseite mit cingeritzten Blumenranken und Gitterbordire.
+
+Hohe 16 Cent.
+
+- 492 Birnformige Henkelkanne in geriffelter Musterung. Hohe 20 Cent. 6174. 7
+- 493 Birnformige Henkelkanne, grau-blau-braun; die Leibung mit eingeritzter Ornamentbordire mit Pferd.
+- Hohe 20 Cent.
+- 494 Birnformiger Henkelkrug, braun glasirt und reliefrt mit gekrontem Kar tuschenschild. Hohe 20 Cent.
+- 495 Cylindrischer Henkelkrug,blau bemalt mit Architekturen.
+- Hohe 16 Cent.
+- 496 Cylindrischer Henkelkrug, bunt bemalt. Zinnfuss und Zinndeckel.
+- Hohe 14 Cent.
+- 497 Cylindrischer Henkelkrug,blau bemalt mit Blumenbouquet.
+- Hohe 12 Cent.
+- 498 Henkelkrug, die Leibung grau-blau. Mit Zinndeckel.
+- Hohe 18 Cent.
+- 499 Henkelkrug, grau-blau. Zinndeckel. Hohe 18 Cent.
+- 500 Henkelkrug, grau-blau; die Mitte umzieht eine reiche Bordure mit Blumenranken, auf denen Vogel sitzen. Zinndeckel. Hohe 21 Cent.
+- 501 Kugelformige Henkelkanne, gerippt, blau bemalt mit Blumenwerk. Hohe 14 Cent.
+- 502 Birnformige Henkelkanne, die Leibung blau bemalt mit Flusslandschaft.
+- Hohe 20 Cent.
+- 503 Grosse birnformige Henkelkanne, die Leibung achtfach abgefacht, mit
+- eingeritztem aufgerollten Bandwerk. Zinndeckel. Hohe 30 Cent.
+- 504 Kugelformige Henkelkanne, die Leibung mit reliefirtem Doppelwappen. Hohe 17 Cent.
+- 505 Cylindrische Henkelkanne, die Leibung grau-blau, mit eingeritzter Lilienbordure, von Quaderbordire eingefasst. Hohe 16 Cent.
+- 506 Maasskrug, grau-blau, die Leibung mit eingeritztem, von Vogelfiguren belebten Blumenfries. Hohe 17 Cent.
+- 507 Maasskrug, grau-blau-braun, die Leibung mit quaderformigen Bordiren
+- umzogen.Zinndeckel. Hohe 16 Cent.
+- 508 Maasskrug, grau-blau, die Leibung mit breitem Rosettenfries, von Quaderbordire eingefasst. Hohe 16 Cent.
+- 509 Maasskrug,ahnlich. Zinndeckel. Gleiche Grosse.
+- 510 Maasskrug,ahnlich. Zinndeckel. Gleiche Grosse.
+- 511 Maasskrug, ahnlich. Zinndeckel.
+
+Gleiche Grosse.
+
+- 512 Maasskrug, grau-blau, die Leibung mit eingeritztem Rankenfries. Hohe 17 Cent.
+- 513 Cylindrischer Maasskrug, grau-blau, mit eingeritztem Quaderfries umzogen. Hohe 16 Cent.
+- 514 Maasskrug, ebenso.
+
+515 Maasskrug, ahnlich.
+
+Hohe 18 Cent.
+
+Hohe 16 Cent.
+
+- 516 Maasskrug, ahnlich. Hohe 15 Cent.
+- 517 Ein Paar Gefasse in Form sitzender Lowen, in den Vordertatzen Wappen-
+
+Hohe 29 Cent.
+
+- schilder haltend. Grin glasirt.
+- 518 Cylindrisches Apothekergefass,mit reliefirten Engelskopfchen blau bemalt. Hohe 30 Cent.
+- 519 Schreibzeug mit reliefirter Rosettenverzierung, grun glasirt. Hohe 12,Lange 20,Breite 12 Cent.
+- 520 Sechs Messer, die Griffe Porzellan, bemalt mit blau gemusterten Schuppenfriesen und Watteau-Scenen.
+
+Lange 19 Cent.
+
+## Arbeiten in Silber, Email, Elfenbein, Perlmutter,
+
+## Stein ete.
+
+- 521 Buckelpokal auf hohem getriebenen Fusse, Silber, der Schaft mit Vollfigur eines
+- Winzers als Trager des eiformigen, reich mit Buckeln getriebenen Kelches. Hohe 25 Cent.
+- 522 Pokalauf hohem mit Buckeln getriebenen Fusse, Silber, der kurze Schaft in Form einer Vase, der konisch zugespitzte Kelch getrieben mit bossenformigen
+
+Lange 20 Cent.
+
+- Langfeldern und Herzornamenten.
+- 523 Reliquienkreuz, Silber, die Balken gravirt mit den Leidenswerkzeugen.
+- Lange 7 Cent.
+- 524 Ovale Schale, getrieben mit Blumengehangen und Fruchtguirlanden. Silber.
+- Hohe 4,Lange 16,Breite 10 Cent.
+- 525 Tabatiere, Silber, in Form eines vollrund getriebenen Lowen. XVI. Jahrh. Hohe 4e,Breite 4 Cent.
+- 526 Loffel, die ovale Muschel auf der Rickseite mit dem Profilbrustbilde Sigismund's III., der Stiel, durchbrochen ornamentirt mit Ritterfigur und Fruchtguirlanden, wird von Adler bekront. Silber.
+
+Lange 20 Cent.
+
+- 527 Loffel, die ovale Muschel gravirt mit Zygnunt II.August, der Stiel, durch
+- brochen ornamentirt mit Firstenportrait und weiblicher, aus Fruchtwerk erwachsender Halbfigur, wird von gekrontem Doppelwappen iberragt. Silber. Linge 22 Cent.
+- 528 Vier kleine Salzschaufeln, Silber, dic Stiele durchbrochen ornamentirt.
+- Linge 9 Cent.4 Stick.
+- 529 Ruhender Ziegenbock, galvanischer Niederschlag. Hohe 5,Lange 8 Cent.
+- 530 Rococo-Lichtputzscheere, Silber, die Zangen in Form von Handen.
+- Lange 14 Cent.
+- 531 Lichtputzscheere, Silber, in Form eines Storches. Lange 11 Cent.
+- 532 Spindeluhr, Silber, das Gehause durchbrochen ornamentirt mit RococoRankenwerk. In Schildpatt-Cuvette.
+
+Diam.6 Cent.
+
+- 533 Anhanger, emaillirt mit Erzengel Michael in Silberfiligran-Umrahmung. Hohe 9,Breite 5 Cent.
+- 534 Viereckige Tabatiere,allseitig fein bemalt mit hibsch staffirten Landschafts-
+
+Hohe 3,Lange 52,Breite 4 Cent.
+
+- Darstellungen in Email.
+- 535 Vierseitige Tabatiere mit gewolbtem Deckel, die Seitenwandung bemalt mit Falter, Kafer und Streublumchen, der Deckel nit Liebespaar in Landschaft. Email.
+
+Hohe 4,Lange 8,Breite 6 Cent.
+
+- 536 Viereckige Tabatiere mit gewolbtem Deckel, die Platte bemalt mit Waffentrophae,der Deckel mit gekrontem Monogramm Friedrich's des Grossen, Lorbeerkranzen und Adler. Email.
+
+Hohe 4, Lange 8,Breite 61 Cent.
+
+- 537 Hohe Schenkkanne auf Unterschale; der runde Fuss und die eiformige Leibung getrieben und ciselirt mit reich verschlungenem Renaissance-Rankenund Riemenwerk,gefugelten Engelskopfchen und Fruchtguirlande; eingesetzt sechs grossere unds sechs kleinere Ovalmedaillons,in Hochrelief trefflich geschnitten mit Musen und Puttenfiguren； der elegant geschweifte Henkel mit aus Perlkranzbordure erwachsender Halbfigur und Triton, auf Delphin reitend;die tellerformige e Unterplatte getrieben mit uppigem Rankenwerk und Engelskopfchen und mit sieben eingelassenen Elfenbeinmedaillons, die trefflich geschnitzt mit weiblichen Figuren in Landschaft. Vorzugliche, moderne Arbeit.
+
+Hohe der Schenkkanne 40,Diam.der Unterschale 24 Cent.
+
+- 538 Hoher Deckelhumpen, der ausladende Fuss Kupfer, getrieben und ciselirt mit Jagdthieren in uppig verschlungenen Laubranken, die cylindrische
+Leibung Elfenbein, in Hochrelief meisterhaft geschnitten mit einer lebendig componirten Sauhatz, der Deckel Kupfer, getrieben mit Jagddarstellung, Mascarons und Muschelwerk,als Bekronung Pinienapfel. Sehr schone Arbeit im Stile des XVII. Jahrh.
+
+Hohe 33 Cent.
+
+- 539 Hoher Deckelhumpen auf ausladendem, reich mit Rococo-Ornament getriebenem Fusse, die cylindrische Leibung Elfenbein,meisterhaft in Hochrelief geschnitzt mit Bacchanal in einer Landschaft, der Henkel elegant gegliedert,der Deckel Silber, getrieben mit ippigem Rococo-Blumen- und Muschelwerk.
+
+Hohe 35 Cent.
+
+- 540 Henkelbecher auf ausladendem kupfergetriebenen Fusse mit Akanthusblattverzierung, die cylindrische Leibung Elfenbein,in Hochrelief geschnitzt mit figurenreichen mythologischen Darstellungen.Auf dem Deckel Vollstatuettchen
+
+Hohe 19 Cent.
+
+- eines Dudelsackblasers.
+- 541 Venus, dem Bade entstiegen, vollig nackt, die Hande uber die Brust gekreuzt, zu ihren Fussen zwei Puttenfiguren. Vorziglich modellirte und
+
+Hohe 21 Cent.
+
+- trefflich geschnittene Gruppe. Elfenbein.
+- 542 Bettlerfigur in zerlumpter Kleidung, die Rechte auf einen Stab gestitzt; gut geschnitzt in Callot'schem Geschmack. Die Gewandpartieen Holz, die Fleischtheile Elfenbein. Gutes Stick,nach Art der Troger'schen Arbeiten. Hohe 20 Cent.
+- 543 Bettlerin, ein Kind an der Hand fuhrend, in ahnlicher Ausfihrung. Gleiche Grosse.
+- 544 Schaferin in ahnlicher Ausfuihrung.
+- 545 Eiformige Tabatiere,Elfenbein,gravirt mit Spruchen.
+
+Gleiche Grosse.
+
+- Hohe 3,Lange 7,Breite 4 Cent.
+- 546 Miniatur-Crucifix und zwei kleine Standleuchter,Elfenbein,zierlich durch brochen,ausserst minutios geschnitten. XVII. Jahrh. In Rahmen unter Glas.
+- Hohe 20 und 10 Cent.
+- 547 Kleines Messer in Scheide, geschnitzt mit Walfisch, den Jonas ausspeiend. Linge 17 Cent.
+- 548 Flache Tabatiere,der Deckel Perlmutter,in Hochrelief geschnitten mit dem letzten Abendmahl.
+
+Hohe 3,Lange 7/e,Breite 51/ Cent.
+
+- 549 Ovale ausgeschweifte Tabatiere,Perlmutter, die Montirung Silber. Hohe 31/e,Lange 12,Breite 6 Cent.
+- 550 Runde Bonbonniere,Perlmutter; die Montirung Bronze, galerieformig durchbrochen.
+
+Hohe 31/e, Diam.6 Cent.
+
+- 551 Grosse Perlmuttermuschel, en relief geschnitten mit der Flucht nach
+
+Hohe 13 Cent.
+
+- Egypten.
+- 552 Anhanger, vasenformig, mit Goldmontirung. Perlmutter. Linge 2 Cent.
+- 553 Tabatiere in Sarkophagform,Achat; die Montirung Goldbronze. Hohe 3,Linge 61/e,Breite 4 Cent.
+- 554 Reliquienbild, aus volutenformig aufgerollten, vergoldeten Papierstreifen
+
+In Rahmen unter Glas. Lange 24, Breite 20 Cent.
+
+- gebildet. Klosterarbeit.
+- 555 Buste eines romischen Imperators in weissem Marmor. Auf Granitsockel. Ganze Hohe 34 Cent.
+- 556 Theebuchse,vierseitig,roth bemalt mit Tulpenbouquet.
+
+Hohe 10 Cent.
+
+- 557 Besteck,Messer und Gabel, die Griffe Achat.
+
+Linge 20 Cent.
+
+- 558 20 grosse Sticke Rauchtopas und Bergkrystall, darunter Stuicke von
+
+Werden auf Wunsch vereinzelt. 20 Stick.
+
+- 40 Centimeter im Durchmesser, sowie ein einzelner Krystall von 26 Centimeter im Durchmesser.
+- 559 Muschelcamee, geschnitten mit weiblichem Profilkopf.
+- 560 Grosse rothe Coralle.
+
+Lange 3 Cent.
+
+Lange 11 Cent.
+
+- 561 Ein Paar Messergriffe, Hirschhorn, geschnitzt, in vollrunde Kopfe aus-
+
+Lange 10 Cent.
+
+- laufend.
+- 562 Brieftasche,rother Sammet, in Goldfaden gestickt mit Blumenwerk.
+- Hohe 10,Breite 6 Cent.
+- 563 Kleine Modellfigur eines Cavaliers in Rococotracht, die Gewandpartieen
+- aus Stoff gebildet, die Fleischtheile gemalt. In Rahmen unter Glas. Hohe 45,Breite 30 Cent.
+
+## Arbeiten in Glas.
+
+- 564 Deckelpokal, Rubinglas, achtfach abgefacht, mit Jagdthieren ete.
+- Hohe 31 Cent.
+- 565 Humpen in Rubinglas mit Spruch,Wappen und den Buchstaben F. A. R. P.E. S.nebst Jahreszahl 1717.
+
+Hohe 22,Diam.12 Cent.
+
+- 566 Cylindrischer Humpen in grinem Glase und mit Sprichen in Email etc Hohe 28,Diam.8 Cent.
+- 567 Humpen, grunes Glas, aufgesetzt mit Nuppen in roth und weissem Email
+- und vorderem Wappen.
+- 568 Flasche mit dazu gehorigem Glase in Rubinglas.
+
+Hohe 18, Diam.7 Cent.
+
+Hohe 21 Cent.
+
+- eine Rebenbordure. Hohe 23 Cent.
+- 569 Flasche mit dazu gehorigem Glase; um die Aussenwandungen zieht sich
+- 570 Pokal, Rubinglas, in roth und weiss gemustertem Glase, der Kelch vierpass-
+
+Hohe 20 Cent.
+
+- formig,mit vorderem eingeschliffenen Wappen.
+- 571 Birnformige Henkelflasche, emaillirt mit Walfisch, den Jonas ausspeiend.
+
+Hohe 16 Cent.
+
+- Defect.
+- 572 Zwei Pokale, die Kelche geschliffen mit Doppelwappen und Stadtansicht, die Fusse defect.
+
+Hohe 20 Cent.
+
+- Hohe 32 Cent.
+- 573 Zwei Wasser-Caraffen, eine in Rubinglas, die andere Milchglas.
+- 574 Ein Paar Flaschen, weisses Glas, in Form von weiblichen Figuren. Hohe 34 Cent.
+- 576 Birnformiges Flacon in blauem Glas, mit weissen Faden durchzogen.
+- 575 Birnformiges Flacon, geschliffen und mit Silberbouillon umzogen. Lange 6 Cent.
+- Hohe 6 Cent.
+- 577 Wasserglas in Rautenschliff, der Fuss gelblich gefarbt, auf der Vorderseite Wappen eingravirt.
+- 578 Wasserglas in konischer Form, eingravirt mit Blumenguirlanden, Sprichen,
+
+Hohe 12,Diam. 6 Cent.
+
+Hohe 13,Diam.9 Cent.
+
+- 579 Becherglas mit konischem Kelche mit Wappen und Maiglockchenstauden, die Aussenwandung mit Nuppen.
+- 580 Becherglas, ahnlich und Gegenstick. Gleiche Grosse.
+
+Hohe 14,Diam.71/e Cent.
+
+- 581 Weinglas mit Rebenranke und dem Namenszug Oscar's eingeschliffen. Hohe 15,Diam.81/e Cent.
+- 582 Wasserglas mit Profilbiste des Civil-Prasidenten Schmidt in Waltalingen.
+- 583 Weinglas, weiss,auf der Vorderfache Wappen eingravirt.
+- Hohe 11, Diam.8 Cent.
+- Hohe 12 Cent.
+- 584 Weinglas in hellgrinem Glase, eingeschlifen L. v. E. und Krone. Hohe 12 Cent.
+- Jahreszahl etc.
+- 585 Rubinglas, glatt.
+
+Hohe 12,Diam.81/e Cent.
+
+- 586 Becher, Flasche und Flacon,letzteres in Form einer Maus. Hohe 20und 10 Cent.
+- 587 Collier mit anhangendem Kreuz, die Glieder gefasst mit bunten Glassteinen. Lange 14 Cent.
+
+## Arbeiten in Eisen, Bronze, Zink etc.
+
+| 588 Zunftzeichen einer vereinigten Muller- Backer- und Brauer-Innung, Eisen, ausgeschnitten und bemalt mit Lowen,ein Wappenschild der Zunft haltend.   | Diam.40 Cent.            |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| 589 Wirthshaus-Aushangeschild mit einem Lowen. Eisen.                                                                                                  | Hohe 50 Cent.            |
+| 590 Aushangearm, Eisen,reich geschmiedet mit aufgerolltem Bandwerk und vollrund getriebenen Blumen. XVII. Jahrh.                                       | Lange 62,Breite 45 Cent. |
+| 591 Zunftzeichen einer Metzger-Innung, Eisen, ausgeschnitten und bemalt.                                                                               | Diam.30 Cent.            |
+| 592 Zunftzeichen,ahnlich.                                                                                                                              | Diam.27 Cent.            |
+| 593 Vorhangeschloss, Eisen,kleeblattformig.                                                                                                            | Diam.12 Cent.            |
+| 594 Vorhangeschloss, Eisen, rohrenformig.                                                                                                              | Linge 12 Cent.           |
+| 595 Vorhangeschloss,ebenso, kugelformig.                                                                                                               | Diam.10 Cent.            |
+| 596 Drei grosse Thurschlosser, getrieben und ciselirt mit Palmetten.                                                                                   | Linge 30 Cent.           |
+| 597 Thurklopfer, Eisenguss, mit Lowe, einen Ring im Maule haltend.                                                                                     | Linge 40,Breite 25 Cent. |
+| 598 Thurklopfer in Form eines Kranzes, gravirt mit Palmetten.                                                                                          | Hohe 14 Cent.            |
+| 599 Gothische Standuhr,Eisen,das Zifferblatt bemalt.                                                                                                   | Hohe 30 Cent.            |
+| 600 Werk einer gothischen Uhr in Eisen.                                                                                                                | Hohe 28 Cent.            |
+- 601 Standfigur eines preussischen Generals in voller Uniform. Eisen. Hohe 26 Cent.
+- 602 Tischleuchter auf drei geschweiften Fussen, der Schaft in aufgerolltem
+
+Hohe 34 Cent.
+
+- 603 Vier diverse Tischleuchter von geschmiedetem Eisen. Hohe 26 Cent.
+- 604 Werkzeug, Zange und Hammer in langer schwertformiger Scheide. Lange 60 Cent.
+- 605 Garnhalter, kugelformig ornamentirt. Eisen.
+- 606 Zwolf Hufeisen, Ausgrabungen.
+- 607 Finf Fragmente eines Grabkreuzes. Eisen.
+- 608 Standuhr, das geschweifte,von Kuppel iberragte Gehause auf vier Adler klauen ruhend, uberaus reich in Goldbronze applicirt mit Blumengehangen, Engelskopfchen und Palmetten; das Zifferblatt Goldbronze mit eingelassenen emaillirten Zahlen; der Aufsatz bekront mit Bronzevollfigur des Saturn, Sense und Sanduhr in den Handen haltend. Hubsches Stick.
+
+Lange 18 Cent.
+
+Linge 40 Cent.
+
+Hohe 80 Cent.
+
+- 609 Kleine Standuhr, Bronze, die Vorderseite getrieben mit Rococo-Ornamentwerk. Hohe 24 Cent.
+- 610 Ovale Schussel, Kupfer; der Fond gepresst mit Jagdzug, der Rand mit
+
+Lange 57,Breite 52 Cent.
+
+- Waffentrophae.
+- 611 Runde Schissel, der Fond gepresst mit zechendem Bauer. Kupfer. Diam.40 Cent.
+- 612 Handwarmer, Bronze,kugelformig, durchbrochen ornamentirt.
+
+Diam.8 Cent.
+
+- 613 Obertheil eines Weihrauchschiffchens, Kupfer, reich getrieben und ciselirt mit Renaissance-Rankenwerk.
+
+Linge 16, Breite 8 Cent.
+
+- 614 Schwenkkessel, Kupfer, getrieben mit Mascarons.
+
+Hohe 12,Diam.20 Cent.
+
+- 615 Spindeluhr in versilbertem Kupfer, die ciselirt mit Monument in Landschaft, gefasst mit kleinen Rubinen. Das Zifferblatt mit der Signatur:,Derosch.
+
+Diam.4 Cent.
+
+- A.Geneve".
+- 616 Spindeluhr, ciselirt mit Rankenwerk,mit eingelassenem Emailmedaillon
+
+Diam.4 Cent.
+
+- mit dem Brustbilde einer jungen Dame, eingefasst von kleinen Rosen.
+- 617 Stehender Lowe nach Thorwaldsen; hubsch modellirte Figur mit schoner
+
+Hohe 27,Linge 29 Cent.
+
+- Patina.
+
+6174.
+
+- Bandeisen.
+- 618 Ein Paar Bronzebusten auf Marmorsockel: Friedrich Wilhelm II. und Washington.
+
+Hohe 24 Cent.
+
+- 619 Brustbild Friedrich Wilhelm's IV. in Bronze, auf Marmorsockel. Hohe 32 Cent.
+- 620 Apollo, vollig nackt, in der Rechten die Leier, in der Linken einen Bogen
+
+Hohe 32 Cent.
+
+- haltend. Hubsch patinirte Bronzefigur.
+- 621 Bacchantin, fast nackt, mit umgurtetem Pantherfell, in tanzender Stellung,
+
+Hohe 32 Cent.
+
+- die Becken schlagend.Hubsch patinirte Bronze-Vollfigur.
+- 622 Amorette in fiegender Stellung. Hubsch modellirtes Bronze-Vollfigirchen. Hohe 10 Cent.
+- 623 Triton,ins Horn stossend, Bronzefigur. Hohe 12 Cent.
+- 624 Schelle, Glockenmodell, mit Akanthusblatt-Verzierung. Nebst einer anderen und einer kleineren Belle.
+
+Lange 12 Cent.3 Stuck.
+
+- 625 Kleine sechsseitige Laterne, ciselirt und gravirt mit Rankenwerk. Hohe 12 Cent.
+- 626 Sabbath-Lampe, der Mittelbalken profilirt. Bronze.
+
+Linge 38 Cent.
+
+- 627 Miniatur-Tischlampe mit drei Flammen. Bronze. Hohe 20 Cent.
+- 628 Kleine Messing-Kaffeekanne, gepunzt mit Ornamentwerk. Hohe 17 Cent.
+- 629 Bigeleisen,Messing,die Oberplatte ornamentirt mit Doppeladler. Hohe 18 Cent.
+- 630 Hollandische Tabatiere,Kupfer, Seitenwandungen und Deckel gravirt mit satyrischen Darstellungen. Nebst einer anderen.
+
+Hohe 31/e,Lange 17,Breite 4 Cent.2 Stick.
+
+- 631 Hollandische Tabatiere,Deckel und Boden gepresst mit Furstenportrait und emblematischen Darstellungen.
+
+Hohe 3,Lange 15,Breite 4 Cent.
+
+- 632 Ovale Tabatiere, allseitig gravirt mit biblischen Darstellungen. Hohe 6,Lange 17,Breite 4 Cent.
+- 633 Chatelaine, Goldbronze, aus funf Gliedern bestehend, die durchbrochen ornamentirt mit Gartner-Emblemen.
+
+Lange 12 Cent.
+
+- 634 Ein Paar Bronze-Appliquen in Form von gefugelten Engelskopfen. Lange 12 Cent.
+- 635 Anhanger, Bronze, faschenformig, ciselirt mit Maskenkopfen. Lange 3 Cent.
+- 636 Tafelaufsatz, Zink,versilbert. Der proflirte runde mit drei geschweiften Fussen gezierte Fuss tragt drei weibliche, Trauben und Schalen haltende Figuren, uiber welchen auf lambrequinartiger Bedachung die weit ausladende Glasschale ruht. Inmitten derselben erhebt sich, von Blatthalter umschlossen, der zur Aufnahme eines Bouquets bestimmte konische Glaskelch. Schones
+
+Hohe 87 Cent.
+
+Hohe 47,Lange 41 Cent. 2 Stuick.
+
+- Zierstuck.
+- 637 Ein Paar Zierstucke. Springendes Pferd, von einem Jockey zuruckgehalten. Gut modellirte Sticke. Pendants.
+- 638 Ein Paar Ziersticke, Zink,versilbert. Weibliche,hrenbekranzte Figuren, in beiden Handen Aehrenbuschel haltend, auf denen ein Paar sich
+
+Hohe 36 Cent. 2 Stuck.
+
+- schnabelnder Tauben. Hubsche Stucke.
+- 639 Hercules. Ganze Figur des farnesischen Hercules. Zink, bronzirt.
+- Hohe 73 Cent.
+- 640 Zwei Reiterstatuetten, Napoleon und Friedrich der Grosse. Zinkguss.
+
+Hohe 35 Cent.
+
+Hohe 26 Cent.
+
+Hohe 40 Cent.
+
+- Gegensticke.
+- 641 Kaiser Wilhelm, zu Pferde sitzend. Zinkguss.
+- 642 Bacchus, Zinkgussfgur mit hubscher Patina.
+- 643 Ein Paar kleine Cigarrenlampen in Form eines Dreifusses mit Traglaternen.Zink.
+
+Hohe 34 Cent.
+
+- 644 Drei hohe cylindrische Zinnhumpen, einfach.
+
+Hohe 18 Cent. 3 Stick.
+
+- 645 Sechsseitige Schraubflasche, Zinn, gravirt mit Ornamentwerk.
+
+Hohe 40 Cent.
+
+- 646 Vier Zinnteller mit ausgeschweiftem Rande.
+
+Diam.25 Cent.
+
+- 647 Miniatur, Huftbild einer jungen Dame in violettem Kleide und blonder, hoher Lockenfrisur, uiber den entblossten Schultern eine doppelreihige Corallenkette tragend. Vortreffliche Miniatur auf Elfenbein. Bezeichnet:Dubasty
+
+Oval. Hohe 71/e,Breite 61/4 Cent.
+
+- Paris".
+## Romische Ausgrabungen und Munzen.
+
+Nachstehende Sammlung besteht zumeist aus Schweizer Hohlen- funden,die zum Theil aus dem Kesslerloch stammen.
+
+- 648 Kantharos, terra nigra, auf Fussansatz, mit zwei Henkeln.
+
+Hohe 12 Cent.
+
+- 649 Kantharos, ebenso, auf kurzem Fussansatz, mit zwei seitlichen Henkeln. Hohe 12,Diam.12 Cent.
+- 650 Kantharos, hnlich.
+
+Gleiche Grosse.
+
+- 651 Aryballos, die birnformige Leibung schwarz glasirt und eng gerippt. Hohe 18 Cent.
+- 652 Aryballos, rother Thon, bemalt mit romischem Fechter.
+
+Hohe 18 Cent.
+
+- 653 Acht verschiedene Aryballos, rother Thon,bemalt mit Ornamentwerk. Hohe 6 und 8 Cent.
+- 654 Oinochoe, schwarz,mit Akanthusblatt-Verzierung.
+- 655 0inochoe, ebenso.
+
+Hohe 23 Cent.
+
+Gleiche Grosse.
+
+- 656 0inochoe, terra nigra, die birnformige Leibung mit kleeblatformigem Ausguss.
+- 657 0inochoe,ahnlich.
+- 658 Zwei 0inochoeen,ahnlich.
+
+Hohe 20 Cent.
+
+Hohe 16 Cent.
+
+Hohe 19 Cent.
+
+- 659 Skyphos,die eiformige Leibung bemalt in Schwarz, Roth und Weiss mit Kopf in Rankenwerk, seitlich zwei Henkelansatze.
+- 660 Skyphos, terra nigra.
+- 661 Skyphos, ahnlich.
+
+Hohe 10 Cent.
+
+Hohe 8 Cent.
+
+Hohe 9 Cent.
+
+- 662 Kylix, terra nigra, auf kurzem Fussansatz, mit zwei seitlichen Henkeln.
+- 663 Kylix, ahnlich.
+- 664 Kleine doppeltgehenkelte Vase, sogen.Preisvase, terra nigra, die urnformige
+
+Hohe 14 Cent.
+
+- Leibung mit zwei Henkeln.
+- 665 Vase, ebenso.
+- 666 Funf flache Schalen, terra nigra und -sigillata.
+
+Gleiche Grosse.
+
+Diam.12 Cent.
+
+- 667 Hoher Faltenbecher, terra nigra, mit eingeritzten Verzierungen. Hohe 15 Cent. Defect.
+- 668 Fliegende Sphinx.
+
+Hohe 13,Lange 22 Cent.
+
+- 669 Romischer Krieger zu Pferde,fragmentirte Terracotta-Figur.
+- Hohe 16 Cent.
+- 670 15 verschiedene Topfe und Aschenurnen, terra nigra und -sigillata. Hohe 8 und 15 Cent. Zum Theil defect.
+- 671 Zehn verschiedene Thonlampen, zum Theil mit reliefrten Darstellungen.
+- 672 Zwei grosse Stucke versteinertes Holz,von Pfahlbauten herrihrend.
+- Muscheln etc.
+- 674 Eine grosse Partie, mehrere Tausend Stuick fossiler Knochenreste, Zahne, Krallen etc., darunter menschliche Ueberreste, Knochen und Zahne von Rennthieren, Hausthieren, Vogeln, Fischen etc., dabei viele seltene und schone Stucke.
+- 675 Eine grosse Partie Steinwerkzeuge aller Art, Messer, Schaber etc., mehrere Tausend Stuck.
+
+Gelangen partieweise zum Verkauf.
+
+- 676 Eine grosse Partie Pfeil-und Lanzenspitzen, Messer, Schaber etc., darunter viele in aparter Form. Dieselben werden einzeln und partieweise verkauft.
+- 677 Eine grosse Anzahl von mehreren Hundert Stuck Steinbeilen, Aexten, Hammern etc., zum Theil gelocht, theils in Hirschhorn gefasst und an Holz-
+
+Werden vereinzelt und partieweise verkauft.
+
+- staben,darunter viele hervorragend schone Sticke.
+- 678 Eine grosse Partie Gewebe, Bastgefechte, Pfanzenfasern ete. Pfahlbautenfunde.
+- 679 Eine Anzahl Steinperlen etc., Schmuck und Netzbeschwerer.
+- 680 Eine grosse Anzahl Fragmente von Kochgeschirren, Urnen etc. aus der Steinzeit.
+- 681 Eine grosse e Partie Samereien,Frichte,Kuchenuberreste etc. Pfahlbautenfunde.
+- 682 Eine grosse Anzahl Dach- und Fussbodenziegel mit eingeritzten Ver zierungen.
+- 683 Eine grosse Anzahl mehrerer Hundert Stick Krugfragmente, terra 1 nigra und -sigillata, darunter viele mit figuralen Darstellungen.
+- 684 Eine grosse Anzahl Stucke eines Mosaik-Fussbodenbelags.
+- 685 Grosses Modell,Ideal-Darstellung eines Pfahlbautendorfes. Lange 93,Breite 70 Cent.
+- 686 Eine grosse Anzahl —annahernd tausend Stuick —romische Klein-, Mittelund Gross-Bronzen.
+- 687 Eine Anzahl - uber hundert Stuick — Kupferminzen.
+
+## Mobel und Einrichtungs-Gegenstande, Arbeiten in Holz.
+
+- 688 Grosser Kastenschrank auf hohem Sockel, auf fuinf Kugelfuissen ruhend und durch zwei grosse Thuren verschlossen, deren Felder, quaderformig vorspringend, von guillochirten Leisten eingefasst und von geschnitzten Mascarons i uberragte Felder zeigen; die weit vorspringende Kappe mit geffugelten Engelskopfchen. XVIl. Jahrh.
+
+Hohe 230,Lange 200,Breite 75 Cent.
+
+- 689 Grosser Kleiderschrank, der hohe Sockel mit zwei durch vier kleine
+
+Hohe 200,Breite 220,Tiefe 70 Cent.
+
+- Thuren verschlossenen grossen Gelassen, das Obertheil mit zwei grossen Thiren,der architektonische Aufbau geschnitzt mit Rankenwerk und mit guillochirter Leistenverzierung. XVIl. Jahrh.
+- 690 Hoher doppelthuriger Kleiderschrank,in Ahornholz reich eingelegt mit Doppeladler und verschlungenem figuralen Rankenwerk und Leistenverzierung.
+
+Hohe 200,Lange 170, Breite 75 Cent.
+
+- XVIl. Jahrh.
+- 691 Truhenformiger Kastenschrank, durch zwei grosse Thuren verschlossen,
+
+Hohe 95,Lange 185,Tiefe 85 Cent.
+
+- von architektonischem Aufbau, die Felder in hellerem und dunklem Holze reich eingelegt mit Renaissance-Riemenwerk. XVII. Jahrh.
+- 692 Hoher doppelthuriger Sacristeischrank, Eichenholz,reich geschnitzt mit
+- uppigem Rococo-Muschelwerk. XVIII. Jahrh.
+
+Hohe 200,Breite 110, Tiefe 65 Cent.
+
+- 693 Breiter Pfeilerschrank, durch zwei Thuren verschlossen und mit oberer Schieblade, die Friese eingefasst mit guillochirten Leisten, uberragt von gefligelten Engelskopfen und Mascarons.
+
+Hohe 125,Lange 58,Breite 54 Cent.
+- 694 Grosser doppelthuriger Leinwandschrank, reich geschnitzt mit Rankenwerk, mit Schlag- und Seitenleisten in Form von Piedestalen. XVII. Jahrh. Hohe 140,Lange 214,Breite 65 Cent.
+- 695 Grosse Commode, Louis XV.,mit drei Schiebfachern und oberem Klappdeckel, Nussbaumholz, eingelegt in dunklerem Holze in geometrischer Anordnung; die Beschlage der Schiebfacher Bronze. Sehr gutes,in seiner Form apartes Stuck.
+
+Hohe 87,Lange 120,Breite 72 Cent.
+
+- 696 Grosse Commode in braun gestrichenem Holze mit viereckiger, vorn gesehweifter Platte und vier Schiebladen,die hochreliefirte Jagdthier-Darstellungen tragen. Seitlich zwei consolartige Ansatze.
+
+Hohe 100,Lange 200, Breite 75 Cent.
+
+- 697 Grosses Rococo-Cabinet auf vier aus je drei Kugeln gebildeten Fissen; die Vorderseite geschweift, das vorspringende Untertheil mit drei Sechiebladen, das Obertheil mit mittlerem Gelass,dessen Thire bemalt mit ruhendem Hirsch;um dasselbe zehn Schiebladen, deren Vorderfache reliefirt mit Ornamenten und Jagdthieren ete. Sehr schones,interessantes Stick. Hohe 132,Breite 110,Tiefe 45 Cent.
+- 698 Cabinet mit nach oben sich verjungender Platte, mittlerem Gelass und neun Schiebfachern,Nussbaumholz,in geometrischer Anordnung eingelegt
+
+Hohe 74,Breite 100,Lange 40 Cent.
+
+- mit dunklerem und hellerem Holze. Schones Mobel.
+- 699 Kleines Schreibpult mit geschragtem Deckel, Nussbaumholz,in verschiedenfarbiger Musterung eingelegt.
+
+Hohe 20, Lange 60, Breite 60 Cent.
+
+- 700 Viereckiger Tisch von schwarzem Holze auf vier geschweiften Fussen, der Sehragen ebenfalls geschweift und die schwarze Platte mit in heller Masse, in Art der Sgrafitto-Arbeit,gemusterter,reicher,von Figuren belebter Rankenbordure,die ein hnlich geschmucktes viereckiges Mittelfeld umrahmt,im
+
+Hohe 80, Lange 115, Breite 70 Cent.
+
+- edelsten Renaissance-Stil. Schones Stick.
+- 701 Schweizer Bauerntisch auf vier gedrehten, durch breite Leisten verbundenen Fuissen,die Platte in hellem und dunklem Holze geometrisch eingelegt, das Mittelfeld Schiefer.
+
+Hohe 78, Lange 90, Breite 123 Cent.
+
+- 702 Schweizer Bauerntisch auf vier gedrehten, mit Leisten verbundenen Fussen, die runde Platte mit geometrisch eingelegtem Ornamentfries, das Mittelfeld
+
+Hohe 75,Diam.123 Cent.
+
+- Schiefer.XVII. Jahrh.
+- 703 Tisch auf vier gedrehten Fussen, die Platte aus verschiedenfarbigem Nuss-
+
+Hohe S8,Lange 110, Breite 80 Cent.
+
+- baumholz, in geometrischer Anlage reich eingelegt.
+- 704 Ovaler Beisetztisch auf vier gedrehten, kreuzweise verbundenen Stollen. Die Platte Nussbaum,reich eingelegt mit Jagddarstellungcn und Ornament-
+
+Hohe 74,Lange S5,Breite 63 Cent.
+
+- Verzierungen in Ahornholz. Vortreffliches Stick.
+- 705 Viereckiger Beisetztisch,die hohen Stollen proflirt, die Platte mit zwolf
+- Delfter Plattchen mit Landschafts-Motiven. Hohe 75,Lange 80,Breite 48 Cent.
+- 706 Beisetztisch,Eichenholz,auf drei proflirten, durch breite Leisten verbun-
+- denen Fussen.
+
+Hohe 80,Breite S0,Tiefe 80.
+
+- 707 Kleiner Tisch mit vorn und an den Seiten geschweifter viereckiger Platte,
+- Nussbaumholz, eingelegt in dunklem und hellem Holze; die vorderen Stollen profilirt. Hohe 75,Breite 96,Lange 65 Cent.
+- 708 Tisch, das Gestell Nussbaumholz, mit hohen, in geschweifter Kreuzform verbundenen profilirten Stollen. XVIlI. Jahrh. Hohe 77,Linge 89,Breite 67 Cent.
+- 709 Viereckiger Tisch, Stil Louis XVI., mit brauner Bemalung und theilweiser Vergoldung, die Traversen mit Eichenlaubranken und frei herabhangenden Bandschleifen.
+- Hohe 81,Linge 83, Breite 56 Cent.
+- 710 Viereckiger Tisch, Stil Louis XVI., ahnlich,kleiner.
+- 7111
+- Hohe 78,Lange 68,Breite 46 Cent.
+- Kleiner Spieltisch auf sechs gedrehten Fussen, Schragen und Platte in hellem und dunklem Holze uberaus reich eingelegt mit ippig verschlungenen Blumenranken, Costimfguren etc.
+
+Hohe 82,Lange 89,Breite 40 Cent.
+
+- 712 Spieltisch. Nussbaumholz, auf vier gedrehten,durch Kreuz verbundenen
+- Fussen,die Platte mit blauem Stoffbezug. Hohe 78,Lange 100,Breite 63 Cent.
+- 713 Tisch,ahnlich. Gleiche Grosse.
+- 714 Kleiner Servirtisch auf vier gedrehten Fussen in gemasertem Eichenholz; in die Platte eingelassen 15 Fayenceplattchen.
+- Hohe 70,Lange 74,Breite 48 Cent.
+- 715 Armsessel, Eichenholz; die Rucklehne geschnitten mit Rankenwerk und Jahreszahl 1705. Hohe 110 Cent.
+- 716 Armsessel, die Rucklehne geschnitzt mit Ornamentwerk und Jahreszahl 1712.
+- Hohe 95 Cent.
+- 717 Armsessel, die Rucklehne geschnitzt mit Vogelfigur und Rankenwerk. XVII. Jahrh. Hohe 100 Cent.
+- 718 Sieben verschiedene Schweizer Bauernstuhle, die Rucklehne geschnitzt mit Mascarons in Laubverschlingungen,gefugelten Engelskopfen etc. Hohe 85 Cent.
+- 719 Kleine Truhe auf hohem Sockel, mit zwei Schiebfachern; die Frontseite in
+- reicher architektonischer Anlage mit Giebelnischen, die Schlagleisten pilasterformig,mit Blatt-Ornament. Sehr hubsches Mobel. XVII. Jahrh. Hohe 75,Breite 87,Tiefe 53 Cent.
+- 720 Grosser Nahkasten mit geometrischer Einlage in dunklem und hellem Holze. Hohe 20,Lange 46,Breite 27 Cent.
+- 721 Kleiner Nahkasten aus Nussbaumholz.
+
+Hohe 14,Lange 20,Breite 18 Cent.
+
+- 722 Viereckiger Kasten von schwarz gebeiztem Holze, die Vorderfache reich geschmickt in architektonischer Anordnung mit Alabaster-Auflage.Die tragen ebenfalls solche Platten, die gravirt mit Band-
+
+Hohe 25,Lange 48,Breite 29 Cent.
+
+- Seitenwandungen verschlingung.
+- 723 Cassette in Kofferform, mit Lederbezug, mit Eisenbandern und Messing-
+
+Hohe 14,Lange 22,Breite 15 Cent.
+
+Hohe 10,Lange 23,Breite 14 Cent.
+
+- knopfchen beschlagen.
+- 724 Kleine Schatulle mit gewolbtem Deckel, Nussbaumholz.
+- 725 Kleine Schatulle, Nussbaumholz,durch drei Klappdeckel verschlossen.
+- Hohe 7,Lange 26,Breite 16 Cent.
+- 726 Console,Eichenholz, geschnitzt mit Rankenwerk.
+- 727 Ein Paar Consolen mit Mascarons und Rollenwerk.
+- 728 Eine Anzahl Consolen, braun und theils vergoldet.
+- 729 Pfeilerspiegel, Stil Louis XVI.; der Rahmen in Holz geschnitzt, braun bemalt und vergoldet mit unterer Bandschleife; der hohe Aufsatz mit mittlerer grosser Vase und Bandern.
+
+Lange 35 Cent.
+
+Hohe 22 Cent.
+
+Hohe 15 Cent.
+
+Hohe 152,Breite 60 Cent.
+
+- 730 Standuhr, Louis XIV.,in geschweifter Form. Schwarzes Holz,die Fusse vergoldet, das Zifferblatt Messing, reich getrieben und ciselirt mit stilvollen Ornamentrosetten und mit emaillirten Ziffern.
+- 731 Standuhr von J. Straub in Wien; das Untertheil Holz mit reichster Bronze-
+
+Hohe 65,Breite 32 Cent.
+
+- garnitur und die Ruckwand mit Spiegelbelag; das runde Uhrgehause von Holz bekront eine vollrunde weibliche Buste; das Zifferblatt mit MessingRondeau, auf dem en relief: Amor, Pfeile schmiedend. Interessantes Stick. Hohe 50 Cent.
+- 732 Hange-Uhr, das runde Zifferblatt umrahmt eine reich getriebene Rococo-
+
+Hohe 55,Breite 45 Cent.
+
+- Verzierung mit figirlicher Darstellung, Messing versilbert. Als Standuhr eingerichtet, in geschweiftem Holzgehiuse.
+- 733 Grosse geschweifte Wanduhr in Form einer Vase nebst Console,
+- braun bemalt und reich applicirt mit Palmetten in ciselirter Goldbronze. Hohe 100 Cent.
+- 734 Pendule empire in Form eines Monumentes, von Adler iberragt. Hohe 58 Cent.
+- 735 Kleine Standuhr in lyraformigem Holzkasten.
+
+Hohe 30 Cent.
+
+- 736 Uhrgehause, Holz, geschnitzt mit Saturn, auf einem Monument sitzend. Polychromirt.
+
+Hohe 35 Cent.
+
+- 737 Uhrgehause, Holz, geschnitzt mit Lowe und Adler, ein Kartuschenschild haltend. Polychromirt.
+
+Hohe 30 Cent.
+
+- 738 Rococo-Uhrgehause, geschnitzt mit zwei Baren, ein Kartuschenschild haltend. Hohe 30 Cent.
+- 739 Schweizerscheibe, Reichswappen mit Doppeladler, neben dem ein Standartentrager und Landsknecht; oberhalb Schlachtendarstellung; unten Doppel-
+
+Hohe 42,Breite 30 Cent.
+
+Gleiche Grosse.
+
+- wappen und 1542. Vortreffliche moderne Arbeit.
+- 740 Schweizerscheibe,hnlich und Gegenstuick.
+- 741 Schweizerscheibe; zwischen zwei Saulen auf rothem Hintergrunde Fahnentrager- und Landsknechtsfigur;oberhalb Reiter und Sehlacht-Darstellung; unterhalb zwei Wappen mit Kugeln. Datirt 1543. Ebenso.
+
+Hohe 48,Breite 40 Cent.
+
+- 742 Schweizerscheibe, hnlich. Pendant zum Vorigen.
+
+Gleiche Grosse.
+
+- 743 Ein Paar runde Scheiben, rosettenformig,in buntem Glase, der aussere
+
+Diam.31 Cent.2 Stick.
+
+- Rand in gothischer Bogen-Musterung.
+- 744 Grosser Kronleuchter zu vierundzwanzig Lichtern, auf Hirschstangen auf gesetzt und mit Rehgehornen reich verziert, die vier Tragketten durchsetzt mit Elfenbein-Appliquen.
+
+Hohe 130,Diam,130 Cent.
+
+- 745 Hangeluster mit der Halbfigur Gott Vaters, die Kerzenhalter von Geweihen
+
+Hohe 70,Breite 110 Cent.
+
+- gebildet. Interessant.
+- 746 Kronleuchter zu sechs Lichtern, aus Rehgeweihen gebildet, an drei Trag-
+
+Hohe 65,Diam.48 Cent.
+
+- ketten hangend und von Krone uberragt.
+- 747 Kronleuchter, cbenso. Gleiche Grosse.
+- 748 Kronleuchter, ebenso.
+- 749 Kronleuchter, ebenso.
+
+Gleiche Grosse.
+
+Gleiche Grosse.
+
+- 750 Ein Paar Wandleuchter, aus Elchgeweihen gebildet. Linge 40 Cent.
+- 751 Ein Paar dreiarmige Wandleuchter, aus Hirschstangen gebildet. Lange 30 Cent.
+- 752 Ein Paar dreiarmige Wandleuchter, aus Hirschstangen gebildet. Lange 30 Cent.
+- 753 Ein Paar dreiarmige Leuchter, aus Hirschstangen gebildet.
+
+754 Ein Paar desgleichen, kleiner.
+
+Lange 45 Cent.
+
+Lange 30 Cent.
+
+- 755 Ein Paar Tischleuchter, aus Gemsgeweihen gebildet.
+
+Hohe 20 Cent.
+
+- 756 Tischleuchter fur vier Lichter, aus Rehstangen gebildet. Hohe 40 Cent.
+- 757 Ein Paar Altarleuchter,Holz,in Form vollrund geschnitzter Engelsfiguren. Hohe 30 Cent.
+- 758 Kleine Hausapotheke in mit Eisen beschlagenem Holzkasten. Hohe 20,Lange 20,Breite 20 Cent.
+- 759 Hausaltarchen, Holz, in architektonischer Anlage mit Christus am Kreuze, von zahlreichen Engelsfiguren umgeben.
+
+Hohe 68,Breite 40 Cent.
+
+- 760 Crucifix auf hohem dreiseitigen Sockel, reich eingelegt mit kleinen Perlmutter-Sternchen und Stabchen in Elfenbein und Ebenholz.
+
+Hohe 28 Cent.
+
+- 761 Ein Paar hohe Reliquiare in Holz,in Form eines Altars, mit seitlichen fugelforimigen Ansatzen und von Strahlenkranz iberragt. Versilbert. Hohe 100 Cent.
+- 762 Christus als Schmerzensmann, auf einem Steinsockel sitzend. Holz, poly-
+
+Hohe 28 Cent.
+
+- chromirt.
+- 763 Gott Vater, in Wolken schwebend, in Hochrelief geschnitten. Holz. Hohe 14,Breite 9 Cent.
+- 764 Sitzender Bauer, vollrund in Holz geschnitten und polychromirt. Hohe 35 Cent.
+- 765 Bacchus, in beiden Handen einen Pokal haltend; Eichenholz,vollrund geschnitzt.
+
+Hohe 40 Cent.
+
+- 766 Weibliche Heiligenfigur,in Wolken schwebend. Polychromirte vollrunde Holzfigur. XVII. Jahrh.
+
+Hohe 100 Cent.
+
+- 767 Ein Paar Heiligen-Figuren, Holz, geschnitzt. Hohe 30 Cent.
+- 768 Kleines Schiffsmodell der Sudsee-Insulaner. Holz. Linge 34 Cent.
+- 769 Kalenderrahmen, Holz,geschnitzt mit Mascarons und Rankenwerk. XVII.
+
+Hohe 46,Breite 30 Cent.
+
+- Jahrh.
+- 770 Kalenderrahmen, der Aufsatz geschnitten mit Rankenwerk. XVIl. Jahrh.
+- Hohe 37,Breite 27 Cent.
+- 771 Cylindrische Bichse, Bambus, geschnitzt mit Chinesen in Landschaft.
+- Hohe 14,Diam.9 Cent.
+- 772 Tabatiere,Holz,geschnitzt in Form einer Grotesk-Figur. Hohe 10 Cent.
+- 773 Stockknopf, vollrund, geschnitzt mit Seeweibchen und Reliefigirchen der
+
+Linge 9 Cent.
+
+- 774 Vier Mobelappliquen mit gefigeIten Engelskopfen und Rankenwerk. Holz. Lange 60, Breite 20 Cent.
+- 775 Vier Rococo-Kartuschenschilder, bemalt und vergoldet mit Sprichen.
+- Lange 60,Breite 35 Cent.
+- 776 Vier Ricklehnen von Schweizer Bauernstihlen, geschnitzt mit Mascarons
+
+Hohe 60 Cent.
+
+- und Palmetten.
+- 777 Ein Paar kleine Mobel-Fillungen, Nussbaumholz, mit Ritterfiguren in
+
+Hohe 19,Breite 8 Cent.
+
+- Ahornholz eingelegt.
+
+## Pracht- und illustrirte Werke.
+
+- 778 Album des Rheines. Sammlung von Stahlstichen. Frkft. 846.Hlwdbd. 4
+- 779 Aquarelle Dusseldorfer Kunstler. 59 lithogr. Farbdrucke. qu. fol. Dissel-
+- dorf.In 2 gepr.Lwd.-Mppn.
+- 780 Argo, Album f. Kunst und Dichtung“,herausgeg. v.F. Eggers, Th.Hosemann,
+- Frz. Kugler. Mit vielen, theils buntfarbigen Illustrationen.Breslau 857.40.
+- 781 The Art-Journal, Jahrgang 18551857, 35 Hefte mit zahlr. Illustr.
+- 782 Berghaus, H.,Die Volker des Erdballs“. Mit 150 farbigen Abbildungen.
+- Brissel 853.2Hlwdbde.80.
+- 783 Berg, Albert,Die Insel Rhodus".Mit viel. Radirungen und Holzschnitten. 48 Lfgen.Braunschwg. 861.18 Hefte.4.
+- 784 Die Koniglichen Museen in Berlin. Eine Auswahl der vorzigl. Kunst-
+- schatze der Malerei, Seulptur und Architektur der norddeutschen Metropole. Mit vielen Stahlstichen und erlaut. Text. Leipzig o. J. Gepr.Ldbd. 40.
+- Madonna.Holz.
+- 785 Die Bibel oder die ganze hl. Schrift n. M. Luther. Coln 861. 308 Seit.
+- gr.40.
+- 786 Biernatzki,H., 24 Stahlstiche aus Schleswig-Holstein. Munch.o. J. Lwdbd.
+- 787 Bilder aus dem schwedischen Volksleben, zwolf Bll. nach Orig. Gemilden schwed.Kinstler in Farbendruck.Mit beschreibendem Text in 3 Sprachen. Gothenburg 855.gr.qu.fol.Ppbd.
+- 788 Blumen-Album fir Damen. Mit 8 color. Tafeln. Stuttgart S57. Gepr.Lwdbd. qu.80.
+- 789 Brehm,C.L., Monographieder Papageienmit vielen colorirten Lithographieen.
+- Jena 853.10 Hefte.fol.
+- 790 Les chasses et le sport en Hongrie nach dem ungarischen Originale der Grafen E.Andrassy,M. Sandor, B.Festetits u. a., ibers. von J. B.Durringer und F.A. Schwiedland, mit 25 lithogr. Buntdrucken.Pest o.J. Eleg. Hlwdbd.gr.fol.
+- 791 Croci Cynaei, gross Martyrbuch", Hanau 617. Ppbd. fol.
+- 792 Firsten-Album. Liefg.1—5.Lpzg.869.5 Hefte.4.
+- 793 Grandville, J. J., les etoiles“. Texte par Mery. Mit vielen buntfarbigen
+- Illustr. Paris o. J.Gepr.Lwdbd. fol.
+- 794— "Les feurs animees".2 voll. av. beaucoup d'illustr. color. Paris 847. 2 gepr.Lwdbde. fol.
+- 795 Hahn, L., Friedrich der Grosse", mit zehn Bildern. Berlin 855. gr. fol. Lwdbd.
+- 796 Hahn,W,1870-1871.Der Krieg Deutschlands gegen Frankreich,mit Illustr. Bielefeld 871.Lwdbd.80.
+- 797 Heath, Ch., Les heroines de Shakespeare avec beaucoup de gravures"
+- Paris. s. a. gepr. Ldbd.
+- 798 Herder,Der Cid",mit Randzeichnungen von E. Neureuther. Stuttgart und
+- Tubingen 838. fol.
+- 799 Hochstetter, F.V.,Neu-Seeland, mit 2 Karten, 6 farbigen Stahlst. und viel. Holzschn. Stuttg. 863. Gepr. Hlwdbd. fol.
+- 800 St. Julien, Ch. de,Voyage pittoresque en Russie et en Siberie“. Mit vielen
+- Illustr. Paris S54.Gepr.Lwdb.
+- 801 Illustrirte Welt,3.bis 7. Jahrgang 855-59. Stuttg.5 Bande gebunden.
+- 802 Album von Kissingen. In Stahlstichen. Kissingen 845. qu. 80.
+- 803 Kretschmer, A.und Rohrbach, C.,Die Trachten der Volker von Beginn der Geschichte bis zum 19. Jahrh." Prachtwerk in Farbendruck mit Text. 20 Lfgn. Leipzig 860. gr.40.
+- 804 Kruse, Chr,Atlas von allen europaischen Landern und Staaten.3.Ausgabe.Leipzig 822. Ppbd. gr.fol.
+- 805 Lamartine, Portraits-vignettes pour histoire des Girondins". Paris 848. Lwdbd. gr. 80.
+- 806 Lauckhard, C. F., Geographische Bilder aus Afrika" Mit Illustr. in Farbendruck. Darmstadt o. J. qu. fol. In Orig.-Mappe.
+- 807 Autograph Lavater's. Ein Spruch in Rahmen unter Glas.
+- 808 Le Sage,Der hinkende Teufel", ibers. von Fink. Mit vielen Holzschn. Pforzh.840.Hlwdbd.
+- 809 Konig Ludwig-Album, V. und VI. Jahrgang. 63 Blatt Lithographieen,
+- Stiche und Farbdrucke. gr. fol. Safian-Led.-Mappe mit reicher Goldpressung.
+- 810 Menzler,Herm.,Jagd-Albumnach Originalen des J. E. Ridinger.27 Lieferungen mit vielen Lithographien. fol. Berlin.In Orig.Mappe.
+- 811 Muiller, Ad.,Das Gebet des Herrn“. Acht Arabesken mit Sprichen in
+- lith. Buntdruck. Hlwd.-Mppe. 40.
+- 812 Mueller, Joh., Ueber Alterthumer des ostindischen Archipels". Berl. 859. Maroquinbd.
+- 813 Die Gallerieen von Munchen. Eine Stahlstich-Sammlung der vorzigl. Gemalde der kgl. Pinakothek etc., nebst Text von O. A. Bank. Leipzig o. J. Gepr. Ldbd.m.Goldsch.40.
+- 814 Laurent, M.,Histoire de l'empereur Napoleon".Av.illustr.p. H.Vernet. Paris 839. Ppbd. mit Lederricken. fol.
+- 815 (Nizza) Visconti, Nice et ses environs“. 10 planches chromolith. p. Damand.
+- Paris s.a.Ppbd.qu.fol.
+- 816 Overbeck,F.,"Darstellungen aus den Evangelien".(Dusseldorf o.J.) Gestochen von Ludy, Steifensand, Pfugfelder,Rud. Stang ete. Nebst erlaut. Text. Gepr.Lwd.-Mappe. qu. fol.
+- 817 Owen, Jones,Flowers, Fruits,Winged Thoughts" Blumen,Frichte und Vogel. 3 Bde. engl. Farbdrucke mit Text in Goldschrift. 3 eleg. gepr. Ldbde. fol.
+- 818 Payne's Universum u. Buch der Kunst. Band 2. Mit vielen Illustrationen. Leipzig u. Dresden o. J. Gepr. Lwdbd. 40.
+- 819 —Dasselbe.Band 3 in 15 Hftn.
+- 820 Petermann's Jagdbuch. Munchen o. J. 40.
+- 821 Der Psalter,nach der Uebersetzung M.Luther's,mit vier Holzschnitten von Jul. Schnorr von Carolsfeld. Leipzig 855. Gepr.Lwdbd. gr. 40.
+- 822 Ludwig Richter,,Goethe-Album"mit vielen Illustr. Leipz. 853. Gepr. Ldbd.40.
+- 823 Richter-Album,Illustrationen zu O.v. Horn's Schriften. Bd.2-4. Frkft.
+873. 3 Hlwdbde.
+- 824 Storch, ,Salon-Album" mit 12 Stahlstichen. Leipz. u. Dresden 851. Gepr. Lwdbd.gr.80.
+- 825 Schiller's Lied von der Glocke v. B. Reher. I Halfte in 20 Blattern dar-
+- gestellt. Leipzig 855. fol.
+- 826 Schonheiten-Sammlung. Gallerie von 36 weiblichen Bildnissen,im Auftrage Sr. Maj. des Konigs Ludwig I. von Bayern gemalt von Jos, Stieler, gest.
+- von A. Fleischmann. 36 Bli. In rother Lederimappe mit Goldpressung. fol.
+- sichten in Thondruck. Leipz. 858. Gepr. Lwdbd. 80.
+- 828 Schwind, Mor. v., Das Marchen von den 7 Raben".6 Bll. Lichtdrucke mit erlaut. Text v. J. Albert. qu. fol.
+- 829 Shakespeare,W., complete works. Mit 270 Illustr. Leipzig 837. 1105 Seiten.
+- Gepr. Hldbd.
+- 830 Strauss,F.A. und Otto,Die Lander und Statten der hl. Schrift in ausgewahlten Bildern mit Text". Stuttgart 861. Prachtband mit Goldpressung. 40.
+- 831 Stumpf, Joh., gem.loblicher Eidgenossenschaft Stetten,Landen und Volker denkwirdige Thaten und Beschreibung. Zurich 546. Pgbd. fol.
+- 832 Varin, A, L'empire des legumes". Paris s. a. gepr. Ldbd.
+- 833 "Les papillons. Metamorphoses terrestres des peuples de l'air"; texte par E. Nus et Ant. Meray 2 voll. av. beaucoup d'illustr. color. Paris s. a. Hlwdbd.fol.
+- 834 (Wien.) Die Kunstschatze Wiens in Stahlstich nebst erlaut. Text von A. R. von Perger.Triest 854.Gepr.Lwdbd.40.
+- 835 Die landlichen Wohnsitze, Schlosser und Residenzen der Ritterschaftlichen Grundbesitzer in der preuss.Monarchie,mit viel. farb.Lithographieen.Band 5—-10. 6 eleg. gepr. Lwdbde. qu. fol.
+- 836 Wolff, 0. L. B.,Die Donau und ihre Ufer, mit 12 Stahlstichen und 63 Holz
+- schnitten v.Bartlett.Leipzig 847.Gr.40.
+
+Eine umfangreiche interessante Sammlung von
+
+## Geweihen
+
+bestehend aus:
+
+837 Hirschkopf,vollrund, mit abnormem Achtender.
+
+838 do.mit aufgesetztem Zwolfender.
+
+839 do.mit aufgesetztem abnormen Elfender.
+- 840 Hirschkopf mit Zehnender.
+
+841 do.mit Zehnender.
+
+842 do.mit aufgesetztem abnormen Dreizehnender.
+
+843 do.mit Dreizehnender.
+
+844 do.mit Zehnender.
+
+845 do.mit abnormem Dreizehnender.
+
+846 do.mit abnormem Elfender.
+
+847 do.mit abnormem Zehnender.
+
+848 do.mit Zehnender.
+
+849 do.mit abnormem Neunender.
+
+850 do.mit abnormem Zehnender.
+
+851 do.mit Zehnender.
+
+852 do.mit Zehnender.
+
+853 do.mit Zehnender.
+
+854 do.mit abnormem Zehnender.
+
+855 do.mit Zwolfender.
+
+856 do. mit abnormem Vierzehnender.
+
+857 do.mit Zwolfender.
+
+858 do.mit abnormem Dreizehnender.
+
+859 do. mit Zehnender.
+
+- 860 Schweres canadisches Hirschgeweih mit abnormem Elfender.
+- 861 do. abnormer Fuinfzehnender.
+- 862 do. Vierzehnender.
+- 863 Grosses Elchgeweih.
+- 864 30 diverse Paar Gemsgeweihe.
+- 865 Elf diverse Widder- und Steinbockhorner.
+- 866 Geweih eines Edelhirsches, nebst einer Anzahl Fragmente von Geweihen.
+- 867 Reh-,Luchs- und Gemskopf, ausgestopft.
+- 868 20 diverse Hirschgeweihe.
+- 869 240 zumeist abnorme Rehgeweihe.
+
+Interessenten steht auf Wunsch Special-Verzeichniss der Geweihe gerne zu Diensten!
+
+Hohe 30 Cent.

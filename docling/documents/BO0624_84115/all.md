@@ -1,0 +1,2266 @@
+## Dessins, Aquarelles, Gouaches
+
+## BAUDOUIN
+
+(PIERRE-ANTOINE)
+
+Paris,1723+Paris,176g.
+
+1
+
+## La Lecture interrompue.
+
+Vue de trois-quarts,vers la gauche,a demi couchee dans un grand fauteuil bleu et or, la tete renversee et appuyee sur un coussin bleu, une jeune femme, dont le deshabille bleu pale, orne de rubans et de mousseline,est largement ouvert sur la poitrine, reve,les yeux au ciel. Le livre quelle tenait s'échappe de sa main gauche, etendue de cote, et tombe sur une petite niche a chien ou s'appuie une guitare. A gauche, on voit un lit de repos drape de rideaux bleus a crepines et glands d'or, derriere une table-bureau chargee de papiers, de cartes, d'une mappemonde et de plusieurs livres, dont lun, ouvert, est intitule:Histoire des voyages. Au mur du fond, qu'on apercoit au dela d'un paravent a feurs, un portrait est accroche dans une bordure ovale et, plus a droite,un trumeau a sujet de singerie surmonte la porte.
+
+Gouache.
+
+Haut.,295 millim.; larg.,225 millim.(1).
+
+Au dos de la peinture, sur le carton de l'encadrement, on lit en haut,a gauche, d'une ecriture ancienne:Bauduin(sic).
+
+Repr. dans Maurice Tourneux,la Collection Jacques Doucet:Pastels et Dessins
+
+(les Arts,n°36,decembre 1go4,p.28), sous le titre:Jeune Femme endormie.
+
+Le meme sujet a ete traite par Baudouin dans une autre gouache:le Midi, gravee par E. de Ghendt (Bocher, les Gravures francaises du XVIlle siecie;Paris, 1875; t.II,P.-A.Baudouin,n33),a cette difference pres,entre autres,que le lieu de la scene est un jardin. N. Lavreince a egalement traite le meme sujet dans le Roman dangereux, grave par Helman. Enfin, on notera, dans l'arrangement, divers details rappelant la Philosophie endormie, de Greuze,exposee au Salon de 1765 et gravee par Moreau le Jeune et Aliamet.
+
+Cadre ancien, époque Louis XV, bois sculpte et doré.
+
+(1) Les dessins n²ayant pas eie decadres, les mesures indiquees ont ete prises sur le cadre.
+
+1
+## BAUDOUIN
+
+(PIERRE-ANTOINE)
+
+2
+
+## Le Jardinier galant.
+
+Assise a droite sur une pierre, dans un jardin,une jeune fille vetue d'un corsage gris et d'un jupon jaune, detourne vers la droite sa tete couverte d'une coiffe blanche, et fait un geste de la main, comme pour se defendre des attaques d'un galant jardinier, en veste rougeatre, chausses jaunes et bas bleus, agenouille a sa gauche, de profil, et qui la lutine. A terre, au premier plan, le chapeau de paille du jardinier; a gauche, un peu en retrait, un arrosoir; au fond, derriere des arbustes, une habitation.
+
+Gouache.
+
+Haut.,185millim.;larg.,140millim.
+
+Repr.en fac-simile par la Societe de reproduction des dessins de maitres (3e annee, 1gii),avec une notice par E. Dacier.
+
+C'est une premiere pensee pour le Jardinier galant, la celebre gouache executee (cf.Bocher,les Grav.franc.du XVIlle s.;Baudouin,n25).
+
+Cadre ancien, epoque Louis XV, bois sculpte et dore.
+## BOUCHER
+
+(FRANCOIS)
+
+Paris,1703Paris,1770.
+
+## La Jeune Fille a la colombe.
+
+En buste,le visage de profl et le corps de trois-quarts a gauche, la jeune fille a les cheveux tresses et releves, ornes d'un ruban bleu et d'un bouquet de roses roses, le cou et la gorge nus, les épaules recouvertes d'une draperie bleue. Sur un coussin,a gauche, ses bras nus sont a demi-croises et ses mains appuyees l'une contre l'autre. Elle incline legerement la tete,le regard baisse vers loiseau qui sest pose sur son bras droit.
+
+Signe dans l'angle inferieur gauche:F. Boucher, 1768. Pierre noire rehaussee de pastel, sur papier gris.
+
+Haut.,311 millim.; larg., 239 millim.
+
+Repr. dans M.Tourneux,la Coll.J.Doucet:Pastels et Dessins (les Arts,op.cit.,
+
+Sujet frequemment traite par l'artiste et dont il existe plusieurs variantes gravees, p.26);et dans P. de Nolhac,Francois Boucher (Paris,1go7), pl.,p.168.
+
+d'ailleurs tres differentes du present dessin:la Fille a l'oiseau, par Huquier;l'Oiseau cheri,par Daulle;l'Oiseau prive,par Flipart.
+
+Cadre ancien, epoque Louis XV,bois sculpte et dore,fronton coquille
+## BOUCHER
+
+(FRANCOIS)
+
+4
+
+## L'Amour porte par les Graces.
+
+Les trois Graces, nues, sont debout et forment un groupe ingenieusement balance. La premiere, au centre et un peu en avant d'une de ses compagnes, —que l'on voit a droite, le corps de face et legerement incline, — a le visage de profil et le corps presque de face; une couronne passee dans son bras gauche ramene sur la poitrine, elle tient, de la main droite, la main de sa troisieme compagne, vue de dos,a gauche,au second plan, et renverse la tete tournee vers la gauche. Soutenu sur les epaules des trois jeunes femmes, lAmour brandit d'une main une feche et de l'autre une torche. A terre, une guirlande.
+
+Signe dans l'angle inferieur gauche, au crayon:F. Boucher, 1768.
+
+Pierre noire,legerement relevee de craie et de sanguine, sur papier gris.
+
+Haut.,2g5 millim.;larg.,193 millim.
+
+On lit,a l'encre,au dos de l'encadrement,sur un papier ancien:aVente Norblin,1855; vendu 26o fr.a Blaizot,paye a lui 325.Voir le Tresor de la curiosite,tome deuxieme, page 5og . -On trouve en effet au no 41 de la vente Norblin de La Gourdaine (fevrier 1855): aLes Trois Graces et lAmour,charmante composition aux crayons noir et blanc, sur papier de couleur .-La fin de la note n'est qu'un renvoi a un compte rendu de la vente Norblin, paru dans le Tresor de la curiosite, de Charles Blanc (t.Il, Paris,1858）.
+
+Collection Alfred Le Ghait (vente anonyme,Paris,28 fevrier 1877,n° 18）.
+
+Repr. dans:lArt,1877,t. I,p.213;—dans Andre Michel,Francois Boucher(Paris,1886), p.115;et dans P.Mantz,Boucher,Lemoyne,Natoire (Paris,88o),p.110.
+
+Ce dessin est sans doute la premiere pensee d'un tableau non execute,connu par la miniature de Charlier,qui se trouvait autrefois dans le cabinet du prince de Conti.L'esquisse peinte de ce tableau a passe en vente le 27 decembre 1777 (les Trois Graces supportant l'Amour tenant deux flambeaux),et est entree au Louvre avec la collection La Caze （toile ovale;h. o,8o sur 1.o.65;n 162 du catal. de la coll. La Caze et no 47 du catal. sommaire; cf. Goncourt, Art du XVllle siecle,éd.in-18,re serie,p.281). Cette esquisse,qui differe un peu du present dessin, a éte gravee par J.-B. Simonet.-Une autre variante, celle-ci tres differente, puisquelle ne comprend que deux des Giaces,a ete gravee par Daulle, d'apres le dessin original de Boucher, sous le titre: l'Amour porte par les Graces(1758).
+
+Cf.P.Maniz,Boucher,etc.,op.cit.,p.112.
+
+Cadre ancien,poque Louis xV,bois sculpte et dore,fronton coquille.
+## BOUCHER
+
+(FRANCOIS)
+
+5
+
+## Interieur rustique.
+
+Assise sur une chaise et tournee vers la droite, dans une chambre encombree de meubles et d'ustensiles de menage,une jeune femme,vue de dos,le visage en profil perdu, montre a une fillette assise sur ses genoux, loiseau qu'un autre enfant, debout pres d'elle, tient dans sa main droite.Au fond,derriere une draperie jetee sur une corde,un petit enfant contemple la scene du haut d'un escalier.
+
+Signe en bas,a droite:F.Boucher.
+
+Dessin a la plume,lavé d'un peu de bistre.
+
+Haut.,26o millim.;larg., 193 millim.
+
+Repr.en fac-simile dans les Maitres du dessin (Paris,3e annee,1go1-1go2,pl.109)
+
+Cadre ancien,epoque Regence,bois sculpte et dore.
+## BOUCHER
+
+(FRANCOIS)
+
+6
+
+## Les Enfants aux pampres.
+
+Ce sont deux enfants nus, qui jouent avec des pampres. Le premier, couche,de droite a gauche,en travers de la composition,la jambe gauche repliee et l'autre etendue,leve les deux bras vers la droite et attire a lui un rameau de vigne charge de grappes. Au second plan, on apercoit de profil un autre enfant, adosse au premier, couche dans le meme sens et tenant une grappe de raisins.
+
+Pierre noire,legerement relevee de sanguine et de craie, sur
+
+Haut., 233 millim.； larg., 342 millim.
+
+papier gris.
+
+Vraisemblablement le n°186 de la vente Blondel d'Azincourt (fevrier 1783）: u Un groupe de deux enfants pressant des raisins;ce dessin est aux trois crayons sur papier gris).
+
+Grave en maniere de crayon et en contre-partie par G.Demarteau (n° 5i8 de l'ceuvre), sans titre et avec cette note : tire du cabinet de Mme d'Azaincourt .
+
+Cadre ancien, epoque Louis xV,bois sculpte et dore
+## BOUCHER
+
+(FRANCOIS)
+
+## Etude de femme nue.
+
+Elle est vue de trois-quarts,a demi couchee, de gauche a droite, sur un lit de repos, derriere lequel tombent des draperies. Le visage, aux yeux mi-clos, est penche sur l'épaule gauche;le bras droit,écarte du corps, s'allonge avec abandon sur les coussins qui soutiennent le buste, et le bras gauche,autour duquel s'enroule une legere draperie, repose sur la cuisse ouverte,la main faisant le geste d'indiquer un objet vers la droite. La jambe droite est étendue, la gauche repliee et écartee.
+
+Pierre noire relevee de craie, sur papier brun.
+
+Haut., 276 millim.; larg., 424 millim.
+
+Etude pour la figure,reproduite a peu pres identiquement,avecaddition de divers accessoires, dans le Reveil de Venus, grave en maniere de crayon par L. Bonnet (n° 20 del'oeuvre).
+
+Cadre ancien, epoque Louis XIV, bois sculpte et doré.
+Quatre etudes.
+
+- a.En bas,a gauche:une esquisse de bras.
+- b.Au-dessus:uneetude de femmenue,vue de profil,a demi couchee de gauche a droite,la jambe gauche passee sous la droite étendue,le corps appuye sur le coude gauche et le bras droit tombant naturelle-
+- ment, la main repliee.
+- c.Au milieu:une femme en buste, la tete de profil et le corps de
+- trois-quarts a droite, penchee vers le spectateur.
+- d.A droite:une femme en buste, de dos,le corps de trois-quarts
+- a droite,penchee vers le spectateur.
+
+Sanguine,avec rehauts de craie, sur papier gris.
+
+Haut.,252 millim.,;larg.,323millim.
+
+b.L'etude de femme coucheea ete utilisee par Boucher dans un tableau representant Venus couchee et endormie pres de l'Amour,qui passa a la vente du chevalier de Cene (1786) et dans une vente anonyme faite en avril 1793, et qu'on ne connait plus que par une gravure de Michel Aubert, accompagnee dun quatrain commencant par ce vers, devenu le titre del'estampe:Ne cessons de craindre une belle(cf. Goncourt,l'Art du
+
+XVIIIe siecle,éd.in-18,1re serie,p.278).
+
+c.La femme en buste,vue de trois-quarts,est une etude pour la nymphe de gauche de la Naissance de Venus, gravee par Daulle.
+
+Cadre ancien,epoque Louis XV,bois sculpte et dore.
+
+## BOUCHER
+
+(FRANCOIS)
+
+8
+
+## Feuille d'etudes.
+## BOUCHER
+
+(FRANCOIS)
+
+9
+
+## Les Crepes.
+
+Dans un cellier, encombre d'ustensiles divers, trois jeunes femmes sont reunies a droite,devantl'atre.L'une,debout a l'arriere-plan et vue de face, se penche legerement pour etendre son tablier devant le foyer, tout en suivant des yeux les gestes de la seconde qui, assise sur un banc, de profil a droite, tient a deux mains une poele au-dessus du feu. La troisieme,assise par terre au premier plan,le dos tourne a la cheminee et tenant un bebe sur les genoux, se detourne a demi,en s'accoudant a un escabeau, pour regarder ses compagnes.
+
+Signe en bas, a gauche : Boucher. Dessin a la plume lave de bistre.
+
+Haut.,222millim.;larg.,177 millim.
+
+Collection J. de Bryas (vente a Paris, avril 18g8),n°2o du catalogue,ou il est indique par erreur comme ayant éte grave par Bonnet.
+
+Grave par Huquier, directement;et par Demarteau l'aine （n° 72 de leuvre),en sanguine et en contre-partie, avec cette indication:α tire du cabinet de Mme Dazaincourt 》.—N'est pas decrit au catalogue de la vente Blondel d'Azincourt (fevrier 1783).
+
+La gravure de G. Demarteau est reproduite sous le nom de Bonnet dans le
+
+Francois Boucher d'Andre Michel (op.cit.).
+
+Il existe plusieurs etudes pour ce dessin, soit a la sepia (vente de la coll. Derenaucourt,Paris,1883);soit au crayon noir (vente de la coll.E.Féral,Paris,1go1); soit a la sanguine (vente de la coll. Roblin, Paris, 1goo)
+
+Cadre style Louis XVI,bois sculpte et dore;au fronton,un nceud de ruban.
+suivant.
+
+## COCHIN le Fils
+
+(CHARLES-NICOLAS)
+
+Paris,1715+Paris,1790.
+
+10
+
+## Portrait de M.Bailleul.
+
+En buste jusqu²au-dessous de l'epaule,le visage et le corps de profil a gauche, il porte une petite perruque a trois rangs de boucles, un col de lingerie et un habit sans ornements.
+
+Signe en bas:C.-N. Cochin filius delin.1765.
+
+Crayon noir, legerement releve de sanguine dans les chairs.
+
+Rond.Diam.1oo millim.
+
+Collection Alfred Le Ghait (vente anonyme,Paris,28 fevrier 1877),no47,avec le dessin
+
+Il s'agit sans doute ici de Bailleul,geographe et graveur du roi pour les finances ，qui fut de bonne heure en relation avec C.-N. Cochin:en 173g,il éditait les estampes de 1artiste concernant les fetes du mariage de Madame Premiere de France avec 1'Infant, et en 1747,il signait un etat de paiement pour la gravure des inscriptions des quatre estampes du meme Cochin,retracant les principaux episodes du mariage du Dauphin,en 1745 (cf. Mercure de France,oct.1739,p.2438,et Nouvelles archives de lart francais,3e serie [Revue de lart francais ancien et moderne],t.Il,1885,p.163).
+
+10bis
+
+## Portrait de Mme Bailleul.
+
+Disposee de la meme facon et tournee du meme cote,elle est coiffee d'un bonnet de dentelles dans lequel est passe un ruban noue derriere la tete, et porte autour du cou un petit fichu.
+
+Signe en bas: C.-N.Cochin filius delin.1763.
+
+Crayon noir,releve de sanguine dans les chairs, le ruban du bonnet et le haut du corsage.
+
+Pendant du precedent.
+
+On lit au dos de l'encadrement, d'une ecriture ancienne:Dessine par M. Cochin en 1763. f[le nom a ete efface],
+
+Portrait de Malame Bailleul donnepar elle-meme a M.A.S le107bre1784.
+
+Cochin avait fait une premiere fois le aportrait de M. Bailleul et de son epouse , en 175o. C'est par erreur que Goncourt signale les deux dessins de 175o,exposes au Salon de cette annee (sans n°),comme ayant passe a une vente faite a Paris, le 28 fevrier 1877 (Goncourt, lArt du XV11I siecle,ed.in-18,2serie,p.435):il sagit en realite des deux portraits decrits ici.
+
+Cadres anciens, epoque Louis xVI, de forme ronde;bois sculpte et dore,avec noeud de ruban au fronton.
+
+Rond.Diam.,1oo millim.
+## COCHIN le Fils
+
+(CHARLES-NICOLAS)
+
+11
+
+## Illumination des Ecuries de Versailles
+
+## a l'occasion du second mariage du Dauphin(9 feorier 1747).
+
+Le spectateur, tournant le dos au Chateau, embrasse toute l'avantcour, dont les balustres sont garnis d'une ligne de pots-a-feu; plus loin, la place Royale, ornee d'ifs illumines;et, au fond,les deux Ecuries, couronnes de girandoles.Une architecture simulee,de semblable decoration,relie entre eux les batiments des deux Ecuries,d'un cote a l'autre de la Grande Avenue (aujourd hui avenue de Paris). Une foule nombreuse remplit la place Royale; des carrosses sortent du batiment figure a droite, dont la porte est ouverte. Dans l'avant-cour du chateau,ou vont et viennent des groupes de personnages, un carrosse attele de six chevaux, encadre de cavaliers portant des torches, s'avance vers le chateau, au milieu d'une haie de spectateurs.
+
+Dessin a la plume et au lavis; les lumieres a la gouache.
+
+Haut.,445 millim.;larg., go5 millim.
+
+Salon de 175o (sans no).—Grave par Ingram (Catalogue de lceuvre de Ch.-Nic. Cochin le fils,par Jombert,Paris, 1770,no 161; Chalcographie du Louvre,n4034.
+
+armes royales:Vue general(sic) de la grande illumination des ecuries de Versailles a loccaici des fetes donnees a loccasion du second mariage du Dauphin,fils de Louis XV,avec fut celebre a Fontainebleau, et il n'y eut aucune fete a Versailles a cette occasion.ll sagit Marie-Josephe de Saxe. Le dessin a vraisemblablement éte gratifie d'un titre a une epoque ou le souvenir de ce qu'il represente s'etait perdu.
+
+Au Salon de 175o, Cochin exposait deux dessins consacres a cet evenement:le Roy tenant grand appartement dans la grande galerie deVersailles et les Illuminations des deux grandes ecuries de Versailles, jointes ensemble par des arcades de lumieres. Le livret ajoute: 《Les deux dessins se gravent actuellement .En effet,le premier a ete grave par Cochin le pere, et le second-celui qui nous interesse ici-par Ingram.Dans le catalogue de la Chalcographie, l'estampe est donnee comme anonyme (n 4o34), sans doute parce qu'elle est avant toute lettre; c'est le catalogue publie par Jombert qui devoile le nom d'Ingram.
+
+On remarquera que le dessin,prepare specialement pour la gravure,est en sens inverse de lestampe;leurs dimensions sont identiques. D'apres le Mercure (fevrier 1745,p.177), lillumination eut lieu,pour la premiere fois,le jour du mariage, a l'issue du bal pare donne dans le manege de la Grande Ecurie. Ce batiment se trouve a gauche, quand on tourne le dos au chateau. Sur l'estampe,il occupe sa situation veritable.
+
+Cadre style Louis XV;au fronton,lesarmes royales:
+## DESCAMPS
+
+(JEAN-BAPTISTE)
+
+Dunkerque,1706+Rouen,1791.
+
+12
+
+## Lancement de naoires au Haore, en presence du roi (20 septembre 1749).
+
+Au dela d'un mole garni de spectateurs, s'etend une partie de la rade sillonnee de barques, et la plage d'ou le roi et la Cour, descendus de leurs carrosses et debout sous un pavillon en forme de dais,assistent a la fete. Plus loin,une foule de spectateurs. Vers la gauche, au fond, un navire est deja lance; un autre, a droite, est vu au moment ou son avant entre dans la mer; derriere celui-ci,un troisieme est encore soutenu par ses étais; enfin un quatrieme, au milieu, a chavire sur babord.
+
+Dessin a la plume et au lavis.
+
+Haut., 3go millim.; larg.,555 millim.
+
+On lit en bas sur la monture, dans un cartouche encadre d'attributs maritimes: Le Roy etant sur la plage de larade du Havre voit lancer 3navires a la mer et repre- senter un combat naval.2o 7bre1749.
+
+C'est sous ce titre que J.-Ph.Le Bas a grave, en 1752, cette scene dessinee sur les lieux par Descamps ,en meme temps que cinq autres episodes du voyage du roi au Havre,les 1g et 20 septembre 1749.-Les six dessins commandes a Descamps representaient:PEntree duroi au Havre;la Carenne d'un navire dans le bassin;uneJoute sur l'eau;l'Illumination de la Grande-rue (ceci pour la journee du 1g septembre);un Combat de plusieurs vaisseaux qu'onvenait de lancer;et le Roi sur la hauteur d'Ingouville, entoure des grands de sa Cour (ceci pour celle du 2o).
+
+Cf. sur le voyage du roi au Havre,α complaisance du roi pour Mm de Pompadour qui n'a jamais vu la mer:Barbier, Chronique de la Regence,etc.,t.IV,p. 3go;et la relation detaillee des fetes dans le Mercure de France,nov.1749,p.203;enfin :Notice historique sur J.-B.Descamps,par son fls,J.-B.-M.-A.Descamps(18o7),P.78.
+
+Cadre style Louis XVI,bois sculpte et dore;au fronton, cartouche encadre de faisceaux d'armes et d'attributs maritimes.
+## FRAGONARD
+
+(HONORE)
+
+Grasse,1732Paris,1806.
+
+13
+
+## Les Jardins de la Villa d'Este.
+
+Deux lions de pierre, couches a lextremite d'une balustrade, gardent l'entree d'un escalier conduisant aux terrasses de la villa, dont on decouvre les perspectives etagees. C'est d'abord un haut mur creuse d'une niche, ou quelque deesse antique trone entre deux animaux, et couronne par une ligne de balustres, surmontes de deux statues. Plus loin, sous la voute touffue de vieux arbres dont les cimes se rejoignent, on apercoit la facade d'une chambre de verdure, aux arcades soigneusement dessinees; et, tout au fond, d'autres arbres encore.
+
+Sanguine.
+
+Haut.,35o millim.;larg.,464 millim.
+
+Vente Lempereur (1773,n729); Collection Walferdin (vente a Paris, avril 1880, no 188).Une sanguine analogue, qui se trouvait dans la collection Maherault (vente a Paris,mai 188o,n°51),passa ensuite dans la collection La Beraudiere (vente a Paris, avril 1883,n° 114), et enfin dans la collection Beurdeley (vente a Paris,mars 19o5, n°66;repr.au catal.).
+
+Grave a l'eau-forte par Fragonard: c'est la planche connue sous le titre de: le Parc ou le Petit Parc; - grave egalement a l'eau-forte par labbe de Saint-Non.
+
+Repr. dans le baron R.Portalis,H.Fragonard (Paris,1889),pl.,p.168, sous le titre de:le Petit Parc;—dans M. Tourneux,la Coll.J. Doucet,etc.(les Arts, n 36, dec.1go4),p.14, sous le titre:Environs de Tivoli;—et,en fac-simile,par la Societe de reproduction des dessins de maitres (3e annee,1gii),avec une notice par E. Dacier, revisee ici sur plusieurs points.
+
+Le meme sujet a éte peint par Fragonard, dans une toile conservee au musee Wallace, a Londres, qui ne differe du dessin que par quelques petits personnages introduits par lartiste au premier plan (repr. dans P. de Nolhac, H. Fragonard; Paris,1go6;frontisp.,p.1o9, sous le titre :Villa d'Italie).
+
+On peut assigner comme date a cette sanguine les mois de l'éte de 176o,pendant lesquels Fragonard sejourna a la villa d'Este, en compagnie de son camarade Hubert Robert et de leur protecteur l'abbe de Saint-Non (cf. baron R. Portalis,Fragonard, Pp.34 et s.). C'est une eau-forte de Saint-Non reproduisant, avec un titre explicite,un autre aspect des jardins de la ville d'Este, qui justifie le titre adopte ici pour le Petit Parc.
+## FRAGONARD
+
+(HONORE)
+
+14
+
+## Reunion a la lisiere d'un bois.
+
+A loree d’un chemin sombre, qui, au milieu du tableau, s'enfonce sous un bois de vieux chenes, les uns touffus, les autres a demi depouilles de leur feuillage et montrant leurs branches tordues, cinq personnages sont assis ou couches sur l'herbe, écoutant les propos d'un homme debout. Assise a l'écart, a gauche, une femme se retourne et regarde le groupe. A droite, un homme entraine une femme dans un chemin qui descend entre les arbres.
+
+Signe en bas, vers le milieu, sur I'herbe : Frago.
+
+Sanguine bistree.
+
+Haut.,38o millim.;larg.,495 millim.
+
+Cadre ancien, époque Louis XVI, bois sculpte et dore.
+## FRAGONARD
+
+(HONORE)
+
+15
+
+## Jeune Italien tenant une fiasque.
+
+Il est assis un peu a droite, sur une caisse,le corps de face,la tete de trois-quarts et tournee vers la droite. Le bras gauche ramene sur le devant du corps,il a le bras droit étendu de cote et tient une fiasque par le col. La jambe droite est croisee derriere l'autre. Chapeau a larges bords, releve sur le devant; gilet deboutonne; chemise ouverte sur la poitrine et retroussee jusqu'aux coudes; chausses et bas, laissant les genoux libres; souliers a boucles. Derriere lui, une draperie.
+
+On lit au bas, a droite:Roma. Sépia.
+
+Haut.,367millim.;larg.,254 millim.
+
+Peut-etre len311 de la vente Le Brun(Paris,avril 1791):αH.Fragonard.Un jeune homme assis et tenant de la main droite une bouteille.Ce dessin,lave au bistre sur papier blanc,est de l'effet le plus piquant et de la touche la plus facile et la plus spirituelle.H.17 pouces;1. 14 pouces 》（les dimensions different sensiblement, mais le papier a pu etre rogne);—Collection Walferdin (vente a Paris, avril 88o,n184).
+
+Sans doute un des croquis executes par Fragonard pendant son voyage avec Bergeret, c'est-a-dire datant du mois de decembre 1773 ou des premiers mois de 1774， epoque du secondsejour del'artiste a Rome.
+
+CfBarnRortalisHagnardicaaloguoutitemmeduulessi
+
+Cadre ancien, époque Louis XVI, bois sculpte et dore.
+## FRAGONARD
+
+(HONORE)
+
+16
+
+## Le Sacrifice au Minotaure.
+
+Au milieu de la composition,a droite d'un petit autel circulaire sur lequel une urne est posee, la jeune fille designee par le sort tombe évanouie dans les bras de ses compagnes, en levant les mains au ciel, r plan,se tord les bras avec desespoir.A droite, un groupe de femmes, les unes pleurant, d'autres suivant la scene avec émotion. A gauche, deux pretres debout devant l'autel et un homme agenouille pres d'un trepied. Dans le ciel tandis que sa mere, etendue sur le dos, au premier planent des divinites infernales.
+
+Sepia et aquarelle.
+
+Haut.,335millim.;larg.,442millim.
+
+Collection Bruun-Neergaard (vente a Paris, aout 1814,n° 127):aJeunes hommes et jeunes filles a Athenes, tirant au sort pour etre livres au Minotaure. Morceau colorie et d'un bel effet.H.1o p.;L.16 p. 6 1. Les dimensions different légerement.
+
+La peinture, dont cette aquarelleest lesquisse,appartient egalement a la collection
+
+Jacques Doucet;voir:PeINTUREs,n146.
+
+Cadre ancien, époque Louis XVI, bois sculpte et dore.
+## FRAGONARD
+
+(HONORE)
+
+## La Reverence.
+
+Dans un salon, ou quatre personnes sont reunies a gauche pres de danser;éclaireea droite par une haute fenetre,le corps bien d'aplomb, la cheminee, une fillette a laisse de cote son joujou —un petit carrosse, attele de deux chevaux, que lon voit au premier plan  pour montrer a la compagnie comment elle met a profit les lecons de son maitre a la tete legerement penchee, tenant a deux mains sa jupe bouffante,elle fait la reverence aux parents qui l'applaudissent.
+
+Bistre.
+
+Collection de M.Leon Roux, architecte.
+
+Repr. dans les Maitres du dessin(Paris,3 annee,1go1-1go2,pl.137）,sous le titre de Scene d'interieur;—dans P.de Nolhac,H. Fragonard (pl.,p.86);—dans M.Tourneux,la Collection J.Doucet,etc.(les Arts,op.cit.,p.2o);—et en fac-similé par la Societe de reproduction des dessins de maitres (3e annee,1git),avec une notice par E.Dacier.
+
+Cadre ancien,epoque Louis XVI,bois sculpte et dore; fronton a cartouche et chutes de guirlandes de feuillage.
+
+Haut.,219millim.,;larg.,284 millim.
+## FRAGONARD
+
+(HONORE)
+
+18
+
+## Mere defendant son enfant
+
+## contre les attaques d'un chien.
+
+A gauche, une femme debout leve les bras et pousse des cris pour effrayer un gros chien qui, venant de la droite, se precipite vers un bambin qui lui a pris un de ses petits et se sauve, en criant, derriere un baquet a lessive occupant le centre de la composition.A droite,au fond, une corbeille posee a terre devant un meuble rustique.
+
+Haut.,23g millim.;larg.,376millim.
+
+Sépia.
+
+Cadre ancien, epoque Louis XVI, bois sculpte et dore,a entrelacs et feurettes.
+## FRAGONARD
+
+(HONORE)
+
+19
+
+## L'Heureuse Famille.
+
+Dans un interieur rustique,une femme assise de face tient aupres d'elle un petit garcon qui taquine deux fillettes, l'une assise et l'autre debout, a droite. Elle se penche a gauche pour caresser un bebe nu, couche dans son berceau, et qu'une autre femme, agenouillee derriere, embrasse.A la tete du berceau, tout a fait a gauche,un bambin joue avec un chien. Au fond, deux hommes,—l'un a gauche, coiffe d'un grand chapeau et accoude a une cloture; lautre, a droite, tete nue, appuye a une table, — contemplent la scene en souriant.
+
+Sepia.
+
+Haut.,334 millim.;larg.,454millim.
+
+Repr. dans M. Tourneux, la Collection J. Doucet, etc. (les Arts, op.cit.,p.17), sous letitre:Visitea la nourrice.
+
+Variante de I'Heureuse Fecondite, gravee par C.-P. Marillier et par N. de Launay.
+
+Cadre style LouisXVI,bois sculpte et dore.
+## FRAGONARD
+
+(HONORE)
+
+20
+
+## Le Songe du mendiant.
+
+Dans une salle voutee, un vieux mendiant s'est endormi,assis par terre,a gauche,entre deux coffres,pres de son chien.La tete inclinee sur la poitrine,le chapeau tombe par derriere,le bras droit étendu,le gauche accoude et ramene sur le front, il croise ses jambes nues devant le feu qui flambe au milieu de la piece et voit en reve une femme, debout a droite, se pencher au-dessus du foyer pour lever le couvercle d'une marmite, d'ou s'échappe un nuage de vapeur, tandis quau fond, trois jeunes femmes et deux fillettes suivent des yeux la scene.
+
+Signe a gauche, en oblique, sur un morceau de bois: Frago.
+
+Bistre.
+
+Haut.,336millim.;larg.,5o5millim.
+
+Collection Walferdin (vente a Paris,avril 88o,n 2o2), sous letitre: le Songe; collection de Mme Ernesta Stern.- Une composition analogue, mais de dimensions moindres (h. 0,240 sur 1.o,35o) a passe a la 3e vente Thibaudeau (Paris, avril 1857, n°726),sous le titre:le Songe.
+
+Repr. dans P. de Nolhac,H.Fragonard (frontisp., P.49);——dans M.Tourneux, la Collection J. Doucet,etc.(les Arts, op.cit.,p.16);—et en fac-simile par la Societe de reproduction des dessins de maitres(ire annee,1gog).
+
+Le vieillard endormi a ete presque identiquement replace par Fragonard dans une de ses peintures, Souviens-toi,qui appartient egalement a la collection Jacques Doucet.Voir aux PEINTUREs,nI47.
+
+Cf.le baron R.Portalis,H.Fragonard,op.cit.,catal.,p.313.
+
+Cadre en partie ancien,poque Louis xV,bois sculpte et dore.
+## FRAGONARD
+
+(HONORE)
+
+21
+
+## Femme a la fontaine.
+
+Tete nue,la jupe legerement retroussee,elle est debout,le corps de profil vers la droite, le visage de trois-quarts tourne vers le spectateur, et se penche en avant, la main droite appuyee sur le mur de la fontaine. L'eau coule dans un vase pose sur une vasque rectangulaire. Fond d'arbres a peine indiques.
+
+Sepia.
+
+Haut.,345millim.;larg.,242millim.
+
+Cadre ancien,époque Louis XvI,bois sculpte et dore,avec feuron et ruban au fronton.
+## FRAGONARD
+
+(HONORE)
+
+22
+
+## Passage au chemin de Savone a Genes.
+
+Sur un chemin en travers duquel un arbre est tombe, — que deux hommes, l'un en bas et l'autre monte sur un mur a droite, debitent a coups de hache, — toute une compagnie de voyageurs est arretee devant une maison que lon voit a gauche et a laquelle on accede par un escalier a double rampe.Au pied de cet escalier, deux femmes chevauchant des mulets, font boire leurs montures dans une auge de pierre, sous les regards d'une troisieme femme, debout tout a fait a gauche. Au milieu de la composition, on voit un homme a pied tenant un mulet par la selle, et un autre homme a cheval qui montre du doigt le chemin a un personnage debout pres de lui, le chapeau a la main. A droite, un groupe de cavaliers sur des mulets.
+
+On lit en bas, a gauche: Passage au chemin de Savone a Genes.
+
+Frago.fecit,le17gbre1773.
+
+Sépia.
+
+Haut.,287millim.;larg.,368millim.
+
+Peut-etre la Halte a lafontaine,de la vente Fourau（Paris,186g,n°115).
+
+Repr. dans le baron R.Portalis,H.Fragonard,p.157,sous le titre :la Halte.
+
+Episode du voyage de Fragonard en Italie avec le financier Bergeret,en 1773-1774. Embarquee a Antibes,la compagnie,qui comprenait Fragonard et sa femme,Bergeret et son fils,une gouvernante et des domestiques,atteignit San Remo le 12 novembre 1773 et partit le lendemain pour Genes, par la voie de terre. Bergeret a decrit la cavalcade:12 mulets avec quatre hommes a pied,et,de notre bande,1o personnes, dont deux femmes et aussi sur des mulets;voyez tout cet etalage,et 2 mulets garnis de notre menu équipage, couverts de nos peaux de tigre...》（Bergeret et Fragonard, Journal inedit d'un voyage en Italie,publ.par A.Tornezy;Paris, 18g5,p.95). Arrives a Savone le 16 novembre, les voyageurs en repartirent le lendemain 17, quitterent leurs mulets apres sept heures de marche,a Voltri, et gagnerent Genes en deux heures de caleche (ibid.,p. 1o5):c'est sans doute au cours de cette journee que se produisit l'episode dessine par Fragonard.
+
+Cf.le baronR.Portalis,H.Fragonard,op.cit.,p.158;etcatal.,p.296(avec ladatedu23 sept.773）.
+
+Cadre style Louis XVI,bois sculpte et dore;au fronton,une couronne de roses et des branches de feuillage.
+## FRAGONARD
+
+(HONORE)
+
+23
+
+## Le Cocu battu et content.
+
+Dans une chambre a coucher, fermee au fond par une portiere, éclairee par un lustre quon voit a droite et coupee par un paravent dans le sens de la largeur,αmessire Bon , le barbon jaloux, coiffe d'une cornette et le cou entoure d'une mantille, acheve de se deguiser en femme. Pendant qu'il se baisse pour passer un jupon par dessus ses chausses, sa femme debout a gauche, tourne la tete vers le fond de la piece et fait un signe de la main pour commander le silence a son galant, qui montre sa tete a la porte en ecartant un coin de la draperie.
+
+Sepia.
+
+Haut., 20i millim.;larg.,142 millim.
+
+Dessin execute en vue de l'illustration du second des Contes de La Fontaine, le Cocu battu et content,pour l'edition Didot (1795,in-49).Il a éte grave en contre-partie par J.-L.Delignon.
+
+Sur les illustrations des Contes de La Fontaine par Fragonard, cf. le baron R. Portalis,H.Fragonard,op.cit.,catal.,p.296.
+
+Cadre style Louis xVI,bois sculpte et doré.
+## FREUDEBERG
+
+(SIGISMOND FREUDENBERGER ou)
+
+Berne,1745+Berne,18o1.
+
+24
+
+## Zemire et Azor, ou l'Heureuse union.
+
+Dans un luxueux interieur,un gentilhomme, vetu d'un habit gris et d'une culotte noire,coiffe d'une petite casquette a visiere,portant des bas blancs, des souliers noirs a talons rouges et a boucles d'argent, est assis,a droite, au coin de la cheminee, dans un vaste fauteuil. Il a le bras droit passe autour de la taille d'une jeune femme, en deshabille blanc a rubans roses, qu'il tient assise sur son genou et dont il caresse, de la main gauche, les longs cheveux denoues et tombant jusqu'a la taille. A gauche, devant la cheminee, surmontee d'une glace,un ecran a chinoiseries; sur la cheminee,un vase de fleurs et des livres;a droite de la glace, un bras-applique a deux lumieres. Derriere le fauteuil, une porte et le montant d'un lambrequin. Sur le tapis, a droite, un livre ouvert.
+
+Aquarelle.
+
+Haut.,336millim.;larg.,253millim.
+
+On lit en bas,a droite,au-dessous du dessin, cette note manuscrite a l'encre: M.le ducdeBourbon-Contiet Mlle Allard,de la Comedie-Italienne.Letitre:Zemire et Azor est celui que porte la monture.
+
+Grave par L. Bosse,en contre-partie, sous le titre de l'Heureuse umion,puis sous celui de la Matinee;la gravure est annoncee dans le Mercure de France de juillet i776, p.204.
+
+Repr.en fac-simile par la Societe de reproduction des dessins de maitres(3eannée, 1911), avec une notice par E. Dacier.
+
+On a fait remarquer dans cette notice: d'une part, que ce titre de Zemire et Azor peut servir a dater l'ceuvre approximativement:elle ne serait donc pas anterieure a la premiere representation du celebre opera-comique de Gretry (9 novembre 177i); d'autre part, que la note manuscrite fait allusion a la liaison du prince (et non du duc) de Conti avec Mlle Allard, la danseuse de l'Opera (et non de la Comedie-Italienne), liaison quon peut placer aux environs de 1768(G. Capon et R.Yves-Plessis,Vie privée du Prince de Conti,Paris,1907,P.268).
+
+Cadre style Louis XVI,bois sculpte et dore.
+## GREUZE
+
+(JEAN-BAPTISTE)
+
+Tournus,1725Paris,18o5.
+
+25
+
+## Etude d'enfant.
+
+Le corps de profl tourne vers la droite, il semble courir en se cramponnant des deux mains, les bras leves, a une draperie; son visage, de trois-quarts a droite,exprime le chagrin.
+
+Sanguine.
+
+Haut.,416millim.;larg.,284 millim.
+
+Etude pour la Malediction paternelle(esquisse, Salon de 1765,n125;auj.musee du Louvre,catal. Villot,n261):c'est l'enfant qui,au centre de la composition, se cramponne en pleurant aux vetements du fils maudit et essaie de le retenir.
+
+Le Catalogue raisonne de l'euvre de Greuze, par J. Martin et Ch. Masson (Paris, 1go6), mentionne sous le n 1487:un α Enfant courant apres sa mere, sanguine, etude pour la Malediction paternelle;comme il n'y a pas,dans la Malediction paternelle,d'enfant courant apres sa mere,mais seulement un enfant courant apres son frere aine,il semblerait au premier abord que cette designation,malgre une legere inexactitude,put s'appliquer au present dessin. Pourtant,il convient de faire observer que, dans I'ouvrage de MM. J. Martin et Ch. Masson,le no 1487 est indique comme provenant de la vente Nicolas J. Soutzo (fevrier 1876);or,voici comment est decrit, sous le n 1o du catalogue de la vente Soutzo,le dessin de Greuze auquel il est fait allusion: aLa Frayeur.Cette interessante teted'etude a eteapeupresreproduite par Greuze dans son tableau du Fils puni... etc. On le voit, ceci ne correspond en aucune facon a notre sanguine.ll semble donc que les auteurs du Catal.raisonne de l'euvre de Greuze ont confondu deux etudes d'enfants,a la sanguine, l'une pour la Malediction paternelle et l'autre,-une tete,—pour le Fils puni.
+
+Cadre style Louis XVI,bois sculpte et dore,avec ruban au fronton.
+## HILAIR
+
+(JEAN-BAPTISTE)
+
+Exposa a partir de 178o;mourut apres 1822.
+
+26
+
+## Jeune Femme cueillant une fleur.
+
+Elle est vue presque de dos et tournee vers la droite, cueillant une fleur. Serres par un ruban rougeatre qui fait le tour de la tete, ses cheveux chatains forment une couronne bouffante autour du peigne qui les retient par derriere et d'ou tombe un leger voile. Elle a les epaules couvertes d'un mantelet noir, au coqueluchon double d'etoffe blanche, et porte une robe rose a gros plis, dont elle releve un peu la traine de sa main gauche ramenee par derriere et appuyee sur la hanche.
+
+Fond bleute.
+
+Crayon noir rehausse de pastel.
+
+Haut.,462millim.;larg.,36millim.
+
+Catalogue sous le nom de Fragonard,par le baron R.Portalis Fragonard,op.cit., p.3o5),qui le dit provenir de la collection Villot.
+
+Plus encorequela femme debout,dans laLecture,par Hilair,au musee du Louvre, ce dessin rappelle un des personnages du groupe de droite, dans les Saltimbanques au chateau, la peinture de cet artiste qui a passe,en igo3,a la vente Lelong et qui est reproduite au catalogue de la vente Lelong (xvile siecle,t. I,n°21),et dans une etude d'Henry Marcel sur J.-B.Hilair (Revue de lart ancien et moderne,t.XIV,igo3,
+
+P.207).
+
+Cadre style LouisXVI,bois sculpte et doré,a fronton.
+## HOIN
+
+(CLAUDE)
+
+Dijon,1750+Dijon,1817.
+
+27
+
+## Jeune Femme arrangeant des fleurs dans un vase.
+
+Vetue d'une jupe bleu ciel et d'un corsage decollete, d'un bleu plus fonce, au devant duquel s'attachent les deux pointes d'un fichu,elle est agenouillee et tournee de trois-quarts vers la gauche, le regard dirige vers le spectateur,et dispose dans un vase, place sur un petit socle,les feurs qu'elle porte dans son tablier.A droite, derriere un banc rustique, de grands arbres; a gauche, au fond, quelques maisons et le clocher d'une eglise.
+
+Aquarelle etgouache.
+
+Haut.,178millim.;larg.13o millim.
+
+Cf.le baron R.Portalis,Cl.Hoin(Gaxette des Beaux-Arts,18g9,t.II,p.458).
+
+Cadre ancien, epoque Louis XVI,bois sculpte et dore,avec fronton orne dune couronne de fleurs nouee d'un ruban.
+## HUET
+
+(JEAN-BAPTISTE)
+
+Paris,1745Paris,1811.
+
+28
+
+## Le Retour du marche.
+
+Sur un chemin borde darbres, une jeune femme en rose, tenant un bebe sur ses genoux et assise sur un petit ane charge d'un panier, regarde une autre femme, en corsage bleu, debout vers la gauche de la composition, et qui semble lui indiquer la route du geste. A gauche de l'ane, deux enfants jouant avec un mouton; au premier plan,un bouc et des brebis qu'un chien effraie par ses aboiements; a droite, derriere Iane, un mouton et un boeuf. Paysage et ciel bleuatres.
+
+Signe en bas, a gauche: J.-B. Huet, 1778.
+
+Pierre noire rehaussee de pastel, sur papier gris.
+
+Haut.,517 millim.;larg.,610 millim.
+
+Cadre ancien, epoque Regence, bois sculpte et dore.
+## LESPINASSE
+
+(LOUIS-NICOLAS DE)
+
+Pouilly (Nievre),1734+1808.
+
+29
+
+## Perspective de la place Louis XV vue du cote des Champs-Elysees, en 1778.
+
+La place, dont le monument de Bouchardon, inaugure en 1763, occupe le centre, est entouree d'un fosse gazonne, borde de balustrades. Au nord, cest-a-dire a gauche:les deux pavillons du Garde-Meuble, separes par la rue Royale;en face: les jardins et le palais des TuiChamps-Elysees entre ses deux quinconces d'ormes tailles. Au loin, par-dessus les toits, on apercoit la tour Saint-Jacques,la feche de la Sainte-Chapelle,les tours de Notre-Dame, le Louvre,le college des leries; a droite : la Seine et les quais; au premier plan: lavenue des Quatre-Nations,etc.
+
+Signe en bas, sur I'avenue des Champs-Elysees : D. L.
+
+Aquarelle et gouache sur trait de plume.
+
+Haut., 206 millim.; larg., 339 millim.
+
+Exposition retrospective de la Ville de Paris,a lExposition universelle de 1goo, n°183bis.
+
+Grave par Nee en 178i,pour le Voyage pittoresque de la France[par de La Borde, Guettard, Beguillet,etc.](Paris,1784-1792, 8 vol.); la gravure se trouve dans le t. I, Estampes,1er cahier, 6e livraison,pl.9.
+
+Une aquarelle du meme auteur,representant le meme sujet, mais de dimensions plus importantes (h.12 pouces 2 lignes sur l. 23 pouces),a passe a la vente BruunNeergaard(Paris,aout 1814,n°221).
+
+Le titre:Perspective de la place Louis XV,vue du cote des Champs-Elises en 1778,est ecrit al'encre sur une tablette,ala partie inferieure du cadre.ll fournit d'ail leurs une date interessante pour l'historique de la place de la Concorde actuelle, representee ainsi quelques annees apres son achevement et telle que la concut AngeJacques Gabriel.—Voir plus loin,n 53,la composition allegorique de Gabriel de Saint-Aubin relative a l'inauguration de la place Louis XV.
+
+Cadre style Louis XVI,bois sculpte et dore,avec tablette et petite guirlande a la partie inferieure.
+## LESPINASSE
+
+(LOUIS-NICOLAS DE
+
+30
+
+## Vue du chateau de Versailles,
+
+## de l'Orangerie et de la piece d'eau des Suisses.
+
+Nombreux promeneurs au premier plan, sur lesplanade entourant la statue equestre de Marcus Curtius et descendant en pente douce vers la piece d'eau; au fond,l'Orangerie et le Chateau.
+
+Aquarelle et gouache sur trait de plume.
+
+Haut., 206 millim.;larg., 3g millim.
+
+Exposition retrospective de la Ville de Paris,a lExposition universelle de 1goo, n183bis.
+
+4livraison,pl.2.
+
+Sur la tablette,a la partie inferieure du cadre, on lit,ecrit a lencre:αVue du chateau de Versailles,de l'Orangerie et de la piece d'eau des Suisses,prise de derriere la statue Equestre de Marcus Curtius; ce groupe, qui est de marbre blanc, de meme que son piedestal,est du fameux Cavaliero Bernini;et il est a remarquer que le peuple, par corruption et en confondant le nom de l'artiste d'avec celui du sujet,appelle cette statue le Chevalier Berlin (sic),qui,en effet,est generalement connue sous cette fausse denomination,de meme que la promenade d'alentour.
+
+Cadre style Louis XVI,bois sculpte et dore,avec tablette et petite guirlande a la partie inferieure,
+## LESPINASSE
+
+(LOUIS-NICOLAS DE)
+
+31
+
+## Vue du Grand Trianon,
+
+## prise du cote de lentree, en 1780.
+
+Sur la place qui precede l'entree, de nombreux personnages, des carrosses, des chevaux attaches aux arbres, etc.
+
+Aquarelle et gouache sur trait de plume.
+
+Haut., 206 millim.; larg., 33g millim.
+
+Exposition retrospective de la Ville de Paris, a l'Exposition universelle de 1goo, no183bis.
+
+Grave par Nee, pour le Voyage pittoresque de la France (op. cit.), t. Ier, 1oe livraison,pl.21.
+
+Le titre est donne par une inscription manuscrite, a l'encre, sur la tablette inferieure du cadre.
+
+Cadre style Louis XVI,bois sculpte et dore,avec tablette et guirlande a la partie inferieure.
+## LESPINASSE
+
+(LOUIS-NICOLAS DE
+
+32
+
+## Vue du Grand Trianon,
+
+## prise du cote du canal, en 1780.
+
+La vue est prise de la rive gauche du canal, sur lequel voguent diverses embarcations de plaisance;a gauche,les deux escaliers conduisant a la terrasse,au dela de laquelle s'étend la facade du palais, avec, en retour d'angle a gauche,la galerie de Trianon-sous-Bois. Quelques promeneurs sur les bords du canal.
+
+Aquarelle et gouache sur trait de plume.
+
+Haut.,206 millim.;larg.,33g millim.
+
+Exposition retrospective de la Ville de Paris,a l'Exposition universelle de 1goo, n°183bis.
+
+Grave par Duparc pour le Voyage pittoresque de la France (op. cit.), t. Ier, glivraison,pl.15.
+
+Le titre est donne par une inscription manuscrite,a l'encre, sur la tablette inferieure du cadre.
+
+Cadre style Louis XVI,bois sculpte et dore,avec tablette et guirlande a la partie inferieure.
+## MARECHAL
+
+(J.-B.)
+
+Fin du xvinet commencement du xix siecle.
+
+33
+
+## Interieur de palais.
+
+C'est une sorte d'imposant atrium rectangulaire dont le riche plafond a caissons est supporte par huit colonnes engagees,- quatre sur la paroi de gauche et quatre sur celle de droite,—et par quatre autres colonnes, deux au premier plan et deux au fond, sur la paroi qui fait face au spectateur. La,une petite niche, menagee entre les colonnes, abrite une statue d'Apollon Citharede debout sur une base sculptee. A gauche, par trois fenetres garnies de rideaux a crepines, drapes et retenus par des embrasses, le soleil penetre dans la piece, le premier plan restant dans lombre. Sur la paroi de droite,on voit deux fenetres et,plus loin,une porte, egalement drapees de rideaux. Dallage en damier noir et blanc. De petits personnages ca et la.
+
+Signe a l'encre, dans I'angle inferieur droit : J.-B. Marechal, 1779.
+
+Lavis legerement releve d'aquarelle, sur trait de plume.
+
+Haut.,48o millim.;larg.,65o millim.
+
+L'auteur de ce dessin est sans doute ce Marechal dont Bellier de La Chavignerie （Diction.general des artistes de lec. franc.;Paris, 1882-1885,3 vol.) ne donne ni le prenom ni les dates de naissance et de mort,mais dont il cite les envois aux Salons de 18ig et de 1824; ces envois sont tous des vues de Paris. La collection de dessins sur Paris, formee par Destailleur et aujourd'hui conservee au Cabinet des estampes de la Bibliotheque nationale, possede plusieurs dessins de cet artiste, dates de 1786-1787. Divers autres ont passe en ventes publiques au cours de ces dernieres annees : la collection Destailleur (2e vente,18g6) en contenait trois,dates 178o et 1788;la collection Beurdeley (vente,1go5) quatre, dont deux dates 1782 et 1787;etc.
+
+On notera que le catalogue de la vente Beurdeley donne a cet artiste les prenoms de Charles-Laurent, alors quil signe tres lisiblement ici J.B. Marechal.
+## MARILLIER
+
+(CLEMENT-PIERRE)
+
+Dijon,1740 +Beaulieu,pres Melun,18o8.
+
+34
+
+## La Corbeille de mariage.
+
+Dans une piece aux murs ornes de colonnes et de sculptures, qui va s'arrondissant,a gauche, ou elle prend le jour par deux hautes fenetres,une jeune femme, debout et tournee vers la gauche,arrange de la main droite un ornement autour de son cou. Un homme, debout derriere elle, lui passe le bras gauche autour de la taille et lui indique de la main droite une glace, disposee entre les fenetres, et qui refete leurs deux images. A gauche, une soubrette debout et une marchande de modes assise sur un tabouret presentent a la jeune femme des bijoux et des dentelles quelles tirent,la premiere d'un coffret place sur une console devant la glace, la seconde d'un carton pose a terre. A droite, un homme et une femme deroulent des coupons d'etoffes et les etalent sur le dossier d'une chaise; derriere eux, un homme en livree et une femme dont on n'apercoit que la tete regardent le groupe principal. Au fond, portes sur un nuage, deux amours tiennent une guirlande de fleurs dont ils ont enchaine le jeune couple.
+
+Signe a lencre, en bas, a gauche, au-dessous du dessin, sur la monture:C.P.Marillier inv.et del.1771.
+
+Sanguine.
+
+Haut., 357 millim.; larg., 285 millim.
+
+Le medaillon formant trumeau, qui surmonte la glace ou se mire la jeune femme, est decore des initiales L.B.entrelacees.
+
+Cadre style Louis XVI,bois sculpte et dore,portant en or sur fond noir, dans un medaillon formant fronton et encadre de feurs,les initiales L.B.entrelacees.
+## MOREAU le Jeune
+
+(JEAN-MICHEL)
+
+Paris,1741Paris,1814.
+
+35
+
+## Portrait de Mme Papillon de La Ferte.
+
+Elle est vue en buste,le corps de face. Le visage aux traits delicats est tourne de trois-quarts vers la gauche et tres legerement incline, le regard abaisse. Ses cheveux poudres et releves au sommet de la tete sont coiffes d'un pouf de roses et de plumes; deux grosses boucles descendent en diagonale, l'une derriere I'oreille et l'autre au-dessous. Elle porte un corsage largement decollete en carre, borde d'une ruche et orne d'un petit nceud sur le devant.
+
+Signe a droite, au-dessus de I'epaule: J.-M. Moreau.
+
+Crayon noir,rehausse de sanguine dans les chairs, les roses de la coiffure et le vetement.
+
+Ovale.Haut., 158millim.; larg., 126 millim.
+
+Provient des descendants de Papillon de La Ferte.
+
+Salon de 1783:n°312.Portrait de Madame de La Ferte.
+
+Repr. dans M.Tourneux, la Collection J.Doucet, etc.,(les Arts,op.cit., p.22), sous le titre:Mlle Papillon de La Ferte;-et en fac-simile par la Societe de reproduction des dessins de maitres(2eannee,Igio).
+
+Papillon de La Ferte,intendant et controleur de l'argenterie,menus plaisirs et affaires de la Chambre du roi (1727-1794), dont Moreau le Jeune avait dessine et grave le portrait en 177o, se remaria en 1782 avec une toute jeune femme, Catherine-LouiseHenriette de Villers;la presence dun Portrait de Mme de La Ferte,dessine par Moreau le jeune,au Salon de 1783,autorise a croire que le present dessin est bien leportrait de la seconde femme de l'intendant des Menus,et non le portrait de sa fille,comme on l'a cru quelquefois.
+
+Cadre ancien, epoque Louis XVI,de forme ovale, bois sculpte et dore;au fronton,les armes royales entre deux palmes croisees.
+## MOREAU le Jeune
+
+(JEAN-MICHEL)
+
+36
+
+## Fetes du mariage de Marie-Antoinette.
+
+Illumination du parc de Versailles
+
+(19 mai 1770).
+
+Le spectateur, place a l'extremite du Tapis vert et tournant le dos au Chateau, a devant lui une foule compacte, a travers laquelle voise pressent autour du bassin d'Apollon,dont les eaux jouent,et,au dela, sur les bords du grand canal.A droite et a gauche,dessinant la ligne des parterres et suivant le canal pour aller rejoindre un grand motif lumineux qu'on distingue au loin, des portiques et des girandoles de lumieres se detachent sur le fond sombre des arbres, éclairant toute la composition.
+
+Lavis d’encre de Chine sur trait de plume.
+
+Haut., 213millim. (y compris une tres mince bande rapportee en biseau dans le haut, a gauche); larg., 373 millim.
+
+Reproduit en fac-simile par la Societe de reproduction des dessins de maitres
+
+(rannee,1gog).
+
+Esquisse du grand dessin commande a Moreau le Jeune,nouvellement nomme dessinateur des Menus-Plaisirs, en meme temps que plusieurs autres representations des principales ceremonies et fetes ayant eu lieu a l'occasion du mariage du Dauphin, plus tard Louis XVI, et de Marie-Antoinette.—Le dessin termine,execute a l'encre de Chine, dans un format plus grand (H.3go millim.;larg., 8oo millim.) et suivant une perspective un peu modifiee, fut expose au Salon de 178i,n 3oo, sous cette designation:u Dessin de l'illumination ordonnee par M. le duc d'Aumont pour le due du canal.Il est aujourd'hui conserve au musee du Louvre（n 31558).Au contraire des autres vues des ceremonies de la cour dessinees par Moreau le Jeune a l'occasion du sacre du roi et de la naissance du Dauphin, il n'a pas ete grave (cf. Gon- court,lArt du xVI1le siecle,éd.in-18,3e serie,p.157）.
+
+Le mariage eut lieu le 16 mai 177o, mais, par suite d'un orage survenu dans la soiree, le feu d'artifice et l'illumination ne purent avoir lieu ce jour-la; on les donna seulement le ig. Pour la description de cette fete de nuit, cf: Mercure de France, juin 177o, p. 177; Journal de Papillon de La Ferte (ed. E. Boysse;Paris, 1887, in-8),p.276;et Description des fetes,etc. donnes a Versailles a loccasion du mariage de Msr le Dauphin (Paris, s.d.),Pp.33-48.
+
+Cadre ancien, époque Louis XVI, bois sculpte et dore.
+## MOREAU le Jeune
+
+(JEAN-MICHEL)
+
+36bis
+
+## Fetes du mariage de Marie-Antoinette.
+
+Festin royal dans la salle de l'Opera de Versailles (16 mai 1770).
+
+Dans la salle de l'Opera de Versailles, splendidement illuminee par des lustres,une vaste table rectangulaire a ete dressee, dont un surtout a colonnade,entoure de candelabres, decore la partie centrale,et autour de laquelle sont assis, en fer a cheval, les seigneurs et les dames de la Cour admis au grand couvert. D'autres seigneurs, sur deux ou trois rangs, se tiennent debout autour des convives; les avant-scene, les balcons et les loges sont garnis d'une foule de spectateurs. Au premier plan, a gauche, des officiers de service portant des plats.
+
+Lavis de sepia sur trait de plume.
+
+Haut.,23o millim;larg.,263millim.
+
+Sur la monture, on lit,a lencre,en bas,a gauche :Desin. M.A. Slodt; au milieu :Bon L. D.D.[le duc d'Aumont,premier gentilhomme de la Chambre];et a droite:Arrette pour etre execute.De la Ferte[Papillon de La Ferte, intendant des
+
+Menus-Plaisirs].
+
+Repr.en fac-simile par la Societe de reproduction des dessins de maitres(3e annee, 1g11), sous le titre de:Banquet a la cour,avec une notice par E. Dacier, attribuant par erreur le dessin a M.-A. Slodtz. Cette notice est entierement reprise ci-dessous d'apres des documents nouveaux,reunis par M.A.Vuafart.
+
+Cadre ancien, fin époque Louis xV, bois sculpte et dore, a fronton coquille et chutes de guirlandes de feuillage.
+
+L'indication portee sur la monture du dessin :Desin.M.A. Slodt, sur laquelle dant (n 36 ter),au plus celebre des Slodtz,le sculpteur Rene-Michel, dit Michel-Ange (17o5-i764）, doit avoir éte ecrite posterieurement au visa du duc d'Aumont et de Papillon de La Ferte;il y a,en tout cas, la plus formelle impossibilite materielle a la considerer comme une signature de l'auteur du dessin;et voici pourquoi.
+
+Ce dessin et le suivant ne sont point, comme on l'avait cru jusquici, des projets executes par un dessinateur des Menus-Plaisirs en vue d'une decoration ephemere des salles de Versailles, ordinairement reservees aux fetes de la Cour (par exemple,le manege de la Grande Ecurie);ils representent des fetes ayant eu lieu reellement et qu'il
+a ete possible d'identifier en toute certitude, grace aux descriptions minutieuses que nous en ont laissees les contemporains :il s'agit la,a n'en pas douter, de deux des solennites donnees dans la salle de l'Opera de Versailles,a loccasion du mariage du Dauphin,plus tard Louis XVI,et deMarie-Antoinette,le 16mai 177oetjours suivants.
+
+Le duc d'Aumont, premier gentilhomme de la Chambre, en exercice pendant l'annee 77o,tPapillon daFerte,intndant desMenuPlaisirsfurent lsgrans ordonnateurs de ces fetes du mariage, preparees des longtemps. Papillon de La Ferte en a publie luimeme le compte rendu complet dans un ouvrage anonyme extremement rare, puisqu'on nen connait plus a l'heure actuelle que deux exemplaires (l'un a la Bibliotheque de l'Arsenal, l'autre a la Bibliotheque d'art et d'archeologie), intitule: Description des fetes et spectacles donnes a Versailles a l'occasion du mariage de Monseigneur le Dauphin (Paris, chez Vente,libraire des Menus-Plaisirs du Roi,s.d.,in8 de 64 p.). C'est precisement cette brochure qui permet de reconnaitre les deux cerémonies representees dans les deux dessins dont il est ici question.
+
+Le Festin royal eut lieu le soir du mariage,le 16mai 177o,dans la salle de spec-
+
+D'ailleurs, la salle fut-elle disparue que le livret consacre par Papillon de La Ferte aux fetes du mariage permettrait encore de reconnaitre aisement le lieu ou se fit le Festin royal. La description de la salle du festin occupe les pages 5 a 11:on y traite, non seulement de la disposition de la salle,mais aussi de sa decoration et de son illumination.Entre autres details caracteristiques,on retiendra notamment la surelevation du plancher remonte au niveau de la scene et l'installation d'une balustrade entourant la table a distance et separant a les officiers qui servoient d'avec les spectateurs qui se trouvoient en dehors;tous ces details,et celui que "les balcons qui sont au bas des premieres loges et toutes les loges etoient occupes par une nombreuse quantite de personnes de distinction , concordent trait pour trait avec le dessin (n° 36 bis).
+
+tacle, dont on releva le plancher a la hauteur de celui du theatre (c'est-a-dire de la scene). Cette salle de spectacle est d'autant mieux facile a identifier qu'elle existe encore aujourd'hui : c'est la salle de l'Opera de Versailles, construite sur les dessins d'AngeJacques Gabriel, hativement terminee en vue du mariage du Dauphin et inaugure a cette occasion (cf. Papillon de La Ferte, Journal, éd. Boysse,1887,p.204 et 214； G.Briere,le Chateau de Versailles,architecture et decoration,Paris,gio,t.er,p.39， et t.II,pl.163 et 164;et le comte de Fels,A.-J. Gabriel,Paris,1912,Pp.89 et suiv.).
+
+Le lendemain 17,ily eut spectacle dans la meme salle, transformee en une nuit, et le 19,avant l'illumination des jardins representee dans le dessin de Moreau le jeune decrit ci-avant sous le no 36, se donna le Bal pare (cf. Papillon de La Ferte, Journal, p.273 et 274). La description de la salle de bal occupe les pages 17 a 32 de la Description des fetes:elle est si minutieuse et a la fois si precise qu'elle permet d'identifier en toute certitude le dessin de la collection Doucet qui fait pendant au Festin royal (n°35ter).
+
+pour la circonstance:la salle ainsi obtenue mesurait 88 pieds de largeur sur 78 de profondeur et 55 dehauteur (1.28m,5o;prof.25m,27;h.17m,8o);elle avait la forme d'un deux desquels joignoient les colonnes de l'avant-scene par deux avant-corps;les deux autres etoient reunis au fond par une partie circuiaire .Les trois etages de galerie sont ensuite decrits dans le detail,ainsi que leur decoration et leur luminaire. Tous ces renseignements -- nombre des colonnes et des pilastres,place des bustes, des statues
+
+On utilisa pour le bal la scene meme de l'Opera deVersailles,amenagee et decoree carre long.pris sur la largeur uet dont les quatre angles formoient des pans coupes,
+dans les niches des pans coupes,des peintures des arcades,etc.— concordent rigoureusement avec le dessin auquel ils s'appliquent ligne a ligne.
+
+Il n'y a donc aucun doute quant aux sujets de ces deux dessins. Reste a en deter- miner l'auteur.
+
+Malgre la mention du nom de M.-A. Slodtz,inscrite sur la bordure de l'un des dessins (le Festin royal),il est materiellement impossible de songer a cet artiste. Slodtz mourut,eneffet,le26novembre1764,c'est-a-dire sixansavant lemariage du Dauphin, a une epoque ou il ne pouvait etre question de l'amenagement du theatre de Versailles, alors en cours de construction, pour une solennite qu'on ne prevoyait encore qu'a longueécheance.
+
+On ne peut pas davantage proposer le nom de Michel-Ange Challes,nomme dessinateur du Cabinet du roi le 23 fevrier 1765,peu apres la mort de Slodiz:des raisons de technique s'y opposent, comme aussi ce fait que les lettres de noblesse accordees a l'artiste en novembre 177o, mentionnent expressement et exclusivement le concours qu'il a apporte aux illuminations, lors des fetes du mariage.
+
+Aucune de ces gravures ne fut executee, soit qu'on ait renonce a commemorer des fetes attristees par la catastrophe de la place Louis XV,ou plus de cent trente personnes perirent etouffees et écrasees le soir du feu d'artifice tire le 3o mai(Memoires secrets, t.V, p.138),soit pour toute autre raison.
+
+Reste Moreau le jeune. Deux sortes de faits,les uns dordre documentaire et les autres d'ordre technique,militent en sa faveur,et tous deux sont egalement convaincants. D'une part, on sait par Papillon de La Ferte (Journal,p.4i2), que Moreau le jeune,protege par le duc d'Aumont,avait te charge de faire les dessins et les gravures du mariage en 177o. Un etat de paiement conserve aux Archives nationales dessins auxquels il travaille,lesquels dessins doivent servir a executer les gravures des fetes donnees a 1'occasion du mariage de S. M. en 1770 .
+
+Quant aux αdifferents dessins,on nen connaissait jusqu'ici que deux, et qui representent tous deux le mene sujet: lillumination du parc de Versailles, le soir du 19 mai 177o; on vient de voir que l'esquisse d'apres nature pour le dessin definitif, conserve au Louvre, appartient a la collection Doucet (n 36).
+
+La Ferte), auxquels on ajouta posterieurement et erronement le nom de M.-A. Slodtz.
+
+Il parait demontre maintenant que le Festin royal et le Bal pare font partie de la meme serie d''esquisses croquees et lavees par Moreau le jeune d'apres nature,en vue des dessins definitivement prepares pour la gravure, comme l'est l'Illumination du musee du Louvre. L'un de ces dessins a d'ailleurs conserve sur sa monture le visa du duc d'Aumont (Bon.L. D. D.)et celui de Papillon de La Ferte(Arrette pour etre execute.
+
+Outre ces arguments d'ordre documentaire,il est permis d'achever la demonstration,au point de vue technique, par le simple rapprochement entre l'Illumination d'une part, le Bal pare et le Festin royal de lautre. La comparaison avec quatre esquisses de Moreau le jeune,a la plume et sans lavis, sur papier calque,pour les quatre grands dessins graves a l'occasion des fetes donnees,les 21 et 23 janvier 1782, par la Ville de Paris a loccasion de la naissance du Dauphin, n'est pas moins convaincante. Ces esquisses, signees par lartiste et paraphees par les echevins, sont conservees aux Archives nationales (K. 1oi8);les gravures appartiennent a la Chalcographie. Au cours d'une communication faite a la Societe diconographie parisienne,le 1o decembre manifestement identique a celle du Festin royal et du Bal pare.
+## MOREAU le Jeune
+
+(JEAN-MICHEL)
+
+36ter
+
+## Fetes du mariage de Marie-Antoinette.
+
+Bal pare sur la scene de l'Opera de Versailles
+
+(19mai 1770).
+
+Le bal se donne dans une salle magnifiquement illuminee par des lustres, sur trois cotes de laquelle une galerie formant balcon ouvre entre de hautes colonnes cannelees. Entre ces colonnes et dans des loges menagees au-dessus de l'entablement, se presse une foule de spectateurs. Dans la salle meme, des seigneurs et des dames, celles-ci assises au premier rang, forment le cercle autour d'un espace laisse libre, ou la Dauphine et le Dauphin, se faisant vis-a-vis, ouvrent le bal.
+
+Lavis de sepia sur trait de plume.
+
+Haut.,227millim.;larg.,268millim.
+
+Pour la notice historique,voir le n° precedent.
+
+Cette salle de bal, construite pour la circonstance,etait due a la collaboration d'un certain nombre d'artistes, tels que de Machy pour larchitecture, Canot pour la figure, Boquet fils pour les petits plafonds, Baudon pere et fils pour le paysage;le grand plafond,peint par Briard,representait Psyche conduite a limmortalite par l'Amour et admise au rang des divinites.-Les spectateurs occupaient non seulement les galeries etles loges de ce salon,mais aussi celles de la salle de theatre,brillamment illuminee comme au jour du festin royal. Le rez-de-chaussee de la salle de bal etait garni de banquettes pour les princes, princesses, ambassadeurs et seigneurs de la Cour, dans l'ordre accoutume;on distingue, sur le dessin, le roi assis un peu en avant de la Cour.Le bal ouvrit a six heures;il fut suivi du feu d'artifice, qui devait etre tiré trois jours plus tot - le soir du mariage - et qu'un orage avait oblige de remettre au 1g.Pendant le souper, on prepara lillumination du parc et du canal,qui dura une partie de la nuit (voir le n 36).
+
+Cadre ancien, fin epoque Louis XV, bois sculpte et dore, a fronton coquille et chutes de guirlandes de feuillage.
+## MOREAU l'Aine
+
+(LOUIS-GABRIEL)
+
+Paris,1740+Paris,1806.
+
+37
+
+## Paysage: la Rioiere.
+
+Sur le bord d'une riviere venant de la gauche et contournant une eminence boisee,verdoyante et couronnee par un palais en ruines, qui occupe le fond de la composition,un homme vu de dos, accompagne de deux femmes, l'une debout,l'autre assise et tenant une ombrelle ouverte, designe du doigt une barque dans laquelle se trouvent quatre personnages. A gauche, des roseaux; a droite, le tronc et les branches d'un vieil arbre mort, se detachant sur la verdure un peu jaunie d'autres arbres.
+
+Gouache.
+
+Collection Leon Roux, architecte.
+
+Cadre en partie ancien, epoque Regence,bois sculpte et doré
+
+Haut,315 millim;larg., 257 millim.
+## MOREAU l'Aine
+
+(LOUIS-GABRIEL)
+
+38
+
+## Paysage : le Parc.
+
+Dans un parc, une femme et un enfant sont assis, face au spectateur, au second plan, un peu a droite, sur le bord d'une piece d'eau; pres d'eux, un homme debout rappelle son chien qui poursuit un cygne. Derriere ce groupe, un escalier.en pente douce, borde de deux rampes a balustres, conduit a un bosquet ou lon apercoit, a droite, deux promeneurs, et une statue,a gauche, dans une échancrure du feuillage vert tendre,un peu jauni par endroits. A gauche, au dela de la piece d'eau,un homme aide une femme a se relever; a droite, au fond, des arbres.
+
+Gouache.
+
+Collection Leon Roux,architecte. Pendant du precedent.
+
+Cadre en partie ancien, poque Regence,bois sculpte et dore
+
+Haut,315millim.;larg.,257millim.
+## MOREAU l'Aine
+
+(LOUIS-GABRIEL)
+
+39
+
+## Paysage (Bagatelle ?).
+
+D'un large escalier de pierre, dont on voit a droite les dernieres marches, un homme en habit gris descend a un parterre d'ou s'en va, vers le fond, une allee en berceau. A lentree de cette allee, a gauche, une fillette en rouge et une femme; a droite, un lion de pierre couche. Vers le milieu, deux arbres s'elevant jusqu'en haut de la composition. Au premier plan,a gauche, trois pots de feurs. Verdure vive et fraiche ; sol jaunatre.
+
+Gouache.
+
+Rond.Diam., 83millim.
+
+Cadre en partie ancien, poque Louis XVI,bois sculpte et dore,de forme ronde, surmonte de guirlandes de feurs et de rubans retenant une couronne.
+
+3gbis
+
+## Paysage (Saint-Cloud?).
+
+A gauche, un large et haut escalier conduit a une terrasse fermee au fond par de grands arbres verdoyants et sur laquelle on distingue des groupes de promeneurs. Cette terrasse se prolonge sur la droite: on apercoit son mur et sa balustrade de fer au dela de deux arbres superbes, qui partent du bas et s'elevent jusqu'au sommet de la composition.
+
+Gouache.
+
+Haut.,170 millim.;larg.,142 millim.
+
+Cadre ancien, epoque Louis xVI, bois sculpte et doré.
+## PORTAIL
+
+(JACQUES-ANDRE)
+
+Nantes(?)Versailles,175g.
+
+40
+
+## La Musicienne.
+
+Assise sur un siege dont le dossier est recouvert d'une etoffe bleue, la jeune femme est vue a mi-corps, de trois-quarts vers la droite,le visage de profil. Un cahier a musique ouvert devant elle, sur une table, pres d'une ecritoire et d'un pupitre supportant un livre, elle pince d'une guitare incrustee d'ecaille et d'ivoire, qu'un ruban bleu retient autour de son epaule. Une coiffe noire, nouee sous le menton, couvre en partie ses cheveux poudres; elle a un ruban garni d'un nceud rose autour du cou et un joyau a l'oreille. Sa robe rose decolletee est relevee de nceuds de ruban bleu ciel au devant-de-corps et aux manches,lesquelles,arretees au coude, se terminent par des volants de mousseline.Fond d'appartement, de tonalite grise, avec une fenetre ouverte sur un jardin.
+
+Crayons de couleur.
+
+Rond.Diam.,375millim.
+
+Repr. dans les Maitres du dessin (Paris,3e annee 1goi-igo2,pl.114);— dans M.Tourneux, la Coll. J. Doucet, etc. (les Arts, op. cit., p.24);—et en fac-simile par la Societe de reproduction des dessins de maitres (3e annee, gir), avec une notice par E.Dacier.
+
+Cadre ancien,epoque Louis XVI,bois sculpte et dore,de forme ronde;au fronton, un noeud deruban retombant de chaque cote.
+## PRUDHON
+
+(PIERRE-PAUL) Cluny,1758+Paris,1822.
+
+## 41
+
+## Portrait de Mme Dufresne.
+
+Elle est representee en pied, assise sur un tertre dans un parc, le corps de profil a droite; la tete nue, presque de face, portee par un col long et gracile, et un peu penchee ; le regard dirige vers le spectateur. Legerement inclinee en avant, la jambe droite croisee sur la gauche, elle tient une gerbe de fleurs de la main droite qu'elle appuie sur son genou. Sa robe-tunique, decolletee et laissant les bras nus, est serree sous les bras par une ceinture en ruban, nouee par derriere; une écharpe est tombee en travers de ses jambes.
+
+Crayon noir releve de craie, sur papier bleu.
+
+Haut.,283 millim;larg.,202 millim.
+
+Au bas,a droite et a gauche,une marque de collection,monogramme imprime en rouge.
+
+portrait de Made D.. par Prud'hon.Vte Boisfremont fils.9 avril 187o.-La seconde,au crayon et a demieffacee,orte,surneuf lignes:ortrait deMmeDufresne, femme d'un marchand de tableaux.L'esquisse peinte appartient a M.Jeanne Deslandes. quarts et de grandeur nature.
+
+Au dos de l'encadrement, on a colle deux notes manuscrites provenant d'un encadrement ancien. Sur la premiere on lit,a lencre, sur quatre lignes:Dessin pr le M.Eudoxe Marcille possede un pastel [representant] Mme Dufresne vue [de trois]
+
+Collection Boisfremont fils (vente a Paris, avril 187o,n9);——Collection Eugene Lecomte (vente a Paris,juin 1go6,n°26).
+
+Repr. au catalogue de la vente Eugene Lecomte;—et en fac-simile par la Societe de reproduction des dessins de maitres(ire annee,igog).
+
+Premiere idee d'une petite esquisse peinte (h. o,23;1. o,16), representant Mme Dufresne, femme d'un marchand de tableaux, ami de Prudhon; cette esquisse un peu noiratre, provenant de la vente Boisfremont fls (187o,n°8),a passe dans la collection Norzy, puis dans celle de M. Jeanne Deslandes.
+
+En dehors du present croquis,on connait une etude plus avancee,egalement au appartenait a la collection Alfred Sensier,quand elle figura a l'Exposition des dessins de maitres anciens de 1'Ecole des beaux-arts (1879,n° 1i8), comme un portrait de limperatrice Josephine. C'est d'ailleurs avec cette designation qu'elle passa a la vente A.Sensier (Paris,decembre 1877,n°458).
+
+Enfin Mme Jahan-Marcille possede un pastel representant Mme Dufresne en buste, vue de face et coiffee de papillotes depeignees, provenant de la collection Eudoxe
+
+Marcille et mentionne dans la note citee plus haut.
+
+Cf.Goncourt,Catalogue raisonne deuvre,eint,dessineet grave,ePP.Pruhon(Paris,8）, pp.45et74.
+
+Cadre style Louis XVI, bois sculpte et dore.
+## ROBERT
+
+(HUBERT)
+
+Paris,1733Paris,1808.
+
+## 42 La Fontaine.
+
+D'énormes blocs, poses sur deux rangs, supportent deux lourdes pierres sculptees de mascarons et, au-dessus, une longue dalle, ou lon distingue des vestiges de decoration. De l'un des mascarons, l'eau jaillit dans une grande cuve circulaire de pierre, soutenue par un robuste plancher,auquel on accede par un escalier de pierre, sur le devant de la composition. Debout sur ce plancher, une femme, qui vient de puiser de l'eau dans la cuve, remplit un bassin; un enfant assis pres d'elle joue avec un chien, et un autre chien, les pattes posees sur le rebord de la cuve, leve la tete vers la dalle qui couronne la fontaine, ou deux chiens sont assis aupres d'un homme couche tout de son long et tourne vers la gauche,en conversation avec une jeune femme debout sur un des blocs inferieurs. A gauche, au premier plan, du fourrage; plus loin, divers recipients; au fond, du linge etendu devant une maison. A droite, au fond, un vieil arbre rompu a mi-hauteur.
+
+Lavis et aquarelle sur trait de plume.
+
+Haut., 565 millim.,; larg.,723 millim.
+
+Collection Allard de Meeus. Sur les deux premiers rangs de pierres,on lit :
+
+FONTEM HANC PUBLICAM
+
+VIATORUM COM]MODITATI STRUXIT H.ROBERTUS. ANNO DOMINI MDC[C]LXXXII.
+
+Cette inscription donne donc clairement a entendre qu'il s'agit ici d'un dessin de composition. Toutefois,on peut rapprocher de cette u fontaine publique construite par Hubert Robert pour la commodite des voyageurs, en 1782,une autre fontaine assez analogue, mais represente d'apres nature:c'est celle qui a éte gravee par Adelaide Allou, en 177l,pour le frontispice des Diferentes vues dessinees d'apres nature par Mrs Robert et Fragonard,peintres du Roy,dans les environs de Rome et de Naples. La fontaine de fantaisie n'est qu'une amplification et un arrangement de celle-ci.
+
+Cadre ancien, epoque Louis xVI, bois sculpte et dore.
+## ROBERT
+
+(HUBERT)
+
+43
+
+## Ferme dans les ruines d'un édifice antique.
+
+Dans une galerie divisee par des colonnades en deux bas-cotes et une nef centrale, dont la voute s'est écroulée,un troupeau de moutons s'avance,venant du fond, escorte par une femme portant un fardeau sur la tete et par un enfant brandissant un baton. A droite, divers personnages, un chien, des fragments d'architecture, un vase encore debout sur son socle. Au milieu, un groupe d'enfants et de femmes, a l'une desquelles un homme fait un geste de commandement en lui designant le troupeau. A gauche, une echelle conduit a un plancher installe dans le bas-cote, a mi-hauteur des colonnes, et sur lequel on voit une femme; de ce plancher, qui s'avance un peu dans la nef centrale, part une autre échelle, aboutissant a un second étage, constitue par des planches jetees en travers de la galerie,d'un entablement a I'autre. Un homme gravit la derniere échelle; une femme est debout sur le plancher superieur, d'ou pend une lanterne.
+
+Mine de plomb et plume, releves de bistre par endroits.
+
+Haut.,283 millim.;larg.,362 millim.
+
+Repr.en fac-simile par la Societe de reproduction des dessins de maitres (2e annee, 1910).
+
+Cadre ancien, debut de l'époque Louis XV, bois sculpte et doré.
+## ROBERT
+
+(HUBERT)
+
+## Le Jet d'eau.
+
+Dans un parc a l'italienne, une cascade jaillit entre des rochers, sous une arche couronnee de balustres. A droite et a gauche, circonscrivant un bassin ou tombe la cascade, des escaliers conduisent a une premiere, puis a une seconde terrasse, dont on apercoit la perspective fuyante, arretee tout au loin par une statue colossale. Des mascarons decorant la paroi des escaliers et des lions couches sur les rampes crachent de l'eau dans le bassin; sur la premiere terrasse, un jet d'eau s'eleve en colonne legere jusqu'au sommet de la composition. De petits personnages ca et la, les uns au pied des escaliers, d'autres gravissant les marches.
+
+Signe en bas, a gauche : H. Robert.
+
+Aquarelle sur trait de plume.
+
+Haut.,285 millim.;larg.,361 millim.
+
+Repr. en fac-simile par la Societe de reproduction des dessins de maitres (3e annee, 1gir), avec une notice par E.Dacier.
+
+La collection Jacques Doucot possede une premiere esquisse pour cette aquarelle; voir le numero suivant.
+
+D'autre part, on a vendu a 1Hotel Drouot, le 17 avril 188g, une sanguine d'Hubert fait a droite de la composition (H. o,4o; L. o,53; n° g2 du catal. avec une reproduction).
+
+Enfin,ces aquarelles et dessins ont trouve leur forme definitive dans une peinture,qui fait partie de la collection Camille Groult et qui a ete reproduite dans P. de Nolhac, Hubert Robert (Paris,gio),pl.,p. 134, sous le titre:Escalier d'une villa romaine.
+
+Cadre style Louis XVI, bois sculpte et dore, fronton a chutes de feuillage.
+
+## 44bis Le Jet d'eau.
+
+Meme composition que la precedente, sauf quelques variantes dans les petits personnages.
+
+Mine de plomb, legerement relevee de bistre.
+
+Haut., 264 millim.,; larg.,35g millim.
+
+Cadre ancien, epoque Louis XVI, bois sculpte et dore; fronton avec noeud de ruban et guirlandes retombantes.
+## ROBERT
+
+(HUBERT)
+
+45
+
+## Monument a colonnades.
+
+Au dela d'un premier plan encombre de debris d'architecture,setend une piece d'eau, sur laquelle on voit des barques et qui est entouree d'un mur en terrasse supportant un monument semi-circulaire. Ce monument se compose, au centre,d'une sorte de temple a fronton triangulaire, flanque de deux ailes a colonnades formant galeries et soutenant une statue a leur extremite. Au-dessous du portique ouvert a la partie centrale du temple, se trouve une fontaine, formee de deux statues couchees de part et d'autre d'une urne d'ou l'eau tombe dans le bassin. Divers personnages ca et la. A gauche, l'aile est coupee vers le milieu; a droite, derriere la colonnade, des escaliers,et, au loin, des arbres.
+
+Signe sur une pierre, en bas, a gauche : H. Roberti delineabat. Aquarelle sur trait de plume.
+
+Haut., 343 millim.(y compris une bande de 27 millim. rapportee en bas);larg.,474millim.
+
+Cadre ancien, epoque Louis XVI, bois sculpte et dore; fronton avec neud de ruban et guirlandes retombantes.
+## SAINT-AUBIN
+
+(AUGUSTIN DE)
+
+Paris,1736+Paris,1807.
+
+46
+
+## Portrait de Mme de Saint-Aubin.
+
+En deshabille, elle est vue en buste, de profil a droite; son manteau de lit, dont le galon s'est denoue, laisse voir un corsage ruche, ouvert sur la poitrine. Les cheveux, releves sur le sommet de la tete, forment par derriere une touffe epaisse retenue par un ruban; trois boucles partant des tempes et de l'oreille,ornee d'un anneau,remontent vers le haut du chignon; une quatrieme, entouree par le ruban de la coiffure, descend sur le cou.A gauche, le haut du dossier arrondi d'une chaise; a droite, un pan de draperie.
+
+Signe a gauche, au-dessus de la chaise : de St Aubin delin. 1778
+
+[le prenom est sans doute cache par la monture].
+
+Mine de plomb tres legerement relevee d'aquarelle dans les chairs et de lavis dans le vetement.
+
+Ovale.Haut., 15o millim.; larg., 127 millim.
+
+On lit,a l'encre,au dos de l'encadrement,les deux inscriptions suivantes;la premiere sur trois lignes:Donne a Madame helman par sa meilleure amie fe St aubin;- la seconde, d'une autre main,sur quatre lignes: a rendre a Mr St.aubin le 127bre 1821, helman;—et plus bas:coiffure a la mode en 1774.
+
+Repr. dans M. Tourneux,la Collection J. Doucet,etc. (les Arts, op. cit.,p.22).
+
+Le modele est bien connu : c'est Louise-Nicole Godeau qu'Augustin de SaintAubin avait epousee,alors quelle avait vingt-deux ans,le 2g novembre 1764, et qu'il
+
+Quant a la " meilleure amie 》 a laquelle Mme de Saint-Aubin offrit ce portrait,on peut croire quelle designe la femme d'Isidore-Stanislas Helman (1743-18o6),le graveur de tant d'estampes celebres,comme le Jardinier galant, le Roman dangereux, plusieurs planches du Monument du costume,et celles des Principales journees de la Revolution,— celles-ci executees d'apres des dessins de Monnet, qui appartinrent a Augustin de Saint-Aubin et passerent,en 18o8,a sa vente apres deces(H.Beraldi et baron R.Portalis,les Graveurs duXVIIIe siecle,t.II,Pp.3g3et 397）.
+
+a represente bien des fois; c'est elle qu'on trouve notamment dans Au moins, soyez discret!et dans l'Hommage reciproque.
+
+Cadre ancien, epoque Louis xVI, de forme ovale,bois dore.
+## SAINT-AUBIN
+
+(AUGUSTIN DE)
+
+47
+
+## Portrait d''Augustin de Saint-Aubin par lui-meme.
+
+En buste, de profl a gauche, l'eil vif et la bouche entrouverte,il a le cou serre par une cravate de lingerie et porte un habit bleu a larges revers, ouvert sur un gilet de meme couleur. Sa haute perruque bouffante, agrementee d'une boucle sur l'oreille, est nouee d'un ruban par derriere. Costume de la fin du xvinl siecle.
+
+Mine de plomb, relevee d'aquarelle.
+
+Ovale.Haut., 11o millim.; larg., 8g millim.
+
+Repr.en fac-simile par la Societe de reproduction des dessins de maitres (3e annee,
+
+1g11), avec une notice par E. Dacier.
+
+Monture simulant une ouverture percee dans une muraille et entouree d’orne- ments et de guirlandes de feurs dores en relief;au-dessous,le titre:Augustin de St Aubin, dessinateur du Roy, ecrit sur une tablette de marbre encastree dans la muraille.
+
+Cadre ancien, epoque Louis XVI,bois sculpte et dore.
+## SAINT-AUBIN
+
+(GABRIELDE)
+
+Paris,1724Paris,1780.
+
+48
+
+## La ( Venusy de Mignot au Salon de 1757.
+
+Au Salon du Louvre, un groupe de visiteurs examine la Venus endormie,exposee par Mignot,qui occupe le milieu de la composition: a droite,un Turc et une jeune femme, et devant eux,au fond,trois hommes discutant les merites de la statue.A gauche,une femme et un enfant montrent du doigt deux sculptures sur des socles:l'une est un buste d'homme, l'autre une nymphe epanchant l'eau d'une urne. Derriere ces sculptures,a la tete de la Venus,deux hommes en conversation. La muraille du fond est garnie de tableaux.
+
+On lit au bas, de la main de G. de Saint-Aubin : Sallon de 1757. Figure de M.Mignot.
+
+Encre de Chine et lavis.
+
+Haut.,137millim.;larg.,162 millim.
+
+Collection des Goncourt (vente a Paris, fevrier 1897,n° 273);la marque de la collection des Goncourt se voit en bas,a gauche.
+
+Exposition des dessins de maitres anciens a 1'Ecole des beaux-arts, 1879, no 6o1.
+
+Repr. dans Goncourt,lArt du XVI1Ie siecle(ed.in-4,1883),t. Ier,pl.,p.15o; dans le catalogue de la vente Goncourt,n° 273; et dans E. Dacier, Catalogues de ventes et livrets de Salons illustres par Gabriel de Saint-Aubin (Paris,1gog, gr.in-8), t.Ier,p.13.
+
+La statue de Mignot figurait au Salon de 1757, sous le n 15o,avec cette designation:α Venus qui dort. Cette figure est de la meme proportion que l'Hermaphrodite antique et doit faire son pendant 》.
+
+Cf. Ph.de Chennevieres,les Dessins de maitres anciens a lExposition de PEcole des beaux-arts (Gazette des Beaux-Arts, 1879,t.Il,p.210).
+
+Cadre ancien, époque Louis xVI,bois sculpte et dore.
+## SAINT-AUBIN
+
+(GABRIELDE)
+
+49
+
+## Composition allegorique.
+
+Au milieu de la composition, une femme assise dans un fauteuil, le corps de trois-quarts vers la droite, s'interrompt de suivre les explications que lui donnaient un jeune officier debout, le doigt pose sur une carte deployee, et un petit abbe, assis en face d'elle et tenant un livre ouvert.Elle se retourne et,la main sur le cceur,elle contemple le buste d'un homme, portant une plaque d'ordre et un grand cordon, place a gauche sur un socle, et que parent de guirlandes une jeune fille et un enfant. Sur la base du socle,un Amour nu ouvre la porte d'une cage et donne la volee a un oiseau qui s'echappe par une fenetre ouverte a gauche.Au fond,a droite,une porte.
+
+Signe en bas, a gauche : G. d. S. A. 1772, corrige en 1774.
+
+Pierre noire et encre de Chine.
+
+Haut.,112 millim.;larg.,175millim.
+
+Malgre toutes les recherches,il n'a pas ete possible de decouvrir le sens de cette composition allegorique. Est-elle une allusion a l'affaire de Bellegarde, cet officier d'artillerie emprisonne pour de pretendues malversations et defendu,en 1773,par un d'eclat accomplie par son mari et adressant au buste de celui-ci un regard d'admiration, tandis que ses enfants le parent de feurs? C'est a cette derniere hypothese qu'on se memoire fameux de Linguet? Represente-t-elle une femme instruite d'une action rallierait plus volontiers, mais sans pouvoir proposer une identification precise.
+
+Cadre ancien,epoque Louis xVI, bois sculpte et doré.
+## SAINT-AUBIN
+
+(GABRIEL DE)
+
+50
+
+## Le Cours du chimiste Sage a la Monnaie (1779).
+
+Dans la grande salle de la Monnaie, dont le plafond est decore de peintures allegoriques, les auditeurs du cours de mineralogie et de matras,de balances,etc. A gauche, devant la haute cheminee dont on n'apercoit que le profil,le professeur est debout, élevant et presentant
+
+Signe en bas, a gauche, a 1'encre : Gabriel de S. Aubin, 1779; on lit ensuite, au crayon :Lecon de M. Sage a I'Hotel de la Monoye.
+
+metallurgie docimastique professe par B.-G. Sage sont assis autour d'une vaste table rectangulaire,encombrée de cornues, de ballons, de un verre a experiences. Sur le cote gauche de la piece, trois fenetres; au fond, deux portes, entre lesquelles se trouve un poele dont le tuyau traverse obliquement la salle; a droite,un garde-francaise debout, le fusil sur l'epaule.
+
+Pierre noire relevee d'encre de Chine.
+
+Haut.,20o millim.; larg.,129 millim.
+
+Repr.dans Lady Dilke,French engravers and draughtsmen of XVIllth century (Londres, 1go2), pl., p.134；—dans M.Tourneux, la Collection J. Doucet, etc. (les Arts,op.cit.,p.22);—et, avec le numero suivant,en fac-simile,par la Societe de reproduction des dessins de maitres (3e annee,1git),avec une notice par E. Dacier, redigee d'apres une communication faite,en 1gog,a la Societe d'iconographie parisienne,par M.A.Vuaflart.
+
+La chaire de mineralogie et de metallurgie docimastique fut creee, a l'Hotel des menca son cours le 2 decembre suivant et le poursuivit au milieu d'un nombreux public(Memoires secrets,t.X1I,3 aout 1778;et t.XV1I,17,18,20 janvier 1781）.
+
+Gabriel de Saint-Aubin a represente plusieurs fois ces solennites scientifiques. Outre le present dessin et le suivant,on connait une troisieme vue du cours de Sage, ne comprenant que le portrait du chimiste et celui des auditeurs places pres de lui; signe G.d.S.A.,1779,ce dessin,reproduit dans lArt du XVIlle siecle (ed.in-4°, 1883, t.II, pl.,p.443), provenait de la vente A.N.Perignon pere (1865,n151);il a éte acquis a la vente des Goncourt (1897,n° 27o du catalogue, ou il est reproduit), par Mme la marquise de Ganay.
+
+Cf.Goncourt,lArt du XVIll siecle,éd.in-18,2 serie,p.224.
+
+Cadre ancien,époque Louis XV,bois sculpte et dore,a fronton.
+## SAINT-AUBIN
+
+(GABRIELDE)
+
+51
+
+## Le Cours du chimiste Sage
+
+## a la Monnaie(1779).
+
+C'est la meme salle de la Monnaie,au plafond decore de peintures allegoriques, que Saint-Aubin a representee dans le dessin precedent; mais la vue est prise en sens inverse, c'est-a-dire que l'artiste s'est place,non pas derriere le professeur, mais en face de lui, de lautre cote de la grande table entouree d'auditeurs assis ou debout, et pres du poele dont le tuyau, soutenu par une armature a plusieurs branches, traverse obliquement la piece. Des rayons de soleil, entrant par les hautes fenetres de droite, baignent la salle dans une lumiere diffuse,a travers laquelle on distingue la silhouette du professeur debout devant le manteau de la haute cheminee chargee de cornues et de bocaux.
+
+On lit en haut, au crayon : Une vue en face de M. Sage soutenant un vase d'essai dans les mains;—en bas, a gauche : G. de S Aubin f., et a droite : 1779. Sur le poele, se voient egalement les initiales de l'artiste: G. d.S.A.
+
+Pierre noire relevee d'encre de Chine.
+
+Haut., 194 millim.; larg., 12o millim.
+
+On a colle au dos de l'encadrement une note ancienne,a lencre,portant cette indication:Laboratoire de la chaire de mineralogie docimastique etablie a la Monoie en
+
+1778,en faveur de B.-G.Sage.
+
+Collection Muhlbacher(vente a Paris,mai 18g9,n 27o,ou il est catalogue sous le nom d'Augustin de Saint-Aubin).
+
+Repr.en fac-simile, avec le numero precedent,par la Societe de reproduction des dessins de maitres (3e annee, 1gii),avec une notice par E. Dacier.
+
+Pour la notice historique,voir le nprecedent.
+
+Cadre ancien, epoque Louis XIv,bois sculpte et dore,a coins feuris.
+du roiau Pantheon.
+
+## SAINT-AUBIN
+
+(GABRIEL DE)
+
+52
+
+## L'Arrivee du roi
+
+## a Sainte-Genevieve (1779).
+
+Les cavaliers de l'escorte penetrent,a droite, sur la place de la nouvelle eglise Sainte-Genevieve, quon voit au fond, et dont le dome nest pas encore construit. A gauche,au premier plan, un homme et une femme; derriere eux, des troupes formant la haie sur le cote de la place. Au fond, de ce meme cote, le clocher de Saint-Etienne- du-Mont.
+
+Signe en bas, a gauche : G. d. S. A., et date a droite : 1779. Dessin a la plume releve de lavis.
+
+Haut.,12o millim.;larg.,65 millim.
+
+Collection A.Beurdeley (vente a Paris,mars 1go5,n2ig),sous le titre:lArrivée
+
+Exposition retrospective de la Ville de Paris, a l'Exposition universelle de 1goo, n261.
+
+On sait queGabriel deSaint-Aubinmourut le5février178oetqu'ilneproduisit qu'il trainait ,dit l'acte d'apposition des scelles redige apres le deces de l'artiste.Il est donc vraisemblable de supposer que ce dessin fut execute pendant la premiere moitie de1779.
+
+Or,on lit dans le Mercure de fevrier 1779 (p.226),que le8 de ce mois le roi et la reine vinrent a Paris,accompagnes de la Cour,allerent a Notre-Dame remercier Dieu de l'heureux retablissement de la reine (la naissance de Madame Royale avait eu lieu le 1g decembre precedent),et se rendirent de la a Sainte-Genevieve,au milieu d'un grand concours de population. Le croquis de Saint-Aubin est sans doute un souvenir decette ceremonie.
+
+On le rapprochera d'un autre dessin du meme artiste, grave par Chenu pour les Etrennes francoises de Iabbe de Petity (1766),et representant la Pose de la premierepierre de la nouvelle eglise Sainte-Genevieve(en 1764).
+
+Cadre ancien,Epoque Louis XIlI,bois sculpte et dore.
+## SAINT-AUBIN
+
+(GABRIEL DE)
+
+53
+
+## Allegorie sur l'erection de la statue de Louis XV (1763).
+
+Entre les deux pilastres supportant le Mercure et la Renommee de
+
+Coysevox, a l'entree des Tuileries, on voit dans les airs une troupe de petits genies enlevant le voile qui recouvrait la statue du roi par Bouchardon. Sur le devant, a gauche, un genie aile accompagne une jeune femme qui vient offrir au roi une corbeille remplie de cceurs; a droite, entre la Sculpture et l'Architecture,une autre jeune femme,representant la France, indique de la main le monument. Au fond, a gauche,une estrade supportant des tonneaux, pour une distribution de vin au peuple; et a droite, devant I'un des pavillons du Garde-Meuble, l'orchestre d'un bal en plein air.
+
+Signe en bas, vers la gauche : G. d. S. 1763.
+
+Mine de plomb, plume et lavis, recouvrant le trait d’une eau-forte.
+
+Haut.,311 millim.;larg.,240 millim.
+
+On lit en bas,en capitales,sur deux lignes:Allegorie sur l'inauguration de la statue du roy Louis XV.-Sur le piedestal de gauche,on lit,en minuscules,a lencre, surchargeant le trait grave:Gabriel de St.Aubin delin. Le genie tutellaire applaudit a la joye universelle; ilest precede par la Reconnaissance qui presente les cour de tout les citoyens.La bonte,la clemence,la sagesse et lapiete duroi sont representees dans les superbes tapisseries qui doivent decorer ce spectacle brillant.—Sur le piedestal de droite:La Magnificence de la Ville,accomfeste.Plusieurs groupes de genies enlevent les machines qui ont servi a ellever la statue et le voile qui la couvroit. L'auteur de ce tableau astreint a une grandeur donnee supose les objets rassembles par enchantement.G.d.S.data [] aoust 1762.
+
+Collection Destailleur (vente a Paris,18g3,n111,piece 34）.
+
+L'eau-forte de G. de Saint-Aubin est decrite dans P. de Baudicour, le Peintre-graveur francais continue(Paris,185g-61),t.II,G.de Saint-Aubin,n6,et mentionnee dans Goncourt, lArtdu XVIlles.,ed.in-8,2serie,p.197.—Goncourt estimequ'ilest impossible de savoir sil ya,dans ce dessin, un dessous de trait grave; ce dessous est pourtant visible en maint endroit.
+
+En 1748, Louis XV accorda a la Ville de Paris lautorisation de lui elever une statue équestre et designa comme emplacement un terrain encore inculte,devenu depuis la place Louis XV, aujourd'hui place de la Concorde. Vingt-huit plans furent proposes;A.-J. Gabriel lesrevit et en tira le projet qui fut execute,tel qu'on levoit dans la gouache du chevalier de Lespinasse,decrite precedemment sous le no 2g.Au centre de la place,fut erigee une statue de Louis xV par Bouchardon,portee sur un piedestal que Pigalle orna aux angles de quatre fgures allegoriques. Linauguration eut lieu le 23 fevrier 1763(ef.Barbier, Chronique,ec., t.VI1I,Pp.65et ss.).
+## SAINT-AUBIN
+
+(GABRIELDE)
+
+54
+
+## Interieur d'artistes.
+
+A droite,une jeune femme assise,vue de profl et tournee vers la gauche,vetue d'une robe dinterieur et coiffee d'un petit bonnet, travaille a une statuette de Venus posee devant elle sur un escabeau.A gauche, au premier plan, un homme quon voit seulement en buste, assis dans un fauteuil,le corps de profil a gauche, la figure de trois-quarts et regardant en face, indique de la main droite un objet rond qu'il tient appuye sur d'oiseau, et un portrait de Louis XVI en buste, sur le cadre duquel est pose un casque. L'homme et la femme sont assis de part et d'autre d'une cheminee, dont la tablette porte, de gauche a droite, une statuette d'ange ou d'amour, un petit groupe formant candelabre,une statuette de femme assise et vue de dos, et enfin une sorte de trophee d'instruments de musique enguirlandes de feuillages.
+
+Pierre noire, relevee de plume et de lavis d'encre de Chine.
+
+Haut.,172millim.,;larg.,225millim.
+
+On lit dans l'angle inferieur droit,a l'encre, d'une ecriture qui n'est pas celle de lartiste:St. Aubin;— au-dessus du cadre,a lencre, de l'ecriture de G. de SaintAubin:Casque de l'empereur d'Orient et d'Occident, 1775;—en haut,a gauche, au en tere de Lorraine,au Salon d'Hercule,vue par Mr.Bonieu [?].
+
+Collection Sigismond Bardac.
+
+Repr.en fac-simile dans les Maitres du dessin(3e annee,1goi-igo2,pl.132).
+
+Cadre ancien,epoque Louis XVI,bois sculpte et dore; guirlandes et ruban rapportes.
+## WATTEAU
+
+(ANTOINE)
+
+Valenciennes,1684 Nogent-sur-Marne,1721.
+
+55
+
+## Feuille d’etudes : trois femmes en pied.
+
+- a.A gauche,une femme debout,vue de face,le bras droit dissi-
+- mule par une mante,la main gauche un peu avancee; la mante,ouverte sur le corsage decollete, est retenue par un galon noue.
+- eventail entrouvert qu'elle tient de la main droite.
+- b. Au milieu, une femme assise, vue de face,la tete legerement inclinee et tournee vers la gauche, le regard abaisse; elle joue avec un
+- c.A droite,une femme debout, vue de dos;le bras gauche écarte, comme dans le geste de s'appuyer au bras d'un cavalier, elle releve de
+- la main droite le bas de son manteau a plis.
+- a. Sanguine; b. Pierre noire et sanguine, legerement relevees de
+- craie; c. Sanguine et pierre noire. Papier grisatre.
+
+Haut.,264 millim.; larg.,320 millim.
+
+Collection Auguste (vente a Paris,mai 185o,un des dessins reunis sous les nos 1o1-102);Collection du baron de Schwiter （vente a Paris, avril 1883,n 157); Collection H.-A.Josse (vente a Paris,mai 1894,n° 46).
+
+Repr. dans :G.Dargenty, Antoine Watteau (Paris,18g1,P.47）;et dans le catalogue de la vente du baron de Schwiter,n157,pl.
+
+- a.Rappelle,a quelque difference pres dans le mouvement de la main gauche, la jeune femme qui tend la main, dans la Diseuse d'aventure, gravee par L. Cars.
+- c.Gravee directement par J.Audran dans les Figures de differents caracteres (no2o5):elle donne le bras a un homme en petit manteau et en toquet(E.de Goncourt, Catalogueraisonne de leuvre peint,dessineet grave d'Antoine Watteau;Paris,1875 no 582). On retrouve ce groupe legerement modife dans les Plaisirs du bal, graves par Scotin(a droite,dans la gravure).-Gravee seule,directement et en maniere de sanp.37), a gauche d'une gravure ou l'on voit, a droite, une femme assise au bas d'un
+- b.Cette etude de femme a ete utilisee dans l'Embarquement pour Cythere(musee du Louvre et collection de I'empereur d'Allemagne):c'est la femme assise a droite de la composition, ecoutant les propos d'un galant pelerin agenouille pres d'elle.-C'est elle egalement qui forme, avec ce pelerin,le groupe principal du petit tableau grave par Audran sous le titre de:Bon voyage.
+- escalier.
+
+Cf.E.de Goncourt,Catal.raisonne,etc.,p.366.
+
+Cadre ancien,epoque Louis xVI,bois sculpte et dore,avec cartouche ala parte inferieure.
+## WATTEAU
+
+(ANTOINE)
+
+56
+
+## Feuille d'etudes :deux femmes,
+
+## I'une en pied, l'autre en buste.
+
+a.A gauche,une femme assise,le corps de trois-quarts et la tete, coiffee d'un bonnet de linge, de profil a gauche, le regard abaisse; elle est decolletee en pointe et porte au cou un fil de perles;le bras droit tombe le long du corps, le gauche est legerement écarte.
+
+b.A droite,buste de la meme femme, de profil a gauche; elle est coiffee d’une toque et decolletee en pointe; au cou, un fil de perles.
+
+Sanguine et craie, avec quelques rehauts de pierre noire, sur papier chamois.
+
+Haut,23o millim.;larg.,263 millim,
+
+Repr. dans A.Dayot, l'Image de la femme (Paris,18g9,P.2oi);— dans M.Tourneux, Collection J.Doucet,etc.（les Arts,op.cit.,p.3),sous le titre:Etudes pour ul'Assemble galante.
+
+a.Grave en contre-partie par Boucher dans les Figures de differents caracteres, n51(Goncourt,Catalogue,n4o2);cest la premiere idee de la femme assise,qui pose sa main droite sur la main dun homme, dans le tableau de lAssemblee galante, grave par Le Bas.
+
+b.Grave en contre-partie dans les Figures de differents caracteres, no 231 (Goncourt, Catalogue,no 6o8).
+
+Cadre style Louis XV,bois sculpte et dore.
+## WATTEAU
+
+(ANTOINE)
+
+57
+
+## Feuille d'etude : une femme couchee.
+
+Elle est vue de dos, a mi-corps, appuyee sur le bras droit, l'épaule nue;elle tient un verre de la main gauche, le bras etendu au-dessus du visage leve et tourne vers la droite.
+
+On lit dans I'angle inferieur gauche, a l'encre : Watau.
+
+Sanguine rehaussee de pierre noire et de craie, sur papier chamois.
+
+Haut.,17o millim., larg., 194 millim.
+
+Collection Johann Conrad Spengler,directeur du musee de Copenhague (vente a Copenhague, octobre 1839); la marque de cette collection au timbre sec : J. C. S., se voit en bas et au milieu du dessin.
+
+Etude pour l'Automne, une des peintures de la salle a manger de Crozat aujourd'hui perdues,gravee par Fessard:c'est la bacchante couchee au premier plan et tendant son verre au satyre qui remplit la coupe de Bacchus. L'etude pour le Bacchus est dans la collection Walter Gay (repr. par la Societe de reproduction des dessins de maitres,3 annee,1gil,avec une notice par E.Dacier);letude pour le Satyre versant a boire, provenant de la collection du baron de Schwiter,appartient a M. Henry
+
+Michel-Levy.
+
+Cf.E.de Goncourt,Catalogue raisonne,etc.,n48.
+
+Cadre ancien, epoque Louis XV,bois sculpte et dore.
+## WATTEAU
+
+(ANTOINE)
+
+58
+
+## Feuille d'etudes : deux enfants.
+
+- a. A gauche, buste d’un enfant riant; vu de face, les yeux tournes
+2. vers la droite, il est coiffe d'un bourrelet et a la main droite posee en avant.
+3. b.A droite, buste d’un enfant, la tete coiffee d’un bourrelet et
+4. tournee de trois-quarts a droite, a demi couchee sur le bras droit.
+
+Sanguine, relevee d’un peu de pierre noire dans la figure de gauche
+
+Haut.,133 millim.; larg.,173 millim.
+
+Collection His de La Salle, dont on voit la marque en bas, a droite (H. L.en noir).
+
+- a.Grave en contre-partie,par Boucher, dans les Figures de diferents caracteres, n°48(Goncourt,Catalogue raisonne,etc.,n3g9).
+- n°83(Goncourt,Catalogue,n°438).
+- b.Grave en contre-partie,par Boucher, dans les Figures de differents caracteres,
+
+C'est une etude pour le petit garcon appuye sur un tabouret, du tableau de l'Occu- pation selon lage,grave par Dupuis. On le retrouve,dit Goncourt, avec un petit changement dans le mouvement du bras gauche, dans le tableau du musee de Dresde catalogue sous le titre: Groupe de messieurs et de dames reunis sur une terrasse : c'est l'enfant quon voit a droite, au second plan, appuye sur la hanche d'une femme couchee.
+
+Cadre ancien, epoque Louis XV,bois sculpte et dore.
+
+seulement, sur papier chamois.
+## WATTEAU
+
+(ANTOINE)
+
+59
+
+## Feuille d'etude :un enfant.
+
+Vu a mi-corps, l'epaule gauche remontee, le bras droit ramene sur le devant du corps,il a la tete de face, coiffee d'un bourrelet,et sourit en regardant vers la droite.
+
+Sanguine relevee d’un peu de pierre noire, sur papier chamois.
+
+Haut.,154 millim.;larg., 111 millim.
+
+Collection Norblin de La Gourdaine (vente a Paris,fevrier 1855,n251）:a Enfant
+
+Grave en contre-partie, par Boucher, dans les Figures de differents caracteres, coiffe d'une toque, aux crayons noir et rouge, de la belle maniere du maitre .- Selon Goncourt,ce dessin a fait partie de la collection Thibaudeau.
+
+no53 (Goncourt, Catalogue,n4o5); sur la gravure,1épaule droite et la main gauche s'appuient sur un tertre.
+
+Cadre ancien, epoque Louis XIV, bois sculpte et dore.
+## WATTEAU
+
+(ANTOINE)
+
+60
+
+## Le Savoyard a la marmotte.
+
+Un Savoyard debout, de trois-quarts tourne vers la droite,porte en sautoir une boite,ramenee sur le devant du corps, sur laquelle est couchee une marmotte; de la main droite, appuyee sur la boite, il tient un flageolet.
+
+Sanguine et pierre noire, sur papier blanc.
+
+Haut.,323millim;larg.,200 millim.
+
+Collection John Charles Robinson (vente a Paris,mai 1868); dans Iangle inferieur droit, se voit la marque de cette collection, composee des initiales J. C. R. a l'encre.
+
+Grave en contre-partie par Boucher, dans les Figures de differents caracteres, no6(Goncourt,Catalogue,no354).
+
+C'est une etude pour le Savoyard a la marmotte, ceuvre de jeunesse de Watteau, gravee par B. Audran sous le titre de la Marmotte, et aujourd'hui au musee de l'Ermitage,a Saint-Petersbourg (Goncourt, Catalogue,n 85;et Somoff,Ermitage imperial,Catalogue de la galerie des tableaux, Saini-Petersbourg,1go3,t.III,n 15o2); dans la peinture, on voit derriere le Savoyard un fond de paysage representant une place de village avec son eglise.
+
+Cadre ancien, poque Louis XV,bois sculpte et dore, a fronton orne darmoiries.
+## WATTEAU
+
+(ANTOINE)
+
+61
+
+## Le Pelerin.
+
+C'est un homme barbu, debout, de face, vétu d'une robe qui lui descend a mi-jambes et chausse de sandales. La tete nue et legerement inclinee,il s'appuie de la main droite sur un long baton et il a le pouce de la main gauche passe dans une ceinture d'ou pend, sur le cote, une sorte d'escarcelle; un galon auquel un sac est suspendu lui barre la poitrine, couverte d'un chapelet de coquilles Saint-Jacques.
+
+On lit dans l'angle inferieur gauche, a l'encre: W atteau.
+
+Sanguine et pierre noire, sur papier chamois.
+
+Haut.,372 millim.;larg.,251 millim.
+
+Dans langle inferieur droit, la marque de la collection Warwick.
+
+Etude dans le genre du buste de frere mendiant et des types populaires (remouleurs, savoyards,artisans) qu'on rencontre dans les Figures de differents caracteres,par exemple aux nos 1,6,38,107,etc.
+
+Cadre ancien, poque Louis xV,bois sculpte et dore,a coquilles.
+## WATTEAU
+
+(ANTOINE)
+
+62
+
+## Feuille d'etude : une femme oue de dos.
+
+Vue en pied, de dos, la tete tournee vers la gauche, elle marche, le haut du corps legerement incline, la main droite ramenee par derriere et relevant la jupe.
+
+Sanguine sur papier blanc.
+
+Haut.,177 millim.; larg.,8o millim.
+
+Dans l'angle inferieur droit, la marque de la collection Warwick.
+
+Repr.en fac-simile par la Societe de reproduction des dessins de maitres (3e annee, Igi1),avec une notice par E. Dacier.
+
+Cadre ancien, debut de l'epoque Louis xV,bois sculpte et dore,avec les armes royales au fronton.
+## WATTEAU
+
+(ANTOINE)
+
+63
+
+## Feuille d'etudes :trois femmes.
+
+- a.En haut, a gauche,une femme en buste, la tete couverte d'une mante dont elle reunit les deux bouts dans sa main droite appuyee sur sa poitrine; de la main gauche, elle tient une boite.
+- b.En haut,a droite,la meme femme assise a terre, le corps de profil et tourne vers la droite, la robe etalee sur ses jambes allongees, la tete de trois-quarts et recouverte d'une mante.
+- c. En bas, une femme assise, vue presque de dos, le corps tourne vers la gauche, la tete en profil perdu et legerement inclinee.
+- a. Sanguine et pierre noire; b. Pierre noire et sanguine;c. Mine
+- de plomb, legerement relevee de sanguine. Papier blanc.
+
+Haut.,226 millim.;larg., 176 millim.
+
+- a.Grave en contre-partie par J.Audran dans les Figures de differents caracteres, n°2og(Goncourt, Catalogue,n586).
+- n2g4(Goncourt,Catalogue,n673).
+- b. Grave en contre-partie par J.Audran dans les Figures de differents caracteres,
+
+Cadre ancien,poque ouis xVI,bois sculpte et dore;au fronton,une lyre entre deux guirlandes de feuillage.
+## WATTEAU
+
+(ANTOINE)
+
+## Feuille d'etudes : le violoniste.
+
+Il est represente deux fois, l'une au-dessous de l'autre. Vu a verse en arriere, il a la tete presque de face et coiffee d'une toque.De la main gauche,il accorde son violon, qu'il a passe sous son bras droit et mi-corps, de trois-quarts, tourne vers la gauche et legerement rendont il faitvibrerlescordesde lamain droite tenant l'archet.
+
+Les deux etudes different en ce que, dans le dessin du bas,la position du violon,releve,ne permet pas de voir la main droite,alors que cette main est visible dans le dessin du haut, ou le violon est presque horizontal.
+
+Pierre noire et sanguine, sur papier grisatre.
+
+Haut., 3oo millim.; larg., 212 millim.
+
+Repr. dans M.Tourneux, la Collection J.Doucet, etc. (les Arts,op.cit.,p.4);
+
+et en fac-simile par la Societe de reproduction des dessins de maitres (2e annee,1gio).
+
+Cadre ancien, epoque Louis XVI, bois sculpte et dore.
+## WATTEAU
+
+(ANTOINE)
+
+65
+
+## Feuille d'etudes : deux hommes,
+
+## l'un couche, l'autre assis.
+
+a.En haut,un homme couche par terre, a plat ventre, tourne vers b.En bas,a droite,un villageois coiffe d'un chapeau de paille, assis de profil et tourne vers la gauche, les jambes allongees et croisees; il se penche en avant et regarde attentivement une herbe qu'il tient entre ses doigts.
+
+la gauche, les jambes allongees, le haut du corps un peu souleve et les bras croises; il est coiffe d'une toque et porte un petit manteau, qui a glisse de l'épaule gauche et lui tombe en travers du dos.Au-dessous de lui,une etude de bras, avec la main tenant une draperie, et une etude de rameaux de vigne.
+
+Les deux personnages : sanguine relevee de craie; l'etude de vigne: pierre noire et craie; l'étude de bras et de draperie: sanguine et pierre noire. Papier chamois.
+
+Haut,225 millim.;larg.,364 millim.
+
+a.Grave en contre-partie par Boucher, dans les Figures de differents caracteres, n153(Goncourt,Catalogue,n528).
+
+b.Grave en contre-partie par Boucher, dans les Figures de differents caracteres, n282(Goncourt,Catalogue,no 661).
+
+C'est une etude pour l'homme couche sur le devant et vers le milieu de la composition,dans le tableau de l'Ile enchantee,gravepar Le Bas.
+
+C'est une etude,non, comme la dit Goncourt, pour la Scene d'amour du musee du Prado, mais pour le jardinier assis a droite au premier plan dans la Fete de campagne, le tableau ovale du musee d'Angers (Cf. H. Jouin,Minist. de l'Instruction publique et des beaux-arts,Hist.et description des musees d'Angers,Paris,1885,p.48; L.Gonse,les Chefs-d'ceuvre des musees de France, la Peinture,Paris,goo,p.37, avec une fig.;—et L.de Fourcaud,Antoine Watteau,Figures et scenes galantes,dans la Revue de lart ancien et moderne,t.XVI,go4, gravure par H.Toussaint, p.348)
+
+Cadre ancien, époque Louis xV,bois sculpte et doré.
+## WATTEAU
+
+(ANTOINE)
+
+66
+
+## Feuille d'etudes : sept tetes.
+
+Sur la premiere ligne,la meme tete de femme, avec indication du buste, representee dans quatre poses differentes :la premiere, de troisquarts,relevee et inclinee a gauche; la seconde, de profil, tournee vers la droite, le buste vu de dos; la troisieme, presque de face et un peu inclinee a droite,les yeux baisses,le buste de profil a droite;la quatrieme, de face, inclinee en avant,les yeux baisses.
+
+Au-dessous:une tete de femme, tournee de trois quarts a droite et un peu relevee, le cou tendu;un masque dhomme, vu de face,les yeux baisses; et une tete d'homme, vue presque de face, penchee en avant, les yeux baisses.
+
+Trois crayons sur papier chamois.
+
+Haut.,227 millim.;larg.,285millim,
+
+Collection des Goncourt (vente a Paris,fevrier 1897,n 344);la marque de la
+
+Exposition des dessins de maitres anciens a 1'Ecole des beaux-arts, 1879, n 472.
+
+collection des Goncourt se voit en bas a droite.
+
+Repr. Goncourt, l'Art du XVIIIe siecle (ed. in-4,t. I,pl., P.42);et catal. de la vente Goncourt,1897,pl.,no344.
+
+Cf.Ph.de Chennevieres,les Dessins de maitres anciens exposes aIEcole des Beaux-Arts, dans la Gazette des Beaux-Arts,1879,t.Il,p.gi;-et E.de Goncourt,Catal.raisonne,etc.,p.346.
+
+Cadre ancien, epoque Louis xV,bois sculpte et dore.
+## WATTEAU
+
+(ANTOINE)
+
+67
+
+## Feuille d'etudes : un bras, une tete d'homme.
+
+A gauche, en haut,un buste esquisse, la taille serree par la large ceinture qui faisait habituellement partie du costume de Crispin;le bras gauche est ramene sur le devant du corps et la main gauche gantee, appuyee un peu au-dessus de la hanche et retournee sur la garde d'une epee. A droite, en bas, une tete d'homme coiffee d'un beret, tournee de trois-quarts a gauche et vue en raccourci.
+
+Pierre noire relevee de sanguine, sur papier creme.
+
+Haut., 179 millim.;larg.,255 millim.
+
+Repr.en fac-simile par la Societe de reproduction des dessins de maitres(3e annee, 1911),avec une notice par E.Dacier.
+
+La main est a rapprocher de celle du Crispin assis,n57 des Figures de differents caracteres(Goncourt, Catalogue,n°4io).
+
+Cadre ancien, epoque Louis XIV,bois sculpte et dore.
+## WATTEAU
+
+(ANTOINE)
+
+68
+
+## Figures de modes.
+
+(Deux dessins dans le meme cadre.)
+
+- a.Une femme vue de face,assise,le bras gauche appuye sur le socle d'un vase, le bras droit tombant sur le devant du corps; elle tient de la main gauche un éventail ferme dont elle se caresse le visage.
+- b.Un homme debout, le corps de profil a gauche,et la tete,coiffee d'un tricorne, tournee vers le fond de la composition; l'épee au cote et la main gauche posee sur la hanche,il s'appuie de la droite sur une canne. Au fond, des maisons et, a droite,un arbre.
+- A larriere-plan, a droite, derriere le vase,un arbre.
+
+Sanguine sur papier chamois.
+
+Haut., 11o millim., larg., 7i millim. pour chaque figure.
+
+Ces deux dessins appartiennent a la suite des Figures de modes, comprenant onze pieces et un frontispice, dont sept - celles-ci sont du nombre — gravees a l'eau-forte par Watteau et terminees au burin par Thomassin le fls (Goncourt, Catalogue, n 9， laFemmeassise,etn°3,1Homme debout).
+
+Cadre ancien, epoque Regence, bois sculpte et dore.
+## WATTEAU
+
+(ANTOINE)
+
+69
+
+## Esquisse de ( I' Amusement champetre ).
+
+A gauche, une femme et un homme assis par terre; au milieu, un couple debout, qui se retourne et regarde un homme et une femme assis par terre et qui s'embrassent ; a droite, au pied d'une statue debout sur un piedestal circulaire,un autre couple assis. Au second plan, allant de gauche a droite, une ligne d'arbres legers, au dela desquels on apercoit un groupe de personnages assis et debout.
+
+Sanguine, sur une esquisse plus legere a la mine de plomb; papier
+
+Haut., 194 millim.,; larg., 264millim.
+
+Collection du Marquis de Chennevieres (vente a Paris, mai 18g8,n° 193, sous le titre:le Repos dans le parc).
+
+Recherche de composition pour lAmusement champetre du musee de Dresde, grave par Champollion sous le titre de Partie champetre (K. Voermann, Catal. of the Royal Picture gallery of Dresden,1go5,n°782 et pl.xI1).
+
+Cadre ancien, époque Louis xV, bois sculpte et dore.
+
+creme.
+## PASTELS
+
+## CARRIERA
+
+(ROSALBA)
+
+Venise,1675+Venise,1757.
+
+70
+
+## Portrait de l'artiste par elle-meme.
+
+En buste, de trois-quarts a droite,l'artiste, deja agee,regarde le spectateur. Le visage, aux traits empates, est encadre d'un bonnet a ruche de dentelles, serre par des brides d'un rouge-orange,nouees sous le menton. Le cou s'enfonce dans un corsage échancre, de couleur noiratre, sous lequel s'apercoit une garniture de dentelles. Fond gris, frotte de bleu par endroits.
+
+Pastel.
+
+Repr. dans les Arts (1g04),no36,p.2.
+
+Probablement le pastel qui passa, sous le n°I, dans la vente de M. E. P... [Eugene Piot] (Paris, 31 mars 1856), composee d'ceuvres de la Rosalba, rassemblees par Felicita Sartori, bien que Charles Blanc ait indique comme etant le portrait de la vente Piot, celui qui figura plus tard dans la vente du comte Pourtales-Gorgier （Paris,1865,n° 33o),et dont la description ne sapplique pas au present pastel;mais J.Boilly, cite par A. Sensier (Journal de la Rosalba,Paris, 1865,Pp.477 et 540）, indique, comme provenance au portrait Pourtales,la vente Reville,probablement 1une des deux ventes Revil (Paris,1842 et 1845).
+
+Cf.M.Tourneux, Collection de M.Jacques Doucet :pastels et dessins, dans les Arts (igo4), n36,P.4.
+
+Cadre ancien,du commencement de lepoque Louis XVI,en bois sculpte et dore, a fronton, avec cartouche,et chutes de guirlandes feuries,
+
+Haut.,3o cent.; larg,24 cent.
+## CARRIERA
+
+(ROSALBA)
+
+## Tete d'etude.
+
+En buste, de trois-quarts a gauche,la tete levee, les yeux au ciel, la bouche entrouverte, un piquet de fleurs dans ses cheveux poudres, la jeune fille a la gorge nue, sortant d'une fine chemisette blanche, que recouvre, sur l'épaule gauche, une draperie vieux rose.
+
+Pastel.
+
+Haut.,45 cent.;larg.,35 cent.
+
+Repr.dans les Arts(1g04),no36,p.4.
+
+Selon M.Tourneux,ce pourrait bien etre la tres belle tete de femme,vue de troisquarts, les yeux eleves , qui a passe en 177o dans la vente La Live de Jully. Mais les dimensions de ce pastel,rappelees par A.Sensier Journal,etc.,op.cit.,p.534), soit du present numero pour permettre une identification absolue.
+
+Cf.M.Tourneux,Collection de M.J.Doucet,etc,les Arts,op cit.,P.4
+
+Cadre ancien, d'epoque Louis xV,en bois sculpte et dore,a coquilles, torsades et feurettes.
+## DUCREUX
+
+(JOSEPH)
+
+Nancy,1735Paris,1802.
+
+72
+
+## Portrait presume de la fille de Sophie Arnould.
+
+De trois-quarts tournee vers la gauche et regardant en face, la tete de la jeune femme se detache sur le fond gris du papier. Un ruban bleu est passe dans les cheveux.
+
+Pastel.
+
+Ovale.Haut.,3g cent.;larg.,3o cent.
+
+Collection de Mlle Gendron,arriere-petite-fille du peintre.
+
+Vente Ducreux （16-17 janvier 1865),n° g1, sous cette designation doublement inexacte:Sophie Arnould,par Latour.
+
+Ce pastel represente peut-etre la fille que Sophie Arnould avait eue de sa liaison avec le comte deLauraguais,Alexandrine-Sophie,nee le7mars 1767,dont, suivant M.P.Dorbec,Ducreux peignit encore le portrait en 1798 (cf.P.Dorbec,Joseph Ducreux,dans la Gazette des Beaux-Arts [1go6], t.II,p.215).
+
+Cadre ancien, d'epoque Louis XVI,en bois sculpte et dore, de forme ovale,a couronne de feurs,nceud de ruban et guirlandes de feuillages.
+## GREUZE
+
+(JEAN-BAPTISTE)
+
+Tournus,1725 Paris,1805.
+
+73
+
+## Tete d'etude pour u la Mere bien-aimee》.
+
+De trois-quarts et regardant vers la gauche, la tete de la jeune femme est renversee en arriere. La bouche entrouverte laisse apercevoir les dents. Sur les cheveux bruns est pose une coiffe blanche. L'échancrure du vetement decouvre le creux de la gorge.
+
+Pastel.
+
+Haut.,44 cent.,larg.,32 cent.
+
+Exp. de Cent Pastels (Paris, 1go8),n 2o, Etude pour uHeureuse Mere
+
+Miles,ctc.(Paris,go8.)
+
+Peint en 176,le tableau celebre de Greuze,la Mere bien-aimee,representant Joseph de Laborde, sa femme, sa mere et ses enfants, fait partie aujourd'hui de la collection du marquis de Laborde (cat. J. Martin,n 16g). Il na pas figure au Salon de 1769,quoique porte sous le no152 du livret. ll fut prete en 186o,par la famille de Laborde,a I'exposition du boulevard des Italiens (no 382). Grave par Massard, etc., il est reproduit en heliogravure dans le livre de M. C. Mauclair,J.B. Greuze (Paris, s.d.[1908],p.79].
+
+Lesquisse,exposee par Greuze en 1765,a inspire a Diderot un de ses passages les plus celebres, qui sapplique parfaitement au present pastel (Euvres, edit. Assezat
+
+[Paris,1876],t.X,p.352).
+
+Cf.Lady Dilke,French painters of the XV1lith century（London,18gg),pp.132et 137;—M.Tourneux,la Collection J.Doucet,etc.,les Arts,op.citp,24;Cent Pastels,etc.,op.cit.,p.; J.Martin et C.Masson,OEuvre de J.-B.Greuze（Paris,1go8),pp.14 et73,cat.n16g et 1181.
+
+Cadre ancien, d'époque Louis XVI, en bois sculpte et dore, orne de motifs : phenix, feuillage et accessoires,a la partie superieure;tete de cheval,urne épanchant son onde et feuillage,a la partie inferieure.
+## LA TOUR
+
+(MAURICE-QUENTIN DE)
+
+Saint-Quentin,1704SaintQuentin,1788.
+
+74
+
+## Le Chevalier de Jars.
+
+Debout et vu presque jusqu'aux genoux, le corps tourne legerement vers la droite,la tete de trois quarts et regardant a gauche, limportant personnage s'appuie du coude droit sur le dossier d'un siege canne. Portant la grande perruque a boucles tombant sur les épaules, il est vetu d'un habit de velours gris violace sur un gilet bleu. Cravate de linon, serree au cou; jabot et manchettes de dentelles. De la main droite, il puise du tabac dans une boite qu'il tient de la main gauche. Au fond, a gauche,une draperie d'un rouge fonce;a droite, une echappee d'un gris bleute.
+
+Pastel.
+
+Haut.,I m.16; larg.,85 cent.
+
+Salon de 1740 :α115. Un Portrait jusqu'aux genoux, de M. de *** qui prend du tabac 》.—Exp. de Cent Pastels (Paris,1go8),n°36,Portrait d'Etienne Perrinet, sieur de Jars.
+
+Repr.dans les Arts(1g04),n36,p.15.
+
+De ce portrait,dont lidentification est etablie par une note de Mariette, lexposition de Cent Pastels contenait deux repliques :lune, de plus petites dimensions (h.o,8o; 1.,o,7o;n 33, coll. de M. G. Dormeuil); 1autre, de plus grande taille au contraire (h.1 m.65;1. 1 m.35;n 62, coll. du marquis de Vogue); celle-ci repr. dans Cent Pastels et dans la Revue de l'Art,t.XxIV, p.17.
+
+Etienne Perrinet, sieur de Jars et de Boucart,ne en 167o,s'eleva d'une origine modeste aux plus hauts emplois. Directeur de la Compagnie des Indes pour la regie des fermes generales en 7ig, il acquit, cette meme annee, une charge de fermiergeneral qu'il conserva jusqu'a sa mort (9 juillet 1762).
+
+Cf.M.Tourneux,la Collection J.Doucet,etc.,les Arts,p.cit.,p.14；M.Tourneux,La Tour （Paris,1go4）,pp.3get40;—M.Tourneux,lExposition de Cent Pastels,Gazette des Beaux-Arts(1go8), t.Il, p.g;-L. de Fourcaud, le Pastel et les Pastellistes frangais au Xvllr siecle, etc., Revue de art ancien et moderne (1go8),t.XxIV, p.221;-P.-A.Lemoisne,Exposition de Cent Pasteis, etc., lesArts（1go8),n°82,p.20.
+
+Cadre ancien,d'epoque Regence,en bois sculpte et dore,a coquilles,torsades, rinceaux et feurs.
+## LA TOUR
+
+(MAURICE-QUENTIN DE)
+
+## 75 Duoal de l'Epinoy.
+
+A gauche, derriere la table, on apercoit un casier de livres.
+
+Assis sur un siege en damas rouge, devant une table chargee d'un livre ouvert et d'une mappemonde, le corps de profl a gauche et vu jusqu'a mi-jambes, Duval de l'Epinoy tourne vers le spectateur son visage, aux traits fins, en souriant malicieusement. Il porte la perruque poudree, dont les boucles tombent jusque sur les epaules. Le cou serré dans une cravate,il est vetu d'un habit de moire grise, d'un gilet bleu et d'une culotte grise, que viennent recouvrir les bas blancs. Le jabot et les manchettes sont de dentelles. Les jambes croisees,il tient de la main gauche, posee sur la cuisse, une boite a tabac dans laquelle puisent le pouce et l'index de I'autre main. Le fond, a droite, est d'un gris bleute.
+
+Pastel.
+
+Haut., 1 m.18; larg, 9o cent.
+
+Saisi, comme bien d’emigre,—et signale comme tel,le 1g novembre 1793,dans le proces-
+
+Vente du chateau de Beaumont-la-Ronce (Indre-et-Loire),1go3.
+
+verbal de la Commission desmonuments,-au domicile de Jean-Jacques Gallet de Mondragon, petit-fls de Duval de lEpinoy,il passait a tort,en ces dernieres annees,pour le portrait e M.de Mondragon.
+
+Exp.de Cent Pastels （Paris,go8）,n37,avec cette indication erronee:αA figure au Salon de 174o,sous le nom
+
+Grave par Julie-G. Romain (pour la Gazette des Beaux-Arts, no du rer avril 1go4).
+
+Salon de 1745: 167.M, amy de 1'auteur, aussi en grand.— deM.de**.
+
+Repr. dans les Arts (1go4）,no 36,p.5;M.Tourneux,La Tour,etc.,op.cit.,p.65;
+
+op.cit.
+
+la Revue de lArt (igo8), t.XXIV,p.117;-les Arts(1go8),n 82,p.2I;—Cent Pastels,etc.,
+
+L'identification de ce portrait est etablie par un passage de l'abbe Desfontaines,Jugement sur quelques ouvrages nouveaux, t. 1X (1745); par une note relevee par M. J. Guiffrey sur un exemplaire du livret du Salon de 1745, ayant appartenu a Antoine Duchesne, prevot des Batiments du Roi:M. Duval, le roy des portraits de La Tour ;et par une autre note, celle-ci de Mariette, sur un autre exemplaire du meme livret,avec cette appreciation:a C'est le triomphe de la peinture au pastel.
+
+presentportrait.
+
+De LouisDuval de lEpinoy,de Epinois ou de lEpinay,on connait peu de chose.Ecuyer, co nseiller secretaire du Roi, seigneur de la terre et du marquisat de Saint-Vrain, il maria,le 3 juin 1751, sa fille Marie-Marguerite a Francois-Pierre de Delay de la Garde,et le 26 juin 1753,sa seconde lle,Marie-Jeanne,pousait Jean-Jacques Gallet,ecuyer,seigneur de Mondragon,conseiller dEtat,t.,qui passait a tort, dans sa descendance,our lemodele d
+
+Cf.Mariette,Abecedario,t.lil(Paris,56),P.0;-Champeury,La Tour （Paris,1886）,p.3; —M.Tourneux,Etudes diconographie francaise,etc.,Gazette des Beaux-Arts（Igo4）, t.I,pp.279et suiv.-M.Tourneux,Laour,etc.,op.cit,Pp.44et45M.Tourneux,aCollectionJ.Doucet,, les Arts, oy.cit., p.4;M.Tourneux, Exposition de Cent Pastels, Gazette des Beaux-Arts(1go8), t. II,p.g;-L. de Fourcaud, le Pastel,etc.,Revue de Art (rgo8),t.XXIV,p.223;-P-A.Lemoisne, Exposition, ete.,les Arts(1go8),n 82,p.20;—Cent Pasteis,etc.,op.cit.,p.27.
+
+Cadre ancien,d’epoque Louis XV,en bois sculpte et dore,a coquilles,rinceaux ettorsades.
+## LA TOUR
+
+(MAURICE-QUENTIN DE)
+
+76
+
+## Le Marechal de Belle-Isle.
+
+En buste, de trois-quarts a gauche, le marechal, en perruque poudree, nouee d'un ruban noir, tourne les yeux vers le spectateur. Il porte, sur la cuirasse,un habit bleu a broderies d'or, que traverse en sautoir un large ruban bleu maintenant la plaque du Saint-Esprit. A un ruban rouge tombant des epaules et formant collier, est suspendu Iinsigne de la Toison d'or.Au cou, un ruban noir, couvrant la cravate, est noue sous le menton. Fond gris uni.
+
+Pastel.
+
+Provient de Thionville.
+
+1908),n°40.
+
+Haut.,6o cent.;larg,49 cent.
+
+Salon de 1748:#81. M. le Marechal de Belleisle.—Exp. de Cent Pastels (Paris,
+
+Grave (la tete seule d’apres La Tour) par Moitte, Mellini et Vangelisty.
+
+Repr. dans les Arts(1go4),n°36,p.7;—la Revue de lart (1go8),t.XXIV,p.119;
+
+les Arts (1go8),n82,p.23；—Cent Pastels,etc.,op.cit.
+
+Charles-Louis-Auguste Fouquet, comte de Belle-Isle, duc de Gisors, pair et marechal de France,était le petit-fils du surintendant Fouquet. Ne a yillefranche en 1684,mort en 1761,il sillustraala fois comme homme de guerre et comme diplomate. Membre de l'Academie francaise (1749),il termina sa carriere comme ministre de la guerre(1758).
+
+Cf.E.et J.de Goncourt,lArt du XVII1siccle（Paris,1883）,t.1.,Pp.228et287,-LadyDilke, French painters,etc.,op.cit.,p.164;-H.Lapauze,les Pasteis deM.-Q.de La Toura Saint-Quentin (Paris,18gg)p.1o3;-M.Tourneux,la Collection J.Doucet,etc.,les Arts,op.cit.,p.14;—M.Tourneux,La Tour,etc.,op. cit.,p.46;-M.Tourneux,Exposition de Cent Pastels,Gazette des BeauxArts (1go8),t.1I,p.9;-L.de Fourcaud, le Pastel, cic.,Revue de lart,t.XxIV(igo8), p.120; P-A.Lemoisne,Exposition,etc, les Arts (go8), n82,p.2;-Cent Pastels, eic.,op.cit.,p.30.
+
+Cadre ancien,d’époque Louis XV,en bois sculpte et dore,a coquilles,rinceaux t
+
+Heurettes.
+## LA TOUR
+
+(MAURICE-QUENTIN DE)
+
+77
+
+## La Marechale de Belle-Isle.
+
+En buste et de trois-quarts a droite,mais regardant en face, les cheveux poudres et ondules, elle est vetue d'une robe bleue, decolletee, garnie de fourrure blanche et de dentelles. Un ruban bleu est noue autour du cou. Derriere le personnage, a gauche, le haut du dossier du siege sur lequel il est assis. Fond uni d'un gris bleute.
+
+Pastel.
+
+Provient de Thionville.
+
+Repr.dans les Arts(1g04),n°36,p.8.
+
+Le Marechal duc de Belle-Isle épousa, le 21 mai 1711,Henriette-Francoise de Durfort-Civrac,et en secondes noces,le 15 octobre 1729,Marie-Casimire-ThereseGenevieve-Emmanuelle,fille de Louis-Marie,comte de Bethune,et d'Henriette d'Harcourt.Nee le 4 septembre 17og,la seconde Marechale de Belle-Isle,dont nous avons ici le portrait,mourut le3 mars 1755, trois ans avant son fls unique, Louis-
+
+Marie Fouquet, comte de Gisors.
+
+Lady Dilke,French painters,etc.,op.cit.,P.164;-H.Lapauze,les Pastels de M.-Q.de La Tour,etc.,op.cit.,p.o3;M.Tourneux,la CollectionJ.Doucet,etc.,les Arts,op.cit.,p.14
+
+Cadre ancien, d'epoque Louis xV,en bois sculpte et dore a coquilles,rinceaux et fleurettes.
+
+21
+
+Haut.,59 cent.;larg.,50 cent.
+## LA TOUR
+
+(MAURICE-QUENTIN DE)
+
+78
+
+## Mme Grimod de La Reyniere.
+
+Assise et vue a mi-corps, de trois-quarts a gauche, elle regarde en face d'un air satisfait. Les cheveux sont poudres et ondules. Un ruban d'un bleu fonce enserre le cou.Elle est vetue d'une robe de moire bleue decolletee. Le devant du corsage et les manches courtes sont garnis de dentelles. La main droite, jouant avec un eventail ouvert,est posee sur la gauche qui tient les cordons dores d'un reticule d'etoffe brodee.Fond gris-bleu.
+
+Pastel.
+
+Haut.,79 cent.;larg,63 cent.
+
+Collection du Dr P. Veron (vente a Paris, 1858);- coll. Henri Didier (vente a Paris, 1868,n°158);—coll.de Mme Denain (vente a Paris,18g3,no35).
+
+Repr. dans le cat. dela vente Denain (Paris,8g3）;Lady Dilke,French painters,etc., op.cit., p.162;-les Arts (rgo4),n 36,p.9;—la Revue de lart (1go8),t.Xx1V,p.19;
+
+Salon de 1751:《48. Plusieurs tetes au pastel sous le meme No.Le detail de ces portraits est donne par le Mercure de France,par lAbecedario de Mariette, et par l'abbe Le Blanc (Observations sur les ouvrages de Messieurs de l'Academie exposes au Salon du Louvre, 1751);-Exp.de tableaux de 1école francaise（Paris,186o),no26;—Exp.des Portraits nationaux(Paris,1878),n501;-Exp.des Pastellistes francais(Paris,1885),n° 28； Exp. de Cent Pastels(Paris,1go8),no 35.
+
+Cent Pastels,etc.,op.cit.
+
+lexposition des Portraits nationaux (no 56o),- sous la designation erronee d'AlexandreBalthazar-Laurent Grimod de La Reyniere (1758-1837), 1ecrivain gastronome,-ainsi qu²a la vente Denain (n34;repr.au cat.).
+
+Les difficultes auquelles donna lieu le reglement des portraits de M.et de Mme de La Reyniere,par suite des exigences de La Tour,ont ete racontees par Mariette dans un passage maintes fois reproduit de 1Abecedario (op.cit.,p.72 et suiv.).
+
+Il ne sagit ici,ni de la femme du gastronome,Adelaide-Therese Feuchere (1764-1837), comme lindique par erreur le catalogue de l'exposition des Portraits nationaux; ni, comme on la egalement imprime a tort, de Suzanne-Francoise de Jarente, qui epousa,le er fevrier 1758,le fermier general Laurent Grimod,sieur de La Reyniere;mais,de Marie-Madeleine Mazade,nee le 28 mai 1716,morte le 23 fevrier 1773,troisieme femme d'Antoine-Gaspard de La Reyniere(16go-1756),le premier fermier general dece nom,qu'elle epousa le4decembre1731.
+
+Cf.Goncourt,Art duXVlsiecle,etc.,op.cit.,t.I,p.24o；baron R.Portalis,Exposition des p.26;adyDilke,Fenh pinters,et.,op.cit.,Pp.t4H.Lapauze,lesPastls., op.cit.,Pp.1o2 et 1o3;-M.Tournux,La Tour,etc.,op.cit.,p.51;—M.Tourneux,la Collection J.Doucet,etc.,les Arts,op.cit.,p.6；M.Tourneux,Exposition,etc.,Gazette des Beaux-Arts (1go8),t.II,P.9;—L.de Foucaud,le Pastel,etc.,Revue de lArt (1go8),t.XxIV,p.224；-P.-A.
+
+Lemoisne,Exposition,etc.,lesArts(go8）,n2,p.22；Cent Pastels,etc.,op.cit.,p..
+
+Cadre ancien d’poque LouisXV,en bois sculpte et dore,a coquilles,rinceaux,torsades etfeurettes
+## LA TOUR
+
+(MAURICE-QUENTIN DE)
+
+79
+
+## Marguerite Le Comte.
+
+En buste, presque de face, la tete legerement a gauche, elle nous regarde en souriant. Sur les cheveux poudres est pose un petit bonnet de dentelles, dont les brides noires sont nouees sous le menton. Au cou, un noeud de ruban bleu. La robe decolletee est bleue, a larges manches, bordee de fourrures avec noeud de ruban au corsage. La main gauche, ramenee devant la poitrine, tient ouvert un cahier de musique.
+
+Pastel.
+
+Haut.,67 cent.;larg.,51 cent.
+
+Salon de 1753 :"74. Le Portrait de Madame le Comte tenant un papier de musique;—Exp. de Cent Pastels (Paris,1go8),n°41.
+
+Nee en 17ig, femme d'un procureur au Chatelet, Marguerite Le Comte etait l'amie de Watelet, l'artiste-ecrivain,qui l'avait installee dans une habitation de plaisance au bord de la Seine,dite le Moulin-Joli,et aupres de qui elle avait son appartement au Louvre.Leur liaison,qui dura plus de trente ans, etait admise par la meilleure compagnie,ou ils etaient recus,ainsi que lemari de la dame,qui, chose assez bizarre, ne la quittait jamais (Souvenirs de Mme Vigee-Le Brun [Paris, s. d.], t. I, p. 1o3). Marguerite Le Comte fit avec Watelet le voyage d'Italie,ou elle fut recue triomphalement a Rome par les pensionnaires de l'Academie de France, en 1764. De son cote, Hubert Robert lui dedia une suite de dix pieces gravees, connue sous le nom de Soirees de Rome (1763). Precedemment, Saint-Non lui avait dedie une suite de six vues de la propriete du Moulin-Joli, dapres Le Prince (1755).Aimant et cultivant les arts, elle a laisse quelques eaux-fortes. Sur son portrait, grave par Lempereur, d'apres Watelet, elle est dite:des Academies de peinture et des belles-lettres de Rome,de Bologne et de Florence. Plus simplement au bas d'une de ses estampes, elle a ecrit : la Maison de Marie Lecomte,meuniere du Moulin-Joli,et cest sous cette gracieuse denomination que la jeune femme, accueillante aux ecrivains et aux artistes, est le plus connue.
+
+Repr. dans les Arts (igo4),no 36, p. 1o;—la Revue de l'Art (rgo8), t. XxIV. p.113;——Cent Pastels,etc.,op.cit.
+
+Cf.Abbe Le Blanc,Observations sur les ouvrages deMM.de lAcademie depeinture et de sculpture (1753);-Goncourt,Art du XVI11·siecle,et.,op.cit.,t.I,p.231;-H.Lapauze,les Pastels,etc.,op. cit.,p.o3;M.Tourneux,la CollectionJ.Doucet,etc.,les Arts,op.cit.,p.14;—M.Tourneux,La Tour,etc.,op. cit.,p.52;-M.Tourneux, Exposition,etc.,Gazette des Beaux-Arts (1go8),t. 1I, P.9;-L. de Fourcaud,le Pastel,etc.,Revue de lArt (1go8),t.XXIV,p.224；-P.-A.Lemoisne, Exposition,etc.,les Arts (1go8),n82,p.24;Cent Pastels,etc.,op.cit.,p.31.
+
+Cadre ancien,dpoque Regence,en bois sculpte et dore,a coquilles et torsades,
+## LA TOUR
+
+(MAURICE-QUENTIN DE)
+
+80
+
+## Portrait d'un inconnu.
+
+En buste,le corps de trois-quarts a gauche, la tete légerement a droite et regardant en face, il porte la petite perruque poudree. Son habit gris bleu s'ouvre sur un gilet bleu a broderies d'or. Cravate serree au cou; chemise a jabot de dentelles.Fond gris, avec, a gauche, l'indication d'un tronc d'arbre.
+
+Pastel.
+
+Repr. dans les Arts(1g04),n36,p.12.
+
+Cf.H.Lapauze,les Pastels,etc.,op.cit.,p.o3;M.Tourneux,la Collection J.Doucet,etc., les Arts,op.cit.,P.14.
+
+Cadre ancien,d'epoque Louis XV,en bois sculpte et dore,de forme mouvementee, a coquilles et torsades,avec motif dornement formant fronton.
+
+Haut.,58 cent.;larg.,48 cent.
+## LA TOUR
+
+(MAURICE-QUENTIN DE)
+
+81
+
+## La Marquise de Rumilly. (Preparation.)
+
+Tete de trois-quarts a gauche, regardant en face. Cheveux releves et poudres. Fond gris.
+
+Pastel.
+
+Mme la Marq.de Rumilly par Latour.
+
+Haut.,32 cent.,;larg.,24 cent.
+
+Au dos,sur le carton de lencadrement, cette inscription, d’une ecriture ancienne:
+
+Vraisemblablement u la Marquise de Rumigny (sic),esquisse ,de la collection de 1'architcte Claret (vente a Paris, decembrs 185o,n°157）.
+
+Exp. de Cent Pastels (Paris,1go8),no 3g.
+
+Repr. dans A.Dayot, lImage de la femme (Paris, 1899), Pp.177 et 213;les Arts (1g04),n36,p. 11;——Cent Pastels,etc.,op.cit.
+
+La personnalite de la marquise de Rumilly demeure incertaine. ll s'agit peut-etre deFrancoise-Louise-Claude dAuville,qui epousa,a Paris,le1ojanvier1757,EtienneCharles-Julien-Gauthier de Rumilly,sieur de la Motte et Molinous,qui fut officier des gardes du Comte d'Artois, puis conseiller-sccretaire du Roi a la grande chancellerie.
+
+Cf.H.Lapauze,les Pastels,etc.,op.cit.,p.o3;A.Dayot, Image de la femme,etc.,op.cit., p.2o1;-M.Tourneux,la Collection J.Doucet, etc,les Arts,op. cit.,p.16;-M.Tourneux, Exposition, etc., Gaette des Beaux-Arts (1go8),t.Il, p.9;-P.-A.Lemoisne, Exposition, etc., les Arts(1go8),n82,p.26;-Cent Pastels,etc.,op.cit.,p.29.
+
+Cadre ancien, d’époque Louis xV,en bois sculpte et dore.
+## LA TOUR
+
+(MAURICE-QUENTIN DE)
+
+82
+
+## Portrait de jeune fille brune.
+
+(Preparation.)
+
+Tete,vue de face, les yeux largement ouverts,regardant fixement le spectateur; les cheveux brun fonce, decouvrant le front. Fond gris, frotte de bleu.
+
+Pastel.
+
+Haut.,37 cent.;larg,26 cent.
+
+Exp. de Cent Pastels (Paris, 1go8),n 38,Masque de jeune femme a cheveux noirs.
+
+Repr. dans A.Dayot, lImage de la femme,etc.,op.cit., titre et p.2o8;—les Arts
+
+(1g04),no36,p.13;-Cent Pastels,etc.,op.cit.
+
+D'apres M.Roger-Miles,ce serait tres probablement le portrait d'une demoiselle La Chanterie,nee en 173o,et qui eut a loccasion recours aux bons offices de La Tour pour desarmer la justice. Choriste a l'Opera et fort jolie,elle eut des relations avec plusieurs hauts personnages de la cour de Louis XV. S'appelant en realite Marie-Louise Chaumont, elle prit le nom de son pere,vaguement ecrivain, qui signait Guenon de la Chanterie.
+
+Cf.H.Lapauze,les Pastels,etc.,op.cit.,p.o3;M.Tourneux,la Collction J.Doucet,et., les Arts,op.cit.,p.16;-M.Tourneux,lExposition,etc.,Gazette des Beaux-Arts (1go8),t.Il, P.9；P-A.Lemoisne,Exposition,etc,les Arts(Igo8),n82,p.26;Cent Pastels,etc.,op.cit., P.28.
+
+Cadre ancien, d’époque Louis XV,en bois sculpte et dore, a fronton ornemente
+## LA TOUR
+
+(MAURICE-QUENTINDE)
+
+83
+
+## Portrait de jeune femme.
+
+(Preparation.)
+
+Tete de trois-quarts et regardant a droite. Expression souriante. Cheveux releves et ondules, a peine indiques. Fond gris du papier, frotte d’un peu de bleu a droite.
+
+Pastel.
+
+Haut.,32 cent.;larg.,24 cent.
+
+Cadre ancien,d'poque Louis xV,en bois sculpte et dore,plat et uni,avec fronton a coquille,rinceaux et fleurettes.
+## LA TOUR
+
+(MAURICE-QUENTIN DE)
+
+## Portrait presume de d'Alembert.
+
+(Preparation.)
+
+Tete de trois-quarts et regardant a droite. Petite perruque. Cravate serree au cou.
+
+Pastel, papier gris.
+
+Repr.dans les Arts (1go4),no36,p.6.
+
+Le portrait de d'Alembert, par La Tour, expose au Salon de 1753; grave par N.-F. Maviez, Massard, par Dagoty pere (en coul.),par Hopwood,etc.;publie par A. Gaste (18g6),a ete recemment donne au musee du Louvre par la famille de M.Danjon, professeur a la Faculte de droit de Caen. La αpreparation  s'en trouve au musee de Saint-Quentin.(Cf.M.Tourneux,le Portrait de d'Alembert,etc.,Revue de lArt [1911], t. XxIx,p.5 et suiv., avec les reproductions du portrait et de la  preparationn.)
+
+Jean Le Rond d'Alembert,ne a Paris le 16 novembre 17i7,mort le 2g octobre 1783,s'illustra a la fois comme litterateur,philosophe et mathematicien.Membre de 1Academie des sciences(1741)et de 1'Academie francaise (1754),il devint secretaire perpetuel de cette derniere compagnie (1772). Avec son ami Diderot,il dirigea la publication de 1Encyclopedie(1751-i772), dont il écrivit le Discours preliminaire.
+
+Cf.M.Tourneux,la CollectionJ.Doucet,etc.,les Arts,op.cit.,p.6.
+
+Cadre ancien, d’epoque Louis XV,bois sculpte et dore,a fronton ornemente.
+
+Haut.,28 cent.;larg.,23 cent.
+## PERRONNEAU
+
+(JEAN-BAPTISTE)
+
+Paris,1715Amsterdam,1783.
+
+85
+
+## Portrait d’enfant.
+
+Vu a mi-corps, tres legerement a gauche, les yeux bleus regardant en face, il est vetu d'une robe a taille, decolletee et a manches courtes, de brocart blanc a broderies jaunes,bleues,roses et rouges,bordee de dentelles au corsage et aux manches. Dans la main gauche, il tient un bleu, ombre a droite dans la partie inferieure.
+
+Signe en haut, a gauche :Perronneau pinx., 1744.
+
+Pastel.
+
+Haut., 51 cent.; larg,41 cent.
+
+Exp. de Cent Pastels (Paris 1go8), n 82 (indique par erreur comme date de 1741).
+
+Repr.dans les Arts (1go4),no36,p.25;—la Revue de lArt (1go8),t.XXIV, p.224;Cent Pastels, etc.,op.cit.;L.Vaillat et P.Ratouis de Limay,J-B.Perronneau (Paris,1gog),pl.35;— Ch. Moreau-Vauthier,les Portraits de lEnfant (Paris, s.d.)，P.241.
+
+Cenepeut etre,comme onl'a pense un moment,leportrait duJeune Ecolier,frere de l'auteur,tenant un livre, expose par Perronneau en 1746（n 15o),puisque le livret annote de ce Salon, signale par M. J.J. Guiffrey, indique cet ouvrage comme un tableau α en huile 》.
+
+Cf.M.Tourneux,la Collection J.Doucet,etc.,les Arts,op.cit.,p.16;M.Tourneux,Exosition,etc.,Gaxette des Beaux-Arts (1go8),t.Il,p.9；-L.de Fourcaud,le Pastel,etc.,Revue de PArt (1go8),t.Xx1V,pp.22g et 292;-Cent Pastels,etc.,op.cit.,p.68;-Bulletin de 1a Societe de lArt francais (1gog),p.5g;—L.Vaillat et P.Ratouis de Limay,Perronneau,etc.,op.cit.,Pp.7,8,9,85 ct 142, cat.n3;-Ch.Moreau-Vauthier, les Portraits de iEnfant,etc.,op.cit., p.240.
+
+Cadre ancien, d'époque Louis xVI,en bois sculpte et dore, avec noeud de ruban, formant fronton, guirlandes et chutes de feurs et de rubans.
+## PERRONNEAU
+
+(JEAN-BAPTISTE)
+
+86
+
+## Le Comte de Bastard.
+
+En buste, la tete levee, de trois quarts et regardant a gauche,il porte la haute perruque dite  de procureur , a larges boucles tombant sur les epaules. Il est vetu d'un habit de velours gris noiratre, sur un gilet gris fonce, qui s'ouvre sur un jabot de dentelles. Le cou est serre dans une cravate de linon blanc. Sous le bras gauche, on apercoit une pointe du tricorne noir.
+
+Signe, au-dessus de l'epaule gauche : Perronneau pinx. nobre 1747. Pastel.
+
+Haut.,67 cent.;larg.,56 cent.
+
+Collection John W.Wilson (vente a Paris,1881,n20).
+
+Exp. des Alsaciens-Lorrains (Paris,1874）,n964;—Exp. des Pastellistes francais
+
+(Paris,1885),n72;-Exp. de Cent Pastels (Paris, 1g08),n°79.
+
+Grave par Achille I. Gilbert (la gravure dans la Collection de M. John W. Wilson, exposee,etc.[Paris,1873],p.53;et dans le Catalogue des tableaux, etc.,composant ia galerie de M.John W.Wilson [Paris,1881], p.22).
+
+Repr. dans les Arts (igo4),no 36,p.17;—la Gazette des Beaux-Arts (1go8), t. II, p.1I;—la Revue de lart (1go8),t.XXIV,p.227；—Cent Pastels,etc.,op.cit.; —L.Vaillat et P.Ratouis de Limay,J.-B.Perronneau,etc.,op.cit.,pl. 73.
+
+Selon MM. L.Vaillat et P.Ratouis de Limay,ce serait probablement Dominique de Bastard,jurisconsulte francais,ne a Toulouse en 1683, mort en 1777.Doyen du Parlement de Toulouse,il devint membre du conseil du roi (1774）.
+
+Cf.J.Sermure,Expositiondes Pastellistes francais, dans lArt(1885),t.I,p.16o;—M.Tourneux, J.-B.Perronneau (Paris,s. d.;tir.a part de la Gazette des Beaux-Arts,18g6), p.15;-M.Tourneux, la CollectionJ.Doucet,etc.,les Arts,op.cit.,p.16；—M.Tourneux,Exposition,etc.,Gazette des Beaux-Arts (Igo8),t.II,p.I1;-L.de Fourcaud,le Pastel,etc.,Revue dePart (1go8),t.XxIV, pp.23o,283,284et292;-Cent Pastels,etc.,op.cit.,p.65:L.Vaillat et P.Ratouis deLimay,Perronneau,etc.,op.cit.,Pp.12,87et142,cat.n14.
+
+Cadre ancien, d'epoque Regence,en bois sculpte et dore,a coquilles,rinceaux et feurettes.
+## PERRONNEAU
+
+(JEAN-BAPTISTE)
+
+87
+
+## Portrait d'une jeune femme tenant un bouquet.
+
+Assise et vue a mi-corps, un peu penchee vers la gauche, elle tourne vers la droite sa tete coiffee de cheveux bruns, legerement poudres, et regarde en face. Le cou est orne d'un rang de perles. La robe decolletee, d'un gris-bleu, et les manches courtes sont bordees de fine batiste blanche plissee. Le corsage et les rubans sont bleus. De la main gauche, quelle ramene vers la poitrine,la jeune femme tient un petit bouquet de  barbeaux  ou bleuets. La main droite est posee a plat sur une table. Un bracelet de trois rangs de perles serre le poignet gauche. Fond gris clair, avec, a gauche, une draperie rouge.
+
+Signe a gauche, au-dessus du bras droit : Perroneau, 1749. Pastel.
+
+Haut.,6o cent.; larg., 47 cent.
+
+Salon de 175o:α134. Madame **, ayant un bouquet de barbeau ;—Exp. de
+
+Cent Pastels(Paris,1go8),no81.
+
+Repr.dans les Maitres du dessin(1go1),3eannee;-les Arts(1go4),n°36,p.23; —la Revue de lArt(1go8),t.XXIV,p.231;—Cent Pastels,etc.,op.cit.;—L.Vaillat et P.Ratouis de Limay,Perronneau,etc.,op. cit.,pl.79.
+
+Cf.M.Touneux,Perronneau,et.,op.cit.,.7;M.Touneux,la CollectionJ.Doucet,, tion,etc.,les Arts(1go8),n°82,p.3o；-Cent Pastels,etc.,op.cit.,p.67；—L.Vaillat et P.Ratouis de
+
+les Arts,op.cit.,p.18;—M.Tourneux,1Exposition, etc.,Gaxette des Beaux-Arts(1go8),t.Il,p.12; -L.de Fourcaud,le Pastel,etc.,Revue de lArt (1go8),t.XxiV,p.28o;-P.-A.Lemoisne,ExposiLimay,Perronneau,etc.,op.cit.Pp.16,91,120 et 142,cat.n38.
+
+Cadre ancien, d'époque Louis XV,en bois sculpte et dore, de forme mouvementee, a coquilles, torsades et guirlandes de feurs.
+## PERRONNEAU
+
+(JEAN-BAPTISTE)
+
+88
+
+## Jacques-Charles Dutillieu.
+
+En buste, il est apercu dans un ovale formant lucarne. Portant la petite perruque poudree, nouee par un ruban noir,il est vetu d'un habit de velours rouge-orange, sur un gilet de meme couleur. A la cravate de linon blanc, serrant le cou, s'attache un jabot de dentelles. Sous le bras gauche on apercoit la pointe du tricorne. Fond gris bleu.
+
+Signe, pres de I'épaule gauche : Perronneau. Pastel.
+
+Haut.,72 cent.; larg.,6o cent.
+
+Par le Livre de raison de J.-C. Dutillieu, nous savons que ce portrait a ete execute a Lyon en1759.
+
+Ancienne collection Willemoy.
+
+Exp. de Cent Pastels (Paris, 1go8),no 8o,Portrait de M.Dutilleul.
+
+Repr. dans le Livre de raison de Jacques-Charles Dutillieu,publie et annote par M.F.Breghot du Lut (Lyon,1886);—M.Tourneux, Perronneau,etc.,op.cit.,p.32;—les Arts (1go4）,no 36, p.2;-Cent Pastels,etc,op.cit;L.Vaillat et P.Ratouis de Limay, Perronneau,etc.,op.cit.,pl.69.
+
+Le portrait de Benoite Jacquin,femme de JC.Dutillieu, qui fait pendant a celui-ci cat. Vaillat,n76),appartient a la collection deM.Leon Michel-Levy.lla figure a lexposition de
+
+Cent Pastels (no 88) et est reproduit dans le livre de M.M.Tourneux sur Perronneau (p. 32), dans Cent Pastels, et dans le Perronneau de MM.Vaillat et P. Ratouis de Limay (pl. 6o).
+
+Jacques-Charles Dutillieu,ne a Paris en 1718,mort a Lyon en 1782, avait debute par etre peintre de feurs. Ses envois a l'exposition de la place Dauphine lui avaient valu les encouragements d'Oudry. ll travailla meme pour la Cour et pour la duchesse de Mazarin. Mais a la suite de la guerre de la Succession d'Autriche,ne trouvant plus a exercer son talent, il partit pour Lyon ou il s'etablit fabricant de soieries.
+
+Cf.M.Tourneux,Perronneau,etc.,p.cit.,p.3et32;-adyDilke,French painters,etc.,op.cit., pp.164 (indique par erreur comme de La Tour) et 16g;——M.Tourneux, la Collection J.Doucet,etc., les Arts,op.cit.,p.18;—M.Tourneux,Exposition, etc.,Gazete desBeaux-Arts (Igo8),t.ll,p.2; —L.deFourcaud,le Pastel,etc.,Revue de 1Art(1go8),t.xxIV,Pp.284,287et 292;-Cent Pastels,etc.,op.cit.,p.66；.Vaillat et P.Ratouis deLimay,Perronneau,etc.,op.cit.,pp.33,97 et 142,cat.n°75.
+
+Cadre ancien d'epoque Louis xV,en bois sculpte et dore,a baguettes,avec coquilles et ornements dans les coins,
+## PERRONNEAU
+
+(JEAN-BAPTISTE)
+
+89
+
+## Abraham van Robais.
+
+En buste et vu de face, la longue perruque poudree tombant sur les épaules,il est vetu d'un habit de velours rouge. A la cravate de linon blanc est attache un jabot de dentelles. Sous le bras gauche, on apercoit la pointe du tricorne. Fond gris jaunatre.
+
+Signe,en haut, a droite : Perronneau.
+
+Pastel.
+
+Haut.,73 cent.;larg.,5g cent.
+
+Provient des environs de Montauban, de la famille Camp,alliee a Samuel van
+
+Robais, petit-fls d'Abraham van Robais.
+
+Vraisemblablement le n 62 du Salon de 1773:αM.V. R..., dont les dimensions,
+
+27 pouces sur 22, concordent parfaitement avec celles du present portrait.
+
+Exp. de Cent Pastels (Paris, go8),n78,Portrait de M.Van Robai.
+
+Repr.dans Lady Dilke,French painters,etc.,op. cit.,p.168 (sous la designation erronee de M.le Mas du Puyssac);—les Arts (1go4),n° 36,p.1g (meme designation);—la Revue de lArt(1go8),t.XxIV,p.289;——Cent Pastels,etc.,op.cit.; L.Vaillat et P.Ratouis de Limay,Perronneau, etc., op. cit., pl.32.
+
+Dans une lettre adresse d'Abbeville, le 2 janvier 177o, a l'amateur orleanais Desfriches, Perronneau ecrit :a J'ai profite de lautomne pour venir chez Monsieur Theophile Vanrobesse a Abbeville, faire le portrait de leur perre.... Sur la demande du modele,l'artiste en executa deux repliques,a peu pres dans les memes dimensions
+
+(cat.Vaillat,nos 115 et 116; coll. de Mme X.[Groult] et Henry Michel-Lévy）.
+
+Abraham van Robais,ne le 25 mai 16g8,mort le 31 mai 1779,cinquieme fls d'Isaac van Robais,etait fabricant de draps a Abbeville.
+
+Cf.M.ournux,Prronneau,ct.,p.cit.,p.6;adyDilke,Fench ainters,etc,op.cit., p.173;-M.Tourneux,la Collection J.Doucet, etc.,les Arts,op. cit., p.18;-M.Tourneux, Exposition, etc., Gaxette des Beaux-Arts(igo8), t.ll,p.12;-L. de Fourcaud, le Pastel,etc., Revue delArt(1go8),t.xx1V,Pp.284,288,28g et 292;—Cent Pastels,etc.,op.cit.,p.64;Bulletin de la Societe de Art francais (igog), p.58;-L.Vaillat et P.Ratouis de Limay,Perronneau,etc.,op.cit.,Pp.45,102et142,cat.n°114
+
+Cadre ancien,d'epoque Regence,en bois sculpte et dore,a coquilles et ornements dans les coins.
+## PERRONNEAU
+
+(JEAN-BAPTISTE)
+
+90
+
+## Portrait de femme.
+
+En buste,la tete de trois-quarts a gauche, elle regarde en face avec une expression souriante. Sur les cheveux bruns, legerement poudres, ou sont piquees quelques fleurettes, est pose un fichu bleu dont une pointe retombe sur l'epaule droite. Au cote droit du corsage decollete, de gaze transparente, s'attache une draperie bleue dont on voit fotter l'extremite derriere l'epaule gauche.
+
+Pastel.
+
+Haut.,61 cent.;larg.,49 cent.
+
+Cadre ancien,d’epoque Louis xV,en bois sculpte et dore,avec fronton ornemente.
+## ECOLE FRANCAISE
+
+XVIIIe SIECLE
+
+91
+
+## Portrait de femme.
+
+En buste, de trois-quarts a gauche, presque de face, les yeux fixes sur le spectateur, une rose piquee dans ses cheveux bruns, elle est vetue d'une robe decolletee a fond jaune, avec manches garnies de rubans bleus. Une echarpe, passant derriere le dos, retombe sur les bras.
+
+Pastel.
+
+Haut.,73 cent.;larg.,63 cent.
+
+Cadre ancien,dpoqueouisXV,nbois sculpte et dore,a baguettes,aveccoquilles d'angles et un ornement formant fronton.

@@ -1,0 +1,891 @@
+## DIENSTAG,DEN26.MARZ1929,AB10UHR
+
+## MOBEL.KUNSTGEWERBE,TEPPICHE,AUBUSSONS
+
+## (Nr.1—348)
+
+- 1 MARMORFIGUR: Der Schellenschlager.
+- 3 AGYPTISCHER WANDBEHANG, zWeiteilig.
+- 2 MESSINGSCHALE,viereckig.
+- 4 TURKISCHE TISCHDECKE, goldgestickt.
+- 5 KONVOLUT: Goldrahmen, gerahmter Buntdruck: Damenbildnis, oval.
+- 6 PORZELLANGRUPPE Capo di Monte:Tanzerpaar.
+- 7 WIENER PORZELLANGRUPPE:LIEBESPAAR.
+- 8 EINE DESGL.:Dame und Herr am Nahtisch.
+- 9 BRONZEFIGUR: Bajadere. Sign.Marcuse. Auf Marmorsockel.
+- 10 EINE DESGL.: Tanzerin. Sign. Reschke. Auf Marmorsockel.
+- 11 EINE DESGL.: Bacchantin. Sign. Selbach.
+- 12 SECHS PFEIFENSTOPFER, versilbert. （Einer beschad.)
+- 13 LIKORSERVICE, Glas,15 teilig, drei Flaschen,11 Glaser,Holztablett
+- 14-15 EIN PAAR MEISSENER PORZELLAN-KANDELABER, je dreiarmig,
+- vierkerzig.
+- 16-17 EIN PAAR PORZELLANVASEN mit chinesischem Dekor.
+- 18 GR. TERRAKOTTAVASE, viergriffig.
+- 19 KINDER-SCHREIBTISCHPULT,NuBholz.
+- 20 24 FLASCHENUNTERSATZE im Rokokostil, plated,mit Holzboden.
+- 21-23 DREI WEINKUHLER im Rokokostil, plated.
+- 24 MENAGE, plated, mit vier Glaseinsatzen.
+- 25 TABLETT plated im Rokokostil, zweigriffig, mit drei Einsatzen.
+- 2627 EIN PAAR PLATED-TAFELAUFSATZE mit Glaseinsatzen und je vier
+- Lichthaltern. (Ein Stopsel fehIt)
+- 28 SILB. ZUCKERLOFFEL.
+- 29 SILB. FIGUR: Badende. Sign.Dennewitz.
+- 30 HOLZPENDULE, als Bekronung eine Mohrenfigur.
+- 31-34 VIER MESSINGLEUCHTER, je einkerzig. 18. Jahrh.
+- 35 KOHLENBECKEN, Messing, ovale Form, mit zwei Griffen.
+- 36 MESSING-BLUMENKUBEL, rund, zweigriffig. Auf der Wandung ein
+- Wappenschild.
+- 37-38 EIN PAAR BRONZE-CHANUKKALEUCHTER, als Bekronung eine Taube.(Beschad.)
+- 39 PUDERDOSE, rund, plated, im Deckel Miniatur.
+- 40 SILB. ZIGARETTENDOSE, auf dem Deckel Blumenrelief.
+- 41-42 EIN PAAR SILB.FLAKONS.
+- 43-44 EIN PAAR PLATED-VASEN, je zweigriffig.
+- 45 CHINA-BRONZEKORO auf Blackwoodsockel.
+- 46 KONVOLUT: Bronzedose, oval, auf dem Deckel Miniatur, runde Goldlackdose.
+
+<!-- image -->
+- 47 SCHILDPATT-ZIGARETTENDOSE und JAPANISCHE BRONZE-ZIGA-
+- RETTENDOSE.
+- 48-49 EIN PAAR BAROCK-HOLZVASEN, vergoldet.
+- 51 KAFFEESERVICE, Metall, mit Porzellaneinlage, dreiteilig:Kaffeekanne, Teekanne, Milchkanne.
+- 50 TEESERVICE, versilbert, finfteilig: Teekanne, Kaffeekanne, Zuckerdose, Milchkanne, Zuckerzange.
+- 52 LOUIS-XVI.PFEILERSPIEGEL, weiss-gold.
+- 53 PFEILERSPIEGEL.
+- 54 OVALER MESSING-BLUMENKUBEL,reich getrieben.
+- 55 ZWEI SCHALS, grune Seide.
+- 56 ZWEI DESGL., brauner Samt.
+- 57 ANTIKE BRONZEFIGUR: Bacchant.
+- 58 EISENFIGUR: Landmadchen zu Pferde.
+- 59 EMPIRE-BRONZEFIGUR: Venus sich zum Bade ristend.
+- 60 DECKELSEIDEL, Rubinglas.
+- 62-63 EIN PAAR SILB. LEUCHTER im Empirestil, je einkerzig.
+- 61WARMEPLATTE, plated,zweigriffig,mit zwei Spirituseinsatzen
+- 64SILB.TATELAUFSATZ.
+- 65 SILB. SALZSTREUER in Chippendalestil.
+- 67 EMPIRE-GLASVASE, heliotropfarben, in Silbermontierung.
+- 66 HOHE GALLEVASE mit Blumendekor auf bernsteinfarbenem Grund.
+- 68 VITRINENSCHRANK, schwarz, poliert, einturig.
+- 7173 MEISSENER KAMINGARNITUR, dreiteilig:Pendule, zwei Leuchter, je
+- 69-7O EIN PAAR MEISSENER KANDELABER, je funfkerzig, auf Porzellanuntersatzen.
+- einkerzig.
+- 75 KELIM, doppelt breit.
+- 74 SEIDEN-GEBETTEPPICH mit rotem Gebetsfeld. 170x115 cm.
+- 7679 VIER BAROCK-HOLZFIGUREN: Apostel. Polychrom bemalt. Suddeutsch um 1700.
+- 81 SATZ von funf Beisatztischen, Eiche.
+- 80 TISCH im Barockstil, weiss, mit achteckiger Platte.
+- 82 BAUERNSTUHL, reich geschnitzt.
+- 84 LOUIS-XV.SESSEL,rot gelackt, mit gelbem Seidenbezug.
+- 83 LEHNSTUHL, Eiche, mit grunem Cordbezug.
+- 85 BAROCK-WANDSCHRANKCHEN, einturig verglast. Eiche. Holland 18.Jahrh.
+- 87-88 EIN PAAR FAUTEUILS im Rokokostil, Buche, mit grinem Samtbezug.
+- 86 BAROCKSTUHL, Buche, mit grinem Samtbezug
+- 89 BERGERE im Rokokostil, Buche, mit grunem Samtbezug.
+- 91 THEETISCH, rund, schwarz, mit Marmorplatte.
+- 90 ROKOKOTISCH, Eiche, einschubig.
+- 92 BAROCK-LEHNSESSEL, Buche, mit grinseidenem Ripsbezug. Das Gestell.
+- 93 ALTSCHWEDISCHE BANK mit Daunenkissen und Rolle.
+- Holland um 1700.
+- 94—95 EIN PAAR WANDAPPLIKEN, Bronze, je zweiflammig.
+- 96-97 ZWEI STUHLE, Mahagoni, mit grunem Cordbezug.
+- 98 BAROCKKOMMODE, dreischibig, NuBholz. Die Vorderwand zweimal
+- geschweift. Norddeutsch um 1700.
+- 99 KLUBSESSEL mit grinem Cordbezug.
+- 100 EMPIREKOMMODE, zweischubig, NuBholz, mit Bandintarsien.
+- 101 LEHNSTUHL im Stil des flamischen Barock. Gedrehte Beine, Armstutzen mit gemustertem Wollbezug.
+- 102 LEHNSESSEL im Renaissancestil, NuBholz, mit rotem geschorenem Samt-
+- bezug. Auf den Armstutzen liegende Puttenfiguren.
+- 103 THEETISCH, Mahagoni, zweietagig mit Holzgalerie.
+- 104—105 EIN PAARLOUISXV.KOMMODEN,NuBholz,mit figurlichen Intarsien.
+- Je einzugig, zweiturig. Oberitalien 18. Jahrh.
+- 106 EMPIREKOMMODE,zweischubig,NuBholz,mit Bandintarsien.
+- 107 BAROCK-KLEIDERSCHRANK,zweiturig,Obstholz,mit Sterneinlagen. Nord deutsch 18. Jahrh. 193x105 cm.
+- 108-109 EIN PAAR EMPIRE-LEHNSESSEL, Mahagoni poliert. In der Rucklehne eine holzgeschnitzte und vergoldete Lyra. Mit braunem Wollripsbezug. Norddeutsch um 1800.
+- 110—111 EIN PAAR BAROCKSTUHLE, Buche,mit grinem Cordbezug. Holland um 1700.
+- 112 RENAISSANCE -LEHNSESSEL, ital. NuBholz, mit gepunztem Lederbezug.
+- Das Gestell Italien 17. Jahrh.
+- 113 LOUIS-XVI.-KARTELLUHR, holz geschnitzt und vergoldet, das Zifferblatt
+- sign. Stockholm 18. Jahrh.
+- 114—115 EIN PAAR EMPIRELEUCHTER, Eisen, mit Kristallschaft und Bronze-
+- tuillen. Deutsch um 1800.
+- 116 ETAGERE im Louis-XVI-Stil, Mahagoni, mit Marmorplatte und Messinggalerie. Ruckseite verspiegelt.
+- 117 EMPIRE-BLUMENSTANDER. Mahagoni, quer geriefelt, mit Messingeinsatz. Norddeutsch um 1800.
+- 118 EMPIRE-SCHREIBSEKRETAR,Mahagoni mit Intarsien, dreischibig, mit auf
+- klappbarer Schreibplatte.
+- 119 LOUIS-XVI.PENDULE, holzgeschnitzt und vergoldet. Rundes Gehause auf rechteckiger Plinthe, das von einer Louis-XVI.Vase bekront ist. Norddeutsch Ende 18. Jahrh.
+- 120 BANK im Louis-XVI.Stil, weiss goldenes Gestell, mit geblumtem Brokatbezug.
+- 121 LOUIS-XVI.NACNTSCHRANKCHEN, zweitirig, NuBholz. Auf den Ful
+- lungen Blumenintarsien. Deutsch Ende 18. Jahrh.
+- 122 BIEDERMEIER-SCHREIBTISCH, NuBholz, mit achteckiger Platte. Mit aus-
+- ziehbarer Schreibplatte.
+- 123 LOUIS-XV.TABURETT, vergoldet, mit kreuzweiser Stegverbindung und Gobelinbezug.
+- 124 BIEDERMEIERNAHTISCH, oval, Mahagoni,mit Intarsien.
+- 125-126 EIN PAAR LOUIS-XVI.-WANDSPIEGEL,holzgeschnitzt und vergoldet,
+- rechteckige Form. Deutsch 18. Jahrh. (Beschad.)
+- 127 BAROCK-HOLZFIGUR: Der heilige Georg. Lindenholz. Suddeutsch um 1700.60 cm hoch.
+- 128-129 EIN PAAR LEUCHTERENGEL, holzgeschnitzt und vergoldet. Auf
+- weisser Konsole. Suiddeutsch um 1700.
+- 130 HOLZBUSTE: Der heilige Michael. Auf Holzkonsole der Zeit. Siddeutsch
+- um 1700.
+- 131 KRONLEUCHTER im Stil des hollandischen Barock, Messing, zwolfarmig,
+- 132 BRONZE-KRONLEUCHTER,achtarmig,achtflammig.
+- zwolfflammig.
+- 133 PFEILERSPIEGEL im Louis-XVI.-Stil mit zugehoriger Konsole, auf dieser
+- Marmorplatte, holzgeschnitzt und vergoldet. Deutsch 18. Jahrh.
+- 134—135 EIN PAAR WANDSPIEGEL im Louis-XVI.-Stil, vergoldet, oval, mit je zwei Kerzenhaltern.
+- 136 BUCHERSCHRANK im engl. Stil, zweiturig, MAHAGONI.
+- 137 LOUIS-XVI-DAMENSCHREIBTISCH, NuBholz, mit Blumenintarsien. Unterteil zweischibig mit Zylinderaufsatz und ausziehbarer Schreibplatte. Nord deutsch Ende 18. Jahrh 117x108 cm.
+- 138 BAROCK-VITRINENSCHRANK, Mahagoni, Unterteil dreischubig, Oberteil zweiturig,verglast.
+- 139 AUBUSSONTEPPICH, cremegrundig, mit ovalen ziegelrotem Medaillon.
+- 140 KASAK-BRUCKE, im Spiegel Palmettenmuster auf blauem Grund. 213 x 90 cm.
+- 380x490cm.
+- 141 LOUIS-XVI.-KRONLEUCHTER, Bronze, mit Original-Prismenbehang, sechskerzig. Stralsund 18. Jahrh.
+- achtkerzig. Stralsund um 1770.
+- 142 EINE DESGL., Bronze mit Prismenbehang und zwei blauen Glaseinsatzen,
+- 143 BIEDERMEIER-SOFABANK, Mahagoni,mit grunem Ripsbezug.
+- 144-148 SALONGARNITUR im Louis-XV.-Stil, vergoldete Gestelle mit roten
+- 149 PRUNKSCHRANK im Renaissancestil.
+- Seidendamastbezigen, funfteilig: Sofabank,vier Stuhle.
+- 150 BAROCK-STANDUHR, Eiche, mit reichem Kerbschnitt. Norddeutsch 18.Jahrh.
+- 151 BAROCK-BLUMENTISCH,holzgeschnitzt und vergoldet. Ein Putto mit Taube tragt die runde,mit freiliegendem Weinlaubmuster geschmickte rot bezogene Holzplatte.Durchm. 100 cm.
+- platte. Italien um 1680. 165 cm breit. (Marmorplatte erganzt.)
+- 152 ITAL. BAROCK-KONSOLTISCH,reich geschnitzt und vergoldet,mit Marmor
+- 153 SOFABANK im Louis-XV.-Stil mit rotem groBblumigen Velour-de-Gene-Bezug, je einem freiliegenden Sitz- und finf freiliegenden Schlummerrollen.
+- 155 MODELL eines Dreimasters, getakelt.
+- 154 EMPIRE-PLATED-MENAGE, achteckiger Sockel, mit vier Glaseinsatzen.
+- 156 CHINA-PORZELLANKUMME mit imariartigem Dekor. Blaue Schriftmarke.
+- 157 SMYRNA-TEPPICH mit grauem Fond. 400x290 cm.
+- Durchm.22 cm.
+- 158 BIRNENBECHER, Silber vergoldet, auf zweigformigem FuB, der mit Blattern und Knospen geschmickt ist. Auf dem eigentlichen Korper gravierte Rocaillen. Danzig um 1700. 27 cm hoch.
+- 159 ANANAS-DECKELPOKAL, Silber, mit Resten von Vergoldung. Als Deckelknauf ein Schwan. Auf runder FuBplinthe. Augsburg um 1700. 27 cm hoch.
+- 160 BECHER AUF FUSS, Silber gebuckelt. Augsburg um 1700. 12 cm hoch.
+- 161 ABENDMAHLSKELCH,Goldbronze. Auf dem FuB getrieben Rocaille
+- ornamente. Suddeutsch um 1700. 25 cm hoch.
+- 162 GRUPPE VON HEILIGEN: Die Heiligen, Georg und Johannes, neben diesen die heilige Katharina und Agnes zur einen Seite, zur anderen die heilige Elisabeth mit einer Nonne. Lindenholz, polychrom gefaBt. Schwabisch um 1500.39 cm hoch. Abbildung Tafel 1.
+- 163 BUSTE EINES BISCHOFS mit herabwallendem Haupthaar und Vollbart. Faltenreiches Gewand, auf der Brust ein Amulett. Lindenholz. Suddeutsch, Kreis des Syrlin. 46 cm hoch. Abbildung Tafel 2.
+- 164 AUFERSTEHUNGSGRUPPE:Maria, Maria Magdalena und Johannes, vor dem Leichentuch Christi. Lindenholz, polychrom gefaBt. Bodenseegegend um 1500. 43 cm hoch. Abbildung Tafel 1.
+- 165 EMPIRE-SOFABANK, Mahagoni, mit geblumten Ripsbezug. Norddeutsch um 1800.
+- 166 EMPIRETISCH, Mahagoni. Die ovale Platte wird von zwei vergoldeten holzgeschnitzten, geflugelten Hermenfiguren getragen. Norddeutsch um 1800.
+- 167 EMPIRE-SPIELTISCH, Mahagoni. Auf den Enden der X-formigen FuBplatte
+- sitzt je ein Lowe. RuBland um 1800.
+- 168 EMPIRE-PFEILERSPIEGEL, geflammte Birke. In dem giebelformigen Auf
+- satz ein Medaillon mit Seidenstickereifullung. Norddeutsch um 1800.
+- 169 BAROCK-LEHNSESSEL, Buche, mit auberginefarbenem Samtbezug. Das Gestell Siiddeutsch um 1700.
+- 170 VASE, dickbauchig, mit Famille-verte-Malerei: in vier Feldern je ein Blutenzweig. Porzellan. Kang-Hsi. 50 cm hoch. (Sprung, Deckel nicht zugehorig)
+- 171 HOLZ-KRONLEUCHTER,funfarmig,funfflammig.
+- 172 BRONZE-STEHLAMPE,zweiflammig, im Empirestil, mit rotem Seidenschirm
+- mit Spitzenuberzug.
+- 173-180 SCHLAFZIMMER-MOBILIAR, Obstholz, achtteilig: Zwei Betten, zwei Nachtschranke, groBer Spiegelschrank, runder Tisch, zwei Stuhle.
+- 181 ECKSCHRANK, Eiche.
+- 182 JAP.PORZELLAN-SCHIRMSTANDER, blauweiB.
+- 183 EINER DESGL., ahnlich.
+- 184-185 ZWEI GER. BUNTDRUCKE:Hafenansichten.
+- 186 KAMIN, Eiche, mit Marmorplatte.
+- 187-190 GARNITUR im Louis-XVI.-Stil, vergoldet, mit Brokatbezugen: Sofa-
+- bank, zwei Sessel, Tisch mit Marmorplatte.
+- 191 RAUCHTISCH, rund, mit Messingplatte.
+- 192 EINER DESGL., rund, mit Lederplatte.
+- 193-194 EIN PAAR WANDAPPLIKEN im Louis-XVI.-Stil,je zweiflammig Messing.
+- 195-196 EIN PAAR DESGL., je zweiflammig, Bronze.
+- 197-205 HERRENZIMMER-MOBILIAR,Eiche,neunteilig:Bucherschrank,runder
+- Tisch, Schreibtisch, Schreibtischsessel, Ecksofa, zwei Klubsessel, drei Stuhle. Gringemusterter Wollstoff.
+- 206220 SPEISEZIMMER-MOBILIAR, Mahagoni, fuinfzehnteilig:Vitrine, zwei Anrichten, runder Ausziehtisch, Bifett, zehn Stuhle. Mit Lederbezug.
+- 222 EINER DESGL., cremefarbener Fond mit acht Medaillons. Rosengirlanden. Bordeauxrote Einfassung. 480x380 cm.
+- 221 AUBUSSONTEPPICH im Louis-XV.-Stil, altrosa, mit nilgrinem damaszierten Fond und acht weiBen Medaillons. 290x360 cm.
+- 223 HOLLANDISCHE BAROCK-STANDUHR, Mahagoni, mit Blumenintarsien. Das Zifferblatt sign.: William John Dent. London.
+- 224 SCHREIBTISCH MIT AUFSATZ im Jacobstil, Mahagoni, auf Eiche, mit Messingleistenverzierung. Unterteil neunschubig, an den Schmalseiten je eine Ausziehplatte, Oberteil zweiturig, verglast. 180x145 cm.
+- 24 Gabeln, 24 kleine Loffel, 24 kleine Gabeln,24 Teeloffel, 12 Eisloffel, 12 Mittelloffel, 12 Fischbestecke, 24 groBe Messer, 24 kleine Messer, ein Paar Fischheber.
+- 226 MUSCHKABAT-TEPPICH, blau und rot durchmustert. 6,30x5,25 m.
+- 227 SALON-GARNITUR im Chippendalestil, Mahag.mit geblumten Seidendamast-
+- 228 KUPFER-DECKELKUBEL. Auf dem Deckel getriebener Maiskolbendekor. 18.Jahrh.
+- bezugen, neunteilig: drei Sofabanke mit freiliegenden Sitzkissen, zwei Stihle, drei Sessel, runder Tisch.
+- 229 SCHACHSPIEL, Berliner EisenguB. In Holzkassette mit zugehorigem Brett. Um 1800.
+- 230231 EIN PAAR EMPIREKANDELABER, Goldbronze, je siebenkerzig, auf kanneliertem Goldbronzeschaft.Deutsch um 1800.
+- 233-234 EIN PAAR MAJOLIKA-ALBARELLO mit herzformigem AusguB. Auf der Wandung je ein Medaillon mit dem Doppeladler und einem springenden
+- 232 MARMORBUSTE: Jungling mit wirrem Haar, als Bekleidung ein togaartiges Gewand. Auf Marmorsockel. 32 cm hoch.
+- Reh. Oberitalien 16.Jahrh.
+- satzen. Je 132 cm hoch.
+- 235-236 EIN PAAR JAP.PORZELLANVASEN mit figurlichem Dekor auf Unter-
+- 237 BIEDERMEIER-PARAVENT, Mahagoni, mit Bandintarsien. Als Bezug Gemalde auf Leinwand nach Rosa di Tivoli: Waldlandschaft, im Vordergrund Hirtenpar. Norddeutsch um 1820. 190x105 cm.
+- 239 BAROCKSTUHL, Buche. Geschweifte Beine mit KlauenfiBen, Ruckenlehne und Zarge reich geschnitzt. Wahrscheinlich spanisch.
+- 238 SPATGOTISCHE HOLZFIGUR: Monch mit Brevier. Volfigur. 93 cm hoch
+- 240 BAROCKSTUHL mit geschweiften Beinen und Stegverbindung, geschnitzt.
+- 241 DESGL.,ahnlich.
+- 242-243 ZWEI HOHE JAPANISCHE VASEN auf reichgeschnitzten Original-
+- 244 BISKUITFIGUR: Sitzende Frauengestalt.
+- Blackwoodsockeln. WeiBblauer figurlicher Dekor. Hohe inkl. Sockel 132 cm.
+- 245-246 ZWEI BISKUITBUSTEN: Weibliche Darstellungen. Auf rundem Sockel.
+- 247 BERLINER SCHUSSEL, Blumenrankenmuster, oval, 50 x 36 cm.
+- 248 SPROSSENBANK,Kirschbaum,Biedermeier, mit gepolsterter Ruckenlehne. 150x100×65cm.
+- geschnitzt.
+- 249--250 ZWEI LOUIS-XVI.STUHLE, Eiche, mit hoher gerader Sprossenlehne,
+- 251 GROSSER EICHENTISCH im Renaissancestil auf sechs pilasterformigen
+- 252 NUSSBAUMSESSEL im Renaissancestil. Gruner Seidenveloursbezug, im alten Stil gepolstert.
+- geschnitzten Beinen mit Stegverbindung. 204 x83x 98 cm.
+- 253 RENAISSANCESTUHL auf KlauenfuBen mit gedrehten Beinen und Stegverbindungen. Ruickenlehne gepolstert, roter Veloursbezug.
+- aus der Zeit.
+- 254 LOUIS-XV.-SESSEL, Eiche, gefallige Form. Der blaue Damastbezug nicht
+- 255 LOUIS-XVI-SESSEL, Buche. Ruckenlehne mit Rohrgeflecht. Zu den nach-
+- folgenden sechs Stuhlen passend.
+- 256 SECHS LOUIS-XVI.-STUHLE, Buche. Ruckenlehne mit Rohrgeflecht. Heller Veloursbezug geblumt.
+- 257-258 ZWEI EMPIREGIRANDOLEN in dunkler Bronze, dreiarmig, Saulen-
+- 259 AMPEL mit Engelskopfen im Renaissancestil. Messing.
+- form, auf dreigeteiltem KlauenfuB. Mit Marmorsockel. 58 cm hoch.
+- 260 BRONZEGEFASS auf drei FuBen mit Eisenhenkel.
+- 261 SHERATON-KLEIDERSCHRANK, NuBbaum. Auf dem Gesims eine Galerie, zweiturig, Pilaster mit gerilltem FuB und ebensolchen Kapitalen auf KugelfuBen. Bronzebeschlage.260x186x63 cm.
+- 262 LUTTICHER KLEIDERSCHRANK des 18. Jahrh., zweischubig, zweiturig.
+- In den Fullungen aus dem Stick geschnitzte reiche ornamentale Schnitzereien. 224×170×50cm.
+- 263 GROSSE SOFABANK im Louis-XV.Stil, Schleiflack,weiB,vergoldet,geblimter Bezug. 210x90x61cm.
+- 264 DESGL, Gegenstuick.
+- 265 KAMINVERKLEIDUNG im Louis-XVI.Stil, reich geschnitzt, mit Bronze-
+- beschlagen. Im Oberteil abgerundeter Spiegel. 250x 110x29 cm.
+- 266 ANTIKES LOUIS-XVI.-TISCHCHEN mit eingelegter NuBbaumplatte und durchbrochener und hinterlegter Zarge. 65x70x43 cm.
+- 267 LOUIS-XVI.-ECKSCHRANK, Mahagoni. Unterteil zweitirig, Oberteil eintuirig mit vergoldeten Ornamentschnitzereien. Auf dem Gesims eine Galerie
+- mit vergoldeter Vase.230x120x60 cm.
+- 268 PARAVENT mit persischer reicher Silberstickerei auf rotem Samt in euro-
+- paischem Mahagonirahmen.163x100 cm.
+- 269 FRANZOSISCHE ZIERKOMMODE mit Marmorplatte im Louis-XV.-Stil auf vier hohen geschwungenen Beinen, Rosenholz, dreischubig, reiche Bronzebeschlage.8 80×60×37cm.
+- 270 FRANZOSISCHE POUDEREUSE im Louis-XV.-Stil, Rosenholz, auf hohen
+- geschwungenen Beinen in Bronzeschuhen. 68x75x36 cm.
+- 271 FRANZOSISCHES CHEVET im Louis-XV.-Stil. Marmorplatte, Vorderseite intarsiert.85x41x33cm.
+- 272 DELFT-KRUG mit Zinndeckel, blauer interessanter China-Dekor. (Beschad.)
+- 273 ENGHALS-KRUG mit Zinndeckel, Delft, blauer Dekor.
+- 274-275 ZWEI BAROCK-MESSINGLEUCHTER. 19 cm hoch.
+- 276 ENGLISCHER REISEKASTEN mit intarsiertem Deckel. Inneneinrichtung aus blauem Glase mit plattiertem Deckel.
+- 277 ENGLISCHER REISE-SCHREIBKASTEN,zusammenklappbar,mit versilberten Beschlagen.Polisanderholz.
+- 278 BAROCKSPIEGEL, vergoldet. 67 x43 cm.
+- 279 BAROCKSPIEGEL, vergoldet.8 80x40cm.
+- 280 LOUIS-XVI.-KONSOLTISCH mit Marmorplatte, halbrund, vergoldet, auf
+- einem FuB stehend. 82x61x31 cm.
+- 281 ZWEI DELFT-TELLER mit hollandischer Inschrift. Durchm. 22 cm.
+- 282 DELFT-TELLER, blauer Dekor. Durchm. 22 cm.
+- 283 DELFT-TELLER, blauer Dekor. Durchm.26 cm. (Leicht beschad.)
+- 43 cm hoch.
+- 285 LOUIS-XVI.-POUDREUSE, Eiche, mit vier Schiebladen. Platte mit Wurfel-
+- mustereinlagen.  Bronzebeschlage. Original a. d. Zeit. 80x 87 x 40 cm.
+- 286 FRANZOSISCHES BONHEUR DU JOUR, Mahagoni, zweischubig. Oberteil mit Spiegelturen. Im Jacobstil. 75x124x38 cm.
+- 287 KONSOLE im Louis-XV.-Stil, geschnitzt und vergoldet, mit Marmorplatte.
+- 83×43×35cm.
+- 288 MAHAGONI-SESSEL mit hoher Lehne und Armstitzen auf gedrehten Beinen.
+- Griner Damastbezug.
+- 289 MAHAGONI-SEKRETAR im Louis-XVI.-Stil, mit Messingeinlagen und Bronze-
+- beschiagen, dreischibig. 97x 144x44 cm.
+- 290 MAHAGONI-ETAGERE, zweiteilig, auf dreigeteiltem FuB.
+- 291 NORDDEUTSCHE EICHENTRUHE mit Schnitzereien im Renaissancestil
+- unter Verwendung alter Teile. Mit Jahreszahl 1646. 51x89x56 cm.
+- 292 EICHENTRUHE im Renaissancestil. Vorderfront, reich geschnitzt, in drei
+- Felder geteilt, mit plastischen Kopfen und Maskarons. 180x 92x75 cm.
+- 293 FLORENTINER RENAISSANCE-SITZTRUHE mit tWappenschnitzerei. 176x54x57 cm. Aus der Versteigerung der Sammlung Castiglioni.
+- 295 FRIESISCHE EICHENTRUHE mit leicht gewolbtem Deckel und durchbrochener FuBzarge. Auf der Vorderseite zwei achteckige besternte Auflagen. 18.Jahrh:122x70x60 cm.
+- 294 FRIESISCHES BUFETT, Eiche,auf dreischibiger Kommode. Mittelteil zum Aufklappen.Vitrinenartiger Aufsatz.Vorderfront reich geschnitzt.220x120x61 cm.
+- 296 BEICHTSTUHL mit Muschelbekronung und typischen Barockornamenten. Suddeutschum 1750.210x90x100cm.
+- 298 HOLLANDISCHER BAROCK-KLEIDERSCHRANK, Unterteil zweischubig auf abgeplatteten Kugelfuben, zweiturig, die zahlreich geteilten Felder auf Vorderfront und beiden Seiten mit gravierten Messingplatten belegt. (Messingplatten vermutlich spater.) 230x167x62 cm.
+- 297 DESGL., Gegenstuick.
+- 299 EMPIRE-UHR mit zwei Kandelabern, dunkle und vergoldete Bronze. Die Kandelaber, zweiarmig, werden von Putten auf Sockeln getragen.
+- griechischen Gewandern. Dunkle und vergoldete Bronze. 55 cm hoch.
+- 300-301 ZWEI EMPIRE-GIRANDOLEN,dreiarmig. Frauengestalten in
+- 302-303 ZWEI FRANZOSISCHE EMPIRE-VASEN mit reicher Vergoldung und
+- figurlicher Bemalung. 30 cm hoch.
+- 304 DANZIGER BAROCKSCHRANK,NuBbaum auf Eiche,zweiturig, einschubig. Ausladendes Gesims. In der Mitte Barockschnitzerei, in den Turen profilierte Fullungen, umgeben von reichen Schnitzereien mit allegorischen Darstellungen der vier Jahreszeiten. Originalbeschlage.Auf KugelfuBen. Um 1700. 220x187x70 cm.(Fruher Sammlung Bandli.)
+- 305 SUDDEUTSCHER BAROCKSCHRANK, NuBbaum auf Eiche, zweitirig,einschubig. Seitlich und Mitte Pilaster mit geschnitzten Kapitalen, Gesims stark geschwungen, Unterteil und FuBe geschweift, Turfallungen oben geschnitzt. Sehr schone Originalbeschlage. 250x192x62 cm.
+- 306-3O7 ZWEI ANTIKE MARMORBUSTEN.Weibliche und mannliche Dar-
+- stellung der italienischen Renaissance.31x28 cm.（Beschad.)
+- 308 LICHTSCHIRM, Berliner Eisen,mit Darstellung Friedrich Wilheim IV.auf
+- Biskuitplatte.49 cm hoch.
+- 309-310 ZWEI EMPIRE-SCHNITZEREIEN:#Sphinxe".
+- 311-312 ZWEI SHERATON-STUHLE, Eiche,in der Lehne geschnitztes Mittel stick.
+- 313 CHIPPENDALE-STUHL,NuBbaum, schone typische Form. Ruckenlehne, Zarge und in Tierklauen endende Beine geschnitzt.
+- 314 BAROCKKOMMODE,dreischubig,auf abgeplatteten KugelfuBen,NuBbaum
+- intarsiert. Die Front ist geschweift.126x60x85 cm.
+- 316 BAROCKSESSEL mit geschnitzter Ruickenlehne und Zarge.
+- 317-318 ZWEI NORDDEUTSCHE BAROCKSTUHLE auf gedrehten Beinen
+- mit Stegverbindung und hoher Lehne.
+- 319 BAROCKSTUHL, Buche, mit Schweinslederbezug
+- 320 BAROCKSTUHL, siddeutsch, Eiche, seltene Form. Geschnitztes durch FuBleisten verbundenes Unterteil.
+- 320a CASABANCA im Renaissancestil, Eiche, beschnitzte Rickenlehne, durch zehn Sprossen durchbrochen. 190x163x46 cm.
+- 320b EICHEN-KONSOLTISCH auf drei geschwungenen und geschnitzten Beinen mit Stegverbindung. Aus der Barockzeit. 80x67x47 cm.
+- 320c RHON-TISCH, auf vier Beinen, je zwei mit Stegverbindung, um 1700. 118x80x112cm.
+- geschwungenen
+- 322 BAROCKSTUHL, Buche, mit gedrehten Beinen und gepolsterter Lehne.
+- 321 BAROCKSTUHL, Obstholz, mit gepolsterter Lehne und Beinen.
+- 323 BAROCKSTUHL mit geschwungenen, geschnitzten Beinen und Stegverbindung. Roter Veloursbezug.
+- 324 KLEINER TOILETTESPIEGEL aus Berliner Eisen. 23x20 cm.
+- 325 ZWEI BRONZEAPPLIKEN im Louis-XVI.-Stil. Funfarmig. 51 cm hoch.
+- 326 BISKUITBUSTE:Louis Napoleon Bonaparte. 23 cm hoch.
+- MEISSENER PORZELLANHUND,weiB-brauner Dekor, sitzend. 32 cm hoch.
+- 327 (Leicht beschad.)
+- 328 NIEDRIGER EICHENTISCH.Um 1760.76x59x60 cm.
+- 329 ZWEI SESSEL im Renaissancestil, hohe Rickenlehne, Vorderzarge reich geschnitzt, roter Velourbezug.
+- 330 GROSSER EICHENSESSEL im Barockstil mit gobelinartigem Bezug.
+- 330a BAROCKSTUHL, Buche, mit gedrehten Vorderbeinen und Stegverbindung.
+- 330b BAROCKSTUHL, Buche,mit geschweiften Vorderbeinen und Stegverbindung.
+- 330c BAROCKSTUHL, Buche, mit gedrehten Vorderbeinen und Stegverbindung.
+- (Signiert D.A.P.W.) (Deckel beschad.)
+- 331 EIN SATZ VON DREI BUNTEN DELFTVASEN (eine Deckelvase, zwei Enghalsvasen), vorwiegend blau-gelb-roter Dekor.
+- 332 ZWEI CHINA-CLOISONNEVASEN,vielfarbig, Grin vorherrschend,18.Jahrh.
+- 55 cm hoch.
+- 333 BAROCKSESSEL mit geschwungenen Beinen, geschnitzter Ruickenlehne und gobelinartigem Bezug.
+- 334 ENGLISCHER KLEIDERSCHRANK, Eiche, zweiturig, Zweischubig,Gesims in der Mitte erhoht, mit durchbrochener Galerie bekront. Um 1780. 235x 161x55cm.
+- 335 FRIESISCHE ANRICHTE, Eiche,zweitirig,mit abgeschragten Ecken. 178x 122x40cm.
+- 335a ENGLISCHER STUHL, Esche, mit geraden Beinen und durchbrochener Ruckenlehne.
+- 336 GROSSER STEINMORSER auf saulenartigem Untersatz. Mit Untersatz 88 cm hoch, Durchm.36 cm.
+- 338 JAPANISCHE BRONZE: Samurai, sein Pferd fuhrend. Auf der Ruckseite bezeichnet.34x24x19cm.
+- zarge reichgeschnitzt.
+- 339 SECHS EICHENSTUHLE im Renaissancestil. Hohe Lehne, FuBe und Vorder-
+- 339a ENGLISCHE KOMMODE,Eiche, dreischubig,Platte, Vorderfront und Seitenwande mit Wurfelmarqueterie.Runde Emailbeschlage mit englischer Inschrift.Um 1780.160x86x58cm.
+- 340a KLAVIERBANK im Louis-XV.-Stil. Schleiflack, weiB, randvergoldet. 97x
+- 340 MAHAGONI-NOTENSCHRANK, vierturig, im Queen-Anne-Stil, Ruckwand zum Offnen. 70x103x35 cm.
+- 50x57cm.
+- 340c FRANZOSISCHES LEUCHTERTISCHCHEN,Mahagoni, mit brochenem Messingrand. 100 cm hoch.
+- 340b ZWEI KAMINSCHIRME im Louis-XV.-Stil, vergoldet. 46x95 cn.
+- durch-
+- 341 BAROCKSTUHL, Buche, mit geschwungenen Beinen und Stegverbindung.
+- 343 GROSSER BAROCK-OHREN-BACKEN-SESSEL, Eiche, mit verstellbarer Ruckenlehne und aufklappbarem Sitz. Geschwungene Beine.
+- 342 BAROCKSTUHL, Buche, mit gedrehten Beinen und Stegverbindung.
+- 343a MARMORGRUPPE: Amor und Psyche.Weisser Marmor auf grineni Sockel.67x74x35cm.
+- 344 LOUISXVIBANK, Schleiflack,grau,vergoldet,mit gepolsterter Ruckenlehn
+- 343b FRAUENBUSTE, Mamor, weiB, auf Marmorsaule. Mit Saule 1,72 m hoch.
+- und losem Sitzkissen. 128x105x55 cm.
+- 346 WACHS-BOSSIERUNG auf rotem Plischgrunde unter Glas, Martin Luther darstellend. 28 x23 cm S.-R.
+- 345 LOUISXVI.SESSEL, Buche, breite, ausladende Form, ovale Ruckenlehne, gruner Ripsbezug.
+- 347 CHINAVASE, weiB, mit buntem Blumen- und Vogeldekor. 18. Jahrh.44 cm hoch.
+- 348 BRONZEGEFASS auf drei Beinen mit Jahreszahl und ornamentaler Verzierung.
+## BUCHER
+
+(Nr.349-—477)
+
+- 349 Livius. Historiarum Libri qui supersunt Omnes. Halle und Berlin 1819.
+- 3 Bde.Dekorative reich vergoldete Halblederbde.
+- 350 Tacitus. Opera. Ed. Gabriel Brotier Londini curante et imprimente A. J. Valpy 1812. 5 Bde.Vergoldete Juchtenbde. Schones Exempiar der beruhmten Ausgabe.
+- 351 Thiers. Histoire de la Revolution francaise. Paris 1858. 4 Bde. 40. Mit
+- Karte, 22 Portrats und 19 schonen Kupfern von Raffet.Violette hubsch vergoldete Halblederbde.
+- 352 Las Cases. Meimorial de Sainte Helene; Journal de ce qu'a dit et fait Napoleon durant 18 mois. Paris 1840. 9 Bde. Halblederbde. mit Vergoldung
+- Mit 2 Karten und 7 Portrats.
+- 353 Horne. History of Napoleon. London 1840. 2 Bde. Mit etwa 500 Holzschnitten von Raffet und Vernet. In einem reich vergoldeten Lederbd.
+- 354 Graham. Letters from Germany and Holland during the years 1813 and 1814. London 1820. Hubsch vergoldeter Juchtenbd.mit Goldschnitt. Erste Ausgabe. General Sir Graham nahm an dem Feldzug gegen Napoleon teil. Exemplar mit handschriftlicher Widmung des Verfassers.
+- 355 Kunzel, H. Leben und Reden Sir Robert Peel's.Braunschweig 1851.
+- 2 Bde. mit Portrat in einem hubschen Halbpergamentbd.
+- 356 Mom m sen, Theodor. Romische Geschichte. Berlin 1861. 3 Bde.mit Karten.
+- In 2 reich vergoldeten grinen Halblederbden.
+- 357 Rau mer, F. von. Geschichte der Hohenstaufen und ihrer Zeit. Leipzig 1857. 6 Bde. Hubsche Halblederbde.
+- 358 Vehse. Geschichte der Hofe der Hauser Bayern, Wurtemberg, Baden und Hessen. Hamburg 1853. 5 Bde. in 3 reich vergoldeten Halblederbden. d.Z.
+- Erste Ausgabe. Sehr selten.
+- 359 Sybel, H. von.
+- Begrindung des Deutschen Reiches durch Wilhelm I. Minchen 1889.7 Bde.Halbleder.
+- 360 Mercier. Tableau de Paris. Amsterdam1782. 8Bde. Vergoldete Lederbde. Dekoratives Exemplar der berihmten Kulturgeschichte.
+- 361 Sue, E. Der ewige Jude. Frankfurt a. M. 1884. 10 Bde.in 2 Halbleinenbden. mit Vergoldung.
+- 362 La Rochefoucauld,Duc de. Memoires sur les Brigues a la Mort de Louis XIl. Cologne 1664. 120. Reich vergoldetes Lederbandchen mit
+- Goldschnitt. Sehr seltene Ausgabe.
+- 363 Retz,Cardinal de. Memoires. Edition collationnee sur les manuscrits authentiques avec les fragments restitues. Paris 1842. 2 Bde. Schone blaue
+- Halblederbde. mit Vergoldung. Beste Ausgabe! Selten!
+- 364 Sevigné, Marquise de. Lettres. Rouen 1780. 9 Bde. Mit Portrats.
+- Reizende reich vergoldete Rokoko-Lederbde. von sehr guter Erhaltung.
+- 365 Saint-Simon, Duc de. Memoires completes et authentiques sur le Regne
+- de Louis XIV et la Regence. Paris 1842. 40 Bde. in 20 prachtigen,reich vergoldeten roten Halblederbden. Mit 38 gestochenen Portrats. Beste und schonste Ausgabe in einem hochst dekorativen Exemplar.
+- 366 Genlis. Madame de Maintenon. Londres 1806.2 Bde. Reizende bunt marmorierte Lederbde. Erste Ausgabe.
+- 367 Dubarry, Madame la Comtesse. Memoires. Paris 1829.4 Bde. Vergoldete Halbleinenbde. Erste Ausgabe. Sehr selten.
+- 368 Mirabeau. Oeuvres oratoires. Paris 1819. 3 Bde. mit schonem Portrat kupfer. Halblederbde. mit Vergoldung. Erste Ausgabe.
+- 369 Genlis.La Duchesse de La Valliere. Londres 1808. 2 Bde. Hubsch vergoldete Juchtenbde. Erste Ausgabe.
+- 370 Duclos. Considerations sur les moeurs de ce siecle. Londres 1784. 123. Mit prachtigem Portratkupfer von Cochin. Reich verziertes Rokokobandchen mit Goldschnitt.
+- 371 Voltaire. Siecles de Louis XIV et Louis XV. Paris 1817. 5 Bde. Halbleder.
+- Paris 1826.2 Bde.Halbleder. Erste Ausgabe.
+- 372 Longchamp et Wagniere. Memoires sur Voltaire et sur ses ouvrages.
+- 373 Guéné, Abbé. Lettres de quelques Juifs portuguais, allemands et polonais
+- a M. de Voltaire. Paris 1821.3 Bde.Halbleder.
+- 374 Cunaeus. De Republica Hebraeorum Libri tres; nunc primum in lucem editi a J. Nicolai. Leyden 1732. 4. Pappbd. Erste Ausgabe. Sehr selten.
+- 375 Stael, Madame de. Considerations sur les principaux Evenements de la Revolution francaise. Paris 1818.3 Bde. Bunt marmorierte Pappbde. mit reicher Ruckenvergoldung und roten Ruckenschildern. Erste Ausgabe. Prachtexemplar auf groBem hollandischen Papier.
+- 376 Stael, Madame de. De la Litterature consideree dans ses Rapports avec
+- 377 Stael, Madame de. De lAllemagne. Paris 1835. 2 Bde. Reich vergoldete Lederbde.mit Arabeskenverzierung.
+- les Institutions sociales. Paris 1818. 2 Bde.Rote,reich vergoldete Halblederbde.
+- 378 Gervinus, G. G. Geschichte der deutschen Dichtung. Leipzig 1853. 5 Bde.Halbleinenbde.
+- 380 Simrock, K. Handbuch der deutschen Mythologie. Bonn 1855. Schoner Pappbd. Erste Ausgabe.
+- 379 Muller-Stribing. Aristophanes und die historische Kritik. Leipzig 1873. Halbfranz. Selten.
+- 381 Simrock, K. Das kleine Heldenbuch. Stuttgart 1857. Lwd.mit Vergoldung.
+- Vignetten. Hubscher Halblederbd. mit Vergoldung. Selten.
+- 382 Hagedorn. Poetische Werke. Hamburg 1769. 3 Bde. Mit Portrat und
+- 383 Goethe. Werke. Stuttgart, Cotta 1866. 36 Bde. Braune Halblederbde.
+- 384 Dunzer.
+- Goethe als Dramatiker. Leipzig 1837.Lwd. Erste Ausgabe.
+- mit reicher Vergoldung. Sauberes, sehr dekoratives Exemplar.
+- 385 Lessing, G.E. Samtliche Schriften. Berlin 1838. 13 Bde. in 7 hubsch vergoldeten Halblederbden. Erste, von Karl Lachmann herausgegebene Gesamtausgabe. Hubsches Exemplar.
+- 386 Danzel und Guhrauer. Gotthold Ephraim Lessing. Sein Leben und seine Werke.Berlin 1880-1881.2 Bde. in einem Halblederbd.
+- Portr. Braune hubsch vergoldete Halbmaroquinbde. Sehr sauberes Exemplar der schon gedruckten Taschenausgabe.
+- 387 Schiller. Samtliche Werke. Stuttgart und Tubingen 1838. 12 Bde. mit
+- 388 Hoffmeister,K. Schillers Leben, Geistesentwicklung und Werke. Stuttgart
+- 389 Briefwechsel zwischen Schiller und Goethe, in den Jahren 1794—1805. Stuttgart und Augsburg 1856. 2 Bde. Halbfranzbde.
+- 1838.3 Bde.Halbleder.
+- 390 Schiller und Lotte. （Briefwechsel.) Stuttgart und Augsburg 1856. Mit
+- 391 Schiller Samtliche Werke. Stuttgart 1867. 12 Bde.120. Grine vergoldete Halblederbandchen. Hibsches Exemplar der Ausgabe kleinen Formates.
+- 2 gestochenen Portrats. Lwd. Erste Ausgabe.
+- 392 Thum mel, A.M. von. Samtliche Werke. Leipzig 1839. 8 Bde. in 4 roten reich vergoldeten Halblederbden.
+- 393 Muiller, J. G. Selim der Glickliche oder Der Substitut des Orimuzd. Eine morgenlandische Geschichte nach der Guzuratischen Urschrift. Berlin 1792. 3 Bde. in 2 hubsch vergoldeten Pappbden. Erste Ausgabe.
+- 395 Mendelssohn-Bartholdy, Felix. Reisebriefe. Leipzig 1865. 2 Bde. Lwd. Etwas beschadigt.
+- 394 Freytag, Gustav. Dramatische Werke. Leipzig 1858. Lwd.mit Vergoldung. Erste Ausgabe. Selten.
+- 396 StrauB, David Friedrich. Leben und Schriften des Dichters und Philosophen Nicodemus Frischlin. Frankfurt 1855. Halblwd. Sehr schones Exemplar
+- der ersten Ausgabe.
+- 397 Lavater, J. K. Physiognomik im Auszuge. Zurich 1860. 2 Bde. mit 24 ge stochenen Portrats. Rote Halblederbde. mit Vergoldung.
+- 398 Derniers Sentiments des plus illustres Personnages condamnes a Mort ou Recueil des Lettres qu'ils ont écrites dans les Prisons, des Discours qu'ils prononces sur échafaud. Paris 1775. 2 Bde. Reich vergoldete Rokokobde. Dekoratives Exemplar des seltenen Kuriosums.
+- 399 Robida,A.Le XiXe Siecle. Paris 1888. 40. Mit zahlreichen farbigen und schwarzen Illustrationen von Robida. Erste Ausgabe. Schones Exemplar mit eingebundenem Originalumschlag. Auf dem Schmutztitel handschriftliche Widmung des Kunstlers.
+- Predictions pour l'annee 1789. Londres (Paris) 1788. Reich vergoldetes KalbRevolution.Prachtexemplar.
+- 400 Le Petit Almanach de nos grandes Femmes, accompagne de quelques lederbandchen. Hochst seltener Almanach vom Vorabend der franzosischen
+- 401 Marchant. La Constitution en Vaudevilles, suivie des Droits de l'homme, de la femme et de plusieurs autres vaudevilles constitutionelles.Paris chez les Libraires Royalistes. 24o. Mit einer Modekarikatur auf die Jakobiner. Hibsch vergoldetes Halblederbandchen. Originaldruck des hochst seltenen gegenrevolutionaren Almanachs in einem Prachtexemplar.
+- 402 Restif de la Bretonne. L'Ecole des Peres. En France et a Paris 1776 3 Bde.in 2 Halblederbdn. Originalausgabe von groBter Seltenheit, da von der Zensur beschlagnahmt und groBtenteils vernichtet.
+- 403 Migne, Abbe. Dictionnaire des Sciences occultes. 1846. 2 Bde. 40.
+- In einem starken Halblederbd. Sehr gesucht.
+- 404 Calmet. Traite sur les Apparitions des Esprits, et sur les Vampires.
+- Senones 1759. 2 Bde. Lederbde. mit Vergoldung. Sehr selten.
+- 405 Der Berlinische Zuschauer. Eine Wochenschrift. 2 Teile. (Alles was
+- erschienen.) Berlin 1769. 2 Bde. Vergoldete Lederbde. Sehr selten.
+- 406 Friedrich der GroBe. Oeuvres du Philosophe de Sanssouci. Neufchatel 1760.4Bde. 120.Zierlich vergoldete Lederbde.
+- 407 Seneca. Opera omnia. Amsterdam,Elzevir 1659.4 Bde.120. Mit Titelkupfer. Blaue Maroquinbde. mit Vergoldung. Sehr schones Exemplar.
+- 408 Longinus. Opera quae supersunt; graece et latine. Auxonii 1778. Blauer langnarbiger, reich vergoldeter Maroquinbd. mit Goldschnitt. Prachtexemplar. Beste Ausgabe.
+- 409 Montaigne.
+- Essais. Paris 1825.8 Bde. 120. Mit Portrat. Violette Halbmaroquinbde. mit zierlichster Vergoldung.F Reizendes Exemplar!
+- 410 Spinoza. Oeuvres.Trad. par Emile Saisset. Paris 1842. 2 Bde.Marmorierte Lederbde. Mit reicher Vergoldung. Schones Exemplar der sehr
+- seltenen ersten franzosischen Ausgabe.
+- 411 Malebranche.Oeuvres. Paris 1842.2 Bde.Hubsche Halblederbde.mit Vergoldung.
+- 412 Bossuet. Discours sur l'Histoire universelle. Paris, Didot, 1786. 2 Bde.
+- Rote Maroquinbde. mit Vergoldung und Goldschnitt.
+- 413 Demosthenes. Les Harrangues politiques. Paris, Didot, 179l. 2 Bde.
+- Marmorierte Lederbde.mit dekorativer Vergoldung.Beste Ausgabe.
+- 414 Montesquieu. Oeuvres. Paris 1838.6 Bde.Dunkelviolette reich vergoldete Halblederbde. Sehr dekoratives Exemplar.
+- 415 Rousseau, J. J. Julie ou la nouvelle. Paris, Didot lAiné, 1806. 4 Bde.
+120. Reizende dunkelblaue Maroquinbandchen mit Vergoldung.
+- 416 Schopenhauer. Die Welt als Wille und Vorsteilung. Leipzig 1891. 2 Bde. Halbfranz.
+- dekorative Pappbde. mit Vergoldung. Beste Ausgabe.
+- 417 Thomas. Oeuvres completes.Paris 1802.7 Bde. Bunt marmorierte
+- 418 La Rochefoucauld, Duc de. Maximes et Reflexions morales. Paris, Didot,
+- 419 Byron,Lord. The Works in four vol. London 1815. 4 Bde. Hubsch
+1815. Halbleder mit Vergoldung.
+- vergoldete Juchtenbde. Mit vielen Erstdrucken.
+- 420 Racine und Corneille. Oeuvres. 9 Bde. in 4 hubsch vergoldeten Halb-
+- lederbden.Paris ca.1840.
+- 421 Boccaccio, Giovanni. ll Decamerone. Gotha 1805.4 Bde. Pappbde. mit Vergoldung.
+- gestochenem Portrat. Bunt marmoriertes Lederbandchen mit reicher Vergoldung, Goldschnitt. Reizende Ausgabe kleinsten Formates.
+- 423 Petrarca. Rime. Roma 1813.120. Mit gestochenem Portrat. Gruner reizender Maroquinbd. mit Goldvignetten und zierlicher Borduirenvergoldung.
+- 425 Monti,V. Tragedie. Firenze 1825.Mit 3 Kupfern.
+- 424 Berni, Francesco. Orlando inamorato. Di Matteo Bojardo. Rifatto da Francesco Berni. Parigi 1768. 3 Bde. mit Portrats und reizenden Vignetten von Le Charpentier.
+- Sehr dekorativer reich vergoldeter Pergamentbd.
+- 426 Young,E. The Works of the Authour of the Night-Thoughts revised and corrected by himself.London 1774. 4 Bde. Dekorative Lederbde.mit
+- 427 Hogarth, William. The genuine Works, illustrated with biographical Anecdotes. London 1808-1810. 2 Bde. 40. Mit 2 Portrats und 156Kupfer-
+- Vergoldung. Mit Kupfern.
+- tafeln gestochen von Cook. In 3 gepunzten und vergoldeten Juchtenbanden.
+- gesucht.
+- 428 Malcolm, J. P. Historical Sketch of the Art of Caricaturing. London 1813 4°. Mit 31 Karikaturenkupfern. Halbleder. Erste Ausgabe. Sehr selten. Sehr
+- 429 De la Motte, B. Sammlung von 30 Originalradierungen, davon 20 in Vorzugsdrucken auf aufgewalztem China. In einem hubschen Halblederbd.
+- 430 Haller, A. von.Versuch schweizerischer Gedichte.Bern, Typograph. Gesellschaft 1828. Mit gestochenem Titelkupfer und 12 reizenden Vignetten von Duncker. Reich verzierter Lederbd. mit Lotosbliten und Arabesken.
+- 40.Um1816.
+- Jubilaumsausgabe. Exemplar auf Schreibpapier.
+- 431 Schulz,Fr. Leipzig, Goschen,1788.5 Bde. Mit
+- 432 Engel,J. J. Ideen einer Mimik. Mit Titelkupfer und 34 schonen Kupfertafeln von Meil. Berlin 1785-1786.2 Bde.Marmorierte reich verzierte
+- Kleine Romane. 5 reizenden Kupfern. Halblederbde.Erste Ausgabe.
+- Lederbde. Erste Ausgabe. Sehr selten.
+- 434 Amusemens de Spa. Amsterdam 1782.2 Bde.Mit 2 Karten und 14 Kupfern von A.Leloup. Gestochen von Godin. Lederbde. mit Ver-
+- 433 Burger, G. A. Gedichte. Gottingen 1789. 2 Bde. Mit Portrat, 2 gestochenen Titeln und 10 schonen Kupfern von Chodowiecki, Meil und Schellenberg. Bunt marmorierte reich vergoldete Lederbandchen. Eines der schonsten deutschen illustrierten Bucher des 18. Jahrh.Prachtvolles Exemplar.
+- goldung. Sehr selten.
+- 435 Husson, F. Eloges historiques de Callot. Bruxelles 1766. K1.-40. Mit Portrat und Vignette. Schoner Lederbd. mit Vergoldung. Exenplar auf groBem Papier.Sehr selten.
+- Mit 32 Kupfern.Lederbde.
+- 437 Marmontel. Contes moraux. Paris 1765. 3 Bde. Mit 1 Portrat von Cochin sowie 3 gestochenen Titeln und 23 schonen Kupfern von Gravelot. Halblederbde. mit Vergoldung.Erste Ausgabe.
+- 439 Mercier.Oeuvres dramatiques. Amsterdam et Paris 1776. 4 Bde.Mit
+- 438 Gessner, S. Oeuvres completes. Paris 1807. 3 Bde. Mit Titelkupfer und 28 Kupfern von Huot. Getupfte Lederbde. mit Vergoldung.
+- 4 reizenden Kupfern von Marillier. Lederbde. mit Vergoldung.
+- 440 Rousseau,J. j. Oeuvres. Amsterdam 1769. 11 Bde. Mit 7 Titelvignetten, 6 Titelkupfern,2 gestochenen Titeln, 18 Musikkupfern und 14 prachtvollen Kupfertafeln von Gravelot, Eisen und Boily. Lederbde. mit zierlicher Vergoldung von Edelweibbluiten auf dem Rucken. Prachtvolles Exemplar auf groBem Papier; viele der Kupfer in Probedrucken.
+- 441
+- 442 Memoires de Madame de Warens. et de Claude Anet, pour servir de suite aux confessions de J. J. Rousseau. Paris 1786. Mit Portratkupfer. Halblederbd. mit Vergoldung. Sehr seltene erste Ausgabe.
+- Musset-Pathay.Histoire de la Vie et des Ouvrages de Jean Jacques Rousseau. Paris 1821. 2 Bde. Schone vergoldete Halblederbde. Sehr seltene erste Ausgabe.
+- 443 Swift.Voyages de Gulliver.Trad. p. M. Desfontaines. Paris 1762. 2 Bde. 120. Mit 4 reizenden Kupfern von Haussard.Zierlich vergoldete Lederbdchen. Reizendes Exemplar.
+- 444 Batteux. Les peaux Arts, reduits a un meme Principe.Paris 1747. Mit 1 Titelkupfer und 5 reizenden Vignetten von Eisen. Reich vergoldeter Lederbd. Erste illustrierte Ausgabe.
+- 445 La Fontaine. Contes et Nouvelles en Vers. Amsterdam 1776. 2 Bde. Mit Titelkupfer von Le Bas, Portratvignette nach Cochin gestochen von Fessard,2 Titelvignetten und 69 Kupfern i.T. von Cochin. Braune Maroquinbde. mit Ruckenvergoldung, zierlicher Vergoldung auf den Deckeln und Innenkanten, Goldschnitt. Prachtexemplar in tadellosen zeitgenossischen Maroquinbden.
+- 446 Histoire des Naufrages. Paris 1788. 3 Bde. Mit 6 schonen Kupfern
+- von Marillier. Vergoldete Lederbde. Erste Ausgabe. Sehr selten
+- 447 Piron A. Oeuvres. Paris 1758. 3 Bde. Mit Titelkupfer und 6 prachtvollen Kupfern von Cochin. Zierlich vergoldete Lederbde. Erste Ausgabe mit diesen Kupfern.
+- 448 Tressan, Cte. de. Oeuvres choisies. Paris 1787. 12 Bde. Mit geaufs reichste vergoldete Lederbde. Prachtexemplar.
+- 449 Horaz.Opera. Londini aeneis tabulis incidit Johannes Pine 1733. 2 Bde. Mit 2 Titelkupfern,322 Kupfervignetten, 8 ganzseitigen Kupfern sowie 520 gestochenen Textseiten von John Pine. Marmorierte Lederbde.mit Vergoldung. Schones Exemplar der berihmten ganz in Kupfer gestochenen Ausgabe.
+- 450 Beaumarchais.Oeuvres completes. Paris 1809. 7 Bde.Mit schonem gestochenen Portrat und 25 Kupfern von Gautier. Sehr dekorative Halblederbde. mit reicher Vergoldung. Prachtexemplar der sehr seltenen ersten Gesamtausgabe.
+- 451 Moliere.Oeuvres. Paris 1821.6 Bde. Mit 12 Kupfern von Buguet. Rote Maroquinbde.mit dekorativer Vergoldung, Goldschnitt. Prachtexemplar.
+- 452 Allainval. Memoires sur Moliere et sur Madame Guerin sa Veuve. Paris 1822. Halbmaroquinbd. mit Vergoldung. Selten.
+- 2 Bde. 4. Mit 14 schonen Portratkupfern von Picart. Marmorierte Lederbde. mit Intarsien und reichster Vergoldung auf Rucken und Deckeln.Einbande von ungewohnlicher Pracht.
+- 453 Burnet. Histoire des dernieres revolutions d'Angleterre. La Haye 1725.
+- 454 Shakespeare, W. Works. Oxford 1771. 6 Bde. Gr.40. Mit 3 Portrats, 26 Vignetten sowie 36 Kupfern, gezeichnet und gestochen von Gravelot. Halblederbde. mit Vergoldung. Die schonen Kupfer in tadellosen Abdrucken.
+- 456 Ottley, W. Y. Italian School of Design, being a Series of Facsimiles by the most eminent Painters and Sculptors of Italy. London 1823. Folio. Mit 1 Extraportratkupfer, 13 Kupfern i. T.; davon 2 in 3 Zustanden sowie 72 Kupfertafeln; davon 43 in verschiedenen Zustandsdrucken. Dunkelblauer, reichvergoldeter Maroquinbd. mit reichster Rickenvergoldung und Spitzenborduren auf den Deckeln.Goldschnitt.
+- 455 Boileau. Oeuvres. Edition dediee au Roi. Paris, Pierre Didot lAiné, 1819. 2 Bde. Folio. Mit 9 Kopfvignetten von Fortin und Girardet. Dunkelviolette Maroquinbde. mit reichster Ruckenvergoldung, breiten Spitzenborduren auf den Deckeln, Doubiure aus Maroquin und Moireseide, Goldschnitt. Fursten ausgabe; eines von 125 numerierten Exemplaren. Von groBter Pracht.
+- 457 Serie degli uomini illustri nella pittura,  scultura e architettura con i loro elogi e ritratti. Firenze 1769-1776. Mit 1 Titelkupfer in Aquatinta sowie 301 schonen Portratkupfern. Marmorierte Lederbde. mit zierlicher Vergoldung. Sehr dekoratives Exemplar.
+- 458 Grose,Fr. Antiquities of Ireland. London 1797. 2 Bde. Folio. Mit 2 Titelkupfern, gestochenen Titeln und 266 schonen Kupfertafeln. Rote Maroquinbde.mit dekorativer Vergoldung. Prachtexemplar auf groBem Papier.
+- 459 Choix de Gravures a l'eau-forte de la Galerie de Lucien Bonaparte. Londres 1812.Folio. Mit 142 radierten Tafeln. Hochst dekorativer reich vergoldeter Maroquinbd.mit Goldschnitt. Prachtexemplar.
+- 460 Les Francais peints par Eux-memes.Paris 1840. 9 Bde. 40. Mit 8 gezeichneten Titeln, 407 Holzschnitt-Tafeln sowie 1331 Holzschnitten i. T. von Daumier, Gavarnis, Monnier u.a. Halblederbde. mit Vergoldung.E Erste Ausgabe des berihmten Werkes. Sehr schones ganz vollstandiges Exemplar.
+- 461 Gavarni. Masques et Visages. Paris o.J. Folio. Mit einigen Holzschnitten i. T. sowie 70 prachtvollen ganzseitigen Lithographien von Gavarni. Original-
+- Leinwand.
+- 462 Le Sage. Gil Blas. Vignettes par Jean Gigoux. Paris 1836. In 2 Leinenbden.
+- 463 Balzac. Contes Drolatiques. Paris 1855. Mit Holzschnitten von Gustave
+- Doré. Halblederbd. mit dekorativer Vergoldung.Erste Ausgabe mit den berihmten Holzschnitten von Dore. Sehr schones Exemplar. Sehr selten.
+- 464 La Fontaine. Fables. Paris 1839. Mit 240 Holzschnitten von Grandville.
+- Grine Lederbde. mit reicher Vergoldung.
+- 465 Grandville.Un autre Monde. Paris 1844. Mit 39 handkolorierten Holzschnitt-Tafeln u. zahlreichen Holzschnitten i. T. von Grandville. Halbmaroquinbd. Schones Exemplar der ersten Ausgabe.
+- 466 Prévost, Abbé. Histoire de Manon Lescaut et du Chevalier Des Grieux. Mit Radierungen, farbigen Tafeln und Holzschnitten von M. Leloire. Brauner
+- Maroquinbd. mit Vergoldung. Schones Exemplar.
+- 467 Uzanne. L'Ombrelle. Le Gant. Le Manchon. Paris 1883. Mit farbiger
+- Titelvignette, 13 Vignetten sowie 68 farbigen Radierungen i. T. von Avril. Griner reich verzierter Maroquinbd. Erste Ausgabe.Prachtexemplar.
+- 468 Bulwer. Pilgrims of the Rhine. gabe des beruhmten Romanes.
+- London 1834. Mit Titelkupfer, gestochenem Titel, 11 Vignetten und 14 schonen gestochenen Tafeln nach Roberts. Gruner Lederbd. mit reichster Vergoldung, Goldschnitt. Erste Aus-
+- 469 Milton. Poetical Works. London 1842. Mit Portrat und gestochenen Tafeln
+- nach Turner. Prachtvoller dunkelvioletter reich vergoldeter Maroquinbd.
+- 470 Dickens. Pictures from Italy. London 1846. Roter Halblederbd. Sehr seltene erste Ausgabe.
+- 471 Dickens. Master Humphrey's Clock. London 1840-1841. 3 Bde. Gr.80.
+- Mit Holzschnitten von Cattermole und Browne. Halblederbde. mit Vergoldung. Erste Ausgabe des berihmten Romanes.
+- Gruner Maroquinbd. mit reicher Vergoldung und Wappen auf den Deckeln. Goldschnitt. Erste Ausgabe dieser Illustrationen.
+- 472 Shakespeare. Works. London 1842.1 Mit Holzschnitten von W. Harvey.
+- 473 Shakespeare. Plays. London 1858. 3 Bde. 40. Mit gestochenem Portrat und zahlr. Holzschnitten von John Gilbert.Grune reich vergoldete Halblederbde. Schones Exemplar der ersten Ausgabe dieser Illustrationen.
+- 474 Ten nyson. Poems. London 1864. Mit zahlreichen Holzstichen von Millais,
+- Cheswick u. a.Violetter reich vergoldeter Maroquinbd. mit Goldschnitt. Erste illustrierte Ausgabe. Prachtexemplar.
+- 474a KLEIST, Heinrich von. Das Kathchen von Heilbronn. Erstausgabe. Berlin
+- 1910.Hlbfrzbd.
+- 474b VOLTAIRE. Oeuvres completes. Aux deux Ponts chez Sanson &amp; Companie. 1791. Band 1 bis 99 (Band 89 fehlt).
+- 475 11 Vaticano. Descrito ed illustrato da E. Pistolesi. Rom 1838. 8 Bde.
+- Gr.Folio.Mit 853 Kupfern von Th. de Vivo. Reich vergoldete Halbmaroquinbde. mit Goldschnitt. Das groBte und kostbarste Werk, das je iber den Vatikan erschienen ist.
+- 476 Nagler. Kunstler-Lexikon. 25 Leinenbde.
+- 477 Konvolut: Div. englische Romane.
+
+## GRAPHIK UND GEMALDE ALTER MEISTER
+
+## (Nr. 478-628)
+
+- 478 CRISPIN DE PASSE (?). Karikatur auf die Halskrause. Kupferstich um 1650. 28,5x20.
+- 480 DUSART. Le Goust." Schabblatt, von Gole. 25x18.
+- 479 DUSART.Maart." Schabblatt, Probedruck.21,5x15,5.
+- 481 DUSART.L'oute." Schabblatt, von Gole. 25x17,5.
+- 482 BERCHEM, N. 4 Bl. Tierstuicke. Kupferstiche. Je 11,5x17.
+- lehre.Kupferstich.27x38.
+- 485 BOTH, JAN. 3 Bl. Landschaften. Radierungen. Je 19x27.
+- 484 VISCHER, N. Hirtenszene, nach Berchem. Kupferstich. 28x37,5.
+- 486 GUARDI. Venezianische Ansicht. Kupferstich. 31x44. Gestochen von
+- 487 DUSART. Kopster. Radierung, gezeichnet und radiert von Dusart. 24,5x17.
+- Sandi.
+- 488 ALDEGREVER. Der Teufel am Eingang der Holle. Kupferstich. B.47.
+- Pferdekopf mit Schema. B.218.Friher Zustand. Sehr
+- 489 ALDEGREVER. Der barmherzige Samariter. Kupferstich.B.42.
+- 490 BEHAM,H.S. seltenes Blatt.
+- 491 WEYGEL, M. Der reiche Prasser und der arme Lazarus. Hochseltene Holzschnitfolge von 8 Bl., je 34x25, in prachtvollen Abdrucken d. Z., auf Papier mit Reichsadler.
+- Schauspieler Tomoyemon in einer Rolle. Dreifarbenholzschnitt.29x14.
+- 492 SHUN-SHO,KATSUKAWA.
+- 493 SHUN-SHO,KATSUKAWA.
+- 494 KUNIYOSHI 1. Bildnis eines Ringers. Vierfarbenholzschnitt. 35x23.
+- Der Schauspieler Ebizo als Samurai. Vierfarbenholzschnitt.30,5x14.
+- 495 SHIGENAGA. Dame zu Pferd, von einem Mann und Dienerin begleitet.
+- Dreifarbenholzschnitt. 30,5x14.Einer der fruhesten Dreifarbendrucke,von groBter Seltenheit. Aus der Sammlung Jaeckel.
+- 496WILLIAMS.
+- 497 WILLIAMS. Friendly Thumbs. Radierung. 24x35. Altkoloriert.
+- Habit of Flattery. Radierung. 24,5x35. Altkoloriert.
+- 498 WILLIAMS. Taming a Shrew. Radierung. 35x24. Altkoloriert.
+- 499 WOODWARD. First Going alone. Radierung. 34x24. Altkoloriert.
+- 500 GILLRAY. Armed Heroes. Radierung. 25x35,5. Altkoloriert. Besonders schones Exemplar der seltenen Napoleon-Karikatur.
+- 502 GILLRAY. Palemon and Lavinia. Radierung. 26x36. Altkoloriert.
+- 501 GILLRAY. Playing in Parts. Radierung. 25x35. Altkoloriert.
+- 503 GILLRAY. A Cognocenti, contemplating the Beauties of Antique. Radierung.
+- 36x25.Altkoloriert.
+- fashion. Radierung. 23x33. Altkoloriert.
+- 505 ROWLANDSON. Sailors on Horseback. Radierung. 23x33. Altkoloriert.
+- 506 PRY. Modekarikatur auf die Puffarmel. Radierung. 24x34. Altkoloriert.
+- 507 CRUIKSHANK. Modekarikatur. Radierung. 24x36. Altkoloriert. Selten!
+- 508 ANONYMER KARIKATURIST. (Williams.) Nursery of second Childhood. Radierung. 27,5x46. Altkoloriert. Hochst seltene Karikatur auf die unfahigen Minister, die von Ammen abgehalten und trockengelegt werden.
+- 509 CHAM. 18 farbige Karikaturen. 24x21. (Oeuvres nouvelles.)
+- 510 DAUMIER.Robert Macaire Restaurateur. Lithographie. Einseitig bedruckt
+- und in Farben, wie die folgenden.
+- 511 DAUMIER. Robert Macaire Agent d'Affaires. Lithographie. Ebenso.
+- 512 DAUMIER. Robert Macaire Apothecaire. Ebenso.
+- Ebenso.
+- 513 DAUMIER. 4B1. Croquis d'Expression.
+- 514 DAUMIER. 3B1. Histoire Ancienne. Ebenso.
+- 515 DAUMIER. Les Orang-outangs. Ebenso.
+- Von groBter Seltenheit.
+- 516 DAUMIER. .12 Bl. Lithographie. Einseitig
+- Les Representants representes. bedruckt.
+- 517 BLEULER, L.Vue de la Ville de Boppart et du Chateau de IEmpereur. Original-Gouache. 32x48. In altem Goldrahmen.
+- 518 BLEULER, L. Vue de la Ville et du Lac de Zoug vers le Rigi. Gegenstick
+- zu dem vorigen.
+- 519 ALKEN,H. A. Steeple Chase. Komplette Serie von 4 farbigen Kupfer-
+- stichen,je 17x28,5.Gerahmt. Hochst selten!
+- 520 ALKEN, H. Stag Hunting. Komplette Serie von 4 farbigen Kupferstichen,
+- je 20x31.Gerahmt. Ebenfalls hochst selten!
+- 521 ALKEN,H. Horse, Racing. Komplette Serie von 4 farbigen Aquatintakupfern, je 20x30. Gerahmt. Ebenfalls auBerordentlich selten und gesucht!
+- 522 WILLIAMS, CH. Dandis sans-sis-sous. Farbige Modekarikatur. (Radierung.) 25x35.Gerahmt.
+- Reizende Kupfer.37x29.Gerahmt.Pracht-
+- 523 GILLRAY,J. A Voluptary under the horrors of Disquisition. farbige gastronomische Karikatur. exemplar des beruhmten Blattes.
+- 36x30.Gerahmt.
+- 525 ROWLANDSON, TH. Serie von 4 Bl. farbiger Pferdesport-Karikaturen.
+- 10,8x8,8. Prachtvolle farbige Radierungen. Unter Glas.
+- 526 ROWLANDSON, TH. Race-Ground at York. Military Review. 2 Bl. farbige Pferdesport-Kupfer.10,8x18,8. Unter Glas.
+- 527 ANONYME PFERDESPORT-KARIKATUR. Georgey a' Cockhorse. Farbige Radierung. 34,5x26,5.Unter Glas.
+- 528BUNBURY. Symptoms of Rearing. Farbige Radierung. 32,2 x 34,8. Unter Glas.
+- 529 BROWNE, H. K.The Derby Day. Serie von 8 farbigen Lithographien.
+- 31x76. Lithographien von V. Brooks. Ganz komplett, in prachtvollen breitrandigen Abdrucken. AuBerordentlich selten. Gerahmt.
+- 530 CALLOT, J. Volksszene auf dem Marktplatz einer italienischen Stadt. Aquarell.
+- 25x37.Gerahmt.Selten!
+- 531 NIEDERLANDISCHER MEISTER um 1630. Christus wird dem Volk gezeigt. Sepia-Federzeichnung. 28x19. Gerahmt.
+- 532-533 ZWEI GER.AQUARELLE:Blumenstilleben. Feldblumen in einer
+- Steinvase.Gegenstuicke. G.R.72x53 cm.
+- 534 GER. KUPFERSTICH:Napoleon besucht das Grab Friedrich des GroBen. S.-R.
+- 535 GER.KOL. SCHABKUNSTBLATT nach Vivieu gestochen von P.M. Alix: Fenelon.G.-R.
+- C.Pfeiffer: Prinzessin von Lichnowski und Portrat einer jungen Dame. Gegenstuicke. G.-R.
+- 536537 ZWEI GER. SCHABKUNSTBLATTER nach J. Grassy gestochen von
+- 538 GER. HINTERGLASMALEREI:Maria mit Kind. Suddeutsch um 1700. G.R. 30×22cm.
+- 539 ART DES JANUARIUS ZICK: Abraham mit Isaak.Abraham in faltenreichem roten Gewand wird von einem aus den Wolken schwebenden Engel
+- 540 J. M.LEITZMANN (Stuttgart 18. Jahrh.): Fruichtestilleben. Auf einer Tisch-
+- das Schwert entrissen. Holz. G.R. 31x22 cm.
+- platte eine Zinnschussel mit Pfirsichen, Johannisbeeren und Kirschen. Sign. Lwd.S.-R.49x39 cm.
+- Venedig, mit Staffage. Lwd. G.R. 50x70 cm. Abbildung Tafel 2.
+- 541 ANTONIO CANALETTO (1697-1768): Ansicht des Canale grande zu
+- 542 KOLNER MEISTER um 1500: Joseph und Maria, das Christuskind an-
+- 543 DEUTSCH (18. Jahrh.): Obststilleben. Holz. S.-R. 45x43 cm.
+- betend. Ruckwarts Ruinenlandschaft. Auf der Ruickseite Faltenkomposition. Holz.G.R.70x43cm.
+- 544 ART DES DITERICI: Brustbild eines Patriziers mit weiBem Vollbart. Holz. G.-R.23x19 cm.
+- Sign. und datiert. Biedermeier-G.R. 31 x26 cm.
+- 544a AUG. BUCHHOLD (Berlin,datiert 1835):Frichtestilleben. Auf Metall.
+- 545 ULMER SCHULE (um 1600): Maria Verkindigung. Holz. Alter G.-R. 30×25 cm.
+- G.-R. 27x18cm.
+- 546 G. SCHAUK: Abraham und Isak. Sign. und datiert 1790. Holz.
+- 547 SCHULE DES A. VAN OSTADE: Bauer beim Abendinahl, in der Linken einen Romer, in der Rechten eine Scheibe Brot haltend. Holz. G.R. 24×20 cm.
+- 548 SCHULE DES FRANS HALS:Huftbild eines sich auf einen Renaissance
+- sessel stuitzenden Ratsherrn, in der Linken die Bibel haltend. Holz. Schwarzer R. 28×18cm.
+- 549 FLAMISCHE SCHULE (17. Jahrh.): Ausfahrt eines Kardinals. Ruckwarts
+- eine Festung. Aquarell. G.-R. 9x14 cm.
+- 550 FRANZOsISCH (19. Jahrh.): Blumenstilleben. In einer Glasvase Astern und andere Blumen, rickwarts ein Delfter Teller. Lwd. G.-R.130x67cm.
+- 551 NACH BREKELENKAM: Interieur. Vor einer Mutter, die das Kind nahrt, Gratulanten.Holz.Schwarzer R.40x32 cm.
+- 552 KREIS DES BAKHUIZEN: Marine.Dreimaster auf hoher See, un diesen verschiedene Fischerboote. Ruckwarts ebenfalls ein Dreimaster, der Kiste entgegenfahrend. Lwd. Schwarzer R. 60x75 cm.
+- 553 J.VAN GOYEN zugeschr.: Vor dem Antwerpener Festungsturm Fischer auf der Schelde bei der Arbeit. Ruckwarts verschiedene Segelboote in Fahrt. Holz.G.R.58x88cm.
+- 554 ITALIENISCHE SCHULE (15. Jahrh.):Halbfigur eines Apostels in Landschaft,
+- in der Linken die aufgeschlagene Bibel haltend. Holz. G.R.75x38 cm.
+- 555 BENVENUTO TISIO:Stilleben von Fruchten, Kupfergeraten und Rustungsteilen.Lwd.G.R.89x125 cm.
+- 556 C. SAFTLEVEN zugeschr.: Marine. Die Fischerkutte treibt bei sturmisch bewegter See vor dem Wind der Kuste entgegen. Lwd. Alter G.R. 75x 93cm.
+- G.R.55x21cm.
+- 557 NIEDERRHEINISCHE SCHULE (um 1500): Die trauernde Maria. Vor wild zerklufteter Landschaft.Mit lang herabwallendem, blauem Gewand. Ruckseitig ein Abendmahlstisch, an diesem zwei Krieger in Rustung. Holz.
+- 558 HOLLANDISCHE SCHULE (Ende 17. Jahrh.): Blumenstilleben auf einem mit einer Brokatdecke bedeckten Tisch. Zur Linken und Rechten je eine Delfter Flotenvase.Lwd.G.R.83x72 cm.
+- 559 ART DES A. DE WITTE:Kircheninterieur. Im Mittelschiff einer gotischen
+- Kathedrale verschiedene Gruppen..Lwd. Schwarzer R.77x65 cm.
+- 560 MARTEN DE VOS zugeschr.: Die heilige Cecilie. Die Heilige an der Orgel, zur Linken und Rechten musizierende Engel, links im Hintergrund der Kunstler mit seinem die Flote spielenden Sohn. Lwd. G.R. 54x77 cm.
+- 561 SCHULE DES POURBUS: Brustbild eines jungen Mannes mit Rustung
+- und Spitzenkragen.Lwd.Schwarzer R.57x47 cm.
+- 562 KREIS DES SAFTLEVEN: Wasserlandschaft, zur Linken Ruinen, im Vordergrund reiche figurliche Staffage. Rechts rickwarts ebenfalls Ruinen. Holz. G.-R.52x75cm.
+- 563 ART DES DROCHSLOOD:Jahrmarktstreiben in einer niederlandischen Stadt. Holz.G.R.57x82 cm.
+- 564 KREIS DES H.VERNET:Das Schlachtfeld. Im Vordergrund ein uber ein
+- gefallenes Pferd galoppierender Schimmel. Lwd. G.-R. 25x32 cm.
+- 565 ITALIENISCHE SCHULE (16. Jahrh.): Brustbild der Maria, in der Rechten Lilien haltend. Vor Landschaftshintergrund. Holz. Alter G.R. 45x37 cm.
+- 566 SPIELENBERG: Galante Szene. Ein junges Liebespaar in einer tropischen
+- Landschaft. Sign.und datiert 1665.Holz.G.R.59x44 cm.
+- 567 SANDER: Die drei Grazien. Sign. und datiert. Holz. G.R. 48x38 cm.
+- 568 FRANZOSISCHE SCHULE (18. Jahrh.): Brustbild einer jungen Frau, die
+- Flote blasend. Lwd.G.R.54x43 cm.
+- 569 SCHULE DES PALAMEDESZ: Das Hauskonzert. Holz. G.R. 42x60 cm.
+- 570 ITALIENISCHE SCHULE (17. Jahrh.): Brustbild eines Kardinals. Lwd. G.R.63x48cm.
+- 571 ART DES S. RUISDAEL: Strandlandschaft mit reicher figirlicher Staffage. Links im Vordergrund ein turmartiges Gebaude, auf dem Wasser verschiedene Fischerboote.Holz. Alter G.R. 23x39 cm.
+- 572 SCHULE DES N. BERCHEM: Weidende Viehherde. Lwd. Alter G.R. 46x58cm.
+- 573 NACH MURILLO: Cimona nahrt ihren gefangenen Vater. Lwd. G.R. 44×32cm.
+- 574 RUSSISCHES IKON, gerahmt.
+- 575 NACH OSTADE: Die Bauernschenke. Holz. S.R. 25x20 cm.
+- 576 NACHAHMER DES GAINSBOROUGH:Huftbild einer Dame mit weiBem
+- Chiffonhut. Lwd. G.R. 72x42 cm.
+- 576a OTTO MARSAEUS VAN SCHRIEK GEN. SNUFFELAER:Insektenstill-
+- 577 J. H. RAMBERG zugeschr.: Reiterszenen aus den Turkenkriegen. (Gegen-
+- leben. Lwd. S.R. 46x35 cm.
+- sticke.) Lwd. Schwarzer R. 38x64 cm.
+- 578 SUDDEUTSCHER MEISTER (um 1700): Maria mit dem Christuskind, neben ihr je ein Heiliger. Holz. G.R. 84x85 cm.
+- 579 ITALIENISCHER MEISTER (um 170O): Frichtestilleben. Von rechts naht eine Frau einem Tisch, der mit Friichten, Stoffen, einem Papagei usw. bedeckt ist. Im Vordergrund ein schlafender SchoBhund. Lwd. Holz-R. 88x125 cm.
+- 580 NACH LUCAS CRANACH: Brustbild Melanchthons. Holz. Schwarzer R.
+- 38×25cm.
+- 581 E. VAN DER POEL: Interieur. In einer Scheune verschiedene Ziegen. Zur Rechten von diesen ein Stilleben von Kupfergeraten, einem umgesturzten FaB,
+- 52x62cm.
+- einem Kohlkopf und einem Seefisch. Sign. und datiert. Holz. G.R.
+- Manner, die sich um eine gesturzte Frau bemuhen. Von rechts naht eine alte Frau mit einem Wasserkrug. Sign. Holz. G.R. 40x32 cm.
+- 583 KREIS DES DITERICI: Jesus und Magdalena. Monogr. und datiert. Holz. G.R.24X20cm.
+- 584/85 ART DES BOURGUIGNON: Reiterschlachten.Lwd. S.-R. 42X62 cm.
+- (Gegensticke.)
+- 586 E. ATCHISON (bekannter englischer Tiermaler): Funf verschiedene Hunde-
+- 587 DOMINICUS VAN DER SMISSEN (1704-1760):Ovalbildnis eines Herrn in Allongepericke. Ldw. S.-R. 84X60 cm.
+- kopfe. Monogrammiert. Malpappe. Mahagoni-R. 22X22 cm.
+- 588 ERSTE HALFTE DES 19. JAHRH.: Portrat eines Kindes mit Puppe. Lwd.
+- R.-R.39X32cm.
+- 589 SCHULE DES PH. WOUVERMAN: Reiterszene vor einem Zelt. Holz. G.R.29X42cm.
+- 591 MEISTER DES 17. JAHRH: Bildnis eines Kirchenfursten in reichem Ornat
+- 590 DESGL.:Ahnliche Darstellung. Gegenstuick. Holz.G.R.29X42 cm.
+- mit Stab. Holz.G-R. 38x30 cm.
+- 593 ART DES ROSA DA TIVOLI: Ziegenherde in felsiger Gegend. Lwd. G.-R. 80X143cm.
+- 592 SPANISCHE SCHULE (um 170o): Gefesselter Christus mit Dornenkrone. Lwd.S.R.80X62 cm.
+- 594 BENED. KERN (bohmischer Meister des 18. Jahrh.): Levantinischer Hafen Sehr schones groBes Bild mit zahlreichen Personen und Schiffen. In der Mitte unten vollsign.: Bened. Kern.Lwd. S.-R. 96x129 cm.
+- bei Mondschein. (Ehem. graflich Rantzauischer Besitz.)
+- 595 V. VITRINGA (um 1685): Hollandische Fischerboote auf ruhiger See. Auf einem Pfahl unten links monogramiert. Holz. S.-R. 28x38 cm. (Ehem. Sammlung Baron von Heintze.)
+- 596 C. W. DIETRICH gen.DIETRICY (1712—1774): Portrat eines weiBbartigen alten Mannes in blauem Gewand. Holz.G.R. 25x18 cm.
+- voll bezeichnet. G.R. 21x28 cm.(Ehem. Sammlung Walter Rohde, Altona.)
+- 598 DARSTELLUNG DES 18. JAHRH.: Ruckkehr des verlorenen Sohnes. Lwd.
+- G.R.133x168cm.
+- stellung in farbigem Kolorit. Lwd. S.R. 64x54 cm.
+- 600 NACH TIZIAN (?): Der Kinderkampf auf der Bricke. Holz. S.-R.28x46 cm.
+- 601 JAN PEETERS (1624-1677): Hollandische Segler auf sturmischer See.
+- Kupfer. G.R. 21x33 cm. (Ehem. Sammlung Baron v. Heintze.)
+- 602 PIETER DE MOLYN (16001661): Zahlreiche Reiter vor einer Dorf
+- schanke. Holz. G.R. 38x71 cm. (Ehem. graflich Rantzauischer Besitz.)
+- 603 J.V.D. ULFT (1627-1688): Turmbau zu Babel. Holz. G.R.24x33 cm. (Ehem. graflich Rantzauischer Besitz.)
+- 604 BELLEKIN (um 1600): Stilleben. Totes Geflugel mit Katze auf einer Tisch-
+- platte. Rechts vollsign.: Bellekin 1600. Lwd. S.R. 75x64 cm.
+- 605 W. VAN BEMMEL: Romantische Landschaft bei Gewitler. Mit Staffage.
+- Unten links bezeichnet. Kupfer.G.-R.15x22 cm.
+- 606 SCHULE DES Fr. FRANCKEN:Gefangennahme Christi. Lwd. S-R. 85x61 cm.
+- 607 SPANISCHE SCHULE (um 1700): Bildnis einer Edeldame in Parklandschaft. Lwd.S.R.63x46 cm.
+- S-R.41x56cm.
+- 608 AQUATINTA (Ende 18. Jahrh.): Spazierganger vor einem romischen TORE.
+- 609 SCHULE DES GASPARD DUGHET (gest. 1675 zu Rom): Halienische Landschaft mit Ruinen, am FluB Hirten mit Herde lagernd. Lwd.S.-R 46×59cm.
+- 610 SCHULE DES EMANUEL MURANT (gest. 1700): Meereskuste mit Burg
+- und Siedlung.Lwd. G.-R. 68x59 cm.
+- 611 ART DES RIEDINGER: Hirsche und Rehe im Walde. Holz. S.R. 43×75cm.
+- 612 MALER DES 18. JAHRH.: Bildnis eines graubartigen Pilgers in brauner
+- Kutte mit Pilgerstab.Lwd. G.R. 82x64 cm.
+- 613 SCHULE DES A. VAN DER WERFF (gest. 1722): Auffindung Moses, Figurenreiches, sehr geschickt komponiertes Bild in starkem Kolorit. Lwd.
+- S.-R.82x134cm.
+- 614 SCHULE DES GUIDO RENI: Christuskopf. Lwd. Breiter S.R. 54x44 cm.
+- 615 DESGL.: Kopf einer Heiligen. Gegenstuck. Lwd. Breiter S.-R. 54x44 cm.
+- 616 UM 1700: Der Kindermord zu Bethlehem. Lwd. auf Holz. S.-R. 58x59 cm.
+- 617 UNBEKANNT (18.Jahrh.): Gekronter Mann, graubartig,mit blauem Gewande und Gebetbuch.Holz.G.R. 30x23 cm.
+- 618 HERMANN RIECK:Novembernachmittag in der Elbmarsch. Unten links bez.Holz.Breiter G.R.16x24 cm.
+- 619 ALBERT WIRT (1884): Lachender Mann mit MaBkrug. Unten rechts bez.
+- Lwd.S.-R.45x37cm.
+- 620 V.FINDER: Musikalische Unterhaltung. Rechts unten bez. Lwd. S.R.
+- 33×46cm.
+- 621 H. STEINFURTH (geb. 1822): Selbstportrat des Kunstlers. Links unten
+- monogrammiert. Malpappe. G.-R. 42x32 cm.
+- 622 J. H. BLEULER (1819): Schweizer Gebirgssee. Aquarell. In der Mitte unten
+- vollsign. Brauner R.48x64 cm.
+- 623 UM 1800: Bildnis eines Geistlichen. Lwd. G.R. 80x62 cm.
+- 624 PASTELLBILD (um 1800):Mannliches Portrat. S.R. 46x31 cm.
+- 625 UM 1800:Bildnis eines Geistlichen. 53x40 cm.
+- Zeichnung aquarelliert.
+- 626 G.FERRARI (geb. Bologna 1818):Militartypen.# Unten rechts bez.G.R.25x15 cm.
+
+626a GEGENSTUCK: Ahnliche Darstellung. Unten rechts bez. G.R. 25x15 cm.
+
+- 627 GEGENSTUCK:Ahnliche Darstellung. Unten rechts bez. G.R. 25x15 cm.
+- 628 GEGENSTUCK:Ahnliche Darstellung. Unten rechts bez.G.R. 25x15 cm.
+
+## GEMALDEUND GRAPHIK NEUER MEISTER
+
+(Nr.629-722)
+
+- 629 GER. RADIERUNG von Marcel Robbe: La coiffure. Handsign. G.R.
+- 630 GER. RADIERUNG von Adrian Etienne: Eingeschlafen.Handsign.G.-R.
+- 631 GER. KOHLEZEICHNUNG von Fenner-Behmer:La frileuse.
+- 632 RADIERUNG von A. Zorn: Weiblicher Halbakt. Handsign.
+- 634 DESGL. von A. Zorn: Stehender weiblicher Akt. Handsign.
+- 633 DESGL. von A. Zorn: Liegender weiblicher Akt. Handsign.
+- 635 DESGL. von A. Zorn: Aurora. Handsign.
+- 637 GER. HOLZSCHNITT von Scheller: Stilleben. Handsign. G.R.
+- 639 UNBEKANNT: FluBlandschaft mit Segelbooten und Dampfer. Lwd. G.R.
+- 638 GER. AQUARELL: Wiesenlandschaft, im Vordergrund Schaferpaar. G.R. 49x82cm.
+- 42x98cm.
+- 640 K. SCHONPFLUG: Wasserlandschaft, im Vordergrund Kuhhirt mit Herde. Sign.Lwd.G.R.49x82 cm.
+- 641 L. ADAM KUNZ: Stilleben von Geflugel, Obst, einer Kupferschussel und verschiedenen Romern. Sign.Lwd. S.-R. 105x136 cm.
+- 642 F. VON DEFREGGER: Kopf eines Bauernmadchen. Sign. und datiert
+- 1861.Holz.G.R.36x26cm.
+- 642a TH. RIBOT: Frau mit Hummer. Sign.Lwd. G. R. 53x44 cm.
+- 642b DERSELBE: Stilleben. Sign. Lwd. G. R.40x65 cm.
+- 643 F.M.BUTT: Nymphe im Bade. Sign. Holz. G.R.70x40cm.
+- 644 G. MARSCHALL: Sanft entschlummert.S Sign.Metall. G.R.24×19cm.
+- 645 O.WISNIESKI: Die Abendunterhaltung. Interieur, im Hintergrund Flugel.
+- Sign.Lwd.G.-R.20x27cm.
+- 646 CARL HILGERS: Winterlandschaft. Im Vordergrund zwei Monche vor Klosterruine. Sign.Holz.G.R. 25x26 cm.
+- 647 GER. KREIDEZEICHNUNG von G. Bovy:Dame bei der Toilette. Sign.
+- G.-R.
+- 648 PROF.HUGO VOGEL:Damenbildnis. Sign. Aquarell. G.R. 96x51 cm.
+- 649 CARL HILGERS: Der Fischerjunge. Sign. Holz. G.R. 13x18 cm.
+- 650 UNBEKANNT:Der Nebenbuhler. Lwd. Holz-R. 72x111 cm.
+- 651 C. GUSSOW: Kopf eines Landmadchens. Vor Landschaftshintergrund. Sign.
+- Holz.G.R.39x30cm.
+- 652 GUSTAV MARX: Reiter mit Pferd vor SchloBhintergrund. Holz. S.R.
+- 22×15cm.
+- 653 WERETSCHAGIN: Der Kreml mit Parade vor dem Zaren. Sign.Lwd. G.R.50x103cm. Abbildung Tafel 3.
+- 654 L. HOGUET: Blumenstilleben. Bluhende Rosen in einem Ingwertopf. Mono-
+- grammiert. Holz. G.-R. 17x13 cm.
+- 655 MADOU:Kartenspielerszene. Sign.Holz.G.R.43x56 cm.
+- 656 LESSER URY: Grunewaldsee in Vorfruhlingsstimmung. Pastell. Sign. und datiert 96. S.R. 46x36cm.
+- 657 ASTUDIN: Gebirgslandschaft. Im Vordergrund rechts eine durch ein Burgtor
+- ziehende Reisegesellschaft. Sign. Lwd. G.R. 95x72 cm.
+- 658 GER. AQUARELL von C. Breitbach. Tiroler Bauer. Sign. und datiert G.-R.26x18 cm.
+- 659 GER. BUNTDRUCK von C. Breitbach.
+- 660 W. KUHNERT: Der Konigstiger. Sign.und datiert 90.Lwd. G.R. 63×80 cm. Abbildung Tafel 4.
+- 661 D. P. VAN LOKHORST:Die Schafherde. In Flachlandschaft eine grasende Schafherde. Sign. Lwd. S.-R. 38x58 cm.
+- 662 DERSELBE: Kuhe in der Tranke. Ruckwarts Flachlandschaft mit figurlicher Abbildung Tafel 4.
+- Staffage. Sign. Lwd. S.-R. 58x88 cm.
+- 663 B. C. KOEKKOEK (1803-1862): Waldlandschaft. Auf einem Waldweg Rast von umherziehenden Bauern. Zur Rechten ein vor einem Marterl betendes Paar.Lwd.G.R. 80x106 cm. Abbildung Tafel 3.
+- 664 HERM. SEEGER: Lautespielendes Madchen am Strand. Sign. Lwd. G.R. 70x90cm.
+- 665 A.FLAMM: Wascherinnen im Tal bei Tivoli. Sign. Lwd. G.R. 45x35 cm.
+- 666 P. DIEHL: Seestick Vor Terschelling". Sign. Lwd. S.-R. 65x85 cm.
+- 667 E. KUBIERSCHKY: SchloB in verschneitem Gebirgstal. Sign. und datiert
+- 1913.Malp.G.R.17X28cm.
+- 668 FR. BERSCH: Patrizier der Renaissance mit Weinglas. Sign. Holz. G.R.
+- 22×26cm.
+- 669 HENRY JAECKEL: Alpensee. Sign. Lwd. G.R. 42x57 cm.
+- S.-R.26X37 cm.
+- 671 A. RIECK: Reh und Kitz am Wasser. Sign. Aquarell. S.R. 25X35 cm.
+- 672 EDM. BERNINGER: Blick auf Torbole. Sign. Aquarell. S.-R. 17X29 cm.
+- 673 FELIX BORCHARDT (Berlin und Paris 1857-1912): Im Badezimmer. Sign. Lwd. G.R. 123X105 cm. (Ausst. b. Bernheim jeune, Paris 1903.)
+- 674 P. STORTEBEKER (1828-1891): Zwei Kuhe am Seeufer. Abendstimmung, Sign. Aquarell. G.R. 37X51 cim. (Aus der Galerie Weber.)
+- 675 FR. BERSCH: Alter Monch bei der Lektire. Sign. Lwd. G.R. 35X40 cm.
+- 675a H. KNOCHL: Fame Signor". Italienischer Bettlerjunge. Sign. Holz
+- G.R.15x10cm.
+- 675b B. FELGENBERG: Ansicht von Venedig. Sign. Lwd. G. R. 30x45 cm.
+- 676 L. DOUZETTE: Frau auf der Mole. Im Hafen Segelschiff. Sign. und datiert 93.Malp.G.R.25x38 cm.
+- 677 GOTTHARD KUHL: Sagewerk. Interieur. Sign. Malp. G.R. 70x50 cm.
+- 678 CONRAD KIESEL: Junges Madchen. Lwd. G.R. 42x34 cm.
+- 679 H. ZUGEL (?): Schafer, Schafe aus dem Stall treibend. Sign. Lwd. S.-R. 60x70cm.
+- 680 A. VON KELLER: Bauernwirtshaus bei Nacht. Aquarell. G.R. 19x26 cm.
+- 681 L. SPANGENBERG:Griechische Landschaft. Sign. und datiert 73. G.R.
+- 31x60cm.
+- 682 G. VON KUGELGEN:Mannerportrat.Lwd. Alter G.R. 60x50 cm.
+- 683 AENDERLY MOLLER (geb.1863): Blumenstilleben. Kresse. Rechts unten sign. Malp. Schwerer, geschnitzter Holz-R. 41x67 cm.
+- 684 JULIUS REHDER (geb. 1861): Waldinneres. Links ruhende Kinder. Unten
+- rechts sign. Lwd.S.R.97x80 cm.
+- 685O.G.M.:Getreideernte. Malp.S.R.18x32 cm.
+- 686 C. SUHRLAND (1855 bez.): Hundebildnis (Spaniel). Holz. S.-R. 32x23 cm.
+- 687 ANFANG DES 19. JAHRH.: Portrat einer jungen Frau in hellblauem Kleide mit Spitzenjabot. Lwd. S.-R. 39x32 cm.
+- 688 DUSSELDORFER MEISTER (19. Jahrh.): Portrat eines Madchens mit rotem
+- 689 AENDERLY MOLLER (geb. 1863): Stilleben. Auf einem mit weiBem Tuche iberdeckten Tisch blaue Vase mit Schneeballen, Flieder und davor gebreiteten anderen bunten Blumen,Malp. G.R.50x63 cm,
+- Haar.Lwd.G.-R.42x35 cm.
+- 690 DERSELBE: Blumenstilleben mit braunem Krug. Unten links bez. Pastell. G.-R.53x40cm.
+- 691 DERSELBE: Blumenstilleben. Fuchsien in dunkler Vase. Unten rechts bez. Lwd.S.-R.54x54cm.
+- 692 ANTON ASMUSSEN (geb. 1857): Blumenstilleben. WeiBe und rote Nelken. Unten rechts sign. Malp. G.R. 52x63 cm.
+- monogr. Lwd. G.-R. 80x80 cm.
+- 693 MONOGRAMMIERT (1895):Garten, von Hausern umgeben. Unten links
+- 694 J. KREZZER (1899): Abendstimniung im Hafen von Ostende. Links unten bez. GroBes Aquarell.Breiter, grauer R.76x119 cm.
+- 695 S. FUKAYA: Japanische Gebirgslandschaft mit Hauschen und Figuren. Unten rechts bez. Aquarell. Brauner R. 32x49 cm.
+- 696 UM 1840: Bauernhitte im Walde.Lwd. Brauner R. 43x59 cm.
+- 697 L. LANCKOW: Selbstportrat des Kuinstlers mit Schlapphut. Unten rechts
+- bez.Malp.S.R.40x29cm.
+- 698 M. BODTKER: Supraporte. Fruchtstilleben. (Apfel, Birnen, Kirschen usw.) Unten rechts bez.Lwd. G.R.59x110cm.
+- 699 A. HELLER (geb. 1847): Interieur. Blick in eine geoffnete Stube. Links unten bez.Lwd. Schwerer R.65x52 cm.
+- 700 F.NEBEL (1877):Portrat einer jungen n Dame in LebensgroBe. Unten rechts bez.Lwd.G.R.135x102 cm.
+- 701 PROF. HUGO VOGEL: Bildnis eines jungen Mannes. Unten rechts bez. Lwd.S.-R.41x33cm.
+- 702 CARL SCHEIMERT (geb. 1791 in Dresden): Sachsisches Militar bei MeiBen.
+- Unten rechts bez.Malp.G.R. 24x30 cm.
+- 703 DERSELBE:Ahnliche Darstellung. Lwd. G.R. 24x30 cm.
+- 704 ADOLF MOSENGEL (18371885):Garten der Gebr. Gensler am Dragoner-
+- stall. Links sign.: Mosengel 1853. Lwd.S.R. 58x49 cm.
+- 705 JOSEF WENGLEIN: Aus dem Isarlochmus (bei Tolz). Kohlezeichnung mit Kreide. Unten rechts bez. Passepartout in weibem Rahmen. 37x58 cm.
+- 706 ARTHUR ILLIES (geb. 1870): Stilleben". Schale und Vase mit Bluten-
+- dolden am Fenster.Brauner R. 60x45 cm.
+- 707 JULIUS SIMMONDS (1913):Interieur. GroBmutter im Sessel mit Enkelkind. Unten rechts sign. Lwd. G.R.49x40 cm.
+- 708 M. BODTKER: Supraporte. Frichtestilleben. Rechts unten sign. Lwd. S.-R.
+- 50x120cm.
+- 709 THEODOR MARTENS (um 1882):Waldlandschaft mit Gewasser und Angler.
+- Unten links bez.Holz.G.R.43x56 cm.
+- 710 J. L. WENSEL: Doppelbild. Beschneite Tanne.—Palme am Berge. Diese Gemalde sind als Illustration zu Heines Gedicht Nr. 33 im ,Lyrischen Intermezzo" gedacht. Beide bez. Lwd. Breiter Doppel-G.-R. Je 52x32 cm.
+- 711 J. A. SUNDER: Fischerboote auf See. Unten rechts bez. Lwd. G.R.
+- 65x47 cm.
+- 712 A. F. LENTZ (1847): Wassermuhle im Walde. Auf der Rickseite bez. Lwd.G.R.64x85cm,
+- 713 PASTELLBILD (Anfang 19. Jahrh.): Portrat einer Dame. S.R. 33x26 cm.
+- 714 ENGLISCHE SCHULE (Anfang 19. Jahrh.): Ovalbildnis eines Kindes. Lwd.G.R.64x52cm.
+- 715 ART DES DELACROIX:Berittene Araber im Kampfe mit Lowen. Holz. G.R.36x50cm.
+- 716 JULIUS REHDER (geb. 1861): Bauernhaus mit Rasen. Unten links bez. Holz.Brauner R.16x21 cm.
+- 717 DERSELBE: Scheune. Gegenstuck. Holz.Brauner R.16x21 cm.
+- 718 DERSELBE: Schnitter und Schnitterin im Kornfeld. Rechts unten bez. Lwd. G.R.79x60cm.
+- 719 ANTON ASMUSSEN (1889): Winterliche Landschaft mit Stadt im Hinter-
+- grund. Unten links bez. Aquarell. Mahag.-R. 24x34 cm.
+- 720 FR. SCHWINGE (1895): Frau beim Wascheaufhangen. Bleistiftzeichnung
+- schone Qualitat.Unten rechts bez. Mahag.-R.56x34 cm.
+- 721 MARTIN FEDDERSEN: Mondlandschaft bei Kucknitz.Unten rechts bez.
+- Malp.S.-R.37x45cm.
+- 722 H. DIRCKING-HOLMFELD:Kinder am FluB in waldiger Landschaft. Rechts unten monogr.39x50 cm.

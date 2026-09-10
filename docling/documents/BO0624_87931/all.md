@@ -1,0 +1,1784 @@
+- I Kochem an der Mosel.
+
+Strabe in dem malerischen, von der Kirche iberragten Dorfchen. Rechts am Toreingang eines Hauses ein Bauer sein Pferd fitternd, dahinter zwei Frauen im Gesprach unter einem Baume. Abschliebende Gebirgszige mit Burgruine.
+
+Links unten bezeichnet: Astudin 78.
+
+- Seel an der Mosel.
+
+Gegenstick zum Vorigen.
+
+Alter malerischer Torbogen; die zu demselben fihrende Strabe mit zweiraderigem Pferdekarren, der von einem Fuhrmann gefihrt wird, staffiert. Rechts kleiner Bach,mit vereinzelten Baumen am Ufer. Im Hintergrunde Gebirgszige.
+
+Links unten bezeichnet: Astudin 78.
+
+## neuerer Meister.
+
+## Olgemalde
+
+## NICOLAI ASTUDIN
+
+Berlin.
+
+O1 auf Leinwand. Hshe 49 cm, Breite 39 cm. Goldrahmen.
+
+O1 auf Leinwand.Hohe 49 cm. Breite 39 cm. Goldrahmen.
+
+## ANTON M. J. gen. ANTONIO BECKER
+
+geb.1846 zu Frankfurt a. M., lebt ebendaselbst.
+
+## 3 Die hohe Mark im Taunus.
+
+Leicht ansteigende,mit Gebisch und vereinzeltem Baumschlag bewachsene Hohe. Herbstliche Laubfarbung. Uber dem Higelricken ein entferntes Haus sichtbar. Rehe und Hirsche eilen dem den
+
+Links unten bezeichnet:A.Becker 1888.
+## Waldidyll. 4
+
+Tiefverschneiter Laubwald;im Vordergrunde vier Rehe,von denen zwei ruhen, eines nach Nahrung im Schnee sucht, das vierte beobachtend steht.Durch die kahlen Wipfel schimmert der rotliche Abendhimmel hindurch.
+
+Links unten bezeichnet:Ant.Becker.
+
+Ol auf Leinwand. Hohe 50 cm, Breite 39.5 cm. Goldrahmen.
+
+## PETERBECKER
+
+geb. 1828 zu Frankfurt a.M., gest.zu Soest 1904.
+
+## 5 Eppstein im Taunus.
+
+Ansicht des zwischen den Taunushohen gelegenen Dorfes mit dem ansteigenden SchloBberg und der alten Burgruine.Im Vordergrunde wellenformiges Wiesengelande von einzelnen Feldern und Obstbaumen durchsetztundmit heimkehrenden Schnittern und Schnitterinnen staffiert.Blauer,von leichten Wolken bedeckter Himmel.
+
+Rechts unten bezeichnet:Peter Becker 1890.
+
+O1 auf Holz. Hohe 6o cm, Breite 73 cm. Goldrahmen. Malerisch und eigenartig erfaBte Ansicht. Eines der wenigen Olgemalde Peter Beckers.
+
+AbbildungTafel I.
+
+Weitere Arbeiten dieses Kinstlers unter Aquarellen.
+
+## WILHELM AMANDUS BEER
+
+geb.zu Frankfurt a.M. 1837, gest.daselbst 1907.
+
+## 6 Getreideernte in Rufsland.
+
+Im Vordergrunde Getreidefelder mit Schnittern und Schnitterinnen;am Erdboden spielende Kinder, rechts Knabe und Madchen mit WassergefaBen. Im Hintergrunde leicht gewellte Flachlandschaft mit Waldungen.
+
+Links unten bezeichnet:W.A.Beer 187o Gouw.Smolensk.
+
+O1 auf Pappe.Hohe 12,5 cm,Breite 32,5 cm.Goldrahmen,
+
+AbbildungTafel 2.
+
+## Heuernte in Rufsland.
+
+Gegenstick zum Vorigen.
+
+Wiesengelande mit Heuwagen und Heu aufladenden Landleuten.Links vorne Bauerin mit Knaben. Im Mittelgrunde die Gutsherrin in einer Troika;ein rechts vorne stehender Bauer mit Rechen griBt sie ehrerbietig.
+
+Links unten bezeichnet: W.A.Beer 70.
+
+AbbildungTafel 2.
+
+Zwei reizend ausgefuihrte Bilder,voll Charakteristik fuir den Meister.
+
+WeitereArbeiten diesesKinstlersunter Aquarellen.
+
+O1 auf Pappe.Hohe 11,5 cm,Breite 33 cm.Goldrahmen.
+- 9
+- O1
+
+## CHR.LEOPOLD BODE
+
+geb.zu Ofenbach a.M. 1831, gest. zu Frankfurt a.M. 1906.
+
+- Die drei Zigeuner, nach Lenau.
+
+Dem bekannten Gedicht Lenaus entsprechend haben sich drei Zigeuner unter einem Baume ge-
+
+Rechts unten bezeichnet:Leop. Bode.
+
+lagert:der eine derselben raucht, der zweite fiedelt, der dritte liegt lang ausgestreckt auf dem Rasen und schlaft. Rechts vor dem letztgenannten liegen auf dem Boden Hut und Wandertasche,an den Baumstamm gelehnt stehen Tambourin und Laute. Links Ausblick in weite Landschaft mit fernen Gebirgszigen.
+
+AbbildungTafel3.
+
+- Liebeswerbung.
+
+Eine mit Naharbeit beschaftigte junge Dame im roten Kleid sitzt im Erker eines durch Portieren flankierten Gemaches. Auf dem Fensterbrett vor ihr steht ein bluhender Rosenstrauch; der eine der beiden Fensterfligel ist geoffnet. In diesem erscheint, auBenstehend, ein junger Mann,welcher eindringlich auf das junge Madchen einspricht.
+
+Rechts unten bezeichnet:Leop. Bode.
+
+WeitereArbeitendiesesKiinstlersunterAquarellen.
+
+Ol auf Hoiz. Hohe 48 cm, Breite 25 cm. Goldrahmen.
+
+## SIMON BUCHBINDER
+
+geb.zu Radzyn (Russ.Polen) 1856,lebt in Berlin.
+
+- Alter Gelehrter. II
+
+In Halbfigur im Profil nach rechts,mit weiBem Haupthaar und Knebelbart. Der Alte ist mit einem kuttenahnlichen,braunen Gewand mit Kapuze bekleidet, auf dem Kopfe tragt er eine hohe schwarze Folianten fest, in dessen Lektire er sich vertieft hat.
+
+Rechts oben bezeichnet:S.Buchbinder.
+
+Ol auf Holz. Hohe 1o cm, Breite 7 cm. Goldrahmen.
+
+Aufs sorgfaltigste durchgefuhrtes, an Miniaturmalerei erinnerndes Bildchen.
+
+## ANTON BURGER
+
+geb. 1824 zu Frankfurt a.M., gest. 1905 zu Cronberg i. T.
+
+- Sachsenhauser Weinlese. I2
+
+Auf der von Weinbergen umrahmten Hohe des Sachsenhauser Berges wurde ein grober Holzbottich aufgestellt, den drei Kinder spielend umstehen. Ein Madchen schuttet soeben Trauben in das GefaB, neben ihr steht eine Frau,welche einen mit Trauben gefuillten Korb auf dem Kopfe tragt; ein pfeifenrauchender Mann mit schwerbeladener Butte nahert sich ebenfalls dem Bottich.Im Mittelplan unter einer schattigen Eichengruppe eine Laube mit drei Zechern, seitlich davon ein scherzendes junges Paar, das von einem kleinen Madchen und einer alteren Frau beobachtet wird. Rechts im Mittelgrunde die Weinberge mit Traubenlesern. Als AbschluB der Szenerie vor den blauen Hohenzigen des Taunus die Stadt Frankfurt mit dem deutlich sichtbaren Dom. Schoner Herbsttag mit leichtbewolktem blauen Himmel.
+
+Rechts unten bezeichnet:A.Burger 1881.
+
+Frisch und naturwahr erfaBte Schilderung.
+
+<!-- image -->
+
+AbbildungTafel4.
+
+Ol auf Leinwand. Hohe 38 cm, Breite 62 cm. Goldrahmen.
+
+Ol auf Leinwand. Hohe 54，5 cm, Breite 78 cm. Goldrahmen.
+## 13 Abend am Rhein.
+
+Aufder Anhohe desVordergrundeswurdeunter einem schattigenEichenbaume aufalten Mauerresten eine Laube errichtet,unter deren schitzendem Dach Tisch und Banke stehen. Eine aus drei Mannern und zwei Frauen bestehende Gesellschaft hat sich hier beim Weine niedergelassen,ein sechster Gast nahert sich soeben aus dem Vordergrund dieser Gruppe.Links im Mittelplan vor der weiter rickwarts gelegenen Burgruine zwei heimkehrende Maherinnen. Rechts weiter Blick in die Rheinlandschaft mit dem Siebengebirge;aus der am diesseitigen Ufer gelegenen Ortschaft,welche vom Kirchturm hoch iberragt wird,haben soeben zwei Manner im Gesprach die Anhohe des Vordergrundes erstiegen. Blauer,von leichten Wolken durchzogener Himmel. Stimmung eines schonen Sommerabends.
+
+Rechts unten bezeichnet:A.Burger 1881.
+
+Sehr schones,im Ton feingestimmtes Bild.
+
+AbbildungTafel4.
+
+## I4 Motiv aus Rom.
+
+Unter einem alten verwitterten Torbogen haben Gemise- und Fischhandler ihre Verkaufsstande aufgeschlagen. Ein Maultiertreiber, ein Monch,Frauen und Kinder beleben die schmale Gasse; die eng aneinandergerickten, durch mehrere Torbogen im Mittelgrunde verbundenen Hauser lassen nur ein kleines Stick tiefblauen Himmels durchscheinen. Auf den Vordergrund und die kahle Mauerfassade fallt helles Sonnenlicht.
+
+Links unten bezeichnet:1881.
+
+O1 auf Leinwand. Hohe 745 cm, Breite 61 cm. Goldrahmen.
+
+Kiunstlerisch mit groBtem Reiz und Geschick durchgefuhrtes Motiv, prachtig in der Behandlung der Lichtwirkung. Nach zuverlassigen Angaben das einzige ausgefihrte groBere Bild, das Burger damals von seiner Italienreise nach Hause brachte.
+
+Abbildung Tafel 5.
+
+## 15 Mondlandschaft in der Art des Ae.van der Neer.
+
+Den Vordergrund des Bildes nimmt der von zwei Booten belebte FluB ein, der sich in geradem Laufe dem Hintergrunde zu zieht. Am linken Ufer stehen hochgiebelige Bauernhauser mit einzelnen erleuchteten Fensterscheiben.Das rechte flache Rasenufer wird von einigen hohen Baumen flankiert, verbindet eine Bruicke mit einfacher Bogenspannung die beiden Ufer des Flusses,in dessen Wasser sich der aus dunklem Nachtgewolke hervorbrechende Mond hell wiederspiegelt.
+
+Rechts unten bezeichnet:v.N.—A.Burger 1881.
+
+O1aufLeinwand.Hohe 28 cm,Breite 36,5 cm.Goldrahmen.
+
+Geistvolle Schilderung eines van der Neerschen Nachtmotives in Burgers charakteristischer Malweise.
+
+Abbildung Tafel9.
+
+## 16 Nach dem Treiben.
+
+Verschneiter,ansteigender Weg,beiderseits von dichtem Laubwald flankiert.Links am Wegrand in Klaftern aufgeschichtete HolzstoBe.Jager mit Hunden waten durch den tiefen Schnee dem erhoht gelegenen Sammelplatze zu, auf dem sich bereits zahlreiche Jagdkameraden und Treiber zusammengefunden haben. Durch die kahlen Aste ist der von grauen Schneewolken bedeckte Himmel sichtbar.
+
+Rechts unten bezeichnet:A.Burger 88.
+
+O1 auf Leinwand, Hohe 98 cm, Breite 78 cm.Goldrahmen.
+
+Trefflich beobachtete und meisterhaft durchgefihrte Darstellung.
+
+AbbildungTafel 6.
+
+O1 auf Leinwand.Hohe 38,5 cm,Breite 63 cm.
+## I7 Schlittschuhlaufer auf der Rodelheimer Wiese.
+
+Schwach ansteigendes, beschneites Ufer mit niederer Steinbricke im Vordergrunde links;iber die von GroB und Klein belebte weite Eisbahn.Die Besucher derselben sind zum groBten Teil noch damit beschaftigt, die Schlittschuhe sich anzuziehen oder sich anziehen zu lassen. Links am Eingang zum Eisplatze sitzt vor einer Weidengruppe unter einem niederen Zeltdache eine Verkauferin,welche Grog feilbietet. Im Hintergrunde erscheint die Silhouette Frankfurts mit dem Dom.Bewolkter Himmel.
+
+Rechts unten bezeichnet: A.Burger 96.
+
+Ol auf Leinwand. Hohe 29 cm, Breite 47 cm. Goldrahmen.
+
+In der Auffassung wie Ausfihrung reizvoll und lebenswahr behandeltes, typisch Frankfurtersches Sujet.
+
+AbbildungTafel7.
+
+## 18 Cronberger Schiefsplatz.
+
+In einer Lichtung des dichten Laubwaldes sind primitive Schankbuden, Tische und Banke aufgeschlagen,um welche sich lebhaftes Treiben entwickelt hat.Unter den vielen hier versammelten Leuten fallt besonders die Gruppe der drei Alten rechts unter der groBen Eiche ins Auge, die sich an einem Tische vereinigt haben,wahrend vor ihnen auf dem Rasen Kinder spielen. Im Mittelgrunde im Mittelgrunde erhebt sich der SchieBstand,von mehreren Schutzen belebt; einer derselben hat soeben seine Flinte abgefeuert.
+
+Rechts unten bezeichnet:A.Burger 96.
+
+O1 auf Leinwand.Hohe 22,5 cm,Breite 43 cm.Goldrahmen
+
+Lebenswahre und reizvoll komponierte Darstellung mit echt Burgerschen Volkstypen.
+
+AbbildungTafel7.
+
+## 61 Wirtsgarten in Niederhochstadt.
+
+An dem unter einer Eiche aufgestellten Wirtstische hat sich eine aus Mann, Frau und Kind bestehende Familie niedergelassen.Ein Bauernmadchen bringt soeben ein Glas Wein herbei. Im Mittelplan zwischen Baumschlag das einfache Wirtshaus, links ein Zaun,hinter demselben eine Frau mit Kuh. Im Hintergrund dichter Wald. Spatnachmittags-Stimmung.
+
+Links unten bezeichnet:A.Burger 97.
+
+O1 auf Holz. Hohe 20,5 cm, Breite 27 cm. Goldrahmen.
+
+Die folgenden neun Gemalde bilden einen fir Burger sehr charakteristischen Zyklusvon malerisch erfaβten,feingestimmten Taunus-Motiven:
+
+## 20 Heimkehrende Holzleserinnen im Falkensteiner Wald.
+
+Eine Frau, ein Bindel Holz auf dem Kopfe,ein zweites unter dem Arme tragend,hat die Wald lichtung betreten. Ein kleines Madchen folgt ihr,wahrend zwei altere Begleiterinnen am Waldrande sichtbar sind. Die flatternden Gewander der Frauen deuten auf Herbststurm.Bewolkter,von der Abendsonne geroteter Himmel.
+
+Rechts unten bezeichnet:A.Burger 95.
+
+O1 auf Holz. Hohe 16 cm, Breite 23,5 cm. Goldrahmen.
+
+Auf der Ruckseite von Burgers Hand notiert:Falkensteiner Wald, heimgehende Holzleser (?).
+## 21
+
+## Abendlandschaft bei Schonberg.
+
+Die Szenerie teilt ein schmaler Bach, dessen rechtes Ufer von dichtem Laubwald bestanden ist. Auf dem linken Ufer ein niederes Haus mit erleuchteter Fensterscheibe;ein Mann eilt demselben zu. Im Hintergrund Gestrauch,zwischen welchem sich der Bach verliert. Am blauen Abendhimmel zwischen leichtem Gewolk der Mond, dessen rotliche Scheibe sich im Wasser des Baches spiegelt.
+
+Hohe 16 cm,Breite 21 cm. Goldrahmen.
+
+Rechts unten bezeichnet:A.Burger 95.
+
+Auf der Ruickseite von Burgers Hand notiert: Mondaufgang bei Schonberg.
+
+## 22 Strafse bei Mammolshain.
+
+Zwischen sparlichem Wiesenland und einer leicht ansteigenden Anhohe fihrt die StraBe,welche mit Bauernfrau mit Kuh staffiert ist. Links versperrt ein baufalliger Zaun,rechts ein Hugel mit Baumgruppe den Blick in den Hintergrund. Bewolkter Himmel, Sonnenuntergang. Herbststimmung.
+
+Links unten bezeichnet: A. Burger 97.
+
+Ol auf Holz. Hohe 175,Breite 23,5 cm. Goldrahmen.
+
+Auf der Rickseite von Burgers Hand bezeichnet:Neuenhainer Weg von Mammolshain aus.
+
+## 23 Motiv aus dem Cronberger Schlofshof.
+
+Zwei alte Frauen, die eine derselben geht mihsam auf einen Stock gestitzt,verlassen durch den Links vor der Kirchenfassade ein Baum mit breitem, gruinendem Geaste; rechts im graugetinchten ausHolzgezimmerten schitzendenVorbau die SchloBkirche,deren schmales,niederes Portal offensteht. Mauerwerk eine Ture,zu welcher mehrere Steinstufen fuhren.
+
+Links unten bezeichnet: A. Burger 97.
+
+O1 auf Holz. Hohe 16 cm,Breite 19,5 cm. Goldrahmen. Auf der Ruickseite von Burgers Hand notiert:,Cronberger Kirche im SchloBhofe.
+
+## 24 Kleines Bauernhaus in Oberhochstadt.
+
+Links von der LandstraBe hinter einem Bretterzaun, von einem Eichbaum mit sparlichem Blatterkehrende Bauerin mit Kind. Spatherbststimmung. Blauer, von leichten Dunstwolken iberzogener wuchs iberragt,niederes Bauernhauschen. Rechts leicht ansteigender Wegrand. Auf der StraBe heimAbendhimmel mit untergehender Sonne.
+
+Links unten bezeichnet: A. Burger 97.
+
+Ol auf Leinwand. Hohe 22 cm,Breite 18,5 cm. Goldrahmen.
+
+Auf der Ruckseite von Burgers Hand notiert: Oberhochstadt, am Bach.
+
+## Motiv bei Schonberg. 25
+
+Zu dem im Mittelplan rechts liegenden,aus zwei einstockigen Bauernhausern bestehenden Gehofte fuihrt eine StraBe,welche von links kommend sich um den in der Mitte der Szenerie stehenden Eichbaum schlangelt. Eine Frau mit Kind eilt dem einen der beiden Hauser zu,aus dessen geoffneter Ture heller Lichtschein dringt. Links ansteigender StraBenrand mit Baumschlag. Blauer Abendhimmel, Sonnenuntergangs-Stimmung.
+
+Rechts unten bezeichnet:A.Burger 98.
+
+O1 auf Holz. Hohe 18 cm, Breite 23,5 cm. Goldrahmen.
+
+Auf der Rickseite von Burgers Hand notiert:,Schonberger Hauschen am Hohlweg."
+## 26 Alt Cronberger Interieur.
+
+Alte Scheune eines Bauernhauses mit zerstreut umherliegenden und -stehenden landlichen UtenTure erscheint ein kleines Bauernmadchen, welches einem Katzchen Brot bringt. Von rechts oben silien: hohes FaB,Holzblock mit eingeschlagener Axt,Korb,verschiedene GefaBe. In der niederen fallt helles Licht in die Scheune.
+
+Links unten bezeichnet:98 A.Burger.
+
+Ol auf Leinwand. Hohe 2o,5 cm, Breite 2I cm. Goldrahmen.
+
+Auf der Ruckseite von Burgers Hand notiert:Alt Cronberger Interieur.
+
+## Motiv aus dem Schonberger Wald. 27
+
+In der Waldlichtung,links von einem vereinzelt stehenden Baum,hat sich ein Holzfaller vor einem hochaufgeschichteten HolzstoB niedergelassen und einen Kessel iber ein Feuer gestellt. Ein kleiner Knabe liegt zu seiner Linken. Rechts vor dieser Gruppe steht ein Forster mit seinem Hunde.
+
+Links unten bezeichnet:A.Burger 98.
+
+Ol auf Leinwand. Hohe 22 cm, Breite 18 cm. Goldrahmen.
+
+Auf der Rickseite von Burgers Hand notiert:Motiv Schonberger Wald Forster mit Holzmacher. AbbildungTafel 8.
+
+## 28 Heimkehrender Jaeger.
+
+Links von der LandstraBe herbstlich gefarbter Laubwald,rechts am StraBenrand vor dichter Baumgruppe ein einstockiges Bauernhaus mit Holzdach. Ein Jager, auf seinen Stock gestuitzt und von einem Hunde begleitet, schreitet dem Hintergrunde zu.
+
+Links unten bezeichnet: A. Burger 98.
+
+O1auf Leinwand. Hohe 22 cm,Breite 18 cm.Goldrahmen.
+
+Auf der Rickseite von Burgers Hand notiert: Motiv aus Cronberg.
+
+Weitere Arbeiten des Kinstlers siehe auch unterHeinrich A.V.Hofrmann und unter Aquarellen.
+
+## H.BUTTNER
+
+Munchen.
+
+## Ein Liebespaar aus der Rokokozeit.
+
+Rechts vor einem Baumstamm haben ein Herr und eine Dame auf einer Steinbank Platz genommen. Pferd und Hund des Kavaliers haben sich dieser Gruppe genahert; die Dame hat nachdenklich die Linke auf den Kopf des Hundes gelegt.Herbstlich gefarbter Laubwald zieht sich rechts dem Hinter- grund zu.
+
+Rechts unten bezeichnet:H.Bittner,Minchen.
+
+O1 auf Holz. Hohe 16 cm, Breite 25 cm Goldrahmen.
+
+## ALEXANDRE CALAME
+
+geb.zu Vevey 181o, gest.zu Mentone 1864.
+
+## 30 Schweizer Alpenlandschaft.
+
+Im Vordergrunde typische Hochgebirgsvegetation. Uber entwurzelte, geborstene und vom Sturme gebrochene Baumstamme erhebt sich eine machtige dunkle Tanne, deren untere Halfte mit dem oberen Bildrande abschneidet. Als AbschluB, sich vom Mittelplan links in die Tiefe der Szene ziehend, die Gipfelkette des Gebirgsstockes,kahle schneebedeckte Felswande,im Hintergrunde rechts von vollem Sonnenlicht grell beleuchtet. Tiefblauer,wolkenloser Himmel;Hochsommerstimmung.
+
+Rechts unten bezeichnet:A.Calame.
+
+O1 auf Leinwand. Hohe 4o cm, Breite 51 cm. Goldrahmen.
+
+Prachtvolle Schilderung dieser grandiosen Hochgebirgsszenerie. AbbildungTafelIo.
+
+## 29
+## 31
+
+## LUDWIG CORREGGIO.
+
+geb. zu Munchen 1846, lebt ebendaselbst.
+
+## Flufslandschaft mit Tierstaffage.
+
+Rechts im Schatten einer Silberweidengruppe rastet ein Hirte,welcher seine aus vier Kuihen und einem Kalb bestehende Herde zur Tranke gefihrt hat.Ein strickendes Bauernmadchen leistet ihm erdigen Ufer fuihrt von links iber einen mit Rasen und Gestrauch bewachsenen niederen Abhang ein breit ausgetretener Pfad herab. Hohe,zum Teil schneebedeckte Gebirgszige schlieBen das Land-
+
+Gesellschaft.Das Wasser des Flusses ist seicht und verlauft sich rechts in den Vordergrund. Zu dem schaftsbild ab.Blauer,von hellen Sommerwolken durchzogener Himmel.
+
+Links unten bezeichnet:L. Corregio 1882.
+
+Ol auf Leinwand. Hohe 48 cm,Breite 75 cm. Goldrahmen.
+
+## FRANZ VON DEFREGGER
+
+geb.1835 zu Dolsach in Tirol, lebt in Munchen.
+
+## Die Zitherspielerin.
+
+In einer Sennhitte sitzt auf dem Herdrande ein hibsches Tiroler Bauernmadchen,welches die auf ihren Knien liegende Zither spielt. Zu ihrer Linken steht,keinen Blick von dem Instrument verwendend ein kleiner Bauernbursche in der Landestracht mit grinem Hut und Bergstock, sein Kamerad hat sich, nicht minder aufmerksam lauschend, links vorne auf einem Herdstein niedergelassen. Rechts sitzt auf einer Holzbank, dem Beschauer fast den Rucken kehrend,ein zweites junges Madchen, ebenfalls auf das Saitenspiel der Gefahrtin horchend.An der kahlen Wand der Hutte ist rechts ein Loffel- und Tellergestell angebracht; iber dem Herd sind Tucher zum Trocknen aufgehangt, dariber liegt auf Balken aufgeschichteter Holzvorrat.
+
+Links unten bezeichnet:Defregger 78.
+
+O1 auf Leinwand. Hohe 57 cm, Breite 45 cm. Goldrahmen.
+
+Sehr schones,fur den Kuinstler besonders charakteristisches Motiv. In der Durchfihrung und im Kolorit Defreggers besten Arbeiten dieser Art anzugliedern.
+
+Abbildung Tafel II.
+
+## JACOB FURCHTEGOTT DIELMANN
+
+geb.18o9 zu Sachsenhausen bei Frankfurt a.M., gest.1885 ebendaselbst.
+
+## Motiv bei Heimersheim (Hammerstein?).
+
+## 33
+
+Im Vordergrunde ein Bauer, derseine beiden Kuhe zur Tranke fihrt. Im Mittelplane der Szenerie steht ein alter verfallener Torbogen, der den Eingang zu dem Dorfchen bildet, dessen langgezogene, die HauptstraBe der Ortschaft bildende Hauserreihe vom Kirchturm iberragt ist. Von rechts nahert sich eine Ziegenhirtin,ein Kind auf dem Arm und ein Bundel auf dem Kopf,dem Tore. Abendstimmung. Blauer,von leichten Wolken durchzogener Himmel.
+
+Links bezeichnet:J.F.Dielmann.
+
+O1 auf Leinwand.Hohe 375,Breite 33 cm.Goldrahmen.
+
+Liebenswiurdiges und fir den Meister charakteristisches Motiv.Auf der Rickseite des Bildes findet sich die Notiz:Aus dem NachlaB von Jacob Furchtegott Dielmann.
+
+Abbildung Tafel 8.
+
+## 32
+- 34 Abend im Walde.
+
+Bei einem machtigen Baumstamme haben zwei Hirtinnen mit einem kleinen Kinde Rast gemacht.
+
+Ihre dem Vordergrunde zu ziehende Schafherde fillt den Mittelplan des Bildes fast voll aus. Im Hintergrunde in der Waldlichtung niedere Hauser, deren rote Dacher von der untergehenden Sonne grell beleuchtet werden.
+
+Rechtsunten schwer leserlich bezeichnet:J.F.Dielmann 58.
+
+Ol auf Leinwand. Hohe 13 cm, Breite 26 cm. Goldrahmen.
+
+## 35
+
+- Taunusmotiv.
+
+Links dichter griner Laubwald,rechts am Waldrand unter Gebuisch und Hecken ein Haus. Auf der dem Vordergrunde zufuhrenden StraBe,welche mit einer kleinen Huhnerherde staffiert ist,bringen die einfallenden Sonnenstrahlen ein hubsches Widerspiel von Licht und Schatten zustande.
+
+Links unten bezeichnet:J.F.Dielmann.
+
+O1 auf Leinwand.Hohe 19 cm,Breite 24 cm.Goldrahmen.
+
+## WILHELM VON DIEZ.
+
+geb. 1839 zu Bayreuth, gest.1907 zu Munchen.
+
+- 36 Napoleon I. mit seinem Stab.
+
+Im Vordergrund steht ein franzosischer Husar in roter, weiBverschnurter Uniform, welcher zwei Pferde, von denen eines das goldgestickte Sattelzeug des Kaisers tragt, halt. Links im Mittelgrunde sind um eine Baumgruppe zahlreiche Ofiziere versammelt, von denen einer soeben zu Pferde steigt. Rechts steht von rickwarts gesehen der Kaiser in gruinem Uniformrock mit schwarzem Hut;er hat die Hande auf den Rucken gelegt und scheint eine in weiter Ferne aufsteigende Rauchsaule aufmerksam zu beobachten.Hinter ihm stehen zwei Adjutanten,von links sprengt ein berittener Offizier in gestrecktem Galopp auf ihn zu.
+
+Rechts oben bezeichnet:Wilhelm v.Diez 1898.
+
+Ol auf Holz. Hohe 17.5 cm, Breite 25 cm. Schwarzer Rahmen.
+
+Ausgestellt in der Jahresausstellung Igo7 Muinchen im Glaspalast.
+
+Abbildung Tafel12.
+
+## FERDINAND FELDHUTTER.
+
+- 37 Bei Tutzing am Starnbergersee.
+
+Links SchloBpark mit Architektur,im Mittelplan Banke und Landungssteg am Seeufer. Der Landungssteg mit angelndem Paar staffiert. Rechts dehnt sich die Seeflache mit dem dunstverhangenen gegeniberliegenden Ufer.
+
+Rechts unten bezeichnet:Feldhitter Ferd.(?).
+
+Ol auf Holz. Hohe 18cm, Breite 35 cm.Goldrahmen.
+
+- 38 Bei Feldafing am Starnbergersee.
+
+Gegenstick zum Vorigen.
+
+Bewaldetes Seeufer links. Glatter Wasserspiegel, der sich nach rechts dem gegeniberliegenden Ufer und dem Hintergrunde zu zieht.Auf dem See ein Boot mit Fischern.
+
+Ol auf Holz. Hohe 18 cm,Breite 35 cm. Goldrahmen.
+## FERD.WILHELM FREUND.
+
+geb.186o zu Schonbach im Dillkreis, lebt zu Frankfurt a. M.
+
+## 39 Winterlandschaft.
+
+Zwischen tiefverschneiten,mit Baumen und Gestripp bestandenen Ufern zieht sich ein schmaler Bach. Abendlicher Winterhimmel mit den letzten Strahlen der untergehenden Sonne.
+
+Rechts unten bezeichnet:Freund.
+
+Ol auf Leinwand. Hohe 23.5 cm,Breite 15,5 cm.Goldrahmen.
+
+## 40 Eschersheimer Wiesen im Fruhjahr.
+
+Weite flache Wiesenlandschaft mit Weidenallee,im Vordergrunde mit blumenpflickenden Kindern staffiert. In der Ferne bilden die Hohenzige des Taunus den AbschluB der Szenerie. Klarer blauer Fruihlingshimmel.
+
+O1 auf Leinwand. Hohe 33,5 cm,Breite 5I cm.
+
+## JAKOB EMANUEL GAISSER
+
+geb.1825 zu Augsburg, gest.1899 zu Munchen.
+
+## Rokoko-Interieur. 41
+
+Um einen mit Speisen beladenen Tisch hat sich eine aus vier Herren bestehende Gesellschaft zusammengefunden,welche es sich angelegen sein laBt, die gefillten Schisseln moglichst rasch zu leeren. Einer der Gaste scheint einer herbeigeeilten Dienerin beziglich einer schlecht zubereiteten Speise Vorwiirfe zu machen.
+
+Rechts bezeichnet:Gaisser.
+
+## Rokoko-Interieur. 42
+
+Reich mit versilberten Stukkaturen dekoriertes Gemach.Um den mit Teeservice,Weinglasern und Flaschen besetzten Tisch ist eine aus fuinf jungen Damen und einem Kavalier mit grauer Allongepericke bestehende Gesellschaft in heiterer Unterhaltung gruppiert. Rechts hinter blauen Portieren, durch welche soeben ein kleiner Mohr mit Tablett das Gemach betritt, ein zweiter Salon sichtbar.
+
+Unten links bezeichnet:E.J. Gaiβer.
+
+Abbildung Tafel I3.
+
+## 43 Rokoko-Interieur.
+
+Gegenstick zum Vorigen.
+
+Teppichbelegtes Gemach mit hohem gruinen Kachelofen. Vor diesem der weiBgedeckte und reich besetzte Tisch,um welchen sechs junge Leute der vornehmen Gesellschaft gruppiert sind. Ein junger Kavalier gibt anscheinend die Erklarung eines geheimnisvollen Vorganges, der sich zwischen den Portieren des Hintergrundes abspielt: Eine altere Frau drickt einer unter der offenen Ture stehenden Dame abschiednehmend die Hande.
+
+Rechts unten bezeichnet:J. Gaiβer.
+
+O1 auf Holz.Hohe 29 cm,Breite 38 cm.Goldrahmen.
+
+Zwei anmutige Rokokoszenen,hibsch in der Behandlung der Details.
+
+AbbildungTafel I3.
+
+O1 auf Holz.Hohe 38,5 cm,Breite 29 cm.Goldrahmen.
+
+Ol auf Holz. Hohe 22,5 cm, Breite 3o cm. Goldrahmen.
+- 45
+- 46
+- 47
+- 48
+
+## EDUARD GRUTZNER
+
+geb.1846 zu GroBkarlowitz bei Neisse,lebt in Minchen.
+
+## Klosterbruder mit Fruhstuck. 44
+
+Ein alter schmunzelnder Monch mit grauem Haar,bekleidet mit brauner Kutte, grobem blauem Schurz und braunem Kappchen tragt in der Linken einen holzernen Bierkrug,in der Rechten einen Rettig auf einem Zinnteller. Rechts vor ihm steht ein BierfaB. Braungrau getuinchte Wand bildet neutralen Hintergrund.
+
+Links unten bezeichnet:Ed.Gritzner 89.
+
+Charakteristisches, ausdrucksvolles Bild.
+
+AbbildungTafelI4.
+
+## JOHANN CHRISTIAN HEERDT
+
+geb. zu Frankfurt a.M.1812, gest.zu Bockenheim bei Frankfurt a.M. 1878.
+
+## Dorf Tyrol bei Meran.
+
+Unter machtiger, den Vordergrund beherrschender Baumgruppe links Holzbrunnen mit waschender Frau und Bauernknaben,rechts Ziegenhirtin.Im Mittelplan erstreckt sich das armselige Dorfmit der einfachen Kirche. Ausblick in das tiefergelegene,von hohen Gebirgszigen begrenzte Talbecken.Leicht bewolkter Himmel eines heiteren Spatsommertages.Hubsche Abendbeleuchtung.
+
+Rechts unten bezeichnet:J. C.Heerdt 1856 Ffurt a/M.
+
+Ol auf Pappe.Hohe 3I cm,Breite 29 cm.Goldrahmen.
+
+## FR.M.EMMA HEERDT
+
+geb. zu Frankfurt a. M. 1849.Tochter des Malers Johann Christian Heerdt.
+
+- Blumenstuck.
+- Blumenstick.
+
+Auf einer Platte liegen zwei Rosen.
+
+Links oben bezeichnet:E.Heerdt.
+
+StrauB aus Mohnblumen und Reseden,mit violettem Band zusammengebunden.
+
+Rechts unten bezeichnet:E.Heerdt.
+
+Ol auf Leinwand.Hohe 56 cm,Breite 35 cm.Brauner Holzrahmen.
+
+## JOH. ADOLF HOEFFLER
+
+geb.1825 zu Frankfurt a.M, gest. 1898 ebendaselbst.
+
+## Herbstlandschaft.
+
+Leichtgewelltes Gelande. Im Vordergrunde rechts kleiner Wassertimpel, dahinter zwei vereinzelt stehende Birken mit herbstlicher Laubfarbung. Links Waldungen, die sich dem Mittelplane zuziehen. Im Hintergrunde rechts Baumschlag und Gestrauch vor Hohenzigen. Abendstimmung. Mit schweren
+
+Regenwolken bedeckter Himmel.
+
+Links unten bezeichnet:Ad.Hoeffler.
+
+Feingestimmtes Landschaftsbild.
+
+O1 auf Holz. Hohe 30 cm, Breite 38 cm. Goldrahmen.
+
+Ol auf Holz.Hohe 17,5 cm, Breite 31,5 cm. Schwarzer Rahmen
+
+O1 auf Holz. Hohe 40,5 cm, Breite 345 cm. Goldrahmen.
+- 49 Waldlandschaft.
+
+Dichter Laubwald mit reicher Strauch-und Grasvegetation.Durch das Blatterdach der Wipfel fallt voller Sonnenschein auf die kleine Lichtung mit dem schmalen Waldpfad; dieser ist staffiert mit einem Bauern, der soeben auf seinen von zwei Ochsen gezogenen Karren Holz aufladt.
+
+O1 auf Pappe. Hohe 35.5 cm, Breite 29,5 cm. Goldrahmen.
+
+Rechts unten bezeichnet:Hoffmann 69.
+
+Die Staffage dieses Bildes ist von An ton Burger gemalt.
+
+## FR.JAKOB HOFFMANN
+
+Sohn des Vorhergehenden, geb.1851 zu Frankfurt a.M.,gest.1go3 zu Oberursel i.T.
+
+- 50 Flufslandschaft.
+
+Im Vordergrunde flieBt zwischen flachen grinen,von Baumen bestandenen Ufern der FluB,den eben ein Boot mit Passanten durchquert. Eine Steinbricke mit einfacher Bogenspannung fuihrt im Mittelplan des Bildes iber das Wasser einem Gebaude zu,welches vor dichter Waldung gelegen ist.
+
+Rechts im Hintergrunde sind einzelne Bauernhauser sichtbar.
+
+Links unten bezeichnet: Jac.Hoffmann 1880.
+
+## CL.AUGUST HUMBERT
+
+geb.1827 zu Frankturt a.M., gest.1898 ebendaselbst.
+
+- 51 In Gedanken.
+
+Ein junges Bauernmadchen, fast in ganzer Figur, sitzt auf inem Holzstuhle, den Kopf nachdenklich auf die Linke gestitzt. Auf ihrem SchoB liegt ein blauer Strickstrumpf und ein aufgeschlagenes Buch. Rechts neben ihr ein Tisch; auf diesem ein mit Rosen gefuilltes Glas und ein Strickknauel.
+
+Links unten bezeichnet:A.Humbert 1866.
+
+O1 auf Leinwand. Hohe 41 cm, Breite 5I cm. Goldrahmen.
+
+## RUDOLF ALFRED JAUMANN
+
+geb.1859 zu Pilsen,lebt bei Salzburg.
+
+- Pikante Plauderei.
+
+Rokokointerieur. Auf weiBer Sofabank junge Dame und alterer Kavalier in amisanter Unterhaltung. Links oben bezeichnet:R.A.Jaumann Mnchen 83.
+
+O1 auf Holz. Hohe 23 cm, Breite 31,5 cm. Goldrahmen.
+
+## HUGO KAUFFMANN
+
+geb. 1844 zu Hamburg, lebte langere Zeit in Cronberg im Taunus und seit 1871 in Minchen.
+
+- 53 Werbung.
+
+Vor der offenen Ture der Wirtsstube steht, dem Eingange zugewandt,eine hibsche junge Bauernmagd,mit beiden Handen ein blauangestrichenes Waschschaff haltend. Sie sieht lachelnd vor sich nieder;anscheinend ist sie sich nicht ganz klar dariber,ob die Werbung des hinter ihr stehenden Burschen auch ernst gemeint ist. Dieser, ein junger, flotter Jager mit Flinte und grinem Schitzenhut, halt in der Rechten einen gefullten MaBkrug; die Linke hat er, eindringlich auf sie einsprechend, auf die Schulter des von ihm abgewandt stehenden Madchens gelegt. Links vorne Tisch und Bank mit
+
+GefaBen, an der getinchten Wand ein Hirschkopf und ein Heiligenbild.
+
+Links unten bezeichnet:Hugo Kauffmann 92.
+
+Ol auf Holz. Hohe 47 cm,Breite 37 cm. Goldrahmen.
+
+Sehr schones, heiteres Motiv von sorgfaltigster Durcharbeitung.
+
+Abbildung Tafel 15.
+
+- 52
+
+## HEINRICH A.V.HOFFMANN
+
+geb.zu Frankfurt a.M.1814, gest.daselbst 1896.
+- 55
+- 57
+
+## HERMANN KAULBACH
+
+geb.1846 zu Munchen, gest.1909 ebendaselbst.
+
+## 54 Ulrich und Ruth im Walde. (Nach Ebers, Ein Wort.)
+
+Der barfiBige Ulrich fihrt beherzt seine geangstigte Gefahrtin durch den duistern Tannenwald dem Stege im Vordergrund links zu. Ein aus schwarzem Nachthimmel grell aufzuckender Blitz erhoht die
+
+im Waldesdunkel herrschende unheimliche Stimmung.
+
+Ol auf Leinwand. Hohe 94 cm, Breite 70 cm. Goldrahmen.
+
+Links unten bezeichnet:Herm.Kaulbach.
+
+Vorzigliche in Grisaille gehaltene Arbeit, die nachtliche Gewitterstimmung aufs beste charakterisierend. AbbildungTafel16.
+
+## FERDINAND KELLER
+
+geb.1842 zu Karlsruhe,lebt ebendaselbst.
+
+- Paulus rettet Sirona. (Nach Ebers, Homo sum.)
+
+Die an einen Felsen angeklammerte,uiber dem Abgrund schwebende Sirona blickt verzweifelt nach einem Retter aus, der in Gestalt des Paulus soeben aus dem Mittelgrund aufsteigt. Links gewaltige, mit wenig Gestripp bewachsene steile Felswand;rechts schwere Gewitterwolken.
+
+Unten rechts bezeichnet:Ferdinand Keller 1883.
+
+Ol auf Leinwand.Hohe 5o cm,Breite 7o cm. Goldrahmen. Sehr stimmungsvolle,vorwiegend in Grisaille gehaltene Arbeit.
+
+<!-- image -->
+
+- 56 Seestick.
+
+Felsenkiste mit stirmisch anbrandendem Meer. Mit schweren Wolken bedeckter Abendhimmel.
+
+Links unten bezeichnet:T.Koppen 1894.
+
+- Seestick.
+
+Felsenkiste mit gescheitertem Segelboot.Hochgehende bewegte See. Grauer bedeckter Himmel. Links unten bezeichnet:T.Koppen 1887.
+
+Ol auf Leinwand.Hohe 28,5,Breite 45.5 cm.Goldrahmen.
+
+## J.VON KREYFELT
+
+Lebt in Kleinsassen. (Rhon.)
+
+- 58 Abend in Kleinsassen.
+
+Leichtgewelltes Wiesengelande mit Obstgarten vorne rechts;zwischen den Baumen laufen Stricke, an denen Waschesticke zum Trocknen aufgehangt sind. Die Ortschaft zieht sich in einer Windung von links nach rechts, zwischen schonen Baumgruppen tritt die Kirche hervor. Hohenzige als AbschluB der Szenerie. Sommerstimmung. Blauer wolkenloser Abendhimmel; die untergehende Sonne vergoldet die Dacher des Dorfes und die Landschaft des Hintergrundes.
+
+Rechts unten bezeichnet:J.von Kreyfelt 1899.
+
+O1 auf Pappe. Hohe 23 cm, Breite 31 cm. Goldrahmen.
+
+## HERM.W.THEODOR KOPPEN
+
+geb. 1828zu Brake an der Weser.
+## Der Guckkastenmann. 59
+
+## J.KRONBERGER
+
+Geraumige oberbayerische Bauernstube, mit Holztafelung,einer Tuire links,zu welcher Stufen fuhren, und machtigem gruinen Kachelofen. Vor diesem ein Holztisch, auf welchem ein alter Mann seinen Guckkasten aufgestellt hat,um dessen Wunder der aus Frau,Mann und drei Kindern bestehenden, um ihn und seinen Apparat gruppierten Bauernfamilie zu erlautern. Rechts ein Stuhl mit Katze, vor der Holzbank ein aufmerksam beobachtender Hund.
+
+Rechts unten bezeichnet:J.Kronberger.
+
+Ol auf Leinwand. Hohe 78 cm,Breite go cm. Goldrahmen.
+
+## HEINRICH LANG
+
+geb. 1838 zu Regensburg, gest.1891 zu Minchen.
+
+- 60 Pferdestall.
+
+Gepflegte,geraumige Stallung.Im Vordergrunde stehen,von einem Diener bewacht und zum Ausritt gesattelt,ein Fuchs, ein Schimmel und ein Ponny.
+
+Ol auf Holz. Hohe 24 cin, Breite 36 cm. Goldrahmen.
+
+Rechts unten bezeichnet:H. Lang.
+
+Schones,durchgefihrtes Bildchen des geschatzten Pferdemalers.
+
+## JOH.JACOB MAURER
+
+geb.1826 zu Obereschbach in Oberhessen, gest.1887 zu Cronberg i.T.
+
+- 19 Grofse Taunuslandschaft bei Sonnenuntergang.
+
+Dicht mit Gestruipp und prachtigen imposanten Baumgruppen bewachsene Ufer schlieBen den von vereinzelten Felsblocken durchsetzten seichten Waldbach zu beiden Seiten ein. Schones herbstliches Farbenspiel des Laubes.Rechts fuhrt ein schmaler FuBweg die Hohe entlang,staffiert mit Jager mit Hund. Abendstimmung. Durch die Baumgruppen leuchtet die intensive Glut eines prachtvollen Sonnenunterganges, die sich im Wasser des Baches wiederspiegelt.
+
+Rechts unten bezeichnet:Jacob Maurer.
+
+Abbildung Tafel 18.
+
+O1 auf Leinwand. Hohe 14o cm,Breite 182 cm. Goldrahmen. Wohl ein Hauptwerk des Meisters. Grandiose Schilderung der eigenartigen Schonheit des mitteldeutschen Waldes.
+
+## ALBERT MULLER-LINGKE
+
+geb.1844 zu Altenburg, lebt in Muinchen.
+
+- 62
+
+Auf dem verschneiten Erdboden links vorne am Waldrande liegt die aus Hasen,Fuchs,Rehen und Wildenten bestehende Jagdbeute ausgebreitet.Daneben haben sich die Jager mit ihren Hunden und die Treiber frierend um ein kleines Feuer geschart.Etwas weiter zurick wartet ein mit zwei Pferden bespannter Wagen,um das erlegte Wild aufzunehmen.Rechts im Vordergrunde stehen beobachtend zwei kleine Kinder mit einem mit Reisig beladenen Holzschlitten;im Hintergrunde der verschneiten Landschaft ist eine Ortschaft zwischen kahlen Baumen sichtbar.Von dunklen Schneewolken be-
+
+- Nach der Jagd.
+
+deckter Himmel.
+
+Rechts unten bezeichnet:Miller Lingke.
+
+O1 auf Leinwand. Hohe 73 cm,Breite 93 cm. Goldrahmen.
+
+## CARL OCKERT
+
+geb.1825 zu Dresden.
+
+## 63
+
+## Winterlandschaft.
+
+Verschneiter,von vier nach Nahrung suchenden Rehen belebter Waldrand. Rechts weiter Blick auf gleichfalls tiefverschneites Flachland.
+
+Links unten bezeichnet:Ochert.
+
+Ol auf Leinwand. Hohe 41 cm,Breite 57 cm.Goldrahmen.
+## 64 Die erste Pfeife.
+
+Huftbild eines jungen hibschen Burschen mit blondem Haar,rundem Hut mit Gemsbart, schwarzem Rock,karierter Hose und gestreiftem Hemd ohne Kragen.Die beiden Hande hat er in die Taschen seiner Hose vergraben,iber welche eine schwere Uhrkette herabbaumelt. Im Munde halt der schmunzelnde Bursche eine Tabakspfeife aus Weichselholz mit Porzellankopf. Neutraler Hintergrund.
+
+Rechts oben bezeichnet:Friedrich Prolβ 1888Minchen.
+
+Prachtiger oberbayerischer Volkstyp. AbbildungTafel 19.
+
+O1 auf Leinwand. Hohe 55 cm,Breite 38 cm. Goldrahmen.
+
+## ALFRED RETHEL
+
+geb. auf dem Hause Diepenbend bei Aachen 1816, gest. zu Duisseldorf 1859.
+
+## 65 Kaiser Maximilian auf der Martinswand.
+
+Wand festklammernd,auf einem Felsvorsprung,verzweifelnd in die Tiefe blickend. Seine Armbrust steht vor ihm an den Fels gelehnt;mit der Linken halt er sein Barett. Hinter dem Verstiegenen steht, von diesem noch nicht erblickt,der Retter in der Gestalt des Alpenjagers, der soeben die Rechte nach dem Kaiser ausstreckt.
+
+Ol auf Leinwand.Hohe 25 cm,Breite 16 cm.Goldrahmen.
+
+Auf der Rickseite bezeichnet:A R 1839.
+
+## PETER PHILIPP RUMPF
+
+geb.zu Frankfurt a.M.1821,gest.1896 ebendaselbst.
+
+- 66 Das Geheimnis.
+
+Vor einer Gartenmauer sitzen nebeneinander auf einer Bank zwei junge hubsche Madchen. Das eine derselben flistert eben seiner blonden Freundin,welche eine Rose mit beiden Handen halt,ein Geheimnis ins Ohr.
+
+Links unten bezeichnet:Ph.Rumpf.
+
+Ol auf Pappe. Hohe 20,5 cm, Breite 16 cm. Goldrahmen.
+
+## HENDRIK J.SCHAEFELS
+
+geb.zu Antwerpen 1827.
+
+## An der Kirchentire.
+
+Ein Kavalier in der Tracht des XVII. Jahrhunderts hat mit zwei Damen und einem Knaben die Kirche verlassen. Die eine seiner beiden Begleiterinnen wird von einem kleinen Madchen angebettelt, einem Mitgliede der unglicklichen Familie,welche sich aus diesem Madchen,einer Frau mit Saugling und einem alten blinden Manne zusammensetzt und die sich an den Stufen vor der Kirche gelagert hat. Im geoffneten Portale erscheinen zahlreiche Kirchenbesucher.Rechts Blick auf den altertimlichen Platz vor der Kirche, dem ein Landsknecht mit geschulterter Hellebarde zuschreitet.
+
+Rechtsunten bezeichnet:HendrikJ.Schaefels1861.
+
+## 67
+
+## FRIEDRICH PROLSS
+
+geb.1855 zu Dresden,lebt in Munchen.
+## 69 Falstaff.
+
+## CHRISTIAN ADOLF SCHREYER
+
+geb. 1828 zu Frankfurt a. M., gest.1899 zu Cronberg i. T.
+
+## 68 8 Pferdetrieb in der Pufsta.
+
+Ein von zwei berittenen Hirten geleiteterPferdetrupp jagt in rasender Eile iber die Steppe den im Hintergrunde gelegenen Stallungen zu,um diese noch vor Ausbruch des drohenden Gewitters zu erreichen.Der dicht aufwirbelnde Staub wird von der untergehenden Sonne rotlich beleuchtet. Schwere Wetterwolken, scheinbar bis zum Erdboden herabhangend,haben fast den ganzen Himmel bedeckt.
+
+Rechts unten bezeichnet:Ad.Schreyer 56.
+
+Dieses schwarze Gewolk bildet einen scharfenKontrastzu dem hellen Abendhimmel desHintergrundes.
+
+O1 auf Leinwand. Hohe 63 cm, Breite 119 cm. Goldrahmen.
+
+Hochst charakteristisch und kraftvoll durchgefuihrte Schilderung des dahinrasenden Pferdetrupps und der unheimlichen Gewitterstimmung.Brillant erfaBtes Beleuchtungsproblem.Dieses Bild entstand gelegentlich einer Reise durch Ungarn, die Schreyer in Gesellschaft des Firsten Thurn und Taxis unternahm.Bilder mit ahnlichen Sujets finden sich in der Luxembourg-Galerie in Paris. Abbildung Tafel 20.
+
+## ADOLPHSCHROEDTER
+
+geb. 1805 zu Schwedt, gest. 1875 zu Karlsruhe.
+
+Falstaff,als Ritter von unmaBiger Proportionen geschildert,hat sich scheltend zu seinem verdutzt stehenden kleinen Begleiter,dem spateren Heinrich V.,zurickgewendet,der muhsam das machtige
+
+Schwert des berichtigten Kneipenhelden schleppt.Die Szenerie bildet eine StraBe Londons.
+
+O1 auf Holz. Hohe 39 cm, Breite 32 cm. Goldrahmen.
+
+Links unten bezeichnet:18 (Pfropfenzieher)41.
+
+Humorvolles Werk des bekannten Karikaturisten aus den Zeiten der konstitutionierenden Nationalversammlung zu Frankfurt a.M.
+
+## NORBERT SCHRODL
+
+geb. 1842 zu Wien,lebt in Frankfurt a.M.
+
+## 70 Geflugelhof.
+
+Neben einer kleinen Pfuitze liegen und stehen Enten und Huhner.
+
+Links unten bezeichnet:Norbert Schrodl.
+
+O1 auf Pappe. Hohe 12 cm, Breite 16 cm. Goldrahmen.
+
+## ADOLPHSTADEMANN
+
+geb. 1824 zu Munchen, gest.1895 ebendaselbst.
+
+## 71 Winterlandschaft.
+
+Niederes,von einem Bretterzaun umgebenes Bauernhaus unter kahlen Baumen rechts;an demselben fuhrt eine StraBe vorbei, dem im Hintergrunde gelegenen Dorfe zu.Die StraBe ist mit verschiedenen Passanten staffiert. Links vorne Hecke mit verkrippeltem Baumschlag. Verschneite Landschaft, grauer Schneehimmel.
+
+Links unten bezeichnet:A.St.
+
+O1auf Leinwand.Hohe 32 cm,Breite 48 cm.Goldrahmen.
+
+## Winterlandschaft.
+
+Kinder fahren auf Holzschlitten die links von einem Zaune begrenzte StraBe herab. Rechts ein aus mehreren Hausern bestehendes Bauerngehofte zwischen Baumen.Im Hintergrund Dorfmit Kirche. Tiefverschneite Landschaft,der Himmel mit grauem Gewolk iberzogen.
+
+O1 auf Pappe.Hohe 27,5 cm,Breite 19,5 cm.Schwarzer Rahmen.
+
+Links unten bezeichnet:A. Stademann.
+
+## 72
+## 73 Mondlandschaft.
+
+Im Vordergrunde schilfbewachsener See,in dessen Fluten sich die aus schwerem Gewolk hervorbrechende Mondscheibe widerspiegelt.Im Mittelplan leicht ansteigendes Ufer,mit Wanderer staffiert, rechts beginnende Tannenwaldung,im Hintergrund links Haus zwischen Baumgruppen.
+
+Links unten bezeichnet: A.St.
+
+## Frihjahr.
+
+O1 auf Pappe. Hohe 24.5 cm, Breite 16,5 cm. Goldrahmen.
+
+## FRANZ STREITT
+
+geb.1843 zu Brody (Galizien), gest. 1891 zu Munchen.
+
+Flachlandschaft,von vereinzelten,mit jungem Grin belaubten Baumen bestanden. Im Vordergrunde ein hoch mit frisch abgemahtem Grase beladener Schubkarren,auf welchem ein kleines Kind sitzt, das ein junges Bauernmadchen scherzend umarmt. Die linksstehende Mutter, eine jugendliche Bauernfrau, sieht lachelnd zu; sie hat beide Hande in die Hifte gestemmt,mit der einen halt sie die Sichel. Rechts ein Bauernbursche mit roter polnischer Muitze, den Rechen geschultert, der ebenfalls die Kindergruppe betrachtet. Vor ihm ein ausruhender Schaferhund.Den Hintergrund schlieBen weitentfernte Waldungen ab.Mit leichten Dunstwolken bedeckter Himmel.
+
+Links unten bezeichnet:F.Streitt.
+
+## 75 Ein Wintertag in Polen.
+
+Tiefverschneite Flachlandschaft,mit einstockigem Wirtshaus im Mittelgrunde. Rechts vorne ein mit einem Pferde bespannter Holzschlitten,welcher bereit steht,einen nicht mehr fest auf den FuBen stehenden Gast, den zwei Musikanten fuhren,aufzunehmen. Mehrere Frauen sehen dieser Szene be lustigt zu, darunter auch eine Alte,welche eine groBe BaBgeige um die Schultern gehangt hat.Vor dem sches Bauernmadchen,der andere,die Pferde festhaltend,hat sich auf den Stufen des Vorplatzes der Schenke niedergelassen und laBt sich von dem juidischen Wirte Branntwein einschanken. Rechts im
+
+Wirtshause haben zwei Husaren in roter Uniform Halt gemacht; der eine derselben umarmt ein hubHintergrunde das Dorf, am Dorfeingang ein hochgezogener Schlagbaum. Heller Winterhimmel.
+
+Links unten bezeichnet:F. Streitt.
+
+AbbildungTafel9.
+
+O1 auf Holz. Hohe 22 cm, Breite 41,5 cm. Goldrahmen.
+
+## MAX TODT
+
+geb.1847 zu Paderborn, gest.18go zu Muinchen.
+
+O1 auf Holz. Hohe 255 cm, Breite 45 cm. Goldrahmen.
+
+## 74
+
+## 76
+
+## 5 Landsknecht.
+
+In einer einfachen Schenkstube sitzt ein Landsknecht in der charakteristischen Tracht seiner Zeit, das lange Schwert am Bandelier;er halt mit beiden Handen das Bildnis eines Offiziers zu Pferde,das er schmunzelnd betrachtet. Links neben ihm stehen auf der Holzbank ein Steinkrug und ein Weinglas, rechts am Tirpfosten hangt sein gelbes Lederwams.
+
+Links unten bezeichnet: M.Todt 77.
+
+AbbildungTafel I9.
+
+O1 auf Leinwand. Hohe 62 cm, Breite 5o cm. Goldrahmen.
+
+## UNBEKANNT
+
+## 77 Tierstick.
+
+Flachlandschaft mit drei Kihen und melkender Bauernmagd im Vordergrunde. Rechts Baumgruppe hinter Zaun. Im Hintergrund Dorf mit Kirche und Windmuhlen. Schwere,aufsteigende Gewitter- wolken.
+
+O1 auf Holz. Hohe 31 cm, Breite 29 cm.Goldrahmen.
+## 78 8 Tiroler Wildbach.
+
+Zwischen Tannenwaldungen und felsigen Ufern der dem Vordergrunde zuflieBende Bach,im Mittelplan einen kleinen Wasserfall bildend.Greller Beleuchtungseffekt durch den zwischen dunklem Gewolk hervorbrechenden Mond. Im Hintergrund steil ansteigende Gebirgszige.
+
+Ol auf Leinwand. Hohe 56 cm,Breite 69 cm. Goldrahmen.
+
+## 79 Landschaft.
+
+Im Vordergrund Wassertimpel;links ansteigendes Ufer mit Baumschlag,rechts LandstraBe,welche zu der im Hintergrunde gelegenen,zwischen Baumen versteckten Ortschaft fuhrt. Blauer, leichtbewolkter Abendhimmel.
+
+Links unten datiert:94.
+
+## 79a Landschaft.
+
+Gegenstick zum Vorigen.
+
+LandstraBe zwischen leichtansteigenden Wegrandern.Rechts kleiner Wassertimpel vor Baumschlagkulisse. Weiter Fernblick in Landschaft mit Ruine auf Hugel. Blauer,leicht bewolkter Himmel.
+
+O1 auf Holz. Hohe 12 cm, Breite 16 cm. Goldrahmen.
+
+## F.VANDIVERDONCK ()
+
+O1 auf Holz. Hohe 12 cm,Breite 16 cm.Goldrahmen.
+
+## 8o Schafstall.
+
+Im Inneren des Stalles, dessen Fensteroffnung links Ausblick in weite Landschaft gewahrt,befinden sich drei Schafe mit einem Lamm.Im Vordergrunde rechts Hahn und Henne.
+
+Links unten bezeichnet:F.Vandiverdonck (?) p.1879.
+
+Ol auf Holz.Hohe 18 cm,Breite 26 cm.Goldrahmen.
+
+## EUGENE-JOSEPHE VERBOECKHOVEN
+
+geb. 1799 zu Warneton (Westflandern), gest. 1889 zu Bruissel.
+
+## 81 Tierstick.
+
+junger Stier einem Wassertimpel im Vordergrunde zu.Links am Erdboden abgeholzter Baumstamm vor Gestrauch,rechts ansteigendes Wiesengelande. Blauer,leichtbewolkter Himmel.
+
+Links am Baumstamm bezeichnet:Eugene Verboeckhoven.
+
+O1 auf Leinwand, Hohe 57 cm, Breite 71 cm. Goldrahmen.
+
+O1 auf Leinwand. Hohe 58 cm, Breite 69,5 cm.Goldrahmen.
+
+## 82 Tierstuck.
+
+Gegenstick zum Vorigen.
+
+Der Stier obigen Bildes geht mit gesenkten Hornern auf den ihn anbellenden Schaferhund los. Flachlandschaft mit Gestrauch rechts. Im Hintergrunde links weites Wiesengelande mit weidenden Herden.
+## EMIL F.H.VOLKERS
+
+geb.zu Birkenfeld in Oldenburg 1831,gest.zu Dusseldorf 19o5.
+
+## 83 Pferdestick.
+
+Flaches Wiesengelande mit dichter Baumgruppe im Mittelplan links. Im Vordergrund ungezauntes
+
+Reitpferd mit Fohlen.
+
+Links unten bezeichnet:E.Volkers 1886.
+
+O1 auf Leinwand. Hohe 32 cm, Breite 41 cm. Goldrahmen.
+
+## ERNST ZIMMERMANN
+
+geb. 1852 zu Munchen, gest.19o1 daselbst.
+
+## 84 Scherzender Klosterbruder.
+
+Durch die alte gotische Ture hat ein hibsches Bauernmadchen mit Gemuisekorb soeben das Kloster betreten. SelbstbewuBt die Linke in die Hufte stemmend,laBt sie sich von einem beleibten kahlkopfigen Klosterbruder, der,einen Krug in der Linken, sich ihr genahert hat, die Wangen streicheln. Rechts an der kahlen Wand ein altes Gemalde und darunter ein Opferstock mit der Aufschrift:Fir das arme Kloster.
+
+Unten rechts bezeichnet:E.Zimmermann,Minchen.1873.
+
+Ol auf Leinwand. Hohe 58 cm, Breite 44 cm. Goldrahmen. Kostliche humorvolle Arbeit aus der Frihzeit des Meisters.
+
+AbbildungTafel 21.
+## 85
+
+## Aquarelle Meister neuerer
+
+dabei einige Zeichnungen.
+
+## GG.KARL BALLENBERGER
+
+geb.18o1 zu Ansbach, gest. 186o zu Frankfurt a. M.
+
+## Vor der Deutschherrenkirche, Sachsenhausen.
+
+Ein von finf Gewappneten verfolgter Monch hat sich vor das Portal der Deutschherenkirche ge- fluchtet, dessen eine Saule er schutzflehend berihrt. Ein Deutscher Herr, gefolgt von zwei Ordensbridern,ist aus demPortal getreten;die Linke legt er schitzend auf das Haupt des Monches,dieRechte erhebt er abwahrend gegen dessen Verfolger. Im Vordergrunde rechts drei Bauern, welche in angemessener Entfernung neugierig die geschilderte Gruppe beobachten.Im Mittelplan links abschlieBende Architektur mit figurlicher Staffage.
+
+Links unten bezeichnet:18 K B 47.
+
+## ANTONIO BECKER
+
+geb.1846 zu Frankfurt a.M., lebt daselbst,
+
+## 86 Waldlandschaft.
+
+Im Vordergrunde schilfbewachsener Waldtimpel,aufwelchem sich Wildenten tummeln;denselben durchschneidet quer ein abgeholzter Baumstamm.Das Ufer des Gewassers ist mit niederem Gestrauch und herbstlich gefarbten Laubbaumen bewachsen.
+
+Links unten bezeichnet:Ant.Becker.
+
+Aquarellierte Kreidezeichnung.
+
+Weitere Arbeiten dieses Kinstlers siehe unter Olgemalden.
+
+Hohe 44 cm,Breite 32 cm.Schwarzer Rahmen.
+
+Hohe 25 cm, Breite 275 cm.Schwarzer Rahmen.
+## 89
+
+## PETER BECKER
+
+Jedes einzelne Blatt der in dieser Sammlung vereinigten hervorragenden Aquarelle Peter Beckers zu charakterisieren oder zu wurdigen, wurde zu weit fuihren und sei hier nur bemerkt,daB die Worte,welche H.Weizsacker in,,Das Frankfurter Kunstleben im 19. Jahrhundert" diesem,Merian des neunzehnten Jahrhunderts"widmet,auch auf nachstehende Kollektion voll und ganz Anwendung finden. So sagt Weizsacker unter anderem:,Dem stilvoll abgemessenen Vortrag,wienicht minder der altertuimlichen Bildform von Peter Beckers Landschaften,die mit Vorliebe in Gestalt weitausgedehnter Veduten eine kleine Welt fuir sich umspannt, gesellt sich der volle Gefihlsreichtum der modernen romantischen Phantasie und die reizvolle Umdichtung der Wirklichkeit,die ihre standige Begleiterin ist. In den melodisch bewegten Fluchtlinien von Feldern und Waldern,Talsenkungen und Hohen,mit denen er den Oberflachenbau der Erde wie einen lebendigen Organismus aufzeigt,hier an der Silhouette eines alten Stadtchens verweilend, dort den Windungen eines Pfades folgend, der sich in einsame Ferne verliert,in diesen und in wieviel unzahligen Einzeldingen noch, von denen seine Einbildungskraft geradezu iberflieBt, schlieBt sich vor dem inneren Blicke des Beschauers ein liebliches, traumhaftes Weltbild auf, und dieses scheint vollkommener und schoner zu sein als alles,was sonst dem leiblichen Auge sichtbar ist."
+
+geb.1828 zu Frankfurt a.M., gest.1g04 zu Soest.
+
+Fast ausnahmslos tragen samtliche Aquarelle auf dem Passepartout eine von Peter Becker eigenhandig in altdeutschen kalligraphischen Lettern, schwarz mit Gold gehoht, aufs zierlichste ausgefihrte Bezeichnung.
+
+## 87
+
+## Frankfurt im 17.Jahrhundert.
+
+Ansicht des Mainkais mit dem von Soldaten bewachten Schneidwall im Vordergrund links. Auf dem Kai und an den Landungsstellen spielt sich buntes Leben und Treiben ab; der FluB ist von zahlreichen Booten und Schiffen belebt. Rechts schiebt sich eine schmale Landzunge mit Fischerhauschen in das Wasser vor. Im Hintergrunde die alte Bricke mit Brickenmihle,welche nach dem am linken Mainufer sichtbaren Sachsenhausen fuihrt.Uber der Stadt auf dem von leichten Wolken durchzogenen Himmel zwischen Lorbeerzweigen das Frankfurter Wappen mit der Francofurtia, darunter in einem
+
+Spruchband:,Frankfurt a.Main i. 17. Jhdt. gesehen am Schneidwallthurm."
+
+Rechtsunten bezeichnet:Ig P Boo. Hohe 28 cm, Breite 48 cm. Griner Rahmen. Auf dem Passepartout bezeichnet:[,Peter Becker];A;D:1goo, AbbildungTitelumschlag.
+
+## 88
+
+## Frankfurt a.M. im Jahre 1854.
+
+Gesamtansicht des Mainkais mit der Leonhardikirche und dem alten,vom Dome iberragten Saalhof. Im Vordergrunde der von vielen Frachtschiffen und Booten belebte FluB.Am linken Mainufer zwischen grinenden Wegrandern die Sachsenhauser StraBe mit zierlicher figuirlicher Staffage und Pferdeschleppe.
+
+Unten bezeichnet:18PB91. Hohe 13,5 cm, Breite 25 cm. Brauner Rahmen
+
+Auf dem Passepartout bezeichnet:Frankfurt—(Wappenschild mit Adler)—,im Jahr 1854.
+
+Gez.und gem.v.Peter Becker A.D.18gI. Abbildung Tafel 22.
+
+## Sachsenhausen im Jahre 1854.
+
+Im Vordergrunde flieBt der breite Main,iber den die alte Sandsteinbricke mit Brickenmihle fihrt. Rechts am Ufer Sachsenhausen von dem Deutschordenshaus und der Dreikonigskirche iberragt. Im
+
+Der FluB von zahlreichen Fahrzeugen belebt, darunter zwei beflaggte Boote mit lustiger Gesellschaft. Hintergrunde der Oberrader Wald.
+
+Unten rechts bezeichnet:Peter Becker 1891. Hohe 14 cm, Breite 25 cm. Schwarzer Rahmen.
+
+Auf dem Passepartout bezeichnet:Unter dem Frankfurter Adler auf Spruchband:,Sachsenhausen i. Jahr 1854".Darunter:,gez.u. gem. v.Peter Becker.A.D.1891."
+
+Abbildung Tafel 22.
+## 90 Gerbermihle und Wasserhof.
+
+Im Vordergrunde zwischen den Oberrader Gemisefeldern die LandstraBe,welche nach links zum Bahnwarterhauschen der Offenbacher Bahn fihrt.Im Mittelplane erhebt sich hinter dem Bahndamm zwischen Baumgruppen die Gerbermihle,rechts davon liegt in einiger Entfernung,bereits am Bildrande,der Wasserhof. Im Hintergrunde das jenseitige Ufer des Mains mit den Ortschaften Bornheim, Seckbach und Bergen.Reiche figuirliche Staffage im Vordergrunde.
+
+Hohe 31 cm,Breite 46,5 cm.Brauner Rahmen.
+
+Auf dem Passepartout bezeichnet:,[Peter Becker 1894] Gerbermihle u.Wasserhof.
+
+Von der Illme bis zum Rhein,mahlet manche Muehle- doch die Gerbermuehl am Main,ist's worauf ich ziele.
+
+Abbildung Tafel 22.
+
+Goethe an MariannevonWillemer.
+
+Unten bezeichnet:Peter Becker 1894.
+
+## 91 Steinheim a.M.
+
+Links ein FuBweg am.Mainufer.Ein mit mehreren Personen belastetes Boot stoBt soeben vom Ufer ab,um den breiten FluB zu traversieren;an dessen rechtem Ufer liegt Steinheim, dessen Hauser sich im Wasser spiegeln.
+
+Rechts unten bezeichnet:18 P B98.
+
+Auf dem Passepartout bezeichnet:,[Peter Becker 18g8] Steinheim am Main."
+
+## 92 Hochst a. M.
+
+Rechts das BolongaroschloB und die StraBe mit reicher figurlicher Staffage. Im Mittelplan die Justinuskirche. Links der von vielen Booten und Flossen belebte FluB. Im fernen Hintergrunde ist Sintlingen sichtbar.
+
+Rechts unten bezeichnet:19 P B oo.
+
+Auf dem Passepartout bezeichnet:，,[Peter Becker Igoo] Hochst am Ausfluβ der Nied in den Main.
+
+## Motiv aus Friedberg. 93
+
+Reichstaffierte HauptstraBe des altertuimlichen Stadtchens;rechts das ,,Gasthaus zur Wetterau, vor welchem ein Planwagen Halt gemacht hat.Links hinter gruner Baumgruppe die schone alte Stadtkirche sichtbar.
+
+Rechts unten bezeichnet:Ig P B o1.
+
+Hohe 19,5 cm, Breite 12 cm. Gruiner Rahmen.
+
+Auf dem Passepartout bezeichnet:,[Peter Becker Igor]StraβenbildchenzuFriedberg[am Gasthaus zur Wetterau]"
+
+## Wasenberg in Hessen. 94
+
+Flaches iber den Vordergrund sich ausbreitendes Wiesenland mit Waschebleicherinnen;links ein alter Steinbrunnen mit wasserschopfendem Madchen. Im Mittelgrund dehnt sich iber eine niedere Dorfchen aus.
+
+Unten bezeichnet:Peter Becker 1898.
+
+Hohe 38,5 cm,Breite 54 cm.Brauner Rahmen.
+
+Auf dem Passepartout bezeichnet:,[Peter Becker 1898] Wasenberg in Hessen, Schwalmgegend.
+
+Hohe 12 cm, Breite 21 cm. Schwarzer Rahmen.
+
+Hohe 19 cm, Breite 12 cm. Schwarzer Rahmen.
+## 95
+
+## Oppenheim a.Rh.
+
+Von den hoch iber der Stadt gelegenen Weinbergen aus gesehen, mit dem stolzen Bau der Katharinenkirche, der das ganze Stadtbild iberragt. Links im Mittelgrunde auf einer Anhohe die Ruinen der alten Reichsveste Landskrone. Rechts Fernblick auf die Rheinebene.
+
+Unten bezeichnet:18 P B94.
+
+Hohe 10 cm, Breite 17,5 cm. Schwarzer Rahmen.
+
+Auf dem Passepartout bezeichnet:,Peter Becker 1894 Oppenheim.
+
+Abbildung Tafel 23.
+
+## Die Apollinariskirche bei Remagen a. Rh. 96
+
+Auf dem steil in den Rhein abfallenden Felsen liegt die gotisierende viertirmige Apollinariskirche; eine Prozession zieht soeben die zum Flusse fuihrende StraBe herab. Rechts Rheinufer mit Fischerboot.
+
+Links unten bezeichnet:18 P B96.
+
+Hohe 12 cm,Breite 21,5 cm. Brauner Rahmen.
+
+Auf dem Passepartout bezeichnet: ,Peter Becker 1896, die Apollinariskirche zu Remagen am Rhein."
+
+Die folgenden,I2 Ansichten von der Lahn,von Marburg bis Oberlahnstein,geben ein entzickendes Panorama der hiibschesten Punkte des anwechselndenNaturschonheiten so reichen Lahntales.
+
+## Marburg. 97
+
+Die terassenformig gebaute Stadt breitet sich nahezu in einem Halbkreis vom Vordergrunde links nach dem Mittelplane der Szenerie aus.Auf dem Plateau des SchloBberges die alte landgrafliche Burg. Im Hintergrunde flieBt die von einem Boote belebte Lahn, deren Ufer von grunenden Baumgruppen bestanden sind.
+
+Hohe 9,5 cm, Breite 17,5 cm. Schwarzer Rahen.
+
+Auf dem Passepartout bezeichnet:,Peter Becker 1894. Marburg."
+
+## Wetzlar.
+
+Im Vordergrunde links die Stadt mit ihren schlanken,altertimlichen Bauten bis zu dem hohen, das Bild beherrschenden Dom ansteigend. Im Mittelplan die steinerne,rundbogige Lahnbricke, jenseits derselben die Hospitalkirche. Im Hintergrunde der Burgberg mit den Ruinen des alten Kaiserschlosses
+
+Kalsmunt. Schoner Sonnenuntergang.
+
+Rechts unten bezeichnet:18PB94.
+
+Hohe 9 cm, Breite 19,5 cm. Schwarzer Rahmen.
+
+Auf dem Passepartout bezeichnet:,Peter Becker 1894.Wetzlar.
+
+Abbildung Tafel 23.
+
+## Braunfels.
+
+Die Ortschaft,im Mittelplan auf einem Bergkegel amphitheatralisch sich aufbauend,wird von dem reichgegliederten,mit Tirmen und Zinnen bewehrten SchloBbau beherrscht. Im Vordergrunde higeliges Terrain mit huibscher Staffage:Landleute bei der Arbeit. Rechts ein altertimliches Wirtshaus mit zechenden Gasten in dem davor gelegenen Garten.
+
+Rechts unten bezeichnet:18 P B94.
+
+Hohe 9 cm, Breite 19,5 cm. Schwarzer Rahmen.
+
+Auf dem Passepartout bezeichnet:,Peter Becker 1894.Braunfels.
+
+Abbildung Tafel 23.
+
+## 98
+
+## 99
+## 100
+
+## Weilburg.
+
+Auf einem von der Lahn umflossenen bewaldeten Hochplateau erhebt sich das Stadtchen, das der umfangreiche Gebaudekomplex des herzogl. Nassau-Weilburgschen Schlosses mit der SchloBkirche beherrscht. Rechts unten ist die alte steinerne Lahnbricke teilweise sichtbar.Im Vordergrunde das FluBufer mit Badenden.Im Hintergrunde bewaldete Hohenzige als AbschluB.
+
+Hohe 9.5 cm,Breite 18,5 cm. Schwarzer Rahmen. Auf dem Passepartout bezeichnet:,Peter Becker 1894.Weilburg.
+
+Links unten bezeichnet:18 P B94.
+
+## 10I Runkel und Schadeck.
+
+Links das malerisch iber der Lahn ansteigende Stadtchen mit dem aus dem I1. Jahrhundert stammenden Wiedschen Schlob. Im Vordergrunde der FluB mit steinerner Bricke. Schadeck erscheint
+
+jenseits auf steiler Felsterrasse mit den Ruinen der Westerburgischen Veste.
+
+Hohe 9,5 cm, Breite 20 cm. Schwarzer Rahmen.
+
+Rechts unten bezeichnet:18 P B94.
+
+Auf dem Passepartout bezeichnet:Peter Becker 1894 Runkel und Schadeck."
+
+## 102 Dehrn und Dietkirchen.
+
+Rechts auf dem ansteigenden bewaldeten Ufer das alte SchloB Dehrn mit rundem Turm, links im Uber die am' Lahnufer gelegene Ortschaft Eschhofen weiter Blick in das Tal mit den abschlieBenden
+
+Auf dem Hause des Vordergrundes bezeichnet:18 P B 95.
+
+Hohe 9,5 cm,Breite 19 cm.Schwarzer Rahmen.
+
+Auf demPassepartout bezeichnet:,Peter Becker1895DehrnundDietkirchen.
+
+## Limburg.
+
+Auf dem aus dem weiten Talbecken der Lahn aufsteigenden Felsvorsprung der groBartig wirkende, siebentirmige Dom,vor diesem die vielgliedrigen alten Burgbauten der Herren von Limburg. Uber die Lahn fuhrt die aus dem I4. Jahrhundert stammende Bricke zur Vorstadt rechts.Im Vordergrunde links Kapelle mit frommer Prozession. Fernblick in das Lahntal und auf die die Landschaft umschlieBenden Hohenzige des Taunus.
+
+Rechts unten bezeichnet:18 P B 94.
+
+Hohe 9,5 cm, Breite 20 cm. Schwarzer Rahmen.
+
+Auf dem Passepartout bezeichnet:Peter Becker 1894Limburg.
+
+## Diez.
+
+Die hibsch gelegene Stadt wird iberragt von dem ehemaligen Schlosse der Grafen von NassauDillenburg. Dicht neben dem Schlosse die alte Kirche. Rechts vorne die seinerzeit von den Schweden teilweise zerstorte,interessante Lahnbricke,mit Botenfuhrwerk staffiert.Im Vordergrunde rechts Frauen, Wasche bleichend.
+
+Auf dem Passepartout bezeichnet:Peter Becker 1894 Diez.
+
+## 103
+
+## 104
+
+Links unten bezeichnet:18PB94.
+
+Hohe 9,5 cm,Breite 19,5 cm.Schwarzer Rahmen.
+
+## 105 Kloster Arnstein.
+
+Aufwaldigem,steil ansteigendem Felskegel die viertirmige Abteikirche Arnstein mit Kloster.Am
+
+FuBe des Berges die Ruinen der Margaretenkirche.Im Hintergrunde links am Lahnufer das Dorf Obernhof. Rechts vorne abschlieBende Baumschlagkulisse mit lesendem Monch.
+
+Unten etwas nach rechts bezeichnet:18 P B 95.
+
+Hohe 1o cm,Breite 20 cm.Schwarzer Rahmen. Auf dem Passepartout bezeichnet:,,Peter Becher 1895 Kloster Arnstein.
+
+Gebirgsziigen.
+## 106 Schlofs Langenau.
+
+Das alte SchloB mit sehr gut erhaltenem Wartturm und Ringmauern liegt an der Muindung des schmalen Gelbaches in die von bewaldeten Hohen eingeschlossene Lahn. Rechts im Vordergrunde kleine Steinbricke.
+
+Links unten bezeichnet:18 P B95.
+
+Hohe 9,5 cm,Breite 19 cm. Schwarzer Rahmen. Auf dem Passepartout bezeichnet:Peter Becker 1895 Schloβ Langenau.
+
+## 107 Nassau und Scheueren.
+
+Altes sehr hubsch im Talkessel gelegenes Stadtchen, iber welches sich der steilansteigende Burgberg erhebt, den die Ruine der aus dem 12. Jahrhundert stammenden Burg Nassau kront. Links flieBt die Lahn,in einiger Entfernung erblickt man die Ortschaft Scheueren. Im Vordergrunde,am FuBe einer frischbelaubten Anhohe,LandstraBe mit hibscher Figurenstaffage.
+
+Hohe 1o cm, Breite 19 cm. Schwarzer Rahmen. Auf dem Passepartout bezeichnet:Peter Becker 1895 Nassau und Scheueren.
+
+Rechts unten bezeichnet:18 P B95.
+
+## 108 Ober Lahnstein.
+
+Im Vordergrunde der von zahlreichen Dampfbooten, Segelschiffen und Kahnen belebte Rhein;an dessen rechtem Ufer Oberlahnstein mit seinen wohlerhaltenen mittelalterlichen Turmen und dem stattlichen ehemals kurmainzischen SchloB Martinsburg. Rechts Blick in das Lahntal mit SchloB Lahneck.
+
+Rechts unten bezeichnet:18 P B 95.
+
+Hohe 9,5 cm,Breite 18,5 cm.Schwarzer Rahmen.
+
+Auf dem Passepartout bezeichnet:Peter Becker 1895.Oberlahnstein. Abbildung Tafel 23.
+
+## 109 Hadamar im Westerwald.
+
+Im Vordergrunde,links von einer Gartenmauer begrenzt, flieBt der Elbbach, an dessen rechtem Ufer sich die Stadt entlang zieht;im Mittelplan wird dieselbe von dem ehemals firstlichen SchloB iberragt. Durch dichte Baumgruppen fast verdeckt erblickt man links im Hintergrunde die altertimlichen Giebeldacher der Stadt und den Turm der Jesuitenkirche.
+
+Links unten bezeichnet:Hadamar Peter Becker 1879.
+
+## IIO Butzbach in der Wetterau.
+
+Im Vordergrunde die zwischen Wiesen fuihrende Landstrasse mit wandernden Handwerksburschen; rechts vorne Wascherinnen bei der Bleiche. Im Mittelgrunde dehnt sich die von der Kirche iberragte und von Baumen fast verdeckte Ortschaft aus.Sanfte Hohenzige als AbschluB.
+
+Links unten bezeichnet:19 P B oo.
+
+Hohe 11 cm,Breite 19 cm.Schwarzer Rahmen,
+
+Auf dem Passepartout bezeichnet:[Peter Becker I9oo] Butzbach in der Wetterau.
+
+## III Vilbel von Gronau her gesehen.
+
+Langgestreckte Ortschaft mit Kirche auf der bewaldeten Anhohe links. Im Vordergrunde flieBt die Nidda zwischen grinen Ufern. Huibsche figirliche Staffage: Links auf der von der StraBe begrenzten Wiese Bauern bei der Heuernte,heimkehrende Maher, waschebleichende Frauen,rechts eine Ganseherde mit Hirtin.
+
+Rechts bezeichnet:Peter Becker 1895.
+
+Hohe 31,5 cm,Breite 49 cm.Brauner Rahmen.
+
+Auf dem Passepartout bezeichnet:Peter Becker 1895 Vilbel von Gronau her gesehen. AbbildungTafel22.
+
+Hohe 35,5 cm, Breite 44 cm. Brauner Rahmen.
+## I12 Schlofs Mespelbrunn im Spessartwald.
+
+Uber dem von Schwanen belebten Seespiegel erhebt sich das gotische SchloB, dessen Vorderfront sich im Wasser des Sees widerspiegelt. Links Nebengebaude mit Steintreppe. Das SchloB liegt inmitten eines Parkes.
+
+Rechts unten bezeichnet:Peter Becker 1899.
+
+Hohe 35,5 cm, Breite 45 cm.Gerahmt.
+
+Auf dem Passepartout bezeichnet:,[Peter Becker 1899] Schloβ Mespelbrunn in Spessartwald.
+
+## 113 Benediktiner Abtei St. Maria Laach am See.
+
+Die aus einem stattlichen,vieltirmigen Gebaudekomplex bestehende Abtei wird von einer SteinLaacher See.
+
+Rechts unten bezeichnet:18P B96.
+
+Hohe 12 cm,Breite 21,5 cm.Brauner Rahmen.
+
+Auf dem Passepartout bezeichnet:Peter Becker 1896 Benedictiner Abtei St. Maria Laach am See.
+
+## 114 Gelnhausen.
+
+Im Vordergrunde Bricke iber den Main mit altem Torbogen, der den Eingang zum Stadtchen bildet. Diese selbst wird von der schonen gotischen St.Marien-Pfarrkirche beherrscht. Auf der Bruicke hibsche figurliche Staffage.
+
+Unten bezeichnet:18PB94.
+
+Hohe 9,5 cm,Breite 18,5 cm. Schwarzer Rahmen.
+
+Auf dem Passepartoutbezeichnet:Peter Becker 1894 Gelnhausen.
+
+## 115 Hirschhorn a. Neckar.
+
+Malerisch am FuBe der stattlichen,hoch auf bewaldeter Anhohe gelegenen Burg zieht sich das altertumliche Stadtchen mit Kirche und Stadtmauer.Im Vordergrunde der Neckar mit Booten,auf welchen sich Kinder tummeln.
+
+Unten bezeichnet:18 P B98.
+
+Hohe 22 cm,Breite 13，5 cm, Schwarzer Rahmen
+
+Auf dem Passepartout bezeichnet:,Gem.von Peter Becker 18g8.Hirschhorn am Neckar.
+
+## 1161 Die Muhle. Motiv aus dem Weilthal.
+
+Auf einer Rasenanhohe links gruint ein im Schmuck reifer Fruichte prangender Apfelbaum. Unter dessen Schatten hat sich ein nachdenklich den Kopf auf die Rechte stitzender Wanderbursche mit seinem Hunde niedergelassen.Am FuBe des rechts aufsteigenden Hugels mit teilweiser Laubwaldung. liegt der aus zwei Hausern bestehende Muhlenkomplex.
+
+Hohe 16 cm, Breite 10 cm. Gruner Rahmen.
+
+Auf dem Passepartout bezeichnet:,[Peter Becker Igo3]—In einem kihlen Grunde—da geht ein Mihlenrad—MeinLiebchenistverschreunden—-Das dort gewohnet hat.—[Motiv ausdemWeilthal].
+- 117 Saarburg.
+
+Altes Stadtchen,malerisch im Talkessel an den Ufern der Saar gelegen,von den Ruinen des einstigen kurhessischen Schlosses iberragt.
+
+Von Peter Becker eigenhandig gaquarellierte Original-Lithographie. Rechts unten bezeichnet:18 P B58.
+
+Hohe 44.5 cm,Breite 58 cm.Goldrahmen.
+
+Auf dem Passepartout bezeichnet:,[Peter Becker]. Saarburg, nach der Natur gez.und lith.1861 gem.1904.
+
+## Die Aussicht von der Cloef bei Orschholz.
+
+Gegenstick zum vorigen.
+
+Auf dem durch eine starke Krimmung der Saar gebildeten waldigen Hugelricken erblickt man die Trimmer der Burg Montclair.Im Vordergrund der Gipfel der an dem nordlichen Rand des linken
+
+Saarufers steil aufsteigenden Anhohe,die Cloef genannt,mit Ziegenhirten staffiert.
+
+Von Peter Becker eigenhandig aquarellierte OriginalLithographie. Rechts unten bezeichnet:18 P B 58.
+
+Hohe 45 cm, Breite 57，5 cm.Goldrahmen.
+
+Auf dem Passepartout bezeichnet:,[·Peter Becker·] die Aussicht von der Cloef bei Orschholz nach der Natur gez.u.lith.186I, gem.1904.
+
+Weitere Arbeiten dieses Kinstlers unter Olgemalden.
+
+## WILHELM AMANDUS BEER.
+
+geb.1837 zu Frankfurt a.M., gest.19o7 daselbst.
+
+- Russische Bauern auf dem Felde.
+
+Eine junge Frau halt die von einem Pferde gezogene Pflugschar mit beiden Handen fest. Sie hat mit der Arbeit eingehalten und betrachtet lachelnd ihr rechts vorn auf dem Rasen in Kissen gebettetes kleines Kind, das ein daneben liegender Hund bewacht. Dicht neben ihr steht ein russischer Bauer an die Pflugschar gelehnt. Er stopft seine Pfeife, iber der Schulter tragt er an einem Riemen einen groBen Feldkessel. Links im Vordergrunde vor einem einfachen Zaun steht ein Korb mit GefaBen. Weite Steppenlandschaft.
+
+Unten bezeichnet:Costim aus dem Gouw.Smolensk —W.A.Beer 1887.
+
+Hohe 16,5 cm, Breite 28 cm. Goldrahmen (ohne Passepartout）).
+
+Reizvolle, charakteristische Arbeit. AbbildungTafel 2.
+
+Weitere Arbeiten dieses Kinstlers unter Olgemalden.
+
+## LEOPOLD BODE
+
+geb.1831 zu Offenbach a. M., gest. 19o6 zu Frankfurt a.M.
+
+- I20 Der Main mit seinen Nebenflissen. Reiche, figurale Komposition.
+
+Der Main ist als bartiger lorbeerbekranzter Mann in antiker Gewandung dargestellt,rechts auf einem
+
+Felsen am Flubufer sitzend.Das Wasser durchziehen schwimmend und auf Delphinen reitend die Nebenfluisse in Gestalt junger Frauen und Kinder,welche Ahren, Blumen und Fruchte tragen. Eines der Kinder halt ein gefuilltes Bierglas, eine Allegorie auf die an den Ufern des Mains bluihende Brauindustrie. Darauf folgt ein von zwei Putten gefihrtes Segelboot mit Warenballen. Sanft ansteigende Ufer mit den fernen Hohenzigen des Taunus schlieBen die Szenerie;rechts hinter der allegorischen Figur des Mains erheben sich die alten Baudenkmaler Frankfurts: der Dom,die Nikolaikirche, der Rententurm und der Saalhof.
+
+Links unten bezeichnet:Leop. Bode 1887.
+
+Abbildung Tafel 24.
+
+Hohe 29,5 cm, Breite 71,5. Schwarzer Rahmen.
+
+- 118
+- 119
+## I21
+
+## Der Rhein mit seinen Nebenfluissen.
+
+Gegenstick zum Vorigen.
+
+Der FluBgott,welcher als alter Mann mit langem weiben Bart und Steuerruder dargestellt ist,sitzt links im Vordergrunde am FluBufer. Durch die Fluten des Stromes ziehen junge Frauen und Kinder, die Nebenflisse des Rheins,unter denen besonders Mosel, Neckar und Nahe genannt sind. Sie tragen Weinkorbe und Glaser, eine Turnierstange,auf einem Schild den Nibelungenschatz und Modelle des Minsters von StraBburg, der Dome von Worms und Koln. Alle scheinen nur das Gefolge der singenden und leyerschlagenden Loreley zu bilden, deren Boot von einem Schwan an einer goldenen Kette durch das Wasser gezogen wird. Am jenseitigen Ufer dehnen sich Gebirgszige mit einer mittelalterlichen Burg auf einem steilansteigenden Gipfel.
+
+Rechts unten bezeichnet:Leop. Bode 1887.
+
+Beide Aquarelle von sorgfailtiger Durchfuhrung.
+
+Abbildung Tafel 24.
+
+## I22 Frihlingstag im Walde.
+
+Dichter Laubwald mit jungem Grin und zarter Grasvegetation.Unter der Buchengruppe links ein steinerner Brunnen,auf dessen Rand eine junge blondeFrau sitzt und liest.Vor ihr ein kleiner Knabe, der abgepflickte Blumen unter das einer Rohre entstromende Wasser des Brunnens halt. Durch das dichte Laubdach wenig blauer Himmel sichtbar. Morgenstimmung.
+
+Hohe 71,5 cm, Breite 41,5 cm. Grinpatinierter Goldrahmen. Aquarellierte Zeichnung in farbiger und schwarzer Kreide.
+
+Links unten bezeichnet:1900.
+
+Weitere Arbeiten dieses Kiinstlers unter Olgemalden.
+
+## ANTON BURGER
+
+geb.1824 zu Frankfurt a.M., gest.1go5 zu Cronberg i. T.
+
+## 123 Brunhildisfelsen a. d. grofsen Feldberg i. Taunus.
+
+Abgeflachter Gipfel des Feldberges mit Gestripp und vereinzeltem Baumschlag.In der Mitte der Szenerie erhebt sich der hohe Quarzblock,der seit fast Iooo Jahren die Bezeichnung des Brinhildenbettes tragt.Vor diesem ist ein aus Mann und Frau bestehendes Bauernpaar damit beschaftigt,Feuer vor einer primitiven holzbedeckten Schutzwand anzumachen. Rechts schmaler Pfad,mit Wanderer staffiert. Weiter Fernblick in die in der herbstlichen Abendstimmung verschwimmende Ebene.
+
+Rechts unten bezeichnet:A.Burger 1882.
+
+Sehr schone stimmungsvolle Aquarelle.
+
+Abbildung Tafel 25.
+
+Weitere Arbeiten dieses Kinstlers unter Olgemalden.
+
+## JOHANNES CHRISTIAN DEIKER
+
+geb. 1822 zu Wetzlar, gest.1895 zu Dusseldorf.
+
+## 124 Hirsche im Wald.
+
+Waldinneres mit zwei kampfbereit aufeinander lossturzenden Hirschen. Im Mittelgrunde drei Rehe.
+
+Links unten bezeichnet: C. Deiker 57.
+
+Hohe 26 cm,Breite 44,5 cm.Schwarzer Rahmen.
+
+Hohe 29,5 cm, Breite 71,5 cm. Schwarzer Rahmen.
+- 125
+- 126
+- 128
+- Cronberg.
+
+## ROBERTHIERONYMI
+
+geb.1868 zu Frankfurt a.M.,lebt daselbst.
+
+- Madonna und St Domenicus.
+
+In dem Seitenschiff eines gotischen Domes thront unter einem Baldachin die gekronte Madonna mit dem Jesusknaben.Dieser reicht mit beiden Handen dem vor ihm knienden heil.Monch, dem heil. Domenicus, einen Rosenkranz. Auf dem FuBboden liegt ein aufgeschlagenes Buch.
+
+Rechts unten bezeichnet:R.Hieronymi 1892.
+
+## FRIEDRICH KAULBACH
+
+geb.zu Arolsen 1822, gest.zu Hannover.
+
+- 》Lafs ab von der Liebe.
+
+In einer kahlen Monchszelle sitzt neben der Feuerstelle eine Dame mit bekranztem Haar, deren Hut und Reitgerte auf dem Boden liegen.Neben ihr sitzt auf den Backsteinstufen des Herdes,den Rucken fast dem Beschauer zuwendend,ein alterer bartiger Monch mit Kappchen und Kutte.Er halt auf den Knien dirres Reisig und spricht eindringlich auf die neben ihm sitzende nachdenkliche Frau ein. Von rechts oben fallt durch eine kleine Offnung Licht in die Zelle, deren einziger Schmuck links oben ein Holzgestell bildet,auf welchem GefaBe und eine Laterne liegen; dariber sind an der Wand ein Reiterhelm und eine Hellebarde angebracht.
+
+Rechts unten bezeichnet:F.Kaulbach.
+
+Durchgefuhrte Feder- und Tuschzeichnung.
+
+## PAUL WILH.KELLER-REUTLINGEN
+
+geb.1854,lebt in Furstenfeldbruck b.Munchen.
+
+- Auf dem Heimweg. 127
+
+Zwischen zwei Birkenstammen zwei junge oberbayerische Bauernmadchen auf dem Wege zu der im Hintergrund am Waldrand gelegenen Ortschaft. Die Strahlen der untergehenden Sonne fallen auf die beiden Madchen, deren Silhouetten sich klar vom blauen Abendhimmel abheben. Sommerliche Abendstimmung, kraftig nuancierte Beleuchtung des Dorfes und des vor diesem sich ausbreitenden Wiesengelandes.
+
+Links unten bezeichnet:Keller-Reutlingen I903.
+
+Brillant in Stimmung und Beleuchtung.
+
+AbbildungTafel 25.
+
+## WILHELM LAUTER
+
+geb. 1847 zu Emmerdingen, lebt in Berlin.
+
+Blick iber die herbstlich gefarbten Hohen auf Stadt und SchloB Cronberg.Im Vordergrund mit heimkehrendem Holzknecht und Bauernmadchen staffiert. Abendstimmung.
+
+Links unten bezeichnet:W.Lauter 93.
+
+- 129 Burg Falkenstein.
+
+Aus der dunstigen Talniederung des Mittelplanes erhebt sich der SchloBberg mit den sich scharf vom Himmel abhebenden Umrissen der Burg Falkenstein.Vorne links Baumschlagkulisse,rechts Laub- waldung.Rotlich beleuchteter Abendhimmel.
+
+Links unten bezeichnet:W.Lauter 93.
+
+Hohe 23 cm, Breite 31,5 cm. Goldrahmen.
+
+Hohe 31 cm, Breite 26 cm. Goldrahmen.
+
+Hohe 31 cm, Breite 245 cm. Schwarzer Rahmen.
+
+Hohe 44 cm, Breite 26,5 cm.Goldrahmen.
+
+H6he 23 cm, Breite 32 cm. Goldrahmen,
+## 130 Cronberg i. Taunus.
+
+Gegenstick zum Vorigen.
+
+Links unten bezeichnet: W.Lauter 93.
+
+## I31 Taunuslandschaft.
+
+Anhohe mit prachtigen,herbstlich gefarbten Baumgruppen.Ein Jager mit Hund auf dem dem Hintergrunde zufuhrenden FuBweg.Fernblick auf die Gebirgszige des Taunus.
+
+Hohe 24.5 cm,Breite 32 cm.Schwarzer Rahmen.
+
+Rechts unten bezeichnet: W. Lauter 93.
+
+## Reichenbachtal und Altkoenig. I32
+
+Blick iber das wellenformige Tal mit verfarbtem Laubwald auf die kahle Kuppe des Altkonig. Links abschlieBende hohe Baumkulisse.
+
+Rechts unten bezeichnet: W.Lauter 93.
+
+## Cronberg. 133
+
+Ein Herr und eine Dame betrachten von der Anhohe im Vordergrunde,welche mit Gestrauch und vereinzelten hohen Baumen bewachsen ist, das im Mittelplan gelegene Stadtchen Cronberg. Die roten Dacher der Ortschaft und das diese hoch iberragende SchloB sind hell von der Sonne beleuchtet.Im Hintergrunde die blauen Gebirgszige des Taunus.
+
+Rechts unten bezeichnet:W.Lauter 93.
+
+## I34 Neapel.
+
+Im Vordergrund flacher Meeresstrand mit Booten und figurlicher Staffage;links im Mittelplan Neapel. Das Meer blau und spiegelglatt,von Schiffen belebt. Im Hintergrund der Vesuv. Abendsonne.
+
+Rechts unten bezeichnet:W.Lauter 93.
+
+Hohe 27,5 cm, Breite 41,5 cm. Schwarzer Rahmen.
+
+## FRIEDRICH PERLBERG
+
+geb.zu Nurnberg 1848.
+
+## 135 Gebirgslandschaft.
+
+Links von der breiten LandstraBe ein stattliches Haus mit Kapelle. Im Vordergrund Holzbrunnen. Rechts im Schatten eines hohen Baumes eine Holzhutte.Im Hintergrunde machtiger Gebirgsstock.
+
+Links unten bezeichnet:F.Perlberg 1877.
+
+## RUDOLF PICHLER
+
+geb.1863 zu Frankfurt a.M.
+
+Hohe 21 cm,Breite 26,5 cm.Brauner Rahmen.
+
+Hohe 23,5cm,Breite31 cm.SchwarzerRahmen.
+
+Hinter dem Wiesengelande des links und rechts durch Baumkulissen abgeschlossenen Vordergrundes dichte Laubwaldung;dariber steigt die hohergelegene Stadt mit SchloB an,deren Silhouetten sich verschwommen vom abendlichen Herbsthimmel abheben. Mit Jager mit Hund staffiert.
+
+Hohe 23 cm,Breite 32 cm.Goldrahmen.
+
+## 136 Landschaft.
+
+Schilfbewachsenes Seeufer mit hohen Baumstammen im Vordergrunde rechts.Im Hintergrunde langgestreckte dichte Laubwaldung.
+
+Rechts unten bezeichnet:Rudolf Pichler.
+
+Kohlezeichnung.
+
+Hohe 23 cm,Breite 3I cm. Schwarzer Rahmen.
+
+Hohe 61 cm, Breite 31 cm. Brauner Holzrahmen,
+## 138S
+
+## P.PHILIPP RUMPF
+
+geb.1821 zu Frankfurt a.M.,gest.1896 daselbst.
+
+## 137 Das erste Zahnchen.
+
+Die junge Mutter,auf einem Stuhle sitzend,halt mit der Rechten ihr Knabchen fest,wahrend sie mit dem kleinen Finger der Linken den Mund ihres Kindes berihrt,um nach dem erste Zahnchen zu suchen.
+
+Rechts unten bezeichnet:Ph.Rumpf.
+
+## JOHANN GEORG ZACHEIS
+
+geb.zu Frankfurt a.M.1821,gest.1857 ebendaselbst.
+
+## Spatherbstlandschaft.
+
+Uber den Vordergrund erstreckt sich abgemahtes Wiesengelande, dessen glatte Flache nur von einigen vereinzelten niederen Strauchern unterbrochen ist.Im Mittelplan herbstlich gefarbte Laubwal- dungen,welche sich von beiden Seiten dem Hintergrunde zuziehen. Bewolkter Himmel.
+
+Rechts unten bezeichnet:G.Zacheis 9/56.
+
+Hohe 27 cm,Breite 20,5 cm.Goldrahmen.
+
+Hohe 22,5cm,Breite 52,5cm
+## 139
+
+## Olgemalde alter Meister.
+
+(Die Kunstlernamen sind nach den Angaben des bisherigen Besitzers beibehalten.)
+
+## JOH.DANIEL BAGER
+
+geb.1734,gest.1815 zu Frankfurt a.M.
+
+## Waldlandschaft.
+
+Vorne StraBe zwischen leichtansteigender Laubwaldung links und kleinem Bache rechts. Das grine Ufer des letzteren mit Hirten mit Schafherde staffiert. Links im Mittelplan Bauernhaus,auf welches ein Wanderer zuschreitet.Weit bis in den Hintergrund reichende Waldperspektive.Leicht bewolkter Himmel.
+
+Links unten bezeichnet:J. D.Bager f.
+
+Ol auf Holz. Hohe 32,5 cm, Breite 41,5 cm.Goldrahmen.
+
+## ABRAHAMMIGNON
+
+geb.1640 zu Frankfurt a.M., gest.1679 daselbst oder in Wetzlar.
+
+## 140 Fruchtstilleben.
+
+Auf einer steinernen Tischplatte liegen in malerischer Anordnung weiBe und blaue Weintrauben, Pfirsiche,Kirschen,Johannis-und Wachholderbeeren,Pflaumen,Melone und Zitrone mit angeschnittener Schale.Dabei stehen und liegen zwei Weinflaschen von ungleicher GroBe,eine Glaskaraffe,eine Tabakspfeife und eine Muschel. Weiter liegen noch vier kleine Krebschen zerstreut auf der Tischplatte umher.Dunkler neutraler Hintergrund.
+
+O1 auf Leinwand. Hohe 38cm, Breite 46 cm.Goldrahmen.
+
+Ganz vorzugliches, mit groBem malerischem Reize erfaBtes Stilleben.
+
+Abbildung Tafel 26.
+
+## NACHAHMERDES NICOLASLANCRET
+
+XVIIl. Jahrhundert.
+
+## I41 Liebesszene.
+
+Auf einer Rasenerhohung sitzt das jugendliche Liebespaar,ein Schafer und eine Schaferin,in Um-
+
+O1 auf Leinwand. Hohe 33 cm,Breite 23.5 cm.Goldrahmen.
+
+armung. Links vor ihnen liegt auf dem Erdboden ein mit Rosen bekranzter Schaferstab sowie ein Dudelsack.Waldlandschaft.
+## NIEDERLANDISCHE SCHULE XVII.JAHRH.
+
+## 142 Der werbende Bauer.
+
+Wohl alte Kopie.
+
+An einem runden Holztisch sitzt links ein Bauernmadchen,nachdenklich vor sich niedersehend. Zu ihrer Seite ein Bauer mit hohem rundem Hut;in der Linken halt er ein Stangenglas, die Rechte hat er werbend auf die Hand des Madchens gelegt, auf welches er schmunzelnd einspricht.
+
+O1 auf Holz. Hohe 33,5 cm, Breite 30,5 cm. Goldrahmen.
+
+## FRANZ SCHUTZ
+
+geb.1751 zu Frankfurt a.M.,gest.1781zu Genf.
+
+## 143 Campagna-Landschaft mit Ruine.
+
+In der Mitte des Vordergrundes die mit Gestrauch iberwucherten Trimmer eines runden SchloBturmes; der in einen Lowenkopf gefaBte Brunnen mit rundem Steinbecken ist noch wohl erhalten. Links vorne Wassertimpel,rechts als AbschluBkulisse verwittertes Mauerwerk mit korinthischen Saulen. Im Vordergrund huibsche figurliche Staffage.Von leichten Wolken durchzogener blauer Abendhimmel.
+
+O1 auf Holz. Hohe 38 cm, Breite 55 cm. Goldrahmen.
+
+## 144 Campagna-Landschaft mit Ruine.
+
+Gegenstick zum Vorigen.
+
+Vor dichtem Gestruipp die zerfallenen Uberreste eines alten Schlosses mit Torbogen und viereckigem SchloBturm. Links vorne Tumpel. Uber Flachlandschaft mit Wiesen und Waldungen entfernte Gebirgszuige sichtbar, welche die Szenerie abschlieBen. Leicht bewolkter Abendhimmel.
+
+Ol auf Holz.Hohe 38 cm, Breite 55 cm.Goldrahmen.
+- 145
+
+## Graphische Arbeiten.
+
+## J.W. Hill pinx.
+
+- New York from Brooklyn Heights. W. J. Bennett sc. New York 1837. Roy. Qu. Fol. Sehr interessantes Blatt. Ausgezeichneter Abdruck in Farben mit viel Rand. In Mahagonirahmen.
+
+## Tho.LAWRENCE pinx.
+
+- 146 MiB Fanny Kemble. Brustbild in Oval. T.G. Appleton sculp. London 188g. Roy.Fol. Sehr schones Frauenbildnis in Schabkunstmanier.Vorziglicher Abdruck auf China mit breitem Rand. Brauner Holzrahmen.
+
+## CHAS. J. W.MIELOT.
+
+- I47 Frachtsegelboote im Hafen.Gr.Quer-Fol.1887. Original-Radierung. Brillanter signierter Kinstler druck auf Seide mit Rand. Schwarzer Rahmen.
+
+## HENRY RAEBURN pinx.
+
+- 148 Sehr schones Frauenbildnis in Schabkunstmanier.Vorziglicher Abdruck auf China mit breitem Rand. Brauner Holzrahmen.
+
+## A.B.SOEHNGEN.
+
+- 149 AmTuchgaden.Gr.Fol.1897. Original-Radierung. Eigenhandiger Kins tler druck auf China mit breitem Rand. Brauner Holzrahmen.
+
+## GILBERT STUART pinx.
+
+- 150 George Washington.Portrait painted for Wm. Constable. Ganze Figur mit Degen in der Linken, die Rechte erhoben.G.Petit sculp.Igoo.Roy.Fol. Vorziglicher Abdruck auf China mit breitem Rand. Mahagonirahmen.
+## Anhang.
+
+151. Hohe Standuhr. Um 176o. NuBbaumholz mit reichen und huibsch angeordneten Intarsien aus Pflaumenholz. Das Werk ist gefertigt von John Wallis,London. Das Zifferblatt tragt in den Ecken figirliche Darstellungen in Bronze. Das Werk geht vorziglich, zeigt Datum und ab- und zunehmenden Mond, Meridianeinteilung. 8—I4 Tage gehend. Vorrichtung im Werk vorhanden zum Spielen von Musiksticken. Der harmonische Gesamtaufbau ruht auf einem geschwungenen Sockel, der von 2 Lowenpranken nach vorne gestitzt wird. Prachtiges, guterhaltenes Stuick.
+
+Sockel 6o cm breit,Pendelkasten 35 cm breit,Gesamthohe der Uhr 2,65m, Tiefe 30 cm.
+
+152. Empire Aufsatzschrank, zugleich Schreibsekretar. Mahagoni. Im Unterbau drei, im Aufbau sechs Schubladen und aufklappbares Pult mit huibscher Inneneinrichtung. Mit schonen vergoldeten Bronzeappliken und glatten Messingbeschlagen. Sehr huibscher Schrank.
+
+Hohe 166 cm,Breite 102cm,Tiefe 55cm.
+
+153. Empirekommode in Mahagoni mit drei Schubladen. Mit Rosetten in Bronze und glatten Messingbeschlagen dekoriert.
+
+Hohe 81 cm,Breite 94cm,Tiefe 53 cm.
+
+154. Zweituriger Barockschrank,in poliertem Natur-Mahagoni fourniert. Das untere Gesims, die Turen, die abgeschragten Eckleisten und die Bekronung zeigen reich ornamentierte Intarsien in hellem und dunklem Holz. Der Schrank wird von einer geschnitzten Vase bekront, auf welche dachartig von beiden Seiten schon geschwungenes und geschnitztes Barockornament zulauft. Der Schrank steht auf fuinf flach gedrickten KugelfiBen. Bronzegetriebenes SchloBbeschlag, graviertes SchloB.
+
+Schones Stick von bester Erhaltung.
+
+Hohe 275 cm,Breite 200 cm,Tiefe 65 cm.
+## HUGO HELBING
+
+Kunsthandlung und Kunstantiquariat
+
+21 Liebigstrabe
+
+## MUNCHEN
+
+Wagmullerstr.15
+
+empfiehlt sich zur Ubernahme von
+
+## Versteigerungen
+
+von
+
+Gemalden alter und moderner Meister Antiquitaten .Kupferstichen " Buichern und Autographen.
+
+Sorgfaltige Katalogisierung auf wissenschaftlicher Basis. oue Reich illustrierte Kataloge, die groBte Verbreitung erfahren. Ankundigung und Durchfuhrung der Versteigerungen im vornehmsten Stile.
+
+## Prima Referenzen und erstklassige Atteste
+
+sowie alle naheren Mitteilungen stehen bereitwilligst zu Diensten.
+
+Ulbernahme auch einzelner wertvoller Objekte behufs freihandigen Verkaufs.

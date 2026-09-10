@@ -1,0 +1,2481 @@
+## Mezzo majolique.
+
+- 14 CRUCHE. A panse, col retreci avec deversoir pince, large anse plate. Engobe verte.
+- Ferrare. XVe siecle. Reparee. Haut. 22 cm.
+- 15 PETITE CRUCHE AVEC DEVERSOIR A TUYAUX. Sur un pied bas, corps spherique. Anse large et plate. Deversoir a tuyaux. Engobe blanc jaunatre en terra di Vicenza. Feuilles au sgraffite, peintes jaune et vert en deux zones horizontales. Mantoue, seconde PLANCHE 1.
+- moitie du XVe siecle. Haut.15,5 cm.
+- 16 GOURDE. Corps spherique, sur le cote un peu comprime. Col long et etroit. De chaque cote deux anses percees. Engobe blanc jaunatre en terra di Vicenza. Feuilles de palmier et ornement au sgraffite peints en vert et jaune. Mantoue. Seconde moitie du XVe siecle. Haut.33 cm. PLANCHE 2.
+- 17 GRAND PLAT ROND. Profond. Bord etroit. Engobe blanc jaunatre avec ornements au sgraffite. Au fond filet transversal; au-dessous un chien qui court ?); au-dessous deux oiseaux pres d'un arbrisseau. Dans la cannelure filet entrelace, au bord des feuilles. Peint tachete jaune, vert et bleu. Mantoue. Seconde moitie du XVe siecle. Un cote repare.Diam.45 cm.
+- 18 PLAT RECTANGULAIRE avec tableau. Haut-relief. A droite est assise Marie, a gauche lenfant Jesus sur un coussin. Encadrement profile. Le fond avec les ornements en feuilles au sgraffite. Engobe jaunatre avec peints jaunes verts et bleus, eparpilles. Faenza.
+- Vers 1560.Haut. 40,Larg.31 cm.
+- 19 GRAND PLAT ROND. Au fond evasement circulaire. Bord etroit a filets demi-circulaires. Sgraffite avec larges surfaces en blanc. Au milieu cartouche a armoiries: ecu embrasse: en haut aigle rapide avec ses serres deployees; en bas oiseau. Le cercle qui entoure avec echiquier. La zone suivante avec feuilles de palmier. Dans la cannelure filet ondule. Le bord de nouveau guirlande de feuilles de palmier avec tetes d'ange ailees. Peint en vert. Ferrare. Commencement du XVIe siecle. Legere felure. Diam.37 cm. PLANCHE 3.
+
+## Faience.
+
+## (Majolique.)
+
+- 20 PETITE AsSIETTE. Au fond oiseau. Entoure de rinceaux a fleurs. De meme le derriere. Cuivre lustre. Hispano-mauresque. Diam.19,5 cm.
+- PETITE ASSIETTE. Profonde. Feuillage en cuivre lustre. Hispano-mauresque. Diam.19,5 cm.
+- 21
+- ASSIETTE. Peu profonde. Fleurs et ornements rayonnants. Cuivre lustre. Hispano-
+- 22 mauresque.Diam.21,5 cm.
+- 23
+- PLAT A OMBILIC. Autour de l'ombilic caracteres arabes. Fleurs rayonnants au bord, entre les fleurs, entrelacements en forme de chaines. Or lustre. Hispano-mauresque. Diam 32 cm.
+- DEUX PETITES ASSIETTES PLATES. Paysages avec des maisons et des figures en
+- 24 vert, brun, bleu. Abruzzes. (Castelli.) xVIlle siecle. Diam. 18,5 cm.
+- 25 ASSIETTE PLATE. Au fond scenes mythologiques; six formes feminines (Muses ?). L'une couchee sur le sol; des abeilles s'envolent loin d'elle. Aupres d'un arbre se tient debout Apollon qui inscrit quelque chose dans l'ecorce. Au fond est assis un vieillard. Le bord comparez Falke, Majolique, p. 173). En jaune, ocre, bleu et vert. Abruzzes. (Castelli.) Vers 1700.Diam.23,5cm. PLANCHE 4.
+- 26 TABLETTE: SAINT PIERRE GUERIT LE PARALYTIQUE. Dans un vestibule se tient debout Saint Pierre et touche le paralytique qui est assis sur une voiturette. Des hommes, des femmes et des enfants les entourent. En jaune, ocre, bleu, vert et violet manganese. Abruzzes (Castelli) vers 1700. Cadre noir. Haut 27 cm, Larg. 35 cm.
+- 27
+- TABLETTE: MORT DE JOSEPH. Dans une chambre avec une fenetre a colonnes ouverte est etendu en ligne diagonale Saint Joseph sur une couche. A droite est assis Jesus, a gauche Marie en debout. Au fond des anges. Jaune ocre, bleu, brun, violet manganese et vert. Abruzzes (Castelli) vers 1700. Cadre noir. Haut. 21 cm, Larg. 27 cm.
+- 28
+- 29
+- TABLETTE: SCENE ROCOCO. (Partage d'heritage). A une table est assis un vieux monsieur; pres de lui un coffre, devant lui de l'argent. ll tend un papier a trois jeunes gens qui sont debout devant lui. A droite accourt un quatrieme. Tous en costume rococo. En brun, jaune, bleu, vert, violet manganese. Abruzzes (Castelli) vers 1740-1750. Peutetre de Liborio Grue. Cadre dore. Haut. 20 cm, Larg. 25,5 cm.
+- TABLETTE: SCENE ROCOCO. (Adieu du pere.) Pendant du precedent. Au milieu est assis le vieux pere qui passe son bras autour de son fils. A droite deux chevaux avec deux domestiques,a gauche un jeune homme plus jeune qui regarde. Couleurs etc comme pour le numero precedent. Les deux tableaux proviennent d'une serie de l'histoire de lenfant prodigue,representee a la maniere du temps.
+- 30 ASSIETTE. Peu creuse. Au fond scene de chasse. Dans un paysage des filets sont tendus. Sur le devant a droite un cavalier et un chasseur a pied. Le bord avec des guirlandes de fleurs et des armes. Bleu, jaune, vert et violet manganese. Castelli. De lun des Grue, peut-etre du Docteur Francesco Antonio Il. Vers 1740. Cadre en bois. Diam.23 cm. PLANCHE5.
+- 31 ASSIETTE. Peu creuse. Au fond scene de chasse. Un chasseur poursuit avec son epieu un sanglier qui fuit dans les fourres. Deux chiens suivent. Au fond deux hommes a pied et un cavalier poursuivent un cerf. Le bord est orne de petits anges qui volent, de vases, de cornes, d'abondance avec fleurs. Couleurs tendres: bleu, jaune, vert, violet manganese et rehauts d'or.Castelli. Peut-etre du docteur Liborio Grue vers 1750. Cadre en bois. Diam. 24 cm. PLANCHE.5.
+- 32 PLAT AVEC PIED. Piedouche. Plateau plat. Glacure blanche. Au centre cercle blanc
+- avec la devise: D. A. F. Marli a rinceaux et oiseaux en bleu et brun jaune. Caffagiolo. 1ere moitie du XVIe siecle. Marque bleue: SP (Semper). Diam.32 cm.
+- 33 ALBARELLE. Corps fortement resserre. Fond bleu avec rosace blanche a espaces libres et larges feuilles d'acanthe vert jaune. Sur le cote frontal medaillon oval avec tete d'homme portant la barbe avec turban en jaune et bleu. Caltagirone. XVle siecle. Haut.15 cm.
+- 34
+- VASE DE PHARMACIE. Avec col et pied bas et resserres. Fond bleu de cobalt avec grandes feuilles jaunes et vert clair. Sur le cote frontal medaillon oval avec tete de femme en bleu et jaune. Caltagirone. XVle siecle. Haut. 19 cm.
+- 35
+- GRAND VASE. Forme spherique; col et pied courts et resserres. Fond bleu de cobalt avec grands rinceaux en ocre, jaune, vert. Sur le cote frontal mascaron jaune. Caltagirone. XVIe siecle. Haut. 22,5 cm. PLANCHE 6.
+- 36 GRANDE ALBARELLE. Peu resserree. Sur fond bleu rinceaux verts et jaunes. Sur le cote frontal medaillon oval avec deux tetes l'hommes jeunes en violet manganese, jaune, vert et bleu. Caltagirone. XVIe siecle. Haut. 32 cm. PLANCHE 2.
+- 37 VASE.A panse. A col et pied resserres. Decoration: a trofei sur fond bleu en jaune, ocre et blanc: trophees, mascarons etc. Sur le cote frontal medaillon oval: saint debout dans un paysage avec une tenaille (Saint-Eloi ?). Sur le cote posterieur, une tour. En bas filet entrelace et bordure de fleurs; en haut double bordure de feuilles. Castel Durante. Milieu du XVIe siecle. Repare. Haut. 35 cm. PLANCHE 2.
+- 38 PLAT CREUSE. Interieur en etain blanc, vernis, exterieur avec vernis de plomb. Dans
+- la partie creuse buste d'une belle jeune femme de profil sur fond bleu en costume vert, vers la gauche avec le filet blanc vertical portant l'inscription V. S Co R A D. Le tout encadre d'un filet bleu a ornements. Le marli large divise a quartieri. Imbrications, palmettes et feuilles ovales. En bleu, jaune, ocre et vert. Deruta. Premier tiers du XVIe siecle. Repare. Diam.23 cm. PLANCHE4.
+- 39 ASSIETTE PLATE. Peu creuse. Rebord plie vers le haut. Dans la partie creuse sur fond blanc un cerf tenu en arret par deux chiens; en haut des oiseaux. Les intervalles,remplis par des feuilles. En bleu et jaune. Marli jaune avec rinceaux. Tous les contours en ocre. Legerement lustre. D'apres des modeles persans. Deruta. Vers 1500. Diam.24,5 cm. PLANCHE 3.
+- 40 ASSIETTE.Tres creuse. Fond carre avec fleur genre palmier, entouree d'une bordure imbriquee a la cannelure. Sur le bord couronne rayonnante avec ornements en forme de crete de coq. Larges.contours bleus qui sont remplis de lustre jaune a eclat nacre. Sur le cote posterieur trois cercles jaunes d'or lustres. Deruta. Second quart du xVle siecle. Cadre en bois. Diam.21 cm. PLANCHE 7.
+- 41 ASSIETTE. Creuse. Au fond rosace a neuf feuilles, entouree de lignes circulaires. Sur le bord fleurs en forme de crete de coq, reunies par de minces rameaux. Larges contours bleus, remplis de lustre jaune brun a eclat nacre. Deruta. Second quart du xVle siecle,Cadre en bois. Diam. 2l,5 cm. PLANCHE 7.
+- 42 CRUCHE. Piriforme. Deversoir en forme de museau. Anse ronde. Pour la plus grande
+- partie non vernie. Champs ogivaux s'entrecroisant avec contours violets; les coins avec grillage vert et violet manganese. Au bord champs ovales verts contigus. L'anse avec traits horizontaux.Faenza.Vers 1400. Haut.20,5 cm. PLANCHE 1.
+- 43 CRUCHE. Piriforme. Pied resserre. Deversoir pince. Anse large et recourbee. Glacure blanche jaunatre qui ne recouvre pas le pied. Sur le cote frontal blason ogival gothique. Sur mont vert trois fois entaille est perche un oiseau violet. Le bord avec triangles verts et blancs. Contours accuses violet manganese. Faenza. Vers 14oo. Reparee au bord PLANCHE 1.
+- gauche. Haut.23 cm.
+- 44
+- PETITE CRUCHE. A panse. Deversoir en forine de museau. Anse plate (rapportee). Cercle bleu avec lignes rayonnantes. Au milieu rinceau bleu a spirales jaunes. Sur le cote entrelacs bleus. Glacure blanc jaunatre. Faenza. Milieu du XVe siecle. Haut. 16 cm. PLANCHE 1.
+- 45
+- PETITE CRUCHE. A panse. Deversoir en forme de museau. Anse large. Glacure noir manganese. Cercle noir a rais rayonnants; au milieu grande fleur en couleurs foncees et un peu verte. Sur le cote feuilles de palmier. Faenza. Milieu du XVe siecle. Haut. 13 cm. PLANCHE 1.
+- 46 PETITE CRUCHE. A panse. Anse plate et large, deversoir pince. Dans un cercle bleu,
+- entouree de feuilles de palmier, fleur avec feuilles centrales en brun et vert. Glacure jaunatre. Faenza. Milieu du XVe siecle. Haut. 15 cm. PLANCHE 1.
+- 47 GRAND PLAT. Peu creuse. A berettino. Au fond cartouche a armoiries; ligne verticale,
+- au-dessus trois lis. A l'exterieur tout autoure, des rinceaux, des tetes d'ange, des candelabres genre grotesque, rehauts de blanc. Sur le cote inferieur des fleurs en forme de rosaces et rayons du signe de Saint Bernard. Faenza. Casa Pirota. Vers 1530. Marque bleue: cercle entrelace avec. La glacure s'est detachee en plusieurs endroits. Diam.38,5 cm.
+- 48 TABLETTE: REPRESENTANT MARIE AVEC LES SAINTS. Utilisation des gravures de Durer. Au milieu est assise Marie qui allaite l'enfant. Derriere elle se tiennent debout Joseph avec 4 anges; au-dessus plane Dieu le Pere et la colombe. Dans le paysage en bas monogramme de Durer. En jaune, ocre, bleu, violet manganese. Faenza. XVle siecle. Cadre doré. Haut.29 cm, Larg. 21 cm.
+- 49 ALBARELLE. Grands rinceaux a feuillage et a fleurs en jaune, ocre, bleu et vert. Sur le cote frontal filet horizontal en bleu avec bouts jaune ocre retrousses et portant l'inscription: Con vA Su gl osat. Au-dessus signe pharmaceutique: Boeuf jaune dans un medaillon bleu. Marque bleue sur le fond: R B, au-dessus double croix. Faenza. XVle siecle. Haut.19 cm.
+- 50
+- ALBARELLE. Faisant partie de la meme garniture que la precedente. Inscription: vng To ma gi strale p legam. BE Sans cela la meme. Haut. 20 cm. PLANCHE 6.
+- 51 ALBARELLE. A rinceaux bleus. Filet horizontal jaune ocre avec coins verts retrousses et l'inscription ZU Co VIOLATo. Au-dessus signe pharmarceutique: Blason bleu jaune avec trois etoiles et les lettres violet manganese CTB. Faenza. XVle siecle. Haut. 19 cm. PLANCHE 6.
+- 52 ALBARELLE. Glacure jaunatre. Sur le cote frontal grand medaillon oval et filet horizontal bleu et jaune avec inscription. Dans le demi-cercle superieur signe pharmaceutique bleu:R 0 Encadrement: couronne de feuillage en vert clair et jaune diffuse avec contours bleus. Faenza. Commencement du xVle siecle. Haut. 18,5 cm.
+- 53
+- 3 DEUX ALBARELLES. Forme elancee et haute. Rinceaux bleu de cobalt alla porcellana sur glacure blanche. Sur le cote frontal, filet en diagonal avec linscription: Se Foennugrec et R. Bentian x. Faenza. XVIe siecle. Haut.29,5 cm. PLANCHE 6.
+- 54 4 ALBARELLE. Petites feuilles bleu de cobalt alla porcellana sur fond blanc craquele.
+- Filet avec rebords aux coins et l'inscription: Tere lego dio. Faenza. XVIe siecle. H.18,5 cm.
+- 55 GRANDE ALBARELLE. Peu resserree. Glacure blanche craquelee. Rinceaux bleus alla porcellana. Sur le cote frontal filet avec extremites jaune ocre retroussees et l'inscription: PLANCHE 6.
+- goma delacha. Faenza. xVle siecle. Haut. 23 cm.
+- 56 GRAND POT AVEC DEVERSOIR A TUYAUX. Ovoide a col court et retreci et pied resserre: Large anse verte et bombee. Court deversoir a tuyaux qui est adapte a l'epaule et est reuni par une boucle au col. Glacure couleur creme. Feuilles bleues, trilobees Sur le cote frontal filet horizontal en jaune et ocre avec coins verts rabattus, et linscription: sV + DAG RODiCEDRO. A la racine de lanse marque: DG. Faenza. (?) Commencement
+- du XVIe siecle.Haut.24 cm.
+- UNE PAIRE DE CRUCHES DE PHARMACIE. A panse spherique avec pied bas. Col
+- 57 long. Blanche avec petites fleurs bleues. Faenza. XVlle siecle. Haut. 22 cm.
+- 58 VASE DE PHARMACIE. Sur piedouche panse spherique avec col etroit. A berettino. Rinceaux et oiseaux bleus avec contours violets. Sur le cote frontal filet horizontal avec linscription: Aq:LIMARIE. Au-dessus signe pharmaceutique. Etoile a 8rayons avec les lettres PO MPQSIA. Au-dessus chapeau de cardinal. Faenza. Vers 1600. Haut. 23 cm.
+- 59 VASE DE PHARMACIE. Piedouche, panse spherique a col court. A berettino. Rinceaux bleus. Sur le cote frontal filet horizontal avec l'inscription: A·D·POLEGLIE. Au-dessus signe pharmaceutique: B G G en coeur. Faenza. XVle siecle. Haut. 2l cm.
+- 60 BOUTEILLE DE PHARMACIE. A panse spherique et a col etroit. Rinceaux bleus alla porcellana sur fond blanc. Sur le cote frontal filet horizontal avec coins retrousses jaune ocre et linscription:aq dementa. Faenza. XVle siecle. Haut. 23 cm.
+- 19 POT DE PHARMACIE. Pied et col resserres. Glacure craquelee gris blanc. Feuilles lobees bleues a tiges minces (alla porcellana). Faenza. Commencement du XVle siecle. Haut.15 cm.
+- 62 ASSIETTE A PIED. Sur piedouche. Assiette en coquille. Au milieu un lievre. Champs ovales rayonnants au bord avec feuilles de palmier. Jaune, ocre, bleu,vert. Faenza. XVIe siecle.Diam.24,Haut.6,5 cm. PLANCHE 3.
+- 63 COUPE A PIED. Sur pied restaure, coupe ronde et plate. Au fond, d'une petite tete d'ange aile partent deux bottes de feuilles qui terminent en feuilles spirales. Bleu, jaune, vert, ocre. Le dessous en huit compartiments alternativement a rosace et feuille d'acanthe.
+- Faenza. XVIe siecle.Haut. 10,5, Diam.14,5 cm.
+- 64 PLAT A ANSE. A rinceaux et armoiries polychromes. Mascaron deversoir. Faenza.
+- 65
+- XVIe ou XVlle siecle. Repare. Diam. 19 cm.
+- COUPE A PIED. Avec fleurs et fruits. Jaune, ocre, vert, violet manganese et bleu. Faenza. xVlle siecle. Diam. 23 cm.
+- 66
+- ASSIETTE PLATE. A berettino. Paysage plat avec tours fortifiees; rehauts de blanc. Probablement Faenza.XVlle siecle.Marque bleue:R. V. Diam. 23,5 cm.
+- 67 PLAT A SALADE. Sur un plat ovale et faconne, dont le bord est orne de bouquets de
+- fleurs polychromes, se trouvent des laitues peintes en vert et en blanc. Partie superieure demontable. Faenza. XVllle siecle. Haut. 13, Diam.35:48 cm.
+- 68 ASSIETTE A FRUITS. Sur un plateau ovale et faconne, se trouvent de nombreux fruits jaunes: citrons, melons, coings. Le fruit superieur demontable.Faenza. XVllle siecle. Haut.21,Diam.32:38 cm.
+- 69
+- BUIRE A CAsQUE. Deversoir en forme de bec; anse en forme de serpent. Double aigle rocaille, peint en bleu et jaune. Faenza. XVille siecle. Reparee. Haut. 24,5 cm.
+- 70
+- CRUCHE.Forme haute conique. Au pied et au bord moulure ronde. Deversoir en forme de museau. Anse ronde. Glacure d'etain blanche en partie boursouflee. Doubles feuilles bleu pateux, ressemblant a des feuilles de chene et baies dans rinceaux minces et violets. A la naissance de lanse marque violette: VF. FNE.I.Florence. 1ere moitie du XVe siecle. Haut.24,5 cm. PLANCHE 1.
+- 71
+- TETE DE ROMAIN (BRUTUS). Plus grande que nature. Visage serieux. Glacure blanche. Luca della Robbia Florence. Trouvee a Ferrara pres de San Benedetto. Fragment d'une statue ou d'une frise. Haut. 30 cm. PLANCHE 40.
+- 72
+- PLAT ROND ET PLAT. Trois petits anges tiennent un ecusson a six boules. Paysage. Peinture bleue. Genes. XVlle siecle. Marque bleue: phare. Diam. 41 cm.
+- 73
+- surface. Chronos aile est couche au milieu d'un paysage; au-dessus de lui vole un petit ange avec la faux. Genes. XVllle siecle. Marque bleue: phare. Diam. 35 cm.
+- ASSIETTE PLATE. Peu creuse. L'image en bleu avec contours noirs occupe toute la
+- 74 GRAND PLAT. Rond. Bord etroit. Glacure bleu de roi. Ornements dores dans les bordures; rinceaux et champs rectangulaires a la chinoise. Au fond cartouche a armoiries. Porte ouverte en blanc et or. Milan. xVlle siecle. Diam. 40,5 cm. PLANCHE 3.
+- 75 PLAT A PIED. Sur piedouche. Bord ondule. Au fond arabesque blanche et les lettres:
+- M H.Milan.XVIle siecle.Diam. 22 cm.
+- 76 ASSIETTE. Dans un paysage un cavalier galope en costume de l'epoque. Dans la main
+- droite il brandit une epee nue. Couleurs fortes: ocre, bleu, vert, violet manganese. Montelupo. 1ere moitie du xVlle siecle. Diam 32,5 cm.
+- 77 GRAND SERVICE DE TABLE. 134 pieces se composant de 58 assiettes plates, 13 assiettes creuses,6 grands plats ronds diam.35 cim,16 plats ronds diam.27 cm, 8 plats ovales 26:33 cm, 2 plats ovales 31:40 cm, 2 plats ovales avec poignees 27:37 cm, 6 assiettes a dessert diam. 15 cm, 3 petits plats ovales 20:31 cm, 5 terrines avec couvercle 19:25 cm,2 seaux a vin,haut.20 cm,2 petites terrines a couvercle 10,5:12 cm,2 plats ronds ondules, diam. 23 cm. Decor: bouquets de fleurs naturalistes en carmin, jaune, lilas, vert. Pesaro. XVIlle siecle. Ayant appartenu au cardinal Riminaldi. PLANCHE 8.
+- 78
+- PORTE-ALIMENTS. Deux pieces. Avec fleurs naturalistes en carmin et vert. Pesaro. XVIlle siecle. Haut. 18 cm.
+- 79
+- ECRITOIRE. Avec encrier, sablier, boite a plumes. Avec fleurs naturalistes en carmin et vert. Pesaro. XVille siecle. 25:16 cm.
+- 80 ALBARELLE avec couvercle. A berettino a rinceaux vegetaux. Sur le cote frontal filet horizontal avec linscription:B DELLIO. Au dessus signe pharmaceutique: Sainte Marie en jaune. Bord defectueux. Savona. xVIe siecle. Haut. 30 cm.
+- PLAT OVALE. Au fond paysage architectural violet bleu, jaune, vert. Le bord coquille,
+- 81 avec fleurs violet manganese. Savone. XVlle siecle. Diam, 30:36 cm.
+- Le bord coquille,avec fleurs et feuillage en violet manganese, bleu clair, brun et vert. Savone. Xvlle siecle. Sur le cote
+- 82 PETIT PLAT OVALE. Au fond paysage architectural. posterieur:J G lies. Diam. 22,5:26 cm.
+- 83 GRAND PLAT ROND. Trés ondule. Blanc. Probablement Savone. Vers 1700. Diam.50 cm.
+- 84 CRUCHE A CAsQUE. Avec mascaron au deversoir. Anse serpentine. En vert, bleu,.jaune. Savone. Milieu du XVllle siecle. Haut. 18 cm.
+- Decor: arbres.
+- 85 UNE PAIRE DE CRUCHES DE PHARMACIE.Ovoides sur piedouche. Deversoir en tuyaux avec boucle. A anse,a berettino. Rinceaux bleus. Savone. xVlle -Xvllle siecle. Haut.27,5 cm.
+- 86 PETITE ASSIETTE.A berettino.Rinceaux bleus.Bordure.Dessous de lassiette: feuilles rayonnantes en forme de lancette au bord. Probablement Sienne.Vers la seconde moitie du XVle siecle. Marque bleue L. Au bord legerement reparee. Diam. 17 cm.
+- 87
+- ASSIETTE. Au fond trophees d'armes. Le bord a quartieri avec des rosaces. Jaune, ocre, bleu et vert. Peut-etre. Sienne, Ferdinando-Compani 1736-1744. Marque gravee: F C. Legerement reparee. Diam.31 cm.
+- 88 DEUX GRANDES CRUCHES DE PHARMACIE. A panse col court, court deversoir en forme de tuyau; double anse serpentine. Feuilles aux lobes larges, peintes legerement en bleu Filet horizontal avec linscription: A. D. CAP. VEN. et M. D. B. ETONICA. Au-dessous, ecusson de pharmacien. Arbre sur fond blanc, au-dessus deux etoiles dorees
+- et un lis sur fond bleu. Sous l'anse: 1663. Toscane. Haut. 34 cm.
+- 89 9 PLAT A APPLIQUE. Rond. Le fond divise en quatre par des sentiers qui sont, comme le bord, ornes de rinceaux.Toscane. xVle —XVlle siecle. Diam. 38 cm.
+- 90
+- COUPE A PIED. Sur pied haut (rapporte) coupe rondo et profonde. Au fond buste d'une jeune dame en gris bleu et brun sur fond jaune. Avec les lettres: V B. Le bord a linterieur et a l'exterieur orne de grotesques en jaune, ocre,bleu et vert. Urbin. Commencement du xVle siecle. Diam. 17,5 cm. PLANCHE 3.
+- 91 COUPE. Coupe plate sur piedouche avec bord ondule en forme d'eventail. Au fond scene de Vulcain. Dans un paysage de montagnes Vulcain est assis pres de lenclume et brandit un marteau. Un petit ange fait de meme tandes qu'Amour regarde. A gauche forge. A droite sont assis sous une tente bleue. Venus et Mars, se tenant nus etroitement enlaces. Jaune, ocre,vert et bleu. Sur le derriere troits bleus rayonnants. Urbin. Milieu du xVIe siecle. Au bord gauche reparee. Haut. 5,7 cm. Diam.22 cm. PLANCHE 4.
+- 92
+- ASSIETTE PLATE. Grotesques a candeliere. Au milieu est assis un vieux briton de la tete duquel sortent sept rameaux sur lesquels des animaux se livrent a leurs ebats. Sur le cote des Nereides et des animaux marins. Ocre, bleu, vert,noir. Urbin. Seconde moitie du XVIe siecle. (En bas manque un petit morceau du bord.) Diam.26 cm. PLANCHE 4.
+- 93
+- GRAND PLAT A OMBILIC. Sur l'ombilic Amour. La pente et la cannelure creuse avec des grotesques sur fond blanc. Le bord coquille, avec feuillage. Jaune, ocre, vert, jaune. Urbin.Vers 1600. Diam.44 cm. PLANCHE 3.
+- 94
+- ASSIETTE POUR EPIS DE MAIS. Sur une assiette peinte de grotesques est place un gros melon jaune. Urbin. Commencement du XVlle siecle. Diam. 24 cm.
+- 95 PLAT OVALE. Bord plie vers le haut, faconne,partage en quatre. A berettino. Au fond petit garcon marchant. Au bord bouquets de fleurs detaches. En vert, jaune, bleu avec
+- contours violets. Venise. XVlle siecle. Diam.28:36 cm.
+- GRAND VASE DE PHARMACIE.Avec rinceaux en vert et jaune. Italie Superieure.
+- 96 XVIle siecle.Haut. 54 cm.
+- 97
+- GRANDE CRUCHE. A panse.Deversoir pince. Large anse avec rayures medianes appliquees. Glacure jaunatre blanche. Grillage gris avec raies verticales jaunes et volutes violettes. Sur le cote anterieur dans un trace schematique brun, jaune et gris-bleu une ville avec deux canons et un soldat. Au-dessus linscription: lasupa (deux fois); audessous P. B. Au-dessous de l'anse:168l. Sur le fond marque blanche:B.P. Italie Centrale. Bord ebreche. Haut.31,5 cm.
+- Blanc. Italie. Superieure.
+- 98 CHANDELIER.Sur socle carre et a jour.Fut balustre. XVIle-XVIlle siecle. Haut. 20 cm.
+- 99 CENTRE DE TABLE POUR HORS D'EUVRE.Un grand cabaret carre et faconne avec quatre plus petits. Bord faconne. Les quatre petits plats s'adaptent aux coins. Decor: formations verdatres en forme de nuages avec grillage. Fleurs. En vert jaune, bleu. Probablement Italie Superieure. Milieu du xVllle siecle. Un plat avec la marque violette.
+- 33:40ou 17:24cm.
+- 100 TERRINE OVALE. Sur quatre pieds avec volutes. Aux anses rocaille. Sur le couvercle fruit. Decor: bouquets de fleurs en carmin et vert. ltalie Superieure. XVlle siecle. Haut.24,5 cm.Diam.22:33 cm.
+- 101 QUATRE PLATS A PIED. Bord faconne. Peint avec des fleurs et des vases polychromes.
+- 102
+- Italie Superieure. Milieu du XVllle siecle. Diam. 28 cm.
+- PLAT ROND. Bord faconne coquille. Bouquets de fleurs violet manganese au fond et au bord. Italie Superieure. xvIlle siecle. Diam. 4l cm.
+- 103
+- ASSIETTE PLATE. Bouquet de fleurs et oiseau polychromes. Italie Superieure. (Venise). XVIlle siecle.Diam.22,5 cm.
+- 104 PLAT A POISSON. Poisson long genre brochet, peint a la naturaliste. Comme poignee un citron. Partie superieure demontable. Italie. XVllle siecle Grave:Agostinelli frabica () Long. 65 cm.
+- 105
+- 5PETIT PLAT OVALE. Avec fleurs polychromes. Defectueux. Italie Superieure. XVIlle siecle. Diam.20:25,5 cm.
+- 106 PIECES D'UN SERVICE. 5 plats ovales,3 plats ovales, 2 saucieres, 1 huilier, avec grands
+- bouquets de fleurs vertes. Italie. Milieu du XVille siecle.
+- 107 GRANDE PRETRESSE. Dans le genre d'une statuette de Tanagra. Vetement de dessous blanc avec points noirs, manteau noir. Italie. Vers 18oo. Haut. 17 cm.
+- 108 PLAT PALISSY. Forme ovale. Bord etroit, plie vers le haut. Au fond en haut-relief famille du roi Henri Iv. Le roi est assis sur une chaise, pres de lui la reine, a gauche une femme avec un enfant sur les genoux, a droite se tient debout un petit prince; derriere quatre hommes. Le bord avec moulures et fleurs en relief. En violet,bleu, jaune, vert, gris et brun. Le verso bleu, violet manganese et blanc. Vers 1600. Diam.25:30 cm.
+- 109
+- PLANCHE 4.
+- PLAT A BARBE. Au fond bouquet de fleurs naturalistes en rose, jaune, violet et vert. Le bord avec rocailles, rehauts de pourpre. Marseille. Vers 1750. Diam. 24:33.5 cm.
+- 110 BUIRE A CAsQUE AVEC PLAT. Plat ovale a bord ondule. Decor:paysage en pourpre. Rameaux entrelaces avec feuillage en pourpre, jaune, vert. Marseille. XVllle siecle. Haut. de la buire 18 cm. Plat 28:35 cm.
+- 111 LUNETTE: ANNONCIATION. Champ gothique. A droite est assise sur un banc la jeune Marie, tenant dans ses mains un livre; a gauche est agenouille un jeune ange aile en costume de diacre. Dans la main droite il tient une tige verte de lis; la main gauche est levee; en haut plane la colombe. Sur fond bleu les figures blanches en haut-relief. Maniere de Robbia. Vers 1500. Cadre dore cisele. Haut. 55,Larg. 41 cm.
+- 112 CRUCHE BOUTEILLE. Peint avec fleurs,blason et lansquenet polychromes. Haut.34,5 cm.
+
+## Porcelaines.
+
+- terrine. Terrine avec deux anses a branches. Couvercle avec poignee semblable. Larges bordures, peintes dorees et circulaires. Scenes d'un port de mer avec ruines et personnages europeens en couleurs variees. Saxe. Hoerold. Vers 1730-40. Marque bleue A R lies. Haut. de la terrine 13, Diam. de la soucoupe 23,5 cm. PLANCHE 9.
+- 114 PENDULE DE CHEMINEE. Sur pied ovale a quatre lobes se dresse le haut socle, richement decore de rocailles avec rehauts d'or, de fleurs plastiques polychromes et d'un petit ange assis. Dans le champ central ovale sont peints de petits anges qui volent sur des nuages. Sur la partie qui conduit a la boite une tete plastique et ailee de Chronos. La boite ronde est entouree d'un petit ange qui vole, d'une aile et de chrysanthemes en couleurs. En haut est assise comme couronnement une dame legerement vetue avec une corbeille de fleurs. Vieux mecanisime de Jacques Castanier. Sur le derriere de la pendule bouquets de fleurs naturalistes. Saxe. Vers 1750.Modele de Kandler. Marque bleue: epees. Haut. 43 cm. Provenance Morosini. PLANCHE 10.
+- COUvERT. Fourchette et couteau. Les manches a cannelures tournees. Peints de bouquets de fleurs polychromes. Les rocailles avec rehauts de pourpre et d'or. Dans
+- 115 un etui de vieux maroquin or gaufre. Saxe. Vers 1750. Long. 8,5 cm.
+- 116 TASSE A CHOCOLAT AVEC SOUCOUPE. A double anse. Nuages dores pourpres
+- avec Venus sur son char, ou deesse avec de petits anges. Saxe. Vers 175o. Marque bleue: épees. Haut. de la tasse 7,5, Diam. de la soucoupe 14 cm. PLANCHE 11.
+117. HERCULE ET OMPHALE ENFANTS, GROUPE. Sur un socle ovale, rehauts d'or sont
+- assis Omphale en corsage jaune avec jupe a fleurs, Hercule avec draperie autour des hanches et quenouille. Saxe. Vers 1750-60. Marque bleue: epees. Haut. 13 cm.
+- 118 JUPITER.
+- 119
+- Sur socle rond avec rocailles a rehauts d'or. Avec manteau bleu clair, double lilas clair. Saxe.Vers 1770. Haut.15 cm.
+- APOLLON. Pendant du precedent. Avec manteau jaune, double brun. Saxe. Vers 1770. Marque bleue: épees.Haut.15,5 cm.
+- 120 pot a lait, d'une coupe, dun petit plat ovale, de six tasses a cafe avec soucoupes, de vingt tasses a the avec soucoupes. Entrelacs au bord. Decor: fleurettes naturalistes disseiminees et polychromes.Saxe.Vers 1770. Marque bleue: epees. Haut. des cafetiere et theiere 22 et 12 cm.Haut.des tasses 7,5 et 4,5 cm. Provenance Duc de Camerino.
+- SERVICE A CAFE ET A THE. 33 pieces. Se composant d’une cafetiere, d’une theiere, d’un
+
+PLANCHE 11.
+
+- 121 TASSE A CAFE AVEC SOUCOUPE. Bordure doree avec champs ovales. Grands medaillons ronds avec vues de parc multicolores avec dames en costumes rococo. Entoure de bordure en or et vert. Bouquets de fleurs naturalistes de couleurs variees. Saxe. Vers 1770. Marque bleue: epees. Marque or: G. Haut. de la tasse 6 cm, diam. de la soucoupe 13,5 cm. PLANCHE 11.
+- 122 ASSIETTE A BISCUITs. Au fond scenes de menuet a trois personnages. Bord a jour a entrelacs avec fleurs et ornements. Saxe. Vers 178o. Marque bleue: epees avec etoile.Diam.25,5 cm.
+- 123 GROUPE D'ENFANTs. Sur socle ovale avec ornement Louis Seize: des enfants se livrent a leurs jeux levant la colonne d'une deesse. Une petite fille va sur des echasses; un petit garcon est couche sur le sol; un second suit la petite fille. Sur le sol un troncon de colonne et une petite corbeille de pommes. Saxe. Vers 178o. Modele d'Acier. Marque bleue: épees. Haut. 26,5 cm.
+- 124
+- GROUPE D'ENFANTS. Meme disposition. Sur un troncon de colonne ionique se balancent sur une poutre une petite fille et un petit garcon avec un tambour. La petite fille est tombee de la poutre; un second garcon se moque d'elle. Peint en couleurs variees, Saxe. Modele d'Acier. Vers 1780. Marque bleue: epees. Haut. 28 cm.
+- 125 GROUPE D'ENFANTS
+- 126
+- Sur un socle ovale est assise pres d'un tronc d'arbre une petite fille qui dispose une guirlande de fleurs autour d'une cage. Derriere elle est debout un petit garcon qui regarde un oiseau dans le nid.La petite fille porte un jupon raye, une jupe a fleurs et un corsage lilas clair. Le petit garcon porte une culotte courte grise, une chemise blanche et des souliers bleus. Saxe. Vers 178o. Marque bleue: epees. Haut. 19 cm.
+- LA JARDINIERE. Sur socle rond en rocaille, rehauts d'or est debout une petite fille qui tient a la main droite une pelle, a la main gauche des fleurs. Elle est pieds nus et porte une jupe rayee a fleurs, un corsage lilas clair, un fichu blanc. Saxe. Vers 178o. Marque bleue:épees avec etoile.Haut. 14 cm.
+- 127
+- 128 PETITE FILLE AU CHAT. Pendant du precedent. Robe bleu gris. Tablier jaunatre.
+- ENFANT AVEC SINGE. Sur un socle en rocaille, a jour, rehauts d'or est assis sur un escabeau un petit garcon, devant lequel un petit singe habille se tient debout. ll porte un pantalon et veston gris bleu, un gilet rouge a ornements en or et un chapeau noir. Saxe. Vers 1780-90. Marque gravee: epees en triangle. Haut. 13 cm.
+- Le chat a un petit bonnet sur la tete. Saxe. Vers 1780-90. Marque gravee: epees en triangle.Haut.13,5 cm.
+- 129 PETITE FILLE AUX JOUETS. Une petite fille est debout sur un socle en rocaille,rehauts d'or et tient dans ses deux mains une petite brebis en bois. Elle porte jupon bleu, robe pourpre et petit bonnet rouge et or. Saxe. Vers 1780-90. Marque gravee: epees en triangle.Haut. 14 cm.
+- 130
+- LE DENICHEUR DE NIDS. Sur socle rond a ornements Louis XVI est debout devant un troncon de colonne un petit ange nu avec une draperie lilas autour des hanches; il deniche un nid sur un tronc d'arbre. Saxe. Vers 1780-90. Marque bleue: pees avec etoile. Haut. 17,5 cm.
+- 131 PETIT ANGE AVEC DINDON A LA BROCHE. Pendant du precedent. Sur socle rond a ornements Louis XVI est debout devant un troncon de colonne cannelee a la quelle est suspendu un carquois et des fleches, un ange nu et aile avec draperie blanche aux hanches; il tient a la broche un dindon plume en l'air. Saxe. Vers 1780-90. Marque bleue: epees
+- avec etoile. Haut. 16 cm.
+- LE DENICHEUR. Comme numero 126. Seuls les ornements du socle sont differents. La
+- 132 draperie autour des hanches lilas clair.
+- 133 TASSE AVEC SOUCOUPE. A anse. Frise de jeunes filles en relief qui dansent. Bordures en or. Sa.xe. Vers 1790. Marque gravee: epees en triangle. Haut. de la tasse 5, Diam.
+- de la soucoupe 13 cm.
+- 134 SERVICE A CAFE ET THE. 17 pieces. Se composant d'une cafetiere piriforme, dune theiere, d'un sucrier, d'une boite a the, de deux coupes, de 6 tasses a cafe avec soucoupes et de 6 tasses a the avec soucoupes. Decor: fleurs bleues en bleu sous la glacure, autrement or clinquant. Saxe. Marque bleue: epees. Haut. de la cafetiere et theiere 2l et PLANCHE 11.
+- 14 cm.Haut.des tasses 7 et 4 cm.
+- DAME AU ROUET. Jeune femme avec livre de prieres. Pres d'elle table rococo avec
+- 135 rouet. Peint. Saxe. Marque bleue: epees. Haut. 15,5 cm.
+- 136 SERVICE A EPICES. Sur un plat a trois cotes a bord faconne avec entrelacs, six petits pots avec couvercle et anse. lls sont a panse et a cannelures ondulees. Bouquets de
+- fleurs naturalistes peints en rouge fer, rose, jaune, bleu et vert. Vienne. Vers 1760. Marque bleue: ecu a fasce. Numero rouge du peintre 39. Haut des petits pots 7,5, Diam. du plat.30 cm.
+- 137
+- LA MARCHANDE DE FLEURS. Sur un socle rond en rocaille, rehauts d'or et de pourpre est debout une petite fille qui tient des fleurs dans son tablier. Dans ses deux mains elle tient egalement des fleurs. Aux pieds nus elle a des sandales; la jupe courte est ornee de fleurs bleues, lilas et or; corsage lilas clair. Sur la tete fichu blanc. Vienne. Vers 1760. Marque bleue: ecu a fasce. Haut. 14 cm. PLANCHE 9.
+- 138 socle rond a bords or. Elle avec fichu sur la tete; Lui en general en chef. Biscuit. Vienne. Vers 1760-70. Marque bleue: écu a fasce Imprime: O. Haut. chacun 19 cm.
+- CORBEILLE A BISCUITS. Sur trois pieds. Bord a jour. Decor: bouquets de fleurs naturalistes: roses, pivoines, etc. en rose, lilas, jaune, rouge fer.Vienne, Vers 176070.
+- 139 Marque bleue: écu a fasce. Diam. 2l cm.
+- 140 TETE-A-TETE. Quatre pieces. Cafetiere avec couvercle et cruche a lait, toutes deux sur trois pieds. Deux gobelets avec soucoupes. Decor: bordure de feuillage en vert et or. Vienne vers 1800. Marque bleue: ecu a fasce. Haut. de la cafetiere 14, de la cruche
+- a lait 12,des tasses 6 cm.
+- 141 TASSE-GOBELET AVEC SOUCOUPE. Fond vert clair, bordure or avec feuilles de laurier, imprimees, avec coq chantant en brun noir. Devise: Quand ce coq chantera, mon amitie finira. Vienne. Marque bleue: ecu a fasce.Imprime: 82l. Haut. 10, Diam. de la soucoupe 14 cm. PLANCHE 8.
+- 142
+- TASSE-GOBELET AVEC SOUCOUPE. Comme anse aile. Fond bleu ciel. Bordure or avec feuilles de laurier. Peinture a seiche: Deux perroquets se becquetant sur une perche avec l'inscription:Les inseparables. Vienne. Marque bleue: ecu a fasce. Imprime: 821. Haut. 9, Diam. de la soucoupe 14,5 cm. PLANCHE 11.
+- 143
+- TASSE-GOBELET AVEC SOUCOUPE. Fond bleu. Bordure or avec feuilles de laurier. Anse a volutes. Image brun seiche: cigogne avec linscription: La vigilance. Vienne. Marque bleue: ecu a fasce et 821. Haut. 8,5, Diam. de la soucoupe 13 cm.
+- 144 DOUZE TASSES-GOBELETS AVEC SOUCOUPES. Avec triglyphes et frises meandres. Anse a volutes. Dore clinquant. Vienne. Marque bleue: écu a fasce. Imprime: 822 Numero du peintre:137. Haut. 6,5,Larg.13,5 cm. PLANCHE II.
+- 145
+- TASSE-GOBELET AVEC SOUCOUPE. A anse. Fond brun bois madre. Paysage en gravure sur cuivre imprimee de A. Kraus. Vienne. Marque bleue: ecu a fasce. Haut. de la tasse 6, Diam.de la soucoupe 13 cm.
+- 146 ASSIETTE CREUSE. Bord faconne.Decor:roses, tulipes etc. Nymphenbourg.Vers 1760. Marque imprimee:ecu a losanges 5 L P. Diam. 25,5 cm.
+- 147 LE MOINE MENDIANT. Sur socle ovale, bombe, plat. Un moine s'avance le baton a la main. ll porte la soutane noire, le scapulaire blanc, la cape brune, doublee en jaune et le bicorne noir. Sur lepaule droite il porte un sac. Derriere une branche d'arbre. Nymphenbourg. Vers 1760. Modele de Bustelli. Haut. 16,5 cm. PLANCHE9.
+- 148
+- GROUPE D'ANIMAUX. Un boeuf est attaque par deux matins. Peint. Socle rectangulaire. Nymphenbourg. Vers 1840. Marque imprimée: écu a losanges avec etoile. No. 122. Haut.10,5 cm.
+- 149
+- GROUPE D'AMOUREUX. Dame assise avec eventail; monsieur avec fleur. Peint. Nymphenbourg. Marque imprimee: ecu a losanges. Transformation posterieure. Haut.18 cm.
+- 150 GRANDE COUPE MONTE SUR BRONZE. Terrine ronde a couvercle. Sur le couvercle, vercle comme sur le plat deux scenes satyriques dans le goit hollandais et anglais. 1) Grands
+
+couleurs variees en rouge fer, jaune,bleu, lilas, vert. Berlin. Vers 176570. Marque bleue:sceptre.Imprime: K et 15. Montage bronze or. Sur quatre pieds a griffes. 3 Pied eleve. Comme poignees deux tetes d'ange. Bord a jour avec un chien qui court.
+
+- petit ange agenouille avec verre et bouteille. Bord a entrelacs et bordure or. Sur le couseigneurs et ecclesiastiques ivres assis autour d'une table avec un bol; 2) Grands seigneurs qui mangent; 3) bourgeois jouant a une table; un gardien de nuit s'approche; 4) excursion de famille. Le tout avec paysages comme fonds. Bouquets de fleurs naturalistes aux
+
+Vers 1800. Diam.29,Haut.totale 62 cm. PLANCHE 10.
+
+- 151 LE FRANC-MACON. Pres du troncon d'une colonne est debout un homme en costume rococo qui leve de sa main gauche un verre. Devant lui une equerre et un compas. Ilporte des souliers noirs,culottebleue,tablier blanc,gilet a fleursrouges,jaquette apans, rayee rouge et tricorne noir. Berlin. 177o. Modele de Sam. Gottl. Poll. Marque bleue: sceptre.Haut.19 cm. PLANCHE 9.
+- 152 PETITE TERRINE AVEC COUVERCLE. Ronde. Avec soucoupe.Deux anses. Bord or avec perles. Medaillon rond avec myosotis bleu. Berlin. Vers 178o. Marque bleue:
+- sceptre. Haut. de la terrine 12,Diam. de la soucoupe 19 cm.
+- 153 LE MOISSONNEUR. Sur socle rond est debout pres d'un tronc d'arbre un jeune homme qui tient sous son bras gauche une botte d'herbe et dans sa main gauche une fleur. Il porte souliers noirs, culotte jaune, chemise blanche ouverte et gilet a bords verts. Loudwigsbourg. Vers 1770. Modele de Lejeune. Marque bleue: double 1. Marque rouge du peintre: Vr =. Haut. 13,5 cm.
+- 154
+- QUATRE PETITES COUPES AVEC SOUCOUPE. Marli entrelace vert avec guirlandes de fleurs aux couleurs variees. Venise. Cozzi vers 177o. Marque rouge: ancre. Haut.4, Diam. de la soucoupe 11,5 cm.
+- 155 TASSE AVEC COUVERCLE ET SOUCOUPE. Anse rocaille. Bordure a pointes or. Fleurettes a couleurs variees. Trois fois un blason applique: ecusson ecartele or et bleu. 1 et 4 lion bleu couronne 2 et 3 lion or; tout-a-tout avec double aigle noir. La soucoupe Saxe rebut. La tasse comme la peinture de la soucoupe: Cozzi, Venise, vers 1770. Marque bleue: épees; ancre. Haut de la tasse 13, Diam. de la soucoupe 14,5 cm.
+- 156 ASSIETTE. Au fond paysage. Sous un arbre sont assis deux jeunes gens qui dorment. A droite un patre sur un ane avec des brebis. Vert, brun, violet et rouge. Cadre noir. Venise. Vers 1780. Cadre en bois. Diam.22 cm.
+- 157 PIECES D'UN SERVICE. Quatre pieces. Tasse a chocolat, tasse a the avec soucoupe,
+- et une assiette plate. Paysages architecturaux pourpre clair. Filet bleu roi avec ornements or. Venise. Vers 1780-1800. Diam. de l'assiette 24, Haut. des tasses 8 et 4,5 cm.
+- DEUX RELIEFS. Le jugement de Paris et Phaeton, precipite du char du soleil. Peint
+- 158 polychrome. Capodimonte. Vers 1750. Haut.12,Larg.12 cm.
+- 159 DEUX TASSES A CAFE AVEC SOUCOUPES. Anse entrelace. Sur la tasse frise en relief. Phebus Appollon sur le char du soleil sortant de la mer, peint en couleurs vives. Dans la soucoupe coquillages et guirlandes de fleurs, egalement en relief et peints en pourpre,vert or. Capodimonte.Vers 1750. Marque or:blason. Haut. de la tasse 7,5, Diam.de la soucoupe 13,5 cm. PLANCHE 11.
+- 160 TASSE A THE. Anse tournee. Frise avec scene mythologique en relief. Blanc. Capodi
+- monte vers 1750. Haut.5 cm.
+- 161 GROUPE DE SILENES. Sur un socle eleve en coraille sont assis deux Silenes, couronnes de pampres; l'un tient a la main une coupe. Blanc. Capodimonte.Vers 1750--60. Haut.17,5 cm.
+- DEUX ASSIETTES. Au fond brocard et paon. Filet avec ornements Louis XVI. Lilas
+- 162 et or.Capodimonte. Vers 176070.Diam.24,5 cm.
+- 163
+- QUATRE OBELISQUES. Sur socle carre blanc et bleu roi s'eleve sur quatre tortues l'obelisque pourpre fonce mouchete. Capodimonte. Vers 1780. Haut. 23 cm.
+- 164
+- 165
+- PATRE ET JEUNE FILLE AUX FRUITS. Pendants. Sur chaque socle eleve,rectangulaire Capodimonte. Vers 1780 00 Haut. chaque sujet 15 cm.
+- ECRITOIRE. Bombe. Rose mouchete. Capodimonte. Fin du XVIlle siecle. Haut 9 cm.
+- 166 GROUPE D'AMOUREUX. Sur un socle de rocher est assis un homme qui joue du luth; devant lui se tient debout une dame, tenant a la main une fleur. Costume empire. Blanc. Capodimonte. Vers 1800. Haut.15,5 cm.
+- HUILIER. Deux trous pour les bouteilles avec ornements a jour. Au milieu femme avec corne d'abondance. Plateau en bois. Dore et sculpte. Deux flacons en verre. Capodi-
+- 167 monte. Blanc. Haut.28 cm.
+- 168 TASSE-GOBELET AVEC SOUCOUPE. A anse. Guerrier dormant et Nereide sur animal marin. Filet bleu roi et ornements or. Naples. Vers 1780-90. Haut. de la tasse 6, Larg. de la soucoupe 13,5 cm. PLANCHE 11.
+- 169 PETITE TERRINE. Avec couvercle et soucoupe. Guirlandes de fleurs. Medaillons avec types de la Campagna. Naples. Vers 178090. Marque bleue: N avec couronne. Haut. 15, Diam. de la soucoupe: 23,5 cm.
+- PETITE TERRINE A COUVERCLE AVEC SOUCOUPE. Ornements pourpre au bord. Medaillons avec types de la Campagna. Probablement Naples. Imprime: F.M. S.N.
+- 170 Diam.de la soucoupe 24,5 cm.
+- 171 PARIs. Appuye a un tronc d'arbre le jeune homme nu se tient debout; sur la tete un bonnet phrygien blanc; a la main droite une pomme. Pres de lui une houlette. Buen Retiro.
+- Vers 1780.Haut.19 cm.
+- 172 MERCURE. Sur un socle a jour, rehauts d'or le dieu s'avance, vetu d'un court manteau jaune et d'un casque aile. A la main gauche le caducee. Derriere lui un paquet ficele. Buen Retiro. Vers 1780 (?) Marque bleue:étoile. Haut.14,5 cm.
+- 173 GROUPE. Sur socle eleve. Sous un arbre est assise une jeune fille. Un jeune homme avec des fleurs a la main accourt vers elle. Derriere se tient debout une autre jeune fille. Polychrome.Venise.Vers 1800. Haut.24,5 cm.
+- 174
+- GROUPE DE PERSONNES. Aupres d'un arbre se tiennent debout en cercle deux jeunes filles et un jeune homme. Sur haut socle en pierre. Polychrome. Venise. Vers 1800. Haut.23,5 cm.
+- 175 GROUPE DE PATRES. Sur haut socle en pierre une jeune fille assise et un jeune homme montrant du doigt le lointain, avec deux brebis.Polychrome. Venise. vers 1800. Haut.23 cm.
+- 176 DEUX PORTE-FLEURS.Gros troncs d'arbre avec beaucoup de branches devant les quels sont assis une paire de patres, une petite fille et un petit garcon.
+- Polychrome. Venise. Vers 1800. Haut.27 cm.
+- 177
+- HOMME AU RAISIN. Sur un socle oval en pierre se tient debout un homme qui tient en l'air un raisin. Pres de lui une branche avec des raisins et un petit ange assis. Polychrome. Venise. Vers 1860. Haut.17 cm.
+- 178
+- VASE. En forme de navire. Blanc avec petit filet or. Paris. Vers 1800. 15:34 cm.
+- 179 COUPE AVEC SOUCOUPE. Sur trois pieds Hermes. Couvercle. Avec ornements rayonnants or; ustensiles antiques. L'interieur du couvercle peint. Petite fille avec lievre.
+- Reparee.Paris.Vers 1790.Haut. 21 cm.
+- 180 TASSE-GOBELET AVEC SOUCOUPE. Fond jaune. Champs laisses en blanc avec emblemes
+- polychromes. Paris. Haut. de la tasse 6, Diam. de la soucoupe 12,5 cm.
+- 181
+- DEUX PETITS VASES. Blancs. Italiens.Haut. chacun 12 cm.
+- 182 DEUX TASSES AVEC SOUCOUPES.Fond bleu roi avec bordure or. Inscription:Souvenir deC.K. Sevres.1815.
+- Marque bleue: double L.Marque verte: 17. Ill. 15. Marque or: 1815. Haut.7 cm. Larg.15,5 cm.
+- 183 TASSE-GOBELET AVEC SOUCOUPE.A anse. Fond bleu. Medaillons avec Amour et tete de femme, polychromes, entourees de feuilles de palmier or. Sevres. Vers 1820-40. Marque bleue: double L. Haut. 7, Diam. 12,5 cm.
+- 184 LE VIOLONISTE. Sur socle rond en rocaille se tient debout un homme en costume rococo,
+- 185
+- qui joue du violon. Peint en rose. Marseille. Marque bleue: 1 R lies. Haut. 20,5 cm.
+- SOUCOUPE. Avec bouquets de fleurs polychromes. Niderviller. Vers. 1780. Marque bleue: double L avec couronne. Diam. 13 cm.
+- 186
+- un baiser d'Amour. Reproduction du tableau de Gerard. Don de Napoleon I. En riche cadre or empire avec velours vert. Commencement du Xixe siecle. Serres. Haut. 35, larg.23 cm.
+- 187
+- COUPE A PIED. Avec couvercle et soucoupe. Deux anses a tete de cygne. Fond jaune avec fleurs facon antique. Paris. Empire. Haut. 15, Diam. de la soucoupe 21,5 cm.
+- 188 TASSE-GOBELET AVEC SOUCOUPE. Sur trois pieds a griffes. Anse a volutes Fond or rayonnant avec rinceaux bleus. Paris. Haut. 11,5, Diam. de la soucoupe 16 cm.
+- 189 TASSE-GOBELET AVEC SOUCOUPE. A anse. Fond bleu roi avec petites feuilles or. Petit ange devant l'autel des sacrifices et ustensiles antiques en grisaille. Paris. Haut. 8,5, Diam. de la soucoupe 18,5 cni.
+- 190 VASE POT-POURRl. Couvercle.Fond creme. Fleurs polychromes plastiques appliquees.
+- Paris. Jean Petit. Haut. 20 cm.
+- 161 VASE POT-POURRI. La meme forme. Fond lilas avec ornements or. Fleurs polychromes en relief. Medaillon: scene avec cavalier. Paris. Jean Petit. Haut. 18,5 cm.
+- 192 TASSE AVEC SOUCOUPE. Avec une paroi a jour. Fleurettes polychromes. Paris.
+- Jean Petit. Haut. de la tasse 7 cm, Diam. de la soucoupe 15 cm.
+- 193 ASSIETTE. Au fond paysage, ile. Filet vert avec dentelles. Dagoty. Paris. Diam. 22 cm.
+- TASSE-GOBELET AVEC SOUCOUPE. Vers le haut anse a volutes, faisant saillie. Fond vert. L'interieur tout or. Filet avec couronne de feuilles de lierre rayonnantes. Petites images brun de seiche. Amours jouant. Paris. Dagoty. Haut. 8,5 cm, Diam. de la soucoupe 14,2 cm.
+- 195
+- TASSE A THE AVEC SOUCOUPE. Fond vert. Cartouche blanc avec armoiries. Cygne sur champ rouge. Devise: Mens sibi conscia recti. Feuillet. Paris. Haut de la tasse 5 cm,Diam.de la soucoupe 13,5 cm.
+- COUTEAU ET FOURCHETTE. Manches avec chinoiseries et fleurs en rouge tuile, jaune,
+- 196 vert et bleu. Rue de Charonne. Marque rouge: D.V. Long. du manche 8,5 cm.
+- 197
+- TASSE A THE. A anse. Peinte avec bouquets de fleurs en rouge fer, pourpre, jaune et vert. Petit filet or. La Haye. Vers 1780. Marque bleue: cigogne avec pinson. Haut. 5 cm.
+- 198
+- DEUX ASSIETTES PLATES. Filet faconne. Au fond armoiries. Sur champ bleu lion debout or vers la gauche au-dessus couronne de comte. Le filet avec rinceaux bleus. Tournai. Vers 1750--60. Marque or: tour. Provient de la collection Prieto. Diam.25 cm.
+- 199 TASSE-GOBELET AVEC SOUCOUPE. A anse. Bordure a feuillage or autour d'un baton bleu. Derby. Vers 18oo. Marque violette: deux batons en croix avec couronne et D. Haut.7,Diam. de soucoupe 13 cm.
+- 200
+- TASSE-GOBELET AVEC SOUCOUPE. Guirlandes de fleurs ondulees. Armoiries: ecartele 1 et 4 poutres bleues diagonales sur champ blanc. 2 et 3 phoque (?) sur champ rouge. Worcester.Vers 1760. Marque bleue: croissant. Long. de la tasse 6,5 cm, Diam. de la soucoupe 13,5 cm.
+- 201 DEUX PETITES COUPES AVEC SOUCOUPES. Decor ondule: fleurs en rouge fer et
+- or gont chinois. Worcester. Marque bleue: epees. Haut.4 cm, Diam. 13 cm.
+- 202 GOBELET COQUILLE. Sur pied rond est accroupi un Silene qui porte une coquille de Triton Sur elle est assise une panthere. Avec mascaron et guirlandes de pampres en relief. Peint en vert clair,bleu, lilas, brun, noir et or. Probablement Worcester. Vers 1790. Marque bleue: deux epees en croix. Haut. 25 cm.
+- 203 PORTEUR D'EAU. Sur socle rond avec herbes se tient debout un homme qui porte sur le dos un grand recipient d'ou, au moyen d'un tuyau, il peut laisser couler de l'eau. Il porte des souliers noirs, une veste brune. Anglais. Fin du XVIlle siecle. Haut. 22,5 cm.
+- 204 VENDEUSE DE POISSON.Pendant du precedent. Elle est debout pres d'une chaine avec des poissons et tricote. Elle porte un jupon jaune, une jupe a fleurs bleues, retroussee, un corsage lilas raye et un fichu rouge sur la poitrine. Anglais. Fin du Xvllle siecle. Haut.29,5cm.
+- 205 TASSE-GOBELET AVEC SOUCOUPE. A anse. Avec guirlandes de fleurs polychromes. Arimoiries: 1. Tour blanche sur champ rouge;2. Deux tetes de loup avec poutre diagonale 4. quatre fois divise en diagonale; poutre or, poutre d'echiquier blanc azur, poutre rouge, echiquier blanc azur. Anglais. Vers 1780. Haut. 7, Diam. de la soucoupe 13 cm.
+- 206 TETE DE VIEILLE FEMME. XVIlle siecle. Haut. 7 cm. Capodimonte.
+- 207 TASSE-GOBELET AVEC SOUCOUPE. A anse. Sur fond bleu ornements or rayonnants
+- Vers 1790.Haut. de la tasse 5, Diam.de la soucoupe 12,5 cm.
+- 208 TASSE-GOBELET AVEC SOUCOUPE. A anse. Fond rose avec femme dans un medaillon. Champs or. Vers 1800. Haut. de la tasse 6, Diam. de la soucoupe 13 cm.
+- 209 SERVICE.Huit pieces. Huit grandes tasses a bouillon avec couvercles et soucoupes. Soupiere a couvercle, plate,ronde. Fond couleur abricot. Medaillons ovales avec bateaux a voiles et a vapeur et fleurs. Marque bleue: epees avec etoile. Imitation de Saxe vers 1826. （Italie ou Angleterre). Haut. des tasses 13 cm,Diam. des soucoupes 13,5,Diam.de la terrine 19 cm.
+- 210
+- IDYLLE D'ANIMAUX. Dans un fauteuil est assis un vieil ours en robe de chambre il lit; devant lui est debout un jeune ours avec bouquets de fleurs. Peint. Vers 1840. Haut.20 cm.
+- 211
+- TASSE-GOBELET. Soucoupe depareillee. Paysage en peinture brun de seiche. Haut. 6,5, Diam. de la soucoupe 12,5 cm.
+- 212
+- DEUX GROUPES. Deux femmes nues entre deux buissons. Inconnu. Haut. chacun 15,5 cm.
+- 213
+- 214
+- ORCHESTRE SINGES. Neuf pieces. Le chef dorchestre avec huit musiciens. Peinture polychrome. Imitation de personnages, de Saxe. Haut. 1l cm.
+- SURToUT. D'un groupe central: deux Amours, quatre Amours isoles, quatre vases avec six porte-fleurs etroits. Haut. des figures centrales 25, Haut. des autres 18 cm.
+- 215 TROIS NAINS. Blancs. Haut. chacun 7 cm.
+- 216
+- TAssE. Couvercle. Soucoupe avec ouverture pour la tasse. Peinte avec fleurs et bergeries. Haut.12 cm.
+- 217
+- TURC SUR UN RHINOCEROS. Polychrome. Haut.21 cm.
+- 218
+- THEIERE AVEC DEUX TASSES A THE. Avec soucoupes. Avec moulures demi-spheriques sur la panse,intes nvert,noir,jaune,rouge,lilas.Vieille Chine.Haut.dela thiere 3m.
+- 219 PETITE COUPE. Peinte avec deux blasons et ornements en bleu, rouge et or. Japonais. Marchandise d'exportation.XVIlle siecle. Haut. 5 cm.
+- QUATRE ASSIETTES CREUSES. Au fond scenes avec des dames. Au bord fleurs.
+- 220 Imari.Diam.22 cm.
+- 221
+- LE CHIEN TO. Assis. Chine. Haut.7 cm.
+- 222
+- TERRINE AVEC SOUCOUPE. Couvercle. Deux anses.Decor: rinceaux a feuillage et a arbres en vert, or, rouge. Chine. Famille Verte. Diam. 16 et 26 cm.
+
+## Wedgwood et imitations.
+
+- 223 SUPPORT EN TROIS PIECES. Imitation pierre. Pour placer debout des figures. Savone.
+- Blanc.Haut. 31 cm.
+- 224 HOMME ROCOCO. Assis devant un siege a trois pieds; il sent une fleur. Blanc Nove. Vers 1800. Haut.29 cm.
+- 225 SUPPORT.Avec chevaux marins. Nove. Haut. 19 cm.
+- 226
+- BONHEUR FAMILIAL. Sous un arbre est assise une femme avec un enfant sur ses genoux. Pres d'elle est debout un jeune homme; derriere un homme avec une echelle et une petite fille. Blanc. Nove.Vers 1800. Haut.32 cm.
+- GROuPE. Sous un arbre est debout un paysan avec des fleurs; pres de lui deux petits
+- 227 garcons a genoux. Nove. Blanc. Haut 24 cm.
+- 228 GROUPE D'AMOUREUX. Sous un arbre est assise une dame qui tend une fleur a un
+- homme qui s'approche. Blanc. Nove. Vers 1800. Haut. 33 cm.
+- MARS ET VENUS. Socle rond sur plateau a jour. Sur le socle est debout Venus habillee;
+- 229 pres d'elle est assis Mars arme. Nove. Haut. 44 cm.
+- STATUE EQUESTRE DE COLLEONI. Sur une plaque rectangulaire. Blanc. Probablement
+- 230 Venise.Haut.35 cm.
+- 231
+- GROUPE. A un arbre grimpent deux petits garcons nus. Blanc. Abruzzes. Vers 1800. Haut.25,5 cm.
+- 232 PLAQUETTE RONDE. Sur fond bleu clair relief blanc: jeune fille qui dort couchee sur un divan; un Amour vole vers elle. Wedgwood. Vers 180o. Petit cadre noir. Diam. 5,5 cm.
+- 233
+- VASE. Forme LOUIS xVI. Pied haut, panse resserree, col long a deux anses. Application sur agate avec draperies or en relief. Wedgwood. Marque imprimee. Haut. 28 cm.
+- 234 DEUXVASES. Ovoides." Guirlandes de fleurs en relief. Couleur paille. Anglais. Vers 1820. Haut.28 cm.
+- 235 QUATRE PLATS OVALES. Marli entrelacs.  Couleur paille. Vers 1820. 23:30 cm.
+- QUATRE SUPPORTS AVEC OUVERTURES RONDES.Avec filet a entrelacs. Couleur
+- 236 paille. Vers 1820. Diam. 14 cm.
+- 237 DEUX ASSIETTES. Entrelacs au bord. Couleur paille. Vers 1820. Diam. 25 cm.
+- 238 QUATRE CORBEILLES A BISCUITS. Ovales. Entrelacs. Couleur paille. Vers 1820. 16:23cm.
+
+2
+## Verre.
+
+- 239 LE CALVAIRE. Le Crucifie avec les deux personnages et Marie Madeleine. Principale-
+- ment noir et similor. Eglomise. Italien. XVle siecle. Vieux cadre or. Haut. 24, Larg. 19 cm.
+- 241 MERE ANNE. Sur une chaise est assise mere Anne en robe bleue et manteau rouge et apprend a lire a Marie debout devant elle, vetu d'une robe bleu clair. Sur les nuages petite tete d'ange. Eglomise. Cadre en bois brun richement cisele. B'rustolon attribue. Provenant de la collection du duc de Varano. Ferrare. Haut. 35, Larg.27 cm.
+- 242 Venitien. Milieu du XVIlle siecle. Haut. 55, Larg. 45 cm.
+- SCENE DE CARNAVAL ET LECON DE CHANT. D'apres Longhi. Eglomise. Cadre or.
+- 3 PAYSAGE AVEC RUINES. Italien. XVIle siecle. Eglomise. Cadre or. Haut. 25,5,
+- 243 Larg.19,5 cm.
+- 244
+- ASSIETTE RONDE. Filet faconne. XVIlle siecle. Venise. Diam. 19,5 cm.
+- 245
+- PLAT. Bord faconne. Venise. XVIlle siecle. Diam. 32 cm.
+- 246 PLAT A PIED. Pied bas. Au milieu du plat ovales bleus. Venise. XVIlle siecle. Diam.32cm.
+- 247 ASSIETTE RONDE. Avec poli ovale. XVIlle siecle. Venise. Diam. 19,5 cm.
+- 248 Cadre or. Haut.24, Larg.19 cm.
+- PAYSAGE. Port de mer avec nombreux personnages. Eglomise. Italien. XVlle siecle.
+- 249
+- 250 DEUX COLONNES EN VERRE. Venitien. Haut.17,5 cm.
+- PIAZZETTA A VENISE. 1823. Eglomise. Diam.8,5 cm.
+- 251
+- TROIS COLLIERs. Avec longs chainons facon verre, egypto-phenicien. Murano.
+
+## Gobelins, Tissus et Vetements.
+
+- 252 GOBELIN: SCENE D'AMOUR. Dans une foret sont assis deux amoureux etroitement enlaces et s'embrassant; en haut accourt Amour, volant avec une fleche. Sur le devant est couche un lion et un animal fabuleux.Au fond un cheval, un perroquet, un chevreuil, un aigle et un enfant. A droite un chateau-fort. Large bordure avec fruits et fleurs. Vert, jaune bleuatre et rougeatre. Flamand. xVle siecle. Haut. 289, Larg. 247 cm. PLANCHE 12.
+- 253 regardent avec etonnement les grenouilles qui sautent. Au fond tombent des pierres du
+- 254 GOBELIN:MOISE RECOIT LES TABLES DE LA LOI SUR LE MONT SINAi. Pendant du precedent. Au milieu est agenouille Moise a la puissante stature; il recoit les tables de la loi. En haut le nom de Jehovah. A gauche les Juifs dans le camp. Les Juifs deposent aux pieds de Moise des presents en or; a droite ladoration du veau d'or. Bordure
+- avec sa femme a une table. Autour de lui se tiennent debout des serviteurs qui tous ciel et assomment hommes et animaux. Large bordure sur fond rouge, rinceaux jaunes, disposes symetriquement. Quatre ovales bleus avec rosaces et quatre tetes de lion jaunes dans les coins en jaune, vert, bleu et rouge. Florentin.Vers 1600. Haut.447,Larg.410 cm. PLANCHE 13.
+- comme dans le Gobelin precedent. Florentin. Vers 1600. Haut. 454, Larg. 412 cm.
+
+PLANCHE 14.
+- 255 GOBELIN:L'INCENDIE DE ROME. A droite est assis sur un trone Neron;il tient a la main une coupe. Debout autour de lui des femmes, des hommes et des petits garcons avec des torches allumees. A gauche une femme couverte de chaines (completee en partie avec d'autres couleurs). Au fond un palais en flammes. Au.premier plan des pots, des boucliers, des fleurs et un petit singe. Large bordure. Sur fond: rouge grotesques jaunes et quatre ovales bleus: lion, cheval de mer, chauve-souris et Cerbere. En jaune, bleu rouge et rose. En bas sur la bordure l'inscription: IK. MAND ER FE CIT. 1622. Flamand. Haut.420,Larg.405 cm. PLANCHE 15.
+- 256 COFFRET AVEC BRODERIE PETIT POINT. Sur le couvercle char triomphal, tire par six chevaux. Sur les cotes fleurs. Polychrome. Italie. XVIe siecle. Haut.14, Larg. 38, Profond.25 cm.
+- 257
+- GARNITURE DE COUSSIN. Sur soie verte broderie appliquee: grands rinceaux symetriques; d'un champ central sortent quatre guirlandes en jaune, lilas, rose etc. Italien. XVlle siecle.
+- RELIURE ROUGE EN VELOURS. Brodee de rinceaux argent, armoiries et monogramme
+- 258 de prince en relief. Venitien. Vers 1700. Haut. 24, Long. 17 cm.
+- 259 DAMAS DE SOIE VENITiEN. Fond rose tendre, avec fleurs blanches et feuilles vertes legerement rehaussees avec ornementation montante. Avec fils d'or. Vers 170o.Long. 245, Larg.70 cm.
+- 260 DEUX TAPISSERIES. Broderie en soie sur toile, grandes guirlandes de fleurs et entrelacs au bord en soie. Vers 1700. Italien.Long. 280, Larg.253 cm.Long. 148, Larg.135 cm.
+- 261
+- TAPIS ROUGE DAMASSE. Avec grandes guirlandes de feuilles. Vers 17oo. Italien. Long.275,Larg.192 cm.
+- 262
+- BORDURE. Fond, filet a larges mailles brode de grandes fleurs en soie, polychromes. Italie.Vers 1700. Long. 120,Larg.37 cm.
+- 263 TROIS PIECES DE TOILE BRODEE. Avec fleurs. Vers 1700.
+- TAPIS DE TABLE BRODE. Soie moiree jaune avec riche broderie de soie. Au milieu cercle avec fleurs et oiseaux; dans les coins vases avec fleurs naturalistes. Bordure, fond
+- 264 a filet avec memes fleurs. Italien. Vers 1700. Long. 255, Larg. 255 cm.
+- VOLANT DE RIDEAU. Soie rayee, lourde et cotelee, blanche et brun clair avec petit
+- 265 bouquet de fleurs. Francais. XVllle siecle.Long. 390, Larg. 82 cm.
+- 266
+- SOIE DAMAsSEE. Fond rose avec fleurs en bleu, jaune, argent. XVIle siecle. Francais. Long. 228, Larg. 173 cm.
+- 267 SOIE DAMAsSEE. Fond blanc avec rameaux fleuris, couleur peche, lilas, vert et or. Francais. xVille siecle. Long. 207, Larg.150 cm.
+- 268
+- COUVERTURE PIQUE A DISPOSITION. Soie jaune or. Avec rosaces et lignes entre-
+- lacees. XVIlle siecle. Long. 265, Larg. 222 cm.
+- 269 COUVERTURE PIQUE A DISPOSITION. Soie bleu clair. XVIlle siecle. L. 305, L.278 cm.
+- 270 COUVERTURE PIQUE A DISPOSITION. Soie jaune. XVIlle siele.Long.245,Larg.205 cm.
+- 271
+- TAPIs. En soie damassee. Sur fond blanc petits bouquets de fleurs de toutes couleurs. Franges de soie vertes. XVile siecle. Long. 90, Larg. 86 cm.
+- 272
+- TAPIS DE BROCART OR. Fond brun rougeatre avec larges guirlandes de feuilles or. Italien. XVille siecle. Long. 114, Larg. 100 cm.
+- 273 TAPIS.
+- Soie damassee brochee. Fond rose avec fleurs argent or et vert. Avec franges. XVIlle siecle. Francais.Long. 108, Larg. S0 cm.
+- 274 TAPIs. Brocatelle. Fond verdatre avec fleurs vertes, roses et jaunes. Bords or. Italien. XVIlle siecle. Long. 140, Larg.100 cm.
+- 275 TAPIS DE SOIE BRODE. Soie blanche. Au milieu un ovale avec feu allume sous un arbre, sur le cote, des fruits. Bordure avec guirlandes de fleurs. Bord brun en velours. Seconde
+- 276
+- moitie du XVllle siecle.Italien. Long. 155,Larg.90 cm.
+- CHEMIN. Soie damassee en argent. Bleue brochee. Avec fleurs. XVille siecle. Iltalien. Long. 250, Larg. 100 cm.
+- 277
+- 278
+- DEUX ETOFFES DE SOIE. Soie moiree, vert de mer. XVIlle siecle. Italien. Long. 279
+- DAMAs OR. Fond rouge avec ovales, feuilles or. Au milieu une fleur argent. Francais. XVIlle siecle.Long.274,Larg. 55 cm.
+- IMAGE SUR SOIE. Saint moine au bord de la mer. En haut lenfant Jesus. Peinture a laiguille. Italien. XVlle siecle. Cadre or. Haut. 28, Larg. 20 cm.
+- chacune 205,Larg.114 cm.
+- 280 BORDURES. Velours vert avec guirlandes de feuilles en faux or. Empire. Vers 1800. Long. totale 410 cm.
+- 281 BRODERIE PETIT POINT. Elephant avec cornac indien dans un paysage. Commencement du XIXe siecle. Haut. 55, Larg. 72 cm.
+- 282 PORTE-FEUILLES AVEG ETOFFES SOIE DAMASSEE. 13 feuilles d'etoffes differentes. La plupart venitien et genois. XVlle et XVllle siecles.
+- 283
+- TROIS PORTE-FEUILLES AVEC MORCEAUX DE SOIE DAMASSEE. 34 feuilles avec differents morceaux de soie damassee avec fleurs polychromes. Italien et francais.La plupart du Xvllle, quelques-unes du XVlle siecle.
+- 284
+- SOIE DAMAsSEE. Moiree et cotelee. Fond vert de mer. Avec raies lilas et jaunes.
+- TAPIS POUR PIANO A QUEUE EN SOIE DAMASSEE. Moiree et fond jaune cotele avec larges raies vertes et raies etroites lilas. Francais. Long. 255, Larg. 180 cm.
+- 285 Francais. Long.285,Larg.304 cm.
+- 286 CHEMiN. Brocatelle. Fond creme avec grandes fleurs en vert, jaune et rose. Long. 240,
+- 287
+- Larg.50 cm.
+- BORDS DE VELOURS. Sur fond jaune lis bleu clair. Long.270 cm.
+- 288 BORDURE. Comme la precedente. Long. 450 cm.
+- 289 BORDURE DE VELOURS ROUGE. Avec fleurs, forme haute et basse. Long. 485 cm.
+- 290 BORDURE DE VELOURS. Sur fond blanc armoiries, rayees en diagonale; noir, bleu et blanc. Long.610 cm.
+- 291 BORDURE. Sur fond blanc guirlandes de fleurs rouges. Long. 495 cm.
+- 292
+- BORDURE. Sur fond blanc fleurs rouges, jaunes et vert clair. Long. 200 cm.
+- 293
+- BORDURE. Dessin hexagonal rouge et bleu sur fond blanc. Long. 535 cm.
+- 294 BORDURE DE VELOURS. Guirlandes de fleurs rouges, forme haute et basse. Long. 290 cm.
+- 295 BORDURE DE VELOURS.  Guirlandes de fleurs rouge vin. Long. 8OO cm.
+- 296 CADRE. Velours rouge avec filigrane, argente et dore. Haut. 30, Larg. 25 cm.
+- 297 BROCART. Fond brun avec trame en verre jaune or. 54:68 cm.
+- 298 CHASUBLE. Soie ponceau a dessin taillade. Bordure or. Italien. XVIe siecle.
+- 299
+- CAPE BRODEE DE PLUVIAL. Avec l'adoration des Mages. En riche broderie polychrome avec fils d'or. Neerlandais. XVle siecle. PLANCHE 16.
+- 300 CAPE ET BORDURE DE PLUVIAL. Soie rouge fonce avec application de broderie. Vases et guirlandes en ornement genre garniture de porte, jaunes avec broderies bleues, vertes, or et argent. Italien.XVIle siecle. Cape: Haut.55, Larg.52 cm. Bordure: Long.130, Larg.21 cm. PLANCHE 16.
+- 301
+- BORDURE D'UNE CHASUBLE. Sur soie rouge application de broderie; guirlandes s'elancant en cceur, jaunes, bleues et blanches.Italien. xVlle siecle.
+- CHASUBLE. Soie damassee. Fond blanc avec ornements: feuilles genre antique. Vers 1700.
+- 302 Italien.
+- 303 Scene a nombreux personnages dans un portique. Entouree de guirlandes de fleurs peintes, d'oiseaux et de papillons. Quelques festons en point d'armes or. Italien. Premiere moitie
+- du XVille siecle. Encadre. Haut. 80, Larg. 207 cm. PLANCHE 16.
+- 304
+- CHAsUBLE. Etoffe argentee. Les deux bordures sur fond argente brode. Guirlandes de feuilles symetriques en petit-point en couleurs variees et or. Italien. xville siecle.
+- 305 CHASUBLE. Soie damassee lilas avec fleurs brochees en argent. Bordures argent.
+- 306
+- XVIlle siecle. Francais.
+- CHAsUBLE. Soie damassee. Fond blanc avec fleurs naturalistes dispersees, avec rameaux en or broches. xville siecle. Francais.
+- 307 Italien.
+- 308 ETOLE ET MANIPULE. Velours brun a petits dessins. XVIle siecle.
+- 309 TUNIQUE DE DAME. Damas. Fond blanc avec grandes fleurs jaunes, disposees en ovale.
+- Renaissance. Italien. XVlle siecle.
+- CORSAGE. Velours rouge vin avec fleurs en champs a quatre lobes. xVIle siecle. Italien.
+- MANTEAU DE DOGE, Soie moiree, a grosses cotes: rouge pourpre. Tres bien conserve. XVlle ou XVllle siecle.
+- 310
+- 311
+- 312
+- CORSAGE. Soie cotelee brun rouille avec fleurs brodees. Milieu du XVllle. siecle.
+- HABIT D'HOMME. Soie damassee violette avec petites losanges jaunes. Double d'atlas
+- 313 blanc. Rococo. Milieu du XVllle siecle.
+- 314 COSTUME D'HOMME ROCOCO.(De lepoque de Goldoni.) Justaucorps et culotte de damas bleu clair avec petites etoiles. Les bords et les basques richement brodes avec des fleurs naturalistes et avec dentelles. Broderie plate. Gilet d'atlas blanc. avec petites fleurs et paillettes. Italien.Vers 1750. PLANCHE 16.
+- 315
+- GILET D'HOMME.Soie creme avec petites fleurs, brode au bord et aux parements. Rococo. Vers 1750.
+- 316
+- HABIT D'HOMME.Avec basques. Velours lourd brun clair, double d'atlas blanc. Rococo. Seconde moitie du XVllle siecle.
+- 317 GILET D'HOMME.Atlas blanc. Au bord rameaux fleuris sans connexion et deux petits anges avec monogramme ovale. Vers 177o. Francais.
+- 318
+- TRAiNE (?) Soie blanche avec ovales imprimees. Fleurs tendres disseminees. Bordure or. Francais. XVllle siecle. Long. 285, larg. 180 cm.
+- UNIFORMES DE CAVALIER DE SAINT GREGOIRE.（Florence) Gilet,frac,bicorne,pe
+- 319 conformes aux prescriptions. Commenc, du Xixe siecle.
+- Sur socle en bois. Haut. 15 cm.
+
+## Fer.
+
+- 320 CHEVALIER DEBOUT. En longues bottes, pourpoint, longs cheveux. Les bras sont mobiles. Dans la main gauche il tient un bouclier. Applique. Taille en fer. Italien.
+- 321 COFFRET EN FER. Avec ornements a leau-forte.Vieille serrure artistique.Vers 1600.
+- Haut. 6,5, Larg. 10, profondeur 7,5 cm.
+- 322 BALANCE DE PRECISION. Avec ornements. XVIe siecle.
+- 323 CACHET. Mouche a jour avec guirlandes. Sur la plaque blason de comte. XVlle siecle.
+- 324
+- 325 COQUILLE DE POIGNARD. Avec trophees d'arimes, personnages et cavaliers en relief. XVlle siecle. Italien.
+- Haut.7,5 cm.
+- PLATINE DE FUSIL A SILEX. Gravee. Tetes en relief. XVIIe siecle.
+- 326
+- 327
+- 328
+- 329 EPEE COURTE. Fourreau en cuir. Commencement du XIXe siecle.
+- EPEE. Triangulaire. Poignee doree avec ornements. Fourreau en cuir. XVlle siecle.
+- 330 EPEE COURTE.Fourreau en cuir. Commencement du XiXe siecle.
+
+## Cuivre.
+
+- 332 PLAT DE LIMOGES:VENUS ET MARS. Champ central ovale: dans une halle a colonnes
+- Venus en robe lilas repose sur un lit antique. Devant elle est assis Mars en pourpoint bleu et manteau pourpre. Le petit Amour en costume bleu se serre contre Venus. A gauche rideau-draperie pourpre. Les coins avec feuillage blanc en relief sur toutes lignes avec rehauts d'or. Sur le fond noir du derriere contre-email noir avec linscription or: P.R.Limoges 1559. De Pie rre Reymon d, Limoges. Dans une cassette en maroquin rouge gaufre or du XVIlle siecle. Haut. 19, Larg. 15 cm. PLANCHE 17.
+- 333 PETIT AUTEL DOMESTIQUE. Construction en bois poli noir avec socle,cadre rectangulaire, pignon brise avec dessus. Moulures flammees. Richement orne d'appliques en bronze dore. Quatre pieds en metal;les anterieurs avec des tetes d'ange tout-a-fait rondes. Sur le cote. de grandes guirlandes a volutes avec des tetes d'ange ailees. Le bord central du cadre occupe par des champs ovales avec des fleurs polychromes incrustees d'email. Dans le socle ainsi que dans le dessus superieur amethyste ovale avec tete d'ange appliquee et long buste de Sainte Anne en metal. Riche couronnement avec guirlandes, vases et croix. Le retable (qui n'appartient pas a cet autel) peint sur cuivre: Marie Immaculee ment du XVlle siecle. (Un autel semblable au musee Bargello de Florence.) Haut. 87, Larg.51,Profondeur 13 cm. PLANCHE 18.
+- HUIT PETITS PLAQUETTES LIMOGES. Huit empereurs romains de la premiere epoque. La suite non complete. Peinture grisaille sur fond noir. XVlle siecle. Ovales. Six pieces
+- 334 6:7 cm, une piece 6:8 cm, une piece 8:10 cm.
+- 335
+- 6PLAQUETTE OVALE. Repousse. Au fond est assis un jeune homme, au bras un fiascho, a la main un verre. Comme arriere-plan paysage. Le bord faconne repousse avec feuillage et filet. Apres 1700. Cuivre argente. 33:42 cm.
+- EPEE. Dans le fourreau. XVIlle siecle.
+- EPEE, Fourreau en cuir. XVIle siecle.
+- 336 PLAQUETTE OVALE. Semblable aux precedents. Au fond deux amoureux dans un parc. Pour le reste comme les precedents. 33:41 cm.
+- 337
+- SIX PLANCHES A ESTAMPER. Avec armoiries de nobles italiens. XVIlle siecle. Haut. 9, Larg. 7,5 cm.
+- COUVERCLE DE BOiTE. Nature morte dans un atelier de peintre. XVIlle siecle. Francais.
+- 338 Ovale. Haut.9, Larg. 7,5 cm.
+- 339 COUVERCLE DE BOiTE. Le Christ et la Samaritaine a la fontaine. Polychrome. Italien.
+- XVIlle siecle. Haut. 9,5, Larg. 5,5 cm.
+- TABLEAUTIER EN EMAIL. Saint-Antoine avec PEnfant Jesus. Dans un cadre en cuivre
+- 340 repousse et argente. Milieu du XVlle siecle. Haut. 10,5, Larg. 8 cm.
+- 341 PLAQUETTE EMAIL. Saint Martin. Emaille bleu. XVIlle siecle. 5:6 cm.
+- 342
+- PEIGNE A CHEVEUX. A jour. Avec grenats. Commencement du XIXe siecle.Larg. 17 cm.
+- NECESSAIRE A COUDRE. Email rose. Avec champs blancs a fleurs polychromes.
+- 343 XVIlle siecle. Long. 10 cm.
+- 344
+- TASSE AVEC SOUCOUPE. Sur fond jaune fleurs polychromes. XVIle siecle. Haut. 4,5, Diam.12 cm.
+- DEUX PETITS CADRES EN CUIVRE. Avec sculpture en corail. XVIlle siecle. Haut. 12,
+- 345 Larg.14 cm.
+- LUNETTE. Avec paysage en Vernis-Martin. Francais. Fin du XVlle siecle. Cuivre dore.
+- 346 Haut.7 cm.
+- 347
+- LUNETTE D'APPROCHE. Six pieces, a rallonges. Avec pierres vertes. Cuivre dore. Commencement du Xixe siecle.
+- 348 DEUX ASSIETTES. Bord faconne. Sur fond vert chinoiseries et fleurs. Email sur cuivre. Chine. Diam.23 cm.
+
+## Medailles, Monnaies et Plaquettes.
+
+- Revers:plaustrum.Diam. 6 cm.
+- 349 AS ROMAIN ENTIER. Avers: tete de Janus.
+- 350
+- AS ROMAIN ENTIER. Avers: tete de Janus. Revers: plaustrum. Diam. 6 cm.
+- 351 14 QUARTS D'AS ROMAIN ET MONNAIES ROMAINES.
+- 352
+- 353
+- DEUX AS ROMAINS. Semi-as et triens. Diam. 4,4 et 3,9 cm.
+- MEDAILLE SPERON-SPERONI. Professeur et ecrivain padouan,ne en 1500,1588. Buste d'un homme barbu vers la droite en barette et veste haute. Fonte de plomb originale. Armand I, pag.252, 8. Diam. 6,5 cm.
+- SEPT MONNAIES PAPALES. De Pie IV (deux differentes) Clement VIl, Sixte-Quint,
+- 354 Alexandre Vll (deux differentes), Pie Vl. Bronze. Diam. 3-4 cm.
+- DEUX MONNAIES PAPALES DOREES. Innocent XI, Alexandre VIl. Bronze dore.
+- 355 Diam.3 et 3,5 cm.
+- MEDAILLE REPOUSSEE. Combat de cavaliers. Italien. XVIle siecle. Diam. 6,5 cm.
+- 356
+- MEDAILLE PRANCISCUS MARCHIl. Avers: buste vers la gauche avec legende: FRANCISCUS MARCHI BONONIEN·ARTECTUS BELLICUS.-Revers: trophees avec legende
+- 357 EXEMPLA OMNIA PINXIT. Signee:F. B.E. XVIle siecle. Diam.7 cm.
+- MEDAILLE DU DUC VINCENTIO DE MANTOUE. Avers: buste en profil vers la gauche. Legende: VINCENTI D. C. DUX. MANT VII-E M F V. Signee.- Revers: chien.
+- 358 Legende:FERIS TANTUM INFENSUS. Diam.4,3 cm.
+- 359 MEDAILLE CARDINAL JULES MAZARIN. Avers: buste vers la droite en profil avec legende: IULIUS·S. R. E. CARD. MAZARINUS. XVIIe siecle. Signee:F. C.A. G.A.E.Bronze dore.Diam.9,5 cm.
+- 360 MEDAILLE DU CARDINAL LUDOVISI. Avers:buste, profil vers la droite. Legende: Revers: vue de face d'une eglise. Legende: LVDOVICVS. CARD. LUDOVISIVS. S.R.E.VICECANCELL. FUNDAVIT AN MDCXXVI. Bronze dore.Diam.6,2 cm.
+- 361 MEDAILLE DE JACOBUS BARTH. BECARIVS Avers:buste de Jacobus Barthol. Becarius en profil vers la droite avec legende:JACOB. BARTOLOM.BECARIUS. BONON. PHIL. INSTITUTI PRASIS - Revers:prophete avec legende: UNUS INSTAR OMNIUM. 1666. MED.Bronze.Diam.7 cm.
+- 362 ORE SUEDOIS.1677.Cuivre.Diam.4,5 cm.
+- 363
+- MEDAILLE DE LIVIO ODESCALCHI. Avers:Profil de buste vers la droite. Legende: LIVIVS ODESCALCVS INN XI NEP 1677.-Revers:buste d'une dame.Legende: IOVANNA SOROR CARISS. Bronze.Diam.24 cm.
+- 364 MEDAILLE FRANCOIS REDI. Avers: Buste de Francois Redi vers la droite de profil avec la legende:FRANCISCVS REDI PATRITIVS ARRETINVS -Revers: Devant temple antique femmes allegoriques. Signee:M. Sold. 1684.Bronze. Diam. 8,5 cm.
+- MEDAILLE DE FRANCOIS REDI. Avers: buste de Francois Redi de profil vers la droite. Legende:FRANCISCUS REDI PATRITIUS ARRETINUS.- Revers:femmes allegoriques Legende:AERE PERENNIVS.Signee:M. So1d 1684.
+- 365 devant un temple antique. Bronze.Diam.8,5 cm.
+- 366 MEDAILLE FRANCOIS REDI. Avers: buste de Francois Redi de profil vers la droite. Legende:FRANCISCUS REDI PATRITIUS ARRETINVS -Revers:Dionysos dans le cortege des Bacchantes. Inscription:CANEBAM. Signee:1684. Bronze. Diam. 8,5 cm.
+- 367
+- MEDAILLE. Revers: Dans une contree rocheuse un homme conduit par un ange. Legende:NULLA NISI ARDUA VIRTUS. Signee:M.S.1685.Bronze.Diam.9 cm.
+- 368
+- REVERS D'UNE MEDAILLE. Scene allegorique. Un guerrier devant une femme couronnee. Diam.9,5cm.
+- 369
+- MEDAILLE DE FR. MORORISINI. Fonte en creuse. Avers: FR.MAV. EQ.D. M. PRVE. IIl. IM. CT. Revers: forteresse sur une ile rocheuse. Inscription: CORON. Diam.5,5cm.
+- 370 MEDAILLE DE L'ABBE HIPPOLYTE FORNASARIUS. Avers: buste de profil vers la droite.Legende:HIPP.ABB.FORNASARIVS.BON.ARCHIGY.I.C.DE MANEPR.EM E AN. 65-Revers:embleme.Legende:NOMENINORE SEDET. APOLLINI IVRISVTRIVSQ VNIVERSITASA.D.1692.Bronze.Diam.5,5cm.
+- 371
+- MEDAILLE JULES ODESCALCHI. Avers: Jules Odescaleus de profil a droite en buste. Legende: IULIUS ODESC.D.G. SIRM. BRAC. D.-Revers: Port de mer avec legende: TUETUR ET ARCET 1699. Bronze.Diam.6 cm.
+- CINQ MONNAIES DE CUIVRE. Suede, Amerique du Nord, Sardaigne, Autriche. XVIle
+- 372 et XVIle siecles.
+- MEDAILLE DE COSMUS ll. Avers: buste de Cosmus ll vers la droite en profil. Legende: COSMUS III. ETRUSCORUM REX.— Revers: saint Joseph avec l'enfant Jesus et des anges. Legende: DELICIE POPULI DELICI/E DOMINI. Signee:G.Fortini 1700.
+- 373 Bronze.Diam.8,5 cm.
+- 374 MEDAILLE D'URBAIN SAVORGNANUS. Avers: buste de profil vers la droite. Legende: VRBANO. SAVORGNANO. PATRIT. VEN. PBRO. ORAT.BONON. Signee: FRAN. CO RAZZANI F.Revers: couronne de laurier et de chene. Inscription: SVPELL.CONLAT.AD.INGREM.SCIENT.ET ART.SENAT.PREF.INSTIT. V.B.M.D.D.Bronze.Diam.6,4 cm.
+- 375 MEDAILLE BLANCA CAPPELLI FRANCISCI UXOR. Avers:buste de Blanca de profil a droite avec legende: BLANCA CAPELLI FRANCISCI M. D. UXOR -Revers:oiseau Bronze.Diam.4,5 cm.
+- 376
+- 377
+- Avers: deux aigles avec la tiare et la couronne imperiale dans le ciel avec la croix. Legende:UNIVIT PALMAMQE DEDIT. Bronze dore. Diam. 8,5 cm.
+- MEDAILLE ALOYSIUS FERDINANDUS MARSILIUS. Avers:bustevers la gauche,en profil. Legende: ALOYSIUS FERDINANDUS COM. MARSILIUS.- Revers: ville avec le soleil. Legende: NIHIL MIHI. BONBON SCIENT. ACAD. SOCIO ET MOECENATI OPT. AN. S. MDCCXXXI. Signee.Bronze.Diam.6 cm.
+- 378 MEDAILLE EN ETAIN DE MAURICE DE SAXE. Avers: buste vers la gauche. Legende: MAVRIT. SAXO. GALL. MARESC.GEN.D. CURLETSEM. Signee:D. KAMF. Revers: tombeau du marechal a Strassbourg.Diam. 5,5 cm.
+- 379 MEDAILLE DE PHILIPPE V D'ESPAGNE. Avers: le roi a cheval vers la gauche. LéANT. DE ANVARIO F.-Revers: Minerve assise.Legende: ADVENTVI PRINCIPIS FOELICISSIMO NEAPOLIS 1702. Bronze.Diam.5,8 cm.
+- 380
+- MEDAILLE DE LAURE MARG. CATH. BASSI. Avers: buste de Laure Marg. vers la gauche de profil. Legende: LAURA MAR. CATH. BASSI BON. PHIL. DOCT. COLLEG. LECT. PUB. INST. SCIENT.SOC. AN. XX MDCCXXXII.-Revers: femmes allegoriques avec legende:SOLI CUI VIDISSE MINERVAM. Signee. Bronze doré.Diam.6,5cm.
+- 381 MEDAILLE DE L. LE FORT. Avers: buste vers la gauche. Legende:LUD. LE FORT REIP.GENEV CONSVL PRIMAR. ANN.1734 ET 66. Signee:I.DASSIERF Revers: allegorie avec femme et petits anges. Legende: D EI NV MINE. IVRA CI-
+- VIVMASSERTAANNO1734.Bronze.Diam.5,4cm.
+- MEDAILLE DU CARDINAL FLEURY. Avers: buste vers la gauche. Legende: ANDR. HERCULES CARDINALIS DE FLEURY. ET. 8I. Sign. I. DASSIER F.Revers: emblemes. Legende: HIS PACEM REDDIDIT ARMIS MDCCXXXVI. Bronze. Haut.5,4 cm.
+- 382
+- 383
+- MEDAILLE D'ETIENNE MICHEL BOURET. Avers: armoiries du comte de Provence. Legende: COMITIA PROVINCIE.-Revers:inscription: Stephano Michaeli. Bouret quod Moderatoris Provinciam Maxima Rei Frumentaria Penuria laborantem Providentissime sustentavit Hoc Grati Animi Monument. Procuratores Provinciae Dicant Consecrant. MDCCXLVIl. Bronze. Diam.7,5 cm.
+- MEDAILLE DE VINCENTIUS RICCARTUS. Avers: buste de Vincentius en face. Legende: VINCENTIUS RICCARTUS - Revers: femmes allegoriques avec legende: MAGNUS
+- 384 UTRAQE MDCCLXXVI.Signee.Bronze.Diam.5,4 cm.
+- 385 MEDAILLE DE L'IMPERATRICE MARIE-THERESE. Avers: buste vers la droite. Legende: M.THERESIA AVGUSTA. Sign. A. GVILLEMARD F. Revers: holocauste d'un
+- LXXVIIl.Bronze.Diam.5 cm.
+- 386 MEDAILLE DU ROI VICTOR AMEDEE lI DE SARDAIGNE. Avers:buste en profil vers la droite. Legende: VICTORIUS AMADEUS III REX SARDINIAE. Sign.C. LAVY.- Revers: double portrait d'homme et de femme. Legende: AVGENDAE FELICITATIPVBLICAE.CONVBIUM MDCCLXXXIX.Diam.4,5cm.
+- 387 MEDAILLE PAPALE. Avers: bustes de deux papes vers la gauche. Legende: Gregorius XVI. Benedictus XIV Manfredini f. Revers: palais bolonais. Legende: Academia scientiarium instituti. Bononiensis. L. Cossa. Bronze dore. Diam.5cm.
+- 388 MEDAILLE. Avers: buste d'une dame avec diademe vers la droite. Legende: LVCIA BOCCABADATI INSIGNE ATTRICHE CANTANTE. Signee:G.ZAPPARELLI. Revers: couronne de laurier, a linterieur: Brescia 1835. Bronze. Diam. 4,6 cm.
+- 389 MEDAL OF SIR WILLIAM SIDNEY SMITH.Avers: buste en profil vers la gauche. Legende: SIR WILLIAM SIDNEY SMITH K. S. OF SWEDEN. Revers: sous un palmier enfant avec armoiries. Inscription: BONAPARTE REPVLSED AND SIEGE OF ACRE
+- RAISED 20.MAY 1799. Signee: Hangock. Bronze. Diam.5 cm.
+- 390 MEDAL OF ISAACUS NEWTONUS. Avers: buste en profil vers la gauche. Legende: ISAACUS NEWTONUS.-Revers: femmes allegoriques FELIX COGNOSCERE CAUSAS
+- MDCCXxVI. Signee:I C. Bronze.Diam.5 cm.
+- 391 MEDAL OF ADAM LORD VISCOUNT DUNCAN. Avers: buste en profil vers la droite. Legende:ADAM LORD VISKOUNT DUNCAN ADMIRAL OF THE WHITE BORN IULY A 1731 -Revers: mat de pavillon avec matelots. Legende: OCTOBER 11 1797. WITH 24 SHIPS &amp;1198 GUNS DEFEATED THE DUTH FLEET of26 SHIPS &amp; 1259 GUNS 9 SHIPS &amp; 592 GUNS TAKEN HEROIC COURAGE PROTECTS THE BRITISH FLAG. Signee:
+- Hangock.Bronze.Diam.5 cm.
+- 392
+- MEDAL OF ADMIRAL EARL ST. VINCENT. Avers: buste en profil vers la gauche. Legende: JOHN JERVIS EARL OF ST VINCENT ADMIRAL OF THE WHITE BORN JANUARY 26. 1735 - Revers: femme avec armoiries. Legende: WITH 22 SHIPS AND 1428. GUNSPERSUED &amp; DEFEATED THE SPANISH FLEET OF 37SHIPS&amp;2600 GUNS. FOUR SHIPS AND 382 GUNS TAKEN. FEBRUARY 14. 1797. PR. Signee:Hangock. Bronze.Diam.4,8 cm.
+- 393
+- MEDAL OF HORATIO LORD NELSON. Avers: buste en face avec legende: HORATIO LORD NELSON REAR ADMIRAL OF THE RED. BORN SEPTEMBER 29. 1758 -Revers: BATTERY ON SHORF. NINE SHIPS TAKEN AND 4 DESTROYD. Signee:Hangock. Bronze. Diam.5cm.
+- 394
+- MEDAL OF WILLIAM PITT. Avers: buste en profil vers la gauche. Legende: WILLIAM PITT.- APPOINTED FIRST LORD OF THE TREASURY AND CHANCELLOR OF THE EXCHEQUER DEC:1783. Revers: Legende dans une couronne de chene: WITH FORTIVIRTUOUS KING 1799 AGED 40. Signee:Hangock. Diam.5 cm.
+- 395
+- MEDAL OF GEORGIUS Il. Avers: buste de Georges IlI en profil vers la droite. Legende: GEORGIUS IIl. MDCCLXXXV.- Revers: Genie avec ecusson.Legende: GEORGIA AUGUSTA ADIVDICANTE. Signee: Burch F. Fonte.Diam. 5 cm.
+- 396 MONNAIE ANGLAISE. Avers: buste vers la gauche en profil. Legende: IOHN OF GAUNT DUKE OF LANCASTER.- Revers: armoiries avec legende: LEEDS HALF PENNY 1791.Cuivre.Diam.3 cm.
+- 397 MEDAL OF ADMIRAL. Avers: buste en profil d'un amiral, vers la gauche. Legende: EARL HOWE ADMIRAL OF THE FLEET MDCCXCIX.- Revers: trophees de victoire avec inscription: MEMORAE VICTORY JUNE IST MDCCXCIV. FRENCH FLEET
+- DEFEATD VII SHIPS TAKEN. Sign.:W ION. Bronze. Diam.3,8 cm.
+- 398
+- MONNAIE ANGLAISE. Avers: buste de Georges IlI vers la droite, en profil. Legende: GEORGIUS IlI DEI GRATIA REX.- Revers: Britannia avec legende:BRITANNIA. Cuivre.Diam.3 cm.
+- MEDAL OF MARQUIS CORNWALLIS. Avers: buste vers la gauche en profil. Legende: MARQIS CORNWALLIS BRITISH PLENIPOTENTIARY AT AMIENS. Revers: Britannia avec legende: POST NUBILA PHOEBUS DEFINITIVE TREATY CONCLUSED 1800.
+- 399 Signée: J. G.H.Bronze. Diam.3,6 cm.
+- 400 MEDAL OF LORD KEITH. Avers: buste vers la gauche en profil. Legende: LORD KEITH K. B. VICE-ADMIRAL OF THE RED.-Revers: trophees de victoire avec legende:1801 Bronze.Diam.5cm.
+- 401 MEDAILLE EN ETAIN DU DUC DE BEDFORD. Avers: tete vers la gauche. Legende: FRANSCISCVS () DVX BEDFORDIE, NATVS IVLII 23. 1765. Signe: HANCOCH Revers: homme en deuil aupres dune colonne. Legende: TIBI VOTA QVOTANNIS
+- AGRICVLE FACIENT. OBIIT MARTII II. MDCCCII. Diam.4,I cm.
+- 402
+- MEDAILLE DE CARD. PETRI BEMBI. Avers: buste vers la droite. Legende: PETRI BEMBI CAR.  Revers: Pegase aile. Ancienne fonte de plomb avec ancienne dorure ferme. Diam. 5,5 cm.
+- 403 MEDAILLE DE CHARLES BORROMEE. Avers: buste du cardinal vers la gauche. un autel. Legende: SOLA CAVDE... ITALIE PEVS. Vieille fonte avec caracteres retouches.Bronze.Diam.5 cm.
+- 404 MEDAILLE. Avers: buste en profil vers la droite en costume de cesar. Legende: CAESAR
+- IMPERATOR PONTPPPE SEMPER AVGVSTUS VIR - Revers: Mercure et Abondance se tendant la main. Legende: CONCORDIA AVGG S. C.Vieille fonte. Bronze. Diam.7 cm.
+- 405
+- MEDAILLE. Avers: buste de prince vers la droite; a gauche casque, a droite couronne avec millesime: MCCCCXLVIII. Legende:DIVVS·ALPHONSVS·REX TRIVMPHATOR ET PACIFICVS.- Revers:Vautour autour d'un chevreuil. Legende: LIBERALITAS AVGVSTA.Bronze. Vieille fonte. Diam.10,5 cm.
+- 406
+- MEDAILLE DE PELAGATTI. Avers: buste de profil en habit de moine, vers la gauche. Legende: FR.FEL.PELAGATTI FERR. ORD. SERVOR. 1762 -Revers: ange sonnant de la trompette et femme aupres d'un tombeau ouvert. Legende: MEAM EXTRAHE SORTEM. Bronze. Fonte assez ancienne. Diam. 5,5 cm.
+- 407 MEDAILLE OVALE SE RAPPORTANT A LA CONQUETE DE LA MOREE. Avers: devant le Doge deux Turcs a genoux. Legende: PARCERE SVBIECTIS ET DEBELLARE SVPERBOS SCIT NOBILIS IRA LEONIS - Revers: lion sur ses pattes. Legende: EXVTROQVE VICTOR. Sur le.bord:SERENISSIMI LEONIS ACATI SOLO SALOQVE TVRCARVM VICTORIS TRIVMPHALE FLORILEGIVM 1687.Argent.Haut.7,1,Larg.5,5 cm. Poids 118 gr.
+- 408
+- TROIS MEDAILLES DE MOROSINI. 1. Avers: devant la Venetia des prisonniers turcs etendent une carte da la Moree. Legende:FORTITVDO VENETIAE OCCVPAT GRATIAM 1687. Revers: vue de Venise a vol d'oiseau. Legende:VENETIA VRBIUM REGINA 2. Avers: vue de la Moree avec la legende: VOTA VRBIS ET ORBIS. Revers: longue
+- inscription se rapportant a la Moree avec millesime 1687 - 3. Avers: trois medaillons avec les bustes de F. Morosini et de deux autres entoures d'anges sonnant de la trompette. Legende:TERROR TURCARUM. Revers: vue de Lepante, d'Athenes, de Corinthe, de Tornese, de Sparte, de Novo. Argent. Diam. 4,2, 4,2 et 4,9 cm, Poids 30, 30, 46 gr.
+- MAERISCHEN BRVEDER 1750. Argent. Diam.2,7 cm. Poids 9 gr.
+- 409 MEDAILLE DU COMTE ZINZENDORF. Avers:buste en profil vers la droite. Legende: NIC. LVDOVIC. GRAF V. ZINZENDORF GEB. 170o.- Revers:Agneau de Dieu sur montagne.Legende:ZU EINEM ZEICHEN - HERRNHUTH-DER BOEHMISCH-
+- 410 MOULAGE D'UN RELIEF.Chevalier Saint Georges. XVIlle siecle. Ovale. Argent.
+- 411
+- 412 MEDAILLE DE PIE VIl. Avers: buste en profil vers la gauche. Legende:PIVS· SEPTIMVS·P·M·ANNO VIl. Signe: T. MERCANDETTI F.Revers: differents saints. Argent. Diam.3,9 cm, Poids 21 gr.
+- MEDAILLE DE GEORGES II ET DE CAROLINE D'ANGLETERRE. Avers:les deux bustes en vis-a-vis. Legende: GEORGIVS II. REX ET CAROLINA REGINA MDCCXXXII Revers: sept bustes d'enfants. Legende: FELICITAS IMPERIl. Et les noms des sept princes et princesses. Argent. Diam. 6,7 cm. Poids 109 gr.
+- 413 3 MONNAIE D'OR DE CHARLES-QUINT. (Reale d'oro). Avers:long buste de lempereur avec couronne et sceptre. Legende:KAROLVS. D. G.ROMANOR. IMP.HISPAR REX
+- TVOS.Diam.2,9 cm,Poids 5 gr.
+- VENETIAR.Diam.2,3 cm.Poids 3 gr.
+- 414 SCUDO D'OR VENITIEN (STELLA). Avers: écusson avec le lion de Saint Marc. Legende: SANCTVS MARCVS VENETVS. Revers:croix.Legende:ANDREAS GRITI DVX
+- 415 SCUDO D'OR VENITIEN. Avers: ecusson avec le lion de Saint Marc. Legende: SANCTVS MARCVS VENETVS .-Revers: croix. Legende: ANDREA GRITI DVX VENETIAR Diam. 2,5 cm, Poids 3 gr.
+- un datier. Legende:PELOPONNESVS RESTITVTA A. C. Diam. 3,5 cm, Poids 14 gr.
+- 416 MONNAiE D'OR VENITIENNE (Stella) Avers: le doge a genoux devant Saint Marc. Legende:S.M. V.FRAN. MAVROC. DVX. ANNO I.-Revers: Turque a genoux sous
+- 417 MONNAIE D'OR VENITIENNE. Avers: le doge a genoux devant Saint Marc. Legende:
+- 418 MONNAIE D'OR VENITIENNE (STELLA) Avers:Lion de Saint Marc. Legende: SANCTVS MARCVS VENETVS A. S.1730. Revers:inscription: ALOYSII PISANI PRINCIPIS
+- S.M.V.FRAN.MAVROCE.P.P.Revers: epee et bonnet. Legende: NON ALIA FRVITVR VICTORIA LAVDE ANNO Il. Diam.3,5 cm,Poids 14 gr.
+- MVNVS ANNO V. dans une couronne de laurier. Diam. 35 cm, Poids 14 gr.
+- 419 PLAQUETTE DE SAINTE MADELEINE. Repoussee. Demi-figure, priant devant la croix. Bronze dore. Dans un cadre d'autel, bois noir avec ornements en cuivre argente. XVIe siecle.Italie superieure. Haut. totale 30, Larg. 18 cm.
+- 421 RELIEF. Statue equestre d'un prince dans une halle. Sur la partie posterieure: CVRANTE LVD.SERGARDO PATRITIO SENEN V.S.FET.R.FAB. S.PETRI AECON·GENERALI.
+- 420 PLAQUETTE DE MARIE MADELEINE. Dans une foret la sainte est agenouillee devant un crucifix. Doree. Italie superieure. xVlle siecle.Cadre noir. Haut. 17, Larg. 12,5 cm.
+- Ovale. XVllle siecle. Dans un petit cadre a acanthes richement sculpte. 8:10,5 cm.
+- 422 PLAQUETTE. SAINTE FAMILLE. Oblongue. Agenouilles: Marie, Joseph, l'enfant Jesus et le petit garcon de Jean. Argente. XVlle siecle. Cadre bois noir. Haut. 1o, Larg.9 cm
+- Haut. 3, Larg. 2,5 cm, Poids 17 gr.
+- 423 PLAQUETTE: HERCULE ET OMPHALE. Assis sur un banc. Repoussee. Vers 1800. Cadre or richement cisele. Haut. 19, Larg. 12 cm.
+- 424 Commencement du XIXe siecle. Haut. 4,5 cm.
+- 425
+- PORTRAIT EN RELIEF D'UN PAPE. Buste vers la gauche. Petit cadre bronze dore.
+- PLAQUETTE. Ronde. Avers: buste de Napoleon vers la gauche. Revers: aigle. Vers 1810. Doree.Diam.8,5 cm.
+- 426
+- COLLECTION DE PLAQUETTES ET D'APPLIQUES EN BRONZE.
+- 427 COLLECTION DE MOULAGES DE MEDAILLES. En platre. D'apres des originaux du XVle au XIxe siecle. Environ 200 pieces avec boite.
+
+## Objets en bronze.
+
+- 428 STATUETTE: HOMME. Debout. Les pieds places un l'un peu derriere lautre. Pourpoint
+- collant. La main droite a l'epaule, la gauche devant la poitrine. Tete droite. Etrusque. Socle en bois. Haut. 22,5 cm.
+- 429 STATUETTE: HOMME. (Hercule ?) Jambe droite appuyee, jambe gauche legereinent levée. Nue. Dans la main droite il tient une coupe d'Omphale, dans la gauche une massue et une peau. Etrusque. Sur socle en marbre. Haut. 12,5 cm.
+- 430 CHEVAL GALOPANT. Debout sur les deux pieds de derriere.T Tete tournee a droite. Criniere courte avec touffe de crins sur la tete. Queue longue. Sur socle de marbre
+- rouge. Italien. XVle siecle. Haut.24 cm.
+- 431 CORPS DU CHRIST. Les bras etendus.Le tete inclinee a gauche. La draperie autour des reins nouee a gauche. Muscles travailles avec soin. Ongles en argent. De Giovannl da Bologna. Milieu du XVle siele. Haut. 20 cm. PLANCHE 17.
+- 432 SONNETTE.
+- Avec blason et ornements en relief. La poignee manque. XVle siecle. ltalie Superieure.Haut.S cm.
+- 433 SONNETTE. Avec mascarons et guirlandes en relief. Legende: AVE MARIA. Poignee en fer.XVle siecle.Italie Superieure. Haut. 15,5 cm.
+- RELIEF MADONE. Demi-relief de la madone, assise sur un trone dans les nuages. Sur sein a I'Enfant. Au-dessus.volent deux anges qui tiennent la couronne. Sur plaque de marbre gris vert. Entoure d'un cadre rectangulaire bronze a pans coupes. Le filet median Bronze dore.Italie.
+- 434 du cadre en marbre tigre vert jaune. Couronnement, rinceaux. Vers 1600. Haut.39,Larg. 31 cm.
+- 435
+- 436 PETIT ANGE. Partie d'un groupe. XVIle siecle. Italien. Haut. 10,5 cm.
+- TETE D'HOMME PORTANT LA BARBE. Applique. XVIle siecle Italien. Haut. 10,5 cm.
+- 437 CAVALIER. Sur cheval au galop. Socle en bois noir. XVIle siecle Haut. 12 cm.
+- dans la gauche un verre. Tete mobile. XVllle siecle. Haut. 13 cm.
+- 438 MOINE BUVANT COMME SONNETTE. Capucin. Dans la main droite une bouteille,
+- 439
+- PETIT ANGE AILE. Applique. Dans la main droite il tient une flamme. XVIle siecle Italien. Haut.17 cm.
+- 440 FEMME AU REPOS. Bronze dore. Elle est etendue sur un bloc de cristal de roche et tient dans sa main gauche un rhomboide en amethyste. xVIlle siecle. Sur socle en bois.
+- Haut. 12, Larg.15 cm.
+- 441 BUSTE DU PAPE CLEMENT XIll. Sur socle en marbre blanc. XVIlle siecle. Haut.19 cm.
+- 442
+- DIFFERENTES GARNITURES. Pour des meubles. Avec figures en relief. Bronze dore. XVIlle siecle.
+- QUATRE GARNITURES. Pour des meubles. Tete de lion avec anneau. XVIlle siecle.
+- 443 Haut.5,5 cm.
+- 444 NEUF GARNITURES. Pour des meubles. Rococo. Vers 175o. Bronze dore.
+- 445 DIX ROSACES. Bronze dore. XVIlle siecle. Diam. 3 cm.
+- HUIT GARNITURES de commode. Avec guirlandes et medaillon Louis XVI. Vers 1780.
+- 446 Bronze dore. Haut. 13,5, Larg.22 cm.
+- 447
+- SIX GARNITURES de commode. Ovales. Avec vase repousse. Vers 179o. Louis XVI. Bronze dore. Haut. 6,Larg.7 cm.
+- QUATRE GARNITURES. Ornements Louis XVI a jour. Vers 179o. Bronze dore.
+- 448 Long. jusqu'a 19 cm.
+- 449
+- DIX APPLIQUES AVEC FIGURES, Amours enfants,animaux pour garnitures. Bronze dore. Fin XVIe XVIlle siecles. Haut. environ 8 cm.
+- 450 PENDULE-CARTEL. Bordure en perles. Sur le cote anterieur feuillage et vase en relief. Cadran emaille blanc et bleu. Dessus deux femmes mobiles en costume romain. Francais. Fin du XVllle siecle. Louis XVl. Bronze dore. Marche encore. Sonnerie. Haut. 15,5, Larg.12cm.
+- 451 BUSTE DU PAPE PIE VIl. Sur colonne en marbre blanc. Vers 180o. Haut.25 cm.
+- 452 ENCRIER EN FORME DE AGNEAU. Sur socle rectangulaire. Tete et dos peuvent s'ouvrir. Vers 1800.Italien. Haut.11,5 cm.
+- 453
+- DEUX GARNITURES DE FOURREAU. L'une avec emblemes de blason repousses. Vers 1800.
+- 454 STATUETTE EN BRONZE DE NAPOLEON. Dans la pose et le costume historiques.
+- Susse Freres. Belle patine. Haut. 32 cm.
+- STATUETTE EN BRONZE. Jeune homme reveur, assis. Iere moitie du XIXe siecle. Haut.26,5 cm.
+- 455
+- 456
+- DEUX STATUETTES EN BRONZE. Sur socle rocaille, accroupi, un petit Faune qui souffle un rechaud a charbon. Pendants. Vers 1840. Haut. 26 cm.
+- STATUETTE:PETITE FILLE COUVERTE DE PETALES. Jouant de la syrinx. Vers 1840.
+- 457 Sur socle en bois. Haut. 20,5 cm.
+- 458
+- RELIEF EN BRONZE. Flagellation du Christ. Le Christ est de debout tres agite aupres de la colonne de flagellation; autour de lui de nombreux flagellateurs. Portique. Cadre doré. Haut.16,Larg.11 cm.
+- 459
+- RELIEF EN BRONZE. Lamentations du Christ. Sous la croix est étendu le corps de Jesus; derriere lui debout Marie et Jean. Vue de Jerusalem. Cadre dore. Pendant du precedent. Pour le reste, identique. Haut. 16, Larg. 11 cm.
+- 460 L'ARRACHEUR D'EPINES. Sur socle ovale. Belle patine. Haut. 22 cm.
+- 461 LE GLADIATEUR BORGHESIEN. Sur socle en marbre rouge. Belle patine. Haut. 33 cm.
+- 462 VENUS ACCROUPIE. Sur socle ovale. Belle patine. Haut.2I cm.
+- 463 STATUETTE DE MARC-AURELE A CHEVAL. Sur socle de marbre blanc. Haut. totale 55 cm.
+- 464 STATUE EQUESTRE DE COLLEONI DE VERROCHIO. Sur socle en bois. Belle patine.
+- Haut.37 cm.
+- 465
+- STATUETTE. SATYRE FEMININ. Sur socle en bois. Haut. 16 cm.
+- 466 BONZE ASSIS. Applique. Vieille Chine. Haut. 9 cm.
+- 467 DEUX DIVINITES ACCROUPIES. Indien. Haut. chacune 6,5 cm.
+
+## Cuivre jaune.
+
+- 468 PLAT ROND. Dans le cercle du milieu buste repousse d'un Romain a gauche avec la legende: MARCVS TVLIVS CICERO CONS. Entoure de trois cercles concentriques avec bosses repoussees et minuscules gothiques. Cadre dore. XVe siecle. Diam. 27,5 cm.
+- 469
+- RECHAUD. Rond. Sur piedouche. Couvercle a jour avec treillage et coeur. XVile siecle. Diam.20 cm.
+- 470 DEUX CHATELAINES. Avec agates. Repoussees. Cuivre jaune dore XVlle siecle.
+- NECESSAIRE A ECRIRE. Plateau ovale avec deux encriers, un sablier et un chandelier.
+- 471 Avec cannelures. Ayant appartenu a Goldoni. xVllle siecle. Plateau: 29:22 cm.
+- 472 NECESSAIRE A COUDRE. XVIlle siecle. Long. 8,5 cm.
+- 473 DEUX PAIRES DE BOUCLES DE SOULIER. Avec pierres en strass. XVllle siecle.
+- BOUSSOLE DE POCHE. Octogone. Avec mode d'emploi imprime. Andreas Vogler, 474 Augsbourg. Etui cuir. XVIlle siecle. Diam. 5,7 cm.
+- 475 BOUSSOLE. Avec long manche et vis. De Pierre Baillon a Milan. Etui cuir or gaufre XVIlle siecle.Haut. 23,5 cm.
+- EPINGLE A CHAPEAU. Tete ronde et plate avec pierres en strass. Cuivre jaune. Etui
+- 476 en cuir or gaufre. XVllle siecle.
+- 477
+- UNE PAIRE DE PENDANTS D'OREILLE.Forme longue et ovale. Avec pierres en strass. Argente. Commencement du XIxe siecle. Long. 6 cm.
+- 478
+- PETITE STATUETTE DE NAPOLEON. Argentee. Haut. 3 cm.
+- COFFRET. Imitation des deux etages inferieurs du palais des doges de Venise. Cuivre
+- 479 jaune argente. Premiere moitie du XiXe siecle. Haut. 12 cm.
+- 480 DEUX BRACELETS. L'un indien. L'autre avec email. XIXe siecle.
+- 481 PLAT. Au fond Saint Georges repousse, tuant le dragon Dans la cannelure bosses tournees. Le bord avec ornements. Diam. 35 cm.
+- 482
+- PLAT CREUX. Au fond Agnus Dei repousse. Le bord avec feuilles. Diam. 44 cm.
+- 483 PLAT ROND.Au fond chevalier Saint Georges, repousse. Diam. 42 cm.
+- 485 CRUCHE EMAILLEE AVEC CUVETTE. Bouquets de fleurs naturalistes peints facon
+- Imari. Chine.Haut. de la cruche: 29,Diam.de la cuvette 30 cm
+
+## Argent et Or.
+
+(Voir aussi monnaies et horloges).
+
+- 486 BAISER DE PAIX. Couronnement de Marie. Nielle. Le Christ est assis sur un banc et couronne Marie. A gauche lange. Seconde moitie du XVe siecle. ltalie Superieure.
+- Le cadre argent en relief, epoque posterieure. Haut. 15, Larg. 1l cm.
+- 487
+- ALBUM. Velours rouge. Avec fermoirs en argent. Aux coins 4 femmes et 4 rosaces en argent. XVIlle siecle.
+- 488 LOUPE. XVIlle siecle.
+- 489 LOUPE.Gravée.XVIlle siecle.
+- 490 ECRITOIRE en forme de bateau a vapeur. Vers 1830. Haut. 11, Larg. 20 cm.
+- 491
+- SIX CUILLERS A CAFE. Au manche coquillages. Marques. XVIlle siecle. Argen dore. Etui cuir or gaufré. Long. 14,5 cm, Poids total 215 gr.
+- 492 CACHET DE DAME. Avec petite boite a aiguilles et bobine de fil. Vers 178o. Danst
+- boite en peau de serpent. Long. 7,5 cm, Poids 21 gr.
+- 493 ETUI A MEDAILLE. Filigrane. Fin du XVIlle siecle. 5,5:5 cm.
+- CAFETIERE. En forme de griffon assis. Avec couvercle et anse. Avec marques. Interieur
+- 494 dure.Haut.24 cm.
+- 495
+- RELIURE DE LIVRE DE PRIERES. Sur le cote anterieur crucifiement du Christ; sur le cote posterieur descente de croix d'apres Rubens,repoussee avec ogives.Italie.Commencement du XIXe siecle. Marques. Haut. 14, Larg.9 cm. Poids 250 gr.
+- 496 CINQ DECORATIONS. En partie en argent. XIXe siecle.
+- COLLIER. Anneaux minces et plats. Trois plaquettes rectangulaires avec email. Paysages
+- 497 et scenes pastorales. Fin du xVllle siecle. Or.
+- 498
+- COLLIER. Anneaux plats. Devant plaquettes rectangulaires emaillees: petit garcon avec petite fille; ange gardien et enfant sur fond bleu. Fin du Xville. siecle. Or.
+- BROCHE. Petite image sur email: paysage avec encadrement ovale en or. Or. Haut, 2,8,
+- 499 Larg. 2,2 cm.
+- 500 BIjoux. Bracelet, broche, deux pendants d'oreille. Roses taillees tres minces en ambre jaune. Avec anneaux d'or filigrane, la plupart oiseaux. Vers 1840. Etui en ivoire avec
+- reliefs.Indien.Or.
+- 501 DECORATION AUTRICHIENNE DE 1815. Double aigle;au-dessous une couronne avec email. Ecusson bleu en coeur avec F 1815. Suspendu a une chainette. Or. Long 6,5 cm.
+- 502
+- PETITE PLAQUETTE. Hercule luttant avec le lion de Nemee.Repoussee.Appligue. XVIle siecle. Haut.4,5, Larg. 4 cm.
+
+## Montres.
+
+- 503 MONTRE DE CAVALIER. Boitier bronze dore. Cadran argent.Rouages a verge richement a jour. Jaquier, Londres. Vers 1740. Distance des plaques 10 millim. Diam.5 cm.
+- 504
+- MONTRE EN ARGENT. Dans boitier exterieur repousse, montre repoussee avec deesse ailee du Temps et guirlandes: Rouages a verge richement a jour. J. Paul Demelais. Vers.1740. Distance 9 millim.Diam.5,5 cm.
+- 505 MONTRE EN BRONZE EMAILLE (de Ferdin. Berthoud, Paris). Boitier bronze dore. Sur le derriere image maillee,petit chien qui saute,avec emblemes, entoure de feuillage en relief. Cadran blanc email, entoure de roses. Rouages a verge dores. Berthoud a Paris. No. 39037.Vers 1770.Distance 4 millim. Diam.3,8 cm. PLANCHE 19.
+- 506 MONTRE DE DAME EN OR.(Ferdin.Berthoud,Paris).Derriere émaille. Champ mediane ovale entoure de roses. Au milieu ballon en relief et fleurettes email polychromes. Le bord avec petites feuilles vertes emaillees en relief. Au bord du montre petites feuilles email. Le bord du cadran blanc emaille avec roses. Verge a jour. Berthoud a Paris.
+- Vers 1770-80. Distance:4 millim. Diam.4,2 cm. PLANCHE 19.
+- 5071 MONTRE OR EMAIL (De Esquivillon freres et de Choudens a Paris.) Sur le derriere image emaillee en relief reparee: une petite fille en costume grec blanc jaune est etendue sur une couche rouge; pres d'elle est assis un cavalier en habit bleu et manteau lilas, qui joue du luth. Entoure, ainsi que le cadran de mi-perles. Le bord lateral avec entrelacs. Cadran blanc emaille. Mouvement a verge Esquivillon freres et De Choudens. Vers 1770-80. Distance: 7 millim. Diam. 4,5 cm. PLANCHE 19.
+- 5081 MONTRE D'HOMME. De Esquivillon et de Choudens (Paris). Boite argent. Rouages cuivre jaune, cadran cuivre jaune avec deux Maures mobiles qui frappent a des clochettes. Esquivillon et de Choudens. Vers 1780. Distance: 4 millim. Diam. 5,5 cm.
+- MONTRE CUIVRE EMAILLE. Sur le derriere image émail: un couple d''amants sont assis 509 aupres d'une source, entoures de quelques roses et d'ornements en relief. Le cadran blanc emaille entoure de roses. Rouages a verge dores. Faizan freres a Geneve. 2eme moitie du XVIlle siecle. Distance:4 millim.Diam.:4,5 cm. PLANCHE 19.
+- 510 MONTRE OR EMAIL. De John Romilly, Paris. Boite or. Le cercle autour du cadran garni de roses. Sur le derriere image email: femme a genoux en costume rouge jaune pres d'un autel en flammes. Les aiguilles avec roses. Verge a jour. Romilly, Paris. Vers 1770. Distance:4 millim. Diam. 4 cm. PLANCHE 19.
+- 511 MONTRE OR EMAIL. De Charles Leroy, Paris. Sur le derriere en email champ rose bord vert celadon avec fleurettes rouges. Cadran blanc email, avec signes des constellations. Le Roy a Paris. No.15560. Vers 1770. Diam.:5 cm. PLANCHE 19.
+- 512 MONTRE CUIVRE EMAIL. Boite doree. Sur le derriere corbeille de fleurs en relief avec ecailles en émail et rubis. Rouages a verge a jour. Vers 1770-80. Distance: 35 millim. Diam.4,5 cm.
+- 513 MONTRE OR EMAIL. De L'Epine, Paris. Boite or. Sur le derriere medaillon ovale avec buste d'une jeune dame en robe rose, entoure de roses et de guirlandes en relief. Le cadran blanc email, entoure de roses. Rouages a verge a jour. L'Epine, Paris. Vers 177080.Distance:4 millim.Diam.4 cm. PLANCHE 19.
+- 514 MONTRE CUIVRE EMAIL. Boite doree. Sur le derriere image en email: un petit garcon et une petite fille debout pres d'un petit obelisque, entoures de pierres en strass. De meme le cadran blanc email est entoure de pierres en strass. Rouages a verge a jour. Ducret a Geneve. Vers 1780. Distance: 3,5 millim. Diam. 5 cm. PLANCHE 19.
+- 515 MONTRE OR EMAIL. Boite or. Sur le derriere email vert guilloche avec fleurettes jaunes. Le cadran email blanc entoure de pierres en strass vertes et blanches. Verge a jour. Beaumier et Viala Geneve 31729. Crochet avec portrait tete, ornements, etc. en cuivre dore.
+- Vers 1790.Diam.4 cm. PLANCHE 19.
+- 516
+- d'un paysage avec ruines, en partie avec roses. Autour du cadran email blanc roses. Rouages a verge a jour. Gudin a Paris. Vers 1780. Distance: 3,5 millim. Diam. 4 cm.
+- MONTRE DE DAME EN OR. De Jacques Jerome Gudin, Paris. Sur le derriere relief
+- 517 MONTRE D'HOMME EN OR. Avec couvercle peu guilloche. Rouages a verge. Alliez Bachelard et Terond 45665. Commencement du XiXe siecle.Diam.5,5 cm.
+- 518
+- MONTRE D'HOMME EN OR. Guillochee. Courroisier freres No. 2146. Commencement du XIxe. siecle. Diam. 5,4 cm.
+## Objets en pierres, en pierresnon precieuses, en marbre et platre.
+
+- 519 CAMEE SARDOINE. Tete d'Auguste jeune. Au-dessous constellation du Capricorne. Ovale. Epoque de lempire. Haut.2,5 cm, Larg.3,8 cm.
+- 520 MEDAILLE EN CAMEE. Avers: buste d’un seigneur rococo a droite. Legende: COMES·
+- MIO MARIA·MAZZUCHELLI· AET· ANNO ·XLV. Revers: le lion de Saint Marc. Le gende: SENATUS CONSULTO MDCCLIl. Dans petit cadre cuivre jaune dore. Diam. 5 cm.
+- 521
+- 522
+- 523
+- FLORA EN CAMEE. Profil a droite. Sardoine. Haut. 3,7, Larg. 2,3 cm.
+- CAME, TETE DE FEMME. Profil a gauche. Sardoine. Haut. 2,5, Larg. 1,9 cm.
+- CAMEE. MATRONE. Buste a droite. Pierre rouge. Cornaline. Haut. 2,5, Larg. 1,8 cm.
+- 524 CAMEE: TETE DE JUPITER. Profil a gauche.
+- Calcédoine.Haut. 4,4, Larg.3 cm.
+- Cornaline. Haut. 2,3,Larg.1,6 cm.
+- 525 CAMEE: TETE DE ROMAIN. Profil a gauche.
+- 526
+- CAMEE: TETE DE ROMAIN. Profil a droite. Agate. Haut. 2,5, Larg. 1,9 cm.
+- 527
+- 528
+- 529
+- CAMEE: TETE DE GAULOIS. Profil a droite. Pierre du Nil. Haut. 3,6, Larg. 3,1 cm.
+- CAMEE: TETE DE ROMAIN. Profil a droite. Pierre du Nil. Haut. 2,6, Larg. 1,7 cm.
+- CAMEE:VENUS ET AMOUR. Agate. Haut. 2,6, Larg. 1,6 cm.
+- 530 CAMEE: TETE DE GUERRIER. Profil a droite. Pierre du Nil. Haut. 3, Larg.2,3 cm.
+- CAMEE: TETE DE MEDUSE. Cornaline. Haut. 3, Larg. 4,2 cm. 531
+- 532 CAMEE: TETE DE FEMME. Profil a gauche. Quartz rose. Haut. 3, Larg. 1,8 cm.
+- 533
+- CAMEE:Hebe, abreuvant 1'aigle. Agate. Haut. 2,6,Larg.2 cm.
+- 534
+- CAMEE: TETE DE FEMME. Profil a gauche. Sardoine. Haut. 2,9, Larg. 1,9 cm.
+- 535 CAMEE: TETE DE ROMAIN. Profil a droite. Sardoine. Haut. 2,4, Larg. 1,8 cn.
+- 536 CAMEE: TETE DE FEMME. Profil a droite. Agate. Haut. 2,8, Larg. 1,9 cm.
+- 537
+- CAMEE: TETE DE FEMME. Profil a droite. Agate. Haut. 2,5, Larg. 2,1 cm.
+- 538 CAMEE: TETE DE ROMAIN. Profil a droite. Calcedoine. Haut. 3,5, Larg. 2,7 cm.
+- 539
+- CAMEE: MASQUE DE SATYRE. Agate. Haut.3,4, Larg.2,9 cm.
+- 540 CAMEE:TETE DE FEMME. Haut.-relief. Sardoine. Haut. 3,6, Larg. 2,5 cm.
+- 541 CAMEE: TETE DE FEMME. Profil a droite. Agate. Haut. 2,7, Larg. 2,1 cm.
+- 542 CAMEE: TETE DE FEMME. Profil a gauche. Agate. Haut. 2,4, Larg. 1,8 cm.
+- 543 CAMEE: TETE DE GUERRIER. Profil a gauche. Agate. Haut. 2,4, Larg. 1,8 cm.
+- 544 CAMEE: TETE DE ROMAIN. Profil a gauche. Agate. Haut. 2,2, Larg. 1,5 cm.
+- 545 CAMEE: TETE DE FEMME. Profil a droite. Agate. Haut. 3, Larg. 2,3 cm.
+- CAMEE: TETE DE FEMME. Profil a gauche. Agate. Haut. 2,5, Larg. 2,1 cm. 546
+- 547
+- CAMEE: TETE DE GUERRIER.A droite. Pierre du Nil. Haut. 2,7, Larg.2 cm.
+- 548
+- CAMEE: TETE DE GUERRIER. A gauche. Agate. Haut. 3,Larg. 2,3 cm.
+- 549 CAMEE: TETE DE FEMME. Profil a droite. Agate. Haut. 2,6, Larg. 1,9 cm.
+- CAMEE: GRANDE DAME. En costume empire. Profil a gauche. Onyx. Haut. 3,4.
+- 550 larg.2,5cm.
+- 551
+- CAMEE:TETE DE FEMME. Profil a droite. Agate. Haut.2,1,Larg. 1,3 cm.
+- 552 CAMEE: TETE DE NERON. Profil a droite. Onyx. Haut. 1,9, Larg 1,6 cm.
+- 553 CAMEE: DOUBLE TETE DE ROMAINS. Profil a gauche. Agate. Haut. 2,3, Larg. 1,6 cm.
+- 554 CAMEE: TETE DE FEMME (Psyche). Profil a gauche. Sardoine. Haut. 2,4, Larg. 1,8 cim.
+- 555 CAMEE: TETE DE ROMAIN. Profil a droite. Agate. Haut. 2,3, Larg. 1,7 cm.
+- 556
+- 557 CAMEE: TETE DE VITELLIUS. Profil a droite. Pierre du Nil. Haut. 2,6, Larg. 1,9 cm.
+- 558
+- 559 CAMEE: TETE DE ROMAIN. Profil a gauche. Calcedoine. Haut. 2,l, Larg. 1,4 cm.
+- CAMEE: HERCULE avec le lion de Nemée. Encadrement or. Agate. Haut. 3,2, Larg. 2,6 cm.
+- CAMEE: TETE D'HOMME. Profil a gauche. Cornaline. Haut. 2,4, Larg. 1,8 cm.
+- 560 CAMEE: TETE DE JEUNE GUERRIER. Profil a droite. Encadree en or comme anneau. Agate.Haut.3,1,Larg.2,2 cm.
+- 561 CAMEE:TETE DE ROMAIN. Profil a droite. Encadree en or comme anneau. Agate, Haut. 3,3, Larg.2,3 cm.
+- 562
+- DIX-HUIT BOUTONS D'HABIT CAMEES: TETES. Sur chaque camee, un homme et une 563 femme, Europeens et Asiatiques. Encadrees en cuivre. Vers 18oo. En etui or gaufre. Agate.Diam.3 cm.
+- CAMEE: TETE DE FEMME. Profil a gauche. Encadree en cuivre. Agate. Haut. 3,4 Larg.2,8 cm.
+- UNE COLLECTION D'INTAGLIOS.Cornaline, sardoine,agate, amethyste, ambre jaune,et.
+- 564 23 pieces.
+- 565 TETE D'HOMME. Intaglio. Profil a droite. Cornaline. Haut. 1,9, Larg. 1,4 cm.
+- 566 COUPE EN CRISTAL DE ROCHE. Pied rond, fut double a chainons et coupe ovale. En cristal de roche poli. Feuillage et oiseaux unis argent dore et emaille. Vers 1600. Haut. 16 cm.
+- 567
+- BOUTON DE CANNE. En malachite. Vere et rouge. Long. 13 cm.
+- 568
+- 569
+- RELIEF: ADORATION DES MAGES. Sur une roche est assise Marie avec l'enfant Jesus sur ses genoux; pres d'elle Saint Joseph; autour d'eux les trois mages. Haut-relief peint en rouge, vert, bleu et noir, les ornements en or. Haut-italien. xVe siecle. Albatre. Haut.21,Larg.22 cm.
+- 570 ALFONSO LOMBARDI: RELIEF. MISE AU TOMBEAU DU CHRIST. Carre. Joseph d'Arimathie, Nicodeme et Marie Madeleine tiennent le corps. Derriere t ois femmes avec Jean. En haut ruban a devise tenu par deux anges. Haut-relief en marbre blanc.
+- 571 GIAC. FAI. RELIEF:ALEXANDRE ET DIOGENE. Rond. Au milieu est assis le roi Alexandre en guerrier. A gauche Diogene regarde de son tonneau; un homme leve la lanterne en l'air. A droite des guerriers. Haut.-relief. XVlle siecle. Marque a gauche:
+- RELIEF AVEC TROIS DIVINITES EGYPTIENNES. Assouan Haut. 9, Larg. 6,5 cm.
+- Par Alfonso Lombardi de Ferrare (1497-1537). Cadre or. Haut. 42, Larg. 38 cm.
+- GIA: FAIf. Marbre grec blanc. Cadre or richement sculpte. Diam.: 45 cm.
+- 573 RELIEF DU CHRIST ET DE MARIE. Ovale. Marbre blanc. Cadre noir. XVIle siecle.
+- 574
+- 572 TETE DE PETIT ANGE AILEE. Demi-ronde. Marbre blanc. XVIle siecle. Haut. 17 cm.
+- Haut.18, Larg.13 cm.
+- PAYSAGE AVEC TOUR FORTIFIEE. Mosaique romaine. Ovale.XVllle siecle.Petit cadre or. 8,5:11 cm.
+- 575 PAYSAGE. En pierres incrustees. Italien. XVIlle siecle. Cadre or. Haut. 12, Larg. 18 cm.
+- Diam.:29 cm.
+- 576 BARTOLINI. RONDO. Portraits de Napoleon et de Josephine. Vers 18Oo. Marbre blanc.
+- et Renaissance. Environ 150 pieces.
+- 578 QUATRE FIGURINES COMIQUES. En platre brale et peint. Vers 1840. Allemand.
+- Platre.Haut.16 cm.
+- FEMME AGEE. Buste de profil a gauche. En masse de platre blanc brule. Vers 1850.
+
+## Cuir et Reliures.
+
+- 580 RELIURE PERSANE. Bois avec rinceaux incrustes en nacre sur fond noir genre laque XVe -XVle siecle. Haut.18, Larg 15 cm.
+- 581 RELIURE PROVENANT DE LA BIBLIOTHEQUE DU ROI DE FRANCE, FRANCOIS 1er. Maroquin brun avec or gaufre. Au milieu deux champs carres, entoures darabesques, ou se trouvent les armoiries des Bourbons, la Salamandre, l'F. couronne. Le tout entoure de trois bordures. 1) F couronne et rosaces, 2) entrelacs facon orientale, 3) lis et F couronne. De lun des Roffet au de Philippe le Noir. Vers 1520. Registrum canonum tabulae primi mobilis Joannis de monte regio viri disertissimi 1514 Propositiones et canones in tabulas eclypsium magistri Georgii peurbachii viri perspicacissimi Viennae 1514 a Georgio Tannstetter. Fol. PLANCHE 20.
+- 582 RELIURE CUIR CISELE. Maroquin noir. Champs carres avec feuilles. Italien. Vers. 1530. -Il tesoro di M. Brunetto Latino Firentino, precettore del divino poeta Dante. MDXxVIll Venetia per Gian Antonio Fratelli da Sabbio. 8o. PLANCHE 21.
+- 583 RELIURE MOSAiQUE. Maroquin rouge avec or gaufre. Entrelacs de lignes avec petites feuilles. Au milieu rosace en couronne. Peint rouge en partie. Maniere de Th. Majoli. Vers 1530. -C. Plinii Secundi naturalis Historiae Liber XIl. pag. 331-647. Le titre manque.Bale. 8o. PLANCHE 21.
+- 584 RELIURE. Maroquin brun avec or gaufre. Entrelacs de lignes, feuilles et pointille. Avec le monogramme C C. Maniere de Th. Majoli. Italien.Vers 1530. -ll Petrarcha con l'espositione d'Allessandro Vellutello. Venetia. Bern. de Vidali MDXxVIll. 8o.
+
+PLANCHE 21.
+
+- 585 RELIURE MOSAiQUE. Maroquin brun. Entrelacs s'entrecroisant dont les lignes sont en or gaufre et peintes en rouge, jaune et vert. Au centre, pointile or. Maniere de Th. Majoli. Vers 1530. - Sermoni divotissimi di mister sancto Bernardo abbate, doctore moralissimo. In Venetia per Bernardino de viano Vercelese 1529. In 80. PLANCHE 21.
+- 586 RELIURE PROVENANT DE LA BIBLIOTHEQUE DE HENRI Il. Maroquin brun or gaufre.
+- Au milieu ovale avec les lis de France, entoure de H couronne, de HD entrecroises, de croissant trois fois croise et de lis. Rectangulaire, enveloppe de gaufrage sans couleur. Puis de nouveau une bande, entouree de petites feuilles avec les emblemes ci-dessus. Vers 1560.- Alexandri Aphrodisiei commentaria in duodecim Aristotelis libros de prima philosophia interprete Joanne Genesio Sepulueda Cordubensi ad Clementem VIl. Pont. Max. Romae in aedibus Marcelli Silber, alias Franck. Anno domini MDXxVll mense Februario. Fol. PLANCHE 22.
+- 587 RELIURE PROVENANT DE LA BIBLIOTHEQUE DU ROI HENRI Il. Maroquin brun or gaufre. Deux larges bordures avec guirlandes d'arabesques et emblemes; H couronne, HD lies, croissants trois fois croises, lis et rosaces. Au milieu lis des Bourbons avec les memes emblemes. Vers 1560. Francais.- Processionarium secundum ordinem fratrum predicatorum. Avec des notes. Venetis, apud heredes Luce Antonii Junte. MDLX. 8.
+- 579 Relief. Haut.6 cm.
+- 588 RELIURE MOSAYQUE. Maroquin brun or gaufre. Ormements: lignes et petites feuilles. Les lignes en or, remplies de rouge et noir. Maniere de Th. Majoli. Italien. Vers 1560. —Manuscrit parchemin: Actes notaries de Padoue des annees 1560-1584. Fol.
+- 589
+- RELIURE. Maroquin brun or gaufre. Carres et demi-cercles, remplis de petites feuilles, entoures de bordure. Italien. Vers 157o.—Opera di santo Antonino archivescovo fiorentino.Venezia Girol. Scotto 1562. In 8 etroit. PLANCHE 22.
+- 590 RELIURE MOSAIQUE. Maroquin brun or gaufre. Entrelacs de lignes or avec quelques
+- petites feuilles. Qui sont en partie peintes en rouge. Au milieu armoiries des Visconti. Maniere de Grolier. Italien. Vers 1570. — Pino, Scelta di lettere t. Ill, IV. Venezia. 1574.In 80. PLANCHE 21.
+- 591 RELIURE. Maroquin brun or gaufre. Lignes entrelacees. Quelques petites feuilles et lis dissemines ainsi que K couronne. Au milieu cartouche avec lis. Italien. Maniere de Th. Majoli. Vers 1570.  M. T. Ciceronis de philosophia. Volumen I et Il. Lugduni, apud Antonium Gryphium 1570. In 160.
+- 592 TROIS RELIURES. Veau gaufre clair. Sur le cote anterieur, buste de l'empereur Rodolphe II. avec la legende: RVDOLFVS II. D. C.ROM. IMP. SEM.AVGVS. GERM. HVNGA. BOHEMI ET REX. et MIEM 158l. Sur le cote posterieur buste d'un chevalier avec la legende: VIRTVTES· ANIMI·MAIESTAS·EXPLICATORES AVGVSTI
+- VVLTVS ·INSPICE NVMEN HABENT. Bord avec ornements. Allemand. In 8o.
+- 593
+- RELIURE. Volume Maroquin brun or gaufre. Au milieu ovale avec blason et inscription: KAIOEEH OYPANUS AMBATOE. Iltalien.-Le Prose overo Grammatica della Lingua volgare di mons. Pietro Bembo Cardinale. Venezia, Giovanni de Rossi. Florentiae Apud Juntas MDLXIX. In 80.
+- 594
+- RELIURE MOSAYQUE. Maroquin rouge or gaufre. Champ en forme de losange avec guirlandes dont les petites feuilles et lis sont teints en noir, vert et rouge. Les champs libres aux coins et au centre pointilles or. Au milieu blason de cardinal. Fin du XVle siecle. Italien. Maniere de Th. Majoli.- Conte Pomponio Torello. La Merope tragedia, Parma MDLXXXIX.In 40. PLANCHE 20.
+- 595 RELIURE.
+- Maroquin brun or gaufre. Au milieu, ovale, avec le nom CATHERINE. Entoure de champs geometriques remplis de petits bouquets de fleurs. De la bibliotheque de Catharina Foucault. Vers 1600. Italien.-Lili Greg. Gyraldi Ferrar. Operum tomi duo. Basileae Th. Guarinus MDLXXX. Fol.
+- 596
+- RELIURE de Christine, fille de Henri IV de France, epouse de Vittorio Emanuele de Savoie. Maroquin brun or gaufre. Au milieu blason des Bourbons, entoure de cartouche a enroulement, de guirlandes et de cornes d'abondance. Bordure avec rosaces et feuilles. Vers 1600. Francais. — Andreae Naugerii Patricii Veneti. Ovationes duae, carminaque nonnulla. Venetis MDXXX. Fol. PLANCHE 20.
+- 597 francais.In 40.
+- 598 RELIURE. Maroquin brun or gaufre. Bordure avec ovales et petites feuilles. Au milieu cartouche avec armoiries: trois portes et deux lis, entoures de la decoration de Saint Michel. Probablement Italien. Vers 1600.Fol.
+- RELIURE. Maroquin rouge or gaufre. Au milieu armoiries royales; a droite lis, a gauche aigle a une tete, sur-le-tout avec 1 et 4 tour,2 et 3 lion. Les quatre carres de la reliure repetent les images des armoiries: lis, lion aigle et tour. Vers 1600. Probablement PLANCHE 21.
+- 599 Vers1624.-
+- RELIURE. Maroquin rouge or gaufre. Deux bordures avec arabesques et trois abeilles (armoiries des Barberini: Pape Urbain Vll). Au milieu: ecu quatre fois tranche. Italien. P. Giacomo Fuligatti,Vita del Cardinale Roberto Bellarmino della compagnia di Gesu,Roma, Bart. Zanetti MDCXXIV.In 4.
+- 600
+- RELIURE. Maroquin brun or gaufre. Champ median avec blason de cardinal, entoure de lis. Large bordure avec abeilles (ecusson du Pape Urbain Vlll Barberini). Italien. Vers 1625.  Biblia Sacra. Venetis Ev. Deuchinum. MDCVIll. Avec gravures sur bois. Fol.
+- 601 RELIURE D'UN LIVRE DE LA REINE ANNE DE FRANCE (Autriche). Maroquin rouge or gaufre. Champs ovales a quatre lobes avec le lis des Bourbons, le L couronne (Louis Xlil) et double A couronne. Francais. Maniere d'Antoine Ruette. Vers 1630. Degli avvertimenti della lingua sopra' Decamerone del Cavalier Lionardo Salviati. Vol. Iu. II Venezia MDLXXXIll et 1586. In 40. PLANCHE 20.
+- 602 TROIS RELIURES DE LIVRES DE LOUIS XIV. Maroquin rouge or gaufre. Champs geometriques avec petites feuilles pointillees. Au milieu rosace avec le blason royal de Palliance France-Angleterre, entoure de la lettre A. Francais. Vers 1640. Maniere de Antoine Ruette.— Annali Ecclesiastici tratti da quelli del Cardinal Baronio per Odorico Rinaldi Frivigiano. In Roma appresso Vitale Mascardi MDCXLI. 3 livres. In 40. PLANCHE 21.
+- 603 RELIuRE. Maroquin rouge or gaufre. Bordure avec petits ornements; aux coins double aigle couronne.Italien.Vers 1640.— Document universitaire, dans lequel le prince Opiso, fils du duc Alfonse d'Este de Modena, a present Fr. Jean Bapt. Capuccinus est enomme docteur utriusque juris de l'Universite de Civitatella Regii en 1640. Sur parchemin. Avec un blason miniature. (Comparez No. 906.) In 4
+- 604 RELIURE MOSAiQUE. Avec scene plastique. Maroquin brun. A gauche est agenouillee une femme qui joue de la cithare; devant elle est debout une seconde femme. A gauche, en haut: IBRAHIM. Les contours en or, rouge et vert, les surfaces peintes. Aux coins croissant et etoile or. Venitien. Vers 1650. Laflorus ex recensione N. Blanckardi accedit eiusdem ex omnibus observationibus editis, ac ineditis Salmasii commentarius. Lugduni Batavorum 1648. In 80. PLANCHE 21.
+- 605 RELIURE. Maroquin rouge brun or gaufre. Au milieu armoiries du pape Innocent XI Odescalchi dans un riche cartouche. Aux coins vases avec guirlandes de fleurs. Bordure avec palmettes. Endommage par les mites. Vers 1685. Italien.— Document uni versitaire, dans lequel Jean Baptiste Mazzolano d'Imola est nomme docteur utriusque juris de lUniversite de Bologne. 1684. Sur parchemin. Avec 4 miniatures. Anges avec
+- armoiries et saints. Lettres ornees or. 40.
+- RELIURE. Maroquin brun avec ornements, rinceaux or gaufre. Italien. XVlle siecle. In 8.
+- RELIURE DE LIVRE DE PRIERES. Maroquin brun avec ornements, feuilles or gaufre.
+- XVlle siecle. Italien. In 160.
+- 609
+- RELIURE. Maroquin rouge avec bordure de feuilles et armoiries de cardinal, or gaufre. XVlle siecle.In 80.
+- 610
+- RELIURE: Parchemin or gaufre. Avec grillage echancre et transparent en soie rose. Au milieu fleur et monogramme:RM en or. Hollandais. Vers 17oo.- Joannis Alstorphi J.U. D. Dissertation philologica de lectis subjicitur eiusdem de lecticis veterum diatribe. Amsterdami,Joannem Wolters MDCCIV. In 40.
+- 611 RELIURE. Maroquin brun clair or gaufre. Simple bord a lignes. Au milieu ovale avec le blason du roi Vittorio Amadeo de Savoie; tenu par deux lions. Sur la partie posterieure Charitas avec la legende: HOS PEDALE. GENERALE. DELLA·CARIT A. Italien. Vers 1720. -La mendicita sban dita,In Torino MDCCxVIl. In 40.
+- 612 SIX RELIURES LOUIS XV. Maroquin rouge or gaufre. Bordure avec entrelacs, vases et petites feuilles. Au milieu armoiries de cardinal (quatre rangees de cloches suspendues) dans un cartouche. Probablement Italien. Vers 1730.- Breviarium Romanum, Venetis
+- MDCCXXX.In40.
+- 607
+- 608
+- 613 RELIURE. Maroquin brun or gaufre. Au milieu ovale avec les armoiries de Giacomo IV. Francesco di Padua. — Milano-Franco gioeni-d'Aragona. Bord avec lignes, aux coins fleurs. Vers 1750. Italien. - Abb. Expilly, Della Casa Milano libri quattro, Parigi 1753.In 40.
+- QUATRE RELIURES. Maroquin brun or gaufre. Bordure de rinceaux. Au milieu armoiries
+- 614 de cardinal. Vers 1780. —P. F.Fidele Ligure Ingauno Capuccino, Dissertationes theologico-morales I-V Bd. Bononiae. MDCCLXXVll. Fol.
+- RELIURE. Maroquin brun clair avec bordures de fleurs or gaufre Seconde moitie du
+- 615 XVllle siecle. In 80.
+- 616
+- RELIURE DE LIVRE DE PRIERES. Maroquin rouge avec bordure a rosaces or gaufre. Fin du XVllle siecle. 16o.
+- 617 RELIURE.
+- Vers 1800.In 80.
+- 618 FLASCHE A POUDRE. Conique-demi-circulaire. Cuir gaufre. Un chasseur debout sur un sanglier tue: autour de lui la meute. Dans les coins des rinceaux. XVIe siecle. Italien. Haut.15,5 cm.
+- 619 ROULEAU DE MESSAGER. Autour de la partie centrale une frise: une tour devant laquelle font halte des guerriers en costume du xvlle siecle. Au-dessus de la tour
+- fourchons et blason. Galons en refief. Bien conserve. Milieu du XVlle siecle. Long. 36 cm.
+- 620 ROULEAU A DOCUMENTS. Pointille et avec rinceaux a fleurs en relief. ltalien. XVlle siecle. Long.21 cm.
+- 621
+- 622 CASSETTE EN CUIR. Gaufree, dessin echiquier. Au bord feuillage rocaille. XVIlle siecle. France. Haut.13, Larg.29,5, Profondeur 19 cm.
+- ETUI EN CUIR. Pour couvert. Maroquin gaufre or. Vers 1700. Long. 25 cm.
+- 623
+- CASSETTE. Maroquin brun avec dorure. Bordure. Milieu du XVille siecle. Haut. 25,5, Larg. 17,5 cm.
+- 624 CASSETTE POUR LETTRES. Maroquin rouge avec dorure. Bordure de fleurs. Milieu du XVllle siecle. Haut. 32, Larg. 21 cm.
+- 626 ETUI. Rosaces et lignes gaufrees or. Maroquin. XVllle siecle. Long. 20,5, Profond 9 cm.
+- 625 ETUI. Etoiles or gaufre sur veau. xvllle siecle. Haut. 10, Larg. 7 cm.
+- 627 BOiTE. Maroquin avec bordure rocaille or. XVlle siecle. Long. 30, Prof. 20 cm.
+- 628 Long.26,Prof.20,5 cm.
+- BOiTE. Avec tiroir et couvercle. Cuir vert au bord ornements or. XVIlle siecle.
+- 629 BOiTE. Bord avec ornements or gaufre. Maroquin. XVlle siecle. Long. 26, Prof. 18 cm.
+
+## Objets en ivoire, nacre, écaille, corne, cire et écume de mer.
+
+- 630 CALENDRIER DE POCHE. Se composant de deux plaques epaisses et rectangulaires en ivoire. Avec points cardinaux, boussole, cadran solaire, calendrier mensuel. Les lignes vertes et rouges retrecies. Hans Tronkel NURENBERG ANNO 1587. Haut.9,
+- Larg. 6,5 cm.
+- 631 TROIS PLAQUETTES GRAVEES EN IVOIRE. Provenant probablement d'une cassette. Scenes bibliques, entr'autre les jeunes gens dans le poele. Vers 1600. Petit cadre noir.
+- Haut 15, Larg. 17,5 cm.
+- 632 CRUCIFix. L'arbre noir poli, le corps en ivoire. Le tete avec les longues boucles, inclinee a droite. Les muscles, veines et tendons travaillee avec soin et bien ressortants. Le corps en forme de S arque. xVlle siecle. Haut. du corps 20 cm.
+- 633
+- PLAQUETTE OVALE EN IVOIRE. Peinte avec l'enfant de Jean. Ovale. Dans une enveloppe de bronze. XVlle siecle. Haut. 8,3, Larg. 6 cm.
+- RELIEF EN IVOIRE. Scene mythologique. Deux Faunes nus avec un loup. Derriere est
+- 634 assis un homme nu. Italien. xVlle siecle. Haut. 4,5,Larg.8 cm.
+- 635 RELIEF OVALE: PAPE CLEMENT XI. Buste en profil a droite. Avec tiare et chape. Cadre noir avec insignes et ornements papaux en bronze or. Commencement du xVIlle siecle. Ivoire. Haut. 10, Larg.8,5 cm.
+- 636 COUVERCLE D'UN COFFRET A JETONS. Grave et peint.Ivoire. XVIlle siecle.
+- Long.8, Larg.6 cm.
+- 637 DEUX COFFRETS AVEC JETONS. L'un rouge, l'autre vert. Sur le cote exterieur montre a carillon ainsi que les figures gravees: La Terre et le Feu. A l'interieur paysage grave avec linscription. Marianat le Jeune a Paris fecit. Les jetons avec fleurs.
+- Vers 1750.Ivoire.6:8,5 cm.
+- 638 8 COFFRET EN IVOIRE. Rectangulaire. Couvert de fleurettes gravees, en partie colorees, alternant avec de petites feuilles a ornements circulaires. Rocailles enchassees avec animaux. A linterieur papier polychrome avec figures. Italien. Milieu du XVlle siecle. Haut. 12,
+- Larg.24, Prof.15 cm.
+- 639 PETIT ETUI en ivoire sculpte, garni en or. 12:3 cm.
+- CASSETTE. Avec fausses fenetres rappelant le style gothique. Bois noir avec ivoire.
+- 640 Commencement du XIXe siecle. Haut. 24, Larg. 29, Prof. 19 cm.
+- 641
+- ETUI A CIGARES. Avec monogramme. Vers 1850. Ivoire. Haut. 13,5, Larg. 6,5 cm.
+- 642 DEUX PEIGNES. Ciseles, lun en relief, l'autre a jour. Ivoire. 15 et 20,5 cm.
+- 643 PETITE CORBEILLE. Mince comme du papier. Avec chinoiseries. Chine. Ivoire. Haut.24 cm.
+- 644
+- DEUX RELIEFS du roi de France, Louis XIV et de la reine Marie Therese. Ovales. En cassette cuir.Ivoire. Haut.12,5, Larg. 7,5 cm.
+- 645
+- ALBUM. Avec reliure ivoire et argent. Haut. 15, Larg. 22 cm.
+- 646 FRAGMENT D'IVOIRE. Coin de coffret. Avec deux chevaliers. Haut. 10 cm.
+- 647 RESURRECTION DU CHRIST. Gravee sur nacre. Milieu du XVIlle siecle. Italien. Haut.17,Larg.22,5 cn.
+- 648
+- DOUZE BOUTONS. Nacre avec pierres en strass. En etui cuir or gaufre. Seconde moitie du XVllle siecle.
+- 649
+- BUSTE D'EMPEREUR ROMAIN. A gauche. Nacre. Petit cadre en bois. XVIlle siecle. Diam.6 cm.
+- BOITE. Avec fleurettes polychromes. Nacre. Interieur argent. Fin du XVlle siecle.
+- 650 Long. 11 cm.
+- 651 ETUI A CIGARES. Ecaille incrustee de croix or et de cartouche-monogramme. lere moitie
+- du XIXe siecle.Haut.14,Larg.6,5 cm.
+- LUNETTES EN CORNE.XVIIe-XVIIIe siecle.
+- 652
+- 653 RELIEF EN CIRE D'UNE VIEILLE FEMME (Vanitas). Sur fond noir verre buste d'une vieille femme laide et fletrie, drapee dans un manteau gris. Sur la tete un petit bonnet blanc, la poitrinedecouverte. Dans la main droite une tete de mort; la main gauche levee en l'air pour avertir. Tres bien modele. Dans une boite ronde, tournee. Cire teinte. Attribue a Sansovino. Deux reliefs semblables au Bargello a Florence. Diam. 7,8 cm.
+- HAUT-RELIEF. CUEILLETTE DE FRUITS. En couleur. Cire. Cadre or. XVIle siecle.
+- 654 Diam.16 cm.
+- 655
+- PORTRAIT DU GRAND-DUC DE TOSCANE COSIMO Il.(1670-1723). Costume rouge a galons or et manteau rouge. Perruque a marteau. Cire sur ardoise. Cadre or. Ovale. Vers 1720. Haut.25, Larg. 21 cm.
+- 656 BUSTE DE JEUNE FEMME A GAUCHE. Sur fond noir. Signe: Cades. Vers 1790. Cire rose. Ovale.Dans étui cuir. Haut. 6, Larg. 4,4 cm.
+- 657 PIPE. Sur un haut socle carre avec quatre tortues se tient debout une Mauresque nue
+- qui tient un morceau d'etoffe au-dessus des epaules. Dans le socle est fixe le fumecigarettes. En bas, au socle on peut adapter un tuyau avec bout en ambre jaune. Le tout en ecume de mer. Sur socle brun. Travail de Klavatscheck. Xixe siecle. Haut. 28 cm.
+
+## Petites boites.
+
+(Tabatieres.)
+
+- 8 PETITE BOiTE EN FER. Ovale. Sur deux cotes guirlandes de grandes fleurs taillees dans le fer. XVle siecle. Italien. 5,5:7,5 cm. PLANCHE 23.
+- 658
+- PETITE BOiTE EN AGATE. Forme: fer a cheval. Agate brune tigree sur le couvercle.
+- 660 PETITE BOiTE EN AGATE. Rectangulaire. Agate tigree brunatre. Ornements bronze
+- 659 Le reste en argent. xvIlle siecle. 4,5:6,5 cm.
+- dore. xvllle siecle. 6:8 cm.
+- 199 PETITE BOITE EN LAPISLASULI. Ronde: Le couvercle avec lapislasuli. Le reste en
+- corne.Diam.6 cm.
+- 662 PETITE BOiTE EN VENTURINE. Forme coquille. Monture en argent dore. XVIlle siecle.
+- 4:6cm.
+- 663 PETITE BOiTE EN NACRE. Rectangulaire avec bouts coupes. Gravee avec fleurs et
+- 664
+- ornements.XVIlle siecle.5,5:7,5 cm.
+- PETITE BOiTE EN PAILLE. Ronde. Tressee en paille de plusieurs couleurs. Chine. XVIlle siecle. Diam.7 cm.
+- 665
+- 666
+- 667
+- PETITE BOiTE EN PAILLE. Tressee en paille de differentes couleurs. Chine. XVIlle siecle.Diam.6 cm.
+- GRANDE BOiTE EN IVOIRE. Ovale. Sur le couvercle avec plaquettes en metal sont in-
+- PETITE BOiTE EN Os. Ovale. Avec le saint suaire et les instruments de la Passion Allemand. XVIlle siecle. 5:8 cm.
+- 668 PETITE BOiTE EN OS. Rectangulaire. Avec coeurs, guirlandes de fleurs et portrait d'un
+- tanneur graves. Inscription: So oft ich zu der Dosen lauf, denck ich zu Gott hinauf. Allemand. xvllle siecle. 4,5:6,5 cm.
+- 669 PETITE BOiTE EN BOIS. Au milieu resserre. Montee en cuivre. Bois madre brun
+- fonce. Xvllle siecle. Diam.8 cm.
+- 670 NOIX EXOTIQUE. Comme flasque a poudre. Montee avec filigrane argente. xVIlle siecle.
+- Long.10 cm.
+- PETITE BOiTE EN CORNE. Ronde. Forme corbeille avec entrelacs. XVIlle siecle. Diam.6 cm.
+- 671
+- 672 PETITE BOiTE EN BUIS. En forme sarcophage antique, avec sur les cotes des pilastres qui avancent. Avec deux recipients en bas et en haut. Sur l'un des couvercles, buste de femme couronnee avec linscription: FELICE CHIAROTTI.F.; sur l'autre: Pallas 1enfant et armoiries de la Savoie. Le tout en relief. XVllle siecle. Long. 8,5, Haut. 4,5 cm.
+- TABATIERE.Rectangulaire. Coupe perpendiculaire ovale. Bouleau madre russe. XVIle siecle.
+- 673 Long.12 cm.
+- 674 PETITE BOiTE EN ECAILLE. Ronde. Ecaille foncee avec montage en metal dore.
+- XVIlle siecle. Diam.7,4 cm.
+- 675 BOiTE. En bois brun fonce. Entrelacs. XVllle siecle. Long. 12,5 cm.
+- 676 BOiTE PLATE. Peau de serpent verte. Montee sur argent. Long. 13 cm.
+- 677 NECESSAIRE A COUDRE.Plat.Avec peau de serpent verte. Montee sur argent. xVllle siecle. Long. 12,5 cm.
+- 678
+- Contenu manque.
+- NOIX ExOTIQUE. Avec fermoir en argent. Utilisable comme tabatiere. xVIlle siecle. Haut.10 cm.
+- 679 NECESSAIRE A COUDRE. Ivoire. XVIlle siecle. Long.12 cm.
+- 680 PETITE BOiTE EN EMAIL. Ovale. Sur fond noir scenes avec de petits anges en couleurs. Petits anges nus jouant avec des armes. Scenes d'amour, etc. en pourpre, bleu, vert et or. A linterieur rinceaux or. Italien. Commenc. du XVille siecie. 5:8,5 cm.
+
+PLANCHE 25.
+
+- 681 PETITE BOiTE EN AGATE. Rectangulaire, avec coins coupes. Agate mousse gris ver-
+- datre. Montee sur argent. Milieu du XVllle siecle. 5:7 cm.
+- 682 PETITE BOiTE EN LAPISLASULI. Bord ondule. Couvercle et fond en lapislasuli. La surface laterale en argent. Milieu du XVllle siecle. 5,5:8 cm.
+- PETITE BOiTE EN NACRE. Forme eventail. Sur le couvercle relief de ladoration des
+- 683 mages. Monture argent. Milieu du XVIlle siecle. 5,5:7,5 cm.
+- 684
+- PETITE BOiTE EN NACRE. Forme eventail. Gravee avec rinceaux a fleurs. Monture bronze dore. Milieu du XVllle siecle. 5:6,5 cm.
+- PETITE BOiTE EN NACRE. Rectangulaire. Gravee avec Apollon couche, avec rocaille
+- 685 et fleurs, en partie dore. Interieur bois. Milieu du XVllle siecle. 4,5:6,5 cm.
+- 686
+- PETITE BOiTE EN EMAIL. Ovale. Sur le couvercle convulsion de sainte Catherine de Sienne; agenouillee dans une cour a colonnes, les instruments de la Passion lui apparaissent. Surfaces laterales avec fleurs polychromes. Sur le fond armoiries. Monture bronze dore. Milieu du XVllle siecle. 6:9 cm.
+- 687 PETITE BOiTE HAUTE EN EMAIL. Ovale. Fond blanc grille. Cartouche rocaille or avec port de mer polychrome facon neerlandaise. Milieu XVllle siecle. 6:7,5, Haut. 5 cm. PLANCHE 23.
+- 688
+- PETITE BOiTE EN EMAIL. Rectangulaire. Fond bleu et lilas. Fleurs et perroquet, en relief et polychromes.Milieu du XVllle siecle. 4:5 cm.
+- 689
+- 690
+- PETITE BOiTE EN EMAIL. Rectangulaire. Scene avec cavalier dans un parc et fleurettes bleu camaieu.Milieu du XVllle siecle. 4:5 cm.
+- PETITE BOiTE EN EMAIL. Rectangulaire. Filets verts et fleurettes polychromes. Milieu du XVllle siecle. 3,55 cm.
+- 691
+- PETITE BOiTE EN EMAIL,Rectangulaire. Fond rose grille.Fleur, medaillons avec oiseaux polychromes. Milieu du XVllle siecle. 4,5:7 cm.
+- 692 PETITE BOiTE EN EMAIL. Rectangulaire. Sur le couvercle scene chinoise polychrome a trois personnages. Sur les suriaces laterales animaux de chasse. Monture bronze dore. Milieu du XVllle siecle. 5:7,5 cm.
+- 693
+- PETITE BOiTE EN EMAIL. Rectangulaire. Surfaces laterales légerement arquees. Avec ruines grises et vertes. Monture bronze dore. Milieu du XVllle siecle. 4,5:7,5 cm.
+- 694
+- PETITE BOiTE EN EMAIL. Rectangulaire. Blanche. Avec grillage et fleurettes en relief. A linterieur du couvercle fleurettes polychromes peintes. Monture bronze dore. Milieu du XVIlle siecle. 4:7 cm. Haut. 3,5 cm.
+- 695 PETITE BOiTE EN EMAIL. Ronde. Sur le couvercle femme et homme en repos dans un paysage. Bords des cotes avec fleurettes. Monture cuivre jaune. Milieu du XVllle siecle. Diam.6 cm. PLANCHE 23.
+- 696 PETITEBOITE EN EMAIL. Rectangulaire.Sur le couvercle deux paysages avec architecture, polychromes, dans cadre rocaille bleue. Sur les surfaces laterales fleurs.
+- Milieu du XV11le siecle. 4:6,5 cm.
+- 697 PETITE BOiTE EN EMAIL. Rectangulaire. Fond bleu vert. Sur le couvercle moissonneur et moissonneuse rentrant des champs a la maison. Sur les cotes fleurettes. Milieu du XV1lle siecle.5:6,5cm.
+- 698
+- PETITE BOiTE EN EMAIL. Rectangulaire. Blanche. Avec grillage et fleurettes en relief. Interieur: fleurettes polychromes peintes. Monture bronze dore avec rocaille. Milieu du XV11le siecle. 6,5:8 cm.
+- 699 PETITE BOiTE EN EMAIL. Rectangulaire. Sur le couvercle port de mer en couleurs. Le reste bronze dore et nacre. Milieu du XVllle siecle. 5:6,5 cm.
+- 700 PETITE BOiTE EN EMAIL.Rectangulaire. Avec scenes de port de mer en couleur a nombreux personnages, maniere neerlandaise. Interieur: paysage architectural en pourpre. Monture bronze dore. Vers 1750. 6,5:8 cm. PLANCHE 23.
+- 701 PETITE BOiTE EN EMAIL. Rectangulaire. Fond bleu ciel. Champs blancs, laisses en blanc avec scenes d'amour et a cavalier en couleurs. Monture en cuivre jaune.I Milieu du XVIlle siecle. 7:9 cm.
+- NECESSAIRE A COUDRE. Fond bleu avec champs blancs que decorent des fleurs
+- 702 polychromes. Milieu du XVile siecle. Email sur cuivre. Long. 9,5 cm.
+- 703 PETITE BOiTE EN CUIVRE ROUGE. Ronde. Guillochee. Avec couronne de feuillage.
+- Cuivre rouge dore. Seconde moitie du XVllle siecle. Diam. 6 cm.
+- 704 PETITE BOiTE EN ECAILLE. Ronde. Sur le couvercle petite pierre appliquee, qui est peinte en gris avec un petit ange sacrifiant, genre camee.E Entouree de filigrane d'or. Seconde moitie du XVllle siecle. Diam. 6,5 cm.
+- 705
+- BOiTE. Interieur ecaille. Peinture sur vernis Martin: petite fille dressant un chien. Seconde moitie du XVllle siecle. Long. 13 cm.
+- 706
+- PETITE BOITE AVEC MINIATURE. Ronde. Ornements en laque. Interieur écaille. Miniature ovale: jeune dame a gauche. Monture en metal dore. Vers 177o. Diam. 8 cm.
+- 707 PETITE BOiTE AVEC MINIATURE. Ronde. Ivoire. Interieur, écaille. Sur le couvercle
+- tete d'un monsieur age a chevelure poudree. Vers 1780. Diam. 6,5 cm. PLANCHE 23.
+- 708
+- PETITE BOiTE EN BUIS. Rectangulaire. Sur le couvercle Marie Immaculee, sur le derriere le Christ pleure. Sur les surfaces laterales feuillage, mascarons, petits anges. Vers 1780. 6:9,5 cm.
+- 709 PETITE BOiTE AVEC MINIATURE. Ronde. Bois incruste. Interieur corne. Sur le couvercle jeune fille qui enfile une chaine de perles; aupres d'elle une vieille femme; genre gravure. Vers 1780-90. Diam.8 cm. PLANCHE 23.
+- 710
+- PETITE BOiTE AVEC MINIATURE. Ronde. Bouleau madre. Interieur ecaille. Sur le couvercle grande miniature: la Geometrie; jeune fille en costume bleu et blanc. Vers 1780-90. Diam.8,5 cm. PLANCHE 23.
+- 711 PETITE BOiTE AVEC MINIATURE. Ronde. Bouleau madre. Interieur, ecaille. Sur le
+- couvercle buste d'un jeune prince a gauche. Grisaille. Fin du XVllle siecle. Francais. Diam.8,5cm.
+- 712
+- PETITE BOiTE EN IVOIRE. Ronde. Sur le couvercle sous verre petite fille et chien, entoures de rinceaux a fleurs. Relief en ivoire et nacre. Fin du xVille siecle. Diam. 6 cm.
+- 713 PETITE BOiTE EN IVOIRE. Ronde. Sur le couvercle peinture genre camee: Amour a
+- cheval avec faux, conduit par une deesse du destin. Fin du Xvlle siecle. Diam. 7 cm.
+- 714 PETITE BOiTE AVEC MINIATURE. Ronde. Ivoire. Interieur, ecaille. Sur le couvercle buste d'une dame en robe rouge et avec couronne dans les cheveux. Signee: Rosaspina fecit.Vers 1800. Diam 5,5 cm.
+- 715 BOiTE EN CORNE AVEC RELIEF EN CUIVRE. Ronde. Interieur, ecaille. Sur le couvercle buste de l'empereur Napoleon Ier. Galle fecit. Vers 1810. Diam. 8 cm.
+- 716
+- BOiTE EN BOIS AVEC RELIEF EN CUIVRE. Bouleau madre. Bustes des membres de la famille de Napoleon Ier. Vers 1810. Diam.8 cm.
+- 717.
+- BOiTE EN BOIS AVEC RELIEF EN CUIVRE. Ronde. Bouleau madre. Relief: Napoléon blesse devant Ratisbonne,25 avril 1809. Vers 1810-20. Diam.8 cm.
+- PORTEMONNAIE EN IVOIRE.Ovale. Avec le monogramme et un autographe de
+- 718 Costanza Mont Pertirasi. 1ere moitie du XiXe siecle. 5:7 cm.
+- 719
+- BOiTE EN CORNE. Forme du chapeau de Napoleon Ier. Sur le couvercle relief plat d'un monument de Napoleon Ier,projete pour l'Hotel des Invalides et non execute. 1ere moitie du XIxe siecle. Larg.8 cm.
+- 720
+- BOiTE EN LAQUE. Rectangulaire. Sur le cote anterieur le buste de Julia Grisi en robe decolletee. Vers 1830.6:9 cm.
+- 721
+- BOiTE EN LAQUE. Ronde. Sur le couvercle Cecile, jeune femme jouant du luth. Stobwasser, Brunswick, No. 5840. Vers 1830. Diam.10 cm.
+- 722
+- 723
+- BOiTE EN BOIS AVEC RELIEF EN CUIVRE. Ronde. Bouleau madre. Relief d'une ile rocheuse abandonnee, sur laquelle plane un aigle. Inscription: il mourut sur un rocher. 1le Sainte Helene 8 mai 182i. Vers 1830. Diam.7 cm.
+- BOiTE EN CORNE AVEC RELIEF EN CUIVRE. Ronde. Interieur, ecaille. Buste de Maria Felicita Malibran-Garcia. Vitt.Nestif. Vers 1830-40, Diam. 6 cm.
+- 724 BOiTE EN ARGENT. Rectangulaire. Sur le couvercle petite image en relief: trois musiciens donnent une serenade a une dame Sur le cote posterieur quatre petits anges, jouant de la musique. Sur les surfaces laterales scenes de buveurs. XVille siecle. 5:7 cm.Poids 78 gr.
+- 725
+- 726 BOiTE EN ARGENT EMAILLE. Forme eventail L'exterieur avec fond émail bleu.
+- BOiTE EN ARGENT. Forme eventail Sur le couvercle bergerie en relief. Sur le derriere paysage grave. Bordures 1ere moitie du XVIlle siecle. 55:7 cm. Poids 75 gr.
+- Dessus champs a cartouche avec cavalier et scene d'amour polychromes. L'argent a linterieur dore. Francais. Milieu du XVIle siecle. 4,5:6,8 cm. Poids 91 gr. PLANCHE 23.
+- 727 BOiTE EN ARGENT. Ronde. Avec cannelures tournees. Interieur dore. Milieu du XVIlle siecle. Diam. 7,5 cm. Poids 75 gr.
+- 728 PETITE BOiTE EN OR. Rectangulaire. Sur le couvercle email bleu guilloche. Au milieu sur fond rose une petite fille dans un paysage. Seconde moitie du XVllle siecle. Francais. Dans boite maroquin or gaufre. 3,5:4,2 cm. Poids 20 gr.
+- 729 BOiTE EN OR. Ovale. Fond émail bleu roi avec rinceaux damasses. Les bordures avec feuillage en couleur. Sur le couvercle medaillon rond: devant une dame en robe rose avec tunique blanche est agenouille un cavalier en costume jaune. Vers1770-80. Francais. Dans boite maroquin or gaufre. 5:6,5 cm. Poids 75 gr. PLANCHE 23.
+- 730
+- BOiTE EN ARGENT. Ovale. Avec ornements graves, vases et couronnes. Vers 1780-90. 4:7,5 cm. Poids 70 gr.
+- 731
+- 732
+- BOiTE EN OR. Ronde. Fond bleu roi emaille. Le bord avec bordures de feuilles. Sur l'une bordure carree et d'une bordure ronde de mi-perles. Le coin avec emblemes en relief. Fin du XVllle siecle. Francaise. Dans boite maroquin or gaufre. Diam. 8,2 cm. Poids 122 gr. PLANCHE 23.
+- BOiTE EN OR. Rectangulaire. Richement gravee avec rinceaux a feuillage et ornements. Sur le couvercle ligne email bleu. Vers 1840. Dans boite en velours. 5,8:8 cm. Poids 128 gr. PLANCHE 23.
+
+## Eventails.
+
+- 733 FEUILLE D'EvENTAIL. Gravee. Les horoscopes ou le devin moderne. Dediees au beau sexe. xvllle siecle.
+- 734 EVENTAIL ROND EN ECAILLE. Batons en ecaille, blonds a jour. Au milieu loupe avec plaquettes de metal rondes, incrustees. Venise. Commenc. du XVllle siecle. Diam. 15 cm.
+- 735
+- EVENTAIL ROND EN ECAILLE. Batons en ecaille a jour, blonds avec plaquettes de metal rondes, incrustees. Les bouts avec papillons dores. Au milieu loupe. Venise. Commenc. du XVIlle siecle. Diam. 16 cm.
+- 736 EVENTAIL EN ARGENT. En filigrane d'argent mince et retiforme. Petits paysages architecturaux en email vert et bleu. Travail chinois-indien. Commenc. du XVlle siecle. Dans une vieille boite. Plus grande largeur 32 cm. PLANCHE8.
+- 737
+- EVENTAIL EN ECAILLE. Ossature en ecaille blond clair, a jour avec rinceaux a fleurs et ornements aux bords. Ces derniers ainsi que les pointes en partie arrondis, en partie dores. Venise. Comm. du Xvile siecle. Dans un vieil etui. Plus grande largeur 35 cm.
+- 738 EVENTAIL EN IVOIRE. Sur le cote anterieur peint: Sacrifice dIphigenie. Debout pres de l'autel Agamemnon et trois autres hommes,a droite Iphigenie fait ses adieux aux femmes; dans les nuages Diane. Au fond un navire. Entoure dornements dans le gout chinois et persan, ainsi que scene chinoise. Sur le derriere paysage avec riviere, cygnes et un pecheur a la ligne. Couleurs vives et pleines en vernis Martin. Les deux batons exterieurs incrustes de nacre. Venise. lere moitie du XVllle siecle. Dans vieil etui cuir gaufre or. Plus grande largeur 55 cm. PLANCHE 24.
+- 739 EVENTAIL EN IVOIRE. Batons a jour. Les batons exterieurs avec fleurs a jour. Feuille de parchemin: sur le cote anterieur scene chinoise dans un parc, en couleurs tendres, sur le derriere liserons. La feuille en partie forme dentelle a jour. Venise. Vers 1740. Etui cuir. Plus grande largeur 48 cm.
+- 740 EVENTAIL EN IVOIRE. Batons avec feuillage,a jour et dores. Feuille en parchemin. Sur le devant scene pastorale: sous un arbre sont assis dans un paysage un homme et une femme avec une corbeille de raisins, derriere un petit garcon, a droite un monsieur avec un agneau, a gauche une dame avec un vase. Sur le derriere dame en robe rose dans un paysage. Sur les cotes rinceaux de fleurs. Guirlandes de fleurs. Venise. Vers 1740. Etui cuir. Plus grande largeur 48 cm.
+- 741 EVENTAIL EN IVOIRE. Sur le devant scene representant la vente de titres francais. Place dans une ville;au milieu grande table avec hommes et femmes. Parmi ces personnes se trouvent un abbe et un indien. A gauche une autre table; a droite une dame monte dans une chaise. En haut lambrequins or, en bas petites chinoiseries. Les batons exterieurs avec Arlequin, berger et bergere en relief. Vernis Martin. Francais. Milieu du XVllle siecle. Dans etui. Plus grande largeur 38 cm. PLANCHE24.
+- 742 EVENTAIL EN IVOIRE. Les batons avec rocailles a rehauts d'or et fleurs naturalistes polychromes,a jour.Les batons exterieurs decores de rocailles, de fleurs polychromes et d'une bergere. Deux feuilles etroites en parchemin avec dessin de dentelle blanche et fleurs naturalistes polychromes sur fond bleu. Venise. Milieu du XVllle siecle. Etui cuir. Diam.46cm. PLANCHE 24.
+- 743 EVENTAIL EN NACRE. Les batons a jour avec Arlequin et dame dans un medaillon ainsi que fleurs. Feuille en soie: sur le cote anterieur scene rococo: au milieu est assis un couple de jeunes epoux avec un petit enfant, accompagne d'une domestique, d'un monsieur et d'une dame. De chaque cote un couple d'amants. Sur le revers fleurs naturalistes. Francais. Vers 1760. Dans etui. Plus grande largeur 50 cm.
+- 744 EVENTAIL EN IVOIRE. Batons a jour avec medaillons ovales, paquets de batons entrelaces, Chinois et fleurs; de meme les batons exterieurs. Feuille en papier peinte polychrome et doree avec deux Chinois en or jaune et rouge ainsi que rameaux fleuris genre japonais en rose et blanc. Venise. Vers 1770-80. Dans etui cuir. Plus grande largeur 52 cm.
+- 745 EVENTAIL EN IVOIRE. Les batons a jour avec batons entrelaces, portraits-medaillons, fleurs; le tout dore. Les batons exterieurs de meme. Feuille en papier,peinte avec scene chinoise a trois personnages en bleu, rouge, lilas, vert, avec fleurs et guirlandes poychromes. Venise. Vers 1770-80. Dans etui cuir. Plus grande largeur 51 cm.
+- 746
+- EVENTAIL EN IvOIRE. Batons a jour. Cote exterieur en partie dore sur bleu et rouge. Feuille en parchemin. Sur le cote anterieur couple de voyageurs genre gravure sur cuivre noire; sur le revers quodlibet de gravures, cartes, portraits et caracteres. Sur fond rose. Venise. Vers 1780. Dans etui cuir. Plus grande largeur 49 cm.
+- 747 EVENTAIL EN IVOIRE. Monture a jour: cercles et figures geometriques. Sur le cote anterieur gravure ronde peinte, collee:les trois Graces dansant devant Apollon. Probablement de Bartolozzi.Bordure de roses. Venise.Vers 1780-90.Dans etui cuir. Plus grande largeur 38 cm.
+- FEUILLE D'EVENTAIL. Papier. Peint maniere de Pompei. Au milieu sur fond noir les trois Graces avec trois petits anges ailes, l'un d'eux assis dans une cage. Sur les cotes deux portraits camee. Grotesques. Vers 18oo. Cadre Louis XVI dore. Plus grande
+- 748 largeur 51 cm.
+- 749 EVENTAIL EN NACRE. Les batons a jour avec rocailles medaillons et fleurs dores. Louis-Philippe. Vers 1840. Dans boite velours rouge. Plus grande largeur 38 cm.
+## Objets en bois. Cadres et Cannes.
+
+(Toutes les mesures des cadres a linterieur.)
+
+- 750 CADRE. EN FORME D'AUTEL. Avec deux colonnes. Avec ornements en relief. Dore.
+- En partie vieux.Vers 1500. Haut.25,Larg.20 cm.
+- 751 CADRE.Petite construction en forme d'autel avec deux colonnes. Niche en forme de croix, incrustee d'ecaille. Moulures flammees.Bois noir. XVlle siecle.Haut. 40, Larg.20,5 cm.
+- PETIT CADRE. Bord large en relief, incruste d'ecaille. Aux coins ornements en cuivre Italie.Avec miniature ivoire de jeune.dame en costume
+- 752 appliques. XVIle siecle. Renaissance. XIXe siecle. Cadre,Haut. 10,5, Larg. 8,5 cm.
+- 753
+- CADRE. Forme croix. Profile. Bois noir. Vers 1700. Haut. 47, Larg. 31 cm.
+- 754
+- 755
+- CADRE OR. Rinceaux a jour. Vers 1700. Haut. 19, Larg. 13,5 cm.
+- PETIT CADRE OVALE. Richement profile avec feuillage. Couronne de fleurs. Dore. Vers 17oo. Avec miniature ivoire de dame en costume Renaissance. Xixe siecle. Haut. 11 cm,Larg 8,5 cm.
+- 756 CADRE. Cadre en rocaille, richement sculpte, a jour et dore. Milieu du XVIlle siecle. Haut.25,Larg.19 cm.
+- 757 CADRE OR. Richement sculpte. En style rococo. Haut. 16, Larg. 12,5 cm.
+- 758
+- CADRE NOIR. Garnitures bronze avec tetes d'ange et volutes. Renaissance. Haut.18, Larg. 15 cm.
+- 759 MADONE AVEC L'ENFANT. Buste. Bois intarsia. Maniere de l'ecole Leonard de Vinci.
+- 760
+- BOiTE. Sur les cotes exterieurs gravures repeintes: entrees triomphales, une femme agenouillee devant un roi. XVle siecle.Italien. Haut. 16, Larg. 29, Prof. 20 cm.
+- 761
+- COFFRET RECTANGULAIRE. Pate de riz sur bois. Les aretes bordees de batons de laurier or. Sur les quatre cotes scenes dionysiaques en relief. Couvercle haut avec rinceaux. 1ere moitie du XVIe siecle. Venise. Haut. 10,5, Larg. 12,5, Prof. 8 cm.
+- 762 PETIT AUTEL DOMESTIQUE. Construction avec deux colonnes corinthiennes et fronton a jour. Colonnes et champs avec ecaille appliquee. Retable: Marie adorant l'enfant, peinture sur bois. Bois noir. Italien. XVIle siecle. Haut.42,Larg.31 cm. PLANCHE 18.
+- 763 PETIT AUTEL DOMESTIQUE. Construction avec deux colonnes d'ordre ionique et fronton bombe a volutes. Incruste de champs geometriques en agate, lapislazuli, amethyste. Comme retable transfiguration de Marie, peinte sur grande plaque d'amethyste. Aux coins petits anges en bronze. Quelques ornements en bronze. Noyer brun. Florentin. XVlle siecle. Haut.52, Larg.28 cm.
+- 764
+- 765 GOURDE DE PELERIN. Forme de courge double. Images genre gravure sur cuivre: Daniel dansla fosse aux lions,aint omeaint bastien,aint Jacques,aintntoin IErmite, Saint Paul Ermite, Saint Francois, Saint Jean Evangeliste. XVlle xVIlle siecle. Probablement italien. Haut.18 cm.
+- CROIx A RELIQUES. Avec le corps de Jesus et Marie. XVIle siecle. Haut. 21,5 cm.
+- 766 BOiTE EN FORME DE CEUR. Fond or avec fleurs polychromes. 1704. Larg. 14 cm.
+- 767 JEU D'ECHECs. Bouleau madre brun. La case avec ivoire et ebene. Les pieces en ivoire et ebene, joliment tournees. Xvllle siecle. 40:48 cm.
+- 768 PETIT GLOBE CELESTE. Allemand. XVIlle siecle. Haut.15,5 cm.
+- XVIe siecle.Cadre or. Haut. 35, Larg. 27 cm.
+- 769 POIRE A POUDRE. Forme ronde, aplatie. Avec ornements graves. XVlle siecle. Diam.10 cm.
+- 770 INDICATEUR DE LIVRE. Baton tourne. Au bout le sacrifice d'Isaac par Abraham, cisele
+- 771
+- 772
+- 773
+- en rond dans des rameaux. XVIlle siecle. Long. 23,5 cm.
+- CANNETTE A DEVIDER. Tournee. XVIlle siecle. Long. 24 cm.
+- PETIT TEMPLE. Avec incrustations d'ivoire. XVIle siecle. Haut. 12 cm.
+- CASSETTE. En paille intarsia. XVIlle siecle. Haut. 17, Larg. 35, Prof. 24 cm.
+- 774 COFFRET. Avec trois tiroirs. Peint de petites roses. Autrement brun poli. XVille siecle.
+- Italien. Haut.28,Larg.40, Prof.30 cm.
+- 775 PENDULE. Bois noir. Garnie de marbre colore maniere florentine. XIXe siecle. Haut.55, Larg. 36 cm.
+- 776 CANNE CISELEE. Structure riche. Avec ornements tournes. En haut caricature d'une tete de moine. Inscription:1530 CFL.
+- 777 CANNE A BOUTON EN IVOIRE. Relief: Napoleon a cheval en costume historique et
+- comme empereur. Commenc. du Xixe siecle.
+- 778 CANNE. Ciselee en forme de serpent. Avec tetes d'Adam et d'Eve. Bois. XVlle siecle.
+- 779 CANNE D'INTENDANT. Bouton en laiton. XVIlle siecle.
+- 780 CANNE D'INTENDANT. Gros bouton a cannelures et armoiries d'alliance tournees.
+- Laiton argente. Milieu du XVllle siecle.
+- 781 CANNE D'INTENDANT. Cannelee. Poignee bronze or avec coraille. Vers 1760.
+- 782 CANNE A BOUTON EN PORCELAINE. Fleurs et oiseaux peints. Italien. Vers 1800.
+- 783 CANNE.
+- Virole et bouton en ivoire. Le baton avec velours bleu. Vers 1800.
+- 784
+- CANNE. Poignee recourbee en ivoire et anneau en argent. Vers 1800.
+- 785 CANNE. Avec poignee ronde en corne. Commenc. du Xixe siecle.
+- 786 CANNE. Gravee avec scenes de la vie de Saint Francois. Bois. Commenc. du XIXe siecle.
+- 787
+- PARAPLUIE. Avec soie rayee. Poignee en forme de main d'ivoire. Seconde moitie du XVIlle siecle.
+
+## Statuettes et Reliefs en bois.
+
+- 788 DEUX STATUETTES DE SAINTS. Saint Jerome en costume de cardinal avec le lion et modele d'eglise et saint eveque en chasuble. Haut-italien. Sur socle rectangulaire en marbre. Vers 1500. Peint. Haut. chacune 43 cm.
+- 789 SAINT LAURENT. Sur socle rectangulaire, profile avec ouverture pour relique. Costume vert et dalmatique rouge avec ornements. Bois peint. ltalie-superieure. XVle siecle. Haut.33 cm.
+- 790
+- DEUX SAINTS EvEQUES. Debout sur socle rectangulaire. Dore. XVIe siecle. Italie. Haut.37 cm.
+- 791
+- DIANE ET CALISTO ET LA MORT DES ENFANTS DE NIOBE. Relief a nombreux personnages. Dore. Italien. XVIe siecle. Cadre or. Haut. 26, Larg. 51 cm.
+- 792
+- RELIEF:LE CHRIST SUR LE MONT DES OLIVIERS. XVIe siecle. Italien. Cadre or. Haut.48, Larg.38 cm.
+- 793
+- DEUX RELIEFS. Adoration des bergers et Annonciation. Haut-relief. Cadre or. XVIe siecle. Italien. Haut. 34, Larg. 35 cm et Haut.38, Larg.29 cm.
+- 794 RELIEF. L'enfant Jesus entoure d'une couronne d'anges. Haut-relief. XVIle siecle. Italien. Haut.44,Larg.32 cm.
+- 795
+- reliefs. Cadres or. XVIle siecle. Haut. 23, Larg. 20 cm.
+- DEUX RELIEFS. Madone et le fils de Jean et le Christ remet les clefs a Pierre. Hauts-
+- RELIEF. Deux Franciscains adorent l'enfant Jesus. Haut-relief. Haut-italien. XVIle siecle.
+- 796 Cadre or. Haut. 31,Larg. 23 cm.
+- 797
+- DEUX SAINTS MOINEs. En froc et manteau. L'un avec le monogramme Jesu sur la XVlle siecle. Haut. chacun 42 cm.
+- 798
+- 799
+- SAINT MOINE. En froc de franciscain avec manteau a capuchon. Dans la main droite une palme et une masse d'armes. Buis. XVIle XVllle siecle. Haut. 27 cm.
+- SIX STATUETTES NAPOLITAINES DE CRECHE. Quatre patres et deux femmes avec petites corbeilles et fruits. Statuettes en bois sculpte avec costumes en etoffe. Vers 1700. Haut.41 cm.
+- 800 SUZANNE ET LES DEUX VIEILLARDS. A gauche assise en robe legerement drapee; pres d'elle un recipient a eau en forme de dauphin. A droite s'approchent les deux vieillards, portant la barbe Relief ovale. Sur le derriere, en lettres noires inscription: SCULPSIT (IN) MANTUA GULIELMVS DUSCHI COLONIENSIS.Buis. Cadre dore. XVllle siecle. A gauche un petit bord rapporte. Haut. 23,5, Larg. 19 cm.
+- 801
+- RELIEF. Adoration des bergers. XVIlle siecle. Cadre or. Haut. 39, Larg. 29 cm.
+- 802
+- 803
+- 804
+- 805
+- 806
+- MARIE SE RENDANT AU TEMPLE. Avec nombreux personnages. Haut-relief. Cadre noir.Haut. 18,Larg. 16 cm.
+- CHEVALIER SAINT GEORGES. A cheval, tuant le dragon. Haut-relief. Cadre noir. Haut.16,Larg.15 cm.
+
+## Instruments de musique.
+
+- VIEUX VIOLON. Ecole allemande. Boite garnie de vieille soie.
+- VIEUX VIOLON DE CREMONE, attribue a Stradivarius. Avec le billet: Antonius Stradivarius Cremonensis Faciebat Anno 17ll. Boite garnie de vieille soie.
+- VIEUX VIOLON DE CREMONE, attribue a Guarnerio. Avec le billet: Petrus Guarnerius Cremonensis Fecit Mantuae sub tit. Sanctae Teresiae 17l2. Boite garnie de vieille soie.
+- 807 VIEUX VIOLON DE CREMONE. Attribue a Stradivarius. Avec le billet: Antonius
+- Stradivarius Faciebat Cremone Anno 1678 et marque. Boite garnie de vieille soie.
+- VIEUX LUTH. Avec ivoire incruste au col. Avec le billet: Floriano Bosi Fecit
+- 808 Bononie Anno 1782. Avec boite, garnie de vieille soie.
+- 809 VIEILLE GUITARE. Italien.XVIlIe siecle.
+- 810
+- LUTH. Incruste de nacre. Avec le billet: Antonius Vinaccia Fecit in Napoli Anno 1773.
+- VIOLA ALTA. Attribuee a Amati. Billet: Nicolaus Amati Fili Hieronymi Fecit Cremonaensis Anno 16.. Repare par Calot a Berne l. may 1820. Avec
+- 811 archet. Dans boite.
+- 812 FLUTE. Avec ivoire. XVIlle siecle. Avec marque d'artiste indistincte. Long. 26,5 cm.
+
+4
+- 813 INSTRUMENT DE MUSIQUE. Parallelogramme. Avec douze rouleaux. XVHlle siecle. Haut.40 cm.
+- 814 BOiTE A VIOLON. Maroquin brun avec or gaufre.Ornements lineaires,blason avec
+- inscription: Stradivario A. Cre. Vers 170o. A clous ornes en laiton. Haut. 79 cm.
+
+## Meubles.
+
+- 815 DEUX CHAISES. Pieds a baton de raccordement en forme de balustre. Siege et dossier rectangulaire, garnis d'etoffe gobelin. Sur fond framboise mascaron jaune avec rinceaux.
+- Italie. xV1le siecle. Haut.106,Larg.51, Prof. 50 cm.
+- 816 PETITE ARMOIRE DE CABINET. Sur quatre pieds spheriques. A deux portes. Derriere les portes se groupent autour d'une caisse centrale 12 tiroirs. Toutes les surfaces avec incrustation d'ivoire: Arabesques et ornements lineaires. Le couvercle cannele se rabattant. Italie Superieure. XV1le siecle. Haut.47,Larg.52,Prof. 43,5 cm.
+- 817 PETITE ARMOIRE DE CABINET. Sur quatre pieds plats forme disque. Forme rectangulaire. Au milieu porte que lon peut fermer; de chaque cote trois tiroirs. Sur la porte centrale plaque d'ivoire avec reproduction gravee d'une femme nue: la Navigation. Sur les tiroirs rinceaux symetriques avec sphinxs. Bois poli noir. Italie Superieure.
+- XV1le siecle. Haut.35,Larg.79,Prof. 32 cm.
+- 818 PETITE ARMOIRE DE CABINET. Avec deux portes a battants. A l'interieur 1l tiroirs avec ornements en metal. Sur les battants de la porte un cavalier et une jeune dame avec une fleur a la main, peints sur verre. Vers 1680. Venitien.Bois noir laque.
+- Haut. 58, Larg.42, Prof. 30 cm.
+- 819 CONsOLE. Sur quatre pieds tournes qui sont unis par des liteaux arques et se croisant.
+- Le dessus de table a bord mobile, avec incrustation de coquillages, rinceaux a acanthes et scene de tribunal. Italien. Vers 1700. Noyer poli. Haut. 81, Larg. 150,Prof. 73 cm.
+- Applique arquee.Verre venitien
+- 820 GLACE.Dans cadre or riche avec rocailles et fleurs. poli. Italien. Milieu du XVIlle siecle. Haut.220, Larg. 150 cm.
+- 821 ARMOIRE DE CABINET. Au milieu riche avec deux colonnes tournees et fronton a jour.
+- De chaque cote quatre tiroirs et deux champs carres en relief. Noyer brun poli. XVIlle siecle. Haut.107,Larg.105, Prof.43 cm.
+- PETITE ARMOIRE DE CABINET. Autour d'un tiroir central se groupent 12 tiroirs. Incrustations en ivoire. Au milieu Minerve, sur les cotes animaux. XVIlle siecle. Haut.92,
+- 822 Larg.49,Prof.30 cm.
+- Incrustations d'ivoire en dessins geometriques et orientaux.Venitien.
+- 823 PETITBAHUT. XVIlle siecle. Haut.34,Larg.77, Prof. 47 cm.
+- 824 PETITE ARMOIRE DE CABINET. Le devant divise en trois parties, avec colonnes et pignons. En haut sur couvercle se rabattant mi-pierres precieuses peintes maniere camee. Lereste noir avec ornements or. Venise. XVllle siecle.Haut. 33, Larg. 39, Prof. 26 cm.
+- DEUX TRUMEAUX. Cadres en rocailles, dores et ciseles. Forme a quatre lobes. Rococo.
+- 825 Vers 1750.Italien.Haut. 80,Larg.40 cm.
+- 826 BUREAU-ARMOIRE avec applique. Dans la partie inferieure ondulee trois tiroirs. Plaque pour ecrire, se rabattant, derriere six tiroirs, deux cases pouvant se fermer et une ouverte au centre. Construction rentrante avec porte a deux battants a glaces. Derriere de nouveau trois cases ouvertes, deux pouvant se fermer, trois tiroirs et une galerie. Applique haute, fortement arquee et se retrecissant, ciselee avec feuilles et rocailles; au milieu glace de Venise polie. Garnitures en cuivre jaune. Bouleau madre, brun poli. Rococo venitien.Vers 1750—60.Haut.305,Larg.150, Prof.60 cm.
+- 827 PETITE TABLE. Rectangulaire, a angles. Sur.quatre pieds a colonnes cannelees. Le bord a jour avec des demi-cercles s'entrecoupant et des palmettes. Dessus en marbre rouge. Brun poli. Louis XVI. Vers 1800. Italien. Haut. 77, Larg. 97, Prof. 47 cm.
+- 828 TABLE. Sur deux pieds-planches a jour. Dessus rectangulaire avec deux comediens qui dansent et des ornements. Incrustations en ivoire. Noir poli. Haut. 77, Larg. 113,
+- Prof.64 cm.
+- 829 DEUX CHAISES ITALIENNES. Sur deux pieds-planches ciseles. Dossier avec lions, couronne et feuillage, a jour. Noyer. Avec deux coussins damas rouge. Style Renaissance. Haut. chacune 120 cm.
+- 830 PETIT BAHUT. Sur quatre petits pieds. Bord bombe. Corps ventru. Aux coins sphinx. Sur le devant relief: autour d'un cartouche a armoiries, colonne enlacee de serpents, se groupent une paire de Tritons et de Sirenes. Sur les cotes hippopotame. Couvercle avec champ en relief. Brun avec or. Noyer. Haut. 36, Larg. 83, Prof. 30 cm.
+- Interieur incruste.Avec coffret en soie
+- 831 BAHUT. Avec garnitures gothiques en fer. damassée.Haut.50, Larg.100, Prof,53 cm.
+- Riche et artistique sculpture florentine. Style Louis XVI. Toutes les parties richement profilees, sculptees avec petits anges, armoiries, a la tete petit ange, aux pieds deux petits anges qui se baisent. Noyer. Haut. 255,
+- Le ciel du lit est recouvert de la broderie originale en soie brodee a plat avec fleurs, la meme broderie est a la tet du lit Baldachin rouge. Le lit sur une estrade.
+- 832 LIT en noyer sculpte a quatre colonnes.E Larg.230, Prof.135 cm.
+- 833 TRUMEAU. Cadre bois cisele. Verre peint avec fleurs. Haut. 78, Larg. 64 cm.
+
+## Tableaux.
+
+On a conserve la designation du proprietaire de la collection.
+
+- 834 ATTRIBUE A WILLEM VAN AELST, ne en 1625/26 a Delft, mort en 1683 a Amsterdam. Deux natures mortes. Oiseaux morts polychromes poses les uns sur les autres. Sur toile. Cadre or sculpte Haut. 26, larg. 34 cm.
+- 835
+- CRISTOFANO ALLORI, ne en 1577 a Florence, mort a Florence 1621. Judith. Long buste. Tourne a gauche. Robe framboise, chatoyante avec ourlets brodes. Fichu raye. Au sein gauche decouvert elle appuie la poignee d'une epee de bronze. Sur les boucles blondes un petit bonnet. Fond fonce. Sur bois. Cadre or. De la collection du duc de Varano. Haut.70,Larg.50 cm. PLANCHE 25.
+- 836
+- MANIERE DE FRA ANGELICO. Adoration de l'enfant Jesus. Marie et Joseph adorent I'Enfant. En haut ronde d'anges. Sur bois. Cadre or. Haut. 25, Larg. 14,5 cm.
+- 837
+- SOPHONISBA ANGUSSOLA, nee en 1527 a Cremone,morte en 1623 a Palerme. Sainte Famille avec Saint Francois. Sous un arbre est assise Marie en robe rose et manteau bleu. Sur ses genoux elle tient des fleurs. De la main droite elle tend des fleurs a l'enfant Jesus que saint Joseph caresse a cote d'elle. A gauche le petit saint Jean, a droite saint Francois avec un crucifix. Paysage. Signe: Sophonisba Angussola. Sur toile. Cadre or. Haut. 49, Larg.35 cm. PLANCHE 26.
+- 838 GIACOMO BAMBINI, ne en 1582 a Ferrara, mort en 1629 a Ferrare. Madone avec les saints. Sur les nuages trone Marie en robe rose et manteau bleu; sur ses genoux elle tient l'enfant Jesus benissant, entoure d'anges. A ses pieds sur la terre est agenouillee a gauche sainte Lucie en robe rose et manteau jaune, ainsi qu'un saint ermite, a droite sainte Catherine en robe verte et manteau rouge et sainte Claire. Au fond paysage marin. Sur bois. Cadre or. De la collection Giov. Barbi Cinti, Ferrare. Haut. 36, Larg. 30 cm.
+- 839 GIACOMO BAMBINI, Le Christ dans le pressoir. Dans un pressoir couvert de la croix se tient debout le Sauveur nu dont le sang coule sur le sol. Sur cuivre. Cadre or. Haut.28,5,Larg.22,5 cm.
+- 840 ATTRIBUE A FRA BARTOLOMEO,(Baccio della Porta),ne en 1475 a Florence,mort en 1517 dans la meme ville. Savonarole. Buste a gauche en habit brun. Sur fond fonce doit etre peint 1493. Inscription sur un morceau de bois du cote posterieur. Sur bois.
+- Cadre or. Haut.24,Larg.17 cm.
+- 841 PIER ANGELO BASILI,ne en 1550 a Gubbio,mort en 1604 meme lieu. Christ prechant. Dans une eglise Renaissance est assis a droite le Christ en robe violet clair et manteau bleu sur un trone a baldaquin et preche des hommes et des dames distingues en costume du temps. D'une maniere particulierement surprenante est assise dans un fauteuil sur le devant une dame encore jeune en vetement de dessous rose, en vetement de dessus blanc: la donatrice; derriere elle ses filles. En bas, a gauche inscription: DONA HIPPOLITA MARIONI F.F.;a droite signe:PIER AGNOLO BASILIPINGEVA A.D.MDLXXXI. (Le portrait a droite est probablement le portrait de lui-meme). Sur toile.Cadre or.Haut.144,Larg.127 cm.
+- FRANCESCO BASSANO, ne en 1549 a Bassano, mort a Venise en 1592. Le retour de droite un porc est vide; une cuisiniere est assise aupres du feu, une servante lave des poissons, un homme ouvre une armoire. Sur toile. Cadre or. De la collection Giov.
+- 842 Barbi-Cinti, Ferrare. Haut. 92,Larg. 124 cm.
+- 843 FRANC. BASSANO. Chez un brocanteur. Dans une halle a colonnes sont entasses des ustensiles en cuivre, des bustes, des tableaux, des instruments de musique, etc. Deux hommes et une charrette,attelee d'un cheval. Sur toile.Cadre or. De la collection du duc de Varano.Haut. 93, Larg.132 cm.
+- 844
+- LEANDRO BASSANO,ne en 1558 a Bassano, mort en 1622 a Venise.Torquato Tasso. Portrait demi corps, au milieu de livres et d'une epee. Rond. Sur bois. Cadre or. Diam.19 cm.
+- 845 MARCO BELLO.Ne a Venise, mort en vers 15ll a Udine. Madone avec PEnfant.
+- Portrait jusqu'aux genoux. Devant un rideau vert est assise Marie en robe bleu clair, manteau rouge et fichu blanc. Sur le genou droit elle tient l'enfant Jesus. A droite et a gauche vue sur un paysage. Sur bois. Vieux cadre or Renaissance. De la collection Giov.Barbi-Cinti, Ferrare.Haut.27,5, Larg.23 cm. PLANCHE 27.
+- 846 ECOLE DE GIOV. BELLINI. Madone avec Saint Jean l'enfant. Derriere une balustrade se tient debout Marie, demigrandeur naturelle. Elle prie, joint les mains et regarde l'enfant de Jean qui est debout pres d'elle. Elle porte une robe bleue a bordure or,un manteau rouge a parement, un fichu blanc. Devant elle est couche, sur une etoffe rouge et un coussin blanc l'enfant Jesus nu. A droite St. Jean leniant en veste grise. Cadre or Renaissance avec deux colonnettes placees en avant et ornements en relief. De la collection Giov. Barbi-Cinti, Ferrare.Haut. 35, Larg. 44 cm. PLANCHE 28.
+- 847 NICOLO BOLDINI A FERRARE, XIXe siecle, vit a Paris. La legende du pape Sylvestre 1er. A gauche, debout le saint pape en aube blanche et pluvial or; sur la tete la tiare; autour de lui des hommes et des femmes. Benissant il leve la main, un enfant blanc tombe a genoux devant lui. A droite un roi et une reine avec suite de Sarrasins. Fond, une tour. Sur bois. Cadre or. Copie d'apres Garofolo. Haut. 49, Larg. 70 cm.
+- 848 NICOLO BOLDINI. Societe de faunes. Buste. Au milieu un Faune jouant de la syrinx, en manteau vert. A gauche une petite fille en robe rouge, une couronne dans sa chevelure blonde. A droite un roi a barbe blanche. Fond fonce. Sur bois. Cadre or. Copie d'apres un tableau du XVIe siecle. Haut. 49, Larg. 38 cm.
+- ECOLE BOLONAISE. Saint docteur de l'Eglise. Portrait jus-qu'aux genoux. En chasuble rouge, debout pres d'une table. En haut deux tetes d'ange. Fond fonce. Sur toile.
+- 849 Commenc. du XVIle siecle. Cadre or. Haut. 114, Larg. 92 cm.
+- 850 ECOLE BOLONAISE. Tobie guerit son pere aveugle. Buste long. Un robuste vieillard aveugle, autour des hanches un vetement brun rouge; son fils lui frotte les yeux avec le foie du poisson. Au fond la femme et l'ange. Fond fonce. Vers 1620. Sur toile. Cadre or. Haut. 130, Larg. 95 cm.
+- 851
+- ECOLE BOLONAISE. Une fieille femme. Buste long. Dans la main un livre. XVIle siecle. Sur toile. Cadre or. De la collection du duc de Varano. Haut. 65, Larg. 48 cm.
+- 852
+- ECOLE BOLONAISE. Tete de saint Pierre. Barbe blanche. Sur fond fonce. XVlle siecle. Sur toile.Cadre or.Haut. 48, Larg. 36 cm.
+- 853 ECOLE BOLONAISE. Saint Moine avec l'enfant Jesus. Buste long. Le saint Franciscain
+- a longue barbe tient dans ses bras l'enfant Jesus. Fond fonce. Sur toile. Cadre or. XVIle siecle. De la collection du duc de Varano. Haut. 77, Larg. 65 cm.
+- 854
+- GUILL. BOURGUIGNON. (COURTOIS) ne en 1628 a Saint-Hippolyte, mort en 1679 a Rome. Portrait de soldat. Sur le devant, a gauche cavalier. Au fond a droite des voitures sous escorte qui se dirigent vers une ville. Sur toile. Cadre or. Haut. 60, Larg. 79 cm.
+- 855
+- GUILL. BOURGUIGNON. Combat de cavalerie. A droite deux cavaliers tirant l'un sur lautre dans une melee desordonnee. A gauche vue de la plaine. Sur toile. Cadre or sculpte.Haut.54,Larg.100 cm.
+- 856
+- GUILL. BOURGUIGNON. Deux tableaux de batailles. Cavaliers dans une melee desordonnee. Sur toile. Cadre or. Haut.27, Larg, 53 cm.
+- 857 GUILL. BOURGUIGNON. Quatre batailles. Sur toile. Cadre or.Haut. Larg.
+- 858 GUILL. BOURGUIGNON. Deux batailles de cavalerie. Un cavalier en fuite et un porteetendard. Sur toile. Cadre or. Haut. 31, Larg. 49 cm.
+- 859
+- ATTRIBUE A PAUL BRILL, ne en 1554 a Anvers, mort en 1626 a Rome. Foret. Avec nombreux animaux, cerfs, lions, oiseaux, etc. Sur bois. Cadre or. Haut. 44, Larg. 63 cm.
+- 860
+- PIETER BRUEGEL LE JEUNE,ne en 1564 a Bruxelles, mort en 1638 a Anvers. Batterie de paysans. Hors d'une hutte se precipitent huit personnes, hommes et femmes qui se donnent des coups de fourche, de fleau, d'epee et de pincettes. Deux femmes se sauvent en toute hate. Rouge, jaune, bleu et gris. Sur bois. Cadre or. Haut. 30, Larg. 45 cm.
+- 861
+- 862
+- ECOLE BYZANTINE. Madone. Sur un trone rouge est assise Marie en robe bleue et manteau blanc; sur les genoux l'enfant Jesus en costume rouge qui benit. En haut deux bustes de saints. Fond or. Xile siecle. Sur bois. Cadre noir. Haut. 24, Larg. 19 cm.
+- ANT. CALZA, ne en 1653 a Verone, mort en 1725. Combat de cavaliers. Cavaliers en costume de la guerre de Trente Ans dans un furieux corps a corps. A droite escadrons de cavaliers. Sur bois. Cadre or. De la collection Giov. Barbi-Cinti, Ferrare. Haut 36, Larg.59 cm.
+- 863 GABRIELLE CAPPELLINI, DIT IL CALIGARINO, ne vers 150o. Saint Martin. Sur un cheval blanc, le capitaine romain en pourpoint vert et manteau rouge, est en train de tirer son epee. Devant lui a gauche debout le mendiant robuste et mal vetu. Paysage et arbre. Sur bois. Cadre or. De la collection Giov. Barbi-Cinti Ferrare. Haut. 198, Larg.228 cm.
+- espagnol avec baudrier; autour du cou un cordon en or. Sur la tete barette. Le visage ovale, encadre d'une barbe en pointe. La main droite avec lindex leve, la gauche sur la hanche. A droite inscription: CAMILVS VARAus DECAMINo HERCVLIS DVCIS FILIVs. Fond brun fonce. Sur le derriere vieille marque d'artiste. Sur toile. Cadre or. De la collection du duc de Varano. Haut. 109, Larg. 91 cm. PLANCHE 35.
+- 865 GIROLAMO DA CARPI, Sellari de Livizzani, ne en 1501 a Ferrare,mort en 1556 a Ferrare. Chasse d'un duc d'Este. Dans un paysage ou a droite s'eleve un chateau avec tourelles, a gauche une colonne, s'approchent, venant de droite, un cavalier distingue et une dame sur un palefroi blanc. Elle porte une robe couleur or. Au milieu des chiens et des chasseurs forcent un sanglier. A gauche une dame en robe brocart or qui joue du luth et un homme qui joue de la flute. Sur toile. Cadre or. De la collection Giov. Barbi-
+- Cinti, Ferrare. Haut. 64,Larg. 82 cm.
+- 866 GIROL. DA CARPI. Deux tableaux ovales. Sainte Lucie et ange. Bustes. La sainte en robe rose et manteau jaune tient dans ses deux mains une coupe avec les yeux. L'ange en costume rouge joint les mains sur la poitrine. Fond fonce. Sur bois. Cadre or. De
+- la collection Giov. Barbi-Cinti, Ferrare. Haut. 56, Larg. 42 cm.
+- GIROL. DA CARPI. Sainte Catherine. Debout dans un paysage. En robe bleue et manteau rose. Sur cuivre. Cadre or richement sculpte et a jour avec fleurs. De la collection
+- 867 Giov. Barbi-Cinti,Ferrare. Haut. 21, Larg. 16 cm.
+- 868
+- GIR. CARPI ATTRIBUE. Saint Jerome dans chambre lambrissee. D'apres la gravure d'Albrecht Durer avec quelques legeres modifications. Sur toile. Cadre or. De la collection Giov. Barbi-Cinti, Ferrare. Haut. 67,Larg. 46 cm.
+- 869 GIR. CARPl. Madone avec Sainte Catherine. Dans un paysage est agenouillee devant Marie avec l'Enfant Sainte Catherine. Sur toile. Cadre or. De la collection Giov. Barbi Cinti, Ferrare. Haut. 69, Larg. 61 cm.
+- 870
+- ANNIBALE CARRACI,ne en 1560 a Bologne,mort en 1609 a Rome.Marguerite,princesse de Ferrare, fille d'Alphonse 1er, epouse du prince Malatesta de Rimini. Buste a droite. En robe noire et cravate jaune, fraise a dentelles. Sur fond fonce. Sur le derriere longue inscription. Sur toile. Cadre or a jour. Haut. 57, Larg. 40 cm.
+- 871
+- LUDOViCO CARACCI, ne en 1555 et mort en 1619 a Bologne. Marie Madeleine et le Christ dans le jardin. A gauche debout le Christ, une puissante figure, veta seulement de manteau bleu drape autour des hanches. Ill touche du doigt Marie Madeleine qui etend les bras dans un mouvement passionne. Elle porte une robe bleu fonce, manches bouffantes jaunes et un manteau rougeatre. Sur toile. Cadre or. Haut. 1i0, Larg. 140 cm.
+- 872 2G. CAZZI (?). Details inconnus. Ecclesiastique jeune et distingue. Buste long a gauche. Devant lui encrier; dans la main gauche une lettre avec l'inscription: CAROLVS EX MARCHIONIBVSCALCAGNINI PATRITIVSNOB:FERRARIENSIS SACR: ROM:ROTAEAVDITORAMAGNO MELITENSIMAGISTROINQVISTIONE PRAETERMISSA RELIG:HIEROSOLIMTANAE EQVESTRI CRVCE DONATVS ANNO MDCCXXXI. Fond drape. Sur toile. De la collection du duc de Va
+- 873
+- rano, Ferrare.Haut.99, Larg.74 cm.
+- PIERRE L. CH. CICERI, ne en 1782 a Saint-Cloud, mort en 1868 a Saint-Cheron. Paysage. Aquarelle. Signe: 1828. Avec cadre or. Haut. 11, Larg. 16 cm.
+- 874 CARLO CIGNANI, ne en 1628 a Bologne, mort en 1719 a Forli. Charitas. Sur le sol est etendue une femme aux cheveux noirs en robe claire et manteau rouge brun.A son sein droit boit un petit enfant; deux autres se serrent contre son cote gauche. Fond fonce.Sur toile.Cadre or. (Des tableaux Charitas de l'artiste se trouvent dans les musees d'Europe les plus connus.) Haut. 116, Larg. 160 cm.
+- 875 GIOV. BATT. CIMAROLE, ne a Salo (Brescia), mort apres 1753 a Venise. Paysage avec
+- animaux et figures de louage. Sur toile. Cadre or. XVlle siecle. De la collection Giov. Barbi-Cinti, Ferrare. Haut. 43, Larg. 30 cm.
+- 876 COEN Ferrare. XIxe siecle. Paysage avec riviere. Sur la riviere une barque. Soleil couchant. Sur toile.Cadre or sculpte. Haut. 45, Larg. 64 cm.
+- 877 MICHEL COLTELLINI, ne vers 1480, mort en 1559 a Ferrare. Sainte Lucie. Sous une arcade ronde est debout devant un tapis rouge la sainte en robe bleu fonce et manteau rouge fonce, double jaune. Sur une coupe elle tient dans sa main droite les deux yeux, dans sa main gauche une palme. A droite et a gauche on apercoit un paysage montagneux. Sur bois. Cadre or. De la collection Giov. Barbi-Cinti,Ferrare. Haut.75,Larg.50 cm. PLANCHE 29.
+- 878 M. COLTELINI. Sainte Apollonie. Pendant du precedent. Disposition generale comme dans le tableau 877, seulement tournee vers la gauche. La sainte porte une robe jaune et un manteau rouge. Dans la main gauche les tenailles. Les deux tableaux se trouvaient autrefois dans l'eglise Saint André a Ferrare, plus tard dans la collection Giov. BarbiCinti et Santini, Ferrare. Venturi les considere comme des oeuvres de jeunesse vers 1500-1504. Confer Thieme-Becker, Allgemeines s Lexikon der bildenden Kunstler,
+- Bd.VI1.S.259 ff. PLANCHE 29.
+- 879 M. COLTELLINI. Marie rend visite a Elisabeth. Longs bustes. A droite Elisabeth en robe rouge et manteau brun; a gauche Marie en robe rouge et manteau bleu. Au fond ville. Vers 1520. Sur bois. Cadre or. Haut. 46, Larg. 35 cm.
+- 880 ATTRIBUE A ANTONIO CORREGIO, ne vers 1494 a Correggio, mort en 1534. Madone avec Sainte Cecile et Saint Benoit. Dans un portique trone Marie en robe rose et manteau bleu Sur un coussin rouge elle tient l'enfant Jesus qui tend une palme a Cecile agenouillee a gauche. La sainte porte un manteau de brocart or. A droite, a genoux, Saint Benoit qui baise la main de Enfant. Sur un ruban a devise se trouve: Gaude, fili, iacinte, quia orationes tunc gratae mod. filiomeo. Sur cuivre. Cadreor. Haut.34,Larg.28cm. PLANCHE 27.
+- 881 ATTRIBUE A ANTONIO CORREGIO. Madone avec lenfant. Long buste. Sous un arbre est assise Marie en robe rouge et manteau bleu; elle tient sur ses genoux l'enfant Jesus. A droite on voit un paysage. Sur toile. Cadre or. De la collection du duc de Varano, Ferrare. Haut. 71,Larg. 54 cm.
+- 882 LORENZO COSTA,ne vers 1460 a Ferrare, mort en 1530 a Mantoue. Fragment. Le lion
+- de Saint Jerome. Couche. A droite encore un pied du saint. Provenant de leglise degli Angeli de Ferrare. Sur bois. Cadre or. De la collection Giov. Barbi-Cinti, Ferrare. De la jeunesse du peintre. Confer. Thieme-Becker: Allgemeines Lexikon der bild. Kinstler. VIl. Band, S. 522 et suivantes. Venturi ne vent pas l'attribuer a Costa Haut.30,Larg.42 cm.
+- 883 LORENZO COSTA. Deux anges. Pendants. Faisant de grands pas. En costume tirant sur le brun. Les mains jointes. Dans un paysage. Sur bois. Cadre or. De la collection Giov. Barbi-Cinti, Ferrare. Haut. 75,Larg.26 cm.
+- 884
+- ATTRIBUE A LORENZO COSTA. Pieta. Long buste. Le corps nu et mort de Jesus avec aureole d'or devant une draperie verte. Sur bois. Cadre or sculpte. De la collection Giov. Barbi-Cinti, Ferrare.Haut. 50, Larg. 38 cm.
+- 885 CARLO DOLCI, né en 1616, mort en 1686 a Florence. Sainte Marie en extase. Agenouillee vers la gauche. La main gauche sur la poitrine, la droite etendue. En robe d'un rouge eclatant et manteau bleu. Autour de la tete couronne rayonnante. Fond brun. Sur toile.Cadre or. Haut. 33, Larg.27,5 cm. PLANCHE 27.
+886. DOSSO DOSSI (Giov. de Lutero), ne vers 1474 a Dosso (?), mort en 1542 a Ferrare.
+2. 887 ATTRIBUE A DOSSO DOSSI. Buste d'un homme age. A gauche. En costume noir et col blanc. Petite moustache brune, tete chauve. Cadre or. Sur toile. De la collection du duc de Varano, Ferrare. Haut. 57,Larg. 42 cm.
+3. Circe. L'enchanteresse est assise dans une foret au milieu d'un cercle de signes cabalistiques. Dans sa main droite elle tient un tableau avec figures geometriques, dans la gauche elle plonge un flambeau allume dans une coupe. Elle porte un corsage rouge a manches bleu clair, un manteau brocart or et un turban jaune. A gauche est assis un chien, un petit hibou et une cuirasse ainsi que deux batons ciseles. A droite au fond trois petits personnages masculins, plus loin des maisons et des tours. Ciel sombre, seulement a droite clair. Ton general brun or. Repetition du tableau de la galerie Borghese a Rome (No.217). Sur toile. Cadre or. De la collection du duc de Varano, Ferrare. H. 170, L. 168 cm. PLANCHE 30.
+4. 888 DOSSO DOSSI ET BATTISTA DI DOSSO.Ce dernier, ne a Ferrare,mort en 1548 a Ferrare. Apollon et les animaux. Sous un arbre Apollon assis en costume bleu et manteau rouge, joue de la viole. Autour de lui se rassemblent tous les animaux. Le dieu de Dosso Dossi, les animaux de Battista Dosso. Rond sur toile.Cadre or. De la collection Giov.Barbi-Cinti,Ferrare.Diam. 87 cm. PLANCHE 31.
+5. 889 ECOLE DE DOSSO DOsSI. Sainte Famille. Sur un bloc de rocher est assise Marie et decouvre son sein pour allaiter l'enfant tA cote debout Saint Joseph. Au fond vaste paysage avec ville.Sur toile. Vieux cadre or. De la collection Giov. Barbi-Cinti,
+6. Ferrare. Haut 32, Larg.43 cm.
+7. 890 FAIT D'APRES DOSSO DOSSI. Madone sur le trone avec les saints. Sur un trone eleve est assise Marie; a ses pieds se tiennent debout les apotres; en haut des anges. Copie d'apres l'original de la Pinacotheque de Ferrare. Sur bois. Cadre or richement sculpte.
+8. Haut.115,Larg.58 cm.
+9. 891 ECOLE ESPAGNOLE.Aile d'autel. Moitie superieure. Couronnement de Marie par les apotres. Pierre et Paul posent sur la tete de Marie une mitre d'eveque. En bas interrogatoire d'un eveque par un preteur. Dans un portique est assis le preteur; des guerriers amenent l'eveque revetu de ses ornements. Couleurs: bleu, rouge et jaune. Les lignes ornamentales des vetements sont en relief, stuc dore. Fin du XVe siecle. H.120, L.57 cm.
+10. 892
+11. ECOLE ESPAGNOLE. Seigneur espagnol. Buste a droite. Vers 160o. Sur toile. Cadre or. Haut.75,Larg.56 cm.
+12. 893 ECOLE ESPAGNOLE. Sainte famille. Long buste. A droite Marie en costume fram boise, tenant sur le bras l'enfant Jesus; a droite Joseph portant la barbe. Fond fonce.
+13. Vers 1630. De la collection du duc de Varano. Sur toile. Cadre or. Haut. 74, Larg 63 cm.
+14. 894
+15. ECOLE DE FERRARE. Marie rend visite a Elisabeth. Devant un mur bas se rencontrent Elisabeth et Marie et se tendent les mains. Marie avec la tete penchee, en robe lilas et manteau bleu, Elisabeth en manteau rouge. Au fond riche paysage montagneux avec riviere et castels. Vers 1500. Sur toile.Cadre or. Se trouvait dans le monastere di Mortora a Ferrare. De la collection Giov. Barbi-Cinti. Haut. 128, Larg. 91 cm.
+16. 895 ECOLE DE FERRARE. Adoration de lEnfant. Fragment. Dans un portique sont agenouilles Joseph et Marie devant I'Enfant. On apercoit un paysage marin. Commencement du XVIe siecle. Sur bois. Cadre or. De la collection Giov. Barbi-Cinti, Ferrare. Haut.42,Larg.31 cm.
+17. 896 ECOLE DE FERRARE. Duc Alphonse Ier de Ferrare. Long buste. Homme a barbe grise en riche et pompeux costume espagnol or et noir. Fond fonce. A droite en haut: ALPH. I. DUX. FERR. Sur le derriere vieille inscription avec lannee 1550. Sur toile.
+18. Cadre or. De la collection du duc de Varano, Ferrare. Haut. 96, Larg. 77 cm.
+- 897 ECOLE DE FERRARE (?). Olympe Fulvie Morata. Buste a droite. Robe blanc jaunatre, petit manteau noir avec galons or. Longue chaine sur la poitrine avec pierres. Fraise blanche. Visage etroit avec grands yeux noirs. Chevelure blonde, relevee avec epis et fleurs du cote droit. Fond fonce. En haut le nom entier en majuscules. Vers 1550. Sur toile.Cadre or. Haut. 68, Larg. 55 cm.
+- 898 ECOLE DE FERRARE. Bapteme du Christ. Paysage. Sur bois. Cadre or. Vers 1530.
+- Haut.43, Larg. 33 cm.
+- ECOLE DE FERRARE. Sainte Famille. A gauche est assise dans une hutte Marie en robe rouge et manteau bleu; pres d'elle debout l'enfant Jesus; derriere elle assis Joseph 1ere moitie du XVle siecle. De la collection du duc de Varano, Ferrare. Haut. 37, Larg. 44 cm.
+- 899
+- 900 ECOLE DE FERRARE. Circe. Repetition libre de la Circe de Dosso Dossi. Long buste. metriques. Vers 1550. Sur toile. Cadre or. De la collection Giov. Barbi-Cinti, Ferrare. Haut. 82,Larg. 72 cm.
+- 901
+- ECOLE DE FERRARE. Petit garcon distingue. Debout en costume noir, bas et manches rouges. A gauche epee. En haut, inscription: ETATIS AN IX. Vers 1550. Sur toile. Cadre or.Haut. 150, Larg. 80 cm.
+- ECOLE DE FERRARE. Annonciation de Marie. 2 battants d'un orgue. Seconde moitie
+- 902 du XVIe siecle. Sur toile. Cadre or. Haut. 245, Larg. chacune 74 cm.
+- 903 ECOLE DE FERRARE.Sainte Famille. Marie en robe rouge et manteau bleu est a genoux devant lenfant Jesus;a cote d'elle Saint Joseph. A droite Sainte Elisabeth tenant dans ses bras le S. lenfant, plus loin en arriere Saint Joachim. En haut des anges. Fond fonce. Seconde moitie du XVIe siecle. Ovale. Sur cuivre. Cadre or a jour.
+- 904
+- Haut.38,Larg. 28 cm.
+- ECOLE DE FERRARE. Madone avec l'Enfant. Long buste. En robe rouge et manteau bleu. Sur la tete fichu jaune. Dans les bras l'enfant Jesus nu qui joue avec une pomme. Tapis vert avec vue d'un paysage, comme fond. Sur bois. xVle siecle. Cadre or. De la collection Giov. Barbi-Cinti, Ferrare. Haut. 60, Larg. 43 cm.
+- 905 ECOLE DE FERRARE. Le Christ au mont des Oliviers. Le Sauveur en costume rouge et manteau bleu. Un ange vole au-devant de lui, sortant des nuages, avec le calice. Vers 1580. Sur bois. Cadre or. De la collection du duc de Varano. Haut.40, Larg.30,5 cm.
+- 906
+- ECOLE DE FERRARE. Jean-Baptiste Este en Capucin. Au milieu debout, tenant dans sa main gauche une croix. Autour de lui cheval, danseur, couronne avec les armoiries des Este et chien. Au fond manuscripts, tete de mort, etc. En haut inscription: Aetatis suae Anno XXXXIV Religionis VI Anno Do 1635 die 7.Octob. Sur toile. Cadre or. (Confer. No. 603). Haut.245, Larg.152 cm.
+- 907 ECOLE DE FERRARE. Hippolyte Camille Varano. Long buste a droite. En costume bleu, a fleurs or, manteau jaune, double rouge. Dans les cheveux releves des perles. Fond fonce. Sur le derriere vieille inscription: Donna Ippolita Camilla della antichissima ed illustre fumiglia de Brasavoli moglie di Don Giulio Cesare Varano di Camerino. Vers 1720. Sur toile. Cadre or. De la collection du duc de Varano, Ferrare. Haut.96,Larg. 70 cm.
+- 908
+- SEBASTIANO FILIPEPI, DIT IL BASTIANINO, ne en 1532 a Ferrare, mort en 1602 a Ferrare. Annonciation. Dans un portique est agenouillee Marie; par la gauche entre 1'ange. Sur bois. Cadre or. De la collection Giov.Barbi-Cinti, Ferrare. Haut.43, Larg.32 cm.
+- 909
+- SEB. FILIPEPPI. Sainte Famille avec Saint Paul. Au milieu est assise sous un arbre Marie en robe rouge et manteau bleu; elle tient dans ses bras l'Enfant. A gauche un manteau rouge,a la main lepee. Sur toile. Cadre or. De la collection Giov. Barbi-Cinti, Ferrare. Haut. 52, Larg.70 cm.
+- 910 SEB. FILIPEPPI. Madone avec St. Jean l'enfant. A gauche est assise Marie en robe framboise et manteau bleu, allaitant l'Enfant. A droite est assis St. Jean sur un coussin. A droite on apercoit un paysage. Sur bois. Cadre or. De la collection Giov. Barbi-Cinti,
+- Ferrare. Haut. 43,5,Larg. 34,5 cm.
+- ECOLE FLAMANDE. Buste d'un seigneur. A gauche. Purpoint jaunatre avec manteau noir vert, col a dentelles. Barbe en pointe rousse. Vers 1630. Sur toile. Cadre or. De
+- 911 la collection du duc de Varano, Ferrare. Haut. 53, Larg. 38 cm.
+- 912
+- ECOLE FLAMANDE-ITALIENNE. Les negociations de mariage. A une table verte est assis un vieux monsieur; devant lui sont places deux sacs d'argent et une cassette. A cote de lui se tient debout une jeune fille qui pleure. Un jeune cavaliere tient dans sa main droite deux autres petits sacs d'argent et dose avec la main gauche. A droite un monsieur et une dame. Portique.Vers 1650 -60. Sur marbre. Cadre or. Haut.28, Larg.36 cm.
+- 913 amazone.
+- ECOLE FLAMANDE-ITALIENNE. Paysage de Riviere. Au-dessus d'une riviere est jetee une etroite passerelle; devant un cavalier. A gauche sur le devant un cavalier et une Arbres tordus par la tempete. Nuages au ciel. lere moitie du xVlle siecle. Sur toile. Cadre or sculpte. Haut. 60, Larg. 90 cin.
+- 914
+- ECOLE FLAMANDE-VENITIENNE. (Maniere de Paolo Fiammingo).Port du Levant. Avec castels sur le rivage. Bateaux, ouvriers et spectateurs. Fin du XVle siecle. Sur toile.Cadre or sculpte. Haut. 58, Larg. 85 cm.
+- 915
+- ECOLE FLAMANDE-VENITIENNE. Buste dune dame agee. En robe noire et bonnet. Fond neutre. Vers 1550. Sur bois. Cadre or. Haut. 38,5, Larg. 33,5 cm.
+- 916 ECOLE FLAMANDE-VENITIENNE.
+- 917
+- Paysage par la neige. Un village italien, au fond des montagnes, couvertes de neige. Sur la riviere gelee se trouvent des bateaux et des patineurs qui prennent leurs ebats. Vers 1600. Sur toile. Cadre or sculpte. Haut. 60, Larg, 71 cm.
+- ECOLE FLAMANDE-VENITIENNE. Ferme. Avec chevres, boeufs, moutons et chevaux. Servantes et domestiques. Commenc. du XVlle siecle. Sur toile. Cadre or. Haut. 64, Larg.82 cm.
+- 918 ECOLE FLORENTINE.(?) Sainte Famille.Portrait jusqu'aux genoux. Au milieu est bras.
+- 616
+- assise Marie en robe framboise et manteau bleu; elle regarde lEnfant qui dort dans ses Derriere elle debout la vieille Elisabeth avec fichu blanc sur la tete, Saint Joseph en manteau jaune et St. Jean l'enfant. Vers 1520. Sur bois. Cadre or. De la collection du duc de Varano. Haut. 86, Larg. 66 cm. PLANCHE 32.
+- ECOLE FLORENTINE. Marie rend visile a Elisabeth. A gauche s'avance la vieille Elisabeth en robe jaune, suivie de Zacharie, sur un escalier demi-circulaire. Marie en robe framboise et manteau bleu accourt a sa rencontre. Derriere elle vient Joseph. A droite echappee par un portail sur un paysage avec des carrieres. Vers 1530. Sur bois. Cadre or. De la collection Giov. Barbi-Cinti, Ferrare. Haut. 38, Larg. 30,5 cm.
+- 920
+- ECOLE FLORENTINE. Sainte Famille a Nazareth. A gauche est assise Marie en robe rouge et manteau bleu; a droite lenfant Jesus balaie le sol avec un balai;en arriere se tient debout Joseph qui rabote des planches. Second tiers du XVle siecle. Sur toile. Cadre or sculpte. De la collection Giov. Barbi-Cinti, Ferrare. Haut. 85, Larg. 67 cm.
+- 921 ECOLE FLORENTINE. Grande-duchesse de Toscane. Buste a gauche. En robe bleu gris avec bouffants blancs et garniture de dentelle blanche au decollete. Collier de perles taillees, rougeatres. Chevelure brune avec boucles aux tempes. D'apres linscription qui se trouve derriere, offert en cadeau au marquis Cospi, 15 juillet 1661. Sur toile. Cadre or.Haut. 66, Larg.49 cm.
+- 922 ECOLE FRANCAISE. Seigneur. Buste a gauche. En costume noir, collet blanc et longues boucles. Aetatis annum 40 anno 1647.Parisys. Surtoile. Cadre or. Haut.70,Larg.62 cm.
+- 923 ECOLE FRANCAISE. Grand seigneur et dame. Pendants. Longs bustes. Lui en grand appareil, echarpe bleue, ordre de chevalerie avec la devise: Domine probasti, cravate de dentelle blanche, et perruque a marteau brunatre. Elle en robe de brocart noir, manches bouffantes blanches, garniture jaune du decollete. Chevelure poudree. A la main un eventail. Fond, draperie. Vers 169o. Sur toile. Cadre or et noir. De la collection du
+- duc de Varano. Haut. 89, Larg. 67 cm.
+- 924 ECOLE FRANCAISE. Galathee et les trois Graces. Galathee sur la mer. Bleu camaieu. Ciel jaune. Commenc. du XVllle siecle. Sur toile. Cadre or sculpte. Haut. chacun 27,
+- Larg. 40 cm.
+- 925 ECOLE FRANCAISE. Jeune seigneur et dame. Pendants. Bustes longs. Lui en veste rouge,brodee d'or et armure bleuatre, perruque blanche. Elle en robe rose, decolletee, fichu bleu; a la main un éventail. Fond fonce. Vers 176o. Cadre or et noir. Sur toile. De la collection du duc de Varano, Ferrare. Haut. 94, Larg. 77 cm.
+- 926
+- MARC-ANTOINE FRANCESCHINI, ne en 1648 et mort en 1729 a Bologne. Madone avec St. Jean lenfant. Buste. Fond fonce. Sur toile. Cadre or. De la collection du duc de Varano, Ferrare. Haut.48, Larg.40 cm.
+- Madone avec Saint Jean. Buste long. Marie, assise, en robe rouge et manteau bleu, tient sur ses genoux l'Enfant. A gauche St. Jean l'enfant. Paysage en vert et bleu au fond.
+- Sur bois. Cadre or sculpte De la collection de Giov.Barbi-Cinti, Ferrare.Haut.53,Larg.42 cm.
+- 928 ECOLE DE FRANCIA. Sainte Famille. Buste long. Marie en robe rouge et manteau
+- bleu tient en lair l'enfant Jesus. A gauche Saint Joseph. Fond fonce. Vers 1520. Sur bois.Cadre or. Haut. 49,Larg. 40 cm.
+- 929 FRANCOIS FRANCKEN LE JEUNE,ne en 1581 et mort en 1642 a Anvers. Neptune et Amphitrite. Sur un char de la mer, traine par des chevaux marins tronent Neptune en costume rouge et Amphitrite. A droite, éperon d'un vaisseau, en bas de nombreux poissons. Sur bois. Cadre or. Haut. 27, Larg. 34 cm.
+- 929a INNOCENT FRANCUCCI D'IMOLA, ne en 1494 a Imola, mort en 1549. Sainte Famille.
+- Buste jusqu'aux genoux. Marie avec l'enfant Jesus. Elisabeth avec Jean et Saint Joseph. Fond fonce. Sur bois. Cadre or. De la collection du duc de Varano,Ferrare. Haut.77, Larg. 61 cm.
+- 930 GAROFALO （Benevenuto Tisi),ne en 1481 a Garofalo,mort en 1559 a Ferrare. Madone avec l'Enfant. Buste long. Aupres d'une balustrade se tient debout Marie en robe rouge et voile gris blanc, visage ovale avec les yeux baisses. Elle tient devant elle PEnfant. A gauche vue sur un paysage avec castel et cabanes. Sur toile. Cadre or. De la collection Giov. Barbi-Cinti, Ferrare.Haut. 88,Larg. 72 cm.
+- 931 Saint Augustin a barbe grise, en costume blanc et manteau rouge; devant lui beaucoup de manuscrits. Derriere lui debout une jeune femme avec palme et couronne en robe
+- bleue. A gauche est assis au bord de la mer l'enfant Jesus nu en petit manteau jaune,
+- 932
+- 933
+- 934
+- dans la main droite la cuiller, de la main gauche montrant le lointain. Vue sur une anse de la mer avec montagnes bleuatres, bateaux et un homme solitaire, vetu de rouge. Dans les nuages Marie avec l'Enfant et nombreux petits anges qui font de la musique. A droite vue sur un paysage de rochers avec maisons. Sur bois. Cadre or. De la collection Barbi-Cinti, Ferrare. Haut. 58, Larg. 85 cm. PLANCHE 33.
+- GAROFALO. Tete de Marie. Fragment. En robe rouge et voile bleu. Sur bois. Cadre or.De la collection Giov. Barbi Cinti, Ferrare. Diam. 30 cm.
+- ATTRIBUE A GAROFALO. Fuite en Egypte. Dans un paysage marin, rocheux avec des villes et des castels, Marie est assise. L'enfant Jesus puise de l'eau a une fontaine. Saint Joseph depaquette. Sur toile. Cadre or. De la collection Giov. Barbi Cinti, Ferrare. Haut. 68,Larg. 102 cm.
+- ATTRIBUE A GAROFALO. Sainte famille. Dans un portique est assise Marie qui lit; devant elle l'enfant Jesus et St. Jean l'enfant; a gauche Saint Joseph, a droite deux anges. Sur bois.Cadre or. De la collection Giov. Barbi-Cinti. Haut. 53, Larg.38 cm.
+- 935
+- 6ATTRIBUE A GAROFALO. Adoration des mages. Pendant du precedent. Dans un portique est assise Marie avec l'Enfant; a gauche, devant elle les mages avec suite. Sur bois.Cadre or.Haut.53,Larg. 38 cm.
+- 936 ATTRIBUE A GAROFALO. Adoration des mages. Devant des ruines est assise Marie avec Enfant. De droite viennent les mages avec leur suite. Vers 1540. Sur bois. Cadre or. De la collection Giov.Barbi-Cinti, Ferrare.Haut. 140, Larg.80 cm.
+- 937 ECOLE DE GIOTTO. Madone avec des saints. Sur un trone est assise Marie en robe rouge et manteau bleu; elle tient sur ses genoux l'Enfant. A droite et a gauche Saint Jean-Baptiste, Saint Joseph, Saint Francois et Saint Laurent. Sur fond or. Plaque de bois avec ogives sculptees, colonettes tournees avec feuillage. Vers 1350. Haut.87,Larg. 49 cm.
+- 938 GIULIO ERCOLE DI GRANDI LE JEUNE,morten 1531 a Ferrare. Saint Roch.Dans un paysage avec arbres le saint est debout; dans la main gauche le baton de voyageur avec le chapeau;la main droite sur la poitrine. Il porte des guetres brunes,un justaucorps rouge et un manteau bleu gris. Cheveux et barbe boucles bruns. Sur bois. Cadre or. Haut.110, Larg. 53 cm. PLANCHE 34.
+- 939 ERCOLE GRANDE.Saint Sebastien.Pendant. Attache a un tronc d'arbre se tient debout le saint nu, avec morceau d'etoffe autour des reins, tourne vers la droite. Paysage vert avec arbres et chateau.Le.reste comme dans le tableau precedent.PLANCHE 34. Les deux tableaux se trouvaient autrefois dans l'eglise de la Consolation a Ferrare. Confer. Cesare Cittadella, Catalogo istorico de Pittori e Scultori Ferraresi, Ferrara 1782, pag.114. Plus tard ils vinrent dans la collection Giov. Barbi-Cinti, Ferrare. Reconnus comme veritables par Venturi Confer. Thieme-Becker, Allgemeines Lexikon der bild. Kinstler. Volume Vll, page 523, 1ere colonne.
+- 940 GUERCINO (Guerchin), (Giov.Franc. Barbieri),né a Cento en 1591,mort en 1666 a Bologne. Saint Sebastien. Long buste. Le saint, revetu d'un morceau d'etoffe autour des reins est debout,a gauche,attache a un tronc d'arbre,la tete avec les boucles brun fonce, dressee en l'air. A droite echapee sur paysage avec tour d'observation. Sur toile.Cadre or
+- sculpte. De la collection Giov. Barbi-Cinti, Ferrare. Haut. 99,Larg. 77 cm.
+- 941 GUERCINO. Saint Joseph. Buste jus qu'aux genoux. Assis. ll pose sa main gauche sur un livre. Dans sa main droite il tient un lis. Il porte un costume lilas et un manteau brun rouille. Fond fonce. Sur toile. Cadre or sculpte. De la collection du duc de Varano. Haut.118,Larg.95 cm.
+- 942 ATTRIBUE A GUERCHIN. Marie avec lEnfant. Buste long. Marie tenant un livre a la main. L'Enfant accourt dans ses bras. Fond paysage. Sur toile. Cadre or. Haut. 42, Larg.33 cm.
+- 943 ECOLE DE GUERCHIN. Poesie. Buste long. Femme assise en robe bleue et manches lilas. Le regard meditatif tourne a gauche. Elle pose la main droite sur un rouleau. A cote les oeuvres de Virgile et d'Homere. A gauche un violon. Sur toile. Cadre or. De la collection Giov. Barbi-Cinti, Ferrare. Haut. 116,Larg. 95 cm.
+- 944
+- ECOLE HOLLANDAISE. Course de patineurs sur la glace. Sur la glace du fosse d'une ville patineurs et traineaux. Vers 17oo. Sur toile. Cadre noir. De la collection du duc de Varano. Haut. 23,Larg. 33 cm.
+- 945
+- 1Enfant. A droite Saint Joseph avec lane. Vers 1620. Sur cuivre. Cadre or. Haut. 31, Larg.24 cm.
+- 946 PRINCESSE ALLEMANDE. En robe blanche avec manches bouffantes. Par dessus manteau vert, richement brode d'or. Long collier avec croix.Petit chapeau avec plume blanche. Fond fonce. Vers 1550. Sur toile. Cadre or. Haut. 100, Larg.78 cm.
+
+## Ecole italienne.
+
+- GRAND SEiGNEUR ET DAME. Pendants. Lui en pourpoint or et noir avec la Toison d'Or et fraise a dentelles; elle en robe noire avec ornements or. Vers 160o. Sur toile.
+- 947 Cadre or. De la collection du duc de Varano.Haut. 75, Larg. 54 cm.
+- 948 BUSTE D'UNE JEUNE DAME. En robe noire,richement ornee et manches roses. Fraise de dentelle blanche. Fond fonce. Commenc. du XVlle siecle. Sur toile. Cadre or.
+- Haut.76, Larg. 56 cm.
+- 949 BUSTE D'UN OFFICIER. A droite. En cuirasse noire avec echarpe noire. Large col blanc a dentelles. Longs cheveux boucles noirs et petite moustache. Fond fonce. Vers 1640. Sur toile. Cadre or. De la collection du duc de Varano, Ferrare. Haut. 83, Larg. 69 cm.
+- 950
+- BATAILLE NAVALE. Entre Turcs et chretiens. XVIle siecle. Sur toile. Cadre or. Haut.55, Larg.78 cm.
+- 951 COPIE DE SANTO SUTARIO. Probablement XVIle siecle. Haut. 43, Larg. 36 cm.
+- 952
+- BUSTE DE JEUNE FILLE. Tourne a gauche.En robe bleu clair. Dans la chevelure noire diademe. Fond ruines. XVllle siecle. Sur toile. Cadre or. De la collection du duc de Varano.Haut. 53, Larg. 37 cm.
+- 953
+- PORTRAIT D'ENFANT (VARANO). Un petit enfant est assis sur un coussin rouge; pres de lui un petit chien. Draperie vert fonce. Peint en 1745. Sur toile. Cadre noir. Haut. 118, Larg. 88 cm.
+- 954
+- L'ARCHE D'ALLIANCE retourne, trainee par deux boeufs, dans le camp des Israelites. XVIlle siecle. Sur toile. Cadre or. De la collection du duc de Varano. Haut. 56, Larg.74 cm.
+- 955 BUSTE JUSQU'AUX GENOUX D'UN PRINCE. En grand appareil. Avec lordre de la Toison d'or. Perruque a marteau. lere moitie du XVllle siecle. Sur toile. Cadre or. De la collection du duc de Varano. Haut.96,Larg.76 cm.
+- 956 LE JEUNE MAFFEO ZANARDI. Buste jusqu'aux genoux. En costume fonce avec dolman rouge de hussard. Debout devant une colonne. Inscription: Maffeo Zanardi del Sri Conte della Virgiliana Morotelli 23 Maggio 1741 in Eta d'anni 17 mesi 5. Sur toile. Cadre noir. De la collection du duc de Varano, Ferrare. Haut. 93, Larg.76 cm.
+- 957
+- TETE D'APOTRE. Sur bois. XVIlle siecle. Haut. 23,5, Larg. 15 cm.
+- XVille siecle. De la collection Barbi- Cinti, Ferrare.
+- 958 PARC.Avec figures de louage. Toile.Cadre or. Haut. 25, Larg. 36 cm.
+- 959 DEUX PAYSAGES Avec figures de louage. XVIlle siecle. Sur parchemin. Cadre or.
+- De la collection Giov. Barbi-Cinti, Ferrare. Haut. 24, Larg. 36 cm.
+- 960
+- PAYSAGE. Riviere avec arbres; a droite montagnes. XVIlle siecle. Sur toile. Cadre noir. Haut. 110, Larg. 180 cm.
+- 961 HERMANN TEN KATE,ne en 1822 a La Haye,mort en 1891 dans la meme ville. Scene d'atelier Un peintre donne une lecon a des eleves devant un groupe: mere avec enfants. Aquarelle.
+- Signe:1852. Cadre or.Haut. 18, Larg.28 cm.
+- Grands vases avec nombreuses fleurs. A cote petit ange qui vole. Sur verre. Cadre or. Haut.14,5,Larg.19,5 cm.
+- 963 GREGORIO LAZZARINI, ne en 1657 a Villanuova,mort en 1735 a Venise. Madone sur le trone avec saints. Dans un portique est assise Marie avec lEnfant sur un trone; devant elle des saints. Dans les airs anges. Sur toile. Cadre or. De la collection Giov. Barbi-
+- Cinti,Ferrare.Haut. 56,Larg.26,5 cm.
+- 964 ECOLE DE LEONARD DE VINCI. Christ portant la croix. Buste a gauche. En costume rouge.La croix sur lepaule droite. Fond fonce. Vers 1540. Sur bois.Cadre or. De la collection du duc de Varano. Haut. 44,5, Larg. 35 cm.
+- 965 Aquarelle.Haut.28,Larg.22 cm.
+- 966 L'ORTOLANO (G.B.BENVENUTI), né en 1467,mort en 1525 a Ferrare. Madone avec anges. Sur les nuages trone Marie en robe rouge et manteau bleu, entouree d'anges qui jouent de la musique. Sur cuivre. Cadre or. Repetition du tableau de la Pinacotheque
+- de Bologne.Haut. 42, Larg. 35 cm.
+- 967 D'AZEGLIO MASSIMO,ne 1798 a Turin,mort 1860 a Turin. La mort de Ferruccio. Sur une place de village meurt Ferruccio, entoure de soldats. Sur toile. Cadre or sculpte.
+- Haut.54, Larg.64 cm.
+- LUDOVICO MAZZOLINI,ne en 1481,mort en 1528 a Ferrare. Flagellation du Christ. Buste. Dirige vers le devant. Couleur rouge chair. Cheveux brun clair et barbe en pointe double. Fond fonce. De la collection Giov. Barbi-Cinti, Ferrare. Haut. 56, Larg. 40 cm.
+- 968
+- 969 JOSEPH MAZZUOLI,nomme il Bastaruolo,nevers 1525,mort en 1589 a Ferrare. Grande dame avec deux enfants. Elle est assise dans un fauteuil, tournee a droite. Elle porte une robe verte,un manteau court noir, une fraise blanche. Sur le bras gauche elle tient une petite fille en robe lilas; a gauche debout un petit garcon en habit bleu. Bordure vert fonce. Sur le derriere vieux signe d'artiste. Sur toile.Cadre or. De la collection du duc de Varano, Ferrare.Haut. 90, Larg. 69 cm. PLANCHE 36.
+- 970 DOMINIQUE MONA,ne en 1550 a Ferrare,mort en 1602 a Parme. Lamentations sur le
+- Christ. Sur un banc le corps du Christ, tenu par deux anges qui portent costumes jaune vert et rouge bleu.Ancienne porte de tabernacle. Sur bois. Cadre or. De la collection Giov.Barbi-Cinti, Ferrare. Haut. 42,5,Larg.27,5 cm.
+- 971
+- 972
+- VARIANTE D'APRES MURILLO. Madone, allaitant lEnfant. Buste. En robe rose et manteau bleu. Fond fonce. Sur toile.Cadre or. Vers 1650. Haut. 74, Larg. 58 cm.
+- MARTIN MYTENS (MEYTENS), ne 1695 a Stockholm,mort 1770 a Vienne.Empereur Francois Ier et imperatrice Marie-Therese. Pendants. Buste de lempereur en cuirasse et manteau or, double de rouge. L'imperatrice en robe bleue et manteau or. Fond neutre. 1748. Sur bois. Cadre or. Haut.21, Larg. 15,5 cm.
+- 973 ECOLE NAPOLITAINE. Vieille tsigane. Buste jusqu'aux genoux a droite. Assise. En robe jaune. Dans la main gauche elle tient un tambourin. Fond fonce. Commenc. du XVIle siecle. Haut.90,Larg.74 cm. PLANChE 36.
+- 974 ECOLE HAUT-ITALIENNE. Madone avec l'Enfant. Buste long devant une tapisserie.
+- XVIe siecle. Sur bois. Cadre or. De la collection du duc de Varano, Ferrare. Haut. 40, Larg.33 cm.
+- 975
+- femmes. Couleurs: vert, rouge, bleu et brun. Vers 1550. Sur toile. Cadre or. Haut. 25, Larg. 46 cm.
+- 976
+- TETE D'HOMME. Barbe en pointe blonde. Collet blanc. Vers 155o. Sur toile. Cadre or.Haut. 33,Larg.23 cm.
+- 977
+- 978 FEMME AVEC ENFANT ET ANGE. Fragment. Seconde moitie du XVIe siecle. Sur toile.
+- ARBRE GENEALOIQUE DU CHRIST. En bas Jesus est couche; de lui sort l'arbre genealogique avec les demi-figures. Sur fond or. Sur bois. Cadre Sansovino or et brun, sculpte. Vers 1550. Haut.85, Larg.71 cm.
+- Cadre or. De la collection du duc de Varano. Haut. 48, Larg. 37 cm.
+- Sur toile. Cadre or. De la collection du duc de Varano, Ferrare. Haut. 59, Larg. 81 cm.
+- 979 ENFANT JESUS. Dormant sur la croix. Dans un paysage. Seconde moitie du XVIe siecle.
+- 980 SACRIFICE DU CHRIST DANS LE TEMPLE. Simon recoit l'Enfant Nombreux person-
+- nages dans le portique. Seconde moitie du XVIe siecle. Sur cuivre. Cadre or. Haut.20, Larg.15,5 cm.
+- 981 LE CHRIST AU MONT DES OLIVIERS. Christ en costume blanc et manteau bleu est reconforte par l'ange. Fond fonce. Vers 1600. Sur bois. Cadre or. Haut.37, Larg.28 cm.
+- 983 LE CHRIST ET LES FEMMES. Le Christ est tombe sous la croix, Veronique lui tend
+- 982 NATURE MORTE. Un melon decoupe, une poule plumee, des oignons, etc. Sur fond fonce. Vers 1600. Sur toile. Cadre or. Haut. 74, Larg. 58 cm.
+- la sainte veronique. Vers 1600. Sur toile. Cadre or. Haut. 25, Larg. 48 cm.
+- 984
+- SAINT JEAN BAPTISTE dans un paysage. Sur bois. Vers 1600. Cadre or. Haut. 14, Larg.19,5 cm.
+- 985 MADONE. Long buste. Adorant lEnfant. Vers 1600. Sur toile. Cadre or richement cisele. De la collection du duc de Varano, Ferrare. Haut. 65, Larg. 49 cm.
+- 986 BUSTE DE JEUNE SEIGNEUR. En habit noir et collet blanc rabattu. Fond neutre. Commenc. du XVlle siecle. Sur toile. Cadre or. De la collection du duc de Varano, Ferrare. Haut. 65,5, Larg. 54 cm.
+- 987
+- 988 FUITE EN EGYPTE. Dans un paysage est assise Marie en robe rouge et manteau bleu; elle allaite lEnfant. Un ange donne a manger a l'ane. A droite Joseph en habit grisatre ouvre une bouteille. Un second ange cueille des dattes a un arbre. lere moitie du XVlle siecle. Sur marbre. Cadre or cisele. Haut. 30, Larg. 44 cm.
+- PIETE. Sur les genoux de Marie est etendu le corps du Christ. A gauche un saint Franciscain et Saint Laurent,a droite Marie Madeleine. En bas deux anges. Premiere moitie du XVlle siecle. Sur toile. Cadre or. Haut. 42, Larg. 35 cm.
+- 989 SAINT.LUC.
+- Buste. En manteau rouge. Lisant dans un Evangile. Sur fond fonce. XVIle siecle. Toile. Cadre or. De la collection du duc de Varano, Ferrare. Haut. 60, Larg. 51 cm.
+- 990
+- SAINT JEROME. Nu, drape dans un manteau rouge, dans un paysage, a genoux. Sur cuivre. Le cadre peint avec quatre medaillons de moines. xVlle siecle. Cadre or. Haut.34,Larg.23 cm.
+- 166
+- DEUX VIEILLES FEMMES AVEC CHANDELLE. Pendants. Devant fond fonce. Sur bois XVIle siecle. Cadre or. Haut.21, Larg. 17 cm.
+- 992
+- VANITAs. Tete de mort, sur un livre, mangee par des insectes. XVlle siecle. Sur cuivre. Cadre or.Haut.18,5,Larg.14 cm.
+
+## Ecole Haut-italienne.
+- 993 MADONE. Marie adore lEnfant assis devant elle. Paysage de rochers. XVIle siecle.
+- Sur cuivre.Cadre or. Haut.21, Larg. 16,5 cm.
+- 994 GLORIFICATION DE MARIE. Planant sur les nuages. Entouree de petits anges. Sur albatre oriental. Dans cadre brun avec riches ornements en cuivre repousse. xVlle siecle.
+- Haut. 16,Larg.15,5 cm.
+- 995 DONNA GIULIA TROTTI VARANO. Buste ovale jusqu'aux genoux. Robe blanche decolletee avec garniture noire. Cheveux releves. A droite coussin rouge. Fond brun.
+- Vers 1700. Sur toile. Cadre noir. De la collection du duc de Varano. Haut. 112, Larg. 77 cm.
+- 996 JACOB A LA FONTAINE. Six petites filles avec des houlettes a la fontaine. A gauche, Jacob. Vers 1730. Sur toile. Cadre or. De la collection Giov. Barbi-Cinti. Haut. 63,
+- Larg.79 cm.
+- ABRAHAM ET LES TROIS ANGES. Dans vaste paysage. XVIle siecle. Sur toile
+- 997 Cadre or. Haut. 40, Larg. 60 cm.
+- 998 MARO PALMEZZANO DE FORLI, ne a Forli en 1456(2), mort en 1538 (2) Piete. Le Christ est debout jus qu'aux hanches dans un sarcophage de pierre; sur la tete la couronne; la main gauche percee sur la poitrine, la droite etendue. Fond montagneux avec rameaux denudes. Accorde sur brun gris et vert. Sur bois. Cadre or. Haut. 30, Larg. 27 cm.
+
+PLANCHE 27.
+
+- 999 MAZZUOLA,NOMME PARMIGIANINO,ne le11 janv.1503 a Parme,mort le 24 aott 1540
+- a Casalmaggiore. Madone. Dans un paysage est assise Marie avec IEnfant Jesus sur les genoux; St. Jean l'enfant se serre contre son cote gauche. A ses pieds un petit ange. Un autre tend a lEnfant un plat avec des fruits. En haut deux anges tiennent une couronne au-dessus de la tete de Marie. Elle porte une robe rouge et un manteau a fleurs. Peinture miniature. Sur parchemin, en partie avec or. Cadre or de la vieille Renaissance. Haut. 25,5, Larg.29cm. PLANCHE 17.
+- 1000
+- GIACOMO TAROLINl, ne en 1663, mort en 1733 a Ferrare. Enfant Jesus dormant. Couche nu sur drap rougeatre. Sur le derriere ancien signe. Sur toile. Cadre or. De la collection du duc de Varano.Haut.33, Larg. 44 cm.
+- 1001
+- TIBALDO PELLEGRINI,ne en 1532 a Vaesolda, mort en 1592 a Milan. Sainte Dorothee. Buste. Reveuse, la tete couronnee levee. Robe jaune. Fond fonce. Sur toile. Cadre or.De la collection du duc de Varano. Haut. 37, Larg. 31 cm.
+- 1002 2PIETRO PERUGINO (Vannucci),ne en 1476 a Citta della Pieve, mort en 1523 a Fontignano. Adoration de lEnfant. Rond. Sur sol sablonneux est agenouillee Marie en robe rouge et manteau bleu, la chevelure couverte d'un fichu bleu, raye or, les mains jointes. Devant elle a gauche est etendu l'Enfant nu qui remue continuellement. Au second plan a gauche est etendu Saint Joseph; la tete appuyee sur le bras, il dort. ll porte un costume bleu fonce et un manteau brun. A droite est agenouille St. Jean l'enfant qui prie, en costume violet fonce. De meme un boeuf et un ane. Au fond paysage montagneux avec riviere et ville aux nombreuses tours. Sur le bord de la riviere un saint ermite a genoux (Jean?). A droite contree rocheuse avec l'Annonciation aux patres. Le tableau est accorde sur brun ensoleille et vert bleu.Sur bois.Cadre or richement cisele.Diam.80 cm.
+
+PLANCHE 37.
+
+- 1004 ALFONSO TIACENTINO.Vers 1590. Sainte Famille avec lagneau. D'apres Raphael (Madrid). Sur le derriere inscription: Alfonsus Tiacentinus Bellonus fecit dal 1590. Sur toile. Cadre or de la vieille Renaissance. De la collection Giov. Barbi-Cinti.
+- Ferrare. Haut. 32,5 Larg. 27cm.
+- 1005 JEAN-BAPTISTE PIAZZETTA,ne en 1682 a Pietrarossa, mort en 1754 a Venise. Deux
+- 1006 MANIERE DE PIAZZETTA. Tetes d'homme et de Jemme. Sur toile. Cadre or. Haut. 65,
+- hommes qui lisent. Un vieillard aux cheveux rares et blancs, en habit blanc, tourne la page d'un livre; a cote de lui un homme plus jeune aux cheveux et costume bruns Bustes. Sur fond fonce. Toile. Cadre or. De la collection du duc de Varano, Ferrare. Haut.65,5 Larg.56 cm.
+- Larg.56 cm.
+- 1007 BERN. PINTURICCHIO, ne en 1454 a Perouse, mort en 1513 a Sienne. Adoration des mages. Rond. Devant une arcade est assise Marie en robe rouge et manteau bleu; elle tient sur ses genoux l'Enfant. Devant elle, a genoux, les mages avec suite nombreuse et chevaux. A gauche d'autres spectateurs et des chameaux. Vaste paysage avec montagnes, arbustes minces et personnages. Fond brun et bleuatre. Les costumes en rouge, rose, brun jaune, bleu gris. Sur bois. Cadre en bois cisele. De la collection du marquis
+- 1008 ECOLE DE RAPHAEL. Sainte Catherine. Buste a gauche. En robe jaune ouverte, d'ou sortent les manches de chemise blanches. Col blanc ouvert. Manteau framboise, drape sur Pepaule gauche. Sur la petite tete au nez pointu chevelure blonde avec voile blanc et petite couronne en or. La main droite est appuyee sur la roue. Fond vert bleuatre. Sur toile. Cadre brun avec larme du duc Guidobaldo della Rovere a Urbino. Haut. 40, Larg. 43 cm. Ce tableau etait autrefois la propriete de Luigi Melloni. ll a essaye dans un écrit: Storia del vero ritratto della Fornarina, Bologne 19o0, de prouver que ce tableau a ete peint par Raphael et a ete un cadeau fait a la famille ducale d'Urbin, qu'il provient de la galerie Arundel. A cet effet il s'appuie sur Cuzzuara, pag. 696, Quatremere 167,744, 518, 555 et Braun, pag.168. PLANCHE 25.
+- Ferd. Pangiatichi Himenes d'Aragon, Florence. Diam. 98 cm. PLANCHE 38.
+- 1009 D'APRES RAPHAEL. Sainte Famill. D'apres l'original de la Pinacotheque de Bologne.
+- 1010 D'APRES RAPHAEL. Transfiguration sur le mont Tabor. En haut le Christ et les disciples dans les nuages. En bas la foule. Copie du XVle siecle. Sur le derriere inscription: Jo. Matteo Giudici (peintre ?). Sur toile. Cadre or. De la collection de Giov. Barbi-Cinti, Ferrare.Haut.75, Larg. 52 cm.
+- Vieille copie du XVlle siecle. Sur toile. Cadre or. Haut. 62, Larg. 39 cm.
+- 1011 FRANCESCO RAINIERI, nomme Schivenoglio, ne vers 1680 a Mantoue, mort en 1758.
+- 1012 BART. RAMENGHI, dit le Bagnacavallo. Sainte Famille. Devant un rideau vert est debout Marie en robe rouge et manteau bleu. Devant elle est couche l'enfant Jesus nu, tenant dans un paysage montagneux avec castel. Sur bois. Cadre or. De la collection Giov.
+- Vieillard assis. Dans paysage. Sur bois. Rond Cadre or sculpte. Diam. 24 cm.
+- Barbi-Cinti, Ferrare. Haut. 50, Larg.42 cm.
+- rouge visible. Fichu jaune brun sur la tete. Fond neutre. Sur bois. Haut. 52, Larg. 40 cm.
+- 1013 GUIDO RENI, ne en 1575 a Calvenzano pres de Bologne, mort en 1642 a Bologne. Mater dolorosa. Buste. La tete tournee douloureusement vers le ciel. Petite partie de la robe
+- 1014
+- ECOLE DE GUIDO RENI. Sainte Marie Madeleine. Buste. A droite. En manteau bleu. Dans les mains elle tient la croix. Fond fonce. Sur toile. Cadre or richement sculpte. Haut.66,Larg.50 cm.
+- 1015 SEB. RICCI, ne en 1659 a Cividal di Belluno, mort en 1734 a Venise. Sainte Famille.
+- Devant un portique est debout a gauche Marie en robe rose et manteau bleu et tient IEnfant. Plus bas sur les degres Saint Joseph. Trois petits anges ailes. A droite vue sur un paysage. Sur toile. Cadre or. Haut. 44, Larg. 35 cm.
+- 1016 FELICE RICCIO,DIT BRUSASORCI,ne en 1540 a Verone, mort en 1650. Madone avec St. Jean l'enfant. Marie en robe lilas et manteau bleu tient sur ses genoux 'Enfant Jesus qui se penche vers St. Jean, a genoux devant lui. Sur marbre. Cadre or. Haut. 24,Larg. 26 cm.
+- 1017 ECOLE DE ERCOLE ROBERTI, Ferrare. Le Christ tombe sous la croix. Dans un paysage montagneux se deroule le cortege: chevaliers, docteurs de la loi a cheval, femmes, hommes, soldats. Au milieu le Christ en costume bleu gris est appuye sur le genou. Trois soldats et Simon de Cyrene le font relever. Beaucoup de rouge, de jaune et de bleu gris. Sur bois. Cadre or. Vers 1490. Haut 49,Larg. 76 cm. PLANCHE 33.
+- 1018 ECOLE DE ROME.Tobie avec l'ange. Dans un paysage l'ange debout montre le poisson au craintif Tobie. Vers 1600. Sur toile. Cadre or. De la collection Giov. Barbi-Cinti, Ferrare.Haut.65,Larg. 50 cm.
+- 1019 PHIL.PETER ROOS, dit ROSA DI TIVOLI,ne en 1657 a Francfort sur le Mein,mort en 1705 a Bonn. Deux brebis. Dans paysage. Sur toile. Cadre or. Haut. 95, Larg. 115 cm.
+- 1020 ECOLE DE ROSA TIVOLl. Decoupure d'un tableau. Animaux: chiens, chats, chevres, dindon, etc. Sur toile Cadre or.De la collection Giov. Barbi-Cinti, Ferrare.
+- 1021 P.P. RUBENS,ne le 28 juin 1577 a Siegen, mort le 30 mai 1640 a Anvers. Esther devant Assuerus. Dans un portique Esther en robe blanche, s'appuyant sur ses femmes, se jette aux pieds d'Assuerus. Le roi en costume rouge s'est leve de son trone. A gauche groupe de guerriers. Esquisse. Huile sur toile. Cadre or. Haut.37, Larg. 41 cm. PLANCHE 28.
+- 1022
+- IPPOLYTO SCARSELLA dit SCARSELLINO,ne en 1551, mort en 1621 a Florence. Madone avec lEnfant. Defectueux. Sur bois.Cadre or.De la collection Giov. BarbiCinti, Ferrare. Haut.21,Larg. 15 cm.
+- 1023
+- GIOV. FRANC. SURCHI dit Le Dielai,ne a Ferrare,mort 1590 a Ferrare. Adoration des bergers. L'Enfant est couche dans l'etable, adore par Marie, Joseph et les bergers. Sur toile. Cadre or. De la collection Giov. Barbi-Cinti, Ferrare. Haut. 65, Larg. 79 cm.
+- 1024 ALESS. TIARINI, ne en 1577, mort en 1668 a Bologne. Jahel tue le Fifara. Au milieu d'une salle dont seul l'ais a rideaux est bien visible, se tient debout Jahel,penche en avant. Elle tient le marteau dans la main droite. Elle porte un costume de dessous blanc et un costume dedessus jaune brun.Devant elle est etendu le tue Fifara,un clou a la tempe gauche. l est vetu d'un pourpoint en cuir. A droite un guerrier barbu en partie visible. Fond brun. Sur le derriere vieille marque d'artiste. Sur toile. Cadre. H. 168,L. 146 cm.
+- PELLEGRINO TIBALDI,ne en 1532 a Valsolda, mort en 1592 a Milan. Decollation de Sainte Dorothee. Au milieu, la sainte est agenouillee; robe rose-jaune. Elle regarde vers le ciel. A droite vient un ange avec une petite corbeille de roses et de fruits. Debout derriere elle le bourreau avec le glaive. A droite portique d'ou sort un homme a qui un petit enfant nu remet la corbeille de fleurs. Sur le derriere vieille marque d'artiste. Sur
+- 1025 toile. Cadre or.Haut. 150, Larg.104 cm.
+- 1026 ECOLE DU TINTORET. Conversion de Saul. Dans un riche paysage montagneux Sail tombe de cheval, frappe par la foudre Autour de lui d'autres cavaliers. Sur toile. Cadre or sculpte.Haut.73,Larg.107 cm.
+- 1027 ATTRIBUE A VECELLI TIZIANO (LE TITIEN), ne en 1476 ou 77 a Pieve di Cadore, mort le 27 aout 1576 a Venise. Ludovico Beccatelli. Long buste a droite. L'archeveque est assis sur un siege a dos, en rochet blanc et soutane noire. Sur la tete la barette. Dans la main gauche il tient un livre. Fond neutre. Sur le derriere vieille inscription: LVDOVICVS BECCATELLVS ARCHIEPISCOPVS RAGUSINVS. Sur bois. Vieux cadre or sculpte. Haut. 26, Larg. 18 cm. Il ne differe que par le livre dans les mains du tableau
+- des Offices de Florence, peint en 1552. Dans ce tableau larcheveque tient un ecrit.
+- 1028 ATTRIBUE A VECELLI TIZIANO. Camille d'este. Long buste a gauche. Age moyen. En robe noire avec col de tulle blanc droit et voile identique sur la tete. Chevelure blonde. Dans la main droite, posee sur une table, elle tient des gants.La main gauche joue avec la ceinture jaune. Sur le derriere vieille inscription: Ritratto fatto da Tiziano di Camilla d'Este Sorella di tre Principi Sovrani di Ferrara Leonello Borso ed Ercole I. Moglie di Ridolfo IV. Varano Principe di Camerino dal quale discende la famiglia Varano di Ferrara. Sur bois. Cadre or. Haut.24,4,Larg.17,5 cm. PLANCHE 39.
+- 1029 ATTRIBUE A GIORGIO VASARI, ne en 151l a Arezzo, mort en 1574 a Florence. Madone et Sainte Catherine. Dans un portique Marie est assise en robe framboise et manteau bleu. L'Enfant jesus se penche vers Sainte Catherine et lui tend la palme. La demi-figure de la sainte est vetue d'une robe rouge. A gauche St. Jean l'enfant endormi, a droite Saint Joseph. Sur toile. Cadre noir. Haut. 145, Larg. 116 cm.
+
+## Ecole venitienne.
+
+- 1030 TETE DE DIANE. Legerement tournee a droite. Dans les cheveux croissant. Fond sombre. ler tiers du XVle siecle. Sur bois. Cadre or. De la collection du duc de Varano.Haut.39,Larg.30 cm.
+- 1031 ENFANT AVEC UN PETIT CHIEN. Un enfant d'environ trois ans en petite robe longue vers
+- Haut. 91, Larg. 71 cm.
+- lequel un petit chien saute. A droite vue sur un paysage. Vers 1550. Sur toile. Cadre noir.
+- 1032 PRINCESSE. Buste jusqu'aux genoux. Debout pres d'une table sur laquelle se trouve une cuvette avec une rose. Elle porte une robe de soie ouverte framboise et un manteau brun lilas avec muguets brodes, triple collier de perles et fraise blanche. Dans les cheveux roux une perle. Fond drape sombre. Vers 1550. Maniere de Paris Bordone. Sur toile. Cadre or. Haut. 120, Larg. 96 cm. PLANCHE 35.
+- 1033 BUSTE DE JEUNE FILLE. A gauche. Robe noire a fentes blanches. Col de dentelles ouvert. Cheveux blonds avec raie.Fond sombre. Vers 1560. Sur bois. Cadre or. De la collection du duc de Varano, Florence. Haut. 37,5, Larg. 33 cm.
+- 1034 CARDINAL LUIGI D'ESTE. Buste jusqu'aux genoux. Debout. En robe rouge de cardinal. Barbe brune divisee. Fond sombre. D'apres linscription sur le derriere peint en 1566. Sur toile. Cadre or. De la collection Giov. Barbi-Cinti, Ferrare. Haut. 95, Larg. 78 cm.
+- 1035
+- MADONE AVEC SAINTS. Buste long. Au milieu Marie allaitant PEnfant, a droite un saint, a gauche une martyre. Milieu du XVle siecle. Sur bois. Cadre or sculpte. De la collection Giov. Barbi-Cinti, Ferrare. Haut. 30, Larg. 40 cm.
+- 1036
+- SAINTE DISPUTATION. A gauche debout un saint pretre, derriere lui vole un ange avec un calice. A droite debout un grand seigneur en costume blanc, pourpoint blanc et manteau noir. Dans le portique volent des anges sur les nuages et la colombe du Saint Esprit. XVlle siecle. Sur toile. Cadre or richement sculpte. Haut. 86, Larg. 58 cm.
+- 1037
+- NOCES D'AMOUR ET DE PSYCHE. Banquet. Au fond la mer. XVIle siecle. Sur toile. Cadre or. De la collection Giov. Barbi-Cinti, Ferrare. Haut. 34, Larg. 43 cm.
+- 1038 SCENE DE BAIN. Une femme se lave les pieds dans un cours d'eau. A droite deux autres femmes. A gauche vue dans un parc. Vers 170o. Sur toile. Cadre or. Haut.38,
+- 1039
+- Larg.72 cm.
+- LAGUNES. Avec tours et maisons. Commenc. du XVIlle siecle. Sur toile. Cadre or. Haut. 17, Larg.20,5 cm.
+
+PLANCHE 26.
+- 1040 ECOLE VENITIENNE DE TERRA FERMA. Pieta. Buste jusqu'aux genoux. Sur un
+- banc rougeatre est assis le corps du Christ, soutenu par deux anges. Couleur chair blanc jaunatre, draperie blanche, cheveux brun clair. L'ange de gauche porte une robe verte et un manteau rouge vin, cheveux blonds, celui de droite une robe rouge vif et manteau vert. Vers 1510-20. Fond sombre. Sur bois. Cadre or. Haut. 71,Larg. 57 cm.
+
+PLANCHE 32.
+
+- 1041 HORACE VERNET, ne le 30 juin 1789 a Paris, mort le 17 janvier 1863 a Paris. Rivage de la mer. Au bord de la mer des matelots. A gauche un batiment avec une tour,a droite falaise. Bateaux. Soleil couchant. Sur bois. Cadre or. Haut. 32,Larg. 50 cm.
+- 1042 GIUSEPPE ZOLAN (ZOLO),ne en 1675 a Brescia,mort en 1744,vecut a Ferrare. Paysage grands arbres. Figures de louage. De ses debuts. Sur toile. Cadre or. De la collection
+- du duc de Varano, Ferrare.Haut.258,Larg.83 cm.
+
+## Miniatures.
+
+- 1043 DEUX LETTRES ORNEES. B et F. En or, bleu et rose. Provenant d'un antiphonaire.
+- Sur parchemin. Xive siecle. Italien.
+- 1044 FRAGMENT D'UN ANTIPHONAIRE. 12 feuilles de parchemin avec notes. Miniature de
+- Sainte Catherine,lettres decoratives. Sienne. Scuola dello Stelliacci. XIVe siecle. Fol.
+- 1045 BICHERNA. Enveloppe pour documents. En bois. Sur lun des couvercles les armoiries des Ugurgieri di Siena: sur champ or trois lions azur; deux tiennent une roue rouge, au-dessus sur fond or aigle noir aux serres etendues. Sur l'autre couvercle un grand seigneur loue a prix d'or quatre hommes couverts de haillons. Ces medaillons sont entoures de rinceaux a fleurs en relief qui sont dores.Le bord bleu avec rinceaux or. Dans les coins armoiries des Bentivoglio. Vers 1500. Excellemment conserve. Haut.48, Larg.35cm. PLANCHE 22.
+- 1046 BUSTE DU PAPE JULES Il. A gauche. Peint sur cuivre. Dans un beau petit cadre antique, profile avec bord cuivre dore et ornements Renaissance appliques. xVle siecle. Italien. Haut.1l, Larg. 8 cm.
+- 1047
+- SAINTE FAMILLE. Marie en robe rose et manteau bleu tient lenfant Jesus sur ses de rinceaux or et argent sur champs bleu et rose. En haut armoiries. Sur champ d'azur couronne, deux etoiles et rose. Sur le derriere est ecrit: Fr.Franco. Maria de Ripa Capucinus F. Ecole milanaise. Vers 1530-50. Sur parchemin. Cadre or. Haut.17, Larg.23 cm.
+- 1048 MORT DE TARPEIA. Dans un portique Tarpeia est tombee sur le sol; des soldats se precipitent sur elle avec leurs boucliers pour l'assommer. Sur cuir. Italien. Milieu du XVIe siecle. Haut. 18, Larg. 27 cm.
+- 1049
+- BAISER DE PAIx. Sur un cote la Sainte Trinite; sur l'autre lAnnonciation. En couleurs tendres, rehauts d'or. Sur parchemin. Milieu du XVle siecle. Petit cadre ovale noir. Haut 9,5,Larg.6,5 cm.
+- 1050
+- GIULIO CLOVIO (1498-1578). Cinq plaquettes. 1. Pilate se lave les mains. Assis sous un baldaquin, entoure de nombreux personnages. Le Christ descend lescalier. Au fond
+- 4 et 5. Plusieurs hommes qui regardent par une fenetre,un motif et un singe. Couleurs claires tout-a-fait tendres: rose, bleu clair,vert clair, lilas. Quelques ornements a lignes or tres minces. Le tout probablement reuni autrefois dans un autel miniature. Sur parchemin. Chaque petite image appliquee de nouveau. Sur cuivre. Dans cadre commun noir. De la collection Giov. Barbi-Cinti, Ferrare. 1. Haut. 8,5, Larg. 4,3 cm. 2 et. 3. Haut. 5, Larg.0,9 cm. 4 et 5. Haut. 4,6, Larg.2,1 cm. PLANCHE40.
+- Cadre avec incrustations de lapislasuli et marbre. Vers 1550. Haut. 22, Larg. 15 cm.
+- 1051 COMMISSIONE DUCALE. Frontispice. Au milieu la Justice, a droite et a gauche un saint, en haut le lion de Saint Marc, en bas armoiries. Le reste avec des panoplies. Inscription: NOS PETRUS LANDO DEI GRATIA DUX VENETIAR ETC. Sur parchemin.
+- 1052 2 FAMILLE DEVANT UNE IMAGE MIRACULEUSE DE LA VIERGE. Au milieu sur un autel une image miraculeuse byzantine de la Vierge; Marie en costume. A droite et a gauche un ange en costume rouge. En bas agenouilles un homme, une femme et une nonne. Richement rehausse de lignes or. Haut-italien. Vers 1560. Sur parchemin. Petit cadre
+- 1053 LE CHRIST RAILLE. Au-dessous de la colonne le Sauveur est assis. Trois soldats le maltraitent. A gauche deux grands-pretres. Inscription: AVE REX JUDAEORUM. Sur la colonne armoiries. Sur parchemin. Haut-italien. Vers 160o. Cadre or richement cisele
+- antique or, richement cisele. Haut. 13,5, Larg. 16,5 cm.
+- avec les instruments de la Passion. Haut. 25,Larg. 18 cm.
+- 1054 MARTYRE DE SAINTE AGATHE. Des valets de bourreau arrachent les seins a la sainte, depouillee de ses vetements.A gauche quatre spectateurs. Au fond un bucher qui
+- 1055 SAINTE MARIE. Buste a gauche. En robe rouge et manteau bleu. ltalien. Vers 1600.
+- s'allume. Gouache sur parchemin. Italien. Vers 1600. Cadre noir. Haut. 12, Larg. 16 cm.
+- Sur parchemin. Vieux cadre or. Haut. 13, Larg. 9 cm.
+- 1056 FRANC. ALBANI (1578 1660). Le Christ et St. Jean lenfant. Les deux enfants nus sont
+- assis sur des pierres. Sur parchemin. Cadre or. Haut. 13,5, Larg. 12,5 cm.
+- 1057
+- BOURGEOIS. Buste a droite. Age moyen. Veste rouge, cravate blanche, chevelure blonde flottante. Hollandais. Vers 1630-50. Sur cuivre. Cadre or richement cisele. Haut.10,Larg.8 cm.
+- 1058 JEUNE FILLE. Buste a gauche. Robe rose decolletee. Cheveux blonds boucles. Hollandais. Vers 1660. Sur cuivre. Vieux cadre or richement cisele. Haut. 8, Larg. 6 cm.
+- 1059 LE CRUCIFIEMENT DE SAINT PIERRE. Trois hommes dressent au milieu dun paysage
+- rocheux la croix avec Pierre. Monogramme: G. R. xVlle siecle. Pastel sur parchemin. Cadre bois noir. Haut. 30,Larg. 20,5 cm.
+- 1060 SAINT ANTOINE. Buste.Devant lui l'enfant Jesus. Sur cuivre. Cadre cuivre avec petites tetes d'ange. XVlle siecle. Italien. Haut. 8,5, larg.7 cm.
+- 1061
+- SAINTE FAMILLE. Sur cuivre. Riche construction en forme d'autel avec ornements en cuivre repousse. XVlle siecle. Italien. Haut. 13,5, Larg. 9,5 cm.
+- 1062 MADONE AVEC L'ENFANT. Sur cuivre. Cadre or avec feuilles d'acanthe richement ciselees. Haut. 18, Larg. 14 cm.
+- 1063
+- SAINT PHILIPPE NERI. Buste. Sur cuivre. XVIle siecle. Cadre or. Haut.12,5, Larg. 9 cm.
+- 1064 SAINT JEAN. Le jeune Saint Jean, beau jeune homme nu, autour des hanches un manteau rouge drape est assis sous un arbre. Au fond il preche les gens. Sur ivoire. Italien. Vers 1700. Vieux cadre or. Haut. 15, Larg. 11 cm.
+- Sur toile. 1ere moitie du XVIlle siecle. Cadre or. Haut. 13,5, Larg. 10 cm.
+- 1065 ABBE. Buste long a gauche. Costume noir avec manches a dentelles. Perruque blanche.
+- 1066 JEUNE HOMME. Buste a gauche. Ovale. Venitien. Milieu du XVIlle siecle. Vieux cadre or a jour. Huile sur toile. Haut. 10, Larg. 7,5 cm.
+
+1067
+
+- LE CHRIST SURLA CROIX.Decoupure.XVIIIe siecle. Petit cadre noir. Haut. 8,Larg.6,5 cm
+
+1068
+
+- 1069
+- 1070
+- XVIlle siecle. Petit cadre noir. Diam. 8 cm.
+
+CASTEL. Couleur seiche. Sur ivoire. XVIlle siecle. Signe: Renaud. Diam. 5 cm.
+
+PHARE. Seiche. Sur ivoire. XVIlle siecle. Diam. 5 cm.
+
+- GORGE ROCHEUSE. Avec pont a deux arches et maisons. Peinture eglomisee. Italien.
+- KIRMESSE FLAMANDE. Rue de village avec personnages. Flamand. xvIlle siecle.
+- 1071 Sur cuivre. Petit cadre en bois. Rond. Diam. 6 cm.
+- 1072 LES S TROIS GRACES. Nues, debout au milieu d'un paysage. Petit cadre en bois.
+- Vers 1780. Sur ivoire.Ovale.6:7,5 cm.
+- 1073 BUSTE DE GRAND SEIGNEUR a gauche. En justaucorps violet, gilet jaune. Boucles
+- sur les oreilles. Sur ivoire. Italien. Vers 1780. Petit cadre or. Haut. 4,5, Larg. 4 cm.
+- 1074
+- CAPSULE DE MEDAILLON. Sur un cote en camaieu seiche temple de 'Amitie avec colonnes et Amour, sur l'autre double monogramme entrelace. Sur ivoire. Monture argent dore. Vers 1780. Dans etui cuir or gaufre. Diam.7,5 cm.
+- 1075
+- 1076
+- 1077
+- 1078
+- JEUNE DAME. Buste a gauche. En robe noire, collerette blanche et turban blanc. Vers 1790. Sur ivoire. Petit cadre noir ovale. Haut. 8,Larg. 6,5 cm.
+- OFFICIER.Buste.Bicorne.Vers 1795. Grisaille sur parchemin. Petit cadre noir. Diam.8,5 cm. PLANCHE 41.
+- JEUNE HOMME. (Andre Chenier?) Buste a gauche. Chemise blanche ouverte, gilet bleu raye, habit bleu. Cheveux bruns boucles et emmeles. Vers 1795. Sur ivoire. Petit cadre noir.Diam.6,8 cm. PLANCHE 41.
+- DEUX JEUNES DAMES AVEC ENFANT. Buste jusqu'aux genoux. Sur un banc est assise a droite une jeune femme en robe blanche et grand chapeau blanc avec garniture rose. Elle tient sur ses genoux un petit enfant. A gauche une seconde dame en robe blanche, chale et chapeau noirs. Signe: gibb. Anglais. Fin du Xvllle siecle. Sur ivoire. Petit cadre noir. Haut. 8, Larg.10,5 cm.
+- DOUZE BOUTONS. Fleurs, vases, emblemes, pigeons polychromes peints sur ivoire.
+- 1079 Fin du XVlille siecle.Diam. 3,5 cm.
+- 1080
+- DOUZE BOUTONS. Petits Amours peints en grisaille sur ivoire. Fin du XVIlle siecle. Diam.3,5 cm.
+- 1081
+- 1082
+- 1083
+- 1084
+- 1085
+- VENUS ET PSYCHE. Buste en robe blanche legere. Sur ivoire. Vers 180o. Cadre en laiton dore.Diam.7,5 cm.
+- VENUS ET AMOUR. Buste. Venus en manteau bleu donne un baiser a Amour. Sur ivoire. Rond. Vers 1800. Italien. Cadre or. Diam.7,5 cm.
+- GRANDE DAME. Buste en profil a gauche. Grisaille. Vers 180o. Sur ivoire. Ovale. Cadre noir. Haut.6,Larg. 5 cm.
+- RAPT DU CENTAURE. Un Centaure enleve une jeune fille. Grisaille sur parchemin. Vers 1800.Petit cadre noir.Diam.8 cm. PLANCHE 41.
+- JEUNE DAME. Buste a droite. En robe blanche decolletee, assise devant une epinette. Italien. Vers 1800. Sur ivoire. Petit cadre noir. Diam. 6,5 cm. PLANCHE 41.
+- 1086 VIE PASTORALE. Une vache blanche est traite par un Espagnol. Deux voyageurs donnent des coups de baton a l'animal. Sur ivoire. Vers1800. Petit cadre noir. Diam.5cm.
+- 1087 SAINTE FAMILLE. Madone avec Enfant, Saint Joseph et St. Jean lenfant. Rappelant
+- Raphael. Sur ivoire. Vers 1800. Petit cadre brun. Diam. 10,5 cm.
+- Vers 1800. Petit cadre brun. Diam.7,5 cm. PLANCHE 41.
+- 1090
+- BUSTE DE DAME JUSQU'AUX GENOUX. A droite. Assise devant la table de toilette. En robe verte, largement decolletee avec fichu a dentelles. Sur ivoire. Petit cadre bronze
+- 1089 SAINTE FAMILLE. Bustes. Sur ivoire. Petit cadre noir. Vers 1800. Diam.4,5 cm.
+- or.Ovale.Vers.1800.6,7:5cm.
+- 1091 LE DUC FRANCOIS IV DE MODENE ET SON EPOUSE M. BEATRICE. Bustes a droite, l'un a cote de l'autre. Le duc en uniforme blanc autrichien avec l'ordre de la Toison d'Or. la duchesse en robe blanche empire. Vers 1808-1810. Sur ivoire. Petit cadre noir. Diam.6,5 cm.
+- 1092
+- 1093 MADONE AVEC L'ENFANT.Buste. Signe: A.R. f.1817 (?). Sur ivoire. Petit cadre
+- VUE DE L'UNIVERSITE DE FERRARE. Rond. Huile sur toile. De G. Chitto, Ferrare. 1ere moitie du XIxe siecle. Petit cadre en bois. Diam. 7,5 cm.
+- bronze or. Ovale. Haut. 4,5. Larg. 3,5 cm.
+- Haut. 8,5, Larg. 5,5 cm.
+- 1094 LES QUATRE PERES LATINS DEL'EGLISE. Peinture sur laque. Petit cadre noir. Vers 1820.
+- 1095 HOMME D'AGE MOYEN. Buste a droite. En habit noir, gilet blanc et faux-col tres haut et tres large. Devant lui une dame. Vers 1830. Sur ivoire. Petit cadre en bois. Haut.4, Larg. 4 cm. PLANCHE 41.
+- 1096
+- JEUNE FEMME. Buste a gauche. En robe noire, fichu jaune et bonnet blanc. Vers 1830. Sur ivoire. Petit cadre noir. Diam. 5,5 cm.
+- 1097
+- 1098
+- 1099
+- BOURGEOIs. En habit noir et gilet jaune. Cheveux frises et favoris. Sur ivoire. Vers 1830.Diam.6 cm.
+- DAME. Buste a gauche. Robe noire et petit bonnet blanc. Vers 1830. Sur ivoire. Cadre argente a jour. Haut. 4, Larg. 3,5 cm.
+- DOME DE MILAN. Sur metal. Petit cadre en bois. Vers 183040. Diam. 5 cm.
+- Amusement de la noblesse polonaise. Aquarelle. Signe: 1841. En
+- 1100 J.KWIATKOWSKI. passepartout. Cadre bois.
+- 1101
+- FEROULT. Barque de mer italienne. Aquarelle. Signe. Cadre bois. Haut 24,5, Larg.17 cm.
+- 1102
+- 1103
+- CARICATURE. Une diligence avec un etranger qui peint et deux gros chiens entre au galop dans une ville italienne. Aquarelle. Vers 1820—30. Haut 19, Larg. 25 cm.
+- 12 CARICATURES. Vers 1840. Aquarelles. In 40.
+- 1104 13 CARICATURES. Vers 1840. Aquarelles.In 40.
+- 1105 BUSTE DE DAME. A gauche. En costume Renaissance. Sur ivoire. 5,5:7 cm.
+- 1106
+- OBELISQUE A ROME. Peint sur ivoire. Petit cadre argent dore. Haut. 3,5, Larg.2,5 cm,
+
+## Dessins.
+
+- 1107 ALBUM DE DESSINS A LA MAIN DE LA COLLECTION ARIGONI DE MILAN. 12I feuilles. La plupart sujets religieux. Entr'autres Lev. Peracino, grand nombre de Andr. Schiavone, Luca Cambiato, nomme Cangiaso,Haurat, Luini Antonio Correggio, Barozio,Fiammenghini
+- 1108 ADAM. Nu. D'apres AIb. Durer. XVIe siecle. Seiche. Haut. 18,5, Larg. 10 cm.
+- 1109 ECOLE VENITIENNE.Deux femmes. Dans un paysage. Sepia rehausse de blanc. XVIe siecle.Sous verre. Haut. 21,Larg. 30 cm.
+- 1110 DETAIL DE PLAFOND. Atlas avec deux petits enfants. xVle siecle. Sous verre. Haut.17,Larg. 11 cm.
+- 1111
+- DOMINICAIN AGENOUILLE. Dessin au crayon rouge. XVIIe siecle. Sous verre. Haut.12,5, Larg.9 cm.
+- 1112
+- 1113
+- GUERCINO (LE GUERCHIN). Paysage. Avec figures de louage. Seiche. Sous verre. Haut.23,5,Larg.30 cm.
+- GUERCINO (LE GUERCHIN). Paul Borromeus. A genoux devant le Saint Sacrement. Dessin a la sepia. Sous verre. Haut. 25, Larg. 20 cm.
+- UGO DA CARPI. Raphael et la Fornarina. Dessin a la plume, lave. Sous verre.
+- 1114 Haut.26,Larg.19,5 cm.
+- 1115 CAVALIER. Vu de derriere. XVIle siecle. Sepia. Haut. 18, Larg. 8,5 cm.
+- 1116 ALBUM DE PETITS DESSINS A LA MAIN. La plupart du XVIle siecle.
+- COLLECTIONS ASSEZ GRANDES DE DESSINS A LA MAIN. Etudes, esquisses, etc. 1117 la plupart religieuses. La plupart du XVille siecle.
+- 1118 ECOLE FRANCAISE. Deux scenes. Genre decoratif. xVIle siecle. In 4.
+- 1119 JEAN THEOPH. PRESTEL. Dessins des meilleurs peintres d'Italie, d'Allemagne et des Pays-Bas, tires de divers celebres cabinets. D'apres Alb. Durer, Schongauer, Ostade, Ad. van der Venne, Brosamer, Spranger, Vasari, Altdorfer, etc. 22 feuilles. Beaucoup proviennent du &amp;Museo Prauniano Norimb.&gt; 1780-81. Demi-veau.
+- 1120 DEUX BUSTES de princes de Varano. Tetes d'enfants. Vers 1790. Fol.
+- 1121 BUSTE DE RODOLFO VARANO.Petite tete d'enfant.Vers 1790. Haut.50 cm, Larg.35 cm.
+- 1122 LA FAMILLE DUCALE DE PARME. En haut au milieu:le duc (Ferdinand), a droite la duchesse Amelie,a gauche Louis, en bas Antoinette, Charlotte, Therese, epouse du roi d'Espagne. Signe au verso: Rosalba (?) ....fece 1792. Sur parchemin. Cadre
+- or.Haut.15,5,Larg.22 cm.
+- COMTE CHARLES CAPRARA. Gran giudicere del regno d'Italia 1797. Buste jusqu'aux
+- 1123 genoux a droite. Dessin au lavis. Cadre or. Haut. 23, Larg. 16,5 cm.
+- 1125
+- LUIGI SALLERO, FERRARE. 21 dessins a la plume d'apres des tableaux celebres de Titien, Raphael, Correge, Rubens etc. Imp.
+- 1126
+- EUG. ZAMACOIS. Domestique qui ecoute. Dessin en couleurs lave. Signe. En passepartout. Haut.26,Larg.28 cm.
+- 1127 BERN. CELENTANO, ne en 1835 a Naples, mort en 1863 a Rome. Couple d'amants. Costume rococo. S'embrassant dans un jardin. Cadre or.Signe:B Celentano 59. Haut.27, Larg.19 cm.
+- 1128
+- A. JOLY. Paysage. Avec ruines et troupeaux. Sepia lave. Signe. Sous verre. Haut.18, Larg. 24,5 cm.
+1129. L'ADORATION DES MAGES. Sepia au lavis. Sous verre. Haut. 32, Larg. 42,5 cm.
+- 1130
+- ENFANT SUR LE GLOBE. Sepia. Sous verre. Haut.12, Larg. 6,5 cm.
+- 1131
+- ENFANT ENDORMI. Sepia. Sous verre. Haut. 5, Larg. 6,5 cm.
+- 1132 Sous verre. Haut.30, Larg.21 cm.
+- 1133 GABRIELE SALUSTI DI CAMERINO. Il sacrificio di Abramo - L'Innocenza. En petits caracteres artistiques, tire de l'Ancien Testament et d'un poeme. Sous verre. Fol.
+
+## Gravures.
+
+- ALBUM DE GRAVURES. Lithographies, chromotypographies, photographies. Decoupures
+- 1134 XVIe XIxe siecles.
+- 1135
+- 1136
+- ADORATION DES MAGES. D'apres Lucas de Leyde 1513. Cadre or. In folio oblong.
+- 1137
+- 1138
+- SEPT FEUILLES, VUES DE VILLES. Panoramas de Venise, (deux feuilles), Brixen, Salzbourg, Montecassino. XVIle -xVIlle siecles. Formats differents. La plupart fol.
+- ALBUM D'ARMOIRIES BOLOGNAISES POUR APPROUVER DES LIVRES. Gravures sur bois de 1583 a 1880. Riche reliure maroquin or gaufre vers 1700. In 89.
+- TROIS BOiTES D'OPTIQUE de Versailles,Florence,Vienne.Coloriees a la main.Vers 1750. In-folio oblong.
+- 1139 CINQ VUES DE NAPLES ET ENVIRONS. 1759-1760. Imp. oblong
+- 1140
+- 1141
+- HUIT ETUDES ARCHITECTURALES DE BOLOGNE. Plans et elevations. XVIlle siecle. Fol.
+- 1142 DIX FEUILLES. Reproductions de differents tableaux. Italien. XVIlle siecle. Formats differents.
+- HISTOIRE DE NOE. 6 feuilles. Italien. XVIlle siecle.
+- 1143 21 PLANCHES avec ornements pour travaux sur marbre. Seconde moitie du XVIle siecle. Imp.
+- 1144
+- 1145
+- SERIE DE GRAVURES COLOREES A LA MAIN. Les quatre parties du monde. - Les quatre elements (L'air manque). — Les quatre heures du jour. — 2 scenes de la vie de l'enfant prodigue. Noe et larche. En tout 20 feuilles. Avec riches encadrements. Espagnol. Vers 1750-70. Imp.oblong.
+- SCENE MYTHOLOGIQUE. Un guerrier qui fait ses adieux. Gravure en couleurs sur soie. Fin du XVllle siecle. Vieux cadre or. Ovale. Haut. 12, Larg. 15 cm.
+- 1146
+- 1147
+- 1148
+- 1149
+- 7 FEUILLES CARICATURES de la societe genre Hogarth. Colorees a la main. Bord rogne. Anglais. Fin du XVllle siecle. In folio oblong.
+- AMOUR. Sur globe celeste. Gravure en couleurs. Francais. Fin du XVlle siecle. Bord rogne. Ovale. In 40.
+- QUATRE BATAILLES DE LA CAMPAGNE DE 1799. D'apres Luigi Frisoni Colorees a la main. In fol. oblong.
+- QUATRE FEUILLES. Allegories. Publish by A. Suntach. Ovales. In 4.
+- 1150 ALBUM AVEC NOMBREUSES GRAVURES ET DESSINS A LA MAIN. La plupart vers 1800.
+- 1151 5 FEUILLES DIVERSES. Illustrations et portraits. lere moitie du XIXe siecle. Imp.
+- 1152
+- VINGT GRAVURES SUR ACIER. Differentes scenes tirees  de journaux illustres.
+- 1ere moitie du XiXe siecle. In 40.
+- 1153 9 PORTRAITS. Avant lettre et epreuve. XVIle siecle. In 40.
+- 1154 CINQ PORTRAITS DE FEMMES. XVIlle et XIXe siecles. In 4 et fol.
+- 1155 17 PORTRAITS D'ARTISTES. XVIlle et XIXe siecles. In 4 et fol.
+- 1156
+- 29 PORTRAITS d'ecrivains, poetes, prelats et savants. XVIlle et XIXe siecles. In 4° et fol.
+- 1157 30 PORTRAITS DE PRINCES. XVIHe et XIXe siecles. La plupart fol.
+- 1158 22 PORTRAITS d'Italiens celebres. XVIle et XIXe siecles. La plupart in 40.
+- 1159 15 PORTRAITS d'hommes et de Ferrarais celebres. 1ere moitie du XIXe siecle. Lithographies.
+- La plupart fol.
+- PORTRAITS DE CHANTEURS ET DE CANTATRICES.La plupart lithographies. 1ere moitie du XIXe siecle.In 4 et fol.
+- 1160
+- 1161
+- 83 PORTRAITS D'ITALIENS CELEBRES d'epoques diverses. De diferents graveurs. Vers 1820.In 40.
+- 1162 GRAVURES DE MODES. Tirées des 《Ladies Magazine&gt; 1821—1829-1830, 1844-48,
+- 1850-52. 322 planches.
+- 1163 TROIS FEUILLES POLITIQUES SATIRIQUES. Lithographies en couleurs. Vers 1840. In 40.
+- 1164
+- 5 FEUILLES CARICATURES. Principalement lithographies francaises. Vers 1840.
+- 1165 290 PORTRAITS d'Italiens celebres contemporains. Gravures sur bois. Vers. 1850. In 40.
+- 1166
+- HUIT FEUILLES. Reproductions diverses. La plupart imp.
+- 1167 3 GRAVURES DIVERSES.
+- 1168
+- CRISTOFORO DALL'ACQUA. Dix vues de Verone.In fol. oblong.
+- 1169 F.AMBROSI.Saint Jean L'enfant Jesus. D'apres Gu. Reni.Ovales.1797 par A Suntach.Fol.
+- 1170 L. BARTOLOZZI. Cing feuilles mythologiques. Grandeurs differentes.
+- 1171 BARTOLOZZI. Ceres. Ovale. Sous verre. In 40.
+- 1172 HUIT PORTRAITS. Par Bartolozzi. Longhi, etc. In 4 et fol.
+- 1173 BARTOLOzZi. Couple d'amants. Un jeune homme ecrit son nom dans un tronc d'arbre; a cote de lui une dame et un chien. Avant-lettre. Tres bonne epreuve. Sous verre. In 4.
+- 1174
+- BARTOLOZZI. Chez le pharmacien. P. Longhi pin. F. Bartolozzi incid. appo Wagner. Encadre.Fol.
+- 1175
+- F. BARTOLOZZI. Bergers en adoration. D'apres Le Guerchin. Sous verre. Bonne epreuve. In-fol. oblong.
+- 1175a L. ET J. BASOLI. Huit vues de Bologne. 1829-31. D'apres A. Basoli. Serie incomplete. Feuilles aquatinta. In fol. oblong.
+- 1176
+- HANS SEBALD BEHAM. Saint Christophore. Sur la main droite un modele d'eglise. Dans un paysage. Signe 152. Bord rogne. Petit cadre bois. In 80.
+- 1177
+- ETIENNE DELLA BELLA. Quatre feuilles.2 feuilles Livourne, comparsa del' Ser. Principe di Toscana. Adoration du Saint-Sacrement. En partie bien conservees. In fol. oblong.
+- 1178
+- 1179
+- 1180
+- SECOND. BIANCHl. 8ix gravures de basiliques romaines. D'apres Corazzan. Imp.
+- BIBIENA. Six feuilles. Fantaisies architecturales. Imp.oblong.
+- JEAN-JACQUES DE BOISSIEN. Le mattre d'ecole avec ses enfants. Eau-forte. Signee: D B lige 1780. In Fol. oblong.
+- 1181 DOM. BONATTI E. A. 25 vues de Verone et environs. Apres C. Bissol e.a. Aquatinta. Fol.
+- 1182
+- DOM. BONATTI. Huit feuilles d'apres Luino et Trocaccini. Aquarelata (ou aquatinta). Grand fol.
+- 1183
+- 1184
+- JEAN-BAPTISTE BRUSTOLON. 1l vues de Venise. Colorees a la main. D'apres Ant. Canal. Le numero I de la serie manque. Imp. oblong.
+- P.DE COLLE. Quatre feuilles. Abailard et Heloise. — Etoiles.—Voyage sentimental. Ovales.D'apres Angel. Kaufmann.In 40.
+- 1185 THEOD. CRUGER. 14 feuilles d'apres des tableaux de Andr. Sarto, Fram. Bigio 1618. In fol. oblong.
+- 1186
+- DEBUCOURT. L'eclipse. La Comete. 2 tetes de femmes. Gravure en couleurs. Bons exemplaires. Sous verre. In 40.
+- 1187 ECOLE ALLEMANDE (?). Le Christ ressuscite Lazare. D'apres le tableau de Benv. Garofalo 1537. Sous verre. xVIe siecle. In 40.
+- 1188 ALB. DURER. La promenade. B. 94. Sans marge. Cadre brun. In 80.
+- 1189 ALB. DURER. L'enfant prodigue. Au milieu des pourceaux. B. 28. Bord rogne. Repare. Cadre or. In 40.
+- 1190
+- GABRIELI. Les douze mois. D'apres Hamilton. Avec vers d'Ovide. (Le mois de janvier manque. Onze feuilles.) Ovales. Bonnes epreuves. Fol.
+- 1611
+- 1192
+- 1193
+- JEAN-BAPTISTE GALLI. 12 portraits. In 40.
+- F. GODEFROY. John Malcolm — William Tel. Bonnes epreuves. In 4.
+- 1194 KIRK. Water. Nymphe sur coquille. Gravure en couleurs. Designed &amp; engraved by Kirk. Ovale. Sous verre. Tres bonne epreuve. In 4.
+- J.E. HAID. Trois portraits. Carles, Ludke, Nicolai. Aquatinta. In 4.
+- 1195 C. LAMBERTINI. 2 Batailles d'apres Bourguigner et Salv. Rosa. Gravure sur acier.
+- 1196
+- In fol. oblong.
+- LUCAS DE LEYDE. Adam et Eve. Assis sous l'arbre. B. 3. Monogramme. Bord rogne. Petit cadre bois. In 80.
+- ECOLE DE LIVIZZANI. Silhouette. Achille Morelli. Episode tire des guerres de PIn-
+- 1198 ECOLE DE LIVIZZANI. Ugo Bassi. Etendu sur le sarcophage. Sous verre. Comme
+- 1199
+- 1200
+- TOB. CONR. LOTTER. Colossus Monarchicus. Statue de Daniel. Grande feuille; en partie coloree a la main. Rognee.
+- 1201 MARIA MERLO. Six estampes d'apres Raphael. Sujets empruntes aux stances. Fol.
+- 1202 RAPH. MORGHEN. 3 feuilles. 2 portraits et Saint Jean d'apres L. de Vinci In 4.
+- 1203 AD. VAN OSTADE. La chanteuse. Dans une auberge sont assis deux hommes et une femme autour d'une table; ils chantent et jouent du violon. Monogramme. B. 30. Bord rogne. Cadre noir. In 80.
+- 1204
+- A.V. OSTADE. Le peintre. Avec dicton latin. Signe. B. 32. Bord rogne. Cadre bois noir. In 40.
+- 1205 F. PEDRO. Nymphs bathing. — Nymphs after bathing. D'apres Cipriani. Ovale. Fol.
+- 1206 PERELLE. Deux paysages. Ovales. In 4.
+
+JEAN FREDERIC PROBST. 12 feuilles, proverbes illustres. (Nos V--XXI) Bonnes
+
+- 1207 epreuves. In 40.
+- 1208 ROSASPINA. Six vues de Ferrare. Imp. oblong.
+- 1209
+- J. ROSASPINA. 7 portraits d'hommes celebres. In 4 et fol.
+- 1210 ROSASPINA. L'esule di Luigi Paradise. Premiere epreuve non achevee. Fol.
+- 1211 ROSASPINA. Six feuilles genre religieux et mythologiques. Fol.
+- 1212
+- ROSASPINA. Turc. Buste. Adr.van der Werf pin.F. Rosaspina f. Aqua-tinta. Sous verre. Bord rogne. In 40.
+- 1197 dependance italienne. Decoupee dans papier noir. Haut. 31, Larg. 24,5 cm.
+- le numero precedent.Haut.26,Larg. 19 cm.
+- 6 BUSTES ANTIQUES d’apres Jos. Longhi. In 40.
+- 1213 MARCO SADELER. Les douze mois. Avec frontispice 1607. D'apres T. Stephani. Bonnes epreuves. Fol.
+- MARCO SADELER. Les quatre saisons. Quatre feuilles d'apres T. Stephani et Eg.
+- 1214 Sadeler 1620. Bonnes épreuves. Fol.
+- 1215 MARCO SADELER.17 portraits d'empereurs et imperatrices romains.1 Bord rogne.
+- D'apres le Titien, sculptes par Aegid. Sadeler: In 49.
+- 1216 L. SIGURTA. Venus endormie. Guido Reni inv.L. Sigurta delin. et sculp. Cadre noir.
+- In fol. oblong.
+- 1217 SUNTACH. Quatre feuilles. The enchanted lady —Fidele Tomb - Ostorius, Cartismandua et Caractacus - Edouard Ill et Jean de France. D'apres Harding, Cipriani, Rigaud. Quelques taches. Fol.
+- 1218 SUNTACH. Huit feuilles. La Protection - La Terreur -La Fuite —La Victorie La Reflexion - La Consolation —— L'Appel — L'Alarme. D'apres Tho. Stothand. Ovales. 1793.Fol.
+- 1219 Deux feuilles. Nymphes du bin.-La tempeste. Apres J. B. Cipriani
+- SUNTACH. Ovale. Fol.
+- 1220 SUNTACH. 5 feuilles. Trois idylliques-sentimentales et deux mythologiques. In 4 et fol.
+- Quatre scenes de la mythologie de Venus. D'apres Cipriani. Ovales.
+- 1221 SUNTACH. Bonnes epreuves. Fol.
+- Quatre femmes allegoriques. D'apres G. B. Cipriani. Ovales et rondes.
+- 1222 SUNTACH. Bonnes epreuves. In 40.
+- 1223 SUNTACH. Quatre estampes. Deluge d'apres Raphael. Bonnes epreuves. In fol. oblong.
+- 1224 SUNTACH. Le maitre d'ecole severe. La Maitresse d'ecole indulgente. Bonnes epreuves. 4.
+- 1225
+- SUNTACH. Quatre couples d'amants. Henry et Emma (2). Palemon et Lavinia (2). Ovales. Banes epreuves. Fol.
+- 1226
+- SUNTACH. Huit panoramas de ports hollandais. Rotterdam, Schiedam, Vlaardinge, Delft, Flessingue, Rametres, Brouwers, Haven. 1786. Bonnes epreuves. In 40.
+- SUNTACH. Huit panoramas de ports de mer. Anvers, Strassbourg, Niewport, Livourne (4).
+- 1227 Ovales. Bonnes epreuves.In 40.
+- 1228 SUNTACH. Trois enfants d'apres W. Hamilton.Ronds. In 40.
+- 1229 LUIGI TADOLINI. Etudes de tete d'apres Gaet. Gandolfi. Bord en partie rogne. In 4.
+- 1230 G. TOMBA. Studio di Francesco Rosaspina. F. Giani dis. In-fol. oblong.
+- 1231
+- P.ZANCON. Annette -Lubin. Ovales. Pendants. D'apres Thom.Gangain. Bonnes epreuves. Quelques taches. Fol.
+- 1232
+- VEDOVATO, ZECCHI. Quatre portraits de genre. Publish by Suntach. Fol.
+- 1233 A. ZECHIN. Bacchante. Sous verre.In 40.
+- 1234 AUG. ZAFFONATI. Quatre estampes de rliade. D'apres Hamilton. Quelques taches.
+- In-fol. oblong.
+- 1235 A. ZAFFONATO. L'origine de la Peinture.—Le progres de la Peinture. Ovales. D'apres J. Bartolozzi. 1792. Bonnes épreuves. In 40.
+- 1236
+- et Bacchus d’apres Le Tintoret. Ovales. 1798 par A. Suntach. Bonnes epreuves. In 40.
+- 1238
+
+## Cartes a jouer.
+
+- Raballo Barone Gio de Baillon. Aniello Lamberti inc. 97 cartes. Complet. Etui cuir gaufre or. Vers 1750.
+- Complet. Etui cuir gaufre. xvllle siecle.
+- CARTES A JOUER. Minchiate de Florence. 17 cartes manquent. En couleurs. Sur le dos: homme et Poverino. xvllle siecle.
+- 1239 GIUOCO STORICO DI CARTE. Storia dellantico testamento. 48 cartes. Vers 1801.
+- CARTES A JOUER. Minchiate de Florence. Une carte manque. En couleurs. Sur le
+- CARTES A JOUER. Minchiate de Florence. Complet. En couleurs. Sur le dos homme assis et Etruria. xVllle siecle.
+- 1240
+- 1241 dos blason de Toscane et Poverone. xvllle siecle.
+- 1242
+- 1243
+- CARTES A JOUER. Incomplet. Minchiate de Florence. Provenant de plusieurs jeux reunis. xVllle siecle.
+- 1244
+- 1245 CARTES A JOUER. Minchiate de Florence. Incomplet. En couleurs. Sur le dos portrait dans medaillon et Firenze. xvlle siecle.
+- 1247
+- CARTES A JOUER. Minchiate de Florence. Complet. En couleurs. Sur le dos: ornement. xVllle siecle.
+- CARTES A JOUER. Minchiate de Florence. Incomplet. En couleurs. Sur le dos: orne-
+- CARTES A JOUER. Minchiate de Florence. Incomplet.77 cartes. En couleurs. Sur le dos ornement. xvllle siecle.
+- 1246 ment et Poverone. xvllle siecle.
+- 1248 CARTEs A JOUER. Minchiate de Florence. Dos: Turc avec faucon et all'sorte. En couleurs. Complet. XVllle siecle. Dans etui en carton.
+- 1249 CARTES A JOUER. Minchiate de Florence.I Dos: jeune homme et All'sorte. couleurs.
+- 1250
+- En Complet. XVille siecle. Dans etui en carton.
+- 1251 CARTES A JOUER. Minchiate de Florence. Complet. En couleurs. XVIlle siecle.
+- CARTES A JOUER. Minchiate de Florence. Complet. En couleurs. Sur le dos: tete de guerrier et Etruria. xVlle siecle.
+- 1252
+- CARTES A JOUER. Minchiate de Florence. Complet. En couleurs. Sur le dos: Poverone et blason de Toscane. XVllle siecle.
+- 1253 CARTES A JOUER.Minchiate de Florence. Incomplet. Avec la marque de fabrique:
+- 1254 CARTES A JOUER. Minchiate de Florence. XVIlle siecle. En couleurs. 97 cartes. Complet.
+- Franco Fabo Imo et armoiries. XVlle siecle.
+- 1255 CARTES A JOUER. Minchiate de Florence. Jeu de famille des Bentivoglio. Sur le dos
+- 1256 CARTES A JOUER. Minchiate de Florence En couleurs. Commenc. du XIXe siecle. Complet.
+- monogramme et annee MDCCCIll. 4 mori in luogo di altri 4 figure. En couleurs.
+- 1257 CARTES A JoUER. Jeu de coucou. Complet. Sur une carte: Nuovo ediletevole
+- 1258
+- 1259 CARTES A JOUER. Avec arimoiries d'Etats et de princes. Frangais. XVIle siecle. Complet.
+- giuoco del chuchu ogiuvoco del Matto in Bologna all insegna dell Aquila. En couleurs. XVllle siecle.
+- CARTES A JOUER. Avec armoiries d'Etats et de princes. Francais. XVIlle siecle. Complet.
+- 1260
+- CARTES A JOUER. Francais. Avec reproductions humoristiques et romantiques. En partie coloriees. Vers 1820. L'as de coeur manque.
+- 1261 CARTES A JOUER. Francais. Transparent-pornograph. XIXe siecle.
+- 1262
+- CARTES A JOUER. Faba di Gumppenberg Milan C. Dellarocca inc. En couleurs. 52 cartes. Complet. Dans etui en carton.
+- 1263 Arghinenti. Complet. En couleurs. XVlle siecle.
+- 1264 CARTES A JOUER. Tarots.Complet. En couleurs. XVIlle siecle.
+- 1265 berg. Commenc. du XIXe siecle.
+- 1266 CARTES A JOUER. Cartes francaises. Coeurs, carreaux, piques et trefles. Avec motifs sentimentaux,heroiques, neerlandais et anglo-gothiques. En partie coloriees.A Tubinge chez J. G. Cotta,Libraire.Vers 1800.Complet. Etui en carton.
+
+## Ouvrages avec gravures.
+
+- 1267 BENOIST ANDRAN. L'histoire des actions extraordinaires de Samson. D'apres Francois Verdier. 1698. 40 planches. Titre endommage. Reliure carton. Autrement bien conserve. In 40 oblong.
+- 1268 LAURENTIUS BEGERUS. Hercules ethnicorum ex varis antiquitatum reliquiis delineatus et additis in fine modernis quibusdam eiusdem generis picturis. 1705. Avec 38 planches
+- d'estampes. Reliure en etoffe. Fol.
+- 1269 BENJAMIN. Chemin de la posterite. 3 Albums Leporelle. Caricatures d'ecrivains, d'acteurs, de chanteurs. Lithographies. Bien conserves. Relies. In 4.
+- 1270
+- PIETRO BETTELLI. Teatro delle citta d'Italia,Vicena 1616. Avec de nombreuses gravures sur bois. Reliure carton. Bon exemplaire. In 4 oblong.
+- 1271
+- F.BOGGl. Album di 55 ritratti di scienziati intervenuti al primo congresso in Pisa nell'ottobre 1839. Lithographies. Reliure carton. In 40.
+- BENIGNO BOSSI. Mascarade a la grecque. Parme MDCCLXXI. Avec d'autres estampes
+- 1272 collees dedans. Fol.
+- 1273
+- FERD. CANONICI. L'antica Certosa di Ferrara. Bologna. 1851. Imp.
+- 1274
+- GIO. BATT. CIPRIANI. Raccolta di Numo 320 Vedute si antiche che moderne della Citta di Roma e di alcuni luoghi suburbani. Incise a bulino in No 8O rame. A Rome. 80 feuilles avec titre. Broche. Bon exemplaire. In 4o oblong.
+- 1275
+- MARCANTI CHIARINI. Piante con suoi alzati, profili e notizie delle origine delacque che servono al pubblico fonte della piazza maggiore della citta di Bologna. Bologna MDCCLXIII. Fol.
+- 1276
+- GAETANO COTTAFARI. Raccolta di costumi di Roma e dei contorni lanno 1828. 30 planches. Broche. Bon exemplaire. In 8o.
+- 1277 C.COTTAFARI. Raccolta di Briganti dello Stato Romano. Disegnati da B. Pinelli. 16 feuilles et titre. Complet. Bien conserve. Fol.
+- M. DUPONT-AUBERVILLE.L'ornement des tissus.Recueil historique et pratique avec des notes explicatives et une instruction generale.Paris 1877. Avec cent planches en
+- 1278 couleur, or et argent, carton de ledit, toile et or. Fol.
+- 1279 FRANCESCHINI ET ROMAGNOLI. Vedute principali del talia. Bologna 1836 (Gio. Zecchi). 100 feuilles. Exemplaire complet. Reliure carton. Bon exemplaire. In 4 oblong.
+- 1280
+- 1281 C. GASPARI. Quaranta quadri fra piu celebri della scuola Venetiana. Venezia, s. a. Bien conserve. Relie. Grand imp.
+- GIACOMO FRANCO. Le Metamorfosi di Ovidio. Ridotte da Gio Andrea dell Anguillara in ottava rima con le annotationi di M. Giuseppe Horologgi e gli argumenti e postille di M. Francesco Turchi, Bern. Giunti, Venetis MDLXXXIV.15 feuilles avec frontispice. En peau de cochon. Bon exemplaire. Fol.
+- 1282 CARLO LABRUZZI. Figure originale. 14 feuilles, chacune avec deux gravures. Relie. In 40.
+- 1283 D.LANDINI. No. 18 Vedute delle Principali fabbriche del Milanese. D'apres Giac. Bossi,
+- 1284
+- CARLO LASINIO. Logge del Vaticano. Huit feuilles avec titre. Quelques feuilles en double. Bien conserve. Imp.
+- 1285
+- 1286
+- Milan. 18 feuilles aqua-tinta. Avec titre. Broche. In 40 oblong.
+- JACOBUS LAURUS ROMANUS. Antiquae urbis splendor Romae MDCXIl. 76 feuilles. Relie en peau de cochon. In 40.
+- EDOUARD LIEVRE. Les collections celebres d'euvres d'art dessinees et gravees d'apres les originaux. Paris 1866. Avec cinquante planches d'estampes. Reliure rouge. Fol.
+- 1287 Dimostrazione del progetto del Cav. architetto Nicolo Mathas per compiere colla facciata
+- l'insigne basilica di S. Maria del Fiore metropolitana della citta di Firenze. MDCCCXLIl. Fol.
+- 1288 48 ESQUISSES DE PLAFONDs. Avec grotesques et peintures, avec glorifications de l'histoire de Florence. D'apres Joseph Menabuoni. Par differents graveurs: Papini,
+- Franceschini, Gregori, Zocchi, etc. Tres bien conservees. Fol.
+- 1289
+- GIOV. MILTON. ll paradiso perduto. Traduzione di An drea Maffei con illustrationi di Gust avo Doré. Milano-Paris. Avec 50 gravures sur bois. Reliure en calicot. Fol.
+- 1290
+- L'AMICO,PORTA, BASILETTI, PECE. Vedute di Paese nelle adiacenze di Roma.25 feuilles avec dessins sepia au lavis. En reliure cuir brun or gaufre. Fol. oblong.
+- 1291 et avant-propos. Fol. oblong.
+- 1292 J.A. PFEFFEL. Zodiacus Festorum Marianorum. Decoupures d'un livre collees. Reliure
+- maroquin brun or gaufre du Xville siecle. In 8o.
+- 1293 BART. PINELLI ROMANO. Raccolta di costumi pittoreschi incisi all aqua forte, Roma 1809. 43 feuilles.Reliure carton. Fol. oblong.
+- 1294
+- GIAMBATT. PIRANESI. Diverse maniere d'adornare i cammini ed ogni altra parte degli edifizi desunte dall architettura egizia, etrusca e greca. Roma MDCCLXIX. Avec onze planches. Les autres manquent. Imp.
+- GIOV. PIVIDOR. Sulla Cattredale di Ferrara cennostorico e studii d'arte di Ferd. Canonici
+- 1295 con litografie di Giov.Pividor. Venezia MDCCCXLV. Imp.
+- 1296
+- JOH. SADELER. Adam et Eve sous l'arbre de la science. (In Adam omnes moriuntur) Joan Sadeler sculpsit &amp; exc. Mertin de vos inventor 1579. Bord rogne. Cadre noir. In 4.
+- HISTOIRE GENERALE DES VOYAGES ou nouvelle collection de toutes les relations de voyages par mer et par terre .... Les figures et les cartes ont ete gravees par et sous la direction de J. van der Schley, eleve distingue du celebre Picart le Romain. A la Haye 1747. 16 volumes reliure veau or gaufre. Avec de nombreuses gravures et
+- 1297 cartes. Tres bien conserves. In 40.
+- 1298 FRANCESCO ANT. SIMONINI. Scielta di Battaglie inventate, disegnate da Fr. A. S.e da altri celebri autori per uso de pittori e dilettanti ... Bologna MDCCLX. 33 feuilles.
+- Avec titre. Complet. Broche. Bon exemplaire. In 4o oblong.
+- NUOVI UNIFORMI DEI CAVALIERI DI SAN STEFANO. Firenze. Avec 4 feuilles. Vers 1800.Fol.
+- 1299
+- 1300 FILIPPO THOMASSINO FRANCESE. Misteri della sacratissima passione morte e risurrettione
+- di N. S. Giesu Christo. 1594. 20 feuilles. Broche. In-40.
+- GAET. VASCELLINI. Atlante di fasti di P. Pio Vll. 2O feuilles d'apres Angiolo Volpini.
+- 1301 Reliure carton. Bon exemplaire. Fol. oblong.
+- 1302 VOLUME avec differentes gravures collees. Vers 1800.
+- 1303 LIVRE DE PRIERES CATHOLIQUE. Allemand. Avec calendrier (23 fol. non numerotes) catechisme catholique. Avec 27 gravures sur bois, scenes de la vie du Christ, une avec le monogramme MG = Mathée Gerung de Nordlingen (cfr. Nagler IV, No. 1824), une seconde avec le monogramme BP.= un maitre de Dillingen en Baviere (cfr. Nagler, Les monogrammistes I, No.1992),(1 fol. et 72 estampes numerotees.) Beaux filets en gravure sur bois: ornements de pilastres, anges, animaux. Imprime sur parchemin. D'un cote l'annee 1560. En cuir, avec coins en cuivre jaune In-80.
+- Opere dei grandi concorsi premiate dall R.Academia di Belle Arti in Milano per le classi
+- 1304 di architettura, figura et ornato. Milano MDCCCXXIV. Fol.
+- 1305 GAETANO CANUTI. Pitture antiche nella sopressa chiesa di S. Cecilia. 1o lithographies 1829.Fol.
+- 1306 RITRATTI DI UOMINI ILLUSTRI. 96 portraits-medaillons d'artistes, savants, poetes, etc.
+- italiens. xVIlle siecle. Broche.In-80.
+- 1307 RETTRATO DI PERSONAGGI STORICI. Medaillons ronds taille en epargne. Vers 1793
+- Les estampes de G. Sardi, Fontanella, Minatelli, Colombo, del Pian, Grechi. Personnalites francaises et anglaises du temps de la Revolution. 54 feuilles. Broche. Bon exemplaire. In-4.
+- nibus expressum excellentissimorum in hac arte vivorum opera nunc primum in lucem Gerardi de Jode Anno 1585.D'apres Sadeler, Bol, etc.214 fol.(une estampe manque). - Thesaurus novi testamenti, ainsi que les cing sens, les mois,
+- 1308 editus, Antverpiae. les parties du monde, etc. 154 feuilles. En peau de cochon.
+- 1309
+- L'UNIVERS OU LES 300 VUES LES PLUS PITTORESQUES DU GLOBE. Premier volume (Planches I-LIV). Paris, lInstitut Bibliographique. Gravures sur acier. Reliure en carton. In-40oblong.
+- 1310 VOYAGE EN ITALIE. Atlante. Neuf tomes en un volume. Vers 1780. 35 estampes.
+- Paris. Reliure carton.Fol.
+
+## Manuscrits et Livres.
+
+- 1311 ANTIPHONAIRE. Manuscrit sur parchemin. Minuscules gothiques. Lettres ornees en or, bleu et rouge, ainsi que les notes. Avec une miniature: Fuite en Egypte. 192 feuilles. XVIe siecle. Neerlandais. Relie en peau de cochon. Haut. 8, Larg. 6 cm.
+- 1312
+- BREVIARIUM. Manuscrit sur parchemin. Minuscules gothiques. Lettres ornees en bleu et rouge. Aux commencements des chapitres, riches bordures a rinceaux: fleurs, vases en bleu, rouge, vert et or. Avec une miniature: Le Roi David et un blason: Tete de chien sur fond or. 338 feuilles. Rogne en haut et sur les cotes. XVe siecle. Neerlandais. Reliure veau brun, gaufre or du XVlle siecle. Haut. 10,7, Larg. 7,5 cm.
+- 1313 OFFICIUM BEATAE MARIAE VIRGINIS. Secundum curiam Romanam. Manuscrit sur parchemin. Minuscules gothiques. Lettres ornees en or, bleu et rouge, en partie avec miniatures de saints. p. ia. za. scrip. 374 pages. Italien. XVe siecle. Reliure velours rouge, posterieure. Haut.11,5, Larg. 8,5 cm.
+- 1314 HORAE. Manuscrit sur parchemin. Minuscules gothiques. Avec riches rebords a fleurs en or, rouge minium, vert, bleu, lilas ainsi que miniatures aux commencements des chapitres. 13 miniatures en couleurs riches avec or:1. Descente du Saint-Esprit, 2.Homme accable de douleur,3. Marie in hortum clausum,4. Annonciation, 5.Arrestation du Christ, 6. Le Christ devant Caiphe, 7. Flagellation, 8. Le Christ et les femmes, 9.Le Christ sur la croix, 10. Descente de croix, 11. Couronnement de Marie, 12. Le Christ comme juge des mondes, 13. Vigile des morts. 1i2 feuilles. Commenc. du XVe siecle. Neerlandais. Reliure maroquin brun, gaufree or du XVllle siecle. Haut. 20, Larg. 14 cm.
+- 1315 HORAE. Manuscrit sur parchemin. Minuscules gothiques. Avec lettres richement ornees en or, bleu et rouge ainsi que rebords a rinceaux a fleurs aux commencements des chapitres. 4 miniatures en gris et or: 1. Descente du Saint-Esprit, 2. Madone avec anges, 3. Descente de croix, 4. Vigile des morts. Nombreux saints polychromes dans lettres ornees. 201 feuilles et 2 ajoutees. Flamand. Vers 1450-70. Reliure veau brun, gaufree or et fermoirs en cuivre jaune du XVle siecle. Appartenait vers 1560 a Mademoiselle Anthoenne de Sainct Joeyre, present de Pierre Perron secretayre duche. Haut.14, Larg. 10 cm.
+- 1316 BREVIARIUM. Manuscrit sur parchemin du XVe siecle. Minuscules gothiques. Rebords en couleurs, peints a une epoque posterieure avec vegetaux, fleurs, animaux, emblemes et symboles. Un portrait-miniature de Saint Martin. 154 feuilles. Italien. Haut. 19, Larg.13 cm.
+- 1317 Musculorum humani corporis picturata dissectio per Johannem Bapt. Cana num Ferrariensem medicum in Bartholomei Nigrisoli Ferrarensis patriti gratiam, nunc primum in lucem
+- edita. Copie rare de l'original de lan 176l. Manuscrit sur papier. Reliure peau de cochon.
+- 1318
+- ERMENGILDO PINI, CARLO AMORETTI, CESARE BECCARIA. Relazioni e istruzioni sulla preparazione della Torba. Scritti originali autografi. Manuscrit sur papier. Reliure en carton. Fol.
+- 1319 DOCUMENTO ARALDICO SPAGNUOLO. DON JUAN ALPHONSO DE GUERRA Y SANDOVAL, Cavaliero de l'ordere de San Jago anno 1723. Manuscrit espagnol. Avec miniatures:
+- armoiries. Manuscrit sur papier. Broche. In 40.
+- VINCENTll BELLINI Ferrariensis, De Monetis Italiae medii aevi. 3 tomes. Ferrariae. lle tome (1767), Ile tome (1774), IVe (1779). Parchemin. Avec de nombreuses planches. In 4.
+- 1320
+- 1321 Giornaletto galante per gentil sesso per l'anno 1829 et 1835. Milano. In-douze. Dans l'enveloppe originale. Avec gravures en couleurs.
+- 1322 ALMANACH DE PEINTURE. Premiere annee. Florence. 1792. Avec douze gravures.
+- Reliure en carton. In 160.
+- 1323 LE SOUVENIR DES DAMES. Paris. Avec gravures. Reliure en cuir rouge avec enveloppe originale. Vers 1780-90.
+- 1324
+- LE LUTH FRANCAIS. Almanach lyrique. Dedie aux dames. Paris. Avec gravures et notes de musique. Reliure rose et enveloppe original.
+1325. ALMANACO ED EFFEMERIDI.Per l'anno MDCCLXXXX. Anno terzo. Venezia. Reliure en carton. In 160.
+- 1326 MISSALE ROMANUM.Venetis.MDCLVI.Apud Cieras. Reliure maroquin rouge, gaufre or de la meme epoque. Avec quelques gravures. Gr. fol.
+- 1327 PETRI BEMBl. Epistolarum Leonis decimi pontificis max. nomine scriptarum libri sexdecim ad Paulum tertium Pont. Max. Romam missi. Venetis ab Joan. Patavino et Venturino Rossinellis 1535. Avec une inscription de deux lignes de Ludovico Ariosto sur la premiere page du livre: Messer Ludovico hauti perse stesso.bolgnini 171/2, che Josepho li ha spesi per lui. 24 autres lignes de texte de Orazio Ariosto.
+- Reliure demi-parchemin. Fol.
+- 1328 GIOV. BATTISTA PIGNA. Gli Heroici. A donno Alfonso da Este Il, duca di Ferrara V. In vinegia appresso Gabriel Giolito de Ferrari. MDLXl. Legerement rogne. Relie en parchemin.In 40.
+- 1328a GIO. ANTONIO SFORZA. Famiglie Padovane. 1798. Manuscrit sur papier. 96 pages. Reliure en carton. In 40.
+
+## Autographes.
+
+- 1329 LETTERE ORIGINALI DE EUGENIO DI SAVOYA 1707-1725. Avec un texte imprimé de Damiano Muoni. Avec plusieurs portraits graves. 30 lettres, la plupart d'une page,
+- en partie autographes,en partie signees. Demi-veau.
+- ALBUM DE CARTES DE VISITE ET D'INVITATION de la diplomatie et de la noblesse
+- 1330 francaise. Vers 1860-70.
+- 1331
+- TROIS VOLUMES D'AUTOGRAPHES,ETC.PROVENANT DUCOMTE ALFRED LUTTEROTH. Programmes, menus, cartes d'invitation, de visite. La plupart de 1860 a 1870 et de la fin du Xixe siecle,a Londres, Rome, Paris. Noms connus de la noblesse de ces pays. Environ 1100 pieces.
+- 1332 LIVRE DES VOYAGEURS. His royal Highness. The Count of Syracuse. Visitors Book 1848. Inscriptions du prince Freder. Guill. de Hesse, du prince George de Cambridge, de Lord Palmerston, d'Horace Marryat, de la Comtesse de Montijo, etc. Reliure cuir brun, gaufre or. In 40.
+- (L. a. s. = Lettre autographique signee; L. s. = Lettre signee; Doc. s. = Document signee;
+- P.a.=Piece autographe;p.=page.)
+- AMARl, MICHELE, celebre historien,ministre de linstruction publique, 18061889. L.a. s.1p.40.14 Févr.1886.
+- 1333
+- 1334 ARIOSTO,LODOVICO,le celebre poete italien,14741533.P.a.4 p.8.Du Dialogue de la comedie la Cassaria."(1508) Act I. sc.1.vers 38-75,2e sc. vers.17-54.De la vente J.Manzoni (voir catalogue 1894 no 44).
+- 1335
+- Piece d’une grande rarete.
+- ARIOSTO, LODOVICO,heritier et petit-fils du poete ceiebre.L.a.1p.4.Lettre adressee au cardinal Bevilacqui 2 avril 1610.
+- 1336
+- 1337
+- ARRIVABENE, GIOV., senateur de Mantoue et patriote italien 1789-1881.L.a. s. 2p.40. 3aout 1813.
+- BATACCHI DOM.,poete italien, 17401802.L.a.s.3p.40.Livorno,3 oct.1798.
+- 1338 BOITO ARRIGO, compositeur celebre, auteur du ,Mefistofele, ne a Padoue 1842. L, a. s. 2p.9 oct. s.a.80.
+- Verone 8
+- 1339 BONAPARTE NAPOLEONE, general en chef de larmee francaise d'Italie. brum. de l'an 4.(1796) Doc. s.40. Au Commissaire ordonnateur en chef.
+- 1340
+- BORGIA LUCRETIA, fille naturelle du pape Alexandre VI et duchesse de Ferrare. L. a. s, Ferrare, 15 avril 1507. 1 p., six lignes 40. Au Comte Guidoni Rangono.' Cachet.
+- 1341 CAIROLI BENED., patriote et homme d'Etat italien, 1825-1889. L. a.s. 2 p. 8°. 25 juill. 1886.
+- 1342 CAMPANA FABIO, compositeur italien, 1819-1882. P. a. musicale. 5 p. 8.
+- 1343 CAMPANELLA FED. patriote italien et ami de Mazzini. 1804-1884. L. a. s. 1 p. 80.
+- 1344 CANOVA ANT., celebre sculpteur. 1737-1822. L.a. s.1 p. 80.
+- 1345
+- 1346
+- CANOVA ANT.L.a.s.1p.40.
+- CAPOCELLI ABBERG. FRANC. dramaturge de Bologne, 1728—1798. L. a. s. 1 p. 8. Casa 7nov.1792.
+- 1347 CARDUCCI GIOSUE, le celebre poete italien, 1835-1907. L. a. s. 3 p. 80. Bologne 28 dec. 1882, a M. Capelli.
+- 1348 CAVOUR CAMILLE, le celebre homme d'Etat italien, 1810-1861. L.a. s. 3 p. A Carlo Martini s.l.n.d.80.
+- 1349 CAVOUR CAMILLE.Doc.s.49.30 oct.1856.
+- 1350
+- CICOGNARA LEOPOLDO, comte, president de lacademie des beaux-arts a Venise. 1767—1834. L. a. s. 1 p. 40. 19 mars 1830. Au duc Gentile di Varano.
+- 1351
+- D'ANCONA, ALEXANDRE,homme de lettres. L.a. s. 1p. 8. 7 mars 1879.
+- D'ANNUNZIO, GABRIELE, celebre poete moderne.L.a. s. 2p. 8. A Mr. Brunetti
+- 1352 24 0ct.1905.
+- 1353 D'AZEGLIO, GUISA,L.a.s.1p.16.17 juill.47.
+- 1354 D'AZEGLIO MASSIMO, patriote italien. L. a. s. 4p. 8o. 6 fevr. 65.
+- 1355
+- DE AMICIS EDMONDO, celebre poete italien, 1846-1908. L.a. s.1p. 4. 17 nov. 85.
+- 1356
+- DOROTHEE SOPHIE, DUCHESSE DE PARME,morte en 1740.L.s.1p. 4.30 juill.1697. Cachet.
+- 1357 DUPRE G., celebre sculpteur, 1802-1884. L. a. s. 4°. 1p. 27 aout 1870.
+- 1358
+- DUSE ELEONORE, la celebre tragedienne italienne. L. a. s. 4.1p.S. d.
+- 1359 HERCULE I., duc de Ferrare et Modene, 1433-1505. Lettre dictee, non signee. 1p. 80.26 aott 1478.Cachet.
+- HERCULE Il., duc de Ferrare et Modene, fils de Lucrezia Borgia, mort en 1559. L. a. s.
+- 1360 1p. 4. 14 mai 1539.
+- 1361 FRANCOIS II D'ESTE, duc de Ferrare et Modene 16561694. L. s. 2 p. 4. A Gentile Varano.16oct.1557.
+- 1362
+- ALPHONSE I. DUC DE FERRARE, Doc. latin non signe. Defecteux. 1 p. 4 parchemin. 7april 1523.
+- 1363
+- ALPHONSO 11. DUC DE FERRARE, Doc. s. 1p. 40. 8 dec. 1567. Cachet.
+- 1364 CESAR D'ESTE, duc de Modene, 15621628. L.a.s.1p. 49. 14 sept. 1612. A Chiara Pia Varano.
+- 1365
+- FRANCOIS IV DUC DE MODENE, L.a. s. 1p. 8. 25 mars 1814. A Rodolfo Varano. Cachet.
+- 1366 LUIGI D'ESTE,cardinal. L. s.1p. 4. 30 dec. 1614. Cachet. A Giulio Cesare Varano.
+- 1367
+- MARIA TERESA CYBO D'ESTE, duchesse de Modene. L. s.1p. 8. 13 jan.1789.
+- 1368 CARD. RAINOLDO D'ESTE, 1655-1737. L. s. 1 p. 40. Modene 16 oct. 1687. Cachet.
+- 1369 ESTERHAZY NICOLAS, prince, 1765-1839. L. a. s. en francais. 2p. 80. 13 mai 1879.
+- Avec cachet.
+- 1370 ESTERHAZY NICOLAS, prince et comte de Galantha, Diplomate. 17141790, L.a. s. 3p. 8 en francais. Dresde, 29 mars 1743.
+- 1371 FANTI MANFREDO, general italien, 1806-1865. L. a. s.1 p. 8. Bologne,7 juin 1860.
+- 1372 2FINALI G., senateur et ministre italien, ne 1829. L. a. s. Rome, 19 nov. 1872. 1 p. 4.
+- 1373 FOSCOLO UGO, celebre poete italien, 1777-1827. L.a. s. 2 p.4. Pavie,18 janv.1809.
+- 1374
+- FRAPOLLI L.Garibaldien et franc-macon  1903. L. s.1p. 4: Florence,2 aont 1870.
+- 1375
+- GIRALDI GIAMBATTISTA CINZIO. Poete ferrarais,1504-1573. L.a.s. datee 1542.1p. 80.
+- 1376 GARIBALDI GIUSEPPE, lillustre patriote italien. 18071882. L. s. Rome, 16 mai 1875.
+- 1 p.40. Lettre adressee a Sig. Cattani.
+- 1377 GARIBALDI GIUSEPPE. L.a. s. adressee a Sig. Chambers. Caprera, 13 juill. 1870. 8.
+- 1 p. Recommandation d’une banque agricole pour la Sardaigne.
+- GOLDONI CARLO,1'illustre poete venitien,1707 -1793.L.a.s.Paris,25 avril 1791. 1 pag.8.
+- HUGO VICTOR, le grand poete francais, 1802-1885. L.a. s. 17 nov. 1870. 1 pag. 8.
+- LAFAYETTE, MARQUIS DE, homme dEtat et general francais, 1756-1834. L.a. s.
+- 22 mars 1781, en anglais. 3 pag. 80.
+- MACCHI MAURO, patriote, senateur et homme de lettres, 1819-1880. L.a.s. Turin, 25 oct. 1849, adressee a M. Riccardo Cevoni, Turin. 1 p. 80.
+- 1378
+- 1379
+- 1380
+- 1381
+- MAMIANI TERENZIO, CONTE DELLA ROVERE. Patriote et poete italien,1789-1885.
+- 1382 L. a. s. Genes, 17 avril 1853. Adressee a Sig. Pietro Tofani. 2 p. 80.
+- 1383 MANIN DANIELE, president du gouvernement provisoire de Venise, 18061857. L. a. s. 1p.160.
+- MANZONI ALESSANDRO, lilustre poete, 1785-1873. L.a. s. Milan, 20 dec. 1845,
+- 1384 adressee a Prof. Giorgino de luniversite de Pise. 1 p. 80.
+- 1385 MARIO ALBERTO, homme de lettres et politicien, 1825-1883. L. a. s. Lendinara, 4 dec. 1pag. 160. MARIO ALBERTO.L.a.s.1p.160.
+- 1386 MASSAI FERRETTI, plus tard pape Pie IX, 1792—1879.L.a.s.22 fevr. 1844.
+- 1387 MAZZINI GIUSEPPE,l'apotre de l'unite italienne. 1805-1872. L.a.s.1p.160.
+- 1388 MENABREA LUIGI FEDERICO, general et depute italien, 1809-1896. L.a. s.1 p. 8.
+- 1389 MERCADANTE SAVERIO, compositeur napolitain,1767-1870. L.s. Naples, 10 mars 1867.1p.40.
+- METASTASIO PIETRO, celebre poete italien, 1698-1782. L.a. s. Vienne, 7 oct.1765,
+- 1390 adressee a M. Giuseppe Rovatti a Modena. 1 p. fol.
+- 1391 MINGHETTI MARCO, secretaire de Cavour en 1859, 1818-1887. L.a.s. 1p. 80.
+- 1392
+- MONTI VINCENZO,poete et auteur dramatique. 1754-1828.L.a. s. Ferrare,16 juil. 1775, adressee a labbe Gioachino Cizzi, Custode Generale d'Arcadia, Roma. L. a. s. 2 p.
+- 1393
+- 1394
+- 1395
+- MORGHEN RAFAEL, lillustre graveur, 1761-1833. L.a. s. Florence, 20 aont 1819, adressee a M. Francesco Borri. I pag. fol.
+- MURAT GIOACCHINO NAPOLEONE, roi de Naples. 1771-1815. Brevet de chef de bataillon pour Mr. Fernand Rodriquez, date de Naples, 18 mars 1815, cachet et armes. Parchemin. Doc. s. 1 p. gr.fol.
+- PACINI GIOVANNI, celebre compositeur, 1796-—1867. L. a. s. Livourne, 30 mars 1857. 2p.80.
+- 1396 PAGANINI NICOLAS, le celebre violoniste, 17841840.L. a. s. datee 5 janv. 1807. 1 p. 8.
+- 1397
+- PANZACCHI ENRICO, poete et politique, 1841-1904. L. a. s. 9 juin 1883. 3 p. 4.
+- 1398 PELLICO SILVIO, l'illustre patriote et auteur italien, 1788-1854. L.a. s. en francais, adressee a la comtesse Porro.1 p.8o.
+- 1399
+- PEPOLI GIOACCHINO, neveu de Gioacchino Murat, roi de Naples. Patriote italien, 1825-1881.L.a.s.11oct.1874.1p.80.
+- 1400 PERUZZI UBALDINO, patriote et ministre italien. Mort en 1891.L.a. s., Turin,2 oct.1864.
+- 1 p. 80.
+- 1401 PINDEMONTE IPPOLITO, celebre poete,1753-1828. L. a. s. Verone, 13 juin 1803.
+- 1402
+- 1 p. fol.
+- PORTICARI GIULIO, homme de lettres, 1779-1822. L. a. s. 1 p. 8o. Avec un sonnet autographe, intitule:,Il Rodomonte."
+- 1403 REDI FRANCESCO, medecin et naturaliste,1626-1694. L.a.s. Florence, dec.1685, adressee au cardinal Colonna.l p. fol.
+- 1404
+- RENAN ERNEST, l'illustre auteur de la Vie de Jesus&gt;. 1823-1892. L. a. s.,Venise 7 juill. 1873.1 p.80.
+- RICOTTI ERCOLE, president de 1'academie des sciences. 1810-1883. L. a. s., Rome
+- 1406 RISTORI ADELAIDE,la celebre tragedienne, 1822-1906. L.a. s.Vienne 19 fevr. 1859, adressee a Mr. Auguste Bon a Padoue. Avec l'enveloppe. 2 p. 8.
+- 1405 13 mars 1873.1 p.80.
+- ROMAGNOLI DOMENICO, philosophe et physicien, mort en 1835. L. a. s. Milan,
+- 1408
+- 1407 6 sept. 1832,adressee a Mr. Guglielmo Piatti a Florence. 1 p. 80.
+- ROSASPINA FRANCESCO, le celebre graveur, 1762-1841. L. a. s. Bologne, 16 juin 1831. 1 p. fol.
+- 1409 ROSSINI GIOACCHINO, lillustre compositeur, 1792—1868. L. a. s. 22 avril 1844. 1 p. 80.
+- 1411 SALVAZUOLI VINCENZO, homme de lettres, 1802-1861. L. a. s. 14 mars 1852. 1 p. 8°.
+- 1410 SAFFI AURELIO, patriote italien, 1819-1890. L. a. s. Forli 22 oct. 1878. 2 p. 80.
+- 1412 CARLO ALBERTO DI SAVOIA, prince de Cangnano, 1798—1849. L. a.s. Turin, 18 aout 1817. 2p. fol. En francais.
+- 1413 CARLO ALBERTO, roi de Sardaigne et puis d'Italie, 1778-1849. Doc. s. Turin, 12 mai
+- 1831 a Mr.Eugenio Debartolomey, sous-lieutenant.Cachet.
+- 1414 1589 a Alessandro di Castiglione. 1 p. gr. folio. Cachet.
+- 1415
+- 1416 CARLO FELICE, roi de Sardaigne, 17651831. Doc. s. Nice, 17 dec. 1829. 1p.gr. fol. Cachet.
+- CARLO EMANUELE DI SAVOIA. Doc. s. Turin, 27 janv. 1756, au comte Durante Duranti. 1 p. gr. fol. Cachet.
+- 1417
+- 1418
+- MARIA CRISTINA di Napoli, epouse de Carlo Felice, roi de Savoie. 1719-1849. L. a. s. Naples 10 fevr.1837. 1p. fol.
+- MARIA TERESA DI TOSCANA, epouse de Carlo Alberto, roi de Piemont. 1801-1855. L.a. s. Moncalieri, 1er nov. 1845. En francais. 1p. 80.
+- 1419 VITTORIO AMEDEO I., duc de Savoie et prince de Piemont 1587-1637. Doc. s. date
+- 1420
+- 27 oct.1632. Avec cachet. 2p.fol.
+- VITTORIO EMANUELE Il, roi d'Italie. 1820-1878 Doc. s. Turin, 10 nov. 1856:naturalisation de Achille Sanguinetti. I p. gr. fol. Cachet.
+- 1421 SBARBARO PIETRO, philosophe et homme de lettres. 1833-1893. L.a. s. Modene. 18avril 1875.4p.80.
+- 1422 SEISMIDT-DODA FEDERICO,patriote italien, 1825-1893.L.a s.15 janv.1870 1p.80.
+- SELLA QUINTINO, ingenieur et ministre, 1827—1884.L. s. Florence, 26 nov. 1865.
+- 1423 adressee a Mr. An. Santini, Biella.1 p. 40.
+- SETTEMBRINI LUIGI, grand patriote italien. 1810-1876. L. a. s. Portici, 10 oct.1873.
+- 1424 2p.80.
+- 1425
+- SERASSI PIERANTONIO, bibliographe italien, 17211791. L.a. s. Rome,12 avril 1790. a Mr. Baldassare Papadia, Lecce.1p. fol. Cachet.
+- 1426 SIMON JULES, homme dEtat et academicien francais. 1814—1896. L. a. s. 1p. fol.
+- SIXTE-QUINTE PAPE (Felice Peretti) 1527-1590. Doc. Rome,17 aout 1581. Parchemin.
+- 1427 Gr.fol
+- 1428
+- STROZZI CARLO, celebre condottier. L.a. s. Padoue 7 juin 1497. 2 pag. fol. Cachet.
+- 1429 TAMAGNO FRANCESCO, celebre chanteur 1851-1905.L a. s.Varese,26 juill.1895.2p.80.
+- TORQUATO TASSO,limmortel poete. 1544-1595. L.a. s.2p.in 4 fol.avec adresse aut. 1) Lettre de 9 lignes en tete signee. Adressee a Curzio Arditio et datee S. Anna di Ferrara il 29. di Giugno 1582. Elle commence: ,Mando a V. S. il sonetto che mi domando nell ultima sua lettera ..... Au ,recto" de la troisieme page il y a un sonnet (14 vers)
+- 1430 commencant par: "Sotto l'aperto ciel fra gigli et rose"
+- E verdi erbette ed odorato piante"
+- ,Notturno e cheto e solitario amante."
+
+Tres fraiche, avec un petit trou au milieu ne touchant pas la lettre.
+
+- 2) Lettre de Pierantonio Serassi (voir No.1425) dans laquelle il faisait hommage de cette piece
+2. a Mr. Papadia de Lecce. L. a. s. Rome, 9 nov. 1790. 1 p. fol. Cachet.
+- 3) Certificat de Mr. Ettore Novelli, bibliothecaire de la Biblioteca Angelica di Rome, 18 fevr. 1898, dans lequel lauthenticite de lautographe est confirmee par la comparaison. avec les manuscrits certains du Tasse. Piece d'une extreme rarete.
+4. TIRABOSCHI GIROLAMO, homme de lettres de Bergame. 1731-1794. L.a. s. Modene 28 juin 1789,2 p.40.
+5. 1431
+6. 1432 UBALDO AMBROGIO NOBILE DI VILLAREGGIO. Auteur de la,Raccolta di scudi antichi."
+7. L.a.s. Milan 2 juin 1846. 1p. 80.
+8. 1433 USSI STEFANO, peintre, 1822-1901. L. a. s. 1871. 1 p. 80.
+9. 1434 VANOLINI DOMENICO, critique d'art.L.a.s. 2 p. 8o. Adressee a Mr. Giovanni Monti, ingenieur a Rome.
+10. 1434a VANOLINI DOMENICO. L. a. s. Bagnacavallo, 17 aout 1848. 3 p. 4. Adressee a Mr.
+11. Giovanni Monti a Rome.
+12. 1435 VARANO ALFONSO, poete italien, auteur de ,Le visioni 17051788. L.a. s. Ferrare 25 aoit 1763.1p.40.
+
+VARANO ALFONSO. L. a. s. Ferrare 22 mai 1775, adressee a Mr. Don Pietro Santi a
+
+Venise. 1p. 4. Cachet.
+
+- 1436 VERNET HORACE, le celebre peintre 1789-1863. L. a. s. 17 juin 1857. 1/2 p. 160.
+- 1437 40.
+- VOLTA ALESSANDRO, lillustre physicien et inventeur de la pile electrique, 1745-1826. L. a. s. Come, 13 aout 1816, adressee a Mr. Cattanico, inspecteur de la Zecca", Milan. 1 pag.
+
+VOLTA ALESSANDRO. L. a. s. Pavie, 21 dec. 1785, adressee a Mme Teresa Cicari, Come. 1 p.40.
+
+- 1438
+- ZAMBECCARI LIVIO FRANCESCO, patriote italien 1790-1833. L. a. s. Sta. Cruz 14oct.1836.1p.40
+## Varia.
+
+- 1439 QUATRE CAHIERS DE PAPIER POLYCHROME. Plusieurs centaines de feuilles diverses
+- de papier polychrome des XVlle et xVllle siecles. En partie avec or. Quelques pieces tres rares.Francais et italien.
+- 1440 PETITE CORBEILLE EN PAILLE.Ovale.
+- 1441 JUMELLES DE THEATRE. Avec ecaille et anneaux a fleurs bleues emaillees. Vers 1850. Haut.12,5cm.
+- 1442 OUVRAGES EN PERLES. Un etui et un signet ainsi qu'une petite boite en émail. XiXe siecle.
+- 1443 OUVRAGE FAIT DANS UN COUVENT. Au milieu plaquette Saint-Martin. XVIlle siecle.
+- Haut.15,Larg.12 cm.

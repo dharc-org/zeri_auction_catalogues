@@ -1,0 +1,654 @@
+<!-- image -->
+
+## Tableaux Anciens et Modernes
+
+## AMICO DI SANDRO
+
+(Ecole forentine, entre 145o et 1485.)
+
+## La Vierge et l'Enfant a la grenade.
+
+La Vierge, la tete paree d'un voile de linon blanc, vetue d'une robe rouge et drapee d'un manteau vert lisere d'or, est assise sur un trone de marbre et tient l'Enfant divin entre ses bras. Son visage est tendrement appuye contre celui de Jesus, dont une écharpe jaune voile la nudite et la main gauche est posee sur une grenade entrouverte. Saint Jean, a leurs pieds, sa petite croix sur l'épaule, leve les mains vers le Sauveur. Par une baie, a gauche, on apercoit une chapelle et les arches dun pont; a droite, un arbre croit sur une pelouse derriere une
+balustrade et, par dela la rive d'un cours d'eau, des constructions apparaissent a la base d'une colline.
+
+Tondo. Primitivement sur bois, transpose sur toile. Diam.,72 cent.
+
+Cadre en bois sculpte et doré, a decor de cherubins, de coquilles, de perles et de lauriers noues de rubans.
+
+Collection Ch. Sedelmeyer; 3 vente, juin 19o7, n° 126 du catalogue.
+
+M.B. Berenson, étudiant un groupe d'ceuvres ou apparait la double influence de Filippo Lippi et de Botticelli (la Vierge et l'Enfant de la collection de Mme Austen,Assuerus reconduisant Esther du musee Conde, a Chantilly,la Madone du Musee de Berlin,Esmeralda Bandinelli de la collection Ionides,la Belle Simonetta du palais Pitti, etc...), émet l'hypothese qu'elles pourraient etre de la main d'un artiste de leur entourage immediat. A defaut d'un nom precis, tel, par exemple celui de Berto Linaiuolo, il incline a penser qu'elles émanent d'une personnalite anonyme qu'il designe,en maniere d'attente, sous l'appellation d'Amico di Sandro. Cet artiste, qui aurait pu naitre vers 145o, assez tot pour recevoir l'enseignement de Filippo Lippi, aurait ensuite imite Botticelli et impressionne lui-meme Filippino Lippi, auquel on attribue d'ordinaire ses propres ouvrages. Il serait mort en pleine maturite vers 1485.
+
+Cf. Gazette des Beaux-Arts, annee 1899, 5o4 et 5o5 livraisons. Cf. egalement B. BERENsoN :The study and criticism of Halian
+
+Art,Londres,19o3, pages 46 et suivantes.
+## ANGELICO
+
+(GIOVANNI DA FIESOLE,dit FRA)
+
+Castello di Vicchio, 1387Rome,1455.
+
+2
+
+## La Vierge et l'Enfant.
+
+Les cheveux blonds, voiles d'une gaze legere et transparente, separes en un double bandeau sur le front largement decouvert, la Vierge soutient Jesus de la main gauche et appuie tendrement la joue contre son visage. Elle est vetue d'une robe bleu pale, chastement decolletee, et d'un manteau bleu borde d'or, doublé de jaune. Une étoile a huit branches brille sur son epaule. La figure recueillie, les yeux baisses, elle a la main droite posee pres du coeur de l'Enfant, vetu d'une tunique rouge qui la regarde passionnement et dont les petits doigts lui caressent le menton. Un nimbe dore, orné d'un chrisme rouge, rayonne derriere la tete blonde du Sauveur.
+
+Fond d'or, a decor ramage, illustre de feurs et de feuillage.
+
+Bois. Haut., 43 cent.; larg., 36 cent.
+
+D'apres la tradition, ce tableau aurait éte donne par le baron Lazzari, fondateur de l'ordre, au couvent des α Padri Crociferi , a Messine, pour etre dedie a saint Lazare. Il fit retour a la famille, lors de la dissolution de l'ordre et devint successivement la propriete du baron Lazzari di Fiumefreddo, puis de son fils Gaetano, puis de la soeur de ce dernier, Marianna Lazzari, mariee au chevalier Giovanni Palermo dei Principi di Santa Margherita et marquis di Calorenda.
+
+Le marquis Giovanni Palermo, son petit-fils, le detint ensuite.
+
+Il n'est pas sans interet de remarquer que cette ceuvre de I'Angelico beneficia d'une mesure exceptionnelle et qu'a l'encontre des autres richesscs du couvent,elle ne fut pas confisquee par les pouvoirs publics, lorsqu'il fut procede a la dissolution de l'ordre.
+## BEECHEY
+
+(Sir WILLIAM)
+
+Burford,1753 + Hampstead,1839.
+
+3
+
+## Les Enfants Stanley.
+
+.Une fllette de blanc vetue, assise au premier plan, evisage presque de face et souriant, un collier en corail autour du cou, noue un ruban rouge sous le museau d'un chien blanc et feu dont les pattes sont posees sur ses genoux. Au dossier du siege ou elle sappuie, une écharpe pend pres d'un chapeau accroche par la bride. Une autre fillette est debout sur le fauteuil; vetue d'une robe blanche,un ruban rose noue a la taille, coiffee d'un bonnet ruche, elle a le bras droit. passe derriere le cou d'un garconnet, habille de brun et qui la soutient contre son épaule.
+
+roA gauche,un autre chien et, au fond,une draperie rouge entre deux colonnes'de marbre blanc.
+
+Toile.Haut, I m.87;larg, I m.38.
+## BOTTICELLI
+
+(Attribue a SANDRO FILIPEPI,dit)
+
+Florence,vers 1445+Florence,1510.
+
+## La Vierge au coussin blanc.
+
+Une coiffe de gaze transparente posee sur ses cheveux blonds, le visage gracieusement appuye contre celui de Jésus, qui lui sourit, elle porte une robe rouge et un manteau bleu doublé de vert. L'Enfant divin, en tunique blanche galonnee de gris, lui entoure la nuque du bras gauche et la regarde avec tendresse. De la main droite, elle le tient blotti sur ses genoux dans un doux geste de protection maternelle. La jambe gauche pendante, l'autre repliee, le Sauveur est assis sur un coussin blanc. Un missel est ouvert derriere lui, a la page du Magnificat, pres d'une lampe dores auréolent les tetes de la Madone et de Jesus.
+
+La peinture, primitivement sur bois, a éte transposee sur toile.
+
+Toile. Haut., 86 cent.;larg.,6o cent.
+
+Cadre en bois sculpte.
+
+Ornait autrefois l'eglise de Castello del Trebbio, a Florence. Collection Spencer Stanhope,a Florence.
+
+A figure a The Royal Academy Winter Exhibition, en 1879.
+catalogue.
+
+## BRONZINO
+
+(Ecole du)
+
+5
+
+## Laure de Noves.
+
+Coiffee d'un escoffion de satin blanc brode d'or, d'ou pend sur le front une ferronniere de perles et de pierres precieuses, un collier de perles sur ses épaules nues, elle est representee en buste et vetue d'un corsage de brocart d'or.
+
+Bois. Haut., 58 cent.; larg.,41 cent.
+
+## COELLO
+
+(Ecole D'ALONSO SANCHEZ)
+
+6
+
+## Portrait presume de l'Infante
+
+## Jeanne d'Autriche.
+
+La princesse, coiffee d'un diademe de perles, vue a mi-corps, une robe bordee de fourrure ouverte sur un corsage blanc, brode d'or, la main droite a la hauteur de la poitrine, porte autour de la taille une ceinture enrichie de joyaux.
+
+Toile. Haut., 97 cent.; larg., 82 cent.
+
+Collection Emile Gavet;vente a Paris, le 8 mai 1go6, n° 8 du
+## CRIVELLI
+
+(Attribue a VITTORIO)
+
+Ecole venitienne, fin du xv siecle.
+
+## Saint Jean, un autre saint et une Donatrice en priere.
+
+A droite, saint Jean vetu d'une peau de mouton; a gauche, une donatrice agenouillee aux pieds d'un autre saint, tenant la crosse et le livre.
+
+Fond d'or.
+
+Bois.Haut.,I m.18;larg.,5o cent.
+## DEHODENCQ
+
+(ALFRED-EDME-ALEXIS)
+
+Paris,1822 Paris,1882.
+
+8
+
+## Le Vendeur d'eau.
+
+Sa jarre d'argile appuyee sur la cuisse, les jambes écartees, le buste penche en avant,il remplit avec precaution un verre qu'il tient de la main gauche. Deux jeunes femmes sont arretees pres de lui : l'une, en jupe grise a pois roses et volants a fronces, drapee dans un chale rouge aux longues franges et le poing sur la hanche, l'autre,le visage de profl vers la gauche, en mantille jaune. Un homme coiffe d'un sombrero noir les accompagne et, a droite, une vieille mendiante est assise sur le sable. Une plage s'étale, a gauche, bordee de blanches villas.
+
+Signe a droite, en bas : Alfred Dehodencq.
+
+Toile.Haut.,1 m.2o;larg.,90 cent.
+## ECOLE BOLONAISE
+
+(xvi1 siecle.)
+
+9
+
+## La Fuite en Egypte.
+
+En robe rouge et drapee dans un grand manteau bleu, Marie, assise sur l'ane, qui chemine vers la droite, presente a l'Enfant Jesus une branche chargee de fruits. Au second plan, saint Joseph, vetu de brun, detache d''un palmier un regime de dattes.
+
+Toile. Haut., 75 cent.; larg., 63 cent.
+## ECOLE FLORENTINE
+
+(xve siecle.)
+
+10
+
+## La Vierge, l'Enfant Jesus
+
+## et deux Anges.
+
+La tete legerement inclinee en avant, un voile frange d'or drape sur ses cheveux blonds, la Vierge soutient de la main droite, l'Enfant Jesus, nu et assis sur ses genoux. Vetue d'une robe rouge serree a la taille par une etroite cordeliere de soie, elle porte un manteau vert retenu un peu au-dessous de la naissance du cou par un cordonnet d'or orne d'un joyau garni d''un rubis et de quatre perles. Le visage tourne de trois quarts vers la gauche,un doigt sur ses levres entrouvertes, l'Enfant Jesus a la main gauche posee sur celle de Marie. ll est assis sur un coussin de satin blanc broche de velours rouge, enrichi d'un filet et de glands d'or. Deux anges en prieres apparaissent de chaque cote du divin groupe, sur des nuees. Une gloire de rayons irradie de leurs ailes de pourpre et de leurs nimbes d'or.
+
+Bois. Haut.,6o cent.;larg,42 cent.
+## ECOLE FLORENTINE
+
+(xve siecle.)
+
+11
+
+## La Vierge et l'Enfant entoures de saints.
+
+La Vierge est assise, au centre, drapee dans un ample manteau, I'Enfant Jesus sur les genoux. Une sainte, coiffee de la couronne royale, est debout, a gauche,les mains jointes, en priere; a droite, saint Pierre tient un poisson. Une sainte et trois autres saints apparaissent au second plan.
+
+Au sommet de la composition, le Christ est represente sur la croix, que survolent deux anges, entre Marie et saint Jean. Fond d'or.
+
+Bois de forme cintree dans la partie superieure.
+
+Haut.,73 cent.;larg.,40 cent.
+## ECOLE FRANCAISE
+
+(xvine siecle.)
+
+12
+
+## La Construction de l'Arche.
+
+Noé,au centre, drape dans un grand manteau blanc,un baton a la main, preside a l'édification de l'arche, dont la carene massive s'eleve au second plan. Des travailleurs s'empressent derriere lui et, a droite,un homme lui presente le plan de la nef. A terre,une hache et une scie.
+
+Toile. Haut., 58 cent.; larg.,72 cent.
+## ECOLE FRANCAISE
+
+(xvilre siecle.)
+
+13
+
+## Composition mythologique.
+
+La Discorde, au centre, un serpent enroule autour du corps, s'avance vers la droite, une torche a la main. A gauche, un satyre fuit, drape dans un manteau rouge. Au-dessus de lui, Apollon lance des fleches, entre le Temps dressant sa faux et une figure ailée armee de la foudre. Le groupe des trois Graces, apparait, a droite, sur des nuees, entoure d'une guirlande d'amours, et, vers le sommet de la composition, Mercure quitte I'Olympe et brandit le caducee.
+
+On lit en bas, au centre, une signature : Joannes f... invenit et pinxit 1781.
+
+Bois. Haut., 95 cent.; larg., 6o cent.
+## ECOLE ITALIENNE
+
+(xIlle siecle.)
+
+14
+
+## La Vierge, l'Enfant Jesus, deux anges,un saint et un eveque.
+
+La composition est compartimentee, en forme de triptyque, par des colonnettes torses.
+
+Au centre, la Vierge en robe rouge et manteau noir borde de blanc, le visage de trois quarts vers la gauche, la tete legerement penchee sur l'épaule, soutient l'Enfant Jesus assis sur ses genoux. Vetu d'une tunique rouge, les poignets voiles d'une gaze transparente,il tend sa petite main vers un oiseau au plumage blanc tachete de rouge. Deux anges, aux ailes diaprees, apparaissent en adoration de chaque cote du divin groupe.
+
+A gauche, un saint en tunique grise et manteau rouge deroule un phylactere.
+
+A droite, un éveque mitre de blanc, en dalmatique rouge,la main gantee portant l'anneau pascal, tient le livre et la crosse.
+
+Bois de forme triangulaire dans sa partie superieure. Haut., 83 cent.;larg.,I m.83.
+## ECOLE DE L'ITALIE CENTRALE
+
+(xIve siecle.)
+
+15
+
+## La Madone et l'Enfant Jesus.
+
+Assise sur un trone de marbre, le visage de trois quarts vers la droite, drapee dans un manteau bleu entrouvert sur une robe rouge, la Vierge soutient l'Enfant Jesus, la main gauche posee sur son épaule. Le Sauveur, en tunique blanche, sous un manteau rouge retenu par un joyau d'or sur la poitrine, fait de la main droite le signe de la benediction. Fond d'or.
+
+Bois de forme cintree dans la partie superieure. Haut.,1 m.06;larg,45 cent.
+## ECOLE RHENANE
+
+(Debut du xvie siecle.)
+
+16
+
+## La Mise au tombeau.
+
+Le Christ, encore couronné d'épines, est étendu, au premier plan, sur un suaire blanc dont les plis retombent sur les rosaces dorees du tombeau. La Vierge, le front voile de blanc, un manteau bleu sur les epaules, penche son visage éplore au-dessus du Sauveur. Derriere elle, saint Jean, en manteau rouge broché d'or, debout pres deJoseph d'Arimathie, essuie les larmes qui coulent sur ses joues, et Marie Salome, vetue d'un manteau vert double de rouge, se retourne vers Marie-Madeleine, dont les grands cheveux blonds sont pares d'un diademe de perles et de joyaux. A droite, Nicodeme, vu de face, la tete decouverte, et
+
+Marie Cléophas, les mains jointes et en priere.
+
+Bois. Haut.,65 cent.;larg,95 cent.
+## ECOLE SIENNOISE
+
+(xive siecle.)
+
+17
+
+## La Vierge couronnee par les anges.
+
+Le front orne d'un diademe d'or incruste de joyaux et a demi voile sous un pli de son manteau brun double de blanc, la Vierge, en robe rouge, porte l'Enfant sur son bras gauche. De la main droite, elle retient un pli du manteau rose a revers jaune qui recouvre en partie la nudite de Jesus. Un bras passe autour du cou de sa mere, le Sauveur la regarde avec tendresse. Deux anges affrontes et soutenus par des nuees posent sur le front de Marie la couronne celeste et, au sommet de la composition, le Christ apparait sur la croix, entre la Vierge éploree et saint Jean dans I'affliction. Fond dore.
+
+Bois de forme cintree dans sa partie superieure.
+
+Cadre en bois sculpte.
+
+Haut., 1 m. o1; larg.,5o cent.
+## ECOLE SIENNOISE
+
+(xve siecle.)
+
+18
+
+## Deux Saints.
+
+Ils sont representes debout et cote a cote. L'un, le visage tourne de trois quarts vers la droite, est vetu d'une robe blanche et d'une dalmatique bleue brodee de motifs de feuillage d'or. Il tient une palme de la main gauche et de l'autre un livre relie en rouge a tranches dorees. L'autre, le visage de trois quarts vers la gauche, en robe blanche et dalmatique rose brodee d'or et doublee de vert, tient une palme de la main droite et de l'autre un livre a fermoirs bleus cloutes d'or. Leurs tetes s'enlevent sur des nimbes gaufres et dores. Fond d'or.
+
+Peinture primitivement sur bois, transposee sur toile. Haut., 1 m.27; larg., 66 cent.
+## ECOLE TOSCANE
+
+(xIve siecle.)
+
+19
+
+## La Vierge et l'Enfant Jesus.
+
+Les cheveux blonds a demi voiles par son manteau brun double de vert, le visage incline de trois quarts vers la droite, la Vierge, en robe rouge bordee d'un galon d'or au col et aux manches, porte I'Enfant sur son bras gauche. Jesus, drape dans un ample manteau jaune, tient un oiseau dans sa petite main. Au sommet de la composition, deux anges en adoration. Fond d'or.
+
+Bois. Haut., 8o cent.;larg.,5o cent.
+## FIORENZO DI LORENZO
+
+Perouse (2), vers 1440 + Perouse (2), apres 1521.
+
+20
+
+## Portrait de jeune homme.
+
+Un bonnet rouge pose sur ses cheveux boucles sur le front, bouffants sur les tempes et la nuque, le visage tourne de trois quarts vers la gauche, il est vu a mi-corps. Ill porte un pourpoint noir, lisere de blanc au col, plisse sur la poitrine et ajuste a la ceinture. La figure s'enleve sur un ciel clair, ou errent de petits nuages legers et passe un vol d'oiseaux sauvages en exode. La perspective d'un paysage, ou sinuent les meandres d'un cours d'eau et que borne une ligne bleue de collines nues, s'étend au second plan. Un villageois apparait, a gauche, sur une route,conduisant son ane et, a droite, pres d'une eminence rocheuse, dominee par un bouquet darbres, un paysan se tient debout,la houe sur Pépaule. Pres de lui, un enfant, assis sur un tertre, joue du chalumeau.
+
+Ce portrait primitivement sur bois a ete transpose sur toile.
+
+Toile. Haut.,52 cent.,larg.,36 cent.
+
+Cadre en bois sculpte.
+
+Collection de lord Wemyss, a Londres.
+
+Collection du baron Maurice de Rothschild.
+
+Expose a la Royal Academy de Londres, en 1886.
+
+Ce chef-d'ceuvre est sans doute l'unique portrait connu jusqu'a ce jour de l'un des plus grands maitres de l'art ombrien de la Renaissance.
+## FLINCK
+
+(GOVAERT)
+
+Cleves,1615+Amsterdam,166o.
+
+21
+
+## Portraits d'un vieillard
+
+## et d'un enfant.
+
+La main droite posee sur les pages d'un livre, un large collier d'or orne d'une medaille autour des épaules, en vetement noir borde de fourrure, coiffe d'un petit bonnet, la barbe et la moustache blanches, un vieillard est assis, vu de face, dans un fauteuil a dossier de chene sculpte. Une jeune fille, une couronne de laurier sur ses cheveux chatains, une perle a l'oreille, drapee dans un manteau jaune et or, lécoute attentivement. Une ceinture retenue par une épingle d'or lui entoure la taille; deux glands d'or pendent a son extremite.
+
+Toile. Haut.,1 m.o7; larg., 88 cent,
+## FRAGONARD
+
+(JEAN-HONORE) Grasse,1732+Paris,1806.
+
+22
+
+## Le Repos de la Sainte Famille.
+
+La Vierge, au centre, est assise sur un bloc de marbre antique, dont un angle s'effrite, et son pied droit repose sur une pierre du chemin. Un voile jaune drape sur la nuque, elle est vetue d'une robe rouge et d'un ample manteau bleu. Les yeux levés vers le ciel, ou trois cherubins apparaissent, a gauche, parmi des nuees, elle tient I'Enfant Jesus, potele et souriant, par le milieu du corps et approche son visage de ses. levres dans un doux geste de tendresse. Son Fils, a demi nu sous une écharpe blanche, lui tend les bras et, derriere eux, saint Joseph, en partie dissimule par un nuage dore, un manteau jaune sur les epaules, regarde vers la droite. Sur le sol, au premier plan, une gourde et un baton gisent pres de la besace des divins
+
+Toile de forme ovale.Haut.,63 cent.; larg., 52 cent.
+
+Cadreen bois sculpte.
+
+A figure a l'Exposition des Peintures et Dessins par Fragonard, a New-York, en 1914.
+
+Mentionne au catalogue de cette exposition, page 45.
+
+fugitifs.
+## FRANCIA
+
+(GIULIO)
+
+Bologne,1487 +Bologne,1540.
+
+23
+
+## Le Mariage mystique
+
+## de Sainte Catherine.
+
+La sainte, les cheveux blonds, une guimpe de linon transparent sur la poitrine, en robe verte et manteau rose, est agenouillee, a droite, aux pieds de l'Enfant Jesus qui se penche vers elle et la benit. ll est assis sur les genoux de Marie, en robe rouge et manteau vert; une écharpe de gaze voile sa nudite. Le petit saint Jean, a gauche, les mains croisees, la croix appuyee contre 1épaule, leve les yeux vers le ciel. Derriere lui, un religieux nimbe. Au fond, un rivage boise et la mer.
+
+Bois.Haut.,64 cent.;larg.,53 cent.
+## GOYA Y LUCIENTES
+
+(Attribue a FRANCISCO JOSE de)
+
+Fuente deTodos,1746+Bordeaux,1828.
+
+24
+
+## Portrait de jeune femme.
+
+Le visage tourne de trois quarts vers la droite, les yeux sentee a mi-corps. Une coque de ruban rose piquee sur la mantille de dentelle coquettement posee sur ses cheveux bruns; elle porte un chale de soie qui laisse a decouvert les manches noirs, la bouche souriante, les mains croisees, elle est repréroses de son corsage. Fond gris.
+
+Toile.Haut.,75 cent.;larg.,63 cent.
+
+Cadre en bois sculpte.
+## JORDAENS
+
+(JACOB)
+
+Anvers,1593+Anvers,1678.
+
+25
+
+## Portrait de jeune femme.
+
+Coiffee d'un chapeau garni de feurs et de feuillage, les cheveux blonds boucles fottant sur les epaules, un anneau d'or a l'oreille, le visage tourne de trois quarts vers la droite, elle est representee a micorps. Vetue d'une chemisette largement échancree sur la poitrine, et 'd'un corsage rouge galonne d'or, elle a la main droite posee sur une corbeille de fruits debordante de pampres. Une perle oblongue est suspendue a la chaine d'or qui lui pare le cou.
+
+Bois.Haut.,83 cent.;larg.,70 cent.
+## LEONARDO DA PISTOJA
+
+(LEONARDO GRAZIA,dit) (Premiere moitie du xvie siecle.)
+
+26
+
+## La Sainte Famille, sainte Elisabeth et saint Jean.
+
+Saint Joseph, debout, au centre, les deux mains appuyees sur un baton, regarde sainte Elisabeth et saint Jean qui joue avec un phylactere portant linscription : Ecce AGNvs DEI. A droite,l'Enfant Jésus, debout dans I'herbe, se blottit contre les genoux de sa mere, vetue d'une robe rouge et d'un manteau vert. Une vache pait au second plan et, plus loin, on apercoit deux personnages entre les arbres.
+
+Bois. Haut., 1 m. 26; larg, 1 m. 02.
+## MAESTRO DEL BAMBINO VISPO
+
+(Attribue au presume) (Debut du xve siecle.)
+
+27
+
+## La Vierge et l'Enfant Jesus.
+
+Une couronne d'or, incrustee de pierreries, sur le front, la Vierge soutient de la main gauche l'Enfant Jesus sur ses genoux. Assise sur un trone recouvert de brocart rouge a broderies d'or, elle est vetue d'une robe rouge et d'un ample manteau double de vert. En tunique jaune et manteau violet a revers jaunes, le Sauveur tient un oiseau de la main gauche. Nimbes dores et gaufres. Fond d'or.
+
+Bois de forme hexagonale. Haut., 8o cent.;larg., 5o cent.
+## MARTINI
+
+(SIMONE)
+
+Sienne,1283+Avignon,1344.
+
+28
+
+## Saint Jean l'Eoangeliste.
+
+Les cheveux coupes court sur le front et retombant en meches rousses sur les tempes, le visage de face, il est representé debout et presque a mi-corps. Les yeux meditatifs, il semble se recueillir avant décrire l'Evangile et les Epitres. De la main gauche, il tient un livre entrouvert et, de la droite, une plume blanche a pointe trempee d'encre. Un manteau rouge, galonne d'or, drape sur lépaule, il est vetu d'une tunique bleue egalement ourlee d'or au col et aux manches. La tete s'enleve sur un nimbe dore et gaufre. Fond d'or.
+
+On lit, a la base du panneau, une inscription qui semble avoir éte ajoutee posterieurement: sc. JoHANNEs.
+
+Panneau de forme ogivale dans sa partie superieure. Haut, 95 cent.; larg., 43 cent.
+
+Provient de la collection Sterbini, a Rome.
+
+ou il est decrit et reproduit.
+
+Cf. Catalogue de cette collection par le professeur Adolfo Venturi,
+
+Consulter : Simone Martini et les peintres de son ecole, par R. van
+
+Marle ; édit J.-H.-E. Heitz, Strasbourg, in-4°, s. d.
+## MAZO
+
+(Ecole de MARTINEZ JUAN BAUTISTA del)
+
+(xvil siecle.)
+
+29
+
+## Portrait d’un jeune prince.
+
+Les cheveux separes par une raie sur le front, retombant en meches sur son rabat de dentelle, vetu d'un habit brun a boutons dores, l'épee au cote, il est represente en pied. La main gauche gantee et posee sur la hanche, il tient son chapeau de l'autre main.A terre,une lettre.
+
+Toile.Haut.,2 m. o5;larg.,I m.o8.
+
+Cadre en bois sculpte.
+## NONNOTTE
+
+(DONAT)
+
+Besancon, 17o8 + Lyon, 1785.
+
+30
+
+## La Femme au manchon.
+
+Les cheveux poudres, les yeux bruns,la bouche souriante, une perle ronde au lobe de l'oreille, le visage presque de face, elle porte une coiffe de dentelle garnie d'un noeud de ruban bleu. Un mantelet de soie noire a capuchon lui couvre la nuque et enveloppe les epaules. Elle est representee presque a mi-corps, les mains enfouies sous un manchon de fourrure.
+
+Toile.Haut.,55 cent.;larg.,45 cent.
+
+Cadre en bois sculpte.
+## ORLEY
+
+(Attribue a BERNARD.VAN) Bruxelles, 1492  Bruxelles, 1542.
+
+31
+
+## La Vierge et l'Enfant Jesus.
+
+La Vierge, vetue d’une robe brune, échancree sur une guimpe de linon et brodee d'or et de perles, est assise tenant I'Enfant Jesus sur ses genoux. Elle le protege sous un pan de son manteau fourre et appuie son visage contre celui du Sauveur, qui lui caresse la joue de la main gauche. Fond dore.
+
+Bois. Haut., g6 cent.; larg., 70 cent.
+
+## PACCHIA
+
+(GIROLAMO) Sienne, 1477vers 1535.
+
+32
+
+## La Sainte Famille,sainte Elisabeth saint Jean et sainte Claire.
+
+L'Enfant Jesus assis, au centre, sur les genoux de la Vierge en robe rouge et manteau double de vert, se penche vers le petit saint Jean debout, a ses cotes, la croix sur lépaule. Saint Joseph les regarde, a droite, et derriere sainte Elisabeth,a gauche,sainte Claire tient un lis. Fond de paysage.
+
+Bois.Diam.,I m.12.
+
+Tondo.
+## PERUGIN
+
+(Ecole de PIETRO VANNUCCI,dit le)
+
+33
+
+## Saint Sebastien.
+
+Le fanc et la hanche perces de deux fleches, le jeune martyr, lie a un arbre, leve les yeux vers le ciel. Une echarpe rayee protege sa nudite. Sur un chemin,derriere lui,des accidente de collines; l'un d'eux, en armure sur un cheval cabré, porte une longue lance ornee d'une flamme rouge.
+
+Bois. Haut.,1 m.74;larg., 88 cent.
+
+## PONTORMO
+
+(JACOPO CARRUCCI,dit Da)
+
+Pontormo,149+Florence,1557.
+
+## Portrait de Cosme Ier de Medicis.
+
+Les cheveux blancs,le nez busque, la levre inferieure legerement avancante et dedaigneuse,le visage de profil vers la gauche, il est represente en buste. Il porte un bonnet rouge et une simarre de meme couleur doublee de fourrure:
+
+Au sommet du panneau, on lit l'inscription : cosiMo. MEDICI.P.P.
+
+Bois. Haut.,6o cent.; larg., 44 cent.
+## ROMNEY
+
+(GEORGE)
+
+Beckside,1734 Kendal,1802.
+
+35
+
+## Mars et Venus.
+
+Le dieu, coiffe d'un casque d'argent cime d'un aigle d'or, debout sur son char et pret a partir pour la melée, se retourne vers Venus qui le supplie de demeurer pres d'elle. Sa main droite tient une pique et de la gauche, refermee sur les renes, il contient l'elan de ses coursiers. Vetue d'une tunique blanche serree a la taille par une ceinture verte, une longue écharpe de gaze flottant derriere elle, la deesse regarde passionnement Mars et s'efforce de le dissuader de partir. Bellone, le visage farouche, apparait a droite, une trompette a la main.
+
+Toile.Hlaut.,2m.42;larg.,2 m.04.
+
+L'attribution de ce tableau a G. Romney est certifiee par une lettre de M. W. Roberts, l'eminent historien d'art, lettre en date du
+
+18 mars 1gi7, a laquelle nous empruntons les lignes suivantes :
+
+Your picture was painted in the early eighties of the 18th century. I should say about 1784-5. It is an important gallery work. I very much admired it when I saw it in your apartment some two years ago, and am very glad to have the photo you so kindly sent me to go with my other Romneys. I have no idea when a new edition of my Romney book will appear the copyright does not belong to me, but when it does your picture will be there duly recorded.
+## ROSSELLI
+
+(COSIMO DI LORENZO DI FILIPPO)
+
+Florence,143g Florence,1507.
+
+36
+
+## La Vierge a l'agrafe de perles.
+
+Elle est debout, devant un trone de marbre encadré de colonnes de porphyre aux chapiteaux dores, decores de coquilles et de feuilles d'acanthe. Son beau visage grave est tourne de trois quarts vers la gauche. Deux boucles de cheveux blonds retombent de chaque cote du front bombe, largement decouvert, et que cerne un voile de gaze transparente. Elle porte une robe rouge serree a la taille par une ceinture de soie jaune et un manteau bleu, double de vert, lisere d'or, que maintient sur la poitrine un joyau d'or orne d'un diamant et de quatre perles. rondes. Marie soutient delicatement l'Enfant Jesus, debout, et nu, pres d'elle, sur une balustrade a decor de canaux et d'oves, ou gisent deux fleurs detachees de fraisier. La main gauche du Sauveur se referme sur un globe de cristal et, de la droite, il fait le geste de la benediction. Deux anges nimbes, Ies cheveux dores et anneles, apparaissent en buste, au premier plan. L'un, a gauche, le visage de profil,vetu d'une tunique rouge; l'autre a droite, vetu d'une tunique de meme couleur et d'une dalmatique verte galonnee d'or. Ce dernier presente au Seigneur une corbeille de fraisiers en feurs et de jasmins blancs. Derriere le divin groupe, et de chaque cote du trone, s'étend un paysage
+d’'arbres et de collines; un cours d’eau y sinue, a gauche, sous les branches et, a droite, on apercoit la feche legere d'un clocher et la coupole d'une cathedrale.
+
+Bois. Haut.,85 cent.;larg., 59 cent.
+
+Cadre en bois sculpte.
+
+Reproduit dans la revue Rassegna d'Arte (article de M. Mason Perkins).
+
+Ce tableau est un des plus beaux du maitre.
+(Attribue a) Debut du xve siecle.
+
+## Le Couronnement de la Vierge.
+
+Jesus-Christ et Marie sont assis sur des nuees dans une mandorla de cherubins. Le Seigneur, en robe rouge et manteau vert, pose la couronne sur le front de la Vierge recueillie, les bras croises, vetue d'une robe rouge et d'un manteau blanc brode de feurs. La colombe apparait entre eux dans une gloire de rayons. Deux anges musiciens encadrent, au premier plan, deux autres anges agenouilles. Derriere eux, a gauche, un saint éveque et trois autres saints; a droite, saint Pierre, saint Paul,et deux autres saints.
+
+Bois de forme cintree dans sa partie superieure. Haut.,94 cent.;larg.,51 cent.
+
+Cadre en bois sculpte.
+## RUBENS
+
+(Attribuea PIERRE-PAUL)
+
+38
+
+## La Chasse de Diane.
+
+La deesse, a droite, accompagnee de trois nymphes, et legerement vetue d'une draperie rouge, armee d'une lance, s'avance vivement vers un cerf aux abois qui se defend contre les chiens. Une nymphe, habillée de jaune, la suit. Une autre sonne du cor, une troisieme se prepare a lancer son javelot.
+
+Toile.Haut.,1 m.75;larg.,3m.76.
+
+Ancienne collection de lord Ashburton, Londres.
+
+Catalogue et decrit sous le n° 588, dans Max Rooses, l'Euvre de
+
+P.P.Rubens,Anvers,18go,vol.IIl, page 73.
+
+M. Max Rooses ajoute :u Cette excellente peinture est l'ceuvre commune de Rubens, de Snyders et de Wildens. Achete en 1838, avec cinq autres tableaux, du prince Joseph Bonaparte, par lord
+
+Ashburton.）
+
+Cite et decrit, dans le Supplement du CATALoGUE RAisoNNE des euvres des plus remarquables peintres hollandais, flamands et francais, par John Smith, vol. IX, Londres, 1842, sous le n° 352.
+
+ll convient de remarquer que les descriptions de J. Smith et de Max Rooses indiquent toutes deux que Diane et ses nymphes sont a gauche de la composition et non a droite.
+
+O
+## SELLAJO
+
+(JACOPO DIARCANGELO,dit JACOPO DEL) Florence,1442Florence,1493.
+
+39
+
+## La Nativite.
+
+Les mains jointes,les cheveux blonds et flottant sur les épaules, la Madone est agenouillee, au centre, en robe rouge et manteau vert. Elle contemple I'Enfant Jesus étendu dans une gloire d'or sur un pli de sa robe étale sur l'herbe. Son divin Fils tend ses petits bras vers elle et joue avec sa longue echarpe de gaze diaphane. Derriere lui, saint Jean prie, vetu d'une peau de mouton, drape dans un manteau rouge, une croix d'or appuyee contre l'epaule. De ses mains jointes séchappe un phylactere qui porte linscription :ECcE AGNvs DEI. Un vaste paysage d'eau, derochers et de prairies sétend au second et a l'arriere-plan. Deux bergers savancent, a gauche, suivis d'un chien; un autre pasteur séveille pres de ses moutons couches dans l'herbe, et la naissance du Sauveur, Sur une route,a droite, saint Joseph ramene le boeuf et I'ane a l'étable de Bethleem.
+
+Bois de forme ronde. Diam., 95 cent.
+## VAGA.
+
+(PIETRO BUONACCORSI,dit.PERINO DEL) Pres Florence,15oo  Rome,1547.
+
+40
+
+## La Vierge au liore.
+
+Elle est assise, au centre, sur un rocher, et tient de la main droite un livre que feuillette en souriant l'Enfant Jesus. Saint Jean est debout pres d'elle,a gauche, la croix sur lépaule et drape d'une tunique blanche retenue a la taille par une ceinture rose. Un grand paysage setend derriere eux vers des collines bleuatres, et un' arbre dresse sa tige svelte a droite sur la rive d'un cours d'eau, pres d'une passerelle de bois.
+
+-Bois.Diam.,87 cent.
+
+Tondo.
+
+## VASARI
+
+(GIORGIO)
+
+Arezzo,1511Florence,1574.
+
+## Sainte Catherine.
+
+Les cheveux blonds pares d'un diademe d'or, le visage souriant, elle tient un livre relie de rouge de la main droite. Une riche ceinture doree ornee de perles lui entoure la taille. Drapee dans un grand manteau rouge double de jaune, elle appuie son bras gauche sur la roue du supplice.
+
+Bois. Haut.,I m.o8;larg,78 cent.
+## VELASQUEZ
+
+(Ecole de DON DIEGO RODRIGUEZ DE SILVA Y)
+
+## L'Annonciation aux bergers.
+
+Trois bergers et leurs moutons sont rassembles dans une grotte, l'un d'eux, a droite, dort la tete appuyee sur le bras. Un ange apparait au-dessus de lui dans une palpitation de draperies jaunes. Un pasteur, tiré de son sommeil, a gauche, redresse son buste nu et la main devant les yeux regarde le celeste messager; au fond de la grotte, le troisieme berger se dresse drape dans un manteau rouge.
+
+Cadre en bois sculpte.
+
+Toile. Haut., I metre; larg., I m. 26.
+## WEST
+
+(BENJAMIN)
+
+Springfield,1738+Londres,1820.
+
+## Telemaque et Calypso.
+
+La deesse debout, au centre, sur le rivage ou deferlent de longues vagues écumantes, adresse un geste d'accueil a Telemaque qui s'avance vers elle, apres avoir, avec Mentor appuye pres de lui sur un baton, échappe a la tempete. Des nymphes groupees autour de Calypso regardent le heros, trois d'entre elles sont assises sur la dune. Trois autres, a droite, en tuniques legeres, les mains entrelacees dansent a la lisiere d'une foret au son du tambourin. Un navire desempare apparait a gauche, sous le ciel nuageux.
+
+Signe a droite, et date : 1772.
+
+Bois.Haut.,I m. o1;larg., I m.32.
+## WEYDEN
+
+(Ecole de ROGIER VAN DER)
+
+## La Vierge et l'Enfant Jesus.
+
+Un voile blanc drape sur ses cheveux blonds épars sur ses epaules, en manteau rouge retenu sur la poitrine par une agrafe de perles et de rubis, la Vierge est assise, au centre, devant-un bosquet de roses. L'Enfant Jesus, les fancs ceints d'une écharpe blanche, debout sur ses genoux, appuie tendrement son visage contre sa joue, le bras gauche passe derriere son cou.
+
+Bois.Haut.,93 cent.;larg.,72 cent.
+
+Cadre en bois sculpte.
+
+Peinture du xvr siecle.
+
+<!-- image -->

@@ -1,0 +1,8 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_83679,59654,1,I,"mportant et precieux tableau de la plus remarquable finesse, digne du pinceau des Van Eyck, dont l'artiste continua l'école.",33,99.6,False,positional,BRUYN (Barthelemy de),Scuola di Jan van Eyck,,,
+BO0624_83679,59655,2,I,nteressante composition de vingt-sept figures. Peinture avec fond et rehauts d'or.,128,99.4,False,positional,GIOTTO,,,,
+BO0624_83679,59656,3,I,nteressante peinture sur bois.,362,98.3,False,positional,WEYDEN (Roger van der),,OGGETTI IN LEGNO,,
+BO0624_83679,59657,4,I,'Enfant Jesus et de saints personnages.,406,97.4,False,positional,,ECOLE ITALIENNE,,,
+BO0624_83679,59658,5,1,Les bustes drapes du Soleil et de la Lune; leurs tetes sont modernes.,590,98.5,False,positional,,,MARBRES ANTIQUES,,
+BO0624_83679,59659,6,2,"Le groupe des trois Graces entre deux cornes d’abondance. Trois petits Amours, tenant chacun un arc.",591,72.3,False,positional,,,MARBRES ANTIQUES,,
+BO0624_83679,59660,7,3,"Venus, assise sur un bouc marin, deploie son voile.",593,98.0,False,positional,,,MARBRES ANTIQUES,,

@@ -1,0 +1,1617 @@
+## ECOLES ITALIENNES
+
+DES
+
+XV' ET XVI SIECLES
+## JACOPO DA PONTE,DIT J. BASSANO
+
+Ne a Bassano vers 1515;enterre dans la meme ville, le 14 fevrier 15g2.Eleve de son pere,
+
+Francesco da Ponte,et de Bonifazio,Venitien.ll fut forme ensuite a lecole de Giorgione,de Titien etdeParmesan.IlatravailleaBassanoetaVenise.
+
+## Scene rustique
+
+Dans une campagne,oi une vache, des chevres et des moutons sont en train de paitre, un paysan, lepaule chargee, s'avance vers une paysanne agenouillee sur le sol, vue de dos et le haut du corps penche vers une corbeille remplie d'eufs. La femme a les epaules largement decouvertes.
+
+Toile.-Haut.:om,63: larg.: o,715.
+
+Euvre de la vieillesse du peintre.
+
+Collection Mr.John Wood,1872;
+
+Charles Buttler,1911.
+
+Expose a Dusseldorf, au Musee de la ville, 1912, n° 10.
+## FRANCESCO DA PONTE, DIT BASSANO
+
+Ne a Bassano,le 26 janvier 1549;mort a Venise,le2 juillet 15g2.Fils et eleve de Jacopo Bassano.A travaille a Bassano, et a Venise a partir de 158o.
+
+## L'Annonciation aux Bergers
+
+Au premier plan,les bergers s'etaient endormis, tandis que leurs betes :
+
+moutons,beufs,chevres, anes, reposaient;et voici que,tout a coup, dans le ciel, un ange parait, enveloppe de lumiere, qui annonce la venue du Messie; a droite, au second plan, deux bergers se sont reveilles et, debout, ecoutent avec attention la parole du messager divin.Dans les arbres,quelques oiseaux ne semblent pas indifferents a la bonne nouvelle.
+
+Toile.-Haut.:1m,32;larg.:1m,82.
+
+Signe:Franc Bass.is
+
+Expose a Dusseldorf, au Musee de la ville, 1912, n 11.
+Peint vers 1490.
+
+Ce tableau etait dans une eglise,a Venise (W.RoBERTs).
+
+Collection Dino Barozzi,Venise;
+
+A.Sanderson,Edinburgh.
+
+Expose a Dusseldorf, au Musee de la ville, 1g12,n° 6. A consulter :D.voN HADELN,Zeitschrift fur Bildende Kunst,N.F.,XXIl,Pp.289, ss.
+
+## GIOVANNI BELLINI
+
+Ne a Padoue ou Venise,vers 143o;mort a Venise le 29 novembre 1516.Eleve de son pere Jacopo, forme ensuite a Padoue, a lecole de son beau-frere,A.Mantegna.
+
+## La Vierge avec l'Enfant Jesus et un donateur
+
+La Vierge, vue presque de face, en stola rouge fonce, palla bleu fonce et guimple blanche, porte sur sa main droite l'Enfant Jesus en petite chemise blanche et les cheveux frises. Tous deux ont derriere la tete un nimbe d'or, dont le cercle se dessine sur un fond de draperie. La Vierge, aux cheveux partages en bandeaux,la tete legerement penchee vers l'epaule gauche, est d'une beaute grave, émouvante.Derriere ce groupe principal,un donateur,vu de trois quarts a gauche,apparait en priere,les mains jointes. Devant ces figures,a hauteur de la ceinture,un balcon est dessine sur lequel on lit une signature.
+
+Bois. —Haut. : o",92 ;larg.: o",7o.
+## SANDRO DE MARIANO FILIPEPI DIT BOTTICELLI
+
+Florence, vers 1446-151o.— Au debut, eleve de son pere, puis de lecole de Fra Filippo Lippi. Influence par Antonio Pollajuolo et Verrocchio.A travaille la plupart du temps a Florence,et de 1482 a 1483 a Rome.
+
+## Jesus dans la creche
+
+L'etable, dont lappentis laisse voir une campagne lumineuse; le Messie est couche dans lhumble creche;la Vierge et saint Jean lEvangeliste sont en adoration devant lui. Saint Joseph se tient derriere lui,la tete inclinee.L'ane et le bouf traditionnels sont au fond et, dans le ciel, au-dessus de la creche, trois archanges,du troisieme ordre de la hierarchie celeste,planent et chantent.
+
+Peinture a fresque.—Haut.:1m,53;larg.:1m,34.
+
+Euvre peinte alors que lartiste etait encore sous l'influence de Filippo Lippi. Collection de Sir William Nevelli Abdy.
+
+Expose a Paris,au Musee du Louvre, Euvre des Orphelins d’Alsace-Lorraine, 1885,n°312;
+
+a Budapest, au Musee des Beaux-Arts, 1912;
+
+aDusseldorf,au Musee de la ville,1g12,n°3.
+
+A consulter:L'Art et les Artistes,1g13,XVI,p.251.
+5
+
+## GIOVANNI DI BUSI, DIT CARIANI
+
+Ne entre 1485et 149o a Venise;mort probablement dans la meme ville peu apres 1547.
+
+Eleve de Palma.A travaille a Venise et a Bergame.
+
+## Portrait d'homme
+
+Le personnage est represente debout, le visage grave, garni d'une epaisse barbe brune. Il est vetu d'un riche pourpoint en velours gris fonce au col duquel se rabat une etroite dentelle. Il appuie sa main droite a la hanche et entre l'ecartement du coude et sa ceinture, on apercoit, derriere lui,le pommeau de sa rapiere. Pres de lui, a droite, se trouve, dans une vasque, un citronnier charge de fruits et c'est un de ces fruits que tient samain 1 gauche relevee,le bras ployé. Au fond, a gauche, par une large baie, on apercoit une campagne magnifiquement éclairee.
+
+Toile.-Haut.:om,84;larg.:1m,02.
+
+Expose a Dusseldorf, au Musee de la ville, 1912, n 7.
+## AGNOLO GADDI(?)
+
+Florence,vers 1335-13g6.Fils et éleve\_de Taddeo Gaddi;plus tard,eleve de Giovanni da Milano.
+
+## Triptyque
+
+Panneau du milieu:
+
+La Vierge est assise sur un trone, tenant dans ses bras l'Enfant Jesus. remonte sur la tete et l'enveloppe comme une guimple.A ses pieds,quatre anges du neuvieme choeur sont en adoration, deux par deux. Ceux du premier
+
+Elle est vetue d'une stola rouge qu'on apercoit sous une palla bleu fonce qui plan tiennent une burette fleurie. Des deux autres,l'un joue du theorbe et l'autre tient un antiphonaire. Sous la premiere marche du trone occupe par la Vierge,il y a une inscription en lettres onciales.
+
+Volet de gauche:
+
+Le volet de gauche est occupe par la figure de sainte Catherine et celle de saint Jean le Precurseur, debout sous une arcade ogivale geminee. La sainte est vetue d'une palla rose enrichie d'une bordure de broderie; son front est ceint d'un diademe et elle porte un glaive de la main droite, un livre de prieres de la main gauche. Le Precurseur est drape dans les plis d'un pallium gris. Il tient une croix de la main gauche et designe, de lindex de la main droite, Jesus qui occupe le panneau du milieu.
+
+Dans le haut du volet, on apercoit, en un cercle tenant la place d’une
+rosace,l'archange Gabriel, en interpretation de lAnnonciation; cette figure fait pendant a la Vierge qui occupe le haut du volet de droite.
+
+Voletdedroite:
+
+Le volet de droite est occupe, dans un decor identique a celui de gauche, par une figure de sainte Helene et une figure de saint Jean l'Evangeliste. La sainte, debout, le front couronne d'un diademe, est vetue d'une stola rouge brodee sous une palla grise et elle porte de la main droite une croix, de la main gauche un livre de prieres. L'Evangeliste,represente age, tient de la main gauche son évangile et de la main droite son calame.
+
+Bois.-Haut.du panneau du milieu:1m,285;larg.:om,68; haut. du volet gauche : 1m,155;larg.:om,545; haut. du volet droit :1m,165;larg.:om,55.
+
+Expose a Budapest, au Musee des Beaux-Arts;
+
+a Dusseldorf, au Musee de la ville,1912, n° 1.
+
+Voir:ScHUBRING,Zeitschrift fur Bildende Kunst,N.F.,XXII,p.32.
+## MICHELE GIOVANNI BONI
+
+## DIT GIAMBONO(?)
+
+Peintre et mosaiste.-Venise,Iremoitie du xve siecle.
+
+## Entree de Jesus a Jerusalem
+
+Dans un paysage montagneux, Jesus, monte sur un ane, s'avance vers la droite, en tete du cortege de ses disciples. Il est vetu d'une stola rose et d'un pallium bleu.Derriere la tete des personnages s'arrondit un nimbe dore.
+
+Sous les pas de Jesus, deux figures de femmes etendent leur vetement, tandis qu'a la porte de la ville un patriarche a longue barbe tient un rameau de la main droite. Un arbre se dresse tout pres de la porte, et, dans ses branches, deux gamins sont montes et se tiennent suspendus, agitant un rameau de leur main droite.
+
+Panneau.—Haut. :om,27;larg.: o,205.
+
+Expose a Dusseldorf, au Musee de la ville, 1912, n° 2.
+## SEBASTIANO DI BARTOLO MAINARDI
+
+Ne a San Gimignano,mort en septembre 1513,probablement a Florence.Beau-frere et disciple de Domenico Ghirlandajo.A travaille principalement a Florence,et dans d'autres cites de Toscane.
+
+## Lamentations autour du Christ
+
+Joseph d'Arimathie soutient debout le Christ mort, dont la tete tombe sur la poitrine. A gauche, la Vierge soutient le bras de ses deux mains, tandis qu'a dont il ploie le bras. Les figures sont vues jusqu'a mi-corps. Sur un rebord de pierre, on a pose les clous provenant des saintes plaies,et l'eponge qui fut imbibée de vinaigre. Derriere les figures, on apercoit le paysage montagneux, qui fut le theatre de la divine tragedie, avec le Calvaire au fond,a droite, saint Jean l'Evangeliste s'incline et baise la main gauche du supplicie, droite, et Jerusalem a gauche.
+
+Bois.—Haut.: om,865 ;larg.: om,68.
+
+Provient d'une collection particuliere de Rome.
+
+Expose a Dusseldorf, au Musee de la ville, 1g12, n° 4.
+## GIOVANNI BATTISTA MORONI
+
+Ne a Bondo, pres d'Albino, aux environs de 152o;mort le 5 fevrier 1578 a Bergame.
+
+## Portrait d'homme
+
+Il est represente jusqu'a la poitrine,le corps de profil a droite,la tete tournee de trois quarts. Il a la physionomie volontaire,avec ses traits accentues, ses cheveux et sa barbe noirs, ses yeux aigus, son teint brun. Son col de chemise est rabattu, souple et festonne, sur un vetement gris.
+
+Toile.—Haut.:om,44;larg.:om,34
+
+Signe et date,1564.
+
+Collection du Comte Simonski-Tarand.
+
+Expose a Budapest, au Musee des Beaux-Arts, 1g1o;
+
+a Dusseldorf, au Musee de la ville, 1g12, n° 8.
+
+Decrit dans:L'Art et les Artistes,1g13,xVI,p.252.
+
+A consulter: ScHUBRING,Zeitschr.f,Bild.Kunst,N.F.,XXI, 191o, p.33.
+## JACOPO O ROBUSTI, DIT IL TINTORETTO
+
+Ne a Venise en septembre 1518;mort dans la meme ville le 31 mai 1594. Eleve de Titien et de Schiavone.
+
+## Trois Donateurs
+
+Dans un paysage montagneux aux grandes lignes pittoresques,les trois donateurs sont representes de profil a droite,vetus d'amples robes de velours garnies de fourrure. Le plus age, a longue barbe, leve les yeux et son regard est grave. Le second, a cote de lui, tient ses mains dans un geste de priere attentive.Il a la barbe fournie et le front denude.
+
+Le troisieme, qui doit etre a genoux, a ramene sa main gauche contre sa poitrine. Son masque sourit; sa barbe est courte : autour du cou et aux poignets, il porte un ruche souple en batiste blanche.
+
+Toile.—Haut.:1m,18;larg.:om,91.
+
+Fragment d'un grand tableau representant une priere a la Vierge. Collection Thiem,de San-Remo.
+
+Expose a Dusseldorf, au Musee de la ville, 1912, n° 14.
+
+Decrit dans:L'Art et les Artistes,XVI,p.250.
+11
+
+## JACOPO ROBUSTI, DIT IL TINTORETTO
+
+## Le Christ et la femme adultere
+
+Devant Jesus on a amene la femme adultere; autour de celle-ci, qui baisse la tete, des hommes sont masses, les yeux pleins d'une fureur indignee; mais Jesus, dont la tete est entouree dune aureole lumineuse, prononce les paroles de justice et de pardon, et ceux qui l'ecoutent, regardant en euxmemes,reconquierent le calme sous la parole divine.
+
+Toile.-Haut.:1m,32;larg.:2m,42.
+
+Fut en possession de la famille venitienne Conde Vidmani Expose a Budapest, au Musee des Beaux-Arts ;
+
+a Munich,a lAncienne Pinacotheque,191I,n°24;
+
+a Dusseldorf,au Musee de la ville, 1g12,n° 13.
+
+A consulter:Carlo RIDoLFI,Le Meraviglie dell Arte,Venezia, 1648,t.Il.p.46.
+12
+
+## JACOPO ROBUSTI, DIT IL TINTORETTO
+
+## Portrait d'homme
+
+presque de face et vu jusqu'aux genoux, vetu d''un ample manteau de velours noir avec un large parement de fourrure. Ses cheveux frisent naturellement, encadrant son front haut et intelligent. Ses yeux ont des regards aigus : sa bouche apparait grave sous la moustache courte; son menton est volontaire sous la barbe longue. Ses mains posent naturellement, la droite sur la jambe, la gauche a laccoudoir du siege.
+
+Toile.Haut. : 1m,o1 ; larg.: o",73.
+
+Expose a Budapest, au Musee des Beaux-Arts; a Munich,a 1Ancienne Pinacotheque,1g11,n° 25; a Dusseldorf, au Musee de la ville, 1912, n 15. Voir:L'Art et les Artistes,1913,XVI,p.250.
+## JACOPO
+
+Certifie par B.Berenson,Florence.
+
+13
+
+## ROBUSTI, DIT IL TINTORETTO
+
+## Portrait d'homme
+
+Il est represente dans un interieur, debout, de trois quarts a gauche, en pourpoint a manches de soie grise sur lequel il porte un manteau de la meme couleur a larges parements fourres. ll a les cheveux courts et rares avec une barbe brune courte et fournie. Son col de batiste blanche est rabattu et forme sur le devant de la poitrine deux longues pointes.Il a des poignets de batiste blanche a tuyautes empeses. De la main droite, le bras ployé, il retient le bord de son manteau fourre; de la main gauche, le bras pendant naturellement,il porte ses gants bruns. L'auriculaire est orne d'une bague d'or a cabochons de pierre. A gauche, en haut, par une baie, un paysage admirable apparait avec un chateau construit sur une colline.
+
+Toile.-Haut.:1m,20;larg.:1m,02.
+14
+
+## JACOPO ROBUSTI, DIT IL TINTORETTO
+
+## La Resurrection du Christ
+
+Les gardes sont endormis et voici que la pierre du tombeau s'ecarte et que le Christ triomphant ressuscite et surgit,le bras droit leve et montrant le ciel,la main gauche tenant une hampe a laquelle est attache un étendard brode de la croix. A droite,au fond, l'un des gardes, en armure, s'eveille cependant et demeure frappe de stupeur devant la vision divine.
+
+Au fond,on apercoit la ville de Jerusalem dominee par les montagnes au-dessus desquelles le soleil se leve,radieux.
+
+Le ciel est agite de larges nuees.
+
+Toile.——Haut.:1mgo;larg.:1m47.
+
+Peint a Venise vers 1548,pour la famille patricienne da Mula, en la possession de laquelle l'euvre demeura jusqu'en 1861.
+
+Collection William Graham,1886.
+
+- Ch.Buttler.
+
+Expose a 1Exposition de 1Art venitien,New Gallery, 1894,n 5；faisait alors partie de la Collection Ch.Buttler;
+
+- a Dusseldorf, au Musee de la ville, 1912, n° 12.
+## PAOLO CALIARI, DIT VERONESE
+
+Nea Verone en 1528；morta Venisele 19 avril1588.Eleve de AntonioBadile a Verone. A travaille a Venise,principalement, ou il etait, des 1555,sous linluence de Titien et de
+
+Tintoret.
+
+## La Ville de Venise adorant lEnfant Jesus
+
+## et la Vierge
+
+A droite, devant une colonne, la Vierge est assise, vue de profil a gauche,et vetue, sur une stola fraise, d'une palla verte dessinant de larges plis. Elle tient dans ses deux mains, sur un voile, lEnfant Jesus nu qu'elle presente a l'adoration de la ville de Venise. Gelle-ci est symbolisee par une jeune femme en somptueux atours, les cheveux tout meles de perles, qui apparait presque de profil a droite, agenouillee devant le Messie, le bras gauche ploye, la main appuyee contre la poitrine. Au-dessus d'elle, un amour envole dans le ciel porte son diademe de reine de lAdriatique.
+
+Toile.—Haut.:1 metre;larg.;1m,35.
+
+Collection Earl of Wicklow;
+
+- Lady Milford, de Londres.
+
+Expose a Burlington House, 1885;
+
+- a la Municipal Art Gallery-Leeds,Loan collection,18S9；
+- a la New Gallery,London,Winter exhibition,1897-1898;
+- a Dusseldorf, Musee de la ville, 1g12, n° 9.
+## ECOLE PRIMITIVE FLAMANDE
+16
+
+## GERARD DAVID
+
+Ne a Ouwater vers 146o.Fut a Bruges, a partir de 1483, a Anvers en 1515,puis de retour a Bruges a partir de 1521;il y mourut le 13 aout 1523. Forme sous linfluence de Hans Memling et de Hugo Van der Goes.
+
+## La Vierge allaitant l'Enfant Jesus
+
+Dans un paysage d'enchantement tout fleuri de lis, avec au fond un admirable massif d'arbres sur une hauteur, et plus loin une petite ville qui s'enchasse dans la verdure,la Vierge est assise,vue de face en robe bleu fonce, fichu de batiste blanche et manteau rouge.Elle tient contre sa poitrine Enfant Jesus, qui detourne la tete, distrait, sans songer a prendre le sein nourricier qu'on lui offre, ni la pomme dont la Vierge veut lamuser et i presente de la main gauche. La Vierge, aux cheveux encadrant son visage de boucles blondes, contemple lEnfant avec un regard delicieux qu'ellelui de tendresse,et lovale de son visage est d'une beaute excellemment pure.
+
+Bois de forme cintrée.-Haut.:om,425；larg.:om,26.
+
+Provient du Couvent des Carmelites de Salamanque auquel il avait ete offert en 163o par Almancicidor；plus tard,Maria Van Mol devint nonne dans ledit couvent.
+
+Expose a Dusseldorf, au Musee de la ville, 1g12,n° 23.
+
+Voir:L'Art et les Artistes,1913,XVI,p.249.
+17
+
+## GERARD DAVID
+
+## La Mise au tombeau
+
+Au premier plan, le Christ est a demi couche sur le sol, les bras pantelants, la tete penchee vers lepaule droite. Saint Jean, en pallium rouge, est derriere lui et souleve le torse de ses deux mains placees pres des épaules. Sa tete au regard vague s'incline avec une infinie tristesse. Au milieu, la Vierge, vue de face et écroulee sur ses genoux, joint les mains dans un geste de douleur silencieuse. Elle est vetue d'une palla bleue et sa tete s'enveloppe d'un voile blanc qui laisse apercevoir le visage ravage par l'angoisse. A droite,Magdeleine en robe d'etoffe jaune brochee a grands ramages, s'est agenouillee. Son corsage est decollete en carre; sa coiffure est agrementee de perles. Elle leve pres de sa tempe droite sa main en un geste d'adoration desolee; sa main gauche porte pres du genou le vase clos des aromates. Les figures se detachent sur un fond de paysage marque, a gauche, par un panorama de Jerusalem.
+
+Bois.-Haut.:om,56;larg.:om,625.
+
+Collection du Cardinal Despuig,a Palma de Majorque.
+
+de la Comtesse Rene de Bearn,Paris.
+
+Fit partie originairement d'un tableau d'autel (consulter BoDENHAusEN:Gerard Daoid et son Ecole,p. 168), dont le milieu et un volet se trouvent actuellement dans la collection P.A.B.Widener,a Philadelphie.
+
+Expose a Dusseldorf, au Musee de la ville, 1912, n° 22.
+
+A consulter:BoDENHAUsEN etVALENTINER,Zeitschrift fur Bildende Kunst,Neue folge,XXII, p.184.
+18
+
+## LE MAITRE DE LA MORT DE LA VIERGE
+
+Il parait assez vraisemblable de voir dans ce maitre le peintre Joos van der Beke,dit Joos van Cleef,d'Anvers,néa Cleves ouaAnvers en 1485;mort a Anvers en 1525.Vraisemblablement encore,il fut eleve de Jan Joest von Kalkar;puis il subit l'influence de maitres comme Quinten Massys, Joachim Patinir et Jan Gossaert.ll fut, en 1511, admis a la Gilde de
+
+Saint-Luc, a Anvers.
+
+## Sainte Famille
+
+La Vierge est assise portant, a son sein droit, jailli du corsage, l'Enfant debordant de sa guimple blanche, en costume bleu avec des manches garnies
+
+Jesus nu.Elle est vue de trois quarts a gauche, ses cheveux blonds denoues de fourrure. Pres d'elle, debout, saint Joseph, coiffe d'un chapeau de paille, lit un livre ouvert devant lui et pose sur un pupitre. Devant la Vierge qui, de la main gauche, tient une fleur, se trouvent un vase contenant d'autres fleurs et un couteau appuyé sur une moitie de citron, a cote d'un morceau et d'une pelure du meme fruit.
+
+Bois.-Haut.:om,48;larg.:om,36.
+
+Expose a Budapest, au Musee des Beaux-Arts.
+## MOOR VAN DASHORST (ANTHONIS) ANTONIO MORO DIT
+
+Ne a Utrecht en 1512;mort a Anvers en 1578. Eleve de Jan van Schorel. Inscrit en 1547 a la gilde de Saint-Luc, dUtrecht.Emmene en 155o,par le cardinal de Granvelle,a Rome, ou il devint peintre de Charles-Quint. Envoye,en 1553,a Lisbonne pour y faire les portraits de la famille royale et,en 1554, cn Angleterre pour y faire le portrait de Marie Tudor. Rentre a Utrecht en 1556.
+
+## Portrait de femme
+
+C'est une jeune femme, debout, vue de face jusqu'a mi-jambes. Elle est vetue d'un costume dont la jupe s'arrondit a la taille en vertugade a gros plis; son costume est noir avec des manches etroites rayees de blanc. Elle porte au cou et aux poignets une parure de batiste blanche a tuyautes rigides. Ses cheveux sont releves sur le front et coiffes d'un beguin passemente. Son visage a une grace melancolique d'un charme saisissant; son teint est pale, ce qui donne a sa joliesse plus d'emotion. Ses yeux ont le regard caressant; son nez est d'un dessin calme; sa bouche est fine avec un sourire qui va eclore. Elle s'appuie de la main droite a un coin de table sur lequel un chien griffon est couche. Sa main gauche,le bras a demi ploye,est ramenee pres de la pointe du corsage. La figure se detache sur un fond neutre.
+
+Toile.—Haut.: om,9o;larg.:om,67.
+
+En haut du tableau a droite,on lit en lettres capitales:
+
+etagauche:1577.
+
+AETA. 26.
+
+Collection du Baron de Beurnonville,Paris.
+
+du Baron de Hirsch,Paris.
+
+Expose a Exposition des Maitres hollandais, salle du Jeu de Paume,Paris,191l, n°97； aDusseldorf,1912.
+
+A consulter:Armand Daxor,Grands et Petits Maitres hollandais,Pp.138 et 142.
+## ECOLE PRIMITIVE ALLEMANDE
+## HANS BALDUNG, DIT GRUN
+
+Ne a Weyershelm entre 1476 et 148o;mort en 1545 a Strasbourg.A travaille principalement a Fribourg et Strasbourg.Forme sous l'influcnce de son ami Albert Durer.
+
+## Vénus et Cupidon
+
+Elle est debout, de face, le poids du corps portant sur la jambe droite, le pied gauche legerement en retrait,le genou inflechi, ce qui creuse a sa hanche deux plis d'une grace delicieuse. Elle écarte de ses deux mains la draperie dont elle eut pu voiler sa nudite. Ses cheveux blonds, qui sont denoues, flottent autour de sa tete et de ses epaules comme une écharpe d'or en fusion. Sa tete legerement tournee vers la droite a un regard d'une triomphante insolence; avec ses formes qui sont a la fois opulentes et jeunes, elle apparait etrangement dominatrice. Sur sa chair qui vibre,la lumiere glisse commeune caresse.
+
+A ses pieds, sur une sphere, Cupidon, nu,avec une mine malicieusement espiegle,aide la deesse a écarter le voile dont elle se devet, et brandit de sa main gauche une fleche aceree.
+
+Bois.Haut.:2,09 ;larg.:om,84.
+
+Signe:H. B.et H.B.1525.
+
+Galerie du Comte Costa,a Piacenza.
+
+Expose a Budapest,au Musee des Beaux-Arts, 1911;
+
+a Dusseldorf, au Musee de la ville, 1g12, n° 24
+
+A consulter:G.voN TEREy,Kunstchronik, t.XXI, 1912,Pp.254et 255.
+21
+
+## BARTHOLOMEUS DE BRUYN,LE VIEUX
+
+Ne probablement en Hollande,en 1493;mort a Cologne,en 1556 ou 1557.Fut le successeur de Joos van Cleves.Plus tard, se laissa influencer par le gout italien.
+
+## Portrait d'homme
+
+Il est represente jusqu'a mi-corps, de trois quarts a droite; il s'appuie de la main gauche au bord d'une table et il tient de la main droite, ornee a lindex de deux bagues, une enveloppe. Il est vetu d'un manteau de velours bleu fonce garni d'un large col de fourrure. Ses cheveux boucles sont coiffes d'une toque plate. Il a les traits marques par lage, avec des yeux petits, une bouche aux levres graves et un nez a rendre jaloux Cyrano lui-meme.
+
+Expose a Budapest, au Musee des Beaux-Arts, 1911 ; a Dusseldorf, au Musee de la ville, 1912, n° 26.
+
+Bois.—Haut.:om,41 ;larg.:om,315.
+## BARTHOLOMEUS DE BRUYN, LE VIEUX
+
+## Descente de croix
+
+Le drame du Calvaire est consomme. La Vierge tient sur ses genoux le corps du Christ mort que l'on vient de descendre de la croix. Devant la Vierge, Madeleine vue de dos s'empresse de panser les saintes plaies avec des aromates. De chaque cote du groupe principal 1 se trouvent les figures agenouillees de deux donatrices accompagnees chacune de deux religieuses aupres desquelles se trouvent, a gauche, un petit saint Jean en priere,a droite un agneau pascal. Derriere les deux figures de donatrices et les deux figures de religieuses ou d'abbesses, se tiennent debout les Saints protecteurs. En allant de gauche a droite, on remarque sainte Helene, saint Pierre, saint Andre et sainte Agnes.
+
+Au fond, le paysage merveilleux est occupe d'un cote par une ville, de lautre par le Calvaire, ou lon apercoit les personnages qui ont detaché Jesus de la croix a l'aide d'une echelle encore appuyee contre elle, et les deux larrons suspendus a leur gibet.
+
+Bois.—Haut.:om,93;larg.:om,87.
+
+Expose a Vienne, a lExposition Mondiale 1873, appart.au Dr E. Posonyi;
+
+a Budapest, au Musee des Beaux-Arts.
+
+ScHUBRING,Zeitschrift fur Bildende Kunst,N.F.xXI, pp.37,38.
+
+E.FIRMENIcH-RicHARTz, B.Bruyn und seine Schule.
+23
+
+## BARTHOLOMEUS DE BRUYN, LE VIEUX
+
+## La Vierge, PEnfant Jesus, sainte Anne
+
+## saint Gereon et un donateur
+
+La Vierge en stola bleu fonce et palla bleue garnie d'une broderie d'or est assise devant une tenture soutenue par des anges et illuminee de la colombe du Saint-Esprit. Elle tient debout sur ses genoux l'Enfant Jesus nu qui tend ses mains pour saisir une pomme que sainte Anne lui presente de la main gauche. La sainte est assise sur une cathedre. Elle a la tete et les epaules enveloppees d'une guimple et sur sa robe qui semble une robe d'abbesse, elle porte une palla rose conforme a la tradition italienne. Elle appuie sur sa jambe un livre de prieres qu'elle retient de la main droite.
+
+A droite, debout, en armure, sous un pallium beige, saint Gereon est vu de profil, les genoux inflechis comme pour la priere, et s'appuyant de la main droite a la hampe d'un drapeau brode d'une croix. ll presente a ladoration de la Vierge et de Jesus un donateur qu'il protege, ainsi que lindique le geste de sa main gauche : ce donateur est agenouille de profil a gauche, en aube blanche et tenant sa barrette a la main. Au fond, on apercoit un paysage avec un etang dans l'eau duquel un cavalier fait desalterer son cheval.
+
+Panneau.-Haut.:om,785；larg.:om,585.
+
+Vente Neven, a Cologne;n°2,1879. Collection Weber, de Hambourg,n°64.
+
+Expose, en 1go4,a l'exposition d'Art historique de Dusseldorf, n°468.
+
+A consulter,pour lepoque de cette euvre,de 153o a 1548, Joh. Jac.MeRLo, Die. Meister
+## COLLECTION MARCZELLDE NEMES
+
+der altkolnischen Malerschule,Cologne,1852,p.159；nouvelle edition de FiRMEN1cHRIcHARTZ et KEUssEN,Dusseldorf,1895,p.136; WoLTMAN-WoERMANN, Geschichte der Malerei,t.Il,p.497; PFLUGH-HARTUNG,Repertorium,1885,t.VIII,p.3; A.JANITscHEck,Geschichte der Deutschen Malerei,Berlin,18g1,p.522； E.FIRMENIcH-RicHARTz,B.Bruyn und seine Schule,Leipzig,1881,Pp.108,10g; CARL ALDENHovEN, Geschichte der Kolner Malerschule,Lubeck,1go2,p.383.
+24
+
+## LUCAS CRANACH, LE VIEUX
+
+IOberfranken；mort a Weimar,le 16 octobre 1553.Eleve de son pere.Forme ensuite sous linfluence de Durer et de lEcole du Danube.A partir de 15o5 il fut le peintre de la cour du prince de Saxe, a Wittemberg et dans les Pays-Bas,en 1508.
+
+## L'Annonciation a Joachim
+
+Tandis qu'il faisait paitre ses troupeaux de moutons,Joachim,le pere de la Vierge,recut par l'intermediaire d'un archange l'annonce de la destinee que Dieu reservait a sa fille : et le vieux berger, agenouille et les mains jointes, accueille pieusement cette revelation. A gauche, derriere un arbre, un autre berger, joueur de cornemuse, et son compagnon designent du doigt l'ange qui plane dans l'atmosphere.
+
+montagneux.
+
+Bois.—Haut.: om,61; larg.:om,515.
+
+Signe du monogramme du peintre et date 1518.
+
+Collection Glitza, de Hambourg. Expose a Dusseldorf, au Musee de la ville, 1912, n° 27.
+## LUCAS CRANACH, LE JEUNE
+
+Ne en 1515 a Wittemberg; mort en 1586,a Weimar. Eleve de son pere.
+
+## Paysage avec scene de chasse
+
+Sur un pre entoure de canaux, des cerfs sont en train de courir, poursuivis par des chiens qu'accompagnent des cavaliers. Quelques-uns se d'une ville. A droite, une hauteur rocheuse porte sur son plateau les constructions d'un chateau fort. Sur les canaux que lon voit au milieu du paysage, des barques glissent, occupees par plusieurs personnes.
+
+Signe.
+
+Expose a Dusseldorf, 1912, n° 28.
+
+Haut. : om,71; larg.: om,55.
+## HANS SUSS VON KULMBACH
+
+Néa Kulmbach, en 1476;mort a Nuremberg,en 1522.Eleve de Jacopo de Barbari, dit
+
+Jakob Walch；puis, sous linfluence d'Albert Durer. A travaille principalement a Nuremberg.
+
+## Portrait de femme
+
+decollete en carre sur une chemise a entre-deux brodes. Son costume est garni de parements de velours verdatre sur une etoffe verte.Elle porte comme coiffure un bonnet qui enserre le front et cache les oreilles et se releve a larriere en un bourrelet arrondi. Ce bonnet est garni d'une bande de passementerie brodee dont le decor est quelque peu rappele sur la ceinture. Cette personne aux traits reguliers, au masque calme, a la beaute grave malgre sa jeunesse, semble avoir eu un gout prononce pour les bijoux. Ses deux bras croises,le droit sur le gauche,laissent voir trois bagues a l'index de la main droite et une a lindex de la main gauche. Autour du cou, elle ne porte pas moins de trois colliers, l'un fait de motifs d'or ornes de perles et de cabochons avec un medaillon carre;le second fait d'anneaux d'or;le troisieme forme de chainons a fils tordus.
+
+Bois.—Haut.:om,585；larg.:om,44
+
+Dans le haut,on lit les inscriptions suivantes:
+
+a gauche:
+
+eta droite:
+
+J. A. Z. 4. (e Z a la signification de 2)
+
+1.5.1.3. K
+
+Consulter les memes documents que pour le Portrait dhomme.
+On lit dans le haut, a gauche :
+
+J. A. Z. 7. (le Za la signification de 2)
+
+etadroite:
+
+## 1. 5. 1. 3. K
+
+Collection:Weber,de Hambourg,no 46 et 47.
+
+A consulter :WoLTMANN et WERMANN, t.II,p. 405.
+
+PFLUGK-HARTUNG:Repertorium,1885,t.VIII,p.84;
+
+Hub.JANITscHEk, Geschichte der deutschen Malerei,Berlin,18go,p.377；
+
+Karl KceLIrz:Hans Suss von Kilmbach,Leipzig,18g1,p.55.
+
+27
+
+## HANS SUSS VON KULMBACH
+
+## Portrait d'homme
+
+Il est represente jusqu'a mi-corps, de face, les deux mains appuyees sur un bord de balcon; la main droite, les doigts presque etendus,la main gauche placee sur le cote, le petit doigt, l'annulaire et le medius ployes,un anneau d'or a l'index. ll est vetu d'un manteau verdatre fourre a larges parements, ouvert pres du cou sur un plastron de lingerie plisse et brode. Ses manches bouffantes, d'etoffe rouge, apparaissent sous le manteau. ll est coiffe d'un bonnet de soie passemente.Il a la figure glabre avec, sous le maxillaire et le long de la joue, de tres minces favoris. Son regard est tourne vers la droite.Il a les traits accentues et d'une certaine noblesse.
+
+Bois.-Haut.:o,58;larg.:o,435.
+## ECOLE ESPAGNOLE
+## DOMENICO THEOTOKOPULI DIT EL GRECO
+
+Ne en 1547 a Candie (Crete);mort le 7 avril 1614 a Tolede.Eleve du Titien, et,a travers Tintoretto,Le Correge et Michel-Ange.A travaille a Venise,a Rome et, depuis 1577,a Tolede.
+
+## Sainte Magdeleine
+
+A lentree de la grotte,la sainte est assise drapee dans une ample palla bleu irise; elle a la poitrine en partie decouverte, et sa main droite, ramenee pres du coeur,le bras ploye, semble,par son geste, prendre l'univers a temoin de l'ardeur de sa foi. Sa tete,tournee de trois quarts a gauche, a les yeux leves, le regard fixe dans l'ivresse de l'extase. Ses cheveux denoues tombent en longues tresses derriere ses epaules. Sur son genou gauche, elle tient ouvert un livre d'heures sur lequel elle a depose un crane e humain, symbole de la parole divine : Et memento quia pulois es, et in pulverem reverteris. A gauche, pres d'elle, un petit vase clos, des aromates qu'elle repandit au tombeau du Christ. Au fond, une campagne illuminee d'aurore, avec un ciel ou s'envole une vaste chevauchee de nuages.
+
+Toile.-Haut.:1m,56;larg.:1m,21.
+
+Peintentre 1578et1580. Collection J. Stchoukine,Paris. Expose a Budapest, Musee des Beaux-Arts; a Munich, a l'Ancienne Pinacotheque,1gi1,n 8; a Dusseldorf,1912,n° 62. A consulter:Cossio,El Greco,Madrid,1go8,n 319; ScHUBRING,Zeitschrift fur Bildende Kunst,N.f.XXIl,p.36; VoN TEREy, Der Cicerone, II, 5; A.-L.MayER,El Greco,Munich 1911, p.36.El Museum, I.46o.
+## DOMENICO THEOTOKOPULI DIT EL GRECO
+
+Saint Louis de Gonzague (1568-1591)
+
+pretant serment comme membre de la Compagnie de Jesus (1584)
+
+Il est debout, vu de trois quarts a gauche et jusqu'a mi-corps, derriere une table portant ouvert le livre des Evangiles. Il étend sa main gauche sur le feuillet du livre,et de la main droite,a demi levee,lindex et le pouce étendus, il fait le geste rituel. Sa tete, aux cheveux courts et bruns, aux yeux tres noirs, aux traits expressifs,se dessine pleine d'accent sur la courbe de la collerette blanche en batiste empesee. Il est vetu d'un pourpoint sombre et d'un manteau de meme couleur a larges parements.
+
+Toile.-Haut.: om,731;larg.: om,568.
+
+A etepeintentre1584et15go.
+
+Designe a tort comme étant le portrait d'Ignace de Loyola et designe a tort egalement, par Cossio,n°324,comme une euvre de la vieillesse du Greco. Sur la personnalite,consulter
+
+Coss10,Pp.433,ss.
+
+Collection D.Pablo Bosch,Madrid.
+
+Expose a 1'Exposition Greco,Madrid,1go2,n°16;
+
+a Budapest,au Musee des Beaux-Arts;
+
+a Munich, a 1Ancienne Pinacotheque,1911,n° 13;
+
+a Dusseldorf, 1912, n° 63.
+
+A consulter:A.L.MAYER,El Greco,p.64.
+
+Reproduit dans A.F. CaLvERT, El Greco.Planche 27 (Portrait of a Student).
+## DOMENICO THEOTOKOPULI
+
+## DIT EL GRECO
+
+## Le Christ portant sa croix
+
+C'est la un sujet sur lequel Le Greco est revenu tres souvent. Jesus debout, le front couronne d'epines, presse contre lui sa croix, les yeux leves,la bouche ouverte comme pour une humaine supplication;il offre au Pere toute sa torture passee et sa mort future pour le rachat universel. Dans l'ecartement du pallium rouge qui le vet, on apercoit son cou amaigri par les privations.
+
+De ses deux mains,l'une, la droite, occupe sur la croix une place audessus de la main gauche, dont les doigts sont ecartes inegalement,le medius et l'annulaire demeurant rapproches.
+
+Derriere la figure, un ciel plein de nuages.
+
+Toile.—Haut.:o,795；larg.:om,585.
+
+Montre une composition un peu differente des exemplaires qui sont, lun au musee du
+
+Prado,et I'autre dans la Collection Beruete.
+
+Expose a 1'Exposition d'Art espagnol chez Heinemann, a Munich, n 3o;
+
+- a Budapest,au Musee des Beaux-Arts;
+- a Munich,a lAncienne Pinacotheque,1gil,n° 11;
+- aDusseldorf,1912,n°64.
+
+A consulter:A.-L.MAYER,El Greco,Pp.33 et 4o.
+Peintentre 15g2et15g6.
+
+Provient d’une eglise de la paroisse de Torrejon de Velasco, pres de Tolede.
+
+Collection Don E.Orossen.
+
+Expose a Budapest, au Musec des Beaux-Arts ;
+
+a Munich,a lAncienne Pinacotheque,1g1l, n° 14;
+
+a Dusseldorf,1912,n° 65.
+
+A consulter:Coss10,n°310 etpp.332,7o1 et 702;
+
+A.-F. CaLvERT,El Greco, ou ce tableau est reproduit sur la planche 53.
+
+Von TeREy, Cicerone, III, 4.Kunst und Kunstler,IX,218; A.L.MayER, El Greco, p. 4o. El Museum, t.46o et Die Galerien Europas,7, 1912, 4°partie,p.496.
+
+31
+
+## DOMENICO THEOTOKOPULI DIT EL GRECO
+
+## La Sainte Famille avec la corbeille de fruits
+
+Dans un paysage vraiment celeste,les quatre figures representes sont d'une verite telle et d'une purete si emouvante qu'on demeure devant l'euvre, en une contemplation irresistiblement religieuse.
+
+La Vierge, la tete a demi degagee d'une mantille et dont le corps s'enveloppe d'une ample draperie bleue, tient sur elle,de sa main et deson bras s gauches, l'Enfant Jesus tout frise, tout souriant, tendre, delicieux de mouvements ingenus. L'Enfant vient de prendre un fruit dans la coupe que lui presentait saint Joseph et il le tend a la main, toute proche, de sa mere. Derriere la Vierge et s'appuyant a son epaule, d'une main qui protege et en un geste qui aime, sainte Anne, figure d'ombre et foyer intime de tendresse humaine, embrasse dans un meme frisson de joie apaisee, la mere et l'enfant.
+
+Derriere les figures, des montagnes, des nuees, de linfini !
+
+Toile.-Haut.:1m,3o, larg.:I metre.
+## DOMENICO THEOTOKOPULI
+
+## DIT EL GRECO
+
+## Portrait du Cardinal inquisiteur D. Fernando Nino de Guevara
+
+Archeveque de Tolede (1541-1609)
+
+l est vu de trois quarts a gauche, a mi-corps, en camail pourpre,la barrette sur la tete, des lunettes sur le nez,la barbe grisonnante taillée en pointe, le regard aigu, la physionomie seche, la bouche quelque peu cruelle.
+
+Toile.—Haut.:om,74;larg.:om,51.
+
+Signe:ouvixos OeoToxoπoulos Eπoln.
+
+Etude pour le grand portrait de la Collction Havemeyer de New-York. Executee peu apres15g6.
+
+Porte de Santa Maria: Collection du Marquis de la Vega, a Madrid.
+
+Collection Rodolphe Kann, Paris.
+
+Expose a Budapest, au Musee des Beaux-Arts;
+
+a Munich,a l'Ancienne Pinacotheque,1g1l,n°12;
+
+a Dusseldorf, 1912, n 66.
+
+A consulter:Coss1o,El Greco,n°3o7,p.424;
+
+BoDE, la Collection Kann,t.Il,n° 143;
+
+A.-F. CaLvERT, El Greco, ou ce portrait est reproduit sur la planche 135.
+
+A.-L.MeyER, El Greco, Pp.26 et 65;Die Galerien Europas,VIl, 1912,4 partie,p.500.
+## DOMENICO THEOTOKOPULI DIT EL GRECO
+
+## Sainte Famille
+
+Dans un paysage d'infini, aux nuees gigantesques, la Vierge, vue presque de face, allaite lEnfant Jesus qu'elle tient a moitie nu sur ses genoux, maintenant le torse avec sa main droite, et pressant de sa main gauche son sein droit contre les levres de lenfant. Elle a une mantille en gaze de soie blanc gris sur ses cheveux blonds roux. Elle est vetue d'une stola rose et d'une palla rouge. Derriere elle, saint Joseph, en pallium jaune, contemple la scene avec une attention recueillie, et d'un geste tendre,de sa main gauche portee en avant, caresse le pied gauche de l'enfant. Derriere celui-ci,sainte Anne en guimple blanche et palla rouge orange, s'incline et semble soutenir de sa main pieuse la tete du Messie.
+
+Toile.-Haut.:1m,36；larg.:1m,03.
+
+Peint vers 16o4, date a peu pres de la meme epoque que la Sainte Famille avec saint Jean, du musee du Prado,et que la Sainte Famille de la collection Madrazo,a la Societe espagnole d'Amerique,a New-York.
+
+Collection P. Tronchet,a Paris.
+
+ExposeaDusseldorf,1g12,n° 67.
+A étepeint de 1604 a 1606.
+
+A fait partie de la Collection de Don Maurizio Pena,a Belayos (Province d'Avila).
+
+Expose a Dusseldorf, 1g12, n 68.
+
+34
+
+## DOMENICO THEOTOKOPULI DIT EL GRECO
+
+## L'Annonciation
+
+Tandis que la Vierge priait agenouillee,voici que son oratoire s'emplit de nuees et a l'instant ou elle se detourne, elle voit larchange aux grandes ailes de lumiere, qui la salue, tandis que la colombe du Saint-Esprit plane dans une clarte transparente. L'euvre est tout impregnee d'un mysticisme profond qui la hausse hors d'une signification reelle; et le jeu magique des couleurs dematerialise les figures pour atteindre a la plus vibrante expression du symbole.
+
+Toile.—Haut.:1m,065；larg.:om,71,
+## DOMENICO THEOTOKOPULI DIT EL GRECO
+
+## Jesus au mont des Oliviers
+
+C'est la derniere veillee :avant l'ultime sacrifice, Jesus a voulu passer la derniere nuit en communion avec le Pere. Le jour va se lever; au fond, a droite, les gardes s'avancent, guides par Judas. Au premier plan,les disciples dorment comme s'ils ignoraient le drame divin dont l'evenement est proche. Et voici que Dieu, pour soutenir le Fils dans la supreme epreuve, lui a envoye un ange, un ange aux grandes ailes blanches et au corps fait de lumiere, dont le volume leger et presque transparent se confond avec l'aspect meme de la montagne. Jesus seul doit le voir, et agenouille devant lui,les bras écartes et les mains qui planent en un geste d'abandon resigne,il attend que l'ange, pour parfaire sa mission divine,vienne mouiller sa levre du vin vivifiant et éternel dont est rempli le calice,qu'il tient de sa main gauche.
+
+Dans cette page de sublime inspiration, le peintre a signife,a la fois,et l'etre qui vit de la vie terrestre,et letre qui ne peut etre anime que d'une vie de symbole.
+
+Toile.-Haut.:1m,7o;larg.:1m,125.
+
+Signe : Bounvxos Oeotoxoπounos Eπoin. Euvre de la vieillesse du maitre. Comparer avec l'exemplaire plus petit du Musee de Lille. A appartenu a la cathedrale de Siguienza. Collection de Guerrara Jungairo,Lisbonne. Exposea Budapest,au Musee des Beaux-Arts;
+
+a Munich, a lAncienne Pinacotheque, 19i1,n°9;
+
+a Dusseldorf, 1912,n° 6g.
+
+A consulter:V.TEREy,Der Cicerone,Il,p.4.Kunst und Kinstler,IX,218;
+
+A.-L.MAyER,El Greco,p.54;et Die Galerien Europas,Vll,1912,4partie,p.497.
+36
+
+## DOMENICO THEOTOKOPULI
+
+## DIT EL GRECO
+
+## Saint Andre
+
+Il est represente de trois quarts a gauche, jusqu'a mi-corps, en grande barbe et cheveux epais. ll est drape dans un pallium vert, sur un vetement bleu. Il appuie contre son epaule gauche la poutre de sa croix et sa main gauche dessine un geste qui benit.
+
+Toile.-Haut.: o,7o; larg.: om,535.
+
+Signe des deux initiales grecques, en bas, sur le bois de la croix.
+
+Euvre de la vieillesse du maitre.
+
+Comparer l'exemplaire des Apotres, au musee Greco, a Toledc.
+
+A appartenu a la cathedrale de Siguenza.
+
+Collection de Guerrara Jungairo.
+
+Expose a Budapest, au Musee des Beaux-Arts;
+
+a Munich,a lAncienne Pinacotheque,1g11,n° 10;
+
+a Dusseldorf, 1g12, n° 70.
+
+A consulter:V.TeREy,Der Cicerone,IIl,5et Kunst und Kunstler,IX,220;
+
+A.-L.MAYER,El Greco,p.89,et El Museum,I,p.462.
+37
+
+## DOMENICO
+
+## THEOTOKOPULI
+
+## DIT EL GRECO
+
+## Le Christ bafoue par les soldats
+
+Jesus est debout, vu de face,la tete levee et resignee. l a ramene sa main droite pres de sa poitrine, en un geste pieux d'abandon de soi. A son poignet une corde est passee, qu'un des bourreaux tire violemment. Autour de lui des hommes d'armes, portant des pertuisanes et des fauchards,lui crachent a la face des injures avec de bestiales grimaces. Pourtant,a gauche, un homme en armure semble assister avec peine a cette scene de brutalite.
+
+Toile.-Haut.:1m,28；larg.:1,m65.
+
+La composition de cette euvre si dramatique se retrouve en partie dans le celebre tableau :Le Christ bafoue par les soldats et depouille de ses vetements,qui est une des merveilles delacathedrale de Tolede.
+
+Collection de M. Th. Duret, Paris.
+
+A consulter:Cossio,El Greco,p.599,n 3o2.
+38
+
+## DOMENICO THEOTOKOPULI EL GRECO DIT
+
+## Portrait d'homme
+
+Il est represente jusqu'a la poitrine,de trois quarts a droite,en vetements vert fonce （une maniere de pallium), avec une draperie rouge grenat jetee sur l'epaule droite. La tete se detache sur un fond clair.
+
+Toile.-Haut.:om55；larg.:o"45.
+
+Peut-etre cette magistrale etude de figure a-t-elle ete faite par le peintre en vue de representer un apotre. Il est a supposer que cette physionomie etait celle d'un ami ou d'un parent du Greco,car on la retrouve dans le Christ bafoue, de la cathedrale de Tolede,dans lEnterrement du comte dOrgas,de leglise San Tome,a Tolede,et dans d'autres ceuvres encore.
+
+Certifiepar A.deBeruete,Madrid.
+
+Collection Marquis de la Vega.
+39
+
+## DOMENICO THEOTOKOPULI DIT EL GRECO
+
+## L'Immacule Conception
+
+La Vierge apparait dans le ciel, portee sur les nuees qui isolent du monde terrestre le monde divin.Elle est vue de face,les mains presentees en un geste pieux; elle est vetue d'une ample palla de couleur bleue. Sous ses pieds, un choeur de cherubins offrent a son poids leger l'appui de leurs ailes irisees. Autour de sa tete, en un vol harmonieux et solennel, les choeurs des Vertus,des Puissances et des Trones entonnent l'antienne reservee a la Reine du Ciel. Au-dessus d'elle,la colombe du Saint-Esprit, entouree des seraphins, l'accueille.
+
+Dans la partie basse du tableau ou semble se lever une autre aurore, mais d'un soleil fugitif, non vibrant deternelle clarte,le peintre, parmi des fleurs, a exprime, a l'aide de quelques monuments,les episodes de la vie de la Vierge :le Temple qui rappelle la reception de Marie ainsi que sa demeure, les Fontaines, les Statues, etc. Au fond a droite, dans la lueur de laube naissante, on apercoit la silhouette de la ville juchee sur le roc.
+
+Peintentre1613et1614.
+
+Toile.—Haut.:1m,08; larg.:o,m82.
+
+Appele auparavant, par erreur:PAssomption de Marie, mais identique a r'Immaculee Conception, du maitre.
+
+Se trouva d'abord a Cadix,puis a Madrid. Collections Borrondo,Marquis de Casa-Torres,
+
+Marquis de la Vega,D.Luis de Navas.
+
+Expose a l'Exposition Greco a Madrid,1go2;
+
+- a lExposition d'Art espagnol chez Heinemann, Munich, 191l, n 31;
+- a Budapest, au Musee des Beaux-Arts;
+- a Munich,a lAncienne Pinacotheque,1g11,n° 15;
+- a Dusseldorf,1g12,n°7.
+
+A consulter:Cossio,n°115,p.351;
+
+- A.-F. CALveRT, El Greco, ou ce tableau est reproduit sur la planche 33.
+- A.L.MAyER, Cicerone,ll,293,ss.Zeitschrift fur Bildende Kunst.N.f.XXIl, S1, et El Greco,pp.55 et 56;El Museum, I, 462.
+## FRANCISCO DE GOYA Y LUCIENTES
+
+Ne le 3o mars 1746 a Fuente de Todos;mort a Bordeaux,le 15 avril 1828.Eleve de M. Luzan a Saragosse. Se rendit a Rome et y etudia d'apres les grands maitres. Travailla sous linfluence deseuvresdeVelazquezetdeTiepolo.
+
+## Portrait de Gasparini
+
+Il est represente assis, jusqu'a mi-corps, de trois quarts a gauche, en habit a la francaise et gilet orne de riches broderies. Sa figure est expressive et parle, les levres disjointes. Il tient des deux mains une feuille de papier sur laquelle se trouvent des ornements ou l'on serait tente de voir une inscription en lettres.
+
+Toile.—Haut.:1m,o7;larg.: om,82.
+
+Peint en 1795.
+
+Collection D. Manuel Soler y Alarcon,a Madrid.
+
+- Durand-Ruel, Paris.
+- Dans le Goya, de M. Paul LAroND,ce portrait est catalogue sans nom de personnage (p.141,n°244).
+
+Expose a Dusseldorf, n° 75.
+
+A consulter:V.VoNLoGA,Goya,n222;
+
+- Catalogue de I'Exposition Goya,a Madrid,1goo,n° 100.
+41
+
+## FRANCISCO DE GOYA Y LUCIENTES
+
+## Scene de carnaval
+
+(El entierro de la sardina.—L'Enterrement de la sardine)
+
+Aux environs du Mancanares et en avant de constructions que le soleil dore de belles clartes, des groupes d'hommes et de femmes en costumes passent et s'ebattent gaiement.
+
+Toile.—Haut.:om,84;larg.:1m,04.
+
+Execute en 1815, peut-etre comme pendant de l'Arbre de Mai de la Galerie nationale,a Berlin.
+
+Collection E.Lopez, a Madrid.
+
+- 一 Ch.Cherfils,a Biarritz.
+- Ivan Stchoukine a Paris.
+
+Expose a Budapest, au Musee des Beaux-Arts;
+
+a Munich,a l'Ancienne Pinacotheque,19l1,n°6;
+
+- a Dusseldorf,1g12,n°77.
+
+Consulter:V.VoN LoGA, Goya,p.8g,n479;
+
+Paul LAFoND, Goya, p. 112, n° 8g.
+## FRANCISCO DE GOYA Y LUCIENTES
+
+## Enfants jouant a se porter (Las Gigantillas)
+
+Ils jouent, et celui qui est vu de face est tout souriant de se sentir si grand.
+
+Toile.-Haut.:1m,37;larg.:1m,04.
+
+Peint en 1788 pour etre interprete en tapisserie. Dessus de porte pour une chambre de l'Escurial.)
+
+Expose a Budapest, au Musee des Beaux-Arts;
+
+- a Munich, a l'Ancienne Pinacotheque, 1gil,n°7;
+- a Dusseldorf, 1912, n° 73.
+
+A consulter:V.VoN LoGA, Goya,p.57,n 5g1；
+
+Paul LAFoND, Goya,p.147,n°39.
+Peint en 1819.
+
+Peut-etre dedie au debut au medecin de Goya, a Rieta, comme le laisse supposer linscription encore visible umedico ;ce ne serait que dans la suite qu'il serait passe dans la collection du duc de Osuna ou il étaitexpose dans le fumoir.
+
+Collection du duc de Osuna,Madrid.
+
+Expose a Budapest, au Musee des Beaux-Arts;
+
+a Munich,a l'Ancienne Pinacotheque,1gil,n° 5;
+
+a Dusseldorf,1912,n°78.
+
+A consulter:A.F.CALvERT,Goya,1go8,planche 237;
+
+V.TERey,Kunst und Kunstler,IX,219;
+
+A.-L.MAYER, El Museum,I, 468.
+
+43
+
+## FRANCISCO DE GOYA Y LUCIENTES
+
+## Les Buveurs
+
+Tous deux,l'air plein de gaiete,tiennent un verre et se rejouissent de le vider. L'un des buveurs, a gauche,ouvre une bouche énorme, tandis qu'il va porter le verre a ses levres. Lautre, vu de face, le haut du corps penche en avant, se contente de rire de toutes ses dents. Tous deux sont vus jusqu'a mi-corps,la tete coiffee d’un sombrero.
+
+Toile.-Haut.;1,02;larg.:o,795.
+## ECOLE HOLLANDAISE
+
+DU
+
+XVII SIECLE
+Signe : A.v. B.f.
+
+Expose a Budapest, au Musee des Beaux-Arts;
+
+- a Munich, a lAncienne Pinacotheque, 1gil,n° 1;
+- a Dusseldorf, 1912, n° 59.
+
+44
+
+## ABRAHAM VAN BEIJEREN
+
+Ne en 1620 ou 1621 a la Haye; mort apres 1674,a Alkmaar. Peut-etre eleve de Pieter de Sutter. Travailla a Leyde cn 1639; a la Haye, de 164o a 1657; puis a Delft, la Haye et Amsterdam, jusqu'en 1671.
+
+## Rivage marin,  avec poissons
+
+Sur une plage, les pecheurs, dont on apercoit un groupe a droite, ont decharge le produit de leur peche sur le sol ou dans les corbeilles, tourteaux, langoustes, raies, barbues,thons, etc. Au fond, a droite,la mer, et quelques bateaux dans le lointain.
+
+Toile.—Haut.:o",915;larg.:1m,138.
+45
+
+## ABRAHAM VAN BEIJEREN
+
+## Nature morte
+
+Sur une table couverte en partie d'un tapis de velours heliotrope,on a dispose dans un plat de metal et autour d'un grand verre de Boheme, a demi rempli,des fruits,du pain, etc.
+
+Signe : A.v.B.f.
+
+Expose a Dusseldorf, 1912, n° 54.
+
+Toile.-Haut.:om,62;larg.:om,52.
+## QUIERIN BREKELENKAMP
+
+Ne en 1620 a Swamerdam, pres Leyde;mort cn 1668,a Leyde, ou il travailla depuis 1648.
+
+## Le Buveur
+
+Le gentilhomme a completement oublie d'etre sobre. Pour linstant, il est assis sur une chaise et cuve beatement son ivresse dans un sommeil reparateur. Il appuie sa main droite, les doigts ployes, sur sa cuisse droite et il retient son feutre a larges bords sous son bras gauche et sur sa cuisse gauche. Sa jambe gauche est legerement portee en avant. Son habit est quelque peu deboutonne. Sa tete, a la longue chevelure boucle, se penche avec abandon sur son large col de batiste blanche empesee. Pres de son pied droit on remarque les debris d'un verre.
+
+Derriere lui, a droite,une jeune femme est debout, vue de dos. Elle est vetue d'une jupe brune et d'une casaque grenat fonce bordee de fourrure blanche. Elle est coiffee d'un bonnet blanc. Sa main droite,relevee contre le chambranle de la porte, laisse entendre que cette femme d'une tournure delicieusement elegante appuie sa tete sur son bras...; mais non, elle ne se recueille pas : elle marque a la craie les consommations prises, et prepare son addition. De sa main droite, le bras tendu, elle porte une cafetiere. Au fond, contre le mur, une carte geographique est suspendue.
+
+Expose a Dusseldorf, 1g12, n° 42.
+
+Bois.-—Haut.:o,347;larg.:o,295.
+VenteWedender,Cologne,18g9,n°49.
+
+Decrit par Dr Hofst.de Groot,t.Il,n°132. Expose a Dusseldorf,1gi2.
+
+47
+
+## AELBERT CUYP
+
+Ne a Dordrecht en octobre 162o;enterre dans la meme ville,le 7 novembre 16g1.
+
+## Portrait d'enfant
+
+C'est un enfant a la face joufflue sous les longues meches hirsutes de ses cheveux chatain fonce. ll est assis sur le sol, de trois quarts a gauche, la tete tournee de face et ses grands yeux étonnes semblent suivre &amp; avec attention le travail du peintre. Il est vetu d'un costume rouge avec un large col blanc rabattu,garni de dentelle. Il a une petite culotte courte qui laisse voir ses bas blancs negligemment tires et il tient de ses deux mains, sur sa jambe croisee, son large feutre de ton creme. La figure se detache en pleine lumiere sur un fond sombre.
+
+Haut. : om,77; larg.: om,63.
+48
+
+## AELBERT CUYP
+
+Paysage avec bergers, chasseurs et vaches
+
+Au premier plan, une vache isabelle est couchee de trois quarts a gauche pres d'une vache brune couchee de profil a droite. A quelque distance d'elles,de lautre cote d'une barriere rustique, une paysanne coiffee d'un large chapeau de paille est arretee, ayant pres d'elle un gamin vu de trois quarts a gauche.La paysanne a pose devant elle une jarre de lait en cuivre jaune. A gauche, pres de deux arbres au tronc denude, deux chasseurs sont arretes ; l'un, assis, vu de dos, est en train de charger son fusil. L'autre, vu de face, en haut-de-chausses de velours vert fonce et en gilet blanc a manches roses, s'efforce de tirer a lui une branche d'arbre. A ses pieds, son chien noir est arrete. Dans les premiers plans, le sol est occupe par des bruyeres et des plantes a larges feuilles. Derriere les figures a droite,on apercoit une montagne au flanc de laquelle sont construits des tourelles et des remparts;entre ces tourelles et ces remparts,un torrent se precipite, faisant, sur les roches, cascader ses eaux tumultueuses qui semblent brodees d'ecume. A gauche, sous le poudroiement d'or du soleil qui se couche, on voit se dresser, geants de pierre,temoins des siecles passes, des tours et d'autres constructions en ruine equi se reflechissent dans les
+## COLLECTION MARCZELL DE NEMES
+
+eaux frissonnantes d'un fleuve. Plus haut que les tours, au fond, sous le ciel radieux d'azur et de lumiere, la montagne acheve de se silhouetter.
+
+Toile.-Haut.:1m,o7;larg.:1m,54.
+
+Signe a gauche, en bas : A. Cuyp. Collection Pereire, Paris,1872.
+
+- Comte de Camondo, Paris.
+- Ch.Sedelmeyer, Paris.
+
+Expose a Budapest, au Musee des Beaux-Arts, 1911;
+
+- a Munich,a 1Ancienne Pinacotheque,19i11,n° 2;
+- a Dusseldorf, 1g12,n°40.
+
+A consulter : J.-W. BuRGER, La Galerie de M.Pereire ;
+
+- Ch.SEDELMEYER,Catalogue of 10o paintings,1go2,n°6;
+
+HorsTEDE DE GRooT,Hollandische Maler (Catalogue raisonne Smith), t. 1l,n 312.
+
+## VETBEBL CRAb
+
+BEVeEBE' CHVEEELBE EL AVCHES
+## JACOB GERRITSZ CUYP
+
+Ne a Dordrecht en decembre 1594;mort dans la meme ville en 1651 ou 1652.Eleve de A.Bloemart, a Utrecht.
+
+## Portrait de Geertruy Marseys
+
+(Epouse de Baltser Schuylenburg)
+
+La dame est representee jusqu'aux genoux, assise, et de trois quarts a gauche. Elle est vetue d'un costume de soie brochee noire garni de fourrure. Coiffee d'un bonnet de batiste blanche empesee,elle a le cou enserre dans une fraise de mousseline blanche a tuyautes rigides. Autour de ses poignets, deux rebras de batiste blanche garnis de point-coupe. Sa figure est d'un caractere grave, deja marquee par lage, avec des rides autour des yeux, pres des tempes, et un menton qui se dessine sous un pli gras du cou. Ses deux mains sont appuyees, les bras ployes, aux accoudoirs du siege, et ses doigts, lindex droit et l'annulaire gauche, sont ornes de bagues. Ses mains, que le travail et les douleurs aussi ont fatiguees jusqu'a la deformation, sont d'une extraordinaire verite et d'une indication vraiment aigue de la situation de la personne representee.
+
+La figure s'enleve en lumiere sur un fond sombre.
+
+Bois.—Haut.:1m,215;larg.:om,g05.
+
+Collection Alewyn,a Amersfoort. de Ridder,Francfort. Expose a Budapest, au Musee des Beaux-Arts, 1911;
+
+a Dusseldorf, 1g12, n° 3g.
+50
+
+## JACOB A.DUCK
+
+Ne a Dortrecht vers 16oo;mort a la Haye,apres 166o.
+
+## Les Joueurs de quilles
+
+Sur la plage, des hommes s'amusent a jouer aux quilles. Autour de celles-ci qui sont levees, ils se tiennent tres attentifs a la boule que va lancer un gentilhomme baisse et represente de profil a droite. Sur le sol, au premier plan, celui-ci a depose son feutre et son épee. Avant de lancer la boule, il parait écouter les conseils d'un compagnon vu de face, la main etendue vers le jeu.
+
+A gauche on apercoit la mer avec, au fond, des corvettes a lancre. Le ciel est occupe par de grands nuages qu'un vol d'oiseaux ponctue a droite.
+
+Bois.Haut.:om,56;larg.:om,82.
+
+Le paysage a ete peint par Adam Willarts. Expose a Budapest, au Musee des Beaux-Arts, 1gll;
+
+a Dusseldorf,1g12,n° 47.
+51
+
+## JAN VAN GOYEN
+
+Néa Leyde le 13 janvier 15g6;mort au mois d'avril 1656.A travaille,a Leyde,avec Coeur van Schilperoot et Isack van Swanenburg;puis, apres (1616), a Haarlem avec Esaias van der Velde.A partir de 1631, van Goyen etait rentre a la Haye,ou il mourut.
+
+## Village au bord d'un canal
+
+Le premier plan est occupe par le canal dont l'eau miroitante est sillonnee de barques a voiles et de barques de pecheurs,et marque a droite par un bachot de passeur tout rempli de personnages. De l'autre cote du canal le village est construit, pittoresque et attrayant, derriere les grands arbres,et dans la parure des frondaisons, on apercoit les petites toitures dominees par le clocher de leglise. En haut d'un escalier d'embarcadere,un homme a pied cause avec un cavalier. Dans le ciel clair il y a toute une chevauchee de nuages au travers desquels la lumiere filtre blonde et heureuse.
+
+Haut. :om,45;larg.:om,65.
+
+Expose a Budapest, au Musee des Beaux-Arts, 1911. Certificat du Dr C.Hofstede de Groot.
+52
+
+## DIRK HALS
+
+Ne a Haarlem en 1591, mort dans la meme ville en mai 1656. Eleve de son frere, Frans Hals.
+
+## Réunion galante
+
+Au fond d'un parc, en avant d'un pavillon a colonnade et non loin d'une fontaine ou l'on voit un amour joufflu en train de tirer de larc, des gentilshommes et de nobles dames en somptueux atours se sont rencontres autour d'une table et devisent galamment.
+
+Toile.——Haut.: om,25, larg.:om,33.
+
+Signe a droite sur une marche de la fontaine:
+
+DH.ALS 16..
+
+Expose a Budapest, au Musee des Beaux-Arts, 1911.
+## FRANS HALS
+
+Ne a Anvers en 158o ou 1581;mort a Haarlem, le 29 aout 1666. Eleve de Karel van Mander.
+
+## Portrait d'homme
+
+Il est represente en pourpoint noir, de trois quarts a droite, jusqu'a mi-corps. Sa tete, aux traits males, cheveux courts, petite moustache, barbiche en pointe, est petillante de vie et d'intelligence. Le cou est enserre dans une fraise de batiste blanche aux tuyautes souples. Le bras droit est ploye et la main,ramenee pres de la poitrine,a les doigts ployes également, le pouce detache et leve. La figure se detache sur un fond neutre.A droite, sur ce fond, on lit :
+
+ETA
+
+SVE4 AN°1634
+
+## F王H
+
+Signe ainsi que nous venons de l'indiquer. Collection Van der Willigen,Haarlem.
+
+Weber,Hambourg,n° 223. Expose a Dusseldorf, 1912, n° 91.
+
+WoLTMANN und WeRMANN: Geschischte der Malerei,t. II,p. 599；
+
+Bois.-Haut.:om,73;larg.;om,545.
+
+A consulter:Bope,Studien sur Geschischte der Hollandischen Malerei, Braunschweig, 1880, p.88;
+
+PFUGH-HARTUNG,Repertorium,t.VIII,p.82;
+
+Voir:A.DAYoT,les Arts et les Artistes,1g12,XVI,p.254.
+
+E.F1RMENIcH-R1cHARTz,Katalog der Disseldorfer ausstellung,19o4,n313,Pp.128,129； HorsTEDE DE GRooT,Beschreibendes Vereichnis,n°280.
+54
+
+## WILHELM KALF
+
+Amsterdam,1621-1693.Eleve de Hendrick GerritszPot.
+
+## Nature morte
+
+Sur un coin de table, en partie couverte d'un tapis d'Orient a grands ramages, on a dispose un plat creux en faience qui porte sur un plat de metal et contient des peches, un coing, et un citron a demi pele et dont la pelure s'echappe en un copeau souple. Sur le plat de metal, un verre de Boheme est couche. Dans le fond, on apercoit un vase de metal a godrons, en forme de ciborium, une coupe en verre de Venise et un cornet en verre qui met une lumiere longue sur le fond sombre. A gauche, sur le bord de la table, se trouvent deux morceaux de peche.
+
+Haut.:o,74;larg.:om,64
+
+Signe:W.Kalf.
+
+Expose au Musee des Beaux-Arts, a Budapest, 1911.
+55
+
+## THOMAS DE KEYSER
+
+Ne a Amsterdam en 1596 ou 1597;enterre dans la meme ville le 7 juin 1667. Eleve de son pere Hendrick； influence d'abord par Cornelis van der Voort et Elias, plus tard par Frans
+
+Hals et Rembrandt.
+
+## Les  Joueurs  de  trictrac
+
+Ce sont deux gentilshommes en coquets atours, chapeaux a plumes, manches a creves de soie, pourpoints a aiguillettes riches, qui sont en train de jouer sur une table couverte d'un moelleux tapis d'Orient. A droite, debout pres de la table, un compagnon, la tete coiffee d'un casque, assiste a la partie; il est vu de profil a gauche et fumant sa pipe qu'il tient de la main droite. A gauche,on apercoit un levrier, dont la tete grave ne prend aucun plaisir au jeu du trictrac.
+
+Bois de chene.-Haut.:om,865;larg.:om,7o.
+
+Expose a Munich,a lAncienne Pinacotheque, 1gil,n° 19; a Dusseldorf,1g12,n° 44. A consulter:KRoNiG, lArt Flamand et Hollandais, t.VIl, 92; BREDius,Monatshefte fur Kunstwissenschaft,t.IV,p.136.
+## PHILIPS DE KONINCK
+
+Ne le 5 novembre 1619,a Amsterdam;mort en octobre 1688. Eleve de son frere Jacob,a
+
+Rotterdam,et de Rembrandt.
+
+## Paysage
+
+Au premier plan, un homme suit, accompagne de ses chiens,la route qui va tourner vers la droite entre deux bouquets de grands arbres dont l'un domine un pli montant du terrain.
+
+Sur le bord oppose de cette route, un autre personnage est assis, gardant son chien pres de lui. A gauche une riviere coule, dont une barque a voiles suit le cours; puis, sur la rive opposee, un groupe de maisons apparait parmi les frondaisons d'un petit bois; enfin, au fond,la campagne s'etend, dominee a l'horizon par les constructions d'une ville. Une belle lumiere dore ce coin de campagne heureux et calme, et dans le ciel lumineux, les nuees s'envolent comme de grandes ailes silencieuses.
+
+Toile.—Haut.:om,74;larg.:om,82.
+
+Collection de Mr. Alexander Dennistown,1894, n°74.
+
+- A.-F.Walter de Bearwood,London.
+
+Expose a Munich,a lAncienne Pinacotheque,1giI,n 20;
+
+a Dusseldorf, 1g12, n° 51.
+Expose a Dusseldorf, 1912, n° 46.
+
+57
+
+## NICOLAAS MAES
+
+Ne en novembre 1632,a Dordrecht;enterre le 24 decembre 1693,a Amsterdam.Eleve de Rembrandt de 1648 a 1652,et plus tard, par suite d'un sejour a Anvers,influence par les peintres de lEcole flamande.
+
+## Portrait de famille
+
+Sur Petroite terrasse qui s'etend devant le seuil de la demeure,u une femme est assise presque de face, en jupe gris vert, sous un costume noir avec un large col-pelerine de batiste blanche empesee. Elle tient sur son genou gauche son dernier-ne, assis de trois quarts a gauche, et tendant les mains a sa petite soeur qui lamuse de son geste et est vue debout, a la droite de sa mere, avec un tablier blanc sur son costume gris. L'homme, le chapeau a la main droite,le visage accueillant,vetu de velours noir, indique a un visiteur qu'on ne voit pas, et cela d'un geste hospitalier de la main gauche,la porte ouverte de sa demeure. Cette demeure est de style Renaissance avec son arc en cintre surbaisse, sa petite fenetre rectangulaire a croisillons et son amorce de balcon a banc de pierre avec balustre. Au fond, a gauche, le paysage tres beau est occupe par une ruine qui se mele a la verdure.
+
+Toile.-Haut.:1m,o75;larg.:1m,47.
+58
+
+## ADRIAEN VAN OSTADE
+
+Ne a Haarlem en 161o; mort dans la meme ville le 27 avril 1685. Eleve de Frans Hals.
+
+## La Vieille a la fenetre
+
+C'est une vieille commere dont le visage profondement ride apparait, les yeux erailles, les levres molles et degarnies, le nez gros, sous le bonnet fonce garni de fourrure. Elle a passe une houppelande sur sa robe, et elle est vue jusqu'a mi-corps, de trois quarts a droite dans un encadrement de porte-fenetre,et sous auvent étroit, hors duquel debordent quelques lianes parasites.
+
+Bois.—Haut.:om,27;larg.:om,21.
+
+Signe:A.v.Ostade.
+
+Expose a Budapest, au Musee des Beaux-Arts, 1911.
+## ADRIAEN VAN OSTADE
+
+## Scene de cabaret
+
+Dans le cabaret d'une architecture rustique,les gens,hommes et femmes sont tout a la joie; tandis qu'il en est qui fument et qui boivent, un vieux bonhomme, faisant vis-a-vis a une commere, danse aux accents d'un violoneux qui racle sa chanterelle dans le fond a droite, et, autour des danseurs,les gens aux grimaces exhilarantes, s'esclaffent gaiement. Au premier plan, sur le sol, il y a un tas d'objets heteroclites, vieilles roues de charrette, vieux paniers, vieilles cruches. A droite,plus loin qu'un personnage debout dont la silhouette apparait en pleine lumiere,et de l'autre cote d'un banc, on apercoit une botte de paille debout contre la poutre de l'appentis.
+
+Bois.Haut. : om,485 ;larg. : om,665.
+
+Signe : A.v.Ostade, 1637. Collection du prince Estherhazi,a Vienne. Expose a Dusseldorf, 1g12, n 49.
+60
+
+## REMBRANDT HARMENSZ VAN RIJN
+
+Ne le 15 juillet 16o6, a Leyde;mort le 8 octobre 1669,a Amsterdam. Eleve de Jac van Swanenburgh,a Leyde;puis de Pieter Lastmann,a Amsterdam.
+
+## Portrait du pere de Rembrandt
+
+Il est represente jusqu'a mi-corps, drape dans un manteau de velours noir, laissant voir, autour du col, un gorgerin d''armure, en fer poli. Sur les epaules, il porte une chaine d'or, a laquelle est suspendu un medaillon de meme metal. Il est coiffe d'un chapeau de velours noir a plumes de meme couleur. Il tourne la tete legerement vers l'epaule gauche. Son masque expressif est sillonne de rides qui en accentuent le caractere de maturite virile. Son nez est bossue, ses yeux sont vifs, sa bouche serre les levres sous l'arc d'une moustache fine. Son menton s'ombre d'une barbe rare. Ses cheveux blonds bouffent en frisures au-dessus de l'oreille, dans le lobe de laquelle une boucle d'or a perle est passee. Une grande lumiere eclaire toute la joue droite. La figure se detache sur un fond neutre.
+
+Toile.-Haut. :om,816;larg.:o",75.
+
+Signe,a droite en bas, du monogramme de l'artiste:R. T. Ce portrait est une ceuvre capitale de la jeunesse du maitre. par le Dr C. HorsTEDE DE GRooT dans son Catalogue raisonne,vol. VI. Collection Mathew Piers Watt Boulton, of Tew Park. Expose a Dusseldorf,1g12,n° 43. A consulter :Bope, Zeitschr.f. Bildende Kunst, Neue Folge Xxlll, p. 210.
+
+Ce portrait sera reproduit et decrit dans leuvre du Dr W.BoDe,vol.IX, et sera decrit A DAyor,les Arts et les Artistes,1g13,XVI,p.225.
+## REMBRANDT HARMENSZ VAN RIJN
+
+## Etude de tete avec chapeau
+
+C'est un vieillard vu de trois quarts a gauche, jusqu'a la poitrine. La tete, qui se penche en avant, est coiffee d'un large chapeau de feutre sombre sur un serre-tete blanc. Une épaisse barbe garnit les joues et le bas du visage. Une grande lumiere eclaire le front, les yeux baisses,le nez aux narines larges et les pommettes saillantes. L'homme introduit la main gauche dans louverture de son costume fonce.
+
+Bois.-Haut.:om,26;larg.:om,23.
+
+Ce tableau sera reproduit et decrit dans le volume IX de leuvre du DW.BoDe,Rembrandt, ainsi que dans le volume VI du Catalogue raisonne du D C.HorsTeDE DE GRooT.
+
+Decrit et reproduit dans A.Daxor,Les Grands et les Petits Maitres Hollandais,Paris 1g11. Cette etude a ete peinte vers 165o ou 1651. Le meme personnage se retrouve sur le Portrait dhomme signe de 1651,qui fait partie de la collection du Comte Wachtmeister,a Vanas, en Suede.
+
+Expose a Budapest,au Musee des Beaux-Arts, 1gil;
+
+- a Paris,aux Tuileries en 1g1l,n° 126;
+- a Dusseldorf, 1g12, n° 45.
+## REMBRANDT HARMENSZ VAN RIJN
+
+## Tete d'homme
+
+Le personnage est vu de trois quarts a gauche, jusqu'a la poitrine. Il est coiffe d'un bonnet, d'ou debordent des meches de cheveux;il a les levres sensuelles, et il rapproche sa main droite fermee du bas de son visage.
+
+Bois.-Haut.:o,235;larg.:om,185.
+
+Ce tableau sera reproduit et decrit dans le volume IX de leuvre du Dr W. BoDE, Rembrandt, ainsi que dans le volume VI du Catalogue raisonne du D C. HorsTeDe DE GRoor.
+
+Etude pour une des figures de la Susanne peinte en 1647 et appartenant au musee de I'Empereur-Frederic, a Berlin.
+
+Expose a Budapest, au Musee des Beaux-Arts, 1gIl;
+
+a Dusseldorf,1g12,n° 44.
+Signe en toutes lettres a droite.
+
+Decrit dans le Catalogue raisonne du D C. HorsTEDE DE GRooT, vol. IV,n° 726. Reproduit dans le Catalogue de Ch. SEDELMEyER, Cat.of 10o paintings,1g06,n°34 Expose a Budapest, au Musee des Beaux-Arts, 1g1l.
+
+63
+
+## JACOB VAN RUISDAEL
+
+Nea Haarlem en 1628 ou 1629;mort dans la meme ville,en mars 1682.Vraisemblablement eleve de son oncle Salomon van Ruisdael. ll devint,en 1648,membre de la Gilde de Haarlem.Il travailla,de 165g a 1681,a Amsterdam.
+
+## Le Troupeau de moutons sur le chemin
+
+Dans un paysage mouvemente, non loin d'une riviere qui promene dans son courant les reflets argentes du ciel, un berger s'eloigne sur un chemin a gauche, poussant devant lui son troupeau de moutons. Non loin de lui passe un cavalier vu de profl a gauche. A droite, un massif de grands arbres se dresse sur un monticule dont le sol est mele de quartiers de rocs. A gauche, plus loin qu'un tronc d'arbre brise par la tempete, il y a un bois qui s'etage aux flancs d'un coteau en pente douce, et dans le lointain, tout a fait au fond, on apercoit,a gauche, le sommet d'une montagne dominee par un chateau et au-dessus de laquelle s'envolent des oiseaux, et, a droite, une campagne magnifiquement ensoleillee.
+
+Toile.-Haut.:om,47;larg.:om,5g.
+## GERARD
+
+## TERBORCH
+
+Ne a Zwolle, vers 1617; mort a Deventer, le 8 decembre 1681. Eleve de son pere, et forme ensuite sous l'influence de Frans Hals, alors qu'il fut eleve de P. Molijn, a Haarlem. Apres de longs sejours a Amsterdam,en Angleterre, en Italie,a Munster,en Espagne et a Zwolle, il travailla a partir de 1654 a Deventer.
+
+## Portrait de femme
+
+Dans un interieur de caractere grave,la femme est representee debout de trois quarts a droite, en robe de velours noir sur laquelle est rabattu un col-fichu de mousseline blanche empesee. Elle a le visage allonge, deja marque par l'age, et elle est coiffee d'un beguin a calpin de taffetas sur ses cheveux tires. Elle laisse pendre naturellement sa main droite, tandis que son bras gauche est a demi ploye et que sa main gauche se presente du cote de la paume, l'index et le medius plies. La manche courte de son costume est debordee par celle de la chemise dont le bord festonne est serre a laide d'un petit velours noir.
+
+Derriere elle, se trouve un fauteuil de velours rouge dont le dossier et le siege sont bordes d'une frange. A droite, pres de la figure, le mobilier sommaire se complete d'une table couverte d'un tapis de velours rouge egalement et sur laquelle on apercoit quelques fruits et un couteau sur un plat, un verre et une aiguiere d'etain.
+
+Toile.-—Haut.:om,615；larg.:om,495.
+
+Collection du Baron V.Schacky,Munich. Expose a Dusseldorf,1gi2,n° 5o.
+Signe.
+
+Collection du Baron V. Schacky,Munich.
+
+Exposea Dusseldorf,1g12,n52,
+
+## PHILIPS WOUWERMAN
+
+Baptise a Haarlem, le 24 mai 1619;mort dans la meme ville, le 19 mai 1668. Eleve de son pere Paul Wouwerman et de Pieter Verbeecq;il voyagea en France et en Italie.Il a travaille surtout a Haarlem.
+
+## Scene de  cavaliers
+
+Devant un campement qui occupe la gauche, un grand nombre de chevaux et de cavaliers sont arretes pour la plus grande joie des enfants qui courent de l'un a lautre. Quelques chevaux sont couches sur le sol. A droite, plus loin qu'un massif d'arbres au feuillage leger, on apercoit les maisons d'un village domine par un clocher d'eglise. Au fond,la campagne s'etend sous un ciel lumineux jusqu'a l'horizon marque par une chaine de collines basses.
+
+Toile.—Haut.:om,6o;larg.:om,685.
+## ECOLE FLAMANDE
+
+DU
+
+XVII SIECLE
+66
+
+## JOOST VAN
+
+## CRAESBEEK
+
+Née a Neerlinter, vers 16o6;mort a Bruxelles vers 1655. Vivait a Anvers, ou il devint membre de la Gilde en 1633/4 et travailla sous l'influence d'Adriaen Brouwer. Depuis 1651 on le trouve a Bruxelles.
+
+## Compagnie joyeuse
+
+Sous une tonnelle, au devant de l'auberge, les vieux galants se sont assis a une table rustique en compagnie de jeunes personnes. Au premier plan l'un est vu de dos, coiffe d'un chapeau a plumes et il semble bien porter sur son epaule la tete caline d'une compagne dont on devine seulement le geste. En face de lui, son compagnon, le front coiffe d'une toque et la main droite tenant l'anse d'une chope, conte fleurette a une femme assise pres de lui au bout de la table, vue de profil,un fichu blanc rabattu sur son corsage jaune et la tete coiffee d'un chapeau sur son bonnet. La table porte des pipes et des recipients a boisson. Au fond, quelques arbres aux branches fleuries, quelques lointaines constructions et, dans l'ombre, un homme vu de dos.
+
+Haut. : om,26; larg.: o,23.
+
+Expose a Budapest,au Musee des Beaux-Arts, 1g11.
+## ANTOINE VAN DYCK
+
+Ne a Anvers,le 22 mars 1599;mort a Blackfriars (Londres),le 9 decembre 1641. A partir de 16o9, eleve de H.Van Balen, ensuite de Rubens.A travaille en Angleterre (162o-1621), en Italie (1621-1627）,principalement a Genes, en Hollande (1627-1628);a partir de 1632, il devient peintre de la cour de Charles Ir d'Angleterre; malgre cela il fait encore un voyage a Bruxelles de 1634 a 1635 et un voyage a Paris de 164o a 1641.
+
+## Portrait du cardinal Domenico Rivarola
+
+Il est represente debout, en rochet garni de dentelles sous son camail de pourpre. ll est coiffe d'une barrette posee a l'arriere de la tete. Il a un col de batiste blanche rabattu. Son visage est plein de finesse avec ses traits accentues et ses moustaches noires. Il laisse pendre son bras gauche; de sa main droite,le bras legerement ploye, il tient une lettre ouverte.
+
+Toile.—Haut.:1m,o2;larg.:o,79
+
+Du Palais Franzone,a Genes.(Voir :RATTI, Instruione in Genova,178o,p.325.)
+
+Ch. Sedelmeyer,Paris.
+
+Collection Mr.Arthur Sanderson,Edinburgh.
+
+Expose a Burlington House,London,1go3,n° 5o;
+
+- a lExposition d'Art ancien.-L'Art belge au xvh siecle. Bruxelles, 191o, n° 128;
+- a Budapest,au Musee des Beaux-Arts,191l;
+- aDusseldorf,1912,n° 33.
+
+A consulter:A.Daror, les Arts et les Artistes, 1913, XVI, p.252.
+Signe: Joanes Fyt.
+
+Expose a Dusseldorf, 1912, n° 36.
+
+68
+
+## JAN FYT
+
+Ne a Anvers le 15 mars 1611;mort dans la meme ville le 11 septembre 1661.A partir de 1622,eleve de Jan van den Berch, ensuite de Frans Snyders.Vers l'age de 4o ans, il alla se reposer en Italie et il revint ensuite travailler a Anvers.
+
+## Nature morte
+
+Sur une table,recouverte d''un tapis de velours et d'une nappe blanche, on a dispose des fruits,du gibier mort et des feuillages fleuris. A gauche un perroquet et a droite un chat se disposaient a se disputer du bec et des griffes tant de choses appetissantes. Mais voici qu'un troisieme larron se presente en tapinois, un chien, dont on apercoit la tete, sous la table, relevant le tapis, et dont les narines dilatees respirent le regal proche. Et aussitot voila le perroquet et le chat qui changent d'objet dattention.
+
+Toile.—Haut. : om,795 ; larg.: 1,16.
+69
+
+## P.P.RUBENS
+
+Ne a Siegen, le 28 juin 157; mort a Anvers le 3o mai 164o. Eleve de T. Verhaegt, A.Van Noort et Othon van Veen.A travaille a Anvers,a Paris, en Italie,en Angleterre et en Espagne.
+
+## L'Enseuelissement du Christ
+
+C'est l'un des derniers épisodes du drame divin. Joseph d'Arimathie et Nicodeme portent le Christ mort enveloppe dans un linceul blanc, lepaule droite nue,le bras pendant, lamentable. Les deux hommes sont vetus de vetements fourres. Saint Jean, la Vierge et deux compagnons suivent le convoi en pleurant.A droite,deux jeunes femmes viennent de preparer le tombeau, lune, agenouillee pres de la pierre ou l'on va coucher le crucife, et l'autre, se penchant, une botte de paille sur le bras.
+
+La grotte du tombeau s'ouvre par une dechirure cintree, sur la campagne. L'euvre est tenue dans une harmonie grise d'une etonnante vibration lumineuse. C'est une esquisse de la main du maitre, executee entre 163g et 1640 et qui ne fut jamais realisee en une peinture de plus s large dimension.Il en existe une repetition faite, sans doute, d'apres celle qui est ici decrite; et cette repetition se trouve dans la collection de M. Georges Crombez, de Tournay, apres avoir passe par la collection Habich, de Cassel.
+
+Collection Porges,de Paris.
+
+Bois de chene.-Haut.:o,42;larg.: om,565.
+
+A ete grave par J.Witdoeck.
+
+Expose a Budapest, au Musee des Beaux-Arts, 1911.
+
+a Dusseldorf, 1912, n°32.
+
+A consulter:Max Rooses, TEuore de Rubens, t.I, p. 136,n 322;
+
+SMITH,Catalogue,t.Il,n°164.
+70
+
+## P.-P.RUBENS
+
+## Portrait de l'archeveque Antoine Triest, de Gand
+
+L'archeveque Antoine Triest fut un de ceux qui defendirent Rubens:il lui facilita notamment la commande importante du grand tableau de Saint Bavon qui se trouve dans leglise placee sous l'invocation de ce saint, a Gand.
+
+Rubens a represente l'archeveque assis dans un fauteuil au velours cloute de cuivre. Le personnage est vu jusqu'aux genoux et legerement de trois quarts a gauche. Il porte le camail de pourpre sur le rochet garni, aux manches, de dentelle et il est coiffe de la barrette. Sa tete, aux traits accentues et d'une expression de volonte temperee par une infinie bonte, s'encadre dans le chiffonne du col rabattu de batiste blanche. Sa bouche semble prete a sourire entre la moustache et la barbe courte. Les deux mains puissantes sont pour l'instant au repos, lune sur l'accoudoir gauche du siege, lautre sur la jambe, et tenant un placet entre le pouce et l'index. Derriere la figure, d'un caractere si viril et si noble, un rideau est releve, laissant apercevoir une architecture a colonnes, a arcatures de plein cintre et a galeries,vivement eclairee.
+
+A éte peint vers 1625.
+
+Toile.—Haut.:1m,21;larg.:1m,09.
+
+Collection de Sir George Douglas Clerk, Bart. of Penicuik.
+
+a Budapest, au Musee des Beaux-Arts;
+
+Expose a PExposition d’ceuvres de maitres anciens a Edimbourg,1883;
+
+a Munich,a IAncienne Pinacotheque,1g1l,n° 23;
+
+A consulter:E.M1cHEL, Rubens et sa vie,Londres 1S99, t.Il, p.72;
+
+a Dusseldorf,1g12,n° 30.
+
+A.DAxoT,l'Art et les Artistes,XIl,p.252.
+Peint vers 1635.
+
+Etude pour le portrait de femme du musee de Dresde, n° g64,A.
+
+Expose a Budapest, au Musee des Beaux-Arts;
+
+a Dusseldorf, 1912, n° 33.
+
+A consulter:Max RoosEs,Rubens, t.IV,p.2g6, n° 1097.
+
+71
+
+## P.-P.RUBENS
+
+## Portrait de femme
+
+C'est une jeune femme, vue de trois quarts a gauche, jusqu'a la ceinture. La tete et la naissance de la poitrine jaillissent du fond sombre,vivantes et chaudes, avec une saveur de fruit mur. Les cheveux sont blonds, s'échappant en boucles rebelles. On a donne differents noms a cette figure que le maitre a peinte de verve; tantot on y a vu Helene Fourment, tantot Isabelle Brandt. C'est sous ce dernier nom que cette tete a ete gravee par Claessens et par Jos. Canale: C. F. Stalzel, qui l'a egalement gravee, n'a pas mis de nom.
+
+## Max Rooses la decrit ainsi :
+
+αTete tres fraiche, ou le sang afflue a la peau;les cheveux forment de petites boucles blondes sur le front et sur les joues, une tresse denouee sur le buste, une robe noire, recouverte d'une faille de meme couleur. Les joues ont la fraicheur de la peche, rehaussees de carmin et de blanc.
+
+Bois de chene.-Haut.:om,74;larg.:o,61.
+72
+
+## P.-P.RUBENS
+
+## La Femme de lApocalypse (Saint Jean, ch. XII)
+
+On lit au chapitre XII de IApocalypse de saint Jean :
+
+- αPuis il parut dans le ciel un grand signe :une femme revetue du soleil,
+- la lune sous ses pieds, et une couronne de douze etoiles sur sa tete. Elle etait enceinte,et elle criait,dans le travail et les douleurs de l'enfantement.
+- α Un autre signe parut encore dans le ciel : tout a coup on vit un grand dragon rouge, ayant sept tetes et dix cornes, et sur ses tetes, sept diademes;
+- de sa queue, il entrainait le tiers des etoiles du ciel, et il les jeta sur la terre.
+- αPuis le dragon se dressa devant la femme qui allait enfanter, afin de devorer son enfant, des qu'elle laurait mis au monde. Or, elle donna le jour
+- a un enfant male, qui doit gouverner toutes les nations avec un sceptre de fer; et son enfant fut enleve aupres de Dieu et aupres de son trone, et la femme s'enfuit au desert, ou Dieu lui avait prepare une retraite, afin qu'elle y fit nourrie pendant mille deux cent soixante jours.
+- αEt il y eut combat dans le ciel:Michel et ses anges combattaient contre le dragon; et le dragon et ses anges combattaient; mais ils ne purent vaincre, et leur place ne se trouva plus dans le ciel. Et il fut precipite, le grand dragon, le serpent ancien, celui qui est appele le diable et Satan, le seducteur de toute la terre, il fut precipite sur la terre, et ses anges furent precipites avec lui. Et jentendis dans le ciel une voix forte qui disait : Maintenant le
+- salut,la puissance et l'empire sont a notre Dieu, et l'autorite a son Christ;
+## COLLECTION MARCZELL DE NEMES
+
+car il a éte precipite, laccusateur de nos freres, celui qui les accuse jour et nuit devant notre Dieu. Eux aussi l'ont vaincu par le sang de lAgneau et par la parole a laquelle il a rendu temoignage, et ils ont meprise leur vie jusqu'a mourir. C'est pourquoi, rejouissez-vous, cieux, et vous qui y demeurez! Malheur a la terre et a la mer! Car le diable est descendu vers vous, avec une grande fureur, sachant qu'il ne lui reste que peu de temps.》
+
+C'est ce passage de lApocalypse que le peintre a interprete. Il en a suivi le detail avec une precision extraordinaire - sauf qu'il represente la femme tenant l'enfant nouveau-ne dans ses bras 一 et sa composition est étonnante de puissance et de clarte. Le tableau a eu plusieurs titres :il est connu, en dehiors de celui que nous lui donnons, sous les titres de:l'Immaculee Conception et sous celui-ci,qui est moins exact:la Religion triomphe de lIdolatrie et duVice.
+
+L'euvre, ici cataloguee,est la premiere esquisse, faite entierement par Rubens, de son grand tableau du maitre-autel du dome de Freising, peint de 16o8 a 1612,pour le duc Ernest de Baviere,prince de Cologne et éveque de Freising, cuvre qui se trouve maintenant a l'ancienne Pinacotheque de
+
+Munich. TV EEMNE DE FYbOCVTAb2E EVZ ZI
+
+Bois de chene.—Haut.:om,62;larg.:om, 485.
+
+Collection Weber, de Hambourg,n° 191.
+
+Expose a Dusseldorf,19o4 (catalogue de Firmenich-Richartz, n° 271,Pp. 114 et 115);
+
+a Dusseldorf, 1912,n° 29.
+
+A consulter:Rassegna d’ Arte, t.XIl, p.76.
+eap il a ete preeipite,Yaceusateur nuit devant notre Dien. Eax ausi par la parole a laquelle il a readu tn rez! Malheur A ia terre et a la merl Car le jusqu'a mourir. C'est pourquoi,rejouissezvo avee une grande fupeu,saehant quil ne lui rest
+
+C'est ce passage de IApocalypse que le peintre le detail avee une precision extraordinaire tenant lenfant nouvean-ne dans ses bras 819de puissance et de clarte.Le tableau a eu plusieurs titre delors de celui que nous hi donnons,sons les titres de et sous celui-ci,qui est moins exact la Retigin duVice.
+
+L'euvre,icicatalogaee,est la premiere Rubens, de son grand tableau du mallre-autel du 16o8a 1612,pour le due Ernest de Baviere b'bBnBEVE Tano
+
+Freising,cuvre qui se trouve maintenant Munieh.
+
+Bois de chene.-Hautaarg
+
+Expose a Dusseldorf,go4 (catalogue de FirmenichRichartz, n271,Pp.u4 et )
+
+Collection Weber, de Hambourg,n 1g1. a Dusseldorf,1gx,n°29. A conster:asegna dArte, t,Xll, p.76
+Signe : J. Siberechts.
+
+Expose a Budapest, au Musee des Beaux-Arts, 1gIl;
+
+a Dusseldorf, 1g12, n° 38.
+
+## JAN SIBERECHTS
+
+Ne en 1627,a Anvers, mort a Londres, en 17o3.Eleve de Adriaen Denbraye,devint maitre de la Gilde en 1648 et partit plus tard pour lAngleterre avec le duc de Buckingham.
+
+## Le Gué
+
+Sous le bois, la riviere coule et le paysage est plein d'enchantements. A lombre des grands arbres qui se reflechissent dans l'eau, la paysanne,a califourchon sur un cheval blanc, vient de s'engager dans le gue ou elle a éte precedee par un taureau, une vache et un chien. De l'autre cote du gue, dans un pré, des betes sont en train de paitre.
+
+Toile.Haut. : om,74 ; larg. : om,83.
+74
+
+## JAN SIBERECHTS
+
+Paysage avec deux femmes
+
+Dans une campagne entouree d'arbres deux femmes sont arretes. L'une, assise sur un pli de terrain, est en train d'allaiter son nourrisson; elle est vue presque de face. Pres d'elle, une autre femme, vue de dos, s'est assise par terre; elle s'accoude du bras droit sur une jarre de metal qu'elle va remplir de lait, et tourne la tete a gauche; elle semble meme avoir un colloque avec un chien assis a quelque distance sur son arriere-train et qui prete a ses agaceries une attention hargneuse. A droite, dans le pre et assez loin,on apercoit une vache brune couchee de profil a droite, une autre debout, la tete tournee de face, et une troisieme vue de dos, qu'une fermiere est en train de traire.
+
+Toile.—Haut.:om,53;larg.:o,92.
+
+Expose a Budapest, au Musee des Beaux-Arts, 1gil; a Dusseldorf,1g12, n° 37.
+75
+
+## FRANS SNYDERS
+
+Ne a Anvers en novembre 1579;mort dans la meme ville le 19 aont 1657. Eleve de
+
+Pierre Breughel le Jeune et de Hendrik van Balen;plus tard, sous linfluence de Rubens.
+
+## Nature morte avec fruits, feurs et animaux
+
+Sur la table on a abandonne,parmi des paniers et des plats, toutes sortes de fruits appetissants, poires, nefles, raisins, peches, pommes, citrons, melons d'eau, cerises, ainsi que quelques coquilles, et a gauche des tulipes dans un vase;et,comme eles maitres étaient sortis,un singe et un chat ont juge linstant propice pour une collation; mais il faut croire que la paix n'a pas regne entre eux, car dans le desordre de la table, on apercoit le chat, a gauche,renverse, la gueule exhalant de furieux miaulements de protestation, et a droite, le singe, sur la defensive, tenant encore de sa main gauche une branche dont il a du se servir comme d'une arme.
+
+Toile.-Haut.:om,96;larg.:1m,515.
+
+Expose a Budapest, au Musee des Beaux-Arts, 1gil;
+
+a Dusseldorf, 1912, n 35.
+## DAVID
+
+## TENIERS, LE JEUNE
+
+Baptise a Anvers,le 15 decembre 161o;mort a Bruxelles,le 25 avril 16go. Eleve de son pere,puis infuence par P.-P.Rubens et surtout par Adriaen Brouwer. Membre de la Gilde d'Anvers depuis 1632etapartir de 1651a Bruxelles.
+
+## Deux chevaux blancs
+
+A l'entree de l'ecurie,le palefrenier est en train de panser un cheval blanc tachete de gris, vu de trois quarts a droite et de dos. Pres de lui, un jeune gentilhomme se tient debout et assiste,attentif, a ce pansage. Le peintre a represente le meme cheval dans la partie droite du tableau, mais tourne de trois quarts a gauche et en tete. Au premier plan sur le sol, on a depose une selle,des guides, des étriers, etc.
+
+Bois.-Haut.:om,57;larg.:o,465.
+
+Expose a Budapest,au Musee des Beaux-Arts, 1g11; a Dusseldorf, 1912, n° 34.
+## TABLEAUX FRANCAIS
+
+## ANGLAIS ET ITALIENS
+
+DES
+
+XVII XVIIIS SIECLES ET
+Signe.—F.co.G.di
+
+Collection du Baron Lazzarini.
+
+Le pendant de cette ceuvre se trouve en Amerique, dans une collection privee.
+
+Expose a Budapest, au Musee des Beaux-Arts;
+
+a Munich,a lAncienne Pinacotheque, 1gll,n° 16;
+
+a Dusseldorf, au Musee de la ville, 1g12, n 21.
+
+A consulter:ScHUBRING, Zeitschrift fur Bildende Kunst,Neue Folge XXIl,33.
+
+77
+
+## FRANCESCO GUARDI
+
+Ne a Venise en 1712;mort dans la meme ville en 1793.
+
+## Ruines antiques
+
+Dans une campagne ensoleillee, les ruines d'un temple dressent leur colonnade sur les pierres de laquelle des plantes parasites se sont accrochees et balancent des lianes vivaces. Sur le sol, de place en place, des futs de colonnes gisent avec des debris de chapiteaux. Au premier plan, une paysanne montee sur un cheval, s'en vient du marche, suivie d'un paysan, et accompagnee de quelques moutons. Au fond, a gauche,on apercoit un cavalier qui se detourne pour parler avec d'autres paysans.
+
+Toile.-Haut.:1m.04;larg.:1m,235.
+78
+
+## SIR THOMAS LAWRENCE
+
+Ne a Bristol, le 4 mai 1769;mort le 7 janvier 1839, a Londres, ou il travailla depuis 1787. Eleve de William Hoare. Influence par Reynolds.
+
+## Portrait du comte de Guildford
+
+(Francis North, quatrieme comte de Guildford)
+
+Il est represente a mi-corps, de trois quarts a gauche,avec son habit gris noir boutonne dont les larges revers s'ouvrent sur une chemise blanche, et sur un gilet clair. Sa cravate blanche est nouee en coques doubles. Il a la figure rasee,avec des cheveux gris coiffes en desordre. Son expression est pleine de malice.
+
+La figure se detache sur un fond de ciel.
+
+Toile.——Haut.:om;765；larg.:om,64.
+
+Expose a Budapest, au Musee des Beaux-Arts,191l;
+
+a Dusseldorf, 1912, n°60.
+Signe et date.
+
+Grave par Bannermann Boydell sous le titre:The dancing children,Londres, 1767. Originairement dans la collection de Sir Lucas Schaub,1758;plus tard dans la collection de Lady Londsdale,a Lowther-Castle.
+
+Expose a Dusseldorf, 1g12, n° 55.
+
+WAAGEN,Art Treasures,vol.IIl,p.263.
+
+A consulter:A.VALABREGUE,les Freres Le Nain,Paris,1go4,PP.91,108 et 170;
+
+79
+
+## LE NAIN
+
+Il est difficile de distinguer dans leurs travaux ce qui revient a chacun des freres Le Nain, Louis-Antoine, mort le 25 mars 1648, et Mathieu, mort au mois d'aout 1677.
+
+## Enfants dansant
+
+Dans un interieur paysan, deux fillettes et deux gamins dansent gaiement tandis que le frere aine, debout a gauche et de profil, joue du flageolet. Au fond, l'aieule debout assiste souriante a cette joie, ainsi que deux autres enfants également debout et attentifs. Sur le rebord de latre, on apercoit quelques objets.
+
+Cuivre.-Haut.:om,345；larg.:om,41.
+80
+
+## JEAN-MARC NATTIER
+
+Né le 17 mars 1685,a Paris;mort dans la meme ville, le 7 novembre 1766.Fils et eleve de Jean-Marc Nattier l'aine.
+
+corsage ferme neutre.
+
+Signe.-Nattier,1728.
+
+ExposeaDusseldorf,1g12,n° 56.
+
+## Portrait de femme
+
+La noble dame est assise de face en costume de satin decollete.Elle est jolie, mais lage a deja marque son menton d'un pli gras. Ses yeux sont calmes, sa bouche est sensuelle, son menton est creuse d'une fossette. De son épar un bijou,une chemisette deborde,en batiste plissee. Le bras droit est ploye et appuye sur des coussins,la main gauche vient se poser avec abandon sur la main droite. La figure se detache sur un fond
+
+Toile.-Haut.:I metre;larg.:o,8o.
+81
+
+## SIR HENRY RAEBURN
+
+(1756-1823)
+
+## Portrait du general Campbell
+
+Il est represente debout, dans un paysage, en avant d'un arbre auquel il s'appuie. Il porte un uniforme rouge eclatant, dont le ton tranche sur la culotte et le gilet clairs. ll tourne la tete de trois quarts a gauche,et son expression est pleine d'intelligence et de volonte. ll croise son bras droit sous son bras gauche et retient sous celui-ci, de la main droite, son bonnet de fourrure. Derriere lui,un paysage mouvemente.
+
+Toile.—Haut.:1m,23；larg.:1m,05.
+
+Collection Sir Rodney Steward Ridell, Bart.,Londres.
+
+Agnew,Londres.
+
+Expose a Dusseldorf, 1912, n° 59.
+
+A consulter:James GREiG, Catalogue, p.4o.
+82
+
+## GIOVANNIBATTISTA TIEPOLO
+
+Lazzarini, a Venise, et forme ensuite sous linfluence de Piazetta,Rizzi et des ceuvres de Paul Veronese.A travaille a Venise, fut tres apprecie a Wurzburg et Madrid.
+
+Esquisse pour un plafond peint, a composition allegorique
+
+Toile.-Haut. : om,51 ; larg.: o",335.
+
+Expose a Dusseldorf,au Musee de la ville, 1g12,n° 20.
+## GIOVANNI BATTISTA TIEPOLO
+
+## La Vierge immaculee
+
+La Vierge, portee sur des nuees, semble monter vers le ciel les mains jointes. Elle est vetue d'une stola blanche et sa palla s'ouvre comme de grandes ailes que soulevent des cherubins. Autour de sa tete, s'allume un nimbe d'etoiles. Au fond du ciel, a droite, on apercoit deux tetes de seraphins.
+
+Toile.—Haut:om,345;larg.:om,28.
+
+Esquisse du grand retable fait en 1737 pour leglise du couvent Aracoeli, a Vincenza, maintenant au musee.
+
+Le musee d'Amiens en possede une variante, certainement inferieure.
+
+Galerie Leistler,a Vienne;vendue en 1903.
+
+Collection Weber,de Hambourg,n°163.
+
+Expose a Dusseldorf, au Musee de la ville, 1912, n° 19.
+
+A consulter:FRIMMEL,Blatter fur Gemaldekunde in Wien,1go5,p.15; E.SAck,Tiepolo,n 328.

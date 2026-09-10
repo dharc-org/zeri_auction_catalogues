@@ -1,0 +1,1244 @@
+- 19X24 cm.S.R.
+
+## ART DES NICOLAES BERGHEM
+
+- 1.HIRTEN BEIM HOLZSAMMELN.Lwd.Gr.32X40 cm.S.R.
+
+## SUDDEUTSCHE SCHULE
+
+XVIll. Jahrh.
+
+- 2.HERDE IN DER FURT UND EIN REITER. Lwd. Gr.26X37 cm. S.R.
+
+## ART DES CHR. G. SCHUTZ
+
+- 3.4.ZWEI KLEINE LANDSCHAFTEN:Dorfer am Wasser. Gegensticke.Lwd. Gr. je
+
+## JOHANN HEINRICH ROOS,WERKSTATT
+
+5. VIEHSTUCK: Kuhe, Schaf, Ziege in einem Felsbach. Lwd. Gr.57X65 cm. G. R.
+
+## SPANISCHER MEISTER
+
+des XVIl. Jahrhs.
+
+- 6.DIE ANBETUNG DER KONIGE.Kupfer.Gr.40X33 cm.S.R.
+
+## VENEZIANISCHE SCHULE
+
+Erste Halfte des XVIll. Jahrhs.
+
+- 7.VERLOBUNG DER MARIA MIT JOSEPH. Lwd.Gr.80X65 cm.S.R.
+
+## NIEDERLANDISCHER MANIERIST
+
+t1m1530
+
+- 8.CHRISTUSKOPF,Goldgrund. Holz.Gr.23x29 cm.S.R.
+
+## JACOBJORDAENS,WERKSTATT
+
+- 9.HALBFIGUR DES JUGENDLICHEN BACCHUS, ein Weinglas in der Redten. Holz. Gr.76X65 cm.S.R.
+
+## BONAVENTURA PEETERS,WERKSTATT
+
+- 10.SEESCHLACHT mit brennenden Schiffen vor einer Kustenfestung.Holz.Gr.60X83 cm. S.R.
+## EDGAR VAN DER POEL,ART
+
+11. NACHTLICHE SZENE IN EINER HOHLE mit vielen Gestalten. Lwd. Gr.26X30 cm. Alter G.R.mit Monogramm:BT.
+
+## HOLLANDISCHE SCHULE
+
+Art der Beyeren, XVIl. Jahrh.
+
+- 12.STILLEBEN MIT KRUG UND MORSER,oben aufgehangte Voge1. Lwd. Gr.101 X95 cm.G.R.
+
+## DEUTSCHER MEISTER
+
+XVIll. Jahrh.
+
+13. KLEINES BLONDES MADCHEN, Halbfigur, stehend, mit Blumen in der Hand. Lwd.
+2. Gr.78x54 cm.G.R.
+
+## BOLOGNESISCHE SCHULE
+
+um 1650
+
+14. JUNGES MADCHEN mit weiBem Kopftuch, einen Ring in der Hand. Lwd.
+2. Gr.48X38cm.G.R.
+
+## NACH JAN STEEN
+
+15. DIE KRANKE UND DER ARZT. Holz.Gr.53X42 cm.G.R. Signiert.
+
+## DAVID DE HEEM
+
+XVIl.Jahrh.
+
+- 16.ZITRONE UND GRANATAPFEL.Holz.Gr.25X21 cm.S.R.
+
+## DEUTSCHER MEISTER
+
+um 1820
+
+- 17.BILDNIS EINES HERRN mit grauem Haar. Lwd. Gr. 60X49 cm.G. R.
+
+## LODEWYKDE VADDER,WERKSTATT
+
+- 18.LANDSCHAFT MIT BAUMBESTANDENEN HUGELN und Viehherden. Holz. Gr.46X62 cm.G.R.
+
+## DEUTSCHER MEISTER
+
+um 1750
+
+19. BRUSTBILD EINES JUNGEN MADCHENS in rotem Kleid. Holz. Gr.47X35 cm.G. R.
+## GENUESER MEISTER
+
+des XVIll. Jahrhs.
+
+- 20.ALTTESTAMENTARISCHE SZENE.Lwd. Gr.89X143 cm.
+
+## HOLLANDISCHE SCHULE
+
+Erste Halfte des XVIll. Jahrhs.
+
+21. BILDNIS EINES ALTEN MANNES im Turban. Holz. Gr.8,5X6 cm.S.R.
+
+## NACH ADRIAEN VAN OSTADE
+
+- 22.DER ARZT.Holz.Gr.30X25 cm.G.R.
+
+## ITALIENISCHE SCHULE
+
+Nach einem Original des XVI.Jahrhs.
+
+23. KOPF EINES HEILIGEN mit Heiligenschein.Holz.Gr. 41X27 cm. G.L.
+
+## HOLLANDISCHE SCHULE
+
+um1700
+
+24. BILDNIS EINES GREISES mit Pelzmitze.Holz. Gr.22X17 cm.G.R.
+
+## FLORENTINISCHE SCHULE
+
+XVI.Jahrh.
+
+- 25.BILDNISEINESJUNGEN MANNESmit kurzem schwarzenVollbart.Lwd.Gr.39X28cm.G.R.
+
+## ITALIENISCHE SCHULE
+
+XV.Jahrh.
+
+26. MARIA MIT DEM KINDE und dem kleinen Johannes. Holz.Gr.50x30 cm,oben abgerundet;alter Tabernakelrahmen mit Palmetten.
+
+## SPANISCHE SCHULE
+
+XVIl.Jahrh.
+
+- 27.MARIA MIT DEM KINDE.Lwd. Gr.95X71 cm.G.R.
+
+## JEAN ANTOINE WATTEAU
+
+Alte Kopie
+
+29. VIER PERSONEN DER ITALIENISCHEN KOMODIE und ein Negerknabe. Halbfiguren. Holz.Gr.19x23 cm.G.R.
+## KOPIE NACH ITALIENISCHEM MEISTER
+
+des 16.Jahrhs.
+
+30. VIER HEILIGE, stehend, auf Goldgrund CBartolomaus, Catarina von Siena, Clara, Cyprian). Goldgrund verletzt.Lwd. Gr.28X63 cm. S.R.
+
+## HOLLANDISCHE SCHULE
+
+XVII. Jahrh. Nach D. Teniers d. J.
+
+- 31.DIE VERSUCHUNG DES HEILIGEN ANTONIUS. Holz.Gr.27X25 cm. G.R.
+
+## HOLLANDISCHER MEISTER
+
+des XVIl. Jahrhs.
+
+- 32.DREI BAUERN UND EIN MADCHEN in der Kneipe. Lwd. Gr.20X32 cm.G.R.
+
+## FRANZOSISCHER MEISTER
+
+um 1830
+
+- 33.SEESTUCK mit Schifferbooten.Lwd. Gr.40X54 cm.G.R.
+
+## C.W.E.DIETERICY
+
+Weimar 1712-1774 Dresden
+
+- 34.HARLEKIN UND DAME IM GESPRACH.Lwd.Gr.23X32 cm.G.R.
+
+## WILLEM CLAESZ HEDA
+
+Haarlem 1594-1678
+
+- 35.FRUHSTUCKSSTILLEBEN: Krabben,Wein,Zitronen usw.Lwd. Gr. 6OX74 cm.G.R.
+
+## BOLOGNESISCHE SCHULE
+
+XVIl. Jahrh.
+
+36. DIE RUCKKEHR DES VERLORENEN SOHNES. Lwd. Gr. 130X93 cm. A1ter
+
+## BOLOGNESISCHE SCHULE
+
+Art des Guido Reni
+
+- 37.HEILIGE MARTYRERIN mit Krone und Palmzweig. Halbfigur.Lwd. Gr.95X72 cm. G.R.
+
+## ART DES PIETER CODDE
+
+- 38.IM WIRTSHAUS.Lwd.Gr.17X22 cm,G.R.
+- geschnitzter G.R.
+## VLAMISCHER MEISTER
+
+um 1660
+
+- 39.BLUMENSTRAUSS in silberner Vase. Lwd. Gr.84X67 cm.S.R.
+
+## VLAMISCHE SCHULE
+
+Mitte des XVll. Jahrhs.
+
+40. FLUSSLANDSCHAFT mit Reitern und Booten am Hafen; jenseits bergiges Ufer. Holz. Gr.21X30cm.S.R.
+
+## DENIS VAN ALSLOT
+
+Brusse1 1570, nach 1626
+
+41. WINTERLICHES DORF; auf der DorfstraBe Spazierganger und Bauern, links ein Teich
+2. mit Schlittschuhlaufern. Lwd. Gr.81X114 cm.S.R.
+
+## THOMAS WYK
+
+1616-1677 Haarlem
+
+42. WASCHERIN UND HIRT mit Herde am Bach. Holz. Gr. 37X48 cm.S.R.
+
+## ART DER BREDAEL
+
+Hollandisch, Ende des XVIl. Jahrhs.
+
+43. WINTERBELUSTIGUNG auf einem zugefrorenem Teich; links eine StraBe. Kupfer. Gr.45X55cm.G.R.
+
+## NICOLAES MAES,WERKSTATT XVII Jahrh.
+
+- 44.ALTE FRAU IM LEHNSTUHL,1esend. Lwd.Gr.55X45 cm. G.R.
+
+## JAN VAN HUCHTENBURGH
+
+Haarlem 1646-1733
+
+- 45.REITERKAMPF.Lwd.Gr.53x76 cm.G.R.
+
+## MEISTER AUS DEM KREISE DES WOUWERMAN
+
+46. KAVALIERE ZU PFERDE; eine Gruppe vornehmer Reiter links, in der Ebene ein Heerlager. Kupfer.Gr.44X63 cm.S.R.
+
+JACOB VAN RUYSDAEL zugeschrieben XVIl.Jahrh.
+
+- 47.LANDSCHAFT MIT WASSERFALL. Holz.Gr.78X59 cm. G.R.
+## AELBERT CUYP, WERKSTATT
+
+48. GEBIRGSLANDSCHAFT mit Ritter, der von seinem Schimmel gesticgen ist und
+2. rastende Landleute anspricht. Lwd.Gr.103x78 cm.G.R.
+
+## HOLLANDISCHE SCHULE
+
+um 1690
+
+49. GROSSES BLUMENSTILLEBEN:Rosen,Tulpen u.a. Blumen in brauner Vase.
+2. Lwd.Gr.84X64 cm.G.R.(Oberflache 1eicht verletzt.)
+
+## FRANCESCO ALBANI,WERKSTATT
+
+50. LUNA UND ENDYMION; die Gottin, von Amoretten umgeben, senkt sich auf einer
+2. Wolke zu dem schlafenden Hirten herab. Lwd.Gr.39x47 cm.G.R.
+
+## ENGLISCHE SCHULE
+
+des XVIII. Jahrhs.
+
+51. BRUSTBILD EINER BLONDEN JUNGEN DAME mit groBem Hut; grunliches Kleid, vorn ausgeschnitten. Lwd.Gr.55X45cm.G.R.
+
+## CLAUDE LEFEBURE
+
+Fontainebleau 1632-1675 Paris
+
+52. BILDNIS EINES JUNGEN MANNES in rotem Rodk mit weiBem Spitzenhalstuch. Lwd.Gr.67X83cm.S.R.
+
+## 1.MICHIEL SIMONS
+
+geb.in Utrecht,+ 1673
+
+53. STILLEBEN mit Krabbe und Erdbeeren. Holz.Gr.22X28 cm.G.R. Signiert und datiert 1649.
+
+## JAN BOTH,ART
+
+54. ITALIENISCHE ABENDLANDSCHAFT mit Reiter und Hirten;links cin Teich.
+2. Lwd.Gr.58X71 cm.S.R.
+
+## NICOLAES BERGHEM,SCHULE
+
+55. ITALIENISCHE BERGLANDSCHAFT mit Ruine. Holz. Gr.52X64 cm.G.R.
+- Alter G.R.
+
+## BARTHOLOMAUS BREENBERGH
+
+Deventer 1599-um 1659 Amsterdam
+
+- 56.CAMPAGNALANDSCHAFT mit Hirten und Vieh als Staffage. Kupfer. Gr.18X24 cm.
+
+## ALTE KOPIE NACH CORREGGIO
+
+XVIl.Jahrh.
+
+- 57.DIE VERLOBUNG DER HEILIGEN KATHARINA. Lwd. Gr.85X84 cm.G.R.
+
+## JOACHIM DE PATINIER,WERKSTATT
+
+um1510
+
+58. DER HEILIGE HIERONYMUS vor dem Kreuz in einer weiten Landschaft mit Baumen,
+2. im Hintergrund eine Stadt. Holz. Gr.33X48 cm.S.R.
+
+## WILLEM CLAESZ HEDA (?)
+
+Haarlem 1594-1678
+
+59. STILLEBEN:Krug, Weinglaser und Fische. Lwd. Gr.49x71 cm. S.R.
+
+## ADRIAEN HANNEMAN
+
+Haag 1601-1671
+
+60. DIE DREI ENGEL BEI ABRAHAM. Lwd. Gr.48X56 cm. G.R. Undeutlidh be
+2. zeichnet links unten.
+
+## ITALIENISCHE SCHULE
+
+um1530
+
+61. DER HEILIGE ANTONIUS mit Lilie und Buch in ganzer Figur, stehend. Holz. Gr.129x46cm.
+
+## ART DES HENRY RAEBURN
+
+um1750
+
+62. BRUSTBILD EINES ALTEN HERRN. Lwd. Gr.hochoval 65X53 cm.G.R.
+
+## JOH.FR.AUG.TISCHBEIN
+
+Maestricht 1750-1812 Heidelberg
+
+- 63.DAS BAD DER DIANA.Lwd.Gr.35X43 cm.G.R.
+
+## ART DES FRANCOIS BOUCHER
+
+- 64.PASTORALE. Ein junges Schaferpaar von einem Hirten belauscht. Lwd. Gr. 97X79cm. G.R.
+## NIEDERLANDISCHE SCHULE
+
+um1750
+
+- 65.ROMANTISCHE TALSCHLUCHT mit Stafage. Holz.Gr.16x23 cm.G.R.
+
+## NIEDERLANDISCHE SCHULE
+
+um 1550
+
+66. LOTH UND SEINE TOCHTER. Holz. Gr.20X26 cm.S.R.
+
+## NIEDERLANDISCHESCHULE
+
+um 1520
+
+- 67.70. VIER KLEINE ALTARTAFELN:Verkundigung; Darstellung im Tempel; Simeon; das Christuskind wird dem Hohenpriester gezeigt. Holz. Gr. je 27X16 cm.G.R.
+
+## ANDREA LANZANI
+
+Mailand 1645-1712
+
+- 71.DIE GRABLEGUNG. Lwd. Gr.92X118 cm.G.R.Cbeschadigt.)
+
+## SCHULE VON FERRARA
+
+- 72.CHRISTUS IM GRABE, von Maria, Johannes und Magdalena beklagt. Holz. Gr.37X30 cm. Tabernakelrahmen.
+
+## MEISTER DES TODES MARIA
+
+XVI.Jahrh.
+
+- weiter Ausblick in Landschaft. Holz. Gr.109X78 cm. G.R.
+73. MARIA MIT DEM KINDE. Halbfigur an einer Steinbristung. Rechts Vorhang, links
+
+## PIETER BRUEGHEL d.J.
+
+Brusse11564-1638 Antwerpen
+
+74. DER ROMMELPOTTSPIELER. Der Alte, von vielen Kindern umringt, geht durch die DorfstraBe. Vor den Hausern Gruppen, rechts wird ein Schwein geschlachtet. Holz. Gr. 39X59 cm. S.R. Abbildung Tafel9
+
+## JAKOB PHILIPP HACKERT
+
+Prenzlau 1737-1807 Florenz
+
+75. DIE CAMPAGNA FELICE gegen Capua. Weite Landschaft mit Staffage, Landleute und weiBe Ochsen;rechts Gebirge. Lwd. Gr.64X96 cm. G.R. Ausfihrlich bezeichnet und datiert 1784. Abbildung Tafel4
+76. EINE VILLA BEI ROM. Weite Hugellandschaft mit Blick auf das Gebirge. Lwd. Gr. 65X88 cm.G.R. Signiert und datiert 1779. Gegenstick zu vorigem.
+## BOLOGNESISCH
+
+XVIl. Jahrh.
+
+77. DIE JUNGER UM DEN SARKOPHAG DER MARIA VERSAMMELT.Studie zu einer Himmelfahrt Maria.Lwd.Gr.32X46 cm.G.R.
+
+## NIEDERLANDISCH
+
+um1700
+
+78. HEXENSABBAT. Junge und alte Hexen in einer mit allerlei Spuk, Zauberwerkzeug
+2. und Geraten angefilten Stube. Holz. Gr.57X21 cm. G.R.
+
+## NACH GERARD DOU
+
+79. DIE MUTTER DES KUNSTLERS, Brustbild, in Haube und Mihisteinkragen. Holz.
+2. Gr.35X26cm.G.R.
+
+## C. W.E.DIETERICY
+
+- 80.EIN JUDISCHER KONIG in weiBem Turban mit Krone.Brustbild. Holz. Gr.25X20 cm.
+
+## JEAN BAPTISTE GREUZE, ALTE KOPIE
+
+81. MADCHEN MIT HUND. Ein kleines Madchen in weiBem Hemdchen,auf einem Stuhl sitzend, halt einen langhaarigen Mopshund. Lwd. Gr.61X49 cm. G.R.
+
+## AERT VAN DER NEER
+
+82. GROSSE WINTERLANDSCHAFT mit zahlreichen Eislaufern, links Windmihle und Hauser;bedeckter Himmel. Holz.Gr.61X106 cm. S.R. Mit Gutachten von Dr.Hof stede de Groot. Abbildung Tafel 5
+
+## PIETER VAN DER WERFF
+
+um1690
+
+83. DER GEFANGENE VOGEL.Vier Kinder um einen Vogel, den sie in einem Korbchen gefangen haben. Hinter ihnen eine Herkulesgruppe. Daneben in der Landschaft Anti quare und Kuinstler. Holz. Gr.49X35 cm. G.R. Mit einer Signatur C1.
+
+## DEUTSCHER MEISTER
+
+um1840
+
+84. KLEINER KNABE MIT HUNDCHEN. Holz.Gr.24X18 cm.G.R.
+
+## FRIEDRICH WILHELM WEIDEMANN,ART
+
+85. BILDNIS EINES RITTMEISTERS VON PLOTHO, in brauner Allongeperrudke,im
+2. Harnisch. Lwd. Gr.hochoval 90x73 cm. Rahmen in Rot und Gold.
+
+Abbildung Tafel 10
+## SACHSISCHE SCHULE
+
+um1560
+
+86. PREDELLA EINES ALTARWERKS. Links ein Vater mit drei Sohnen,rechts die Mutter mit vier Tochtern, alle im Gebet knieend. In der Mitte Gemalde mit der Kreuzigung.
+2. Holz.Gr.38X117 cm.G.R. Oberflache leicht 1adiert.
+
+## ANTOINE PESNE,WERKSTATT
+
+87. PRINZ HEINRICH VON PREUSSEN,Brustbild in Uniform, in gemaltem Steinoval.
+2. Lwd.Gr.90X75 cm.Geschnitzter R.im Rokokostil.
+
+## G.F.R.LISIEWSKY
+
+Berlin 1825-1794Ludwigslust
+
+- 88.BILDNIS EINES HERRN VON BERENHORST in Dreispitz und rotem Galarock.Brust
+- bild. Lwd. Gr.80X64 cm. G.R. Rudkseitig signiert und datiert 1760.
+
+## JAN MIENSE MOLENAER
+
+Haarlem,um 1610-1668
+
+- 89.DER GEFLUGELMARKT. Am Dorfrand Burgerinnen und Bauern mit lebendem und
+- totem Gefligel,rechts Blick in die Landschaft.Holz.Gr.57x73 cm.S. R.Mit Gut achten von Dr. G. Gluck. Abbildung Tafel5
+
+## GIOVANNI BATTISTA PITTONI
+
+Venedig 1687-1767
+
+90. DIE VERSUCHUNG DES HEILIGEN ANTONIUS; der greise Heilige warmt sich an einem Feuer die Hande, links ein junges Madchen mit entbioBtem Busen. Lwd. Gr.142x112 cm.G.R.Gutachten von Prof.Dr. G. Gronau.
+
+## GIO ANTONIO PELLEGRINI
+
+Venedig 1675-1741
+
+- Szene.Lwd.Gr.46X63 cm.G.R.
+
+## VINCENZO DAMINI
+
+Geb.in Venedig, taitig 1720-30 in London
+
+- Lwd. Gr.124X162cm.G.R.
+92. DER JUGENDLICHE JOSEPH 1egt vor dem Pharao die Traume aus.
+- Gegensticke. Lwd.Gr.124X162 cm. G.R. Mit Gutachten von Prof.Dr.Hermann VoB.
+- Gr.25X40 cm.G.R.
+
+## GERRIT VAN HEES
+
+um 1650
+
+- 94.BAUMLANDSCHAFT mit Wassermihle. Staffage. Holz. Gr.46X62 cm. S.R.
+
+## SIMON JULLIEN
+
+Toulon 1735-1800 Paris
+
+95. LANDSCHAFT MIT STAFFAGE.Ein Steinbrunnen,rechts eine Wassertragerin. Holz.
+
+## CORNELIS HUYSMANS
+
+Antwerpen 1648-1727Mecheln
+
+- 96.GEBIRGIGE LANDSCHAFT mit Figurenstaffage. Lwd. Gr.71X49 cm.G.R.
+
+## VLAMISCHER MEISTER
+
+um 1630
+
+- 97.GEBIRGIGE LANDSCHAFT MIT REITER und Figurenstaffage. Gr.23X30 cm.G.R.
+
+## WILLIAM HOGARTH
+
+1697-1764
+
+98. DIE AHRENLESERIN MIT IHREM KINDE.Lwd.Gr.74X6O cm.G.R. Siehe M. J. Binder, Katalog der Sammlung Heinrich Kaven-Grunewald 1909. Nr.18, Tafe1 17.
+2. Abbildung Tafel 14
+
+## JACOB JORDAENS
+
+Antwerpen 1593-1678
+
+- 99.DIANA MIT IHREN NYMPHEN NACH DER JAGD. Reichfigurige Komposition.
+- Schwarze Kreide,leicht aquarelliert. Gr.44x110 cm.Gerahmt.
+
+## JACOB GRIMMER
+
+Antwerpen 1526-1590
+
+- 99a. DAS KIRCHWEIHFEST. In einer Stadt mit stattlichen Turmbauten vergnuigt sich eine sehr zahlreiche Menge. Holz. Gr. 25x37 cm. G.R.
+
+## JAN WYNANTS
+
+Haarlem 1606-1677
+
+100. LANDSCHAFT mit einem Weg am FluB, der mit Reitern und rastenden FuBgangern belebt ist.Holz.Gr.32X42 cm.S.R.Signiert.
+
+## NICOLAES MAES
+
+Dordrecht 1632-1693 Amsterdam
+
+101. BILDNIS EINES JUNGEN HERRN in Perridke. Kniestick. Lwd.Gr.47x36 cm.G.R.Signiert.
+## KAREL DUIARDIN
+
+Amsterdam 1625-1682 Venedig
+
+102. LANDSCHAFT. Am FuB einer bewaldeten Hugelkette ein Teich, Wascherinnen und Herden mit ihren Hirten als Staffage.
+
+Lwd.Gr.59x83 cm.G.R. Signiert mit Monogr.und datiert 1668.
+
+## FRANZ FRANKEN d. J., WERKSTATT
+
+103. BACCHUSFEST; auf einer Tonne in der Mitte der junge Bacchus,unten eine zahl
+2. reiche Menschenmenge. Holz. Gr. 43X61 cm.G.R.
+104. VENUSFEST;um die auf einer Saule stehende Gottin eine Versammlung jugendlicher Paare. Gegenstudk zu vorigem. Holz.Dieselben MaBe. G.R.
+
+## ADAM PYNAKER
+
+Pynaker 1622-1673 Amsterdam
+
+105. HUGELLANDSCHAFT,rechts Wald. Holz. Gr.27X33 cm. G.R.
+
+## JAN BRUEGHEL d.I.
+
+Antwerpen 1601-1675
+
+106. DIE HEILIGE FAMILIE MIT DEM KLEINEN JOHANNES unter einem Baume rastend;
+2. in der Luft drei kleine Engel.Kupfer.Gr.26X34 cm.G.R.
+
+## ABRAHAM JACOBSZ VAN DEN TEMPEL
+
+1618-1672
+
+107. MADCHENBILDNIS. Ein kleines Madchen in weiBem Atlaskleid sitzt mit Blumen korb und Blumen im SchoB in einem Park. Lwd.Gr.105x86cm.G.R. Abbildung Tafel 4
+
+## DIRK VAN DER LISSE
+
+starb 1669 im Haag
+
+108. HEROISCHE LANDSCHAFT. Rechts auf einem Felsen zwei nackte Frauen und ein Hirt, unten in der Tiefe an einem Seeufer Nymphen. Dahinter eine Burg und Gebirgslandschaft. Holz.Gr.35x57 cm.Monogrammiert.
+
+## MONTEYN
+
+Amsterdamer Meister des XVIl. Jahrhs.
+
+109. GESELLSCHAFTSSZENE IN DER FASTNACHTSZEIT.Lwd. Gr. 48X56 cm.G.R. Signiert.
+## GILLIS VAN KONINXLOO
+
+Antwerpen 1544-1607Amsterdam
+
+- 110.WALDLANDSCHAFT mit Teich; Kephalos und Prokris im Vordergrund. Holz. Gr.48X63 cm.S.R.
+
+## DANIEL VERTANGHEN
+
+111. DIE HEILIGE MAGDALENA IN DER HOHLE,in den Luften Engel, rechts Blick in Landschaft.Holz.Gr.37X45 cm.Aiter G.R.
+
+## 1.VAN STRY
+
+Dordrecht 1756-1815
+
+112. MORGENLANDSCHAFT; rechts Berge, im Vordergrund Viehherde und Hirt. Holz. Gr.57X78 cm.G.R.Signiert.
+
+## HYACINTHE RIGAUD
+
+Perpignan 1659--1743 Paris
+
+113. BILDNIS DES CARDINALS FLEURY. Lwd. Gr. 82X64 cm.G.R. Replik des in mehreren Exemplaren gemalten berihmten Bildnisses CExemplare in der Londoner
+2. National Gallery, Versailles, Wallace Collection).
+
+## ART DES ABRAHAM STORCK
+
+XVIl.Jahrh.
+
+114. GROSSES SEESTUCK mit zahireichen Schiffen, im Hintergrund eine Stadt. Lwd. Gr.115X145 cm.Schwarzer R.
+
+## MEISTER AUS DEM KREISE DES MEINDERT HOBBEMA
+
+XVIl.Jahrh.
+
+115. GROSSE WALDLANDSCHAFT,in der Mitte ein breiter Weg mit Wagen und Wanderern als Staffage. Links ein Haus. Weiter Blick in die huglige Ebene. Lwd.
+2. Gr.108X149 cm.Mit Gutachten von Exzellenz von Bode.
+
+## PIETER VAN BEMMEL
+
+Tatig um 1690
+
+116. WALDLANDSCHAFT; rechts hohe Laubbaume, links eine einzelne Birke; auf einem
+2. Waldweg Wanderer.Lwd. Gr. 84X60 cm.Brauner R.
+
+## JAN THEUNISZ BLANKERHOFF
+
+A1kmaar 1628-1674 Amsterdam
+
+117. MEERESBUCHT MIT SCHIFFEN; ein Boot am Strand wird ausgebessert. Holz. Gr.37X50 cm.S.R. Monogramm.J.B.f.
+## ARNOLD VAN MAAS
+
+XVIl.Jahrh.
+
+118. LANDSCHAFT MIT STAFFAGE; vorn am Wasser unter Baumen Landleute und Kinder,
+2. auf dem See Boote.Lwd. Gr.60x74 cm.G.R. Monogramm.
+
+## JOHANN CHR.VOLLERDT
+
+Leipzig 1708-1769 Dresden
+
+119. NACHTLICHER BRAND EINES KIRCHDORFS;huglige Landschaft,vorn ein Teich und
+2. Landleute.Kupfer.Gr.41X55 cm.G.R. Signiert.
+120. BLICK AUF DRESDEN VON DER NEUSTADT AUS; neben der alten Bruhischen Terrasse explodiert ein Pulverturm. Kupfer. Gr. 41X55 cm. S.R. Signiert.
+
+## SALVATORE ROSA
+
+Reve1la 1615-1673Rom
+
+121. ITALIENISCHE LANDSCHAFT. Von einem baumbestandenen Hugel Blick auf eine Ebene im Charakter der Campagna. Reiter und Ochsenhirten als Staffage. Lwd. Gr.119X70 cm.G.R. Abbildung Tafel 6
+
+## SIMON DE VLIEGER
+
+Rotterdam 1600-1653 Weesp
+
+122. MARINE MIT SEGELSCHIFFEN.Ho1z.Gr.23X42cm.S.R.
+
+## ADRIAEN VAN OSTADE
+
+Haarlem 1610-35
+
+123. DIE SCHULSTUBE. Rechts auf erhohtem Sitz die Lehrerin, in dem weiten Raum zahlreiche Gruppen von lesenden Knaben. Holz. Gr. 22X33 cm.G.R.
+
+## CHRISTOPH VON LUBIENETZKY
+
+Stettin 1659-1729 Amsterdam
+
+127. DER BERUHMTE KUNSTSAMMLER UND BANKIER JABACH,Kniestick,in rotem Mantel, nach rechts sitzend. Lwd. Gr. 119X93 cm. G.R. Abbildung Tafel1
+128. DIE GATTIN DES KUNSTSAMMLERS UND BANKIERS JABACH,Kniestuck,nach links sitzend. WeiBes Kleid, blauer Mantel. Gegenstick zu vorigem. Beide Gemalde stammen laut Angabe des Vorbesitzers aus der Galerie Konig Karls I. von England.
+3. Lwd. Gr.119X93 cm. G.R. Abbildung Tafel1
+
+## MARIO DA'FIORI
+
+Penna 1603-1673 Rom
+
+- 129.130. BLUMENSTUCKE: Tulpen, Nelken, Rosen und Gerat. Gr. je 49X61 cm. G.R.
+- Gegensticke.Lwd.
+## MARTINUS NELLIUS
+
+Leiden, tatig um 1670-1700
+
+131. FRUCHTESTILLEBEN:Melone, Pfirsich,Apfelsine und anderes Obst und Schmetter
+2. linge.Lwd. Gr.66X54 cm.G.R. Signiert.
+
+## JAQUES PHIL. LOUTHERBOURG
+
+1740-1812
+
+132. DAS GEWITTER. In der Mitte, hell vom Blitz beleuchtet, alte Wassermuhle, vorn
+
+## KARELEMMANUELBISET
+
+Mecheln 1633-1686 Antwerpen
+
+133. FASTNACHT. Ein farbig kostuimierter Herr wird von einer beim Schmaus sitzenden
+2. Herrengesellschaft bewillkommt. Lwd. Gr. 60x78 cm. G.R.
+
+## CORNELIS POELENBURGH
+
+Utrecht1586-1667
+
+134. DIE RUHE AUF DER FLUCHT NACH AGYPTEN.Abendlandschaft.Holz.
+2. Gr.16X22 cm.G.R.
+3. Gr.57x76 cm.G.R.
+4. Gr.85X110 cm.S.R.
+
+## JOOST DE MOMPER, ART
+
+Antwerpen 1564-1635
+
+## CORNELIS HUYSMANS
+
+1648-1717
+
+## DEUTSCHER MEISTER
+
+XVIll. Jahrh.
+
+- 137-138. ZWEI JUNGE DAMEN, die eine mit Rosen, die andere mit blauem Band im Haar.
+- Gegenstidke. Pastelle. Gr.je 56x45 cm.G.R.
+
+## SUDDEUTSCHE SCHULE
+
+um 1525
+
+139. MARIA MIT DEM KINDE, DEN HEILIGEN ANTONIUS UND MARGARETE in ganzen Figuren in Landschaft. Holz. Gr.86X86 cm. G.R.
+- Michaelus..tatis 56.1656.
+
+## GASPAR DE CRAYER
+
+1584-1669
+
+140. BILDNIS EINES BENEDIKTINERS,Brustbild.Lwd. Gr.52X74cm.S.R. Bez.:Angelus
+
+## E.TISCHBEIN
+
+141. BILDNIS EINES JUNGEN MADCHENS in WeiB mit gelbem Schal, in der Rechten einen Brief. Lwd. Gr.70x60 cm.G.R. Signiert und datiert 1811. Vermutlich von dem 1791 zu Breslau geborenen Wilhelm Eduard Tischbein, Sohn des Christian Wilhelm.
+
+## FLAMINIO TORRE
+
+Bo1ogna 1621-1661 Modena
+
+142. DIE HEILIGE FAMILIE; Maria reicht dem Kinde die Brust, wahrend der heilige Joseph ihm Kirschen hinhalt.Lwd. Gr. 92x71 cm.Alter geschnitzter G.R.
+
+## ANTONIO CANALETTO,WERKSTATT
+
+XVIll. Jahrh.
+
+143. DER CANALE GRANDE IN VENEDIG. Lwd. Gr.70X110cm.
+
+## DAVID TENIERS d.1.
+
+Antwerpen 1610-1690 Perck
+
+144. INNERES EINES BAUERNHAUSES. Am Kamin badt eine junge Frau, hinter ihr eine
+2. Gruppe von vier Mannern, ein funfter offnet rechts beim Hinausgehen die Tur. Holz. Gr. 36X48 cm.Brauner Holzrahmen. Signiert.
+
+## RICHARD BRAKENBURG
+
+Haarlem 1650-1702
+
+- zu. Im Hintergrund eine Magd. Holz.Gr.35x28 cm. G.R. Abbildung Tafel 13
+145. LUSTIGES PAAR. Ein Bursche halt ein Madchen auf dem SchoB und trinkt ihr lachend
+
+## ITALIENISCHE SCHULE,ART DES POMPEO BATTONI
+
+146. DIE ERZIEHUNG DES BACCHUS. Der Knabe wird von einer Gottin und Merkur zwei Nymphen ubergeben.Lwd. Gr. 162X121 cm.G.R.
+
+## CLAUDIO COELLO,WERKSTATT
+
+147. KONIG PHILIPP II. VON SPANIEN im Panzer, Marschallstab in der Rechten. Knie studk. Rechts auf einem Tisch der Helm. Lwd. Gr. 120x100 cm.G.R.
+## VLAMISCHE SCHULE,ART DES VAN THULDEN
+
+um1600
+
+148. DIE HEILIGE FAMILIE in der Landschaft ruhend,rechts Johannes der Taufer mit dem Lamm.Lwd.Gr.93X130 cm.G.R.mit Schwarz.
+
+## JAN DE WET
+
+XVIl.Jahrh.
+
+- 149.SZENE AUS DER GESCHICHTE DER ESTHER. Holz. Gr.48x63 cm. G.R.
+
+## VAN DER GORP
+
+XVIll. Jahrh.
+
+150. ZWEI DAMEN IM PARK vor einer Amorstatue. Lwd. Gr.31X23 cm. G.R. Signiert. Abbildung Tafel 13
+
+## VENEZIANISCHESCHULE
+
+um1520
+
+151. VERLOBUNG DER HEILIGEN KATHARINA. In der Mitte Maria mit dem Kinde und den Heiligen. Rechts drei mannliche, links drei weibliche Assistenten. Halbfiguren. Lwd.Gr.100x162 cm.G.R.
+
+## ITALIENISCHE SCHULE
+
+um 1600
+
+152. BILDNIS DER GIOVANNA FELTRIA,Kniestudk, in reicher Tracht, neben ihr eine Dogge, auf dem Halsband ein Wappen. Lwd. Gr. 109x88 cm. G. R. Der Name der
+2. Dargestellten links oben.
+
+## ART DER BOULLOGNE
+
+Erste Halfte des XVIl. Jahrhs.
+
+153. MYTHOLOGISCHE SZENE. Nymphe mit rotem Sonnenschirm, von Pomona begruBt.
+2. Holz.Gr.65X49 cm.G.R.
+
+## VERONESISCHE SCHULE
+
+um 1500 (Art des Buonsignori)
+
+154. DIE HL. VERONIKA MIT DEM SCHWEISSTUCH. Holz.Gr.72X52 cm. A1ter R.
+
+## VLAMISCHE SCHULE
+
+XVIl.Jahrh.Aite Kopie nach G.Dou
+
+155. DAME MIT IHRER ZOFE BEI DER TOILETTE. Holz. Gr.75X57 cm.G.R.
+## NACH RAFFAELLO SANTI
+
+Alte Kopie
+
+156. DIE VISION DES EZECHIEL; Gottvater, von den vier Evangelisten getragen. Original im Palazzo Pitti.Holz.Gr.45X33 cm.G.R.
+
+## NORBERT GRUND, ART
+
+XVIll.Jahrh.
+
+157. RUINEN IN EINER HUGLIGEN LANDSCHAFT; ein Paar mit Kind und Eseltreiber
+2. als Staffage. Kupfer. Gr.18x19 cm.G.R.
+
+## VLAMISCHER MEISTER
+
+XVIl. Jahrh.
+
+158. EIN FURSTLICHER KNABE -Louis XIll. - und zwei Prinzen; iber dem Knaben Putto mit Krone. Holz. Gr.12x14 cm. G.R.
+
+## FRANS VAN MIERIS,zugeschrieben
+
+159. JUNGES MADCHEN MIT HUNDCHEN IM ARM, Halbfigur nach links.
+2. Holz. Gr.18X13 cm, oben abgerundet. G.R. Mit Monogramm FMR und Datierung 1663.
+
+## SCHULE VON BOLOGNA
+
+(Dem Lorenzo Costa nahestehend)
+
+160. DER HEILIGE HIERONYMUS in weiBem Gewand kniet vor dem Cruzifixus. Hinter ihm Felsenhohle und Blidk in Landschaft. Rechts der Lowe. Holz. Gr. 12X9 cm. S. R.
+
+## DAVID VINCKEBOONS
+
+Meche1n 1578-1629 Amsterdam
+
+- Gr.queroval 14X16 cm.G.R.
+161. BLICK AUF EIN SCHLOSS, vorn unter Baumen festliche Gesellschaft. Kupfer.
+
+## PHILIPS WOUWERMAN
+
+162. HOLLANDISCHE FLACHLANDSCHAFT. Holz.Gr.16X20 cm.S.R. Holz rechts gesprungen. Reste einer Signatur. Abbildung Tafel 13
+
+Haar1em 1619-1668
+
+## LUCA GIORDANO gen. FA PRESTO
+
+163. ZIGEUNERIN MIT TAMBURIN. Lwd. Cverletzt). Gr.97X73 cm.G.R. Woh1 der
+
+XVIl. Jahrh.
+
+- spaten Periode des Luca Giordano zuzuweisen.
+## SCHULE VON FONTAINEBLEAU
+
+um1580
+
+164. DIE DREI GRAZIEN, tanzend,rechts ein Jungling auf einem Postament mit der Inschrift:
+2. IOMI CONTENTO.Holz.Gr.25X27cm.G.R.
+
+## SUDDEUTSCHE SCHULE
+
+Ende des XV. Jahrhs.
+
+165. DIE GEBURT CHRISTI. Vor einer Stallruine Maria und Joseph knieend vor dem in
+2. der Krippe ruhenden, von Engeln umringten Kinde. In der Ruine anbetende Hirten, uber der Maria Gottvater mit der Taube, rechts in der Luft der Verkundigungsengel. Lwd.Gr.94X76cm.G.R.
+
+## P.JAKOB HOREMANS d.J.
+
+Antwerpen 1700-1776Muinchen
+
+- 166.ELEGANTE GESELLSCHAFT in einem Park. Lwd. Gr.68x58 cm.G.R.
+
+## JOHANNES LINGELBACH, ART
+
+Ende des XVll.Jahrhs.
+
+167. REITENDES PAAR AM STRANDE.Holz.Gr.37X31 cm.G.R.
+
+## CORNELIS POELEMBURGH
+
+Utrecht1586-1667
+
+168. DIANA UND ZWEI NYMPHEN baden in einer Grotte; links antike Skulpturreste und
+2. Saulen. Holz. Gr.46X56 cm. Alter geschnitzter G.R. Signiert.
+
+## ROELAR (?)
+
+- 169.BILDNISDES JUGENDLICHEN FRANCOIS GABRIEL DE VIOLLIER.Lwd.Gr.61X50cm. G.R. Auf der Ridkseite signiert und datiert 1808.
+
+## A.VOLLON
+
+um 1790
+
+170. EINE TANZERIN IN WEISSEM KLEID,in Tanzstellung, angeblich Bildnis der Fanny
+2. Elsner. Parkhintergrund.Lwd.Gr.87X62 cm.G.R.
+
+## JANUARIUS ZICK
+
+Munchen 1732-1797 Ehrenbreitstein
+
+- 170a. DAS OPFER. Ein Greis und ein junges Madchen vor einem brennenden Opferkessel.
+- Lwd.Gr.75x105 cm.S.R.
+## JAN MIENSE MOLENAER
+
+Haarlem 1610-1668
+
+171. DIE GESELLSCHAFT IM WIRTSHAUS. Ein Bauer hat einem jungen Madchen zur Belustigung der Gaste den Schuh ausgezogen. Rechts ein Schenktisch. Holz. Gr.63X80cm. S.R. Signiert.
+
+## JAN DE WET
+
+XVIl.Jahrh.
+
+172. DIE KONIGIN VON SABA bringt Salomo ihre Schatze. Rechts Blick in einen Saulen
+2. saal. Gr.77X112 cm.G.R. Mit einem Monogramm EH.
+
+## HOLLANDISCHE SCHULE
+
+um 1700
+
+- 172a. EIN FEST IM DORFE. Platz mit zahlreichen Gruppen von Bauern, Musikanten und Spaziergangern.Holz.Gr.36X42 cm.S.R.
+
+## KREIS DES ADAM ELSHEIMER
+
+- 172b. ITALIENISCHE LANDSCHAFT mit dem Gang nach Emmaus als Staffage. Holz. Gr.30X45 cm.G.R.
+
+## HOLLANDISCHE SCHULE
+
+des XVIll. Jahrhs.
+
+173. REMBRANDTS SELBSTBILDNIS mit schwarzer Kappe. Lwd. Gr. 38X30 cm. S. R. Vielleicht die Replik eines bisher unbekannten oder verlorenen Selbstbildnisses des Meisters.
+
+## DAVID TENIERS d.I., ALTE KOPIE
+
+174. DIE WIRTSSTUBE mit zahlreichen Gasten. Lwd. Gr.52X70 cm. S.R.
+
+## FRANZOSISCHER MEISTER
+
+um1800
+
+- 175.LES ENVIRONS DE BAYONNE."Romantische Landschaft an einem FluB,mit Gebauden, vorn Fischer und Spazierganger. Lwd. Gr. 80X103 cm.S.R. Mit einer Signatur J.Vernet.
+
+## AMSTERDAMER SCHULE
+
+- 175a. BILDNIS EINES MANNES IN SCHWARZ mit kleinem weiBen Halstuch, nach links, die linke Hand auf der Brust. Lwd. Gr.80X65 cm. G.R.
+
+des XVIl. Jahrhs.
+## AERT DE GELDER
+
+Dordrecht 1645-1727
+
+175b. KOPF EINER GREISIN mit weiBem Kopftuch. Holz. Gr.39x28 cm. G. R.
+
+## ART DESI.BERCKHEYDE
+
+Haarlem 1630-1693
+
+176. LANDSCHAFT mit romischen Mauerruinen. Lwd. Gr. 60X84 cm. Signiert und datiert 1681 C?).
+
+## AMSTERDAMERLANDSCHAFTER
+
+des XVIl. Jahrhs.
+
+- 176a. INNERES EINES WALDES, vorn eine Bride ber einen Bach,mit Menschen und Vieh belebt.Lwd.Gr.102x123cm.G.R. Abbildung Tafel4
+
+## F. CARESME (?)
+
+2.Halfte des XVIll. Jahrhs.
+
+- 176b. BACCHANAL. Unter einer Statue des Bacchus in einem Park Gruppen von Bacchanten
+- und Bacchantinnen.Lwd. Gr.50x60 cm.G.R.
+
+## ART DES NICOLAS LANCRET
+
+176c. TANZGESELLSCHAFT IM PARK.Lwd.Gr.57x66 cm.G.R.
+
+## NIEDERLANDISCHE SCHULE
+
+um 1560
+
+177. DIE HEILIGE FAMILIE. Der kleine Johannes reicht dem Jesuskinde einen Korb mit
+2. Obst.Holz.Gr.106x75 cm.G.R.mit Schwarz.
+
+## MARCO ANTONIO FRANCESCHINI
+
+Bo1ogna 1648-1729
+
+178. DIE HEILIGE MAGDALENA, von Engeln gehalten, wird von Maria getrostet. Lwd. Gr.227X172 cm.G.R. Alte Kopie nach dem Bilde der Dresdener Galerie.
+
+## BOLOGNESISCHER MEISTER
+
+XVIl.Jahrh.
+
+179. DIE FINDUNG MOSIS. In der Mitte die reichgekleidete Prinzessin, rechts und links Abbildung Tafel 2
+2. Gruppen von Dienerinnen. Lwd. Gr.173x229 cm.G.R.
+## ORAZIO BORGIANI
+
+Rom 1577-1620
+
+180. PETRUS IM GEFANGNIS, durch den Engel befreit. Lwd.Gr.127X105 cm.G.R.
+
+Abbildung Tafel 12
+
+## A.J.VAN WYNGAERDT
+
+Rotterdam1808-1887 Haarlem
+
+181. KUHWEIDE AN EINEM WALDCHEN. Lwd.Gr.59x92 cm. Signiert.
+
+## DENISVANALSLOOT
+
+2.Haifte des XVI. Jahrhs.
+
+182. DIE UNTERWELT. In der Mitte Pluto auf dem mit vier Shimmeln bespannten Wagen; links Amphitrite in der Stellung der Venus Kallipygos mit Gefolge, rechts und hinten phantastische und hollische Szenen.Lwd. Gr.102×135cm. G.R. Abbildung Tafel8
+
+## FRANCESCO ALBANI
+
+Alte Wiederholung
+
+183. DIE TOILETTE DER VENUS. Um die in einem zweiraderigen Wagen sitzende Gottin sind drei Nymphen bemiht, zahlreiche Putten spielen in der landschaftlichen Umgebung.
+2. Lwd.Gr.145x145 cm.Edken abgeschragt.G.R.
+
+## VLAMISCHE SCHULE
+
+des XVIl. Jahrhs.
+
+184. MELEAGER UND ATALANTA AUF DER EBERJAGD. Lwd.Gr.77X119 cm.G.R.
+
+## VLAMISCHER MEISTER
+
+um 1620
+
+185. GROSSE WALDLANDSCHAFT, zwei Kinder mit einer Ziege als Staffage. Lwd. Gr.103X132 cm.S.R.
+
+## GIUSEPPE BONITO
+
+186. EIN SCHULLEHRER MIT SEINEN KNABEN. Lwd.Gr.96X123 cm.G.R.
+
+Papariello
+
+## ANTONIO CANALE gen. CANALETTO, WERKSTATT
+
+187. DIE BAUTEN DES PALLADIO. Venezianische Phantasie Vedute; rechts ein Langbau mit Kuppel, in der Mitte eine monumentale Bricke Palazzo Chieregati, Entwurf der Rialtobrudke und die Basilica in Vicenza). Lwd. Gr.56x79 cm. G.R.
+## WERKSTATT DES FRANS SNYDERS
+
+Antwerpen 1579-1657
+
+188. GROSSES STILLEBEN. In der Mitte ein toter Schwan, links Reiher,Trappe, Hase usw.
+2. links Geratestilleben und Pute. Lwd. Gr.158X250 cm. G.R.
+
+## NACH FRANCOIS BOUCHER
+
+Alte Replik, XVIll. Jahrh.
+
+189. DER ANGLER;ein Jungling und zwei Madchen in Landschaft.Holz.Gr.hochoval 65x54 cm.
+
+## ALLAERT VAN EVERDINGEN
+
+A1kmaar1621-1675 Amsterdam
+
+190. NORWEGISCHE LANDSCHAFT mit Wasserfall,rechts eine Holzhuitte.Lwd.aufHolz.
+2. Gr.56x43 cm.G.R. Monogrammiert. Abbildung Tafel g
+
+## LEANDRO BASSANO
+
+Bassano 1558-1623 Venedig
+
+191. DIE PREDIGT JOHANNES DES TAUFERS. Links der Taufer predigend,rechts die
+2. Gruppe der Zuhorer. Baumreiche Landschaft mit Blidk in die Ferne. Rechts durch die Baume ein Strah1 vom Himmel. Lwd. Gr.174x110 cm. G.R. Abbildung Tafel 3
+
+## NICOLAES BOSSCHAERT
+
+1696-1745
+
+192. JAGDSTILLEBEN. Eine Wildente mit kleinen Waldvogeln und Fruchten. Lwd. Gr.82X64 cm.G.R. Abbildung Tafel 11
+
+## GIOVANNI GHISOLFI
+
+Mailand 1623-1683
+
+193. DIE HEILIGE FAMILIE, AUF DER FLUCHT NACH AGYPTEN unter Ruinen rastend,
+2. wird von Engeln verehrt. Lwd. Gr.78X56 cm.G.R.
+
+## GIOVANNI BATTISTA PIAZZETTA
+
+Pietrarossa 1682-1754 Venedig
+
+194. DIE BUSSENDE MAGDALENA, links oben erscheint ein Engelskopfchen. Lwd. Gr.45X37cm. Abbildung Tafel 10
+
+## CLAUDE JOSEPH VERNET
+
+Arignon 1712-1789 Paris
+
+195. BLICK AUF DIE NEWA.Mondschein. Holz. Gr.14X18 cm. G.R.
+- Geschnitzter G.R.
+
+## ABRAHAM MIGNON,ART
+
+- 196.PFIRSICHE UND WEINTRAUBEN. Lwd.Gr.53X60 cm.G.R.
+
+## JAN WYNANTS,WERKSTATT
+
+XVIl.Jahrh.
+
+197. WIESENLANDSCHAFT mit alten Baumen und Staffage. Lwd.Gr.38X48cm.
+
+## ART DES ANTOINE COYPEL
+
+Ende des XVIl. Jahrhs.
+
+198. VENUS UND ADONIS abschiednehmend. Im Gefolge der Venus Nymphen,FluBgott und Amoretten.Lwd. Gr.88x115 cm. G.R.
+
+## ANDREA CELESTI,ART
+
+Venedig 1637-1706
+
+199. EIN ENGEL TROSTET EINE JUNGFRAU (Hagar und der Engel?). Halbfiguren in Landschaft.Lwd.Gr.117X141 cm.G.R.
+
+## F.MEYER
+
+Hollandischer Meister des XVIl. Jahrhs.
+
+- Gr. 80x111 cm.G.R. Signiert und datiert 1647.
+200. GROSSES STILLEBEN MIT BIRNEN, Hahn, Schnepfe und einem Braten. Holz.
+
+## ART DES PIERRE PATEL
+
+um 1650
+
+201. DER WASSERFALL VON TIVOLI mit dem Vestatempel. Lwd. Gr.100X75 cm. G.R.
+
+## BERNAERD DE BRIDT
+
+- 202-203. ZWEI JAGDSTILLEBEN: a) mit Hase, Jagdfalken und Reiher, b) mit Hund, Hase und anderen kleinen Vogeln. Lwd. Gr. 113x94 cm. G. R. Gegenstidke. Beide signiert.
+
+Antwerpen, tatig um 1700
+
+## BOLOGNESISCHE SCHULE
+
+204. JUNGE NEGERIN, Halbfigur, in Turban und reicher Tracht, mit einem Vogelbauer. Lwd. Gr.88X73 cm. A1ter ita1.G.R. AbbildungTafel7
+
+XVIl.Jahrh.
+## NICOLAES VERKOLIE
+
+205. DAS KONZERT IM GARTEN; rechts ein Liebespaar. Lwd. Gr. 67x64 cm. G. R. Abbildung Tafel 11
+
+De1ft 1673-1746 Amsterdam
+
+## ANTONIO CANALE, gen. CANALETTO, WERKSTATT
+
+206. BLICK AUF DEN CANALE GRANDE mit Santa Maria della Salute. Lwd. Gr.42X64 cm.
+
+XVIIl. Jahrh.
+
+## CHRISTIAN GEORG SCHUZ d.A.
+
+207. BERGIGE FLUSSLANDSCHAFT. Holz. Gr. 28X39 cm. G. R. Signiert.
+
+F1orsheim 1718-1791 Frankfurt a.M.
+
+## FRANZOSISCHER MEISTER
+
+um1730
+
+- 208-209. ZWEI PASTORALE LANDSCHAFTEN mit Hirten und tanzenden Landleuten. Lwd. Gr.je 45x60 cm.G.R.
+
+## LEOPOLD GREVENSBROECH
+
+tatigum 1740-1755
+
+210. RUINENHALLE mit Ausblick auf Meer mit Burginsel und Gebirge. Lwd. Gr.49x76 cm. G.R:
+
+## NICOLAS BENI. DE LA PIERRE
+
+In Paris und St.Petersburg, tatig um 1760-1780
+
+- 211.LEDA MIT DEM SCHWAN. Lwd.Gr.29X37 cm.G.R.
+
+## NIEDERLANDISCHER MEISTER
+
+Mitte des XVI. Jahrhs.
+
+212. MARIA MIT DEM KINDE, das einen Apfel halt; rechts Vase mit Nelken. Holz. Gr.52X41 cm.G.R.
+
+## JAN MIENSE MOLENAER
+
+Haarlem 1610-1668
+
+213. AM WIRTSHAUSTISCH vier Manner singend, auf dem Tisch Karten und Pfeifen. Holz.Gr.21X18 cm.S.R. Signatur (z.T.zerstort.)
+2. G.R.
+## ENGLISCHER MEISTER
+
+um1750
+
+| 214. TANZ IM WIRTSHAUS; figurenreiche Szene. Holz. Gr.50X66 cm. Holzgeschn.G.R.                                                              |
+|----------------------------------------------------------------------------------------------------------------------------------------------|
+| 215. SUSANNA IM BADE mit den beiden AIten in weiter Landschaft. Holz. Gr.54X78 cm.G.R.                                                       |
+| JAN VAN GOYEN,WERKSTATT 216. KANALLANDSCHAFT mit Hutten am Ufer. Holz. Gr.21X33 cm. G.R.                                                     |
+| SALVATORE ROSA,WERKSTATT 217. STURM AN ITALIENISCHER FELSKUSTE; auf dem Meer bemannte Segelschiffe. Lwd. Gr.78x99 cm.A1ter geschnitzter G.R. |
+| ART DES JUSEPE RIBERA 218. HALBFIGUR DES HEILIGEN JOHANNES. Lwd. Gr. 82X65 cm.                                                               |
+| um1700 219. HEROISCHE SZENE. An einem brennenden Opferaltar sitzend empfangt eine Furstin einen Helden. Lwd. Gr. 61X82 cm.                   |
+| KREIS DES D.DE HEEM 220. STILLEBEN mit Orange, Pfrsichen, Delfter Krug usw. Lwd. Gr. 52X43 cm. G. R. Signiert D. de Heem.                    |
+| GIO.PAOLO PANNINI,ART Erste Halfte des XVlll. Jahrhs. 221. ANTIKE RUINEN, vorn ein Reiter und ein Madchen. Lwd. Gr. 56X81 cm. G. R.          |
+| NACH ANGELIKA KAUFFMANN 222. PENELOPE MIT DEM BOGEN DES ODYSSEUS, sitzend. Kupfer. Ova1. Gr.27X20 cm.                                        |
+## FRANS MIERIS,zugeschrieben
+
+223. BILDNIS EINES JUNGEN MADCHENS mit einem Tulpentopf.
+2. Steinerne Fensterumrahmung, unten ein Relief. Holz. Gr.36x27 cm.G.R.
+
+## FRANCOIS BOUCHER,ART
+
+- fledkig und verletzt.Gerahmt.
+224. KOPF EINES KLEINEN KNABEN. Rotel und schwarze Kreide. Gr.25X18 cm.Papier
+
+## ITALIENISCHER MEISTER
+
+um1700
+
+- 225-226.DER RAUB DER EUROPA.-DIE DREI GRAZIEN. Die Darstellungen mit figur lichen Umrandungen auf Goldgrund. Holz.Queroval 23x27 cm.
+
+## HOLLANDISCHER MEISTER
+
+um1700
+
+227. STILLEBEN mit Pfrsichen und Trauben. Holz. Gr.47X44 cm.

@@ -1,0 +1,1472 @@
+<!-- image -->
+
+<!-- image -->
+
+## Alexander Adriaenssen
+
+Antwerpen 1587-1661
+
+- 1Kleines Stilleben mit zahlreichen Fischen, die auf und neben einer Tischplatte liegen. Ol auf Holz. H.17,5,B.22,5.
+
+## Antwerpener Meister um 1630-35
+
+- 2 Die heilige Agnes in Landschaft. Auf einem Wege, der vorn rechts aus einem Laubwald herauskommt, sinkt die jugendliche Heilige in die Knie und hebt ekstatisch den Kopf zu einem herabschwebenden Engel empor, der ihr einen Kranz aufsetzen will. An der Hand fihrt die Heilige ein weiBes Lamm.Nach links Blick in FluBlandschaft.O1 auf Kupfer.H. 23,5,B. 31. Abbildung Taiel 15.
+
+Mit folgendem Gutachten von W.vonBode:
+
+1630-35,in der die Figur der h.Agnes besonders tichtig und dem H.v Balen noch iberlegen ist.
+
+## Hendrik Aerts
+
+vlamischer Meister vom Anfang des 17. Jahrh.
+
+- 3GroBes Kirchen-Interieur.Blick durch eine weite gotische Kirche.Rechts vorn fuihrt eine hohe Treppe Zu einer Empore hinauf. Ganz vorn am Bildrande kniet ein Papst vor einer Heiligenfigur. Andere Personen verteilen sich im Vordergrunde.Im hinteren Teil der Kirche zahlreiche Diakonen beim Gottesdienst. O1 auf Eichenholz.H.73,B.86.
+
+Naheres iber den Meister siehe ,Jantzen,Dasniederlind.Architekturbild."
+
+## Jacques d'Arthois
+
+Brissel 1613-1686
+
+- 4 GroBe Waldlandschaft mit mythologischer Szene.Letztere von anderer Hand. Vorn dunkle Buschkulisse mit Blick links und rechts in Waldgrinde.Vorn Venus vor ihren musizierenden Nymphen im Gesprach mit Mars. Ol auf Leinwand. H. 1ll,B. 200.
+
+## Pieter Jansz van Asch. Zugeschrieben
+
+Delft 16031678
+
+- 5BewaldeteLandschaftmitStaffage.InoffenemWeidegrundmitWeiher rechtsbewegensich zahlreiche Kihe,Ziegen, Schafe.Auf einem Wege weiter hinten berittene Jager und Jager zu FuB. Rechts vorn knorrige Eichengruppe vor einem Geholz.Ol auf Eichenholz.H.52,B.84.
+
+## Baltus van der Ast
+
+geb.vor 1590 in Middelburg, tatig bis ungefahr 1656
+
+- 6 Kleines Stilleben. WeiBe Rosen und einige andere Blumen mit zwei Maikafern auf grinem Untergrunde.Bezeichnet:van der Ast.O1 auf Holz.H.12,B.19.
+
+## Hendrik Avercamp
+
+geb.1585in Kampen,gest.um 1660 daselbst
+
+- 7 Eisvergnigen. Auf einer Eisflache rechts bewegen sich farbig gekleidete Personen beim Spiel und Schlittschuhlaufen.Links eine Gruppe von Hausern mit verschneiten Dachern.Rechts hinten Stadtansicht.O1 auf Eichenholz.H.51,B.72.
+
+## Ludolf Bakhuyzen
+
+geb.1631 in Emden,gest.1708 in Amsterdam
+
+- 8 GroBe Marine. Ein Dreimaster und eine Barke, deren Bemannung am Tauwerk arbeitet, fahren mit vollen Segeln links.Rechts ein Fischerkutter mit braunem Segel.Links vorn ein kleiner Kutter, der das Segel einzieht.Auf der Boje vorn bezeichnet: L. Bakhuyzen. Ol auf Leinwand.H. 80,B.122.
+## Gerbrand Ban
+
+Bildnismaler zu Haarlem, geb.1613
+
+- 9 Judith.Junges Madchen in Hiftfigur,nach links stehend.Sie tragt weiBes Unterkleid und braunvioletten Mantel.Die Hande,die Lorbeerzweige halten,stitzt sie auf den Knauf eines Schwertes.Das Gesicht wendet sie mit ekstatischem Augenaufschlag leicht nach vorn.Lorbeerkranz im hellblonden Haar.Bezeichnet:BAN.O1 auf Eichenholz.H.86,B.67.
+
+## Dirk Barentsz I
+
+Amsterdam1534-1592
+
+- 10 Bildnis eines jingeren Herrn in schwarzem Gewand und weiBem Halskragen,das Gesicht dem Beschauer voll zugewendet. O1 auf Holz.H. 42,B.32.
+
+## Abraham Cornelis Begeijn
+
+geb.um 1630 in Leiden,gest.1697 in Berlin
+
+- 11 Levante-Hafen.Bei einer antiken Ruine sitzen und stehen Kaufleute und Frauen, einige in orientalischer Tracht bei zahlreichen Kisten und Warenballen.Etwas weiter hinten wird eine Pferdekarre beladen. Im Hintergrund die See.Bezeichnet:A.Begein.Ol auf Leinwand.H. 64,B.73.
+
+## Joachim Franz Beich
+
+- geb.1665 in Ravensburg,gest.1748 in Miinchen
+- 12 GroBe arkadische Landschaft mit Figuren. Higelige buschreiche Gegend mit Wasserfall vorn und Ruinen links und rechts hinten.Links vorn Gruppen von Fischern und Hirten. Links bezeichnet: Beich.f. O1 auf Leinwand.H. 81,B.123.
+- 13 Gegenstick zu voriger. Rastende Jager mit Hunden vorn am Ufer eines Flusses. Bezeichnet: Beich f. O1 auf Leinwand. H. 81,B. 123.
+
+## Willem van Bemmel
+
+geb.1630 in Utrecht,gest.in Wohrd b. Nirnberg 1708
+
+- 14 GroBe Winterlandschaft. Gebirgslandschaft im Schnee mit Bauerngehoft vorn rechts am FuBe hoher Berge.Einige Bauern und Frauen bewegen sich auf einem durch die Mitte fuihrenden Wege. Bezeichnet:W.v.Bemmel.O1 auf Leinwand.H. 120,B.143.
+
+## Nicolas Berchem
+
+geb.1620 in Haarlem,gest.1683 in Amsterdam
+
+- 15 Italienische Landschait mit Hirtenszene. Vorn im seichten Wasser einer FluBfurt ein reitender Hirt auf weiBem Maultier,eine schreitende Hirtin mit Holzbiindel unter dem Arm, eine Kuh,ein Schaf, ein Hund. Bezeichnet:N.Berchem.O1 auf Leinwand.H.45,B.32. Abbildung Tafel 16.
+
+## Nicolas Berchem.Zugeschrieben
+
+Hollandisch, 17. Jahrh.
+
+- 16 Hirten und Hirtinnen bei ihrer Herde. O1 auf Holz.H.22,5, B. 24.
+
+## Abraham van Beyeren
+
+geb.um 1620 im Haag,gest.1675 in Alkmaar
+
+- 17 Stirmische See,die vorn in spitzen weiBen Wellen brandet. Eine Segelbarke kampft sich in der Mitte hindurch.Andere Fahrzeuge erscheinen rechts und links im Hintergrunde. Ol auf Eichenholz. H.41, B.69.
+
+Mit Gutachten von Corn.Hofstede de Groot.
+
+## Abraham van Beyeren.Zugeschrieben
+
+- 18 GroBes Stilleben. Korb voll Trauben, Buckelpokal, Glaskelch, Romer, umgestirzte Kanne auf Tischplatte mit weiBer Serviette links.Ol auf Eichenholz.H.83,B.113.
+
+## Heinrich Bogaert
+
+Amsterdamer Maler des 17. Jahrh.
+
+- 19 Hollandisches Bauern-Interieur. In der Mitte eine alte Wahrsagerin,die einem jungen Manne aus der Hand die Zukunft prophezeit.Mehrere umstehende Personen amisieren sich dariber.Rechtsverbindet eine Frau einem Manne den Kopf. O1 auf Leinwand.H. 45, B. 66.
+
+11
+11
+
+## Andries Both
+
+geb.um 1608 in Utrecht,gest.vor 1649 in Venedig
+
+- 20 Vor der Schenke. Vor einer italienischen Osteria sind um einen Tisch Bauern und Frauen versammelt. Ein Bauer sucht seinem Nachbar den Kopf nach Ungeziefer ab,eine Frau spielt Mandoline.Links weiter zurick an einem Tische Frau mit zwei Kindern.Ol auf Leinwand.H.59,B.71.
+
+## Jan Both
+
+geb.um 1610 in Utrecht,gest.1652
+
+- 21 Goldtonige Landschaft mit Wasserfall in der Mitte und einzelnen hohen Baumen zwischen sonnigem Buschwerk. Links auf einem Wege fihrt ein Bauer einen Lastesel. Bezeichnet: J. B. (verschl.) f. Ol auf Eichenholz.H.38,B.30.
+
+## Manier Boucher
+
+Franzosisch, 18. Jahrh.
+
+- 22 Romische Szene mit mannlicher und weiblicher Halbfigur.Ol auf Leinwand. 21X17.Oval.
+
+## Richard Brakenburgh
+
+Haarlem 1650-1702
+
+- 23 Der arztliche Besuch. Hollandische Stube mit Betthimmel links. Eine junge kranke Frau sitzt in Kissen vorn links neben einem Tische und laBt sich von einem hinzugetretenen Arzt den Puls fuihlen.Vier Familienmitglieder, Manner und Frauen, sehen gespannt der Diagnose des Arztes entgegen. Rechts hinten in offener Tir eine lauschende Magd. O1 auf Eichenholz.H. 51, B. 41,5. Abbildung Tafel 18.
+
+## Salomon de Bray
+
+Amsterdam 1597-1664.
+
+- 24 Landschaft mit Hirschjagd. Vorn vor einer Baumgruppe verfolgen Jager einen flichtigen Hirsch, der von Knechten und Hunden gestellt wird. Hinter den Baumen ragt ein SchloB.Ol auf Eichenholz.H. 38, B.55.
+
+## Quiryn Brekelenkam
+
+Leiden 1620-1668
+
+- 25 Interieur. Vor einem Tische sitzt eine reichgekleidete Frau, die einem Saugling die Brust reicht. Neben ihr stehen eine junge Dame und ein Kavalier, die anscheinend einen Besuch machen. Etwas weiter hinten der junge Ehemann.Ol auf Eichenholz.H.41,B.33.
+- 26 Bauernbelustigung. In groBer scheunenartiger Halle ein von schmausenden Mannern und Frauen dicht besetzter EBtisch.Links ein tanzendes Paar und ein Geiger. O1 auf Eichenholz. H.51, B. 79.
+
+## Adriaen Brouwer. Zugeschrieben
+
+niederlandisch,17. Jahrh.
+
+- 27 Selbstbildnis.Brustbild nach rechts,den Kopf nach vorn zurickgewendet. O1 auf Holz.H.30, B.24.
+- 28 Zechende Bauern. Im Winkel einer Kneipe sitzen zwei betrunkene Bauern an einem runden Tische.Ein dritter, dahinter stehend,hebt einen groBen Krug zum Munde. O1 auf Holz.H.12, B.14,5.
+
+## Jan Brueghel I und Hendrik van Balen
+
+1568-1625
+
+1575-1632
+
+- 29 Landschaft mit Ruhe auf der Flucht. Vorn fassen blihende Baume und Blumenstraucher das Bild von beiden Seiten zusammen und lassen durch die offene Mitte in eine Landschaft blicken.Unter den Baumen vorn rastet links die rot und griin gekleidete Maria,das Jesuskind auf dem SchoBe haltend. Zwei groBe und zwei kleine Engel bringen Trauben und andere Frichte herbei. Links schneidet St. Joseph Rosen von einem Strauch.Ol auf Eichenholz.H.59,B.83. Abbildung Tafel 13.
+
+## Art des Jan Brueghel I
+
+niederlandisch,Anfang 17. Jahrh.
+
+- 30 Kleine Landschaft mit feiner Figurenstaffage. O1 auf Holz. H. 8,5,B.17.
+- 31 Kleine Waldlandschaft mit Figurenstaffage. Ol auf Holz.H. 11,B. 12,5.
+## Schule des Bartholomaus Bruyn
+
+Kolnisch,Mitte 16. Jahrh.
+
+- 32 Zwei Altarfligel mit mannlichen und weiblichen Stifterbildnissen.Auf dem linken Fligel knieend und stehend sieben Manner verschiedenen Alters mit pelzverbramten schwarzen Schauben.Auf dem rechten Fligel sieben Frauen und Madchen in schwarzen Kostimen der Zeit.Beide Fligel mit reich abgestuften Landschafts-Hintergrinden. Oben giebelig.O1 auf Eichenholz.H.127, Gesamtbreite 98.
+
+Abbildung Tafel 7.
+
+## Burgundischer Meister um 1450
+
+- 33 GroBe Miniatur aui Pergament. Maria in rotbraunem Kleid und blauem Mantel sitzt in der Bildmitte aufgotischem Thron und reicht einem vor ihr knieenden Monch ein rotes Buch.Rechts vor Felsen mit Baumen drei andere Monche.Links vor Turmarchitektur drei heilige Frauen und ein Mann,alle in reichen hofischen Kostimen der Zeit. Goldgrund.H.21,B.22. Abbildung Tafel 8.
+
+## Jan van Bylert
+
+Utrecht 1603-1671
+
+- 34 Bei der Wahrsagerin.Drei Figuren in lebensgroBen Kniefiguren.Rechts eine alte Frau in braunem Mantel,hinter ihr ein Kind. Sie hat die Hand einer linksstehenden jungen Dame ergriffen und liest aus ihr das Schicksal derselben.Ein junger Kavalier neben ihr zeigt sich wenig befriedigtvon der Wahrsagung. O1 auf Leinwand.H.96,5,B.125.
+
+Mit Gutachten von Corn.Hofstede de Groot.
+
+## Alonso Cano. Zugeschrieben
+
+Granada 1601-1667
+
+- 35 Maria mit dem Jesuskinde.Stehende Ganzfigur in rotem Kleid und blauem Mantel vor griner Draperie. Auf dem rechten Arm tragt sie das bekleidete Jesuskind,in der Linken ein Szepter. Ol auf Holz. H.61,B.62.
+- 36 Gegenstick zu vorigem.Mutter Anna steht hinter der kleinen Maria, die in einem Bichlein liest. O1 auf Holz.H.61,B.62.
+
+## Pieter Claesz
+
+1600-1661
+
+- 37 Stilleben. Auf grauweiBer Tischplatte Zinnschisseln mit Kase, Schinken, Orangen, Delftschale mit Nissen, drei gefillte Weinglaser verschiedener Form, Senftopf,mehrere Brote. Ol auf Eichenholz. H.37,B.72.
+- 38 Stilleben. Zinnteller mit angeschalter Zitrone,hoher halbgefillter Weinromer, Taschenuhr etc. auf dunklerDecke.O1 auf Eichenholz.H.34,B.40.
+- 39 GroBes Stilleben. Nautilus,halbgefuillter Romer, zwei Teller mit Schinken und Hummern, Schale mit Fischen, Delftschale mit Pfirsichen,dazwischen Trauben auf griner Decke vor roter Draperie. Ol auf Leinwand.H.91,B.89.
+
+## Pieter Jacobs Codde
+
+Amsterdam 1600-1678
+
+- 40 Singender Bauer. Junger Mann steht in Halbfigur neben einem Tische und singt aus einem vorgehaltenen Notenblatt,wahrend er mit der Linken ein Glas Wein hochhebt.Auf dem Tische Krug und Pfeife. Monogrammiert und datiert 1650.O1 auf Eichenholz.H.22,5,B.18,5.
+
+## David de Coninck,genannt Ramelaer
+
+geb.um 1636in Antwerpen,gest.um 1699 in Brissel
+
+- 41 Gefligelbild mit Kaninchen. Fischreiher, einen Aal im Schnabel, schreitet nach links. Um ihn herum eine Ente mit ihren Jungen. Ganz vorn ein Kaninchen. O1 auf Leinwand. H. 71, B. 83.
+
+## Pietro da Cortona
+
+geb.1596 in Cortona,gest.1669 in Rom
+
+- 42 Bacchanal. Vorn links auf knieendem Kamel der trunkene Bacchus,um ihn herum tanzende und torkelnde Faune. Manner und Frauen in buntem Durcheinander. Vorn sitzende junge Mutter mit FaunSaugling,neben ihr ein Trauben naschender Knabe. Offene Hintergrundslandschaft mit Saulentempel und Figurenstaffage. O1 auf Leinwand. H. 65, B. 48.
+
+Mit GutachtenvonHofratvon Térey,Budapest.
+## Jan Cossiers
+
+## Antwerpen 1600-1671
+
+- 43 Landschaft mit Staffage. Baumreiche Landschaft mit altem Turm rechts im Mittelgrunde. Nach links Blick in ein FluBtal. Ein Reiter spricht vorn mit einem Hirten, der eine kleine Herde hitet. Ol auf Eichenholz.H.37,B.48.
+
+## Jacques Courtois, genannt Bourguignon
+
+1621—1676
+
+- 44 Reiterkampf. Den ganzen Vordergrund erfillt ein dichtes Gewihl kampfender Reiterscharen.Ol auf Leinwand.H.56,B.76.
+- 45 Reiterschlacht. Auf vorderem Higel halt kampfbereit eine Schar Panzerreiter unter Fihrung eines Offiziers. In einer Talsenke im Hintergrund tobt die Schlacht.Links monogrammiert: CJ B. Ol auf Leinwand.H.47,B.65.
+
+## Michiel Coxie
+
+geb.1499 in Mecheln,gest.1592 daselbst
+
+- 46 St. Hieronymus im Gehaus. In reich ausgestattetem Renaissance-Zimmer, durch dessen offene Fenster links die Architekturen einer Stadt sichtbar werden,sitzt vorn der Heilige meditierend an einem Tisch. Vollbart und Haar grau,rote und braune Kleidung.Er stitzt den Kopf mit der Linken, wahrend die Rechte auf einem Totenschadel ruht.Auf dem Tisch aufgeschlagenes Buch mit Brille,TintenfaB,Kastchen.Neben ihm liegt der Lowe. Auf der Fensterbank zwei schwarzrote Kissen. Im Hintergrund ein Kamin.Auf dem Papierstreifen,der auf dem Tische liegt, die Bezeichnung:INVCOxCYJ. O1 auf Eichenholz,parkettiert.H. 85,B.66. Abbildung Tafel 12.
+
+## Joos van Craesbeeck
+
+geb.um 1606in Neerlinter,gest.um 1654 in Brissel
+
+- 47 Trinker und Raucher.Ein Mann mit spitzem Hut,leicht nach links gewendet,halt lachend einen Krug in der Linken.Rechts von ihm sitzt ein Mann hinter einem Tische,der sich seine Pfeife stopft.Links unten monogrammiert. O1 auf Holz.H.28,B.22.
+- 48 Wachtstube. Zwei Landsknechte sitzen vorn auf einer Bank kartenspielend einander gegeniber. Zwei andere Landsknechte rechts vor einem Kamin.Links monogrammiert J CB (verschl.). Ol auf Eichenholz.H.39,B.50.
+
+## Antonie Jansz van Croos
+
+1606-1662
+
+- 49 Kleine Landschaft mit Staffage. Rechts starke Baumgruppe, aus der das Dach eines Hauses hervorlugt. Auf dem breiten Wege, der links nach hinten fuhrt,bewegt sich ein mit zwei Personen besetzter Pferdewagen,in der Nahe mehrere FuBganger. Ganz rechts vor dem Hause zwei Manner. Ol auf Eichenholz.H.19,B.25,5. Abbildung Tafel 19.
+
+## Aelbert Cuyp
+
+Dordrecht 1620-1691
+
+- 50 Landschaft mit Reitern.Vorn steht ein gesattelter Apfelschimmel im Profil,gehalten von einemPferdejungen.Der Reiter rastet hinter einem Gebisch.Von rechts hinten naht ein zweiter Reiter.Ol auf Eichenholz.H.46,B.54.
+- 51 Italienische Landschaft. Rechts stufig ansteigende Felsen mit Architekturen. Links blickt man auf den breiten Spiegel eines Flusses. Auf einem Wege vorn in der Mitte schreitet ein Mann. Ol auf Eichenholz.H.36,B.47.
+
+## Aelbert Cuyp. Zugeschrieben
+
+Hollandisch,17. Jahrh.
+
+- 52 Kine am Wasser. Landschaft mit FluB zwischen Bergen. Vorn rechts am Ufer eine Anzahl Kihe. Ol auf Holz.H.28,B.33.
+
+## Benjamin Cuyp
+
+geb.1612 in Utrecht,gest.1652 daselbst
+
+- 53 Landschaft mit zwei Baumgruppen vorn links und rechts. In der offenen Mitte Mann und Frau im Gesprach.O1 auf Papier.H.45,B.73.
+- H.11,B.14.
+
+## Dirk Dalens I. Zugeschrieben
+
+1600-1676
+
+- 54 Landschaft mit Bauernhaus vorn links zwischen hohen Baumen. Rechts Durchblick mit zwei kleinen Figuren.Rechts unten eine spatere Bezeichnung: D. V. Delen (sic!) Ol auf Leinwand.H. 86, B. 66.
+
+## H.Dauriac
+
+- 55 Kleines Stilleben mit Schinkenbrot, Senftopf, Glas mit Rotwein. Bezeichnet: H. Dauriac. Ol auf Holz. H.35,B.27,5.
+
+## Deutsch, Ende 17. Jahrh.
+
+- 56 Zwel Schlachtenszenen als Gegensticke. Flott gemalte Darstellungen aus den Tirkenkriegen. Ol auf Holz.H. 31,B.46.
+
+## Deutsch,um 1700
+
+- 57 Bildnis des Freiherrn Joh.Fried. Dieterich von Stromberg. LebensgroBes Brustbild in Prunkharnisch und Allongepericke.O1 auf Leinwand.H.80,B.62.
+
+## Deutsch,18. Jahrh.
+
+- 58 Weibliches Bildnis mit blauem Federhut nach rechts. Ol auf Leinwand. H. 24,B. 18.In der Art des Dietricy.
+- 59 Damenbildnis. Brustbild einer jungen Dame in silbergrauem Mieder und rotem Kleid. Ol auf Leinwand. H.78,B.62.
+- 60 Brustbild eines Kavaliers in blauem, goldbordiertem Rock und roter Weste.Ol auf Leinwand.H. 76, B.59.
+
+## Chr. Wilh. Ernst Dietrich (genannt: Dietricy)
+
+geb.1712 in Weimar,gest.1774 in Dresden
+
+- 61 Herde in der Furt.Felsenlandschaft mit Buschwerk und hinterer Burgruine. Vorn zieht eine Herde von Kihen, Schafen,Ziegen,begleitet von Hirt und Hirtin durch einen FluB,den rechts hinten ein Steg uberbrickt.Bezeichnet unten links:Chr.Dietrich fec.1737.O1 auf Holz.H. 32,B. 45. Provenienz:Sammlung Freiherr Von Mecklenburg auf Pantlitz.
+
+## Joost Cornelisz Droogsloot
+
+Utrecht 1586-1666
+
+- 62 Bauernkirmes. Quer durch das Bild, von links vorn nach rechts hinten, zieht sich eine Reihe baumuberragter Bauernhauser. Ganz vorn sitzt eine Gesellschaft zechender Bauern und Frauen um einen Tisch herum, daneben entspinnt sich eine Schlagerei. Zahlreiche kleine Figuren fillen Mittel- und Hintergrund vor Hausern und Festzelten. Unten links undeutl. Monogramm:J C (verschl.) DS (verschl.) f.O1 auf Eichenholz.H.53,B.74. Abbildung Tafel 17.
+
+## Im Stile Albrecht Diirers
+
+## Willem Cornelisz Duyster
+
+Amsterdam 1600-1635
+
+- 64 Wachtstube.Ein Kavalier in reicher Zeittracht (Stulpstiefeln,gelbes Koller,rotweiB geschlitzte Seidenarmel, Spitzenkragen,Schlapphut) steht in der Bildmitte,in der Rechten eine Tabakspfeife,die Linke auf einen Stock gestitzt,und blickt auf den Beschauer. Ein anderer Offizier steht links,von hinten gesehen.Im helldunklen Hintergrund einige Soldaten beim Spiel. Ol auf Eichenholz.H.42,B.31.
+
+## Anton van Dyck. Zugeschrieben
+
+1599-1641
+
+- 65 Christus am Kreuz.Der sterbende Erloser am Kreuz hangend mit dem Hintergrund der Sonnenfinsternis.O1 auf Leinwand.H. 61,B. 41.
+- 66 Apostelkopf. LebensgroBer Kopf eines Mannes mit gelocktem grauen Haupthaar und starkem grauen Vollbart.Rotes Gewand,griner Mantel. O1 auf Eichenholz.H.51,B.37.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Mit Expertise von W.von Bode.
+
+## Schule van Dyck
+
+niederlandisch,17. Jahrh.
+
+- 67 Martyrium des hl. Sebastian.Der nackte Heilige wird von Schergen an einen Baum gefesselt. Rechts Geharnischte zu Pferde.O1 auf Eichenholz.H. 45,B.34.
+
+## Gebrand van den Eeckhout
+
+Amsterdam 1621-1674
+
+- 68 Abigail kniet vor Konig David. Links der auf einem Schimmel reitende Konig in Maximiliansristung und rotem Mantel. Hinter ihm die Menge seiner Krieger.Er blickt stolz herab auf die rechts knieende Abigail,hinter der am rechten Bildrande einige Manner sichtbar sind. Unten links undeutliche Signatur und Jahreszahl 1660. O1 auf Leinwand. H. 50, B. 67. Abbildung Tafel 14.
+
+glaube.
+
+## Nicolaes Elias
+
+Amsterdam 1590-1656
+
+- 69 Herrenbildnis. Brustbild eines vornehmen jungen Herrn mit blondem Haupthaar und Knebelbart. Er tragt ein schwarzes,grau gemustertes Gewand,weiBen Halskragen,weiBe Manschetten und SchmuckAnhanger.Dreiviertel-Profil nach rechts. O1 auf Eichenholz.H. 68,B.56.
+
+## Jakob van Es. Zugeschrieben
+
+niederlandisch,17. Jahrh.
+
+- 70 Stlleben.Verschiedenfarbene Trauben, Pflaumen,2 erlegte Vogel, Silberpokale.O1 auf Leinwand. H.55,B.73.
+- 71 Stilleben. Schissel mit Fischen, Schissel mit Hummern, Schale mit Pflaumen,umgestirzter Krug.O1 auf Leinwand.H 69,B.86.
+- 72 Stlleben.Trauben,Melonen,Apfel,Pflaumen,auf einer Delftschissel. O1 auf Leinwand.H.69,B.60.
+
+## Art des Allaert van Everdingen
+
+Hollandisch, 17. Jahrh.
+
+- 73 Baumrelche Landschaft. In der Mitte Wasserfall, den ein mit mehreren Personen staffierter Steg iberbrickt. O1 auf Holz.H. 56,B.46.
+- 74 Gebirgige Landschaft mit Baumwuchs rechts vorn.Auf mittlerem Wege zieht eine Herde,begleitet von Hirten. O1 auf Leinwand. H. 67,B. 60.
+
+## Carel Fabritius
+
+geb.um 1620 in Delft,gest.1654
+
+- 75 Mann in Hiftfigur,in grinem Kittel mit groBer Glatze,von hinten gesehen.Die linke Hand im redenden Gestus gesenkt. Bezeichnet:C. Fabritius. O1 auf Eichenholz.H.69, B. 53.
+- 76 GroBer Raubvogel schieBt aus der Luft herab und greift eine Maus am Boden. Rechts bebuschte Felspartie,links Landschaftsdurchblick.Bezeichnet:J. C.Fabritius.O1 auf Holz.H. 57,B.43.
+
+## Charles Felu
+
+geb.1830 in Waermaerde,gest.1900 in Antwerpen
+
+(ohne Arme geboren)
+
+- 77 Junge Frau mit ekstatisch hochgewendetem Blick und hellblondem Haar, darstellend Maria von Medici.Kopie nach einem Gemalde von Rubens in Antwerpen.Bezeichnet: Ch. Felu,pede pinxit, Antwerpiae 78. O1 auf Holz.H.34,B.29.Reichgeschnitzter vergoldeter Holzrahmen.
+
+## William Gouw Ferguson
+
+Schottland 1635-1695.Gehort zur holland.Malerschule
+
+- 78 Erlegte Krammetsvogel mit buntem Gefieder auf griner Tischdecke zerstreut. Uber ihnen hangt ein Vogel an der Wand. Bezeichnet W.G. Ferguson 166...Ol auf Leinwand. H. 46, B.41.
+
+## Frans Francken Il. Zugeschrieben
+
+Niederlandisch,Anfang 17.Jahrh.
+
+- 79 Konig David und St. Caecilia. Unten in einer Landschaft sitzt der Konig,Harfe spielend im Kreis von kleinen Engeln, die um ihn einen Reigen tanzen. Dariber in den Wolken St. Caecilia an der Orgel, umgeben von einem Orchester von Engeln.Ol auf Kupfer.H.51,B.41.
+## Jan Fyt. Zugeschrieben
+
+Antwerpen 1611—1661
+
+- 80 Tierkampf. Ein Bar greift eine Lowin an, die vor einer Hohle an steilem Felshange ihr Junges verteidigt.Ol auf Leinwand, die auf Holz gezogen.H.38,B.30.
+
+## Wohl Aert de Gelder
+
+Dordrecht1645-1727
+
+- 81 Brustbild eines jungen Mannes mit schwarzer Mitze und Goldagraffe auf der Brust. Schwarzer, spater ibermalter Hintergrund, da der alte Hintergrund anscheinend nur angelegt und unfertig geblieben war. O1 auf Leinwand.H.58.B.46.Alter Flammleistenrahmen.
+
+Mit folgendem Gutachten von Prof.Dr.Binder:
+
+Das mir vorgelegte BildBrustbild eines jungenMannes in3 GroBe,auf der Brust eine Goldagraffe,ist m.A.n.in Werk des Rembrandt-Iteliers.Kommt im Oeuvre des Rembrandt nicht vor ud ist vielleicht ein Frihwerk des Aert de Gelder." Berlin,Febr.1927.
+
+## Gortzius Geldorp
+
+geb 1553 in Lowen,gest.1618 in Koln
+
+- 82 Bildnis einer alten Patrizierin in schwarzem pelzverbramten Kleid,Halskrause, Spitzenhaube,goldener Hiftkette. LebensgroBe Hiftfigur neben grinbedecktem Tische. Oben links Monogramm des Meisters G.G.（inLigatur)und ANo 1601 AETATIS 62.O1 auf Eichenholz.H.100,B.79. Abbildung Taiel 4.
+
+## Kreis des Giotto
+
+Italienisch,14.Jahrh.
+
+- 83 Christus in der Vorholle. Rechts fillt den Eingang einer Hohle eine Gruppe von neun BiBern, denen von links her Christus,eine Fahne in der Hand, trostend entgegentritt.Pappelholz. H. 21,5,B. 32.
+
+## Jan van Goijen. Zugeschrieben
+
+geb.1596 in Leiden,gest.1656 im Haag
+
+- 84 Strandlandschaft. Vorn in der Mitte ein landendes Boot, dessen Insassen die Segel einziehen.Links davon Gruppe von mehreren Mannern und Kindern, rechts ein zweiter Kahn mit Insassen. Rechts hinten ein Dreimaster.Links hinten Strandstreifen mit kleinen Hausern. O1 auf Eichenholz.H. 38,B.57. Abbildung Tafel 8.
+- 85 Fischer am Strande. Den flachen Dunenstrand, der den ganzen Vordergrund einnimmt, beleben zahlreiche Fischer und Frauen. Mehrere zurickgekehrte Boote haben beigelegt, andere werden hinten sichtbar.O1 auf Eichenholz.H. 25,5, B. 33,5.
+
+## Manier Jan van Goijen
+
+Hollandisch,17. Jahrh.
+
+- 86 Kleine FluBlandschait. Rechts am Ufer Kirche und beigelegte Fischerfahrzeuge. Ol auf Eichenholz. H.31,5,B.46.
+
+## Pieter de Grebber
+
+Haarlem um 1590—nach 1649
+
+- 87 Apostel. Brustbild eines halb nach links gewendeten Mannes mit stark schrager Kopfhaltung,mit der Rechten eine abwehrende Gebarde machend. Dunkles krauses Haar und dinner Bart. Grines Gewand, stahlblauer Mantel. O1 auf Holz.H.60, B.46.
+
+Mit Gutachten von Corn.Hofstede de Groot.
+
+## Jean Baptiste Greuze.Zugeschrieben
+
+geb.1725 in Tournus,gest.1805 in Paris
+
+- 88 Kinderbildnis.Blondlockiges Kind in braunem Kleid und weiBem Halstuch.Brustbild nach rechts,das Gesicht zum Beschauer zurick gewendet.O1 auf Leinwand. H. 38,B.32.
+
+## Mathias Gundelach
+
+geb.in Kassel, gest. 1653 in Augsburg
+
+- 89 Die Beireiung der Andromeda.Andromeda nackt,in stehender lebensgroBer Ganzfigur ist mit FuB und Arm an einen Felsen hinter ihr angekettet. Rechts hinter ihr kommt das Ungeheuer durch das Meer herangeschwommen,wahrend weiter hinten der durch die Luft reitende gepanzerte Perseus mit geschwungenem Schwert naht.O1 auf Leinwand.H.214,B.124. Abbildung Tafel 10.
+
+Aus den verschiedenen Gutachten;
+
+Dr.Ernst Buehner....... Ieh dachte zunachst an den Augsburger Gundelach...... laube aber, daB der Maler unter den Augsburgern der ersten Jahrzehnte des 17.Jahrh.zu suchen ist.
+
+Dr.W.Binder: "... ... ist ein Originalwerk,um 1600 entstanden,Vielleicht eine Arbeit des Mathias Gundelach. Dr.W.Kurth: Gundelach angehorten."
+## Schule Frans Hals
+
+Hollandisch, 17. Jahrh.
+
+- 90 Bildnis eines Herrn in schwarzem Rock mit weiBem Mihlsteinkragen,die Rechte auf die Lehne eines Ledersessels gestitzt.Kniebild. O1 auf Holz.H.31,B.20.
+
+## Alte Kopie nach Frans Hals
+
+17.18.Jahrh.
+
+- 91 Junger Mann mit Schlapphut,in braunem Wams. O1 auf Leinwand.H. 39,B. 32.
+
+## Johannes Hannot
+
+tatig um 1650 in Leiden
+
+- 92 Stilleben.Auf blaugriner Decke ein Hummer auf Zinnteller,daneben eine angeschalte Zitrone,Apfel, Trauben,um einen halbvollen Romer geordnet,um den sich Weinlaub rankt.Ein farbiger Schmetterling fliegt dariber hinweg.O1 auf Eichenholz.H. 69,B. 53. Abbildung Tafel 12.
+
+Ein prichtiges Stilleben von groBer Qualitat.
+
+## Willem Klaasz Heda
+
+Haarlem 1594—um 1678
+
+- 93 Stilleben.Auf einem mit grinem Tuche bedeckten Tische eine Zinnschissel mit Austern, daneben einzelne Austern und ein Messer.Auf einem Zinnteller eine angeschalte Zitrone, daneben eine umgestirzte O1auf Holz.H. 67,B.50. Abbildung Tafel 6.
+
+## Cornelis de Heem
+
+geb.1631 in Leiden,gest.1695in Antwerpen
+
+- 94 Frichtestick.Auf einem Zinnteller verschiedenfarbene Trauben,Pflaumen,angeschalte Zitrone,Nisse u.a. Das Ganze auf geraffter griner Plischdecke. Bezeichnet: C. De Heem.O1 auf Holz.H. 24,5,
+- B.37. Abbildung Tafel 8.
+- 95 Kleines Stilleben. Verschiedenfarbene Trauben und Pfirsiche sind zu einem Bundel geordnet,das vor
+- dunkler Wand hangt.Ol auf Eichenholz.H.32,5,B.26.
+
+Provenienz:Sammlung James Simon,Berlin.
+
+## Jan Davidsz de Heem.Zugeschrieben
+
+geb.1606 in Utrecht,gest.um 1683 in Antwerpen
+
+- Ensemble in und um eine skulptierte Vase geordnet. O1 auf Leinwand. H. 84, B.65.
+
+## Thomas Heeremans
+
+Maler zu Haarlem, Mitte 17. Jahrh.
+
+- 97 Landschaft mit Eisvergniigen. Auf weitgedehnter Eisflache rechts bewegen sich zahlreiche farbig gekleidete Personen beim Schlittschuhlauf und Schlittenfahren. Links vorn am verschneiten Ufer eine Gruppe alter Hauser. Eine zweite Hausergruppe hinten vor einem Geholz. Rechts unten das Mono-
+- gramm. O1 auf Leinwand.H. 67,B.56.
+
+## Mattheus van Hellemont
+
+geb.1623 in Antwerpen, gest.nach 1674 in Brissel
+
+- 98 Singende und musizierende Bauern. Links vorn in einer Bauernstube eine Bauernfamilie um einen Tisch gruppiert. Ein Mann blast die Flote, zwei Frauen und ein Mann singen dazu. Links schaut ein Mann zum Fenster herein. Hinten sieht man zwei Manner und ein Kind am Kaminfeuer. Ol auf Holz. H.34,B.42. Abbildung Tafel 15.
+
+## Jan van der Heyden.Zugeschrieben
+
+Amsterdam 1637-1712
+
+- 99 Landschaft mit Bauernhofen zwischen Baumen und mit Figurenstaffage.Ol auf Eichenholz. H. 33, B.39.
+
+## Joseph Hohr
+
+wirkte in Kolmar im letzten Drittel 18.Jahrh.
+
+- 100 Serie von sechs Darstellungen aus der llias von Homer. Farbige figurenreiche Kompositionen. Alle Bilder bezeichnet: Joseph Hohr inv. et pinx. 1782. O1 auf Leinwand.H. 35, B. 52. Jedes in reich mit Festons geschnitztem,vergoldetem Holzrahmen.
+## Hollandisch,17. Jahrhundert
+
+- 101 Stilleben.Vanitas-Motiv.Auf buntgestreifter Decke Totenkopf,Notenheft, Spielkarten,Flote, Sanduhr, Kerzenleuchter,Taschenuhr,BlumenstrauB, Minzen etc.Links undeutlich bezeichnet. Ol auf Leinwand. H.46,B.63.
+- 102 Landschaft mit Bauerngehoft,Windmihle und Figurenstaffage. Ol auf Holz.H.42, B. 34.
+- 103 GroBes Bauern-Interieur.In einer groBen Kiche sind eine Anzahl Personen bei allerhand Hantierung beschaftigt: Magde,die Gemise putzen und Gefligel rupfen, zwei Jager mit Wildbeute und Hunden etc.O1 auf Leinwand.H. 80,B.115.
+- 104 Kleine Kistenlandschaft.Rechts auf der See zwei Segelboote und ein Kahn. Links an der Kiste Hausergruppe und einige Figuren.Ol auf Eichenholz.H.20,B. 26.
+- 105 Kleine Strandlandschait mit Figurenstaffage und Kastell. Ol auf Holz.H. 24, B. 40.
+- 106 Kleine Landschaft mit Felspartie, Baumen und Figurenstaffage. O1 auf Eichenholz.H.32,B.40.
+- 107 Der Chirurg. Ein stehender Mann schneidet einem vor ihm sitzenden ein Kopfgeschwir auf. Daneben ein Lehrling. O1 auf Eichenholz.H. 42,B. 35.
+- 108Vanitas-Stilleben.Auf gestreifter Decke Totenkopf,Flote,Kerze,Bicher.O1 auf Leinwand.H.51,B.63
+- 109 Jagdbeute. Zwei erlegte Hihner,an den Beinen aufgehangt vor grauer Wand. Ol auf Eichenholz. H.66,B.55.
+
+## Hollandischer Marinemaler um 1660
+
+- 110 Schifie in Seenot.In starker Brandung ist ein Segelschiff vorn rechts an einem Felsen gescheitert. Ein Rettungsboot fahrt links davon. Weiter hinten kampfen andere Schiffe gegen den Sturm. Ol auf
+- Leinwand.H.47,B.62.
+
+## Hollandischer Meister von 1655
+
+- 111 Bildnis der Martina van Werkhoven. LebensgroBes Brustbild einer Dame mit goldblondem Haar,in schwarzemKleid,breitem weiBen Schulterkragen und schwarzem Haubchen, Oben links Wappen,rechts: MARTINA VAN WERKHOVEN,HUYSVR. VAN ADRIAAN ROELANDS 1655. AETAT. 55. O1auf Eichenholz.H.73,B.58.
+
+## Gerrit van Honthorst. Zugeschrieben
+
+Utrecht 1590—1656
+
+- 112 Der Geigenspieler.Ein wild aussehender Mann mit teilweise entbloBtem Oberkorper, struppigem Voll-
+- bart,hohem federgeschmickten Hut streicht die Geige und singt dazu.LebensgroBe Huiftfigur.Auf der Geige eine (nicht authentische) Bezeichnung. O1 auf Leinwand. H. 91,B.69.
+
+## Jan van Huchtenburg
+
+geb.1646 in Haarlem,gest.1733 in Amsterdam
+
+- 113 Reiterkampf. Turkische und europaische Reiter sind im Vordergrunde einer Berglandschaft in heftigem Kampfe zusammengeraten. Verwundete Manner und Pferde liegen am Boden.Andere kampfende Scharen im Hintergrunde.O1 auf Eichenholz.H.51,B. 62. Abbildung Tafel 19.
+
+## Jacob Jordaens
+
+geb.1593 in Antwerpen,gest.1678
+
+- 114 Die lustige Familie (nach dem Sprichwort ,Wie die Alten sungen, so pfeifen die Jungen"). Um einen mit Schinken,Frichten, verschiedenen Kannen und Weinglasern bestellten Tisch gruppiert sich eine lustige Gesellschaft.Ein alter Mann,eine alte Frau,zwei junge Madchen singen eifrig aus vorgehaltenen Notenheften, links blast ein junger Bursch den Dudelsack,zwei Kinder blasen auf kleinen Floten.Durch offenes Fenster in der Rickwand Blick in baumreiche Landschaft. O1 auf Leinwand.H. 115,B. 158.
+
+Abbildung Tafel 11.
+
+Mit Eehtheits-Bescheinigung von Dr.Ludwig Burchard.
+
+## Jacob Jordaens. Zugeschrieben
+
+- 115 Amalthea und der Zeusknabe. Sie sitzt vor einem Gebisch und melkt eine links stehende Ziege,
+- wahrend sie den rechts sitzenden weinenden Knaben zu trosten sucht.O1 auf Leinwand.H. 81,B.98.
+## Adriaen Isenbrant. Zugeschrieben
+
+Niederlandisch,16. Jahrh.
+
+- 116 Altarfligel. Maria stehend, in ganzer Figur; blauer Mantel, die Hande zum Gebet gefaltet, den Blick kummervoll gesenkt. Der Hintergrund ist eine Landschaft mit bizarrem Felsen in der Mitte und den Hausern einer Stadt rechts am Hugelhang.—Ruckseitig ein Altar mit zwei seitwarts stehenden Personen. O1 auf Eichenholz.H.56,B.21,5.
+
+## Italienischer Meister des Quatrocento
+
+- 117 St. Joseph. Halbfigur in Dreiviertel-LebensgroBe nach rechts gewendet. Braunes Haar und Vollbart, Gold-Nimbus, grines Gewand,roter Mantel. Mit der Linken halt er ein Horarium vor der Brust,in der gesenkten Rechten das WinkelmaB.Ol auf Pappelholz.H.75,B.38,5.
+- 118 Kleiner Altariligel. Schmalhohe Form,oben spitz zulaufend,mit profiliertem,oben geschnitztem Rand. Im Felde zwei Figuren ibereinander auf Goldgrund.Unten stehender Heiliger mit Buch und Stab,oben sitzende Heilige in rotem Kleid und grinem Mantel.H.45,5,B.11,5.
+
+## Italieniseher Meister des Cinquecento
+
+- 119 Madonna mit Kind und zwei Engeln. Maria sitzend, frontal gewendet, blau und violett gekleidet. Auf ihrem SchoBe das stehende nackte Kind. Rechts und links hinter ihr stehen zwei Engel. Goldene Gloriolen.Himmelblauer Hintergrund.Ol auf Pappelholz.H.50,B.35.
+
+## Italienisch,16. Jahrh.
+
+Manier des Sassoferrato
+
+- 120 Madonna mit dem Jesuskinde. Halbfigur vor grinem Vorhang und Landschafts-Durchblick. Ol auf Leinwand.H.55,B.44.
+
+## Paul Juvenel
+
+geb.1574 in Nirnberg, gest.1643 in PreBburg
+
+- 121 Kirchen-Inneres mit vielen Personen in reichen Zeitkostimen. Man blickt durch die Mitte einer Renaissancekirche auf den Hochaltar im Hintergrunde.Links vorn spielt sich vor einem Seitenaltare die Zeremonie einer Trauung ab,in der Mitte wird eine Taufhandlung vorgenommen.Rechts bezeichnet: Paulus Juvenel 1614.O1 auf Leinwand.H.56,B.86.
+
+## Art des Willem Kalf
+
+Hollandisch,17. Jahrh.
+
+- 122 GroBes Stilleben. Um einen hohen Nautilus, der die Bildmitte betont, zwei Schisseln mit Trauben, Pfirsichen, Apfeln, ein Zinnteller mit angeschalter Zitrone. Rechts eine geraffte dunkelrote Decke. O1 auf Leinwand.H.120,B.91.
+
+## Jan van Kessel III.
+
+Amsterdam 1641—1680
+
+- 123 GroBe Landschaft mit Staffage. Weite hollandische Landschaft mit Feldern, Wiesen, Buschwerk und einzelnen Baumen.Links vorn eine Gruppe von Eichen.Eine Jagdgesellschaft rastet vorn in der Mitte. O1 auf Leinwand.H. 77, B. 106.
+
+## Sir Gottfried Kneller.Zugeschrieben
+
+geb.1646in Libeck,gest.1723 in Twickenham b.London
+
+- 124 Herrenbildnis. Brustbild eines jungen Herrn in schwarzer Kleidung mit breitem Spitzenkragen und mit schwarzem Schlapphut.O1 auf Leinwand.H.55,B.45.
+
+## Nicolaus Knupfer
+
+geb.1603 in Leipzig, gest.1660 in Utrecht
+
+- 125 Diana auf der Jagd. Vorn vor einem Gebisch die Gottin mit ihren zahreichen Gefahrtinnen.Drei nackte Frauen stehen ganz vorn, andere gruppieren sich links im Schatten des Gebischs,einige scheinen mit den Hunden aufbrechen zu wollen.Ol auf Eichenholz,oval.H. 51, B.69. Abbildung Tafel 15.
+
+Provenienz: Sammlung Pelser,Koln, die 1914 bei Fred.Muller,Amsterdam versteigert wurde.-Das Bild hing als Leihgabe im Central-Museum,Utrecht.
+## Nicolaus Knupfer. Zugeschrieben
+
+geb.um 1603 in Leipzig,gest.um 1660 in Utrecht
+
+- 126 Pest-Darstellung. Unten in der Landschaft verschiedene Szenen von klagenden Menschen, Begrabnis etc.In der Luft fahrt der Wirgengel auf Gerippe-Wagen,der von Drachen gezogen wird. Ol auf Leinwand. H. 66,B. 89.
+
+## Wouter Knyff
+
+tatigin Haarlem seit 1640
+
+- 127 Stadt am Kanal.Alte Hauser und Befestigungstirme rechts am Ufer eines Kanals zwischen Buschwerk. Den Wasserspiegel beleben einige Boote mit Insassen. Rechts unten monogrammiert W.K. Ol auf Eichenholz.H.27,5,B.49.
+
+## Kolnischer Meister von 1584
+
+- 128 Bildnisse des Kolner Patriziers Martin van Schnellen und seiner Gemahlin geb. KannegieBer. Beide stehend in vollen Figuren.Der blondhaarige,vollbartige Mann in pelzverbramter schwarzer Schaube mit roten Armeln.Die Frau in schwarzem Seidenkleid mit weiBem Einsatz und weiBen Armeln.Beide mit Halskrausen und reichem Ring- und Kettenschmuck. Oben rechts bzw.links die beiderseitigen Wappen.Das mannliche mit lateinischer Devise:DEO DVCE-VIRTVTE COMITE- FORTVNA MINISTRA.Ao.SALVTIS 1584 AETAT.42.Das weiblichemit:ANo.SALVTIS 1584.AETAT.SVE27. O1 auf Eichenholz.H. 135,B.63. Abbildung Tafel 7.
+
+## Kolnischer Meister von 1635
+
+- 129 Damenbildnis.Vornehme junge Dame in reich mit Gold gesticktem schwarzen Kleide, Mihlsteinkragen, Spitzenhaubchen und Spitzenmanschetten.Reicher Brust- und Fingerschmuck. In der Rechten halt sie ein Paar Handschuhe,die Linke stitzt sie auf eine Sessellehne.LebensgroBe Huftfigur,leicht nach links
+- gewendet. Oben rechts: ANNO 1635. O1 auf Eichenholz. H.97, B. 71. Abbildung Tafel 4.
+
+## Salomon deKoninck
+
+Amsterdam 1609-1656
+
+- 130 Der alte Gelehrte.Ein alter Herr in lebensgroBer sitzender Hiftfigur,nach links gewendet,vor einem Tische. Grauer Vollbart,graues Haar, schwarzes Gewand mit weiBgestreiftem Armel, purpurroter Mantel mit blauem,goldgesticktem Kragen,blaues Barett.Vor ihm auf dem rot gedeckten Tische liegt ein aufgeschlagener Foliant,auf dem die gestikulierende Linke ruht, wahrend sich die Rechte auf eine Sanduhr stitzt.Links hinten ein Globus.Ol auf Eichenholz.H.103,B. 81. Abbildung Taiel 10.
+- Mit Echtheits-Bescheinigung von Prof.W.Vogelsang vom Museum Utrecht.
+
+## Art des Nicolas de Largilliere
+
+Franzosisch,17.Jahrh.
+
+- 131 GroBes Damenbildnis. Sitzende Dame in blauen und weiBen Gewandern. LebensgroBe Figur,ein Gemalde und eine Palette haltend. O1 auf Leinwand.H. 145,B.106.
+
+## Charles Lebrun. Zugeschrieben
+
+Paris 1619-1690
+
+- 132 Szene aus der Geschichte Alexanders des GroBen.Olstudie auf Leinwand.H.27,B. 55.
+
+## Judith Leyster
+
+geb.um 1600 in Haarlem,gest.1660 in Heemstedt
+
+- 133 Der Trinker. Junger Mann in lebensgroBer Halbfigur,graues Wams,roter Mantel, rote Mitze mit roten und weiBen Federn hebt lachend mit der Linken einen mit Wein gefillten Romer hoch,wahrend die Rechte eine Tonpfeife halt.O1 auf Eichenholz.H. 94, B. 71.
+
+Provenienz: Sammlung First von Leiningen.
+
+## Art des Jan Lievens
+
+Hollandisch, 17. Jahrh.
+
+- 134 BiBender Heiliger in Monchhabit kniet im Vordergrund einer Felsengrotte betend vor einem Kruzifix. O1 auf Eichenholz.H.54,B.43.
+
+## Art des Bernardino Luini
+
+Mailandische Schule,16.Jahrh.
+
+- 135 Hiftbild einer jungen Frau,die eine Blume in der Hand halt und diese lachelnd betrachtet. Im Hintergrund Stadtansicht mit Figurenstaffage.Tempera auf Pappelholz.H.46,B. 36.—Sehr schoner alter Rahmen,bemalt und vergoldet. Unten Fries von neun farbig gemalten Wappen.
+## Gerrit Lundens
+
+Amsterdam 1622-1677.
+
+- 136 Bauern-Schlagerei. Im Helldunkel einer Bauernkneipe sieht man mehrere Gruppen von Bauern, die in einer heftigen Rauferei begriffen sind. Ol auf Eichenholz.H.18,5,B.28.
+
+## Izaak Luttichuys
+
+geb.1616 in London,gest.1673in Amsterdam
+
+- 137 GroBes Damenbildnis. LebensgroBe Kniefigur einer sitzenden Dame in schwarzem Kleide mit weiBem, spitzenverziertem Schulterkragen und ebensolchen Manschetten. Die ringgeschmickten Hande im SchoBe ibereinandergelegt.Neben ihr links ein grin gedecktes Tischchen, auf dem eine Bibel liegt.O1 auf Leinwand.H. 120,B.91.
+
+Mit Gutachten von Corn.Hofstede de Groot.
+
+## Jan Mabuse.Zugeschrieben
+
+1472-1533
+
+- 138 St. Lukas, vor einem Pulte sitzend,portraitiert die vor ihm in einer Engelglorie schwebende Maria. Replik zu dem Gemalde im Hofmuseum zu Wien.Die Darstellung:Rechts der an einem Pult knieende und malende Evangelist,links Maria mit dem Kinde,von Engeln umschwebt und gekront,spielt unter reicher Renaissance-Architektur.O1 auf Eichenholz.H.107,B.82.
+
+## Nicolas Maes. Zugeschrieben
+
+Hollandisch, 17. Jahrh.
+
+- 139 GroBes Damenbildnis. Dame mit dunklem Lockenhaar in braunem Kleide nach rechts sitzend vor
+- Architektur.O1 auf Leinwand.H.140,B.119.
+
+## Cornelis Massys (Sohn des Quintyn)
+
+Antwerpen,um 1511—nach 1580
+
+- 140 Bathseba mit ihren Frauen und Konig David. Hof zwischen gotischen und Renaissance-Architekturen. Ganzvorn in der Mitte sitzt die halbentkleidete Bathseba auf der Ummauerung eines Bade-Bassins und haben. Links oben betrachtet Konig David aus einem Fenster heraus die Gruppe der drei Frauen. O1 auf Holz.H.73,5,B.95. Abbildung Tafel 13.
+
+Autorschaft bestatigt durch Max J.Friedlander,24.3.1925.
+
+## Anton Franz Maulbertsch
+
+geb.1724 in Langenargen,gest.1796 in Wien
+
+- 141 Anbetung der hl. drei Konige. Unter einer umfangreichen Renaissanceruine gruppieren sich die anbetenden Konige und ihr Gefolge um die in der Mitte sitzende Maria mit dem Jesuskinde.Bezeichnet: A.Maulbertsch pinx.O1 auf Leinwand.H.86,B. 67.
+- 142 Gegenstick zu vorigem. Christus ibergibt Petrus die Schlissel zum Himmelreich. Gleiche GroBe.
+
+## Werkstatt des Hans Memling
+
+Vlamisch,2.Halfte 15. Jahrh.
+
+- 143 Engel der Verkiindigung. Jugendliches weibliches Bildnis mit kastanienbraunem Lockenhaar,in lichtgrinem pelzverbramten Kleide,in der Linken einen gotischen Stab haltend. Ol auf Holz. Oben abgerundet und mit vergoldeter Profil-Umrandung.H.15,5,B.12. Abbildung Tafel 8.
+
+Provenienz:Sammlung Prouvost in Roubaix.
+
+## Adam Frans van der Meulen
+
+geb.1632 in Brissel, gest. 1690 in Paris
+
+- 144 Uberfallene Marodeure. Eine Schar Marodeure, die ein links stehendes Haus geplindert haben, liegen rechts am Waldrand und suchen sich einer Abteilung Reiter zu erwehren, die von hinten her aus dem Walde hervorbricht.O1 auf Eichenholz.H.50,B.63. Abbildung Tafel 5.
+
+## Hendrick de Meyer
+
+Rotterdam 1620-1690
+
+- 145 GroBe Strandlandschaft mit vielen Figuren. Ein Zug von Pferden,Wagen, Reitern und FuBgangern bewegt sich vorn nach links hiniber. Dahinter am higelig ansteigenden Strande zwei Segelschiffe, Fischerhaus, weiter hinten Dorf mit Kirche und ein Wachtturm. Rechts ein Planwagen mit Pferden. Zahlreiche kleine Figuren links hinten am Strande.Ol auf Eichenholz.H. 83,B. 138.Abb. Tafel 2.
+## Theobald Michau
+
+geb.1676 in Tournai,gest.1765 in Antwerpen
+
+- 146 Herdenvieh in Landschaft. Grintonige Landschaft mit Baumen. Vorn links bei cinem Stall eine Herde von vier Kihen,drei Schafen,einer Ziege;dabei eine Bauerin.Rechts eine Wascherin,die sich iber eine Waschbitte bickt.Ein Reiter mit zwei Pferden galoppiert dem Hintergrunde zu.Ol auf Eichenholz.H.20,B.25,5.
+
+## Michiel Janszoon van Mierevelt. Zugeschrieben
+
+Delft 1567-1641
+
+- 147 Damenbildnis.Junge Dame in prachtigem Zeitkostim.LebensgroBes Brustbild von vorn. Sie tragt ein rot und weiB geschlitztes goldgesticktes Seidenkleid mit roten Schleifen.und reichem Spitzenschmuck, Perlenkette,goldene Ohrgehange, im hellblonden Haar Blumen und Perlen. Ol auf Eichenholz.H. 65, B.55. Abbildung Tafel 9.
+
+## Frans van Mieris. Zugeschrieben
+
+Leiden,17.Jahrh.
+
+- 148 Lesendes Madchen. Aus einer Fensternische schaut ein rot und grin gekleidetes Madchen, das einen Brief vor sich halt. O1 auf Eichenholz.H.15,B. 11.
+
+## Mitteldeutsch,um 1520
+
+- 149 Brustbild eines jungen Mannes mit rotem Barett,in braunem hochgeschlossenen Talar. Griner Hintergrund mit Spuren alter Inschrift.Ol auf Holz. H. 51, B.37.
+
+## Pieter Molyn
+
+geb.1595 in London,gest.1661 in Haarlem
+
+- 150 Landschaft mit Staffage. Vorn rechts ein umfangreiches Kastell, davor ein Weiher, in dem eine Kuhherde watet.Links schreiten Mann,Frau und Kind auf einem Wege nach hinten.Im Mittelgrunde ragt ein hoher Baum vor einer Waldkulisse des Hintergrundes.Bezeichnet und datiert 1642.Rund.O1 auf Eichenholz.Dm.51. Abbildung Tafel 18.
+- 151 Dinenlandschaft.Durch die Mitte fuihrt ein sandiger von hellen Lichtern bestrahlter Weg, mit moosgedeckten Fischerhuitten zu beiden Seiten,umgeben von Buschwerk.O1 auf Holz.H. 48,B.34.
+
+Abbildung Tafel 5.
+
+Ein charakteristisches erstklassiges Werk Pieter Molyns. Aus der Collection Baron Janssens,Brissel.
+
+## Hendrik Mommers
+
+geb.um 1623 in Haarlem,gest.1693 in Amsterdam
+
+- reiches Rindvieh ist aufgetrieben.Dazwischen bewegen sich Kaufleute,Bauern,Treiber.Vorn links schlieBt ein Kaufmann mit einem Bauern einen Kauf durch Handschlag. O1 auf Leinwand. H. 67,B. 80. Abbildung Tafel 17.
+
+## Jodocus de Momper
+
+Antwerpen1564-1635
+
+- 153 Landschaft mit Staffage.Vorn braungemalte Felsengegend mit FluB und Bricke. Farbig gekleidete Reiter,Wanderer,zu Markte ziehende Bauern beleben einen Weg in der rechten Bildhalfte.Der Hintergrund ist eine blaugrin gemalte,fluBdurchzogene Berglandschaft.Ol auf Eichenholz.H.46,B.73.
+
+## Jodocus de Momper.Zugeschrieben
+
+Vlamisch,um 1600
+
+- 154 Felsenlandschait mit Figuren.Links Partie hoher schroffer Felsen mit einzelnen Architekturen.Rechts Sicht in ein grin und grau gemaltes Felsental. Vorn bewegen sich Reiter, FuBganger, Treiber mit Lasttieren.O1 auf Eichenholz.H.50,B.65.
+
+## Benedetto Montagna
+
+gest.nach 1547
+
+- 155 Madonna mit dem Jesuskinde. Maria,weiB,rot und blau gekleidet,sitzt in Huftfigur nach links gewendet und blickt, die Hande gefaltet,verehrend auf das nackte Jesuskind, das sie auf dem SchoBe halt.Hinten Landschaft mit Architekturen.Ol auf Pappelholz.H.51,5,B.40.
+
+Mit Gutachten Von Prof.E.Fioco von der Universitat Padua.
+
+Abbildung Tafel 3.
+## Paulus Moreelse
+
+Utrecht 1571—1638
+
+- 156 Kopie nach dem groBen Gemalde von P. P. Rubens ,Kronung der Maria von Medici". (Im Louvre.) Genaue Kopie in kleinem MaBstabe.Bezeichnet:P.Moreelse.O1 auf Leinwand.H.44,B.82.
+
+## Frederic de Moucheron
+
+1633-1686
+
+- 157 Landschaft. Gebirgige Gegend,in der Mitte von einem FluB durchzogen. Vorn rechts hochragender Leinwand.H.45,5,B.58
+
+## Isaac de Moucheron
+
+Amsterdam1670-1744
+
+- 158 FluBdurchzogene Landschaft mit mehreren Ruinen. Vorn weidet eine Herde von Kihen und Schafen.
+- Nach hinten Blick in ein Bergland.O1 auf Leinwand.H.35,B.51.
+
+Provenienz:Sammlung Tulloch.
+
+## Niederlandischer Meister des 16. Jahrhunderts
+
+dem Pieter Aertsen nahestehend
+
+- 159 Niederlandischer Volksbrauch,wahrscheinlich ein Dreikonigsfest.Vier Manner in phantastischer Tracht, die weiBen Kittel mit Tierschwanzen behangen,auf den Kopfen Bischofsmitzen bzw.Kronen,in den Handen Stabe schwingend,vollfuhren einen Tanz um einen in der Bildmitte knieenden,ahnlich kostimierten finften Mann,der sich anschickt,mit zwei Staben in einen Teller zu stoBen,der vor ihm auf weiBem Tuche am Boden steht.Am linken Bildrande stehende Frau mit gefilltem Henkelkorb.Von rechts her tritt eine schwangere Frau in bunter Kleidung herzu,die in der Rechten einen Teller halt,
+- an der Linken einen Knaben in rotem Kittel fuihrt. O1 auf Eichenholz.H. 109,B. 138. Abbild. Tafel 11.
+
+## Niederlandischer Meister von 1589
+
+- 160 Damenbildnis.Huftbild einer vierzigjahrigen Edeldame in schwarzem,grau gemustertem Brokatkleid, mit weiBen Hand-und Halskrausen und weiBem Haubchen. Rechts oben Wappen und AETAT. SVAE 40. Ao.1589.O1 auf Holz.H.43,B.34.
+
+## Niederlandisch um 1600
+
+- 161 Zwei Bildnisse als Gegensticke.Herr und Dame in spanischer Zeittracht. Oval. Ol auf Leinwand.
+- H.85,B. 67. Beide in gleichzeitigen ovalen Holzrahmen.
+
+## Niederlandisch 17.Jahrh.
+
+- 162 Herrenbildnis. Brustbild eines Herrn in schwarzem Gewand, weiBem Halskragen und Ordenskette.
+- Links:AET. SVAE 49.O1 auf Leinwand.H.58,B.47.
+- 163 Gruppe von singenden Engeln,in Wolken schwebend.Rotelzeichnung.H.40,B.29.
+- 164 Stilleben.Nautilus-Pokal,mehrere Silberhumpen,erlegte Vogel,Trauben,Pfirsiche auf brauner Tischplatte und roter Decke.O1 auf Leinwand.H.102,B.133.
+- 165 Maler-Atelier.Gruppen von Kavalieren sind in einem reich ausgestatteten Atelier versammelt.O1 auf Eichenholz.H. 50,B.45.
+- 166 Die Jagdbeute. Erlegter Hase,zwei Hihner,eine FuBschale voll Fische, Schissel mit zwei Zitronen
+- auf weiBer geraffter Decke.O1auf Leinwand.H.102,B.133.
+- 167 Brustbild eines alten Herrn in schwarzem Gewand mit weiBem Halskragen. O1 auf Leinwand. H.80,B.64.
+- 168 Hihnerhof. Zwei Pfauen, Schrute,Haushihner,Taube etc. vor Bauernhof mit Landschaftsdurchblick. O1 auf Leinwand.H.102,B.133.
+- 169 Italienische Stadtansicht.Handzeichnung in Tusche,mit Kreide gehoht.24X18.
+
+## Oberdeutsch,Mitte 16. Jahrh.
+
+- 170 Heiliger Bischof und weibliche Heilige, hinter einer Stifterin stehend, vor landschaftlichem Hintergrunde.Holz.H.39,B.28.
+## Adriaen van Ostade
+
+Haarlem 1610-1685
+
+- 171 Zechende Frau. Sitzende Kniefigur in brauner und schwarzer Kleidung, mit weiBem Kopf- und Busentuch und blauer Schirze,nach links vor einem Tische. Sie halt mit der Linken einen Steinkrug auf dem Knie und hebt mit der Rechten ein mit Rotwein gefilltes Glas von der Tischplatte. Am Rande der Tischplatte die Bezeichnung.Ol auf Eichenholz.H. 16,5,B.14. Abbildung Tafel 18.
+
+Mit Gutachten von Corn.Hofstede de Groot.
+
+## Adriaen von Ostade.Zugeschrieben
+
+- 172 Drei kneipende Manner, um einen Tisch gruppiert vor grinumwachsenem Wirtshaus,aus dessen halboffener Tir eine Frau schaut.Der eine der Manner schittet Wein aus einem Krug in ein Glas,ein zweiter stopft sich eine Pfeife.O1 auf Eichenholz.H.25,5,B.21,5.
+- 173 Trinkender Mann. Ein grauhaariger Mann in schwarzer und brauner Kleidung, ein flaches schwarzes Mitzchen auf dem Kopfe sitzt neben einem Tische,halt ein Weinglas in der Linken und prift den Schluck bedachtig auf der Zunge. Auf dem Tische eine Zinnkanne,auf dem Knie des Mannes ein grauer Schlapphut.O1 auf Eichenholz.H.30,5,B.21,5.
+- 174 Der StraBensanger.Vor einem grinumwachsenen hollandischen Bauernhause haben sich zahlreiche Manner,Frauen und Kinder versammelt,um den Vortragen eines StraBensangers zu lauschen, der unter ihnen steht.O1 auf Eichenholz,parkettiert.H.46,B.36.
+
+## Schule Adriaen van Ostade
+
+Hollandisch,17.Jahrh.
+
+- 175 Interieur mit biertrinkender Frau vorn in der Mitte,im Gesprach mit einem links an der Wand sitzenden Manne. O1 auf Eichenholz.H. 32,B.27.
+- 176 Karessierendes Paar. Junger Mann mit roter Mitze und junges Madchen,ein Glas Rotwein haltend links vorn an einem Tische mit Krug und Kuchen. Rechts Mann und Frau vor Rauchfang. Ol auf Eichenholz.H.25,5,B.20.
+
+## Jean Baptiste Oudry
+
+## geb.1686 in Paris,gest. 1755 in Beauvais
+
+- 177 Entenvolk und Habicht. In einem Schilfrohricht stiebt ein Volk von vier Enten erschreckt auseinander vor einem Habicht,der herunterstoBt. Links Landschaft. Bezeichnet: J.B. Oudry 1733. O1 auf Lein-
+- wand.H.71,B.98.
+
+## GiovanniPaoloPannini
+
+geb.1695 in Piacenza,gest.1768 in Rom
+
+- 178 Umfangreiche antike Palast-Ruine mit sehr vielen Figuren, anscheinend Episode aus der Zeit der Christenverfolgungen, die sich in einzelne treflich charakterisierte Gruppen gliedern. Ol auf Leinwand.H. 74,B.61.
+
+## Antoine Pesne
+
+## geb.1683 in Paris,gest.1757 in Berlin
+
+- 179 Huftbild einer jungen Dame in rotem und braunem Kleide mit schwarzer Kapuze und Pelzmuff. Nach links gewendet,in etwas vorgebeugter Haltung. Die Dargestellte ist die Prinzessin Amalie von PreuBen,Schwester Friedrichs des GroBen.O1 auf Leinwand.H. 65,B.50.
+
+Abbildung Tafel 9.
+
+Aus dem Besitz des verstorb.Generalstabs-Chef von Schlieffen.Nach der Familien-Tradition handelt es sich um ein authentisches Werk des Antoine Pesne.
+
+## Giovanni Battista Piazzetta
+
+geb.1682 in Pietrarossa,gest.1754 in Venedig
+
+- 180 Szene aus der Heiligen-Legende.Rechts vor Pfeilerarchitektur stehende Heilige redet mehrere vor ihr knieende Frauen mit Kindern an.O1 auf Leinwand.H.50,B.40.
+
+MitGutachten vonHofratvon Terey inBudapest.
+
+## Art des Piazzetta
+
+Italienisch,18.Jahrh.
+
+- 181 BiBender St. Hieronymus im Vordergrunde einer Landschaft.Uber ihm eine Vision. Ol auf Leinwand. H.30,B.26.
+- B.48.
+
+## Egbert Lievensz van der Poel
+
+geb.1621 in Delft,gest.1664 in Rotterdam
+
+- 182 Heimkehrende Fischerflotte am Strand. Um beigelegte Fischerboote herum hantieren vorn zahlreiche Fischer und Frauen bei Fischkorben. Auf der See links sieht man von hinten her eine Anzahl weiterer Boote herannahen.Rechts hugelige Kiste.Bezeichnet:E.van der Poel 1664.Ol auf Eichenholz.H.35,
+- 183 Explosion des Pulverturmes in Delft. Die Ansicht der Stadt mit ihren Kirchen und Tirmen schlieBt das Bild nach hinten ab. Rechts sieht man die Explosion. Im Vordergrund laufen Verwundete und fallen nieder.Bezeichnet:E.van der Poel 1654.O1 auf Eichenholz.H.32,B.39. Abbildung Tafel 15.
+- 184 Bauernhof. Zwei winklig aneinandergelehnte Gebaude eines Gehofts nehmen fast die ganze Bildbreite ein. Links vorn vor der Hauswand eine Haufung von Tonnen, Bitten, Radern etc.Dabei ein Hund und mehrere Hihner. Drei Schafe weiter rechts.An der vorderen Hauswand steht ein Bauer auf einer
+
+Mit Gutachten von Corn.Hofstede de Groot.
+
+- Leiter und untersucht einen Huhnerkasten. O1 auf Holz.H.55,3,B.45,8.
+
+## Cornelius van Poelenburgh
+
+Utrecht 15861667
+
+- 185 Nymphen und Satyrn im Vordergrunde einer Landschaft. Gebirgige Gegend, vorn rechts und links
+- Felsen mit Buschwerk.In der offenen Mitte belustigen sich eine Nymphe und ein Satyr beim Tanz. Rechts vor dem Eingang einer Hohle weckt eine Nymphe einen schlafenden Satyr. Ganz links eine andere Gruppe.Lagernde Schafe und Ziegen zwischen den Personen.Ol auf Holz.H.35,B.58.
+
+Mit Gutachten von C.Hofstede de Groot.
+
+Abbildung Tafel 19.
+
+- 186 Atalanta und Hippomeneus. Vor hugeliger Landschaft mit Ruinen wird Atalanta, da sie die von der
+- Venus hingestreuten goldenen Apfel aufhebt,im Wettlauf von Hippomeneus besiegt. Daneben Venus und Amor. Auf einem Felsblock rechts zuschauende Madchen. Ol auf Leinwand. H.72,B.90.
+- 187 Himmelfahrt Maria. In Wolkenglorie schwebt die zum Himmel fahrende Gottesmutter,umgeben von Engelchoren. Unten in der Landschaft gruppieren sich die Jinger Jesu um das leere Grab.
+- 187a Gegenstick zu vorigem. Tod der Maria. In gewolbter Halle gruppieren sich die Junger betend um die sterbende Gottesmutter.Gleiche GroBe.
+- O1 auf Kupfer.Oben gerundet.H.29,B.41.
+
+## Pourbus-Werkstatt
+
+vlamisch,16.Jahrhundert
+
+- 188 Hiftbild eines jungen Mannes in dunkelgrinem verschnirtem Rock mit schmaler weiBer Halskrause
+- und ebensolcher Mitze. In der Linken halt er die Handschuhe.O1 auf Eichenholz. H. 25, B. 18.
+
+## Art des Adam Pijnacker
+
+Hollandisch, 17. Jahrh.
+
+- 189 Kleine fluBdurchzogene Landschaft mit hohem Steg, iber den ein Mann schreitet. Ol auf Eichenholz.
+
+## Pieter Quast. Zugeschrieben
+
+Hollandisch, 17. Jahrh.
+
+- 190 BiBende Magdalena. Junge reichgekleidete und geschmickte Frau sitzt weinend neben rotgedecktem Tische.Am Boden goldene GefaBe,umgestirzte Schmuckkastchen etc. Ol auf Eichenholz. H. 62,B.45.
+
+## August Querfurt
+
+geb.1696in Wolfenbittel,gest.1761 in Wien
+
+- 191 Reiterkampi. Zwei Panzerreiter auf weiBem bzw.rotem Pferd beschieBen sich. Hinter ihnen Kampf-
+- gewihl.Im Hintergrunde Stadtansicht.Ol auf Holz.H.28,5,B.37.
+
+## Jan van Ravesteyn. Schule
+
+Hollandisch, 17. Jahrh.
+
+- 192 Bildnis der Clasina van Leeuwen, Huysvrouw van Roelandus Roelands Adriaans.LebensgroBes Brustbild einer jungen Frau in schwarzem Kleid und breitem weiBen Schulterkragen in gemaltem Oval. Links oben Wappen, rechts das Personale der Dargestellten.O1 auf Eichenholz.H. 73,B.58.
+- H.20,5,B.22.
+- 193 Bildnis elnes jungen Herrn in schwarzem Gewand und weiBem Halskragen. LebensgroBes Brustbild im Dreiviertel-Profil nach rechts.Ol auf Eichenholz.H.71,B.58.
+
+## Rembrandt-Schiler
+
+Hollandisch,Mitte 17. Jahrh.
+
+- 194 Lesende Frau.Sie sitzt nach links gewendet iber einen Folianten gebeugt, den sie mit beiden Handen halt.Roter Mantel,braune goldgestickte Haube.O1 auf Eichenholz,parkettiert.H.28,B.25.
+
+Abbildung Tafel 16.
+
+- 195 Konig David tanzt vor der Bundeslade.Das Heiligtum,von einer Volksmenge umjubelt,wird von Leviten durch eine StraBe mit Renaissancehausern getragen.Voran der geschmickte Konig im Tanzschritt, die Harfe schlagend.Ol auf Eichenholz.H.58,B.77.
+
+## OttoRethel
+
+geb.1822 in Aachen,gest.1892 in Disseldorf
+
+- 196 Christus und Judas. Christus stehend in lebensgroBer Huftfigur,graues Gewand, griner Mantel, umarmt den von Reue zerknirschten vor ihm knieenden Judas. Bezeichnet: Otto Rethel. Ol auf Leinwand.H.126,B.100.
+
+## Art des Joshua Reynolds
+
+Englisch,18. Jahrh.
+
+- 197 Die Wahrsagerin.Auf einer Terrasse mit Landschaftsblick links steht eine blau und rot gekleidete Frau zwei jungen Frauen gegeniber, deren eine auf dem SchoBe der anderen sitzt und, verschamt lachelnd,ihre Hand der Wahrsagerin hinhalt. Die beiden jungen Frauen in rotem bzw. weiBem und gelbem Kleide. O1 auf Holz. H. 66,B.85.
+- Es konnte sich hier um eine gleichzeitige Wiederholung des gleichnamigen Originals von Reynolds handeln,da
+
+## Johann Elias Ridinger
+
+geb.1698 in Ulm,gest. 1767 in Augsburg
+
+- 198 Eberjagd. Sieben Riden haben im Vordergrunde einer bewaldeten Landschaft einen Eber gestellt,mit dem sie kampfen. O1 auf Leinwand.H. 70, B.88.
+- 199 Barenjagd. Eine Meute von Riden kampft in einer Felsengrotte mit einem braunen Baren. Ol auf Leinwand. H. 70, B.88.
+
+## Hermann Tom Ring. Zugeschrieben
+
+Munsterisch,16. Jahrh.
+
+- reicher Brokatgewandung. Rechts:Die vor einem Betpult mit Horarium knieende Maria in grinem Kleid und violettbraunem Mantel. Uber ihr die Heiliggeist-Taube. Um beide Figuren schwingen sich Schriftbander mit den lateinischen Bibelworten aus der Vulgata. Auf den Ruickseiten der Tafeln die Figuren der Propheten Jesaias bzw.Jeremias mit Schriftbandern,die messianische Weissagungen aus ihren Bichern wiedergeben.O1 auf Holz.H.155,B.50.
+
+## Salomon Rombouts
+
+Maler zu Haarlem, 2. Halfte 17. Jahrh.
+
+- 201 Hollandische DoristraBe mit Bauernkirmes. Zwischen links und rechts stehenden Bauernhausern unter hohen Baumen fuihrt eine StraBe dem Hintergrunde zu. Hier sieht man zahlreiche Bauern,Frauen und Kinder in Gruppen vor den Hausern bei Spiel, Trunk, Unterhaltung und Tanz. Vorn rechts scharen sich zahlreiche Personen um einen auf einem FaB stehenden Bankelsanger. Links unten bezeichnet: S.Roubouts.O1 auf Eichenholz.H.56,B.49. Abbildung Tafel 6.
+
+## Manier Johann Heinrich Roos
+
+17.Jahrh.
+
+- 202 Herdenbild. Bulle, Schaf, Ziege am Rand eines Geholzes. O1 auf Leinwand. H. 50,B. 82.
+
+## Schule Peter Paul Rubens
+
+- 203 Kreuz-Aufrichtung. Vier Schergen richten das Kreuz auf,an das Christus genagelt ist. Links zwei Reiter in Rustung.O1 auf Eichenholz,parkettiert.H.105,B.71.
+- 204 St.Petrus in Halbfigur mit gefalteten Handen vor Felsenwand. Blauer Rock, orangefarbener Mantel. O1 auf Eichenholz.H.25,B.22.
+
+## Salomon van Ruisdael. Zugeschrieben
+
+Hollandisch,17. Jahrh.
+
+- 205 GroBe Landschaft mit Staffage.Die rechte Bildseite nimmt ein Laubwald ein,in den vorn ein breiter Weg hineinfuhrt.Auf ihm Reiter,Jager,rastende Bauern etc.Links Blick in buschreiches Hugelgelande mit FluB. O1 auf Eichenholz.H. 67,B.90.
+
+## Jacob Salomonsz Ruisdael
+
+1630-1681
+
+- 206 Sonnige Waldlichtung mit starker Eiche vorn rechts. Vorn und im Mittelgrunde einige kleine Figuren.
+- Rechts unten das Monogramm J.v.R. O1 auf Eichenholz.H.24,5,B.33.
+- 207 Stadtmauer,iberragt von Haus, Windmuhle und Buschwerk,in einen FluB vorspringend. Im Schatten der Mauer drei Manner in einem Boot.Links das Monogramm J.v.R.Ol auf Eichenholz.H.45,B.58.
+
+## David Ryckaert III
+
+Antwerpen 1612-1661
+
+- 208 Trinkendes Paar. Ein glatzkopfiger Mann in grauem Wams, eine Tonpfeife im Munde,hebt mit der
+- Rechten ein PaBglas voll Wein hoch. Ein neben ihm sitzendes Madchen in rotem Kleid und weiBer Schurze'animiert ihn,einen Steinkrug haltend,zum Trinken.Hinter den beiden ein braungekleideter Mann,vom Ricken gesehen.Monogrammiert D.R. Ol auf Leinwand,die auf Holz gezogen.H.38,B.29.
+
+Abbildung Tafel 18.
+
+## Pieter Andreas Rysbraeck
+
+geb.1690 in Paris,gest.1748 inLondon
+
+- 209 Erlegtes Gefligel.Vor Gebuschhintergrund rechts hangt nach links eine erlegte groBe Ente mit prachtig gemaltem Gefieder. Daneben Haher, Dohlen,Krammetsvogel etc.Links Blick in Landschaft.Be-
+- zeichnet:P.Rysbraeck.O1 auf Leinwand.H.67,B.84.
+
+## Giuseppe Porta, gen. Salviati. Zugeschrieben
+
+Italienisch,16. Jahrh.
+
+- 210 Madonna mit den Kindern Jesus und Johannes. LebensgroBe Kniefigur nach links auf einer Brustung sitzend.Rotes Kleid,griner Uberwurf,durchsichtiger Kopfschleier.Auf dem SchoBe halt sie das nackte Jesuskind, das sich nach links zurickwendet zu dem kleinen Johannes und die Linke auf den Kopf eines Lammes legt.O1 auf Pappelholz.H.126,B.86.
+
+## Bernard van Schyndel
+
+Haarlemer Maler vom Ende des 17. Jahrh.
+
+- 210a Lustige Gesellschaft.In einem hollandischen Zimmer gruppiert sich eine lachende Gesellschaft von Mannern,Frauen, Kindern um eine alte Zigeunerin, die einem jungen Madchen die Zukunft aus der
+- Hand wahrsagt. O1 auf Holz.H. 29,8, B. 37,2.
+
+Mit Gutachten von Corn.Hofstede de Groot.
+
+## Victoria Schmidbauer
+
+Deutsch,18. Jahrh.
+
+- 211 Der biBende St. Hieronymus vor einer Felsenhohle,in die ein Bicherschrank eingebaut ist. Gouache auf Pergament.Bezeichnet:M:Victoria Schmidtbaurin.H.13,5,B.9.
+
+## Johan Pietersz Schoeff
+
+Den Haag 1609-1660
+
+- 212 Uberschwemmungs-Landschaft. Aus dem breiten Wasserspiegel ragt in der Bildmitte eine Turmruine.
+- Vorn ziehen drei Manner in einem Kahn ein Fischnetz.In der Nahe des Turmes eine Segelbarke und ein Ruderboot.Bezeichnet: J.Schoeff 1651.O1 auf Holz.H.49,B.64.
+
+## Otto Marseus van Schrieck
+
+geb.um 1619 in Nimwegen,gest.1678 in Amsterdam
+
+- 213 Stilleben am Waldboden. Um eine Waldblume kriechen mehrere Eidechsen, Schnecken,Raupen;ein Frosch sitzt daneben,zwei Schmetterlinge lassen sich auf den Blattern nieder. Bezeichnet: O.Marseus 1660. O1 auf Kupfer.H.47,B.31.
+## Jan Scorel
+
+## geb.1495 bei Alkmaar,gest.1562 in Utrecht
+
+- 214 Allegorie. Sitzende junge Frau vor reicher Landschaft,frontal gewendet. Sie tragt ein hellgrinesKleid mit dunkelgrinem Halssaum und breiter Goldagraffe vor der Brust und einen dunkelroten Uberwurf, der sich faltig um den Unterkorper legt,Gold-und Perlenschmuck im blonden Haar.Mit der Rechten halt sie eine sich ringelnde Schlange,auf der Linken sitzt eine weiBe Taube.Mit dem Riicken lehnt sie sich an ein Marmorpostament,auf dessen Vorderseite eine Majuskel-Inschrift erscheint.Den Hintergrund fillt eine abgestufte Gebirgslandschaft mit starkem Baumschlag links.Ol auf Eichenholz.H. 53, B.63,5. Abbildung Tafel 14.
+
+## Francesco Solimena
+
+geb.1657in Novera(Spanien),gest.1747 in Neapel
+
+- 215 Lachendes Madchen.LebensgroBe Halbfigur in grauem Mantel nach links,das lachende Gesicht dem Beschauer zugewendet. Sie halt mit beiden Handen eine Taube. Ol auf Leinwand. H.74, B. 62.
+
+## Hendrik Marteusz Sorgh
+
+Rotterdam 1611—1670
+
+- 216 Bauernfamilie.In einem Raume, der von einer Ollampe erhellt wird,gruppieren sich neben einem mit Fassern, Schalen,Gemisevorraten bestellten Tische Mann,Frau und drei Kinder.Rechts seitwarts stehen ein Bursch und ein Madchen bei einer Tonne. Ol auf Leinwand, die auf Holztafel gezogen. H.35,B.53.
+- 217 Die Gemiisefrau. Tisch mit verschiedenen Gemise-Sorten, Gefligel, Krigen,Korben etc. Hinter dem Tisch steht eine junge Frau in rotem Kleid. Vorn rechts tritt ein Knabe heran,der ein Rippenstick auf einer Schissel tragt. O1 auf Eichenholz.H. 35,B. 48.
+
+## Spanisch, 17. Jahrh.
+
+- 218 Damenbildnis mit aufgelostem dunklem Haar.Ausgeschnittenes Kleid mit Schulterschleifen.Ol auf Leinwand.H.60,B.49.
+
+## Juriaan van Streeck
+
+Amsterdam 1632-1678
+
+- 219 Vanitas-Stilleben. Totenschadel, Beinknochen, ausgebrannte Lampe,zerbrochenes Glas, Uhr und mehrere Bucher auf griner Tischdecke. Rechts bezeichnet: J.v.Streeck. O1 auf Eichenholz.H. 45,B.62.
+- 220 Stilleben.Auf einem mit verschiedenfarbenen Tichern bedeckten Tische mehrere Bicher, Taschenuhr, silberner Pokal usw.O1 auf Leinwand.H.54,B.39.
+
+## Bernado Strozzi. Zugeschrieben
+
+geb.1581 in Genua,gest.1641 in Venedig
+
+- 221 Chronos und Nymphe in groBen nackten Figuren.O1 auf Leinwand. H. 116,B. 166. Provenienz:Landes-Museum in Darmstadt.
+
+## Siddeutsch,um 1600
+
+- 222 Maria, das Jesuskind trankend,Sitzende Kniefigur in rotem Kleid und blauem Mantel. Ol auf Leinwand. H.82,B.63.
+
+## Siddeutsch,1. Halfte 17.Jahrh.
+
+- griner Ton in der Art der Landschaften aus der Brueghel-Schule.O1 auf Holz.H.29,B.33. Alter geschnitzter Goldrahmen.
+
+## Michael Sweerts
+
+geb.um 1615 in Amsterdam,gest.nach 1656
+
+- 224 Knabenbildnis. Sitzender blondhaariger Junge von etwa 10 Jahren in grauem Rock. Die rechte Hand schiebt er in den aufgeknopften Rock,mit der linken kraut er sich das Haar. Ol,von Holz auf Lein-
+
+Mit folgendem Gutachten von W.v.Bode:，Das vorstehend abgebildete,mir vorgezeigte,von Holz auf Leinwand
+
+Abbildung Tafel 16.
+## David Teniers d.A. Zugeschrieben
+
+1582-1649
+
+- 225 Bauernbelustigung. Links vor einem Wirtshaus Bauern und Frauen kneipend um einen Tisch sitzend. Rechts wird ein Mann von seiner Frau nach Hause gezerrt. Unter einem Schuppen am Haus eine zweite Gruppe kneipender Bauern.O1 auf Leinwand.H. 39,B.50.
+
+## David Teniers d. J.
+
+Antwerpen 16101690
+
+- 226 BiBende Magdalena. Inmitten einer warmtonig beleuchteten Felsengrotte kniet die blau und orangefarben gekleidete Heilige vor einem Block,auf dem Kruzifix und Totenkopf. Mit Monogramm. Ol auf Eichenholz.H. 50,B.38.
+
+## David Teniers. Zugeschrieben
+
+1610-1690
+
+- 227 Halbfigur eines rauchenden Bauern nach links gewendet. Grines Wams mit hellbraunen Armeln.Hoher schwarzer Hut.WeiBe Tonpfeife.O1auf Leinwand.H.36,B.28.
+
+## Schule David Teniers
+
+- 228 Stall-Inneres mit Schafherde.Vor dem Stall ein schalmeiblasender Hirt.O1 auf Holz.H. 37, B.52.
+
+## Kopie nach David Teniers
+
+- 229 Lautenspieler und Bauerin im Wirtshaus. O1 auf Eichenholz.H.23,B. 32.
+- 230 Pielfeanzindender Bauer neben Wirtshaustisch. O1 auf Hiolz.H.25,B.19.
+
+## Gerard Terborch.Zugeschrieben
+
+geb.gegen 1617 in Zwolle,gest.1681 in Deventer
+
+- 231 Bildnis eines jungen Herrn.Brustbild im Dreiviertel-Profil nach rechts,in schwarzem weiBgeschlitztem Gewand und weiBem Spitzenkragen.O1 auf Leinwand.H.73,B. 55.
+- 232 Bildnis eines jungen Herrn in braunem,weiBgeschlitztem Anzug,rotem Mantel und grauem Hut. Ol auf Leinwand.H.52,B.42.
+
+## Manier Gerard Terborch
+
+- 233 Knabe,einem Hunde Flohe absuchend, den er auf dem SchoBe halt. Er sitzt in helldunklem Raume neben einer Truhe und einem Tischchen.O1 auf Eichenholz.H.43,B. 21.
+
+## Jan Philips van Thielen
+
+geb.1618 in Mecheln,gest.1667 in Boisschot
+
+- 234 Frichte- und Blumenstick. Ein reicher Kranz,der aus Trauben, Apfeln,Pfirsichen, Astern, Winden und sonstigen Blumen gewunden ist,hangt vor einer steinernen Bristung,auf der ein groBer Korb mit verschiedenen Trauben,Pfirsichen,Kirschen steht. Ol auf Leinwand.H. 89, B.76. Goldrahmen.
+
+## Gillis van Tilborg
+
+Brissel 1625-1678
+
+- 235 Interieur.Zwei junge Manner mit Tabakspfeifen sitzen an einem Wirtshaustisch einem Madchen gegeniber, das ihnen Wein einschenkt.O1 auf Leinwand.H.37,B.30.
+
+## Johann Heinrich Tischbein
+
+## geb.1722 in Haina (Hessen),gest.1789 in Kassel
+
+- 236 Anakreon.Der greise Dichter sitzt lachelnd,einen Rosenkranz im Haar,in der Linken einen goldenen Becher,in der Rechten die Lyra haltend,neben einem Marmortisch,auf dem Korb mit Trauben und eine Kanne stehen,vor Parkhintergrund. Bezeichnet: J.H.Tischbein pinxit 1778. O1 auf Leinwand. H.46,B.41. Abbildung Tafel 9.
+- 237 Diogenes.Vor einein Felsen sitzt der Philosoph in weiBem Mantel,eine Tonschale in der Linken,neben sich Mohren,Zwiebeln,Rettiche.Den bartigen Kopf stitzt er,in Nachdenken versunken,in die Rechte. Bezeichnet:J.H.Tischbein 1770.O1 auf Leinwand.H.46,B.41.
+## Jacob Toorenvliet
+
+Leiden 1635-1719
+
+- 238 Die Gemiseverkauferin. Sie steht neben einem Gemiseaufbau vor Renaissance-Architektur und verhandelt mit einem jungen Madchen in roter Jacke, das von links herzugetreten ist. Ol auf Kupfer. H.35,B.30.
+
+## Adriaen van Utrecht
+
+geb.1599 in Antwerpen,gest.1652 daselbst
+
+- 239 Gemiseverkauferin.Sehr groBes und reiches Stilleben.Eine junge Frau sitzt hinter reichen Gemisevorraten,die in verschiedenen Korben und Schalen vor ihr angehauft sind. Mit der Linken greift sie in einen Korb mit Kirschen,mit der Rechten reicht sie einige Kirschen einem links stehenden Knaben hin. Weiter links andere junge Frau vor Korben mit allerlei Frichten. Ganz rechts Mann und Frau,die an-
+- scheinend kaufen wollen. Im Hintergrund Hauser.Ol auf Leinwand.H.170,B.225. Abbildung Tafel 1.
+
+## Adriaen van der Velde. Zugeschrieben
+
+Amsterdam 1635-1672
+
+- 240 GroBe baumreiche Landschaft mit Herde.In der Bildmitte vorn ragt ein starker Baum.Unter ihm sitzt eine junge Hirtin,vor der ein Hirt einen Kniefall macht. Kihe, Schafe und Ziegen links zwischen
+- Baumen.O1 auf Leinwand.H.134,B.168.
+
+## Esaias van de Velde
+
+geb.um 1590 in Amsterdam,gest.1630 im Haag
+
+- 241 Rauberischer Uberfall. An einer Wegkreuzung vorn zwischen hohen Baumgruppen hat eine Horde
+- werden.Vorn in der Mitte bedroht ein farbig gekleideter Rauber auf rot und weiB geflecktem Pferde einen Reisenden auf schwarzem Pferde.Rechts verfolgt ein berittener Rauber einen laufenden Mann in rotem Koller.Links bezeichnet:E.v.V. O1 auf Eichenholz.H.56,B.73.
+- 242 Eisvergnigen. Zahlreiche farbiggekleidete Personen beim Schlittschuhlaufen und Schlittenfahren rechts
+- auf einer Eisflache.Links vorn am Ufer Gruppe von verschneiten Hausern. Ol auf Holz.H.31,B.39.
+- 243 Landschaft mit brauner Klosterruine rechts vor einem Gebisch. Von vorn her kommt ein Reiter auf einem Schimmel, daneben ein Bauer.O1 auf Eichenholz.H.28.5,B.40.
+
+## Jan van de Velde II.
+
+geb.um 1593 in Rotterdam,gest.1641 in Enkhuyzen
+
+- liegenden Hausern zu beiden Seiten. Auf der StraBe wassertragende Bauerin, Reiter und mehrere andere Figuren. Rechts vorn Weiher mit grasenden Kihen. Nach hinten Sicht in Landschaft mit fer-
+- nem Dorf.Monogrammiert:V.fe.O1 auf Eichenholz.H.36,5,B.48,5.
+
+## Willem van de Velde II
+
+geb.1633 in Amsterdam,gest.1707in Greenwich
+
+- 245 Marine. GroBer Dreimaster mit reichgeschnitztem und bemaltem Heck liegt rechts unter vollen Segeln. Links vorn ein dicht bemanntes Ruderboot.Im Mittelgrunde links fahrt ein anderer Dreimaster.Ol auf Abbildung Tafel 3. Eichenholz.H.34,B.51.
+
+## Venezianisch-Dalmatinisch,15. Jahrh.
+
+- 246 Verkiindigung.Der Engel mit erhobener Rechten,in der Linken zwei Lilien haltend,erscheint der auf
+- einer Balustrade knieenden Jungfrau.Dariber Gottvater in Wolken.O1 auf Holz.H.29,B.25.
+
+## Pseudo-van der Venne
+
+Seinem Namen nach unbekannter hollandischer Maler des 17. Jahrh.
+
+- 247 Der Neugeborene. Vor einem Kaminfeuer links versorgt eine junge Mutter ihren Saugling. Hinter ihr eine stehende altere Frau.Die junge Mutter wendet sich zurick zu einem Manne,der von einer Frau begriBt wird. O1 auf Eichenholz.H.50,B.44.
+
+Mit Gutachten von C.Hofstede de Groot.
+
+## Claude Joseph Vernet
+
+geb.1712 in Avignon,gest.1789 in Paris
+
+- 248 Strandlandschaft mit hohen Felsen rechts,im Mittelgrunde Burgruine. Vorn am Strand einige Fischer
+- und Frauen.O1 auf Leinwand.H.41,B.49.
+- H.70,B.56.
+
+## Johannes Victoors
+
+Amsterdam 1620-1676
+
+- 249 Laban, Rebecca und Jacob. StraBe mit prachtigen Renaissance-Architekturen. Vor einem Hause vorn rechts sitzt Laban,seine Tochter Rebecca umschlungen haltend und hort die Werbung des vor ihnen stehenden Jacob an.O1 auf Leinwand.H.65,B.90.
+
+## David Vinckeboons
+
+geb.1578 in Mecheln,gest.1629 in Amsterdam
+
+- 250 GroBe vielfigurige vlamische Bauernkirmes. GroBer Dorfanger,von einzelnen Hausern umgeben:Vorn
+- rechts Wirtshaus mit herausgehangter Kirmesfahne.(Darauf:,Die Boore Cermes"),in der Bildmitte ein groBes SchloB im Renaissancestil.Wirtszelte,Kram-und Gauklerbuden dazwischen.Den ganzen Platz fillt ein lebhaftes Treiben buntgekleideter Bauern,Birger,Edelleute,Frauen,Kinder,die tanzen, lustwandeln,zechen,feilschen usw.Nach hinten blickt man in ein mit Hausern durchsetztes Landschaftsbild.O1 auf Eichenholz.H.66,B.100. Abbildung Tafel 2.
+
+## Vlamischer Meister,15. Jahrh.
+
+- 251 Madonna mit dem Jesuskinde. Halbfigur in grinem Mantel und weiBem Busentuch. Das nackte Kind halt sie auf einer Windel vor sich und reicht ihm die Brust. Ol auf Eichenholz.H. 47,B.30.
+- 252 Lehrender Christus.Brustbild in grinem Gewand und rotem Mantel,Kopf im Dreiviertel-Profil nach rechts gewendet,die Rechte im Redegestus erhoben.Auf Goldgrund.Ol auf Eichenholz.H.47,B.35.
+
+## Viamischer Meister des 16. Jahrh.
+
+in der Art des Hendrik Bles
+
+- 253 Zwei Sprichworter-Darstellungen.1. Vor einem Palaste rechts steht ein First mit zwei Hoflingen und einer Frau; sie blicken mit Staunen und Schrecken auf einen von links herankommenden Bettler,der eine Frau aufdemRicken tragt.-2.EinMann in grinem Wams und roter Mitzesitztvor demKaminfeuer links,in das er Stroh hineinwirft. Neben ihm ein Kind,am Boden ein toter Affe. Beide rund. Leimfarbe auf Leinwand.Dm.79.In antikem,geschnitztem Goldrahmen.
+
+und Rahmen. Sie bilden anscheinend eine Serie ron Sprichworterdarstellungen,zu der moglicherweise noch andere gehoren.-Dor Konserwator der Baseler Sammlung,Dr.A.Glaser,schreibt die dortigen Bil ier der alten Sehule von Leyden zu.
+
+## Vlamisch, 16. Jahrh.
+
+- 254 Anbetung. Das unter einer Renaissancehalle auf Stroh liegende Jesuskind wird von Maria und einem Engel angebetet.Links St. Joseph. Landschaftsdurchblick. O1 auf Eichenholz.H. 52, B. 37.
+
+## Vlamisch, Anfang 16.Jahrh.
+
+- 255 Betende Madonna. Gekronte Halbfigur vor Brokatvorhang nach rechts gewendet. Hintergrund:Landschaft mit Burg.Ol auf Eichenholz.H.21,B.17.
+
+## Vlamisch, 17. Jahrh.
+
+dem Justus Susterman nahestehend
+
+- 256 Brustbild eines spanischen Offiziers mit hochgekammtem Schnurrbart und dunklem Haar, das ein federgeschmickter Schlapphut deckt.Harnisch,blaugrauer Mantel, Spitzenkragen.Ol auf Leinwand.
+
+## Manier Simon de Vlieger
+
+Hollandisch,17. Jahrh.
+
+- 257 Seestick mit groBen und kleinen Seglern auf leicht bewegtem Hafenwasser. Ol auf Eichenholz. H.50,B.73.
+
+## Hendrik Cornelisz van Vliet
+
+Delft um 1611—1675
+
+- 258 Bauern beim Tric-trac-Spiel.In einer Schenke beugen sich zwei Bauern eifrig iber das Spielbrett,das auf einem Tische steht. Zwei andere Manner schauen zu.Im Hintergrund mehrere rauchende Manner am Kamin. O1 auf Eichenholz,parkettiert.H. 37,B.32. Abbildung Tafel 16.
+
+## Cornelis van der Voort
+
+geb.um 1576 in Antwerpen,gest.1624 in Amsterdam
+
+- 259 Mannliches Bildnis. LebensgroBes Kniestick eines stehenden Herrn in schwarzem Anzug mit weibem Mihlsteinkragen.Die rechte Hand stitzt er in die Hifte, die linke, die ein Buch halt,ruht auf einem Tische. Oben links Wappen und AETA 49. ANo 1596. O1 auf Holz.H. 112,B. 81.
+## Marten de Vos. Zugeschrieben
+
+niederlandisch um 1600
+
+- 260 Salome. Sie steht,eine Schissel in den Handen,neben dem Henker, der den abgeschlagenen Kopf des Taufers halt. Hinter der Salome eine Magd. LebensgroBe Kniefiguren.Ol auf Leinwand. H. 131, B. 96.
+
+## Ary de Voys
+
+geb.um 1631inUtrecht,gest.1680in Leiden
+
+- 261 Der frohliche Zecher. Junger Mann in braunem Rock mit roten Armeln sitzt lachelnd nach rechts gewendet und halt ein Glas Wein mit der Rechten hoch, wahrend er mit der Linken eine Zinnkanne umfaBt.O1 auf Holz.H. 26,B.20,5.
+
+## Westfalische Schule,um 1570
+
+- 262 Figurenreiche Darstellung der Anbetung der Konige.Ol auf Eichenholz.H.63, B.99. Stammt aus Osnabrick.
+
+## Jacob de Wet I
+
+Haarlem um 1610 —nach 1671 Schiler Rembrandts
+
+- Saulenhalle steht der weiBgekleidete Zacharias dem von links in einer Wolke heranschwebendenEngel gegeniber. O1 auf Holz.H. 36, B.28,5.
+- 264 Anbetung der Hirten. In monderhellter Landschaft knieen Hirten,Frauen und Kinder um das von der H.46,B.60.
+
+## Jacob de Wet, de Jonge
+
+gest.1697 in Amsterdam
+
+- 265 Moses am roten Meer.Links auf einem Higel steht Moses im Gebet vor seinen Volksgenossen. Rechts sieht man das zahlreiche aegyptische Heer, iber dem die Wogen zusammenschlagen. Bezeichnet: J. d. Wet d.Jonge.O1 auf Eichenholz,parkettiert.H.57,B. 80.
+
+## Schule Roger van der Weyden
+
+- 266 Weinende Madonna.Kopf,von faltenreichem weiBen Tuch verhillt,nach rechts.Teilwiederholung nach dem Bilde des Meisters im Prado zu Madrid.O1 auf Leinwand.H.48,B.39.
+
+## Thomas Wijick
+
+Haarlem 1616-1677
+
+- 267 Interieur.In einer Bauernkiche sieht man drei Frauen, von denen eine ein Kind reinigt.Hinter ihnen steht ein Mann an eine Leiter gelehnt. Rechts sonniges Fenster. O1 auf Holz. H. 24,5,B.19,5.
+
+## Jan Wijnants
+
+geb.um 1620 in Haarlem,gest.1682 in Amsterdam
+
+- 268 Landschaft in Abendbeleuchtung,mit Staffage. Durch die Bildmitte fihrt ein Weg an sandigem Rain vorbei. Rechts vorn hoher einzelner Baum,unter dem ein Mann sitzt. Eine sitzende Frau und ein stehender Mann etwas weiter hinten. Links geht ein rotgekleideter Mann einen Abhang hinunter. Nach hinten blickt man iber ein Wasser auf ein Kornfeld. O1 auf Leinwand. H. 25,8,B. 30,2.
+
+Abbildung Tafel 19.
+
+Das Bild ist beschrieben in des gleichen Verfassers Beschreibendem und kritischem Verzeichnis der Gemalde dieses Kunstlers,unter Nr.695a.
+
+Mit Gutachten von Corn.Hofstede de Groot:
+
+## F.Woltemuht
+
+Deutsch,18.Jahrh.
+
+- 269 FluBhafen.FluBtal mit Bergen vorn. Rechts oben ragt eine Kirche. Am FluBufer Hauser und Kahne, die von Schiffern entladen werden.Unten in der Mitte bezeichnet:F. Woltemuht pinxit. Ol auf Leinwand.H.56,B.71.
+
+Gegenstick zu vorigem mit ahnlicher Darstellung.
+
+## Philips Wouwerman. Zugeschrieben
+
+Haarlem 1619-1668
+
+- 270 Lastwagen mit nach links stehendem braunen Pferde bespannt,begleitet von Fuhrleuten und Knechten, steht auf felsigem Strande.Ballen werden abgeladen.Links im Wasser eine Segelbarke.Rechts hinten Turmruine, dabei ein Reiter.Rechts unten die undeutliche Bezeichnung:P.HS.W.(in Ligatur).Ol auf Eichenholz.H.23,B.38.
+- 271 Berittener Jager und Jagdknecht mit Hunden.Tuschzeichnung. H. 18,5, B.27.
+
+## Francesco Zuccarelli. Zugeschrieben
+
+Florenz 1702-1788
+
+- 272 GroBe italienische Landschait. FluBhafen. Vorn am FuBe eines hohen Felsens Klosterruine und zahl-
+- reiche Manner und Frauen bei Segel- und Ruderkahnen. O1 auf Leinwand. H. 93,B. 124.
+
+## Unbekannte Maler
+
+- 273 WeiBbartiger Alchymist, ein Glas mit einer Flissigkeit hochhebend. Deutsch, 18. Jahrh. O1 auf Holz. H.26,B.19.
+- 274 Rauberischer Uberiall.Figurenreiche Darstellung. O1 auf Leinwand.H.110, B. 146.
+- 275 Zwei kleine Kopfe nach Rembrandt. O1 auf Holz. H. 13, B. 9,5.
+- 276 GroBe allegorische Darstellung.O1 auf Leinwand.H.126,B.140.
+- 277 Greisenkopf. In der Art des Caravaggio.O1 auf Holz.H.28,B.23.
+- 278 Landschaft mit Viehherde vorn bei einem Weiher. Dabei ein Hirt und zwei Wascherinnen. Ol auf Leinwand.H.60,B.77.
+- 279 Kleine Landschait mit Hausern. O1 auf Holz.H.18, B.24.
+- 280 Madchenkopf. Olstudie aus der Tischbeinschule.H.20,B.17.
+- 281 Kleine bewaldete Landschaft mit zwei Figuren. Niederlandisch,17. Jahrh. O1 auf Holz. H. 25,B.18.
+
+## Graphik und Verschiedenes
+
+- 282 Watteau, Antoine (Zugeschrieben）. Vier Figuren- und Kostimstudien auf 1 Blatt. Rotelzeichnung.
+- Gerahmt.21X16.
+- 283 Viereckige Miniatur auf Elfenbein. Junger Kavalier steht einem alten Wucherer gegeniber, der ihm Goldsticke auf den Tisch zahlt.Deutsch,18. Jahrh.8,5X9,5.
+- 284 Bartolozzi,F.,The Triumph of Virtue.Peters pinxit.Farbstich. Gerahmt.
+- 285 Apotheose (Ludwig XVI.) Mme.Hamilton pinxit.Farbstich. Gerahmt.
+- 286 Bolswert, S.,Verbreitung des Christentums. P. P. Rubens pinxit. Grabstichelblatt. Gerahmt.
+- 287-Ecclesia per S.Eucharistiam triumphans.P. P.Rubens pinxit. Grabstichelblatt. Gerahmt.
+- 288 Direr,Albrecht,Madonna mit dem Kinde.1508.Kupferstich. Gerahmt.
+- 289 Legrand,A., Ste.Marguerite,vierge et martyre.Dessine par Lambert.Farbstich. Gerahmt.
+- 290 Bildnis des Philosophen Imanuel Kant. Zeitgenossischer Kupferstich vor der Schrift. Gerahmt.
+- 291 Rembrandt.Die Kreuzabnahme,von 1633.Radierung.
+- 292Joh.EliasRidinger,Die Spurenund Fahrten der Tiere.Bl.1,2,3,10,14,15,16,19,20,21,22,23au
+- der Folge.-Ferner ein Blatt aus der Niederen Jagd.Alle 13 Blatter gerahmt.
+- 293 Englisches Schabkunstblatt:Lieutenant Moody. Gestochen von Rob.Pollard,London 1785.Plattenrand.
+
+## Nicolas Maes
+
+geb.1632 in Dordrecht,gest.1693in Amsterdam
+
+- 294 Kniebild einer stehenden Dame in einem Park vor dunkler Baumkulisse. Elegantes,weit ausgeschnit
+- B.55,5.
+- tenes Seidenkleid mit weiBen Tillhalbarmeln. Lockiges Haar,Perlenkollier. Ol auf Leinwand. H.66,5,
+
+Provenienz: Sammlung Baron Janssen,Brissel.-Beschrieben beiC.Hofstede de Groot,Nr.436.
+
+## Deutscher Meister,18. Jahrhundert
+
+- 295 LebensgroBes Bildnis eines stehenden Herrn in ganzer Figur, in schwarzem Anzug mit roten Puffen und im weiBen Ordensmantel der Deutschherren. Neben ihm auf einem Tische Turnierhelm,Hut, Brief.O1 auf Leinwand.H.230,B.150.
+- Gerahmt.
+## UNSERE KOMMENDEN AUKTIONEN:
+
+- 1.NachlaB Frau Karl Roettgen, Bonn:
+
+Mobel des 15.bis 17. Jahrhunderts (Gotik,Renaissance, Barock), Holzbildwerke, Glasgemalde, Tafelgemalde des 16. Jahrhunderts etc.
+
+Versteigerung:13. November.
+
+- 2.Altes Kunstgewerbe und Ostasiatica aus verschiedenem Besitz.
+
+Versteigerung:14.November.
+
+- 3.Kunstsammlung und Innen-Einrichtung der Villa des Geh. Kommerzienrats Hammerschmidt in Bonn.
+
+Versteigerung:Dezember 1928.

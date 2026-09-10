@@ -1,0 +1,859 @@
+## COLLECTION-SPIRIDON DE ROME
+
+DUCCIO DI BUONINSEGNA (Ecole de) Commencement du XIVe siecle
+
+## LAVIERGEETL'ENFANT
+
+La Vierge est representee en buste sur un fond d'or. Elle est vetue d'un manteau bleu double de vert et d'une robe rose; elle porte un voile blanc sur la tete et se tourne legerement a droite. L'Enfant est enveloppe dans un linge blanc et dans un manteau violet clair qu'il retient avec les mains, en se tournant lui aussi a droite comme s'il regardait un invisible adorateur.
+
+Fond dor.Bois.—Hauteur 6o, largeur 45 centimetres.
+
+C'est l'oeuvre d'un maitre tout a fait digne de Duccio qui continue son art et qui constitue un trait d'union entre Duccio et Pietro Lorenzetti.A cote de l'accord traditionnel et bien defini du bleu et de l'or, se degage une harmonie nouvelle de couleurs tres delicates qui vont du ton rose de la robe de la Vierge a la paleur des chairs et au violet clair du manteau de lEnfant.
+
+Cite par Van Marle. The Dev. of the It. Sch. II, p. 98 not.
+
+## MASO-GIOTTINO
+
+Travaillait a Florence vers la moitie du XIVe siecle
+
+## LE CHRIST AU TOMBEAU
+
+Vierge, saint Jean Evangeliste et sainte Marie-Madeleine. Marthe et Joseph dArimathie debout regardent la scene. La Vierge est assise au bord du sarcophage, vetue d'une robe rouge et d'un manteau bleu. Les chairs du cadavre sont d'un ton verdatre; Marie-Madeleine porte une robe ecarlate, saint Jean une robe verte et un manteau rouge cerise, Marthe une robe rouge et un manteau ecarlate.
+
+Fond d’or.—Bois.——Hauteur 46,largeur 37 centimetres.
+
+C'est une des ceuvres les plus dramatiques de l'école de Giotto, dont le style ressemble beaucoup a celui des fresques de l'Eglise de ,Santa Croce"a Florence, representant des scenes de la vie de saint Sylvestre. Ghiberti les a attribuees a Giottino: sous ce nom Vasari a confondu deux artistes, Maso di Banco et Tommaso di Stefano qui appartenaient a deux generations differentes. Maso est un des plus forts eleves de Giotto.
+
+Provient de la collection Georges Spiridon,le pere.
+## 3 CROIX PORTATLVE PEINTE SURLES DEUX COTES
+
+saint Jean l'Evangeliste a droite et en haut un ange en priere.
+
+Sur lautre cote: Le Christ en croix, Marie-Madeleine en bas, la Vierge a gauche, saint Jean l'Evangeliste a droite et en haut le Christ benissant.
+
+Bois.—Hauteur 5o,largeur 35 centimetres.
+
+C'est l'euvre d'un maitre assez proche de l'auteur du triptyque et des fresques que lon admire sur la voute du chceur de S. Chiara a Assise, mais il est plus fin que lui. Tout en etant surtout un eleve de Giotto, il presente neanmoins quelques caracteres communs a Pietro Lorenzetti.
+
+GIOTTO(Ecole de) Vers la moitie du XIVe siecle
+
+## 4
+
+## NOLIME TANGERE
+
+Sur un fond d'or encadre s'eleve a gauche une montagne avec deux arbres. Au premier plan Marie-Madeleine agenouillee tend avec ferveur ses bras vers le Christ qui s'arrete et se retourne, tenant a la main gauche la banniere croisee. Marie-Madeleine est vetue d'une robe rouge brodee d'or, dont lintensite est pareille a celle d'un email translucide: sa tete est enveloppee d'un fichu blanc qui est borde d'or. Le manteau du Christ est blanc decore d'or et double de vert.
+
+Fond d’or.-Bois.—Hauteur 26.5,largeur 18.5 centimetres.
+
+Les formes des personnages et de la montagne rappellent celles de Giotto, mais les couleurs et le decor font penser a l'ecole de Rimini. La robe rouge de Marie-Madeleine,lor du fond et le manteau blanc du Christ forment un ensemble d'un effet tres riche, tres expressif et tres decoratif.
+
+Provient de la collection Georges Spiridon, le pere.
+
+## BERNARDO DADDI(Ecole de) Moitie du XIVe siecle
+
+- 5 LA VIERGE ET L'ENFANT SUR UN TRONE,DOUZE SAINTS,DEUX ANGES ET
+- UNEPREDELLE REPRESENTANTLA PIETA
+
+La Vierge est assise sur un trone dont le dossier est orne d’une tenture de brocart rouge et
+
+Fond d'or.— Bois.—Hauteur 61,largeur 39 centimetres.
+
+or. Elle est vetue d'une robe pourpre et d'un manteau bleuatre;elle tient sur ses genoux l'Enfant Jesus enveloppe dans une longue tunique orange rehaussee de dessins dores. Il serre dans sa main droite un petit oiseau. Ranges en trois series superposees sur le fond d'or, on voit douze Saints en adoration, parmi lesquels a gauche, saint Jean-Baptiste, saint Paul, saint Jacques et, a droite, saint Pierre et sainte Catherine d'Alexandrie. Au pied du trone, un vase portant des lis entre deux anges musiciens agenouilles. Sur la predelle, le Christ dans le sarcophage est adore par la Vierge et saint Jean l'Evangeliste.
+
+C'est loeuvre d'un disciple de Bernardo Daddi, d'un coloris exquis. Provient de la collection Georges Spiridon, le pere. Peut-etre il a appartenu a la collection Fesch.
+## 6
+
+## / L'ANNONCIATION
+
+Fond or. L'archange Gabriel est agenouille sur un plan vert. Ses ailes sont rouges, vertes et bleues; sa robe est bleue, son manteau lilas a des revers jaunes. A la main gauche il tient un lis a longue tige et il leve la main droite qui benit. La Vierge vetue d'une robe rouge fonce et d'un manteau bleuatre, est assise sur le coffre de son lit; sur ce dernier est etendu un drap rouge carmin chaud faisant ressortir le relief du coffre.
+
+Fond d'or.—Bois.-Chaque volet:hauteur 44, largeur 18.5 centimetres.
+
+C'est une des ceuvres les plus sures et les mieux conservees d'Agnolo Gaddi On peut tres bien la comparer avec L'Annonciation de PAcademie de Florence.
+
+Provient de la collection Georges Spiridon, le pere.
+
+## SPINELLO ARETINO
+
+Travaillait a Florence de1387 a 1410
+
+## SAINTJULIEN TUE SES PARENTS
+
+Fond or. Chambre peinte dans un ton violace, ouverte sur le devant. Un rideau blanc tire laisse apercevoir un lit sur une estrade peu elevee qui occupe toute la chambre. Dans le lit sont couches un homme et une femme blesses. Agenouill sur le lit, saint Julien frappe encore sa mere endormie de son gros poignard. Sur ces entrefaites, sa femme arrive a gauche. ll croyait surprendre sa femme avec son amant, et il avait au contraire frappe ses parents.
+
+Fond d’or.—Bois.—Hauteur 34,largeur 39 centimetres.
+
+Ce tableau et le suivant (No. 9) appartenaient a la meme predelle. On doit considerer ces peintures comme etant suirement lceuvre de Spinello et on peut les comparer surtout avec la predelle du retable de Monteoliveto, aujourd'hui dispersee (a Sienne,a Budapest et a Cambridge (Etats-Unis). La verve du narrateur et le sens exquis de la couleur font de ces predelles deux petits chefs-d'ceuvre: la ligne pleine d'energie et de mouvement delimite la masse rouge du saint, tranchant sur les tons verts, violaces et blancs: c'est laccent tragique de la legende enfantine.
+
+Provient de la collection du marquis Ludovic De Magny a Nice.
+
+## 8
+
+## TADDEO GADDI(Ecolede) MoitieduXIVesiecle
+
+## LA VIERGE ETL'ENFANTENTREQUATRE SAINTS
+
+Fond or. La Vierge est assise entouree de quatre saints: deux saintes Martyres, saint Pierre presentant ses clefs a lEnfant Jesus, et saint Jean-Baptiste lui offrant sa croix. Les couleurs sont vives: la robe de la Vierge est rouge lie de vin, son manteau est bleu; la tunique de l'Enfant est ocre jaune; les saintes portent des manteaux rouges et des robes, lune verte, l'autre bleue. Saint Jean est drape de pourpre; saint Pierre a un manteau jaune sur une robe bleue. Au premier plan, un plancher a carreaux de couleur orange, bleu et or.
+
+Fond dor.-Bois.—Hauteur 5o, largeur 21 centimetres.
+
+Le type de la Vierge, qui a un air tres majestueux,rappelle beaucoup Taddeo Gaddimais les forines sont un peu plus allongees.
+
+Provient de la famille des Conti Gallotti di S. Alessio (Pavia).
+
+## AGNOLO GADDI
+
+Travaillait a Florence de 1369a 1396
+## I0 LA CRUCIFIXION
+
+Sur un fond or se dresse la croix surmontee du cartouche INRl. Le Christ y est cloue: ses chairs sont blanchatres, ses flancs sont enveloppes d'un linge blanc. Les cheveux tres blonds, MarieMadeleine, vetue de vert et portant un large manteau rouge,embrasse la croix. A gauche, la Vierge un peu eloignee senferme dans sa douleur; a droite, saint Jean PEvangeliste, vetu de vert, porte un manteau rose eteint; il leve les yeux vers le Christ.
+
+Fond d'or.-Bois.-Hauteur 33, largeur 16.5 centimetres.
+
+Cette ceuvre de Niccolo di Pietro Gerini reproduit tres fidelement,mais avec une technique Florence, peinte par un eleve de Bernardo Daddi. Cela indique les tendances archaiques
+
+Provient de la famille des Conti Gallotti di S. Alessio (Pavia).
+
+du maitre.
+
+## SPINELLOARETINO
+
+Travaillait en Toscane de 1387a 1410
+
+## 9 UN MIRACLE DE SAINT DOMINIQUE
+
+Saint Dominique,vetu d'une robe noire et accompagne dune frere precheur, du cardinal Etienne, cheval avait tue. Trois chevaux, dont un a encore la criniere ebouriffee,avancent leurs tetes
+
+Fond d'or.—Bois.——Hauteur 34,largeur 39 centimetres.
+
+d'un eveque et d'autres gens, ressuscite un enfant nomme Napoleon (neveu du cardinal) qu'un a gauche. A droite, l'enfant se souleve sur un grabat, entoure de sa mere et de trois femmes qui assistent emerveillees au miracle; elles sont vetues de robes vert olivatre, lie de vin et rouge carmin. La scene est limitee par un mur en pierre qui se profle sur le fond d'or; derriere le mur un arbre.
+
+Pour l'attribution voir le numero precedent. Comparez encore le cheval blanc a gauche avec les chevaux du cortege de l'empereur Frederic Barberousse accompagnant le pape Alexandre III dans les fresques du Palazzo Pubblico a Sienne.
+
+Provient de la collection du marquis Ludovic De Magny a Nice.
+
+## NICCOLO DI PIETRO GERINI
+
+Travaillait a Florence de 137o a 1414
+## II
+
+## I2
+
+## LA RESURRECTION
+
+Sur un fond or apparait un rocher ouvert a la facon d'une caverne; on y voit le sarcophage. Trois arbres et des herbes interrompent la surface des rochers. Au premier plan,les gardes dorment. Tous les quatre ont des casques dores. L'un sur un bouclier noir, a une tunique bleue; l'autre sur un bouclier rouge,a une tunique verte. Le troisieme et le quatrieme au second plan sont vetus de rouge et de bleu. Debout, au milieu, tenant de sa main droite l'etendard croise, et de la gauche une branche d'olivier, enveloppe dans un manteau mordore,a bordure doree, le Christ s'avance, nimbe d'or.
+
+## TADDEODIBARTOLO
+
+Vivait a Sienne de 1363a 1422
+
+Fond dor.-Bois.-Hauteur 34, largeur 34 centimetres.
+
+C'est surement une ceuvre de Taddeo di Bartolo. Pour le type du Christ voir le polyptyque signe de la Galerie de S. Gemignano, representant le Christ benissant au-dessus de la Vierge, avec l'Enfant Jesus et des Saintes;pour la forme de la caverne voir l'Adoration des Bergers de l'eglise des Servites a Sienne. Les details, precis et fins, semblent ciseles sur un ensemble
+
+Provient de la famille des Conti Galotti di Alessio (Pavia).
+
+bien large, d'une evidente valeur architecturale.
+
+## LORENZO MONACO(Ecole de)
+
+Florence,environ 1400
+
+## SAINT BENOiT ET SAINTE MARGUERITE
+
+Dans chacun des compartiments, sur le fond or, se dresse une image de saint:a gauche saint Benoit avec la discipline et un livre; a droite, sainte Marguerite avec un livre et, en laisse, un dragon qui est en train d'engloutir un homme nu. En haut, on voit encore le dessin d'un arc tribole; en bas, en lettres gothiques, on lit le nom des saints: S. Benedictus et S. Veroninam (?). Mais on n'est pas bien sur de l'authenticite de linscription; elle parait d'autant plus posterieure que les attributs de la Sainte sont ceux de sainte Marguerite
+
+Fond d’or.—Bois.-Hauteur 35.5, largeur 1I centimetres.
+
+L'effet de la couleur est obtenu entierement par les differentes nuances des manteaux blancs des saints. Cela fait penser a Lorenzo Monaco; l'auteur de ce tableau doit etre un de ses eleves.
+## 13
+
+## GIOVANNI DA MILANO Ecole de)
+
+## Fin du XIVe siecle
+
+## LE BAPTEME DU CHRIST
+
+Fond or. Au milieu coule le Jourdain, dans les eaux duquel est campe le Christ benissant. A droite, saint Jean-Baptiste,vetu de peaux, est agenouille sur la rive;il tient dans sa main gauche une croix rouge, dans sa droite une coquille et repand sur la tete du Sauveur l'eau du bapteme. Derriere lui se dresse un arbre. De lautre cote du feuve sont agenouilles trois anges, dont un tient la robe pourpre de Jesus; ils sont vetus de vert, de rouge et de bleu.
+
+Fond d'or.-Bois.-Hauteur 28, largeur 3o centimetres.
+
+On peut trouver des analogies a ce tableau non seulement dans lceuvre de Giovanni da Milano, mais aussi dans les sources de son art, c'est-a-dire dans les fresques de la Lombardie du milieu du XIVe siecle.Voir surtout le Bapteme du Christ dans la voute de la nef centrale de l'abbaye de Viboldone, ou il y a une composition tres ressemblante: la maniere de tailler les rochers est tout a fait la meme. Voir aussi les Anges du Couronnement de la Vierge dans labside de labbaye de Vertemate et dans la meme abbaye,la lunette representant le Christ dans le sarcophage adore par quatre anges. Le corps du Christ rappelle beaucoup celui de ce tableau, mais avec plus de details anatomiques.
+
+Provient de la collection Georges Spiridon,le pere.
+
+## ECOLE VENETO-BYZANTINE du XIVe siecle
+
+## I4 LA VIERGE ETL'ENFANT SUR UN TRONE ENTRE DEUX ANGES
+
+Sur un fond or s'eleve un grand trone en pierre grise, decore de motifs rouges et verts, La Vierge y est assise, vetue d'une robe rouge a ramages or, drapee dans un manteau bleu double de vert et orne de grenades brochees en or. Elle tient sur son genou droit l'Enfant Jesus vetu de blanc et enveloppe dans un manteau brun clair decore d'un semis de petites branches dorees. Des deux cotes du trone, deux anges vetus de rouge et de vert sont en adoration.
+
+Fond dor.-Bois.—Hauteur 67, largeur 42 centimetres.
+
+Le maitre qui a peint cette ceuvre est plus byzantin que les venitiens Lorenzo, Paolo et tradition byzantine. Pourtant lorigine venitienne se revele tres clairement dans la forme du
+
+Caterino. La ligne gothique n'y parait presque pas et les anges appartiennent a la pure trone et dans les motifs de decoration des etoffes. Le coloris a un charme grave et profond.
+## BEATO ANGELICO
+
+Ne a Vicchio (Mugello)a la fin du XIVe siecle -mort a Rome en 1455
+
+## I5 PREDICATION DE SAINT PIERRE
+
+Au milieu d'une place publique, debout dans une chaire,les bras ouverts, saint Pierre preche a une foule qui occupe le premier plan. Il porte une robe bleu ciel et un manteau rose.Sa barbe et ses cheveux blonds se detachent sur un nimbe d'or. Les gens qui l'ecoutent sont pour la plupart en costumes italiens du XVe siecle.A gauche on voit un docteur debout, en manteau et en bonnet rouges, portant des parchemins roules; a cote de lui un homme en costume bleu, coiffe d'un chaperon dont le pan, d'un bleu plus clair, est ramene sur l'épaule droite; plus loin un homme,nu-tete, est agenouille.Au milieu de ce groupe saint Marc,vetu d'une tunique vert fonce et d'un manteau rose, assis de profl,regarde fixement saint Pierre et prend ses paroles en particulier celle qui est assise au premier plan, vetue de blanc et l'autre qui est enveloppee dans un manteau noir. A droite la femme debout, vue de dos, porte un ample manteau rose; une toque rouge coiffe ses cheveux blonds. Pres d'elle, un homme en tunique bleue a manches noires et ayant des bas rouges. Au fond de la place, le porche d'une eglise, puis une maison rouge; un palais dans le lointain, enfin un autre palais plus proche a droite.
+
+Bois.—Hauteur 33,largeur 52 centimetres.
+
+Ce tableau est la replique fidele d'une scene formant la partie gauche de la predelle de lautel des Linaiuoli,laquelle est maintenant au Musee de S. Marco. La beaute de la matiere et la finesse de l'expression portent a croire qu'il s'agit d'une replique de la main du maitre luimeme. La meme opinion a ete exprimee par M. Bertaux a l'occasion de la vente Aynard. Comme dans la predelle Spiridon le decor est plus severe et les formes plus simples et plus fermes, on peut penser qu'elle a ete executee une dizaine d'annees apres l'autel de Linaiuoli qui est de 1433.
+
+Collection du baron de Beurnonville. -Vendue a Paris 21-22 mai 1883, No. 127.
+
+Collection Edouard Aynard.-Vendue a Paris, Ier. decembre 1913. No. 36.
+## 17
+
+## PAOLO UCCELLO (Ecole de)
+
+Florence;premiere moitie du XVe siecle
+
+## 16 MIRACLE OPERE PAR UN SAINTMOINE
+
+Sur un fond de ciel se dresse une ville entouree d'un fosse plein d'eau. Les murs exterieurs sont gris, les maisons et les tours violet clair ou couleur rose. Hors du fosse s'etend une plaine herbeuse legerement ondulee, parcourue par des routes qui semblent taillees dans une pierre tendre d'un ton gris violace. Au loin a droite sur une colline s'eleve un chateau. Au premier plan se deroule la scene. Un personnage pend au bout de la corde d'une potence: la tunique est d'un rouge vineux et ses bas de la couleur du fer. Un saint moine, qu'on a voulu identifier avecs saint Antoine de Padoue （Ricci,Lettura,19i8),en tunique noire avec des reflets gris, planant tdans l'air,soutient tle pendu. En bas huit hommes armes regardent la scene. Les couleurs de leurs costumes sont tres vives: elles vont du ton orange eclaire de jaune du porttendard a gauche,aux tons grisverts,rouges,ourpre,violets etjaunes autres soldats.
+
+Bois.-Hauteur 22.5,largeur 48 centimetres.
+
+L'auteur de ce tableau est certainement un Florentin de la premiere moitie du XVe siecle et montre des points de contact avec Paolo Uccello, Beato Angelico et Domenico Veneziano. Les formes bien definies, laplomb des personnages, les types et les costumes rappellent tout de suite Paolo Uccello et surtout la predelle du Palais Ducal d'Urbino; les couleurs ont la vivacite brillante de celles de Beato Angelico, mais en meme temps elles se disposent en zones perspectives et en masses de volume bien epais (voir l'echelle) comme celle de Domenico Veneziano. On peut donc apprecier ce tableau sous le double point de vue de la forme de Paolo Uccello et de la couleur de Domenico Veneziano.
+
+Provient de la collection Georges Spiridon,le pere.
+
+## GENTILE DA FABRIANO (Attribuea)
+
+## UNESAINTE
+
+Sur le fond or, les pieds sur une prairie feurie, se dresse la Sainte habillee d'une longue tunique d'un beige legerement violace et d'un manteau jaune decore dor, avec des revers Comme on ne connait aucune Sainte ayant pour symbole une ceinture, on a suppose que la que sa couleur est aussi ancienne que les autres couleurs du tableau.
+
+Fond dor.—Bois.—Hauteur 122,largeur 46 centimetres.
+
+L'attribution de ce tableau a Gentile da Fabriano a éte proposee par Van Marle (The
+
+Achete en 1888 au sculpteur et peintre Dies a Rome.
+
+dev. of the Italian School of paint. VIll, 14) qui la juge une ceuvre de jeunesse du maitre. La forme de la main et du corps de la Vierge semble confirmer lattribution.Mais le visage et le rythme des draperies rappellent Lorenzo da Sanseverino.
+
+Au verso une ancienne inscription:,Per il Sig. Gaetano Ciccorini-Gubbio"
+
+Travaillait de 1408a 1427
+## 18 LA VIERGEET L'ENFANT SUR UN TRONE AVEC QUATRE ANGES
+
+Sur un fond or se dresse un trone de marbre, decore de chapiteaux et de pilastres dores soutenus par deux lions. Sur les degres du trone est etendu un tapis ecarlate. Sur le trone la Vierge est assise, habillee d'une riche robe a reflets dores et d'un grand manteau vert double entendre la musique des anges. De la tete de la Vierge tombe un voile blanc, et au-dessus de l'aureole deux anges tiennent une couronne. Deux autres anges musiciens planent dans lair.
+
+Fond d’or.—Bois.—Hauteur 43, largeur 28 centimetres.
+
+cherche a donner au trone un volume epais, mais qui conserve la vivacite chromatique du maitre.
+
+Pour lattribution voir surtout la Vierge et PEnfant du Kaiser Friedrich Museum a Berlin. Il s'agit probablement de l'oeuvre d'un dsciple de Sassetta qui allonge la figure de la Vierge et
+
+## SANO DIPIETRO
+
+Vivait a Sienne de 1406a 1481
+
+## 61 LAVIERGEAVECLENFANT
+
+decore d'or avec revers jaunes, ouvert sur la poitrine et laissant voir une robe rouge doree. La tunique de l'Enfant Jesus est rouge vineux ornee d'or avec des manches jaunes. Les chairs sont claires, rosees, verdatres;les yeux grands ouverts.
+
+Fond d’or.—Bois.—Hauteur 28, largeur 2I centimetres.
+
+d'autres ceuvres du maitre:la Vierge du Musee de Bruxelles,la Vierge du Conservatorio Femminile a Sienne, celle de l'Oratoire de S. Bernardin a Sienne, etc.
+
+Provient de la collection Georges Spiridon,le pere. Cite parmi les ceuvres de Sano par Van Marle (op cit. IX, 53o).
+
+## MAITRE OMBRIEN
+
+de la moitie du XVe siecle
+
+## 20 VISION FRANCISCAINE
+
+Sur le bord d’'un sarcophage rose et vert sombre le Christ est assis, soutenu des deux cotes encensoir. Au premier plan devant le sarcophage sont agenouilles saint Frangois d'Assise et saint Bernardin. Au milieu, entre les deux saints,le calice surmonte d'une hostie portant le monogramme du Christ. Le fond est bleu fonce.
+
+Bois.-Hauteur 39,largeur 28.5 centimetres.
+
+On trouve un style tres semblable a celui de ce tableau dans deux volets representant saint Jean et saint Jacques, du Musee Johnson de Philadelphie (No. 98 du catalogue de devient evident, quand on le compare avec le triptyque de leglise du SaintSauveur a Foligno.
+
+M. Berenson) et attribues a un maitre siennois. Mais le caractere ombrien de cette ceuvre C'est la meme maniere de faire les plis des vetements, les memes mains allongees,la meme exactitude decorative.
+## 22
+
+## 23
+
+## LAVIERGE ET L'ENFANT
+
+manteau bleu fonce qui est ferme par une broche; il laisse apercevoir une robe rouge bordee de petites palmettes d'or.
+
+## MAITRE GOTHIQUE EMILIEN
+
+de la premiere moitie du XVe siecle
+
+## 2I LAVIERGEETL'ENFANTAVECDEUX ANGES
+
+dans une prairie feurie. Habillee d'une robe rouge a ceinture doree et d'un manteau bleu clair, elle offre un petit oiseau a lEnfant Jesus debout sur ses genoux. Sur la tete de la Vierge, couverte d'un voile blanc, deux anges en rouge tiennent une couronne.
+
+Fond d’or.—— Bois.—Hauteur 56, largeur 29 centimetres.
+
+Cette ceuvre a éte publiee par Van Marle （op. cit. VIl, 235) qui l'attribue a un maitre de l'ecole de Romagne et qui la compare avec une autre Vierge qui est conservee maintenant dans la Galerie de Ravenne. Mais dans le tableau Spiridon les formes sont plus en relief et plus definies, il y a plus de force de modelage, moins de souci de la decoration, quelque chose qui rapproche le maitre emilien du gouit de Jacopo Bellini.
+
+## COMPAGNO DI PESELLINO Moitie du XVe siecle
+
+- LA VIERGE ET L'ENFANT SUR UN TRONE AVEC SAINT PIERRE ET SAINT JACQUES
+
+Sur un fond or se dresse un trone en pierre grise. La Vierge y est assise et souleve dans ses bras Enfant Jesus nu. Elle est nu tete avec des cheveux blonds et porte une robe rouge grenat et un manteau bleu, presque noir dans les ombres, decore d'or. Saint Pierre a gauche, en vert clair et en jaune, et saint Jacques a droite, en vert fonce et en rose.
+
+Fond dor.—Bois.—Hauteur 55, largeur 35-5 centimetres.
+
+C'est lceuvre d'un peintre qui se revele tres clairement un disciple de Pesellino et qui en rappelle fidelement les compositions. Pour la forme du trone, la disposition des personnages et larrangement des draperies,voir le tableau de Pesellino du Musee Johnson de Philadelphie (No. 35 du catalogue de M. Berenson). Le No. 36 de la meme collection est un tableau du ",Compagno di Pesellino": on y voit les memes changements apportes au style de Pesellino que dans ce tableau de la collection Spiridon.
+
+## ANTONIAZZO ROMANO
+
+TravaillaitaRomede146oa 1508
+
+Fond dor.-Bois.—Hauteur 4o, largeur 28 centimetres.
+
+C'est surement une ceuvre d'Antoniazzo Romano, peinte quand deja linfluence de Melozzo
+
+Provient de la collection du marquis Ludovic De Magny a Nice.
+
+faiblissait et que celle du Perugin apparaissait.
+- 24 SAINTDOMINIQUE
+
+## LORENZO DI CREDI
+
+Vivait a Florence de 1459a 1527
+
+Dans une niche rouge fonce, bordee de gris, se dressant sur un plancher gris,apparait saint Dominique, enveloppe dans un manteau noir sur une robe blanche. Il indique en haut Dieu qui se manifeste par des rayons.
+
+Bois.—-Hauteur 31.5, largeur 2o centimetres.
+
+C'est un chef-d'ceuvre de la jeunesse de Lorenzo di Credi. Bien rarement il a peint un tableau plus frais d'inspiration,plus riche de couleur et d'expression. Avec une extreme simplicite de tons il a obtenu un accord qu'il serait difficile dimaginer plus exquis: le noir prend des reflets violets,le blanc des vibrations de rose, qui ont une intensite tout a fait exceptionnelle dans lceuvre du maitre.
+
+## ANDREA MANTEGNA (Ecole de)
+
+Padoue, seconde moitie du xVe siecle
+
+Bois.—Hauteur 38, largeur 33 centimetres.
+
+- LE BAISER DE JUDAS
+
+Le ciel est sombre, parseme d'etoiles. A droite s'eleve un rocher nu; sur la multitude s'agitent des lances, des hallebardes, un etendard avec le scorpion, une torche famboyante. Les soldats romains, casques et cuirasses, se pressent autour du Christ. Deux d'entre eux lont deja saisi; un troisieme, portant un bouclier en metal repousse, est en train de tirer son epee. Le Christ debout, vetu de blanc avec un manteau bleu clair, regoit le baiser de Judas. Celui-ci porte une robe rouge et a un profil prognathe et une aureole noire. En bas,a gauche, saint Pierre coupe loreille d'un des serviteurs du grand pretre.
+
+Parmi les eleves de Mantegna,1 l'auteur de ce tableau est caracterise par les visages carres, les grands yeux au regard fixe. Il na pas la ligne tourmentee d'un Parentino, mais possede un gout exquis de la couleur. Ses blancs, ses rouges,ses jaunes chantent,rehausses de l'auteur de ce tableau est celui qui a peint les fresques de l'école des Ss. Sebastien et Marc a Padoue, dont deux fragments sont conserves au Musee Municipal de Padoue et dans le Musee de l'Universite dans la meme ville. ll fut probablement un collaborateur de Mantegna dans les fresques des Eremitani et conserva dans ses personnages le caractere grandiose et sommaire qui est caracteristique dans les fresques.
+
+Provient de la famille des Conti Gallotti di S. Alessio (Pavia).
+
+## ANDREA MANTEGNA (Ecole de)
+
+- LA CENE
+
+Padoue, seconde moitie du XVe siecle
+
+Sur le fond or, grave, le Christ et les douze Apotres sont assis sur des bancs de bois sculptes autour d'une table mise. Le Christ est en train de dire en regardant Judas:,L'un de vous va me trahir'. Pres de lui saint Jean est penche en avant, s'appuyant sur la table. Les autres apotres regardent emerveilles. Au premier plan Judas, assis de profil un peu a l'écart,vetu d'un gauche les autres apotres, comme s'il voulait ecarter de lui la prophetie du Christ. Le Christ est vetu de blanc avec un manteau bleu clair et l'aureole croisee de rouge. Tous les apotres, a l'exception de Judas, ont une aureole d'or. L'un d'eux, assis pres de Judas, vu de dos, est habille en blanc, les autres en vert et bleu avec des manteaux rouges ou jaunes.
+
+Fond d’or.-Bois.-Hauteur 38, largeur 33 centimetres.
+
+Pour la critique du tableau voir ce qu'on a dit du pendant au numero precedent. Provient de la famille des Conti Galotti di S. Alessio (Pavia).
+
+## 25
+
+## 26
+## 27
+
+## CARLO CRIVELLI(Attribue a) Venise,2e moitie du XVe siecle
+
+## LA VIERGEETLENFANT,DEUX ANGESETLA FAMILLEDES DONATEURS
+
+La grande figure de la Vierge, assise sur le trone, etale toute la richesse chromatique et decorative de son ample manteau. Les aureoles, les agrafes du manteau, des manches, du tout est en relief de pastille doree. L'or est repandu partout dans les decorations. Sur le fond de ciel des branches de fruits se penchent sur le grand trone construit en pierre grise,mais decore de couleurs brillantes. Le dossier est encadre d'un bandeau bleu et or, et dans la partie centrale, il est rouge, orne de losanges d'or contenant le monogramme de saint Bernardin. Les bras du trone sont decores de frises brunes, bleues, rouges et or. Le manteau de la Vierge de brocart est bleu vert avec des compartiments bleu-pale a decorations dorees dont le motif principal est constitue par lartichaut et sa feur. L'Enfant Jesus porte une chemise jaune dans la lumiere et verte dans les ombres, et une ceinture jaune, rouge et blanche; il tient sur sa main gauche un oiseau et dans sa droite une poire. Au dessous du manteau on voit les pieds de la Vierge, chausses d'or, sur une estrade decoree de reliefs bruns. En haut, derriere le trone, deux anges font de la musique. En bas, les bustes des donateurs, vus de profl. A gauche un homme, vetu de rouge,les mains jointes cachees dans un bonnet ecarlate, le profil accentue. A droite quatre femmes: l'une d'elles,vetue d'une robe noire avec un voile sur la tete, tient entre les mains un livre d'heures et un rosaire; plus en bas une autre femme et deux jeunes filles prient; elles sont ornees de voiles, de perles et de bijoux. Sur l'estrade du trone on lit une signature qui semble ancienne:
+
+## OPVS.KAROLI.CRIVELLI.VENETI.
+
+Bois.—Hauteur 14o, largeur 65 centimetres.
+
+decoratif est tout a fait exceptionnel, tout a fait digne de Carlo Crivelli, et explique a lui seul l'attribution et la signature.
+
+Ce tableau est une harmonie tres riche de couleurs chaudes, claires, brillantes. L'effet
+
+Mais le dessin a un caractere plus constructif, que dans l'euvre de Crivelli, et moins decoratif;les ombres sont mieux faites pour relever les formes, la ligne est moins incisive. Les portraits par leur elegance offcielle, revelent enfin le style lombard du tableau. Alors on s'apergoit que les visages des deux anges ont le type aime de Foppa, que le dossier du trone est decore comme un email lombard; que le gout des dorures et des decorations du trone se retrouve dans le retable de la Pinacotheque de Brera, ou Ludovic le More et sa famille sont agenouilles devant la Vierge. En outre, le retable attribue a Butinone chez le Duc Scotti a Milan montre un gout de costumier tout a fait semblable; et le polyptyque de Treviglio, ou Butinone et Zenale travaillerent ensemble, revele des affinites de decor et de types tres impressionnantes, surtout dans les volets peints par Zenale ou l'on trouve des mains dessinees de la meme maniere que dans le tableau de la collection Spiridon. Peut-etre exceptionnelle dans lhistoire de la peinture lombarde du XVe siecle, comme trait d'union entre Padoue et Milan, entre Crivelli et les maitres de Treviglio.
+## 28 UN ANGE MUSICIEN
+
+Sur un fond de cuir dore, orne de motifs empruntes a lartichaut et a sa feur, debout sur un manteau rouge écarlate, tous les deux bordes d'or.Les cheveux blonds retombent sur ses epaules;
+
+Bois.—Hauteur 113, largeur 39 centimetres.
+
+la viole est jaune claire.
+
+C'est lceuvre d'un maitre qui s'inspire surtout de l'art de Carlo Crivelli. Les draperies sont tourmentees pour faire ressortir les volumes solides; la main est allongee parce que le peintre sacrifie volontiers au gout de la ligne et la viole a la valeur d'un corps regulier en perspective. Les couleurs nettes et vives, sont composees dans le but decoratif cher a Crivelli, mais aussi avec un sens de la valeur des ombres et des lumieres qui revele une infuence indirecte de Piero della Francesca.
+
+## VITTORIOCRIVELLI
+
+Travaillait de 148r au commencement du XVIe siecle
+
+## LA VIERGE ETL'ENFANT
+
+Sur un fond de ciel bleu est tendu un drap de velours rouge rehausse d’or. Derriere un parapet de pierre se dresse la Vierge en buste; elle tient l'Enfant Jesus, qui est assis sur un coussin de cuir. Des bandelettes brunes lui enveloppent en partie le corps nu:il porte un collier et un bracelet de corail, il tient dans sa main gauche une grosse pomme, et benit de sa droite. La Vierge, coiffee ala mode du quattrocento, un foulard entrelace dans les cheveux, est habillee d'une robe rouge et d'un manteau bleu double de vert. En haut, autour des saintes figures un arc est dessine avec une couronne de fleurs clairsemee.A droite sur une fleur est pose un petit oiseau bariole,lie par un long fil rouge au coussin de l'Enfant.
+
+Bois.-Hauteur 4o, largeur 27 centimetres.
+
+L'effet decoratif de ce tableau est tres agreable. La couleur en fait une des ceuvres les plus charmantes de Vittorio Crivelli, sans la rigueur du dessin, mais avec la valeur decorative du grand Carlo Crivelli.
+
+## 29
+
+## CARLO CRIVELLI(Ecole de)
+
+Venise,seconde moitie du XVe siecle
+## 30
+
+## FRANCESCO DEL COSSA(Ecole de) Ferrare. Seconde moitie du XVe siecle
+
+## SAINT JEROME ET SAINT ETIENNE
+
+La ligne d'horizon tres basse et l'ampleur du ciel donnent un air de grandeur tout particulier aux deux personnages. Saint Jerome est drape dans un manteau rouge ecarlate avec des revers blancs d'ou sortent les manches blanches de la robe et les gants blancs. ll porte dans ses mains le modele d'une eglise, peut-etre celle pour laquelle fut originairement peint le tableau. A ses pieds est pose le chapeau cardinalice et un lion. Saint Etienne, avec une robe blanche presque entierement couverte par une dalmatique brune pointillee d'or et ornee des bandes de velours vert brode d'orfrois, tient dans ses mains un calice. Le paysage du fond, d'une couleur verdatre, est tout varie de rochers fantastiques, de cavernes, de routes profondement taillees dans la pierre; et au lointain apparaissent des chapelles et des maisons.
+
+Bois.-Hauteur 44,largeur 32.5 centimetres.
+
+Le paysage, les types et la maniere de plier les draperies montrent tres clairement leur Jerome avec l'autre du meme saint a lAteneo de Ferrare. L'auteur du tableau Spiridon a conserve le grandiose de construction des figures du maitre, tout en allongeant leurs proportions, et en tachant de rendre delicate la ligne des contours.
+
+## ANTONELLO DA MESSINA(Ecole de) Seconde moitie du xVe siecle
+
+## 31 SAINT ALPHONSE DE LIGUORI
+
+Le saint se dresse monumental a mi-corps sous un arc qui encadre le fond de ciel. La tete est nimbee d'une aureole d'or. Il porte une ample robe de bure noire; il tient de la main droite un livre a reliure rouge et de la gauche un Crucifix.
+
+Bois.-Hauteur 72,largeur 46 centimetres.
+
+C'est un des plus beaux morceaux de l'ecole sicilienne d'Antonello, tres fort d'expression rude et d'ampleur, ayant tous les caracteres d'un portrait. On connait une autre ceuvre du meme maitre a l'oratoire de la Paix a Messine, representant la Vierge du Rosaire (Voir A.Venturi, Storia Vll, 4, p. 58). Le type du saint se retrouve exactement dans plusieurs personnages de la multitude qui adore la Vierge dans le tableau de Messine. Sa maniere est assez semblable a celle d'Antonello de Saliba, mais plus forte et plus rude.
+## 33
+
+## LORENZO COSTA (Ecole de) Ferrare.Debut du XVIe siecle
+
+## 32 LA VIERGEADORANTL'ENFANTJESUS
+
+Un rideau vert tire a droite laisse paraitre a gauche un fond de ciel et de paysage avec des montagnes bleu clair et un groupe d'arbres autour d'un chateau. Au premier plan, derriere un parapet gris, se dresse la Vierge en buste, vetue dune robe rouge fonce et d'un manteau bleu a doublure grisrose. Elle adore lEnfant Jesus nu, assis sur le parapet,appuye sur un coussin gris clair et tenant dans sa main droite trois poires.
+
+Bois.—Hauteur 44, largeur 31 centimetres.
+
+Les couleurs sont tres semblables a celles de Lorenzo Costa,en particulier le ton rouge de la robe de la Vierge. La forme de la Vierge est fidele au style de Lorenzo Costa, mais dans lEnfant Jesus perce quelque peu d'influence raphaelesque.
+
+## PIETRO PAOLO DA SASSOFERRATO
+
+Circa1470-1540
+
+## LA VIERGE ETL'ENFANT ENTRE UNADORATEUR NOBLEETSAINTEMYGDIUS
+
+Fond de paysage. La Vierge et les deux saints apparaissent en buste derriere un large parapet de velours brun a ramages. La Vierge porte une robe rouge vineux et un ample manteau bleu
+
+Bois （transporte sur toile）.-Hauteur 76, largeur 104 centimetres.
+
+sur lequel est etendu un tapis oriental rouge, blanc et bleu. Derriere la Vierge assise, un drap etoile d'or et double de vert; elle soutient lEnfant Jesus nu, debout sur ses genoux. A gauche, l'adorateur enveloppe dans un ample manteau rouge double de violet;a droite, saint Emygdius avec une mitre,une crosse,une chape ornee dorfrois a images de saints,des gants blancs rodes et un livre rouge;il regarde devant lui.
+
+C'est suirement une ceuvre de Pietro Paolo da Sassoferrato, peintre qui a commence a se donner un style a la Cima da Conegliano et apres s'est approche de Antonio Solario. L'Enfant
+
+Jesus et la Vierge du tableau Spiridon semblent l'ceuvre de Solario lui-meme.
+
+## GIAN MARTINO SPANZOTTI)
+
+Travaillait en Piemont de 147o a 1520
+
+## 34 LA VIERGEETL'ENFANT
+
+e de vert； ses cheveux chatains ont des reflets, sa robe est d'un rouge intense. Sur sa poitrine, un linge blanc qui a des reflets violaces. Elle tient dans ses bras l'Enfant Jesus couche dans un linge blanc avec des refets bleuatres. Le ton des chairs est rose,et les nuances du clair-obscur sont bien delicates.
+
+Bois.—Hauteur 49, largeur 39 centimetres.
+
+Cette euvre semble de la derniere periode de lactivite de Spanzotti. Dans le dessin on voit que les formes de Foppa deviennent plus incisives et le peintre donne plus dimportance a la ligne,parce qu'il subit linfuence de lecole gothique transalpine.Les couleurs,qui sont legerement apres et tres brillantes,et la maniere d'eclairer les cheveux, ont ete tres imitees par Peleve de Spanzotti, Defendente Ferrari.
+35 PIETA
+
+Sur un fond vert fonce la Vierge, Marie-Madeleine, saint Jean l'Evangeliste et deux autres saintes femmes sont disposes autour du sarcophage et soutiennent le Christ qui est assis sur le bord, les bras etendus. Sur le ton gris fonce du sarcophage se dresse le ton gris clair du cadavre, a peine interrompu par le linge blanc raye de vert. Marie-Madeleine porte une echarpe jaune, une robe bleue et un manteau r rouge e ecarlate et se penche pour baiser la main du Sauveur. La sainte femme qui est derriere elle, est enveloppee d'un chale blanc. Au milieu la Vierge, vetue de bleu, porte une guimpe blanche;plus a droite une autre sainte femme cache son visage dans un fichu orange; enfin saint tJean soutient la main gauche du Christ et est habille d'une robe verte et d'un manteau rose. Les cheveux blonds ou bruns sont éclaires d'or.
+
+Bois.-Hauteur 66,largeur 85 centimetres.
+
+C'est une des plus hautes expressions de l'art de Defendente eFerrari,non seulement pour intensite de la piete religieuse qui y est exprimee,mais aussi pour la hardiesse chromati que: les ombres de l'echarpe jaune de Marie-Madeleine ont une sensibilite tout a fait moderne. La composition est particulierement heureuse:elle deploie une liberte personnelle de sentiment, et en meme temps elle se rattache aux grands rythmes de l'art du Moyen age,a la vie des,Mysteres".
+
+## DEFENDENTE FERRARI
+
+Travaillait en Piemont de 15ir a 1535
+
+Provient de la collection Georges Spiridon, le pere. Publie dans 1'Emporium (Decembre 1916,p.419.)
+36 LEDA
+
+Le ciel qui est sombre en haut s'eclaircit a lhorizon, ou quelques montagnes bleues et claires disparaissent dans la lumiere repandue.La terre,que la nuit prochaine rend deja sombre,regoit quelques rayons du soleil couchant sur les arbres, sur quelques maisons de style frangais et sur une riviere qui coule pres des maisons lointaines et qui reapparait derriere Leda. Un rocher tout pres du premier plan et tres haut limite la scene, de maniere que le paysage lointain se presente comme un souvenir;le rocher est taille en pierre tendre, comme on aimait le peindre au XVe. siecle, mais il a deja les jeux de lumiere que Leonard a decouverts dans son art et dans la nature au coucher du soleil. Au premier plan est representee une prairie dont les herbes sont entretenues dans une belle fraicheur par lev voisinage de la riviere,et dont les feurs exquises blanches et bleues temoignent de la belle saison. Debout et nue, Leda recoit la caresse du cygne:les chairs brunes, legerement rougeatres,rappellent la vision crepusculaire;elles s'accordent tres finement avec les cheveux qui ont des reflets de cuivre. Le corps, qui est abandonne sur le pied droit, se penche en avant sur lepaule droite, dans la caracteristique position des membres recherchee par Leonard, en depit de l'abandon alterne des statues classiques. Dans cette attitude les ombres peuvent mieux envelopper le corps nu, sans en amoindrir le volume. Le mouvement des chairs acquiert ainsi la solidite des statues de marbre et la souplesse exquise de la penombre. Les fleurs blanches que Leda tient devant le corps du cygne brillent sur le fonce de la masse bleu gris, qui est un peu ferme,mais qui dans les ailes blanches reprend ses nuances delicates.
+
+Le visage de Leda est baisse pour donner au sourire des levres et des yeux l'aspect de la modestie, sous le regard du cygne plein de desir qui l'enveloppe. Pres de Leda les ceufs ont laisse eclore ses quatre enfants: Castor et Pollux, Helene et Clytemnestre, qui regardent leur mere, avec des mouvements souples et rapides, tres frequents chez Leonard. L'unite de l'effet de la lumiere depend d'un principe indique par Leonard: le corps humain doit etre plus clair que les zones foncees du fond et plus fonce que les zones claires de ce fond. C'est le principe qui permet d'allier un solide relief a une souplesse infinie.
+
+Une Leda de Leonard est citee par l'Anonimo Magliabechiano vers 154o. Gian Paolo Lomazzo en 1584 (Trattato della Pittura) et en 159o (Tempio della Pittura) parle avec plus de details de cette Leda ignuda" qui se trouve avec la Joconde ,nella fontana di Belao"(a Fontainebleau);； vergognosamente abbassa gli occhi (elle baisse les yeux par modestie). En 1625 Cassiano del Pozzo decrit ainsi leuvre de Leonard vue a Fontainebleau ,Una Leda in piedi quasi tutta ignuda, col cigno e due uova a pie della figura, dalle guscia delle quali si vede esser usciti 4 bambini Questo pezzo e finitissimo, ma alquanto secco, emassime il petto della donna; del resto il paese e la verdura e condotta con grandissima d diligenza; et e molto per la mala via,perche come che e fatto di 3 tavole per lo lungo, quelle scostatesi han fatto staccar assai del colorito'.
+
+Donc il y a eu un tableau peint par Leonard sur trois planches representant Leda nue, debout, certaine impression
+
+Et si les sources ecrites ne laissent aucun doute pour identifier dans le tableau Spiridon celui de Leonard que Lomazzo savait a Fontainebleau et que Cassiano del Pozzo a tres diligemment avec le cygne, deux cufs, quatre enfants; le tableau etait tres fini, si fini qu'il donnait une de secheresse; mais le paysage et la prairie etaient admires a cause de voit dans le tableau Spiridon; on y trouve les trois planches sur lesquelles on a peint le tableau, les memes details jusqu'aux deux ceufs pour quatre enfants, le meme fini qui est un peu sec a notre gout et qui n'est pas dans les habitudes de Leonard, enfin l'execution poussee a l'extreme des fleurs du premier plan.
+
+decrit, les sources iconographiques ne sont pas moins explicites.
+
+A la page 156 r. du Codice Atlantico Leonard a dessine une Leda debout qui correspond tres bien au motif du tableau Spiridon (Muiller-Walde, Eine Skizze L's zur stehenden Leda:
+
+## LEONARD DE VINCI
+
+Vinci 1452,Amboise 1519
+Jahrbuch d. Konigl. Pr. Ksts. XVIll (1897), p. 46); et on retrouve le meme dessin a la page 24 du Ve volume de l'Anatomie de Windsor. A la page go du Codice Atlantico Leonard a dessine un village pres d'une riviere entouree d'arbres qui peut representer lentourage de l'hotel du Cloux. En tout cas, la forme des toitures et le rapport des maisons, de l'eau et des arbres, correspond tres bien avec le fond du tableau Spiridon. (Luca Beltrami, A proposito della ,Leda di Leonardo da Vinci, llustrazione Italiana,XLVI (1gi9,p. 648).Encore a Windsor a la Bibliotheque Royale, on trouve quatre dessins de Leonard, et a la Bibliotheque Ambrosiana de Milan un dessin de Leonard, pour la tete de Leda:et a travers les essais et les corrections on sent que l'artiste tache d'arriver a la forme que nous voyons dans le tableau Spiridon.
+
+Raphael a copie dans un dessin conserve a Windsor la composition de Leonard, peut etre d'apres le carton ou d'apres un dessin du maitre: on y voit des differences qui mettent en evidence la personnalite de Raphael meme lorsqu'il copiait; et on retrouve ces differences dans un tableau de la Galerie Borghese de Rome, attribue au Sodoma,ou en effet les influences de Leonard s'entrecroisent avec celles de Raphael.
+
+Un inventaire des peintures de Fontainebleau de 16g2-1694 mentionne encore ,une Leda peinte sur bois de Leonard de Vinci". Mais en 1775, quand Carlo Goldoni fit a Paris des recherches pour voir le tableau, il s'en etait perdu jusqu'au souvenir. A l'exposition de 1874 ouverte a Paris pour l'Alsace et la Lorraine, le marquis de la Roziere envoya une ,Leda" tres abimee et salie, qui passa apres la mort du marquis au Baron de Rouble. Malgre les dommages et les repeints, ce tableau fut considere par M. Berenson comme lceuvre authentique de Leonard et publie comme tel a la page 3o, de la troisieme serie du Study and Criticism of Italian Art. Monsieur L. de Spiridon acheta le tableau a la Baronne de Rouble, et par un nettoyage tres soigne il fit ressortir la perfection de la peinture authentique. Plusieurs connaisseurs se sont joints a M. Berenson； d'autres,comme M. Adolfo Venturi, tout en reconnaissant ,l'execution ,trop precieux et trop classique, et que dans sa forme elegante il donne limpression d'un relief dans les tableaux de Leonard. Peut-etre les autres tableaux sont-ils plus abimes que la Leda, et les idees de Leonard sur le fini ne correspondent e elles pas tout a fait avec les notres. Peut-etre un eleve Melzi) a-t-il fini en France le tableau peint par Leonard a Milan entre 1508 n'en savons rien. Ce qui importe, c'est de se rappeler que ce fini, qu on reproche au tableau Spiridon, etait dans le tableau que Cassiano del Pozzo vit a Fontainebleau,et qui etait le ,Leda" de Leonard. L'identite des deux tableaux est donc demontree.
+
+Plus fideles au modele de Leonard sont les copies de la Galerie Johnson a Philadelphie d'un maitre famand du XVle siecle (Valentiner, Cat. of a Coll. of Paintings, IⅡI,1913,n.393)et celle de la collection Oppler de Hanovre, elle aussi du XVle siecle. La figure de Leda reste a peu pres fdele, mais le paysage est tout a fait change et ne correspond pas aux necessites du clair-obscur leonardesque.
+
+Bois.-Hauteur 131,largeur 78 centimetres.
+
+Leonardo Da Vinci. La vita di Giorgio Vasari ... a cura di Giovanni Poggi. Firenze, 1919,pag.XxxVle seg.
+
+L.Beltrami.A proposito della ,Leda di Leonardo da Vinci. L'llustrazione Italiana,
+
+B.Berenson,Study and Criticism of Italian Art,vol.ll,London,1916,pag.30. Giulio Carotti,Leonardo da Vinci, Torino 192I,pag. 83 e seg.
+
+21 dicembre 1919.
+
+- A. de Rinaldis. Storia dellopera pittorica di L. da V., Bologna 1926 pag. 215 e seg.
+
+A.Venturi.Leonardo da Vinci pittore. Bologna,192o. pag. 154 e seg.
+
+- O.Siren.Leonardo da Vinci,1916,p.186-r94.
+
+Popp, Leonardo da Vinci Zeichnungen, Munchen, 1928.
+
+W.v. Seidlitz,Leonardo da Vinci, 1go9, p.297.
+38
+
+## BARTOLOMEO SUARDIdit LE BRAMANTINO EcoleLombarde.Vecut de148oa1529environ
+
+## 37 LA VIERGE NOURRISSANT L'ENFANTJESUS
+
+Sur un fond de ciel et de paysage, tres petit et bien lointain, se detache la Vierge, prise qui a laspect d'un turban. La chemise blanche est brodee de rouge, le costume est rouge et le manteau vert fonce. Le linge de l'Enfant Jesus est jaune brillant.
+
+Bois.-Hauteur 57.5 largeur 42.5 centimetres.
+
+La plus ancienne ceuvre de Bramantino que l'on connaisse jusquici est l'Adoration de la tableau Spiridon, non seulement comme type, mais aussi en ce qui concerne les intentions perspectives abstraites qui sont le propre de Bramantino, et qui sont evidentes dans le turban. Les couleurs aussi sont tout a fait caracteristiques du maitre, parce qu'elles maintiennent leur intensite meme sous un clair-obscur tres pousse. Or comme le dessin de l'Enfant Jesus est un peu plus primitif que dans les autres ceuvres de Bramantino, on peut croire que ce tableau est la plus ancienne ceuvre connue du maitre;il nous temoigne en outre des rapports que l'auteur a eu dans sa jeunesse avec les peintres de lancienne ecole lombarde, comme
+
+Butinone et Zenale.
+
+CLEOPATRE
+
+Sur un fond constitue par un rideau vert clair, apparait le buste de Cleopatre. Ses cheveux bruns en partie entrelaces d'un voile violace forment un turban orne d'un joyau et retombent sur les epaules. Son buste est presque nu,a peine voile a droite par une chemise transparente. De sa main droite elle tient l'aspic qui l'a deja mordue.
+
+## BALDASSARRE PERUZZI
+
+Vivait a Sienne de1481 a 1536
+
+Bois.-Hauteur 72, largeur 54 centimetres.
+
+La mise en place est raphaelesque, mais les couleurs sont quelque peu ressemblantes a celles du Sodoma. Le dessin ferme et net, le clair-obscur magistral qui determine solidement du cinquecento. Pour l'attribution on peut comparer ce tableau avec la Venus de Baldassarre les volumes, font de cette ceuvre de Baldassarre Peruzzi un exemple superbe de l'art romain Peruzzi qui est a la galerie Borghese a Rome, et avec la Ceres de la collection Hertz,laquelle est maintenant au Musee du Palazzo Venezia,a Rome egalement.
+
+Provient de la collection Georges Spiridon,pere.
+## 39
+
+## NICCOLO SOGGI Travaillait a Florence,ne vers 1474,mort a Arezzo 1554
+
+## LA VIERGE ET L'ENFANTAVEC SAINTJEROME ET SAINT ANTOINE DE PADOUE
+
+Trois arcades en pierre brune decoree s'ouvrent sur un fond de paysage, ample et vert. Sous larcade centrale est assise la Vierge, vetue de rouge, avec un manteau bleu double de jaune; elle tient sur ses genoux PEnfant Jesus nu, qui serre dans sa main gauche une grenade et dans sa droite une poire. Au premier plan est agenouille a gauche saint Jerome, les chairs droite, saint Antoine avec un livre rouge et un lis.
+
+Bois.-Hauteur 64,largeur 56 centimetres.
+
+Niccolo Soggi dans ce tableau s'inspire evidemment de Lorenzo di Credi. La forme et les ornements des trois arcades appuyees sur deux estrades proviennent du tableau de Lorenzo di Credi representant la Vierge et l'Enfant Jesus entre deux saints qui est maintenant au Musee au Louvre. Le type de la Vierge et celui de I'Enfant sont aussi tres ressemblants, mais les saints presentent deja les caracteres du cinquecento. Pour l'attribution a Soggi,voir et deux anges.
+
+Provient de la collection Schopp de Nice, 1918.
+
+ANDREA DEL SARTO (Replique d'ecole)
+
+Ne a Florence en 1486,mort a Florence en 1531
+
+## 40 LASAINTE FAMILLE
+
+Fond de ciel éclaire d'une lumiere a lhorizon, ou sont indiquees des montagnes d'un ton gris fonce; a gauche on apercoit des ruines avec des colonnes d'une couleur brune. Saint Joseph dort vetu d'une robe brune. La Vierge est vetue d'une robe rouge qui devient jaune dans les lumieres; elle porte sur sa robe une echarpe blanche. Elle regarde l'Enfant Jesus qui est assis par terre sur les plis de sa robe et qui s'appuie sur un coussin blanc, les yeux leves vers sa mere. Le petit saint Jean Baptiste se tient debout derriere l'Enfant Jesus.
+
+Bois.-Hauteur 135, iargeur 1oo centimetres.
+
+La matiere de la couleur garantit que ce tableau est du XVle siecle. ll reproduit tres fidelement la Sainte Famille d'Andrea del Sarto qui est au Palais Pitti a Florence. Il y a seulement quelques changements dans les couleurs:a Florence le fond est verdatre et clair; ici il est sombre et les ruines ont un ton brun. A Florence saint Joseph est vetu de violet avec un chale vert, ici sa robe est brune avec un chale fonce. Le manteau de la Vierge est bleu a Florence, gris ici; et son voile dans le tableau Pitti est d'un rouge violace,tandis que dans celui-ci il est blanc. Comme la Sainte Famille de Florence est evidemment le prototype, on doit juger le tableau Spiridon comme une replique contemporaine d'atelier.
+
+Provient de la collection Georges Spiridon. Des memoires de la maison Spiridon,il ressort que M. Georges Spiridon a regu ce tableau a la suite d’un echange fait avec le Cardinal Fesch.
+## 41 LA VIERGEEN PRIERE
+
+Sur un fond noir encadre par une arcade en pierre grise ayant les piliers et les chapiteaux ornes d'un marbre polychrome, la Vierge apparait a mi-corps,les mains jointes. A droite larcade est en partie cachee par un rideau orange. La Vierge porte une robe rouge d'ou sortent les manches jaunes, un manteau vert fonce double de vert clair et, sur ses cheveux blonds, un
+
+Bois.-Hauteur 76,largeur 65 centimetres.
+
+voile blanc.
+
+Gabriel qui est au Musee Johnson de Philadelphie (No. 198 du Catalogue de M. B. Berenson) M. Berenson (op. cit. p. 124) observe que cette ceuvre est peut-etre la plus primitive des cuvres de Vincenzo Pagani et temoigne de l'influence d'un de ses maitres, Antonio da Faenza. Les contours des formes tres accentues et les couleurs tres brillantes attestent le caractere primitif du tableau.
+
+Provient de la collection Georges Spiridon, le pere.
+
+## ALESSANDRO ALLORI
+
+Vivait a Florence de 1535a1607
+
+## 42 PORTRAITD'UNJEUNECHEVALIER
+
+Sur un fond gris vert se dresse le buste du jeune chevalier. ll a les cheveux et les yeux noirs, les chairs pales;il porte un costume noir et une grande collerette blanche plissee, un collier d'or et tient de sa main gauche un epee damasquinee d'or.
+
+Bois.-Hauteur 74, largeur 55 centimetres.
+
+Dans le Musee Johnson de Philadelphie il y a un portrait de jeune homme No.282 du catalogue de B. Berenson,) qui est tout a fait ressemblant et jusque dans les moindres details a celui de la collection Spiridon. M. Berenson, d'apres le Docteur Frizzoni, croit qu'il sagit d'une ceuvre de Bartolomeo Schedoni. Mais le style appartient a la tradition florentine du XVIe siecle et en particulier a la maniere de Alessandro Allori. On peut tres bien le comparer avec le portrait de Lucrezia Minerbetti,morte en 158o,qui est dans la Galerie du Seminaire a Venise. Dans lceuvre d'Alessandro Allori, ce tableau est certainement un des plus beaux pour sa liberte pittoresque et pour la beaute de sa matiere.ll est superieur a l'exemplaire
+
+Johnson, qui apparait plus fumeux dans le clair-obscur et plus incertain dans le dessin.
+
+Provient de la collection Georges Spiridon. Celui-ci l'acheta aux heritiers du Marquis Joseph Lepri, auquel avaient ete dediees les ,Serie degli uomini illustri nella pittura scultura e architettura"Firenze 1773.
+
+## VINCENZO PAGANI
+
+Vecut dans les Marches de 14go a 1568
+## 44
+
+## SANTIDI TITO
+
+Ne a Florence en 1538,mort en 1603
+
+## 43 PORTRAIT DEJEUNE FEMME
+
+Sur un fond sombre est peint un buste de femme. Ses epaules sont recouvertes d'un riche manteau vert fonce brode d'or et de perles, laissant voir une partie du corsage rouge orne de gros bijoux, de perles et une manche brodee d'un dessin plus fin.Autour du cou est une collerette de dentelle souple tuyautee. Ses cheveux frises et blonds sont ornes d'une parure emperlee.
+
+Bois.-Hauteur 54,largeur 41 centimetres
+
+L'ensemble est tres riche et tres aristocratique;le dessin est ferme et les ombres du visage claires, le type et la mise en place rappellent Angelo Bronzino. ll s'agit tres proba blement d'une ceuvre de Santi di Tito, peinte avec l'exactitude d'un enlumineur et avec un gout bien vif de la decoration.
+
+Provient de la collection Georges Spiridon, le pere.
+
+## ECOLE VENITIENNE Debut du xVle siecle
+
+## JESUS ET LA VIERGE CHEZ DEUXJEUNES EPOUX
+
+La scene est constituee par une chambre dont les murs rouges sont ornes en haut d'une frise, en bas d'un velours vert contre-taille. On voit sur la paroi du fond deux volets gris masquant des ouvertures; a gauche une porte ouverte. Au milieu de la chambre la table est mise, couverte d'une nappe blanche damassee. Sur la table des assiettes, des verres, du pain, une bouteille. A droite,les mains jointes, est assise la Vierge, vetue d'un manteau rose et d'une robe noire. Pres d'elle le Christ benit, habille d'une robe verte et d'un manteau rouge. A la droite du Christ un jeune homme et une jeune fille: celle-ci est vetue de rouge a la mode du quattrocento, le jeune homme porte une tunique rouge, des bas blancs, un toque noire. Au bout de la table a gauche, un gargon se tient debout et s'apprete a decouper un coeur dans une assiette; devant la table un echanson；les treteaux de la table sont armories. On considere que cette scene represente deux epoux qui ont voulu se faire peindre pres du Christ et de la Vierge pour qu'ils benissent leur union.
+
+Bois.—Hauteur 31.5, largeur 41 centimetres.
+
+C'est lceuvre d'un peintre sorti de l'ecole de Lazaro Bastiani, auquel remontent la maniere d'arranger la scene, le type et le costume de la Vierge. Mais par sa souplesse et par son expression lyrique le coloris presente deja le caractere des imitateurs de Giorgione. Il s'agit donc d'un maitre de transition entre le gout du quattrocento et celui du cinquecento venitien.
+## 45
+
+## 46
+
+## PORTRAITD'UNEDAME
+
+Sur un fond vert fonce le buste de la dame est vu de trois quarts et le visage de profil a gauche. Ses cheveux blonds sont coiffes d'une riche resille ornee de pierres precieuses. Eile porte un corsage blanc brode,une robe violette a rayures d'or et des manches a creves blancs; a du blond et du violet est d'une grande richesse.
+
+Bois.-Hauteur 39,largeur 29 centimetres.
+
+C'est loeuvre d'un disciple du Titien, qui en suit bien fidelement la maniere, en conservant sinon le grandiose de sa mise en place, du moins la beaute de sa maniere et de son coloris riche et chaud.
+
+Provient de la collection du Prof. B. Lurdi.
+
+## DOMENICO TINTORETTO
+
+Venise 1562-1637
+
+## LA VIERGE ET L'ENFANT
+
+est tourmente comme s'il etait sous une tempete.Au premier plan pres d'une cabane la Vierge est assise, tenant dans ses bras lEnfant Jesus nu. Autour de la tete de celui-ci une aureole revele sa saintete. Sur la robe de la Vierge des accents de lumiere tres violents, jaunes et blancs.
+
+Toile.-Hauteur 37,largeur 28 centimetres.
+
+C'est une ebauche pleine de fougue et de vigueur executee avec une sensibilite moderne.
+
+Domenico Tintoretto y revele ses qualites d'impression rapide et de style sur et decide. Provient de la collection Georges Spiridon,pere.
+
+## MICHAEL PACHER
+
+Bruneck,1430 ou 1440-1498 Salzbourg
+
+## 47 SAINT AGRICE DE TREVES ET SAINT ANNO DE COLOGNE
+
+Les deux Eveques,revetus de leurs riches habits episcopaux, sont representes debout, grandeur nature, sur un fond de paysage boise, montagneux, ou l'on voit une abbaye et ses dependances. A gauche, saint Agrice de Treves coiffe de la mitre bleue et couvert de sa chape toute brochee d'or; elle est d'un rouge vin fonce brillant a doublure orange et fermee a la poitrine par une grosse agrafe. Le bas laisse voir la robe d'un rose pale et une chaussure jaune. Le Saint tient un livre et sa crosse ou pend une écharpe blanche.
+
+A droite, saint Anno de Cologne;il est crosse et porte une église ou est figuree lAnnonciation. Sa mitre est orange et sa chape d'un vert fonce a une bordure au fl d'or emperlee; elle decouvre le vert clair de la robe au cou, a un bras et en bas ou apparait un pied chausse d'ecarlate.
+
+Avec leurs noms inscrits en or.
+
+Bois.-Hauteur 213,largeur 68 centimetres.
+
+## LE TITIEN (Ecole du)
+
+Vers la moitie du XVIe siecle
+## 48 PORTRAITD'HOMME
+
+En buste, un peu tourne a droite, coiffe d'un bonnet ecarlate d'ou s'echappent les boucles de ses cheveux blonds. Ses yeux bleus eclairent son visage rose. Son pourpoint bleu ardoise laisse voir un peu du blanc de la chemise. La main gauche tient un papier roule.
+
+Bois.-Hauteur 54,largeur 37 centimetres.
+
+## MAITRE FLAMAND,VERS 1500
+
+## LAVIERGEETL'ENFANT
+
+De face et a mi-corps,la tete inclinee, tenant dans ses doigts effles le sein nourricier qu'elle
+
+Fond de paysage avec montagnes bleues et chateau fort aux tours roses.
+
+presente au Petit Jesus qui nu dans ses langes blancs, tient une pomme. Sa chevelure blonde manteau rouge fonce et clair laissant voir la robe bleu fonce brochee au fl d'or.
+
+Bois.—Hauteur 43.5, largeur 33 centimetres.
+
+## 50 LA VIERGE ETL'ENFANT ENTRE DEUX ANGES
+
+Elle apparait de face,la tete se decoupant sur un fond forme par une plaine ou l'on voit une cathedrale,une ville et des montagnes. La Vierge a sur le genou gauche le Petit Jesus. Elle tient quelques feurs et baisse les yeux sur lEnfant nu. Elle porte une robe rouge fonce qu'entoure son manteau rouge clair. L'ange a gauche a une robe verte, l'autre une robe de brocarts d'or.
+
+Bois.-Hauteur 43,largeur 34 centimetres.
+
+## MAITRE FLAMAND,VERS1520
+
+## DESCENTE DE CROIX
+
+Le corps affaisse du Crucife dont la tete retombe sur l'epaule droite,est soutenu dans un voile blanc par Joseph d'Arimathie qui est vetu dune veste noire a manche verdatre. La Vierge-Mere, a gauche, leve les yeux vers son Fils qu'elle entoure de ses bras; sa tete est enveloppee de linge blanc, manteau bleu vert. Pres d'elle se tient saint Jean en robe lie de vin. Le fond est forme par la croix brunatre laissant apparaitre un lointain bleute.
+
+Bois cintre en haut.-Hauteur 92,largeur 57.5 centimetres.
+
+## 49
+
+## 51
+
+## THIERRY BOUTS (Attrib.a).
+## 54
+
+## MARKUS GEERAERDTS,LEJEUNE
+
+Bruges,1561-Londres, 1635
+
+## 52 THOMASRADCLYFFE,THIRDEARLOF SUSSEX
+
+On le voit a mi-corps, de trois quarts a droite. Son visage pale ou brillent deux yeux noirs a une moustache et une barbiche blondes clairsemees. ll est coiffe d'une petite toque noire ornee d'une houppette rouge. Son manteau noir et brun en velours ouvre a col de fourrure, laisse voir le pourpoint gris a taillades; col plisse au cou. ll porte la grande chaine emaillee de l'ordre de la Jarretiere.
+
+Toile.-Hauteur 75,largeur 62 centimetres.
+
+## JAN WOUTERSZ
+
+2emotie duxVIe Siecle
+
+## 53 PILATESELAVANTLESMAINS
+
+Pilate coiffe d'un turban blanc et couvert dun manteau rouge, se lave les mains dans une bassine ou un gargon verse de leau. Derriere eux, un Juif porte un chapeau a ruban ayant des caracteres en langue hebraique.
+
+Bois.-Hauteur 1o7,largeur 75 centimetres.
+
+Tableau important de belle qualite d'un des rares maitres d'Amsterdam de cette epoque dont les cuvres nous sontconnues.
+
+## MAITRE HOLLANDAIS,VERS 1600
+
+## PORTRAIT D'UNHOMME DE QUALITE
+
+En buste et de trois quarts a droite. Il a les cheveux courts et crepus, ses moustaches et sa barbe taillee en pointe sont rousses. ll a les traits fins d'un homme du monde portant fraise a gros godrons sur un pourpoint noir que recouvre de la fourrure brune.
+
+Bois,ovale.-Hauteur 67.5, largeur 55·5 centimetres.
+
+Provient de l'ancienne succession de M.Jean Henri Beissel d'Aix-la-Chapelle.
+
+## ADR.HANNEMAN
+
+La Haye,vers 16o1-1671
+
+## 55 PORTRAITD'UNEJEUNE FEMME DE QUALITE
+
+Vue a mi-corps dans un ovale ornemente. Une grande collerette-pelerine de batiste lui couvre les epaules et les bras; elle est ornee de deux noeuds et la transparence du tissu laisse voir un large collier en or. On voit deux perles piriformes dans ses cheveux boucles qui encadrent son visage gracieux. Sa main gauche tient un eventail de plumes d'autruche.
+
+Toile.-Hauteur 76,largeur 63 centimetres.
+
+Voir la description dans ,Onze Kunst”, Mars. 19i9, ou ce portrait est attribue a Jan
+
+Vermeer de Delft.
+## 56
+
+## PHILIP WOUWERMAN
+
+Haarlem,1619-668
+
+## LA HALTE DU CHASSEUR
+
+Un cavalier en veste rouge monte sur un cheval blanc auquel deux paysans donnent un picotin, se decoupe sur un ciel plein de lumiere. Masure a droite;chien,haridelle et trois paysans au repos a gauche.
+
+Monogramme.
+
+## 57 L'ATTAQUE D'UN CONVOI
+
+Surpris au moment ou il passait un cours deau a gue, lescorte se defend, un cheval blanc se cabre,un cavalier monte sur un cheval alezan tire un coup de pistolet sur un soldat qui epaule son mousquet. Le ciel est tourmente.
+
+Monogramme.
+
+## 58 HIVER
+
+Tout le lieu est empli de clartes blondes de soleil. Sur la glace on voit des patineurs, des chiens, un homme fixant ses patins,un traineau charroyant des tonneaux,une tente;le profil d'une ville sur la rive du fond.
+
+Signe des initiales.
+
+Toile.-Hauteur 42,largeur 53 centimetres.
+
+Toile.—Hauteur 36,largeur 48 centimetres.
+
+## ISAAC VAN OSTADE
+
+Haarlem,1621-1649
+
+Bois.-Hauteur 22.5,largeur 38 centimetres.
+
+## ABRAHAM VAN DIJCK
+
+1635/1636-1672Amsterdam
+
+## 59 PORTRAIT DU PEINTRE?
+
+En buste et de trois quarts; les paupieres baissees, il est coiffe d’un calot. Sa longue barbe grisonnante s'etale sur le col blanc et le manteau brunatre d'ou sortent ses pinceaux.
+
+Bois.—Hauteur 24.5,largeur 22 centimetres.
+
+## FRANS VAN MIERIS
+
+1635-Leyde,1681
+
+- 60 JOUEUR DE LUTH ACCORDANT SON INSTRUMENT;SON BONNETECARLATE A LONGUE PLUME VERTE PRES DE LUI SUR UNE TABLE.
+
+Signe et date 1650.
+
+Bois.—Hauteur 19, largeur 16 centimetres.
+## RACHEL RUYSCH
+
+1664 ou 1665-Amsterdam,1750
+
+## 19 FLEURS DANS UNVASE:ROSESBLANCHESETROUGES;UNEILLETCARNEAUPIED
+
+Cuivre.—Hauteur 35.5, largeur 28 centimetres.
+
+## JAN TILIUS
+
+Bois-le-Duc166o-1719
+
+## 62PORTRAIT D'UNE HARPISTE
+
+Assise et de face, on la voit a mi-jambes,revetue d'une robe vieil or decolletee,a demicahier de musique,on voit son instrument.
+
+Bois.-Hauteur 36.5, largeur 29.5 centimetres.
+
+Au fond du tableau, au mur, on voit un tableau qui sans doute est de la main de Vermeer de Delft; un tableau non connu jusqu'ici.
+
+- 63 GILLIS D'HONDECOETER.-Paysage avec ville
+
+Bois.-Hauteur 29, largeur 45.5 centimetres.
+
+- 64 JOHN CONSTABLE.-Paysage au lever du soleil. Carton.-Hauteur 27·5,largeur 44 centimetres.
+- 65
+
+## BERNARDINO.BIAGIO,DIT PINTURICCHIO
+
+Perouse 1454-Siene 1513
+
+- DANS LES SCENES DE LA VIE DE PICCOLOMINI(PIEII)
+
+Il est represente a mi-corps, presque de face, se tenant sur un fond d’un beau vert avec
+
+Les traits reguliers et fins,le port noble, il a le regard dirige vers la droite. Il est coiffe d'un chapeau noir a bords en gouttiere, orne d'un joyau a rubis. Ses longs cheveux d'un blond venitien encadrent son visage. ll est vetu d'un pourpoint d'un bleu ardoise a mince bordure noire, laissant voir au cou un peu de la dentelle blanche de la chemise et un collier en or enveloppe la taille ou tranche sa belle main gauche;la droite est posee sur le pommeau de son epee cachee par le manteau;on en voit seulement la fusee ciselee et un quillon.
+
+petite entrevue du ciel bleu et blanc a gauche.
+
+Charmant portrait, tres distingue et decoratif.
+
+Bois.-Hauteur 71.5,largeur 48.5 centimetres.

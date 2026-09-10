@@ -1,0 +1,1057 @@
+## CONDITIONS DE LA VENTE
+
+Elle sera faite au comptant.
+
+Les acquereurs payeront dix pour cent en sus des prix d'adjudication.
+
+L'Exposition mettant le public a meme de se rendre compte de l'etat des objets,il ne sera admis aucune reclamation une fois ladjudication prononcee.
+## ORDRE DES VACATIONS
+
+## Le Jeudi 11 Juin 1903
+
+|                     |                          | Numeros.                 | Numeros.                 | Numeros.                 |
+|---------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Tableaux et Dessins |                          |                          | Ia15                     |                          |
+| Objets varies .     |                          |                          | 16a33                    |                          |
+| Fers.               |                          |                          | 34a46                    |                          |
+| Broderies,Velours   | Broderies,Velours        |                          | 159a235                  |                          |
+|                     | Le Vendredi 12 Juin 1903 | Le Vendredi 12 Juin 1903 | Le Vendredi 12 Juin 1903 | Le Vendredi 12 Juin 1903 |
+| Bronzes de Barye    |                          | 47a49                    |                          |                          |
+| Bronzes, Cuivres    |                          | 50 a  77                 |                          |                          |
+| Sculptures..        |                          |                          | 78 a90                   |                          |
+| Bois sculptes ..    |                          |                          | 91a151                   |                          |
+| Meubles.            |                          |                          | 152a158                  |                          |
+<!-- image -->
+
+## TABLEAUX &amp; DESSINS
+
+## CLOUET
+
+(ECOLEDE)
+
+## Portrait d'homme.
+
+Il est represente en buste, de face, coiffe d’une toque a plumes, vetu d'un pourpoint a collerette tuyautee.
+
+On lit en bas :Le Roy Henry second. Dessin rehausse de couleurs.Encadre.
+
+Haut.,35 cent.;larg.,25 cent.
+
+## CORNEILLE DE LYON
+
+(MILIEU DU XVI SIECLE)
+
+## —Jeune Femme vue en buste. 2
+
+Elle est coiffee d'une toque a plumes et vetue d'un corsage rouge avec collier d'ordre lui retombant sur la poitrine. Encadre.
+
+Panneau.Haut., 14 cent.;larg.,13 cent.
+## DUMONSTIERS
+
+3 一 Portrait de femme agee.
+
+Vue de face, portant une large coiffure noire.
+
+Dessin rehausse de couleurs. Encadre.
+
+Haut.,26 cent.; larg., 2g cent.
+
+## LAGNEAU
+
+Portrait de Marie Levernier, femme Laporte.
+
+La plus vieille actrice du theatre du Marais en 16oo, selon l'inscription du revers.
+
+Elle est representee de face,en buste,le visage souriant et coiffee d'un capuchon borde de fourrure.
+
+Dessin rehausse de couleurs. Encadre.
+
+Haut., 29 cent.; larg.,23 cent.
+## LAGNEAU
+
+## Portrait de vieillard.
+
+Vu de face, tete nue, barbe longue, vetu d'un large pourpoint. Dessin rehausse de couleurs. Encadre.
+
+Haut.,33 cent.;larg.,25 cent.
+
+Vente Maherault.
+
+## LAGNEAU
+
+## 6 Portrait.de vicillard.
+
+Les cheveux en desordre, le visage ride, la barbe longue. Dessin rehausse de couleurs. Encadre.
+
+Haut.,33 cent.,larg.,25 cent.
+
+Vente Maherault.
+## RICCI
+
+## Saint Jerome. 7 —
+
+Le saint, tendu sur des nuees, est entraine au ciel par un ange; a ses pieds,un moine en adoration,tenant une croix.Dans le bas,a droite, le lion symbolique.
+
+Toile. Haut., 1 m.43; larg.,2 m.75.
+## 9
+
+## VIVARINI
+
+## 8 La Vierge tenant l'Enfant-Jesus.
+
+Elle est representee vetue d'une longue robe et d'une ample draperie lui recouvrant la tete; elle retient des deux mains l'EnfantJesus nu, et est assise sur un trone de marbre richement sculpte et place sous une niche.
+
+Encadrement en bois peint bleu et dore, de forme architecturale, a pilastres et frises de palmettes et cornes d'abondance.
+
+Panneau. Haut., 1 m.o5; larg, 74 cent..
+
+## ECOLE ALLEMANDE
+
+(xVe SIECLE)
+
+## La Vierge et le Christ.
+
+Ils sont vus en buste, chacun sous une arcade et separes par une colonnette;le Christ,les mains liees sur la poitrine,porte la couronne d'epines et les larmes lui coulent sur le visage; la Vierge, les mains jointes,vetue de blanc et noir, tourne son visage,baigne de pleurs, vers son divin fils.
+
+Panneau.Haut.,73 cent.;larg, 98 cent.
+## ECOLE ESPAGNOLE
+
+(COMMENCEMENT DU XVe SIECLE)
+
+## Deux personnages. 10 一
+
+Ils sont representes debout,en costumes civils,vetus,l'un d'une longue robe, l'autre d'une tunique a grands ramages avec bordure de fourrure.Ils tiennent chacun une banderole portant des inscrip- tions et sont nimbes. Fonds simulant des lambris.
+
+Deux panneaux encadres de bois dore, a motifs gothiques.
+
+Haut., 1 m.50; larg., 73 cent.
+
+## ECOLE FLAMANDE
+
+(COMMENCEMENT DU XVIe SIECLE)
+
+## La Vierge allaitant l'Enfant-Jesus.
+
+Elle est vue a mi-corps,vetue d'une robe bleue,recouverte d'un ample manteau rouge borde de perles; un voile blanc lui couvre la tete. L'Enfant-Jesus, tenant une pomme, est represente nu et lui prenant le sein. Au premier plan,une coupe de fruits et un verre d'ou s'echappent des lys. Au fond,un panneau d'etoffe laissant apercevoir la campagne et une abbaye de chaque cote.
+
+Panneau cintre du haut.Encadre.
+
+Haut.,42 cent.; larg,28 cent.
+## ECOLE FLAMANDE
+
+(XVIe SIECLE)
+
+## Triptyque. 12
+
+Au centre, la Vierge vetue de rouge tenant l'Enfant-Jesus et assise sur un trone; au-dessus d'elle, deux anges soutiennent sa couronne. A gauche, saint Jean-Baptiste; a droite, sainte Femme tenant dune main un livre, de I'autre une épee.
+
+Haut.,40 cent.;larg. totale,7o cent.
+
+## ECOLE FRANCAISE
+
+## 13 —Le Concert.
+
+Dans une salle de palais, une jeune femme, richement vetue, chante, un cahier de musique a la main; d'autres personnages, groupes autour d'elle, l'accompagnent aux sons du luth, de la viole, du clavecin. Au premier plan, trois personnages costumes,et sur la gauche, un valet apportant des verres sur un plateau.
+
+Panneau provenant d’un clavecin. Fin du xvie siecle.
+
+Haut.,49 cent; larg, 55 cent.
+## ECOLE FRANCAISE
+
+## Triptyque. 14
+
+Au centre,la Vierge assise,donnant le sein a l'Entant-Jesus,ayant a ses cotes saint Pierre et saint Paul. Ces trois personnages sont places chacun sous une arcade et se detachent sur fond noir;la partie inferieure presente les mots:Barnabas eps (episcopus).
+
+Peinture sur panneau. Fin du xile siecle.
+
+Haut., go cent.;larg.,57 et 37 cent.
+
+## ECOLE DE L'ITALIE DU NORD
+
+(xVo SIECLE)
+
+15Sujets saints.
+
+Au milieu, saint Sebastien et un saint moine assis;a gauche, lAscension;a droite,une scene de miracle.
+
+Haut.,65 cent.;larg, I m.85.
+
+<!-- image -->
+<!-- image -->
+
+## OBJETS D'ART
+
+## OBJETS VARIES
+
+- 16 — FibuLE en argent dore de forme cintree. Epoque merovingienne.
+
+Haut.,45 millim.
+
+- 17—PETIT BAs-RELIEF en argent repousse :la Vierge, l'Enfant-Jesus et saint Jean-Baptiste. Travail italien, xvie siecle. Cadre en ebene incruste d'os, de forme architecturale et d'ancien travail italien.
+
+Haut., 31 cent.;larg.,24 cent.
+
+- 18— Deux corNETs de pharmacie en ancienne faience de Faenza, decores l'un, d'une panthere, l'autre d'un buste d'empereur romain,
+
+Haut.,21 cent.
+
+- 19 —Vase a deux anses et sur piedouche en ancienne faience de Deruta,a decor de feuillages et faux godrons en bleu, avec refets metalliques jaune-chamois.
+
+Haut., 22 cent.; larg., 20 cent.
+
+- dans une couronne de feuillages.
+- 20PeTITE PLAQuE quadrilobee en cuivre champleve et emaille de Limoges, decoree d'un angelot tenant un phylactere presentant le nom de saint Marc. xin siecle.
+
+Haut. et larg., 6o millim.
+
+- 21—PeTIT FRAGMENT en émail peint de Limoges, presentant sur fond vert la tete du Christ, par Jean I Penicaud.
+
+Haut., 3o millim.; larg., 35 millim.
+
+- 22—Pion de jeu d'echecs en ivoire, en forme de figurine de personnage arme.xvie siecle.
+
+Haut., 6o millim.
+
+- 23VoLET de diptyque en ivoire sculpte, presentant sous une triple arcature l'Adoration des Mages.France,xive siecle.
+
+Haut., 16 cent.; larg, 11 cent.
+
+- 24—PETIT BAs-RELIEF en ivoire sculpte:la Creche. xive siecle. Haut., 85 millim.; larg., 6o millim.
+- 25——MeDaILLE en bronze patine, buste de Malatesta avec la legende: SIGISMUNDUS.PANDULFUS.MALATESTA.PAN.F.PONTIFICI.EXER. IMP. Revers : figure symbolique sur deux elephants, avec la date MCCCC XLVI.
+
+Vente Castellani.
+
+Diam., 8o millim.
+
+- 26 —MeDAILE en bronze patine; buste d'Isotte de Rimini avec la legende:ISOTE.ARIMINENSI.FORMA.ET.VIRTVTE.ITALIE.DECORI. Au revers, un elephant avec la legende: opus. MATHEI. DE. PAsTIs. M CCCC XLVI.
+
+Diam., 84 millim.
+
+Vente Castellani.
+- 27— MiNiATuRE provenant d'un manuscrit et representant saint Marc lisant, assis a une table, avec un lit au second plan. Fin du xvo siecle.
+
+Haut., 11 cent.; larg., 9 cent.
+
+- 28— MiniATuRE provenant d'un manuscrit et representant lAdoration des Rois mages. Milieu du xv siecle.
+
+Haut., 18 cent.; larg., 19 cent.
+
+- 29 — MiNiATuRE provenant d'un manuscrit et representant un moine faisant hommage d'un volume a un souverain,portant le collier de l'ordre de la Toison d'or. Au second plan,plusieurs personnages; a la partie superieure, un écusson entoure du collier de l'ordre de la Toison d'or. xve siecle.
+
+Haut., 17 cent.; larg., 18 cent.
+
+- 3o— MiNiATuRE provenant d'un manuscrit et representant un moine dans sa cellule, tenant un missel; au fond, un autre moine entrant, et une fenetre ouverte laissant apercevoir la campagne. Flandres, xvre siecle.
+
+Haut.,10 cent.;larg,75millim.
+
+- 31— Corrrer revetu de cuir dore et decore de medaillons-bustes et d'emblemes de l'amour.xvie siecle.
+
+Haut., 9 cent.; larg., 11 cent.
+
+- 32CorrRET en bois peint a fond rouge et decore de feurettes; garnitures de fer. xvre siecle.
+
+Haut., 11 cent.;larg.,23 cent.
+
+- 33 — FoNTAiNe en etain de forme cylindrique;robinet et anses a mascarons.
+
+Haut.,53cent.
+<!-- image -->
+
+## FERS
+
+- 34-PETITTREPIED en fer. Italie, xve siecle.
+
+Haut., 70 cent.
+
+- 35—PoRTE-LUMIEREs a sept broches en fer, a decor de feurons et inscriptions; tige a trepied. Flandres, fin du xve siecle.
+
+Haut., 1 m.88; diam.,74 cent.
+
+- 36—PoRTE-LUMIERESa treize broches sdisposees sur trois rangs,en fer,a decor d'inscriptions,feurons et volutes; tige a trepied. Flandres, fin du xve siecle. Haut.,1 m.82; diam.,84 cent.
+- 37-—VERRou en fer ajourea feuillages gothiques. Commencement duxviesiecle. Haut., 1o cent.; larg, 12 cent.
+- 38-CLE en fera tete ornee d'un motif architectural surmonte d'une figurine equestre.xvie siecle.
+
+N°35.
+
+Long., 1o cent.
+
+39— SryLET en fer a poignee-figurine. Italie, xvre siecle.
+
+Long., 27 cent.
+40 —MascAron tete d'homme en fer repousse.xvie siecle.
+
+Haut.,17 cent.;larg, 12 cent
+
+No36.
+
+<!-- image -->
+
+- 41—BRAS-APPLIQUE en fer, en forme de dragon a corps termine en volute. Italie, xvi siecle.
+
+Larg.,46 cent.
+
+- 42-PETITE SCIE en fer a decor de feuillages.xvie siecle.
+
+Long., 22 cent.
+
+- 43—PINcE en fer simulant
+- un crocodile. xvi siecle. Long.,18 cent.
+- 44-—SciE en fer a decor de moulures. Poignee en bois sculpte a mascarons. Travail parisien, xvl1 siecle.
+
+Long.,46 cent.
+
+- 45 — SEcATEuR en fer a decor de moulures. xvne siecle.
+
+Long,26 cent
+
+46— MarTEau forme d’une cle d'epinette en fer. Epoque Regence.
+
+Long.,27 cent
+## BRONZES DE BARYE
+
+- 47LioNNE marchant; bronze a patine verte de Barye. Ancienne
+- epreuve.
+
+Haut., 21 cent.;larg, 41 cent.
+
+- 48—LioN marchant; bronze a patine brune de Barye. Modele. Epreuve ancienne.
+
+Haut.,28cent.;larg.,43 cent
+
+- 49 — OceLor attaquant un cerf; bronze a patine brune de Barye. Epreuve ancienne.
+
+Haut.,35 cent.; larg.,54cent.
+
+## BRONZES,CUIVRES
+
+- 5o -FiGuRINe de divinite en bronze. Travail egyptien antique.
+
+Haut.,15 cent.
+
+- 51— ORNEMENT D'ETENDARD en bronze a patine verte, avec traces de damasquine d'argent et de dorure, forme d'un demi-disque sur-
+- monte d’une tete de femme. Travail egyptien antique.
+
+Haut., 17 cent.,; larg., 16 cent.
+
+- 52 — FrAGMENT en forme de tete de femme egyptienne en bronze vert. Travail égyptien antique. Base en granit.
+
+Haut.,13 cent.; larg.,10 cent.
+
+- 53-URNe cineraire en bronze vert, affectant la forme d'un buste de negre, dont les yeux sont executes en argent. Travail antique.
+
+Haut.,14 cent.
+
+- 54—Tere de femme en cuivre repousse, avec traces de dorure: les
+- yeux sont fermes,les cheveux nattes retombent de chaque cote
+de la face et sont en partie couverts d'une longue draperie retenue par un diademe. Fragment de tombeau. France, milieu du xive siecle.
+
+Haut.,35cent.
+
+- 55— ENsEiGNe de chapeau en cuivre avec traces de dorure: Herodiade. xve siecle.
+
+Diam.,35millim.
+
+N°53.
+
+<!-- image -->
+
+56—PeTIT CHRisT en bronze dore, provenant d'une croix. xve siecle. Haut.,13cent.
+
+67 -BouTon en cuivre a sujet allegorique au pelerinage. Fin du xve siecle.
+
+Diam.,32millim.
+
+- 58— FRAGMENT en bronze a patine noire, presentant trois mascarons : figure de femme entre deux profils de demons. Fin du xve siecle.
+
+Haut., 11o millim.;larg,95millim.
+- 59-CAGE D'HoRLoGE de table, en bronze grave et dore, simulant un edicule de forme ronde, decore de colonnettes et de grotesques.Le dessus presente plusieurs cadrans concentriques indiquant les heures, les quantiemes et les signes du Zodiaque. France, xvie siecle.
+
+Haut., 14 cent.; diam.,1I cent.
+
+- 6o — GrAND PLAT en cuivre repousse a godrons obliques et vases de lys.Italie,xvie siecle,
+
+Diam.,58cent.
+
+- 61 —FiGuRINE d'homme nu, en bronze a patine brune:il est represente debout, un bras et une jambe leves. Italie,xvi siecle.
+
+Haut., 1g cent.
+
+- 62—GRAND MoRTIER en bronze a patine verdatre, orne d'armoiries et du monogramme du Christ; sur la bordure, l'inscription : s. p. Q. R.
+- D.MESSANA.NOBILIS.ET.REGNI.CAPVT.MVXXXIIII.
+
+Haut.,27 cent.;diam.,3g cent.
+
+- 63PARTIE supERIeuRE d'une fontaine en bronze, partiellement peint or, en forme de balustre, orne de trois volutes a tetes de femmes, alternant avec trois sirenes. Allemagne, xvie siecle.
+
+Haut., 6o cent.
+
+- 64-STATuETTE en bronze a patine brune de chasseur a la lanterne, debout, aux aguets. Travail de Nuremberg, attribue a Labenwolf. xvIe siecle.
+
+Haut., 21 cent.
+
+- 65— HoRLoGE de table en bronze grave et dore, cantonnee de colonnettes et decoree de sujets allegoriques. Elle affecte la forme d'un petit monument.Travail allemand,fin du xvre siecle.
+
+Haut.,24 cent.;larg.,1o cent.
+
+- 66 — MaNcHE DE couTEAu en cuivre, surmonte d'une figurine de personnage tuant un sanglier. Ancien travail allemand.
+
+Long., 1o cent.
+- 67 — Deux BRAs-APpLIQues en bronze formes d'entrelacs et s'echappant de la gueule d'un lion. Flandres, xvre siecle.
+
+Long., 47 cent.
+
+- 68 — Deux BouTs DE cHENETs en cuivre jaune, formes de mascarons. Flandres, xvie siecle.
+
+Haut.,18cent.
+
+- 69— CHANDELiER en bronze, forme d'un corps d'homme barbu, coiffe d'un turban,vetu d'une draperie et se terminant par des branchages entrelaces. Base ronde. Milieu du xvie siecle.
+
+Haut.,29 cent.
+
+- 70 — CeinTuRe formee de plaques de cuivre grave et dore a feuillages et rosaces.xvie siecle. Long., 85 cent.
+- 71 — PeTIr couTeau a poignee de bronze dore a cariatides. xvie siecle. Long., 18 cent.
+- 72 — PLAT creux en dinanderie, decore d'un motif rayonnant. xvie siecle.
+
+Diam.,37 cent.
+
+- 73  PuLveriN en cuivre dore, decore de grotesques et mascarons. xvre siecle.
+
+Haut., 20 cent.; larg., 13 cent.
+
+## Vente La Beraudiere.
+
+- 74  Bas-RELiEr, en cuivre: buste d'Aristote.xvi siecle. Haut.,3o cent.;larg.,18cent.
+- 75 — Deux LANDIERs en cuivre a balustres. Epoque Louis XIII. Haut.,85 cent.
+- 76 — Deux HAuTs-RELIEFs en bronze, composes de tetes de cherubins au milieu de nuees. xvie siecle. Haut., 75 cent.
+- 77 —— Deux PLATs en dinanderie : Adam et Eve et saint Christophe. Diam.,38 cent.
+## SCULPTURES
+
+- 78-CHapITEau en pierre sculptee presentant a chaque angle une chimere a tete humaine; entre elles, une grosse feuille et une rosace. Champagne, commencement du xine siecle.
+
+Haut.,27 cent.;larg.,28 cent.
+
+- 79 — Groupe en pierre sculptee: la Vierge debout, coiffee d’un diade-
+- me, vetue d'une tunique recouverte d'un long manteau et portant l'Enfant Jesus. Travail francais du commencement du xive siecle.
+
+Haut.,1 m.12.
+
+- 8o — Groupe-AppLiQuE en pierre sculptee avec traces de peinture et de
+- dorure:la Vierge debout allaitant l'Enfant-Jesus. Elle est vetue de long et coiffee d'une ample draperie, surmontee d'une couronne avec incrustations de verroterie.France, xive siecle.
+
+Haut.,I m.45.
+
+- 81—Groupe en pierre sculptee；la Vierge assise, vetue de long, coiffee d'un voile retenu par un diademe et tenant l'Enfant-Jesus debout aupres d'elle. France, xive siecle.
+
+Haut.,63 cent.;larg.,40 cent.
+
+- 82—BAs-RELIEF en albatre;la Resurrection.xive siecle.
+
+Haut.,4o cent.;larg., 26 cent.
+
+- 83—HAuT-RELIEF en albatre partiellement dore:1'Annonciation;a la partie superieure, le Pere-Eternel et le Saint-Esprit. Commencement du xve siecle.
+
+Haut., 40 cent.;larg.,27 cent.
+
+- 84—STATUETTE-APPLIQuE,en marbre tendre blanc,de pleureur debout, les mains jointes, portant la cagoule. xive siecle. Provenant de Poblet (Espagne). Au revers, l'inscription gravee : sAcADo DEL PANTEoN DEL REY DON JAIME EN POBLET, ANNO 1836.
+
+Haut.,36 cent.
+- 85—PETIT GRouPE-APpLIQuE en marbre tendre blanc:la Vierge debout
+- couronnee, vetue d'une longue robe et portant l'Enfant-Jesus sur le bras gauche.France,xive siecle.
+
+Haut.,46 cent.
+
+- 86— Groupe-AppLIQuE en marbre tendre blanc;la Vierge assise, tenant sur un genou l'Enfant-Jesus debout.xve siecle.
+
+Haut.,3g cent.;larg.,18 cent.
+
+- 87—PETIT GRouPE-APpLIQuE en marbre tendre blanc:lAnnonciation. Fin du xve siecle.
+
+Haut., 21 cent.; larg.,20 cent.
+
+- 88-HAuT-RELIEF en marbre tendre blanc:le Mariage de la Vierge; composition de quatre personnages. xvre siecle.
+
+Haut., 28 cent.; larg., 27 cent.
+
+- 89 — HauT-RELiEF sans fond en terre cuite peinte avec traces de dorure: la Vierge vue a mi-corps, vetue d'une chemisette et coiffee d'une longue draperie surmontee d'un nimbe, étreint tendrement l'Enfant-Jesus qu'elle retient des deux mains. Travail italien.xvie siecle.
+
+Haut.,75 cent.;larg,52 cent.
+
+- g0 TeTe en terre cuite peinte,plus grande que nature, de saint Jerome, les yeux baisses, la barbe longue,le haut du crane denude. Italie, commencement du xvin siecle. Base en serpentine diamantee.
+
+Haut.,40 cent.
+
+## BOIS SCULPTES
+
+- chair : la Vierge assise, portant l'Enfant-Jesus et tenant la grenade. Italie, xl siecle,
+
+Haut.,41 cent.
+- 92— BusTe, grandeur petite nature, en bois sculpte peint et dore de personnage vetu de rouge, coiffe d'une toque, la tete legerement tournee vers l'epaule gauche. Italie, xv siecle.
+
+Haut.,47 cent.;larg.,32 cent.
+
+- 93—PeTIT BusTE en bois sculpte, peint et dore, d'adolescent, les cheveux longs, regardant de face. Travail italien. xvi siecle.
+
+Haut.,3o cent.
+
+- 94 — Bas-RELIEF rectangulaire en bois sculpte et peint, presentant un au fond dans le paysage.Nord de l'Italie,xvre siecle. Cadre de forme architecturale en bois peint bleu et or.
+
+Hauteur du bas-relief, 87 cent.；largeur du bas-relief,1 m.35.
+
+- 95— STATuETTE en bois sculpte, peint et dore, de saint Michel, coiffe d'une salade, revetu de l'armure complete et terrassant le dragon. Allemagne, xve siecle.
+
+Haut.,53 cent.
+
+- 96—ReLiQuAiRE en bois sculpte, peint et dore, en forme de buste de saint personnage portant les cheveux longs et revetu d'une armure ornee d'une croix. Base hexagonale a moulures et tourelles. Allemagne, fin du xve siecle.
+
+Haut.,54 cent.,;larg.,3o cent.
+
+- 97 — Groupe en chene sculpte: sainte Anne assise dans une stalle, ayant devant elle la Vierge tenant Enfant-Jesus.Allemagne,fin du xve siecle.
+
+Haut.,85 cent.;larg.,47 cent.
+
+- 98— STATuETTE-APPLIQuE en bois sculpte avec traces de peinture et de dorure, de sainte Catherine debout, tenant un livre et ayant a ses pieds la roue, instrument de son martyre. Sur socle-applique a cul-de-lampe feuillage. Allemagne, commencement du xvi siecle.
+
+Haut.,1 m.45.
+- Anne portant sur un bras la Vierge, et sur l'autre l'EnfantJesus qui fait le geste de benediction. Allemagne, xvi siecle.
+
+Haut.,I m.50.
+
+- 1oo —PeTIT coFrrE en bois sculpte, decore sur la facade d'un ecusson armorie, charge d'un chateau-fort et soutenu par deux femmes; sur les cotes, des fenestrages gothiques. Espagne, xv siecle.
+
+Haut.,34 cent.；larg., 63 cent.
+
+- 101 ——GroupE-APPLIQuE en bois sculpte, peint et dore:l'Evanouissement de la Vierge; composition de trois personnages. Flandres. fin du xve siecle.
+- 102 —DEUx sTATUETTEs-APpLIQUEs en chene sculpte,provenant d'un retable et representant chacune un berger en adoration; personnages tires d'une Adoration des Bergers. Anvers, marque a la
+
+Haut.,34 et 36 cent.
+
+- main, commencement du xvi siecle.
+- 103 -DEux STATUETTEs-APPLIQUEs en chene sculpte, provenant d'un retable et representant, lune la Vierge, lautre un roi mage en adoration; personnages tires d'une Adoration des Mages. Anvers, marque a la main, commencement du xvie siecle.
+
+Haut.,26 et 28cent.;larg.,18 cent.
+
+- 104 — Deux FIGuRINEs en chene sculpte :angelots en priere. Commencement du xvie siecle.
+
+Haut., 12 cent.; larg., 11 et 13 cent.
+
+- 105 — Groupe-APpLIQuE en chene sculpte:la Vierge assise a terre et retenant l'Enfant-Jesus qui joue avec saint Jean-Baptiste. Anvers, marque a la main, xvie siecle.
+
+Haut.,27 cent.; larg.,29 cent.
+
+- 106 — PeTITE NicHe en bois dore, decoree de peintures sur les portes: a l'exterieur, Adam et Eve;a l'interieur, l'ange Gabriel et saint Michel. Flandres, commencement du xvie siecle.
+
+Haut.,62 cent.
+- 107 - STATuETTE-APpLIQuE, en chene sculpte, de femme debout portant le costume du temps et tenant un missel. Flandres, commencement du xvre siecle.
+
+Haut.,5g cent.
+
+- 1o8 — GroupE en chene sculpte:sainte Anne,la Vierge et l'EnfantJesus, assis dans une stalle; sainte Anne presente a l'Enfant-Jesus
+- une grappe de raisin. Flandres, xvie siecle.
+
+Haut.,33 cent.;larg.,27 cent.
+
+- 109 — Deux sTATuETTEs, en chene sculpte, d'anges debout tenant une
+- torchere. France, fin du xve siecle.
+
+Haut.,68 cent.
+
+- 11o  SuPpoRT-APPLIQuE en chene sculpte,orne d'un cartouche soutenu par deux angelots.France, fin du xve siecle.
+
+Haut.,26 cent.; larg, 40 cent.
+
+- 111— CHEF-RELIQuAIRE en chene sculpte,en forme de buste de saint Jacques le Majeur, vetu d'une chape et portant une coiffure ornee
+- des emblemes de pelerinage. France, fin du xve siecle.
+
+Haut., 42 cent.; larg., 33 cent.
+
+- 112-i13 -Deux porTEs composees de dix panneaux en chene sculpte, dont deux carres sont decores de grotesques, et dont les huit autres rectangulaires presentent, au milieu de trophees, de chimeres, d'amours et de mascarons, les bustes d'Adrien et de Faustine, ainsi que le buste de Louis XII avec les armes de France, et celui de Georges d'Amboise entoure d'une legende rappelant ses Ces panneaux proviennent du chateau de Gaillon. Travail fran-
+- titres et surmonte de ses armes timbrees du chapeau de cardinal. cais du temps de Louis XII.
+
+Hauteur totale,2 m.25;larg.,78 cent.
+
+- 114 — Groupe en chene sculpte :Ecce Homo, place sous un monument fanque de tourelles animees de personnages. Nord de la France,
+- commencement du xvi siecle.
+
+Haut.,57 cent.
+- 115 —BouT DE sTALLE en chene sculpte, presentant trois panneaux ornes de grotesques, avec medaillons-bustes a la partie superieure. Ces panneaux sont encadres de pilastres et de colonnettes et surmontes d'un fronton decoupe offrant un calice, des tetes de cherubins, ainsi qu'une fgure d'angelot de chaque cote. France,
+- commencement du xvie siecle.
+
+Haut.,1 m.2o;larg.,I m.20.
+
+- 116  Deux rorTes de meubles carrees, en bois sculpte, presentant chacune en bas-relief un buste de personnage de profil, se detachant sur un fond forme d'un cartouche. France, commencement du xvre siecle.
+
+Haut.,37 cent.; larg.,34 cent.
+
+- 117 - Frise en chene sculpte, presentant sous trois arcades surbaissees, un cartouche soutenu par deux amours, ainsi que deux bustes de personnages et deux salamandres. A chaque extremite,
+- une tete de faune.France, commencement du xvie siecle.
+
+Haut., 33 cent; larg, 2 m.63.
+
+- 118 — PeTIT GRoupe-APpLIQuE en chene sculpte,representant la Vierge, debout,portant l'EnfantJesus, a qui une donatrice, en costume du temps, offre un rosaire contenu dans une corbeille. Bourgogne,
+- commencement du xvi siecle.
+
+Haut.,2g cent.; larg,21 cent.
+
+- 119 — CARIATIDE-APPLIQuE en chene sculpte, de faune, les bras croises sur la poitrine, le corps termine en larges feuilles.Auvergne, com-
+- mencement du xvl siecle.
+
+Haut., I metre.
+
+- 120  PaNNeau en chene sculpte en bas-relief, decore de grotesques,
+- avec medaillons-bustes au milieu. Auvergne, xvie siecle.
+
+Haut., 81 cent.,; larg, 38 cent.
+
+- 121 -HauT-RELiEF sans fond, en chene sculpte, presentant la Cir-
+concision de l'Enfant-Jesus. Composition de trois personnages. Champagne, xvie siecle.
+
+Haut., 31 cent.; larg., 2S cent.
+
+- 122 —DEUx PETITEs cARIATIDEs de meubles, en bois sculpte, faune et faunesse, avec mascarons et feuillages sur la gaine. France, xv1 siecle.
+
+Haut., 61 cent.
+
+- 123 -Deux PETITs PANNEAux en chene sculpte, presentant, l'un, une tete casquee, l'autre, une tete coiffee d'une toque en bas-relief. F'rance, xvi siecle.
+
+Haut., 42 cent.; larg., 33 cent.
+
+- 124-Deux PANNEAux de meuble en bois sculpte, decores chacun d'un trophee d'armes de style antique, place sous une arcade portee par deux colonnettes enguirlandees de laurier et surmontees d'un fronton soutenu par deux mascarons tetes de femmes. France, xvIe siecle.
+
+Haut., 61 cent.; larg., 35 cent.
+
+- 125 —CINQ PANNEAux de forme rectangulaire,en bois sculpte en basrelief,presentant chacun en bas-relief un tete casquee se detachant sur un fond en forme de cartouche.Auvergne, xvre siecle.
+
+Haut.,33 et 3g cent.; larg.,22,25 et 33 cent.
+
+- 126 — STATuETTE-APpLIQUE en bois sculpte, peint et dore;personnage portant l'armure et un long manteau; il est coiffe d'une toque. xve siecle.
+
+Haut.,1 m.22 cent.
+
+- 127 —CoFFrET oblong, en bois sculpte sur toutes ses faces et presentant les sujets de l'Annonciation,la Visitation,la Creche,la Marche et l'Adoration des Rois Mages.Milieu du xve siecle.
+
+Haut., 11 cent.; larg., 3o cent.
+
+- 128 —Deux STATUETTEs-APPLIQuEs en bois sculpte d'anges debout, vetus de long, les bras tendus. Fin du xve siecle.
+
+Haut., 86 cent.
+- 129 — PeTIT DAis en chene sculpte a arcature et pinacles gothiques. Fin du xve siecle.
+
+Haut.,93 cent.; larg, 47 cent.
+
+- 13o —PETIT GRouPE-APPLIQuE en bois sculpte provenant d'un calvaire et presentant la Vierge evanouie entouree de saint Jean et de deux Saintes Femmes. Fin du xve siecle.
+
+Haut.,27 cent.;larg.,13 cent.
+
+- 131 —STATuETTE en bois sculpte, peint, et avec traces de dorure, de saint Michel terrassant le dragon；il est represente en armure complete, tete nue,les cheveux longs boucles, s'appuyant de la main gauche sur une targe au lion hieraldique, la main droite tenant la garde d'une epee. Allemagne, fin du xve siecle.
+
+Haut.,I m.25.
+
+- 132—CHEF-RELIQuAIRE en chene sculpte en forme de buste, grandeur nature, de saint personnage aux cheveux et a la barbe boucles, portant un vetement sacerdotal borde d'orfrois. Fin du xve siecle.
+
+Haut.,58 cent; larg, 43 cent.
+
+- 133 -STaTuETTE en chene sculpte de saint Eloi debout, portant I'armure, tenant une enclume, ayant a ses pieds un lion. Commencement du xvie siecle.
+
+Haut., 2g cent.
+
+- 134 — GrourE-APpLIQuE en chene sculpte : sainte Anne, la Vierge et l'Enfant-Jesus a qui sainte Anne presente une grappe de raisin. Commencement du xvie siecle.
+
+Haut.,73 cent.
+
+- 135  Bas-RELiEF en bois sculpte, peint et dore; la Visitation;la Vierge et sainte Elisabeth se rencontrent. Travail allemand, commencement du xvie siecle.
+
+Haut.,63 cent ;larg, 43 cent.
+
+- 136 —PoRTE DE cHAMBRE a deux vantaux en chene sculpte, decoree de
+quatre compartiments a grotesques disposes au-dessus de compartiments a serviettes repliees. Commencement du xvi siecle.
+
+Haut.,2 m.22;larg, I m.55.
+
+- 137 - SrATuETTE-APPLIQuE en chene sculpte,representant l'archange saint Michel foulant aux pieds le dragon;il porte l'armure complete, recouverte d'un ample manteau.Flandres, commencement du xvie siecle.
+
+Haut., 1 m.40.
+
+- 138 —Deux PETITs PANNEAux en chene sculpte en bas-relief et presentant, l'un un Fleuve, l'autre une Source, au milieu de divinites marines et de dauphins. Milieu du xvie siecle.
+
+Haut., 2o cent.; larg, 47 cent.
+
+- 139 — STATuETTE-AppLIQuE en chene sculpte,representant la Prudence debout drapee a l'antique, coiffee d'une draperie nouee, laissant echapper deux longues nattes, la tete tournee vers l'epaule droite et tenant a la main gauche un serpent. Milieu du xvi siecle.
+
+## Vente Fau.
+
+Haut., 95 cent.
+
+- 140 - HAuT DE LuTrIN en bois sculpte et peint presentant cinq personnages grotesques vus a mi-corps et chantant au lutrin. Milieu du du xvi siecle.
+
+Haut.,52 cent.; larg.,6o cent.
+
+- 141 —HAuT-RELiEF sans fond en chene sculpte,presentant un page agenouille devant un souverain assis sur un trone. xvi siecle.
+
+Haut.,34 cent.; larg.,24 cent.
+
+- 142 —PETIT GRoupE-APPLIQuE en chene sculpte, peint et dore representant une penitente au milieu de religieuses; composition de six personnages. xvie siecle.
+
+Haut.,2o cent., larg,1g cent.
+- 143 —STATuETTE-APPLIQuE en bois sculpte de Sainte Femme debout, portant le costume de l'epoque et tenant un livre. xvie siecle.
+
+Haut., 33 cent.
+
+- 144 — GroupE-AppLIQuE en chene sculpte : la Fuite en Egypte. xvie siecle.
+
+Haut.,31 cent.;larg.,25 cent.
+
+- 145 - HauT-RELIEF en chene sculpte, provenant d'une misericorde, representant deux tetes de pelerins.xvie siecle.
+
+Haut., 18 cent.; larg.,32 cent.
+
+- 146 —FRAGMENT en chene sculpte forme d'une tete grimacante, surmontee d'une palmette. xvie siecle.
+
+Haut.,26 cent.
+
+- 147 —— SrATue en bois sculpte, peint et dore : saint Etienne debout, en costume d'eveque, portant les pierres, instruments de son mar-
+- tyre.xvi siecle.
+
+Haut.,1 m.72.
+
+- 148 — BusTe petite nature en bois sculpte, peint et dore, d'eveque en costume sacerdotal.xvie siecle.
+
+Haut., 32 cent.; larg.,40 cent.
+
+- 149 — Deux porTes de meubles de forme rectangulaire en bois sculpte, decorees des figures de Mars et Bellone, debout au milieu de
+- trophees d'armes.xvi siecle.
+
+Haut.,71 cent.,;larg.,33 et 29 cent.
+
+- 15o —Deux MisERicoRDEs en chene sculpte, l'une d'elles a tete de
+- cherubin, l'autre a mascaron. xvie siecle.
+
+Haut.,26 cent.
+
+- 151 —STATuETTE en bois sculpte,de sainte Catherine, les cheveux defaits;elle tient un livre et une epee;a ses pieds, le roi. Attribuee au xve siecle.
+
+Haut., 46 cent.
+## MEUBLES
+
+- 152 —CoFrRE en bois sculpte,presentant sur la facade quatre arcades contenant des bustes de personnages avec ecussons d'armoiries aux deux extremites. Cotes egalement ornes de bustes.Commencement du xvre siecle.
+
+Haut., 66 cent.;larg.,1 m.6o;prof.,61 cent.
+
+- 153 — Corrre en chene sculpte, decore sur la facade d'un mascaron au milieu de motifs divers en leger relief; aux angles, des pilastres a chapiteaux ioniques; sur les cotes, des entrelacs. France, xvre siecle.
+
+Haut.,93 cent.;larg.,1 m.68;prof.,73 cent.
+
+- 154- MeuBLE d'applique a deux portes en bois sculpte, decore de deux medaillons,Apollon et Minerve, places entre deux compartiments de rinceaux. Encadrements de feuilles et palmettes.France, xvie siecle.
+
+Haut., I m.1o;larg., I metre.
+
+- 155 —SraLLe en bois sculpte,decoree, sur le dossier, d'un mascaron au milieu de rinceaux, avec bordure de rangees de feuilles et pilastres de chaque cote. La base est ornee egalement de rinceaux ainsi que de pilastres,et les accotoir, supportes par des balustres,presen tent des feuillages.xvie siecle.
+
+Haut., 1 m. go; larg,74 cent.
+
+- 156-157 Deux FAUTEuIs en chene sculpte, a hauts dossiers, decores de medaillons-bustes, tetes d'amours et grotesques; accotoirs cintres, pieds-balustres relies par des traverses et ceinture ornee. France, xvie siecle.
+
+Haut.,1 m.28;larg,72 cent.
+
+- sculpte, decore, sur les vantaux des portes, de cavaliers de style
+antique,tels que:Horatius Cocles, Curtius,etc.,et, sur les tiroirs, de figures de Fleuves et de Naiades, ainsi que de mufles de lions et de bouquets de fruits. Ces sujets sont entoures de cariatides, de tetes de beliers, de mascarons.A la partie superieure, frise a sujets de chasse; sur les cotes, feuillages et chimeres, et,comme couronnement, fronton decoupe forme de grotesques, figures de Renommees et statuette de Jupiter. Travail francais de la fin du xvie siecle.
+
+Haut.,2m.45;larg, 1 m.45.
+
+## BRODERIES - VELOURS
+
+- 159 - DEux PETITs FRAGMENTs en toile brodee de soie et dargent
+- au passe, presentant chacun, dans un medaillon quadrilobe, une Sainte Femme et saint Pierre. Travail italien, xnl siecle.
+
+Haut.,25 cent.; larg., 14 cent.
+
+- 16o - Croix ET DEux BANDEs d'un meme orfroi,en broderie de soie de couleur et de metal, decorees, sous des arcades trilobees,de figures de saints personnages debout : le Christ, la Vierge, saint Pierre, etc. Travail italien, fin du xir siecle.
+
+Haut.,84et54 cent.;larg.,17 cent.
+
+- 161-FRAGMENT compose de deux bandes, en broderie de soie de couleur, et presentant six figures de saints personnages, debout,
+- sur fond de feuillages. Italie,xive siecle.
+
+Haut., 7o cent.; larg, 36 cent.
+
+- 162 —FRAGMENT d'orfroi, en broderie de soie de couleur et d'or, présentant, sous une arcade gothique, une figure de saint, debout, avec chimeres en haut et en bas. Italie, xive siecle.
+
+Haut., 4o cent.; larg, 12 cent.
+- 163 -Deux BANDEs ET DEUx cARREs en broderie de soie de couleur et d'or, presentant neufs compartiments a sujets tires de la Vie de la Vierge. Encadrements a personnages. Italie, fin du xive siecle.
+
+Haut.,75 cert. et 1 metre;larg., 18 cent.
+
+- 164 —PeTIT cArRE en broderie de soie de couleur et d'or, presentant, sous une arcade,le bapteme de sainte Marie l'Egyptienne. Travail forentin de la fin du xive siecle.
+
+Haut.,25 cent.;larg.,21 cent.
+
+- 165-PETIT cARRE en broderie de soie de couleur, orne de deux
+- moines debout, discutant.Florence, fin du xive siecle.
+
+Haut.,25 cent.;larg.,18 cent.
+
+- d'or a rinceaux, presentant, au centre,un medaillon polylobe de travail italien de la fin du xiv siecle et decore,en broderie de soie et d'or, d'une figure de Vierge entre deux anges.
+
+Haut.,40 cent.; larg, 6o cent.
+
+- 167 -PeTIT TABLEAu en broderie d'or et de soic de couleur au passe, representant le Christ crucife, la Vierge, saint Jean et sainte Madeleine.Fond a feuillages.Italie, commencement du xve siecle.
+
+Haut.,34 cent.; larg., 27 cent.
+
+- 168 — DevANT DE DALMATIQuE en brocatelle tissee d'or, a fond rose, presentant le sujet plusieurs fois repete : le Christ et la Madeleine,
+
+Haut.,1 m.25.
+
+- 169 — BaNDeau en tapisserie tissee d'or et d’argent, presentant, au
+- centre, les armes de Saxe, timbrees de la couronne ducale et soutenues par deux enfants nus; de chaque cote, des animaux sur fond bleu, avec medaillons-bustes aux extremites. Italie, commencement du xvie siecle.
+
+Haut.,5o cent.; larg.,2 m.70.
+
+- Italie,xve siecle.
+- 17o — Deux LoNGuEs BANDrs en toile, avec broderie de soie et d'argent, decorees d'une frise de rinceaux avec animaux et tetes humaines. Bordure de dentelle metallique. Italie, xvie siecle.
+
+Haut.,20 cent.; long., 2 m.6o et 1 m.73.
+
+- 171  DevANT D'AuTEL en satin broche, a petites branches de chene et animaux en jaune sur fond gros bleu.Italie, xvie siecle.
+
+Haut.,58 cent.; larg., 1 m.74.
+
+- 172 — DEux FRAGMENTs DE vELouRs a dessin d'oiseaux et feurons dans
+- des quadrilles, en vert sur fond jaune. Italie, xvi siecle.
+
+Haut.,25 cent.;1ong.,75 cent.et 1 m.50.
+
+- 173  CHAPE, CHASUBLE ET DEUx DALMATIQUEs en brocatelle et soie brochee, a dessin de vases de feurs et feurettes sur fond blanc pour les orfrois et vert pour le reste de la piece. Italie, xvie siecle.
+- 174 — DevANT D'auTEL en drap d'or boucle, a dessin d'epis et de couronnes;bordure de velours rouge brode d'or et d'argent, a rinceaux et feuilles.Venise, xvie siecle.
+
+Haut., 1 m.03; larg., 2 m.20.
+
+- 175 —NApperoN en toile, presentant,au centre,un carre brode de soie et orne de la Sainte Face. Ancien travail italien.
+
+Haut., 70 cent.; larg, 74 cent.
+
+- 176 — FRAGMENT DE soIE tissee a dessin rose d’eperviers affrontes, dans
+- des medaillons sur fond verdatre. Ancien travail sicilien.
+
+Haut., I metre; larg., 20 cent.
+
+- 177 - BaNDE D'orFrol en broderie de soie de couleur sur fond or, presentant, sous des arcades gothiques superposees et ornees d'oiseaux, des figures de saints personnages. Travail anglais du xive siecle.
+
+Haut.,I m.1o; larg,1g cemt.
+- 178 — DEux FRAGMENTs DE cHAsUBLEs en velours rouge, avec broderie de soie de couleur et d'or et paillettes,presentant chacun un seraphin tenant une banderole, ainsi que des feuillages. Travail anglais,xve siecle.
+
+Haut., go cent.; larg.,28 cent.
+
+- 179 — DEux PETITs FRAGMENTs de broderie en relief de soie et de metal: sainte Barbe et une autre sainte. Allemagne, xve siecle.
+
+Haut., 3o cent.; larg, 17 cent.
+
+- 18o —Orrroi de chasuble en soie tissee et lamee d'or,avec parties brodees, presentant trois figures de saints superposees avec les inscriptions : s. GEORGIUs . s. SEBASTIANUs. Travail de Cologne, xvesiecle.
+
+Haut., 95 cent.;larg., 14 cent.
+
+- 181 -TRois FRAGMENTs de soie tissee et lamee d'or, avec parties brodees, presentant sur fond rouge sainte Catherine, saint Pierre et un autre saint debout sous des niches gothiques. Travail de Cologne, xve siecle.
+
+Haut.,31,32et 35cent.;larg.,15cent.
+
+- 182 - Croix de chasuble en soie tissee et lamee or, avec tons de chairs brodes. Elle presente le Christ crucifie; au pied de la croix, la Vierge et saint Jean; de chaque cote du Christ, la lance et leponge; a la partie superieure, l'inscription :PATER IN MANUs TUAs; au bas, le donateur, sous les traits de saint Jean, tenant son orifamme et son ecusson a ses armes, avec son nom : JoHAN VAN QUERRoIDE. Travail de Cologne, xve siecle.
+
+Haut.,1 m.1o;larg.,54 cent.
+
+- 183 — BaNDe de soie tissee et lamee de metal, presentant un écusson armorie, avec les noms : JHEsus, MARIA. Travail de Cologne, fin du xve siecle.
+
+Haut., 8o cent.;larg., 13 cent,
+- 184 - BaNDe en soie tissee et lamee de metal, presentant deux ecussons d'armoiries et les noms JHEsus, MARIA. Travail de Cologne, fin du xve siecle.
+
+Haut.,1 m. 12; larg, 9 cent.
+
+- 185 — FRAGMENT en soie tissee avec parties brodees, presentant la Vierge tenant l'Enfant-Jesus; au-dessous d'elle, un ecusson de couvent; en outre, l'inscription:oRD(in)Is MI(n)oR(um) DE MARPURG. Travail de Cologne, fin du xve siecle.
+
+Haut.,42 cent.;larg.,14 cent.
+
+- 186 —PETIT FRAGMENT en soie tissee avec parties brodees, écusson armorie supporte par un ange. En bas, le nom : JoHAn. Travail de
+- Cologne, fin du xve siecle.
+
+Haut., 27 cent.; larg, 12 cent.
+
+- 187 —BaNDE,en hauteur, de soie tissee avec parties brodees,presentant sur fond rouge les figures superposees d'une sainte femme, d'un
+- saint eveque et de la Vierge. Travail de Cologne, fin du xve siecle.
+
+Haut., 1 m.20; larg., 12 cent.
+
+- 188 —CHAsuBLE en deux parties en velours rouge, avec applications de grenades en broderie de soie et d'or a gros reliefs du xve siecle; orfrois en broderie de soie, d'argent et d'or, a figures d'anges tenant
+- les attributs de la Passion, de travail espagnol de la fin du xve siecle.
+
+Haut., 1 m.2o; larg., 6o cent.
+
+- 189-193 - CHAsuBLE, deux dalmatiques et deux dessus de pupitres en velours rouge, avec broderie d'or et d'argent a vases et feuilles. Les orfrois, composes de bandes et de carres, sont executes en broderie de soie de couleur au passe et a l'or nue;ils presentent de nombreux sujets saints:l'Annonciation,la Creche,l'Adoration des Rois Mages, la Circoncision, la Presentation au Temple,le Bapteme du Christ, la Fuite en Egypte, la Peche miraculeuse, le
+Christ au mont des Oliviers,la Resurrection,l'Ascension, etc. Entre ces sujets sont disposees des croix d'ordres religieux. Travail espagnol du xvre siecle. Ces pieces proviendraient de l'Escurial.
+
+Hauteur de la chasuble, 1 m.3o. Largeur de la chasuble,73 cent.
+
+- 194 — CHAsuBLE en deux parties en velours cisele, a ramages rouges sur fond jaune avec feuillages boucles d'or du xve siecle;orfroi en broderie de soie de couleur et d'or, a decor de bustes de saints, de travail espagnol du xvie siecle.
+
+Haut.,1 m.2o;larg., 66 cent.
+
+- 195 —Deux BANDes d'orfrois brodes au passe en soie de couleur et a lor nue, presentant chacune deux scenes de la vie de saint Andre, surmontees chacune d'un ecusson armorie,d'azur a la croix de saint Andre d'or, au milieu de grotesques. Espagne, xvie siecle.
+
+Haut., 96 cent.; larg.,25 cent.
+
+- 1g6 — GrAND PANNEAu en broderie de soie de couleur au passe, avec rehauts d'or et chairs peintes, presentant Enee sauvant son pere Anchise et accompagne de son fils Ascagne. Ils sont sur le point de s'embarquer, laissant derriere eux la ville de Troie en fammes. Bordure a fond bleu charge de rinceaux feuris, de medaillons a sujets symboliques, d'oiseaux, de dragons, etc.,avec, aux angles, des ecussons d'armoiries, fasces de gueule et d'argent de huit pieces,et timbres d'un casque de profil ayant un lion pour cimier et orne de lambrequins. Travail espagnol, xvie siecle.
+
+Haut.,3m.65; larg,3m.90.
+
+- 197 —— Dos de chasuble en brocart d'or et velours rouge boucle d'or, orne d'une croix en broderie de soie de couleur et d'or au passe, presentant l'Annonciation, la Visitation,la Creche et deux anges tenant des encensoirs. Flandres, fin du xve siecle.
+
+Haut.,1 m.20; larg,70 cent.
+- 198 - Croix de chasuble en broderie de soie de couleur et d'or presentant le Christ en croix ainsi que l'evanouissement de la Vierge. En haut et en bas de la croix, écussons charges d'un calice et de la colonne de la Flagellation. Flandres, fin du xve siecle.
+
+Haut.,I m.15.
+
+- 199  BANNIeRE composee de bandes de broderie de soie de couleur et
+- de metal, decoree de huit figures d'anges portant des attributs de la Passion et des insignes de confreries, ainsi que de deux bustes de saints. Ces bandes sont montees sur damas blanc. Flandres,fin du xve siecle.
+
+Haut.,1 m.o5; larg., 68 cent.
+
+- 200 — Croix de chasuble en broderie de soie de couleur et d'or presentant la Creche et des figures de saints sous des motifs d'archi-
+- tecture. Flandres,fin du xve siecle.
+
+Haut.,1 m.10.
+
+- 201 —Deux BANDEs etroites en broderie de soie de couleur et de metal avec applications, presentant chacune quatre figures d'anges tenant les instruments de la Passion.Flandres,fin du xve siecle.
+
+Haut.,1 m.12;larg.,8 cent.
+
+- 202 —PLuviaL de chape en broderie de soie de couleur et d'or, pre-
+- sentant le Christ crucife. Autour de la croix, dix personnages, tels que:la Vierge, sainte Madeleine,etc.Flandres, commencement du xv1 siecle.Encadre.
+
+Haut.,43cent.;larg.,44 cent.
+
+- 203  CHAsuBLE en velours vert cisele a feuillages et feurs, ornee d'une croix en broderie de soie de couleur et d'or au passe, presentant l'arbre de Jesse. Composition de neuf personnages. Travail famand.xvr siecle.
+
+Haut.,I m.1o;larg,70 cent.
+
+- 204 — Dos de chasuble en velours rouge orne d’une croix, en bro-
+derie de soie de couleur et d'or, presentant le Christ crucifie. Composition de nombreux personnages avec le Pere Eternel a la partie superieure. Travail famand, xvie siecle.
+
+Haut.,1 m.25;larg,78 cent.
+
+- 205 -Deux BANDEs D'oRFRoIs en broderie de soie de couleur et d'or, presentant six scenes tirees de la vie du Christ; fond de motifs d'architecture et de paysages. Flandres, xvie siecle.
+
+Haut.,1 m.25.
+
+- 206 —PLuviAL de chape en broderie de soie de couleur et a l'or nue, orne du sujet de la Cene; encadrement a gros reliefs. Flandres, xv1 siecle.Encadre.
+
+Haut.,54 cent.;larg.,49 cent.
+
+- 207 —PeTIT TABLEAu en broderie de soie de couleur et d'argent, representant l'Adoration des Rois Mages. Flandres, fin du xvie siecle.
+
+Haut., 1g cent.;larg.,13 cent.
+
+- 208 — BANDE ET DEux PETITS CARREs en velours rouge et satin jaune, brodes de soie de couleur et d'or et soutaches, presentant le monogramme du Christ, l'initiale M de la Vierge, ainsi que les feurs de lys de France, l'initiale A et les hermines d'Anne de Bretagne. Epoque Louis XII.
+
+Haut.,1 m.15;larg.,14 cent.
+
+- 2o9 — Croix provenant d'une chasuble en satin vieux rose, avec applications de broderie de soie de couleur et d'or;elle presente,au milieu d'entrelacs, de feuillages et de couronnes, le buste du donateur surmonte d'une figure de la Synagogue. Plus haut, le roi David entre un joueur de cornemuse et un joueur de viole; enfin, a la partie superieure, la Vierge et l'Enfant-Jesus.Parmi les motifs d'ornementation,un cartouche avec la date 1526.France, xvie siecle.
+
+Haut.,1 m.20.
+- 21o —Croix provenant d'une chasuble en broderie de soie de couleur et d'or, presentant le Christ crucifie;a la partie superieure, le Pere Eternel; au-dessous, la Vierge et saint Jean. Travail du nord de la France, xvi siecle.
+
+Haut., 1 m. 15; larg.,56 cent.
+
+- 211 —BANDE D'orrroi en broderie de soie de couleur et de metal, présentant, sous des arcades superposees a pinacles gothiques avec oiseaux, des figures de saints personnages. Fin du xive siecle.
+
+Haut., 1 m.3o; larg., 18 cent.
+
+- 212 —FRAGMENT compose de deux bandes en broderie de soie de couleur et de metal, presentant, sous des arcades gothiques avec oiseaux, quatre groupes de deux saints personnages. Fin du xive siecle.
+- 213 —LoT DE vELouRs vert du xve siecle.
+- 214 —LoT DE vELours rouge du xve siecle.
+- 215 —LoT DE vELours rouge et vert, boucle d’or, du xve siecle.
+- 216 - CHAsuBLE en velours vert sur fond de drap d'or boucle a dessin de grenades et couronnes. xve siecle.
+
+Haut.,1 m.10;larg.,65 cent.
+
+- 217 - Trois FRAGMENTs D'oRFRoIs en broderie de soie de couleur et d'or, presentant chacun, sous un dais d'architecture, une figure de saint personnage debout. xve siecle. Montes sur velours rouge.
+
+Haut.,5o et 55 cent.;larg.,23cent.
+
+- 218—FRAGMENT DE DRAp D'oR boucle a grosses feuilles et fruits.xve siecle.
+
+Haut.,46 cent, larg., 1 m.10.
+
+- 219-BANDE D'oRFroi en broderie de soie et d'or, partiellement
+
+Haut.,70 cent.;larg.,40 cent.
+chenillee, presentant les figures superposees de saint Jacques le Majeur et de saint Michel. xve siecle. Montee sur velours bleu.
+
+Haut.,1 metre;larg.,18 cent.
+
+- 220 — CHAsuBLE en deux parties en velours cisele a grenades et feuillages, en vert sur fond de drap d'or. xve siecle.
+
+Haut.,1 m.2o cent.
+
+- 221  FRAGMENT tisse en soie et lame d'argent et d'or, presentant les instruments de la Passion,le voile de sainte Veronique et l'in-
+- scription :O Ave, spes unica. xve siecle.
+
+Haut.,22 cent.;larg.,21 cent.
+
+## Vente Dupont-Auberville.
+
+- 222—FRAGMENT en toile brodee de soie de couleur et d'or presentant alternees, les armes d'Anjou-Sicile, d'Aragon et de Jerusalem, quartiers de l'écu de Rene d'Anjou. xve siecle.
+
+Haut., 10 cent.; larg., 75 cent.
+
+- 223 -DEUX FRAGMENTs D'oRFRoIs en broderie de soie de couleur et d'or au passe, presentant, l'un, le sacre d'un éveque, l'autre, un saint éveque debout, composition de cinq personnages. xve siecle.
+
+Haut.,40 cent.et 5o cent.;larg.,16 cent.et 17 cent.
+
+- 224 —CHAsuBLE en damas vert, lame d'or a feuillages,ornee d'orfrois en satin rouge, avec broderie de soie de couleur et d'or presentant, sous des arcades superposees, six figures de Saintes Femmes: sainte Marguerite, sainte Barbe, sainte Catherine, sainte Cecile,etc. France, fin du xive siecle.
+
+Haut., 1 m.20; larg, 70 cent.
+
+- 225 —PeTIT cARRE en tapisserie au petit point, presentant les instruments de la Passion, ainsi que des feuillages. xvi siecle.
+
+Haut., 20 cent.; larg., 18 cent.
+
+- 226 -PETrr PANNEAU en damas rouge, avec applications de broderie
+de soie de couleur, d'or et d'argent, a dessins de fruits et de rinceaux.xvie siecle.
+
+Haut., go cent.; larg,78 cent.
+
+- 227 - CorporAL en broderie de soie de couleur et d'or, presentant la Sainte Face et les instruments de la Passion.xvie siecle.
+
+Haut. et larg., 18 cent.
+
+Vente Dupont-Auberville.
+
+- 228 - ONzE BANDEs formees de carres en tapisserie au point et broderie de soie de couleur montees sur peluche et decorees d'animaux
+- varies places au milieu de rinceaux et de mascarons. xvie siecle.
+
+Iarg,2S cent.
+
+- 229 — CHAsuBLE en brocatelle lamee d'argent a vases de feurs avec orfroi de velours noir et applications de broderie de soie de couleur et d'or, a rinceaux et écussons armories. xvi siecle.
+
+Haut.,1 m.2o;larg.,66 cent.
+
+- 230  BaNDeAu en velours rouge decore de huit fragments d'orfrois en broderie de soie de couleur, a figures de saints sous des arcades. xvJe siecle.
+
+Haut., 3o cent.; larg., 1 m.65.
+
+- 231 —DALMATIQuE en velours a grenades, en violet sur fond blanc.
+- xvIe siecle.
+
+Haut., 1 m.10.
+
+- 232  CHApe en velours a feurs et animaux en rouge sur fond jaune. xv1 siecle.
+
+Haut.,1m.28;larg.,2m.95.
+
+- 233  GRAND PANNEAu de velours, a fleurettes bleues sur fond creme. xv1 siecle.
+
+Haut., 2 m.30; larg., 1 m.85.
+- 234 — CHAsuBLE en pieces en satin rouge soutache a decor de bandes étroites. Fin du xvre siecle.
+- 235 - FrAGMENT provenant d'une ancienne coiffure en broderie de soie et de metal, presentant le Christ apparaissant a six personnages.
+
+Haut.,16 cent.;larg.,25 cent.
+
+<!-- image -->
+IMPRIMERIEGEORGESPETIT I2,RUE GODOT-DE-MAUROI,I2

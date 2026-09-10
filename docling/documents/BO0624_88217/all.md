@@ -1,0 +1,2013 @@
+## GEMALDE NEUZEITLICHER MEISTER.
+
+## MATTHIASARTARIAt
+
+geb.1814 zu Mannheim.
+
+## 1 Kampf zwischen Freischirlern und Soldaten.
+
+Sidlandische Landschaft, einsame Gebirgsgegend mit vereinzelt stehenden Palmen. Vorn eine fliehende Schar von bunt gekleideten und bewaffneten Mannern, die sich gegen den Angriff einer nachstiirmenden Soldatengruppe verteidigen. Bezeichnet:M.Artaria 1845. Leinwand. Hohe 41,Breite 52 cm.
+
+## WILHELM AMANDUS BEER
+
+## Frankfurt a. M.
+
+- 2 Schlafender Mann
+
+in der Tracht des 16. Jahrhunderts. Er sitzt, den Kopf aufgestitzt, schlummernd in einem
+
+Armsessel.
+
+Auf dem Ricken bezeichnet.
+
+- 3 Blumen-Stilleben.
+
+In einer Mauernische steht auf grauem Marmorpostament eine Glasvase mit bunten Leinwand.Hohe 53, Breite 45 cm.
+
+Blumen.Daneben liegt ein Biindel gelber Trauben. Monogrammiert.
+
+## H.C.BOGMAN.
+
+Leinwand. Hohe 351/2,Breite 23 cm.
+
+## ARNOLDUS BLOEMERS
+
+geb.zu Amsterdam 1792, gest.1844.
+
+## 4 Pierdegespann.
+
+Vor niedrigem,weiBgetinchtem Schuppen, den griines Buschwerk iberschattet, halt eine grasbeladene Karre mit zwei Pferden bespannt. Ein auf dem Wagen stehender Bauer ist damit beschaftigt, das Gras abzuladen.Links Blick auf Wiese. Bezeichnet. Leinwand aufHolz.Hohe28,Breite 41 cm.
+
+## HEINRICH BOHMER.
+
+Sonniger Durchblick durch einen sommergrinen Wald mit ruhig flieBendem Bach
+
+## 5Buchenwald.
+
+in der Mitte.
+
+Bezeichnet.
+
+## 6 Vor der Schmiede.
+
+Zwei Pferde,ein Schimmel und ein Brauner stehen,vom Beschauer abgewandt,vor einer Schmiede. Ersterer wird von zwei Gesellen beschlagen. Rechts sieht man einen dritten Gesellen am Feuer.
+
+Oben rechits Monogramm:R.B.
+
+Leinwand.Hohe 61,Breite 80 cm.
+
+## ROSA BONHEUR. Angeblich.
+
+Leinwand.Hohe 49,Breite 65 cm.
+- 16 Marine.
+
+## EUGENELOUIS BOUDIN
+
+## Schiler Troyons.
+
+## 7 Landschait mit Bauern und Reitern.
+
+Durch eine Waldschlucht, die vorn in ein Wasser mindet, streben vier Bauern,gefihrt von einem Hunde, in erregter Spannung umher spahend,nach vorn. Ihnen folgen drei berittene Soldaten. Von hinten fallt das erste Licht der aufgehenden Sonne in die dammrige Schlucht.
+
+Bezeichnet:L.Boudin.
+
+## 8Alpenlandschaft.
+
+Vorn ein baumreiches, von Schluchten durchzogenes Bergland, hinten ein schneebedeckter Bergriese.
+
+Mit Bezeichnung.
+
+- 9 Ansicht von Niederlahnstein,
+
+tiberragt von der Burg Lahneck. Gegeniber liegt Stolzenfels. Bezeichnet:Diezler 1838. Holz.Hohe 36,Breite 57 cm.
+
+- 10 Ansicht von Caub
+
+und der Pfalz mit weitem Blick auf den Lauf des Rheines. Bezeichnet:Diezler 1839. Holz.Hohe 36,Breite 57 cm.
+
+- 11 Ansicht von Oberwesel.
+
+In der Ferne sieht man die Pfalz. Bezeichnet:Diezler 1830. Holz.Hohe 36,Breite 57 cm.
+
+- 12 Ansicht von Coblenz.
+
+Links die Stadt, rechts Blick auf Ehrenbreitstein. Figurenstaffage. Bezeichnet:Diezler 1834. Holz.Hohe 36,Breite 57 cm.
+
+- 13 Umgegend von Coblenz.
+
+Links in der Ferne Ehrenbreitstein,rechts Coblenz mit der Moselmindung. Bezeichnet:Diezler 1830. Holz.Hohe 36,Breite 57 cm.
+
+- 14 Ansicht von Burg Elz.
+
+## 15 Gondoliere.
+
+Rechts gegeniber Trutz-Elz. Weite Fernsicht. Bezeichnet:Diezler 1838.
+
+## GIACOMOFAVRETTO
+
+geb.1849 zu Venedig, gest. 1887 daselbst.
+
+Schwarzbartiger Mann in gelbem Anzug und grauer Mitze in einem Kahn sitzend und ein grines Ruder handhabend.
+
+Bezeichnet:G.Favretto al suo amico F.S.
+
+Leinwand.Hohe 102,Breite 88 cm.
+
+## JEANANT.TH.GUDIN
+
+geb.1802 zu Paris, gest. 1880 zu Boulogne.
+
+Griinblau gemalte See in langen flachen Wellen, die an mehreren links sich hinziehenden Riffen branden. Ein mit vier Fischern besetztes Ruderboot fahrt nach rechts hiniber. Links in der Mitte sieht man einen Segelkutter.
+
+Holz. Hohe 28,Breite 26 cm.
+
+Leinwand. Hohe 64,Breite 54 cm.
+
+ALEXANDRECALAME.Angeblich.
+
+Leinwand. Hohe 61, Breite 49 cm.
+
+Bezeichnet: J. Gudin.
+
+## DIEZLER.
+
+Holz.Hohe 36,Breite 57 cm.
+## 17 Frihlingslandschaft.
+
+## HEINRICH HARTUNG.
+
+Links blihende Obstbaume auf blumiger Bergwiese mit arbeitenden und spielenden Bauernkindern. Rechts steigt ein waldiger Kegel hoch, an dessen FuBe zwischen zwei Pappeln ein niedriges Fachwerkhaus liegt.
+
+Leinwand. Hohe 103, Breite 78 cm.
+
+Leinwand. Hohe 29,Breite 40 cm.
+
+geb. 1849 zu Wirzburg.
+
+Bezeichnet:H.Hartung Ddf.
+
+## 18 Sominerlandschaft.
+
+## 19 Zwei Esel.
+
+geb. 1839 zu Antwerpen.
+
+Vor einer sommergrinen Wiese stehen in voller Sonne ein brauner und ein weiBer
+
+Holz.Hohe 28,Breite 45 cm.
+
+Abb.Tf.1
+
+Esel. Links im Grase steht ein rotbedeckter Korb. Bezeichnet:A.Jos.Heymans Paris 1879.
+
+- 20 Landschaft
+
+## T.H.HOFFMANN.
+
+mit Kuhherde. Wiese,nach hinten durch ein Gebisch abgeschlossen. Durch einen Bach,
+
+Holz. Hohe 15, Breite 391/2 cm.
+
+Holz. Hohe 40, Breite 57 cm.
+
+Abb.Tf.2.
+
+der dem Vordergrunde zuflieBt,watet eine Kuhherde. Bezeichnet.
+
+- 21 Marine.
+
+## PIETER JANSENS.
+
+Bewegte See mit groBem Dreimaster und Segelkutter.
+
+## EUGENJETTEL
+
+geb. 1845 zu Johnsdorf (Mahren).
+
+Bezeichnet:P. Jansens.
+
+- 22 Rohricht bei Compiegne.
+
+Wiesenebene mit weitem Fernblick. Im Mittelgrunde liegt ein weitlaufiges Gehoft. Vorn rechts ein mit Rohricht bewachsener Sumpf. Morgenstimmung im Sommer. Bezeichnet:Eugen Jettel 1885. Leinwand.Hohe 31,Breite 49 cm.
+
+Abb.Tf.3.
+
+Lichtgriin gemalte Wiese mit vielen Blumen,mitten durchzogen von einem schmalen Bache. Rechts ein Kornfeld.Den Hintergrund schlieBen Hecken und Buschwerk ab, Zwischen dem einzelne Hauser sichtbar sind. Bezeichnet:K. Heffner.
+
+Abb.Tf.3.
+
+## 23 Alte Frau.
+
+## EDOUARDIRERE.
+
+Ein alte Bauerin in grauem Kleide und Kopftuch sitzt in Nachdenken versunken neben offenem Herdfeuer,halb in's Profil geriickt. In der Linken halt sie eine angeschalte
+
+Kartoffel,in der Rechiten ein Messer. Am Boden Napf mit Kartoffeln.
+
+Bezeichnet:E.Irere.
+
+Leinwand.Hohe 28,Breite 19 cm.
+
+KARL HEFFNER
+
+## ADRIEN JOSEPH HEYMANS
+## 24Grobe Winterlandschaft.
+
+Weite Ebene, schneebedeckt,von gefrorenen Wasserlaufen durchquert.Zahlreiche Manner und Frauen sind damit beschaftigt, gefrorene Fische zu sammeln.Ein silbergrauer Nebel verschleiert die Luft. Hinten sieht man die niedrigen Hauser eines Dorfes. Leinwand.Hohe 81,Breite 120 cm. Bezeichnet.
+
+## LODOVICUS J.KLEIJN.
+
+## 25 GrobeFiuBlandschaft mit Windmiihle.
+
+Durch die Mitte zieht sich ein breiter von vielen Schiffen belebter FluB hin,an dessen linkem Ufer vorn eine hochragende Windmihle zwischen Buschwerk steht,wahrend am rechten Ufer ein Kahn mit buntgekleideten Bauern angelegt hat, die ihre Vorrate aus- laden.
+
+Bezeichnet:L. J. Klein.
+
+## 26 Winter im Gelderland.
+
+Am Rande eines tief verschneiten Waldes zwei Gruppen alter malerischer Hitten. Auf dem Wege, der zwischen ihnen hindurchfihrt,bewegen sich zwei kleine Figuren. Vorn spiegelblanke Eisflache. Bezeichnet. Holz.Hohe 34,Breite 42 cm.
+
+## BARENDCORNELISKOEKKOEK
+
+geb.1803 zu Middelburg,gest.1862 zu Cleve.
+
+## 27Wald mit Patrouille.
+
+Blick durch lichten,hochstammigen Eichenwald mit breiter Felsschlucht links, durch die sich ein Weg zieht.Auf diesem sieht man drei Soldaten in kleinen Figuren. Etwas mehr vorn lagern zwei andere am Boden.Sepiazeichnung. Gerahmt. Bezeichnet:B C.Koekkoek 1831. Hohe 27,Breite 33 cm.
+
+## JANH.B.KOEKKOEK.1885,
+
+geb.1840 zu Amsterdam.
+
+Leinwand. Hohe 78,Breite 128 cm.
+
+Leinwand.Hohe 80,Breite 104 cm.
+
+## J.B.KLOMBECK
+
+## Schiler des B. C. Koekkoek.
+
+## 28 GroBes Strandbild.
+
+Flacher Dunenstrand im Vordergrund,mit Blick auf maBig bewegte See. Auf dieser sieht man mehrere Segelschiffe vor Anker liegen.Den Strand beleben figurenreiche Fischergruppen, Weiber und Kinder. Eine Gruppe vorn in der Mitte stellt Fischer dar, welche ihren Fang verkaufen.
+
+Bezeichnet:Jan H.B.Koekkoek 1885.
+
+## 29 Am Strand von Scheveningen.
+
+Grasbewachsene Dinen,auf denen sich eine Gruppe niedriger Fischerhauser hinzieht.Im Sande zwei spielende Kinder.Den Himmel bedecken schwere Wetterwolken. BezeichnetJan H.B.Koekkoek.Scheveningen. Holz.Hohe 241/2,Breite 44 cm.
+
+## J.JUNGBLUT.
+- 30 Italienerin.
+
+## S.KOOL.
+
+Junges schwarzlockiges Madchen in italienischer Tracht mit leuchtend rotem Kopftuch. Sie steht in Kniefigur halb im Profil, den Blick in's Weite gerichtet. Vor ihr steht auf einem Tische ein Blumenstock,daneben hockt eine weiBe Taube. Bezeichnet:S.Kool.
+
+- 31 Westfalische Landschaft.
+
+Bezeichnet.
+
+- 32 Weinprobe.
+
+## HANSLASSEN.
+
+In einem Kellergewolbe sitzen neben einem Fasse zwei alte Herren,mit Kennermiene den Tropfen kostend,den ihnen der Kellermeister kredenzt hat. Bezeichnet.
+
+- 33 Die Schachspieler.
+
+Um einen Tisch mit dunkelroter Decke sitzen drei Herren. Zwei von ihnen sind in eine Schachpartie vertieft; der dritte, der eben ein Glas Wein hochhebt,auBert seine Meinung iber die Stellung der beiden Gegner. Auf tirkischem Tabouret Weinkanne, Glas und Tonpfeifen. An der Erde ein Stapel Bicher. Bezeichnet.
+
+- 34 Kleine hollindische Landschaft
+
+Bezeichnet.
+
+- 35 Kneipen-Inneres.
+
+Bezeichnet:Madou.
+
+- 36 Fuchskopf
+
+## D.VON MAFFEI.
+
+aus hohem griinem Gras heraus den Beschauer anblickend.
+
+Bezeichnet.
+
+- 37 Badende Frauen.
+
+hangt.
+
+## HANSMAKART(?).
+
+Neben einem Marmorbassin in Parkumgebung drei entkleidete Frauen und zwei Kinder in malerischen Stellungen vor roter Draperie, die iber eine Architektur herunter-
+
+Monogrammiert:H.M.
+
+- J.V.D.LINDE.
+
+von Kanal durchzogen. Rechts Uferweg mit Gebisch. In der Ferne die Silhouette einer Stadt.
+
+Leinwand. Hohe 21,Breite 27 cm.
+
+## JEANBAPTISTEMADOU
+
+geb.1796 zu Brissel,gest.1877 daselbst.
+
+Im Hintergrunde sitzen zwei kartenspielende Manner an einem Tische.Vorn auf einem Schemel ein Mann in althollandischer Tracht,eine lange Tonpfeife rauchend. Neben ihm ein FaB, Topfe und Bitten.
+
+Leinwand. Hohe 40,Breite 49 cm.
+
+Abb.Tf.2.
+
+Karton. Hohe 35,Breite 39 cm.
+
+## PAUL KOSTER.
+
+Links im Gebiisch ein Bauerngehoft. Im Vordergrunde ein Weiher mit bemanntem Kahn.
+
+Holz. Hohe 12,Breite 18 cm.
+
+Leinwand. Hohe 61,Breite 44 cm.
+
+Leinwand. Hohe 61,Breite 45 cm.
+
+Holz. Hohe 25, Breite 17 cm.
+## 38 Olstudie.
+
+Zwei Harnische,Sturmhaube,Panzerhandschuh,Wasserflasche,Palette,Fayenceseidei auf gelbem Grunde. Karton.Hohe 28,Breite 40 cm.
+
+## ARSENIUS MESTSCHERSKY
+
+geb. 1834 zu Twer (RuBland), Schiiler von A. Calame in Genf.
+
+- 39 Ziegenherde auf der Bergwiese.
+
+Man blickt auf einen Berghang,iber dem ein feiner grauer Morgennebel liegt. Aus dem Nebel heben sich in schattenhaften Umrissen zahlreiche grasende Ziegen heraus,bewacht von einem farbig gekleideten Hirten, der vorn in heller Sonne an einem Felsblock lehnt. Links vorn auf einem Felsvorsprung eine vollbeleuchtete Ziege.
+
+Bezeichnetund datiert 1865. Leinwand. Hohe 57,Breite 47 cm.
+
+## H.MEVIUS.1843.
+
+Bezeichnet.
+
+- 40 Ansicht
+
+eines kleinen Dorfes, das am FuBe bewaldeter Berge liegt. Figurenstaffage.
+
+Bezeichnet:H.Mevius 1843. Leinwand auf Holz.Hohe 161/2,Breite 23 cm.
+
+## ABRAHAMMIGNON.
+
+- 41 Blumenstiick
+
+mit Nautilus. Rosen,Mohn und andere Gartenblumen sind um einen Nautilus gruppiert. Monogrammiert:A.M.f. Holz. Hohe 27,Breite 35 cm.
+
+Abb.Tf.2.
+
+- 43 Eifeldorf.
+
+Berghang mit graugriner Heideflache. Auf der Hohe die niedrigen Fachwerkhauschen eines Dorfes mit kleiner Kirche im Vordergrunde..Leichtbewolkter Himmel. Bezeichnet. Leinwand.Hohe 30,Breite 40 cm.
+
+## 44,Der Tauschhandel".
+
+## HUGO OEHMICHEN.
+
+Kleines Madchen in rotem Kleide und blauer Schirze sitzt auf einer Bank.Sie hat drei Apfel im SchoB und schaut lachelnd auf einen pfiffigen Jungen, der ihr ihre Schatze gegen eine Brezel, die er auf dem Riicken halt,abzuhandeln versucht. Bezeichnet. Leinwand.Hohe 56,Breite 42 cm.
+
+## 45,Der erste Rauchversuch".
+
+Bezeichnet.
+
+Kleiner Junge, eine Zigarette rauchend.
+
+## ADOLFVONMENZEL.
+
+## LEOPOLDCARL MULLER
+
+geb.1834 zu Dresden, gest. 1892 zu Weidlingen b.Wien.
+
+- 42 Der Marchenerzahler.
+
+In gemauertem Raume hockt ein schwarzbartiger Araber in weiBem Burnus auf gelbweiBem Teppich.Vor ihm hocken zwei verschleierte Frauen, die seiner Rede lauschen.
+
+Bezeichnet: Leop. Crl. Miller. Leinwand.Hohe 53,Breite 68 cm.
+
+## ERICH NIKUTOWSKI.
+
+Leinwand.Hohe 51, Breite 40 cm.
+## 46 Madchen mit Vogelbauer.
+
+Kleide, einen Finken neckend, der in einem auf dem Tische stehenden grinen Bauer sitzt. Bezeichnet. Leinwand. Hohe 51,Breite 40 cm.
+
+An einem altertimlichen Klapptisch sitzt ein kleines Bauernmadchen in blauem
+
+## 47,Zeichienunterricht".
+
+Kleines Madchen auf einer FuBbank vor einem Stuhle sitzend. Es bemiht sich eine Katze riach einem Vorlagenblatt zu zeichnen. Ihr groBerer Bruder steht neben ihr und schaut ihr ironisch lachelnd zu.
+
+Leinwand. Hohe 55,Breite 42 cm.
+
+## WILLEMOPPENOORTH
+
+## 48 Hollindische Wiesenebene
+
+geb.1847 zu Amsterdam.
+
+mit vier lagernden Kihen vorn links. Das Blickfeld schlieBt eine dichte graue Buschmasse
+
+ab. Im Mittelgrunde beladener Heuwagen. Bezeichnet:Willem Oppenoordt.
+
+## 49 Buchenwald
+
+Leinwand auf Holz. Hohe 39,Breite 55 cm.
+
+## J.J.VANPOORTEN.
+
+mit sonnebeschienener Lichtung. Vorn ein kleiner Weiher, daneben zwei Rehe.
+
+## JOHNRATHBONE
+
+geb.um 1750 zu Cheshire, gest. 1807.
+
+Blick auf einen massigen Gebirgsstock, auf dessen abgeplatteter Hohe eine weitlaufige Festung liegt.Vorn in der Mitte zwischen Felsenwanden ein enges Tal mit Gehoft unter Baumen.Zwei Staffagefigiirchen.
+
+Holz.Hohe 28,Breite 40 cm.
+
+## PROFESSOR KARLRAUPP
+
+geb.1837 zu Darmstadt.
+
+Bezeichnet.
+
+## 50 Gebirgige Landschaft.
+
+Bezeichnet:J.Rathbone.
+
+## 51 Weibliches Bildnis.
+
+Brustbild einer jungen Dame im Kostim der Rubenszeit mit groBem Federhut. Die traumerischen Augen sind fragend in's Weite gerichtet,die schlanken Hande vor der Brust gekreuzt.
+
+Leinwand. Hohe 80,Breite 60 cm.
+
+Leinwand.Hohe 46,Breite 62 cm.
+
+## 52 Badende Kinder.
+
+## ROLAND RISSE
+
+geb.1835 zu Koln.
+
+In einer Badebitte zwei nackte Knaben.Daneben hockt glicklich lachelnd eine junge Frau in grinem Kleide.
+
+Bezeichnet: R. Risse Df.62.
+
+Leinwand. Hohe 2612,Breite 34 cm.
+
+## 53 Blumenstick.
+
+Bezeichnet:H.Robbe.
+
+## H.ROBBE.
+
+Prachtiger StrauB von roten und weiBen Rosen in einer Delftvase. Am Boden zerstreut verschiedene Arten von Gartenblumen.
+
+Leinwand. Hohe 90,Breite 60 cm
+- 55 Charlotte Corday
+
+nach der Ermordung Marats. Sie schreitet ruhig, gefihrt von zwei Haschern, durch eine vielkopfige Menge, die sie heftig bedroht.
+
+Leinwand. Hohe 31,Breite 38 cm.
+
+## ANDREAS SCHELFHOUT.
+
+## 56 Winterlandschaft.
+
+Sonnebeschienene Eisflache,im Vordergrunde Schlittschuhlaufer und Schlittenfahrer.Rechts am verschneiten Ufer Hauser und Windmihle. Bezeichnet:A.Schelfhout. Leinwand.Hohe 43,Breite 58 cm.
+
+## CASPAR SCHEUREN.
+
+- 57 Landschait
+
+mit zwei alten Hausern vorn rechts. Nach hinten fihrt ein figurenbelebter Weg. Hinter- grund hohe Berge.
+
+## 58 Landschaft.
+
+An dem Ufer eines Flusses zieht ein Mann einen Kahn an den Steg,um einen beladenen Esel einzuschiffen. Links Wald.
+
+Bezeichnet.
+
+- 59 Gruppe
+
+Leinwand.Hohe 90,Breite 120 cm.
+
+## WILHELMSCHREUER.
+
+von drei jungen Madchen. Elegantes Zimmer in grinlichem Ton gemalt. In der Mitte drei eifrig schwatzende junge Madchen in leichten Sommerkleidern. Links an der Wand Konsoltischchen mit Statue.
+
+Monogrammiert.
+
+## 60 Bildnis eines jungen Mannes
+
+Hohe 44,Breite 54 cm.
+
+in schwarzem Gewand mit breitem, weiBem Halskragen. Hiftigur nach rechts. Monogrammiert.
+
+- 61 Ebene
+
+## CARL SCHULTZE.Disseldorf.
+
+mit Bauernhofen. Wiesenebene mit schaumendem Bache vorn. Rechts,beschattet von in der Ebene zerstreut. Am Himmel treiben ballige Wolken.
+
+Baumgruppen, ein hochdachiges Gehoft. Nach hinten zu sieht man noch andere Hauser Bezeichnet. Leinwand.Hohe 60,Breite 80 cm.
+
+Hohe 60,Breite 40 cm.
+
+Bezeichnet:C. Scheuren. Holz. Hohe 22,Breite 30 cm.
+
+## A.SCHLATER.Disseldorf 1874.
+
+## JAN VAN DE SANDE-BAKHUISEN
+
+geb.1795 zu Gravenhage.
+
+## 54 Landschaft im Gelderland.
+
+Am Ufer eines von links nach rechts stromenden Flusses, der in der Mitte einen Wasserfall bildet, steht auf einer felsigen Anhohe eine Gruppe groBer Baume.Darunter Reiter und Hirten mit ihrem Vieh. Den Hintergrund schlieBen Berge ab. Sehr fein aus- gefuihrt. Bezeichnet. Holz. Hohe 57,Breite 69 cm.
+
+## ARIE SCHEFFER. Zugeschrieben.
+## 62 Grobie Alpenlandschaft.
+
+Uber schroffe,nebelumbraute Felswande stirzt in schaumenden Fallen ein Bach zu Tal. Vorn grine Matten mit Gebisch und Sennhitte.
+
+Bezeichnet. Leinwand.Hohe 80,Breite 110 cm.
+
+## ROBERT SCHULTZE.
+
+- 63 Alpenlandschaft.
+
+Tal zwischen bewaldeten, dunstverhangenen Bergen mit dem klaren Spiegel eines Sees auf der Sohle.Das Blickfeld schlieBt nach hinten eine schroffe,gelbbraune Wand ab, deren Kamm mit Schnee bedeckt ist. Ihre oberen Partien liegen im vollen Sonnenlichte, wahrend iber die unteren blaulich-violette Schatten gleiten. Bezeichnet und datiert 1856. Leinwand.Hohe 42,Breite 57 cm.
+
+## CHRISTIAN SELL d.AIt. Zugeschrieben.
+
+- 64 Franzosischer Liniensoldat
+
+vom ersten Regiment. Er steht dem Beschauer zugewandt in ganzer Figur im Vorder- grunde einer weiten Landschaft.
+
+- 65 Landschaft mit Kanal.
+
+Niederlandische Wiesenebene von breitem Kanal durchzogen,den vorn eine Zugbriicke iberquert. Zwei Fischer als Staffagefiguren.Von links hinten leuchten die Ziegeldacher eines Gehofts aus grinem Buschwerk. Bezeichnet: G.W.v. d.Stap 09. Holz.Hohe 32,Breite 40 cm.
+
+Leinwand.Hohe 38,Breite 29 cm
+
+Abb.Tf.3.
+
+## FRANZ STREITT geb. 1839 zu Brody (Galizien).
+
+- 66 Heiinkehr von der Kirmes.
+
+Frostklarer Wintermorgen iber tiefverschneiter,buschbewachsener Ebene. Sechs buntgekleidete Musikanten mit ihren Instrumenten stehen ratlos vor einem Wegweiser, dessen Schild heruntergebrochen ist und konnen anscheinend iber den einzuschlagenden Weg nicht klar werden.
+
+Bezeichnet:F.Streitt Minchen.
+
+## JULES JACQUESVEYRASSAT
+
+## geb.1828 zu Paris, gest.1893 daselbst.
+
+- 67Bewaldete Landschaft mit Schafherde.
+
+Auf einer sommergrinen Waldwiese im Schatten hoher Laubbaume eine grasende
+
+Schafherde.
+
+Bezeichnet:J.Veyrassat.
+
+Holz. Hohe 2212, Breite 321/2 cm.
+
+## PROFESSOREMIL VOLKERS.
+
+- 68 Zwei Pferdebilder. Gegensticke.
+
+Schimmel und Goldfuchs.
+
+Beide bezeichnet und datiert 1903.
+
+Holz.Hohe 21,Breite 40 cn.
+
+Abb.Tf.3.
+
+## G.W.V.D.STAP.
+
+Holz.Hohe 24,Breite 31%2 cm,
+## 69 Landschaft.
+
+Im Vordergrund sumpfiges Gelande. Am Horizont die untergehende Sonne. Hohe 17,Breite 28 cm.
+
+Bezeichnet.
+
+## PROFESSOR THEODORWEBER,PARIS
+
+## geb. 1838 zu Leipzig.
+
+## 70 Marine.
+
+Stark bewegte, im Silberton gemalte See. Vorn fahren zwei Segelboote und ein Holz.Hohe 24,Breite 40 cm.
+
+Ruderkahn. Am Horizont sieht man noch mehrere kleine Segel. Bezeichnet:Th.Weber.
+
+## PROFESSOR FRITZVON WILLE.
+
+## 71 Bei Nideggen.
+
+Blick in eine Talsenkung mit bewaldeten und heidebewachsenen Hohen. Vorn zahlreiche gelbe Ginsterbische. In der Ferne sieht man das Kloster Mariawald. Bezeichinet. Leinwand.Hohe 51,Breite 61 cm.
+
+## UNBEKANNTER MEISTER.
+
+## 72 Pferdestall
+
+mit Blick iber einen Hof in einen anderen kleinen Stall. Rechts steht ein Pferd, daneben hockt ein Bauernjunge. Links eine Bauerin, die ein Kind an der Hand fihrt.In der Auffassung Munkacsys.
+
+## R.ALOTT (Graf Schuch).
+
+Holz. Hohe 55, Breite 68 cm.
+
+## PROFESSOR AUGUST WEBER.
+
+## 73Italienische Kiistenstadt.
+
+Strandpromenade mit prachtigen Villen und zahlreichen elegant gekleideten SpazierLeinwand.Hohe 95,Breite 118 cm.
+
+gangern. Nach hinten Sicht auf die ruhige See. Bezeichnet.
+
+## W.BECKER,CASSEL.
+
+## 74 Grobe Sommerlandschaft
+
+von mehreren Wasserarmen durchzogen. Vorn rechts groBe Baumgruppe. Leinwand.Hohe 70,Breite 125 cm.
+
+## OTTO BOLLMANN-WIEN.
+
+Leinwand.Hohe 38,Breite 57 cm.
+
+Bezeichret.
+
+## 75 Bewaldete Landschait
+
+mit Herde: Wiesengelande unter sonnigem Himmel. Links hoher Baumschlag, durch den eine kleine Schafherde zieht.
+
+## 76 Norwegischer Fjord
+
+## W.BRUNNERT.
+
+zwischen hohen schroffen Bergen. Ein Dampfschif und ein Ruderboot als Staffage.
+
+Bezeichnet. Leinwand. Hohe 75,Breite 114 cm.
+- 77 BlumenstrauB
+
+## JOSEF DEDERICHS.
+
+in Vase. Ein groBer StrauB farbiger Gartenblumen in griner Vase. Bezeichnet und datiert 1908. Leinwand.Hohe 64, Breite 46 cm.
+
+## H.DILLENS.1838.
+
+- 78 Ermordung Wilhelms 1.von Oranien
+
+durch Balthasar Gerards zu Delft. Bezeichnet:H.Dillens 1838.
+
+- 79 Kleine Landschaft
+
+## H.DELACROIX.
+
+bei Gewitterstimmung mit kleiner Hitte unter Baumen. Bezeichnet.
+
+- 80 Kleine Landschaft mit Kiihen.
+- J.DUPRE. Angeblich.
+- 81 Frichtestilleben
+- H.EPP.1854.
+
+mit Trauben, Pfirsichen und Nissen. Bezeichnet.
+
+- 82 Fischermidchen
+
+## L.FERSTEL.
+
+vor einem Hafen stehend, ein Netz auf der Schulter tragend. Bezeichnet.
+
+- 83 Winzermadchen,
+
+einen Korb Trauben tragend.——Gegenstick.
+
+- 84Waldinneres
+
+Leinwand. Hohe 45,Breite 37 cm.
+
+Holz. Hohe 19,Breite 24 cm.
+
+Leinwand.Hohe 15,Breite 23 cm.
+
+Holz. Hohe 28, Breite 21 cm.
+
+Holz. Hohe 44, Breite 17 cm.
+
+Gleiche GroBe.
+
+## FRANZOSISCHE SCHULE.19.Jahrh.
+
+im Sommer. Ein Jager mit Kind als Staffage. In der Manier Daubignys. Leinwand.Hohe 38,Breite 60 cm.
+
+- 85 Alpenthal.
+
+## P.GEHRMANN.
+
+Rechts heben sich die steilen nebelumzogenen Wande schneebedeckter Bergriesen. Davor breitet sich ein felsiges bachdurchzogenes Tal mit mageren Baumschlagen. Bezeichnet. Leinwand.Hohe 60,Breite 78 cm.
+
+## J.L.A.GERICAULT.Angeblich.
+
+- 86 Bildnis eines alten Herrn,
+
+bartlos,mit kurz geschnittenem, weiBem Haar im Profil nach links.
+
+Leinwand.Hohe 40, Breite 32 cm.
+- 87 Vier Pferdekopfe
+
+## A.GESELL.
+
+Zwei Schimmel und zwei Braune,nebeneinander. Bezeichnet.
+
+- 88 Bismarckportrat.
+
+Bezeichnet.
+
+- 89 FluBlandschaft.
+
+## M.GIERLICHS.1901.
+
+## E.HEFER.
+
+Im Vordergrunde ein Madchen, das eine Schar Ganse vor sich hertreibt. Bezeichnet. Holz.Hohe 16,Breite 24 cm.
+
+- 90 Im Klosterkeller.
+
+## A.HEINE.Minchen.
+
+An einem Tische sitzen zwei Jager, die mit einem Madchen schakern. Hinter ihnen steht lachend der Klosterkellermeister. Bezeichnet. Holz. Hohe 12,Breite 16 cm.
+
+- 91 Partie aus dem Haag.
+
+## VANDER HEYDEN.
+
+Breite StraBe mit zahlreichen Personen in der Tracht des 17. Jahrh. Rechts vorn der Turm einer Windmihle,links die Fassade eines aus rotem Ziegelstein erbauten Sandsteingebaudes.
+
+- 92 Verschneiter Wald.
+
+## JOSEF HEYDENDAHL.
+
+Auf einer Lichtung vorn zwei Wildschweine. Im Hintergrund Sonnenuntergang. Bezeichnet: Jos.Heydendahl 1901. Leinwand.Hohe 65,Breite95cm.
+
+- 93 Kiste
+
+## A.JOHN.
+
+mit niedrigen Hausern und Kirche. Rechts die See. Bezeichnet.
+
+- 94 Birken am Bache.
+
+Bezeichnet.
+
+- 95Rheintal
+
+## F.MANTEUFFEL.
+
+bei Oberwesel mit weiter Fernsicht.
+
+## J.JUNGBLUT.
+
+Durch die Mitte zieht sich in ruhigem Laufe ein breiter Bach, den ein herbstlich gefarbtes Laubgeholz einsaumt.Ganz vorn drei schlanke weibe Birken.Im Mittelgrunde kleines Gehoft.
+
+Leinwand. Hohe 44,Breite 33 cm.
+
+Leinwand. Hohe 86. Breite 110 cm.
+
+Leinwand.Hohe 41,Breite 61 cm.
+
+Leinwand.Hohe 46,Breite 38 cm.
+
+Holz.Hohe 35,Breite 44 cm.
+
+Leinwand.Hohe 68,Breite 98 cm.
+## 96 Tanzunterhaltung.
+
+## L.MENASSE.
+
+In elegantem Louis XV.-Salon eine zahlreiche Gesellschaft von Damen und Herren in Rokokokleidern. Ein junges Paar fuihrt ein Menuett auf. Bezeichnet. Leinwand.Hohe 75,Breite 100 cm
+
+- 97 Landschaft mit Mihle.
+
+## MONOGRAMMIERTA.A.1837.
+
+Waldumgebenes Tal mit breitem Bach vorn. Links die Hausergruppe einer Mihle. Zwei Personen im Kahn als Staffage.
+
+Monogrammiert:A.A.1837.
+
+- 98 Trauernae Nonne.
+
+Im Vordergrunde einer gebirgigen Landschaft junge Nonne in braunem Habit neben einem Grabe sitzend,in Nachdenken versunken. Bezeichnet. Leinwand.Hohe 48,Breite 41 cm.
+
+## O.MUHLMANN.
+
+Holz. Hohe 25.Breite 32 cm.
+
+- 99 Gebirgslandschaft
+
+mit Burg. Blick auf grine Bergwiesen an steilen Hangen. Vorn in der Mitte auf niedrigem Kegel eine umfangreiche Burg. Bezeichnet und datiert:1909. Leinwand. Hohe 40,Breite 50 cm.
+
+## B.NEUVILLE.
+
+- 100 Katzenbild.
+
+Vier junge verschiedenfarbige Katzchen sitzen um einen FreBteller herum. Leinwand.Hohe 54,Breite 65 cm.
+
+## PROF.JOHANNES NIESSEN. Koln.
+
+- 101Zwei klcine Landschaften mit Staffage.
+- 102 Landschaft
+
+in Mondbeleuchtung mit Baumgruppen und FluB im Mittelgrunde. Bezeichnet:A.van Peurse 73.
+
+- J.POYER.
+
+Holz.Hohe 17,Breite 26 cm.
+
+Leinwand.Hohe 40,Breite 55 cm.
+
+Holz. Hohe 17, Breite 44 cm.
+
+Holz.Hohe 101/2,Breite 17 cm.
+
+Bezeichnet.
+
+- 103Waldlichtung
+
+bci Mondschein. Als Staffage ein Hirsch. Signiert.
+
+## M.PROVYEN.
+
+- 104 Kieine Landschaft
+
+im Gelderland,in Sommerstimmung. Mit Bauernhausern und kleinen Figuren. Bezeichnet.
+
+## HEINRICH MUCKE.
+
+## A.VANPEURSE.
+- 105 Gegenstick zu voriger.
+- 106 Nacktes, sitzendes Kind.
+- 107 Sonnige Landschaft.
+
+## PROF. REIFF.
+
+## ROBERT REINHARD.
+
+Im Vordergrund schilfbewachsene Ufer. Im Hintergrund Bergkette. Bezeichnet. Hohe 20,Breite 24 cm.
+
+## LEVYRICHETTE.
+
+- 108 Landschaft
+
+mit kahnbelebtem FluB,an dem eine Schleuse steht. Mittel- und Hintergrund bewaldet. Bezeichnet. Holz.Hohe 27,Breite 36cm.
+
+## ROBBE.1853.
+
+Im Vordergrunde links liegende braune und stehende weiBe Kuh neben Weiden-
+
+- 109 Kihe auf der Wiese.
+
+stumpf.
+
+Bezeichnet:Robbe 1853.
+
+- 110 Kleines Seestick
+
+Holz. Hohe 21,Breite 27 cm.
+
+## P.E.TH.ROUSSEAU.Angeblich.
+
+mit schroffer Felsenkiste links.
+
+- 111 Hafen.
+
+## L.SAULUS.
+
+Ein Fischerboot hat rechts beigedreht und wird ausgeladen. Auf dem Kai in einzelnen Gruppen Fischer und Frauen.Links die stirmische See.
+
+Leinwand.Hohe 54,Breite 77 cm.
+
+Holz. Hohe 19,Breite 23 cm.
+
+- 112 Bauernmidchen,
+
+## A.SCHNEIDT.1888.
+
+strickend vor offenem Fenster sitzend und eine kleine Katze neckend.
+
+Holz.Hohe 42,Breite 32 cm
+
+Hohe 22,Breite 28 cm.
+
+Bezeichnet.
+
+- 113 Zwei Kavaliere beim Schachspiel.
+- 114 Madchen am Brunnen.
+
+## O.SETKA.
+
+## SMITH.
+
+An einem Ziehbrunnen,vorn vor einem Felsen, steht ein kleines Madchen, das einen gefillten Wasserkrug vom Brunnenrande hebt. Landschaftlicher Hintergrund. Aquarell. Hohe 31,Breite 23 cm.
+
+Holz. Hohe 1012, Breite 17 cm.
+
+Hohe 50, Breite 41 cm.
+- 115 Winterlandschaft
+
+## SPOHLER.
+
+mit zugefrorenem Kanal. Auf der Eisflache Schlittschuhlaufer und Schlittengespanne. Bezeichnet:Spohler.
+
+- 116 Waldeingang.
+
+## TROUILLEBERT. Paris.
+
+Dichtkronige Baume, durch die von vornher helles Licht flutet.
+
+Monogrammiert:T.
+
+- 117 Genrebild.
+
+Holz.Hohe 28,Breite 39 cm.
+
+Holz.Hohe 30,Breite 38 cm.
+
+## CHARLES FERDINAND VENNEMAN geb. 1802 zu Gent.
+
+Spitzenklopplerin vor einem Hause sitzend. Neben ihr ein rotgekleideter Mann. Bezeichnet:C.Venneman. Holz.Hohe 19,Breite 151/2 cm.
+
+## CHARLESVERLAT
+
+geb.1828 zu Antwerpen.
+
+- 118 Zwei musizierende Affen,
+
+bunt kcstimiert, der eine Flote,der andere Geige spielend. Bezeichnet:C.Verlat.
+
+- 119 Hundekopf ,Setter".
+
+Holz.Hohe 24,Breite 18 cm.
+
+OTTO VOLLRATH(Minchen).
+
+Signiertes Rauchbild auf Porzellan. In schwarzem Rahmen.
+
+- 120 Studienkopf. Bezeichnet.
+- 121 Walddurchblick.
+
+Karton. Hohe 35, Breite 32 cm.
+
+## UNBEKANNTE MEISTER.
+
+Rechts und links dichtbelaubte Baumgruppen, durch die das Rot der untergehenden
+
+Sonne leuchtet. In der offenen Mitte ein Weiher.
+
+Rechts unten undeutliche Bezeichnung.
+
+- 122 Bildnis eines russischen Offiziers
+
+um 1840 mitreichverziertem Tschako. Rechts unten unentzifferbare Bezeichnung.
+
+Leinwand. Hohe 60, Breite 78 cm.
+
+Leinwand. Hohe 68,Breite 54 cm.
+
+## S.VAN WITSEN
+## GEMALDE ALTERER MEISTER.
+
+## FERD.VAN ABTSHOVEN.
+
+## 123 Winzerfest.
+
+Inneres einer groBen Halle im Renaissancestil. Durch eine offene Tir rechts treten die feiernden Winzer herein, an ihrer Spitze ein weinlaubumkranzter Mann,der den Bacchus darstellt,und ein Madchen. Links sitzt die Herrschaft,umgeben von ihrem Gesinde und blickt den Eintretenden entgegen.
+
+Leinwand.Hohe 64,Breite 75 cm.
+
+## HENDRIKVANAVERKAMP 1620-—1663.
+
+Holz.Hohe 22,Breite 34 cm.
+
+## 124VerschneiteLandschaft
+
+mit FluB und befestigter Stadt. Links vorn Renaissanceruine. Den Hintergrund schlieBen hohe Bergzige ab.
+
+## 125 Weihnacht.
+
+## ALTDEUTSCHE SCHULE.
+
+Vor einem Stalle Maria vor dem Kinde kniend. Rechts die Gruppe der anbetenden Hirten. Links hinter der Madonna St. Joseph. Holz.Hohe 25, Breite 20 cm.
+
+## 126 Maria mit dem Jesuskinde.
+
+Halbfigur in grinem Miederkleide und weibem Kopftuch.
+
+## NICOLASBERCHEM
+
+16241683.
+
+## 127 Grobe Landschaft mit Herde.
+
+Hugellandschaft vorn mit Baumen und Buschwerk,im Mittelgrunde ein FluB,hinten blaugrine Berge. Vorn in der Mitte auf einer Wiese eine groBe Herde von Kihen,Ziegen und Schafen,bewacht von zwei Hirten und einer Hirtin.
+
+Holz.Hohe 21,Breite 18 cm.
+
+Leinwand. Hohe 81,Breite 110 cm.
+
+## SCHULE VON BRUGGE.
+
+## 128 Brusibild eines bartlosen Mannes
+
+in schiwarzem Gewand und schwarzer Mitze,halb nach rechts.
+
+Holz. Hohe 211/2,Breite 17 cm.
+
+## JAN BREUGHEL. Zugeschrieben.
+
+## 129 Landschaft mit biblischer Szene.
+
+1568-1625.
+
+Gebirgige Gegend mit Felsbildungen links.Auf buschbewachsenem Berge ragt ein stark bewehrtes SchloB. Ein Bach springt zwischen den Felsen hervor und bildet vorn einen Fall. Auf einem Wege, der durch die Mitte nach einer hinteren Taisenkung fihrt, stehen drei orientalisch gekleidete Manner neben einem halbnackten Asketen. Nach hinten zu sieht man noch mehrere andere Personen. Leinwand.Hohe 37,Breite 60 cm.
+- 134 Reiterkampf.
+
+Im Vordergrunde einer Ebene buntmontierte Reiter und FuBtruppen in dichtem Handgemenge. Vorn ein beturbanter Sarazene auf einem Schimmel, der sein Faustrohr auf einen Reiter in gelbem Koller abfeuert. Verwundete Kampfer und Pferde am Boden.
+
+Dichter Pulverrauch verhillt die Landschaft.
+
+Leinwand. Hohe 47, Breite 65 cm.
+
+Abb.Tf.3.
+
+## SIMON VAN DER DOES
+
+1653-1717.
+
+## BARTHOLOMAUS DE BRUYN. Zugeschrieben.
+
+## Geb.1513 zu Koln, gest. um 1555 daselbst.
+
+- 130 Bildnis einer Patrizierfrau
+
+in schwarzem Kleid, braunem Pelz und weiBem Kopftuch. Hiftbild fast von vorn.
+
+Holz.Hohe 361/2,Breite 30 cm.
+
+## FRANCOIS CLOUET. Manier.
+
+- 131 Bildnis einer jungen Edeldame.
+
+Schwarzes Kleid mit roten Armeln und Goldschmuck, weibe Halskrause. Holz.Hohe 261/2,Breite 22 cm.
+
+## JOHN CONSTABLE.Zugeschrieben.
+
+1776-1837.
+
+- 132 Baumreiche Landschaft.
+
+In der Mitte ein Bach,iber den sich eine alte Briicke wolbt. Rechts davon ein
+
+Gehoft zwischen Baumen versteckt. Auf der Bricke zwei Staffagefiguren.
+
+- 133 GroBe Landschaft mit FluB.
+
+Durch die Mitte flieBt zwischen grinen buschumwachsenen Ufern ein stiller FluB. Am jenseitigen Ufer heben sich aus leichtem Dunstschleier die Dacher einer kleinen Stadt. Vorn mehrere Figurengruppen. Leinwand.Hohe 82,Breite 104 cm.
+
+## JACQUES COURTOIS DE BOURGUIGNON. Zugeschrieben.
+
+1621-1676.
+
+Leinwand.Hohe 33,Breite 45 cm.
+
+- 135 Landschaft mit Herde.
+
+Bewaldete Gegend mit FluB im Vordergrunde. An beiden Ufern weiden Kihe, Ziegen und Schafe,bewacht von einer Hirtin in blauem Kleide, die am Rande des Baches Leinwand. Hohe 34, Breite 39 cm.
+
+sitzt.
+
+## ANTHONY VAN DYCK.Zugeschrieben.
+
+## 136 Bildnis eines firstlichen Knaben.
+
+Stehende Figur in prachtigem Anzug mit wallender purpurner Scharpe und Federbarett. In der Rechten halt er einen Marschallstab, die Linke stitzt er in die Hifte. LandLeinwand. Hohe 135,Breite 105 cm. schaftlicher Hintergrund.
+## GERBRAND VAN DEN EECKHOUT.Angeblich.
+
+## 137 Biblische Opferszene.
+
+Vor einem Palaste eine zahlreiche buntgekleidete Menge mit der Vorbereitung eines Opfers beschaftigt. Auf dem Altan des Schlosses steht ein Konig mit seinem Hofstaat. Holz. Hohe 78,Breite 105 cm.
+
+## ENGLISCHE SCHULE.
+
+- 138 Huftbild einer sitzenden jungen Dame mit groBem Federhut und Ringellocken, in den Handen eine Rose. Landschaftlicher Hintergrund. Holz. Hohe 76, Breite 54 cm.
+- 139 Landschaft mit See zwischen Bergen. Olstudie.
+- 140 Kleine Landschaft mit FluB und Gehoft.
+- 141 Kleine Marine.
+- 142 Gegenstick zu vorigem.
+- 143 Weibliches Bildnis.
+
+Brustbild einer jungen Aristokratin in ausgeschnittenem Kleide.
+
+- 144 Maria mit dem Kinde.
+
+## FAMILIE FRANKEN.
+
+Kniefigur sitzend,rotes Kleid,griner Mantel.
+
+- 145 Gruppe
+
+Holz. Hohe 44,Breite 241/2 cm.
+
+Holz. Hohe 22, Breite 27 cm.
+
+Leinwand. Hohe 17, Breite 23 cm.
+
+Leinwand.Gleiche GroBe.
+
+Holz.
+
+Kupfer. Hohe 21,Breite 15 cm.
+
+von drei weinenden Frauen in farbigen Gewandern. Kniefiguren.
+
+Kupfer. Hohe 19,Breite 14 cm.
+
+## FRANZOSISCHER MEISTER DES 18. JAHRH.
+
+Im Vordergrunde einer arkadischen Landschaft von tiefem Durchblick gruppieren sich im Schatten eines Baumes drei anmutige,mit Blumenkranzen geschmickte Schaferinnen in Unterhaltung mit zwei jungen Hirten in antikisierender Gewandung.
+
+Holz. Hohe 67, Breite 81 cm.
+
+- 146 Schaferszene.
+## 147 Genrebild.
+
+## FRANZOSISCHE SCHULE.
+
+Einem Knaben ist eine Kette aneinandergefesselter Rebhihner aus einem Korbe entflogen, die ein Raubvogel angreift. Unten,vor einem Hause stehen mehrere Personen, die dem Spektakel zuschauen.
+
+- 148 Bildnis des Herzogs von Chevreuse.
+
+Hiftbild mit Harnisch und Allongepericke.
+
+## JAN FYT
+
+geb.1609 zu Antwerpen,gest.1661 daselbst.
+
+- 149 Hunae bei der Jagdbeute.
+
+Anmutige Parklandschaft,brauntonig mit grinem Hintergrundgelande. Vorn links am FuBe eines Postaments die Jagdbeute:Hase,Fasan, Birkhahn,Haher etc.,nebst Jagdhorn. Daneben ein sitzender braunweiber Hihnerhund,ein graues Windspiel und ein gelbweiBer Bulldogg.
+
+Holz. Hohe 19, Breite 23 cm.
+
+## THOMAS GAINSBOROUGH.Zugeschrieben.
+
+- 150 Landschaft an der Themse.
+
+Vorn flieBt zwischen grinen, buschbewachsenen Ufern in ruhigem Laufe der FluB, auf dem links zwei groBe Frachtkahne liegen.Am jenseitigen Ufer sieht man von Baumen und Buschwerk halb verdeckt kleine weiBe Hauser mit roten Ziegeldachern. Am Ufer im
+
+Schiif waten drei Kihe.
+
+- 151 Landschaft mit Bauern.
+
+Gebirgige Gegend mit Baumgruppen rechts und links. Durch die offene Mitte zieht ein Bauernpaar zu Markte.
+
+Holz.Hohe 28,Breite 371/2 cm.
+
+## JAN VAN GOYEN. Zugeschrieben.
+
+Leinwand. Hohe 70, Breite 91 cm.
+
+Leinwand.Hohe 70, Breite 95 cm.
+
+Leinwand. Hohe 34, Breite 26 cm.
+
+- 152 Hafen
+
+mit Kastell rechts. Vorn am Strande mehrere Kihe und ein Hirt. Holz. Hohe 2612,Breite 50 cm.
+
+## BARTH.VAN DER HELST. MANIER.
+
+- 153 Brustbild eines Edelmannes in schwarzem Rock und weiBem Kragen.
+
+Leinwand. Hohe 54, Breite 44 cm.
+
+## HOLLANDISCHE SCHULE DES 17. JAHRH.
+
+- 154 Stilleben
+
+mit Blumen,Trauben,Apfeln,Pfirsichen,Melonen.
+
+Leinwand. Hohe 76, Breite 103 cm.
+- 155 Junges Madchen
+
+## HOLLANDISCHE SCHULE.
+
+in leuchtend rotem Kleide im Vordergrunde eines Parkes sitzend. Neben ihr steht ein dienender Mohr mit gefilltem Fruchtkorb.
+
+## 156 Stilleben.
+
+Vor und in einem Wandschrank silberne Pokale, Schalen,Musikinstrumente,Kunstblatter etc., drapiert mit Seidenstoffen in malerischer Anordnung.
+
+## 157 Frichtestick.
+
+Zwei Melonen und mehrere Pfirsiche auf brauner Platte.
+
+- 158 Damenbildnis.
+
+Brustbild einer jungen Aristokratin in schwarzem Kleide mit Spitzenhalskrause. Leinwand. Hohe 76, Breite 65 cm.
+
+- 159 Genrebild.
+
+Junge Mutter mit drei Kindern, von denen eins mit einer Katze spielt. Am Boden Geschirr und Gemisevorrate.
+
+Leinwand.Hohe 49,Breite 42 cm.
+
+Leinwand.Hohe 63,Breite 42 cm.
+
+Leinwand. Hohe 97,Breite 115 cm.
+
+Leinwand. Hohe 54, Breite 62 cm.
+
+## 160 Hirt
+
+in groBer Figur vorn vor einem Gebiisch sitzend. Er tragt eine braune Hose und ein rotes Wams. Neben ihm ein Schaf und ein Hund.
+
+Leinwand.Hohe 74,Breite 64 cm.
+
+Holz. Hohe 14,Breite 11 cm.
+
+## MELCHIOR D'HONDEKOETER. Zugeschrieben.
+
+## 161 Alter Bauer
+
+ini braunem Wams,ein Weinglas haltend.
+
+- 162 Jagdbeute.
+
+Erlegter Hase mit einem Hinterlauf an Baumast gebunden, der Kopf am Boden ruhiend.
+
+Leinwand. Hohe 58, Breite 42 cm.
+
+Leinwand. Gleiche GroBe.
+
+## GERHARD VAN HONTHORST. Zugeschrieben.
+
+- 163 Gegenstick.
+
+Erlegter Fuchs in ahnlicher Stellung.
+
+## 164 Huitbild einer Dame
+
+in schwarzem, pelzbesetztem Kleide und weiBem verziertem Haubchen. Halb im Profil. Leinwand.Hohe 76,Breite 68 cm.
+## ITALIENISCHER MEISTER DES 16.JAHRH.
+
+## 165 Kreuzigung Petri.
+
+Links die Mauern und Tirme der Stadt Rom mit hochragenden Higeln als seitlicher AbschluB. Den ganzen Vorder-und Mittelgrund erfillt eine ungemein figurenreiche, farbig gekleidete Menge,in deren Mitte eine Schar von Schergen den halbnackten,weiBhaarigen Petrus nach hinten schleppen und zerren. Dort sind mehrere Knechte damit beschaftigt, das hohe Kreuz einzurammen. In den Liften schwebt ein zahlreicher Chor von Engeln. Auf den Mauern der Stadt viele Zuschauer.—Ungemein figurenreiches Bild.
+
+Leinwand.Hohe 77,Breite 60 cm.
+
+## ITALIENISCHE SCHULE.
+
+- 166 Bibende Magdalena in Felsenhohle.
+- 167 Die heilige Caecilia.
+
+Brustbild nach rechts.
+
+## 168 Der Evangelist Lucas.
+
+Ganze Figur in grinem Gewand und rotem Mantel,in ein Buch schreibend.
+
+## 169Kind mit Lamm.
+
+Holz. Hohe 40, Breite 32 cm.
+
+Leinwand. Hohe 62, Breite 46 cm.
+
+Leinwand. Hohe 138, Breite 108 cm.
+
+## SIR GODFREY KNELLER. Nach ihm.
+
+Kleines rotblondes Madchen in weiBem Kittelchen und gelber Scharpe,auf dem Kopfe ein grines Haubchen. Neben ihm ein weiBes Schaflamm, das es an roter Leine halt. Leinwand. Hohe 136,Breite 100 cm.
+
+## 170 Bildnis des Earl of Rockingham.
+
+Hiftbild in rotem Rock und Spitzenjabot. Gepuderte Periicke.In der ausgestreckten Rechten halt er eine rote Kugel.
+
+## 171 Opferung Isaaks.
+
+Leinwand. Hohe 113,Breite 84 cm.
+
+## SALOMON DE KONINCK. Zugeschrieben.
+
+Der rotgekleidete Abraham blickt zu dem Engel empor, der ihm das Opfermesser entwindet.
+
+## 172 Weibliches Bildnis.
+
+Brustbild einer jungen Dame in tief ausgeschnittenem orangefarbenem Kleid,nach vorn gewandt. Leinwand. Hohe 77,Breite 62 cm.
+
+## NICOLAS MAES. Zugeschrieben.
+
+Leinwand. Hohe 29, Breite 25 cm.
+
+Leinwand.Hohe 93,Breite 74 cm
+
+## SIR PETER LELY.Angeblich.
+
+## 173 Spinnende alte Frau.
+
+Halbfigur in roter Jacke und weiBem Kopftuch.
+## 174 Brustbild einer jingeren Dame.
+
+Gelocktes Blondhaar,nackte Schultern,Perlenhalskette.Orangefarbenes spitzen- besetztes Seidenkleid mit gepufften Armeln.
+
+Leinwand.Hohe 79,Breite 64 cm.
+
+## BERNHARDGOTTFRIED MANSKIRSCH geb.1736 zu Bonn, gest. 1817 zu Koln.
+
+175 Landschaft.
+
+Breites Tal, durch das sich zwischen bewaldeten Hohen hindurch ein FluB windet. Im Mittelpunkte kleine befestigte Stadt. Rechts vorn auf niedriger Anhohe ein Gehoft zwischen hohen Baumen. Einige Bauern, Wanderer und waschende Frauen als Staffage. Holz.Hohe 82,Breite 48 cm.
+
+176 Der Tod der Maria.
+
+## MEISTER DES HAUSBUCHES.
+
+Die hl. Jungfrau liegt sterbend auf einem Bett unter einer Goldbrokatdecke.Um sie herum gruppieren sich die Apostel in farbenschonen Gewandern.Einige beten, die anderen stehen gruppenweise zusammen und fihren traurige Reden. St. Johannes in der Mitte halt eine brennende Kerze. Oben rechts in kleinen Figuren Christus und drei Engel zwischen Wolken.Goldgrund.
+
+Holz.Hohe 75,Breite 60 cm.
+
+Abb.Tf.1
+
+## 177 Betende Madonna.
+
+betbuch liegt.
+
+178 Junges Madchen, ihr Haar kammend.
+
+179 Weibliches Bildnis.
+
+## JAN METSYS. Zugeschrieben.
+
+1500-1570.
+
+Maria in rotem Kleide und grinem goldengesaumtem Mantel. Das Haar deckt ein von Schmuckband gehaltener durchsichtiger Schleier. Sie steht in Halbfigur mit gefaltenen Handen und gesenktem Blick vor griingedecktem Tische,auf dem ein aufgeschlagenes Ge-
+
+Holz. Hohe 65,Breite 49 cm. Abb.Tf.1.
+
+Holz.Hohe 49,Breite 37 cm.
+
+## M. J.VAN MIEREVELT. Nach ihm.
+
+Brustbild einer jungen Aristokratin in schwarzem Atlaskleid mit breitem Spitzenkragen und reichem Schmuck auf der Brust und im Haar.
+
+180 Kneipe
+
+Holz.Hohe 62,Breite 56 cm.
+
+## JAN MIENSZE MOLENAER.Manier.
+
+mit zechenden und musizierenden Bauern.
+
+## GABRIEL METSU. Manier.
+
+Leinwand.Hohe 32, Breite 40 cm.
+181 Gegenstick mit ahnlicher Darstellung.
+
+182BewaldeteLandschaft mit hohen Felsen links. Rechts weiter blaugrundiger Hintergrund. Figuren-Staffage. Holz.Hohe 47,Breite 62 cm.
+
+## PIETER NEEFFS UND FRANS FRANCKEN. Zugeschrieben.
+
+183 Kircheninneres mit romischer Szene.
+
+Mittelschiff einer gotischen Kirche in matter Beleuchtung.Vorn rechts steht eine Amorfigur auf hohem Piedestal, vor dem ein Altar errichtet ist. Ein weiBgekleideter Priester zwischen Fackeltragern liest Gebete aus einem Buche.Von links her stirmt ein in kostbare antikisierende Gewander gekleideter Mann zornig gegen die Amorskulptur an, wird aber von mehreren Mannern in romischer Kriegerkleidung zurickgehalten. Eine an den Stufen des Altars stehende Frau hebt ihm beschworend die Hande entgegen. Rechts vom Altar eine Konigin mit Gefolge.
+
+Leinwand. Hohe 102,Breite 125 cm.
+
+## JEANBAPTISTEOUDRY
+
+geb.1686 zu Paris,gest.1755 zu Beauvais.
+
+184 Landschaft mit Staffage.
+
+Anmutige Gegend mit Weiher in der Mitte und dichtem Gebisch links. Mehrere Hirten und Frauen schicken sich an, eine kleine Herde von Kihen und Schafen durch das
+
+Wasser zu treiben.
+
+Bezeichnet: J. B. Oudry 1728.
+
+- 185 Kleine Landschaft
+
+mit bewaldetem Berg.Vorn Figurenstaffage.
+
+Leinwand.Hohe 50,Breite 59 cm.
+
+Abb.Tf.2.
+
+Leinwand. Hohe 20, Breite 24 cm.
+
+## FRANS POURBUS.SCHULE.
+
+- 186 Brustbild einesEdelmannes in spanischer Tracht mit Halskrause.
+
+## GASPAR POUSSIN
+
+1613-1675.
+
+## 187 Grobe Landschaft mit Figuren.
+
+Blick durch eine baumbewachsene Bergschlucht, durch die ein FluB stromt. Dieser stirzt im Mittelgrunde iber einen Fall und bildet vorn ein ruhiges Becken. Rechts vorn engen steile Felswande das Gelande ein. Man sieht in Vordergrunde verteilt mehrere Figuren:Frau mit Kind und Hund, Reiterin und beturbanter Mann. Am FluBufer mehrere
+
+Herdentiere.
+
+Leinwand. Hohe 50,Breite 42 cm.
+
+## JODOKUS DE MOMPER.
+
+## FRANCOIS POST.
+- 188 St.Sebastian.
+
+Der Heilige in Huftfigur,nackt,mit leichtem Lendentuch,an einen Baum gebunden, den rechten Arm iber den Kopf gehoben. Das ausdrucksvolle Gesicht ist in Ekstase nach oben gerichtet.
+
+## GUIDO RENI. Zugeschrieben.
+
+Leinwand.Hohe 116,Breite 88 cm.
+
+## REMBRANDT.SCHULE.
+
+## 189 Grobe Landschaft mit Flucht nach Agypten.
+
+Romantische Gegend mit buschverdecktem Bachlauf und groBen dunkelen BaumMaria sitzt mit dem Kinde auf einem Esel, dem St.Joseph voranschreitet,zu beiden Seiten groBgefligelte Engel. Im Schatten der Baume im Mittelgrunde noch mehrere anderc Figuren. Nach hinten ofnet sich der Ausblick auf eine Festung und die nebelgraue Masse
+
+Leinwand. Hohe 95,Breite 127 cm.
+
+gruppen rechts und links vorn. In der Mitte sieht man die Gruppe des heiligen Paares. eines Bergkegels.
+
+- 190 Die Nachtwache.
+
+REMBRANDT.Nach ihm.
+
+Prachtige Kopie des bekannten Gemaldes.
+
+- 191 Damenbildnis.
+
+Leinwand. Hohe 125,Breite 150 cm.
+
+## JOSHUA REYNOLDS.SCHULE.
+
+Brustbild einer jungen Dame mit blondem Haar und Schleier vor dunklem Hinter- grund.
+
+- 194 Drei Heilige auf Goldhintergrund.
+- 195 Bauernstube.
+
+## RUSSISCHE SCHULE.
+
+## KOPIE NACHJAN STEEN.
+
+Rechts am Rauchfang finf Bauern im Gesprach.
+
+Leinwand. Hohe 75, Breite 95 cm.
+
+Leinwand. Hohe 47, Breite 36 cm.
+
+## FRANCESCO RIBALTA
+
+- 192 Brustbild einer jungen Spanierin
+
+1551-1628.
+
+in rotem, weiB geschlitztem Kleide,um den entbloBten Hals eine doppelte Korallenkette. Leinwand. Hohe 64, Breite 52 cm.
+
+- 193 Damenbildnis.
+
+## GEORGE ROMNEY. Zugeschrieben.
+
+Brustbild einer Dame mit lachelndem Gesichtsausdruck und reich gelocktem blondem Haar. Directoirekostim mit weiber Halsrische. Oval.
+
+Holz.Hohe 51,Breite 43 cm.
+
+Holz.Hohe 21,Breite 14 cm
+## 196 GroBe Bauernkirmes.
+
+Links eine Gruppe von mehreren Gehoften, deren vorderes aus malerischen Ziegel- steinhausern besteht. Zwischen den Gehoften bewegen sich in groBere und kleinere Gruppen verteilt buntgekleidete Bauern, tanzend und allerlei Kurzweil treibend. Links vorn hat sich eine groBere Gesellschaft versammelt, die trinkend und plaudernd einigen Tanzerpaaren zuschauen. Nach rechts hiniber erstreckt sich eine Wiese mit weidendem Vieh. Mehrere hohe Baume halten die vordere Komposition zusammen.
+
+Leinwand.Hohe 102,Breite 150 cm.
+
+## DAVID TENIERS.SCHULE.
+
+## 197 Drei Fischer in Landschaft.
+
+Sie waten vorn links in einem Bache, der an einem Gebisch voriberflieBt. Nach rechts Fernsicht.
+
+- 198 Gartner,
+
+einen Blumenstock tragend. Landschaftlicher Hintergrund.
+
+- 199 Bauernstube.
+
+Im Vordergrunde rechts schakerndes Bauernpaar, von einem Alten beobachtet.
+
+Links Bauer und Bauerin tanzend.
+
+## GIOV.BATT TIEPOLO.
+
+- 200 Martyrium der heiligen Agatha.
+
+Auf einer Terrasse mit antiken Skulpturen steht an einen Pfahl gebunden die halbentkleidete Heilige, den Blick in Verzickung nach oben gewandt. Um sie herum vier Schergen mit Marterwerkzeugen. Geschnitzter Holzrahmen.
+
+Leinwand. Hohe 105,Breite 80 cm.
+
+## WILLEM VAN DE VELDE.Zugeschrieben.
+
+- 201 Hafen mit Schiffen.
+
+Im Mittelgrunde liegt ein groBer Dreimaster mit geblahten Segeln. Zwei dicht bemannte Ruderboote fahren von rechts und links auf ihn zu. Rechts vorn ein Segelkahn, dessen Leinwand gerefft wird. Etwas weiter nach hinten Kutter mit rotbraunem Segel. Leinwand. Hohe 45,Breite 67 cm.
+
+## CLAUDE VERNET.Zugeschrieben.
+
+- 202 Vesuvausbruch. Nachtstick.
+
+Man blickt iber den Golf hiniber auf den Kegel des Berges, aus dem eine Feuergarbe Rechts taucht aus schwarzem Gewolk die bleiche Mondscheibe. Vorn am Strande mehrere
+
+Leinwand. Hohe 40,Breite 50 cm zum dunkelen Nachthimmel emporschieBt und die Umgegend mit rotem Lichte bestrahlt. Personen, die das Naturschauspiel bewundern.
+
+Holz.Hohe 34, Breite 41 cm.
+
+## DAVID TENIERS.Zugeschrieben.
+
+Leinwand. Hohe 74, Breite 103 cm.
+
+Leinwand. Hohe 38, Breite 29 cm.
+## VLAMISCHER MEISTER,1.HALFTE 16.JAHRH.
+
+## 203 Altartafel
+
+mit der Darstellung der Kreuzabnahme.Im Vordergrunde einer Landschaft liegt der Leichnam Christi auf weiBem Bahrtuch ausgestreckt,von der sitzenden Maria in grinem und dem knienden Johannes in rotem Gewande gestitzt. Rechts kniet Maria Salome in reich gesticktem und gepufftem Kleid,die Hand Christi zum Kusse hochhebend.Weiter landschaftlicher Hintergrund in grinem Ton. Rechts sieht man die Grablegung in kleinen
+
+Figuren. Eichenbrett oben giebelig gerundet.
+
+## VLAMISCHE SCHULE.
+
+Holz. Hohe 18,Breite 14 c.
+
+Leinwand. Hohe 45,Breite 31 cm.
+
+Holz.Hohe 42,Breite 34 cm.
+
+- 204 Bauer in altvlimischer Tracht. Landschaftlicher Hintergrund.
+- 205 Landschaft mit Hirtenfamilie und Herde.
+- 206 Ecce homo.
+
+Brustbild des dornengekronten Heilandes.
+
+## 207 Grobes Seestick.
+
+## SIMON DE VLIEGER. Zugeschrieben.
+
+Weiter Blick iber die dunkele,in langen weiBkammigen Wogen rollende,vom beginnenden Sturm schwer bewegte See unter drohendem Wolkenhimmel. Durch die Mitte fahrt ein groBer Dreimaster iber die Wogenberge.
+
+Mit Bezeichnung:S. d.Vlieger,am Hinterteil des mittleren Schiffes. Leinwand. Hohe 82,Breite 103 cm.
+
+## ADRIAN VAN DER WERFF. Zugeschrieben.
+
+## 208 Schlafende Diana
+
+bei der Jagdbeute. Die leichtbekleidete Gottin sitzt, den Kopf auf den Arm gestitzt,links schlafend auf einem Felsblock. Hinter ihr zwei Amoretten,von denen einer seinen Bogen auf die Schlaferin anlegt. Rechts ein erlegtes Reh, dariber Trophae.
+
+Das Bild stammt aus der ehemaligen v. Zwierleinschen Sammlung,Geisenheim.
+
+Leinwand.Hohe 165,Breite 145 cm.
+
+## PHILIPS WOUVERMAN. Zugeschrieben.
+
+## 209 Reiterschlacht.
+
+Am Ufer eines Flusses,der sich durch die Mitte zieht,erhebt sich links eine siidlandische Stadt mit starken Befestigungen.Zwischen der Stadtmauer und dem FluB sind Reitern und Pferden erfillt den Platz. Ganz vorn sieht man einen Reiter auf schaumendem Schimmel einherstirmen, der mit der Rechten das Schwert schwingt. Am Boden.Tote
+
+Zwei Reiterscharen in heftigem Kampfe aneinandergeraten.Ein dichtes Gewimmel von und Verwundete und umhergestreute Montierungssticke. Rechts Blick auf eine vielbogige Bricke und einen Festungsturm.
+
+Hohe 105,Breite 72 cm.
+## 210 Kurfirsten-Portrit.
+
+## UNBEKANNTE MEISTER.
+
+Bildnis des letzten Kolner Kurfirsten Max Franz. Bruststick in schwarzer Soutane mit Ordenskreuz an rotem Bande.
+
+## 211 Charitas.
+
+Junge Frau in rotem Uberwurf mit drei Kindern. Eins trinkt an ihrer Brust, die beiden anderen schmiegen sich kosend an sie.
+
+## 212 Grobe Marine.
+
+Leinwand. Hohe 72,Breite 56 cm
+
+Leinwand. Hiohe 100, Breite 75 cm
+
+Stirmische See, die in schweren Wogen sich gegen die vordere Kiste heranwalzt.
+
+In der Mitte falirt ein groBer Dreimaster, der seine ganze Leinwand gerefft hat,wahrend vorn rechts ein kleiner Kutter in Gefahr ist,von einer groBen Welle an den Strand geworfen Zu werden. An Land mehrere Personen, die den Schiffern zuzurufen scheinen.
+
+## 213 Brustbild einerFrau
+
+in der Tracht um 1600, schwarzes Kleid,Halsrische,weiBe Haube.
+
+## 214 Hiftbild
+
+eines sitzenden Madchens in blauem, spitzenbesetztem Empirekleide,in den Handen einen Almanach haltend.
+
+## 215 Bildnis
+
+eines alten Mitterchens. In der Art Gottfried Schalckens.
+
+## 216 St.Hieronymus,
+
+weiBbartig,hinter einem StoB Bicher sitzend und schreibend.
+
+## 217 Frichtestilleben
+
+mit Trauben und Weinlaub.
+
+## 219 Genrebild.
+
+Bauer mit Frau.
+
+## 220 Huhnervolk
+
+mit Hahn, vor einem Gebisch.
+
+Leinwand.Hohe 76,Breite 112 cm.
+
+Holz. Hohe 49,Breite 40 cm.
+
+Leinwand. Hohe 73, Breite 56 cm.
+
+Leinwand. Hohe 45,Breite 36 cm.
+
+Holz.Hohe 29,Breite 24 cm.
+
+Holz.Hohe 30,Breite 39 cm.
+
+Metall. Hohe 22, Breite 16 cm.
+
+Leinwand. Hohe 62, Breite 44 cm
+| 221 Kleines Stilleben mit Fischen.                                                                                                            | Holz.Hohe 32, Breite 40 c.       |
+|-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 222 Zwei kleine Gebirgslandschaften.—Gegensticke.                                                                                             | Leinwand.Hohe 16,Breite 20 cm.   |
+| 223Hafen                                                                                                                                      |                                  |
+| in Mondbeleuchtung. Rechts am Strande hohes Haus, von rotem Feuerschein bestrahlt. Holz.Hohe 27,Breite 37 cm.                                 |                                  |
+| 224 Vlamische Bauernkirmes. Zahlreiche Bauern,Frauen und Kinder bei allerhand Belustigung auf einem Platze zwischen alten vlamischen Hausern. |                                  |
+| 225 Drei Reiher                                                                                                                               | Leinwand. Hohe 77,Breite 116 cm. |
+| 226 Bildnis                                                                                                                                   |                                  |
+| eines Herrn in Biedermeiertracht.                                                                                                             | Leinwand. Hohe 32,Breite 24 cm.  |
+| 227 Christus am Olberg.                                                                                                                       | Holz.Hohe 72,Breite 105 cm.      |
+| 228 Landschaft                                                                                                                                |                                  |
+| mit hohem Gebirge im Hintergrunde.                                                                                                            | Leinwand.Hohe 29,Breite 36 cm.   |
+| 230 Der Geograph.                                                                                                                             | Leinwand. Hohe 82,Breite 105 cm. |
+| Mann in antikem blauem Gewand,mit dem Zirkel einen Globus ausmessend. Halb- figur.                                                            | Leinwand.Hohe45,Breite35cm.      |
+| 231 Bettlerpaar.                                                                                                                              |                                  |
+| In der Art des Jacques Callot ausgefihrt.                                                                                                     | Holz. Hohe 16, Breite 12 cm.     |
+| 232 BuBender Heiliger. Halbfigur.                                                                                                             |                                  |
+|                                                                                                                                               | Leinwand.Hohe 55,Breite 44 cm.   |
+| 233 Austreibung der Hagar.                                                                                                                    |                                  |
+
+Hagar mit ihrem Sohne Ismael an der Hand nimmt weinend Abschied von Abraham. Leinwand.Hohe 49,Breite 49.cm.
+## 234 Christus,
+
+| das Sakrament des Abendmahls einsetzend. Halbfigur. Achteckig. In achteckigem Rahmen mit Flammleisten, Schildpatt und Perlmuttereinlage.   | Kupfer. Hohe 1312,Breite 12 cm.                                                   |
+|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| 235 Kniebild Sammetmantel. Links das Wappen.Oval.                                                                                          | einer adeligen Dame im Kostim des 17. Jahrhunderts. WeiBes Seidenkleid, schwarzer |
+| 236 Biedermeierportrat.                                                                                                                    | Leinwand. Hohe 60, Breite 51 cm.                                                  |
+| 237 Kleine Landschaft, angeblich von Professor Seiler.                                                                                     | Holz. Hohe 10, Breite 16 cm.                                                      |
+| 238 Zwei liegende Schafe und ein Widder auf griiner Wiese                                                                                  | Leinwand. Hohe 25, Breite 31 cm.                                                  |
+| 239 Petrus verleugnet Jesus. Vielfigurige Darstellung.                                                                                     | Holz. Hohe 24,Breite 17 cm.                                                       |
+| 240 Portrit aus der Zopfzeit.                                                                                                              | Leinwand. Hohe 35, Breite 29 cm.                                                  |
+| 241 St.Theodor. Brustbild in romischer Kriegertracht.                                                                                      | Leinwand. Hohe 241/2,Breite 19 cm.                                                |
+| 242 Kleine Landschaft in der Manier des Jan van Goyen.                                                                                     | Leinwand.Hohe 241/2,Breite 32 cm.                                                 |
+| 243 Brustbild eines Mannes in der Tracht der Wertherzeit.                                                                                  | Holz. Hohe 21,Breite 17 cm.                                                       |
+| 244 Landschaft in Bemmels Manier.                                                                                                          | Leinwand.Hohe 24,Breite 18 cm.                                                    |
+| 245 Maria mit dem Jesuskinde. Hiftfigur. Spanische Schule.                                                                                 | Kupfer.Hohe 16,Breite 13 cm.                                                      |
+| 246 Gebirgige Landschaft mit FluB und Figurenstaffage.                                                                                     |                                                                                   |
+
+Leinwand. Hohe 39, Breite 56 cm.
+| 247 Gegenstick mit ahnlichem Vorwurf.   |
+|-----------------------------------------|
+
+Leinwand. Hohe 37, Breite 27 cm.
+- 259 Anbetung der Konige.
+
+|                                                                          | Karton. Hohe 27,Breite 20 cm.    |
+|--------------------------------------------------------------------------|----------------------------------|
+| 260 Zwei kleine Marinen.                                                 |                                  |
+| Gegensticke.                                                             | Karton. Hohe 11,Breite 14 cm.    |
+| 261 Christus am Kreuz                                                    |                                  |
+| in gotisierender Manier auf Goldgrund.                                   | Leinwand. Hohe 88,Breite 62 cm.  |
+| 262 Stilleben.                                                           |                                  |
+| Frichte in malerischer Anordnung auf einem Tische liegend.               | Karton. Hohe 38, Breite 56 cm.   |
+| 263 Sommerlandschaft                                                     |                                  |
+| mit Figurenstaffage.                                                     | Leinwand. Hohe 40,Breite 31 cm.  |
+| 264HollandischeWinterlandschaft                                          |                                  |
+| mit Schlittschuhlaufern.                                                 | Holz.Hohe 28,Breite 38 cm.       |
+| 265 Stilleben.                                                           |                                  |
+| Zwei alte Bicher und ein Krug.                                           | Leinwand.Hohe 40,Breite 31 cm.   |
+| 266 Kleine Landschaft                                                    |                                  |
+| mit Wassermihle. Links undeutliche Bezeichnung.                          | Leinwand. Hohe 22,Breite 34 cm.  |
+| 267 Winterlandschaft,                                                    |                                  |
+| als Staffage Frau mit Kind.                                              | Leinwand. Hohe 31, Breite 37 cm. |
+| 268 Zwei Jagdhunde.                                                      |                                  |
+| Der eine aus einem Napf fressend.                                        | Holz.Hohe 28,Breite 34 cm.       |
+| 269 Jagdbeute.                                                           |                                  |
+| Erlegter Krammetsvogel. Holz. Hohe 20,Breite 14 cm.Ferner: Bildnis eines |                                  |
+| Geistlichen.Leinwand.Hohe 22,Breite 16 cm.                               |                                  |
+| 271 Heiliger                                                             |                                  |
+| mit Buch und Bischofsstab. Halbfigur.                                    |                                  |
+
+Holz.Hohe 22,Breite 16 cm.
+## 272 Hollindische Stadt.
+
+## 273 Niederrheinische Landschaft.
+
+Den Vordergrund nimmt der Spiegel des ruhig flieBenden Stromes ein. Nach hinten dehnt sich eine weite Wiesenebene mit Bischen und Baumen. Bezeichnet:E.Kampf. Leinwand. Hohe 271/2,Breite 39 cm.
+
+## 274 Wiese
+
+mit Weiher in der Mitte,den herbstlich gefarbte Weiden und Buchen umsaumen. Bezeichnet:E.Kampf.
+
+Leinwand.Hohe 311/2,Breite 411/2cim.
+
+## AQUARELLE,PASTELLE,ZEICHNUNGEN.
+
+## 275 B.Barbiers, Paris.
+
+Wascherin vor einem Fachwerkhaus. Aquarelle. Signiert. In Mahagonirahmen.
+
+276 —Schuster in seiner Werkstatt an der Arbeit. Aquarelle. In Mahagonirahmen. Bezeichnet.
+
+## 277 Crapelet.
+
+Arabische Bazarszene. Aquarell. Gerahmt. Bezeichnet.
+
+## 278 Eckebrecher,Prof.
+
+Die Windmihlen bei Konstantinopel. Originalzeichnung. In Rahmen. Monogrammiert.
+
+## 279 Grotjohann, P.
+
+Ritter kniend vor seiner Tochter. Original-Sepiazeichnung. In Rahmen.
+
+Monogrammiert.
+
+## 280 N.de Keyser.
+
+Hiftbild einer jungen Orientalin in weiBem,blaugesaumtem Mantel und Kopfschleier. Pastell,oval. Gerahmt.
+
+Bezeichnet:N.de Keyser 1863.
+
+Hohe 86,Breite 67cm.
+
+Links eine Gracht mit Segel- und Ruderbooten, rechts eine StraBe mit hohen Baumen und altertimlichen Hausern,belebt durch ein Markttreiben. Leinwand.Hohe 351/2,Breite 48cm. Bezeichnet:H.Hermanns.
+
+## EUGENKAMPF.
+
+## NACHTRAG.
+
+(Die folgenden drei Gemalde werden unter der Abteilung der neuzeitlichen Meister versteigert.)
+
+## H.HERMANNS.
+
+Hohe 16,Breite 22 cm.
+- 281 Koekkoek,B.C.(angeblich).
+
+Mit Bezeichnung. Hohe 181/2, Breite 27 cm.
+
+Landschaft mit Bauerngehoft und Kanal. Sepiazeichnung. Gerahmt.
+
+282 Ahnliche.
+
+Hohe 15, Breite 19 cm.
+
+283 Landschaft mit Ruine und zwei Figuren.Sepiazeichnung.Gerahmt.
+
+Mit Bezeichnung. Hohe 25,Breite 341/2 cm.
+
+284 von Schennis.
+
+Schlafende Nymphe auf einem Teich schwimmend. Stiftzeichnung. In Rahmen.
+
+Monogrammiert.
+
+- 285 Josef Wackerle,Miinchen.
+
+Die Bank der Spotter.Original-Federzeichnung aus der Jugend.Gerahmt. Monogrammiert. Hohe 14,Breite 33 cm.
+
+- 286 Franzosischer Ficher.
+
+Das Gestell aus Bein in durchbrochener Arbeit. Die Fahne aus Stoff,in buntem
+
+Aquarell bemalt mit Watteaudarstellung und Blumen.18.Jahrh.
+
+- 287 Brustbild einerDame
+- mit weiBem Schleier.Pastell.Gerahmt.
+
+Hohe 40, Breite 32 cm.
+
+## STICHE,REPRODUKTIONEN.
+
+288 Zwei Bleistiftzeichnungen:Apollo und Herkules.
+
+- 289 Arndt,W. Leo. Das konigliche SchloB in Berlin. Originalradierung.
+- 290 Aubin,A.de St.
+- Au moins soyez discret. Schoner spaterer Druck. Gerahmt.
+- 291 Bartolozzi, F.
+
+Bildnis eines schreibenden Herrn. P. de Glim pinx. Braundruck,beschnitten. Gerahmt.
+
+Saint John preaching in the Wilderness. Salvator Rosa pinxit. Kupferstich. Ge-
+
+- 292 Browne,J. rahmt. Gebraunt.
+- 293 Deininger, J. F.
+
+Nach Tisch. Gemalt von A. v. Ramberg.—Ferner: Henriquel Dupont, Lord Strafford, paint par P. de la Roche.
+
+- 294 Deville, M.
+
+Visite a latelier.M. Eliot pinx.—Ferner: F.Knolle, Frihling. Gemalt von
+
+B.Plockhorst.
+
+295 Edelinck, G.
+
+Carolus Le Brun. De Largilliere pinxit. Kupferstich. Gerahmt.
+- 296 Eilers, G.
+
+Portrat von Joerg Gyze.—Ferner: Derselbe. Bildnis des Goldschmieds Hubert Morett. Beide nach H.Holbein d.i. gestochen.
+
+- 297 Forster, F.
+
+Les trois Graces. Peint par Raphael.—Ferner: R. Leemann, Romeo und Julie. W.V. Kaulbach pinx.
+
+- 298(Fihrich.) Bilder zu Tiecks Genovefa von J. Fihrich. 15 Blatt mit Text. Quer-Folio. Etwas
+- fleckig.
+- 299 Hap, Carl, Paris.
+- 300 Hecht,W. Geld zahlende Madchen. Murillo pinx.—Ferner: J. L. Raab, Madonna mit dem Kinde.Tizian pinx.
+
+"Artistin".Federzeichnung mit farbiger Tusche. Bezeichnet. Gerahmt.—Ferner: Farbiger Holzschnitt,futuristische Landschaft von Kirchner. Gerahmt.
+
+- 301 Heinrigs, J.
+- 302 Hollar,W. Ansicht von Milheim am Rhein. Radierung.Gerahmt.
+
+Die Schopfung. Kupferstich.Ferner:,Freude"nach Gab. Max.Photogravire.
+
+- 303 Horte,M.
+- 304 -Ruhe auf der Flucht. Murillo pinxit. Radierung.
+- Der heilige Antonius von Padua. Murillo pinxit. Radierung.
+- 305 Jasper, V. Die heilige Justina. Moretto pinxit. —Ferner: Ch. Giroux, Le chat malade. Ribot
+
+pinxit.
+
+- 306 Jokisch, E.
+- 307 Lindner, J.
+
+Landschaft. Radierung. Probedruck. Handschriftlich bezeichnet. Gerahmt.
+
+Jupiter und Jo.—Ferner:A.Wagenmann, Ganymed. Beide nach Coreggio.
+
+Assunta Fontanarosa und Marietta da Napoli.Ferner: Annedouche,A., Cendrillon. Peint par E. Le Jeune. Drei Stiche. (Letzterer am Rand schadhaft.)
+
+- 308 Meyer,Hans.
+- 309 —Trotzkopfchen. L. Knaus pinx.—Ferner:Ch. Giroux, a l'amitie. J. B. Greuze pinx.
+- 310 Salmon,E. Curiosite. E. Adan pinx. —Ferner: Gaujean, E.,Lecon de Musette.Th. Deyrolle pinx.
+- 311 Schwind,Moritz von. Die schone Melusine. Ein Zyklus von elf Bildern, photographiert von J. Albert,
+- 312 Sonnenleiter,J. Venusfest. P. P. Rubens pinx.—Ferner: G. Frank, Die Loge Johannis. H. Canon pinx.
+
+Minchen. Quer-Imp.-Folio in Kaliko-Mappe.
+- 313 Unger, W.
+
+im Museum Wallraf-Richartz in Koln.)
+
+Musikalische Unterhaltung. F.von Uhde pinx. Abdruck vor der Schrift. (Original
+
+- 314 Valmon, L.
+
+Le port St. Nicolas (a Paris). Ch. Lapostolet pinx. Ferner: Obozowisko W. Harthusen 1659 R. Podlug Pamietnikow Paska.—Ferner: Glyptographie:Exposition universelle de 1889.(Paris.)
+
+- 315 Visscher,Corn. de
+
+Hollandisches Interieur. Nach A. v. Ostade. Mit N. Visscher's Adresse. Gerahmt.
+
+- 316 Wille, J. G.
+
+Musiciens ambulans. Dietricy pinx. Kupferstich, beschnitten. Gerahmt.
+
+- 317 Woollet,W.
+
+The Cottages. Dusart pinx. Schwarzdruck,gerahmt.
+
+- 318 Zancon, G.
+
+A.St. James's Beauty.Benvelk p.Gerahmt.
+
+- 319 Konvolut
+
+von Stichen und anderen Drucken.
+
+- 320 Zwei altkolnische kolorierte Ansichten.
+
+,Haus Girzenich"und ,Severin-Thor".Gerahmt.
+
+- 321 Lithographie.
+
+Der Maskenzug im Karneval 1836 in Koln.—Ferner:Lithographiertes Bildnis.v.
+
+- J.C.Oedenthal (Koln 1764—1834).
+- 322 Ansicht von Simmern. Alter Stich.Gerahmt.
+- 323 Ansicht der Ruine Salzburg
+
+bei Neustadt an der Saale. Aquarellierter Kupferstich gestochen v. P. Richter. Gerahmt. Hohe 54,Breite70cm.
+
+- 324 Le Lever.
+
+La visite inattendue. Zwei Buntstiche von Voyez l'aine. Neudrucke. Gerahmt.
+
+- 325 Zwei Buntstiche:
+
+La veuve d’un jour.—La veuve d’un an. Charles sculpsit, Chasselat pinx. Gerahmt.
+
+- 326 Parbiger Druck:
+
+Bewaldete Landschaft mit Mihle. Gerahmt.
+
+- 327 Serie von sechs Buntstichen:
+
+Mademoiselle de Lafayette et Louis treize. Gestochen von Thouvenin,Rouotte, Augrand.Gerahmt.
+
+- 328 Altkolnische Ansicht.
+
+Bayen-Thurm, engraved by R. Wollis. Koloriert.Gerahmt.
+
+- 329 Zwei gerahmte Lithographien.
+
+",Das Madchen von Saragossa".Le Joueur de Violon".
+
+- 330 Zwei verschiedene Kupferstiche. Gerahmt.
+- 331 Gerahmte Lithographie.—
+
+Ferner: Kleines Gemalde.
+- 332Sammlung ausgewihlter Lithographien nach vorziglichen Werken deutscher Kinstler. 36 Blatt. Druck von L. Baumann u. Co.,
+- Disseldorf. Folio.
+- 333 Konvolut
+
+von iber 100 Illustrationen aus verschiedenen Zeitschriften, sauber ausgeschnitten und aufgeklebt. In schwarzem Pappkasten.
+
+- 334 Zehn farbige Drucke nach Gemalden. Beilagen zum ,Figaro illustre".Imp.-Folio.
+- 336 17verschiedene grobe Photographien nach Gemalden und Plastiken.
+- 335 Sieben farbige und schwarze Drucke. Beilagen zu London News, llustration etc. Imp.-Folio.
+- 337 Konvolut
+- 338 Konvolut
+
+von 50 verschiedenen farbigen und schwarzen Drucken; Beilagen zu franzosischen Zeitschriften.
+
+von 48 desgleichen.
+
+- 340 Sammlung
+- 339Sammlung von 64 Photographien meist nach Gemalden alterer Meister. (Musee Wirtz.) In schwarzem Pappkasten.
+
+von iber 10o Abbidungen aus Zeitschriften etc. In schwarzem Pappkasten.
+
+- Episoden aus Gustav Freytags ,Bilder aus der deutschen Vergangenheit". Imp.Folio.
+- 341 Acht grobe Photographien.
+- 342 Die finf Sinne.
+- 343 Sieben grobe Photographien.
+
+Nach Hans Makart. Finf Photographien.
+
+- Episoden aus Gustav Freytags Werken (,Ahnen",Journalisten",,Soll und Haben"). Imp.-Folio.
+- 344Vier groBe Photographien nach Gemalden von Defregger, Knaus, Adalb. Begas. Imp.-Folio.
+- nach Gemalden von Bodenhausen, G. Biermann, Carl Sohn. Imp.-Folio.
+- 345 Vier grobe Photographien
+- 346 Vier grobe Photographien
+- 347 Finf groBe Photographien
+
+nach Gemalden von A.Liezen-Mayer.Folio.
+
+nach G.Richter,W. Menzler,P. Thumann, F. Dirck. Folio.
+
+nach Gemalden von Rubens,Thumann, Makart, Compton,Horn etc.Meist Folio.
+
+- 348 Sechs Photographien
+- 349 Finf schwarze Rahmen und ein Goldrahmen.
+- 351 Eichengestell mit groBer Mappe fir Kupferstiche.
+- 350 Staffelei in Eichenholz.

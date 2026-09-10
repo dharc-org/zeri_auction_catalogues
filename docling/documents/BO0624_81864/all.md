@@ -1,0 +1,300 @@
+## PRIMA SERATA DI VENDITA
+
+MERCOLEDI 15 FEBBRAIO 1928- ALLE ORE 24
+
+<!-- image -->
+- CINESE. Bronzo dorato, epoca fine 700.
+- 2 SCATOLA in pietra dura di Villa Adriana, montata in bronzo, epoca Impero.
+- SCATOLA ovale in pietra dura di Villa Adriana, 3 montata in bronzo, epoca Impero.
+- 4 1 SCATOLA cinese in rame smaltato e decorato. Secolo XVII.
+- 5— DUE VASETTI cloisonnes cinesi antichi.
+- 6 -SERVIZIO POSATE per 6 in argento. Luigi XVI.
+- GRANDE COFANETTO in lacca giapponese, epoca inizio sec. XIX.
+- 8— SCATOLA in malachite montata in bronzo dorato con amuleto orientale.
+- 9—CALAMAIO in vetro dorato montato in bronzo finemente cesellato. Epoca Impero.
+- 10一 SCATOLA in porcellana di Sassonia, finemente decorata a soggetti di caccia.
+- 11 ZUCCHERIERA con piattino in porcellana di Vienna
+- 12 — GIARDINIERE. Figurina in porcellana Ludwigsburlg.
+- 13 —VASCHETTA in ceramica di Rouen decorata a fiori.
+- 14- BOMBONIERA in porcellana di Sassonia finemente decorata a soggetti pastorali.
+- 15 — AUTUNNO. Statuetta in porcellana di Sassonia.
+- 16 — PIATTO in porcellana di Sassonia decorato a figure.
+- 17— ZUPPIERA con coperchio e piatto in porcellana inglese decorata a fiori.
+- 18- CAPRA e CAPRONE, due statuette in porcellana di
+- Sassonia. Tavola I.
+- 19 — TEIERA in porcellana di Sassonia, formata da una
+- testa di scimmia, montatura francese in argento, rarissima. Tavola I.
+- 20 — CAFFETTIERA in porcellana di Sassonia decorata a
+- fiori.
+- 21-GRANDE PIATTO in porcellana della Compagnia delle Indie riccamente decorata a fiori. Diam: 0.35.
+- VASETTO con tripode in porcellana di Sassonia,
+- 22—— decorato a fiori.
+- 23 —- SERVIZIO DA CAFFE' (Solitario) in porcellana di
+- Venezia. Due tazze e piattini, un piatto, con decorazioni pastorali del genere di Sassonia e vetro tagliato con stemma. Astuccio in cuoio dell'epoca.
+- 24 VAsO ad anse in porcellana francese dorato. Epoca Impero.
+- 25 一 TETE-A-TETE in porcellana di Berlino, composto di un vassoio, due tazze e sottocoppe, caffettiera, lattiera
+- e zuccheriera decorata a uccelli e frutta.
+- 26— TETE-A-TETE per caffe Vienna composto di vassoio, due tazze con sottocoppe e caffettiera, lattiera e zuc-
+- cheriera, decorati a paesaggi.
+- 27— PIATTO in porcellana di Sassonia decorato a roselline.
+- 28 —5 PIATTI maiolica di Milano, disegno cinese.
+- 29  BRUCIA PROFUMI in porcellana di Saxuma finemente decorata.
+- 30  GRANDE PIATTO in maiolica di Milano decorato a mosche.
+- 31PAPPAGALLO in porcellana di Berlino.
+- 32—LA LANTERNA MAGICA,gruppo in porcellana di Frankenthal marcata C. T. Pezzo rarissimo e della piu bella qualita.
+- 33  BIMBl. Gruppo in bisquit di Sassonia.
+- 34  COPPA con piede in porcellana del Giappone, decorata.
+- 35—VASO AD ANFORA in porcellana francese decorata in oro. Impero. Alt. 0.38.
+- 36—IL RIPOSO DEL CACCIATORE. Grande gruppo in
+- porcellana di Frankenthal, marca Leone. Gruppo rarissimo e di grande bellezza. Tavola Il.
+- 37 — DUE BOLS, l’uno in porcellana di Sassonia, decorato
+- a Chinoiseries. L'altro, copia del suddetto in porcellana di Vincennes. Pezzi di grande curiosita provenienti dalla famosa raccolta del Conte Chavagnac.
+- 38— DUE PIATTI in porcellana del Giappone decorati a fiori e oro. Diametro 0.27.
+- 39—LA BUONA MADRE. Gruppo in porcellana di Frankenthal.
+- 40  CACHE POT in porcellana di Vnezia,decorato a motivo cinese.
+- 41 CINESE assiso in un boschetto. Gruppo in porcellana di Sassonia, montato in bronzo moderno. Tavola Il.
+- 42 PICCOLA ZUPPIERA con coperchio e piatto in porcellana inglese.
+- 43DUE UCCELLI (quaglie), in porcellana tedesca, decorati al naturale.
+- 44 SERVIZIO DA THE'in porcellana di Sassonia,
+- composto di 10 tazze e cinque pezzi, decorati da animali e da scaglie color viola. Tavola Ill.
+- 45 -LA STORIA. Statuetta in porcellana di Sassonia.
+- Altezza 0.15.
+- 46—LA FAMIGLIA FELICE. Gruppo in porcellana di Sassonia.Marcolini.
+- 47
+- BAMBINI CHE GIUOCANO.Gruppo in porcellana di Frankenthal, marcata C.T. Modello di Melchior.
+- 48
+- CENTRO DA TAVOLA in porcellana di Sassonia rappresentante negro con scimmia.
+49. FABBRO. Figura in porcellana di Vienna.
+2. 50I BEVITORI ALLEGRI. Gruppo in porcellana di Frankenthal, marca leone.
+3. 51 DUE PIATTI porcellana di Meissen, bordo a nastro.
+4. 52 — DUE PIATTI in ceramica di Milano decorati a rose.
+5. 53— DUE BOSCHETTI con fiori in rilievo in porcellana di Sassonia.
+6. 54 —2 VASI in porcellana di Sassonia decorati in oro e festoni di fiori in rilievo Impero.
+7. 55 — DUE VASI porcellana giapponese.
+8. 56PIATTO in porcellana di Milano decorato a frutta.
+9. 57 — PIATTO ovale in ceramica di Milano, decorazione a nastro.
+- 58 PICCOLA TEIERA in porcellana di Gardner decorata
+- a fiori.
+- 59—PORTATRICE DI OCHE. Figurina in porcellana di
+- Hoechst.
+- 60 —COLOMBINA della commedia italiana. Figurina in
+- porcellana di Sassonia.
+- 61— GUARNIZIONE DA CAMINETTO composta di una pendola e due candelabri con statuette pastorali e fiori in porcellana di Sassonia, montati in bronzo dorato Luigi XV.Pezzo importante. Tavola IV.
+- 62-TAZZA e PIATTINO in porcellana di Sassonia,
+- fondo bianco con scene di artigiani.
+- 63 — TAZZA e PIATTO in porcellana francese, fondo verde,decorazione pompeiana. Epoca Impero.
+- 64
+- 4-TAZZA e PIATTINO in porcellana di Sassonia, decorata a scene pastorali.
+- 65-TAZZA e PIATTINO in porcellana di Popoff decorata a fiori.
+- 66SANTA CATERINA su tavola, scuola Lombarda del 500, 80×41.
+- 67 GOLFINO (detto Nicola Veronese), Sec. XVI. Madonna e Bambino, dipinto su tela, 65x47,cornice dorata.
+- 68-S SOLIMENA. S. Tommaso circondato da angeli inginocchiato davanti a un crocefisso, 52x40, cornice scolpita e dorata.
+- 69LUCA GIORDANO (attribuito). San Pietro, 98×78,
+- cornice nera.
+- 70 —— MOMPER, paesaggio su tavola, 71x50, cornice scolpita e dorata.
+- 71PAULO DE MATTEIS, due quadri pendants.La
+- Madonna e una santa su tela, 1.27 x1, cornici dorate. Tavole V e VI.
+- 72 — TINELLI, attribuito. Ritratto giovanetto su tela, 73 x 60
+- cornice dorata.
+- 73  RIZZONI, cardinale su tela, 39x31, cornice dorata.
+- 74PANINl,(acquarello) interno di chiesa,51 x33, cornice nera.
+- 75 —ROSALBA CARRIERA,autoritratto 47*37,cornice dorata. Tavola VI-bis.
+## SECONDA SERATA DI VENDITA
+
+GIOVEDI 16 FEBBRAIO 1928-ORE 24
+- 76 MINIATURA, silhouette donna. Impero su fondo azzurro cornice nera.
+- 77 — MINIATURA, Principessa Orsini, cornice nera.
+- 78 — MINIATURA, La Cena, firmato Albani, cornice nera.
+- 79— MINIATURA, Giovinetta capelli sciolti, forse di casa Gonzaga, cornice nera.
+- 80— MINIATURA, Donna abito bianco, collo aperto, epoca Impero, cornice cerchietto in bronzo.
+- 81-1 MINIATURA, Donna giovane, abito rosa nastri celesti in testa. Epoca 700, cornice cerchietto bronzo.
+- 82  MINIATURA, Giovinetto biondo abito bleu, epoca 1830, cornicetta cerchietto in bronzo.
+- 83—1 MINIATURA, Gentiluomo con decorazione all'occhiello. Epoca 1830, cornicetta cerchio bronzo.
+- 84 — MINIATURA, Soggetto mitologico Pomona con amore, epoca 700, cornice nera.
+- 85 — MINIATURA, Magistrato russo, (senza cornice).
+- 86-1 MINiATURA, Gentildonna vestito rosa, epoca Luigi XVI,cornicetta dorata.
+- 87MINIATURA, Donna Impero, con orecchini e coralli, cornice bronzo dorato.
+- 88—MINIATURA, Uomo anziano, capelli bianchi,# Andersen ）, cornice ovale bronzo dorato.
+- 89 —MINIATURA, Vescovo,##Andersen ）), cornice bronzo dorato.
+- 90 —MINIATURA, Carlo IlI di Borbone, cornice nera.
+- 91MINIATURA,Dama Impero scollata,frmato E.,cornice oro e smalti.
+- 92—MINIATURA,Ritratto donna, signora Joselowicz dipinta da Marszalkiewicz, cornice bronzo dorata.
+- 93MINIATURA.Ritratto di signora dipinto da Norwick.
+- 94MINIATURA,Principessa Esterhasy,dipinta da Beaudemer su rame smaltato.
+- 95 5—MINIATURA,Gentildonna Plimer ）,cornicetta ovale dorata.
+- 96 -MINIATURA,Sorelle Malibran G. Giordana.Corni cetta nera.
+- 97 MiNIATURA, Artemisia attribuita a L. Testile, cornice bronzo dorato.
+- 98 — SALVATOR ROSA. Alessandro il Macedone e Diogene, su tela, cornice dorata.
+- 99— QUADRETTO tondo su pergamena (acquarello), battaglia Napoleonica.
+- 100  GRANDE PENDOLA in marmo bianco e bronzo dorato, Luigi XVI con figura e musica. (Tav. Copertina).
+- 101 — ZORG. Interno di cantina, 37×48, su tavola cornice dorata.
+- 102  FLEMAEL, Paesaggio con colonna e vaso rotto su tela 39 x 32, cornice dorata.
+- 103 —SCHRIECK, Paesaggio con fiori e farfalle, su tela 93 × 80, cornice scura.
+- 104—
+- SCUOLA FIAMMINGA. Burrasca con castello a picco sul mare. Su tavola 44x 73. Tavola VIl.
+- 105 GRANDE QUADRO con conigli e gatto, Scuola Fiamminga su tela, 97*72, cornice dorata.
+- 106 — SCUOLA F. HALS, ritratto vecchio gentiluomo vestito nero, su tavola 56x68, cornice nera. Tav. VIll.
+- 107 SCUOLA FIAMMINGA, ritratto gentildonna su tela 60×45, cornice nera. Tavola VIlI.
+- 108  WIERUSZ KOWALSKI. Caccia al lupo in slitta, 23x32, su tavola, cornice nera, frmato. Tavola IX.
+- 109 STRASZYNSKI, Scena storica castello di Wallenstein messo a sacco 60x44, su tela, cornice dorata, frmato.Tav. IX.
+- 110 —— LEVITAN. Paesaggio interno di parco con laghetto, su tela 53 x 35, cornice nera. Tavola X.
+- 111 1 (Crimea) 55×35 su tela,
+- AIWAsOWSKI. Marina cornice nera. Tavola X.
+- 112 -P. WERESCIAGHIN. Citta di Mosca su tela,150x90
+- Tavola XI.
+- 113 — BOLOTOW. Ritratto donna su tela, 70×50, cornice
+- dorata.
+- 114 - TAZZA e PIATTINO in porcellana di Sassonia. fondo colore avorio, decorazione di Chinesi colore ar-
+- gento. Rarissima, bordo oro.
+- 115 — TAZZA e PIATTINO in porcellana di Sassonia, fon-
+- do verde con scene di contadini.
+- 116.—7 TEIERA in porcellana di Sassonia, a decorazione
+- cinese.
+- 117  DUE ZUPPIERE circolari in porcellana della Cina decorata bleu su bianco, montate in bronzo. Tavola Xll.
+- 118 -DUE ZUPPIERE CON PIATTO, forma rettangolare ad angoli piatti in porcellana della Cina, decorata bleu su bianco. Tavola Xll.
+- 119 -MINERVA, statuina in porcellana di Sassonia.
+- 120 -MARTE e ANPHITRIDE, due statuette su base in
+- porcellana di Sassonia.
+- 121 - BAMBINO che piange in porcellana di Chelsea.
+- 122 — NETTUNO sdraiato.
+- 123VASETTO in porcellana di Wedgwood fondo bleu
+- a figurine bianche in rilievo.
+- 124 - GIOVINETTO. Figura in porcellana di Hochst.
+- 125 - SUONATRICE. Figurina in porcellana di Hochst.
+- 126 MIETITORE. Figurina in porcellana di Sassonia.
+- 127 -IL BEVITORE,Figurina in porcellana di Ludwig-
+- sbourg.
+- 128 - BOURDALOU in porcellana di Sassonia, decorato a fiori.
+- 129 — LA MIETITRICE. Figurina in porcellana di Ludwigsburg.
+- 130 — CESTINO in porcellana antica inglese di Ulster decorato a fiori in rilievo.
+- 131— FEDE CATTOLICA. Finissimo ricamo incorniciato in radica con stemmi Papali.
+- 132 - GENTILUOMO. Figurina in porcellana di Sassonia.
+- 133 — PUTTINO con cornocopia in porcellana di Capodimonte.
+- 134  PASTORELLA in porcellana di Sassonia Marcolini.
+- 135 - VENDEMMIATRICE. Figuretta in porcellana di Frankenthal.
+- 136 - GRUPPO DI 8 DECORAZIONI in porcellana, per centro di tavola (busti, figure, vasetti).
+- 137 —SUONATORE e GUARDIANO, due statuette porcellana di Ludwigsburg.
+- in
+- 138 —RAGAZZO CON PAPPAGALLI, figurina in porcel-
+- lana di Vienna.
+- 139 - DUE PICCOLI VASETTI a tromba in Cina fondo bianco decorazione a fiori leggermente rilevati.
+- 140 -DUE PLACCHETTE in porcellana di Capodimonte
+- con soggetti mitologici a rilievo.
+- 141 - GIOVINETTO. Figurina in porcellana di Hochst.
+- 142- CENTRO DA TAVOLA in porcellana di Sassonia
+- rappresentante soggetto pastorale,
+- rappresentante soggetto pastorale.
+- 144-S SUONATORE, statuetta, in porcellana di Vienna.
+- 145—
+- MASCHERA ITALIANA in porcellana di Frankenthal.
+- 146 — ARLECCHINO danzante, figura in porcellana di Frankenthal marca Leone.
+- 147 —VENDITRICE DI CIALDE (Cri-de-Paris) in porcel-
+- lana di Sassonia su base.
+- 148 — DUE VASI in porcellana impero francese, dorati con dipinti soggetti galanti.
+- 149 - BROCCHETTA in porcellana di Sassonia di prima epoca, decorata in oro a chinoiseries e con lo stemma di A. R.
+- 150DUE VASI a tromba in porcellana della Cina. De corazione bleu su bleu. Sec. XVIll. Alt. 0.45. Tavola XIll.
+## TERZA SERATA DI VENDITA
+
+VENERDI 17 FEBBRAIO 1928-ORE 21
+- 151 DUE PIATTI di Sevres bordo bleu con tableaux miniati.
+- 152-SERVIZIO POSATE antico per 6, S. Marco, in astuccio.
+- 153  APOLLO e NARCISO due figure in bronzo su base di marmo epoca impero.
+- 154 TETE-A-TETE in porcellana di Gardener decorato a figure e fiori. Composto di due tazze e piattini, teiera, cremiera e brocca.
+- 155  DUE VASI in porcellana Tedesca decorati a fiori.Tavole XIV.
+- 156  DAMA DANZANTE. Figura in porcellana di Sassonia
+- 157 — GIOVE. Figura in bisquit di Sassonia.
+- 158 — MUSICISTI CINESI, quattro statuine in porcellana di Frankenthal, marcata C. T.
+- 159—— COPPA in porcellana di Saxuma,riccamente decorata a figure.
+- 160 — COPPA in porcellana di Saxuma, finemente decorata a figurine.
+- 161 I DUELLANTI due grandi figure in porcellana di Sassonia (di prima qualita).
+- 162  DUE grandi statue in porcellana di Sassonia, rappresentanti Augusto il forte e la contessa Cossel.
+- 163 DUE VASI in porcellana di Capodimonte, su base, riccamente decorati in paesaggi. Anse formate da bustini di donne. Tavola XV.
+- 164  COMPOSTIERA con piatto e coperchio in porcellana francese Fleury, decorata a figure e oro. Epoca Impero.
+- 165 - DUE GRANDI PIATTI in porcellana del Giappone decorati a fiori. Diametro 0.35.
+- 166 —PIATTO in porcellana del Giappone, decorato a fiori a colori e oro. Diam. 0.25.
+- 167 — DUE PIATTI fondi in porcellana della Cina, decorati a paesaggi.Diam.0.28.
+- 168  GRANDE PIATTO in porcellana della Compagnia
+- delle Indie, riccamente decorato a fiori. Diam. 0,38.
+- 169 — PIATTO in porcellana del Giappone con bordo inter-
+- no bleu e decorazione di fiori a colori e oro. Diam. 0.22.
+- 170 DUE POTICHES in porcellana della Cina a decorazione bleu su bleu. Tavola XVI.
+- 171 —PIATTO fondo in porcellana della Cina decorato in bleu e con bordo a colori e oro. Diam. 0.31.
+- 172—D
+- DUE GRANDI PIATTI FONDI in porcellana del Giappone, decorata a fiori. Diam. 0.38.
+- 173 —VAssOIO porcellana di Vienna, ricca decorazione di
+- putti con frutta.
+- 174 — COMPOSTIERA con coperchio in porcellana di Se-
+- vres fondo tourgusis, decorazione di uccelli.
+- DUE grandi vasi in porcellana marcata Augustus Rex,
+- 175 5一 decorati a fiori Pezzi rarissimi. Tavola XVll.
+- 176  GRANDE VASO in porcellana con anse e coperchio marcato Augustus Rex, decorato a fiori. Tavola XVll.
+- 177  VAsO in porcellana su basamento in bronzo dorato
+- decorato a motivi cinesi della famiglia Verde marcato sotto A. R. Pezzo rarissimo (Fele). Tavola XVIlI.
+- 178  LOTTO di due piatti in porcellana. Uno di Capodimonte decorato a festoni e l'altro francese decorato in oro e bleu.
+- 179 - PASTORE SEDUTO, statuetta in porcellana di Sas-
+- sonia.
+- 180-1 FLORA (porte bouquet). Grande statuetta in porcel-
+- lana di Sassonia.
+- 181 SERVIZIO DA THE'in porcellana Sassonia Marcolini,con monogrammi e corona e fiorami oro composto
+- da 8 tazze con coperchi e piattini, e 4 altri pezzi.
+- 182—LE QUATTRO PARTI DEL MONDO,quattro gruppi in porcellana di Sassonia.
+- 183 - POMO DI BASTONE in ambra scolpito, lavoro antico cinese.
+- 184 -PICCOLO FLACONE in ambra montato in oro e tu-
+- racciolo in pietra dura.
+- 185 MALATESTA da Modena (attribuito). Miniatura su a vorio ritratto di donna su scatola.
+- 186— MINIATURA scuola francese. Dama con bimbo su scatola.
+- 187 — MINIATURA Van den Berg,(scuola) Bibliotecario》， su scatola.
+- 188 MINIATURA, Fernandez  Giovinetta ）) epoca direttorio,cornicetta dorata.
+- 189 MINIATURA Bastiani # Dama Impero ）,'cornicetta dorata.
+- 190 ——MINIATURA Casabona #Dama direttorio ), cornicetta nera.
+- 191 —MINIATURA De Capitani ( Gentiluomo ), epoca Impero, cornice radica.
+- 192 —MINIATURA Della Valle (Gentiluomo ), epoca Impero, cornice bronzo.
+- 193  MINIATURA Palanti,ritratto di giovinetta, epoca Impero, cornice nera.
+- 194 MINIATURA,giovane in frak marrone, epoca Impero,cornice nera.
+- 195  MINIATURA Amazzone scuola Inglese su avorio in cerchietto dorato.
+- 196 MINIATURA Ricci:Gentiluomo,cerchietto dorato.
+- 197 —MINIATURA Scuola Francese (Ammiraglio 》, medaglione.
+- 198—MINIATURA su avorio:( Ufficiale Napoleonico ) cerchietto oro.
+- 199MINIATURA, Scuola Mirbel:# Gentildonna ） in cornicetta madreperla.
+- 200 MINIATURA, Scuola Mirbel:( Gentiluomo pendent alla precedente.
+- 201 —MINIATURA Pullico (# Papa )su scatola avorio.
+- 202 MINIATURA Imperatrice Anna Elisabetta,in cornice tartaruga montata in argento.
+- 203 — MINIATURA. Grande su marmo, personaggio Borbonico, frmata Sacco, cornice dorata.
+- 204 —— MINIATURA. Artista canto, epoca Impero, cornice velluto, con cerchietto dorato.
+- 205 —— MINIATURA. Gentildonna inglese, epoca Impero, velluto con contorno dorato.
+- 206— MINIATURA Generale con cordone bleu, cornice nera con stelle dorate.
+- 207  MINIATURA su scatola rappresentante una donna veneziana tipo Longhi.
+- 208 — KUPETZKI: Ritratto scienziato, su tela 45×35, cornice nera.
+- 209 -SCUOLA FIAMMINGA del 700 Uva: tela 25×31, cornice nera, frmato P. H.
+- 210 - SCUOLA FIAMMINGA,piccolo quadretto,Natura morta su tela 25x19,cornice nera.
+- 211 — BATTONI : La nascita, su tela 55×41, cornice dorata.
+- 212 -SCUOLA FIAMMINGA,due uccelli morti su tela 53×44, cornice nera.
+- 213—PERUGINO, Santa Maddalena,copia (?) su tavola 47x36,cornice dorata.
+- 214 - SCUOLA FIAMMINGA:Grande quadro scena campestre1.50x90.Tavola XIX.
+- 215 LEVITAN:Piccolo paesaggio russo, cattivo tempo, su tela 16x24,cornice nera.
+- ns
+- 216SWIERTCHKOW:Piccolo quadretto,un cane, tela 34x27,cornice dorata.
+- 217 W.WERESCIAGHIN.Piccolo ritratto di un Tartaro su tela, cornice nera.
+- 218 - SCUOLA FRANCESE del 700: Grande quadro Re e nice dorata.
+- 219—TABACCHIERAin oro a quattro colori, forma rettangolare ad angoli tagliati, finemente cesellata e smaltata. Sul coperchio fine miniatura smaltata rappresentante soggetto teatrale.
+- 220 - TABACCHIERA in oro cesellato e smaltato, sul coperchio finissima a miniatura,rappresentante la guerra
+- e la pace, forma rettangolare ad angoli curvi.
+- 221  SCUOLA FIAMMINGA: S. Francesco che riceve le
+- stigmate su tela 75 x 59, cornice nera.
+- 2—SCUOLA FIAMMINGA (Van Dick?), piccolo quadretto, 2 gentildonne su tela 35 × 45.
+- 222
+- 223 3—PETRUS LIBERI: Una donna in giardino fra fiori e ghirlande, 86x67, su tela, cornice scolpita. Tavola XX.
+- 224  COLLIER, BROCHE e PENDENTI, formato da sca-
+- rabei ed amuleti Egizi, montati in oro.
+- 225 — TABACCHIERA oro basso finemente cesellata con
+- orologio sul coperchio. Epoca Impero.
+- 226 — PENDOLINA in bronzo dorato con figura di Psiche, finemente cesellata. Impero Le Roy Paris.
+- 227  BOCCALE con coperchio in cristallo rosso di Boemia
+- riccamente cesellato.
+- 228  MERCURIO in bronzo, Secolo XVIll fine.
+- 229 — VENERE e GIUNONE in bronzo, basi in marmo bronzi Impero.
+- 230  ELMO (morione) in ferro ageminato in oro sec. XVIl.
+- 231 - MINIATURA. Ammiraglio inglese, Brocktarf, cornicetta nera.
+- 232 — JORDAENS. San Giovanni Battista, su tavola 95 x 72, cornice nera. Tavola XXI.
+- 233-9 SCUOLA SPAGNUOLA. Ritratto di Contadino su tela. Tavola XXll.
+- 234-S SCUOLA di MICHELANGELO, (frammento). Testa di vecchio, 45 x 35, cornice dorata.

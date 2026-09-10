@@ -1,0 +1,2476 @@
+<!-- image -->
+
+## Belles Estampes
+
+FRANCAISES ET ANGLAISES DU XVIIIe SIECLE
+
+EN NOIR ET EN COULEURS
+
+## DE BUCOURT
+
+(Par et d'apres LOUIS-PHILIBERT)
+
+1-2
+
+<!-- image -->
+
+DEUX PENDANTS
+
+## Le Menuet de la Mariee
+
+## La Noce au Chateau.
+
+Deux des plus aimables estampes, dans l'oeuvre du maitre, se faisant pendant, publiees: la premiere en 1786; la seconde en 178g(M. Fenaille,n° 8et n°21).
+
+Haut. avec marge, 38 cent.; larg. avec marge, 26 cent. 1/2.
+
+Cadres faits d'anciennes baguettes de bois sculpte et dore.
+
+Epoque Louis XVI.
+## DE BUCOURT
+
+(Par et d’apres LOUIS-PHILIBE RT)
+
+<!-- image -->
+
+DEUX PENDANTS
+
+## L'Escalade, ou les Adieux du Matin. Heur et Malheur, ou la Cruche cassee.
+
+Deux estampes publiees chez l'auteur, en 1787 (M. Fenaille, n°12 et n° 13).
+
+Tres belles épreuves imprimees en couleur, avec marge.
+
+Haut.,35 cent.et 37 cent.1/2.
+
+Marge, 28 cent. et 2g cent.
+
+Cadres faits d'anciennes baguettes de bois sculpte et dore. Epoque Louis XVI.
+## DE BUCOURT
+
+(Par et d'apres LOUIS-PHILIBERT)
+
+<!-- image -->
+
+DEUXPENDANTS
+
+## Le Compliment, ou la Matinee du Jour de l'An. Les Bouyuets, ou la Fete de la Grand'Maman.
+
+Deux estampes, en medaillons ovales sur fond équarri simulant le marbre bleu, se faisant pendant, et publiees en 1787 et 1788 (M. Fenaille, n° 15 et n° 16).
+
+Superbes épreuves imprimées en couleur, avec marge.
+
+Haut. avec marge,35 cent. 1/2; larg. avec marge, 26 cent. 1/2.
+
+Cadres faits d'anciennes baguettes de bois sculpte et doré. Epoque Louis XVI.
+## DE BUCOURT
+
+(Par et d'apres LOUIS-PHILIBERT)
+
+ro.5100
+
+## La Croisee.
+
+Estampe faisant pendant a la Rose mal defendue (M.Fenaille, n°28).
+
+Tres belle épreuve du 2e état, avec les deux enfants que lon voit a droite,en bas,remplacant un jeune homme qui embrassait la main de la jeune femme. Elle est avec l'adresse de l'auteur, est imprimee en couleur et a une bonne marge.
+
+Cadre fait d'anciennes baguettes en bois sculpte et dore, d'epoque Louis XVI, a perles et rais de coeur.
+## DOWNMAN
+
+(D'apres JOHN)
+
+<!-- image -->
+
+## Portrait de Mrs Farren.
+
+Estampe gravee par F. Bartolozzi. De forme ovale.
+
+Elle est en buste, vue de trois quarts a gauche, la tete legerement ramenee de face, et vetue d'un corsage a rayures avec fichu de linon blanc. La chevelure, frisee et bouclée, est ornee d'une coiffe blanche nouee de rubans roses.
+
+Tres belle epreuve imprimee en couleurs. Tres rare.
+
+Haut.,22 cent.;larg.,18 cent.1/2.
+
+Cadre dore, de style Louis XVI.
+## DOWNMAN
+
+(D'apres JOHN)
+
+9
+
+## Portrait de Mrs Siddons.
+
+Estampe gravee par F. Bartolozzi. De forme ovale.
+
+En buste, presque de face, le regard tourne vers la droite,
+
+Tres belle epreuve imprimee en couleurs. Rare.
+
+elle est vetue d'un corsage de linon blanc avec ceinture et cravate bleues. Les cheveux sont frises et boucles, retombant sur la nuque et les épaules.
+
+1laut.,21 cent.1/2;larg.,18 cent. 1/2.
+
+Cadre doré, de style Louis XVI.
+## EARLOM
+
+(RICHARD)
+
+<!-- image -->
+
+DEUX PENDANTS
+
+## A Fruit piece. A Flower piece.
+
+Deux gravures se faisant pendant, gravees a la maniere noire, d'apres Van Huysum.
+
+Superbes épreuves avec marges.
+
+Haut. avec marge, 55 cent.; larg. avec marge,41 cent.
+
+Cadres anciens, en baguettes de bois sculpte et dore. Epoque Louis XVI.
+## JANINET
+
+(FRANCOIS)
+
+<!-- image -->
+
+## de Frederique-Sophie-Wilhelmine
+
+## Portrait de Prusse (?).
+
+Petite estampe, de forme ronde, publiee sans noms d’artistes
+
+Superbe et rarissime épreuve, imprimee en couleur, avant toutes lettres, avec une tres grande marge.
+
+et generalement attribuee a F. Janinet.
+
+Diam. du sujet, 79 millim. Haut. de la marge, 16 cent. 1/2; larg. de la marge, 11 cent. 1/2.
+
+Petit cadre en bois sculpte et dore, de style Louis xVI.
+## JANINET
+
+(FRANCOIS)
+
+<!-- image -->
+
+DEUX PENDANTS
+
+## Le Matin,ou la Dame au miroir. Le Soir, ou la Dame a la guitare.
+
+Deux petites estampes rondes, decoupees et rapportees sur encadrements ronds, a filets graves. Elles sont imprimees en couleur, sans titres et sans noms d'auteurs.
+
+Diam. des sujets, g8 millim.
+
+Cadres dores de style Louis XV.
+
+Collection Henrotte;vente a Paris, le 17 avril 1g13, n° 14.
+
+Ces deux petites pieces ont ete publiees avec deux autres analogues, imprimees toutes les quatre sur la meme feuille. Les deux autres pourraient avoir pour titre :La Femme a lombrelle.- Le Doux Entretien. Ces sujets ont ete souvent attribues a Nic. Lawreince.
+## LAWREINCE
+
+(D'apres NICOLAS)
+
+<!-- image -->
+
+## L'Aveu difficile.
+
+Estampe gravée par Fr. Janinet, publiee chez l'auteur en 1787, et formant suite avec La Comparaison et L'Indiscretion, estampes des memes artistes et de meme format (E. Bocher, n8).
+
+Superbe epreuve imprimee en couleur, avec marge.
+
+Haut. avec marge, 44 cent.; larg. avec marge, 31 cent.
+
+Cadre fait d'anciennes baguettes de bois sculpte et dore. Epoque LouisXvI.
+## LAWREINCE
+
+(D'apresNICOLAS
+
+<!-- image -->
+
+## La Comparaison.
+
+Estampe gravee par Fr. Janinet, publiee chez l'auteur en 1786, et formant suite avec L'Aveu dificile et L'Indiscretion, estampes des memes auteurs et de meme format (E. Bocher,
+
+Superbe épreuve imprimee en couleur, avec marge.
+
+n° 12).
+
+Haut. avec marge, 42 cent.; larg. avec marge, 31 cent.
+
+Cadre fait d'anciennes baguettes de bois sculpte et dore. Epoque Louis XVI.
+## LAWREINCE
+
+(D'apresNICOLAS)
+
+<!-- image -->
+
+## L'Indiscretion.
+
+Estampe gravee par Fr. Janinet, publiee chez l'auteur en 1788, et faisant suite avec La Comparaison et L'Aveu dificile, estampes des memes artistes et de meme format (E. Bocher, n°30).
+
+Superbe épreuve, avant la lettre, seulement la signature de Janinet, a la pointe, sous le trait carre, a droite. Elle est imprimee en couleur, avec marge.
+
+Haut. avec marge,40 cent.; larg. avec marge, 31 cent. 1/2.
+
+Cadre fait d'anciennes baguettes de bois sculpte et doré. Epoque Louis XV.
+## MORLAND
+
+(D'apres GEORGES)
+
+<!-- image -->
+
+## A Tea garden.
+
+## St James's Park.
+
+Deux estampes in-folio en travers, se faisant pendant, gravées par F. D. Soiron.
+
+du premier tirage, avec les écoincons graves qui, dans les épreuves de tirage suivant, n'existent plus; les sujets se présentant seulement en ovales, et la lettre étant completement modifiée.
+
+Cadres en baguettes dorees de perles et rais de cceur.
+
+xvill siecle.
+<!-- image -->
+
+## TAUNAY
+
+(D'apresNICOLAS)
+
+DEUX PENDANTS
+
+20-21
+
+## La Noce de Village.
+
+## La Foire de Village.
+
+Deux charmantes estampes, se faisant pendant et formant
+
+Elles sont gravees par C.M. Descourtis et publiees chez suite avec deux autres estampes : la Rixe et le Tambourin.
+
+l'auteur.
+
+Superbes epreuves imprimees en couleur, avec marge.
+
+Ces deux epreuves, imprimees en couleur, sont du premier tirage, c'est-a-dire avec les armoiries et les dedicaces qui ont éte supprimees dans les tirages posterieurs. L'adresse, qui est ici celle de l'auteur, sera remplacee par celle de Morret.
+
+Haut. avec marge, 38 cent. 1/2; larg. avec marge,27 cent. 1/2.
+
+Cadres faits d'anciennes baguettes de bois sculpte et dore.
+
+Epoque Louis XVI.
+## VIGEE-LEBRUN
+
+(D'apres Mme L.-E.)
+
+22
+
+## Portrait de Marie-Antoinette,
+
+## Atchiduchesse d'Autziche, Reine de Ftance.
+
+Estampe en medaillon ovale, gravee par Cesar Macret. Au milieu de la dedicace, un écusson aux armes de France.
+
+Superbe épreuve en couleur, avec une tres grande marge.
+
+Fort rare en cet etat.
+
+Haut. avec marge,34 cent.; larg. avec marge,23 cent.
+
+Cadre fait d'anciennes baguettes de bois sculpte et dore. Epoque Louis XVI.
+
+Lord R. Cower, Iconographie de la Reine Marie-Antoinette, n 254.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+## Livres
+
+## DU XVIIIe SIECLE
+
+23 — Laborde (de). Choix de chansons mises en musique par M. de Laborde, premier valet de chambre ordinaire du Roi, gouverneur du Louvre, ornees d'estampes par J.-M. Moreau, dediees a Madame la Dauphine.A Paris, chez de Lormel, imprimeur de l'Académie royale de Musique, rue du FoinSaint-Jacques. MDCCLXXIlI. Avec approbation et privilege du Roi.
+
+Quatre volumes grand in-8 (souvent relies en deux volumes). Le texte et la musique sont graves par Moria et
+
+Mlle Vendome.
+
+L'illustration comprend : un titre grave, avec feuron, par Moreau; quatre frontispices par Moreau, Le Bouteux et Le Barbier, graves par Masquelier et Née; et cent figures par Moreau, Le Barbier, Le Bouteux et Saint-Quentin, gravees par Moreau, Masquelier et Née.
+
+Ces quatre volumes sont, chacun, dans une reliure ancienne en velin.
+
+Haut.,24 cent.1/2;larg., 16 cent.1/2.
+
+<!-- image -->
+
+Cet ouvrage, un des plus beaux du xvne siecle, en est peut-etre, avec les Contes de La Fontaine, le plus agreable par la grace des sujets et la variete des costumes qui y sont representes. Le premier volume (par Moreau) est encore superieur aux trois autres. Le frontispice du tome II est date de 1774.
+
+Voir :Henry Cohen, Guide de lamateur de livres a vignettes du XVIIle siecle.
+<!-- image -->
+
+1150.
+
+<!-- image -->
+
+苏00.
+
+- 24 —La Fontaine (J. de). Fables choisies, mises en vers par J.de La Fontaine. A Paris,1755-1759, chez Desaint et. Saillant. 4 vol. in-fol. Cartonne; dos et coins en basane.
+- Exemplaire non rogne de ce bel ouvrage recherche.
+- 25— Retif de la Bretonne. Monument du Costume physique et moral de la fin du xvine siecle, ou Tableaux de la vie, ornes de figures dessinees par M. Moreau le Jeune, dessinateur du Cabinet de S. M. T. C., et par d'autres celebres artistes. A Neuwied sur le Rhin, chez la Societe Typographique.MDCCLXXXIX.
+
+Tel est le titre general des petits contes ou historiettes que Retif de la Bretonne a composes pour utiliser, pour son propre compte ou pour celui d'un libraire, les deux belles des mceurs et du costume des Francais du xvine siecle, qui suites d'estampes de Moreau le Jeune, pour servir a l'histoire avaient éte publiees par Prault, en i776.
+
+Un volume grand in-folio, contenant 37 pages de texte et 26 gravures,dont 24 d'apres Moreau le Jeune et deux d'apres Freudeberg; l'une de ces deux dernieres, la Surprise, est ici en état avant la lettre. Cartonne.
+
+Haut.,58 cent.;larg.,41 cent.
+
+<!-- image -->
+<!-- image -->
+
+## Aquarelles, Dessins
+
+DU XVIII SIECLE
+
+## COSWAY (R. A.)
+
+(RICHARD)
+
+Tiverton,1749 + 1821.
+
+26
+
+## Trois Portraits de femmes.
+
+Dans un cadre sont reunis trois petits portraits de femmes.
+
+A gauche. —— En buste, de trois quarts a droite; le visage, encadre de boucles frisees sur le front, est tres soigneusement dessine.
+
+Dessin au crayon, a la sanguine et a l'aquarelle.
+
+Haut., 9 cent.; larg., 7 cent. 1/2.
+
+Au centre.— Jeune femme en buste, assise, le bras gauche appuye sur une table. La tete est terminee, le restant du portrait seulement esquisse tres legerement.
+
+Dessin au crayon, a la sanguine et a l'aquarelle.
+
+Haut., 13 cent.; larg., 1o cent.
+
+A droite. — Buste de jeune femme de trois quarts a gauche; la tete seule est terminee.
+
+Dessin au crayon et touches de lavis.
+
+Cadre en acajou moulure et sculpte de rais de cour, dore, de style Louis XVI.
+
+<!-- image -->
+
+#25570.
+<!-- image -->
+
+## COSWAY(R.A.)
+
+(RICHARD)
+
+27
+
+## La Promenade.
+
+Le mari et sa femme sont en promenade dans un parc. Tous deux marchent vers la droite et sont vus de trois quarts, leurs visages fixant le spectateur.
+
+Lui, tete nue, tient de la main droite son chapeau et offre son bras droit a sa compagne qui, elle, tient un éventail dans sa main gauche.
+
+L'ensemble est dessine legerement, les deux tetes, au contraire, tres precieusement terminees.
+
+Dessin au crayon, a la sanguine et a l'aquarelle.
+
+Haut., 24 cent.; larg., 14 cent. 1/2.
+
+0528# Cadre dore de style Louis XVI.
+## COSWAY(R.A.)
+
+## (RICHARD)
+
+28
+
+## Les Deux Seurs.
+
+L'une est assise, a droite, sur un banc de pierre, dans un parc; l'autre est a son cote, debout pres d'elle; ensemble elles tiennent chacune, d'une main, une feuille de papier.
+
+Elles sont vetues de robes a corsage decollete, leurs coiffures sont relevees sur le sommet de la tete, et, dans les cheveux de ruban.
+
+L'ensemble est legerement dessine au crayon, les figures seules sont tres precieusement poussees a l'aquarelle.
+
+Dessin au crayon, a la sanguine et a l'aquarelle.
+
+Haut.,25cent.;larg.,15 cent.
+
+<!-- image -->
+## ECOLE FRANCAISE
+
+(xv siecle.)
+
+PENDANT DU SUIVANT
+
+29
+
+## Le Parc de la villa.
+
+Au bas de la terrasse sur laquelle est édifiee une villa que l'on voit a droite, autour d'un banc, huit personnages sont reunis; l'un d'eux dessine d'apres une statue qui se dresse sur un piedestal. A gauche, un autre groupe de deux femmes et un enfant. Plus loin, est un bassin alimente par un jet d'eau, et dans le fond, des arbres tailles en charmille. Des debris de colonnes ruinees occupent le premier plan, a droite, embroussailles de verdure.
+
+Dessin a la plume lave d'aquarelle.
+
+Haut.,23 cent.;larg.,29 cent. 1/2.
+
+Cadre dore de style Louis XVI.
+## ECOLE FRANCAISE
+
+(xvine siecle.)
+
+30
+
+PENDANT DU PRECEDENT
+
+## L'Escalier du parc.
+
+Il s'eleve du milieu de la composition, pour atteindre une terrasse, aupres d'un temple rond antique en ruines, sur le haut duquel se profile une unique statue.
+
+arbre, deux galants s'embrassent. A gauche, un groupe de trois personnages. Une femme accompagnee d'un enfant gravit les degres de l'escalier.
+
+A droite, devant un sphinx dresse sur un socle, et pres d’un
+
+Fond d'arbres tailles en charmille.
+
+Dessin a la plume, lave d'aquarelle.
+
+Haut., 23 cent.; larg., 29 cent. 1/2.
+
+Cadre doré de style Louis XVI.
+
+<!-- image -->
+<!-- image -->
+
+## FLEURY
+
+(2.)
+
+31
+
+## Napoleon a Austerlitz.
+
+L'Empereur est a cheval, entoure d'un brillant état-major, et passe en revue ses troupes victorieuses qui lui sont presentees par leurs officiers; des cavaliers portent des étendards pris a l'ennemi. A terre, parmi des armes brisees, des canons et des affuts abandonnes, se trainent des blesses qui trouvent encore la force de se soulever pour acclamer le grand Empereur.
+
+Important dessin a la sepia, sur son ancienne monture,au milieu de laquelle on lit, au-dessous du trait d'encadrement :
+
+Dessine par Fleury.
+
+Cadre dore Empire.
+
+Cet artiste du nom de Fleury est peut-etre Richard-Francois Fleury, peintre d'histoire et de genre, qui travaillait a Lyon vers 1815, et qui était eleve de David.
+
+Haut.,33 cent.1/2;larg.,70 cent.
+## GREUZE
+
+(D'apres JEAN-BAPTISTE)
+
+(xvile siecle.)
+
+32
+
+## La Pelotonneuse.
+
+Dans un interieur villageois, une jeune fille assise devide du fil et le met en pelote; pres d'elle, sur une table, un jeune chat épie ses mouvements et joue.
+
+Gouache.
+
+Haut., 17 cent.; larg., 13 cent.
+
+Cadre ancien, en bois moulure et sculpte, decore de perles et de feuilles d'eau. Epoque Louis XVI.
+
+Composition bien connue de J.-B. Greuze, que Laurent Cars, le celebre graveur, a reproduite au burin.
+
+<!-- image -->
+<!-- image -->
+
+## HEATLEY
+
+(J.)
+
+(Ecole anglaise du xvie siecle et du commencement du xix siecle.)
+
+33
+
+## La Jeune Fille au tambourin.
+
+Dans la campagne, une jeune fille danse. Elle est vetue d'une robe blanche avec corsage decollete orne de dentelle, croise sur la poitrine, au-dessus d'une ceinture fermee par une boucle.
+
+Elle repose sur sa jambe gauche, pendant que la droite est relevee dans l'attitude de la danse. Ses deux bras sont releves et ployés, la main droite a la hauteur du visage, et la main gauche agitant un tambourin au-dessus de la tete.
+
+Dessin au crayon, lavis d’aquarelle et quelques rehauts de gouache.
+
+Signe et date a gauche, en bas : J. Heatley, 18oo.
+
+Haut.,31 cent. 1/2;larg.,21 cent.
+
+Cadre ancien doré, Louis XVI.
+## LE GUAY
+
+(CHARLES-ETIENNE) Sevres,1762 +?.
+
+34
+
+## Portrait d'homme.
+
+En buste, legerement tourne vers la gauche, les cheveux releves et boucles sur les oreilles; habit au col montant autour du cou.
+
+Dessin a la mine de plomb, aux crayons de couleur et a l'estompe.
+
+Cadre ancien dore.
+
+Collection Alfred Beurdeley;vente a Paris, les 13-15 mars 1go5, n°128.
+
+Haut.,32 cent.; larg., 22 cent.
+
+<!-- image -->
+
+F9960
+<!-- image -->
+
+## STAVELEY
+
+(Ecole anglaise, fin du xvire siecle.)
+
+35
+
+## Portrait d'homme.
+
+Represente en buste, de trois quarts a gauche, il est vetu d'un habit a col a revers,boutonne, le cou entoure d'une cravate de lingerie. Le visage, encadre de cheveux rares sur le dessus de la tete et boucles sur les oreilles, regarde le spectateur.
+
+Signé et daté, en bas, a droite : Staveley, 1796.
+
+Dessin au crayon noir et rehauts de sanguine.
+
+Haut., 21 cent.; larg., 17 cent. 1/2.
+
+Cadre fait d'anciennes baguettes de bois sculpte et doré,
+
+Louis XVI, a perles et rais de coeur.
+## SWEBACH,dit FONTAINE
+
+(JACQUES-FRANCOIS-JOSE) Paris,1769+1823.
+
+36
+
+## Entree dans Paris
+
+## des prisonniers des armees alliees,
+
+escortes par la Garde Nationale commandee par le Marechal Moncey (9 Mars 1814).
+
+Sur le boulevard, pres de la porte Saint-Martin, la foule parisienne s'est portée nombreuse sur le passage du cortege precede de tambours et cavaliers. Des groupes de curieux garnissent les fenetres des maisons voisines; d'autres ont escalade la toiture de la petite fontaine de pierre qui touchait a la porte Saint-Martin; quelques-uns garnissent le haut d'un carrosse, et de plus hardis encore sont grimpes sur les arbres degarnis de feuilles.
+
+Dessin a l'aquarelle.
+
+Haut.,24 cent.;larg,40 cent.1/2.
+
+Cadre ancien, en bois sculpte et dore, a perles et canaux. Epoque Louis xVI.
+
+<!-- image -->
+
+<!-- image -->
+
+71200.—
+<!-- image -->
+
+## Peintures et Pastels
+
+DES XVII ET XVIII SIECLES
+
+## CHARPENTIER
+
+(JEAN-BAPTISTE) Paris,1728+1806.
+
+3
+
+## Le Marchand de galettes.
+
+Une jeune femme debout, vue de face, vetue d'une robe a corsage decolleté, s'est arretee, a la demande pressante de son jeune garcon, que l'on voit de dos, debout devant elle, pour acheter une galette a un marchand ambulant, qui en a une pleine corbeille suspendue a son cou.
+
+Signe a gauche, vers le bas.
+
+Panneau.Haut.,4o cent.;larg.,31 cent.
+
+Cadre en bois sculpte et dore, de forme contournee, a decor de coquilles, palmettes, feuillages et feurons. Epoque Regence.
+
+<!-- image -->
+<!-- image -->
+
+## CUYP
+
+(AELBERT) Dordrecht, 1629 + 1691.
+
+38
+
+## Le Coq et la Poule.
+
+Dans un coin de la basse-cour, parmi les brins de paille, le coq et la poule sont couches sur leurs pattes et semblent rassasies. La poule est vue de profil a gauche, et le coq de profil a droite. Signe a gauche, en bas : A. Cuyp.
+
+Panneau. Haut., 59 cent.; larg., 72 cent.
+
+Collection Maurice Kann; vente a Paris, le g juin 1gi2, n° 16.
+
+Decrit par Hofstede de Groot, n° 8o3. Reproduit au catalogue de cette vente.
+
+Voir la reproduction.
+## EISEN,le Pere
+
+(FRANCOIS) Bruxelles,16g5+1778.
+
+39
+
+PENDANT DU SUIVANT
+
+## L'Optique.
+
+Une jeune fille est tres attentionnee a regarder dans un optique; son jeune frere, pour lui faire une malice, n'a rien trouve de mieux, par espieglerie, que de mettre, a la place des La jeune personne ne quitte pas ses yeux de l'appareil, mais sa grande sceur, qui a percu le mouvement du gamin, se detourne, vues qu'elle examine, la partie la plus charnue de son individu. choquee par ce spectacle.
+
+Signe: F. Eisen le pere, 1763.
+
+Bois. Haut., 29 cent.; larg., 23 cent. 1/2.
+
+Cadre ancien en bois mouluré, sculpte et dore, a decor de perles et rais de cceur. Epoque Louis XVI.
+
+Sous la gravure, qu'a gravee en contre-partie Henriquez, on a inscrit ce quatrain de Davesne:
+
+Nicette observe, et son ceil curieux, A ce qu'il voit, se prete sans malice, Mais Aglae fuit d'un air furieux. Juge, lecteur, quelle est la plus novice.
+
+Voir la reproduction.
+
+<!-- image -->
+<!-- image -->
+
+## EISEN,le Pere
+
+(FRANCOIS)
+
+40
+
+PENDANT DU PRECEDENT
+
+## L'Espieglerie.
+
+Dans une cuisine,un jeune garcon espiegle appuie son doigt sous le robinet d'une grande fontaine de cuivre,et fait ainsi jaillir l'eau sur son petit frere qui vient de choir de sa chaise, ses jupes relevees. La soeur, plus agee, de crainte d'etre aussi arrosee, s'ecarte prudemment.
+
+Signe: F. Eisen le pere, 1763.
+
+Bois. Haut., 29 cent.; larg.,23 cent. 1/2.
+
+Cadre ancien en bois mouluré, sculpte et dore,a decor de perles et rais de coeur. Epoque Louis XVI.
+
+Sous la gravure en contre-partie qu'a faite Henriquez de cette composition,on a inscrit ce quatrain de Davesne:
+
+Arrete,enfant,et fais treve a tes jeux, Dans quel danger ne mets-tu pas ton frere? Pour que ce bain puisse etre salutaire, Attends qu'Amour le brule de ses feux.
+
+Voir la reproduction.
+## HONDEKOETER
+
+(Attribué a M.de)
+
+## Deux Coqs.
+
+Toile.Haut., 77 cent.; larg., I metre.
+
+Cadre ancien en bois sculpte dore.
+
+## HONDEKOETER
+
+(Attribué a M.de)
+
+42-43
+
+DEUX PENDANTS
+
+## Volatiles divers.
+
+Deux toiles. Haut., 1 m.13;larg., I m.20 et 1 m. 29.
+
+<!-- image -->
+
+2900.
+
+<!-- image -->
+<!-- image -->
+
+## LAWREINCE
+
+(NICOLAS)
+
+Stockholm 1737+1807.
+
+PENDANT DU SUIVANT
+
+## L'Ouoriere en dentelles.
+
+Dans une chambre ou tout parle d'intimite, l'alcove aux rideaux bleus, la porte qui ne demande qu'a se fermer, jusqu''a la lumiere meme dont les fenetres.sont avares, ils sont tous deux réunis, lui et elle. Lui, en culotte blanche et habit bleu, tient sa jeune amie par la taille. Elle, debout, vetue d'une robe rose et d'un corsage noir a fichu de linon blanc, ses cheveux chatain clair disparaissant presque sous un bonnet fanfreluche. Elle incline son profil delicat vers le visage énamouré du jeune garcon qui appuie sa tete, avec un abandon interesse, sur le coeur de sa conquete.
+
+Sur un petit gueridon d'acajou, a droite, repose un écrin ferme et, sur le sol, pres d'un fauteuil, un autre écrin est ouvert, contenant quelque objet precieux.
+
+Panneau.Haut.,27 cent.;larg.,20 cent.1/2.
+
+Cadre en bois sculpte.
+
+Sujet grave en couleur et en reduction, sans nom d'auteur, sous le meme titre.
+
+n°29.
+
+Collection Pierre Decourcelle; vente a Paris, les 2g-3o mai 1911,
+
+Succession Henry Lacroix; vente a Paris, les 18-23 mars 19o1, n° 38.
+
+Voir : Emmanuel Bocher, Les Gravures francaises du xvi siecle, ou Catalogue raisonne des Estampes, etc... Nicolas Lawreince, n° 45, p. 38.
+
+Voir la reproduction.
+## LAWREINCE
+
+(NICOLAS)
+
+45
+
+PENDANT DU PRECEDENT
+
+## Le Dejeuner en tete a tete.
+
+Le jeune amoureux était dans son petit salon, entoure d'euvres d'art, et il venait de prendre seul sa tasse de café, lorsque la petite amie est entree et, familierement, a preferé
+
+s'asseoir sur le genou du jeune homme que sur le canape.
+
+Elle est vetue d'un costume jaune et d'un bonnet blanc a rubans roses, qui sied fort bien a sa beaute. Mais nous ne dirons pas la couleur de ses yeux, parce que l'attitude de sa tete nous empeche de les voir. Seul, l'heureux aime pourrait nous rensei- gner... s'il y songeait !
+
+Cadre en bois sculpte.
+
+Sujet grave en couleur et en reduction, sans nom d'auteur, sous le meme titre.
+
+no3o.
+
+Collection Pierre Decourcelle;vente a Paris, les 2g-3o mai 1911,
+
+Succession Henry Lacroix; vente a Paris, les 18-23 mars 19o1, n°39.
+
+Voir : Emmanuel Bocher,op. cit., n° 18,p.22.
+
+Voir la reproduction.
+
+Panneau. Haut.,27 cent.; larg.,22 cent.
+
+<!-- image -->
+<!-- image -->
+
+## OUDRY
+
+(xvinn siecle.)
+
+46
+
+## Chiens et Perroqiet,
+
+## dans un paysage.
+
+Signe et date : 1723.
+
+Toile.Haut.,52 cent.; larg., 65 cent.
+## PATER
+
+(JEAN-BAPTISTE-JOSEPH)
+
+Valenciennes,1695 + Paris,1736.
+
+47
+
+## Soldats et Vioandieres.
+
+Dans un camp, a l'oree d'un bois ou des vivandieres ont dresse leurs tentes, des soldats sont venus se reposer des fatigues de la guerre. Quelques-uns se sont attardes et une patrouille que conduit un officier a cheval, le bras droit leve et étendu dans
+
+Dans le fond, derriere la fumee bleue des feux de bivouac, on apercoit la silhouette d'un village, sous la lumiere d'un soleil couchant deja cache par de gros nuages.
+
+l'attitude du commandement, enjoint aux trainards de regagner les rangs.
+
+Panneau. Haut., 25 cent.; larg., 3o cent. 1/2.
+
+Cadre ancien en bois sculpte et redore. Epoque Louis XV.
+
+J.-B. Pater, comme son maitre A.Watteau, ne s'est pas contente de peintre des scenes galantes;les sujets militaires ont éte souvent l'objet de ses travaux et quelques-uns des tableaux de ce genre se trouvent dans les collections de Berlin et Potsdam.
+
+Voir: Siedel,Les Collections des Maitres francais,appartenant a l'Empereur Guillaume II.
+
+Voir la reproduction.
+
+<!-- image -->
+<!-- image -->
+
+## PERRONNEAU
+
+(JEAN-BAPTISTE)
+
+Paris,1714 + 1783.
+
+48
+
+## Portrait de M. Duperel.
+
+Vu jusqu'a mi-corps, de trois quarts a gauche, il est vetu d'un habit rouge éteint, d'un gilet a jabot de dentelle et a boutons de metal. Les cheveux sont poudrés, coiffes a marteaux et noues avec un ruban noir.
+
+La physionomie est calme avec une certaine expression de dedain.
+
+Peinture a l'huile.
+
+Signee en haut, vers la droite : Perronneau, 1771.
+
+Haut.,68 cent. 1/2;larg., 57 cent. 1/2.
+
+Collection Ernest Cronier; vente a Paris, les 4-5 decembre 1go5, n°1g (sous la designation : M.Duperil).
+
+A fgure a lExposition du Salon du Louvre, en 1773, sous le
+
+Cite dans J.B.Perronneau, sa vie et son euvre, par Leandre Vaillat n° 63; le Portrait de M. Duperel. Tableau a 1'huile de 27 pouces sur 22.
+
+et Paul Ratouis de Limay, n° 147, p. 106.
+
+Voir la reproduction.
+## ROBERT
+
+(HUBERT)
+
+Paris,1733+1808.
+
+49
+
+## Ruines antiques et personnages.
+
+Au centre de la composition, se dressent,majestueuses, les ruines d'un temple antique dont cinq colonnes corinthiennes subsistent portant encore leur entablement; dans le fond, s'eleve un arc de triomphe a trois portes.
+
+Au premier plan,a droite, sur le cote du chemin qui conduit un chapiteau pres d'une enorme assise de pierre sur laquelle un a cet arc de triomphe, un haut bas-relief git incline; a gauche, homme est debout,un baton a la main; un autre personnage s'efforce de le rejoindre.
+
+Sur le chemin, un groupe de deux femmes et de deux enfants se sont arretes et regardent curieusement les sculptures ruinees du bas-relief.
+
+A des plans successifs se trouvent d'autres personnages secondaires.
+
+Signe sur le socle de base de l'une des colonnes : H. Robert 1778.
+
+Toile ovale.Haut.,47 cent.1/2;larg.,37 cent.
+
+Cadre ovale, en bois moulure et dore, avec rang de perles.
+
+Voir la reproduction.
+
+<!-- image -->
+<!-- image -->
+
+## RUSSELL (R.A.)
+
+(JOHN) 17441806.
+
+50
+
+## PENDANT DUSUIVANT
+
+## Portrait Cavendish,
+
+## de Lady Georgiana a l'age de dix ans.
+
+Elle est debout, en robe et bonnet blancs égayes de ruban bleu, et sa figure,aux grands yeux etonnes, aux joues roses, aux cheveux blonds, se detache sur un fond de ciel d'azur, largement marque de nuages blancs. Elle tient de sa main droite, le bras ploye, une branche feurie.
+
+Pastel.
+
+Signe a droite, en bas : J. Russel, R. A. 1790.
+
+Haut., 6o cent.; larg.,45 cent.
+
+Collection A. Wertheimer.
+
+Ce pastel a figure, sous le numero 1i4, a lExposition des Cent
+
+Pastels (mai-juin 1go8).
+
+Il est decrit, dans les termes ci dessus, par M. L.Roger-Miles et reproduit dans louvrage publie apies cette exposition, p. 97
+
+nom et de Georgiana, duchesse de Devonshire, devenue comtesse de Carlisle, grand'mere du pair actuel:
+
+Lady Georgiana Cavendish, fille de William, cinquieme duc du
+
+Voir la reproduction.
+## RUSSELL (R. A.)
+
+(JOHN)
+
+51
+
+## PENDANT DU PRECEDENT
+
+## Portrait de Lady Henrietta Cavendish
+
+## a l'age de cing ans.
+
+C'est une fillette vetue de blanc, aux joues de pomme d'api, aux épaules et aux bras potelés, aux cheveux chatain clair, coiffes d'une ample capote blanche serree par un ruban rose.
+
+Elle est debout, de trois quarts, pres d'un balcon de pierre sur lequel elle a pose un panier d'osier tout rempli de fleurs. Fond de ciel d'azur ou s'envolent quelques nuees grises.
+
+Pastel.
+
+Signé a gauche, en bas : J. Russel, R. A. Pt. 1790.
+
+Haut., 6o cent.; larg.,45 cent.
+
+Collection A. Wertheimer.
+
+Ce pastel a figure, sous le numero 115, a 1'Exposition des Cent
+
+Pastels (Paris,mai-juin 1go8).
+
+Il est decrit, dans les termes ci-dessus, par M. L. Roger-Miles et reproduit dans l'ouvrage publie apres cette exposition, p. 98.
+
+Lady Henriette Cavendish, seconde fille de William, cinquieme duc du nom, et de Georgiana, duchesse de Devonshire, devenue comtesse de Granville, grand'mere du pair actuel.
+
+Voir la reproduction.
+
+<!-- image -->
+<!-- image -->
+
+## STEEN
+
+(JAN)
+
+Leyde,1626+1679.
+
+52
+
+## La Rixe.
+
+Devant l'auberge, sur un tonneau, les gens s'etaient mis a
+
+Signe a gauche, en bas : Jan Steen, 1671.
+
+jouer aux cartes, et voici que l'un d'eux, ayant perdu, est entre en grande fureur et brandit une epee nue. Une vieille femme le retient, tandis que, de l'autre cote du tonneau,le partenaire heureux, assis sur un banc, lui montre le poing, tout en se moquant de lui. Pres de lui, un de ses compagnons, tenant sa pipe, retient un chien qui mele ses aboiements a la scene. Derriere ce groupe, deux autres personnages sont debout et rient. Dans le fond, un personnage s'éclipse en courant, les bras tendus en avant, comme s'il appelait au secours. A droite, on apercoit, de l'autre cote d'une porte ouverte, des personnages circulant devant les auvents d'une kermesse.
+
+Panneau. Haut., 51 cent.; larg., 71 cent.
+
+Decrit par Hofstede de Groot, nos 774 et 775.
+
+Collection M.Watering.Amsterdam (1813).
+
+Collection P. Longuet.Amsterdam (1783).
+
+Collection Maurice Kann; vente a Paris, le 9 juin 1gll, n° 73. Reproduit au catalogue de cette vente.
+
+Voir la reproduction.
+## VALLAYER-COSTER
+
+(Mme ANNE) Paris, 1744 + 1818.
+
+53
+
+PENDANT DU SUIVANT
+
+## Une Vestale.
+
+C'est une jeune fille vue en buste, de face; la tete, couronnee de roses, est legerement inclinee et les yeux modestement baisses. Elle est vetue d'une robe de satin blanc et tient, dans sa
+
+Signe a gauche, vers le milieu : M. Vallayer, 1779.
+
+main gauche ouverte, une corbeille de feurs.
+
+Toile ovale. Haut., 44 cent.; larg.,38 cent.
+
+Cadre dore, de style Louis XVI.
+
+Ce petit tableau est peut-etre celui qui figurait au Salon de 1779, sous le n° io2. Il est ainsi designe dans le catalogue de ce Salon: ...Par Mlle Valayer, Academicienne :1o2. Une Vestale couronnee de roses, et tenant une corbeille de fleurs. Ce petit tableau, de forme ovale, appartient a la reine.
+
+Une replique de ce tableau en contrepartie, egalement signee et datee, et de meme dimension, figurait dans une vente anonyme, a la galerie G. Petit, le 21 avril 1921, n° 22 du catalogue.
+
+Voir la reproduction.
+
+<!-- image -->
+<!-- image -->
+
+## VALLAYER-COSTER
+
+(Mme ANNE)
+
+54
+
+## PENDANT DU PRECEDENT
+
+## Melancolie.
+
+Une jeune femme, vue en buste, presque de face, appuie sa tete dans sa main droite, le bras pose sur un livre ouvert, le regard perdu. Elle est vetue de blanc, sa chevelure paree de fleurs. Sur le piedestal, aupres duquel elle est assise, se lit ce distique :
+
+Ses maux et ses plaisirs Ne sont connus que d'elle.
+
+Signe a droite, vers le milieu : M. Vallayer, 1784.
+
+Toile ovale. Haut., 45 cent.;larg., 38 cent.
+
+Cadre dore, de style Louis XVI.
+
+Voir la reproduction.
+## VERDUSSEN
+
+(JEAN-PIERRE) (xville siecle.)
+
+55-56
+
+DEUX PENDANTS
+
+## Chasse au cerf.—La Curee.
+
+Compositions animees de nombreux personnages. Signees.
+
+Toiles. Haut., 1 m.o3;larg, I m.42 et 1 m.45.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+## Tableau et Dessins Modernes
+
+## BARYE
+
+(ANTOINE-LOUIS) 1796-1875.
+
+57
+
+## Lion marchant, profil a gauche. Lionnes luttant.
+
+Dans un meme cadre:
+
+Deux dessins au crayon, sur papier creme et papier gris.
+
+Signes en bas : Barye (timbre de la vente).
+
+Haut., 11 cent. 1/2; larg., 19 cent.
+
+Haut., 17 cent.; larg.,32 cent. 1/2.
+
+Ire vente Hazard, decembre 1gi9, n° 297.
+
+<!-- image -->
+<!-- image -->
+
+## DEGAS
+
+(EDGAR)
+
+1834-1917.
+
+58
+
+## Femme a sa toilette.
+
+Elle est vue de dos, assise sur un canape, la main droite appuyee sur le dossier et de sa main gauche elle s'essuie le cou avec une serviette. Le plancher est recouvert d'un tapis rouge.
+
+Pastel.
+
+A gauche, en bas, le timbre de la vente.
+
+Haut., 83 cent.; larg., 62 cent.
+
+N157 de la 2vente Degas.
+
+Voir la reproduction.
+## DEGAS
+
+(EDGAR)
+
+59
+
+## Danseuses a l'exercice.
+
+Dessin au fusain.
+
+A gauche, en bas, le timbre de la vente.
+
+Haut.,65 cent.;larg.,56 cent.
+
+No 2g8 de la 2e vente Degas.
+
+DEGAS (EDGAR)
+
+60
+
+## Danseuse.
+
+Elle est vue de face, en pied, la tete tournee vers la droite.
+
+Dessin au fusain rehausse de blanc.
+
+A gauche, en bas, le timbre de la vente.
+
+Haut., 49 cent ; larg., 3o cent.
+
+No 326 de la 2 vente Degas.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+## JONGKIND
+
+(JOHANN-BARTHOLD)
+
+1819-1891.
+
+61
+
+## L'Hiver en Hollande.
+
+Le canal est pris : sur son miroir ouate de neige, des pati- neurs glissent les pieds armes de patins. A droite et a gauche, le long du canal, les bords sont plantes d'une rangee d'arbres aux branches depouillees de leurs feuilles.
+
+A gauche, il y a une construction au toit couvert de tuiles brunes, et, au fond, un moulin a vent dresse ses bras immobiles.
+
+Un bateau de peche est enserre dans les glaces.
+
+Au-devant du ciel d'azur, roulent de grandes nuees grises, ourlees de lumiere.
+
+Signe a droite, en bas : Jongkind, 1858.
+
+Toile. Haut., 42 cent. 1/2; larg., 56 cent.
+
+Exposition Jongkind, Galeries Georges Petit, novembre 1921, n°73.
+
+Voir la reproduction.
+
+<!-- image -->
+<!-- image -->
+
+## Sculptures
+
+DU XVIII SIECLE
+
+## DE FERNEX
+
+(JEAN-BAPTISTE) ？+Paris,1783.
+
+62
+
+## Portrait presume
+
+## de la princesse de Bethune-Sully.
+
+La tete est legerement tournee vers l'épaule gauche, les cheveux boucles, la poitrine en partie recouverte d'une draperie. Petit buste en terre cuite blanche.
+
+Signe: Par J.-Bte Defernex.
+
+Haut. du buste,23 cent.
+
+Haut.totale,3o cent.
+
+Collection Pierre Decourcelle; vente a Paris, les 29-3o mai i911, n 187. Reproduit dans le catalogue de cette vente.
+
+Cite par Stanislas Lami dans son Dictionnaire des Sculpteurs de l'Ecole Francaise du XVIlle siecle,t.Ior,p.255.
+
+Voir la reproduction.
+
+<!-- image -->
+<!-- image -->
+
+## DE FERNEX
+
+(JEAN-BAPTISTE)
+
+63
+
+## Portrait de Monsieur de Sartine, Conseiller d'Etai, Lieutenant de Police.
+
+Il est vu de face, la tete tres legerement tournee vers la droite et porte une longue perruque. Sa robe de magistrat est boutonnee sur la poitrine et serree a la taille par une large ceinture unie. ll porte le double rabat.
+
+Buste en marbre blanc, signe et date sur le cote, a gauche : J.Bt.Defernex,en 1767.
+
+Piedouche moulure, en marbre blanc.
+
+Haut. totale,78 cent.
+
+Ce buste a figure a l'Exposition de l'Academie de Saint-Luc en 1774. Le catalogue le designe ainsi : Par M. de Fernex. Professeur, n° 2ig. Le buste en marbre, de grandeur naturelle, de M. de Sartine, conseiller d'Etat, lieutenant general de la police. Ce portrait appartient a Messieurs du bureau des limonadiers.
+
+Voir: Stanislas Lami, Dictionnaire des Sculpteurs de lEcole francaise du XV111e siecle, t. 1er, Pp. 254-255.
+
+Voir la reproduction.
+## FALCONET
+
+(Atelier d'ETIENNE)
+
+(xvie siecle.)
+
+## Statuette de femme nue.
+
+Une jeune femme nue est accroupie, un genou en terre, s'efforcant de ramener sur sa poitrine un voile dans une attitude pudique.
+
+Petite statuette en marbre blanc,reposant sur un socle ovale de meme matiere, decore de cannelures et de moulures.
+
+Haut.totale,26 cent.
+
+Voir la reproduction.
+
+<!-- image -->
+<!-- image -->
+
+## HOUDON
+
+(JEAN-ANTOINE) Versailles, 1741  Paris, 1828.
+
+65
+
+## Buste de M.de Buffon.
+
+Celebte natuzalisie.
+
+Ce buste, coupe aux épaules, est nu; la tete est legerement relevee, le regard vers la gauche du personnage.
+
+Platre teinte terre cuite, sur piedouche moulure de meme matiere. Il porte deux fois la signature du maitre, sur la coupure de l'épaule droite et sur le devant de la poitrine : Houdon, f. 1782.
+
+Au dos du buste, subsiste encore une partie du cachet de cire de l'atelier Houdon.
+
+Haut. totale,66 cent.
+
+Le buste original en marbre fut sculpte aux frais de l'Imperatrice de Russie;il figurait au Salon de 1783, sous le n° 248. Il se trouvait au musee de l'Ermitage, a Saint-Petersbourg.
+
+Un bronze a passe a la vente de 1795 et un platre a celle de 1828, a la mort de Houdon. C'est peut-étre le platre qui est ici designe.
+
+Le musee du Louvre,a Paris, en possede une repetition en marbre,léguee par M. Gatteaux (n° 7i4).
+
+Une réduction en marbre a éte exposee au Salon de 1789, sous le n° 248. Un exemplaire en platre est place au musee de Dijon.
+
+Stanislas Lami, Dictionnaire des Sculpteurs de l'Ecole francaise du XVI1Ie siecle, t. Ier, p. 426.
+
+<!-- image -->
+## HOUDON
+
+(Atelier de JEAN-ANTOINE)
+
+66
+
+## Statuette de Voltaire, assis.
+
+Le philosophe, drape a l'antique, est assis dans un fauteuil, la tete ceinte d'une bandelette,dans l'attitude celebre de la statue de marbre de la Comedie-Francaise. Toutefois, la main gauche, au lieu d'etre posee sur le bras du fauteuil, est ramenee sur le corps.
+
+Terre cuite.
+
+Haut.,35 cent.
+
+Collection Jacques Doucet; vente a Paris, les 58 juin 1g12
+
+(2partie),n° 116. (Notice par MM. Paul Vitry et Marcel Nicolle.)
+
+Il est a remarquer que la variante de la main gauche se retrouve dans diverses reductions,en marbre,en bronze et en platre, qui furent faites par Houdon lui-meme, pour satisfaire des amis et des admirateurs du philosophe. L'une d'elles, en bronze dore, appartient aux collections de l'Ermitage; une autre, en terre cuite, au musee municipal de Versailles; une autre, enfin, en platre, figure au musee du Louvre, avec le cachet de l'atelier de Houdon.
+
+Il n'est pas probable qu'il faille voir dans cette terre cuite, autre chose qu'une reduction de ce genre, executee apres coup, par Houdon, ou dans son atelier, sous sa direction.
+
+Voir:Mangeant, Sur une Statuette de Voltaire par Houdon,Reunion des societes des Beaux-Arts des departements,t.XX, 1896, Pp.461-470.
+
+Voir la reproduction.
+
+<!-- image -->
+<!-- image -->
+
+## PAJOU
+
+(AUGUSTIN) Paris,1730+1809.
+
+67
+
+## Louis Thiroux de Crosne.
+
+## Portrait de Lieutenant de Police.
+
+Il est vu de face, la tete legerement tournee vers la gauche du spectateur; vetu d'un costume de magistrat boutonne sur le milieu de la poitrine, a manches plissees aux épaules, avec une large ceinture fixee par une ample rosette sur le cote. ll porte le double rabat.
+
+Buste, grandeur nature, en marbre blanc, sur piedouche en marbre blanc veine de gris.
+
+Signe et date : Pajou, F. 1788.
+
+Provient du chateau d'Arconville.
+
+Le modele en platre a figure au Salon de 1787; il est ainsi designe au catalogue: Par M. Pajou, de l'Academie des Inscriptions, de
+
+Haut. totale,76 cent.
+celles de Bologne, Rome et Toulouse. Professeur. No 233. M. de
+
+Crosne, Lieutenant General de Police. Buste en platre.
+
+Le marbre a figure aux expositions suivantes :
+
+Exposition retrospective de 19oo (au Petit-Palais), n° 4717 du catalogue officiel.
+
+Exposition de Bagatelle (sans catalogue).
+
+Exposition de Cent Pastels,Paris, mai-juin 1go8,n° 138 (sous le titre:Un Parlementaire). Il a éte reproduit a cette occasion dans les Arts, octobre 1go8, n° 82, p. 1o, sous le meme titre.
+
+Collection F. Doistau; vente a Paris, les 9-11 juin 1go9, n° 263
+
+(toujours sous le meme titre).
+
+Il est cite dans Stanislas Lami, Dictionnaire des Sculpteurs de lEcole francaise du XVIlle siecle, t. II, p. 2i9, sous la denomination:
+
+Portrait d’un magistrat.
+
+Cite et reproduit dans Henri Stein, Augustin Pajou, pages 151-153.
+
+Voir la reproduction.
+
+## PAJOU
+
+(AUGUSTIN)
+
+68
+
+## Buste de femme.
+
+Elle est representee de face, le visage legerement tourne vers la droite. La poitrine decolletee est enveloppee d'une draperie retenue par un ruban passant sur l'épaule. Coiffure haute, frisee et paree de fleurs, retombant sur la nuque.
+
+Terre cuite; non signee.
+
+Ancienne collection Sigismond Bardac.
+
+<!-- image -->
+
+Haut., 55 cent.
+
+<!-- image -->
+<!-- image -->
+
+## VASSE
+
+(LOUIS-CLAUDE)
+
+Paris, 1716+1772.
+
+69
+
+## Buste de fillette.
+
+De grandeur nature et coupe a la hauteur des epaules; ce buste de fillette se presente nu; la tete tournee vers l'epaule gauche, le visage souriant.
+
+Le chevelure bouclee est en partie enveloppee dans un foulard noue derriere la tete, au-dessus de la nuque.
+
+Haut.totale,48 cent.
+
+Marbre; non signe.
+
+Voir la reproduction.
+
+<!-- image -->
+<!-- image -->
+
+## Objets d'Art et d'Ameublement
+
+## PORCELAINES EUROPEENNES
+
+ETDE LA CHINE
+
+70—Deux oisEAux, en ancienne porcelaine de Hoechst, xvinl siecle.
+
+Ces oiseaux, des perroquets, sont perches chacun sur un branchage et sont decores au naturel.
+
+Haut.,24 cent. et 25 cent. 1/2.
+
+7I - PAiRE DE VAsEs en ancienne porcelaine de Frankenthal.
+
+- xvilr siecle.
+
+De forme Medicis, chacun de ces vases est muni de deux anses s'elevant lateralement au-dessus d'un double mascaron a tetes d'hommes barbus, et repose sur un haut piedouche moulure. La gorge de chacun de ces vases est decoree, en camaieu, d'une composition allegorique a deux figures dans un paysage. La panse est modelée a godrons et le col a oves, tous deux rehausses de dorure. Marque en bleu.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+- 72—BusTE DE FEMME, demi-nature, sur socle adherent, en ancienne terre de Lorraine, attribue a Cyffle, de Luneville. xvinl siecle.
+
+C'est une jeune femme, vue jusqu'a la taille, la tete tres legerement tournee vers l'épaule droite. Elle est vetue d'un mantelet borde de fourrure decouvrant un corsage decollete orne de perles,et enveloppee dans une écharpe qui, tombant de sa chevelure, vient se croiser devant a la taille. Des perles ornent son cou et parent sa coiffure relevee dont quelques boucles retombent sur la nuque et les epaules.
+
+Le socle, qui fait corps avec le buste, est carre, a fut renfe, avec corniche et base moulurees; il est orne, sur ses quatre faces, de trophees d'instruments de musique en relief, et, sur chaque arete d'angle, d'une nervure a volute avec coquille arocailles a la base.
+
+Haut.totale,58 cent.
+
+Voir: Edouard Garnier, Dictionnaire de la Ceramique; Morey, les Statuettes dites de Terre de Lorraine (Nancy, 1871).
+- 73  PAIRE DE POTICHEs ET couvERCLEs, en ancienne porcelaine
+- de Chine. Epoque Kien-lung.
+
+Chacune de ces potiches, a base renflee, dite :cul-de- poule, est entierement decoree, sur fond noir, de petites arabesques reservees en vert et de fleurs de marguerites modelees en leger relief decorees au naturel, et de medaillons varies de differentes formes et grandeurs reserves en blanc sur le fond noir; ces medaillons presentent, peints en émaux de couleur, des buissons de feurs, des coqs, des arbustes et des branchages fleuris animes de petits oiseaux. Deux petites bordures a fond carrele et quatre petites reserves a fleurs se trouvent a la naissance de l'epaulement et a la base de chaque potiche.
+
+Les couvercles offrent un decor analogue avec une petite bordure semblable sur le bord externe.
+
+Haut., 43 cent.
+
+Socles ronds en bois sculpte et dore.
+
+<!-- image -->
+
+- de Chine, époque Kang-hi.
+
+De forme balustre,a six faces, elles sont decorees en compartiments charges de feurs, de paysages, d'animaux et d'ustensiles. Petite bordure a la base du col, a fleurs sur
+
+émaux de couleurs offranit, sur chaque face, trois reseaux de fond vert piquete. A la base, bordure a fond vermicule, avec rosaces et demi-rosaces reservees.
+
+Les couvercles, a gorge, offrent egalement des compartiments a decors varies.
+
+Haut., 35 cent.
+
+Collection L. Surmont; vente a Paris, le 13 mai 1g12, n 92.
+
+<!-- image -->
+
+Voir la reproduction.(K69.)
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+90.11600.-
+
+## PORCELAINES MONTEES EN BRONZE
+
+75 —VAsE ET DEux sTATuETTEs de Chinois, en ancienne porce-
+
+- laine de Chine.
+
+Le vase, d'epoque Ming; les Chinois, d'epoque Kienlung. Montes en bronze cisele et dore, époque Louis xv.
+
+Cette piece montee comprend,au centre, une potiche avec son couvercle, placee entre deux statuettes de Chinois debout et en contre-bas, ayant chacun un pied pose sur un socle. La potiche et les deux figures sont decorees en emaux de couleur.
+
+La monture, de bronze cisele et dore, se compose d'une terrasse a rocailles et feuillages servant de base a l'ensemble, deux anses a volutes ornent les cotes du vase et un large bouquet de branchages, orne de fleurettes en ancienne porcelaine de Saxe, se detache du bouton du couvercle.
+
+Haut.,49 cent
+
+Collection Ernest Cronier; vente a Paris,les 4-5 decembre 1go5, n132. Reproduit dans le catalogue de cette vente.
+
+Voir la reproduction.
+
+- 76—PAIRE DE BRULE-PARFUMs en ancienne porcelaine de Chine
+
+Chacune de ces cassolettes se compose d'un pavillon ou portique a huit ouvertures,enancienne porcelaine de Chine, gravee sous émail blanc.
+
+- et montures en bronze cisele et dore. Epoque Louis XV.
+
+La monture,en bronze cisele et dore, comprend un amortissement ajoure, simulant une toiture entourant la cassolette proprement dite, et le tout repose sur un socle de base, de forme contournee et mouluree, a quatrepieds faits chacun d'un feuillage avec fruit a graines.
+
+Haut., 12 cent.; larg., 15 cent. 1/2.
+
+Les cassolettes centrales sont refaites modernes, en argent dore de la maison Keller.
+
+Voir la reproduction. (9.py.)
+
+<!-- image -->
+- 77 — Deux FLAMBEAux a deux lumieres, en ancienne porcelaine
+- de Chine, époque Kang-hi, et monture de bronze cisele et dore,époque Louis xv.
+
+Chacun de ces flambeaux est forme d'une statuette d'enfant chinois assis sur un couvercle de vase, a decor bleu sur fond blanc, en ancienne porcelaine de Chine.
+
+La monture, de bronze cisele et dore, se compose de deux branchages contournes, se terminant par des douilles portelumieres, et une base encerclant le couvercle, de forme ronde a contours et decoree de rocailles, de feuillages, de feurs et de volutes qui forment les quatre pieds sur lesquels repose l'ensemble.
+
+<!-- image -->
+
+Voir la reproduction. /9 Y6.)
+
+Haut., 1g cent.
+
+- 78— PAiRE DE vAsEs en ancienne porcelaine du Japon (Coree), montes en bronze cisele et dore, époque Louis Xv.
+
+Chacun de ces vases, de forme balustre, a imbrications gravees sous émail, est decore de petits rinceaux en couleur, et encastre dans une monture de bronze cisele et doré, comprenant une collerette ajouree a canaux, deux anses a volutes feuillagees et une base mouvementee a rocailles, volutes et fleurs.
+
+Haut.,1g cent.1/2.
+
+Collection Lucien Surmont; vente a Paris, le 13 mai 1g12, n° g6.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+- 79—— PaiRE DE vAses en ancien celadon feuri de Chine, epoque
+- Yung-tsing, et montures de bronze cisele et dore, époque Louis XVI.
+
+Chacun de ces vases est forme d'une bouteille a panse ovoide et col cylindrique, en ancien celadon de Chine et decore d'arbustes fleuris en couleur sur fond vert d'eau.
+
+Ils sont montes en bronze cisele et dore pour former cassolettes. Chacune de ces montures comprend une collerette ajouree a entrelacs,interrompue par deux anses surelevees a mascarons de tetes d'hommes barbus, d'une encolure mouluree a canaux et bordure a godrons et petites feuilles,d'un culot et d'un piedouche moulure orné de feuillages, de canaux et d'un tore de laurier, reposant sur un socle de base carre, a angles evides et cintres.
+
+Voir la reproduction.
+
+Haut.,28 cent.1/2.
+
+- 8o - Deux AlGuIEREs en verre bleu et montures de bronze cisele
+- et dore,époque Louis XVI.
+
+Chacune de ces aiguieres se compose d'une bouteille de forme balustre en verre bleu, comprise dans une monture de bronze cisele et dore a une anse recourbee s'appuyant, par son extremite inferieure, sur la panse,et rejoignant le col formant bec de l'aiguiere, lequel est decore de canaux et de feuillages. Base faite d'un piedouche moulure a perles et gorge ornee de feuilles d'eau.
+
+Voir la reproduclion./R s8
+
+<!-- image -->
+
+Haut., 32 cent.
+## OBJETS DE VITRINE
+
+MONTRES,BOITES,ETC.
+
+- 81 — PETITE MoNTRE en or guilloche, grave et émaille de Lepine a Paris,presentant,au revers du boitier,un cavalier enlégr relief sur fond d’émail. Epoque Louis XVI.
+
+Diam.,37 millim.
+
+- 82 —MonTRE en or grave et cisele de Vauchez a Paris. Au revers, petit sujet émaille en couleurs. Epoque Louis XVI.
+
+440.—
+
+Diam., 41 millim.
+
+- 83 — MonTRE en or guilloche et grave de Lepine a Paris, renfermant, a linterieur du boitier,un sujet émaille en couleurs. Epoque Louis XVI.
+
+n550.
+
+Diam., 40 millim.
+
+- 84 — MonrRE en or grave, cisele et emaille bleu, de Roman Melly et Roux, a Constance. Cadran cercle de pierres. Revers du boitier: gerbe de fleurs incrustee de pierres, entourage
+
+- d'email bleu seme d'étoiles d'or. Epoque Louis XVI.
+
+Diam.,47 millim.
+
+- 85  Boire rectangulaire a petits pans coupes, en or cisele et emaille a fond bleu et petites bordures. Sur le couvercle, composition a sujet historique. Ancien travail de Geneve de
+
+x060.
+
+- la fin du xvinu siecle.
+
+Long., 79 millim.
+
+- 86  GRANDE MoNTRE en or grave et émaille en couleurs. Au revers, sujet a trois personnages : le portrait du bien-aime. Mouvement signe Ilbery. Fin du xvine siecle.
+
+Diam., 6o millim.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+310.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+6800.
+
+6名0.—
+
+- 87 — MonTrE en or, de Gregson a Paris, ornee, au revers du boitier, d'un sujet émaille en couleurs. Jeune femme assise
+- presentant une cage a un chien. Fin du xvinle siecle.
+
+Diam.,46millim.
+
+- 88— MonTrE en or cisele, de Gregson a Paris, ornee,au revers du boitier, d'un sujet émaille en couleurs : Jeune femme
+- assise dans un jardin. Fin du xvinr siecle.
+
+Diam.,49millim.
+
+- 89 —BoIre rectangulairea coins arrondis, en or guilloche,grave, cisele et émaille, a fond bleu. Sur le couvercle, composition émaillee en couleurs :Suzanne et les Vieillards. Ancien travail de Geneve du commencement du xix siecle.
+
+Long., 9o millim.
+
+- g0 —— BoiTe rectangulaire a petits pans coupes, en or grave et emaille a fond noir et bordures en couleurs. Sur le dessus, sujet émaille: Suzanne et les Vieillards. Ancien travail de
+- Geneve du commencement du xixe siecle.
+
+Long.,go millim.
+
+- —Boire oblongue, a petits pans coupes en or grave et émaille en couleurs. Sur le dessus, composition mythologique; sur les cotes, sujets pastoraux et petits paysages. Ancien
+- 91 travail de Geneve du commencement du xixe siele.
+
+Long., 93 millim.
+
+- 92— Boire ronde en or guilloche et gravé, ornee, sur le couvercle ainsi que sur le dessous, de deux miniatures presentant chacune les portraits de deux enfants, vus tous quatre de profil a gauche. L'une des deux miniatures porte la signature de Bourgeois et la date 18o8. Epoque Empire.
+
+Diam.de la boite,58 millim.
+
+- 93  RaTeau de jeu, en ivoire tourne et monture d'or. Sur la
+- raclette, bas-relief a sujet allegorique. xvine siecle.
+
+Long.,585 millim.
+## OBJETS VARIES
+
+94-95 - Trois cADREs rectangulaires en bois sculpte et dore. Epoque Louis xv.
+
+Deux de ces remarquables cadres sont en hauteur,le troisieme en largeur, et tous trois presentent des cotes contournes et mouvementes, decores de rocailles et de tiges de feuillages fleuris. lls sont surmontes d'un nceud de ruban formant couronnement. Ils renferment des gravures de fetes, par Cochin, d'apres Slodtz.
+
+Mesures interieures: Cadres en hauteur. Haut., 74 cent.; larg., 53 cent. 1/2.
+
+Cadre en largeur. Haut.,46 cent.; larg., 78 cent. 1/2.
+
+Voir la reproduction. (
+
+<!-- image -->
+
+96 —— CaDRE rectangulaire (en largeur), en bois sculpte dore. Epoque Louis XV.
+
+De forme un peu plus simple que les precedents,il presente un corps de moulures se rejoignant aux angles, formes d'un motif a palmette et volutes feuillagees. Au centre, du cote superieur, une armoirie aux trois feurs de lis et nceud de ruban. ll renferme une gravure.
+
+Haut.,47 cent.1/2;larg.,73 cent.
+
+<!-- image -->
+
+Voir la reproduction.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+- 97 -CoFFRET-EcRIToIRE en maroquin rouge. xvIne siecle.
+- Attribue a Derome.
+
+De forme rectangulaire, il offre, sur le dessus, en dorure aux fers, les chiffres G et C, traces en feurons, entrelaces et surmontes d'une couronne de petites roses. Une large bordure d'encadrement formant lambrequin a arabesques,fleurons et rinceaux feuillages, encadre ce monogramme. Sur le bord a biseau, ainsi que sur les faces laterales, se trouvent un petit rinceau et des petites bordures en dorure.
+
+Ce coffret ferme au moyen d'une serrure, et le couvercle se souleve et decouvre l'interieur en maroquin vert muni d'une pochette a souflet et de deux compartiments a couvercles; des emplacements sont menages pour les godets a encre et a poudre.
+
+Long, 34 cent.; larg., 24 cent.
+
+- 98— ReLiuRe petit in-folio, en maroquin rouge, decoree en dorure avec armoiries. xvine siecle.
+
+Elle est ornee, sur chacun des plats, des armoiries d'un cardinal, avec sa devise:Deo Juvante, placees au centre de deux encadrements a trois filets avec fleurons aux angles.
+
+Sur le dos, a compartiments, on lit, sur deux d'entre eux: Pontif. Romani et Pars Prima. Dans les autres, est frappee une tiare en dorure.
+
+Haut.,40 cent.; larg.,25 cent. 1/2.
+
+Cette reliure est disposee en buvard.
+## BRONZES D'AMEUBLEMENT
+
+## PENDULES
+
+CHENETS,CANDELABRES,ETC.
+
+- —EcrIToirE de bureau, en bronze cisele et dore. Epoque
+- 99 Louis XV. Attribuee a Messonnier.
+
+Cette écritoire, tout en bronze cisele et dore, est formee d'un plateau fait d'un large cartouche tres contourne,a rocailles et feuillages, agremente de feurs,de moulures mouvementees et de festons se retournant en volutes pour former les pieds.
+
+Sur ce plateau, sont fixes les deux godets pour l'encre et la poudre, se composant de deux vases a rocailles avec couvercles simulant des coquilles. Interieurs en plomb.
+
+Long., 31 cent.; larg., 18 cent.
+
+Piece remarquable, vraisemblablement inspiree d'un modele dessine par J.-A. Messonnier, lun des peintres-dessinateurs decorateurs les plus celebres de l'école francaise de l'epoque de Louis XV.
+
+<!-- image -->
+
+- 100 —— PeNDuLe de cartonnier, en bronze cisele et dore. Epoque Louis XV.
+
+Le cadran occupe la partie superieure d''un cartel, que couronne une corniche mouluree et decoree d'entrelacs, se terminant par deux volutes. Une poignee de suspension placee au-dessus, sur un gros feuillage, permet de soulever se trouve un trophee d'instruments de musique et des feuillages, suspendu par un noud de ruban, entre deux la pendule. Au-dessous du cadran, devant une partie ajouree, grosses volutes formant les pieds.
+
+Cadran marque:Calixte, marquis de St-Herem,et la date:1771.
+
+Voir la reproduction. (9.8g)
+
+Haut.,35 cent.1/2.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+- Iol —PeNDuLE en bronze patine et bronze dore. Epoque
+- Louis XV.
+
+Elle se compose d'un élephant relevant la tete et la trompe,en bronze patine, portant sur son dos le mouvement qui est compris dans un tambour de bronze cisele et doré, reposant sur un cartel a rocailles et decore, lui-meme, de feuillages a fleurettes et couronne par une statuette de singe, tenant un parasol.
+
+La terrasse sur laquelle est pose l'elephant, en bronze cisele et dore,simule un terrain rocailleux agremente de quelques grosses fleurs.
+
+Haut., 4I cent.
+
+Contre-socle a contours, en bois moulure peint vert et orne d''une bande de rocailles en bronze doré.
+
+<!-- image -->
+
+- 102 — PeNDuLE et son socle, en bronze cisele et dore. Epoque
+- Louis XV.
+
+Cette pendule, tout en bronze cisele et dore, presente une forme contournee. Le cadran se trouve au centre d'un cartel, entre deux branches feuillagees et a rocailles, qui se terminent vers la base par deux volutes contrariees qui forment les pieds. Au-dessous du cadran est suspendu, par un noeud de ruban, un trophee d'instruments de musique, et, couronnant la pendule, au-dessus d'une sorte de fronton coupe, est une statuette d'Amour-Apollon tenant une lyre, assis sur une terrasse d'ou s'eleve un arbuste et retombent des branches fleuries.
+
+Le socle est decore d’une coquille ajouree a rocailles, de motifs feuillages, de moulures contournees a volutes, etc.
+
+Le cadran porte la marque de Lepaute, a Paris.
+
+Voir la reproduction. 10.66
+
+Haut. totale,6a cent.
+103 — PeNDuLE en marbre blanc et sujet en bronze cisele et dore : l'Amour et l'Amitie. Epoque Louis XVI.
+
+De chaque cote du mouvement, encastre dans un de de marbre blanc, sont disposees deux figures symbolisant l'Amour et l'Amitie. A droite, l'Amour debout tient dans ses mains une colombe qu'il offre en present a l'Amitie, representee par une statuette de femme debout, drapee,le bras gauche ploye et appuye aupres d'un rameau de feuillage et d'une draperie.
+
+Une chute de laurier et deux ecoincons feuillages entourent le cadran, et le tout repose sur un socle moulure de marbre blanc, orne d'un cours de feuilles d'eau, des attributs de l'Amour:flambeau et carquois, enfin d'une draperie en bronze dore s'accrochant,aux extremites,a deux pieds a griffes.
+
+Le cadran porte la marque : Meyer a Paris.
+
+Haut., 31 cent.
+
+- Louis XVI.
+
+Chacun de ces chenets presente une galerie droite mou- luree, decoree de perles, petits canaux et d'une large frise a rinceaux de feuillages; cette galerie se relie d'un cote a un socle rond cannele et rudente avec base a canaux, portant un vase a deux anses orne d'un culot, d'une gorge et surmonte d'une flamme; de l'autre cote, la galerie rejoint un autre socle plus bas, en forme de gaine enguirlandee de laurier, portant un gros fruit feuillage a graines.
+
+Haut.,44 cent.; larg., 40 cent.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+- 105 - PAIRE DE cHENETs en bronze cisele et dore. Epoque
+
+Louis XVI.
+
+Ils sont formes chacun d'une galerie enguirlandee de laurier et supportant des trophees d'armes d'un cote et, de l'autre, un vase egalement enguirlande de laurier et reposant sur une base ornee de mascarons et de bacchantes.
+
+Haut.,43 cent.; larg., 35 cent.
+
+Collection Jacques Doucet; vente a Paris, les 5-8 juin 1g12 (3epartie),no 271.
+
+<!-- image -->
+
+Voir la reproduction.JY6
+
+- 106 — PAIRE DE FLAMBEAUx a deux lumieres, en bronze cisele et
+
+dore. Epoque Louis XVI.
+
+Chacun de ces flambeaux se compose d'une colonnette cannelee supportant une corbeille de feurs et repose, par une base mouluree a tore de laurier, sur un socle a large gorge, divise en quatre compartiments decores, en leger
+
+Vers le milieu de la colonnette,une bague retient, enserrees contre elle, deux tiges contournees portant chacune a son extremite une douille porte-lumiere decoree de cannelures.
+
+relief, de tiges de roses.
+
+<!-- image -->
+
+Haut., 2o cent.
+- 1o7 — PAIRE DE CANDELABREs en marbre de couleur, bronze patine
+- et bronze doré.Epoque Louis XVI.
+
+Ils sont formes chacun d'un enfant bacchant nu, debout et dansant, l'un au son d'un tambourin qu'il agite de son bras droit, lautre d'un triangle qu'il frappe de sa main gauche. Ces figures, en bronze patine, sont sur une terrasse d'ou s'éleve, derriere elles,un branchage de laurier a deux rameaux dont les extremites servent de douilles porte- lumieres,en bronze dore.
+
+Les socles, de forme cylindrique, sont en marbre blanc moulure de bronze dore; les contre-socles, l'un rond, l'autre carre, en marbre de couleur.
+
+Haut.,42 cent.
+
+- 108 — FLAMBEAU DE JEU DE BoUILLoTTE, en bronze cisele et dore. Epoque Louis XVI.
+
+Au-dessus d'un fut de colonne cannelee et rudentee, sont disposes en couronne trois rinceaux se terminant chacun par une douille porte-lumiere. La colonne est reliee a la base ou plateau par un corps de moulures et une large gorge ornementee. Le plateau, decore de perles et de feuilles d'eau, est muni d'une galerie mobile ajouree.
+
+Du sommet de la colonne prend naissance une tige verticale sur laquelle peut se mouvoir et se fixer, au moyen d'une vis de pression, un abat-jour en metal peint, avec ornementation en dorure.
+
+Haut. totale,87 cent.
+
+<!-- image -->
+
+7028509
+
+<!-- image -->
+<!-- image -->
+
+600.-
+
+<!-- image -->
+
+<!-- image -->
+
+## SIEGES DIVERS -ECRANS
+
+## PARAVENT
+
+## MOBILIER DE SALON EN TAPISSERIE
+
+- 10g - PaRavENT a quatre feuilles, en tapis de la Savonnerie.
+
+Epoque Regence.
+
+Chacune de ces quatre feuilles, de forme rectangulaire, offre une composition a sujet d'animaux tires des fables de La Fontaine. Ces compositions sont placees chacune dans une couronne de feurs et de feuillage, comprise dans un compartiment surmonte d'une demi-coquille, au-dessus de rinceaux; a la partie inferieure, ce meme motif se repete symetriquement et se detache sur fond clair. Les decors de chacune des feuilles presentent de legeres differences.
+
+Haut., 1 m.35; largeur d'une feuille, 5g cent.
+
+Un paravent similaire et de meme decor figurait dans la collection Jacques Doucet (juin 1gi2).
+
+Voir la reproduction.
+
+- 110  SieGe bas, ou bout de chaise-longue, en bois sculpte ciré. Epoque Regence.
+
+Il est garni et muni d’un coussin en ancien velours.
+
+De forme tres contournee, a siege profond et dossier bas a oreillettes et petits bras accotoirs. Il est ornemente sur toutes ses faces, de feuillage, fleurons, palmettes et coquille.
+
+Larg., 78 cent.
+
+- GRAND cANAPE en bois sculpte. Epoque Louis XV. De forme tres contournee, a coins arrondis et decor de feurettes. ll repose sur huit pieds cambres et ornes de petits feuillages. Garniture d'ancien velours cramoisi.
+
+Long., 2 m. 30.
+
+Collection A. Kann; vente a Paris, 6-8 decembre 192o, n° 279.
+
+Voir la reproduction.
+- 112 - EcRAN en ancienne tapisserie de Beauvais. Epoque
+- Louis XV.
+
+La feuille, de forme contournee, presente, dans un encadrement orne de feuillages, de festons et de rocailles, une composition offrant, dans un paysage, un groupe de trois volatiles. Un cacatoes, perche sur une branche d'arbre, a droite,un grand oiseau du genre échassier, et a gauche,un autre oiseau plus petit au plumage multicolore. Contrefond rose.
+
+Le revers, en damas rouge.
+
+Cette feuille est montee sur un bois d'écran sculpte et dore, de style Louis XV.
+
+Haut. de la feuille, 67 cent. Larg. de la feuille, 5o cent. Haut. totale, 96 cent.
+
+<!-- image -->
+
+- 113 -EcraN en ancienne tapisserie de Beauvais. Epoque
+- Louis XV.
+
+Cette feuille presente, sur fond blanc creme, une gerbe de feurs variees :pivoines, ceillets, etc. au centre d'un encadrement contourne fait de feurons feuillages tout enguirlandes de festons de fleurs, bordant un contrefond rose.
+
+Elle est montee sur bois d'écran dore, de style Louis xV.
+
+Haut. de la feuille,68 cent. Larg. de la feuille, 5g cent. Haut. totale,96 cent.1/2.
+
+<!-- image -->
+
+Voir la reproduction.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+- 114 — GRAND FAUTEuIL, en bois sculpte peint, recouvert en ancienne tapisserie. Epoque Louis XV.
+
+Ce fauteuil, aux siege et dossier contournes, est en bois moulure, sculpte et peint gris, decore au sommet du dossier, au milieu de la ceinture et au-dessus des pieds, de feuillages, de feurs et d'un ruban. Il porte l'estampille de Brizard.
+
+Il est recouvert d''ancienne tapisserie fine du xvine siecle, variees, avec contrefond vert borde de petits festons de
+
+Haut., 97 cent.1/2;larg.,67 cent. 1/2.
+
+presentant, sur fond creme,d'amples gerbes de feurs fleurettes.
+
+Sulpice Brizard, ébeniste-sculpteur.Paris, xvin siecle.Le 13 fevrier 1762, il fut recu maitre. Ii habitait rue de Clery, n 262.
+
+H.Vial, Adr. Marcel et And. Girodie, Les Decorateurs du bois, t. I, P.70,2e col.
+
+- 115 - BeRGERe a oreilles, en bois sculpte et peint. Epoque
+- Louis XV.
+
+De forme contournee,cette grande bergere,en bois moulure, sculpte et peint, est munie de deux oreilles,et decoree, sur le sommet du dossier, au milieu de la ceinture,
+
+Elle est recouverte, ainsi que son coussin, d'ancien lampas a dessins blancs sur fond rouge.
+
+et au-dessus des pieds, de feurons feuillages.
+
+Haut.,g8 cent.1/2;larg,73 cent.
+- 116 — Canape d'alcove, en bois sculpte et dore. Fin de lépoque
+- Louis XV.
+
+De forme droite, comme un lit de repos, avec siege tres profond, sa decoration consiste en moulures ornees d'entrelacs, de rangs de perles et de tore de laurier;les pieds sont contournes en forme de consoles a volutes. Le dossier, droit, presente en son milieu une partie relevee et surmontee d'un vase enguirlande de fleurs. Les montants des quatre pieds d'angles sont couronnes de fruits a graines.
+
+Il est couvert et muni de quatre coussins de velours rose ancien avec bordures de passementerie.
+
+Il porte I'estampille de P. Pluvinet.
+
+Long., 1 m.45; prof.,81 cent.
+
+Philippe-Joseph Pluvinet, menuisier-ebeniste, fut recu maitre le
+
+14 juillet 1754; il habitait rue de Clery.
+
+Collection Jacques Doucet; vente a Paris, les 5-8 juin 1gi2
+
+(3 partie), n° 28g. Reproduit dans le catalogue de cette vente.
+
+<!-- image -->
+
+- 117 — FAuTeuIL de bureau, canne. Epoque Louis XV. De forme contournee, en bois moulure, sculpte et cire; decor de petits feuillages. Coussin de cuir.
+
+Larg.,67 cent.
+
+- 118 — Deux FAuTEuILs en bois sculpte ciré, du temps de Louis xV, couverts en ancienne tapisserie au point. Corbeilles de feurs et torsades, sur fond blanc.
+
+Larg.,6o cent.
+
+- 119 — FauTeuIL en bois moulure, sculpte et cire, du temps de Louis XV, couvert en ancienne tapisserie au point a feurs
+- sur fond jaune.
+
+Larg.,65 cent.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+4800.-
+
+<!-- image -->
+
+- 120 - CaNApe d'angle en bois sculpte peint, couvert en lampas. Epoque Louis XV.
+
+Ce canape d’encoignure, offre la forme d’une chaise longue, dont le dossier aurait ete prolonge lateralement jusqu'a son extremite. ll esten bois moulure, tres contourne, et orne de festons de feuillage, de feurs et fleurettes;il repose sur sept pieds cambres decores, sur le dessus, d'une feurette.
+
+Il porte, plusieurs fois repetee, l'estampille de I. Nadal. Il est recouvert et garni d'un coussin en lampas a fond jaune broche a sujets de personnages dans le gout chinois, sur des branchages, d'époque Louis XV.
+
+Long., 1 m.70; larg.,66 cent.
+
+Il existait deux sculpteurs ebenistes du nom de Nadal, l'un, Henri, recu maitre le 22 septembre 1756,habitait ruede Cléry;l'autre, Michel, recu le 6 fevrier 1765,habitait la meme rue.
+
+encore un troisieme artiste du meme nom, non identife jusqu'a ce jour.
+
+L'initiale I qui precede le nom de Nadal pourrait aussi bien etre l'une ou l'autre des lettres H ou M,mal venue a la frappe,ou bien
+
+Voir la reproduction.
+
+- 121 —Deux FAuTeuILs de forme contournee, en bois mouluré, sculpte et peint gris.
+
+Louis Xv, a medaillon, feurs et torsades de ruban.
+
+Ils sont garnis de tapisserie au point, du temps de
+
+Larg., 65 cent.
+
+- 122— EcraN en bois sculpte et peint, avec sa feuille en ancienne tapisserie fine du xvine siecle. Epoque Louis XVI.
+
+La feuille, en ancienne tapisserie fine, presente la
+
+De forme rectangulaire avec cote superieur mouvemente, il est decore d'une moulure ornee d'un ruban avec couronnement fait d'un noeud de ruban sur fond feuillage.
+
+composition bien connue de Baudoin, qui a éte reproduite en gravure sous le titre :Les Amants surpris.
+
+Voir la reproduction.
+
+<!-- image -->
+
+Haut.de la feuille,79 cent. Larg.de la feuille,58 cent.
+
+Haut. totale, 1 m.03.
+- 123  Ecran ovale en bois dore, muni d’une feuille de tapis-
+- serie d'Aubusson d'époque Louis XVI.
+
+Cette feuille presente, sur fond blanc, un medaillon a fleurs dans un encadrement a guirlandes, chutes de fleurs et nceud de ruban.
+
+Haut.,76 cent.;larg.,58 cent.
+
+- 124 — AMEUBLEMENT DE sALoN, en bois sculpte et dore, recouvert en ancienne t tapisserie fine du xvine siecle. Epoque Louis XVI.
+
+Cet important ameublement se compose d'un canape, deux bergeres et huit fauteuils,en bois sculpte et dore. Tous sont a dossiers et sieges rectangulaires, et decores d'entrelacs, de canaux et rosaces et cannelures.
+
+Plusieurs d'entre eux portent l'estampille de H. Jacob.
+
+Il est recouvert d'ancienne tapisserie fine presentant, sur fond blanc, sur chacun des sieges et dossiers, un medaillon ovale, suspendu par un noeud de ruban, a sujets d'animaux divers dans un paysage; des guirlandes de fleurs forment encadrement. Contrefond vert, dispose en plates-bandes et decore de palmettes de laurier sur les dossiers, et de festons de fleurs sur les sieges. Les manchettes sont ornees de petits bouquets de fleurs.
+
+Long. du canape, I m.74. Larg. d'une bergere, 61 cent.
+
+Larg. d’un fauteuil, 58 cent. 1/2.
+
+Henri Jacob, menuisier-ebeniste. Paris, xvin siecle. Le 2g septembre 1779, il fut recu maitre. Il habita rue de Bourbon-Villeneuve jusqu'en 1788.
+
+Voir la reproduction.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+## MEUBLES EN BOIS SCULPTE
+
+- 125 — GRANDE coNsoLE en bois sculpte et cire. Epoque Regence.
+
+De forme rectangulaire, elle presente une ceinture decoupee a contours mouvementes et decores, au centre de chacune de ses faces, d'un cartel a coquille, palmettes et fleurons feuillages a volutes.
+
+Elle repose sur quatre pieds cambres qui sont aussi ornes, en haut, d'une coquille, et en bas, de pieds de biche surmontes d'une grosse feuille.
+
+Haut. 85 cent.; long., 1 m. 86; prof., 76 cent. 1/2.
+
+Voir la reproduction.d.60 .)
+
+- 126  PETITe TABLE en bois sculpte redore. Epoque de la Regence.
+
+Elle repose sur quatre pieds formes de griffons ailes dont
+
+De forme rectangulaire, le dessus est borde de godrons avec agrafes feuillagees aux angles. La ceinture, decoree de quadrilles interrompus dans les milieux par des coquilles et arabesques ajourees; feuillages aux angles.
+
+les corps se terminent en queue de serpent, s'enroulant sur une volute.
+
+Tablette de marbre breche d'Alep, encastree sur le dessus.
+
+Haut., 67 cent.; long., 58 cent.; prof.,43 cent.
+
+Collection Lucien Surmont, vente a Paris, le 13 mai 1gi2,n° 1o3.
+- 127 — CoNsoLE-APPLIQuE en bois sculpte et dore. Epoque Louis XV.
+
+Elle est de forme contournee avec la face mouvementee en saillie, et les cotes cintres en creux, et porte sur deux pieds en forme de bras, termines en volutes, et reunis a la base par une coquille a rocailles ajourees. L'ornementation se compose de feuillages a graines, de fleurons et de volutes.
+
+Dessus de marbre breche violette moulure.
+
+Haut.,8o cent.;larg.,92 cent.
+
+- 128 — CoNsoLE-DEssERTE en bois sculpte peint, avec tablettes cannees. Epoque Louis xvI.
+
+De forme droite avec extremites cintrees, elle repose sur quatre pieds gaines a chapiteaux feuillages et cannelures. Elle est munie d'un tiroir dans la ceinture et de deux tablettes cannees reunissant les pieds. Decor de feuillage, rosaces, perles et rais de coeur. Dessus de marbre portor.
+
+<!-- image -->
+
+Long , I m. 43.
+
+Voir la reproduction.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+- 129 - GraNDE coNsoLE d'entre-deux en bois sculpte et dore. Epoque Louis XVI.
+
+En forme de demi-lune, elle repose sur quatre pieds ronds en gaines, reunis a la base par une entre-jambes a trois parties cintrees et decoree, en son milieu, d'un vase.
+
+Cette console, tres abondamment ornee,est decoree,dans la ceinture, d'une frise de feuilles d'acanthe separees par des culots, et d'une rangee de perles. Les pieds sont entierement recouverts de lierre dispose en torsades; les chapiteaux, d'ordre ionique, sont a volutes feuillagees, avec oves et guirlande de feurs. La traverse d'entre-jambes est ornee sur toutes ses faces de postes et de rinceaux. Le vase central est decore lui-meme de deux anses a volutes, de guirlandes et chutes de pampres de vigne, de canaux, etc.
+
+Le dessus est forme d'une epaisse tablette de marbre breche moulure.
+
+Au-dessous de la ceinture, on peut lire plusieurs marques de garde-meubles frappees ou marquees au feu.
+
+Haut., 91 cent. 1/2; long., 1 m.75; larg. ou prof., 57 cent.1/2.
+
+Voir la reproduction.g62)
+
+<!-- image -->
+## MEUBLES D'EBENISTERIE
+
+13o — PAIRE DE MEuBLEs d’encoignure, en marqueterie de bois.
+
+Epoque Louis XV.
+
+Chacun de ces meubles, de forme contournee de face, ouvre a une porte, entre deux montants. Cette porte, ainsi que les montants, sont en marqueterie de bois de couleur et presentent une gerbe de feurs, sur fond de bois de rose, dans un encadrement de filets formant grecque sur les coins de la porte. Ces meubles reposent sur deux petits pieds cambres.
+
+Des chutes, un cul-de-lampe et deux sabots de pied, en bronze cisele et dore, completent la decoration.
+
+Ils sont revetus d'une tablette mouluree de marbre de couleur.
+
+L'un de ces meubles porte l'estampille du maitre ebeniste,
+
+D.Moreau.
+
+Haut., 87 cent. 1/2; larg., 71 cent.
+
+- 131 —— PAIRE DE MEuBLEs d'encoignure, en marqueterie de bois de couleur, ornes de bronzes. Epoque Louis Xv.
+
+Chacun de ces meubles, de forme cintree de face, ouvre a deux portes decorees de torsades de feurs et feuillages en marqueterie de bois debout, sur fond de bois de rose, contourne et borde d'un filet jaune sur contrefond de bois de violette.
+
+Ils sont tous deux ornes de quelques bronzes ciseles et dores : chutes a tetes de satyres et feuillage, entrees de serrures, cul-de-lampe et patins de pieds.
+
+Dessus de marbre breche mouluré.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+- 132 — BurEau plat, en marqueterie de bois, orne de bronzes. Epoque Louis XV.
+
+De forme rectangulaire, il repose sur quatre pieds cambres, en marqueterie de bois de couleur. Il contient, dans la ceinture, de forme mouvementee, trois tiroirs,un grand entre deux petits. ll est orne de bronzes ciseles et dores, a decor de rocailles, tels que : six poignees de tirage, dont trois forment entrees de serrures, quatre chutes sur les angles avec baguettes enguirlandees les reunissant aux quatre patins de pieds; enfin, une moulure, dite quart-de-rond,avec agrafes aux angles, encadre le dessus du bureau gaine de maroquin.
+
+Il porte, mal frappee, l'estampille presque illisible mais
+
+Long., 1 m. 3o; larg., 68 cent.
+
+qu'on devine cependant etre celle de D. Genty, avec le poincon de maitrise.
+
+Succession Mannheim, vente a Paris, le 14 mars 1g13, n 11o.
+
+H.Vial, Adr. Marcel et Andre Girodie,Les Artistes decorateurs du bois, t. I, p. 212, 1° col.
+
+Daniel Genty, menuisier-ebeniste.Paris,xvin siecle.Il habitait ru de l'Echelle, paroisse Saint-Roch.
+
+Emile Molinier, Histoire des Arts appliques a lIndustrie, t. III, p.254, 2° col.
+
+Voir la reproduction.
+
+<!-- image -->
+
+- 133 —— PeTIr sEcRETAiRE en laque, orne de bronzes dores. Epoque Louis XV.
+
+De forme contournee, il ouvre a abattant place au-dessus de trois tiroirs. Un autre tiroir, en retrait, ouvre dans la gorge d'amortissement. Decor de paysages chinois avec personnages a la chasse, en dorure sur fond noir.
+
+Dessus de marbre breche d'Alep:
+
+Garniture de bronzes ciseles et dores : chutes, entrees de serrures, patins et cul-de-lampe.
+
+<!-- image -->
+
+<!-- image -->
+
+Voir la reproduction. (R94.)
+
+Haut.,1 m.32;larg., 67 cent.
+- 134 — PeTITE TABLE Ou BUREAu DE DAME en bois de placage, ornée
+- de bronzes ciseles et dores. Epoque fin Louis Xv.
+
+De forme rectangulaire a petits pans coupes,elle porte sur quatre pieds cambres se retournant en volutes a la partie superieure. Elle est plaquee de bois de rose et d'amarante. garni d'une écritoire et d'une petite tablette a tirette de
+
+Cette petite table presente une abondante garniture de bronzes finement ciseles et dores. Sur le pourtour de la ceinture court une frise d'entrelacs a rubans, avec rosaces et petits culots; sur les pans coupes sont des petites chutes de laurier, et les pieds sont ornes de rosaces sur les volutes, et de petits sabots formant patins ; enfin, le dessus garni, au centre, de peluche, est ceinture d'une galerie ajouree et
+
+Dans la ceinture, se trouve un tiroir ouvrant sur le coté, face, garnie de cuir.
+
+ciselee a petits entrelacs.
+
+Remarquable petit meuble ne portant aucune estampille et cependant devant sortir de l'atelier de l'un des meilleurs maitres ebenistes parisiens du xvin siecle.
+
+Haut., 70 cent.; long., 56 cent. 1/2; larg., 38 cent. 1/2.
+
+Voir la reproduction.
+
+- 135 —TaBLE de chevet en marqueterie de bois. Epoque
+- Louis XV.
+
+Elle est a quatre faces, de forme contournee, et repose sur quatre pieds cambres. La partie superieure ouvre a coulisse, et la partie basse a deux portes.
+
+Elle est ornee de quelques bronzes ciseles et dores : deux poignees laterales, entrees de serrures et sabots recouvrant les bas de pieds.
+
+Le dessus est forme d'une tablette de marbre breche d'Alep, encastree.
+
+Haut., 8o cent.; larg., 49 cent.
+
+Collection de M. X...; vente a Paris, le 26 mai 1g13, n° 56. Reproduite dans le catalogue de cette vente.
+
+Voir la reproductin.(Q、n)
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+- 136 — AuTRE TABLE de chevet en marqueterie de bois. Epoque Louis XV.
+
+Elle est analogue a la table precedente, en marqueterie de bois de couleur, a quatre faces egalement, mais les pieds cambres sont, dans celle-ci, un peu plus éleves. En outre de la disposition de la porte a coulisse et des deux portes basses,elle contient un tiroir place au-dessous de la tablette de marbre encastree qui forme le dessus.
+
+Elle est aussi ornee de quelques bronzes ciseles et dores: poignees laterales, entrees de serrures et sabots de pieds.
+
+Haut., 79 cent.; larg., 5o cent.
+
+Collection de M. X...; vente a Paris, le 26 mai 1g13, n 57.
+
+Reproduite dans le catalogue de cette vente.
+
+Voir la reproduction.
+
+- 137 — PeTITE TABLE de dame, en marqueterie de bois de couleur.
+
+Elle est ovale et porte sur quatre pieds eleves et cambres, entierement marquetee de bois de couleur sur fond de bois de rose. La ceinture, qui renferme un tiroir a écritoire, est decoree de quatre panneaux a carrelages avec fleurettes au centre de chaque compartiment, encadres d'une bordure a petits damiers.
+
+Epoque Louis XV.
+
+Dessus de marbre blanc encastre et ceinture d'une galerie ajouree en cuivre.
+
+Elle est revetue d'une estampille de maitre-ebeniste brouillee et illisible.
+
+Haut., 70 cent.; long, 49 cent.; larg., 37 cent.
+- 138  TABLE-BuREAu en marqueterie de bois. Epoque Louis XV.
+- De forme rectangulaire, allongee, elle repose sur quatre
+- pieds cambres. Elle est en marqueterie de bois satine et amarante. Le dessus, a bords moulures et presentant un decor de cartouche, s'ouvre a charniere et decouvre deux compartiments inegaux ouvrant egalement a charniere. L'interieur de ces compartiments est marquete ainsi que le revers du dessus, lequel presente un cartouche simulant la ferronnerie.
+
+Ce meuble est orne d'une entree de serrure et de quatre patins de pieds en bronze cisele et dore.
+
+Il porte I'estampille, en grandes lettres, de Carel, avec la marque de maitrise.
+
+Long, 97 cent.; larg., 48 cent. 1/2.
+
+Vente apres le deces de Mademoiselle Lantelme,a Paris, les
+
+18-2o novembre 1g12,n°242.
+
+Carel, ebeniste du xvi siecle, de l'epoque Louis Xv. Emile Molinier, Histoire des Arts appliques a lIndustrie, t. Ill, p. 251.
+
+H.Vial, Ad. Marcel et And. Girodie,Les Artistes decorateurs du bois, t. I, p. 84, 2° col.
+
+<!-- image -->
+
+<!-- image -->
+
+##11500
+<!-- image -->
+
+- 13g TREs PETITE TABLE Ou BUREAU DE DAME en marqueterie de bois de couleur. Fin de l'époque Louis XV.
+
+Elle est rectangulaire a coins arrondis et porte sur quatre pieds cambres, reunis vers la base par une tablette. Elle est marquetee sur toutes ses faces en bois de couleur presentant sur le dessus, ceinture de cuivre,un trophee des attributs de l'Amour,entremeles de feuillages, dans un encadrement a flets et coins a grecques; sur la tablette d'entre-jambes, marqueterie analogue offrant trois tiges feuries.
+
+La ceinture est decoree d'un carrelage regulier a rosaces et contient un tiroir pour l'écritoire, ouvrant sur le cote; et, sur la face, une petite tablette a tirette, ouvrant a ressort secret et munie d'un petit pupitre gaine de cuir chagrine.
+
+Elle porte I'estampille de A. P. Jacot.
+
+Haut., 65 cent.1/2;1ong., 36 cent 1/2;larg., 26 cent. 1/2.
+
+Antoine-Pierre Jacot, menuisier ebeniste.Paris, xvi siecle. Le 23 juillet, il fut recu maitre. Il habita au Marche d'Aguesseau, puis
+
+H.Vial, Ad. Marcel et And. Girodie, Les Artistes.decorateurs du rue de la Madeleine (1785 a1788 environ).
+
+bois, tome Ier, p. 26o, 1re col.
+
+Voir la reproduction. (a, 6b.)
+- 140  SecRETAiRE en marqueterie de bois de couleur. Epoque Louis Xv.
+
+Ce meuble, de forme tres contournee sur toutes ses faces,ouvre,en haut, au moyen de deux portes coulissantes avec tiroirs et casiers a l'interieur; et, en bas, par deux portes a charnieres, masquant un tiroir-caisse. Entre ces deux parties se trouve une tablette a tirette garnie de cuir servant a écrire. Le decor de marqueterie se compose, sur la face principale, de deux panneaux renfermant des gerbes de fleurs en bois de couleur encadres par des motifs simulant la ferronnerie; les cotes presentent aussi, chacun, deux panneaux a fleurs. Les interieurs du meuble sont egalement marquetes, les petits tiroirs du haut avec carrelages, le tiroir du bas avec fleurs. Les angles arrondis de face presentent des motifs en marqueterie de bois clair simulant des ornements en bronze.
+
+Quelques bronzes completent la decoration : entrees de serrures, boutons de tirage et patins de pieds.
+
+Dessus de marbre breche d'Alep, contourne et moulure. Estampille de Delorme.
+
+Haut., I m.15; larg,74 cent.; prof.,40 cent.
+
+Sur l'ebeniste Delorme, voir la notice qui accompagne la commode du meme ébeniste,decrite plus loin.
+
+Voir la reproduction.
+
+<!-- image -->
+<!-- image -->
+
+- I4I—PeTITE TABLE ovale en marqueterie de bois de couleur. Fin de l'époque Louis Xv.
+
+De forme ovale, elle repose sur quatre pieds cambrés reunis, vers le tiers inferieur, par une tablette en forme de rognon. Elle est marquetee sur le dessus, sur la tablette d'entre-jambes, ainsi que sur le pourtour de la ceinture, de carrelages reguliers avec rosace au centre de chaque com- partiment, en bois clair sur fond de bois de rose.
+
+Dans la ceinture, s'ouvre lateralement un tiroir,et sur la face, une petite tablette a tirette.
+
+le dessus, chutes et sabots sur les pieds, baguette encadrant la tablette d'entre-jambes.
+
+Elle est ornee de bronzes ciseles: galerie ajouree cerclant
+
+Haut.,76 cent.1/2; 1ong.,57 cent. 1/2; larg.,37 cent.1/2.
+- 142 — PETITE TABLE-GUERIDoN en marqueterie de bois, Ornee de
+- bronzes. Fin de l'époque Louis Xv.
+
+De forme ronde, elle repose sur trois pieds eleves et cambres, reunis vers le milieu de leur hauteur par une tablette ronde. Elle est plaquee de bois de rose avec frise bordee de filets de bois jaune;le dessus de la table et la tablette d'entre-jambes, ceintures tous deux d'une galerie ajourée en cuivre, presentent, tous deux, en leur centre, un feuron de feuillage marquete en bois debout.
+
+La decoration de bronzes comprend trois cadres moulures separes par des rosaces, garnissant la ceinture; l'un de ces cadres, avec un anneau de tirage, au centre,indique un tiroir; trois sabots ornent les patins de pieds.
+
+Elle porte l'estampille formee des quatre initiales R. V. L. C. qui est la marque supposee du maitre-ébeniste Roger Vandercruse, dit Lacroix ou Delacroix.
+
+Haut.,75 cent.1/2; diam.,37 cent.1/2.
+
+Roger Vandercruse, dit Lacroix ou Delacroix,menuisier-beniste,a
+
+Paris, xvl siecle.
+
+Ne a Paris en 1728, mort a Paris, le 3o floreal an Vll, age de puis n°52.
+
+H.Vial, Adr. Marcel et And. Girodie, Les Artistes decorateurs du bois, t. Ier, p.140, 1r et 2e col.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+143 — PETITE TABLE-BUREAu de dame, avec casiers a tiroirs, en bois de rose, ornee de bronzes. Fin de l'époque Louis XV.
+
+De forme oblongue, chacune des faces est tres légerement concave; les angles sont a pans coupes en prolongement des pieds meplats qui descendent verticalement jusqu'a une tablette qui les reunit et d'ou ils repartent en se cambrant.
+
+Ce meuble contient un tiroir avec écritoire, ouvrant de face; il est surmonte d'un casier en retrait au-dessus d'un amortissement en biseau qui renferme deux rangees de deux tiroirs. ll est entierement plaque de bois rose, bois d'ama- rante avec filets.
+
+Il est muni de deux tablettes de marbre blanc ceinturees de galeries ajourees en cuivre.
+
+Decor de bronzes dores: moulures, baguettes a torsades, chutes de laurier, etc.
+
+Il porte la marque de maitrise JME sans nom d’'ebeniste.
+
+Haut., 8g cent.1/2;long.,57 cent.;larg.,36 cent.
+
+Voir la reproduction.
+144 - CommoDe en marqueterie de bois, ornee de bronzes dores.
+
+Epoque Louis XVI.
+
+De forme droite, a pans coupes, le centre en legere saillie, elle repose sur quatre pieds gaines et ouvre a trois tiroirs; elle est ornee de marqueterie de bois de couleur, offrant, sur ses trois faces, des carrelages et rosaces.
+
+Garniture de bronzes ciseles et dores; frise d'entrelacs, moulures d'encadrement, anneaux, chutes,etc.
+
+Elle est couverte d'une tablette de marbre blanc et porte l'estampille de Delorme.
+
+Long., I m. 07.
+
+Collection M. Rykoff; vente a Paris, les 4-9 decembre 1go7, n° 3o1.
+
+Reproduite au catalogue de cette vente.
+
+Adrien Delorme-Faizelot, dit Delorme, menuisier-ebeniste. Paris, xville siecle.
+
+Cf.H. Vial,A. Marcel et A. Girodie : les Artistes decorateurs du bois, t. Ier, p. 145, ou ce meuble estcite.
+
+Voir la reproduction. (1.b8)
+
+<!-- image -->
+
+<!-- image -->
+145 5— TABLE-BuREAu de dame, en bois laque. Epoque Louis XVI. De forme ovale et reposant sur quatre pieds ronds en gaines a cannelures rudentees, elle est en bois laque vert avec rehauts de dorure. La ceinture est decoree de quatre petits panneaux en imitation de laque, presentant des paysages dans le gout chinois. Elle contient un tiroir de face et deux petits tiroirs ouvrant lateralement a charnieres, au moyen d'un ressort secret a pression.
+
+Cette table est ornee de quelques bronzes ciseles et dores: moulures d'encadrement des panneaux, a perles et petites feuilles, et anneaux de tirage a rosaceet couronne de laurier.
+
+et ceinturee d'une galerie ajouree en cuivre.
+
+Le dessus est fait d'une tablette de marbre blanc, encastree
+
+<!-- image -->
+
+Elle porte une estampille de maitre-ebeniste, pour ainsi dire illisible, qui pourrait etre celle de Dubois, specialiste en meubles de ce genre.
+
+Haut.; 74 cent.; long., 63 cent. 1/2; larg,47 cent.
+
+Jacques Dubois, menuisier-ebeniste. Paris. xvine siecle. Dubois etait un des principaux ebenistes du regne de Louis XV; il travailla souvent d'apres les dessins de Pinau, collabora probablement avec Falconet, et a execute un grand nombre de meubles dans le gout de la Chine.
+
+H.Vial,Adr. Marcel et And. Girodie, Les Artistes decorateurs du bois, tome Ier, p. 163, 2° col. et p. 164, 1re col.
+
+Voir la reproduction. lp.iau.
+
+<!-- image -->
+- 146 - PETIrE TABLE a ouvrage de dame, en marqueterie de bois de couleur. Epoque Louis XVI.
+
+De forme rectangulaire, elle porte sur quatre pieds carres eleves en gaines, reunis vers le bas par une tablette d'entrejambes. Elle ouvre a trois tiroirs, dont un était dispose en écritoire. Elle est marquetee sur toutes ses faces, ainsi que sur les pieds, en bois de couleur. Sur le dessus, de feurs liées par un noeud de ruban; sur la face principale, d'un vase de fleurs; sur les cotés, et sur la tablette d'entrejambes, de gerbes fleuries. Ces marqueteries sont encadrees de filets de bois a grecques sur fond de bois d'amarante.
+
+Le dessus est ceinture de cuivre et les pieds sont chausses de patins de meme.
+
+Haut., 73 cent.; long.,46 cent.; larg., 31 cent. 1/2.
+
+Voir la reproduction. /7.60.)
+
+- 147 — TaBLE ovale, en acajou, ornee de bronzes, attribuee a Montigny. Epoque Louis XVI.
+
+De forme ovale, a dessus moulure, elle repose sur pieds ronds a cannelures, reunis vers le milieu par une tablette.
+
+La ceinture contient un tiroir ouvrant de face, avec tablette a écrire.
+
+Le decor de bronze comprend des encadrements, rosaces et appliques a millerais, bagues et patins.
+
+Haut., 77 cent.;long, 73 cent. 1/2;larg.,5o cent. 1/2.
+
+Voir la reproduction.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+200.-
+
+- 148 ——TABLE-coiFFEusE en bois de placage.Epoque Louis XV. De forme contournee,a pieds cambres,en bois derose et filets de bois jaune.Elle est ornee de quelques bronzes.
+
+Long.,8o cent.
+
+- 149- GRANDE coMMoDE a trois rangees de tiroirs, en marqueterie de bois de couleur, presentant des vases sous une draperie et des corbeilles de fleurs;pieds cambres. Dessus de marbre.Epoque fin Louis XV.
+
+Larg., I m. 58.
+
+## VITRINE
+
+- 150 -VirrINE murale,a une porte,en fer et glace.De la maison Mantelet.
+
+Haut.,1 m.70;larg.,63 cent.
+## TAPISSERIES
+
+- 151 — TapissERie de Bruxelles, d'apres David Teniers le Jeune. Epoque de la Regence.
+
+Juche sur un tonneau, un joueur de cornemuse fait danser de nombreux couples de paysans; d'autres spectateurs sont assis sur des bancs et attendent leur tour de danse. Quelques buveurs, que les trop copieuses libations ont indisposes, s'isolent; d'autres ont quitte le cabaret et, sur la route, sont soutenus par leurs compagnes. Dans le fond de la composition,un chateau reflete ses pavillons dans le miroir tranquille d'une piece d'eau.
+
+La scene se passe dans la cour d'une auberge, en bordure d'un chemin pres d'un bois.
+
+Bordure d'encadrement simulant un cadre en bois dore, a enroulement de feuillage et coins faits de cartouches ornes d'une palmette.
+
+Haut.,2m.85;1ong.,6m.10.
+
+<!-- image -->
+
+<!-- image -->
+
+59500一
+<!-- image -->
+
+152 --TapissERIE de la Manufacture royale de Beauvais.
+
+Epoque Louis XV.
+
+## L'AUTOMNE OU LA CHASSE
+
+D'apres Fr.BoucHER.
+
+Haut.,2 m.9o;larg.,2 m.95.
+
+Cette tapisserie fait partie de la celebre tenture des Fetes italiennes, dont Boucher fournit les premiers modeles a la manufacture de Beauvais, en 1736, alors queJ.-B. Oudry en etait le directeur. Le succes de cette tenture qui comprend quatorze pieces fut considerable; on la tissait encore en 1742.
+
+Collection H. Say; vente a Paris, le 3o novembre 1go8,n° 28. Reproduite au catalogue de cette vente.
+
+La meme tapisserie, de champ plus restreint, a figure dans la collection J. Doucet (vente a Paris, 4-7 juin 1912,3 partie, n 345 du catalogue),
+
+Elle est reproduite, inexactement attribuee a J.-B. Le Prince, dans :
+
+J. Badin, La Manufacture de tapisseries de Beauvais(Paris, 19o9), p. 24.
+
+Voir la reproduction.
+- 153 - Dessus de porte, en tapisserie d'Aubusson. Epoque
+- Louis XV.
+
+Il presente une composition maritime dans le gouit de Joseph Vernet. Sur les quais d'un port de mer, des Orientaux embarquent des caisses et tonneaux sur un bateau a voiles, sous la surveillance d'un personnage debout, coiffe d'un turban.
+
+Haut , 91 cent.; larg., 1 m.46.
+
+Cadre dore de style Louis XV.
+
+Voir la reproduction.
+
+<!-- image -->
+
+## TAPIS D'ORIENT
+
+- 154 — GRaND TAPis d'Orient, compose de cinq tapis de priere,
+
+tisses ensemble.
+
+Long., 7 metres; larg., I m. 8o.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->

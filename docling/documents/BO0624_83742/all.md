@@ -1,0 +1,752 @@
+## CONDITIONS DE LA VENTE
+
+Elle sera faite au comptant.
+
+Les acquereurs paieront dix pour cent en sus des prix d'adjudication.
+
+L'exposition mettant le public a meme de se rendre compte de letat des objets, il ne sera admis aucune reclamation une fois l'adjudication prononcee.
+<!-- image -->
+
+## TABLEAUX
+
+AVED
+
+(JULES)
+
+## -Portrait.
+
+Une jeune femme, vetue d'un mantelet et d'une jupe d'etoffe bleue, rubans de meme couleur au cou et au corsage, est vue de trois quarts a gauche,assise sur une chaise,le bras droit appuye au dossier,tenant en mains un livre.
+
+Cadre en bois sculpte et dore de l'epoque Regence.
+
+Toile.Haut.,74 cent.;larg.,60 cent.
+## ROSA BONHEUR
+
+## MatamoreetFlambart.
+
+Deux chiens de chasse, de profil a droite.
+
+L'un est couche sur le ventre, les pattes de devant allongees; l'autre est debout, les pattes de derriere tendues, la tete tournee presque de face.
+
+Toile. Haut., 33 cent,; larg.,41 cent.
+
+Vente Rosa Bonheur.
+5-—Beuf.
+
+De trois quarts a gauche et de dos.
+
+Toile. Haut.,24 cent.,larg,18 cent.
+
+Vente Rosa Bonheur.
+
+## ROSA BONHEUR
+
+3——Moutons a tete noire.
+
+Deux figures.
+
+Toile.Haut.,27 cent.;larg., 35 cent.
+
+Vente Rosa Bonheur.
+
+## ROSA BONHEUR
+
+4 ——Troupeau de moutons belant.
+
+Toile.Haut.,46 cent.；larg.,64 cent.
+
+Vente Rosa Bonheur.
+
+## ROSA BONHEUR
+## ROSA BONHEUR
+
+## 6— Etude de chevnl blanc truite.
+
+De trois quarts a gauche et de dos, la tete tournee de trois quarts et
+
+Il est attacha un anneau par le licoldans lcurie,dont la porte, deface.
+
+droite, est ouverte.
+
+Signe a gauche, en bas : Rosa Bonheur.
+
+Toile.Haut., 54 cent.; larg., 65 cent.
+
+Vente Rosa Bonheur.
+
+## ROSA BONHEUR
+
+7—Etude de moutons.
+
+Deux figures, lune de trois quarts a droite et de face, presque de profl; l'autre, vue de dos.
+
+Toile.Haut., 30 cent.;larg.,47 cent.
+
+Vente Rosa Bonheur.
+## Crepuscule.
+
+L'entree d'un bois. Un massif d'arbres occupe les premiers plans et la partie gauche du tableau.A droite, de l'autre cote d'un sentier indique dans les mousses, des bruyeres; puis, plus loin, le bois. C'est l'automne;les branches sont chargees de frondaisons rouillees. Tout au fond,le soleil en se couchant met au ciel d'ardentes lueurs, qui sirisent et se degradent en tons tendres,jusqu'a l'endroit ou le nuage se dechire sur un ciel d'azur.
+
+Signe a droite, en bas.
+
+Toile.Haut.,75 cent.;larg.,60 cent.
+
+Vente Alexandre Dumas.
+
+## DUPRE
+
+(JULES)
+## ECOLE ANGLAISE
+
+(xVIIIeSIECLE)
+
+DEUX PENDANTS
+
+## 9—Le Depart pour la promenade.
+
+Un gentilhomme en habit bleu,gilet jaune,culotte nankin et bottes a revers, est debout dans un interieur, son chapeau a la main. Une blondefillette enrobe blanche,serree a la taille par une ceinturerose,le tient par le bras,lesyeux tendrement leves sur lui,semblant retarder son depart.La jeune mere, coiffee d'un grand chapeau noir,portant un fichu jaune sur sa robe blanche,une main sur la hanche,est debout a ses cotes.A gauche une porte ouverte laisse entrevoir un carrosse, dont un laquais vetu de rouge ouvre la portiere.
+
+Cadre en bois sculpte.
+
+Toile de forme ovale. Haut., 25 cent.;larg.,31 cent.
+
+Vente Lelong, 1903.
+
+## ECOLE ANGLAISE
+
+10—La Declaration.
+
+Une jeune femme,vetue dune robe de soie jaune,coiffee d'un grand chapeau orne d'une plume blanche, est assise dans un interieur, sur un divan couvert d'une etoffe de soie rouge. Devant elle,un jeune homme, ayant mis un genou a terre, s'incline en lui prenant la main. Un levrier accompagne son maitre. Dans le fond, une large fenetre a rideau rouge, ouverte sur un parc.
+
+Cadre en bois sculpte.
+
+Toile de forme ovale.Haut.,25 cent.;larg.,31 cent.
+
+Vente Lelong, 1903.
+## ECOLE FRANCAISE
+
+I——Portrait de jeune fillette.
+
+On la voit de face,en corsage decollete,une guirlande de fleurs dans lescheveux.
+
+Cadre en bois sculpte et dore de l'epoque Regence.
+
+Toile. Haut.,70 cent; larg.,56 cent.1/2.
+## ECOLE FRANCAISE
+
+12—Jeune marquise Louis XV.
+
+Elle est vue de face,une rose a la main droite,les cheveux poudrés a frimas, en corsage de velours rouge a broderies d'or, des perles aux oreilles.
+
+Cadre ovale en bois sculpte et dore, de l'epoque Louis XII.
+
+Toile.Haut.,74 cent.；larg.,56 cent.
+
+## OUDRY
+
+(JEAN-BAPTISTE)
+
+Quatre beaux dessus de porte formant pendants.
+
+13 —Chien blanc a taches brunes.
+
+En arret sur deux cailies cachees sous des epis de ble, meles de fleurs des champs.
+
+Toile.Haut.,1 m.28;larg.,1 m.25.
+
+Vente Lelong, 1903.
+## OUDRY
+
+(JEAN-BAPTISTE)
+
+14—Chienne blanche tachee de feu.
+
+Flairant un faisan sous une plante fleurie.
+
+Toile.Haut.,1 m.28;larg.,1 m.25.
+
+Vente Lelong,1903.
+## OUDRY
+
+(JEAN-BAPTISTE)
+
+15—Chienne noire et blanche.
+
+En arret devant un pied de genet.
+
+Toile.Haut.,1 m.28;larg.,1 m.25.
+
+Vente Lelong, 1903.
+
+## OUDRY
+
+(JEAN-BAPTISTE)
+
+16—Renard guettant des perdric.
+
+Fond de paysage avec cours d'eau et perspectives accidentees.
+
+Toile.Haut.,1 m.28;larg.,1 m.25.
+
+Vente Lelong, 1903.
+## TASSAERT
+
+## 17—Sarah la Baigneuse.
+
+Dans son hamac elle se balance, laissant son pied droit effleurer la surface de l'eau.Sonbras droit est releve au-dessus de sa tete souriante et soutient l'écharpe de gaze bleue qui recouvrait son corps. A travers les grands arbres, le soleil pose sur l'eau des taches lumineuses.
+
+Signe a droite, en bas, du monogramme : 0. T. 1 850.
+
+Toile.Haut.,55 cent.;larg.,43 cent.
+
+C'est probablement le tableau qui fut expose au Salon de 1850-1851. Il passa par les ventes suivantes :
+
+VenteCollot,29mai1852. Vente Arrosa,24 aout 1858. Vente Arrosa,25feurier 1878. Vente Aleccndre Dumas,3mars 1896.
+
+## TASSAERT
+
+18—LEnfant endormi.
+
+Etude.
+
+Toile.Haut.,17 cent.;larg.,21 cent.
+
+Vente Alexandre Dumas.
+## 19 —— Une Ferme.
+
+A droite, de l'autre cote d'une montagne legerement en pente, quelques eglantiers et le mur d'une ferme dont les toitures dessinent leurs aretes sur le ciel bleu; a gauche la campagne jusqu'a la mer, dont la ligne bleue semble supporter le ciel voile de nuages gris.
+
+Signe a droite, en bas.
+
+Toile.Haut.,55cent.;larg.,91 cent.
+
+Vente Alerandre Dumas.
+
+<!-- image -->
+
+## VOLLON
+
+(ANTOINE)
+<!-- image -->
+
+## AQUARELLES&amp;SEPIAS
+
+## FRAGONARD
+
+20 ——Paysage boise.
+
+Sepia.
+
+Vente du marquis de Chennevieres.
+
+FRAGONARD
+
+21 —Un Parc en Italie.
+
+Sepia.
+
+Vente du marquis de Chennevieres.
+
+DESPREZ
+
+22 --Place du marche a Catane.
+
+Aquarelle.
+
+Vente du marquis de Chennevieres.
+
+<!-- image -->
+<!-- image -->
+
+## OBJETS D'ART
+
+ET
+
+## D'Ameublement
+
+## FAIENCES
+
+- 23—PLAT en ancienne faience de Delft, a decor de fleurs et compartiments rayonnants.
+
+Diam.,35 cent.
+
+Diam.,35 cent.
+
+- 25 —Deux PErITs PLATs varies cn ancienne faience de Delft, decor bleu: arbuste, vase de fleurs.
+
+Diam., 3 cent.
+
+- 26—PETIT PLATEAU ovALE en ancienne faience de Niederwiller :bord festonne et marli plisse a fond vert;au centre, bouquet de fleurs polychromes.
+
+Long.,28 cent.;larg.,22 cent.
+
+## Vente Antiq,1895.
+
+- 27- BorTeiLLe a panse aplatie, decor en vert de cuivre avec bande
+- jaune surchargee de dessins noirs. Inscription pharmaceutique. Ancienne faience de Nevers.
+
+Vente Antiq,1895.
+
+Haut., 25 cent.
+
+- 24-—PLAT cREux, meme faience,rosace et fleurs.
+- 28'-PeTIr PLATEat a decor polychrome, orne en plein de cinq enfants jouant dans un paysage sur fond vert; au bord, un large filet jaune. Ancienne faience de Nevers.
+
+Vente Antiq, 1895.
+
+- 29 -PorichE avec couvercle en ancienne faience de Nevers a decor polychrome, fleurs et feuilles.
+
+Vente Antiq, 1895.
+
+- 30— AssiETTe en ancienne faience de Sinceny a bords festonnes ; decor polychrome en plein; a droite, deux Chinois; a gauche, un coq, une gerbe de fleurs et des fruits.
+
+Vente Antiq,1895.
+
+- 31 —Perir FLAcon de forme cylindrique avec bouchon en etain.Ancienne faience de Rouen, decor bleu, lambrequins et fleurons.
+
+Haut., 16 cent.
+
+Vente Antiq, 1895.
+
+- 32 — AssiETre a bords contournes en ancienne faience de Rouen, a decor polychrome : au fond, branchages fleuris; au marli, lambrequins.
+
+Diam., 25 cent.
+
+Diam.,25 cent.
+
+Vente Antiq,1895.
+
+- 33 — Assierre a bords contournes en ancienne faience de Rouen, a decor polychrome en plein de grands branchages fleuris,oiseaux et papillons.
+
+Vente Antiq,1895.
+
+- 34—AssiETTE en ancienne faience de Rouen, decor bleu, motif de ferronnerie au centre,lambrequins au marli.
+
+Diam., 24 cent.
+
+Ventes MichelPascal etAntiq.
+
+Diam.,18 cent.
+
+Haut.,34 cent.
+
+Diam.,26 cent.
+- 35  AssiETTE en ancienne faience de Rouen, decor polychrome a la
+
+Vente Antiq,1895.
+
+Diam., 25 cent.
+
+- 36 GRAND PLAT a decor bleu, en ancienne faience de Rouen: au fond se trouve un cygne dans des roseaux; au marli,tres grande bordure
+- de fleurons et lambrequins relies par des guirlandes.
+
+Vente Antig, 1895.
+
+Diam.,48cent,
+
+- 37- GRaND PLAT ovale en hauteur, en ancienne faience de Rouen a decor bleu: au milieu, grand medaillon avec rinceaux et motifs de ferronnerie; au marli et a la chute, larges lambrequins et fleurons.
+
+Haut.,60 cent.,larg.,51 cent.
+
+- corne d'abondance.
+
+## Vente Antig, 1895.
+
+- 38 — GRAND PLAT ovale en hauteur a decor bleu ; au milieu, un ecusson armorie, surmonte d'une couronne de marquis et entoure de huit oiseaux varies : au marli et a la chute, larges lambrequins et fleurons.
+
+Haut.,60 cent.; larg.,51 cent.
+
+- Ancienne faience de Rouen.
+
+## Vente Antiq,1895.
+
+- 39-PaiRE DE cAcHE-PoTs de forme ronde, avec pieds et oreilles, en
+- ancienne faience de Rouen.Dans la partie superieure se trouve un bourrelet, protege par un cercle en etain. Un decor bleu de lambrequins avec glands et arceaux de style rayonnant les recouvre entierement.
+
+Diam.24 cent.;haut.,18cent.
+
+Vente Antig, 1895.
+
+## PORCELAINES DE CHINE
+
+- 40 —— Deux PETITs vAsEs-BALUsTREs, a pans, en ancien celadon bleu-turquoise de la Chine.
+
+Haut.,14 cent.
+- 41— CoURGE PORTE-FLEURs-APPLIQUE, meme porcelaine.
+
+Long., 15 cent.
+
+- 42— Vase quadrilateral, col a gorge, en ancien celadon bleu-turquoise de la Chine.
+
+Haut.,33 cent.
+
+- 43 —PeTIT supporT hexagone, en ancien celadon bleu-turquoise de la Chine.
+
+Larg., 21 cent.
+
+- 44 —PoRTE-PERRUQuE en ancien celadon bleu-turquoise de la Chine.
+
+Haut.,24 cent..
+
+- 45 Deux TABouRETs, en forme de tonnelets,en ancienne porcelaine de Chine,a decor de vases et ustensiles sur fond jaune.
+
+Haut.,28 cent.
+
+- 46 —Deux vAses spheriques simules, en ancien celadon vert craquele de la Chine;montures en bronze dore a anses droites, boutons de couvercles, piedouches canneles en bronze dore du temps de Louis XVI.
+
+Haut.,34 cent.
+
+- 47 — BouTeiLLE en ancienne porcelaine de Chine emaillee rouge-flambe; collerette et base en bronze a rocailles.
+
+Haut., 30 cent.
+
+- 48 —Deux GRANDEs BoUTEILLEs a decor d'oiseaux et fleurs en bleu,en ancienne porcelaine de Chine.
+
+Haut.,45cent.
+
+- 49Deux vases en ancienne porcelaine de Chine, decor bleu et reserves a entrelacs et vases, sur fond cailloute a fleurs.
+
+Haut.,45 cent.
+
+- 50 Por ovoide en ancienne porcelaine de Chine, reserves a fleurs en camaieu bleu sur fond bleu-soufle. Couvercle en bois ajoure.
+
+Haut.,24 cent.
+- 51-52 - Trois coos en ancienne porcelaine de Chine emaillee sur biscuit, plumages en vert, jaune et violet.
+
+## Vente Lelong, 1903.
+
+- 53—THeierE, pot a lait, sucrier avec couvercle,tasse et soucoupe,en ancienne porcelaine de Chine, famille rose, a decor de paysages animes sur fond rouge d'or.
+
+Haut., 26 cent.
+
+Haut.,12 cent.
+
+- 54—THeiERE avec couvercle, en ancienne porcelaine de Chine, famille rose, decor de fleurs.
+- 55——AuTRE,legerement differente.
+- 56—ArTRE,a personnages.
+
+Haut.,13 cent.
+
+Haut.,12 cent.
+
+Haut., 13 cent.
+
+- 57—Deux THEierEs, legerement varies, en forme de coqs,en ancienne
+- porcelaine de Chine, famille rose.
+
+Haut.,14et17 cent.
+
+- 58 PETITE poTIcHE, en ancienne porcelaine de Chine,famille rose, decoree de reserves,contenant des personnages, se detachant sur un
+- fond rose seme de fleurettes de meme nuance.
+
+Haut.,19 cent.
+
+- 59 PAIRE DE cAcHE-poTs, en ancienne porcelaine de Chine, famille rose, decor de fleurs et rouleaux deplies.
+
+## Vente Lelong, 1903.
+
+- 60— PerIre poricHE, avec couvercle,en ancienne porcelaine de Chine, famille rose, presentant deux comparliments a personnages se
+
+Haut., 25 cent.
+
+- detachant sur un fond bleu vermicule.
+- 61 — GrossE poTicHE, en ancienne porcelaine de Chine, famille rose, decoree de reserves, contenant des enfants dans des paysages et se detachant sur un fond rose, charge de branches fleuries de meme nuance. Collerette et base en bronze dore de la maison Dasson.
+
+Haut., 37 cent.
+
+Haut.,12 cent.
+- 62 Deux poTicHEs, avec couvercles, en ancienne porcelaine de Chine, famille rose,reserves a branches fleuries sur fond rose. Montures en bronze dore a collerettes,anses-mascarons et bases a quatre petits pieds du temps de Louis XVI.
+
+Haut., 37 cent.; larg., 45 cent.
+
+- 63—DEUx PoRTE-FLEURs-APPLiQUEs en forme d'oiseaux de proie,en porcelaine blanche du Japon, rehaussee de couleurs pour I'un d'eux.
+
+Haut.,20 cent.
+
+## PORCELAINES DIVERSES
+
+- 64—Deux saLIeREs,a deux compartiments,en forme de petites corbeilles sur lesquelles sont assis deux personnages, adolescent et fillette. Ancienne porcelaine de Saxe.
+
+Haut.,14 cent.
+
+- 65 Deux AUTREs analogues, portant les noms : S. C.E. Scharffin et
+- G.H. Scharff,avec date: den 10 May 1759.
+
+Haut.,14 cent.
+
+- 66——Deux PETIrs vAsEs avec couvercles, en ancienne porcelaine de Saxe, decores de marines, avec petits compartiments,a paysages animes en camaieu orange, sur le culot. Bases en bronze dore.
+
+Haut., 20 cent.
+
+- 67 —Detx FLAMBEAux, en ancienne porcelaine de Saxe, a tiges et bases contournees et a decor de branches fleuries en couleurs et en relief.
+
+Haut.,26 cent.
+
+- 68-69 -ONzE FIGuRiNEs, en ancienne porcelaine de Saxe, representant des amours debout, costumes differemment; amours peintre, musicien,medecin,etc.
+
+Haut.,10et 11 cent.
+
+- 70 — GroupE en ancienne porcelaine de Saxe :le Char de Venus;la deesse est accompagnee de l'Amour et tient la pomme.
+
+Haut., 48 cent.
+
+- 71 — SrATurTTE en ancienne porcelaine de Saxe; personnage vetu de rouge et occupe a ecrire.
+
+Haut.,14 cent.
+- 72 — GroupE en ancienne porcelaine de Saxe : la Cueillette des Cerises; composition de deux personnages et de deux enfants, l'un d'eux monte sur le cerisier. Base en bronze dore du temps de Louis XV.
+
+Vente Ploquin.
+
+Haut., 33 cent.
+
+- 73 — Decx PETITs cANDELABREs a deux lumieres, en bronze dore du temps de Louis XV, siinulant des branchages sur bases a rocailles; ils sont ornes chacun d'une figurine d'enfant nu, assis sur un elephant en ancienne porcelaine de Saxe; fleurettes de meme porcelaine.
+
+Haut.,23 cent.
+
+- 74 CaNDELABRE a trois lumieres, en bronze dore, simulant des branchages s'echappant d'une base a rocailles, du temps de Louis XV; Poincon C couronne dit de Caffieri. Cette base supporte un paon debout, appuye contre un tronc d'arbre et decore au naturel, en ancienne porcelaine tendre de Chantilly.
+
+Haut.,29 cent.
+
+- 75 — Tasse droite et soucoupe en ancienne porcelaine tendre de Sevres, a bouquets de fleurs et fruits dans des reserves a bordure verte sur fond rose Dubarry.
+
+Haut.,66millim.
+
+- 76 Trois vAsEs avec couvercles en ancienne porcelaine tendre de Sevres, a decor de roses semees et de couronnes de feuillages. Montures a gorge, anses surelevees et piedouches a tores de laurier, variees dans les trois pieces, celle du milieu presentant, en outre, deux mufles de lions. Epoque Louis XvI.
+
+Haut.,29et22cent.
+
+- 77—Groupe en ancienne porcelaine de Niederwiller :berger debout aupres d'une bergere assise et tenant des fleurs de la main droite.
+
+Vente Ploquin.
+
+Haut.,23 cent.
+- 78-Deux vAsEs en porcelaine a couverte bleu-souffle, montes en aiguiere en bronze cisele et dore, a decor de motifs de rocailles, volutes et roseaux. Style Louis XV.
+
+Haut.,51 cent.
+
+Vente Alecandre Dumas, 1896.
+
+## OBJETS D'ART
+
+- 79  BoirE ronde en ancienne laque du Japon, a fleurs, sur fond aven-
+- turine.
+
+Haut.,7 cent.
+
+- 80-- PETIT BRULE-PARFUMs en forme de corbeille de fleurs, sur base oblongue, en porcelaine et email de Saxe; monture de bronze dore.
+- Epoque Louis XVI.
+
+Haut., 11 cent.; larg., 9 cent.
+
+- 84 — QuATRE coLoNNEs en marbre de couleur, du xvie siecle.
+
+Haut.,2m.20.
+
+- 82GRotPE EN MARBRE BLANc : la Sirene, de Puech, signe et date : 1891.
+- Salon de 1890.
+
+Haut.,1 m.25.
+
+Vente Alecandre Dumas, 1896.
+
+- 83 -. SraTuETTE en marbre blanc : Ceinture doree, de d Epinay.
+
+Haut.,48 cent.
+
+- 84—QuATRE BusTEs en terre cuite, grandeur nature:Allegories des
+- Saisons, sous les traits de jeunes femmes drapees a lantique, des fleurs dans les cheveux. Epoque Louis XV.
+
+Haut.,72 cent.
+
+- 85 — EpiNETTe a caisse d'acajou; encadrements de cuivre, pieds canneles, Signee : M. Salomon, luthier, place de lEcole, a Paris. Epoque Louis XVI.
+
+Larg.,1 m.16;prof.,45 cent.
+
+- 86  Derx GRANDs LANDIERs en fer a decor de volutes et rosaces, avec
+- traverse, pelles et pincettes.
+
+Haut., 88 cent.
+## BRONZES,PENDULES
+
+- 87 —PAIRE DE BRAs-APpLIQUEs a deux lumieres, en bronze dore,a gaine ornee de feuillages et surmontee d'un neud de rubans, branches cannelees. Epoque Louis XVI.
+
+Haut.,40 cent.
+
+- 88 —Deux FLAMBEaux en porphyre, en forme de colonnettes a pans, supportant la douille en bronze dore. Epoque Louis XVI.
+
+Haut.,17 cent.
+
+- 89 -PAIRE DE cANDELABREs a trois lumieres, en bronze patine et dore, a figures d'enfants debout, tenant une corne d'abondance d'ou s'echappent les branches de lumieres et un thyrse. Bases en marbre blanc et bronze dore.Epoque Louis XVI.
+
+Haut.,67 cent.
+
+- 90—PETITE PENDuLE en marbre blanc et bronze dore,surmontee d'un bouquet de fruits et flanquee de deux thyrses. Cadran signe:Bruley a Paris.Epoque Louis XVI.
+
+Haut., 33 cent.
+
+- 91 -- Deux FLAMBEaux en bronze dore et marbre blanc, tiges feuillagees. Epoque Louis XVI.
+
+Haut.,21 cent.
+
+- 92—PeNDtLe en bronze dore, simulant un arbuste;elle est ornee de fleurettes et d'un groupe a sujet galant en ancienne porcelaine de Saxe.
+
+Haut.,38 cent.
+
+- 93-PAIRE DE cANDELABREs a deux lumieres, en bronze dore a rocailles, ornes d'une vielleuse et d'un joueur de basse de viole, en ancienne porcelaine de Saxe.
+
+Haut.,20 cent.
+
+- 9—Deux PErIrs vAses en marbre vert d'Egypte,collerette a draperies et chainettes et piedouche en bronze dore. Epoque Louis XVI.
+
+Haut., 19 cent.
+- 9°—PenDtLe a cadran tournant,en bronze patine et dore,en forme d'urne cnguirlandee portee par deux cygnes. Base en marbre rougegriotte et bronze dore, presentant une danse de nymphes. Epoque
+
+Haut.,52 cent.
+
+- 96—Deux GRANDs cANDELABREs a quatre lumieres, cn bronze dore et marbre blanc,composes chacun d'un groupe de deux femmes a demi nues ct debout; elles supportent les bouquets de lumieres et reposent sur des bases ovales, presentant chacune une frise d'enfants chasseurs. Epoque Louis XVI.
+
+Haut.,90 cent.
+
+- 97—QuATRE cANDELABREs a deux lumieres,en bronze dore,a volutes et rocailles,ornes chacun d'une statuelte de femme debout,en ancienne porcelaine de Chine, famille rose, tenant un fruit pouvant servir de troisieme porte-lumiere.
+
+VenteLelong,1903.
+
+- 98—GRotPE EN BRoNzE a patine brune. Gloria Victis, de Mercie. Maison Barbedienne.
+
+Haut.,34 cent.
+
+Haut.,1 m.08.
+
+- 99 — PaiRE DE cHENETs en bronze, Venus et Vulcain, sur bases oblongues,
+- style Regence.Maison Vian.
+
+Haut.,40 cent.
+
+- 100 —Deux FLAMBEAux en forme de trepicds-cassolettes en bronze dore.
+- Style Louis XVI.
+
+Haut.,20 cent.
+
+## MEUBLES EN TAPISSERIE
+
+- 101 — Six FauTeuiLs en bois sculpte et dore a fleurs, signes Bernard et couverts en tapisserie de Beauvais a dessin d'animaux d'apres Oudry, se detachant sur un fond blanc encadre de fleurs. Epoque Louis XV.
+
+Larg.,67 cent.
+
+- Louis XVI.
+- 102 -Ecnan en bois sculpte ct dore a feuillages, feuille en tapisserie d'Aubusson du temps de Louis XVI, presentant sur fond blanc les initiales L. D. dans un medaillon entoure de fleurs ; encadrement de fleurs egalement, avec bordure rouge.
+
+Haut.,4m.20;larg.,84cent.
+
+- 103 -Ecra en bois sculpte et dore a feuillages, feuille en tapisserie d'Aubusson du temps de Louis XVI, presentant, sur fond blane,un
+- panier de fleurs; encadrement de leurs, avec bordure rouge.
+
+Haut.,1 m.12;larg.,77 cent.
+
+- 10--TaBouRer ovale en bois sculpte et dore a pieds canneles,couvert en tapisserie d'Aubusson, presentant sur fond blanc, des instruments de musique, encadement de fleurs avec bordure rouge. Epoque Louis XVI.
+
+Larg., 58 cent.
+
+- Epoque Regencc.
+
+## MEUBLES
+
+- 105 -Deux MEUBLEs D'ENcoiGNURE en marqueterie de bois de rose et de violette,fermant a deux portes ct garnis d'encadrements a baguettes enguirlandees en bronze ciscle; tablettes de marbre breche d'Alep.
+
+Haut., 81 cent.; larg.,67 cent.
+
+- 106 -TanLE-coirretsE en marqueterie de bois de couleurs, a decor d'instruments de musique et de fleurs; garnitures de bronzes. Epoque Louis XV.
+
+Larg., 87 cent.;prof.,52 cent.
+
+- 107 -TaBLe-BuREAu a trois tiroirs cn bois de placage, garnie de bronzes dores :poignees et chutes a rocailles, ecoincons, entrees de serrures
+- et sabots. Dessus en cuir. Epoque Louis XV.
+
+Long.,4 m. 32;larg.,72 cent.
+
+- 108 -PARavENr a six feuilles en bois sculpte et dore a feuillages ; feuilles en tapisserie au point a fleurs sur fond blanc. Revers en damas bleu a grands ramages. Epoque Louis XV.
+
+aut., 4 m.68;larg.dune feuille,63 cent.
+
+Vente Lelong, 1903.
+- 109 - CouMonE a deux tiroirs du temps de Louis XV, en marqueterie de bois satine et de violette, a decor de branches fleuries; poignees, chutes, sabots et encadrements de bronze. Tablette de marbre ranz.
+
+Haut., 80 cent.; larg., 1 m.40.
+
+## Vente D.de G.,1896.
+
+- 110 — SecrETaiRe a abattant, portes et tiroirs en bois laque noir et or, a paysages animes de style chinois. Interieur marquete. Encadrements et chutes en bronze. Tablette de marbre gris. Epoque Louis XV.
+
+Haut.,1m.46;larg.,87cent.;prof.,38cent.
+
+- 111 -TaBLE-roGNoN en marqueterie de bois de couleurs, ornee d'un quadrille seme de quartefeuilles; pieds ajoures relies par une traverse. Fin de l'epoque Louis XV.
+
+Haut.,73 cent.; larg., 4 m.03.
+
+- 112 -CouMope a trois rangs de tiroirs, en marqueterie de bois de couleurs, a decor d'attributs de chasse, avec encadrements a rocailles et frises a entrelacs. Garnitures de bronze, tablette de marbre breche d'Alep.Fin de l'epoque Louis Xv.
+
+Larg.,1 m.30;prof.,62 cent.
+
+- 113 —PeTITE TABLE de dame, en marqueterie de bois de couleurs,a decor de personnages orientaux, fleurs et vases. Elle contient trois tiroirs, dont un sur le cote. Garnitures de bronzes, galerie de cuivre. Fin de l'epoque Louis XV.
+
+Haut., 70 cent.; larg., 36 cent.
+
+- 114 PerrTE TABLE en marqueterie de bois de couleurs a quadrilles. Elle est munie d'une fermeture a coulisse simulant des dos de volumes et masquant quatre tiroirs; sur le cote, deux autres tiroirs. Fin de l'epoque Louis XV.
+
+Larg.,56 cent.
+
+- 115 — SecRETAirE droit a abattant, portes et tiroirs en marqueterie de bois de couleurs a decor de branches fleuries avec encadrements,chutes, entrees de serrures, anneau de tirage, rosaces, sabots-griffes en bronze.Tablette de marbre blanc. Signe: L. Boudin. Fin de l'epoque Louis XV.
+
+Haut.,1 m.46; larg.,95 cent.
+- 116 —Lrr DE Repos en bois sculpte et dore, a dossiers flanques de colonnettes surmontees de panaches; decor de baguettes enrubannees, rosaces et rangs de perles. Ill est couvert de soie rayee et brochee,a fleurs sur fond bleu, et est accompagne de trois coussins de meme etoffe.Fin du regne de Louis XV.
+
+Long., 1 m.60; larg.,65 cent.
+
+- 117 -SupponT en formc de fut de colonne cannelee et rudentee;bois
+- sculpte et peint noir et or. Epoque Louis XVI.
+
+Haut.,4m.23.
+
+- 118 —BurEau a cylindre en acajou garni de cuivres, dessus de marbre. Epoque Louis XVI.
+
+Haut.,1 m.43;larg.,1 m.15.
+
+Ventes Pichon et de M.le Comte de M...
+
+- 119 — ConsoLe en bois ajoure, sculpte et dore,a ceinture ornee de canaux et reposant sur deux pieds a volutes enguirlandes de chene, relies par une traverse supportant un trophee d'armcs. Dessus de marbre blane. Epoque Louis XVI.
+
+Larg., 4 m. 60; prof., 56 cent.
+
+- 120 -Perire coNsoLE en bois sculpte et dore a ceinture cannelee et sur deux pieds feuillages et a volutes,relies par une petite traverse
+- surmontee d’un vase. Tablette de marbre blanc. Epoque Louis XVI.
+
+Haut., 77 cent., larg, 70 cent.
+
+- 121 -Gueripon a deux tablettes de marbre portor;pieds a torsades et tetes d'aigles en bronze. Epoque Louis XVI.
+
+Haut.,72 cent.; diam.,51 cent.
+
+- 122 -PeTITE TABLE DE DAME a un tiroir cn bois de placage. Elle repose sur deux pieds-lyres relies par une tablette;rosaces, encadrements et galeries de cuivre. Epoque Louis XVI.
+
+Haut., 74 cent.; larg.,42 cent.
+
+- 123 - MeuBLE D'ENTRE-DEux a deux portes superposees en bois de couleurs, encadrements a petites feuilles et rangs de perles, bordure inferieure a fleur de lys et galerie en bronze dore. Dessus de marbre blanc. ll porte la marque du chateau royal de Saint-Cloud. Epoque
+
+Haut., 4 m.63;larg.,74 cent.
+
+- Louis XVI.
+- 124 -MeuBLE DE sALoN du temps de Louis XVI en bois sculpte, modele a medaillon ovale a postes, sequins,feuillages et perles et rechampis de blanc. Il se compose d'un grand canape,de deux bergeres, de six grands fauteuils et de six fauteuils plus petits,tous signes de G. Jacob, excepte deux petits fauteuils. Il a ete recouvert de soie bleu-clair, a decor de fleurs, entrelacs de feuillages et glands broches blane, copiee a Lyon sur la soie ancienne qui le garnissait et qui fait partie du lot.
+
+Larg. du canape,1 m.95.
+
+Vente D.de G.,1896.
+
+- 125 -Deux viTRINes en bois ajoure et sculpte a decor d'amours, lyres et guirlandes de fleurs. Elles ferment a une porte et reposent sur quatre pieds, relies par une entretoise a vase. Travail de J. Besse.
+
+Haut.,2m.20;larg.,1m.05.
+
+- 126  GRANDE sERvANTE en chene sculpte a cinq tiroirs;dossier orne d'un mascaron ; tablette de marbre, style Louis XIV. Maison Sormani.
+
+Larg.,3m.10;prof.,0m.68.
+
+<!-- image -->

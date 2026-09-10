@@ -1,0 +1,1504 @@
+## CONDITIONS DE LA VENTE
+
+Elle sera faite au comptant.
+
+Les acquereurs paieront dix pour cent en sus des encheres.
+<!-- image -->
+
+## DESIGNATION
+
+## Tableaux Modernes
+
+ANDRE (ALBERT)
+
+Le Repos sur la terrasse.
+
+Signe et date:1903.
+
+Toile.Haut.,64 cent.；larg.,91 cent.
+
+## BARYE
+
+(ALFRED)
+
+## Leopard au repos.
+
+Il est couche,les pattes pliees, la tete appuyee sur le sol.
+
+Toile.Haut.,17 cent.;larg.,18 cent.
+
+Signe a gauche.
+## BESNARD
+
+(PAUL-ALBERT)
+
+## 3 —La Jeune fille rousse.
+
+Vetue d'une robe chinoise, bleue sur fond blanc, les cheveux epars pendant sur les epaules,elle est assise sur un divan, le haut du corps appuye sur des coussins, le bras droit accoude,regardant le spectateur.
+
+Signe en haut,a droite,et date:189.3
+
+Toile. Haut.,62 cent.; larg.,48 cent.
+## BOUDIN
+
+(EUGENE)
+
+—Vue d’Anvers.
+
+Des bateaux de peche remontent le fleuve. D'autres bateaux sont au port, devant les maisons de la ville dominees par le clocher de la cathedrale.
+
+Signe a gauche et date : Anvers, 1871.
+
+Toile.Haut.,41 cent.；larg.,65 cent,
+## CALS
+
+(ADOLPHE-FELIX)
+
+## — Une Paysanne.
+
+En buste, un bonnet blanc sur les cheveux en desordre, la poitrine et les bras nus.
+
+Signe a droite et date : 1875.
+
+Toile.Haut.,52 cent.larg.,45 cent.
+CALS
+
+(ADOLPHE-FELIX)
+
+## 6 Buste de jeune fille.
+
+Une jeune paysanne aux cheveux blonds releves sur le front,la tete inclinee sur l'epaule, un fichu rouge noue autour du cou sur son corsage gris.
+
+Signe et date: Honfleur, 1872.
+
+Toile.Haut.,38 cent.;larg.,29 cent.
+
+COMESLUCHO
+
+(C)
+
+La Danseuse espagnole.
+
+Signe a gauche.
+
+Toile. Haut., 1 metre; larg., 80 cent.
+## COROT
+
+(JEAN-BAPTISTE-CAMILLE)
+
+——L'Etang.
+
+Des saules s'elevent au bord d’un etang; une femme en coiffe blanche cueille des herbes.
+
+Dans le fond, un village aux maisons couvertes de tuiles rouges et une lande brune allongee a l'horizon, sous un ciel clair aux nuages argentes par les rayons d'un soleil pale.
+
+Signe a droite.
+
+Toile.Haut.,25 cent.;larg.,33 cent.
+## DAUBIGNY
+
+(CHARLES-FRANCOIS)
+
+## La Fenaison.
+
+Dans les pres verts s'etendant aux bords de l'Oise, des
+
+Des collines boisees se perdent a l'horizon. Signe a droite.
+
+paysannes ramassent les foins avec de longs rateaux. Les eaux sombres de la riviere refletent un ciel orageux, charge de lourds nuages gris.
+
+Bois.Haut.,45 cent.;larg.,68 cent.
+## DE GOUMOIS
+
+(H.)
+
+Pleine mer. 10
+
+Signe a droite et date : 1899.
+
+Toile.Haut.,98cent.;larg.,1m.45.
+
+## DELACROIX
+
+(EUGENE)
+
+Lion dechirant sa proie.
+
+Un lion assis dechire de ses griffes le corps d'un homme etendu a terre. Peinture sur carton. Signee a gauche, des initiales.
+
+Haut., 13 cent.; larg., 25 cent.
+## DIAZ DE LA PENA
+
+(NARCISSE)
+
+## La Petite fille au chien. 12
+
+Assise dans un jardin sur un coussin bleu, une fillette blonde aux cheveux boucles,vetue d'une robe de gaze blanche, caresse de la main droite un chien couche pres d'elle.
+
+A gauche, le cachet de la vente Diaz.
+
+Bois.Haut.,31 cent.；larg.,21 cent.
+## D'ESPAGNAT
+
+(GEORGES)
+
+13 — Le Chemin du village.
+
+Signe a droite, des initiales.
+
+Toile. Haut., 6i cent.;larg., 80 cent.
+<!-- image -->
+
+Trois jeunes femmes sont assises a terre dans un interieur, autour d'une table a jeu.La premiere,accoudee,le buste nu,a les jambes entourees d'un voile bleu. Une autre, au centre, porte un corsage jaune. A gauche,la troisieme,le torse nu,inclinee en avant,est entouree d'une draperie verte.
+
+Un rideau rouge est tendu sur le fond, a droite.
+
+Toile.Haut., 60 cent., larg.,72 cent.
+
+## FANTIN-LATOUR
+
+(HENRI)
+## 15
+
+16—
+
+## GAUGUIN
+
+(PAUL)
+
+## Paysannes bretonnes.
+
+Quatre femmes en coiffes blanches, robes de laine, jupons barioles de rouge ou de vert, sont reunies dans la campagne, gardant des oies.
+
+Signe a gauche.
+
+Toile.Haut.,70 cent.;larg.,88 cent.
+
+## GUILLAUMIN
+
+(ARMAND)
+
+Le Verger.
+
+Des arbres fruitiers s'elevent a flanc de coteau, dominant une vallee de vaste etendue. A droite,une femme arrache des choux.
+
+On apercoit a l'horizon les maisons d’un village.
+
+Signe a gauche.
+
+<!-- image -->
+
+Une jeune femme,debout en plein soleil,protege ses yeux de la main.
+
+oile.Haut.,1 m.05;larg.,63 cent.
+
+Toile.Haut.,72 cent.;larg.,90 cent.
+
+## HALE
+
+(P.-L.)
+## HENNER
+
+(JEAN-JACQUES)
+
+## 18 —Une Madeleine.
+
+Agenouillee sur le sol, le haut du corps adosse contre un arbre,la tete legerement inclinee sur la droite,les mains jointes, les cheveux blonds epars descendant sur les epaules et la poitrine,les jambes entourees d'un voile bleu.
+
+Signe a gauche.
+
+Bois.Haut.,27 cent.;larg.,22 cent.
+20 Les Porcs.
+
+Deux porcs sont debout sur la paille etalee dans une cour; devant eux, une poule blanche picore. Dans le fond, une muraille éclairee par le soleil.
+
+Signe a droite.
+
+Bois.Haut.,23 cent.;larg.,31 cent.
+
+## JEANNIN
+
+(GEORGES)
+
+21 Prunes et Peches.
+
+Signe a gauche.
+
+## HUGONNET
+
+(ALOYS)
+
+19 Jeune femme vue de dos, devant une che- minee.
+
+Signe et date : 1902.
+
+Toile.Haut.,57 cent.;larg.,37 cent.
+
+## JACQUE
+
+(CHARLES)
+
+Toile.Haut.,75 cent.;larg., 90 cent.
+## JONGKIND
+
+(JEAN-BERTHOLD)
+
+## 22 Un Canal en Hollande.
+
+Le ciel nuageux s'illumine d’un clair de lune dont les
+
+Des bateaux aux hautes matures sont a l'ancre. Deux hommes montent une barque;a droite,un quai plante d'arbres; a gauche, des maisons couvertes de tuiles.Dans le fond, un moulin a vent.
+
+rayons miroitent dans l'eau.
+
+Signe a droite et date:1869.
+
+Toile.Haut.,32 cent.;larg.,41 cent.
+## 23
+
+## JUSTE
+
+(RENE)
+
+## Effet de neige, a Montigny.
+
+Trois arbres denudes s'elevent sur une rive blanche, au bord d'un cours d'eau aux eaux sombres,devant les maisons du village.
+
+Signe a droite.
+
+Toile.Haut., 60 cent.;larg.,80 cent.
+
+## LEBOURG
+
+(ALBERT)
+
+Vue de Croisset, pres de Rouen.
+
+Un bouquet de saules, dans une ile, s'eleve au milieu de la Seine.A droite, une barque.Dans le fond,une rive accidentee.
+
+Signe a droite.
+
+Toile.Haut.,54 cent.;larg.,73 cent.
+## 25
+
+## LEBOURG
+
+(ALBERT)
+
+## L'Hiver en Auvergne.
+
+Un vieux pont de pierre traverse un large cours d'eau ou l'on remarque deux barques. Sur le pont,une diligence attelée de deux chevaux en fleche.Dans le fond,une large batisse aux flancs de collines couvertes de neige.
+
+Signe a droite.
+
+Toile.Haut.,61 cent.;larg.,1 m.09.
+
+## LEBOURG
+
+(ALBERT)
+
+## 26 Environs de Rouen.
+
+Par un temps de neige,le soleil perce la brume qui enveloppe les bords de la Seine. De grands arbres se silhouettent dans une ile;un chaland est amarre pres d'un quai.
+
+Signe a gauche.
+
+Toile.Haut.,59 cent.；larg.,78 cent.
+## LEBOURG
+
+(ALBERT)
+
+## Lever de soleil par la neige. 27
+
+Un charretier longe le cote droit d'une route solitaire, bordee de poteaux telegraphiques et s'eloigne vers le fond du paysage couvert de neige.
+
+brumes matinales.
+
+A gauche, au dela d'un repli de terrain,les collines du Mont-Valerien ou le soleil levant vient dissiper les
+
+Signe a gauche.
+
+Toile.Haut.,46 cent.,larg.,61 cent.
+
+Exposition Centennale(1900),n°409. Vente Viau,n 33.
+
+## LEBOURG
+
+(ALBERT)
+
+28 — Le Bas-Meudon.
+
+Devant les guinguettes,la route suivant le bord de la Seine est couverte de neige. Un homme en manteau noir est arrete sur la berge.Plus loin,un chaland;dans le fond, les bois de Saint-Cloud fermant une boucle du fleuve.
+
+Signe a gauche et date : Bas-Meudon, 1900.
+
+Toile.Haut.,48 cent.;larg.,70 cent.
+## 29
+
+## LEBOURG
+
+(ALBERT)
+
+## 一 Les Laveuses.
+
+Plusieurs femmes sont accroupies au bord d'un cours d'eau,lavant du linge. Devant elles,une ile couverte d'herbes. Vers le fond, les constructions d'un village couvrent une colline. A droite, un pont de pierre. Signe a gauche.
+
+Toile.Haut.,58 cent.;larg.,1 m. 07.
+
+## LEBOURG
+
+(ALBERT)
+
+30 —Bords de la Seine.
+
+Sur une cote,quittant la rive,des hommes et des chevaux de trait montent devant une maison basse;de nombreux bateaux animent le fleuve.A droite,une ile boisee.
+
+Signe a gauche.
+
+Toile.Haut.,35 cent.;larg.,65 cent.
+
+## LEBOURG
+
+(ALBERT)
+
+31 Vue de Hollande.
+
+Un canal traverse un village domine par des moulins a vent. A gauche, des hommes dechargent un bateau. Signe a gauche et date : 1895.
+
+Toile Haut.,42 cent.;larg.,63 cent.
+## 33
+
+## LEBOURG
+
+(ALBERT)
+
+## 32—Vue du Pont-Neuf.
+
+Des mariniers et des promeneurs sont au bord de lecluse.Au dela du pont traverse par les omnibus,les maisons de la Cite,la fleche de la Sainte-Chapelle et, dans le fond,les tours de Notre-Dame.
+
+Signe a gauche.
+
+Toile.Haut.,46 cent.;larg.,70 cent.
+
+## LEBOURG
+
+(ALBERT)
+
+## 一 Un Village pres de Rouen.
+
+La Seine tourne devant les collines crayeuses dominees par la verdure. Des chalands, des bateaux de bois, sont amarres dans un port, devant les constructions d'une usine dont la cheminee s'eleve au centre.
+
+Signe a gauche.
+
+Toile.Haut., 62 cent.; larg.,98 cent.
+## 34 一
+
+35—Le Canal.
+
+Il est traverse par un pont devant une usine. Un bateau charge de paille est remorque au centre.A droite,une route bordee de peupliers.
+
+Signe et date : 1898.
+
+Toile.Haut.,46 cent.;larg.,63 cent
+
+## LEBOURG
+
+(ALBERT)
+
+L'Inondation.
+
+Sous le jour pale de l'aurore, un cours d’eau baigne les arbres qui s'elevent sur ses rives.
+
+Signe a gauche et date : 1891.
+
+Toile.Haut.,46 cent.;larg.,63 cent.
+
+36
+
+## LEBOURG
+
+(ALBERT)
+
+## Bords de la Seine, effet de neige.
+
+Une large route plantee d'arbres accede a un village bati aux pieds de collines boisees. Deux personnages marchent dans la neige. A droite,le fleuve bleu sous un gai soleil d'hiver.
+
+Signe a droite.
+
+Toile.Haut.,45 cent.;larg.,74 cent.
+
+## LEBOURG
+
+(ALBERT)
+## LEBOURG
+
+(ALBERT)
+
+Route a travers champs.
+
+Une paysanne, conduisant une vache devant elle, suit une route bordee de grands arbres.
+
+Signe a droite.
+
+Toile.Haut.,50 cent.；larg., 63 cent.
+
+## LEBOURG
+
+(ALBERT)
+
+38 —La Route de Bonnieres.
+
+Elle s'ouvre entre les maisons du village, bordee d'arbresettoute ensoleillee.Une charrette est accompagnee par un homme a pied. Dans le fond, le clocher de l'eglise, sous le ciel bleu tache de quelques nuages blancs.
+
+Signe a gauche et date: Bonnieres,1895.
+
+Toile. Haut., 46 cent.; larg.,63 cent.
+
+## LEBOURG
+
+(ALBERT)
+
+Le Port de Boulogne.
+
+Des dames et des enfants se promenent sur un quai, devant lesbatiments du service maritime.Au centre,un steamerenpartance.
+
+Dans le fond, la jetee; au large, des barques et des bateaux a voiles.
+
+Signe a droite.
+
+Toile.Haut.,45 cent.:larg.,83 cent.
+## LEBOURG
+
+(ALBERT)
+
+Route aux environs de Rouen.
+
+Elle est toute enveloppee de brumes dorees par un soleil d'hiver.
+
+Au centre, une charrette attelee d'un cheval blanc.
+
+A droite,devant les maisons d’un village,un homme tenant une fillette par la main.
+
+Signe a droite.
+
+Toile. Haut,50 cent.;larg.,72 cent.
+
+## LEBOURG
+
+(ALBERT)
+
+Les Chalands.
+
+Ils sont alignes sur la Seine, pres d'une large berge bordee de maisons. Des troncs d'arbres sont deposes sur la rive. Dans le fond,on distingue les deux arches d'un pont.
+
+Signe a droite et date : 1891.
+
+Toile. Haut.,40 cent,larg.,63 cent.
+
+## LEBOURG
+
+(ALBERT)
+
+Riviere a l'entree d'une ville.
+
+Elle coule entre deux berges couvertes d'herbes. Des maisons aux toits d'ardoises se detachent sur le fond, avec le clocher d'une eglise.
+
+Signe a gauche.
+
+Toile. Haut.,39 cent.;larg.,71 cent,
+## 45
+
+## 一
+
+## LEBOURG
+
+(ALBERT)
+
+## L'Allier a Pont-du-Chateau.
+
+Le cours d'eau baigne la ville,dont le clocher s'eleve a droitevers le fond.
+
+A gauche, une femme et un enfant sur une rive ver- doyante.
+
+Signe et date: 1885.
+
+Toile.Haut.,44 cent.;larg.,83 cent.
+
+## LEBOURG
+
+(ALBERT)
+
+## Vue de Pont-du-Chateau.
+
+La ville s'etage dans le fond, sur une colline, au bord de la riviere qui coule au premier plan. Effet de soleil couchant.
+
+Signe a gauche.
+
+Toile.Hant.,45 cent.;larg.,73 cent.
+
+## LEBOURG
+
+(ALBERT)
+
+La Tombee du jour.
+
+Les eaux d'un fleuve refletent la lumiere du crepuscule. A gauche,une charrette attelee de deux chevaux suit une route bordee de grands arbres.
+
+A droite, des ilots boises.
+
+Signe et date: 1889.
+
+Toile.Haut.,46 cent.;larg.,75 cent.
+## LEBOURG
+
+(ALBERT)
+
+46 一 Vue de Rouen.
+
+Des chalands sont alignes sur la Seine au bord d'un quai. A gauche, une ile. Vers le fond, la ville sous un ciel embrase par le coucher du soleil.
+
+Signe a droite.
+
+Toile. Haut.,38 cent.;larg,70 cent.
+
+## LEBOURG
+
+(ALBERT)
+
+<!-- image -->
+
+lls sont amarres au bord de la Seine,a un tournant du fleuve. Dans le fond, sur la rive opposee, des maisons et des usines.
+
+Signe a gauche.
+
+Toile.Haut., 37 cent.,larg.,70 cent.
+
+## LEGROS
+
+(ALPHONSE)
+
+La Lecon de geographie. 48
+
+Une maitresse d’école, appuyee sur une mappemonde, est entouree de fillettes attentives.
+
+Fond de tapisserie. Signe en haut et a gauche.
+
+Toile. Haut.,1 m.50;larg., 1 m. 05.
+
+Vente Dalou, n 7.
+50 —Le Calvaire.
+
+Des paysannes en manteaux noirs, coiffes blanches, sont agenouillees dans la campagne devant un crucifix. Signe a gauche.
+
+Toile.Haut., 91 cent.;larg.,72 cent.
+
+## LEGROS
+
+(ALPHONSE)
+
+- Buste de femme.
+
+De profil a gauche,les cheveux blonds,une ruche de mousseline autour du cou.
+
+Signe des initiales.
+
+Toile.Haut.,40 cent;larg.,32 cent.
+
+## LEMAITRE
+
+(DEUX PENDANTS)
+
+- 52 La Marchande de pain arabe.
+- 53 — Le Joueur de flite.
+
+Signes a gauche.
+
+## LEGROS
+
+(ALPHONSE)
+
+## Portrait de l artiste et du sculpteur Rodin.
+
+Representes en buste,l'un en moine tenant un livre d'heures, l'autre en cardinal. Signe a droite.
+
+Toile.Haut.,58 cent.;larg.,72 cent.
+
+## LEGROS
+
+(ALPHONSE)
+
+Bois. Haut.,21 cent.;larg.,15 cent.
+## LEPINE
+
+(STANISLAS)
+
+## 54 —La Route du village.
+
+Elle s'ouvre toute droite entre deux murs,descendant au village.
+
+Deux commeres s'entretiennent;un paysan en blouse est vu de dos.
+
+Vers le fond, des batiments conventuels dominent les maisons rustiques aux toits de tuiles.
+
+Signe a droite.
+
+Toile.Haut.,46 cent.;larg.,55 cent.
+## MEISSONIER
+
+(JEAN-LOUIS-ERNEST)
+
+## 55—Vue de Venise.
+
+Un campanile et le dome d'une eglise dominent des constructions qui s'elevent au bord d''un canal, dans le clair soleil d'une journee d'ete.
+
+Signe a gauche, du monogramme.
+
+Bois.Haut.,14 cent.; larg.,23 cent.
+56—L'Hiver.
+
+Un etang glace sous la neige blanche est entoure d'arbres, d'arbustes ct de broussailles enveloppes de givre aux reflets roses et bleus.
+
+Au premier plan, une barque est figee dans la glace. Le ciel est gris, lourd de nuages opaques.
+
+Signe a droite.
+
+## MONET
+
+(CLAUDE)
+
+Toile.Haut.,60 cent.;larg.,80 cent.
+57 ranee.
+
+## OLIVIER
+
+Bois.Haut.,58 cent.;larg.,72-cent.
+## PISSARRO
+
+(CAMILLE)
+
+## 58 —La Jardiniere.
+
+Dans un jardin ensoleille par une chaude journee d'ete, une jeune paysanne en corsage rouge, tablier bleu, bonnet blanc,poussant une brouette de choux, suit une allee bordee d'une haie.
+
+Derriere elle,une fillette aux cheveux blonds en desordre,tient une badine.
+
+Dans le fond, des maisons rustiques entourees d'arbres. Signe a gauche et date : 1892.
+
+Toile.Haut.,46 cent.;larg.,37 cent.
+## REGOYOS
+
+(DE)
+
+59 — La Promenade du soir.
+
+Toile.Haut.,60 cent.;larg,50 cent.
+
+## RIBOT
+
+(THEODULE)
+
+60 一 Trois figures de femmes.
+
+Une vieille, les yeux baisses sur un livre qu'elle gris double de rouge et une autre jeune fille blonde, de regarde a la loupe;une jeune fille coiffee d'un capuchon profil, les cheveux pendants.
+
+Signe a gauche.
+
+Toile.Haut.,53 cent.:larg.,59 cent.
+## 19
+
+## ROUSSEAU
+
+(THEODORE)
+
+## La Mare dans la foret.
+
+En un coin de la foret de Fontainebleau,aux environs de Bas-Breau: a gauche, les grands arbres aux armatures torturees dressent leurs frondaisons deja roussies par l'automne. A droite,au creux d''une étroite clairiere, une mare eclaire le miroir de son eau transparente de tous les reflets qu'elle emprunte au ciel lumineux, ou les nuages gris menent leur chevauchee fugitive.
+
+On devine qu'un grand silence regne en ce lieu, un grand silence empli par le bruissement indefini des choses et de l'air.
+
+Panneau.Haut.,29 cent.;larg.,44 cent.
+## 62
+
+## SISLEY
+
+(ALFRED)
+
+## —La Machine de Marly.
+
+La Seine coule sous les arches du pont de pierre.A gauche, une rangee de peupliers borde la rive ou croissent des herbes hautes. Une femme s'appuie sur une perche de bois; plus loin, des pecheurs.
+
+Dans le fond, au dela des batiments,un bouquet d'arbres se detache sur le ciel aux nuages blancs legerement dores par le soleil.
+
+Signe a gauche et date: 88.
+
+Toile.Haut.,54 cent.:larg.,72 cent.
+63 -La Soupe.
+
+Dans un interieur, une femme sur une chaise offre une soupe a une fillette assise dans un fauteuil. Signe a droite.
+
+Toile. Haut., 36 cent.; larg.,62 cent.
+
+## VEUILLARD
+
+(E.)
+
+- 64 — Nature morte.
+
+Fleurs et objets inanimes.
+
+Signe a droite.
+
+Toile.Haut.,40 cent.;larg.,72 cent.
+
+## VILLAIN
+
+- 65 Fleurs, fromage et jambon.
+
+Signe a gauche.
+
+Toile. Haut.,73 cent.; larg.,92 cent.
+
+## VILLAIN
+
+66 — Plat d'huitres, cotelettes et objets inanimes.
+
+Toile.Haut., 80 cent.; larg.,1 m.12.
+
+## VEUILLARD
+
+(E.)
+## ZIEM
+
+(FELIX)
+
+## Environs de Venise.
+
+Le Grand Canal, hors la ville, est sillonne de barques montees par des rameurs. De nombreux bateaux, dont les mats se confondent, sont ancres au port. Quelques maisons s'elevent au centre, sous le ciel clair. Des voiliers voguent au large.
+
+Signe a gauche.
+
+Toile.Haut.,33 cent.:larg.,45 cent.
+
+<!-- image -->
+<!-- image -->
+
+## Aquarelles, Dessins, Pastels
+
+MODERNES
+
+## BARYE
+
+(ALFRED)
+
+68 —— Etudes de lions.
+
+Deux dessins au crayon noir dans un cadre.
+
+## BIDA
+
+(ALEXANDRE)
+
+Dessin pour illustration.
+
+Lavis de bistre rehausse de blanc.
+
+Signe a droite.
+
+Haut.,24 cent.;larg.,17 cent.
+
+## BONINGTON
+
+(RICHARDPARKES)
+
+70 -La Famille au perroquet:
+
+Une dame elegamment vetue d'une robe decolletee est assise sur un divan, tenant sur la main un perroquet. Une fillette blonde, en robe rouge, debout devant elle, regarde l'oiseau.
+
+Au second plan,un gentilhomme en grand chapeau de feutre,accoude sur un coussin.
+
+Aquarelle signee des initiales.
+
+69
+## BONVIN
+
+(FRANCOIS)
+
+## La Tricoteuse.
+
+Une jeune paysanne est assise sur une chaise, devant une table ou lon remarque, sur une nappe, une cruche et un plat. Coiffee d'un large bonnet blanc, les jambes croisees,un tablier protegeant sa robe de bure,elle tri- cote la laine dont lapelote est tombee a terre.
+
+Dessin au crayon noir.
+
+Signe a droite et date: 1861.
+
+Haut.,40 cent.;larg.,31 cent.
+
+CALS
+
+(ADOLPHE-FELIX)
+
+Paysan attable. 72
+
+Dessin au crayon noir et a l'estompe. Signe et date: 1871.
+
+Haut.,22 cent.; larg., 20 cent.
+
+## CALS
+
+(ADOLPHE-FELIX)
+
+- Vieille femme assise devant une fenetre.
+
+Dessin au crayon noir et a l'estompe, rehausse de blanc. Signe et date : 1878.
+
+Haut.,21 cent.; larg.,18 cent.
+
+## CAMBON
+
+(CHARLES-ANTOINE)
+
+Decor des a Chevaliers du brouillard . Dessin au fusain.
+
+Haut.,43 cent.;larg.,59 cent.
+## COROT
+
+(JEAN-BAPTISTE-CAMILLE)
+
+La Charrette.
+
+Une charrette,attelee de trois chevaux et portant plusieurs personnages, suit le tournant d'une route. Au premier plan, a gauche,un homme assis a terre. Dans le fond,le clocher d'un village.
+
+Dessin au fusain et a l'estompe. Signe a droite.
+
+Haut.,30 cent.；larg.,47 cent.
+
+## DECAMPS
+
+(ALEXANDRE-GABRIEL)
+
+Le Fumeur turc.
+
+Dessin a la pierre d'Italie. Signe des initiales.
+
+## HUARD
+
+(PIERRE)
+
+Paysanne assise.
+
+Dessin au crayon noir, rehausse de sanguine et de blanc.
+
+Signe a gauche.
+
+## ISABEY
+
+(EUGENE)
+
+Bateaux de peche echoues sur une plage.
+
+Dessin au crayon noir,rehausse de blanc. Signe du monogramme.
+
+Haut.,16 cent.:larg.,29 cent.
+
+Haut.,14 cent.;larg.,12 cent.
+
+Haut.,47 cent.;larg.,41 cent.
+81
+
+82
+
+## JACQUE
+
+(CHARLES)
+
+Patre et animaux devant une ferme. 79
+
+Dessin au crayon noir. Signe a'droite.
+
+Haut.,19 cent. larg.,28 cent.
+
+## JONGKIND
+
+(JEAN-BERTHOLD)
+
+80 — Une Rue de village.
+
+Au dela d'un pont de bois protegepar une balustrade, une rue s'ouvre au centre, bordee de maisons rustiques couvertes de tuiles.Des villageoises et des enfants'se promenent. Dans le fond, un clocher.
+
+Aquarelle signee et datee:57.
+
+Haut.,39 cent.;larg., 28 cent.
+
+## LEGROS
+
+(ALPHONSE)
+
+La Fillette a la poupee.
+
+Dessin au crayon noir. Signe et dedie: A mon ami Brandon.
+
+Haut.,26 cent.;larg.,21 cent.
+
+## LEPERE
+
+(V)
+
+Les Fortifications, a Grenelle. Aquarelle signee et datee:1903.
+
+Haut.,16 cent.; larg., 32 cent.
+85 a 89
+
+## MILCENDEAU
+
+(G.)
+
+83— Paysanne et son enfant.
+
+A droite,une autre femme tricotant.
+
+Pastel.
+
+Signe a gauche et date : 1901.
+
+Haut.,75 cent.; larg., 63 cent.
+
+## MILCENDEAU
+
+(G.)
+
+84 — Femmes dEspagne.
+
+Assises ou debout, devant une maison au mur vivement éclaire par le soleil, trois femmes sont vetues d'etoffes aux teintes éclatantes;une autre, tout en noir, est assise a droite.
+
+Pastei.
+
+Signe et date : 1901.
+
+Haut., 72 cent.; larg., 89 cent.
+
+## MONNIER
+
+(HENRI)
+
+Les Solliciteurs.
+
+Suite de cinq aquarelles signees, datees et dediees a Mene.
+
+Cette suite sera divisee.
+
+Haut., 18 cent.; larg., 24 cent.
+L'Avocat. 90
+
+Aquarelle.
+
+Signee et datee: Juin 1866, et dediee A mon vieux
+
+Carrier.
+
+Haut.,24 cent.； larg.,16 cent.
+
+16
+
+## PIGAL
+
+(EDME-JEAN)
+
+La Cranioscopie du D Gall.
+
+92 一 La Consultation-du medecin.
+
+93 Le Bain de pieds.
+
+Trois aquarelles.
+
+## PIGAL
+
+(EDME-JEAN)
+
+La Perruque enlevee. 94 Aquarelle.
+
+## RIBOT
+
+(THEODULE)
+
+Haut.,20 cent., larg., 15 cent.
+
+Haut., 19 cent.; larg.,15 cent.
+
+## MONNIER
+
+(HENRI)
+
+Bacchanales.
+
+Bacchus, couronne de pampres,titube entre deux faunes.
+
+Dessin au lavis d'encre de Chine.
+
+Signe a droite et date:1872.
+
+Haut., 29 cent.;larg., 22 cent.
+## RODIN
+
+(AUGUSTE)
+
+Etude de femme.
+
+Dessin au crayon noir lave d'aquarelle. Signe a droite.
+
+Haut., 32 cent.; larg.,25 cent.
+
+## ROUSSEAU
+
+(THEODORE)
+
+97 Arbres et rochers.
+
+Dessin au crayon noir.
+
+Haut., 13 cent.; larg., 20 cent.
+
+## ROYBET
+
+(FERDINAND)
+
+Le Joueur d'echecs.
+
+Dessin au crayon noir.
+
+## ROYBET
+
+(FERDINAND)
+
+Un Musicien. 99
+
+Dessin a la plume.
+
+Haut.,26 cent.; larg., 20 cent.
+
+Haut., 17 cent.; larg., 14 cent.
+I0I
+
+## TROYON
+
+(CONSTANT)
+
+100 一 Bords de la Seine.
+
+Au bord du fleuve,une charrette attelee d'un cheval bai brun, puis un pecheur dans une barque. Ciel bleu.
+
+Pastel.
+
+Signe en bas, a gauche : C. T.
+
+Haut.,22 cent.;larg.,33 cent.
+
+## VIBERT
+
+(JULES-LOUIS)
+
+L'Apothicaire.
+
+Dessin a la plume et au lavis d'encre de Chine.
+
+Haut.,24 cent.;larg.,17 cent.
+
+- Dessins et aquarelles par : BiDa, CicERI, 102 FORTUNY, FROMENTIN, GAY,. GRANDVILLE, LEGROS,MARLET,NUMA,TRAVIER,etc.
+
+Ce numero sera divise.
+
+<!-- image -->
+<!-- image -->
+
+## Tableaux, Aquarelles, Dessins, Pastel
+
+ANCIENS
+
+## BOUCHER
+
+(FRANCOIS)
+
+Paris,1703-1770.
+
+—Le Bain de la bergere.
+
+Un berger agenouille,retirant les bas d'une bergere en chemise qui va se mettre a l'eau; derriere,une femme qui commence a se deshabiller;a droite et au premier plan, un chien assis.
+
+Dessin sur papier jaune,a la pierre d'Italie,rehausse de craie.
+
+Haut., 26 cent.;larg., 23 cent.
+
+Vente de Goncourt,n 27.
+
+## BOUCHER
+
+(ECOLEDE)
+
+104— Composition allegorique.
+
+Une jeune femme, tenant une clef, est assise dans la campagne. Un amour appuye sur ses genoux caresse un
+
+Dessus de porte.
+
+chien couche pres d'elle.
+
+Toile.Haut.,55 cent.；larg.,1 metre.
+
+103
+## 105
+
+## GOCHIN
+
+(CHARLES-NICOLAS)
+
+Paris,1715-1790.
+
+Que faites-vous ? Il nest pas Italien！ C'est un Florentin...
+
+Scene d'illustration. Dessin a la sanguine. Signe et date : 1772.
+
+Haut.,11 cent.； larg.,17 cent.
+
+## GOYA Y LUCIENTES
+
+、(FRANCOIS)
+
+Aragon,1746-1828.
+
+106 Portrait du maitre.
+
+En buste, de profil a gauche,habit a larges revers, cravate blanche nouee sous le menton.
+
+Bois.Haut.,16 cent.;larg,12 cent.
+
+Vente Muhlbacher,1907,n°31.
+
+## GREUZE
+
+(JEAN-BAPTISTE)
+
+Tournus,1725-1805.
+
+107 La Salutation.
+
+Une jeune femme, vetue d'une robe blanche a la jupe bouffante,manches courtes avec noeuds de rubans rouges, debout sur le seuil d'une porte,les bras tendus,le haut du corps incline en avant, semble saluer un personnage invisible.
+
+Dessin au crayon noir et a Pestompe, rehausse de sanguine.
+
+Haut., 49 cent.: larg.,31 cent.
+601
+
+## HUET
+
+(JEAN-BAPTISTE)
+
+Paris,1745-1811.
+
+108 La Route du marche.
+
+Des bergers poussent devant cux de nombreux troupeaux. Un ane, portant un bat, lourdement charge de bagages, chemine avec peine, entoure de moutons.
+
+Vers le centre,un patre dont le manteau est agite par le vent, leve son baton entre deux boeufs.
+
+Au premier plan et a droite,un chien.
+
+Dessin a la sanguine,rehausse de blanc.
+
+Signe et date : 1770.
+
+Haut.,32 cent.;larg.,46 cent.
+
+Cadre en bois sculpte.
+
+## LANCRET
+
+(NICOLAS)
+
+Paris,1690-1743.
+
+Feuille d'etudes.
+
+Un mezzetin debout, vu de dos, faisant un geste; un artiste assis et dessinant sur ses genoux; un homme charge et marchant vers la droite.
+
+Au verso, deux figures.
+
+Dessin a la sanguine.
+
+Haut.,24 cent.; larg., 23 cent.
+
+Vente Defer-Dumesnil,n° 167.
+## LENOIR
+
+(SIMON-BERNARD)
+
+Paris,1729-1789.
+
+## Portrait d'un officier. 110
+
+Represente en buste,tourne vers la gauche,coiffe d'une perruque a catogan, il porte un habit galonne d'or orne de la croix de Saint-Louis.
+
+Pastel, signe a droite et date: 1766.
+
+Haut..56 cent.;larg.,45 cent.
+
+## MEISSONNIER
+
+(JUSTE-AURELE)
+
+Ecole francaise, xv m siecle.
+
+## Projet d'un grand chandelier pour le Roy. III
+
+Candelabre a cinq lumieres,imagine dans le serpentement et lentre-croisement des branchages;un aigle dans la niche formee en bas par les tortils de la rocaille, un amour soutenant la plus haute girandole.
+
+Dessin au crayon noir,a la plume et a lencre de
+
+Chine,lave d'une teinte jaune. Ila ete mis au carreau.
+
+Haut.,29 cent.;larg.,19 cent.
+
+Grave dans lceuvre de Meissonnier sous le titre:Projet dun grand chandelier pour le Roy
+
+A figure a l'Exposition de l'Ecole des Beaux-Arts,en 1879 sous le n495.
+
+αLe flambeau a cinq lumieres,grave dans l'ceuvre de Meissonnier sous le titre:Projet d'un grand chandelier pour le Roi,est un morceau vraiment royal de lorfevrerie du xvne siecle,tres maniere,tres tourmente et tres rocaille,et aussi tres somptueux. (Etude sur les dessins de maitres anciens erposes a lEcole des
+
+Beaux-Arts en 1879,par le marquis de Chennevieres.)
+
+Vente de Goncourt, n° 189.
+## MOREAU LE JEUNE
+
+(JEAN-MICHEL)
+
+Paris,1741-1814.
+
+## L'Enlevement des Sabines. 112
+
+Au premier plan, la foule des ravisseurs; plus loin, parmi des constructions romaines, on remarque une statue de Neptune sous un temple circulaire a colon- nade.
+
+Dessin au lavis d'encre de Chine et de bistre.
+
+Haut.,20 cent.;larg.,15 cent.
+
+Cadre en bois sculpte.
+## PATER
+
+(JEAN-BAPTISTE)
+
+Valenciennes,1696-1736.
+
+113 Jeune femme assise.
+
+Tournee de trois quarts vers la droite,la tete inclinee sur l'epaule, elle porte une robe decolletee, a large jupe. Dessin a la sanguine.
+
+Haut.,15 cent.;larg.,17 cent.
+
+## PRUD'HON
+
+(PIERRE-PAUL)
+
+Cluny,1758-1823.
+
+Modele du bras de fauteuil, pour lameu- blement de lImperatrice Marie-Louise.
+
+Accroupie sur ses pieds,un ruban lui servant de guide,
+
+Psyche est trainee par lAmour a genoux et dont les mains sont enchainees derriere le dos.
+
+Dessin a la pierre d''Italie, sur papier jaunatre. Grave par Jules de Goncourt.
+
+Haut., 21 cent.:larg.,36 cent.
+
+Ce dessin est lemodele du bras de fauteuil pour I'ameublement del'Imperatrice Marie-Louise,fondu par Thomire.
+
+ll porte la marque de M. His de la Salle, qui avait fait un echange avec Blaisot.
+
+Vente de Goncourt,n°243.
+## PRUD'HON
+
+(PIERRE-PAUL)
+
+## 115 Portrait de l'Imperatrice Josephine.
+
+Couverte de voiles de gaze, assise a l'entree d'un palais, les jambes croisees, le bras droit accoude sur un socle, elle tourne la tete vers le spectateur.
+
+Etude.
+
+Dessin au crayon noir et a l'estompe.
+
+Haut.,25 cent.;larg.,19 cent.
+
+Cadre en bois sculpte.
+## ROBERT
+
+(HUBERT)
+
+Paris,1733-1806.
+
+116 Cour de ferme.
+
+Une jeune mere,tenant un enfant dans ses bras,gravit un escalier au pied duquel un petit garcon est assis. Sur les degres superieurs,une femme descend,portant des seaux d'eau. Du linge est etendu sur des poutres de bois.
+
+Au centre,un chien devant sa niche, formee d'un baquet.A droite, des paniers entasses.
+
+Dessin a la sanguine, avec lavis de bistre et traits de plume.
+
+Haut., 35 cent.; larg.,46 cent.
+
+## SAINT-AUBIN
+
+GABRIEL DE)
+
+Paris,1724-1780.
+
+Etudes de femmes. 117
+
+Dessin a la pierre d'Italie.
+
+Haut.,17 cent.;larg.,22 cent.
+
+## SAINT-AUBIN
+
+(GABRIELDE)
+
+118-ii9 —Deux croquis sur la mort de Montcalm. Dessins au lavis d'encre de Chine.
+
+Signes et dates : 1779.
+
+Haut.,7 cent.;larg.,13 cent.
+## SAINT-AUBIN
+
+(GABRIEL DE)
+
+## 120 Vitellius Germanicus.
+
+On lit en marge du dessin une longue inscription de l'artiste et la date:27mui1766.
+
+Dessin a la sanguine et au crayon noir avee lavis de bistre.
+
+Signe a gauche, du monogramme.
+
+Haut.,20 cent.;larg.,15 cent.
+
+Cadre en bois sculpte.
+122
+
+123
+
+## SCHENEAU
+
+(JEAN-ELEAZAR)
+
+Schenau,1745-1807.
+
+## La Partie de cartes. 121
+
+Deux dames sont assises a une table a jeu,etalant des cartes.
+
+Un homme en robe de chambre marron,debout et appuye au dossier d'un fauteuil, s'est leve pour discuter un coup.Deux jeunes gentilshommes, l'un assis a droite et lautre au centre et vers le fond,semblent attentifs aux arguments du joueur.
+
+Dessin au lavis d'enere de Chine et d'aquarelle.
+
+Haut.,38 cent.;larg.,30 cent.
+
+Cadre en bois sculpte.
+
+## TOUZE
+
+(JACQUES)
+
+Ecole francaise, xv siecle.
+
+(DEUX PENDANTS)
+
+Le Montreur de Marionnettes.
+
+Le Montreur de Singes.
+
+Scenes de la rue, a nombreux personnages.
+
+Dessins a la pierre d'Italie.
+
+Haut.,27 cent.；larg.,26 cent.
+
+Cadres en bois sculpte.
+126
+
+## TRINQUESSE
+
+(LOUIS)
+
+Eecole francaise, xvi siece.
+
+Portrait de lartiste.
+
+En buste, tourne de profil vers la droite,les cheveux boucles releves sur le front, il porte une redingote ouverte sur un jabot de mousseline.
+
+Dessin de forme ronde, a la sanguine.
+
+Signe: L.-R. Trinquesse, par lui-meme, en 1794,An II.
+
+Cadre en bois sculpte.
+
+## TRINQUESSE
+
+(LOUIS)
+
+125 Jeune femme assise dans un interieur, les pieds sur un tabouret de paille.
+
+Dessin a la sanguine.
+
+Diam.,10 cent.
+
+Haut.,34 cent.; larg.,27 cent.
+
+Collection de Goncourt,n 321.
+
+VAN LOO
+
+(CARLE)
+
+Nice,1705-1765.
+
+Jeune femme assise,tenant un devidoir.
+
+Dessin au crayon noir rehausse de blanc sur papier bleu.
+
+Haut., 33 cent.:larg., 30 cent.
+## VAN LOO
+
+(CARLE)
+
+## Portrait d’'un architecte.
+
+Dessin au crayon noir rehausse de blanc sur papier bleu.
+
+Haut., 25 cent.; larg., 30 cent.
+
+## VAN LOO
+
+(CARLE)
+
+128 Portrait de femme.
+
+Coiffee d'un bonnet,vetue d'une robe a manches courtes et a large jupe, elle est assise dans un interieur devant une cheminee,tricotant.
+
+Dessin au crayon noir sur papier bleu.
+
+Signe a droite.
+
+Haut.,46 cent.;larg.,32 cent.
+
+Cadre en bois sculpte.
+
+## ECOLE FRANCAISE
+
+(xvI siecle)
+
+129 Les Amateurs de whist.
+
+Une dame et un gentilhomme sont assis devant une table a jeu, ce dernier lisant les lois du jeu de whist.
+
+Bois.Haut.,26 cent.;larg.,20 cent.
+
+<!-- image -->

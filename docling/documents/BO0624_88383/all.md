@@ -1,0 +1,1665 @@
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+geb.1852 in Munchen, gest.1914 daselbst.
+
+I Zicklein und Stallhasen. Bezeichnet:J.Adam. Abbildung Tafel VII.
+
+Ol auf Holz. 49.5 X 66 cm. Goldrahmen.
+
+3000
+
+## Theodor Alt
+
+geb.zu Dohlau b. Hof 1846, lebt in Ansbach.
+
+Aus einem alten Stadtchen. Blick auf eine Gasse, einen Hof mit bluhenden Baumen und Kirchtirme. Bezeichnet:Th.Alt. Aquarell auf Papier. 42 X 34 cm. Dunkler Rahmen. Abbildung Tafel II.
+
+4o
+
+Landhauser unter Baumen am Bach in der Halbsonne.
+
+Bezeichnet: Th.Alt.
+
+Aquarell.35.5 X 27 cm. Dunkler Rahmen.
+
+Abbildung Tafel XXVI.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+1607
+
+## Julius Adam
+
+## M.Barbasan
+
+geb. 1864 in Saragossa, lebt in Anticoli Corrado.
+
+Ziegenherde in einem felsigen Waldtal mit einem italienischen Madchen als Staffage. Bezeichnet: M. Barbasan, Roma 1910. O1 auf Leinwand.28,5X 19 cm. Gerahmt.
+
+## Karl Albert Baur
+
+geb. 1851 in Minchen,gest. 19o7 in Unterammergau.
+
+Motiv bei Frauenberg im Altmihltal in Regenstimmung.
+
+## Guila Beda
+
+lebt in Dachau.
+
+Mitterndorf bei Dachau. Kirche und Pfarrhaus. Im Vordergrund die Amper.
+
+Bezeichnet:Baur.
+
+Bezeichnet:Beda.
+
+Abbildung Tafel XXIX.
+
+O1 auf Leinwand. 85 X 1o1 cm. Dunkler Rahmen.
+
+## A.J.Benedikter
+
+Bauernhof am Wasser in der Fruhlingssonne.
+
+<!-- image -->
+
+<!-- image -->
+
+150,
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+geb.1843 in Dischingen i. W., lebt in Pasing b. Munchen.
+
+Bezeichnet:J.Benedikter. O1 auf Leinwand. 53.5X 73 cm. Goldrahmen.
+
+Bezeichnet:Benedikter 1900.
+
+Oberbayerische Landschaft mit Getreidefelder, Wiesen,Wege und Berge im Hintergrund.
+
+Mannerkopf mit Bart. Frontalansicht.
+
+O1 auf Holz. 41 X 28,5 cm. Goldrahmen.
+
+Abbildung Tafel IV.
+
+Bartiger Mannerkopf. Benediktinermonch in schwarzem Habit. Frontalansicht.
+
+Abbildung Tafel XIV.
+
+Bezeichnet:Benedikter 1869.
+
+0l auf Holz. 275 X 40,5 cm. Goldrahmen.
+
+01 auf Leinwand. 61 X 54,5 cm.Gerahmt.
+
+Italienischer Brigant, die gespannte Flinte in den Handen.
+
+Bezeichnet:J.Benedikter 1869. Ol auf Leinwand. 67 X 55,5 cm. Dunkler Rahmen. Abbildung Tafel XXXI.
+
+Schlafendes Kind auf weiBem Kissen und Linnen.
+
+Abbildung Tafel VIII.
+
+Bezeichnet:A.J.Benedikter.
+
+01 auf Leinwand. 71 X go,5 cm. Gerahmt.
+
+Kuicheninneres. Im Vordergrund links Kichentisch mit Gemise und Schisselrahmen. Im Hintergrund rechts Madchen am Herdfeuer.
+
+Abbildung Tafel VII.
+
+01 auf Leinwand. 30,5X 38,5 cm.Goldrahmen.
+
+Bezeichnet:Benedikter 1887.
+
+O1 auf Pappe. 24,5X 32 cm.Gerahmt.
+<!-- image -->
+
+- Bezeichnet: J.Benedikter 1894. Ol auf Leinwand. 112,5X 87.5 cm. Goldrahmen. Abbildung Tafel XXXI.
+
+- 12525 Herbst. Alter Holzstrunk am Wasser und davor Blaukrautkopf. Dahinter Krautgarten und herbst- liche Landschaft.
+
+Bezeichnet:J.Benedikter.
+
+O1 auf Leinwand. 5.5 X 66,5 cm. Goldrahmen.
+
+Abbildung Tafel III.
+
+- 16 Romanisches Portal des Klosters Villie la ville. Im Vordergrund ein auf einem Stein sitzendes Madchen mit rotem Rock.
+
+Bezeichnet:J.Benedikter.
+
+01 auf Leinwand. 71 X 57 cm. Goldrahmen.
+
+Abbildung Tafel 11.
+
+Bezeichnet:J.Benedikter 1874.
+
+01 auf Leinwand. 74.5 X 58 cm. Goldrahmen.
+
+Abbildung Tafel I1.
+
+- 18 Reichsstall in Rothenburg in Abendbeleuchtung mit Staffage.
+
+Bezeichnet:J.Benedikter 1874.
+
+O1 auf Leinwand. 77 X 62,5 cm. Goldrahmen.
+
+Abbildung Tafel II.
+
+- Lilien. WeiBe und violette Schwertlilien im Wasserglase am Fenster mit gelben Vorhangen. 19 Bezeichnet: J. Benedikter. O1 auf Leinwand. 68,5 X 54.5 cm. Dunkler Rahmen. 10@ Abbildung Tafel XIIl.
+
+## Francois Aug. Biard
+
+gest. 1882 zu Fontainebleau.
+
+- Bachchantin am Quell, mit entbloBtem Oberkorper, weiBem, wehenden Schleier und roter Draperie 20 um Huften und Beine.
+
+Bezeichnet:Biard 1850.
+
+O1 auf Holz. 49,7 X 36,6 cm,
+
+## Arnold Bocklin
+
+geb. 1827 zu Basel, gest. 1go1 in Fiesole b. Florenz.
+
+- Ein Triton sitzt auf einem von dem weiBen Gischt der Brandung umbrausten Felsen und blast auf 21 einer Muschel.
+
+O1auf Holz.8oX 56 cm. Goldrahmen. Bezeichnet:A.B. Besitz Generalkonsul K.Weinberg.Frankfurt.
+
+Abbildung Tafel I.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+30
+
+<!-- image -->
+
+## H.Breznick-Krsach
+
+- 22 Gefangenentransport. Zwei Gefangene durch den Schnee stapfend, hinterdrein ein reitender Kosak. Bezeichnet:H.Breznick, Munchen. O1 auf Leinwand. 48X 1oo cm.Gerahmt.
+
+## A.Broch
+
+Blonder Madchenkopf zwischen Apfelbliten.
+
+Bezeichnet:A.Broch.
+
+01 auf Leinwand. Rund. 42 cm. Goldrahmen.
+
+## A.Brock-Meidling
+
+- Bezeichnet:A. Brock-Meidling. O1 auf Holz. 14 X 23,5 cm. Goldrahmen.
+
+## P.Burmeister
+
+lebt in Munchen.
+
+- Kircheninterieur. Sakramentshauschen.
+
+Ol auf Leinwand. 28X 2o cm.Gerahmt.
+
+Bezeichnet:P.Burmeister 188o.
+
+26 Hollandischer Pferdemarkt.Im Vordergrund Handler und Pferde. Im Hintergrund Hauser und Kirche. Ol auf Leinwand. 31,5X 42 cm. Goldrahmen. Bezeichnet:P.Burmeister.
+
+Hollandischer Fischerhafen mit Segelbooten.
+
+Aquarell. 31 X 23,5 cm. Gerahmt.
+
+Bezeichnet:P.Burmeister.
+
+28
+
+Am Kai. Unter Baumen Fuhrwerke und Pferde. Links Hafen mit Schiffen, Matrosen usw.
+
+Ol auf Leinwand. 33X 4I cm.Gerahmt.
+
+Bezeichnet: P.Burmeister I900.
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- Hafen mit Segelschiffen. Am Kai Pferde und Fuhrmann. Im Hintergrund Haus mit Baumen. 29 O1 auf Leinwand. 33 X 46,5 cm. Goldrahmen. Bezeichnet:P.Burmeister. Abbildung Tafel XVI.
+
+- Ackerpferde. Ein Schimmel und ein Fuchs auf dem Karrenweg. Fuhrmann mit der Peitsche geht 30 voran.Im Hintergrund Gebirgslandschaft.
+
+Ol auf Holz. 31,5 X 22 cm. Goldrahmen.
+
+Bezeichnet:P.Burmeister,Munchen.
+
+Abbildung Tafel IX.
+
+- 31 Aus der Au bei Munchen. Aquarell. 27,5 X 36 cm. Gerahmt. Bezeichnet:P. Burmeister 1891.
+
+## Peter Burnitz
+
+800
+
+geb.1824 zu Frankfurt a.M., gest. 1886 daselbst.
+
+32 Abendlandschaft. Links herbstlicher Wald. Im Hintergrund Dorf und Hohen.
+
+01 auf Leinwand. 24,5 X 36,5 cm. Gerahmt.
+
+Bezeichnet:Burnitz.
+
+## Bernhard Buttersack
+
+geb.1858 in Stuttgart, lebt in Heimhausen b. Minchen.
+
+- S2033 Bauernhauser an der DorfstraBe bei regnerischer Luft. Ol auf Papier. 27 X 37 cm. Gerahmt. Bezeichnet:Buttersack 1881.
+
+- 34 Fruhling. Landschaft mit bluhender Wiese,Baumen und bewolktem Himmel. 01 auf Leinwand. 27,5 X 42,5 cm. Goldrahmen. Bezeichnet:B.Buttersack 1883.
+
+S7
+
+- 35 FluBlandschaft mit Moranenhigel und bewolkter Luft. Bezeichnet:B.Buttersack 1883. O1 auf Malpappe. 25,5 X 30,5 cm. Dunkler Rahmen.
+
+- Fruhlingslandschaft. Abendstimmung. 36 Bezeichnet:B. Buttersack 1884. O1 auf Leinwand. 28 X 43 cm. Dunkler Rahmen.
+
+200
+
+- 37 Weiher und Wiese. Im Hintergrund Baume. 01 auf Pappe. 28,5 X 38,5 cm. Gerahmt. Bezeichnet:B.Buttersack 1888.
+
+- 38 Herbstlandschaft. Weg mit herbstlich belaubten Birken. Ol auf Leinwand. 43 X 28 cm.Goldrahmen. Bezeichnet:Buttersack 1889. Abbildung Tafel XI.
+
+- 39 Getreideschober auf dem Feld unter stark bewegter Luft. 0l auf Malpappe. 27 X 35 cm. Gerahmt. Bezeichnet:Buttersack 1889.
+
+S0
+
+- 040 FluBchen zwischen Wiesen und Weiden unter blauer, im Wasser spiegelnder Luft. Bezeichnet:Buttersack 92. 01 auf Malpappe. 26,5 X 40 cm. Gerahmt.
+
+- Landschaft. Bach und Wiese,Weide und Baume. O1 auf Leinwand. 27 X 39.5 cm. Dunkler Rahmen. Bezeichnet:B.Buttersack 1894.
+
+Haus mit weiBem Giebel unter Baumen am Wasser. Abendstimmung.
+
+Bezeichnet: B.Buttersack 1897.
+
+Ol auf Malpappe. 49,5 X 35 cm. Goldrahmen.
+
+## L.Correggio
+
+geb.1846 in Munchen, lebt daselbst.
+
+- 43 Sommerlandschaft. Im Vordergrund Waldbach mit Birken und Eichen am Ufer. Bezeichnet:L. Correggio. Ol auf Leinwand.52X59 cm. Goldrahmen.
+
+## P.Dahlen
+
+geb. 1881 zu Karlsruhe, lebt b. Achern i. Baden.
+
+Fliegende Schneegans in Winterlandschaft.
+
+Ol auf Leinwand. 62 X 85 cm. Gerahmt.
+
+Bezeichnet:Dahlen.
+
+250
+
+45
+
+Wildgans am Ufer eines Baches.
+
+Bezeichnet:Dahlen 15.
+
+Ol auf Leinwand. 71,5 X 81 cm.Goldrahmen.
+
+## Franz v. Defregger
+
+geb. 1835 zu Dolsach i. T., lebt in Munchen.
+
+- 46 Am Fenster sitzendes Madchen, den Kopf in die linke Hand gestitzt,in der Rechten einen Brief im SchoB haltend.
+
+Bezeichnet:Defregger 1879. Abbildung Tafel VI.
+
+01 auf Holz. 33 X 24.5 cm.Goldrahmen.
+- 49Ideallandschaft in Prellers Art.
+
+## K.Deri
+
+geb. 1859 in Bacs, Ungarn, lebt in Munchen.
+
+Ol auf Leinwand. 75 X 10o cm. Gerahmt.
+
+- 47 Mannliches Bildnis. Mann mit blondem Bart und weichem Hut. Frontalansicht.
+
+Bezeichnet:K.Deri.
+
+Ol auf Leinwand. 49X 39 cm. Gerahmt.
+
+- 48 Erlegter Auerhahn.
+
+Bezeichnet: K.Deri M.
+
+## Deutsche Schule
+
+erste Halfte des 19.Jahrhunderts.
+
+Bezeichnet:A.B.
+
+Getuschte und aquarellierte Zeichnung. 38X 47 cm. Goldrahmen.
+
+## Deutsche Schule
+
+um 18501860.
+
+A.R.
+
+- 50 Auf der Geisalpe. Figurenreiche Schilderung hauslichen landlichen Lebens.
+
+Bezeichnet:A.R.1860.
+
+Ol auf Leinwand. 41 X 5o cm. Gerahmt.
+
+## Deutsche Schule (neuere)
+
+um 18701880.
+
+- 51 Mannliches Bildnis. Kuinstlerkopf mit ergrauten Haaren. Profil.
+
+01 auf Leinwand. 35.5X 26,5 cm. Gerahmt.
+
+## F. Diehl
+
+(aus der Diezschule, Miunchen,hervorgegangen).
+
+- 52 Bildnis einer Dame mit uber die Schulter fallenden roten Haaren. Linke Hand auf der entbloBten Brust.
+
+Bezeichnet:F.D.
+
+01 auf Leinwand.69,5X 56,8 cm.Gerahmt.
+
+- 53 Madchenkopf. Blondine mit blauen Augen. Profil nach rechts geneigt.
+- O1 auf Leinwand. 56X 42,5 cm. Gerahmt. 54 Madchenkopf nach rechts oben gewandt mit offenem Hals und weiBem Halskragen. Profil. Beschadigt. Bezeichnet:F.Diehl 70. Ol auf Leinwand.48X 34 cm.Gerahmt.
+- 55 Mannerbildnis. Herr mit leicht ergrautem Kopf- und Barthaar, beide Hande auf den Stock gestuitzt. Bezeichnet:F.Diehl 85. Ol auf Leinwand.87X 63cm.Gerahmt. Abbildung Tafel XXXII.
+- 56 Kinder im Grinen. Bub mit roter Weste im Grase liegend, ein Madchen mit Korb davor.
+
+Abbildung Tafel XVI.
+
+Bezeichnet:F.Diehl 85.
+
+O1 auf Leinwand.35.5X 55,5 cm.Goldrahmen.
+
+- 57 Blumenstilleben.Seerosen.
+
+Bezeichnet:F. Diehl 85.
+
+0l auf Malpappe. 47 X 31 cm. Gerahmt.
+
+- 58 8Landliches Interieur.
+
+Bezeichnet:F. Diehl 89.
+
+01 auf Pappe. 34 X 46 cm. Gerahmt.
+
+## Wilhelm von Diez
+
+geb.1839 in Bayreuth,gest.1go7 in Munchen.
+
+- 59 Pferdestudie.Brauner im Profil. Bezeichnet: Studie v. Wilh.Diez,bestatigt Burmeister.
+
+Abbildung Tafel IX.
+
+O1 auf Holz. 32X 24.5 cm. Goldrahmen.
+
+- 60 Pferd auf der Weide.
+
+Bezeichnet:Diez.
+
+O1 auf Holz.21X23.5 cm. Goldrahmen.
+
+Abbildung Tafel IX.
+
+- 61 Altes Haus in Burghausen. Im Vorgarten bluihende Malven. Bezeichnet: Burghausen Igo2.Auf der Ruckseite beglaubigt v. Hans Diez. Abbildung Tafel XxVI. Aquarell.44X30cm. Goldrahmen.
+
+- 62 Altes Gemauer vor einem Bauernhaus von Baumen beschattet. Bezeichnet:NachlaBstempel. 0l auf Leinwand. 51,5 X 37,5 cm. Goldrahmen. Abbildung Tafel XVIII.
+- 641 Herbstlandschaft aus der Eifel.
+- 65 Strandlandschaft, Segelschiffe am Ufer mit Staffage. Im Hintergrund steile Kuste.
+
+## Diez-Schule, Munchen
+
+- 63 Fahrendes Volk. Schimmel vor einem zweiraderigen Karren, darauf eine Frau mit Kind an der Brust. Unvollendet. Ol auf Leinwand. 14 X 29,7 cm. Gerahmt.
+
+## Dusseldorfer Schule
+
+1840-1860.
+
+O1 auf Malpappe. 24,5 X 43.5 cm. Goldrahmen.
+
+Ol auf Leinwand. 42 X 57 cm. Gerahmt.
+
+## Robert Eberle
+
+geb. 1815 in Merseburg, gest. 186o in Eberfing b. Munchen.
+
+- 66 Landschaft. Im Vordergrund alter Karrenweg. Im Hintergrund Hugel und Baume. Bezeichnet:Robert Eberle. Ol auf Leinwand. 33 X 45 cm. Goldrahmen.
+
+## Carl Ebert
+
+geb. 1821 in Stuttgart, gest. 1885 in Munchen.
+
+O1 auf Holz. 42,5 X 27,5 cm. Goldrahmen.
+
+## Ludwig Eibl
+
+geb.1842 in Wien,gest. 1918 in Munchen.
+
+- 68 Stilleben. Fasan, Krug und Schissel mit Brot. Bezeichnet:L.Eibl. O1 auf Leinwand. 24X 36 cm.Gerahmt.
+
+## Anselm Feuerbach
+
+geb. 1829 in Speyer, gest. 188o in Venedig.
+
+- 69 Bildnis Otto Welckers. Junger blonder Mann mit Schnurr- und Kinnbart. Dreiviertelansicht nach links.WeiBes Hemd, Halskragen und schwarze Binde.
+
+O1 auf Leinwand.5oX39.5 cm.Goldrahmen. In Hermann Uhde-Bernays ,Feuerbach, des Meisters Gemaldeauf Seite 26 abgebildet. Abbildung Tafel V.
+
+## A.Fink
+
+geb.1846 in Munchen, gest.1g16 daselbst.
+
+- Winterbild. Beeister Bach und bereifter Auenwald zu beiden Seiten. Bezeichnet: A.Fink,Munchen. O1 auf Leinwand. 67 X go cm. Dunkler Rahmen.
+
+## Franzosische Schule
+
+um 1830—1850.
+
+- 71 Abend auf der Wahlstatt. Im Vordergrund ein unter dem Pferd liegender verwundeter Reiter, dem ein zweiter hilft. 01 auf Leinwand. 24,5 X 44.5 cm. Gerahmt.
+
+## Franzosische Schule
+
+19.Jahrhundert,um 185o—1860.
+
+- Ol auf Leinwand. 43 X 33.5 cm.Goldrahmen.
+- 72 Tanzerin in weibem Kleide (Krinoline), knieend. Um die Huften und in Handen Blumengirlande.
+
+## H.Frenzel
+
+- 73 Landschaft. Bauernhaus mit rotem Ziegeldach und bluhender Kastanienbaum in gruiner Sommer-
+- landschaft.
+
+Bezeichnet:H.Frenzel.
+
+O1 auf Leinwand. 75 X 99 cm. Goldrahmen.
+
+- 67
+- 70
+- Landschaft.
+
+Abbildung Tafel X.
+
+Bezeichnet:C.Ebert.
+## Oscar Frenzel
+
+geb.1855 in Berlin,lebt daselbst.
+
+- 74 Hollandische schwarz und weiB gefleckte Kihe auf der Weide. Bezeichnet:O.Frenzel.Fischerhude I9o9.
+- 01 auf Leinwand. 33.5X 5o,5 cm.Dunkler Rahmen.
+- Bezeichnet:O.Frenzel. Ol auf Leinwand. 4o X 55 cm. Dunkler Rahmen.
+
+## Alois Gabl
+
+geb. 1845 zu Wiesen i.T., gest. 1893 in Munchen.
+
+- 76 Bauernmadchen. Gesicht in Frontalansicht. Auf dem Kopfe rotgefuitterter Hut, blaues Mieder,gelbes Halstuch.
+
+O1 auf Holz. 38,5 X 31,5 cm. Goldrahmen.
+
+## E.v.Gebhardt
+
+geb.1838 in Esthland, lebt in Dusseldorf.
+
+- Bildnis des Malers Gefken in Profilstellung.
+- Bezeichnet: G. Auf der Ruickseite bemerkt:von Prof. v. Gebhardt in der Malklasse gemalt. 01 auf Leinwand. 38X 27 cm.Gerahmt.
+
+## Otto Gebler
+
+geb.1838 in Dresden, gest.1917 in Munchen.
+
+- 78 Kuhe und Schafe am Wasser. Im Vordergrund rote, weiBgefleckte Kuh. Bei den Schafen Hirtenjunge mit Schafchen im Arm. 01 auf Leinwand. 50,5 X 68 cm. Goldrahmen. Bezeichnet:Otto Gebler.
+
+Abbildung Tafel XIX.
+
+## Hugo v.Habermann
+
+geb. 1849 in Dillingen, lebt in Munchen.
+
+- 79
+
+- Landschaft mit Bauernhauser und Baumen, Weg und Bach davor.
+
+- Bezeichnet:H.v.Habermann 1866. Aquarell. 21,5 X 27 cm. Dunkler Rahmen.
+
+- 80 Bezeichnet:H.Habermann. Aquarell. 35 X 25,5 cm. Dunkler Rahmen.
+
+- Normannische gotische Landkirche. Vorderansicht mit reichem Portal.
+
+- 81 Klosterhof mit Staffage. Bezeichnet:H.Habermann 1866. Aquarell. 36X 25,5 cm. Dunkler Rahmen.
+
+## Karl Hagemeister
+
+geb.1848 in Werder, lebt daselbst.
+
+- 89 Bezeichnet:K.Hagemeister. Aquarell auf Papier. 44 X 64,5 cm.Goldrahmen. Abbildung Tafel XVIII.
+
+| 82   | 2Meereswogen am Strand. Bezeichnet:K.Hagemeister.                              | 01 auf Leinwand. 775 X 109,5 cm. Goldrahmen.   |             |
+|------|--------------------------------------------------------------------------------|------------------------------------------------|-------------|
+| 83   | Bluhende Wiese an der Havel. Bezeichnet:K.Hagemeister.                         | Ol auf Leinwand.70 X 10o cm.                   | Goldrahmen. |
+| 84   | Schwertlilien am Teich und im Schilf. Bezeichnet:Karl Hagemeister.             | Olauf Leinwand.113X73cm.                       | Goldrahmen. |
+| 85   | Aufgeblihte Teichrosen und Schilf. Bezeichnet:K.Hagemeister.                   | Olauf Leinwand.52X78cm.                        | Goldrahmen. |
+| 86   | WeiBe Seerosen auf grauem Wasserspiegel. Bezeichnet:K.Hagemeister.             | Ol auf Leinwand. 5o X 75,5 cm.                 | Goldrahmen. |
+| 87   | Teichrosen auf dem Wasserspiegel. Bezeichnet:K.Hagemeister.                    | O1 auf Leinwand.52,5X 78 cm.                   | Goldrahmen. |
+| 88   | Buche im Herbst gegen blaue bewolkte Luft. Bezeichnet:K.H. Abbildung Tafel XI. | Ol auf Malpappe. 66 X 50,5 cm. Goldrahmen.     |             |
+|      | Am Ufer.Gruines Schilf und Blattpflanzen am steinigen Ufer.                    |                                                |             |
+
+Bezeichnet: A.Gabl.
+Abbildung Tafel XxXII.
+
+## Edmund Harburger
+
+geb. 1846 In Eichstatt, gest. 19o6 in Munchen.
+
+- Der Loder. Kopf eines Oberlanders mit hohem, schwarzen, federgeschmickten Filzhut. 901 Bezeichnet:E.Harburger. Ol auf Holz. 19 X 14.5 cm. Goldrahmen. Abbildung Tafel XXI.
+- 91 Bacchant. Kopf eines weintrunkenen,mit Reblaub geschmickten Bacchanten. Bezeichnet:E.Harburger 1885. O1 auf Leinwand. 29X 27 cm. Goldrahmen. Abbildung Tafel XXI.
+
+## Ludwig Hartmann
+
+geb. 1835 in Munchen, gest.1go2 daselbst.
+
+- 92Pferdestall mit zwei Fuchsen und ein Brauner an der Krippe.
+- Bezeichnet:Ludwig Hartmann. Ol auf Malpappe. 22,5X 34 cm. Dunkler Rahmen.
+
+## S.Hartwig
+
+lebt in Munchen.
+
+- 93 Stallinneres mit Lichteinfall durch ein Seitenfenster.
+- Ol auf Holz. 26,5 X 36 cm. Goldrahmen.
+
+- Bezeichnet: S.Hartwig Lana 1884.
+
+## W.Hasselbach
+
+lebte in Munchen.
+
+- 94 Mutter und Kind am Spinnrocken am Ofen in einer alten Tiroler Stube. Bezeichnet:Wilh.Hasselbach Munchen 1879. Ol auf Leinwand. 57,5 X 44,5 cm. Gerahmt.
+
+## Hugo Havenith
+
+geb. 1853 in London, lebt in Munchen.
+
+- 95 Sitzender alter Bauer in der Sonne. Halbfigur.
+- Ol auf Leinwand. 33 X 22 cm.Gerahmt.
+
+- Bezeichnet:Hugo Havenith 18go Munchen.
+
+## A.Helberger
+
+- 96 Abendlandschaft. Im Vordergrund beschilfter Weiher. Im Hintergrund Baumgruppen im Abendrot und bewolkter grauer Luft.
+
+Bezeichnet: A. Helberger, Karlsruhe 93.
+
+O1 auf Leinwand. 81,5 X 6o,5 cm. Goldrahmen.
+
+## F.Hennings
+
+geb. 1839 in Bremen, lebte in Dusseldorf.
+
+- 97 Waldweg durch ein besonntes Buchengeholz. Bezeichnet:J.F.Henning. 01 auf Holz.62 X 83 cm. Goldrahmen.
+
+## O.Hierl-Deronco
+
+geb. 1859 zu Memmingen, lebt in Munchen.
+
+- 98 Studienkopf. Alter Mannerkopf in Pelzmitze und grauem Bart. Dreiviertel Profil nach links. Bezeichnet:Hierl Bern,72. Ol auf Leinwand. 45,5 X 34.5 cm. Goldrahmen. Abbildung Tafel IV.
+- Die Gefangennahme Ludwig XVI.von Frankreich. Erste Fassung zu dem gleichnamigen Historienbilde 01 auf Leinwand. 7o X 9I cm. Gerahmt.
+- Goldrahmen.
+- 99 Bezeichnet: Hierl Deronco 79. Abbildung Tafel VIII.
+- IOO Bildnis einer jungen Frau mit blauen Augen, dunkel gekleidet, Facher in den Handen. Bezeichnet:Hierl-Deronco 188o. Ol auf Leinwand.105X77om.
+- IOI Sitzender weiblicher Akt bei Lampenlicht. O1auf Leinwand.47X 35.5cm.
+- Bezeichnet:Hierl Deronco. Gerahmt.
+- 102 Schwarzbraunes Madel in Profilstellung, von rechts gesehen, mit entbloBtem Hals und Arm. O1 auf Leinwand. 75 X 61,5 cm. Gerahmt. Bezeichnet:Hierl. Abbildung Tafel VI.
+## R.Hirth du Frenes
+
+geb.1846 in Grafentonna, gest.1916 in Miltenberg.
+
+Bezeichnet:Hirth d. Fr.
+
+- 103 Mandolinenspielerin. Junges Madchen im Kostim,Mandoline in Handen,Halbfigur.
+
+Abbildung Tafel XXVIII.
+
+Ol auf Holz. 34 X 18.6 cm. Schwarzer Rahmen.
+
+## A.Hoelzel
+
+geb.1853 in Olmitz,lebt in Stuttgart.
+
+104 Feldweg zwischen Acker und Wiese. Im Hintergrund Haus und Baume. Auf dem Weg eine Frau. Bezeichnet:A.Hoelzel. O1aufLeinwand.6oX 49.5cm. Goldrahmen.
+
+## J.B.Hofner
+
+geb.1832 in Aresing,gest.1913 in Miunchen.
+
+- 105 Schwarzer Ziegenbock. Bezeichnet:Hofner 186o. Ol auf Leinwand. 56X 44 cm.Goldrahmen.
+
+106 Huhner vor der Ture eines Bauernhauses. Bezeichnet:Hofner 1889. O1 auf Malpappe. 29 X 38,5 cm. Dunkler Rahmen.
+
+107 Kopf eines Ackerpferdes im Profil. Bezeichnet:J. B. Hofner. Ol auf Malpappe. 22,5 X 29 cm.Goldrahmen.
+
+108
+
+Widderkopf.
+
+Bezeichnet:Hofner.
+
+0l auf Pappe. 39 X 32,5 cm. Dunkler Rahmen.
+
+601
+
+Kopfstudien. Manner und Frauen.
+
+Bezeichnet:Hofner.
+
+01 auf Pappe. 16,5 X 22,5 cm. Gerahmt.
+
+## Carl Jutz
+
+geb.1838 in Windschlag i.Baden;lebte in Dusseldorf.
+
+- IIO
+
+- Jagdstilleben. Tote Schnepfe an einem Bein aufgehangen. Bezeichnet:C. Jutz. 01 auf Holz. 13,5 X 9,6 cm. Goldrahmen.
+
+Abbildung Tafel XIV.
+
+- III Jagdstilleben.Erlegte Schnepfe.
+
+Bezeichnet: C. Jutz.
+
+01 auf Holz. 13,7 X 10 cm. Goldrahmen.
+
+Abbildung Tafel XIV.
+
+## Albert von Keller
+
+geb.1844 in Gais i.d.Schweiz;lebt in Munchen.
+
+| II2   | Marchen. Nock und Nixe im Waldsee in herbstlicher Landschaft. Bezeichnet: Albert Keller 73. Abbildung Tafel XV.              | 0l auf Leinwand. 27 X 22 cm. Goldrahmen.     |
+|-------|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| I13   | Blonde Dame in weiBer Balltoilette.Ganze Figur in einem vornehmen Wohnraum. Bezeichnet:A.Keller Paris 83. AbbildungTafel XV. | 01 auf Malpappe. 34,5 X 25.5 cm. Goldrahmen. |
+| II4   | Madchenkopf im Profil. Dunkle Augen und Haare. Perlkette um den Hals. Bezeichnet:Albert v. Keller. Abbildung Tafel XV.       | Ol auf Holz. 34X 25 cm. Goldrahmen.          |
+| I15   | Kreuzigung. Bezeichnet: Albert v.Keller.                                                                                     | O1 auf Leinwand. 43.5 X 64 cm. Gerahmt.      |
+
+## Emil Keyser
+
+lebte in Minchen.
+
+| 116   | Alte Frau in der Sonme am Waldweg sitzend. Bezeichnet:E. Keyser.                                                                | Ol auf Pappe. 40 X 47 cm. Gerahmt.       |
+|-------|---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+| II7   | Madchenbildnis mit rotbraunem Haar, den Kopf nach links geneigt. Malerei in altmeisterlicher Art. Bezeichnet:E.Keyser.          | Ol auf Leinwand. 50,5X 39 cm.Goldrahmen. |
+| 118   | Kinderkopfchen. Kleiner Junge mit weiBem Kragen. Bezeichnet:E.K.                                                                | Ol auf Holz.12,6X 1I,4 cm.. Gerahmt.     |
+| 119   | Kinderstudien: Knabe und Madchen auf einer Bank sitzend und Madchen im Grinen. Bezeichnet:E.Keyser. O1 auf Pappe. 30 X 46,5 cm. | Gerahmt.                                 |
+| I20   | Kinderstudien:Knabe mit Apfelkorb. Bezeichnet:E.Keyser.                                                                         | Gerahmt.                                 |
+|       | 120a Liegender Knabe.                                                                                                           | Ol auf Malpappe. 34X 21 cm. Gerahmt.     |
+- I2I Ol auf Malpappe. 36 X 45 cm. Gerahmt.. Bezeichnet:E.Keyser.
+
+- Madchen vor dem Apfelbaum.
+
+- I22 Spielende Kinder am Bach. Auf der Ruckseite Madchenhalbakt. Ol auf Malpappe. 34X 42 cm. Gerahmt.
+
+- Bezeichnet:Keyser.
+
+- I23 E.Keyser. 01 auf Pappe. 46 X 32 cm. Gerahmt.
+
+- Madchen. Studien zu Kinderbildern.
+
+- I24 Kinderstudien: Madchen im Walde. Ruckseitig Knabenstudien. 01 auf Pappe. 45 X 34 cm. Gerahmt. Bezeichnet:E.Keyser.
+
+- I25 Bezeichnet:E.Keyser. Ol auf Pappe. 39 X 23 cm. Gerahmt.
+
+- Alte Frau zwischen zwei Baumen.
+
+01 auf Pappe. 39 X 25 cm. Gerahmt.
+
+125a Alte Frau an ihrem Hauschen.
+
+I26 Alte Frau mit Stock.
+
+Bezeichnet:E.Keyser.
+
+O1 auf Pappe.34,5 X 24 cm. Gerahmt.
+
+Ol auf Pappe. 34,5 X 22 cm. Gerahmt.
+
+126a Alte Frau mit Stock.
+
+## H.P.Klimsch
+
+lebt in Berlin.
+
+O1 auf Leinwand. 6o X 50,5 cm.Gerahmt.
+
+Bezeichnet:H. P. Klimsch 93.
+
+## A.Wierusz-Kowalski
+
+geb.1849 in Suwalki, gest.1915 in Munchen.
+
+- Ol auf Holz. 14.3 X 21 cm. Gerahmt.
+- 128 Polnisches Fuhrwerk mit Fuchs und Schimmel in herbstlicher Landschaft. Bezeichnet:W.Kowalski. Abbildung Tafel XX.
+
+lebt in Munchen.
+
+## A.Kraus
+
+- 129 Mutterglick. Junge Frau mit Tochterchen und Bernhardiner zur Seite durchs Feld gehend. 01 auf Holz. 26,5 X 17,5 cm. Gerahmt. Bezeichnet:A.Kraus.
+
+## Sigmund Landsinger
+
+geb. in Vukovar in Slavonien 1855, studierte bei Bocklin in Florenz und lebt daselbst.
+
+- 130 Romerin. Halbfigur in Vorderansicht. Im dunklen Haar Perlen. Uber Kopf und Schulter violetter
+- Schleier. Rechte Hand auf der Brust. Bezeichnet:S.Landsinger 1880. O1 auf Holz. 68 X 55.5 cm. Goldrahmen.
+
+Abbildung Tafel XVII.
+
+- I3I Muse. Weiblicher Profilkopf mit rotem Mantel uber die Schulter,Lorbeer im Haar. Bezeichnet: S.L. 1892. O1auf Holz.48X 38,5 cm. Abbildung Tafel XV.
+
+Goldrahmen.
+
+- I32 Echo. Eine nackte Frauengestalt in rote Schleier gehullt im grinen Buchenwald, die rechte Hand am Ohr, die linke mit erhobenem Zeigefinger deutend.
+
+Bezeichnet: S.Landsinger 96. Ol auf Holz.I2I X 7I cm. Dunkler Rahmen. Abbildung Tafel XVII.
+
+- I33 Die Schonheit. Weibliche Figur in Frontalansicht. In der rechten Hand einen Spiegel, in der Linken einen violetten Schleier iber die linke Korperseite ziehend.
+
+Bezeichnet:1897 S.L.(Monogramm). Ol auf Holz.70X 47.5 cm. Goldrahmen. Abbildung Tafel XVII.
+
+- 134 Madchenkopf. Brinette mit bloBem Hals und rotem Kleid iber der Schulter. O1auf Holz.34X25cm.
+- Bezeichnet:S.Landsinger 1898. Gerahmt.
+- 135 Altere und junge Dame in der Pergola eines Landhauses an einem oberitalienischen See. Bezeichnet: S.Landsinger 19o8. O1 auf Malpappe.43.5X 33 cm. Gerahmt.
+- I36 Selbstbildnis des Malers. Bezeichnet:S.Landsinger 1910.
+- 137
+- 01 auf Malpappe. 48,5 X 37 cm.Gerahmt.
+- Eitelkeit. Nackte Frauengestalt vom Ricken gesehen,Kopf im Profil in einen Spiegel schauend. Bezeichnet: S. Landsinger 1915. Ol auf Leinwand.5o,5X24 cm.Goldrahmen.
+- Am Fenster. Madchen mit traumerischen Augen auf den Beschauer blickend. Im Hintergrund blauer
+
+Bezeichnet:S.Landsinger.
+
+Ol auf Malpappe. 55X 37.5 cm. Goldrahmen.
+
+- I38 Himmel.
+
+127Ein ,Arra“-Papagei.
+| 139                                                     | Liebespaar unter bluhendem Hollerbusch. Das Fraulein in rosafarbenem Kleid und junger Mann,                                                                                              | Liebespaar unter bluhendem Hollerbusch. Das Fraulein in rosafarbenem Kleid und junger Mann,                                                                | Liebespaar unter bluhendem Hollerbusch. Das Fraulein in rosafarbenem Kleid und junger Mann,   |
+|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|                                                         | der ihre Hand halt. Zu ihren FuBen ein Schaferhund. Bezeichnet: S.Landsinger. Abbildung Tafel XxVil.                                                                                     | Ol auf Malpappe. 42 X 24 cm. Goldrahmen.                                                                                                                   |                                                                                               |
+| 140                                                     | Landschaft um Florenz. Blick von einer Pergola aufs Arnotal. Bezeichnet: S.Landsinger 1884.                                                                                              | Landschaft um Florenz. Blick von einer Pergola aufs Arnotal. Bezeichnet: S.Landsinger 1884.                                                                | Landschaft um Florenz. Blick von einer Pergola aufs Arnotal. Bezeichnet: S.Landsinger 1884.   |
+| I4I                                                     | Abbildung Tafel XII. Italienische Landschaft mit Zypressen, See und Wiese mit roten Blumen.                                                                                              | Ol auf Holz. 5o X 39.5 cm. Goldrahmen.                                                                                                                     |                                                                                               |
+|                                                         | Bezeichnet: S.Landsinger 1896.                                                                                                                                                           | Ol auf Malpappe. 49.5 X 37 cm. Goldrahmen.                                                                                                                 |                                                                                               |
+| I42                                                     | Herbst. Im Vordergrund Birken mit rotem Laub. Im Hintergrund Wald und graue Luft dariber. Bezeichnet:Landsinger 1902.                                                                    | Ol auf Malpappe. 65 X 49 cm. Goldrahmen.                                                                                                                   |                                                                                               |
+| I43                                                     | Winterlandschaft. Beschneiter Baum,Bach und Wald im Hintergrund. Bezeichnet: S. Landsinger I910.                                                                                         | Ol auf Malpappe. 40 X 35 cm. Gerahmt.                                                                                                                      |                                                                                               |
+| 144 145                                                 | Bezeichnet: S.Landsinger 1911. Besonnter Buchenwald.Im Hintergrund Felsen.                                                                                                               | Vorfruhling. Zwischen hohen, mit ersten Trieben geschwellten Baumen FluB und Weg. 0lauf Leinwand.6o,5X 5o cm. Goldrahmen. Im Vordergrund Bach. Goldrahmen. |                                                                                               |
+| 146                                                     | Bezeichnet: S.Landsinger 1912. Abbildung Tafel XI. Sommerlandschaft. Tal,Bach mit Baumen,Hirtin und Kuh.                                                                                 | Ol auf Leinwand.6o,5X 50 cm.                                                                                                                               |                                                                                               |
+| I47                                                     | Buchenwald und Felsen mit Ausblick in Abendlandschaft. Bezeichnet: S.Landsinger.                                                                                                         | Ol auf Holz. 14X 23.5cm. Gerahmt. Ol auf Malpappe. 49 X 37 cm. Goldrahmen.                                                                                 |                                                                                               |
+| 148                                                     | Die Muse der Musik mit Rosen im Haar, auf ihrem SchoB Amor, der die Saiten einer Violine rihrt. Bezeichnet: S. Landsinger 1917.                                                          | O1 auf Holz. 68,5 X 69,5 cm.Goldrahmen.                                                                                                                    |                                                                                               |
+|                                                         | Abbildung Tafel XVII.                                                                                                                                                                    |                                                                                                                                                            |                                                                                               |
+|                                                         | 150 Dante mit rotem Kopftuch. Dreiviertelprofil nach rechts. Im Hintergrund Landschaft. Bezeichnet:v.Langenmantel 1875. Abbildung Tafel XII.                                             | O1 auf Leinwand. 61 X 49 cm.Goldrahmen.                                                                                                                    |                                                                                               |
+| I5I                                                     | Bei der Toilette. Dame im weiBblauen Kostuim vor dem Spiegel, blaue Blumen ins Haar flechtend. Bezeichnet: L.v. Langenmantel. O1 auf Holz.63,5 X 46 cm.Goldrahmen. Abbildung Tafel XIII. |                                                                                                                                                            |                                                                                               |
+| 152                                                     | Inneres einer italienischen Kirche. Bezeichnet:L.v.Langenmantel 1882.                                                                                                                    | 01 auf Leinwand. 5o X 6o,5 cm.Goldrahmen.                                                                                                                  |                                                                                               |
+| 153                                                     | Kircheninneres mit einem Grabmal im Vordergrund. Bezeichnet:L.v.Langenmantel. Abbildung Tafel XxVIII.                                                                                    | O1 auf Leinwand. 65X56,5 cm. Gerahmt.                                                                                                                      |                                                                                               |
+| 154                                                     | Kircheninterieur. Bezeichnet:L.v.Langenmantel 1882.                                                                                                                                      | 01 auf Leinwand. 68,5X 49 cm.Goldrahmen.                                                                                                                   |                                                                                               |
+| 155                                                     | Buchenwald in der Mittagsonne. Bezeichnet: L. v. Langenmantel 1874.                                                                                                                      | Ol auf Leinwand. 75.5 X 60o,5 cm. Goldrahmen.                                                                                                              |                                                                                               |
+| 156                                                     | Buchenwald im Hochsommer. Bezeichnet:Langenmantel.                                                                                                                                       | Ol auf Leinwand. 77 X 61,5 cm. Goldrahmen.                                                                                                                 |                                                                                               |
+|                                                         | Canti F. Lanza di Casalana                                                                                                                                                               | Canti F. Lanza di Casalana                                                                                                                                 | Canti F. Lanza di Casalana                                                                    |
+|                                                         | 157 Pferdekopfe. Zwei Schimmel und ein Rappe, am Futtertrog. Bezeichnet: Canti F. Lanza di Casalana.                                                                                     | Pastell. 83X 59 cm.Goldrahmen.                                                                                                                             |                                                                                               |
+| A.Laupheimer geb. 1846 in Erbach b.Ulm,lebt in Munchen. | A.Laupheimer geb. 1846 in Erbach b.Ulm,lebt in Munchen.                                                                                                                                  | A.Laupheimer geb. 1846 in Erbach b.Ulm,lebt in Munchen.                                                                                                    | A.Laupheimer geb. 1846 in Erbach b.Ulm,lebt in Munchen.                                       |
+|                                                         | 158 Die Lektire. Rokokoherr bei einem Glaschen Wein einen Brief lesend. Bezeichnet:A.L.78. Abbildung Tafel XxII.                                                                         | Ol auf Holz.21 X 17 cm. Goldrahmen.                                                                                                                        |                                                                                               |
+Bezeichnet: H.Lindenschmit.
+
+Abbildung Tafel IV.
+
+## Hermann Lindenschmit
+
+lebt in Munchen.
+
+- 159 Tiroler Madchen mit Strohhut,Rechen auf der Schulter.
+
+Ol auf Malmape. 16X 11,8 cm.Goldrahmen.
+
+## Wilhelm Lowith
+
+geb. 186r in Wien, lebt in Munchen.
+
+- 16o Kardinal. Kardinal in roter Soutam, in seiner mit Gobelin behangenen Bibliothek in einem Buche lesend.
+
+Bezeichnet:Lowith.
+
+Ol auf Holz. 28 X 2o cm. Goldrahmen.
+
+Abbildung Tafel XXII.
+
+## A.Mauve
+
+geb.1838,gest.1888.
+
+- 161
+
+- Tierstick.Rotbraun und weiB gefleckte Kuh am Zaun auf der Weide. Bezeichnet:A.Mauve. Ol auf Holz. 29,5 X 41,5 cm. Goldrahmen.
+
+Abbildung Tafel IX.
+
+- 162 Kuh auf der Weide.
+
+Kreidezeichnung mit Rothel. WeiB gehoht. 33 X 49 cm.
+
+Goldrahmen.
+
+163
+
+Kuh im Profil.
+
+Bleistiftzeichnung.WeiB gehoht. 32,5X 44 cm
+
+Goldrahmen.
+
+- 164 Kuhe im Stall. Im Vordergrund rotgefleckte Kuh neben einer Ziege.
+
+Bleistiftzeichnung mit Rothel,weiB gehoht.32,5X 49,5 cm. Goldrahmen.
+
+- 165 Kuh auf der Weide. Kreidezeichnung mit Rothel auf Tonpapier. 33,5 X 47,5 cm. Goldrahmen.
+
+- 166 Ruhende Kuhe auf der Weide. Bleistiftzeichnung. 3,5 X 49,5 cm. Goldrahmen.
+
+## Wilhelm Menzler
+
+lebt in Munchen.
+
+- 167 Italienerin mit Kopftuch, Kopf nach links gewandt. Bezeichnet:W. Menzler 78. Ol auf Leinwand. 25.5 X 20,5 cm. Goldrahmen.
+
+- 168 Architekturstudie. Bezeichnet:W.Menzler 1880. Ol auf Leinwand. 32 X 54 cm. Gerahmt.
+
+169
+
+Architekturstudie aus Venedig.
+
+Bezeichnet: W.Menzler, Venedig 8o.
+
+01 auf Holz. 40,5 X 31,6 cm. Gerahmt.
+
+## Kunz Meyer
+
+lebt in Munchen.
+
+- Bezeichnet:Kunz-Meyer 83. Ol auf Malpappe. 40 X 31 cm. Goldrahmen.
+
+## C.Th.Meyer-Basel
+
+geb. 186o in Basel, lebt in Munchen.
+
+- I7I Vorfruhling in den Isarauen bei Fohring. Bezeichnet: C. Th.Meyer-Basel 1883. Ol auf Malpappe. 43.5 X 31,5 cm. Goldrahmen.
+
+- I72 Altwasser mit Schilf und Weiden. Bezeichnet:C.Th.Meyer-Basel 1883. Ol auf Malpappe. 45 X 33.5 cm. Gerahmt.
+
+- I73 Herbst im Park von Nymphenburg. Bezeichnet:C.Th.Meyer-Basel 1883. Ol auf Pappe. 25.5 X 31,5 cm. Gerahmt.
+
+- I74 Landschaft. Bauernhof unter Weiden mit Baum-und Blumengarten davor bei Diessen am Ammersee. Bezeichnet:C.Meyer-Basel 1883. Ol auf Leinwand. 55.5 X 68,5 cm.Goldrahmen.
+
+- I75 Vorfrihling bei Harlaching in den Isarauen.
+
+Bezeichnet:C.Th. Meyer-Basel Marz Minchen 1883.
+
+Abbildung Tafel XXIX.
+
+Ol auf Malpappe. 66 X 45 cm. Gerahmt.
+
+- I76 Aus dem Dachauer Moos. Hauser und Holzhitten unter Weiden am FluBchen. Auf dem Wasser Enten.
+
+Bezeichnet:C. Th.Meyer-Basel 1884. O1 auf Malpappe. 43 X 67,5 cm.Goldrahmen.
+- Oberbayerische Landschaft mit stark bewegter Luft. Motiv:Pipping bei Pasing.
+- I77 Bezeichnet:C. Th. Meyer-Basel 1886. Ol auf Malpappe. 21 X 33 cm. Gerahmt.
+- 178 Ufer am Bodensee. Schilf, Weiden,Pappeln und Bootshauser. Links im Nebel Stadt. Bezeichnet: Th.Meyer-Basel 1887. Ol auf Malpappe.35X 48,5 cm.Goldrahmen. Abbildung Tafel X.
+- Ol auf Leinwand. 44.5 X 65 cm.Goldrahmen.
+- I79 Weiher in hugeliger Landschaft unter grauer bewolkter Luft. Bezeichnet:C. Th. Meyer-Basel 1889. Abbildung Tafel XVIII.
+- 180 FluBlandschaft.Im Vordergrund zwischen Schilf und Weiden dahinstromendes Wasser. Bezeichnet:C. Th.Meyer-Basel 1889. Ol auf Malpappe. 33 X 46,5 cm.Goldrahmen.
+- Abbildung Tafel X.
+- 181 Grauer Tag an einem oberbayerischen See. Wascherin am Ufer. Bezeichnet:C.Meyer-Basel 1894. Ol auf Malpappe. 48 X 66,5 cm. Gerahmt.
+- 182 Herbstlandschaft. Altwasser,Weiden und bebuschter Hang mit Weg. Bezeichnet:C. Th.Meyer-Basel, Muinchen. Ol auf Leinwand. 64X 88cm.Gerahmt. Abbildung Tafel XXX.
+- 183 Holzbricke bei Ubersee. Bach mit Weiden und holzerner Bricke, grauer bewolkter Himmel dariber. Bezeichnet:G.Th.Meyer-Basel. 0l auf Malpappe. 32 X 44,5 cm.Goldrahmen. Abbildung Tafel X.
+- Vorfruhling in den Isarauen bei Harlaching.
+- 184 Bezeichnet:C.Th.Meyer-Basel.
+- O1 auf Malpappe. 45 X 32 cm. Gerahmt.
+
+## Franz Meyerheim
+
+geb.1838 in Berlin,gest.188o in Marburg.
+
+- 185 Gebirgstal mit Felsblocken und Tannen. Bezeichnet:NachlaBstempel Frz.Meyerheim. Ol auf Malpappe. 36,5 X 45.5 cm. Goldrahmen.
+
+## Munchener Schule
+
+um1830-1850.
+
+- 186S Siesta. Schlafende Schreiber in einer Amtsstube. Am Boden eine Katze, die eine Pericke zerzaust.
+- Ol auf Leinwand.23X 29.5 cm.Gerahmt.
+
+## Munchener Schule
+
+- 187 a) An der Amper. O1 auf Holz. 9.7 X 21,5 cm. ——b) St.Alban am Ammersee. Ol auf Holz. 10 X 21,5 cm.——c) Am Simsee. O1 auf Holz. 9,5 X 21,5 cm.Gerahmt.
+- Ol auf Leinwand. 45 X 36,5 cm. Goldrahmen.
+
+## A.Muttenthaler
+
+geb.1820 in Hochstadt, gest. 1870 in Leipzig.
+
+- Bezeichnet:A.Muttenthaler 1849. 0l auf Malpappe. 31 X 24,5 cm. Goldrahmen.
+
+## A.Nikutowski
+
+geb. 183o in Solwarschienen,gest 1888 in Dusseldorf.
+
+- I9o OrtsstraBe einer kleinen russischen Stadt zur Winterszeit. Pferde, Schlitten und Reisende vor dem Wirts haus. Der Wirt halt die Pferde zweier Schlitten. Rechts Wirtschaft, links Scheune und Ortskirche. Bezeichnet:A.Nikutowski 1887. Ol auf Leinwand. 36X 70,5 cm.Goldrahmen.
+
+## Adolf Oberlander
+
+geb.1845 in Regensburg,lebt in Munchen.
+
+- Jugend und Alter. Links alter Eremit mit Lowe, rechts junger weinlaubbekranzter Mann aus einer
+- I91 Schale trinkend. Zwei Bildchen in einem Rahmen.
+- 192 Alter Nachtwachter mit Hellebarde im Arm und Laterne in der Hand. Bezeichnet:A.Oberlander 189o. Ol auf Malpappe. 29X 22 cm. Goldrahmen. Abbildung Tafel XXI.
+- 189 Das Urteil des Paris.
+
+Bezeichnet:Oberlander. Linkes Bild: Ol auf Blech. 32X 1o cm
+
+Abbildung Tafel XXI.
+
+Rechtes Bild:Ol auf Malpappe. 32 X 10 cm. Goldrahmen.
+- 193 3 Alter Bauer mit grauen Haaren,Bart und gesunder frischer Gesichtsfarbe. Kopf en face. Bezeichnet: A. Oberlander 1864. O1 auf Malpappe. 41,5X 31 cm.Gerahmt.
+
+I94 Bezeichnet:Bernried 1897 A.Oberlander. Ol auf Holz.18,5 X 21,7 cm. Gerahmt.
+
+Der Dichter. Ein mit Rosen Bekranzter, in weiBen Mantel gehillt.
+
+- 195 Flotenspielender Faun.
+
+Bezeichnet: Oberlander. Ol auf Holz. 21 X 13.3 cm. Gerahmt. Abbildung Tafel XIV.
+
+196 Schwammerlsucherin im Bergwald. Bezeichnet:A. Oberlander. Ol auf Leinwand. 5o X 81 cm. Gerahmt.
+
+- 197 Besuch bei einem Alchimisten. Grau in Grau untermaltes Bild.
+
+- Bezeichnet:A.Oberlander 1880. Ol auf Leinwand.63X84 cm.Gerahmt. Auf der Ruckseite Studienkopf eines Monches, Blumen,Figuren u. dgl. Bez.:Oberlander 1885.
+
+198 Landhaus. Auf der Vorderseite Landhaus in Bernried in Sommerstimmung. Bezeichnet: A. Oberlander 1897. O1 auf Holz. 29 X 21,7 cm.Gerahmt.
+
+## Sofie Oberlander
+
+- 199 StrauB Heckenroschen im Glase. Am Tisch Efeu und Schnecken.
+
+Bezeichnet: S. Oberlander.
+
+Ol auf Pappe. 36,2 X 32 cm. Gerahmt.
+
+## Ernst Oppler
+
+lebt in Berlin.
+
+O1 auf Leinwand. 68,5 X 57,5 cm. Gerahmt.
+
+## Hermann Pohle
+
+geb. 1831 in Berlin,lebt in Dusseldorf.
+
+- 2o1 Parklandschaft mit Brunnen und Bach. Am Brunnen ein ruhendes Madchen.
+
+Bezeichnet:H.Pohle.
+
+0l auf Leinwand. 32,5 X 43 cm. Gerahmt.
+
+## F.v.Puteani
+
+geb.1849 in Prag, gest. 1917 in Munchen.
+
+- 202 Raucher in niederlandischer Tracht am Tisch sitzend.
+
+Bezeichnet:Puteani 1857. Abbildung Tafel XXII.
+
+01 auf Holz. 34 X 26 cm. Goldrahmen
+
+- 203 Der Kavalier in schwarzer niederlandischer Tracht. Ganze Figur. Die Rechte auf einen Stock gestitzt.
+
+Bezeichnet:Puteani.
+
+Abbildung Tafel XXXI.
+
+- 204 Gesellschaft von Nobili im Grinen. Skizze. 01 auf Leinwand. 24,5 X 42,5 cm. Gerahmt.
+
+O1 auf Leinwand. 91,5 X 57 cm. Goldrahmen.
+
+## Puteani (?)
+
+- 205 Damenbildnis. Blondine in StraBenanzug, die Linke auf den Schirm gestitzt. Ol auf Leinwand. 57X 35 cm. Gerahmt.
+
+## Karl Robiczeck
+
+geb. 1837 in Landshut,lebte in Munchen.
+
+- 206 Reitertrunk. Marketenderin vor ihrem Zelt bei drei Reitern. Der auf dem Schimmel trinkt ein Glaschen. Im Hintergrund lagern Soldaten aus dem DreiBigjahrigen Krieg. Abbildung Tafel XXIII. Ol auf Holz. 21,5 X 29,3 cm. Gerahmt.
+
+## Leo Samberger
+
+lebt in Munchen.
+
+- Mannliches Bildnis. (Prof. Sand) in Dreiviertelansicht nach links mit weiBem Stehkragen und dunklem Mantel.
+- 200 eine beleuchtete Stube.
+
+Bezeichnet:Leo Samberger 1885. O1 auf Leinwand.7oX 55,5 cm. Goldrahmen. Abbildung Tafel XXXII.
+
+Abbildung Tafel XxVII.
+
+- 207
+
+Bezeichnet:E. Oppler.
+- 2I4 Lumpensammlerin und Schusterbub.
+
+Abbildung Tafel XxII.
+
+Bezeichnet: Schlehdorn.
+
+Ol auf Holz. 24X 17,8 cm. Gerahmt.
+
+geb.1814 in Munchen, gest.1865 daselbst.
+
+- 215 Zwei Hasen im Grinen.
+
+Bezeichnet:R. Schleich.
+
+O1 auf Holz. 12,5 X 17 cm. Gerahmt.
+
+## Robert Schleich
+
+geb.1845 in Munchen, lebt daselbst.
+
+- 216 Fischer am fruihen Morgen auf dem See nach den Netzen sehend.
+
+Abbildung Tafel XX.
+
+Ol auf Holz. 7.5 X 21 cm. Goldrahmen.
+
+## Ludwig Schmid-Reutte
+
+lebte in Stuttgart.
+
+- 217 Studienkopf einer Frau auf dunklem Hintergrund.
+
+Bezeichnet: Gemalt von Schmid-Reutte.
+
+01 auf Leinwand. 53 X 39.7 cm. Gerahmt.
+
+## Charles Schuch
+
+geb.1846 in Wien, gest.19og daselbsr.
+
+218 FluBlandschaft mit bewolktem Himmel dariber.
+
+Ol auf Malpappe. 19 X 13 cm. Goldrahmen.
+
+## Georg Schuster-Woldan
+
+lebt in Munchen.
+
+- 219 Fruhling in einem alten Friedhofe. Im Vordergrund zwei Madchen mit Kranzen.
+
+Bezeichnet:Georg Schuster-Woldan.
+
+Ol auf Leinwand. 85,5X 6g cm. Goldrahmen.
+
+Abbildung Tafel XI.
+
+- 220 Kinderbildnis.Madchen im Profil.
+
+Bezeichnet:G. Sch.W.
+
+Pastellzeichnung. 8o,5 X 55 cm. Goldrahmen.
+
+## A.Seidel
+
+geb. 182o in Munchen, gest. daselbst.
+
+221 Im Golf von Nizza. Im Vordergrund SchloBruine mit Zypressen. Auf dem Weg Staffage.
+
+Bezeichnet:A. Seidel.
+
+Abbildung Tafel XVIII.
+
+O1 auf Leinwand. 55.5X 75 cm.Goldrahmen.
+
+Abbildung Tafel XXIII.
+
+## Mathias Schiestl
+
+208 Waldkapelle. Im Vordergrund auf blumiger Wiese sitzt ein Madchen und halt Enzian in den Handen. Bezeichnet:M. Schiestl. Ol auf Holz. 49 X 55 cm.Goldrahmen. Abbildung Tafel VII.
+
+lebt in Munchen.
+
+## Georg Schildknecht
+
+- 209 Bildnis einer bayerischen Oberlanderin im grunen Hut und dunklem Brusttuch.
+
+Bezeichnet:G.Schildknecht 1886.
+
+Ol auf Leinwand. 3o X 26 cm.
+
+Gerahmt.
+
+- 210 Alter Mannerkopf mit Schlapphut. Dreiviertelansicht nach rechts.
+
+Bezeichnet:G. Schildknecht 1918. O1 auf Leinwand. 23.5X 17.5 cm.Goldrahmen. Abbildung Tafel XXIV.
+
+- 2II Kopf einer alten Bauerin mit schwarzem Kopftuch und rotem Halstuch.
+
+Bezeichnet:G. Schildknecht. Ol auf Leinwand. 18X 14.5 cm. Goldrahmen. Abbildung Tafel XXIV.
+
+- 2I2
+
+- Kopf eines Bauernmadels mit schwarzem Kopftichel. Bezeichnet:G. Schildknecht 1916. Ol auf Leinwand.17X 14 cm. Gerahmt.
+
+- 213 Bauernkiche mit geschwarztem Kamin.
+
+Bezeichnet:G.Schildknecht 1889.
+
+01 auf Leinwand. 26 X 29,5 cm.Gerahmt.
+
+lebt in Munchen.
+
+## 1. Schlehdorn
+
+(Diezschule Munchen).
+
+## August Schleich
+## lohann Sperl
+
+geb. 184o in Jagerndorf, gest. 1914 in Aibling.
+
+Ol auf Leinwand. 33,5 X 18,5 cm. Goldrahmen.
+
+## Josef Emil Squindo
+
+- 223
+
+- Studienkopf. Mann mit langen dunklen Haaren und Vollbart im Profil.
+
+Bezeichnet:Squindo. Olauf Leinwand.46X 40 cm. Goldrahmen. Abbildung Tafel IV.
+
+- 224 Frauenkopf mit dunklen Haaren, blauen Augen, Haar- und Kleidertracht um 188o.
+
+Abbildung Tafel XxVIII.
+
+O1auf Leinwand.5oX 39 cm. Gerahmt.
+
+- 225 Studienkopf. Alter Mann.Brustbild.
+
+O1 auf Leinwand.61 X 49,5 cm.
+
+Gerahmt.
+
+226 Lagernde Kuh auf der Weide.
+
+Ol auf Malpappe. 31,5 X 39 cm.
+
+Goldrahmen.
+
+227
+
+Arbeitspferd, braunes,im Profil gesehen.
+
+Bezeichnet: Squindo.
+
+O1 auf Holz. 31,5 X 39.5 cm. Gerahmt.
+
+- 228 Eisenschimmel im Profil.
+
+Bezeichnet: Squindo.
+
+O1 auf Leinwand. 26 X 33 cm. Goldrahmen.
+
+- 222 Blihender Rosenbusch. Bezeichnet: J. Sperl. Abbildung Tafel XXVI.
+
+geb. 1857 in Nordlingen, gest. 1883 in Munchen.
+
+## A.Stademann
+
+- Landschaft im Mondschein mit brennendem Dorf im Hintergrunde.
+
+geb.1824 in Munchen, gest.1895 daselbst.
+
+Bezeichnet: Stademann.
+
+O1 auf Holz. 16 X 25,5 cm. Goldrahmen.
+
+## Toni von Stadler
+
+geb.185o in Gollersdorf,gest.1917 in Munchen.
+
+- Bezeichnet: Toni Stadler.
+- Ol auf Leinwand. 2o X 50 cm.Goldrahmen.
+
+## Adolf Stabli
+
+- 231 Landschaft. Waldrand. Abendstimmung.
+
+Abbildung Tafel XXV.
+
+geb.1824 in Winterthur, gest. 1go1 in Munchen.
+
+Bezeichnet:A. Stabli pinx.
+
+01 auf Pappe. 26,5 X 35.5 cm. Gerahmt.
+
+Abbildung Tafel XxIil.
+
+geb.1815 in Wadenswyl, gest.in Munchen.
+
+## J.G.Steffan
+
+- Sommertag. Landschaft aus der landlichen Umgebung von Munchen. Bezeichnet:J. G.Steffan.1882,Minchen. 01 auf Holz. 29,5 X 51,5 cm. Goldrahmen.
+
+## F.Steinmetz-Noris
+
+- Gesellschaft von vier Rokokoherrn in einer Schenke im Gesprach. Bezeichnet:F. Steinmetz-Noris. Ol auf Holz. 31 X 37 cm. Goldrahmen. Abbildung Tafel VII.
+
+geb. 186o in Nurnberg, lebt in Munchen.
+
+- Dachauer Madchen in der alten Tracht mit rotem Regenschirm in der rechten Hand. Goldrahmen.
+- 232
+- 233
+- 234 Bezeichnet:F. Steinmetz-Noris, Munchen. Olauf Holz.44X 33 cm. Abbildung Tafel XxIV.
+
+## M.Thedy
+
+- Brustbild einer Oberlanderin. Gesicht in Frontalansicht. Griner Hut,weibes,geblimtes Brusttuch
+
+Bezeichnet:M.Thedy. Abbildung Tafel XXIV.
+
+geb. 1858 in Minchen, lebt in Weimar.
+
+Ol auf Malpappe. 25 X 18,5 cm. Goldrahmen.
+
+- 229
+- 235 und silbernes Halsgeschnir.
+- 240 Leuchtturm an der Kuiste.
+
+Bezeichnet:Achenbach?
+
+O1 auf Holz. 10,5 X 8,5 cm. Gerahmt.
+
+## G.v.Urlaub
+
+geb.1845 im Petersburg,lebte in Munchen.
+
+- Tiroler Bauernhaus in der Sonne. Vor dem Hause Weg mit Bauerin. Im Hintergrund rechts Berge. 241 Bezeichnet:G.v.Urlaub. Abbildung Tafel XVI.
+
+- 242 Bauerngarten und Holzhitten mit zwei Jungen im Grase. 01 auf Malpappe. 31,5 X 46,5 cm. Goldrahmen. Bezeichnet:G.v.Urlaub.
+
+- 243 Waldinneres mit sonnigen Durchblicken. Ol auf Leinwand.35X 475 cm. Goldrahmen. Bezeichnet:G.v.Urlaub.
+
+- 244 Eisenschimmel im Freien vor einem alten Gemauer. 01 auf Leinwand.46,5X 56 cm.Gerahmt. Bezeichnet:G.v.Urlaub.
+
+## W.Velten
+
+geb. 1847 in St.Petersburg,lebt in Munchen.
+
+- Ol auf Holz. 16X 29 cm. Gerahmt. 245 Strand mit Blick aufs Wasser und Lastschiffen.
+
+- 246 O1 auf Holz. 20X 28cm.Gerahmt. Bezeichnet:W.Velten 84.
+
+- Altes Renaissancehaus im Riegelbau an der Stadtmauer.
+
+## F.Voltz
+
+geb. 1817 in Nordlingen, gest. 1886 in Munchon.
+
+- 247 Kihe und Schafe am Waldrand.
+
+Bezeichnet:F.Voltz 1848.
+
+Abbildung Tafel XX.
+
+Ol auf Malpappe. 16 X 40,5 cm. Gerahmt.
+
+## Carl Leopold Vob
+
+geb.1856 in Rom, lebt in Munchen.
+
+- 248 Ufer am Niederrhein. Im Vordergrund Wasser, Schilf und Enten. Ol auf Malpappe. 26,5 X 33,5 cm. Goldrahmen. Bezeichnet:Carl VoB. Abbildung Tafel XXIII.
+
+## Friedrich Wahle
+
+geb. 1863 in Prag, lebt in Munchen.
+
+- 249 Alter Mann. Halbakt im Oberlicht Bezeichnet:F. Wahle 1882. Abbildung Tafel XXXI.
+
+01 auf Leinwand. 75 X 67 cm. Goldrahmen.
+
+## Desire R.Thomassin
+
+lebt in Munchen.
+
+236 Vor der Schenke. Fuhrmann mit zwei Pferden vor dem Dorfwirtshaus.
+
+Bezeichnet:O. Thomassin.
+
+Ol auf Holz.8X 1o,5 cm.Dunkler Rahmen.
+
+## Ch.Tooby
+
+lebt in Munchen.
+
+- 237 Kopf eines Tigers. Bezeichnet:C.Tooby.
+
+- Ol auf Leinwand. 5o X 58 cm. Holzrahmen.
+
+- 238 Stier von der Seite gesehen, am Futterbarren im Stall. Bezeichnet:C.Tooby 1892. Ol auf Leinwand. 42X 57 cm. Goldrahmen.
+
+## Unbekannt
+
+Art des Heinlein.
+
+- 239 a) Landschaft. Im Vordergrund Eichen. Im Hintergrund SchloBruine.
+- b) Landschaft mit badenden Frauen. Ausblick auf Berge.
+- Guasche auf Papier, auf Holz aufgezogen. 35.5 X 45 cm. Gerahmt.
+
+## Unbekannt
+- 250 Alter Herr in energischer Haltung.S
+
+- Skizze. Bezeichnet:Frd. Wahle.
+
+- 251 Studienkopf. Mannsgesicht in Pelzhaube. Bezeichnet:F.Wahle.
+
+## Paul Weber
+
+geb. 1823 in Darinstadt, gest. 1g16 zu Munchen
+
+252 Sommerlicher Wald. Wege mit Holzbrucke ibern Bach, Kuhe und Hirte.
+
+Bezeichnet:Paul Weber.
+
+Ol auf Leinwand. 55 X 76.cm. Dunkler Rahmen.
+
+Abbildung Tafel XIX.
+
+## Sion L. Wenban
+
+geb.1848 in Cincinnati, gest. 1897 in Munchen.
+
+- 253 Buche im herbstlich gefarbten Wald. Bezeichnet: S.Wenban.
+
+Ol auf Holz. 26,5X 20 cm.Schwarzer Rahmen.
+
+- 254 Waldlichtung. Im Hintergrund Tannen. Bezeichnet:Wenban.
+
+Ol auf Malpappe. 39.5 X 30 cm. Goldrahmen.
+
+## Josef Wenglein
+
+geb. 1845 in Munchen, gest. 1919 daselbst.
+
+- 255 Herbstabend im Moor. FluB zwischen Schilf und Weiden; daruber goldner Abendhimmel. Bezeichnet:Wenglein. Ol auf Leinwand.21 X 4I cm. Dunkler Rahmen. Abbildung Tafel XVI.
+
+- 256 Herbstlandschaft. Weg mit Birke in gauer bewolkter Luft. Bezeichnet:J. Wenglein. Ol auf Holz. 21 X 16 cm.Dunkler Rahmen. Abbildung Tafel XXVI.
+
+## Josef Wopfner
+
+geb.1843 in Schwaz (Tirol), lebt in Munchen.
+
+- Ol auf Leinwand. 16,5 X 43 cm. Goldrahmen. Bezeichnet: J. Wopfner. Abbildung Tafel XX.
+- Goldrahmen..
+- 258 Frauenchiemsee vom See aus gesehen. Im Hintergrund Gebirge. Bezeichnet:J.Wopfner. 01 auf Malpappe.17.5X38 cm.
+- 259 Am Bach:Bach mit Weiden und leicht bewolktem Himmel. Ol auf Leinwand.82X63cm.Gerahmt Bezeichnet: J. Wopfner 1869. Abbildung Tafel XXIX.
+- 260 Die Nonne von Frauen worth. In dunklen Mantel eingehillte Nonne hinter dem Stamm einer Linde auf den nachtlichen See hinaussehend. Mondscheinstimmung.
+- Bezeichnet: J.Wopfner. Ol auf Leinwand. 78,5 X 114 cm. Goldrahmen.
+
+Abbildung Tafel XXX.
+
+- 261 Weiblicher Ruckenakt. Bezeichnet:J.Wp.1872. Abbildung Tafel XXXII.
+
+Ol auf Pappe. 22X 17 cm.( Gerahmt.
+
+Ol auf Holz.41X32 cm.
+
+Gerahmt.
+
+Ol auf Leinwand. 68X 49 cm.Gerahmt.
+
+## Richard Zimmermann
+
+geb. 1820 in Zittau, gest. 1870 in Munchen,
+
+## und Carl Spitzweg
+
+- 262 Bauernhaus in der Sonne unter Baumen, davor Bauerin und Bublein. Auf dem Weg Hochwurden
+- Herr Pfarrer, von den Kindern begriBt.
+
+Bezeichnet: Richard Zimmermann. Die Figuren von Spitzweg gemalt.
+
+Ol auf Leinwand. 29.5X 36 cm.Goldrahmen. Abbildung Tafel XXV.
+- 268
+
+## ALTE BILDER
+
+## Jean Asselyn, dessen Art
+
+17.Jahrhundert.
+
+263 FluBlandschaft. Brucke. Am Ufer und im Wasser Fuhrwerke und Reiter.
+
+O1 auf Leinwand. 40,5X 48,5 cm.Gerahmt.
+
+## 1.B., Art des Berchem
+
+18.Jahrhundert.
+
+- 264 Landliches Idyll. Hirte an einer Kuh lehnend. Lagernde Kuh, Schafe und Haus im Busch. Bezeichnet:J.B. O1 auf Holz.25X 32,8 cm.Goldrahmen.
+
+## A.Croos, dessen Art
+
+17.bis 18.Jahrhundert.
+
+- 265 Landschaft mit unter den Baumen tanzenden Nymphen und Faunen.
+
+O1 auf Blech. 20 X 27 cm. Goldrahmen.
+
+## Deutsch
+
+umter italienischem EinfluB
+
+17.Jahrhundert.
+
+- 266 BiBende Magdalena mit entbloBtem Oberkorper und rotem Mantel
+
+0l auf Holz. 43 X 29 cm. Goldrahmen.
+
+## Deutsche Schule
+
+17.Jahrhundert.
+
+- 267 Simson erschlagt den Philister mit Eselskinnbacken. Ol auf Holz. 67 X 48 cm.Goldrahmen,
+
+## Deutsche Schule
+
+18.Jahrhundert.
+
+- Madonna mit Christkind. Das Kind halt in der linken Hand eine Rose. Ol auf Leinwand.44X 37 cm. Gerahmt.
+- 269 Architekturbild in Nachtstimmung mit reicher Staffage.
+
+01auf Holz.38X56 cm. Gerahmt.
+
+- 270 Anbetung der ehernen Schlange. Figurenreiche Komposition. Ol auf Leinwand.45X 61 cm.Gerahmt.
+- 271 a) Soldatenabschied. Soldat in voller Ausristung nimmt von einer weinenden Frau Abschied.
+- b) Heimkehrender Soldat sein Weib begriBend. Ol auf Holz. 22X 17,5 cm. Dunkler Rahmen.
+
+O1 auf Holz.22X 17,7 cm.Dunkler Rahmen.
+
+- 272 Maria mit dem Christkind auf dem SchoB. Ein Junge am WaschfaB mit einem Tuch; dahinter Mutter Anna. Ol auf Holz.go X 39 cm.Goldrahmen.
+- 273 Madonna mit Christkind und Johannes. Im Hintergrund Vorhang.
+
+O1 auf Holz. 45,5 X 37.5 cm. Dunkler Rahmen.
+
+- St.Antonius in Anbetung vor dem Christkind, das in einer Wolke mit Engeln erscheint. Im Vorder-
+
+O1 auf Leinwand.49.5X 36,5 cm.Dunkler Rahmen.
+
+## Deutsch
+
+Ende des 18.Jahrhunderts.
+
+- Olauf Holz.39,5X 31,5 cm. Goldrahmen.
+- 274 grund nackter Bettler.
+- 278 Meeresbrandung an felsiger Kiste.
+
+## Deutsch
+
+um 178o1790.
+
+- 276 Landschaft mit Ausblick auf einen FluB. Im Vordergrund Weg mit figurlicher Staffage. Ol auf Holz. 21,3X 29 cm. Gerahmt.
+
+## Deutsch
+
+um 18o0.
+
+- 277 Pittoreske Landschaft. See, Felsen, Ruine. Am Ufer ein Einsiedel.
+
+O1 auf Leinwand. 24X 21 cm.Gerahmt.
+
+## Deutsche Schule
+
+Anfang des I9.Jabrhunderts.
+
+Ol auf Holz. 26,5 X 38 cm. Dunkler Rahmen.
+
+## Deutscher Kirchenmaler
+
+des I9. Jahrhunderts.
+
+Ol auf Malpappe. 36 X 30 cm. Dunkler Rahmen.
+
+## Franzosischer Miniaturmaler
+
+um1790-1800.
+
+- 28o a) Bildnis des Peter Rencon, Ritter der franzosischen Ehrenlegion. Brustbild in Messingoval auf schwarzem Holz.14X 12 cm.Gerahmt.
+- b) Jenny Rencon in Empiretracht in Messingoval auf schwarzem Holz. 14X 12 cm. Gerahmt
+
+## ltalienische Schule
+
+- 281 Heilige Familie. Madonna mit Kind, Mutter Anna, Johannes und Joseph. O1 auf Holz.73 X 55 cm.Ubermalt. Goldrahmem.
+
+## ltalienische Schule
+
+in der Art der Venetianer.
+
+- 282 Dame mit nach links gewandtem Gesicht nach einem fliegenden Vogel sehend, den sie mit der rechten Hand an einer Schnur gefangen halt. Ol auf Leinwand.83X68 cm.Gerahmt.
+
+## ltalienische Schule
+
+17.Jahrhundert.
+
+01 auf Leinwand. 49.5 X 32,5 cm Gerahmt
+
+## ltalienische Schule
+
+17.——8.Jahrhundert.
+
+- 284 BuBende Magdalena. Halbseitig entbloBte Halbfigur mit Kreuz in der Hand und Totenkopf davor. 01 auf Leinwand. 92,5 X 77 cm. Gerahmt.
+
+## ltalienische Schule
+
+18.Jahrhundert.
+
+- 285 Esau verkauft sein Erstgeburtrecht an Jakob um ein Linsengericht. 01 auf Leinwand. 78X97,5 cm.Gerahmt.
+- 286 Bildnis eines jungen Edelmannes in dunkler Rustung und rotem Mantel; die rechte Hand am Schwertknauf. Ol auf Leinwand. 63X5o cm. Gerahmt.
+
+## Kopie nach dem Monogrammisten J. G. W.
+
+- 287 a) NuBhaher und Fink auf einem Brett.
+- Bezeichnet: J. G.W. 0l auf Leinwand. 58,5 X 41,5 cm.Gerahmt.
+- b) Buntspecht,Meisen und Finken auf einem Brett.
+
+Unten rechts aufgemalte Zeichnung mit Bezeichnung:J. G. W. 58,5X41,5cm.Gerahmt.
+
+- 279 Madonna mit Kind.
+- 283 Taufe Christi im Jordan.
+- Bezeichnet: J. D.
+
+## Pieter van Laar, dessen Art
+
+17.Jahrhundert.
+
+- 288 Fischer.unter Zelten mit ihren Frauen.Im Hintergrund Stadt. 01 auf Leinwand. 275X 32,5.cm. Gerahmt.
+
+## Niederlandische Schule
+
+17.Jahrhundert..
+
+- 28g:Volksbelustigung. Von Hausern umsaumter Kanal mit von vielem Volk besetzten Schiffen und ZuOl auf Holz. 54X 65 cm.Goldrahmen. schauern am Ufer.
+
+## Niederlandische Schule
+
+17.—18.Jahrhundert.
+
+- 29o Kirmes. Dorf und Wirtshaus unter Baumen. Auf freiem Platz davor tanzende und zechende Bauern.
+- Ol auf Holz.54X 65 cm.Goldrahmen.
+- 291 Eisvergnugen. Zugefrorener Wassergraben bei einer alten Stadtbefestigung mit Schlittschuhlaufern O1 auf Leinwand. 31X 42 cm.Goldrahmen.
+- und Schlitten.Am Ufer Zuschauer.
+
+## Niederlandische Schule
+
+18.Jahrhundert.
+
+- 292 Hafenstadt. Rechts Ruine.Links im Hintergrund Stadt und Landschaft. Im Vordergrund Schiffe, Ol auf Leinwand.35X 42 cm. Gerahmt. Fischer und Schiffer.
+- 293 Ausritt zur Jagd. Reiter mit rotem Rocke auf einem Schimmel (Ruckansicht), zur Seite Jager mit 01 auf Holz.29,5X 41 cm.Gerahmt. Flinte und Hunden.
+- Ol auf Leinwand. 35.5 X 41 cm.Goldrahmen, 294 Fischverkauferin.
+- 295 Jagdstilleben.Toter Hase,Krammetsvogel und Schnepfen. 01 auf Holz. 83 X 58 cm. Goldrahmen.
+
+## Niederlandisch
+
+Kopie
+
+- 296 Raucher am Kaminfeuer. Im Vordergrund ein Hund. 01auf Holz.27X 19,7 cm.Gerahmt.
+
+## Niederlandische Art
+
+Kopie
+
+- 297 Interieurstuck mit figurlicher Staffage:Mann,Frau und Trinker.
+
+<!-- image -->
+
+Olauf·Holz.23X28 cm.Gerahmt.

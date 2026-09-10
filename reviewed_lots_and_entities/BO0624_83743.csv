@@ -32,9 +32,9 @@ BO0624_83743,56534,30,30,Vibert. Le Pape et l'Empereur.,370,84.6,False,positiona
 BO0624_83743,56535,31,31,Vibert. L'Audience de l'Empereur.,382,87.7,False,positional,VIBERT,,,,
 BO0624_83743,56536,32,32,Weenix. Le Gibier.,390,54.5,False,positional,WEENIX,,,,
 BO0624_83743,56537,33,33,Weenix. Apres la Chasse.,393,80.0,False,positional,WEENIX,,,,
-BO0624_83743,56538,34,34,Ecole Flamande. XVII siecle. Portraits des ducs de Brabant.,409,68.2,False,positional,,ECOLE FLAMANDE,,,Sec. XVII
-BO0624_83743,56539,35,35,ECOLE FRANCAISE. XIX siecle. Jeune Fille en buste.,419,60.0,False,title_direct,,ECOLE FRANCAISE,,,Sec. XIX
-BO0624_83743,56540,36,36,ECOLE HOLLANDAISE. XVII siecle. Apres la Bataille.,429,53.7,False,title_direct,,ECOLE HOLLANDAISE,,,Sec. XVII
+BO0624_83743,56538,34,34,Ecole Flamande. XVII siecle. Portraits des ducs de Brabant.,409,68.2,False,positional,,ECOLE FLAMANDE,,,
+BO0624_83743,56539,35,35,ECOLE FRANCAISE. XIX siecle. Jeune Fille en buste.,419,60.0,False,title_direct,,ECOLE FRANCAISE,,,
+BO0624_83743,56540,36,36,ECOLE HOLLANDAISE. XVII siecle. Apres la Bataille.,429,53.7,False,title_direct,,ECOLE HOLLANDAISE,,,
 BO0624_83743,56541,37,37,PETIT BosquET en poterie du Japon.,438,95.7,False,positional,,,PORCELAINES ET FAIENCES,,
 BO0624_83743,56542,38,38,"StATUETTE en poterie du Japon : personnage, assis, tenant un eventail.",439,88.7,False,positional,,,PORCELAINES ET FAIENCES,,
 BO0624_83743,56543,39,39,"CacHE-por, a decor de compartiments contenant des branches fleuries. Porcelaine du Japon.",441,82.1,False,positional,,,PORCELAINES ET FAIENCES,,
@@ -107,7 +107,7 @@ BO0624_83743,56609,105,105,"Deux corNETs en émail cloisonne de la Chine,a fleur
 BO0624_83743,56610,106,106,Deux sTATUETTEs de Bouddah en bronze.,535,94.7,False,positional,,,OBJETS VARIES,,
 BO0624_83743,56611,107,107,Deux BoITEs en metal. Travail chinois.,536,94.7,False,positional,,,OBJETS VARIES,,
 BO0624_83743,56612,108,108,"StaTuE en marbre blanc:le Messager d'amour: jeune femme nue,debout,relevant sa chevelure d'une main,et tenant de l'autre une tourterelle pres de l'oreille droite. Socle en marbre rouge-griotte et bronze a patine verte.",540,98.6,False,positional,,,SCULPTURES,,
-BO0624_83743,56613,109,109,"STATuE en marbre blanc:la Jeune Marquise, de Barsaghi, 1875.",545,96.6,False,positional,,,SCULPTURES,,Sec. XIX
+BO0624_83743,56613,109,109,"STATuE en marbre blanc:la Jeune Marquise, de Barsaghi, 1875.",545,96.6,False,positional,,,SCULPTURES,,
 BO0624_83743,56614,110,110,"STaTuETTE en marbre blanc d'enfant nu, etendu sur un tertre et enguirlande de fleurs. Signee : Nicoli. Base en bronze.",551,98.2,False,positional,,,SCULPTURES,,
 BO0624_83743,56615,111,111,PeNDuLE en bronze dore et marbre blanc:Fillette et Amour; base ornee d’une frise de jeux d’enfants. Epoque Louis XVI.,555,68.2,False,positional,,,"PENDULES,BRONZES",,
 BO0624_83743,56616,112,112,"PAIRE DE cHENETs en bronze,a galerie surmontee d’une cassolette et d'un vase de flammes.Epoque Louis XVI.",557,73.7,False,positional,,,VASI,,

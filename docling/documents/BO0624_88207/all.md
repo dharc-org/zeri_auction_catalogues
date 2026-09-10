@@ -1,0 +1,790 @@
+## Verkauis-Ordnung.
+
+Die Versteigerung geschieht nach der Reihenfolge der Nummern, doch behalt sich der Unterzeichnete ausdricklich das Recht vor, auch ausser der
+
+Reihe zu versteigern.
+
+## Bedingungen der Auktion.
+
+stellung und die Beiwohnung der Auktion gestattet.
+
+Nur den mit Katalogen versehenen Personen ist der Zutritt zur Aus-
+
+Die Versteigerung findet gegen Barzahlung statt. Der Steigerer hat ein
+
+Gebote bis zu M. 100.—konnen mit M.1.—,iber M.100.——mit M.5.— mindestens abgegeben werden.
+
+Aufgeld von 10°%/ des Steigpreises zu entrichten.
+
+Wenn zwei oder mehrere Personen zugleich ein und dasselbe Gebot abgeben und die Aufforderung zur Abgabe eines hoheren Gebots erfolglos bleibt, entscheidet das Los. (Verordnung vom 10. 7. 02)
+
+Die Gemalde gehen beim Zuschlag in Rechnung und Gefahr des Steigerers uber. Die Aufbewahrung bis zur Zahlung und Abnahme geschieht mit moglichster Sorgfalt, jedoch auf Gefahr des Steigerers. Wahrend der Dauer der Auktion ist der Auktionator nicht verpflichtet, Rechnung zu erteilen, oder Ersteigertes, sollte es gleich bezahlt sein, abzugeben.
+
+Sofern nicht ein anderes Ubereinkommen getroffen ist, steht dem Auktionator das Recht zu, Gegenstande, welche innerhalb 24 Stunden nach Ablauf der Auktion nicht bezahlt sind, fuir Rechnung des Steigerers auf die ihm am geeignetsten erscheinende Art weiter zu verkaufen, ohne den Schuldner davon zu benachrichtigen. Fur einen etwaigen Mindererlos ist dieser haftbar, wahrend er auf Mehrerlos keinen Anspruch hat.
+
+Die Kunstwerke werden in dem Zustande verkauft, in welchem sie sich befinden. Reklamationen nach erfolgtem Zuschlag konnen nicht bericksichtigt werden, da die Ausstellung Gelegenheit zur Prufung bietet. Die Kinstlernamen sind nach den Aufzeichnungen des Vorbesitzers beibehalten, die im Katalog befindlichen Angaben und Beschreibungen werden nicht gewahrleistet. Die MaBe sind in Zentimeter angegeben. Die erste Zahl bedeutet die Hohe, die zweite
+
+Auftrage und Gebote werden angenommen und durch zuverlassige Kom-
+
+Zahl die Breite.
+
+missionare gegen die ibliche Provision auf das Gewissenhafteste ausgefuihrt.
+
+Frankfurt a. M.
+
+Als vereinbarter Erfuillungsort fir alle Verpflichtungen der Kaufer gilt
+
+## Telephon Amt I, 547.
+
+## Rudolf Bangel.
+
+Flir etwaigen, bei unsachgemassem Anfassen der Gemalde entstandenen Schaden ist der Besucher haftbar.
+## Vorbemerkung.
+
+Die Sammlung,deren Bestand in nachfolgenden Blattern aufgezeichnet ist, wurde im Verlauf eines Menschenalters von dem
+
+## Herrn Baron de la Gueste-Versailles
+
+vereinigt. Es finden sich darin Kunstwerke aus allen Zeitaltern, vom 12. bis 19. Jahrhundert und der Eklektizismus des Sammlers dokumentiert sich in der Auswahl und der Zusammensetzung seiner Kollektion. Die Erwerbungen geschahen meist aus Privatbesitz und, wie es unter den gegenwartigen Verhaltnissen in Frankreich begreiflich erscheint, in vielen Fallen aus den Schatzen von Kirchen und Kiostern.
+
+Es ist eine Eigentimlichkeit des Herrn Baron de la Gueste seine Erwerbungen in den Zustanden zu belassen, in denen er sie vorgefunden hat, was dieser Sammlung einen ganz eigenartigen Reiz verleiht, indem an den Bildern im grossen Ganzen keine fremde Hand erkennbar ist. Dies drickt ihnen den Stempel des Urspringlichen auf, was Kennern und Kunstfreunden ganz besonders erwinscht sein wird.
+
+Frankfurt a. M.,im April 1914.
+
+R.B.
+<!-- image -->
+
+<!-- image -->
+
+Achenbach, Andreas, 1815—1905, Dusseldorf.
+
+- 1Marine.Rechts am Strand Fischerbote, dahinter die Kreidefelsen der sidenglischen Kiste, links das Meer. Holz 12/16. Bez.: A. Achenbach.
+
+Adam, Albrecht, 1786—1862, Munchen.
+
+- 2 Pferdeportrat auf einem Wiesenplan, rechts Buschwerk, im Hintergrund
+- ein Gehoft. Holz 24/30.
+
+Adriaenssen, Alexander, 1587—1661, Antwerpen.
+
+- eine Katze. Holz 43/57. Bez.: Alex. Adriaenssen fc.
+- 3 Stilleben.Taschenkrebse, Austern und Fische auf einem Tisch, dabei
+
+## Beaubrun.
+
+- 4 Bacchusknabe auf einem Leoparden, umgeben von Bacchantenkindern in einer Landschaft.Surporte.Leinw. 81/133.
+
+Bega, Cornelis, 1620—1664, Haarlem.
+
+- 5
+- 5Bauernschenke.Die Wirtstochter sitzt auf einer Bank und unterhalt sich mit den Gasten, deren einer ihr einen Krug darreicht. Holz 37/27.
+
+Belle, Alexis Simone, 1674—1734, Paris.
+
+- 6 Junges Madchen in einer Landschaft stehend und ein Blumengewinde haltend. Leinw. 73/58,5.
+- 7 Kavalier in Rokokotracht, auf einem Sessel sitzend. Leinw. 87/65.
+
+Bez.: Belli, 1882.
+
+Berchem, Claas Pietersz, 1620—1683, Amsterdam (Art).
+
+- 8
+- Tierstick. Kuh und Ziege im Vordergrund ruhend, weiter zurick der Hirte, im Hintergrund Felsen. Holz 22/30.
+## Bocklin, Arnold, 1827—1901, Fiesole.
+
+- Schilf. Um einen Wasserlauf des Vordergrundes, vom Wind bewegtes
+- 9 dichtes Schilfgebisch. Holz 28/46. Bez.: A. B.
+
+## Boilly, Louis Leopold, 1761—1845, Paris.
+
+- 10 Portrat von Mlle. Bouchardy, Stieftochter des Kunstlers. Holz 15,5/11,5
+- 11 Knabenbildnis. Metall 22,5/17.
+
+## Bonheur, Rosa, 1822—1899, By bei Fontainebleau.
+
+- 12 Schafe auf der Weide. Karton 20/24,5.
+
+## Bonington, Richard Parkes, 1801—1828, London.
+
+- 13 Strand. An den Dunen ein Fischerdorf, im Vordergrund Gruppe von
+- Fischern, neben abgetakeltem Boot. Leinw. 40/60. Bez.: R. P. B.
+
+## Both, Jan, 1610—1652, Utrecht.
+
+- 14 Wasserfall von links iber die Felsen stuirzend, rechts Baumgruppen.
+- Leinw. 30/40.
+
+## Boucher, Francois, 1703—1770, Paris. (Manier).
+
+- 15 Kopf der Jungfrau mit Kopftuch, worauf ein Rosenkranz. Zwei Kreiden
+- 45/32.
+- 16 Frauenportrat mit gepudertem Haar. Leinw. 42/33.
+- Surporte.
+- Schlafende Bacchantinnen, von Faunen belauscht. Entwurf fir eine Tapisserie. Leinw. 113/90.
+- 17 Putten mit Buch in einer Landschaft. Leinw. 56/93.S
+- 18
+
+## Bougerau, Adolphe William, geb. 1825 in La Rochelle (angeblich).
+
+- 19 Freilichtstudie eines Frauenakts.Holz 41/31.
+
+## Bourguignon, Jacques (Courtois), 1621—1676, Rom.
+
+- 20 Reitergefecht. Szene aus dem 30 jahr gen Krieg. Leinw. 39/47.
+
+## Bronzino, Angiolo,1502—1572,Florenz.
+
+- 21 Brustbild der Eleonore von Toledo. Holz 40/29.
+- Siehe Abbildung Tafel I.
+- 22
+
+## Buchholz, Karl, 1849—1889, Oberweimar.
+
+- Eichenkloben. Die Reste eines Eichenstammes zusammengehauft. Leinw. a. Holz 17/22.Bez.: K. B.
+
+## Carracci, Annibale,1560—1609, Rom.
+
+- 23 Der Flotenspieler. Leinw. 70/54.
+
+## Champaigne, Philippe de, 1602-1674, Paris.
+
+- 24 Portrat von Racine in Port Royal. Leinw. 92/73.
+
+Charlet, Nicolas Toussaint, 1792—1845, Paris.
+
+- Charlet.Leinw. 63/42.
+- 25 Kopf eines Mannes, auf einem Petschaft sitzend. Bez.: Souvenir d'atelier
+
+## Bez.: E. Clery, 1866.
+
+- 26 Diana. Am Ufer eines Wassers geht die Gottin, begleitet von ihrem Hund, durch die nachtliche Landschaft. Leinwand 95/50.
+
+## Codde, Pieter Jacobsz, 1600—1678, Amsterdam.
+
+- 27 Der Trinker, in der Rechten einen Becher haltend, trinkt einem Manne zu. Holz 24/11.Bez.: Monogramm.
+
+## Corot, Jean Baptiste Camille, 1796-1875, Paris.
+
+- Wald von Fontainebleau. Das Licht dringt von links durch die Baume und wirft Reflexe auf den Weg, auf welchem eine Frau nach dem Hintergrund eilt. Leinw. a. Holz 17/27. Stempel: Vente Corot.
+
+## Correggio, Antonio da, 1494—1534, Correggio. (Zugeschr.)
+
+- Ecce homo! Holz 44/33.
+- Brustbild der Magdalena.Leinw. 42/36,5.
+- 28
+- 29
+- 30
+
+## Cousin, Jean, 1501—1589, Paris.
+
+- 31 Venus und Amor. Holz 26,5/19.
+
+Siehe Abbildung Tafel Il.
+
+## Craesbeek, Joos van, 1606-1662, Brissel.
+
+- 32 Schenke. An einem Fass sitzen die Wirtin mit Zinnkanne und ein Zecher,
+- der ihr zutrinkt, sowie ein Raucher. Holz 24/25.
+## Cranach, Lukas d. Ae., 1472—1553, Weimar.
+
+- 33 Kleopatra gibt sich den Tod. Holz 38/29,5.
+
+## Cuyp, Jacob Gerritsz, 1594—1649, Dordrecht.
+
+- 34 Tierstuick. Im Vordergrund Kihe, Schafe und Ziegen lagernd, dabei der Hirte sein Morgengebet verrichtend. Gelblicher Himmel. Holz 33/40.
+
+## Daubigny, Charles Francois, 1817—1878, Paris.
+
+- Weideland umgrenzt den Flusslauf, bei einem 35 An den Ufern der Marne.
+- Weidengebusch zwei Angler. Leinw. 37/61. Bez.: Daubigny.
+
+## David, Jacques Louis, 1748—1825, Bruissel.
+
+- 36 6Brustbild der Kaiserin Josephine. Leinw. 46/38.
+- 37 Kopf eines Greisen. Leinw. 0val 42/33,5.
+
+## Decamps, Alexandre Gabriel, 1803—1860, Fontainebleau.
+
+- 8 Araber. Zwei Manner unterhalten sich im Hof eines Hauses. Holz 17/12.
+- Bez.:Decamps.
+
+## Deutsche Schule des 15. Jahrh.
+
+- 39 Pieta.Holz 65/46.
+
+## Deutsche Schule des 16. Jahrh. (Art des Holbein).
+
+- 40 Prinzessin von Cleve oder Bayern. Brustbild. Leinw. 70/63.
+
+## Deutscher Meister des 18. Jahrh.
+
+- 41 Kopf eines alten Mannes mit weissem Bart und Haar. Holz 40/28.
+
+## Diaz de la Pena, Narcisso Virgilio, 1807—1876 Mentone.
+
+- 42 Abend. Der Vollmond, von hellen Wolken umsaumt, bescheint eine Flachlandschaft, links Saum eines Hochwaldes,rechts Baumgruppen,im Hintergrund ein Dorf. Leinw. 20/35. Stempel: Vente Diaz.
+
+## Diez, Wilhelm von, 1839—1908, Muinchen.
+
+- 43 Der Bonvivant. Ein wohlbeleibter Zecher, im Kostum des 17. Jahrh., ist
+- machen sich iber ihn lustig. Holz 18/16. Bez.: Wilh. Diez.
+
+## Does, Simon van der, 1653—1717, Haag.
+
+- 44 Landschaft. Durch bergiges Gelande windet sich ein Fluss, iber ihn fuhrt eine gemauerte Bricke zu einer Burg auf dem Berg, von der eine Kavalkade nach dem Vordergrund zu reitet. Holz 34/45. Bez.:van der does f.
+- 38
+## Dupre, Jules, 1812-1889, Isle-Adam.
+
+- 45 Landschaft mit Kuhhirten. Holz 18,5/29,5.
+
+Dyk, Anthonis van, 1599-1641, Blackfriars (London). (Schule des).
+
+- 46 Kopf eines Mannes mit Halskrause. Pastell 65/50.
+- 47 Ecce homo! Christus mit der Dornenkrone und Rohrszepter. Geschnittener
+- Holzrahmen.Leinw. 86/73.
+
+## Englische Schule.
+
+- 48 Portrat eines Mannes in Lockenpericke. Leinw. oval. 60/50.
+- 49
+- Portrat eines Mannes in Pericke mit Ordenstern. Leinw. 66/55.
+- 50 Brustbild eines jungen Madchens mit Strohhut. Leinw. 40/32.
+- 51 Portrat von Benjamin Franklin. In holzgeschnittenem Rahmen.Karton 51/42. Siehe Abbildung Tafel V.
+
+## Feuerbach, Anselm Friedrich, 1829—1880, Venedig.
+
+- 52
+- 53
+- Studienkopf. Brustbild eines Romers. Leinw.43/63. Bez.: Rom 1866. A. F.
+
+## Flockenhaus, Heinrich  Dusseldorf.
+
+- Herbst. Auf dem Weg an Wassergraben vorbei, kommt eine Bauersfrau mit Kind nach dem Vordergrund, rechts Gehoft unter Baumen. Holz 45/35.
+- 54 Winter. Hinter der mit Unterholz bestandenen Halde versinkt die Sonne, im Hintergrund ein Dorf, als Staffage Kinder. Pendant z. Vor. Beide bez.: H. Flockenhaus Dd. f.
+
+## Foucquet, Jehan, 1415—1480, Paris.
+
+- 55 Portrat Philipps des Guten, Herzog von Burgund im 36. Lebensjahre.
+- Reich geschnitzter vergoldeter Rahmen. Holz 64/53.
+
+## Siehe Abbildung Tafel I.
+
+## Francia,Alexandre, 18131884, Bruissel.
+
+- 56 Landschaft mit Fluss, an dessen linkem Ufer von Parkanlagen umgebene Schlosser, rechts Weidengruppe, unter der ein Hirte seine Herde
+- weidet.Leinw. 46/61.Bez.:A.Francia.
+
+## Francken, Familie der.
+
+- 57 Das Urteil Salomonis. Holz 50/57.
+- 58 Gottvater, die Jungfrau und Heilige. Holz 69/54.
+## Francken, Frans d. J., 1581—1642, Antwerpen.
+
+- 59 Der Kalvarienberg.
+- Christus am Kreuz, an dessen Fuss Magdalena, rechts Johannes, links Maria von einem Engel gestitzt. Im Hintergrund die Kriegsknechte. Auf dem gemalten Rahmen oben Gottvater, in den vier Ecken die Evangelisten, dazwischen Engel mit Marterwerkzeugen. Holz 48/34, mit gemaltem Rahmen 67/53. Siehe Abbildung Tafel IV.
+
+## Franzosischer Meister des 18. Jahrhunderts.
+
+- 60 Damenportrat. Brustbild mit hoher Lockenfrisur und dekolletiertem graublauem Kleid. (Angeblich die Geliebte des Pratendenten Stuart). Siehe Abbildung Tafel V. Leinw. 58/54.
+
+## Franzosische Schulen.
+
+- 61 Allegorie auf den Sommer. Panneau fir ein Mobel. Holz 30/53.
+- 62
+- Brustbild einer Dame nach rechts. Leinw. oval 81/65.
+- 63
+- Diana als Jagerin. Brustbild in reichem Gewand. Holz 50,5/42. In holzgeschnitztem Rahmen.
+- 64 Portrat einer Herzogin von Burgund. Leinw. oval 73/59.
+- 65 Brustbild einer Dame. Leinw.oval 72/60.
+- Siehe Abbildung Tafel V.
+- 66 Studien won Mannern und Frauen. Leinw. 37/46.
+- 67
+- 68
+- 69
+- 70
+- 71
+- Diana den Bogen spannend. Leinw. 80/35.
+- Portrat eines Herrn in Lockenpericke und Spitzenjabot. Leinw. 70/58.
+- Portrat des Duc de Noailles. Leinw. 81/64.
+- Huftbild einer Frau, welche Blumen in der Hand halt. Leinw. 83/64.
+- Putten mit Kaninchen. Kart. Rund D. 37,5.
+- 72 Putten, Trauben essend.Pend. z. Vor.
+
+## Franzosische Schule des 19. Jahrhunderts.
+
+(Art des Couture)
+
+- 73 Frau mit Kind.Leinw. 78/57.
+
+Garnier, Jules Arsene, 1847-1889, Paris.
+
+- 74 Bacchantin,mit Tambourin und Leopardenfell. Holz 43,5/26.
+
+Gerard, Francois Pascal Baron, 1770—1837, Paris.
+
+- 75 Damenbildnis. Brustbild einer schonen, jungen Dame in dekolletiertem, weissem Seidenkleid mit rotem, pelzbesetztem Uberwurf. Bezeichnet:
+- P. Gerard f. Pastell 68/55. Siehe Abbildung Tafel IIl.
+## Goltzius, Hendrik, 1558—1616, Harlem. (Zugeschrieben).
+
+- 77 Die Fruchtbarkeit. In geschnittenem Holzrahmen. Holz 70/90.
+- 76 Susanna und die beiden Alten. In holzgeschnitztem Rahmen. Leinw. 98/67. Scheint eine alte Kopie nach dem beigefigten Kupferstich zu sein. Siehe Abbildung Tafel Ill.
+
+## Goijen, Jan van, 1596—1656, Haag.
+
+- dichte Rauchwolken zum Himmel steigen. Holz 21/33. Bez.: W. C.Roose.
+- 78 Festung am Wasser. Am jenseitigen Ufer eines breiten Flusses liegt eine mit Bollwerken und zahlreichen Turmen geschitzte Stadt, aus der
+
+Greuze, Jean Baptiste,1725—1805, Paris.
+
+## (Manier).
+
+- 80 Kopf eines alten Mannes. Holz 46/37.
+- 79 Brustbild eines jungen Madchens. Leinw. 45,5/37.
+
+## Griffier, Jan, 1656—1718, London.
+
+- worauf ein Fuhrwerk, rechts Hohenzige und Ortschaften. Leinw. 43/71.
+- 81 Winterlandschaft. Weg in gebirgiger Gegend mit Kastell und Bricke,
+- 82 Desgl. Aehnliche Darstellung. Pendant z. Vor.
+- 83
+
+## Gude, Hans Frederik, 1825—1903, Berlin.
+
+- Kuste. Nahe der Kaimauer liegt ein Boot, dessen Fuhrer sich mit einer Frau,die an einem Schimmel lehnt, unterhalt,dahinter Dorf und Hohenzige. Leinw. 40/70. Bez.: H. Gude.
+
+## Harburger, Edmund, 1846—1906, Munchen.
+
+- sanft entschlummert. Leinw. 47/38. Bez.:E. Harburger.
+- 84 Siesta. Auf einer Bank sind Mann und Frau in oberbayrischer Tracht
+
+## Hebert, Antoine Auguste Erneste, 1817—1908, Paris.
+
+- 85
+- Studienkopf einer Frau. Leinw. 40/33.
+
+## Heda, Willem Claesz, 1594—1679, Haarlem.
+
+- 87 Desgl. Aehnliche Darstellung. Pendant z. Vor.
+- 86 Stilleben. Mandoline, Folianten und Becher auf einem Tisch. Holz 20/17.
+
+## Heem, Jan Davidz de, 1606—1683, Antwerpen.
+
+- auf einem Tisch. Holz 22,5/28,5. Bez.: Monogramm J. D.H.
+- 88 Stilleben. Fruhstick. Weinglas, Austern, Zitronen, Brot und Trauben
+Heem, Jan Davidz de, 1606—1683, Antwerpen.
+
+- 89
+- Stilleben. Krebse, Austern und Weintrauben auf einem grin gedeckten Tisch, im Hintergrund Pflaumen und ein halbgefilltes Glas.Kupfer 12/28. Bez.: Monogr. J. D. H.
+
+## Hensius.
+
+- 90 Brustbild einer Dame. Leinw. 41/33.
+
+Herwegen-Manini, Veronika, geb. 1851, wohnt Malcesina am Gardasee.
+
+- 91 Ansicht von Venedig. Leinw. 125/250.
+- 92 Das Colosseum in Rom. Pend. z. Vor. Beide bezeichnete Hauptwerke der Kinstlerin, in vorziglicher Ausfihrung.
+
+## Bezeichnet:v. Hoftade F.
+
+- 93 Weiblicher Studienkopf. Leinw. 46/37.
+
+## Hollandische Schule.
+
+- 94 Bildnis des Admirals de Ruyter. Brustbild. Leinw. 73/60.
+- Siehe Abbildung Tafel Il.
+
+## Hooch,Pieter de, 1629—1677,Amsterdam.
+
+- Interieur, worin lesende Frau vom Rucken gesehen, das Licht fallt durch ein Oberfenster auf die mit Bildern geschmickte Wand. Holz 17/14.
+- 95 Bez.: Monogr,P. H.
+
+## Italienische Schule des I2. Jahrh.
+
+- 96 Brustbild eines Heiligen,auf Goldgrund. Holz 54/43.
+
+## Italienische Schule des l4. Jahrh.
+
+- 97 Geburt Christi.Holz 51/40.
+
+## Italienische Schule des 15. Jahrh.
+
+- 98 Brustbild des heil. Petrus, in einer Landschaft im Buche lesend. Leinwand 44,5/33,5.
+
+## Italienische Schule des 16. Jahrh.
+
+- 99 Brustbild des Michelangelo Buonaroti. Leinw. 40/30,5.
+- Siehe Abbildung Tafel I.
+- 112
+
+## Italienische Schulen.
+
+- 100 Die heilige Familie.Leinw.104/87.
+- 101 Maria mit dem Kind und Engeln. Holz 50,5/35.
+- 102
+- 103 Heilige Familie. Holzgeschnitzter Rahmen. Holz 66,5/49,5.
+- Kind vor einem roten Vorhang sitzend. Holz 57/49.
+- 104 Fruchtstick. Links Weintrauben und Granatapfel, von rechts kommt ein weisses Kaninchen. Leinw. 50/62.
+
+## Kalff, Willem, 1622—1693, Amsterdam.
+
+- daneben halb gefulltes Glas und Nautilusbecher. Leinw.39/53.
+- 1059 Stilleben. Auf einem grun gedeckten Tisch liegen Apfel und Trauben,
+
+Kessel, Jan van d. Ae., 1626—1679, Antwerpen.
+
+- 107.Desgl.Pendant z. Vor.
+- 106 Insekten und Amphibien. Holz 18/22.
+
+Kessler, Joh. M. Benj., 1760-1823, Frankfurt a. M.
+
+- 108 Hollandische Kiste. Holz 18,5/26.
+- 109
+- Hollandischer Strand mit Staffage. Pend. z. Vor. Bezeichnet.
+
+## Koekkoek, Barend Cornelis, 1803-1862, Cleve.
+
+- 110 Winter. Auf einer zugefrorenen Wasserflache Schlittschuhlaufer, rechts Eichengruppe, im Hintergrund Wald. Holz 21/27. Bez.: B. C. Koekkoek
+
+## Konig, Michel de.
+
+- 111 Kopf eines alten Mannes. Leinw. 62/49,5.
+
+## Labille -Guyard.
+
+- Brustbild einer jungen Frau in grossem Hut. Leinw. 66/55.
+
+Largilliere, Nicolas de, 1656—1746, Paris. (Angeblich).
+
+- 113 Portrat einer Frau. In geschnitztem Holzrahmen. Leinw. a. Kart. 35/29.
+
+Ledoux, Jeanne Philipberte, 1767—1840, Belleville.
+
+- 114 Junges Madchen im Gebet. Leinw. 60/49.
+
+## Le Nain,Louis,1593—1648, Paris.
+
+- 115 Kopf eines Mannes. Leinw. 43,5/39,5.
+Loo, Charles Andre van (Carle), 17051765, Paris.
+
+- 116 Portrat von Pierre de Cluzel, Marquis de Montpipeau. Leinw. 81/65.
+
+Manet, Edouard, 1832—1883, Paris.
+
+- 117 Hihnerhund. Skizze. Leinw. 46/38.
+
+Maratta,Carlo,1625—1713,Rom.
+
+- 118 Maria ein Buch haltend. Leinw. 65/51.
+
+Menzel, Adolf Friedrich Erdmann von, 1815—1905, Berlin.
+
+- 119 Das Kirchenkonzert. Rechts musizierende Monche, links singende Damen. Skizze aus der Zeit der Anwesenheit des Kuinstlers in Paris (1868/9).
+- Holz 21/30.Bez.:A.M.
+
+Metzu, Gabriel, 1630—1667, Amsterdam.
+
+- 120 Konversationsstick. Herr und Dame in einem reichen Interieur in an geregter Unterhaltung. Leinw. a. Holz 41,5/32,5. Siehe Abbildung Tafel Il.
+
+Meulen, Adam Francois van der, 1631—1690, Paris.
+
+- 121
+- Konigliche Hirschjagd. Leinw. a. Holz rund D. 32,5.
+
+Mignard, Pierre d. A., (gen. Le Romain), 1612—1695, Paris.
+
+- Leinw.oval 70/59.
+- 122 Bildnis der Gemahlin des Marschall yvon Soubise. Siehe Abbildung Tafel V.
+- 123 Portrat einer Herzogin von Burgund. Brustbild. Leinw. oval 40/32.
+- 124
+- 125 Brustbild einer jungen Frau in Blumen. Holz 37/28.
+- Brustbild eines Herzogs von Burgund. Pend. z. Vor.
+
+Mignard, Pierre d. J., 1645—1725, Paris.
+
+- 126 Jesus als Kind. In der Linken ein Zepter haltend, die Rechte segnend erhoben.Leinw. 63/50.
+- 127 Anna von Oesterreich, in einer Landschaft sitzend, in der Linken das Portrat ihres Sohnes haltend. Leinw. 91/73.
+
+Mignon, Abraham, 1640-1679, Frankfurt a.M.
+
+- 128 Blumenstick. An blauer Schleife hangt ein Strauss von Rosen, Tulpen
+- und Nelken, iberhoht von einem Hahnenkamm, im Vordergrund ein Kaninchen. Holz 36,5/27.
+- 129
+
+Miranda, Juan Carreno da, 1614—1685, Madrid.
+
+- Bekehrung des Paulus. Leinw. 54/39.
+
+Monnoyer, Jean Baptiste, 1634—1699, London.
+
+- verschiedenartigen Blumen.  Vorzugliches Werk des Meisters, zum Teil nur angelegt und untermalt. Leinw. 65/76.
+- 130 Blumenstick. Auf einer Tischplatte steht eine niedere breite Vase mit
+
+Morales, Luis de, 1510—1586, Badajoz.
+
+- 132
+- 131 Christus das Kreuz tragend. Leinw. 67/50.
+- 133
+- Christus mit der Dornenkrone. Leinw. 36/30,5.
+
+Moroni, Giovanni Battista, 1520—1578, Brescia. (Zugeschrieben.)
+
+- 134 Brustbild eines Mannes mit Spitzenkragen. Leinw. 60/48.
+
+Munthe, Ludwig, 1841—1896, Dusseldorf.
+
+- 135 Winterlandschaft. Vom Vordergrund der schneebedeckten Landschaft fuhrt ein Weg zu Baumgruppen hinter deren Gipfeln die Sonne sinkt,
+- zur Rechten ein Gehoft. Holz 18/28. Bez.: L. M.
+
+Neer, Aernout van der, 1603—1677, Amsterdam.
+
+- 136 Dorf am Wasser. Schloss und Kirche iberragen die Hauser eines Dorfes am Ufer, von deren einem, in Brand geratenen, Rauch und Feuersaulen aufsteigen, den Fluss beleben bemannte Bote. Holz 19/24. Bez.: Monogramm?
+
+Netscher, Caspar, 16391684, Haag
+
+- auf einem reich geschnitzten vergoldeten Stuhl auf der Terrasse, mit Blick in einen Park. Zu ihren Fussen ein Hundchen. Leinw. 68/52. Siehe Abbildung Tafel Il.
+- 137 Bildnis der pfalzischen Prinzessin Liselotte. Sie sitzt in ganzer Figur
+
+0devaere, Joseph Denis, 1778—1830, Bruissel.
+
+- 138 Portrat des Chemikers Fourcroy. Huftbild nach links sitzend. Leinw. 81/65.
+
+Ostade, Adriaen Jansz van, 16101685, Harlem.
+
+- 139 Selbstportrat.Leinw. 81/65.
+- Siehe Abbildung Tafel Ill.
+- Pieta.Holz 44,5/35.
+Oudry, Jean Baptiste, 16861755, Beauvais.
+
+- 140 Vogel am Meeresgestade. Leinw. 55/42.
+- Reiher.Leinw. 48,5/40.
+- 141
+
+Pannini, Giovanni Paolo, 1695—1768, Rom.
+
+- 142 Romische Ruinen. Als Staffage: Kinder mit Affen spielend. Leinw. 42/33.
+- 143 Desgl. Als Staffage:Gauklerfamilie. Pend. z. Vor.
+
+Pippi, Giulio (Romano), 1493—1546, Mantua. (Art.)
+
+- 144
+- 145
+
+## Porbus.
+
+- Maria mit dem Kind. Holz 53/43,5.
+- 146 Portrat einer Dame mit Spitzenkragen. Holz 46/36,5.
+
+## Alte Portugiesische Schule.
+
+- 147 Kreuzritter mit Bogen und Pfeil. Stukkomanier. Holz 41/25.
+
+Potter, Paulus, 1625—1654, Amsterdam.
+
+- 148 Tierstick. Unter einem Baum zwei liegende Kuhe. Leinw. 45/46.
+
+Pourbus, Frans d. J., 1575—1622, Paris.
+
+- 149 Portrat von Michael Marescotius, Kanzler Heinrichs IV. Leinw. 69/55.
+
+Primaticcio, Francesco,1504—1570, Paris.
+
+- 150
+- Hiftbild der Diana von Poitiers, hinter einem Tisch auf dem ein Schmuckkasten steht. Holz 105/81. Siehe Abbildung Tafel Ill.
+- 151 Francois I et la belle ferronniere. Holz 30/45.
+
+## Primitiver Italienischer Meister.
+
+- 152 Judith und Holofernes. Holz 64/42.
+
+Ranc, Jean, 1674—1735, Madrid.
+
+- 153 Portrat Louis XV. als Kind. In holzgeschnitztem Rahmen. Leinw. 77/62.
+
+Restout, Jean Bernard, 1732—1797, Paris.
+
+- 154 Selbstportrat. Leinw. 46/38.
+
+Reni, Guido, 1575—1642, Bologna.
+
+- 155 Mann eine junge Frau erdolchend. Leinw. 63/50.
+- Reiterkampf. Holz 64/150.
+- 157
+
+## Riesener, Henri Francois, 1767—1828, Paris.
+
+- 156 Hiftbild eines Mannes. Leinw. 27/22. Bezeichnet: Riesener.
+
+## Robert, Hubert, 1733—1808, Paris.
+
+- Ruine eines romischen Palastes, mit reicher Staffage. Leinw.109/90.
+- 158 Desgl. Desgl. Pendant z.Vorigen. Siehe Abbildungen Tafel VI.
+
+Robert, Hubert, 1733—1808, Paris. (Manier).
+
+- 159 Landschaft mit Ruinen. Leinw. 39,5/31,5.
+
+## Ronner, Henriette, geb. 1821, Amsterdam.
+
+- 160 Katzenfamilie. Spielende Katzen auf einem Tisch mit Spitzendecke. Leinw. 30/90. Bez.: Henriette Ronner.
+
+Rubens, Petrus Paulus, 1577—1640, Antwerpen. (Zugeschrieben).
+
+- 161 Die Anbetung der Konige. Holz 61/75.
+- 162
+- Brustbild eines der heil. drei Konige. Leinw. 62/50.
+- Der Leichnam Jesu im Schoosse der Maria, umgeben von heiligen Frauen.
+- 163 Holz 54/78.
+
+Ruisdael, Jacob Izacksz van, 1628-1682 Haarlem.
+
+- Marine. Unter drohenden Gewitterwolken, zahlreiche Fischerbote auf
+- 164 wildbewegtem Meer.Holz 21/31.
+- 165 Bauernhof. Aquarell 17/22. Bez.: Monogr. J. R.
+
+## Russische Schule.
+
+- 166 Pope im 0rnat. Holz 26,5/22,5.
+
+## Rijn, Rembrandt Harmensz van,1606—1669, Amsterdam (Schule)
+
+- 167 Portrat der Saskia. Leinw. 63/54. Siehe Abbildung Tafel I.
+- 168 8 Portrat eines Mannes, mit rotlichem Vollbart. Huftbild in dreiviertel Wendung nach rechts. Schwarzes Gewand, mit Ehrenkette, weisser Mihlsteinkragen, schwarzer Schlapphut. Bezeichnet: Rembrandt f. 1645.Leinw. 95/75.
+- 169 Kopf, Johannes des Taufers, auf einer Schissel liegend. Holz 30/41,5.
+- 170 Der Philosoph. Leinw. 39/31.
+Rijn, Rembrandt Harmensz van, 16061669 Amsterdam.
+
+- Kopf eines Pascha. Das Gesicht, umrahmt von weissem Vollbart,in
+- 171 dreiviertel Wendung nach links. Holz 30/25. Bez.: Rembrandt f.
+
+Scheffer, Arie, 1795—1858, Argenteuil.
+
+- Madchenbildnis.Leinw.36/32.
+- 172
+
+Schleich, Eduard d.Ae.,1812—1874, Muinchen.
+
+- 173 Landschaft. Um ein Feuer im Vordergrund gruppieren sich mehrere Personen, dahinter Gehofte vor Baumgruppen, iber dem Ganzen gelblicher Himmel.Leinw. a.Kart.12/16.
+
+Schongauer, Martin (Schoen), 1420—1488, Kolmar.
+
+- 174 Christus am Kreuz, zur Seite Maria und Johannes. Holz 58/48 cm.
+- Siehe Abbildung Tafel IV.
+
+## Schule von Brigge.
+
+- 175 Portrait eines Mannes. Holz 22/22
+
+## Schule von Siena.
+
+- 176 Der Kalvarienberg. Die Schacher zu beiden Seiten des gekreuzigten Heilands. Unter ihnen Maria und Johannes, am Fuss des Kreuzschaftes Magdalena knieend. In altem, reich profiliertem Holzrahmen. Holz 52/40.
+
+Sisley, Alfred, 1840—1899, Moret-sur-Loing.
+
+- 177
+- An der Oise. Am Flussufer Gehofte, dahinter Baumgruppen, Barken beleben den Fluss und Ganse ruhen am Ufer. Leinw.28/45. Bez.: Sisley.
+
+## Spanische Schule.
+
+- 178 Frauenportrat. Leinw. 53/45.
+
+## Spanische Schule, Gothisch.
+
+- 179 Christuskopf. Auf Leder, teilweise geschnitten. 36,5/28.
+
+Sues, Konrad Gustav, 1823-1881, Dusseldorf.
+
+- 180 Stilleben. Auf einem Tisch mit geschnitzter Platte steht eine Schissel, enthaltend zerteilte Orange und Stiefmitterchen.Holz 27/35. Bez.: Gust. Sus.
+- 181
+
+Teniers, David d. Ae., 1582—1649, Antwerpen.
+
+- Landschaft. Im Vordergrund drei Bauern in Unterhaltung, am Flussufer drei Bauernhauser, dabei einzelne Baume, weiter Blick in die Ebene mit Gebauden und Dorfern. Holz 45/62.
+
+Teniers, David d. J., 1610——1690, Perck bei Bruissel. (Spatere Kopie).
+
+- 182 Landschaft mit Bauernhof und Staffage.Holz 39/55.
+
+Theotocopuli, Domenico (ll Greco), 1548—1625, Venedig.
+
+- 183 Der heilige Hieronymus. Der Heilige in Hufffigur, in der Monchskutte, kniet hinter einem Altar, auf dem vor ihm Totenkopf, Geissel und Gebetbuch liegen. In den ibereinander gelegten Handen halt er ein Kruzifix, das er innig kisst. Holz 71/56. Geschnitzter und vergoldeter Holzrahmen.
+
+## Tiepolo, Giov. Battista, 1696—1770, Madrid.
+
+- 184 Die Hochzeit zu Kanaan. Leinw. 96/76. Gemalde in lebhaften Farben ausgefuihrt und charakteristisches Bild aus der Zeit.
+- 185
+- 186 Kronung eines Papstes. Entwurf zu einem Deckengemalde. Leinw. oval 45/26.
+- Kopf eines alteren Mannes.Leinw. 45/33.
+
+## Angeblich Tiepolo.
+
+- 187 Kind mit Schutzengel. Im geschnitzten Holzrahmen. Kupfer 25,5/19,5.
+
+## Troy, Francois de, 1645—1730, Paris.
+
+- 188 Minerva kront Helden mit dem Lorbeerkranz. Leinw. 61/51.
+
+Turner, Joseph Mallord William, 1775—1851,London.
+
+- 189 Schloss am Wasser. Bezeichnet: J. M. W. T. Leinw. 22/32,5
+
+## Unbekannter Meister des 17. Jahrh.
+
+- 190 Landschaft mit Ruinen. Links Ruinen von antiken Bauten, dahinter Burgen auf Felsen, in der Ferne das Meer mit Schiffen. Leinw. 28/37.
+
+## Unbekannter Meister.
+
+- Christus am Kreuz. Holz 67/43.
+- Christuskopf. Holzgeschnitzer Rahmen. Holz 28/23.
+- 191
+- 192
+Vargas, Luis de, 15021568, Sevilla.
+
+- 193 Die heil. Dreieinigkeit, dargestellt durch drei mannliche Figuren, stehend auf Wolken und von Engeln umgeben. Holz oben rund 183/119.
+
+Velde,Adriaen van de,1636—1672,Amsterdam.
+
+- 194
+- Hohlweg. Felsen, auf denen ein Bauernhaus, fallen steil zu einem Wege ab, auf diesem treibt ein Hirte zwei Kuhe vor sich her. Holz 39/63. Bez.:A.v.Velde f. 1671.
+
+Verboekhoven, Eugene Joseph, 1799—1881, Brissel.
+
+- 195 Schafe auf einer Wiese ruhend, rechts Baumgruppen, im Hintergrund
+- Hohenzuge. Holz 18/24. Bez.:E. Verboekhoven f.
+
+Vincent, Francois Andre, 1746—1816, Paris.
+
+- 196 Ein Gondolier.Brustbild. Leinw. 71/58.
+
+Lionardo da Vinci, 1452-1519, Chateau Cloux bei Amboise. 197 Maria mit dem Kind in einer Landschaft. Leinw. 64/52.
+
+## Vlamische Schule.
+
+- 198 8 Altarbild. Dreifluglig mit Darstellungen aus den Leiden Christi und der Verklarung. Auf dem Mittelbild Kreuzigungsgruppe, darum in Medaillons: Der Oelberg, die Geisselung, die Dornenkronung, die Kreuzschleppung, die Kreuznagelung und Auferstehung. Auf den inneren Flugeln das juingste Gericht, auf den ausseren, Bischofe und Heilige. Bezeichnet: A. D.15F 90. Holz oben spitz zulaufend 135/172, Seitenbilder je 125/65. Siehe Abbildung Tafel Vll.
+
+Watteau, Jean Antoine, 1684—1741, Nogent-sur-marne (Zugeschrieb.) 199 Die drei Grazien auf Wolken. Leinw. 68/52.
+
+Weenix, Jan, 1640—1719, Amsterdam.
+
+- Stilleben. Geflugel, Obst, Blumen, Schmetterling und Insekten.
+- 200 Bezeichnet und Jahreszahl 1719.Holz 82/66.
+
+Weyden, Rogier van der, 13991464, Bruissel. (Nachahmer). 201 Die Kreuzabnahme. Holz 76/108.
+
+## Bronzen.
+
+Meunier, Constantin, geb. 1831 Bruissel.
+
+202 Verwundet. Bronze, Hohe 25 cm.
+
+203
+
+Sacktrager.Bronze, Hohe 48 cm.
+
+204
+
+Kopf eines Bergmannes. Bronzerelief 16/21.
+
+205
+
+Brustbild des Kinstlers. Bronzerelief rund D. 20 cm.

@@ -1,0 +1,2279 @@
+<!-- image -->
+
+## DESIGNATION
+
+## GRAVURES ENCADREES
+
+Recueils de Costumes
+
+## ANONYME
+
+- Plan de la ville et des faubourgs de Paris. Sans nom d'auteur. Belle epreuve coloriee. Encadrée.
+
+## ANONYME
+
+- —Les Galeries de bois du Palais-Royal, en 183o. Lithographie en couleur. Encadree.
+
+BASSET (A PARIS CHEZ)
+
+- 3—La Belle du Matin. Quatre Bustes de femmes.
+
+Deux pieces coloriees. Encadrées.
+
+BEL(D'apres LE)
+
+- Offrande a Venus ou la Victoire agreable. 4
+- L'Agreable moment ou le Songe delicieux.
+
+Deux pieces gravees par de G... et d'Ab... Encadrées.
+- 8
+
+## BONNET (LOUIS-MARIN)
+
+- L'Amour prie Venus de lui rendre ses armes, 5 d'apres F. BoucHER.
+
+Superbe épreuve,imprimee aux crayons de couleur,en imitation du pastel, sur papier teinte. Petite marge. Encadree.
+
+## BONNET (LOUIS-MARIN)
+
+- 6 一 Le Reveil de Venus, d'apres F.BoucHER.
+
+Superbe epreuve,imprimee aux crayons de couleur,en imitation du pastel,avec la guirlande de feurs, sur papier teinte. Sans marge. Encadree.
+
+## COYPEL (D'apres CH.)
+
+- Portrait de J.-B. P. de Moliere, par LEPIcIE.
+- Superbe epreuve avant toutes lettres. Marge. Rare.
+
+## DEMARTEAU (GILLES)
+
+- Marie-Antoinette, Dauphine, d'apres VAssE. Medaillon de profil a la sanguine.
+
+## DESRAIS (D'apres C.-L.)
+
+- Le Maitre galant, par BeRTHET.
+- Belle epreuve. Encadrée.
+
+## EISEN (D'apres CH.)
+
+- 10— L'Amour europeen, par Basan. Belle epreuve. Encadrée.
+
+## GUYOT (Chez)
+
+- Feuille de dix-huit petites gravures en couleurs, pour boutons, offrant chacune un épisode de la Prise de la Bastille.
+
+Superbe epreuve,imprimee en couleur. Marge. Encadree.
+## LE BRUN (D'apres)
+
+- 12 — Le Divertissement de la nuit, par DAMBRUN.
+
+Belle epreuve. Encadrée.
+
+## NATTIER (D'apres J.-M.)
+
+- 13—— -La Force, sous les traits de Marie-Anne de Mailly,Duchesse de Chateauroux, par BaLECHOU.
+
+Belle épreuve. Encadree.
+
+## NATTIER (D'apres J.-M.)
+
+- 14—— L'Air, sous les traits de Madame Adelaide de France, par BeAUvARLET.
+
+Belle epreuve. Encadree.
+
+## NATTIER (D'apres J.-M.)
+
+- 15 -L'Eau, sous les traits de Madame Victoire-LouiseMarie-Therese de France, par GAILLARD. Belle épreuve. Encadree.
+
+## NATTIER (D'apres J.-M.)
+
+- 16-Le Feu, sous les traits de Madame Marie-
+- Henriette de France, par J. TarDIEu.
+
+Belle epreuve. Encadrée.
+
+## NATTIER (D'apres J.-M.)
+
+- La Terre, sous les traits de Madame Louise17 Elisabeth de France,Duchesse de Parme, par
+
+BALECHOU.
+
+Belle epreuve. Encadree.
+## PETIT (A PARIS,CHEZ)
+
+18— Le Pere la Joye.
+
+Piece encadree.
+
+## QUEVERDO (D'apres)
+
+Les Plaisirs de l'Automne, par DaMBrUN.
+
+- 61 Belle epreuve. Encadree.
+
+## WATTEAU (D'apres AnT.)
+
+- L'Enseigne, de Gersaint, par P.AvELINE.
+- 20 一 Superbe epreuve. Marge. Encadree.
+
+## RECUEILS DE GRAVURES
+
+21—Collection de figures theatrales, inventees et gravees par Martin,cy-devant dessinateur des habillements de l'Opera. Se vend a Paris, chez l'auteur, rue de la Sourdiere (vers 1775).
+
+Suite complete de vingt et une estampes a toute marge, sauf le titre qui est remarge. (Une vingt-deuxieme piece ajoutee.) Demi-reliure in-fol. en maroquin avec coins, tranche doree. (Canape).
+
+- 22 Co:leclion de figures theatrales inventeeset gravees par Martin, etc.
+
+Le titre aquarelle est moderne. Les quinze figures a la suite sont les modeles executes par J.-B. Martin, sur des contre-epreuves, retouchees a la plume, coloriees, rehaussees d'or et d'argent, et signees; modeles pour les enlumineurs de l'époque. Demi-reliure in-fol.en maroquin avec coins.
+## 23
+
+- Reunion de vingt-deux costumes francais, publiee chez MoNDHARE.
+
+In-fol. colories, representant:Marie-Antoinette.
+
+Louis XVI (ces deux pieces fort rares). Le Comte d'Artois. 一 La Promenade du matin.-I Dame le jour de son mariage.-L'Amour maternelle.—Dame pincant de la harpe.Dame a sa toilette.Toilette de bal.—Robe de mousseline.—Polonaise.-Robe anglaise.-Coiffure a la Belle-Poule.— Robe a la circassienne.-Toilette forentine. -Les Epoux en neglige. Le Petit Maitre. -Et cinq feuilles presentant chacune quatre bustes. La quatrieme piece est signée :C. B.;la quatorzieme:E. Berthet. Les autres sans indications d'auteurs. Demi-reliure petit in-fol. en maroquin avec coins. Tranche doree. (Canape).
+
+- 24— Costuimes de femmes du pays de Caux et de plusieurs autres parties de I'ancienne province de Normandie.
+
+Dessines la plupart par L. M. Lante (quelques-uns par Pecheux), graves par M. Gatine et colories, avec une explication pour chaque planche.Paris,chez l'éditeur,boulevard Montmartre, 1S27. Recueil contenant cent cinq planches d'anciens tirage et coloris. Reliure ancienne.
+
+- 25— Costumes de femmes, de Hambourg, du Tyrol,
+- de la Hollande, de la Suisse, de la Franconie, de l'Espagne, du royaume de Naples, etc.
+
+Dessines la plupart par M. Lante, graves par M. Gatine et colories avec une explication par chaque planche. Paris, chez l'éditeur,boulevard Montmartre,1827.Recueil contenant cent planches, petit in-fol. d'anciens tirage et coloris. Reliure ancienne.
+## DESSINS
+
+## Aquarelles et Gouaches
+
+Recueils de Costumes
+
+A.D.(ANDROUET DUCERCEAU?)
+
+26— Projets de consoles, en bois sculpte, du temps de la Regence.
+
+Quatre dessins a la plume et lavis,signes des initiales: A.D. Dans un seul cadre.
+
+Haut., 23 cent.; larg., 18 cent.
+
+## COSTUMES D'ACTEURS ET D'ACTRICES
+
+DES XVHET XVII SIECLES
+
+## PAR ALLOUARD
+
+Aquarelles originales gravees dans les Euvres completes de Moliere et Le Theatre Francais au xvie et xvile siecles. Paris,Laplace, Sanchez,187r.
+
+## ALLOUARD
+
+Alizon, dans Alizon fleuri, comedie du xvil siecle.
+
+27 Aquarelle signee.
+
+Cadre en baguette doree.
+
+Haut.,23 cent.; larg., 14 cent.
+
+## ALLOUARD
+
+Horace, en veste a la turque, dans la Seur,
+
+28 comedie de M. de RorRou.
+
+Aquarelle signee.
+
+Cadre en baguette doree.
+
+Haut., 23 cent.;larg., 14 cent.
+- 29 1 MOLIERE.
+
+## ALLOUARD
+
+- Agnes, dans l'Ecole des femmes, comedie de
+
+Deux compositions differentes. Aquarelles.
+
+Cadres en baguette doree.
+
+Haut., 23 cent.; larg., 14 cent.
+
+## BINET (V.-D.-F.)
+
+3o—Projet de vignette pour M. Nicolas de ReTIF DE
+
+- LA BRETONNE.
+
+Dessin a la plume et lavis d'encre de Chine.
+
+Cadre ancien dore.
+
+Haut.,13 cent.;larg.,8 cent.
+
+Ce dessin n’a pas éte grave, bien que la gravure ait ete annoncee par
+
+Retif sur le rer vol. de M. Nicolas. 《 Ile estampe, il a une fille a la joue 》.
+
+- 31 一 Pastorale.
+
+## BOUCHER (FR.)
+
+Aupres d'une fontaine, l'amoureux est agenouille pres de sa bien-aimee. Dans le feuillage,a l'arriere-plan, un troisieme personnage.
+
+Dessin a la pierre d'Italie. Signe et portant la marque de Lempereur, graveur et collectionneur du xvine siecle.
+
+Haut.,23 cent.;larg.,31 cent.
+
+Cadre ancien Louis XV,en bois mouluré et doré, orné d'un fronton aux armes du marquis de Marigny, frere de la Pompadour.
+
+## BOUCHER (FR.)
+
+## Pygmalion amoureux de sa statue.
+
+Composition differente de celle de l'estampe composee par le maitre pour les Metamorphoses d'Ovide.
+
+Dessin a la pierre d'Italie.
+
+Cadre dore.
+
+Haut.,36 cent.; larg., 22 cent.
+
+- 32
+34
+
+## BOUCHER (FR.)
+
+## Les Facheux.—La Comtesse d'Escarbagnas.—
+
+- 33 George Dandin.-Les Fourberies de Scapin.
+
+Quatre dessins,a la mine de plomb, sur velin. Dans le meme cadre.
+
+Cadre en baguette doree.
+
+Ce dessin a ete grave dans le livre: Fetes donnees par la Ville de
+
+Le cartouche ornemente est reproduit sur la couverture du present catalogue.
+
+Paris, a loccasion du mariage du Dauphin, en 1745.
+
+Haut., 19 cent.; larg., 13 cent.
+
+Cadre a fronton, en bois sculpte dore.
+
+Compositions gravees par L. Cars,pour illustrer l'édition in-4 des
+
+Euvres de Moliere,en 6 vol.,publiee en 1734.
+
+## CHEVAUX
+
+Berger surpris par des nymphes.
+
+Dessin au lavis d'encre de Chine. Signe et date :1784.
+
+Haut., 17 cent.; larg., 21 cent.
+
+Cadre en baguette doree.
+
+## CHOFFARD (P.-P.)
+
+- 35 Monument entoure d'un cadre.
+
+Dessin au crayon noir. Signe et date : 1736.
+
+Haut.,g cent.;larg.,1o cent.
+
+Cadre ancien en bois sculpte dore.
+
+## COCHIN (C.-N.)
+
+- 36 -Partie du plan de l'Hotel de Ville de Paris, avec cartouche ornemente.
+
+Dessin a la plume, encre de Chine et rehauts d'aquarelle.
+
+Haut., 53 cent.;larg, 77 cent.
+## COSTUMES DU XVIII SIECLE
+
+Suite de vingt-trois dessins originaux par Desrais,Le Clere, Aug. de Saint-Aubin et Watteau de Lille. Graves dans la Galerie des Modes et Costumes francais, publiee chez Esnault et Rapilly, commencee en 1778 et contenant 408 planches.
+
+## DESRAIS ET LE CLERE
+
+37—— Femme en robe a la Polonaise.
+
+Remettant sa jarretiere et laissant voir sa belle jambe, par Le Clere (no 37).
+
+Les Delassements du Bois de Boulogne.
+
+Deux personnages, par Le Clere (no 69).
+
+Cuisiniere nouvellement arrivee de province:
+
+Et qui commence a prendre les airs elegants de Paris, par Le Clere (n 47).
+
+Cauchoise elegante, vue par derriere. Par Desrais (n174).
+
+Quatre dessins a la sepia. Ont ete graves.
+
+Haut., 24 cent.; larg., 17 cent.
+
+Cadre en ancienne baguette Louis XVI, de bois sculpte redore.
+39 一
+
+## DESRAIS ET LE CLERE
+
+38  Jeune Dame en couche,coiffee d’un bonnet rond en linon broche.
+
+Par Desrais (n° g2).
+
+Femme en caraco plisse.
+
+Par Le Clere (no 88).
+
+Robe a l'anglaise de pekin vert pomme. Par Le Clere (n 76).
+
+Femme en deshabille du matin, couchee negligemment sur un sopha.
+
+Par Le Clere (n 51).
+
+Quatre dessins a la sepia. Ont ete graves.
+
+Haut.,24 cent.;larg,17 cent.
+
+Cadre en ancienne baguette Louis XVI, en bois sculpte redore.
+
+## DESRAIS ET LE CLERE
+
+-Acteur bourgeois etudiant son role a la promenade. Par Le Clere(n 58).
+
+Gouvernante d’enfants, chez des gens de qualité.
+
+Par Le Clere (n 42).
+
+Femme de qualite en deshabille se promenant le matin.
+
+Par Le Clere (n 40).
+
+Jeune Dame de Lyon, vetue d'un costume a la piemontaise.
+
+Par Desrais (n 77).
+
+Quatre dessins a la sepia. Ont éte graves.
+
+Haut.,24 cent.;larg., 17 cent.
+
+Cadre en ancienne baguette Louis XVI,en bois sculpte redore.
+40—
+
+## DESRAIS ETLE CLERE
+
+La Distraite jeune femme avec sa servante). Par Le Clere (no 68).
+
+Petite Maitresse en robe de lilas tendre au PalaisRoyal.
+
+Deux personnages, par Le Clere (n° 49).
+
+Marchande de modes. Par Le Clere (n°41).
+
+Femme en robe a la polonaise.
+
+Par Le Clere (no 38).
+
+Quatre dessins a la sepia. Ont éte graves.
+
+Haut., 24 cent.; larg., 17 cent.
+
+Cadre en ancienne baguette Louis XVI, en bois sculpté redoré.
+
+## LE CLERE
+
+-Femme vetue d'une levite unie. 41
+
+Avec deux autres personnages (no i6g). Aquarelle. A éte gravee.
+
+Haut., 24 cent.; larg., 17 cent.
+
+Cadre en baguette de bois sculpte dore.
+
+## LE CLERE
+
+Femme en levite de taffetas. 42 --
+
+Avec un autre personnage (n° 1g3).
+
+Aquarelle. A éte gravée.
+
+Haut., 24 cent.; larg., 17 cent.
+
+Cadre en baguette de bois sculpte dore.
+43
+
+## LE CLERE
+
+## Femme en polonaise, vue par derriere.
+
+Deux personnages (no 196).
+
+Aquarelle. A éte gravee.
+
+Haut., 24 cent.;larg, 17 cent.
+
+Cadre en baguette de bois sculpte doré.
+
+## LE CLERE
+
+- 44 Deux personnages (no 85).
+
+Haut.,24 cent.;larg.,17 cent.
+
+- Tailleur costumier essayant un corps a la mode. Dessin a la sepia. A éte gravé.
+
+Cadre en baguette de bois sculpte dore.
+
+## SAINT-AUBIN (AUG.DE)
+
+45 —Jeune Femme en pied, dans un costume de la Cour. En grande robe garnie de gazes, entrelacee de guirlandes de chene (no 360).
+
+Dessin au crayon rehausse d'aquarelle. A éte grave.
+
+Haut., 25 cent.; larg., 18 cent.
+
+Cadre en baguette ancienne de bois sculpte doré.
+
+## SAINT-AUBIN (AUG. DE)
+
+Grande Robe a la Reine; chapeau a la milady. 46 (No3-8).
+
+Dessin au crayon rehausse daquarelle. A ete grave. Haut., 25 cent.; larg., 18 cent.
+
+Cadre en bagueite ancienne de bcis sculpte dore.
+## 50
+
+## WATTEAU (F.-L.-J.),dit:de Lille
+
+## La Tendre Aspasie. 47
+
+Assise d'un air de nonchalance,elle est coiffée d'un chapeau a la nouvelle Omphale, robe de mousseline rayée (no304).
+
+Dessin a la mine de plomb.
+
+Haut., 24 cent.; larg., 20 cent.
+
+Cadre en bois sculpte dore de style Louis XVI. Vente La Beraudiere, 1885.
+
+## ECOLE FRANCAISE (xvIe siecle)
+
+La Lecture.—Le Calcul.L'Astronomie.—
+
+48 La Numismatique.
+
+Quatre figures allegoriques.
+
+Dessins a la plume et au lavis d'encre de Chine.
+
+Haut., 21 et 17 cent.; larg., 13 cent.
+
+Cadres en baguette doree.
+
+## ECOLE FRANCAISE (xvIne siecle)
+
+## Vue d'un chateau dans un parc. 49 一
+
+Dessin a la plume et lavis d'encre de Chine. A éte mis au carreau.
+
+Cadre en baguetie doree.
+
+## ECOLE FRANCAISE (xvIn siecle)
+
+## Paysage.
+
+Dessin de forme ovale, a la sanguine.
+
+Haut., 16 cent. 1/2; larg., 21 cent.
+
+Cadre rectangulaire du xvie siecle en bois ajoure, sculpté
+
+et dore.
+
+Haut., 27 cent.;larg., 36 cent. 1/2.
+## 55
+
+## ECOLE FRANCAISE (XVIHI SIECLE)
+
+## 51 Danseuses.
+
+En costume de la fin du xvine siecle.
+
+Deux aquarelles.
+
+Cadres en baguette doree.
+
+Haut., 26 cent.; larg., 15 cent.
+
+## ECOLE FRANCAISE (xvIHIe sIECLE)
+
+## 2—Portrait en pied d’un acteur.
+
+## 52
+
+Dans le costume de son role.
+
+Dessin a l'aquarelle.
+
+Haut., 20 cent.; larg., 13 cent.
+
+Cadre ancien en bois sculpte et dore.
+
+## ECOLE FRANCAISE (XVIII sIECLE)
+
+## 53 一 La Lecture.
+
+Dans un interieur, une jeune femme est a son bureau lisant; sa servante se tient pres d'elle.
+
+Dessin au crayon noir.
+
+Cadre en chene.
+
+Haut., 32 cent.; larg..23 cent.
+
+## ECOLE FRANCAISE (XVIII SIECLE)
+
+## 54 Portrait de la reine Marie-Antoinette.
+
+En buste,la tete recouverte d'un voile.
+
+Petit dessin de forme ovale,a la mine de plomb. A été grave.
+
+Haut.,83 millim.
+
+Cadre ancien Louis XVI,a fronton,en bois sculpte et dore.
+
+## ECOLE FRANCAISE (XVInI SIECLE)
+
+## Pavillon chinois dans un parc.
+
+Avec personnages se disposant a faire de la musique.
+
+Haut.,36 cent. 1/2; larg., 49 cent.
+
+Dessin a l'aquarelle.
+
+Cadre ancien en bois sculpte redore.
+## ECOLE FRANCAISE (XVIHI sIECLE)
+
+carton, pour le Jeu de Cavagnole.
+
+56 — Serie complete de 47 cartons,a cinq sujets par
+
+Soit 235 sujets peints a l'aquarelle sur velin et presentant les costumes, jeux et occupations de la societe au xvine siecle. Ils sont encadres par quatre dans 12 cadres et on y a joint environ 4oo olives cn bois,contenant des numeros sur velin.
+
+Le Jeu de Cavagnole, sorte de loto, importe de Genes, fut tres en faveur au xvinre siecle. Voltaire, dans une épitre,a écrit a propos de ce jeu:
+
+On croirait que le jeu console, Mais l'ennui vient a pas comptes A la table d'un Cavagnole
+
+S'asseoir entre deux majestes.
+
+## ECOLE FRANCAISE (FIN DU XVIII sIECLE)
+
+57 —Le Foyer du theatre du Palais-Royal.
+
+Avec nombreux personnages.
+
+Dessin a la plume et au lavis d'encre de Chine.
+
+Haut., 8 cent.; larg., 16 cent.
+
+## EISEN (CH.)
+
+## 58 —
+
+## Frontispice.
+
+Composition allegorique comprenant cinq figures de femmes, entourant deux ecussons surmontes d'une couronne royale.
+
+Dessin de forme ronde, au lavis d'encre de Chine. Signe.
+
+Cadre ancien en bois sculpte dore.
+
+## ENLUMINURE
+
+## 59 —Feuillet de manuscrit.
+
+De la fin du xve siecle, orne d'une miniature presentant un mariage. Lettre ornee sur fond d'or; large bordure decoree de feurs, fruits, oiseaux et animaux a tetes humaines. Sur velin.
+
+Cadre noir,
+
+Haut., 47 cent. 1/2; larg., 36 cent.
+
+Diam.,15 cent.
+- 61
+
+62
+
+## FRAGONARD (J:-H.)
+
+## 60Etude d’arbres, en Italie.
+
+Dessin a la sanguine.
+
+Haut., 37 cent.; larg., 5o cent.
+
+Cadre a fronton, en bois sculpte dore.
+
+## GAVARNI
+
+- Thomas Virloque.
+
+Personnages en pied. Deux dessins a la plume. Cadres en bois a filets.
+
+Haut.,23 cent.;larg.,15 cent.
+
+## COSTUMES D'ACTEURS ET D'ACTRICES
+
+DES XVII ET XVII SIECLES
+
+PAR EDMOND GEFFROY
+
+Peintre et comedien(18o4-18g5)
+
+Aquarelles originales gravees dans Les Chefs-d'euvre dramatiques du XVIlle siecle, Paris, Laplace, Sanchez et Cie, 187i, et dans les Euvres completes de Moliere, des memes editeurs.
+
+Crispin.
+
+GEFFROY(ED.)
+
+Dans les Folies amoureuses, de Regnard.
+
+Darnis.
+
+Dans la Metromanie, de Piron.
+
+Silvia.
+
+Dans le Jeu de l'Amour et du hasard, de Marivaux.
+
+Le Comte.
+
+Dans le Glorieux, de Destouches.
+
+Quatre aquarelles dans le meme cadre.
+
+Haut., 22 cent.; larg., 19 cent.
+
+Cadre ancien Louis XVI, en bois sculpté dore.
+54
+
+## GEFFROY (ED.)
+
+- -Monsieur de Crac dans son petit castel, comedie
+- 63— par CoLLIN d'HARLEVILLE.
+
+Aquarelle signee.
+
+Cadre en baguette doree.
+
+Sganarelle.
+
+Haut.,23 cent.; larg.,14 cent.
+
+GEFFROY (ED.)
+
+Dans le Cocu imaginaire.
+
+Portrait de Moliere.
+
+Dans Sganarelle de I'Ecole des Maris. D'apres un tableau de la Comedie-Francaise.
+
+Alceste.
+
+Dans le Misanthrope.
+
+Sganarelle.
+
+Dans le Medecin malgre lui.
+
+Tartuffe.
+
+Scene du troisieme acte.
+
+Sosie.
+
+Dans Amphitryon.
+
+Jourdain.
+
+Dans le Bourgeois gentilhomme.
+
+Scapin.
+
+Dans les Fourberies.
+
+Chrysale.
+
+Dans les Femmes savantes.
+
+Argan.
+
+Dans le Malade imaginaire.
+
+Dix aquarelles signees, dans le meme cadre.
+
+Haut., 23 cent.; larg., 17 cent.
+
+Cadre fait d'ancienne baguette Louis XVI, en bois sculpté redore.
+- 67
+- Un Fleuve.
+
+Represente par un vieillard tenant une rame. Dessin a la sepia.
+
+Haut.,21 cent.;larg.,16 cent.1/2. Cadre en baguette dorée.
+
+## HUET (J.-B.)
+
+- 68 Berger assis, gardant ses moutons.
+
+Deux dessins au lavis de sepia. Signes et dates : 1772.
+
+Bergere gardant ses chevres.
+
+Dans le meme cadre (ont ete graves).
+
+Haut.,13 cent. 1/2;larg., 18 cent. 1/2.
+
+Cadre ancien Louis XVI, en bois sculpte doré.
+
+## HUET (J.-B.)
+
+## 69 -Paysage rustique.
+
+Deux enfants sont couches sur des bottes de paille; au second plan, des perches reunies par des cordes.
+
+Dessin au crayon noir et rehauts de blanc, sur papier gris.
+
+Haut.,35 cent.; larg, 47 cent.
+
+Signe et date : 1768.
+
+Cadre ancien en bois sculpte dore.
+
+## GEFFROY (ED.)
+
+## 65-Madame Patin.
+
+Dans le Chevalier a la mode, comedie de Dancourt.
+
+Aquarelle signee.
+
+Cadre en baguette doree.
+
+- 66— Lelie.
+
+Haut., 23 cent.; larg., 14 cent.
+
+## GEFFROY (ED.)
+
+Dans l'Etourdi ou les Contretemps.
+
+Aquarelle signee.
+
+Cadre en baguette doree.
+
+Haut., 23 cent.;larg.,14 cent.
+
+## GIRARDON
+## JOHANNOT (TONY)
+
+L'Ecole des Maris. 70 — L'Impromptu de Versailles.
+
+Deux compositions pour illustrer ces comedies de Moliere. Deux dessins au crayon noir.
+
+Haut.,17 cent.;larg.,11 cent.1/2.
+
+Cadres en baguette doree.
+
+## JOHANNOT (TONY)
+
+- —Le Mariage de Figaro. 71
+
+Dcux compositions variees pour illustrer la scene du Ier acte entre la Comtesse, Suzanne et Cherubin. Deux dessins au lavis de sepia.
+
+Haut., 9 cent.; larg,7 cent.
+
+Cadres en baguette doree.
+
+## LAMI (EUGENE)
+
+- Rendez-vous de chasse de l'equipage de Ram-
+- 72-bouillet,en 1855.
+
+Importante composition a nombreux personnages. Etude au crayon pour une aquarelle.
+
+Haul.,43 cent.;larg.,92 cent.
+
+Cadre en baguette.
+
+## LAMI (EUGENE)
+
+- L'Architecture.—La Peinture.—La Musique. 73 —La Sculpture.
+
+Projets pour dessus de portes.
+
+Quatre aquarelles dans le meme cadre.
+
+Haut.,14 cent.; larg., 22 cent.
+
+Cadre fait d'une baguette ancienne en bois sculpte redore, enrichi d'un fronton.
+## LAMI(EUGENE)
+
+## 74-Bouquets de fleurs dans des vases.
+
+Projets pour dessus de portes. Quatre aquarelles de forme ronde, dans le meme cadre.
+
+Cadre analogue au precedent.
+
+Diam., 16 cent.
+
+Six des huit aquarelles ci-dessus designees sont reproduites dans: Eugene Lami,par A.Lemoisne. Paris,Manzi,Joyant, 1g12,
+
+## LAMI (EUGENE)
+
+75— Buste d'homme et Buste de femme.
+
+Dans des medaillons entoures de feurs et objets d'art. Deux aquarelles dans le meme cadre.
+
+Haut., 15 cent.;larg.,21 cent.
+
+Cadre ancien en bois sculpte redore.
+
+Ces deux aquarelles,ainsi que les douze suivantes, sont les maquettes d'Eugene Lami pour des dessus de portes peints au chateau de F...; les figures par E. Dubufe, les fleurs et objets d'art par Godefroy. Les bustes sont les portraits de personnalites marquantes du Second Empire.
+
+## LAMI (EUGENE)
+
+76—Portraits en buste de deux jeunes femmes.
+
+Entourages de feurs et objets d'art.
+
+Deux aquarelles dans le meme cadre.
+
+Haut., 15 cent.; larg., 21 cent.
+
+Cadre ancien en bois sculpte redoré.
+
+## LAMI (EUGENE)
+
+77— Portraits en buste de deux jeunes femmes.
+
+Entourages de feurs et objets d'art.
+
+Deux aquarelles dans le meme cadre.
+
+Haut., 15 cent.; larg., 21 cent.
+
+Cadre ancien en bois sculpte redore.
+## 78
+
+## LAMI (EUGENE)
+
+## 8—Deux Portraits analogues.
+
+Deux aquarelles dans le meme cadre.
+
+Haut., 15 cent.; larg., 21 cent.
+
+Cadre ancien en bois sculpte redore.
+
+## LAMI (EUGENE)
+
+- 79 一 Deux Portraits analogues.
+
+Deux aquarelles dans le meme cadre.
+
+Haut.,15 cent.;larg., 21 cent.
+
+Cadre ancien en bois sculpte redore.
+
+## LAMI (EUGENE)
+
+80 Deux Portraits analogues.
+
+Deux aquarelles dans le meme cadre.
+
+Haut., 15 cent.; larg., 21 cent.
+
+Cadre ancien en bois sculpte redore.
+
+## LAMI (EUGENE)
+
+- 81—
+- 82
+- -Deux Portraits analogues.
+
+Deux aquarelles dans le meme cadre.
+
+Haut., 15 cent.; larg., 21 cent.
+
+Cadre ancien en bois sculpte redore.
+
+## LANTE(L.-M.)
+
+Figures et Coiffures pour le Costume parisien, de 1820 a 1827.
+
+Huit aquarelles representant des jeunes femmes et des modeles de chapeaux.
+
+Haut., 16 cent.1/2;larg., 10 cent.1/2.
+
+Dans deux cadres en bois sculpte dore.
+83—
+
+- 85— Suisse.
+
+## LANTE(L.-M.)
+
+## Costumes de femmes francaises de differentes provinces.
+
+Alsace,Bretagne, Guyenne,Normandie.
+
+Quatorze aquarelles,executees entre 182o et 1825,dans un vol. in-fol. Demi-reliure maroquin avec coins, dos orne, tr.dor.(David.)
+
+## LANTE(L.-M.)
+
+- 84 —Costumes de femmes d'Espagne.
+
+De Madrid,Seville,Barcelone,Valence,Majorque,
+
+Salamanque.
+
+Quatorze aquarelles executees entre 182o ct 1825,dans un vol. in-fol. Demi-reliure en maroquin avec coins, dos orne, tr.dor.(David.)
+
+## LANTE(L.-M.)
+
+- Costumes des femmes des divers cantons de la
+
+Lucerne, Zurich, Berne, Schaffouse, Fribourg, Zug, Schwytz,Unterwald,Soleure,Valais,Turgovie,Argovie,
+
+Bale.
+
+Vingt-deux aquarelles executees entre 182o et 1825, dans un vol. in-fol. Demi-reliure en maroquin avec coins, dos orne,tr.dor.(David.)
+
+## LANTE(L.-M.)
+
+- Costumes des femmes de Hollande,Bords du Rhin,Tyrol,etc.
+- 86—
+
+Vingt-deux aquarelles executees de 182o a 1825, dans un vol. in-fol. Demi-reliure en maroquin avec coins, dos orne, tr.dor.(David.)
+- 88
+- 90
+
+## LE BARBIER L'AINE
+
+## 87—La Course des flambeaux.
+
+Dessin au crayon noir. Signe.
+
+Cadre en baguette doree.
+
+Haut.,22 cent. 1/2; larg., 34 cent.
+
+## LE BARBIER LAINE
+
+Naissance d'Esculape.
+
+Dessin au crayon noir.
+
+Cadre en baguette doree.
+
+Haut., 17 cent.; larg., 23 cent.
+
+## LE BARBIER LAINE
+
+89 Achille arme.
+
+Dessin au crayon noir. Signe.
+
+Haut.,1g cent.;larg.,27 cent.1/2. Cadre en baguette doree.
+
+## LECONTE
+
+(Architecte des xvinl-xix·siecles)
+
+- — Vue du Pont de la Concorde,a Paris.
+
+Animee de nombreux personnages, cayaliers et voitures. Au fond, palais en rotonde.Projet pour la construction d'une Chambre des deputes.
+
+Aquarelle sur trait a la plume. Signee et datee : 18o1.
+
+Cadre en baguette doree.
+
+Haut., 24 cent.; larg, 43 cent.
+
+## LELOIR (MAURICE)
+
+- 一 Frontispice pour Manon Lescaut.
+
+Avec le portrait de l'abbe Prevost entoure de feurs et rubans.
+
+Dessin a la plume et lavis d'encre de Chine.
+
+Cadre en baguette doree.
+
+Haut., 18 cent.,; larg., 24 cent.
+
+## 16
+92
+
+93
+
+Neptune. 一
+
+## LELU (PH.)
+
+Sous les traits d'un enfant monte sur un dauphin, tenant un trident.
+
+Dessin a la plume et lavis de sepia. Signe et date:176o. Haut., 1g cent.; larg., 15 cent.
+
+Cadre en baguette doree.
+
+## LENGENDYCK (D.)
+
+L'Incendie d'une ville. Cantonnement de dragons.
+
+Episodes des guerres de l'Empire.
+
+Deux dessins se faisant pendant,a la plume et lavisd'encre de Chine. Signes et dates : 18o6.
+
+Haut., 16 cent.; larg.,24 cent.
+
+Cadres anciens Louis XVI, en bois sculpte dore.
+
+## LEPICIE (N.-B.)
+
+## 94 —Etudes de tetes.
+
+Deux tetes d'hommes et une buste de femme. Trois dessins au crayon noir dans le meme cadre.
+
+Haut.,7 cent.et 12 cent.;larg.,5 cent. et 1o cent.
+
+Cadre en baguette doree.
+
+## LEPICIE (N.-B.)
+
+95 5—Feuilles d'etudes:Une Femme assise.—Deux
+
+Tetes d'hommes.—Deux Tetes de femmes.
+
+Cinq dessins au crayon noir et a la sanguine, dans le meme cadre.
+
+Haut., 22 cent.; 11 cent.; 8 cent.; larg., 14 cent.; 8 cent.; 7 cent. Cadre en baguette doree.
+## LE ROUGE
+
+(Architecte paysagiste du xvil siecle)
+
+96 Parc anglais et nombreux édifices.
+
+Deux aquarelles sur trait a la plume se faisant pendant.
+
+Haut.,31 cent.1/2; larg.,23 cent.1/2.
+
+Cadres en baguettes dorees.
+
+## MONNIER (HENRY)
+
+- Dispute conjugale. 97
+
+Dessin a l'aquarelle. Signe et date : 1849.
+
+Haut., 19 cent.; larg., 15 cent. 1/2.
+
+Cadre en baguette doree.
+
+## MOREAU(L.G.)L'AINE
+
+- 98 Vue de la Terrasse de Saint-Germain.
+- Entree de la Foret de Saint-Germain.
+
+Petites compositions animees de petits personnages. Deux aquarelles gouachees se faisant pendant, de forme ronde.
+
+Cadres en bois sculpte doré.
+
+Diam.,5 cent. 1/2.
+
+## MOREAU (L.-G.)L'AINE
+
+- Paysage avec chaumieres et personnages. 99 9— Aquarelle gouachee, de forme ronde.
+
+Diam.,8 cent.
+
+Cadre ancien Louis XVI, couronne d’un noeud de ruban, en bronze cisele et dore.
+## 100 一
+
+## MOREAU(L.-G.)LAINE
+
+## Mars et Minerve jurant la paix sur l'Autel de la Loi et de la Justice.
+
+Trois dessins a la plume et lavis de sepia. Le dessin du
+
+De chaque cote,une petite composition. centre signe en toutes lettres.
+
+Haut., 14 cent. 1/2; larg., 3o cent. et 7 cent.
+
+Cadre en ancienne baguette doree.
+
+## MOREAU (J.-M.)LE JEUNE et MARECHAL(C.-L.)
+
+I-101
+
+## Le Pont-Neuf et la Samaritaine.
+
+Curieuse vue de ce pont de Paris,animee de nombreux personnages, cavaliers et carrosses. Au revers du dessin,la note manuscrite suivante de Marechal : Vue du Pont-Neuf prise dans la chambre noire de l'appartement du second, maison du grand balcon, au coin du quai de la feraille,par Marechal, en may 1778, et enrichi de figures par J.M. Moreau, dessinateur du Cabinet du Roy. Fait pour Mr Cuvillier, gouverneur de la Samaritaine.
+
+Dessin de forme ovale, au lavis de sepia.
+
+Haut., 3o cent.;larg., 26 cent.
+
+Cadre en baguette de bois sculpte dore.
+
+## NICOLLE (V.-P.)
+
+- 102 —Vue de Rome.
+
+Dessin a la sepia. Signe.
+
+Cadre en baguette doree.
+
+Haut., 19 cent.; larg., 14 cent.
+
+## NICOLLE(V.-P.)
+
+- 103 -Vue de la cour et de la galerie du rer etage d'un palais.
+
+Aquarelle. Signee.
+
+Cadre en baguette doree.
+
+Haut., 1g cent.,; larg., 13 cent. 1/2.
+## OZANNE (NICOLAS)
+
+## 104—Vue de Paris.
+
+Lancement d'une chaloupe canonniere pendant la guerre d'Amerique. Nombreuses barques remplies de spectateurs.
+
+Dessin au lavis d'encre de Chine.
+
+Cadre en bois sculpte dore.
+
+Haut., 16 cent.; larg., 22 cent.
+
+## OZANNE (NICOLAS)
+
+## 105-Vue de Paris.
+
+Lancement de la chaloupe canonniere : La Parisienne, a la Rapee. Au premier plan, equipages et spectateurs a terre ou sur l'eau.
+
+Dessin au lavis d'encre de Chine.
+
+Haut., 16 cent.; larg., 22 cent. Cadre en bois sculpte dore.
+
+## OZANNE (NICOLAS)
+
+- 106-1 Vue de Paris.
+
+La Seine et les quais vis-a-vis l'Hotel des Invalides. Nombreux personnages, cavaliers et voitures. Bateaux et coche d'eau. Au fond, chantier et les Invalides.
+
+Dessin au lavis d'encre de Chine.
+
+Haut.,16 cent.1/2;larg,22 cent.
+
+Cadre en bois sculpte dore.
+
+## OZANNE (NICOLAS)
+
+- 107— -Vue de Paris.
+
+Le chantier de l'ile des Cygnes, au dela du Cours-la-Reine. A gauche,les quais animes de personnages et voitures, pecheurs et lavandieres. Bateaux sur la Seine. Au fond, le Pont-Royal et les Tuileries; a droite, le dome des Invalides.
+
+Dessin au lavis d'encre de Chine.
+
+Haut., 16 cent.; larg., 22 cent. Cadre en bois sculpte dore.
+## OZANNE (NICOLAS)
+
+## 1o8—Vue de l'extremite de l'Arsenal de Brest.
+
+Dessin a la sepia.
+
+Cadre en baguette doree.
+
+Haut., 19 cent.; larg.,33 cent.
+
+## OZANNE (NICOLAS)
+
+- Iog —Vue du chenal du port de Brest.
+
+Dessin au lavis de sepia.
+
+Haut., 18 cent.;larg., 33 cent.
+
+Cadre en baguette doree.
+
+## OZANNE (NICOLAS)
+
+- 110 一 -Vue de Brest.
+
+Prise de la porte d'entree de l'Arsenal. Animee de person- nages.
+
+Dessin au lavis d'encre de Chine.
+
+Haut., 14 cent.;larg.,23 cent. 1/2.
+
+Cadre en baguette de bois dore.
+
+## OZANNE (NICOLAS)
+
+- Vue de Brest. III
+
+Navires dans les cales de l'Arsenal. Au premier plan, chaloupe aux armes du roi chargee de personnages.
+
+Haut., 14 cent.; larg., 24 cent.
+
+Cadre en baguette de bois dore.
+
+## OZANNE (NICOLAS)
+
+## 112 Vue dans l'Arsenal de Brest.
+
+u Cette vue a éte prise du chenal devant le nouveau quai aux canons, en regardant du cote de l'horloge de l'amiral.
+
+Dessin au lavis d'encre de Chine.
+
+Haut., 13 cent.1/2;larg.,23 cent. Cadre en baguette de bois dore.
+## 113
+
+## OZANNE (NICOLAS)
+
+## 一 Vue du port de Brest.
+
+Depart d'un navire de guerre en presence de nombreux spectateurs.
+
+Dessin au lavis d'encre de Chine.
+
+Haut.,14 cent;larg., 23 cent.
+
+Cadre en baguette de bois doré.
+
+## OZANNE (NICOLAS)
+
+- 114 Vue du port de Brest.
+
+Entree de l'Arsenal militaire et du pavillon de PAmiraute, avec petits personnages.
+
+Dessin au lavis d'encre de Chine.
+
+Haut.,14 cent.1/2;larg.,23 cent. 1/2.
+
+Cadre en baguette de bois dore.
+
+## OZANNE (NICOLAS)
+
+- 115 一 Vue du port d'Hennebont.
+
+Avec barques de peche et personnages. Dessin au lavis d'encre de Chine.
+
+Haut., 14 cent.1/2;larg, 23 cent.
+
+Cadre en baguette doree.
+
+## OZANNE (NICOLAS)
+
+- 116— Vue du vieux chateau de Nantes.
+
+Animee de personnages. Dessin au lavis d'encre de Chine.
+
+Haut.,13 cent.I2; larg.,22 cent. 1/2.
+
+Cadre en baguette de bois dore.
+## OZANNE (NICOLAS)
+
+## 117 一 Vue du port de Toulon.
+
+Prise au nord de la grosse tour, dans la baie, animee de personnages et barques.
+
+Dessin au lavis d'encre de Chine. Signe: Oz.f.
+
+Haut., 14 cent. 1/2; larg, 22 cent.
+
+Cadre en baguette de bois doré.
+
+## PERCIER
+
+118 -Lampe antique.
+
+Formee d'un groupe figurant Jupiter et Leda. Dessin a la plume et a l'aquarelle.
+
+Cadre Empire.
+
+## PORTAIL (J.-A.)
+
+- 611 —Jeune Homme appuye contre un piedestal.
+
+Dessin a la pierre noire.
+
+Haut.,18 cent.;larg., 24 cent.
+
+Cadre en bois sculpte.
+
+## ROBERT (HUBERT)
+
+- —Vue d'un chateau, en France. 120
+
+Avec personnages au premier plan. Dessin a la sanguine.
+
+Haut., 29 cent.; larg., 36 cent.
+
+Cadre en baguette doree.
+
+## ROBERT (HUBERT)
+
+- 121 —Arc de triomphe,a Rome.
+
+Dessin a la sanguine.
+
+Cadre en baguette doree.
+
+Haut., 22 cent.; larg., 32 cent.
+- 124
+- 126
+
+## ROBERT (HUBERT)
+
+- 122 Vue d'une place, a Rome.
+
+Statue d'empereur romain au premier plan, temple a colonnade dans le fond.
+
+Dessin a la sanguine. Signe et date : 1759.
+
+Cadre en baguette dorée.
+
+Haut., 22 cent.; larg., 32 cent.
+
+## ROBERT (HUBERT)
+
+- 123——Paysage.
+
+Au centre, se voit une statue a l'entree d'une grotte. Dessin a la sanguine. Signe et date : 1767.
+
+Cadre ancien dore.
+
+Haut., 43 cent.; larg, 34 cent.
+
+## SWEBACH J.),dit DESFONTAINES
+
+- Personnages civils et militaires.
+
+Suite de trois dessins a la sepia.
+
+Haut., 5 cent.; larg, 13 cent.
+
+Cadres anciens en bois sculpte doré.
+
+## TARAVAL(L.G.)
+
+- Vue d’'un hotel sur les grands boulevards,a
+- 125 Paris, vers 1785.
+
+Dessin a la plume, lavis d'encre de Chine et aquarelle.
+
+Haut., 32 cent.; larg., 5o cent.
+
+Cadre ancien Louis XVI en bois sculpte redore.
+
+## WATTEAU (F.-L.-J.),dit de Lille
+
+- Noce villageoise.
+
+Composition pour un éventail. Dessin a la pierre d'Italie.
+
+Cadre ancien.
+
+Haut., 24 cent.; larg., 48 cent.
+## PEINTURES ET PASTELS
+
+## ECOLE FRANCAISE
+
+127—Portrait de jeune femme.
+
+En buste, de trois quarts a gauche, vetue d'un corsage bleu, décollete, pare de feurs. Pastel.
+
+Haut.,54 cent.;larg.,44 cent.
+
+Cadre ancien Louis XVI, en bois sculpte dore.
+
+## ECOLE FRANCAISE (FIN DU XVII SIECLE)
+
+DEUX PENDANTS
+
+128—Le Bain.—La Toilette.
+
+Deux peintures pour dessus de portes.
+
+Toiles maroufees. Haut., 5o cent.; larg, go cent.
+
+Cadres anciens Louis XVI, en bois sculpte dore.
+
+## ECOLE FRANCAISE (xVIH sIECLE)
+
+- 129 Cassolette et fleurs dans un paysage.
+
+Peinture decorative pour dessus de porte.
+
+Toile.Haut.,5g cent.;larg., 1 m.15.
+
+Cadre ancien Louis XVI, en bois sculpte dore.
+
+## ECOLE FRANCAISE (XVIII sIECLE)
+
+130—— Chien de chasse dans un paysage.
+
+Dans un entourage a feurs et arabesques. Peinture decorative pour dessus de porte.
+
+Toile maroufee.Haut., 5o cent.;larg., 1 m. 42
+
+Cadre ancien Louis XVI,en bois sculpte doré.
+## 133
+
+## ECOLE FRANCAISE (xvIn sIECLE)
+
+131 Trophees champetres. Attributs de musique. Bouquets de fleurs.
+
+Suite de trois petites peintures sur bois,provenant de la table d'harmonie d'une harpe du xvinle siecle. Adresse du luthier:Holtzman,faubg St-Antoine a Paris.
+
+Haut., 24 cent.; 18 cent.; 15 cent. 1/2. Larg., 8 cent.; 13 cent.;4 cent. 1/2.
+
+Cadres en acajou et citronnier provenant de la harpe.
+
+## FRAGONARD (D'apres J.-H.)
+
+132.--La Balancoire.
+
+Composition bien connue par la gravure de Beauvarlet.
+
+Toile. Haut., 57 cent.; larg., 52 cent.
+
+Cadre ancien Louis XV,en bois sculpte doré.
+
+LAJOUE (JACQUES DE) 1687-1761.
+
+## Chapelle de chateau.
+
+Composition decorative animee de figures. Signee et datee : 1736.
+
+Toile. Haut.,58 cent.;larg, g cent.
+
+Cadre ancien Louis XV,en bois sculpte dore.
+
+## MOREAU L'AINE (Attribue a Louis)
+
+DEUX PENDANTS
+
+134—— -Paysages avec petits personnages.
+
+Panneaux. Haut.,23 cent.; larg.,3o cent.
+
+Cadres dores.
+## PIERRE (JEAN-BAPTISTE-MARIE)
+
+1704-1789.
+
+135 Sujet mythologique.
+
+Comprenant quatre personnages. Signe des initiales (sous le cadre).
+
+Toile. Haut.,r m. 2o; larg., I m. 15.
+
+Dans son encadrement, de l'époque Louis XV, en bois sculpte doré.
+
+## SPAENDONCK (GERARD VAN)
+
+136Vase de fleurs sur une tablette de marbre.
+
+Aupres du vase, sur la tablette, se trouvent du raisin,un oiseau,un nid et une coupe.
+
+Toile. Haut., 56 cent.; larg., 46 cent.
+
+Cadre fait d'ancienne baguette de bois sculpte redoré.
+
+## VIGEE(LoUIs)
+
+137—Portrait du Marquis de Menars.
+
+En buste, de trois quarts a droite,la main gauche dans son gilet bleu brode d'or.
+
+Pastel, signé et date:1751.
+
+Haut.,63.cent.;larg., 52 cent.
+
+Cadre ancien Louis XV,en bois sculpte dore.
+
+## OBJETS DE VITRINE
+
+MINIATURES,BOITES,ETUIS,ETC.
+
+138 —Deux FERMoirs de livre,formes de six petites plaques en emaux de Limoges, montes en cuivre dore. xvll siecle.
+
+Long.,7 cent.I/2.
+- 13g — BoussoLe, meridienne et cadran solaire, en cuivre
+- grave et dore; dans son écrin. Epoque Louis XIV.
+
+Larg., 9 cent.
+
+- 140 -Boire rectangulaire,a deux compartiments et couvercles, en ancien émail, decoree de reseaux dores en relief; monture en cuivre dore. xvie siecle.
+
+Long., 8o millim.; larg., 6o millim.
+
+- BoIre rectangulaire, en ancien émail, decoree, en couleur, de personnages avec inscriptions; monture en
+
+Long., 8o millim; larg, 45 millim.
+
+- 141 cuivre dore. xvime siecle.
+- 142 2—BoiTE rectangulaire, en ancien émail, decoree, en couleur, de feurettes; monture en cuivre dore. xvinle siecle.
+- 143
+
+Long., 85 millim.; larg., 45 millim.
+
+- 一 MINIATuRe ronde, presentant un portrait de jeune femme, vue en buste, le bras appuye sur un meuble. Ecole francaise du xvinle siecle.
+
+Diam.,6o millim.
+
+Cadre en bronze dore, style Louis XVI.
+
+- MINiATuRe ronde, presentant un portrait d'homme, 144 — vu en buste, vetu d'un habit brun, gilet blanc ouvert sur une chemise a jabot. Attribuee a Augustin. Non signee. Epoque Louis XVI.
+
+Diam,55millim
+
+Elle est montee sur le couvercle d'une boite ronde en ecaille brune cerclee d'or. Epoque Louis XVI.
+- 145MiNiAruRE ovale presentant le portrait dune jeune femme,vue a mi-corps, presque de face,vetue d'un corsage decollete, les cheveux releves et boucles, pares de perles et de feurs. Par Vestier (Ant.). Signee et datee:r778. Epoque Louis XVI.
+
+Haut.,40 millim.;larg., 33 millim:
+
+Elle est montee sur le couvercle d'une boite.ronde, cerclee d'or, decoree au vernis Martin et doublee d'ecaille. Epoque Louis XVI.
+
+- 146— MINIATuRE de forme ronde, peinte en grisaille,et presentant un sujet allegorique :Le Temps couronne 'Hymenee que protege l'Amour. Par De Gault, signee. Epoque Louis XVl.
+
+Diam.,62 millim.
+
+Cadre rectangulaire a vue circulaire, en bronze dore, decore de rinceaux et soutenu par un ruban.
+
+- 147 MINIATuRe de forme ronde,presentant un portrait de jeune femme vue en buste,presque de face,vetue d'une robe rayee avec fichu jaune;chevelure bouclée.Par Isabey. Signee.Epoque fin xvine siecle.
+
+Diam.,62 millim.
+
+Cadre rectangulaire a vue circulaire, en bronze dore, decore de rinceaux et soutenu par un ruban.
+
+- 148-1
+
+Cadie en bois Empire.
+
+- MINiATure ronde, presentant le portrait, en buste, d'un homme vetu d'un costume Empire. Signee et datee:Petit,18o6.Epoque Empire.
+
+Diam.,6o mllim.
+- 149 —MiniATuRE ovale, presentant le portrait presume du fils de Prud'hon. Signee : p. p.
+
+Haut., 85 millim.
+
+Cadre dore Empire.
+
+- Erur a aiguilles, cylindrique, decore, au vernis Martin, de feurs et d'oiseaux, cercle d'or. Epoque
+
+Long., 14 cent.
+
+- 150Louis XVI.
+- 151 - Erui rectangulaire decore au vernis Martin, a sujets
+- de personnages. Epoque Louis XVI.
+
+Long., g cent.
+
+- 152—NaverTE en écaille blonde piquee or. Epoque
+- Louis XVI.
+
+Long., 10 cent.
+
+- 153-TaBATIERE, forme ceuf, en écaille brune piquee or, renfermant une petite cuiller en or. Epoque Louis XVI.
+
+Haut., 75 millim.
+
+- i54 — BoiTe ronde, cerclee d'or et entierement decoree, au vernis Martin, de bouquets de feurs dans la maniere de
+- Van Spaendonck. Epoque Louis XVI.
+
+Diam., 95 millim.
+
+- 155 — Boire ovale et son couvercle, decores de godrons,en oriental; monture en or. Epoque porphyre rouge Louis XVI.
+
+Dans un écrin dore aux petits fers.
+
+Long.,84 millim.;larg.,53 millim.
+
+- BorTe rectangulaire, en agate rubanee orientale; monture a cage en or. Epoque Louis XVI.
+
+Long.,68 millin. ; larg., 48millim.
+
+- 156-
+- 157 —BoirE rectangulaire, formee de petits panneaux de laque d'or du Japon imitant l'aventurine. Monture a cage en or, a pilastres et guirlandes ciselees. Epoque
+- Louis XVI.
+
+Long.,78millim.; larg., 35 millim.
+
+- 158 —Dix BouToNs d'habit, formes de petites gouaches sous verre presentant des paysages avec figures. Epoque
+- Louis XVI.
+
+Diam. de chacun.,35 millim.
+
+Dans un cadre en bois sculpte dore. Style Louis XVI.
+
+- 159 — Dix BouToNs d'habit, decores chacun des attributs des Arts, du Jardinage, etc., en filigranes et paillons sur verre bleu. Epoque Louis XVI.
+
+Diam.de chacun.,35 millim.
+
+Dans un cadre en bois sculpte dore. Style Louis XVI.
+
+- 16o — Coureau a manche de nacre serti d'or et de pierres. Il est muni de deux lames mobiles,l'une en acier, l'autre en or,portant la marque :Foucon l'aine, a Marseille. Ecrin en galuchat. Epoque Louis XVI.
+
+Long. de l'ecrin:14 cent.
+
+## SCULPTURES
+
+- 161 —Deux sTATuETTEs en ivoire sculpte, presentant Jules Cesar et Alexandre, sur piedouches moulures. xvue siecle.
+
+Haut., 13 cent.
+- 162 — Bas-RELIEF en cire blanche, par Cadet de Beaupre
+- (eleve de Clodion), presentant un amour sur des nuages, enguirlande de feurs et tenant dans ses mains son arc et des feches.
+
+Medaillon rond signe des initiales C. D. B. Epoque Louis XVI.
+
+Diam., 11 cent.
+
+Cadre en bronze cisele et dore. Epoque Louis XVI.
+
+- 163— Bas-RELIEF rectangulaire,en cire blanche, par Cadet de Beaupre (non signe), presentant un faune soutenant
+- sur son épaule une bacchante. Epoque Louis XVI.
+
+Haut.195 millim.;larg 135 millim.
+
+Double cadre en bois mouluré.
+
+- 164—— Deux HauT-RELIEFs en cire blanche, se faisant pendant et presentant des Batailles, avec nombreuses figures et cavaliers. Signes J.-B. Cetto. Fin du xvire siecle.
+
+Haut., 105 millim.; larg.140 millim.
+
+Cadres en bois sculpte dore.
+
+- 165—DEUX PETITS BAS-RELIEFs rectangulaires, en cire blanche, presentant, l'un, un Berger et un amour, lautre, une Nymphe et deux amours. xvin siecle.
+
+Haut.,3o millim.;larg.,65 millim.
+
+Cadres en cuivre dore.
+
+- 166— -BusTe de femme, grandeur nature, representee en bacchante, la tete ornee de pampres, les seins decouverts, et enveloppee d'une draperie. Terre cuite du xvine siecle. Piedouche en marbre.
+
+Haut.,66 cent.
+- i67PeTIT BusTe de jeune fille vetue et coiffee a l'antique; en terre cuite par Marin. Signee. xvine siecle. Socle en
+
+Haut.totale,26cent.1/2.
+
+- 168 - PeTiT BusTE de jeune fille vue de face. Terre cuite par Marin,non signee. Socle piedouche en granit. xvin siecle.
+
+Haut.totale,23cent.
+
+- 16g —STATuETTE de jeune femme debout, coiffée d'un chapeau cabriolet.En terre cuite. Fin du xvm siecle Haut.,33 cent.
+
+## MEDAILLONS EN TERRE CUITE
+
+Par JEAN-BaPTIsTE NINI et autres
+
+## ECOLE FRANCAISE
+
+(xvI11siecle)
+
+170 —Jeune Femme assise.
+
+De profl a droite, tenant une corbeille de feurs,une couronne de roses dans les cheveux, en Flore. Medaillon rond,en terre cuite, du xvine siecle.
+
+Cadre en ébene.
+
+## 171 一
+
+## CHASSET
+
+## Portrait dhomme.
+
+Buste de profl a gauche, les cheveux releves et bouclés, vetu d'un habit uni avec jabot de dentelle. Medaillon rond en terre cuite. Signe et daté:1765.
+
+Cadre peini et dore.
+
+Diam.,72 millim.
+
+Diam.,15 cent.
+
+Chasset, sculpteur francais du xvine siecle, est peut-etre le Chassel indique par St. Lami, dans son Dictionnaire des Sculpteurs francais du XVIll siecle.
+
+- granit moulure de cuivre.
+## 173——
+
+## NINI (JEAN-BAPTISTE)
+
+## Mademoiselle Alcoque.
+
+## 172—
+
+Ainsi designe au musee de Cluny.
+
+Buste de profil a droite. Medaillon rond,grand module, en terre cuite. Signe en creux, sur la saillie du buste,et date:1762.
+
+A.Storelli, Jean-Baptiste Nini, sa vie, son ceuvre, 1717-i786.No1.
+
+## NINI (JEAN-BAPTISTE)
+
+## Charles-Rene Pean, seigneur de Mosnac.
+
+Buste de profil a gauche. Medaillon rond, grand module. en terre cuite. Armoiries en relief sur la saillie du bras; signe en creux, a cote,et date: 1768.
+
+A. Storelli. No 29.
+
+## NINI (JEAN-BAPTISTE)
+
+- 174 —Suzanne Jarente de la Reyniere,176g.
+
+Buste de profl a droite. Medaillon rond,grand module, en terre cuite. Signe en creux, sur la legere saillie du bras, et date:1769.
+
+A.Storelli. No 34.
+
+## NINI (JEAN-BAPTISTE)
+
+- Louis.XV.par.la.grace.de.Dieu.roy. 一 tres.chretien. MDCCLXX.
+
+175
+
+Buste de profl a gauche. Medaillon rond, grand module, en terre cuite. Signe en creux, sur la saillie du buste, et date:1770.
+
+A. Storelli. No 39.
+- 177
+
+## NINI (JEAN-BAPTISTE)
+
+- 176 —Catherine II, Imperatrice de Russie.
+
+(Inscription d'exergue en caracteres russes.) Buste de profl a gauche. Medaillon rond, grand module, en terre cuite. Signe en creux, sur la saillie du buste,et date: 1771.
+
+A. Storelli. No47.
+
+## NINI (JEAN-BAPTISTE)
+
+- —J.-D..Leray.de.Chaumont.Intendant.des. Inval.
+
+Buste de profil a droite. Medaillon rond,grand module, en terre cuite. Signe en creux, sur la saillie du bras, armoiries en relief et date en creux : 1771.
+
+A.Storelli.No51.
+
+## NINI (JEAN-BAPTISTE)
+
+- 一 Marie.Antoinette.Archide d'Autriche,Reine de France.
+
+(Inscription d'exergue,en latin.)
+
+Buste de profl a gauche. Medaillon rond,petit module, en terre cuite. Signe en creux, sur la saillie du buste,et date: 1774.
+
+A.Storelli.No54.
+
+Cadre ancien Louis XVI, en argent partiellement dore, orne d'une feuille d'eau et couronne d'un noeud de ruban. Vente Laberaudiere,1885.
+
+## NINI (JEAN-BAPTISTE)
+
+- 179 — Claudine.de.Bussy.Jean.Bouin. MDCCLXXIX.
+
+Deux bustes conjugues de profl a droite. Medaillon rond, grand module,en terre cuite. Signe en creux, sur la saillie du bras, et date : 1777.
+
+A.Storelli. No 6u.
+
+- 178
+## NINI (JEAN-BAPTISTE)
+
+180 Marie.Antoinette.Archid.d'Autriche. Reine de France.
+
+(Inscription d'exergue en latin.)
+
+Buste de profil a gauche. Médaillon rond, grand module, en terre cuite. Signe en creux, sur la saillie de l'épaule, et date:1779.
+
+A.Storelli.No.73.
+
+## NINI (JEAN-BAPTISTE)
+
+- 181-
+- Marquise de Bouffry.
+
+D'apres une inscription relevee sur une epreuve de ce modele.
+
+Buste de profl a gauche. Medaillon rond, grand module, en terre cuite. Signé en creux, sur la saillie du buste et du bras. Non date.
+
+A. Storelli. No99.
+
+Les details de la coiffure et du costume sont identiquement les m emes que ceux du medaillon decrit sous le no go. La physionomie est absolument differente.
+
+## OBJETS MONTES EN BRONZE
+
+- 182 -EcrIroirE de forme contournee, faite d'un plateau en laque monte en bronze cisele et dore, reposant sur quatre pieds. Elle est munie de trois godets en laque et bronze dore et orne de branchages avec feurettes de
+- Saxe. Epoque Louis XV.
+
+Larg., 31 cent.
+
+- 183 -- JarDiNiERE cylindrique ou cache-pot en marbre vert de mer, montee en bronze dore. Epoque Louis XVI.
+
+Haut., 24 cent.; diam.,20 cent.
+- 184-PAIRE DE PETITS VASES-BALUSTRES en criStal taille, compris chacun dans une monture de bronze cisele et dore; decor de feuillage, guirlandes et grecques. Bases a pans coupes. Epoque Louis XVI.
+
+Haut.,1g cent.
+
+- 185 —Vase avec couvercle, en marbre, monte en bronze cisele et dore. Epoque Louis XVI.
+
+## ORFEVRERIE
+
+- 86 - CHocoLATIERE en argent, forme balustre, sur trois pieds. Poincons de province. Epoque Louis XV.
+
+Haut.,24 cent.
+
+- 187—1 PAIRE DE FLAMBEAUx a tige balustre, sur base carree a pans coupes, en argent. Poincons de province. Epoque Louis XIV.
+
+Haut.,18 cent.
+
+- 188—PAIRE DE FLAMBEAUx en argent, a tige balustre sur base ronde ornementee d'un écusson d'armoiries. Poincons illisibles. Epoque Louis XV.
+
+Haut.,27 cent.
+
+- 18g -PAIRE DE FLAMBEAux a tige colonnette cannelee et rudentee, sur base carree; bobeche ornee de guirlandes. Argent. Ancien travail anglais. Fin du xvine siecle ou commencement du xixe siecle.
+
+Haut., 29 cent.
+
+Haut.,26 cent.
+DEux MouTARDIERs en cristal taille et montures a
+
+Haut., 14 cent.
+
+## OBJETS VARIES
+
+## CADRES,GLACES,TRUMEAUX COFFRETS,ETC.
+
+- 192 一 PeTIT cADRE rectangulaire allonge, en bois sculpte et dore. Epoque Regence.
+
+Ouverture du cadre: Haut., 17 cent. 1/2;larg., 9 cent. 1/2.
+
+- 193-195 —TroIs caDREs rectangulaires, faits d'ancienne baguette en bois sculpte dore.
+
+(Seront divises.)
+
+Haut., 82 cent.;larg.,65 cent. Haut., 63 cent.; larg., 48 cent. Hau., 61 cent.; larg., 51 cent.
+
+- 1g6 —Deux cADres en hauteur, pour almanach, en bois tres finement sculpte, peint et dore,ornes chacun d'un fronton fait de deux écussons d'armoiries timbres d'une couronne; et, a la base, de deux autres ecussons charges d'initiales et entoures de laurier. Epoque Louis XVI.
+
+Ouverture des cadres: Haut., 24 cent.; larg., 6 cent. 1/2.
+
+- — Trois PANNEAux de lambris en bois sculpte et cire. 197 Epoque Regence.
+
+Haut.:1 m.o8, 86 cent., 86 cent.; larg, 48 cent.
+
+161-061 一 anse et couvercle en argent. xixe siecle.
+- 198 —CoNsoLE·supporT d'applique, en bois ajoure, sculpte et dore. Elle est decoree, au centre, d'une tete de femme avec coiffure a plumes, et d'ornements divers. Epoque Regence.
+
+Haut.,3o cent.;larg,34 cent.
+
+- 199 — GLace dans un encadrement de bois sculpte peint,
+- avec fronton orne d'un carquois, d'un fambeau et de guirlandes de feurs. Epoque Louis XVI.
+
+Haut., I m.43;larg.,62 cent.
+
+- 2o0 — Trumeau avec glace, en bois sculpte dore,orne,a la partie superieure, d'une couronne de roses et de branches
+- de laurier.Epoque Louis XVI.
+
+Haut., I m.43;larg, 97 cent.
+
+- 201 —Trumeau avec glace, surmonte d'un fronton, en bois sculpte dore. Sur la glace est applique un demi-lustre a cinq lumieres,en bronze dore, garni de cristaux de roche. Epoque Louis XVI.
+
+Haut., 2 m. 1o;larg.,I metre.
+
+- —TrumeAu avec glace, en bois sculpte, peint et dore, 202 orne d'une frise, avec vase a la partie superieure, de chutes et brule-parfums sur les cotes. En partie d'epoque Louis XVI.
+
+Haut., I m.7o; larg.,I m.25.
+
+- 203  BaroMErRE a cadran, en bois sculpte et dore. Epoque
+
+Haut.,I metre.
+
+- 204 — ReLiuRe in-fol., en maroquin rouge, portant au dos
+
+Long.,5g cent.; larg.,43 cent. 1/2.
+
+- l'inscription : Gravures d Angleterre a la maniere noire. xville siecle.
+- Louis XVI.
+- 205 RELiure in-fol., en maroquin rouge, ornee, sur les
+
+Long.,63 cent.; larg., 48 cent.
+
+- plats, des armoiries de la Ville de Paris. xvinie siecle. Disposee pour un sous-main.
+- 206  CoFFRET en laque noire, avec couvercle en laque rouge, decore d'un vase en relief dore. xvin siecle.
+
+Long., 31 cent.; larg, 23 cent.
+
+- 207 -CoFFRET rectangulaire, en marqueterie de bois de placage,dans lar maniere de David Roentgen,et presentant, sur le dessus ainsi que sur les cotes, des paysages avec animaux. Epoque Louis XVI.
+
+Haut., 15 cent.; larg.,23 cent.
+
+- 208 — SeMAINiER porte-cartes, a casiers, pour les jours de la semaine, cloutes d'acier. Epoque Directoire.
+
+Haut., 2g cent.
+
+- 209 —Deux vuEs du Chateau de Saint-Hubert (entre
+- Versailles et Rambouillet),se faisant pendant, executees au tour, sur metal, et polychromees, par α Compigne, tablettier du Roy.
+
+Haut., 14 cent.; larg., 20 cent.
+
+Cadre en bois sculpte dore, en partie de l'époque
+
+Louis XVI.
+
+En 177o, Compigne habite rue Greneta,a l'enseigne du Roi David. Le chateau de Saint-Hubert, bati par Louis XV, sur les plans de Gabriel, servit de rendez-vous de chasse tres frequente par Louis XV et Louis XVI.
+- 21o — MEDAiLLoN rond, en metal,presentant le grand sceau
+- de la chancellerie du duc d'Orleans. Signe : Lorthior in. et s. En exergue, les noms et date I782.
+
+Dim.int.du cadre,122 millim.
+
+Cadre en bronze cisele et dore, de meme époque
+
+Louis XVI.
+
+- 211 - Deux MEDAILLoNs ronds, en ancien biscuit de Sevres, a decor blanc sur fond bleu : Scene de comedie et le
+- Bain de Diane. xvil siecle.
+
+## BRONZES
+
+STATUETTES,PENDULES,APPLIQUES FLAMBEAUX, ETC.
+
+- 214 -Deux sTATuETTEs presentant Apollon et Diane,en bronze a patine brune, du xvin siecle, sur socles cylindriques en marbre brocatelle et contre-socles en marbre
+- blanc.
+
+Diam.,87 millim.
+
+Cadres anciens en bois sculpte dore, a couronne de fleurs et chutes de lierre.
+
+- 212 一 Six PETiTEs cLEs de coffrets, en acier reperce a jour et cisele.xvine siecle.
+
+Dimensions variees.
+
+- 213 — PeLLE et pincette, en fer forge,munies de poignees en bronze cisele et dore. Epoque Louis XVI.
+
+Haut.,92 cent.
+
+Haut. totale, 4o cent.
+- 215 — PeTIT GRoupE de deux enfants, sur terrasse, en bronze a patine brune; socle en marbre bleu turquin. Haut., 15 cent.
+- 216— Deux TeRRassEs ou socles carres, en bronze cisele et dore, ornees de feuillage et volutes. Epoque Louis XV. Long. et larg., II cent.
+- 217  SrATuETTE questre de Louis XIV, en bronze a patine brune, reposant sur un socle rectangulaire en porphyre
+- rouge oriental. Epoque Louis XV.
+
+Haut. du bronze,35 cent.
+
+- 218 - Deux PREssE-PAPIERs formes chacun d'un amour en bronze a patine brune; sur socle en marbre vert de mer. Epoque Louis XVI.
+
+Long., i cent.
+
+- 219 —Deux PREssE-PAPiERs formes chacun d'un levrier couche, en bronze a patine brune; sur socle moulure
+- en bronze dore. Epoque Louis XVI.
+
+Loag,18 cent.
+
+- 220 -PeNDuLE dite religieuse, en marqueterie de cuivre sur écaille et ornee de bronzes; a mouvement sonnant
+- les quarts. Epoque Regence.
+
+Haut., 5g cent.
+
+- 221 PeNDuLE-cARTEL d'applique sur son socle cul-delampe, en marqueterie de cuivre sur ecaille et ornee de bronzes dores. Cadran marque : Nepveu, a Paris. Epoque Louis XV.
+
+Haut.,I m.1o.
+- 222 一 PeNDuLE-cARTEL d'applique sur son socle cul-delampe, tout en bronze cisele et dore; au centre du support, une figurine d'amour indique l'heure. Cadran marque : Etienne Lenoir, a Paris. Epoque Louis XV.
+
+Haut.,53 cent.
+
+- 223 - HoRLoGE dite a équation, marquant les mois, quan-
+- tiemes, jours, heures et secondes, sonnant les quarts, avec balancier compensateur. Cadran emaille de Cotteau. La pendule est signee sur un cartouche emaille: Robin, a Paris. Cage en acajou. Fin du xvine siecle.
+
+Haut.,53 cent.
+
+- 224— PENDuLE forme fut de colonne cannelee, en bronze cisele et dore, reposant sur une base mouluree avec socle carre, et surmontee d'un vase. Modele d'Osmond (signee). Cadran marque : Gilot, a Paris. Epoque Louis XVI..
+
+Haut., 35 cent.
+
+- mouvement apparent,en bronze, munie de trois cadrans indiquant heure, jour et quantieme. Les jambages sont decores en emaux de couleur. Socle en marbre. Sous globe. Epoque Louis XVI.
+
+Haut.,37 cent.
+
+- 226  PeTITE PENDuLE en marbre blanc et bronze cisele et. sur les cotes, de volutes, et surmontee d'un vase. Cadran
+- dore; elle est decoree, sur la face, d'ornements divers, marque : Barbier le jeune, a Paris. Epoque Louis XVI.
+
+Haut.,3o cent.
+
+- 225-PENDULE-SQUELETTE a1
+- 227一 PAIRE DE BRAS-APPLIQuEs a deux lumieres,en bronze cisele et dore; gaines a mascaron de vieillard barbu donnant naissance aux branches. Epoque fin Louis XV.
+
+Haut., 26 cent.
+
+- 228— PAIREs DE BRAs-APPLIQuEs a deux lumieres, en bronze cisele et dore; gaines ornees d'une tete de belier et couronnees d'un vase. Epoque Louis XVI.
+
+Haut.,40 cent.
+
+- 229 — PAIRE DE BRAS-APPLIQuEs a deux lumieres, en bronze cisele et dore, ornes, sur la gaine, d'un noeud de ruban et
+- d'attributs. Epoque Louis XVI.
+- 230 d'amortissement. Epoque Louis XVI.
+
+Haut., 40 cent.
+
+- PAIRE DE cHENETs en bronze cisele et dore; galerie ornee d'une frise d'ornements et guirlandes,avec vases
+
+Haut.,34 cent.
+
+- 231 — PAIRE DE FLAMBEAux en bronze, d'époque Louis XV, disposes en girandoles bouts de table a cinq lumieres
+- et ornees de cristaux.
+
+Haut.,75 cent.
+
+- 232 —PAIRE DE FLAMBEAux en bronze cisele et dore, formes chacun d'un enfant nu, debout, portant, de ses deux bras eleves au-dessus de la tete,la douille portelumiere; socles cylindriques en marbre blanc. Epoque Louis XVI.
+
+Haut.,28 cent,
+- 233 —PAIRE DE FLAMBEAUx-CAssoLETTEs en marbre blanc, montes a pieds de biche en bronze cisele et dore. Epoque Louis XVI.
+
+Haut.,24 cent.
+
+- 234 —PAIRE DE cAssoLETTEs, ou brule-parfums, en bronze cisele et dore, sur socles cylindriques en marbre blanc. Epoque Louis XVI:
+
+Haut., 18 cent.
+
+- 235 5—PAIRE DE FLAMBEAUx, forme colonnette, en verre bleu et monture ajouree de bronze cisele et dore. Epoque Louis XVI.
+
+Haut., 17 cent.
+
+## MEUBLES ANCIENS
+
+- 236  MeuBLE d'entre-deux,a hauteur d'appui, ouvrant a deux portes, en bois de rose. Estampille de Dubois. Dessus de marbre rouge. Epoque Louis XV.
+
+Haut., 84 cent., larg, 93 cent.
+
+- 237 -MeuBLe d'entre-deux, a hauteur d'appui, ouvrant a deux portes, en bois de placage. Dessus de marbre. Epoque Louis XV.
+
+Haut.,83 cent.,larg.,8o cent.
+
+- 238 — ConsoLe forme demi-lune, en bois ajoure, sculpte et
+- dore,reposant sur quatre pieds fuseles,canneles,relis par des guirlandes de feurs et reunis a la base par une entretoise ornee d'une mappemonde entouree de lauriers. Dessus de marbre. Epoque Louis XVI.
+
+Vente Barthes de Laperouse, a Albi.
+
+Haut.,88 cent.;larg.,1 m.33.
+244
+
+## MEUBLES MODERNES
+
+- 239 —MeuBLE d'entre-deux, a hauteur d'appui, ouvrant a
+- deux portes et cotes arrondis, a etageres, en bois satine et acajou mouchete, orne de bronzes ciseles et dores. La face de ce meuble est faite d'un ancien panneau de laque de Chine orne d'un paysage avec personnages en dorure sur fond noir. Dessus de marbre bleu turquin. Haui.,1 m.o5;larg., 1 m.65.
+- 240  PETIT cARToNNIEr a six casiers, avec ses cartons ornes, sur la face, de plats d'anciennes reliures en maroquin. Travail de Dromard.
+
+Hant.,36 cent.1/2;larg.,38 cent.1/2.
+
+- 241 — ConsoLe forme demi-lune, en bois sculpte, ajoure et
+- dore,reposant sur deux pieds reunis a la base par une traverse. Dessus de marbre. Style Louis XVI.
+
+Larg., 8o cent.
+
+- 242 一 MEuBLE·cARToNNIER a huit casiers, en bois de rose, muni de cartons en maroquin dore aux fers. Style Louis XV.
+
+Haut.,78 cent.; larg., 87 cent.
+
+- 243 一 BuRe.u plat, a trois tiroirs et deux tablettes laterales, en acajou, orne de bronzes dores. Style Louis XVI.
+
+Long, 1 m. 8o; larg., 87 cent.
+
+## TAPIS D'ORIENT
+
+CARPETTE ancienne d'Orient.
+
+Long.,3 m.9o;larg.,I m.70.
+<!-- image -->
+
+## BEAUX LIVRES ILLUSTRES
+
+DU XVIII SIECLE
+
+- 245  Anacreon, Sapho,Bion et Moschus, traduction nouvelle en prose, suivie de la Veillee des fetes de Venus etd'un choix de pieces de differens auteurs par M. M*** C*** (Moutonnet de Clairfonds). A Paphos, et se trouve a Paris, chez Bastien,178o,in-8,veau marb.,pet. dent., dos orne, dent. int., tr. dor. (Rel. anc.).
+
+Un frontispice,12 en-tetes et 1o culs-de-lampe par Eisen, plus une figure pour Hero et Leandre.
+
+- 246 —Bernard. L'Art d'aimer. S. l. n. d.(Paris, Le Jay, 1775), in-8, veau marb., dos orne, tr. rouges (Rel. anc.).
+
+Titre-frontispice par Baquoy et trois figures par Martini gravees par Patas, Baquoy et Gaucher.
+
+On a relie avec cet exemplaire: PHRosINE ET MELIDoRE (1772), quatre figures par Eisen gravees par Baquoy et Ponce.
+
+- 247 —Bouhours (Le P. Dom.). La Maniere de bien penser dans les ouvrages d'esprit, dialogues. Nouvelle edition. A Paris,che les libraires associes,177,pet.in-8,veau jasp., fil., dos orne, dent. int., tr. dor.(Rel. anc.).
+
+Exemplaire aux armes de la Reine MARIE-ANTOINETTE.
+
+Cachet de la bibliotheque de Versailles sur le titre.
+
+Au dos du volume,les initiales C. T. surmontees de la couronne rOyale(CHATEAU DE TRIANON).
+- 248 —Dorat. Lettre de Barnevelt dans sa prison, a Truman son ami, precedee d'une lettre de lauteur. Quatrieme édition.AParis,che Bauche,766,une figure,une vignette et un cul-de-lampe par Eisen, graves par DE LoNGuEIL.—Les Tourterelles de Zelmis, poeme en trois chants. S. l.n. d.(Paris, 1766),un titre-frontispice, une figure, une vignette et un cul-de-lampe par Eisen, graves par DE LoNGuEIL. —Ens. 2 ouvrages en 1 vol. gr.in-8, mar.rouge,fil., dos orne, dent. int., tr. dor.(Belz-Niedrée).
+- 249 —Dorat. La Declamation theatrale, poeme didactique en trois chants, precede d'un discours. A Paris, de limp. de Sebastien Jorry, 1766, gr. in-8, mar. rouge, fl., dos orne, dent. int., tete dor., non rogne (Belz-Niedree).
+
+Frontispice et trois figures par Eisen, graves par de Ghendt.
+
+On y a ajoute la figure de la Dinse par Eisen, gravee par de Ghendt.
+
+- 250—Dorat. Les BaisErs, precedes du mois de mai, poeme. A La Haye,et se trouve a Paris, che Lambert, 1770, gr. in-8, mar. rouge, fl., dos orne, doubl. de mar. bleu,large dent. a petits fers,non rogne, etui (Thibaron-
+- Joiy).
+
+Superbe exemplaire du PREMIER TIRAGE en GRAND PAPIER, avec le titre imprime en rouge et noir et les fautes de pagination.
+
+Exemplaire NoN RoGNE dans une charmante reliure d'une remarquable execution.
+
+- 251 —Dorat. FABLEs NouvELLEs. A La Haye, et se trouve a Paris, 1773, 2 tomes en 1 vol. gr. in-8, demi-rel. veau fauve, coins, dos orne, tr. jasp.(Rel. anc.)
+
+Exemplaire du PREMIER TIRAGE imprime sur GRAND PAPIER. Un des ouvrages les mieux illustres du xvine siecle, orne de deux frontispices, deux titres,99 vignettes et g9 culs-delampe,par Marillier, graves par Baquoy,de Launay,Duflos,Le Roy,Nee,etc.
+- 252 —Dorat. Les Tourterelles de Zelmis (Paris,766),un frontispice, une figure, une vignette et un cul-de-lampe par EIsEN, graves par De LoNGuEIL.L Lettre de Zeila, jeune sauvage, esclave a Constantinople, a Valcour, officier francois. A Geneve, et se trouve a Paris, 1766, une figure, une vignette et un cul-de-lampe par Eisen, graves par DE LoNGuEIL.— Reponse de Valcour a Zeila. A Paris, de lImp. de Seb. Jorry,766, une figure, une vignette et un cul-de-lampe par EiseN. graves par ALiAMET et DE LoNGuEIL.—Lettre deJulie,flle d'Auguste, a Ovide, une vignette et un cul-de-lampe par Eisen, graves par MassArD (sans la figure). —Ens. I vol. in-8, veau fauve, fil., dos orne, dent. int., tr. dor. (Rel. anc.).
+- 253 -Dorat. Les Cerises et la double meprise, contes en vers. A La Haye,1769, une figure par EisEN,gravee par DE LoNGuEIL. - Selim et Selima, poeme imite de l'allemand. A Paris, chez Seb. Jorry, 769, une fgure par EisEN, gravee par DE GHENDr.— Blin de Sainmore. Lettre de Gabrielle d'Estrées a Henri IV. Ibid., id.,1766, une figure, une vignette et un cul-de-lampe par Eisen, graves par RousSEAu,MasSARD et ALIAMET.— Ens.I vol.in-8, mar. rouge, large dent. a petits fers, dos orne, dent.int., tr. dor. (Belz-Niedree).
+- 254 —Dubuisson.Armorial des principales maisons et familles du royaume, particulierement de celles de Paris et de l'Isle de France, contenant les armes des Princes, seigneurs, grands officiers de la Couronne et de la Maison du Roi, celles des cours souveraines. etc., avec l'explication de tous les blasons. A Paris, aux depens de lauteur, 1757, 2 vol. in-12, mar. rouge, fl., feurs de lis
+
+Ouvrage recherche, orne de pres de 4.ooo blasons graves en taille-douce.
+
+- aux angles et au dos, dent. int., tr. dor. (Belz-Niedree).
+- 255 ——Duclos. Les Confessions du Comte de ***, écrites par lui-meme a un ami. Sixieme édition.A Amsterdam,et se trouve a Paris, chez Nyon, 1783, gr. in-8, veau
+- porph., fil., dos orne, tr. marb. (Rel. anc.).
+
+Edition ornee de 7 figures par Desrais, gravees par de Launay,
+
+Triere, Mlle Jeanne Deny,etc.
+
+- 256—1 Du Rosoi. Les Sens, poeme en six chants. A Londres (Paris), 766, in-8, mar. rouge, fil., dos orne, dent. int., tr.dor.(Belz-Niedree).
+
+Orne de 7 figures, 6 vignettes et 2 culs-de-lampe par Eisen et Wille, graves par de Longueil.
+
+- 257 - Erasme. L'Eloge de la Folie, traduit du latin
+- d'Erasme par M. Gueudeville. Nouvelle edition revue et corrigee sur le texte de l'edition de Basle, ornee de nouvelles figures, avec des notes par Meunier de Querlon), S. l. (Paris), 1751, in-4, mar. vert, pet. dent., dos orne, tr. dor. (Rel. anc.).
+
+Bel exemplaire en GRAND PAPIER.
+
+Frontispice,euron,vignette,cul-de-lampe et 13 estampes par Eisen, gravees par Aliamet,Flipart, Le Grand,et.
+
+- 258 — Histoire de Mignonne (conte de fees). Manuscrit du
+- xvlie siecle, sur velin, de 27 feuillets. In-32, mar.rouge, large dent. a petits fers, doubl. et gardes de tabis bleu, dos orne, dent. int., tr. dor. (Rel. anc.).
+
+Joli petit manuscrit tres bien ecrit par un habile calligraphe du xvine siecle.
+
+Charmante reliure de Derome, avec larges dentelles et le fer dit a l'oiseau.
+- 259 — La Borde (de). Choix de chansons mises en musique, par M. de la Borde, premier valet de chambre du Roi, gouverneur du Louvre,ornees d'estampes par M. Moreau, dediees a Madame la Dauphine. A Paris, chez de Lormel, 1773,4 vol. gr.in-8, mar.rouge,fil.et large dent., doubl. de mar. bleu, fil., gardes de satin moire, tr. dor., étuis (Lortic).
+
+Texte et musique graves par Moria et Mlle Vendome, titre grave avec Heuron par Moreau,4 frontispices par Moreau,Le Barbier,graves par Masquelier et Nee,et oo figures par Moreau,Le Bouteux,St-Quentin, gravees par Moreau, Masquelier et Nee.
+
+Charmante reliure de Lortic pere.
+
+Exemplaire auquel on a joint le PoRTRAIT DE La BoRDe dit a la lyre, superbe epreuve A ToUTEs MARGEs, avant la date de 1774 et avant le changement du quatrieme vers.
+
+- CHOISIES, mises en vers. Nouvelle édition gravee en taille douce, les figures par le s Fessard,le texte par le sr Montulay, dediees aux Enfants de France. A Paris, che lauteur,1765-1775, 6 vol. in-8, mar. bleu, fil., dos orne, dent. int., tr. dor.
+- 260 —La Fontaine. FABLEs (Rel. anc.).
+
+Tres bel exemplaire du PREMIER TIRAGE, dans une jolie reliure du xvinre siecle, en maroquin, en parfait etat de conservation.
+
+en-tetes et des culs-de-lampe pour chaque fable.
+
+Superbe édition,entierement gravee,avec des grandes figures, des
+
+- 261 —La Fontaine. Reunion de 13 figures par EiseN, de l'Edition dite des FERMIERS GENERAUx.
+
+de 1édition de 1762. En voici le detail :La Coupe enchantee.—Le Calendrier des vieillards.—Le Remede.Le Tableau.—Comment l'esprit vient aux filles.—Les Oies du frere Philippe. La Clochette. — On ne s'avise jamais de tout.——La Servante justifiee -Le Savetier.
+
+Pieces refusees, ou ayant quelques legeres differences avec celles
+
+—Le Cocu battu et content.—Richard Minutolo, 2 pieces.
+
+tete du premier volume, gravee par Chofard.
+
+On y a joint:LE TIRAGE A PART a l'etat D'EAU-FoRTE de la vignette en-
+- 262 La Fontaine (J. de). CoNTEs ET NouvELLEs EN vERs. A Amsterdam (Paris, Barbou),1762,2vol.in-8,mar. rouge, fil., dos orne, dent. int., tr. dor. (Rel. anc.).
+
+PRECIEUX EXEMPLAIRE au chiffre de JEAN-JosEPH,MARQUIS DE LA BORDE,fermier general,ne a Joua (Aragon)en 1724,condamne a mort par le Tribunal Revolutionnaire, le 18 avril 1794, execute le meme jour.
+
+Exemplaire relie par Derome, avec son etiquette a l'interieur du premier volume.
+
+Edition dite des FERMIERs GeNERAux, ornee des portraits de La Fontaine d'apres Rigaud, d'Eisen d'apres Vispre et de Choffard par lui-meme. 8o figures par Eisen, 4 vignettes et 53 culs-de-lampe par Cho ffard. Les figures du Cas de conscience et du Diable de Papefiguiere sont decouvertes et le portrait de Choffard est avant les tailles.
+
+- 263 -Marguerite de Navarre. Heptameron francois. Les Nouvelles de Marguerite, reine de Navarre. Berne, chez Beat Louis Walthard,178o-1781, 3 vol.in-8,mar. orange, fil., feurs de lis aux angles, armoiries de Marguerite de Navarre sur les plats, dos orne, dent.
+- int., tr.dor.(Cape).
+
+Trois frontispices,72 vignettes, 72culs-de-lampe par Dunker et
+
+73 figures par Freudeberg, graves par Halbou, De Longueil,Le Roy, Thiebault,etc.
+
+- 264 Marmontel. Contes moraux.A Paris, che Merlin, 1765, 3 vol. in-i2, mar. rouge, fil., dos orne, dent. int.,tr. dor.(Champs).
+
+Portrait par Cochin, grave par Saint-Aubin,,3 titres et 23 figures par
+
+Gravelot, graves par Baquoy, Legrand, Le Mire, etc.
+- 265 -Moliere. EuvREs DE MoLiERE. Nouvelle edition (avec une vie de Moliere par Ant. Joly et des notes par La Serre).A Paris (Prault),1734, 6 vol. in-4, mar. rouge jans., doubl. de mar. olive, orne de riches comp. a petits fers dorees en plein au pointille,non rognes, dans
+- des etuis (Chambolle-Duru, dorure de Marius Michel).
+
+Magnifique exemplaire du PREMIER TIRAGE.
+
+33 grandes estampes de Boucher,vignettes et feurons d'Oppenord, Joullain; en-tetes, culs-de-lampe, etc.
+
+Edition tres recherchee, ornee du portrait de Moliere par Lepicie,
+
+On a ajoute a cet exemplaire:
+
+- 1 La suite complete des 32 figures de Punt, d'apres Boucher.
+- 2° La suite des 31 figures gravees par Fessard, d'apres Boucher, en DEUX ETATS,dOnt L'EAU-FORTE.
+- 3° La suite des 6 estampes de Coypel, gravees par Joullain.
+- 4° La suite complete du portrait et des 33 figures de MoreAu, de edition de 1773, en EPREUVES AVANT LA LETTRE.
+- 5°La suite des 6 feurons de l'édition de 1773 aL'ETAT D'EAUx-
+- FORTES.
+- 6 La seconde suite de Moreau en TRois ETATs:eaux-fortes,avant
+- et avec la lettre, plus la piece refusee de Pigeot en Deux ETATs.
+- 7Un portrait de Moliere, d'apres Coypel, grave par Lepicie,un portrait de Boucher, d'apres Roslin,un portrait de Laurent Cars, d'apres Cochin,un portrait de Moreau, d'apres Cochin.
+- 8 Un DESSIN ORIGINAL DE WATTIER representant une salle
+- de spectacle au xvine siecle.
+- g° UN DESSIN ORIGINAL DE TAFOREL,execute a l'encre de Chine, date de 1852, representant le portrait de Moliere, d'apres Mignard, et dans trois medaillons executes a la sepia, d'apres Moreau, representant chacun une scene du Malade imaginaire, du Tartu ffe et de l'Avare.
+- 1o° Le rarissime portrait de Moliere, par·Fiquet, en EPREUVE
+- AVANT LA LETTRE.
+- 11 Deux portraits de Moliere, d'apres Mignard et Nolin.
+- 266 — Montesquieu. Le Temple de Gnide. Nouvelle edition avec figures gravees par N. Le Mire, d'apres les dessins de Ch. Eisen. Le texte grave par Drouet. A Paris, chez Le Mire, 1772, grand in8, veau porph., fil., dos orne, dent.int.,tr. dor. (Rel. anc.).
+
+Ouvrage entierement grave, orne d’un frontispice avec le portrait de
+
+Exemplaire contenant les figures AvANT LEs NuMERos, sauf pour la lauteur en medaillon, une vignette en-tete et g figures par Eisen, gravees par Le Mire, dont 2 pour Cephise et lAmour.
+
+figure du troisieme chant,
+
+La seconde figure de Cephise est en epreuve du PREMIER ETAT avec la legende Embrassez-moi:elles croissent.
+
+- 267  Querlon (Meunier de). Le Triomphe des graces, ou
+- elite en prose et en vers des meilleurs ecrits anciens et modernes qui ont ete faits a la louange des graces ..... A Paris, 1775, in-8, veau fauve, fl., dos orne, dent. int., tr. rouges (Rel. anc.).
+
+Frontispice par Boucher,grave par Simonet,et 5 figures par Moreau, gravees par Massard, de Longueil, de Launay,etc.
+
+- 268 — Restif de la Bretonne. LA DERNIERE AvANTURE D'uN HOMME DE QUARANTE-cINQ ANs; nouvelle utile a plus d'un 2 vol. in-i2, mar. rouge, fl., dos orne, dent. int., tr.
+- lecteur.A Geneve et setrouvea Paris,ches Regnault,783, dor.(Belz-Niedree).
+
+Orne de 2 frontispices et 2 figures par Binet, graves par Giraud et Pauquet.
+
+Exemplaire auquel on a ajoute:
+
+1 DEUX DESSINS ORIGINAUX DE BINET DU FRONTISPICE DU PREMIER VOLUME ET DE LA FIGURE 《 DU DENOUEMENT ）.
+
+2°DEUX EPREUVES A L'ETAT D'EAU-FORTE DU FRONTISPICE DU PREMIER VOLUME ET DE LA FIGURE DES  DEUX CINQUANTENAIRES ）.
+- 26g - Restif de la Bretonne. Monument du costume physique et moral de la fin du dix-huitieme siecle. A Londres, chez C. Dilly, 179o, 2 vol. in-12, mar. rouge,
+- fil., dos orne, dent. int., tr. dor. (Belz-Niedree).
+
+Orne de deux figures d'apres Moreau, gravees par T. Holloway et J.Heat;elles representent la Declaration de grossesseet le Lever du petit maitre.
+
+- 270 — Restif de la Bretonne. Tableaux de la vie ou les moeurs du dix-huitieme siecle. A Neuwied sur le Rhin, che la Societe typographique, s. d., 2 vol. in-i8, mar. rouge, fil., dos orne, tete dor., non rognes (Belz-Niedre).
+- Edition ornee de 17 figures d’apres Freudeberg et Moreau.
+- 271 —Zacharie.Les Quatre parties du jour,poeme, traduit de I'allemand de M. Zacharie (par Muller). A Paris, chex J.-B.G. Musier, 1769, in-8,mar.rouge, fl., dos orne,
+- dent.int.,tr. dor.(Belz-Niedree).
+
+Un frontispice, 4 figures et 4 vignettes par Eisen, graves par Baquoy.
+
+<!-- image -->

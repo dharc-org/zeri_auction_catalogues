@@ -1,0 +1,1807 @@
+- 11
+- 12
+
+## Keramik
+
+- 1 Drei antike GefaBe. a) Kleiner Krater: doppeltgehenkelter, urnenformiger Korper. Geschwarzt. Beschadigt. Hohe 8 cm.—b) Zwei Ollampchen,eines davon mit gemalten Strichornamenten. Eins beschadigt. Hohe 4 cm
+- bzw.3,5cm.
+- 2 Finf Tonpositive. Abdricke von Modeln. a) Susanna im Bade. Durchm. 18 cm.—b) Adam und Eva. Durchm. 24,5 cm.c) Christus unter den Schriftgelehrten, datiert 1629 und Monogramm A.N. T. E. S. [AE]. Durchm. 24 cm.d) Reichsadler mit dem bayerischen Rautenschild. Monogramm:M.H. Durchm.21 cm. e) Portrat: Johannes Schupfen (Schlupfen). Jahreszahl 1647. Durchm. 22,5 cm.
+- 3 Kachelofen. Stark ausladendes Sockelgesims mit reliefierter Rundbogenarchitektur,vierseitiger an den Ecken abgeschragter Unterbau. Kranzgesims entsprechend dem Sockel. Oberbau hochrechteckig,mit ausladendem Gesims. Drei Durchsichten. Dekor: Sockel und Kranzgesims des Unterbaus in moosgriner Glasur. Unterbau: Vasen mit Blatt-und Volutenwerk, Putten mit Fuillhornern, Festons in Blau auf weibem bzw.hellblauem Grund. Oberbau:Die Eckkacheln mit Blattornamentik in Architekturumrahmung. Reliefiert, grin, ockergelb,blau auf hellgelbem Grund. Gesimsbordire Puttenkopfe und Blattgewinde in ahnlicher Ausfihrung. Die Innenfelder zeigen mythologische und biblische Gestalten — Simson,hl. Petrus, Moses usw.— unter Rundbogenarchitektur. Reliefiert, grine Glasur. Jahrzahl 1543. Deutsch. Mitte des 16. Jahrhunderts. Hohe 2,00 m Breite 0,75m,Tiefe 0,57m.
+
+Abbildung Tafel 18.
+
+- 4 Stirnseite eines Kachelofens. Der Unterbau ruht auf zwei vollrunden Lowen und vier balusterformigen MessingfiBen. Stark ausladendes Sockel- und ebensolches Kranzgesims. Oberbau mit abgeschragten Ecken und reich profiliertem Aufsatz. Sockel- und Gesimsteile mit reliefiertem Akanthusmuster. Unterbau mit sechs Kacheln. Diese zeigen stark reliefierte Maskarons in von Blattwerk gefilltem Kreisornament. Oberbau: Maskarons zwischen groteskem Spiralenwerk. Aufsatz mit figirlichem Schmuckwerk, Blattwerk und Vasen. Grine Glasur. Zum Teil erganzt. Deutsch. Spates 16.Jahrhundert. Hohe 2,50 m, Breite 1,42 m.
+
+Abbildung Tafel 2I.
+
+- Scherzkrugandsknecht,der sich denauch halt,darauf der pruch,Vollbauch hei ich,ohne Hin bin ich
+- 5 Ton. Farbig glasiert. Deutsch. 19. Jahrhundert. Hohe 23 cm.
+- Humpen. Runder,mehrfach eingezogener FuB, walzenformig. Auf der Leibung in drei Friesen figirliche Dar-
+- 6 stellungen, Astwerk und heraldischer Schmuck. Ton. Zweite Halfte des 19. Jahrhunderts. Hohe 29 cm.
+- 7
+- Humpen. Runder FuB, walzenformiger Korper;Ansicht von Schwaneck,heraldisches Zierwerk, bunt bemalt in Relief. Inschrift: Ludwig von Schwanthaler auf Schwaneck, dess Gott gnadig und barmherzig sei, anno domini 1848. Irdengut. Farbig glasiert. Hohe 38 cm.
+- 8
+- Deckelhumpen. Auf neunseitigem FuB der von drei Gnomen getragene, walzenformige Korper. Zwischen gotischer MaBwerkornamentik Trinkspriche und figirliche Szenen. Vergoldet und bunt bemalt. Deckel in Zinn mit bekronendem Figirchen zwischen Fialenwerk. Irdengut. Minchen. Zweite Halfte des 19. Jahrhunderts.Hohe 83cm.
+- Pokal. In neugotischer Form mit Reliefs: Unten Engel und Musikant, oben Hochzeit zu Kanaan. Auf dem
+- 9 Deckel drei musizierende Engel. Graue Glasur. Steinzeug. Deutsch. 19. Jahrhundert. Hohe 27 cm.
+- Schal.Runder,hoher FuB,tiefe,runde chale mit leicht gewelltem,elb konturiertem Rand,auf der Rickseit reliefiertes Palmettenornament. Im Fond heil. Familie: in Landschaft — nach einem Holzschnitt Durers von 1511. B. 97  sitzende Madonna, die dem Kinde die Brust reicht,rechts neben ihr lesende Frau; hinter und zu seiten dieser Mittelgruppe vier stehende Manner. In blauen, grinen, gelben und roten Tonen. Auf
+- 10 der Rickseite bez.: M T da Pesaro fe: Pesaro. Um die Mitte des 16. Jahrhunderts.
+
+Abbildung Tafel 14.
+
+- Zwei Facherteller. Sechzehnfach gebuckelt, blaugrin marmorierte Glasur. Fayence. Alpenlander. 18. bis 19.Jahrhundert.Durchm.25,5 cm.
+- Platte. Breiter Rand, stark vertiefter Fond, Blaudekor. Rand und Fond mit Blumenmuster,blauliche Glasur. Rand beschadigt. Fayence. Marke: Beil. Delft. 18. Jahrhundert. Fabrik: de Porceleyne Byl. Durchm.35 cm.
+- 13 Zwei Vasen.Niedriger, sechseckiger FuB,Korper sechsflachig,hoher Hals,iberstehender Rand.Dunkelblaue Glasur mit schwachem Golddekor. Porzellan. Ostasien. Eine Vase leicht beschadigt. 19. Jahrhundert. Hohe
+- 19,5cm.
+- Vase. Runder FuB, walzenformiger,oben stark ausgebauchter Korper. Auf weiBem Grund Blitenzweige und
+- 14 Blumen in Blau, Rot und Gold.Porzellan. Ostasien. Hohe O,20 m.
+
+## Arbeiten in Stein
+
+- 15 Torso. Venus, die das Gewand rafft. Marmor. Vollplastisch. Kopf,rechter Arm, linker Unterarm,FiBe fehlen.
+- Antik.Hohe 17cm.
+- 16 Lowenklaue. Vollrund, auf rechteckiger Sockelplatte. WeiBer Marmor. Hohe O,18m, Breite 0,17 m.
+- Engel. Halbfigur in Vorderansicht, in starkem Relief. Die erhobene Linke halt eine Scheibe mit dem Kreuzsymbol, die Rechte halt einen Lilienstab, der sich quer iber die Brust zur rechten Schulter legt. Scheibennimbus; gefligelt. Unterer AbschluB Leiste mit ornamentalem Muster, oberer AbschluB abgerundet. Sand-
+
+Abbildung Tafel 2.
+
+- 17 stein.Italien.13. Jahrhundert.45x43 cm.
+- 18
+- Heiliger. Im Rund. Halbfigur in Vorderansicht. Der Heilige,barhauptig, Scheibennimbus,halt in der Linken eine Schriftrolle,die Rechte erhoben. Togaahnliches Gewand. Blattkranz. In starkem Relief. Stein. Kopf beschadigt.Italien.13.Jahrhundert.Durchm.ca.40 cm. Abbildung Tafel 2.
+- 192
+- Zierstein. Hochspitzbogiges Feld,im unteren Teil Lowe, eine Hindin schagend, auf dem Ricken des Lowen stehende Saule. An diese stemmen sich, einander zugewandt, zwei Pfauen. Auf den Kopfen der Pfauen zwei schnabelnde Tauben.Oberitalien. 13. Jahrhundert. Hohe 1,37 m, Breite 0,46 m.
+
+Abbildung Tafel 3.
+
+- 202 Zierstein. In hohem Spitzbogen stehende Saule mit Schale; aus dieser trinken zwei gegeneinander gekehrte bekronte Pfauen. Starkes Relief. Oberitalien.13. Jahrhundert.Hohe 91 cm,Breite 40 cm. Abbildung Tafel 3.
+- Zierstein. Zwischen zwei stehenden, einander zugekehrten Vogeln Palmbaum, dessen Blatter die Vogel mit ihren Schnabeln fassen. Palmettenbordire. Starkes Relief in Kreisrund. Oberitalien. 13. Jahrhundert.
+
+Abbildung Tafel 2.
+
+- 21 Durchm.38cm.
+- 22 Zierstein. Starkes Relief in von Zackenbordire gefaBtem Kreisrund. Auf dem Ricken eines Hasen zwei an den Schnabeln sich hackende Greifen.Oberitalien. 13. Jahrhundert. Durchm. 38 cm. Abbildung Tafel 2.
+- Zierstein. Starkes Relief in Kreisrund. Ein Hase wird von einem Vogel geschlagen. Oberitalien. 13. Jahr-
+- 23 hundert.Durchm.33 cm. Abbildung Tafel 2.
+- Zweiundvierzig SchluBsteine. Starke Reliefs in Kreisrund,zum Teil von Zacken und Ornamentbordiren gefaBt. Figirliche Darstellungen:Vogel, Greife, Hasen, Pfauen,Fratzen in strenger Stilisierung. Italien. Sandstein.
+
+Abbildung Tafel I.
+
+- 24 12.bis 13. Jahrhundert.Durchm.20 bis 40 cm.
+- Bisehof. Steinfigur. Langbartig, mit Mitra,in der Rechten den Bischofstab, die Linke halt ein Buch. Fast vollplastisch,im Grunde des Steinrahmens in Flachrelief eine Bischofsgestalt nach links gewandt, teilweise durch die Steinfigur verdeckt. In starkem Rahmen. Oberitalien. 13. Jahrhundert. Figur des Bischofs 33 cm.
+
+Abbildung Tafel 2.
+
+- 25 Umrahmung37x25cm.
+- 26 Vier Steinkapitale. Mit gotischem, durchbrochenem Laubwerk. Italien. 15. Jahrhundert. Hohe O,20 m.
+- 27 hundert. Hohe 41 cm, Breite 18 cm.
+- Lichthauschen. Hochrechteckig,mit gegiebeltem Dach. Eintuirig. An der vorderen Seite krabbengeschmickter Wimperg,auf den Breitseiten des Daches vollrunde Fratzenkopfe. Tur in Blech. Stein. Deutsch. 15. Jahr-
+- 28
+- Bildstockl. Auf gedrehtem Saulenschaft vier Trommeln —vierseitiges, an den Ecken abgeschragtes Kapital mit ausladender Deckplatte. Auf diesem wirfelformiger Aufbau mit vierseitigem, von einer Kugel bekrontem Dach. Auf den vier Seiten des Aufbaues reliefierte Darstellungen aus der Leidensgeschichte Christi und aus der Heiligenlegende. Siddeutsch. 15. Jahrhundert. Hohe 55 cm.
+
+Abbildung Tafel 5.
+- 29 Pieta. Im SchoBe der sitzenden Madonna liegt der Leichn m Christi Beschadigt. Linkes Bein des Leichnams
+- Madonna mit Kind. Volrund, stehend auf sechsseitigem Sockel. Auf dem linken Arm tragt sie das Kind, das
+- abgebrochen. Alabaster. Rahmen mit reich geschnitzter, auf zwei Saulen ruhender Spitzbogenarchitektur. Deutsch. Zweite Halfte des 15.Jahrhunderts. Hohe der Pieta 65 cm, Hohe der Umrahmung 140 cm. Abbildung Tafel 6.
+- 30 nach einer Birne greift. Stein. Deutsch. Um 1470. Hohe 100 cm. Abbildung Tafel 6.
+
+Abbildung Tafel 3.
+
+- 31 Grabstein der Nonne Barbara von Parsberg. In Flachrelief die Verstorbene in ganzer Figur in geistlicher Tracht, in den betend erhobenen Handen den Rosenkranz. Zu ihren FuBen die Wappenschilde Parsberg und Murach. Umlaufende Inschrift:Anno dm. 1524 quinto bt.Augusti obijt Religosa (l). Anna Barbara Parspergerin monalis h（uius) monasterij c(uius) an(im)a requiescat in deo. Niederbayerisch von 1524. Roter Marmor. Barbara Parsberg war Nonne in Niederminster. 145 x 74 cm.
+- 32
+- 33 Konsole.Vollrunder, mannlicher Kopf, halbkreisformige, wulstige Deckplatte. Italienisch. Renaissance-
+- Biste eines romischen Kaisers. Um den Oberkorper die Clamys, mit Widderkopf. Vollrund. Buste in weiBrotem Marmor.Kopf in grauem Stein. Renaissancearbeit. Hohe 100 cm.
+- arbeit nach der Antike. Hohe 23 cm, Durchm. 38 cm.
+- 35 Grabstein. Von 1608. Inschrift verwischt,lesbar: Regina ichbaberin. Mit zwei Wappen. Deutsch. Anfang des 17.Jahrhunderts.56 x30 cm.
+- 34 Grabrelief. In der Mitte Kruzifixus,von Wolkenhimmel umgeben,links kniender,bartiger Mann, stark beschadigt. Rechts kniende Frau. Mit starkem Sprung. Masse. Nachbildung des 16. Jahrh. Hohe 110 cm, Breite 84 cm.
+- 36 Grabstein des Bayerischen Rates Michael Schmidt. Hochrechteckiger Stein, in den oberen Ecken Zwickeln mit Rose im Flachrelief,Inschrifttafel:Anno 1634 [den] 4 September starb der Edl vnd vesst Herr Michael Schmidt der Churfst. Drt. in Bayrn Rath vnd GroB Zollner allhie deme Gott gnedig sein wolle. VIDE NE HORAE FIDAS O HOMO.In den untern Zwickeln Totenkopfe. Im unteren Teil im Rund in Relief das Voll-
+
+Abbildung Tafel 3.
+
+- wappen: Balken mit drei Sternen belegt,Helmzier, Stulphut mit Federn besteckt und mit einem Stern belegt. Bayerisch von 1634. Solnhofner Stein. Rechts oben und links unten beschadigt. 95 x46 cm.
+- Bacchusbiste. Runder Sockel,vollrund,im Profil nach rechts. Im Haar Weinlaubkranz,auf der rechten Schulter sitzt ein kleiner Satyr. Stein. Aus dem Grottenhof der Residenz in Minchen. Erstes Viertel des 17. Jahr-
+
+Abbildung Tafel 4.
+
+- 37 hunderts. Hohe 8O cm.
+- 38
+- 39
+- 40 Putto. Auf dem rechten FuBe kniend, mit der Rechten halt er ein groBes, iber die Schulter fallendes Tuch. Vollrund. Sandstein.17. Jahrhundert.Hohe 45 cm.
+- Gartenvase. Runder,eingezogener FuB,walzenformig. Der leicht iberstehende Rand von vier reliefierten Faunen gehalten, die ihre ausgestreckten Arme auf Wappenkartuschen stitzen. Unter den Wappen das Fuggerwappen. Marmor, beschadigt. Ende des 16. Jahrhunderts.Hohe 25 cm, Durchm. 34 cm.
+- 41 Zwei spielende Putten. Vollrund. Stehend. Ein groBerer Putto halt in seinem rechten Arm einen kleineren, der mit der Linken nach den Haaren des groBeren greift und mit der Rechten ein Tamburin halt. Teile vom
+- 42 Wappenlowe. Stehend, auf rundem Sockel, die rechte Pranke auf dem Wappenschild. Dieses mit reliefiertem, von Akanthuswerk umgebenem Alliancewappen. Links Wappen mit schreitendem Lowen, in der Rechten ein gezicktes Schwert,rechts Lowe, dariber ein Stern. Sandstein. 17. Jahrhundert. Hohe 77 cm. Abbildung Tafel 4.
+- Knie ab fehlen.Sandstein.17. Jahrhundert.Hohe 73 cm.
+- 43 Grabstein des Georg Neigebauer. Steinplatte mit der Inschrift: Alda ligt Begrabe der Erngeachte Meister s Georg
+- 44 Biste eines Firsten.Runder Sockel,in Ristung, iber der Ruistung Orden des goldenen VlieBes und Hermelin mantel. Vollrund, en face leicht nach links. Deutsch. Erste Halfte des 18. Jahrhunderts. Hohe 90 cm. Abbildung Tafel 5.
+- Neigeb : aur Birger s und Riemer gest. : den 16. aprill 1718. Darunter Kartusche mit Gespannzeug. Deu tsch. 18. Jahrhundert. Hohe 44 cm,Breite 40 cm.
+- 45 Acht Garteniguren,ogCallotigurenGroteske,mannlicheund weiblichewergigurenollrund,sthendum Teil beschadigt. Kalkstein. Aus Regensburg. Erstes Viertel des 18. Jahrhunderts. Hohe 63 bis 75 cm.
+- 46
+- Herkules. Stehend,mit der Rechten auf Baumstrunk gestitzt. Nach Giovanni von Bologna. Arbeit des 19. Jahrhunderts. Hohe 67 cm.
+- Abbildung Tafel 4.
+- Satyrbiste. Runder Sockel,vollrund,en face nach rechts. Im Haar Weinlaubkranz,iber der rechten Schulter ein Schultertuch. Stein. Aus dem Grottenhof in der Residenz zu Minchen. Erstes Viertel des 17.Jahrh. Hohe 80cm. Abbildung Tafel 4.
+## Glas
+
+- 47 Heiliger BischofVor rotem Hintergrund stehender,bartiger Bischof,in der Rechten die Inful,unter dem linken Arm das Evangelienbuch. Blaue Casula, violettes Untergewand. En face nach links. In Holzrahmen,in Blei gefaBt. Deutsch. Zweite Halfte des 14. Jahrhunderts. Hohe 76 x 31 cm. Abbildung Tafel 24.
+- 48 Heiliger. Stehend,in der Rechten Palmzweig,in der Linken das aufgeschlagene Evangelienbuch. Grine Casula, weiBes Untergewand. En face nach rechts. Vor Architekturhintergrund. In Holzrahmen, in Blei gefaBt. Deutsch. Zweite Halfte des 14. Jahrhunderts. 76 x 31 cm. Abbildung Tafel 24.
+- 49 Apostel Paulus. Stehend, vor blauem Hintergrund,unter Wimpergarchitektur. In der Rechten das Schwert. Rotes Ubergewand. En face nach links. In Holzrahmen,in Blei gefaBt. Deutsch. Zweite Halfte des 14. Jahrhunderts.76 x31 cm.
+
+Abbildung Tafel 24.
+
+- Heiliger ohannes.Knieend,en face nach links in blauem Uberwurfmantel. Die die Figur umgebenden,ornamentierten Buntscheiben zum Teil spatere Arbeit. In Butzenscheibenumrahmung. Holzrahmen. Deutsch.
+- 50 15. Jahrhundert. Hohe des Glasgemaldes 31 x 20 cm. Hohe des Holzrahmens 51 X 40 cm.
+- Rundscheibe. Wappen der Minchener Backerzunft. Auf blauem Grunde sechsseitige Scheibe. In der Mitte Doppeladler mit Krone,von Spruchband gefaBt, darunter drei kleine Wappenkartuschen. Links Zunftwappen, in der Mitte bayer.Rautenschild, rechts Minchener Wappen. Inschrift: Munchen ann Dm 1512. Spatere Arbeit.
+- 51 Durchm.16 cm.
+- Heilige mit Jesusknaben. Unter Rundbogenarchitektur in Landschaft heilige Frau, die dem Jesusknaben den Kelch reicht. Links davon heiliger Petrus, rechts heiliger Paulus. Uber dem Rundbogen St. Benedikt und St.
+- 52 Klara. Im Geschmacke des spaten 16. Jahrhunderts. Hohe 24 cm, Breite 19 cm.
+- 53 Wappenscheibe des Walther von Roller. Wappenschild: Auf weiB-hellbraun gewirfeltem Grunde zwei rotgelbe Rosen. Die Waffenscheibe flankieren zwei sitzende,weibliche Allegorien,links Fides,rechts Dialectica. Darunter querovale, von kraftigen Voluten gefaBte Kartusche mit Inschrift:Hauptman Walther von Roller der Zeit Landtvogt der Graffschafft Luggarus etc.und Frauw Cathorina Lupin von Underwalden, sein Ehegemahl. 1629.
+- 54 Wappenscheibe. Auf damasziertem, gelben Grunde Igel, in dessen Stacheln drei Apfel stecken. Uber der Kartusche als Wappentiere Lowe mit Rad nach rechts, Lamm mit Auferstehungsfahne nach links. Das Ganze auf hellgrinem, damasziertem Grunde.17. Jahrhundert. Hohe 25 cm, Breite 21 cm.
+- Rundscheibe. Wappenkartusche mit R. O. G. in Sehwarz auf gelbem, damasziertem Grunde. Wappenhelm mit Wappenzier:Knabe in schwarzgelbem Gewande. Kartusche und Helmzier von reicher Blattornamentik
+- 55 umgeben. Mit verbleitem Sprung. Deutsch. Durchm. 19 cm.
+- Rundscheibe. Heiliger Bischof. In Landschaft stehender, heiliger Bischof mit Kelch, Mitra und Inful. Links neben ihm Wappenkartusche: Drei Rosen. Auf blauem, damasziertem Grunde. Mit verbleitem Sprung. Deu tsch.
+- 56 16. Jahrhundert.Durchm.12 cm.
+- Rundscheibe. Kreuzigungsgruppe. Neben dem Kreuze steht Maria mit heiligen Frauen; Johannes, der romische Hauptmann und Krieger. Auf blauem, damasziertem Grunde. Mit verbleitem Sprung. Deutsch. 16. Jahr-
+- 57 hundert.Durchm.18 cm.
+- 58 17.Jahrhundert. Hohe 29,5 cm.
+- 59
+- PaBglas. Mit eingezogenem Boden. Drei gerillte Reifen. Deutsch. 17. Jahrhundert. Hohe 22 cm.
+- Zwei Humpen.Runder,ausladender FuB,walzenformig,mit aufgelegten Profilreifen. Bunte Malerei und Spruch
+- 60 werk. Moderne Arbeit im Geschmack des 17. Jahrhunderts.
+- 61
+- Vase. Birnenformig, mit flachgedricktem Deckel. Auf dem schwarzen Grunde der Leibung und des Deckels hunderts.Hohe 47 cm.
+- 62
+- Zwei Milchglasseidel. a) Tonnenkorper mit je drei Reifen oben und unten. Ohrhenkel. Dekor: Blimchen in Rot und Grin in Emailmalerei.-b) Walzenformig. Grine, gelbe und rote Bluimchen. Zinndeckel. Suddeutsch. Um 1800. a) Hohe 11,5 cm, b) Hohe 14 cm.
+- Glaskrigerl. Tonnenform, oben und unten mit drei Reifen. Gerilte Ohrhenkel. Zinndeckel. Dunkles Glas.
+- 63 Deutsch. Anfang des 19. Jahrhunderts. Hohe 10,5 cm.
+- zwei Lowen, die eine Krone halten. ZinnfuBreif und hoher Zinndeckel. Heber: sitzender Vogel. Zinnmarke
+- 64 Traunstein. Siddeutsch. Erste Halfte des 19. Jahrhunderts. Hohe 20,5 cm.
+## Metall
+
+## Bronze,Messing,Zinn,Eisen
+
+- 65 Fibula. In Form einer Armbrust. Saule und Bogen spiralformig mit Draht umwickelt. Grin glasiert. 9 x7 cm.
+- 66
+- Ring. Spiralenformig gewundenes Schlangenornament, zum Teil mit reliefierter Strichbordire. Bronze. Romisch.Hohe 3 cm.
+- 67 Sechs Bronzehenkel. Romisch. Lange 30 cm.
+- 68
+- Standleuchter. Runde FuBplatte, auf drei KlauenfiBen,kurzer Schaft, mit starkem Mittelstick,weit aus ladender Lichtteller. Stark beschadigt. Bronze. 13. Jahrhundert. Hohe 17 cm.
+- 69 RauchfaB. Kleiner runder FuB, weit ausladende Schale,Deckel mit durchbrochener Laubornamentik,Deckel-
+- knauf pyramidenformig durchbrochen. Bronze. 13. Jahrhundert. Hohe 14 cm.
+- 70 Ostensorium. Sechsfach gelappter FuBteller. Mittelschaft gegen oben ausladend, sechsseitig mit starkem Nodus. Das Gehause Fialenwerk und durchbrochene Laubwerkborduiren. Deckel mit turmformigem Aufbau. Erganzt.
+- Messingbronze. 15. Jahrhundert. Hohe 55 cm.
+- 71 Turklopfer. In Kreisrund stark reliefierter Satyrkopf mit beweglichem Schlangenring. Bronze. 16. Jahrhundert.
+
+Abbildung Tafel 4.
+
+- Durchm.16 cm.
+- 72 Brunnenfigur. Weibliche Fabelgestalt mit gespreitzten Drachenfligeln, LowenfiBen und hochaufgesteltem iberschlagenem Schwanz. Der Leib gegirtet, an den Bristen lange AusguBrohren. Bronze, Vollplastik. Siddeutsch. Zweite Halfte des 16. Jahrhunderts.Hohe 20 cm.
+- 73
+- 74
+- 75
+- 76
+- Brunnenfigur. Weibliche Gestalt,wohl Fortuna. Rechtes Standbein, das Linke schwebend. Reiches bewegtes Haar, der rechte Arm erhoben (Attribut fehit). Der linke Arm nach rickwarts ausgestreckt,halt ein flatterndes Tuch, das die Lenden bedeckt. An den Bristen AusguBrohr. Vollplastik, Bronze. Deutsch.17, Jahrhundert. Hohe 40 cm.
+
+Abbildung Tafel 14.
+
+- Standleuchter. Runder FuB mit starkem Mittelwulst,vasenformige Lichttuille mit reliefiertem Blattwerk auf weit ausladendem Teller. Oberer Rand der Lichttuille mit roten Steinen besetzt. Bronze, 16. Jahrhundert. Hohe 16,5 cm.
+- Zwei Standleuchter. Runder gewolbter FuB, mehrfach gekropfter Mittelschaft, breiter Lichtteller. Bronze. 17.Jahrhundert.Hohe 34 cm.
+- Zwei Standleuchter. Dreiteiliger,mit Engelskopfen gezierter SockelfuB, dreieckige Schaftplatte, Baluster schaft, Schalentuille, Dorn: Glockenspeise. Italien. 17. Jahrhundert. Hohe 37 cm.
+- 77 Atrappe. Minerva im Brustbild. Vollplastik. Rickseite hohl. Messing. Deutsch. 17. Jahrhundert.
+- 78 Metallkreuz. Doppelkreuz. Metall. Vorderseite Christus, darunter Kelch mit Hostie und Totenkopf. Rick-
+- seite Mariaauf dem Halbmond, darunter doppelkopfiger Drache. An den Kreuzesenden Engelskopfchen. Aufschiebbar. Im Innern Reliquien. Osteuropa. 18. Jahrhundert. Hohe 16 cm.
+- Humpen. Runder, saulenformiger FuB. Auf der Leibung in Rundbogenarchitektur figurliche Darstellungen
+- 79 Arbeit von Kreitmann. Zweite Halfte des 19. Jahrhunderts. Hohe 33 cm.
+- Ollampe. Auf drei Rehfiben Baumstrunk, auf dem ein vollrunder Vogel steht. Er halt im Schnabel zwei
+- 80 Schlangen, an denen zwei Ollampchen hangen. Bronze. Hohe 43 cm.
+- 81
+- 82 Funf Standleuchter. In romanisierenden Formen. Bronze. Hohe 14 cm bis 25 cm.
+- Zwei Wandleuchter. Hochrechteckige Grundform. Zweigwerk, gedrehte Astwerkarme. Bronze. Hohe 33 cm,
+- 83 Durchm.25 cm.
+- 84
+- Kohlenbecken. Auf drei, von vollrunden Baren gehaltenen FuiBen der Mittelschaft. Dieser tragt das walzenformige Behaltnis. Durchbrochene Bandornamentik. Ringhenkel. Kupfer und Bronze. Hohe 77 cm, Durchmesser 29 cm.
+- Becken. Doppelhenkelig. Auf drei LowenfiBen breite,runde Schale mit Buckelornamenten. Uberstehender Rand mit reliefiertem Blattornament. Getriebene Arbeit. Kupfer. 16. Jahrhundert. Hohe 28 cm, Durch-
+
+Abbildung Tafel 18.
+
+- 85 messer 53cm.
+- 86 Affe mit Delphin. Vollrund. Kopie in Bronze nach einem Original in Holz (Bayer. Nationalmuseum）. Hohe 72 cm.
+- Abbildung Tafel 5.
+- 87 starker Hals mit weit iberstehendem Rand. Feststehender am Mantel aufsitzender Henkel. AusguB aufrechtstehende Tierfratze, die aus einem fast vollplastischem Kopfe herauswachst. Messing mit alter Patina. Deutsch. 16. Jahrhundert. Hohe 47 cm.
+- 88
+- 89 Weihbrunnkessel. Mit Henkel; Messing. 17. Jahrhundert. Hohe 7,5 cm.
+- MeBglocke. Durchbrochenes Messinggehause, breite Handhabe. Deutsch. 17. Jahrhundert. Durchm.14 cm.
+- Zwei Beschlage. a) Messing, Rankenwerk durchbrochen. Um 1700. 20 x 9 cm.b) Messing, durchbrochen.
+- 90 17.Jahrhundert.19 x6cm.
+- 91 BuchschlieBe. Teil einer BuchschlieBe. Durchbrochenes Ornament,Muschel-und Bandwerk. Messing. Deutsch. 17. Jahrhundert.7,5:5 cm.
+- 92
+- Wandteller.Im Fond getriebenes Blumenornament,um dieses Spruchband und laufende Blattbordire. Auf dem Rand schwach reliefiertes Ornamentwerk. Messing. 17. Jahrhundert. Durchm. 47 cm.
+- 93 Wandteller. Rund,im Fond Mittelstick mit getriebenem Tulpenornament,gefaBt von Spiralenbordire. Leicht gebuckelte Schulter,auf dem breiten Rand flau reliefierte Ornamentik. Messing. 17. Jahrh. Durchm.42 cm.
+- 94
+- Kleiner Lister. Mehrfach gekropfter Mittelschaft, am unteren Ende vollrunde Kugel, bekront von Doppeladler. Aus dem Mittelstick wachsen acht Volutenarme mit breitem Tuillenteller. Messing. Deutsch. 17. Jahrhundert.Hohe 50 cm, Durchm. 45 cm.
+- 95 Lister. Mittelschaft mehrfach gekropft, mit birnenformigem SchluBstick und Ziehring. In zwei Etagen sechs Volutenarme und Blumenwerk. Urnenformige Lichttuillen mit breitem Tillenteller. Messing. Spates 17. Jahrhundert. Hohe 105 cm,Durchm. 90 cm.
+- 96 Messing-Kohlenbecken. In einem Gestell ruhend, das auf drei FuBen steht. Das Gestell besteht aus zwei Messingreifen, die durch zwolf gedrehte Saulen verbunden sind. 17. bis 18. Jahrh. Hohe 8,5 cm, Durchm.18 cm.
+- 97
+- Zwei ineinander verschiebbare MessingschlieBen mit Gravierung. Zimmermanns-Zunftzeichen.
+
+Abbildung Tafel I3.
+
+- MeBstab. Mit gravierter Einteilung. Deutsch. 18. Jahrhundert. Messing. Lange 32 cm, Breite 2,5 cm.
+- 98 SchlieBe. Deutsch.18. Jahrhundert.Lange 7 cm,Breite 4 cm.
+- 99 Ollampe. Runder ScheibenfuB auf schlankem Mittelschaft. Das birnenformige dreiarmige Oibehaltnis an der hohen Tragstange. Dreiteiliges Feuerzeug und Lichtschirm. Italienisch. 18.Jahrh. Messing. Hohe 49 cm.
+- Oberer AbschluB ringformig. Italien. 18. Jahrhundert. Hohe 46 cm.
+- 1001 Messinglampe. TellerfuB mit sehr stark geschweiftem Rand, dinner Schaft, dreiarmige Lampe,verstellbar.
+- 101
+- Doppelleuchter. Kannelierter Saulenschaft auf breiter,weit ausladender,von zwei Spiralen gehaltener Platte. Zwei urnenformige Tillen. Der Saulenschaft verlangert sich in eine vierseitige Schiebstange. Messing. Anfang des 19. Jahrhunderts. Hohe 65 cm,Breite 30 cm.
+- 102 Messinglampe. TellerfuB. Schaft am unteren Ende reich profiliert. Verstellbare, dreiarmige Lampe. Oberer Teil dcs Schaftes platt, oberster AbschluB herzformig durchbrochen. Italienisch. Anfang des 19. Jahrhunderts. Hohe 51,5 cm.
+- 104
+- 103 Blumenvase. Runder FuB,mehrfach eingezogener,urnenformiger Korper, ausladender Rand. Zwei Spiralenhenkel mit leicht reliefierten Maskarons. Ein Henkel beschadigt. Messing. Hohe 2O cm.
+- 105 Zwei Metallplatten. Aufsteigender,niedriger, gewelter Rand. In symmetrischer Anordnung, sehr reich de-
+- Metallplatte. Breitovale Platte mit steil aufsteigendem, niedrigem Rand. Reichgraviertes, ornamentales Schriftdekor. Messing. Orient. 18. Jahrhundert. 38 X 45 cm.
+- koriert mit gravierten Ornamenten und Schrift. Messing. Orient. 18. Jahrhundert. Durchm.53 und 48 cm.
+- 107
+- 106 Metallkanne mit Untersatz. Messing. a) Kanne: Steil aufsteigender FuB mit Wulst, flachgedruckter Kugelkorper, hoher Hals, oben mit zwei Kugelknaufen. Steil aufsteigender AusguB. Geschwungener Henkel. Leibung durchbrochen. Verzierung: Tiere, Arabesken und Schriftzeichen, eingraviert.b) Untersatz: Hoher, steil aufsteigender FuB mit sehr groBem,kugelformigem Knauf;weit iberstehender Rand. Reiches ornamentales Schriftdekor. Messing. Orient. 18. Jahrhundert. Kanne: Hohe 50 cm. Untersatz: Hohe 24 cm.
+- 108 Zwei Metallvasen. Niedriger, steil aufsteigender, nach oben sich verjingender Korper; in der Mitte Knauf,
+- Zwei groBe Vasen. Birnenformiger Korpus, hoher, nach oben sich erweiternder Hals. Am Ansatz mit Wulst. Sehr reiches, graviertes ornamentales Schriftdekor. Messing. Orient. 17. Jahrhundert. Hohe 67 cm.
+- 109
+- von da ab kelchformig aufsteigend. Mit reicher Treibarbeit: Blumen,Vogel und Ranken. Orient. 18. bis 19. Jahrhundert.Hohe 47 cm.
+- TintenfaB.Langer, schmaler,vierkantiger Behalter fir das Schreibzeug mit aufklappbarem Deckel, an der Seite angelotet, das reichprofilierte Tintenfab. Reich graviertes Blumen,Tier und Schriftdekor. Messing. Orient. 18.bis 19. Jahrhundert. Hohe 21,5 cm.
+
+Abbildung Tafel I4.
+
+1
+
+1
+
+13
+
+13
+- 110 Zinn-Zunftkanne. Niedriger,eingezogener FuB,zylindrischer Korper, starker Hals,gewolbter,zweifach ab-
+- DEN. Dazu Emblem der Schusterinnung und Jahreszahl 1655. Am Deckel drei Zinnmarken. Meistermarke A.S.L.und Lubecker Beschau. Norddeutsch,um 1650. Libeck. Hohe 34,5 cm.
+- 112 Kaffeekanne, Milchkanne und Zuckerdose. Kaffee- und Milchkanne runder FuB, birnenformiger Korper, Volutenhenkel in Holz,kurzer SchnauzenausguB, gedeckelt. Leibung und Deckel schrag geriefelt. Zuckerdose ovale Grundform, gedeckelt. Zinnmarke. 18. Jahrhundert. Hohe der Kaffeekanne 27 cm, Hohe der Milchkanne 22 cm, Hohe der Zuckerdose 7 cm.
+- 111 Zinnschale.Rundplatte. Flach,vielfach geschweift,fassoniert,auf niedrigem FuB mit Glocken-HohlfuBscheibe und eingezogenem Rundschaft ruhend. Eingraviert: J. D.in Lorbeerkranzen. Zinnmarken am Boden: Sebald Ruprecht,Augsburg. Augsburg. 18. Jahrhundert. Durchm.26 cm, Hohe 6 cm.
+- 113 Vier Zinnteller. Rund, fassonierter schmaler Rand;zwei davon graviert,einer mit Minerva,einer mit Bacchus.
+- 114
+- Marke: Engel und J. G. M. Deutsch. Mitte des 18. Jahrhunderts. Durchm.26 cm.
+- 115
+- Zinnkrug.Zylindrischer Korper mit schon geschweiftem Henkelweit vorspringender chnauze,wenig e wolbtem Deckel. Suiddeutsch. Anfang des 19. Jahrhunderts. Hohe 27 cm.
+- Zinnkrug. Halbliterkrug; Mittelwand durchbrochenes Zinnrelief:Wappen und Jagdszene. Zinndeckel und Henkel. Deutsch.19. Jahrhundert.18,5 cm.Hohe
+- 116
+- 117 Drei Tuirgriffe. Gotische Nachbildungen. a) 12,5 x 12,5 cm. b) 13 X 13 cm. c) 8cm Durchm.
+- SchloB. Nachbildung eines gotischen Schlosses.
+- 118 SchlieBblech.Nach gotischem Muster.Durchm.7cm.
+- Drei Feuerzangen und ein Schirhaken. Zum Teil mit gewundenem Stabornament. Eisen und Eisen verzinkt.
+- 119 Kerzenstander. Drei schmale FuBe,hoher gedrehter Schaft,Leuchterring mit vier Strebern, vier Lichtdornen und drei Lichttuillen. Oberste Bekronung Kreuzblume. Suiddeutsch. 16. Jahrhundert. Hohe 140 cm.
+- 121 Drei Paar Bandbeschlage. Zwischen Spiralenwerk, Blattornamenten und Voluten zwei mannliche Kopfe. Zum Teil mit schwacher Bemalung. Auf den Bandern graviertes Rankenwerk. Eisen, geschnitten. Deutsch. 16.bis 17. Jahrhundert. Lange 65 cm bis 75 cm.
+- 120 16. Jahrhundert. Lange 43 bis 72 cm.
+- 122 Blumengitter.In Dreieck zwei groBe und zwei kleine ineinander verschlungene Spiralen. Blattornamente.
+- 123 Fenstergitter. Querrechteckige Grundform in finf verschieden breiten Hochrechtecken. Spiralenwerk,MaBwerkornamentik und Pflanzenmotive. Aufsatz mit laufenden Spiralen und drei Rosetten in der Mitte und an den Ecken. Schmiedeeisen. 16. bis 17. Jahrhundert. Breite 260 cm,Hohe 150 cm. Abbildung Tafel 12.
+- Schmiedeeisen. Deutsch. 16. bis 17. Jahrhundert. Hohe 50 cm, Breite 140 cm.
+- 124 Vier Fenstergitter. a) Untere Fensterfligel:Kreisornamente zwischen Rankenwerk und Blumenornamenten, dariber einfache Quadrate.b) Oberfenster: Zwischen Quadraten in ein Blumenornament auslaufende Spiralen. Schmiedeeisen. Deutsch. 16. bis 17. Jahrhundert. Hohe 177 cm,Breite.174 cm. Abbildung Tafel 12.
+- 126 Zwei Waffeleisen. a) Quadratische Platten mit Wirfelmuster. Deutsch. 17. Jahrhundert. Hohe 65 cm. b) Runde Platten mit graviertem Wappen und Jahreszahl 1577. Deutsch. 64 cm hoch.
+- 125 Tir. Hochrechteckige Grundform. In zwei quadratischen Feldern je vier durch kleines Spiralenwerk yerbundene Schnecken. SchloB mit getriebenem Akanthusmotiv. Schmiedeeisen. 16. bis 17. Jahrhundert. Hohe 210cm,Breite 110 cm. Abbildung Tafel 5.
+- 127 Wandleuchter. Eisen getrieben. Rankenwerk, mit Lichtdorn. 17. Jahrhundert. Lange 25 cm.
+- 129 Zwei Wandleuchter. Getriebene, dinne Ranke; Platte im VierpaB mit drei Dornen und einer Tuille. Eisen. 17. Jahrhundert.Lange 35 cm.
+- 128 Wandleuchter. Arm mit geschmiedeter Volute. Der Leuchtertrager aus vier ausziehbaren Gliedern bestehend. Eisen.17. Jahrhundert. 64 cm lang.
+- 130
+- 131 Wachsstockschere. Dinne Scheibe, auf drei in Kugeln endigenden FiBen. Gedrehter, hoher Schaft, Schere sowie Scheibe graviert. Eingeschlagene Marke: Krone. Eisen. Deutsch. 17. Jahrhundert. 21,5 cm hoch.
+- Zwei Schlosser.a) Eisen. 17. Jahrhundert. 12 cm.—b) Eisen. Anfang des 19. Jahrhunderts. 9 cm.
+- 132
+- 133
+- Zierstick. Geschmiedete Ranke. Eisen. Deutsch. 17. Jahrhundert. Lange 56 cm, Breite 17,5 cm.
+- Blume. Reich getriebene Gitterblume. Eisen. 17. Jahrhundert. Hohe 35 cm.
+- Drei Glockchen. a) Vierkantig, defekt, wohl noch gotisch. Eisen.b) Leibung mit Reliefzierat. 17.Jahr-
+- 134 hundert.—c) Desgleichen.Glatt.17. Jahrhundert.
+- 135 Handtuchhalter. Auf horizontaler, an den beiden Seiten leicht aufgerollter Basisstange zwischen reichem Spiralenwerk Marienmonogramm. Schmiedeeisen. Alte Teile mit moderner Umarbeitung. 17. Jahrhundert. Hohe 23cm,Breite 40 cm.
+- Tischstitze. Auf spitz zulaufender Mittelstange dreieckiges, von Spiralenwerk gefuilltes Ornament. Auf den Spiralen Maskarons in geatzter und leicht gravierter Arbeit. Schmiedeeisen. 17.Jahrhundert. Hohe 82 cm,
+- 136 Durchmesser 38 cm.
+- 137
+- Ofengitter. Hochrechteckige, gewolbte Grundform. Auf zwei dreiarmigen VolutenfuiBen. Reiches Rankenwerk mit Blatt- und Blumenornamenten. Schmiedeeisen. Deutsch. 17. Jahrhundert. Hohe 161 cm,Breite 62cm.
+- Kasette. Viereckiger Kasten mit reichen Barockbeschlagen und zwei Handhaben. VexierschloB. Innere, reiche SchloBeinrichtung ganz erhalten und gebrauchsfahig. Eisen. Deutsch. 17. Jahrhundert. Hohe 33 cm,
+- 138 Breite 49 cm, Tiefe 37 cm.
+- Fenstergitter. Querrechteckige Grundform. In drei Feldern, von denen die beiden auBeren nach innen gewolbt sind, gewelltes Rautenornament. Aufsatz mit laufendem Spiralenmuster und stark erhohtem Mittelstick.
+- 139 Schmiedeeisen. Deutsch. 17. bis 18. Jahrhundert. Hohe 120 cm, Breite 220 cm.
+- 140 Korbgitter. Vorderseite gewellt. Zwischen sechs hochrechteckigen Feldern Wellenornamente mit blattformigem AbschluB. Seitenteile mit Spiralen, Rankenwerk und Rokaillenornamenten. Aufsatzgiebel im Dekor entsprechend den Seitenteilen. Schmiedeeisen. Deutsch. 18.Jahrh. Hohe 205 cm,Breite 126 cm, Tiefe 48 cm. Abbildung Tafel 12.
+- Wandhaken. Eisen gedreht, durchbrochene Arbeit. 18. Jahrhundert. Lange 10 cm.
+- 141
+- 142 Lister. Sechsarmig. Mittelstick mit drei groBen, von kreisrunden Baldachinen gefaBten Voluten. Von und zwischen diesen gehen spiralenformige Leuchterarme aus. Vollrundes Akanthuswerk und geschnittene Gitterornamente. Schmiedeeisen, Dekor Grin und Gold. AuBer den sechs Armen sind zwei weitere,nicht zum Luster gehorige fur elektrisches Licht einmontiert. Zweite Halfte des 18. Jahrhunderts. Hohe 85 cm, Durchm.105 cm.
+- Abbildung Tafel 13.
+
+## Arbeiten in Holz
+
+- 143 Kruzifixus. Mit langem, gescheiteltem Haar,in groBen Locken bis zum Nacken herabfallend. Bartig, dinner Schnurrbart. Kopf geradeaus gerichtet. Schmales Lendentuch. FuBe nebeneinander. Vollplastik, uberlebensgroB. Neuerer Olfarbenanstrich. Kreuz neu. Ruickseite ausgehohlt. Aus Augsburg. 13. Jahrhundert. Lange des Christuskorpers 230 cm, Lange des Kreuzes 330 cm, Breite 235 cm. Abbildung Tafel 7.
+- 144 Kruzifixus. Das Haupt auf die rechte Schulter gesenkt,die Augen geschlossen, der Mund halb geoffnet.Dornenkrone auf gewelltem Haar,von der eine breite Strahne iber die rechte Schulter fallt. Scharf eingezogene Hufte mit stark herausgearbeitetem Brustkorb. Lendentuch an der linken Hufte in abgetrepptem herabhangendem Tuchende. Die FuBe ibereinander. Kreuzholz erneuert. Braunliche Fassung iber mehreren alteren Fassungen. Linker Arm an der Achsel gebrochen. Deutsch. 14. Jahrhundert. Hohe ohne Kreuzstamm 75 cm.
+- Kruzifixus. Das Haar glatt,gescheitelt,in zwei groBen Strahnen bis zur Brust niederfallend. Tief eingesunkene Augen, scharfgebogene Nase,gelockter Bart, schmale Gesichtsform. Stark herausgetriebener Brustkorb, scharf eingezogene Hufte, sehr stark angespannte Muskulatur, reich bewegtes Lendentuch,an beiden Seiten reich gedreht. FuBe ibereinander. Lendentuch erneuert, Fassung verwittert. Zipfel des Lendentuches an der rechten Seite neu, falsch erganzt. Vollplastisch. Landshuter Schule,um 1520. Lange des Kruzifixus 145 cm,
+- 145 Lange des alten Kreuzesstammes 198 cm, Breite 130 cm.
+
+Abbildung Tafel 7.
+
+- Flugelaltarchen. Mittelstick: Baldachinformiger Aufbau mit MaBwerk, Fialen und Krabben in reichster durchbrochener Schnitzerei. In den oberen Ecken musizierende Engel. Links hl. Afra, rechts heiliger Ulrich. Im unteren Teil in vollrunder Schnitzerei Maria Verkindigung: Links kniende Madonna vor Betstuhl im blauen Untergewande und goldenem Mantel. Rechts Erzengel Gabriel. Linker Flugel: Im oberen Feld Geburt Christi, im unteren Feld Heimsuchung Maria. Rechter Fligel: Im oberen Feld Auferstehung Christi, im unteren Kronung Maria. Die beiden Fligel erganzt. Schwaben, um 1500. Hohe 82 cm, Breite 120 cm (geoffnet), Tiefe
+
+Abbildung Tafel 9.
+
+- 146 21cm.
+e
+
+- 147 Sieben Apostelfiguren. Darunter Jakobus, Johannes,Thomas. Fast Vollrelief, stehend, auf Sockelpiatte. Alte Fassung, Holz,Ruickseite ausgekittet. Deutsch. 15.Jahrh. Mit leichten Beschadigungen. Hohe 56 cm.
+- 148
+- Maria und Johannes. Hochreliefs, stehend. Mit Spuren alter Bemalung. Deutsch. Assistenzfiguren aus einer Kreuzigungsgruppe. 15.Jahrhundert. Hohe 158 cm.
+- 149
+- Zwei Engel.a) Schwebend,nach rechts gewandt,straffes langes Haar,in lackrotem,blau gefittertem,langem Gewand, die Hande ausgestreckt, hielten eine Krone. Gegenstick zum folgenden. Zirbelholz. Rechte Hand erganzt. Fligel fehlen. Altere Fassung.b) Schwebend, nach links gewandt.In gleicher Auffassung wie das vorhergehende Stick, mit reich gelocktem Haar. Tirol. Ende des 15. Jahrhunderts. 46 cm lang. Daumen der rechten Hand erganzt.
+- 150 HbastianFlachrelief. Standfigur nach rechts.Volles,jugendliches,bartloses Gesicht,von dunklem,reichm Lockenhaar umgeben. Roter, grin gefitterter Mantel, die rechte Seite des Oberkorpers und die FiBe freigegen 1500. Nadelholz. Hohe 115 cm. Pfeispitzen abgebrochen. Barockfassung.
+- braunen Pilgerhut. Hellgriner gegirteter Rock,roter,braun gefitterter Mantel,hellgraue Beinlinge,braune Schuhe. Die Linke halt den Pilgerstab, die Rechte deutet auf die Pestbeule auf dem entbloBten rechten OberNadelholz,mit Barockfassung. Hohe 105 cm.
+- Hl. Sebastian.Vollrund, stehend,an einen Baumstamm gebunden. Mit Spuren alter Bemalung,leicht beschadigt.
+- 151 Um 1520. Suiddeutsch,Chiemgau. Hohe 120 cm. Abbildung Tafel.7.
+- 152 Buste eines Heiligen (?). Nach rechts blickend,mit stark gedrehtem Lockenhaar, bartlos,feine jugendliche Zige. Glatter Rock, die Rechte halt ein Buch, in der Hifte abgeschnitten. Vollplastik, Rickseite glatt. Holz mit Spuren alter Fassung. Gegenstick zur folgenden Nummer. Oberrhein. Ende des 15.Jahrh. Hohe 29 cm. Abbildung Tafel 6.
+- 153 Biste eines Heiligen (?). Das lange Haar hinter den Ohren in groBgedrehten Rollen,auf der Stirn eine aufstehende Locke. Bartlos, schmale spitzige Nase,halbgeoffneter Mund, sehr fein durchgearbeitete Gesichtszige. Rock mit Umlegkragen in der Hifte abgeschnitten. Linke Hand halb erhoben. Vollplastik, Rickseite glatt. Holz mit Spuren alter Fassung. Oberrhein. Ende des 15. Jahrhunderts. Hohe 30 cm. Linke Hand abgebrochen. Beschadigung an den Locken.
+
+Abbildung Tafel 6.
+
+- Johannes Evangelist. Vollrund, auf Rasensockel, in der erhobenen Rechten den Schreibgriffel,in der Linken das Evangelienbuch. Mit Spuren alter Bemalung. Deutsch. Anfang des 16.Jahrhunderts. Hohe 115 cm.
+- 154 Abbildung Tafel 7.
+- Engel. Vollrund, mit ausgebreiteten Fligeln, vor sich zwei Wappen haltend. Alte Fassung. Als Kleider-
+- 155 aufhanger montiert. Alte Teile.16. Jahrhundert. Hohe 49 cm.
+- 156 Zwei Engels-Karyatiden. Aus einer kurzen Volutenherme mit hangendem Frichtewerk wachst der vollrunde, im unteren Teil von einem Tuch umschlungene Engelskorper. Korper in alter Fassung. Deutsch, Mitte des 17. Jahrhunderts.Hohe 130 cm.
+- Mannlicher Kopf. Kopf eines schreienden, bartlosen Mannes mit eng anliegender Kappe und gefaltetem Kragen.
+- 157 Holz mit Resten alter Bemalung. Deutsch. 17. Jahrhundert. Hohe 29 cm.
+- 158
+- Schwebender Engel. Vollrund, mit leichten Beschadigungen, alte Vergoldung. Lindenholz. Aus der Frauen kirche in Minchen. (Bennobogen.) 17. Jahrhundert. Lange 168 cm.
+- 159
+- 160
+- Mannliche Figur.Bartiger,nackter,grinlich bronzierter Mann,in der erhobenen Linken ine goldene Schlange Um Hufte und Schenkel windet sich eine zweite Schlange, die er mit der Rechten faBt. Standfigur auf Rund sockel. Vollplastik. Holz.Deutsch.17.bis 18. Jahrhundert. Hohe 29,5 cm.
+- Kruzifix. Christus am Kreuz, unten Maria, oben Gott Vater. Die Enden des Kreuzes mit Beinglocken belegt. Rickseite in Flachrelief die Leidenswerkzeuge des Herrn. Handwerkliche Arbeit. Im Innern Reliquien. Deutsch.18. Jahrhundert.Lange 30,5 cm.
+- 161 Krippe. Bestehend aus 111 Figuren sowie 159 Tieren und Architektursticken. Figuren in Holz,in vollrunder Schnitzerei mit Stoffbekleidung. Wohl Tirol. Anfang des 18. Jahrhunderts. Abbildung Tafel II.
+- Zwei Lowen. Schreitende, brillende Lowen. Vollplastik, Holz,vergoldet. Grodner Tal oder Siidbayern.
+- 162 18. Jahrhundert. Schweif des einen Lowen beschadigt Hohe 12 cm,Lange 16 cm.
+- 163
+- Drei Engelskopfchen. Vollrund, gefligelt, alte Fassung. Lindenholz. Sidd eutsch. Mitte des 18. Jahrhunderts. Hohe 25 cm.
+- Abbildung Tafel 7.
+- Heiliger Joseph - Heilige Maria. Vollrund, stehend. Lindenholz. Auf neugotischer Konsole mit Aufbau.
+- 164
+- 165 Kruzifixus Elfenbein. Vollrund. Im langen Haar Dornenkrone, reich gefaltetes Lendentuch. Den Blick nach oben gerichtet. Kreuzesstamm in schwarzem Holz. Deutsch. 17. Jahrhundert. Hohe der Figur 14 cm.
+- 166
+- Saule aus einem Altaraufbau. Sechsseitiger Sockel, schlanker, gewundener Schaft, Kapital mit vollrundem Blattwerk; alte Fassung. 15. Jahrhundert. Hohe 200 cm.
+- 167 Prozessionsstange. Mit rautenformigem Kapital, an dessen Breitseiten wappenhaltender, vollrunder Engel. Monogramm:A.B.und A. H. Auf dem Kapital gotischer Architekturaufbau, dessen Mittelfiale in einem Leuchter
+- endigt. Unter dem Baldachinaufbau vollrunder stehender Heiliger Johannes. Alte Fassung. Deu tsch. 15. Jahrhundert. Hohe 287 cm.
+- 168 8 Turaufsatz. Liegender Bacchus mit Frichten in Landschaft. Querovaler Rahmen mit stark profiliertem Volutenwerk, Maskaron und aufgereihtem Scheibenmuster. Uberhoht von Engel in Kreishalbrund, zu den Seiten vollrunder, stehender Putto. Aus dem Palazzo Fontana, Venedig. Angeblich Arbeit des Alessandro Vittorio (1525 bis 1608). Masse. Hohe 88 cm,Breite 165 cm. Abbildung Tafel 8.
+- 169 Zwei Standleuchter. Auf drei VolutenfiBen mit Engelskopfen. Mittelschaft reich gekropft mit reliefiertem
+- Akanthuswerk. Arbeit im Geschmack des spaten 16. Jahrhunderts. Holz, vergoldet. Hohe 55 cm.
+- 170 Lister. Vollrunder Hirschkopf Achtender — auf Wappenkartusche. Diese auf der Rickseite mit Wappen, Inschrift ,,Christianus"und Jahrzahl 1650. Aus dem Hirschkopfe wachst der vielfach gekropfte Mittelschaft des sechsarmigen,bronzenen Volutenlisters. Hirschkopf Mitte des 17. Jahrhunderts. Bronzemontierung spatere Arbeit.Hohe 100 cm,Breite 110 cm.
+
+Abbildung Tafel 1o.
+
+- 171 Konsole. An der Vorderseite querrechteckige,von Flammleisten umrahmte,in ein vollrundes Engelkopfchen endigende Schublade. Wangenteile mit reliefiertem Blattwerk. Die weit iberstehende Deckplatte von Flammleisten gefaBt. Deutsch. Erste Halfte des 17. Jahrhunderts. Hohe 22 cm, Breite 36 cm,Tiefe 23 cm.
+- 172 Konsole. Zwischen Volutenwerk,Frichten und Blattornamentik mannlicher Kopf in kraftiger Reliefschnitzerei. Weit iberstehende, erganzte Deckplatte. Deutsch. 17. Jahrhundert. Hohe 25 cm,Breite 25 cm, Tiefe
+- 20cm.
+- 173 Bekronung. Auf einem Rundnest,aus dem ein Schlangenkopf herauszingelt, stehender Vogel mit geschupptem Gefieder, die Fluigel hochgestellt. Holz mit grauweiBer Fassung. Italien. 17. Jahrhundert. Hohe 49 cm.
+- 174 Bekronung. Symmetrisches, durchbrochenes Laub-und Bandelwerk, in der Mitte ein Kopf. Holz. 17. Jahrhundert. Hohe 32cm, Breite 92 cm.
+- 175 Fuillung. In Flachschnitzerei reiches Akanthus- und Rollwerk. Rechts unten ein Pferd. Fragment. Holz.
+17. Jahrhundert. Hohe 41 cm, Breite 30 cm.
+- 176 Wappenkartusche. In der Mitte das Wappen im Hochoval (zerstort). Umgeben von derber Schnitzerei in Hochrelief, Rollwerk weibliche Hermen mit Fruchtgehangen; als Bekronung mit stilisierten Helmdecken. Hochoval.17.Jahrhundert.Hohe 50 cm,Breite 43 cm.
+- 177 Wappen.Vollwappen; Schild schwarz und Gold,geteilt; darin ein Greif in verwechselten Farben,in den Vorderpranken einen Blumenstengel haltend. Stechhelm, Helmdecken schwarz-gold. Helmzier (neu): Schildfigur, wachsend. Teilweise neu gefaBt. Holz. Suiddeutsch. 17. Jahrhundert. 40 x 33 cm. Abbildung Tafel 1o.
+- 178 alter Fassung und Vergoldung. Deu tsch. 17. Jahrhundert. Hohe 49 cm, Breite 44 cm.
+- 8 Alliance-Wappen. Vollwappen gemalt, die beiden Helme mit Helmzier. Vollplastisch, holzgeschnitzt,mit
+- Abbildung Tafel 1o.
+- 179 Zwei Wappen. Wappenkartusche reich profiliert,mit Volutenwerk,vollrunde Schnitzerei. a) Steinbockkopf grund schreitender Lowe mit Querbalken. Bistum Bamberg. Alte Fassung. Anfang des 17. Jahrhunderts.
+- 180 Zwei Altarverzierungen. Voluten-und Akanthusschnitzereien, ungefaBt. Zweite Halfte des 17. Jahrhunderts. 35×18cm.
+- in Schwarz auf rotem Grund. Wappen des Bamberger Bischofs Johann Phil. v. Gebsattel.b) Auf GoldHohe 30 cm, Breite 18 cm.
+- 181 Zwei Hermen. Faune als Hermen, auf dem Kopf einen hohen Frichtekorb. Alte Fassung. Vollplastisch.
+- 182 Wandkonsole.Kraftig geschnitzter,bartiger Satyrkopf. Seitenteile Akanthusmotiv.Deckplatte iberstehend, erganzt. Eichenholz. Deutsch. Spates 17. Jahrhundert. Hohe 23 cm, Breite 23 cm, Tiefe 19 cm.
+- Holz. Deutsch. 17. Jahrhundert. Durch Sockel erganzt. Hohe 28 cm.
+- 183 Marienkrone. Sternenkranz vergoldet. Deutsch. 17. bis 18. Jahrhundert. Hohe ohne Kranz 5 cm.
+- 184 Engelsfligel. Stark gefiedert, mit Spuren alter Bemalung. Lindenholz. 18. Jahrhundert. Lange 24 cm.
+- 185
+- 186
+- Fillung. In stark geschweifter Umrahmung in starkem Relief. Sitzender Bauer, der eine Pfeife raucht. Siddeutsch. 18.Jahrhundert.85:47 cm
+- Maske. Weibliche Maske im Hochrelief. Holz. UngefaBt. Ende des 18. Jahrhunderts. Hohe 18 cm, Breite 14,5cm.
+- 187
+- 188 Listerweibchen. Weibliche Figur in der Tracht des 16. Jahrhunderts, auf dem Haupt eine Krone, vor sich zwei Wappen haltend,n vollrunder chnitzereibunte FassungZehnenderMontiert fir elektrisches Licht ud Gas. Arbeit von Eduard Beyerer. Durchm. 100 cm.
+
+## Vertafelungen,Turen,Mobel
+
+- 189 Tur. SchloB und Beschlagewerk sowie Henkelgriff mit reich durchbrochener Blatt- und Bandornamentik in getriebener, zum Teil gravierter Arbeit. Schmiedeeisen. 15. Jahrhundert. Tur erganzt. Hohe 130 cm, Breite 60 cm.
+- Zwei Konsolen. Unter einem rechten Winkelhaken kauernder Teufel und kauernde alte Frau. Kopie nach gotischem Vorbild. Holz. 19. Jahrhundert. Hohe 31,5 cm, Breite 20 cm.
+- Abbildung Tafel Io.
+
+Abbildung Tafel 16.
+
+- 190 Tir. Hochrechteckig, mit zwei Beschlagebandern, SchloB, Griff; Guckfenster und Wappenschnitzerei zeigt unter Rundbogenarchitektur leicht schraggestelltes Vollwappen der GroB von Nurnberg. Die Beschlagebander, Eisen,geschmiedet,zeigen in Lilienornament,das Schlo mit getribenen und relifierten eeren und latten. Der Griff sitzt auf herzformigem, geschnittenem Akanthusornament. Deutsch. 15. Jahrhundert. Mit Erganzungen. Hohe 210 cm, Breite 107 cm.
+
+Abbildung Tafel 16.
+
+- 191 Tur. Hochrechteckig,mit zwei Beschlagebandern, SchloB mit Grif. Spiralen- und Rankenwerk, BlattornaHohe 186 cm, Breite 81 cm.
+- 192
+- Abbildung Tafel 16.
+- Zwei Tirumrahmungen. Halbpilaster, mit stark reliefiertem Band- und Blumenwerk. Auf zwei Volutenkonsolen das stark ausladende Kranzgesims. Akanthuswerk und Eierstab. Zum Teil neue Fassung. Aus dem Palazzo Fontana, Venedig. Mitte des 16. Jahrhunderts. Hohe 225 cm, Breite 165 cm.
+- 193 Zwei Tiren mit Umbau. Die Ture flankieren zwei auf hohem Sockel stehende,kannellierte Halbsaulen.Akanthusund Volutenkapital, stark ausladendes Gesims mit reliefierten Lowenkopfen, Volutengiebel mit Jahrzahl 1602 und den Buchstaben G. B. Tiren mit zwei hochrechteckigen, vertieften Feldern. Eine Tire —Rothenburger Kanzeltir — mit Reliefs: Christus der gute Hirte und Adam und Eva unter dem Baume der Versuchung. Zum Teil mit neuer Fassung. Frankisch. Anfang des 17. Jahrhunderts. Hohe 260 cm, Breite 113 cm. Abbildung Tafel 16.
+- 194 Wand-und Deckenvertafelung eines Zimmers. Wandvertafelung:Auf hohem Sockelwerk hochrechteckige, von Leistenwerk gefaBte Felder zwischen nach unten sich verjingenden Pilastern. Diese zeigen Spiralenwerk in reicher,eingelegter Arbeit. Dariber Kranzgesims, stark ausladend, mit Ornamentbordire,entsprechend den Pilastern. Uber dem Kranzgesims,entsprechend dem Mittelstick der Vertafelung, Felder und Pilaster. In die Wandvertafelung sind eingebaut eine Erkernische, eine Fensternische,zwei Tiren und ein Waschkastchen. Die Tiren zeigen auf zwei Feldern Bandelwerkornamente in Holzintarsia. Eine Tir mit flankierenden Pilastern, kraftigem Kranzgesims und querrechteckigem Aufsatz. Das Waschkastchen mit hochrechteckigem, eintirigem Unterbau, offenem Mittelstick und eintirigem Oberbau,zeigt ahnliches Dekor wie Tiren und Vertafelungen. Die auf vier Konsolen ruhende Decke zeigt im Mittelstick ein reich profiliertes,kassettiertes Sternornament. Um dieses gruppieren sich in symmetrischer Anordnung kassettierte Quadrate, Rechtecke und Vielecke. Waschkastchen mit Wasserbehalter  Delphin - und Wanne in Zinn. Auf dem Kranzgesims der groBeren Tur Jahrzahl 1639. Starke Erganzungen. Tiroler Arbeit. Bozen? GroBe des Zimmers 560x 520 cm, Hohe 340cm. Abbildung Tafel 15.
+- von profiliertem Leistenwerk gefaBte Ornamente. Schwach profiliertes Sockelgesims,leicht iberstehende Deck-
+- platte, zwei Traghenkel. Deutsch. 16. Jahrhundert. Hohe 45 cm, Breite 160 cm, Tiefe 50 cm.
+- 196 Kleine Truhe. Sockelgesims reich profiliert, auf der Stirnseite querrechteckiges Mittelfeld mit von Akanthuswerk umrahmter Kartusche, gefaBt von Eierstab- und Volutenbordiire, flankiert von zwei vollrunden weiblichen Hermen. Kranzgesims leicht ausladend. Zwei Traghenkel. Italienisch. Ende des 16. Jahrhunderts. Hohe 50cm,Breite 104 cm,Tiefe 55 cm.
+- 197 Truhe. Auf der Stirnseite Querrechteck, gefillt mit Blumenornamenten und querovalem Mittelstick. Zu Seiten stark reliefierte Lowenkopfe. Diese und das Mittelfeld umrahmt eine laufende Weinlaubbordire in reliefierter Arbeit. Ausladendes Sockelgesims,Kranzgesims und Deckel fehlen. Mit gepolstertem,unbezogenem Sofaaufsatz. Stirnwand nach vorn aufklappbar. Italienisch. Spates 16. Jahrhundert. Hohe 70 cm,Breite 210 cm, Tiefe 67 cm.
+- 198 Zunftlade. Auf vier flachgedrickten KugelfiBen der rechteckige Kasten. Auf der Stirnseite des stark profilierten im Mittelstick gewellten Sockels breite Schublade. An den abgeschragten Ecken des Oberbaus gedrehte Saulen, auf denen der nach rickwarts aufklappbare,iberstehende Deckel ruht. Auf den Breitseiten des Oberbaus querovale,mehrfach vertiefte Felder mit Knorpelwerkschnitzerei,auf den Seitenteilen querrechteckige Felder in ahnlichem Dekor mit Traghenkeln. Auf dem Deckel mehrfach eingezogener pultartiger Aufbau mit Schieber. Inneneinrichtung: Eine groBe und zwei kleine Schubladen. Angeblich Zunftlade der Augsburger Schreinerzunft. Um die Mitte des 17. Jahrhunderts. Hohe 50 cm, Breite 50 cm, Tiefe 36 cm.
+- 199 Truhenstirnseite. Vorderwand dreiteilig, durch kannelierte Saulen gegliedert; groBes Mittelfeld mit eingelegtem Blumenstick, Seitenfelder kleinere Blumensticke in architektonischer Umrahmung. Fries durch Triglyphen Deutsch. Zweite Halfte des 17. Jahrhunderts. Lange 188 cm,Hohe 84 cm, Tiefe 21 cm.
+
+Abbildung Tafel I7.
+
+- Scherenstuhi. In Form eines geschweiften x, zusammenklappbar,auf geraden FuBleisten. Armlehnstitzen leicht geschweift,mit reliefiertem Blumenornament,gerade Rickenleiste mit Wappenkartusche. Tirol 16. Jahrhundert. Hohe 95 cm,Breite 70 cm,Tiefe 52 cm.
+- 200
+- Scherenstuhl. Aus sechs und sieben sich kreuzenden SpreiBen. Lehne mit punzierten Sternen verziert. Zu-
+- 201 sammenklappbar. Tirol. 16. bis 17. Jahrhundert. Hohe 79 cm, Breite 35 cm, Tiefe 27 cm.
+- 202
+- Scherenstuhl. Die Lehne mit Fratzen geschmickt, an der Verbindung der zwei Scheren Wappen in Kartusche; schwarz gebeizt. Sitz,Armlehne und Rickenlehne alter roter Samt. Sidtirol. 17. Jahrhundert. Hohe 91 cm,Breite 67 cm,Tiefe 50 cm.
+- 203 Armlehnstuhl. Vierkantige FiBe, durch Stege verbunden; vorderes Stegbrett schweres, durchbrochenes Akanthuswerk. Geschweifte Armlehne,in Volute endigend, auf stark profilierten Stitzen aufruhend. Hohe, rechteckige Lehne,von starken Voluten bekront. Lederbezug,mit Messingknopfen befestigt, auf Sitz,Lehne und Armlehne punziertes Leder auf blau-gold und rotem Grund. Deutsch. 17. Jahrhundert. Hohe 139 cm, Breite 64 cm,Tiefe 53 cm.
+
+Abbildung Tafel 22.
+
+- 204 Lehnstuhl. Geschweifte FuBe mit Volutenschnitzerei in Flachrelief,verbunden durch seitliche FuBbretter; hochrechteckige nach rickwarts geneigte Rickenlehne. Bezug dunkelroter, gepreBter Spatbarocksamt mit
+- gleichfalls mit Schnitzerei, diese wiederum durch ein reich geschnitztes Brett verbunden. Viereckiger Sitz, reichem Blumenmuster. Deutsch. 17. Jahrhundert. Hohe 111 cm,Breite 57 cm,Tiefe 50 cm.
+- 205
+- Betstuhi. Scherengestell, geschweifte Lehne mit Rickenbrett. Nach vorn aufklappbar, so daB ein Betstuhl entsteht.Bezug:Sitz alter,gemusterter,violetter Renaissancesamt. Rickenlehne desgleichen. Italien. 17.Jahrhundert.Hohe 83 cm,Tiefe 54 cm,Breite 60 cm.
+- 206 Stuhl. Auf vier Kugeln ruhend, dinne, stark gedrehte Saulenfibe mit gleichfalls stark gedrehten sich kreuzenden Leisten. Rechteckiger Sitz,Lehne im Hochrechteck,oben abgerundet. Bezug Samt, dunkelgrin auf hellgruin, symmetrisches Barockblumenmuster. Sitz stark geschlissen. Deutsch. 17. Jahrhundert. Hohe 122 cm, Breite 43 cm, Tiefe 47 cm.
+- 207
+- Stuhl. Auf vier gedrehten FuBen rechteckiger Sitz mit abgeschragten Ecken. Lehne mit reich geschweifter UmriBlinie, herzformigem Ausschnitt in Flachschnitzerei,Voluten und Fratze. Deutsch. 17. Jahrhundert. Hohe 94 cm.FiBe und Sitz neu.
+- Hocker. Auf vier profilierten FuBen, die durch geschweifte Zarge verbunden sind. Alter, stark zerschlissener
+- 208 Seideniberzug. Deutsch. 17.bis 18. Jahrhundert. Hohe 50 cm.50 X50 cm.
+- 209
+- Lehnstuhl. Stark gedrehte dinne SaulenfiBe mit stark gedrehten seitlichen Verbindungsholzern und Mittelbehangen. Deutsch. 17.bis 18. Jahrhundert. Hohe 104 cm, Breite 51 cm, Tiefe 52 cm.
+- 210 Armlehnstuhl Geschweifte FiBe und Zarge,halbkreisformig durchbrochene Rickenlehne mit breitem Mittel blatt,das mit ingelegter Arbeitokaillen und Blumen,geschmickt ist.chmaleArmlehne,in ehr tark geschweifte Stitze ibergehend. Armlehne und Sitz mit Gobelinstoff, Blumenmuster in Blau und Grin.
+- Deutsch. 18. Jahrhundert.Hohe 89 cm, Breite 63 cm, Tiefe 50 cm. Abbildung Tafel 22.
+- 211 Armlehnstuhl. Auf vier geschweiften, stark profilierten Fuben halbkreisformiger Sitz, Lehne auf zwei vier-
+- 212 Stuhllehne. Geschweifte Lehne mit durchbrochener,mit Flachschnitzerei geschmickte Mittelleiste. Bekronung durchbrochen, gleichfalls geschnitzt. Die Seitenteile mit Rohrflechtmuster. Anfang des 18. Jahrhunderts.Stark wurmstichig.77 x37cm.
+- kantigen Pfosten ruhend,oben abgerundet, dinne Armlehne in stark geschweifte und profilierte Stitze ibergehend. Bezug: Sitz,Lehne und Armlehne Gobelinstoff,Blumenmuster dunkelgrau,grin.Deutsch.18. Jahrhundert. Hohe 92 cm, Breite 60 cm, Tiefe 50 cm.
+- Armstuhl. Auf rechteckigen, durch Stege verbundenen FuiBen. Halbkreisformiger Sitz; die Lehne auf sieben reich profilierten Stitzen ruhend. Reiches Kerbschnitzdekor. Westfalen. 18.bis 19. Jahrhundert. Hohe
+- 214 Drehstuhl. Drei schraggestellte,reich profilierte FuBe, durch drei gedrehte Stabe mit Mittelscheibe verbunden.
+- 213 79cm.
+- Runde Obenscheibe, Rundsitz mit Leder gepolstert, gebogenes Ruckenlehnbrett auf drei gedrehten Stitzen ruhend. Deutsch. 18. bis 19. Jahrhundert. Hohe 76 cm.
+- stab tragen. Mit Schnitzerei im gotischen Charakter. Deutsch. 19. Jahrhundert. Hohe 74,5 cm.
+- 215 Vier Stihle.Auf drei schraggestellten FuBen runder Sitz,Lehne zwei schrag aufsteigende Holzer, die einen Quer
+- 216 Zwei Hocker.Vierseitig,nach oben sich verjungend,iberstehende Sitzplatte. Mit durchbrochener, gotisieren-
+- 217 Bank. Auf vier gedrehten, geraden, durch Leisten verbundenen Fiben. Geschweifte Armlehnstitzen,leicht schraggestellte Rickwand. Diese mit eingelegten geometrischen Ornamenten. Mit neuen Teilen. 17. bis 18.
+- der Ornamentik. 19. Jahrhundert. Hohe 50 cm, Breite 33 cm,Tiefe 33 cm.
+- Jahrhundert. Hohe 97 cm, Breite 167 cm,Tiefe 46 cm.
+- 218 Zwei Banke. Auf vier schraggestellten FiBen lang rechteckiger Sitz, Lehne auf drei Pfosten ruhend. Mit
+- Schnitzereien im gotischen Stil. Deutsch. 19. Jahrhundert. Hohe 17 cm,Lange 148 cm, Tiefe 40 cm.
+- 219 GroBer Tisch. Auf vier kraftigen,kugelformig ausgebauchten BalusterfuBen mit reliefiertem Blattwerk, die durch eine gerade FuBleiste verbunden sind,ruht die rechteckige von Flammleisten gefaBte Zarge. Tischplatte weit iberstehend, zweimal ausziehbar. Deutsch.17. Jahrhundert. Hohe 78 cm,Breite 130 cm,Tiefe 150 cm.
+
+Abbildung Tafel 22.
+
+- 220 Tisch. Auf vier flachgedrickten KugelfiBen die quadratische FuBplatte. An den Ecken des vierseitigen Mittelschaftes kraftig geschnitzte Voluten. Quadratische Zarge mit einer Schublade. Tischplatte weit iberstehend, poliert,mit breiter,von geometrischen Ornamenten in eingelegtem Ahorn und Palisander gefillter Randleiste um quadratisches Steinmittelstick. Deutsch. Mit neuen Teilen. Zweite Halfte des 17. Jahrhunderts. Hohe 76 cm, Breite 100 cm,Tiefe 100 cm.
+- 221 Kleines Tischchen. Auf vier leicht schrag gestellten, gekropften, durch gerade FuBleiste verbundenen Fuben die rechteckige Zarge mit durchgehender Schublade. Weit iberstehende quadratische Platte mit Monogramm J.H. S. sowie Kreuz und Herz in eingelegter Arbeit. Suiddeutsch. Mitte des 17. Jahrhunderts. Hohe 78 cm, Breite 62 cm, Tiefe 62 cm.
+- 222
+- Tisch. Gerade FuBleiste, schrag gestelte, durch Balken verbundene Volutenfibe, weit iberstehende Tisch platte. Deutsch. 17. Jahrhundert. Hohe 74cm,Breite 114 cm, Tiefe 89 cm.
+- 223
+- Tisch.Gerade Fuleiste,gerade,gedrehte FiBe,rechteckige Zarge mit Schublade,weit berstehende,recht schen und rechteckigen eingelegten Feldern. Ende des 17. Jahrhunderts. Hohe 67 cm, Breite 107 cm,Tiefe 67cm.
+- 224 Absteltisch.Zweigeschossig, auf vier stark profilierten, gedrehten Saulen ruhend,oben,unten und in der
+- Mitte viereckige Platte. Tirol. 17. bis 18. Jahrhundert. Hohe 82,5 cm;Platte 42 X 42 cm.
+- 225 Konsoltisch. Auf zwei kannelierten ringgeschmickten FiBen, die oben mit Engelsmasken geschmickt sind. Zarge mit feiner Schnitzerei im Stile Louis XVI. Marmorierte Holzplatte. Franzosisch (?) 18. Jahrhundert. Hohe 81 cm,Breite 76 cm, Tiefe 46 cm.
+- 226 Rokokokonsole mit Spiegel. Konsole:Elegant geschweifter FuB, durchbrochenes Gehause mit reichem, stark reliefierten Rokaille- und Blumenschmuck,in farbiger Fassung (weiBer Grund mit farbigem Blumenmuster), goldene Rokaillen,farbige Blumen.Viereckige rote Marmorplatte.—Spiegel:Schmales Hochrechteck. Unterer Teil durchbrochenes Rokaillewerk mit plastisch aufgesetzten Blumen, an dem schmalen Rand in der Mitte plastische Blumengirlande. In der oberen Halfte,iber die Spiegelflache laufend,schmales Rokailleband,in der Mitte mit plastischer Rose. Bekronung reiches durchbrochenes Rokaillewerk mit Fruchtkorb, plastischen Blumen und Frichten; als oberste Bekronung Adler. Fassung wie bei der Konsole, weib-gelblicher Grund, goldene Rokaillen,farbige Blumen. Mit kleinen Erganzungen. Siddeutsch,1750. Konsole: Hohe 92 cm, Breite 34 cm,Tiefe 31 cm. Spiegel:Hohe 136cm,Breite 35cm.
+
+Abbildung Tafel 23.
+- 227 Kleines Tischchen.Auf vier geraden,gegen unten sich verjingenden,vierseitigen Fubchen die rechteckige Zarge. Schublade. Uberstehende,rechteckige Tischplatte mit Landschaftsbild und eingelegtem Wurfelmuster. Zarge und FuBe mit Spiralenwerk und hangendem Blattgewinde in ahnlichem Dekor. Poliert. Ende des 18.
+- Jahrhunderts. Hohe 80 cm, Breite 63 cm, Tiefe 47 cm.
+- Tisch. Gerade FuBleiste, gedrehte FuBe,mit wirfelformigem Aufsatz,rechteckige,gewolbte Zarge mit durchgehender Schublade.Uberstehende Tischplattemit eingelegtem Marmor. Hohe 75 cm,Breite 93 cm,Tiefe 80cm.
+- 228
+- Tisch. Auf vier schraggestellten vierkantigen, stark gewulsteten FuiBen ruhend, die durch umlaufendes FuBbrett verbunden.sind. Viereckige Tischplatte,ausziehbare Tischschublade. Deutsch.19. Jahrhundert.
+- 229 In gotisierendem Stil.Hohe 77 cm.Platte 72 x72 cm.
+- 230 Spieltischchen. Auf vier gedrehten, durch geschweifte FuBleiste verbundenen BalusterfiBchen die rechteckige, geschweifte Zarge. Tischplatte zweimal aufklappbar, leicht iberstehend. Reiche Holzintarsia, geometrische Ornamente und Rankenwerk. Einrichtung fir finf verschiedene Spiele. Arbeit des 19. Jahrhunderts, mit alten Teilen.Hohe 82 cm,Breite 94 cm, Tiefe 58 cm.
+- 231 Kastchen. Hochrechteckig,einturig; uiber der Tir halbkugelformige Ausbauchung. Auf dem Fuillungsfeld der Tir und der Ausbauchung Maskaron-,Frichtewerk-und Volutenornamentik in starker Reliefschnitzerei.
+- Stark beschadigt. Ende des 16. Jahrhunderts. Hohe 92 cm, Breite 40 cm, Tiefe 30 cm.
+- 232 Halbschrank. Im etwas iberstehenden Sockel zwei Schubladen. Unterbau zweitirig, auf der Mittelleiste und den beiden Ecken vollrunde,auf Konsolen ruhende Saulchen. Auf den Tiren vertieftes hochrechteckiges Feld, an dessen oberer Seite Maskaron in Architekturumrahmung. Der vom Unterbau durch ein Gesims getrennte Oberbau zweituirig mit Puttenkaryatiden, entsprechend der Saulenstellung des Unterbaus. Die Tiren des Oberbaus zeigen ahnliches Dekor wie die des Unterbaus. Leicht iberstehendes Kranzgesims. Ober- und Unterbau mit je zwei Traghenkeln. Altes Beschlagewerk mit getriebenem und graviertem Rankenwerk. Siiddeutsch.Um 1600. Hohe 167 cm,Breite 100 cm,Tiefe 48 cm.
+- Abbildung Tafel I7.
+- Abbildung Tafel I7.
+- 233 Kleines Kastchen. Rechteckige Grundform,zweitirig; auf der AuBenseite der Tiren in hochrechteckigen Feldern Bandornamente und Nelkenmuster in eingelegtem und gebranntem Holz. Auf der Innenseite in ahnlicher Ausfuihrung Architekturlandschaften. Auf den Seitenteilen und der Deckelplatte geometrische Intarsiaarbeit. Inneneinrichtung architektonischer Fassadenaufbau. Im Sockel breite Schublade dariber, zu seiten eines Mitteltirchens, je zwei von Saulen flankierte kleine Schubladen. Im Kranzgesims drei Schubladen, dariber wieder drei weitere. Das Mitteltirchen zeigt einen stehenden Krieger mit Trommel, die Stirnseiten der Schubladen teils landschaftliche Darstellungen in farbig getontem und gebranntem Holz, teils Architekturornamente in aufgelegter und geschnittener Holzarbeit. Zwei Traghenkel, altes Beschlagewerk, geschnitten und geblaut. Siddeutsch. Um 1600. Hohe 34 cm, Breite 44 cm, Tiefe 28 cm.
+- 234 chrankchenSockel mit niedriger,breiter Schublade,Kasten zweitirig mit vertieften Feldern,von Flamm leisten eingefaBt. Inneneinrichtung in der Mitte Tur,oben und unten je zwei, rechts und links je drei Schubladen. Flarnmleisteneinfassung. Uberstehendes Gesims, pultartiger Aufbau mit aufklappbarer Faltire. Altes
+- 235 Schrank. Doppeltuirig. Im hohen Sockel in zwei Reihen sechs Schubladen. Auf der Mittelleiste und zu seiten der Turen Halbsaulen; Tuiren mit hochrechteckiger Nischenarchitektur, die von Halbpfeilern flankiert und von reichen Volutengiebeln gekront wird. Stark ausladendes Kranzgesims,Akanthusaufsatz in durchbrochener Schnitzerei. Stirnseite und Seitenteile mit geometrischen Ornamenten in eingelegter Arbeit. Die Nischenarchitekturen und das Kranzgesims mit Volutenornamenten in reliefierter Schnitzerei. Altes Beschlagwerk. Siddeutsch. Erste Halfte des 17. Jahrhunderts. Hohe 240 cm, Breite 200 cm, Tiefe 71 cm.
+- Abbildung Tafel Ig.
+- 236 Schrank. Doppeltirig. Ausladender, profilierter Sockel mit zwei Schubladen. Auf der Mittelleiste und zu seiten der Tiren auf hohen, mit Maskarons geschmickten Konsolen Halbsaulen. Auf den Tiren je zwei von Halbsaulen flankierte Nischenarchitekturen mit reliefiertem Rankenwerk,Volutengiebeln,Puttenkopfen und Muschelwerk. Die Tiren sind von Flammleisten gefaBt. Stark ausladendes Kranzgesims mit Akanthusaufsatz mit durchbrochener Schnitzerei. Altes Beschlagewerk, graviert und geblaut. Siddeutsch. Um die Mitte des 17. Jahrhunderts. Hohe 260 cm,Breite 200 cm, Tiefe 70 cm.
+
+Abbildung Tafel 2I.
+
+- 237 Schrank. Eintirig. Auf vier ScheibenfiBen der leicht ausladende Sockel mit von Flammleisten gefaBter Schublade. Auf der Ture hochrechteckige Torbogenarchitektur; erhoht, von Flammleisten gefaBt und von reliefiertem Akanthuswerk in reichster Schnitzerei umrahmt. Die Tire flankieren zwei, auf Maskarons ruhende, gedrehte Saulen. Weit ausladendes Kranzgesims. Altes, graviertes und geblautes Beschlagewerk. Deutsch. Um die Mitte des 17. Jahrhunderts. Hohe 190 cm, Breite 106 cm, Tiefe 62 cm. Abbildung Tafel I8.
+- 238 Aufsatzschrank. Querrechteckige Grundform mit abgeschragten vorderen Ecken. Im leicht iberstehenden Sockel zwei Schubladen. Unterteil zweitirig mit stark betonter Mittelleiste. Auf den Turen hochrechteckige, werk. Oberbau weit zurickstehend,mit doppelter Mittelleiste. Turfelder entsprechend denen des Unterbaus. Aufsatz querrechteckig mit drei Schubladen. Dariber hochovaler, von Krone iberhohter Laubwerkkranz in Relief, den kraftig stilisierte Akanthusschnitzerei flankiert. Altes Beschlagewerk, getrieben und graviert. Deutsch. Zweite Halfte des 17. Jahrhunderts. Hohe 105 cm, Breite 125 cm, Tiefe 60 cm. Abbildung Tafel 20.
+- 239 Halbschrank. Auf finf ScheibenfiBen. Ausladendes Sockelgesims, zweitirig; iberstehendes Kranzgesims mit breiter Schublade. Auf der Mittelleiste und an den Seiten gedrehte Saulen. Auf den Tuiren Rundbogenarchitektur mit Frichtefestons. Bekront mit vollrundem Puttenkopf zwischen reliefiertem Akanthuswerk. Altes Beschlagewerk. Deutsch. Mitte des 17. Jahrhunderts. Hohe 126 cm,Breite 134 cm, Tiefe 60 cm. Abbildung Tafel 17.
+- 240 140 cm,Tiefe 55 cm.
+- Schrank. Auf finf gedrickten Kugelfiben Sockel mit abgeschragten Ecken, zwei Schubladen, Untergestell zweitirig, die Turen mit stark profilierten Feldern,vertieftes schmales Mittelfeld, desgleichen an den abge schragten Ecken. Der Oberbau zurickspringend,zweitirig,in gleicher Weise gegliedert. Als oberster Aufbau, Schlisselbleche und Schubladenknopfe. Siddeutsch. Anfang des 18. Jahrhunderts. Hohe 194 cm,Breite
+
+Abbildung Tafel 18.
+
+- 241 Aufsatzschrank. Auf vier gedrickten KugelfiBen ruhender Sockel, die Ecken abgeschragt, mit zwei Schubladen. MittelgeschoB zweituirig, mit stark hervortretender Mittelleiste und stark profilierter Felderfuillung. Oberer Teil zurickspringend, drei breitrechteckige Kasten nebeneinander. Geschweifte Bekronung. Mit alten Messingbeschlagen, TurschloB und Knopfen. Mitteldeutsch. Anfang des 18. Jahrhunderts. Hohe 154 cm, Breite 116 cm, Tiefe 50 cm.
+- 242 Schreibsekretar. Untergestell Kommode mit stark geschweifter Vorderwand. Drei Schubfacher. Darauf Schreibpultkasten. Auf dem Pultkasten Aufsatz mit breiter, stark gewolbter Mitteltir, in der Mitte zwei Facher,an den Seiten je vier stark gewolbte Schubladen. Uber der Mitteltir im obersten Aufbau breite Schublade. Auf vier FuBen ruhend. Kleine Beschadigungen. Deutsch. Anfang des 18. Jahrhunderts. 196 cm,Hohe Breite 111 cm, Tiefe 78cm.
+
+Abbildung Tafel 19.
+
+- 243 Orgel. Hochrechteckiger Kasten. Im Unterbau zwei Fassadenschubladen. Oberbau zweitirig, im Innern Klaviatur und Pfeifenwerk, mit reicher Akanthuswerkschnitzerei in drei Feldern. Stark ausladendes Kranzgesims mit kraftig geschnitztem Voluten- und Blattwerkaufsatz. AuBenseiten der Turen mit hochrechteckigen, stark profilierten Feldern, Innenseite mit eingelegter Bandornamentik. Bronzebeschlage im Geschmacke des 18. Jahrhunderts. Hildesheim 1651,von Meister J. Reinike, August Angst und Ernst Madder. Renoviert 1751 zu Frankfurt. Auf modernem Stufensockel. Hohe 285 cm,Breite 122 cm, Tiefe 80 cm. Abbildung Tafel 20.
+- 244 Himmelbettstatt. Leicht geschweifte Seitenteile,Kopfteil mit wimpergartigem,von einem Kreuz bekronten Aufsatz. Gerader FuBteil; die Eckpfosten gehen in tauwerkartig gedrehte Saulen iber. Auf diesen ruht der Deckenrahmen. Mabwerk, Schnitzerei und Blattornamentik.Im Geschmack des 15. Jahrhunderts. Hohe 205 cm,Breite 105 cm, Tiefe 195 cm.
+
+## Einrichtungsgegenstande
+
+## Spiegel, Rahmen, Geweihe, Uhren
+
+- 245 Gueridon.Drei VolutenfiBe, Schaft stark gedreht,um einen Stab gewunden. Tellerplatte. Deutsch. 17. Jahrhundert.Hohe 80cm.
+- 246 Gueridon. Tellerplatte, stark profiliert, auf drei gedrehten Kugeln ruhend. Unterteil Baluster. Darauf ge drehte Kugel, aus der sich der gewundene Schaft erhebt. Tellerformige Platte. Deutsch. 17. Jahrhundert. Hohe 111 cm.
+- 247 Gueridon. Tellerformige, mehrfach abgesetzte Platte auf drei KugelfuiBen ruhend, hoher mehrfach abgesetzter und gedrehter Schaft. Tellerplatte. Deutsch. 17. bis 18. Jahrhundert. Hohe 92 cm.
+- kugel, runde Deckplatte. Poliert. Hohe 114 cm, Durchm.32 cm.
+- 248 Gueridon. Auf drei KugelfiBen die runde FuBscheibe. Gedrehter, gewundener Saulenschaft mit starker Mittel
+- 249 Gueridon. Ahnlich dem vorhergehenden. Hohe 100 cim, Durchm. 40 cm.
+- Kassette. Rechteckiger Holzkasten mit Gobelinstoff, Blumenmuster, antike Szene. Mit aufklappbarem Deckel.
+- 250 17. Jahrhundert. Hohe 26 cm,Breite 42 cm, Tiefe 34 cm.
+- 251 Holzkastchen. Auf vier Elfenbeinfiben (zwei fehlen), lange schmale Form, mit stark abgeschragten Ecken.
+- Schiebdeckel mit Elfenbeineinlage (Sterne). Deutsch. 17. Jahrhundert. 23 x7cm.
+- 252
+- Wandkastchen.Hochrechteckig,eintirig. Turfillung, Seitenteile und Giebelaufsatz mit Akanthuswerk in vollrunder, durchbrochener Schnitzerei. Mit alten Teilen. 17. Jahrh. Hohe 112 cm, Breite 58 cm,Tiefe 17 cm.
+- 253 Schmuckkastchen. Hoher, ausgeschnittener Sockel,unterer Teil breitrechteckig mit groBer zweifeldriger Schublade,oberer Teil hohes Kastchen; auf der Vorderseite und den Seiten zurickspringend. Zweitirig, mit geflammter Mittelleiste und zwei vertieften Feldern von Flammleisten eingefaBt. (Die Turen neu.) Im Innern 10 Schubladen; die Schubladenknopfe Metall: Lowenmaskerons mit Ringen. Die Felder von Flammleisten eingefaBt. Geradliniger oberer AbschluB. Italien. 17. Jahrhundert. Hohe 34 cm, Breite 37 cm, Tiefe 20 cm.
+- Etagere. Auf sechs KugelfiBen zwei dinne Bretter. Breitrechteck, durch sechs gedrehte Saulen verbunden.
+- 254 Holz.Deutsch.17.bis 18. Jahrhundert. Hohe 40 cm, Breite 49 cm,Tiefe 20,5 cm.
+- Etagere. Querrechteckige Grundform, offenes Fach, auf vier schlangenformig gewundenen Saulen. Mit Er-
+- 255 ganzungen. 17. Jahrhundert. Hohe 35 cm, Breite 48 cm, Tiefe 21 cm.
+- 256
+- Konsole. Muschel, die die finfkantige Deckplatte (neu) tragt. Deutsch. 17. Jahrhundert. Hohe 23 cm, Tiefe 25 cm.
+- 257 Steintruhe. Breitrechteckiger Korper, an den Ecken abgeschragt, platter Deckel, am Rand fassoniert. Im Innern zwei Rundbehalter. Schwarzer Marmor, die Leibung mit Goldkante. Italien. 17. bis 18. Jahrhundert. Hohe 14 cm,Breite 26 cm, Tiefe 14 cm.
+- 258 Vier Wandleuchter. Rokaillenwerk und Rosengewinde in kraftiger Schnitzerei. Auf zwei gewundenen Volutenarmen knospenformige Tillen mit Kerzentellern in Glas. Holz, vergoldet. Alte Fassung. 18. Jahrhundert.
+- Hohe 93 cm,Breite 38 cm.
+- 259 Vier Lambrequinstangen. Auf gerader,in der Mitte leicht ausgebauchter Basisstange laufendes Rokaillenund Volutenwerk mit erhohtem Mittelstick. Dieses mit Muschelornament iber durchbrochenem Gitterwerk. Golddekor mit WeiB. Deutsch.18. Jahrhundert.Lange 142cm bzw. 230 cm.
+- 260 Kaminschirm. Auf vier kraftigen VolutenfiBen der in der Grundform quadratische, geschweifte Rahmen. Akanthuswerk, Voluten und Muschelornamente,vollrund und reliefiert,Gitterwerk und Maander. Dekor: WeiB und Gold. Ende des 18. Jahrhunderts. Hohe 134 cm, Breite 94 cm.
+- Abbildung Tafel 23.
+- 261 Holzsockel. Auf vier gedrickten KugelfuiBen, mehrfach abgesetzt, quadratisch. Hohe 15 cm, Breite 23 cm, Tiefe 23cm.
+- Konsole. Muschelornament in kraftiger Schnitzerei,von Knorpelwerk gefaBt. Weit iberstehende Deckplatte
+- 262 mit neuen Teilen. Hohe 21 cm, Breite 30 cm, Tiefe 26 cm.
+- 263 GroBer Spiegel. Fast gleichseitig, geflammte Holzleisten, schwarz und gold,nach der Mitte zu stark hervortretend. Auf der Rickseite stark abgehobelt. Italien.17. Jahrhundert. Hohe 95 cm, Breite 87 cm.
+- 264 Spiegel. Querrechteckig. Rahmen mit Roll- und Kartuschenwerk, vollrunden Frichtefestons und Akanthus. Zum Teil mit neuer Fassung. Italienisch. Anfang des 17. Jahrhunderts. Hohe 60 cm, Breite 63 cm.
+- 265
+- Spiegel. Der hochrechteckige Spiegel mit reich bewegtem, durchbrochenem, frei geschnitztem Akanthuswerk. Alte Vergoldung. Italien. 17. Jahrhundert. Hohe 150 cm,Breite 92 cm. Abbildung Tafel 22.
+- 266
+- Fillung. Flache, hochrechteckige Nische, oben durch eine Muschel abgeschlossen. Holz. 17. Jahrhundert. Hohe 56 cm,Breite 22 cm.
+- 267 Umrahmung. a) Halbbogen,in den Zwickeln in Flachschnitzerei Rankenwerk.b) Zwei schmale, lange Seitenteile mit gleichem Dekor. Holz. Deutsch. 17. Jahrhundert. MaBe a): Hohe 32 cm, Breite 79 cm. MaBe b): Lange 72 cm, Breite 10 und 11,5 cm.
+- hohte Kartusche, Akanthuswerk und Ranken in kraftiger Schnitzerei. Ende des 17. Jahrhunderts. Hohe ca.110 cm,Breite 178 cm.
+- 269 Spiegel. Hochrechteckig,mit Giebelaufsatz. Gitterwerk,Voluten und Blumen in Reliefschnitzerei. Mit Spuren
+- alter Bemalung. Erste Halfte des 18. Jahrhunderts. Hohe 44 cm, Breite 26 cm.
+- 270 Zwei Spiegel. Hochrechteckige Grundform, Rahmen vergoldet, mit Rokaillen-und Muschelwerk in symmetrischer Anordnung, durchbrochen und kraftig geschnitzt. Mit geschliffenem Spiegeleinsatz. Italien. Erste Halfte des 18. Jahrhunderts.92 x 50 cm.
+- 271 GroBer Kaminspiegel. Hochrechteckige Form; an den unteren Ecken kraftige Voluten mit vollrundem Blattwerk. Die obere Seite ist geschweift mit reliefierten Rokaillen,vollrunden Voluten und Gitterwerk. Dekor:
+- WeiBgold. Um die Mitte des 18. Jahrhunderts. Hohe 252 cm, Breite 120 cm. Abbildung Tafel 23.
+- 272 Spiegel. Hochrechteck. Obere Bekronung durchbrochene Rokaillen mit Blumenkorb und Blumen. Unterer AbschluB Rokaillen mit Blumen. Fassung in WeiB, Rot und Grin. Siddeu tsch. Zweite Halfte des 18. Jahrhunderts. Mit kleinen Beschadigungen. 57 X25 cm.
+- 273 Hirschkopf. Hochovale Kartusche mit Trauben, Weinlaub und Frichten in reliefierter Arbeit. Vollrunder Kopf, Sechsender. Alte Fassung. 17. Jahrhundert. Spannweite 35 cm.
+- 274 hundert. Spannweite 60 cm.
+- Dammhirschkopf. Auf Rollwerkkartusche der vollrunde Hirschkopf. Achtendergeweih, alte Fassung. 17. Jahr-
+- 275 Hirschkopf. Auf Kartusche mit reliefiertem Maskaron- und Volutenwerk vollrunder Hirschkopf — unregelmaBiger Zwolfender. Am Hals kleiner Blechwappenschild schreitender Lowe auf blauem Grund. Alte, zum Teil erganzte Fassung. Um 1700. Seitenteile der Kartusche erganzt. Spannweite 80 cm. Abbildung Tafel 1o.
+- 276 Alte Fassung,
+- Zwei Hirschgeweihe. Kartusche mit vollrundem,gefligeltem Putto und stark reliefiertem Akanthuswerk. Vierzehn- und Achtzehnender auf Stirnschale. 17. bis 18. Jahrhundert. Spannweite 108 cm bzw.102cm.
+- 277 Rehkopf. Kartusche mit durchbrochenem, stark reliefiertem Rokaillen- und Blumenwerk. Vollrunder Kopf,
+- Finfender, alte Fassung. 18. Jahrhundert. Hohe 55 cm,Breite 24 cm.
+- 278 Zwei Rehkopfe. a) Rokaillenkartusche in asymmetrischer Anordnung, vollrunder Kopf. Alte Fassung. 18. JahrMaul eine Eichel. Um 1800. Breite 19 cm.
+- 279 Hirschgeweih. Holzkartusche, Zwolfender mit Stirnschale.
+- 280
+- 281 Gemskrickeln. Auf runder Scheibe. Durchm. 1l cm.
+- Hirschgeweih. Runde Holzscheibe. Sechsender mit Stirnschale. Spannweite 8O cm.
+- 282
+- Drei Rehgeweihe. Stirnschale mit Sechsender, auf runder Scheibe. Durchm. ll cm.
+- 283 Kaminuhr. Auf vier flachgedrickten ScheibenfiBchen der hochrechteckige, an den vorderen Ecken abgeschragte Kasten. Sockel und Gesims weit ausladend, Pultdach. Vor den abgeschragten Ecken flankierende, gewundene Saulchen. Zifferblatt Maskarons und Akanthuswerk in reicher Gravierung. Inschrift: Scherer, Lauingen. Auf den Seitenteilen und der Stirnseite Bandornamente in eingelegter Arbeit. Zweite Halfte des
+- 17.Jahrhunderts. Hohe 32 cm, Breite 26 cm, Tiefe 16 cm.
+- 284 Standuhr. Wuirfelformiger, gewellter Sockel. Hochrechteckiger, an den Seitenteilen der Mitte gewellter Uhrkasten. Gehause an den Seiten gewellt, mit stark ausladendem Rundbogengiebel. Uhrkasten und Uhrgehause mit Bandornamenten und Tulpenmuster in eingelegter Arbeit, Zifferblatt mit Rokaillenwerk, teils graviert, teils reliefiert. Inschrift: Martin Pfaffenzeller fecit in Erbach. Poliert. Mitte des 18. Jahrhunderts.
+- 285
+- Hohe 235 cm, Breite 48 cm,Tiefe 28 cm.
+- Kaminuhr. Auf vier Volutenfibchen mit aufgereihtem,reliefiertem Scheibenornament, das hochrechteckige, auf vier Seiten verglaste Uhrgehause. Pultdach mit Traghenkel. Zifferblatt Bronze,vergoldet;mit Lorbeergewinden und Blumenzweigen in durchbrochener, reliefierter Arbeit. Mit Stunden, Minuten-und Monatszeiger. Inschrift: Ign. Fliry, Landsberg. In Bronze montiert. Siddeutsch. Spates 18. Jahrhundert. Hohe 57 cm, Breite 33 cm, Tiefe 19 cm.
+- 286 Kastenstanduhr. Auf vier MessingfiBen schwarzes Holzgehause, auf allen Seiten durchbrochen. Auf der oberen Deckplatte an den vier Ecken Messingzierrate, Pultdach mit Messinghandhabe. Silberzifferblatt auf reich gravierter Messingunterlage. Uber dem Zifferblatt Scheibe mit dem Monogramm A.T.W. Uhrwerk
+- erhalten. Deutsch. Ende des 18. Jahrhunderts. Hohe 33 cm, Breite 19 cm, Tiefe 12,5 cm.
+- 287 Standuhr. Auf rechteckigem,einmal abgesetztem Sockel, der auf vier kleinen Kugelfibchen ruht,erheben sich vier Saulen, die das einfache Gebalk tragen. Zwischen den Saulen die runde Metalluhr. Werk erhalten. Dekor des Sockels und des Gebalkes eingelegte Ranken und Groteskenwerk. Saulen vergoldete Metallappliquen. Fournier stellenweise aufgestanden.Deutsch. 18. bis 19. Jahrhundert.Hohe 53 cm, Breite 29 cm,Tiefe 5cm.
+- 288 Kaminuhr. Rechteckiger Sockel, an den Seitenteilen leicht eingezogen. Auf zwei vollrunden und zwei, eine Halbnische flankierenden Halbsaulchen das an den Seitenteilen stark gewellte und eingezogene Uhrgehause.
+- Dieses wird von einem vollrunden Adler gekront. Sockel und Gehause mit Tuchgehangen und Blattornamentik,
+- Ruicknische mit sitzendem Putto. In getriebener Arbeit. Rundes Zifferblatt. Erstes Viertel des 19. Jahrhunderts. Hohe 58 cm, Breite 34 cm,Tiefe 16 cm.
+- 289 Kaminuhr. Auf vier flachgedrickten KugelfiBchen hochrechteckiger Kasten. Unterbau iberstehend, Mittelstick an der Vorderseite von Hermenpilastern flankiert. Stark profiliertes Gesims mit Kuppelaufbau. In diesem Schlagwerk. Dekor:In Hoch- und Querrechtecken reliefiertes Blumen- und Blattwerk, figurlicher Schmuck und Fillhorner in Bronze. Rundes Zifferblatt. Auf der Kuppel Inschrift: Emil Kober in Dresden. Ebenholz. Erste Halfte des 19. Jahrhunderts. Hohe 50 cm, Breite 25 cm, Tiefe 17 cm.
+- 290 Kaminuhr. Hochrechteckiger Kasten mit leicht ausladendem Gesims. Eintirig, auf der Vorderseite verglast. Zifferblatt mit Inschrift: Johann Martin, Arzt in Minchen. 19. Jahrhundert. Hohe 43 cm, Breite 29 cm, Tiefe 17 cm.
+- Wanduhr. Hochrechteckig. Auf der Vorderseite Putten und Ranken, graviert; auf den Seiten in Olmalerei segnender Christus mit Madonna. Durchbrochener Volutengiebel. Mit Schlagwerk, Gewichten und Perpendikel.
+- 291 Messing.Deutsch. 17. Jahrhundert. Hohe 22 cm, Breite 9 cm.
+
+## Waffen
+
+## Schutzwaffen
+
+- Kugelformig. Gewellter Rand mit Nietlochern ftir das Kettengehange.
+- 292 Beckenhaube mit Kettengehange. Italienisch. 14. Jahrhundert.
+- 293
+- Beckenhaube mit Kettengehange. Halbkugelformig. Deutsch. 14. Jahrhundert.
+- 294 Stick einer Beintasche. Am unteren Rande mit aufgelegter Mabwerkornamentik, Zackenornament in ge-
+- triebener Arbeit. Deutsch.15. Jahrhundert.
+- Sturmhaube. Flachgedrickte Kugelform,breite Augenkrempe, zurickklappbare Wangenteile, dreimal ge-
+- 295 schobener Nackenschutz. WeiBe Stoffitterung. Deutsch. Ende des 15. Jahrhunderts.
+- 296 Kugelbrust mit Beintaschen. An der rechten Seite Haken fir Turnierstange. Beintaschen achtmal geschoben. Geschwarzt. Mit schwacher Linienornamentik in Rot und WeiB. Deutsch. Anfang des 16. Jahrhundarts.
+- 297 Visierhelm. Mit hohem Tauwerkwulst. Dreimal geschobener Nackenschutz, geschlossene Kinnreffe mit Kragen. Aufschlachtiges Pfeifenvisier mit zwei Augenschlitzen und zwolf kleineren Horizontalschlitzen. Auf dem Kamm gravierte Rankenwerkornamentik. Eingraviert:G. P. Deutsch. Um 1560.
+- Abbildung Tafel 28.
+- Blechschurz. Zwolfmal geschoben, der obere Rand der einzelnen Teile gewellt und profiliert. Deu tsch. 16. Jahrhundert.
+- 298
+- 299
+- Achselflugel. Rand und Mittelstreifen mit Ranken- und Pinienornament in reicher Atzung. Italienisch. 16.Jahrhundert.
+- Oberarmstick. Funfmal geschoben, groBstilisiertes Blumenornament in getriebener Arbeit. Um den Rand Ranken- und Blattbordire in reicher Atzung. Vermutlich aus der Werkstatt des Ulrich Holzmann. Mitte
+- 300 des 16. Jahrhunderts.
+- 301
+- Stick eines Helmkragens. Ring- und Scheibenornament, figuirlicher Schmuck, getrieben und geatzt. Angeblich Arbeit des Konrad Lochner. Mitte des 16. Jahrhunderts.
+- 302 Schulterstick. Mit Laub- und Bandwerkbordiren in getriebener und geatzter Arbeit. Wohl Arbeit des Konrad
+- Lochner. Mitte des 16. Jahrhunderts.
+- Morion. Hoher Kamm,breite Krempe. Geharnischter Reiter, Trommler, Fahnenschwinger, Doppeladler und Isaaks Opferung zwischen Band-, Blatt- und Rankenornamenten in reichster Atzung. Marken. Aus dem Be-
+
+Abbildung Tafel 28.
+
+- 303 sitze des Mart. Rothschild. Schweiz.1580.
+- 304 Brust- und Ruckenharnisch (sog. Gansbauch）. Auf der Vorderseite in gravierter Arbeit Akanthuswerk,Kriegstrophaen und Wappen des Wiener Stadthauptmanns Fernberger. Wappenkartusche (Medici?): Auf punk-
+- Felde. Marke: P.Italien. Zweite Halfte des 16. Jahrhunderts.
+
+Abbildung Tafel 28.
+- 305 Zwei Kniesticke. Viermal geschoben. Deutsch. Spates 16. Jahrhundert.
+- 306 Messingnieten. Deutsch. Spates 16. Jahrhundert.
+- 307
+- Rechter Fingerhandschuh. Handstick finfmal geschoben, Finger vier- bzw. fuinfmal geschoben. Auf Leder.
+- Stick eines Helmkragens. Einmal geschoben, am Rand mit geatzter Ranken-und Groteskenbordire. Deu tsch.
+- Ende des 16. Jahrhunderts.
+- Schitzenhaube — Birnhelm. Hoher Kopf mit starkem Kamm, schmale Krempe, Nieten blumenformig in Messing. Federhuilse. Streifenornament von figirlicher und vegetabiler Ornamentik gefuilt. Reiche Atzung.
+
+Abbildung Tafel 28.
+
+- 308 Italienisch. Erste Halfte des 17. Jahrhunderts.
+- 309 Armschutz. Aus dem Zahn eines Elefanten geschnitten mit Linienornamentik. Wohl orientalisch. Lange
+
+## Angriffswaffen
+
+## a) Stof- und Hiebwaffen
+
+- 310 Beil. Spitz zulaufende Hacke. Stark beschadigt. Fund bei einer Ausgrabung. Lange 24 cm.
+- 311S
+- 312
+- Schlachtbeil. Hohe Schneide, hammerformiger Ansatz, langer Holzschaft. Aus dem Rathause zu Schwabach. Mit Marke. Zweite Halfte des 15. Jahrhunderts.Lange 150 cm.
+- Streitbeil. Kleine Form,mit durchbrochenem Ornament und Hammereinsatz. Holzschaft. Marke. Wien. Mitte des 16. Jahrhunderts.Lange 84 cm.
+- 313 SpieBsense. Schmale Sense; runder,neuer Schaft. Deutsch. 18. Jahrhundert. Lange 240 cm.
+- 314 Kriegsflegel. Mit Eisenkette, daran birnenformiges Gewicht. 18. Jahrhundert. Lange des Stockes 105 cm,
+- Lange der Kette 40 cm.
+- 315 HackenspieB. EisenspieB mit (neuer) Rundstange. 18. Jahrhundert. Lange 33 cm.
+- 316S Schwert.Flache Klinge mit kraftiger Mittelrippe,lange,in Kugeln endigende Parierstange. Gehilze mit eder bezogen, apfelformiger Knauf. Lederscheide. Deutsch. Ende des 15. Jahrhunderts. Lange 100 cm.
+- Kurzes Schwert - Sattelschwert. Breite, flache Klinge mit kurzer Blutrinne. Doppelte Parierstange, drahtumflochtenes Gehilze, birnenformiger Knauf. Klinge mit Marken. Lederscheide. Deutsch. Um 1550. Lange
+- 317 82cm.
+- 318 Dolchmesser. Spitz zulaufende Klinge mit starker Mittelrippe und zwei Blutrinnen. Gegen unten abgebogene Parierstange mit Parierring. Kugelformiger Knauf, Parierzeug, Knauf und Griff mit zartem Spiralen- und Rankenwerk in reicher Goldtauschierung. Lederscheide. Vermutlich Arbeit des Desiderius Kolimann, ahnliche Sticke, fir Karl V. gefertigt,in den Musen zu Madrid und Berlin. Aus der Sammlung Wilhelmy. Um 1550.Lange 48 cm.
+- 319 Sponton. Langer,vierseitiger SpieB,nasenformig gekrimmte Hacke mit stilisierten Tierkopfen in durchbrochener Arbeit. Achtseitige Zwinge. Rankenwerk in Goldtauschierung. Holzschaft erganzt. Deutsch. Ende des 16. Jahrhunderts. Lange 230 cm.
+- 320
+
+Abbildung Tafel 29.
+
+- Kleiner Dolch. Dreiseitige Klinge, kurze Parierstange mit geriefelten Kugelenden, balusterformiger Griff. Lederscheide. Eisenstahi. Italienisch.Ende des 16. Jahrhunderts.Lange 28 cm.
+- 321 Kurzer Degen. Schmale Klinge mit vertiefter Mittelrinne. Lange, an den Enden sich verdickende Parierstange. Parierkorb. Grif fehlt. Kugelformiger Knauf. Ende des 16. Jahrhunderts. Lange 46 cm.
+- 322 StoBdegen.Flache Klinge,birnenformiger Knauf,lange,an den Enden sich verdickende Parierstange,Parier korb. Stark beschadigt. Mit Marke. Ende des 16. Jahrhunderts. Lange 88 cm.
+- 323 Schwert. Lange Klinge mit kurzer Blutrinne Horizontale Parierstange, an den Enden mit Kugelknopfen. Stechkorb, Parierbigel, kugelformiger Knauf, vertikal gerilltes,mit Draht umflochtenes Gehilze. Parierzeug und Knauf mit leicht reliefiertem, silbertauschiertem Blumenwerk. Aus firstbischofl. Wirzburgischem
+
+Abbildung Tafel 29.
+
+- Besitz. Ende des 16.Jahrhunderts.120 cm.
+- 324
+- Stechlanze. Kurze,lanzettformige Spitze, Holzschaft mit walzenformigem SchluBstick und quirlformig um den Schaft stehenden, gewelten Parierleisten. Mit Spuren alter Bemalung. Angeblich Nirnberg. Fruhes 17. Jahrhundert. Lange 280.cm.
+- 18cm.
+- Kurzes Schwert. Spitz zulaufende, breite Klinge. Doppelte Blutrinne. Elfenbeingriff. Lederscheide mit
+- 325 Tragriemen. Griff gesprungen. Deutsch. 17. Jahrhundert. Lange 48 cm.
+- 326
+- Langer SpieB (erganzt）. Holzschaft, Spitze blattformig mit kraftiger Mittelrippe. 17.Jahrh. Lange 285 cm.
+- Dolchmesser. Lange spitze Klinge, Holzgriff, zum Teil mit Messingdraht umwickelt. Mit Messingzwinge.
+- 327 Italienisch.17. Jahrhundert.Lange 35 cm.
+- 328 StoBdegen. Klinge mit geatztem Blatt- und Figurenwerk,Parierscheibe mit reliefiertem Blattornament, hunderts.Lange 1i0 cm.
+- 329 Osterreichischer Kavalleriesabel. Gerade,breite Klinge mit Doppeladler und Krone in gravierter Arbeit. Namensinschrift: Fischer. Stichplatte und Parierbigel in Eisen, Holzgriff in Leder gefaBt, Scheide Eisen. Um 1800. Lange 105 cm.
+- 330 Galadegen eines Munchener Gemeindebevollmachtigten. Knauf, Griff und Parierbigel aus Stahl, Stichplatte mit dem Minchener Stadtwappen. Klinge leicht geatzt. Die weiBlederne Scheide mit Mundblech und Stiefel.1864.Lange 93 cm.
+- 331
+- Firstlich Wallersteinscher Galadegen. Klinge zur Halfte blau angelaufen, mit Goldornamenten und Namenszug L mit Krone. Parierstange, Stichplatte, Parierkorb und Knauf in Goldbronze, auf der Stichplatte das firstlich Wallersteinsche Wappen. Auf dem Holzgriff Monogramm:T. W. (Theodor Wallerstein). Knauf in Form eines Hundskopfes. Lederscheide mit Mundblech und Stiefel. Aus dem Besitze eines firstlich Wallersteinschen Patrimonialrichters.Lange 92 cm.
+- 332
+- Kosakenlanze. Vierseitige Spitze, Holzschaft mit Riemenwerk. KosakenspieB. Lange 280 cm.
+- 333
+- 334
+- SauspieB. Blattformige Spitze mit Mittelrippe. Knebel fehlt. Holzschaft Naturholz. Stark beschadigt. 15. bis 16. Jahrhundert. Lange 162 cm.
+- Sauschwert. Gerade, lange,am oberen Ende sich blattformig erweiternde Klinge mit Knebeln. Parierstange mit Stichkorb und Buigel. Lederbezogener Holzgriff. Kugelformiger Eisenknauf. Mit Marke. Frihes 16. Jahr-
+- 335 hundert. Lange 132 cm.
+- 336
+- 337
+- BarenspieB. SpieB mit starker Mittelrippe, mit Nieten am Schaft befestigt. Dieser Naturholz mit Riemenwerk.16. Jahrhundert. Lange 212 cm.
+- Saufeder. Breite,blattformige Spitze mit starker Mittelrippe. Beschadigt. Schaft fehlt. Aus dem Funde einer Ausgrabung. Frihes 17. Jahrhundert. Lange 38 cm.
+- Jagdschwert. Klinge mit Rankenwerk und figirlichem Schmuck in gravierter Arbeit. Inschrift: Mit Gott fang all Ding an, anno 1667 und Monogramm S.H. Herzformige Parierscheibe. Kugelknauf. Gehilze mit Leder-
+- Hirschfanger. Klinge auf der Breitseite mit Sage, Hirschhorngriff, Bigel, Parierstange und muschelformige Stichplatte. Zum Teil mit graviertem Rankenwerk. Deutsch. 17.Jahrhundert. Lange 79 cm.
+- 338 bezug. Lange 100 cm.
+- 339
+- SauspieB. SpieB lanzetteformig mit starker Mittelrippe, Holzknebel gedreht, Schaft mit Leder umwickelt.
+- 340 Monogramm:H.W.K.in Kerbschnitt.17. Jahrhundert.Lange 208 cm.
+- 341 Hirschfanger. Breite Klinge zwischen Rankenwerk. Portratmedaillons und Inschriften. Jahrzahl 1646. Hirschbeingriff. Parier- und Korbstange. Deutsch. Mitte des 17. Jahrhunderts. Lange 87 cm.
+- 342
+- Jagdschwert mit Scheide. Klinge mit Blutrinne, Rankenwerk in schwacher Atzung. Stichplatte mit reliefiertem Blattornament, Parierkorb. Holzgehilze. Kugelknauf. Holzscheide mit Lederbezug. Ende des 17. Jahrhunderts.Lange 98 cm.
+- 343 Hirschfanger mit Besteck. Flache, breite Klinge mit Blutrinne. Jagdszene in geatzter Arbeit. Hirschhorngriff. Parierstange und Korbstange mit flau reliefiertem bzw. geatztem Blumenwerk.-Besteck zweiteilig. Holzgriff mit Silberbeschlagen.Jahrzahl 1795. Holzscheide mit Lederbezug.-Beschlagewerk mit reliefiertem und tremoliertem Rankenwerk. Ende des 17. Jahrhunderts. Lange 87 cm.
+
+## b) SchuBwaffen
+
+- 344 Armbrust. Saule mit Beinintarsia in reichster Ausfuihrung: Blumenranken, Spiralenwerk und Bandornamente. Breiter Stahlbogen mit rotem Quastenwerk. Einfache Sehne. Jahrzahi 1593. Nirn berg. Lange 62 cm.
+
+Abbildung Tafel 29.
+
+- 345 Pistole-Faustrohr.Achtseitiger,am oberen Ende runder Lauf,Feuersteinschlob. Lauf, SchloB und Beschlagewerk mit Band- und Rankenornamentik in reichster Atzarbeit. Holzteile mit Beinintarsia: Blumen und Blattornamente, figurliche Darstellungen. Auf dem Kugelknauf Portrat mit Beischrift Otho. Um 1550. Neuburg a.D.Lange 52cm.
+- und Visier in Bronze mit leicht reliefiertem Rankenwerk. Stahibogen, doppelte Sehne. Italienisch. Ende des 16. Jahrhunderts.Lange 100 cm.
+- Abbildung Tafel 29.
+- 347 Pistole-Faustrohr mit AnhangschlieBer. Achtseitiger,in der oberen Halfte runder Lauf, FeuersteinschloB. Zum Teil mit durchbrochenen Ornamenten. Holzteile mit Beinintarsia: Spiralen-und Laubornamente, Mashunderts.Lange 54 cm.
+- 348 RadschloBbichse. FeuersteinschloB. Runder, am unteren Ende achtseitiger Lauf, Schaft und Kolben mit Beinintarsia:Kartuschenwerk,Ranken- und Blattornamente. Frihes 17. Jahrhundert. Lange 92 cm.
+- Blumen, Delphin und Muscheln. Monogramm: J. G. Bogen in Stahl, Abzugvorrichtung und Visier. Fruhes 17.Jahrhundert. Lange 72 cm.
+- 349 Armbrust. Am oberen Ende der Saule vollrunder Lowe. Kolben mit Elfenbeineinlagen: Akanthuswerk und
+- 350 Kurzes Gewehr. FeuersteinschloB. Runder, am oberen Ende achtseitiger Lauf. Kolben und Schaft mit Beineinlagen:Frichtewerk, phantastische Fischgestalten. SchloB mit graviertem Rankenwerk. Mit Marken.
+- 351
+17. Jahrhundert. Lange 76 cm.
+- Pistole. FeuersteinschloB, sechsseitiger Lauf, SchloB- und Holzteile stark beschadigt,mit Marke. 17. Jahrhundert. Lange 57 cm.
+- 352 Pistole. Im unteren Teil des Laufes achtseitig, im oberen rund. Holzschaft, mit reliefiertem Volutenwerk und aufgelegten Messingbeschlagen. 18. Jahrhundert. Lange 32 cm.
+- 353 Pistole. Im unteren Teil achtseitiger,im oberen Teil runder Lauf. Schaft mit reliefiertem Rokaillenwerk, mit
+- 354
+- Messingbeschlagen. 18. Jahrhundert. Lange 36 cm.
+- 355 Jagdgewehr. Achtseitiger Lauf, Kolben mit reliefiertem Schuppen- und Zackenmuster sowie Hirsch in Land-
+- Pistole. Runder Doppellauf, Schaft mit Messingbeschlagen. 18. Jahrhundert. Lange 27 cm.
+- schaft. Beschlagewerk: Rokaillen in geschnittenem Messing. 18. Jahrhundert. Lange 118 cm.
+- 107cm.
+- 356 Gewehr. Lauf achtseitig,ZindnadelschloB, Holzteile mit reliefiertem Netzornament. 19. Jahrhundert. Lange
+- 357 Gewehr. Achtseitiger Lauf,ZundnadelschloB,Holzteile mit reliefiertem Netzornament, SchloB mit graviertem Rankenwerk.19. Jahrhundert. Lange 93 cm.
+- 358 Zimmerstutzen. Achtseitiger Lauf mit leicht reliefiertem Blumenwerk. Kolben mit Ranken in Relief. Die in die Holzteile eingelegten Metallplatten mit geatztem Rankenwerk. 19. Jahrhundert. Lange 102 cm.
+- 359 Gewehr. Achtseitiger Lauf, Schaft und Kolben mit graviertem und reliefiertem Rokaillenwerk. Lange 110 cm.
+
+## c) Verschiedenes
+
+- 360 Armbrustwinde. Eisen. Hebel mit Holzgriff. Meistermarke. Jahreszahl 1558. Lange 38 cm.
+- 362 Pulverhorn. Gedrickte Kugelform, nach der durchlochten Mitte eingezogen. Bein- und Metallintarsia: Konzentrische Kreise, gefilt von buntfarbigen, eingelegten Beinringchen und Scheibchen. Holzhals mit SchnappfederverschluB.Italienisch. Um 1600. Durchm. 8,5 cm.
+- 361 Waffenhaken. Auf der Feder rosettenforimiges Ornament. Schmiedeeisen. 16.Jahrhundert. Hohe 8,5 cm.
+- 363 Kandare. Mit aufgerolltem Rankenornament und durchbrochenem Herzmuster. Schmiedeeisen. 16. Jahrhundert.
+- 364 Finf verschiedene Sporen. Messing und Eisen,zum Teil mit Riemenwerk, teilweise stark beschadigt.16.bis
+- 365
+- 17.Jahrhundert.
+- PulvermaB. Eisen. Achtseitig. Griff mit reliefiertem und graviertem Rankenwerk. Frihes 17. Jahrhundert. Lange 15cm.
+- 366 Presentuar mit Jagdbesteck. Flache, breite, am Ende abgerundete Klinge mit Blutrinne. Hirschhorngriff. Zwinge mit geatztem Rankenwerk in Form eines stilisierten Tierkopfes. Jagdbesteck vierteilig, Horn- bzw. Holzgriff,zum Teil mit aufgelegten Messingornamenten. Scheide:Hoiz mit gepreBtem Lederbezug. Beschlage45 cm, Lange der Scheide 30 cm.
+- 367 Jagdhorn. Zwischen reliefiertem Rankenwerk mit Jagdszenen, groteskem Figurenwerk und Maskarons in finf Kartuschenrahmen mannliche und weibliche Firstenbilder in Profil, sowie das von der Krone iberhohte Bourbonenwappen. Das Mundstick in Form eines grotesken von Akanthuswerk umrahmten Tierkopfes. Mitte des 17. Jahrhunderts. Elfenbein. Lange 66 cm.
+- 368 Pulverhorn. Horn eines Rindes. Deckel, VerschluBstick und Fassungsband in Messing. 17. Jahrhundert.
+- Lange 80 cm.
+- 369 Pulverhorn. Flachgedrickte, nach oben sich verjingende Leibung. 17. Jahrhundert. Lange 20,5 cm.
+- 370 Presentuar mit Jagdbesteck und Scheide. Flache, am Ende sich verbreiternde, abgerundete Klinge. Hirschhorngriff. Zwinge in Form eines phantastischen Tierkopfes mit graviertem Rankenwerk. Holzscheide mit Lederbezug. Beschlagewerk mit leicht reliefierten Voluten und Ranken. Besteck dreiteilig. Messinggriff fruhes
+18. Jahrhundert. Presentuar und Scheide Ende des 17. Jahrhunderts. Lange 38 cm.
+- 371 Halalihorn. Auf dem Schalltrichter Inschrift: ,Macht Johan Grinwand Minchen.Um 1700. Durchm. 70 cm.
+- Zwei Halalihorner. a) Auf dem Schaltrichter Inschrift:Macht Johan Wilhelm Haas in Nirnberg, Monogramm: G.W.H. Durchm. 68 cm.- Inschrift auf dem Schaltrichter: Macht Michael Leichnam Schneider
+- 372 in Wien 1709. Mit buntem Schnirenwerk. Durchm. 62 cm.
+- 373 Hifthorn. Mit schwarzgelbem Schnurenwerk. 18. Jahrhundert. Lange 49 cm.
+- 374
+- Zwei Jagdtaschen. Querrechteckige Form mit Riemenwerk. Leder. 18. Jahrhundert.
+- 375 Rehruf mit Ledergehange. Horn mit Ledergeflecht. Riemenwerk mit Messingbuckeln und Schniren in den
+- bayerischen Farben.Mitte des 18. Jahrhunderts.
+- 376Zwei Pulverbeutel.Leder.19. Jahrhundert.
+- Jagdhorn. Hufeisenformig,mit Riemenwerk. Am Schallrohr Inschrift: GriBling et Schlott a Berlin. Durchm.
+- 377 51cm.
+- 378 in rostbraunem Samt mit abgesteppten Spiralen- und Palmettenornamenten.
+- 379 Schwenkfahne der Grafen von Schrattenbach. In weiB und blauer Seide, sehr stark beschadigt. Holzstange.
+- 380 Verschiedene Jagdnetze. Leicht beschadigt.
+- 381Pulverbeutel.Leder,mit Ziehschnur.
+
+## Initialen, Miniaturmalereien,Kupferstiche,Aquarelle und
+
+## Handzeichnungen
+
+- 382 Initiale L. Aus einer liturgischen Handschrift. In Blau und Rot stilisierte Ranke und Drolerie. Pergament.
+- Schrift schwarz und rot. Deutsch. 14. Jahrhundert. Hohe 11 cm, Breite 11 cm.
+- 383 Sieben Blatt aus einem Missale. Reiche Rankenbordire in Blau,Grin, Rot und Gold. Pflanzenwerk und Grotesken. Einzelbilder:a) Beschneidung.b) Himmelfahrt Christi. c) Schmerzensmann.d) Berufung der Apostel Andreas und Petrus. e) Maria in der Glorie. f) Auferstehung Christi. g) Verkindigung an die Hirten. Text in Rot und Schwarz. Pergament. Blatt a seitlich beschnitten. Augsburger Arbeit. i5.Jahrhundert.
+
+Abbildung Tafel 26.
+
+- Hohe 51 cm, Breite 37 cm.
+- Zwei Initialen aus einem Missale. Buchstaben E und A. Goldgrund, Blau, Rot, Grin und Purpur. Pergament. Italien.15.Jahrhundert.Hohe 914cm,Breite 11—15cm.
+- 384
+- Drei Initialen aus einem Missale. S, D und U auf Goldgrund in Purpur, Grun,und Blau.Ranken und Blumen.
+- 385 Pergament. Italien.15.Jahrhundert.11—15cm.
+- 386 Initiale H. Aus einem Missale.Goldgrund,in Blau, Grin, Gelb und Purpur. Pergament. Italien. 15.Jahrhundert. Hohe 10 cm,Breite 15 cm.
+- 387
+- Elf Initialen. Zum Teil nur angelegt. Pergament. Italien. 15. Jahrhundert. Zirka 10 x 12 cm.
+- 388 Initiale T. Aus einem Missale. Buchstabe in Purpur,Gold und Blau. Rankenwerk. Bild: Verkindigung Mariae, unvollendet. Schrift schwarz. Pergament. Deutsch. Zweite Halfte des 15. Jahrhunderts. Hohe 13 cm,
+- Breite 11 cm.
+- 389 Missaleblatt. GroBe Initiale mit reich ornamentierter Leiste. Fein ausgefihrtes Bild: Thronender Heiliger in reicher Monchsgewandung, in der Rechten ein Buch, in der Linken den Stab, seitlich zwei kniende Monche. Text rot und schwarz mit Noten. Pergament. Mailand. Ende des 15.Jahrh. Hohe 44 cm, Breite 32,5 cm. Abbildung Tafel 25.
+- 3901 Missaleblatt. Initiale A in reicher Malerei mit Blumenwerk und Vasenornament in Blau, Grin und Braunrot auf Goldgrund. Text und Noten in Rot und Schwarz. Im Text Beschadigung. Pergament. Mailand. Ende des 15. Jahrhunderts. Hohe 52,5 cm, Breite 37,5 cm.
+- 391 Missaleblatt. Initiale H auf Goldgrund in Blau, Purpur und Grin; darin sitzender Stammvater mit Spruchband. Text und Noten in Rot und Schwarz. Pergament. Italien. Ende des 15. Jahrhunderts. Hohe
+- 392 Zwei Initialen aus einem Missale. J und A in Blau, Grin und Rot auf Goldgrund. Ranken und Blattwerk.
+- 52,5 cm,Breite37cm. Abbildung Tafel 25.
+- Pergament. Italien. Ende des i5. Jahrhunderts. Hohe 16 cm, Breite 15 cm.
+- 394 Blatt aus einer liturgischen Handschrift. Reiche Umrahmung auf Goldgrund.Vasen, Blumen und Blatt werk in Blau,Purpur und Grun mit eingesprengten Medaillons. Tierbilder und Wappen. In der reichverzierten Initiale D der Sindenfall. Ruckseite Noten mit Text,verzierte Initialen. Pergament. Italien. Um 1500. Rechts unten beschadigt. Hohe 51,5 cm, Breite 37 cm. Abbildung Tafel 26.
+- 393 Italien. Ende des 15. Jahrhunderts. Hohe 18 cm, Breite 14 cm.
+- Zwei Initialen aus einem Missale. E und D in Blaugrau auf Gold; darin auf blauem Grund Heilige. Pergament.
+- 395 Elf Fragmente aus liturgischen Bichern. Buchstabeninitialen in Grin, Blau, Purpur auf goldenem Grund. Stilisierte Pflanzen und Tiere. Pergament. Italienisch. 16. Jahrhundert. Verschiedene GroBen.
+- 396
+- Blatt aus einem Gebetbuch. Randleiste mit bunten Streublumen auf Goldgrund. Im schwarz und roten Text eingestreute Initialen. Doppelseitig. Pergament. 8o. Flamisch. 16. Jahrhundert.
+- 397 Wappenbrief fur Jorg Slanderspach (N irnberger Patriziergeschlecht). Ausgestellt im Jahre 1495 zu Worms von Kaiser Maximilian I. Mit Wappenbild und Siegel. Pergament.
+- Wappenbrief fir Georg Stadi. Verliehen im Namen Kaiser Leopolds I. durch dessen Geheimen Rat Antonius
+- 399 Miniatur:Karl Ill.,Kurfurst von der Pfalz.Der Kurfirst,bartlos,mit hoher Allongepericke in Rustung,dar in die Hufte gestitzt, die Rechte auf dem Marschallstab. Ein Mohr in blauweiBer Livree tragt den Mantel.
+- 398 Auer. Wien im Jahre 1726. Handschrift auf Pergament. Fol. In Samt gebunden.
+- uiber den Ordensmantel des Hubertusordens iber der Ruistung das rote Band des Hubertusordens. Die Linke Hintergrund rechts Vorhang,links Ausblick auf Schlachtszenen. Um 1730. Aquarell auf starker Elfenbeinplatte. 21,5 x 15 cm. Farben stellenweise verblichen. In altem vergoldetem Holzrahmen.
+- 400
+- 401 Kupferstiche. Funf Ansichten vom Dom zu Koln. a) Portalansicht. Quaglio Ang. del. 1810. Friedrich GeiBler sculp.1830.—b) Innenansicht. Moller del. 1813. Leisnier sculp.—c) Turmansicht. Fuchs und Manchert del. Ernst Rauch sculp. 1830. —d) Seitenfassade. Fuchs del. 1809. Duttenhofer sculp.e) Der Dom im Bau.
+- Miniaturbilder. 18 Miniaturbildnisse bayerischer Fursten der Minchener Linie von Otto d. Gr. bis Max IIl. Joseph. Brustbilder in Rund. Suiddeutsch. Zweite Halfte des 18. Jahrhunderts. Aquarell auf Elfenbein in vergoldetem Metallrahmen.GroBe der Miniatur ohne Rahmen 4 cm Durchm. Sammelrahmen 36,5 x 32 cm. Abbildung Tafel 27.
+- Ang. Quaglio 1809. Adolf Darnstedt sculp. Gr.Fol. bzw. Qu., Gr.-Fol.
+- 403 Neun Malereien zu Krugdeckeln. Mitte des 19. Jahrhundrts. Kreisrund. Ol auf Blech. a) Harlekin. b) Kircheninterieur. c) Schlafender Zecher. d) Schlafende Nymphe. e) Architekturbild. f) Sitzende Sizilianerin. 1838. g) Franzosischer Kirassier auf dem Schlachtfeld, signiert G. B. h) Unter dem Kirchbogen. i) Reitende Bauern.
+- 402 Paolo Veronese-Kupferstiche. In einem Buche eingeklebt. Gr.-Fol. Hlbd.
+- Durchm. je 7,5 cm.In Holzrahmen vergoldet. 71 x 61 cm.
+- 404 Neun Malereien zu Krugdeckeln. Mitte des 19. Jahrhunderts. Kreisrund, Ol auf Blech. a) Kruzifix in Hohlweg. e) Burgruine. f) Gebirgsbach. g) FluBlandschaft. h) Mondscheinlandschaft. i) Landschaft mit FluB und Stadt. Durchm. je 7,5 cm.In Holzrahmen, vergoldet. 71 x 61 cm.
+- 406 Doll Anton, geb.1820 in Muinchen, gest.1887 daselbst.a)Garten an der Stadmauer.Rechts unten bez.:A.Doll,
+- 407 Eberle, Adolf, geb.1843 in Minchen, gest.1914. Gebirgslandschaft.O1 auf Pappe.25x 15 cm.
+- Minchen.b) Partie am Stadttor. Rechts unten bez.:A. Doll, Minchen.—c) Stadtmauer mit Fliβchen. Links unten bez.:A.Doll, Minchen. Aquarell.a) 30 x 28 cm, b) 28 x21 cm, c) 23 x 21 cm.
+- 408 Eibner, geb.1825 zu Hipoltstein, gest. 1877 in Minchen. Partie aus Venedig. Rechts unten bez.: Eibner 03.
+- Enhuber,Karl, geb.1811 in Hof,gest.867 in Mnchen.Bauernfamilie um runden Tisch.Bleistiftzeichnung.
+- Aquarell.21x23cm.
+- 409 29×23,5 cm.
+- 410 Fermersch. a) Italienisches Architekturbild. Unbezeichnet.Aquarell. —b) Renaissancetaufbecken. Unbezeichnet.
+- Aquarell. a) 26× 20 cm, b) 20,5 × 18,5 cm.
+- 411 Frommel,Karl Ludwig, geb.1789 in Birkenfeld, gest.1863 in Ispringen. a) Ruine Ortenburg.—b) Schloβ Tirol. —c) Ansicht von Meran.—d) Landeck.Bleistiftzeichnung. a)35 ×22 cm,b)39 × 29,5 cm, c) 39,5 ×29,5 cm,
+- d)39×28cm.
+- 412 Gebhardt, Ludwig, geb.1830 in Minchen. Seegestade in Abendbeleuchtung. Aquarell. 22 x 17 cm.
+- 413 zeichnung. 27 x 21 cm.
+- 414 HeB,Peter von,geb.1792 n Dusseldorf,gest.1871 in Minchen.a)Hauptquartier zu Kaiserslautern,Juni 85. Rechts unten bezeichnet.—b) Hauptquartier zu Homburg, Mai 1815. Rechts unten bezeichnet. Bleistiftzeichnung. a)27 x 21 cm,b) 27 x 18,5 cm.
+- 415 Herwegen, Peter. Stillben. Krug und Bucher. Rechts unten bez. Aquarell. 19,5 x 12,5 cm.
+- Jacob, G.,lebte in Munchen. a) Saal im Schloβ Salzburg. Links unten bez.:F 26 52.—b) Stube im Schloβ
+- 416
+- a) Max Josephplatz in Minchen mit Wintergarten. Rechts unten bez.—b) Max Josephplatz in Minchen ohne
+- 417 Wintergarten. Rechts unten bez.:F 851. Aquarell. a) 38 x 25,5 cm, b) 31 x 23 cm.
+- 418 10
+- 419
+- 420
+- Drei Altminchener Hofe. Links unten bez.:F.855. Aquarell. Je 27 x 20 cm.
+- Jank, Christian (?), geb. 1833, gest.1888. Erkerturm mit Baumguppe. Bleistiftzeichnung. 35,5 ×31 cm.
+- 421 Kirchner, Emil, geb.1813 in Leipzig,gest.1885 in Minchen. Marktplatz eines frankischen Stadtchen. Bleistiftzeichnung. Stark fleckig. 32,5 x 23 cm.
+- 422
+- Knab,Ferdinand,geb.1837in Wurzburg.Architekturbild einer gotischen Stadt.Bleistiftzeichnung.27 32,5cm.
+- Kuppelmayr,Rudolph, geb. 1843 in Kaufbeuren,gest.1917 in Minchen. Architekturentwurf. Rechts unten
+- 423 bez.Aquarellierte Tuschzeichnung.39 x 25,5 cm.
+- 424
+- Lichtenheld,Wilhelm,geb.1817 in Hamburg, gest.1891 in Munchen.a) Burg Trausnitz —Burghof.—b) Burg Trausnitz —Burgberg. Links unten bez.: W. L. Aquarelle. a) 28,5 × 24 cm, b) 28,5 x 24 cm.
+- Noel, Alexander Nikolaus, geb. 1792 zu Clichy,gest. 1871. Architekturinterieur. Kreisrund.Aquarell.
+- 425 Durchm.13cm.
+- 426
+- Ockert. a) Zwei Jagdhunde. b) Fuchs mit Wildente. Rauchbilder. Unbez. a) 11 x 16 cm, b) 11 x 16,5 cm.
+- 427 Straβenszene.—e) Ritt des Sultans zur Moschee. Bleistiftzeichnung. a) 31 x 23,5 cm, b) 30 x 22 cm, c) 30,5
+- 428
+- x23cm，d)30,5×23cm，e) 30,5×23cm.
+- Schwanthaler,Ludwig von, geb. 1802 in Munchen, gest. 1848 daselbst. Sechs antikisierende Reiterbildnisse. Federzeichnung.Je 7,5x7 cm.
+- 429 Schwind, Moriz von, geb. 1804 zu Wien, gest. 1871 zu Muinchen. Entwurf zu ,Die Elbe". 1862(?) Bleistift-
+- zeichnung.Leicht fleckig.Weigmann ,Schwind".p.432. 34 x 20,5 cm.
+- Sieberg, Peter. Zwei Stilleben. a) Tisch mit Bichern und Schreibzeug.—b) Tisch mit Schachbrett, Buchern und Kannen.Aquarell.a) 16x 14cm,b) 15,5x14cm.
+- 430
+- Vier Stilleben. a) Poesie. ——b) Architektura Militaris.—c) Pictura. —d) Geographia. Eines davon links unten
+- 431 bez.Aquarell.a) 18,5×15cm,b) 18,5×15cm,c)18,5×15cm,d) 18,5×15cm.
+- 432 Unbekannte moderne Meister. a) Burg Schwaneck.—b) Tegernseer Hof in Minchen. Aquarell. Links unten bez.: 1857.a)24 x 16,5 cm,b) 25,5 x21 cm.
+- 433
+- 434
+- Partie am Tegernsee. Aquarell. 37,5 x 25 cm.
+- a) Madenburg bei Eschbach. Bleistiftzeichnung.—b) St. Goar am Rhein. Bleistiftzeichnung.—c) Gotisches Kirchenportal. Aquarell. — d) Madchen an Brunnen mit Ziegen und Schafen. Aquarell. a) 17 x 11 cm, b)29,5×18cm,c)20×14cm,d)18,5×14cm.
+- 435 Volt,Friedrich Johann, geb.1817 in Nordlingen, gest.1886 in Munchen.Rinderherde mit Hirten am Wald bach. Rechts unten bez.:J.V. Bleistiftzeichnung. 21 X 14,5 cm.
+- 436 Wollenweber, E. Partie aus Altminchen. Rechts unten bez.: E. W. 77. Bleistiftzeichnung. 27 x 18 cm.
+- gleichzeitigem Rahmen.
+
+## Gemalde
+
+## Alers
+
+- 437 Landschaft. Rechts an einem See,in den ein Bachlein flieBt, eine Hitte, von Baumen beschattet. Am Ufer zwei Frauen. Dunstige Stimmung. Bez. rechts unten:R. Alers. Ol auf Holz. 19 x 25 cm. In vergoldetem,
+- 438 Landschaft. Im Vordergrunde ein Bachlein. Im Mittelgrunde zwei hohe, alte Eichen,zwischen denen ein Marterl aufgerichtet ist und vor dem ein Bauernmadchen steht. Hintergrund Wald in zarten Tonen. Ol auf Holz. 19 X25 cm.Gegenstick zu vorhergehendem.
+
+## Augsburger Meister
+
+- 439 Tod eines Heiligen. Ein alterer Mann,nur mit dinner Decke zugedeckt, ruht auf erhohtem Lager. Rechts
+
+18. Jahrhundert
+
+- schwebt Christus in hellrotem Gewand, dariber blauer Mantel; links eine betende Frau in Blau und Rosa, dahinter zwei Engel und Putten. Oben links von Engeln getragen Gottvater. Ol auf Leinwand, auf Holz auf gezogen. In alterem, vergoldetem Holzrahmen. Hohe 67 cm, Breite 38 cm.
+
+## Deutscher Meister
+
+- 440 Fligelaltar. Mittelstick: Unter Spitzbogen die Standfiguren der Heiligen Petrus und Paulus. Links Petrus in blaugrinem Mantel mit gelbbraunem Saum, dariber weiBen Mantel,in den Handen den groBen Schlissel haltend. Erhabene, aufgesetzte Nimben. Links Paulus,iber dunkelgrinem Gewand dunkelkarminer Mantel; in der Rechten ein Buch,in der Linken das Schwert. Blaulicher Grund. Linker Flugel: Innenseite Standfigur des hl. Matthaus,in dunkelgrinem Gewand, dariber roter Mantel,in der Rechten das Beil. Auf der Rahmenleiste die Inschrift: Conradus Romtel m.h....I&amp;A5 ? Zu seinen FuBen der betende Stifter in Chorherrtracht chwarze Cappa,braune,mit Schwanzen besetzte Mozetta,grinblaue rmel,weibes ntergewand AuBenseite hl.Katharina,gekront,in hellgrinem Kleid, dariber hellgriner Mantel, die Linke auf dem Schwert, das auf dem Rad aufsitzt. Rechter Fluigel, Innenseite: Der hl. Johannes nach links gewandt,in karmin Untergewand, dariber dunkelgrinen Mantel. Er segnet den Kelch, den er mit der Linken halt und an dem sich Schlangen herauswinden. Unten die Unterschrift: B. 1. Renovatum Anno Domini 165（1). (Aus dieser Zeit stammt der Wolkenhintergrund an Stelle des wohl urspringlichen Goldgrundes.) AuBenseite: Johannes der Taufer. Uber dem harenen Gewand ziegelroter Mantel. Die Linke halt das Buch; darauf das Lamm mit der Kreuzesfahne, worauf er mit der Rechten deutet. Mittelfranken, um 1470. Aus Eichstatt. Mittelbild mit dem alten Rahmen: Hohe 137 cm,Breite 94 cm. Fligel je 47 cm breit. Stellenweise die Farbe abgeblattert.
+
+Zweite Halfte des 15. Jahrhunderts
+
+## Deutscher Meister
+
+um 1550.
+
+- 441 Bildnis eines jungen Mannes. Standfigur in schwarzer, dunkler Tracht, um 1550. Malerei auf Papier, auf Holz aufgeklebt. Sehr stark beschadigt. Hohe 28 cm, Breite 16 cm.
+
+## Deutscher Meister
+
+- 443 Zwei Landschaften. a) Gebirgslandschaft:Rechts im Vordergrund Baumgruppe, davor Viehherde. Im Mittelgrund welliges Hugelland mit Burg; den AbschluB bildet ein von links nach rechts emporsteigender Berg. Gewitterstimmung.b) Hugelige Landschaft mit Burgruine und Baumgruppen. Ol auf Leinwand. In Goldrahmen.Hohe 82 cm, Breite 115 cm.
+
+17.und 18.Jahrhundert.
+
+- 444 a) Hi. Johannes. Rechts vor Felshintergrund sitzender Johannes,links Ausblick in Gebirgslandschaft mit FluB.b) Hi. Hieronymus. In Gebirgslandschaft mit See betender Hieronymus mit Totenkopf und Buch. Ol auf Leinwand. Holzrahmen vergoldet. 60 x 80 cm.
+- 445
+- Landschaft. Baumgruppen mit Durchblick auf hugelige Landschaft mit abschlieBendem Gebirgszug. Figuirliche Staffage. O1 auf Leinwand, alter Rahmen. 62 x 95 cm.
+
+Abbildung Tafel 24.
+- 455
+
+## Deutscher Meister
+
+Erste Halfte des 19. Jahrhunderts.
+
+- 446 Das Tischgebet. An einem Tisch,auf dem eine Schale mit Kartoffeln, ein Teller mit einem Hering, ein Laib Brot und ein Krug stehen, sitzt ein alter Mann, die Hande zum Gebet gefaltet. Getonter lithographischer Druck. Gegenstick zu folgendem. In altem, vergoldetem Holzrahmen. 28,5 X 22 cm.
+- 447 Alte Frau am Kaffeetisch. Alte Frau in pelzbesetztem Morgenrock am Kaffeetisch, mit bunter Decke bedeckt, im Begriff eine Tasse Kaffe einzuschenken. Gegenstick zum vorhergehenden. Befund wie oben.
+
+## Deutscher Meister P. J.
+
+- beleuchtung. Bezeichnet auf einem Ballen, den ein Mann tragt:P. j. Ol auf Leinwand. Hohe 50 cm, Breite 39 cm.In altem, gleichzeitigem Holzgoldrahmen.
+
+## Jacob Joseph Eeckhout
+
+geb.1793 zu Antwerpen, gest.1861 zu Paris.
+
+- 449 Im Pferdestal. WeiBe Schimmelstute wird von einem Stallburschen geputzt. Links ein Hund. Bezeichnet links unten: Eekhout. O1 auf Holz. 22 x 26 cm. In vergoldetem, gleichzeitigem Rahmen.
+
+## Johann Georg Edlinger
+
+geb. 1741 zu Graz, gest.1819 zu Munchen.
+
+- 450 Portrat eines alten Herrn. Huiftbild en face nach links. In schwarzem Uberrock, blaugriner Weste und Spitzenjabot. Ol auf Leinwand. Holzrahmen, vergoldet. Beschadigt. Hohe 62 cm, Breite 48 cm.
+
+## Petrus de lnganatis
+
+lebte 1529-1547 in Venedig.
+
+- 451 Madonna mit Kind. Madonna vor einem dunkeln Vorhang sitzend mit weiBblaulichem Kopftuch, hellkarmin Gewand,hellblau,braun gefittertem Mantel halt auf ihrem SchoB das nackte Kind, das einen Vogel in der Rechten halt. Rechts und links Ausblick in Landschaft. Ol auf Holz. 33 x 28 cm.In vergoldetem, stuckiertem
+- Holzrahmen. Bezeichnetes Bild in Berlin,Kaiser Friedrich-Museum Nr.41.
+
+## ltalienischer Meister
+
+Um 1600.
+
+- 452 Marienbild. Maria blickt auf das vor ihr liegende, gefatschte Kind nieder,rechts der kleine Johannes. Halbfiguren. O1 auf Holz. Hohe 39 cm, Breite 31,5 cm. Ungerahmt, stark beschadigt.
+
+## ltalienischer Meister
+
+17.Jahrhundert.
+
+- 453 Junge Frau. Mit weiBem Kopftuch, tief ausgeschnittenem, rotem Mieder; weiBe, bauschige Armel. Im Ausschnitt an blaugrinem Band Amulett. Brustbild nach rechts. Hohe 51 cm, Breite 74 cm. Ungerahmt.
+
+## Johann Baptist Kirner
+
+geb.1806 zu Furtwangen
+
+- 454 Landliche Szene. In einem landlichen,von einem Kerzenlicht erleuchteten Gemach zieht ein junges,nur wenig bekleidetes Madchen einem altern Bauern die Stiefel aus, der in drastischer Weise nachhilft. Bezeichnet links unten:K. Ol auf Holz. 26 X 28 cm. In vergoldetem Holzrahmen der Zeit.
+
+## Rudolf Kuppelmayr
+
+geb.1843 zu Kaufbeuren, gest. 1917 in Munchen.
+
+- Bildnis eines alten Mannes. Alterer Mann mit sog. Seemannsbart, Halbfigur nach rechts gewandt mit grauem, hohem Hut in rotbraunem Wams. Uber der rechten Schulter eine Stange. Grauer Grund. Bezeichnet rechts unten:R.K. 1874. Tempera auf Leinwand. Hohe 90 cm,Breite 71 cm. In vergoldetem Holzrahmen.
+
+## Munchner Schule
+
+um 1830.
+
+- 456 In der Almhitte.Rechts auf einem Holzklotz ein Jager, der die Zither spielt. Ein links sitzender Bursch schaut ihm aufmerksam zu. Rechts auf einer Holzbank Krug, Brot und Kase; links Kupferkessel. Links durch die
+- 457 Auf der Alm. Im Vordergrunde lagernde und stehende Kuhe,in der Mitte die Sennerin, die eine Kuh melkt. Hintergrund Ausblick in die Ebene. Wolkenloser Himmel. Ol auf Leinwand. 27 X 45 cm.
+- Tur Ausblick ins Freie. Ol auf Leinwand. 33 x 27 cm. In vergoldetem Holzrahmen.
+Abbildung Tafel 4.
+
+Abbildung Tafel 30.
+
+geb.1812 zu Harbach, gest.1874 zu Munchen.
+
+## Eduard Schleich d.A.
+
+- 458 Landschaft. Abendstimmung an einem Gebirgssee, rechts Hutten, Kahn und Vieh im Wasser; links Ausblick uiber den See auf das Gebirge. Bewolkter Himmel. Bezeichnet links unten: Ed. Schleich. Ol auf Holz. Hohe 12,5 cm,Breite 33,5 cm. In vergoldetem Holzrahmen.
+
+## Suddeutscher Meister
+
+- 459 Christus vor Pilatus. Rechts auf gelbbraunem Thron Pilatus, der sich die Hande wascht,in rotem Mantel und
+
+15.Jahrhundert.
+
+- goldenem, gesticktem Gewande. Rechts vor ihm zwei Frauen,hinter ihm ein Geharnischter mit einem Mann, links zwei Schergen mit Christus. Goldgrund. Tempera auf Holz. 1l x 12 cm. Abbildung Tafel 9.
+
+## Suddeutscher Meister
+
+- 460 Hl. Katharina. Im dunklen Haar Krone mit reichem Perlschmuck, blaues Kleid mit rotem Mantel, in der Rechten einen Palmzweig, vor ihr das Rad. Brustbild. O1 auf Kupfer. Hohe 23,5 cm, Breite 16,5 cm.
+
+Um 1700.
+
+## Suddeutscher Meister
+
+- 461 Portrat eines kurbayerischen Jagermeisters.Huftbild, stehend,en face nach rechts,in blaugrunem Rock,die Rechte in die Hifte gestitzt,in der Linken das Gewehr. Dunkler Hintergrund. Ol auf Leinwand. Holzrahmen, vergoldet. Hohe 93cm, Breite 72 cm.
+
+Mitte des 18. Jahrhunderts.
+
+## Moderne Kopie nach Tizian Vecelli
+
+- Rahmen mit Flammleisten. RahmengroBe:Hohe 143 cm, Breite 170 cm;beschadigt.
+- 462 Allegorische Komposition. Hohe 93 cm, Breite 123 cm ohne Rahmen. In altem, schwerem, schwarzem
+
+## Venezianischer Meister
+
+- 463 Madonna mit Kind. Sitzende Madonna, auf dem SchoBe das Jesuskind, dem sie die Brust reicht. Links vorn
+
+Abbildung Tafel 8.
+
+Mitte des 17.Jahrhunderts.
+
+- Johannesknabe. Im Hintergrund zwei Putten. Ol auf Holz. Goldrahmen mit Fruichtewerk und figurlichem Schmuck in starker Reliefschnitzerei. 104 x 76 cm.
+
+## Unbekannter Meister
+
+19. Jahrhundert.
+
+- 464 Landschaft. GroBe,zweiturmige, gotische Kirche in freier Landschaft. Bewolkter Himmel. Ol auf Leinwand, auf Holz gespannt. 13 x 19 cm. In altem, vergoldetem Rahmen.
+
+## Textilien
+
+## Brokat,Seide,Samt,Spitzen
+
+- aus verschiedenen Sticken zusammengesetzt. 44 X 86 cm.—b) Krugformige Vase mit Nelkenmuster, dariber finfzackige Kronen. 90 x55 cm. 17. Jahrhundert.
+- 466 Drei Samtsticke. Teile von MeBgewandern und Sesselbezug. Rankenwerk und stilisierte Blumen,roter Samt; zum Teil mit Fransenbesatz. 16. Jahrhundert. Abbildung Tafel 30.
+- 467 Zwei Seidenstickereien. Auf weibem Atlasgrund groBstilisiertes Blumenwerk in bunter,von Schniren gefaBter Seidenstickerei. Beschadigt. 17. Jahrhundert. Hohe 150 cm bzw. 113 cm. Breite 75 cm bzw. 77 cm.
+- 468
+- Drei Wandbespannungen. Auf gelbbraunem Grund groBstilisiertes Blumenornament, Tulpen, Nelken und Blattwerk in bunter Seidenstickerei. Beschadigt. 17. Jahrhundert. Hohe 284 cm,Breite 60 cm.
+- 469 Aus verschiedenen Teilen zusammengesetzt. 17. Jahrhundert. Hohe 155 cm, Breite 62 cm. Abbildung Tafel 30.
+- 470 Zwei Sticke einer Vorhanggarnitur. Kraftiges Blatt- und Blumenwerk in Rot auf Goldgrund. Stark verschlissen, aus verschiedenen Teilen zusammengesetzt. Ende des 17. Jahrhunderts. Lange 235 cm bzw.150 cm, Breite 65 cm.
+- 471 Ein Stick Seidenbrokat. Aus drei Teilen zusammengesetzt, auf rotem Grund stilisiertes Blumenornament in Silber.Ende des 17. Jahrhunderts. Lange 113 cm,Breite 54 cm.
+- 472 Wandbespannung. GroBblumiges Ornament mit kraftigem Blattwerk und stilisierten Akanthusmotiven.
+- damast.17. Jahrhundert.Hohe 312 cm,Breite 68 cm.
+
+Abbildung Tafel 30.
+
+- 473 Ein Stick Goldbrokat. Von Blumen gefillte Kreisornamente zwischen Lorbeergewinden. Rot und Gold. Spanien. 17. Jahrhundert. Hohe 102 cm,Breite 60 cm.
+
+Abbildung Tafel 30.
+
+- Kameldecke. Auf rotem Samtgrund groBstilisiertes Tulpenmuster in Gelb, gefaBt von laufender Nelkenborduire in rotem Samt auf gelbem Grund. Das Ganze auf beigefarbenem Samt aufgenaht. Roter Fransenbesatz. Um 1700.Venedig oder Orient.Hohe 220cm,Breite 130cm.
+
+Abbildung Tafel 31.
+
+- 475 Vier Vorhange. Gelber Seidendamast, groBstilisiertes Blumenornament zwischen Frichtewerk. Aus verschiedenen Teilen zusammengesetzt. Mit Quasten-bzw. Fransenbesatz. 17.bis 18. Jahrhundert. Lange zirka 60 cm,Breite 200 cm.
+- 476
+- Levitengewand. Aus Stoffen des 17. und 18. Jahrhunderts. Geblimter Seidendamast in Beige. GroBstieliges Blumenwerk in bunter Seidenstickerei auf gelbem Seidengrunde,mit Quaste.
+- 477 Ein Stick Seidenbrokat. Auf braunrotem Grund BlumenstrauBe und Streublumen in Blau, Grin, Silber und Gold. Aus verschiedenen Teilen zusammengesetzt. Anfang des 18. Jahrhunderts. Lange 190 cm, Breite 143 cm.
+- 478 Ein Stick Seidendamast. Auf rotem Grunde, groBstilisiertes Ranken- und Blattornament. Eine Seite mit Goldbortenbesatz.Frihes 18. Jahrhundert. Lange 160 cm,Breite 120 cm.
+- Wandbespannung. Auf goldenem Seidengrunde groBstilisiertes Blumenwerk, Fruchte,phantastische Vogel und Rokaillenornament in bunten, zarten Farben gewebt. Aus verschiedenen Teilen zusammengesetzt. Frihes
+- 479 18.Jahrhundert. Hohe 200 cm,Breite 187 cm.
+- 480
+- Decke. Im Mittelfeld drei geharnischte Reiter unter Palmen im Kampfe mit Drachen. Auf der breiten,von Rokaillenwerk gefaBten Randbordire Jagdszenen mit Reitern, Hunden und Stieren. WeiB auf fraisefarbenem Grunde,gewebt. Lyon. Erste Halfte des 18. Jahrhunderts. Lange 105 cm, Breite 95 cm.
+- Drei Sticke Gold- und Silberbrokat. Auf Silber- bzw. Goldgrund Streublumen und Blitenzweige in bunten
+- 481 Farben. Erste Halfte des 18. Jahrhunderts.
+- 482
+- Kelchdecke. Griner Seidenmoire,Randbordire und Mttelornament in Silberstickerei,mit Silberborte gefaBt. 18.Jahrhundert.57x60 cm.
+- Gewand eines Gnadenbildes. Stilisiertes Blumenwerk auf gelbem Grund. Seidendamast, mit Silberspitzen
+- 483 besetzt.18. Jahrhundert.
+- 484
+- 485 Rauchmantel. In gelbem und rotem Seidendamast. Blitenzweige und groBstilisiertes Blumenwerk,von Goldborten gefaBt, 18. Jahrhundert. SilberschlieBe.
+- MeBgewand. Kasula, Stola, Manipel und verschiedene kleine Sticke. Stark beschadigt, stilisiertes Blumenwerk, Frichte und Ranken in gelber und weiber Seide auf schwarzem Grund. 18. Jahrhundert.
+- GroBe Decke. Olivgriner Seidendamast, groBstilisiertes Blumenwerk. Mittelstick und Randbordire mit auf-
+- 487 Tischdecke. Auf goldgelbem Grunde groBstilisiertes Blumenornament mit Fruichten und Gitterwerk. Seiden-
+- 488
+- 489 b) Blatt und Ranken in weiBer Seide auf rotem Grund. 18. Jahrhundert. 24 x 24 cm.
+- 486 genahten Bandornamenten in WeiB. 18. Jahrhundert. 240 x 240 cm.
+- damast. Mit Fransenbesatz. 18. Jahrhundert. 160 x 100 cm.
+- Zwei Deckchen. a) Auf weiBem Samt BlumenstrauB in bunter Malerei. 19. Jahrhundert. 35 X 25 cm.—
+- Ein Deckchen. Aus verschiedenen Teilen zusammengesetzt, Blumen- und Gitterwerk in bunten Farben auf weiBem Moirestoff mit beschadigtem Spitzenbesatz. 18. Jahrhundert. 54 X 66 cm.
+- 474
+- 490 GroBer Wandbehang. Auf hell beigefarbenem,in quadratischen Ornamenten abgenahtem Grunde zartes Blattund Halmenwerk in Blau, NelkenstrauBe in Rot, Blau und Gelb, dazwischen phantastische Vogel. Breite Randbordire in ahnlichem,nur etwas groBer gehaltenem Dekor. Seidenstickerei, eine Seite mit Fransenbesatz. 17.—18. Jahrhundert. Randbordire leicht beschadigt. Hohe 275 cm, Breite 220 cm.
+- 491
+- 492
+- 493 Stick einer Wandbespannung. Auf weibem Seidengrunde Blumen und Ahren in Gold und bunter Seide, be-
+- Wandbehang. Auf rotem Grund Rosenzweige in WeiB,Gelb und Blau. Seidendamast. 18. Jahrhundert. Lange 165 cm,Breite 140 cm.
+- Wandbehang. Aus drei Teilen zusammengesetzt,beschadigt. GroB stilisierte Blumen und Ahren in Gelb auf weinrotem Grund. Frihes 18. Jahrhundert. Lange 260 cm, Breite 400 cm.
+- 494
+- schadigt. 18. Jahrhundert. Lange 270 cm,Breite 45 cm.
+- 495 Ein Stick Seidendamast. Hochovale, mit Blumen gefillte Rokaillenornamente zwischen Blumen- und Rankenwerk. Altblau. Aus zwei Teilen zusammengesetzt. 18. Jahrhundert. Lange 122 cm,Breite 110 cm.
+- Sechs Sticke eines Tirbehangs. Darunter ein Stick groBer, blaugriner Seidenatlas. 18. Jahrhundert.
+- 496 120cm.
+- 497
+- 498 Sieben Sticke Seidendamast. Atlasseide und Rips in verschiedenen Farben mit Blumen- und Streifenmuster. 18.Jahrhundert.
+- Zwei Sticke Seidendamast. Blatt-und Rankenwerk, goldgelb. 18. Jahrhundert. Lange 120 cm,Breite 21 cm.
+- 499
+- 500 Zehn Sticke Seidendamast. Blumen- und Blattwerk zwischen Rokaillen in Grin, Gelb und Rot. 18. Jahr-
+- 501
+- 502 Funf Sticke Seidenatlas.WeiB,stilisiertes Tulpenmuster. 18. Jahrhundert.
+- Acht Damaststicke. Blumen und Ranken auf kupferrotem Grunde. 18. Jahrhundert.
+- hundert.
+- Zwolf Sticke grine Atlasseide. Stilisiertes Blumenmuster, zum Teil mit Bortenbesatz. 18. Jahrhundert.
+- 503 Zwei Streifen.a) Seidenrips,weib, Streublumen, BlumenstrauBe und Gitterwerk.b) Atlasseide, Blumen-
+- 504
+- strauBe und Streublumen in Gelb auf weiBem Grund. 18. Jahrhundert. 138 x 20 bzw. 104 X 16 cm.
+- 505 Drei Sticke Samt. Braungrin bzw. rotbraun, einmal geschnitten. GroBstilisiertes Blattornament bzw. Pal
+- 506
+- Finf Sticke Samt. Blumen und Ranken, einmal geschnitten.
+- metten- und Gittermuster. 18. Jahrhundert. Hohe 72 cm, Breite 55 cm.
+- Acht Samtsticke. GroBes Blumenmuster, einmal geschnitten, gelb- bzw. olivfarben.
+- 507 Zwei Sticke Seidenbrokat. GroB stilisiertes Ranken- und Blumenornament in Gelb auf beigefarbenem Grund. 18. Jahrhundert. Aus verschiedenen Teilen zusammengesetzt. Lange 100 bzw.73 cm, Breite 63 bzw.73 cm.
+- 508
+- 509
+- Drei Brokatstreifen. Auf weiBem Grund Blumen-und Frichtesticke in Silber. 18. Jahrhundert. Lange 140 bzw. 90 cm, Breite 27 cm.
+- Funf Brokatsticke. Blumen- und Rankenwerk in bunter Seide, Silber und Gold auf Goldgrund. 18. Jahrhundert.
+- 510
+- 511 Drei Sticke aus einem zerschnittenen Kleide. BlumenstrauBe und Ranken in bunten Farben auf beigefarbener Taftseide.Ende des 18. Jahrhunderts.
+- werk in Gold. Im Geschmacke des 18. Jahrhunderts. Hohe 280 cm, Breite 78 cm.
+- 512 Ein Stick Seidenatlas. Stahlblau, beschadigt. Ende des 18. Jahrhunderts. Lange 115 cm, Breite 51 cm.
+- Fransenbesatz olivgrin. 17. bis 18. Jahrhundert. Lange 115 cm, Breite 80 cm.
+- 513 Decke. Gefillt mit reliefiertem Vierblattornament in von Seidenstof ibernahtem Schnirenwerk. Grin,
+- 514 Zwei Sticke Seidendamast. Auf weiBem Grunde, stilisierte Nelken und Astern in Rot,Fraise,Blau, Grin und Gelb. Um 1800. Lange 124 bzw.70 cm, Breite 27 bzw.27 cm.
+- Atlas,blau und rot gestreift. Anfang des 19. Jahrhunderts.
+- 515 Vorhanggarnitur.Sieben Fligel,vier Lambrequins,zwei mit Quastenbesatz und verschiedene Sticke; gelber
+- 516 Wandbespannung. Mausgraue und beigefarbene Felder mit Streifenornament in Kupferrot und Braun. Aufgemalte Streublumen in WeiB und Gelb. Anfang des 19. Jahrhunderts. Hohe 240 cm, Breite 470 cm.
+- und Gelb. Anfang des 19. Jahrhunderts. Lange 184 cm, Breite 52 cm.
+- 517 Stick einer Wandbespannung. Auf blauem Seidengrunde zwei laufende Blatt- und Blumenbordiren in WeiB
+- 518
+- Ein Stick Seidendamast. Aus verschiedenen Teilen zusammengesetzt, Seidenmuster. Anfang des 19. Jahrhunderts. Lange 110 cm, Breite 98 cm.
+- 519 Zwei Sticke Seidentill. a) Streifen- und Linienornament.—b) Streublumen- und Blumenbordire. Anfang des 19. Jahrhunderts.a) 70x70 cm, b) 95x 62 cm.
+- 520 Sieben Sticke Seidentaft. Rot, gelb und violett schillernd. Anfang des 19. Jahrhunderts.
+- 521
+- Acht Sticke einer Vorhanggarnitur. Atlasseide mit Blumenzweigen in WeiB und Gelb auf rotem Grunde. Anfang des 19. Jahrhunderts.
+- 522
+- Finfzehn Sticke einer Vorhanggarnitur. Aus verschiedenen Teilen zusammengesetzt, Streifenmuster in Rot. Anfang des 19. Jahrhunderts.
+- 523 Vier Sticke zu Bezigen. a) Streifenmuster in Gold und Blau. Akanthuszweige in Gold auf braunem Grund. —b) Streifenmuster in Braun und Gelb auf Goldgrund. c) und d) Streifenmuster. Seidentaft in Altrosa.—
+- Anfang des 19. Jahrhunderts.
+- Ein Deckchen. Seidentaft, gruin-blau schillernd. Erste Halfte des 19. Jahrhunderts. 56 x 55 cm.
+- Wandbespannung. Moosgrin,Erdbeermuster und Streublatter; aus verschiedenen Teilen zusammengesetzt. Erste Halfte des 19. Jahrhunderts. Lange 450 cm, Breite 50 cm.
+- 524
+- 525
+- 526
+- Zwei Vorhangsticke. Samt, Streublimchen auf rostbraunem Grunde. Erste Halfte des 19. Jahrhunderts. Lange 174 cm, Breite 112 cm.
+- 527 Drei Sticke eines Vorhangs. Stilisiertes Nelken-und Tulpenmuster in roter Kreuzsticharbeit auf weiBer Leinwand. Erste Halfte des 19. Jahrhunderts. Lange 185,65,35 cm,Breite 130, 18,5, 11,5 cm.
+- 528 Sechs Vorhangsticke. Grin mit Streublattern. Erste Halfte des 19. Jahrhunderts.
+- 529 Vier Stickereien auf Till und Crepe. a) Blumenbordire in bunter Wollstickerei. Lange 270 cm, Breite 20 cm. Zweite Halfte des 19. Jahrhunderts. —b) Zwei Miederticher. Palmetten-bzw.Rankenornament auf weibem bzw.gelblichem Tull. Erste Halfte des 19. Jahrhunderts.c) Behang. Buntfarbiges Blumenmuster in Seide
+- und Bandapplikation auf Schleierstoff. Lange 375 cm, Breite 80 cm.
+- Ein Stick weiBe Seide. Aus verschiedenen Sticken zusammengesetzt; Streublimchen. Mitte des 19. Jahr-
+- 530 hunderts. Lange 160 cm,Breite 95 cm.
+- 531
+- Zwei Deckchen. a) Vogel auf Kirschzweig.- b) Buntes Blumenstuick auf schwarzem Grund.  Straminstickerei. Um 1850.a)37×35cm,b)41×38cm.
+- Zwei Sticke Seidendamast. WeiB,Blumenornamente in rautenformigen Feldern. 19. Jahrhundert. Lange
+- 532 202 cm bzw. 46 cm,Breite 45 cm bzw.45 cm.
+- 533 Vorhang. Auf weibem Leinengrunde stilisiertes Tulpenornament in griner,blauer und roter Seide. 19. Jahrhundert. Stark beschadigt.Lange 250 cm,Breite 164 cm.
+- 534 Sieben kleine Sticke. Damast, Taft und Brokat. Gelb, rot, blau, grin, weiB. 18. und 19. Jahrhundert.
+- 535 Ein groBes und verschiedene kleine Sticke Seidentaft. Aus verschiedenen Sticken zusammengesetzt,zum Teil
+- mit Streifenmuster und Streublumen, fraisefarben. 18. bis 19. Jahrhundert.
+- 536 Drei Sticke Seidendamast. Schwarz und braun,mit Blumenornamenten. 18. und 19. Jahrhundert.
+- 537
+- Konvolut von vierunddreiBig Sticken Seidenborten und Seidenfransen. In verschiedenen Farben. 18. und 19. Jahrhundert.
+- 538
+- 539
+- Kirchenfahne. Vier weiB-braun gestreifte Vertikalfelder. Seidentaft. Lange 35 cm,Breite 140 cm.
+- Kelchdecke. Schwarzer Seidendamast, groBstilisiertes Blumenornament, Silberbortenbesatz. 17.-18. Jahrhundert. Lange 50 cm, Breite 50 cm.
+- 540 Kleines Deckchen. Roter Grund, auf drei Seiten Blumenbordire in Silberdrahtarbeit. 18. Jahrhundert. Lange 120 cm, Breite 58 cm.
+- 541 GroBe braune Samtdecke, ein Stick damasziertes rotes Leinen. a) Lange 340 cm, Breite 360 cm; b) Lange 220 cm,Breite 95 cm.
+- 542
+- GroBe Decke. Auf rotem Fond Zweig- und Blattmuster in Grin, Gelb und WeiB gewebt. Randbordire.
+- Orient. Hohe 255 cm,Breite 180 cm.
+- 543 Decke. Auf hellgrunem Grunde Blumen und Akanthuswerk. Lange 130 cm, Breite 130 cm.
+- 545 Samtdeckchen und finf Samtteile. Deckchen mit Goldbortenbesatz, ein Samtstick mit Fransenbesatz,moos
+- 544 Funf Deckchen. a) und b) dunkelblauer Schleierstoff mit Ornamentbordiren in eingewebter Seide. 70 x 70 cm. c) Auf grinem Grunde Blumen-und Blattmuster in griner Seide. 68 x 68 cm.d) Seidenvoile, blaugelb schillernd. Gitterwerkmuster. 65 × 65 cm.— c) Seidenkrepp, Blumenbordire, Fransenbesatz. 60 x 60 cm.
+- und giftgruin.
+- 546 Tafeltuch. Leinendamast. Zwischen stilisiertem Blumenwerk Kreuzigungsgruppen. Lange 230 cm, Breite 160cm.
+- 548 Roter Stoffstreifen.An einem Ende mit Fransenbesatz,am anderen golddurchwirkt. Turbanband. Orient Lange 240 cm,Breite 26cm.
+- 547 Kissen. Roter Samt, einmal geschnitten, Blumen und Ranken; aus verschiedenen Teilen zusammengesetzt. 42×42cm.
+- 549 WeiBer Stoffstreifen. An einem Ende rot gestreift. Turbanband. Orient. Lange 730 cm, Breite 40 cm.
+- Tirbehang. Zwei Sticke. Vasen mit Blattwerk in Braunrot auf braungelbem Grund. Mit Goldborten gefaBt,
+- 550 Tirbehang. Rotbrauner Samt, an der Schmalseite mit Quastenbesatz.
+- Vorhanggarnitur. Zwei Fluigel und ein Querstuick. GroBstilisiertes Blumenmuster in Grin auf gelbem Grund.
+- 551 Fransenbesatz.
+- 552 Lange 190 cm bzw. 40 cm, Breite 110 cm bzw. 190 cm.
+- 554 Stick einer Vorhanggarnitur. Braungelber Seidenrips mit Rankenwerk und Nelkenornament. Aus verschiedenen Teilen zusammengesetzt, an zwei Seiten mit Fransenbesatz.
+- 553 Sechs Sticke einer Vorhanggarnitur. Braunroter Samt.
+- 555 Ein Sesselbezug und ein Stick blaugrine Seide. a) Grine Seide. Lange 87 cm, Breite 64 cm. —b) Aus verschiedenen Stuicken zusammengesetzt. Lange 220 cm,Breite 130 cm.
+- 556 Zwei Sticke zu Sesselbezigen. Auf beigefarbenem, geripptem Grunde stilisiertes Glockenblumen- und Linienornament.
+- 557 Vier Sticke zu Bezigen. GroBstilisiertes Blumenornament in bunten Farben auf fraisefarbenem, hellgrinem und beige Grund.
+- 558 Elf verschiedene Sticke zu Bezigen. Atlasseide,kupferroter,olivgriner und hellgelber Grund. Streifenmuster und aufgemalte Blumen. Anfang des 19. Jahrhunderts.
+- Zwei Sticke Silberbrokat. GroBstilisierte Blumen und Pinienzapfenornament. 18. Jahrhundert. a) 92 x 26 cm,
+- 559 Zwei Sticke Schleierstoff. a) Grin, mit breiter Blumen- und Laubbordire in Seide. Lange 102 cm, Breite 73 cm.—b) Schwarz, an einer Seite breite Blumenborduire. Lange 120 cm, Breite 80 cm.
+- 561
+- 560 b)42×22cm.
+- Zwei Sticke roter Samt. Palmetten-, Tulpen- und Gitterwerk. Einmal geschnittener Samt. Lange 128 cm,
+- Samtstreifen. Auf purpurrotem Grund, Bordirenwerk mit Palmetten, Tulpen und Blumenornamenten in Goldapplikation mit Perlen, bunten Steinen und Jett. Mit Goldborten besetzt. Lange 140 cm, Breite 30 cm.
+- 563 Vier Sticke Samt. Rot und grin, eines mit geschnittenem Blumenornament.
+- 562 Breite 58 cm;Lange 42 cm, Breite 55 cm.
+- 564 Vier Samtsticke. a) Violett, mit gepreBtem Blumen- und Rankenwerk.b) Blumen- und Rankenwerk in geschnittenem,rotem Samt auf beigefarbenem Grunde.
+- 565
+- Funf Sticke Samt. Graubraun.
+- 566 Zehn Samtsticke. Verschiedene GroBe,weinrot und fraisefarben,zum Teil mit geschnittenen Blumen- und
+- 567 Ein Stick geblimte Seide. Auf grinem Grund Blattwerk und Blumen, blau, grin und violett schillernd. Aus
+- 568
+- Rankenornamenten.
+- verschiedenen Teilen zusammengesetzt. Stark beschadigt. Lange 200 cm, Breite 90 cm.
+- 569 Zwei Atlasstreifen. Mit eingezogenen Silberfaden. Lange 172 cm bzw. 160 cm, Breite 23,5 cm.
+- Zwei Sticke Seidentaft. Himmelblau. Lange 130 bzw. 180 cm, Breite 60 cm.
+- 570 Drei Sticke Moireseide. Streifenmuster in Gelb, Schwarz und Blau auf weibem bzw. braunem Grund. Erstes
+- 571 Vier Sticke Seidendamast. Kupferrot, gestreift, mit Blumenranken. Stark beschadigt.
+- 572
+- 573
+- Drittel des 19. Jahrhunderts. Breite 70 bzw. 36 bzw.70 cm, Lange 288 bzw. 180 bzw.280 cm.
+- Funf Atlas- und Seidendamaststicke. Mit Blumen- und Streifenornament. 18. und Anfang des 19. Jahrh.
+- 574
+- 575
+- Ein groBeres und verschiedene kleinere Goldstoffsticke. Aus verschiedenen Teilen zusammengesetzt.
+- 576 Konvolut von Samtsticken. Braun, fraisefarben und violett.
+- 577
+- 578 Konvolut verschiedener Stoffe. Samt, Seide und Seidendamast.
+- Sieben Sticke Seidenrips. Beigefarbig. Verschiedene GroBen.
+- Eine Anzahl von groBeren und kleineren Samtsticken. Streifenmuster auf blauem Grund.
+- Zwolf groBere und eine Anzahl kleinere Samtsticke. Purpurrot und rotbraun.
+- 579 Eine Anzahl roter Rupfenstoffe.
+- 580
+- 581
+- 582
+- Ein Stuick Tullspitze. Stilisierte Blumenbordure, Seidentuill.
+- Ein Stick Tullspitze. Efeubordire und Streublimchen, Seidentill.
+- Ein Stick Tuillspitze. Rosenbordire und Streublumchen.
+- 583 Ein Stick Tillspitze. Streubluimchen und stilisierte Blumenbordire.
+- 584 Drei groBe und vier kleine Spitzensticke. Zacken-- und Halbkreisornament in Rankenwerk. Lange 65 bzw.
+- 125 bzw.67cm,Breite 30 cm.
+- 585 Zehn Sticke Silber- und Goldspitzen und Borten.
+- 586 6Sieben Sticke Silber- und Goldspitzen und Borten.
+
+## Gobelins und Teppiche
+
+- Kriegsknechte. Den Hintergrund fillt ein Vorhanggehange, vermutlich Zeltwand. In blauen, grinen und roten Farbtonen.15.Jahrhundert. Beschadigt.60 x55 cm.
+- 588 Gobelin-Jagdbild. In der Mitte zwischen Strauchwerk ruhender Lowe, Wildschweine und Hunde. Rechts im Hintergrund geharnischte Ritter. Links drei sitzende,weibliche Gestalten. Durch groBblatteriges Baumwerk Aussicht auf eine im higeligen Gelande liegende Stadt. Breite Randbordire. In den oberen Ecken Nischenarchitektur,mit weiblicher Gestalt —Laodice —,unten in ahnlicher Art Bellorophon. Reiche Frichte- und wiegend grinen, blauen und braunen Tonen. Beschadigt. Erstes Viertel des 17. Jahrhunderts. Hohe 340 cm,
+- Breite 390 cm.
+- Gobelin-Parklandschaft. Hugeliger Grund mit Bach, an dessen Ufer groBe Baumgruppe und niedriges Gestripp. In blauen, grinen und braunen Tonen. Schmale Bordire mit laufendem Akanthusornament. Zusammengesetzt. Stark beschadigt. Flamisch. Zweite Halfte des 17. Jahrhunderts. Hohe 308 cm,Breite
+
+Abbildung Tafel 32.
+
+- 589 270cm.
+- 590 Stick einer Gobelinbordire. Frichte- und Blumenfestons in roten,griinen und gelben Tonen. Stark beschadigt. Erste Halfte des 17. Jahrhunderts. Breite 125 cm,Hohe 74 cm.
+- Entwurf zu einem Gobelin. Im Innenfeld Blumenwerk und Frichte, laufende Blumenbordire in grinen,roten
+- 591 und blauen Tonen.19. Jahrhundert. Lange 130 cm,Breite 115 cm.
+- 592 GroBer Teppich. Auf rotem Grunde drei gegiebelte Rechtecke mit Blumenwerk in Blau. Dreifache Randbordire mit Sternornament und laufenden Blumen. Kleinasien. 300 x 200 cm.
+- 593 GroBer Teppich. Mittelfeld mit drei von Hakenwerk gefuillten Rauten und geometrischen Vielecken in Blau,
+- 250×180cm.
+- 594 Dreifache Randbordire mit Zacken- und Blumenmuster. Kleinasien. 240 x 180 cm.
+- 595
+- 596
+- 597
+- Abbildung Tafel 31.
+- Teppich. Ahnlich dem vorhergehenden.240 x 180 cm.
+- GroBer Teppich.Rotes Mittelfeld mit vier von Hakenwerk gefillten Rauten in Blau und geometrischen Ornamenten. Vierfache Randbordire mit Blumen- und Zackenornament. Kleinasien. 370 x 200 cm.
+- GroBer Teppich. Im Dekor ahnlich dem vorhergehenden. Kleinasien. 265 x 220 cm.
+- 598 GroBer Teppich. Ahnlich dem vorhergehenden. Kleinasien. 280 X 240 cm.
+- 599 GroBer Teppich. In ahnlichem Dekor. Kleinasien. 290 x 220 cm.
+- 600
+- Stick eines Teppichs. In zwei Feldern auf blauem bzw. rotem Grunde groBstilisiertes Blumenmuster in bunten
+- Farben.Beschadigt. Kleinasien.145X 110 cm.
+- 601 Stick eines Laufers. Auf rotem Mittelfeld zwei Achtecke mit buntem Hakenwerk auf weibem, bzw. blauschwarzem Grunde. Dreifache Randborduire in ahnlichem Dekor.Orient. 145 x 135 cm.
+- 602
+- Kleiner Seidenteppich. Innenfeld von Blumen gefilltes Sechseck in WeiB auf rotem Grunde. Breite Randbordire mit Sternmuster auf rotem Grunde. Zentralasien. 150 x 95 cm.
+- 603
+- Gebetsteppich. WeiBer Grund mit von Blumen gefilltem Fliesenmuster. Finffache Randbordire auf grinem, rotem und blauem Grunde.Orient.150 x120 cm.
+e
+
+n
+
+，
+
+n
+
+1-
+
+-
+
+1,
+
+- 604 Gebetsteppich.Fraisefarbenes,gegiebeltes Mittelfeld, dreifache Randbordire mit Rankenornament auf blauem, Blumenwerk auf rotem und Zackenmuster auf weiBrotem Grund. Beschadigt. Orient. 140 x 115 cm.
+- 605
+- 606 Kleiner Teppich. Auf rotem Grund Hakenwerk in Gelb und Blau, dreifache Bordire mit Blumen und Ornamentwerk in Schwarz, WeiB, Grin und Blau. Kleinasien. Stark beschadigt. 170 x 125 cm.
+- Kleiner Teppich. Blaues Innenfeld, stilisiertes Blumenwerk in WeiB, Rot und Grin, dreifache Randbordire mit laufendem Blattwerk. Weiber Grund. Kleinasien. 145 X 100 cm.
+- 607 Kleiner Teppich. Innenfeld mit Streublumen in Rot und Blau auf gelbem Grunde, dreifache Randbordire mit
+- 608 Kleiner Teppich. Auf rotem Grund diagonallaufende Streifen mit Rautenornamenten in Blau, Gelb und WeiB.
+- Kleinasiatisch. Lange 96 cm, Breite 92 cm.
+- 609 Kleiner Teppich. Innenfeld drei Achtecke, mit Hakenwerk gefillt, in Quadraten. Dreifache Randbordire mit stilisierten Blumen in abgeblaBtem Gelb, Braun und Blau. Kleinasien. 200 x 100 cm.
+- in ahnlichem Dekor auf blauem Grund. Stark beschadigt. Kleinasien. 170 x 110 cm.
+- 610 Kleiner Teppich. Rotes Innenfeld mit stilisiertem Blumen-und Hakenwerk in Gelb. Zweifache Randbordire
+- 611 Kleiner Teppich. Beigefarbenes Innenfeld mit Rautenmuster in Blau und Rot. Dreifache Randbordire mit Hakenwerk auf hell- und dunkelblauem Grunde. Beschadigt. Kleinasien. 210 x 122 cm.
+- 613 Stick eines Teppichs. Innenfeld mit von Blumenwerk gefuillten Vielecken auf rotem Grund, siebenfache Randbordire mit laufendem Blumenmuster in Blau,Rot und WeiB auf blauem,rotem und weibem Grund. Beschadigt. Kleinasiatisch.120 x 115cm.
+- 612 Kleiner Teppich. Gelbes Innenfeld mit stilisierten, bunten Blumen, dreifache Randbordire. 120 x 95 cm.
+- 614 Fragment eines Taschenteppichs. Auf rotviolettem Grund rautenformiges Hakenmuster in Blau,WeiB, Braun,
+- Rot und Grin. Kleinasien. 39 x36cm.
+- Kleiner Taschenteppich. Streifenmuster mit fillhornartigen Ornamenten. Kleinasien. Lange 60 cm, Breite
+- 616
+- 615 32cm.
+- Zwei Kissen. Quadratisches Mittelfeld, mit Vielecken-und Hakenwerk in WeiB, Blau und Gelb gefuillt. Ahnliche Randbordire. Kleinasiatisch. 50 x50 cm.
+- Tirbehang. Vertikalstreifen in Gelb, Blau und Rot, mit Ornamentsticken. Schmalseiten mit Fransenbesatz.
+- 617 Beschadigt.Tirkisch.340 x 130cm.
+- 618
+- 619
+- Zwei Tirbehange. Neun Querrechtecke mit Hakenwerk in bunten Farben auf weibem, blauem, braunem, grinem und gelbem Grund. Gewirkt. Mit Fransenbesatz. Tirkisch. 350 x 82 cm.
+- 620
+- 621
+- bordiren,unterer Teil quadratisches, von Hakenwerk gefilltes Mittelfeld. Vierfache Randbordire mit stilisiertem Blumenwerk. Untere Schmalseite mit Fransen besetzt. Tirkisch. 320 x 130 cm.
+- Drei Tirbehange. Stuicke eines Teppichs. Auf blauem Grund stilisiertes Blattornament in Grin, Braun, Weib und Rot. Laufende Blumenbordire in ahnlichen Farben auf rotem Grund. Wollteppich, stark beschadigt. Tirkisch.a) 275x 100 cm,b) 295× 100cm.
+
+## Kostume und Kleidungsstucke
+
+- Kindermitzchen. Blumenstick in Silber und Jett, Goldborten und Spitzenbesatz.
+- 622
+- Mitra, violettes und schwarzes Barett.
+- 623
+- Narrenkapuze. Braunvioletter Wollstoff.
+- 624 Finf Kappchen und eine Narrenmitze. Roter und schwarzer Samt, grines und braungelbes Wolltuch.
+19. Jahrhundert.
+- 625 Funf Perlkronen. Blattwerk und Blumen in Silberfiligranarbeit, bunten Perlen und bunten Glassteinen.
+- 626 Sechs Haubchen. Filigranarbeit in Gold und Silber,Perlen und bunte Steine,zum Teil mit amt- und Spitzen-
+- 627 Vier spanische Baretts und ein Heroldshut. Schwarzer, roter und gelber Samt mit Schnirenwerk.
+- 628
+- besatz.
+- Acht Hite. Darunter bayerischer Zweimaster, Meraner Hut, Wallensteinhite, Schafer- und Patrizierhut.
+- 629 Konvolut. Zwei Fes,Tarnkappe, Lotsenhut, Gretchenhaube, bayerischer Birgerwehrhelm, bayerischer Be-
+- amtenhut, drei schwarze Frauenkappchen und groBer Schaferinnenhut mit Bandern.
+- 630 Zwei Atlaswesten. Streublimchen und reiches Blumenwerk in bunter Seidenstickerei auf weiBem Grunde. 18.Jahrhundert.
+- 631 Sechs Westen. Weibe und rote Atlasseide,zimmtbrauner und orangefarbener Wollstoff.
+- 632 Braune Samtweste, Teil einer Taille und zwei Miederjackchen. In blauem und fraisefarbenem Seidendamast.
+- Bauernmieder. WeiBer Seidendamast mit gelben Streublumen.
+- 633
+- 634 Bauernmieder. Violetter Seidendamast mit Tulpenmuster und Blattwerk,mit Goldapplikation; Silberhaken.
+- 635
+- Bauernmieder. Goldbrokat, geblimtes Seidenmuster, Silberhaken.
+- 636 Zwei Miederjackchen. Gelb und fraisefarbener Seidendamast, Streifen- und Rankenmuster.
+- 637
+- 638
+- 639
+- 640
+- Zwei Miedereinsatze. WeiBer Batist mit Kloppelspitzenbesatz.
+- Vier Miederjackchen. WeiBe und blaue Atlasseide, stark zerschlissen.
+- Zwei Spenzerjackchen. Brauner und braunvioletter Seidendamast mit schwarzem Schnirenwerk bzw. Goldborten.
+- Zwei Miederblusen. WeiBe Leinwand, rot gefaBt.
+- 641 Vier Blusenjackchen. Seidentaft,karminrot, kupferrot und braungrin schillernd.
+- 642 Jacke und Miederbluse. a) Violetter Samt. b) Roter, geblimter Seidendamast.
+- 643
+- Bluse. Violetter Samt mit Goldborten und weiBer Atlasseide. Gepufft und geschlitzt.
+- 644 Tirkisches Jackchen mit Fes. Roter Wollstoff mit Ornamentwerk.
+- 645 zer Tuill mit Rankenwerk, Zweigen und Schnirenapplikation. Beschadigt. Mitte des 19. Jahrhunderts.
+- Vier seidene Miederticher. a) Auf quadriertem Grunde Blattornament, weiBe Seide mit schwarzer Bordire. 66X 66 cm.-b) Blaue Seide mit Tupfenmuster. 47x47 cm.—c) Stern-und Blattornament auf rotem Grunde, doppelte Randbordire, Seidenfransen. 62 x 62 cm.—d) Auf rehbraunem Grunde Sternornament
+- 646 und Nelkenzweige, Seidenfransen.70 x70 cm.
+- 647 Sechs Schulterticher. Seidentill und Schleierstoff,zum Teil mit Blumenornament in WeiB, Rosa und regenbogenfarbig. Zum Teil mit Fransen besetzt. Lange 150 cm, Breite 45 cm.
+- 648 Damenkostim. Rock:WeiBe Ripsseide mit Blumen in bunter Seidenstickerei. Taille: Blauer Seidendamast, mit groBblumigem Ornament;roter Miedereinsatz. Armel mit Spitzenbesatz. Stoffe des 17. und 18. Jahrhunderts.
+- 649 Damenkostim. Grin und braun schillernde Seide, im Geschmacke des 17. Jahrhnderts.
+- 650 Damenkostim. Schlepprock, Uberrock und Puffarmelbluse. Atlasseide in Creme und Lila mit beigefarbenem Samtbesatz im Geschmack des 17. Jahrhunderts.
+- 651 Damenkostim.Elfenbeinfarbene Atlasseide,mit Laubstaben, Schniirenbesatz.
+- 652
+- Damenkostim mit Unterkleid. Fraisefarbene Atlasseide,Rock und zwei Taillen.
+- 653
+- 654
+- 655
+- 656
+- Zwei Damenkostuime. a) Gelbe Seide, Armel mit Seidenspitze.b) Mattblaue Seide. Empire.
+- Jacke und Beinklid.Zimmtfarbener,gebluimter Seidendamast,gepufft und geschlitzt,im Geschmacke des frihen 17. Jahrhunderts.
+- Jacke und Beinkleid. Brauner Wollstoff mit beigefarbenem Samt,weiBer Halskragen, sog. Wallensteinrock.
+- Landsknechtjacke mit Hose. Grin und schwarzer Wollstoff mit Schnirenwerk.
+- 657 Landsknechtskostim.Jackeund Hoseepufft und geschlitztroteund gelbeAtlasseideschwarzer und g Samt.
+- 658
+- Patrizierrock. Schwarz,mit Seidendamast- und Samtaufschlagen. Im Geschmacke des 17. Jahrhunderts.
+- 659 Stuick eines Heroldgewandes. WeiBes Leder mit Goldschniren, Metallbuckeln und Kettengehange.
+- 660 Teile eines Rittergewandes. Kettenbeinkleid, Sporen und Sticke der Ruistung.
+- Samtrock und Escarpins. a) Blauschwarzer Samtgrund, Streubluimchen in Hellblau und Silber.b) Seiden-
+- 661 taft, schwarzes Zackenmuster auf braungoldenem Grund. Ende des 18. Jahrhunderts.
+- 662 Bischoflicher Talar. Schwarz, violett gefaBt mit violetten Knopfen.
+- 663 Bischoflicher Talar. Rock, Ubermantelchen, Kapuze und Kragen.
+- 664 Teile eines Kardinalsrockes. Ubermantelchen und Kapuze, eines mit Pelzbesatz, und Schleppe.
+- 665 Altromisches Gewand. Roter Wollstoff, gemalte Bordiire auf Schwarz. Nachbildung.
+- 666
+- Narrengewand. Rechts schwarz, links rot.
+1.
+
+d- ir-
+
+re.
+
+m
+
+nt n-
+
+st,
+
+1r- des
+
+ck.
+
+ber rts.
+
+en-
+
+- 667 Ungarisches Hirtenkleid. Weibe Leinwand mit rotem Schnirenwerk und Jett.
+- 668
+- 669 Spanischer Mantelkragen.Violetter Samt, Ornamentbordire in Jett, Gehange.
+- 670
+- 671 GroBer Uberwurfmantel. Braunrotes Wolltuch, aus verschiedenen Teilen zusammengesetzt.
+- GroBer Mantelkragen. Beigefarbener Wollstoff, blau gefittert, mit Goldschnur.
+- 672 Mantelkragen.Roter Wollstoff.
+- 673 Stick eines Mantels. Kupferroter Samt, Blumenwerk in Goldjett.
+- 674
+- 675 Jacke und Hose. a) Blaues Tuch mit rotem Schnirenwerk. Zuavenjackchen.  b) Griner Wollstoff mit schwarzer Borte.
+- Ubermantel. Blauer Grund mit rotem Schnirenwerk und Litzenbesatz.
+- 676
+- 677
+- 678
+- Rock. Roter Wollstoff mit schwarzen Knopfen.
+- Mantel und zwei Jacken. a) WeiBer Wollstoff.b) und c) Roter Wollstoff, mit schwarzer Samtborte gefaBt. Im Geschmacke des 17. Jahrhunderts.
+- Samtjacke und langer Rock. a) Braungrin.—b) Rotviolette Seide, abgesteppt.
+- 679 Jacke und Hose. Grau bzw. graugrin mit aufgenahten, blauen Seidenbandern.
+- 680 Chorhemd. Mit breitem Tillspitzenbesatz.
+- 681 Armelloses Ubergewand. Braune, geblimte Seide, am Halsausschnitt Ranken- und Jettearbeit. Im Geschmacke des 16. Jahrhunderts.
+- 682
+- Zwei weiBe Hangekleider.
+- 683 Verschiedene Teile von Kleidungssticken.
+- 684
+- 685
+- Konvolut von Armelsticken. In schwarzem, gelbem und violettem Samt mit Ausputz.
+- Vier Trikots. Braunrot, gelbgrin, mausgrau und braungelb.
+- Facher. Fahne:Papier, Dame und Kavalier in Gartenlandschaft,kolorierter Kupferstich. Gestell Holz.
+- 686 Um 1830. Hohe24cm.
+- 687 Facher. Papier,weiBblaues Ornament, Holzgestell. Zweite Halfte des 19. Jahrhunderts.
+- 688 Facher. Papierfahne, Chinesenszene in Landschaft in Gold und Aquarell. Holzgestell. Zweite Halfte des 19. Jahrhunderts.Hohe 30 cm.
+- 689 Facher. Fahne Papier,vom Felde heimkehrender Bauer. Aquarellierter Kupferstich, Holzgestell. Mitte des 19.Jahrhunderts. Hohe 32 cm.
+- 690 Gestell Holz.19. Jahrhundert. Hohe 41,5 cm.
+- 691 Zwei Spitzenkragen mit Rickentuch. Blumenwerk in schwarzer und weiber Schnirenstickerei auf weibem bzw.blauem Grund.
+- Zwei Spitzenkragen.a) Sternrosetten, gehakelt.—b) Spinnwebenmuster mit Quadraten und Kreisrunden
+- 692 auf Drahtgestell.
+- 693 Kragen und Halskrausen.
+- 694 Drei Gold- und Silberstickereien. a) Stick einer Manipel, Silberapplikation auf Silberbrokat.—b) Vasenornament mit stilisiertem Blumenwerk und Vogeln, Gold auf schwarzer Seide.—c) Ranken und Blumen in Gold und Jett auf schwarzem Samt. b) 26 x 21 cm; c) 43 x 11 cm.
+- 695 Vier Girtelketten. a) Vierfach gebuckelte, durch Sformige Sticke zusammengehaltene Glieder. Eisen.17. Jahrmit Metallgliedern. Beschadigt.17. bis 18. Jahrhundert.81 cm lang.d) Bruststick,Metallglieder.17. Jahrhundert. 26 cm lang.
+- 696 Sechs Leibriemen. Zum Teil mit aufgelegten Metallornamenten.
+- 697
+- Konvolut von Quasten, Schniren und Fransen. 18.und 19. Jahrhundert.
+- 698 Ledertasche mit Umhangeriemen.
+- 699
+- Zwei Beuteltaschen. a) Schwarzer Rips. b) Braune Taftseide mit Straminstickerei.
+- 700 Zwei Ledertaschen.a) Mit Klappdeckel, innen verschiedene Facher. Guirtel gedrehte Eisenglieder und Leder-
+- Taschen. Inneneinrichtung und Verschlisse vollstandig erhalten. Deutsch. 16. Jahrhundert. 21 X 21 cm.
+- 701 Pilgerflasche. Birnformig. Holz.
+- 702 Vier Paar Handschuhe. Drei Paar Lederstulpenhandschuhe und ein Paar Samthandschuhe.
+- 703 Drei Haarkamme. Schildpatt. Spange mit durchbrochener Blatt- und Gitterwerkschnitzerei
+- 704
+- Vier Paar Schuhe. Schwarzes, weibes und gelbes Leder, buntes Strohgeflecht.
+- 705 Sechs Paar Pantoffeln. Weibe und rote Atlasseide, rotes Leder, violetter Samt und gelber Leinenstoff mit Seidenstickerei und Goldapplikation.
+- 706
+- Turnierschabracke. Decke und Kopfstick, roter Wollstoff mit Bandornament und aufgenahten Goldlitzen. Moderne Arbeit.
+
+## Bucher
+
+- 707 Allioli, Dr. Joseph Franz. Die Heilige Schrift des Alten und Neuen Testaments. Aus der Vulgata ibersetzt.
+- Landshut und Minchen, Vogelsche Verlagsbuchhandlung 1851. llustriert. Fol. Pbd.
+- Altlaun von Borrach.Kurtzer Begriff von allerley Krankheiten, Leibesbeschwerungen und anderen Accidentien.
+- 708 Nirnberg 1687,in Verlegung Johann Hofmann. 80.Pgbd.
+- 709 Die K. K. Ambraser Sammlung in ihren vorziglichen Ristungen und Waffen. Mit zahireichen Abbildungstafeln. Folio.
+- 710 Johann Michael Probst. Qu.-8o.Ung.
+- Anfangsgrinde im Zeichnen. a) Augsburg 1813. Bey den Gebridern Lotter. Qu.-8o.Ung.b) Augsburg.
+- 711 D'Armand, M. Les Amans Malheureux ou le Comte de Comminge.3.Aufl. Haage bei Pierre Gosse. 1755.
+- 80.Lbd.
+- 712
+- L'art par Tous-Encyclopedie de PArt Industriel et Decoratif. Jahrg. 1—18. A. Morel, Editeur. Paris 1861 bis 1879. Fol.Ung.in zwolf Mappen.
+- 713 Barozzi Jacob. Birgerliche Baukunst nach den Grundregeln der finf Saulenordnung. Von Jacob Barozzi von Vignola mit notigen Anmerkungen vermehrt von Johann Rudoif Fasch. Kon. Pohln. und Sachs. Ingenieurhauptmann. Nirnberg, verlegt bey Christoph Weigel und Adam Gottlieb Schneider 1782. 4o. Ppbd. Mit
+- finfzig Kupfern. Handschriftliche Einzeichnung und Jahrzahl 1792.
+- 714
+- Bartels, Bauer u.andere. Architektonische Entwirfe zu Pracht- und Civilgebauden, ausgearbeitet nach Motiven von F.v. Gartner. Zwei Abteilungen mit je 18 Blattern. Minchen 1846, Verlag von Emil Roller. Gr.-Fol. Pbd.
+- 715
+- Bartsch, Karl. Wolframs von Eschenbach Parzival und Titurell. Erster Teil. Aus der Sammlung Klassiker des Mittelalters. Leipzig, F.A.Brockhaus. 1870. 8o. Hlbd.
+- 716
+- Becker,Wilhelm Gottlieb. Augusteum,Dresdens antike Denkmaler enthaltend.Leipzig 1804,in Kommission bei C.A. Hempel und gedruckt bei G. J. Goschen. 3 Bande. Fol.,Pbd. Mit zahlreichen Abbildungen.
+- 717 Bergmann,Michael von.Beurkundete Geschichte der Churfirstlichen Haupt- und Residenzstadt Minchen. Minchen 1783. Gedruckt mit Votterschen Schriften. Mit Kupfern von J. Maag. Fol. Pbd.
+- 718
+- Birken, Sigmund von. Spiegel der Ehren des Hochstloblichsten Kayser- und Koniglichen Erzhauses Oesterreich (1212I519). Nuirnberg 1668, bey Michael und Johann Fridrich Endtern. Sechs Buicher in einem Band mit Kupfern von Philipp Kilian.Fol.Pbd.
+- 719
+- 720 Bockspergern Johann. Neuwe Biblische Figuren dep Alten und Neuwen Testaments. Frankfurt a. M.1664. Mit zahlreichen Holzschnitten. Unvollstandig. Qu.-Kl.-Fol. Schwlbd.
+- Boeheim, Wendelin. Handbuch der Waffenkunde. Leipzig 189o, Verlag von E. A. Seemann. Kl.-Fol. Hibd.
+- 721 Bouviers,M.P.L.Handbuch der Olmalerei fir Kinstler und Kunstfreunde. 6.Aufl. Braunschweig 1882, C.A.
+- Schwetschke und Sohn.Kl.-Fol. Pbd.
+- 722 Bralion, Nicolas de. Les Curiositez de lune et de lautre Rome. Seconde Partie. Paris 1659. Mit Titelkupfer
+- und Karte von G.Ladame. 8o. Lbd.
+- 723 Brandt, Johann Georg. Alphabete und Schriftmuster aus Manuskripten und Druckwerken verschiedener Lander vom I2.bis 19. Jahrhundert.Frankfurt a. M.1859,Verlag von H. Keller. 40 Abbildungstafeln,ungeb. Qu.-Fol.
+- 724 Braun,Gorg.Civitates orbis terrarum lber primustertiusquartusquintus.oln572618Mitzahlrichn handaquarellierten Kupfern von Georg und Jakob Hufnagel, sowie Franziskus Hohenberg. Gr.-Fol. Lbd.
+- 725 Braun,Heinrich.Anleitung ur guten deutschenSchreibart.Minchen1791,beyJosephLindauer8.Pbd.,gepret.
+- 726 Braun und Schneider. Zur Geschichte der Kostime. Minchen, Braun und Schneider. Nach Zeichnungen von
+- 727
+- W. Dietz, E. Frohlich, M. Gierymski, M.Heil, Andr. Miller,F.Rothbart,J. Watter. Fol. Pbd.
+- 728 BundesschieBen, VIl. deutsches. Miinchen 1881. Festzeitung fuir das VIl. deutsche BundesschieBen. Fol. Hibd.
+- Brunot. Anatomische Studien des Pferdes. Minchen, Aumiller. 16 Tafeln, ungebunden. Qu.-Fol.
+- 729
+- 730
+- Burkhardt, Jakob. Der Cicerone. Eine Anleitung zum Genuβ der Kunstwerke Italiens. Basel 1860, Schweighausersche Verlagsbuchhandlung. 8o. Hibldbd.
+- 731 Cacciaranciscus.rusalem eualaestina Nova oder dasvonChristoeu selbsten geliebtelobtbewohnte
+- Burnet, John. Prinzipien der Malerkunst. Aus dem Englischen ibersetzt von Adolph Gorling. Leipzig und Dresden,Verlag der englischen Kunstanstalt von A. H. Payne. Fol. Pbd.
+- nannte Heilige Land.Verlegt bei Christoph Lercher,Univ.Buchh.1706. Stark beschadigt,mit Kupfern.4.Pbd.
+- 733 Catalogue des Collections composant le Musee Royal D'Antiquites d'Armures et d'Artillerie Bruxelles). Brissel 1877, Bruylant-Christophe u. Cie. 8o. Pbd.
+- 732 Camerini, Eugenio. L' Inferno di Dante Alighieri. llustrato da Gustavo Dore. Mailand 1868. Verlag Edoardo Sonzogno. Fol. Ungeb.
+- 734
+- 735
+- 736 Chevrier. Histoire de la Campagne. Frankfurt 1758. Chez Knoch u. Esslinger. 8o. Lbd.
+- Catrou, Francois. Histoire generale de lempire du Mogol depuis sa fondation. Haag chez Guillaume de Voys. 1708.Mit Landkarte.80.Lbd.
+- De Chevigny. La Science des Personnes de la Cour. Tome premier. Augmentee de plusieurs Cartes de Mr. de Lisle. Amsterdam 1707. Chez Francois L'Honore. 8o. Lbd., gepreBt.
+- 737 Civilbaukunst, Ausfihrliche Anleitung zur. Verlegt und zu finden bei Joh. Christoph Weigel, Nirnberg. Drei Teile. Mit Kupfern von Paul Decker, G. D. Heumann,C. Reiff und Delsenbach. Fol. Pbd.
+- Das Concilium so zu Constantz gehaiten ist worden. Augsburg 1536, Heinrich Steyner. Mit zahlreichen Holz-
+- 739 Cranach,Lucas. Einunddreiβig Portrate sachsischer Kurfirsten. Gedruckt zu Wittenberg durch Gabriel Schnellholtz. 1563. Holzschnitte, zugeschnitten, zum Teil aufgezogen. Kl.4o. Pgbd.
+- 738 schnitten.Fol.Pbd.
+- 740
+- 741 Demmin,August. Die Kriegswaffen in ihren geschichtlichen Entwicklungen von den altesten Zeiten bis auf die Gegenwart. 4.Aufl. Zwei Bande. Leipzig 1893, P.Friesenhahn. Ilustriert. Fol. Hibd.
+- Demmin, August. Die Kriegswaffen in ihrer historischen Entwicklung von der Steinzeit bis zur Erfindung des Zindnadelgewehrs. Leipzig 1869,Verlag von E.A. Seemann. Illustriert. 4. Hibd.
+- 742 Dupont-Auberville, M. L'Ornement Des Tissus. Jahrg. 1876 und 1875. Paris, Bachelin Deflorenne éditeur.
+- 743 Direr, Albrecht.Oratio Dominica Polyglotta. Singularum Linguarum Characteribus expressa et Delinationibus Alberti Dureri cincta. Minchen 1808. Lithographische Anstalt J. Stuntz. Fol. Pbd
+- Fol. Ungeb.in einer Mappe.
+- 744 Direr, Albrecht. Triumphwagen Kaiser Maximilians 1. Drei Abbildungstafeln Photographien. Qu.-Fol
+- Leipzig 1782,im Verlag der Dykischen Buchhandlung. 8o. Pbd.
+- 745 Eckhard,Joh.Friedr.Biographie des berihmten jidischen Geschichtsschreibers Flavius Josephus,von im selbst.
+- 746 Ehrenpforte des Kaisers Maximilian I. Verlag von Adolf Holzhausen. Wien 18851886. Gr.-Fol. 36 Tafeln
+- 747 Eichler, C.Abbildungen der bronzenen Statuen,welche das Grabmahl Kaiser Maximilians 1.umgeben und in der Hofkirche zu Innsbruck aufgestelt sind. Innsbruck, bei Franz Unterberger. Fol. 26 Tafeln,ungebunden.
+- in einer Mappe. cf. Nr.794,807 u. 880.
+- 748 Ellmer.Die historischen Frescogemalde in den Arkaden des Koniglichen Hofgartens zu Minchen in 16 Bildern.
+- 749
+- Minchen, gedruckt und im Verlag bei J. M. Hermann. Gr.Fol. Pbd.
+- 750 Erasmus von Rotterdam. Paraphrases in omnes Epistolas Pauli in omnes Canonicas. Basel, im Verlag von Joh. Frobenius. 1521.Mit Holzschnitten.8o. Schwlbd.
+- Ellen. Neues Duisseldorfer Kinstler-Album. 1.und 2. Jahrg. Disseldorf und Lahr. Verlagsbuchhandlung von M.Schauenburg u. Comp. 4o. Pbd.
+- 217-220,223-226,231/32,384402,406-408,431/32,435/36,441/42,453-456,459-462,465/66,477-480, 487-492,495/96,551—554,565-568,593/94,606-614,631/32,705-708,715/16,737-742,805-808, 891-894,943-946,957/58,1007/8.1055-1060,1065-1070,1099-1100,1108-1114,1127/28,1131/32, 1146—1152,1165-1172,1197/98,1211 ff. Sonst sauber,gebunden iber Holz mit blind gepreBtem Schweins-
+- 751 leder, ornamentiert mit schmalen Streifen. Messingbeschlag. Fol.
+- 752 Falke,Jacob,und Eye,Dr.A.v.Kunst und Leben der Vorzeit vom Beginn des Mittelalters bis zu Anfang des
+19. Jahrhunderts. Drei Bande. Nuirnberg 1868, Verlag von Bauer und Raspe. Fol. Pbd.
+- 753
+- La Femme honneste victorieuse des Passions. A Lyon chez Antoine Cellier. 1661. Mit einem Titelkupfer. K1. 80.Pgbd.
+- Feuerwaffen, Quellen zur Geschichte der. Herausgegeben vom Germanischen Museum. 16O Abbildungstafeln
+- 754 in einer Mappe. Leipzig,F.A.Brockhaus 1877. Fol. Pbd.
+- Fincke, Gustav. Abbildung und Beschreibung von alten Waffen und Ristungen, welche in der Sammlung von
+- 755 Llewelyn Meyrick aufgestelt sind. Berlin 1836, G.Fincksche Buchhandlung. Fol. Pbd.
+- 756 Florenz — Finfundzwanzig Ansichten von . Florenz, bei L. Bardi. Kupferstiche handaquarelliert. Qu.-Fol.
+- HIbd.
+- 757 1812, chez les auteurs,au Louvre.72 Tafeln. Fol. Pbd.
+- 758 Fronsperger, Leonhart. Von kayserlichen Kriegsrechten,Malefiz und Schuldhandlen,Ordnung und Regiment. Gedruckt zu Frankfurt am Main bei Georg Rahen,in verlegung Sigmund Feyerabends und Simon Husters. 1566. Zehn Bicher in einem Bande mit 28 Holzschnitten. Handschriftliche Einzeichnung mit Jahrzahl 1607. Fol.Gepr. Schwldrbd.
+- 759
+- selben sich ehelich verpflichtet haben. Anno 1620. Mit Titelkupfer - das Kirchbergsche Fugger-Wappen und 127 Portrats, gestochen von Dominicus Custos,Lucas und Wolfgang Kilian. Augsburg 1619. Bey Sara Mangin Wittib. Fol. Perg.
+- 760
+- Gail, Wilhelm. Erinnerung an Florenz,Rom und Neapel. Minchen 1829, bei J. Dreseli. Finf Hefte mit je fuinf Tafeln. Fol. Ungeb.
+- 761 Gartner,F.v. Sammlung der Entwirfe ausgefuhrter Gebaude von F.v. Gartner.,Bibliothek und Archivgebaude in Munchen." Herausgegeben von der liter. artist. Anstalt der J. G. Cottaschen Buchhandlung. Gr. Qu.Fol.Pbd.
+- 762 Geschichte der deutschen Kunst. 1.Bd.:Geschichte der deutschen Baukunst von Dr. R. Dohme. 1887.— I1. Bd.:Geschichte der deutschen Plastik von Dr. W. Bode. 1885.—Ill. Bd.:Geschichte der deutschen Malerei von Dr.H. Janitschek. 1890.—IV. Bd.:Geschichte des deutschen Kupferstiches und Holzschnittes von Dr. C.v.Litzow. 1891.V. Bd.:Geschichte des deutschen Kunstgewerbes von Jakob v.Falke. 1888. Berlin, G. Grotesche Verlagsbuchhandlung.Fol. Lbd.
+- Gjolbaschi-Trysa. Das Heroon. Wien 1889. Druck und Verlag von Adolf Holzhausen. Radierungen von
+- 763 J. Groh. 34 Tafeln,ungebunden, in einer Mappe.Gr.-Fol.
+- 764
+- Gogniet, Leon. Nouveau Cours de Dessin. Paris, chez Francois Delarue. Gr.-Fol. Ungeb.
+- 765
+- Guicciardini,Francesco. La Historia d Italia.Venedig,bei Pietro Maria Bertano. 1616. 4o. Hpgbd.
+- Hamelmann,Hermann. Oldenburgisch Chronicon. Gedruckt zu Oldenburg durch Warner Berendts Erben.
+- 766 Anno 1599. Mit Titelkupfer und zahlreichen Holzschnitten. Fol. Schwlbd.
+- 767
+- Kleines Handbuchlein. Kempten, zu finden in der rollischen Buchdruckerei. kl. 8o. Lbd., gepreBt. In Futteral.
+- Harless,Dr.E.Lehrbuch der plastischen Anatomie fir akademische Anstalten und zum Selbstuntericht.Drei
+- 768 Bucher in einem Band. Stuttgart 1856, Verlag von Ebner und Seubert. Kl.-Fol. Hbd.
+- 769
+- Harrer, A Architektonisches Album. Zwei Lieferungen mit neun Abbildungstafeln. Lindau i. B. 1855,bei Ch. J. Stettner. Gr.-Fol. Ungeb.
+- 770 Gr.-Fol.Pbd.
+- 771
+- Hauberrisser, Georg von. Bildliche Darstellung des Minchener Rathauses. Minchen 1881. Jubilaumsausgabe
+- Hartel, Wilhelm Ritter von. Wiener Genesis. Wien 1894 und 1895, F. Tempsky. 52 Tafeln in zwei Mappen. Gr.-Fol.
+- 772 mit 25 photographischen Tafeln in einer Mappe. Gr.-Fol. Lbd.
+- Drei Haus- und Schreibkalender. a) Vom Jahre 1714. Minchen. 49. Pbd. Unvollstandig.—b) Vom Jahre 1759.Munchen,bey F. J. Thuille.40.Ungeb.c) Vom Jahre 1798. Landshut, bei F. S. Hagen.40. Ungeb.
+- 773 —d) Vom Jahre 1575. Nirnberg,bey Valentin Fuhrmann. 40. Lbd.
+- 774
+- Achtzehn Minchener Haus- und Schreibkalender aus den Jahren 1810, 1811,18241837, 184o. Miinchen,
+- 775
+- Achtzehn Haus-und Schreibkalender aus den Jahren 1823,1826,1828,1829-1844.Minchen,bey Fr.Seraph Hubschmann, Joseph Anton Finsterlin, Joseph Rosl. Kempten in der Rollschen Buchhandlung. 4o. Zum Teil ungebunden, Pbd.
+- 776
+- Zwolf Haus-und Schreibkalender aus den Jahren 18451855.Muinchen,in derFr.Ser.Hibmannschen Buch druckerei,bey Joseph Rosl.40.Pbd.
+- 777 Elf Haus- und Schreibkalender aus den Jahren 1846—1865. Muinchen, F. S. Hubschmannsche Buchdruckerei.
+- 40.Pbd.
+- 778 HautevilleEuvoi deHistoire deZenobiemperatriceReine dePalmyre.Haag5beyNikolausvanDaalen.
+- 80.Lbd.
+- 779 De la Haye,Johann Andreas. Publi Ovidi Nasonis Epistolae Heroidum.Wien 1731,Verlag Maria Magdalna Riedlin.8o. Lbd.,gepreBt.
+- Hefner,Otto Titan von. Die Wappen der Stadte und Maerkte des Koenigreiches Bayern. 20 Abbildungstafeln
+- 780 in einer Mappe. Fol. Pbd.
+- 781
+- Hefner, Otto Titan von. Heraldische Bilderbogen. Minchen,Verlag von J. N. Strixner. Ungeb.
+- 782
+- 783 Henne am Rhyn,Otto.Kulturgeschichte des deutschen VolkesBerlin 886,GGrotesche Verlagsbuchhandlung. Zwei Bande. Illustriert. Fol. Hlbd.
+- Buch der Heiligen AItvater. Gedruckt und volenndet in der keiserlichen Stadt Augspurg von Hansen Schobser 1492. Mit zahlreichen Holzschnitten, unvollstandig. 4. Pgbd.
+- 784 Hertel, Christian Gottlieb. Volstandige Anweisung zum GlaBschleifen wie auch zu Verfertigung derer Optischen
+- 785
+- Maschinen. Halle 1716. Zu finden in der Rengerischen Buchhandlung. Mit 20 Kupfern von Christ. Winkler. 80.Lbd.
+- Hilti, G.Die Waffensammlung S.K.H. des Prinzen Karl von Preuβen. Niirnberg. Verlag von S. Soldau. 100 Abbildungstafeln in 3 Mappen.Gr.-Fol.Pbd.
+- Himbsel, Johann Ulrich. Magazin der Baukunst besonders fur Teutsche. Miinchen 1814. 1. Heft. Funf Abbil-
+- 786 dungstafeln in einer Mappe. Gr.-Fol. Ungeb.
+- 787
+- La Historia Di Platina delle Vite de Pontefici,ove si descrivono le vite di tutti loro,per fino a Papa Georgio Xill. In Venetia, appresso Domenico Farri 1583. 8. Perg.
+- 788 Historie. Romische uB Tito Livio gezogen. Gedruckt und geendet in der loblichen Stadt Mentz durch vleiB Johann Schoffers Buchdrucker daselbst am sechste tagk des Monedts Marti 1505. Mit zahlreichen Holzschnitten, beschadigt.Fol. Schwlbd.
+- 789
+- Historien, Rhomische, Titi Livii deβ aller Hochberhimptesten Geschichtsschreibers. Getruckt in der Churfirstlichen Statt Meyntz durch J. Schoffers seligen Erben. 1557. Mit zahlreichen Holzschnitten,unvollstandig. Fol.Schwlbd.
+- 790
+- L'Horloge des Princes. Paris, chez Gabriel Buon, au Clos Bruneau 1588. 8o. Schwlbd.
+- Hormann, Ludwig von. Wanderung durch Tirol und Vorarlberg. Stuttgart, Druck und Verlag von Gebrider
+- 791 Kroner. llustr. Fol. Hibd.
+- 792 Hottenroth,Friedrich.Trachten,Haus-,Feldund Krigsgerathschaften der Volker Alter und Neuer Zeit. Stutgart 1884,Verlag von Gustav Weise. Zwei Bande mit Holzschnitten und je 120 Tafeln. Fol. Pbd.
+- 793
+- Hibsch, Heinrich. Architektonische Verzierungen fir Kinstler und Handwerker. Erstes Heft. Frankfurt a/M. 1823,bei Heinrich Ludw. Bromer. Gr.-Fol. Ungeb.
+- 795
+- 796
+- Grafen Leopold Gudenus vom Oberstkammereramt. Wien, F.Tempsky; Leipzig 18831916. 33 Bande. davon 27 gebunden.Vollstandiges Exemplar mit Beilagen.cf Nr.746, 807,880. llustriert. GrFolio. Hbd,
+- Idea Sanctatis,Vorbild der Heiligkeit.Augspurg 1697.Gedruckt bey Sebastian Hauser.Mit Kupfern.kl.8 Pbd.
+- Ig,Albert. Heraclius von den Farben und Kinsten der Romer. Wien 1873,Wilh. Braumiller. Kl.-Fol. Hlbd.
+- 797 Initium sapientiae timor domini. Minchen 1745, bei Johann Jacob Votter. 4. Pbd.
+- 798
+- 799
+- Journal fir Zimmer- und Dekorationsmaler. 1I. Jahrg. 2. Heft; IIl. Jahrg.2. Heft. Muinchen 1870, 1871 Verlag und Eigentum von Max Ravizza. 18 Tafeln, ungebunden. Fol.
+- 800 Kaden,oldmarDaschweierlandineommefhrt durchGbirgund al.tttgartVerlagvonn
+- JubinalAchillLa Armeria Real deMadrid.Parisaubureau des anciennes apisserieshistoires.Dessins de M. Gaspard Sensi. Gr.Fol. Hibd.
+- horn. Illustriert von A. CloB u.a.
+- 801 zwei Mappen.
+- Kobell, L. v. Kunstvolle Miniaturen und Initialen aus Handschriften des 4. bis 16. Jahrhunderts. Minchen,
+- 802 Verlag von Jos. Albert. 52 Abbildungstafeln in einer Mappe. Fol. Hlbd.
+- 803 Kohler,Karl. Die Trachten der Volker in Bild und Schnitt.Drei Bande. Dresden 1871,Verlag von Millr,
+- Klemm und Schmidt. Illustriert. Fol. Hibd.
+- 804 Kurtz, Georgius. Accessus ad Sacrificium Altaris et Recessus. Per totum annum quotidie alius, ad usum Cleri tum saecularis tum regularis ac commodatus opera ac studio R. P. Gregorii Kurtz in imperiali monasterio ord. S. Benedicti ad S. Michaelem Archangelum prope Bambergam Professi ac. p. t. Prioris. Bambergae apud Joannem Georgium Lochner 1748. Pars prima, alter tertia et quarta. 2 Bde. kl. 80. Gepr. Schwldbd.mit SchlieBen. Mit vier Titelkupfern. J. L. Molitor del. Bamb.
+- 805 Das Landeszeughaus in Graz. Leipzig 188O, F. A. Brockhaus. Mit zahlreichen Abbildungen. Fol. Lbd.
+- Lautensack, Heinrich. Des Cirkels und Richtscheyts auch der Perspektiva und Proportion der Menschen und Rosse kurtze doch grindliche underweisung. Frankfurt a.M. 1564, bey Georg Raben. Fol. Pbd. Mit zahl-
+- 806 reichen Holzschnitten.
+- 807 Leitner von. Freydal,Des Kaisers Maximilian I.Turniere und Mummereien. Herausgegeben unter der Leitung des k.k. Oberstkammerers Feldzeugmeisters Franz Grafen Folliot de Cremeville. Illustriert. Wien 1880 bis 1882.Fol.Pld.cf.Nr.746,794,880.
+- 808 Leitner Quirin. Die Waffensammlung des osterreichischen Kaiserhauses im K.K. Artillerie-Arsenal-Museum in Wien. Verlag von H. Martin. Wien 18661870. Gr.Fol. Lbd. Mit Zeichnungen von J. Fahrnbauer, C.Mangold, C. Poschinger,J. Schonberg, Schuman und Wolapensky.
+- 809 Liedersammlung aus den Jahren 18oo-18o6. Minchen.8o.Schwlbd.
+- 810
+- LohneiB, Georg Engelhardt. Bericht vom Bergwerk. Mit Kupfern von Jochim Wichman. Fol. Pgbd.
+- 811 1.K. H. Prinzessin Ludwig Ferdinand v. Bayern. Caritas. Minchen, Verlagsanstalt fir Kunst und Wissen-
+- 812
+- schaft vormials Friedr. Bruckmann.
+- Luther,Dr.Martin. Biblia das ist die ganze Heilige Schrift. Gedruckt und verlegt durch Johann Andreae Endters Seel. Sohne, Nirnberg 1693. Mit drei beschadigten Titelkupfern und zahlreichen Holzschnitten. Fol. Lbd, gepreBt.
+- 813
+- San Marte. Zur Waffenkunde des ailteren deutschen Mittelalters. Aus der Bibliothek der gesamten deutschen National-Literatur. Abt. 1l, Bd. IV. Quedlinburg und Leipzig 1867, Druck und Verlag von Gottfr. Basse. Kl.-Fol.Hlbd.
+- 814 Mayer,Heinrich von. Malerische Ansichten aus dem Orient. Lieferung 17. Munchen 1838,im Verlag Hein-
+- rich von Mayer. Ungeb. Qu.-Fol.
+- Megiser,Hieronymus. Iconologia Caesarum oder Summarische Keyser Chroniken Auβzug (von Julius Caesar
+- 815 aufgezogen.8o.Pbd.
+- 816
+- Meteranus, Emanuel von. Historia oder Eigentliche und warhaffte Beschreibung aller firnehmen Kriegshandel. Amsterdam 1605. 22 Buicher in-einem Band, mit Titelkupfer und handschriftlichem Anhang. Fol. Pgbd.
+- 817
+- Merz,Heinrich. Geschichtliche und Kinstlerische Erlauterungen zu L.Weissers Bilder-Atlas zur Weltgeschichte. Band 1. Schw.Hall und Leipzig. Band I1. Stuttgart 1868, Druck und Verlag v.Wilh.Nitzschke. Kl.-Fol. Pbd.
+- Merz,Heinrich —Weisser, Ludwig. Bilderatlas zur Weltgeschichte. Stuttgart 1860, Druck und Verlag von
+- 818 Wilhelm Nitschke. 143 Tafeln in einer Mappe. Gr.-Fol. Hibd.
+- 819
+- Metzger,Eduard. Minchener Wohngebaude. Erstes Heft. Muinchen. In Kommission bei Aumiller. Gr.-Fol. Ungeb.
+- 820 Missale secundum ritum Augustensis ecclesie diligenter emendatum et locupletatum. Dillingen 1555, bey Sebaldus Mayer. Mit Holzschnitten und handschriftlichem Anhang. Fol. Schwlbd., gepreBt.
+- Miller, Fr.Kinstlerlexikon. Die Kinstler aller Zeiten und Volker. Stuttgart 1857, Verlag von Ebner und
+- 821 Seubert.4Bande.Kl.Fol.Pbd.
+- Miller,G.Adolf.Vorgeschichtliche Kulturbilder aus der Hohlen und alteren Pfahlbauzeit.Bihl 1892,Verlag der
+- 822 Aktiengesellschaft Concordia. Mit elf Tafeln.Kl.-Fol. Hlbd.
+- 823
+- Mitterer, Hermann. Anleitung zur birgerlichen Baukunst und Bauzeichnung.2.Aufl. Minchen 1820. Im Verlage der lithographischen Kunstanstait bey der Feyertagsschule. Mit 20 Abbildungstafeln. Gr.-Fol. Ungeb.
+- Neureuther, Eugen. Randzeichnungen zu Goethes Balladen und Romanzen. 1. Heft. Miinchen, Stuttgart und
+- 824 Tuibingen 1829, im Verlag der J. G. Cottaschen Buchhandlung. Fol. Pbd.
+- 825 Neureuther, Eugen. Randzeichnungen zu Liedern von Dichtern der Gegenwart. Muinchen 1860. 12 Tafeln in einer Mappe. Fol.Pbd.
+- Kunstgewerbe in Original-Aufnahmen. Leipzig 1871—1875, Verlag von E. A. Seemann. 5 Bande. llustriert. Fol.Hlbd.
+- PalaisMaisons et auresdificesModernesDessines omepublies aaris98.Parischezucamp, de limprimerie de Baudouin. 16. Heft. Mit 100 Tafeln. Gr.Fol. Pbd.
+- Overbeck,J.ompejiin seinenGebuden,lertmern und Kunstweren.2andeipzig866,Verlagon 827 Wilhelm Engelmann. llustriert. Kl.-Fo. Hibd.
+- 828
+- 829
+- PenguillyHaridon.atalogudesColectioncomposant useedtillerarisChardeou 830 Freres.80.Pbd.
+- 11 Re Pastore. Minchen 1760, W.Franz Thuille. 8o. Ungeb.
+- 831 Perspectiva.Ein schon und nitzlich bichlein und Unterweisung der Kunst des Messens mit dem Zirkel,Richtscheidt oder Lineal. Zu Frankfort truckts Cyriakus Jacob zum Bart. 1546. Fol. Ppbd: Mit zahlreichen Holzschnitten.
+- 832
+- Pieiffer,Franz.Walter von der Vogelweide. Aus der Sammlung Deutsche Klassiker des Mittelalters.Leipzig 1870,F.A.Brockhaus. 80. Hlbd.
+- 833
+- 834 De Piles. Historie und Leben der berihmtesten Europaischen Mahler. So sich durch ihre Kunst-Sticke bekannt als eine Regel kann beurteilt werden. Wobey auch der Nutzen und Gebrauch der Kupferstuicke und Erklarung der Gebrauchlichen Mahler-Woerter. Verfertigt von Monsr. de Piles. Hamburg 17??, bey Benjamin Schillern. kl. 8o. Perg. Mit handschriftlichen Beilagen in lateinischer und franzosischer Sprache.
+- Photographische Aufnahmen.(Waffen, Ristungen usw.)
+- 835 Wien 1874.Wilhelm Baumiller Verlag. Kl.-Fol.Hlbd.
+- Fol.Lbd.
+- 836 Presuhn, Emil. Pompeji. Die Neuesten Ausgrabungen von 1874—1881. Leipzig 1882, T.O.Weigel. 2.Aufl.
+- 837
+- 838 Rassler,Maximilian. Heiliges Bayer-Land. Augspurg 1714,auf Unkosten Johann Caspar Bencards druckts Joh. Mich. Labhart. Mit zahlreichen Kupfern und Holzschnitten. Beschadigt. Fol. Lbd.
+- Prieres Saintes et Chrestiennes a Paris 1708. 80. Lbd.
+- Reber,F.von,und Bayersdorfer Ad.Klassischer Bilderschatz. Muinchen,Verlagsanstalt Bruckmann. Jahrg 1888,1889,1892,1893,1896,1897,1900 und Gesamtverzeichnis. Ungeb.in acht Mappen. Fol.
+- 839
+- 840 handlung. Drei Bande mit 100 Stahlstichen. Fol. bzw. 40.Pbd.
+- 841
+- 842 Rethel, Alfred. Ein Todtentanz. Leipzig,Verlag von Georg Wigand. 6 Tafeln in offener Mappe. QuFol.
+- Reichenbach,A. B. Neuester Orbis Pictus oder die sichtbare Welt in Bildern. Leipzig 1851, Baumgartners Buch-
+- Gebrider Reisach, Grafen von. Pfalz-Neuburgische Provinzialblatter. 3. Bd. Nordlingen in der Beckschen, Nuirnberg in der Lechnerschen und Neuburg in der Stottnerschen Buchhandlung. 1805. 8o. Lbd.
+- 843 Reveil. Musee de Peinture et de Sculpture ou Recueil des Principaux Tableaux Statues et Bas-Reliefs. Paris 1872, A Morel et Cie. 10 Bande. Illustriert. 40. Hibd.
+- 844
+- 845 Robertson, Wilhelm. Geschichte von Amerika.Aus dem Englischen ibersetzt von Joh.Friedr. Schiller.1. Band Leipzig 1777, bey Weidmanns Erben und Reich. Kl.-Fol. Hibd.
+- Rheinfahrt. Von den Quellen des Rheins bis zum Meere. Schilderungen von Karl Stieler, H.Wachenhausen, F. W. Hacklander. Stuttgart, Verlag von A. Kroner. llustriert. Fol. Lbd.
+- 846 Roo, Gerard de.Annales oder Historische Chronik der Durchleuchtigsten Fursten und Herren Ertzherzogen zu Osterreich. Innsbruck 1592. 12 Bicher in einem Band. Mit zahlreichen Holzschnitten. Beschadigt. Fol. Schwlbd., gepreBt.
+- 847
+- 848 Sacken,Eduard Frhr.von.Die K.K.Ambraser Sammlung.I. und 1lTeil in einem Band.Wien 1855,Wilhelm Braumiller. Kl.-Fol.Pbd.
+- Rziha, Franz. Studien iber Steinmetzzeichen. Wien 1883. Aus der K. K. Hof- und Staatsdruckeri. Fol.Pbd.
+- von Joh. Jacob Sandrart. Fol. Lbd.
+- 850 Sandrart, Joachim von. Teutsche Academie der Edlen Bau-,Bild- und Mahlerey-Kinste. Nurnberg Bey Jacob von Sandrart auch in Frankfurt bey Matthaeus Merian zu finden. 1675. Mit zahlreichen Kupferstichen. Fol. Pgbd.
+- Sandrart, Joachim von. Der Teutschen Akademie zweyter und letzter Haupttheil von der Edlen Bau, Bild- und Mahlerei-Kinste. Nuirnber Bey Jacob von Sandrart auch Michael und Johann Friedrich Endstein zu Frank-
+- 851 furt bey Johann von Sandrart zu finden. 1679. Mit zahlreichen Kupferstichen. Fol. Lbd.
+- Desgleichen. Mit zahlreichen Kupfern. Fol. Schwlbd., gepreBt.
+- 852
+- 853
+- 854
+- 855
+- 856
+- Desgleichen. Mit zahlreichen Kupferstichen. Fol. Lbd., gepreBt.
+- Scamozzi, Octave Bertotti. Les batimens et les dessins de Andre Palladio. Fuinf Bande. Vicenza 1786,bei Jean Rossi. Mit zahlreichen Kupfern. Gr.-Fol. Hibd.
+- Schau-Plaz Bayerischer Helden. In Verlegung Peter Paul Bleul in Nurnberg, gedruckt bei Stephan Rolken, Ottingen 1681. Mit Kupfern. 80. Lbd.
+- Scherr, Johannes. Germania. Zwei Jahrtausende deutschen Lebens. Stuttgart, Verlag von Spemann. Illustriert. Gr.-Fol.Hlbd.
+- 857 Schlichtegroll, Dr.Nathanael. Ein Beytrag zur Literatur der gerichtlichen Zweikampfe im Mittelalter. Minchen 1877, im Verlag der lithographischen Kunstanstalt bei der Feyertagsschule. Mit sechs Steindrucktafeln. Qu.-
+- Fol.Ungeb.
+- Schmid Hermann Karl Stieler. Aus deutschen Bergen. Stuttgart 1875,Verlag von A. Kroner. Illustrationen
+- 858 von G.Gloss,W.Die,A.v.Ramberg,K.Raupp,J.G.Stffan,Fr.Voltz,J.Watter.Fol. d.
+- Schonsperger, Hans. Der Heiligen Leben. Zweiter Teil. Augsburg 1501. Mit zahlreichen Holzschnitten, un-
+- 859 vollstandig.40.Schwlbd.
+- 860
+- Schratt, Johannes. La Danse des Noces par Hans Scheufelein. Paris 1865, Librairie Tross. Mit zahlreichen Holzschnitten.Fol.Lbd.
+- 861 Schrenk von Notzing, Jakob. Genealogie der Ambrasser. Innsbruck 1602. Mit Titelkupfer und 125 Portraten.
+- Schwabischer Kunst, Meisterwerke  aus der kunsthistorischen Abteilung der Schwabischen Kreisausstellung Augsburg 1886. Muinchen 1886,Verlag der Kunstanstalt von Jos. Albert. 33 Abbildungstafeln in
+- 862 einer Mappe. Fol.Pbd.
+- 863
+- Serlio Sebastianus. De architectura. Sex Liberi. Venedig 1663, per Combi e La Nov. Mit zahlreichen Holzschnitten.Fol.Pgbd.
+- 864 Sighart, Johann.Geschichte der bildenden Kinste im Konigreich Bayern von den Anfangen bis zur Gegenwart. Munchen 1862, Literarisch-artistische Anstalt der J. G. Cottaschen Buchhandlung. llustr. Fol. Hibd.
+- 865
+- Sipmann, G. Allgemeine Zeichenschule. Heft 3. Minchen, Literarisch-artistische Anstalt der J. G. Cottaschen Buchhandlung. 17 Tafeln,ungebunden. Gr.-Fol.
+- 866 Der Stammbaum des Allerdurchlauchtigsten Hauses Habsburg-Osterreich von Rudolf I. bis Philipp dem Schonen. Zum erstenmale herausgegeben durch das Lithographische Institut, Text von Alois Primisser. Wien. Sechs
+- Mappen mit je vier Bildnissen nach Originalgemalden der k. k. Ambraser Sammlung. Gr.-Fol. Ungeb.
+- 867 Stieler, Karl. Bilder aus ElsaB-Lothringen. Stuttgart 1876. Verlag von Paul Neff, Originaizeichnungen von
+- 868
+- Robert Assmus. Fol. Hlbd.
+- Stieler,Karl,Ed.Paulus,Wold.Kaden.Italien.Eine Wanderung von den Alpen bis zum Aetna.Stuttgart 1876,
+- 869
+- 870
+- Verlag von J. Engelhorn. Illustriert. Fol. Halbd.
+- Stoll, H.W. Die Gotter und Heroen des klassischen Altertums. Populare Mythologie der Griechen und Romer. II. Aufl. 2 Bande. Leipzig 1861,Druck und Verlag von B. G.Teubner. llustriert. 8. Hibd.
+- Sturm, Leonhard Christoph. Vollstandige Anweisung alle Arten von Kirchen wohl anzugeben. Augspurg 1718. In Verlegung Jeremiae Wolffens. Gedruckt bey Peter Detleffsen. Mit 19 Kupfern. Fol. Pbd.
+- 871 Sturm, Leonhard Christoph. Vollstandige Anweisung Regierungs-,Land- und Rath-Hauser wie auch KauffHauser und Borsen, stark,bequem und zierlich anzugehen. Augsburg 17i8. In Verlegung Jeremiae Wolffens,
+- Kunsthandlers, gedruckt bey Peter Detleffsen. Fol. Pappb. Mit 12 Kupfern, Carl Rembshart sculp.
+- 872 Sturm,Leonhard Christoph. Volstandige Anweisung,allerhand offentliche Zucht- und Liebesgebaude. Augspurg i720. In Verlegung Jeremiae Wolffens. Gedruckt bei Peter Detleffsen. Mit 15 Kupfern. Fol. Pbd.
+- 873 Sturm,Leonhard Christoph. Architektonische Reise. Anmerkungen zu der volstandigen Goldmannschen Baukunst. Augspurg 1760. In Verlag Johann Georg Hertels daselbst gedruckt bey Johann Jacob Lotter. Mit 48 Kupfern. Fol.Pbd.
+- Tatius, Achilles.Les amoures de Clitophon et de Leucippe. Haag, Isaac Beauregard 1735. kl.8. Lbd. 875
+- 876
+- Thausing,MoritzDirers riefeTagebicher und ReimeNebst einem AnhangevonZuschrifenan und f
+- 877 Durer. Wien 1872. Wilhelm Braumiller. Kl.-Fol. Hlbd,
+- 878
+- 879
+- Triumph des Kaisers Maximilian I. 137 Tafeln,ungebunden in einer Mappe. Wien 1883-1884,Druck und
+- ThomashardielodHlihifdealnund euneamnteIbrukiilpa Veith und Wolff. Fol. Schwlbd., gepreBt.
+- 880 Verlag von Adolf Holzhausen. cf. Nr.746,794,807. Gr.-Fol.
+- Nidern Bayrn. 1. Teil. Gedruckt zu Muinchen bey Johann Lukas Straub. Anno 1701. Mit zahlreichen Kupfern von Michael Wening. SchluBregister unvollstandig. Beschadigt. Fol. Lbd.
+- 881 Topographica,Historico  Descriptio —Das ist:Beschreibung deβ Churfirsten- und Herzogthums Ober-und
+- 882 2Turnierbilder.33 Holzschnitte.Qu.-Fol.
+- 883 Veith und Hauser. Musee des armes rares, ancienes et orientales de sa M.L'Empereur de toutes les Russies. Karls-
+- ruhe, bei J. Velten. Gr.-Fol.
+- 884 Vesalius Andreas. Zergliederung des menschlichen Korpers auf Mahlerey und Bildhauer-Kunst gericht. Augspurg 1706, gedruckt uhd verlegt durch Andreas Maschenbaur. Fol. Pgbd. Mit Holzschnitten.
+- 886 Warnecke, Friedrich. Heraldisches Handbuch. Gorlitz 1880, Verlag von C.A. Starke. Mit 313 Handzeich
+- 885 Viollet-Le-Duc, M.Dictionnaire Raisonne du Mobilier Francais de lepoque Carlovingienne a la Renaissance. Paris 1875,A.Morel u.Cie., Editeurs. 2.,5.und 6.Band. Illustriert. Kl.Fol. Hlbd.
+- nungen von Doepler d. J. und Lichtdruckabbildungen von S. Kovacsek. Fol. Hibd.
+- 887
+- Warnecke, Friedrich. Heraldische Kunstblatter nach im Kunstdruck usw. ausgefihrten Entwirfen von Martin Schongauer,Israel van Meckenem,Albrecht Direr,Virgil Solis,Jost Amman und anderen deutschen und auslandischen hervorragenden Meistern. 26 Abbildungstafeln in einer Mappe. Gorlitz 1876. Verlag von C.A. Starke. Fol.Pbd.
+- 888 Wedel, M. von. Zur See. Hamburg,Verlagsbuchhandlung und Druckerei-Aktien-Gesellschaft. Illustriert. Fol.HIbd.
+- 889 WeiB,Hermann.Kostimkunde. Handbuch der Geschichte der Tracht, des Baues und des Gerates der Volker des Altertums. Stuttgart 1860, Verlag von Ebner und Seubert. 2 Bande. Kl.-Fol. Pbd.
+- 891 WeiB,Hermann.Kostimkunde. Geschichte der Tracht und des Gerates vom I4.Jahrhundert bis auf die Gegenwart.
+- 890 WeiB, Hermann. Kostimkunde. Geschichte der Tracht und des Gerates im Mittelalter vom 4.bis zum I4. Jahrhundert. Stuttgart 1864, Verlag von Ebner und Seubert. Illustriert. Kl.Fol. Pbd.
+- Stuttgart 1872,Verlag von Ebner und Seubert. 2 Bande. llustriert. Ki.-Fol. Pbd.
+- 893 Getruckt zu Frankfurt a. M. bey Christ. Egen Erben. 1595. Mit zahlreichen Holzschnitten. Fol. Pbd.
+- 892 Wening,Michael.58Prospekte von Stadten,Klostern und Schlossern aus M.Wenings Topographia.1701.Zum Teil aufgezogen. Fol.
+- 894 Westenrieder. Beschreibung der Haupt- und Residenzstadt Minchen (im gegenwartigen Zustande). Minchen 1782, bey Johann Baptist Strobl. 8o. Hlbd.
+- stadt 1784. Verlegt bei M. J. von Widmer und J. Ant. Zimmermann. Mit verschiedenen Kupfern. Kl.-Fol. Ungebunden.
+- 895 Widmer, M. J.von. Domus Wittelsbachensis Numismatica. Erster Band,erstes Heft. Minchen und Ingol-
+- 896 Wiebeking,Ritter von.Les Cathedrales de Reims et deYork.Minchen 1825.Mit 12Kupfertafeln.Fol.Ungeb.
+- 898 vornehmer Leute beeder Geschlechts.Frankfurt 1668. In Verlegung Wilhelm Serlius. Mit Holzschnitten und
+- 897 Finizehn Zeichenvorlagen aus verschiedenen Werken.
+- Titelkupfer.8o.Pgbd.
+- handlung. Mit Originalfederzeichnungen von P. N. Geiger. Fol. Pbd.
+- 8992
+- Thibault, J.T.Anwendung der Linien-Perspektive auf die zeichnenden Kinste. Nirnberg 1834,bei Johann Leonhard Schrag.Fol.Pbd.
+## Varia
+
+- 900 Wappen, wohl von einem Kirchenstuhl. Alliancewappen. GlockengieBer und unbekanntes Wappen. Roter
+- Grund. Jahreszahl 1567 in DreipaB. Suddeutsch von 1567. Olmalerei auf Blech. 22 x 21 cm.
+- Ratsdekret gegen Vollerei und Trunksucht aus dem Jahre 1619. Qu.-Foll. Papier.
+- 901
+- 902 Schmuckkastchen. Auf vier profilierten Fuben abgeschragter Sockel, rechteckiger Kasten; Vorder-und Hinterwand jezweiSeitenwand je ein vertieftes Feld.Uberstehender Deckel mit zwei vertieften Feldern.Elfenbein belag, die Felder und der Sockel mit Ebenholz eingefaBt. SchloB an der Vorderseite. Deutsch. 17. Jahrhundert.17,5 cm,Hohe Breite 23 cm,Tiefe 14 cm.
+- 903
+- Tafel mit Lebensregel. Malerei in Gestalt eines aufgeklappten Buches mit der Regula vitae. Mit langerer Erklarung. Deutsch. 17. Jahrhundert. Olmalerei auf Holz. Hohe 42 cm, Breite 61 cm.
+- Mandoline. Sechssaitig. Das Griffbrett mit reicher Einlegarbeit, Schiltpattblumen auf Elfenbeingrund.
+- 904 Schnecke geschnitzter Frauenkopf. Italien. 17. Jahrhundert. Hohe 100 cm.
+- 905 56 cm,Breite 40 cm.
+- 906
+- Zwei Bucheinbande. Holzdeckel mit gepreBtem, weiBem Pergamentuberzug mit zwei SchlieBen.
+- 907 Buchdeckel. Leder mit gepreBten Blattornamenten, Beschlagewerk in Metall, versilbert. Engelskopfe zwischen Akanthuswerk, Madonna im Strahlenkranz, von Engeln gehalten. Deutsch.17. Jahrhundert. 35 x 24 cm.
+- 908 Zwei Sticke einer Ledertapete. Tulpenmuster und Akanthuswerk in bunten,vergilbten Farben auf Goldgrund. 17.Jahrhundert.
+- Konvolut von Ledertapeten. Darunter ein groBes Stick. Stilisiertes Tulpenornament mit Palmenzweigen und
+- 909 und Gold auf Silbergrund.17. Jahrhundert. 81 X 150cm.
+- Konvolut von Ledertapeten. Sechzehn Sticke in verschiedener GroBe, figuirliche Darstellungen, Blumen,
+- 910 Ranken,Vogel in bunten Farben gepreBt und aufgemalt. 17. bis 18. Jahrhundert.
+- 911 Vier Sticke einer Ledertapete. Stilisiertes Akanthusornament und Gitterwerk in Silber, Gold und Stahl. Blau auf rotem Grund. 18. Jahrhundert.
+- 912 Funf Sticke einer Ledertapete. GroBstilisierte Blumen und Akanthuswerk in Kupfergold, Silber und Stahl.
+- 913
+- Blau auf braunem Ledergrunde. 18. Jahrhundert. 120 x 55 cm.
+- Taglohnsordnung der Stadt Minchen aus dem Jahre 1733. Gr.-Fol. Papier.
+- Doktordiplom fuir Johann Caspar Linser aus Landegg. Ausgestellt von der juristischen Fakultat Innsbruck.
+- 914 1757. Handschrift, Pergament. Fol., in Samt gebunden mit Sigillum.
+- 915 Viola d'amour. Sechssaitig,elf Schrauben, Schnecke geschnitzter Engelskopf mit verbundenen Augen. Schall locher geschweift. Italien. 18. Jahrhundert. Lange 76 cm.
+- 916
+- Tamburin. Messingreifen mit Schellen und Tschinellen. 18. Jahrhundert. Durchm. 32,5 cm.
+- 917
+- Holzstock. Plan von Muinchen. Ende des 18. Jahrhunderts. 8:6,5 cm.
+- 918 Aschenbecher. An einem hohlen Baumstamm sitzender Gnom. Zwischen den FuBen ein offener Sack.
+- Deutsch,um 1850. Hohe 19 cm.
+- Anschreibtafel. Hochrechteckig, mit leicht ausladendem Gesims und geschweiftem Aufsatz. Holzintarsia.
+- 919 Zweimal aufklappbar, mit drei Schiefereinsatzen. Hohe 50 cm, Breite 45 cm.
+- Minzen- und Plakettensammlung. Galvanos. 106 Plakettenabguisse. Verschiedene geistliche und weltliche Fursten, Kinstler und berihmte Manner und Frauen des 15. bis 19. Jahrhunderts. AuBerdem ein GipsabguB
+- 920 und drei ovale Rahmchen. In Holzkasten mit zwolf Fachern.
+- 921 Freimaurertasche.In Futteral.
+
+Hugo

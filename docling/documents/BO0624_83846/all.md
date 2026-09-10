@@ -1,0 +1,229 @@
+## CONDITIONS DE LA VENTE
+
+Elle sera faite au comptant.
+
+Les adjudicataires paieront dix pour cent en sus des encheres.
+<!-- image -->
+
+## Objets d'Art &amp; d'Ameublement
+
+DU XVIIIe SIECLE
+
+- 1—PAIRE DE vAsEs couvERTs, forme Medicis,en ancien biscuit de Sevres, pate tendre, entierement decores en blanc sur fond bleu clair, de bas-reliefs a sujets mythologiques dans le gout de l'antique; la panse renflee est ornee de feuillages et de rinceaux; le piedouche, a moulures avec canaux, est enrichi d'ornements divers; les anses ajourees sont a double mascaron, et les couvercles a feuilles sont surmontes d'une pomme de pin. Socles en marbre blanc.
+
+Haut.,57 cent.
+
+- 2—CoMMoDE DU TEMPs DE LoUIs XV, ouvrant a trois tiroirs, en bois de placage. Elle est ornee, sur ses trois faces, d'encadrements a rinceaux et feuillage, avec poignees de tirage et entrees de serrure sur la facade, en bronze cisele et dore. Elle porte, sur le pied anterieur gauche, l'estampille du maitre ébeniste Delorme.
+- Dessus de marbre blanc moderne.
+
+Haut., go cent.; larg, I m.10.
+
+2
+- 3—TABLE A JEU DU TEMPS DE LoUIs XVI, de forme
+- triangulaire, dite chapeau de cure, a quatre pieds, forme gaine, dont un mobile destine a supporter la moitie du dessus se rabattant a charniere. Elle est en marqueterie de bois de placage de couleur, avec medaillons a feurs sur le dessus et entrelacs sur la ceinture.
+
+Larg, I m.25.
+
+- — DEUX CONSOLES D'APPUI DU TEMPS DE LoUIS XVI, en bois sculpte dore, composees dans le gout de De Lafosse. Un trophee d'attributs militaires est retenu par une chaine a un tronc d'arbre, dont le feuillage s'épanouit pour supporter la tablette, de forme demi-circulaire mouluree a feuille d'eau, entrelac et ove. Dessus de marbre blanc veine.
+
+Haut.,93 cent.;larg.,67 cent.
+
+- 5 — CoMMoDE DU TEMPs DE LouIs XVI, en bois de placage,
+- ouvrant a trois tiroirs, avec partie saillante sur le devant. Le tiroir superieur, plus bas que les deux autres et separe d'eux par une astragale, est ornee d'une frise de feuillage en bronze cisele. Chutes sur les cotes, entrees de serrure et autres ornements de meme matiere. Elle porte, sur le pied posterieur gauche, 1'estampille du maitre ebeniste Riesener. Dessus de marbre blanc.
+
+Long.,I m.33.
+## MEUBLES
+
+## COUVERTS EN ANCIENNE TAPISSERIE
+
+- 6— AMEUBLEMENT DE SALoN en ancienne tapisserie de la MANUFACTURE ROYALE DE BEAUvAIs, de lepoque Louis XV, compose de neuf pieces : un canape et huit fauteuils.
+
+Le canape offre, au siege et au dossier, sur un fond de paysage encadré de guirlandes et de torsades de fleurs sur contre-fond rouge, trois groupes d'animaux a sujets tires des Fables de La Fontaine. Sur le dossier, a gauche, le Loup et la Cigogne; au milieu, le Coq et la perle; a droite, le Singe et le Chat. Sur le siege, a gauche, le Renard et les raisins; au centre, le Singe et le Dauphin ; a droite, le Renard et la Cigogne.
+
+Chacun des fauteuils offre une disposition analogue, mais avec un seul sujet au siege et au dossier; parmi les sujets representes se voient : le Lievre et la Tortue, le Renard et le Corbeau, l'Aigle et le Hibou,etc. Belle conservation.
+
+Bois anciens Louis XVI, redores, a dossiers rectangulaires et partie superieure cintree, les accotoirs en forme de balustres, avec cannelures en spirales. Ils portent 1'estampille : C. J. V. M.
+
+Longueur du canape, I m.95. Hauteur du canape,1m.o5. Largeur de chaque fauteuil,63cent. Hauteur dechaque fauteuil,g3cent.
+- 7—AMEUBLEMENT DE SALoN en ancienne tapisserie d'AuBussoN du temps de Louis XVI, compose de neuf pieces :un canape et huit fauteuils.
+
+Le canape offre au dossier, sur fond de paysage, une composition pastorale d'apres un carton de J.-B. Huet : groupe d'enfants jouant avec une chevre, a gauche, et enfant berger suivi deux moutons, a droite. Le sujet est encadre,a la partie superieure, d'un lambrequin a draperie enguirlande de feurs, et, sur les trois autres cotes, de rinceaux feuillages. Le siege represente une chasse au sanglier force par des chiens, dans un fond de paysage, avec encadrement sur trois cotes, de rinceaux enguirlandes, et, en bas, d'un lambrequin a draperie avec torsades fleuries.
+
+Chacun des fauteuils, de disposition analogue, offre sur le dossier un sujet a personnage et sur le siege une composition avec animaux, tiree des Fables de La Fon- taine.
+
+Belle conservation.
+
+laires avec colonnettes, accotoirs en forme de consoles et pieds canneles.
+
+Bois de style Louis XVI, dores, a dossiers rectangu-
+
+Longueur du canape, 1 m.85. Hauteur du canape,1 m.15, Largeur de chaque fauteuil, 6o cent. Hauteur de chaque fauteuil, g5 cent.
+
+- 8—AMEUBLEMENT DE SALON LoUIs XVI, en ancienne
+- tapisserie d'AuBussoN, compose d'un canape et six fauteuils a dossier-medaillon. Les dossiers et sieges offrent, dans des motifs a draperie, soit des animaux, soit des personnages, sur fond de paysage a sujets tires des Fables de La Fontaine.
+## TAPISSERIES
+
+N°9
+
+Tapisserie de la MANUFACTURE ROYALE DES GOBELINS, du temps de Louis XV, faisant partie de la tenture :
+
+## L'HISTOIRE DE DON QUICHOTTE
+
+et represente : Don Quichotte consulte la teste enchantee chez Don Antonio, d'apres CH. COYPEL.
+
+Le sujet, formant tableau,est dans un encadrement simulant le bois dore et pose sur un fond damasse a carrelage jaune passe, ton sur ton. L'alentour (le deuxieme execute aux Gobelins pour cette tenture) offre, en haut, un paon ; par cote, des guirlandes de feurs, avec des singes et la lance du heros; sous le tableau est un bouclier avec un guerrier en camaieu, accompagne de cornes d'abondance, de trophees de drapeaux et de motifs feuris, au centre desquels se voient, a gauche, un chien;a droite,un mouton. Enfin, dans un cartel inferieur, on lit, en lettres d'or sur fond bleu, le titre du tableau.
+
+d'Orleans, pour qui cette tenture parait avoir éte executée.
+
+La bordure, simulant un cadre a quadrilles et rosaces, présente aux angles superieurs les deux L entrelaces, chiffre du Duc
+
+Dans le bas, a droite, la signature du tapissier : Audran.
+
+Belle conservation.
+## 3° Le Tir a l'arc.
+
+Un tireur, assis au pied d'un arbre et tenant son arc, regarde son compagnon qui saute a la corde.
+
+Haut., 2 m.8o; larg., 1 m.2o environ.
+
+## 4° La Danse champetre.
+
+Un menetrier accompagne de son violon un couple de villageois se livrant au plaisir de la danse.
+
+Haut., 2 m.8o; larg., 1 m.o5 environ.
+
+N°10
+
+Suite de quatre Tapisseries s anciennes de la MANUFACTURE ROYALE D'AUBUSSON, representant :
+
+## LES PLAISIRS CHAMPETRES
+
+Bordure formant encadrement a orne- ments et guirlandes de fleurs.
+
+## 1° Le Colin-Maillard.
+
+Dans un enclos, au milieu d'un parc, deux jeunes femmes lutinent un jeune homme, qui, les yeux bandes, cherche a les
+
+Haut., 2 m.8o; larg., 2 m.3o environ.
+
+saisir.
+
+## 2° La Main-Chaude.
+
+Sur un banc de pierre, dans un coin de jardin, un groupe de jeunes gens jouent a la main-chaude ; a droite, deux jardiniers placent des fruits dans un panier; au centre, une porte ouverte laisse apercevoir un parc avec monument.
+
+Haut., 2 m.8o; larg., 2 m.35 environ.
+N°11
+
+## Tapisserie ancienne d'AUBUSSON a paysage anime de figures.
+
+Dans un parc, un chasseur tire des oiseaux; pres de lui, assis sur l'herbe, un enfant presente un roseau a une jeune femme; a droite, un adolescent tient par la bride le cheval du chasseur.
+
+Haut.,2 m.35;larg.,2m.5o environ.
+
+<!-- image -->
+<!-- image -->
+
+## TABLEAUX ANCIENS
+
+## BEYEREN
+
+(EcOLE D'ABRAHAM VAN)
+
+DEUX PENDANTS
+
+N°12
+
+## Nature morte.
+
+Sur une table recouverte d'une draperie, des huitres, des poissons et un morceau de saumon; derriere, au fond, posee sur une barrique, une tranche de poisson dans un plat de terre.
+
+Toile.Haut.,85 cent.;larg., 68 cent.
+
+N°13
+
+## Nature morte.
+
+Dans un plat d'etain pose sur un entablement de pierre,un lot de poissons; au fond, derriere, une bourriche d'huitres.
+
+Signe du monogramme : F. V. M.
+
+Toile.Haut.,85 cent.; larg., 68 cent.
+## CUYP
+
+(ALBERT)
+
+Dordrecht,r6o5-16gi.
+
+N°14
+
+## Portraits des enfants du Stathouder,
+
+## Prince d'Orange.
+
+Au premier plan,un enfant blond, le frere aine, vetu a lorientale d'un costume rose eteint a broderies d'or, le cou enveloppe d'une écharpe de soie bleue a glands gris et bleu, les jambes nues; chausse de cothurnes, tenant par les pattes de derriere deux lapins que lui remet son cadet, qui, debout, a gauche,coiffe d'une toque noire échancree, vetu d'une tunique de velours brique a creves blancs sur. les manches, est chausse de demibottes de cuir noir; un sac de buffle pend a son cote droit; a droite, et tout pres d'eux, apparait une chevre blanche, derriere laquelle le plus jeune frere s'appuie en souriant; devant eux, a droite, tout a fait au premier plan, une jeune fille assise sur un tertre, la chevelure blonde ornee d'une chaine de perles; elle porte un collier a double rangee de perles au cou, surmonte d'un bijou retenu par une chaine sur la poitrine; elle est vetue d'une robe de satin blanc brodee d'or, a manches rayees de bandes vertes et jaunes; elle tient de la main droite sur ses genoux un chapeau de paille feuri; elle se penche legerement et prend de la main gauche a terre, une gourde; derriere cette scene,a droite, un epais massif se detachant sur un ciel bleu aux vapeurs grises.
+
+Rare et important specimen du maitre, signe en bas, vers le milieu.
+
+Toile.Haut.,1 m.38;larg,1 m.59.
+
+Provient des collections du Prince de Soubise et de Rosenbraun de Hollande,au XVIIIe siecle.
+## DU POUCH
+
+(MAITRE DU PASTELLISTE LA TOUR)
+
+N°15
+
+## Portrait de femme.
+
+Vue de trois quarts vers la gauche, elle regarde le spectateur; la physionomie fine, elle porte une petite coiffure poudree a frimas, une petite coque de dentelle noire piquee sur la droite, et au cou un noeud de satin noir orne d'un diamant et dont les rubans tombent sur la poitrine, et termines par une boucle de diamant; elle porte un corsage decollete de soie bleu lapis a empiecement brode d'or, de larges noeuds blancs ornent sa poitrine, une draperie de soie rose retenue sur son epaule droite; a sa gauche, un rideau de velours vert ramene sur une balustrade de pierre.
+
+Signe et date en bas, a gauche : 1743.
+
+Toile. Haut., go cent.; larg, 75 cent.
+
+## GRIMOU
+
+(JEAN-ALEXIS) 1680?-1740
+
+N°16
+
+## Portrait d’une jeune fille.
+
+Vue a mi-corps, appuyee sur un entablement de pierre, la tete de trois quarts, legerement penchee vers la droite, le corps de face, sa chevelure rousse aux reflets blonds relevee en arriere et retenue au sommet, a gauche, par un nceud de velours lie de vin; elle est vetue d'un corsage de velours vert bronze a crevés de satin blanc sur les épaules; appuyée gracieusement de la main gauche, elle retient de la main droite un voile de gaze blanc sur sa poitrine.
+
+Peinture d'infuence rembranesque aux colorations francaises.
+
+Signe et date en bas, a gauche.
+
+Toile.Haut.,81 cent.;larg., 65 cent.
+## PANINI
+
+(ATTRIBUEAJEAN-BAPTISTE)
+
+N°17
+
+## Les Ruines d’un palais italien:
+
+Au premier plan,a gauche, un portique envahi par la mousse; a droite, assis et debout, des faunes se jettent des pierres; plus loin, a droite, un temple, une pyramide, et, tout au fond, l'arche d'une ruine derriere des broussailles, le tout se detachant sur un ciel bleu orne de nuages blancs.
+
+Toile. Haut., 1 m. 2o; larg., 90 cent.
+## RUBENS
+
+(ATTRIBUEAPIERRE-PAUL)
+
+N°18
+
+## Portrait du cardinal Infant Don Ferdinand d'Espagne.
+
+Il est represente dans un encadrement ovale de pierre, en buste, de trois quarts vers la gauche, coiffe d'un feutre a larges bords releves; sa chevelure frisee est blond d'or, ses yeux regardent le spectateur;il porte une fine et longue moustache blonde, un col de batiste a guipure orne son cou ; il est vetu d'une
+
+Le dessin du visage, tres precis, fait contraste avec les accessoires tres largement peints,et un ceil experimente y reconnaitra l'influence du grand maitre Velazquez.
+
+cuirasse traversee d'une écharpe de soie cerise.
+
+NoTa. — Cette peinture doit etre l'etude du grand portrait équestre de ce prince, elle fut acquise en 18o4 et faisait partie de la collection du Comte de Schcenborn, potentat d'Allemagne.
+
+Toile. Haut., 68 cent.; larg., 58 cent.
+
+<!-- image -->

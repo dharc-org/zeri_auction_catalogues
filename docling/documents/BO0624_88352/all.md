@@ -1,0 +1,1832 @@
+## Alabaster, Irdengut, Steinzeug und Steingut
+
+- Vase. Runder FuB, eiformiger schlanker Korper, eingezogener, leicht ausladender Hals. Auf der Bauchung Akanthuswerk, Lorbeerkranz, Lyra und Fillhorner in Relief. Alabaster. Um 1820. Hohe 33 cm.
+- 2 5,5 cm,5cm.
+- 3
+- 4 Desgl. Walzenformig. Buntfarbiges Tulpenornament auf blauem Grund. Rozenburg. 19. Jahrhundert.
+- sierte Blumen und Bandornamente. Marke. Rozenburg. Ende 19. Jahrhundert. Hohe 16 cm.
+- Hohe 51 cm.
+- 5 Zwei Vasen. Runder,abgesetzter FuB, schalenformige Leibung,verengter Hals, doppelhenkelig. Bunter Dekor:
+- 9 Desgl. Kugelformige Bauchung, Enghals,ausladender Rand. Bunter Dekor: Auf blauem bzw. braungruinem Grund groteske Drachenfiguren. Marke. Rozenburg. Ende 19. Jahrhundert. Hohe 30 cm.
+- Stilisierte Blumen. Marke. Rozenburg. Ende 19. Jahrhundert. Hohe 23,5 cm.
+- 7 Sechs Schaien. Runder ScheibenfuB, schlanker Schaft, weite,doppelhenkelige Schale. Bunter Dekor: Stilisierte Blumen, Schmetterlinge und Ornamente. Marke. Rozenburg. Ende 19. Jahrhundert. Hohe 12 cm, Diam.10,5 cm.
+- 8
+- Blumenschale. Oval, kugelbauchig, gerader, eingezogener Hals. Bunter Dekor: GroBstilisierte Blumen und Ranken. Rozenburg. Ende 19. Jahrhundert. Hohe 23 cm, Breite 29 cm, Lange 40 cm.
+- 9 Blumen- und Blattwerk. Marke. Rozenburg. Ende 19. Jahrhundert. Hohe 27 cm.
+- 10 Desgl. Kugelformige Bauchung, leicht ausladender Rand mit SchnauzenausguB. Bunter Dekor:Hollandische
+- Landschaft von stilisierten Tulpenornamenten umrahmt. Marke. Rozenburg. Ende 19. Jahrhundert.
+- 11
+- Schenkkanne. Walzenformig. Bunter Dekor: Blumen und Vogel. Moderne Arbeit. Hohe 49 cm.
+- Statuette einer Gottin. Stehend auf ovalem Sockel. Gewandung in blauer, gelber und griner Glasur. Beschadigt.
+- 12 Ostasien. 19. Jahrhundert. Hohe 45 cm.
+- 13 Runde Schale.Auf hellviolettem Grund reliefierte Antikszenen in WeiB. Wedgwood. Erstes Drittel des 19.Jahrhunderts. Hohe 5 cm,Diam. 12 cm.
+- 14 Kanne. Gehenkelt, gedeckelt, mit SchnauzenausguB. Walzenformig. Dekor:Reliefierte, antike Darstellungen in WeiB auf hellblauem Grund. Wedgwood. 19. Jahrhundert.Hohe 10,5 cm, Diam. 10,5 cm.
+- 15
+- Teeservice. Funfteilig,bestehend aus Teekanne, Milchkannchen, Zuckerdose, kleinem Henkelkorbchen und Kumpe. Dekor: Auf preuBischblauem Grund antike Gestalten, Putten und Empirefiguren in WeiB. Wedgwood.19.Jahrhundert.Hohe 9 cm bis 11,5cm.
+- 16
+- Zwei Platten. Ovale Grundform, fassonierter Rand. Bunter Dekor: Im Fond BlumenstrauB,auf dem Rand Blumengewinde und Ornamentbordire in Gold. 19. Jahrhundert. Diam.31 x 38cm bzw.35 X 42 cm.
+- Wandteller. Rund,flach. Dekor: Antike Gotter und Gottinnen in Flachrelief auf braunem Grund. Moderne
+
+## Majolika und Fayence
+
+- Schale. Ovale Grundform. Weit iberstehender, gelappter Rand. Bunter Dekor: Auf der Vorderseite tanzende,
+- 18 auf der Rickseite zechende Bauern. Bologna. 19. Jahrhundert. Hohe 16,5 cm, Breite 38 cm.
+- 19
+- GroBe Vasengarnitur. Mittelvase:runder FuB,flachgedrickte Leibung,weit iberstehender Rand, Henkel in Form vollrunder Greife. Seitenvasen:Birnformig,Henkel schlangenformig. Bunter Dekor: Auf der Mittelvase zwischen grotesker Ornamentik mythologische Darstellungen: musizierende Nymphen und Apollo bei den Hirten; auf den Seitenvasen figirliche, die ganze Leibung fillende Darstellungen in Landschaft. Blaumarke: Italienisch. 19. Jahrhundert. Hohe 97 bzw. 94 cm.
+- Arbeit.Diam.36 cm.
+
+al
+
+B0
+KRU
+
+- 20 Zwei Vasen. Runder FuB, birnformiger, eingezogener Korper, ausladender Rand. Doppelhenkelig. Henkel in Form von Delphinen. Dekor: Auf der Leibung buntfarbige biblische Darstellungen in Landschaft. Blaumarke. Italienisch. 19. Jahrhundert. Hohe 30 cm.
+- 21 Desgl. Runder FuB,kugelbauchig, eingezogener Hals,weit ausladender Rand,Henkel in Form von Greifen. Bunter Dekor: Mannliches Portrat zwischen grotesker Ornamentik. Blaumarke. Italienisch. 19. Jahrhundert.
+- 22 Teller. Bunter Dekor:Figirliche Darstellung, drei Frauen unter einem Baum. Auf dem Rand Vogel in Blumen und Ranken.Italienisch. 19. Jahrhundert. Diam.22,5 cm.
+- 23 Bunter Teller. Fassonierter und reliefierter Rand. Bunter Dekor: Palme und Blitenzweige. Italienisch. 19.Jahrhundert.Diam.33,5 cm.
+- 24 GroBer Wandteller. Breiter, flacher Rand. Bunter Dekor: Im Fond Auffindung Moses im Binsenkorbchen; auf dem Rand groteskes Rankenwerk, Maskarons und Greife. Blaumarke. Italienisch. Diam. 42 cm.
+- 25 Wandteller. Rund, breiter, flacher Rand. Im Fond und auf dem Rande buntfarbige Darstellung. Nach einem Kupferstich Aug. Caraccis. Italienisch.Diam.23 cm.
+- 26 Desgl. Breiter iberstehender Rand. Dekor: Im Fond zwei Putten mit Tamburin in Blau, am Rand Ranken in Blau, Grin, Rot und Gelb. Manganviolette Marke:A M. Italienisch. Diam. 25,5 cm.
+- 27 Drei Wandteller. Runder, breiter, flacher Rand. Im Fond und auf dem Rand buntfarbige Darstellung nach Stichen von Aug. Carracci. a) Satyr und Nymphe. b) Venus zichtigt Amor. c) Mythologische Darstellung. Italienisch.Diam.25 cm.
+- 28 Linke am Degen. Bunter Dekor. Italien. 19. Jahrhundert. Hohe 54 cm.
+- 29 Vasengarnitur.Fuinfteilig, drei Deckelvasen,zwei Flotenvasen.Deckelvasen:Sechsseitiger FuB,flachgedrickter, birnenformiger Korper,Deckel mit vollrundem Vogel. Flotenvasen: Sechsseitiger FuB,ebensolcher Korper, ausladender Hals. Blaudekor: Blumen und Zweigwerk. Blaumarke:L S. Hollandisch. 19. Jahrhundert. Hohe 30cm bzw.20 cm.
+- 30 Zwei Deckelvasen. Sechsseitiger FuB, flachgedrickter,birnformiger Korper, auf dem Deckel vollrunder Vogel. Bunter Dekor: Auf der Vorderseite Landschaft, auf der Rickseite Blumen und Zweigwerk. Blaumarke: P.V.B. Hollandisch. 19. Jahrhundert. Hohe 41 cm.
+- 31 birnformiger Korper, auf dem Deckel vollrundes Blattornament. Flotenvasen: achtseitig,ausladender Rand. Bunter Dekor: Blumen,Rankenwerk und Huhner. Mit Marken. Hollandisch. 19.Jahrhundert. Hohe 31 cm bzw.20 cm.
+- 32 Vasengarnitur. Fuinfteilig.Drei Deckelvasen,zwei Flotenvasen. Deckelvasen:achtseitiger FuB,ebensolcher Bunter Dekor:Auf der Vorderseite von reliefiertem Rankenwerk umrahmt figuirliche Darstellungen. Blumen und Zweige. Mit roter Marke. Hollandisch. 19. Jahrhundert. Hohe 46 cm bzw. 32 cm.
+- Delfter Deckelvase. Sechsseitiger,eingezogener FuB,birnformiger,sechsseitiger Korper,Deckel mit bekronenden
+- 33 Lowen. Blaudekor: Blumen und Blattwerk. Blaumarke. Holland. 19. Jahrhundert. Hohe 41 cm. Abbildung Tafel XV.
+- 34 Zwei Delfter Flotenvasen. Achtseitig. Blaudekor: Zwischen stark reliefiertem Rokaillenwerk und Blumen
+- Schaferszene. Blaumarke. Holland. 19. Jahrhundert. Hohe 47 cm. Abbildung Tafel XV.
+- Drei Delfter Deckelvasen. Achtseitiger, eingezogener und gekropfter FuB. Birnformiger, achtseitiger Korper, gedeckelt. Blaudekor: Zwischen leicht reliefiertem Rankenwerk und Blumen Schaferszene. Auf dem Deckel
+- 35 vollrunder Vogel. Blaumarke. Holland. 19. Jahrhundert. Hohe 68 cm.
+- 36 GroBe Kirbisvase. Runder FuB,finfteilig, jeder Teil mit acht Tillen zum Einstecken von Blumen. Blaudekor: Hollandische Landschaften.Holland. 19. Jahrhundert. Hohe 124 cm.
+- 37 Zwei runde Platten.Dekor:Im Fond Tenierszenen in Blau. Auf dem Rand Blumen und Blattwerk in bunten
+- Farben. Blaumarke. Hollandisch.19. Jahrhundert. Diam.61 cm.
+- 38 Zwei Butterdoschen mit Unterteller. Doschen in Form eines Butterballens, Deckel blattformig, ebenso der Unterteller. Bunter Dekor. Hollandisch. 19. Jahrhundert. Hohe 8 cm,Diam.19 cm.
+- 39 Zwei ovale Platten. Gewellter Rand. Bunter Dekor: Im Fond Landschaften: Fischmarkt von Basel,Ansicht von Luzern. Um den Rand Streublumen. Blaumarke. 19. Jahrhundert. Lange 47 cm,Tiefe 35 cm.
+
+6品00
+
+9
+- 40
+- GroBe runde Platte. Blaudekor: Im Fond Raubvogel auf Strauch sitzend, am Gitterwerk Bordire. 19. Jahrhundert.Diam.53 cm.
+- Zwei Platten. Ovale Grundform. Dekor: Im Fond buntfarbiger BlumenstrauB und Blumenbordire. Auf dem
+- 41 Rand leicht reliefiertes Laubgewinde in Gruin, Rot und Gold. 19. Jahrhundert. Diam.27 X 35,5 cm.
+- 42 Kleiner Teller. Blaudekor:Fond und Rand mit kraftig stilisiertem Blumenwerk. Diam. 22 cm.
+- 43 Schale. Schifformig. Horizontal geriefelt. Dekor: Blumen- und Bandornamentik in Blau, Gelb,Rot und Grin. Manganviolette Marke. 19. Jahrhundert. Hohe 5 cm,Lange 25 cm.
+- Terrine. Rautenformige Grundform,reich profiliert,auf dem Deckel Krone in Silber. Blaudekor: Landschaften,
+- Gitterwerk und Bordiren in ostasiatischem Geschmack. 19. Jahrhundert. Hohe 28 cm,Lange 45 cm.
+- 45 Zwei Teller. Rund. Blaudekor: Im Fond Blumenstick, auf dem Rand Blattzweige. Ostasien. Diam. 22 cm.
+- 46
+- Drei Teller. Rund. Blaudekor: Im Fond Chinesin in Landschaft unter Strauchwerk, auf dem Rand Blumenzweige. Ostasien.Diam.23cm.
+- Zwei groBe Teller. Blaudekor: Im Fond kreisrund mit Blumen und Zweigen,um den Rand groBstilisiertes
+- 47 Blumenwerk. Blaumarke. Ostasien. Diam.30,5 cm.
+
+## Europaisches Porzellan
+
+- 48 Zwei Standleuchter. Runder, profilierter FuB, Balusterschaft, glockenformige Tille. Dekor: Buntfarbige,
+- goldkonturierte Blumenzweige. Blaumarke: Berlin. Zweite Halfte 19. Jahrhundert. Hohe 25 cm.
+- Kleines Kannchen. Birnformig, gehenkelt, mit SchnauzenausguB. Bunter Dekor: BlumenstrauBe und Streu-
+- 49 blumen.Blaumarke: Berlin. Hohe 12,5 cm.
+- Dose.Ovale Grundform. Bunter Dekor: Auf dem Deckel Watteauszene,auf der Leibung Rokaillen und Blumen-
+- 50 gehange. In Bronze montiert. Blaumarke. 19. Jahrhundert. Hohe 5 cm, Breite 9,5 cm.
+- 51 Finf flache Teller. Fassonierter Rand. Bunter spaterer Dekor: Im Fond FluB-und Gebirgslandschaften. Auf
+- dem Rand Streublumen. Hochster Blaumarke. Diam.24,5 cm.
+- GroBe Gruppe. In einem am Ufer anlegenden Nachen sitzende Dame, Kavalier mit Mandoline, ein zweiter am Ruder. Am Ufer stehen ein Herr und eine Dame, eine junge Dame spielt mit einem Hundchen. Bunter Dekor. Ovaler goldgehohter Sockel. Blaumarke. Thuringer Arbeit. 19. jahrhundert. Lange 60 cm, Breite 40 cm.
+- 52
+- Tasse mit Untertasse. Kugelbauchig. Bunter Dekor: BlumenstrauBe, Streublumen und Landschaften mit
+- 53 figirlicher Staffage. Blaumarke. 19. Jahrhundert. Hohe der Tasse 7 cm, Diam.der Untertasse 13,5 cm.
+- 54 Nymphen und Merkur. Auf einem Felssockel vier sitzende Nymphen, ihnen bringt Merkur den kleinen
+- Bacchus. Bunter Dekor. Blaumarke. MeiBen? 19. Jahrhundert. Hohe 37 cm,Breite 37 cm.
+- 55 Antike allegorische Gruppe.Neben einem Altar,auf dem ein Taubenpaar sitzt,steht ein Jungling mit Schmettr ling und Fackel, daneben weibliche Figur in langherabwallendem Gewand mit einem Blumenkranz. Bunter Dekor. Blaumarke:MeiBen.Um 1850. Hohe 37,5 cm, Breite 27 cm.
+- 56
+- Dame am Toilettetisch. Neben kleinem Tischchen mit Toilettegegenstanden sitzt eine junge Dame. Sie tragt weiBen,geblimten Rock,hellvioletten Uberwurf und kleines Haubchen. Blaumarke. Meiben? Hohe 16,5 cm.
+- 57
+- Dame mit Vogelbauer. Junges Madchen sitzt an einem Tisch, auf diesem steht ein Vogelbauer. Das Madchen tragt gelben, geblimten Rock,rotviolette Jacke und Spitzenhaubchen. Blaumarke. MeiBen? Gegenstick zu Nr.56.Hohe16,5cm.
+- 58 Wanduhr.Hochovale Grundform. Bunter Dekor: zwischen reichstem, figirlichem SchmuckNeptun auf Quadriga, Chronos —Putten, Blumengewinden und Seetieren das runde Uhrgehause. Blaumarke: MeiBen.
+19. Jahrhundert. Hohe 85 cm,Breite 40 cm.
+- 59 Lister. Mittelschaft am unteren Ende mit kugelformigem SchluBstick. Auf diesem und einem starken Nodus brachten Volutenarme. Mit kleinen Beschadigungen. Fir elektrisches Licht montiert. Bunter Dekor. Blaumarke:MeiBen.19. Jahrhundert. Hohe 110 cm,Diam.65 cm.
+- 60 Bunter Dekor:Auf der Vorderseite mythologische Darstellungen: Thetis mit den Waffen des Achilles bzw. vollrunde Blumen, Gehange und Muschelwerk. Meiben. Blaumarke. 19. Jahrhundert. 1ll cm.
+
+CP
+
+90
+
+C0O
+
+100
+
+b00
+
+T00
+Mao
+
+90
+
+R
+
+96
+
+RU
+
+COO
+
+200
+
+- 61 Kaffeeservice. Vierteilig. Birnformige Kanne, Tasse mit gewelltem Rand und Asthenkel,Untertasse, ovales Tablett. Henkel,Rander und AusguB goldgefaBt. Bunter Dekor: Schaferszenen,Blumengewinde. Blaumarke: MeiBen. Mitte 19. Jahrhunderts. Hohe der Kanne 22 cm, Hohe der Tasse 6 cm, Diam. der Untertasse 13,5 cm, Diam. des Tabletts 42 cm.
+- 62 Teeservice. Bestehend aus Teekanne, Milchkanne, Zuckerdose, zwei Tassen mit Untertassen und Tablett. Tassen,Kannen und Zuckerdose mit stark reliefierten, figirlichen Darstellungen. Bunter Dekor. Tablett mit Blumen, Ranken, Schmetterlingen und chinesischen StraBenszenen auf finf runden Reserven. Blaumarke: MeiBen. 19. Jahrhundert. Hohe der Teekanne 20 cm, Hohe der Tassen 9 cm, Hohe der Milchkanne 10 cm, Diam. der Untertasse 12,5 cm, Hohe der Zuckerdose 10 cm, Diam. des Tabletts 41 cm.
+- 63 Teekanne mit Untersatz. Kanne kugelbauchig, gehenkelt, auf dem Deckel vollrunde Frucht. Untersatz mit drei VolutenfiBen und durchbrochenem Gitterwerk. Bunter Dekor:BlumenstrauBe und Streublumen. Henkel in
+- Bronze montiert. Blaumarke: MeiBen. Hohe der Kanne 18 cm,Hohe des Untersatzes 14 cm.
+- Tasse mit Untertasse. Kugelbauchig. Bunter Dekor: Phantastische Vogel, Blitenzweige und Astwerk. Blau-
+- 64 marke: MeiBen. Hohe der Tasse 4,5 cm, Diam. der Untertasse 12,5 cm.
+- 65 Sieben flache und vier tiefe Teller. Fassonierter Rand. Bunter Dekor: BlumenstrauBe und Streublumen. Blaumarke:MeiBen.Diam.23 cm.
+- 66 Drei Teller. Geschweifter, durchbrochener Gitterwerkrand,mit Gold gehoht und reliefierten Blumen bestreut. Im Fond in von blauviolettem Grund ausgespartem Kreisrunde, buntfarbige Schaferszenen. Blaumarke: MeiBen.Diam. 26 cm.
+- 67
+- Runder groBer Teller. Fassonierter, goldgehohter Rand. Bunter Dekor: Im Fond hollandische Hafenlandschaft. Blaumarke:MeiBen.Diam. 32 cm.
+- 68
+- Teller. Durchbrochener, gewellter Gitterwerkrand. Bunter Dekor:In aus blauviolettem Grund ausgesparten Reserven BlumenstrauBe und Schaferszene. Blaumarke: Meiben. Diam.24,5 cm.
+- 69 Desgl. Goldgehohter, durchbrochener Gitterwerkrand. Fond durch Kreuzornament in vier Felder geteilt, zwei mit buntfarbigen Landschaften, zwei mit blauem Grund. Blaumarke: Meiben. Diam. 23 cm.
+- Stockgriff. Mit vollrundem Frauenkopf. Auf dem Ruicken Watteauszene und Blumen. Bunter Dekor. Mit
+- 70 MeiBener Blaumarke. 19. Jahrhundert. Lange 10 cm.
+- 71 Speiseservice. Fuinfzigteilig, bestehend aus 43 Tellern, drei Platten,zwei Terrinen und zwei Schalen. Bunter Dekor:BlumenstrauBe und Streublumen,Rander, Henkel und FuBe mit goldgehohtem Rokaillenwerk. Auf dem Deckel der beiden Terrinen vollrundes Frichtestick. Blaumarke:Nymphenburg. Zweite Halfte 19. Jahrh. Hohe der Terrinen 24 cm bzw.19 cm,Diam. der Terrinen 27 cm bzw.24x 17 cm,Diam. der Platten 40 x 31 cm， 31x 27 cm,30 cm,Diam. der Teller 25 cm, Hohe der Schalen 14 cm, Diam. der Schalen 29 x 21 cm.
+- 72 Junger Mann. Auf quadratischem Rokaillensockel steht ein junger Mann mit iber den Arm gelegten Mantel. Er tragt schwarze Kniehosen, gelbe Weste und hellvioletten Rock. EingepreBte Nymphenburger Marke. Hohe 24 cm.
+- 73 Gartnerin. Auf quadratischem Rokaillensockel stehendes junges Madchen, das einen Rosenstock beschneidet. Sie tragt blaugrinen Rock,weiBen Uberwurf und gelben Hut. Thuringen. 19. Jahrhundert. Hohe 27 cm.
+- 74 Junge Dame. Auf goldgehohtem Rokaillensockel stehende junge Dame. Sie tragt weiBen Rock mit bunten. Blumenborduiren und reichem Spitzenbesatz, darunter hellvioletten Uberwurf und hellgelbe Taille. Thuringen. 19.Jahrhundert. Hohe 22 cm.
+- Schiff mit Amoretten. Bunter Dekor. Mit Blaumarke: RI. Wohl Gotha. Thiringen. 19. Jahrhundert.
+- 75 Hohe 15,5 cm,Breite 32 cm.
+- Junge Frau steckt sich ihr Haubchen. Sitzend neben kleinem Tisch. Rechteckiger Rokaillesockel. Bunter Dekor.
+- 76 Thiringen. 19. Jahrhundert. Hohe 16,5 cm.
+- 77 Dame in Sanfte. Sanfte mit Streublumen und goldgehohten Rokaillen. Blaumarke. Thuiringen. 19. Jahrhundert. Hohe 14cm.
+- Schenkkanne mit Platte. Kanne: Auf rundem FuB birnformiger,gehenkelter Korper mit breitem SchnauzenausguB. Dekor:Auf rotem Fond zwischen Ranken und Blattwerk zwei mythologische Darstellungen in bunter Malerei. Beschadigt.Platte:Rund. Dekor:Roter Grund mit Weinranken in Gold,dazwischen in vier Hochovalen weibliche Portrats in bunter Malerei. Blaumarke:Bindeschild. Wien.Um 185o. Hohe der Kanne 40 cm,Diam.der Platte 43 cm.
+- 79 GroBer Wandteller. Rund. Bunter Dekor: Im Fond allegorisches Gemalde:,Une Allegorie d'apres le celebre tableau original du Titien au Musee imperial de Vienne.Auf dem Rand reiche Ornamentbordire in Gold,Blau, Violett und Rot. Blaumarke:Bindeschild. Wien. Um 1850. Diam,55 cm.
+- 80 Platte. Oval. Dekor: Im Fond buntfarbiges Gemalde: Cimen admire Ephigenie dormant avec ses compagnes a l'ambre d'une bocage. Nach einem Gemalde von Rubens im Belvedere zu Wien. Am Rand reiche Ornamentbordire in Gold. Blaumarke: Bindeschild. Wien. Um die Mitte des 19. Jahrhunderts. Diam.40 x54 cm.
+- 81 Teller. Dekor: Im Fond buntfarbige Darstellung: drei Nymphen und ein junger Satyr schmicken die Saule des Pan. Am Rande Rokaillenornamente in Gold auf blauviolettem Grund. Blaumarke. Wien. 19. Jahrhundert. Diam.24cm.
+- 82 Dekor: Auf zwei hochrechteckigen Feldern antike Szenen in bunter Malerei. Reiche Ornamentik in Gold auf grinem, violettem und blauem Grund. Blaumarke. Wien. Mitte 19. Jahrhunderts. Hohe 55 cm. Abbildung Tafel 1.
+- 83
+- 84 Porzellanbild nach Teniers. Musikanten, Zecher und Kinder vor einem Hause. In der Ture Frau und Mann mit der Pfeife. Auf der Ruickseite Fabrikmarke: Storch mit Schlange im Schnabel und der Umschrift:Rozenburg den Hag 35. In Holzrahmen.19. Jahrhundert. Porzellantafel 61 X 104 cm.
+- Hafenspielerin.Auf rundem,goldgehohtem Rokaillensockel stehendes junges Madchen mit Harfe. Es tragt weiben, rotgeblimten Rock,hellviolette Jacke und gelbes Kopftuch. Thiringer Arbeit. 19. Jahrh. Hohe 16 cm.
+- 85 Porzellanbild nach Bega. Musikanten in einer altniederlandischen Schenke. Auf der Ruckseite Fabrikmarke: Storch mit Schlange im Schnabel und der Umschrift: Rozen burg den Haag 986. In Holzrahmen. Bez. A. H. nach Bega und Rozenburg. 19. Jahrhundert. Porzellantafel 61 x 103 cm.
+- Vase. Quadratische Grundform,Korper leicht eingezogen,ausladender Rand. Bunter Dekor:Pfauen in stili-
+- 87 Zwei Tassen und sechs Untertassen. Bunter Dekor: Auf der Leibung der Tassen und im Fond der Untertassen Frichtestuicke. Rand und Henkel goldgehoht. Henkel einer Tasse fehit. Blaumarke. Holland. Hohe der Tasse 6,5 cm,Diam, der Untertasse 13,5 cm.
+- 86 siertem Blumenwerk. Mit Marken. Rozenburg. Ende 19. Jahrhundert. Hohe 27 cm.
+- 88
+- 89 Zwei Teller. Schmaler, flacher Rand. Dekor in Manganviolett: a) Hollander vor Schiffshitte,b) Hollanderin am Spinnrad.Holland. 19. Jahrhundert. Diam.26 cm.
+- Teebichse. Rechteckige Grundform. Blaudekor: Blumen, Gitterwerk und Seelandschaften. In Silber montiert. Holland. Ende 19. Jahrhundert. Hohe 20,5 cm.
+- 90 Finf tiefe Teller. Rund. Leicht gewellter, reliefierter Flechtwerkrand. Bunter Dekor: Im Fond und am Rand
+- 91 Zwei Vasen.Auf mit Muscheln und Delphinen geschmuicktem Sockel die krugformige,einhenkelige, gedeckelte Vase. Bunter Dekor: Auf braunem Grunde Tritonen, Satyren, Neptun, Nereiden und Seegetiere in wirrem Durcheinander. Blaumarke:Neapel. Hohe 82 cm.
+- exotische Vogel in Landschaft. Marke. Wahrscheinlich hollandisch. Diam. 23 cm.
+- 92 Madchen mit Vogelbauer. Auf Rokaillensockel stehendes Madchen, am rechten Arm tragt es einen Vogelbauer.
+- 93
+- 94 Junger Mann und Madchen. Auf ovalem Sockel junger, stehender Mann, der ein Madchen zu umarmen sucht. Am Boden sitzendes Kind. WeiB. Blaumarke: Neapel. Hohe 22 cm.
+- Trommler. Auf Rokaillensockel neben Baumstrunk stehender junger Mann, an der linken Seite tragt er eine Trommel. WeiB. Blaumarke: Neapel. Hohe 25 cm.
+- 95
+- Zwei Wandleuchter. Hochovale, geschweifte Form. Rickplatte mit Seelandschaft in bunten Farben. Zwei
+- 96 GroBe Gruppe. Auf hohem Felssockel stehende weibliche Gestalt mit Pfau,zu ihren Fiben Putten, weibliche Figuren, Blumengewinde. Bez.:Biskuit. WeiB. Marke: Sevres. Hohe 47 cm.
+- 97 Satyrengruppe. Auf einem Felsblock sitzt ein weiblicher Satyr, neben ihm zwei schielende kleine Faune.
+- 98
+- Biskuit. Auf rundem Bronzesockel. Eingeritzt: Sevresmarke. i9. Jahrhundert. Hohe 39 cm.
+- Zwei badende Nymphen. a) Leicht gebickt, den linken FuB auf einem Rasensockel. b) Stehend, die Linke auf einen Baumstrunk gestitzt. Biskuit. Auf rundem Bronzesockel. Eingeritzt: Sevresmarke. 19. Jahrhundert. Hohe 38,5 cm bzw. 41 cm.
+- 99 Zwei Bisten. a) Mars. b) Pallas Athene. Biskuit. Weib. Auf rundem, modernem Saulensockel in Blauviolett und Gold. Eingeritzt: Sevresmarke. Blaumarke: Sevres. 19. Jahrh. Hohe 32 cm.
+- 100 Kinderbiste des Herzogs von Bordeaux. Runder Sockel in Blauviolett und Gold. Biskuit. Blaumarke： Sevres. 1822. Hohe 24 cm.
+- 101 Weibliche Kinderbiste. Gegenstick zu vorhergehender. Runder Sockel in Blauviolett und Gold. Biskuit.
+- 102 Biste Napoleons und seiner Gemahlin. Niederer Saulensockel in Blauviolett und Weib. Rote Marke. Sevres.
+- Blaumarke: Sevres. 1822. Hohe 24 cm.
+- 19.Jahrhundert, Hohe 17 cm.
+- WeiB. Blaumarke: Neapel. Hohe 25 cm.
+
+006
+
+MRO
+
+006
+
+COU
+
+OC00
+
+002
+
+MC0
+
+YO
+NeCOCO
+
+8900
+
+- 103 Zwei Schafergruppen. a) Auf Rasensockel junger sitzender Mann, auf seinem SchoBe sitzt ein Lammchen mit dem ein junges Madchen spielt. b) Sitzender junger Mann mit Vogelkafig,neben ihm junges Madchen mit
+- Vogel. Biskuit. Weib. Eingeritzt: Sevresmarke 203 bez. 228 A. 19. Jahrhundert. Hohe 24,5 cm.
+- 104 GroBe Dose. Ovale Grundform. Bunter Dekor:Auf der Leibung Blumen und landschaftliche Darstellungen zwischen leichtreliefierten, goldgehohten Ranken und Rokaillen. Auf dem Deckel in ahnlicher Umrahmung: Les Chanteurs d'apres Jordaens. In Bronze montiert. Blaumarke: Sevres. Zweite Halfte d. 19. Jahrhunderts. Hohe 10,5 cm, Breite 31 cm, Tiefe 19 cm.
+- Kamingarnitur. Dreiteilig. Zwei Vasen mit Schale. Vasen:quadratischer Sockel,kugelbauchig, eingezogener Hals, ausladender Rand, gedeckelt. Schale: quadratischer Sockel, schifformiger, doppelhenkeliger Korper. Dekor:Schlachtenbilder in bunter Porzellanmalerei bez. Desprez Sevres. Rokaillenornament und Blumengehange in Gold auf blauem Grund. In Bronze montiert. Blaumarke: Sevres. 1844. Hohe der Vasen 65 cm,
+
+Abbildung Tafel I1.
+
+- 105 Hohe der Schale 42cm.
+- 106
+- Drei Vasen. Quadratischer FuB,eiformiger Korper, doppelhenkelig. Dekor:Auf zwei hochovalen,vom blauen Grund ausgesparten Reserven BlumenstrauBe und figirliche Darstellungen in bunter Porzellanmalerei. In Bronze montiert. Sevres.19. Jahrhundert. Hohe 37 cm.
+
+84900
+
+- 107 Zwei Prunkvasen. Quadratischer Sockel, runder FuB,birnformiger Korper, eingezogener Hals, ausladender Rand. Gedeckelt. Dekor:Die AuBenseite fillen Schlachtenzsenen in bunter Porzellanmalerei. a) Napoleon nach der Schlacht bei Austerlitz 1805. b) Napoleons Rickzug aus RuBland. Bez.: Desprez Meissonier. Hals, Deckel und FuB mit Lorbeergewinden in Gold auf blauem Grund. In Bronze montiert. Rote Marke. Sevres. 19. Jahrhundert. Hohe 102 cm.
+
+RUI
+
+0004
+
+CRO
+
+OR
+
+Abbildung Tafel IIl.
+
+- 108 Zwei Schalen. Ovaler Sockel, schifformiger, von zwei Putten gehaltener Korper, doppelhenkelig. Dekor: Auf zwei ovalen,vom blauen Grund ausgesparten Reserven BlumenstrauB und Schaferszene in bunter Por-
+- zellanmalerei. In Bronze montiert. Sevres. 19. Jahrhundert. Hohe 38 cm, Breite 56 cm.
+- 109 Rokokoherr und Rokokodame. Vollrund, stehend, auf rundem Rasensockel. WeiB. Blaumarke. 19. Jahr-
+- hundert.Hohe 74 cm.
+- Junges Madchen. Auf goldgehohtem Rokaillesockel stehendes, junges Madchen. Es tragt hellvioletten Rock,
+- 110 gelbe Jacke und weiBe Schirze. Mit Blaumarke. 19. Jahrhundert. Hohe 22 cm.
+- 111 Spiegel. Hochrechteckig, oben abgerundet. Reich profilierter Rand. Bunter Dekor: Auf Muschel- und Rokaillewerk vollrunde Vogel, Putten in Blumen und Laubgewinden. 19. Jahrhundert. Hohe 140 cm, Breite
+- 91cm.
+- Prunkvase. Runder FuB,eiformiger Korper, Henkel in Form eine Widderkopfes, SchnauzenausguB. Bunter Dekor: Auf zwei hochovalen, vom blauen Grunde ausgesparten Reserven, landschaftliche und figirliche Dar-
+- 112 stellungen in bunter Porzellanmalerei. Arbeit des 19. Jahrhunderts. Hohe 65 cm.
+- 113 Speiseservice. FunfunddreiBigteilig, bestehend aus Deckelterrine,einer runden Platte, drei ovalen Platten, zwei quadratischen Schalen und 28 Tellern.Dekor:Am Rand bunte Blumenbordiren mit Blattgehangen in Gold；im Fond BlumenstrauB in Gold. Rander goldgehoht. Verschiedene Blaumarken. 19. Jahrhundert. Hohe der Terrine 33 cm,Diam.der Terrine 29 cm,Diam. der runden Platte 33,5 cm,Diam. der quadratischen Schalen 30 cm, Diam. der 0valen Schalen 44×30 cm,37 x 25cm,Diam. der Teller 22,5 cm.
+- 114 Gedeckelte Dose mit Unterteller. Kugelformig,auf sechs kurzen FuBchen,mit Astwerkhenkeln, Deckelknopf in Form einer Rose. Innenseite vergoldet,AuBenseite mit reliefierten Bluimchen bestreut. Auf dem Unterteller buntfarbige Landschaft. Deutsch.Um 1850. Hohe der Dose 12 cm,Diam. des Untertellers 19 cm.
+- 115 Sechs Koppchen mit Untertassen. Kugelbauchig. Blaudekor: Chinesische FluBlandschaften und Blumenwerk.
+- 116
+- Blaumarke. Hohe des Koppchens 4 cm, Diam. des Untertellers 11 cm.
+- Sechs flache Teller. Rund,Rand goldgehoht. Dekor:Vermahlungsszene mit Putten und Genien unter Rundbogenarchitektur —wohl nach den Entwiirfen eines franzosischen Kupferstechers - auf dem Rand Bordire mit Akanthuslaub und Gitterwerk. Holland. Ostindische Compagnie. 2. Halfte 18. Jahrhunderts. Diam.23cm.
+- 117 Zwei tiefe Teller. Leicht gewellter,weit iberstehender Rand. Blaudekor: Groteskes Band- und Rankenornament.Blaumarke.Diam.22 cm.
+- 118 Rechteckige Platte. Fassonierter Rand. Bunter Dekor:Im Fond BlumenstrauB,auf dem Rand Blumengewinde
+- und Ornamentbordire in Gold. 19. Jahrhundert. Diam.39 X31 cm.
+- Zwei Vasen. Runder FuB,kurzer Schaft,birnenformiger Korper,verengter Hals. Auf der Leibung in leichter Reliefierung Blumengehange und mythologische Darstellungen. In Bronze montiert. WeiB. 19. Jahrhundert. Hohe 33cm.
+- 120 Flakon. In Form eines Kurbisvaschens, enger Hals,VerschluB in Silber montiert. Blaudekor: Chinesenkinder. Hohe 16 cm.
+- 121 Zwei Flakons.a) Birnformig,AusguB und Volutenhenkel in Goldbronze.b) Flachgedrickte Kugelbauchung.
+- Hals und Henkel in Silber montiert. Blaudekor: Zweige und Ranken. Hohe 9 bzw. 10 cm.
+- 122 Eau de Cologne-Tonne. In Form eines FaBchens. In Silber montiert. Blaudekor. Auf Holzsockel. Hohe 16cm.
+- 123
+- Zigarrenstander. Rand des Tellers gewellt, Mittelschaft in Form eines Kurbisvaschens. Blaudekor: Blumen
+- und Zweige. In Silber montiert. Hohe 13cm, Diam.21 cm.
+- Violine. Bunter Dekor: Auf der Vorderseite Blumen und Ranken, auf der Ruckseite Blumenkorb und figur-
+- 124 liche Darstellung in Jmari-Geschmack. Lange 60 cm.
+- 125
+- Zwei Obstschalen mit Untertellern. Rund, geschweifter Rand. Blaudekor:Im Fond Obststick, am Rand Blumenzweige. Diam. der Schalen 23 cm,Diam. der Unterteller 25 cm.
+- Zwei Koppchen mit Untertassen. a) Kugelbauchig. Rand goldgehoht. Dekor: Huhner zwischen Blitenzweigen in Rot, Blau und Gold.b) Kugelbauchig. Dekor: BlumenstrauBe in Rot, Blau und Gold. Hohe des Kopp-
+- 126 chens 3,5 cm bzw. 4 cm, Diam. der Untertasse 10,5 cm bzw. 11 cm.
+- 127
+- Sechs tiefe Teller.Leicht geschweifter,zehnseitiger Rand. Blaudekor: Auf Gitterwerkgrund in vier Reserven Blumen und chinesische Seelandschaften. Diam. 23 cm.
+- 128 Tiefe,runde Schale. Fassonierter Rand. Blaudekor: BlumenstrauBe und Streublumen auf leicht reliefierten
+- Muschelornamenten. Hohe 7,5 cm,Diam.24,5 cm.
+- 129 Kleine tiefe Schale. Rund. Blaudekor: Auf der Leibung und im Fond Blumenbordire. Hohe 8 cm,Diam. 15cm.
+- 130 Teekannchen. Birnformig,gedeckelt, Bandhenkel in Silber. Dekor:Reliefiertes Blumen- und Blattwerk in Rot,Blau und Griin. Hohe 12 cm.
+- 131 Deckelvase. Kugelbauchig, runder eingezogener FuB. Blaudekor: Blumen und Zweige in chinesischem Geschmack. Hohe 18cm.
+- 132 Gedeckelte Dose. Runder, eingezogener FuB. Walzenformiger Korper. In Silber montiert. Bunter Dekor:
+- Figirliche Darstellungen und Chinoiserien. Hohe 14 cm, Diam. 10,5 cm.
+- Teebichse. Melonenformig, Deckel in Silber. Blaudekor: Blumen und Strauchwerk in chinesischer Art. Hohe
+- 133 14cm.
+- 134 Desgl. Birnformig, runder, eingezogener FuB. In Silber montiert. Blaudekor: Chinesische Landschaften. Hohe 18,5 cm.
+- 135 Desgl. Rechteckige Grundform, segmentformige Schulter. Deckel in Silber montiert. Dekor: Blitenzweige
+- in Blau,Rot und Gold in ostasiatischem Geschmack. Hohe 16 cm.
+- 136 Sauciere und Kachelplatte. a) Blaudekor:Blumen und Ranken. Henkel fehlt. Hohe 6 cm, Breite 13 cm. b) Blaudekor:Seelandschaft in kreisrund.Gesprungen. 13 x 13 cm.
+
+## Ostasiatisches Porzellan
+
+- 137 Statuette des Gottes der Holle. Stehend. Bunter Dekor. 19. Jahrhundert. Hohe 33 cm.
+- 138 Weibliche Figur auf einem Drachenhund reitend. Vollrund. Bunter Dekor. Hohe 22 cm.
+- 139 Statuetten zweier Chinesinnen.Stehend. Auf dem herabfallenden Gewande buntfarbiges Blumen- und Rankenwerk. 19. Jahrhundert. Hohe 41 cm.
+- 140
+- Vase. Walzenformiger Korper, eingezogener Hals, ausladender Rand. Blaudekor: Chinesinnen zu Pferde in Landschaft. Blaumarke.19.Jahrhundert. Hohe 47 cm.
+- 141 Zwei tiefe Schisseln. Rund. Leicht gewellter Rand. Blaudekor: Blumen und Blitenzweige. Blaumarke. Hohe 7 cm,Diam. 15 cm.
+- 142 Desgl. Runder, abgesetzter FuB,iberstehender Rand. Blaudekor: Groteskes Rankenwerk und chinesische
+- StraBenszene. Blaumarke. Hohe 7,5 cm, Diam.15,5 cm bzw.15,8 cm.
+- 143 Tiefe Schale. Rund, gehenkelt. Blaudekor: Im Fond und auf der Leibung figirliche Chinesenszene. Henkel
+- in Silber. Mit Marken. Hohe 7 cm,Diam. 15,6 cm.
+- 144 Zwei Schalen. Oval. Fassonierter Rand. Dekor: In vier Feldern chinesische Seelandschaften in Blau und
+- groBstilisierte Blumen in Blau, Rot und Gold. Blaumarke. Diam. 23 x 28,5 cm.
+
+AOU
+
+010
+
+hao
+
+May
+
+CO
+
+#0
+6RR
+
+Ma
+
+T
+
+RU
+
+- 145
+- Sechs Schalchen. Flache Schale auf abgesetztem FuB. Blaudekor: Schmetterlinge und Blitenzweige in zartem Blau. Blaumarken. Hohe 3 cm, Diam.9 cm.
+- 146 Tiefer Teller. Rund. Blaudekor: Im Fond grotesker Drache, um den Rand schmale Ornamentbordire. Blau-
+- 147
+- 148
+- marke.Diam.21,7 cm.
+- Runder, tiefer Teller. Blaudekor: Im Fond stilisiertes Blumenstick. Blaumarke. Diam. 21,5 cm.
+- 149 Zwei tiefe Teller. Rund. Blaudekor: Im Fond sternformiges Ornament mit Heuschrecke in FluBlandschaft,
+- Zwei runde Teller. Blaudekor: Im Fond Blumenkorb, um den Rand Streublumen. Blaumarke. Diam.21,5 cm.
+- Rand mit groBstilisierten Blumen. Blaumarke. Diam. 2l cm.
+- Desgl. Rund,leicht gewellter Rand. Blaudekor:Fond mit Streublumen gefilt,am Rand Blitenzweige.Be-
+- 150 schadigt. Blaumarke. Diam.21 cm.
+- 151 Bechertasse mit Untertasse. Glockenformig, gewellter Rand, gerieselt. Blaudekor: Chinoiserien. Blaumarke.
+- Hohe der Tasse 6,5 cm, Diam. des Tellers 13 cm.
+- 152 Vier Koppchen mit Untertassen. Kugelbauchig. Dekor: Blitenzweige und Astwerk in Rot, Blau und Gold. Blaumarke. Hohe der Koppchen 4 cm,Diam. der Untertassen 1l cm.
+- 153 Desgl. Glockenformig. Leicht gewellter Rand, leicht geriefelt. Blaudekor:In zehn Feldern Blitenzweige, im Fond Vase mit Blumen. Blaumarke.Hohe des Koppchens 4 cm, Diam. der Untertasse 10,5 cm.
+- 154 Sechs Koppchen mit Untertassen.Kugelbauchig. Leicht gewellter Rand. Geriefelt. Blaudekor: Laubwerkbordiren,im Fond Vogel und Strauchwerk. Blaumarke. Hohe des Koppchens 4,5 cm,Diam.des Untertellers 11cm.
+- 155 Desgl. Abgesetzter FuB, weite Schale. Blaudekor: Zarte Blumenzweige und Ranken. Blaumarken. Hohe der Koppchen 5,5 cm,Diam.der Unterteller 12,5 cm.
+- 156
+- Sieben Koppchen mit sechs Untertassen. Glockenformig. Blaudekor: Um Kreisrund in acht Feldern Blitenzweige und figirliche Szenen. Blaumarke. Hohe der Koppchen 7 cm, Diam. der Untertassen 12,5 cm.
+- 157 Szenen, Gitter- und Rankenwerk,Chinoiserien in bunten Farben und Gold. Hohe 1i0 cm.
+- 158 Zwei Vasen. Birnformiger Korper, eingezogener Hals,gewellter, ausladender Rand. Bunter Dekor: Auf der VorderseiteKampfszene,auf der Rickseite figirliche Darstellung. Satsuma.Mit Goldmarke. 19.Jahrhundert. Hohe 35 cm.
+- 159 Teekanne. Kugelformig, Deckel und AusguBrand in Silber montiert. Blaudekor:Chinesische See-und Gebirgslandschaften.Blaumarke. Hohe 12 cm.
+- 160
+- Teekannchen auf Sockel. Achtseitig, gedeckelt mit Henkel und SchnauzenausguB. Blaudekor: Bandornament. Blumenwerk und figirliche Darstellungen. Hohe der Kanne 10 cm, Hohe des Sockels 8,5 cm.
+- 161 47x37cm.
+- 162
+- Ovale Platte. Blaudekor: Im Fond Gartenansicht mit Vogeln und Gitterwerk, am Rand Blitenzweige.
+- Deckeltasse. Walzenformig. Dekor: BlumenstrauBe in Rot, Blau und Gold. Hohe 12 cm.
+- 163 Zwei Kannchen. Birnformig,gehenkelt, eines mit Deckel. Blaudekor:Blumen und Strauchwerk. Hohe 125 cm, bzw.16cm.
+- Zwei Saucieren mit Untertellern. Blaudekor: Chinesische Gebirgs- und Seelandschaften zwischen Rankenwerk.
+- 164 Hohe der Saucieren 7cm, Diam. der Unterteller 18 cm.
+- 165 Deckeldoschen. Rund. Bunter Dekor: Auf Leibung und Deckel Blumen und Schilfwerk, groteske Vogel in Blau, Rot, Grin und Gold. Hohe 7 cm, Diam. 10 cm.
+- 166
+- Kannchen und Deckelvaschen. a) Birnformig, gehenkelt und gedeckelt.-b) Kugelformig,abgesetzter FuB mit reliefiertem Spiralornament. Blaudekor:Chinesenszenen und Borduren. Hohe 11 cm bzw. 14 cm.
+- 167 Tiefer Teller. Bunter Dekor:Im Fond Pfauen zwischen Blumenzweigen,um den Rand Blumenbordire. Diam.
+- 23cm.
+- 168 Desgl. Leicht gewellter Rand. Blaudekor: In sternformigem Mittelstick Vogel in FluBlandschaft. Diam. 14cm.
+- 169
+- GroBer Wandteller. Rund. Blaudekor:Im Fond Gebirgslandschaft mit reitendem Chinesen und Dame in Sanfte.Auf dem Rand Ornamentbordire.19. Jahrhundert. Diam.50 cm.
+- 170 Runder Teller. Rand braun gehoht. Blaudekor: Im Fond Kreisrund,um dieses Blitenzweige. Diam. 22 cm.
+- 171 Desgl. Rand braun gehoht. Blaudekor: Haus in Garten mit Kirschbaum. Diam. 36 cm.
+- 172 Flacher Teller. Rund. Blaudekor:Im Fond und auf dem Rand figurliche,chinesische Darstellung in Landschaft. Diam.21,5 cm.
+- 173 GroBer Teller. Blaudekor: Im Fond Kreisrund mit Bluitenzweigen, um den Rand in zehn Feldern Blumen und Blattwerk.Diam.30 cm.
+- 174 GroBer, tiefer Teller. Blaudekor: Im Fond Chinesenszene,um den leichtgewellten Rand Blitenzweige. Diam. 28cm.
+- 175
+- Zwei groBe Teller. Blaudekor: Im Fond Strauchwerk, am Rand Chinoiserien. Diam. 28,5 cm.
+- 176 Zwei tiefe Teller. Rund. Rand braun gehoht. Blaudekor:Im Fond Vase zwischen Strauchwerk,um den Rand
+- Chinoiserien. Diam.24,5 cm.
+- 177 Drei Teller. Rand braun gehoht,neunfach gelappt. Blaudekor:Im Fond Heuschrecke zwischen Strauchwerk,
+- in den neun Feldern des Randes Astwerk. Diam.22,5 cm.
+- 178 Sechs tiefe Teller. Leicht fassonierter Rand. Blaudekor:Im Fond figirliche Chinesenszene, auf dem Rand
+- Ranken und Blattzweige.Diam.22,5 cm.
+- 179 Sechs Teller. Blaudekor:Im Fond Pfau, Strauchwerk und Tisch,Rand mit Blattzweigen und Bandornament. Diam.25,5cm.
+- 180 Desgl. Rand braun gehoht. Dekor: Chinesische Gebirgslandschaften zwischen Blitenzweigen in Rot, Blau
+- und Gold.Diam.27,5 cm.
+- 181 Zehn flache Teller. Rund. Blaudekor: Im Fond figurliche Chinesenszene,auf dem Rand in acht Feldern
+- Blitenzweige auf engem Gitterwerk.Diam. 23 cm.
+- Zehn flache Teller. Rund. Blaudekor: Im Fond chinesische FluBlandschaft mit Hausern und Pagode, auf dem
+- 182 Rand Gitterwerkbordire mit Schmetterlingen.Diam.22,5 cm.
+- 183 Elf flache Teller.Achtseitig.Dekor: Im Fond chinesische Gebirgslandschaft mit Pagode,auf dem Rand Chinoiserien in Blau,Rot und Gold. Diam. 23 cm.
+- 184 Desgl. Rund. Blaudekor: Im Fond chinesische Seelandschaft,um den Rand Gitterwerkborduire. Diam.
+- 23,5cm.
+- 185 Dreizehn flache Teller. Rund,braungehohter Rand. Blaudekor:Im Fond Blumenstick von Kreisrund gefaBt, auf dem Rand Bluitenzweige. Diam.22,5 cm.
+- Zwei Tellerchen. a) Blaudekor:Figirliche Darstellungen. Blaumarke: China.b) Bunter Dekor:Rosen und
+- 186 Blitenzweige in leichter Reliefierung. Diam.12 cm bzw. 13,5 cm.
+- 187
+- Desgl. Rand goldgehoht. Dekor: Groteske Ranken und Blumen in Blau, Rot und Gold. Diam.10 cm.
+- 188
+- Zwei tiefe Tellerchen.Blaudekor:Gitterwerk,Blitenzweige und Streublumen. Diam. 16 cm.
+- 189 Drei tiefe Tellerchen. Blaudekor: Blumen, Gitter-und Strauchwerk. Diam. 15,5—16,5 cm.
+- 190
+- Acht Tellerchen. Leicht gewellter Rand. Blaudekor: Um Kreisrund acht Felder mit Zweigen und Landschaften. Blaumarke.Diam.12,5 cm.
+- 191
+- 192
+- 193
+- 194
+- Tasse mit Untertasse. Dekor: Chinoiserien, Bluitenzweige und Gitterwerk in Blau, Rot und Gold. Hohe der Tasse 7 cm,Diam. der Untertasse 13,5 cm.
+- Desgl. Glockenformig. Blaudekor: In sechs Feldern Zweige und Blumen. Blaumarke. Hohe der Tasse 5,4 cm,
+- Diam.der Untertasse 13,8 cm.
+- Zwei Tassen mit Untertassen. Glockenformig. Blaudekor: Groteske Ranken,Blitenzweige und FluBlandschaften. Hohe der Tassen 8 cm, Diam. der Untertassen 13,5 cm.
+- Tiefes Schisselchen. Leicht gewellter Rand. Blaudekor: Im Fond Vogel zwischen Blattwerk, auf dem Rand groteskes Bandornament. Hohe 5 cm, Diam.14 cm.
+- 195 Zwei runde Schisselchen. Gewellter Rand, leicht geriefelt. Blaudekor: Chinesenszenen. Diam. 15 cm.
+- 196 Tiefe runde Schissel. Blaudekor: Auf der AuBenseite chinesische Seelandschaft. Hohe 1l cm, Diam. 25 cm.
+- 197 Zwei tiefe Schisseln. Rund, leicht geriefelt. Blaudekor: Im Fond Ente bzw. Frosch in Landschaft, auf Schulter, Rand und AuBenseite Blumen und groteskes Rankenwerk. Hohe 7 cm, Diam.21 cm.
+
+bd0o
+
+- 198 Vier runde Schisseln. Bunter Dekor: Im Fond Blumenkorb, auf der Leibung in runden und querovalen Reserven Blumen und Landschaften. Hohe 7,5 cm, Diam. 15 cm.
+- 199 Runde, tiefe Schale. Braungehohter Rand. Blaudekor:Im Fond am Rand und an der AuBenseite Blumen
+- und Blitenzweige. Hohe 7,5 cm, Diam. 14,5 cm.
+- Desgl. Fassonierter Rand. Blaudekor: Im Kreisrund des Fonds und auf acht AuBenfeldern chinesische,figir-
+- 200 liche Darstellungen. Hohe 9 cm, Diam. 19 cm.
+
+229
+
+100
+
+CO
+
+Q0
+690
+
+RU
+
+2D
+
+90
+
+Rob yo0
+
+aob
+
+- 201 Desgl. Glockenformig. Blaudekor:Im Fond und an der AuBenseite groteske Drachenmotive. Hohe 9,5 cm, Diam.19 cm.
+- 202 Zwei tiefe Schalen. Oval. Blaudekor: Im Fond und an der AuBenseite Blitenzweige,am Rand Gitterwerk
+- und Bandornament. Diam.25 x31 cm.
+- 203 Desgl. Rund. Blaudekor: Im Fond Blumen, auf der AuBenseite chinesische Seelandschaften. Hohe 9 cm, Diam.22cm.
+- 204 Desgl. Ovale Grundform, achtseitig. Blaudekor:Im Fond chinesische Gartenlandschaft, an der AuBenseite
+- und auf dem Rand Blitenzweige. Hohe 7,5 cm, Breite 28,5 cm.
+- Zwei runde Schalen. Leicht gewellter Rand. Blaudekor: Im Fond Blitenzweige und Blumen, um den Rand
+- 205 Blumenbordure. Diam.21 cm,Hohe 6 cm.
+- 206 Drei Schalen. Rund. Blaudekor: Im Kreisrund des Fonds und auf dem Rand Blitenzweige. Diam. 22 cm.
+- 207 Hohe des Koppchens 4 cm, Diam. der Untertasse 11,5 cm.
+- Desgl. Kugelbauchig. Blaudekor:Im Fond Blumenkorb. Am Rand Blitenzweige. Hohe des Koppchens
+- 208 4,5 cm,Diam.der Untertasse 13 cm.
+- 209
+- Zwei Koppchen. a) Kugelbauchig. Blaudekor: Blumenzweige und Landschaften. Blaumarke.-b) Glockenformig. Blaudekor: Vogel in FluBlandschaft, Blumen. Hohe 5 cm bzw. 6,5 cm.
+- 210
+- Desgl. Bunter Dekor: Hahn zwischen Blumen und Blitenzweigen. Hohe 3,5 cm, Diam. 6,5 cm.
+- Zwei Koppchen mit Untertassen. Kugelbauchig, Rander braun gehoht. Blaudekor: Gartenbilder und Blumen-
+- 211 bordiren. Hohe des Koppchens 4 cm, Diam. der Untertasse 11,5 cm.
+- 212 Vier Koppchen mit Untertassen. Kugelbauchig, leicht gewellter,braun gehohter Rand. Blaudekor: Figirliche Chinesenszenen. Hohe des Koppchens 4 cm, Diam. der Untertasse 11,5 cm.
+- 213
+- Desgl. Becherformig. Dekor: Vogel zwischen Blumen und Ahren in Rot und Gold. Hohe des Koppchens 3,5 cm, Diam. der Untertasse 11 cm.
+- 214 Sechs Koppchen mit Untertassen. Landschaftliche Darstellungen und Blattwerk in Blau, Rot und Gold. Hohe der Koppchen 3,4 cm,Diam.der Untertassen 10,5 cm.
+- Desgl. Kugelbauchig, leicht gewellter Rand, Koppchen und Teller geriefelt. Blaudekor: Chinoiserien. Blau-
+- 215 marke.Hohe des Koppchens 4 cm, Diam. des Untertellers 11 cm.
+- 216 Desgl. Kugelbauchig. Blaudekor: Seelandschaften und Blitenzweige. Blaumarke. Hohe des Koppchens
+- 4 cm,Diam. der Untertasse 13 cm.
+- 217 Zwolf Koppchen mit Untertassen. Kugelbauchig. Leichtgewelter Rand. Blaudekor: Groteskes Bandwerk
+- und Blumen. Blaumarke. Hohe der Koppchen 4,5 cm, Diam. der Untertassen 11,5 cm.
+
+## Glas. Arbeiten in Elfenbein
+
+- Kamingarnitur. Dreiteilig. Zwei Standleuchter: Runder FuB,kannelierter,in drei vollrunde Frauenkopfe endigender Schaft, urnenformige Tuille. Deckelvase: Quadratischer Sockel, runder FuB,glockenformiger Korper, Henkel in Form von Schwanen, gedeckelt. Kristallglas —Amethyst-Farbung —in Goldbronze mon-
+
+Abbildung Tafel IV.
+
+- 218 tiert.Empire.Hohe 33,5cm bzw.33 cm.
+- 219 Zwei Deckelvasen. Auf drei ScheibenfuBchen die dreieckige Sockelplatte. Zwischen drei hohen,geschweiften, in Widderkopfen endigenden KlauenfuBen die becherformige Vase mit Glockendeckel. Kristallglas Amethyst-Farbung —in Goldbronze gefaBt. Empire. Hohe 54 cm.
+
+Abbildung Tafel IV.
+
+- 220 Kelchpokal. Runde, ausgeschnittene Sockelplatte,Balusterschaft, glockenformige Kuppa. Auf dieser Hirschjagd in Tiefschnitt. Braunes Glas. Hohe 35,5 cm.
+
+Abbildung Tafel V.
+
+- Deckelpokal. Achtseitige Sockelplatte, mit eingeschliffenem Stern, facettierter Schaft mit starkem Nodus, glockenformige Kuppa, weit uberstehender,facettierter Deckel,mit hohem Deckelknopf. Deutsch. 19. Jahr-
+- 221 hundert. Hohe 53cm.
+- Schmuckschale. Quadratischer Sockel, Balusterschaft, tiefe Schale. Sockel, Schaft und Schale mit groteskem Rankenwerk in Tiefschnitt,in Bronze mit bunter Emaillemalerei gefaBt. Hohe 13 cm.
+- 222 Abbildung Tafel VI.
+- 223
+- 3 Nautilusschale. Auf vier Delphinfuibchen ovaler Sockel, Schaft in Form einer Nereide, Schale schifformig. Kristall mit reichem Cloisonnebeiwerk. 19. Jahrhundert. Hohe 39 cm.
+- 224
+- Vexierglas. Auf querovalem, fahrbarem Sockel vollrunder, gefligelter Drache. Sockel mit Landschaft in Tiefschnitt. Rankenbordiren in buntem Cloisonne. Hohe 16,5 cm, Breite 22,5 cm,Tiefe 10,5 cm.
+- 225
+- Weinglas. Sechsseitiger Balusterschaft — abgebrochen .Auf der Kuppa in drei von Ranken gefaBten Ovalen reitender Hirte und Pferde.19. Jahrhundert. Hohe 13 cm.
+- 226 Erzengel Michael. Der Erzengel in Ruistung mit Flammenschwert,zu seinen FuBen der besiegte Luzifer. Hoher vierseitiger Stufensockel mit Greifen und Maskarons an den Ecken. Fleischteile in Elfenbein, Ruistung in Metall. Moderne Arbeit in Anlehnung an die Michaelsgruppe Peter Candids. Hohe 57 cm.
+- Abbildung Tafel VIl.
+- Weibliche Allegorie. Nackte Frauengestalt mit umgelegtem Mantel,in der Rechten Urne mit Feuer. Elfenbein
+- 227 19. Jahrhundert. Hohe 21 cm.
+- 228 Vier weibliche Figuren. Vollrund, stehend, Holzsockel. Elfenbein. Moderne Arbeit. Hohe 33,5 cm.
+- 229 Junge Empiredame und Kavalier.Vollrund, stehend. Holzsockel. Elfenbein. Moderne Arbeit. Hohe 22 cm bzw.23,5cm.
+- 230 Statuette des hl. Antonius. Vollrund. Stehend. Holzsockel. Hohe 12 cm.
+- 231
+- Statuette Napoleons. Als Feldherr. Stehend, vollrund. Holzsockel. Elfenbein. Hohe 31,5 cm.
+- 232 Bettelmonch.Vollrund, stehend. Gewandteile in Holz,Fleischteile in Elfenbein.Moderne Arbeit. Hohe 16 cm.
+- 233 Zwei Statuetten. Bauer und Knecht. Vollrund, stehend. Holzsockel. Elfenbein. Moderne Arbeit. Hohe
+- 21,5 cm bzw. 20 cm.
+- 234 derne Arbeit. Hohe 18 cm.
+- 235 Musikkapelle. Bestehend aus dem Dirigenten und acht Musikanten. Vollrund, stehend, Sockel in Form eines
+- BierfaBchens. Elfenbein. Moderne Arbeit. Hohe 15,3 cm.
+- Relief. Nackte,weibliche Figur mit Spiegel. Stehend. In schwarzem Rahmen mit Elfenbeineinlagen. Elfenbein. 19. Jahrhundert. Hohe 14 cm, Breite 6 cm.
+- 236
+- 237
+- Elfenbeinschnitzerei. Hochrechteckig. Weiblicher Ruickenakt in Hochrelief. Anlehnung an Durers weiblichen Akt. 19. Jahrhundert. Hohe 11 cm,Breite 6 cm.
+- 238 Relief: Hirschjagd. In schwarzem Rahmen. Reiche figirliche Darstellung. Elfenbein, Hohe 1l cm, Breite 46cm.
+- 239 Elfenbeinschnitzerei. Hochrechteckig. Christus am Kreuze mit Kriegsknechten und Engeln. Hochrelief. Arbeit des 19. Jahrhunderts nach altem Vorbild. Hohe 14 cm, Breite 8 cm.
+- Ovale Platte.Im vertieften Fond von Bandwerk gefaBt Gottermahl, auf dem Rand in breiter Bordire antike Gotter und Gottinen,Putten und Karyatiden in reichster Reliefschnitzerei. Eifenbein. Ruckseite mit rotem Samt bezogen. Arbeit des 19. Jahrhunderts. Hohe 53 cm, Breite 70 cm.
+- 240 Abbildung Tafel 1IX.
+- 240a Schachspiel. Brett: Die schwarzen Felder und die Randleisten mit reichster Reliefschnitzerei: Elefanten, Vogel und Gottheiten zwischen Rankenwerk. Wohl ostasiatische Arbeit. Figuren vollrund, auf Saulen
+- sockel Elfenbeinschnitzerei.19. Jahrhundert.Brett 45X45 cm.
+- Jagdhorn. Zwischen Kartuschenwerk Hirschjagdszene, Kriegstrophaen und Portrat Heinrichs Il. von Frankreich in Reliefschnitzerei. Elfenbein. Moderne Arbeit..Lange 125 cm.
+- 241
+- 242 Walzenkrug.Auf vier kurzen VolutenfiBen mit vollrunden Tierkopfen,gehenkelt,gedeckelt.Auf der Leibung Jagdbild in Reliefschnitzerei. Bekronungsfigur des Deckels Wildschwein. Moderne Arbeit im Geschmack des 16.Jahrhunderts. Elfenbein. Hohe 33,5 cm.
+- 243 Buchdeckel. Rechteckig. Blumenstreuender Engel. An den Ecken durchbrochenes Gitterwerk. Elfenbein. Mitte des 19. Jahrhunderts. Hohe 9,5 cm, Breite 7,5 cm.
+- 244 Stockgriff.Vollrund. In Form eines Jagers, der auf dem Ricken einen Vogel tragt. Elfenbein. Hohe 13cm.
+- 245 Stockgriff. In Form eines vollrunden, mannlichen Kopfes. Aus dem Stick eines Hirschgeweihes. 19. Jahrhundert. Hohe 8,3 cm.
+- 246
+- Zwei Facher. Gestell Elfenbein. a) Papierfahne mit Schaferszene in Aquarellmalerei - b) Seidene Fahne mit figirlicher Darstellung aus dem Anfang des 19. Jahrhunderts. Lange 23 cm bzw.27 cm.
+
+ab0
+
+P
+
+Vob
+
+Mo hoy
+
+RD
+
+CO0
+
+RO
+## Arbeiten in Gold, Silber, Bronze, Messing
+
+- Halskette mit Brosche und Ohrringen. Feingliederige Kette. Filigranrosetten mit Chrysopras, Goldemaille
+- 247 und bunten Steinen. Gold. Um 1800.
+- 248 Uhr mit Gehange. Hochoval mit durchbrochenem Rankenwerk, vorgelegten Laubgehangen und Emaillemalerei:Weibliche Figur am Altare des Amor; auf dem Uhrdeckel Kinderportrat,auf dem Mittelglied Blumenkorb mit Tauben. Gold. Um 1800. Franzosisch.
+- Halskette mit Ohrringen. Filigranrosetten mit echten Perlen und Tirkisen. Gold. Vermutlich italienisch.
+- 249 Anfang 19.Jahrhundert.
+- 250 Zwei Siegelringe. Ringreif und Fassung der Ringplatte mit reliefiertem Weinlaub. Siegelplatte mit Karneol-
+- 251 Halskette. Aus achtzehn von Schmetterlingskranzen gefaBten Amethysten bestehend. Gold. Um 1830.
+- gemmen, Ringreif mit Smaragden, Opalen und Platinablumen. Gold. Anfang 19. Jahrhundert. Franzosisch.
+- 252 Diadem. Neun gotisierende Zacken, Filigranrosette mit bunten Steinen, dariber von echten Perlen gebildete
+- Blimchen. Auch als Armband zu verwenden. Gold. Deutsch. Um 1830.
+- 253 Broche. Hochoval. Auf Perlmutter glatter Topas von vollunden Blumen umlegt. Gold. Deutsch. Um 1840.
+- 254
+- Halskette,Kreuz,Brosche, Ohrringe und Armband. Spiralwerk,Ranken und Weinlaub in Filigranarbeit. Der Stein des Armbandes fehlt. Topas und Gold. Um die Mitte des 19. Jahrhunderts.
+- 255
+- Schirmgriff. Zwinge rotes Goldemaille mit echten Perlen besetzt, darauf Kugel in Bergkristall. 19. Jahrh.
+- 256 Reisebesteck. Bestehend aus Trinkbecher, Eierbecher, Doschen,zwei Gabeln,zwei Loffeln und einem Messer. In Lederetui. Beschaumarke:Augsburg. 18. Jahrhundert. Gewicht des Bechers 168 g,Gewicht der beiden
+
+Abbildung Tafel IX.
+
+- Dekor: Rokaillen und Muschelwerk in reliefierter und gravierter Arbeit. Zum Teil erganzt. Silber vergoldet. Loffel 83g, Gewicht der kleinen Gabel 50g, Gewicht des Eierbechers 65g, Gewicht des Doschens 90g.
+- 257 Desgl. Bestehend aus Loffel, Gabel und Messer. Achtseitiger Griff in weiBem,buntgeadertem Marmor. Silber vergoldet. In Lederetui mit goldgepreBtem Rokaillenwerk. 18. Jahrhundert. Zum Teil erganzt. Lange 15,3-18,4 cm.
+- Augsburg. Silber. Hohe 8,2 cm, Gewicht 135 g.
+- 258 Jubilaumsbecher. Walzenformig, gegen oben leicht ausladend. Auf der gepunzten AuBenseite Brustbild Zwinglis mit Inschrift:Ulrich Zwingli zum Andenken der Reformation am Ill. Jubil. Jan.18io.Beschaumarke.
+
+Abbildung Tafel VI.
+
+- 259 GroBer Prunkpokal.Runder FuB,reich profilierter alusterschaft,glockenformige,mehrfach eingezogene Kua. Auf deren Wandung Kampfszenen in reliefierter Arbeit. FuB, Schaft,Kuppa und Deckel mit Frichtesticken, Bandwerkornamenten und figurlichem Schmuck in reichgetriebener Arbeit,Deckel mit Bekronungsfigur. Silber. Arbeit des 19. Jahrhunderts im Geschmacke des 17. Jahrhunderts. Hohe 90 cm. Gew. 5 kg 15 g. Abbildung Tafel X.
+- 260 GroBe Prunkvase.Auf vier VolutenfiBen der quergerillte runde Schaft,urnenformiger, doppelhenkeliger Korper mit weit iberstehendem Rand. Auf der Bauchung Schaferszene,Henkel in Form vollrunder Karyatiden. Reiche Rokaillenornamentik, Putten und Rosengehange. 1l. Rokoko. Silber. Hohe 74 cm. Gew. 8 kg 670 g. Abbildung Tafel X.
+- 261 Trinkbecher. Auf drei KugelfiBchen der runde,reliefierte FuB. Walzenformige Kuppa mit Wappen, Rankenwerk und figirlichen Darstellungen in gravierter Arbeit.Inschrift:Nicolaus Herzog Amz Weibel 1614. Arbeit des 19. Jahrhunderts im Geschmacke des 17. Jahrhunderts. Silber. Hohe 12,5 cm. Gew. 330 g.
+- 262 Trinkbecher. Auf drei KugelfiBchen der walzenformige Becher. Dekor: Zwischen Ranken,Blumen und Frichten Brustbild Zwinglis mit Umschrift: Reformator Ulrich Zwingli stirbt den Heldentod 1531. Beschaumarke. Arbeit des 19. Jahrhunderts im Geschmacke des 17. Jahrhunderts. Hohe 10 cm, Gew. 160 g. Abbildung Tafel VI.
+- Abbildung Tafel VI.
+- 263 Trinkbecher.Walzenformig. Zwischen getriebenem und graviertem Rankenwerk Brustbild Ferdinands v. Gonzaga und Wappenkartusche. Beschaumarke. Silber. Moderne Arbeit. Hohe 8,2 cm, Gew.105 g.
+- 264
+- Gestell fir Pfeffer-,Essig-und SalzgefaB. Dreieckige Sockelglocke, Mittelschaft mit Tragring. EinsatzfaBchen in Glas—PfefferfaBchen fehlt. Sockelplatte und Griff mit Rokaillenwerk in gravierter Arbeit. Silber. Beschau-
+- Trinkbecher. Walzenformig,gegen oben leicht ausladend. Auf der Wandung Barenschlacht in gravierter Arbeit und Inschrift: ffoercht dir nit,du kleine herd. Luce I2. cap. Beschaumarke. Silber. 19. Jahrhundert. Hohe 10 cm, Gewicht 180 g.
+- 265 marke. Hohe 19 cm, Diam.17 cm.
+- Abbildung Tafel VI.
+- 267
+- 268
+- 269
+- 270
+- Am oberen Ende des Griffes Flakon in Form eines vollrunden Storches. Beschaumarke. Wohl hollandisch.
+- Vorlegloffel. Akanthusornamente,Wappen und figirliche Darstellungen in getriebener Arbeit. Am Ende des Griffes flachreliefierte Mihle. Hollandisch. 19. Jahrhundert. Lange 34 cm. Gewicht 180 g.
+19. Jahrhundert. Lange 37,5 cm. Gewicht 355 g.
+- Kruzifix. Kreuz mit Schildpatt belegt und mit Flammleisten gefaBt; der Korper, vollrund, in Bronze. Im Geschmacke des 17. Jahrhunderts. Hohe 57 cm.
+- Mantelspange. Zwei Rosetten. Um stark erhohten Nodus in konzentrischen Kreisen reiches Spiralenwerk. Filigranarbeit. Beschaumarke. Silber. Hollandisch.1. Halfte des 19. Jahrhunderts. Diam.einer Rosette 9,6 cm, Gesamtgewicht 155 g.
+19. Jahrhundert. Breite 12,5 cm, Tiefe 10 cm, Gewicht 65 kg.
+- Kleine Schale. Oval, mit weit iberstehendem Rand. Ranken und Blattwerk in reichster Filigranarbeit. Silber.
+- 271 Ollampchen. In Form einer Laterne. Sechsseitiger FuB, gewundener Schaft, darauf die sechsseitige Laterne.
+- 272 Windmihle. Mit beweglichem Rad. Mit Inschrift und Jahreszahl 1783. Silber. Beschaumarke. Hollandisch
+- Beschaumarke. Silber. 19. Jahrhundert. Hohe 17,2 cm, Gewicht 120 g.
+- Hohe 22,5 cm, Gewicht 535 g.
+- 274 Bucheinband. Hochrechteckig. Durchbrochenes Rokaillen-und Gitterwerk. Auf der Vorderseite Anbetung der Hirten, auf der Ruckseite Hl.Drei Konige in Relief. Silber.19.Jahrh. Hohe 12cm, Breite 9cm, Gewicht 190g
+- 273 Windmihle. Auf glockenformigem FuB mit reliefiertem Akanthusornament kleine Windmihle. Mit Beschaumarke.Hollandisch. 19. Jahrhundert. Silber. Hohe 19 cm, Gewicht 148kg.
+- 275 Sektkihler. Moderne Arbeit. Hohe 28 cm.
+- 276 Obstschale. Ovale Grundform. Auf Astwerksockel mit vollrunden Frichten, Blattwerk und Putten tiefe, ovale Bakkaratschale. Silber. Moderne Arbeit. Hohe 24 cm, Breite 66 cm. Abbildung Tafel X.
+- 277 vertikal gerillt. Beschaumarke. Silber. Moderne Arbeit. Hohe 37 cm,Diam. 34 cm. Abbildung Tafel X.
+- Bowle. Auf vier FuBchen, runder Sockel, schalenformiger, gehenkelter und gedeckelter Korper. Zum Teil
+- 278
+- Tabernakel-Ture. Hochrechteckig, oben abgerundet, gewolbt. Christus und zwei Juinger am Abendmahltisch. Getriebene Arbeit. Beschaumarken. Silber.19. Jahrhundert. Hohe 53cm,Breite 35 cm.
+- 279
+- Wandplatte. Oval. Figirliche Darstellung in getriebener Arbeit:Abschied eines Ritters von seiner Familie. 19,Jahrhundert.Hohe 44 cm,Breite 55 cm.
+- 280 Wandplatte. Rechteckige Grundform, leicht gewellter Rand. Im Fond reiche figiirliche Darstellung:,Verhandlung zwischen zwei Heerfuihrern, auf dem Rand reiche Bordire mit Wappen, Rankenwerk und Fruchtsticken. Getriebene Arbeit. Beschaumarke. Arbeit des 19.Jahrhunderts in barockem Geschmack. Silber. Hohe 68 cm, Breite 49 cm.Gewicht 2kg 330g.
+- 281 Wandplatte.Oval. Im Fond: Figirliche Darstellung ,Renovellement d'Alliance entre la France et les Suisses fait dans l'Eglise de Nostre Dame de Paris par le Roy Louis xiV et les Ambassadeurs des Xill cantons et de leurs Alliez. Le XIll Novembre MDCLXIlI.Am Rand Wappen und Rankenwerk. Getriebene Arbeit. Silber. Arbeit des 19. Jahrhunderts. Lange 92 cm, Breite 72 cm. Gewicht 4 kg. 600 g.
+
+Abbildung Tafel Vill.
+
+- 282 Teeservice. Sechsteilig,bestehend aus vier Kannen,Henkelkorbchen und Zuckerschale. Teekanne und Henkelkorbchen kugelbauchig, die drei ibrigen Kannen und die Zuckerschale walzenformig. Auf der Leibung groteske Drachen zwischen Blumen und Ranken in leichter Reliefierung. Silber, Dresden. Moderne Arbeit.
+- Hohe 9-14cm.Gewicht 2kg 252g.
+- 283 Schreibzeug. Rechteckige Sockelplatte in rotem Marmor. Darauf sitzende Psyche, die Hande sich an einem
+- 284 Kamingarnitur. Standuhr: Querovale Grundform. Auf Volutensockel Diana, die eben einen Hirsch erlegt,
+- Feuer warmend,zu beiden Seiten urnenformiges GefaB. Bronce. Empire. Anfang d. 19. Jahrhunderts. Hohe 27 cm,Breite 36 cm, Tiefe 24 cm.
+- Putte mit Riden. In Astwerk von Muschelornament iberhoht das runde Uhrgehause. Zwei Standleuchter: Akanthuswerk mit acht Lichtertillen,vollrunder Putto mit Reh bzw. Bar. Goldbronze auf Holzsockeln. 19. Jahrh. Hohe der Standuhr 75 cm,Breite der Standuhr 95 cm,Hohe der Standleuchter 92 cm.
+- 284a Kamingarnitur. Finfteilig.a) Kaminuhr: Rechteckiger Sockel,neben hochrechteckigem Uhrgehause mit bekronender Vase, vollrunde stehende,weibliche Gestalt. b) Zwei Vasen: Ovaler Sockel, zwei vollrunde Putten tragen eine glockenformige, gedeckelte Vase. c) Zvei Standleuchter: Wirfelformiger Sockel, darauf gefligelte Frauengestalt, die fuinf Leuchterarme tragt. Schwarz und grin geaderter Marmor. Bronze.Empire.Hohe a) 45 cm,b) 43 cm,c) 55 cm,
+
+Abbildung Tafel XI.
+- 285 Tafelaufsatz. Runder,hoher Sockel mit reliefiertem Akanthusmotiv und Putten mit Blumengehangen. Darauf zwei tanzende,vollrunde Bacchantinnen, die iber ihren Kopfen ein Korbchen tragen. Bronze. Empire. Hohe 55 cm, Diam.22 cm.
+- 286 Zwei Standleuchter. Runder Sockel. Auf Kugel vollrunder, stehender Putto, auf dem Kopf ein Korbchen, aus dessen Rand funf Volutenarme mit Glockentillen wachsen. Bronze. Empire. Hohe 53 cm.
+- 287
+- Abbildung Tafel VIl.
+- Zwei Standleuchter. Auf rechteckigem Rokaillensockel vollrunder, stehender Rokokoherr bzw. Rokokodame. Aus einem hohen Rokaillenbogen wachsen sieben Volutenarme mit tulpenformigen Tillen. Goldbronze. 19. Jahrhundert. Hohe 67 cm.
+- 288 Zwei Standleuchter. Auf rundem Marmorsockel stehende mannliche bzw. weibliche Figur. In den Handen halt sie ein Fuillhorn, aus dem neun Volutenarme mit kelchformiger Tulle wachsen. Bronze. 19. Jahrhundert. Hohe 113 cm.
+- 289
+- Zwei Wandleuchter. Vollrunde mannliche bzw. weibliche Hermenfigur, in jeder Hand einen fillhornartigen, doppelten Volutenarm. Bronze. 19. Jahrhundert. Hohe 92 cm.
+- 290 Zwei Standleuchter. Dreieckige, dreimal eingezogene Sockelplatte. Balusterschaft mit reichem,reliefiertem Blattwerk,von drei vollrunden Schwanen getragen. Bronze. Im Geschmack des frihen 19. Jahrhunderts. Hohe 60 cm.
+- 291 Zwei Standleuchter. Hoher Sockel. Mittelschaft mit reich reliefiertem,iberfallendem Akanthusblatt,vier
+- Volutenarme mit kelchformiger Tuille. Bronze. Hohe 77 cm.
+- Standleuchter. Auf quadratischer Sockelplatte vollrunder Atlas. Er tragt die Weltkugel, aus der sieben Vo-
+- 292 lutenarme wachsen. Bronze. 19. Jahrhundert. Hohe 67 cm, Diam. 42 cm.
+- 293
+- Ampel. Drei vollrunde, schwebende Putten tragen eine Krone. Kettengehange. Bronze. 19. Jahrhundert. Hohe 80 cm.
+- 294 Zwei Standleuchter.Rechteckige Sockelplatte.Volutenarm mit iberfallendem Blattkranz, daneben vollrunder Hirsch. Bronze.19. Jahrhundert. Hohe 18 cm, Breite 17 cm.
+- 295 Standleuchter. Auf drei FiBen. Bronze. Moderne Arbeit in gotischem Geschmack. Hohe 17 cm.
+- 296 Zwei Turbeschlage. Figirliche Darstellungen, Maskarons und Kartuschenwerk im Geschmacke des 17. Jahrhunderts. Bronze. Moderne Arbeit. Hohe 16,5 cm, Breite 16,5 cm.
+- 297
+- Runder Teller. Im Fond und am Rand Reiterbilder zwischen Ornamentwerk. Bronze. Moderne Arbeit im Geschmacke des 17.Jahrhunderts. Diam.19 cm.
+- 298 Schlissel. Griff mit zwei vollrunden Putten,den Schluisseln Petri und Tiara. Mit bunten Steinen besetzt. Bronze.19. Jahrhundert.Lange 20,5 cm.
+- 299
+- Runde Schale mit langem abgebrochenem  Griff. Im Fond vier weibliche Figuren in gravierter Arbeit. —b) Kleines Bildchen. Rund. Geburt Christi. Bronze. Diam. 13 cm bzw.7,5 cm.
+- 300 Schmuckkasten. Rechteckig,Deckel gewolbt. Mit mythologischen Darstellungen, Rankenwerk und Palmettenbordire in Relief. Bronze. Moderne Arbeit. Hohe 19 cm, Breite 27,5 cm, Tiefe 14,2 cm.
+- 301 Zwei Standleuchter. Quadratischer Sockel. Auf einer Kugel stehende, gefligelte weibliche Figur, die eine Kugel
+- tragt, aus der vier Volutenarme wachsen. 19. Jahrhundert. Hohe 61 cm.
+- 302 Tischglocke. Mit reliefiertem Blumen- und Blattwerk. Bronze. Moderne Arbeit. Hohe 11 cm.
+- 303 Tischglocke.Im Geschmacke des 16. Jahrhunderts. Bronze.Hohe 14 cm.
+- 304 die auf dem Kopfe eine runde Glasschale tragt. 19. Jahrhundert. Hohe 61 cm.
+- 305 Moderne Arbeit.Hohe 29 cm.
+- 306
+- Bechervase und zwei Schmuckschalen. Mit reicher Reliefierung. Bronze. Moderne Arbeit. Hohe 15 bzw. 30cm.
+- 307 RauchergefaB. Hangende Ampel in neugotischem Gestell. Bronze. Hohe 25 cm, Breite 12 cm.
+- 308
+- Schenkkrug. Runder FuB,eiformiger Korper, gehenkelt. Reiche Reliefarbeit. Bronze. Moderne Arbeit.
+- Hohe 45 cm.
+- Henkelvase. Runder FuB,eiformiger Korper,weiter SchnauzenausguB, gehenkelt. Bronze. 19. Jahrhundert.
+- 309 Hohe 33 cm.
+- 309a Mandolinenspielender Knabe. Vollrund, stehend,rechteckiger Marmorsockel. Bronze. 19.Jahrh. Hohe 26 cm.
+- 310 Gong. Reitender Chinese, vollrund. In hohem Astwerkbogen hangt der Gong. Bronze. Hohe 56 cm,
+- 311 Ritter zn Pferd. Querrechteckiger Sockel. Ritter in voller Rustung auf galoppierendem, gewappnetem Rosse. Bunte Emaillemalerei. Arbeit des 19. Jahrhunderts. Bronze.Hohe 35 cm,Breite 29 cm. Abbildung Tafel V.
+- 312 Rokokoherr mit Binokel. Runder Sockel. Vollrund. Buntes Cloisonne mit Perlmutter.19. Jahrhundert. Hohe 10,5cm.
+- 313
+- Zecher. Auf hohem, glockenformigem Sockel mit bunter Emaillemalerei. Vollrund. Cloisonne mit Perlmutter. 19. Jahrhundert. Hohe 15 cm.
+- 314 hundert. Hohe 12cm.
+- 315 Zwei Landsknechte. Flotenspieler und Trompetenblaser.Vollrund, stehend.Hoher Holzsockel. Cloisonne
+- 316
+- mit Perlmutter. Hohe 24 cm.
+- Emailmalerei. Bauernhochzeit. In Anlehnung an Brueghel. Hohe 21,5 cm, Breite 14 cm.
+- 317 Puppenservice. Bestehend aus Kaffeekanne,Milchkannchen. Zuckerdose, zwei Tassen,zwei Untertassen und Tablett. Dekor: Schaferszenen in bunter Emailmalerei. Moderne Arbeit. Hohe 310 cm.
+- 318 Fillhorn. Runder Sockel mit sitzender Nereide, diese tragt das Fuillhorn. Dekor: Mythologische Szenen in
+- bunter Emaillemalerei. Moderne Arbeit. Hohe 46 cm.
+- 319 Zwei Vasen. Runder FuB,kugelformige Bauchung, eingezogener Hals, gedeckelt,gehenkelt. Dekor:Mytho-
+- logische Darstellungen in bunter Emaillemalerei. Moderne Arbeit.19. Jahrhundert. Hohe 47 cm.
+- 320 Ovale Platte. Auf vier LowenfuBchen. Dekor: Im Fond Geburt der Venus, am Rand in Ovalen Monatsbilder. Bunte Emaillemalerei. In Bronze montiert. Lange 31 cm, Breite 26 cm.
+- 321 Ovale, tiefe Platte. Bunter Dekor: Im Fond rechts und im Hintergrund Kriegsheer, in der Mitte Feldherr, dem sich von links die um Gnade flehenden Stadtaltesten nahern.Um den Rand Bordure mit Ranken und Putten.Limogearbeit.Diam.38.X48 cm.
+- 322 Ovale Schale. Leicht reliefiertes Rankenwerk in WeiB auf schwarzem Grund. Limogearbeit. Lange 15 cm,
+- Breite 11 cm.
+- 323
+- Doschen. Ovale Grundform. Auf dem Deckel Frauenkopf,auf den Seiten reliefiertes Rankenwerk in WeiB auf braunem Grund. Limogearbeit. 19. Jahrhundert. Hohe 4,5 cm,Breite 8cm.
+- 324 Zwei Wandleuchter. Zwischen Blatt-und Frichtewerk,von Muschel iberhoht und von zwei Lowen gehalten; in Hochoval mannliches bzw. weibliches Portrat. Darunter finf Volutenarme mit glockenformiger Tuille.
+- Messing. Im Geschmacke des 17. Jahrhunderts. Hohe 56 cm, Breite 44 cm.
+- 325 Wandleuchter. Runder Kerzenteller,Wandblech mit allegorischen Figuren. Messingbronze. Hollandisch. Hohe 17cm,Diam.16 cm.
+- Teekessel. Runder eingezogener FuB,kugelbauchig, gedeckelt,mit Traghenkel. Mit reliefiertem Blattwerk-
+- 326 ornament. Messing.19. Jahrhundert.Hohe 27 cm.
+- 327
+- Tragkorbchen. Auf der AuBenseite reliefiertes Blumen- und Blattwerk. Messing. Hollandisch. Hohe 36 cm.
+- 328 Schirmstander. In Form eines Schirmes. Auf der AuBenseite gravierte, figurliche Darstellungen. Messing. Hollandisch.19. Jahrhundert.Hohe 90 cm.
+- 329 Blasebalg. Mit Buckel- und Laubwerkbordiren in getriebener Arbeit. Messing. Holland. 19. Jahrhundert.
+- Lange 42 cm.
+- Zwei Vasen. Runder FuB, stark gekropfter, walzenformiger Korper,weit ausladender Rand. Zackenbordire
+- 330 mit Rankenwerk in orientalischem Geschmack. Hohe 40 cm.
+- 331 Ascheneimer. Auf drei KlauenfiBen walzenformiger nach oben sich verjingender Korper, gedeckelt. Rankenwerk und Wappen in gravierter Arbeit und Inschrift: Anno Amsterdam 1698. Messing. Hollandisch. 19. Jahr-
+- hundert.Hohe 50 cm.
+- Querrechteckige Grundform. KlauenfiBe.Frichte und Blumenwerk in getriebener
+- 333 Zwei Blumenkibel. Walzenformig, auf drei KlauenfiBchen. Auf der Wandung Ranken, Lowen mit Wappen und Landschaft, getriebene Arbeit. Messing. Holland. 19. Jahrhundert. Hohe 27 cm, Diam. 23 cm.
+- 332 Zwei Blumenkasten. Arbeit. Messing. Holland. 19. Jahrhundert. Hohe 32 cm, Breite 90 cm, Tiefe 28 cm.
+- 334
+- Blumenkibel. Walzenformig. Ringhenkel, Rankenbordire, Wappen und Blumenwerk in gravierter Arbeit. Messing. Holland. 19. Jahrhundert. Hohe 36 cm, Diam. 43 cm.
+- 335
+- Desgl. Walzenformig, eingezogener FuB. Ringhenkel. Auf der Wandung Buckel, Wappen und Obststick in getriebener Arbeit. Messing. Holland. 19. Jahrhundert. Hohe 26 cm, Diam. 27 cm.
+- 336 Desgl. Auf KlauenfiBen, walzenformig. Wappen und Buckelornament in getriebener Arbeit. Messing. Holland. 19. Jahrhundert. Hohe 38 cim, Diam. 36 cm.
+- 337 Desgl. Kugelformig,auf drei Klauenfiben mit Ringhenkeln. Wappen und Blumenwerk in gravierter Arbeit. Messing. 19. Jahrhundert. Hohe 32 cm,Diam. 24 cm.
+- 338
+- Desgl. Mit Buckelornament und Frichtesticken in getriebener Arbeit. Messing. Holland. 19. Jahrhundert. Hohe 30 cm,Diam.32 cm.
+- 339
+- Desgl. Auf drei Klauenfiben, walzenformig. Mit Ringhenkeln. Tulpenornament und figirliche Darstellung
+- 340
+- in gravierter Arbeit. Messing. Holland.19. Jahrhundert. Hohe 37 cm,Diam. 44 cm.
+- 341 Desgl. Auf Klauenfiben, kugelbauchig,Ringhenkel, Tulpenornament und Wappen in gravierter Arbeit. Ein
+- Desgl. Rechteckig. Auf KlauenfuiBen, Ringhenkel. Blumen und Wappen in getriebener Arbeit. Messing. Holland. 19. Jahrhundert. Hohe 41 cm, Breite 49 cm, Tiefe 65 cm.
+- FuB fehlt. Messing. Holland. 19. Jahrhundert. Hohe 38 cm, Diam. 39 cm.
+- Desgl. Walzenformig,auf drei Klauenfiben, zwischen Blumenwerk hollandische Landschaften in getriebener Arbeit. Messing. Holland. 19. Jahrhundert. Hohe 50 cm, Diam.42 cm.
+- 342 Desgl. Auf Klauenfiben,kugelbauchig. Auf der Wandung Wappen zwischen Akanthusornament in getriebener Arbeit. Messing. Holland. 19. Jahrhundert. Hohe 50 cm, Diam. 47 cm.
+- 343
+- Desgl. Auf drei KlauenfiBchen;urnenformiger Korper, Ringhenkel. Blumenstick und Wappen in getriebener
+- 345 Desgl. Kugelbauchig. Auf Klauenfibchen. Ringhenkel. Buckelmuster,Frichtestick und Wappen in getriebe-
+- 344 Arbeit. Messing. Holland. 19. Jahrhundert. Hohe 59 cm, Diam. 35 cm.
+- ner Arbeit. Messing. Hollandisch. 19. Jahrhundert. Hohe 40 cm, Diam.35 cm.
+- 346 KokosnuBbecher. Auf rundem, profiliertem FuB vollrundes Mannchen, das den Becher tragt. Auf dessen Wandung Schlachtenbilder in reliefierter Arbeit. Deckel mit Bekronungsfigirchen.In Bronze montiert. Mit Monogramm T.S.Hohe 25 cm.
+
+Abbildung Tafel VI.
+
+- 346a Pokal. Walzenformig,mit ausladendem Rand. Auf dem Deckel vollrunde Figur der Justitia. Auf der Wandung Ranken und Bandornamentik, figirliche Darstellungen in getriebener Arbeit. Hohe 41 cm.
+- 347 Dose. Langoval. Auf dem Deckel in Rokaillenkartusche Brustbild Wilhelms, des Prinzen von Oranien, figirliche Darstellungen mit Inschriften; auf der Ruickseite ahnlicher Dekor. Holland. 18. Jahrhundert. Lange
+- 14cm,Breite 4cm,Hohe 3cm.
+- Runde Dose. Auf dem Deckel Reliefportrat eines jungen Fuirsten in antiker Rustung. Bez.:W. Echter. Messing.
+- 348 19. Jahrhundert.Diam.9 cm.
+- 349
+- Kleines Korbchen. Doppelhenkelig. Geflochten. Rotbraun bronziert. Moderne Arbeit. Hohe 5 cm, Diam. 16cm.
+- 350 Zwei Tabletts. Rechteckig,mit Traggriffen.Rand und Griffe mit Blumen und Blattwerk in getriebener Arbeit.
+- Lange 61 bzw.56 cm,Breite 45 bzw.43 cm.
+- 351 Henkelkanne. Gedeckelt.Reliefarbeit in orientalischem Geschmack. Moderne Arbeit. Hohe 32 cm.
+- Vase.Profilierter Sockel, kugelbauchig,enger Hals,gehenkelt. Mit reichem Figuren- und Kartuschenwerk
+- 352 und zwei bunten Emaillemalereien:Putten in Landschaft. Moderne Arbeit. Hohe 49 cm.
+- 353
+- Vase. In Form einer Blume. Irisierend. Moderne Arbeit. Hohe 56 cm.
+
+## Figural- und Kleinplastik
+
+- 353a David mit dem Haupte des Goliath neben dem Konig,wird von musizierenden Jungfrauen vor den Toren der Stadt empfangen. Bemaltes Holzrelief. 1. Halfte 17. Jahrhunderts. Deutsch. 31,5 X 52 cm. Holzrahmen.
+- 354 Faun und Bachantin. BockfuiBiger Faun, eine Bachchantin auf dem SchoB, die ihn lachend am Bart zupft. Er schlagt mit einem Tamburin nach ihr. Bronzegruppe auf einem Sockel von rotem, geadertem Marmor. Bez.: Clodion. Hohe der Gruppe mit Sockel 77 cm, Durchmesser der Plinthe 29 cm. Abbildung Tafel XIl.
+- 355 Betribter junger Faun. Mit ibereinander geschlagenen BockfuiBen. Auf Felssticken sitzend. Bez.: Clodion.
+
+Abbildung Tafel XIl.
+
+- Bronzestatuette. Hohe 59,5 cm.
+- 356 Satyr sucht eine Nymphe zu kissen. Vollrund. Bez.: Clodion. Bronzestatuette. Rechteckige Sockelplatte in rotem Marmor. Hohe 36 cm, Breite 37 cm.
+
+Abbildung Tafel XVI1.
+
+- 357 Auf Felssockel sitzender Satyr mit Trauben. Neben ihm stehende Nymphe, zu seinem FiBen kleiner Satyr.
+- Bronzestatuette.Bez.:Clodion. Runde Sockelplatte. Hohe 57 cm. Abbildung Tafel XIV
+- 358 Biste der Juno.Vollrund.Auf rundem,violettem Sockel. Nach einer Plastik von Houdon. WeiB. Hohe 7O cm.
+- Jugendlicher Hirte. Ein Lammchen im Arm, Stab in der rechten Hand. Bronzestatuette. Hohe 88 cm,Diam.
+- 359 der Plinthe 23cm.
+- 360 Psyche.Psyche auf Felsen sitzend, den Kopf nach links nach einem auf ihrer linken Schulter sitzenden Schmetterling gewandt. Marmorstatette. Hohe 67 cm,Diam. der Plinthe 22 cm.
+- 361 Marmorgruppe. Raub einer Sabinerin durch zwei Latiner. Uber einem am Boden kauernden Latiner steht ein zweiter, der die Sabinerin wegtragt. Marmorgruppe auf Marmorsockel. Hohe der Gruppe mit Plinthe 97,5 cm, Hohe des Sockels 41 cm.
+- 362
+- Mediceische Venus. In weiBem Marmor. Marmorstatuette Hohe 79 cm,Diam.der Plinthe 23,5 cm.
+- 363 Biste einer jungen Dame. Im Haar ein breites Band,um Nacken und Brust ein Tuch geschlungen. WeiBgelber Marmor. Auf weiBem,kurzem Marmorsockel. Anfang des 19. Jahrhunderts. Hohe 61 cm.
+- Biste der Pallas Athene. Auf kurzem,rundem Sockel. Fleischteile in gelbem Marmor. Schultertuch roter
+- 364 Marmor. Helm in Bronze. 19. Jahrhundert. Hohe 67 cm.
+- 365 Biste der Pallas Athene. In reicher,antiker Ristung,mit Helm. Sockel rechteckige Grundform, auf Akanthus-
+- werkfiBen.Bronze.19. Jahrhundert.Hohe 235 cm,Breite 90 cm.
+- 366
+- Geharnischter Krieger.Vollrund, in der Rechten den Rundschild,in der erhobenen Linken den Morgenstern.
+- Quadratische Sockelplatte. Holzsockel. Bronze. 19. Jahrhundert. Hohe 195 cm.
+- Darstellung des Abendmahls. Mit Anklangen an Lionardos berihmte Komposition. Hochrelief in Bronze.
+- 367 58x 38,5 cm.Alter geschnitzter Holzrahmen.
+- Madonna mit Kind. (Hochrelief.) Bemalt.GipsabguB einer Renaissanceplastik.78 X57 cm.In Holz-
+- 368 rahmen.
+- Zwolf Reliefbisten. Romische Kaiser und Kaiserinnen. Bronze auf schwarzer Holztafel. 19. Jahrhundert.
+- 369 Hohe 23 cm,Breite 33cm.
+- 370 Zwei Reliefs. a) Madonna von Engeln umgeben. b) Brustbild des Johannesknaben. Bronze. Hohe 12,5
+- 371
+- bzw.17,5cm, Breite 10 bzw. 9,5 cm.
+- Relief. Christus wird zur GeiBelung gefuihrt. Goldbronze. In schwarzem Rahmen unter Glas. Hohe 17,7 cm, Breite 14,7 cm.
+- 372 Narr mit Papagei spielend. Vollrund. Sitzend. Quadratischer, mit rotem Samt bezogener Sockel. Bronze.
+- 19.Jahrhundert. Hohe 40 cm.
+- 373 Statuetten zweier Empireherren. Stehend,vollrund, auf runder Sockelplatte. a) Mit der Linken ans Kinn greifend. b) Mit Stock. Bronze. 19. Jahrhundert. Hohe 31,5 cm.
+- 374 Barentreibergruppe.Rechteckige ockelplatteNeben dem Baren,auf dessen Ricken in Affe sitt,sthendr Araber. Beschadigt. Bronze und Messing mit Perlmuttereinlagen.19. Jahrhundert.Hohe 22 cm,Breite 28 cm, Tiefe 19 cm.
+- 375 Nereide in Nachen mit Putto. Liegend, vollrund. Bronze. 19. Jahrhundert: Hohe 35 cm, Breite 45 cm.
+- 376
+- Zwei agyptische Sklaven. Vollrund, stehend. a) In den Handen eine Platte tragend, auf ovalem Marmorsockel. b) mit vorgehaltenen Handen; auf Saulentrommel in weiBem Marmor. Bronze. 19. Jahrhundert. Hohe 30,5 bzw.32 cm.
+- Zwei Apostelfiguren. Petrus und Paulus. Vollrund. Stehend. Quadratischer Sockel. Bronze. 19. Jahr-
+- 377 hundert.Hohe 14,5cm.
+- 378 Zwei Apostelfiguren. Vollrund. Stehend. Sockel fehlt. Moderne Arbeit. Hohe 9 cm.
+- 379 des 19. Jahrhunderts.Hohe 20 bzw.25 cm.
+
+uouo
+- 380 Petrus und Paulus. Vollrund. Stehend. Sockel fehlt. Bronze. Ende des 19. Jahrhunderts. Hohe 27,5 cm.
+- 381 Statue eines Heiligen. Halbrelief. Bronze. 19. Jahrhundert. Hohe 14,5 cm.
+- 382
+- Zwei weibliche Heiige. Darunter hl. Apollonia. Stehend, vollrund, auf quadratischem Sockel. Bronze. 19. Jahrhundert. Hohe 15,5 cm.
+- 383
+- 384
+- 385
+- Weibliche Figur. Vollrund, stehend. Auf ihren Schultern sitzt eine mannliche Gestalt. Hoher Sockel. Bronze. Moderne Arbeit. Hohe 21 cm.
+- Bacchus mit Schelle,auf einem Esel reitend. Querovale Sockelplatte. Vollrund. Bronze. 19. Jahrhundert. Hohe 23,5 cm.
+- Statuette. Junger Mann in spanischer Tracht,in der erhobenen Linken den Degen (abgebrochen). Rechteckige Sockelplatte.Bronze.19. Jahrhundert.Hohe 26 cm.
+- 386
+- Amor mit Kocher und Bogen. Bogen fehlt. Auf Holzsockel. Vollrund. Bronze. Hohe 16,5 cm.
+- Lowe und Tiger im Kampfe. Vollrund, auf querrechteckigem Sockel. Bronze. Moderne Arbeit. Hohe 14 cm,
+- 387 Breite 19 cm.
+- 388 Ritter zu Pferd. Auf rechteckigem Sockel. Vollrund. Bronze. 19. Jahrhundert. Hohe 12 cm.
+- 389 Chinese mit Wanderstab. Uber der linken Schulter eine Hacke. Vollrund. Beschadigt. 19. Jahrhundert. Hohe 22cm.
+- 390
+- Bauer, iber der Schulter eine Hacke tragend. Vollrund, stehend. Beschadigt. Bronze. 19. Jahrhundert. Hohe 28,5 cm.
+- 391 Mannliche Figur. Vollrund, stehend,Kopf in Elfenbein, Gewandteile Holz. Auf nicht dazugehorigem Sockel.
+- Hohe 22,5 cm.
+- 392 Sitzende Frau. Vollrund. Lindenholz.19. Jahrhundert. Hohe 12 cm.
+
+## Mobel
+
+Speisezimmer-Einrichtung im Geschmacke des italienischen Barock. Bestehend aus Bufett, zwei Kredenzen, zwei Konsoltischen,rundem Tisch und zwolf Stihlen:
+
+- 393 Bifett. Auf vier vollrunden, liegenden Lowen. Unterbau:Zweitirig, Kranzgesims mit zwei Schubladen. Oberbau:etwas zuriickstehend, zweiturig,mit zwei Schubladen im Sockel, ausladendes Gesims mit geschweiftem, gebrochenem Giebel. Auf den Turen figirliche Reliefschnitzerei.Auf Schubladen und Friesen Rankenwerk. Auf dem Leistenwerk und an den Ecken vollrunde mannliche und weibliche Hermen. Hohe 2,70 cm, Breite 1,50 cm, Tiefe 0,75 cm.
+- 394
+- Kredenz. Auf vollrunden Fratzen rechteckiger,reich profilierter Kasten. Zweitirig. Im Fries.finf Schubladen. Oberbau mit drei offenen auf vollrunden Grotesken ruhenden Facher. Tuiren, Schubladen und Seitenteile mit reichstem,figurlichem Reliefschmuck. Mittel-und Randleisten mit vollrunden Plastiken. Hohe 220 cm, Tiefe 68cm,Breite 180cm.
+- Kredenz.Unterbau:Rechteckiger Kasten.Seitenteile und Vorderseite geschweift.Im Fries zwei Schubladen. Uberstehende Platte. Oberbau: Zwei offene, auf vollrunden, grotesken Fratzen ruhende Facher. Rickseite mit Spiegeleinsatz. Auf Turen, Seitenteilen und Schubladen figirlicheDarstellungen zwischen Rankenwerk in Reliefschnitzerei. An den Ecken und auf den Mittelleisten vollrunde Hermen. Hohe 193 cm, Breite
+- 395 175 cm, Tiefe 62cm.
+- 396 Zwei Konsoltischchen. Auf vier kraftig geschnitzten,vollrunden, durch Spangen verbundenen HermenfiBen. Die halbkreisformige Zarge.Reiche figurliche und ornamentale Schnitzerei. Auf Grotesken Greifen und
+- weibliche Figuren zwei offene Facher. Hohe 1,50 cm, Breite 1,05 cm.
+- 397 Runder Tisch. Auf vier geschweiften KlauenfuiBen mit kraftig geschnitzten vollrunden Maskarons Zarge mit figuirlichen Schnitzereien zwischen reliefiertem Voluten- und Muschelwerk. Ausziehbar mit VergroBerungs-
+- platten.Hohe 82 cm,Diam.112cm.
+- Zwolf Stuihle. FuBbretter und Ruickenlehne mit Rankenwerk,Frichtegehangen und Hermen in reicher durch-
+- 398 brochener Schnitzerei. Hohe 116 cm,Breite 40 cm,Tiefe 48 cm.
+- 399
+
+Wohnzimmer-Einrichtung. (Holl. Rokoko). Bestehend aus Buicherschrank, Zylinderbureau, Schreibsekretar, Vitrinenkasten, Kredenz, zwei Eckvitrinen, zwei Vitrinenkastchen, zwei Halbschrankchen, rundem Tisch,
+
+- Bicherschrank. Unterbau: Auf vier hohen, durch Leisten verbundenen BalusterfiBen die rechteckige Zarge. In dieser eine Schublade. Oberbau: Doppeltiriger Kasten mit geschweiftem, leicht ausladendem Gesims. Akanthuswerk, Blumen und Blattwerk in reich eingelegter Arbeit. Im Stile des hollandischen Rokoko. Hohe 215 cm,Breite 118 cm,Tiefe 40 cm.
+- 400 Zylinderbureau. Auf KlauenfiBen der rechteckige, an der Vorderseite gewelte Kasten, mit drei Schubladen. Dariber Ausziehplatte und zurickschiebbare Pultplatte. Inneneinrichtung:um verschiedene offene Facher kleine Schubladen. Blatt- und Rankenwerk, Blumen und Vogel in eingelegter Arbeit. Poliert. Im Stile des hollandischen Rokoko.Hohe 112 cm,Breite 112 cm,Tiefe 55 cm.
+- 401 Schreibsekretar. Unterbau: Rechteckiger Kasten, an Vorder- und Seitenteilen gewellt,mit drei Schubladen, dariber Ausziehplatte und nach oben zurickschiebbarer Pultdeckel. Inneneinrichtung: Drei kleine Schubladen. in eingelegter Arbeit. Poliert. Im Stile des hollandischen Rokoko. Hohe 220 cm, Breite 100 cm,Tiefe 55 cm.
+- 402 Vitrinenkasten. Auf kraftigen KlauenfiBen der hochrechteckige Kasten. Im Unterteil drei Schubladen. Oberteil doppeltirig,nach drei Seiten verglast. Mit leicht ausladendem, geschweiftem Gesims. Blumenranken, Streublumen und Rokaillenornament in eingelegter Arbeit. Im Stile des hollandischen Rokoko. Hohe 245 cm, Breite 160 cm,Tiefe 43 cm.
+
+Abbildung Tafel XIll.
+
+- Kredenz. Querrechteckig. Mit drei verglasten Tiren.Wenig iberstehende Deckplatte. Blumengehange, Blumenvasen und BlumenstrauBe in reich eingelegter Arbeit.Im Stile des hollandischen Rokoko.Hohe
+- 403 101 cm,Breite 153cm,Tiefe 44cm.
+- 404 Zwei Eckvitrinen. Unterbau eintirig mit reicher Einlegearbeit. Oberbau: Mit Glastire, geschweiftes, ausladendes Gesims. Im Stile des hollandischen Rokoko. Hohe 222 cm, Breite 100 cm, Tiefe 50 cm. Abbildung Tafel XIV.
+- 405
+- Zwei Vitrinenkastchen. Auf KlauenfiBen.Unterbau:Vorderseite geschweift,iberstehende Deckplatte, Gesims. Kriegstrophaen, Jagdbilder, Blumenwerk in Einlegearbeit,poliert. Im Stile des hollandischen Rokoko. Hohe 195 cm, Breite 91 cm, Tiefe 53cm.
+- 406
+- 407
+
+Abbildung Tafel XIV.
+
+- Zwei Halbschrankchen. An den vorderen Ecken abgerundet. Eintuirig, Tuire mit finf runden Porzellaneinsatzen in buntem Dekor, iberstehende geschweifte Deckplatte. Blumen und Blattwerk in bunt getontem,
+- Runder Tisch. Dreieckige, dreimal eingezogene FuBplatte, Mittelschaft in Form einer sechsblattrigen, sich offnenden Knospe. Runde Tischplatte. Blumen und Blattwerk,landschaftliche Darstellungen in bunt getontem Holz in reicher Einlegearbeit. Poliert. Im Stil des hollandischen Rokoko. Hohe 73 cm, Diam.110 cm.
+- 408 Tisch. Auf vier geraden, durch FuBspangen verbundenen BalusterfiBen rechteckige Zarge mit Schublade. Uberstehende Tischplatte. Blatt- und Rankenwerk, Blumenvase und Akanthusmotiv in buntgetontem, ein-
+- gelegtem Holz. Im Stile des hollandischen Rokoko. Hohe 76 cm,Breite 125 cm, Tiefe 80 cm.
+- 409 Vier Lehnsessel.Kraftige VolutenfiBe,geschweifte Zarge,hochrechteckige,geschweifte Rucklehne mit Mittelbrett.Astwerkformig gewundene Armstitzen. Blumen,Ranken und Vogel;in eingelegtem, buntem Holz. Sitz und Armlehnen gepolstert mit Gobelinbezug. Im Stile des hollandischen Rokoko. Hohe 115 cm, Breite 62 cm.
+- 410 Schreibtischstuhl. Auf vier FiBen geschweifte Zarge. Auf der halbkreisformigen Lehne und den Stitzbrettern Blattwerk und figirliche Darstellungen, auf dem Sitzbrett Brustbild Peters des GroBen von RuBland. Jahr-
+- zahl 1697. Nachbildung. Hohe 88cm, Breite 77cm.
+- Zwolf Stihle. Auf kraftigen KlauenfiBen, geschweifte Zarge,hochrechteckige,geschweifte Ricklehne mit Mittelbrett.Blumen und Rankenwerk in eingelegtem,bunt getontem Holz. Sitz gepolstert mit grobgeblumtem
+- 411 Gobelinbezug. Im Stile des hollandischen Rokoko. Poliert. Hohe 105 cm,Breite 49 cm.
+- 412 Schrank. Auf ScheibenfiBen.Hochrechteckiger,eintiriger Kasten. Ausladendes Gesims mit Eierstabornament.
+- Auf der Tire,von Flammleisten gefaBt,Kreuzigung Christi in gebrannter und eingelegter Holzarbeit. Inschrift: Salvator Mundy. Die Tiren flankieren zwei laubumwickelte Halbrundsaulen. Spatere Arbeit im Geschmacke des 17. Jahrhunderts. Hohe 215 cm, Breite 145 cm, Tiefe 55 cm.
+- 413 Zweitiriger Schrank. Auf vier ScheibenfiBen, stark profilierter Sockel mit zwei Schubladen. Zu seiten der
+- beiden Tiren und auf der Mittelleiste Pilaster mit Akanthuswerkkapital,weit ausladendes kraftiges Gesims mit vollrunden Fratzengesichtern. Poliert. Im Stile des 17. Jahrh. Hohe 230 cm, Breite 240 cm, Tiefe 85 cm, Abbildung Tafel XV,
+- rechteckigem Tisch, vier.Lehnsesseln, Schreibtischstul und zwolf Stihlen:
+- 414 Doppeltiriger Schrank. Auf ScheibenfiBen. Stark ausladender Sockel und Kranzgesims. Tiren, Rand- und Mittelleisten reich profiliert,poliert.Im Geschmacke des 17. Jahrhunderts.Hohe 200 cm,Breite 200 cm,
+- Tiefe 75 cm.
+- Schrank. Auf KlauenfiBen, stark profilierter,an den vorderen Ecken abgeschragter Sockel. Zweitiriger Kasten — Tiren verglast —an den vorderen Ecken mannliche Hermen und Friichtefestons in vollrunder Schnitzerei.Weit ausladendes Kranzgesims mit reliefiertem Rankenfries und Kartuschenaufsatz. Im Ge-
+- 415 schmacke des 17. Jahrhunderts.Hohe 220 cm, Breite 160 cm,Tiefe 62 cm.
+- 416 Zweitiriger Schrank. KugelfiBe. Im weitausladenden Sockel zwei Schubladen. Auf Rand-und Mittelleisten Putten in reliefiertem Blattwerk. Ausladendes Kranzgesims. Auf Sockel, Tiren, Seitenteilen und Gesims Blumen,Vogel und Rankenwerk in eingelegter Arbeit. Poliert. Arbeit des 19. Jahrhunderts im Geschmacke
+- des 17.bis 18. Hohe 220 cm, Breite 195 cm, Tiefe 75 cm.
+417. Schrank. Auf KugelfiBen, querrechteckiger Sockel. Dreitiriger Kasten. Tiren verglast. Uberstehendes Gesims. Auf dem Sockel, dem Rahmenwerk der Tiren und dem Kranzgesims Palmetten- und Akanthuswerk. Figirliche Darstellungen und Sternornament in Bronze. Mahagoni. Im Geschmacke des frihen 19. Jahrhunderts. Empire. Hohe 255 cm, Breite 200 cm,Tiefe 60 cm. Abbildung Tafel XV1.
+- Doppeltiriger Schrank. Weit ausladendes Kranzgesims. Auf den Tiren spitzovale, vertiefte Felder. Poliert.
+- 418 19. Jahrhundert. Hohe 195 em, Breite 200 cm, Tiefe 66 cm.
+- 419
+- Kabinettschrankchen. Querrechteckig. Um kleines Mitteltirchen gruppieren sich 18 hoch-und querrechteckige Schubladen. Auf der Vorderseite der Schubladen Blumen und Vogel in buntem, eingelegtem Marmor. Schubladen von Flammleisten gefaBt. Im Geschmacke des 17. Jahrhunderts. Hohe 64 cm, Breite 88 cm, Tiefe 37 cm.
+- Kleines Kastchen. Rechteckiger, geschweifter Sockel. Hochrechteckiger,eintiriger Kasten,iberstehendes Gesims. Tire und Randleisten mit reichem Rankenwerk in Boullearbeit. Gesims und Sockel mit reliefierten
+- 420 Akanthusborduiren in Bronze.Hohe 115 cm,Breite 82 cm, Tiefe 37 cm.
+- 421 Kleines Kastchen. Rechteckig, zweitirig. Zwischen Blumen- und Rankenwerk Musikinstrumente in bunt getontem, eingelegtem Holz.Hollandisch,19. Jahrhundert. Hohe 50 cm, Breite 52 cm, Tiefe 44 cm.
+- 422 Vitrinentischchen.Auf vier KlauenfiBchen trommelformiges,nach samtlichen Seiten verglastes, zweitiriges Kastchen. Glasplatte,Rahmenwerk und FuBe holzvergoldet,mit bunten Blumengehangen. Bronzeapplique. Arbeit des 19. Jahrhunderts in Rokokogeschmack. Hohe 90 cm, Breite 47 cm, Tiefe 47 cm.
+- Kleines Vitrinenkastchen.Nach drei Seiten verglast. Eintirig. Profilierter Sockel, an den beiden vorderen Ecken vollrunde Saulchen. Saulen, Sockel und Giebel mit Akanthuswerk und Lorbeergewinden in Bronze.
+- 423 Birkenholz.Hohe 47 cm, Breite 28 cm, Tiefe 14 cm.
+- 424 Kommode.Vorderseite geschweift. Uberstehende Platte. Drei Schubladen. Mit Wurfelmuster in eingelegtem
+
+MyOO
+
+- Holz. Poliert. Ende 18. Jahrhunderts. Hohe 78 cm, Breite 135 cm, Tiefe 72 cm.
+- Kleiner Damenschreibtisch. Geschweifte FuiBchen. In der vorderen, geraden Seite der Zarge drei Schubladen, die Seitenteile sowie der nach vorn aufklappbare Pultdeckel geschweift. Inneneinrichtung:Um offenes Mittelfach sechs kleine,stufenformig angeordnete Schubladen. Auf der AuBenseite des Pultdeckels von Figuren gehaltenes Wappen, an den Seitenteilen und auf den Schubladen Blumenwerk in Einlegearbeit. Jahrzahl 1774.
+- 425 Bronzebeschiage. Hollandisches Rokoko. Hohe 99 cm, Breite 57 cm,Tiefe 40 cm.
+- 426 Rokoko-Schreibtisch. Auf vier geschwungenen FuiBen die rechteckige, geschweifte Zarge. Auf den zwei Langsseiten je sechs Schubladen. Muschel- und Rokaillenwerk in Bronze. Platte mit Lederbezug. Moderne Arbeit des 19. Jahrh.im Geschmacke des 18. Jahrhunderts. Hohe 80 cm, Breite 142 cm, Tiefe 70 cm. Abbildung Tafel XVIl.
+- 427 Zylinderbureau. Auf vier gefligelten HermenfuBen der rechteckige Kasten. An der Vorderseite drei Schubladen, dariber vorn und seitlich Ausziehplatten. Mittelstick mit zurickschiebbarem Deckel, dariber querrechteckiges Gesims mit drei Schubladen und iberstehender Marmorplatte. Auf Schubladen,an den Ecken und auf dem Pultdeckel gefligelte Lowen, Greifen, Lorbeergewinde usw.in Bronze. Poliert. Empire. Hohe 124 cm,Breite 130cm,Tiefe 68cm.
+
+Abbildung Tafel XVIIl.
+
+- 428 Schreibsekretar. Unterbau:Auf vier durch FuBleisten verbundenen BalusterfiBen die rechteckige Zarge mit
+- einer Schublade. Mittelstick:Nach vorn aufklappbares Pult. Inneneinrichtung: Zur Seite eines offenen Faches kleine Schublade. Oberbau:Rechteckiges,zweitiriges Kastchen mit Saulen auf Rand-und Mittelleisten. Ausladendes Gesims. Inneneinrichtung sechs Schubladen.Umlaufende Galerie. In der Mitte auf querrechteckigem Sockel bekronende Uhr. Dekor. Auf Kreisrunden, Hochrechtecken und Querrechtecken mythologische Darstellungen in bunter Emailmalerei. Vollrunde Bekronungsfigirchen und Bronzeappliquen. Arbeit des 19. Jahrhunderts im Geschmacke des 17. Jahrhunderts. Hohe 220 cm, Breite 110 cm, Tiefe 73 cm.
+
+Abbildung Tafel XIX.
+- 429 Tisch. Auf vier geschweiften FuBen mit vollrunden, weiblichen Hermen die geschweifte, querovale Zarge.
+
+Abbildung Tafel XVII.
+
+- Tischplatte mit BlumenstrauB und Vogeln zwischen Zweigen in buntgetontem, eingelegtem Holz. In Bronze montiert, poliert. Spatere Arbeit im Geschmacke des 18. Jahrhunderts. Hohe 75 cm,Breite 125 cm,Tiefe 83cm.
+- 430
+- Spieltischchen. Auf vier geschweiften FuiBen — einer verstellbar  querrechteckige Zarge. Uberstehende Platte, dreimal aufklappbar. Auf der AuBenseite Blumen und figirliche Darstellung in gebrannter und eingelegter Arbeit. Inneneinrichtung: Schachbrett usw. Im Stile des hollandischen Rokoko. Hohe 76 cm, Breite 75 cm, Tiefe 37 cm.
+- 431 Konsoltisch.Volutenfife mit vollrunden Widderkopfen. Rechteckiger, doppeltiriger Kasten,Vorder-und Seitenteile geschweift, reich profilierte,,rote Marmorplatte.Zwischen Blumengehangen Rokaillen- und Bandwerk vier Hochovale,mit figirlichen Reliefen auf blauem Grund.In Bronze montiert. Im Stile
+- des Rokoko. Hohe 95 cm,Breite 142cm,Tiefe 70 cm.
+- 432 Kleines Tischchen. Quadratischer, viermal eingezogener Sockel. Auf vier geschweiften, eleganten KlauenfiBchen die ovale Platte. Sockel, Mittelstick und Deckplatte mit BlumenstrauBen bzw. Schaferszenen in bunter Porzellanmalerei auf blauem Grund. In Bronze montiert. Poliert. Im Stile des Rokoko. Hohe 75 cm Diam.49x41cm.
+
+Abbildung Tafel Xx.
+
+- 433 In querrechteckigen, von Akanthusbordiren gefaBten Feldern Musikinstrumente und Laubgehange. In Bronze
+- montiert.Im Geschmacke des frihen 19. Jahrhunderis. Empire.Hohe 67 cm,Diam. 62 cm.
+- 434 Tisch. FuiBe in Form vollrunder, stehender Frauengestalten in Bronze. Rechteckige Zarge mit zwei Schubladen. Dekor:Palmettenornament,Putten und Urnen in Bronze. Uberstehende Marmorplatte. Im Geschmacke des frihen 19. Jahrhunderts. Empire. Hohe 82 cm, Breite 125 cm,Tiefe 65 cm.
+- Kleines Tischchen. Rund. Sechs zierliche, von Laub umwundene SaulenfiBchen. Dreieckiges,offenes Fach.
+- 435 Mit Bronzeappliquen. Platte fehlt. Im Stile des Empire. Hohe 75 cm, Diam.30 cm.
+- 436 Runder Tisch. Dreieckige, dreimal eingezogene Sockelplatte. Balusterschaft mit vorgelagerten Voluten. Runde Platte mit Porzellanmalerei: Im Fond in Rechteck auf blauem Grund Portrat Ludwigs XVI.Um den Rand in achtzehn Ovalen zwischen reliefiertem Rankenwerk in Bronze weibliche Portrats. Hohe 72 cm, Diam.78 cm.Spatere Arbeit im Geschmacke des Louis XVI.
+
+Abbildung Tafel IIl.
+
+- 437 Rundes Tischchen. Auf drei kraftigen VolutenfiBen runde gewolbte Sockelplatte, darauf hoher SaulenfuB, Tischplatte in Form einer tiefen runden Schissel. Deckel, Saulenfub und Platte Porzellan. Dekor: Blumen und Ranken und Vogel in Blau, Rot und Gold. In Bronze montiert. 19. Jahrhundert. Hohe 81 cm,Diam. 58cm.
+
+Abbildung Tafel XXI.
+
+- 438 Kleines Tischchen. Quadratischer Sockel. FuB in Form dreier stehenden,agyptischen, Frauenfiguren Biskuit —Platte in Form einer runden Porzellanschissel. Bunter Dekor:Im Fond BlumenstrauB,am Rand Laub und Ornamentbordire in Gold auf grinem Grund. In Bronze montiert. 19. Jahrhundert. Hohe 66 cm, Diam.44cm.
+
+Abbildung Tafel 11.
+
+- 439 Kleines Tischchen. Auf vier, mehrfach gekropften FuBen achtseitige Gitterwerkzarge. Uberstehende, acht-
+- seitige Platte.Im maurischen Stil. Hohe 72 cm,Diam. 47 cm.
+- 440 Spieltischchen. Auf drei in Kinderhermen endigenden RehfiBchen runde,buntfarbige Marmorplatte mit ein-
+- gelegtem Schachbrett. Bronze.19. Jahrhundert. Hohe 80 cm, Diam. 59 cm.
+- Truhenbank. Auf KlauenfiBen querrechteckiger Kasten. Darauf querrechteckige Rickwand mit Schnitzwerkaufsatz.Armlehnen in Form vollrunder Drachen.Auf zwei Feldern der Truhenstirnwand, dem Sitzbrett und der Rickwand Jagdbilder in Elfenbein eingelegtem bzw. gebranntem Holz. Im Geschmacke des 17. Jahr-
+- 441 hunderts.Hohe 180 cm,Breite 133 cm,Tiefe 48cm.
+- 442 Kleine Bank. Rechteckige, geschweifte Sitzplatte. Ricklehne und FuiBe mit Frichtengehangen. Grotesken Tiergestalten und Kartuschenwerk in kraftiger Schnitzerei. Italienischer Barock. Hohe 125 cm, Breite 85 cm, Tiefe 45 cm.
+- 443 Zwei Sofas. VorderfiBe in Form vollrunder, vergoldeter Schwane. Riicklehne nach rickwarts gebogen mit reliefiertem Lorbeergewinde. Mahagoni. Sitz und Ricklehne gepolstert mit Seidendamast bezogen. Im Stile des frihen 19. Jahrhunderts. Hohe 88 cm, Breite 125 cm, Tiefe 90cm. Abbildung Tafel Xx.
+- 444 Acht Lehnsessel. VorderfiBe in Form vollrunder,vergoldeter Schwane. Ricklehne nach rickwarts gebogen mit reliefiertem Lorbeergewinde. Mahagoni. Sitz und Ricklehne gepolstert,mit Seidendamast bezogen. Zu vorhergehender Nummer gehorig. Im Stile des frihen 19. Jahrh. Hohe 90 cm, Breite 65 cm, Tiefe 75 cm.
+
+AbbildungTafel XX.
+
+- Zarge, Armlehnen und Rahmen der Ricklehne mit Akanthuswerk und Blumen in Reliefschnitzerei. Lindenholz,vergoldet. Sitz und Rucklehne gepolstert,mit rotem,groBgeblumtem Bezug.Im Geschmack des 18.Jahrhunderts. Hohe 135 cm, Breite 80 cm, Tiefe 70 cm. Abbildung Tafel Xx.
+- 446 Sieben Hocker. FiBe in Form vollrunder, gefligelter Greifen. Rechteckige Zarge mit Laubwerkornament. Sitz gepolstert mit Gobelinbezug. In Bronze montiert. Empire-Geschmack. Hohe 47 cm, Breite 44 cm,Tiefe
+- 44cm.
+- Zwei Lehnsessel und ein Hocker. a) Lehnsessel. SaulenfiBchen mit iberfallendem Akanthusblatt. Quadratischer Sitz.Gerade Rickwand,hohe Armlehnstitzen. b) Hocker. SaulenfiBchen, querrechteckiger leicht geschweifter Sitz, geschwungene Armlehnstitzen. Holzgestell mit Akanthusmotiv, aufgereihtem Scheibenmuster und Eierstabornament. Holz vergoldet. Sitz, Rick- und Armlehne gepolstert mit himbeerrotem, geblumtem Seidendamast bezogen. Im Geschmacke des fruhen 19. Jahrhunderts. Lehnstuhl: Hohe 102 cm,
+- 447 Breite 62cm,Tiefe 63 cm;Hocker:Hohe 62 cm,Breite 66 cm,Tiefe 50 cm. Abbildung Tafel XX.
+- 448 Sessel. FiBe geschweift. Zwei in Form vollrunder, gefligelter Greifen. Halbkreisformiger Sitz, ebensolche Ricklehne. Blattwerk,Lowenkopfe,Palmettenornament und Lorbeergewinde in Bronze. Gepolsterter Sitz mit grinem, geblumtem Seidendamast. Bezug beschadigt. Mahagoni. Im Geschmacke des frihen 19. Jahrhunderts.Empire. Hohe 84 cm, Breite 68 cm,Tiefe 51 cm. Abbildung Tafel XX.
+- 449 Zwei Stihle. Gerade, durch Spangenwerk verbundene Balusterfibe. Auf Sitzbrett und Ricklehne Jagdszenen
+- in eingelegtem Holz und Elfenbein. Im Stile des 17.bis 18. Jahrhunderts. Hohe 105 cm, Breite 48 cm.
+- 450
+- Zwei Stihle. Gerade FiBe, gerade Ricklehne. Auf dem Sitz Wildschweinjagd,auf der Ricklehne reitender Jager mit Hunden in Holz und Elfenbeineinlegearbeit. Holland. 19. Jahrhundert. Hohe 102 cm, Breite 52 cm, Tiefe 45 cm.
+- 451
+- 452
+- Zwei Stuhle. Gerade FiBe mit Spangenleisten, gerade Ricklehne. Sitz,Ricklehne und FuBe mit Ranken und Blattwerk in eingelegter Arbeit. Holland. 19. Jahrhundert. Hohe 92 cm, Breite 45 cm, Tiefe 35 cm.
+- Lehnstuhl. Gerade FuBe mit Spangenleisten. Etwas schrag gestellte Ricklehne. Geschweifte Armlehnen. Auf Sitz und Ruckwand Landschaft mit figirlicher Staffage in eingelegter Arbeit. Holland. 19. Jahrhundert. Hohe 118 cm,Breite 70 cm,Tiefe 47 cm.
+- 453 Zwei Stihle. Zwei SaulenfuiBchen,zwei geschweifte in die Ruicklehne ibergehenden FuiBchen. Rahmenwerk mit Empireornamenten. Sitz und Rucklehne mit rotem, geblumtem Seidendamast bezogen. Holz vergoldet. 19. Jahrhundert.Hohe 90 cm, Breite 42 cm, Tiefe 42 cm.
+
+## Einrichtungsgegenstande
+
+- 454 Kamingarnitur. Bestehend aus drei Vasen.a) und b) quadratischer Sockel,runder FuB,birnformiger Korper, eingezogener Hals.c) Urnenformig,quadratischer Sockel.Onyx mit Tuchgehangen,Schnirenwerk,Akanthusornament, Blumen und vollrunden Putten in Goldbronze. 19. Jahrh. a) und b) Hohe 68 cm, c) Hohe 54 cm.
+- Abbildung Tafel XXIl.
+- 455 Kamingarnitur. Dreiteilig.Kaminfacher:Facher neunteilig,von vollrunder,auf einem Pfauen sitzender Frauengestalt gehalten. Seitensticke: Vollrunder, liegender Putte neben Blattwerk. Bronze. 19. Jahrhundert. Hohe des Fachers 50 cm, Diam. des Fachers 100 cm;Hohe der Seitensticke 44 cm,Breite der Seitensticke 30cm.
+
+Abbildung Tafel V:
+
+- 456 Kabinettkastchen und zwei Vasen. Kabinettkastchen:Reich profilierter Sockel,rechteckiger Kasten mit abgeschragten Ecken,vor diesen vollrunde Saulchen,ausladendes Gesims, Pultdach mit Uhr. Im Deckel breite Schublade,im zweitirigen Kastchen drei kleine Schubladen. Vasen: Quadratischer Sockel,urnenformiger, lungen in Emaillemalerei, Bronzeappliquen in buntem Cloisonne. Holzkern mit weiBem Bein belegt. 19. Jahrhundert. Hohe der Vasen 75 cm, Hohe des Kastchens42 cm, Breite des Kastchens 38 cm, Tiefe des Kast-
+- chens 29 cm.
+
+Abbildung Tafel Xxill.
+- 457
+- Zwei Vasen. Quadratischer Sockel;runder FuB, glockenformiger, doppelhenkeliger Korper. Dekor: Auf blauem Grund tanzende Nymphen,Weinlaubbordiren, Lyra und Lorbeerkranze in Bronzereliefen. Arbeit des 19. Jahrhunderts im Empiregeschmack. Hohe 48 cm.
+- vollrunder, durch Blumengehange verbundener Widderkopfe. Schwarz und grin geaderter Marmor. In Bronze montiert. 19. Jahrhundert. Hohe 67 cm.
+
+Abbildung Tafel XXI.
+
+- Vase. Runder Sockel, birnformiger Korper, gedeckelt; die beiden Henkel in Form vollrunder Greifen. Bunt-
+- 459 gefleckter, roter Marmor, in Bronze montiert. 19. Jahrhundert. Hohe 75 cm.
+- Vase. Sockel: Gelb und weiB geaderter Marmor. Kurze, gedrungene Saule. Vase kelchformig. Rot und weib geaderter Marmor. Sockel und Vase mit vollrunden Hermen, Greifen und Rankenwerk in Bronze. 19. Jahr-
+- 460 hundert. Hohe 145 cm,Diam.50 cm.
+- Deckel und Sockel einer groBen Vase. Rund. Mit volutenformigem, von zwei mannlichen Hermen getragenem Aufsatz. Schwarz und weiB geaderter Marmor. Hermen in Bronze. Hohe des Deckels 63 cm, Diam.55 cm;
+- 461 Hohe des Sockels 46 cm.
+- 462
+- Vasenstander. Rechteckige Sockelplatte; vollrunder, sitzender, geflugelter Greif. Runde Platte. Holz, vergoldet. In Empiregeschmack. Hohe 102 cm.
+- 463 Desgl. Rund. Auf drei FiBen. In ostasiatischem Geschmack. Bronze. 19. Jahrhundert. Hohe 69 cm, Diam.
+- 31cm.
+- 464 Zwei Saulen. Quadratischer Marmorsockel. Saulen mit Portrats in bunter Porzellanmalerei -bzw. David Sevres zwischen Lorbeerkranzen in Gold auf grinem Grund. Quadratische Deckplatte. Sevres. 19. Jahrhundert. Hohe 127 cm.
+- 465
+- Zwei Saulen mit Vasenaufsatz. FuBe in Form vollrunder Greife, Mittelsaule reich profiliert mit Kapital, darauf vollrunde Schalenvase. Figirlicher Schmuck und Rankenwerk,vergoldet. Auf blauem Grund. Moderne Arbeit.Hohe 175 cm.
+- Saule. Rechteckige Sockelplatte,runder Schaft mit VolutenfiBen und Akanthuskapital. WeiBer, gelbgeaderter
+- 466 Marmor,mit Bronze montiert. 19. Jahrhundert. Hohe 130 cm.
+- 467 Saule. Achtseitige Sockelplatte;Schaft rund,einmal gekropft,kanneliert,runde Deckplatte. Grin und schwarz
+- geaderter Marmor. Hohe 107 cm.
+- 468 Saule. Achtseitige Sockelplatte. Gedrehter Saulenschaft, runde Deckplatte. Schwarz und grin geaderter Marmor.Hohe 114 cm.
+- 469
+- Saule. Achtseitige Deckelplatte. Dicker, gewundener Schaft, quadratische Deckplatte. Schwarz und grin geaderter Marmor. Hohe 101 cm.
+- Saule. Gewundener Schaft,runde Deckplatte mit iberfallendem Akanthusornament. Schwarz-griiner Marmor.
+- 470 19. Jahrhundert. Hohe 110 cm.
+- 471
+- Saule. Achteckiger Sockel, kannelierter, runder Schaft, runde Deckplatte. Schwarz-griner Marmor. 19. Jahrhundert. Hohe 137 cm.
+- Kaminverkleidung. Querrechteckige Grundform. Zwischen kraftigem Volutenwerk zwei vollrunde,hockende, mannliche Figuren, die die Deckplatte tragen;in der Mitte kleiner die Syrinx spielender Satyr. Holz,ver-
+- 472 goldet. 19.Jahrhundert. Hohe 130 cm, Breite 180 cm,Tiefe 57 cm.
+- 473 Wandtoilette. Uberstehender Sockel; zwischen Randleisten mit vollrunden Frichtefestons und Maskarons drei querrechteckige Felder mit Einlegearbeit in Holz und Elfenbein:Putten zwischen groteskem Rankenwerk, Satyr und Nymphen in Landschaft. Weit iberstehendes Kranzgesims. Holland. 19. Jahrhundert. Hohe 245 cm,Breite 50 cm.
+- 474 GroBer Spiegel. Rahmen mit vollrundem Putto, Vogel und Akanthuswerk in reichster, kraftiger Schnitzerei.
+- Im Geschmacke des spaten 17. Jahrhunderts. Hohe 230 cm,Breite 177 cm.
+- 475 Rahmen:Zwischen Blumenwerk und Ranken in reichster Schmiedearbeit
+- Spiegel. Hochovale Grundform. vollrunder Puttenkopf. Modern. Hohe 128 cm, Breite 65 cm.
+- 476 Zwei Friesleisten. Zu beiden Seiten eine Wappenkartusche. Vollrunder, sitzender Putto, zu dessenFuBen
+- groteske Drachenfigur. Kraftige Schnitzerei in Holz. Hohe 76 cm, Breite 223 cm.
+- 477 Zwei Friesleisten. Reliefschnitzerei: Muschel- und Volutenwerk, Maskarons und Putten. Modern, im Ge-
+- schmacke des spaten 17. Jahrhunderts.Lange 160 cm, Hohe 23 cm.
+- 4782 Zwei Hocker. Sechsseitig, leicht gebaucht. Porzellan. Bunter Dekor: BlumenstrauBe und Rankenwerk auf
+- weiBem Grund. Hohe 50 cm, Diam.40 cm.
+
+ay0g
+- Desgl. Walzenformig, gegen oben sich verjingend, mit iberstehender, runder Sitzplatte. Steingut. Bunter
+- 479 Dekor:Laub-und Bandwerkornamentik.19. Jahrhundert. Hohe 45 cm,Diam. 29 cm.
+- 480 Tellerbord. Querrechteckige Grundform. Zwischen zwei Konsolen mit Maskarons und Flachwerkschnitzerei zwei Bander mit Kachelwerk—Seelandschaft und Rankenwerk in Blaudekor . Uberragendes Gesimsbrett. Holland. 19. Jahrhundert. Hohe 50 cm, Breite 152 cm,Tiefe 20 cm.
+- 481 Desgl. Zwei Facher. Akanthusmotiv in Reliefschnitzerei. Hohe 70 cm, Breite 120 cm.
+- 482
+- Feuerzeugstander. Stander auf drei FiBen,in einem Segelschiff endigend. Mit Schaufel, Zange, Besen und Rost.Holland.19. Jahrhundert.Hohe 144 cm.
+- einsatz.Blumenwerk in bunt getontem,eingelegtem Holz. Hollandisch.19. Jahrhundert. Hohe 51 cm,Diam.
+- 35 cm.
+- 484 Papierkorb. Auf drei KugelfiBen, walzenformig, mit Ringhenkeln. Wappen und Rankenwerk in getriebener Arbeit. Messing. Holland. 19. Jahrhundert.Hohe 55 cm,Diam.25 cm.
+- 485 Tragjoch. Kibel:Walzenformig, mit hollandischen Landschaften zwischen Tulpenornament in leicht getriebener Arbeit. Traghenkel. Joch: Mit figirlicher Darstellung und Blattwerk in Reliefschnitzerei. Messing. Holland.19. Jahrhundert.Breite 115cm.
+- 486
+- Kleine Truhe. Rechteckig,gewolbter Deckel. Auf Seitenteilen und Deckel Akanthusranken, Vogel und Bandornament in eingelegter Arbeit. Hollandisch. Hohe 22 cm,Breite 47 cm,Tiefe 28 cm.
+- 487 Paravent. Fuinf hochrechteckige, oben abgerundete Felder, mit grinem Samte bezogen. 19. Jahrhundert.
+- Hohe 200cm,Breite200cm.
+- 488 Tischaufsatz. Langoval,vierteilig, mit Spiegeleinlagen —bei zwei Teilen fehlen dieselben. Der iberhohte Rand mit durchbrochener Weinlaubbordire. Empire. Anfang des 19. Jahrhunderts. Lange 200 cm,Breite 54cm,Hohe 4 cm.
+- Desgl. Langoval, vierteilig —ein Teil beschadigt —mit Spiegeleinlagen. Der iberhohte Rand mit durchbrochener Bronzebordire:Akanthusweg,Kriegstrophaen, gefligelte Pferde usw. Empire. Anfang des 19. Jahr-
+- 489 hunderts.Hohe 6 cm,Lange 200 cm,Breite 54 cm.
+- 490 Lister. Reif mit gefligelten Greifen und Urnen in Relief. Die Lichthalter in Form vollrunder Schwane. Bronze. Fir elektrisches Licht montiert. Sechs Flammen.Im Geschmacke des Empire. Hohe 180 cm,Diam. 85 cm.
+- 491
+- Desgl. In gleicher Ausfuihrung wie vorhergehender. Hohe 180 cm,Diam. 85 cm.
+- Lister. Urnenformige Laterne mit aufgelegtem Lorbeergehange und Satyrkopfen. An drei Volutenarmen hangende Lampen. Fir elektrisches Licht montiert. Bronze. Im Geschmacke des Empire. Hohe 100 cm,
+- 492 Diam.50cm.
+- 493 Desgl. Gleich dem vorhergehenden. Hohe 100 cm,Diam.50 cm.
+- 494 Lister. Reif mit reliefierten Schwanen, Urnen und Lorbeerkranzen. Auf sechzehn Volutenarmen fir elektrisches Licht montierte Kerzen.Bronze.Im Geschmacke des Empire. Hohe 175 cm,Diam. 95 cm.
+- 495 Lister. Breiter Reif an Kettengehange. Mit sechs hangenden und sechs in Leuchtern montierten Flammen.
+- 496
+- Metall. Diam.70cm.
+- Lister. Blumen und Rankenwerk,von einer Krone gehalten,unter der drei Spiralenarme mit knospenformiger Tille hervorwachsen. Schmiedeeisen, fir elektrisches Licht montiert. Zweite Halfte des 19. Jahrhunderts. Hohe 90 cm, Diam. 60 cm.
+- 497
+- Lister. In Form einer sechsblatterigen Blume. Bronze mit bunten Glaseinsatzen. Neun Flammen, fir elektrisches Licht montiert.19.Jahrhundert.Hohe 195 cm,Diam. 77cm.
+- 498 Lister.Krone mit sechs Volutenarmen. Bronze.Moderne Arbeit. Hohe 72 cm,Diam. 75 cm.
+- 499
+- Kleiner Lister. Zwei Kronen, Glasgehange. Moderne Arbeit. Bronze. Hohe 70 cm, Diam. 45 cm.
+
+## Uhren
+
+- 500 Standuhr. Rechteckiger,an drei Seiten geschweifter Sockel. Hochrechteckiger,zweimal eingezogener Uhrkasten. Rundes Uhrgehause mit vollrundem,bekronendem Putto. Auf dem Sockel Chronos. Auf dem Uhrkasten Blumenwerk in buntgetontem, eingelegtem Holz. Rankenwerk figirliche Darstellungen und Blumengehange in Bronze. Zifferblatt mit Inschrift:Baltazar Baltazar,Paris.Poliert.Rokoko.Hohe 253 cm,Breite 52 cm,Tiefe 29 cm.
+
+Abbildung Tafel XxIV.
+- 501 Standuhr. Auf KlauenfiBen querrechteckiger, abgeschragter und gewellter Sockel. Hochrechteckiger UhrBlumenkorbe,Rankenwerk und lineare Ornamentik in eingelegtem Holz. Zifferblatt mit Inschrift: Jan Henkels,
+- kasten. Rechteckiges Uhrgehause mit ausladendem, gebrochenem Giebel. Pultdach mit bekronenden Figuren. Amsterdam. Im Stile des hollandischen Rokoko. Hohe 268 cm, Breite 73 cm,Tiefe 37 cm. AbbildungTafelXXIV.
+- 502 Standuhr. Auf vier Volutenfiben der hochrechteckige,oben gebauchte und eingezogene Kasten; das reich profilierte Uhrgehause, das von vollrunder Artemis bekront wird,ruht auf vier liegenden Tiergestalten Auf den Seiten des Kastens und an den Ecken des Uhrgehauses Ranken, Laubgehange, Jagdtrophaen in reichster bunter Boullearbeit.In Bronze montiert. Im Stile des 18. Jahrhunderts.Hohe 253 cm,Breite 63 cm, Tiefe 40 cm.
+
+Abbildung Tafel XIV.
+
+- Standuhr. Auf ausladendem Sockel hochrechteckiger Kasten. Uhrgehause rechteckig mit Saulchen an den Ecken und Dreieckgiebel, dariber Pultdach mit Bekronungsfigirchen. Zifferblatt bunt bemalt: Musikanten vor Ehepaar mit zwei Kindern. Uhrwerk mit Glockenspiel, Tag-und Monatsangaben. Inschrift: Gerrit Vos, Amsterdam. Kasten poliert, mit Lorbeergewinden und Blumen in Reliefschnitzerei. Holland. Anfang
+
+Abbildung Tafel XxIV.
+
+- 503 19.Jahrhundert.Hohe 270 cm,Breite 65 cm,Tiefe 32cm.
+- 504 Standuhr. Wirfelformiger Sockel.Der Uhrkasten mit rundem Zifferblatt auf hochrechteckigem Pfeiler, dem zwei Saulchen vorgelagert sind. Uberstehende Deckplatte. Buntgefleckter Marmor in Bronze montiert mit buntfarbiger Cloisonneornamentik. 19. Jahrhundert. Hohe 127 cm,Breite 36 cm, Tiefe 29 cm. Abbildung Tafel XIV.
+- Pfeiffer, Memmingen. Ende des 18. Jahrhunderts. Hohe 41 cm, Breite 32 cm.
+- 505 Telleruhr. Hochoval. Mit Akanthus- und Muschelwerk in reich getriebener Arbeit. Bezeichnet: Joh. Georg
+- 506
+- Kaminuhr. Querrechteckiger, doppelt eingezogener, geschweifter Sockel,vor der mit Spiegeln verkleideten Ruckwand vier Alabastersaulen.Auf dem Gesims in hochrechteckigem,gegiebeltem,an den Seiten geschweiftem Kasten das Uhrwerk. Weinlaubbordiren,Fuillhorner, Akanthusbordiren in Bronze. Birkenholz poliert. Um 1830. Hohe 62 cm,Breite 35 cm,Tiefe 15 cm.
+- 507
+
+Abbildung Tafel XXV.
+
+- Kaminuhr. Querrechteckiger Sockel. Auf dem wiirfelformigen Gehause Damenbrettspiel und Spiegel,zu dessen Seiten Dame und Herr, sitzend, vollrund. Bronze. Anfang des 19. Jahrhunderts. Hohe 47 cm, Breite 43 cm. Abbildung Tafel XXV.
+- Kaminuhr. Quadratischer,hoher Sockel. Darauf urnenformige,gedeckelte,von Schlangen umwundene Vase mit umlaufendem,beweglichem Zifferblatt. Ein Putto zeigt die Zeit an. Buntgefleckter,rotbrauner Marmor,
+
+Abbildung Tafel XxV.
+
+- 508 mit Bronze montiert. Anfang des 19. Jahrhunderts. Hohe 87 cm.
+- Kaminuhr. Querrechteckiger Sockel mit iberschlagener Akanthus- und Palmettenbordire. In einem Felsblock,auf dem ein Turke raucht, das Uhrwerk. Bronze. Anfang des 19. Jahrhunderts. Hohe 54 cm, Breite
+
+Abbildung Tafel IV.
+
+- 509 41 cm, Tiefe 15,5 cm.
+- 510 Kaminuhr. Auf vier KugelfiBen rechteckiger Kasten. Ausladender Sockel,an den vorderen Ecken halbrunde Saulchen. Weit iberstehendes Gesims. Pultdach mit vollrunder Bekronungsfigur. Zifferblatt mit graviertem und reliefiertem Rankenwerk. Inschrift: Jakob Mayr. Hohe 75 cm, Breite 40 cm,Tiefe 30 cm.
+- 511
+- Kaminihrchen. Rechteckiger Sockel mit vier weiblichen Figirchen, hochrechteckiges geschweiftes Gehause. Zifferblatt mit Emaillemalerei. Moderne Arbeit.Hohe 21,5 cm,Breite 12,5cm.
+- Desgl. Auf rundem Sockel stehender Ritter, dieser tragt das eiformige Uhrgehause. Bronze mit Emailmalerei.
+- 512 19.Jahrhundert. Hohe 40 cm.
+- 513
+- Desgl. Auf rundem Sockel stehende,weibliche Figur, diese tragt das kugelformige Uhrgehause. Dekor: Schaferszenen in bunter Emaillemalerei. Moderne Arbeit.Hohe 43 cm.
+
+## Ostasiatisches Kunstgewerbe
+
+- 514 Vase. Runder Sockel;auf vier geschwungenen,in reliefierten Fratzen endigenden FiBen runde Platte,darauf vier vollrunde Delphine, die eine hohe,urnenformige Vase tragen;auf dem Deckel der Vase vollrunder Vogel; auf der Leibung in zwei Feldern reichreliefiertes,groteskes Rankenwerk,Schlangen,Vogel und weibliche Figuren
+- Ein Henkel fehlt. Bronze. Japan. Hohe 175 cm.
+- 515 Vase.Grotesker, schlangenverschlungenr ockel,auf hohem,reich profiliertem FuB urnenformige,doppl henkelige Vase. Henkel in Form vollrunder Schlangen. Auf dem Deckel Vogel. Bronze. Japan. Hohe 210 cm.
+- 516 Zwei Vasen.Runder FuB,eiformiger,vertikal gerillter Leib,enger Hals,ausladender,wulstiger Rand. Doppel-
+- henkelig. Auf der Leibung reliefierte Vogel und Zweige. Japan. 19. Jahrhundert. Hohe 45.5 cm.
+- GroBe Vase. Kugel bauchig. Dekor:Auf hellblauem Grunde BlumenstrauBe, Streublumen und Schmetterlinge
+- 517 in bunter Cloisonnearbeit. Ostasien. 19.Jahrhundert. Hohe 43 cm,Diam. 65 cm.
+- Abbildung Tafel XIl.
+- Vase. Kugelformig, gedeckelt, auf drei FiBchen. Dekor:Auf rotem, blauem und braunem Grund Drachen, Vogel und Blumen in bunten Farben. Cloisonne. Ostasien. Hohe 36 cm.
+- 518
+- 519 Ofenschirm. Hochrechteckig. Stitzen und Rahmenwerk mit reliefireten Blumen. Mittelfeld:Auf blauem
+- 520
+- Sockel. Quadratisch. FiBe in Form vollrunder Krabben,Rankenwerk in Reliefschnitzerei. Ostasien. Hohe 51 cm,Breite 70 cm,Tiefe 70 cm.
+- 521 Vasensockel. Rund. Auf finf VolutenfiBen. Leibung mit Rankenwerk in reliefierter Schnitzerei. Ostasien. Hohe 42 cm,Diam. 70 cm.
+- 522
+- Vasensockel. Runde Sockelplatte. Vier geschweifte KlauenfiBchen, darauf runde, eingezogene Deckplatte. Blumenwerk in durchbrochener Schnitzerei. Ostasien. Hohe 42 cm,Diam. 33 cm.
+- 523
+- Sockel. Ringformig, auf vier vollrunden Schildkroten, rund. Ostasien. Hohe 12 cm, Diam. 65 cm.
+- 524 Drei Vasensockel. Durchbrochene Ast- und Blattwerkschnitzerei. Ostasien. Hohe 8,5 cm, Diam.21 cm.
+- 525
+- Zwei japanische Seelandschaften.WeiB,auf schwarzem Grund,mit leichter Reliefierung. In breitem,geblumtem Lackrahmen.Japan.Hohe 32 cm, Breite 42 cm.
+- Ansicht einer Ansiedelung. Buntfarbige Perlmuttereinlegearbeit auf schwarzem Holz. Ostasien. Hohe 41 cm,
+
+## Varia
+
+- 527 Bronzerelief. Madonna mit Bambino. Italienische Renaissanceplastik. In Altarform geschnitzter,vergoldeter Rahmen mit der Inschrift: Ave Maria gratia plena. Hohe 61 cm, Breite 40 cm.
+- 528 Metallintarsia. Heimkehr des Siegers. Links romische Soldaten mit Feldzeichen, Waffen und Schilden um den den jungen Feldherrn, der unter Baumen von Jungfrauen bewillkommt und mit Lorbeer bekranzt wird. Von rechts her naht ein Priester mit erhobenen Handen. Im Hintergrund gefangene Feinde. Nach Art der Intarsia eingelegtes Bild. Baume, Gewandteile, Waffen aus Messing, Kupfer und Zinkblech; Kopfe,Arme, Hande, FuiBe aus Bein, die Zeichnung durch Linien und Gravuren wie bei einem Kupferstich ausgefihrt. Holzrahimen.
+- Um 1820.Hohe 31 cm,Breite 45,5 cm.
+- 529 Elfenbeinrelief. Mythologische Szene in Renaissancestil. Elfenbein. In schwarzem Rahmen. Hohe 26 cm, Breite 57cm.
+- 530 Zwei Reliefs. Weibliche Brustbilder in antiker Ruistung vor blauem Glashintergrund. Rechteckiges Rahmchen. 1.Halfte des 19. Jahrhunderts. Hohe 7 cm,Breite 6 cm.
+- 531 Relief. Kussendes Paar. Gipsabdruck. Nach einem Stich von Aldegrever. In schwarzem Holzrahmen. Moderne Arbeit.Hohe 18,5 cm,Breite 13,5 cm.
+- 532
+- Relief. Glaube, Hoffnung und Liebe.Hochoval, in vergoldetem Holzrahmen.19. Jahrhundert.Hohe 18 cm, Breite 13,5 cm.
+- 533 Opal, Rosenquarz, Lava, Lapislazuli, Granat.AuBerdem Gemmenabdricke in Siegellack.
+- 534
+- Gemmensammlung.Auf acht Tafeln antike Gemmen in Carneol, Onyx, Calcedon,Jaspis,Achat,Chrysopras,
+- Camee. Aurora mit Begleiterinnen auf Quadriga. 19. Jahrhundert. Hohe 4,6 cm,Breite 11 cm.
+- 535
+- Mosaikbild. Madonna in rotem Kleid und blauem Mantel, auf weib und schwarz gesprengeltem, mit bunten Steinen eingelegtem Marmorgrund. In schwarzem Holzrahmen. Mitte des 19. Jahrhunderts. Italien. Hohe 21 cm,Breite 16,5cm.
+- 535a Schildkrote. Mit prapariertem Korpus. Lange 60 cm.
+- Nirnberger Ei. Auf rotem Grund drei hochovale Felder mit Schaferszenen und Putten in bunter Emaille-
+- 536 malerei.19. Jahrhundert.Hohe 4,5 cm.
+- 537
+- Taschenuhr. Gehause mit Schaferszenen in bunter Emailmalerei. Mitte des 19. Jahrhunderts. Diam. 5,5 cm.
+- 538 Desgl. Gehause mit Jagdszenen, Rankenwerk und figirlicher Darstellung:,Apollo musizierend.In buntem Cloisonne. Zu beiden Seiten des Zifferblattes Indianer, die mit Hammern die Stunden anschlagen. Anfang des 19.Jahrhunderts.Diam. 6,3 cm.
+- 539 Desgl. Gehause mit durchbrochenem Rankenwerk, auf der Rickseite mythologische, reliefierte Darstellung.
+- 19.Jahrhundert.Diam.5cm.
+- 526 Breite 57 cm.
+- 540 Blumenbehalter. Auf vier ScheibenfiBchen rechteckiger Kasten. Schwarzer Marmor mit bunter Cloisonneornamentik. In Bronze montiert. Hohe 14 cm, Breite 21 cm, Tiefe 13 cm.
+- 541
+- Kleines Flaschchen. Birnformig. Auf der Leibung erotische Szenen nach Stichen von A. Caracci. Holz. Hohe 6 cm.
+- 542 Borse. Ovale Grundform. Auf der Vorderseite hollandische Seelandschaft in Hochrelief,Rickseite mit Blumenwerk und Ranken in gravierter Arbeit. Mit rotem Leder bzw. Seide gefittert. Silber,vergoldet. 19. Jahr-
+- hundert.Hohe 5,7 cm,Breite 8,2 cm.
+- Kleines Fillhorn —kleine Schale. a) Reich reliefiertes Figuren-und Rankenwerk mit bunten Steinen besetzt. Silber. b) FuB und Schaft Bronze,mit bunten Steinen besetzt. Schale Marmor, oval. Hohe 11,5 bzw. 10 cm.
+- 543
+- Rokokowagen. Wagengestell Bronze, Wagenkasten mit buntfarbigen, figirlichen Darstellungen in Emaille-
+- 544 malerei. Moderne Arbeit. Hohe 23 cm, Breite 31 cm.
+- 545 Gebetbuch. T.Avontmael des Heeren.T Amsterdam 1723. Kleinoktav.In schwarzem Leder gebunden. Silber-
+- schlieBen.Inschrift: G. S. V. B. 15. Juny 1729.
+- 546 Kleines Loffelchen. Perlmutter. Modern. Lange 13 cm.
+- 547 Dolchmesser.Lange 21 cm.
+- 548
+- Zwolf Deckelchen.Rund. Schildpatt, Griff in Form von Weinlaubblatter. Mitte des 19.Jal.rh. Diam.7-10 cm.
+- 549 Deckeldoschen. Oval. Auf dem Deckel Putto mit Fackel zwischen Blumen. In Goldbronze montiert. Marmor.
+- Um 1850.Hohe 3 cm, Breite 6,5 cm.
+- 550 Kleines Doschen. Rechteckig. Auf der Innen- und AuBenseite des Deckels figiirliche Darstellung. Strohflecht-
+- arbeit. Um 1850. Lange 7 cm, Breite 5 cm.
+- Runde Deckeldose. Strohgeflechtarbeit. Auf der AuBenseite des Deckels Hausansicht, auf der Innenseite
+- 551 Pallas Athene in FluBlandschaft. Hollandisch. 19. Jahrhundert. Hohe 6 cm,Diam. 13 cm.
+- 551a Knotenstock. Kopf vollrunder Totenschadel. 19. Jahrhundert. Lange 86 cm.
+- 551b Knotenstock. Knopf vollrunder Lowenkopf, Spruchband, figiirliche Darstellungen und Schnitzereien. Mitte 19.Jahrhundert. Lange 87 cm.
+- 552 Violine. Vorder- und Rickseite sowie Griffbrett mit Rokaille- und Muschelwerk, Schaferszenen und Putten in reichster Reliefierung. Knauf in Form eines vollrunden Puttenkopfes. Im Geschmack des 18.Jahrh. Lange 60 cm.
+- 553 Neun Violinen.
+- 554 Cello mit Kasten.
+- 555 Kupferstichkasten. Nach vorn aufklappbar,mit Rollen. Modern. Hohe 120 cm, Breite 98 cm,Tiefe 20 cm.
+- 556 Tirkischer Wollschal. Auf rotem, mit Ranken und Blattwerk gefilltem Grund weibes Mitteistick.
+- 557
+- Spitzeneinsatz. Blumen und Rankenornament.Kloppelarbeit. Belgien. Lange 425 cm,Breite 31,5 cm.
+- 557a Tischdecke. Griner Seidendamast. In der Mitte Kreisrund mit Rokaillen und Blumenwerk,in den Ecken in ahnlicher Umrahmung Schaferszenen in Landschaft. Das Ornamentwerk und die figirlichen Szenen sind in Braun und Gold eingewebt. Mit Fransenbesatz. 19. Jahrhundert. Hohe 255 cm, Breite 270 cm.
+
+## Gemalde und Miniaturen
+
+## Ludolf Backuysen.
+
+1631-1708.
+
+- 558 Hollandische See. Mit bewolkter Luft und beschattetem Meer. Ein Segelschiff im Vordergrund. Ol auf Holz.
+- 41x53,5 cm.Schwarzer Rahmen.
+
+## Joh.Berkheyden
+
+1628-1698.
+
+- 559S Stadt am Meer. Mit Hafen und vielen Schiffen. Am Strande groBer,freier Platz mit Kirche. Auf dem Platz MeBbuden, Fuhrwerke, Kaufer, Spazierganger u. a. Bez.rechts unten:J. Berkheyden. Ol auf Leinwand.
+- 84 X 109 cm.Schwarzer Rahmen.
+
+Abbildung Tafel XxVI.
+
+## Anton Bertzik
+
+Lebte in Wien.
+
+- 560 Brustbild einer Dame. In deutscher Renaissancetracht. Tempera auf Leinwand. 51 X 39,5 cm. Unter Glas.
+- Goldrahmen.
+## A.Brouwer zugeschrieben.
+
+- grund sich eine Pfeife stopfend. Ol auf Holz. 20,5 x 18 cm. Dunkler Holzrahmen.
+- 561 Zwei Raucher am Wirtshaustisch.Einer mit pelzverbramter Mitze,den Krug in der Hand,der andere im Hinter-
+
+## Kopien nach Brouwer
+
+- 562 2Beim Wundarzt. Bursche, der vom Wundarzt am Arm behandelt wird. Ol auf Holz. 23,5 x 21 cm. Schwarzer Rahmen.
+- 563 reiBer u.a. O1 auf Holz. 34 X 42 cm. Goldrahmen.
+- 564 In Streit geratene Kartenspieler in der Schenke. Ol auf Holz. 33 X 48 cm. Schwarzer Rahmen.
+
+## Kopie nach Alexander Cabanel
+
+## Salvius Castellucci
+
+- Goldrahmen.
+- 566 Die hl. Familie in Landschaft. Im Vordergrund Madonna mit dem Kind und Johannes,rechts daneben
+
+Lebte zu Arezzo,gest.1672.
+
+- Joseph,auf einen Stein gelehnt. Ol auf Leinwand. 47 x 36 cm. Goldrahmen.
+
+## Del Casteletro zugeschrieben.
+
+- 567 Mannliches Bildnis. Kopf eines Mannes in weiBem Haar und Bart mit weiBem Halskragen auf schwarzem Kleid. Bez. auf der Rickseite:Del Casteletro. Ol auf Leinwand. 33 x 25 cm. Goldrahmen.
+
+## R.A.G. Constable zugeschrieben.
+
+- 568 Landschaft. Im Mittelpunkt des Bildes Kirche mit Turm und Bricke am Wasser. Rechts Baumgruppe und Fahrweg. Links Weide am Wasser und Kahn. Gewitterige, bewolkte Luft. Links unten bez.:J. Constable.
+- 01 auf Holz.74x79 cm. Reich geschnitzter,vergoldeter Rahmen.
+
+## Deutsch um 1450
+
+Schwaben oder Tirol.
+
+- 569 Flugelbild eines gotischen Altars, darstellend zwei Heilige, St.Katharina in gelbem Kleide und rotem Mantel mit Schwert und Rad und St.Barbara mit grinem Kleid u.weiBem Mantel mit Kelch und Turm;beide Gestalten auf schwarzem, urspringlich damaszierten,goldenem Grund. Ubermalt. O1 auf Holz. 115,5 x 63 cm.Holzrahmen. Abbildung Tafel XxVIl.
+- 570 Flugelbild eines gotischen Altars (Gegenstick zum vorigen), darstellend zwei Heilige, St. Georg im gelben Wams,in schwarzer Ristung und rotem Mantel mit der Lanze den Drachen zu seinen FuBen totend,und Heiliger in Hermelinmitze,gelbem,geschlitztem Wams,roten Beinkleidern und rotem Mantel mit zwei Pfeilen in den Handen; beide Figuren auf schwarzen Grund gemalt. Ol auf Holz. 104 x 67 cm. Holzrahmen. Abbildung Tafel XXVIl.
+
+In Holbeins Art.
+
+## Deutsch um 1549
+
+- 571 Bildnis einer furstlichen Dame. In schwarzem, genasteltem Kleide und reichem Schmuck. In der Rechten die Feder zur Unterschrift ansetzend. Links oben auf dunklem Grunde ein Wappen und die Inschrift: 1549 Act. Sne. 20 A:Cathol: Apostol. Rom: per magnus dei gracia. O1 auf Holz. 73 x 53 cm. Schwarzer Rahmenmit Gold.
+
+## Deutsch
+
+16.—17.Jahrhundert.
+
+- Mannliches Bildnis. Kopf mit weiBer Halskrause und schwarzem Wams. Auf dem Hintergrund in gelber Antiquaschrift: Bernard :Pongius:Medicus:Aetatis suae Anno XxIll. O1 auf Leinwand. 49 X 37 cm. Goldrahmen.
+
+## Deutsch
+
+Mitte 17.Jahrhundert.
+
+- 573 Junger Edelmann. In der Pagentracht des 17. Jahrh., in ganzer Figur, den Hut in der behandschuhten Linken, Stock in der rechten Hand,Kopf und Korperin Dreiviertei-Profil gegen den Beschauer gewandt.Im Hintergrund links griner Vorhang mit Wappen,rechts iber dem FuBboden mit Schachbrettmuster Ballustrade und Ausblick in die Landschaft. Bez.auf der Ballustrade:Anno 1635 Aetatis 16. Ol auf Holz. 131 x 76,5 cm. Goldrahmen. Abbildung Tafel XXIx.
+- 5721
+- Abbildung Tafel XxVill.
+Abbildung Tafel XxxI.
+
+## Deutsch
+
+- 574 Stilleben. Schlachtersfrau in roter Haube und Rock,griner pelzverbramter Jacke,ein Messer in der Rechten und einen Hasen in der linken Hand. Rechts davon Wildenten, Rebhihner u. a. Ol auf Leinwand. 69x 108 cm. Schwarzer Rahmen.
+
+17.Jahrhundert.
+
+- 575 Weinlaubbekranzter Bacchant. Mit einem FaBchen und Trauben inmitten Musikanten und Zechern in phantastischen Mitzen und Hiten. Ol auf Leinwand. 93 X 140 cm. Goldrahmen.
+
+## Deutsch
+
+Mitte 18. Jahrhundert.
+
+- 576 Rosenkranzbild. Im Mittelfeld betender Dominikaner, dem Maria den Rosenkranz gibt. Um das Mittelbild in 15 Feldern Szenen des schmerzhaften und glorreichen Rosenkranzes. Ol auf Leinwand. In schwarzem Rahmen. Hohe 126 cm, Breite 96 cm.
+
+## Deutsch
+
+18. Jahrhundert.
+
+- 577 Kaiserin Maria Theresia. Im Staatskleid und Hermelinmantel, die rechte Hand auf den Kronen Osterreichs und Ungarns. Pastellbild. 78,5 x 63,5 cm. Unter Glas und altem Rahmen. Abbildung Tafel Xxx.
+- 578 8Venus und Mars auf dem Liebeslager. Hephaistos mit dem Netze, in den Wolken Amor und Gotter. Ol auf Kupfer.In Goldrahmen.Hohe 51 cm,Breite 40 cm.
+- 579 Maria Himmelfahrt. Maria mit dem FuB auf der Erdkugel und auf den Wolken nach oben schwebend. Ol auf Blech.22x 16 cm.Goldrahmen.
+- 580 Heiliger im Priestergewand. Ein Vorleser und eine Klosterfrau in heiligen Gesprachen. Uber der Gruppe zwei in den Wolken schwebende Engelsfiguren. O1 auf Leinwand. 29,5 x 18 cm. Goldrahmen.
+
+## G.von Eckhout
+
+Zugeschrieben.
+
+- 581 Kreuzabnahme. Am Kreuzstamm der abgenommene Leichnam Christi im Fackelschein,vor ihm die Frauen und Johannes. Im Hintergrund Frauen und Manner. O1 auf Leinwand. 129,5 x 97 cm. Goldrahmen.
+
+## Englischer Meister
+
+Um die Wende des 18. Jahrhunderts.
+
+- grinem Rock auf dunklem mit rotem Vorhang drapiertem Hintergrunde. O1 auf Leinwand. 76 x 63,5 cm. Goldrahmen.
+
+## Pieter van der Faes
+
+geb.1618 zu Soest, gest.1672.
+
+- 583 Bildnis eines jungen Edelmannes. In schwarzer und weiBverbramter Tracht in ganzer Figur, an eine Saule gelehnt. Ausblick in eine Landschaft. Bez. am Sockel der Saule: Pieter van der Faes 1672. Ol auf Leinwand. Schwarzer Rahmen mit Gold.
+
+Abbildung Tafel XxIx.
+
+## Franz Floris
+
+geb.1520 zu Antwerpen, gest.1570 ebenda.
+
+- 584 Auferstehung der Toten. Prophet in gebirgiger Landschaft ruft die Toten auf, sie brechen durch Erde und Rasen und schwarmen im Licht. Ol auf Holz. 89 x 74 cm. Holzrahmen.
+
+## Franzosisch
+
+17.Jahrhundert.
+
+- 585 Christus und die Samariterin am Brunnen. Im Hintergrund zwei Apostel und Landschaft mit Ruine. Grisaille auf Leinwand. 80x 125,5 cm.Goldrahmen.
+- Oval.47x38,5 cm.Goldrahmen.
+
+## Franzosisch
+
+Um1830-—40.
+
+- 586 a) Abschied des Sohnes von Mutter, Vater und Geschwister. Ol auf Leinwand und auf Glas aufgezogen.
+- b) Wiederkehr des Sohnes aus der Fremde. Als im Kriege ausgezeichneter und dekorierter Soldat wird er von Eltern und Geschwistern empfangen. Ol auf Leinwand und auf Glas aufgezogen. Oval. 47x 38 cm. Goldrahmen.
+
+## Franz Franck
+
+geb.1582 zu Antwerpen
+
+- 587 Geburt Christi. Im Mittelpunkt der figurenreichen Komposition Maria mit dem Kinde. Links und rechts anbetende Engel und Hirten. Uber dem Stalle in den Wolken Engelscharen. Ol auf Kupfer, 50,5 x 65 cm.
+
+## Flandrischer Meister
+
+17.Jahrhundert.
+
+- 588 Landschaft mit groBen Baumgruppen. Im Mittelgrunde Ausblick ins Freie auf FluB, Mihle u.a. Links im Vordergrunde Schafer mit Ziegenherde, rechts Liebespaar und Schafer. O1 auf Holz. 73 x 122,5 cm. Goldrahmen.
+- Goldrahmen..
+
+Abbildung Tafel Xxxll.
+
+- 589 Dadalus und Ikarus. Dadalus bindet seinem Sohne Ikarus Fluigel an die Schultern. Ol auf Leinwand. 135,5 X111,5 cm.Geschnitzter,vergoldeter Rahmen. Abbildung Tafel XXX.
+
+## Jona di Giovanni
+
+- Der hl. Franziskus Xaverius im Ordensgewand heilt einen Kranken. Hinter ihm sein Gefolge. Rechts ein Engel.
+- 590 01 auf Leinwand. 199 x 143,5 cm. Schwarzer, teilweise vergoldeter Rahmen.
+
+## van Haanen
+
+Lebte zu Utrecht.
+
+- 591 Der barmherzige Samariter.Rechts ein unter dem Baume liegender,nackter Mann, dariber gebeugt der Samariter der seine Wunden pflegt;links StraBe mit Bricke in die freie Landschaft. Bezeichnet rechts unten auf einem Kurbis:A Han...Oi auf Leinwand. 58 x72 cm. Schwarzer Rahmen. Abbildung Tafel XXxill.
+
+## F.Herrera el Veijo
+
+1576-1656.
+
+- 592 Sybille. Mit rot und weiB gestreiftem Tuch um Kopf und Schultern,lebhaft bewegt mit weiten Augen und offenem
+- Mund nach einer visionaren Erscheinung hinsehend. Die rechte Hand an die Brust gelegt, die Linke in lebhafter Geste iber einer Kugel und einem Buch ausgestreckt. Ol auf Leinwand. 108 X 90 cm. Goldrahmen.
+
+## Hollandisch
+
+17.Jahrhundert.
+
+- 593 Kreuzabnahme Christi. Im Vordergrunde rechts der Leichnam Christi und die Frauen. Links Manner im orientalischen Kostim. Im Mittelgrund das Kreuz und die Schacher. Im Hintergrund Jerusalem. Ol auf Holz.35,5 x31 cm.Schwarzer Rahmen.
+- 594 Drei raufende Wurfelspieler. Ol auf Holz. In schwarzem Rahmen. Hohe 22 cm, Breite 18 cm.
+- 595 Soldateska des 30jahr.Krieges. Betrunkene und schiafende Zecher. Am Tisch Wirtin mit Schmuck. Im Vordergrund silberne GefaBe und Stoffe stillebenartig gruppiert. Ol auf Holz. 31 x 28,5 cm. Goldrahmen.
+- 596 An der hollandischen Kiste. Links alte Stadt mit Hafen. Am Strand lebhafter Verkehr von Fischverkaufern, Fischern und Schiffern,rechts auf offener See hollandische Kriegs- und Handelsschiffe, Staatsschiff u. dgl. 01 auf Holz.62,5x103cm.Goldrahmen.
+- 597
+
+Abbildung Tafel XxxiV.
+
+- Brustbild einer Dame. Mit Barett und Federschmuck im Haar und blauem,mit Pelz verbramtem Mantel um die Schultern. Ol auf Holz. 23 X 19 cm.Schwarzer Rahmen.
+## Hollandisch
+
+(Schiler Rembrandts).
+
+- 598 Weibliches Bildnis. Rothaariges Madchen mit Haarschmuck, weiBem Brusttuch und goldener Kette. Ol auf Leinwand. Oval. 59,5 x 49,5 cm. Schwarzer Rahmen. Abbildung Tafel XxVIll.
+
+## Hollandisch
+
+18.Jahrhundert.
+
+- 599 Grisaille. Christus fallt unter dem Kreuz. Figurenreiche Komposition.Ol auf Holz. 32 x 40,5 cm. Schwarzer Rahmen.
+
+## ltalienisch
+
+17.Jahrhundert.
+
+- 600 Verkindigung Maria. Links gefligelter Engel im roten Mantel,in der rechten Hand eine Lilie;rechts Maria vor einem Lesepult. Im geoffneten Himmel iber der Szene die Taube und Engelskopfchen. Ol auf Leinwand. 67x50 cm.Goldrahmen.
+- 601 Heilige Familie mit dem hl. Franziskus und dem kleinen Johannes. Rechts unten einige Engelchen mit Rosen. Ol auf Leinwand. 111 x 99 cm. Holzrahmen,vergoldet.
+- 602 Junger Neapolitaner. Mit grauem Hut,roter Feder und gleichfarbigem Kostim aus einer mit der linken Hand gehaltenen Schale 1offelnd. O1 auf Leinwand. 65 X 49 cm.Goldrahmen.
+- 603 Mannlicher Kopf. Mit flatternden, schwarzen Haaren und Bart, Augen nach links gerollt. Brustbild. Roter Mantel. Ol auf Leinwand. 56 X46 cm. Goldrahmen.
+
+## ltalienisch
+
+Um 1700.
+
+- 604 Beweinung Christi. Am Boden ausgestreckt der vom Kreuz abgenommene Leichnam Christi mit zwei trauernden Engeln. O1 auf Leinwand. 38,5x46cm.Goldrahmen.
+
+## ltalienisch
+
+18.Jahrhundert.
+
+- 605 Heilige. In einem Buche lesend. Brustbild. Kopf im Profil. Figur, weibes Unterkleid, blauer Mantel. Ol auf Leinwand.40 x31 cm.Goldrahmen.
+- 606 Ares und Venus in der Schmiede des Vulkan. Links die Gruppe der Gotter, rechts die Gesellen des Vulkan bei der Arbeit. Ol auf Leinwand. 36x 46 cm. Goldrahmen.
+
+## ltalienisch
+
+- 607 Venus und Amor. Mit Pfeilen. O1 auf Leinwand. 49,5 x 64 cm. Goldrahmen.
+- 608 Weibliches BrustbildNach oben sehendes Gesicht.Hals und Brust frei,mit anschlieBendem, schwarzem,gold betreBtem Kleide. Ol auf Leinwand. 60,5X 48,5 cm. Holzrahmen mit Goldstaben.
+- 609 Madonna mit dem Kinde auf dem SchoB,ihm mit der rechten Hand eine Frucht zeigend. Rechts der kleine Johannes, links ein betender Kardinal. Im Hintergrund Landschaft. Ol auf Leinwand. 33 x 26 cm. Alter, schwarzer und vergoldeter Rahmen.
+
+## Meister J.V.B.
+
+- 610 Stallinneres. In einem dammerigen Stall, durch dessen geoffnete Tir die Sonne scheint, steht ein Schimmel, ein Bauer und ein Knecht mit roter Mitze und blauem Janker, rechts davon Kuhe, Schaf und Ziege. Bez.: J. V.B. O1 auf Leinwand. 56 x 76 cm. Schwarzer Rahmen.
+
+## Wilhelm Koekkoek
+
+geb.1839 zu Amsterdam.
+
+- 611 Ansicht einer alten StraBe mit Stadttor und Kirchturm, im Hintergrunde von Kuilenburg. Auf der linken StraBenseite figirliche Staffage. Bez.: W.Koekoek. Auf der Ruickseite von W.Koekoek 1876 beglaubigte Zuschrift und Signatur des Bildes.Ol auf Leinwand. 47 x 62 cm. Goldrahmen.
+- 63cm.
+
+## Max Kuschel
+
+Lebt in Minchen.
+
+- 612 Artemis mit Pfeil und Bogen. Frauenakt mit roten Haaren, grinem, um das rechte Bein und den linken Arm gewundenem Schleier und rosa Kocherband iber der Brust. Mit der rechten Hand in den Kocher greifend, in der Linken den Bogen. Bez.:Max Kuschel. Ol auf Leinwand. 135 x 64,5 cm. Goldrahmen.
+
+## J. Lingelbach
+
+geb.1625 zu Frankfurt,gest.1687 zu Amsterdam.
+
+- 613 Heuernte. In der Mitte beladener Heuwagen, ein Schimmel und Brauner davor, Bauerin und Kinder. Rechts Reisende, Mann und Frau zu Pferd, denen ein Maher einen Trunk bietet. Bez.rechts unten:J. Lingelbach. 01 auf Holz.42,5x 56 cm.Schwarzer Rahmen.
+
+## Nach Mantegna
+
+- 614 Familienbild in Parklandschaft. Ol auf Kreidegrund. Holz. Ungerahmt. Beschadigt. Hohe 77 cm, Breite
+
+## Gabriel Max
+
+geb. 1840 zu Prag, gest.1915 in Minchen.
+
+- Madchen in Blumen. Blonder Madchenkopf, die linke Hand an der Wange aufgestitzt,in Sommerblumen.
+- 615 Bez.:G.Max.O1 auf Leinwand. 42 x35 cm. Unter Glas. Goldrahmen.
+
+## H. Willem Mesdag
+
+geb.1831 zu Groningen.
+
+- 616 Seestick. Hollandische Segelschiffe auf dem Meer und in der Nahe des Strandes. Am Strande Gruppen von Schiffer- und Fischerfrauen. Bewolkte und bewegte Luft. O1 auf Leinwand. Bez.:H.W. Mesdag. 85 X 63 cm. Goldrahmen.
+- 617
+- Hollandische Segelschiffe am Strande. Staffage:Fischer und Fischersfrauen. Uber dem Meer dunstige,abendlich gestimmte Luft. Bez.:H.W. Mesdag.Ol auf Leinwand. 86 x 63,5 cm. Goldrahmen.
+
+## M.Muelenberg
+
+zugeschrieben.
+
+- 618 Reitergefecht in einem Waldgelande. Im Mittelpunkt des Bildes zwei kampfende Reiter auf Schimmeln. Bez.: Muelenberg.O1 auf Leinwand.116x 173,5 cm. Abbildung Tafel XxVI.
+
+## A.van der Neer
+
+geb.1619 zu Gorinchen, gest.zu Amsterdam.
+
+- 619 Hollandische Landschaft bei Mondaufgang. Seehafen mit Hausern zur Rechten und zur Linken. Im Vorder-
+- grund am Strande Netze, Fischverkauferinnen und Fischer in Kahnen. Bez.: A. V.N. Ol auf Holz. 29,5 X39 cm.Goldrahmen.
+
+## Niederlandisch
+
+Arbeiten aus der Mitte des I9. Jahrhunderts in der Art des 15. Jahrhunderts.
+
+- 620 Anbetung der hl. drei Konige. Im Vordergrund links Madonna mit Kind und hl. Joseph, davor die drei Konige. Im Mittelgrund links Ruine, auf einer Bergmatte Herde mit Hirten. Ol auf Kreidegrund und Holz.In Rahmen. Hohe 57 cm,Breite 42,5 cm.
+- 621 Hausaltarchen —dreiteilig. Mittelstick:Anbetung der hl. drei Konige. Reiche figurliche Staffage in frihgotischem Architekturrahmen. Linker Flugel:Kniender,betender Furst,mit Furstin,Ritter und Eremit. FluB-und Architekturlandschaft. Rechter Fluigel:Zeigt eine ahnliche Anbetungsszene. Kniende,betende Furstin,neben ihr eine zweite mit Zepter, Jungfrau mit Palme und Bischof. Seelandschaft. Die Bilder sind auf Kreidegrund und Holz in Ol ausgefihrt. GroBe des Altarchens mit geoffneten Fligeln 52 x 75 cm.
+- 622
+- b) Ruckkehr eines Ritters mit reichem Gefolge in sein SchloB. Gebirgslandschaft auf Goldgrund. Ol auf Holz.
+- a) Reiterkampf. Im Vordergrund zu beiden Seiten eines Bachleins Reiterkampf, im Hintergrund Gebirgslandschaft mit See und WasserschloB. Reiche figirliche Staffage. Goldgrund.
+- Kreidegrund. Hohe 35 cm,Breite 40 cm.
+- 623 Empfang eines jungen Ritters. Mit reichem Gefolge naht sich ein Ritter einem jungen Edelfraulein, das ihn mit ihren Begleiterinnen unter der SchloBpforte empfangt. Reiche figirliche Staffage in Gebirgslandschaft mit See.Ol auf Holz. Kreidegrund. In Goldrahmen. Hohe 91 cm,Breite 67 cm.
+- Abbildung Tafel XxXIV
+
+## Niederlandisch
+
+Um 1600.
+
+- 624 Brustbild. Mann und Frau in der Zeittracht (Ausschnitt aus einer groBeren Komposition ?). Ol auf Leinwand. 60,5 x 60 cm.Schwarzer Rahmen mit Goldleiste.
+
+## Niederlandischer Maler
+
+Schule Brouwers.
+
+- 625 Genreszene. Spinnerin und Mann mit Haspel,nebenbei ein Mann, der zuschaut,und am Rock der Frau ein kleines Kind. Bez.:B. O1 auf Holz. 33x27 cm.Goldrahmen.
+- 626 Raucher und Trinker in der Schenke. Einer hebt prifend sein Glas gegen das Licht. O1 auf Holz. 40 x 29,5 cm. Schwarzer Rahmen.
+
+## Niederlandisch
+
+In Cuips Art,17. Jahrhundert.
+
+- 627 Hollandische FluBlandschaft. Links am Ufer Dorf, Haus und Baumgruppen, rechts ein Ort mit Kirchturm. Im Vordergrund Fischer und Ortseinwohner in Kahnen. Ol auf Holz. 66,5 x 95 cm. Schwarzer Rahmen.
+
+## Niederlandischer Meister
+
+G.B.1668.
+
+- 628 Schuster in seiner Werkstatt. Beim Schuhnahen. Bez.G. B. 1668. Ol auf Leinwand. 36 X 29 cm. Schwarzer Rahmen.
+
+## Niederlandisch
+
+In der Art des Franz Hals.
+
+- 629 Mannliches Bildnis. Mann in niederlandischer Tracht； Brustbild, die rechte Hand auf dem Leib. Ol auf Leinwand. 70 x57,5 cm.Schwarzer Rahmen.
+
+## Niederlandischer Meister
+
+17. Jahrhunderts. In der Art Teniers.
+
+- 630 Drei Trinker sitzen um ein FaB in der Schenke. Ol auf Kupfer. 21,5 x 25,5 cm. Goldrahmen.
+
+## Niederlandisch
+
+in Terborchs Manier.
+
+- 631 Hollanderin am Tisch mit Frichten, ein Weinglas in der einen, eine Kanne in der anderen Hand. Vor ihr sitzt ein Kriegsmann im Brustpanzer,in der ausgestreckten rechten Hand Goldsticke.Ol auf Leinwand. 61 x 45 cm. Schwarzer Rahmen.
+
+## Niederlandisch
+
+17. Jahrhundert.
+
+- 632 Gelage. In Rembrandtscher Manier gemalte Zecher, die den rechten Teil des Bildes fillen. Links eine junge Frau mit Erdbeeren und eine altere mit einem Korb voll Trauben. Ol auf Leinwand, liegendes Rechteck,oval abgerundet. 127 x 186,5 cm. Schwarzer Rahmen mit vergoldeter Einlage. Abbildung Tafel XxxV.
+- 633 Inneres einer Wundarztstube. Zahnbrecher, der einen Patienten bearbeitet. Im Raume ab und zu gehende Personen.Ol auf Leinwand. 36 x52cm.Goldrahmen.
+- 634
+- Niederlandische Schenke. Raucher,Zeitungsleser und Frau, die auf einer Flote spielt. Dabei ein kleines Madchen in Rickansicht. O1 auf Holz. 32,5 x31 cm. Goldrahmen.
+- 635 Interieur.Mit Glasern,Tigeln,Topfen,inem Arzt mit Uringlas und Patienten.Aussicht in mehrere ineinander
+- gehende Raume. O1 auf Leinwand. 36,5 x52,5 cm.Goldrahmen.
+- Gemisehandlerin. Unter Blumen und Frichten sitzend. Links neben ihr eine Kauferin. Im Mittelgrund Ausblick auf eine Stadt. Rechts ein Mann unter Wild und Gefligel, eine Truthenne auf dem SchoB. Ol auf
+- 636 Leinwand.155x226,5 cm.Bez.:A.E.
+- 637 Portrat eines Aldermans. Brustbild nach rechts. Schwarzes, spanisches Wams und Mihlsteinkragen,hoher
+- zylinderartiger Hut. Ehrenkette mit Medaille.Ol auf Kupfer, oval. 42 X 32 cm. Goldrahmen.
+- 638 Raucher und Zecher beim Kartenspiel in einer Schenke. Ol auf Leinwand. 32,5 X 40,5 cm. Goldrahmen.
+- 639 Niederlandisches Dorf. In der Mitte des Bildes Kirche und Baumgruppen. Am Wege Hauser. Ol auf Holz. 32,5×48,5cm.
+- 640 Landschaft mit reicher Staffage. Rechts See mit gebirgigen Ufern, einer Stadt und vielen Schiffen. Links Strand mit anlegenden Schiffen, die Waren verfrachten. Unter einer Baumgruppe Fischer, Handler und Manner bei einem Kochkessel. Ol auf Holz. 32,5x52cm.
+- 641 Landschaft. Rechts unter Baumen Herberge mit allerlei Volk und Reisenden zu Pferd. Im Mittelgrund eine Gruppe Ruhender an einem Felsen. Links FluB mit Herden, Reisenden, Kahnen. Im Hintergrund Kirche, Kapelle und Berge. Blaue, bewolkte Luft. Ol auf Leinwand. 53,5 x 81 cm. Schwarzer Rahmen.
+- 642 Niederlandische KirmeB. Stube mit Tanzern,Zechern und Musikanten. Bez.: A. O. Ol auf Holz. 53,5 x 39 cm. Schwarzer Rahmen.
+
+## Niederlandisch
+
+17.18.Jahrhundert.
+
+- 643 Blumenstilleben. Astern und Rosen. Ol auf Leinwand. 37,5 x 28 cm. Goldrahmen.
+
+## Oberitalienisch
+
+Sienesische Schule.14. Jahrhundert.
+
+- 644 Mittelstick eines Triptychons. In dem durch einen Spitzbogen begrenzten Rahmen Christus am Kreuz; links Darunter die Inschrift:Pater noster qui es ..Uber dem Spitzbogen im Giebelfeld eine weiBe Taube mit Wolken. O1 auf Holz. 103 x 37,5 cm. Architektonischer Holzrahmen,vergoldet.
+
+## Oberitalienisch
+
+17.Jahrhundert.
+
+- 645 Madonna mit Kind. Madonna mit dem auf einem Tisch stehenden,nackten Kind. Auf dem Tische Frichte. 01 auf Holz. 56,5 x 41 cm.Vergoldeter Rahmen.
+
+## Oberitalienisch
+
+18. Jahrhundert.
+
+- 646 6Luna und Endymion. Skizze zu einem Deckengemalde. O1 auf Leinwand. 57,5 x 40 cm. Alter geschnitzter Rahmen, vergoldet.
+
+## Bernhard van Orley zugeschrieben.
+
+- 647 Familienbild. Mutter in der Art der Madonna mit einem Kind an der Brust, einem Madchen im Arim und zwei Knaben zu FiBen in einem Gemach mit Fernsicht auf blauende Berge und Ruine. Figuren und Landschaft in Lionardos Art. Ol auf Holz. 96 x 80,5 cm. Goldrahmen. Abbildung Tafel XXxV1.
+
+## P.Patel
+
+geb. 1654 zu Paris.
+
+- kleiner Tempel unter Baumen. Bez.:P.Pat.Ol auf Leinwand.52 x 62 cm. Goldrahmen. Abbildung Tafel XXXll.
+
+## Quedy
+
+Lebte Ende des 18. Jahrhunderts.
+
+- 649 Zwei Bettlerszenen. Bettler und Bettlerin unterm Baume. Bez. rechts unten: Quedy. Ol auf Leinwand. 32X 40 cm.Geschnitzter Holzrahmen.
+
+## Erasmus Quellinus
+
+geb. 1607 zu Antwerpen,gest.1678.
+
+- Wiege, um ihn spielende Engelchen. Uber der Gruppe auf Wolken schwebende Engel. Ol auf Kupfer. 56 X 42 cm.Holzrahmen.Gold und Schwarz.
+- 654 130,5 cm.Goldrahmen.
+- 655 Selbstbildnis Rubens. Mit groBem Schlapphut und Mantel. Gesicht in dreiviertel Wendung nach rechts. Ol auf Leinwand.55 x 46 cm.Schwarzer Rahmen.
+
+## In der Art des Rugendas
+
+- 656 Schlachtenbild. Reitergefecht zwischen Rittern und Morgenlandern. Im Hintergrunde Landschaft am Meer und Berge.O1 auf Leinwand. 59 x 117,5 cm.Goldrahmen.
+
+## Nach D. Rykaert
+
+- 657 Alte Frau.Mit Witwenschleier und pelzverbramtem Kleid,mit Licht in Handen, auf dem Tische vor ihr Stundenglas, Totenkopf und Beutelchen mit Geld,hinter ihrem Ricken in einer Nische eine Eule. Ol auf Holz. 32 x 24 cm.Schwarzer Rahmen.
+
+## N.Rynenborgs
+
+- 658 Der Kantor. In schwarzem Hut, blauer Weste, Beinkleidern und schwarzen Strimpfen, die Schnupftabaksdose in der Hand. Vor ihm auf dem Tisch Zinnkanne, Pfannchen mit Glut und Rauchzeug. An der Wand eine Geige und Notenblatter. Bez.:N.Rynenborgs. Ol auf Holz. 24,5 x 20 cm.Schwarzer Rahmen mit Goldstab.
+
+## Heinrich Hans Schlimarski
+
+- 659 Der Welle Umarmung. Ein junger Schiffbrichiger, auf einem abgerissenen Mast auf den Wellen treibend, wird von einer Meernymphe erfaBt und in die Tiefe gezogen. Bez.: Heinrich Hans Schlimarski. Ol auf Leinwand. 98x142cm.Goldrahmen.
+
+## Spanisch
+
+Spates 17. Jahrhundert.
+
+- 660 Kreuzabnahme Christi. In den Armen eines Mannes mit gelbem Mantel Christi Leichnam, ein weinender Juinger davor. Im Hintergrund die Mutter des Herrn und weitere Kopfe anteilnehmender Personen. Ol auf Leinwand. 98,5x72 cm.Goldrahmen.
+
+## Sudslawisch
+
+17.—18.Jahrhundert.
+
+- 661 Der hl. Demetrius von Solona. Als Reiter iber einem besiegten Heiden. Uber der Gruppe ein schwebender Engel mit Siegeskranz; im Hintergrund eine kuppelbekronte Stadt. Tempera auf Holz. 40 x 30 cm.
+
+## David Teniers zugeschrieben
+
+- rechts oben am Fenster ein Frauenkopf. Am Boden ein schlafender, schwarz und weib gefleckter Hund. Bez. rechts: O. Teniers fec. Links: N 698 in grellem Rot. O1 auf Leinwand. 44 X 56,5 cm. Schwarzer Rahmen. Abbildung Tafel XxxIlI.
+
+## Kopie nach Raffael Santi
+
+- 651 Madonna mit Kind. Vor grinem Hintergrund sitzende Madonna im SchoB das Jesusknablein. Ol auf Holz, in reichgeschnitztem Goldrahmen. Hohe 85 cm,Breite 65 cm.
+
+## Josef de Ribera
+
+zugeschrieben.
+
+- 652 Der hl.Hieronymus.Am Boden sitzend, teilweise mit rotem Mantel bedeckt,vor ihm ein Totenkopf,Buch und Lowe in abendlicher Landschaft. Ol auf Holz,Rechteck,am linken und rechten Ende oval gerundet. 53 x 92,5 cm.Goldrahmen.
+- 653 Alter Mann.Halbakt. In den Handen ein Stundenglas. Um die linke Schulter und den rechten Arm ein schwarzes Tuch. O1 auf Leinwand. 74X 60 cm. Goldrahmen. Abbildung Tafel XXxVI.
+
+## Nach Peter Paul Rubens
+## Nach Terborch
+
+- 663 Hollanderin. Mit dem Witwenschleier,in pelzverbramter Jacke vor dem Frihstickstisch.Auf einem Stuhl ein Huindchen.An der Wand des reich und behaglich ausgestatteten Gemaches ein Bild der hl.Familie.Bez.: Terborch/Moch Haag.O1 auf Holz.41,5x37,5 cm.Goldrahmen.
+
+## Unbekannter Meister
+
+- 664 Portrat eines jungen Mannes. Junger Mann in niederlandischer Tracht. Brustbild. Ol auf Leinwand. 82,5 X 65,5 cm.Schwarzer Rahmen.
+- 665 Madchenportrat. Ein mit Blumen und Perlen geschmicktes Madchen in einem Buche lesend. Ol auf Leinwand. 66×50 cm.Holzrahmen.
+- 666 Blumenstilleben. Blumen in einer Vase. Ol auf Holz. 85 x 63 cm. Holzrahmen.
+- 667 Interieur.Alter Mann in einem disteren,alten Zimmer an mit roter Decke belegtem Tisch. Gold auf der Goldwage wiegend. 01 auf Leinwand. 65 x 46,5 cm. Schwarzer Rahmen.
+- 668 Madonna gibt dem Kinde die Brust. Brustbild. Ol auf Holz. 34 X 28 cm. Schwarzer Rahmen.
+
+## Varnel-Ven
+
+Lebte um die Mitte des 19. Jahrhunderts.
+
+- 669 Blumenstilleben. Mit zwei fliegenden Kolibris. Bez.:Varnel-Ven 183o. O1 auf Holz. 27 x 21 cm. Goldrahmen.
+
+## Esaias van de Velde
+
+- 670 Reiter in der Landschaft. Zwei Reiter mit einem ledigen Schimmel in einer waldigen Landschaft. Ol auf Holz. 37X 49 cm.Schwarzer Rahmen.
+
+1590-1630.
+
+## Fed.Zuccaro
+
+1550-1609.
+
+- 671 Pittoreske sidliche Landschaft. Mit Ausblick ins Gebirge.Im Vordergrund Eseltreiber,Hirten,Frauen, Schafe. 01 auf Leinwand. 61 x71 cm.Goldrahmen.
+
+## Maler des 18. Jahrhunderts
+
+- 672 Mannliches Bildnis. Ein junger Adeliger in hellem Rock, goldbetreBter Weste und weiBrotem Ordensband, die linke Hand an der Brust mit dreiviertels Wendung nach rechts gegen den Beschauer sehend. Ol auf Leinwand.72,5x59 cm.Goldrahmen.
+- auf schwarzem Kleid und weiBer Mitze im Haar. Brustbild, Gesicht en face. Pastell auf Leinwand. 44,5 x 36 cm. Ovalbild unter Glas und geschnitztem Rahmen.
+- 674 Kihe auf der Weide.Im Vordergrund zwei lagernde Kihe,im Mittelgrund eine aufrechtstehende und dahinter wieder eine lagernde Kuh. O1 auf Holz. 38,5 x45 cm.
+
+## Miniaturen
+
+- 675 Gartenlandschaft. Rechts Rosenlaube mit figirlicher Staffage, links Ausblick auf Gebirgslandschaft. Elfenbein.
+- Queroval in schwarzem Holzrahmchen. Mitte 19. Jahrhundert. Hohe 6,5 cm,Breite 8 cm.
+- 676 Parklandschaft. Mit promenierenden Damen und Herren.Auf Elfenbein. Queroval.In schwarzem Holzrahmchen. Mitte 19. Jahrhundert. Hohe 6,5 cm, Breite 8 cm.
+- 677 Herr und Dame. Unter einem Baume,rauchend. Daneben Diener. Aquarell auf Elfenbein. Queroval. In Rahmchen. 19. Jahrhundert. Hohe 7 cm, Breite 8,7 cm.
+- 678 Brustbild Napoleons. I. En face nach rechts. Rund. Auf Elfenbein. In schwarzem Rahmchen. 2. Drittel 19. Jahrhundert.Diam.6 cm.
+- 679 Hiftbild Napoleons I. Rund. Auf Elfenbein. Rechts bez.:H. K.In schwarzem Rahmchen.2. Drittel 19. Jahrhundert.Diam.9,2cm.
+- 680 Tod Ludwigs XVI. Rund, auf Elfenbein. Rechts bez.:H.E. In schwarzem Rahmchen. 19. Jahrhundert. Diam.8,2cm.
+- Portrat einer Furstin.Brustbild en face. Rechts bez.:H.J. Auf Elfenbein. Hochoval. In schwarzem Rahm-
+- 681 chen.Mitte 19. Jahrhundert.Hohe 8,7 cm,Breite 7,5 cm.
+- 682
+- Huftbild einer Empiredame. En face. Rechts bez.:H.E. Auf Elfenbein. Hochoval in schwarzem Rahmchen.
+- Bildnis einer Dame. Hochoval. Gurtelbild en face. Aquarell auf Elfenbein. Rahmchen mit durchbrochenem Blattwerk,mit grinen Glassteinen besetzt. 19. Jahrhundert. Hohe 7,2 cm, Breite 4,7 cm.
+- 683 2.Drittel 19. Jahrhunderts. Hohe 7 cm, Breite 5,5 cm.
+- 684
+- 685
+- Brustbild einer Firstin. Mit groBem Spitzenkragen. Auf Elfenbein. Rund. In schwarzem Holzrahmchen. 19. Jahrhundert. Diam. 6,4 cm.
+- Konigliche Familie. Brustbild im Profil nach links. 179o. Auf Elfenbein. Rund. In schwarzem Rahmchen. Mitte 19. Jahrhunderts.Diam.7cm.
+- 686 Doppelportrat eines Furstenpaares. Rund, Aquarell auf Elfenbein. Mit bunten Steinen besetzter Rahmen. Diam.5cm.
+- Ruckkehr von der Reise. Bauerninterieur. Querrechteckig. Auf Elfenbein. In braunem Rahmchen. Mitte
+- 687 des 19. Jahrhunderts. Hohe 7 cm,Breite 12cm.
+- 688 Leierkastenmann. Mit figurlicher Staffage in Hofraum. Rund. Hinterglasmalerei. In schwarzem Rahmchen.18. Jahrhundert. Diam.8 cm.
+- 689 FaB der Danaiden. Rund. Auf Elfenbein. In schwarzem Rahmchen.19. Jahrhundert. Diam.6 cm.
+- 690
+- Badende Madchen.Rund. Aquarell auf Elfenbein. In rotem, goldgepreBtem Lederetui. Lange 10,5 cm, Breite 10,5cm.
+
+## Kupferstiche und Farbstiche
+
+## Jacq.Firm.Beauvarlet
+
+1732-1797.
+
+- 691 Le Chaste Joseph. Kupferstich. J. Natier pinx Beauvarlet Sculp. Qu. Fol. In Goldrahmen unter Glas.
+
+## James Daniell
+
+- 692 Favourite Chickens. Painted by W.R. Bigg. James Daniell graveur. 1802. Kupferstich koloriert. Neudruck.
+
+Lebte in London gegen SchluB des 18. Jahrhunderts.
+
+## Kopie nach Albrecht Durer
+
+- Mit Rand Qu. Gr. Fol.
+- 693 Beschneidung Christi. Tusch und Federzeichnung. Kopie des spaten 17. Jahrhunderts. Fol.
+
+## Richard Earlom
+
+1728-1822.
+
+- 694 The Royal Akademy of Arts,instituded by the King in the Year 1768. Joannes Zoffani pinxit 1772. Richardus Earlom sculpsit 1773. Schabkunstblatt. Mit kleinem Rand. Mit einigen,kleinen Quetschfalten. Qu. Gr. Fol.
+
+## Franzosisch
+
+18.Jahrhundert.
+
+- 695 Morgentoilette. Kolorierter Kupferstich auf Seide. Spaterer Abdruck. Fol. In Goldrahmen unter Glas.
+
+## Franzosisch
+
+Um 1800.
+
+- 696 Zwei Hafenlandschaften. Mit reicher figirlicher Staffage. a) Empfang eines Firsten. b) Brand einer Hafenstadt. Kupferstich koloriert. In altem Goldrahmen unter Glas. Gr. Qu. Fol. Hohe 50 cm, Breite 70 cm.
+
+## T.Gaugain
+
+- stich. Vorziglicher Abdruck. Ohne Grund aufgezogen. Gr.Fol. Abbildung Tafel XXXVIl.
+- 697 Health and Sickness. Painted by W.R. Bigg — engraved by T. Gaugain. 1795 London. Kolorierter Kupfer-
+- 698 Birth Day Present to Old Nurse. Painted by W. R. Bigg  engraved by T. Gaugain. Kolorierter Kupferstich.
+
+<!-- image -->
+## Rich.Houston
+
+1728-1775.
+
+- 699 Interieur einer Schmiede. Painted by Edw. Penny, Engraved by Rich. Houston.Kupferstich mit getuschten Farben. Mit kleinem Rand. Fleckig. Gr. Fol.
+
+## Francois Janinet
+
+1752-1813.
+
+- 700 La comparaison. Lavreince del. Jaeninet Sculp. 1786. Kolorierter Kupferstich.Neudruck. Gr. Fol. In Goldrahmchen unter Glas.
+
+1707-1783.
+
+## 1.Phil. Lebas
+
+- stich koloriert.Neudruck.Mit vollem Rand.Gr. Q. Fol.
+
+## L.S.Lempereur
+
+1728-1807.
+
+- 702 La Sortie du Bain. L. Trinquesse pinx. L. S. Lempereur Sculp. Kolorierter Kupferstich, spaterer Abdruck. Gr.Fo..In Goldrahmen unter Glas.
+
+## Carlo Antonio Porporati
+
+1740-1816.
+
+- 703 Le Coucher. Porporati sculp. J. Vanloo pinx. Kolorierter Kupferstich, spaterer Abdruck. Gr.Fol. In Goldrahmen unter Glas.
+
+## John.R. Smith
+
+1740-1811.
+
+- 704 A Visit to the Grandfather.J. R. Smith.Kupferstich koloriert. Mit Rand. Spaterer Abdruck. Qu. Gr. Fol.
+
+## Unbekannter Meister
+
+19. Jahrhundert.
+
+- 705 Rauchender Bauer. In Bauernstube. Aquarell. In Goldrahmen unter Glas. Hohe 24 cm, Breite 17 cm.
+
+## Unbekannter Meister
+
+- 706 a) Bauer und Weib zechend. b) Bauer und Weib beim Lesen eines Briefes. Gerahmt unter Glas. Hohe 18 cm,Breite 14cm.
+
+## Thomas Williamson
+
+- 707 Summer Amusement. George Morland del. Thomas Williamson sculp. Kupferstich koloriert. Mit Rand. Qu.Gr.Fol.
+- 708 Cottagers in Winter. Painted by G.Morland. Engraved by Thomas Williamson. Kupferstich koloriert. Mit Rand.Qu.Gr.Fol.
+
+## James Ward
+
+- 709 The Cottager's Favorite. J. Ward. Kolorierter Kupferstich. Neudruck. Mit Rand. Qu. Gr.Fol.
+- 710 The Fruits of Early Industry and Oeconomy. Moreland pinx W.Ward sculp. Kupferstich koloriert. Neudruck. Mit Rand.Gr.Fol.
+- 711 The Effects of Youthful Extravagance and Jolleness. Gegenstick zu vorhergehender Nummer. Painted by G. Moreland. Engr.by W.Ward. Kolorierter Kupferstich.Neudruck.Gr.-Fol.
+
+## A.Welti
+
+- 712 Amor vincit. Originalradierung. Fol. In schwarzem Rahmchen unter Glas.
+- 713 Liegende Venus.Kupferstich nach Tiz. Vezelli. In schwarzem Rahmchen unter Glas. Hohe 15 cm, Breite 18 cm.
+- 714 Konvolut von funfundfunfzig Lithographien.
+- 715 Konvolut von einhundertundvierzehn Kupferstichen.
+- 716 Konvolut von zweihundertundneununddreiBig Handzeichnungen und fuinf Aquarellen.
+- 717
+- Seidenteppich. Auf weiBem, mit Nelkenornament in Blau, Rot und Schwarz gefuilltem Grund, rotes spitzen-
+
+## Textilien
+
+- GroBer Seidenteppich. Innenfeld mit 24 Quadraten gefuilt. Diese zeigen auf blauem, rotem, gelbem und und Hakenwerk. Schmalseite mit Fransenbesatz. Persisch. Breite 280 cm, Lange 400 cm.
+- 718 ovales Mittelstick mit stilisierten Blumen. Funffache Randbordire mit Blumenwerk auf blauem, weibem und rotem Grund. An zwei Seiten mit Fransenbesatz. Persisch. Breite 235 cm, Lange 350 cm.
+- 719 Desgl. Rotes Innenfeld mit Saulenarchitektur und Ampel. Dreifache Randbordire mit laufendem Blumenornament auf rotem und blauem Grund. Persisch. Zwei Seiten mit Fransen besetzt. Breite 125 cm, Lange 190cm.
+- 720 Desgi. Innenfond. Rundbogenarchitektur mit Ampeln auf rotem, grinem,blauem und weiBem Grund. Dreifache Randbordire mit reichem Blumen- und Ornamentwerk. Schmalseiten mit Fransenbesatz. Persisch.
+- 721
+- Desgl. Auf blauem Grund iber Eck gestelltes, mit Blumenwerk gefilltes Viereck. Dreifache Randbordire
+- Breite 190 cm,Lange 250 cm.
+- bordire, Schmalseiten mit Fransenbesatz. Persisch. Lange 200 cm, Breite 130 cm.
+- 722 mit Blumen auf weibem und rotem Grund. Persisch. Breite 122cm,Lange 172 cm.
+- 723 Desgi. Im Innenfeld hochovales Vieleck mit buntfarbigem Blumenwerk auf blauschwarzem Grund. Dreifache Randbordiire mit Blumen auf rotem und weiBem Fond. Zwei Seiten mit Fransenbesatz. Persisch. Breite 130 cm,Lange 180cm.
+- Kleiner Teppich. Braunrotes,rechteckiges Mittelfeld. Dreifache Randbordire mit Blumen und Hakenwerk
+- 724 gefillt. Persisch. Lange 120 cm, Breite 80 cm.
+- Desgl. Auf blauem Grund Sechseck mit Ornamentwerk auf Rot.Vierfache Randborduire in Rot, Gelb
+- 725 und Grin.Orient.Lange 160 cm,Breite 95 cm.
+- 726
+- 727 Desgl. Auf blauschwarzem Grund Blumen und Rankenwerk in Blau,Rot und WeiB. Dreifache Randbordire. Orient.Breite 112cm,Lange 560 cm.
+- Laufer. Innenfeld rautenformig stilisiertes Rankenwerk in WeiB und Schwarz auf rotem Grund. Dreifache Randbordire mit laufenden Blumen auf blauweiB und schwarzem Grund. Orient. Breite 81 cm,Lange 680 cm.
+- 728 GroBer Teppich.Auf weiBem Grund rotbraunes Sechseck mit braunem,von kreuzformigem Ornament gefilltem Mittelstick. Dreifache Randbordire mit stilisiertem Blumenwerk in Rot, Schwarz und WeiB auf blauem
+- 729
+- und rotem Grund. Tuirkisch. Breite 360 cm,Lange 450 cm.
+- Teppich. Innenfeld mit Hakenwerk in Rot,Blau und Weib auf schwarzem Grund. Randbordire mit stilisiertem Ornamentwerk.Tirkisch. Breite 150 cm,Lange 270 cm.
+- 730
+- 731 GroBer Teppich. Im Innenfeld auf gelbweiBem Grund stilisiertes, groBblumiges Ornamentwerk in Blau, Rot
+- Kleiner Teppich. Hochrechteckiges, rotes Innenfeld. Vierfache Randbordire mit buntem Rautenornament auf weiBem und blauem Grund. Turkisch. Breite 124 cm, Lange 240 cm.
+- und Hellgrin. Dreifache Randbordire in ahnlichem Dekor. Breite 340 cm,Lange 480 cm.
+- Randbordire mit ahnlichem Dekor auf griinem, blauem und gelbem Grund. Lange 485 cm, Breite 300 cm.
+- Gelb und blauschwarzem Grund. Breite 310 cm, Lange 410 cm.
+- 734 Desgl. Langrechteckiges Mittelfeld mit linearen Blumenornamenten in WeiB und Blau auf rotem Grund. Breite Randbordire mit stilisiertem Blumenwerk auf weiBem Grund. Breite 400 cm, Lange 490 cm.
+- bordire mit stilisiertem Blumenwerk auf schwarzem,weibem und rotem Grund. Breite 230 cm,Lange 525 cm.
+- 735
+- 732 Desgl. Im Innenfeld auf rotem Grund stilisiertes Blumen-und Rankenwerk in Grin, Gelb und Blau. Dreifache
+- 733
+DRUCK: R.OLDENBOURG MUNCHEN

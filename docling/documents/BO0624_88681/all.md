@@ -1,0 +1,750 @@
+## STEINZEUG
+
+- 1.KREUSSENER WALZENKRUG, mit Zinndeckel.Auf der Leibung Fries von sechs Medaillons
+
+Siehe Klingelschmitt, Alt-Naussauer Steinzeug in *Nassauische Heimat&amp; 1923, Nr.9/10. (Kritische Betrachtungen iber die Steinzeugsammlung Marx.)
+
+- mit Bildnissen. (Aus Sammlung Habich, Schweinfurt.) H.22% cm, Kreussen,um 1600
+- 2.FUNF KLEINE BARTMANNSKRUGE. Braune Glasur. Wappen in Medaillons, aufgelegt.
+- (Werden geteilt.)H.22,21,23,22,23cm. Frechen,17.Jahrhundert
+- 3.ZWEI BARTMANNSKRUGE,braun glasiert,Wappen in Medaillons,aufgelegt.H.32,27cm
+4. GROSSER BART MANNSKRUG, hohe Birnform. Leibung mit drei aufgelegten Wappen H.54cm, Frechen,17. Jahrhundert
+- Frechen,17.Jahrhundert
+5. FUNF KLEINE TRICHTERBECHER mit eingezogenem Hals und FuB und konisch sich er-
+- weiternder Mundung. Auf der Leibung drei Kartuschen mit verschiedenen Darstellungen,(Werden geteilt.) H.14,16,20,15,23cm. Koln,Ende 16.Jahrhundert
+- 6.H O HER KR UG,zylindrisch. Grau mit verteiltem Blau. Aufgelegter Dekor: Rennaissance-Kartusche
+- mit Inschrift und Jahreszahl 1591.H. 18 cm.Abb. Tafel 11.Westerwald,Ende 16. Jahrhundert
+- 7.W A L ZEN KR UG mit Zinndeckel. Grau mit Blau. Auf der Leibung aufgelegter Fries von Segelschiffen.
+- 8.KLEIN ER W ALZENK RU G. Blau mit Grau. Auf der Leibung aufgelegter Fries mit der zweimal sich wiederholenden Ansicht der Stadt Wien mit der Donau.Entsprechende Beschriftung.H.18 cm. Westerwald,Anfang 17.Jahrhundert
+- H.20cm. Westerwald,Anfang 17.Jahrhundert
+9. WALZENKRUG MIT ZINN DECKEL. Grau mit Blau. Auf der Leibung aufgelegter Fries mit der zweimal sich wiederholenden Darstellung von Daniel in der Lowengrube und entsprechender Beschriftung.H.21 cm.
+10. HENKELKRUG,birnformig. Grau mit Blau und Mangan. Aufgelegter Dekor:
+- Westerwald,Anfang 17.Jahrhundert
+- Vier Felder mit Wappen, durch senkrechte Blattranken getrennt.H.29,5 cm. Abb. Tafel 12.
+11. HEN KELKRUG,bauchig. WeiB mit Blau und Mangan, teils geritztes, teils aufgelegtes Blumenornament und Wappen.Ein Wappen datiert 1687. H. 35 cm.
+
+Westerwald,17.Jahrhundert
+
+Westerwald,17.Jahrhundert
+
+13. STER NK RUG mit eiformigem Bauch und engem Hals,mit Lowenmaske am AusguB.Auf der Leibung aufgelegte Rosetten aus Teilstuicken.H. 20% Westerwald,17.Jahrhundert
+12. HEN KEL KR UG mit Zinndeckel. Aufgelegtes und eingepreBtes Ornament. Horizontale Friese. Am Hals Maskaron und Rosetten. Auf der Schulter Blattfries. Auf der Leibung Scenen in Arkadenstellung.H.30 cm.Abb.Tafel 12. Westerwald,17.Jahrhundert
+14. HENK ELK R U G mit Zinndeckel. Eiformig, mit profiliertem Hals. EingepreBte und aufgelegte Ornamente: Friese und Langsrillen. Grau mit Blau.H. 24 cm. Abb. Tafel 12.
+15. HENKEL KRUG,birnformig, mit engem Hals und Lowenmaske am AusguB.Blau mit Grau. Auf der Leibung aufgelegte Blattornamente in Medaill ons. H.24 cm. Abb. Tafel 12.
+
+Westerwald,17.Jahrhundert
+
+Westerwald,17.Jahrhundert
+
+- 16.GROSSER STERNKRUG, Grau mit verteiltem Blau. Eiformig, mit engem profiliertem Hals. Maskaron unter dem AusguB. Reliefdekor.Auf der Leibung vorn und hinten grobe doppelte Rosette mit durchbrochenem Rad in der Mitte. An den Seiten Vertikalfriese. Zinndeckel.H. 34 cm. Abb. Tafel 12. Westerwald,17.Jahrhundert
+- 17.ZW EI HE N K E L K RUGE, bauchige Form mit engem Hals und Maske am AusguB. Auf der Leibung aufgelegte Rosetten. Grau mit Blau.H. 27, 19 cm. Einer davon Abb. Tafel 12.
+- 18.HE NKELKRUG, bauchig, mit Zinndeckel Am engen Hals Maskaron unter dem AusguB. Grau mit Blau. Aufgelegte Ornamente in symmetrischer Anordnung.H. 26 cm, Abb. Tafel 12. Westerwald,17.Jahrhundert
+
+Westerwald,17.Jahrhundert
+
+19. HE NKEL KR UG,mit Blumenornament belegt und geritzt. Graue Glasur.H. 2i% cm Westerwald,2.Halfte 17.Jahrhundert
+20. HE N KEL KRU G, grau mit verteiltem Blau und Mangan. Am engen Hals Lowenmaske, Auf der ei formigen Leibung aufgelegte Vierecke.H. 20 Westerwald,17.Jahrhundert
+3. 21.
+4. WA PP ENK RUG mit Zinndeckel. Grau und Blau.Aufgelegter und Ritzdekor: Wappen, eingerahmt von aufsteigenden Blumenranken. H.22 cm, Westerwald,17.Jahrhundert
+5. 22.
+6. HENKELKR U G,mit Zinnfassung,kugelig mit abgesetztem Hals. Seltene Form. Grau und Blau. Aufgelegte und eingepreBte geometrische Ornamente. Abb. Tafel 12.H. 19% cm.
+
+Westerwald,um 1700
+
+23. HENKELFLASCHE mit eingeschnurtem Hals. Grau mit Blau. Eingeritzter Dekor von Tieren und Ranken.Abb. Tafel 12.H.22 cm, Westerwald,um 1700
+25. WALZENKR UG,mit Zinndeckel. Grau mit Blau. Tiere und Blattornamente in symmetrischer Anordnung, teils aufgelegt, teils eingeritzt.H.25 cm. Westerwald,Anfang 18.Jahrhundert
+24. HE NKEL KR UG,mit Zinndeckel, kugelig. Grau mit Blau und Mangan. Blatt- und Rankenornamente, H.23cm, Westerwald,um 1700
+26. WAL ZE N K R U G,mit Zinndeckel. Grau mit Blau.Ritz- und aufgelegter Dekor von vier eingerahmten Feldern mit Rosetten.H.25 cm. Westerwald,Anfang 18. Jahrhundert
+27. DREI W ALZENKRUGE,mit Zinndeckel. Grau mit Blau,bezw.mit Manganviolett. Aufgelegter Dekor von horizontalen Friesen.a) Engelskopfe zwischen Ranken, b) Medaillons mit Heiligen und Wappen, c) Sternmuster.H.15,20,20% cm Westerwald,18.Jahrhundert
+28. SCHRAU BFLA S C HE,mit ZinnverschluB. Grau mit Blau und Mangan.Aufgelegter und Ritzdekor. Die Leibung durch hochreliefierte Schnire in sechs Felder geteilt, die abwechselnd mit Wappen und Blumenranken verziert sind. Ein Wappen datiert 1728 und Schrift: Chursachsen.H. 35 cm. Abb. Tatel 12. Westerwald,18. Jahrhundert
+29. DREI HENKELKRUGE. a) mit Zinndeckel. Auf der Leibung reliefierte Lowen in Medaillon. b) Grau mit Blau. Geometrische Ornamente und Langsrillen. c) Mit Zinndeckel, Ritzdekor. Vogel und Sterne in Kartuschen,H.24,20,221% cm, Westerwald,18.Jahrhundert
+30. DREI W ALZENKRUGE in Grau mit Blau und Mangan. Horizontale Buckel- und Rankenfriese. a)und b) mit Zinndeckel.H.19, 23,21 cm Westerwald, 18.Jahrhundert
+9. 31.
+10. ZWEI W ALZENKRU GE,mit Zinndeckel.Grau mit Blau. Ritzdekor. Hirsch zwischen Blatt- und Rankenmuster.H.25,23 cm Westerwald,18. Jahrhundert
+11. 32.
+12. ZWEI HENKELKRUGE,bauchige Form mit kurzem engen Hals. Graubraun mit Blau. Ritzdekor. a) auf der Leibung stilisierte Blatter; b) mit Sternfries, darunter Fries von Sternen in Keisen H.32,26cm， Westerwald,18.Jahrhundert
+33. ZWEI HENKELKRUGE,birnformig. Grau mit Blau. Schachbrettmuster, geritzt. H.31,3012cm, Westerwald, 18.Jahrhundert
+34. GROSSER HENKELRUG, mit Zinndeckel und -FuB. Grau mit Blau. Geritztes Ornament mit Rosetten,Blattern und Bluten.In der Mitte Greif in Medaillon. H.41cm,
+
+Westerwald,18.Jahrhundert
+
+35. HENKEL KR UG,bauchig, mit SchraubverschluB. Grau mit verteiltem Blau.Ranken- und geometrische Ornamentfriese.H.37 cm, Westerwald,18. Jahrhundert
+- 36.HENKELKRUG, langsovale Form, mit kurzem,engem Hals, Grau mit Blau und ManganRitzdekor: Hirsch in Medaillon.Blattornamente,H. 36 cm. Westerwald,18.Jahrhundert
+- 37.GROSSER HENKELKR U G, birnformig, mit engem Hals. Grau mit Blau. Ritzdekor:Auf der Schulter Rosetten-Fries. Auf der Leibung Kreise und stilisierte Blatter. H. 46 cm.
+38. GROSSER HENKELKRUG mit Zinndeckel. Ritzdekor: Auf der Leibung stilisierter Hirsch in Blau auf grauem Grund.H. 42,5 cm, Westerwald,18.Jahrhundert
+
+Westerwald,18. Jahrhundert
+
+39. HO HER HENKELKR UG,langsovale Form mit kurzem engen Hals. Grau mit Blau: Eingeritzter stilisierter Hirsch mit Blattornamenten.H. 52 cm, Westerwald,18.Jahrhundert
+40. HE N KE LK R U G, bauchige Form, mit engem Hals. Grau mit Blau. Ritzdekor: Rankenfries zwischen zwei Rosettenfriesen.H.375 cm. Westerwald,18.Jahrhundert
+41. HE NKELKRUG, bauchig. Grau mit blauer Glasur. Ritzdekor: Geometrische Ornamentfriese und Hirsche in Medaillons. H. 42 cm. Westerwald,18.Jahrhundert
+4. 42.GROSSER HENKELKRUG mit Zinndeckel und -FuB. Gedrungene Birnform. Grau mit Blau. Ritzdekor: stilisierter Greif zwischen Rankenfriesen und Blattern. H.39 cm.
+44. ZW EI FLAS CHEN mit Henkeln. Grau mit verlaufenem Blau. a) kugelig, mit Ritzdekor; b) birnformig,bemalt.H.35,33 cm, Westerwald, 18.Jahrhundert
+6. Westerwald,18. Jahrhundert 43. ZW EI GRO SSE HENKELKRUGE, bauchige Birnform. Grau mit Blau. Ritzdekor: Vogel Greif. H.44,37,5cm Westerwald,18.Jahrhundert
+45. ZWEI HENKELKRUGE mit Zinndeckel.a) blau glasiert; b) mit Maskaron und Wappenfries. H.231%,221%cm Westerwald,18. Jahrhundert
+46. KO N V OL UT:a) Flasche mit Ritzdekor; b) Topf, sechsseitig abgeflachte Kugelform mit Ritzdekor: c) kleiner Trichterkrug; d) Henkelkanne, manganviolett mit aufgelegtem Wappen; e) kleiner Henkel krug mit tanzenden Bauern in Arkadenstellung: f) vierseitige, kleine Flasche.
+47. ZWEI W ALZEN KRU GE mit Zinndeckel. Grau mit Blau.a) Aufgelegter und Ritzdekor von Ranken in gerahmten Feldern; b) Ritzdekor.H.23, 24 cm. Westerwald,Ende 18.Jahrhundert
+
+Westerwald,18. Jahrhundert
+
+48. DREI HENKELKRUGE. Grau mit verteiltem Blau. Vogel, Tiere und Blattornamente, H.251%,27,21cm. Westerwald,Ende 18.Jahrhundert
+50. DREI HENKELKRUGE mit Zinndeckel. a) blaue Glasur; b) Grau mit Blau und Mangan, bez. 1786; c) Grau mit Blau, Auf der Leibung Blumenornament. Auf dem Deckel eingeritzt 1854. H.26,25,28cm， Westerwald,18.u.19.Jahrhundert
+49. DREI HE NK EL KRU GE.a) mit Zinndeckel. Grau mit Blau und Mangan. b) Grau mit Blau. Ritzdekor. c) Bauchige Birnform mit Blaumalerei.H.24,30,36 cm.Westerwald,Ende 18.Jahrhundert
+51. DREI WALZENKRUGE,mit Zinndeckel. Grau mit Blau.Ritzdekor. H. 17%,24%,20 cm Westerwald,um 1800
+52. DREI W AL ZENKRUGE, Grau mit Blau, Ritzdekor: Rankenmuster und Flechtwerk. H.18,19,25cm， Westerwald,um 1800
+53. Drei W ALZENKRUGE,mit Zinndeckel. Grau mit Blau. Rankenmuster. H.21,23,23cm Westerwald,um 1800
+7. 54.ZWEI GR O S SE WALZENKRUGE,mit Zinndeckel. In Grau mit Blau und Mangan. Aufgelegte Friese.H.25,29 cm. Westerwald um 1800
+55. ZW EI S C HREIBZEUGE mit TintenfaB und Streusandbuchse.a) braun glasiert； b) grun glasiert mit Hausern in Landschaft. Westerwald.
+## SERPENTINSTEIN
+
+- 56.HO HE BU CH SE aus Serpentinstein,mit ZinnschraubverschluB. Die Leibung senkrecht gerillt. H.22cm. Sachsen,17.Jahrhundert
+- 57.HENKELKANNE mit Deckel,aus Serpentinstein. Am FuB und Mundrand Fassung aus vergoldeter Bronze. H.17cm. Sachsen,17.Jahrhundert
+58. H.19cm.
+- S CHLANK ER KRUG aus Serpentinstein,mit ZinnfuB,-Deckel und-Henkel.Auf dem Deckel Marke. Sachsen,17.Jahrhundert
+- 59.Deckelvase aus Serpentinstein.Auf hohem,reich profiliertem FuB der facettartig geschliffene,profilierte Korper. H.26cm. Sachsen,um 1700
+
+## ZINN
+
+- 60.ZINNSCHRAUBFLASCHE, sechsseitig,mit Tragbigel. Auf dem Deckel Marke und Schrift: .oessler.H.24 cm. Um1700
+- 61.ZINNS CHRAU BFLAS CHE mit Tragbugel.Auf dem zylindrischen Korper Querrillen. H.27cm. Um 1700
+- 62.ZINN-HENKELKANNE,achtseitig mit SchraubverschluB und langem,schraggestellten, sechskantigen AusguBrohr, dessen Verbindung mit der Kanne den Arm eines Landsknechts darstellt.Auf dem Henkel Marke mit Jahreszahl 1760.H.26 cm. Deutschland oder Schweiz,18.Jahrhundert
+- 63.ZINN-WALZENKR UG. Auf der Leibung gefecheltes Ornament. Auf dem Deckel Munze. H.26%cm.
+
+## FAYENCEUNDPORZELLAN
+
+- 64.ZWEI WALZENKRUGE,Fayence,mit Zinnfassung. Bemalt in den vier Scharffeuerfarben.a)in Felder geteilt, mit Blumen und Palmetten; b) auf mangangetupftem Grund Kartusche mit Hirsch. H.27,5,24,5cm. Thuringen,18.Jahrhundert
+- 65.DREI FAYENCE-HENKELKANNEN mit buntem Blumendekor.H.21,23,21 cm.
+- 66.PORZELLANFIGUR:HEILIGER ANDREASaufprofiliertem Sockel.Der linkeArm umfaBt den Baumstumpf.Wallendes Lendentuch.H.48 cm. Meissen,17401750
+- Hollitsch,Ende 18.Jahrhundert
+- 67.PORZELLANFIGUR:CHINESE mit Instrument.Das rechte Bein im Tanzschritt vorgestellt,
+- der Kopf nach links gedreht.Ueber der grauen Hose weibes Gewand mit Goldmuster. Orangefarbiger Mantel.Bunter Chinesenhut.H.40 cm. Berlin,2.Halfte 18.Jahrhundert
+- 68.PORZELLANFIGUR:TURKIN MIT FALKEN. Das linke Bein vorgestellt,der Kopf nach rechts gedreht. Langes weiBes Gewand mit Goldstreifen und buntem Blumchenmuster. Lilafarbiges Uebergewand.Auf dem Kopf Turban. H.39cm. Berlin,18.Jahrhundert
+
+## ROMISCHER HELM
+
+- 69 LE GIONARHELM,dieKopfhaube nach hinten flacher werdend,der Nackenschirm aus einem Stick mit der Haube.Die Verstarkungsbugel iber den Ohren besonders angenietet.Die Backenklappen mit den Scharnieren vollkommen erhalten. Spuren mehrerer Hiebe,an Vorder-und Hinterkopf verschiedene Risse. Beschrieben im Katalog der West- und suddeutschen Altertumsammlungen, herausgeg. von der romisch-germanischen Kommission des archaologischen Instituts.VergleicheDemmin S.131,30.Forrer T88,7.B.65
+- Um 1800
+- 89.
+
+## PLASTIK
+
+87. MARIA MIT DEM KINDVONDESIDERIO DA SETTIGNANO. Maria, sitzend,halt das Kind auf dem SchoB.Dahinter Girlanden. Stuckrelief,bemalt und vergoldet.62:42 cm.Gekittet.[Ausstellung Mainz 1925.Katalog Nr.66] Abb.Tafel6. Italien,Mitte 15.Jahrhundert
+88. HEILIGER GEORG, in gotischer Rustung,mit gespreizten Beinen auf dem getoteten, zugleich als Sockel dienenden Drachen stehend. Lindenholz gefaBt.Fast vollrund.H.140 cm. [Ausstellung Mainz,Katalog Nr.9]
+
+Tirol,um1400
+
+Abb.Tafel3.
+
+- MARIA MIT DEM KIND, Maria, sitzend, im Gestuhl,halt mit beiden Handen das auf ihrem SchoB sitzende Kind. Lindenholz, gefaBt und vergoldet.H.95 cm. [Ausstellung Mainz,Katalog Nr.23.] Rheinisch,2.Halfte 15.Jahrhundert
+
+90.SITZENDE MARIA MITDEMKIND. Maria im Gestihl,auf dem rechten Knie das nackte Kind mit beiden Handen haltend.Das Kind mit der Kugel in der Linken.Maria mit herabfallenden Haaren und Kopftuch,in faltenreichem Gewand. Aus Sammlung Hirth stammend. Siehe Auktionskatalog Hirth 1916,Nr. 410, ganzseitig abgebildet Tafel 52. Lindenholz,gefaBt und vergoldet.Rickseite gehohlt.Angeblich aus Kiedrich.H.105 cm. [Ausstellung Mainz 1925,Katalog Nr.27] Abb.Tafel5. Frankisch,gegen 1500
+
+91.STEHENDE MARIA MIT DEM KIND. Maria,auf der Mondsichel,in faltenreichem Gewand,mit Kopftuch ber dem gelosten Haar,halt das nackte Knablein mit beiden Handen. Lindenholz,geschnitzt,rickseitig ausgehohlt.H.1,55 cm.[Ausstellung Mainz 1925,Katalog Nr.42,abgebildet auf Tafel 6] ElsaB,letztes Viertel des XV.Jahrhunderts Abb.Tafel4.
+
+- 92.
+
+GROSSERFLUGELALTAR, bestehend aus Mittelfeld und zwei Fluigeln.Im Mittelfeld Pieta auf Thron zwischen dem heiligen Nikolaus und der hl.Katharina.Dariber zwei Engel unter dem Kreuz.Auf dem linken Flugel die Verkindigung, auf dem rechten die Geburt Christi. Lindenholz gefaBt und vergoldet.H.133 cm.Br.118% cm. Br.eines Fligels 58 cm. [Ausstellung Mainz 1925,Katalog Nr.71,abgebildet auf Tafel 11] Abb.Tafel2. Thuringen,Ende 15.Jahrhundert
+93. ALTAR DER HL. ANNA. VONLUDWIG JUPPE AUS MARBURG (gest.1537).
+
+Die Predella mit hl. Anna selbdritt und den vier Heiligen: St. Andreas, St.Johannes Bapt. und
+
+- Sechsfeldriger Aufsatz mit Scenen aus der Geschichte der hl. Anna.. H.167,Br.177.
+
+zwei hl. Frauen. H.69 cm,Br.116 cm.
+
+Der Altar stammt aus dem 1797 aufgehobenen Pramonstratenserinnenkloster Altenberg an der Lahn,wo er noch 1907 auf seinem urspringlichen Platz auf einem steinernen Altartisch neben der Sakristeitur an der Sudwand der Kirche stand. Dort sah ihn auch Franz Kugler. (Kleine Schriften I1, 181.) [Ferner Lehfeldt: Die Bau-und Kunstdenkmaler im Reg.-Bez. Coblenz 1886, S. 687.] (Die Angaben von Franz Theodor Klingelschmitt.)
+
+Darmstadt 1927,Nr.163]
+
+- 94.
+
+Lindenholz,gefaBt.[Ausstellung Mainz 1925,Katalog Nr.70, abgebildet Tafel 10.Ausstellung
+
+Abb.Tafel 1.
+
+Mittelrheinisch,um 1500
+
+- STEHENDE MARIA. In betender Haltung. Mit Kopftuch und in faltenreichem Gewand. Lindenholz, geschnitzt und gefaBt.Vollrund.H.165 cm.[Ausstellung Mainz 1925,Katalog Nr.84] Abb. Tafel 4. Mitteldeutsch,um 1500
+- 95,
+- HL.ANNASELBDRITT. Mutter Anna, das Kind Maria reichend.Beide sitzend. Lindenholz, vergoldet und gefaBt.Ruckseitig gehohlt. Abb.Tafel 5.
+
+H.80cm
+
+Suddeutsch,Bodenseegegend,um 1500
+
+96. STEHENDER HEILIGER, mit Buch in der Rechten. Faltenreiches Gewand. Holz, gefaBt.Ruickseitig gehohlt. H.108 cm. [Ausstellung Mainz 1925, Katalog Nr.98, Abgebildet Tafel 15] Rheinisch,um 1500
+2. 97.
+3. STEHENDER HEILIGER, mit Buch in der Linken, barhauptig, in faltenreichem Gewand. Holz, gefaBt.Ruckseitig gehohlt.H.108 cm. [Ausstellung Mainz 1925, Katalog Nr. 85]
+98. HEILIGER WENDELINUS, stehend, in faltigem Gewand. Angeblich aus Kiedrich stammend. Gleichhandig mit dem Hl. Johannes Bapt. von der Insel Fahr bei Koblenz, jetzt im Darmstadter Landesmuseum (Angabe des Darmstadter Katalogs). Dem Backoffen zugeschrieben Lindenholz, mit Spuren von Kreidegrund. H. 107 cm, [Ausstellung Mainz 1925, Katalog Nr. 86, abgebildet Tafel 15.—Ausstellung Darmstadt 1927,Katalog Nr.259.] Abb.Titelseite. Mittelrheinisch,um 1510
+
+Rheinisch, um 1500
+
+99. KREUZTRAGUNG. Vielfigurige Gruppe. NuBbaumholz, gefaBt. H.50 cm. [Ausstellung Mainz 1925, Katalog Nr. 82, abgebildet Tafel 13] Oberrheinisch,Anfang 16. Jahrhundert
+100. STEHENDER BISCHOF, bartig, mit Mitra. Holz, gefaBt. Vollrund. H.95cm, [Ausstellung Mainz 1925] Suddeutsch,Anfang 16.Jahrhundert
+101. HEILIGER FLORIAN, in voller Maximiliansristung. Stehend, die Linke,hoch erhoben,halt den (erganzten) Stab, die Rechte hielt das (fehlende) GefaB. NuBbaum.Vollrund.H.165 cm [Ausstellung Mainz 1925,Katalog Nr. 98] Abb.Tafel 3. Schweiz oder Suddeutsch,I.Drittel 16.Jahrhundert
+2. 102.MARSYAS. Auf felsigem Boden steht Marsyas, mit hochgereckten Armen an einen Baum gebunden Elfenbein. H. 70 cm.[Ausstellung Mainz,Katalog Nr. 188, abgebildet Tafel 55]
+
+Italienisch,17.Jahrhundert
+
+103. ZWEIBUSTEN VON WEIBLICHEN HEILIGEN mit herabfallenden Haaren. Die eine mit Buch, die andere mit Kirche. (Aus Sammlung Habich.) Holz, gefaBt.Vollrund.H.35, 34 cm. Deutsch,16.Jahrhundert
+104. MARIA MITDEM KINDE, auf der Weltkugel stehend. Lindenholz, gefaBt.Vollrund. H.45cm, Deutsch,16.Jahrhundert
+3. 105.GROSSE PIETA. Maria,nach rechts gewandt,in faltenreichem Gewand,halt mit dem linken Arm den iber ihrem SchoB liegenden Christus umfaBt. Lindenholz, geschnitzt, ruickseitig ausgeholt.H. 124 cm. [Ausstellung Mainz 1925, Katalog Nr.106, abgebildet Tafel14] Abb.Tafel 4.
+
+Nurnberg,16.Jahrhundert
+
+106. HEILIGER CHRISTOPHORUS, stehend,in faltenreichem Gewand. Das Kind auf der rechten Schulter,in der Linken den Wanderstab. Lindenholz, gefaBt und vergoldet. Ruckseitig gehohlt.H. 115 cm, [Ausstellung Mainz 1925. Katalog Nr.182) Suddeutsch,um 1600.
+2. 107.GOTTVATER, auf Wolken thronend,mit der Weltkugel in der Linken. Holz, gefaBt.Vollrund. H. 83 cm Deutsch,um 1600
+108. GROSSER BAROCKRAHMEN, reich geschnitzt, vergoldet und bemalt. Rokaillen und Akanthusranken unten und an den Seiten,
+
+oben Darstellung der heiligen Dreifaltigkeit mit Kreuz und Weltkugel. [Bildnis einer Madonna.] H.145 cm,Br.85cm, Deutsch,18. Jahrhundert
+
+- 108a.STANDUHR von hoher, geschweifter,reich gegliederter Form. Zifferblatt mit Stunden- und Sekundenzeiger, springendem Datum und Stellzeiger fir das Spielwerk. Helles gemasertes NuBbaumholz mit Einlagen. Altes Uhrwerk und Saitenspielwerk. H.2,65,B.55cm.
+
+Rheinisch,um 1700
+## GEMALDE
+
+## UNBEKANNTER MEISTER ANFANG 15.JAHRHUNDERT
+
+- 109.HAU S ALT A RCHEN, dreiflugelig.Im Mittelfeld Maria mit Kind,rechts von ihr der Hl.Dominicus,
+- links der Hl. Antonius. Auf dem linken Flugel Christus am Kreuz, zu seinen FuBen Franziskus. Auf dem rechten Fluigel der Hl. Michael auf dem Drachen und der Tod mit Spruchband. Gepunzter Goldgrund.H.48,5 cm, Br.offen 51 cm.[Ausstellung Mainz 1925, Katalog Nr. 126]. Ikonographisch interessant wegen der Zusammenstellung von Tod und dem Hl. Michael. Abb.Tafel 6.
+
+## MEISTER VOM SCHLOSS LICHTENSTEIN
+
+Osterreich um 1440.
+
+- gelehrten. Tafelbild, auf (teilweise erganztem) Goldgrund gemalt. 97:4712cm, Abb.Tafel 6.
+111. HEILIGE FAMILIE AUF DER FLUCHT. Gegenstuick zu vorigem. Maria mit Kind auf abgebildet auf Tafel 18].
+- ziehungen zur Wiener Schule.
+- dem Esel, der von Joseph gefuhrt wird. Im Hintergrund Felsenhugel mit Burg. Tafelbild, auf (teilweise erganztem) Goldgrund gemalt. 97:471%2 cm.[Ausstellung Mainz 1925,Katalog Nr.132 und 133, Abb.Tafel 6. Mitteilung von Geheimr.Max. I.Friedlander, Berlin: Die beiden Tafeln gehoren vermutlich zu einem von verschiedenen Handen ausgefuhrten Altar, der nach Buchner (Minchner Jahrbuch 1923, S. 170) und Baldan (Katalog der Ausstellung Gotik in Oesterreich, Wien 1926 Nr. 38) noch folgende Bilder umfaBte: Heimsuchung und Beschneidung (Vergl. Gemaldekatalog des Kaiser Friedrich Museums, Berlin, Germanische Lander, Nachtrag unter Nr. 1683 und 1683a). Verkuindigung an Joachim,Wien, Gemalde-Galerie,und Begegnung an der Goldnen Pforte, Petersburg, Privat (Abb. Les Tresors d'art en Russie 1908), Teile eines Marienlebenszyclus.Oesterreich um 1440 entstanden, mit stilistischen Be-
+
+## DEUTSCHER MEISTER UM 1500
+
+113. CHRIS TUS AM OLBERG.Im Vordergrund links die Gefangennahme, Im Hintergrund Christus vor Kaiphas im Tempel. (Angeblich aus Kiedrich.) Tafelbild. 85:36 cm. R.
+
+## WOLF TRAUT (Kreis)
+
+Nurnberg 1478-1526
+
+114. HEILIGER SEBASTIAN mit rotem Mantel und weibem Lendentuch. Dariber vergoldetes Rankenwerk.Tafelbild. 105:51 cm.Schw.R.
+2. Geschichte des Bildes. Abb.Tafel 5.
+3. Eine spatere Hinzufuigung des Tucherwappens und der Jahreszahl 1654 gibt einen Hinweis auf die
+
+## PIETER COCK VAN ALOST
+
+1502-1550
+
+115. DAS HEILIGE ABENDMAHL,in Architektur, mit Durchblick auf Landschaft,Datiert 1538. Holz, 65:77cm. G,R. [Ausstellung Mainz 1925, Katalog Nr.157].
+inicus,
+
+Gold-
+
+Auf phisch
+
+afel 6.
+
+chrift- ufel6.
+
+dauf d133,
+
+(teil- afel6.
+
+）und mvon
+
+r um-
+
+,Ge-
+
+Berlin, arten
+
+n Be- ristus
+
+detes f die
+
+fel5.
+
+1538.
+
+## OBERITALIENISCH,1.HALFTE 16.JAHRHUNDERT
+
+116. BEMALTER RA HMEN: Oben Gottvater,in den Ecken die Evangelisten, an den Seiten Engel
+2. mit Folterwerkzeugen und SchweiBtuch. Goldgrund. (Das Bild eine Kreuzigungsgruppe.) Eichenholz, 85:74 cm.
+
+## ITALIENISCHER MEISTER UM 1600
+
+117. DIE HEILIGE FAMILIE. Maria, in Halbfigur sitzend,mit dem Kind auf dem SchoB. Links hinter ihr der Heilige Joseph. Leinwand. 69:54 cm. Schw. R. [Ausstellung Mainz 1925, Katalog Nr.265].
+
+## GIOVANNI BATTISTA PIAZETTA
+
+Pietrarossa 1682-1754 Venedig
+
+118. BILDNIS EINES JUNGEN MANNES MIT ROSE. Brustbild nach links. Leinwand, 69:54 cm.S Schw.R. [Ausstellung Mainz 1925,Nr.266].
+
+## SCHULE RUBENS
+
+17.Jahrhundert
+
+119. HEILIGE MA GD ALENA, den Blick nach oben gerichtet. Brustbild,
+
+## JANUARIUS ZICK
+
+Munchen 17321797 Ehrenbreitstein
+
+120. VENUS IN DER SCHMIEDE DES VULKAN.Rechts im Vordergrund Vulkan, sitzend.
+2. Venus schwebt aus den Wolken herab.Leinwand. 45:32cm. Schw.R.
+
+## SUDDEUTSCH,18.JAHRHUNDERT
+
+- 121.OPFERUNG ISAAKS.Isaak,die Augen verbunden,auf dem OpfersteinAbraham,mit erhobenem
+- Dolch, wird von einem Engel am StoB verhindert, Felsenlandschaft, Leinwand.93:65 cm.Sch.R.
+- Kupfer, 45:51 cm.Schw.R.
+## SILBER
+
+122. KLEINER DECKEL KRUG mit Teilvergoldung. Bandkartuschen mit gravierten Blumen, Am FuB- und Deckelrand ornamentierter Fries. Geschweifter Henkel, Daumenruhe doppelzinkig. Beschau: Augsburg.Meister: Jacob Miller d.A.(1548-1618).[R3 403]. H.13 cm. Ausgsburg, 16.Jahrhundert
+2. 123.JA GD-DE CKE L BE C HER,auf drei KugelfuBen,mit Teilvergoldung. Auf der Leibung Fries von aufgesetzten Figuren: Jagdscene,Die Landschaft durch aufgesetzte Baume angedeutet.Auf dem Boden und auf dem Deckel Blatt- und Blumenfries, dazwischen Tiere in aufgesetzter Arbeit. Als Bekronung Kugel. Beschau: Augsburg. Meister: Hans Peters [R3 526].H. 26 cm.Abb. Tafel 10. Augsburg, Mitte 17. Jahrhundert
+3. 124.DECKEL BE C HER auf drei KugelfuBen mit Teilvergoldung. Auf der Wandung rundumlaufend gravierter Dekor von Vogeln zwischen Blumenguirlanden. Knopf als Deckelknauf. Beschau: Augsburg. Meister:Christof Banzer [R3 539].H.19 cm, Augsburg,Mitte 17.Jahrhundert
+125. DE CKEL BE C HER auf drei KugelfuBen, mit Teilvergoldung. Auf der Leibung rund umlaufend Fries von gegeneinander versetzten,hochgetriebenen, stilisierten Granatapfeln. Auf dem Deckel analoger Dekor. Beschau: Augsburg. Meister: Max Schaller [R3 614].H. 2012 cm,
+
+Augsburg,2.Halfte 17.Jahrhundert
+
+126. GROSSE DECKELKA NNE,teilvergoldet. Auf der zylindrischen Leibung Figurenfries in hoher Treibarbeit: Darstellung aus der romischen Geschichte.Auf dem FuBwulst Blattfries.Auf dem Deckel Fruchtgehange. Knopf als Bekronung. Henkel geschweift. Daumenruhe zweizinkig. Beschau: Augsburg. Meister: Adolf Gaap [R3 643].H.23 cm.Abb. Tafel 11.
+
+Augsburg,2.Halfte 17. Jahrhundert
+
+- 127.DE C K EL H U M P E N auf drei KugelfuBen, mit Teilvergoldung. Auf der Leibung getriebener Figurenfries: Rebekka am Brunnen, Jakob den Wasserkrug reichend. Hinter ihm Knechte mit Kamelen.Auf dem Deckel biblische Scene in getriebener Arbeit. Der Deckelrand weit iberragend. Konturierter, geschweifter Henkel, Daumenruhe zweizinkig. Beschau: Augsburg. Meistermarke: P L D.[Rs 671]. H.22 cm.Abb. Tafel 11. Augsburg, Ende 17.Jahrhundert
+128. DE CKEL H U M PEN mit Teilvergoldung, auf drei KugelfuBen. Auf der Leibung drei Medaillons mit Figuren, Trink und Spielsprichen,Dazwischen getriebene Gehange von Fruchten. Auf dem Deckelrand Kranz aus Fruichten in Treibarbeit. Als Bekronung Kugel. Beschau: Augsburg. Meisterzeichen: PLD [R3671].H.18 cm. Augsburg,Ende 17.Jahrhundert
+129. DECKEL HU M PEN mit Teilvergoldung. FuBwulst mit Blitenkranz. Auf der Leibung Figurenfries mit Darstellung aus der Romischen Geschichte in hoher Treibarbeit. Auf dem Deckel Blumenfries. Kugel als Deckelknauf. Beschau: Augsburg. Meistermarke: S M [R3 714].H. 181e cm
+
+Augsburg,2.Halfte 17. Jahrhundert
+
+130. GROSSER DECKELHUM PEN. Auf der Leibung hochgetriebener Figurenfries mit Darstellung aus der Romischen Geschichte. Daumenruhe zweiarmig. Auf Deckel und FuB Rankenfries. Als Bekronung Knopf. Teilvergoldung. Beschau: Augsburg. Meister: Gottlieb Bauer oder Gabriel Bessmann [R3729].H.2312 cm.Abb.Tafel 11. Augsburg,2.Halfte 17.Jahrhundert
+131. DECKELBECHER auf drei KugelfuBen. Vergoldet. Auf der Leibung drei Medaillons mit Landschaften, dazwischen Fruchte und Vogel in gravierter Arbeit. Beschau: Augsburg. Meister: Johann Christof Treffler[R3 704].H.17 cm, Augsburg,um 1700
+- 132.S C HRA U BFLAS C HE, sechskantig, mit Tragbigel. Teilvergoldung.Auf der Leibung abwechselnde Felder mit Blattwerk und Architektur in gravierter Arbeit. Beschau: Augsburg. Meister: Cornelius Poppe [R3 731]. H. 16%cm. Augsburg,um 1700
+133. RUNDE AN BIE TPLA TTE. Im Spiegel graviertes Blumenbukett.Auf dem Rand in reicher Treibarbeit je drei Felder mit Fruchten, getrennt durch Muscheln. Beschau: Augsburg. Meister: Waremberger [R3 767].Durchm,28 cm. Augsburg, um 1700
+134. DECKELBE CHE R auf drei KugelfuBen. Teilvergoldet. Auf der Leibung drei Medaillons mit Archi tektur. Dazwischen Fruchtgehange. Auf dem Deckel Kranz aus Fruchten, Beschau: Augsburg. Meistermarke.H, 15 cm. Augsburg,Anfang 18. Jahrhundert
+135. CAESAREN-DECKELBECHER auf drei KugelfuBen. Auf der Leibung drei Medaillons mit Imperatorenkopfen in Treibarbeit und Inschrift. Dazwischen Rustungen und Kriegsembleme. Auf dem Deckel Medaillons mit Kopfen und Kriegsembleme. Als Bekronung Kugel. Beschau: Berlin Meister:Beltz [R31188].H.21 cm. Berlin,2. Halfte 17.Jahrhundert
+- die ganze Flache deckend,in Treibarbeit. Als Bekronung Vogel. Als Daumenruhe Halbfigur.Auf dem Henkel Fruichte und Engelskopfe, FuBring profiliert. Beschau: Breslau. H, 18 cm. Abb. Tafel 10. Breslau,16.Jahrhundert
+138. DECKEL HU M PEN mit Teilvergoldung. Auf der Leibung Kartuschen mit getriebenen, Fruichte tragenden Putten. Dazwischen Rankenwerk, Frichte und Blumen. FuB- und Deckelwulst mit verschlungenem getriebenem Blatt und Bluitenkranz, Henkel geschweift. Daumenruhe zweizinkig. Beschau:Danzig. Meisterzeichen:HPL [R3 1558]. H. 201%2 cm.Abb.Tafel 10.
+137. DECKELHU M PEN mit gewulstetem FuB, darauf getriebenes Blattornament.Auf der Leibung drei Kartuschen mit spielenden Kindern, zwischen den Kartuschen Blumen und Blatter, Deckelwulst mit getriebenem Rankenwerk. Als Bekronung liegender Lowe, Geschweifter Henkel. Beschau: Danzig. Meisterzeichen: H PL [R3 1558]. H. 22 cm.Abb. Tafel 11. Danzig,Mitte 17.Jahrhundert
+
+Danzig,Mitte 17.Jahrhundert
+
+- zwischen hohe, schlanke, getriebene Blumenstauden und Blattwerk. (Auf dem Lippenrand gravierte Anerkennungswidmung in russischer Schrift.) Beschau: Danzig.Meister: Nathaniel Presding [Ra 1561]. H.201 cm,Abb. Tafel 10. Danzig, Mitte 17.Jahrhundert
+140. GROSSER DECKELHUMPEN mit Teilvergoldung. Auf dem gewulsteten FuB und auf dem Deckelrand getriebene Lorbeerfestons. Auf der Leibung Akanthusrankenfries mit tanzenden und posaunenblasenden Amoretten. Auf dem Deckel AbguB einer Medaille mit dem Portrat von Johann Sobieski und Schrift: IOAN. III D. G. REX POLONIARUM. Daumenruhe zweizinkig. Beschau: Danzig. Meister: Johann Gottfried Holl [R8 1570]. H. 21 cm.Abb. Tafel 11.
+- 141.KLE INER BEC HE R, teilvergoldet.Auf der Leibung getriebene Vogel in BandkartuschenBeschau: Danzig. Meister: Christian Pichgiel [R3 1574]. H.7 cm. Danzig,2. Halfte 17.Jahrhundert
+
+Danzig,2.Halfte 17.Jahrhundert
+
+142. DECKE LKANNE mit Teilvergoldung. Auf FuBwulst und Deckelrand Bandfries mit Rosetten. Als Bekronung Widder.Auf der Leibung rundumlaufende Darstellung der Taufe im Jordan in hoher Treibarbeit. Beschau:Danzig. Meister:Johand Rohde II [R3 1575].H.2012 cm. Danzig,um 1700.
+143. KLEINE KAFFEEKANNE auf drei FuBen mit Rokaillen auf der Schnauze. Auf dem Deckel Blume als Knopf. Beschau: Danzig. Meistermarke: H,I. Beschaumeisterzeichen:S (1757, 1769) [R31512].H,17cm, Danzig,18. Jahrhundert
+144. GROSSER DECKELHU M PEN. FuBwulst mit Fries aus Rokaillen zwischen Tierkopfen. Auf dem Deckel der gleiche Fries. Auf der Leibung drei aufgesetzte mythologische Figuren. Reich getriebener Henkel mit Rokaillen und zweizinkiger Daumenruhe,Kugel als DeckelknaufBeschau:Danzig,Jahreszeichen: S. Meisterzeichen:H.H.26 cm. Danzig,Mitte 18,Jahrhundert
+selnde
+
+1700
+
+nelius
+
+Treib-
+
+1700
+
+arem-
+
+Archi- indert
+
+eister- s mit
+
+Berlin,
+
+Auf ndert
+
+etten, el 10.
+
+dem indert
+
+drei anzig.
+
+stmit ndert
+
+ichte ver-
+
+Be- ndert
+
+Da-
+
+1561].
+
+vierte ndert
+
+dem hann
+
+pun chau:
+
+ndert chau:
+
+ndert
+
+Als
+
+1700.
+
+reib- eckel
+
+adert
+
+1769)
+
+dem hres-
+
+ener adert
+
+145. PAAR LEUCHTER,mit profiliertem FuB. Vase mit Palmettenverzierung als Schaft. Beschauzeichen:Anker.H. 2912 cm, Dusseldorf (7),18.Jahrhundert
+146. S C HR A U BF LA S C HE mit Tragbugel und Teilvergoldung. Die Leibung durch senkrechte Furchung in sechs Felder geteilt. Diese mit graviertem und ziseliertem Ornament. Beschau:Fraustadt. Meistermarke M R [R3 4981]. Fraustadt,17.Jahrhundert
+3. senkrechten,halbrunden Feldern mit getriebenen,naturalistischen Blumen.Hals und Deckel profiliert. Auf dem Deckel Blumen. Beschau:Hamburg. Meister: Christian Mund [R3 2391].H. 18 cm. Abb.Tafel 11. Hamburg, Mitte 17.Jahrhundert
+148. S CHLA NKER BEC HER, vergoldet,mit profiliertem FuB. Auf der Leibung getriebene Blumen. Gravierte Inschrift mit Jahreszahl 1668.Beschau:Hamburg.Meister:Gregorius Lambrecht [R3 2396]. H.12%cm, Hamburg,Mitte 17.Jahrhundert
+5. 149.D ECKE L H U M P E N mit Teilvergoldung. Reiche Treibarbeit:Auf der Leibung rundumlaufend Blumen und Blattwerk. Auf FuB-und Deckelwulst Akanthusranken. Als Bekronung geoffnete Blute. Beschau:Hamburg. Meisterzeichen:P. S.H.19 cm, Hamburg, Mitte 17.Jahrhundert
+150. GROSSER DECKELHU M PEN auf drei KugelfuBen mit Klauenappliken. Kantenhenkel mit zweizinkiger Daumenruhe. Aut der Leibung aufgesetzte Fruchtgehange.Auf dem Deckel aufgesetzter Fruchtekranz.Kugel als Deckelknopf. Humpen vergoldet. Beschau: Hamburg. Meisterzeichen W [vielleicht R3 2408].H.23,5 cm.Abb.Tafel 10. Hamburg,17.Jahrhundert
+7. 151.TRA U B EN P O K AL. Der runde FuB traubenformig gebuckelt.Als Stengel ein Baumstamm mit Holzfaller. Die Kuppe mit ibergreifendem Deckel eine Traube bildend. Als Bekronung Vase mit BlumenstrauB. An den Verbindungsstellen Blattbelag.Beschau:Kiel. H. 33 cm. Abb.Tafel 10.
+
+Kiel,17.Jahrhundert
+
+152. DECKEL H U M PEN,vergoldet. Die Flachen der achtkantigen Leibung stitzen sich nach FuB und Lippenrand zu gleichmaBig auf herzformige, ornamentierte Buckel. Auf den Flachen graviertes Ornament. FuBwulst und Deckel mit Buckel und Ornamenten in Treibarbeit. Als Daumenruhe Schild. Beschau: Konstanz. Meister:IL (?) H.19,5 cm.Abb.Tafel 10.Konstanz,Anfang 17.Jahrhundert
+153. DECKELBECHER auf drei KugelfuBen.Auf der Leibung Blattkartuschen mit Eule und Kranich zwischen Blumen in Treibarbeit. Gewellter Deckelrand. Beschau: Leipzig. Meister: D M. H. 1512 cm. Leipzig,17.Jahrhundert
+154. DECKELBECHER auf drei KugelfuBen. Auf der Leibung drei Medaillons mit getriebenen Turkenkopfen, dazwischen Fruchtgehange.Auf dem Deckel Medaillons mit Kopfen zwischen Fruchten. Beschau:Leipzig. Meisterzeichen:R [R3 3075]. H.161% cm, Leipzig,um 1700
+155. DECKELBECHER,schlanke, konische Form. Auf der Leibung in drei Medaillons, Kind, Hund und Huhn.Kartuschenwerk in knorpeliger Form. Treibarbeit. Auf dem Deckel graviertes Ornament. Beschau:Moskau 1747.Meisterzeichen:A K, Moskau,Mitte 18. Jahrhundert
+156. FISCHSCHUSSEL mit Deckel, innen vergoldet. Blume als Deckelknopf. Beschau: Moskau, Jahreszahl 1787. Meistermarke:I RC.L,36 cm, Moskau,um 1787
+157. AGLEY POKAL,auf hohem FuB. Der FuB tief eingeschnurt und siebenfach rund gebuckelt. Am Ansatz aufgerollte Verzierungen. Der Nodus in Form einer siebenfach gebuckelten Vase, mit drei freistehenden Agraffen.Die Kuppa in der Mitte tief eingeschnurt, oben und unten je sieben Buckel. Ebenso auf dem Deckel. Bekronung: ein Krieger mit Schild. Beschau: Nurnberg. Meister: Hanns Beuttmiller, 1588-1622[R3 4054].H.36%2 cm. Nurnberg, um 1600
+158. A NANASPOKAL mit Vergoldung.Der Schaft Baumstamm mit Vogel, die Bekronung Vase mit daraufsitzendem Doppeladler. Beschau: Nurnberg.Meisterzeichen:H.B [R3 4095]. H.2812 cm. Nurnberg, Ende 16.Jahrhundert
+159. GROSSER ANANAS-DECKELPOKAL,teilvergoldet.Als Schaft Figur einer Negerin,als Bekronung Vase mit BlumenstrauB, darauf Vogel. An den Verbindungsstellen Blattbelag. Beschau: Abb. Tafel 10. Nurnberg,um 1630
+160. DECKEL HU M PEN auf drei KugelfuBen mit getriebenen Klauen. Als Bekronung Frucht. Auf der Leibung naturalistische Blumen und Frichte.Am Deckelrand Blumen und Fruichtekranz. Beschau: Nurnberg. Meister:Johann Eisler 1665-1708[R3 4250].H.18 cm Nurnberg,17.Jahrhundert
+161. BECHER,vergoldet. Auf der Leibung getriebener Fries von Blatt- und Blumenranken. Beschau: Nurnberg. Meistermarke:H N [R3 4289]. H.9 cm. Nurnberg,um 1710
+162. KLEINE KAFFEEKANNE auf drei FuBen,mit Blatt als Deckelknopf. Beschau: St. Petersburg. 1767 [R3]. Meistermarke.H.14 cm, St.Petersburg,um 1767
+163. M IL C HK A NN C HEN, mit eingezogenem FuB und schlankem Henkel. Beschau: St. Petersburg 1789.
+7. Meistermarke: H,M.H. 16 cm, St.Petersburg, um 1789.
+8. Wappen. Beschau:Riga. Meisterzeichen:H E mit Baum.H.je 10 cm,
+9. Riga,18.Jahrhundert
+165. GROSSER DE CKEL HU M PEN, weite wuchtige Form.Als Daumenruhe und FuBe kugelformige Frucht. Ueber den FuBen reliefierte Blattapplike. Henkel mit Fruichten, der Deckelrand mit graviertem Blattkranz. Teilvergoldung. In der Deckelmitte Munze 1675 mit Portrat und Schrift: Carolus. Beschau: Stockholm,Meistermarke:1.E. Jahresbuchstaben: 1690. H. 19 cm.Abb. Tafel 11. Stockholm,2.Halfte 17. Jahrhundert
+11. 166.SCHRA U BFLAS C HE, sechsfach gebuchtet, mit Teilvergoldung.In den Feldern ziselierte Blumen in senkrechter Anordnung.H.1212 cm,
+167. ZW EI A NB IETKORB C HEN,oval,mit ornamental durchbrochener Wandung. Gravierter Dekor. Meistermarke:I.F.D.L.26 cm. 18.Jahrhundert
+168. KLEINE TEEBUCHSE mit Deckel, birnformig, mit eingezogenem FuB. Senkrecht gerillt. Beschauzeichen unleserlich. Meistermarke: S. M. H. 12 cm 18.Jahrhundert
+## ALTE GEMALDE
+
+## EVARISTO BASCHENIS
+
+Bergamo 1617—1677
+
+- Teppich bedeckt ist,liegen Instrumente, Notenhefte, Globus und Pfirsiche.Leinwand,35:45 cm.G.R. Aus Sammlung Gunther,Fasano
+170. STILLEBEN. Tisch mit rotgemustertem Teppich. Auf dem Tisch Schussel mit Maiskolben, Aus Sammlung Gunther
+- Leinwand.96:74 cm.G.R.
+
+## ABRAHAM CORNELISZ BEGEYN
+
+Leiden 1630-1697 Berlin
+
+- 171.W ID DER K6 PF E.Durchgefuhrte Studien auf braunem Grund. Leinwand. 25:33 cm. H.R
+
+## MICHEL ANGELO DI CAMPIDOGLIO
+
+gest.um 1760,Rom
+
+- 172.STILLEBEN mit Melonen und Feigen.
+- Leinwand. 50:63 cm.G,R.
+
+## VALERIO CASTELLO
+
+1625-1659
+
+173. CHRISTUS BEGEGNUNG MIT MAGDALENA. Christus, begleitet von seinen Jungern,
+2. begegnet Magdalena, die vor ihm in die Knie sinkt. Leinwand. 137:105 cm.
+
+Aus Sammlung Gunther
+
+## PHILIPPE DE CHAMPAIGNE (zugeschrieben).
+
+Brussel 1602—1674 Paris
+
+174. BILDNIS EINER NONNE, im Gebet vor einem Kruzifix. Leinwand. 69:67 cm. G.R.
+
+## ADAM ELSHEIMER (zugeschrieben)
+
+Frankfurt a.M.1578-1620Rom,
+
+- eine Fackel in der Linken, mit der Rechten fuhrt er den Esel. Im Hintergrund Baume.
+- Holz.31:41 cm.G.R. Aus Sammlung Gunther
+
+## FRANCESO FURINI
+
+Florenz 1600—1646 Mugello bei Florenz.
+
+176. BRUSTBILD EINER FRAU mit gelostem Haar. Rund. Leinwand. 42:41 cm. G.R. Aus Sammlung Gunther
+2. Aus Sammlung Gunther
+3. Abb.Tafel7.
+## Art des FRANCESCO GUARDI
+
+## Venedig,18.Jahrhundert
+
+177. VENEZIANIS CHE LANDSC HAFT. Mit Kirche und Landungssteg. Auf dem Kanal Gondeln. Leinwand.25:341%2 cm,G.R. Aus Sammlung Gunther
+
+## ITALIENISCHER MEISTER DES XVI. JAHRHUNDERTS
+
+178. HEILIGE FAMILIE MIT HEILIGEM FRANZISKUS. Auf dem SchoBe der Maria
+2. das Kind, das dem Heiligen Franziskus die rechte Hand stigmatisiert. Links davon der Hl. Joseph. Halbfigurenbild.Leinwand.78:100 cm.H.R. Aus Sammlung Gunther
+179. MAD ONNA MIT DEM KINDE. Die Madonna,in rotlichem Gewande,halt das Christuskind an der Brust. Leinwand. 81:65.cm,G.R. Aus Sammlung Gunther
+
+## ITALIENISCHER MEISTER DES XVII.JAHRHUNDERTS
+
+180. KAIN UND ABEL. Aus den Wolken, von Engeln getragen, erscheint Gott dem Kain, zu dessen
+2. FuBen der erschlagene Abel liegt. Leinwand. 77:92 cm,G.R,
+181. STILLEBEN mit Geflugel und Pilzen.Leinwand. 54:71 cm.G.R, Aus Sammlung Gunther
+182. HE ILIGE THERESE,vor dem ihr erscheinenden, von Engel getragenen Kruxifixus kniend. In den Hohen Engelskopfe. Leinwand. 65:50 cm. G.R.
+
+## ALESSANDRO MAGNASCO
+
+Genua 1681-1747
+
+183. LAND S CHAF T MIT BRUCKE. Im Vordergrund Eseltreiber,auf der Brucke zwei Pilger, links
+2. ein Turm.Leinwand, 51:66 cm.G.R,
+184. LANDS CHAFT MIT MUHLE. Zahlreiche Figuren am Wasser. Im Hintergrund Gebirge. Leinwand.68:85 cm.G.R, Aus Sammlung Gunther
+
+## ALESSANDRO MAGNASCO (zugeschrieben)
+
+- 185.MEERESBU CHT mit felsigem Gestade.Im Vordergrund Staffage. Leinwand. 71:46 cm,Alter Rahmen,
+- 186.LANDS CHA FT mit Wasser und Gebirge. Im Vordergrund Reiter und Figuren. Gegenstick. Leinwand. 71:46 cm.Alter Rahmen,
+
+## ANTON FRANZ MAULPERTSCH
+
+Langenargen a. Bodensee 1724-1796 Wien
+
+- Rechte erhoben,in der Linken ein Buch,Vor ihm ein Putto. In den Wolken Putten und Engel, Im Hintergrund Wasser und Gebirge.Leinwand. 53:30 cm.G.R. Aus Sammlung Guinther
+
+## ALBERT MEYERINGH
+
+Amsterdam 1645-1714.
+
+188. LANDSCHAFT MIT STAFFAGE,im Hintergrund Ruinen und Gebirge. Holz.23:30% cm
+## NIEDERLANDISCH,18.JAHRHUNDERT
+
+189. MUTTER MIT KNABEN, vor einem aufgeschlagenen Atlas am Tisch sitzend. Holz.29:24 cm.G.R,
+
+## NIEDERLANDISCHER MEISTER
+
+190. SEES TU CK. Auf ruhiger See eine Anzahl Segelschiffe. Am Himmel Wolken. Im Vordergrund die
+2. Kiste.Leinwand. 48:60 cm.Schw.R,
+
+## OBERITALIENISCHE SCHULE UM 1700
+
+- freien Platz der Heilige, die Hostie hochhaltend,umgeben von Zuschauern. Ihm gegeniber ein Maul
+- esel, vor der Hostie in die Knie fallend. In der Mitte kniet der Ketzer. Holz.33:113 cm.Rahmen angearbeitet.
+
+## GUIDO RENI
+
+Calvenzano 15751642 Bologna
+
+192. BRU STBILD eines Madchens, mit langem blondem Haar, in rotlichem Gewand. Leinwand.68:56 cm,G.R,
+
+## SALVATOR ROSA
+
+Renella 1615-1673 Rom
+
+193. ITALIENISCHE GEBIRGSLANDSCHAFT mit Ruinen,im Vordergrund Staffage.
+2. Leinwand. 80:127 cm.G.R,
+
+## BARTOLOMMEO SCHIDONE
+
+## Modena 1580-1615 Parma
+
+194. HEILIGE FAMIL IE. Maria, in rotem Gewand, halt vor sich das Kind, das den kleinen Johannes
+2. Leinwand. 71:61 cm.G.R.
+
+## GIOVAN ANTONIO DE'BAZZI gen.ILSODOMA
+
+## Vercelli 1477-1549 Siena
+
+195. MARIA MIT DEM KIND UND DEMKLEINEN JOHANNES.Maria, sitzend,in Halbfigur,halt mit der Rechten das auf ihrem SchoB stehende Kind, wahrend sie mit der Linken den kleinen Johannes umfaBt. Rechts im Hintergrund Ausblick auf eine Landschaft mit Bach, Dorf und Gebirge. Abb.Tafel 7. Leinwand.74:581% cm,G.R.
+
+## SPANISCHER MEISTER UM 1600
+
+- sitzende Hund die Pfote reicht.Leinwand. 78:98 cm.G.R,
+
+## SPANISCHER MEISTER,1.HALFTE DES XVII. JAHRHUNDERTS
+
+- HEILIGEN-PORTRAT IN MONCHSKUTTE. Leinwand. 33:26 cm. Alter schwarzer
+
+## FRANCESCO SQUARCIONE
+
+## Padua 1394-1474
+
+198. MADONNA MIT KIND UND DEM HEILIGEN JOHANNES. Die Madonna in violettem Gewand halt das nackte Kind im linken Arm,mit dem rechten umfaBt sie den Johannes. Aus Sammlung Gunther
+2. Dahinter Joseph. Leinwand. 75:63 cm.G.R.
+197. Rahmen,
+## BERNARDO STROZZI
+
+## Genua 1581—1644 Venedig
+
+199. DAVID UND SAMUEL. Konig David,mit visionarem Ausdruck, im Konigsmantel und mit
+2. Krone. Links von ihm erscheint Samuel. Leinwand. 1.70:1.20 cm.G.R. Aus Sammlung Gunther
+200. BILDNIS EINES BARTIGEN MANNES, den Kopf nach links gewandt.
+4. Leinwand.95:71 cm.G.R.
+
+## BARTOLOMMEO VIVARINI (?)
+
+Merano,15.Jahrhundert
+
+201. HEILIGER PETR US,stehend,in der Rechten den Schlussel, in der Linken das Buch.
+2. Holz, 50:16 cm. H. R. (Von besonderem Interesse fur die Arbeitsweise ist die deutlich sichtbare Quadrierung und Vorzeichnung.) Aus Sammlung Gunther Abb.Tafel 5.
+202. MANN UND KNA BE neben geschlachtetem Schwein. Der Knabe eine Katze haltend. Leinwand. 135:107 cm.Schwarzer Holzrahmen, Aus Sammlung Gunther
+203. BILDNIS DES ITALIENISCHEN KOMPONISTEN CLAUDIO MONTEVERDE (7). Der Kunstler dargestelt mit Halskrause, spitzem Federhut, in der Linken ein Notenheft. Leinwand. 82:66 cm.G.R.Abb. Tafel 8. Aus Sammlung Gunther
+
+## VLAMISCHER MALER DES 16.JAHRHUNDERTS
+
+204. VERS PO TTUNG CHRISTI. Christus sitzt vor einer Saule, daneben und dahinter Figuren. (Die Komposition weist auf einen Nachfolger Mabuses.) Kupfer. 26:19 cm. Gerahmt,
+
+## FRANCESCOZAGANELLI DA COTIGNOLA
+
+Parma um 1518
+
+- halt mit beiden Handen das auf ihrem SchoB sitzende nackte Kind. Links Johannes mit Kreuzstab und Spruchband. Holz. 53:42 cm. Alter geschnitzer Goldrahmen. Zuschreibung und Gutachten von Professor Gronau.) Abb.Tafel 7.
+
+## MINIATUREN
+
+206. FU NF MINIATUREN: a) Dame in weiBem Kleid. Sign. A. Gilbert. (Bronzerahmen.) b) Herr in dunkelblauem Uniformrock; c) Offizier in weiBer Uniform. Monogrammiert D.C.: d) desgl. monogrammiert R. J.;e) Dame in grunem Kleid. Aus Sammlung Guinther
+2. 206a DOSENDECKEL mit Watteauscene und ELFEN BEINDOSE mit Miniatur. Aus Sammlung Gunther
+207. DREI M INIA TU REN.a) Herr in gesticktem Uniformrock, signiert:Bagiotti; b) Dame mit blauem
+4. Mieder; c) Dame mit gelbem Kleid und Hermelinkragen, Aus Sammlung Gunther
+208. M INIA TU R,hinter Glas gemalt, sogenanntes Fixe: Brustbild eines Lutzowjagers. Aus Sammlung Gunther
+209. FU NF M INIA TUR EN:a) Brustbild einer jungen Frau; b) Frauenbildnis,auf Kupfer; c) desgleichen; d) Dame in weiBem Kleid;e) Herr mit gepudertem Haar. Aus Sammlung Gunther
+## MODERNE GEMALDE
+
+## HEINRICH BURKEL
+
+## Pirmasens 1802-1869 Munchen
+
+210. HE U ERNTE.In einer Sommerlandschaft. Bauerngefahrt mit Heu ladenden Bauern
+2. Leinwand. 1812:2612 cm,G.R,(NachlaBstempel und Gutachten.)
+3. 211.ZW EI ESEL.Olstudie auf Papier.23:30 cm. Gerahmt, Aus Sammlung Gunther, Fasano
+
+## ANTON BURGER
+
+Frankfurt 1824-1905 Cronberg
+
+212. IM BAUERN HA US. Auf dem oberen Absatz einer Treppe eine Frau am Waschzuber,
+2. Leinwand. 24%:19 cm,Schw.R.(Auf der Ruckseite NachlaBstempel.)
+
+## NARCISS DIAZ
+
+Bordeaux 1807-1876 Mentone
+
+- Lichtung.Auf dem Weg ein Madchen mit roter Mutze. Holz, 16:23 cm. G.R, Bezeichnet: Diaz.(GutAbb.Tafel 8.
+- achten von Professor Tschudi.)
+
+## JAKOB FURCHTEGOTT DIELMANN
+
+Frankfurt a.M.1809-1885 Frankfurt
+
+214. BA U ERNG EH O F T. Vor dem Haus eine Frau mit Kind und Katze. Ein anderes Kind fittert Huhner. Holz.261%2:19cm.R,
+
+## EDUARD VON GEBHARDT
+
+St.Johann (Estland) 18381924 Duisseldorf
+
+- Hand halt er einen Kneifer, Leinwand.49:36 cm, G,R. Bezeichnet: E,v. Gebhardt.Abb. Tafel 8.
+
+PAUL HOUET
+
+1804-1868
+
+216. M O N D S CHEINLA ND SCHAFT. Burgruine am Wasser. Im Hintergrund Bruicke und Gebaude.
+2. Leinwand. 50:59 cm.G,R.
+
+## CHARLES JACQUE
+
+Paris 1813-1894 daselbst
+
+217. S C H WEINE HE R DE, die aus der offenen Stalltur ins Freie drangt. Zwei Schweine sturzen sich
+2. auf einen Trog.Rechts Hahn und Huhn. Leinwand. 32:45,5 cm.G. R, Bezeichnet: Ch.Jaque. Abb.Tafel 8.
+
+## LOUIS EUGENE LAMBERT
+
+Paris 1825-1900 Paris
+
+218. KA TZE NS PIEL. Vor einem Vogelkafig, auf dessen offenem Turchen eine Elster sitzt,hockt eine
+2. Katze mit zwei Jungen, Ein kleines Katzchen ist in den Kafig gekrochen. Leinwand, 33:50 cm. G.R.
+## WILHELM LEIBL Koln 1844-1900 Wurzburg
+
+219. HA ND E. Die beiden Frauenhande fassen ein rotes Buch. Der Ringfinger der Linken tragt einen Gold-
+2. reif mit farbigem Stein.Entstanden um 1885-90.Ehem. Bes.von Wilhelm Truibner,NachlaB-Auktion Berlin 4.6.1918 Nr.206. Sammlung Zitzmann,Auktion Cassirer-Helbing,Berlin, Marz 1925, Nr. 85. Waldmann,Leibel,1914,Katalog Nr.179,Abb.Nr.154.Leinwand. 58:47 cm.G.R, Bez.:W.Leibl. Abb.Tafel 8.
+
+## JAKOB MAURER
+
+## Obereschbach 1826-1887 Cronberg
+
+220. WALDLAND SCHAFT im Herbst. Im Vordergrund flieBt ein breiter Bach. Links rickwarts ein Reh.Leinwand. 95:75 cm.G.R.Bez.:Jakob Maurer.
+
+## KARL MORGENSTERN
+
+Frankfurt 1811—1893 Frankfurt
+
+221. SU DLICHE MEERESBU CHT mit Segelbooten und Fischern. Rechts hohes Gestade mit Bergdorf. Im Hintergrund schlieBt eine Gebirgskette die Bucht ab. Leinwand. 70:100 cm. G.R. Bez.:K.Morgenstern 1872.
+
+## AUGUST VON PETTENKOFEN
+
+Wien 1821—1889 Wien
+
+222. MALERA TELIER. In der Ecke links ein Tisch mit Malgeraten und eine Wasserflasche,an der Wand ein Regal mit Malbrettern etc. Oben links von Pettenkofens Hand:Farben Experiment&amp;,Daneben: Die schonst moblierte und decorierte Ecke meines Ateliers in Venedig im Marz 81. Unten:Pettenkofen seinem Freunde Gunther. Holz.251:15%2 cm.G.R Aus Sammlung Gunther
+
+## CARL RAUPP
+
+Darmstadt 1857-1918 Munchen
+
+- 222a LANDSCHAFTSMOTIV VOM CHIEMSEE.Links Bauernhaus mit Heuschober,rechts davon HolzstoB unter Baumgruppe. Im Hintergrund der See.Leinwand. 59:70 cm.Schw.R, Bez.C.Raupp 1875.
+
+## JOHANN WILHELM SCHIRMER
+
+Juilich 1807-1863 Karlsruhe
+
+223. LAN DS CHAF T mit Bach und Hutte. Hinter dieser Felsen und Waldung. Leinwand. 16%:221% cm.Schw.R. Monogramm:I.W.S.
+
+## CARL SPITZWEG
+
+## Munchen 1808—1885 daselbst
+
+224. MON CH IM STUD IERZIM MER, vor seinem aufgeschlagenen Buch an seinem Tisch sitzend. Am geoffneten Fenster ein Vogel. Holz 4112:31 cm.G,R,Abb. Tafel 9. Aus Sammlung Gunther
+
+## ADOLF SCHREYER Frankfurt a.M.1828-1899 Cronberg
+
+225. WALLACHISCHES BAUERNGEFAHRT. Drei Pferde vor einem mit Reisig beladenen Wagen arbeiten sich durch den Schneesturm vorwarts, angefeuert durch einen Bauern. Im Hintergrund links eine verschneite Hutte. Leinwand.64:90 cm.G,R, Bezeichnet: Ad. Schreyer. Abb.Tafel 9.
+
+## WILHELM TRUBNER
+
+## Heidelberg 18511917 Karlsruhe
+
+226. TOD DES PAPSTES ALEXANDER VI. Im Vordergrund ein Ritter mit Degen,in rotem
+2. Kostum und Federhut. Dahinter der Tote, Rechts ein Schweizer, links eine Dogge. Leinwand,27:50 cm.G,R.Bez.:W.T.1883.
+## GOBELINS UND TEPPICHE AUS RHEINISCHEM BESITZ U.A.
+
+227. W AND TE PPIC H mit groBen Blattern Auf einem nach oben schwingenden Gelander zwei Reiher. Links vorne ein dudelsackblasender Knabe. 142:168 cm,Abb. Tafel 13.Vlamisch,16.Jahrhundert
+228. W AN D TE P PIC H mit Darstellung eines Gastmahls im Freien. Um einen Tisch gruppieren sich fuinf Edelleute mit drei Damen,Borde mit Blumen und Fruichten. (Erganzungen.) 157:358 cm. Vlamisch,2.Halfte 16.Jahrhundert
+3. Abb.Tafel 13.
+229. WAN D TEPPICH mit zwei behelmten Wappenschildern, rechts und links von Schildhaltern in Lanzknechtskostuimen flankiert.Dunkelgruner Grund mit Blattwerk,(Erganzt.) 55:142 cm.
+5. Schweiz (7),17.Jahrhundert
+6. 352:80cm. Hintergrund Landschaft. Darunter Bordure mit Muscheln und Blumen.
+7. Brissel,17.Jahrhundert
+8. W AND TEPPICH,Verdure: Landschaft mit reichem Baumschlag. Borde mit Blumen. Vlamisch,um 1700
+231. H.230,B.130cm
+232. SAMA RKAN D-TEPPI CH. Im Mittelfeld geometrische,regelmaBig verschlungene Ornamente in roten, gelben, grinen Farben auf goldgeknupftem Grund. Analoge, mehrfach gegliederte Borde. 340:180cm.
+233. SEID EN PERSER von feinster Knupfung: Aufsteigendes Pflanzenornament mit symmetrisch angeordneten Tieren,wie Hirsche, springende Tiger,Vogel etc.,n Blau, Gelb,Rot auf cremefarbigem Abb.Tafel 13.
+12. Grund,Vierfache Borde.172:126 cm,
+234. RENAISSANCE-WANDTEPPICH mit groBen Blattern feuilles de choux&amp;. Dazwischen kampfende Tiere,Vogel usw.Im Hintergrund Architekturen. Bordure mit Fruchtbischeln. Vlamisch,um 1600 314:317cm.
+14. 235 PANNEAU IN PETIT POINT,mit Seide und Silber. In ovalem Mittelstuick Landschaft mit Schaferscene, Umrahmt von Blattern, Blumen und Bandelwerk auf schwarzem Grund. In den vier 197:74cm. Ecken ovale Medaillons mit den figurlichen Darstellungen der vier Jahreszeiten. Frankreich,Louis XIV.,2.Halfte,17.Jahrhundert. Abb.Tafel 14.
+236. WANDTEPPICH MIT GASTMAHL der Gotter Jupiter,Juno,Apoll, Venus und Amor. Frankreich,17.Jahrhundert
+16. 235:233cm.
+237. GROSSER W A ND TEPPICH: Waldlandschaft. Im Vordergrund zwei Jager mit drei Hunden, die einen Hirsch hetzen. Im Hintergrund Jager zu Pferd mit Hunden. Links Hutte unter Baumen. Vlamisch,um 1700
+18. Bordure mit Blumen und Frichten.315:325 cm.Abb.Tafel 14.
+238. SCHMALER W ANDTEPPICH: Landschaft mit FluBgott vor einer Felsengrotte. 250:72 cm. Brissel,um 1700
+2. Bordire mit Blumen und Akanthus auf schwarzem Grund. 230:205cm,
+
+Aubusson, Louis XV.,18. Jahrhundert
+
+240. WANDTEPPICH, Landschaft mit bluhenden Baumen und Schilf. Bordure mit Blumen und Akanthus.Auf schwarzem Fond. 250:205cm Aubusson,Louis XV.,18.Jahrhundert
+241. BIEDERMEIER-TEPPICH in gros-point. Blaues Mittelstuck mit zwei Tauben auf grunem Fond mit roten Feldern. Borde mit Akanthus auf schwarzem Grund. 145:150 cm.
+
+Frankreich,um 1830

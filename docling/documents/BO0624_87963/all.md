@@ -1,0 +1,679 @@
+## GEMALDE.
+
+## I ALTER MANN.
+
+Auf einem einfachen Stuhl sitzt ein alter Arbeiter in tiefer Ermuidung. Wahrend sein Korper nach rechts, ist sein Kopf nach links gewendet. Das grauschwarze,wirre Haar falt tief um Stirn und Ohren.Das schmale verharmte Gesicht ist glattrasiert mit blaulich-schwarzem Haarschimmer, die Augen rotumrandert. Die rechte Hand ist teilweise in die Rocktasche versenkt, die linke Hand ruht auf einem braunen Knotenstock. Er tragt einen grin-schwarzen, verblichenen Rock; aus dem Westenausschnitt schaut eine blaue Krawatte hervor, iber den Knien liegt eine blaue, fleckige Schuirze.  An den FuBen tragt er klobige, schwere Arbeitsschuhe. Boden und Wand in dunkelbraun-grauem,neutralem Ton gehalten. Das ganze Bild ist in dunklen Tonen gehalten, aus denen nur das weiBe Gesicht und die Hande, sowie die blaue Schuirze herausleuchten.
+
+Ende der 7o er Jahre.
+
+Auf Leinwand. Hohe 15o cm, Breite 105 cm. Goldrahmen.
+
+Abbildung Tafel1.
+
+## REITERSMANN.
+
+Ein Reitersmann,in der Tracht um 165o, sitzt nachlassig zurickgelehnt auf einem hollandischen Stuhle. Der rechte Arm ruht auf der Stuhllehne,mit der linken langt er nach einem weiBen, steinernen Weinhumpen. Der Reiter tragt einen grauen, machtigen Krempenhut,einen gelben Rock mit weiBem Spitzenkragen, um den Leib eine hellblaue Scharpe, graue Hose und graubraune,machtige Stulpstiefel mit Radsporen.Auf dem rechts stehenden Tisch liegt eine gelbe Wolldecke mit zartblauem Dessin auf. Neben dem Steinkrug steht eine gelb-blaue Fayencekanne und liegt ein weiBgraues Tuch. Den Hintergrund nimmt ein auf gespannter Gobelin in gelbem und blauem,unbestimmtem Muster ein. Das Bild ist auf gelb-braune Tone mit Blau gestellt.
+
+1879.
+
+Auf Leinwand. Hohe 6o cm, Breite 49 cm. Goldrahmen.
+
+Abgebildet bei Rosenhagen S.20.
+## DER LANDSTREICHER.
+
+Auf einer DorfstraBe,die teilweise mit Gras bewachsen ist,marschiert ein vergnigt und unbesorgt lachender juingerer Landstreicher dahin. Die Augen sind verschmitzt zusammengekniffen, auf den Lippen ein kleines, schwarzes Schnurbartchen. Die rechte Hand fihrt den weit abgesetzten Aststock, in der Linken tragt er ein Buindel in gelbem Knotentuch. Das schwarze Haupthaar bedeckt ein Strohhut, an dessen Band ein rot und weiBes BlumenstrauBchen steckt. Auf der linken Achsel liegt der braune, umgeworfene Rock auf, die taubengraue,offene Weste auf die nackten FuBe herunter. Ein Pinscher lauft klaffend dem Manne nach. Rechts ist ein einfaches Bauernhaus zu sehen, links im Hintergrund zwei klatschende Frauen vor einem Waschkorb,in blauen Kleidern,eine mit rotem Kopftuch. Gegen den bewolkten Himmel hebt sich die Silhouette einiger Hauser ab. Die Wirkung des Bildes beruht in erster Linie auf dem starken Gegensatz des leuchtend weiBen Hemdes gegen den dunkel gehaltenen Hintergrund. In Paris gemalt.
+
+Rechts unten bez.:F. Uhde 8o.
+
+Auf Leinwand. Hohe 137 cm, Breite 1oo cm. Goldrahmen.
+
+Abbildung Tafel 3.
+
+Abgebildet bei Rosenhagen S.21.
+
+Rosenhagen S.XXIV:...,Sein famoser Landstreicher, der ein Dorf passiert, erinnert, nicht nur in dem schwarzlichen Kolorit, durchaus an diesen. (Munkaczy).
+## 4FRAU,APFEL SCHALEND.
+
+Die junge Frau des Kunstlers sitzt auf einem Lehnsessel und schalt, nach links blickend,Apfel in einer irdenen Schussel. Das blonde Haar ist hochaufgesteckt und laBt Haarlocken in die Stirne hereinfallen. Sie tragt ein gelblich-braunes Kleid, das den Hals freilaBt und vorne am Ausschnitt eine rote Rusche hat; an den Armeln weiBe Manschetten; schwarze Schuhe. Auf dem links stehenden Eichentisch ist ein farbenreicher, orientalischer Teppich aufgelegt,der Muster in zeugkrug, ein eiserner Leuchter mit rotbrauner Kerze und zwei Apfel. Der Boden hellgrau, der neutrale Hintergrund schwarzgrau.
+
+Um1881.
+
+AbbildungTafel 4.
+
+Vgl. iber dieses Bild das Vorwort.
+
+Auf Leinwand. Hohe 76 cm, Breite 61 cm. Goldrahmen.
+Abbildung Tafel5.
+
+## 5
+
+## KIND MIT PUPPEN.
+
+Das alteste 4-5jahrige Tochterchen des Kuinstlers steht inmitten der Kinderstube. Der Kopf mit dem strohgelben Haar ist leicht nach rechts geneigt, der Blick unbefangen gerade aus gerichtet. Es tragt iber dem dunkelfarbigen Kleidchen eine rotlich-graue Zwillichschurze. Schwarze Strimpfe,iber die oben die Spitzenhose fallt; schwarze Schuhe. Unter dem rechten Arm halt es einen roten Hampelmann, unter dem linken eine graue Puppe. Auf dem grauweiBen Stubenboden liegen zerstreut Spielsachen herum. Rechts ein Teil eines Spiel hauschens sichtbar, links an der grau-blauen Wand steht ein hollandischer Renaissancestuhl mit groBblumigem Bezug. Das Bild in silbergrauem Ton ge- halten, aus dem einige rote Tone eigentuimlich schon hervorleuchten.
+
+1885.Links oben bez.:F. Uhde.
+
+Auf Leinwand. Hohe 127 cm,Breite 94 cm.
+
+Goldrahmen.
+
+Abgebildet bei Rosenhagen S.58.
+Abbildung Tafel 6.
+
+## 6 BILDNIS EINER DAME.
+
+LebensgroBes Brustbild en face. Eine blonde junge Dame sitzt zurick- gelehnt auf einem grunlich bespannten Sofa.Die Haare fallen in losen Locken frei in die Stirne, die blaugrauen Augen geradeaus gerichtet, die obere Lippe des frischen, roten Mundes leicht geschurzt. Das schwarze Kleid mit Spitzenruische, das den Hals frei laBt, ist mit einer rosa Nelke geschmickt. Blaugriner, neutraler Hintergrund. Besonders reizvolle Harmonie der Farben.
+
+18g0.
+
+Abbildung Tafel 6.
+
+Auf Leinwand. Hohe 6o cm,Breite 48 cm. Goldrahmen.
+
+Abgebildet bei Rosenhagen S.Ioo
+
+## BILDNIS EINER DAME.
+
+## 7
+
+Eine junge, blonde Dame; lebensgroBes Brustbild, in scharfem Profil nach links. Das Haar ist in einen Knoten im Nacken geschurzt,in die Stirne hangen kurz geschnittene Haare,Mund leicht geoffnet. Sie tragt schwarzes Kleid mit
+
+Spitzenbesatz, das den Hals freilaBt. Vor gringrauem neutralem Hintergrund.
+
+Bez.links unten:F.v.Uhde 18go.
+
+Auf Leinwand. Hohe 61 cm, Breite 49 cm. Goldrahmen.
+
+Abgebildet bei Rosenhagen S.Ioo.
+## 8
+
+## 8 MANNLICHER KOPF.
+
+Fast lebensgroBes Brustbild. Leicht nach rechts gewendet. Ein alter Herr, anscheinend ein Kunstler,mit graumeliertem,langem Lockenhaar,dichtem Schnurr- und grauem Vollbart. Gelbliches Gesicht mit schwarzen, buschigen Augenbrauen.Der schwarze Rock laBt das weiche,weiBe Hemd mit lose gebundener, schwarzer Krawatte sehen. Vor dunklem Hintergrund.
+
+1886.
+
+## 9
+
+Auf Holz. Hohe 53 cm, Breite 35 cm. Goldrahmen.
+
+Abgebildet bei Rosenhagen S.67.
+
+## MANNLICHER STUDIENKOPF MIT SCHWARZEM BART.
+
+Brustbild en face. Ein grobknochiger,bauerlicher Mann mit brauner Gesichtsfarbe, schwarzem Haupthaare, schwarzem kurz gehaltenen Bart und scharfblickenden Augen. Er tragt ein schwarzes Gewand mit einem weiBen, weichen Umleg- kragen und einer rot-blauen Krawatte. Dunkler Hintergrund.
+
+go er Jahre.
+
+Auf Leinwand. Hohe 49,5 cm, Breite 36,5 cm.Goldrahmen.
+## 10 LEBENSGROSSE STUDIE ZUM BILDEZUR ARBEIT
+
+Auf einem nur angedeuteten Feldwege geht in eiligem Schritte eine jungere, blonde Frau in graublauem Arbeitsgewande dahin. Sie ist in scharfer Silhouette, nach rechts gewendet, gesehen. In der rechten,niederhangenden Hand tragt sie einen langhalsigen Wasserkrug. Die linke Hand ist vor den Leib gelegt. Die nur angedeutete Morgenstimmung druickt sich in blau-weiBem Nebelhintergrunde aus.
+
+Seltene GroBe der Auffassung. Blau-graue Tone vorherrschend.
+
+1888.
+
+AbbildungTafel 7.
+
+(Vgl. die Abbildung zu dem ausgefuhrten Gemalde bei Rosenhagen S. 87, wo die rechtsgehende Frau in ganz ahnlicher Auffassung vorkommt.)
+
+Rose nhagen, S. XxXIV: ..Das Bild zur Arbeit mit der energischen, fast an Jules Breton erinnernden Silhouette der beiden Frauen gegen eine dunstige Morgenluft."
+
+Auf Leinwand. Hohe 195 cm,Breite I1o cm. Goldrahmen.
+## II HEIMKEHR.
+
+Auf einem ausgefahrenen, mit Pfuitzen bedeckten Feldwege geht engumschlungen ein Arbeiterehepaar heimwarts. Sie tragt am linken Arm einen Korb,von ihm ist nur der Ruicken, auf dem eine Sage hangt, sichtbar. Die nach links gerichtete Gruppe ist in blau-braunen Tonen gegeben. Den ganzen Mittelgrund nimmt eine grune Wiese ein,an deren Rand vereinzelte Birken stehen. Am Horizont Gebirgskette. Der Himmel in blaugrauen Tonen. Sehr charakteristische Studie zu seinen bekannten Bildern ,Der Gang nach Bethlehem",Die Flucht nach
+
+Agypten" u. A., Stimmungsvoll in den grau-gruinen Tonen.
+
+Nach 1890.
+
+Abbildung Tafel 8.
+
+Auf Pappe. Hohe 62 cm, Breite 96 cm. Goldrahmen.
+
+Vgl. Rosenhagen S.107,I12 u.a.
+
+## I2 WEIBLICHERSTUDIENKOPF.
+
+Huftbild,Dreiviertelprofil. Eine blonde Dame in graublauer Bluse mit weiBem Kragen. Im Hintergrund links eine Saule mit goldener Basis. In gruinen, gelben und rotlichen Tonen angelegt,in den Einzelheiten nicht ganz ausgefuhrt.
+
+g0 er Jahre.
+
+Auf Pappe. Hohe 47 cm,Breite 32 cm. Goldrahmen.
+## 13 PORTRAT EINER STEHENDEN DAME IN WEISSER BLUSE.
+
+LebensgroB in ganzer Figur. Vor einem mit weiBen Tillvorhangen versehenen Fenster steht an einem eichenen Stollentisch eine junge, blonde Dame, die die rechte Hand auf die Platte stitzt und die linke in die Hufte stitzt. Der Kopf ist im Profil von links gesehen. Sie tragt eine weiBe Bluse und einen schwarzen Rock.
+
+RoterBoden.
+
+Um18g2.
+
+AbbildungTafelg.
+
+Auf Leinwand. Hohe 182 cm, Breite 74 cm. Goldrahmen.
+
+Abbildung:Rosenhagen S.129.
+## 14DER GUTEHIRTE.
+
+Der gute Hirte, ist lebensgroB als ein junger, zarter Mann mit schmalem
+
+Gesicht mit leichtem Schnurrbartanflug dargestellt. Reiches braunes Haar, rostbrauner Rock und Mantelumwurf. Auf den Schultern tragt er ein Lamm, dessen FuBe er mit der Linken zusammenhalt. In der Rechten ein langer Hirtenstab. Links eine Vorhangdraperie. Graubrauner,neutraler Hintergrund. Nicht ganzvollendet.
+
+go erJahre.
+
+Tempera auf Leinwand. Hohe 148 cm, Breite 116 cm. Goldrahmen mit Eichenlaub.
+
+AbbildungTafelIo.
+## I5
+
+## LANDUNGSSTEG AM STARNBERGER SEE.
+
+Im Vordergrund steht am Ufer ein eiserner Gartentisch mit einem Kaffeeservice,einem Bierglas und grinen Blattern, sowie ein Gartenstuhl und eine Bank. Links ragen die Zweige eines sprossenden Strauches herein. Uber diese Gegenstande schweift der Blick auf den weit ausgedehnten See,den zahlreiche,niedrige weibe Wellenberge beleben. Von links her ragt in scharfer Diagonale der holzerne Landungssteg der Dampfer in den See herein. Auf ihm steht ein Mann und eine Frau, am Ende die bayerische Flagge. Auf dem See einige Segelboote. Am Horizont verdammernde Gebirgskette. Grau-weiBer Himmel. AuBerst fein in den zarten Abschattierungen des verschiedenen Graues.
+
+goerJahre.
+
+Abbildung Tafel II.
+
+Auf Holz. Hohe 37 cm,Breite 47 cm. Goldrahmen.
+
+Bisher nicht abgebildet.
+## 16 INTERIEUR EINES BAUERNHAUSES.
+
+Skizze. In der Kiche eines Bauernhauses picken aus Schuisseln und vom Boden mehrere Huhner Korner auf. An der Wand Tellerbrett. Durch die Ture und ein Glasfenster blickt man in einen Vorraum, in dem eine Frau in weiBen Hemdarmeln an einem Tisch sitzt. Durch die fast ganz geoffnete Haustire fallt der Blick auf lichtgrine, sonnenbeschienene Baume. Die beiden Raume werden durch das durch die Ture eindringende Licht erleuchtet. Sehr fein in den graubraunen und hellgrinen Tonen.
+
+goer Jahre.
+
+Auf Pappe. Hohe 75 cm, Breite 61,5 cm. Goldrahmen.
+
+## 7FRAU MIT KUHEN.
+
+## I7
+
+Auf einer weit ausgedehnten Wiese sitzt, von rickwarts gesehen, auf einem niederen Holzschemel eine Bauernfrau in lila Kittel und blauem Rock. Rechts von ihr eine, links zwei braungefleckte Kuhe. Sehr feine,nicht ganz vollendete
+
+Studie in grinen, gelben und braunen Tonen.
+
+go er Jahre.
+
+Auf Pappe. Hohe 45 cm, Breite 51,5 cm. Goldrahmen.
+Abbildung Tafel 12.
+
+## 181 LACHENDES MADCHEN.
+
+Auf einem Strohstuhl ohne Lehne sitzt in kecker Haltung vor dem brenMadchen,das frohlich lachend, so daB die weiBen Zahne sichtbar sind,gerade aus- nenden Kamine, der mit einem kleinen Streifen links sichtbar ist,ein blondes schaut. Der Korper ist nach links gewendet. Sie schlagt den linken FuB iber das rechte Knie und legt die Rechte auf das linke Knie. Die linke Hand legt sie an die linke Hufte. Das weiBe Hemd ist offen und laBt die Biste sehen. Sie tragt einen braunen Rock. Vom Kamin fallt ein warmes, rotliches Licht auf Gesicht und Hande.Grau-rotlicher Hintergrund.
+
+1893.
+
+Links unten bez.:F. Uhde.
+
+Auf Leinwand. Hohe 145.5 cm, Breite 117 cm. Goldrahmen.
+
+Abgebildet bei Rosenhagen S.I40.
+## 19
+
+## MANN MIT RUCKSACK AUF DEM RUCKEN.
+
+Skizze. Ein junger Bursche nach links gewendet, ist im Begriffe, den Rucksack umzuhangen. Grundanlage in grauschwarzen, grinen,roten und gelben Tonen. 1893.
+
+Auf Pappe. Hohe 49,5 cm, Breite 38 cm. Goldrahmen.
+
+## 20 STUDIE ZU DEN ,WEISEN AUS DEM MORGENLANDE
+
+Ein schwarzhaariger Mann in rotem Gewand, halb von rickwarts gesehen. Vor ihm steht eine niedrige Holzbank,links ein Zuber. Grundanlage in roten, gelben,braunen und grinen Tonen. Diente fuir den ersten der drei eintretenden Konige als Studie. (Vgl. Rosenhagen S.16o.)
+
+Um1895.
+
+Auf Pappe. Hohe 69 cm, Breite 51 cm. Goldrahmen.
+## 21 LESENDE DAME.
+
+Ganze Figur. Am Rande eines mit einem roten Wollteppich bedeckten Eichentisches steht in halbsitzender Stellung eine blonde junge Dame,die in einem gelbbroschierten Buche liest. Ihr reiches Haar ist vorne leicht gescheitelt, mit der rechten Hand halt sie das Buch, die linke liegt auf dem linken Knie, das leicht erhoben ist, da sie den FuB auf einen rechtsstehenden Strohstuhl aufsetzt. Sie tragt ein dunkelbraunes Kleid mit Puffarmeln und weiBer Spitzenhalskrause. Am linken Handgelenk ein goldenes Armband. An der sonst dunkelbraunen, neutralen Ruckwand ist ein Stick eines gringelben famischen Gobelins sichtbar. Der Boden rotbraun.Auf das dunkel gehaltene Bild fallt das Licht von links.
+
+Um die Mitte der goer Jahre.
+
+Rechts unten bez.F.v.Uhde.
+
+Auf Leinwand. Hohe 1go cm, Breite 95 cm. Goldrahmen.
+
+Abbildung Tafel 13.
+
+Abgebildet bei Rosenhagen S.162.
+
+Ostini S.1o8: ,...Die (Portratstudie) der ,Lesenden Dame" ist koloristisch uiberaus pikant behandelt und erhalt durch einen der bekannten franzosischen Romanbande in leichtem gelben Umschlag eine bestimmende farbige Note.
+## 22 DER MOHRENKONIG.
+
+LebensgroBes Bild nach rechts. Der Mohr mit goldner Zackenkrone auf dem
+
+Haupte tragt ein rotes fuBfreies Gewand mit Umwurf. Am Gurtel tragt er ein Schwert in roter Scheide. Mit beiden Handen halt er eine eiserne Kassette. Schwarzgrauer Hintergrund.
+
+1894.Rechts unten bez.:F.Uhde.
+
+Auf Leinwand. Hohe 183 cm, Breite 73 cm. Goldrahmen.
+
+Abbildung Tafel 14.
+
+Abgebildet bei Rosenhagen S.I42.
+
+Ro s en h a g en S. XL:,... eine so prachtige, malerische Leistung ,wie der Mohrenkonigvon 1897 mit dem wundervollen roten Gewand und der gleiBenden
+
+Krone...
+## 23
+
+## PORTRAT EINER STEHENDEN DAME.
+
+LebensgroBe, ganze Figur. Eine blonde, junge Dame von rickwarts gesehen, die Hande auf dem Ricken zusammengelegt. Der Kopf ist so stark nach rechts gewendet, daB er im Profil erscheint. Sie tragt ein dunkelbraunes Kleid mit Am linken Handgelenk ein goldenes Armband. Vor dunklem Hintergrund.
+
+Sehr gut durchgearbeitetes,dunkel gehaltenes Bild.
+
+Mitte der go er Jahre.
+
+Auf Leinwand.Hohe 183 cm,Breite 73 cm. Goldrahmen.
+
+Abgebildet bei Rosenhagen S.162 u.163.
+
+Abbildung Tafel I5.
+
+Ro s e n h a g e n S. XL: ,Das beste (der Portrats der blonden Dame) durfte jenes sein, worauf sie von rickwarts,mit den Handen auf dem Rucken, das anmutige Profil zeigend,in einem braungrauen Kleide vor einem braunen Hinter- grunde dargestellt ist."
+## 24
+
+## STUDIE ZU CHRISTI,PREDIGT AM SEE"
+
+Eine der Tochter des Kuinstlers steht dicht am Ufer des Starnberger Sees im Schilfgras. Sie tragt ein blaugraues Radmantelchen, eine weiBe Bluse und einen kurzen gelben Rock. Mit beiden Handen halt sie einen breitkrempigen grauen Hut. Die letzten Strahlen der Sonne werfen ihren Schimmer auf die Gestalt des Kindes.Der tiefblaue See,wie der blaue Abendhimmel mit rotlichen Reflexen. Am Horizont waldige Hugelkette. Interessante Studie, hauptsachlich in blauen, grinen und roten Tonen. 1896.
+
+Auf Leinwand. Hohe 73 cm,Breite 52 cm. Goldrahmen.
+
+Abbildung Tafel 16.
+
+Abgebildet bei Rosenhagen S.184.
+
+- STUDIE ZU EINEM BILDE:,WAHRLICH,ICH SAGE EUCH, ES SEI DENN,DASS IHR NOCH UMKEHRET UND WERDET WIE DIE KINDER,SO WERDET IHR NICHT IN DAS HIMMEL-
+- 25 REICH KOMMEN.(Matth.18,3.)
+
+Vor einem Hause mit einem kleinen vergitterten Fenster steht eine Gruppe Menschen. In Mitte derselben beugt sich Christus im lila Gewande und braunem Umwurf zu einem kleinen Madchen in rotem Kleide herab, das von seiner blonden Mutter in griner Schuirze gehalten wird. Christus wendet sich redend zu den rechts stehenden Mannern in braunen und grinen Gewandern. Unvollendete,aber sehr reizvolle Studie,in der aus der sonst dunkel gehaltenen Darstellung einzelne stark- farbige Tone schmuckartig herausleuchten.
+
+g0 er Jahre.
+
+Auf Leinwand. Hohe 6o cm, Breite 25 cm. Goldrahmen. Abbildung Tafel I7.
+## 26 IN DER LAUBE (DIE DREI TOCHTER DES KUNSTLERS).
+
+Die zwei alteren Tochter des Kuinstlers sitzen in roten Armelschirzen auf der Holzbank, die eine strickend, die andere nahend. Die jungste steht in weiBem Kleidchen mehr vorn an einen Baum gelehnt. Uber den Zaun schauen grune Blatterzweige herein. Spielende Sonnenflecke ruhen auf dem Ganzen. Fast lebensgroBe Figuren.
+
+1896.
+
+Auf Leinwand. Hohe 116 cm,Breite 145 cm. Goldrahmen.
+
+Abbildung Tafel 18.
+
+Abgebildet bei Rosenhagen S.180.
+
+Rosen ha gen S.XLII:,Diese ausgezeichnete Schopfung laBt ihrer ganzen Anlage nach, im momentanen des Ausdrucks und der Lichtwirkung, wie auch in der alles wesentliche mit scharfster Betonung seines Charakters herausholenden summarischen Malweise erkennen,daB Uhde mit seinem Luminarismus nun auch den entscheidenden Schritt zum Impressionismus getan hat. Das Bild ist auBerordentlich farbig —die Kleider der beiden alteren Tochter sind rot, das der juingsten am Baum weiB; dazu das Braungrau des Baumstammes, des Zaunes und der Bank und das Grin der Blatter —; aber alle Farben sind mit Licht durchtrankt."
+## 27STUDIE ZU DEM BILDE:,CHRISTI HIMMELFAHRT (Munchener Pinakothek.)
+
+Von dem in die Wolken erhobenen Christus sind nur noch die FiBe von den
+
+Knien abwarts, die in weiBleuchtende Gewander gehullt sind, sichtbar. Die heftig erregte und gestikulierende Menge in roten und gruinen Gewandern schaut nach oben. Blauschwarzer, wildbewegter Himmel. Aus dem dunkel gehaltenen Bild leuchten nur einzelne stark farbige Tone hervor.Eine der Studien zu dem Bilde:,Christi Himmelfahrt". 1897.
+
+Auf Leinwand. Hohe 58 cm, Breite 44 cm. Goldrahmen.
+
+Vgl. Rosenhagen, S. 193.
+
+## 28 STUDIE ZU DEM BILDE ,DES KUNSTLERS TOCHTER
+
+## (Dresdener Galerie.)
+
+Die juingste Tochter des Kunstlers in weinrotem Kleide, ganz vorne stehend, violetten und grinen Tonen.
+
+beugt sich tief herab zu dem auf dem Boden liegenden groBen Hunde. Die zwei andern Tochter im Hintergrunde nur angedeutet. Unvollendet. Anlage in roten, 1898.
+
+Auf Pappe. Hohe 5I cm, Breite 5I cm.Goldrahmen.
+
+Vgl. die Abbildung zum ausgefihrten Gemalde: Rosenhagen S.211.
+## 29 TIERSTUDIE.
+
+Auf einem Fliesenboden liegt ein Hund, in gelben, weiBen und schwarzen Tonen. Unvollendet. 1896.
+
+Auf Pappe. Hohe 35 cm, Breite 43 cm. WeiBer Rahmen.
+
+Fast lebensgroBe Studie. Brustbild en face. Ein junges, blondes Madchen in blaugrauer Bluse, auf dessen leicht lachendes Antlitz Schatten von rotem Weinlaub fallen und Sonnenflecken spielen. Ende der go er Jahre.
+
+Auf Leinwand. Hohe 53 cm, Breite 44 cm.Goldrahmen.
+## 31 KIND UND HUND.
+
+Auf einem fliesenbelegten Gartenwege steht die jingste Tochter des Kinstlers und beugt sich zu einem rechts vor ihr stehenden groBen,braun und weiB gefleckten, langhaarigen Hunde herab, der ganz in Profil gesehen ist. Das Madchen tragt ein bordeauxrotes Kleidchen mit hochrotem Ausputz. Im Hintergrunde die grinen Gartenbeete. Das ganze Bild ist von flimmernden Sonnenstrahlen durchflutet, die auf alle Gegenstande ihr spielendes Licht werfen. Bild voll momentaner Bewegung und Leben, das durch den eigenartigen Ausschnitt noch erhoht wird. 1899.
+
+Auf Leinwand. Hohe 97 cm,Breite 14o,5 cm. Goldrahmen.
+
+Abbildung Tafel 19.
+
+Abgebildet bei Rosenhagen S.217.
+
+Ostini S. 1o7: .. die lebensgroBe Gruppe ,Kind mit Hund" hochst originell abgeschnitten und wieder ganz unheimlich lebenswahr. Das Kind ist da nur ziemlich skizzenhaft hingesetzt,der drollige, so bieder und gutmitig dreinsehende Griffon,welcher auch auf den meisten nachfolgenden derartigen Gruppenbildern untergebracht wurde, ist die Hauptperson.
+## 32 STUDIE AUS DEM ATELIER.
+
+Zwei Modelle stehen im Atelier. Rechts ein Mann, anscheinend einen gruinen Rucksack auf dem Ricken. Links eine Frau in blauer Schurze, die den Oberkorper herunterbeugt. Auf Stihlen,am Boden und im Atelierhintergrund liegen und hangen alle moglichen Atelierrequisiten herum.In blauen, roten,lila und braunen Tonen. Nur die farbige Grundanlage gegeben; Einzelheiten nicht aus- gefuhrt.
+
+Gegen Igoo.
+
+Auf Pappe. Hohe 46,5 cm, Breite 43 cm. Goldrahmen.
+
+## 33 HUND IN DER SONNE.
+
+Der Hund ,Kitsch des Kunstlers, ein Griffon, weiB mit braunen Flecken, steht in LebensgroBe auf dem Gartenweg, voll von der Sonne beschienen. Im
+
+Hintergrunde Gartenbeete.
+
+Um 1903.
+
+Abbildung Tafel 20.
+
+Auf Pappe. Hohe 7I cm, Breite 99 cm. Goldrahmen.
+Abbildung Tafel 21.
+
+## 35 ATELIER-INTERIEUR DES KUNSTLERS.
+
+Rechts das groBe Atelierfenster, teilweise durch Leinenzugvorhange verhangt. Links stehen vor einer grinen Wand eine Holzbank und ein Strohstuhl. Rechts ein Korb mit grinen und gelben Stoffen. Nach 1900.
+
+Auf Pappe. Hohe 97 cm, Breite 69 cm. Goldrahmen.
+
+Abbildung Tafel 21.
+
+## WALD-INTERIEUR. (Hochformat.)
+
+## 34
+
+Ein wenig begangener Weg fuihrt in einen Laubhochwald. Im Vordergrund sind nur die Baumstamme sichtbar, die im allgemeinen im Schatten liegen und nur von einigen Sonnenkringeln belebt werden. Mehr im Mittelgrund,wo reicheres Buschwerk zwischen den Stammen steht,ist dagegen das vollflutende Sonnenlicht, das alles stark beleuchtet.
+
+Nach 1900.
+
+Auf Pappe. Hohe 65,5 cm,Breite 58 cm. Goldrahmen.
+Abbildung Tafel 22.
+
+## 36
+
+## ABENDMUSIK.
+
+In einer Ecke des Zimmers sitzt auf einem rot gepolsterten Klavierstuhl die zweite Tochter des Kunstlers am Klavier. Sie tragt schwarzen Rock und weiBe Bluse. Links von ihr sitzt die alteste Tochter in gruingelbem Rock, weiBer Hemdbluse mit roter Krawatte, den linken Arm hat sie auf die Stuhllehne aufgelegt. Etwas zurick am weiBen Ofen sitzt die dritte Tochter in derselben Kleidung mit schwarzer Krawatte. An der braungelben Zimmerwand hangen einige Bilder. Die Beleuchtung des Raumes geschieht durch ein Licht,das sichhinter derKlavierspielerin befindet,so daB fuir den Beschauer nur die
+
+Reflexlichter wirken. Das Bild ist auf gelbbraune und rote Tone gestimmt.
+
+1904.
+
+Links unten signiert: F. v.Uhde.
+
+Auf Leinwand. Hohe 48 cm, Breite 61 cm. Goldrahmen.
+
+Abgebildet bei Rosenberg S.256.
+## 37 STUDIE ZU DEM GROSSEN ALTARBILDE FUR DIE LUTHERKIRCHE IN ZWICKAU.
+
+Eine etwas anders aufgefaBte Studie zu dem ausgefuhrten Gemalde. Die
+
+Estrade lauft parallel mit dem Bildrand. Christus in lila Gewande bewegt sich nach links und das Volk drangt ihm nach. Vor den Stufen steht weiteres Volk, das, gespannt nach vorwarts geneigt,den Vorgang verfolgt. In den Einzelheiten nur angedeutet. Sehr keck hingesetzt; aus der braungrauen Gesamtanlage glitzern lila,rote,braune und grine Tone hervor. Unvollendete,aber sehr reizvolle Studie. Auf der Rickseite Studie aus einem Nadelwald.
+
+1905.
+
+Auf Pappe. Hohe 63.5 cm, Breite 49 cm. Goldrahmen.
+
+## 38SONNENZAUBER IM WALDE. (Breitformat.)
+
+In einem Walde zieht sich links ein wenig begangener Weg hin,in dem verfarbtem Laub,durch die die Sonne fallt. Im Hintergrunde schlieBt sich der
+
+Auf Pappe. Hohe 5o cm,Breite 7I cm. Schwarzer Rahmen.
+
+einige Wasserpflanzen wachsen. Rechts dunne, junge Laubbaume mit schon leicht Hochwald an. Sehr fein in seinen gruinen, gelbbraunen und grauen Tonen. Um 1908.
+
+Abbildung Tafel 11.
+
+## 39ENGEL.
+
+Im Atelier steht vor dem groBen Fenster, durch das die Sonne hereinscheint, ein Engel. Derselbe ist etwas schag gestellt und hat den Kopf ein wenig nach links geneigt. Er ist bekleidet mit einem zart lila Gewand und einem weitschleppenden blauen Rock. An dem Rucken sind zwei Flugel befestigt. In der rechten erhobenen Hand tragt er einen gelben Lilienstab;ebensolche hat er im Haar. Mit der linken Hand rafft er den Rock. Fast vollendet. Blaue, lila, blau- graue und grine Tone.
+
+1910.
+
+Auf Pappe. Hohe 67 cm,Breite 5I cm. Goldrahmen. Abbildung Tafel 16.
+## 40LEBENSGROSSERENGEL
+
+Vor dem groBen Atelierfenster, durch das man auf gelbe sonnenbeschienene Hauser sieht, steht eine junge, schlanke Frau, als Engel gekleidet. Sie ist nur wenig schrag zum Bildrand gerichtet. Blondes Haar, groBe weit gespannte Flugel, gelbliches Gewand und lang schleppenden blauen Rock. Die Rechte hat sie an die Hufte gestemmt, mit der Linken rafft sie den Rock. Links im Hintergrund ein Sessel angedeutet. In sehr lichten Tonen:hellgelb,hellblau, gelblich und blaugrau gehalten. Die letzte Arbeit des Kinstlers, die er nicht mehr ganz vollendet hat.
+
+I910.
+
+Auf Leinwand. Hohe 18g cm, Breite 95 cm.Goldrahmen.
+## HANDZEICHNUNGEN.
+
+|    | 41 DREHORGELMANN. Jugendwerk 1865. Signiert.                           | Bleistiftzeichnung.                                     |
+|----|------------------------------------------------------------------------|---------------------------------------------------------|
+| 42 | ALTER MANN IN PELZROCK. Jugendwerk vor 1870. Signiert.                 | Bleistiftzeichnung.                                     |
+| 43 | SACHSISCHER SOLDAT. Ungefahr 1868.                                     | Buntstiftzeichnung.                                     |
+|    | KARIKATUR ZU EINER REITERSCHLACHT.                                     | Jugendwerk vor 1870. Buntstiftzeichnung.                |
+|    | 45 STUDIE ZU ANGRIFF DES REGIMENTS PLOTO. 1879/80.                     | Bleistiftzeichnung.                                     |
+| 46 | STUDIE ZU ANGRIFF DES REGIMENTS PLOTO. 1879/80,                        | Bleistiftzeichnung.                                     |
+| 47 | ENTWURF ZU EINEM BILD. (Sitzende Frau vor einem Tisch.) ca.1881.       | Federzeichnung. Offenbar Studie zu dem Bilde Nr.4.      |
+|    | 48 4 WEIBLICHE KOPFE. 80 er Jahre.                                     | Bleistiftzeichnung.                                     |
+| 49 | 9KOPFSTUDIEN. (Ruckseite eine weibliche, sitzende Figur.) 80 er Jahre. | Rotelzeichnung.                                         |
+|    | 50 MANN VON RUCKWARTS (hinten eine Kompositionsskizze).                | 50 MANN VON RUCKWARTS (hinten eine Kompositionsskizze). |
+- 51 ESELFUHRWERK. Zandvoort 1882. Signiert.
+- 52 LANDHUTTEN IN ZANDVOORT. 1882. Signiert.
+- 53 1882.
+
+Signiert.
+
+- 54 FISCHERBOOT IN ZANDVOORT. 1882. Signiert.
+- 55
+- FRAUEN AM STRANDE(ZANDVOORT). 1882. Signiert.
+- 56
+
+Bleistiftzeichnung. Abgebildet bei Ostini, S.16.
+
+Bleistift und Federzeichnung. Abgebildet bei Ostini, S. 13.
+
+Federzeichnung. Abgebildet bei Ostini. S. 9.
+
+Bleistift- und Federzeichnung. Abgebildet bei Ostini, S. 14.
+
+Federzeichnung.
+
+Abgebildet bei Ostini, S.12.
+
+- SKIZZEN MEHRERER FISCHER. 1882. Bleistiftzeichnung.
+- 57
+- FISCHERMADCHEN (ZANDVOORT). 1882. Federzeichnung. Abgebildet bei Ostini, S. 9.
+- 58 8FISCHERKIND. (Studie zu dem Bild:Der Leierkastenmann kommt.) Auf der Rickseite eine ahnliche Zeichnung. Bleistiftzeichnung.
+
+Abgebildet bei Ostini, S.12.
+
+- 59 HAND- UND KOPFSTUDIE EINES FISCHERKINDES. Auf der Ruickseite eine Zeichnung eines Fischerkindes. 1883.
+
+Bleistiftzeichnung. Abgebildet bei Ostini, S.8.
+
+Signiert.
+|    | 60 FISCHERKARREN. Fischers. Zandvoort 1882. Signiert.                                                                                                                                 | Auf der Rickseite eine Bleistiftskizze eines Kohlenstudie.                |
+|----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+|    | 61 STUDIE von 2 Kopfen (Fischerkindern） und 2 Handen zu dem Bilde:,Der Leierkastenmann kommt. Auf der Rickseite eine Kopfstudie und Kom- positionsentwirfe. Zandvoort 1883. Signiert. | Bleistiftzeichnung. Abgebildet bei Ostini, S. 13.                         |
+| 62 | STUDIEN ZUR TROMMELUBUNG.                                                                                                                                                             | Bleistiftzeichnung.                                                       |
+| 63 | STUDIEN ZUR TROMMELUBUNG. (Ruckseite ebenso.)                                                                                                                                         | Bleistiftzeichnung.                                                       |
+| 64 | STUDIEN ZUR TROMMELUBUNG.                                                                                                                                                             | Bleistiftzeichnung.                                                       |
+| 65 | STUDIEN ZUR TROMMELUBUNG.                                                                                                                                                             | Bleistiftzeichnung.                                                       |
+| 66 | STUDIEN ZUR TROMMELUBUNG.                                                                                                                                                             | Bleistiftzeichnung.                                                       |
+| 67 | STUDIE ZU ,LASSET DIE KINDLEIN ZU MIR KOMMEN. 8o er Jahre.                                                                                                                            | Federzeichnung.                                                           |
+|    | Rickseite betendes Kind. 8o er Jahre.                                                                                                                                                 | 68 STUDIE ZU ,LASSET DIE KINDLEIN ZU MIR KOMMEN." Auf der Federzeichnung. |
+| 69 | SKIZZE ZU,KOMM, HERR JESUS, SEI UNSER GAST."                                                                                                                                          | Bleistiftzeichnung.                                                       |
+| 70 | SKIZZE ZU ,KOMM,HERR JESUS,SEI UNSER GAST." 80 er Jahre.                                                                                                                              | Bleistiftzeichnung.                                                       |
+| 7I | FRAU UND KIND. 8oer Jahre.                                                                                                                                                            | Bleistiftzeichnung.                                                       |
+- 72 ZWEI KINDER IN DER HANGEMATTE. (Studie zu einem ausgefihrten Olgemalde.) 8o er Jahre.
+
+Bleistiftzeichnung.
+
+- 73 2 KINDER IN DER HANGEMATTE. Rickseite ein Kind. 8o er Jahre.
+- 74
+- Bleistiftzeichnung. WASCH- UND BUGLERINNEN. 8o er Jahre.
+- 75
+- 76
+- Bleistiftzeichnung. OBERBAYERISCHES DORF (GMUND).
+- 8o er Jahre. Bleistiftzeichnung.
+- STUDIE EINES HOLZORNAMENTS AN EINER VERANDA. 8o er Jahre.
+
+Bleistiftzeichnung.
+
+- 77 SITZENDE FRAU. Rickseite das Gleiche. (Wohl Studie zu einer hl.Maria.) 8o er Jahre.
+
+Bleistiftzeichnung.
+
+- 78 KIND MIT LANGEN HAAREN. Studie zur Kinderprozession. Rickseite das Gleiche. 8o er Jahre.
+- ALTE FRAU. Daneben eine Handstudie.
+
+Bleistiftzeichnung.
+
+- 79 8o er Jahre. Bleistiftzeichnung.
+- 80 STUDIE VON 2 HANDEN UND 2 KOPFEN. Ruckseite Studie zur hollandischen Nahstube. 8o er Jahre.
+
+Bleistiftzeichnung.
+
+- 81 2 KINDER. Rickseite Kompositionsskizze in Federzeichnung. 8o er Jahre.
+- 82 MANN. Rickseite Kompositionsskizze. 8o er Jahre.
+
+Bleistiftzeichnung.
+
+Kohlezeichnung.
+
+- 83 STUDIE ZU DEM BILD,DIE WASCHERIN" Gauting (8o er Jahre.) Bleistiftzeichnung. (Ahnlich wie die Kohlenzeichnung bei Ostini, S.43.)
+- 84VOGELSTUDIE. Auf der Rickseite eine Kompositionsskizze. 80 er Jahre. Federzeichnung.
+- 85 STUDIE EINES ALTEN BUTZENSCHEIBENFENSTERS. 8o er Jahre. Bleistiftzeichnung.
+- 86
+- OBERBAYERISCHES BAUERNHAUS. 8o er Jahre. Bleistiftzeichnung.
+- 87
+- GMUND AM TEGERNSEE. 1886. Bleistiftzeichnung.
+- 88 FAHNENTRAGER; Studien zur Kinderprozession. 2 Bleistiftzeichnungen auf der Vorderseite und zwei ebensolche auf der Rickseite. 1887.
+- 89 ,AUS DER KINDERSTUBE" Auf der Ruckseite eine Kompositionsskizze. Ende der 8o er Jahre. Bleistiftzeichnung.
+- 90 KINDERKOPF.
+- Ende der 8oer Jahre. Bleistiftzeichnung.
+- 91 KINDERKOPF. Ende der 8o er Jahre.
+- 92 KIND (stehend, im Profil). Ende der 8oer Jahre.
+- 93 LESENDE DAME. 90 er Jahre.
+
+Bleistiftzeichnung.
+
+Bleistiftzeichnung.
+
+Kohlezeichnung.
+
+- 94 ALTE KIRCHHOFSTURE BEI DACHAU). Auf der Rickseite eine alte Treppe. 90er Jahre.
+- ALTE KIRCHHOFSTURE (BEI DACHAU). 95 g0 er Jahre.
+- 96 DORFSTUDIE (BEI DACHAU). g0 er Jahre.
+
+Bleistiftzeichnung:
+
+Bleistiftzeichnung.
+
+Bleistiftzeichnnug.
+- 97 BAUMSTUDIE. 90er Jahre. Bleistiftzeichnung.
+- ALTE KIRCHHOFSMAUER (BEI DACHAU). Rickwarts 2 Skizzen:Arbeitender Mann und Kirchhofsmauer. (Genaue Studie zu dem Bilde ,Oster-
+
+Bleistiftzeichnung.
+
+- 98 morgen".Vgl. Rosenhagen, S.114.) 90 er Jahre.
+- DIELE EINES BAUERNHAUSES IN ETZENHAUSEN BEI DACHAU. 99 Genaue Studie zu dem Bilde ,Christus besucht eine Bauernfamile.(Vgl. Rosenhagen, S. 119.) Etzenhausen 1892.
+- IOO
+- OBERBAYERISCHE BAUERNSTUBE.Auf der Ruckseite 2 Studien: Heimkehrende Arbeiter und Bauernstube. 1892 oder 1893. Bleistiftzeichnung.
+- IOI BAUERNHAUSSTUDIE. 1892 oder 1893.
+- Auf der Rickseite:Heimkehrende Arbeiter. Bleistiftzeichnung.
+- 102 2 STALL EINES BAYERISCHEN BAUERNHOFES. 18g2 oder 93.
+- 103
+- Bleistiftzeichnung.
+- STUDIE ZU EINER BUCHILLUSTRATION. Kohlezeichnung.
+- 104 STUDIE ZUM ABENDMAHLE (zweite Fassung, in der Stuttgarter Galerie). 18g8. Pastellzeichnung.
+- 105 AKTSTUDIE ZUM CHRISTUS,FUR DAS BILD:CHRISTI HIMMELFAHRT. 1897.
+
+Kohlezeichnung.
+
+- 106 STUDIE EINES MANNES. g0 er Jahre. Kohlezeichnung.
+- STUDIE ZUM JOSEPH,FUR DAS BILD:DIE HEILIGE FAMILIE"
+
+Bleistiftzeichnung.
+
+- 107 Zweimal der holzsagende Mann. 1892.
+- 108 1892.
+- DASSELBE. Der holzsagende Mann in ganzer Figur und noch ein Kopf. Bleistiftzeichnung.
+- 10g STUDIE EINES BAUERN. Auf der Rickseite eine ahnliche Skizze und ein Kopf. 90 er Jahre.
+- IIO STUDIE EINES BAUERN. 90 er Jahre.
+
+Bleistiftzeichnung.
+
+Bleistiftzeichnung.
+
+- III PORTRAT EINES ALTEN DACHAUER BAUERN. Besonders fein gezeichnet. 1892 oder 93.
+- II2
+
+Kohlezeichnung.
+
+- 2VOM FELDE HEIMKEHRENDER ARBEITER. g0 er Jahre. Bleistiftzeichnung.
+- 113
+- AM BACHE WASCHENDE FRAU. g0 er Jahre. Kohlezeichnung.
+- II4 SPINNENDE BAUERIN. 18g2 oder 93. Auf der Ruckseite Skizze eines Bauernhauses. Bleistiftzeichnung.
+- 115 BAUERNFRAU MIT GESANGBUCH. Auf der Ruckseite Skizze von Arbeitern auf dem Felde. g0 er Jahre.
+
+Bleistiftzeichnung.
+
+- 116 STUDIE ZUM BILDE:,WEIB,WARUM WEINEST DU?"Auf der Rickseite eine ahnliche Studie. Ende der go er Jahre. Kohlezeichnung.
+- II7 EINE ZWEITE STUDIE ZU DIESEM BILDE. Auf der Rickseite eine weitere Studie zu diesem Bilde. Ende der goer Jahre. Kohlezeichnung.
+- 118 STUDIE ZU DEM BILDE:,DER HEILIGE ABEND"SCHNEELANDSCHAFT). 18g0.
+
+Auf der Rickseite eine Baumstudie. Bleistiftzeichnung.
+- 119 EINE WEITERE SOLCHE STUDIE. Auf der Ruickseite Landschaftsstudie. 18g0.
+
+Bleistiftzeichnung.
+
+- 120 STUDIE ZU DEM BILDE:,DER HEILIGE ABEND".Auf der Ruckseite eine Kohlezeichnung einer knienden Frau. 1891.
+
+Bleistiftzeichnung.
+
+Bleistiftzeichnung.
+
+- I22 EINE ZWEITE SOLCHE STUDIE. 1894. Kohlezeichnung.
+- I23 KOMPOSITIONSSTUDIE ZU DIESEM BILDE. Auf der Rickseite eine Skizze dazu. 1894.
+
+Bleistiftzeichnung.
+
+- I24 STUDIE ZUM CHRISTUS IN DIESEM BILDE. 1894. Kohlezeichnung.
+- I25 SKIZZE ZU DIESEM BILDE (MARIA MAGDALENA). 1894.
+
+Kohlezeichnung.
+
+- I26 EBENSOLCHE SKIZZE ZU DIESEM BILDE. Auf der Rickseite noch eine solche Kohlenskizze. 1894. Pastellzeichnung.
+- STUDIE ZUM ,GANG NACH EMMAUS". Rickseite eine LandschaftsI27 studie dazu.
+
+Bleistiftzeichnung.
+
+- 128 LANDSCHAFTSSTUDIE (GARDONE-SOPRA AM GARDASEE).Auf der Ruickseite Skizze einer Tur. 1901.
+
+Bleistiftzeichnung.
+
+- 129 STUDIE ZU DEM BILDE:DIE ABENDMUSIK" 1904.
+
+Kohlezeichnung in Rahmen.
+
+- I2I STUDIE ZU DEM BILDE:,NOLI ME TANGERE 1894.
+- Die knienden Konige fillen von rechts her das Zimmer. 90 er Jahre.
+
+Kohlezeichnung auf Leinwand in Rahmen. Hohe 43 cm, Breite 75 cm.
+
+- 131 STUDIE ZU DEN ,HEILIGEN DREI KONIGEN". In eine enge Holzhitte sind durch die Ture rechts die Konige eingetreten. Links liegt hinter einem Verschlag das Kind auf dem Bettchen, vor ihm steht etwas vorgebeugt die Mutter. Einer der Konige kniet, ein anderer beugt das Haupt, der dritte schreitet erst vorwarts.Joseph kommt, sich ehrerbietig verneigend,aus dem Hintergrund.
+
+g0 er Jahre.
+
+Kohlezeichnung auf Leinwand in Rahmen. Hohe 89 cm, Breite 1o7 cm. AbbildungTafel 17.
+
+- 132 AM OLBERG. Christus kniet links. Vor ihm der kauernde Engel mit dem Kelch. Scharf von einer Laterne beleuchtet. Die schlafenden Jinger nur angedeutet.
+
+90 er Jahre.
+
+Kohlezeichnung auf Leinwand in Rahmen. Hohe 59 cm, Breite 78,5 cm.
+
+- 133 STUDIE ZU DEM BILDE:,UM CHRISTI ROCK. Inmitten der hockenden Kriegsknechte breitet ein stehender den Rock aus. 1895.
+
+Kohlezeichnung auf Leinwand in Rahmen. Hohe 6o cm, Breite 79,5 cm.
+
+- I34 4 DIE HL.DREI KONIGE. Vor der Krippe, in der das Kind liegt, kniet rechts ein jugendlicher Mann, der die Hand in tiefer Bewegung auf die Brust legt. Hinter ihm steht der Mohrenkonig, der einen reichen Goldpokal in Handen halt. Neben ihm eine betende Frau. LebensgroBe Figuren in sorgfaltiger Durchfuihrung.
+
+g0 er Jahre.
+
+Kohlezeichnung auf Leinwand. Hohe 181 cm,Breite 12o cm. Goldrahmen.

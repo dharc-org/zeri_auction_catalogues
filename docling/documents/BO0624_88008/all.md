@@ -1,0 +1,947 @@
+## Verkaufs-Ordnung.
+
+Die Versteigerung geschieht nach der Reihenfolge der Nummern, doch behalt sich der Unterzeichnete ausdricklich das Recht vor,auch ausser der Reihe zu versteigern.
+
+## Bedingungen der Auktion.
+
+Nur den mit Katalogen versehenen Personen ist der Zutritt zur Aus- stellung und die Beiwohnung der Auktion gestattet.
+
+Die Versteigerung findet gegen Barzahlung statt. Der Steigerer hat ein Aufgeld von 10°/。 des Steigpreises zu entrichten.
+
+Gebote bis zu M. 100.——konnen mit M. 1.—, iber M. 100.—mit M. 5.— mindestens abgegeben werden.
+
+Wenn zwei oder mehrere Personen zugleich ein und dasselbe Gebot abgeben und die Aufforderung zur Abgabe eines hoheren Gebots erfolglos bleibt, entscheidet das Los. (Verordnung vom 10. 7. 02.)
+
+Sofern nicht ein anderes Ubereinkommen getroffen ist, steht dem Auktionator das Recht zu,Gegenstande,welche innerhalb 24 Stunden nach Ablauf der Auktion nicht bezahlt sind, fuir Rechnung des Steigerers,auf die ihm am geeignetsten erscheinende Art weiter zu verkaufen, ohne den Schuldner davon zu benachrichtigen. Fur einen etwaigen Mindererlos ist dieser haftbar, wahrend er auf Mehrerlos keinen Anspruch hat.
+
+Die Gemalde gehen beim Zuschlag in Rechnung und Gefahr des Steigerers iber. Die Aufbewahrung bis zur Zahlung und Abnahme geschieht mit mogWahrend der Dauer der Auktion ist der Auktionator nicht verpflichtet, Rechnung zu erteilen, oder lichster Sorgfalt, jedoch auf Gefahr des Steigerers. —— Ersteigertes, sollte es gleich bezahlt sein, abzugeben.
+
+Die Kunstwerke werden in dem Zustande verkauft, in welchem sie sich befinden. Reklamationen nach erfolgtem Zuschlag konnen nicht bericksichtigt werden, da die Ausstellung Gelegenheit zur Prifung bietet. Die Bezeichnungen sind nach den Angaben des Vorbesitzers beibehalten. Die im Katalog befindlichen Angaben und Beschreibungen werden nicht gewahrleistet. Die Masse sind in Zentimeter angegeben. Die erste Zahl bedeutet die Hohe, die zweite Zahl die Breite.
+
+Auftrage und Gebote werden angenommen und durch zuverlassige Kommissionare gegen die ibliche Provision auf das Gewissenhafteste ausgefihrt.
+
+Frankfurt a. M.
+
+Telephon Amt I, 547.
+
+## Rudolf Bangel.
+
+Fir etwaigen, bei unsachgemassem Anfassen der Gemalde entstandenen Schaden ist der Besucher haftbar.
+## 1. ALLEGRE （Antoine) dit le CORREGE —1494——1534, Correggio.
+
+## Ascension.
+
+La double incarnation de Dieu et de la Sainte Vierge Marie entoures d'anges que cette oeuvre magistrale represente n'a jamais ete plus heureuse- ment traitee.
+
+Cette composition grandiose est empreinte d'une grace parfaite.Le coloris en est harmonieux et brillant, la touche pure et moelleuse et lensemble degage une rare impression de pure beaute.
+
+## Himmelfahrt.
+
+Die Personifikation Gottes und der Jungfrau Maria, von Engeln um geben, wurde kaum jemals glicklicher behandelt.
+
+Die grossartige Komposition tragt das Geprage einer vollendeten Anmut. Die Farbengebung ist harmonisch und kraftig, die Pinselfihrung rein und zart, das Ganze erweckt den Eindruck vollendeter Schonheit.
+
+(Siehe Abbildung Tafel I.)
+
+## 2. BONINGTON (Richard Parkes) —1801—1821, Londres.
+
+## Retour de la Foret.
+
+Sur le chemin detrempe un charretier excite les trois puissants per- cherons qui trainent les fuits de chenes abattus dans la foret proche.
+
+Tout autour la campagne s'etend nue vers l'horizon noye et cerne de nuages uniformement gris qui recouvrent tout le ciel.
+
+A droite du village ou va s'engager lattelage un moulin dresse sa silhouette monotone dans ce paysage automnal.
+
+Oeuvre toute de sincerite ou la forte technique du maitre se manifeste en sa plenitude.
+
+## Holzabfuhr.
+
+Auf dem ausgefahrenen Weg treibt der Fuhrmann sein Dreigespann an, das die machtigen Eichstamme, welche im nahen Walde geschlagen wurden, dem Dorf entgegen zieht, bei dem sich die eintonige Silhouette einer Muhle von dem herbstlichen Himmel abhebt.
+
+Diesen bedecken einformig weisslichgraue Wolken, die den weiten
+
+Horizont der flachen Landschaft begrenzen.
+
+Werk, in dem sich die Ehrlichkeit und das eminente Konnen des Meisters in seiner vollen Grosse offenbaren.
+
+(Siehe Abbildung Tafel Il.)
+
+Toile — Hauteur m 0,75 — Largeur 1,05.
+
+Toile Hauteur m 0,65 —Largeur m 1,36.
+## Wascherinnen.
+
+Ein klares Bachlein fliesst am Fusse grosser Baume.Wascherinnen
+
+Eine Herde von Gansen setzt in das saftige Grin der heiteren Landschaft weisse Lichter.
+
+verrichten ihre Arbeit, indes ein kleiner Knabe neben ihnen sein Spiel treibt.
+
+Gemalde von breiter, schoner Mache und sorgfaltiger, glicklicher Komposition.
+
+(Siehe Abbildung Tafel ll)
+
+## 4. BREUGHEL (Pierre) le Jeune dit d'Enfer 15641638, Anvers.
+
+## L'incendie de Sodome.
+
+Tandis que l'incendie devore la ville coupable, Loth et sa famille
+
+Toile — Hauteur m 0,59 ——Largeur m 0,98.
+
+s'enfuient guide par l'ange qui lui conseille de ne point detourner la tete.
+
+## Der Untergang von Sodom.
+
+Indessen die Feuersbrunst die sindige Stadt verzehrt, entflieht Loth mit seiner Familie, gefihrt von dem Engel, der den Rat erteilt, nicht zurick zu blicken.
+
+## 3.BOULANGE (Louis) 一 Contemporain.
+
+## Laveuses au bord d'un ruisseau.
+
+Un clair ruisseau coule au pied de puissants aubiers. Des laveuses
+
+Des troupeaux d'oies jettent ici et la des taches blanches dans la verdure de ce riant paysage.
+
+rincent leur lessive tandis qu'un jeune garconnet s'amuse pres d'elles.
+
+Tableau d'une large et belle facture d'une composition soignee et heureuse. Signe L. Boulange.
+
+Toile —— Hauteur m 0,91 — Largeur m 0,67.
+## 5. CANAL （Antonin) dit Le Canaletto —16971768,Venise.
+
+## Canal a Venise.
+
+Une serie de constructions forment le fond du tableau sous le ciel d'un bleu intense sur lequel se detache un leger nuage blanc.
+
+Au premier plan sur l'eau opaque du canal des gondoles vont et viennent animant l'ensemble un peu grave de l'euvre.
+
+Toile —— Hauteur m 0,50 - Largeur m 0,75.
+
+## Kanal in Venedig.
+
+Eine Reihe imposanter Palaste bildet den Hintergrund des Gemaldes, unter einem intensiv blauen Himmel in dem leichte weisse Wolkchen schwimmen.
+
+Im Vordergrund bringen Gondeln, die auf dem dunklen Wasser hin und wieder fahren, Leben und Bewegung in das etwas ernste Bild.
+
+(Siehe Abbildung Tafel IV.)
+
+## 6. CASANOVA (Francois)  1730—1805, Brihl pres de Vienne.
+
+## Paysage avec animaux.
+
+Tandis que la bergere, au pied d'un arbre devant la mer surveille ses animaux, survient un chasseur qui lui declare la trouver a son gout.
+
+Effrayee elle se recule mais le fruste amoureux lui saisit le poignet tandis que son chien, tranquillement, regarde la scene.
+
+Signe a gauche.
+
+Toile — Hauteur m 0,50 —Largeur m 0,62.
+
+## Landschaft mit Vieh.
+
+Unter einem grossen Baum am Meer sitzend, hitet die Hirtin ihre Herde, ein herzukommender Jager scherzt mit ihr, indessen der Hund den
+
+Vorgang ruhig betrachtet.
+## 7. CHARLET (Nicolas Toussaint) 17921845, Paris.
+
+## Episode de la retraite de russie.
+
+Une colonne de Francais harcelee par des Cosaques repousse leur attaque - Officiers et soldats sont confondus en une lamentable melee — On voit ca et la dans la campagne des debris d'affuts de canons et des cadavres que recouvre la neige.
+
+Esquisse du celebre tableau du Musee de Lyon.
+
+Toile —Hauteur m 0,40 ——Largeur m 0,60
+
+## Episode aus dem Rickzug der grossen Armee.
+
+Eine franzosische Kolonne, die von Kosaken iberfallen wird,erwehrt sich der Angriffe, Offiziere und Soldaten in klaglichem Durcheinander.Man sieht im Felde zerstreut Lafetten und Leichen, welche der Schnee zudeckt.
+
+(Skizze zu dem berihmten Gemalde im Museum von Lyon.)
+
+## 8. COR0T (Camille-Jean-Baptiste) -—1796-1875, Paris.
+
+## Le Pecheur.
+
+Entre les murs de maisons blanches,la riviere coule limpide. Sur l'angle d'un mur, un paysan peche placidement. Oeuvre de jeunesse de Corot, ou deja se revele les qualites du genial artiste.
+
+Signe Corot.
+
+Panneau bois ——Hauteur m 0,32 ——Largeur m 0,46.
+
+## Der Fischer.
+
+Zwischen weissen Hausern fliesst ein klares Flisschen. Auf einer Mauerecke fischt geruhsam ein Bauernbursche.
+
+Jugendwerk des Meisters in dem sich die grossen Eigenschaften des Genies bereits offenbaren.
+
+(Siehe Abbildung Tafel V.)
+## 9.COROT (Camille-Jean-Baptiste) —1796—1875,Paris.
+
+## Ville forte en Italie.
+
+Au milieu de secheresses qui indiquent les decisions d'un grand artiste a ses debuts; c'est un dessin ferme avec une bonne perspektive aerienne.
+
+Toile —Hauteur m O,10 —Largeur m 0,17.
+
+## Italienische Festung.
+
+Ungeachtet der Trockenheit, welche die Anfange des grossen Meisters bezeichnet, sehen wir sichere Zeichnung und treffliche Luftperspektive.
+
+(Siehe Abbildung Tafel IX.)
+
+## 10.COURBET (Gustave) ——1819-—1877,Paris.
+
+## La source.
+
+Sous les branches enchevetrees des grands chenes, la source sourd du sol jalonne de rochers. Sur lun d'eux, timidement, vient se desalterer une gracile biche dont la robe grise se confond au gris des rochers.
+
+C'est un delicieux coin de foret a lapproche de lautomne, un des sites favoris du maitre paysagiste qui affectionnait particulierement la foret, ses rochers et ses biches.
+
+Signe G. Courbet.
+
+Toile — Hauteur m 0,72 — Largeur m 0,91.
+
+## Die Quelle.
+
+Unter dem Gewirr der Aeste und Zweige machtiger Eichen, entspringt die Quelle dem von Felsen umgebenen Boden. Ein zierliches Reh, dessen graues Fell sich dem Grau des Felsens eint, kommt furchtsam zur Tranke.
+
+Ein lieblicher Waldwinkel bei herannahendem Herbst, eine der Lieblingsansichten des grossen Meisters der Landschaft, der besonders den Wald, seine Felsen und seine Rehe in den Kreis seiner Darstellungen zog.
+
+(Siehe Abbildung Tafel Il.)
+## 1l. COYPEL (Antoine) —— 1661——1722, Paris.
+
+## Triomphe d'Amphitrite.
+
+La deesse soutenue par ses suivantes et environnee d'amours ailes et folatres est trainee sur une conque marine par un dauphin, tandis qu'un des esprits de la mer sonne de la trompe en signe d'allegresse. Au haut d'un -rocher, dominant la mer immense, Neptune assis suit d'un regard complaisant ce cortege de beaute et de joie.
+
+Composition bien comprise ou se trouvent reunis la grace des attitudes, le charme des figures, la science du dessin, un coloris plein de vie, la magnifique ordonnance. ..
+
+Toile —- Hauteur m 0,43 —— Largeur m 0,54.
+
+## Triumph der Amphitrite.
+
+Die Gottin, unterstitzt von ihrem Gefolge und von mutwilligen geflugelten Amoretten umigeben, wird auf einer Muschel von Delfin gezogen, ihr voran ein Triton, der frohe Weisen blast. Auf einem Felsen der das unermessliche Meer beherrscht, sitzt Neptun und blickt wohlgefallig auf den Zug der Schonheit und Freude.
+
+Gute Komposition, in der sich Grazie der Stellungen, Zauber der Schonheit, gute Zeichnung und lebensvolles Kolorit einen.
+
+## 12. DAUBIGNY (Karl-Pierre) 1846——1886, Paris.
+
+## Village pres de la greve bretonne.
+
+Au loin un village; sous un ciel gris, sur fa route chemine une paysanne.
+
+Signe Karl Daubigny.
+
+Toile — Hauteur m 0,36  Largeur m 0,53.
+
+## Dorf in den bretonischen Duinen.
+
+eine Bauerin.
+## 13.DAUMIER (Honore) —1808-—1879,Valmondois (Seine et 0ise).
+
+## Au cabaret.
+
+Trois hommes mi-vetus sont attables dans un modeste cabaret. L'un d'eux, ivre sans doute, s'est endormi sur la table. Une servante apporte un broc de biere.
+
+Tres large esquisse ou pourtant se reflete le talent du grand caricaturiste.
+
+Signe H. D.
+
+Toile — Hauteur m 0,32 —Largeur m 0,39.
+
+## In der Kneipe.
+
+Drei leicht gekleidete Manner um einen Tisch. Der eine, ohne Zweifel berauscht, ist auf dem Tisch eingeschlafen, die Magd bringt einen Krug Bier. Breit gemalte Skizze, in der das Talent des grossen Karikaturisten sich zeigt.
+
+(Siehe Abbildung Tafel V.)
+
+## 14. DAVID (Jacques-Louis) —— 1748-1825, Bruxelles.
+
+## Napeleon Bonaparte passant les Alpes.
+
+Telle une effigie equestre sur son piedestal, Napoleon en tenue de campagne — nerveux et juvenile 一 chevauche un fougueux coursier gris. Son manteau de pourpre au vent, le jeune General montre du doigt aux soldats de la Republique la barriere de montagnes qui les separe de la Lombardie.
+
+Le dessin est correct et beau. La maniere est large avec un coloris un peu severe.
+
+En bas a gauche se detachent les inscriptions:
+
+Bonaparte. Annibal. David.
+
+Panneau bois — Hauteur m 0,54 — Largeur m 0,48.
+
+## Napoleon die Alpen iberschreitend.
+
+Gleich einer Reiterstatue auf ihrem Piedestal, reitet Bonaparte in Feldein feuriges graues Schlachtross. Sein Purpurmantel weht im Wind und der junge General zeigt den Soldaten ausristung kraftig und jugendlich 1—6 der Republik die Gebirgsbarriere, die sie von der Lambardei trennt.
+
+Die richtige Zeichnung ist schon, die Pinselfuhrung breit mit etwas ernstem Kolorit.
+## 15.DEBUCOURT (Louis-Philibert) —1755-—1832, Paris.
+
+## Marie Antoinette a la Conciergerie.
+
+de monter dans la fatale charrette qui la conduira a lechafaud, donne ses dernieres instructions et semble repousser du geste le verre que lui tend un de ses bourreaux. Toile — Hauteur m 0,29 --Largeur m 0,44
+
+Entouree de bas Jacobins et assistee d’un ami fidele, la reine, avant
+
+## Marie Antoinette in der Conciergerie.
+
+fuhren soll.
+
+Die unglickliche Konigin, umgeben von pobelhaften Jacobinern, begleitet von einem treuen Freunde, erteilt ihre letzten Befehle und stosst mit einer Geberde des Abscheus ein Glas zurick, das ihr einer ihrer Henker darbietet, bevor sie den verhangnisvollen Wagen besteigt, der sie zum Schaffot
+
+## 16.DECAMPS (Alexandre-Gabriel) ）—1803——1860, Fontainebleau.
+
+## Le retour au village.
+
+salue au passage d’un rapide bonjour la paysanne qu'il rencontre.
+
+Par le chemin defonce un paysan sur son ane rentre au village et
+
+Oeuvre. d'une technique puissante admirablement construite.
+
+## Die Heimkehr.
+
+Toile —Hauteur m 0,84 ——Largeur m 0,65.
+
+Auf einem Hohlweg am Fuss machtiger Felsen, kehrt ein Bauer auf seinem Esel zum Heimatdorf zurick und begrisst im Voribergehen eine ihm begegnende Bauerin.
+
+(Siehe Abbildung Tafel V.)
+
+Werk von grossartiger Mache und bewundernswertem Aufbau.
+
+## 17.DECAMPS (Alexandre-Gabriel)
+
+Patre Napolitain.
+
+Un jeune patre est assis sur un roc devant la mer.
+
+## Neapolitaner Hirte.
+
+## —1803—1860,Fontainebleau.
+
+Toile — Hauteur m 0,41 — Largeur m 0,32.
+
+Ein junger Hirte sitzt auf einem Felsen am Meer.
+## Madchen mit Hund.
+
+Die Kleine sitzt, an ihren treuen Kameraden geschmiegt, vor einem grinen Bosket, das diese einfache Darstellung in Wirkung setzt. Die Zeichnung ist leicht und flissig,von reizendem koloristischem Effekt.
+
+## 19. DUPRE (Jules) —— 181l——1889, Isle-Adam.
+
+## Chataigniers en lisiere de bois (Foret Fontainebleau.)
+
+Sous un groupe de chataigniers seculaires un berger assis surveille le troupeau qui doit paitre sur l'autre versant du vallon. Derriere lui, le chien fidele attend l'appel du maitre. Impressionnante page de peinture ou la beaute du dessin se complete de la savante technique du paysagiste estime de l'ecole
+
+Signe J. D. de Barbizon.
+
+Toile —Hauteur m 1,10 -Largeur m 0,78.
+
+## Kastanienbaume am Waldrand (Wald von Fontainebleau.)
+
+Unter einer Gruppe hundertjahriger Kastanien sitzt der Schafer, der seine am gegeniberliegenden Abhang des Talchens weidende Herde iber- wacht. Sein treuer Hund erwartet hinter ihm den Ruf des Herrn.
+
+Eindrucksvolles Werk,in dem die Schonheit der Zeichnung sich der weisen Technik des berihmten Landschafters aus der Schule von Barbizon eint. (Siehe Abbildung Tafel VI)
+
+## 20. DUPRE (Leon Victor) — 1816—1879, Paris.
+
+## Paysage.
+
+Sur la lisiere du bois que borde la riviere se dresse un chene seculaire sous un ciel menacant.
+
+La silhouette d’une paysanne se profile au pied du grand chene.
+
+2——Largeur m 0,31. Carton —Hauteur m O,22
+
+## Lan dschaft.
+
+Am Waldrand, den ein Fluisschen begrenzt, erhebt sich eine machtige hundertjahrige Eiche, unter drohendem Gewolk. Eine Bauerin sieht man am Fuss des Baumes.
+
+## ）——18071876,Mentone.
+
+## 18. DIAZ de la PENA (Narcisse-Virgilio)
+
+## Petite fille au chien.
+
+L'enfant est assise, son compagnon fidele tout pres d'elle. Un bosquet verdoyant met en valeur cette menue scene, d'un dessin lache,mais colorie et d'un effet charmant.
+
+Signe en bas a gauche N. Diaz.
+
+Panneau bois —— Hauteur m 0,15 —Largeur m 0,11.
+## 21.ECOLE FRANCAISE XVlll siecle.
+
+La declaration.
+
+Die Liebeserklarung. (Rotstift.)
+
+Sanguine — Hauteur m 0,20 —— Largeur m 0,15.
+
+## 22. ECOLE FRANCAISE
+
+Enfant au panier.
+
+Sanguine traitee avec toute la legerete et la grace qui caracterise cette belle epoque de l'Art Francais.
+
+Kind mit Korb.
+
+Hauteur m 0,51 — Largeur m 0,38.
+
+Rotstiftzeichnung, mit der vollen Leichtigkeit und Grazie behandelt, durch welche diese vortreffliche franzosische Kunstepoche sich auszeichnet.
+
+## 23. ECOLE FRANCAISE  XVII siecle.
+
+## Ruines dans un parc.
+
+Au premier plan, majesteuses autant qu'elegantes se dressent les ruines d'une porte monumentale qui semble donner acces a un immense parc.
+
+Un mendiant presque nu s'efforce d'attirer sur lui l'attention des visi-
+
+Une seconde porte se detache sur le fond, reliee a la premiere par un mur garni de plantes.
+
+teurs de marque qui viennent de franchir la porte.
+
+D'autres personnages jettent ici et la une note de couleurs et anime lensemble harmonieux de cette oeuvre traitee avec maitrise et un grand sens decoratif.
+
+Ruinen in einem Park.
+
+Toile — Hauteur m 1,00 —Largeur m 1,30.
+
+Im Vordergruud die Ruinen eines ebenso majestatischen wie eleganten
+
+Weitere Figuren bringen Farbennoten in das Werk und beleben es har- monisch, das mit Meisterschaft und grossem dekorativem Empfinden behandelt ist.
+
+monumentalen Portikus, der zu einem riesigen Park zu fihren scheint. Ein zweites Tor weiter im Hintergrund ist mit jenem durch eine pflanzenbedeckte Mauer verbunden. Ein wenig bekleideter Bettler sucht die Aufmerksamkeit der vornehmen Besucher auf sich zu lenken, welche das Tor durchschreiten.
+
+## E——xvllle siecle.
+## L'annonciation.
+
+Un ange revetu d'un costume sacerdotal murmure a la Vierge Marie
+
+(agenouillee devant un pupitre sur lequel repose un livre) sa grossesse miraculeuse. En haut, au milieu d'un groupe d''anges, l'Esprit-Saint domine la scene.
+
+Il existe peu d'oeuvres de cette importance et de cette epoque qui aient mieux resiste aux injures du temps. La fraicheur des coloris est a ce point conservee qu'il semblerait que ce tableau soit recent.
+
+Panneau bois — Hauteur m 1,12 - Largeur m 0,95.
+
+Cadre bois sculpte.
+
+## 24. ECOLE ITALIENNE —xvr Siecle.
+
+## Die Verkindigung.
+
+Der Engel im Priestergewand verkindet der Jungfrau Maria — die vor einem Pult kniet, auf dem ein Buch ruht — das bevorstehende Wunder. Oben, inmitten einer Engelgruppe, der heilige Geist in Gestalt einer Taube.
+
+Wenige Werke dieser Epoche, und von ahnlich grossem Kunstwert, haben den Unbilden der Zeit so gut widerstanden. Die Frische der Farben ist in derart hohem Masse erhalten, dass man glauben konnte, ein modernes
+
+Gemalde vor sich zu haben.
+
+Geschnitzter Holzrahmen.
+
+(Siehe Abbildung Tafel VHl.)
+
+## 25. GERICAULT (Jean Louis Andre Theodore) —— 17911824, Paris.
+
+## Grenadier a Cheval.
+
+Sur un bel alezan se tient, non sans une certaine raideur, un jeune grenadier dont le regard attentif scrute lhorizon comme pour y decouvrir un invisible ennemi.
+
+## Grenadier zu Pferde.
+
+Auf einem schonen Fuchs sitzt der junge Grenadier, dessen aufmerksames Auge den Horizont absucht, wie um dort den unsichtbaren Feind zu entdecken.
+
+Belle etude, tres largement traitee.
+
+Toile — hauteur m 0,55 —Largeur m 0,44.
+
+Breit behandelte schone Studie.
+## 26.DE G0YA Y LUCIENTES (Francisco Jose)—17461828, Bordeaux.
+
+## Course de taureaux.
+
+Toreadors, picadors et leurs suivants entourent un taureau courrouce.
+
+On devine au fond une foule parpitante.
+
+Plaque de fer —Hauteur m 0,31 ——Largeur m 0,42. Stierkampf.
+
+Toreadores, Picadores und ihr Gefolge umgeben den witenden Stier.
+
+Im Hintergrund gewahrt man die aufgeregte Zuschauermenge.
+
+(Siehe Abbildung Tafel VIIl)
+
+## 27. GOYA Y LUCIENTES (Francisco Jose)1746——I828, Bordeaux.
+
+## Le toreador.
+
+Devant la foule massee sur les gradins de l'arene le Toreador se precipite vers le taureau deja blesse et dont le mufle irrite s'incline vers le sol.
+
+Plaque de fer - Hauteur m O,31 —Largeur m 0,42.
+
+## Der Toreador.
+
+Vor der sich auf den Rangen der Arena drangenden Menge, wirft sich der Toreador auf den verwundeten Stier der den Kopf in seiner Wut zu Boden senkt.Pendant z. Vor. (Siehe Abbildung Tafel VIII).
+
+## 28.GREUZE (Jean-Baptiste) ）——1725-—1805,Paris.
+
+## Paris et Helene.
+
+Une debauche de chairs d'un rose pale. Imprecises, se detachent de gracieuses formes de jeunes femmes et d'amours.
+
+Paris tend ses bras a Helene qui sanglote, lyre vivante, d'ou jailliront les plus douces notes d'amour.
+
+Toile —Hauteur m 0,18 —Largeur m 0,24.
+
+## Paris und Helena.
+
+Eine Fuille Fleisches im blassen Rosa. Unbestimmt losen sich die graziosen Formen junger Frauen und Amoretten. Paris streckt die Arme nach Helena aus, nach der lebenden Harfe, aus welcher die zartesten Liebestone erschallen werden. (Siehe Abbildung Tafel IX.)
+## Die Malerin.
+
+Im Sand am Meeresstrand, sitzt vor ihrer Staffelei eine junge Frau, im Begriff die Studie zu malen, welche ihr die Ruhe und Schonheit ihres Lieblingsplatzchens im Gedachtnis halten wird.
+
+## 31.JAcQUE (Charles-Emile) 18131894,Paris.
+
+## Interieur de ferme.
+
+Sous les hangars de la ferme un cheval blanc harnache attend l'heure
+
+Des canards et des poules animent la courette.
+
+de partir aux champs.
+
+Tableau fin admirabie de dessin.
+
+Panneau bois —Hauteur m 0,10 —Largeur m 0,11.
+
+## Inneres eines Bauernhofs.
+
+Vor einem Schuppen steht der Schimmel, welcher, bereits angeschirrt, die Fahrt ins Feld erwartet. Enten und Hihner beleben den Hof.
+
+Feines Bild von bewundernswerter Zeichnung.
+
+## 29. DE HAUZEN (A) Contemporain.
+
+## L'Usine elektrique. (Aquarelle.)
+
+Au pied d'importantes carrieres et surmontant un canal asseche, ont ete installes les baraquements de lusine electrique qui fournit a la ville proche
+
+Decor hivernal, habile et transparent.
+
+## Das Elektrizitatswerk.
+
+l'energie necessaire a son eclairage.
+
+Signe A. de Hauzen 1908.
+
+Carton —Hauteur m 0,50 —Largeur m 0,53.
+
+Am Fuss grosser Steinbriche und iber einem ausgetrockneten Wasserlauf, erheben sich die Gebaulichkeiten und Werkstatten, in denen die Energie erzeugt wird, welche der nahen Stadt das Licht liefert. Winterstimmung, ge- schickt und transparent gemalt.
+
+## 30. HOLMES (G.A.) —— Contemporain, Londres.
+
+## La femme peintre.
+
+Assise au milieu des galets devant la mer, une jeune femme, son du site prefere.
+
+Signe Holmes.
+
+Panneau bois —Hauteur m 0,33 —Largeur m 0.24.
+## 32. JAcOMIN (Alfred-Louis) Nee 1843 a Paris.
+
+## Chanson a Boire.
+
+Dans un interieur, deux gentilhommes Louis Xlll. L'un, assis, vetu en Cavalier, joue du violon, tandis que l'autre debout appuye contre une table,
+
+Table d'une grande qualite, d'un tres joli et brillant coloris. Signe A. Jacomin.
+
+le verre en main, chante les airs que joue son compagnon.
+
+Toile —Hauteur m 0,80 —Largeur m 0,65
+
+Am Fuss einer Treppe im Innern des Hauses zwei Edelleute aus der Zeit Louis Xll.  Der eine spielt die Violine, indess sein Kamerad, an einen Tisch gelehnt, das Glas in der Hand halt und die Weisen des Spielers mit Gesang begleitet.
+
+Bild von bedeutenden Qualitaten und einem schonen brillanten Ton.
+
+## 33.JOLIVARD (Andre) —1787—1851,Paris.
+
+## Une Clairiere.
+
+Dans une clairiere trois cerfs et biches, effrayes par l'arrivee d'une paysanne, de son enfant et d'un chien, se precipitent vers la mare.
+
+## Die Waldlichtung.
+
+Toile ——Hauteur m 0,36 —Largeur m 0,52.
+
+Drei Hirsche und Hirschkihe, von dem Erscheinen einer Bauerin mit Kind und Hund erschreckt, stirzen nach dem Wasser in einer Waldlichtung.
+
+## 34. KUWASSEG (Charles Joseph) ——1802-1877,Nanterre.
+
+## Grosse Mer.
+
+Sur les ruines d'un phare, jete a terre autrefois par la tempete, une vague furieuse vient se briser.
+
+Signe Kuwasseg 68.
+
+Des marins qui semblent échappes d'un navire qui au loin a le feu a bord, essaient de regagner la cote.
+
+## Stirmische See.
+
+Toile —Hauteur m 0,47 —Largeur m 0,74.
+
+An den Ruinen eines Leuchtturms, der vor Alters von den Wogen zerstort worden, bricht sich eine witende Welle. Seeleute, welche von einem Schiff, das in der Ferne in Brand steht, sich augenscheinlich gerettet haben, suchen das Land zu gewinnen.
+
+Signe Jolivard 1828.
+## 35.LACROIX (De Marseille) —XvlllSiecle 1779
+
+## (Eleve de J. Vernet.)
+
+L'entree d'un port.
+
+Panneau bois —Hauteur m 0,36 6—Largeur m 0,54.
+
+Hafeneinfahrt.
+
+## —XVIl1 Siecle 1779
+
+- 36.LACROIX (De Marseille) (Eleve de J. Vernet.)
+
+Mer demontee.
+
+Panneau bois —Hauteur m 0,36 -Largeur m 0,54.
+
+Ruhige See. Pendant z. Vor.
+
+- s—1769—1830,Londres.
+- 37.LAWRENCE Sir Thomas
+
+## Portrait de jeune femme.
+
+Gracieuse silhouette de jeune femme dont l'abondante chevelure blonde se deroule en larges boucles sur les epaules.
+
+Un grand chapeau de paille encadre son charmant visage.
+
+Toile largement peinte qui rappelle bien la maniere du grand maitre. Toile —Hauteur m 0,92 2—Largeur m 0,72.
+
+Cadre bois sculpte.
+
+## Junge Dame.
+
+Anmutvolles Bildnis einer jungen Frau, deren reiches blondes Haar in Locken auf die Schultern fallt. Ein grosser Strohhut umrahmt das reizende
+
+Gesicht.
+
+Breitgemaltes Bild, das fir die Art des grossen Meisters charakteristisch ist. Geschnitzter Holzrahmen. (Siehe Abbildung Tafel X.)
+
+## 38.LE POITTEVIN (Eugene Modeste Edmond) —18061870,
+
+## Auteuil pres de Paris.
+
+## Devant la mer.
+
+Sur des poutres et des debris de barques un groupe d'enfants de pecheurs se reposent ou s'amusent.
+
+Sur le fond la falaise se dresse en une masse imposante en face de la mer bleue. Signe Le Poittevin.
+
+## Am Meer.
+
+Eine Gruppe Fischerkinder spielt auf Balken und Schiffstrimmern am Meeresstrand. Dahinter dehnt sich weit das blaue Meer.
+
+(Siehe Abbildung Tafel VIIl.)
+
+Toile —Hauteur m 0,32 ——Largeur m 0,40.
+## 39. MICHEL-ANGE (Ecole de)
+
+## Le jugement dernier.
+
+Ce tableau constitue par plus d'un point une replique du chef-d'oeuvre deMichel-Ange, sans cependant en etre une copie, car il comprend de nombreuses variantes sur l'original.
+
+ll est en outre de la meme epoque et son execution forte et soignee garante qu'il emane d'un maitre au talent indiscutable et merite de prendre place dans les meilleures collections.
+
+Cuivre ——Hauteur m 0,90 ——Largeur m 0,64.
+
+## Das jungste Gericht.
+
+Dieses Gemalde erscheint nach verschiedenen Richtungen als eine Wiederholung des Meisterwerks von Michel Angelo, denn es ist keine Kopie, weil es zahlreiche Abweichungen vom Original aufweist. Es ist ausserdem von der Zeit aus dem Beginn des XVl. Jahrhunderts und die vorzigliche, sorgfaltige Ausfuhrung spricht dafur, dass es von einem hochtalentierten grossen Meister gemalt wurde, so dass es wirdig ist, einer ersten Galerie eingereiht zu werden.
+
+## 40.MILLET (Jean Francois)  18141875,Barbizon
+
+## La Chercheuse de Truffes.
+
+Dans un coin touffu de bois une jeune paysanne tenant a la main
+
+Tableau impressionnant de simplicite et traite dans la maniere puissante un grand baton conduit deux porcs a la recherche des truffes.
+
+du celebre paysagiste.
+
+## Die Triffelsucherin.
+
+In einem dicht belaubten Waldwinkel fihrt eine junge Bauerin, die einen grossen Stock in der Hand halt, zwei Schweine zur Triffelsuche.
+
+In seiner Einfachheit eindrucksvolles und die gewaltige Kunst des berihmten Landschafters charakterisierendes Bild.
+
+(Siehe Abbildung Tafel VI.)
+
+Toile —Hauteur m 0,87 —Largeur m 0,70.
+
+## 1474—1564,Rome.
+## 41. MILLET (Jean Francois) 1814——1875,Barbizon.
+
+## Fermiere recurant une Bassine.
+
+La fermiere, ayant a ses cotes son petit garcon, nettoie une bassine. Derriere elle des oies barbottent et regardent.
+
+Signe J. F. M.
+
+Dessin aux 2 crayons.— Hauteur m 0,48 Largeur m 0,39.
+
+## Bauerin einen Kessel reinigend.
+
+Zur Seite ihren kleinen Knaben, hinter ihr schnatternde, zuschauende Ganse, ist die Bauerin im Begriff, einen Kessel zu reinigen.
+
+(Siehe Abbildung Tafel IX.)
+
+## 42. MIRALLES （Francisco) + Barcelone.
+
+## Jeune femme au chien.
+
+Dans son interieur une femme debout est accoudee au dossier d'une chaise sur laquelle est assis un griffon.
+
+Signe F. Miralles 1875.
+
+Toile —Hauteur m 0,50 —Largeur m 0,34.
+
+## Junge Frau mit Hund.
+
+Sie steht auf einen hochlehnigen Stuhl gestitzt, auf dem ihr Hundchen sitzt, im Boudoir.
+
+## 43.MONGoDIN (Victor) —Contemporain. Nee I819 Vire (Dep.Calvados).
+
+## Animaux Tues.
+
+D'un carnier encore suspendu ont ete retires un gros lievre et une perdrix gracile qui gisent a terre.
+
+Signe V. Mongodin.
+
+Panneau bois ——Hauteur m O,11 — Largeur m 0,12.
+
+## Stilleben.
+
+In einer Landschaft hangt am Baumstumpf die Jagdtasche, der Hase und Rebhuhn entnommen sind, die daneben am Boden liegen.
+## 44.De NEUVILLE (Alphonse) attribue —18361885, Paris.
+
+## Combat d'Amazones.
+
+Au milieu d'un cirque de hautes montagnes une armee d'Amazones est surprise par les barbares. C'est une melee de chevaux et blesses, impressionnante par le mouvement des Combattants et la beaute du site.
+
+Panneau bois —Hauteur m 0,88 —Largeur m 1,20.
+
+## Amazonenschlacht.
+
+Inmitten hoher Gebirge wird eine Amazonen-Armee von den Barbaren iberrascht. Das Durcheinander von Pferden und Verwundeten wirkt, gleich der lebendigen Bewegung der Kampfenden und der Schonheit der Landschaft, sehr eindrucksvoll.
+
+45.N0EL (Jules) —1815—188l, Algier.
+
+## L'offrande a la madone. (D'apres Paul Delaroche.)
+
+Pres d'une fontaine monumentale, sous un olivier gigantesque une troupe d'Italiens et Italiennes deposent aux pieds de la madone, des fleurs et des fruits.
+
+Coloris chaud et brillant.
+
+Signe Jules Noel d’apres Paul Delaroche.
+
+Toile -Hauteur m 0,34 Largeur m 0,54.
+
+Gabe an die Jungfrau. (Nach Paul Delaroche.)
+
+Unter einem riesigen Olivenbaum steht ein monumentaler Brunnen mit Madonnenstatue, der Italiener beiderlei Geschlechts ihre Gaben an Blumen und Frichten darbringen.
+
+Warme, glanzende Farbengebung.
+## Le Chateau.
+
+Sous les feuillages d'arbres seculaires, le Chateau dresse son élegante silhouette, a ses pieds coule la riviere et l'horizon sans fin s'etend a ses
+
+Gouache —Hauteur m 0,36 —Largeur m 0,55.
+
+regards.
+
+## Das Schloss.
+
+Im Durchblick unter dem Laub hundertjahriger Baume, sieht man die edlen Linien der Architektur, um deren Mauern fliesst ein Flusschen, dahinter dehnt sich der weite Horizont.
+
+## 47.RICHET (Leon) —Paris.
+
+## Coin de village - Effet d'orage.
+
+Sur un coin de village ou quelques chetives masures sont dissemi un orage proche.
+
+Page de peinture simple et vraie, caracterisant a merveille le talent de Richet, ce digne continuateur de lecole de Barbizon.
+
+Signe Leon Richet 72.
+
+Panneau bois —— Hauteur m 0,46 —Largeur m 0,62.
+
+## Dorfpartie -Herannahendes Wetter.
+
+Ueber den zerstreut liegenden elenden Hutten und Mauerresten erheben sich am Horizont schwere Wolken, die den nahenden Sturm verkinden.
+
+Einfache und naturwahre Darstellung, die das unvergleichliche Talent Richets, dieses Fortsetzers der Schule von Barbizon wunderbar karakterisiert.
+
+(Siehe Abbildung Tafel V.)
+
+## 46.PERIGNON (Nicolas)— 1727-1782,Paris.
+## 48. RIGAUD (Hyacinthe)
+
+## 16591743,Paris.
+
+## Portrait de Magistrat au temps de Port-Royal.
+
+Grande richesse de coloris. Carnation pleine de vivacite. Il se degage de cette tete un éclat, une intensite qui expliquent la vogue du grand portraitiste qui fut premier prix de l'academie de peinture et peintre favori du
+
+Au dos le monogramme J. R. et la date 1703, sous les armoiries et
+
+Roy.
+
+les initiales I. R. B. Ae. 63 du personnage.
+
+Cuivre —ovale —Hauteur m 0,72 —Largeur m 0,36.
+
+## Portrait einer obrigkeitlichen Person.
+
+Grosser Reichtum der Farbengebung und lebendiges Inkarnat.Von diesem Kopf geht ein Glanz aus, eine Wucht, die den hohen Ruf des grossen Bildnismalers verstehen lassen, der den ersten Preis der Akademie erhielt,
+
+Lieblingsmaler Louis XiIV war und dem finf Konige sassen.
+
+(Siehe Abbildung Tafel X.)
+
+## 49. RUBENS (Ecole de) — 1577—1640, Anvers.
+
+## L'adoration des mages.
+
+Un des rois mages baise devotement les pieds de l'Enfant Jesus, un autre le contemple avec un respectueux etonnement. A gauche,a l'entree de Petable, se tient debout le mage ethiopien. Dans le fond plusieurs figures de vieillards attentifs et surpris.
+
+Oeuvre admirable de conservation et d'une incontestable richesse de coloris.
+
+Panneau bois —Hauteur m 0,67 —Largeur m 0,96.
+
+## Die Anbetung der Konige.
+
+Einer der Weisen kiisst demitig die Fisse des Kindes, der zweite betrachtet es mit andachtigem Erstaunen. Zur linken, am Eingang des Stalls steht der anthiopische Konig. Im Hintergrund sehen einige Greise iberrascht und aufmerksam der Scene zu.
+
+Wunderbar erhaltenes Werk von einem unbestreitbaren Farbenreichtum und Glanz.
+## 50. SAINT-EVRE (Gillot) —1791—1858, Paris.
+
+La Science et la Peinture.
+
+Wissenschaft und Malerei.
+
+## 51. TROYON (Constant) — 1810——1865, Paris.
+
+## Le paturage.
+
+Dans un pre proche du bois, des animaux paissent lherbe grasse. Au premier plan une vache rousse, pres d'elle un jeune veau et plus loin, une vache blanche, dont la robe parait argentee dans le soleil. Pres du bois, d'autres vaches se reposent. A droite un troupeau de moutons ramene par
+
+Composition des plus heureuses et traitee avec maitrise par le grand
+
+Signe C T.
+
+Toile — Hauteur m 0,65 —Largeur m 0,92.
+
+Auf saftiger griner Wiese nachst dem Walde zur Linken, weidet Vieh.
+
+Im Vordergrund neben einer roten Kuh ein Rind und weiter zurick eine weisse Kuh, deren Fell vom Sonnenglanz silberig schimmert. Nahe dem Geholz ruhen weitere Kihe, indes zur Rechten ein Schafer seine Herde heimwarts fuihrt.
+
+Eine der glicklichsten und mit Meisterschaft behandelten Kompositionen des grossen Tiermalers.
+
+(Siehe Abbildung Tafel IIl.)
+
+## 52.D.TRUBERT——18271884.
+
+## Barques dans l'Adriatique.
+
+Sur une mer mouvante des barques de peche sont secouees comme des fetus de paille.
+
+Au premier plan, l'un d'eux a son mat brise.
+
+Signe D. Trubert 1878.
+
+Toile —Hauteur m 0,43 —Largeur m 0,53.
+
+## Schiffe im Adriatischen Meer.
+
+Auf der bewegten See werden Fischerbarken wie Strohhalme umhergeworfen. Im Vordergrund ein Schiff, mit gebrochenem Mast, vor Anker liegend.
+
+son berger.
+
+peintre animalier.
+
+Carton —Hauteur m O,34 ——Largeur m 0,51.
+## 53.VAN 0STADE (Adrien) —16101685,Haarlem.
+
+## La Kermesse.
+
+A la porte d'une auberge un groupe de paysans et d'enfants dansent au son d'une cornemuse.
+
+Composition debordante d'esprit, d'un dessin et d'un coloris ravissant. Signe sur le fit a droite du monograme A v O.
+
+Panneau —Hauteur m 0,22 ——Largeur m 0,33.
+
+## Die Bauernkirmes.
+
+Vor einem Wirtshause tanzen Bauern und Kinder zu den Tonen eines Dudelsacks.
+
+Geistsprihende reiche Komposition, entzickend in Zeichnung und Kolorit.
+
+(Siehe Abbildung Tafel VIII.)
+
+## 54.VERNET (Claude-Joseph) ——1712—1789, Paris.
+
+## La Foudre.
+
+n les rochers qui émergent, tandis que des pecheurs enleves d'une barque desemparee se raccrochent a ceux-ci.
+
+Tableau d'une grande puissance remarquable de composition et d'execution.
+
+## Der Blitz.
+
+Unter einer imposanten Ruine zur Linken schaumt die wuitende See an die Felsen, an welche sich Fischer von einem gescheiterten Schiff anklammern.
+
+Die Wetterwolke zur Rechten teilt ein Blitzstrahl, der in die Fundamente der Ruine einschlagt.
+
+Gemalde von bemerkenswert wuchtiger Komposition und Ausfuihrung.
+
+Sur la droite la foudre en un fulgurant sillon dechire la nue et vient tomber au pied des ruines.
+
+Toile —Hauteur m 0,92 —Largeur m 1,32.
+## 55. VIGEE-LEBRUN (Marie-Louise Elisabeth) 1755I842, Paris.
+
+## Portrait de Femme.
+
+Delicate composition traitee aux deux crayons.
+
+Hauteur m 0,45 ——Largeur m 0,33.
+
+## Damenportrait.
+
+Zart empfundene Komposition in zwei Kreiden.
+
+(Siehe Abbildung Tafel IX.)
+
+## 56. WEENIX (Jean) —1640—1719, Amsterdam.
+
+## Fontaine au bord de la mer.
+
+Sur la cote a quelques metres de la mer la Fontaine dresse son im- posante silhouette en face les colonnades d'un temple detruit.
+
+Un negre boit dans son chapeau alors qu'aupres un cheval blanc flanque de son cavalier s'abreuve a la fontaine.
+
+Sur la gauche une mer calme s'etend au pied des falaises.
+
+Signe W 1700.
+
+Panneau bois —— Hauteur m 0,40 —— Largeur m 0,59.
+
+## Brunnen am Meeresstrand.
+
+Vor dem Saulengang eines zerstorten Tempels, einige Meter vom Meer entfernt, erhebt sich ein imposanter Brunnen. Ein Neger trinkt aus seinem Hut, indes ein Reiter seinen Schimmel am Brunnen trankt. Zur Linken breitet sich vom Strand das ruhige Meer aus.
+
+(Siehe Abbildung Tafel IV.)

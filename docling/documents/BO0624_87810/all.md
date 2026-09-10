@@ -1,0 +1,1164 @@
+## Olgemalde alter Meister.
+
+(Die Kinstlernamen sind nach Angaben des bisherigen Besitzers beibehalten.)
+
+## FRANCESCO ALBANI
+
+geb. zu Bologna 1578, gest. daselbst 1660.
+
+- 1Das Bad der Diana. In einer Felsengrotte im Walde liegt die Gottin auf einem am Rande des Gewassers aufgeschlagenen Ruhebett, von ihren Nymphen umgeben. Eine derselben steht im Begriffe,in das Bad zu steigen, eine zweite lost der Gottin die Sandalen,wahrend eine dritte Nymphe ihr einen Korb,gefullt mit Fruchten, darreicht.
+
+Leinwand.Hohe34cm,Breite43cm.Geschnitzter Goldrahmen.
+
+## HENDRIK VAN BALEN
+
+geb.zu Antwerpen 1560, gest. 1632.
+
+- zieht, liegt links, um einen Baumstamm gruppiert,zahlreiches erlegtes Gefugel und Wild, auch Jagdgerat. Rechts drei Nymphen, von funf Hunden umgeben,und damit beschaftigt,
+- aus, wahrend andere baden. Holz.Hohe 63 cm,Breite 84cm.Goldrahmen.
+
+## FRABARTOLOMEODELLA PORTA
+
+geb. zu Savignano 1475, gest. zu Florenz 1517.
+
+- 3 Madonna mit dem Jesuskind und Johannes. Vor einer dunkelgrunen, blumengemusterten schweren Portiere, die rechts den Blick in eine hugelige Landschaft mit breitem Fluss und Zinnen bekronten Turmen freilasst, steht in Halbfigur die hl. Maria an einem Tisch, worauf ein Kissen liegt, auf dem der Jesusknabe steht, von der hl. Mutter gehalten und sie umfassend.Rechts steht bei dem Tische der kleine hl.Johannes,mit der Rechten auf das Jesuskind weisend Links auf der Tischplatte,die das Bild und somit auch die Figuren abschneidet, ein Gebetbuch mit Schliessen und ein Kirschenzweig, an dem ein Vogel pickt,rechts eine kupferne Schale. Hol.Hohe 90 cm,Breite72 cm.Goldrahmen.
+
+## POMPEO GIROLAMO BATONI
+
+geb. zu Lucca 1708, gest. zu Rom 1787.
+
+- 4 Anna Henriette, Tochter des Pfalzgrafen Eduard von Pfalz-Simmern, Gemahlin des Prinzen Heinrich Julius von Bourbon-Conde (1647-1723). Halbfigur in jugendlichem Alter,dem Beschauer zugewendet, mit langem, schwarzen Lockenhaar,Perlohrgehangen und einem prachtigen Perlencollier um den Hals, welchen das ausgeschnittene weisse Seidenkleid, das mit Spitzen, grinen Steinen, Perlen und Rosen geschmuckt ist, freilasst. Mit beiden Handen halt die Portratierte einen blau und weissen Ueberwurf fest.
+- Leinwand.Hohe S9 cm,Breite 71 cm.Goldrahmen.
+## ART des DOM. BECCAFUMI gen. MECCHERINO
+
+- 5 Heilige Familie.In Landschaft, die einen von Felsen umschlossenen See zeigt, sitzt die heilige Maria,in blauem Mantel und rotem Unterkleid,im Kniestick, auf dem Schoss das nackte Jesuskind, das den links stehenden Johannes umarmt. Hinter diesem die hl. Anna,rechts
+- der hl. Josef.
+
+Holz.Hohe 97 cm,Breite 72 cn.Goldrahmen.
+
+## JANVAN BEERSTRAATE
+
+geb. 1650, gest. 1687.
+
+- 6 Stadtmauer am Meeresstrand. Von links bis in die Mitte des Bildes erheben sich die Ruinen einer alten Stadtbefestigung, die direkt am Meere liegt,und von einer Windmuhle uberragt wird. Das Meer ist im Vordergrunde von drei Fischerbooten,im Hintergrunde von Segelschiffen belebt. Links im Vordergrunde fuhrt eine Treppe vom Meer aus auf die Mauer, auf welcher mehrere Personen stehen, die sich scharf vom Horizont
+- abheben.In der Tiefe des Bildes ein mit Turmchen verziertes,hohes Gebaude.
+
+Hole.Hohe 45cm,Breite56 cm.Goldrahmen.
+
+## CORNELIS BEGA
+
+geb. zu Harlem 1620, gest. daselbst 1664.
+
+- 7 Wirtshausszene. Um ein Fass sitzen zwei Karten spielende Bauern, denen rechts ein dritter
+- Bauer,durch den stehenden Wirt halb verdeckt,zuschaut.
+
+Links bez. C.Bega 1657.
+
+Leinwand.Hohe 49 cm,Breite 39 cm.Schwarzer Rahmen.
+
+## SCHULE des B. BELLOTTO gen.CANALETTO
+
+- 8 Ansicht von Neapel. Im Vordergrunde der Hafen, durch den langgestreckten Molo in zwei grosse Bassins geteilt, die mit Galeeren, Lastkahnen, Segel- und Ruderbooten reich belebt sind. Im Mittelgrunde das alte Kastell am Hafenquai und das festungsahnliche Schloss. sicht auf fernere Gebirgszuge. Links als Kulisse die Giebelfassade eines am Hafen gelegenen
+
+Leinwand.Hohe 85 cm,Breite 136cm.Goldrahmen.
+
+- Palazzo mit einem schonen Brunnen. Das ganze Bild mit reicher figurlicher Staffage.
+
+## PIETER VAN BLOEMEN
+
+geb.zu Antwerpen 1649, gest. daselbst 1719.
+
+- 9 Landschaft mit Hirtenstick. Durch einen Wald zieht eine Viehherde mit Hirten.
+- Vorn ein Maultier, das von einem alten Mann gefuhrt wird und im Sattel ein junges Weib tragt,neben dem ein Madchen geht;vier Rinder, von zwei Mannern getrieben,folgen.Im Hintergrund rechts ferne Gebirgszuge. Leinwand.Hohe 68 cm,Breite 83cm.Goldrahmen.
+- 10 Tierstick. In einer felsigen Gebirgslandschaft steht am Ufer eines Gewassers ein Pferd von hellbrauner Farbe mit weisser Mahne und weissem Schweif.
+
+Holz.Hohe 38cm,Breite 32 cm.Geschnitzter Goldrahmen.
+
+## ALFRED BOONEN
+
+geb.zu Dordrecht 1669, gest. daselbst 1729.
+
+- 11 Mannliches Portrat. Brustbild mit langer Allongeperrucke, rotem Mantel und weissem Spitzen-
+
+Kpfr.Hohe 40 cm,Breite 33cm.Goldrahmen.
+
+- jabot.Oval.
+## ALFRED BOONEN
+
+geb. zu Dordrecht 1669, gest. daselbst 1729.
+
+- 12 Lesendes Madchen. Beim Scheine einer kleinen, von der Decke des Gemaches herabhangenden Oellampe sitzt in Halbfigur sichtbar vor einem Tische ein junges Madchen,welches eifrig mit der Lekture eines Buches, das sie mit beiden Handen festhalt, beschaftigt ist. Auf dem Tische liegt eine teilweise zuruckgeschlagene Decke und eine geoffnete Schachtel. Leinwand.Hohe40 cm,Breite33 cm.Schawarzer Rahmen.
+
+## PIETER BOUT und AD.FR.BOUDEWYNS
+
+geb. zu Brussel 1660.
+
+geb. zu Brussel 1644, gest. zu Paris 1700.
+
+- 13 Landschaft. Vorn links am Fusse eines ansteigenden Hugels Gebaude und Torbogen mit Turm. Im Mittelgrunde und im Vordergrunde rechts rastende Reisegesellschaft mit zahlreichen auf Maultieren,Pferden und Kamelen reitenden Damen. Im Hintergrunde Seelandschaft mit Segelschiffen und fernen Gebirgszugen. Holz.Hohe 31 cm,Breite 42 cm.Goldrahmen.
+
+## LEONHARD BRAMER
+
+geb. zu Delft 1596, gest. nach 1667.
+
+- 14 Die Geizige. In einem armlichen Gemache sitzt auf einem umgestilpten Holzbottich eine alte Frau vor einem mit einem Tuche bedeckten Tisch,auf dem ausser einem Totenkopf Goldstucken steht am Boden.An den Tisch angelehnt steht ein Zundstock, der sparliches Licht verbreitet. Im Vordergrunde rechts neben Geldsacken sitzt ein Hundchen. Hole.Hohe 48 cm,Breite 52 cm.Goldrahmen.
+
+## ANGIOLO BRONZINO
+
+geb. zu Monticelli 1502, gest. daselbst 1572.
+
+- 15 Portrat der Bianca Capello,Grossherzogin von Toscana. (Geb.zu Venedigum 1548, gest. durch Vergiftung zu Poggio Cajano bei Florenz 1587). Brustbild im jugendlichen Alter, fast von vorn gesehen. Das braune in der Mitte gescheitelte Haar wird durch eine kaum sichtbare Haube am Hinterkopf zusammengehalten. Das dunkelgrine Kleid ist mit einem weissen Ruschenkragen ausgeschlagen, der den Hals, um welchen eine Perlenkette gelegt ist, frei lasst. Holz.Hohe 49 cm,Breite 40 cm.Goldrahmen.
+
+## BYZANTINISCHE SCHULE
+
+- 16 Griechisch-orthodoxe Bildertafel. Im Mittelfeld die Auferstehung Christi, darunter Christus zwolf kleineren Bildern:Die Geburt der hl. Maria, die Darbringung der hl. Maria im Tempel, die Verkindigung, die Anbetung der hl. drei Konige, die Darbringung Christi im Tempel, die Taufe im Jordan, der Einzug in Jerusalem, die Himmelfahrt Christi, die hl. Maria als Furbitterin, die Ausgiessung des hl. Geistes, der Tod der hl. Maria, die Anbetung des Kreuzes.-Die einzelnen Bildfelder sind getrennt durch Goldleisten und das Ganze eingerahmt durch ornamentierte Goldbordure mit achteckigen Inschriftentafeln, welche Texte in kirchenslavischer Sprache tragen.
+
+Hole.Hohe 70 cm,Breite 59 cm.Schawarzer Rahmen.
+- 17 Anbetung der hl. drei Konige. Auf Stufen, die zum Stalle fuhren, steht die hl. Maria mit dem Kinde. Rechts vor ihr kniet der hl. Joseph und hinter ihr steht ein junges Madchen. zwei Krieger, der eine zu Pferd. Ueber den Konigen schweben vom Stall her in einer Lichtwolke zwei Engel und zwei Cherubims.
+
+Leinwand.Hohe 100 cm,Breite 138 cm.Goldrahmen.
+
+## PIETERCODDE
+
+geb. zu Amsterdam um 1600, gest. daselbst 1678.
+
+- 18 Gesellschaftsstick. In einem weiten Zimmer sitzt um einen mit roter Decke belegten Tisch eine Gesellschaft,die mehrere Gruppen bildet. Im Vordergrunde tritt ein Cavalier mit einem Weinglase auf eine am Tische sitzende reich gekleidete Dame zu, gegenuber spielen zwei Cavaliere ein Brettspiel, hinter diesen stehen zwei andere in eifriger Unterhaltung, wahrend am Ende des Tisches,rechts,zunachst der Ture ein alterer Cavalier und eine Dame sitzen, ebenfalls conversierend. Links an einer Credenz ein Bedienter, ein Glas Wein aus einer Kanne fullend. Hol.Hohe 61,5 cm,Breite 79 cm.Schwarzer Rahmen.
+
+## SCHULE des ANTONIO ALLEGRI gen.CORREGGIO
+
+- Gewand bekleidet, die sterbende hl. Magdalena der Spharemusik lauschend,die durch Engel ausgefuhrt wird,welche auf Wolken niederschwebend, Laute und Violine spielen und vom Gesang zweier Cherubim begleitet werden.Rechts an der Felsenwand ein holzernes Cruzifix und ein Totenkopf. Holz.Hohe 43,5 cm,Breite 56 cm.Goldrahmen.
+
+## JACQUES BOURGUIGNON eigentlich J. COURTOIS
+
+geb.zu St.Hippolite, Doubs, 1621,gest.zu Rom 1676.
+
+- 20 Der Kampf auf der Bricke. Links, direkt aus dem Ufer eines Sees aufsteigend, erhebt sich die Festung, welche mit dem festen Lande durch eine Steinbrucke verbunden ist, auf welcher soeben einwilderReiterkampf entbrannt ist.Im Vordergrunde liegt ein gestirzter Reiter und sein Pferd am Boden,nehen dieser Gruppe zwei erbittert miteinander kampfende
+- Soldaten. Leinwand.Hohe59cm,Breite72 cm.Goldrahmen.
+- 21 Schlachtenscene. Auf dem engen Plateau einer Tallandschaft ist eine Fusstruppe von einer Schar Reiter iberfallen worden.Beiderseits wird mit Hieb- und Feuerwaffen erbittert gekampft, namentlich das Fussvolk links sucht die Fahnen zu retten,und es wird unterstutzt durch Kameraden, die rechts einen Hinterhalt gewonnen haben und von da aus die Reiter beschiessen. Rechts schliessen Berge, wovon einer die Ruine einer Burg tragt, das Bild ab, links Ausblick in die Landschaft uber ein Castell hinweg auf ferne Gebirgs-
+- zuge. Ol.Auf Leinwand.Hohe 63 cm,Breite 105 cm.Schwarzer Rahmen.
+- 22 Reiterschlacht. Gegenstick zum Vorigen.
+- Leinwand.Hohe 63cm,Breite105cm.Schwarzer Rahmen.
+
+## LUCAS CRANACH D.AE.
+
+NACHIHM.
+
+- 23 Martin Luther. Brustbild,in schwarzem Kostum mit schwarzem Barett. In den Handen ein Buch haltend.
+
+Holz.Hohe21 cm,Breite 17 cm.Goldrahmen.
+
+Rechts monogr.mit der geflugelten Schlange. 1532.
+## LUCAS CRANACH D.AE.
+
+## NACHIHM.
+
+- 23a Melanchthon. Brustbild, in schwarzem Kostum, barhaupt, die Hande ineinander gelegt. Gegen-
+
+Monogramm wie bei der vorhergehenden Nummer.
+
+Hol.Hohe 21 cm,Breite 17 cm.Goldrahmen.
+
+## LUCAS CRANACH DER JUENGERE
+
+geb.zu Wittenberg 1515, gest. zu Weimar 1586.
+
+- 24 Allegorie auf das Gesetz Gottes.Unter einem Baumstamm steht Moses,in der Linken die Gesetzestafeln haltend,auf die er mit der Rechten deutet. Hinter ihm stehen Aaron und ein Weiser,rechts von ihm der dem Gesetze folgende Mensch,der von St. Johannes und einem Patriarchen auf das erhohte Kruzifix hingewiesen wird. Links der Sunder, schiedene Parallelen zum Hauptthema,links im Mittelgrunde Darstellung des Sundenfalles, dariber Gott Vater in Wolken,rechts im Mittelgrunde der den Teufel iberwaltigende Heiland,dariber,auf einem Felsen erhoht,die hl.Maria im Gebet als Furbitterin.Im Hintergrunde Darstellung der Anbetung der ehernen Schlange. Eine phantastische Gebirgslandschaft schliesst das Bild ab.Unten in der Mitte auf einem Steinpostament die Inschrift:Durd3 gefet fompt erfentmis. Weitere Inschriften umgeben das Kruzifix und die hl.Maria. Holz.Hohe 55 cm,Breite 59 cm.Holzrahmen.
+
+## SCHULE deS LORENZO DI CREDI
+
+- 25 Madonna mit Kind. Auf der Bank einer Halle, deren Fenster Ausblick in eine schone gebirgige Landschaft gewahrt, sitzt die hl. Maria, im Kniestuick, bekleidet mit blauem
+
+Rundbild aufHolz.Diameter 86 cm.Goldrahmen.
+
+- Mantel, das nackte Jesuskind auf dem Schoss. Rechts steht in Anbetung der hl. Johannes. Durch das Fenster erblickt man in der Landschaft eine Klosterkirche, zu der ein Ordensbruder,ein Wanderer und ein Reiter ziehen.
+
+## AELBERT CUYP
+
+geb.zu Dordrecht 1605, gest. daselbst 1691.
+
+- 26 Kleines Madchen mit Hund. Unter dichten Baumgruppen sitzend. Das Kind ist mit griner
+
+Links unten bez.A.Cuyp.
+
+- Haube, gruinem Kostim, weissem Kragen und weisser Schurze bekleidet. In der Rechten halt es Kirschen, in der Linken einen Pfirsich. Zu seinen Fussen verschiedene Fruchte. Im Hintergrunde rechts Flusslandschaft mit Staffage.
+
+Leinwand.Hohe 107 cm,Breite 87 cm.Goldrahmen.
+
+## SCHULE des AELBERT CUYP
+
+- 27 Flusslandschaft. Im Vordergrunde rechts eine Anhohe mit einer bei einem Baume errichteten, von einem Gartenzaun umgebenen Fischerhutte, dabei Bauer mit Pferd und Weiber. Im Vordergrunde links ein Boot mit zwei Fischern. Im Hintergrunde Segelboote und ferne Gebirgszuge.
+
+Leinwand.Hohe 38 cm,Breite 50 cm.Schwarzer Rahmen.
+
+An einem alten Kahne links monogrammiert A.C.1622.
+
+- stuck zum Vorigen.
+## BENJAMIN CUYP
+
+geb. zu Dordrecht 1608.
+
+- 28 Petri Befreiung. Der hl. Petrus, ein alter Mann mit langem Vollbart, in einfachem blauen Kittel liegt in dem von starken Saulen getragenen, dunklen Kerkergewolbe,bewacht von drei im Sitzen und Stehen eingeschlafenen Soldaten. Als lichte Erscheinung (und einzige Lichtquelle in dem finsteren Raum) ist ein Engel zu dem Apostel getreten,dem die Ketten abgefallen sind und fordert ihn durch eine Handbwegung zum Verlassen des Gefangnisses auf. Holz.Hohe 55 cm,Breite 45 cm.Schawarzer Rahmen.
+
+## DIRK DAELENS
+
+geb.1688, gest.1753 zu Amsterdam.
+
+- 29 Kircheninterieur. Ein Teil des Seitenschiffes der Kirche, links die Halfte eines Nebenaltars
+- sichtbar. Im Vordergrunde zwei Cavaliere mit einer Dame im Gesprache.
+
+Holz.Hohe 42 cm,Breite 33 cm.Goldrahmen.
+
+## BALTHASAR DENNER
+
+geb.zu Altona 1685, gest.zu Rostock 1747.
+
+- 30 Bildnis. Brustbild einer Greisin; der Kopf ist in ein weisses Tuch gehullt, das uber die linke Schulter herabfallt. Die Schultern und die Brust sind mit einem farbig geblumten Umschlagetuch bekleidet, die Arme stecken in einem weiten, grunen Gewand, der linke Arm ruht auf einer geoffneten Geldkassette und die linke Hand halt ein Goldstick, wahrend die rechte eine Zopffechte gegen die Brust halt. Das ausdrucksvolle Gesicht, leicht nach links geneigt,zeigt ein freundliches Lacheln.
+
+Am Deckel der Kassette sign.B.Denner 1724.
+
+Leinwand.Hohe 61cm,Breite 47,5cm.Schwarzer Rahmen.
+
+## DEUTSCHE SCHULE
+
+18.Jahrhundert.
+
+- 31 Knabe in Halbfigur mit Vogelbauer.
+- Holz.Hohe 26 cm,Breite 19 cm.Schwarzer Rahmen.
+
+## CHRISTIAN WILHELM ERNST DIETRICH
+
+geb.zu Weimar 1712, gest.zu Dresden 1774.
+
+- 32 Die Steinbricke. Uber einen Fluss,an dessen Ufer im Vordergrunde zwei Hirten ihre Herde
+- weiden lassen,fuhrt eine alte,gebogene Steinbrucke,deren einer Pfeiler durch eine antike Statue geschmuckt ist und an deren dem Beschauer entgegengesetzten Ende das Zollhaus liegt. Eine zweite kleinere Bricke ist im Mittelgrund,der ein Tal umschliesst,sichtbar. Baumreiche, hohe Gebirgszuge schliessen das Bild nach allen Seiten ab.
+
+Holz.Hohe 55 cm,Breite 74 cm.Schwarzer Rahmen.
+
+## JACOB VAN DER DOES
+
+geb.zu Amsterdam 1654, gest.1699.
+
+- 33 Landschaft mit Hirtenstick. Am Fusse einer Saule,auf welcher eine antike Vase steht, sitzt ein Hirtenknabe von seiner Herde, welche aus Schafen, Ziegen und einer Kuh besteht,umgeben. Uber ihm auf dem Aste einer prachtigen Baumgruppe sitzt ein roter Papagei Rechts erblickt man auf einem hohen,kahlen Hugel ein machtiges, tempel-
+
+Leinwand.Hohe 82 cm,Breite 65 cm.Schwarzer Rahmen.
+
+- ahnliches Gebaude und in weiten Fernen die Ruinen eines Aquaduktes.
+## SIMON VAN DER DOES
+
+geb.zu Amsterdam 1653, gest. 1717.
+
+- 34 Tierstick. Im Vordergrunde einer baumreichen Landschaft am Ufer eines Baches kniet ein Hirtenknabe, welcher verstort auf einen toten, von seinem Hunde apportierten Vogel blickt. Links vorn steht ein machtiger brauner,weissgefleckter Ochse,vor demselben ein Schaf. Im Hintergrunde Gebirge.
+
+Unten rechts bez.S.V.Does.1708.Leinwand.Hohe 63 cm,Breite 85 cm.Schwarer Rahmen.
+
+## CARLO DOLCI
+
+geb.zu Florenz 1616, gest. daselbst 1686.
+
+- 35 Heilige Maria. Brustbild, im blauen Mantel und weissen Kopftuch, die Hande iber die Brust gekreuzt. Hole.Hohe 39 cm,Breite 28 cm.Goldrahmen.
+
+## ART des CARLO DOLCI
+
+- 36 Heil. Margaretha. Gurtelbild der Heiligen in rotem und blauem Gewande. Dem sich ihr
+- nahernden Teufel, dessen scheusslicher Kopf nur teilweise sichtbar ist,halt sie mit der Rechten das Kreuz entgegen. Leinwand.Hohe 55 cm,Breite 42cm.Goldrahmen.
+
+## JACOB LE DUCQ
+
+Um 1626-1646 in Utrecht und im Haag tatig.
+
+- 37 Der Astronom. In einem hohen, geraumigen Gemache steht neben dem geoffneten Fenster links der mit einem grunen Tuche bedeckte Arbeitstisch des Gelehrten. Dieser, in Halbfigur hinter dem Tische sichtbar, tragt einen hohen, schwarzen Hut mit weissen und roten Federn, und ein rotes Gewand. Er ist soeben damit beschaftigt, an einem grossen vor ihm stehenden Globus mittelst eines Zirkels Messungen vorzunehmen und scheint die hierbei erzielten Resultate mit dem Inhalte eines der vor ihm liegenden,aufgeschlagenen Folianten zu vergleichen. Hinter ihm kommt eine Treppe herab eine Magd,die einen Besen mit beiden Handen halt. Im Vordergrunde links steht ein Koffer,uber welchen ein Tuch und ein Schwert gelegt ist, rechts ein Lehnstuhl, an welchen eine Bassgeige gelehnt liegt. Im Mittelgrunde rechts sitzen an einem Tische zwei zechende Manner; die offenstehende Ture im Hintergrunde rechts gewahrt Ausblick auf ein zweites Gemach, durch welches sich soeben eine Frau entfernt.
+- Hole.Hohe 49 cm,Breite 60 cm.Schawarzer Rahmen.
+
+## JAN LE DUCQ
+
+geb. im Haag 1636, gest.1695.
+
+- 38 Mutter mit Kind. In der Stube eines Bauernhauses, in welche durch das links oben angebrachte Fenster Licht fallt, sitzt eine Bauernfrau mit weissem Kopftuch; zu ihren Fussen auf einem Schemel sitzt ein Madchen, welchem sie mit einem Holzkamme die
+- Haare kammt. Holz.Hohe 27 cm,Breite 21 cm.Schwarzer Rahmen.
+
+## ALBRECHT DUERER
+
+NACH IHM.
+
+- 39 Anbetung der heiligen Dreifaltigkeit. (Allerheiligenbild zu Wien). Vorzugliche Kopie.
+- Holz.Hohe 100cm,Breite79 cm.Goldrahmen.
+## GERBRAND VAN DEN EECKHOUT
+
+geb.zu Amsterdam 1621, gest. daselbst 1674.
+
+- geben von der hl. Maria, dem hl. Joseph, drei in andachtigem Gebet versunkenen Hirten
+- und einem kleinen,betenden Madchen. Leinwand.Hohe 47 cm,Breite 39 cm.In Rahmen.
+
+## SCHULE der VAN EYCK
+
+- 41 Beweinung Christi. Auf der Wiese vor dem Felsengrab liegt der Leichnam des Erlosers im meisten der hl. Johannes. Der Hintergrund zeigt eine schone Felsenlandschaft mit Golgatha
+- zu Pferde zustreben.
+- Schosse der hl. Maria. Links drei hl.Frauen in kostbaren Gewandern,alle mit schmerzbewegtem Ausdruck,die hl.Magdalena,vor der ein Salbgefass am Boden steht,in Schmerz zerflossen. Rechts drei hl. Manner, ebenfalls reich gekleidet, ebenfalls wehklagend, am und dem Felsengrab. Links im Hintergrunde die Turme der Stadt Jerusalem,deren Tor die von der Kreuzigung, resp. Kreuzabnahme zuruckkehrenden Krieger zu Fuss und
+
+Rechts in der Mitte der Tafel bez.:Johannes de Eyck.Fecit Ano 1431. Holz.Hohe 75 cm,Breite 97 cm.Schawarzer Rahmen.
+
+## FRANS FLORIS
+
+geb.zu Antwerpen 1520, gest. daselbst 1570.
+
+- 42 Verlobung des Tobias. In offener Halle sitzt um einen reich gedeckten Tisch die Verlobungs-
+- schmuckten Braut. Links der alte Tobias im Gesprach mit dem Engel. Sechs weitere Personen sitzen um den Tisch,ein Knabe schenkt Wein ein. Rechts im Hintergrund entschwebt der Engel; links im Eingang an der Halle ein Bettler mit Hund und Ausblick auf eine Landschaft. Hole.Hohe 73 cm,Breite 105cm.Goldrahmen.
+
+## FRANS FRANCKEN D.J.
+
+geb.zu Antwerpen 1581, gest. daselbst 1647.
+
+- 43 Salomos Gotzenanbetung. In einer Bogenhalle, die rechts und links Ausblick in eine
+- Landschaft gewahrt, steht auf einem Postament die Statue eines Gotzen, vor dem Salomo in reichem Kostim in Anbetung kniet;rechts im Vordergrunde sitzt die Konigin von Saba,zahlreiche Frauen fillen das Bild. Holz.Hohe 54 cm,Breite 75 cm.Goldrahmen.
+
+## FRANZOESISCHE SCHULE
+
+18.Jahrhundert.
+
+- 44 Portrat der Prinzessin Maria Theresia von Lamballe. (Vermahlt 1767 mit Louis Alexandre de Bourbon,Prince de Lamballe). Brustbild mit fachem roten Hut,welcher mit weissen Spitzenbesatzen und einer Perlenagraffe geziert ist. Das weisse, ausgeschnittene
+- Kleid ist mit Spitzen von gleicher Farbe und mit roten Bandern geschmuckt. Oval. Leinwand.Hohe 66cm,Breite51 cm.Goldrahmen.
+- 45 Madame de Soubise. Brustbild. Mit Perlenkollier,in ausgeschnittenem，spitzenbesetztem
+- weissen Kleid mit grinem und rotem Seidenuberwurf. Rechts oben in der Ecke ein Wappen. Leinwand.Hohe 62,5cm,Breite50 cm.Geschnitzter Goldrahmen.
+- 46 Die Rast. An einen Felsblock gelehnt ruht ein schlafendes Madchen, vor ihr sitzt ein Bauernbursche, den Wanderstab zwischen den Fussen. Ein kleines, weisses Hundchen sucht das Madchen zu erwecken. Links von dieser Gruppe steht ein alterer Mann in langem braunen Mantel, begleitet von seinem Hunde. Holz.Hohe 27 cm,Breite 33 cm.Goldrahmen.
+## FRANZOESISCHE SCHULE
+
+18.Jahrhundert.
+
+- 47 Der stirmische Liebhaber. In einer baumreichen Landschaft hat sich soeben ein junger Bursche einem Madchen, welches am linken Arm ein Korbchen mit Trauben tragt, genahert und sucht dieselbe sturmisch mit beiden Handen an sich zu ziehen, wahrend das Madchen eine abweisende Bewegung macht. Links hiervon steht ein zweites Madchen, welches,im Begriffe stehend, einen hohen,vollauf mit Weintrauben gefullten Korb auf zuheben, dem sich neben ihr ahspielenden Vorgang mit neugierigem Interesse zuschaut. Hole.Hohe 31cm,Breite 40 cm.Goldrahmen.
+
+## LOUIS GALLAIT
+
+geb. zu Tournay 1810.
+
+- 48 Monch. Brustbild eines Monches mit brauner Kapuze und Kutte, im Profl nach links. Oval
+- Leinawand.Hohe 52cm,Breite42cm.Goldrahmen.
+
+## WYBRAND VAN GEEST
+
+Um1700.
+
+- 49 Bildnis. Brustbild eines Cavaliers mit dunklem Lockenhaar, braunem Schnurr- und Knebelbart,
+- grossem weichen, schwarzen Schlapphut, weissem spitzenbesetzten Kragen und schwarzem Kostum.Oval. Holz.Hohe 54 cm,Breite 46cm.Goldrahmen.
+- 50 Brustbild einer Schaferin. Der Kopf der dem Beschauer zugewandt ist, tragt einen mit Feldblumen garnierten Strohhut. Das rote Haar hangt in vier Zopfe geflochten auf die Schultern herab; das Madchen tragt ein rotes, die Buste freilassendes Mieder und weisses Hemd. Die allein sichtbare rechte Hand halt den Schaferstab,auf dem der Name P.P. Rubens zu lesen ist.
+- Hol.Hohe 68 cm,Breite 55 cm.Goldrahmen.
+
+## GORTZIUS GELDORP
+
+geb. zu Lowen 1553, gest.zu Coln 1616.
+
+- 51 Allegorische Darstellung. Um die Statue des Merkur sind Kaufleute und Kinstler versammelt. Im Hintergrunde zahlreiches Volk und Ansicht einer Hafenstadt mit Kirche. Kupfer.Hohe 26 cm,Breite 21 cm.Goldrahmen.
+- Pansthermen sind zahlreiche Gelehrte mit ihren Schuilern gruppiert. Im Hintergrunde schlossahnliches Gebaude.
+- Kupfer.Hohe 26 cm,Breite21 cm.Goldrahmen.
+
+## GIAMPETRINO
+
+- 53 Heil. Magdalena. Brustbild der Heiligen, dem Beschauer zugewendet, mit langem braunen Lockenhaar, rotem Gewande und grinem, gelb ausgeschlagenem Uberwurfe. Den Blick senkt die Heilige auf eine Salbenbuchse, welche sie in der erhobenen Rechten halt. Hol.Hohe 40 cm,Breite 28 cm.Goldrahmen.
+## JAN VAN GOYEN
+
+geb. zu Leyden 1596, gest. im Haag 1656.
+
+- 54 Flusslandschaft mit Kirchdorf. Ansicht von Rhenen (bei Utrecht）. Im Vordergrunde der breite,Inseln umschliessende,mit Segelschiffen und Booten reichbelebte Fluss, der an einem Dorfe voriberfiesst, das eine Kirche mit hohem Turm,eine alte Mauer,eine Winddabei eine Kuh, die von einer Bauerin gemolken wird, und drei Fischer, die ein grosses Netz ans Ufer ziehen. Rechts im Vordergrunde eine Fahre, die eine herrschaftliche Kutsche und verschiedenes Landvolk zum Kirchdorf ubersetzt.
+
+Hol.Hohe 36,5 cm,Breite 58 cm.Schawarzer Rahmen.
+
+## ANTON GRAFF
+
+geb.zu Winterthur 1736, gest. zu Dresden 1813.
+
+- 55 Portrat eines Malers. Brustbild, dem Beschauer zugewendet, in braunem Rock mit weissem Kragen,in der Rechten einen Zeichenstift haltend.
+
+Leinwand.Hohe 54cm,Breite 44cm.Goldrahmen.
+
+- 56 Selbstportrat des Kinstlers. Brustbild,Dreiviertel Profl nach rechts,in braunem Gewand. Leinwand.Hohe 36cm,Breite28 cm.Goldrahmen.
+
+## JEAN-BAPTISTE GREUZE
+
+## DESSENART.
+
+- blondem Haar, welches durch ein braunes Kopftuch und den blauen Uberwurf zum grossten Teile verdeckt ist. Leinwand.Hohe 43 cm,Breite34 cm.Goldrahmen.
+
+## CORNELIS N. GYSBRAECHTS
+
+Anfang des 17.Jahrhunderts.
+
+- 58 Stilleben mit Fruchten, Bliten, gefullten Weinglasern,Musikinstrumenten, welche malerisch
+- auf einem orientalischen Teppich gruppiert sind. Der Hintergrund gewahrt Ausblick auf eine Parklandschaft mit Fontane. Leinwand.Hohe 44cm,Breite 60 cm.Goldrahmen.
+
+## DIRK HALS
+
+gest.1656.
+
+- 59 Gesellschaft in Unterhaltung. Interieur mit zwei Liebespaaren, welche in frohlicher Unterhaltung um einen Tisch sitzen, auf welchem eine Kanne und zwei Schalen stehen. Rechts eine Truhe, auf die ein Mantel und ein Degen abgelegt sind, in der Mitte des Hintergrunds eine offen stehende Ture.
+
+Rechts unten bez.D.Hals 1628.
+
+Holz.Hohe 35 cm,Breite 49 cm.Schwarzer Rahmen.
+
+60 Herrengesellschaft. Um einen grun gedeckten Tisch sitzen und stehen fuinf rauchende Cavaliere in Unterhaltung. Rechts unten bez.D.Ha1s 1628. Holz.Hohe 35 cm,Breite 49 cm.Schwarzer Rahmen.
+## DIRK HALS
+
+gest.1656.
+
+- 61 Zechende Gesellschaft. Vor dem Kamin einer nur mit einem schmalen Schrank und einem uber den Kamin aufgehangten Wandspiegel moblierten Zimmer steht die weiss gedeckte lange Tafel, die mit Austernschusseln und Weinglasern besetzt und von verschiedenen Daneben sitzen zwei Damen,sich einander zuwendend;hinter diesen steht ein Klarinettenblaser, diesem zunachst zwei Kinder. Rechts vorn, vis-a-vis der erwahnten Kindergruppe ein Cavalier neben einer ein Notenblatthaltenden Dame. Nachst diesen ein ubermitiger Cavalier, der das eine Bein auf einen Pluschsessel gestellt hat und seine dabei sitzende Dame,die dem Beschauer den Rucken zuwendet,mit sich fortzureissen links in der Turoffnung stehendes,nicht mitzechendes Paar singt mit. Vor dem Schranke rechts ein Knabe,Wein einschenkend.
+
+Holz.Hohe58,5cm,Breite 84 cm.Schawarzer Rahmen.
+
+## JOHN GEORGE DE HAMILTON
+
+geb. zu Brussel 1666, gest. zu Wien 1740.
+
+- 62 Drei kampfende Katzen. In felsiger Landschaft mit sparlicher Vegetation.
+- Holz.Hohe 22 cm,Breite 40 cm.Schwarzer Rahnen.
+- 62a Zwei kampfende Hunde in Landschaft. Gegenstick zum Vorigen. Holz.Hohe 22cm,Breite 40 cm.Schwarzer Rahmen.
+
+## WILLEM KLAASZ HEDA
+
+geb.zu Haarlem 1594,gest.um 1678.
+
+- 63 Stilleben. Auf einem Tisch, uber welchen eine grosse, grune und eine kleine, weisse Decke gebreitet sind, liegen und stehen in malerischer Anordnung ein silberner Henkelkrug,ein hoher, halbgefuillter Glaspokal auf silberner Schale, eine vergoldete Aufsatzschale mit Johannisbeeren, ein halbgefilltes Weinglas und ein Zinnteller mit Austern,Weintrauben und Nussen. Holz.Hohe 60 cm,Breite 85cm.Goldrahmen.
+
+## JAN DAVIDSZ DE HEEM
+
+geb. zu Utrecht nach 1600, gest. zu Antwerpen 1684.
+
+- 64 Blumenstick. Eine Guirlande aus Rosen, Nelken,Tulpen,Winden, Schneeballen, Turkenbund und anderen farbenprachtigen Blumen ist mit zwei Nageln an der Wand befestigt;Insekten und Schmetterlinge tummeln sich auf den Blumen. Rechts unten bez.I.D. De Heem. Leinwand.Hohe 56 cm,Breite 75 cm.Goldrahmen.
+
+## GERARD VAN HERP
+
+geb.1605,gest.1680.
+
+- 65 Bauernschenke. Links im Vordergrunde zechen vier Bauern und eine Bauernfrau. Einer der Bauern liegt bereits betrunken am Boden,wahrend sich ihm ein Kalb nahert. Rechts im Vordergrunde steht hinter einem niederen Tische,welcher mit Geschirr bedeckt ist,eine Bauernmagd mit ihrem Liebhaber.Zwei Schweine suchen am Erdboden die Reste der Mahlzeit. Im Mittelgrunde sitzen an einem Tisch bei einem Fenster ein Dudelsackblaser und ein rauchender Alter. Im Hintergrunde links schurt im Kamin eine Bauernfrau das Feuer zu frischer Glut an. Hol.Hohe 42cm,Breite 59 cm.Schwarzer Rahmen.
+- 66 Interieur. In dem mit Steinfiessen bedeckten Gemache, dessen offenstehende Ture eine weitere Eine Frau,welche einem vor ihr stehenden Korbe Wasche entnommen,legt diese in den
+- Schrank ein und spricht hiebei mit einem kleinen,in der Mitte des Zimmers auf dem Erdboden sitzenden Madchen.
+
+Links unten signiert P.L.D.H.
+
+Holz.Hohe 42 cm,Breite 36 cm.Goldrahmen.
+
+## MELCHIOR DE HONDEKOETER
+
+geb.zu Utrecht 1636,gest.zu Amsterdam 1695.
+
+- 67 Huhnerhof. Vor der Stiege zum Huhnerstall links der prachtige Hahn, nach rechts zu im Vordergrund mehrere Futter aufpickende Hennen. Dariber auf erhohtem Platze beim Huhnerstall eine auf dem Neste sitzende Henne, zwei Kucken am Nestrand. Eine bluhende Kaktuspflanze fankiert den Huhnerstall und leitet iber zu dem Ausblick auf den durch einen prachtigen Truthahn staffierten Hofraum, der das Bild beschliesst. Unter dem Neste bez.:M.D'Hondecoeter.
+
+Leinwand.Hohe 106 cm,Breite 138 cm.Schawarzer Rahmen.
+
+## GERARD VAN HONTHORST
+
+geb.zu Utrecht 1590, gest. daselbst 1656.
+
+- 68 Petri Verleugnung. Links ein Tisch,um welchen kartenspielende und larmende Soldaten
+
+Leinwand.Hohe 81,5 cm,Breite 120 cm.Goldrahmen.
+
+- sitzen.Rechts der hl. Petrus,von einem Soldaten gehalten,und von einer Magd, die in der Rechten einen brennenden Kienspahn halt,befragt.
+
+## JEAN PIERRE HOREMANS
+
+geb.zu Antwerpen 1682,gest. daselbst 1759.
+
+- 69 Der Gemiseladen. Im Vordergrunde des Ladens sitzt neben einem Fasse, auf welchem ein Teller mit Kirschen steht, ein alterer Mann, welcher in der Linken einen Weinkrug, in der Rechten ein halbgefulltes Glas halt. Rechts von ihm sitzt ein junges Madchen, auf deren Schulter ein hinter ihr stehender Bursche seinen Arm gelegt hat;diese bietet dem Alten soeben eine Platte mit Fruchten an. Links steht der Ladentisch;vor ihm liegen Gemuse aufgehauft,hinter demselben sitzt die Verkauferin,welcher soeben von einem Bauern frische Ware uberbracht wird. Rechts im Mittelgrunde ist eine Frau damit beschaftigt, einen mit Tuchern verdeckten Gegenstand vom Platze zu rucken. Ein vergittertes Fenster und eine Glasture im Hintergrunde, durch welche sich soeben ein
+
+Leinwand.Hohe 83 cm,Breite 66 cm.Schwarzer Rahmen.
+
+- Madchen entfernt,spenden dem Raume sparliches Licht.
+
+## JAN VAN HUYSUM
+
+geb.zu Amsterdam 1682, gest. daselbst 1749.
+
+- 70 Arkadische Landschaft. Im Vordergrunde rechts treibt ein Hirt seine Schafherde nach vorn.Links am Rande eines an steilen Felsen und alten Gemauern vorbeifuhrenden Weges sitzen ein Mann und eine Frau im Gesprach. Im Mittelgrund ein Fluss. Fernblick auf ein kastellformiges Gebaude und auf ferne Gebirgszuge. Rechts hohe Baumgruppen. Leinwand.Hohe 49cm,Breite 58cm.Schwarzer Rahmen.
+## JAN VAN HUYSUM
+
+geb.zu Amsterdam 1682,gest.daselbst 1749.
+
+- 71 Blumenstick. Auf einer Steinplatte steht eine reich mit Genien in Relief geschmuckte, gehenkelte Vase, aus der ein iberaus reiches Blumenbukett hervorragt, das sich zusammensetzt aus weissen und roten Rosen,Feuernelken,Narzissen,Flieder, Tulpen, Eisenhut etc., belebt durch verschiedene Insekten. Rechts vorn liegt ein Vogelnest mit Eiern. Links unten bez. Jan van Huysum fecit. Holz.Hohe 79 cm,Breite 62 cm.Goldrahmen.
+
+## JAKOB JORDAENS
+
+geb.zu Antwerpen 1593, gest. daselbst 1678.
+
+- 72 Apostelkopf. Brustbild eines alten Mannes mit langem grauen Bart und Har. Im rotbraunen Kostim mit braunem Kragenbesatz.Leinwand.Hohe 51 cm,Breite 38 cm.Sehwarzer Rahmen.
+
+## ITALIENISCHE SCHULE
+
+16.Jahrhundert.
+
+- 73 Heil. Familie. Unter dem Schatten zweier links von einer Mauer befindlichen Baume sitzt die Madonna, mit beiden Handen das Jesuskind, welches einen Orangenzweig halt, umfassend. Sie ist mit einem roten Untergewande, blauem Uberwurf und braunem Kopftuch bekleidet. Hinter der Heiligen steht der hl. Joseph,in der Rechten ein aufgeschlagenes Buch,in der Linken ein Augenglas haltend. Den Hintergrund bildet kahle Hugellandschaft. Hole.Hohe 77 cm,Breite 62 cm.Goldrahmen.
+
+## ITALIENISCHE SCHULE
+
+17.Jahrhundert.
+
+- 74 Die Vermahlung des Amor und der Psyche. Auf Wolken tront, umgeben von den Gottern des Olymp, Jupiter und Juno. Ueber diesen schweben auf einem von Schwanen Psyche und Amor. Kupfer.Hohe 45cm,Breite 38 cm.Goldrahmen.
+
+## JOHANN CHRISTIAN KLENGEL
+
+geb. zu Kesseldorf 1751, gest. zu Dresden 1824.
+
+- 75 Tierstick. In einer Flachlandschaft steht neben einem Baumstamme eine Kuh, vor ihr ruhen auf dem Erdboden liegend zwei Ziegen mit einem Zicklein. Im Hintergrunde Hirt und Herde und im welligen Gelande in der Ferne ein Dorf sichtbar. Rechts unten bez. Klengel. Leinacand.Hohe71 cm,Breite 96cm.Goldrahmen.
+- 76 Tierstick. Gegenstuck zum Vorigen. In einer Flusslandschaft im Vordergrunde links ruhende Kuh und drei Schafe. Am Flussufer Hirt mit Herde.Im Hintergrunde eine Stadt sichtbar. In der Mitte unten bez.Klengel 1802. Leinwand.Hohe 71 cm,Breite96 cm.Goldrahmen.
+
+## AELBERT KLOMP
+
+Um 1602-1632.
+
+- 77 Landschaft mit Tierstick. Im Vordergrunde einer baumreichen Landschaft ein Stuck Wiesen-
+- land, worauf eine Kuh ruht,neben der ein Maultier steht, sowie Schafe und Ziegen liegen. Lin ks im Hintergrunde weiteres Vieh, dabei Hirte und Hirtin in Unterhaltung am Boden sitzend. In der Tiefe des Mittelgrundes vor fernen Gebirgszugen ein schlossartiges Gebaude. Leinwand.Hohe 56cm,Breite 67 cm.Goldrahmen.
+## JAN KOBELL
+
+geb. zu Utrecht 1782, gest.zu Amsterdam 1814.
+
+- 78 Landschaft. Im Vordergrunde links am Fusse eines Baumes zwei Wanderer im Gesprache, von welchen der eine sitzt, der zweite auf seinen Stock gelehnt steht. Dieser Gruppe nahert sich auf der Strasse rechts,welche an einem niederen von einem Zaun umgebenen Bauernhause vorbeifuihrt,ein Reiter. Den Hintergrund schliesst higeliges, teilweise mit Gestrauch bewachsenes Gelande ab. Hol.Hohe 15 cm,Breite 20 cm.Goldrahmen.
+
+## NICOLAS LARGILLIERE
+
+geb. zu Paris 1656, gest. daselbst 1746.
+
+- 79 Bildnis. Portrat eines jugendlichen franzosischen Marschalls, Gurtelbild, mit langer Allonge-
+- perricke,mit Gold verziertem Harnisch und weissem Jabot.
+
+Leincand.HoheS4 cm,Breite 67 cm.Goldrahmen.
+
+## SIR PETER LELY eigentlich P. VAN DER FAES
+
+geb. zu Soest in Westfalen 1618, gest. zu London 1680.
+
+- 80 Damen-Portrat. Kniestuck einer vornehmen Dame in jungen Jahren,mit blondem Lockenhaar in schwarzem,reich mit Spitzen besetzten Kleide. Um den Hals und die Brust sind Perlenketten gelegt, eine solche dient auch an Stelle eines Giirtels. Der linke Arm ist auf das Postament einer Saule aufgestutzt,mit der herabhangenden Rechten halt sie das Kleid leicht gerafft, den Zeigefinger der Linken schmuckt ein prachtiger Ring mit Rubin. Den Hintergrund bildet eine weite Hugellandschaft. Rechts oben an der Saule ein Wappen-
+- schild mit drei gedeckelten Kelchen. Leinwand.Hohe 120 cm,Breite 90 cm.Goldrahmen.
+
+## PIETRO LIBERI
+
+geb.zu Padua 1605,gest.zu Venedig 1687.
+
+- 81 Venus. Die im venezianischen Geschmack reich gekleidete Gottin sitzt auf einer Steinbank und halt in der Linken zwei Tauben,in der Rechten einen Pfeil. Rechts schmiegt sich Amor an die Schulter der Gottin. Links bringt ein Madchen eine mit Geld und Rosen gefillte Schussel dar. Dabei steht ein Kind, einen Spiegel haltend, indem sich das Profil der Gottin spiegelt. Der Hintergrund durch einen schonen,reich drapierten Vorhang verhullt.
+- Leinwand.Hohe 116cm,Breite 101 cm.Rahmen.
+
+## JAN VAN DER LIJS
+
+geb.zu Breda 1600, gest.zu Rotterdam 1657.
+
+- 82 Musizierende Tischgesellschaft. In der Mitte der gedeckte Tisch, an dem ein zechendes und ein musizierendes Paar sitzen. Vorn in der Mitte steht, am Tisch, den rechten Fuss auf einen Hocker gestitzt, eine junge Dame in gelbem Atlaskleid, die Mandoline spielend. Rechts tritt durch eine Portiere eine Alte,um Wein einzuschenken.Das Licht fallt links durch ein offen stehendes Fenster. Leinwand.Hohe98cm,Breite.121 cm.Sehwarzer Rahmen.
+
+## JAKOB VAN LOO
+
+geb. zu Ecluse 1614, gest. zu Paris 1670.
+
+- 83 Bildnis. Huftbild einer jungen blonden Dame in rotem Ueberwurf und weissem Unterkleid, die Buste und die Unterarme entblosst,ein Blumenbukett aus den im Schoss liegenden Blumen zusammenstellend;die erhobene Linke halt ein fertiges Arrangement, dem die rechte Hand neue Blumen zufuhrt. Parklandschaft als Hintergrund.
+
+Leinwand.Hohe 96,5cm,Breite75cm.Goldrahmen.
+## BERNARDO LUINI
+
+geb. zu Luino am Lago Maggiore 1470, gest.nach 1530.
+
+- 84 Madonna mit Kind. In bergiger Landschaft mit weiter Fernsicht, die links durch einen grunen Vorhang teilweise abgeschlossen wird, sitzt,im Kniesticke, die hl. Maria, das Jesuskind
+- auf dem Schosse,das in der Linken ein Blumchen halt und mit der Rechten nach einer zweiten Blume greift, welche ihm von dem kleinen Johannes gereicht wird.
+
+Holz.Hohe 27 cm,Breite 20 cm.Goldrahmen.
+
+## SCHULE deS ANDREA MANTEGNA
+
+- 85 Santa Conversazione. Architektonische Bogenstellung, die ausser zwei Medaillons auf den kleine hl. Johannes einen Apfel reicht. Links steht der hl. Sebastian und ein Heiliger mit die andere mit Kirchenfahne mit Kreuz. Vor der ersten Stufe des Thrones stehen drei
+
+Leinwand.Hohe 57cn,Breite 46 cm.Goldrahmen.
+
+- Kapitalen der die Seiten fankierenden Saulen zwei Engel zeigen, die eine Fruchtengirlande halten. Die Bogenoffnung gewahrt Ausblick in eine hugelige Landschaft,in deren Tiefe eine Kirche und ein Schloss sichtbar sind. Unter dem Bogen sitzt die hl.Maria auf einem Tronsessel, zu dem zwei Stufen fuhren, die Rechte segnend erhoben, mit der Linken das auf ihrem Schosse sitzende Jesuskind haltend,dem der tieferstehende einem Kranz um die Lenden, rechts zwei heilige Frauen, die eine mit Palme und Buch, Vogel. Unter dem Bogenscheitel in einem Lorbeerkranz die Inschrift: Gloria in excelsis etc. Vorn unten im Rasen die Inschrift: Andreas Mantegna pingebat.
+
+## MEISTER VON KAPPENBERG
+
+- 86 Christus am Oelberg. Der Heiland, knieend, die Hande zu dem niederschwebenden Engel
+- Darstellung des Judaskusses und der Verwundung des Malchus durch den hl. Petrus.
+- Tod der hl. Maria. In einem engen Gemach liegt auf einer Bettstatt mit Baldachin die hl. Maria, die Hande gefaltet; um das Bett scharen sich die Apostel, viele Monche,
+- Bischofe etc. Beide Bilder auf Hole.Hohe je 26 cm,Breite je 17 cm.Beide in einem Holerahmen.
+
+## ANTON RAPHAEL MENGS
+
+geb. zu Aussig in Bohmen 1728, gest.zu Rom 1779.
+
+- 87 Papst Clemens XIV. Halbfigur des Papstes mit roter Mutze, roter Cappa und goldgestickter Stola von gleicher Farbe, die Rechte segnend erhoben.
+
+Leinwand.Hohe 20 cm,Breite 15 cm.Goldrahmen.
+
+## MICHIEL JANSZOON VAN MIEREVELT
+
+geb. zu Delft 1567,gest. daselbst 1651.
+
+- 88 Bildnis. Brustbild einer jungen rotblonden Dame in goldgesticktem Haubchen, goldener Halskette und Muhlsteinkragen. Holz.Hohe 41cm,Breite35 cm.Schwarzer Rahmen.
+
+## SCHULE des M.J.v. MIEREVELT
+
+- 89 Portrat Friedrich V.,Kurfirsten von der Pfalz, genannt der Winterkonig (1596-1632).
+
+Holz.Hohe 23 cm,Breite 18 cm.Goldrahmen.
+
+- Brustbild des Fursten, dem Beschauer zugewendet, mit langem braunen Lockenhaar, Schnurr- und Knebelbart von gleicher Farbe, weissem Spitzenkragen, schwarzem reich mit Silber gesticktem Kostum und goldener Ordenskette mit Anhanger.
+## WILLEMVAN MIERIS
+
+geb.zu Leyden 1662,gest. daselbst 1747.
+
+- 90 Cavalier im Seidenladen. Links hinter einem Tische ein reich gekleidetes junges Madchen in Unterhaltung mit einem vor ihm stehenden Cavalier, diesem ein Stick Stoff anpreisend. Neben dem Tisch ein Hundchen und ein Stuhl,auf welchem Stoffe liegen,ebenso wie auf dem rechts im Vordergrunde befindlichen Tische.Im Hintergrunde an einem Kamin,uber welchem ein grosses Bild (Tod Abels) hangt, sitzt ein Alter, der den Finger drohend gegen das scherzende Paar erhebt. Links, in Regalen untergebracht, das grosse, teilweise durch einen Vorhang verdeckte Warenlager.
+
+Holz.Hohe 51 cm,Breite 41 cm.Schwarzer Rahmen.
+
+## PIERRE MIGNARD
+
+geb.zu Troyes 1612, gest. zu Paris 1695.
+
+- 91 Bildnis. Brustbild einer jungen Dame, en face, schwarzharig mit turbanahnlichem buntseidenen Kopftuch,dasdurch eine goldgefasste Gemme vorn zusammengehalten wird,Perlenschmuck als Ohrgehange und als Halskette. Die Dame tragt reiches,goldgesticktes rotes Oberkleid und spitzenbesetztes Unterkleid,dazu grinen Ueberwurf. Die Hande halten ein Schmuckkastchen. Oval.Hole.Hohe75,5cm,Breite59,5 cm.Goldrahmen.
+
+## KLAESMOLENAER
+
+gest. zu Haarlem 1676.
+
+- 92 Kistenlandschaft. Im Vordergrunde unter einem hohen primitiven Lastaufzug steht eine niedere strohbedeckte Fischerhutte,vor welcher zwei Manner mit einem Pferde stehen, welche darauf warten, dass die aus Mann, Frau und Kind bestehende Fischerfamilie die am Boden stehenden Korbe mit Fischen gefullt hat. Links neben der Hutte sitzt am Boden ein ruhender Mann, welchem sich soeben drei Korbe tragende Frauen nahern. Rechts von der Hutte steht ein schwer beladenes Pferd. Im Hintergrunde rechts Ausblick auf die ferne von Booten belebte Kuste,links hinter einem Hugel ein alter runder
+- Turm sichtbar. Holz.Hohe 42 cm,Breite 50 cm.Schwarzer Rahmen.
+- 93 Winterlandschaft. An einem zugefrorenen Flusse stehen vor kahlen Baum-und Weidengruppen drei strohgedeckte Bauernhauser. Im Hintergrunde erhebt sich am Flussufer eine Windmuhie. Auf dem Eise herrscht reges Leben. Im Vordergrunde bepacken Bauern einen Hand- und einen Pferdeschlitten;im Hintergrunde mehrere Schlittschuhlaufer. Am Himmel
+- tribes Gewolk. Holz.H6he36cm,Breite33cm.Schwarzer Rahmen.
+
+## JEAN BAPT. MONNOYER
+
+geb.zu Lille 1634, gest.zu London 1699.
+
+- 94 Blumenstilleben. Gebildet durch einen aus Rosen,Tulpen,Narzissen,Nelken und vielen anderen Gartenblutenbestehenden Kranz.
+- Leinwand.Hohe60cm,Breite75cm.GeschnitzterHolzrahmen.
+
+## GIOVANNI BATTISTA MORONI
+
+geb. zu Albano um 1510, gest.um 1578.
+
+- 95 Bildnis. Halbfigur eines Edelmannes mit dunklem Haupthaar und Bart, weisser Halskrause, schwarzem Kostim und braunem Mantel, goldener Medaille und goldener Halskette. Die beringte Rechte ist in die Hufte eingestemmt,die Linke halt ein Tuch.
+
+Holz.Hohe 92 cm,Breite 72 cm.Goldrahmen.
+## GIOVANNI BATTISTA MORONI
+
+geb. zu Albino um 1510, gest. um 1578.
+
+- weisser,gefalteter Halskrause und hellem Kostim.
+
+Leinwand.Hohe 43 cm,Breite 35 cm.Goldrahmen.
+
+## FREDERIK MOUCHERON
+
+DESSEN ART.
+
+- 97 Landschaft mit Hirtenscene. Im Vordergrunde einer baumreichen Felsenlandschaft sitzt am Ufer eines Gewassers auf einem Erdhugel ein alter Hirte, wahrend seine aus Schafen und einer Kuh bestehende Herde um ihn her ruht. Neben dem Alten,im Gesprache mit ihm begriffen, sitzt ein junges Bauernmadchen auf einer Felsbank.
+
+Leinwand.Hohe 54 cm,Breite 42cm.Schiwarzer Rahmen.
+
+## DANIEL MARTENSZ MYTENS
+
+geb. im Haag 1590, gest. nach 1658.
+
+- 98 Bildnis.(Maria [von England,a. d.Hause Stuart], Gemahlin Wilhelms I.von Oranien,1631—1660). Jugendliches Huftbild in weissem Atlaskleid mit blauem Ueberwurf.Um den Hals liegt ein Perlenkollier. Mit der Linken greift sie in das Wasserbecken eines Brunnens
+- mit Delphinenkopf als WasserspeierIm Hintergrunde Landschaft.
+
+Hole.Hohe 43,5 cm,Breite 33 cm.Geschnitzter Goldrahmen.
+
+## PIETER NEEFFS D.AE.
+
+geb.zu Antwerpen um 1570, gest. um 1651.
+
+- 99 Interieur einer Basilika. Reiche Innenarchitektur mit tiefer Perspektive, im Vordergrunde
+- durch Kostumstaffage belebt.
+
+Links unten bez.Peeter Nefs.
+
+Holz.Hohe 33,5cm,Breite 43cm.Schawarzer Rahmen.
+
+- 100 Kircheninterieur. Vor dem Altar einer Seitenkapelle kniet ein Priester, von Chorknaben und Andachtigen umgeben, die Messe zelebrierend. Rechts tiefer, perspektivischer Blick in
+- das Hauptschiff der Kirche. Holz.Hohe 41,5 cm,Breite 61 cm.Goldrahmen.
+
+## NIEDERLAENDISCHE SCHULE
+
+16. Jahrhundert.
+
+- 101 Christuskopf mit Dornenkrone, die Augen nach aufwarts gerichtet. Zwei Engel halten ein Tuch iber das Haupt des Erlosers. Holz.Hohe 28 cm,Breite 23 cm.Goldrahmen.
+- 102 Zwei Altarfligel. Der Linke zeigt die hl. Maria, stehend, die Hande zum Gebet gefaltet. Der Rechte den hl. Johannes, stehend,mit schmerzlichem Gesichtsausdruck, die Hande ineinandergelegt. Hol.Hoheje 62cm,Breiteje 27,5cm.Goldrahmen.
+
+## NIEDERLAENDISCHE SCHULE
+
+17.Jahrhundert.
+
+- 103 Die Verstossung der Agar.Links im Vordergrunde vor dem Hauseingange steht Agar mit ihrem Sohne Ismael,welch letzterem Sarah Brod darreicht. Im Hintergrunde rechts Ausblick auf Gebirgslandschaft. Hol.Hohe 31 cm,Breite 37 cm.Goldrahmen.
+## NIEDERLAENDISCHE SCHULE
+
+17.Jahrhundert.
+
+- 104 Anbetung der hl. 3 Konige. Links am Stalleingang sitzt auf der Treppe neben einer Saule die hl.Maria,hinter ihr derhl. Josef.Mit beiden Handen halt die hl.Mutter das Jesuskind, das sich zu dem altesten Weihrauch darbringenden Weisen neigt; hinter diesem steht Caspar, der aus einer ihm von einem Knaben gereichten Kassette Kleinodien ent-
+
+Leinwand.Hohe 84 cm,Breite 143 cm.Goldrahmen.
+
+- nimmt. Im Grunde der Mohrenkonig,in der Rechten ein Gefass emporhaltend.
+- 105 Zechender Landsknecht. Gurtelbild eines sitzenden Landsknechtes, welchermitder Rechten einen Tonkrug halt, dessen Deckel er soeben mit der Linken geoffnet hat. Auf dem Kopfe tragt er einen grossen, runden Hut mit gelben Federn; das dunkelblaue Gewand ist mit einer weissen Halskrause und Schlitzarmeln geziert, an der linken Seite tragt er den Korbdegen. Leinwand.Hohe 72cm,Breite 59 cm.Goldrahmen.
+- 106 Die Stickerin. In einem im Vordergrunde rechts durch einen grinen Vorhang nur wenig abgeschlossenen Gemache sitzt ein stickendes, junges Madchen in der charakteristischen Tracht der Niederlanderinnen. Zu ihren Fussen liegt ein Hundchen,von der Decke des Zimmers herab hangt ein Vogelkafg mit Papagei. Das Fenster links gewahrt Ausblick auf ein palastahnliches Gebaude. Holz.Hohe 48 cm,Breite 40 cm.Goldrahmen.
+- 107 Der Geigenspieler. Halbfigur eines wandernden Musikanten mit rundem, braunem Hut, weissem Kragen und braunem Rocke mit weissen Aermelaufschlagen.
+
+Leinwand.Hohe 79cm,Breite 64 cm.Goldrahmen.
+
+- Das lachende Gesicht ist dem Beschauer voll zugewendet, mit der Linken halt er die Geige, dessen Saiten er mit dem Fiedelbogen in seiner Rechten streicht.
+- 108 Baderstube in Teniers Geschmack. Im Vordergrunde einer scheunenahnlichen, grossen
+- Bauernstube, in welche durch ein kleines, geoffnetes Fenster links das Licht fallt, sitzt links ein Bauer, welcher soeben von dem Barbier eingeseift wird. Vier Bauern stehen und sitzen im Gesprach hinter dieser Gruppe. Im Hintergrunde steht vor einem offenen Fenster ein Bauer mit einem Kinde, rechts am Kaminfeuer sitzt, dem Beschauer den Rucken zukehrend,eine Frau. Holz.Hohe 47 cm,Breite 58 cm.Schwarzer Rahmen.
+109. Flusslandschaft. Im Vordergrunde zwischen Baumgruppen und Felsstucken fuhrt eine im schlechten Zustande befindliche Strasse zu dem breiten Flusse. Ein Reitermit einem beladenen Maultiere ist im Gesprach mit einem Bauersmann begriffen,wahrend sich vom Flussufer her ein Mann und eine Frau dem Vordergrunde nahern. Am jenseitigen FlussUfer,zu welchem eine alte,zerfallene Steinbrucke hinuberfuhrt,zieht sich eine befestigte Ortschaft hin. Den Hintergrund bilden weite,hohe und kahle Gebirgszige.
+
+Leimwand.Hohe 38cm,Breite 48cm.Goldrahmen.
+
+- 110 Wirtsstube. In der Mitte des hohen, weiten Gemaches sitzen uu einen Tisch,auf welchem
+- eine Platte mit Hummern,ein hoher Weinkrug und eine Buchse mit Tabak steht, drei Mantel, der in der erhobenen Rechten ein Weinglas halt,das er prufend betrachtet; eine Frau mit runder Haube und Hornbrille,in derRechten ein halbgefulltes Glas haltend und ein junger rauchender Bursche. Rechts von dieser Gruppe an einem zweiten Tische ist eine Magd damit beschaftigt,Fruchte zuzubereiten, wobei ihr ein rauchender, junger Mann Gesellschaft leistet.Links unterhalb der beiden hohen Fenster stehen zwei Musikanten,von welchen der eine singt,wahrend ihn der zweite auf der Geige begleitet. Rechts im Hintergrunde zwischen zwei Sitztruhen eine halbgeoffnete Ture, durch welche soeben eine Frau mit Hund eintritt.Leinwand. Hohe 75 cm,Breite 97 cm. Schwarzer Rahmen.
+## NIEDERLAENDISCHE SCHULE
+
+17.Jahrhundert.
+
+- 111 Seestick. Auf dem vom Sturm gepeitschten Meere werden von den Wellen zwei Segelbote, deren einem sich soeben ein Kahn mit zwei Mannern nahert, hin und hergeschleudert. Rechts erhebt sich ein Felsenriff aus der See, links im Hintergrunde fallen grosse Gebirgszuge steil in das Meer ab. Schwarze Wolkenmassen liegen iber dem Ganzen.
+
+Holz.Hohe 43 cn,Breite 57 cm.Goldrahmen.
+
+- 112 Bildnis eines vornehmen Hollanders (in der Art des Gerard Dow.) Huftbild eines Mannes in mittleren Jahren, dem Beschauer zugewendet. Das schwarze Barett ist mit einem rotlichen Reiher und einer Perlagraffe geschmuckt. Das dunkelgrune Gewand zeigt weisse Aermelaufschlage,an der Linken im Degengehange befestigt ruht das Schwert; eine goldene Halskette mit Medaillen ziert die Brust. In der Rechten halt er eine
+
+Holz.Hohe 38 cm,Breite 30 cm.Schwarzer Rahmen.
+
+- Papierrolle,die linke Schulter bedeckt ein dunkelbrauner Ueberwurf.
+- 113 Bildnis der Marquise Francoise Athenais von Montespan (1641-1704). Kniestick, in reicher Gewandung und Perlenschmuck,in der erhobenen Rechten eine Rose emporhaltend,mit der Linken ein Kind umfassend, das fast nackt, nur mit Federbarett bekleidet, auf einer Bristung sitzt und Blumen im Schoss halt. Links steht ein kleines Madchen mit einem Kirschenzweig in der Hand. Den Hintergrund bildet eine Parklandschaft.
+
+Leinwand.Hohe 101 cm,Breite 85 cm.Goldrahmen.
+
+## NIEDERLAENDISCHE SCHULE
+
+18.Jahrhundert.
+
+- Auf einer Tischplatte liegen Pfrsiche, Kirschen,Trauben, Johannis
+- 114 Frichte-Stilleben.
+- Auf Eisenolech gemalt.Hohe37,5cm,Breite 51 cm.Goldrahmen.
+- Stachel- und Erdbeeren.
+
+## NUERNBERGER SCHULE
+
+Um 1500-1520.
+
+- 115 Christuskopf vom Schweisstuch der hl. Veronica. Kopf des Ecce homo mit der Dornen-
+
+Holz.Hohe 28 cm,Breite 24 cm.Schwarzer Rahmen.
+
+- krone, mit schmerzerfulltem Gesichtsausdruck und Blut- und Schweisstropfen. Links sign. mit dem Monogr. A. D.und 1510.
+
+## OBERDEUTSCHE SCHULE
+
+Ausgang des 15. Jahrhunderts.
+
+- 116 Der hl. Johannes Ev. Gurtelbild in grinem Mantel und rotem Unterkleid. Die Rechte ist segnend erhoben, die Linke halt ein Buch, worauf ein Adler steht. Goldhintergrund. Holz.Hohe 41cm,Breitc 33 cm.Goldrahmen.
+- 116a Der hl. Franziskus. In brauner Kutte, die Hande erhoben und die Wundmale zeigend. Auf Goldhintergrund mit gepunzter Stoffmusterung.
+
+Hole.Hohe 41 cm,Breite 33 cm.Goldrahmen.
+## OBERDEUTSCHE SCHULE
+
+Um1530.
+
+- 117 Kreuzigung. Der Heiland auf glattem,behauenem Kreuz zwischen den beiden Schachern, die an Kreuzen aus unbehauenen, roh zusammengefugten Baumstammen hangen. Links die in Ohnmacht zusammengesunkene hl. Maria, gestitzt von dem heiligen Johannes und umgeben von drei heiligen Frauen, hinter dieser Gruppe vier romische Krieger zu Pferde. Im Vordergrunde rechts zwei Pharisaer im Gesprach.In der Tiefe des Bildes vor waldiger Hugellandschaft die um das Gewand des Erlosers wirfelnden Soldaten.Der
+- Himmel ist von dichtem schwarzen Gewolk umzogen.
+
+Am Kreuz das Monogramm A.D.
+
+Holz.Hohe 52 cm,Breite 36,5 cm.Goldrahmen.
+
+## BAREND VAN ORLEY
+
+geb.zu Brussel um 1488, gest. daselbst 1541.
+
+- 118 Mutter Anna Selbdritt. In einer prachtigen Renaissance-Halle sitzt vor einer dunkelgrinen
+- Portiere die hl. Maria neben der Wiege, auf deren Kissen das nackte,von der Mutter gehaltene Jesuskind steht, den hl. Johannes segnend, den die auf dem getafelten Boden knieende hl. Anna halt. Die grosse Rundbogen-Fensteroffnung gibt einen Ausblick in eine herrliche Landschaft mit einem prachtigen Schloss,weiten grunen Wiesen,dem blauen Meer und als Abschluss den tiefblauen,von pittoresken weissen Wolken belebten Himmel. Hinter der Wiege steht ein Engel mit ausgebreiteten Flugeln,mit der Rechten einen Blumenkranz uber das Haupt der hl. Maria haltend,in der Linken die Palme tragend. Holz.Hohe 85 cm,Breite 68 cm.Goldrahmen.
+
+## GEORG PENCZ
+
+geb.zu Nurnberg 1500, gest. daselbst 1550.
+
+- 119 Bildnis. Brustbild eines an einem Tische sitzenden Patriziers mit langem braunen Bart, schwarzem Barett, schwarzem,mit breitem braunen Pelzkragen besetzten Rock und Lederhandschuhen. Beide Arme sind auf den Tisch gelegt.Den Hintergrund bildet eine dunkelgrine Kachelwand. Holz.Hohe 72 cm,Breite 52 cm.Goldrahmen.
+
+## PIETRO PERUGINO,eigentlich VANNUCCI NACHIHM.
+
+- 120 Madonnenkopf.. Brustbild der hl. Maria, der Kopf, im Profl nach links, demutsvoll geneigt;
+- einfaches goldgesticktes Haubchen, rotes Untergewand und gruner Ueberwurf bilden die Kleidung. Als Hintergrund eine weite flache Landschaft, die nur links am Rande des Bildes einen leicht ansteigenden Berg zeigt.
+
+Holz.Hohe30 cm,Breite 29,5cm.Goldrahmen.
+
+## GIOV.BATTISTA PIAZZETTA
+
+geb.zu Venedig 1682,gest. daselbst 1754.
+
+- rotem Kopftuch,weissem Kragen und blauem rotgestreiften Gewande.
+
+Leinwand.Hohe 43 cm,Breite 34 cm.Goldrahmen.
+## CORNELIS POELENBURG
+
+geb.zu Utrecht 1586,gest.daselbst 1667.
+
+- 122 Christus am Oelberg. Der Heiland kniet im Gebet, uber ihm schweben in einer lichten
+
+Holz.Hohe 42,5 cm,Breite 34 cm.Schwarzer Rahmen.
+
+- Wolke Engel, von denen einer dem Erloser den Kelch entgegenhalt. Links die drei schlafenden Junger. Im fernen Hintergrunde rechts ein Gartentor, durch welches man Judas mit den Schachern herankommen sieht.
+- 123 Der heilige Antonius. Im Vordergrunde vor einer Felsengrotte auf einer Rasenbank steht ein Kruzifix,vor ihm liegen ein Totenkopf,ein aufgeschlagener Foliant und ein Stundenglas. Vor dem Kruzifix kniet der Heilige, den Blick nach ruckwarts gewandt zu den
+
+Holz.Hohe 32 cm,Breite 35 cm.Sehwarzer Rahmen.
+
+- auf Wolken schwebenden,musizierenden Engeln.
+
+## CORNELIS POELENBURG
+
+## DESSENART.
+
+- 124 Die Bergpredigt. Im Vordergrunde einer higeligen baumreichen Landschaft steht Christus von einer grossen Schar Manner, Weiber und Kinder umgeben, welche andachtig seiner Predigt lauschen, wahrend weitere Glaubige aus dem Mittelgrunde dieser Gruppe zueilen.
+
+Holz.Hohe 26 cm,Breite 36 cm.Schwarzer Rahmen.
+
+- Im fernen Hintergrunde ist eine befestigte Stadt sichtbar.
+- 124a Die Kreuztragung. Gegenstick zum Vorigen. Auf dem Wege nach Golgatha, hinter einem Gefolge von Kriegern zu Fuss und zu Pferde mit den beiden Schachern, und von Jungern und hl.Frauen begleitet,ist der Erloser soeben unter dem Gewichte des Kreuzes zusammengebrochen. Vor ihm kniet die hl. Veronika und reicht ihm das Schweisstuch dar,wahrend ein alterer Mann ihm die Last des Kreuzes abzunehmen versucht. Im Hintergrunde rechts auf einem Hugel erblickt man bereits errichtete Kreuze. Links Ausblick in das Tal mit Jerusalem. Holz.Hohe 26 cm,Breite 36 cm. Schwarzer Rahmen.
+
+## FRANZ POURBUS D. AE.
+
+geb.zu Brigge 1540, gest. zu Antwerpen 1580.
+
+- 125 Bildnis. Brustbild eines jungen Mannes mit dunklem Haupthaar, sparlichem Schnurr-und
+
+Hole.Hohe 41 cm,Breite 29 cm.Schawarzer Rahmen.
+
+- Kinnbart, in Muhlsteinkragen und dunkler spanischer Tracht.
+
+## ADAM PYNACKER
+
+geb.1621, gest.1673.
+
+- 126 Das Felsentor. Am Fuss einer steil abfallenden und oben dicht mit Gestripp und Baumen bewachsenen Felswand steht ein Handler mit einem schwer beladenen Pferde und seinem Hunde. Daneben auf dem Erdboden sitzt ein Mann im Gesprache mit einer neben ihm stehenden Frau. Links bildet die erwahnte Felswand ein machtiges Tor, das einen weiten Fernblick auf die Meereskuste gewahrt. Eine Landzunge mit einem alten,runden Turm schiebt sich weit in das Wasser vor;Segelboote beleben die See,ein Maultiertreiber mit seinen zwei bepackten Tieren nahert sich dem Ufer,an welchem drei Frauen ruhen Weite Gebirgszige schliessen das Bild ab.
+
+Leinawand.Hohe 100 cm,Breite 85 cm.Goldrahmen.
+## SCHULE des RAFAEL SANTI
+
+- 127 Madonna. Die hl. Maria sitzt knieend in einer hugeligen Landschaft, bekleidet mit rosa-
+- farbenem Untergewand und blauem Ueberwurf.Der Kopf ist liebevoll nach links geneigt zu dem auf den Schoss der Mutter aufsteigendenJesuskinde,das die rechte Hand an den Brustausschnitt des Kleides der hl. Maria legt. Von links kommt der kleine hl. Johannes,ebenfalls nackt wie das Jesuskind, in der Rechten eine Schriftrolle mit Agnus Dei etc.darreichend, in der Linken den Kreuzstab,das Gesicht dem Beschauer zuwendend.Im Hintergrund links vor den dem Blick abschliessenden Hugeln eine grosse Stadt. Auf einer Borde des blauen Obergewandes, auf die die rechte Hand der Madonna hinweist, das Datum M.D.VI. Hol.Hohe 100 cm,Br.79,5 cm.Reich geschniteter Goldrahmen.
+
+## GUIDO RENI
+
+geb.zu Calvenzano bei Bologna 1575,gest.zu Bologna 1642.
+
+- 128 Grisaille Studie Zu dem Altarbild im Dome zu Pesaro. Die hl. Jungfrau mit dem Kinde umgeben von dem hl. Hieronymus, dem hl. Thomas von Aquin und der allegorischen Figur der Gerechtigkeit.Ueber dieser Gruppe schweben in den Wolken zwei Engelskopfe.
+- Leincand.Hohe 51 cm,Breite 37cm.Goldrahmen.
+
+## LEOPOLD ROBERT
+
+geb. zu Eplatures bei La Chaux de Fonds 1794, gest. zu Venedig 1835.
+
+- 129 Hirtenknabe. Gurtelbild eines die Arme auf einem Felsenpostament aufstitzenden Knaben in schwarzem Schlapphut,langem braunen Lockenhaar und blauem Gewande. Im Hintergrunde Gebirgsszenerie. Holz.Hohe 53 cm,Breite 43 cm.Goldrahmen.
+- 130 Ziegenhirt. Im Vordergrunde einer Gebirgslandschaft mit durftiger Vegetation zieht an der
+- Spitze seiner Ziegenherde,von einem Hunde begleitet,ein italienischer Hirt,in der Rechten den Hirtenstab,in der Linken eine kleine Ziege tragend. Rechts unten bez.Leop.Robert. Leinawand.Hohe 53cm,Breite 63 cm.Goldrahmen.
+
+## WILLEM ROMEYN
+
+geb. zu Haarlem um 1624, gest. nach 1693.
+
+- 131 Landschaft mit Hirtenstick. Im Vordergrunde steht eine Kuh,um welche mehrere Schafe grunde links fiessenden Flusse herkommt. In der Tiefe des Bildes zwischen dichten
+
+Leinwand.Hohe42cm,Breite 56cm.Goldrahmen.
+
+- am Erdboden liegen,wahrend ein Bauernmadchen mit einem Schafe von dem im HinterWaldungen ein Schloss,ferne Gebirgszuge schliessen die Scenerie.
+
+## SALVATOR ROSA
+
+geb.zu Renella 1615, gest.zu Rom 1673.
+
+- 132 Gebirgslandschaft. Links vom Ufer eines schmalen Flusses fuhrt zwischen Weideland und Baumgruppen eine Strasse,auf welcher ein Madchen und ein Hirte mit einer Kuh und einem Hund dem Vordergrunde zueilen.Ein zweiter Hirte weidet seine Herde,wahrend ein dritter soeben sein Tier im Flusse trankt. Am jenseitigen Ufer am Fusse eines steilaufsteigenden,kahlen Gebirgsstockes liegt zwischen hohen und niederen Baumgruppen ein schlossahnliches Gebaude. Leinwand.Hohe70cm,Breite 86cm.Goldrahmen.
+## SALVATORROSA
+
+geb.zu Renella 1615, gest.zu Rom 1673.
+
+- 133 Sidlandische Hafenlandschaft. Rechts am Meeresufer erheben sich die Ruinen eines antiken Tempels,hinter diesen sind die massigen Turme eines alten kastellartigen Gebaudes sichtbar. Aus mehreren Segelbooten werden von zahlreichen Arbeitern Warenballen ausgeladen,rechts im Vordergrunde steht ein Maultiertreiber mit einem kleinen Knaben und seinem schwerbeladenen Tiere. Links auf der See manoverieren zwei grosse,reich mit Flaggen geschmuckte Segelschiffe. Den Hintergrund bildet die Kuste mit weiten hohen Gebirgszugen. Leinwand.Hohe 88 cm,Breite 118 cm.Goldrahmen.
+
+## JOHANN ROTTENHAMMER und JAN BRUEGEL
+
+geb.zu Munchen 1564, gest.zu Augsburg 1623 geb. zu Brussel 1569, gest. zu Antwerpen 1625.
+
+- 134 Heilige Familie. In reicher Waldlandschaft sitzt am Ufer eines Gewassers die hl. Maria, das stehende Jesuskind haltend, dem der hl. Johannes ein Lamm darbringt. Hinter dieser Gruppe stehen der hl. Joseph und ein Engel, der einen mit Obst reich gefullten Korb darbringt. Rechts schwebt ein Blumen bringender Engel herbei, uber der Hauptgruppe
+
+Holz.Hohe 69 cm,Breite 66,5 cm.Goldrahmen.
+
+- zwei kleine schwebende Engel mit Palmen und Blumenkranz.
+
+## JOHANN ROTTENHAMMER
+
+DESSEN ART.
+
+- 135 Maria mit dem Kinde, welch letzteres mit beiden Handen nach dem vor ihm knieenden hl. kleinen Johannes greift. Links im Vordergrunde das Lamm. Rechts durch eine Mauerffnung Ausblick aufbewaldete Gebirgslandschaft.
+
+Stein.Hohe22 cm,Breite 17 cm.Geschniteter Goldrahmen.
+
+## PETER PAUL RUBENS
+
+NACH IHM.
+
+- 136 Madonna mit Kind. Kniestick der sitzenden Madonna,welche mit schwarzem Kopftuch,
+
+Leinawand.Hohe 93 cm,Breite 82 cm.Goldrahmen.
+
+- rotem Gewande und blauem Ueberwurf bekleidet ist. Mit beiden Handen halt sie das auf ihrem Schosse knieende,zu ihr aufblickende Jesuskind umschlungen.
+- 137 Der Liebesgarten, von den Hollandern auch ,Venus Lusthof genannt.
+- Copie nach dem Gemalde in der Dresdener Galerie. Hole.Hohe 62 cm,Breite 90 cm.Schawarzer Rahmen.
+- 138 Helene Fourment. Copie nach dem unter dem Namen La Pelisse bekannten Rubens'schen
+- Bildeinder Wiener Galerie. Leinwand.Hohe 57cm,Breite 44 cm.Goldrahmen.
+
+## SCHULE des RUBENS
+
+- 139 Bildnis. Brustbild eines Kardinals im Profil nach links, mit braunem Spitzbart, rundem roten Kardinalshut und roter Kardinalstracht. Leinwand.Hohe 42cm,Breite 39 cm.Goldrahmen.
+## RACHEL RUYSCH
+
+geb.zu Amsterdam 1664,gest.1750.
+
+- 140 Fruchtstick. Vor einer Mauer und einem Baumstamm liegen am Boden Pfirsiche,Aprikosen, Weintrauben, Kurbisse, ein Vogelnest mit Eiern etc. Das Ganze belebt durch Raupen, Eidechsen,Blatter- und Blutenwerk.
+
+Unten in der Mitte bez.Rachel Ruysch 1715.
+
+Leinawand.Hohe 73 cm,Breite 61,5 cm.Goldrahmen.
+
+## JAKOB RUISDAEL
+
+## NACH IHM.
+
+- 141 Landschaft. Im Vordergrunde ein Wassertumpel, zu dem eine Schafherde von zwei Hirten zur Tranke gefuhrt wird. Hugeliges Terrain mit Baumgruppen. Am blauen Himmel steigen Gewitterwolken auf.
+
+Hole.Hohe 44 cm,Breite 53cm.Schawarzer Rahmen.
+
+Links unten monogrammiert: J. v. R.
+
+## SCHULE des JAKOB RUISDAEL
+
+- 142 Baumreiche Flusslandschaft. Die beiden Seiten des ruhig dahinfliessenden Waldstromes sind mit Baumgruppen und Gebusch uppig bewachsen. Im Vordergrunde links schiebt sich eine Landzunge,welche mit Gestrupp und gefallten Baumstammen bedeckt ist,in das Wasser vor. Leinwand.Hohe 48 cm,Breite 39 cm.Schwarzer Rahmen.
+
+## HERMANN SAFTLEVEN
+
+geb,zu Rotterdam 1609,gest.zu Utrecht 1685.
+
+- 143 Die Verkiindigung an die Hirten. Links oben in dem geoffneten Gewolke, aus welchem greller Lichtschein auf die im Vordergrunde befindliche Hirtenfamilie mit ihren Heerden fallt, steht von Cherubims umschwebt der Verkundigungsengel, den Hirten die Botschaft kundend. Holz.Hohe 68 cm,Breite 88 cm.Schawarzer Rahmen.
+- 144 Stallinneres. Auf der Stiege links,von einem alten Bauern, der sich versteckt halt,belauscht,
+- sitzt ein Bursche und ein Madchen im traulichen Gesprache. Einige Stufen unterhalb liegt eine Katze, die ein Hund wutend anbellt. Ein Pferd, Ziegen, Schafe und Huhner beleben das Innere des Stalles,wahrend eine Frau mit ihrem Kinde dem Hintergrunde zuschreitet. Holz.Hohe 58cm,Breite74 cm.Schwarzer Rahmen.
+
+## ANDREA d'AGNOLO DEL SARTO
+
+geb.zu Gualfondo bei Florenz 1487, gest. daselbst 1531.
+
+- 145 Allegorie. Brustbild einer jungen Frau mit rotem Kopftuch und blauem Gewande mit gelbrotem Ueberwurf. Der Korper ist nach links gewandt, der anmutige Kopf dem Beschauer beinahe voll zugewandt. In der Rechten halt sie einen Zirkel, in der Linken ein geschlossenes Buch. Holz.Hohe 68 cm,Breite 48 cm.Goldrahmen.
+## CHRISTIAN GEORG SCHUETZ
+
+DESSENART.
+
+- 146 Landschaft. Links im Vordergrunde ein hohes Bauernhaus zwischen Baumen. An dem Hause fuhrt eine Strasse vorbei, welche durch einen Wandersmann und eine Bauernfrau mit Kind belebt wird. Rechts im Hintergrunde am Ufer eines Baches Hirt mit Herde,im Hintergrunde zwischen Baumgruppen Bauernhauser und in weiter Entfernung eine Dorfkirche sichtbar. Holz.Hohe 25 cm,Breite 32cm.Goldrahmen.
+
+## SPANISCHE SCHULE
+
+17.Jahrhundert.
+
+- 147 Studie Zu einem Plafond. Das Ganze ist als Kuppel gedacht, in deren Mitte der hl. Geist
+- in Gestalt einer Taube schwebt. Zahllose Scharen fullen die Wolbung, drei eine MonVerkundigungsengel verteilen sich auf den Raum. Drei Wappenschilde mit dem Monound heiligen Frauen. Leinwand.Hohe 71 cm,Breite 68cm.Goldrahmen.
+- bank steht, steht im Kniestick die Figur eines sonnengebraunten Strassenhandlers, der frisches Trinkwasser an zwei grossere Knaben verabreicht.
+
+Leinwand.Hohe 106cm,Breite 80 cm.Goldrahmen.
+
+## SPANISCHER MEISTER
+
+Um 1700.
+
+- 149 Kreuzigung. Links erhebt sich das Kruzifix mit dem Erloser, die knieende hl. Magdalena umfasst den Schaft das Kreuzes. Rechts die hl. Maria vom hl. Johannes getrostet. Im Hintergrunde die Stadt Jerusalem. Der Himmel von schweren, schwarzen Wolken umzogen. Hole.Hohe 64 cm,Breite 48 cm.Goldrahmen.
+
+## DIRK STOOP
+
+geb. zu Dordrecht um 1610, gest.um 1686.
+
+- 150 Die Rast vor dem Wirtshause. In einer oden, felsigen Flusslandschaft steht eine armliche Schenke, vor welcher ein Bauer zu Pferde, ein Cavalier und dessen Dame zu Pferde und ein seine Muskete ladender Jager mit seinen Hunden Rast gemacht hat. Im Mittelgrunde erhebt sich ein zweites Gebaude, unter dessen Ture vier Manner, im Gesprach begriffen, stehen. Ein Knecht holt soeben in einem Kubel Wasser aus dem Flusse. Im Vordergrunde steht das Pferd des abgestiegenen Cavaliers vor dem Futtertroge.
+
+Links unten bez.:D.Stoop f.1644.
+
+Holz.Hohe 47 cm,Breite 62 cm.Schwarzer Rahmen.
+
+- 151 An der Tranke. Im Vordergrunde rechts einer Hugellandschaft befindet sich ein Brunnen, aus welchem ein Reiter sein Pferd und ein unbepacktes Maultier, welches er am Zugel fuhrt, trinken lasst. Ein zweiter Reiter sprengt aus dem Mittelgrunde dieser Gruppe zu. Rechts unten bez. D. Stoop. Holz.Hohe22cm,Breite28cm.Goldrahmen.
+## ABRAHAM VAN DEN TEMPEL
+
+geb. zu Leyden 1618,gest. 1672.
+
+- 152 Das Geschwisterpaar. Ein junges Madchen mit goldblondem Haar, das mit einem hellbraunem Gewande mit weissen Aermeln bekleidet ist,halt in der Rechten einen Korb mit Frichten, aus welchem sie soeben im Begriffe steht,Trauben und Pfirsiche auf ein gekleidete Bruder steht neben ihr und verfolgt aufmerksam ihr Tun. Den Hintergrund bildet dichtes Waldesdunkel, welches nur links oben sparliches Licht durchdringen lasst. Leinwand.Hohe 123 cm,Breite 102cm.Goldrahmen.
+
+## HENDRIK TEN OEVER
+
+Lebte um 1690 zu Zwoll.
+
+- 153 Gebirgige Flusslandschaft. Im Vordergrunde zwei Hirten und Frauen mit Rindern und Schafen. Im Mittelgrunde rechts vorspringende Landzunge mit Wascherin in einem Kahne;mehrere Boote und zweiraderiger Pferdekarren im Wasser. Der Fluss selbst ist von Lastbooten belebt. An den beiden Ufern Gebaude am Fusse hochansteigender Berge; auf diesen mit Felsblocken durchsetzte Waldungen und Matten. Im Hintergrunde hohe Gebirgszuge. Leinwand.Hohe 100 cm,Breite 117 cm.Schwarzer Rahmen.
+
+## DAVID TENIERS D.J.
+
+NACH IHM.
+
+- 154 Bauernkirchweih.Vor dem an der Strassenkreuzung des Dorfes gelegenen Wirtshause sitzen zahlreiche,zechende und schmausende Bauern um den weissgedeckten, reich mit Speisen beladenen Tisch. Links im Vordergrunde hat ein Charlatan ein Podium errichtet und
+- produziert sich hier mit seinem Harlekin vor einem zahlreichen Publikum, unter welchem sich auch ein Brillenhandler befindet. Rechts vorn um ein Fass sitzen mehrere rauchende Bauern, wahrend ein Rattengiftverkaufer in der Strasse rechts einige Leute um sich zu locken verstanden hat. Zechende und betrunkene Bauern beleben des Weiteren die beiden Dorfstrassen. Leinwand.Hohe 104cm,Breite 129 cm.Schwarzer Rahmen.
+
+## GERARD TERBORCH
+
+DESSENART.
+
+- 155 Der Flotenspieler. Bildnis eines jungen Mannes mit langem braunen Lockenhaar, in dunklem Gewand mit weissem Umlegekragen und weissen Aermelpuffen; Gurtelbild, in einem Lehn-
+- stuhl sitzend. Die rechte Hand halt ein Notenheft,die linke eine Flote.
+
+Kupfer.Hohe 16 cm,Breite 12,5 cm.Schwarzer Rahmen.
+
+## GIOV.DOMENICO TIEPOLO
+
+geb. zu Venedig 1726, gest. in Spanien 1795.
+
+- 156 Bildnis. Brustbild eines alten Mannes mit kahlem Haupt und grauem Vollbart. Die offene
+- Brust mit einem Hemd bekleidet,woruber ein roter Ueberwurf.
+
+Leinwand.Hohe 50cm,Breite 38cm.Goldrahmen.
+## JACOB TOORENVLIET,gen.JASON
+
+geb.zu Leyden 1641, gest. 1719.
+
+- 157 Die Schreiber. Hinter einer Brustung, auf welcher ein aufgeschlagener Foliant liegt, stehen, in Halbfigur schtbar und mit Buchern in den Handen,zwei Schreiber,welche miteinander im Gesprach begriffen sind. Holz.Hohe29 cm,Breite25 cm.Goldrahmen.
+
+## JOACHIM UITEWAAL
+
+geb.zu Utrecht 1566, gest.nach 1626.
+
+- 158 Urteil des Paris. In hugeliger Waldlandschaft die drei Gottinen mit ihren Attributen und
+
+Holz.Hohe 53 cm,Breite 68 cm.Schwarzer Rahmen.
+
+- mit je einem Putto.Links vor den Gottinen Paris der Aphrodite den Apfelzuerkennend. Auf der Seite des Paris,aber durch einen moosbewachsenen Felsblock von ihm getrennt, Merkur,mit einer Geste des Bedauerns das Urteil des Schafers begleitend. In der linken Ecke des Bildes unter Schilf halb verborgen lauscht ein Triton mit einem Schaufelruder dem Urteil,rechts im Mittelgrund eine Gesellschaft von Waldnymphen,hinter ihnen ffnet sich ein perspektivischer Fernblick in die Landschaft.
+
+## UMBRISCH-BOLOGNESISCHE SCHULE
+
+- 159 Madonna mit zwei Heiligen. Auf einem Trone, zu dem zwei Stufen fuhren, sitzt vor der hohen,mit einem Goldbrokatstoff belegten Rickenlehne die hl.Maria;auf ihrem linken Knie steht das Jesuskind,das sie mit beiden Handen halt,und das sich mit der Rechten beim Throne steht der hl. Johannes der Taufer, rechts die hl. Barbara. Der Hintergrund zeigt eine Gebirgslandschaft. Holz.Hohe 72 cm,Breite 52 cm.Goldrahmen.
+
+## UNBEKANNTER MEISTER
+
+- 160 Der Triumph der Amphitrite. Von Tritonen und Nereiden umgeben und von Amoretten Wellen. Im Hintergrunde links fallen felsige Berge in das Meer ab.
+
+Hole.Hohe 33 cm,Breite 47cm.Schawarzer Rahmen.
+
+- 161 Mannliches Bildnis. Gurtelbild eines jungen Mannes, der im Begriffe steht, mit seiner Rechten einen Ring vom Zeigefinger der linken Hand herabzuziehen. Das schwarze,auf das braune Haar gedruckte Barett zeigt ein goldenes Wappen, der pelzverbramte, dunkelbraune Mantel lasst den verschnurten offenen Rock mit dem weissen Untergewande und die roten Aermel des Portratierten frei. Holz.Hohe 67 cm,Breite 52 cm.Goldrahmen.
+- 162 Auf der Weide. Copie nach Paul Potter. Zwei Rinder und drei Schafe weiden auf einer
+- Wiese,welche im Mittelgrunde links durch eine Umzaumung von einem Garten abgeschlossen
+- wird. Im fernen Hintergrunde rechts Rinderherde und Dorfkirche sichtbar.
+
+Holz.Hohe 34 cm,Breite 42 cm.Goldrahmen.
+
+- 163 Brustbild der Mutter Schillers in blauem Kleide mit weissem Spitzenkragen. Oval. Kupfer.Hohe 14 cm,Breite 11 cm.Geschnitzter Goldrahmen.
+## ADRIEN VERDAEL
+
+geb. zu Overmaas 1620, gest.1681.
+
+- 164 Die Konigin von Saba vor Salomo. Im Freien vor dem Palaste sitzt auf dem kostbar ornat mit Scepter. Auf Sesseln sitzen einige Stufen tiefer vier Grosse seines Hofes. Rechts kniet auf der ersten Stufe die prachtig gekleidete Konigin von Saba,geleitet von zwei Frauen und zwei Pagen,den Konig auf die reichen Geschenke hinweisend,die ein rotgekleideter Mohr vor dem Stufenaufgang ausgebreitet hat. Rechts Ausblick in den Arkadengang des Schlosshofes.
+
+Links unten bez.V. Dael.
+
+Hol.Hohe 47 cm,Breite 62 cm.Schawarzer Rahmen.
+
+## VERONESISCHE SCHULE
+
+- 165 Erzengel. (Nach einem alten Fresco.) Brustbild eines Engels mit braunem Lockenhaar,breitem Heiligenschein,rotem Untergewand und grinem goldgeschmuckten Mantel, der durch
+- einen Rubinschmuck uber der Brust zusammengehalten wird.
+
+Leinwand.Hohe 55 cm,Breite 43 cm.Goldrahmen.
+
+## JAN VICTOORS
+
+geb.um 1615, gest. 1670.
+
+- Links fuhrt die Landstrasse von einem grossen See her zu dem rechts befindlichen Wirtshausemit dem aufeinemSchilde dargestellten Schwan als Wahrzeichen, junge Laubbaume staffieren den Platz vor der Schenke.Vor dieser halten zwei berittene Cavaliere,der eine ist abgesessen,lasst sein Pferd von einem Knecht futtern,wahrend er selbst, mit der jungen Magd scherzend, von dem Wirt ein Glas Wein entgegennimmt. Der andere Cavalier ist im Sattel geblieben und folgt von da aus den Scherzen seines jungen Gefahrten;eine unter den Laubbaumen sitzende,aus Steinkrigen trinkende Bauerngesellschaft und ein aus einem Fenster des Erdgeschosses des Wirtshauses schauendes
+- 166 Halt vor dem Wirtshaus.1 Madchen betrachten aufmerksam die neu angekommenen Gaste.
+
+Leinwand.Hohe71 cm,Breite 86 cm.Schwarzer Rahmen.
+
+## VLAEMISCHE SCHULE
+
+17.Jahrhundert.
+
+- 167 Die Vermahlung des Bacchus und der Ariadne. Bacchanten und Bacchantinen, Satyre, sowie der von zwei Faunen auf einem Esel festgehaltene, trunkene Silen eilen den beiden
+- Amoretten schweben in der Luft iber diesem Zuge.
+
+Holz.Hohe 35,Breile 62cm.Goldrahmen.
+
+- Gewasser,an dessen Ufer mit ihren beidenJagdhunden die entkleidete Gottin Diana sitzt, welche anscheinend soeben dem Bade entstiegen ist. Hinter ihr liegt der Kocher mit den Pfeilen. Rechts,in der Felsengrotte versteckt,steht in halber Figur sichtbar ein Faun,
+- der die Gottin belauscht. Eisenblech.Hohe24cm,Breite32cm.Goldrahmen.
+- 169 Landschaft mit Herde. Am Rande des dichten Laubwaldes vorbei fuhrt eine auf dem
+- Esel reitende Hirtin ihre Herde der Tranke zu. Im fernen Hintergrund zwischen Gebusch ist ein Bauerndorf mit Kirche sichtbar. Holz.Hohe 19 cm,Breite 31cm.Goldrahmen.
+## SIMON DE VLIEGER
+
+geb. zu Amsterdam 1602, gest.um 1670.
+
+- 170 Marine. Im Vordergrunde links ein grosses Kriegsschiff Dreimaster), welches ein Boot aussetzt. Im Hintergrunde mehrere Kriegsschiffe, rechts im Vordergrunde ein Fischerboot mit zwei Fischern. Leinwand.Hohe 67cm,Breite 59 cm.Goldrahmen.
+
+## ELIAS VONCK
+
+## DESSEN ART.
+
+- 171 Stilleben. Auf einer Tischplatte steht ein Messingstandleuchter mit einer brennenden Kerze,
+- einem Korbchen liegend,vervollstandigt das Stilleben.
+
+Hole.Hohe 48 cm,Breite 64 cm.Goldrahmen.
+
+## JOHANNES VOORHOUT
+
+geb.zu Uithoorn bei Amsterdam 1647,gest.1720.
+
+- 172 Pieta. Am Fusse des Kreuzes auf einem Felsblock sitzt die hl. Maria, im Schoss den Leichnam des Erlosers haltend,dessen Lendentuch von zwei links stehenden Engeln gehalten wird. Im Vordergrunde liegt ein Becken mit einem Schwamm,von links her aus dem Hintergrunde falt ein von Engelskopfen belebter Lichtschein auf den Leichnam.
+
+Holz.Hohe 50 cm,Breite 60 cm.Goldrahmen.
+
+## JOHANN DE WETT
+
+geb. zu Hamburg 1617.
+
+- 173 Christus und die Ehebrecherin. Inmitten des Tempels, auf einer Stufe erhoht, unterhalb
+- einer hohen Saule steht von drei Schriftgelehrten umgeben Christus, zu dessen Fussen von Priestern,einem Krieger und Mannern aus dem Volke. Links erblickt man den Zugang zum Allerheiligsten, rechts im Vordergrunde ein Lesepult mit einem aufgeschlagenen Buche. Holz.Hohe 82 cm,Breite 63 cm.Schwarzer Rahmen.
+
+## MICHAEL WOLGEMUT
+
+geb.zu Nurnberg 1434, gest. daselbst 1519.
+
+- 174 Bildnis eines Patriziers. Gurtelbild,mit langem grauen Haar, schwarzem Barett, schwarzem pelzverbramten Mantel, die ringgeschmickten Hande unterhalb der Brust lose ineinandergelegt.
+
+1500 beigefigt).
+
+(Auf dem roten Hintergrund von spater Hand das Monogramm A.D.und die Jahreszahl
+
+Auf der Ruckseite des Bildes Allianzwappen mit gemeinsamem Helmschmuck; das eine ibereinanderstehende Zinnenreihen,die Untere gold,die Obere rot auf schwarzem Fond.
+
+Hol.Hohe 38 cin,Breite 30 cm.Goldrahmen.
+
+Wa ppenschild zeigt drei heraldische rote Rosen auf goldenem Felde, das andere zwei Der mit Rankenwerk fankierte Helmschmuck zeigt zwei schwarze Stierhorner, welche die roten Rosen auf goldenem Fond tragen,auf goldenem Helm mit geschlossenem Visier. Das ganze Wappen auf rotem Fond mit der Jahreszahl 1500.
+## THOMAS WIJCK
+
+geb. zu Beverwijck 1616, gest.zu Haarlem 1677.
+
+- 175 Der Alchymist. In einem Kreuzbogengewolbe unter einer Menge von Buchern, Apothekereine gefullte Glasflasche in der erhobenen Rechten haltend. Rechts im Mittelgrunde ein Diener mit einer Schussel, weiter hinten,an einem Fenster sitzend,zwei Frauen. Durch
+- ein weites Fenster links fallt das Licht ins Gemach.
+
+Rechts unten bez.: T. Wijck.
+
+Leinwand.Hohe 75 cm,Breite 63 cm.Schwarzer Rahmen.
+
+## ANTON WOENSAM VON WORMS
+
+Lebte zu Coln um 1525-1538.
+
+- 176 Tod und Himmelfahrt Maria. In einem weiten Raum,dessen Wande mit Holztafelung verkleidet sind,ist auf einer langen,hohen Bettlade, deren Unterbau einen truhenahnlichen Eindruck macht,und welche in den einzelnen Feldern und am Fries reich mit geschnitztem Rankenwerk verziert ist, die hl.Maria auf grinen Polstern gebettet und mit grunem Tuch bis zur Halfte bedeckt. In sitzender Stellung liegend,mit weissem Kopftuch und blauem Gewand bekleidet, zeigt sie den apathischen, von allem Irdischen bereits geschiedenen Ausdruck der Sterbenden.Von links tritt der hl. Johannes in rotem Gewand an das Lager,der Sterbenden eine hohe Kerze in die linke Hand gebend. Dahinter mehrere Apostel und Bischofe, wovon einige mit Weihwasserkessel und Weihrauchgefass, andere in Gebetbichern lesend,dargestellt sind.Rechts von der Sterbenden drei Apostel mit Gebetbuchern. Ueber dieser Versammlung in der Hohe des um das Zimmer laufenden, mit Gefassen und Buchern belegten Gesimses, dieses zum grossten Teil verdeckend, ist die Himmelfahrt Maria dargestellt. Von zahlreichen Engeln auf Wolken getragen, kniet Ueber ihr halten Christus und Gott Vater die Krone, woruber der hl. Geist schwebt. Rechts und links zwischen zahlreichen Engeln die Vater des alten und neuen Bundes, besonders hervorgehoben Konig David mit der Harfe. Ein reicher Rundbogenbau, von dem Lichte erfult, das yon der hl. Dreieinigkeit ausstrahlt,gibt der Gruppe der Kronung Maria einen architektonischen Abschluss.
+
+Rechtsunten an einer Stufe die Bezeichnung: Albertvs Dvrer Alemanvs Fatiebat Anno 15l5.Darunter das Monogr.Durers.
+
+Holz.Hohe 138 cm,Breite 158 cm.Goldrahmen.
+
+## PHILIPP WOUWERMAN
+
+## DESSEN ART.
+
+- 177 Reitergefecht.In einer weiten,hugeligen Landschaft,in deren Vordergrund rechts sich eine hohe Baumgruppe erhebt, tobt zwischen Reitertruppen ein erbitterter Kampf. Ueber die im Mittelgrunde gelegene Brucke eilen soeben weitere Scharen dem wilden Schlachtgetimmel zu, Holz.Hohe 34 cm,Breite 43m.Goldrahmen.
+
+## FRANCISCO ZURBARAN
+
+geb. zu Fuente de Cantos 1598, gest. zu Madrid um 1662.
+
+- 178 Der hl.Franziskus in seiner Zelle. Im Huftbild,mit uber der Brust gekreuzten Armen und Heiligenschein;vor dem Heiligen steht ein Kruzifix auf einem Tisch neben einem Toten-
+- kopf, einem Stundenglas und mehreren Folianten. Die Hande des Heiligen zeigen die Wundmale. Leinwand.Hohe 130 cm,Breite99 cm.Goldrahmen.

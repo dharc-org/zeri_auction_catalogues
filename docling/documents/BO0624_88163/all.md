@@ -1,0 +1,1028 @@
+## Verkaufs-Bedingungen.
+
+- 1.Die Versteigerung geschieht gegen sofortige Zahlung in Deutscher Reichswahrung. Das Eigentum geht erst mit der Zahlung des Kaufpreises, die Gefahr bereits mit dem Zuschlag auf den Kaufer iber.
+- 2.Die Gegenstande werden in dem Zustande versteigert,in welchem sie sich im Augenblicke des Zuschlages befinden, und kann nach erfolgtem Zuschlag keinerlei Reklamation bericksichtigt werden. Die im Katalog enthaltenen Angaben und Beschreibungen der zum Verkauf gestellten Gegenstande werden nicht gewahrleistet.Erhebliche Beschadigungen sind angegeben, soweit sie bei der Katalogisierung bemerkt wurden. Die Nichtangabe verburgt aber keinesfalls das Nichtvorhandensein einer Beschadigung.
+- 3.Angegebene MaBe verstehen sich bei Gemalden ohne Rahmen.
+- 4.Gesteigert wird mindestens um 1 Mk.,iber 100 Mk.um 5 Mk. Von der Reihenfolge wird nur ausnahmsweise abgewichen.
+- 5.Zur Zuschlagssumme wird ein Aufgeld von 5%/o vom Kaufer
+- erhoben.
+- 6.Bei Streitigkeiten iber den Zuschlag wird der betreffende Gegenstand noch einmal ausgeboten.
+- 7.Wenn zwei oder mehrere Personen zugleich ein und dasselbe Gebot abgeben, entscheidet das Los.(Ges.v.10. Juli 1902.)
+- 8.AusschlieBlicher Gerichtsstand:Amts-oder Landgericht I,Berlin.
+
+## Rudolph Lepke's Kunst-Auctions-Haus.
+
+Telegr.-Adresse: Kunstauction Lepke Berlin.
+<!-- image -->
+
+## VORWORT.
+
+och vor wenigen Dezennien waren die Stadte am sich in der Gemeinsamkeit des gut burgerlichen Milieus glichen. Ihre Besitzer sammelten, abgesehen von lokalhistorischen Bildern, traditionell ,alte Hollander". Bei einer Erwerbung war neben dem personlichen n Geschmack die Qualitat und die Erhaltung ausschlaggebend. Ob der oder jener kleinere Name schon grobhandlungs- und sammlungsfahig war, brauchte den Liebhaber von damals nicht zu beunruhigen. Das hat sich geandert. Der Geldwert alter Gemalde ist gestiegen, der Kreis der Kaufer ist ein anderer geworden, und so fiel eine dieser Sammlungen alten Stils nach der anderen der Zentrifugaltendenz zum Opfer, die kostbarem Kunstbesitz nun einmal innewohnt.
+
+Mittelrhein, Frankfurt, Mainz und Wiesbaden, reich an kleineren und groberen Privatgalerien, die aus denselben Neigungen heraus entstanden waren und
+
+Ueber den Bestand einer der letzten derartigen Privatsammlungen gibt vorliegender Katalog Aufschlub, er birgt eine Menge des Interessanten und Wertvollen, aber uber Kunstwerke soll man nur in Gegenwart der Kunstwerke selbst sprechen; es mag daher
+
+Von guten ,Primitiven" sei an erster S Stelle der altniederlandische Jakobus-Altar, ein Triptychon im Originalrahmen mit zwolf Darstellungen aus der Legende des Pilgerpatrons, hervorgehoben. Das 16. Jahrhundert ist mit charakteristischen Arbeiten von P. Aertsen, dem sog. Swart van Groningen, M. van Valckenborch, Gassel u.a. vertreten.Den breitesten genugen, einzelne Stucke einer besonderen Beachtung zu empfehlen.
+Raum in dieser Kollektion nimmt die niederlandische Malerei des 17.Jahrhunderts ein. Hier begegnen wir neben einem Hauptwerk des Esaijas van de Velde Landschaften vom Haarlemer Vermeer, Ruisdael, A.u.W.van de Velde u.a., ferner Interieurs darunter zwei seltene Gesellschaftsstucke von P. van Hillegaert von Molenaer,Brackenburgh,Thomas Wijck,Palamedesz,D.Hals, und L.de Mony.
+
+Das flamische Portrat findet seine Reprasentanten in den zwei trefflichen Bildnissen des Neuberg und Jakob I. von Corn. de Voss und Janssens van Ceulen, das hollandische Kabinettstuck in charakteristischen Arbeiten eines Gerard Dou, Eglon van der Neer usw.AuBer auf niederlandische Stilleben und Genrestucke von der Hand des J. D. de Heem,Huijsum,D.Teniers u.a. sei auch auf die vorhandenen Werke der italienischen Schule des 18. Jahrhunderts, auf die beiden reichen Kompositionen
+
+Riccis und den bezeichneten Guardi hingewiesen.
+
+Mogen alle diese Gemalde bei den Sammlern die Wertung finden, die ihnen mit Fug und Recht zukommt!
+
+M.J.Binder.
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+## VERSTEIGERUNG:
+
+## Dienstag,den 2.Dezember 1913
+
+Vormittags von 10 Uhr ab
+
+## PIETER AERTSEN.
+
+- 1.Das Liebespaar. Ein junger Mann umarmt ein Madchen. Brustbilder. Holz.H.37cm,B.47cmS.R.
+
+1508-1575.
+
+## JAN PEETERS.
+
+- 2.Bewegte See mit groberen und kleineren Fahrzeugen. Holz.H.45cm,B.62cm.S.R
+
+1624-1677.
+
+## JACOB GILLIG.
+
+- 3.Fische am Meerestrande, vor einer Hutte aufgestapelt. Im Hintergrunde Fischer. Holx,links unten signtert.H.47 cm,B.55 cm.G.-R.
+
+1636-1701.
+
+## DIRK HALS.
+
+- 4.Innere Ansicht. Kavaliere und Dirnen tanzend oder in Unterhaltung begriffen. In der Mitte zwei musizierende Kavaliere.
+
+1600-1656.
+
+Holz,rechts unten der Kinstlername.H.46 cm,B.63 cm.S.R.
+
+## JAN BRUEGHEL.
+
+- 5.Landschaft mit grober Stadt (Brussel?) im Hintergrunde. Auf der LandstraBe Kupfer.H.26cm,B.34cmS.R
+
+1568-1625.
+## GERARD von HONTHORST.
+
+1590-1656.
+
+Holz.H.66cm,B.53 cm.S.R.
+
+- 6.Grafin Amalie von Solms, Gemahlin des Friedrich Heinrich yon Oranien. Brustbild in schwarzer, ausgeschnittener Taille und mit dunklem, auf die Schultern herabfallendem Lockenhaar.
+
+## J. J. HOREMANS.
+
+1682-1759.
+
+- junges Paar, nach den Klangen eines primitiven Orchesters tanzend. Leinwand.H.66cm,B.83cm.S.R
+- 7.Vor einem Wirtshause Bauern, essend, trinkend und rauchend. In der Mitte ein
+
+## J. G. SONJE.
+
+1625-1707.
+
+- 8.FluBlandschaft mit Stadt tauf einem Hugel. Im Vordergrunde Landleute und
+
+Holz,bezeichnet.H.68 cm,B.64 cm.S.R.
+
+- Monche bei einer Kapelle.
+
+## ALEXANDER ADRIAENSSEN.
+
+1587-1661.
+
+- der Decke herabhangend.
+- 9.Stilleben. Ganze und zerschnittene Fische, auf einem Tische liegend oder von
+
+Holz, am Tischrande signiert.H.52 cm,B.81 cm.S.R.
+
+## ANTON GHERING.
+
+Gestorben 1668.
+
+- 10.Inneres eines gotischen Domes mit Blick in das Hauptschiff und den Chor, links die Orgel. Zahlreiche Personen in Rokokotracht als Staffage. Leinwand.H.76 cm,B.64 cm.S.R.
+
+## PAULUS MOREELSE.
+
+1571-1638.
+
+11. Weibliches Bildnis.Huftbild in schwarzem, geblumtem Kleid und weiBem Spitzenkragen.Im breit frisierten Haar eine Goldagraffe und Spitzenkanten. Holz,rechts oben spater bezeichnet:P.Moreelse.H.62 cm,B.47 cm.S.R.
+
+## JAN de WETT.
+
+12. St. Johannes der Taufer,von zuhorendem Volk umgeben, am Ufer des Jordans
+2. predigend.
+
+Geboren vor 1615.
+
+Holz, links unten signiert.H.47 cm,B.62 cm.S.R.
+
+## W.G.FERGUSON.
+
+13. Stilleben. Auf einem Tische totes Geflugel verschiedener Art. Daneben Jagd
+2. geratschaften.
+
+Leinwand,am Tischrand mit dem Namen des Malers bezeichnet.H.63 cm,B.80 cm.S.R.
+
+1633-1695.
+## CORNELIS de HEEM.
+
+1631-1695.
+
+- Weinglaser, Austern usw. Leinwand. H.69 cm,B.85 cm.S.R.
+14. Stilleben. Auf einem Steintische Fruchte verschiedener Art. Daneben gefullte
+15. Stilleben. Fruchte in Schalen, gefulte Weinglaser, Hering auf einem Teller usw,
+- Gegenstuck zu vorhergehendem Bilde. Leinwand.H.69 cm,B.85 cm.S.R.
+
+## ABR.van STRIJ.
+
+16. Landschaft im Scheine der untergehenden Sonne, rechts Steinbrucke uber einen
+
+1753-1826.
+
+- FluB. Als groBe Staffage zwei Kavaliere zu Pferde und Hirten bei ihrer Herde. Leinwand.H.64cm,B.79 cm.S.R.
+
+## HENDRIK van STEENWIJCK.
+
+- 17.Inneres einer gotischen Kirche mit reicher Architektur und Blick in den Chor. Links Papst unter einem Baldachin, in einer Prozession gehend, rechts derselbe, vor einem geoffneten Buche kniend.
+- Holz.H.71 cm,B.85cm.S.R
+
+## JAN BRUEGHEL und H.v.BALEN.
+
+1575-1632.
+
+1568-1625.
+
+- am Ambos.Daneben Venus und Amor. Kupfer.H.28 cm, B.38cm.S.R.
+- 18.Die Schmiede des Vulkan. Im Vordergrunde Vulkan, von Waffen umgeben
+
+## M. d'HONDECOETER. Art.
+
+- 19.Geflugelstuck. Auf einem Hofe am Brunnen Hahn, von Huhnern umgeben und zwei Kaninchen. Leinwand.H.112cm,B.95cm.G.-R.
+
+## Sir PETER LELY.
+
+- 20.Konigin Henriette von England in ausgeschnittenem weiBen Atlaskleid, in Kniestuck, sitzend. Rechts auf einer Brustung die Krone. Letnwand.H.115 cm,B.95 cm.G.-R.
+
+1618-1680.
+
+## J.FR. SOOLMAKER.
+
+- 21.Gebirgslandschaft mit Ruinen und Fontane. Im Vordergrunde Rindvieh, Schafe und Ziegen.
+
+1635-1665.
+
+Leinwand.H.75 cm,B.111 cm.G.-R.
+
+1580-1648.
+## J.ABR.BEERSTRATEN.
+
+- 22.Der Brand des Rathauses in Amsterdam am 7. Juli 1652:Auf einem Kanal im Vordergrunde zahlreiche mit Personen besetzte Boote. Burger, mit Rettungsarbeiten beschaftigt.
+
+1622-1666.
+
+Hole, links mtt dem Kunstlernamen bexeichnet.H.88 cm,B.120 cm.G.-R.
+
+## ANTONIS PALAMEDESZ.Art.
+
+- Holz.H.45cm,B.64cm.S.R.
+23. In einem Zimmer Kavaliere und Damen, um einen mit Speisen besetzten Tisch sitzend. Rechts Page, Wein in einen Becher fullend.
+
+## Bezeichnet A. C.
+
+- 24.Landschaft mit Bauerngehoft auf einem Hugel. Im Vordergrunde junges Madchen, eine Kuh melkend. Dabei Schafe.
+
+Abb.Taf.23
+
+17.Jahrhundert.
+
+Holz,monogrammiert.H.39 cm,B.59 cm.G.-R.
+
+## CORNELISZ VERSPRONCK.
+
+- 25.Mannliches Bildnis. Brustbild in schwarzem, gemustertem Wams und schlichtem, weibem Kragen. In ovaler Blende.
+
+Holz.H.74cm,B.58cm.S.R.
+
+## RICHARD BRAKENBURGH.
+
+26. Inneres einer niederlandischen Schenke. Musizierende und trinkende Bauern in zwanglosen Gruppen. Links vorn Trunkener, an einem Fasse lehnend. Leinwand,monogrammiert.H.57cm,B.76 cm.S.R.
+
+1650-1702.
+
+## J. D. de HEEM.
+
+- 27.Stilleben. Auf einem mit gruner Decke bedeckten Tische Weintrauben und Pfirsiche, daneben Weinglaser, Austern usw. Schmetterling als Staffage. Leinwand.H.53 cm,B.45 cm.S.R. Abb.Taf.26
+
+1606-1684.
+
+## FR. J. de GOYA y LUCIENTES.
+
+28. Weibliches Bildnis. Huftbild in brauner, ausgeschnittener Taille und hoch-
+
+1746-1828.
+
+Leinwand,ooal.H.72cm,B.58 cm.S.R.
+
+Abb.Taf.16
+
+- frisiertem Haar.
+
+1597-1662.
+- weibem Kragen.
+- eine goldene Kette.
+
+1620-1691.
+
+## AELBERT CUIJP.
+
+- 29.Weibliches Bildnis. Huftbild in schwarzer Taille, schwarzer Haube und schlichtem,
+
+Leinwand, tn owaler Einfassung.H.63 cm,B.51 cm.S.R
+
+## JAN van OS.
+
+1744-1808.
+
+30. Blumenstick.Skulptierte Vase, mit Gartenblumen der verschiedensten Art. Am
+
+Leinwand.H.79 cm,B.60cm.G.-R.
+
+- FuBe der Vase Muscheln und Vogelnest.
+
+## GOVERT FLINK.
+
+- 31.Mannliches Portrat. En-face-Brustbild in pelzverbramtem Rock. Um den Hals
+
+1615-1660.
+
+Leinwand, in owaler Einfassung.Bezeichnet. H.68 cm,B.52 cm.S.R.
+
+## GISBERT HONDECOETER.
+
+32. Gebirgslandschaft mit Wasserfall zwischen Felsen. Auf einem Wege im Vordergrunde Maultiertreiber, Landleute usw.
+
+1604-1653.
+
+Holz,in der Mitte mit dem Kinstlernamen.H.42 cm,B.61 cm.G.R.
+
+## B. J. van ASCH.
+
+33. Niederlandische FluBlandschaft. Am bewaldeten Ufer eines breiten Stromes
+
+1603-1678.
+
+Holx, auf einem Kahne das Monogramm des Kunstlers.H.49 cm,B.72 cm.S.R.
+
+- Bauernhauser.
+
+## PAUWELS van HILLEGAERT.
+
+34. Innere Ansicht. Kavaliere und Damen in Unterhaltung. Links Turke mit einer Dame in zartlichem Tete-a-tete.
+
+1595-1658.
+
+Holx,in der Mtte unten der wolle Kinstlername.1624.H.30 cm,B.42 cm.S.R.Abb.Taf.14
+
+## ANTONIS PALAMEDESZ.
+
+- 35.Innere Ansicht. Kavaliere und Damen in Unterhaltung. mit Laute und Dame mit Notenheft. Links liegender Hund. Holx.H.52 cm,B.69 cm.S.R.
+
+1601-1673.
+
+Abb.Taf.15
+
+- Ganz vorn Kava lier
+
+Abb.Taf.14
+## PIETER AERTSEN.
+
+1508-1575.
+
+- reiches Bild.
+- 36.Landschaft mit Palast im Mittelgrunde. Auf einer Terrasse Christus, von Pilatus dem Volke ausgestellt. Die versammelte Menge fordert mit aufgehobenen Handen die Verurteilung Christi. Im Hintergrunde Kreuztragung Christi.Figuren-
+
+Holz.H.58 cm,B.75 cm.Br.R.
+
+Abb.Taf.27
+
+## CORNELIS JANSSENS van CEULEN.
+
+- 37.Brustbild Jakobs I., Konigs von England. In hellfarbigem, gemustertem Atlaswams und prachtigem Spitzenkragen. Rechts oben: Fide et amore, links: 1626.
+
+Abb.Taf.18
+
+Holz.H.71 cm,B.55 cm.S.R
+
+## CLAAS MOLENAER.
+
+Gestorben 1676.
+
+- 38.Niederlandische FluBlandschaft mit bewaldeten und angebauten Ufern.Im Vordergrunde rechts vor einem Wirtshause tanzende Bauern, auf dem Flusse mit vielen Personen besetzte Kahne. Die Staffage von J. Miense Molenaer. Leinwand,mit der Signatur des Claas Molenaer.H.58 cm,B.74 cm.S.R.
+
+## THOMAS WIJCK.
+
+1616-1677.
+
+- 39.Gelehrtenstube. Rechts auf einem Tische und daneben Bucher verschiedener Art, wissenschaftliche Instrumente, Kruge usw.Der Gelehrte vor seinem Pulte. Letnwand.H.51cm,B.48cm.S.R
+
+## G.B. TIEPOLO.
+
+40. St.Antonius, von Engeln gen Himmel getragen, In den Luften Gott-Vater und das Meer.
+
+Leinwand.H.98cm,B.71 cm.S.R.
+
+## JACOB OCHTERVELT.
+
+Gestorben vor 1710.
+
+Letnwand.H.51 cm,B.73 cm.S.R.
+
+- 41.In einer offenen Halle mit Statuen Gesellschaft t von Herren und Damen an einem reichbesetzten Tische. Rechts zwei Paare bei einer Fontane, ein Page mit Flaschen, ein Hund usw.
+
+1696-1770.
+
+Geboren 1593.
+
+Abb.Taf.37
+## DAVID TENIERS d. J.
+
+42. Viehweide. Am FuBe eines felsigen Hugels mit Ruine junger Hirt bei seiner Rinderherde.Weiter zurick Schafe.
+
+1610-1690.
+
+Leinwand,auf einem Stein der Name des Kanstlers.H.51 cm,B.65 cm. S.R. Abb.Taf.15
+
+## FRANCESCO GUARDI.
+
+1712-1793.
+
+- Standbild des Colleone. Zahlreiche Personen als Staffage.
+- 43.Venezianische Ansicht. Freier Platz mit Kirche an einem Kanal. Rechts das
+
+Leinwand, links unten auf einer Planke mtt dem Namen des Kanstlers bezeichnet.H.6l cm B.78cm.G.-R. Abb.Taf.16
+
+## AERT de GELDER.
+
+1645-1727.
+
+- seitlich geneigte Haupt auf die Rechte gestutzt, die Linke auf der Lehne des Sessels.
+- 44.Orientalischer Konig in reicher Gewandung auf einem Thronsessel. Das etwas
+
+Letnwand.H.85 cm,B.77cm.G.R.
+
+## LUDGER tom RING.
+
+45. Mannliches Bildnis. Halbfigur in schwarzem Gewand und Barett, eine Nelke in der Rechten, die Handschuhe in der Linken. Rechts oben Wappen. Holx,bezeichnet:Anno domini 1544.H.54 cm,B.45 cm.G.-R.
+
+1521-1583.
+
+## WILLEM v.HONTHORST.
+
+46. Halbfigur eines jungen Madchens mit entbioBter Brust und blondem, auf die Schultern herabfallendem Haar. Leinwand.H.59 cm,B.51 cm.G.R.
+
+1604-1666.
+
+## LEONH. BRAMER.
+
+1595-1674.
+
+- Hol%,signiert.H.40cm,B.54cm.G.-R.
+47. Die Anbetung des Hirten im Stall. Links St. Joseph auf einer Treppenstufe.
+
+## Q.G. van BREKELENKAM.
+
+Gestorben nach 1668.
+
+Holx.H.46cm,B.65cm.S.R.
+
+48. Innere Ansicht. Am Kamine alter Mann im Lehnstuhle, seine Frau mit dem Spinnrad daneben.
+
+Abb.Taf.19
+## JACOB RUISDAEL.Art.
+
+- 49.Gebirgslandschaft. Im Vordergrunde Bach zwischen Felsen.Weiter zuruck Holzbrucke und in der Ferne Bauernhof. Leinwand.H.55 cm,B.45cm.S.R
+
+## JAN BAPT.WEENIX.
+
+50. Halbfigur eines jungen Mannes, die Hande auf den Rand eines KupfergefaBes gestutzt. Davor auf einer Brustung Fruchte der verschiedensten Art. Leinwand.H.100cm,B.78 cm.S.R. Abb.Taf.19
+
+1621-1664.
+
+## DAVID TENIERS d.J.
+
+1610-1690.
+
+- 51.Die Versuchung des heiligen Antonius. Allerhand Spukgestalten umgeben den Heiligen, der, ein Buch in der Hand, vor dem Kruzifix kniet. Holz,mit dem wollen Namen bezeichnet.H.32 cm,B.42 cm.G.-R. Abb.Taf.25
+- 52.Die Werke der Barmherzigkeit.Vor den Toren einer kleinen Stadt verteilt ein wohlhabender Mann mit seinem Gehilfen Brot, Wein und Kleidungsstucke an Arme.Im Hintergrund noch a andere Werke der Barmherzigkeit dargestellt, Gefangene befreien,Tote begraben usw.
+
+Holz,links unter einem Faβ signiert.H.66 cm, B.91 cm.G.-R.
+
+## MONOGRAMM V.C.C.
+
+17.Jahrhundert.
+
+- 53.Phantastische Landschaft mit erleuchteter Felsenhohle und allerhand Spukgestalten. Holz, auf einer weiβen Fahne oben links Spuren einer Signatur,H.31 cm,B.46 cm.S.R.
+
+## ELIAS VONCK.
+
+- 54.Stilleben mit totem Geflugel verschiedener Art. Rechts eine lauernde Katze.
+
+1605-1652.
+
+- Leinwand,mit undeutlicher Signatur.H.32 cm,B.50 cm.S.R.
+
+## JACOB RUISDAEL.
+
+1628-1682.
+
+- 55.Landschaft. Hugelige und bewaldete Gegend mit Bauernhof unter Baumen.
+- Im Vordergrunde einzeln stehender Baum. Letnwand.H.43cm,B.56cm.G.-R.
+
+## GOVAERT FLINCK.
+
+1615-1660.
+
+56. Mannliches Bildnis mit braunem, lockigem Haar. Halbfigur in dunkelrotem Wams, eine orangefarbene Scharpe uber der Brust. Holz.H.75cm,B.53 cm.S.R.
+
+Abb.Taf.25
+## DAVID TENIERS d.J.
+
+- 57.Am Meeresstrand, yor den Mauern einer befestigten Stadt Fischmarkt. Rechts in einem Boote und im Wasser stehend Fischer, die Netze einziehend. Kupfer,mt dem Monogramm des Kunstlers.H.55 cm,B.69 cm.G.-R. Abb.Taf.9
+
+1610-1690.
+
+## NACHFOLGER DES ROGER v.d.WEYDEN.
+
+- 58.Triptychon. A) Mittebild: Der auferstehende Christus, zu beiden Seiten Kriegsknechte und ein Engel. Im Hintergrunde Jerusalem. B) links: In einer gotischen Architektur Christus in der Vorholle.C) rechts: Die Vertreibung aus dem Paradiese.
+
+Holx, oben abgerundet. TotalgroBe:H.86 cm,B.128 cm.Holz-R.tn gotischem Stil.Abb. Taf.3
+
+## J.van HUIJSUM.
+
+1682-1749.
+
+59. Gebirgige und bewaldete Landschaft mit Blick auf ferne Hohenzuge. Im Mittel-
+2. grunde Hirten mit Herde.
+
+Holx,mit Kunstlernamen.H.39 cm,B.53 cm.S.R.
+
+## F. BREYDEL.
+
+1679-1750.
+
+60. Inneres eines niederlandischen Bauernhauses. Vorn zwei Frauen und ein Kind am Kamine. Im Hintergrunde Gesellschaft an einem Tisch. Letnwand, signtert.H.40 cm,B.58 cm.G.R
+
+## J.v.d.LAMEN.
+
+1615-1651.
+
+Holx.H.49cm,B.63 cm.S.R.
+
+61. Kavaliere und Damen in reichen Kostumen vor dem Portal eines Landhauses. Im Hintergrunde Parklandschaft.
+
+## ALEXANDER KIERINCKX.
+
+62. Ein FluB mit bewaldeten Ufern. Als groBe Staffage die Taufe des Kammerers. Holz, links unten mit dem Monogramm des Kanstlers bezetchnet. H.51 cm,B.72 cm.S.R. Abb.Taf.22
+
+1590-1646.
+
+## ADAM ELSHEIIMER. Angebl.
+
+Holx, links auf etnem Felsen ein monogrammahnliches Zetchen.H.45 cm, B.62 cm.G.-R.
+
+63. Felsige und bewaldete Landschaft. Im Vordergrunde junges Madchen mit ihrer Schaf- und Ziegenherde.
+
+<!-- image -->
+- Strumpfband.
+
+## JAN MIENSE MOLENAER.
+
+64. Inneres eines niederlandischen Wirtshauses. Im Vordergrunde ein Tisch mit
+
+1610-1668.
+
+- Trinkern und Rauchern. Im Hintergrunde Familie am Kamin.
+
+Holx, am Unterrande mtt dem Namen des Kunstlers bexetchnet.H.51 cm, B.66 cm.G.-R
+
+## LOUIS de MONY.
+
+17.Jahrhundert.
+
+- 65.Die Stiftung des Hosenbandordens. Ein Kavalier bindet der Konigin das
+
+Holz, rechts unten bezeichnet.H.28 cm,B.41 cm.G.-R.
+
+## ESAIJAS van de VELDE.
+
+66. GroBe Landschaft mit Ruinen und Blick auf eine ferne Stadt. Im Vordergrunde der Kammerer aus dem Mohrenlande mit reichem Gefolge durch St. Philippus
+2. bekehrt.
+
+Letncwand, in der Mitte unten bezeichnet:E..d.Velde 1618.H.156 cm,B.193 cm.G.-R.
+
+## H.M.SORGH.
+
+1611-1670.
+
+67. Innere Ansicht mit Kamin. An einem geoffnetenFenster junges Madchen,Kartoffeln
+2. schalend.
+
+Holz,an der Tur undeutlich bezeichnet.H.49cm,B.40 cm.S.R.
+
+Abb.Taf.10
+
+## MAERTEN van VALCKENBORCH.
+
+- 68.Landschaft mit verstreut liegenden Stadten und Dorfern.Im Vordergrunde erntende Landleute.
+
+1542-1605.
+
+Holz, links am Baume signiert.H.42 cm,B.60 cm.S.R.
+
+## E.van HEEMSKERK.
+
+1645-1704.
+
+69. Vor einer Schenke kartenspielende Bauern. Andere auf einem Balkon und zu beiden Seiten der Darstellung.
+
+Holz.H.69cm,B.55cm.G.-R
+
+## HERCULES SEGHERS.
+
+1589-1650.
+
+- 70.Landschaft. Im Vordergrunde links Bach, von hohen Baumen beschattet. Rechts Blick in ein waldiges Tal. Staffiert.
+
+Leinwand.H.28 cm,B.42 cm.S.R.
+
+Abb.Taf.24
+
+Abb.Taf.8
+
+1590-1630.
+
+Abb.Taf.21
+
+Abb.Taf.12
+## ART van AUTUM.
+
+71. Schiffe auf stark bewegter See in der Nahe der felsigen Kuste.
+
+Tatig erate Haifte des 17.Jahrh.
+
+- Holz.H.38cm,B.58cm.S.R.
+
+## HIERONYMUS BOSCH zugeschr.
+
+72. Die Versuchung des heil. Antonius. Der Heilige vor seiner Hutte, betend, eine nackte Frau reicht ihm einen Becher Wein, Damonen und Ungeheuer umgeben ihn. Im Hintergrunde links brennende Stadt, rechts das Hochgericht. Holz.H.74 cm,B.104cm.G.-R
+
+## DAVID TENIERS d. J.
+
+73. Das Bauernfest.Vor einem Wirtshause Bauern um ein tanzendes Paar ver-
+
+1610-1690.
+
+- sammelt. Links Dudelsackblaser.
+
+Holx, links unten woll bezeichnet. H.27 cm,B.36 cm. G-R.
+
+## EGLONv.d.NEER.
+
+- 74.Der Hauptmann Uria, mit seinem Weibe kosend vor einem Zelte sitzend. Im Hintergrunde Konig David, die Szene belauschend. Holx.H.39cm,B.32cm.S.R Abb.Taf.13
+
+1635-1703.
+
+## JOOST CORNELISZ DROOCH-SLOOT.
+
+75. Hollandische Dorfkirchweih. Auf der DorfstraBe Landleute, meist paarweise zusammensitzend oder stehend. Im Hintergrunde die Kirche. Holx.H.83 cm,B.129 cm.G.-R. Abb.Taf.7
+
+1586-1666.
+
+## JAN WIJNANTS.
+
+- 76.Landschaft mit entlaubtem Weidenstamm im linken Vordergrunde. Weiter zurick
+
+Gestorben nach 1678.
+
+- eine Frau mit ihrem Sohnchen und Schafherde bei einer Holzplanke. Abendstimmung.
+
+Holx,in der rechten unteren Ecke mit dem Namen des Kinstlers bezeichnet.H.37cm,B.47 cm.G.-R Abb.Taf.22
+
+## ADRIAEN van OSTADE. Angebl.
+
+- Staffage.
+- 77.Winterlandschaft. Bauernhof an einem zugefrorenen Bach.Landleute als
+
+Holx.H.50 cm,B.42 cm.S.R.
+
+Abb.Taf.11
+
+Abb.Taf.9
+goldeter Rahmen.
+
+## CLAAS MOLENAER.
+
+78. Niederlandische Landschaft mit Bauernhaus auf einem Hugel. Auf einer Wiese Leinwandbleiche. Reich staffiert.
+
+Gestorben 1676.
+
+Holz,mit dem Namen des Kinstlers bexeichnet.H.56 cm,B.73 cm.S.R.
+
+Abb.Taf.20
+
+## Sir JOSHUA REYNOLDS.
+
+79. Brustbild eines jungen, bartlosen Mannes in rotem Rock und schwarzem Barett. In der Rechten Papierrolle mit Inschrift.
+
+Leinwand.H.81 cm,B.63cm.G.R.
+
+## A.van de VELDE.
+
+80. Landschaft. Hugelige und bewaldete Gegend mit Bach im Mittelgrunde. Auf
+
+1723-1792.
+
+1635-1672.
+
+- einem Wege Jager zu FuB und zu Pferde. Holz.H.74cm,B.104cm.Br.R
+
+## FREDERIC van MOUCHERON.
+
+1633-1686.
+
+81. Gebirgige Landschaft mit Holzbrucke uber einen Bach. Landleute als Staffage. Kupfer.H.26cm,B.36cm.S.R.
+
+## WILLEM SCHUBERT von EHRENBERG.
+
+82. Inneres einer Barockkirche mit Blick auf den Hochaltar. Die reiche Staffage von Boyermans gemalt.
+
+1630-1676.
+
+Leinwand.H.113 cm,B.125cm.G.-R.
+
+## JAN BOTH zugeschr.
+
+- 83.Landschaft. Von einer bewaldeten Anhohe Blick in das freie Land.Auf einem Wege im Vordergrunde Hirten mit ihrem Vieh. Holz.H.26 cm,B.33 cm.Geschnitzter G.-R
+
+## GERARD DOU.
+
+1613-1675.
+
+- 84.Der Federschneider.Ein Gelehrter,vor seinem Schreibtisch, links daneben eine lesende Frau. Lampenbeleuchtung. Auf eine oben abgerundete Holztafel gemalt.H.30 cm,B.20 cm.Reich geschnitzter und ver-
+
+## BARENT GAEL.
+
+85. Bauern vor einem niederlandischen Wirtshause, mit der jungen Wirtin plaudernd. Rechts zwei Kinder.
+
+Geboren Mitte 17.Jahrhunderts.
+
+Holz, rechts unten mtt dem Namen des Kansters bezeichnet. H.44 cm, B.53 cm. G-R. Abb.Taf.13
+- Feldherrn.
+
+## RICHARD BRAKENBURGH.
+
+- 86.Niederlandische Bauernkirmes. Inneres einer Schenke mit rauchenden, trinkenden und tanzenden Bauern.
+
+Leinwand.H.67cm,B.97 cm.S.R.
+
+## SEBASTIANO RICCI.
+
+1650-1702.
+
+1659-1734.
+
+87. Die GroBmut des Scipio. Scipio, auf einem Throne sitzend, uberlaBt die ihm als Beute zugefallene Geliebte seinem Freunde. Ringsumher das Gefolge des
+
+Leinwand.H.110cm,B.142cm.G.R.
+
+Abb.Taf.17
+
+88. Achilles, unter den Tochtern des Lycomedes, wird von dem als Handler ver-
+2. kleideten Odysseus wiedererkannt. Gegenstuck zu vorhergehendem Bilde. Letnwand.H.110cm,B.142 cm.G.-R. Abb.Taf.17
+
+## VERMEER van HAARLEM.
+
+89. Partie aus der Umgebung von Haarlem. Im Mittelgrunde Landhaus, von Baumen umgeben, vorn Gondel auf einem Kanal. Mit reicher Figuren- und Tierstaffage.
+
+1628-1691.
+
+Letnwand,aufetnem am Hauseangebrachten Schild der Name:Vermeer.H.75 cm,B.103 cm.S.R. Abb.Taf.20
+
+## JAN van GOIJEN.
+
+1596-1656.
+
+- 90.Niederlandische Stadt an einem breiten Strome. Vorn die Stadtmauer mit alten Gebauden in voller Beleuchtung. Fischer auf ihren Kahnen als
+
+Letnwand.H.94 cm,B.132cm.S.R.
+
+- Staffage.
+
+Abb.Taf.11
+
+## JAN SWART van GRONINGEN.
+
+- 91.Christus, nach der Bergpredigt, segnet das Brot und die Fische. Das Volk um den Heiland versammelt.
+
+Holx.H.134 cm,B.113 cm.G.-R.
+
+## JUSEPE RIBERA.
+
+- 92.Portrat eines Architekten. und Zirkel.
+
+16.Jahrhundert.
+
+1588-1652.
+
+- Halbfigur in dunkler Kleidung, mit Folianten
+
+Leinwand.H.92cm,B.72cm.S.R.
+
+Abb.Taf.24
+
+Abb.Taf.1
+
+Abb.Taf.12
+## CORNELIS de VOSS.
+
+- 93.Guillaume de Neuberg. Halbfigur in schwarzem, gemustertem Wams, um den
+
+1585-1651.
+
+- Hals die Kette des goldenen Vlieses. Die Rechte auf die Hufte gestutzt, die Linke am Griff des Degens.
+
+Leinwand.H.102 cm, B.81 cm.G.R.
+
+Abb.Taf.21
+
+## LUCAS GASSEL (HELMOND).
+
+94. Landschaft. Im Vordergrunde ein dichter Wald, weiter zuruck FluB mit Dorfern
+
+Holz.H.72 cm,B.108 cm.S.R.
+
+- und Burgen. Staffiert.
+
+## WILLEM van de VELDE.
+
+95. Auf spiegelglatter See, in der Nahe der Kuste, mehrere Kriegsfahrzeuge.Vorn am flachen Strande Fischer bei ihren Booten. Letnwand.H.78cm,B.106cm.S.R.
+
+1633-1707.
+
+## FRANZOSISCHE SCHULE.
+
+96. Mannliches Bildnis. Haibfigur eines vornehmen Mannes in faltigen Gewandern und Allongeperucke.
+
+18.Jahrhundert.
+
+Letnwand.H.126cm,B.99 cm.G.-R.
+
+## JACOB GERRITZ CUIJP.
+
+- 97.Halbfigur einer Matrone in dunkler Kleidung, Muhisteinkragen und weiBer Haube. Links oben ein Wappen, rechts Aet.84. 1619.
+
+1594-1641.
+
+Holz,rechts am Rande mit dem Namen des Kunstlers bexetchnet. H.101 cm,B.72 cm.S.R
+
+## GERARD DOU.
+
+1613-1675.
+
+98. Halbfigur eines bartigen Eremiten mit geoffnetem Folianten auf den Knien. Rechts ein Baumstamm.
+
+Holz, der Name des Meisters steht auf dem Schnitt des Folianten.H.30 cm,B.23 cm. S.R. Abb.Taf.10
+
+## LUDOLF BAKHUIJZEN.
+
+1631-1708.
+
+99. Auf bewegter See zwei hollandische Fregatten. Ganz vorn zwei Fischerboote. Leinwand,auf einer schwimmenden Tonne die Jahreszahl 1706.H.66 cm, B.95 cm.G.R,
+
+1500-1570.
+
+- Abb.Taf.26
+## DIRK BOUTS.
+
+100. Triptychon mit zwolf Darstellungen aus der Legende der heiligen Jakobus. Auf
+
+1410-1475.
+
+- dem Mittelstuck vier Darstellungen, auf den Flugeln je zwei Darstellungen. Die Brokatgewander, Heiligenscheine und Kronen der Dargestellten mit reichen Vergoldungen.
+
+Holz. Gr6Be jedes etnzelnen Bildes H.69 cm, B.32 cm.Dte TotalgroBe des Triptychons H.81 cm, B.353 cm.Die auβere Seite des Holzrahmens ist mit Pilgerstaben und Pilgertaschen bemalt. VerschlteBbar. Abb.Taf.2
+
+## SCHWABISCHER MEISTER.
+
+Um 1450.
+
+101. Altarflugel. Sechs Apostel in ganzen Figuren, stehend. In der ersten Reihe St.Andreas, St.Johannes und St. Bartholomaus. Im Hintergrunde Landschaft. Holz.H.156cm,B.71 cm.Holzrahmen mit Goldornamenten auf rotem Grunde. Abb.Taf.6
+
+## PIETER COCK van ALST.
+
+102. Triptychon.Mittelbild: Die heilige Jungfrau in dunklem Gewande, das Kind auf dem Schobe haltend. Die drei Konige in reichen Gewandern bringen Geschenke dar.Linker Flugel:Die Verkundung der heiligen Jungfrau. Rechter Flugel:Die Ruhe auf der Flucht.
+
+16.Jahrhundert.
+
+Holz.Totalgroβe H.117 cm,B.161 cm.S.R.
+
+## JOHN HOPPNER.
+
+1758-1810.
+
+- rock mit Messingknopfen.
+103. Mannliches Portrat. Brustbild eines alteren, bartlosen Mannes in dunklem Leib-
+
+Leinwand.H.75cm,B.62cm.G.-R
+
+## DIRK VELLERT.
+
+104. Die heilige Jungfrau in blaugrunem Mantel, vor einer Palastruine das Christus-
+
+Tatig in Antwerpen um 1520.
+
+kind auf dem SchoBe. Die drei Konige aus dem Morgenlande bringen Geschenke
+
+Holx.H.84 cm,B.71 cm.Bemalter Holzrahmen dar. Im Hintergunde Landschaft mit Gebauden und Figuren.
+
+Abb.Taf.4
+
+## ADRIAEN BROUWER.
+
+1605-1638.
+
+105. Drei Bauern im Gesprach, rauchend und trinkend um eine Tonne sitzend. Ein vierter, dahinterstehend, hort zu.
+
+B.34cm.S.R.
+
+Holx,auf dem Stuhle des links sitzenden Mannes mit dem Monogramm A B bezeichnet.H.28 cm
+
+## JACOB van HUCHTENBURGH.
+
+106. Landschaft aus der Umgebung von Rom mit Ruinen und angebauten Hausern.
+
+1639-1670.
+
+- Maultiertreiber und Landleute mit ihrem Vieh als Staffage.
+- Leinwand,rechts unten signtert.H.40 cm,B.49 cm.S.R.
+
+Abb.Taf.18
+
+Abb.Taf.5
+## LORENZ STRAUCH.
+
+107. Brustbild eines bartigen Mannes in schwarzem, geblumtem Wams und Muhl-
+2. steinkragen.
+
+1554-1630.
+
+Holz,rechts oben:Aetatis 50.1625.Daneben das Monogramm des Kunstlers.H.53cm, B.42cm.S.R.
+
+## CORNELIS ENGELBRECHTSEN zugeschr.
+
+108. Ecce homo.Christus und Pilatus, in zwei Bogenfenstern stehend. Darunter eine Kartusche mit der Inschrift: Et clamaverunt omnes tolle tolle crucifige eum. Auf eine oben abgerundete Holzplatte gemalt.Im Rahmen eine lateinische Inschrift.H.30 cm, B.21cm.S.R.
+
+## W.de HEUSCH.
+
+1638-1669.
+
+109. Landschaft. Ein FluB mit bewaldeten Ufern, zwischen den Baumen werden
+
+Holz.H.47-cm,B.63cm.S.R
+
+- Gebaude sichtbar. Staffiert. Abendstimmung.
+
+## D.SEGHERS und H.v.BALEN.
+
+1590-1661.
+
+1575-1632.
+
+110. Die Madonna,auf Wolken thronend,von Engeln umgeben.Darum Blumenkranz.
+2. Holz.H.93 cm,B.65cm.S.R.
+
+## ESAIJAS van de VELDE.
+
+111. Waldlandschaft mit Blick auf einen FluB. Im Vordergrunde auf einem Wege vornehme Jagdgesellschaft, von Dienern und Hunden begleitet.
+2. Kupfer.H.32cm,B.41cm.GR
+
+## FRANS FRANCKEN.
+
+1581-1642.
+
+112. Die Beschneidung Christi. St. Joseph, vor dem Altare kniend, halt zwei Tauben
+2. Kupfer.H.37cm,B.54cm.S.R
+
+## PIETER SCHOUBROECK.
+
+Gestorben vor 1609.
+
+113. Dorflandschaft. Vor einem Bauernhause Landleute in verschiedenen Beschaftigungen. Rechts Wascherinnen bei einem Ziehbrunnen,
+2. Holz.H.45cm,B.62cm.S.R
+
+## PIETER MOLIJN.
+
+1600-1661.
+
+114. Baumreiche Landschaft mit Landgut im Mittelgrunde. Rechts vorn zwei Manner im Gesprach bei einem mit zwei Ochsen bespannten Pflug. Holz,rechts unten Monogramm.H.60 cm,B.84 cm.S.R.
+
+## CORNELIS DECKER.
+
+Gestorben 1678.
+
+115. Landschaft. Am Ufer eines Flusses schloBartiges Gebaude, von Baumen um-
+2. geben. Fischer in einem Kahne. Holz.H.44cm,B.59cm.S.R.
+
+1390-1630.
+## D.TENIERS monogrammiert.
+
+116. Ein Bauer, an einer Tonne sitzend, raucht seine Pfeife an. Im Hintergrunde Bauern am Kamin.
+
+Holz,auf einer Fuβbank das Monogramm des Tenters. H.25 cm, B.30 cm,S.R.
+
+## TH. de KAYSER.Angebl.
+
+117. Im Vordergrunde einer Landschaft mit Baumen verschiedene reich kostumierte Paare Iustwandelnd.
+
+Holz.H.65 cm,B.94 cm.S.R.
+
+## PAUL BRILL.
+
+1554-1626.
+
+118. Waldlandschaft mit floteblasendem Hirten bei seiner Herde. Links Durchblick in das freie Land.
+
+Holz.H.70cm,B.51 cm.G.-R.
+
+## ROELANT ROGHMAN.
+
+1597-1686.
+
+119. Winterlandschaft mit Gebaude im rechten Mittelgrunde. Staffiert. Leinwand.H.33 cm,B.42cm.S.R
+
+## PIETER AERTSEN.
+
+1508-1575.
+
+120. Martha, ein Stuck Fleisch und ein Huhn an einen BratspieB steckend.Im
+2. Hintergrunde Maria, den Worten Christi lauschend. Holz.H.69cm,B.54 cm.S.R.
+
+## Q.G.v.BREKELENKAM.Art.
+
+121. Eine Kochin in rotem Rock, bei Gemuse sitzend. Im Hintergrunde Mann am Kamin. Letnwand.H.24 cm,B.31 cm.S.R.
+
+## JORIS van der VLIET. Art.
+
+122. St. Hieronymus in schwarzem Talar, vor einem geoffneten Buche kniend. Links der Lowe.
+2. Holx.H.36 cm,B.29 cm.S.R.
+
+## A.v.OSTADE.Art.
+
+123. Tanzende Bauern vor einem Wirtshause. Rechts zwei Trinker.
+2. Leinwand.H.46cm,B.44 cm.G.-R.
+
+## ISENBRANT.
+
+Tatig in Brigge um 1520.
+
+- 124-25. Zwei Altarflugel. Engel, die Harfe spielend. Engel, die Viola spielend. Holx.H.28,5 cm, B.8 cm.S.R
+
+## ENGLISCHE SCHULE.
+
+18.Jahrhundert.
+
+126. Gebirgslandschaft mit mehreren Personen an einem Bach.
+2. Holx.H.30cm,B.4I cm.S.R.
+## ABBILDUNGEN
+## Bevorstehende Auktionen!
+
+Porzellansammlung Hermann Isaacsohn-Berlin. Hervorragende Gruppen und Figuren der Haupt-Manufakturen aus der Bliteperiode des 18.Jahrhunderts.
+
+Versteigerung: 25.November 1913. llustrierter Katalog Nr.1695 M.12,
+
+Antiquitaten, Porzellane und Mobel des 18. Jahrh. aus dem Besitz des Kunsthandlers A.Salomon-Berlin.
+
+Glaser-und Tassensammlung des 17.bzw.18.Jahrh. aus dem Besitz der Frau Geh. Rat Muillerhartung-Berlin und andere Beitrage.
+
+Versteigerung: 25.November und folgende Tage. Illustrerter Katalog Nr.1696 M.3,。
+
+Griechisch-romisch-agyptische Kleinkunst, Fayence, Zinn und Glas.
+
+llustrlerter Katalog Nr.1698.
+
+Sammlung des Kgl. Hofbildhauers Kuntzsch-Wernigerode. Versteigerung: 9. Dezember und folgende Tage.

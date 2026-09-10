@@ -1,0 +1,2097 @@
+## GEMALDE DER NIEDERLANDISCHEN SCHULE
+## BEIJEREN,ABRAHAM HENDRICKSZ.VAN (Haag,Amsterdam 1621bis nach 1674)
+
+- 1.Stilleben.
+
+Vor einer Spitzbogennische,in der ein mit Weinlaub umkranzter halbgefillter Romer steht,hangt oben an zwei Ringen ein Gewinde von Rosen, Tulpen und Efeuranken. Vor der Nische auf einer Steinbalustrade mit nach links verschobener roter Sammetdecke eine Silberschale mit Hummer, dahinter eine groBe Seemuschel, Weintrauben, ein umgestirzter gebuckelter Goldpokal und eine reichverzierte goldene Tischglocke. Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906,Nr.10. Eichenholz, H.115, B.88 cm.
+
+## BERCHEM,NICOLAESPIETERSZ.(Haarlem,Amsterdam 1620-1683)
+
+## 2.Pflugender Bauer am Rand eines Geholzes.
+
+An der Biegung eines Weges, der rickwarts von hohen Eichen und niedrigem Buschwerk begrenzt wird, halt ein Bauer mit seinem von einem Schimmel und einem Braunen gezogenen Pflug und trinkt aus einem Krug. An der Boschung rechts sitzt eine Frau, neben ihr zwei Korbe und ein Hund; vorn drei Schafe.
+
+Ausgestellt Berlin, Kaiser-Friedrich-Museums-Verein 1906, Nr. 5. Hofstede de Groot,Hollandische Maler, Band IX, Nr. 316.
+
+Bez. links unten: Berigem f.
+
+Leinwand, H.66, B. 91 cm.
+
+## BOsCH,PIETER VAN DEN (Amsterdam 1613 bis nach 1660)
+
+- 3.Die Kochin beim Putzen.
+
+Junge Frau in roter Jacke, weiBem Haubchen und blauer Schurze, nach links vor einem
+
+Fasse stehend, auf dem sie einen Topf putzt. Links neben dem FaB eine groBe Laterne, ein Wasserkessel, ein irdenes GefaB und ein umgefallener Zinnkrug. Dahinter ein Tisch mit griner Pluschdecke, darauf eine Tasche, Korb und Schissel. Rechts hinten ein Lehnstuhl; auf der grauen Wand in der Mitte eine Landkarte. Eichenholz,H.47,B.44 cm.
+
+## CAPELLE,JAN VAN DE(Amsterdam 1624-1679)
+
+- 4.Winterlandschaft.
+
+Auf der Eisflache eines Flusses, der sich in Windungen nach dem Hintergrunde zieht, ein Schlittenfahrer und ein Schlittschuhlaufer. Rechts vorn ein beschneites Haus, davor ein
+
+HolzstoB, bei dem zwei Manner einen Stamm zersagen; im Hintergrund Hutten unter Baumen.
+
+Hofstede de Groot, Hollandische Maler, Band VII, Nr.143. Eichenholz, H. 30, B.36 cm.
+
+## CODDE,PIETER(Amsterdam1599/1600-1678)
+
+- 5.Der Antrag.
+
+Vor dem Feuer eines Kamins mit den Statuen von Juno und Jupiter als Karyatiden sitzt eine junge Frau, in der Linken ein Goldstick haltend und sich zu einem Kavalier umwendend,der, die Hand auf die Stuhllehne gestitzt, zu ihr niederblickt. Hintergrund graue Zimmerwand, rechts ein Tisch mit roter Decke und ein Stuhl.
+
+Dieselbe Darstellung in der National-Gallery in Dublin als Thomas de Keijser, Abb. bei Oldenbourg, Thomas de Keijsers Tatigkeit als Maler, 1911, Tafel XV. Eichenholz, H. 321/,B. 39 / cm.
+## CUIJP,AELBERT(Dordrecht1620-1691)
+
+6. LandstraBe am Bergabhang.
+
+Rechts auf einer Strabe, die iber einen Hugel am FuB hoher Berge entlang zu einer Ruine und einem SchloB neben kleineren Hausern fuhrt, ein Mann im roten Rock auf einem Schafe. Ruckwarts ein See, jenseits hugeliges baumreiches Gelande. Hoher Himmel mit
+
+Bez. rechts unten: A. Cuijp.
+
+Schimmel, im Gesprach mit einem Hirten. Links vorn zwei lagernde Kuhe und einige dunklen Wolken.
+
+Versteigerung John Newington Hughes in London, 14. April 1848.
+
+Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906, Nr.22.
+
+Sammlung W.A.Hankey auf Beaulieu in Hastings.
+
+Hofstede de Groot, Hollandische Maler, Band II, Nr.420.
+
+Eichenholz, H.55, B.74 cm.
+
+## 7.Kuhe auf der Weide.
+
+Auf einem grasigen, von der Morgensonne beleuchteten Bergabhang, der nach links zu einem FluB abfallt, lagern zwei braune Kuhe, dahinter steht eine schwarze. Vorn drei liegende Schafe, rechts weiter zurick vier andere Schafe unter einem Baum.
+
+Sammlung Baron Konigswarter-Wien, versteigert in Berlin am 20.November 1906, Nr.11
+
+Bez. rechts unten: A. Cuijp.
+
+(M.72000.-).
+
+Hofstede de Groot,Hollandische Maler,Band II, Nr.185.
+
+Ausgestellt Berlin, Akademie 1914, Nr.30.
+
+Leinwand, H.67, B.811/2 cm.
+
+## DOU,GERARD(Leiden 1613-1675)
+
+## 8.Alte Frau, Apfel schalend.
+
+Eine Alte in violettem, pelzgefuittertem Mantel, mit iber den Kopf gezogener Kapuze und blauem Rocke sitzt nach links vor einem groBen Kamin,in dem das Feuer brennt. Rechts vorn ein Tisch mit griner Decke, darauf ein halbes Brot,Krug und Topf,vor dem Tisch ein Lehnstuhl mit violettem Bezug, auf dem ein Kloppelkissen liegt, links davon ein mit Wasser gefilltes groBes Kupferbecken mit Holzdeckel, daneben ein Kohlenbecken und eine Maus. Im Hintergrunde neben dem Kamin eine Tur, auf der Ruckwand ein Olbild, Christus und die Samariterin darstellend. Darunter ein umgestirzter Korb, ein irdener Topf und ein groBer Loffel.
+
+Die Alte tragt die Zuge von Rembrandts Mutter. Das Bild auf der Ruickwand zeigt den Stil der Fruhwerke Rembrandts.
+
+Bez. auf dem Kloppelkissen: G Dov.
+
+1635 durch Spiering vom Kunstler fur Christine von Schweden gekauft, die das Bild
+
+Versteigerung E. v.Dieshoek im Haag am 9.Juni 1745, Nr.32 (fl. 170).
+
+1652 an Spiering zuriuckgab.
+
+Versteigerung in Amsterdam am 6.November 1749, Nr.11 (fl.200).
+
+Versteigerung Fr. v.d. Velde in Amsterdam am 7.September 1774 (fl.1550).
+
+Versteigerung Philipp van Dijk im Haag am 13.Juni 1753, Nr.62 (fl.210).
+
+Versteigerung van Cattenburch en de Waart im Haag am 29.September 1779, Nr.1 (fl. 212 an Brakel oder Schouman).
+
+2.Juni 1846.
+
+Versteigerung J. Tak in Soeterwoude am 5. September 1781, Nr.4 (fl. 1110 an v. d. Vinne). Sammlung Fraulein Hoofman in Haarlem, dort 1829 und 1842 erwahnt, versteigert am
+Sammlung Salmanca,Paris 1875. Versteigerung Beurnonville in Paris am 9.Mai 1881. Sammlung Furst Liechtenstein, Wien. Sammlung Heckscher, Wien. Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906, Nr.26. Hofstede de Groot,Hollandische Maler, Band I, Nr.119, Klassiker der Kunst,Band XXIV, Tafel 116. Eichenholz,H.36,B.45 cm.
+
+## DUSART,CORNELIS (Haarlem 1660-1704)
+
+## 9.Die Dudelsackpfeiferin.
+
+Ein junges Bauernmadchen mit schwarzem Hut, goldgelber Jacke, rotem Rock und zerrissenem blauem Unterrock blast auf einem Dudelsack. Hinter ihr, vor einem Haus unter einem Baum, drei trinkende und rauchende Bauern. Bez. links unten: Corn.Dusart fe.
+
+Kupfer, H.22/, B.17 cm.
+
+## GOIJEN,JANVAN(Leiden,Haag1596-1656)
+
+## 10.FluBlandschaft.
+
+Rechts am Wasser ein viereckiger Wachtturm, an den sich eine Hutte lehnt; davor auf einem Hugel, der nach dem Wasser zu abfallt, eine Kanone mit vier Soldaten. Links legt ein vollbesetzter Kahn an der Uferverpfahlung an,rickwarts zwei Segelschiffe und am Ufer ein Boot. Im Hintergrunde links eine Landzunge mit Hutten, Segelschiffe und Boote, rechts hugelige Landschaft mit einer Kirche.
+
+Aus der Sammlung Joseph Brandeis, Paris.
+
+Bez. links vorn an dem Boot: v.G.1651.
+
+Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906, Nr.37.
+
+Eichenholz,H.57,7, B.89#2cm.
+
+Hofstede de Groot,Hollandische Maler, Band VIlI, Nr.800.
+
+## HALS,FRANSD.E.(Haarlem1580oder1581-1666)
+
+## 11. Bildnis des Malers Frans Post (geb.1612)
+
+die Lehne gestutzt und nach dem Beschauer gewendet. Mit langem, auf den flachen und hohem, steifem Hut. In der rechten Hand lassig einen Zweig haltend. Halbfigur in halber LebensgroBe auf grauem Grund.
+
+Versteigerung I.v. d.Marck in Amsterdam am 25.August 1773, Nr.441.
+
+Bez. rechts unten: FH (Monogramm).
+
+Sammlung Bononi-Cereda,Mailand.
+
+Ausgestellt Bildnis-Ausstellung,Berlin, Akademie 1909, Nr.47.
+
+Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906,Nr.48.
+
+Moes, Icon. Bat., Nr. 6034.
+
+Klassiker der Kunst, Band XXVIII, Tafel 202.
+
+Hofstede de Groot,Hollandische Maler,Band III, Nr.258.
+
+W.v.Bode,Frans Hals,Band II,Nr.242,Abb.Tafel 153.
+
+Eichenholz,H.42,2,B.33 cm.
+## HEDA,WILLEM CLAESZ(Haarlem1594bis nach 1678)
+
+- 12.Stilleben.
+
+Auf der nach rechts verschobenen gruinen Decke eines Holztisches ein Zinnteller mit geschalter Zitrone und eine umgeworfene Silberschale; rechts daneben ein halbgefullter Romer, ein Messer und Nuisse, dahinter ein Zinnteller mit zwei Oliven. Grauer Grund. Eichenholz, H.40, B.57 cm.
+
+## HEIJDE,JAN VANDER(Amsterdam 1637-1712)
+
+13. Das LustschloB (SchloB Goudestein an der Vecht).
+
+Durch eine offene Schranke mindet ein Fahrweg auf eine Strabe, auf der ein Reiter nach rechts reitet; vor ihm zwei Hunde, links hinten ein Jager mit zwei Hunden. Rechts schlieBt die hohe Ziegelwand eines Hauses das Bild ab. Jenseits der StraBe eine Wiese mit Schafen, die rickwarts von Baumen und dem langgestreckten SchloB mit niedrigem Turm begrenzt wird.
+
+Bez.links auf der Schranke: J.v.Heide.
+
+Die Figuren sind von der Hand des Adriaen van de Velde.
+
+Versteigerung Brussel am 23. Juli 1767, Nr. 22 (fl. 226).
+
+VersteigerungCharlesdeMan,Antwerpen,am 9.September1816,Nr.62 (fl.600 an van Hal).
+
+Versteigerung Antwerpen am 23. August 1768, Nr. 5 (fl. 315).
+
+Versteigerung Douairiere Ullers van Schooten,Antwerpen, am 11.Juli 1844,Nr.30 (Frs. 5000 an Terwagne).
+
+Versteigerung Herzog von Cleveland, London, am 8. Marz 1902, Nr. 24 ( 2415).
+
+Sammlung Lord Palmerston,London.
+
+Ausgestellt Antwerpen 1838 (Smith).
+
+Ausgestellt Berlin, Akademie,1914,Nr.63.
+
+Hofstede de Groot, Hollandische Maler, Band VIlI, Nr.66.
+
+Eichenholz,H.48 #,B.60 /2cm.
+
+## HOBBEMA,MEINDERT(Amsterdam 1638-1709)
+
+## 14.Waldlandschaft.
+
+An einem rickwarts von hohen Eichen und Erlen umsaumten Teiche zwei Angler. Ein Fahrweg fuhrt in der Mitte zu einem von Baumen uiberragten Gehoft, links ein Bauernhaus unter Baumen. Hoher Himmel mit groBen Wolken.
+
+Versteigerung Georges Holmes, London, am 15.April 1903, Nr.47.
+
+Bez.links unten: M. Hobbema.
+
+Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906, Nr. 63.
+
+Eichenholz,H.37/,B.48/2 cm.
+
+Hofstede de Groot, Hollandische Maler, Band IV, Nr.126.
+
+## HOOCH,PIETERDE(Delft,Amsterdam1639bisnach1684)
+
+## 15. Das Konzert auf der Veranda.
+
+Vor einer Balustrade sitzen und stehen um einen Tisch ein paar junge Damen in reichen farbigen Seidengewandern. Links daneben sitzt ein junger Herr, der die Laute spielt. In der Ferne Baume mit einem SchloB dahinter, vor warmem Abendhimmel. Aus der spateren Zeit des Kunstlers.
+Versteigerung Nieuwenhuys/Brussel, in London am 10.Mai 1833. Versteigerung Gilkinet, Paris, am 18.April 1863, Nr.27 (Frs.2900). Versteigerung Vicomte de Buisseret, Bruissel, am 29.April 1891, Nr.51 (Frs.4500). Sammlung Baron Konigswarter, Wien. Sammlung Borden, New York. Ausgestellt Berlin, Akademie 1914, Nr.70. Smith, Suppl. S.567, Nr.13. Hofstede de Groot, Hollandische Maler, Band I, Nr. 136. Leinwand,H.82,B.67cm.
+
+## KALF,WILLEM(Amsterdam1621/22-1693)
+
+## 16. Stilleben.
+
+Auf einem Steintische mit nach rechts verschobenem kleinasiatischem Knupfteppich eine groBe orientalische Porzellankanne mit deutscher Goldmontierung, links Pfirsiche, rechts daneben eine gleichfalls in Europa gefaBte chinesische Schale mit einer gallertartigen Masse und einer geschalten Zitrone, davor eine Silberschale, auf der eine Uhr und en Messer mit Achatgriff liegen. Dahinter ein Nautilusbecher, ein hohes,mit rotem Wein gefulltes Spitzglas und ein venezianisches Deckelglas. Dunkler Grund. Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906,Nr.72. Leinwand, H.111,B.84 cm.
+
+## KEIJSER,THOMAS DE(Amsterdam 1596-1667)
+
+- 17.Bildnis einer jungen Dame in ganzer Figur.
+
+Sitzend neben einem Tisch mit turkischem Teppich, worauf ihre Handschuhe. Fast von vorn. In schwarzem Brokatkleid mit Puffarmeln; die Taille mit reicher Goldstickerei. Mit flachem Spitzenkragen und Spitzenmanschetten; das schwarze Haar hinter einer kleinen Mitze zusammengenommen.
+
+Versteigerung Secretan, Paris 1889.
+
+Gegenstick zu dem Frauenbildnis im Louvre, Legat R. Kann.
+
+Sammlung Rodolphe Kann, Paris.
+
+Oldenbourg, Thomas de Keijser, Nr. 111.
+
+Ausgestellt Berlin, Akademie 1914, Nr.76a.
+
+Eichenholz, H.78, B.52 cm.
+
+## 18.Bildnis einer jungen Dame.
+
+Nach links sitzend und auf den Beschauer blickend. Mit auf die Schultern herabfallenden Locken, groBen Perlen im Ohr, in violettgrauem, tief ausgeschnittenem Seidengewand mit weiBen faltigen Armeln.Die Hande ruhen auf dem SchoB. Den Hintergrund schlieBt ein dunkelroter Sammetvorhang ab, der links vor einer Landschaft emporgerafft ist. Kniefigur in LebensgroBe.
+
+Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906,Nr.76.
+
+Ausgestellt Bildnis-Ausstellung, Berlin,Akademie 1909, Nr.33.
+
+Leinwand,H.126/2,B.101/2cm.
+## MAES,NICOLAES(Dordrecht,Amsterdam 1632-1693).
+
+19. Mutter und Kind.
+
+Eine junge Frau, die,rechts auf einem Stuhle sitzend,ein offenes Buch auf ihrem Schob halt, beugt sich nach links iber eine Wiege, den grunen Vorhang wegziehend und nach dem mit roter Decke zugedeckten schlafenden Kinde blickend. Rechts vorn ein zurickgeschobener Vorhang. Im Hintergrunde die Zimmerwand mit einer Kredenz, auf der GefaBe stehen.
+
+Aus der friheren Zeit des Meisters. Ausgestellt in London, British Institution 1824, Nr.115. Versteigerung P.Rainier, London 1845. Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906, Nr.78. Hofstede de Groot,Hollandische Maler,Band VI, Nr.81. W.R.Valentiner,Nicolaes Maes,1924,Tafel 23. Leinwand, H.341, B.28,7 cm.
+
+## METsU, GABRIEL (Leiden 1629,gest.Amsterdam 1667)
+
+20. Das kranke Kind.
+
+In einem Zimmer beugt sich eine Mutter, sitzend und von vorn gesehen, iber ihr krankes Kind, das sie auf ihren Knien halt. Sie tragt ein rotes Kleid, blaue Schurze, graues
+
+Leibchen mit weiBem Kragen und verschlungenem schwarzem Bande, mit einer schwarzen Haube, die auf der Stirn spitz endigt. Das Kind, dessen Gesicht abgemagert ist und dessen Augen starr blicken, tragt ein gelbes Kleid und ein weiBes Hemd; seine blonden Haare sind mit einem weiBen Tuch bedeckt. Die nackten Beine hangen schlaff herab. Zur Rechten liegt eine weiBe Mutze auf einem Stuhl, iber dessen Lehne ein Kleidungsstuick geworfen ist. Zur Linken ein irdener Topf auf einem Schemel. An der Wand im Hintergrund zur Rechten ein Heiligenbild und zur Linken eine geographische Karte.
+
+Bez. oben links auf der Karte.
+
+Sammlung Jhr. Steengracht im Haag.
+
+Sammlung Jhr. Johan Goll van Franckenstein (Verkaufin Amsterdam 1.Juli 1833;1338fl.).
+
+Ausgestellt Berlin, Akademie 1914, Nr.110.
+
+Lithographiert von F.H. Weibenbruch in der Revue Kunstkronik 1857.
+
+Veroffentlichung von C.G.t'Hooft,Verzameling Steengracht.
+
+Kronig, Metsu, in der ,Revue de l'art ancien et moderne", t. XXV (1909), p. 219.
+
+G. Geffroy, Les Musees d'Europe, etc., pl. p. 129.
+
+J.Smith Catalogue raisonne, t. IV (1833), p. 75 no.3.
+
+Hofstede de Groot, Hollandische Maler, Band I, Nr.111.
+
+Bode, Die Meister der hollandischen Malerschulen, S. 97.
+
+Leinwand,H.33,B.27 cm.
+
+## NEER,AERTVANDER(Amsterdam 1603-1677)
+
+- 21.Abendlandschaft.
+
+Jenseits eines Baches, der in die Tiefe fuhrt,Hauser mit hohen Giebeln, davor ein Holz stapelplatz; auf der rechten Seite zwei Windmihlen, von niedrigen Hutten umgeben. Auf dem langs des Baches hinfihrenden Wege vorn zwei Wanderer mit einem Hund, rechts weiter zurick drei an einem Feuer sitzende Manner.
+
+Versteigerung Sir W. I. Farrer in London am 16.Marz 1907, Nr. 22.
+
+Bez. links unten: AV und DN (verschlungen).
+
+Ausgestellt Berlin, Akademie 1914, Nr.109.
+
+Eichenholz, H.241/, B.34 cm.
+
+Hofstede de Groot,Hollandische Maler,Band VII,Nr.24.
+## OSTADE,ADRIAENVAN(Haarlem 1610-1685)
+
+## 22.Die Alte mit der Schnapsflasche.
+
+Eine alte Frau in schwarzem, pelzgefuittertem Mantel, rotem Kleid und weiBem Kopftuch, nach rechts gewendet,vor einem Tische sitzend, halt kostend in der Rechten ein Likorglas,wahrend sie dieLinke,welche die Flasche halt, auf die Tischkante stitzt.Hintergrund die Rickwand des Zimmers mit einem Fenster, durch dessen Scheiben man ins Freie blickt; links eine Tur.
+
+Bez. unter dem Fenster rechts: A. v.O. Eichenholz, H. 17, B.15 2 cm.
+
+## 23.Das Bauernhaus.
+
+Vor der offenen Tir eines strohgedeckten Hauses unter Baumen sitzt eine Bauerin, an die sich ein Kind lehnt und zu der ein vor ihr sitzender Hund aufblickt,im Gesprach mit einem alten Bauern, der rechts auf seinen Stock gestitzt steht.Aus der offenen Tur blickt Strohdache des Hauses ein Backofen, ein Huhnerkorb und eine Krippe. Rechts Ausblick in hugeliges Land.
+
+Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906, Nr.96.
+
+Aus der mittleren Zeit des Meisters (um 1650).
+
+Hofstede de Groot, Hollandische Maler, Band Ill, Nr.500.
+
+Pergament auf Leinwand, H. 23, B.291/2 cm.
+
+## REMBRANDT HARMENSZVAN RIJN (Leiden,Amsterdam 1606-1669)
+
+## 24.Bildnis der Hendrickje Stoffels.
+
+Etwas nach rechts gewendet und auf den Beschauer blickend,mit rickwarts herabfallenden Locken und Perlenschmuck in den Ohren.Der auf der Brust von einer Spange zusammengehaltene Pelzmantel laBt das weibe gefaltelte Hemd sehen.Dunkler Grund. LebensgroBes Brustbild.
+
+Sammlung Galerie-Inspektor Pechwell.
+
+Aus der spaten Zeit des Meisters um 1655.
+
+Versteigerung H. W. Campe, Leipzig, am 24. September 1827, Nr. 245. (209 Thaler an Feilitzsch.)
+
+Ausgestellt Bildnis-Ausstellung Berlin,Akademie 1909,Nr.108.
+
+Dresdener Privatbesitz (W. v.Bode, Zeitschrift fuir bildende Kunst 1910, S.1 ff.). Sammlung von Geldern.
+
+Klassiker der Kunst, Band II, 3.Auflage, Tafel 328 (Bildnis der Hendrickje Stoffels).
+
+Leinwand, H.651/,B.54 cm.
+
+Hofstede de Groot, Hollandische Maler,Band VI,Nr.717 (Bildnis der Hendrickje Stoffels, gemalt um 1660).
+
+## 25.Bildnis einer jungen Frau.
+
+Nach links, leicht gebeugt. Mit schmutzig-weiBem Kopftuch iber dem braunen Haar. In rotbraunem Kleid, weiBlich-blauer Schirze und dunkelgrinlichem Gurtel. Kleines
+
+Studie,vermutlich zum Kopf der ,Ehebrecherin vor Christus der National Gallery zu
+
+Brustbild.
+
+London vom Jahre 1644.
+
+Hofstede de Groot,Hollandische Maler, Band VI, Zusatz 717a (Hendrickje Stoffels).
+
+Sammlung Holland in London.
+
+NachValentinerRembrandtswiedergefundeneGemaldeKlassikerderKunst,andXII,
+2. Auflage 1923, Tafel 78, eher Studie nach Hendrickje zur,Ehebrecherin vor Christus" in der Sammlung Walcker in Minneapolis.
+
+Eichenholz, H.21, B.17 cm.
+
+## ROERSTRAETEN,PIETER VAN (Londonum 1630-1698)
+
+26. Vanitas-Stilleben.
+
+Auf einem Marmortisch hinten ein aufgeschlagenes Buch und ein Leuchter. Davor eine silberne Vase, eine rotbraune Teekanne und eine montierte Schale. Dabei liegen eine Taschenuhr, eine Orange, zwei Perlen und Munzen. Eine Medaille an langer goldener Kette, die nach oben iber das Buch gelegt ist, hangt iber den Tischrand. Links auf roter Decke ein lorbeerbekranzter Totenkopf und Medaillen. Leinwand, H.78, B. 91 cm.
+
+## RUBENS,PETERPAUL(Antwerpen,Italien,1577-1640)
+
+## 27. Der Konsul Decius Mus befragt die Auguren iber seinen Traum.
+
+Vorn vor einem Zelt zwei Auguren, welche die Leber des geopferten Tieres, aus dem sie dem Konsul Decius die Bedeutung seines Traumes erklaren, diesem vorweisen. Rechts der erstaunte Decius, daneben zwei seiner Offiziere. Rings um den Altar die Opfernden, dahinter Soldaten mit den Feldzeichen.
+
+in Wien.
+
+Ganz eigenhandiger Entwurf des Rubens zu dem Gemalde der Liechtenstein-Galerie
+
+Verkauft 1775in Amsterdam.
+
+Ausgestellt Berlin,Akademie 1914,Nr.137.
+
+Sammlung Rev. J. Gurbell, England, aus der es 1833 Lane Davies erwarb.
+
+Smith Catal. rais. Suppl. no.151.
+
+.Eichenholz, H.74, B.103 /2 cm.
+
+Klassiker der Kunst, Band V, 4.Auflage, herausgegeben von R.Oldenbourg 1921, S.460.
+
+## RUISDAEL,JACOBVAN(Haarlem,Amsterdam1628/29-1682)
+
+- 28.Haarlem, von den Dunen bei Overveen gesehen.
+
+Bez. rechts unten: v. Ruisdael.
+
+Vorn iber die von einem Sonnenblick getroffene Dune senkt sich ein Weg mit einem Wanderer und seinem Hund zu einem Laubwald hinab. Jenseits weites Wiesengelande. Im Hintergrund die Stadt mit ihren roten Dachern und Windmihlen, uberragt von der Groote Kerk; am Horizont der blaue Streifen der Zuidersee. Hoher Himmel mit geballten dunklen Wolken.
+
+Ausgestellt Berlin, Kaiser-Friedrich-Museums-Verein 1906, Nr.118. Hofstede de Groot,Hollandische Maler, Band IV, Nr.58. Leinwand, H.43, B.411/2 cm.
+
+29. Die Ruine Egmont.
+
+In dem stillen Wasser eines Sees spiegeln sich die Ruinen des Schlosses Egmont mit dem machtigen Turm. Dahinter steigt ein bewaldeter Hugelzug an. Jenseits des Wassers ein Hirt mit Schafherde. Dustere Luft mit dunklen Wolken. Bez. rechts unten: v. R. (verschlungen).
+
+Sammlung G. v. Rath, Budapest.
+
+Versteigerung Beurnonville, Paris, 9.Mai 1881, Nr.451.
+
+Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906, Nr.117.
+
+Leinwand, H. 98 12, B. 1321/ cm.
+
+Hofstede de Groot, Hollandische Maler, Band IV, Nr.51.
+- 30.Fernsicht.
+
+An einem SchloB im Mittelgrund vorbei, das halb hinter dunklen Baumen versteckt ist, offnet sich der Blick auf die grellbeschienene Ebene, iber der sich hoch der Himmel mit dicht aufgetirmten Wolken wolbt.
+
+Abgeb.Bode, Die Meister der hollandischen und flamischen Malerschulen, S.172. Eichenholz, H. 17, B. 17 cm.
+
+Aus der Sammlung Carl von Hollitscher, Berlin.
+
+## RUIJSDAEL,SALOMONVAN(Haarlemum 1600-1670)
+
+## 31.Rheinlandschaft.
+
+Auf dem breiten FluB, der sich von vorn nach der Tiefe zieht,zwei Segelschiffe in Fahrt;
+
+Bez. an dem Segelboot links: SvR. (verschlungen).
+
+vorn rechts ein Ruderboot, das nach der Mitte steuert. Rechts das Ufer mit hohen Dunen, auf einer Landzunge Kuihe.Weiter zurick auf ansteigendem Ufer die Stadt Rhenen mit hohem Kirchturm und Windmihlen.Farbiger Abendhimmel.
+
+Aus der spateren Zeit des Meisters.
+
+Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906,Nr.121. Eichenholz, H. 38, B.61 /2 cm.
+
+- 32.Winterlandschaft.
+
+Auf der Eisflache eines Flusses, der sich iber die Bildbreite nach rechts hinten zieht,
+
+Bez.links unten: S.Rvysdael 1661.
+
+drei vollbesetzte, von Pferden gezogene Schlitten und Schlittschuhlaufer. Am jenseitigen Ufer rechts Segelboote und drei Hutten. Uber schneebedeckte Wiesen Blick auf eine Stadt im Hintergrund.
+
+Aus der Sammlung Schubart.
+
+Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906,Nr.122.
+
+Eichenholz, H. 51, B.69 cm.
+
+## SNYDERS,FRANS(Antwerpen 1579-1657).
+
+## 33.Stilleben.
+
+Auf einem Holztische, der rechts mit einem weiben Tuche bedeckt ist, links allerlel Geflugel, darauf eine blaue Schale mit Erdbeeren, dahinter eine Melone und ein Korb mit Frichten; rechts ein Hummer auf blauer Schissel, dahinter ein Pfau und Fische, hinter denen eineKatze auftaucht.Ganz rechtsSpargel,einRebhuhn,Artischocken,Zitronen und ein toter Rehbock. Rechts neben dem Tisch ein junger Mann, der einem vom Hals ab sichtbaren Windhund eine Rehpfote vorhalt.Hintergrund graue Wand.
+
+Bez. links an der Tischplatte: F. Snijders fecit.
+
+Ausgestellt Bildnis-Ausstellung, Berlin, Akademie 1909, Nr.128.
+
+Leinwand, H.165,B.215 cm.
+
+## SORGH,HENDRIK MARTENSZ(Rotterdam um 1611-1670)
+
+## 34.Ehepaar aufeiner Veranda.
+
+Die Frau rechts vor einem roten Vorhang,ihrem Manne zugewandt, der links mit bergeschlagenem Bein in Vorderansicht sitzt.Zwischen beiden ein mit rotem Teppich bedeckter
+
+Tisch, auf dem Frichte stehen.Von der Veranda Ausblick aufs Meer. Holz,H.40,B.52 cm.
+## 35. Der Prinsjesdag.
+
+Vorn in der Mitte eine Frau in rotem,mit Goldborten besetztem Rock, weiBem Kopftuch und schwarzer,pelzbesetzter Jacke, die ihr Kind an der Brust hat,rechts ein Gestell mit Zinnteller und Steinkrug, links am Boden ein Korb. Neben der Frau rechts schlagt ein Knabe die Trommel und begleitet den Gesang von finf Mannern, die links an einem Fenster essen und trinken. Einer ist auf den Stuhl gestiegen und leert sein Glas auf das Wohl desVaterlandes,wie dieInschrift berdemFensterandeutet:SALUSPATRIAE sUPREMA LEX EsTo; ein anderer blast auf der Trompete einen Tusch. Rechts unterhalten sich drei Manner und zwei Frauen.Eine Alte bringt auf einem Teller Kuchen nach vorn.
+
+Erwahnt von Ch. Blanc.
+
+Bez.unter der Inschrift: J. Steen 1661.
+
+Versteigerung Delessert in Paris am 15. Mai 1869, Nr.85 (Frs. 8000).
+
+Sammlung Grefalle, Paris.
+
+Sammlung J. Osmaston, London.
+
+Versteigerung in Paris am 30.Mai 1903, Nr.48 (Frs.25 500),
+
+Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906,Nr.131.
+
+Winter-Ausstellung in London 1879, Nr.99.
+
+Hofstede de Groot, Hollandische Maler, Band I, Nr.517.
+
+Leinwand,H.87/,B.100 cm.
+
+A.Bredius, Jan Steen, Tafel 51.
+
+## 36. Simson und Dalila.
+
+Links sitzt auf einem Divan, iber den ein groBer persischer Teppich gebreitet ist, Dalila, der ein Diener von rickwarts die Schere reicht. In ihrem SchoB ruht das Haupt des schlafenden Simson, dem ein Mann rechts das Haar abschneidet. Rechts ein mit weibem Tuch bedeckter Tisch mit den Resten des Mahles; davor zwei Knaben, der eine mit einem Hundchen spielend. Aus dem Hintergrunde links und durch die Eingangshalle
+
+Bez. rechts unten auf dem Sockel: J.Steen 1668.
+
+rechts eilen Bewaffnete herbei.
+
+Versteigerung G.Bruyn,Amsterdam, am 16.Marz 1724, Nr.7 (fl. 300).
+
+Versteigerung 1787 (fl. 600).
+
+Versteigerung Wynand Coole, Rotterdam, am 6.August 1782, Nr.65.
+
+Versteigerung D. de Jongh Azn., Rotterdam, am 26.Marz 1810 (fl. 370).
+
+Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906,Nr.132.
+
+Sammlung N.Oosthuyzen im Haag.
+
+Hofstede de Groot, Hollandische Maler, Band I, Nr.10.
+
+Leinwand, H.67 #,B.82 cm.
+
+A.Bredius, Jan Steen, Tafel 4.
+
+## TERBORCH,GERARD(Amsterdam,Haarlem,Deventer 1617-1681)
+
+Neben einem niedrigen Tisch mit einer Arbeit sitzt ein junges Madchen, im Profil nach
+
+## 37. Junges Madchen, einen Brief in der Hand haltend.
+
+links. Sie ist im Nachsinnen iber einen Brief versunken, den sie in der Rechten halt. In blauem Mieder und gelbem Leibchen, das schwarz eingefaBt ist.Kniestick auf dunklem Grund.
+
+Sammlung Comte Raousset de Boublon, Avignon.
+
+Aus der friheren Zeit des Meisters nach seiner Niederlassung in Deventer.
+
+Sammlung Jules Porges, Paris.
+
+Ausgestellt Berlin, Akademie 1914, Nr. 167.
+Beschrieben Smith Catal.rais.IV, Nr.62.
+
+Gestochen von Wille bei Charles Blanc als ,La gazetiere hollandoise" Hofstede de Groot, Hollandische Maler, Band V,Nr.102. Eichenholz, H.28 1, B. 23 cm.
+
+## 38.Der Brief.
+
+Eine junge Frau in schwarzem Kleid und Kopfschleier liest, nach links auf einem Stuhl sitzend, einen Brief.Vor ihr ein Tisch mit roter Decke, auf dem ein vergoldetes Becken mit Kanne in hollandischem Barockstil und ein Leuchter stehen. Im Hintergrund links ein Kamin, auf der Rickwand eine Landkarte mit der Inschrift auf dem oberen Rande: NOVA ET.ACVRATA.TOTIVS.EVROPE,TAB(ula).
+
+Versteigerung P. v. d. Santheuvel in Dordrecht am 23.Juli 1810, Nr.56.
+
+Aus der spateren Zeit des Meisters um 1665-1670.
+
+Versteigerung P. v. d. Santheuvel und J. van Strij in Dordrecht am 24.April 1816, Nr.115.
+
+Versteigerung Robert Hamilton, London 1832.
+
+1816 von Woodin nach London gebracht.
+
+Versteigerung Richard Winstanley in London 1850 ( 96 sh. 12).
+
+Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906,Nr.139.
+
+Versteigerung C.H. T. Hawkins in London am 11. Mai 1896 ( 1155).
+
+Hofstede de Groot, Hollandische Maler, Band V, Nr.168.
+
+Leinwand, H.44, B.39 cm.
+
+## THULDEN,THEODOR VAN(Herzogenbusch,Antwerpen,Paris 1606-1676)
+
+## 39. Die Verlobung.
+
+Das Bild ist offenbar zu dem Triumphbogen gehorig, der im Jahre 1635 beim Einzug des Erzherzogs Ferdinand in Antwerpen errichtet wurde. Rubens lieferte die Entwirfe, die von seinen Schilern, darunter van Thulden, ausgefuihrt wurden. Caspar Gevartius gab die Folge der Entwirfe von Rubens in Nachstichen von van Thulden und anderen heraus (,Pompa Triumphalis Introitus Ferdinandi .. . Antwerpen 1642). Darin erscheint die Komposition des Verlobungsbildes als Mittelstick einer Triumphbogenkronung, von van Thulden radiert.
+
+Vor einem Torbogen tritt die Braut,Maria von Burgund,von rechts heran,geleitet von ihrem Vater, Herzog Karl dem Kuhnen, in Ritterruistung. Von links heran tritt der Brautigam,Erzherzog Maximilian,der spatere Kaiser Maximilian I.,ihr die Hand reichend, geleitet von seinem Vater, Kaiser Friedrich IIl. Zwischen dem Brautpaar steht Hymen mit der Fackel, rechts neben Maria die Gottermutter Cybele, die eine Kugel mit dem Lowen darauf als Symbol des belgischen Reiches tragt.
+
+Leinwand,H.189,B.175 cm.
+
+## VELDE,ADRIAEN VAN DE(Amsterdam 1636-1672)
+
+## 40. Kuhe auf der Weide.
+
+Auf flachem Wiesenboden, der am Horizont durch eine Hugelkette begrenzt ist, eine Gruppe von drei Kuhen; vorn in Seitenansicht nach links steht eine hellbraune Kuh, hinter ihr eine weiBe, weiter zurick liegt eine dritte Kuh und zwei Schafe. Rechts im Grunde anderes Vieh, Menschen und ein Haus. Der Himmel bezogen mit leichten Schleierwolken.
+
+Sammlung Sir John Willoughley.
+
+Bez.links unten: A.v.Velde f.1658.
+
+Sammlung Carl v. Hollitscher.
+
+Leinwand,H.35,B.30,4 cm.
+## 41. Der Strand von Scheveningen.
+
+Der breite flache Strand zieht sich von vorn nach den Dunen zu, iber die rechts der Kirchturm von Scheveningen heribersieht. Auf der leicht bewegten See, iber die dunkle Wolken heranziehen, vorn links ein paar Boote unter Segeln. Der Strand ist belebt durch zahlreiche Figuren, darunter spazierende Herren und Damen. Vorn links eine Karosse mit drei Pferden davor; rechts ein vornehmes junges Paar mit seinem jungen Diener.
+
+Jugendwerk des Willem van de Velde, die Staffage von seinem Bruder Adriaen.
+
+Bez.: W. v. Velde 1659.
+
+Sammlung Earl of Caledon.
+
+Ausgestellt London, British Institution 1854, Nr.38.
+
+Sammlung James Simon.
+
+Ausgestellt London, Royal Academy 1882, Nr.81.
+
+Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906,Nr.147.
+
+Ausgestellt Paris 1901, Nr. 199.
+
+Erwahnt von Waagen, Suppl. 151.
+
+Leinwand,H.741/,B.103 cm.
+
+Hofstede de Groot, Hollandische Maler, Band VII, Nr. 12.
+
+## VERSPRONCK,JAN CORNELISZ(Haarlem1597-1662)
+
+42. Bildnis einer jungen Dame.
+
+Bez. links unten:...ck an1642.
+
+Nach links gewendet und auf den Beschauer blickend; in schwarzem, vorn goldgesticktem Gewandemit groBem Muhlsteinkragen,weiBem Haubchen auf dem glatt zurickgekammten Haar und weiben Manschetten. Mit Perlenschmuck in den Ohren, goldener Halskette und Armbandern.In der ringgeschmickten Rechten einen schwarzen Federfacher haltend. Grauer Grund. LebensgroBe Kniefigur.
+
+Ausgestellt Bildnis-Ausstellung, Berlin, Akademie 1909, Nr.150.
+
+Leinwand, H. 111, B. 84 cm.
+
+## WOUWERMANS,PHILIPS(Haarlem1619-1668)
+
+- 43.Dunenlandschaft.
+
+Rechts fuhrt ein Steg iber einen Bach, den ein Mann und ein Hund iberschreiten. Ein den ein Reiter herabkommt, fuhrt aufwarts zu einer hochgelegenen Gruppe von Hutten. Am Abhang in der Ferne ein Hirt mit seiner Herde. Galerie Le Brun.
+
+Versteigerung Le Perrier 1817 (Frs. 2901).
+
+Sammlung de Jongh, 1811, versteigert fur 1750 Frs.
+
+Sammlung Heckscher, Berlin.
+
+Hofstede de Groot, Hollandische Maler, Band II, Nr. 1047.
+
+Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906,Nr.154.
+
+Eichenholz, H.25 , B. 22 cm,
+## GEMALDE DER DEUTSCHEN SCHULE
+## BRUYN,BARTHOLOMAEUS(BARTHEL) D.E.(Koln1493[?]—um1555)
+
+- 44.Bildnis des Kolner Ratsherrn Johann von Aich (geboren 1. Januar 1510, gestorben 12. November 1549).
+
+Etwas nach rechts gewendet, mit bartlosem Gesicht, auf dem krausen Haar eine flache
+
+Gegenstuick zu Nr.45.
+
+Tellermitze,in rotbraunem Gewand und schwarzem, pelzbesetztem Mantel. Die rechte Hand,welche die Handschuhe halt, liegt auf einem Tisch mit grauer Decke, die mit zwei Ringen geschmickte Linke greift in den Mantel. Auf dem blauen Grunde links das Wappen des Dargestellten: drei Vogel auf rotem und drei blaue Balken auf weiBem Feld. Halbfigur in Drittel-LebensgroBe.
+
+Beide Bilder aus der Sammlung Heckscher,Berlin.
+
+In Thieme-Becker,KunstlerLexikon,Band V, S.157,unter den Hauptwerken desKunstlers
+
+Ausgestellt Bildnis-Ausstellung, Berlin, Akademie 1909,Nr.13 und 14.
+
+aufgefuihrt.
+
+Eichenholz, oben rund, H. (mit dem Rahmen aus einem Stuck) 42,B.33 cm.
+
+45. Bildnis der Frau Margarethe von Aich, geb.Rinck (geboren 15.November1517,
+2. gestorben 28. Dezember 1570).
+
+Etwas nach links gewendet,mit blondem,geflochtenem Haar;in gelbem Kopftuch, schwarz und roter, mit Perlen und Gold bestickter Kappe, in weitem, schwarzem Gewand,das durch einen goldgestickten Gurtel mit rotem Besatz und Schnalle zusammengehalten wird. Der mit weiBem Pelz gefitterte Kragen des Kleides ist auf der Brust offen und laBt das weiBe,mit breiten Goldborten besetzte Hemd sehen,auf dem ein Perlen- und Rubinschmuck ruht. Um den Hals eine groBe goldene Kette; die Rechte halt einen Apfel, die aus einem roten, spitzenbesetzten Armel hervorkommende Linke liegt am Gurtel. Auf dem blauen Grund rechts ein Wappen: Reiher mit Ring im Schnabel auf gelbem Feld. Halbfigur in Drittel-LebensgroBe.
+
+Eichenholz,H. (mit dem Rahmen aus einem Stuick) 41 /, B. 33 cm.
+
+Gegenstick zu Nr.44.
+
+46. Bildnis eines Mannes.
+
+In mittleren Jahren, mit braunem Haar und blondem Vollbart. In schwarzer Kappe und Gewand mit breitem Pelzkragen. Die Rechte ruht auf der Tischkante, die mit dem Siegel-
+
+Das Gegenstuck ,Bildnis einer Frau“ in der Galerie zu Brissel.
+
+ring geschmickte Linke halt die weiBen Handschuhe. Griner Grund, links oben das Wappen des Dargestellten.
+
+Aus der Galerie Graf Schonborn zu Pommersfelden.
+
+Sammlung Donaldson, London.
+
+Versteigerung Goldschmidt, Paris 1898.
+
+Ausgestellt Bildnis-Ausstellung, Berlin,Akademie 1909,Nr.12.
+
+Halbfigur,Eichenholz, oben geschweift,H.83,B.58/cm.
+
+## HOLBEIN,HANSD.J.(Basel,London1497-1543)
+
+47. Brustbild einer jungen Frau.
+
+In tiefschwarzem Kleid mit weiten weiben Armeln,kleinem Halsausschnitt und gestickter
+
+Tullunterjacke.Kleines Brustbild ohne Hande. Auf hellgrinem Grund.
+
+Bez.:Anno 1541.ETATIS SVAE 19.
+
+Aus englischem Privatbesitz.
+
+Eichenholz, rund,11 cm.
+
+Ausgestellt Berlin,Akademie 1914,Nr.68.
+## STRIGEL,BERNHARD (Memmingen 1460/61-1528)
+
+## 48.Bildnis einer Frau.
+
+Sitzend, etwas nach links gewendet; in schwarzer Kappe, rotem Kleid mit weiBen Pelzarmeln und schwarzem Kragen; die Hande ibereinandergelegt. Gruner Grund.
+
+Links oben die Jahreszahl 1528.
+
+Sammlung Friedrich Lippmann.
+
+Sammlung von Przibram.
+
+Sammlung Heckscher,Berlin.
+
+Ausgestellt Berliner Renaissance-Ausstellung 1898, Nr.111.
+
+Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906,Nr.134.
+
+Ausgestellt Bildnis-Ausstellung, Berlin, Akademie 1909, Nr.132.
+
+Halbfigur, Elsenholz, H. 54 1/, B. 431/2 cm.
+## GEMALDE DER ITALIENISCHEN SCHULE
+- BELOTTO,BERNARDO,gen.CANALETTOVenedig,Siena,Dresden, Warschau 1724-1780)
+- 49-53. Serie von fuinf Veduten. Leinwand, je H.80, B.139 cm.
+- 49.Blick zwischen Dogenpalast und Bibliothek.
+- 50.Der Canale Grande.
+- Vorn eine Anzahl Gondeln.
+- 51.Die Kirche St. Maria deiFrari.
+
+Vorn rechts Bricke, auf deren Stufen ein Mann von einem anderen zu Boden gerissen und mit dem Dolch bedroht wird.
+
+- 52.Gartenflugel des alten Warschauer Schlosses. Links Ausblick auf einen Park mit Bassin.
+53. Gartenflugeldesalten Warschauer Schlosses Rechts Ausblick auf einen Park mit Bassin.
+- BOTTICELLI,SANDRO DIMARIANO FILIPEPI gen.SANDRO BOTTICELLI
+- （Florenz1444/45-1510)
+- 54.Die Verkundigung.
+
+In einer nach hinten sich perspektivisch verkirzenden Pfeilervorhalle, an deren SchluBGebetpult kniet und, die Rechte auf der Brust, die Botschaft empfangt. Hinter ihr eine Tur, die in einen Nebenraum fuhrt, rechts eine Bank mit Geraten. Vorn ein zuruck-
+
+Aus der mittleren Zeit des Meisters um 1485.
+
+wand man durch zwei Fenster in die Landschaft blickt,verneigt sich der Engel, einen Lilienstengel in der Linken,vor Maria, die rechts, jenseits der Pfeilerreihe,vor ihrem geraffter weiBer Vorhang.
+
+Galerie Barberini, Rom.
+
+Ausgestellt Berlin, Akademie 1914, Nr. 9.
+
+Klassiker der Kunst, Band XXX, S.80.
+
+W.v.Bode, Jahrbuch der PreuBischen Kunstsammlungen, Band XXVII (1906), S.245 ff.
+
+W.v.Bode,Botticelli, 1921,S.159.
+
+Pappelholz, H. 24, B.36 1/2 cm.
+
+## BUGIARDINI,GIULIANO(Florenz 1475-1554)
+
+55. Bildnis einerjungen Frau.
+
+Nach links gewendet und auf den Beschauer blickend. In rosa und grin changierendem ausgeschnittenem Gewand, aus dem an Brust und Armel das weiBe Hemd hervorsieht. Um die glatt gescheitelten Haare ist ein Tuch mit Fransen gewunden. Um den Hals eine lang herabhangende goldene Schnur, in die der Daumen der linken Hand greift. Dunkelgriner Grund. LebensgroBe Halbfigur.
+
+Ausgestellt Bildnis-Ausstellung Berlin,Akademie 1909,Nr.10.
+
+Pappelholz, H. 761/, B.571/ cm.
+## PIOMBO,SEBASTIANO DI FRANCESCO LUCIANI gen. DEL PIOMBO (Venedig,Rom um 1485-1547)
+
+## 56.Bildnis einer Dame.
+
+Etwas nach links gewendet und auf den Beschauer blickend; in weibem Kopftuch, ausgeschnittenem olivgrunen Kleid mit roten Damastarmeln, ein weiBes Tuch uber die linke Schulter geworfen. Vor einem Tisch mit persischem Teppich sitzend, auf dem mehrere Bucher liegen; die rechte Hand an der Brust, der Zeigefinger der linken liegt auf einem links eine Fensteroffnung mit Ausblick auf bergige Landschaft mit einem Kastell. LebensgroBe Halbfigur.
+
+Bez. links an der Fensterbristung: . . . . . S
+
+TIAN
+
+VS
+
+VE.
+
+..T..
+
+Entstanden nach der Ubersiedelung nach Rom, um 1515.
+
+Versteigerung Sapieha, Paris.
+
+Pietro d’Achiardi, Sebastiano del Piombo,Rom 1908,S.204ff.
+
+Ausgestellt Berlin, Kaiser-Friedrich-Museums-Verein 1906, Nr.102.
+
+Ausgestellt Bildnis-Ausstellung, Berlin, Akademie 1909, Nr.103.
+
+Pappelholz, H. 96, B. 73 cm.
+
+## TIEPOLO,GIOVANNIBATTISTA(Venedig,Madrid1696-1770)
+
+## 57.Brustbild eines alten Mannes.
+
+Mit weiBem Bart, nach rechts gewendet und auf den Beschauer blickend. In pelzgefittertem Mantel, der vorn durch eine Schnalle zusammengehalten wird, und blauer Kappe mit goldenen Streifen und Agraffe.Brustbild in LebensgroBe.
+
+Ausgestellt Bildnis-Ausstellung, Berlin, Akademie 1909, Nr.143.
+
+Papier,Pastell, H.59, B.46 cm.
+
+E.Sack, Tiepolo, 1910, S.186, Nr.308a.
+## GEMALDE DER FRANZOSISCHEN SCHULE
+## COYPEL,CHARLES ANTOINE(Paris1694-1752)
+
+58. Musikalische Unterhaltung.
+
+Leinwand, H.167,B.102#2 cm.
+
+Links sitzt unter einer Baumgruppe eine Dame in blauem Kleid, aus einem Notenbuch singend, das sie auf dem SchoB halt; rechts neben ihr eine weiBgekleidete Dame, sie auf der Gitarre begleitend. Rechts tanzt eine dritte Dame in rotem Gewand und ibergeworfenem roten Tuch, das Tamburin schlagend. Hintergrund bergige Landschaft.RokokoUmrahmung mit zwei Pierrotkopfen und Muscheln. Gegenstick zu Nr.59.
+
+- 59.Schaferszene.
+
+und blauem Uberwurf, mit Blumen im SchoB, aus einem Korb, der rechts neben ihr steht, Blumen nehmend. Links hinter ihr steht ein junges Madchen mit Strohhut und rotlichem Kleid, eine Girlande mit beiden Handen haltend, die von der rahmenden Architektur herabhangt. Links vorn liegt ein Schaf. Hintergrund bergige Landschaft mit einem See. Rokoko-Umrahmung mit zwei Pierrotkopfen und Muscheln. Gegenstuck zu Nr.58.
+
+Leinwand, H. 171#, B.98 cm.
+
+## LEPRINCE,JEAN BAPTISTE (Metz,Petersburg,Paris 1733-1781)
+
+60. Vornehme Chinesin, vor einem Teehaus sitzend.
+
+Ein in Rot gekleideter Chinese reicht ihr in unterwirfig kniender Haltung Fruchte dar. Dahinter ein kleines Madchen, das gleichfalls Fruchte auf einer Schale bringt. Zwei junge Chinesinnen stehen dabei, von denen die vordere einen Kakadu auf der Hand halt. Rechts spielen zwei Kinder mit einem Hundchen.
+
+Leinwand,H.89,B.120 cm.
+
+Gegenstuck zu Nr.61.
+
+- 61.Vornehme Chinesin mit zwei Kindern.
+
+Sie lagert vor einem rechts gelegenen Teehaus im Freien. Vor ihr sitzt ein musizierendes Madchen,von links tritt ein Gartner heran, der einem der Kinder einen StrauB reicht. Rechts kniet ein Mohrenknabe, der der Dame einen Topf mit einer Frucht bringt.
+
+Gegenstuck zu Nr.60.
+
+Leinwand, H.89, B.120 cm.
+
+## LYON,CORNEILLEDE(Lyon,tatigum 1544-1575)
+
+62. Brustbild eines jungen Mannes mit Vollbart.
+
+In schwarzer Tracht, an der flachen Mutze goldene Knopfe und eine Plakette. Kleines Brustbild ohne Hande auf blauem Grund.
+
+Eichenholz, rund, 13 cm.
+
+## NATTIER,JEAN MARC(Paris 1685-1766)
+
+63. Bildnis einer Dame.
+
+Von vorn gesehen, neben einem Tisch mit Blumen stehend,nach denen die rechte Hand greift. Mit blauem Haubchen auf dem gepuderten Haar, in weiBem, spitzenbesetztem Hemd, dessen linker Armel von einem Perlenband umschlossen wird, dariber ein weiB
+
+und blau gemustertes Oberkleid, das die rechte Schulter frei laBt und rechts hochgerafft
+ist, wo das seidene Unterkleid sichtbar ist. Mit der Linken eine Aster vor der Brust haltend. Im Hintergrund Architektur, rechts, ineinander verschlungen, ein roter und ein goldgelber Vorhang. LebensgroBe Kniefigur. Leinwand, H.157, B.118 cm.
+
+## DE TROY,JEANFRANCOIS (Paris,Rom 1679-1752)
+
+- 64.Der Antrag.
+
+Auf rotem Sofa sitzt rechts in ausgeschnittenem weiBem, blaugeblumtem Kleid mit blauem Federbesatz, den linken Arm auf ein Kissen gestitzt,einejunge Dame und blickt freundlich auf einen jungen Herrn in braunem Sammetfrack,der,neben ihr sitzend,ihre Rechte ergriffen hat und die Linke beteuernd auf seine Brust legt.Zwischen beiden springt bellend ein kleiner schwarzweiBer Hund auf. Links ein rotbrauner Vorhang, iber dem Sofa ein goldgerahmtes Bildfeld mit der Darstellung einer Schaferszene.
+
+Bez.am Armband der Dame: DETRoY.
+
+Gegenstuick zu Nr.65.
+
+Ausgestellt Berlin,Kaiser-FriedrichMuseumsVerein 1906,Nr.144. Leinwand, H.65, B. 531/2 cm.
+
+65. Das Strumpfband.
+
+In einem Stuhl mit hoher Lehne sitzt eine junge Dame in ausgeschnittenem gelbem, blaugestreiftem Morgengewand, damit beschaftigt, das rechte Strumpfband zu befestigen.
+
+Sie weist mit der Linken einen jungen Herrn in blaugrauem Frack und Degen zurick, der ihr dabei behilflich sein mochte. Links hinten ein hoher Wandspiegel und ein Tisch, darauf eine Venusstatuette und ein Buch; rechts ein Bucherschrank mit einer Standuhr. Hintergrund Wandbespannung mit chinesischen Ornamenten.
+
+Bez.links:DETROY.1724.
+
+Gegenstick zu Nr.64.
+
+Ausgestellt Berlin,Kaiser-Friedrich-Museums-Verein 1906, Nr.145.
+
+Leinwand,H.65,B.531/2cm.
+
+## VESTIER,ANTOINE（Paris1740-1824)
+
+66. Bildnis einer jungen Dame.
+
+Von vorn gesehen,mit hoher gepuderter Frisur, durch die ein hellblaues Band und eine Perlenkette geschlungen sind. In ausgeschnittenem hellblauem Kleide mit weiBer Garnierung.LebensgroBes Brustbild. Grauer Grund.
+
+Leinwand, oval, H. 59/, B.50 cm.
+
+Bez.links unten: A.Vestier ft 1786.
+## GROSSE BILDWERKE KLEINE BILDWERKE
+## GHIBERTI,LORENZO DICIONE(Florenz1378-1455)
+
+67. Maria mit dem Kinde.
+
+Das Haupt nach rechts geneigt, in blauem mit goldenen Sternen besetzten Gewand. Mit beiden Handen halt sie das nur mit einem Hemdchen bekleidete Kind, das den Daumen ihrer linken Hand umfaBt.
+
+In altem Tabernakel.
+
+Um1425.
+
+Vgl. W. v.Bode,Florentiner Bildhauer der Renaissance,Berlin 1921, S. 86 mit Abbildungen. O.Wulff, Ghibertis Entwicklung im Madonnenrelief,Berliner Museen.Amtliche Berichte aus den PreuBischen Kunstsammlungen 1922, Bd. XLIII, S. 95, Abb.80.
+
+Eine besonders gute Stuckwiederholung hat sich vor Jahren im Palazzo Davanzati zu Florenz befunden.
+
+Hochrelief. Ton, altbemalt.H.74 cm.
+
+## ROBBIA,ANDREA DELLA(Florenz1435-1525)
+
+68. Die heilige Magdalena.
+
+Stehend, in ganzer Figur, den Kopf etwas nach rechts gewendet. In der Rechten halt sie das SalbgefaB,in der Linken ein Buch. In der Nische eines alten bemalten Tabernakels. In den Zwickeln Rundfelder mit den Halbfiguren der Verkundigung; in der Lunette zu den Seiten eines Kreuzes je ein anbetender Engel.
+
+Statue. Glasierter Ton,weiB,H.102.
+
+Tabernakel H.160,B.64 cm.
+
+## GUARDI,ANDREADIFRANCESCOFlorenz,Pisa,tatigum1450-1474)
+
+- 69.Maria mit dem Kinde.
+
+In einem Marmor-Tabernakel mit Muschelnische. Maria, etwas nach links gewendet,halt mit der Linken das auf der Tabernakelbristung stehende, nach links sich vordrangende Kind. In der Rechten halt Maria eine Rose, die der Knabe mit seinem Handchen faBt. Vgl. die 1452 datierten Tugendreliefs Guardis in S. Maria della Spina in Pisa. Eng verwandt ein Marmorrelief im Kaiser-Friedrich-Museum zu Berlin.
+
+Schottmiller, Die Italienischen und Spanischen Bildwerke usw.Katalog Bd.V, Nr.56.
+
+Flachrelief, Marmor, mit Spuren alter Bemalung und Vergoldung.H.62, B.43 cm.
+
+## FLORENTINISCH,ENDE15.JAHRHUNDERT
+
+- 70.Herkules.
+
+An einen Baumstumpf gelehnt, mit vorgestelltem rechten Bein, den Kopf nach rechts gedreht.Um die Schulter ist das Lowenfell geschlungen, auf der rechten Schulter ruht die Keule; mit der Linken halt er ein Tuch, das um die Hufte gelegt ist. Statuette.Marmor, H.63 cm (mit dem Sockel).
+
+## ZACCHI,ZACCARIA(Volterra,Bologna,Rom1473-1544)
+
+- 71.Satyr mit Nymphe.
+
+Rechts steht nackt,etwas nach links gedreht,ein bockfibiger Satyr, seinen Arm um die Schultern einer nackten Nymphe legend, die links auf einem Felsen neben ihm sitzt. Bez. auf dem Sockel: ZACCARIAE.ZACCHII. VOLTERRANI. OPUS.AN.SAL. MDVI. Gruppe. Marmor, H.55 cm.
+- LOMBARDI,Werkstatt des PIETRO SOLARI,gen.LOMBARDI (Venedig 1435-1515)
+
+72. Bildnis des Kaisers Augustus. Im Profil nach rechts, im Haar einen Lorbeerzweig, um die Schultern ein Gewand. Auf dem geraden unteren Abschnitt ein Streifen mit der Inschrift: DIvvs AVGvsTvs PATER. Brustbild in LebensgroBe. Marmor, H.48, B.35 cm.Rickwand und Sockel neu.
+
+- SANSOVINO, JACOPO TATTI, gen. JACOPO SANSOVINO (Florenz, Rom, Venedig 1486-1570)
+- 73.Maria.
+- 73-74. Verkundigung.7
+
+Stehend, mit zurickgestelltem rechten FuB, den Kopf nach links gewendet. In rotem Gewand und blauem, innen grin gefuitterten Mantel. In der gesenkten Linken halt sie ein Gebetbuch; die Rechte greift an die Brust.
+
+74. Der Engel.
+
+Lebhaft nach rechts schreitend,in antikisierender Gewandung, welche die rechte Schulter
+
+Aus der letzten Schaffensperiode des Kunstlers.
+
+und das vorschreitende Bein frei laBt.
+
+Die Maria ist eng verwandt mit der Gestalt der Spes vom Grabmal Venier in S.Salvatore zu Venedig.
+
+Vgl.L.Planiscig,VenezianischeBildhauerderRenaissanceWien1921,S328mitAbbildungen. Maria, Ton bemalt, H.88 cm; Engel, Ton bemalt, H.84 cm.
+
+Aus Ferrara stammend.
+
+## BERNINI, Schule des GIOVANNILORENZO BERNINI (Rom1598-1680)
+
+75. Bildnis eines Mitgliedes der Familie Colonna.
+
+Mit dichtem, lockigem Haar, kleinem Schnurr- und Spitzbart, den Kopf etwas nach links gewendet.
+
+LebensgroBe Buste. Marmor (hinten hohl) auf viereckigem schwarzen Sockel,
+
+H. (mit Sockel) 99 cm.
+
+## FLORENTINISCH,UM 1570 (im AnschluB an BENVENUTO CELLINI)
+
+76. Diana und Aktaon.
+
+An einem nach vorn flieBenden Wasser lagert im Hintergrunde Diana,von drei Nymphen umgeben, und streckt die Hand gegen Aktaon aus, der rechts mit seinen Hunden erscheint. Vorn am Wasser zwei Windhunde. Links vorn eineGruppe von vier sitzenden und stehenden nackten Nymphen mit drei Hunden. Hintergrund Baume. Hochrelief. NuBbaumholz, H. 28, B.64 cm.
+
+## BRUSTOLON,ANDREA(Belluno,Venedig,Rom1662-1732)
+
+- 77.Caritas.
+
+Nach rechts gelagerte Frau mit nacktem Oberkorper, den linken Arm auf einen Sockel rechts gestitzt, mit der Rechten das Gewand hochhebend; drei nackte Kinder streben an ihr empor. Im Hintergrunde links eine niedrige Mauer, rechts ein Baum. Mit erhohtem Rand. Hochrelief. Buchsbaumholz, H. 33, B.47 cm.
+## BOLOGNA,GIOVANNIDA,JEANBOULOGNEDouaiBologna,Florenz,
+
+## Genua,Lucca 1524-1608)
+
+78. Der Vogelfanger.
+
+Nach rechts schreitend und zu einer Eule emporblickend, die auf seiner hocherhobenen
+
+Silberstatuette auf reichverziertem Sockel, dessen FuBe in Voluten auslaufen.
+
+rechten Hand sitzt. In der Linken halt er einen Leuchter.
+
+Silberstatuetten Bolognas werden in den Mediceer-Inventaren erwahnt. Bronze-
+
+W. v.Bode, Die italienischen Bronzestatuetten der Renaissance, Berlin 1907, Band III, S.6, Abbildung 4.
+
+nachbildungen sind nicht bekannt.
+
+Statuette, Silber. Gewandung und Sockel vergoldet. H. 39 cm (mit Sockel).
+
+- 79.Nessus und Deianira.
+
+Der Kentaur im Galopp nach rechts aufspringend, halt die sich straubende nackte Frau
+
+Diese Darstellung kommt in Wiederholungen vor.
+
+mit beiden Handen fest.Auf hohem profiliertem Bronzesockel.
+
+Vgl. W.v.Bode,Bronzestatuetten,Band III, Tafel CLXXXVII;
+
+L.Planiscig, Die Bronzeplastiken, Katalog des Kunsthistorischen Museums in Wien, Nr.263
+
+F.Goldschmidt, Die italienischen Bronzestatuetten usw., Katalog des Berliner Museums, Nr.145;
+
+mit ausfuhrlichen Nachweisen.
+
+Gruppe. Bronze, hellbraune Lackpatina. H. 57 cm.
+
+- 80.Herkules und Nessus.
+
+Herkules, iber dem auf die Vorderbeine niedergebrochenen Kentauren stehend, druckt
+
+W.v.Bode, Bronzestatuetten, Band III, Tafel CLXXXIX.
+
+mit der Linken dessen Kopf zur Seite, wahrend er mit der Keule in der hocherhobenen Rechten zum todlichen Schlage ausholt.
+
+Nach der bekannten Marmorgruppe Bolognas in der Loggia dei Lanzi zu Florenz (von 1599).Andere Exemplare im Kaiser-Friedrich-Museum Berlin,imKunsthistorischen Museum Wien usw.
+
+L.Planiscig,Die Bronzeplastiken,Katalog des Kunsthistorischen Museums in Wien,Nr.261 mit zahlreichen Nachweisen.
+
+F. Goldschmidt, Die italienischen Bronzen usw.,Katalog Berlin, Nr.146;
+
+Gruppe. Bronze mit Resten von schwarzem Lack,H. 31 cm.
+
+- 81.Merkur.
+
+Nackt, auf dem linken FuBe stehend,mit erhobenem rechten Arm und zurickgeworfenem rechten Bein. Mit Flugelhelm und Flugelschuhen; in der Linken den Griff des (nicht erhaltenen) Caduceus haltend. Auf rundem Sockel, der in der Mitte eingezogen und mit
+
+Wiederholung der von Bologna im Jahre 1579 fur den Herzog von Parma nach der Bronzestatue im Bargello zu Florenz modellierten Statuette,die das Museo Nazionale zu Neapel besitzt. Andere Exemplare im Kaiser-Friedrich-Museum zu Berlin,im Kunsthistorischen Museum zu Wien usw.
+
+Rankenwerk und Masken verziert ist
+
+W. v.Bode,Bronzestatuetten,Band IIl, Tafel CLXXXVIl;
+
+Nr.144;
+
+F.Goldschmidt, Die italienischen Bronzestatuetten usw.,Katalog des Berliner Museums,
+
+L. Planiscig,Die Bronzeplastiken,Katalog des Kunsthistorischen Museums in Wien,Nr.251.
+
+Statuette. Bronze, dunkle Naturpatina mit Resten von schwarzem Lack.H.65 cm (mit
+Sockel). Der obere fehlende Teil des Caduceus war fur sich gegosen und aufgeschraubt. Am linken Oberschenkel eine ringformig verlaufende Bruchstelle. Die Flugel des Hutes sind abgebrochen.
+
+82. Venus nach dem Bade.
+
+Stehend, den linken FuB auf eine Vase gestellt, trocknet sie mit dem Tuch das linke Bein.In der erhobenen Linken halt sie ein anderes Tuch, das aufihre Schultern niederfallt. Katalog F.Goldschmidt,Bronzestatuetten,Nr.136 und sonst.In Berlin auch eine gleichfalls mehrfach vorkommende Variante Katalog Nr.135). Die Statuette ist das Gegenstuck
+
+Wiederholungen u. a.in Florenz,Museo Nazionale,in Berlin,Kaiser-Friedrich-Museum. zu Goldschmidt Nr.134.
+
+Fruher Sammlung A.v.Beckerath, Auktionskatalog,Berlin 1916 (Lepke), Nr.345. Statuette. Bronze, braunliche Patina.H.13 cm (ohne Sockel). Auf oberitalienischem (paduanischem) Sockel vom Beginn des 16.Jahrhunderts. Der Sockel, dreieckig,in Form eines KandelaberfuBes, von drei Zwergen getragen. Auf den Seitenflachen ein die Doppelflote blasender Satyr, ein Bacchant und eine Tanzerin. Auf den abgestumpften Kanten Ornamentfullungen, auf der unteren Bodenflache ein Medaillon mit dem Brustbild einer geflugelten Frau, die einen Pfeil in der Linken halt. Die obere Flache mit Ornamentfullung und rundem Mittelfeld. Die gleichen Figuren finden sich an der Porta Stanga aus Cremona im Louvre. Die Plaketten finden sich zusammen mit einer vierten als Seiten eines Tintenfasses in Berlin, Katalog Goldschmidt,
+
+Nr.251.
+
+Bronze, H. 9 cm.
+
+## FLORENTINISCH,UM1550
+
+83. Nackter Mann (Neptun?).
+
+Stehend, mit hocherhobenem rechten Arm, nach rechts abwarts blickend. In der gesenkten
+
+Linken halt er ein Tuch; der rechte FuB ist rickwarts auf einen Stein gesetzt. Statuette. Bronze mit Resten von schwarzem Lack, H.30 /2 cm.
+
+## FLORENTINISCH,ZWEITE HALFTE 16.JAHRHUNDERT
+
+- 84.Hockende nackte Frau.
+
+Auf einem Tuche sitzend, mit der Schere die Nagel des hochgezogenen rechten FuBes schneidend.
+
+W.v.Bode,Bronzestatuetten,Band III,Tafel CCXVII.
+
+Mehrfach vorkommend:Berlin,Kaiser-Friedrich-Museum (Katalog Nr. 119), Wien,
+
+Sammlung Figdor, Wien, Kunsthistorisches Museum usw.
+
+Vgl. L. Planiscig,Die Bronzeplastiken,Katalog des Kunsthistorischen Museums in Wien, Nr.234 mit zahlreichen Nachweisen:
+
+Statuette. Bronze, GuBfehler am Rucken mit Wachs nachgearbeitet. H.8 cm.
+
+- FRANCAVILLA,PIETROIERREFRANCHEVILLEForenz,Genua,Pisa,
+- Arezzo,Orvieto,Paris 1548-1615)
+- 85.Der Sommer.
+
+Junge Frau, mit Rosen im Haar, einen Korb mit Rosen gegen die Linke stutzend. W.v.Bode,Bronzestatuetten,Band IIl, Tafel CCXXVII. Gegenstick zu Nr.86.
+
+Statuette. Bronze, H.22 cm.
+- 86.Der Herbst.
+
+Junge Frau,mit Ahren im Haar,halt,etwas nach rechts gewendet, ein Ahrenbindel in
+
+W.v.Bode,Bronzestatuetten,Band III, Tafel CCXXVII.
+
+der rechten Hand.
+
+Gegenstuick zu Nr.85.
+
+Statuette.Bronze,H.22 cm.
+
+## FLORENTINISCH,UM1550
+
+- 87.Venus nach dem Bade.
+
+Nackt, den Kopf mit dem hochgebundenen Haar nach links gewendet, steht sie auf dem rechten FuB, den linken Arm auf eine Vase gestuitzt, die auf einem viereckigen Sockel steht. In der linken Hand halt sie einen BlumenstrauB, mit der rechten trocknet sie den
+
+Statuette. Bronze, schwarze Lackpatina, H. 24 cm (mit dem viereckigen Sockel).
+
+hochgezogenen linken FuB.
+
+## ITALIENISCH,17.JAHRHUNDERT
+
+88. Venus von Medici.
+
+Nachbildung nach der in den Uffizien zu Florenz befindlichen Antike. Aufvorn geschweiftem Sockel.
+
+Statuette.Bronze,H.35 cm.
+
+## ITALIENISCH,16.JAHRHUNDERT
+
+- 89.Bildnis eines alteren Mannes.
+
+Bartlos, mit strengem Blick, den Kopf, der auf gedrungenem Halse sitzt, etwas nach rechts gewendet.
+
+Nachahmung der Antike.
+
+LebensgroBe Buste.Bronze, schwarzbraune Lackpatina,H.45 cm.
+
+## VENEZIANISCH,UM1550
+
+- 90.Nackter Knabe.
+
+Nach rechts schreitend, tragt auf dem Kopfe eine Vase, deren Henkel er mit hocherhobenen
+
+Handen halt.
+
+Aus der Sammlung A.v.Beckerath (Auktionskatalog,Berlin[Lepke] 1916, Nr.346 mit
+
+Abbildung). Ein zweites Exemplar im Museo Nazionale zu Florenz.
+
+W. v.Bode, Bronzestatuetten, Band II, Tafel CLIlI (Florenz um 1550).
+
+Von L.Planiscig,Venezianische Bildhauer der Renaissance,Wien 1921, S.337, einem venezianischen Meister zugeschrieben.
+
+Statuette. Bronze, braune Patina mit Resten von schwarzem Lack. Auf rundem Marmor- sockel, H.16 cm.
+
+## VITTORIA,ALESANDROVenedig,Padua,Vicenza,Verona15251608)
+
+- 91.Turklopfer.
+
+Zwischen zwei Hippokampen, die mit den Schwanzen ein Wappenschild hochhalten, steht Andere, z.T.in Einzelheiten varierte Exemplare dieses Turklopfers befinden sich in Venedig, Palazzo Pisani und Museo Civico, in Paris, Slg. Bischoffsheim, in VVien,Kunst-
+
+Vgl.W.v.Bode, Bronzestatuetten, Band II, Tafel CLXXV (Exemplar Bischoffsheim);
+
+Neptun mit dem Dreizack. Eine mit Wasser gefuillte Muschel bildet den unteren AbschluB. historisches Museum und sonst.
+L.Planiscig,Venezianische Bildhauer der Renaissance,ien 1921, S.478 (Abbildung des Exemplars im Palazzo Pisani);
+
+L.Planiscig, Die Bronzeplastiken, Katalog des Kunsthistorischen Museums in Wien, Nr.175 mit zahlreichen Nachweisen.
+
+Bronze,mit Resten schwarzer Lackpatina,H.41,B.30 cm.
+
+## VENEZIANISCH,16.JAHRHUNDERT
+
+92. TintenfaB.
+
+Das runde, von einer Fruchtgirlande umwundene Becken ruht auf dem Rucken von drei sitzenden Lowen.Auf dem Deckel steht Saturn als nackter Mann mit der gesenkten Sense.
+
+Auf dreieckig geschweiftem Untersatz. Bronze,H.31 cm.
+
+- 93.Zwei Leuchter.
+
+Auf rundem, mit Masken verzierten FuB, der von drei Sphinxen getragen wird.
+
+Bronze,H. je 17 cm.
+
+## FLORENTINISCH,ENDE 16.JAHRHUNDERT
+
+- 94.TintenfaB.
+
+Drei geflugelte Drachen tragen ein unten ausgebauchtes rundes Becken, das mit FruchtstrauBen und (auf dem Boden) mit einer Rosette verziert ist. Die Drachen umkrallen Kugeln, die von Blattvoluten gehalten werden. Bronze, schwarze Lackpatina, H. 131/2 cm.
+
+## ITALIENISCH,16.JAHRHUNDERT
+
+95. GefaB.
+
+Mit beweglichem, mit Blattwerk verzierten Henkel.Das GefaB ist mit Blattfriesen und Ranken reich geschmickt.Im Mittelfeld Laubgehange und Muschelwerk. An den Seiten je ein Wappen. Auf drei FuiBen.
+
+Bronze, hellbraune Naturpatina, H. 14 cm.
+
+- 96.Morser.
+
+Auf profiliertem FuB; an der oberen Ausladung vorn und hinten je ein Wappenschild. Die beiden Henkel werden von menschlichen Figuren gebildet. Zwischen den Henkeln und den Schilden hangen Fruchtgirlanden.
+
+Bronze, dunkle Naturpatina, H. 151/2 cm.
+
+## OBERITALIENISCH,16.JAHRHUNDERT
+
+97. Vier Bronzevasen mit Palmettenschmuck.
+
+Dunkle, fast schwarze Patina.H.je 24 cm.
+
+## ITALIENISCH,17.JAHRHUNDERT
+
+- 98.Sockel.
+
+Die vier Ecken zieren vier kleine Engel, deren Oberkorper in Akantusvoluten auslaufen. Dazwischen hangen Girlanden.Die Ruckseite ist offen.
+
+Bronze,vergoldet.H.16, B.24 cm.
+## NIEDERLANDISCH,VON1626
+
+- 99.Morser.
+
+Mit zwei kleinen aus Delphinen gebildeten Henkeln.Die Wandungist reich ornamentiert. Unter der oberen Ausladung die Inschrift: LOF. GODT. VAN.AL.Ao.1626. Bronze, braune Naturpatina. H. 11 cm.
+
+## FRANZOSISCH,Art des JEAN-BAPTISTE PIGALLE
+
+(Rom,Lyon,Paris 1714-1785)
+
+100. Nackte spielende Kinder.
+
+Ein Knabe mit Schilfblattern im Haar, iber einen am Boden kriechenden Spielgefahrten hinwegschreitend,stoBt in ein Muschelhorn, das ein dritter,vor ihm kniender Knabe mit hocherhobenem Handchen zu ergreifen trachtet.Auf Marmorsockel. Gegenstuck zu Nr.101.
+
+Gruppe. Bronze, braune Lackpatina. H. 211/2 cm.
+
+101. Nackte spielende Kinder.
+
+Ein Knabe mit Weinlaub im Haar,in der erhobenen Linken eine Weintraube haltend, blickt zu einem am Boden sitzenden, gleichfalls mit Weinlaub bekranzten Spielgefahrten herab, der ihm sein Handchen entgegenstreckt. Neben dem sitzenden Knaben ein dritter, der in eine Frucht beiBt. Auf Marmorsockel.
+
+Gegenstick zu Nr.1o0 und wie diese in Wiederholungen mehrfach vorkommend. Gruppe. Bronze, braune Lackpatina. H. 23 cm.
+
+## FIAMMINGO,FRANCOISDUQUESNOY,gen.FIAMMINGO
+
+(Brussel und Rom 1594-1644)
+
+102. Buste der hl. Susanna.
+
+Den Kopf mit den gescheitelten, rickwarts hochgebundenen Haaren nach rechts gewendet.Um die Schultern ein faltiger Mantel, der die linke,von einem Hemd bedeckte
+
+Brust freilaBt. Auf rundem Sockel.
+
+Biste, unter der Brust abgeschnitten.
+
+Von dem Kiinstler selbst in enger Anlehnung an seine Statue der hl. Susanna in S.Maria di Loreto zu Rom modelliert.Schon von Sandrart,Teutsche Akademie 1679,II, S.71, erwahnt ,von F.Fiammingo in Rom, ein Brustbild, reprasentierend eine Susanna, sehr anmutig, kunstreich in Metall gegossen zu Rom. Wiederholungen in Berlin, KaiserFriedrich-Museum,Vien,Kunsthistorisches Museum usw.
+
+Vgl. E.F.Bange,Die Bildwerke in Bronze,Katalog des Deutschen Museums, Nr.301, S.38;
+
+L.Planiscig,DieBronzeplastiken,Katalog desKunsthistorischen Museums in Wien,Nr.342. Bronze, dunkle Lackpatina.H.23 cm (mit Sockel).
+
+103. Buste des Christusknaben.
+
+Den Kopf etwas nach rechts gewendet, mit langem, glatt herabhangenden Haar. Um die Schultern eine Manteldraperie.
+
+Gegenstuck zu einer Buste der Maria.
+
+Buste. Bronze, hellbraune Patina. H.231/ cm (mit dem sechseckigen Sockel).
+
+Vgi. L. Planiscig, Die Bronzeplastiken, Katalog des Kunsthistorischen Museums in Wien, Nr.341 und 343.
+## DEUTSCH,ANFANG 17.JAHRHUNDERT
+
+- 104.Lowe, ein Pferd zerreiBend.
+
+Der Lowe ist einem Pferd, das nach rechts zusammengebrochen ist,auf den Rucken gesprungen und zerreiBt ihm die Seite.
+
+Nach der bekannten, von Bologna der antiken Gruppe im Garten des Konservatorenpalastes zu Rom nachgebildeten Bronze, die oft wiederholt und variiert worden ist. H. 37 cm befindet sich im Kunsthistorischen Museum zu Wien (L. Planiscig, Die
+
+Eine andere deutsche Replik — suddeutsch, aus dem Kreise des Hubert Gerhard, Bronzeplastiken,Nr.330).
+
+Gruppe.Bronze,H.85 cm.
+
+## NIEDERLANDISCH,16.JAHRHUNDERT
+
+105.Bildnis des Erasmus von Rotterdam. Mit Kappe und Pelzrock, den Kopf auf die Brust gesenkt. Die Ansatze der Arme gehen in Schneckenvoluten iber. Buste (dreieckig abgeschnitten) Bronze, H. 12'′/2 cm.
+
+## NIEDERLANDISCH,17.JAHRHUNDERT
+
+- 106.Buste eines Putto.
+
+Auf Postament. Marmor, H.21 cm (ohne Sockel), B.15 cm.
+
+## FRANZOSISCH,UM1770
+
+- 107.Bildnis einer jungen Dame. Der Kopf ist ein wenig nach links gewendet. Uber dem ausgeschnittenen Kleide ein um LebensgroBe Buste. Gebrannter Ton,H.79 cm (mit Sockel).
+## ENGLISCHE FARBSTICHE / MINIATUREN SCHMUCK/ SILBER
+## 108.LOUIS BOILLY
+
+L'Optique.
+
+Cazenave sc. Gr.-Fol.
+
+Junge Dame mit Knaben am Guckkasten.
+
+## 109.HENRY SINGLETON
+
+British Plenty. Ein Matrose zwischen zwei Damen. London 1794. Engraved by C.Knigt. Gr.-Fol.
+
+## 110.JOSHUA REYNOLDS
+
+Miss Theophile Gwatkin. Engraved by F. Bartolozzi. Kl.-Fol.
+
+## 111.WILLIAM PETERS
+
+Much a do a bout n othing (Shakespeare, Akt IlI, Szene I).
+
+Hero, Ursula und Beatrice im Parke lauschend. Engraved by Peter Simon. Gr.-Fol.
+
+## 112.COUNTESS LAVINIA SPENCER
+
+Nice supper. Kleines Madchen, essend. London 1791. M. Bovi sculps. Quart.
+
+- 113-125.FRANCISWHEATLEY VOLLSTANDIGE FOLGE DER CRIES OF LONDON.
+- Plate I-XII, Farbendrucke, plate XIlI Druck in Schwarz. Fol.
+113. Two bunches a penny, primroses.... Christrosenverkauferin mit zwei Kindern und Hund.
+
+Schiavonetti sc.London 1793.
+
+- 114.Milk below Maids. Milchmadchen mit zwei Kindern an der Haustir.
+
+Idem sc.1793.
+
+115. Sweet China Oranges, sweet China. Apfelsinen verkaufender Jude mit zwei Damen. Idem sc.1794.
+116. Do you want any Matches?
+3. Streichholzverkauferin mit Knaben und Hund auf der StraBe. Cardon sc.1794.
+4. 117.New Mack'rel. New Mack'rel. Makrelen-Verkauferin mit zwei Madchen an der Haustir.
+
+Schiavonetti sc.1795.
+- 118.Knives, Scissors and Razors to Grind.
+
+Scherenschleifer mit zwei Madchen an der Tur.
+
+Vendramini sc.1795.
+
+119. Fresh Gathered Peas, Young Hastings.
+2. Schotenverkaufer mit Knaben auf einem Wagen verkauft einer jungen Frau mit Madchen
+3. seine Ware. Idem sc.1795.
+120. Round and sound, five pence a pound, Duke Cherries.
+
+Kirschenverkauferin mit Fuhrmann und zwei Kindern. Cardon sc.1795.
+
+121. Strawberries, scarlet Strawberries.
+
+Beerenverkauferin mit dem Korbe auf dem Kopf und Sanftentrager. Vendramini sc.1795.
+
+- 122.Old Chairs to mend.
+
+Zwei junge Madchen mit Stuhlen beim Stuhlflechter.
+
+Idem sc.1795.
+
+- 123.A New Love Song, only ha'penny a piece. Liederverkauferin mit drei Mannern, einer Frau mit einem Kind auf dem Arm und einem Knaben mit Hund. Cardon sc.1795.
+124. Hot Spice Gingerbread, Smoaking hot.
+
+Honigkuchenverkaufer mit Karren, an dem zwei Kinder stehen.Dabei eine Dame und ein drittes Kind. Vorn ein Hund. Vendramini sc.1796.
+
+125. Turnips and Carrots, ho.
+
+Gemiseverkauferin mit Esel und jungem Mann. Gaugain sc. 1797.
+
+- 126.BILDNIS EINER DAME Bez.: C. Bourgeois 1797.
+
+CHARLES-GUILLAUME-ALEXANDRE BOURGEOIS,1759-1832, franzosische Schule.
+
+- Brustbild. Elfenbein, rund, Durchm. 6,6 cm.
+- 127.BILDNISEINER DAME
+
+RICHARDCOSWAY,1740-1821,englische Schule. Brustbild. Elfenbein, oval, H.6,3, B.5 cm.
+
+- 128.BILDNIS EINER DAME In mit Edelsteinen besetzter Fassung.
+
+RICHARD COsWAY,1740-1821,englische Schule. Brustbild. Elfenbein, oval, H.6,2, B.4,7 cm.
+
+- 129.BILDNIS EINER DAME
+
+HENRYEDRIDGE,1769-1821,englische Schule. Brustbild. Elfenbein, oval, H. 5, B. 3,8 cm.
+
+In mit Topasen besetzter Goldfassung, mit Anhanger in Form einer Schleife.
+- 130.BILDNISEINER DAME
+
+die Darstellung einer antiken BegruBungsszene.
+
+In goldenem Medaillon.Auf der Ruickseite in Goldmontierung mit Perlen und Schmelz
+
+GEORGESENGLEHEART,1752-1829,englischeSchule. Brustbild. Elfenbein, oval, H.6,2, B.5,1 cm. Die Ruckseite oval, H. 5,1, B.4,1 cm.
+
+## 131.BILDNIS EINER SCHAUSPIELERIN
+
+HEINRICHFRIEDRICHFUGER,1751-1818,deutsche Schule. Elfenbein, oval, H. 9, B.7,5 cm.
+
+- 132.BILDNIS DER PRINZESSINLUBIMIRSKA In perlenbesetzter Goldfassung mit Ose. Auf der mit Brillanten besetzten Rickseite des Medaillons unter Glas in Goldschrift: C'est tout ce qui m'en reste, und eine Haarlocke. Bez.:Garbi f.
+
+18.JAHRHUNDERT
+
+Brustbild. Elfenbein, oval, H.7, B. 5,8 cm.
+
+- 133.BILDNIS EINER DAME Bez.: Beraud de la Haye Marquise de Montesson.
+
+FRANZOSISCH,18.JAHRHUNDERT
+
+Brustbild. Elfenbein, oval, H.6, B.5,4 cm.
+
+- 134.BILDNIS EINER DAME
+
+ANNE MEE,um 1760-1851,englische Schule. Brustbild. Elfenbein, oval, H. 6, B.5 cm.
+
+- 135.BILDNIS EINER DAME
+
+CASPAR NETSCHER,1639-1684,hollandische Schule. Brustbild. Kupfer, oval, H. 8, B. 6,7 cm.
+
+- 136.BILDNIS DES FURSTEN SULKOWSKI In Schildpattrahmen.
+
+DRESDEN,18.JAHRHUNDERT Brustbild. Pergament, H. 4,9, B.3,9 cm.
+
+- 137.BILDNIS DER KONIGIN VON URTTEMBERG,konigl. Prinzessin von England
+
+ENGLISCH,18.JAHRHUNDERT Brustbild. Elfenbein, oval,H.7,1, B.5,6 cm. Sammlung Grafin Lottum auf Putbus.
+
+- 138.BILDNIS EINER DAME
+
+FRANZOSISCH,18.JAHRHUNDERT
+
+Brustbild. Elfenbein, oval, H. 5,3, B.4,4 cm.
+
+- 139.BILDNISEINER DAME
+
+FRANZOSISCH,18.JAHRHUNDERT Brustbild. Elfenbein, oval, H.7,3, B. 5,6 cm.
+OSTERREICHISCH,18.JAHRHUNDERT
+
+- 140.BILDNIS EINER DAME Brustbild. Elfenbein, oval, H. 6, B.5 cm.
+- 141.VIER EMAILMINIATUREN 18.JAHRHUNDERT Miniaturen oval, je H.4, B.3,3 cm;Rahmen H. 18,5,B.21,5 cm.
+- 142.BILDNIS EINER DAME In runder goldgepragter Saffianlederkapsel. 18.JAHRHUNDERT Brustbild. Elfenbein, rund, Durchm. 5,5 cm.
+- 143.FIBEL
+
+Rechteckig, oben in zwei einander zugewandte Adlerkopfe ubergehend.
+
+Gold mit Almandinen.
+
+LANGOBARDISCH (?), 6. bis 7.JAHRHUNDERT
+
+H.3,5,B.3,8cm.
+
+- 144.OHRRING Gold mit Almandin und gepunztem Dreieckornament. LANGOBARDISCH?),6.bis 7.JAHRHUNDERT
+
+Durchm.3,7 cm.
+
+- 145.RENAISSANCE-ANHANGER
+
+Einhorn aus Gold mit weiBem Email, mit Smaragden und Rubinen besetzt.
+
+Mit Perlenbehang.
+
+16.JAHRHUNDERT L.6 cm.
+
+- 146.RENAISSANCE-ANHANGER
+
+Ruhendes Lamm. Kopf und Beine aus Gold mit weiBem Email, den Rumpf bildet eine groBe Perle. An zwei Goldkettchen hangend, die mit Diamanten festgemacht sind. Auf emailliertem Goldsockel, an dem unten eine goldmontierte halbe Perle befestigt ist.
+
+## 16.JAHRHUNDERT
+
+L. 4,7 cm.
+
+- 147.RENAISSANCE-ANHANGER Gekronter schreitender Lowe an zwei goldenen Kettchen, die von einer kleinen Henkelvase ausgehen. Gold und Email. Mit Behang von Perlen und von durchbrochenen Kugeln aus Gold mit Email. 16.JAHRHUNDERT L.6,5 cm.
+- 148.ANHANGER
+
+seitig). Die Ruckseite der Rahmung Email.
+
+In ovalem goldenem Rahmen mit Email, besetzt mit Diamanten,ein achteckiges Feld mit der Darstellung des buBenden heiligen Hieronymus in buntem Schmelz (doppel-
+
+ITALIENISCH,17.JAHRHUNDERT H. 5, B.4,2 cm.
+## 149.HALSSCHMUCK
+
+Mit gefaBten Edelsteinen. Die Kette aus Rosettengliedern mit Anhanger, der ruickwarts mit einer Nadel versehen ist.
+
+FRANZOSISCH,ENDE 17.JAHRHUNDERT
+
+Lange der Kette 24,5, Lange des Anhangers 6 cm.
+
+- 150.LOFFEL
+
+Goldener Griff mit gebuckeltem Knauf, unten in einen mit einer Maske,Rollwerk und Fruchtgewinden in Relief verzierten Ansatz ibergehend, der die Schaufel aus Bergkristall halt.
+
+DEUTSCH,2.HALFTE 16.JAHRHUNDERT
+
+L.21,5 cm.
+
+## 151.GROSSER DECKELPOKAL
+
+Mit ornamentalem Reliefschmuck und drei ovalen Tierdarstellungen (Pferd und Einhorn) vor landschaftlichem Grund. Als Bekronung des Deckels stehender Landsknecht mit Lanze.
+
+ULM,A NFA NG 17.JAHR HUNDE RT.Stempel eines unbekannten Meisters (Lowenkopf).
+
+Silber, getrieben und vergoldet, H.41 cm.
+
+- 152.DECKELPOKAL
+
+Mit flachem Rankenornament,in drei Feldern Landschaften mit Hund, Ziegenbock und Wolf. Als Bekronung des Deckels Landsknecht mit Lanze und Schild, in den eine gravierte Platte eingelassen ist mit den Buchstaben: DGPzP
+
+BGCS.
+
+REGENSBURG,ANFANG 17.JAHRHUNDERT. Unbekannter Meister CB. Silber, getrieben und vergoldet, H. 31,5 cm.
+
+- 153.DECKELPOKAL
+
+Mit flachem Rankenornament und drei Feldern mit Darstellungen von Landschaften und einer Stadtansicht mit Pyramide. Als Bekronung des Deckels eine Pagenfigur mit
+
+Schild und Lanze.
+
+REGENSBURG?),ANFANG 17.JAHRHUNDERT Silber, getrieben und vergoldet, H. 31 cm.
+
+## 154.DECKELHUMPEN
+
+Mit flachem Rankenornament,Fruchtgewinden und Engelskopfen und drei Relief darstellungen von Landschaften mit Hund, Fuchs und Ziegenbock. Als Deckelgriff groteske Frauengestalt. Auf der Unterseite des Bodens roh eingeschnitten:
+
+A.S.F.G.Z.L.
+
+A.M.CCD.Z.W.
+
+REGENSBURG,ANFANG 17.JAHRHUNDERT.Unbekannter Meister FHL. Silber, getrieben und vergoldet, H. 16,5 cm.
+
+- 155.HIMMELFAHRTDER MARIA Bez. unten rechts: AVA 1614 (Arnt van Alen?)
+
+## FLAMISCH,VON1614
+
+Relief. Silber, getrieben und vergoldet, oben rund, H.16,3, B.12,9 cm.
+## 156.ESSBESTECK
+
+Je ein Dutzend Loffel, Gabeln,Messer mit silbernen Klingen; ein Dutzend Messer mit vergoldeten Klingen.Akanthusornament.Drei Beschaumarken: 1.nach links gerichteter Kopf,darunter CMs,2.nach rechts gerichteter Athenekopf (Pariser Garantiestempel 1809-1819, vgl. Rosenberg*IV. 6588),3. nach rechts gerichteter Hahn (Pariser Fein- gehaltstempel,Rosenberg?IV.6573).
+
+ANFANG19.JAHRHUNDERT
+
+L.17cm.
+## DOSEN/ MOBEL/TEXTILIEN KERAMIK U.A.
+- 157.GOLDENE DOSE MIT DUNKELBLAUEM UND GRUNEM EMAIL Auf dem Deckel ein Medaillon mit Emailmalerei (antike Darstellung). An den Seiten in vier Medaillons unter durchsichtigem gruinem Email Puttendarstellungen (Malerei,
+
+Musik, Bildhauerei, Baukunst).
+
+FRANZOSISCH,ENDE 18.JAHRHUNDERT
+
+Oval, L.8 cm.
+
+- 158.PORZELLANDOSE
+
+Bemalt auf sieben Flachen mit Schaferszenen in Watteaus Art. Mit Goldmontierung.
+
+MEISSEN,18.JAHRHUNDERT
+
+Rechteckig, L.8 cm.
+
+- 159.RUNDE DOSE
+
+In Gold a quatre couleurs mit durchsichtigem blauem Email mit Einfassung von Emailblumenranken.
+
+FRANZOSISCH,ENDE18.JAHRHUNDERT
+
+Durchm. 5,6 cm.
+
+- 160.DOSE AUS BLUTJASPIS
+- Mit goldener Montierung.
+
+18.JAHRHUNDERT
+
+Achteckig, vorn geschweift, L. 7,8 cm.
+
+- 161.AMETHYSTDOSE
+
+Mit Goldmontierung (Rocaillewerk mit kleinen Reliefdarstellungen von Huhnern und Fuchsen) und aufgesetzten Huhnern aus Diamanten und Rubinen.
+
+FRANZOSISCH,MITTE 18.JAHRHUNDERT L. 4,3 cm.
+
+- 162.SCHILDPATTDOSE
+
+Auf dem Deckel Elfenbeinminiatur einer Dame. Bez.: ROB.
+
+PETER ADOLF HALL,1739-1793,franzosischeSchule
+
+Rund, Durchm. 5,7 cm.
+
+- 163.SCHILDPATTDOSE
+
+Auf dem Deckel eine in Gold mit hellblauem Email montierte Elfenbeinminiatur einer Dame.
+
+Bez.: Bourgeois.
+
+CHARLES-GUILLAUME-ALEXANDREBOURGEOIS,1759-1832,franzosische Schule Rund, Durchm.4,5 cm.
+
+- 164.RIECHDOSE Achat mit goldener Rocaillemontierung.
+
+FRANZOSISCH,MITTE 18.JAHRHUNDERT L.10,5 cm.
+- 165.RIECHDOSE Porzellan mit Malereien von Schaferszenen im Watteaustil in erhabenem Rocaillewerk. MEISSEN(?),18.JAHRHUNDERT L.9,8 cm.
+- 166.RIECHFLASCHCHEN Mit goldenem Rocaillewerk, Blumengewinden und dunkelblauem Email, belegt mit zwei Rosenzweigen aus Brillanten, mit einer Brillantrosette als Deckel. Auf der Unterseite des Fubes eingravierte Blumen. FRANZOSISCH,18.JAHRHUNDERT H.7,5cm.
+
+167.RIECHFLASCHCHEN Aus Porzellan mit gemalten Darstellungen von Vogeln und vergoldeter Montierung. FRANZOSISCH(REGENCESTIL),UM1700 H.8 cm.
+
+168.ELFENBEINETUI Mit Goldmontierung; enthaltend Notiztafelchen in Elfenbein. In ovalen Medaillons der Vorder- und Ruckseite Embleme und das Monogramm PC auf durchsichtigem blauen Emailgrund. Aufschrift: Souvenir d'Amitie. FRANZOSISCH,ENDE 18.JAHRHUNDERT Rechteckig, L.8,5 cm.
+
+- 169.NECESSAIRE Brauner Achat, mit goldener Rocaillemontierung. Mit Anhanger. FRANZOSISCH,MITTE18.JAHRHUNDERT L.18 cm.
+- 170.NECESSAIRE Gold a quatre couleurs, graviert. Auf der Unterseite des Bodens das Monogramm: JB. FRANZOSISCH,18.JAHRHUNDERT L. 8,6 cm.
+- 171.NECESSAIRE
+- Gold a quatre couleurs, mit blauem Email. FRANZOSISCH,ENDE 18.JAHRHUNDERT L.12,2 cm.
+- Gold mit blauem Email und vier ovalen Feldern, welche Figuren in Emailmalerei
+- 172.NECESSAIRE enthalten.Mit Perlen besetzt.
+
+FRANZOSISCH,ENDE 18.JAHRHUNDERT L.10,6 cm.
+
+- 173.TRUHE
+
+## VENEZIANISCH,UM1525
+
+Nach unten zusammengezogen.An den Ecken groBe Akanthusblatter, die Wande mit Stoff iberzogen. Mit geschweiftem Deckel und LowenfuBen. Auf der Vorderseite in einem Fruchtkranz ein Wappen (links: springender Lowe; rechts: Adler auf Saule).
+
+NuBbaumholz, bemalt und vergoldet, H.63, B.54, L. 170 cm.
+## 174.TRUHE
+
+An den vorderen Ecken groBe Masken, die in LowenfuBe auslaufen. Das vertiefte Feld der Vorderwand ist mit Rankenwerk,in Drachenkorper auslaufend, die ein Schild halten, geziert.
+
+## FLORENTINISCH,UM1575
+
+NuBbaumholz, teilweise vergoldet, H. 55, B.56, L.176 cm.
+
+## 175.TRUHE
+
+(links: Lilie, rechts: Rebzweig in Kreuz endigend) halten. Die FuBe sind mit Masken und Voluten geziert. Dabei Polster mit altem Sammet bezogen.
+
+Die Vorderwand mit einer von profiliertem Flechtband eingefaBten Fillung. In der Fullung Rankenwerk, das in nackte weibliche Figuren endigt, die ein gespaltenes Vappen
+
+## FLORENTINISCH,UM1525
+
+NuBbaumholz, teilweise vergoldet, H.58,5, B.52,5, L.172 cm.
+
+## 176.TRUHE
+
+Vorderwand mit Rankenfillung, in der Mitte zwei Greifen als Wappenhalter (Wappen geteilt in drei Querzonen, oben und Mitte Adler, unten geschachtet). Sockel mit Pfeifenmotiv,KlauenfuBe.
+
+## FLORENTINISCH,um1550
+
+NuBbaumholz,H.63,B.55,L.173 cm.
+
+## 177.TRUHE
+
+Mit Masken in den Kartuschen der flachen Eckpilaster,Rankenwerk und einer Maske auf der mittleren Fuillung. Die FuBe sind mit Voluten und Masken verziert. Dabei Polster mit altem Sammet bezogen.
+
+## FLORENTINISCH,UM1550
+
+NuBbaumholz,H.57,B.54,L.177 cm.
+
+## 178.SCHMUCKTRUHE
+
+Auf stark profiliertem Sockel, der Kasten an den Ecken mit Sphinxen, auf den Flachen mit viereckigen vertieften Feldern verziert. Mit sarkophagartigem Deckel.
+
+## FLORENTINISCH,UM1550
+
+NuBbaumholz, teilweise vergoldet,H.30,B.51,L.33,5 cm.
+
+## 179.ALTAR-UNTERBAU
+
+Geschnitzte Draperien und Volutenbander.
+
+Zweituriges Sakramentshauschen in einer nach den Seiten abgetreppten Konsole.
+
+## ITALIENISCH,16.JAHRHUNDERT
+
+NuBbaumholz, teilweise vergoldet,H.22,B.12,L.88 cm.
+
+## 180.KREDENZ
+
+Auf der Vorderseite zwischen drei kannelierten Pilastern zwei von einem Flechtband eingefaBte Turflugel, die mit groBen Rosetten geziert sind.Mit iberragender Deckplatte, die auf einem kraftigen Profile mit Zahnschnitt ruht. Auf den Seitenflachen je zwei Pilaster und eine Rosette in der Mitte.
+
+## FLORENTINISCH,UM1550
+
+NuBbaumholz,H.99,B.97,L.197 cm.
+## 181.SAKRISTEIKREDENZ
+
+Achteckig, an den Ecken weibliche Kariatyden, in den abgeschragten Eckflachen je eine Nische.
+
+FLORENTINISCH,UM1550 NuBbaumholz,H.102,B.88,5,L.139,5 cm.
+
+## 182.KREDENZ
+
+Vorderwand in der Mitte nach vorn geschweift,durch vier flache Pilaster geteilt, mit zwei Turflugeln. Die Fullungen mit ovalen Palmetten in flacher Schnitzerei und Knopfen verziert. Auf profiliertem Sockel.
+
+FLORENTINISCH,16.JAHRHUNDERT
+
+NuBbaumholz, H.97, B.60, L.149 cm.
+
+- 183.CASSAPANCA
+
+Auf den Vorderseiten der Armlehnen je eine weibliche Maske. Die Bank ist unten eingezogen und mit Pfeifenornament geschmuckt. Auf altem Untersatz. Dabei sechs Ruckenkissen, vier Sitzkissen mit altem,grungemustertem Sammet.
+
+FLORENTINISCH,UM1550 NuBbaumholz,H.105,B.75,L.156 cm.
+
+- 184.SCHRANK
+
+Oberer Teil jetzt als Vitrine eingerichtet, mit reich profilierter Deckplatte; der untere Teil mit Doppeltur. Auf LowenfuBen; an den Seiten je zwei schmiedeeiserne Griffe.
+
+FLORENTINISCH,16.JAHRHUNDERT NuBbaumholz,H.190,B.56,L.139 cm.
+
+## 185.SCHREIBSCHRANK
+
+Geschnitzter Fries unter dem (erganzten) Sims, Pfosten-Mittelteil der Schreibplatte geschnitzt. Maskenendigungen der herausziehbaren Stitzen.
+
+Oberer Teil mit Klappplatte und Kasteneinrichtung (Erganzungen), unten zwei Turen.
+
+FLORENTINISCH,16.JAHRHUNDERT
+
+NuBbaumholz,H.195,B.56,L.111 cm.
+
+- 186.LESEPULT
+
+Das Gestell mit Flechtbandornament verziert; mit gedrehten Querholzern. Die Bespannung, die dem Buch als Unterlage dient,besteht aus Leder mit gepreBten farbigen Ornamenten auf Goldgrund.
+
+FLORENTINISCH,16.JAHRHUNDERT NuBbaumholz,H.156,B.51 cm.
+
+- 187.TISCH
+
+Vier Balusterbeine mit ebensolcher Kreuzverbindung oben und unten, unten Knauf.
+
+ITALIENISCH,17.JAHRHUNDERT NuBbaumholz,H.81,Durchm.116 cm.
+
+Deckplatte achteckig, alt, jedoch nicht ursprunglich zugehorig.
+
+## 188.KLEINER TISCH
+
+Oben zwischen volutenartigen Konsolen, welche die profilierte Deckplatte tragen, zwei Kastenauszige. Zwischen den gedrehten Beinen reichgeschnitzte Verbindungsstucke, unten geschnitzte Querholzer. Mit einfacher Ruckseite.
+
+FLORENTINISCH,UM1550 NuBbaumholz,H.84,B.50, L.89 cm.
+- 189.ZWEILEDERSESSEL
+
+NuBbaumholz, teilweise rot, blau und gold gemalt, H.89,5, B.40,L.43,5 cm.
+
+Mit reich mit Rollwerk und Wappenschild verzierten geraden Rucklehnen mit Traillen. FLORENTINISCH,UM1550
+
+- 190.KLAPPSESSEL
+
+## FLORENTINISCH,UM1550
+
+Die geschnitzte Rucklehne zeigt ein geteiltes Wappen mit drei Lilien, darunter ein doppelter Anker und zwei Sterne.
+
+NuBbaumholz, H.97,5, B.61, L.69,5 cm.
+
+## 191.ZWEISCHEMEL
+
+halten (das eine mit drei Sternen iber einem Querbalken, das andere mit einer Vogelklaue). Die Vorderbretter aus je zwei geschnitzten Delphinen, zwischen ihren aufgerichteten Schwanzen ein Wappenschild.
+
+Reichgeschnitzte Lehnen mit Bekronung, die zwischen Voluten je ein Wappen ent-
+
+FLORENTINISCH,16.JAHRHUNDERT NuBbaumholz, H. je 99, B.37,5, L.28,5 cm.
+
+- 192.ZWEILEHNSTUHLE
+
+altem rotem Sammet bezogen.
+
+Stollenbeine auf Kufen. Gerade Lehne mit vergoldeten Knaufen. Sitz und Lehne mit
+
+ITALIENISCH,16.JAHRHUNDERT H.142,B.62,L.75 cm.
+
+- 193.LEHNSTUHL
+
+Stollenbeine auf Kufen. Hohe, rickwarts gebogene Lehne mit vergoldeten Maskenknaufen; Armstitzen mit Voluten-Endigung. Bezug rotgelber Brocatello.
+
+ITALIENISCH,16.JAHRHUNDERT NuBbaumholz,H.150,B.68,T.66 cm.
+
+## 194.ZWEIPOLSTERSTUHLE
+
+mit altem rotem Sammetbezug.
+
+Vorderbeine und Verstrebungen gedreht,ruckwarts Stollenbeine,ibergehend in die rechteckige,mit drei Mittelstreben in Saulenform versehene Lehne. Gurtenpolsterung
+
+ITALIENISCH,17.JAHRHUNDERT
+
+NuBbaumholz,H.72, B.50,T.40 cm.
+
+- 195.ZWEILEHNSTUHLE
+
+Stollenbeine, gerade Armlehnen mit Balusterstitzen.Rucklehne mit vergoldeten Knaufen in Maskenform. Bezug blaugelber Brocatello.
+
+ITALIENISCH,ENDE 16.JAHRHUNDERT NuBbaumholz,H.152,B.68,T.58 cm.
+
+- 196.LEHNSESSEL
+
+Stollenbeine mit geschnitztem Vorderbrett in Kartuschenform und gerader Rucklehne mit vergoldeten Akanthusknaufen. Sitz und Lehne mit altem rotem Sammetbezug und
+
+Besatz.
+
+ITALIENISCH,16.JAHRHUNDERT
+
+NuBbaumholz,H.136,B.62,T.52 cm.
+## 197.ZWEILEHNSESSEL
+
+Stollenbeine mit durchbrochenen Verbindungsbrettern. Sitz und gerade Lehne mit altem geschnittenem Lederbezug.
+
+TOSKANISCH,16.JAHRHUNDERT NuBbaumholz, H.140, B.59, T.54 cm.
+
+## 198.LEHNSESSEL
+
+Stollenbeine mit durchbrochenen Verbindungssticken. Armstuitzen mit geschnitzten Masken am Ansatz der Lehne. Sitz (Wappen: Lowen als Schildhalter eines Wappens mit nach rechts steigendem Lowen mit Querbalken) und Lehne mit geschnittenem Lederbezug.
+
+ITALIENISCH,ENDE 16.JAHRHUNDERT NuBbaumholz,H.144,B.60,T.53 cm.
+
+- 199.BOULLETISCH
+
+Erganzter Bronzebeschlag. Zwei Schubladen in der Zarge.
+
+Geschweifte Beine, Schildpatt-Messing-Einlagen mit vielfachen neueren Erganzungen.
+
+FRANZOSISCH,ZWEITEHALFTE 18.JAHRHUNDERT Holz, schwarz gebeizt,H.73, B.75, T.51 cm.
+
+## 200.BOULLEKOMMODE
+
+Vier doppelt geschweifte Schubladen mit MittelverschluB. Seiten und Deckplatte mit Einlagen nach Berain-Motiven. Beschlag nicht ursprunglich.
+
+FRANZOSISCH,MITTE 18.JAHRHUNDERT Ebenholz, Bronze, Schildpatt, H.86, B.103, T.59 cm.
+
+- 201.TISCH
+
+Geschweifte Beine mit BocksfuBen. Stellbrett, reichgeschnitzte Zarge. Deckplatte aus rotlichem Marmor.
+
+FRANZOSISCH,ERSTE HALFTE 18.JAHRHUNDERT Holz, vergoldet, H. 80, B.112, T.64 cm.
+
+- 202.TISCH
+
+Deckplatte aus rotlichem Marmor.
+
+Geschweifte Beine mit BocksfuBen Stellbrett, reichgeschnitzte und durchbrochene Zarge.
+
+FRANZOSISCH,ANFANG 18.JAHRHUNDERT Holz, vergoldet, H.77, B.108, T.63 cm.
+
+- 203.ZWEI NIEDRIGE BANKE
+
+FRANZOSISCH,ANFANG18.JAHRHUNDERT Holz, vergoldet, H. je 45, B.39, L. 100 cm.
+
+Auf je sechs geschweiften, vergoldeten FuBen, die mit Rocaillewerk verziert sind. Mit Beauvais-Uberzigen, auf denen Blumen und in der Mitte je ein Medaillon mit den Brustbildern von Pan und einem Satyr dargestellt sind.
+
+- 204.OFENSCHIRM
+
+PARIS,NACHMITTEDES18.JAHRHUNDERTS Holz, vergoldet, H.101, B.64 cm.
+
+Rahmen in geschweiften Formen, mit geschnitzten Blumen. Blatt mit Beauvais-Bezug, mit Fabel-Darstellung nach Lafontaine. Zugvorrichtung.
+## 205.VIER POLSTERSTUHLE
+
+le Comte d’Artois, Bruder Louis XVI., fur den Jacob nachweislich lieferte.
+
+Sitz vorn abgerundet,nach hinten sich verengend.Klassizistische Form. Sitz und Lehne gepolstert,mit altem,jedoch ursprunglichnichtzugehorigem buntgemustertemSeidenstoff bezogen. Gurtenpolsterung. Mit Brandstempel: G.JAcoB.AuBerdem alter Inventarzettel Salon de Monseigneur. Die Stuhle stammen demnach aus dem Besitz des Monseigneur
+
+PARIS,G.JACOB,UM1780 Holz, vergoldet, H. 98, B.52,T.49 cm.
+
+- 206.STUHL
+
+PARIS,JACQUESCHENEAUXMeister1756,gest.1782),UM1780
+
+Niedrige Form, vorn abgerundet, nach hinten verjungt.Klassizistische Form. Lehne mit Lyra. Sitz mit Rohrgeflecht und aufgelegtem Sitzkissen mit Damastbezug. Signiert mit Brandstempel: I CHENEAUX.
+
+Holz, vergoldet, H.84, B.45, T.41 cm.
+
+- 207.ZWEI STUHLE
+
+mit buntgemusterter Seide bezogen.
+
+Klassizistische Form mit Lyra in der Ruicklehne. Rohrgeflecht. Aufgelegtes Sitzkissen
+
+FRANZOS!SCH,UM 1780 Holz, vergoldet, H.84, B.45, T.41 cm.
+
+- 208.FRISIERSTUHL
+
+Lehnstuhl mit drehbarem Obergestell. Klassizistische Form, mit geschnitzten Ornamenten. Sitz und Lehne gepolstert,mit alter, aber nicht zugehoriger buntgemusterter Seide bezogen. Mit Brandstempel: Krone, darunter drei Lilien im Oval. Das ist der Inventarstempel der Schlosser Fontainebleau und Tuilerien wahrend der Restaurationszeit, demnach ehemaliger Besitz Louis XVIlI.
+
+PARIS,UM1780
+
+## 209.SOFA UND SECHS ARMSESSEL
+
+Gebogene Rucklehne,diein die Seitenlehne ibergeht.Klassizistische Form, geschnitzte Ornamentstreifen. Gurtenpolsterung mit losem Sitzkissen.Beauvais-Bezug mit Blumen und figurlichem Dekor (Schaferszenen). H.99,B.142,T.60cm.
+
+- a) Sofa.
+- b) Sechs Armsessel.
+
+PARIS,UM 1780
+
+Lehnsessel mit Armlehnen.Klassizistische Form, geschnitzte Ornamentstreifen. Lehne und Sitz gepolstert. Gurtenpolsterung,Beauvais-Bezug mit Blumendekor.
+
+Holz, vergoldet, H. 91, B.60, T.50 cm.
+
+- 210.LEHNSTUHL
+
+Sitz und Lehne gepolstert mit modernem Bezug.
+
+Vorderbeine gerade mit geschnitztem Arabeskenornament, Lehne zuruckgeschwungen.
+
+## FRANZOSISCH,UM1790
+
+Kirschholz,zum Teil vergoldet,H.52,B.52,T.55 cm.
+
+## 211.ZWEIKOMMODEN
+
+in klassizistischem Stil versehen. Graue Marmorplatte.
+
+Beide zweitirig, die eine mit drei Schubladen dahinter, bei der anderen sind diese entfernt,dafur neuere Fachereinteilung eingebaut.Mit figurlicher und ornamentaler Intarsia
+ITALIENISCH,in derArt des GUISEPPE MAGGIOLINI (Mailand 1738-1814), ENDE 18.JAHRHUNDERT Palisander,NuB-und andere Holzer,H. 92, B.117, T.58 cm.
+
+## 212.WANGENTISCH
+
+platte alt, jedoch ebenso wie die Querstege verkurzt.
+
+Wangen gebildet durch Voluten auf KlauenfuBen, verbunden durch Querstege. Deck-
+
+ITALIENISCH,16.JAHRHUNDERT NuBbaumholz,H.75,B.168, T.72 cm.
+
+## 213.KLEINER WANDSPIEGEL
+
+Der reich profilierte und dekorierte Architrav, iber dem sich ein mit Rankenwerk, Drachenleibern, einer Maske und einem Adler als Bekronung verzierter Aufsatz erhebt, wird von zwei Saulen getragen. Die untere Flache ist ebenfalls mit Drachenleibern und einem Schild geschmickt. Mit Schiebedeckel, der mit Goldrankenwerk bemalt ist.
+
+FLORENTINISCH,UM 1550
+
+NuBbaumholz mit Vergoldung, H.51,5,B.32 cm.
+
+## 214.SPIEGELRAHMEN
+
+Seitlich begrenzt von Voluten, die in geflugelten weiblichen Oberkorpern endigen. Den oberen AbschluB bildet ein Orangenbaum mit zwei Tauben, rechts und links je ein
+
+(Leiter und Fahne auf blauem Grund).
+
+VENEZIANISCH,ANFANG17.JAHRHUNDERT NuBbaumholz, teilweise bemalt und vergoldet, H.129, B.98 cm.
+
+## 215.SPIEGEL
+
+Dazwischen ovale Felder von Lapislazuli.
+
+Der vielfach geschweifte Rahmen ist dicht mit Blumen in Emailmalerei bedeckt.
+
+SUDDEUTSCH(AUGSBURG),ZWEITEHALFTE 17.JAHRHUNDERT
+
+Email und Lapislazuli, H. 99, B.76 cm.
+
+## 216.SPIEGELRAHMEN
+
+Zwischen reichen Blattvoluten vergoldete Blumengirlanden; als Bekronung ein schwebender Putto, unten ein vergoldetes Rosenbukett.
+
+## ITALIENISCH,18.JAHRHUNDERT
+
+Holz, geschnitzt, rotbraun bemalt und teilweise vergoldet, H.181, B.127 cm.
+
+## 217.SPIEGEL
+
+Spiegel, daruiber Schaferszene (Ol auf Leinwand), in vergoldetem Rahmen. Teil einer Vertafelung.
+
+WESTDEUTSCH,18.JAHRHUNDERT Weichholz, gestrichen, H. 131, B. 50 cm.
+
+## 218.SCHAUSCHRANK
+
+Sammet ausgelegt. Im Louis-XVI.-Stil. Holz, vergoldet, H.135, B.102, T.38 cm.
+
+Unten zweiturig, oben Pult. Alle Seiten verglast. Mit Spiegeln, Glasfachern und blauem
+- 219.SAMMETDECKE Gruner Sammet mit Vogelmotiven und Ranken.
+
+ITALIENISCH,17.JAHRHUNDERT
+
+B.102,L.108cm.
+
+- 220.SAMMETABSCHNITT Roter Sammet. ITALIENISCH,18.JAHRHUNDERT B.57, L.110cm.
+- 221.GESTICKTEDECKE Weinroter Taffet-Grund mit gestickten Borduren, darin Ranken, Blumen, Fabelwesen in bunter Nadelmalerei.
+
+ENDE 17.JAHRHUNDERT B.105, L.210 cm.
+
+- 222.AUFBRUCHZUR JAGD Nach ADAM FRANS VAN DER MEULEN (Brussel,Paris 1631[1632]-1690) Gobelin mit Blumenbordure.H.335,B.585 cm.
+- 223.REITER IMSCHLOSSPARK Nach ADAM FRANS VAN DER MEULEN (Brussel, Paris 1631[1632] -1690)
+- Gobelin mit Blumenbordire.H.335,B.385 cm.
+- 224.KNUPFTEPPICH Feld mit breiten Medaillons auf rankenbedecktem Grund. Borte mit Wellenranke. Rot, gelb, helles und dunkles Blau. KLEINASIEN (USCHAK),17.JAHRHUNDERT Wolle, B.350, L.190 cm.
+- 225.KNUPFTEPPICH
+- Sternenmuster auf rankenbedecktem Grund. Borte mit Wellenranke. Rot, gelb,helles und dunkles Blau. KLEINASIEN(USCHAK),17.JAHRHUNDERT Wolle,B.195,L.365 cm.
+- 226.KNUPFTEPPICH Sternenmuster auf rankenbedecktem Grund. Borte mit Blutenranken, an einer Schmalseite angesetzt von einem Uschak-Teppich des 16. Jahrhunderts. Rot, gelb, helles und
+- dunkles Blau. KLEINASIEN(USCHAK),17.JAHRHUNDERT
+
+Wolle,B.225,L.530cm.
+
+- 227.GLASIERTE TONSCHALE
+- Mit sechs Masken, Blattwerk und Blumen in bunter Bemalung, mit Uberlaufglasur. PALISSY,17.JAHRHUNDERT Durchm.23,5 cm.
+- 228.PORZELLANVASE
+- Mit Deckel, nach unten sich verjingend. Blau auf Weib, Felder mit chinesischen Landschaften und Blumen.
+
+DELFT,17.JAHRHUNDERT H.58cm.
+
+- 229.ZWEIPORZELLANVASEN
+
+In Flaschenform mit hohem, eingezogenem Hals. Blau auf Weib, Felder mit chinesischen Landschaften und Blumen.
+
+DELFT,17.JAHRHUNDERT H.je 58 cm.
+
+- 230.ZWEIPORZELLANVASEN
+
+Potpourri-Deckelvasen mit FuB, Maskenhenkeln, Einfassung und Knauf aus Bronze. Porzellan mit StrauBen aus bunten Blumen in MeiBner Art dekoriert.
+
+SEVRES,ENDE 18.JAHRHUNDERT H.je 29, Durchm. je 14 cm.
+
+- 231.FACHER
+
+Bemalt mit Blumen und Landschaft mit Schaferszene. Das Gestell Perlmutter, reich erhaben und durchbrochen geschnitzt, mit Rocaillewerk sowie goldenen Figurchen.
+
+FRANZOSISCH,MITTE 18.JAHRHUNDERT L.51 cm.
+
+- 232.FACHER
+
+Mit gemalter Darstellung von Venus und Helios. Das Gestell Perlmutter, reich geschnitzt und vergoldet.
+
+18.JAHRHUNDERT L.49 cm.
+
+- 233.ZWEI FEUERBOCKE Auf drei volutenartig gedrehten FuBen; eine Volute aufwarts gerichtet.
+
+FRANZOSISCH,18.JAHRHUNDERT
+
+Bronze, vergoldet. H. je 28, B. je 31 cm.
+
+- 234.VIER BRONZEKONSOLEN
+
+Konsolen aus Volutenmotiven und Akanthus.
+
+FRANZOSISCH,ANFANG18.JAHRHUNDERT
+
+Bronze,vergoldet.H.22,B.14,T.11 cm.
+
+- 235.VOGELBAUER
+
+Mit abgestumpften Ecken.Mit vergoldetem Gitterwerk und Eckstaben, die in aus Blattwerk hervorkommenden Vasen endigen. Unten auf den vier Feldern des Kastens ovale Porzellanmedaillons mit gemalten mythologischen Darstellungen;an den abgestumpften Ecken kleine bemalte Porzellanbusten antiker Gottheiten. Mit vier vergoldeten Vogelklauen, die je eine Kugel halten, als FuBen. Auf der Unterseite eine Uhr (bez. A. R.). Im Kafig zwei durch das Uhrwerk bewegliche kunstliche Vogel.
+
+FRANZOSISCH,ENDE 18.JAHRHUNDERT Achteckig, H.50, B.30 cm.
+## 236.ZWEI KLEINE VERGOLDETE BRONZEVASEN
+
+Bauch und Hals grinblau emailliert, von vier Delphinen getragen, auf vierfuBigem Sockel. Am Hals je zwei Tauben und je ein Blumenbukett als Deckel. FRANZOSISCH,18.JAHRHUNDERT H.je 17 cm.
+
+## 237.GROSSE KONSOLUHR IN BOULLETECHNIK
+
+Mit Bronzebeschlagen und Marketerie,bekront von einem sitzenden Bronzeputto; mit Widderkopfen und reichverziertem Zifferblatt, das mit einer Reliefdarstellung der Sonne und des Phonix geziert ist. An den Ecken der Konsole Satyrkopfe, mit Blattwerk. Uhrwerk von Audinet in Paris.
+
+FRANZOSISCH,UM1700 Bronze, vergoldet, und Schildpatt. H. 142, B.60 cm.
+
+- 238.ZWEIARMLEUCHTER
+
+FRANZOSISCH,UM1700 Bronze, auBer der tragenden Figur vergoldet, H. je 78 cm.
+
+Auf einem Marmorsaulenschaft mit vergoldeten Bronzezieraten in den Kanellierungen, der sich aus einem auf einem Sockel liegenden Kranze erhebt, steht eine weibliche Mitte ein mit Lowenkopfen verziertes Becken mit Flamme hervorwachst. Die drei Arme laufen in Sphinxe aus, die auf ihren Kopfen Lichttullen tragen.
+
+- 239.BRONZESCHALE
+
+Auf drei FiBen Bronzeringe mit Zwischengliedern in Form von Putten, Voluten und Masken, mit zwei Henkeln. Neuer Glaseinsatz.
+
+ITALIENISCH,ENDE 16.JAHRHUNDERT
+
+Bronze, Durchm.21, H. 8 cm.
+
+- 240.KASSETTE
+
+Gewolbter Deckel. Mit rotem Sammet bezogen. Silberne KugelfuBe und Beschlag mit getriebenen Blumen.Deckelschild mit Allianzwappen (Horn und Blitenbaum), dabei Initialen.
+
+SUDDEUTSCH,17.JAHRHUNDERT H. 17,B.30, T.19cm.
+
+- 241.ZWEILEUCHTER
+
+Balusterfub, ausgestochenes Blumen- und Akanthusornament auf Standplatte und Tille. SUDDEUTSCH,ENDE17.JAHRHUNDERT
+
+Buchs,H.13,5, Durchm.10,5 cm.
+
+- 242.SPIELUHR
+
+Holzgehause mit Pilastern an den Ecken; Bandwerk und Blumen-Intarsia an den Seiten- flachen. Spielwerk mit Valze.
+
+ANFANG 18.JAHRHUNDERT H.59, B.37, T.29 cm.
+
+- 243.ZWEIGARTENVASEN
+
+BalusterfuB, darauf bauchige Vase mit Deckel. Maskenhenkel, Weinlaubgirlanden. FRANZOSISCH,ZWEITE HALFTE 18.JAHRHUNDERT Marmor,H.98,Durchm.50 cm.
+## NACHTRAG
+
+## LUCENTI,AMBROGIO(Rom,um1640)
+
+96a.Morser.
+
+Auf profiliertem FuB. Daruiber ein Kranz von Akanthusblattern. Auf dem breiten Mittelstreifen ein ovales Medaillon mit einem ansprengenden Reiter, auf der Ruickseite ein Wappen,rechts und links ein Lowenkopf. Oben mit kraftig ausladender Profilierung abschlieBend. Zu den Seiten des Wappens: Felippo Caloro; am unteren Rande die Inschrift: Ambrosio . Lucenti. Romano.F. C.A. Opus.;L. 100. und 1639.
+
+Bronze,H.27,5 cm.
+
+## 221b.SEIDENDECKE
+
+Lichtbrauner Taffetgrund mit applizierter bunter Seidenstickerei. Mittelstick und Bordire mit Ranken, Blumen und Fruchten.
+
+B.169 cm,L.234 cm.

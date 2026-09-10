@@ -1,0 +1,1032 @@
+## (Diese Bilder sind mit roten Nummern versehen.)
+
+## Benno Adam
+
+geb. 1812 in Munchen, gest.1892 in Kelheim.
+
+- 1 Rotgefleckte Kuh.Profil.
+
+Bezeichnet:Benno Adam.
+
+- 2 Zicklein mit Stallhasen.
+
+Aquarell. 16 X 22 cm. Schwarzer Rahmen.
+
+## Julius Adam
+
+geb.182 in Munchen, gest.Ig13 in Munchen.
+
+0l auf Leinwand. 27 X 47 cm. Schwarzer Rahmen.
+
+## Hermann Baisch
+
+- 3 Hollandische Viehweide. Rechts im Hintergrunde Dorf und Windmihle.
+
+geb.1846 in Dresden, gest. 1894 in Karlsruhe.
+
+Bezeichnet:H.Baisch 81.
+
+Abbildung Tafel II.
+
+O1 auf Leinwand.25X 42 cm. Goldrahmen.
+
+## Ludwig Bechstein
+
+lebt in Munchen.
+
+- 4 Gebirgstal. Heuschober und Bach im Vordergrund; zur Seite zum Teil beschattete und besonnte Berge. Bezeichnet:Bechstein. 01 auf Leiwand. 49.5 X 68,5 cm. Goldrahmen.
+
+## Heinrich Burkel
+
+geb. 18o2 in Pirmasens, gest.1869 in Munchen.
+
+- Auf der Alm. Rechts Alm mit Sennerin, auf einer Bank vor der Ture sitzend. Sie liest in einem Bichel. Vor ihr auf der Almwiese ruhendes und weidendes Vieh. Im Hintergrund Bergkette. Ruckseitig von Dr.Burkel bestatigt.
+
+Abbildung Tafel II.
+
+- 6 Weide mit Ochsen und Pferd am See. Abendstimmung. Ruckseitig bestatigt von Dr.Burkel. Abbildung Tafel II. Ol auf Holz. 24X 33 cm. Unter Glas. Dunkler Rahmen.
+
+Ol auf Leinwand. 52 X 75.5 cm. Unter Glas. Dunkler Rahmen.
+
+- 7 Schwarze Kuh und braune Kalbin.
+- 8 Vier Pinien bei Porta S. Sebastiano.
+
+Ruckseitig bestatigt Dr.Burkel.
+
+- 01 auf Malpappe. 16 X 33 cm. Goldrahmen.
+
+Ruckseitig bestatigt von Dr. Buirkel.
+
+- 9 Italienischer Hirte.
+- O1 auf Malpappe. 25 X 22 cm. Unter Glas. Goldrahmen.
+
+Aquarellierte Bleistiftzeichnung. g X I4 cm in Passepartout.Unter Glas.
+
+- 1O Italienerin, auf einem Stuhl ruhend.
+
+Schwarzer Rahmen.
+
+- Bleistiftzeichnung. 13X 8 cm. Unter Glas. Schwarzer Rahmen. II Esel. Studie. Bleistiftzeichnung. 17X 11,5 cm. Unter Glas.S Schwarzer Rahmen.
+
+## Heinrch Brune
+
+lebt in Munchen.
+
+- 12 Junges Madchen mit leicht bekleidetem Oberkorper,rote Schleife im Haar. Bezeichnet: Brine 13. 01 auf Leinwand. 49 X 39 cm. Goldrahmen.
+
+Bezeichnet:J.Adam.
+- 22
+
+## Josef Damberger
+
+- I3 Junger Bauer und Bauerin auf der Ofenbank.
+
+Abbildung Tafel V.
+
+lebt in Munchen.
+
+Bezeichnet: Jos.Damberger M.98.
+
+O1 auf Holz. 64 X 33 cm. Schwarzer Rahmen.
+
+## J.G.v.Dillis
+
+geb. 1795 in Giebing, gest. 1845 in Munchen.
+
+Sepiazeichnung.19 X 25 cm.Gerahmt.
+
+- 14 Motiv in Bogenhausen bei Muinchen.
+
+## Wilhelm von Diez
+
+- 15 St. Georg mit Fahne und Schild auf dem erschlagenen Lindwurm stehend. Im Hintergrund FluBlandschaft.
+
+geb.1839 in Bayreuth, gest.1go7 in Minchen.
+
+Bezeichnet:Wilh.v.Diez 1896. Abbildung Tafel III.
+
+Ol auf Holz. 33 X 23.5 cm. Dunkler Rahmen.
+
+- 16 Manoverskizze. Reiter und Infanterie.
+
+Bleistiftzeichnung.12X 18,5 cm.Gerahmt.
+
+## Michael Echter
+
+geb.1812 in Munchen, gest.1879 daselbst.
+
+Aquarell. 24X 32 cm.Gerahmt.
+
+- 17 Entwurf zum Nibelungengemalde in der Muinchener Residenz.
+
+## C.F.Faber
+
+lebt in Munchen.
+
+- 18 Am See. Terrasse vor einer Villa mit Blick auf einen See.
+- 19 Sommerlicher Park mit Spaziergangern.
+
+Ol auf Leinwand.48X 67 cm. Goldrahmen.
+
+O1 auf Leinwand. 54X 66 cm.Goldrahmen.
+
+## Otto Fedder
+
+gest.1918 in Munchen.
+
+- 20 Sommertag im Gebirg.
+
+Bezeichnet:Otto Fedder.
+
+01 auf Malpappe. 33 X 16 cm. Goldrahmen.
+
+## Max Feldbauer
+
+lebt in Munchen.
+
+- 2IS Sitzender weiblicher Akt.
+
+Bezeichnet:Feldbauer.
+
+Ol auf Leinwand. 71X 53 cm.
+
+## Josef Futterer
+
+lebt in Munchen.
+
+- Dame mit rotem Hut auf rotem Stuhl, ein Bild auf der Staffelei im Atelier betrachtend. Bezeichnet:Jos.Futterer. O1 auf Holz. 72X57 cm. Goldrahmen. Abbildung Tafel IV.
+- 23 Bauer, am Tisch sitzend, mit Glas in der Hand. Vor ihm ein groBer steinerner Krug.
+
+Abbildung Tafel IV.
+
+Bezeichnet:Jos.Futterer.
+
+01 auf Holz. 56 X 45.5 cm. Goldrahmen.
+
+- 24 Bauer mit roter Weste und griner Kappe, Zigarre im Mund.
+
+Ol auf Leinwand. 5o X 46 cm. Goldrahmen.
+
+## Otto Gampert
+
+geb.1842 in Ottenbach,Schweiz,lebt in Minchen.
+
+- 25 Herbstlandschaft in den Vorbergen.
+- 26 Brunnen in Fiume.
+
+Bezeichnet:O. Gampert.
+
+Ol auf Malpappe. 29 X 45 cm. Schwarzer Rahmen.
+
+## W.Gause
+
+Wien.
+
+Guasche auf Karton. 13 X22 cm. Schwarzer Rahmen.
+
+Bezeichnet:Jos.Futterer.
+
+Bezeichnet:Faber 12.
+
+Bezeichnet:Faber 13.
+- 35
+
+AbbildungTafelV.
+
+## Otto Gebler
+
+geb.1838 in Dresden, gest.1917 in Minchen.
+
+- 27 Am Bach. Waldbach, der ber Baumstamme und Felsen flieBt, dariber schmaler Steg. Bezeichnet:O. Gebler 65. Ol auf Malpappe. Unter Glas. Dnnkler Rahmen.
+
+## Hugo v.Habermann
+
+- 28 Dame im roten Kleide mit weiBem Pelzbarett und weiBem Spitzenkragen, Bezeichnet:Habermann. Ol auf Leinwand. 46X 37 cm. Unter Glas. Goldrahmen.
+- 29 L'Automne. Frauenkopf in blauem,weib bewolktem Himmel. Im Hintergrund rotbraun gefarbte Walder und Baume.
+- 30 Studie. Dame mit Kopf in Profilstellung.
+
+Bezeichnet:Habermann. Pastell auf Malpappe. 72 X 52 cm. Unter Glas. Heller Rahmen. Abbildung TafelV.
+
+Bezeichnet:Habermann 1911.
+
+Tuschzeichnung auf Papier. 62 X 49 cm. Unter Glas. Goldrahmen.
+
+## Ludwig Hartmann
+
+- 31 Strohhutte mit Staffage Bauerin und Huhner.
+
+geb. 1835 in Munchen, gest. 1go2 in Munchen.
+
+Bezeichnet:NachlaBstempel.
+
+0l auf Malpappe. 25 X 37.5 cm. Unter Glas. Schwarzer Rahmen.
+
+## Hermann Hartwich
+
+- 32 Austrieb zur Weide. Hirtin mit Kuhen auf von Weiden beschattetem, sonnigen Weg Bezeichnet:H.Hartwich. Ol auf Leinwand. 32X 43 cm, Unter Glas. Dunkler Rahmen. Abbildung Tafel IX.
+
+geb. 1853 in New York, lebt in Munchen.
+
+## Karl Heffner
+
+geb. 1849 in Wurzburg, lebte in Freiburg.
+
+- 33 Abendstimmung in einer Herbstlandschaft. Bezeichnet:K.Heffner. Ol auf Malpappe. 15 X 19 cm. Unter Glas. Dunkler Rahmen.
+
+## Karl Heilmayer
+
+- 34 Gewitterstimmung am Starnbergerseee. Im Vordergrund Fischerhitten und Fischer im Kahn. Bezeichnet:K.Heilmayer. Ol auf Holz. 16X 32 cm. Unter Glas. Goldrahmen.
+
+## Philipp Helmer
+
+- 34a Im Grinen sitzende, an einem roten Strumpf strickende Bauerin.
+
+lebte in Munchen.
+
+O1 auf Leinwand. 39 X 27 cm. Goldrahmen. NachlaBstempel auf der Vorderseite Ph. Helmer.
+
+## Karl Hennig
+
+geb. 1871 in Dresden, lebt in Dachau.
+
+- Steinach am BrennerpaB. Im Vordergrund Wildbach. Bezeichnet:K.Hennig. Ol auf Leinwand. 5o X 7o cm. Dunkler Rahmen. Abbildung Tafel IX.
+
+## Peter v.He
+
+- 36a) Gesatteltes Pferd.
+
+Bezeichnet: Subiaco. P.HeB.
+
+Bleistiftzeichnung. 9.5X 14,5 cm. Gerahmt.
+
+- b) Pferde und Maultier Bezeichnet:P.HeB,Castelgrande.
+
+geb. 1792 in Dusseldorf, gest. 1871 in Munchen.
+
+Bleistiftzeichnung. 9.5 X 14,5 cm. Gerahmt.
+
+geb. 182g in Munchen, gest. 1go8 in Munchen.
+
+geb.1849 in Dillingen,lebt in Munchen.
+## Leopold Graf v. Kalkreuth
+
+- 36a Feierabend. Alte Bauerin im Freien sitzend, mit schwarzem Kopftuch und blauem Kittel. Die Hande im SchoB.  Halbfigur
+
+geb.1855 in Dusseldorf.
+
+## Albert v. Keller
+
+O1 auf Holz. 84X 71,5 cm. Goldrahmen.
+
+Bezeichnet:Kalkreuth.
+
+geb.1844 in Gais (Schweiz), lebt in Minchen.
+
+- 37 Damenportrat. Bildnis der Amalie B. in schwarzem Hut und weibem Kleid auf rotem Divan sitzend. Bezeichnet:Albert Keller. Ol auf Leinwand. 87 X 73 cm. Dunkler Rahmen. Abbildung Tafel VI.
+- 38
+- 8Bildnis einer jungen Dame in dunklem Kleid mit Spitzenjabot unter Baumen. Bezeichnet:A.v.Keller. Ol auf Leinwand. 6oX 5o cm.Goldrahmen. Abbildung Tafel VI.
+
+geb.1792 in Nurnberg,gest.1875.
+
+## Adam Klein
+
+- 39
+
+- Schweizer Sennerin am Waschschaff. Bezeichnet:A.Klein 1817 auf dem GrimselpaB.
+
+- Aquarellierte Bleistiftzeichnung. 12 X 17 cm. Unter Glas. Schwarzer Rahmen. 40 Pferdestudien.
+
+Bezeichnet:Auf dem ungar.Heumarkt Wien, A.Klein.
+
+Bleistiftzeichnung, weiB gehoht. 16X 20,5 cm. Unter Glas. Schwarz gerahmt.
+
+## August Loffler
+
+- 41 Kairo. Oase mit Palmgruppe. Aquarell 13 X 22 cm. Bezeichnet A.L.Cairo 24.Juni 188o.
+
+geb.1822 in Munchen, gest.1866 daselbst.
+
+## Richard Lotter
+
+Schwarzer Rahmen.
+
+- 42 Flirt. Herr mit Frack und Monocle unterhalt sich mit einer Dame in Gesellschaftstoilette. Bezeichnet:Rich.Lotter. Tuschzeichnung. 32X 38 cm.Unter Glas.Goldrahmen.
+
+## Christian Mali
+
+- 43 Chiemse mit Blick auf die Berge. Am Ufer Fischerkahne und Stangen zum Netzaufhangen. Bezeichnet:Chr.Mali, Chiemsee. O1 auf Malpappe. 27,5X53 cm. Unter Glas. Goldrahmen.
+
+geb. 1832 in Broekhuizen in Holland, gest.1go6 in Munchen.
+
+## Karl v.Marr
+
+- 44 Musenflucht. Guasche auf Karton. 41 X 55 cm. Unter Glas. Dunkler Rahmen.
+- 45
+
+geb. 1858 in Milwaukee, lebt in Munchen.
+
+- Abschied. Eine schlanke Frauengestalt unter der Ture sieht einem Reiter nach. Bezeichnet:M. Guasche auf Karton. 35 X 21 cm. Unter Glas.
+
+## G.Meyer
+
+Goldrahmen.
+
+- 46 a) Komiker Horbitz.
+
+Bezeichnet:G.Meyer.
+
+Bleistiftzeichnung.12X 17 cm. In Passepartout.
+
+- b)Rohrender Hirsch (Kopf).
+
+Bezeichnet:G.Meyer.
+
+Bleistiftzeichnung. 12X 17 cm.In Passepartout.
+
+## Eduard Meyerheim
+
+- 47 Interieur. Bauernstube
+
+Bezeichnet: NachlaBstempel Paul Meyerheim.
+
+Bleistiftzeichnung.24X 30 cm. Gerahmt.
+
+- a)Monch.
+
+Bezeichnet:NachlaBstempel Paul Meyerheim.
+
+Bleistiftzeichnung. 17X 12 cm. Gerahmt.
+
+- b)Affen.
+
+Bezeichnet:Paul Meyerheim.
+
+Bleistiftzeichnung. 17X 12 cm. Gerahmt,
+
+- c) Kanguruh.
+
+Bezeichnet:NachlaBstempel Paul Meyerheim.
+
+Bleistiftzeichnung. 21 X 17 cm. Gerahmt.
+
+- d) In der Zeichnenschule, Bleistiftzeichnung 20 X 25 cm. Gerahmt.
+
+lebt in Berlin.
+- 48
+- 49
+- Schissel zeigend.
+
+## Peter Paul Muller
+
+- Sommerlandschaft. Park mit SchloBchen im Gruinen.
+
+geb.1853 in Berlin,lebt in Munchen.
+
+Bezeichnet:Peter Paul Muller.
+
+Ol auf Malpappe. 25X33 cm. Unter Glas. Goldrahmen.
+
+## Munchener Schule
+
+48a Mannerbildnis, Mann mit blauer Brille, schwarzem, weichem Hut und dunklem Rock darstellend.
+
+um 1870-1880.
+
+Ol auf Holz 27 X 23 cm. Dunkler Rahmen.
+
+geb.1845 in Regensburg,lebt in Munchen.
+
+## A.Oberlander
+
+- Vor dem Lowenkafig. Bezeichnet: Oberlander 1907. Federzeichnung. 28X40 cm. Unter Glas. Schwarzer Rahmen.
+
+## Friedrich W.v. Olivier
+
+- 5o Der Zinsgroschen. Christus in rotem Untergewand und blauem Mantel inmitten der Pharisaer. Links
+
+Bezeichnet: O.F.1859.
+
+geb.1791 in Dessau, gest. 1859 daselbst.
+
+- von ihm einer, der ihm das Bild des Kaisers auf dem Groschen zeigt. Christus sprechend und mit der linken Hand darauf weisend.
+
+Abbildung Tafel VII.
+
+- 51 schwebender Engel.
+
+01 auf Leinwand. 68 X go cm. Goldrahmen.
+
+## Friedrich Overbeck
+
+- Sibylle in einem Buche lesend, ein Schriftband in der Hand. Uber ihrem Haupte ein auf Wolken
+
+Abbildung Tafel VII.
+
+geb.178g in Lubeck, gest.186g in Rom.
+
+01 auf Leinwand. 64 X 43 cm. Goldrahmen.
+
+## Fritz Georg Papperitz
+
+- 52 Damenbildnis. Dame in ganzer Figur, blauen Kleide mit iber die Schulter gelegtem, offenem Pelz mantel und schwarzem Hut.
+
+geb.1846 in Dresden, gest.1917 in Munchen.
+
+Bezeichnet:G.Papperitz. O1 auf Malpappe. 68 X 35 cm.Unter Glas. Dunkler Rahmen. Abbildung Tafel V.
+
+## Richard v.Poschinger
+
+- 53 Aufziehendes Gewitter. Schwere Wolken iber einem Feldweg und Tannenwald. Bezeichnet: R.v.Poschinger. 01 auf Leinwand. 40 X 6o cm. Abbildung Tafel IX.
+
+geb. 1839 in Munchen, gest. 1917 in Munchen.
+
+- 54 Herbstlicher Birkenwald. Auf dem Weg Schafherde mit Schafer und Hund. Bezeichnet:R.v.Poschinger. Ol auf Malpappe. 35 X 43 cm. Schwarzer Rahmen.
+
+## Walter Puttner
+
+- 55 Unterhaltung. Frau und Madchen im gelben Zimmer im Gesprach. Bezeichnet:W.Puttner. Ol auf Leinwand. 6o X 5o cm. Silbergetonter Rahmen.
+
+lebt in Munchen.
+
+## Angelo Quaglio
+
+geb.1778 in Munchen, gest. 1815 daselbst.
+
+Tuschzeichnung. 19 X 28,5 cm. Unter Glas. Dunkler Rahmem.
+
+## Franz Quaglio
+
+- 56 Hafenbinder. Bauerin, dem vor der Ture beschaftigten Hafenbinder eine zerbrochene irdene
+- 55a Fehmgericht. Beschworungsscene.
+
+geb.1844 in Munchen, lebte daselbst.
+
+Bezeichnet: Franz Quaglio 1881.
+
+01 auf Leinwand. 51,5 X 63,5 cm. Goldrahmen.
+- 57
+
+## Philipp Roth
+
+geb.1841 in Darmstadt, lebt in Minchen.
+
+- Sommerlandschaft. FluB mit Baumgruppen und Weide mit Kuhen. Bezeichnet: Ph.Roth 1895. Ol auf Malpappe. 21 X 3o cm. Unter Glas. Dunkler Rahmen.
+
+## Felix Schlesinger
+
+geb.1833 in Hamburg, gest.1919 in Minchen.
+
+- 58 Bauerndirne in der Kuche. Interieur aus einem alten Bauernhaus mit der am Kachelofen Geschirr spulenden Dirne.
+
+Bezeichnet:F. Schlesinger. O1 auf Malpappe. 26 X 35 cm. Unter Glas. Dunkler Rahmen.
+
+- Interieur mit grinem Kachelofen in einer holzgetafelten Stube.
+- 59 Bezeichnet:F. Schlesinger. O1 auf Malpappe. 26 X 36,5 cm. Unter Glas. Dunkler Rahmen.
+- 60
+- Hof eines Tiroler Bauernhauses. An der Tur ein Knabe, am Boden sitzend ein Madchen. Bezeichnet:F. Schlesinger. Ol auf Malpappe. 26X 34 cm. Unter Glas. Dunkler Rahmen.
+
+## Rudolf Schramm, Zittau
+
+lebt in Minchen.
+
+- 6oa Sonniger Nachmittag in einem Munchener Biergarten. Mit reicher Staffage belebtes Freilichtbild.
+- Bezeichnet:Rudolf Schramm, Zittau. O1 auf Leinwand. 6o X 8o cm. Goldrahmen.
+
+## Ch.Schuch
+
+geb.1846 in Wien, gest.1g0g daselbst.
+
+- Auf der Ruckseite bezeichnet:C. Schuch. NachlaBstempel.
+
+Ol auf Leinwand. 22X 32 cm. Unter Glas. Schwarzer Rahmen.
+
+- 62 Gebirgslandschaft. See mit baumbestandenem Ufer. Gebirge im Hintergrund.
+- Ol auf Leinwand. 3i X 45 cm. Unter Glas. Schwarzer Rahmen.
+- Bezeichnet:Ruckseitig C. Schuch.NachlaBstempel.
+- 63 Landschaft aus der Campagna. Im Vordergrund felsiges Ufer und FluB mit einer darin sich spiegelnden Ruine.
+
+O1 auf Leinwand.17X 32 cm.Unter Glas. Dunkler Rahmen,
+
+Ruckseitig bezeichnet:C. Schuch.
+
+- 64 Waldtal mit Dorf an einem FluBchen.
+- 01 auf Leinwand.28X 34,5 cm. Goldrahmen.
+- 65 Olevano. Felsiges Tal im Vordergrund. Bezeichnet:Olevano.Ch. Schuch 1870.
+
+0l auf Leinwand. 32 X 44 cm. Schwarzer Rahmen.
+
+- 66 Italienische Landschaft mit einer Ruine und einem Dorf auf der Hohe im Vordergrund. Unvollendet. O1 auf Leinwand. 27.5X 40 cm. Goldrahmen.
+- Traunstein. Im Vordergrund Haus am Bach. Im Hintergrund Berge. 67 Ruckseitig bezeichnet:C. Schuch.NachlaBstempel.
+- O1 auf Leinwand. 30,5X 25,5 cm.Goldrahmen.
+- 68 8 Fischerhaus unter Baumen am See in Abendstimmung. Am Ufer Heuschiff mit Schiffern. Bezeichnet rickseitig: Ch. Schuch. NachlaBstempel.
+
+Ol auf Leinwand. 2I X 2g cm. Unter Glas. Dunkler Rahmen.
+
+- 69 Rom. (Arricio.) Bezeichnet auf der Ruckseite:C. Schuch. Ol auf Leinwand. 22X 32 cm. Unter Glas. Schwarzer Rahmen.
+- Gebirgslandschaft. Tal mit Blick auf einen See. Im Hintergrund Gebirge. 70 Ruckseitig bezeichnet: C. Schuch. NachlaBstempel.
+
+O1 auf Leinwand. 25X 35 cm.Unter Glas. Dunkler Rahmen.
+
+- 71 Pfingstrosen in grunem Glaskrug auf brauner Tischplatte. Im Hintergrund griner Vorhang. Bezeichnet:C. Schuch.NachlaBstempel.
+- Abbildung Tafel VIII.
+- In Wien gemalt. Ol auf Leinwand. 52 X 44 cm. Dunkler Rahmen.
+| 72   | Schafherde in romischer Landschaft. Bezeichnet:Ch.Schuch.NachlaBstempel.                                                                                                                                  | 01 auf Leinwand. 29 X 47,5 cm. Goldrahmen.                                                       |                                       |
+|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------|
+| 73   | Gesattelter Esel von vorne gesehen. Bezeichnet:C.Schuch.NachlaBstempel. Abbildung Tafel VIII.                                                                                                             | Ol auf Leinwand. 45X54 cm. Schwarzer Rahmen.                                                     |                                       |
+| 74   | Olevano. Bezeichnet:C. Schuch.NachlaBstempel                                                                                                                                                              | O1 auf Leinwand 59X8o cm. Dunkler Rahmen.                                                        |                                       |
+| 75   | Die tote Ente auf einer holzernen Platte liegend. Bezeichnet:C. Schuch. NachlaBstempel. Abbildung Tafel VIII.                                                                                             | Ol auf Leinwand. 49X79.5 cm. Dunkler Rahmen.                                                     |                                       |
+| 76   | Aus der Schweiz. (Blick von Schuchs Fenster in Sante di Doubs.) Gebirgssee in einem bergigen bewaldeten Talkessel mit Bauernhaus. Bezeichnet rickseitig: C. Schuch. NachlaBstempel. Abbildung Tafel VIII. | Ol auf Leinwand. 6o X 47 cm. Unter Glas. Dunkler Rahmen.                                         |                                       |
+| 77   | Girgenti. Blick in einen Hof. Bezeichnet:Girgenti 1870.                                                                                                                                                   | Bleistiftzeichnung.25X16,5cm                                                                     | Gerahmt.                              |
+| 78   | StraBe in Messina. Bezeichnet: Messina 16/2 1870.                                                                                                                                                         | Bleistiftzeichnung.25X 17 cm.                                                                    | Gerahmt.                              |
+| 79   | Lichtenstein. Bezeichnet: C.S.12.Okt.1868 Lichtenstein.                                                                                                                                                   | Bleistiftzeichnung. 16,5X24,5 cm.Gerahmt.                                                        |                                       |
+| 80   | Motiv aus Rom. Palazzo di Venezia.                                                                                                                                                                        | Bleistiftzeichnung.26,5X18,5 cm.                                                                 | Gerahmt.                              |
+| 81   | Bruhl.Felsformation. Bezeichnet:C. Schuch 1868,Brihl.                                                                                                                                                     | Bleistiftzeichnung.16,5X 25 cm.                                                                  | Gerahmt.                              |
+| 82   | Syrakusa. Amphitheater und Blick aufs Meer. Bezeichnet:Syrakusa 1870.                                                                                                                                     | Bleistiftzeichnung.16,5 X 25,5 cm.                                                               | Gerahmt                               |
+| 83   | Motiv aus Rom. Ghetto. Bezeichnet:Ghetto 17/5 1870.                                                                                                                                                       | Bleistiftzeichnung.26,5X 19 cm.                                                                  | Gerahmt.                              |
+| 84   | Kiste bei Syrakus. Bezeichnet:Syracus 17. Juni 1870.                                                                                                                                                      | Bleistiftzeichnung.16,5X 24,5 cm.                                                                | Gerahmt.                              |
+| 85   | Motiv aus Rom. Palazzo Papa Guilio.                                                                                                                                                                       | Bleistiftzeichnung.26X 18,5 cm.                                                                  | Gerahmt.                              |
+| 86   | Messina. Blick in eine StraBe von oben gesehen. Bezeichnet:Messina 1870.                                                                                                                                  | Bleistiftzeichnung.16,5X 25 cm.                                                                  | Gerahmt.                              |
+| 87   | Aus dem Park der Villa Pamfili. Bezeichnet:Villa Pamfili 17. 5.1870.                                                                                                                                      | Bleistiftzeichnung.26,5X18,5 cm.                                                                 | Gerahmt.                              |
+| 88   | Motiv aus Bruhl. Felsen. Bezeichnet: Schuch 19. Juni 1868,Brihl.                                                                                                                                          | Bleistiftzeichnung. 16,5X25 cm. Gerahmt.                                                         |                                       |
+| 89   | Palermo. Blick auf Palermo. Im Vordergrund Pinien.                                                                                                                                                        |                                                                                                  |                                       |
+| 90   | Bauernhaus im Gebirge. Blick ins Tal und auf Berge. Bezeichnet:C. Schuch,November 1866.                                                                                                                   |                                                                                                  | Bleistiftzeichnung.17X 25 cm.Gerahmt. |
+|      | Bleistiftzeichnung auf gelbes Tonpapier. Unter Glas. Dunkler Rahmen. a) Ansicht einer StraBe von Syrakus am Meer.                                                                                         |                                                                                                  |                                       |
+|      | Bezeichnet:Syrakus 28/ 1870. b)Felsiges Tal. c)Baumschlag.                                                                                                                                                | Bleistiftzeichnung.25,5X 17,5cm. Bleistiftzeichnung.17.5X 26 cm. Bleistiftzeichnung.32X 23,5 cm. |                                       |
+|      | 92 a) Bildnis eines Offiziers mit Vollbart, Dreiviertelprofil. b) SchloB Tirol.                                                                                                                           | Bleistiftzeichnung.26,5X 21 cm.                                                                  |                                       |
+|      | Bezeichnet: SchloB Tirol, Mai 1871. c) Motiv aus Messina. Bezeichnet:Messina 15/2 1870.                                                                                                                   | Bleistiftzeichnung.19X 29 cm.                                                                    | Bleistiftzeichnung.17,5X 26 cm.       |
+- 93a) Felsental. Bezeichnet: C. S. 8/8.
+
+Bleistiftzeichnung.11 X 17,5 cm.
+
+- b) Motiv aus Antignano.
+
+Bezeichnet:Antignano 2/3 1870.
+
+Bleistiftzeichnung.28X19.5 cm.
+
+c)Baumschlag.
+
+Bleistiftzeichnung.38,5X27,8 cm.
+
+- 94 a) Solanto, Kiste und Berge. Bezeichnet:Solanto 1869.
+
+Bleistiftzeichnung.26X175 cm.
+
+b) Monte Pellegrino.
+
+Bezeichnet: Monte Pellegrino 20/12 1869.
+
+Bleistiftzeichnung. 17.5 X 26 cm.
+
+Gebirgsstock,Trisselwand.
+
+Bezeichnet: Trisselwand, C. Sch.1867.
+
+Bleistiftzeichnung.11,3 X 17,5 cm.
+
+- 95 a)Syrakus,Amphitheater.
+
+Bezeichnet: Syracus 12/I 1870.
+
+Bleistiftzeichnung.17,5X 26 cm.
+
+b) Syrakus, Antike StraBe.
+
+Bezeichnet:C. S. Syracus 1870.
+
+Bleistiftzeichnung.17,5X 26 cm.
+
+c) Le Mamelle, Gebirgsstock.
+
+Bezeichnet:Le Mamelle 1870.
+
+Bleistiftzeichnung.23.5X 32 cm.
+
+96
+
+a) Schafberg.
+
+Bezeichnet: C. S. Schafberg 1869.
+
+Bleistiftzeichnung.17.5 X 26 cm.
+
+b)Gebirgszug.
+
+Bleistiftzeichnung.23X 44 cm.
+
+c) Monte S. Guiliano mit Aussicht auf Meer.
+
+Bezeichnet:Monte S. Guiliano 1/I 1870.
+
+Bleistiftzeichnung.17,5X 26 cm.
+
+97 a) Bernried, Buche und HolzstoBe.
+
+Bezeichnet:Bernried 1871.
+
+Bleistiftzeichnung. 23,8X 31 cm.
+
+b) Athenefels von Girgenti.
+
+Bezeichnet:Athenefels v. Girgenti 5/ 1870.
+
+Bleistiftzeichnung.17,5X 25 cm.
+
+Trapani, befestigte Kiste und StraBe.
+
+Bezeichnet:Trapani 1/I 1870.
+
+Bleistiftzeichnung.
+
+17,5X26cm.
+
+- 98 a)Syracusa.
+
+Bezeichnet:Syracusa 13/1 1870.
+
+Bleistiftzeichnung.175X 26 cm.
+
+b) Reitesel grasend und Esel mit Reiter.
+
+Bezeichnet:Trapani 1/I 1870.
+
+Bleistiftzeichnung. 17,5X 26 cm.
+
+c) Ausee, Ansicht des Stadtchens von oben gesehen.
+
+Bezeichnet:Aussee 12/10 1866 C.Schuch.
+
+Bleistiftzeichnung.22,5X 33,5 cm.
+
+99 a) Blick durch einen Felsbogen auf eine Schlucht.
+
+Bezeichnet:C. S. Klause 21. Juni 1868.
+
+Bleistiftzeichnung. 39,5X 28,5 cm.
+
+b) Tanne.
+
+Bezeichnet:C.Schuch Purkersdorf 27.Mai 1868.
+
+Bleistiftzeichnung.27X 18 cm.
+
+c) Cervara.Ansicht des Ortes.
+
+Bezeichnet:Cervara 11/1o 1870.
+
+Bleistiftzeichnung.23,5X 32 cm.
+
+I00 a) Berge bei Aussee.
+
+Bezeichnet:Aussee 22/7 1866 C. Schuch.
+
+Bleistiftzeichnung.
+
+II.X17,5cm.
+
+b) Kirche von Aussee.
+
+Bezeichnet:Aussee 5/8 1867 C. Schuch.
+
+Bleistiftzeichnung.11X 17,5 cm.
+
+c) Berge, Tannenwald und Hauser im Tal.
+
+Bezeichnet:6/8 1867 C. Schuch.
+
+Bleistiftzeichnung.19 X 26 cm.
+
+1o1 a) See und Hochgebirg.
+
+- Bleistiftzeichnung. 19 X 27 cm. b) Brunnen in Olevano. Am Brunnen Madchen mit Wasserkrigen. Bezeichnet:Brunnen in Olevano 1870. Bleistiftzeichnung.41,5X 29 cm.
+
+c) Arizza. StraBe durch bergige waldreiche Gegend.
+
+Bezeichnet:Arizza 16/6 1870.
+
+Bleistiftzeichnung.21,5X 30 cm.
+
+- I02 a) Blick auf eine gebirgige Gegend mit Schluchten und Wasserlaufen und groBen Wolken daruber. Bezeichnet:C. Schuch 1868. Bleistiftzeichnung auf gelbes Tonpapier, getuscht und mit WeiB gehoht.26,5X 33.5 cm.
+
+- b) StraBe in einem Gebirgsstadtchen mit figurlicher Staffage. Bezeichnet: C. S. 6/8 1867. Bleistiftzeichnung.25X 18,5 cm.
+
+c)Gasan,Felspartie.
+
+Bezeichnet: Gasan C. Sch. 1860.
+
+Bleistiftzeichnung.11,5X17 cm.
+- 103 a) Capri, Kuste und Ansicht auf Felsen. Bezeichnet:Capri.
+
+Bleistiftzeichnung.19,5X28 cm.
+
+- b) Lehngaag, Gebirgssee und Berge.
+
+Bezeichnet:C. Schuch,Lehngaag 6/9 1866.
+
+Bleistiftzeichnung.12,5X 17,5 cm.
+
+- c) Olevano, Fels und Wald.
+
+Bezeichnet:Olevano 5/1o 1870.
+
+Bleistiftzeichnung.23,5X 32 cm.
+
+- 104 4a) SchloB im Wald und Berge.
+
+Bezeichnet:12.Oktober 1868.
+
+Bleistiftzeichnung.17,5X 26,5 cm.
+
+- b)Gebirgslandschaft.
+
+Bezeichnet: C. Schuch 1867.
+
+Bleistiftzeichnung. 27X 33 cm.
+
+- c)Am Tiber.
+
+Bezeichnet:Am Tiber 3/5 1870. Bleistiftzeichnung. 19.5X 28 cm.
+
+- 105 a) Zwieselalm. Blick auf einen Gebirgsstock.
+
+Bleistiftzeichnung. 17,5 X 26 cm.
+
+- b) Pflanzenstudie.
+
+Bezeichnet:Purkersdorf 24.Mai 1868. Bleistiftzeichnung.17 X 26 cm.
+
+- c) Pflanzenstudie.
+
+Bezeichnet:Purkersdorf 25/5 1868. Bleistiftzeichnung. 17 X 26 cm.
+
+- 106 a) Waldtal bei Purkersdorf.
+
+Bezeichnet:Purckersdorf 5/6 1872.
+
+Bleistiftzeichnung. 21 X 30 cm.
+
+- b).Gebirgstal.
+
+Bezeichnet:Buchberg 1868 C. Schuch.
+
+Bleistiftzeichnung.17,5X 26,5 cm.
+
+- c) Capri und bei Palermo.
+
+Bezeichnet:Capri u. bei Palermo 1869.
+
+## Moritz v.Schwind
+
+- 107 a) Mannlicher Rickenakt und Armstudien. Bleistiftzeichnung. 21 X 3o cm. Gerahmt.
+
+- b) Bildnisstudie. Frauenkopf.
+
+- Bleistiftzeichnung.16,5X 11,5 cm.In Passepartout.
+
+- c)Zwei Hande.
+
+Bleistiftzeichnung. 18X 24,5 cm.Unter Glas.Gerahmt.
+
+- d) Eine Hand und Draperiestudie.
+
+Bleistiftzeichnung. 17 X 23,5 cm. Gerahmt.
+
+- e) Eine Hand im Armel. Bleistiftzeichnung. 14,5X g cm. In Passepartout.
+
+- f) Zwei Hande. Federzeichnung.
+
+13X 8 cm. In Passepartout.
+
+Bleistiftzeichnung. 17,5 X 26 cm.
+
+geb.18o4 in Wien, gest.1871 in Minchen.
+
+## Franz Skarbina
+
+- 1o8 Damenbildnis. Blonde Dame in blauem Jackett und Kleide und Pelzbarett,den Schirm in der Rechten;in der linken Hand Handschuhe; auf einem Stuhl sitzend.
+
+Bezeichnet:F. Skarbina. Aquarell.37X26cm. Goldrahmen. Abbildung Tafel III.
+
+1o8a Damenbildnis. Junge Dame in schwarzem Kleid und Hut, gelben Handschuhen. Spitzenjabout. Sitzend vor rosarotem Hintergrund.
+
+Bezeichnet:F. Skarbina.
+
+01 auf Holz. 24 X 15 cm. Unter Glas. Goldrahmen.
+
+- 109 Baumstudie.
+
+Bezeichnet: Skarbina. 01 auf Holz. 16,5 X 10,5 cm. Unter Glas. Goldrahmen.
+
+- IIO Baumstudie.
+
+Goldrahmen.
+
+geb.1849 in Berlin, gest. 1g10 in Berlin.
+
+## Johann Sperl
+
+- III Vor Sperls Haus in Aibling.Brunnen und Gatter.
+
+geb.184o in Buch bei Firth, gest. 1g14 in Aibling.
+
+Bezeichnet:J. Sperl. O1 auf Malpappe. 24X 38 cm.Unter Glas. Dunkler Rahmen. Abbildung Tafel III.
+
+## Karl Spitzweg
+
+- I12 Die Scharwache. Durch ein vom Mond beleuchtetes Gabchen zieht die von einem Offizier gefihrte Scharwache.Voran der Laternentrager.
+
+geb. 18o8 in Munchen, gest.1885 in Minchen.
+
+Ol auf Holz. 38 X 2I cm. Unter Glas. Goldrahmen.
+
+Abbildung Tafel I.
+- II3 Oberbayerisches Bauernhaus im Gebirge.
+
+Bezeichnet:NachlaBstempel.
+
+Aquarell. 13X 17 cm.Unter Glas. Goldrahmen.
+
+- II4 Landschaft mit Blick auf eine Dorfkirche.
+
+Bezeichnet: NachlaBstempel. Bleistiftzeichnung. 23X27 cm. Unter Glas. Schwarzer Rahmen.
+
+- a) Zwei Monche. Studien.
+
+- Bezeichnet:NachlaBstempel. Bleistiftzeichnung. 22X22 cm. Unter Glas. Schwarzer Rahmen.
+
+## August Splitgerber
+
+geb.1844 in Steingaden, gest.1918 in Munchen.
+
+- II5
+
+- Dorfeingang. Altes Tor und alter Turm. Im Vordergrund Wiese mit spielendem Kind.
+
+Bezeichnet:A.Splitgerber. Olauf Leinwand.26X1g cm.Unter Glas.Goldrahmen.
+
+116
+
+Winterlandschaft. Alte Befestigungswerke und Weg mit Staffage.
+
+Bezeichnet:A. Splitgerber.
+
+Ol auf Leinwand. 19 X 14 cm. Unter Glas. Dunkler Rahmen.
+
+- II7 Im Walde. Ein Sonnenstrahl im Tannenwald.
+
+Bezeichnet:A. Splitgerber,Haslach 19o8.
+
+01 auf Malpappe. 54.5 X 16,5 cm.Unter Glas. Goldrahmen.
+
+- 118 Herbststimmung.
+
+- Bezeichnet: A. Splitgerber. Ol auf Malpappe. 21X15.5 cm. Unter Glas. Dunkler Rahmen.
+
+## Adolf Stademann
+
+geb.1842 in Munchen,gest.1895 in Minchen.
+
+- Im Hintergrund Dorf.
+- Bezeichnet:Stademann. Ol auf Malpappe. 2o X 36 cm. Unter Glas. Dunkler Rahmen.
+
+## Karl Stuhlmuller
+
+lebt in Munchen.
+
+- 12o Ernte. Im Vordergrund ein mit Garben beladener Wagen. Leute beim Sammeln und Garbenbinden.
+
+Bezeichnet:K. Stuhlmiller,Munchen.
+
+01 auf Malpappe. 35 X 56 cm. Unter Glas. Dunkler Rahmen.
+
+## Franz v.Stuck
+
+- I2I Verbotener Durchgang.
+
+lebt in Munchen,
+
+Bezeichnet:F. Stuck 88. Federzeichnung. 46X36 cm. Unter Glas. Schwarzer Rahmen.
+
+Bezeichnet:F. Stuck. Federzeichnung. 5I X 37 cm.Unter Glas. Schwarzer Rahmen.
+
+- a) Der Realist in einer Kunstausstellung.
+
+## Desire Thomassin
+
+lebt in Munchen.
+
+- I22 Heuernte bei aufziehendem Gewitter. Im Vordergrund beladener Wagen,Heuer und Heuerinnen
+- bei der Arbeit.
+
+Bezeichnet:D.Thomassin.
+
+Ol auf Holz. 13 X 22 cm. Unter Glas. Goldrahmen.
+
+## Wilhelm Trubner
+
+geb. 1851 in Heidelberg, gest.1g18 in Karlsruhe.
+
+- 123 Empfang in einer kleinen Stadt.
+
+Bezeichnet:W.Trubner.
+
+Kohlezeichnung auf Malpappe. 49 X 38 cm. Gerahmt.
+
+## Unbekannt
+
+um 1830-40.
+
+- 124 Bildnis. Mann im schwarzen Rock am offenen Fenster.
+- Ol auf Leinwand. 28,5 X 23,5 cm.Goldrahmen.
+
+## Franz Wilhelm Voigt
+
+lebt in Munchen.
+
+- 125 Der Krottenkopf von der Wintersonne beschienen. Im Tal, Bauer mit Holzschlitten und Pferden. Bezeichnet: F.W.Voigt 1919. Ol auf Leinwand. 118X 93 cm.Goldrahmen. Abbildung Tafel IV.
+- I26 Kapelle im Schnee. Im Vordergrund groBer beschneiter Baum. Am Weg Ochsen am Holzschlitten. Bezeichnet:F.W.Voigt. Ol auf Leinwand. 97X 83 cm. Silbergetonter Rahmen. Abbildung Tafel IV.
+
+- I27 Triber Morgen. Baumgruppe unter regenschwerem Himmel.
+
+Bezeichnet:F.W.Voigt.
+
+Ol auf Leinwand. 64X 54 cm. Goldrahmen.
+
+## Friedrich Voltz
+
+geb.1817 in Nordlingen, gest.1886 in Munchen.
+
+Bezeichnet:F.Voltz.
+
+- 128 Kalbin in Profilstellung.
+- I29 Rinder auf der Hanlotalm.
+
+O1 auf Malpappe.26X 33 cm. Unter Glas. Goldrahmen.
+
+Bezeichnet:F.V.
+
+Bleistiftzeichnung. 10 X 16 cm. Gerahmt.
+
+## Josef Wenglein
+
+- I3o Kuhe auf der Weide und an der Tranke.
+
+geb.1845 in Munchen, gest.1919 daselbst.
+
+Bezeichnet:J.Wenglein.
+
+- I31 Baumstudien.
+
+Abbildung Tafel III.
+
+Bezeichnet: J.W.
+
+O1 auf Malpappe. 20,5 X 32 cm. Schwarzer Rahmen.
+
+Bleistiftzeichnung. 26 X 17 cm. Unter Glas. Gerahmt.
+
+## Albert Weisgerber
+
+lebte in Munchen.
+
+- 132 Vorstadt an einem Regentag. Hauser und Wiese.
+
+01 auf Leinwand. 65 X 85 cm.Goldrahmen.
+
+## Josef Willroider
+
+- 133 Landschaft mit groBen Baumgruppen. Im Hintergrund Dorf.
+
+geb. 1838 in Villach, gest.1915 in Munchen.
+
+Bezeichnet:J.W.Willroider.
+
+Ol auf Malpappe. 20 X 29 cm. Unter Glas. Goldrahmen.
+
+## Ludwig Willroider
+
+- Landschaft am See mit Waldsilhouette im Hintergrund. Bezeichnet: Lud. Willroider. Ol auf Malpappe. 24 X 31 cm. Unter Glas. Schwarzer Rahmen.
+
+geb.1845 in Villach, gest. 191o in Munchen.
+
+- Weide mit schwarz gefleckten und weiBen Kihen. Landschaft der Vorberge. Bezeichnet:Lud. Willroider. Ol auf Malpappe. 20,5 X 30 cm. Schwarzer Rahmen.
+
+## Anton Windmaier
+
+- I36 Vorfrihling. Hauser am Bach,im Vordergrund Muhle. Aprilwetterstimmung.
+
+geb.184o in Pfarrkirchen (Niederbayern),gest.1896 in Munchen.
+
+Bezeichnet:A.Windmaier.
+
+Ol auf Malpappe. 27 X 22 cm. Dunkler Rahmen.
+
+## Josef Wopfner
+
+geb.1843 in Schwaz, lebt in Munchen.
+
+- 137 Am Chiemsee. Am beschilften Ufer Wascherinnen und schlafender Bauer. Links Ausblick auf den See. Bezeichnet:J.Wopfner. Ol auf Malpappe. 33 X 44 cm. Unter Glas. Dunkler Rahmen. Abbildung Tafel I8.
+- 134
+- 135
+
+<!-- image -->

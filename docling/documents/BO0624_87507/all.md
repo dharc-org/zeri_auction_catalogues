@@ -1,0 +1,1838 @@
+- 2
+- 3
+
+<!-- image -->
+
+## I.Auctionstag:
+
+## Dienstag,den 24.November 1896,
+
+von 1o Uhr ab.
+
+- Holzgeschnitzte vergoldete Figur eines Bischofs im Ornat. Aus einer schlesischen Kirche
+- stammend.Hohe 130 cm.
+- Desgleichen, der heilige Leodegar. Hohe 130 cm.
+- Holzgeschnitzter,vergoldeter Engel.Barock. Grosse 70 cm. Sehr gute Schnitzerei
+- 4 Desgleichen, ahnlich,auf Wolken schwebend. Grosse 75 cm. XVIll. Jahrh.
+- 5
+- Holz-Statuette:Johannes der Taufer,Lindenholz,naturfarbig. Hohe 63cm.
+- 6
+- 7
+- Desgleichen, Moses mit den Gesetztafeln. Hohe 63 cm.
+- Desgleichen, Christus, predigend. Hohe 80 cm.
+- 8 Holzschnitzerei, Kreuzabnahme; polychrom. Gruppe von 4 Figuren. XV. Jahrh. Stark ladirt.
+- 6
+- Teller und Kanne aus Bleimit iberaus reicher figirlicher und ornamentaler Reliefdarstellung. Nachbildung eines Originals des XVI. Jahrh. H. 28 cm. Durchm. des Tellers 26 cm.
+- 10
+- Altes Spitzen-Kloppelkissen mit einem Stuick Spitze und Schablonen.
+- 11 Mittelstick eines Antependiums aus weisser Seide, mit der Darstellung der Kreuzigung, welche von einer Goldborte umzogen und nach dem Rande zu von Blumenguirlanden in farbigem Plattstich umrahmt ist. Die Seitentheile sind mit breiter, durchbrochener Goldspitze eingefasst. Ende XVIl. Jahrh. H. 80, Br.105 cm.
+- 12
+- Galadegen mit Perlmutter-plattirtem Griff,Knauf in Form eines Lowenkopfes,reich ornamenadler. Die Kiinge einschneidig und mit Rinne. Lange 92 cm. XVIll. Jahrh.
+- 13 Kleiner deutscher Schnepper von Eisen mit holzernem Kolben Lange 77 cm. Ende XVI Jahrh.
+- Gothische Helmbarte mit kurzem Beil, geradem Hacken und einschneidiger, messerartiger
+- 14 Klinge. Mit Holzschaft XV. Jahrh. Lange 189 cm.
+- 15 Pulverprobe mit Hebel und Zahnrad mit Feuersteinschloss. Deutschland XVIll. Jahrh. Lange 27 cm.
+- 16 Streithammer mit sehr spitzer Rute,langem,geripptem und gewelltem Holzschaft mit
+- eisernem Schuh. XVI Jahrh. Lange 83 cm.
+- Deutsche Helmbarte mit leicht geschweiftem,vierpassformig durchlochtem Beil,abwarts ge-
+- 17 bogenem Hacken und vierkantigem Spiess. XVI. Jahrh Mit langem Holzschaft.
+- 18 Schmuckschale, oval,aus Achat;mit silbervergoldetem Fuss Letzterer, ebenfalls oval,zeigt in getriebener Arbeit gebuckelte Medaillons in reichem Rankenornament.Auf einer ovalen Sockelwulst,von 2 Agraffen in Form von Grotesken flankirt,kauert eine weibliche Gestalt mit einer Fruchtschale in den Handen,auf dem Kopfe die wurzelkelchartige Stitze der
+- Schale tragend. Schones Stick. XVll. Jahrh. H. 18, Durchm.15 zu 10,5 cm.
+- 19 Silberner Becher, theilweise vergoldet,von konischer Form,mit breitem.proflirtem Fuss Die Leibung zierlich gravirt.Oberhalb der Fussplatte eine tauartig gedrehte Wulst,unterbrochen yon 3 Engelskopfen mit Fligeln, vergoldet. XVIl. Jahrh. Gew.167 g.H. 13, Durchm.S cm.
+- 20 Gemalte Glasscheibe in Bleifassung, Madonna della Sedia, Gute Arbeit. Gr. 36 cm.
+- Grosser Venezianer Spiegel in Bleifassung. Der Rand geschweift und mit Arabesken ver-
+- 21 ziert.H.175,Br.77cm.
+- 22 Spiegel mit grossem holzgeschnitzten und vergoldetem Barockrahmen. Mit Engelskopfen, Festons,Rollwerk etc.H.200,Br.120 cm.
+- 23 Terracotta Hochrelief, darstellend einen Krieger,nach links gewendet. Er ist bekleidet mit einem Helm und antiker Rustung. Ein Mantel fallt iber die rechte Schulter herab, bedeckt den Ricken und wird durch die linke Hand gehalten. Die rechte wie zum Schwur nach oben gerichtet. Vorzigliche italienische Arbeit des XV. Jahrh. Sammlung Spitzer.
+- H.30,Br.17,5 cm.In tiefem,gekehlten, schwarzen und vergoldeten Holzrahmen.
+- 24 Gothisches Radfenster in Bleifassung und Holzrahmen. In der Mitte ein Kreis mit centralem Blattmuster, umgeben von vier analogen Rosetten in Vierpassform.Tiefe,satte Farben.
+- Sehr schones Stick. Durchm. 87 cm.
+- 25 Holzgeschnitztes Bild,hochrelief, darstellend die Flucht nach Aegypten,polychrom.Maria, mit dem Jesuskinde auf dem Esel reitend,welcher von Joseph geleitet wird.Im Hintergrunde eine Palme,von deren Zweigen Engel und Seraphim auf die heilige Familie herabschauen.In nischenformigem,reich geschnitztem und durchbrochenem Rahmen. Ende des
+- XV.Jahrh. Sehr gute Arbeit. H. 44,Br.34 cm.
+- 26 38 Meissener Porzellanteller mit geschweiftem und vergoldetem Rande. Auf weissem Fond Blumenstrausse und Streublumen in Roth von guter Ausfihrung. Sehr feine Qualitat.
+- Durchm.23cm.
+- 27 Thurvorhang aus aufgenahten Stoffsticken (Applikationsarbeit).Rechteckig,in der Mitte ahnlich den Feld in den Gebetsteppichen,ein Spiegel aus bordeauxrothem Sammet (neu),in welchem eine Vase mit Blumenstrauss steht.An den Seiten Pilaster mit Kapitalen,welehe einen Spitzbogen tragen.Die Flachen, Zwickel und Randbordiren sind mitBlumenranken und Arabesken gefullt. Eigenartige, sehr schone Arbeit und feine Farbenzusammenstellung.
+- XVIl.Jahrh. Gr.170 zu 108 cm.
+- 28 Ludwigsburger Porzellangruppe, bunt und mit Gold. Schaferszene. Junges Madchen an einem Baumstamm gelehnt,in der Rechten dieMandoline,wird von einem neben ihr sitzenden Sehafer umarmt. Zu den Seiten Schaf und Hund. Reizende Gruppe,sehr schon gemalt. Hohe 20 cm. Durchm.am Sockel 18 cm.Restaurirt.
+- 29 Holzgeschnitzte Gruppe: Des Kindes Engel. Allegorische Darstellung. Ein gefligelter Engel tragt im Arm ein Kind,ein anderes fuihrt er an der Hand,zum Schutz vor einem Drachen, der aus einem Ei hervorkriecht. Sehr ansprechende Gruppe.Auf rundem Holzsockel. H.38,Durchm.29 cm.
+- 30
+- Rococo-Kostim,bestehend aus Beinkleidern,Weste und Frack. Seide,lila und dunkelbraun gestreift. Die Weste weisse Seide. Mit iberaus kunstvoller, reicher farbiger Seidenstickerei.
+- 31 Gothische Holzschnitzerei. Hochrelief, darstellend die Marter des heiligen Sebastian. Composition von 8 Figuren, in der Mitte,iber den Kopfen, ein Engel mit Palmenzweig. Sehr gute Arbeit aus der Zeit. Mit Spuren von Bemalung. Lindenholz. H. 92,Br. 78 cm.
+- 32 Pulverhorn, aus vergoldeter Bronze von runder Form, die Vorderflache mit Herkules,die Pferde bandigend, hochrelief, von Ornamentfriesen umzogen.Rickseite mit Blumenwerk reich gravirt,ahnlich der Hals mit Sperre. Der Rand mit gravirten Kreisornamenten. Sehr schones Stick. XV1. Jahrh. Lg 11,5,Durchm.7,5 cm. Sammlung Riedinger.
+- 33 Messer und Gabel, die Griffe an dem Ende lilienformig ausgeschweift, Silber, auf beiden Seiten im Geschmack des Th.de Bry gravirt. Das Messer zeigt unter Bogenstellungen zwei Szenen aus der Apostelgeschichte,David und Goliath und Esther; die Gabel Mariae Verkindigung und Mariae Besuch bei Elisabeth,die Figuren der Justitia und der Fides mit betreffendenAufschriften. Die Schmalseiten des Messers tragen die Aufschrift: JANNEKEN-FONTEIN,und Naer Lyden comt verblyden".Die Gabel dreizinkig,mit langem,proflirtem Schaft. Vorzugliche,sehone Stucke. Niederlande,XVl. Jahrh.
+- Lange 20und 19,5 cm.
+- Elfenbeinkamm.In Flachrelief auf beiden Seiten geschnitzt:Die Anbetung der heiligen drei Konige und die Verkindigung. Die Schnitzerei theilweise vergoldet und bemalt. Hervorragende nord-italienische Arbeit des XV. Jahrh. Collection Spitzer. H. 11,5,
+- 34 Br.13,5 cm.Auf Gestell
+- Medaillon aus emaillirtem Gold mit Kamee,von ovaler Form.Der Rand spiralformig gewunden und weiss und blau emaillirt.Die Rickseite zeigt auf punktirtem Goldgrunde schwarz-weiss emaillirte Arabesken. Als Breloque eine in Gold gefasste Perle.Die Kamee aus weissem Achat stellt ein Frauenportrait in Profil dar,mit antiker Tunika bekleidet,welche auf der Schulter mit einer Agraffe befestigt ist.Sehr schones Schmuckstick.Ende des XVI. Jahrh.
+- 35 H.5,5,Br.3,8 cm.Collection Spitzer.
+- 36 Vier grosse gemalte Glasscheiben, darstellend Scenen aus dem Leben und der Passion Christi. I. Anbetung der Konige. An der Basis die Inschrift: Eece illustrissima mater Christi domi nostri M. de vii. Il. Die Beschneidung im Tempel. Inschrift: Puer in templo circumciditur et yocatum est nomen eius Jesus. M. D.Lxll. Hl Auf dem Gange nach Golgatha. Inschrift: Et venerunt in locum, qui dicitur Golgata, quod est calvariae locus. IV.Christus am Kreuz, davor knieend Maria und Magdalenaund Gestalten von heiligen Bischofen u. s. w. Inschrift: Coronat martirio opus,ad quod per patrem in issus est. fecit a.d.m.de.vii. Malerei im Style der deutschen Kieinmeister.Meisterhafte
+- Composition,vorzigliche Farbenstimmung. H. 67,Br. 57 cm.
+- 37 Renaissance-Anhanger aus emaillirtem Gold in Form zweier sich gegeniberstehender S, gebildet aus Blumenranken mit Blattern und freistehenden Blithen,die mit Rubinen besetzt sind. Im Mittelpunkte in Hochrelief ein Pelikan,Rubinen auf der Brust und an den Fligeln, darunter seine drei Jungen. Nach unten abschliessend durch eine aus Perlen mit Rubin gebildete Blume und durch angehangte Perlen.Die Rickseite farbig emaillirt.Deutschland XVI. Jahrh. Sammlung Spitzer. Schmuck von grosser Schonheit. H. 8,3,Br. 5,8 cm.
+- 38 RenaissanceAnhanger, springender Hirsch,Gold emaillirt, mit Rubinen,Smaragden und Perlen besetzt.An der Oese grosser Smaragd mit kleinen Agraffen,an denen die Kettchen
+- befestigt sind. Deutschland,XVI. Jahrh. H.5,Br. 3,5 cm.
+- Amethyst-Dose in Goldmontirung mit Achatdeckel. Aus einem Stick Amethyst geschnitten,
+- 39 rechtwinklig,viereckig,leicht geschweift.Der Deckel mit Reliefschnitzerei.Rococo-Scene. Selten schones Stick. XVIll. Jahrh. H. 3,5, Br. 7,3, Tf. 5,8 cm.
+- 40 Standuhr aus vergoldeter Bronze.Auf ovalem,ornamentirten Sockel ein Baumstamm, auf welchem das Gehause steht.Die Zweige verschlungen und reich mit farbig gemalten Blithen aus Porzellan besetzt. Zur Seite eine Berliner Porzellangruppe, Zeit und Ewigkeit darstellend,Chronos mit Sense und Sanduhr,daneben eine Frauengestalt mit einem Ringe und verhulltem Kopfe.Originelle,schone Composition.H.58,Br.38 cm.
+- 41 Franzosische Emailvase mit Uhr, blau,weiss mit Gold,in Bronze montirt. Im Innern befindet sich eine Uhr,die Ziffern sind als Bordure am oberen Rande angebracht.In den Feldern Blumenstrausse. H.19,5, Durchm.am Fuss 7,5 cm.Originelles Stick.
+- 42 Cabinetschrank aus Ebenholz mit Schildpatt,auf einem Untertheil mit vier freistehenden, spiralformig gedrehten Saulen,von gradiiniger rechteckiger Form mit reicher Architekturfacade.. Zwischen n den Pfosten zwei Schubkasten,dariber das Obertheil.In der Mitte desselben ein Mittelgelass mit Fligelthiren,innen saalartig,mit Parquetboden (Elfenbein und Polysander) gemalter,Kreuzgewolbe ahnlicher Decke,welche durch traillenartig gedrehte Saulen gestitzt wird,und Spiegelwanden. Auf der Rickwand Malerei: Cavalier und Dame Schubkasten.Die Kehlleisten sammtlich geflammt,die Fillungen,oval gebuckelt und glatt, bestehen durchweg aus Schildpatt mit Bronzerahmung,welche spitzenartig durchbrochen und fein ciselirt ist.Die Puttenhermen an den Seiten der Mittelthiir,die Eckfiguren auf der Verdachung, die Zwickel und Beschlage aus Bronze, erhohen die pompose Wirkung. Mobel von grosser Schonheit und Eigenart, hochst selten in seiner Art.Von bester Erhaltung.H.161,Br.131,Tf.46 cm. Siddeutschland (?) XVIl. Jahrh.
+- 43 Tartsche (kleine Pavese) aus Holz,von aussen bemalt,innen mit Leder iberzogen. In der Mitte eine stark hervortretende Ausbauchung in der Langsachse, die Ecken abgerundet.Die Kante roth, die Malerei auf olivfarbigem Grunde zeigt sehone Arabesken mit rothen Blumen. Im oberenDrittel ein Schild mit Wappen,wagerecht getheilt,imunteren Felde auf blauem Grunde drei silberne Sterne,das obere Feld Silber.Deutschland XV. Jahrh.H. 64,
+- Br.43 cm.Sammlung Spitzer.
+- 44 Reiterdenkmal des Konigs Philipp's IV. von Spanien.Bronze. Das Pferd schreitend dargestellt,der Konig in voller Ristung, den Hut in der Rechten,mit der Linken die Zugel haltend.Auf hohem rechteckigen Postament,von feinster Boule-Arbeit mit reich ciselirter, vergoldeter Kehlung. Brillant modellirt. XVIl. Jahrh.Hohe 40 cm.
+- 45 Armbrust mit massivem Stahlbogen,vergoldeten Kordelschniren und Seidenquasten,der Schaft braunes Holz, sehr reich mit Elfenbein ausgelegt, auf welchem Reiterschlachten, Einzelkampfe,eine Stadtansicht,allegorische Darstellungen zwischen schwungvollen, sehr reichen Arabesken von kinstlerischer Composition meisterhaft eingravirt sind. Der Schaftkolben zeigt auf der Backenseite einen galoppirenden Reiter auf schwungvollem Ornament, sehr schon geschnitzt.Der Stahlbogen, an den Randern mit Goldstreifen eingefasst, zeigt auf der Innenseite auf jedem Segment einen Reiter. Prachtstick. Anfang XVll. Jahrh.
+- Lange 69 cm.
+- 46 Italienischer Stossdegen mit silbertauschirtem Gefass.Mit Eisen- und Silberdraht umsponnenem Griff,rundem Knopf mit 8Wulsten und Kehlen,dreitheiligem Griffbigel in den Korb ibergehend,gerader,etwas abwarts geneigter Parirstange und schmaler,zweischneidiger abgeplatteter Klinge,mit Rinnen am Ansatz. Die reiche Silbertauschirung in Form aneinandergereiheter S. DieKlinge spanisch und bezeichnet:Sebastian-Hernantiez.
+- XVI. Jahrh.Lg. 120 cm.Aus der Sammlung Spitzer.
+- 47 Cabinetschrank,schwarz (Birnbaum),mit hellen Fillungen,welche von Flammleisten umrahmt sind.Bestehend aus Unter-und Obertheil.Letzteres mit Fligelthir,vielen Schubfachern im Innern,einem grossen Mittelgelass mit Thir und Geheimfach. Die Innenseiten mit gebrannten Intarsien verziert.Die zahlreichen Fillungen sind mit farbigen Holzern eingelegt,en relief geschnitzt und theilweis bemalt. Die sehr geschickt componirten Darstellungen zeigen grosstentheils Jagdscenen auf allerlei Wild, Lowen, Barenetc., theils auch Soldatenscenen, Genres,Festgelage, Scenen aus dem Leben des yerlorenen Sohnes, Landschaften mit architektonischer Staffage u.dgl.m.I Die Zeichnung ist yorziglich,die Technik sehr flott,die Behandlung der Landschaft und der Architektur besonders leicht und von guter Perspective. Selten schones Mobel in seiner Art. H.178, Br.106, Tf.50cm. Eger,Anfang XVlIl. Jahrh. Hierzu gehorig ein modernes Untertheil mit freistehenden Saulen.
+- 48 Spanischer Korbdegen, das Gefass aus Eisen geschnitten und mit Gold tauschirt. Mit Draht umsponnenem Griff, achtseitigem Knopf, Parirbugel, geschweifter Parirstange und tiefem,schalenformigem Korb. Die Ornamente,auf Grund geschnitten,bestehen am Knopf theils aus zierlichen Palmetten und ovalen Medaillons mit Kriegerbisten Griffbigel und Parirstange mit ovalen,fachen Knopfen,beiderseitig auf goldtauschirtem Grunde,mit Kriegerund weiblichen Figuren in Relief.Der Korb zeigt 12 Felder,6 mit schon geschnittenen Ornamenten a jour,6 mit reliefirten Ornamenten und Profil-Kopfen auf goldtauschirtem Grunde. Die Klinge zweischneidig, mit Rippe, am Ansatz mit Rinne. Lange 126 cm. Meisterwerk alter Waffenschmiedekunst Ende XVI.Jahrh. Aus der Sammlung Spitzer.
+- 49 Cabinetschrankchen, Nussbaum mit Intarsien aus Ahorn,Eiche und ungarischer Esche,geradlinige, rechteckige Form, 2 thurig, die Thuren von innen und aussen aufs reichste farbig eingelegt. Das Rahmenholzmosaikartig. Die Innenfront iberaus reich architektonisch gegliedert. In reizvollster Mannigfaltigkeit sind S Saulen mit Capitalen,Pilaster, Gesimse, Gliederung. H. 61,Br.90, Tf. 40 cm. Wismar, XVII Jahrh. Dazu gehorig ein Tischchen mit 2 spiralformigen und 2 geraden Fussen, durch einen Boden verbunden.
+- 50 Gebetbuch. Frankreich, Anfang des XVI. Jahrhunderts. Auf Pergamentblattern mit sehr zahlreichen Miniaturen,acht grossen und 51 kleineren, ausserdem mit vielen Randbordiren, Zierleisten,Initialen etc.,bunt, mit Gold gehoht oder auf Goldgrund.Die grossen Miniaturen stellen dar:1) Christus erscheint dem heil. Gregor wahrend der Messe. 2)Christus mit Dornen gekront und vom Volke verspottet. 3) Die heil. Jungfrau in einer Engelsglorie,zu ihren Fussen zwei Heilige. 4) Christus erscheint der heil. Magdalena als Gartner. 5) David und Bathseba. 6) Dame, wahrscheinlich die Besitzerin des Buches, vor dem Tode knieend, letzterer hat einen Ritter und zwei Jungfrauen unter seine Fusse getreten. 7) Ecce homo. 8) Christus,an eine Saule gefesselt,wird gegeisselt. Die kleineren Miniaturen stellen biblische Scenen oder solche aus der Legende der Heiligen dar,sie sind,wenn moglich, noch feiner durchgefihrt, wie die prachtigen grossen Bilder.Man bemerkt bei diesen Meisterwerken der Miniaturmalerei einen hohen Grad von Kinstlerschaft,und ist der Beschauer von der ausserordentlichen Realistik,mit welcher der unbekannte Kunstler seine Figuren dargestellt hat,nicht wenig iberrascht. Selbst malerische Effecte, wie zum Beispiel bei der kleinen Anbetung der Hirten, sind mit Gluick angewendet worden. Auf der grossen Miniatur No.5 ist ein Wappen angebracht, welches auf den friheren Besitzer des Buches, die Familie Ponchet, schliessen lasst. Zu Anfang des auf das sauberste geschriebenen Manuscripts ein zwolf Blatter umfassender Kalender, es ist spater nicht beschnitten, so dass keine Malerei ihre ornamentalen Auslaufer eingebisst hat.-In Maroquin rouge mit Goldpressung gebunden und mit silbervergoldeten reich ornamentirten Schliessen versehen Prachtiges Stuick aus der Colleetion Spitzer. H. 13,5,Br.9 cm.
+- 51 Ludwigsburger Porzellangruppe, angeblich Herzog Carl Eugen von Wirtemberg mit Gemahlin darstellend.Der Herzog in kaffeebraunem, reich mit Gold gesticktem Frack,mit Degen, Herzogin in weisser,mit goldenen Streublumen geschmickter Crinoline mit rothem Einsatz und gleichem Halsband,mit Facher und Blumenstrauss an der Schulter. Interessante Gruppe,frihestes Ludwigsburger Porzellan. Hohe 15 cm. Mit Lasuren.
+- 52 Garnitur von drei Stucken aus Crystal de roche, bestehend aus: zwei Flacons und einer Schale, geschliffen. Fuss und Hals in Gold montirt. Das Decor besteht aus reliefirten, aufsteigenden Blattern und Muscheln. Die Schale mit ovalem,geschweiften Fuss ist muschelformig. Hochst werthvolle und schone Stucke. Hohe der Flacons 16 cm. Hohe der Schale 9,5 cm. In mit Leder bezogenem Holzkasten,mit Sammet gefittert.
+- XVIII. Jahrh.
+- 53 Kasten mit Corallenschnitzerei, franzosische Arbeit, XVll. Jahrh. Die Form viereckig mit schragem Deckel, innen mit Stoff ausgeschlagen,in der Front Schubkasten mit Fachern. （Toilettenkasten). Der Kern aus Holz, die Aussenseiten messing-plattirt,mit gravirten und durchbrochenen Silberbeschlagen und reichster Corallenschnitzerei in Hochrelief. Auf dem Deckel ovales Medaillon:die Verkindigung.In der Richtung der Diagonalen vier weibliche Figuren, in Art der Karyatiden, auf herzformigen Kartuschen stehend. Die Fillung mit ippigen Ornamentranken mit Blumen,Putti ete.gefilt,um den Rand in Silber gearbeitetes Band. Die vier Ecken werden von geflugelten Grotesken fankirt, die Seitenwande analog
+54
+
+dem Deckel und allegorischen Reliefs in Medaillons mit silberner Rahmung. Die Schluissellocher derFront in Form einer Maske und einer Kartusche. Eigenartiges,ausserst prachtvolles Stick von grosser Seltenheit. Aus altem, graflichem Besitz stammend.H. 18, Br.41,Tf. 37 cm. Mit Glassturz.
+
+<!-- image -->
+
+Meissener Porzellanstatuette, August Ill., Konig von Polen (als Churfirst von Sachsen Friedrich August II.),weiss, im polnischen Costim,in der linken Hand das Barett haltend, die Rechte in die Hufte gestemmt, den rechten Fuss vorgesetzt. Um den Hals die Kette des goldenen Vliesses, ein Ordensband von der linken Schulter nach der rechten Hufte,eine Scharpe um den Leib und uiber die Schultern einen Dolman gehangt. Der Sabel erganzt, kleine Defecte. Am Sockel aufgelegte Blumen. Ausserordentlich werthvolle Figur, die im Kunsthandel hochst selten vorkommt. Vorziiglich modellirt,mit Brandrissen. Hohe 94cm.
+
+- 55 Schmuckkasten aus dunklem Eichenholz mit Limoge-Fullungen, en grisaille gemalt. Scenen aus der Mythologie. Vorzugliche Malerei. H.18, Br. 22,Tf. 12 cm.
+- 56 Ein Paar Louis xVi. Wandarme zu sechs Kerzen. Bronze, vergoldet, mit Prismenbehang. Zierlich,elegant geformt.Hohe 64 cm.
+- 57 Ein Paar Elfenbeinstatuetten, Bettler und Bettlerin.Letztere mit Kind auf dem Rucken. Die Kleidung aus Holz dariber gearbeitet. Auf Holzsockel. Hohe 27 cm. XVlll. Jahrh.
+- 58 Urbino-Teller, mit tiefem Fond. Darstellung: Grossmuth des Scipio. Figurenreiche Composition mit Landschaft und Architektur in tiefen, satten Farben.XVI. Jahrh. Durchm.32,5 cm.
+- 59 Empire-Standuhr,Bronze,vergoldet. Rechteckiges Postament mit Relief-Darstellung.Dariber das Zifferblatt mit Gehause in Gestalt von Felsen,auf welchen zwei Amoretten stehen.An den Seiten Palmenbaume.H. 41,5,Br. 28 cm.Gutes Stuck.
+- 60 Elfenbeinminiatur. Brustbild eines jungen Madchens in ausgeschnittener blumengeschmickter Taille. Das Costum ist durch blaue Schleifen charakteristisch. Rund. Durchm. 4 cm. Metallrahmchen.
+- 61
+- Miniatur. Halbfigur einer sitzenden jungen Dame mit aufgestitztem Haupte. In tergo bezeichnet:Grafin Severine Potocka. Rund.Durchm.76 cm. Metallrahmchen.
+- 62 Eiserner Kasten mit rundem, gewolbtem Deckel. Auf vier Fussen,welche die Ecken pilaster-
+- formig verkleiden. In der Mitte und an den Seiten durchgehend iber Deckel und Ruckwand eine durchbrochene,bandformige Verdoppelung mit geschnittenen gothischen Ornamenten,mit rothem Stoff unterlegt und von kleinen Strebepfeilern fankirt. Vorn zwei Verschlussbander. Auf dem Deckel eine Handhabe Seltenes schones Stick. Deutschland, XV. Jahrh. H.17,Br.21,Tf.14cm
+- 63 Tintenfass aus Sevres-Porzellan mit vergoldeter Bronze, Louis XvI., von glatter conischer Form. Der Kern aus Porzellanblau-griiner Fond mit zwei Medaillons,in welchen schon gemalte Blumenstrausse und Gold-Ornamente als Rahmung -i ist in einem Kranz (Bronze) aus Schilf und Bluthen montirt, mit vier geschweiften in Bockshufe endigenden Fussen. ornamentirt, mit Fruchtgehangen, Ornamenten etc.in 16 ovalen Feldern；in der Mitte in Form einer Blattrosette mit aufrechtstehender Traube den Tintenbehalter schliessend -Die Ciselirung von meisterhafter Technik,schones Stuck. H. 12,5, Durchm.8,3 cm.
+- 64 65 Zwei Oelminiatiren. Huftbilder des Francois de Grenet und seiner Gemahlin,in dunkelfarbigen Costimen mit Muhlsteinkragen.Beide sehr fein und charakteristisch ausgefihrte Miniaturgemalde tragen franzosische Inschriften,welche sich am Rande der Darstellung hinziehen und Namen, Stand und Herkunft der portraitirten Personen anzeigen. Ausserdem bemerkt man zwei Wappen sowie die Altersangaben. Beim Manne:Aetat. 50 anno 1591. Bei der Frau: Aetat.41 anno 1591.An die Arbeiten des H.Goltzius erinnernd,auf Kupferplatten.H.10,Br.7cm. In schwarzen Florentiner Rahmen Collection Spitzer.
+- 66 Porzellandose, viereckig, in vergoldeter Bronze montirt, mit Gravirung. Mit Figuren und Landschaften auf allen Seiten reich bemalt,in vorziglicher,miniaturartiger Ausfuhrung
+- Die Rander weiss reliefirt. H. 3,3,Lg.7, Br. 5 cm. Sammlung Buchner.
+- 67 Necessaire, in blauem Email-Etui,weiss reliefirt und mit bunter Malerei,Landschaften und Schaferscenen. In vergoldeter Bronze montirt.Die Einrichtung komplett,theilweise aus Silber. Lange 10 cm.
+- Goldene Empire-Dose, mit sehr feinem,ornamentalem und figirlichem Reliefdekor,matt und
+- 68 blank. Gewicht 86 g (18kar. Gold). H. 1,5,Durchm. 7 cm.
+- 69 Pulverhorn aus Hirschhorn,reich gravirt und an der Basis gabelformig gespalten.Auf der Vorderseite Darstellung einer Hirschjagd,daruiber die Ansicht einer Stadt.Auf der Rickseite ein Baum,an dessen Aesten eine Kartusche,mit Lowen im Schilde,hangt. Um den Baum ein verschlungenes Band mit Inschrift:In te domine speravi. Del Signor Petro De Letis Del Castro S.Angelo. Verschluss, Haken und Montirung aus Eisen.Italienische Arbeit des XVI. Jahrh. Lange 26 cm. Collection Spitzer.
+- 70 Loffel, Silber,theils vergoldet.Die Muschel birnenformig, stark geschweift.Der sechsseitige Griff mit der Inschrift:Creatorem Coeli et terrae"wird von der Muschel durch einen hochreliefirten Engelskopf auf schonem Kapital getrennt und schliesst an seinem oberen Ende mit der Standfigur des hl. Johannes. Hervorragend schone Arbeit mit der Marke M. G.D.
+- XVIl. Jahrh.Lange 19,5 cm.Sammlung Riedinger.
+- 71 Salzbuchse, dreipassformig.Silber mit Putte auf drei Voluten, dazwischen Pendeloque Mit Minchener Zeichen und Marke F.XVI. Jahrh. Hohe 8,Durchm.9 cm Sammlung Riedinger.
+- 72 Grosser Barockschrank,Nussbaum,auf finf grossen,schwarzen Kugelfissen,doppelthirig d mit drei Saulen. Das Rahmenholz schon geflammt,in den Fuillungen lntarsien. In jeder Thir zwei Fuillungen: weibliche Figuren, die Erdtheile Europa,Asien,Afrika und Amerika charakterisiernd. Die Saulen mit spiralformigen Intarsien aus Polysander, das Kapital reich geschnitzt.Die Fuillungen gebuckelt und vielfach gekropft,das Gesims stark geschweift und kraftig profilirt. Mit schonem Originalschloss und Schluissel. Deutschland. XVII.Jahrh.H.225,Br.230,Tf.80 cm.
+- 73 Grosse Meissener Porzellanvase mit Deckel, bunt und mit Gold, urnenformig. Mit Darstellung einer Jagd in Hochrelief In der Mitte ein Eber,in den sich drei Hunde festgebissen haben, nach rechts und nach links je ein Hirsch,von Hunden verfolgt. Auf der Leibung
+in Flachrelief Hirsche, die das Netz iberspringen,von Hunden verfolgt.Als Henkel dienen zwei astige Baumstamme.Auf der Rickseite gemalte Trophaen.Als Deckelbekronung die Vollfigur der Diana,auf einem Baumstumpf sitzend,den Bogen in der Hand und einen Hund liebkosend.Zu Fissen Jagdbeute.Brillant komponirte Darstellung von prachtigem Gesammteindruck.Restaurirt und defekt. Hohe 59 cm.
+
+- 74 Uhr mit Gehause und Rahmung aus Meissener Porzellan, Rococo. In Form einer Kartusche, in deren Mitte das Werk sich befindet, in Grosse einer Taschenuhr. Der Rand bronzevergoldet und gravirtmitBlumen und Blattern. Das Zifferblatt mit Stunden-und Minutenzahlen.Die Kartusche von flotter,eleganter Zeichnung,vergoldet und mit aufgelegten Blumen decorirt.Als Bekronung ein gefligelter Putto mit Blumenstrauss.Das Uhrwerk von Hirschauer,Dresden Cabinetstick von grosser Sehonheit und delicater Ausfihrung. Hohe 29 cm.
+- 75 Ein Paar Bronzebisten,Knabe und Madchen.Mit schoner dunkler Patina. Vorziglich modellirt. XVIl.Jahrh.Auf hohen Marmorsockeln mit Bronze-Montirung. Hohe der Bisten 13 cm.
+- 76 Franzosische Emaildose auf Gold,rund,flach. Die Aussenflache mit rothem Email translucide in Einfassung von weissen Emailperlen mit grinen Blattchen auf Goldgrund. Im Deckel ein Medaillon mit buntem Emailbild，Amor,die Fackel entzindend.Mit Marke R. Ende vorigen Jahrhunderts.Prachtiges Stick.Durchm.7 cm.
+- 77 Deutsches Schwert mit Kalendarium.Der Griff mit Eisen- und Messingdraht umsponnen. Mit ovalem Knauf, gerader,an den Ecken umgebogener Parirstange und Parirringen,mit kleiner, siebartiger Stichplatte. Das Gefass theilweis gravirt.Die Klinge breit und zweischneidig,mit vollstandigem Kalender, je sechs Monate auf einer Seite.Am Griffende auf jeder Seite zwei Portrait-Medaillons, des Herzogs von Nassau und des Bischofs Christian von Halberstadt einerseits,des Konigs Friedrich von Bohmen und Herzog von Mansfeldt andererseits. Beiderseitig mit eingehauener Marke: der Konigskopf. (Joh.Wundes,Solingen.) Anfang XVII.Jahrh. Seltenes Stiek. Lange 107 cm.
+- 78 Gothischer Anhanger mit Ambra-Stick,Silber,vergoldet,in Altarform.Auf der Vorderseite die heilige Maria mit dem Jesuskinde,von vier Heiligen verehrt.Auf der Rickseite unter Spitzbogen und Fialen die Verkindung. Hervorragend sehones Stick.Lg.5,Br.2,5 cm. Sammlung Riedinger.
+- 79 Holzstatuette, Amor，in einer Blattgruppe stehend. Vorzigliche Sehnitzerei. XVIll.Jahrh.Hohe 10,5 cm.Sammlung Riedinger.
+- 80 Grosses Meissener Porzellan-Likorgefass in Form einer Tonne auf hohem Postament. Letzteres dreitheilig im Rococostyl und reich vergoldet.In den drei Seitenfeldern figirliche Malerei in chinesischem Geschmack.Auf jedem der drei Fisse sitzt eine Amorette mit Blumen.Auf dem oben etwas ausgehohltenSockel liegt die Tonne,carminroth,mit weissen und goldenen Reifen.In langlich ovalen Medaillons bunte landschaftliche Darstellungen mit figirlicher Staffage,ahnlich gemalt sind Boden und Deckel,an welchem sich der Hahn befindet. Ueber diesen gebeugt, sitzt auf dem Rande die Vollfigur eines Polen in reichem Nationalkostim,einen Becher in der ausgestreckten Hand haltend.Stick ersten Ranges von vorziglichster Ausfuhrung. H. 41,Durchm. der Tonne 17,5 zu 14,5cm.
+- 81 Zwei gemalte Glasscheiben in Bleifassung,in 2 Farben gemalt. 1) Der heilige Egidius, die Hande betend gefaltet und von einem Pfeil durchbohrt.Eine Hirschkuh bringt ihm Nahrung.2) Der heilige Hieronymus,mit Anlehnung an Direr.Gr. 26 zu 12,5 cm. XVI.Jahrh.
+- Zwei Desgleichen, eine viereckige,mit Darstellung aus der Geschichte Davids: Die beiden Vignette aus einer grossen Grosse 21,5 zu 10,5 cm.
+- 82 Alten vor David.In zwei Farben gemalt.Grosse 23zu18cm Scheibe,bohnenformig,darstellend Erstirmung einer Burg. XVI.Jahrh.
+- 83 Empire-Bronze-Uhr,vergoldet,auf rechteckigem Postament vier gerade Pilaster mit Faunkopfen,im Zwischenraum das runde Gehause. Auf dem Gesims eine Schmiede,an deren Amboss ein Amor schmiedet.H.52,Br.32 cm.
+- 84 Empire-Uhr,Marmor mit Bronze.Auf facher,rechteckiger Basis erhebt sich ein Postament, auf welchem das Gehause steht;als Bekronung eine Vase, an den Seiten zwei Ziervasen. Zu Fissen des Postaments Gruppe aus Marmor: Mutter,ihr Kind nahrend.Vorziglich modellirt. Hohe 53 cm.
+- 85 Spanischer Korbdegen,mit zwolfseitigem,birnenformigem Knauf, Griff mit rothem Sammet und Goldspitze,Griffbigel,geschweifter Parirstange und Korb.Die Stichplatten fehlen. Die Klinge mit Marke,Zweischneidig und abgeplattet,am Ansatz mit Rinnen. Anfang XVIl.Jahrh.Lange 119 cm.
+- 86 Deutscher orbdegen,mitovalemKnaufSammet berzogenem Griff,Griffbigel,geschweiftr Parirstange,Korb mit je drei Stangen und muschelformigem Stichblatt. Die Klinge zweischneidig,am Ansatz mit Rinnen,Marke und den Buchstaben S. R. S.Anfang XVlf.Jahrh. Lange 123 cm.
+- 87 Breites,zweischneidiges Schwert mit lanzettformiger Klinge mit Marke, gerader,kurzer und kantiger Parirstange und Parirring.Der Griff aus Hirschhorn und mit Reliefschnitzerei Genrescene von drei Figuren in spanischem Kostime des XVI. Jahrh. Lange 84 cm.
+- 88 Hirschfanger mit Elfenbeingrif. Letzterer reich geschnitzt mit Jagddarstellungen,Hunde, zweischneidig,reich gravirt mit Jagdscenen und kannelirt. XVll.Jahrh. Lange 62 cm.
+- 89 Bronzekanone auf cisenbeschlagener, schon gearbeiteter Lafette.Das schlanke Rohr zeigt am Zindloch ein Wappen mit Helmschmuck. Lange im Ganzen 8l cm.Prachtiges Stick.
+- 90 Pulverflasche aus Elfenbein,kreisrund,in der Mitte durchbrochen. Reich geschnitzt,iber die ganze Leibung sich ausdehnend eine Jagd,mit Hunden,Hirschen,Eber etc. Die Sperre in Form eines Schwanes, Silber vergoldet. Sehr sehones,prachtiges Stick. XVI. Jahrh. Durchm.9,5cm.
+- 91 Ein Paar gothische fliegende Engel,polychromirt,mit ausgebreiteten Armen und faltenreichen Alben,vergoldet und versilbert.Die Gesichter von grossem Liebreiz im Ausdruck.Vorzigliche Schnitzerei. Grosse 30 cm.Gegensticke.
+- 92 Ein Paar Desgleichen, polychromirt,mit vergoldetem Federgewand. Grosse 28 cm.
+- 93 Grosses Crucifix, schwarz, der Christuskorper aus Elfenbein. Meisterhafte Arbeit von kinstlerischer Durehfihrung. Mit Glasaugen.XVll. Jahrh.Grosse des Christuskorpers 52 cm,Hohe des Kreuzes 134 cm.
+- 94 Ein Paar Rococo-Wandleuchter, dreiarmig, Bronze,matt vergoldet, schon geschweift und ornamentirt.Grosse 40 cm.
+- 95 Grosser Tafelaufsatz in Form eines Segelbootes aus Elfenbein. Das Takelwerk aus Bronzedraht, Segel und Flagge aus Silber. Ersteres zeigt in getriebener Arbeit Maria mit dem Jesuskinde. Der Schnabel,reich geschnitzt,endet in einem Greifenkopf.An den Breitseiten in Relief geschnitzt und aufgesetzt das grosse englische Wappen mit Krone und Mantel. Schones,eigenartiges Tafel-Prunkstick.H.7O,Lg.70 cm.Auf Holzsockel.
+- 96 Indische Sprengflasche, Silber, getrieben und ciselirt. Mit schrag laufenden, schon ornamentirten Bandstreifen auf der Leibung.Der Hals gebogen und spiralformig gedreht. Schones Stick. XVIl.-XVIll. Jahrh.H.29 cm,Gewicht 380 g.
+- 97 Ein Paar Bronzebisten auf hohem,schwarzem Holzsockel,mit schoner Patina, darstellend Cicero und Casar. Sehr charakteristisch dargestellt.Hohe 15 cm.
+- 98 Acht silberne Munzen: polnische Muinze mit den Bildnissen Joh. Casimirs und seines Bruders Joh.Ernst,russischer Rubel vom Jahre 1834, ein Silber-Dollar der Bank yon England (1804), Thaler von Friedr.August von Sachsen (1767), schwedischer Thaler (Adolph Friedrich 1769), osterreichischer Thaler (Leopold Erzherzog von Oesterreich 1632),spanischer Thaler (Carol II. 1668),Nachbildung einer alten griechischen Minze von Syrakus,mit prachtigem Profilkopf auf dem Avers,auf dem Revers ein Kampfwagen mit Viergespann und einer Nike.I essantes Stick. Gesammtgewicht 235g. Inter-
+- 66 Jungfrauenbecher, Silber, theilweise vergoldet Die Leibung reich getrieben und gravirt. Das Ornament von vorziiglicher Zeichnung. Von schoner Proportion.Gewicht 175g,H.17cm.
+- 100 Porzellanteller mit einem Aufbau aus Frichten und Blumen, bunt. Der Teller weiss und ausgebogt, der Rand a jour.In reizvollster Mannigfaltigkeit verzweigen sich Blumenranken mit Blithen,Fruchtzweige mit Frichten zu einem originellen und schonem Aufbau. Vorziglich modellirt und gemalt.Durchm.26,H.14 cm. Mit dem ungarischen Wappen
+- in Blau.
+- 101 Glaspokal mit Deckel,mit breiter Fussplatte (defekt) und facettirtem Stander. Die Leibung zeigt,in Mattschliff hergestellt,allegorische Darstellungen in reicher Rahmung,ferner Familienwappen mit franzosischer Inschrift,und zwei massiy vergoldeten Palmetten. DerDeckel gefachert,mit Vergoldung und facettirtem Knopf. Hohe mit Deckel 27 cm.
+- 102 Ausserordentlich feine Qualitat.Aus 3 Sticken be-
+- Ein Coupon Spitze,Point d'Alencon stehend.Gesammtlange 310cm.
+- 103 Ein Coupon Brisseler Spitze. Lange 200 cm.
+- 104
+- Meissener Porzellanschussel, bunt und mit Gold. Der Rand gebogt, vergoldet und mit blauer Kante. Mit 3 Medaillons mit sehr feinen landschaftlichen Darsteliungen in reliefirter, vergoldeter Rahmung.Im Fond Blumenstrauss mit Fruchten. Durchm. 24 cm.
+- 105 Sevres-Teller, flach, mit jaspisgrinem Rande, auf welchem in 3 Medaillons mit weissem Grunde exotische Vogel gemalt sind.Die Rahmung der Medaillons und die Zwischenraume mit pastos gemalten und gravirten Goldornamenten,Blumen- und Lorbeerranken ausgefillt. Der Rand 6fach ausgebogt und mit Spitzenbordire in Gold. Im Fond bunt gemalter Blumenstrauss mit Fruchten. Die Ausfuhrung von hochster kunstierischer Feinheit. (1756).Durchm.25 cm. Sammlung Friedrich.
+- 106 Stoffsammlung,bestehend aus 101 Tafeln mit ca. 150 Mustern aus der Mitte des XIV.bis Ende des XVIll. Jahrhunderts, sammtlich in Passepartout und Holzrahmen aufgespannt. Hochst interessante Sammlung. Von solcher Reichhaltigkeit ausserst selten. Sammlung
+- Riedinger.
+- 107 Holz-Kassette, auf dem Deckel eiserner Henkel,mit reicher Wismuthmalerei. Darstellung eines Gastmahls mit Spruchband: Trink und iss, gott und des armen nit vergiss. 1539. Auf den Seitenfeldern Blumenwerk. Stark abgerieben.H.12,5,Br.32,Tf.21 cm.Sammlung Riedinger.
+- 108 Delfter Stengelblumenvase, bunt, mit geschweiften,blauen Henkeln.Mit Figuren- und
+- Blumenmalerei in vorziglicher Ausfuhrung. H.18 cm. (Marke L. Fictoor, um 1689.)
+- 109 Sitzender Lowe,bunt,Delfter Fayence mit schwarz und gold. Zwischen den Pranken die Weltkugel haltend, auf einem rechteckigen Postament mit 4 Lowenklauen,schwarz mit goldenem Decor.Mit Marke in Gold.Sehr seltenes und schones altes Stick.
+- H.18,Br.14cm.
+- 110 Halbharnisch,bestehend aus Sturmhaube mit gelochten Wangenklappen,hohem Kamm und Nackenberge,breitem Kragen,Brust mit geschobenem Armausschnitt und vorspringendem Tapul,Ricken und langen Beintaschen XVI Jahrhundert. Hohe 105 cm.
+- 111 Elfenbeinschnitzerei, Spiegelrahmchen,kreisrund und mit vier geschnitzten Blatt-Ecken.Mit Relief, darstellend die Maria mit dem Jesuskinde,zur Rechten der heilige Jacobus,zur Linken eine Heilige mit einem Gefass.Die Gruppe in einen Dreipass komponirt. Vorzigliche Schnitzerei,Ende des XIV.Jahrh.Durchm.7 cm.Sammlung Spitzer.
+- 112 Grosser Bronzethurklopfer. Neptun mit dem Dreizack in der Hand,auf 2 Meerrossen stehend, deren Fischleiber,oinamental stilisirt,in Form eines S aufrecht stehen und durch ein Wappenschild verbunden werden. Mit dunkler Patina. Prachtvolles Stick. Nord-Italien XVI. Jahrh. Hohe 38 cm
+- Eiserner Kasten, viereckig, mit Handhaben. Auf den Wanden liegen durchbrochne Verdoppelungen getriebenund gravirt,Blattwerk und Bander. Das sehr kunstvolle Schloss nimmt die ganze Flache der Deckel-Innenseite ein. Mit Original-Schlissel. Schone deutsche
+- 113 Schmiedearbeit.XVIl.Jahrh H.22,Br.35,Tf.24 cm.
+- 114 Rococo-Bettgestell, reich geschnitzt,vergoldet und bunt gemalt.Der Grund roth marmorirt. Im Aufsatz das Zeichen der Gesellschaft Jesu.
+- Furstenberger Porzellangruppe, Weirkufer bunt und mit Gold. Reizende Gruppe von drei
+- 115 Figuren mit sehr feiner Bemalung. Hohe 28 cm.
+- 116
+- Emaildose in Form eines Mopskopfes, farbig gemalt Auf dem Deckel Darstellung eines Liebespaares. Bronzemontirung,gravirt Grosse 6,o cm.
+- 117 Bernsteinleuchter mit breitem dreitheiligen Fuss und profilirtem Schaft. Danzig XVIl. Jahrh. Hohe 18,5 cm.
+- 118 Nurnberger Schreibzeug aus grun glasirtem Thon in Form einer Orgel. Originelles Stuck.
+- XVIl.Jahrh. H.20,Br.21 cm.
+- 119 Silberner Traubenpokal,vergoldet mit ornamentirter Fussplatte. Der Schaft in Form eines Baumstammes mit Figur eines Holzfallers. Die Leibung vierreihig,der Deckel zweireihig gebuckelt mit Blattwerk und vasenformiger Bekronung mit Blumenstrauss. Hohe 26 cm. Gew.257 g.
+- 120 Gothische Holzstatuette, die heilige Barbara,in einem Buche,welches sie in der Linken tragt,lesend,in der Rechten den Thurm haltend. In langem,faltenreichem Gewande und lang herabfallendem Haar. Hohe 39 cm.
+- 121 Elfenbein-Leuchter, zierlich proflirter Schaft und Fuss; durchbrochen gearbeitet und mit Blumen besetzt. Deutsche Kunstdrechsler-Arbeit des XVIl. Jahrh. Hohe 19 cm.
+- 122 Hochster Fayence-Figur, bunt,Korbtrager. Unbekleideter Jungling auf dem Kopfe einen Korb tragend. Ladirt.Hohe 44 cm.
+- 123 Chinesische Porzellanvase, craquele,bunt bemalt.Auf der LeibungDarstellung einer Schlacht. Hohe 39 cm.Mit Marke.
+- 124 Frechner-Krug, Bartmanns-Krug, braun gesprenkelt. Auf der Leibung ovale Medaillons mit Wappen,zur Seite zwei Rosetten. Hohe 42 cm.
+- 125 Grosses Stangenglas mit Emailfarben bemait. Auf der Stirnseite das kursachsische Wappen mit Inschrift:Hofkellerei Dresden.1693. Auf der Rickseite eine Blume. Hohe 33 cm.
+- 126 Bronzeleuchter in Gestalt eines Kriegers,der die Lichttillen tragt. Der Fuss in Form des Sechspass. Styl des XVI. Jahrh. Hohe 21,5 cm.
+- 127 Rauchmantel aus meergriner Moire-Seide mit weissen roth eingefassten Streifen und farbigen Blumenranken in senkrechten breiten Streifen. Louis XVI.
+- 128 Casel aus schwerem Goldbrokat mit Silberbordire und seidenen Blumen. Louis XV. Sehr schones Stick.
+- 129 Rauchmantel, rohseidener Grund mit grossblumigem farbigen Raukenmuster. Louis XIV.
+- 130 Missale. Lateinische Pergamenthandschrift des XV. Jahrhunderts in gross Folio;324 in roth und schwarz geschriebene Seiten durchweg mit Musiknoten,vielen gemalten Initialen mit farbigen Blattornamenten. Leider ist eine Anzahl grosserer Initialen mit Malereien herausgeschnitten. Ein Inhaltsverzeichniss ist vorn im Buche. Der Original-Einband aus Holzmit Leder, die Deckel mit Messingbeschlag und Messingbuckeln.
+- 131 Portrait-ReliefMedaillon,oval, Kehlheimer Stein.Mannlicher Kopf,Profl nach links,mit Lorbeerkranz.An der Nase defekt.Starke Relieftraktirung. Grosse 4,5zu4cm. Gute Arbeit.
+- 132 Gemalte Wappenscheibe in Bleifassung,rund,im Wappenschilde ein Ziegenfuss in roth. In den Zwickeln Ornamente.Durchm.31,5 cm.
+- 133 Alte italienische Laute, im Innern mit Bezeichnung und Jahreszahl 1587. Lange 94 cm.
+- 134 Thurmartiges Gefass aus gebrannter Erde, grin-gelb glasirt. Auf viereckiger Basis,an den Seiten Masearons, auf der Platte vier Frosche, erheben sich an den Ecken vier Saulen, welche eine reich verzierte Bekronung tragen,in der Mitte mit rundem Behalter. Originelle Topferarbeit. Wahrscheinlich Suddeutschland. XVIl. Jahrh. H.29,Durchm.12,5 cm.
+- 135 Messerscheide aus Holz mit Metallring, von ovalem Querschnitt. In einzelne wagerechte Felder getheilt, in welchen Reliefschnitzerei: neun biblische Darstellungen. An den Seiten Inschrift.Norwegen. Lange 17 cm. Interessantes, gutes Stuck, defect.
+- 136 37 Zwei 0elminiaturen auf einer achteckigen und auf einer ovalen Marmorplatte. Ende des XVIl. Jahrhunderts.Die Auferweckung des Lazarus. Die Anbetung der heiligen drei Konige. H.10,5, Br. 14 cm. Beide in schwarzen achteckigen Rahmen von verschiedenem Muster.
+- 138 Oelminiatur,E. Hildebrandt bezeichnet. An der Kuiste von Capri bei untergehender Sonne. Reich staffrt. Auf Holz. H. 11,5, Br.20,5 cm. S. R.
+- Obiit 1565 und Friedrich Wilhelm.Auch als Costimbilder interessant und von feinster Ausfuhrung. Berliner Museums-Doublette. H. 1l,Br. 8,5 cm. Braune Holzrahmchen.
+- 141 42 Elfenbein-Miniatur. Die Leiche eines schwedischen Fursten auf dem von Armleuchtern umgebenen Paradebette. Bezeichnet: Grede Pinxit. H. 8,4,Br. 11 cm. G. R. Ferner: Heiligenbild,mit eingestreuten Reliquien. Gerahmt.
+- 143 Bronzehandleuchter mit Porzellanfigur eines Affen,und Spiegel. Mit freistehenden, emaillirten Blumenzweigen, Blattern und Bluthen verziert. Hohe 14 cm.
+- 144 Service aus schwarzbraun glasirter Bottchererde, bestehend aus:Kaffeekanne und sechs Obertassen mit Unterschalen. Geschweifte Form,gerippt und mit mattem Arabeskendecor.
+- 145 Eichenholz-Truhe, braun gestrichen,mit gewolbtem Deckel. In der Front zwei Nischen mit geschnitzter Rahmung. H. 60, Br. 80, Tf. 48 cm.
+- 146 Holzgeschnitzter,schwebender Engel,vergoldet,mit Flugeln, XVIll. Jahrh. Gute Schnitzerei. Grosse 105 cm.
+- 147 Desgleichen,ahnlich, Gegenstuck zum Vorigen.
+- 148 Desgleichen, in Wolken schwebend, polychrom und vergoldet. Hohe 7O cm.
+- 149 Holzgeschnitzte, polychrome Figur, Heiliger mit Stab, Tasche und Buch. Hohe 75 cm.
+- 150 Grosse Kieler Fayence-Fischschussel, mit buntem Decor, im Fond Fische,auf der Aussenseite Ornamentbander.Durchm.37 cm.
+- 151 Zwei Delfter Fayence-Schusseln, rund, flach. Mit blau-roth-grinem Blumendecor. Durchm. 33und30cm.
+- 152 Zwei Desgleichen, blau-weiss, defect,eine bunte, und italienische Fayence-Schale,gerippt, imFondmitMalerei.Verschiedene Grossen.
+
+8
+<!-- image -->
+
+208
+
+## II. Auctionstag:
+
+## Mittwoch,den 25.November 1896,
+
+von 1o Uhr ab.
+
+- 153 Oelminiatur.Charlotte, Tochter des Landgrafen Friedrich von Hessen und Eschwege. Gestorben 1708 in Bremen, 54 Jahre alt. Halbfgur in reicher Atlas-Robe Die Rechte halt einen Facher.Links auf der grinen Decke eines Tisches 10zeilige Inschrift mit
+- Lebensdaten.Auf Kupfer.H. 17,Br.13,5 cm.Gerahmt.
+- Desgleichen. Portrait einer Furstin in Halbfigur,links im Hintergrunde ein Schloss.Be-
+- 154 zeichnet: Sophia Hedwig  1652 Auf Kupfer. H. 17,Br.13,5 cm.Gerahmt.
+- 155
+- Oelminiatur des XVII. Jahrh. Huftbild eines Mannes in dunkler Kleidung und Spitzenkragen. Auf einer ovalen Kupferplatte. H.18, Br.14,7 cm.
+- 156 Galadegen mit Knopf,drahtumsponnenem Griff,Grifbigel und Stichblattern,mit Relieffguren, Masken und Ornament in Bronzeguss. Die Klinge mit vielen lateinischen Devisen und bez. Peter Munich me fecit Solingen,zweischneidig, mit Rippe. Lange 94 cm.
+- 157 Deutsche Helmbarte mit geschragtem Beil, auf einer Seite 12 mal gelocht,gesichtartigem Hacken mit 4 kantigem Spiess. Ende XV. Jahrh. Sponton,mit abwarts gebogenem Hacken. Fundstick.Luntenzunder, Anfang XVI. Jahrh. Mit spitzem Eisenschuh.
+- 158 Zweihander mit langem,eisernem Knauf, sammetiberzogenem Griff,abwarts,an den Enden breiter Parirstange,langer Angel, mit Leder iberzogen und kurz vor dem Ansatz der Klinge mit zwei scharfen kantigen Stacheln.  Die Klinge zweischneidig und breit. Anfang
+- XV.Jahrh.Lange 123 cm.
+- 159 Deutsches Korbschwert mit birnenformigem Knauf,Drahtgriff, Parirbigel und Korb und XVI.Jahrh.Lange 105 cm.
+- 160 Funf ovale Wedgwood-Plattchen mit mythologischen und allegorischen Darstellungen,2 mit
+- schwarzem Grunde.Gr.4zu 3,5 cm.
+- 161
+- Vier Wedgwood-Plattchen,verschiedener Grosse, mit beiderseitigen Darstellungen.
+- 162 Vier Desgleichen, rund und oval. Das eine als Anhanger.
+- 163
+- Funf Desgleichen,kleiner, sehr feine Stuicke.
+- 164 Grosse Kirchenampel, Metall, getrieben und versilbert. Barock. XVIll. Jahrh.Hohe 45 cm.
+- 165 Desgleichen,mit theilweise durchbrochener Wandung. Hohe 55 cm.
+- 166 Ewige Lampe (a.d. Synagoge). Messing,Vasenform mit Blattornamenten und Engelskopfen.
+- Der Teller mit schon getriebenenBlumenranken. Gr.85cm.
+- 167 Drei silberne Munzen: grosse Muinze mit allegorischer Darstellung des Friedens — grosse Hochzeitsminze —Georgsthaler （mit Oese) Gew.145g.
+- 168 Sechs Desgleichen. Luther-Minze von 1630, grosse Munze mit in kraftigem Relief gearbeiteter Darstellung der Kreuzigung und des Sundenfalls;2 Hochzeitsminzen;ein Georgsthaler; eine Freundschaftsmiinze. Gew.145 g.
+- 169 Holzgeschnitzter Engel, vergoldet, barock. Sehr gute Arbeit. Grosse 68 cm.
+- 170 Reliquienbehalter.Polychrome Buste des heiligen Vitus.Auf derBrust herzformiger Behalter.
+- Am Sockel Inschrift und die Symbole seines Martyriums. Hohe 77 cm. XVIll. Jahrh.
+- 171
+- Desgleichen,ahnlich. Der heilige Sebastian.Gegenstick zum Vorigen.
+- 172
+- Gothisches, polychromes Hollzreief. Die Flucht nach Aegypten. H. 58,Br. 45 cm.
+- 173 Besteck, Messer und Gabel mit Elfenbeingriff. Letztere geschnitzt, darstellend Mars und Minerva in Ristung. Prachtige Arbeit. XVIl. Jahrh. Lange 21 cm.
+- 174 Desgleichen, der Griff in Elfenbein geschnitzt, darstellend einen Ritter in Rustung, und Justitia mit Schwert und Waage. Der Ring aus Silber und gravirt.XVIl.Jahrh.Lange 23 cm.
+- 175 Tabakraspel, Elfenbein, sehr fein geschnitzt. XVIll. Jahrh. Lange 18,5 cm.
+- 176 Runde Limoge-Platte, in schonem, getriebenem Silberrahmen.Dargestellt ein Ritter und secundum magnam misericordiam tuam,ora pro me Sancta dei genetrix,Sancta trinitas unus deus miserere."Dariber Wappen des Burggrafen Friedrich von Nurnberg, mit Umschrift, Schild und Helm desselben werden von den zwei Knappen getragen. Sehr schones Stuick. Durchm.6cm.
+- 177 78 Zwei gemalte Glasscheiben i in Bleifassung; Gegenstucke. Zwei Darstellungen aus dem Leben des verlorenen Sohnes. Von meisterhafter Zeichnung,in zwei Farben gemalt. XVI. Jahrh. Grosse 23 zu 17 cm.
+- 179 Ein Paar Glaskaraffen, Venetianer Fiugelglas, yon zierlicher Form, mit schlankem Hals, Henkel und gebogenem Ausgussrohr. Die Flugel in Blau, am Ausguss und am Henkel weisse,
+- gelbe und rothe Rosetten. XVIl. Jahrh. Sammlung Felix. Hohe 16 cm.
+- 180 Kelchglas aus Bergkrystall mit hohem Fuss und ovaler, in Silber gefasster Fussplatte,mit zierlichem Decor in Mattschliff. Sehr schones Stuck. XVIll. Jahrh. Hohe 15,5 cm.
+- 181 Elfenbeinschnitzerei (Theil eines Hornes). Hochrelief, durchbrochen. Scenen aus einem Kriege, ein Ritter kampft gegen einen Turken, weiter zurick andere Bewaffnete. Kleine,
+- meisterhafte Schnitzerei. XVI. Jahrh. Gr.7,5,H.5 cm.
+- 182 Cassette aus Holz mit Eisenverkleidung, rechteckige Form,mit abgefachtem Deckel. Mit kunstvollem in Eisen geschnittenem Bandschloss an der kurzen Seite,die Wande mit platten Bandern und Netzwerkfillungen.An den Langsseiten je zwei eiserne Ringe.Sehr
+- schones,seltenes Stuck. XVI. Jahrh. H.12,5,Br.23,Tf.17,5 cm.
+- 183
+- Schaperglas mit breiter Fussplatte,der Stander mit Facetteschlif, der Kelch gefachert.Mit Jagdscenen und Ornamentbordiren auf schwarz und Gold gehoht. In Etui. H. 13,5, Durchm.6 cm.Ohne Signatur.
+- 184 Kandare,Eisen,mit Ornamenten mit Gold tauschirt.Das Hauptgestell in Form eines S, die Ballen kreisrund,ornamentirt und mit schon modellirter,gehornter Maske.Italien,XVI.Jahrh. Grosse 30 cm.Collection Spitzer.
+- 185 Elfenbein-Spiegelplatte, kreisrund mit Reliefschnitzerei:Die Werbung. Gruppe yon vier Figuren in einen Sechspass componirt, dessen Zwickel durch Masken ausgefullt sind. Deutschland,XIV. Jahrh. Durchm.8 cm.
+- 186 Silberner, theilweis vergoldeter Becher, getrieben. Die Fussplatte gebuckelt,der Schaft mit drei zierlichen Agrafen besetzt und in der Mitte von einer knieenden Amorette getragen. Der Kelch gebuckelt und sechspassformig. Mit Beschaumarke. XVIl. Jahrh. Gew. 124 g. H.19,Durchm.8cm.
+- 187 Desgleichen, gravirt,vierseitig mit abgeschragten und geschweiften Ecken. Die Fussplatte mit blumenformigem Stengel tragend. Ersterer analog der Fussplatte,vierseitig mit geschweiften Ecken,reich gravirt auf geatztem Grunde. Mit Nurnberger Beschaumarke. XVI. Jahrh. H 16,Durchm.5 cm. Gew.114 g.
+- 188 Gothischer Bronzekrug mit eng eingezogenem Fuss und Hals. Der Deckel mit durchbrochenem Knopf. Als Henkel eine groteske Thiergestalt, der Ausguss in Form eines sitzenden Lowen. H.31 cm.Durchm.10,5 cm.
+- 189 Cocosnussbecher,in silbervergoldeter Montirung. Der Fuss mit proflirter Platte cylindrisch eingezogen und ornamentirt,balusterartig geformt,sechsseitig und gebuckelt und mit drei Agraffen besetzt. Die Kokosnussschale hat an oberen und unteren Rande je eine silberne Platte,welche durch drei senkrechte Bander verbunden sind,Karyatiden mit ornamentaler Verbindung darstellend. Der obere Rand gravirt und monogrammirt J.R.und M. K. Der Deckel zeigt schone Blattmotive,als Bekronung eine mannliche Halbfigur in antiker Ristung. Schones Stick. XVI. Jahrh. H. 31,Durchm.9,5 cm.
+- 190 Hoher Lehnsessel,reich geschnitzt und vergoldet. Die Fusse,kandelaberformig proflirt und in volutenartig geschwungene Ranken auslaufend,werden auf beiden Seiten durch Rankenguirlanden,welche von Engelskopfen bekront,verbunden.Die Armlehnen,hibsch geschwungen, enthalten Maskarons. Gemusterter moderner Stoffiberzug. Louis XIV. Sammlung Riedinger.H.112,Br.55, Tf.50 cm.
+- 191 Tisch mit Schrankchen auf Kugelfissen ruhend. Das Schrankchen zwischen den vier Saulenfissen. XVIl. Jahrh. Sammlung Riedinger. H. 76,Br.108, Tf. 68 cm.
+- 192 Bronzeanhanger. St. Georg den Drachen totend. Ganze Figur. In feiner Ausfuhrung. XV. Jahrh. Sehr schones Stuck. Sammlung Riedinger. Hohe 6 cm.
+- 193 Grosse Ludwigsburger Porzellan-Gruppe, bunt und mit Gold, Liebespaar. Schafer und Sehaferin unter einem Baume sitzend, in zartlicher Umarmung Zu Fissen Hund und Lammer. Ausfihrung yon kunstlerischer Akuratesse und grosser Feinheit. Mit Marke. H. 27,unterer Durchm.22 zu 19 cm.
+- 194 Desgleichen, bunt und mit Gold. Zu Fissen eines Thorbogens mit Saule, Mauerwerk und Delphin (Wasserspeier) sitzt eine Schaferin,den Arm auf eine Vase gestitzt,und hort den Melodien eines Schafers zu, die ihr dieser auf dem Dudelsack vorblast. Zu Fissen zwei Lammer. Auf dem Thorbogen eine gefligelte Amorette. Reizvolle Darstellung,vorziglich modellirt und bemalt. H. 33, Durchm.am Boden 20,5 zu 16 cm.
+- 195 Radschlossflinte (Tehinke) mit sehr kleinem Kaliber, gezogenem achteckigen Lauf,nebst Messingkorn und Visir und gravirten Ornamenten. Das Radschloss reich gravirt, der Abzugsbigel gefingert. Der braune Holzschaft mit abgesetztem Kolben (Ladestock fehlt) ist sehr reich mit Elfenbein und Perlmutter eingelegt, worauf Thiere, Arabesken ete. gravirt sind. Auf der Backe eine Barenjagd.Auf der oberen Kolbenkante bezeichnet C.W. Sehr schones,prachtvolles Stick. XVl. Jahrh. Lange 1l3 cm.
+- 196 Meissener Porzellan-Theeservice,bestehend aus Thee- und Sahnenkanne, Spulnapf, Zuckerdose mit Deckel, Theebichse mit Deckel,6 Ober- und Untertassen. Reichbemalt mit chinesischen hauslichen Scenen, Ornamenten,Vogeln in Goldmalerei, theilweise umgeben yon reichem Goldfond Die Deckel der Kannchen mit Silberkettchen verbunden. Das ganze Service in altem Original-Lederetui mit Messingbeschlag und Handhaben. Von tadelloser Erhaltung bis auf einen Haarsprung im Spulnapf und Sahnenkannchen. Friheste Zeit; ohne Marke.
+- 197
+- Anhanger,herzformig,in vergoldeter Fassung,mit grossem,geschliffenem,saphirahnlichem Die Rickseite emaillirt und mit herzformiger Kapsel.Gr.3,5 cm.
+- 198 Pompadour, bestehend aus 2 eiformigen Limoge-Platten mit Futter aus rothem Seidenrips, mit Goldfransen,Schnuren und Quasten.Auf der Vorderseite auf schwarzem Grunde das Portrait eines jungen Madchens, Gesicht und Hand en grisaille, die Kleidung rosa, gruin und gold in Email translucide.Auf der Ruckseite getriebenes, weiss emaillirtes Rankenornament mit Goldkonturen.Frankreich.Ende XVI Jahrh. In der Art der de Court. Gr.9,5zu 6cm.
+- 199 Grosse Urbino-Schussel, mit Malerei von Ornamenten mit Grotesken in blau, gelb, grun. Im Fond kreisrundes Feld mit Schild, dem von Schlangen umwundenen Merkurstab und Engelskopf. Mit Buchstaben S. C.Vorzigliches Exemplar. Zweite Halfte XVI. Jahrh. Durchm.40cm.
+- 200 Grosse Caffagiolo-Schussel, mit breitem Rand,reich decorirt, die Ornamente knapp und scharf gezeichnet.Im Fond mannlicher,bartiger Kopf, Brustbild in Profl,mit reicher Tracht, im Stil der friheren Florentiner.Mit verschlungenem Spruchband:VNBEL-MORIRE TATALAVITA-ONORA.Die Farben tief und satt.Sehr schones Exemplar aus der
+- ersten Halfte des XVI. Jahrh.Mit doppelter Marke.Durchm. 43 cm.
+- 201 Spanischer Degen,mit balusterformigem,in Eisen geschnittenem Griff,Knopf, Griffbugel, gerader Parirstange und Parirringen. An den Enden der Parirstange ein Knopf.Das Ornament zeigt Laubwerk und Mascarons.Die 98 cm lange zweischneidige Klinge in der Mitte abgeplattet,am Ansatz mit Rinnen und Inschrift:Por mi Pel Por la Feyviermal wiederholt. Im unteren Parirring die Jahreszahl 15-34. Stuck ersten Ranges. Aus der Sammlung Spitzer.
+- 202 Kehlheimer Platte, mit facher Schnitzerei auf Grund. In der Mitte das bayrische Wappen in schoner Kartusche,bunt gemalt und mit Gold gehoht.Dariber mit romischen Buchstaben: Renaissance-Schrift:Hor Gottes Wort vor allen Dingen. so wird Dir nimmermehr misslingen." Rechts:,Und thu was Dir befohlen ist,weil Du dazu berufen bist" Unten:Welcher sein wird ein weiser Mann, derselb soll Gott vor Augen han." Am rechten und linken Rande eine breite Kante mit Mauresken-Ornament. Mit Jahreszahl 1562.Sehr interessantes Stick, die Zeichnung von ausserordentlicher Schonheit.In hellem Holzrahmen.Grosse 29 zu 28 cm.
+- 203 Grosses Ansbacher Porzellan-Tafel-Service, bestehend aus zehn grossen runden Schisseln,
+- finf ovalen Bratenschusseln mit Henkeln,vier grossen, fachen, dreieckigen Sehalen mit runden Ecken,vier fachen viereckigen Schalen,vier kleineren,geschweiften,sechspassformigen Schalen, finf ovalen,spitz auslaufenden Schalen,einer Suppenterrine, zwei ovalen, durchbrochenen und einem runden gegitterten Brotkorb mit Henkeln,einem Weinkihler mit Henkeln,einer Sauciere mit Unterschale und 8O Tellern (davon sieben in Berlin nachgearbeitet). Mit Goldrand,reliefirtem,weissem Rococodecor mit Blumenmalerei im Fond und auf derLeibung invorzuglicher,kunstlerischer Ausfihrung. Zusammen li8Stucke.
+- 204 Ochsenzunge mit Horngriff, welcher auf beiden Seiten je zwei grossere und zwei kleine durchbrochene Rosetten in Messing zeigt. Auf dem Griffende ein Bigel aus Bronze mit Reliefkopfen und Ornament. Parirbigel und Angel zeigen Spuren von Vergoldung. Lange
+- 60 cm.Italien.Ende XVI.Jahrh.
+- 205 Stossdegen, die zweischneidige,reich gravirte Klinge zeigt schone Blumen von Vogeln belebt, kannelirt.Das Gefass,ausserst reich in Eisen geschnitten,mit saulenformigem Griff, der, wie die Parirstange an beiden Seiten in kugelformigen Knopf auslauft. Der Parirring wird von ebensolchem durchsetzt. Das Ganze mit Scheibenmusterung. Hochst interessantes, seltenes Stick.XVll. Jahrh.Lange 74 cm.Sammlung Riedinger.
+- 206 Franzosischer Emailbecher mit Deckel, Rococo mit bronzevergoldeter Montirung. Um den Fuss friesartig Weinranken mit Trauben. Auf der Leibung eine Parklandschaft mit Fontainen,Brunnen, Hermen etc.,mit Cavalieren und Damen, theils trinkend,theils in Unterhaltung begriffen.Auf dem Deckel Liebespaare. Als Deckelknopf eine vergoldete Weintraube. Die Malerei von vorziglichster Ausfuhrung. Tadellos erhaltenes， schones Stick. Aus dem ehemaligen Besitz der Familie von Salviati. H. 16,Durchm 8,5 cm.
+- 207 Ein Paar Sporen,Eisen mit geschnittenem Ornament,am Bigelende Schnallen und Hacken, die Oberflache mit gekrauseltem Blatt in kraftigem Relief geschnitten.Der Arm des Radchens gebildet durch einen Delphin, auf welchem ein Lowe sitzt, welcher das Radchen im Rachen halt. Dieses in Form eines 12 strahligen Sternes,dessen 6\_grossere Strahlen die Form von Schlangen haben. Sehr schone Sticke. Spanien XVl. Jahrh.Sammlung Spitzer. Lange 13 cm.
+- 208 Grosse silberne getriebene Schussel, oval,mit gewolbtem, breitem Rande. Im Fond Darstellung der von Aktaon im Bade iberraschten Diana,und dessen Verwandlung in einen Hirsch.Auf dem Rande 4 Portrait-Reliefkopfe,dazwischen Stillleben von Frichte.Stick ersten Ranges in vorziglicher sehr hoher Treibarbeit.Suddeutschland XVII. Jahrh. Durchm.42 zu 40 cm.Gew.830 g.Aus der Sammlung Felix.
+- 209 Ein Paar Louis xVl.-Wandleuchter, Bronze, feuervergoldet, zweiarmig,bestehend aus einer Bandschleife mit Quasten,durch welche einLilienzweig gesteckt ist,deren Bluthen die Tilleni tragen. Sehr vornehme,feine Sticke aus der Zeit. Lange 46 cm.
+- 210 Missale mit Calendarium aus dem XVI. Jahrhundert. Letzteres in blauer,rother und Goldschrift mit feinen Randverzierungen nimmt die ersten funfzehn Seiten ein.Es folgen einige leere Blatter,auf welchen Kinder mit der Feder Striche und Schnorkel eingekritzelt haben, sowie das schon geschriebene aus 181 Pergamentblattern bestehende Manuscript mit Miniaturen, Initialen etc. Von grossen Miniaturen befinden sich darin nur folgende Darstellungen:1. Die Verkiindigung Maria. 2.Die heilige Jungfrau mit dem Kinde. 3. David betend; doch dirften diereichen Randverzierungen sowie einige grossere Initialen dem Werkchen bedeutenden Werth verleihen.Das Manuscript ist leider etwas beschnitten worden,so dass einige Schnorkel der Randverzierungen die aussersten Auslaufer eingebisst haben. Spaterer rother Maroquinband mit Goldpressung. Auf dem Ricken: Offcia Cod. Membr. Sec. Grosse eines Blattes 11zu 7,5cm.
+- 211 Zierschrank aus Ebenholz mit Schildkrot-Einlagen und Fillungen. Das Untertheil in Form des Antoinette-Tisches,mit vier pilasterformigen,reich gegliederten Fussen,die durch einen Steg verbunden sind.Vorn 3 Schubkasten.Das Obertheil geradlinig und springt weit zurick.Unten mit 3 Schubkasten Durch 4 Pilaster mit Bronze-Basis und Kapital in ein Mittelfach und 2 Seitentheile getheilt;in der Mitte eine Thir mit Halbbogen und reichem Bronzebeschlag. An den Seitentheilen je 3 Schubladen; der Kranz mit schonen Verdoppelungen und Bronzebeschlag,das Gesims reich gekehlt und weit auskragend,in der Mitte mit halbrunder Verdachung und Bekronung.Das Schildpat von leuchtender Farbe, sehr reich in Anwendung gebracht,im Innern mit grauem Vogelaugen-Maser fournirt. Ausserordentlich schones Stick aus der Mitte dieses Jahrh. H. 182, Br. 155,Tf. 57 cm.
+- 212 Grosser Diplomatenschreibtisch. Styl Louis XVI.;moderne, franzosische Arbeit,Polysander mitmatterBronze. Die Fisse geschweift, unten in Lowenklauen endigend,nach oben in Karyatiden mit Akanthusblattern auslaufend. An den beiden Langsseiten je 3 Schubladen mit eingelegten Quader- und Netzfuillungen,mit Bronzerahmung und reichem Beschlag.Die Platte,mit ornamentirter Bronzekehlung gerahmt,ist mit braunem Leder mit Goldpressung iberzogen. Die Beschlage matt und blank, sehr gut modellirt und ciselirt.-Sehr schoner Tisch von tadelloser Ausfihrung. H. 79,Gr. d. Pl.175 zu 94 cm.
+- 213 Grosse Bernsteinschussel, in silbervergoldeter Montirung. Der Fond ist kreisrund,medaillonartig, proflirt und ragt aus der Flache hervor. Im Mittelpunkte ein Relief, eine Victoria reicht einer Frauengestalt, die einen Winkel und einen Faden in der Hand halt, die Hand, daneben ein Kranich. Das Relief ist von einer Blattwulst umrahmt. Um diese ordnen sich acht geschnitzte Schildchen,mit Darstellung von Thieren,auf einer geschnitzten abgerundeten Platte. Von dieser ausgehend zwolf Platten in Trapezform, fach eiformig geschnitzt,in silbervergoldeter Montirung. An diese Platten ist der Rand wagerecht befestigt,er besteht aus abwechselnd nebeneinandergestellten kleinen Rechtecken und Muscheln. deren aussere Kante durch einen profilirten Perlstab eingefasst wird.In den Rechtecken Reliefschnitzerei, medaillonartigund sehr fein ausgefuhrt,Thiere darstellend;der Rand mit Goldornamenten gemalt.Das Ganze mit einer Platte aus durchsichtigem rothen Bernstein bedeckt. Deutsche Arbeit des XVI. oder Anfang XVll. Jahrh. Bedeutendes Stuck aus der Sammlung Spitzer. Durchm.43,5 cm.
+- 214 Reliquiarium, in Email ausgefihrt und mit Steinen besetzt.Auf einem Altarchen Gott
+- Vater, zu Seiten zwei Frauengestalten (Vollfiguren),in Blumen stehend Die Ruckwand tiefblau, theilweise hell abgesetzt und gothisch ornamentirt.Die Rahmung besteht aus schwarzen Flammleisten und Schildpatt-Einlage.Unter Glas. H. 26, Br.22 cm. Hervorragendes Stick. XVII.Jahrh.
+- 215 Grunspecht, Meissener Porzellan. Lebensgross modellirt und bunt gemalt. Auf einem Baumstamm sitzend,an den Blattern ein Kafer und eine Raupe. Vorziglich ausgefihrt.H.27cm.
+- 216 Am Stamm ein Hirschkafer.Lebensgross ragendes Stuck! H.36 cm Sammlung Friedrich
+- Eichelhaher,Meissener Porzellan. Auf einem Eichenstamme sitzend und Frichte verzehrend. dargestellt und vorzuglich gemalt. Hervor-
+- 217 Chatelaine,Louis XVI.,aus geschliffenen Diamanten in silberner Fassung,bestehend aus vier nach unten sich yerjingenden Gliedern in Form von Bandschleifen und zwei Kettchen.
+- 218 Chatelaine aus Blut-Jaspis mit Goldfassung,bestehend aus vier durch Scharnier und Oesen
+- Prachtvoller,schoner Schmuck. Lange 15,5 cm.
+- eine Kette mit Uhrschluissel und mit Petschaft. Schoner eigenartiger Schmuck XVIll. Jahrh. Lange 13,5 cm.
+- Grosse Meissener Porzellangruppe, bunt und mit Gold. Apfelernte. Unter einem Apfelbaume mit reifen Frichten ein Cavalier,der einer Dame Aepfel in die Schurze legt.Auf dem Baume ein Knabe, der die Fruchte herunterwirft. An den Baum angelehnt eine Leiter.
+- 219 Prachtige Gruppe, sehr fein gemalt. Hohe 27 cm. Sammlung Friedrich.
+- 220 Ein Paar Meissener Porzellanstatuetten, bunt und mit Gold, weibliche Figur mit Korn-
+- garben,Kornblumen und Fruchten, den Sommer darstellend,und mannliche Figur mit Becher und Trauben, den Herbst versinnbildlichend. Prachtvoll modellirte und schon gemalte Figuren. Hohe 22 cm.Sammlung Friedrich
+- 221 Missale mit Miniaturen und Initialen aus dem XV. Jahrhundert Dasselbe beginnt mit einem roth und schwarz geschriebenen Register auf zwolf Pergamentblattern, sodann folgt der mit schon verschnorkelten Initialen durchschossene, sehr sauber und gleichmassig ge schriebeneText. Die sechsgrossen Miniaturen, welchedas schone Manuscript enthalt,bestehend aus Ornamentborduren mit Blumen und Vogeln, in denen unten je ein Medaillon Brustbild eines Heiligen sowie in der Mitte ein grosser Initial mit einer bekannten biblischen Personlichkeit angebracht ist. Die erste Miniatur zeigt die heilige Jungfrau mit dem Kinde und St. Franciscus, die zweite den Konig David und St.Hieronymus, die dritte den Tod, welchem ein Engel die Krone vom Kopfe blast und St. Philippus von Neri, die vierte den Verrath Christi und St. Barbara,die funfte Christus und einen heiligen Monch, die sechste und letzte, ohne Bordure, einen mittelgrossen Initial und zwei heilige Martyrer. Das Werk besitzt nicht mehr seinen vollen Rand, jedoch ist dieses nur bei den funf ersten grossen Miniaturen zu bemerken, bei welchen die Darstellung ein wenig verschnitten ist, die Schriftblatter zeigen 4-2 cm weissenPapierrand. Das werthvolle Manuscript besteht aus 243 feinen Pergamentblattern und ist in Maroquin rouge mit Goldpressung gebunden Auf dem Rucken: Officia cod. membr. sec. darunter das gekronte Monogramm P.R. Grosse der Blatter: 12 zu 8,5 cm.
+- Votiv-Tafel aus Kehlheimer Stein,mit Darstellung in kraftiger Relieftractirung. Oben,in einem Halbkreis, auf Wolken schwebend, Christus, der einer betenden Heiligen erscheint, Mannern der biblischen Geschichte etc.,von rechts nach links in der Reihenfolge: Noah, Moses,Abraham,Eva,Adam,Joseph, Christus,Luther (?),Melanchthon ?) und die knieende Donatorin. Die Figuren sammtlich en face,von guter Charakteristik und ungezwungener Haltung. Anfang XVIl.Jahrh.(Augsburg ?) In starkem,profilirtem Eichenholzrahmen.
+- 222 H:50,Br.60cm
+- 223 Grosser Deckelpokal mit breiter,ornamentirter Fussplatte,reich proflirtem Stander und guthe - Sie rettet aus Not --Wie sollte nicht geben mir wie dir das Leben, geperlt. Bohmen. XVIll. Jahrh. Sehr schones, tadellos erhaltenes Exemplar. Sammlung Buchner. Hohe 43 cm.
+- 224 Grosser dreitheiliger Glashumpen, geblasen,Kelchform; der Deckel mit Ornament und Mattschliff. Sammlung Buchner.Hohe 46 cm.
+- 225 Hoher Glaspokal mit Deckel. Mit breiter, gefacherter Fussplatte, facettirtem,balusterforinigem Stander mit eingeblasenen Perlen und Jagddarstellungen in Mattschliff auf der Leibung.Der Deckel mit hohem, facettirtem Knopf, die Rander geperlt.Hohe mit Deckel 37, Durchm.10,5 cm. XVIll. Jahrhundert
+- 226 Ein Paar Bronze-Candelaber. Auf sechseckiger Fussplatte ein balusterformiger Schaft, reich ornamentirt und vergoldet,auf welchem als Leuchtertrager die Bronzestatuette eines Junglings (bzw. Madchens)in phantastischem Kostim. Grin patinirt. Mit vier vergoldeten, schon ornamentirten Leuchterarmen.Zeit Louis Philippe.I Hohe 54 cm.
+- 227 Bronzestatuette, Vollfigur eines Mannes, den rechten Fuss vorgesetzt, die Rechte umfasst eine Lanze,die Limke greift nach vorn. Das Gewand ist durch einen Riemen iber der rechten Schulter befestigt. Zu Fuissen ein Hund. Mit dunkler Patina. XVII. Jahrh. Sehr gutes Stuick. Hohe 55 cm. Auf Holzsockel.
+- 228 Desgleichen, Gegenstuick zum Vorigen. Zu Fuissen ein Adler.
+- 229 Christus-Buste, gebrannter Thon. Arbeit eines italienischen Kuinstlers aus dem XVIl. Jahrh. Hohe 57 cm.
+- 230 Miniatur. Eine Furstin ist in einer Landschaft als Diana dargestellt. Neben ihr ein Hund. Kniestick.In tergo bezeichnet: Comtesse de Beroldingen. H. 5,8, Br. 7,2 cm Viereckiges Metallrahmchen.
+- 231 Elfenbein-Miniatur. Huftbild einer jungen Dame in Pilgercostuim.In tergo bezeichnet: Portrait de Mme. de la Merliere femme d'un General d'Armee sous le regne de Louis XV. Rund. Diam:6,5 cm Metallrahmchen.
+- 232 Email -Miniatur bez. Cs. Rochat 1804. Weibliches Huftbild in weissem Costum und rothem Ueberwurf.Rund.Diam.:5,5 cm.Metallrahmchen.
+- 233 Elfenbein-Miniatur. Weibliches Brustbild mit lockigem Haar und Haube. In tergo bezeichnet: Gregory,Mint Painter. 74 Newgate Street. H.6,Br. 5 cm Ovales Metallrahmchen.
+- 234 Rauchmantel, Silberbrokat.Der Fond orangefarben,mit grossen iber die Flache verstreuten Blumen. Rand und Kappe blau, mit grossen Rosen in Roth und Silber. XVIll. Jahrh.
+- 235 Altrussische Altardecke.Griner Sammet-Fond mit Gold- und Silberstickerei In der Mitte ovales Feld mit Darstellung einer Pieta. Die Fleischtheile aus Seide, applizirt und gemalt. Die Bordire mit Strahlen. Um den Rand ein Schriftband,in den Eeken Seraphim-Kopfe. Prachtvolle Arbeit.Gr. 66 zu 51 cm.
+- 236 Rococo-Costim, bestehend aus Beinkleidern, Weste und Frack, dunkelbraunes Tuch mit Seidenstickerei in Gelb und Weiss.
+- 237 Volant aus weissem Mull mit grosser Blumenranke in farbiger Seidenstickerei. (Nadelmalerei.) Louis XVI.Lg.420, Br.68 cm.
+- 238 Casel,Louis XV. Gold- und Silberbrokat mit farbigen,seidengestickten Blumen und breiter Goldbordire. Prachtiges Stick.
+- 239 Renaissance-Laute. Das Sehallloch nach innen mit gothischer sehr feiner Schnitzerei verziert.Aussen ein Kranz von sich verschlingenden Bandern aus Ebenholz mit PerlmutterEinlage Der Hals mit reichem Arabesken-Decor in Ebenholz und Elfenbein Die Wande mit Linien eingelegt. Schones, sehr edles Stick. Lange. 92 cm.
+- 240 Egyptische Bronze: Sperber mit der Krone. Mit schoner Patina. Hohe 23 cm..Auf Holzplatte.
+- 241 Alte Violine. Josephus Guarnerius Cremonensis faciebat 1730. Leicht gearbeitet. Vorziglich im Ton.Mit Kasten und 2 Bogen.
+- 242 Elfenbeinfacher mit in Oel gemalter Genrescene in Watteau's Geschmack. Der Rand mit in Gold gemalter Bordure,Blumengehangen,Medaillons etc Am Griff ahnliches Decor mit Scencn aus dem chinesischen Leben. Beiderseitig gleiche Darstellung. Die Malerei miniaturartig fein ausgefuihrt und von guter Zeichnung. Lange 21,5 cm.
+- 243 Ein Paar Sevres-Vasen in Form eines aufrechtstehenden Rechtecks; griner,mit Gold gesprenkelter Fond. An den schmalen Seiten vergoldete Fuisse und Henkel, durchbrochen. An der Stirnseite in breiter,\_goldreliefirter Rahmung bunt gemalte Figur in mittelalterlichem Costim.H.38,Br.26,Tf.8cm.
+- 244
+- Ein Paar chinesische Rauchergefasse, Bronze, in Gestalt grotesker Thiere. Lange 13 cm.
+- 245 Thurmuhr, bronzevergoldet. Die Basis gekehlt, das Gehause von quadratischem Querschnitt, die Bekronung besteht aus einer Galerie mit Eck-Obelisken und einem Thurmchen,welches auf 6 freistehenden kleinen Saulen ruht. Die Seitenwande,Kehlungen und Pfeiler reich gravirt. XVIl. Jahrh. H. 32, Br. 14,5 cm.
+- Ein Paar Rococo-Kandelaber, Bronze, vergoldet, 5 armig. Schone Stucke von schwung-
+- 246 voller Zeichnung. Hohe 49 cm.
+- 247 Meissener Porzellangruppe, bunt,Liebespaar, sich kissend. Am Sockel vollrund modellirte und bunt bemalte Streublumen.Reizvolie Darstellung. H. 14,5,Durchm.13 zu 8,5 cm.
+- 248 Ein Paar Meissener Porzellanfiguren, Kavalier und Dame in Rococo-Tracht. Ersterer den Dreimaster unter dem Arme,letztere mit Facher,Pompadour und Chatelaine.Vorzuglich ausgefihrte Malerei. Hohe 12,5 cm.
+- 249 Meissener Porzellan-Vase mit Deckel, geschweift, bunt und mit Gold. Die Leibung mit Schmetterlingen bemalt.Als Deckelknopf eine Rose.Der Sockel mit yollrund modellirten Blumen und Zweigen bedeckt,am Fusse ein Volk Huhner durch einen Hund aufgescheucht. H.21,5,Durchm.am Sockel 15,5 zu 11,5 cm.
+- 250 Meissener Porzellan-Gruppe, bunt und mit Gold,2 Amoretten mit Guirlanden aus Weinlaub und Trauben. Am Sockel Goldornamente.Reizvolle Darstellung.H 13,Durchm.am Sockel 14zu9cm.
+- 251 Emaildose viereckig mit kupfervergoldetem Beschlag.Blauer Fond mit reliefirtem weissen Ornament und roth gemaltem Decor,Landschaften mit Staffage.H. 3,5, Br.8, Tf. 6 cm.
+- Desgleichen, in ahnlicher Ausfihrung. Mit bunt gemaltem Blumendecor. Auf der Innen-
+- 252 seite des Deckels Dame im Pelzcostim mit Muff. H. 3,5, Br. 8, Tf. 5,6 cm.
+- 253 Urbino-Untersatzteller mit Medaillon und Grotesken, blau, gelb und gruin gemalt. Durchm. 20 cm.XVIl. Jahrh.
+- 254
+- Urbino-Schussel, gerippt und gebuckelt,mit flachem Fuss. Im Fond Kopf der Diana, am Rande Grotesken.XVIl. Jahrh.Durchm.23,5 cm.
+- 255 Italienische Fayence-Schale, in der Art der Urbino-Arbeiten. Im Fond das Bildniss Hanni-
+- bals mit Grotesken-Ornament.Durchm.23,5cm
+- 256 Porzellan-0bertasse, Sevres 1756.Glatte Form,unten eingezogen. Weiss mit Gold und
+- bunten Blumenguirlanden in miniaturartiger Feinheit gemalt. Mit Henkel. H. 6, Durchm. 7 cm.
+- 257 Sevres-Service,bestehend aus Rahmkanne und 2 Tassen, von gerader, glatter Form mit Henkeln. Mit Goldlinien decorirt. Auf der Stirnseite runde,in Gold eingefasste Medaillons mit bunten Landschaften in sehr feiner Ausfuhrung. Louis XVI. Sammlung Murschel.
+- 258 Grosse ovale Fayence-Schussel mit geschweiftem Rande. Im Fond ein Altar mit weisser Decke, vorn Kelch und Taube, an der Seite das Zeichen der Gesellschaft Jesu. Auf dem Altar eine Kerze mit aufgeschlagener Bibel. Zu den Seiten des Altars ein Geistlicher und ein Ritter mit gezogenem Schwerte. Ueber dem Altar das bayrische Wappen mit Krone, von Seraphim fankirt,mit Jahreszahl y7O2. Die Inschriften auf den Frieden von Minster und Osnabrick beziiglich.-Durchm 50 zu 38 cm.
+- 259 Damen-Necessaire:Kleine Scheere in der Art der Schafscheeren, Messerchen und Pfriem im Kocher,mit volutenformigen Henkelansatzen aus vergoldeter Bronze mit Korallenschmuck; die Flachen der Scheere mit Ornamentgravirung, die Endigungen der Griffe in Form gut modellirter Adlerkopfe. Selten schones Stuick. Venedig XvI. Jahrh. Lg. des Kochers 1l cm.
+- 260 Meissener Porzellandose, oval mit fachem Deckel, mit silbervergoldeter Montirung und miniaturartig ausgefuihrter Malerei in chinesischer Manier.Mit Marke K. P.M.und Schwertern. Sehr schones Stick. Sammlung Buchner. Lange 7,5 cm.
+- 261 Geschliffenes Kelchglas mit Deckel und Flacon. Die Fussplatte mit Bordire und sternformigem,geschliffenem Decor,facettirtem,kurzem Stander,langlichem,achtseitigem Kelch mit Freundschaftsspruch, allegorischer Darstellung und reichstem Ranken-Ornament in Mattschliff. Der Deckel analog. Der Knopf bildet zugleich den des Flacons.Hohe 21 cm.
+- 262 Ein Paar Rococo-Leuchter, Silber,mit breitem, profilirtem Fuss und einfach profilirtem Schaft H.24cm.Gew.536 gr.
+- 263 Elfenbeinminiatur. Bathseba im Bade von Konig David belauscht.Von sehr feiner Ausfuhrung In tergo bezeichnet: Andreas Massard de Gordon 1739 pinx. H. 5,Br. 7,5 cm. Metallrahmchen mit abgerundeten Ecken.
+- 264 Miniatur, bez. Slivicki. Brustbild eines jungen Fursten mit gepudertem Haar und rothem Ordensband Angeblich ein Konig von Schweden.Oval. H. 6, B 5 cm. Unter Glas.
+- 265 Elfenbeinminiatur. Halbfigur eines jungen Madchens mit Vogelfalle,zu beiden Seiten Amor und ein junger Mann. Galante Darstellung. Sehr fein in der Durchfihrung. H. 4,9,B 7 cm. ViereckigesMetallrahmchen.
+- 266 Miniatur. Brustbild eines Prinzen in Uniform mit dem Stern des Schwarzen Adlerordens. Angeblich ein Prinz yon Mecklenburg. Oval.H.6,5,Br.5,4 cm.Metallrahmchen. In tergo mehrere Haarlocken.
+- 267 Ostensorium in stark vergoldetem Kupfer; der Fuss in Sechspassform mit einem Fries von Granatapfeln; der Schaft mit Palmetten verziert und mit einem in Bossen reich proflirtem geffachten Knauf; der Oberbau sechseckig, von hubsch gegliederten Saulchen fankirt; die Wandungen in Fensterwerk durchbrochen Die Kuppel,spitz zulaufend,mit Palmetten geschmickt und von einem kleinen Kreuz iberragt. Schones, reich gegliedertes Stuick. Spanien, XVI. Jahrh.
+- 268 Ovales Bronzemedaillon, Brustbild, Profil nach rechts. Sehr gut modellirt und ciselirt. Grosse9,5 zu 7,5 cm.
+- 269 Wedgwood-Flacon,hellblauer Fond mit weissem Reliefdecor;oval,mit vergoldetem Verschluss. Lg.11, Br.5 cm.
+- 270 Desgleichen, kleiner, kobaltblauer Fond mit sehr feinem Reliefdecor, mit vergoldetem, ornamentirtem Halse und Hornstopsel. Lange 8 cm.
+- 271 Desgleichen, klein, kreisrund, mit Festons und figirlichen Reliefs. Der Verschluss aus Silber. Durchm.4 cm.
+- 272 Elf Kupferplatten mit Aetzungen Originalplatten zu bekannten Bildern aus dem Leben Friedrich des Grossen, gestochen von verschiedenen Kinstlern. Verlegt von Joh.Baptista Weiss.1802.
+- 273
+- Grosse Boule-Standuhr mit Console, Schildpatt mit Bronze. Das Zifferblatt mit grossen schwarzen emaillirten Zahlen. Darunter ein Relief aus Bronze: Zug des Sol.An den abgeplatteten Ecken Pilaster mit Hermen.Als Bekronung die Vollfigur eines Merkur auf einer Kugel sitzend. Hohe 84,mit Console 113 cm.
+- 274 Gemalte alte Glasscheibe in Bleifassung, mit Darstellung der Sixtinischen Madonna. Sehr
+- schon in der Farbe. H. 48,Br.35 cm.In Holzrahmen.
+- 275 Desgleichen, Madonna mit dem Jesusknaben und Johannes. Nach Raphael.H.48, Br.40 cm. In Holzrahmen.
+- 276 Rauchmantel, gelbseidener Fond mit nelkenahnlichen Blumen, gross gemustert. Die Randbordiren silbergrau mit Blumenfries. Der Rand mit breiter Silberborde. Prachtiges Stick. Anfang des XVIll. Jahrhunderts.
+- 277 Meissener Porzellanstatuette, bunt und mit Gold,Violinspieler, Hohe 14 cm. Sammlung Friedrich.
+- 278 Desgleichen,Koch,an dem Herde stehend.Hohe 14 cm. Sammlung Friedrich.
+- 279 Desgleichen, Kirgise,mit langem Stock in der Hand Hohe 12 cm. Sammlung Friedrich.
+- 280 Desgleichen, klein, Bauernfrau mit eingestemmten Armen. Schones Decor. Hohe 8 cm. Sammlung Friedrich.
+- 281 Geschweifte Mahagoni-Kommode mit Bronzebeschlagen und drei Schubkasten. H. 78, Br.116,Tf.60cm.
+- 282 Nahtischchen, Nussbaum mit farbigen Intarsien und Bronzeknopfen. Mit drei Schubladen. H.68,Br.42,Tf.29cm.
+- 283 Empire-Toilette-Tischchen, Mahagoni mit Bronzebeschlagen. Die Platte dreitheilig, in der Mitte ein Spiegel, im Innern Facher. Vorn finf Schubkasten. H. 80, Br. 78, Tf. 46 cm.
+- 284 Missale ad usum Cisterziensis ordinis per quendam ejusdem ordinis monachum studiosissime correctum,ae per Johannem Kerbriant,alias Huguelin:et Johannem Adam socios. Parisis,1516. Octav in zwei Columnen. Impressum pro honesto librario parisiensi Johane Petit (mit s.Buchdruckerzeichen auf dem Titelblatt).Roth und schwarz gedruckt,mit vielen Holzschnitt-Illustrationen und -Initialen. Am Schluss auf 51 Seiten gleichzeitiges Manuscript in roth und schwarz.Etwas beschadigter Original-Lederband mit gebuckeltem und ornamentirtem Messingbeschlag; die Schliessen fehlen.
+- 285 Breviarium Cysoniense.Offcium Inventionis Sanctae Crucis.(Genauere Inhaltsbeschreibung in lateinischer Sprache auf dem Schlussblatt von fremder Hand) Lateinisches PergamentManuscript,Ausgang des XIV. oder Anfang des XV.Jahrhunderts. Beginnt mit dem Calendarium, finf Blatter (ein Blatt fehlt); folgt der Text yon 618 Seiten, in je 2 Columnen abwechselnd roth und schwarz geschrieben (auch mit blauen Majuskeln),mit 30 schonen Blatt- und Arabesken-Ornamenten (Zierleisten),sowie prachtigen mittelgrossen Initialen in Gold und Farben.-Brauner Lederband mit Goldpressung auf dem Ruicken. Klein-Octav. (Das Buch ist am oberen Rande etwas zu scharf beschnitten, so dass an den Verzierungen einige Auslaufer fehlen;sonst in guter Erhaltung.)
+- 286 Chinesische Porzellanschussel, famille rose, oval. Um den Rand eine Ranke aus Blumen und Frichten,im Fond ein Blumenstrauss. Sehr schones Exemplar.XVlll. Jahrh.
+- Durchm.37zu 31cm.
+- 287 88 Grosse Berliner Porzellan-Bratenschussel, mit reliefirtem Rande und bunt gemalten Streublumen. Durchm.41 zu 31cm. Frankenthaler Teller mit Streublumen bemalt und einem Stilleben von Fruchten im Fond. Durchm.23 cm.
+- 289 Silbernes Milchgefass, in Gestalt einer Kuh. H. 10,5, Lg. 19 cm. Gew. 230 g
+- 290 Goldener Ring, durchbrochen gearbeitet,mit Blume aus Silber und besetzt mit Diamantsplittern und2 Rubinen.
+- 291 Zwei Desgleichen, einer mit 5 Opaleu, einer durchbrochen und mit viereckiger Kapsel.
+- 292 Drei Desgleichen, einer mit Chrysopras und Diamantsplittern, einer mit 10 Amethysten, einer mit Rubinen und Brillanten.
+- 293 Nahtischchen in Form eines Octaeders, dessen unterer Theil mit blauem, gemustertem Seidenstoff umspannt ist. Die Platte zum Aufklappen. H. 75,Durchm. 46 cm.
+- 294 Meissener Porzellan-Kuchenkorb,Marcolini,bunt, durchbrochen und mit aufgelegten Blumen decorirt. Innen mit Blumenstraussen schon bemalt. H. 12,Durchm.35 zu 24 cm.
+- 295 Ein Paar Delfter Fayence-Schuhe mit schonem blau-weissem Decor. Mit Marke. Lange 10 cm.
+- 296 Wegdwood-Buchse mit ornamentirtem Bronzedeckel,langlich 8seitig,mit figurlichen Darstellungen,Emblemen etc.auf blauem Grunde.Schones Stick,defect. H.7,Durchm.9,5 cm und ebensolche flache 8eckige Schale ohne Deckel.
+- 297 Japanische kleine Porzellan-Vase und Theebuchse, mit blauem und blau-orangefarbigem Decor mit Gold. Schon gemalt. Hohe 11 cm.
+- 298 Emailbild, oval,in Bronzerahmchen, Mars und Venus. Sehr gute Malerei. Grosse 6,5 zu 5cm.
+- 299 Desgleichen,ruhende Bacchantin. Im Hintergrunde Landschaft. Durchm. 8,5 zu 6,5 cm.
+- 300 Desgleichen, Portrait Peters des Grossen,Brustbild,in Rustung. Grosse4zu 3cm.In ausgeschweiftem Holz-Rahmen mit Schildpatt und Messing-Einlagen.
+- 301 Email-Medaillon mit en face Brustbild eines jungen Mannes. Grosse 4,7 zu 3,7 cm,und ein Desgleichen,Darstellung im Tempel. Grosse 3,5 zu 3 cm.
+- 302 Empire-Standuhr, Holz mit schonem, fein ciselirtem Bronzebeschlag. In der Ruckwand Spiegel, als Aufsatz eine Vase. Hohe 48 cm.
+- 303 304 Ein Paar ovale Berliner Porzellan-Kuchenkorbe,bunt,mit Henkeln und Streublumen im Fond. Schone Stucke. Durchm.24,5 zu 18 cm.
+- 305 Bein-Relief, oval, von zwei Seiten geschnitzt Maria mit dem Jesuskinde, im Hintergrunde ein Gebaude,mit Kinstlermonogramm.Auf der anderen Seite der heil.Martin, den Mantel zertheilend.Gute Schnitzerei.Grosse 6,5 zu 5,5 cm.
+- 306-308 Drei Berliner Porzellan-Blattschalen,naturalistisch bemalt. Lange 24 und 22 cm.
+- 309 10 Meissener Porzellan-Salzgefass bnnt und mit Gold In Form einer Muschel mit Streublumen bemalt,auf drei Fissen und Proskauer Fayence-Butterbuchse in Form einer ovalen Melone auf einem Blatte liegend,mit Streublumen bemalt. Lange 22 cm.
+- 311 12 Zwei Porzellan-Butterbuchsen, dabei eine Meissener, mit Deckel (ladirt) und Henkeln, reliefirt und mit Streublumen bemalt.Lange 14 und 11,5 cm.
+- 313 Tarock-Kartenspiel. Complett,in 78 Blattern. Mit sehr fein ausgefihrten sauber colorirten Figuren, darstellend Schweizercostime,wobei Tell mit seinem Sohne. XIX.Jahrh.
+- 314 Desgleichen, ebenso in jeder Beziehung.
+- 315 16 Zwei Desgleichen mit weniger fein ausgefihrten Figuren. XIx. Jahrh. Bei einem Spiel fehlt der Skiiss.
+<!-- image -->
+
+365
+
+## III. Auctionstag:
+
+## Donnerstag, den 26.November 1896,
+
+von 1o Uhr ab.
+
+- 317 Miniatur.Mannliches Portrait in blauem Leibrock mit weissen Tressen. H.3.Br.2,5. Ovales Metallrahmchen.
+- 318
+- Elfenbein-Miniatur.Brustbild eines jungen Mannes, welcher den Hut unter dem Arme tragt. H. 5. Br.4. Ovales Metallrahmchen.
+- Miniatur. Huftbild einer Blondine in ausgeschnittener weisser Taille mit blauem Ueberwurf.
+- 319 H.6,4.Br. 5,2.Ovales Metallrahmchen.
+- 320
+- Desgleichen.Weibliches Brustbild mit gelocktem rothblonden Haar und entblosstem Busen. Oval.H.5,8.Br.4,5.Metallrahmchen.
+- 321
+- Rauchmantel aus Silberbrokat. Cremefarbiger Fond mit reichem Rankenmuster. Theilweis mit Goldspitzenbordire.Louis XV.
+- 322 Desgleichen, Seide,mit erdbeerfarbigem Fond und breiter Silberbordure. Die Musterung bandstreifenartig, senkrechte Ranken, getrennt durch Zweige mit grinen Blattchen. Louis XVI.
+- Berliner Porzellan-Suppenterrine,weiss, gerippt,mit Henkeln und reliefirtem Ornament.
+- 323 Als Bekronung Putto mit Taube. H.26,Durchm.22 cm.
+- 324 Werk mit Kupferstichen.Kurtze Beschreibung Dess zu Stuttgarten bey den furstlichen Kindtauf und Hochzeit Juingst gehaltenen Frewden Festes.Verfortiget durch Georg Rodolfen Weckherlin.Tubingen Bey Dieterich Werlin / Anno 1618. In gepresstem Pergamentband.
+- Gut erhaltenes Werk mit 77 Kupferstichen und 71 Seiten Beschreibung. Qu. fol.
+- 325 Franzosische Karte, complet in 52 Blatt. Gest. von H. J. Penningk.Die kinstlerisch in Farbendruck ausgefihrte Karte zeigt in den Figurenbildern als Konige, Czar Peter,Philipp II, Konig Lear und Ataliba,als Damen Figuren aus bekannten Schau- und Singspielen dabei Mozart's Constanze (Entfihrung),als Buben ebenfalls Theatergestalten und als Ass verschiedene Embleme mit Unterschriften.Auf der Ruckseite der in Gold gepresste Preussische
+- Adler.Gut erhaltenes Spiel aus der Fridericianischen Zeit.
+- 326 Kartenspiel.45 Blatt (statt 52 Blatt）. Die vier Konige sind: Blucher, Wellington Schwarzenberg und Kutusow,die Damen:Preussen,England,Oesterreich und Russland, die vier Buben:Militarische Figuren aus den vier genannten Landern. Die Farbenkarten zeigen reich componirte radirte Darstellungen, in welchen die Zeichen in origineller Weise, oft mit Benutzung des Gesichtes oder gewisser Gegenstande angebracht sind. Ausser den Darstellungen aus den Befreiungskriegen dominiren Scenen aus dem Goethe'schen Faust. Gestochen von C.Osiander.
+- 327 Deutsches Fangeisen mit doppelter Feder,langer Tille an starkem Holzschaft und spitzem Eisenschuh.XV.-XVI. Jahrhundert. Lange 153 cm.
+- 328 Italienische Helmbarte mit geschweiftem zehnfach gelochten Beil,abwarts geneigtem siebenmal gelochten Haken mit aufrechter Spitze und langem,vierkantigem Spiess. Mit langer Tille. XVI. Jahrh
+- 329 Bronzestatuette, Putto, sitzend, etwas in seiner Hand aufmerksam betrachtend. Sehr reizvolle Darstellung. Braun patinirt. XVIll. Jahrh. Hohe 16 cm.
+- 330 Bronzegruppe, Knabe und Madchen, letzteres mit einem Henkelkorbe, sich um den Inhalt des letzteren streitend. Sehr gut modellirt, braun patinirt.H. 17, Durchm.13.5 zu 8,5 cm.
+- 331 Gothisches Aquamanile,in Gestalt eines Lowen, dessen Schweif den Henkel bildet. Grosse 21 cm.
+- 332 Bronze-Halbfigur eines Faun mit Trauben und Fruchten in den Handen. Der Unterkorper gabelformig getheilt und in Voluten auslaufend,auf der Oberfache Akanthusblatt.Sehr schon modellirt.Wohl der Theil eines Candelabers.XVIll. Jahrh.Auf rundem,profilirtem Marmorsockel. 21 cm.
+- 333 Bronzestatuette,Venus,Volfgur,mit dem Spiegel in der Linken, sich darin betrachtend Graziose Darstellung. Mit starker,hellgriner Patina. Hohe 25 cm.
+- 334 Desgleichen, Mars, mit der Rechten das Schwert umklammernd, die Linke geballt. Gegenstick zum Vorigen.
+- 335 Eichenholzschrank mit zwei Glasthiren, urspruinglich Gewehrschrank,aber als Ausstellungsschrank hergerichtet. Die Ecken abgeplattet,die Lissenen und Schlagleisten wirfelformig eingelegt. Gesims geschweift. H. 208, Br.123,Tf.29 cm.
+- 336 Geschweifte Nussbaum-Kommode mit Polysander-Intarsien. Mit zwei Schubkasten,schonem Bronzebeschlag und Knopfen. H. 80, Br. 85, Tf. 50 cm.
+- 337 Mahagoni-Vitrine, Empire,mit Glasthur und Seitenwanden,in der Ruckwand Spiegel. Mit stufenartigem Aufsatz und Bronzebeschlagen.H.170,Br. 76,Tf. 40 cm.
+- 338 Mahagoni-Ausstellungstisch, geschnitzt und geschweift. Auf der Platte Glasscheibe mit darunter befindlichen Kasten zum Auslegen von Schaugerath,und Jalousiedeckel, welcher durch eine Kurbel aus- und zusammenziehbar ist. Mit 16 Schubkasten, welche durch ein kunstvolles Schloss mit einem Druck zu gleicher Zeit verschliessbar sind. Ein Schubkasten mit Schreibplatte. H. 83, Pl.-Gr. 165 zu 92 cm.
+- 339 Radschlossgewehr mit Nussbaumschaft, grosses Kaliber, gezogener, achteckiger Lauf mit Messingkorn (Visir fehlt) und Ladestock. Schloss und Beschlag, theils stark vergoldet, mit Jagddarstellungen, auf Grund geschnitten und gravirt, von kunstlerischer, sehr guter Zeichnung. Der Kolben mit facher,ornamentaler Schnitzerei. Die Kolbenkappe aus Horn. Schones Stick. Lange 12l cm. XVIl. Jahrh.
+- 340 Empire-Tisch, weiss mit dunkel-griner Marmorplatte. Die Kehlung und Zargen sehr schon geschnitzt, die Fusse cannelirt. Sehr vornehmen Charakters. H. 76.Br. 83,Tf.53 cm.
+- 341 Mahagoni-Eckschrank,Empire. Mit vier offenen, segmentartigen Fachern und Spiegelwanden. Die Eckpfosten oben mit vergoldeten Lowenkopfen,unten in Klauen endigend. Auf dem Gesims ein schwarzer, kastenartiger Aufsatz mit Bronzebeschlag und zwei Bronzeleuchtern. H.182,Br.92,Tf.58cm.
+- 342 Kinderharnisch,bestehend aus Visirhelm,Kragen, Brust- und Ruckenstick und Beintaschen. Auf der Brust eingeschnitten: Madonna mit dem Kinde auf dem Halbmond,von einem Strahlenkranz umgeben. XVI. Jahrh. Grosse 100 cm.
+- 343 Grosses heraldisches Decorationsstuick, bunt gemalt und vergoldet. Schild mit dem brandenburgischen Adler. dariber grosser Spangenhelm, mit Helmzier: Knappe in voller Rustung mit Helmbarte. Originelles Stuick. Hohe 190 cm
+- 344 Vorhang aus einer Synagoge,rother Sammet, mit breiter goldener Borte besetzt. Ueber
+- einem Mittelstick aus Goldbrocat mit farbiger Musterung hebraische Inschrift mit Wappen, welches von Greifen flankirt wird,in Silberstickerei ausgefihrt. Hierzu ein Lambrequin in derselben Ausfihrung. H.166,Br.100 cm.
+- 345
+- Zwei complete Costume von Schonbartlaufern, bestehend aus Hosen, Jacken und Masken mit Schellenkappen.XVI. Jahrh.
+- Platte mit 24 Wedgwood-Medaillons, rund, viereckig und oval, mit mythologischen und allegorischen Darstellungen,Kinderfriesen ete.,von ausserordentlich scharfer Pragung
+- 346 und grosser Schonheit. In schwarzem Kasten auf rothem Sammet.
+- 347 Korbschwert, die Klinge mit tiefer Blutrinne, das Gefass in Eisen geschnitten, mit eingehauenem Perlenmuster ornamentirt,mitzweitheiligem,gefechtartig gewundenem,schon und reich gegliedertem Korb. Die doppelt gewundene Parirstange in Schlangenkopfen endigend; der eiformige Knopf mit geschnittenen Ranken, Palmetten und Rosetten. XVI. Jahrh. Lange 144 cm.
+- 348 Deutscher Korbdegen mit lederiberzogenem Holzgriff,geschnittenem Knopf, entgegengesetzt geschweifter Parirstange, Griffbugel,Korb mit je vier Stangen und muschelformiger, durchbrochener Stichplatte. Die lll cm lange,zweischneidige Klinge mit doppelt eingehauener Marke und dem Wolf. Passau, XVI. Jahrh.
+- 349 Streitaxt aus Eisen, gothisirende Form, auf einer Seite hammerformig mit viereckigem Querschnitt.Die beiden Seitenfachen der Schneide zeigen je ein Medaillon in goldtauschirter Ovaleinfassung mit den Brustbildern zweier Bischofe und Kartuschen mit Arabesken zwischen gitterformigem Netzwerk in Eisen geschnitten. Seltene s,interessantes Stuick.XVl. Jahrh. Ohne Stiel Lange 15 cm.
+- 350 Degen mit in Eisen geschnittenem Griff,am Knopf die Form eines Lowenkopfes, geschnittenem Griffbugel und durchbrochenem Stichblatt.Die Klinge einschneidig, mit facettirtem Rucken und eingravirten Figuren. XVIl. Jahrh. Lange 97 cm.
+- 351 Geschnitztes Buchsbaum-Medaillon. Ein Opfer.Auf einem Altar steht eine unbekleidete
+- weibliche Gestalt, in der rechten Hand eine Vase, mit der Linken sich auf einen Schild stitzend.Auf dem Altar brennt das Opferfeuer. Um denselben stehen 4 Personen in antiker Gewandung. Vorzigliche deutsche Arbeit des XVIl. Jahrh. Sammlung Spitzer. Durchm.4,2 cm.
+- 352 Desgleichen. Das Urtheil Salomonis. Im Mittelpunkte sitzt Salomon auf erhohtem Throne, rechts und links von diesem eine Mauer, iber welcher 2 Personen sichtbar werden. Zur Rechten des Thrones die bose Mutter, davor knieend die gute Mutter, die Hande mit bittender Geberde ausgestreckt,ihr zu Fussen das todte Kind Zur Linken des Thrones ein Soldat mit dem lebenden Kinde,ein Schwert in der Hand,die Befehle Salomons erwartend. -Vorzigliche Arbeit. Deutschland. XVI Jahrh. Sammlung Spitzer. Durchm.4 cm.
+- 353 Urbino-Teller in Holzrahmung. Darstellung aus der griechischen Mythe:Prokris wird durch Kephalis ermordet. Ruckseitig mit Inschrift. Restaurirt. XVI. Jahrh. Durchm.24 cm.
+- 354 Grosse Urbino-Schussel,im Fond erhohtes Medaillon,mit Wappen. Mit reicher Malerei von Ornamenten, Grotesken,Kartuschen im Loggienstyl von vorziglicher Zeichnung und Farbentonung. Zweite Halfte des XVI. Jahrh. Durchm.45,5 cm.
+- 355 Dambrettstein, schwarzes Holz, eingesetzt Buchsbaumplattchen mit einer vorziglich geschnittenen weiblichen Profilbuste, auf Grund geschnitten die Zahlen VlI—1o R,auf der Rickseite Schild mit Monogramm V.L. und Jahreszahl 1556. Sehr gutes Stick. Durchm.4,5 cm.
+- 356 Grosser,silberner Siegelring mit Spuren von Vergoldung,angeblich der Ring des Kurfursten Johann Friedrich yon Sachsen, der ihn auf dem Zeigefinger der rechten Hand getragen haben soll, wie auf Lucas Kranachs lebensgrossem Bilde ersichtlich ist. Die Platte sechseckig, reich gravirt, in der Mitte mit einem selten grossen Turkis, von ovaler Form,in der Mitte mit Grat. XVI. Jahrh.
+- 357 Meissener Porzellanstatuette des Konigs August des Starken als Freimaurer; in Perruicke mit Zopf, Dreimaster, reich gesticktem Gewand und Schurzfell. Die Rechte halt eine Rolle, die Linke fasst nach den auf einem Postament liegenden Insignien. Der Sockel marmorirt, in Form eines Rechtecks mit geschweiften Seiten und abgeplatteten Ecken. Sehr schone Statuette,restaurirt. Hohe 30 cm.
+- 358 Grosser Garderobenschrank, Nussbaum mit gravirten Intarsien. Geradlinig,mit abgeplatteten und gekehlten Ecken. Das Gesims stark ausladend und kraftig profilirt. Pfosten,Schlagleiste und Intarsia von vorzuiglicher Zeichnung und Ausfuhrung. Sehr schoner Schrank Anfang XVIl.Jahrh.H.210,Br.220,Tf.80cm.
+- 359 Schreibbureau,Nussbaum,Louis XVI,bestehend aus Kommode,Zwischentheil mit Schreibplatte und Obertheil. Front und Seitenwande geschweift und reich eingelegt, theils geflechtartig, theils wurfelformig.In Platte und Thur des Obertheils Wurfel- und Prisma-Intarsien aus Elfenbein,Ebenholz und Nussbaum. Im Untertheil 3 Schubkasten mit Bronzebeschlag, im Obertheil eine Mittelthuir und je 5 Schubkasten zu beiden Seiten H. 210, Br. 150, Tf.75cm.
+- 360 Geschnitztes Buchsbaum-Medaillon,Mucius Scaevola. In der Mitte ein Altar mit lodernden Flammen. Mucius Scaevola mit dem Schwert umgirtet, halt die Hand in die Flamme, ihm gegeniber Porsenna,auf einen Schild gestitzt,eine bewundernde Geste machend. Brillante Schnitzerei. Deutschland,Ende XVI.Jahrh. Sammlung Spitzer. Durchm. 4,3 cm
+- 361 Desgleichen, Pauli Bekehrung. Zur Linken liegt Paulus auf der Erde.Ein Diener halt das davoneilende Pferd am Zugel fest.In den Wolken Gott Vater mit erhobener Rechten Hoch-Relief.Vorzigliche Schnitzerei.Deutschland XVI. Jahrh. Sammlung Spitzer. Durchm.4 cm.
+- 362 Flacon aus Cocosnuss geschnitzt. Mit Darstellungen in Hoch-Relief, theilweis ganz freistehend. Scenen aus den Befreiungskriegen,im Vordergrunde die Reiterfiguren Napoleons und seiner Generale, ebenfalls solche der verbindeten Preussen, Oesterreicher und Russen, reich staffrt mit Soldaten,Verwundeten,Todten,gestirzten Pferden und solchen Dingen,die ein Schlachtfeld charakterisiren. Brillant componirt und vorzuglich geschnitzt. Sehr interessantes Stick..Lange 12,5 cm.
+- 363 Taschenuhr mit Kette aus Blut-Jaspis mit Gold. Mit Steinen besetzt. Um den Rand des Gehauses eine Bordire mit fein ciselirten Goldornamenten. Die Kette zweigliedrig,in Form kleiner geschliffener Rauten mit Goldfassung. Von Geo Dutens,London.Das Werk intakt. Schones,eigenartiges und seltenes Stuck. Durchm. der Uhr 35 cm,Lg. der Kette 22 cm.
+- 364 Goldene Repetir-Taschenuhr, quatre couleurs,reich gravirt und ciselirt. Auf der Ruckseite drei Medaillons mit bunten Emailbildchen, Amoretten darstellend.Das Zifferblatt mit Steinen besetzt. Schones Stick. Bez Prend homme a Berlin. Durchm. 4 cm.
+- 365 Grosse ovale Palissy-Schissel,mit hohem Rande, dunkelbrauner Fond. In der Mitte eine Schlange und Fische, auf dem Rande Nattern,Frosche,Salamander,Epheu,Farren u. s.w. Sehr schones, interessantes Stick. XVI. Jahrh. Mit Sprung. Grosse 53 zu 40 cm.
+- 366 Emaillirte Schale von Kupfer,getriebene Arbeit,kreisrund von tellerartiger Form,blau und weiss mit hellblauen Schmelzfarbentupfen und mit Gold. Ruckseite blauer Fond mit Goldsternen. Venezianische Arbeit. Sehr schones,der besten Zeit angehoriges Stick. Anfang XVI. Jahrh.Durchm.28,5 cm.
+- 367 Chatelaine, Gold,emaillirt. Rococo,bestehend aus Bugel mit vier medaillonartigen Gliedern, zwei Langskettchen und zwei Breloques. Auf den Gliedern farbig gemalte Email-Miniaturen, Email.Als Breloques emaillirter Uhrschlissel und Herz mit Amoretten. Lange 13,5 cm.
+- 368 Dose aus Schildpatt,rund, mit eingelegtem Golddecor, deux couleurs. Die Rander mit gravirten Spitzenbordiren und zierlichen fein ciselirten Blattwulsten.XVIll. Jahrh.H. 2,5, Durchm. 6 cm. Stick von grosser Schonheit, tadellos erhalten.
+- 369 Garnitur von drei grossen japanischen Vasen, eine grosse Deckelvase von bauchiger Form und zwei sechsseitige Flaschenvasen mit Henkeln. Kobaltblauer Grund mit reichem Golddecor, schonen Landschaften mit Hausern, figurlichen Genrescenen,Blumen etc. Prachtsticke ihrer Art.H. 45 und 42 cm.
+- 370 Franzosische Fayence-Buste,Heinrich IV.,bunt,bekleidet mit einem Kurass,uiber welchem eine grine Scharpe von der linken Schulter nach der rechten Hufte geht Schule des Bernard Palissy.Anfang XVIl. Jahrh Sammlung Mme. d'Yvon. Hohe 14 cm.
+- 371 Ein Paar Wedgwood-Vasen in Urnenform, mit sehr fein gearbeiteten Reliefs,Kinderscenen, Thieren, Schmetterlingen, Ornament- und Laubfriesen, auf lichtblauem Grunde. Prachtstucke ihrer Art. Hohe 26 cm.
+- 372 Grosse Pendule Louis XV. von Montjoye a Paris.In mit bunten Blumen auf lila Fond schon bemaltem Holzgehause,welches mit vergoldeten Bronzeleisten und Ornamenten sehr reich decorirt istZifferblatt aus Email mit romischen Stundenziffern. Glockenschlag. Hohe 75 cm.
+- 373 Raerener Flasche, blau-grau,in Form eines Diskus, mit zahnschnittartigem Decor; an den Rundungen tauartig gedrehte,durchbrochene Wulste. An der Stirnseite ein quadratisches Feld, mit Doppelmedaillon eines Mannes und einer Frau und der Jahreszahl 1595. Etwas ladirt.Collection Spitzer. Hohe 22 cm.
+- 374 Silberner Altar, vergoldet. Der heilige Christoph, das Jesuskind auf den Schultern tragend,unter einem gothischen,altarformigem Aufbau, welcher auf einem vielseitigen, geschweiften Postament steht. Zu den Seiten des Altars zwei gefligelte Engel mit Passionswerkzeugen, vorn an der Basis ein Engel mit einem Schriftband in den Handen. In der Basis weisse und farbige Glasperlen. Vorzugliche deutsche oder flamische Arbeit aus dem Ende des XVI. oder Anfang des XVil. Jahrhunderts. Collection Spitzer. H. 10,5, Durchm. des Sockels:5,4 zu 4,6 cm. Gew.95g.
+- 375 Kartuschen-Etui,von halbcylindrischer Form, Polysanderholz mit Ornamenten aus Hirschhorn inkrustirt und gravirt. Die Montirung aus Eisen mit Verzierungen in feinster Aetzmalerei. Der Deckel schildartig gebuckelt, zeigt das kursachsische Wappen.Vorzugliche deutsche Arbeit des XV. Jahrhunderts. Sammlung Spitzer. Hohe 12,5 cm.
+- 376 Desgleichen, von halbcylindrischer Form, von Holz mit Sammetuberzug. Ganz in Eisen montirt,mit hervorragend schoner Aetzmalerei. Deutsche Arbeit des XVI. Jahrhunderts. Sammlung Spitzer.Hohe 13,5 cm.
+- 377 Urbino-Teller mit Darstellung aus der griechischen Mythe:Deukalion und Pyrrha werfen Steine rickwarts (aus denen Zeus Menschen erschuf) Im Mittelpunkte nach rickwarts die Arche Auf dem Boden bezeichnet 1534. Inschrift,bezugnehmend auf die Darstellung und ,Urbino".Durchm.27 cm.
+- 378 Urbino-Schale, rund,in der Mitte gehoht. Darstellung: Die von Apollo verfolgte Daphne wird in einen Lorbeerbaum verwandelt.Im Mittelpunkte der Flussgott Peneios. Brillant gemalt und von vorziglichem Schmelz. Durchm. 17 cm. xVI Jahrh.
+- 379 Fayence-Krug, schief gebuckelt,mit geflochtenem Henkel und Zinnmontirung. Auf der Leibung mehrfarbige Darstellung der Hochzeit von Cana,an den Seiten Streublumen. Vorzigliche Malerei. Wahrscheinlich Nirnberger Arbeit. XVIll. Jahrh. Sammlung Buchner. Hohe 32 cm.
+- 380 Grosse Fayence-Deckel-Vase,birnenformig, stark gerippt, achtseitig. Mit blau-gelb-griner Blumenmalerei,in Delfter Art. Wahrscheinlich suiddeutsche Arbeit. Sehr schones interessantes Stick.H. 51,Durchm.21 cm.
+- 381 Ein Paar gothische fliegende Engel, polychrom, aus Stuckmasse. Mit grossen Flugeln und langen,fliegenden,vergoldeten Alben. Grosse 30 cm.
+- 382 Gothisches geschnitztes Holzrelief,polychrom.Himmelfahrt der Maria egyptiaca, von vier geflugelten Engeln in langen Alben umgeben. Sehr gute Arbeit aus der Zeit. H. 80, Br.60 cm.
+- 383 Silberner vergoldeter Becher, getrieben.Auf der breiten Fussplatte lateinische Inschrift. Inmitten des Schaftes starker Knopf mit sich verjingenden Wulsten, von der Mitte ausgehend. Am Kelch ebenfalls fache Wulste,Halbrundstabe. Die Inschrift besagt, dass Samuel Matthias Teucher den Becher im Jahre 1609 der Kirche zu Jena geschenkt habe. H.15 cm, Gew 155g.
+- 384 Ein Paar Meissener Porzellan-Korbchen, bunt und mit Gold, von ovaler Form. Die Leibung geschweift und geflechtartig behandelt.Die Henkel aufrecht,mit mannlichen und weiblichen Mascarons, welche Blumen und Frichte im Haar tragen. Innen mit bunten Streublimchen. H.7,Durchm. 18 zu 12 cm. Unbedeutende Lasuren.
+- 386 Desgleichen, oval und geschweift,in bronzevergoldeter Montirung Mit schonem,farbigem Blumendekor.H.4,3,Br.7,Tf.5 cm. Sammlung Buchner.
+- 385 Porzellandose, viereckig.mit abgeschragten Ecken,reliefrtem Ornament und farbigem Blumendekor.Die Montirung kupfervergoldet. Auf der Innenseite des Deckels Knabe mit Weinglas. H. 4, Br. 8, Tf. 6 cm. Sammlung Buchner.
+- 387 Dose,vieux laque, viereckig,mit kupfervergoldeter Montirung. Auf dem Deckel fasanartiger Vogel,umgeben von Blumchen und Blattern,eingelegt in Perlmutter und Metall,analog im Dekor die Seitenwande und der Boden An den Ecken Metall-Mosaik.Im Innern durchaus vergoldet. H. 3,3, Lg.8,5,Tf. 6 cm.
+- 388 Porzellandose, langlich oval, mit gravirtem Silberbeschlag, welcher innen vergoldet ist. Dekor in Roth und Gold mit figuralen Malereien im Style Bouchers.Im Deckel Liebesszene. H. 4,3, Durchm.9,5 zu 5cm. Sammlung Buchner.
+- 390 Goldener Ring mit Rosette aus 22 geschliffenen Diamanten in kreisformiger Anordnung.
+- 389 Anhanger aus Silber mit Email und geschliffenen Steinen. Mit Blumen, Gehangen ete. verziert. Oben ein Engelskopfchen. Grosse 7 cm.
+- 391 Anhanger in Form einer Kapsel, mit fein ciselirtem und vergoldetem Rande. Die runden Flachen zeigen silberne Niello -Plattchen mit Genredarstellung und Ornament in Form des griechischen Kreuzes mit Palmetten. Alte Niello-Arbeit. Durchm. 3 cm.
+- 392 kleinen Defekten. Hohe 37 cm.
+- 393 Hausaltarchen mit Crucifix. Aus braunem Holz, die Figuren aus Bronze mit Spuren von Vergoldung. Zu Fissen des Kreuzes die Figuren von Maria und Johannes, im Sockel ein Relief, darstellend die Opferung Isaaks. Zu den Seiten Pilaster. XVI.XVll. Jahrh. Hohe 39 cm.
+- 394 Meissener Porzellanschissel, bunt und mit Gold. Der Rand mit Goldkante und blau abgesetzt, mit drei Medaillons in reliefirter und vergoldeter Rococo-Rahmung mit miniaturartig ausgefuhrten Elblandschaften mit Staffage. Im Fond Frichte. Mit Sprung. Durchm. 24 cm.
+- 395 Limoge -Bild. Portrait der Prinzessin Autoinette von Bourbon, en grisaille auf Goldgrund. Mit schwarzem Holzrahmen.H.16,Br.13 cm.
+- 396 Desgleichen,en grisaille mit Gold gehoht. Jager im mittelalterlichen Kostim mit Beute von der Jagd heimkehrend. H.15,5,Br.12 cm.
+- 397 Grosses Meissener Porzellan-Postament, rechtwinkelig, mit ausgeschweiften Eeken, bunt und mit Gold. Profilirt. geflechtartig reliefirt und mit Streublumen bemalt.In den Ecken je des Grafen Brihl,kartuschenartig aufgesetzt. H. 9,5,Lg.46,Br.26 cm.
+- 398 Meissener Porzellan-Sauciere mit Untersatzschale,Deckel und Loffel,oval mit geschweiftem
+- 399 Meissener Porzellan-Gruppe, bunt, die Erde. Allegorische weibliche Figur mit Fullhorn, aus welchem Blumen hervorquellen. Zur Seite ein Globus,zwei Putti und ein Huhn. H. 12,
+- Durchm.am Sockel 16 zu 9 cm. Restaurirt.
+- Porzellan-Gruppe, bunt, Flussgott, auf eine umgestirzte Vase, welcher Wasser entstromt, sich stitzend,in einer Hand ein Ruder, in der anderen ein Fullhorn haltend. H. 14,Durchm.
+- 400 18 zu 9,5 cm. Marke B. Restaurirt.
+- 401 ein dreitheiliger Sockel, auf welchem Putti, ein Knabe und ein Madchen mit Blumen und Blumenkorbchen in der Hand stehen,in der Mitte iberragt von einem Putto mit Spaten
+- und Blumenstrauss. Sehr anmuthige Gruppe. Hohe 29 cm
+- 402 Desgleichen. Die Weinprobe.Reizende bunte Gruppe von drei Figirchen Ein junges Madchen fillt eine Karaffe mit Wein, am Fass stehend, ein junger Mann sitzt dabei und reicht ihr einen Becher zum Fullen.Weiter zurick,auf erhohtem Postament, ein anderer mit Weintrauben. H.21,Durchm.13 cm.
+- Bronzestatuette, Hercules, Vollfigur, die Linke gegen die Hufte haltend,mit der Rechten die Keule umfassend. Italienische Arbeit des XVIl. Jahrh. mit sehr schoner Patina. Auf
+- 403 schwarz gebeiztem Sockel. Hohe 26 cm. Sammlung Riedinger.
+- 404
+- Desgleichen. Weiblicher Genius. Vollfigur auf modernem, mit Rosette verziertem Fusse. Sehr schon modellirt. XVIll. Jahrh. Hohe 11,5 cm. Sammlung Riedinger.
+- Bronzebuste einer jugendlichen weiblichen Figur. Italienische Renaissance-Arbeit. Hohe
+- 405 9,5 cm.Sammlung Riedinger.
+- Bronzestatuette.Leuchtertrager. Deutscher Landsknecht in reich verziertem Wams und Mutze. Die Verzierungen eingeschnitten. Sehr schon modellirter Bronzeguss auf viereckigem reich profilirtem,roth und grauem Marmorsockel. XVll. Jahrh. Hohe ohne Sockel
+- 406 21 cm. Sammlung Riedinger.
+- Holzschnitzerei in Hochrelief. Darstellung der Begegnung von Maria und Magdalena,im Mittelpunkte einer Landschaft:rechts und links Baumgruppen,im Hintergrunde Jerusalem. Vorzigliche Schnitzerei.Die Figuren fast vollrund und von feiner Charakteristik.XVIl.
+- 407 Jahrhundert. H. 16,Br. 13,5 cm. In geflammtem Holzrahmen.
+- 408 Elfenbeinschnitzerei.Figurliche Reliefs, pyramidenformig aufsteigend und abgestuft. In der Mitte Maria mit dem Jesusknaben,iber welche Seraphim eine Krone halten,rechts ein Heiliger mit Schriftrolle,links ein Bischof mit Krummstab,an den Seiten je ein Huter mit Schild und Lanze. Vorzugliche Schnitzerei des XIV.Jahrh. In geflammtem Holzrahmen. H.31,Br.22cm.
+- 409
+- Silberner Humpendeckel mit Henkelose und Knopf in Form eines Lowen. Im Deckel eingelassen eine Denkminze auf eine Furstin Sybilla Ursula (Mitte d. XVIl. Jahrh.) Auf dem Avers fache Reliefdarstellung, versinnbildlichend die Umschrift:Qui vicerit sic vestietur und einer kurzen vita der Furstin.Mit Spuren von Vergoldung. Der Rand zeigt schone Treibarbeit. Sehr interessantes Stuck.Durchm.10,5 cm Gew.272 g.
+- Desgleichen,mit rundem Knopf. Im Deckelfelde reich verschlungenes Monogramm mit der Jahreszahl1691.
+- 410 Durchm.12 cm.
+- Bronzelampe,antikisirend, einen Fratzenkopf darstellend, welcher in Lilienform auslauft,
+- 411 mit sehr schoner Patina.XVIl. Jahrh. Lg.18,Br.6 cm. Sammlung Riedinger.
+- 412 Bronze-Halbfigur, Abundantia. Sehr schon modellirte Arbeit des XVll. Jahrh. H. 28,
+- Br.17cm. Sammlung Riedinger.
+- 413 Zwei Buchsbaumschnitzereien,in kraftiger Relieftraktirung. Satyr und Ziege. In gefammtem Holzrahmen. Gr.16 zu 11,5 cm.Gegenstucke.
+- Geschnitzte Kokosnuss auf 4 Fussen und mit Deckel. Auf der Leibung 3 ovale Medaillons mit Jagddarstellungen ete.Der Deckel in Gestalt einer Maske mit eingesetzten smaragdfarbigen Augen. Als Bekronung eine kleine silberne Statuette.Die Fusse in Form von
+- 414 Delphinen, Silber. Hohe 2O cm. Russland. XVIII. Jahrh.
+- 415 Meissener Porzellankrug mit Henkel und silbervergoldetem Deckel. Der Krug auf der Stirnseite mit Medaillon in violett bemalt.Allegorische Darstellung mit Landschaft und Spruch:Recte tenentis merces. Darunter in einem Lorbeerkranze die Konigskrone.Die Rahmung und Randbordure im Styl Louis XVI. bunt und mit Gold bemait.Der Deckel aus dem XVil. Jahrh.; gravirt,mit einer Muinze,beziehend auf den Bischof Meinhardt von Paderborn (1663).Schones StuickHohe 17 cm.
+- 416 Modell eines Altars im Jesuitenstyl, von reichem architektonischen Aufbau mit vielen kleinen Rundsaulen als Trager eines grossen,halbbogenformigen Gesimses und geschmuckt mit zahlreichen kleinen Heiligen- und Engelsfiguren, Darstellungen aus der Passionszeit Christi etc. VortrefficheArbeit von schonem,decorativemAufbau,polychromirt und vergoldet,XlJahrh. Hohe 71 cm. Sammlung Liebermann.
+- 417 Zwei ovale Bronzehandhaben,geschweift,von Kommoden,an den Enden in Volutenform, die mit Akanthusblattern verziert,auslaufend und von einem weiblichen Kopf zwischen Rankenbindeln durchsetzt. Louis XIV.Lg.6,5 und 4,5,Br.10und8cm. Sammlung Riedinger.
+- 418 Taschenbugel, vergoldet, von ovaler Form, mit weiter Ausschweifung, nach oben in zwei senkrecht zu einem Querbalken stehenden Schenkeln endigend. Letztere reich proflirt. Die Flachen reich verziert mit schon verschlungenem, gravirten Rankenwerk. Brillantes Stick von elegantester Durchfihrung. XVI. Jahrh. Lg.20, Br. 22,5 cm. Sammlung Riedinger.
+- 419
+- Silberne Schale, Louis XVI., getrieben, oval. Im Fond Blumen und Blattfestons. Der Rand geperlt. Gew. 65 g. Durchm. 16 zu 11 cm.
+- 420 Silberner Loffel,mit birnenformiger Muschel, der Griff gewunden und durchbrochen,an der Muschel mit Mascaron.Am Griffende der Erzengel Gabriel mit Schwert und Waage in ganzer Figur.- Sehr schones Stuck mit Beschaumarke und Monogramm M. K. XVI.Jahrh. Gew.48 g. Lg. 18,5 cm.
+- 421 Loffel aus Muschelschale in Silber montirt,fein ciselirt und mit kleinem Mascaron. Lange 15 cm.
+- 422 Farben, gelb,blau und grin Hohe31,5 cm.
+- Zwei Apothekergefasse, italienisch,mit Malerei von Blumen und Blattranken in sehr lebhaften An der Stirnseite Kartusche mit Darstellung eines Heiligen.
+- Rococo-Porzellanvase, bunt und mit Gold, mit mannlichen und weiblichen Mascarons,und Delphinen als Henkel. An der Stirnseite 2 in roth gemalte Putten mit Weintrauben in virtuoser Ausfihrung,auf der Rickseite Vogel. Am oberen Rande aufgelegte Blumen.
+- 423 Hohe 24 cm. Sehr feines Stick,aber defect.
+- 424 Bronze-Morser mit Keule. Gehenkelt,in Form von Delphinen. Der Mantel profilirt, an der Stirnseite Wappen und Band mit den Buchstaben S. E.Unterhalb der Henkel ein friesartiges Ornamentband mit schonen geschnittenen Renaissance-OrnamentenAuf der Rickseite die Jahreszahl 1553, reliefirt. Sehr schones Exemplar. H 18,Durchm.16 cm.
+- haltend. Auf kleinem Granitsockel. XVIll. Jahrh. Hohe 14,5 cm.
+- 425 Statuette in geschnitzter Koralle, der Erzengel Michael, den Teufel besiegend, in der Linken den Schild mit dem Zeichen In hoc signo,in der erhobenen Rechten das Schwert
+- 426
+- Zwei Spiegel von rechteckiger Form mit Rahmen aus braun-rothem Marmor mit schlanken Saulen und vergoldeten Perlleisten. XVIll. Jahrh. H. 60,Br. 40 cm.
+- 427 Ein Paar holzgeschnitzte Barock-Konsolen, vergoldet und bemalt. Engelskopfe mit Flugeln in Voluten. H.55,Br. 76 cm.
+- 428 Rauchmantel mit gelbseidenem Damastfond mit farbigen Blumenstraussen, die gleichmassig uiber die Flache vertheilt sind. Rand und Kappe kirschroth mit breiter Silberborduire. Louis XV.
+- 429 Ein Paar Ohrschrauben, Rubin mit Diamanten (Rosen).
+- 430 Ein Paar Desgleichen,rothe Glasperle mit Diamantsplittern.
+- 431 Eine Partie Smaragden.
+- 432 Eine Partie helle und dunkle Saphire.
+- 433 Sieben Stuick Saphire.
+- 434 Eine Sammlung von Perlschalen, 3 grosse und 359 kleine.
+- 435
+- Goldenes Armband mit Saphir und 12 Diamanten.
+- 436 Zuckerschale aus Opalglas auf saulenformigem Bronzefuss mit dreitheiliger Basis, fein ornamentirt und theilweis vergoldet. Auf dem palmettenformig gezackten Rande zwei bronzevergoldete Taubchen. Die Schale mit Sprung. Hohe 22 cm. Zeit Louis Philipp.
+- 437
+- Bronzeleuchter,mannliche Statuette,mit ausgebreiteten Armen die Tillen haltend. Auf einem ornamentirten Dreifuss stehend.Im Style des XVI.Jahrhunderts.Hohe 38 cm.
+- 438 Suppenloffel mit Muschel aus Perlmutter und geschnitztem Griff aus Bein,in Silber montirt und fein ciselirt. Auf der Muschel Gravirung von Putten, Fischen etc. Schones Stick. XVIll. Jahrh. Lange 38 cm.
+- 439 Grosser Zinn-Willkommen, mit breitem Fuss und hohem Deckel,kraftig,wulstformig profilirt. Auf dem Deckel Statuette. Auf der Leibung Namen und Jahreszahl 1703 eingravirt. Hohe 57 cm.
+- 440 Kreussener Krug mit Zinndeckel und -Fuss, Bandkrug. An der Stirnseite in Flachrelief mannlihes und weibliches Portrait. Auf dem Deckel Monogramm mit Jahreszahl 1705.
+- 441
+- Schon in den Farben.Hohe 20 cm.
+- Desgleichen, Bienenkorb,mit Zinndeckel Hohe 13 cm. Schones Exemplar.
+- 442 Deutsches Kartenspiel, 35 Blatt (fehlt Ecker 6). Die Figurenkarten zeigen in fein colorirtem Stich die Fursten und Helden der Freiheitskriege in ganzen Figuren, die Farbenkarten Kriegsscenen sowie die Namen berihmter Schlachten.Herz Daus mit dem Berliner Brandenburger Thor und der Inschrift:Wieder erkaempft.
+- 443 Zwei Desgleichen.Das eine complet in 32 Blatt. Das andere 33 statt 36 Blatt mit historischen Personlichkeiten und geschichtlichen Scenen.
+- Holzgeschnitztes Medaillon,munzartig, auf beiden Seiten religiose Darstellungen, Relief auf
+- 444 rosa Grund. Russische Arbeit In Holzetui.Durchm.4,2 cm.
+- 445 Reliquienkastchen, Cedernholz,mit Intarsien aus Ebenholz und Perlmutter. Im Innern in 21 Abtheilungen Reliquien von den Grabern und Wohnstatten bekannter Heiliger etc.,im Deckel die Namensangabe resp. Herkunft. Grosse des Kastchens 9,2 zu 4,5, H. 2,2 cm.
+- 446 Gothische Holzschnitzerei, polychrom. Kronung der Maria. Gruppe von drei Figuren.
+- Hohe 57 cm.
+- 447 Holzstatuette, Christus,in langem Gewande,mit der Weltkugel in der Hand,mit erhobener Rechten. Nischenfigur. Eichenholz.Hohe 58 cm.
+- 448 Desgleichen,Mars,braun gebeiztes Fichtenholz.
+- 449
+- 450
+- Gute Arbeit.Auf Sockel.Hohe 56 cm.
+- Desgleichen, Maria,betend. Art des Veit Stoss. Hohe 67 cm.
+- Kriegsbeil mit convexer Schneide und eingehauener Verzierung. Auf langem, geschweiftem Holzstiel.
+- 451 Alte Windbuchse mit 8 eckigem Lauf mit Messingkorn, Visir, Nussbaum-Schaft und Messingkugel unter der Zundkammer.
+- 452-54 Chassepot-Gewehr, 2 Bajonettspitzen mit Hacken, alter Reitersabel,2 Keulen aus Knochen prahistorischer Thiere.
+- 455 Gothisches Holzrelief, polychrom. Christus am Kreuz, zu den beiden Seiten Maria und Magdalena betend Unter einem Spitzbogen mit vergoldeten Ranken. In kastenartigem Rahmen. H. 82,Br.52 cm.
+- 456 Holzgeschnitzte Gruppe, polychrom. Christus und Thomas, der die Wundmale berihrt. Hohe 130 cm.
+- 457 Holzstatuette, vergoldet. Heiliger mit Buch in der Hand, predigend. Hohe 130 cm. Aus einer schlesischen Kirche stammend.
+- 458 Desgleichen, weinende Maria. Hohe 125 cm.
+- 459 Sechs Wedgwood-Plattchen verschiedener Grosse, und eine ebensolche Busennadel in Goldfassung.
+- 460 Sechs desgleichen, rund.
+- 461 62 Ein Paar Fayence-Vasen mit bunten, aufgelegten Blumenzweigen. Mit Marke G Hohe 15 cm.. und Weihwasserbecken, Zinn, mit Reliefdarstellung von Joseph und dem Jesuskinde. Gr.13cm.
+- 463 Zwei silberne Tauf-Munzen, 7 verschiedene silberne kleine Munzen, 2 grosse yersilberte Munzen, mit Proflbildnissen Konig Philipps von Spanien und der Konigin Maria von England.
+- 464 Delfter Schale, blauweiss bemalt, Putto mit Ruder auf dem Rande einer Muschel sitzend. H.19,Br.22cm.
+- 465-67 Drei Relief-Medaillon-Portraits aus Muschel geschnitzt. Mars und Venus - Raffael und Fornarina  Shakspeare. Auf rothem Sammet in schwarzem Holzrahmen. Gr.5 cm.
+- 468-72 Vier Miniaturen. Junge Dame im Boudoir mit ihrem Katzchen spielend. Oval. H.12,5, Br.5,5cm.Brustbild einer Firstin,in Oel ausgefihrt,in tergo ein Wappen.—Desgleichen, Emailmalerei. 一 Mannliches Brustbild. in eine Broche gefasst. Die drei letzten H. 2,8, Br.2,3cm circa. Ferner lo Blatt Stiche und Farbendrucke von D Chodowiecki u. A. Dabei auch ein seltenes Portrait von Blicher. 4 u. 8.
+- 473 74 Drei Emailloffel,bunte Blumen auf blauem Grunde; bronzevergoldete und ciselirte Tischschraube, das Obertheil in Form eines Delphins.
+- 475 Convolut: Gurtelschnalle, vergoldete Bronze mit Steinen,2 Haarnadeln mit pierres de Strass, Gurtelschnalle aus polirtem Stahl, Stockgriff, Bronze mit blauem und weissem Email, 2 Flacons, geschliffenes Glas,in Etui, das eine aus Schlangenhaut. Zusammen 7 Stick.
+<!-- image -->
+
+373
+
+## IV. Auctionstag:
+
+## Freitag,den 27. November 1896,
+
+von 1o Uhr ab.
+
+- 476 Necessaire aus Silber mit Ueberzug aus Schlangenhaut. Complette Einrichtung, zum Theil
+- Silber.Gr.9 cm.
+- 477 Desgleichen,mit vergoldetem Beschlag,ahnlich dem Vorigen und in Sehlangenhaut-Etui.
+- 479 Deutsche Laute,im Innern bezeichnet: Georg Philipp Althenn, Lauten-und Geigenmacher in Frankfurth am Mayn 1749. Lange 79 cm.
+- 478 Desgleichen, mit Silberbeschlag, mit nicht ganz completter Einrichtung,welche z. T.aus Silber besteht. Das Etui mit grinem Leder-Ueberzug. Gr. 8,5 cm.
+- 480 Relief-Portrait eines Mannes,Profl nach rechts, aus Alabaster-Gyps,Marmor-Imitation.In viereckigem breiten Goldrahmen.Durchm.23 cm.
+- 481 Porzellanplatte, rechteckig, mit Darstellung einer Dachsjagd, sign. J. B. 1888. Gr. 32 zu 25cm.
+- 482 Lederne Tasche mit Stahlbugel,welcher mit 3 Lowenmasken besetzt ist. Nurnberg XVI. Jahrh. Interessantes Stuick Gr.19 zu 22 cm.
+- 483 Porzellangruppe, bunt, Kavalier mit Dame, welche die Laute schlagt. Hohe 16,5 cm Mit Marke Ludwigsburg.
+- 484 Desgleichen,Dame mit Fruchtkorb und Papagei, dahinter ein Harlequin mit schwarzer Maske in der Hand. Mit Marke Ludwigsburg.Hohe 16 cm.
+- 485 Franzosische Bronzestatuette,Phryne. Auf schwarzem runden Steinsockel. Ausserordentlich grazios dargestellt. Hohe 30 cm.
+- 486 Desgleichen, Reine des fleurs. Gegenstick zum Vorigen. Hohe 30 cm.
+- 487
+- Zwei holzgeschnitzte weibliche Seraphim-Kopfe, Lebensgrosse, vergoldet. Gut geschnitzt.
+- 488 Bronzeschreibzeug, Rococo,vergoldet, mit dunkel patinirter Amorette. H.14,Br.28 cm. Franzosische Arbeit.
+- 489 Ein Paar grosse Blaker, Messing,rechtwinkelig, mit abgeschragten Ecken und ebensolcher Bekronung. Reich ornamentirt. Mit 3 Armen. Hohe 70 cm.
+- 490 Rococo-Spiegel, dreitheilig,holzgeschnitzt und vergoldet.Im Mittelfelde das in Oel gemalte Portrait einer Dame. Hohe 79 cm.
+- 491 Berliner Porzellanvase,mit Deckel, weiss,Empire, Urnenform. Als Henkel Widderkopfe mit Reliefverzierungen,Weinlaub. Als Deckelknopf ein Tannenzapfen.Hohe 39 cm.
+- 492 Zwei Empire-Marmorvasen, mit Deckel und eckigen Henkeln, Urnenform. Hohe 27,5 cm.
+- 493 Fayence-Schale, mit Henkeln und Fuss, oval und spitz auslaufend,mit Blumen bunt bemalt und violettem Rande, Hohe 9 cm,und Helmkanne, von ahnlichem Decor. Hohe 20,5 cm. Proskau?
+- 494 Luntenspiess,vierkantig, mit runder Tille Die Luntenhalter mit den Schrauben ornamental ausgeschweift. Mit runder Tille, langem, braunem Holzschaft und Eisenschuh. Anfang XVI Jahrh.
+- 495 Helmbarte mit mondsichelformigem, durchbrochenem und geschweiftem Beil, abwarts gebogenem Hacken und sch wertartigem Spiess. An der Tille ein aufwarts gebogener Hacken. XVIl. Jahrh.
+- 496 Stuck einer Wandverkleidung, aus Seidenbrokat, blauer Fond mit goldenem (etwas verblichenem) Blumeninuster. Louis XV. Lg. 350, Br.85 cm.
+- 497 Rand eines Rauchmantels, gruiner Seidenrips mit Bordire aus grossen,bunten,seidengestickten Blumen mit Gold und Silber.Um den Rand Goldspitzenbordire Louis XIV. Prachtiges Stuck.Lg.290,Br.55 cm.
+- 498 Wandteppich, roth-brauner Grund mit gelber Musterung. Blatt-Arabesken mit Bluthen. XVIl. Jahrh.Gr 230 zu 260 cm.Interessantes Stick.
+- 499 Grosse Limoge-Piatte, viereckig, auf blauem Fond, Malerei en grisaille. Jn der Mitte Musikstillleben, umrahmt von einem Fries von Blattern und Frichten. Schone moderne Arbeit. Grosse 35 zu 29 cm.
+- 500 Desgleichen,ahnlich der Vorigen.
+- 501 Ein Coupon Spitze Point d'Alencon, ca.4 m lang, aus mehreren Stuicken bestehend. Br 9 cm. XVIII. Jahrh.
+- 502 Stammbuch von Siegfried von Leiniger. Mit 71 kolorirten,mit Gold und Silber gehohten, heraldisch interessanten Wappen sowie 7 gemalten Kostimfiguren,Professoren,Dekane der Universitat Padua ete Enthalt zahlreiche Inschriften bedeutender Manner aus den Jahren 1596-1607,der Universitatsstudienzeit des Siegfried von Leiniger aus dem niederbairischen Geschlecht von Leiniger.In Hlbschwbd. Kl. 8.
+- 503 Email-Bonbonniere, rund, die Montirung in gravirter Bronze.Auf blauem Fond RankenOrnament in Weiss mit rother Schattirung, schwarz konturirt. In der Mitte ein geshliffener Tafelstein in Silber gefasst.XVIll. Jahrh. Sammlung Felix. Durchm 7 cm.
+- 504 Gefass aus Berg-Krystall, in Form eines liegenden, grotesken Fisches, dessen geoffneter Rachen die Mundung bildet. Shon geschliffen und reich gravirt;in silbervergoldeter Montirung und auf ebensolchem neunseitigen Fuss mit breiter Platte stehend. Prachtvolles, seltenes Stick,gesprungen. XVlll. Jahrh. H. 22, Lg.38 cm.
+- 505 Silbervergoldeter Abendmahikelch, glatte Form, mit sechpassformigem Fuss,an diesem eine lateinische Inschrift mit Jahreszahl 1704. H. 21, Durchm. am Rande 11 cm, Gew. 380 g.
+- 506 Sevres-Porzellan-Ober- und Untertasse, glatte cylindrische Form mit Henkel, Fond bleu royal mit gravirter Goldreliefirung und bunter Malerei auf weissem Fond;exotische Vogel. Von vorziglieher kinstlerischer Ausfuihrung. Mit Marke (1783).
+- 507 Becherglas mit Deckel,von konischer Form.Auf der Leibung 4 Medaillons mit allegorischen Darstellungen und Spruchband mit Freundschaftsspruch in Mattschliff. Zwischen den Medaillons reichstes Rankenornament.Am Fuss Goldarabesken, der Boden aus Rubinglas mit Goldmalerei:Hirschjagd. Der Deckel analog bemalt. H. 8, Durchm. 6,3 cm.
+- 508 Grosser Meissener Porzellan-Theekessel mit Untersatz, bunt und mit Gold. Letzterer ist dreitheilig, Baumwurzeln darstellend,um welche sich Blumenranken und Zweige mit Frichten, Erdbeeren,Citronen etc. schlingen. Eine Seite geoffnet, auf dem Herde der Spiritusnapf. Der Kessel ist rund, mit langem Ausgussrohr und beweglichem Henkel, der in reich ciselirter vergoldeter Bronze montirt ist.Auf der Leibung Stillleben von Frichten und Blumen in schonster Ausfihrung. Als Deckelknopf eine Citrone.Prachtvolles Stick. Gesammthohe 26 cm.
+- 509 Pulverhorn aus Hirschhorn geschnitzt,an der Basis doppelt gegabelt. Die Schnitzerei stellt Christus am Kreuz dar, rechts ein Mann,knieend und betend,im Kostim des XVI. Jahrh., links eine Kirche mit zwei Thurmen und Stadtmauer,rechts und links von der Darstellung zwei Felder mit Laubranken. Verschluss und Montirung aus Eisen.Deutschland, XVI. Jahrh. Sammlung Spitzer.Hohe 25 cm.
+- 510 Achtseitiges Kastchen, geradlinig mit facettirtem Deckel, aus Carton, mit Ueberzug aus rothem,violettem und marmorirtem Leder,welches feine,zierliche,gepresste Goldornamente zeigt. Reizende Arbeit.Italien,Anfang XVll. Jahrh.Sammlung Spitzer. H.8, Durchm.11,5 cm.
+- 511 Miniaturbuste aus Kehlheimer Stein,Kopf eines romischen Imperators. Virtuos geschnitten. Auf kleinem Palmetten-Sockel, welcher zierlich geschnitzt ist. XVll. Jahrhundert. Ganze Grosse 6 cm.
+- 512 Ovales Relief-Medaillon aus Kehlheimer Stein, en face Portrait einer Frau.Die Kleidung mit Schmuck, welcher in Silber eingelegt und fein ciselirt ist. Vorzugliche schone Arbeit aus dem Ausgang des XVII. Jahrh.Augsburg. Gr.6,5zu 4,8cm.
+- 513 Grosser Pfeifenkopf aus Fadenglas, Venedig, XVI. Jahrh.; gebogen und nach unten sich verjungend. Die Oesen, Ringe und der Henkel aus Glas. Deckel und Zwinge aus Silber und gravirt; in ersterem ein Wappen mit dem Namen Georg Hartwich Tobling. Sehr originelles, schones Stuck, restaurirt Collection Magniac, London. Lg. 44, Durchmesser 5,5 cm.
+- 514 Schmuckschale in Gestalt eines auf einer Schale stehenden Hirsches, in Silberfiligran ausgefuhrt. Auf dem Rucken ein Deckel,der einen Behalter schliesst.Die ovale Schale durchbrochen und reich ornamentirt Auf vier geschweiften Fussen.H. 18,Durchm.der Schale 21 zu 15 cm, Gew. 865 g.
+- 515 Sechs silbervergoldete Loffel und sechs ebensolche Gabeln, im Style des XVI. Jahrh. Mit Maskarons am Griffende und am Ansatz. Gewicht 787 g.
+- 516 Grosses Fayence-Schreibzeug, Urbino, von rechteckiger Form, getragen von sechs Fussen, die durch Voluten gebildet werden.Auf dem Rande der Platte sitzen acht Puttengestalten, die Eckfiguren sitzen auf Adlern. An den Langsseiten sind in der Mitte Kartuschen angebracht,mit Inschriften religiosen Inhalts. Die Kartuschen sind an einer Wulst befestigt, sich Schubladen mit Fachern. Der Aufsatz mit den Behaltern fuir Tinte und Sand ist eine monumentale Gruppe: Orpheus, durch sein Spiel die Thiere um sich versammelnd. Eigenartiges,sehr schones Stick,aus der Werkstatt Patanazzi stammend. Ende XVl.Jahrh. H.46,Br 46,Tf.31cm. Sammlung Mme D'Yvon.
+- 517 Louis xVi. Facher mit durchbrochen gearbeitetem Elfenbeingestell und Goldeinfassung.Sehr reich gravirt und ornamentirt. Der Ueberzug aus Pfauenleder mit Darstellung St. Georgs nach einem Rubens'schen Bilde. Gruppe yon vielen Figuren in idealer Landschaft.Vorzuglich ausgefuhrte Malerei. Lange 32 cm.
+- 518 Elfenbeinfacher mit sehr feiner in Oel gemalter mythologischer Darstellung,bez. Sephalle et Lorore. Die Ruckseite ebenfalls gemalt:Kistenlandschaft mit Staffage. Der Rand mit figurlicher und ornamentaler Malerei im chinesischen Geschmack. XVIll. Jahrh. Lange 21 cm.
+- 519 Holzgeschnitztes Reliefporirait eines Cardinals, en face,polychrom. Mit Hut und Talar,in einem Buche lesend.XV.Jahrh.In schwarzem breiten forentiner Rahmen des XVIl. Jahrh. H.40,Br.31 cm.
+- 520 Gruppe aus Elfenbein und Holz: Die Himmelfahrt Christi darstellend, finf einzelne Figuren. Ueber einem Felsen,mit dem Mantel denselben noch berihrend, schwebt Christus,mit der Rechten nach oben zeigend; die umgebenden Figuren, jede auf felsgesteinahnlichem Sockel, sind Kriegergestalten,charakteristisch ihrem Erstaunen Ausdruck gebend.Sehr gute Arbeit. XVIl. Jahrh. Hohe des Christus mit Sockel 5O cm,Hohe der anderen Figuren ca.20cm.
+- 521 Ein Paar Louis Xiv. Leuchter,Bronze, stark vergoldet. Faun,auf facher Hand eine Vase tragend,von welcher aus sich die zwei geschweiften Leuchterarme entwickeln.Auf fachem Postament Brillant modellirter Korper. Sticke ersten Ranges. Hohe 23,5 cm.
+- 522 Grosser Limoge-Salznapf,rund, bunt emaillirt. Der Fuss profilirt, mit weissen Linien und goldenen Arabesken.Die Leibung sechsseitig. Auf schwarzem,goldbesterntem Grunde mythologische Figuren in jedem der Felder: Zeus, Diana,Neptun,Juno, Mars,Venus. In der Hohlung ein weiblicher Proflkopf,auf dem breiten Rande violettes Blattmuster. Sehr schones Stick. H. 10,unterer Durchm.15,oberer Durchm.9,5 cm.
+- 523 Schatulle aus Holz mit Bernstein-Verkleidung. Mit kleinem Schubfach.Auf dem hochgebuckelten Deckel liegendes Figurchen.In der Front ein Miniaturrelief aus Bein geschnitzt. Der Bernstein quaderformig aufgesetzt. Innen mit Gold und roth gepresstem,altem Papier. Beschadigt. H.12,Br.17, Tf.11 cm.
+- 524 Schloss von einem Prunkschrank in vergoldetem Bronzeguss. Die Platte mit reicher,stark reliefirter Darstellung. Im Mittelfelde oberhalb zweier Kartuschen Trophaen,unter der ersteren sitzende Figuren. Zu beiden Seiten des Mittelfeldes Langsfriese mit Kartuschen, Mascarons und Vasen Das Schliessband zeigt in halbrunder Figur die Abundantia, auf einem Wappen stehend Hervorragend schones Stick von prachtiger Ausfuhrung. Italienische Renaissance. H.17,5,Br.17,5 cm. Sammlung Riedinger.
+- 525 Standuhr, kupfervergoldet. Auf einer proflirten,reich gravirten und ciselirten Basis ein viereckiges Gehause mit quadratischem Querschnitt, von Pilastern fankirt.An der Front das Zifferblatt,die Wande zeigen gravirte Renaissanceornamente Auf der kuppelformigen Bekronung ein sitzender Lowe,iber den Pilastern je ein Obelisk. Suddeutschland,Ende des XVI. Jahrh. H. 23,Durchschnitt am Sockel 13 cm.
+- 526 Ludwigsburger Porzellangruppe. Rococo, bunt und mit Gold. Schaferscene: Hirt, den rechten Arm um ein neben ihm sitzendes Madchen geschlungen,welches eine Guitarre halt, mit der Linken ihre Hand fassend,steht vor einem knorrigem Baumstumpf, daneben ein Lamm, zur Seite des Hirten ein Hund. Sehr schone Gruppe. Auf Pluschsockel. H. 21, Durchm.am Sockel 18 zu 16 cm.
+- 527 Standuhr aus Bronze, stark vergoldet, thurmartig,yon quadratischem Querschnitt. Die Basis eine geschragte Platte,an den 4 Seiten Saulen, welche durch Engelskopfe gestitzt werden und auf eckigen Postamenten ruhen. In der Front unter dem reich gravirten Zifferblatt eineInschrift:DIESEVREISTGEMAGTZVNEIENRVPPINBEIVALTIN RVTENIEG. An den Seiten allegorische Figuren: die Justitia und die Architectur. Zwickel, Basis und Aufsatze reich gravirt mit Mauresken. Das Gehause iber der Glocke durchbrochen,als Bekronung Saturnstatuette. Sehr schones Stick XVI. Jahrh. H. 26,Br.12,5 cm. Auf schwarzer Holzbasis.
+- 528 Viereckige Meissener Porzellandose, Arbeit des Hofjuweliers Neuber,Dresden Auf weissem Grunde reliefirte Ornamente von mehrfarbigen massiven Gold- und Perlmuttertheilchen, die viereckigem Rahmchen kleines Emailbild,Watteaufiguren darstellend. Innen vergoldet,und in vergoldetem Messing montirt,interessante Technik. Der Deckel gesprungen. H.3, Br.8,Tf.5,5cm.
+- 529 Meissener Porzellanfigur, Schafer in Rococotracht,bunt und mit Gold gemalt, in der Rechten einen Stab haltend, die Linke ausgestreckt. Zu Fissen ein Lamm. Auf Rococo-Postament. Sehr fein modellirt und bemalt. Hohe 15,5 cm.
+- 530 Meissener Porzellangruppe yon 4 Amoretten,den Sommer darstellend, bunt und mit Gold bemalt. Am Boden vollrund modellirte Streublimchen und Garben mit Kornblumen. Sehr schone reizvolle Gruppe von feinster Ausfuhrung. H. 14, Durchm. am Sockel 18 zu 1l cm.
+- 531 Silberne Zuckerdose von ovaler Form. Auf 4 Fisschen, die Leibung und der Deckel geschweift. Auf letzterem eine Kirsche mit Blattern. Mit Schloss. H.14,Durchm. 15 zu 12 cm.Gew.250 g.
+- 532 Silberne Kaffeekanne,Louis XVI,birnenformig mit 4 geschweiften Fisschen,ornamentirter
+- 533
+- Ausgussnase und geschweiftem Holzgriff. Der Deckel profilirt mit Charnier befestigt,als Bekronung Frichte mit Blattern. Hohe 25 cm. Gew. 655 g.
+- Silberne Sahnenkanne, Louis XVI, analog der vorigen Nummer. Hohe 13 cm. Gew. 275 g.
+- 534 Messer mit Bernsteingriff,am Ende ein Madchenkopf. Das Ornament reliefirt.Deutschland XVIl. Jahrh. Lange 20 cm.
+- 535 Goldene Uhr, (fir Chatelaine), Granatform,mit blauem Email und fein ciselirt. Lange 3,5 cm.
+- Achat-Gemme, intaglio, unregelmassig rund. Die von Apollo verfolgte Daphne wird in
+- 536 einen Lorbeerbaum verwandelt.Durchm.4,2 cm.
+- 537 Ludwigsburger Porzellangruppe bunt und mit Gold. Auf einem Postament eine Vase, welche yon 2 Putti mit Guirlanden bekranzt wird. Reizende, fein modellirte Darstellung.
+- H.17, Durchm.am Sockel 12 zu 8,5 cm.
+- 538 39 Zwei Meissener Porzellanfiguren, bunt, Zimmermann und Stellmacher. Auf Rococo-
+- Sockeln.Hohe 22 cm.Restaurirt.  Sammlung Friedrich.
+- 540 Grosse Porzellangruppe, Chelsea, bunt und mit Gold. Ein Dame lasst ein als Bajazzo angeputztes Hundchen nach den Klangen einer Guitarre tanzen, welche von einem daneben stehenden Kavalier gespielt wird. Rococo-Sockel,reich mit aufgelegten Streublumen verziert Reizende fein ausgefuhrte Gruppe.Hohe 17 cm.
+- 541 Bronzestatuette, Venus,Vollfigur,die Rechte ausgestreckt,die Linke an die Brust haltend. Sehr schon modellirt.mit dunkler Patina. Auf schwarzem,rundem und profilirtem Steinsockel. Hohe 28,5 cm XVIl. Jahrh. Sammlung Riedinger.
+- sockel. Hohe 19,5 cm.
+- 542 Desgleichen, Venus,ahnlich der capitolinischen, mit dunkler Patina. Auf viereckigem Holz-
+- 543 Desgleichen, Venus, Vollfigur, stehend, auf schwarzem Holzsockel. Hohe 20 cm. lung Riedinger.
+- Samm-
+- 544 Empire-Stutzuhr, weisses Biskuit-Porzellan (Sevres-Marke) mit Bronze.Auf rechteckiger Basis mit durchbrochenem Beschlag ein felsgesteinahnlicher Aufbau mit dem Gehause. Als Bekronung die Figur der Diana mit dem Jagdhund. H. 34, Br 32 cm.
+- 545 Grosse Porzellangruppe, mit Ludwigsburger Marke. Spitzenporzellan. Eine Furstin ist im Begriff,in eine Sanfte zu steigen,ein dancben stehender Kavalier verabschiedet sich von ihr. Zu den Seiten die Sanftentrager. Ueberaus reich mit Golddecor, vorziglich modellirt und gemalt. H.33,Durchm.38 zu 26 cm.
+- 546 Franzosische Biscuit-Porzellangruppe, mit Sevres-Marke, weiss.Hirsch im Kampfe mit Jagdhunden. Schone Gruppe, mit Lebenswahrheit dargestellt. H. 45,Durehm. 96 zu 42 cm.
+- 547 Grosse Boule-Stutzuhr mit Konsole, geschweift. Schildpatt mit Messing. Der Beschlag in Rococo. Unter dem Zifferblatt Relief-Beschlag, weibliche Figur mit Sanduhr. Als Bekronung Statuette der Fama, in eine Tuba blasend. H.mit Sockel 162, Br. 53 cm
+- 548 Bronzestatuette, Satyr, die Fusse gebeugt, den Kopf nach oben gerichtet. Mit schoner Patina.XVll Jahrh.Auf rechteckigem Marmorsockel. H.21 cm.Sammlung Riedinger.
+- 550 Desgleichen,Apollo mit der Lyra,auf Felsen sitzend. Auf viereckigem Sockel. Mit schoner Patina.Um 1800.H.16cm. Sammlung Riedinger.
+- 549 Desgleichen, Mars in Vollfigur, stehend,in reicher Rustung,in der ausgestreckten Linken einen Schild,in der rechten ein Schwert haltend Von trefflichster Modellirung und sehr schon ciselirt. XVll Jahrh. Mit dunkler Patina. H. 26 cm. Sammlung Riedinger.
+- 551 Desgleichen,Satyr,mit einem Fuss knieend,den andern zur Seite spreizend, den Kopf nach links gewandt.Sehr schon modellirte Arbeit des XVIl. JahrhHohlguss mit brauner Patina. Auf rundem schwarzen Holzsockel. H.12 cm. Privatsammlung Riedinger.
+- 552 Crucifix von Eisen, in ippigem Barock; getrieben und polychrom.Der Fuss dreitheilig,mit Blumen, Blatt-und Rollwerk verziert.An der Basis des Kreuzes ein Fullhorn mit Rosen. Sehr gute Treibarbeit. Hohe 127 cm.
+- 553 Gelbseidene Decke mit breiter Randbordire. Auf (Rosshaar) Kannevas seidene Plattstichstickerei,geometrische Muster. Gr.195 zu 115 cm.
+- 554 Collier aus Silber mit langen Smaragd-Tropfen, die mit Diamanten besetzt sind Sehr schoner Sehmuck.
+- 555 Perlcollier aus Barock-Perlen vierreihig, am Verschluss eine grosse halbe in Gold gefasste Perle.
+- 556 Goldener Ring mit ovaler Achat-Camee. Darstellend Zeus und Juno. Doppelkopf. Hochrelief.Durchm.3,3 zu 2,2 cm.
+- 557 Goldener Ring mit Diamanten,Form einer Schlange. Mit Datum und Jahreszahl 1842.
+- 558 Collection von 23 diversen Ringen mit Cameen und Gemmen. Darstellend antike Kopfe, historische Portraits etc., darunter vorzuglich geschnittene Exemplare. (Dieselben werden auf Wunsch auch einzeln versteigert.)
+- 559 sechs Feldern mit gerippten Kanten abwechselnd je ein spielender Chinese und ein Palmenbaum.Am oberen Rande Ornamente,auf dem Deckel Genreszene. Die Malerei in Gold ausgefuhrt. Hohe 1l cm. Sehr schones Stick. Sammlung Friedrich.
+- 560 Elfenbeinkastchen mit Bronzebeschlag und dachformigem Deckel,orientalisch. Fruhes Mittelalter. H.9,5,Br.12,Tf.8 cm.
+- 561 Flache Glasschale mit Fuss und spiralformigen Fadenglas-Ornamenten. Venedig. XVll. bis XVIll. Jahrh. H. 10,Durchm.2f cm.
+- 562 Holzmodell des Strassburger Muinsters, Nussbaum. Sehr kunstvoll gearbeitet. Nicht ganz intakt. Hohe 32 cm.
+- 563 Ein Paar Siegburger Lowen, grau,auf einer herzformig durchbrochenen Fussplatte, sitzend. Mit den Vordertatzen eine Schale mit Deckel haltend. Eigenartige Sticke.Hohe 16 cm.
+- 564 Bronze-Buste, junge Frau,mit zur Seite geneigtem Kopfe, die Hande ber der Brust gekreuzt. Auf hohem, cylindrischem Steinpostament. Sehr gut modellirt Hohe mit Sockel 23 cm.
+- 565 Ludwigsburger Porzellan-Statuette, bunt und mit Gold, Priesterin, im Haar ein Diadem Auf viereckigem Sockel.Hohe 36 cm.
+- 566 67 Ein Paar japanische Porzellanvasen,bunt und mit Gold,eiformig,mit Deckel. Mit sehr guter Malerei, auf dem Deckel als Bekronung die Figur eines grotesken Hundes. Hohe 37cm.
+- 568 Hoher Deckelpokal aus Glas mit gefacherter Fussplatte,facettirtem,balusterformigem Stander schliff mythologische Szene,Landschaft,Tropaion etc. Der Deckel mit spitzem Knopf und Mattschlif-Dekor. XVIll. Jahrh. Hohe 37 cm.
+- 569 Zwei Empire-Sessel mit gepolstertem Sitz, Rick- und Armlehnen, Nussbaum,mit reicher Kehlung. Der Bezug ist grin,roth, gelb,weiss gestreift.
+- 570 Consoltischchen,Louis XVI.,weiss mit vergoldeter Schnitzerei. Die saulenformigen Fuisse kannelirt, die Platte aus schwarzem Marmor. Mit Schublade. H. 80, Br. 60, Tf. 42 cm.
+- 571 Mahagoni-Postament mit treppenstufenartigem Sockel,Pfeilerform. Unter der Plinthe Marmorplatte mit Inschrift. Hohe i20 cm.
+- 572 73 Antikes mannliches Bronzefigurchen,in der einen Hand eine Keule, den Mantel umgehangt, rechter Fuss und rechte Hand fehlen. Hohe 10 cm,und Desgleichen in romischer Tracht. Hohe 7 cm.XVIl. Jahrh. Auf Holzsockel.
+- 574 Elfenbein-Statuette, aus dem Ende eines Zahnes geschnitzt: Maria mit dem Jesuskinde, den Rosenkranz in der Hand Steife archaistische Haltung. Mit Spuren von Bemalung und Vergoldung. Hohe 17 cm. XIV. Jahrh.
+- 575 Kleine silbervergoldete Kanne, Rococo,auf der Leibung reichste Treibarbeit, Ornamente und Trauben. Feines,zierliches Gefass. H. 13 cm, Gew. 195 g.
+- 576 Polysander-Nachttischchen, Styl Louis XVI.,rund, mit drei hohen,geschweiften Fuissen, schonem Bronzebeschlag und Galerie.Mit Thir.Die Platte aus Marmor.H.79,Durchm. 32cm.
+- 577 Rococo-Lehnsessel, reich geschnitzt und vergoldet. Rick- und Armlehnen sowie der Sitz gepolstert,ohne Bezug
+- 578 Desgleichen, die Holzrahmung gekehlt, Nussbaum, die Polsterung mit altem Seidenbezug.
+- 579 Louis xVi., Sessel, weiss mit Gold, mit graublauem gebluimten Seidenbezug.
+- 580 Ein Coupon Spitze, point d'Alencon. Lange 200 cm.
+- 581 Desgleichen, Lange 200 cm, etwas schmaler
+- 582 Ein Coupon Kirchenspitze, Lange 150 cm und drei Kragen, point de Malines.
+- 583 Diverse Spitzen, point d'Alencon ete. Lange 200, 320, 290 cm.
+- 584 Schmiedeeisernes Grabdenkmal, durchbrochen,Spiralen mit Blattwerk, dachformige Bekronung.In der Mitte mit Tafel und Inschrift, Jahreszahl 1839. Auf der Ruckseite Malerei. H.185,Br.112cm.
+- 585 Grosser holzgeschnitzter Renaissance-Rahmen,vergoldet,mit Flammleisten und durchbrochen gearbeitetem Akanthusfries. Sehr schones, gutes Stick. H.270,Br.185 cm.
+- 586 Ein Stick Seidenstoff, weisser Fond mit grossen eingewebten seidenen Blumen. Louis XIV.
+- 587 Wandteppich, Obisson,rother Grund mit farbigen Blumen und Blattern. Mit ovalem weissen Mittelfelde mit Blumen.Gr.290 zu 200 cm.
+- 588 Rauchmantel,weisse Seide mit grossen farbigen Blumenranken und breiter, schoner Goldborte. Louis XIV. Sehr schones Stuick.
+- 589 Complettes Kostim eines Schonbartlaufers mit 2 Masken und Kappe. XVI. Jahrh.
+- 590 Grinseidene Decke mit grossen golddurchwirkten Blumen. Defect. Gr.156 zu 44 cm.
+- 591-93 Theil einer Casel,Gold-und Silberbrokat mit zierlichem Blattmuster,Gold-und Silberborte,Desgleichen, schwarz,silberfarbige Borte,Sieben verschiedene seidene Deckchen,mit silberner und goldener Spitzenbordire, theils einfarbig,theils gestickt.
+- 594 Rococo Sessel (modern),Nussbaum. Mit reich geschnitzter und geschweifter Lehne,Fussen, Armstitzen und Zargen. Ohne Bezug.
+- 595 Desgleichen, Lindenholz,braun, mit geschweiften Fissen, Ruck- und Armlehnen und Zargen. Ohne Bezug.
+- 596 Desgleichen, ahnlich dem Vorigen.
+- 597 Silberner Trinkbecher, von glatter, konischer Form,innen vergoldet. Mit Namen und Allianzwappen in ovalem Medaillon. Anfang dieses Jahrh. H. 1l,5,Durchm. 10 cm. Gew.195g.
+- 598 Desgleichen, mit eingezogenem Fuss,auf der Leibung Bordire in Rococo-Ornamenten. Innen vergoldet.H.10,Durchm. 8 cm.Gew.113 g.
+- 599 Silberner Zuckerstreuer,eiformig, mit proflirtem Fuss, schrag gebuckelter Leibung und Knopf auf dem Deckel.Hohe 10 cm. Gew.110g.
+- 600 Meissener Porzellanstatuette, bunt, Madchen in gruinem Kleide mit weissem lang herabfallendem Kopftuch, einen Krug in der linken Hand. Hohe 14 cm.
+- 601 Desgleichen,Troubadour,in mittelalterlichem, schwarzem Kostum.Hohe 15,5 cm.
+- 602 Desgleichen,Musikantin. Mit kleinem Defekt Hohe 13,5 cm.
+- 603 Desgleichen, Der Hausirer. Sehr schone Statuette. Hohe 17,5 cm.
+- 604 605 Zwei 0elminiaturen. Brustbild eines langbartigen Edelmannes,links ein Wappen,rechts die Inschrift:Sie dieu est pour nous s—Weibliches Brustbild mit weisserHaube,anscheinend die Gemahlin des vorher Beschriebenen.Auf runden Holzplatten gemalt.In tergo Monogramm u.1572. Diam.16u.15,5 cm.
+- 606 -609 Vier Desgleichen.Brustbild eines Malers in Allonge-Perricke. Oval. H. 9,5,Br. 7,5 cm.Kopf eines Geistlichen.Rund.Diam 4,5 cm. Brustbild einer Dame Oval.H.5,8, Br.4,6cm Landschaft.Viereckig.H.6,Br.9cm.— Mit Ausnahme des Damenportraits alle in Metallrahmchen.
+- 610 Rococo-Lehnsessel, Nussbaum, gekehlt und einfach geschnitzt. Die Rucklehne durchbrochen, mit aufrechtem Mittelstick Mit altem,rothem Seidenbezug und gelbem,gemustertem Brokat.
+- 611 Empire-Credenztischchen, Nussbaum. Mit Bronzeperlleisten,Beschlagen und Emailplattchen. Die Platte aus Eisenblech mit ovalem Medaillon. Madchen, Blumen begiessend. H.76, Br. 84,Tf.60 cm.
+- 612 Empire-Nahtischchen, Mahagoni mit Bronzebeschlagen. Mit Jalousie-Platte. H. 76, Br. 65, Tf.48cm.
+- 613 Geschliffenes Glas, mit facettirtem Stander und gefacherter Leibung. Auf der Stirnseite Arabesken-Decor und Freundschaftsspruch in Mattschliff. Hohe 15 cm.
+- 614 Desgleichen,Kannenform,mit vergoldetem Rande und Henkelansatz mit eingeschliffenem Familienwappen. Hohe 12 cm.
+- 615 Geschliffenes Becherglas, glockenformig, mit Fussplatte. Auf der Leibung Freundschaftsspruch und ippige Arabesken-Ornamente. Feines zierliches Stick. Hohe 9,5 cm.
+- 616 Empire-Kandelaber, Marmor mit vergoldeter Bronze.Auf cylindrischem Postament eine weibliche Figur mit Fischleib in einer Muschel stehend,auf dem Kopfe eine Glasschale und den Kranz mit den 6 Leuchtern tragend. Mit Prismenbehang. Hohe 76 cm.
+- 617 Geschliffenes Freundschaftsglas,Becherform mit Deckel und niedrigem Fuss. In Kartuschen mit Arabesken-Rahmung landschaftliche Darstellung und Freundschaftsspruch in Mattschliff. Der Rand vergoldet, ebenso der des facettirten Deckels mit Knopf. Hohe 16,5 cm.
+- 618 Elfenbeinminiatur.Brustbild eines Mannes in gepudertem Haar und blauem gesticktem Leibrock.H.4,Br.3,3 cm.Ovales Metallrahmchen.
+- 619 Miniatur.Brustbild des Malers Raphael Mengs. H.3,8, Br.3 cm. Ovales Metallrahmchen.
+- 620 Elfenbeinstatuette der Madonna mit dem Jesuskinde, auf Elfenbeinsockel mit Holzkehlung. H.m.S.13cm.
+- 621 Bronze-Thurklopfer. Groteske mit Ornament und Delphinkopf. Mit Patina XVI Jahrh. Lange 23 cm.
+- 622 Bronzefigurchen. Hahn,krahend. Hohlguss. Gr.7 cm
+- 623 Ein Paar grosse Messing-Kirchen-Leuchter mit breitem Fuss und fein proportionirter Profilirung. Hohe 59 cm.
+- 624 Kreussener Krug mit Henkel, Zinndeckel und Ausgussrohr mit Zinndekel. Die Leibung bauchig und sechsseitig mit gepressten Rosetten, Flechtwerk ete H. 21 cm.
+- 625 Grosser Zinn-Willkommen der Kirschner-Gewerke a.d. J.1848. Mit Lowenkopfen auf der Leibung und Putto mit Fahne auf dem Deckel. H. 47 cm.
+- 626 27 Blau glasirter Thonkrug mit Zinndeckel und Fuss,und dem Bildniss der Maria Theresia und Jahreszahl 1760, und brauner, sachsischer Krug mit Zinndeckel und Fuss, die Leibung schrag gerippt.H.19,5und 22,5 cm.
+- Elfenbeinplatte, oval, Profl-Brustbild Karl XIl. von Schweden Gute Schnitzerei, bezeichnet:
+- 628 Hirsch fe (cit) XVIll. Jahrh. H. 8,8, Br. 7,1 cm.
+- 629-31 Drei Porzellan-Vaschen, mit bunten verschiedenen Decor und mit Gold. Hohe 10 cm.
+- Friedrich des Grossen.XVIll. Jahrh. Hohe 12,5 cm.
+- 632 Kleine Stand-Uhr mit silbernem Gehause in Form eines Barock-Postaments mit kleiner Statuette
+- 633 Fayence-Krug, mit Zinndeckel und bunter Malerei auf der Leibung, und blau-glasirter Thonkrug mit Zinndeckel und Fuss,mit dem Bildniss Maria Theresias mit Kartusche und Jahreszahl 1760.Hohe 19,5 cm.
+- und einer mit Trinkspruch. Hohe 19,5 cm.
+- 636-39 Convolut, bestehend aus Porzellan-Spulnapf mit buntem japanischen Decor, Berliner Porzellan-Theekanne mit schoner Blumenmalerei,Fayence-Salzbuchse und Meissener Porzellan-Spulnapf mit buntem, japanischem Decor. Zusammen 4 Stck.
+- 640-43 Desgleichen,bestehend aus einer ovalen Rudolstadter Porzellanschale mit Henkeln und bunter Malerei,einem Berliner Kannchen mit Henkel und Deckel und Malerei in Roth,einem ebensolchen,kleinen Postament mit bunter Malerei,und einer flachen Boettger-Schale,braun
+- mit Gold.Zusammen 4 Stck.
+- 644
+- Silberne Gurtelschnalle mit Steinen, durchbrochen und ornamentirt,2 silberne Stockknopfe, I Dtzd. silberne Knopfe mit Glassteinen,Filigranarbeit, und ein Silber-Filigran-Buchbeschlag. Gew.225 gr.
+- 645  Convolut: 16 Knopfe aus Perlmutter mit Silberdraht, Mittelstick einer Gurtelschnalle mit
+- in Horn geschnitzt, Hornloffel mit Inschrift und dem Schlachter-Wappen.
+
+## V. Auctionstag:
+
+## Sonnabend,den 28.November 1896,
+
+von 1o Uhr ab.
+
+- 646 Oelminiatur in schon geschnitztem und vergoldetem Holzrahmchen.XVIll. Jahrh.Huftbild einer vornehmen Dame in ausgeschnittenem perlengeschmickten Kleid.Auf Leinwand.
+- 647
+- H.14,Br.10cm.
+- Desgleichen,ebenso. Halbfigur einer jungen Fuirstin in ausgeschnittenem weissen Atlaskleid. Der Kopf ist auf die Hand gestutzt.Auf Blech. Oval.H. 12,5, Br. 10.
+- 648 Oesterreichischer Kammerherrenschlussel, Bronze vergoldet. Im Griff der Doppeladler mit
+- 649
+- Krone, dem Namen F.Il,umrahmt von einer Lorbeerranke. Lange 18 cm.
+- Kammerherrnschlussel,vergoldet, der Griff schon ciselirt, durchbrochen gearbeitet, in der Mitte der Name C. 7,daruber eine grosse Krone. Der Schlusselbart fehlt.Lange 12,5 cm.
+- 650 51 Ein Paar Porzellanfigurchen, bunt und mit Gold.Wegeli, geflugelte Amoretten mit Muff
+- und Mutzchen.Hohe 9 cm.
+- 652 53 Hochster Porzellanstatuette,bunt,Knabe mit Becken.Hohe 19 cm und drei Porzellan-
+- figurchen, bunt und mit Gold, Bauerinnen.Verschiedene Grosse.
+- 654 Porzellanfigurchen, Chelsea,Putte mit Blumenkorbchen,bunt gemalt. Hohe 9 cm.
+- 655 Meissener Porzellan Ober- und Untertasse, bunt und mit Gold, Kelchform mit 2 Henkeln. Mit reichem, schonem Decor in Roth und Gold;und Medaillons mit figurlichen Darstellungen im chinesischen Geschmack.H. 7,8,Durchm.7,5 cm.
+- 656 Meissener Porzellanschalchen ohne Henkel, bunt und mit Gold.Auf der Ober- und Untertasse sehr fein gemalte Kustenlandschaften mit Architektur,auf dem Wasser Segelboote. Ober-und Untertasse mit Goldrand. H. 4,7,Durchm.6,8 cm. Sammlung Friedrich
+- 657 Meissener Porzellan-Henkelbecher, mit einem yon einer Goldkante und Rosen umgebenen Medaillon,in welchem eine halbentblosste,auf einem Divan ruhende Dame mit einer Larve in der Hand;vor ihr knieend ein bekleideter Amor nit einem spitzen Hut auf dem Kopfe; fein in Farben ausgefuhrt. H. 7,5,Durchm. 7 cm. Interessantes Stuck.Sammlung Friedrich.
+- 658 Meissener Porzellanschalchen mit Untertasse, weiss mit Goldrandern und fein gemalten Insekten und Kafern in Violett und Gold. Sammlung Friedrich. Hohe 4,3 cm.
+- 659 Meissener Porzellanteller, weiss, die ganze Flache reliefirt, Wasser mit schwimmenden Schwanen,Storchen und Schilfpfanzen darstellend Fruhe Schwerter Marke: Theil des
+- Brihlschen Schwanen-Service.Durchm.23,5 cm.Sammlung Friedrich.
+- 660 Meissener Porzellan-Henkelkrug, bleu royal Fond mit ausgespartem Vierpass;in demselben bunte Blumenmalerei in japanischer Manier.Als Deckelknopf Blume. n gussnase weiss. Hohe 12,5 cm.
+- 661 Theebuchse in Birnenform,rothe Bottchererde,sechseckig abgepasst In jedem der 6 abgetheilten Felder eine von unten nach oben verlaufende Blumen-und Blatterranke,mit fliegenden und sitzenden Vogeln in Relief, theilweise vergoldet. H.8, Durchm.5,5 cm. (Sammlung Friedrich,Dresden).
+- 662 Achteckige Schale mit hohem Rande,rothe Bottchererde.Im Fond sehr zierliches centrales Renaissance-Ornament in Relief, um den Rand ein Palmettenfries. H. 3,Durchm. 14,5 cm.
+- 663 Geschliffenes Deckelglas, von konischer Form mit kurzem Fuss. In der Leibung, in Mattschliff hergestellt, reiche Ornamentirung und allegorische Figuren.Der Rand vergoldet, darunter die Inschrift: Mein Gelicke schlafft, hoffnung aber wacht, soll mein gelick verschlaffen bleiben,so muss gedult die Zeit vertreiben Am Deckel zierliche Ornamente und
+- Vergoldung. H. 20, Durchm.am Rande 7,5 cm.
+- Desgleichen in ahnlicher Ausfuihrung mit dem Spruch:Lieben und Schertzen erfreut die Hertzen",und der Darstellung eines Parkes mit Fontaine ete. Der Rand vergoldet, die
+- 664 Leibung gefachert. H.20,Durchm.7,5 cm.
+- 665 Trinkbecher aus blau-schwarzem Ueberfangglas, geschliffen. H. 1l, Durchm.7,3 cm.
+- 666 Schale aus Rubinglas, in Silber montirt mit theilweiser Vergoldung. H. 5,3, Durchm. 10,7 cm.
+- 667 Relief aus Kupfer,vergoldet,in Renaissance-Rahmen mit Darstellung einer Pieta. Sehr gut ciselirte Arbeit. An der Rickwand mit Stander versehen H.16,5, Br. 9,5 cm.
+- 668 Goldne Repetir-Uhr von Breguet et fils mit dreifachem Schlagwerk. Das Zifferblatt im Empirestyi zeigt eine mannliche und eine weibliche Figur und eine Amorette, welche sich mechanich beim Schlagen bewegen, scheinbar auf die Glocke schlagend. Durchm 5,8 cm.
+- 669 Email-Uhr von Joseph Boller, Olmitz. Das Gehause sehr fein mit Landschaften,Blumen etc. emaillirt, auf der Rickseite Zeus und Juno. Durchm. 3,5 cm. XVIl. Jahrh.
+- 670 Drei Porzellanbeine (Flohbeine).
+- 671 Grosse Standuhr Louis xVl., weiss,mit Gold und bunter Malerei. In der Kontur geschweift und nach oben sich verjingend.Die Schnitzerei vergoldet. Mit fott gemalten Putti Blumenguirlanden ete. Das Werk von Eric Surdberg, Stockholm. Als Bekronung vergoldete
+- Vase. Sehr schones Stuck. H. 200, Br. 66,Tf. 25 cm.
+- 672 Hollandisches Spieltischchen, Eiche, geradlinig, mit bunten Intarsien, die Innenseite der Platte mit grinem Tuche bespannt.H.75, Br. 95,Tf.48 cm.
+- 673 Fayence Krug, mit Henkel und Deckel, die Leibung schief gebuckelt; weiss, mit blauer, sehr feiner Blumenmalerei im chinesischen Geschmack. Die Montirung an Henkel und Deckel aus vergoldeter Bronze,zierlich ornamentirt. Aus dem ehemaligen Besitz der Landgrafin Marie von Hessen stammend. H. 16,5,Durchm. 8,5 cm.
+- 674 Desgleichen, die Leibung sechsfach getheilt,mit Blumen und Figuren in chinesischem Geschmack bemalt,ahnlich dem Vorigen； aus demselben Besitz H. 15,5,Durchm.8,5 cm.
+- 675 Rococo-Wandspiegel mit Konsoltisch, reich geschnitzt und vergoldet tDer Aufsatz durchbrochen.Der Tisch mit profilirter Marmorplatte.H. d.Spiegels 175,Br. 68 cm.
+- 676 Rococo-Konsoltisch, geschweift, mit vier Fuissen, die durch Steg verbunden sind.Sehr reich geschnitzt,vergoldet und bemalt. H. 78, Br. 82, Tf 52 cm.
+- 677 Ovales Nahtischchen, Mahagoni, Styl Louis XVI.,mit farbigen Intarsien und geschweiften, durch Platte verbundenen Fussen.In der Front drei Schubkasten mit Bronzebeschlagen. H.78,Br.50,Tf.34cm.
+- 678 RococoZuckerdose, Silber, innen vergoldet,rund, geschweift,und mit Henkeln und Deckel. Die Leibung bedeckt mit schonem Rocaille-Ornament in Treibarbeit. Als Deckelknopf eine Blume. -Sehr schones Stuck. H. 13, Durchm. 13 cm. Gew. 420 gr.
+- 679 Silberne Schale mit Fuss; letzterer profilirt und gravirt Im Fond der runden Schale drei Medaillons mit einem Reliefportrait und Rococo-Amoretten mit Blumen. Schone Treibarbeit. H.6,5,Durchm.23,5 cm. Gew.512 g.
+- 680 Meissener Porzellangruppe, bunt und mit Gold.  Schaferscene. Kavalier, eine Dame mit Blumenguirlande bekranzend. Zu Fussen Stab, Hut und zwei Lammer. Die Kostime von delikater Malerei. Prachtige Gruppe.—H.14, Durchm.19,5 zu 12 cm.
+- 681 Desgleichen, die Astronomie, Gruppe von zwei Putti, eine mit Zirkel, die andere mit Fernrohr. H. 14, Durchm.am Sockel 16 zu 9 cm.
+- 682 Miniatur-Schreibbureau,Polysander mit Intarsien. Mit schrager Platte zum Aufklappen und zwei Schubkasten. Die Front und die Seiten geschweift. H. 29, Br. 27, Tf. 16 cm.
+- 683 Miniatur-Rococo-Kommode,Nussbaum, geschweift. Die Platte, Seitenwande und Front mit Netzwerk-Intarsia aus Polysander und Ahorn.Mit zwei Schubkasten,zierlichen,versilberten Handhaben und Knopf in der Mitte. Schones Stick aus der Sammlung des Fraulein von Waldenburg.H.32,Br. 53,Tf.27 cm.
+- 684 Grosser Meissener Porzellan-Theekessel mit Untersatz, bunt und mit Gold. Letzterer ist dreitheilig,im Style des Rococo,die Seiten gegittert und mit aufgelegten Blumenranken veraus vergoldeter Bronze mit Porzellangriff. Auf der Leibung Blumenstrausse und Streublumen gemalt. Als Deckelknopf ein Granatapfel. Gesammthohe 29 cm. Hervorragend sehones Stuck.
+- 685 Empire-Garnitur, bestehend aus Sopha,zwei Fauteuils,zwei Banquettes und sechs Stuhlen. Die Schnitzerei en relief und vergoldet. Die Lehnen durchbrochen, das Rohrgefecht vergoldet. Vornehmes,zierliches Meublement.
+- 686 Oelgemalde nach A. Durer, mit dessen Monogramm es bezeichnet ist. Christuskopf. H. 25, Br.17,5cm. Der schwarze Holzrahmen in Form eines Altares mit zwei gewundenen freistehenden Saulen.Oben in der Mitte die Bronzefigur der heiligen Jungfrau in einer Strahlenglorie als Beschlag an den Rahmen befestigt. Grosse des Rahmens H. 71,Br. 45 cm
+- 687 Cabinetschrank, Rosenholz mit vergoldeter Bronze. Auf yier geschweiften Fussen. Mit Klappthur und zwei Schubkasten. Innen gelb polirt. In der Thurfuillung dekorative Oelmalerei in vergoldeter Bronzerahmung.Nach einem Original aus dem Besitz Konig Ludwig Il. von Bayern gearbeitet. Stuck von seltener Schonheit und Eleganz. H.125,Br.64, Tf.34cm.
+- 688 Desgleichen, ahnlich dem Vorigen. H. 132,Br. 85,Tf 40 cm.
+- 689 Grosse Meissener Porzellangruppe,bunt und mit Gold,Diana,auf einem Baumstumpf sitzend, den Hund liebkosend. Neben ihr eine geflugelte Amorette mit Pfeil,zur Seite eine Vase im Rococogeschmack,mit aufgelegten und gemalten Blumen dekorirt.H.23,Durchm.am Sockel 20 zu 13 cm. Prachtige Gruppe.
+- 690 Desgleichen, Allegorie auf den Frihling. Auf einem Postament ein Blumenkorb mit losen Blumen, die von einer Frauengestalt verstreut werden. Neben ihr ein Genius mit Fackel, zu Fussen eine Amorette. Vorzuglich modellirte und schon gemalte Gruppe. H. 19,5, Durchm.13 zu 9cm.
+- 691 von vorzuglicher Ausfuihrung zeigt Fische, Schalenthiere, Blumen, Vogel u. dgl. auf weissem Grunde. Schones Exemplar. H. 7,5,Durchm. 36 zu 18cm.
+- 692 Goldtauschirte Eisenplatte,rechteckig.In ovalem Felde Darstellung einer felsigen Landschaft mit Architektur,Wasser und Baumen, um den Rand eine breite Maureskenbordure mit Medaillons und Eckfeldern. Mailander Arbeit des XVI. Jahrh. Grosse 40 zu 51 cm. In schwarzem Holzrahmen.
+- 694 Plateau,Meissener Porzellan,auf vier Fussen stehend, in ziemlich dreieckiger, fott ausgebogener Form Die Flache deckt ein mit Goldrand umgebenes grosses,bunt gemaltes Schiachtenbild. Der Rand umgeben von einer Goldspitzenbordure. Grosse 26 zu 22,5 cm. Sammlung Friedrich.
+- 693 Meissener Porzellan-Kaffeekanne mit Deckel, bunt und mit Gold. Mit zwei medaillonartigen, grossen Watteaubildern gemalt,der weisse Grund mit Goldarabesken. Fuss massiv vergoldet. Der Deckel mit Vogeln auf Blumenzweigen und reicher Vergoldung, Ausguss, Henkel und mit der Kanne durch ein Kettchen verbunden. Friheste Zeit,ohne Marke. Die Farben sehr stark aufgetragen. Sehr interessantes Stuck. Hohe 23,5 cm. Sammlung Friedrich.
+- 695 Bronze-Schreibzeug, in Form einer gedrungenen Vase mit profilirter Basis,welche von drei weiblichen Grotesken mit Lowenklauen flankirt wird, deren Flugel durch Festons von Fruchten und Laub verbunden sind.Venezianische Schule des XVI. Jahrh. Sammlung Spitzer. Hohe 11,5 cm.
+- 696 Fayence-Deckel einer Schale; Urbino, rund. Obere Ansicht: In einem Zimmer mit grossem Fenster und der Aussicht auf das Gebirge sitzt ein junges Paar auf einem Faltstuhl; der junge Mann nimmt mit der Linken eine Blume, die ihm ein in einem Wagelchen sitzendes Kind reicht. Der Rand weiss mit friesartiger grotesker Ornamentmalerei. Ruckansicht: Eine in Wolken schwebende Amorette mit Lorbeerzweigen in der Hand. Sammlung Spitzer. XVI.Jahrh.Durchm.20,2 cm.
+- 697 Porzellanservice, bestehend aus Suppenterrine und Sauciere, beide oval und auf Unterschalen, drei ovalen Schisseln, 17 flachen und funf tiefen Tellern. Auf jaspisgrinem Fond mit reichen Goldornamenten,zahlreiche Medaillons,heraldische Darstellungen,Kostumfiguren, Blumen etc. Mit oft sich wiederholendem Familienwappen. Modernes Londoner Fabrikat.
+- 698 Schachspiel in Holzkassette mit Spielbrett. Die Figuren von ausserordentlicher Feinheit in Holz gedrechselt. Jede einzelne in einem mit weisser Seide gefutterten Abtheil liegend. Grosse 34 cm.
+- 699 Marmorbuste einer jungen vornehmen Dame mit diademartigem Kopfschmucke und entblosstem Nacken. Signirt. B.Afinger, 1859. Hohe 60 cm.
+- 700 Nautilus, in silbervergoldeter Montirung. Mit breiter,ausgebogter sechstheiliger Fussplatte mit geperltem Rande und eiformigen Buckeln. Zierlicher, profilirter und Schaft. Die Muschel gravirt, die Rander mit Einfassung Als Bekronung ein Neptunspferd. ornamentirter Hohe 25 cm.
+- Berliner Porzellan-Deckelvase, stark ausgebaucht. Am unteren und oberen Rande reliefirtes, mit Gold gemaltes Blattornament auf hellgrinem Grunde. Die Leibung mit Blumen schon
+- 701 bemalt. Der Deckel durchbrochen. (Defect.) Hohe 30 cm
+- 702 703 Ein Paar Silberleuchter, Louis XV., auf viereckigem Fusse mit abgeschragten Ecken; kraftig profilirter, gerader Schaft. Die Ornamente von feinster Zeichnung in Punzmanier
+- gravirt und ciselirt. H. 19 cm, Gew. 716 g.
+- 704 705 Zwei Fayenceteller aus der Grafl. Castellschen Fayencefabrik in Rehweiler, mit Blumen,
+- Vogeln,Schmetterlingen,Fischen etc.in chinesischem Geschmack bemalt. Durchm.22,5 cm.
+- Mit zwei aus Perlmutter sehr schon geschnitzten Darstellungen:Jager mit seinem Hund und Hoch-
+- 706 Pulverhorn aus Schildpatt,Perlmutter und Buchsbaumholz von konischer Form. wild im Walde."Hohe 13 cm.
+- 707
+- Kommode in chinesischer Lackarbeit, geradlinig, mit neun Schubkasten. In der Mitte der Front,nach innen zurickspringend, ein Schrankchen mit Thir. Die Oberflache mit reicher Goldmalerei, Landschaften, Thieren,Figuren, Scenen aus dem hauslichen Leben etc. Mit sechs durchbrochenen Fussen. Interessantes, altes Stick. H. 38, Br.120, Tf. 57 cm.
+- 708 Nussbaum-Empire-Tischchen, mit schoner Intarsia auf der Platte. H. 74, Br. 80, Tf. 55.
+- 709
+- Rococo-Schrank, Nussbaum mit Glaswanden, geschweift und reich geschnitzt. Im Innern vier weisse Boden, die Ruckwand Spiegel mit Goldleistenfillungen. Modern,sehr schon gearbeitet. Ausstellungsschrank. H. 193, Br.113, Tf.50 cm.
+- 710
+- Geschweifte Nussbaum-Kommode mit reicher Intarsia-Arbeit von Vogeln, Ornamentenranken und Quadern.  Mit zwei Schubkasten und reichem Bronzebeschlag. Schones Stick. H. 73, Br.105,Tf.48cm.
+- 711 12 Ein Paar franzosische Biskuit-Porzellanfiguren mit Sevres-Marke. Rococo. Die Kusshand.
+- Reizende, graziose Figuren. Hohe 73 cm.
+- 713 Trinkhorn aus Walzahn,mit reicher Schnitzerei.An den Enden Blatt- und Ornamentfriese, in der Mitte in Relief geschnitzte Lilien,die Symbole der vier Evangelisten,
+- musizirende Engel etc.,in einem Vierpass komponirt, welche durch Bander verbunden sind. Das Mundstick in Form eines Greifenkopfes. Der Beschlag aus Eisen und ornamentirt. Lange 50 cm.
+- 714 15 Ein Paar Elfenbeinstatuetten, Putti, eine mit Panther, eine mit Fisch. Gut modellirt
+- und geschnitzt. Auf schwarzem Holzsockel. Hohe 9,5 cm.
+- 716 17 Zwei Desgleichen, gefligelte Amoretten,eine mit Fackel, eine mit Herz und Pfeil in den
+- Handen.Auf schwarzem Holzsockel.Hohe 7 cm.
+- 718 19 Ein Paar Gelbguss-Leuchter, zweiarmig. Auf cylindrischem,weissem Marmoipostament mit profilirter Basis ein Putto mit Fullhorn, iber welchem die geschweiften Leuchterarme
+- liegen. Die Putten sehr gut modellirt. Ende XVIll. Jahrh. Hohe 21,5 cm.
+- 720
+- Dolch mit dreikantiger Klinge und sehr feiner, zierlicher Parirstange. Der Griff in Buchsbaumholz geschnitzt. Statuette der Diana. Die Spitze vergiftet. XVllI. Jahrh.Lange mit Griff 24,5cm.
+- 721 Hoher Glaspokal mit Deckel, mit geschnittenem und vergoldetem Dekor. Die Fussplatte breit mit Golddekor, im Stander ein facettirter Knauf mit eingeblasenen Perlen. Auf der Leibung das englische Wappen mit Devise und einem Wappenmantel mit Krone und neun Monogrammen, geschnitten und vergoldet: Der Deckel mit hohem, vergoldetem Knopf. XVIll. Jahrh.
+- Hohe 36 cm.Mit kleinem Defekt.
+- 722 Fenster in Eichenholzrahmen mit 16 Schweizer Glasbildchen (rund, 65 cm gross) in Bleifassung. Darstellungen aus dem Leben und der Passion Jesu. XvIf. Jahrh. Grosse des
+- Fensters 49 zu 27cm.
+- 723-26 Garnitur von vier japanischen Vasen, zwei birnenformige und zwei kleine Stangenvasen.
+- Mit schon gemaltem Dekor in Roth und Blau, mit Gold gehoht. Hohe 19 und 15 cm.
+- 727 Gurtel,Kupfer,versilbert und vergoldet,aus Platten und Kettchen bestehend, die abwechselnd an einer befestigt sind. Auf den Platten aufgelegte durchbrochene Verzierung von Ranken, in der Mitte mit Knopf. Lange 107 cm. XVII. Jahrh.
+- 728 Reliquiarium, in Form eines Triptychons, aus Holz, schwarz gebeizt. In der Mitte der heilige Antonius mit dem Jesuskinde,auf Pergament gemalt,umrahmt von unter Seide liegenden und linken Flugel ebenfalls Reliquien,zusammen 64 Stuck. H.34. Br.13 cm.
+- 729 Grosse Monstranz, Messing, vergoldet und versilbert, mit ovalem. vierpassformigem Fuss, reich verziert mit durchbrochenem,aufgelegtem und vergoldetem Beschlag. Das Ciborium mit Steinen besetzt und verziert mit aufgesetztem,versilbertem Beschlag, darstellend Seraphim, Engel. Sterne, unten die Taube, oben Gott Vater in Wolken schwebend. Als Bekronung ein Crucifix. Schones, reiches Stick. XVill. Jahrh. Hohe 68 cm.
+- 730 Schmuck-Vitrine, aus vergoldeter Bronze mit Glaswanden, von ovaler Form mit gewolbtem Deckel. Der Boden aus Spiegelglas mit proflirter,reich ornamentirter Rahmung und vier und Monogramm M. S. mit Freiherrnkrone. Im Innern viertheilig mit sich rechtwinkelig kreuzenden Glaswanden. Schones, eigenartiges Schmuckstuck. H.43, Lg. 42 cm.
+- 731 Bleiplatte mit Kupferiberzug, Form fur Goldschmiede etc. zur Vervielfaltigung dienend, darstellend ovale Schale mit Rankenornament und Frichten,im Fond einen Fruchtkorb tragende Amorette. Grosse 38 zu 28 cm.
+- 732 33 Zwei Porzellan-Deckelvasen in der Art Capo di Monte, bunt und mit Gold, von konischer
+- Form. Auf der Leibung Mascarons mit Weinlaub und Trauben, der Deckel mit ahnlichem Dekor. Der eine Deckel mit Sprung. Hohe 25 cm.
+- 734
+- Kleine Delfter Fayence-Deckelvase,bunt, achtseitig,mit Blumenmalerei in Blau, Gelb, Grun. Der Deckel erganzt. Hohe 15 cm.
+- 735 Reisetischchen, Mahagoni, geradlinig, Schreib- und Lesetisch, die Platte nach oben zu offnen. Der Aufsatz mit Schubfachern mechanisch verstellbar. Angeblich Tisch Napoleons I. H. 80, Br.85,Tf.45cm.
+- 736 Rococo-Sessel, Nussbaum, geschweift und geschnitzt. Ricklehne und Sitz mit grau-blauem,
+- 737
+- geblimtem Seidenstoff iberzogen.
+- Meissener Porzellanfigur, eine Schnepfe darstellend. Gemalt. Hohe 21 cm.
+- 738
+- Desgleichen, Rohrdommel. Hohe 17 cm.
+- Fayence -Statuette eines Pferdes, in schreitender Stellung, bunt und mit Gold. reich auf-
+- 739 geschirrt, auf rechteckigem Sockel. H. 23, Gr. des Sockels 18 zu 9,5 cm.
+- 740
+- Meissener Porzellandose,bunt, liegendes Hundchen.Mit Streublumchen bemalt.H.4,Lg.4 cm.
+- 741
+- 742 Sanfte, Meissener Porzellan, bunt und mit Gold. Im Innern eine Dame mit Schosshindchen.
+- Hohe 9 cm.
+- 743 Ludwigsburger Porzellan-Salznapfchen, bunt und mit Gold. Mit Streubluimchen bemalt. Hohe 4 cm.
+- 744 Porzellantasse, Sevres, bleu royal Fond mit reichem Golddekor. Auf der Stirnseite Medaillon mit gemalter Strandszene. (1791.)
+- 745 Desgleichen, glatte, konische Form, bleu royal Fond mit feinem Golddekor. Auf der Stirnseite der Ober- und dem Fond der Untertasse schon gemalte exotische Vogel mit Blumen und Baumen. Mit ornamentirtem Bronzehenkel. H.8,Durchm. 8,5 cm.
+- Zwei Limoge-Schalchen, rosa mit Golddecor und je 3 Landschaften in Medaillons. H.13,5,
+- 746 Durchm.6,5 cm.
+- 747 Achatschale,oval und geschliffen,auf silbervergoldetem,fein ciselirtem Fuss mit ovaler,profilirter Sockelplatte. H. 13, Durchm.der Schale 11,5 zu 9 cm. Sehr schones Stick.
+- 748
+- Elfenbeinbiste eines Mannes auf viereckigem Specksteinpostament. Vorziglich geschnitzt, sig.C.A.Luck. Hohe 17 cm.
+- 749 Meissener Porzellanfigurchen, bunt und mit Gold. Knabe mit Trommel und Flote. Hohe 13 cm.Sammlung Friedrich.
+- 750 Desgleichen, bunt. Cavalier in polnischem Costum, das Barett in der Hand. Hohe 13,3 cm. Sammlung Friedrich.
+- 751 Desgleichen, Hercules mit Keule und Lowenfell. Hohe 12 cm. Sammlung Friedrich.
+- 752 Desgleichen, Turke, mit Kocher und Bogen auf dem Ricken, einen Pfeil in der Hand. Hohe 12,5cm. Sammlung Friedrich.
+- 753 Silberner, theilweis vergoldeter Doppelbecher auf eingezogenem Fuss und breiter, ornamentirter Fussplatte.Die Leibung zeigt schone Renaissance-Ornamente mit gestanztem Grunde. H.27,5,Durchm.74 cm.Gew.270 g.
+- 754 Fayence-Wurstkrug, weiss mit bunter Malerei, Blumen etc. In der Mitte mit fensterartiger Oeffnung,welche einen im Innern befindlichen Doppelkopf sichtbar werden lasst. Am ausseren Rande je 2 Puttenkopfe. Restaurirt. H. 19,Br.13,5 cm.
+- 755 56 Ein Paar Porzellan-Blumenvasen, bunt,in Form eines hohlen Baumstammes, zu dessen Fuissen je eine weibliche Figur sitzt, die eine eine Vase bemalend, die andere in melancholischer Haltung, zu Fuissen einen Hund. Hohe 19 cm.
+- 757 58 Zwei Berliner Porzellanfiguren, bunt, Madchen mit Stieglitz und mit Blumenkorb. Hohe 16cm.
+- 759 Limbacher Porzellanstatuette, bunt, Bauernmadchen vor einem Butterfasse. H.13.5 cm.
+- 760 Grosse Delfter Schussel,in japanischer Manier reich bemalt mit Blumen und Vogeln, blau auf weissem Fond. Durchm. 48 cm.
+- 761 62 Zwei Berliner Porzellan-Fruchtschalen, mit eckigem Henkel;Blattform. Mit Ornamentborduren und Rosetten bemalt. Lange 25 cm.
+- 763 MahagoniTischchen, Empire, mit Schiebethir und Schubkasten. H. 77,Br. 51,Tf. 40 cm.
+- 764 Grosser Mahagoni-Bucherschrank mit 4 Glasthiren. Innen mit Stufeneinrichtung zum beliebigen Verstellen der Boden. H.260, Br.158,Tf. 39 cm.
+- 765—70 Sechs Mahagoni-Stuhle, geschweift und geschnitzt. Der Sitz gepolstert und mit gepresstem Plisch bezogen.
+- 771 Alte Eschenholz-Geldkassette mit Intarsien.In der Platte 8 Spalten zum Einwerfen des Geldes. Mit Messingbeschlag. H. 17,Br.42, Tf. 27 cm.
+- 772 Rococo-Zuckerdose, Silber,oval, reich ornamentirt in schoner Treibarbeit. H. 8,Durchm. 14,5 zu 10,5 cm. Gew.2i5 g.
+- 773 Rococo-Sahnenkanne, Silber, Helmform mit Henkel, reich ornamentirt. Am Fusse Namensbezeichnung und Jahreszahl 1787. Hohe 19 cm. Gew.287 g.
+- 774 Rococo-Theebuchse, Silber,geschweift. Auf der Leibung zwei in Treibarbeit ausgefuhrte schone Kartuschen mit Blumenranken. Mit Deckel. Hohe 14 cm. Gew.178 g.
+- 775 Geschliffenes Glas mit Ausgussnase,langlich 8 seitig,mit Jagdscenen und mit Landschaften theils geschnitten und vergoldet, theils mit schwarzer Lackfarbe gemalt. Der Rand vergoldet. Schlesien XVI11. Jahrh. Hohe 11,5 cm.
+- 776 77 Zwei kleine Glaschen, langlich vierpassformig, mit Blumendecor in Mattschliff. Der Fuss spiralformig gewunden, und mit eingeblasenen Rubinfaden mit Gold. Hohe 6,5 cm.
+778. Becherglas, doppelt vierpassformig,mit Blumendecor in Mattschliff. Hohe 9,5 cm.
+- 779 Kleiner Tisch, grun,mit geschweiften Fussen,in der Platte eine Darstellung in Perl-Mosaik. H.70,Br.65,Tf.43cm.
+- 780 Tischchen,in Form eines Postaments mit sternformiger Platte,aus bunten Holzern zusammengesetzt. Sehr reiche Kropfung, die Platte zugleich Deckel, an Charnieren. H.78, Durchm. derPlatte 41cm.
+- 781 Rundes Damentischchen, Esche. Mit Schubkasten und Fachern. Die leicht geschweiften Fisse durch Steg verbunden,am Boden Arbeitskorbchen. H. 75,Durchm. 50 cm.
+- 782 Elfenbein-Triptychon, geschnitzt und theilweis vergoldet. Im Mittelfelde mit spitzem Giebel Christus am Kreuz, rechts Maria,links Johannes betend. In Holzkasten. H.24, Br. 18 cm.
+- 783 Silberne Dose mit gekehlten Wanden,innen vergoldet. Auf dem Deckel Emailbild, bunt und mit Gold, Landschaft mit Figuren. Gew. (incl. Emailbild) 122 g. H. 4, Gr. 75 zu 5,5 cm.
+- 784 Emaildose, weiss mit Bronzebeschlag, rechteckig.  Auf der Leibung farbige Blumen und Bordure en relief. H.4,Gr,13 zu 5,5 cm. Mit Rissen.
+- 785 Hubertus-Dose, Email,rechteckig,mit bunten landschaftlichen Darstellungen.A Auf dem Deckel Inschrift: Nuncia pacis und Hubertusburg, D. 15. Febr. MDCCLXIII. Im Innern allegorische weibliche Gestalt mit Scepter und Aehre. H.3, Br. 7,5, Tf. 5,8 cm.
+- 786 Silberne Tabaksdose, flach,rechteckig,mit sehr reichem Decor. Ornamentranken,gravirt, mit gestanztem Grunde. 2 Deckel,je einer an den kurzen Seiten mit eingravirtem Namen: Joseph Neumogen. Grosse 13 zu 5,5 cm. Gew. 97 g.
+- 787 Eiserner Schlussel, der Griff zierlich gearbeitet und in Eisen geschnitten. Lange 15 cm.
+- 788 89 Zwei Desgleichen, im Griff des einen eine Krone mit Buchstaben D. E. S. und der Zahl 1721,durchbrochen gearbeitet.Lange 10 und 8 cm.
+- 790 Diverse eiserne und bronzene Beschlage, reliefirt, gravirt und durchbrochen gearbeitet, zusammen 12 Stick. Darunter sehr interessante Sticke.
+- 791 Handwerks- und Reise-Necessaire, Eisen, in Form eines vierseitigen Prismas.  Aussen befestigt ein Zirkel. welcher angeschraubt ist und den Verschluss eines Tintenbehalters bildet. Innen kleine Facher, Sandbuchschen und diverses Handwerkszeug. In lederiberzogenem und goldgepresstem alten Etui. XVII. Jahrh. Sehr originell. Lg.14,5, Br. 3 cm.
+- 792 Kupferner Jungfrauenbecher, mit Spuren yon Vergoldung.1 Das glockenformige Untertheil sehr reich gravirt, der Becher zwischen durchbrochenen Tragern befestigt. Die Leibung geflechtartig behandelt. Hohe 25 cm.
+- Katholisches Gebetbuch,1844.In blauem Sammet-Einband und mit reichem silbernen Be-
+- 793 schlag an den Ecken und am Bugel. Grosse 17,5 zu 12 cm.
+- Gute Arbeit.Auf ovaler Holzplatte.
+- 794 Buchsbaumschnitzerei, Gruppe von zwei Ringern.
+- H.14,5cm.
+- 795 Franzosische Bronzebuste, Heinrich IV. von Navarra, auf Bronze-Postament mit Marmor. Hohe mit Sockel 18 cm.
+- 796
+- Desgleichen,Voltaire,von feiner Charakteristik. Hohe 19,5 cm.
+- 797 Desgleichen. J. J. Rousseau. Pendant zum Vorigen.
+- geschweift. Hohe 16 cm.
+- 800 Bronzestatuette, alte Replik des Apoll von Belvedere. Sehr schon modellirt. Hohe 13,5 cm. Auf schwarzem Holzsockel.
+- 801 802 Zwei Bronze-Sphinxe, mit schoner dunkler Patina. Auf rechteckigem Messingpostament. H.7,Lg.12,Br.6,5cm.
+- 803-805 Drei Porzellan-Miniaturen. Zwei Landschaften in viereckigen Sammetrahmchen mit Metallbeschlag. H. 4,5,Br.7,5 cm. Hafenpartie mit Figuren in ovalem Metallrahmchen. H.4,3, Br.8cm.
+- 806 807 Zwei Email-Miniaturen. Die Madonna mit dem Kinde und St Johannes. Oval. H.3,5,Br.4cm. Diana in einer Landschaft. Herzformig. H.3,5,Br.3,9cm. Metallrahmchen.
+- 808 Partie silberne Buchbeschlage. Rococo, schon ornamentirt. Gew. 175 g. Zusammen 11 Stick.
+- 809 Desgleichen, sehr fein ornamentirt und mit Reliefs von biblischen Figuren. Zusammen
+- sechs Stick.
+- 810 1l Siibernes Petschaft mit Elfenbeingriff in Form eines schildhaltenden Lowen. Monogramm A. S. und Furstenkrone. 5 diverse Schnallen mit pierres de Strass.
+
+## VI. Auctionstag:
+
+## Montag, den 30.November 1896,
+
+von to Uhr ab.
+
+- 812 Meissener Porzellan-Blumentopf mit Eichenbaumchen. Der Topf weiss,mit zwei vergoldeten Mascarons und zwei in grin gemalten Genrescenen. Das Baumchen mit Blattern und
+- Frichten.H.24,Durchm.des Topfes 11 cm.
+- 813 Meissener Porzellanvaschen, bunt und mit Gold. Rococo. Mit sehr fein gemalten Singvogeln auf der Leibung. Hohe 12 cm.
+- 814 Porzellanstatuette, bunt, Bauer, im Stuhl sitzend, eine Kaffeekanne in der Hand. Hohe 9 cm.
+- Frankenthaler Porzellangruppe, bunt, Knabe sucht einem Madchen eine Weintraube zu
+- 815 entreissen. Hohe 11 cm.
+- 816
+- Frankenthaler (?) Porzellanstatuette, bunt, Knabe in geblumtem Rock, barfuss. Hohe 14 cm.
+- 817 Desgleichen (?), bunt, Bauer mit Blumen im Rockschoss. Hohe 13,5 cm.
+- Meissener Porzellanfigurchen, bunt und mit Gold. Putto als Turke, mit Krummschwert in
+- 818 der Hand. Hohe 13,5 cm.
+- 819 Meissener Porzellanstatuette, Stutzer in gelbem,geblimten Frack,Rococo. Hohe 15 cm.
+- 820 Wiener Porzellanstatuette, bunt,Bauer mit Henkelkorb am Arm. Hohe 165 cm.
+- 821
+- Rauchbild von P. Meyerheim.Affe,die Arme zu einem Balken erhoben.Mit der Kinstlerbezeichnung. H. 21,Br. 14. In altem geschnitzten und vergoldeten Holzrahmen.
+- 822 Desgleichen yon C. Becker. Cavalier mit Federhut und Degen in ganzer Figur stehend.
+- Bezeichnet:C.B. H.21,Br. 14. In altem geschnitzten und vergoldeten Holzrahmen.
+- 823 24 Zwei gerahmte Farbendrucke, Punktirmanier von Colibert. Mars recompense la valeur. Apollon encourage les talents. Sehr zart gestochene Blatter, Rand um die Darstellung und
+- bei dem zweiten Risse unterlegt.Qu. fol.Die Rahmung alt.
+- 825 Miniatuire in viereckigem verzierten Bronzerahmen.Marie Antoinette mit zwei Hofdamen im
+- Parke von Trianon. Eine junge Bauerin bietet Blumen an.H. 19,Br. 26.
+- 826 Spiegel von rechteckiger Form mit halbkreisformigem Aufsatz und durchbrochener, geschnitzter Verzierung.Der Rahmen schmal, aus braunem Marmor mit Perlleisten. An den Seiten schlanke Saulen. XVIII. Jahrh.H. 76,Br.34 cm.
+- 827 Desgleichen, ahnlich dem Vorigen,mit facettirtem Krystallglas. Hohe 70 cm.
+- Mit
+- Grosse, schmiedeeiserne Laterne mit farbigen Glaseinsatzen, barockes Blattwerk mit Blumen.
+- 828 Schone Arbeit. Hohe 90 cm.
+- 829 Ein Coupon alte Spitze. Point d'Alencon. Lg. 105, Br.8 cm.
+- 830 Kragen aus alt Venezianer Spitze. Breite 7 cm.
+- 831 Alte Geige. Im Innern bezeichnet Ludovicus Guersan. prope Comoediam Gallicam Lutetiae, Anno 1747. An Stelle der Schnecke ein schon gesehnitzter, weiblicher Kopf.
+- 832 Wedgwood-Platte, rechteckig, Kinderfries auf blauem Grunde. Mit Sprung. Grosse 15 zu5,5cm.
+- 833 34 Zwei gerahmte Farbendrucke, Schabmanier von W. Ward nach R.Westall. Henry IV. of France reconciles. Rhynsault confronted by Sapphira,in the.Schone, etwas nachcolorirte Blatter mit Rand um die Darstellung. Im Rande etwas fleckig. Roy.qu. fol.
+- 835
+- Gerahmter Rothdruck von Th. Burke nach A. Kaufmann. The death of Eloisa. Kraftiger Abdruck mit Rand um die Darstellung. Fol.
+- Bronzegruppe, Milon von Kreta vom Lowen iberfallen. Gut modellirte Gruppe. Auf
+- 836 schwarzem Steinsockel, bez.P. Pyget,1622. Hohe 21 cm.
+- 837
+- 838 Franzosische Porzellangruppe, drei Bacchanten-Putti; reizende, humorvolle Darstellung.
+- Porzellanfigur eines Afen, Frichte verzehrend, bunt. Mit Hochster Marke. Hohe 45 cm.
+- Hohe 16 cm.
+- 839 Smyrna Teppich. Auf dunkelblauem Grunde Blumenvase mit grossem Strauss,an den Seiten Fillhorner mit Festons und Blumen. Sehr schones Exemplar. Grosse 300 zu 1l0 cm. Mit Goldfransen.Das Muster auf beiden Seiten.
+- 840 Alter Gobelin, mit Blumenranken auf gelbem Grunde. Grosse 320 zu 240 cm.
+- 841 Ludwigsburger Porzellangruppe, bunt und mit Gold; Juingling und Madchen tanzend. Auf
+- Rococosockei. (Restaurirt).Hohe 16 cm. Mit Marke.
+- 842 Meissener Porzellanleuchter, dreiarmig, bunt und mit Gold. Die Leuchterarme aus sich verschlingenden Blumenzweigen gebildet. Zu Fuissen zwei Amoretten, Knabe mit Fernrohr und Madchen als Hausirerin. Hohe 21 cm.
+- 843
+- Geschliffenes Glas, zwolfseitig,oval, theils gerade, theils geschweifte Felder. Der Fuss rund und gezackt, der Stander facettirt. Das Dekor reich; Mattschliff. Hohe 1l cm.
+- 844 Geschliffenes Becherglas,von ovalem Querschnitt, nach dem Fusse zu sich verjungend. Der obere Rand ornamental ausgeschnitten und vergoldet.An der Stirnseite Medaillon mit Monogramm G.W. Auf der Leibung Jagdscenen in Mattschliff. Hohe 15,5 cm.
+- 845 Zwei Rococo-Spiegelkonsolen, holzgeschnitzt und vergoldet, halbrund. Die Zargen und die durch Steg verbundenen Fuisse iberaus reich geschnitzt. Die Platte mit rothbraunem Fries iberzogen. H.78,Br.110, Tf.40 cm.
+- 846 Rococo-Spiegel-Konsoltisch, holzgeschnitzt, weiss mit Vergoldung und bunt bemalt. Die Fisse geschweift und durch Steg verbunden. Ueppigstes Rococo von brillanter Ausfuhrung. Mit profilirter schwarzer Marmorplatte. (Mit Sprung.) H. 86, Br. 110.Tf. 65 cm.
+- 847 Grosse Delfter Fayence Deckelvase, birnenformig, Fuss und Hals achtseitig. Die Malerei in tiefem satten Blau auf weissem Grund in chinesischem Geschmack, an der Basis ein phantastischer Fries,auf der Leibung Scenen aus dem hauslichen Leben. Am Halse acht grosse und acht kleine Medaillons mit Blumen etc. auf Mosaikgrund. Sehr schones Stick. Der Deckel erganzt.H. 43,Durchm.29 cm.
+- 848
+- Grosse chinesiche Stangenvase, mit bunter, sehr schoner Malerei in Roth, Blau, Grin und Gold. Hohe 58 cm.
+- 849 50 Ein Paar rubinfarbige Glasvasen mit Deckel, der Hals cylindrisch, die Basis kegelformig. In Rococo-Montirung, aus vergoldeter Bronze, sehr elegant und zierlich in Form und Zeichnung. An den Henkeln Pfauen,als Deckelbekronung eine Amorette mit Taube. Dekorative Sticke. Hohe 47 cm. Mit Springen im Glase.
+- 851 52 Ein Paar Empireleuchter aus geschliffenem Berg-Krystall mit Fuss und Tulle aus Messing.
+- Der Schaft reich und kraftig profilirt. Sehr schone Sticke. Hohe 27 cm.
+- 853 Antike Bronzestatuette,mannliche Figur mit einem Halbmond auf dem Kopfe,ein Instrument
+- in der erhobenen Linken,in der Rechten einen Stock mit Knopf haltend.Sehr schon modellirt.Mit dunklen Patina. XVI. Jahrh. Auf schwarzem, profilirtem Holzsockel. Hohe14 cm.
+- 854A Antiker Bronze-Stehleuchter, doppelarmig,Messingguss mit Schalksnarr, welcher in den beiden
+- ausgestreckten Armen die glockenformigen Lichttillen tragt,deren Scheiben von durchbrochenen Friesen mit Kreisornament umzogen sind. Die sechspassformige Unterplatte auf drei hohen Fussen. Hohe 24 cm. Um 1500. Sammlung Riedinger.
+- 855 Meissener Porzellangruppe, bunt und mit Gold. Vogelfanger an der Mauer. Zur Seite das geoffnete Vogelbauer. Flott modellirt und schon gemalt. Hohe 20,5 cm. Samml. Friedrich.
+- 856 Desgleichen, Piqueur mit Meute, fein gemalt und mit Vergoldung. Hohe 16,3 cm. Sammlung Friedrich.
+- 857
+- Silbernes, getriebenes Relief eines Ritters zu Pferde mit entblosstem Kopfe. Im Hintergrunde eine Stadt und Kampfszenen angedeutet.In viereckigem Holzrahmen mit schwarzen Flammleisten und Schildpatteinlagen.Vorzuglich ciselirt. H. m.R. 23,5,Br. 19,5 cm.
+- 858 Schwarzes Hausaltarchen mit Bildfillungen,Eglaumise. Im unteren Felde in einem Medaillon die Flucht nach Egypten,im oberen die Anbetung der Konige. Die Bilder unter Glas.H.23, Br.17 cm.
+- 859 Bronze-Thurklopfer,Biste einer Bacchantin,an den Armen und von der Brust an in Voluten
+- auslaufend. Braune Patina.Auf schwarzem Steinsockel befestigt.Originelles Stuck. Hohe 16cm.
+- 860
+- Bronzegruppe,(Baiser de Houdon) Satyr, eine Bacchantin kuissend. Buisten, auf hohem Postament, aus Bronze und rothem Marmor. Ganze Hohe 27 cm.
+- Desgleichen, Venus und Adonis. Von ahnlicher Ausfuhrung. Pendant zu voriger Nummer.
+- 861 Sehr hibsche Darstellungen.
+- 862 Auf ovalem Postament ein Ziegenbock,liegend, auf welchem ein mit Trauben bekranzter Putto sitzt, wahrend ein anderer dem Bock Trauben um den Hals windet. Im Hintergrunde ein Baum. Originelles reizvolles Sujet.
+- Wiener Porzellangruppe, Kinder-Bacchanal.A H.24,Durchm.d.Sockels 17 zu 10,5 cm.
+- 863 Meissener Porzellangruppe, bunt und mit Gold; Harlequin und Dame. Letztere sitzt mit einer Schussel voll Frichten auf dem Schoss vor einem Tischchen,wahrend ersterer ihr eine schwarze Maske vor das Gesicht halt. Sehr schone Gruppe. H. 13.5, Durchm. 14 zu 10 cm.
+- 864
+- Chelsea-Gruppe, bunt und mit Gold, als Leuchter dienend. Darstellung von Fuchs und Ziegenbock am Ziehbrunnen nach der Fabel von La Fontaine. Sehr schone Gruppe. Hohe 27,5 cm.
+- 865 Fayence-Schussel, Castelli, gerippt mit gebogtem Rande. Im Fond Landschaft mit Burg. Zarte Farbentonung. Sehr schones Exemplar. XVI1. Jahrh. H. 12, Durchm. 32 cm.
+- Statuette, Elfenbein mit Holz, Christuskind ?), Augen und Mund bemalt. Fusse,Kopf und
+- 866 Hande aus Elfenbein. Vorzuglich geschnitzt. XVIll. Jahrh. Hohe 30 cm.
+- 867 Grosser silberner Tafel-Aufsatz, bestehend aus einer grossen Mittelschale aus Glas und zwei
+- fullhornartigen Blumenbehaltern an den Seiten. Die Basis und der Schaft rund,am Fusse kraftig modellirter Kranz von Blumen und Ornamentranken, deren Voluten die Fuisse bilden. Auf dem Schafte Kartuschen mit Blumen und Festons mit Bandschleifen. Auf den agraffen-
+formigen Voluten der Fullhorner weibliche Figuren, Tauben futternd. Die Glasschalen mit schonem Mattschliffdekor. Styl Louis XVI. Sehr pomposes Stuck aus der Sammlung Strussberg. H.39,Br.52,Gew.2355g.
+
+- 868 Meissner Porzellan-Kaffee- und Theeservice, tete a tete, Marcolini, bestehend aus rechteckigem Brett mit abgestumpften Ecken,Kaffee-,Thee- und Milchkanne,bunt und mit Gold. Die Theekanne langliche Vierpassform, die Kaffee- und Milchkanne glatt und konisch. Mit reichem Golddekor, Linien und Spitzenborduren,auf der Leibung Blumenstrausse in vorziglicher Ausfihrung. Am Henkel und Ausgussrohr grun gemalte Akantusblatter. Prachtiges Service mit geringen Defekten. In Original-Holzkasten,innen mit grauem Sammet ausgeschlagen.
+- 869 Bronzestatuette eines springenden Lowen mit doppeltem Schweif. Mit den Pranken ein Schild haltend,auf welchem das Monogramm B.E.M.und die Jahreszahl 1713. Auf Steinplatte mit Holzuntersatz. H.25, Sockelgr.25,5 zu 14,5 cm.
+- 870 Bronzeglocke. Der Griff stellt Maria mit dem Jesuskinde dar. Auf der Leibung in vorziglicher Reliefbehandlung eine betende Maria,ein Seraph mit Cruzifix, am oberen Rande Widderkopfe mit Festons, dazwischen eine Vase mit Blumen und Engeln,von denen zwei das Schweisstuch der heiligen Veronika halten.Um den unteren Rand die Umschrift: Me fecit Johannes Afine. Ao 1556. Der Kloppel fehlt. H. 11, Durchm.7 cm.
+- 871 72 Griechisch-Orthodoxes Heiligenbild. Madonna mit dem Kinde. Mit Inschrift. H.7 Br.5,5.Holzrahmen.— Oelminiature, Brustbild eines Bischofs,umgeben von vier heiligen Darstellungen. H. 11, Br. 8,5 cm. Die heiligen Darstellungen H.7,Br. 5,5 cm. Sammetrahmen.
+- 873-75 Pergamentminiature. Huftbild eines jungen Mannes in turkischem Kostum mit Maske. H. 16, Br. 12 cm.-Desgleichen. Zwei Monche mit einem jungen Madchen bei Tisch, der eine Monch in Frauenkleidern.H.18,5,Br.13,5 cm.Gerahmt.-Elfenbeinminiature,rund. Maskenscene. Ein Mann umarmt ein junges Madchen. Durchm.8,7 cm. Ohne Rahmen.
+- 876 Miniature. Marie Antoinette, von zwei Hofdamen begleitet, im Parke von Trianon. Ein junges Bauernmadchen bietet der Konigin Blumen an. H.12,Br. 16 cm. Bronzerahmchen, viereckig.
+- 877 Desgleichen. Drei junge Damen von Rosen-Guirlanden umwunden auf einem Sopha.Vor ihnen der Altar der Freundschaft. Empire-Kostim.H. 17,5,Br. 13 cm. Bronzerahmchen, viereckig.
+- 878 Meissener Porzellanstatuette, bunt. Atlas, das Himmelsgewolbe tragend. Hohe 15 cm.
+- 879 Desgleichen, bunt. Bauern mit Huhn und Blumenkorb. Hohe 10 cm. Aus dem ehemaligen Besitz der Frau Landgrafin Marie von Hessen.
+- 880 Desgleichen, bunt und mit Gold. Dudelsackblaser. Das Kostim sehr schon gemalt. Hohe 11,5cm.
+- 881 Gemalte Glasscheibe in Bleifassung. Mit Darstellung der Kronung Maria, wahrscheinlich Ehrenscheibe, gegeben dem Florentz Weittnawer 1639 als Hauptmann" der Feldrichter (Haberfeldtreiben?) Oben eine darauf bezigliche Vignette,unten ein langerer Spruch zur Verherrlichung der Feldrichter. In Holzleiste. H. 36, Br. 20 cm. Interessantes Stick. Mit Springen.
+- 882 Ein Paar Delfter Vasen, blauweiss, in Gestalt einer Eule. Vorn mit Wappen und Helm. Hohe 26 cm.
+- 883
+- 884
+- Empire-Bettgestell, Polysander mit Messing-Einlage.
+- Rococo-Spiegel mit holzgeschnitzter, vergoldeter Rahmung. H.110, Br.58 cm.
+- 885 Desgleichen. H. 80,Br.35 cm.
+- 886-89 Garnitur von vier japanischen Vasen, zwei birnenformige mit Deckel und zwei kleine
+- Stangenvasen, das Dekor blau-roth-gold. Hohe 23 cm.
+- 890元斤 Casel aus orangefarbener Seide mit stilisirten Blumen in Roth und Silber. Das Kreuz blau-
+- 891 Desgleichen,ebenso.
+- 892 Rauchmantel,Louis XV.Gelbseidener Fond mit bunten Blumenstraussen,abwechselnd mit Arabesken in rother Seide.Der Rand und die Kappe roth,mit reichem,farbigem Arabeskenmuster und breiter Goldbordire.Mit dem Zeichen der Gesellschaft Jesu.
+- 893 Porzellanleuchter, bunt und mit Gold, dreiarmig. Mit bunten, aufgelegten Streublumen verziert.Hohe 33 cm.
+- 894 Ein Paar Email-Leuchter,weisser Fond mit bunten Streublumchen,gerader,proflirter Schaft. Mit Bronzebeschlag.Hohe 24 cm.
+- 895 Rococo-Schreibzeug, Bronze, Tinten- und Sandfass aus Porzellan mit Streublimchen bemalt. In der Mitte Amorette mit Guirlande.An der Ruckseite ein Leuchter in Form eines Blumen-
+- zweiges mit Bluthen aus Porzellan.H.19, Lg. 26 cm.
+- 896 Schleppe aus glattem, schwerem Silberbrokat. Lg.230,Br.130 cm.
+- Rauchmantel aus weisser, gemusterter Seide mit farbigen Blumenstrausschen. Mit Goldbordire
+- 897 eingefasst. Louis XV.
+- 898 Rauchmantel, stahlblauer Seidengrund mit schoner, reicher Musterung in Weiss, Roth und Gelb. Motiv des Granatapfelmusters,schon stilisirt. XVII. Jahrh.
+- 899 Bronzestatuette nach der Antike, Venus, dem Bade entstiegen. Hohe 23 cm. Auf rundem Holzsockel.
+- 900 Kastchen mit Walzahn plattirt auf vier Kugelfusschen. In kleine,rechteckige Felder getheilt, gravirt und mit Farbe eingerieben.Einzelne Rechtecke grun getont. In der Mitte durchbrochenes Feld mit springendem Hund.Innen mit rothem Sammet ausgeschlagen.Reizende
+- Arbeit. Sibirien,XVIII. Jahrh. H. 4,5,Br. 12 cm.
+- 901 Delfter FayenceDeckelvase, bunt, achtseitig und gerippt.Mit Blumen in Blau,Roth und
+- Grin bemalt.Hohe 36 cm.Schones Stick.
+- 902-907 Sechs chinesische Porzellanteller mit sehr schoner, reicher Malerei, bunt und mit Gold.
+- Durchm. 22.5 cm.Theilweise mit Sprung.
+- 908-14 Sieben Desgleichen mit ahnlichem Dekor.
+- 915-19 Drei Furstenberger Porzellanteller, bunt mit Malerei von Blumen. Frichten und Vogeln,
+- zwei chinesische Teller mit schoner,reicher Blumenmalerei, bunt und mit Gold.
+- 920
+- Glasbild. Allegorie auf die Verganglichkeit. Konig, auf einer Terrasse sitzend, weist mit beiden Handen auf Todtenkopf und Spinngewebe. Translucide Malerei. H. 39, Br. 31 cm.
+- Gerahmt.Wohl XVIII.Jahrh.
+- 921-23 Drei Kapsel-Miniaturen mit zwei weiblichen und einem mannlichen Portrait. Die eine
+- auch auf der Rickseite bemalt.Oval.H. 5,Br.4 bis H.7,Br.6 cm.
+- 92425 Zwei Desgleichen auf Elfenbein.Weibliche Halbfiguren in Rococo- und Empire-Kostum.
+- 926
+- H.14,Br.10.5 und H.11, Br. 7,5 cm. In ovalem Bronzerahmchen.
+- Ein Desgleichen. Venus, Amor und Bacchus in einer Landschaft. Halbfiguren. Oval. H.9, Br.7 cm.Rococo-Metallrahmchen,durchbrochen.
+- 927-29 Drei Desgleichen, Zwei mannliche und ein weibliches Brustbild. Von ausserst feiner Durchfuhrung. H. 3,5, Br. ca.3 cm Metallrahmchen. Das weibliche Brustbild in Filigranrahmchen mit rothen Steinen.
+- 930 Necessaire in Achat-Etui von ovalem Querschnitt, gut vergoldet und in messingvergoldeter, gravirter Montirung. Mit complettem Inhalt. Der Achat sehr schon geflammt. Linge 8,8 cm.
+- 931 Desgleichen, wie das Vorige. Die Einrichtung nicht ganz complet.
+- 932 Necessaire-Etui. Pique-Arbeit, Elfenbein mit Silber. Langlich-vierpassformiger Querschnitt, mit Silbermontirung. Lange 9,5 cm.
+- 933 Anhanger aus Silberfiligran mit Emaille und geschliffenen Steinen. Lange 5 cm.
+- 935 Silberne Sauciere mit Untersatzteller, Rococo. Innen vergoldet. Mit schonem, reichem, reliefirtem Ornament. Lg.20 cm, Gew.373 g.
+- 934 Silberne Schale mit gebogtem Rande, innen vergoldet,oval. Im Fond figurliche Darstellung in Relief, am Rande Fruchtzweige. Mit zwei durchbrochenen Henkeln. Grosse 16.5 zu 13 cm.
+- 936 Necessaire in Email-Etui, weiss mit bunter, miniaturartig ausgefuhrter, sehr schoner Malerei, Landschaften mit Figuren. Der Inhalt theilweise aus Silber. XVIll. Jahrh. Lange 9,3 cm.
+- 93738 Ein Paar Limoge-Platten, hohe Rechteckform, mit je einer allegorischen Figur en grisaille. H.20,Br.6 cm.
+- 939—43 Funf Desgleichen,zwei ovale,mit weiblichen, allegorischen Figuren: Ars victrix,Philosophia. Lg. 13,5, Br. 6,3 cm. und 3 kleine ovale, Kopf und Ornamente, en grisaille auf blauem Fond. Durchm.7 zu 5 cm.
+- 944-47 Vier Desgleichen, zwei rechteckige, H. 13,5, Br. 9 cm. und zwei ovale (7 zu 5 cm.) Mit Musik-Stillleben.
+- 948 Rococo-Rock, schwarzes Tuch mit farbiger schoner Seidenstickerei.
+- 949 Desgleichen, dunkelbraun,ebenfalls reich gestickt.
+- 950 Casel aus gepresstem gelben Plisch. Das Kreuz aus Wollstoff mit prachtiger Wollstickerei. farbige, stilisirte Blumenranken,eingefasst von gemusterter Seidenbordure.
+- 951 Grosser, eisenbeschlagener Eichenholzkasten mit gewolbtem Deckel, zwei Handhaben und vier Kugelfussen mit Krallen. Der Beschlag durchbrochen. Deutschland. XVI. Jahrh. H.23,5,Br.43,Tf.29cm.
+- 952 Wand-Etagere, Holz, vergoldet. In der Rickwand Spiegel. Mit spiralformig gedrehten Saulchen und ausgeschweiften Platten. H. 50, Br. 55 cm.
+- 953 54 Zwei Rococo-Spiegel-Konsolen, holzgeschnitzt und vergoldet, zierlich geschweift und geschnitzt. Mit weiss gestrichener Holzplatte. Hohe 68 cm.
+- 955 Anhanger in silberner Fassung, oval. Beiderseitig Camee in rothlichem und graugrinem Stein geschnitten,darstellend:Dante und Petrarka. Gr.4,5zu3,3cm.
+- 956 Alte Messingwage mit ornamentirtem und gravirtem Bigel mit Schnur und Quasten.
+- 957 Offizier-Ringkragen. In einer mit Trophaen umrahmten und von der Konigskrone gekronten Kartusche ein Emailschild mit dem preussischen Adler, mit Gold-tauschirten Emblemen. XVIII. Jahrh. Lange 15 cm.
+- 958 59 Zwei Oelgemalde von P. Lengerich. Apollo und Herkules.-E Herkules zwischen Mercur und Pallas. Gut in Farbe und Zeichnung. Auf Leinwand. H. 28,5, Br. 28,5. Ohne R.
+- 960 Ein Desgleichen von einem deutschen Kunstler des XvIll. Jahrhunderts. Ein heidnischer Konig von seinem Hofstaat umgeben wohnt der Verbrennung einer Verurtheilten bei. Auf Holz. H.24,5,Br.31,5.Ohne R
+- 961 Drei goldene Ringe mit verschiedenen Steinen, theilweise auch mit Silberfassung.
+- 962 Zwei Desgleichen, emaillirt und mit verschiedenen Steinen besetzt.
+- 963 Zwei Desgleichen mit Freundschaftsbildchen und Steinen.
+- 964 Sechs diverse Ringe, dabei zwei eiserne, zwei goldene mit Steinen, eine ovale Achat-Kamee.
+- 965 Rococo-Frauenkleid, aus saumonfarbigem, schwerem Seidenstoff mit Blumenbouquets in farbiger Seide kunstvoll gestickt. Louis XV.
+- 966-69 Empire-Frauenkleid, hellblaue Seide mit farbigem Blumenstrausschen; Desgleichen, schwarzer Grund mit violetten und bunten Streublumen; seidene gestickte,weisse RococoWeste, Bauernjacke, schwarzes Tuch mit Sammet, gestickten Aermeln und silbernen Knopfen.
+- ietz hast in der Handt, das war Vorhero Eisenbandt." H. 6, Durchm. 7 cm. XVil. Jahrh.
+- 970 71 Zwei Becher aus sogen. Cementkupfer, Form der Stehauf." Einer innen vergoldet, mit Medaillons und Inschriften. Die Leibung gekornt. Auf dem einen die Inschrift:Was Du
+- 972 73 Bronzeplatte, viereckig, mit antiker, weiblicher Relieffigur. Gr. 17 zu 10,5 cm und Reliefplatte aus Eisen, der Evangelist Johannes. Gr. 12 zu 8,7 cm.
+- 974
+- Bronzebuste von Gayrard (1844. Thiers. Mit Patina. Sehr gut modellirt. Hohe 23 cm.
+- 975
+- Rudolstadter Porzellanschussel mit reliefirtem Rande, Streublumen und Insekten. Durchm. 35 cm.Restaurirt.
+- 976-78 Fayencenapf mit Henkel und Deckel,bunt bemalt, im Innern St. Joseph mit dem Christuskinde.Hohe 14 cm. Meissener Porzellan-Blattschale, mit Goldkante und Streublumen, zwei Fayenceteller mit Malerei.
+- 979 80 Zwei Nassauer Kruge, grau-blau, mit gepresstem Dekor.  Ein Krug mit Zinndeckel. Hohe 18 cm.
+- 981
+- Mannliche Biscuit-Portraitbuste, auf weissem Porzellansockel, Berlin. Hohe 12 cm.
+- 982 Hoher Glaspokal, mit reichem Mattschliffdekor. Auf der Cuppa das Monogramm F. R. W. mit Krone und Darstellung einer Jagd zu Pferde. Mit Sprung. Hohe 31 cm. XVIll. Jahrh.
+- 983 Kleines Bernstein-Schachbrett auf Mahagoni-Unterlage. XVII. Jahrh.
+- 984 85 Zwei Berliner Porzellanschreibzeuge, weiss und orangefarben mit Gold.
+- 986 Grosser Nassauer Steingutkrug, mit Zinndeckel und Fuss, mit schonem, geripptem Dekor
+- 987
+- auf blauem Grunde.Hohe 4l cm.
+- Buntes Delfter Flaschchen, mit Roth, Blau und Gold dekorirt. Hohe 18,5 cm.
+- 988
+- Sandelholzschnitzerei, romischer Kaiser im Ornat. Auf rundem, profilirtem Holzsockel. Hohe 13 cm.
+- 989 Emaildose, mit gemalten und getriebenen Blumen und Messingmontirung. H. 3,5, Br.6,5,Tf.4,5cm.
+- 990 Stahlplatte von Christ. Wilberg, radirt. Das Rathhaus zu Bamberg. Zu dem Werke Nah und Fern. H.28,Br.22,5 cm.
+- 991 Original-Kupferplatte von J. C. Erhard. Die von Ulanen escortirte Regiments-Casse. Das Blatt ist in Aloys Apell sub No. 103 verzeichnet. H. 15,5, Br. 20,5 cm.
+- 99293
+- Zwei Desgleichen von Demselben. Aus den siddeutschen Ansichten. Aloys Apell 3. u. 6. In Nurnberg. Auf der hohen Feste in Salzburg. H. 12,8, Br. 17,8 cm.
+- 994-96 Dolch, Bronze, der Griff eine stehende weibliche Figur, Lange 23,5 cm. Messer, mit Bronzegriff, in Gestalt einer weiblichen Statuette mit Amor, Lange 18 cm. Mantel einer Bronzeklingel, reich ornamentirt, mit dem Lilienwappen in einer Kartusche. H. 5, Durchm. 4,5 cm.XV1.Jahrh.
+- 997-99 Pulverflasche aus Weissblech, ornamentirt, mit Oesen und Ringen, eisernes Schloss, reich ornamentirt, Papiermesser, Rococo,Bronze. Lange 18 cm.
+- 1000-1001 Spitzglas,in Venetianer Art, Hohe 13,5 cm. Kleines Kelchglas mit Mattschliffdekor. Monogramm T.R. W.mit Krone.Hohe 16 cm.
+- 1002-1007 Sechs Spitzglaser mit schlankem Stander. XVIIl. Jahrh. Hohe 21 cm.
+- 1008-10 Drei diverse Kelchglaschen, gefachert und mit Luftblasen. Hohe 16 cm.
+- 1011-13 17 geschliffene Spitzglaser. Hohe 16,6 cm,
+- 1014 15 Zwei Emailplattchen, rund, auf schwarzem Grunde weibliches Brustbild. Durchm.3,9 cm.
+- 1016-18 Zwei Perlmutterknopfe mit Emailplatte,bunte Darstellung,drei runde Emailplatten mit verschiedenen Darsteilungen. Gr.4,5 cm,eine kleine Desgleichen mit weiblichem Portrait.
+- 1019 20 Email-Dosendeckel, mit Malerei in Watteau's Geschmack, auf der Innenseite Dame vor dem Spiegel. In holzgeschnitztem Rahmen. Gr.7 zu 6,5 cm und vergoldete Broche mit ovaler Elfenbein-Miniatire,weibliches Brustbild.Das Rahmchen ornamentirt und mit Rollwerk.Gr.3,5 zu 2,7cm.
+- 1021 Vergoldete Girandole mit tauartig gedrehtem Schaft und Kugelfussen. Hohe 127 cm.
+- 1022--24 Meissener Schussel,rund,mit reliefirtem Ornament auf dem Rande und Streublumen im Fond. Durchm. 36 cm und japanischer Teller, mit blau-roth-goldenem Dekor.In Metallrahmen.Durchm.25 cm. Beide mit Sprung. Berliner Porzellannapf mit Deckel, rund. Mit Blumen bemalt.
+- 1025 Funf Hauben und Kappen mit schoner Seidenstickerei, Gold- und Silberborden und seidenen Bandern.
+- 1026-29 Deckchen aus rothem Wollstoff mit Goldfaden und Franse,Kreuz einer Casel aus gepresstem gelben Sammet, ein Stick rother Damast, ein Shawltuch aus weisser Seide mit bunter tirkischer Kante.
+- 1030 Eine Partie (22 Stick) gelber gepresster Wolldamaste, Bezige zu Stuihlen.
+- 1031 Neun Stuick rother gemusteter Seidendamast, sehr feine Qualitat. (Bezige.) Defekt.
+- 1032 Bronzestatuette, Orang-Utang, sitzend, die Kinnlade beweglich. Auf viereckigem Marmorsockel.Hohe 14,5 cm.
+- 1033 Delfter Henkelkannchen, mit Zinndeckel und Zinnfuss. Die weisse Leibung mit blauen Blumen bemalt. Hohe 13,5 cm.
+- 1034 Bronzenachbildung einer Tempelruine. Hohe 9,5 cm.
+
+## Vll. Auctionstag:
+
+## Dienstag,den 1.December 1896,
+
+von 1o Uhr ab.
+
+- 1035 Kelchglas mit zierlich profilirtem Stander und glockenformiger Cuppa.A Auf dieser in Mattschliff das englische Wappen mit Devise,Hohe 19 cm, und kleines Glaschen mit rubinfarbenen Spiralfaden im Fuss,langlich vierpassformigem Kelch mit Mattschlifdekor. Hohe 8cm.
+- 1036 Flacon aus hellblauem Porzellan mit vergoldeter Bronze in ippigem Rococo. Die Leibung
+- birnenformig, mit schragen, spitz verlaufenden Wulsten. Der Stopsel aus Bronze in Form eines Strausses aus Bluthen und Fruchten. Beschadigt. Stick aus einem Waschservice des Konigs Ludwig II. von Bayern. Hohe 20,5 cm.
+- 1037
+- Kelchglas mit Deckel, mit glockenformiger Cuppa, Facette- und Mattschliffdekor und Freundschaftsspruch mit Sinnbild. Hohe 21,5 cm.
+- Desgleichen, von schlanker Form, mit ornamentirter Fussplatte,Facette- und Mattschliffdekor. Auf der Cuppa Kartusche mit mannlichem Portrait im Kostim des XVIl. Jahrh.
+- 1038 Hohe 14 cm.
+- 1039
+- Desgleichen, mit hohem,proflirtem Stander und reichem Mattschliffdekor. Mit Wappen und Monogramm mit Krone, Ornamentranken etc. Mit Sprung. Hohe 29 cm. XVIll. Jahrh.
+- 1040 Bierkrug aus Holz mit Zinnbeschlag, gravirt, mit Henkel und Deckel. Hohe 13 cm. Deutschland XVII.-XVIII.Jahrh.
+- 1041 Bronze-Morser, ornamentirt, mit Patina. Deutschland, frih-mittelalterliches Hausgerath. H.8,5,Durchm.9,5 cm.
+- 1042 Elfenbeinplatte, oval, mit Reliefschnitzerei. Schlafende Nymphe von einem Faun iberrascht. Sehr fein geschnitzt. Durchm. 8 zu 5,5 cm. XVIll. Jahrh.
+- 1043 Kleines Eschenholz-Tischchen mit zierlichen,vierkantigen Fussen. In der Platte Intarsien aus Polysander, Ebenholz und Ahorn. XVI1. Jahrh. H. 71,Br.58, Tf. 43 cm.
+- 1044 Ovales Nussbaumtischchen mit vier geradlinigen Fussen,die durch geschweiften Boden verbunden sind. In der Zarge Hohlkehlen mit Perlstaben aus Bronze. Die Platte schon gemasert.H.72, Durchm.70 zu 55 cm.
+- 1045 Kleines Schrankchen mit Marmorplatte, Polysander mit Intarsien aus Ebenholz und Ahorn. Das Mittelfeld getheilt,die obere Halfte als Thur,die untere als Kasten eingerichtet. Fusse und Rahmenholz reich eingelegt. Siddeutschland, XVI1. Jahrh. H. 82,Br. 57,Tf.42 cm.
+- 1046 Halbrundes Pfeilerschrankchen,Mahagoni mit Intarsien. In der Mitte eine Thur,dariber ein Schubkasten. Mit Bronze-Reliefbeschlagen, Kindergruppen. XVIHI. Jahrh. H. 95, Br. 83, Tf.48cm.
+- 1047 Bunte Delfter Fayence -Stangenvase mit schoner Malerei in japanischer Manier.1 Hohe 27cm.
+- 1048 Buchsbaumstatuette, Putto in schreitender Stellung. Brillant geschnitten. Hohe 9 cm. Auf schwarzem Sockel.
+- 1049 Wachsstatuette,einfarbig,Bauer ein Schaf scheerend. Auf der Tasche des Bauern bezeichnet V.N. Hohe 5 cm.Auf profilirtem Holzsockel.
+- 1050 Spieltisch, Polysander, Platte mit Schachbrett und Intarsien.  Mit Schublade und kleinen Ausziehplatten. Die Fusse schlank und gedreht. H. 76,Br.58, Tf. 50 cm.
+- 1051 Chinesischer Lackkoffer mit gewolbtem Deckel und Messingbeschlagen. Mit Goldmalerei und Perlmutter-Einlagen. H.29,Br. 59,Tf.24 cm.
+- 1052 Crucifix, gekreuzigter Heiliger. Bronze. Kreuz und Sockel modern in Holz. Hohe des Korpers 22 cm. Deutschland, XII. Jahrh.
+- 1053 Vortragekreuz, der Korper aus Bronze, Kreuz aus Eisen. H. 39,Br. 32 cm. Deutschland, XIl. Jahrh.
+- 1054 Karaffe und Glas aus Rubinglas.R Erstere kirbisformig,mit Fuss und cylindrischem Halse mit vier Ringen.Hohe 24,5 cm.Das Glas am Boden mit vergoldeter Blattbordire und Goldrand.Hohe 10 cm.
+- 1055 Zwei Oelminiaturen. Christus mit Dornenkrone und Schilfrohr dem Volke ausgestellt. Die heilige Jungfrau betend. Halbfiguren auf Goldgrund. Oval. H.4.5, Br.3,7 cm. Schwarze Holzrahmchen.
+- 1056 Miniature. Brustbild eines Fursten in Rustung und Hermelinmantel.In tergo bezeichnet: Grassi miniatur.August II. (Sachsen).H. 4,8, Br. 6,3 cm. Metallrahmchen mit abgerundeten Ecken.
+- 1057 Miniatire,bez. J.Weise fec. 1780. Das Brustbild Friedrichs des Grossen mit dem Stern des Schwarzen Adlerordens.Oval.H.6,4, B. 6,1.Bronzerahmchen.
+- 1058 Miniature. Huftbild einer Konigin in Hermelinmantel und reichem Brillantschmuck. Neben ihr die Krone. Von sehr feiner Ausfihrung. Angeblich Gemahlin Friedrichs des Grossen. H.3,8,Br. 5,6 cm.Ovales Bronzerahmchen mit Krone.
+- 1059 Ludwigsburger Porzellan-Kaffee- und Theeservice, bestehend aus Kaffee-,Milch- und Theekanne, Kuchenschale, Theebuchse und sechs Paar Tassen, bunt und mit Gold. Auf weissem Grunde sehr fein gemalte Insekten und Vogel auf Baumzweigen. Die Kannen mit Henkel und drei Fissen. Mit geringem Defekt. Sehr schones Service.
+- landschaftlichen Darstellungen.Der Rand mit sehr zierlichen Rococo-Ornamenten reliefirt. H.4,Durchm.6.8 cm.
+- 1063-65 Drei Schlusselhalter in Friesform aus Messing,reich gravirt,mit Jagddarstellung im Geschmack Virgil Solis, das eine von zwei ovalen Wappen bekront. XVIl. Jahrh.Lg. 33, Br. 3,3 cm. Sammlung Riedinger.
+- 1066 Bronzestatuette. Venus, dem Bade entstiegen,legt sich das Gewand an, den Kopf rickwarts nach der Seite geneigt. Auf schwarzem Holzsockel. Hohe 18 cm. XVIl. Jahrh. Mit brauner Patina.
+- 1067 Grosse Berliner Porzellan-Vase, eiformig,mit schlankem Hals und achtseitigem Fuss. Mit reichem Golddekor im Geschmack Louis Philipp, auf smaragdgrinem Grunde.Die Henkel gefluigelte Greifen mit ornamentaler Verbindung, matt vergoldet. Auf der Stirnseite Medaillon mit bunt gemalter Ansicht der Siegessaule. H. 61 cm.
+- 1068 Desgleichen,Empire, bunt und mit Gold, Urnenform. Die Henkel,ornamentales Blattbindel, matt vergoldet. Das Dekor ausschliesslich in Gold mit jaspisgrunen gemalten Blattern und Ovalen. Auf der Leibung in Violett gemalt zwei Idyllen von vollendeter Ausfuhrung. Sehr apartes,vornehmes Stick. H. 50, Durchm. 40 cm.
+- 1069 Meissener Porzellan-Gruppe, bunt. Quell-Nymphe mit Putten. Reizende Gruppe von drei Figuren,mit den entsprechenden Attributen.Vorziglich mo dellirt. H. 18,5, Durchm. am Sockel 15 zu 9 cm. Aus der Sammlung Buchner. Restaurirt.
+- 1070 Desgleichen, Juno mit dem Pfau und Tauben, begleitet von Amoretten. Sehr graziose Gruppe. Restaurirt.H.18, Durchm. am Sockel 15 zu 9 cm. Sammlung Buchner. Gegenstick zu voriger Nummer.
+- 1071 Empire-Toilettetischchen, Mahagoni mit Ebenholzfullungen,Bronzebeschlagen,geperlten Leisten und Emailplattchen. Mit Marmorplatte. Zierlich und elegant. Mit drei Schubkasten.H.80,Br.75,Tf.50 cm.
+- 1072 Kabinetspindchen, Nussbaum,mit farbigen Intarsien und Klappthir. Im Innern ein Mittelgelass und acht Schubkasten mit Intarsiafullungen (Stadteansichten). H. 38, Br. 44, Tf.30cm.
+- 1073 74 Zwei getriebene, silberne Schalen, oval, mit zierlichen Henkeln, Fuss und Leibung gebuckelt, mit Inschrift und Jahreszahl 1763. H. 9,5, Durchm. 11 zu 16 cm, Gew.422 g
+- 1075 Getriebene silberne Schale,innen vergoldet, die Leibung stark gebuckelt, die Rander gebogt. Im Fond Feston mit Frichten.Die Henkel an den Langseiten in Form einer Palmette und durchbrochen. Vorzigliche Arbeit. XVII. Jahrh.H.3,Durchm.16,5 zu 12,5 cm. Gew.134 g.
+- 1076 Desgleichen, kleiner, mit gebuckeltem Rande, die Henkel agraffenformig.Im Fond ein Schwan mit Schilf.H. 2,6, Durchm.12,5 zu 11,5 cm, Gew. 84 g. XVI1. Jahrh.
+- 1077 Goldene Bonbonniere mit Emailbild, in der Art Berchem's, rund. Die Wandung durchbrochen ornamentirt.In der Mitte ein rundes Medaillon mit figirlichem Relief. Sehr feines Stick. Durchm.5,5,H.3 cm.
+- 1078 Goldene Chatelaine mit Uhr,Louis XVI., quatre couleurs,bestehend aus aneinandergereihten ovalen Medaillons mit fein ciselirten Stillleben, umrahmt von Ranken und Schleifen. Mit verschiedenen Breloques. Die Uhr in Kugelform, bunt emaillirt. Lange 16 cm.
+- 1079 Suddeutscher Garderobenschrank, Nussbaum, auf flachen, runden Fussen, geradlinig,mit Pilastern und Maserholzintarsien, doppelthirig mit langgezogenen Fullungen und starker, wulstiger, vielfach gekropfter Kehlung.Das Gesims sehr flach.Mit Originalschloss. XVI1. Jahrh.H.220,Br.185, Tf.62cm.
+- 1080 Mahagoni-Eckschrank, Empire, bestehend aus einthurigem Untertheil mit Bronzerelief in der Mitte （Kinderbacchanal), iber der Thur Schublade mit schwarzer Rautenfullung und Bronzebeschlag. Die Ecken abgeplattet und mit Mascarons besetzt.Das Obertheil einthurig,mit Pilastern und geschnitzten,vergoldeten Karyatiden. In der Bogenfuillung der Thur mythologische Gruppe aus Bronze. H. 210, Br. 106, Tf. 60 cm.
+- 1081 Bronzestatuette,Darstellung aus der klassischen Mythe: Die von Apollo verfolgte Daphne wird in einen Lorbeerbaum verwandelt. Hohe 41 cm. XVII. Jahrh.
+- 1082 Meisterstuck eines Elfenbeindrechslers. Auf breiter sechspassahnlicher hochst kunstvoll gedrehter Fussplatte ein zierlicher, schraubenformig gedrehter und durchbrochener Schaft mit gelochten Knopfen und kleinen Galerien.Darauf eine Kugel,an zwei Seiten eine runde Oeffnung,im Innern eine Kapsel, die durch Schnure von aussen zu offnen ist. In derselben Halfte des XVII. Jahr.Hohe 31 cm.
+- 1083 Gravirtes Elfenbeinbild, mit Rahmen, in einem Halbkreis darstellend die Anbetung der Maria, welche in Wolken schwebt, von Seraphim umgeben. In den Zwickeln und auf dem Rahmen Ornamente von feinster Zeichnung. Meisterhafte Darstellung, theilweise mit Gold.Italien. XVI. Jahrh.Grosse 27 zu 19 cm.
+- 1084 Bronze-Relief, vergoldet, Maria mit dem Jesuskinde und Johannes der Taufer, rund, in
+- proflirtem,viereckigem Holzrahmen.Durchm.14 cm.
+- 1085 Buchsbaum -Schnitzerei, Hochrelief. Hinrichtung,figurenreiche Szene in altromischen Kostumen. Auf einem Throne mit Bewaffneten zur Seite ein Casar,vor welchem ein Gefangener kniet, dem ein Henker mit dem Schwert den Kopf abzuschlagen im Begriff ist.Im Hintergrunde eine Burg. Meisterhafte Arbeit. Deutschland, XVII. Jahrh. Grosse 16 zu 10 cm. In Holzrahmen.
+- 1086 87 Zwei Limoge-Bilder,rechteckig, in verblichenem Sammetrahmchen,darstellend: Mater Dolorosa und Christus mit der Weltkugel, in blau, grau und Gold. Der Hintergrund gesternt. Grosse 10 zu 7 cm.
+- 1088 Complette japanische Kriegerruistung mit Gesichtsmaske. Hohe 155 cm.
+- 1089 Desgleichen.Hohe 145 cm.
+- 1090-92 Zwolf Sevres-Porzellanteller, bunt und mit Gold. Der Rand geschweift und vergoldet,
+- im Fond Streublimchen.Einer defekt.Durchm.23,5 cm.
+- 1093-95 18 Rudolstadter Porzellanteller, weiss,mit bunten gemalten Streublumen im Fond und auf dem Rande. Letzterer geschweift und reliefirt. Durchm. 24 cm.
+- 1096
+- Loffel mit Holzmuschel und silbernem,ornamentirtem Grif.Am Griffende die silbervergoldete Statuette einer Heiligen. Lange 16 cm. XVI. Jahrh.
+- 1097 98 Ein Paar Leuchter-Ansatze, Styl Louis XVI., Bronze,mit Putti und Blumengehangen. Hohe 19 cm.
+- 1099 li00 Ein Paar Statuetten aus Holz und Elfenbein, Bettler und Bettlerin. Sehr gut ge-
+- schnitzt. Hohe 21 cm.
+- 1101 Alte Bronzebuste auf Marmorsockel.Vitellius. Mit Patina.Hohe 14,5 cm.
+- 1102 Rococofacher,Perlmuttergestell mit silberner und vergoldeter Einlage, Ornamente und Figuren.Der Ueberzug aus Pfauenhaut mit Gouache-Malerei, Szenen a la Watteau, mit zierlicher Ornamentbordire. Lange 17 cm.
+- 1103 Elfenbeinfacher mit Gouache-Malerei,Liebesszene. Im Hintergrund ideale Landschaft. Am Griffende Malerei in chinesischem Geschmack.Auf der Ruckseite dieselbe Darstellung in Konturen. Lange 18,5 cm.
+- 1104 Korallenschnitzerei, Gruppe,unbekleidetes weibliches Figurchen, sich an eine Sphinx lehnend, dahinter ein Affe, zu Fussen eine Schlange. Sehr graziose Darstellung. Hohe 5 cm. Auf Messingsockel. XVIIl. Jahrh.
+- 1105
+- Porzellan-0ber- und Untertasse, Sevres,1758. Turkisblauer Fond mit reichem,reliefirtem Golddekor und bunt gemalten Medaillons. Amoretten im Geschmack Bouchers. H.6,Durchm. 7,5cm.
+- 1106 Meissener Porzellan-Ober- und Untertasse, weiss, mit reichem Golddekor und schwarzen Konturen. Auf der Stirnseite der Ober- und dem Fond der Untertasse Landschaften mit Staffage, bunt gemalt in vorzuglicher Ausfuhrung. H. 6,5, Durchm.7 cm.
+- Miniatire. Friedrich II. nach der Schlacht bei Kolin auf einer Brunnenrohre sitzend.
+- 1107 H.10,Br.7,5 cm. Schwarzes Holzrahmchen.
+- 1108-11 Vier Desgleichen. Brustbild eines Firsten und drei weibliche Brustbilder. H. 4, Br. ca.3 cm. Alle in Metallrahmchen.
+- Furstliches Portrait in Rococo-Bronzerahmchen. 一 Kopf nach A.v.Dyck auf Porzellan. Schwarzer Rahmen.— Zwei gerahmte Silhouetten.Grosstes
+- 1112-15 Vier Desgleichen. Format:H. 11,Br.8,5 cm.
+- 1116 Rundes Empire-Tischchen, Mahagoni mit Messing-Einlagen und Kehlungen. In den vier Fissen vergoldete Kaneluren. Die Platte aus rothbraunem Marmor mit Messinggalerie.
+- 1117
+- H 85,Durchm.61 cm.
+- Tischchen, Buchenholz, geradlinig. Auf der Platte quadratische und rechtwinkelige Maserholzfullungen. H.87, Plattengrosse 85 zu 58 cm.
+- 1118
+- Nahtischchen, Mahagoni mit Ebenholzfullungen und Messingstaben, die Fisse geschweift und durchbrochen, der Steg kastenartig. H.78, Br.80, Tf.42 cm.
+- 1119 Feuertafel aus Holz, auf beiden Seiten auf Goldgrund bemalt. Mit sieben Darstellungen, auf einer Seite vier: Christus am Kreuz — Marter des heiligen Laurentius -Marter aus dem Martyrium der heiligen Katharina. Hochst interessantes und sehr seltenes
+- Florentiner Arbeit des XIV. Jahrh. Beschadigt. H. 45,Br.34 cm.
+- 1120 Desgleichen, grosser, mit figurenreicher Malerei auf Goldgrund.In der Mitte Gott Vater,
+- kreisformig umgeben von Seraphim und Engeln. Aus derselben Zeit wie die Vorige. H. 6l, Br.44cm.
+- 1121 Meissener Porzellantasse mit Untertasse, bunt und mit Gold, mit durchbrochenem und ornamentirtem Henkel. Der Rand geflechtartig reliefirt. Auf der Leibung sehr schon gemalte Streublumen. Auf der Untertasse eine Dame mit Sonnenschirm.H.4,2,Durchm. 8cm.
+- 1122
+- Desgleichen, Kelchform, schlank. mit Henkel, blau und goldgemalter Randbordire und stilisirten Blumen in chinesischer Manier. H. 6,Durchm. 6 cm.
+- 1123 Ludwigsburger Porzellantasse mit Unterschale, weiss mit braunem Rande und bunt gemalten
+- 1124
+- Vogeln mit Insekten. H. 4,Durchm.7 cm.
+- Porzellanschale mit Untertasse, braune Boettger-Erde. Mit Goldborduren und Blumen bemalt. Hohe 5 cm. Sammlung Du Sartel.
+- 1125
+- Desgleichen, grosser, mit Goldborduren und bunt mit Gold gemalten Darstellungen in chinesischer Manier. H.4,5,Durchm. 9,5 cm. Sammlung Sampayo.
+- purpurner Grund mit Medaillons, in welchen sehr fein gemalte Flusslandschaften mit Staffage. H.4,Durchm.8 cm.
+- 1128-31 Vier Streifen alte Stickereien auf Sammet und Seide (Application, Plattstich, Chenille).
+- Sehr schone Sticke.Lange zwischen 80-170 cm.
+- 1132 33 Zwei Stick alte Bezige, petit point mit Kreuzstich,Darstellung von Thieren, Blumen etc. und einesTirkenzu Pferde.Grosse75zu78und50zu65cm.
+- 1134 35 Alter Sophabezug, Kreuzstich und petit point, defekt. Bordure, Kreuzstich, Rankenmuster mit Gehangen, farbig auf weissem Grunde. Lange 400 cm. Ein Stuck Desgleichen
+- mit grau gemaltem Grunde. Lange 160 cm.
+- 1136 Elfenbein-Anhanger, Christuskopf mit Dornenkrone,auf der anderen Seite ein Todtenschadel
+- mit Schlange. Grosse 3 cm. Originelles Stick.
+- 1137 Amethyst-Kamee, auf schildartiger Platte der enface Kopf eines jungen romischen Kriegers. Schone Skulptur. Grosse 3 cm.
+- Holzstatuette, bemalt. Skelett,auf einem Buche stehend,mit Pfeil und Bogen in der Hand, theilweise mit Muskulatur, welche yon Schlangen benagt wird.Originelle alte Dar-
+- 1138 stellung des Todes. Privat-Sammlung Riedinger. Hohe 36 cm.
+- 1139
+- Bronzeschussel, flach mit Reliefmedaillons im Rande.Im Fond Relief, Darstellung des "goldenen Zeitalters." Mit Signatur. Durchm. 29 cm.
+- 114041
+- Zwei Bronze-Reliefs, Proflbildnisse von Petrus und Paulus. Charakteristische Auffassung. In ovalem,schwarzem Holzrahmen.Durchm.14 zu 12 cm. Gegensticke.
+- 1142 Elfenbeinstatuette, Octavio Piccolomini. Sehr gute Schnitzerei. Auf schwarzem Holzsockel.Hohe 21,5 cm.
+- 1143 44 Ein Paar geschnitzte Holzfiguren,polychrom, sitzende Giebelfiguren, Monche mit Kutte. Sehr gute Arbeit. XVI. Jahrh. Grosse 78 cm.
+- 1145
+- Gothische holzgeschnitzte Gruppe, polychromirt, Maria und Johannes, wehklagend. In
+- langen, faltenreichen Gewandern.Die Gesichter mit viel Ausdruck. Hohe 75 cm.
+- 1146 Holzschnitzerei, polychromirt: Pieta. Maria, in langem Gewande,auf felsigem Gestein sitzend, beweint den Leichnam des neben ihr liegenden Sohnes.Hervorragende Arbeit. XVIII.Jahrh.H.40,Br.50cm.
+- 1147 Berliner Porzellanstatuette, weiss, Muse des Gesanges, zu Fussen Amorette mit Laute und Notenheft. Hohe 29 cm.
+- Desgleichen, Afrika, symbolisch dargestellt, als Hauptling in reichem Schmuck mit Szepter
+- 1148 und Papagei. Zu Fussen ein Alligator. Hohe 28 cm.
+- 1149 50 Ein Paar Desgleichen, Fischer und Fischerin, letztere mit Korb im Arme. Hohe 10 cm.
+- 1151 Berliner Porzellanfigurchen,weiss,Wegeli,Amorette,die Nacht darstellend,mit Laterne und langem Gewand. Hohe 10 cm.
+- 1152 Goldene Taschenuhr von Bahn, Strassbourg. Auf der Ruckseite Emailbildchen. Durchmesser 3,8 cm.
+- Silberner Anhanger, Louis XVI. mit geschliffenen Steinen besetzt, durchbrochen gearbeitet.
+- 1153 Grosse 6 cm.
+- 1154 Anhanger,aus Silberiligran mit buntem Email und rubinfarbigen Steinen besetzt. XVIll. Jahrh. Lange 6 cm.
+- 1155
+- Anhanger aus Silber, theilweise vergoldet und mit Perlen besetzt. Im Style deutscher Renaissance in Hochrelief gearbeitet. Grosse 6,5 zu 5,3 cm.
+- 1156 Thurvorhang, aus blau-grinem Wollstoff mit farbigen aufgenahten Chenille-Blumen. XVIII. Jahrh. H.170,Br.130cm.
+- 1157 58 Gestickter, seidener Vorhang mit Monogramm und Krone und dem Spruch: Gott schutze den Handel,— segne unsern Fleiss;ein Stick Silberbrokat, Louis XV.L.270, Br. 92 cm.
+- 1159 60 Altarbehang, rother Wollstoff mit breiten Goldfaden durchwirkt, theilweise noch mit Silberborte.-Rand eines Rauchmantels aus weisser Seide mit bunten Blumen. Louis XV.
+- 1161 Porzellanstatuette, bunt (Hochst?), Bauernknabe mit einem Korbe auf der Schulter. Hohe 12 cm.
+- 1162 Frankenthaler Porzellanstatuette, bunt, Jude in langem, schwarzem Ueberwurf. Hohe 16 cm.
+- 1163 64 Ein Paar Ludwigsburger Porzellanstatuetten, bunt und mit Gold, Mars und Minerva. Hohe 13,5 cm.
+- 1165 Limbacher Porzellanstatuette,bunt, Gartnerbursche mit Blumentopf. Hohe 9,5 cm.
+- 1166 Nahkastchen, mit hohen, geschweiften Fussen. Auf dem Deckel ein Kissen, innen mit Stoff ausgeschlagen. H.70, Br 28,Tf.16 cm.
+- 1167 Eichener Stuhl, Form des Faldistoriums, mit gepolstertem Sitz und Lehnen, mit farbigem Bezug.
+- 1168-71 Vier diverse Facher aus Elfenbein und Papier mit Holz- und Elfenbeingestell. Mit
+- Malerei,theilweise defekt.Facher-Vignette,Rococo-Scene.
+- 1172 73 Gothisches Bronzefigurchen, Grosse 5 cm. Messer mit geschweiftem Griff und Klinge mit schonem Silberbeschlag. Lange 10 cm.
+- 1174 Gabel mit geschnitztem Elfenbeingriff. Laszive Darstellung. XVll. Jahrh. Lange 22 cm.
+- 1175 Glas-Vexirkrug mit Flugeln und gemalten Blattborduren. In der Art der alten Nurnberger Glaser. Hohe 19 cm. (Mit Sprung.)
+- 1176 Desgleichen, ahnlich dem Vorigen. Hohe 20 cm.
+- 1177 Desgleichen, grosser, mit Mattschliffdekor und gefacherter Leibung. Hohe 23 cm.
+- 1178 79 Ein Paar chinesische Porzellanvasen, Flaschenform, gelblichweiss, craquele. Mit Marke. Hohe 46 cm.
+- 1180 Grosse Delfter Fayence-Deckelvase, birnenformig, mit achtseitigem Fuss. Die Malerei in Blau,im chinesischen Geschmack. H. 45,Durchm.20 cm. Defekt.
+- 1181 Desgleichen, eiformig; mit reicher Malerei in Blau, im chinesischen Geschmack. H. 37,5, Durchm.20 cm.
+- 1182 Eiserne Dolchscheide mit Gehange und Schnalle, mit schonem gestanzten und geschnittenem Dekor. XVI. Jahrh. Lange 21 cm.
+- 1183 Orientalisches Dolchmesser mit Lederscheide, der Griff aus Eisen,Messing und Horn.Die Klinge facettirt,an der Spitze vierkantig. Lange 30 cm.
+- 1184 Messer mit Essstabchen, Eisen mit Silber tauschirt, persisch. In braunem, geripptem Lederetui. Lange 16 cm.
+- 1185 Chinesische Emaildose, kreisrund, gerade glatte Wand, auf dem Deckel chinesische Hauser mit Bewohnern,in der Leibung Blumen und Papageien in email translucide. H. 5, Durchm.10 cm.
+- 1186 Doschen aus Perlmutter und Silber. Im Deckel eingravirt ein Mann mit Kelch in der Hand.Durchm.4,2 cm.
+- 1187 Perlmutterdose, oval, in durchbrochener und gravirter Kupfermontirung. H.2,5,Gr.7 zu5,5cm.
+- 1188 Silbernes Doschen, rund. Im Deckel eine Blume in Treibarbeit. H. 3, Durehm. 4,5 cm, Gew.26 g,
+- 1189 Emaildose, oval, mit Kupfer montirt,die Leibung geschweift und mit bunten, sehr fein ausgefuhrten, landschaftlichen Darstellungen. H. 3,5, Gr. 9 zu 5 cm.
+- 1190 Marmorirtes Ueberfangglas, geschweift und gefachert, gelblich-blau,mit Golddekor. Innen dunkelroth.Hohe 12 cm.
+- 1191 Porzellandose, mit losem Deckel,oval, gerade Form,reliefrt und mit Medaillons mit Blumen farbig bemalt.H.4,Br.7,5 zu 6cm.
+- 1192 93 Grunes Rheinweinglas, Romer", gekniffen und mit Buckeln. XVII. Jahrh. und Glasgefass, Hund,geblasen und gekniffen. Hohe 14 und 13 cm. XVIII.Jahrh.
+- 1194-97 Drei brandenburgische Kelchglaschen,mit geschnittenem und vergoldetem Monogramm F.R.W. mit Konigskrone, ein Desgleichen, mit Monogramm und Grafenkrone. H. 16, 15und 13,5cm.
+- 1198 Freundschaftsglas,mit facettirtem Stander, und reichem Mattschliffdekor mit Freundschaftsspruch, die Leibung gefachert. Hohe 13 cm.
+- 1199 1200 Zwei Nassauer Steingut-Theekannen mit Henkel und Ausgussrohr, grau mit blauem Dekor,die eine mit Zinndeckel. Hohe 13 und 12 cm
+- 1201 Berliner Porzellan-Butterbuchse, bunt,in Form eines Kanarienvogelnestes. Auf dem Deckel die zwei Vogel, vollrund modellirt. Hohe 10,5, Durchm.11 cm.
+- 1202 1203 Fayence-Theekannchen, roth,friesartig,mit Figuren in Schwarz bemalt （Fabrik Dortu &amp; Co.) und ein Bunzlauer Kannchen mit weissem,reliefirtem Dekor.Hohe 12,5cm.
+- 1204 1205 Zwei chinesische Porzellan-0ber- und Untertassen, bunt dekorirt, theils mit Figuren, theils mit Blumen. Verschiedene Grosse.
+- 1206 Berliner Porzellan-Ober- und Untertasse, weiss mit Gold und blauem Rande, mit figurlicher Darstellung auf der Stirnseite.
+- 1207 Drei Meissener Porzellan-Untertassen, verschiedenen Dekors; sehr schone Exemplare.
+- 1208--1l Vier Berliner Porzellan-Kaffeeschalen mit Henkel und Untertassen, weiss mit bunt gemalten Blumen.
+- 1212 Emailschale, weiss, mit bunten Streublumen. Der Rand in Bronze gefasst. H.4,5, Durchm.7,5 cm.
+- 121314 Zwei Berliner Porzellantassen, mit Unterschalen, gerade, glatte Form, weiss mit Goldbordure und Inschrift.Auf der Stirnseite der einen Biskuit-Portrait-Relief.
+- 1215 Venetianischer Incunabeldruck (1483, Erhard Ratdolt): Eusebii Caesarensis episcopi Chronicon de temporibus. (Geschichtstabelle yon Anfang bis 1480.)— Exemplar der Heidelberger Universitats-Bibliothek.Lederbd.kl.4.
+- 1216 Sibmacher, Joh.,Wappenbuch. Nuruberg,1630. Qu.40. 164 Tafeln ca.2300 Wappen in Kupferstich, von denen die ersten 42 grosseren altkolorirt sind. Mit Register. (Das Titelblatt des Buches fehlt;im Uebrigen bis auf unbedeutende Randdefekte und Wasserflecke ziemlich gut erhalten.Lederbd.
+- 1217 Silbervergoldete Gurtelschnalle, mit Steinen besetzt (pierre de Strass). Lange 5,5 cm.
+- 1218 Ein Paar silberne Schuhschnallen mit pierres de Strass.
+- 1219 Ein Paar Desgleichen, kleiner, vergoldet.
+- 1220 Ein Paar Desgleichen, kleiner.
+- 1221 Berliner Porzellanfigur, weiss, Juno, mit Szepter und Pfau. Hohe 20 cm.
+- 1222 Desgleichen, Quellnymphe. Hohe 18 cm.
+- 1223-25 Drei Porzellanfigurchen, bunt, Amoretten, zwei ein Herz in der Hand haltend, eine gefligelt und defekt. Hohe 7 cm.
+- 1226 Delfter Fayence-Kuh, bunt gemalt. Hohe 8,5 cm.
+- Convolut, zwei silberne Rococo-Leuchterfusse, zierlich ornamentirt, zwei silberne FiligranEierbecher, (bei einem fehlt der Fuss), Gewicht 70 g. Zwei ovale geschliffene rothe Glasschalen, zwei Necessair-Etuis,eins mit vergoldetem, eins mit reichem Silberbeschlag,ein
+- 1227 Flacon in Lederetui. Zusammen neun Stick.
+- Convolut, Elfenbeinflacon, in Gestalt eines sitzenden Mannes mit hohem Hut und Halskrause. Schnupftabaksdose, Karrikatur,Olivenholz,zwei silberne Necessaires,mit schwarzem Leder-
+- 1228 Ueberzug,incomplett. Zusammen vier Stuick.
+
+## VIII. Auctionstag:
+
+## Mittwoch,den 2.December 1896,
+
+von 1o Uhr ab
+
+- 1229S Syenit-Dose, rechteckig, auf vier Kugelfisschen und in Bronze montirt. H. 4,3, Br. 6,5, Tf.4cm.
+- 1230 31 Zwei Emaildosen, weiss mit Gold und bunten Darstellungen, Blumen,Amoretten,Liebespaaren ete. Restaurirt, verschiedene Grossen. Die Deckel lose.
+- 1232 Emaildose, mit schragem Deckel, weiss, mit Bronzemontirung. Mit Streublumen bemalt,
+- im Innern des Deckels ein Liebespaar an einem Tisch, Kostim Watteau. H. 3, Br. 6,5, Tf.5cm.
+- 1233 Desgleichen,rechteckig,in Kupfer montirt,mit figurlicher Malerei,Genrescene. Die
+- Figuren in Kostumen des XVIll. Jahrh. Restaurirt. H. 4, Br.13, Tf. 5 cm.
+- 1234 Ludwigsburger Porzellanstatuette, bunt und mit Gold. Gartnerin mit zwei Blumenkorben. Ladirt.Hohe 14 cm.
+- 1235 36 Zwei Meissener Porzellan-Flacons, betender Priester und betende Nonne. In Bronze montirt und gravirt. Hohe 8 und 9 cm.
+- 1237 Porzellan-Flacon, in Gestalt eines Monches, der ein Madchen in einer Garbe auf dem Ricken tragt,in der einen Hand einen Hasen. Hohe 9 cm.
+- 1238 Liegende Hirschkuh, Meissener Porzellan, grau gemalt und Mops (restaurirt). Lg. 9, H.6 und 6 cm.
+- 1239 Meissener Porzellan-Flacon, Mops, bunt. Auf ovalem, mit Blumen gemaltem Schalchen sitzend. Hohe 5 cm.
+- 1240 Ludwigsburger (?) Porzellangruppe, bunt und mit Gold. Jager, einem jungen Madchen einen Vogel iberreichend.Stark restaurirt.Hohe 14 cm.
+- 1241 Bronze-Streitaxt (Calixtinerbeil),mit halbmondformig nach aussen gebogtem Beil und hammerformigem Kolben an der Oese. Mit dem Zeichen XP (Christus) und eingehauener Marke (Kelch). Bohmen. Aus der Zeit der Hussitenkriege. Mit starkem Holzschaft.
+- 1242 Partisane mit ausgeschweiften,aufwarts gerichteten Ohren und breiter, schwertartiger Klinge mit Rinnen. Mit sechsseitiger Tille. Ende XVI. Jahrh.
+- 1243 Desgleichen, ahnlich der Vorigen, mit Rippenklinge und Knopf an der Tille. Ende XVi.Jahrh.
+- 1244 Grosses Faustrohr mit Radschloss, mit reichgeschnitztem Knauf und gravirten Elfenbein-
+- einlagen.Lange 56 cm.XVI. Jahrh.
+- 1245 Deutsches Schwert,mit Messingdrahtgriff und fachem Knauf,gerader Parirstange und breiter, zweischneidiger Klinge.Lange 98 cm.
+- 1246 Glasschrank, zum Aufstellen von Ausstellungssticken, bronzefarbig gestrichen. H. 188, Br.138,Tf.44cm
+- 1247 Rococo-Sessel,holzgeschnitzt und vergoldet. Von edelster Form und Proportion. Schones Stick aus der Zeit. Sitz und Lehne mit altem,karminrothem Sammetbezug.
+- 1248 Empire Glas-Vitrine mit Mahagoni-Verkleidung und Bronzebeschlagen. Mit zwei Schubkasten und drei Boden. H.153,Br. 79,Tf. 40 cm.
+- 1249 50 Zwei Miniaturen in ovalen Bronzerahmchen mit Bandschleifen,die eine bezeichnet: Dumont. Brustbilder yon Furstinnen in ausgeschnittenen Taillen und Hermelinmanteln. H.5,4,Br.4 und H.7,Br.5,5.
+- 1251-53 Drei Desgleichen in ovalen Bronzerahmchen. Zwei weibliche Halbfiguren und ein Brustbild.H.7,2, Br. 6 und H. 6, Br.5.
+- 1254 Franzosische Bronzebuste, Tilly. Auf cylindrischem, grauem Marmorpostament. Hohe 22cm.
+- 1255 Desgleichen. J. J. Rousseau. Gegenstick zum Vorigen. Von feiner Charakteristik.
+- 1256 Facher, Louis xv. Elfenbeingestell, durchbrochen und mit Gold- und Silber-Einlage. Der Ueberzug aus Seide mit drei Medaillons. In der Mitte Achilles und Briseis, im rechten und linken spielende Kinder. Lange 26 cm.
+- 1257 58 Gazefacher auf Schildpattgestell,mit Gold- und Silberplattchen-Verzierung, die Malerei allegorischen Inhalts,Lange 23,5 cm,und Papierfacher auf Elfenbeingestell mit silbervergoldeter Einlage.Auf der Fahne in Buntdruck Bilder aus dem Landleben.Lange 26 cm. Mit Quaste.
+- 1259 Elfenbeinstatuette, Johannes der Taufer als Hirte mit Stab und ein Lamm uinter dem Arme. Vorziglich geschnitzt. Hohe 5,3 cm. Auf schwarzem Holzsockel.
+- 1260 Schlussel, in Eisen geschnitten, mit rundem Griff, sternformig durchbrochen, zierlich ornamentirt. XVIl. Jahrh. Lange 13 cm.
+- 1261 62 Bronzefigurchen eines Perlhuhnes. Charakteristische Darstellung,gut modellirt,Hohe 5,5 cm, und Adler, vorzuglich ciselirt. Hohe 7 cm.XVIll. Jahrh.
+- 1263 Nadelbuchse, Eisen mit Gold tauschirt. XVIl. Jahrh. Lange 8 cm.
+- 1264 Desgleichen, sehr schon in Eisen geschnitten..XVIl. Jahrh. Lange 7 cm.
+- 1265 Ein Coupon Venezianer Spitze. Lg. 77,Br. 22 cm. XVIl. Jahrh. Schones Stick.
+- 1266 Miniature. Brustbild eines jungen Madchens, dessen Kopf an einem Kissen lehnt. Oval. H. 3,2, Br.2,7 cm.Verziertes Bronzerahmchen.
+- 1267 Elfenbeinminiature. Brustbild eines Fursten mit blauem Ordensband.In tergo bezeichnet Konig yon Wurttemberg.Von sehr feiner Durchfuhrung. Rund. Durchm.4,9 cm. Metallrahmchen.
+- 1268 Wallbuchse mit Radschloss und braunem Holzschaft. Der Lauf rund und aus Bronze gegossen. Deutschland,Anfang des XVIl. Jahrh.Lange 97 cm.
+- 1269 Kanonenmodell aus Eisen mit eisenbeschlagener Holz-Lafette und mechanischer Stellvorrichtung. Lange 37 cm.
+- 1270 Ein Paar Bronze-Kanonen, Modelle auf hoher Holz-Lafette.Lange 6O cm.
+- 1271 72 Zwei Kolbenhand-Kanonen mit Schwammschloss, Eisen, die Halfte des Rohres achteckig, am Ende rund.Das Zundloch an der Seite.Kaliber 27mm. Gesammtlange 225cm. Deutschland um 1500.
+- 1273 Eiserne Kesselhaube mit kurzem Nackenschutz,mit Rosetten um die Nieten. Bohmen, XIll.Jahrh.
+- 1274 Eisenhut mit Krempe und Rohre zum Befestigen des Federschmucks. Oben durchlocht. XIV. Jahrh.
+- 1275 76 Ein Paar alte Lack-Untersatze auf viereckiger Platte,braun mit gemalten Amoretten. Hohe21 cm.
+- 1277 Gothische holzgeschnitzte Figur des heiligen Christoph mit dem Jesusknaben das Wasser durchschreitend. Hochrelief, polychrom. Hohe 120 cm.
+- 1279 Silberner Trinkbecher von glatter,konischer Form, innen vergoldet, auf der Leibung Renaissance-Kartuschen und Schriftbander,gravirt.In drei ovalen Medaillons Darstellung des Pelikans, der die Jungen mit seinem Blute nahrt, des aus der Asche aufsteigenden Vogel Phonix und eines landschaftlichen Bildes mit einem Vogel in der Luft, dazu bordurenartig lateinische Inschriften und in den Schriftbandern in zweizeiliger Versform die Erklarung zu den Darstellungen. H. 8,2, Durchm. 6,5 cm, Gew. 105 g.
+- 1278 Desgleichen. Der heilige Florian in Ristung mit purpurfarbenem Mantel. Hohe 108 cm.
+- 1280 Ein Paar silberne Empire-Leuchter mit viereckiger Fussplatte und ornamentirtem,hubsch gegliedertem Schaft H.17 cm, Gew. 338 g.
+- 1281 Porzellan-Theebuchse, Venedig. Auf blauem Grunde Karyatiden und Blumen en relief und bunte Malerei auf weissem Grunde an den schmalen Seiten. Sammlung Du Sartel. Hohe 15cm.
+- 1282 Porzellanschale mit hohem Fuss. Japanisches Porzellan in Venedig bemalt. Rund und mit blauen Randbordiren.Der Zwischenraum ausgefillt mit reicher figirlicher Malerei mythologischen Inhalts, schwarz,mit Gold gehoht und theilweise geritzt. Fuss und oberer Rand aus Holz, geschnitzt und vergoldet.H.13,Durchm.16 cm. Sammlung Du Sartel.
+- 1283 84 Zwei Apothekergefasse. Mit Malerei in Blau, Gelb und Grin auf weissem Grunde. Italien, XVI. Jahrh. Hohe 24,5 cm.
+- wappen auf der Stirnseite, gelb und blau auf weissem Grunde. An der Basis grine Blattbordire. Italien, XVI. Jahrh. Hohe 34 cm.
+- 1287 88 Ein Paar Glasbilder, Eglomise,von rechteckiger, gewolbter Form.Die Darstellungen der romischen Geschichte entlehnt.Marcus Curtius'Feuertod und Mucius Scaevola.In geschnitztem und vergoldetem Holzrahmen Louis XIV. Grosse mit Rahmen 16 zu 1l cm. Sammlung Du Sartel.
+- 1289 Tafel-Zierstick, Empire,in Form einer ovalen Krystall-Spiegelplatte mit Rahmen und Galerie aus vergoldeter Bronze,auf sechs Fissen in Gestalt von Lowenklauen.Die Galerie dazwischen Palmetten aus stilisirten Aehren.Originelles,schones Stick. Der Spiegel defekt.Grosse 100 zu 56 cm.
+- 1290 Schweizer Email-Uhr in Form einer Birne in goldener Montirung.Auf kobaltblauem Fond Blumen- und Blattranken in Bunt und Gold. Das Werk von Roman et Melly, Constanz. Sehr schones Bijou. Gr. 4,5,Durchm. 2,7 cm.
+- 1291 Email-Uhr mit Goldmontirung. Auf der Ruckseite des Gehauses Diana und Endymion,umgeben yon vier Medaillonbildchen,Landschaften ete. darstellend Auf der Innenseite unter dem Gehiuse Darstellung eines befestigten Platzes mit Wassergraben. Das Werk von Dinster,Amsterdam.Durchm.3,8 cm.
+- 1292 Goldene Repetir-Uhr, Empire mit freistehenden Relieffguren, welche sich beim Schlagen bewegen. Von Breguet &amp; fils,Paris.Durchm.5,5 cm.
+- 1293 Eichener Tisch mit spiralformig gedrehten Fuissen und Steg und geschnitzten Zargen. In die Platte eingelassen 40 DelfterKacheln,quadratisch mit sechseckigenFeldern,auf braunund rothgrainirtem Grunde mit blau-weissen Landschaften. H.85, Plattengr. 120 zu 80 cm.
+- 1294 Mahagoni-Schreibschrank in Form eines hohen Rechtecks,die Seiten und die Front leicht geschweift. Unten zweithurig,im Innern drei Schubkasten. Der Mitteltheil mit Schreibplatte und Schubkasten. Beschlage und Handhaben aus Bronze. XVIll. Jahrh. H. 153, Br.105,Tf.44 cm.
+- 1295 Garnitur von drei Meissener Porzellanvasen, bunt und mit Gold. Rococo. Die Leibung mitvollrunden Putti,aufgelegten Blumen und Frichten und gemalten Streublimchen dekorirt. Der Deckel durchbrochen, als Knopf ein hoher, sehr schon modellirter Blumenstrauss. Hohe 25 und 29cm.
+- 1296 Proskauer Fayence-Butterbuchse, bunt gemalt. Auf einem grossen Blatte eine gelbe Melone, die,in der Mitte durchschnitten, das Gefass bildet. Zur Seite ein grosser Krebs,ferner in malerischer Anordnung Blatter und Bluthen,deren eine den Salznapf bildet. Sehr schones Stick.Marke D.v.P.H. 10, Br. 24 cm Sammlung Mme d''Yvon.
+- 1297 Biscuitbuste Napoleons l. und der Kaiserin Josephine, bez. donne a Alexdra Lenvio par limperatrice lan 1809, sculpte par Chaudet. (Der bevorzugte Bildhauer Napoleons, gest. 1810.) Sehr gut modellirt. Hohe 30 cm.
+- 1298 Bottger-Porzellan-Kaffee-Service, bestehend aus einer grossen Kaffeekanne, einer Milchkanne,beide mit Henkel und Deckel und drei Schalen mit Untertasse,braun mit reichem Golddekor. Die Malerei in chinesischem Geschmack.An den Randern Goldspitzenbordure. Hohe der Kanne 21,5 und 17 cm.
+- 1299 Meissener Porzellan-Kaffee- und Theeservice, bestehend aus Kaffee-, Milch- und Theekanne, Theebuchse, Zuckernapf mit Deckel und vier Schalen mit Untertassen. Mit Golddekor und sehr fein ausgefuihrter Malerei in Roth,Genrescenen mit landschaftlichem Hintergrunde, Streublumchen ete.-Die Henkel theilweise restaurirt.
+- 1300 Porzellan-Doppelflacon, Chelsea (?),bunt,Bettelmonch, auf den Rucken in einem Garbenbuindel ein junges Madchen,in den Handen einen Korb und eine Gans tragend. Hohe 8,5 cm.
+- 1301 Ludwigsburger Porzellangruppe, bunt und mit Gold, Jager, auf das Gewehr gestitzt,vor einem jungen Madchen mit Vogelbauer stehend. Hohe 14 cm.
+- 1302 Standuhr, bronzevergoldet. Auf vier Kugelfusschen eine profilirte Basis, auf welcher sich das quadratische Gehause erhebt An der Front das Zifferblatt, die Wande reich gravirt mit Ornamenten und allegorischen, figurlichen Darstellungen. Ueber den Eckfosten je ein Obelisk,das kuppelartige Dach iber der Glocke durchbrochen, darauf als Bekronung ein weibliches Figurchen H. 18,Br. 12,5 cm.
+- 1303 Bronzefigur, vergoldet. Heilige,mit einem Drachen. Auf schwarzem,viereckigem Holzsockel.Hohe17,5 cm.
+- 1304 Grosser Bartmannskrug, braun gesprenkelt,mit tauartig gedrehtem Henkel und drei ovalen Medaillons auf der Leibung, XVI.Jahrh. Hohe 44 cm.
+- 1305 Berliner Porzellan-Standuhr, weiss,auf rechtwinkeligem,geschweiftem Postament mit abmit gewolbter Wandung, und dekorirt mit Amorettenkopfchen, Gehangen, Schleifen ete. Als Bekronung ein Globus. Hohe 40 cm.
+- 1306 Geschliffenes Kelchglas,mit hohem Deckel.Mit breiter Fussplatte,geschliffenem,facettirtem Stander und gefacherter Leibung. ZwischendoppelterWandungGoldornamenteim Renaissance-Styl,in den Medaillons allegorische, figurliche Darstellungen.Das Dekor im Deckel-Blumenstengel, geschnitten und vergoldet.Sammlung Buchner. H. 25 cm. XVIIl. Jahrh.
+- 1307 Desgleichen, ahnlich dem Vorigen. Mit Jagddarstellungen. Sammlung Buchner. Restaurirt.
+- 1308 Desgleichen,ahnlich dem Vorigen. Mit friesartiger, allegorischer Darstellung der vier Jahreszeiten (vier weibliche Figuren). Sammlung Buchner.
+- 1309 Bronzestatuette Napoleons 1. In Generalsuniform mit Hut,stehend,die Arme verschrankt. Auf quadratischem Postament.Hohe der Figur 22 cm.
+- 1310 Glaspokal mit Deckel, die Fussplatte mit Rosette in Mattschliff, im Stander eingeblasene Perlen. Auf der Leibung in Mattschliff Familien-Allianzwappen.Der Deckel ornamentirt, mit facettirtem,kegelformigem Knopf.Hohe 19 cm.
+- 1311 Desgleichen. Breite Fussplatte mit Spitzenbordire und sternformiger Rosette.Der Stander facettirt, die Leibung gefachert.Auf der Stirnseite das mecklenburgische Wappen mit Krone, gegenuber ein furstliches Monogramm,in dem Zwischenraume reichste Arabeskenornamente. Der Deckel mit Randbordure. Hohe 28 cm.
+- 1312 13 Sechs japanische Porzellanteller mit sehr schonem Blumendecor in Roth-Blau-Gold. Durchm.23 cm.
+- 1314 15 Vier chinesische Porzellanteller, bunt mit weiss reliefirter Randbordure und origineller schoner Bemalung.Durchm.22,5 cm.
+- 1316 Grosse ovale Furstenberger Porzellanschussel mit Goldrand,und vier Tellern mit Blumenzweigen und Singvogeln sehr fein bemalt.
+- 1317 18 Zwei silberne getriebene Schalchen mit gebuckeltem Rande und Henkel in Agraffenform. Im Fond ein Angler und Frichte. Gew. 51 und 49 g. Durchm.8 und 9,5 zu 8,5cm.
+- 1319 Rococo-Zuckerdose, Silber mit geschweifter Leibung, oval. Mit Ornamentbordure um die Leibung und Deckel. Auf demselben ein grafliches Wappen. H. 8 cm. Durchm. 13 zu 7cm.Gew.180 g.
+- 1320 Silberne Tischglocke,Empire,und rundes getriebenes Schalchen, gebuckelt,mit Henkeln und Portrait-Relief im Fond.Durchm.7,5 cm. Gew.118 und 40 g.
+- 1322 Vier silberne Loffel, die Griffe mit Figuren in Costim des XVIl. Jahrh. Gew. 165 g.
+- 1321 Vier alte silberne Loffel, ornamentirt. Gew. 207 g.
+- 1323 Sechs Meissener Porzellan-Messergriffe, bunt und mit Gold mit schonem Blumendecor. Lange 7,5 cm. Zwei Desgleichen mit Rococo-Ornamenten. Lange 8 cm.
+- 1324 36 Stick Phantasieperlen, grossere und kleinere.
+- 1325 Ein Partie helle Saphire.
+- 1326 Eine Partie gefasste Diamantsplitter.
+- 1327 Eine Partie lose Perlen und ein Opal.
+- 1328 Convolut von diversen silbernen Beschlagen, Chatelainetheilen ete. Gew. 455 g.
+- 1329 Platte aus Knochen mit Reliefschnitzerei. Drei Manner in langen Gewandern in Unterredung. Italien.XIV.Jahrh.Gr.9,2 zu 5 cm.
+- 1330 Aschenkasten von viereckiger Form aus Volterra. Auf dem Deckel die Figur einer Inhalt. Brandreste und Glassticke. H. m.Deckel 30. Lg. 28 cm. (Etruskischer Grabfund.)
+- 1331 Geschliffenes Kelchglas mit facettirtem Stander, geschweiftem Ansatz und gefacherter Leibung.Auf der Stirnseite Freundschaftsspruch mit Sinnbildern und reichem ArabeskenDecor in Mattschliff.Hohe 16 cm.
+- 1332 Becherglas ohne Fuss,ovaler Querschnitt mit gefachertem und geschweiftem Ansatz. Mit reichem Decor in Mattschliff.Der Rand vergoldet und mit vergoldeten Palmetten verziert. Hohe 13 cm.
+- 1333 Geschliffenes Kelchglas mit Deckel, facettirtem Stander und grossem Familienwappen in Mattschliff. Der Deckel geperlt; mit Rosette und Knopf. Schlesien, XVIll. Jahrhundert. Hohe 27 cm.
+- 1334 Drei diverse Glas-Salznapfchen, langliche Vierpassform, mit zierlichem Mattschliffdekor. Venedig. XVIll. Jahrh. Sehr feine Sticke.
+- 1335 Geschliffenes Deckelglas mit breiter Fussplatte， facettirtem Stander und gefacherter Leibung mit Golddekor. Seiltanzer. Hohe 25 cm. Bohmen. XVI. Jahrh.
+- 1336 Desgleichen, mit ornamentirter Fussplatte und facettirtem Stander. Auf der Leibung Mattschliffdekor mit Freundschaftsspruch. Hohe 19 cm.
+- 1337 Trinkglas,konisch, mit facettirter Wulst an der Basis. Das Dekor in Mattschliff stellt das Proflbildniss des ersten preussischen Konigs dar, in einer Kartusche mit Trophaen und den brandenburgischen Standarten. Mit Konigskrone und der Inschrift: Es lebe der Konig. Der Rand geperlt und mit Goldkante. Brandenburg. Anfang XVIll.Jahrh.H. 10, Durchm.8 cm.
+- 1338 Trinkbecher mit facettirtem Stander, dreizehneckiger Fussplatte und ovaler gefacherter Cuppa mit Golddekor im Rococo-Geschmack.Hohe 13,5 cm.
+- 1339 Sechs Trinkglaser mit massivem Fuss, sogen.Stehaufglaser, gerade, glatte Form mit Mattschliffdekor. Originelle Trinkspriche etc. und Thierfiguren. In altem Papp-Etui. Anfang XVIll. Jahrh. H. 5,2, Durchm. 6 cm.
+- 1340 Desgleichen,ebenso.
+- 1341 Chinesisches Porzellanschalchen auf hohem Fuss, mit schonem, buntem und goldenem Dekor. Hohe 8.5 cm und ebensolches Henkeltopfchen mit Deckel, blau-weiss dekorirt. Der Henkel gewunden. Hohe 8,5 cm.
+- 1342 Casel aus rother Seide mit blauem Kreuz und aufgenahten, schon stilisirten ChenilleBlumen.Mit breiter Silberbordire.
+- 1343 Zwei Stuick Gobelins zum Sesseliberzug. Landschaften mit Vogeln.
+- 1344 farbigen Blumen.Mit breiter Silberbordire.Louis XV.
+- 1345 Zwei romische Fibeln, Bronze, die eine mit schoner griner Patina,vergoldete Baroknadel, Birnenform, schon cisilirt, eine Nadel mit Barokperle.
+- 1346 Wedgwood- Broche in Stahlfassung mit allegorischen Reliefs und kleiner Wedgwood Anhanger, mit Portrait-Relief,und kleines, rundes Glasmedaillon mit Verschluss und dem Symbol von Glaube, Liebe, Hoffnung.
+- 1347 Email-Medaillon, oval, in yergoldetem Bronzerahmchen, durchbrochen ornamentirt. Sehr fein bemalt. Esther vor Ahasver. Grosse 4 zu 3,5 cm.
+- 1348 Zinnkruke,sechsseitig,mit Schraubendeckel und ornamentirter Handhabe. Die Seitenfelder mit schonem Rankenornament gravirt,auf dem einen Kranz mit Monogramm A.W. 1694. Hohe 26 cm.
+- 1349 50 Rudolstadter (?) Porzellanvase mit bauchiger Leibung und eingezogenem Fuss und Hals, blau dekorirt. Hohe 28 cm.Furstenberger Porzellantonne, mit Rosen bemalt,die Reifen vergoldet. Mit kleinem Defekt. Hohe 24 cm.
+- 1351 Zwei Elfenbein-Schreibtafelchen mit Etui aus Silber, Schildpatt und Perlmutter,gravirt.
+- 1352 Chatelaine, Messing, vergoldet, die Kettenglieder in Form von kleinen Muschelschalen. Lange 15 cm und silberner Anhanger, Filigranarbeit, kranzformig. Grosse 6 cm.
+- 1353 Gothischer Anhanger, Silber,mit Spuren von Vergoldung. Der heilige Sebastian. Grosse 5 cm.
+- 1354 Silberner Anhanger mit Crucifix, garnirt, ein Paar Ohrringe mit Steinen in silberner Fassung, yergoldeter Beschlag, durchbrochen, kleine Broche, oval, mit Muschelkamee, silberner Anhanger, Enthauptung Johannis,XVI. Jahrh.Grosse 2,5 cm.
+- 1355 56 Ein Paar getriebene kupferne Kannen mit Deckel und Henkel. Die Leibung mit sehr facher Ornamentirung. Hohe 45 cm.
+- 1357 58 Zwei Empire-Stutzuhren, eine aus Alabaster mit reich verziertem Zifferblatt und vier Saulen, die andere ahnlich,aus schwarzem Holz mit Messingkapitalen und -Basis. H.44 und 51cm.
+- 1359 Fayence Krug mit Henkel und Deckel, bauchige Leibung, am Fuss und Hals roth abgesetzte Hohlkehlen. Mit Blumenstraussen bemalt. Hohe 38 cm. Mit Marke (Proskau?).
+- 1360 Original-Kupferplatte von J. Chr. Reinhart. Die grosse Schiller gewidmete heroische Landschaft. H.40,5,Br.51,5 cm.Das Blatt ist in Andresens Handbuch fur KupferstichSammlung unter No.10 beschrieben.
+- 1361 Desgleichen von C.W. Kolbe. Grosse Gebirgs-Landschaft mit heimkehrender Rinderherde. H.41,5, Br. 53,5 cm.
+- 136263 Zwei Desgleichen nach N.Berchem.Pastoralen. H. 19,Br.27 cm.
+- 136465 Rauchmantel, silbergrauer Grund mit brauner Arabeskenmusterung. Die Kappe mit Fransenborte. Desgleichen,beigefarbener Brokat mit kleinen Blumenstraussen. Mit farbig gemustertem Rande und Silberborde.
+- 1366 67 Casel aus blauem Seidenbrokat,Louis XV.,ohne Borten. Desgleichen aus gemusterter Rohseide mit gelbem Kreuz und weissem Dessin,Louis XVI.
+- 1368 69 Seidener Empire-Frauenrock,gemustert,violetter Grund,ein Battistkleid,bunt bedruckt.
+- 23cm.
+- 1373-75 Drei italienische Fayence -Gefasse, Helmkanne und zwei Urnen. Savona Levantino) mit schonem,blauem Dekor auf weissem Grunde.Hohe 20 und 16,5 cm. XVIll. Jahrh.
+- 137677 14 cm,und Schatulle aus Mahagoni, mit Intarsien aus Elfenbein, Messing,Zinn und Perlmutter, welche die ganzen Flachen bedecken. H. 6,5, Br. 19,5 cm. XVIll. Jahrh.
+- 1378 79 Fayence-Waschnapf, mit blaugelbem Dekor in chinesischem Geschmack. Mit Deckel und Henkeln,H. 13,Durchm.20 cm,und Kellinghusener Fayence-Terrine mit Henkeln und Deckel. Mit blauem Dekor. Ladirt. H. 24,Durchm.21 cm.
+- 1380 Meissener Porzellan-Terrine, oval, mit geschweifter und gekehlter Leibung, der Deckel thurmartig.An den Henkeln Ziegenbockkopfe.Schon mit Streublumen gemalt. Defekt. H.32,Lg.27 cm.
+- 1381 Silbernes,ovales Schalchen, getrieben. Im Fond musizirende Amorette. Durchm.12,5 zu 10,5cm.
+- 1382 83 Bronze-Relief auf viereckiger Platte, Scene aus der Mythologie: Mars und Venus, von Pluto im Netze gefangen. Grosse 15,5 zu 13,5 cm und runde Bronzeplatte,allegorische Darstellung aus der romischen Geschichte. Durchm.18 cm.
+- 1384-86  Etruskische Bronze-Spiegelplatte mit Gravirung. Alte Darstellung des kosmischen Amors. Durchm.14,5 cm. Getriebene Messingplatte, achteckig. Grosse 18 cm. Zwei mittelalterliche Daumschrauben, sehr interessante Sticke.
+- 1387-89 Zwei gerahmte 0elbilder von J. Auffinger und Melchert. Landschaften.H.20, Br.26 cm und H. 23,Br.16 cm. Ferner eine gerahmte Gouache,Landschaft. H. 11, Br. 21 cm.
+- 1390-93 Gerahmte Seidenstickerei, eine Landschaft darstellend. H.14,5,Br.18 cm. Gerahmter Kupferstich, Medaillonbrustbiid des Mlle. de Louvancour. Gerahmte Zeichnung, Halbfigur eines Kindes, bez. Beaulieu Copenhague,1850. H. 27,Br. 20,5 cm. Aelteres 0elbild auf Holz. Toilette der Venus. H.37,Br. 26,5 cm.Ohne Rand.
+- 1394 95 Zwei gerahmte Farbendrucke yon N. Schenker nach Schall. Andre. Fanchon. Zwei Kinderhalbfguren.Ausserordentlich zart gestochene Blatter in Punktirmanier. Ohne Rand. Originalrahmung. Kl fol.
+- 1396
+- Gerahmtes Aquarell, anscheinend von einem indischen Kunstler. Junges Madchen, Tauben futternd. Fein in der Durchfuihrung.H. 21,Br.14,5 cm.
+- 1397 98 Zwei Bronzestatuetten,Athene,auf Holzpostament,braun patinirt. Hohe 11 cm. Juno mit dem Pfau,vergoldet. Hohe 11,5 cm.
+- 1399 Silberne Platte,viereckig,die eine Seite mit Randbordure.In der Mitte Maria und Magdalena auf Golgatha. G.13,5 zu 12 cm,Gew. 60 g.
+- 1400 1401 Riechflacon,Perlmutter,in vergoldeter Montirung mit Kettchen, zwei Breloques, vergoldet und ornamentirt, das eine mit schonem Achat.
+- 1402 1403 Zwei alte Bronze-Clichees, darstellend einen Konig in Rustung, Krone und Szepter auf einem Tische. Als Attribut ein Lowe und Wappen mit Wappenhalter. Grosse 7 zu 6cmund5,5cm.
+- 1404 Eisernes Petschaft mit Familienwappen aus dem Jahre 1739. Bronzestatuette eines Pferdes, Gabel mit Messinggriff,Mann mit zwei Hunden, Bronzethurklopfer in Form einer Kinderhand.
+
+## IX.Auctionstag:
+
+## Donnerstag,den 3.December 1896,
+
+von 1o Uhr ab.
+
+- 1405 Ein Stuick Seidendamast, gelb und weiss gemustert.
+- 1406 Casel aus Leder mit gemalten Blumenarabesken auf silbernem Grund und gemalter Goldborte.
+- 1407 Vorhange fur zwei Fenster aus weiss und gelbkarrirter Seide.
+- 1408 1409 Stola, Goldbrokat mit Silberspitzenborde und farbigen Blumen, desgleichen,grine Seide mit Gold,vier desgleichen, kurze,verschieden, drei Deckchen gestickt und applizirt.
+- 1410 Holzkasten,mit schon geflammtem Maserholz fournirt und mit silbernem, gravirtem Beschlag. Der Deckel gewolbt. Auf vier Fussen. H. 20, Br.40, Tf. 29 cm.
+- 1411 Porzellangruppe, tanzendes Paar,Pierrot und Pierrette. Hohe 15,5 cm.
+- 1412 Weisses Email-Necessaire-Etui mit Bronzemontirung. Mit Medaillons und farbig gemalten Genrescenen. Grosse 10,5 cm.
+- 1413 Desgleichen, rosa Fond mit Golddecor und fein g gemalten Landschaften und Genres. Lange 10 cm.
+- 1414 15 Kasel aus Changeant-Seide mit braunseidenem Kreuz und farbigen Blumenarabesken, von breiter Goldbordire eingefasst.Desgleichen,ultramarinblauer Stoff mit weissseidenem Kreuz und reliefartiger Perlstickerei. Mit Goldborde eingefasst.
+- 1416-18Drei diverse Kaseln aus Seide mit Gold-und Silberstickerei.
+- 1419 Empire-Bezug aus Baumwollstoff, farbig gestreift und mit weissen Blumen gemustert. Lange 280 cm.
+- Berliner Porzellan-Rauchergefass, weiss, auf drei Fussen, korbartig decorirt. Auf dem
+- 1420 Deckel Blumchen.Hohe 13,5 cm.
+- 1421-24 Vier diverse Kannen, eine bunt,in chinesischer Manier,eine weisse Berliner mit hohem Henkel und eine aus gelblich weisser Thonerde, eine Meissener weiss, mit Streublumen
+- bemalt.
+- 1425 Porzellan-Kaffeekanne, weiss,mit Gold und grin gemalter Parklandschaft. Auf drei Fuissen. Mit Henkel, Deckel und Ausguss. Hohe 22 cm.
+- 1426 Chinesischer Porzellanteller, bunt und mit Gold. Reich und sehr schon in europaischem Styl bemalt Durchm.28,5 cm.
+- 1427 Meissener Porzellanschussel, weiss, mit schonem Reliefdecor und Streublumen im Fond. Durchm.33,5cm.
+- 1428 Meissener Porzellanbutterbuchse in Form eines Weinblattes, auf welchem eine Citrone liegt. Naturalistisch bemalt.Lange 20 cm
+- 1429 Meissener Porzellan-Sauciere mit Henkeln und vier Fuissen. Mit Goldkante, Reliefdecor und bunten Streubluimchen bemalt.Lange 22 cm.
+- 1430 Gothisches Holzrelief, polychrom, die heilige Elisabeth. in weissem Gewande mit Krone auf dem Haupte, ein Lamm zur Seite, betend.Im Hintergrunde eine Burg, von deren Balkon ein Konig mit seiner Gemahlin herabsieht H. 116, Br. 58 cm.
+- 1431 Engel,Metallguss,vergoldet, sitzend,Vollfigur,in den Handen Blumenzweig und Schlissel haltend.Grosse 53 cm.
+- 1432 33 Vier holzgeschnitzte fliegende gothische Engel mit faltenreichen Alben, eine vergoldete Holzstatuette eines Engels als Leuchtertrager.
+- 1434 Silberne Jardiniere, innen vergoldet,Rococo.durchbrochen gearbeitet.In der Mitte Kartusche mit Amoretten. Die Fuisse mit Masken und in Krallen endigend. H 16, Lg.28, Br.14 cm, Gew924g.
+- 1435-37 Garnitur von drei Majolika-Vasen, mit Deckel, Felsgestein ahnlich behandelt, mit sich verschlingenden Weinranken und Trauben.Auf dem Deckel je ein Gemskopf als Bekronung.Hohe 38 und 30 cm.
+- 1438 Silberner, theilweis vergoldeter Becher,getrieben und gravirt. Der Fuss fein proflirt Der Kelch in der unteren Halfte getrieben, um die Mitte eine Blattwulst, die obere Halfte gravirt,die Vorderseite mit Wappen und Buchstaben H. R. H.18,5,oberer Durchm.8 cm.
+- 1439 Silbernes Salzgefass, innen vergoldet,in Form einer Rococo-Muschel und Baumzweige als Fuss. Sehr schones Stick. Gew. 185 g, H. 5, Durchm. 9,5 zu 7 cm.
+- 1440 Biscuit-Biste Napoleons I.als Konsul. Mit Mantel. Hohe 30 cm. Sehr gute Arbeit.
+- 1441 Emaildose,weiss,viereckig,mit abgerundeten Ecken und ornamentirter,messingvergoldeter Montirung. Auf dem Deckel sowie innen und auf den Seitenwanden Amoretten im Style Bouchers.H.4,2,Br.8,7,Tf. 6.7 cm.
+- 1442 Desgleichen,mit reliefirtem Ornament und Blumendekor. Im Deckel Huftbild einer jungen Dame mit Maske in der Hand.H. 3,5,Br. 8,4,Tf. 6 cm.
+- 1443 44 Ein Paar Marmorleuchter,rothbraun; saulenformig mit Basis und Kapital aus Bronze. Hohe 20,5 cm.
+- 1445 Geschnitzter, schwebender Engel, Birnbaumholz,meisterhaft geschnitzt. Grosse 24 cm. Auf schwarzem Holzsockel befestigt.
+- 1446 Desgleichen, Gegenstick zum Vorigen.
+- 1447 Goldene Repetir-Uhr,Empire, mit doppeltem Schlagwerk. Von Breguet &amp; fils,Paris.Durchm. 5,5cm.
+- 1448 Goldene Chatelaine mit ovalem, schon gemaltem Emailplattchen am Bugel. An der Kette ein Wedgwood-Anhanger mit Doppelportrait und kleines goldenes Petschaft ohne Namen.
+- 1449 Goldene Taschenuhr mit Email -Medaillon,Portrait eines jungen Madchens. Das Gehause gravirt. Das Werk von L'Eping,Paris. Durchm.3,7 cm.
+- 1450 Gemalte Schweizer Glasscheibe. Wappen der Stadt Zurich. Mit Devise, Inschrift und Jahreszahl 1688. In Holzrahmen. Grosse 46 zu 38 cm.
+- 1451 Silberne Schmuckkette aus an einander gereihten, durchbrochen gearbeiteten, silbernen Rosetten mit ovalen Kettengliedern bestehend.Als Anhanger ein Filigrankreuz mit kleinen Muscheln.Lange 49 cm.Deutschland,XVIl. Jahrh.
+- 1452 Email-Uhr in Form einer kleinen Kugel, hellblauer Fond mit Blumen, Vogeln und Sehleifen in Gold und Bunt. Die Montirung aus Gold, das Werk von De Noville, Wien. Grosse 2,7cm.
+- 1453 Meissener Porzellan-Gruppe,bunt und gold,sitzender Flussgott,auf eine Vase gelehnt,der Wasser entstromt. In der Rechten ein Ruder. Sehr gut modellirt. H.14, Durchm.am Sockel 18 zu 9 cm.
+- 1454 Desgleichen, bestehend aus zwei Theilen Bacchanale.Auf einem Fasse sitzt Bacchus in kecker Steliung, einen Becher hochhaltend.Ein Putto fuillt eine Karaffe mit Wein,ein anderer Putto in tanzender Stellung einen Becher schwingend.Auf Rococo-Postament. Sehr originelle, schone Gruppe H. 27,Lg.des Sockels beider Theile 24 cm.
+- 1455 Mahagoni-Schreibschrank,Anfang dieses Jahrhunderts.Unten mit Doppelthur,in der Mitte Platte zum Aufklappen.Innen mit Schubkasten und offenen Fachern. Oben doppelthirig. Im Innern eine Drehorgel, welche durch mechanische Vorrichtung in Thatigkeit
+- gesetzt werden kann. Mit finf Walzen. H.180, Br. 107, Tf. 60 cm.
+- 1456 Rollbureau, Mahagoni,mit geschweiften Fussen. Anfang des Jahrhunderts. Im Innern
+- viele Schubkasten und Geheimfacher. H 110,Br. 110, Tf. 55 cm.
+- 1457 Meissener Porzellangruppe, bunt und mit Gold,zwei Amoretten,Knabe und Madchen, sich umschlungen haltend. Auf den Steinen, auf welchen sie sitzen,vollrund modellirte und bunt gemalte Streublimchen. Der Sockel zeigt mit Gold gehohte Rococo-Ornamente. Sehr liebliche, schon modellirte Gruppe.H.16,Durchm.am Sockel 15 zu 8 cm.
+- 1458 Frankenthaler (?) Porzellangruppe, bunt und mit Gold,Knabe und Madchen, auf Gestein sitzend. Ein Vogelnest mit Bewohnern erregt ihre Freude. Gut modellirte und gemalte
+- Gruppe. H. 19,Durchm. am Sockel 13 zu 11 cm.
+- 1459 mit silbernen Ranken,eingefasst von Silberspitzenbordure.
+- 1460 Desgleichen,blauseidener Fond mit weisser Musterung und grauer Schattirung, Blumenvase mit grossem Strauss. Kreuz (angedeutet) und Rand mit breiter Goldspitzenbordire. LouisXVI.
+- 1461 Mandoline mit bunter Holz- und Perlmuttermosaik.Lange 54 cm.
+- 1462 Auf schwarzem Postament. Hohe 50 cm.
+- 1463 Franzosischer Fayence-Samovar, bunt.Der Untersatz im Rococo-Geschmack,mit aufgelegten Blumen dekorirt.Der Kessel mit schonen Streublumen bemalt mit beweglichem Bronzehenkel und Fayencegriff. Das Rohr mit Verschluss. Schones Stick. Hohe 39 cm.
+- 1464 65 Zwei Berliner Porzellanstatuetten, bunt,Putti. Fruihling und Herbst versinnbildlichend Hohe 15,5cm.
+- 1466 Berliner Porzellanfigurchen, bunt und mit Gold, Putto als Schlachter. Hohe 9,5 cm.
+- 1467 68 Zwei Meissener Porzellanfigurchen, bunt und mit Gold, Putto mit Kaffeekanne,und Putto als schwarzer Mann."Hohe 1l,5 cm.
+- 1469 Meissener Porzellanschalchen mit Untertasse,weiss, der Rand gefechtartig reliefirt.Die Leibung mit Streubluimchen bemalt.H 4, Durchm. 7 cm. Marke: Schwerter und K. P. C.
+- 1470 Desgleichen,bunt und mit Gold. Um den Rand goldene Spitzenbordiren,auf der Leibung landschaftliche Darstellung mit Figuren,ebenso auf der Untertasse.H.4,Durchm.7,5 cm.
+- 1471 Delfter Fayence-Deckelvase, von bauchiger Form,weiss mit blauem,roth marmorirtem Dekor in chinesischem Geschmack.Hohe 31 cm.
+- 1472 Franzosische Fayence-Deckelvase,Varages, birnenformig mit Fuss. Weiss mit Streublumen bemalt und aufgelegten, farbigen Blumen als Henkel. Der Deckel in Gestalt eines Blumenstrausses. Hohe 30 cm.
+- 1473 Silberner Anhanger, emaillirt, in Form einer Karyatide mit Blumenkorb in Rankenumrahmung,mit Blumen, Vogeln ete.im Geschmack der Renaissance. Lange 8,5 cm.
+- 1474 Goldener Anhanger mit Emaille. In Form eines Plattchens, welches in durchbrochener Arbeit zwischen zwei Saulen, die durch einen Bogen verbunden sind, eine Pieta zeigt. An den Seiten Delphine. XVill. Jahrh. Grosse 4 zu 3 cm.
+- 1475 Anhanger oval, mit fein gemalten Limogebildchen; auf der Rickseite Vergissmeinnicht. In vergoldeter Rahmung. Gr.3zu 2,7cm.
+- 1476 77 Neun Porzellan-Kaffee- und Theekannchen, verschieden in Form und Dekor.
+- 1480 Frankenthaler Porzellan-Kaffeekanne, weiss mit bunter Malerei. An der Stirnseite Medaillon mit Genrescene im niederlandischen Styl,kartenspielende Bauern. Deckel.Hohe 17 cm. Ohne
+- 1478 79 Zwei Meissener Porzellan-Kaffeekannen, weiss mit bunter Malerei, in vorziglicher Ausfihrung und zwei blau weisse chinesische Schalen. Mit Marke.
+- 1481 Flacon aus Bergkrystall mit silbernem Stopsel und Kettchen. Grosse 6 cm.
+- 1483 84 Ein Paar Anhanger, emaillirt, Bandschleife mit zwei Taubchen und Barokperle.Mit geschliffenen Steinen besetzt. Grosse 4,3 cm.
+- 1482 Crucifix mit silbernen Perlen und Diamantsplittern. Grosse 6,5 cm.
+- 1485 86 Zwei Anhanger, ein silberner, Louis XVl, ein ovaler mit Silhouette und Blumenstrauss.
+- 1487 Starker 18 Ender, ungleich.
+- 1488 Rehkopf (Holz,bemalt) mit echtem Gehorn,restaurirt und bemalt,mit Leuchtern,Elchgeweih, (eine) Schaufel mit sechs Enden.
+- 1489 Gothischer Holzkasten mit dachformigem Deckel und Lederiberzug, welcher Spuren von Ornamentirung zeigt. Mit Eisenbeschlagen und Originalschloss und Handhaben. H. 30, Br.60,Tf.28cm.
+- 1490 91 Zwei Eisen-Relief-Medaillons, oval, Petrus und Paulus. Grosse 15 zu 13 cm.
+- 1492 Bronze -Relief,rund,mit schoner, alter Patina.Avers: Brustbild, Profl nach Links des Ludovicus de Gonzaga. Mit Umschrift.Revers:dessen Reiterstandbild.Durchm. 9,5cm.
+- 1493-95 Bleirelief, rund. Brustbild des Schriftstellers Esteve.Durchm. 8,9 cm. Signirt,Posch f.A.1808. Eisenrelief, rund. Brustbild eines preussischen Ministers. Anfang dieses Jahrh. Grosse 8,8 cm, bez Zumpft. Ovales Bronze-Reliefportrait, en face. Mannlicher Kopf im spanischen Kostim des XVI. Jahrh. Grosse 9 zu 7 cm.
+- 1497-1501 Funf Stick Wedgwood-Basalt-Biscuit, schwarz,bestehend aus einer runden Schale, drei diversen Kannchen und einer Theekanne. Mit schonem Dekor.
+- 1496 Japanische Porzellankanne mit Deckel, Griff und Ausgussrohr, die rechtwinkelig zu einander stehen. Mit Blumendekor in Roth mit Gold. Hohe 19 cm.
+- 1502-1504 Tetschener Kaffeekanne, dunkelbraun,mit hohem Henkel. Auf der Leibung Reliefdarstellungen in antikem Styi. Hohe 15,5 cm (ohne Deckel); zwei rothe chinesische Kannchen und eine Thonlampe, schwarz glasirt,defekt.
+- 1505 Persisches Lackkastchen,langlich, mit schoner Malerei, Necessaire, Silber, mit Lederiberzug,die Einrichtung z.Th. Silber, nicht ganz komplett.—Desgleichen, Schildpattetui, mit Silber montirt,die Einrichtung nicht ganz komplett.
+- 1506 6 Egyptische Bronzestatuette, Karyatide, ganze Figur. Gr. 23,5 cm.
+- 1507 1508 Ein Paar antike Bronzekandelaber-Sockel, dreiseitig,mit gefligelten Engelskopfen an jeder SeiteHohe 6,5 cm.
+- 1509 Sechs versilberte Schlissel. Der Griff durchbrochen gearbeitet,Karyatiden mit Monogramm und Krone.Lange 8 cm.
+- 1510 Vier diverse eiserne Schlissel.Der Griff theilweise durchbrochen gearbeitet.
+- 1511 12 Eiserne Tischschraube, durchbrochen und gravirt. Schlissel, der Griff zierlich durchbrochen;in Eisen geschnittene Zange und Schraube. XVll Jahrh.
+- 1513 14 Doppelflacon aus geschliffenem rothen Glas mit Bronzeverschluss, silbernes Armband mit Lowenkopf und Kugel.
+- 1515-17 Flacon aus geschliffenem Rubinglas mit silbernem Verschluss; silberner Anhanger, geschnitzte Steinnuss.
+- 1518 Silbernes Riechbuchschen in Form eines Eies,Flacon aus geschliffenem rothen Glase, silberne Nadelbichse, silberner Schlissel, Notiztafelchen aus Schildpatt mit Haken und Kettchen.
+- 1519 Partie diverser Spitzen.
+- 1520 Silberne Gurtelschnalle mit geschliffenen Steinen. (Pierre de Strass.) Lange 7 cm.
+- 1521 Desgleichen, kleiner.
+- 1522 Desgleichen, langlich oval, vergoldet.
+- 1523 Silberne Riechbuchse in Form einer Miniaturkommode, silberne Nadelbuchse, zwei silberne Figurchen, Ritter und Bauerin, geschliffenes,rothes Glasflacon.
+- 1524 Flacon in Gestalt einer Birne, Porzellan,bunt bemalt. Grosse 5,5 cm.
+- 1525 Silbernes Necessaire in Lederetui, Emailnadelbuchse, weiss, reliefirt und bunt bemalt, Muschel-Kamee,oval,in Bronzefassung,weiblicher Heiligenkopf.
+- 1526 72 Silber-Filigranknopfe.
+- 1527 30 silberne Knopfe.
+- 1528 Geschliffenes Glasflacon mit silberner Montirung, silberne Nadelbuchse mit Hundekopf als Verschluss (Glas) und Petschaft mit Wappen.
+- 1529 Silbernes Riechbuchschen, ornamentirt, silberner Anhanger, silberne Zuckerzange.
+- 1530 Chatelaine,vergoldete Bronze. Auf dem Hacken und den vier Gliedern Gravirung,ovaler Anhanger mit Kafer in Glas-Mosaik, silbernes Riechbuchschen in Gestalt eines Eies,vergoldetes Nadelbuchschen,ornamentirt, Messerchen mit silbernem Griff, Flacon aus Rubinglas mit silbernem Verschluss,Porzellan-Ei,bunt, mit Malerei. Zusammen sieben Stuick.
+- 1531 Kreuz aus geschliffenen Glassteinen, silberne Riechbuchse in Form einer Vase, silbernes Necessaire,(Fingerhut,Nadelbuchse, Garnwickler,Petschaft).
+- 1532 Silberne Riechdose, silbernes Nadel-Etui,ornamentirt, goldenes Flacon in Form eines Eies, Nadelbuchse,Bein mit Stahlplattchen beschlagen.
+- 1533 Zwei silberne Riechdosen, in Form eines Koffers und eines Eies, Flacon aus geschliffenem Glase, silbernes, schon ornamentirtes Buchschen.
+- 1534 Vergoldete Nadelbuchse,ornamentirt,Perlmutter-Nadelbuchse mit Silber-Ornament,zwei silberne Riechbuchsen in Form eines Eies und einer Tonne.
+- 1535 Zwei Meissener Porzellan-Nadelbuchsen, reliefrt und bemalt. Die eine mit Blumen, die andere mit Soldatenscenen.Defekt. Lange 12 cm.
+- 1536 37 Vier Theeloffel mit vergoldeter Muschel,vierkantiger Griff mit Maskaron. Nach altem Vorbilde. Gew. 45 g. Drei diverse Loffel, Messing vergoldet.
+- 1538 Vier silberne Theeloffel mit Relief. Medaillons.und Emblemen im Griff.Anfg.des Jahrh. Einer mit gedrehtem Griff und Figuren am Grifende und am Ansatz. Xvll. Jahrh. Gew. 60 g.
+- 1539 Empire-Schmuckschalchen, Silber,rund mit zierlichem ornamentirten Fuss und gebuckelter Schale mit gravirter Blattbordire am Rande. Innen vergoldet. H. 8 cm. Durchm. 7 cm. Gew.58g
+- 1540 Desgleichen,die Schale aus Achat,rund,der Fuss silbervergoldet und ornamentirt. Hohe 6 cm,und silberner Aschbecher, Wannenform,Lange 8,5 cm.
+- 1541 Glashecher, glatte konische Form, gefachert mit doppelter Wandung,aussen Silber,innen Gold, im Boden eine Rosette. Hohe 8 cm.
+- 1542 Gothisches Dolchmesser mit Elfenbeingriff,letzterer geschnitzt,weibliche allegorische Griff 20cm.
+- 1543 Sabeltasche aus Leder mit messingvergoldetem Beschlag,reich ornamentirt. Gute Arbeit. XVIll. Jahrh. Lange 25 cm..
+- 1544 Porzellanplatte,weiss,viereckig mit Relief-Darstellung. Der heilige Hieronimus mit Kreuz und Todtenschadel. H.10.5.Br.8 cm.
+- 1545 Silberne Rococo-Zuckerdose, innen vergoldet,oval, auf vier Fisschen. Mit reliefirtem Ornament und Putti auf dem Deckel. H. 6,5. Lg.13 cm.Gew.215 g.
+- 1546 Ovale silberne Dose, innen vergoldet,mit schonem Ornamentfries im Style Louis XV. Auf dem Deckel in kraftigem Relief spielende Amoretten.H. 4.Durchm.9 zu 7 cm. Gew.144g.
+- 1547 Silberne ovale Schale mit Henkeln und Fuissen,innen vergoldet. Mit schonem reliefirten Rococo-Ornament. H. 6,5. Br.17.Tf.9 cm. Gew.175 g.
+- 1548 Flache Achatdose in Kupfer montirt, die Flachen facettirt,rechtwinkelige Form. Grosse 7,5 zu 5,5 cm.
+- 1549 Desgleichen, siebeneckig, die Front rund und die Leibung geschweift. Vergoldeter Beschlag H.3,2.Gr.8zu 6cm.
+- 1550 Milchglasdose, rechteckig,in Kupfer montirt,mit landschaftlichen Darstellungen in Roth. An der kurzen Seite zu offnen. H.3.Br.9.Tf.4cm.
+- 1551 52 Zwei Tabaksdosen, Messing,rechteckig und oval, gravirt und reliefrt. Lange 14,5 und 12,5cm.
+- blau-weiss dekorirt.
+- 1557-60 Fayence-Teller mit bunter Bemalung,mythologische Darstellung,E Bronzevase mit verschiedenfarbigem emaillirten Grunde.Hohe15,5 cm. Chinesische Theekanne, grau, mit reliefirten Storchen auf der Leibung, acht kleine chinesische blau-weisse Teller.
+- 1561 Convolut: Seidengestickter Kragen, zwei Coupons wollene Borte, vier diverse Deckchen, Seide und Wolle mit Borten und Fransen.
+- 1562 Haubenboden, point d'Allencon.
+- 1563 Halbe Brisseler Spitzen-Barbe. Lange 83 cm und diverse Zwirn-Spitzen.
+- 1564 Coupon Brisseler Spitze. Lange 120 cm.
+- 1565 Desgleichen. Lange 220 cm.
+- 1566 Desgleichen. Lange 130 cm.
+- 1567-69 Drei div.Kartenspiele. Zwei Tarockspiele a 41 und 67 Blatt. Franzosische Karte mit 51 Blatt.Ferner zwei einzelne Karten.
+- 1570 Altes Deutsches Kartenspiel. XVIll. Jahrh. Mit originellen, zum Theil satyrischen und sittenbildlichen Darstellungen mit darauf beziglichen Unterschriften. 29 Blatt. (Statt 36Blatt.)
+- 1571
+- Zwanzig Figurenkarten zum Mauth-Inspektor. Ferner 52 Karten zu einem ahnlichen Spiele. (Wahrsagespiel.) Ende des vorigen und Mitte dieses Jahrh.
+- 1572 73 Zwei Miniaturen in runden Bronze-Rahmchen. Das Brustbild Kaiser Joseph Il. von
+- Oesterreich.—Brustbild eines Mannes in gepudertem Haar und blauem Leibrock mit rothem Kragen.Diam.6,2 und 5 cm.
+- 1574 75 Zwei Desgleichen in Bronzerahmchen von ovaler Form mit Figuren und Ornamenten. Weibliche Brustbilder. H. 5. Br. 3,5 cm.
+- 1576-78 Drei Desgleichen, in Metallrahmchen,rund und oval. Mannliche Brustbilder. Diam.
+- 4,5 und H. 5. Br. 4,3 circa.
+- 1579-81 Zinn-Lavoir, barok, in Form einer Nische mit Saulen und Buste. Hohe 43 cm. Altes Schloss mit Schlussel, XVll. Jahrh. Bronzethurklopfer mit gekreuzten Kanonenrohren und Maske.
+- 1582-86 Convolut,ovales,getontes Gypsrelief in Holzrahmen,Anbetung der Konige,Gypsbuste auf Holzsockel, junges Madchen, eiserner Pilaster in Gestalt eines Soldaten mit Schild (kursachsische Schwerter, XVll. Jahrh., polychrom. Hohe 5O cm. Partie von Schutzglasern iber Miniaturen u. dgl., theilweis geschliffen, sechs alte Gurtelketten.
+- 1587 Shawl, gemusterte,blaue, chinesische Seide. Lg. 12,80 m,Br. 41 cm.
+- 1588 Desgleichen. Lg.12,80 m,Br. 41 cm.
+- 1589
+- Desgleichen, ebenso.
+- 1590 Ein Paar Fusse von Salzfassern aus Bergkrystall, geschliffen und mit Turkisen besetzt.
+- Hohe 5cm.
+- 1591 Saal-Baumodell, Schildpatt und Elfenbein. H.34, Br. 53 cm. Unfertig. Gute Arbeit
+- 1592 Convolut aus Knopfen,Barokperlen,Steinen, Glasperlen etc.
+- 1593
+- 1594
+- Sammlung von Porzellanuntersatzen und Postamenten.
+
+## X. Auctionstag:
+
+## Freitag, den 4. December 1896,
+
+von 1o Uhr ab.
+
+- bezogen. H.18,Br.52,Tf.28 cm.
+- 1595 Grosse cylindrische Brunnensaule aus Holz, schwarz gestrichen und cannelirt.An der Basis breite,vergoldete Lorbeerwulst.Die Canneluren mit vergoldeten,oben geperlten Staben belegt.Das Ausflussrohr geht durch den geoffneten Rachen eines Lowenkopfes aus
+- 1596
+- vergoldetem Eisenguss. Hohe 158 cm.
+- Funf silberne Theeloffel, zierlich ornamentirt und mit kleinen Figirchen am Griffende. Gew.67 g.
+- 1597 Vier Desgleichen mit vergoldeter Muschel und reich ornamentirtem Griff. Nach alten Vorbildern.Gew. 98 g.
+- 1598 Funf silberne Theeloffel mitvierkantigem,ornamentirtem Griff und einer Hand am Griffende.
+- Gew. 82 g.
+- 1599 1600 Zwei Schildkrotdosen, flach, viereckig. Mit Silberbeschlag. Im Deckel in Silber-
+- tauschirung figirliche und ornamentale Motive. Grosse 8 zu 6 cm und 6,5 zu 5 cm.
+- 1601 Emaildose mit geschweifterVorderfront und Bronzebeschlag.Mit farbig gemalten figirlichen Darstellungen, Amoretten etc.Im Innern der Zug der Aurora. Mit Springen. H.4, Gr.9,5zu6,5cm
+- 1602 Desgleichen mit bunten Streublimchen.Auf dem Deckel kleine Landschaft und Verzierung
+- en relief. H.3,5, Gr.8 zu 4,5 cm. Mit Sprung.
+- 1603 Porzellan-Dose, bunt,viereckig, in Bronze montirt. Sehr fein mit Streublumchen bemalt. Im Innern des Deckels Genrescene:Die Wahrsagerin (drei Figuren).Der Deckel restaurirt. H.4,Br.8,Tf.6,5cm
+- 1604 1605 Emaildoschen, grin mit weiss reliefirtem Dekor. Die Leibung geschweift,in den Medaillons Streublumchen. Mit Kupfer montirt. Grosse 5,5 zu 3,5 cm und Desgleichen, birnenformig,weiss,mit Streublimchen,Deckel ladirt. H.4,Durchm.3 cm.
+- 1606 Desgleichen,in Gestalt eines Apfels,bemalt. Grosse 4,5 cm.
+- 1607 Statuette eines Bettlers,mit Stock, den Hut in der Hand. Aus Holz,die Fleischtheile aus Bein geschnitzt. Bemalt. Auf profilirtem,rundem Holzsockel. Hohe der Figur 1l cm.
+- 1608 Hollandisches Kelchglas mit hohem Fuss, in welches weisse Spiralfaden eingeblasen sind. In Diamantritzung hergestellt befindet sich auf der Leibung eine Genrescene, betitelt Vriendschap.Hohe 15,Durchm.5,8 cm.
+- 1609 Desgleichen mit eiformiger Leibung. In derselben Technik das Portrait des Viceadmiral. I.A.Zoudtman.
+- 161011 Zwei Oelbilder von Fassauer. Huhner unweit einer Holzplanke. - Tauben in einer Landschaft. Gegenstucke.Fein durchgefuhrte Arbeiten des geschatzten Gefligelmalers. H. 17,5, Br.25. Ohne R.
+- 1612-15 Vier Desgleichen im Geschmacke des N. Lancret. Zwei mannliche und zwei weibliche Costimfiguren in Landschaften.Auf Holz. Stark restaurirt.H. 26,Br. 21.
+- 1616 Metalbuste, mannlicher Kopf, um die Stirn einen Strick geschlungen. Hohe 45 cm.
+- 1617 Nassauer Steingutkruke, grau mit blauem und rothbraunem Dekor. In sechs Felder durch und Monogramm mit Krone und Jahreszahl 1718. Das Dekor geritzt, von feiner Zeichnung. Hohe 25 cm.
+- 1618
+- Zinnteller mit figurlichen Reliefs von zwolf deutschen Kaisern bis zu Ferdinand II. Durchm.19.
+- 1619-21 Drei Miniaturen.Brustbild eines Officiers mit dem eisernen Kreuz der Befreiungskriege. H.7,Br.5,3cm. Zwei weibliche Brustbilder,von denen eines auf Porzellan gemalt (Portrait der Schauspielerin Seiffert). H.7,5,Br.6,5 und H.4,8, Br. 4,3. Viereckig. Metallrahmchen.
+- 1622 23 Zwei Desgleichen. Brustbild der Konigin Louise von Preussen. H.7,Br.5,3 cm. 一 Brustbild einer Furstin, angebl. Herzogin von Mecklenburg-Strelitz.Von sehr feiner Durchfuhrung. H. 6,5,Br.4,5 cm. Beide in ovalem Bronzerahmchen.
+- 1624 Meissener Porzellan-Ober- und Untertasse, bunt und mit Gold,Kelchform mit vergoldetem Henkel und goldene Spitzenbordire. Mit Medaillons im Vierpass auf g gelbem Grunde, Kustenlandschaften mit Figuren,Baumen, Schiffen ete. H. 6,Durchm.7 cm.
+- 1625 Desgleichen, glatte Becherform, tuirkisblauer Grund mit Golddecor und zwei Medaillons im
+- Vierpass mit schonen gemalten Blumen. Die Untertasse mit Einsatz und gemalten Streublumen.H. 6,3,Durchm.7,2 cm. Sammlung Sampayo.
+- 1626 6 Silberner Empire-Zuckerkorb mit Bigel und Einsatz aus blauem Glase. Auf vier Kugelfisschen eine Platte, auf welcher vier geschweifte Fusse stehen,unten Hufe bildend,nach oben in Mascarons endigend. Die Seiten zeigen in durchbrochener Arbeit Weinlaub mit Trauben. Am Rande freistehende Palmettenblatter. H. 16,Durchm.18 cm,Gew. 307 g
+- 1627 Desgleichen,einfacher, ohne Glaseinsatz,in Form und Dekor ahnlich dem Vorigen. H.13,5, Durchm.12 cm, Gew. 157 g.
+- 1628 Fayence-Schhussel,Faenza, mit fachem Fuss,gerippt. Im Fond Amorette in einem Sechseck,mit Ornamenten verziert. Durchm.26,5 cm.
+- 1629 Delfter-Fayence-Teller, bunt, mit Gold gehoht, in chinesischem Geschmack bemalt. Durchm.29,5 cm.
+- 1630 Desgleichen,ebenso, kleiner Durchm. 25 cm.
+- 1631 Ein Paar Meissener Porzellan-Figurchen, bunt und mit Gold. Putti, als Cavalier und Dame in reichem polnischen Nationalcostum. Gegensticke. Hohe 12 cm.
+- 1632 33 Zwei Porzellanstatuetten, bunt und mit Gold,Mercur (Meissen） und Pomona mit Frichten. Hohe 13 cm.
+- 1634 Meissener (?) Porzellanflacon, bunt und mit Gold, in Gestalt einer Jagerin, mit Gewehr in der Hand.Hohe 8,5 cm.
+- 1635 Bronzebuste Napoleons I. mit Lorbeerkranz im Haar. Auf hohem,cylindrischem Bronzesockel. Hohe der Biste 8 cm.
+- 1636 37 Ein Paar franzosische Filigran-Vasen mit bunter Emaille,birnenformig,mit eingezogenem Halse. Der Querschnitt in Form eines langlichen Vierpasses. H. 9,5,Durchm 7 cm.
+- 1638 Zwei Bronzebeschlage,vergoldet,archaistische Halbfigur eines Mannes,gewandet,theilweise emaillirt, und Figur eines geflugelten Engels mit zwei Kelchen. Ersterer 8,5,letzterer 6,5 cm.Charakteristische Arbeiten. XIV. Jahrh. Sammlung Riedinger.
+- 1639 Meissener Porzellan-Flacon, bunt, Bauerin mit Blumenkorbchen. Reizvoll dekorirt. Hohe 6,5cm. Sammlung Friedrich.
+- 1640 Desgleichen, bunt. Wickelkind. Schones Dekor. Hohe 7,5 cm. Sammlung Friedrich.
+- 1641-44 Vier Meissener Porzellan-Statuetten,bunt. Die vier Jahreszeiten,charakterisirt durch Putten mit den entsprechenden Symbolen. Die Sockel mit Vergoldung. Hohe 12,5 cm.
+- 1645 Berliner Porzellan-Theeservice,bestehend aus einem ovalen Brett,einer grossen Theekanne, Sahnenkannchen, Zuckernapf, Theebuchse und sechs Ober- und Untertassen. Weiss mit rothem Blumendekor in schoner Ausfuhrung.
+- 1646 Berliner Porzellan-Service (inkomplet), bestehend aus ovalem Brett,zwei Kannchen, Theebuchse und Theekannchen,weiss,zierlich reliefrt;mit schonem Golddekor und gemalter Marmor-Imitation.Sehr feines Service.Ladirt.
+- 1647 Glaskaraffen fir Essig und Oel in silbernem Empire-Behalter, oval,auf vier Kugelfuisschen. Reich ornamentirt und durchbrochen. Die Karaffen geschliffen.Durchm. 18 zu 9,5 cm, Gew.492g.
+- 1648 Silberner Jungfrauenbecher, innen vergoldet, mit zierlicher Gravirung auf der Leibung. H.7,5 cm, Gew. 30 g.
+- 1649 Wiener Porzellan-Statuette,bunt. Junges Bauernmadchen,einen Blumenkorb im Arm,an einen Baumstamm gelehnt.Hohe 20 cm.
+- 1650 Berliner Porzellangruppe,bunt und mit Gold,allegorische Darstellung des Herbstes. Sitzende weibliche Figur,zur Rechten einen Korb mit Frichten;links steht ein Putto,verkehrt auf einem Ziegenbock sitzend und Wein in einen Becher fillend. Rococo-Sockel. Sehr schone Gruppe. H. 18,5,Durchm.19 zu 8 cm.
+- 1651 Grosse Berliner Empire-Vase, bunt und mit Gold, birnenformig, mit Deckel Auf der Leibung Canneluren,deren Stabe vergoldet sind,unterbrochen von Ornamentborduren und zwei ovalen Medaillons mit bunten Blumen,umrahmt von Lorbeerfestons. Als Bekronung der preussische Adler,vergoldet. Hohe 33 cm.
+- 1652 Kieler Fayence-Vase, bunt,bauchige Leibung mit eingezogenem Fuss und Hals. Der Deckel geschweift.Mit Blumenmalerei auf der Leibung und aufgelegten gewundenen Zweigen mit Blumen,welche die Henkel bilden Der Deckel mit acht Lochern-und aufgelegten Zweigen mit Blumen dekorirt. H 29,Durchm. 17 cm.
+- 1653 Meissener Porzellan-Statuette: Le Turc amoureux,in malerischem Kostum und mit umgehangter Guitarre. Ausgefihrt nach einem Gemalde von Lankret. Hierzu gehorig ein Kupferstich nach genanntem Bilde. Hohe 19,5 cm.
+- 1654 Meissener Porzellangruppe (Marcolini. Die Weinprobe,reizende bunte Gruppe von drei Figurchen. Ein junges Madchen, an einem Fasse stehend, fullt eine Karaffe mit Wein,ein junger Mann sitzt ihr gegenuber und reicht ihr einen Becher zum Fillen. Weiter zuruick, auf erhohtem Postament, steht ein zweiter mit einem Korbe voll Weintrauben. H.21, Durchm.13 cm.
+- 1655 Medaillon aus Berliner Biscuit-Porzellan. Auf blauem Grunde, die Portrait-Reliefs Konig Friedrich Wilhelms Ill., der Konigin Luise und neun Mitgliedern des Koniglichen Hauses. Sehr gut modellirt. In fein ciselirtem Bronzerahmen mit Eichenzweigen an der Oese. Durchm.16 cm.
+1656. Silberne, getriebene,flache Schussel,oval,mit gebogtem Rande und schoner Ornamentirung. Im Fond Darstellung eines Bacchanale. Originelle Composition. Durchm.46 zu36 cm, Gew. 750 g.
+- 1657 geschnitzt. Stuhl von eleganter und schoner Form. Mit modernem Bezug.
+- 1658 Kleines Besteck in gerippter Lederscheide. Der Griff aus Schildpatt und Silber. Lange 15cm.
+- 1659 Zwei Bronzekelte mit schoner Patina. Lange 16 cm. Fundsticke
+- 1660 Papierscheere mit Messinggriff,herzformig durchbrochen. Lange 27,5 cm.
+- 1661 Vier Messer,eines mit schonem Schildpattgrif und Silber mit hebraischer Inschrift,ein Taschenmesser mit silbernem Griff und schwarzem Email,ein Desgleichen mit silberner Klinge und Perlmutterscheide und eines mit gravirtem Messinggriff mit Perlmuttereinlage.
+- 1662 Ovale Rococo-Schale, Kupfer, reich reliefirt. Grosse 36 zu 27.
+- 1663 Desgleichen, ebenso, kleiner. Grosse 25 zu 18 cm.
+- 1664 Chinesischer Toilette-Lackkasten, Schmetterlingsform;mit schonem,reichem Golddekor; innen mit vielen in einandergeschachtelten Kastchen, deren Form der ausseren analog ist. Auf Boden mit vier Fussen. H. 19,Durchin.30 zu 21 cm.
+- 1665 Desgleichen, ebenso.
+- 1666 Chinesischer Spiegel,mit Lackrahmen und Golddekor. Die Kontur geschweift. Zum Aufstellen. H.55,Br.48cm.
+- 1667 Wiener Porzellan-Kaffeeservice, fur eine Person, bestehend aus Kaffee- und Sahnenkanne, blimchen mit grinen Blattern.
+- 1668 69 Sechs Ludwigsburger Mocca-Schalchen, bunt und mit Gold, in chinesischer Manier dekorirt.H.4,3,Durchm.6,3 cm.
+- 1670 71 Sevres-Porzellan-Theekanne, birnenformig,mit geschweiftem Henkel und Ausgussrohr, weiss mit Goldlinien. Auf dem Deckel Streublimchen.Restaurirt, und Dreieckige Porzellandose,Fulda,mit Henkel, reliefirt und mit Streublimchen bemalt. Restaurirt.
+- 1672 Meissener Porzellanstatuette, bunt, Johannes, in langem, faltenreichem weissen Gewande, ein Buch in der Hand. Hohe 15 cm.
+- 1673 Desgleichen, Dame im Maskenkostim, schwarz maskirt, tanzend. Hohe 15 cm.
+- 1674 Desgleichen, tanzende Polin, gelbes Nationalkostim mit grinem Bande Hohe 14 cm.
+- 1675 Berliner Porzellangruppe, weiss,Bacchantin,einen Ziegenbock mit Weintrauben fitternd. Hohe 19 cm.
+- 1676 Desgleichen, Negerin mit Schale. Sehone Gruppe. Hohe 18 cm.
+- 1677 Berliner Porzellan-Statuette, weiss, Knabe mit Vogelnest im Hut. Hohe 10 cm.
+- 1678 Porzellan-Figurchen, bunt, Bauernmadchen mit Wuirsten in einer Mulde. Hohe 10,5 cm.
+- 1679 Meissener Porzellan-Statuette,bunt,Polin im Nationalkostim. Hohe 15 cm
+- 1680 Desgleichen, bunt und mit Gold, Amor, auf ein Sehild gelehnt, mit Rosenguirlanden. Hohe 8 cm.
+- 1681 Desgleichen, Amorette,auf einem Saulen-Kapital sitzend, den Winter versinnbildlichend. Hohe 12 cm.
+- 1682 Porzellan-Statuette, suddeutsches Porzellan, bunt, Schaferknabe, an einen Baumstamm gelehnt. Zu Fuissen der Schaferhund. Hohe 20 cm.
+- 1683 Berliner Porzellan-Statuette, bunt, Mann im Schlafrock und mit langer Pfeife. Hohe 15 cm.
+- 168485 Zwei Porzellanfigurchen, bunt, ein Berliner, Putto mit Kartoffeln in der Schurze, und ein Ludwigsburger (?), Madchen mit Sonnenschirm. Hohe 8,5 und 10,5 cm.
+- 1686 87 Holzgeschnitzte Figur, Bischof, polychrom. Defekt.Hohe 150 cm. Desgleichen, Christus,mit der Dornenkrone, Vollfigur, sitzend. Hohe 96 cm.
+- XVIll.Jahrh.
+- 1690 Holzgeschnitzter,grosser Rahmen, durchbrochen, vergoldet und bemalt. Barok,oben halbkreisformig. H.176, Br. 96 cm.
+- 1691 Kleines Cabinet, schwarz,mit Flugelthiren. Innen mit acht Schubkasten und einem Mittelfach mit Intarsien und Spiegelwanden.Der Aufsatz mit Deckel und Spiegel. Die Fillungen mit schoner,hoher Stickerei. XVIl. Jahrh. Defekt. H. 42,Br.45,Tf. 24 cm.
+- 1692 Grosse etruskische (orientalische ?) Urne mit Zickzack-Ornament. An den Seiten zwei Henkel. H.75,Durchm.45 cm.
+- 1693 Silberne Riechdose,reliefirt,versilberte Emailplatte mit schonem Ornament. XVIl. Jahrh. Spargelkopf,Porzellan, Nadelbuchse (Sprudelstein) mit vergoldeter Montirung.
+- 1694 Drei diverse silberne Riechdosen, schon ornamentirt.
+- 1695 Silberne Riechdose, - Schnalle mit pierres de Strass, Scheere in Email-Etui, PorzellanScheeren-Etui etc., silberner Anhanger, silberner Bindiochstecher.
+- 1696 Zwei silberne Riechdosen, eine eiformige und eine ovale mit Palmetten, silberne Zuckerzange Louis xv.
+- 1697 Nadelbuchse,Email, Pinienzapfenform,silberne Riechdose, sehr gutes Stick,mit Figuren, Desgleichen, eiformig,Ohrloffel, Perlmutter mit Gold.
+- 1698 Nadelbuchse,Elfenbein mit sehr feinen Ornamenten in Goldpique,zwei silberne Riechdosen in Form einer Tonne und eines Buches.Burstchen mit Perlmuttergriff im Etui.
+- 1699 Shawl aus gemusterter blauer chinesischer Seide.Lg. 12,50 m, Br. 41 cm.
+- 1700 Desgleichen, Lg.11,30 m, Br.41 cm.
+- 1701 Desgleichen,ungemustert. Lg.11,58 m,Br. 41 cm.
+- 1702 Desgleichen, rosa. Lg.3,80 m,Br. 41 cm.
+- 1703-1705 Drei gerahmte Miniaturen. Zwei furstliche Portraits, von denen das eine in Oel ausgefuhrt. Brustbild eines Mannes in burgerlicher Tracht.Oval. Grosstes Format. H.11. Br.8,5cm.
+- 1706 Sammlung von sieben Miniaturen, wovon zwei in Oel ausgefihrt. Mannliche Kopfe und Brustbilder. Ohne R.
+- 1707 Desgleichen von 17 Miniaturen. Mannliche und weibliche Portraits. Ohne R.
+- 1708 1709 Vier geschliffene Glasschalen von Tafelaufsatzen, eine mit silbernen Henkeln, drei blau-weisse Delfter Kacheln,quadratisch.13 cm.
+- 1710 Faltstuhl mit geschweifter Rick- und Armlehne. Nussbaum.
+- 171112Zwei holzgeschnitzte Figuren,Apostel,in langen,faltigen Gewandern,gute,alte Schnitzerei mit Spuren von Bemalung. Hohe134cm.
+- 1713 14 Zwei Desgleichen, eine mannliche, polychrom,und ein Torso.
+- 1715 Zwei Berliner Porzellantheekannen, weiss, mit buntem Decor und Goldborduren. Gerade, glatte Form, mit eckigem Henkel und Ausguss, die eine mit Streublimchen bemalt,die andere mit zwei Medaillons und Blumen. Hohe 1l und 13 cm.
+- 1716-18 Drei Meissener Porzellan-Henkeltassen mit Unterschale, weiss, mit bunt gemalten Blumen und braunem Rande.H. 4,5,Durchm. 7,8 cm.
+- 1719 Sieben chinesische und drei Meissener Kaffeetassen ohne Henkel und Unterschalen. Theilweis defect.
+- 1720 Ludwigsburger Porzellanvaschen, blau, mit Gold. Rococo. Hohe 10 cm.
+- 172122Z Zwei Berliner Porzellanstatuetten, weiss,weibliche Figur mit Tyrsos und Hund restaurirt) und Hirt mit Mantel und Stab. Hohe 17 und 15,5 cm.
+- 1723 24 Ein Paar Desgleichen, Knabe, im Hut ein Vogelnest tragend und Madchen mit Vogelbauer. Hohe 15,5cm.
+- 1725 26 Zwei Porzellan-Theebuchsen, Berlin, mit schon gemalten Streublumen decorirt.
+- 1727-29 Drei Desgleichen, zwei mit ahnlicher Malerei, eine in Rococo-Form, zierlich reliefirt, geschweift und fein bemalt. Mit Deckel.
+- 173031Z Zwei Porzellan-Theebuchsen,eine Meissener und ein Berliner. Erstere mit Landschaften in Lila, sehr schon bemalt, letztere gerippt und mit blauem Decor.
+- 1732 33 Zwei Desgleichen, Meissen, mit schoner bunter Malerei, Frichten und Blumen und reliefirten und bemalten Blumenzweigen.
+- 1734-36 Drei Meissener Porzellantassen mit Unterschalen,weiss,mit bunten Streublumen bemalt, eine reliefirt.
+- 1737-40 Vier Berliner Porzellan-Ober-und Untertassen, reliefirt und mit Streublumen bemalt.
+- 1741 42 Zwei Desgleichen, verschieden in Form und Decor, reliefirt und mit Streublumen und Theekannchen,defect,ohne Deckel.
+- 1743 Kelchglas mit profilirtem Stander, breiter Fussplatte und in Mattschlif ausgefihrtem Familienwappen auf der Cuppa. Hohe 20 cm.
+- 1744-46 Drei diverse Glaser. Kelchglas mit Mattschliffdekor und Inschrift (die Fussplatte defekt), ein bohmisches Glas mit weissen Spiralfaden-Ornamenten im Stander und ein Rheinweinglas mit Mattschliffdekor. XVIll. Jahrh.
+- 1747-50 Diverse Glaser. Spitzglas in Venetianer Art, schlankes bohmisches Kelchglas mit weissen Spiralfaden im Fuss, Stengelblumen-Vase mit Mattschliffdekor, Spitzglas, geschliffen, gefacherte,ovale Cuppa.
+- 1751 Vier silberne Messer und eine Gabel,verschieden ornamentirt.
+- 1752 Zwei silberne Zuckerzangen, ein Streuloffel, eine Strickscheide in Form eines Pfeils. Gewicht 120 g.
+- 1753 Silbervergoldeter Munzloffel (Friedrich August Kurfurst von Sachsen) mit geflochtenem Griff,und silberner Loffel mit runder Muschel und reich ornamentirtem Griff. 1759. Gewicht 92 g.
+- 1754 Elfenbeinfriese auf Schildpatt, durchbrochen und iberaus reich geschnitzt. Von einer Mittel-Kartusche aus entwickeln sich Ornamentranken mit Blumen,Vogeln,Insekten, Muscheln etc., theilweis auch mit allegorischen Darstellungen. Sechs grossere und sechs kleinere. Lg.26 cm Br.6und 4 cm. Deutschland,um 1700.
+- 1755 Messer mit silbernem Griff,in diesem in Flachrelief allegorische Figuren und Tauben. Die Scheide, mit silbernem Beschlag,gravirt, ist aus Schlangenhaut. Lange mit Scheide 25 cm.
+- 1756 Bosnisches Besteck,modern, Messer und Gabel in Lederscheide. Der Griff und die Klingen mit Messing tauschirt,ersterer aus Horn. Lange 24,5 cm.
+- 1757 Dolch mit lanzettformiger, schmaler, zweischneidiger Klinge. Der Griff aus Bronze in Gestalt einer weiblichen Groteske.Lange 23 cm.
+- 1758 Drei diverse Reisegabeln mit Schildpattgrif und Messing- und Silbertauschirung.
+- 1759 Antiker Bronzefuss, Groteske mit Kralle und ovales Bronzeplaquette, Reisiger in Ruistung, Hochrelief.
+- 1760 Bronzestatuette eines Schalksnarren, von einem Stehleuchter. Mit Patina. Hohe 15,5.
+- 1761 Kunstkugel in Form dreier in einander gefigter Kugeln mit mittlerem Zackenstern, braun. Nordische Arbeit.Durchm.7,5 cm.Sammlung Hammer.
+- 1762 Silberne Nadelbuchse, Louis XVI., hubsches Stick, silberner Bindlochstecher, silberne Nadelbuchse mit Perlmutter-Einlage.
+- 1763 Convolut,Elfenbeinstockknopf, Glasflacon u. div.A.
+- 1764 Romischer Ringschlussel mit schoner Patina.
+- 1765 Kleine Scheere, mit Silber tauschirt. Lange 8 cm.
+- 1766 17 diverse Louis xvl. Bronzerahmen.
+- 1767 Zwei friesische Wanduhren.
+- 1768 Partie diverser Bronzebeschlage und Leisten und 2 alte Specksteinreliefs.
+- 1769 Etui mit 2 silbernen Messern und einer Gabel, defekt,eine Scheere mit silbernem Griff, ornamentirt.
+- 1770 Partie diverser Holzschnitzereien.
+- 1771 Bronze- und Holzmodelle fir die Beschlage zu den Kabinetschranken Konigs Ludwigs Il. von Bayern.
+- 1772 Eine Partie diverser Deckel zu Glaspokalen und Glasglocken zu Stutzuhren.
+- 1773 Desgleichen, Porzellandeckel.
+- 1774 Eine Partie Bronzebeschlage, Rohguss.
+- 1775 Convolut aus verschiedenen Bronzetheilen von Mobeln, Uhren, Lampen etc.
+- 1776 Diverse Waffen,Hirschfanger etc
+- 1777 Partie Bronzebeschlage von Uhren.
+- 1778 Eine Partie Etuis, 55 Stick
+- 1779 Eine Partie Bronzebeschlage, Rahmen,Figuren ete, darunter sehr schone Sticke.
+- 1780 Desgleichen.
+- 1781 Partie Bronzebeschlage fir Kasten,Pilaster und Ecken etc.
+- 1782 Partie blau-weisser Fayence-Deckel
+- 1783 Eine grosse Partie geschliffener Glassteine, in verschiedenen Farben.
+- 1784 Kataloge: Collection Spitzer,komplett,Antiquitaten und Waffen,Mme d'Yvon 一 Liebermann,Gemalde und Antiquitaten,alter Munzkatalog,Dresden,1834,und diverse andere Bicher.
+- 1785 Bucher-Convolut:Dictionnaire des Emailleurs par Emile Molinier,Paris 1885,-La Ceramique italiame par F. de Mely,Marques et Mowgrammes,-Les Manuscrits et la Miniature par Le coy'de La Marche, Lexique des Termes d'Art par J Adeline.
+- 1786 Klappstuhl, braun gebeizt.
+
+<!-- image -->

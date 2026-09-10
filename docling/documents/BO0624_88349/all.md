@@ -1,0 +1,1635 @@
+## Irdengut,Steinzeug,Steingut
+
+- Ofenkachel.Ovalrelief:Auf einer Lambrequinbordire unter Baldachin sitzende,weibliche Figur,seitlich Sphinxe.
+- 1 WeiBgrin gefleckte Glasur. Um 1750. Hohe 51 cm, Breite 36 cm.
+- Ofenkachel. Rechteckig,vertieftes Muschelornament und Bandmuster zwischen graviertem Rankenwerk. WeiBe
+- 2 Glasur mit blauer Konturierung. Deutsch, 18. Jahrhundert. Hohe 57 cm, Breite 40 cm.
+- 3 Ofenkachel. Rechteckig,hangendes Lorbeergewinde in starker Reliefierung. WeiBe Glasur. Deutsch,um 1800. Hohe 45 cm,Breite 37cm.
+- 4 Ofen.Auf rechteckigem,von Dreiecksgiebel abgeschlossenem Sockel eine ovale,kannelierte unten von Akanthuskranz und Puttenfries, oben von Ornamentband begrenzte Saule. Darauf Bekronungsvase. Gelber Ton,unglasiert. Sogenannter Maximiliansstil. Um 1850.Hohe 230 cm, Breite 80cm,Tiefe 50 cm.
+- Abbildung Tafel 2.
+- Kaffeekanne. Bauchige Form mit gerader AusguBrohre. Auf braunem Grund weiBe Linien- und Punktmotive. Sid deutsch. Zinndeckel mit CH 1795. Hohe 22 cm.
+- Vase. Eiformig mit eingezogenem Hals und weitem Rand. Reliefdekor: Weibliche Masken und Blumenkranze.
+- Volutenhenkel. WeiBe, innen gelbe Glasur. 18. Jahrhundert. Hohe 18 cm.
+- 7 Schreibzeug.Muschelform mit Maske; zwei runde Einsatze.Friheres 19. Jahrhundert.Lange 21 cm, Breite 15,5 cm.
+- 8
+- Flache Schissel. Bunter BlumenstrauB auf WeiB;unten braun glasiert. Osterreich, frihes 19. Jahrhundert. Durchm.28 cm.
+- Walzenkrug. KreuBener Steinzeug. Zwischen zwei Rundwulsten mit Akanthuslaub eingezogener Streifen mit Spachteldekor. Zinnreifen und -deckel. Braune Glasur.17. Jahrhundert. Gekittet. Hohe 13,5 cm,Durch-
+- messer 15cm.
+- 10 Zwei Krige. Rheinisches Steinzeug. Runder FuB,melonenformiger Korper, eingezogener,runder Hals. Auf sechs hochovalen, dreigeteilten Feldern reliefierte Apostelfigirchen. Braune Glasur. Hals des einen beschadigt.
+- 17./18. Jahrhundert. Hohe 36 cm.
+- 11 Schraubflasche.Sachsisches Steinzeug. Kugelform mit sechs Flachen; Spachteldekor und Akanthuslaub. Braune Glasur. Zinndeckel mit Ring. 17.i8. Jahrhundert. Hohe 17 cm.
+- 12 Kugelbauchkrug. Westerwalder Steinzeug. Auf manganviolettem Grund geritztes Rundmedaillon: Springendes Pferd in Blattranke.17./18. Jahrhundert.Hohe 21 cm. Abbildung Tafel 6.
+- 13 deckel.18.Jahrhundert.Hohe 18 cm.
+- Walzenkrug. Steinzeug, vermutlich siddeutsch. Auf blauem Grund eingeritzte, stehende Blattranke. Zinn-
+- Walzenkrug. Westerwalder Steinzeug. Zwischen Profilreifen mit blauen Ranken manganvioletter Girtel.
+- 14 Zinndeckel.18. Jahrhundert.Hohe 18cm.
+- 15
+- Bauchiger Krug. Westerwalder Steinzeug. Auf der Schauseite drei blaugegrindete Zierfelder: In der Mitte stehende Blumenranken, seitlich Gitter aus Bandgeflecht.Zinndeckel.i8. Jahrhundert.Hohe 27,5 cm.
+- Enghalskrug. Westerwalder Steinzeug. Ritzdekor in zwei Zonen. Oben Pfau zwischen Facherpalmetten, unten
+- 16 Stern und Blumenranken. Ornamente blau ausgefuillt. Zinndeckel. 18. Jahrhundert. Hohe 21 cm.
+- 17 Walzenkrug. Westerwalder Steinzeug. Auf blauem Grund zwischen Profilreifchen Girtel mit Stempelreliefs: Churbayerisches Wappen und Portratmedaillons, einzelne manganviolett.Zinndeckel.18. Jahrhundert, Mit Sprung. Hohe 21 cm.
+- 18 Walzenkrug. Westerwalder Steinzeug. Auf der Schauseite in blauem Grund eingeritzte und gestempelte Ornamente:Blumen,Blatter und Bandgeschlinge. Zinndeckel mit Joseph Heller und Zinnmarke.18. Jahrhundert.Hohe 23 cm.
+- Walzenkrug. Westerwalder Steinzeug. Zwischen zwei Profilreifen laufende Akanthusranke eingeritzt. Blau
+- 19 gegrundet.18Jahrhundert. Hohe 20 cm.
+<!-- image -->
+
+- 20 Walzenkrug. Siddeutsches oder sichsisches Steinzeug. Gelbbraune Glasur. Reifen und Deckel in Zinn,
+- bez.:CM 1728.Hohe 25 cm.
+- 21 Walzenkrug. Sachsisches Steinzeug. Mit Querriefelung in drei Zonen; gelb und braun glasiert. Zinndeckel mit JMDS1735. Abbildung Tafel 6.
+- 22 Bauchkrug. Sachsisches oder siddeutsches Steinzeug. Leibung mit schragem Pfeifendekor. Reich verzierter Zinndeckel mit AL 1754. Hohe 24cm.
+- Abbildung Tafel 6.
+- 23 Walzenkrug. Steinzeug, vermutlich siddeutsch. WeiBgelbe Masse. Zwei gerillte Gurten und Stempelreliefs: Wappen mit stehendem Anker und Ranken. Spuren kalter Bemalung. Zinndeckel mit JGK 1763. Hohe 24cm.
+- 24 Walzenkrug. Steinzeug,vermutlich siddeutsch. Stern in Kranz, eingeritzt und blau ausgefillt. Zinndeckel mit MEZ 1777. Hohe 21 cm.
+- 25 Bauchkrug. Vermutlich rheinisches Steinzeug. Langgestreckter, eiformiger Korper mit Querstreifen und eingepreBtem Blattmotiv; unten Spachtelmotiv. Zinndeckel mit 3 JGL 1783. Hohe 35 cm. Abbildung Tafel 6.
+- 26 Walzenkrug. Sachsisches Steinzeug. Leibung quergerieft in drei Zonen, Glasur gelb und tiefbraun. Zinndeckel mit ARK AELK 18oI und Reifen.Hohe 26 cm.
+- 27 Walzenkrug. WeiBes Steinzeug. Zwischen zwei quer gerillten Reifen glatte Zone mit Stempelkartusche. Zinndeckel mit GC 18o9.Hohe 25cm.
+- 28 Bauchkrug. Sachsisches oder siddeutsches Steinzeug. Auf dem eiformigen Korper schraglaufende Rillen. Braune Glasur. Zinndeckel mit CHL 1812.Hohe 27,5 cm.
+- 29 Apostelkrug. Rheinisches Steinzeug. Auf der geraden Leibung Stempelrelief; Christus und die Apostel in Rundbogenarkaden.Am abgesetzten Hals finf Medaillons in Beschlagwerk.Gelbe Glasur. Hohe 18,5 cm.
+- 30 Kugelbauchkrug. Westerwalder Steinzeug. Auf blauem Grund vorseits Stempelrosetten. Hohe 22 cm.
+- 31 Walzenkrug. Westerwalder Steinzeug. Zwischen zwei Streifen mit Diamantbuckeln glatte Leibung in Manganviolett.Grinde blau.Hohe 21 cm.
+- 32 Walzenkrug. Westerwalder Steinzeug. Zwischen zwei Profilreifen eingeritzte Akanthusranke, blau gegrindet. Zinndeckel.Hohe 23 cm.
+- 33 Zuckerdose. Walzenform mit drei KugelfuiBen. Aufgelegter Dekor: Laubwerk. Mattgrine Glasur. Deutsches Steingut,um 1820.Hohe 12 cm.
+- 34 Teekanne. Walzenform mit Rechteckhenkel. Bemalt mit bunten BlumenstrauBen. Steingut,um 1820. Hohe 13cm.
+- 35 Teekanne.Rotes Steingut, schwarz gefirniBt.Niedrige, antikisierende For m mit Reliefs im Wedgwoodstil. Um 1820.Hohe 10 cm,Lange 23cm.
+- 36 Zwei Kaffeekannen und Tasse mit Unterteller. Eine Kanne in Walzenf orm, eine in Birnform, Tasse mit einge zogenem Leib und hohem Henkel. Rotes, schwarzbraun glasiertes Steingut. Um 1820. Hohe 8,5—13 cm.
+- 37
+- Tiefer Teller. Steingut. Umdruckdekor in Schwarz: Flechtmuster. Farbstempel: Jeβela WS &amp; Co. Prage-
+- stempel:S&amp; C0S.Wedgewood.Um 1820—1830. Durchm.25 cm.
+- 38 Teekanne. Kugelbauch mit Volutenhenkel; AusguB abgebrochen. Gedeckelt. Palmetten- und Pfeifendekor. Mattgrin glasiert. Steingut.Um 1820—1840.Hohe 13 cm.
+- 39 Terrine. Gedeckelt. Bauchige Form;Doppelhenkel. Grelle,bunte BlumenstrauBe. Steingut.Um 1830. Stempel: ， DALLWITZ.Hohe 18cm,Durchm.24cm.
+- 40 Blumentopf. Steingut. Walzenform mit Profilrandern; Lowenknaufe; Leibung mit Flechtdekor. Mattgrin glasiert. Runde Kartusche mit: Kittan 183o. Hohe 14 cm.
+- 41 Teller. Steingut. Blaue Randmuster und eisenrote Paonie im Fond. Teinitz. Mit Stempel. Um 1830.Durchmesser 23 cm.
+- 42
+- Walzenkrug. Westerwalder Steinzeug. Geometrische Ornamente,zum Teil in Blau. Zinndeckel mit:Loshin 1832.Hohe 18 cm.
+- 43
+- 44
+- Rahmkanne. Birnform,gebuckelt. Uberhohter Henkel. Umdruckdekor: Blaue Ranken. Um 1840. Hohe 19 cm.
+- Sieben Teller. Steingut. Mit bunten Blumen und Sprichen bemalt, eines am Rand mit reliefierten Rokaillen. Stempel:Palme, Nowotin und Dallwitz. Frihes 19. Jahrhundert. Durchm.23-24,5 cm.
+<!-- image -->
+
+- 45 Wasserkanne. Englisches Steingut. Bauchige Form. Kupferdruckdekor:Etruskische Motive in Rot, Schwarz
+- und Braun.Stempel:Etruscian Vases.Hohe 27 cm.
+- 46
+- Zwei Wasserkannen. Englisches Steingut. Bauchige Form. Kupferdruckdekor:Etruskische Motive in Blau. Ebensolche Marke:Etruscian Vases. Friihes 19. Jahrhundert. Hohe je 28 cm.
+- 47
+- Vase. Trichterform. Viktorien und antike Ornamente in WeiB auf Blau. In Wedgwoodart. Hohe 16,5 cm.
+
+## Fayence
+
+- darin zu lesen:ALSO HAT GOT DIE WELT GELIEBT...S Seitlich zwei behelmte Putten und Fruchtwerk. Das ganze Hartstuck,bemalt und vergoldet. In grinem, sechsseitigen Holzrahmen mit Beschlagmotiven. Unter dem Podest des Brusthildes steht: GOTT ALEIN DIE EHR...usw...-und 153o. Die stilistisch unmogliche Jahrzahl gleich der Inschrift nachtraglich aufgemalt. Spates 16. Jahrh. Relief vielfach gesprungen.51X38 cm.
+- Schissel. Kugeliger Fond. Blitenrispen in Grin mit manganviolettem Kontur. Italien oder Schweiz. 17. Jahrhundert.Durchm.29 cm.
+- 49
+- 50 Zwei kleine Schalen. Blaudekor: Am Rand ostasiatisches Blumenmuster,im Fond Vase. Wohl Hanau. Um
+- 1700.Durchm.13,7 cm.
+- 51 Facherplatte. Blaudekor:Chinesenszene. Hanau. Nach 1700. Rand gekittet. Durchm. 33 cm.
+- 52 Facherplatte.Blaudekor:Chinesenszenen. Hanau. Um 1700—1720. Rand beschadigt. Durchm. 33 cm.
+- 53
+- Achtbuckelteller. Blaudekor: Landschaft mit Vogeln. Wohl Hanau. Friheres 18. Jahrh. Durchm.22 cm.
+- Facherteller. Chinese und Landschaftsmotive in Blau. Hanau. Frihes 18. Jahrhundert. Gesprungen. Durch-
+- 54 messer 22 cm.
+- 55 Birnkrug. Blaudekor: Streublumen und Blatter. Hanau. Frihes 18. Jahrhundert. Hohe 22 cm. Abbildung Tafel I.
+- 56 Walzenkrug. Grellfarbiger Dekor:Allegorische,weibliche Figur in Landschaft, seitlich Blumenmotiv.Thuringen. Frihes 18. Jahrhundert. Zinndeckel. Hohe 22 cm.
+- 57 Walzenkrug. Manganviolett gemalter Ochs zwischen Baumen. Wohl Thuringen. 18. Jahrhundert. Zinndeckel. Mit Sprung. Hohe 24cm. Abbildung Tafel I.
+- 58 Walzenkrug. Manganviolette Felder mit Blumen,blau konturiert. Thuiringen. 18. Jahrhundert. Boden und Deckel in Zinn.Hohe 28 cm.
+
+Abbildung Tafel I.
+
+- 59 Walzenkrug. Grellbunt bemalt. Auf einem Higel flotenblasender Schafer, seitlich Blumen und groBe sternformige Blatter. Thiringen. 18. Jahrhundert. Zinndeckel, bez.MDR 1767. Hohe 23 cm.
+- Abbildung Tafel 1.
+- 60 Walzenkrug. Auf manganviolettem Grund Kartusche mit Blitenzweig in Blau, Gelb und Orange. Thiringen. 18. Jahrhundert.Hohe 18 cm.
+- 61 Kleiner Walzenkrug. Bunt bemalt mit Pfau zwischen Palmbaumen. Thiringen. 18. Jahrhundert. Zinndeckel
+- mit Schild, darin ICH, darauf Hahn.Hohe 17 cm.
+- 62 Walzenkrug. Bemalt mit Husar vor einem Gitter,seitlich Baume.Gelb, Blau,Manganviolett und Griin. Thiringen. 18. Jahrhundert. Zinnboden und Deckel mit EMAF 1747. Hohe 23,5 cm.
+- 63
+- Walzenkrug. Auf blaugesprenkeltem Grund Reserven mit bunten Blumen in Gelb, Grin und Violett.Violette Marke F.Wohl Fulda.Zinndeckel mit ARR 1788. Hohe 20cm.
+- 64 Walzenkrug. Auf manganviolettem Grund grellbunt umrahmte Kartusche mit Landschaft. Marke:Eisenrotes C auf Glasurfleck.Erfurt. Zinndeckel bez. MDL 1765.Hohe 25 cm.
+- 65
+- Abbildung Tafel I.,
+- Walzenkrug. Frau mit Sonnenschirm in Gelb und Grin und Streublumen. Undeutliche Blaumarke, wohl P. (Erfurt ?) Zinndeckel mit TT 1794. Hohe 20cm.
+- 66 Walzenkrug. Grellbunt. In der Mitte das Bild vom reichen Prasser und armen Lazarus. Seitlich Baume. Blaumarke S.Wohl Erfurt.Zinndeckel,bez.1858.Hohe 25 cm.
+- Abbildung Tafel 1.
+- 67 Walzenkrug. Zwischen manganvioletten Streifen in Blau und Mangan Reiher auf Higel zwischen Blumen und Baumen. Violette Marke BK. Bayreuth. Frihes 18. Jahrhundert. Zinndeckel. Mit Sprung. Hohe 23 cm.
+- 68 Enghalskrug. Blau bemalt mit Landschaft:Vogel und Baume. Spitz zulaufender Henkel. Siddeutsch,wohl
+- Bayreuth. 18. Jahrhundert. Hohe 25,5 cm.
+- Walzenkrug. Blaudekor:Phantastische Kirchenarchitektur zwischen zwei Lindenbaumen. Bayreuth? 18. Jahr-
+- 69 hundert.Zinndeckel mit Minzabdruck.Hohe 23 cm.
+
+Abbildung Tafel I.
+
+- 70 Kleiner Walzenkrug. Auf manganviolett gesprenkeltem Grund blaue Kartusche mit BlumenstrauB. Zinndeckel mit Minzabdruck,verzierter Bodenreif. Nirnberg. Blaumarke:Planetenvierer. Gegen Mitte des 18. Jahr-
+- hunderts. Hohe 19 cm.
+
+Abbildung Tafel I.
+
+- Zinndeckel bez. JLL 1765. Hohe 28 cm. Abbildung Tafel 1.
+- 72 hundert. Zinndeckel mit Miinzabdruck einer satirischen Medaille. Hohe 21 cm.
+- Walzenkrug. Blaudekor: Streumuster aus kleinen Blumen und Vogeln. Blaumarke N. Nirn berg. 18. Jahr-
+- 73 Facherteller. Blaudekor: Im Fond Dorf mit Kirche, am Rand Blumenranken. Siddeutsch (Nirnberg ?). 18. Jahrhundert.Durchm.23,5 cm.
+- 74 Facherteller.Ahnlich vorigem. Glasur blasig.Durchm. 23,5 cm.
+- Walzenkrug. Springender, violetter Hirsch zwischen zwei Baumen. Siddeutsch, wohl Franken. Zinndeckel.
+- 75 Spateres 18. Jahrhundert. Hohe 19 cm.
+
+Abbildung Tafel I.
+
+- Facherteller. Blaudekor:Im FondKirche,am Rand Blattmotive. Deutsch.Friheres 18. Jahrhundert.Durch-
+- 76 messer 25 cm.
+- Henkelkrug. Gestirzte Birnform mit Rokaillenhenkel. Manganvioletter Dekor: Streublumen. Siddeutsch.
+- 77 18. Jahrhundert. Hohe 11 cm.
+- 78
+- Walzenkrug. Bunt bemalt mit BlumenstrauB. Siddeutsch. 18. Jahrh. Zinndeckel mit Ls. Hohe 22 cm.
+- 79
+- Walzenkrug. Bunt bemalt:Dudelsackblaser zwischen Baumen. Siddeutsch. 18. Jahrhundert.Zinndeckel mit JG. Mit Sprung. Hohe 22 cm.
+- 80 Walzenkrug. Bemalt mit buntem BlumenstrauB, manganviolett konturiert. Siddeutsch. 18. Jahrhundert.
+- Zinndeckel. Hohe 26 cm.
+- 81 Walzenkrug. Bunt bemalt:Manganvioletter Hirsch in Landschaft. Suiddeutsch. 18. Jahrhundert. Zinndeckel mit HKM. Gesprungen.Hohe 24,5 cm.
+- 82 Walzenkrug. GroBer,bunter BlumenstrauB in manganvioletter Kontur. Suiddeutsch,wohl schwabisch. 18. Jahrhundert.Zinndeckel.Hohe 24 cm.
+- 83 Enghalskrug. Landschaft und Baume in Manganviolett. Siddeutsch, wohl frankisch. Zinndeckel. 18. Jahrhundert.Hohe 27 cm.
+- 84 Walzenkrug. Bemalt mit buntem BlumenstrauB mit starker,manganvioletter Kontur. Siddeutsch. Spates 18. Jahrhundert. Zinndeckel. Hohe 25 cm.
+- 85
+- Kaffeekanne. Bauchige Form mit geflochtenem Rebholzhenkel. Gedeckelt. Bemalt mit bunten BlumenstrauBen.
+- Siddeutsch.(StraBburg?) Um 1800.Hohe 25 cm.
+- 86 Walzenkrug. Bemalt mit buntem BlumenstrauB in Grin, Gelb und Blau. Siddeutsch. Um 1800. Zinndeckel. Hohe 23 cm.
+- 87
+- Walzenkrug. Bemalt mit Singvogel auf Blumenzweig. Siddeutsch. Um 1800. Hohe 18 cm.
+- 88
+- Teekannchen. Walzenform. Auf beiden Seiten Kranz mit Monogramm. Siddeutsch. Um 1800. Hohe 14 cm.
+- 89 Walzenkrug. GroBer BlumenstrauB in verwaschenen, bunten Farben. Suiddeutsch. Nach 18oo. Zinndeckel. Hohe 25 cm.
+- 90
+- Walzenkrug. Blumengehang an Purpurbandern. Siddeutsch. Boden und Deckel in Zinn, letzterer bez. LF 18o6. Hohe 28 cm.
+
+Abbildung Tafel I.
+
+- Walzenkrug. Kalt bemalt mit groBen, goldenen Blumenmotiven auf Zinnober. Zinndeckel. Siddeutsch. Frihes
+- 91 19. Jahrhundert. Hohe 25 cm.
+- 92 burg.Fruiheres 18. Jahrhundert.Hohe 17,5 cm.
+- 93 Bauchkrug. Eiformige Leibung mit Langsrillen. Kupfergrine Glasur. Siddeutsch, wohl Salzburg. Zinndeckel mit ARW 1773. Hohe 31 cm.
+
+Abbildung Tafel 6.
+
+- 94 Bauchiger Krug. Schlanke Form. Grellbunt bemalt; Bauer in Landschaft. Osterreich. 18. Jahrh. Hohe 22 cm.
+- 97
+- 18.Jahrhundert. Zinndeckel. Hohe 22 cm. Abbildung Tafel I.
+- 96 Tiefe Schissel. Im Fond Blaumalerei: Vase in Park. Am-Rand Streublumen in Grin, Gelb und Violett. Oster-
+- reich.18. Jahrhundert. Gesprungen Hohe 8,5 cm,Durchm. 32 cm.
+- Bauchkrug.Bemalt mit manganviolettem Hasen inWaldlandschaft. Zinndeckel.Osterreich.Um1800. Hohe26 cm.
+- 98 Bauchkrug. Eiformiger Leib, kurzer, enger Hals mit zwei Reifen. GroBblumiger StrauB in Blau und Grin. Slavisch-Osterreich. Friheres 19. Jahrhundert. Hohe 26 cm.
+- 99 Kaffeekanne. Bauchige Form, gedeckelt. Glasur gelbbraun gesprenkelt. Bohmen oder Osterreich. Fruhes 19.Jahrhunde Hohe 22 cm.
+- Milchkannchen. Leicht geschwellte Walzenform mit groBer Schnauze. WeiBe Reliefranken und -behange
+- 100 auf Blau. Wohl Bohmen. Um 18301840. Hohe 10,5 cm.
+- 101 Walzenkrug. Flotenspieler zwischen Palmbaumen in Hellblau. Zinndeckel mit JGHL 1853. Osterreich.
+- Hohe 24cm:
+- Kaffeekannchen. Birnform. Gedeckelt. Bemalt mit bunten, groBen Blumen. Osterreich. 18.19. Jahrhundert.
+- 102 Hohe 15cm.
+- 103 Godenschale. Auf drei FuiBen die doppelhenkelige Schale. Deckel mit Knauf. Bemalt mit Blumen in Kupfer-
+- grin, Violett und Gelb. Osterreich. 18.19. Jahrhundert. Hohe 11,5 cm.
+- 104 Schissel. Blaudekor. Im Fond strahlig geordnete Blumen, am Rand Gittermotiv und Blumen. Osterreich. 18./19. Jahrhundert.Durchm.33 cm.
+- Tintenzeug. In Form einer Biedermeierkommode mit zwei Schubladen. Tinten-und Streusandeinsatz. Matt-
+- 105 blau glasiert.Um 1830. Hohe 12cm.
+- 106
+- Schalchen. Majolika. Bunt bemalt. Im Fond Madonna von Loretto. Am Rand in Manganviolett: CON. POL.DI.S.CASA.Oberitalien.18. Jahrhundert. Durchm.11,5 cm.
+- 107
+- Putto. Ein Ei haltend,welches als Steckbehalter dient. Bemalt in matten Farben. Wohl Oberitalienisch. Hohe 18cm.
+- 108 Gedeckelte Terrine. Wellig bewegte Form. Deckel mit Apfelknauf. Schlangenhenkel. Bunte Blumen und Bauerin mit Knappen, darunter Pont-L' Abbe-Douarnenez. Schwarze Marke HB. Franzosisch. Hohe 14 cm, Durchm.20 cm.
+- 109 Tintenzeug. Rechteckig. Mit Federbehalter und zwei Einsatzen. Dekor: Blitenzweige in Grin, Gelb und
+- Manganviolett.Hohe 6 cm,Breite 12 cm.
+- 110
+- Becherglas.FuB und Rand mit Zinnreif. FuB halbkugelformig. Walzenformiger, nach oben ausladender Korper. Dekor: Blitenzweige und Blattwerk in Manganviolett auf weiBem Grund. Hohe 20 cm.
+
+## Porzellan
+
+- Zwei Suppenteller. Bunt bemalt: Ostasiatische Bhumen und Vogel im Fond, Streublumen am Rand, in grellen
+- 111 Farben. MeiBen. Blaumarke: Schwerter mit Stern bzw.Il.Um 1760—1780.Durchm.21,5—22,5cm.
+- 112 Suppenteller. Bunt bemalt:GroBe deutsche Blumen. MeiBen. Blaumarke: Schwerter und Il. Um 1780. Durchm.22,8cm.
+- 113 Kaffeservice. Kaffee-, Rahmkanne, Zuckerdose. Reliefdekor:Flechtranke. Antikisierende Formen. Gold-
+- saume. MeiBen.Blaumarke:Schwerter.Um 1830. Hohe 10-28 cm.
+- 114 Kaffeekanne. Gedeckelt. Birnform, gebuckelt. Ohrhenkel und gebogener Schnabel. Reliefierte Blattfriese.
+- MeiBen.Blaumarke:Schwerter.Um 1830.Hohe 26 cm.
+- Dessertkorb. Oval. Ganz durchbrochen mit Gitterwerk und Rokaillen. Zweites Rokoko, um 1840. MeiBen.
+- 115 Blaumarke: Schwerter.Mit Brandrissen. Lange 32 cm.
+- Zwei Leuchter. Schlanke Form,an der Tille reliefierter Spitzbogenfries. MeiBen. Blaumarke: Schwerter.
+- 116 Hohe 22,5 cm. Abbildung Tafel 7.
+- 117 Tintenzeug. Ovaler Behalter mit gefacherter Schale;zwei Einsatze. Mei Ben.Blaumarke: Schwerter. Lange 16cm.
+- Dessertplatte. Auf vier goldgehohten Volutenfiben. Oval,mit fassoniertem Rand. Griner Fond und weibe
+- 118 Reserve; bunte, ostasiatische Blumen und Vogel. MeiBener Blaumarke. Lange 25,5 cm.
+- 119
+- Dessertteller. Durchbrochener Gitterrand,im Fond Korbflechtmuster.WeiB.Nym phenburg. Rautenschildstempel.Um 1800.Mit Brandrib.Durchm.22 cm.
+- 120 Kaffeekanne. Birnform. Ohrhenkel und Schnauze mit Blattauflage. Weib. Um 1820. Blaumarke. Hohe 21 cm.
+- Tiefe Schissel. Doppelhenkelig.Im Fond Haus in Landschaft in Violett, Grin, Gelb und Blau. Osterreich.
+- 121 Untersatztellerchen. Mit profiliertem, hochkantigem Rand. Bez.:F. R. Um 1820. Durchm. 12,5 cm.
+- 123
+- 122 Frihes 19. Jahrhundert. Hohe 6,8 cm,Durchm.24 cm.
+- 124 Service. Finfteilig.Kaffee-,Tee-und Milchkanne,Zuckerdose und Spilkumpen. Auf mattblauem Fond weiBer Reliefdekor:Antike Figuren und Bogenfriese. Goldrander. Englisch? Um 1840. Hohe 1l27 cm.
+- Teeservice. Finfteilig: Tee- und Rahmkanne,Zuckerdose,zwei Tassen und zwei Unterteller. Alles vergoldet mit kalt ibergemalten RosenstrauBen in Gelb. Friheres 19. Jahrhundert. Hohe 613 cm, Durchm.14,5 cm.
+- 125 Reitender Schneider. Ovaler Rokaillensockel. Auf Ziegenbock, der ein Bigeleisen im Maul halt, reitet ein
+- 126 Zwei Tassen mit Untertellern. Mattblau mit gepreBter Silberauflage: Gitterwerk,Rokaillen und Blumen.Tassenhenkel versilbert. Blaumarke: Sevres. In Etui mit Plischfutter. Hohe der Tassen 5,5 cm, Durchm. d. Teller 11,5cm.
+- Mann. Er tragt einen violettroten Rock, schwarzen Dreispitz. Chelsea. Rote Marke: Anker. Hohe 72 cm.
+- 127 Singvogel. Auf Baumast gelber Vogel mir schwarzen Schwanzfedern und rotem Schnabel. Wiener Blaumarke. Hohe11,5cm.
+- 128
+- 129 Madchenkopf. Tracht eines Bauernmadchens, Bindenhaube mit Feder. Bemalt. Wiener Blaumarke. Hohe
+- Doschen. Finfseitige Rokokoform,als Knauf Hund. Bunte Streublumen. Wiener Blaumarke. Lange 6,5 cm.
+- 12cm.
+- 130 Eierservice.Abgesetzter FuB, Einsatzplatte mit sechs Bechern (einer fehlt),Traggriff. Dekor: Goldreifchen und bunte Blumen.Um 1830—1850. Hohe 24,5cm,Lange 28 cm.
+- 131 Kleines Doschen. Rechteckig. Auf den Seitenflachen und dem Deckel buntfarbige Jagdbilder. In Goldbronze
+- 132
+- gefaBt, im Geschmack des 18. Jahrhunderts. Hohe 3,5 cm, Breite 7 cm,Tiefe 5 cm.
+- 133 Teeservice. Elfteilig. Bestehend aus Teekanne, fuinf TaBchen mit Untertasse. Kanne walzenformig, gehenkelt und gedeckelt. Tassen becherformig. Dekor: Figirliche Chinesenszene in bunten Farben und Gold. Mit Rotimarke. Ostasien.Hohe der Kanne 18 cm, Hohe einer Tasse 6 cm, Durchm.einer Untertasse 12 cm.
+- Kleines Teekannchen. Flachgedrickte Leibung, kurzer AusguB, auf drei Fibchen, gehenkelt. Mit Marke. Modern Satsuma.Hohe 4,5 cm,Durchm.8 cm.
+- 134 Walzenformiger Napf. Mit zwei Einsatzen. In vier Feldern buntfarbige, figirliche Szenen und Blumenstocke mit Vogeln.Ostasien.Hohe 10—14,5 cm,Durchm.10,5—6,5 cm.
+- 135 Runder, tiefer Teller. Blaudekor: Groteskes Ranken-und Blumenornament. Ostasien. Hohe 6,5 cm, Durchmesser35cm.
+- 136 Stehender Chinese. Mit reich ornamentierter Gewandung in buntem Dekor. Ostasien. Hohe 21 cm.
+- RauchergefaB. Auf drei FiBen kugelformige Bauchung. Auf dem durchbrochenen Deckel vollrunder Hund des Foh.GroB stilisiertes Blumen-und Blattwerk in bunten Farben.Ostasien. Hohe 24 cm,Durchm.17,5 cm.
+
+## Plastik
+
+## Stein,Bronze,Holz
+
+- 138 Kopf eines jungen Mannes. Apollotypus. Sandstein. Gartenbarock. Hohe 30 cm.
+- hunderts.Hohe 25,5 cm,Breite 17,5 cm.
+- 139 Christus an der GeiBelsaule. Relief. Alte Fassung. Marmor. In altem Goldrahmen. Ende des 17. Jahr-
+- 140
+- 141 hundert.Hohe 23,5-28,5 cm.
+- Zwei sitzende Hunde. Wohl Sockelfiguren zu Kaminsaulen. Sandstein. 17./18. Jahrhundert. Hohe 45 cm.
+- 142
+- Zwei Alabasterreliefs. Dargestelt ist beidesmal die Auferstehung. Eines oval, eines sechsseitig. 18. Jahr-
+- Madonna mit Kind. Relief eines Gnadenbildes mit zwei Engeln, bemalt. Terrakotta,wahrscheinlich Zitzenhausen.18. Jahrhundert. Hohe 25 cm.
+- 143
+- Drei Reliefs. a) Auferstehungschristus. Hochoval. 25 X16 cm. b) Ecce-Homo-Kopf. 19X 15 cm.c) Huiftbild Christi mit Krone und Buch. 18X20 cm.WeiBer Marmor.19. Jahrhundert.
+- 144
+- 145 Liegender Lowe mit Wappen. Marmor. Italienisch. Hohe 21 cm, Breite 19 cm.
+- Finf Engelchen. Schlafend, in rundem Korbchen. AbguB. 19. Jahrhundert. Hohe 24 cm, Breite 50 cm.
+- 137
+- 146 Drei weibliche Figuren. Vollrund, stehend,mit Lorbeerkranzen. Bronze. 19. Jahrhundert. Hohe 11 cm.
+- 147 Bronzerelief.Queroval. Sitzende Frau mit drei spielenden Kindern. 9X6,5cm.
+- 148 Zwei Kruzifixe. a) Halbrelief. Christus am Kreuze. Zu FiBen des Stammes weinende Magdalena. Hohe 14 cm. b) Christus am Kreuze,vollrund, Kreuzstamm aus Holz. Hohe 12 cm.
+- 149 Zwei Elfenbeinschnitzereien. a) Reliefbrustbild eines Geistlichen nach links.In ovalem Rahmchen. 19. Jahrhundert. b) Rundes Doschen. Im Innern zwei reliefierte Darstellungen aus der Geschichte Judiths. Durchmesser 5 cm.
+- Johannes der Taufer. Mit Buch und Lamm, stehend,vollrund. Gotisch,iberarbeitet. Sockelplatte neu. Das
+- 150 Sockelkapital 18. Jahrhundert.Lindenholz.Hohe 110 cm.
+- 151 Christus im SchoBe Gott Vaters. Linker FuB des Christus fehlt. Mit Spuren von alter Bemalung. Lindenholz. Deutsch. Frihgotisch,iberarbeitet. Hohe 85 cm.
+- 152 Christus.Auf rundem Sockel stehend, die Rechte segnend erhoben,vollrund,alte Fassung,beschadigt.Linden
+- holz.17.Jahrhundert.Hohe 45 cm.
+- Bemalung. Lindenholz. Deutsch.
+- 153 Johannis der Taufer. Stehend, Hande fehlen, mit Spuren alter Fassung. 17. Jahrhundert. Deutsch. Hohe 70cm.
+- Hl. Sebastian. Stehend auf rundem Rasensockel. Lindenholz,alte Fassung. 17. Jahrhundert. Deutsch. Hohe
+- 154 105cm.
+- 155 Ecce-Homo. Auf rundem Sockel stehend,vollrund, alte Fassung.Arme fehlen.Lindenholz. 17. Jahrhundert.
+- 156
+- Christus mit Dornenkrone. Mit langem,wallendem Gewand. Spuren alter Bemalung. Lindenholz. 17. Jahrhundert.Hohe 120cm.
+- 157 Hl.Anna selbdritt. Stehend,vollrund, mit Spuren alter Bemalung. Deutsch.Lindenholz. 18. Jahrhundert Hohe 44cm.
+- Madonna mit Kind. Auf rechteckigem,kartuschengeschmicktem Sockel. Mit Spuren alter Bemalung. Linden-
+- 158 holz.18. Jahrhundert.Hohe 26 cm.
+- 159
+- HI.Papst. Vollrund, stehend, mit Tiara auf dem Haupt. Alte Fassung. In WeiB und Gold, Hande fehlen. Lindenholz.18. Jahrhundert.Hohe 135cm.
+- 160 Hl. Nepomuk. Stehend, mit Kreuz, eine Hand fehlt, auf Sockel. Lindenholz. 18. Jahrhundert. Hohe 24 cm.
+- 161 Desgl. Stehend, mit iberkreuzten Handen, alte Fassung. Lindenholz. 18. Jahrhundert. Hohe 42 cm.
+- 162 Desgl. Stehend, alte Fassung,rechte Hand fehlt,linke beschadigt. Deutsch.18. Jahrhundert. Hohe 21 cm.
+- 163
+- Hl.Rochus und hl. Gallus. Gegensticke.Altarfiguren, sitzend,vollrund, Hande fehlen. Lindenholz,ungefaBt. 19. Jahrhundert. Hohe 65 cm.
+- Weibliche Heiligenfigur.Vollund, stehend, in reich bewegter Gewandung. Alte Fassung. WeiB und Gold,
+- 164 die beiden Hande fehlen.18. Jahrhundert.Hohe 115 cm.
+- Weibliche Assistenzfigur einer Kreuzigungsgruppe. Arme und Fibe fehlen, vollrund, stehend. Lindenholz.
+- 165 Deutsch.18. Jahrhundert.Hohe 38 cm.
+- 166 Kruzifix.Kreuz erganzt. Lindenholz.Deutsch.Hohe 110 cm.
+- 167 Weibliche Figur aus einer Fegfeuerdarstellung. Halbfigur inmitten von Flammen. Spuren alter Fassung. Lindenholz.Siddeutsch.Hohe 60 cm, Breite 36 cm.
+- 168 Hl. Joseph. Mit Zepter und Buch. In bunter Fassung: Achtseitiger Sockel. Hohe 7O cm.
+- 169 Mannlicher Heiliger. Halbrund, stehend,Hande fehlen, ungefaBt. Lindenholz. Hohe 110 cm.
+- Maria und Magdalena. Aus einer Kreuzigungsgruppe. Stehend,neue Fassung,Hande fehlen. Am Oberkorper
+- 170 durchschnitten.Stark beschadigt. Lindenholz.Deutsch.Hohe 140 cm.
+- 171
+- Madonna mit Kind. Stehend. In weitem Gnadenmantel. Bunt bemalt. Lindenholz. Hohe 35 cm.
+- 172 Relief. Christus mit Jingern am Oiberg. In altem, rechteckigem Rahmen. Hohe 35 cm, Breite 28cm.
+- 173 Puttenfries. Musizierende Putten mit Ziegen und Schafen. Zirbelholz. 17. Jahrhundert. Lange 33 cm, Breite 8,5cm.
+- 174
+- Karyatiden. Gefligelt, in Akanthuswerk auslaufend. Auf dem Kopfe Leuchtertille. Lindenholz, vergoldet,
+- 175
+- 176 Vier Puttenkopfchen. Vollrund, bunte Fassung. Fligel vergoldet. Lindenholz. 18. Jahrhundert. Hohe 26 cm, Breite 28 cm.
+- um 1700. Hohe 45 cm.
+- Engelskopf mit Fligeln. Bemalt, vergoldet. Lindenholz. 18. Jahrhundert. Hohe 40 cm, Breite 42 cm.
+- 177 Zwei Putten. Vollrund, in bunter Fassung. Lindenholz. Deutsch. 18. Jahrhundert. Hohe 55 cm.
+- 178
+- Puttenkopfchen. Gefligelt, bunte Fassung,Lindenholz. 18. Jahrhundert. Hohe 20 cm.
+- 179 Zwei Putten. Vollrund. Mit neuer Fassung. Hohe 48 cm.
+
+## Metall
+
+## Silber,Bronze,Messing, Kupfer, Zinn, Eisen
+
+- 180 Zwei Altarleuchter. Auf drei KugelfiBchen der rokaillengeschmiickte,reliefierte Sockel, darauf der reichprofilierte Schaft mit Lichtteller. Silberbeschlage um Holzkern. 18. Jahrhundert. Hohe 61 cm.
+- 181 Zwei Gestelle fir Salz- und PfefferfaBchen. Auf vier FiBchen, oval. Mit Lorbeergehangen. Silber. Empire,
+- Hohe 5 cm, Durchm.8 cm.Gesamtgewicht 80g.
+- 182 Wasser- und Weinkannchen. Runder FuB,starker Nodus,Volutenhenkel gedeckelt. Akanthusbordiire und lineare Ornamente in getriebener Arbeit. Silber. Mit Glaseinsatz. Anfang 19. Jahrhundert. Hohe 12 cm. Gewicht mit Glaseinsatz 350g.
+- 183 Kleines Standihrchen. Rechteckiger Sockel. Trommelformige Uhrgehause von zwei RehfiBen gehalten. Be-
+- kronender Vogel. Uhrwerk:Pallad, London. Silber. Anfang des 19. Jahrhunderts. Hohe 11 cm.
+- Standleuchter.Dreiseitiger FuB. Kannelierter,von gefligelten Lowen gehaltener Schaft. Drei Volutenarme
+- 184 (einer fehlt) und Mitteltille. Silbermarke K&amp; Cg.E. P. 19. Jahrhundert. Hohe 53 cm.
+- 185 Falzmesser. Mit der Statuette Napoleons in Flachrelief. Silbermarke. Anfang des 19. Jahrhunderts. Lange
+- 27 cm. Gewicht 110g.
+- 186 Runder Anhanger. Stehendes Paar in Frichtekranz. Silber.Mitte des 19. Jahrhunderts. Hohe 7 cm.
+- 187 Verschiedene Schmucksticke. a) Kettenfischchen. Lange 15 cm. b) Nadelhalter. Silber. 18./19. Jahrhundert.
+- 188 Schale mit zwolf Loffelchen. Runder, geriefelter Balusterschaft, halbkugelformige Kupa. Die sechs groBeren Loffelchen mit durchbrochener Filigranarbeit, die sechs kleineren mit reliefiertem Rankenwerk. Moderne Arbeit. Silber, vergoldet. Hohe 19,5 cm, Durchm.17 cm. Gesamtgewicht 770 g.
+- Kleiner Aufsatz. Runder FuB. Sechsseitiger Schaft. Auf diesem doppelter Volutenhenkel mit zwei Schalchen.
+- 189 FuB und Schale mit getriebenen Ranken. Silber. Hohe 12 cm. Gewicht 150 g.
+- 190
+- Flakon. Runder Sockel, sechsseitiger Schaft mit reliefierten Blumen, Bekronungsfigirchen.Silber. Hohe 15cm.
+- 191
+- 192
+- Kessel.Auf drei KlauenfuBen.Kugelformige Leibung,eingezogener Hals,berstehender Rand, doppelhenkelig mit gedrehtem Traghenkel. 17.Jahrhundert.Hohe 22 cm,Durchm.27 cm.
+- Desgl. Ahnliche Ausfuihrung wie vorhergehender. Bronce. 17. Jahundert. Hohe 30 cm Durchm. 32 cm.
+- 193 Desgl. In ahnlicher Ausfihrung wie vorhergender. Einfacher Traghenkel. Bronze. Hohe 26 cm, Durchmesser 32 cm.
+- 194 Zwei Turringe. a) Akanthuskelch sowie Lowenkopf in reliefierter Arbeit. 17. Jahrhundert. b) Aufgereihtes Scheibenmuster und Bandornament. Anfang 19. Jahrhundert. Bronce.
+- 195
+- Fasan. Vollrund. Schwanz und Fligel in buntem Closonne. 19. Jahrhundert. Hohe 25 cm, Lange 37 cm
+- 196 Doppeladler.Bronze.Hohe 50 cm, Breite 43 cm.
+- 197
+- GroBe Kanne. Gehenkelt und gedeckelt,runder, ausladender FuB. Auf der Leibung Ranken und Blumen in Tremolierschnitt. Auf dem Deckel Reh in getriebener Arbeit. Kupfer. Jahrzahl 1678. Hohe 42 cm.
+- 198 Gedeckeltes KupfergefaB. Rund, eingezogener FuB,leichtgewolbter Deckel. Um FuB und Deckelrand Buckelund Punkt-Ornament.Auf dem Deckel groBstilisiertes Blumenornament in getriebener Arbeit.
+- 199 Rundes, kupfernes GefaB. Bauchung mit hochovalen, getriebenen Buckeln. Um den Hals Eierstabmotiv. Ausladender Rand. Kupfer.17. Jahrhundert. Hohe 25 cm,Durchm. 42 cm.
+- 200 GroBe Kanne. Gehenkelt, auf dem Deckel Palmettenornament in getriebener Arbeit. Kupfer. Ende 17. Jahr-
+- hun derts.Hohe 45 cm.
+- 201 Teekanne. Walzenformige Leibung, geschwungener AusguB,Traghenkel,gedeckelt.Kupfer. 18. Jahrhundert.
+- Hohe 24 cm,Durchm.26 cm.
+- KupfergefaB. Rund,mit Einsatz und doppelhenkeliger Platte,mit zwei Ringgriffen. Kupfer. Inschrift: T:Wolf 1829. Hohe 18 cm,Durchm.25 cm.
+- Runde Schissel. Mit ausladendem Rand. Kupfer. Mitte des 19. Jahrhunderts. Durchm. 41 cm.
+- 202
+- 203
+- 204
+- Kleines Henkelkrigchen. Kugelbauchig,Henkel in Schmiedeeisen mit Pferdekopfen. Kupfer. Hohe 21 cm.
+- 205 Kleiner Kessel. Zwischen' drei eisernen VolutenfiBen halbkugelformiger Korper, gerader Stielgriff. Kupfer. Hohe 13 cm, Durchm.11 cm.
+- 206 KupfergefaB. Runder,eingezogener FuB. Gebuckelte Leibung, iberstehender Rand. Am Hals Rankenbordire in getriebener Arbeit.Kupfer.Hohe 10 cm,Durchm.19 cm.
+- 207 Doppelhenkeliger Krug. Runder, eingezogener FuB,kugelformige Bauchung,walzenformiger Hals. Reich ge triebenes Rankenwerk.Hohe 42cm,Durchm.28 cm.
+- 208 Runde,tiefe Schissel. Im Fond Adam und Eva in getriebener Arbeit. Messing. 17. Jahrhundert. Hohe 7cm,Durchm.27 cm.
+- 209 Ovale Platte. Im Fond Frichtestick, am Rand Rankenwerk in getriebener Arbeit. Messing. 18. Jahrhundert.
+- Lange 29 cm, Breite 27 cm.
+- 210 Breites Messingband. Rund,mit Rankenwerk und Rokaillen und dem Monogramm J. H. in getriebener Arbeit.
+- Messing.18. Jahrhundert.Durchm.19 cm.
+- 211 Standleuchter.Quadratischer Sockel. Kannelierte Saule.Messing.Anfang des 19. Jahrhunderts. Hohe 16cm.
+- Schatulle. In Form eines Waschschaffes. Queroval, gedeckelt, zum AbschlieBen. Messing. Hohe 11 cm. Durch-
+- 212 messer 18,5 cm.
+- 213 Kleiner Kessel. Auf LowenfiBen. Leibung mit reliefierter Akanthusbordire und vollrundem Lowenkopfchen
+- mit Ringen.Im Renaissancegeschmack. Hohe 9,5 cm,Durchm. 9 cm.
+- Kleiner Leuchter und Lichtschirm. Messing. 19. Jahrhundert. Hohe 9,5 bzw.10,5 cm.
+- 214
+- 215 Ollampchen. Kugelformig, mit zwei Lichtarmen. Mit Lichtputzzeug. Messing. 19. Jahrhundert. Lange 28cm.
+- 216 Altarleuchter. Auf -drei FiBen mit Engelskopfchen. Reich profilierter Baluster. Um 1700. Fir elektrische Beleuchtung montiert. Zinn.Hohe 52 cm.
+- Zunftpokal. Runde FuBplatte, BalusterfaB, walzenformiger,einmal gekropfter Korpus, Deckel von Lowen mit Wappen bekront. Mit sechs hangenden Plaketten. Zinn. Verschiedene Monogramme und Jahreszahl
+- 217 1706,1707.Hohe 50 cm.
+- Desgl. In ahnlicher Ausfihrung wie vorhergehender. Als Bekronung Delphin mit Wappen. Die Plaketten
+- 218 von vollrunden Lowenkopfchen gehalten. Zinn.Hohe 45 cm.
+- 219
+- Walzenkrug. Konisch. Mittelzone mit Buckelmotiv. Gewolbter Deckel, dieser neu. Krug Zinn. 18. Jahrhundert.Hohe 23 cm.
+- 220
+- Bauchkrug. Schlanke, oben und unten gleichmaBig eingezogene Form.Im Boden Marke. Zinn. 18. Jahrhundert.Hohe 32 cm.
+- 221
+- 222
+- 223
+- WaschgefaB. Becken muschelformig, an der Rickwand graviertes Rankenwerk und Wappenkartusche. Wasserbehaltnis in Form einer Kugel. Deckel mit vollrundem Doppeladler. Henkel in Form von Fligeln. AusguB Delphinkopf. Zinn. Beschadigt. 18. Jahrhundert. Durchm. des Beckens 33 cm, Durchm. der Kugel 18 cm.
+- GroBer Teller. Fassonierter SechspaBrand mit Profilsaum. Zinn. Spateres 18. Jahrhundert. Durchm. 32 cm.
+- Schissel.Im Fond graviert: St.Franz Xaver, seitlich Rokaillen. Zinn. Spateres 18. Jahrhundert. Durchm. 33,5cm.
+- Vier Teller.Alle mit gravierten Bildern im Fond:Reiter,Bauer vor der Wiege,Kavalier und Dame,pligender
+- 224 Bauer. Zinnstempel von 1761 und 1773, die Bilder frihes 19. Jahrhundert. Durchm.22,5 cm.
+- 225 Walzenkrug. FaBform mit Reifenmotiv. Zinn. Fruihes 19. Jahrhundert.Hohe 17,8 cm.
+- 226
+- Kokosnuspokal. Runder FuBteller,vasenformiger Schaft, Kokosnub von Akanthusblattern gehalten. Deckel mit Monogramm:J.G.K.1806.Zinn.Hohe 27cm.
+- 227 Walzenkrug. Auf der Leibung gravierte Tiere und Blumen und Bauer mit Inschrift:Das Ackerwerk ist mein Vergnigen Ich laβ es weil ich Ich nicht liegen. Im Deckel: JC Steinin 18og. Zinn. Hohe 22 cm.
+- 228 Stehampel. GroBer FuBteller, J-formiger Griff, Empireampel. Zinn. Um 1810. Hohe 29,8 cm.
+- 229 gewinden, um die Schulter iberhangendes Blattmotiv. Zinn. Anfang des 19. Jahrhunderts. Hohe 30 cm,
+- Durchm.25 cm.
+- Walzenkrug. Tremolierschnittdekor: Bursch und Madchen, seitlich Blumenranken.Zinn. Um 1820. Im
+- 230 Deckel Marke.Hohe.24cm.
+- 231 Desgl. Schlanke Form. Kalt bemalt mit Akanthusblite. Zinndeckel bez. IMH 1822. Hohe 26 cm.
+- 232
+- 233 Zwei Tischleuchter. Zinn. a) GroBer FuBteller, bez. J.G.M.18og. Hohe 17 cm.—b) Ganz im Tremolierschnitt verzierter Empireleuchter,bez.1835.Hohe 22,5 cm.
+- 234
+- Zwei Standleuchter. Quadratischer Sockel, darauf Balusterschaft. Grin emailliert. Zinn.Erstes Drittel des 19. Jahrhunderts.Hohe 19 cm.
+- Krigelchen. Sechsseitig, auf finf KugelfuiBchen. Volutenhenkel mit Karyatide. Rankenwerk, figirliche
+- 235 Darstellungen und Frichte in reliefierter Arbeit. Zinn. Hohe 18 cm.
+- Schraubkanne. Achtseitig,mit Tauwerkhenkel und ebensolchem Traggriff, gerader AusguB. Mit Zinnmarke.
+- 236 Hohe 22 cm.
+- 237 Desgl. Walzenformig, gegen oben sich verjuingend. Zinn. Hohe 23 cm.
+- 238
+- Kleine Aufsatzschale.Runder,quergeriefelter FuB,ebensolche Schale, Balusterschaft,mit kleiner Bekronungsscheibe. Monogramm: P.A. S. Mit Zinnmarke. Hohe 18 cm.
+- 239
+- 240
+- SchloB und Beschlage. Eisen geschnitten. Zum Teil alt. 16./17. Jahrhundert.
+- Gitterarm eines Nasenschildes. Spiralen und Rankenwerk in schmiedeeiserner Arbeit. 17. Jahrhundert.
+- 241 Prangerwerkzeuge. a) Halseisen; b) und c) Gesichtsmasken. Schmiedeeisen, Spiralen und Ranken.17. Jahr-
+- hundert.
+- 242 Zwei Schlosser. Mit geschnittenem Rankenwerk. Eisen.17. Jahrhundert. Lange 30 bzw. 17 cm.
+- 243 Zwei Steigbigel und vier Kantaren. Schmiedeeisen, mit Spiralen und Ornamenten. 17./18. Jahrhundert.
+- 244 Zwei Wetterfahnen. a) Mit Hufeisen.Auf der Fahne Monogramm E.H. B.1788.b) In Form eines gefiederten
+- Pfeils.Schmiedeeisen.Lange 50—100 cm.
+- Funf Schlosser. Mit Ranken und Akanthuswerk in geschnittener und gravierter Arbeit. Eisen. 17./18. Jahr-。 hundert.
+- 245
+- 246 Konvolut von Beschlagewerk, Schlossern, Tirklingeln, Turangeln, Truhenhenkeln und Schlusselbeschlagen. 16./18.Jahrhundert.
+- 247 Zwei Nadelkissen. Mit Schraubstock. 19. Jahrhundert.
+- 248 Nasenschild. Arm:Ranken und Blumen,Schmiedeeisen. Schild:Doppeladler in Lorbeerkranz. Bemalt, geschnittenes Blech. 19. Jahrhundert. Arm: Lange 118 cm, Hohe 6 cm. Schild: Breite 55 cm, Hohe 70 cm.
+- 249 Feuerrost. Die runde Scheibe mit Rankenornamenten. Schmiedeeisen. Lange 52 cm.
+- 250 Zwei Laternen. Walzenformig,mit Helmdach. Eisenblech mit durchbrochenen Ornamentbordiren. In goti-
+
+## Glas
+
+- 251 GroBer Becher. Leichtkonisch. Emailmalerei: Gustav Adolf zu Pferd und Beischrift:GVSTAVUS ADOLPHUS Konig in Schweden CUM DEO ET Victricibus Armis ANNO DOMINI 1631. Hohe 14 cm.
+- 252 Reiseflasche. Eisengrine, klare Masse. Gequetschte Kugelform mit engem Hals. 18. Jahrhundert.Lange
+- 25cm.
+- 253 Becher. Konisch. Tiefschnitt: GLW unter Krone zwischen Lorbeer. 18. Jahrhundert. Hohe 9,2 cm.
+- schem Geschmack.Hohe 35 bzw.27cm.
+- 254 Zwei Likorglaschen. a) Balusterschaft, walzenformige Kupa mit Goldrand. Hohe 8 cm. b) Balusterschaft, glockenformige Kupa mit Weinrankenbordire in Gold. Sachsisch. 18. Jahrhundert. Hohe 7 cm.
+- Kleines Glas. Klare Masse. Um die Leibung drei Reifen; umgeschlagener Rand und zwei aufgesetzte Faden
+- 255 als Osen.18.Jahrhundert.Hohe 7cm.
+- 256
+- Flasche in Tonnenform. Grinliche, klare Masse. Als Reifen umgelegte, gekniffene Faden. ZinnverschluB. 18. Jahrhundert. Lange 18 cm.
+- 257 Enghalskanne. Mit Blumenranken in Mattschliff. Zinndeckel. 18. Jahrhundert. Hohe 23,5 cm.
+- 258 Wappen bzw. Blume. Sachsen. 18. Jahrhundert. Hohe 1416 cm.
+- 259
+- Walzenkrug. Auf der Leibung groBe Blumenranke in Tiefschnitt. Zinndeckel, bez. GFW 1789. Hohe 20,5 cm
+- 260
+- 261
+- Desgl. Tiefschnitt: Haus, Hirsch und Vogel. Zinndeckel, bez. Klee 1791. Hohe 22 cm.
+- Desgl. Tiefschnitt: Zwei Herzen in Blumenkranz. Ehemals vergoldet. Zinndeckel, bez. CFW 18oo. Hohe 21,5cm.
+- 262 Wasserflasche. Mit Stopsel. AuBenvergoldung: Sterne und dinne Ranken. Um 1810. Bohmisch. Hohe 22,5 cm.
+- 263
+- schliff, Knauf in Zellschliff. Um 1820. Bohmisch. Hohe 21 cm.
+- Flasche. Mit tiefem, eingesetztem Boden, der als Kihlbehalter dient. Am Mantel Tiefschnittdekor: Spitz-
+- 264 ovale Motive und Blumen.Um 1820.Hohe 25,5 cm.
+- 265
+- Henkelglas. Mit groBen Rosen kalt bemalt. Goldrand. Um 1830. Hohe 10,2 cm.
+- 266
+- 267
+- 268
+- Karaffe. Mit Kugel- und Facettenschliff. Kristallglas. Um 18201850. Hohe 20,5 cm.
+- Bauchiger Krug. Gehenkelt. Tiefschnitt: Devise ,Aus Achtungund Laubwerk. Bohmen. Um 1830. Hohe 16cm.
+- Halbekrigl. Blaues Glas mit Emailmalerei:Blumenranken. Zinndeckel. Um 1830—1840. Hohe 16,8 cm.
+- 269 Desgl. In Tiefschnitt: Blumenkartusche mit Aufschrift ,Andenken. Porzellandeckel mit Umdruckbild.
+- Um1830-1840.Hohe14,8cm.
+- 270 Schreibglas. Mit Facettenschliff. Kristallglas. Am Deckel Federhaltergestell und Federschale in Silber. Um 1840—1850.Hohe 11cm,Durchm.13cm.
+- 271 GroBer Krug. Konische Walzenform,vorseits facettiert. Tiefschnitt: Springender Hirsch. Um 1850. Mit Sprung. Hohe 28 cm.
+- 272 Flakon. Facettierte Schale, auf einem Schwan ruhend. PreBglas. Gegen Mitte des 19. Jahrhunderts. Hohe 16cm.
+- 273
+- 274
+- 275
+- Bauchiger Krug. Um die Leibung laufende Blattranke in Tiefschnitt. Hohe 17 cm.
+- GroBer Pokal. Baluster und TellerfuB mit Akanthuslaub in Hochschnitt. Auf der Kupa Medaillon mit Portratkopf, von Lorbeerkranz umgeben und groBes Wappen der Reichsgrafschaft Tirol in Tief- und Klarschnitt. Hohe 27cm.
+- Flaschchen. Flachgedrickt. Olivenformig. Mit SchraubverschluB in Zinn. Blaues Glas. Hohe 12 cm.
+
+## Mobel
+
+- 276 Louis-Seize-Einrichtung. Bestehend aus doppeltirigem Schrank,kleinem Tischchen, zwei kleinen Kastchen,
+- kleinem Schrankchen, Bettstatte mit Baldachin, Sofa,zwei Stihlen und sechs Sesseln, Spiegel und Saule.
+- a) Doppeltiriger Schrank. Auf vier FuBen der hochrechteckige, doppelturige Kasten. Ausladendes Gesims mit umlaufender Galerie,an den Ecken zwei vollrunde Vasen,in der Mitte auf Volutensockel Telleruhr. Auf den Tiren hochrechteckiges, kanneliertes Feld, dariber in Querrechteck Rankenwerk und in Halbbogen Palmettenornament in Reliefschnitzerei. Schnitzereien vergoldet,auf hellgriinem bzw.schwarzem Grund. Tannenholz, hellgrin gestrichen. Hohe 260 cm, Breite 195 cm, Tiefe 66 cm.
+- Abbildung Tafel 3. b) Kleines Tischchen. Vier gerade kannelierte FiBe,rechteckige Zarge,iberstehende Platte mit Marmor-
+- einlage. Fichtenholz, grin gestrichen. Hohe 17 cm, Breite 76 cm, Tiefe 57 cm.
+- c) Kleines,halbrundes Kastchen. Eintirig, auf vier FiBen. Zwischen vier schwarzen Fassungsleisten hochrechteckige, kannelierte Felder. Fichtenholz,hellgrin gestrichen. Hohe 85 cm, Breite 75 cm, Tiefe
+- 42cm.
+
+<!-- image -->
+- d) Kleines,halbrundes Kastchen. Eintirig, auf drei FiBen. Auf hellgrinem Grund schwarze Leisten mit reliefierten Lorbeergewinden. Fichtenholz,hellgrin gestrichen. Hohe 79 cm,Breite 49 cm,Tiefe 29 cm. Abbildung Tafel 10.
+- f) Bettstatte. FuB und Kopfteil oben abgerundet. Letzterer mit Lorbeerkranz und Lorbeergehangen. Die kraftigen Pfosten mit bekronenden Pinienzapfen. Dekor:Uberfallendes Akanthusblatt und Lorbeerzweige in reliefierter Schnitzerei.Fichtenholz,hellgrin gestrichen.Hohe 140 cm,Breite 100 cm,Lange 190 cm.
+- e) Kleines Schrankchen. Eintirig. Geschweifte kurze FiBe.Rechteckiger, auf der Vorderseite abgerundeter Kasten. Dekor:Akanthusbordiren und Lorbeergewinde. Reliefierte Schnitzerei Fichtenholz, hellgrin gestrichen.Hohe 95 cm, Breite 82 cm, Tiefe 44 cm.
+- g) Gestell zu einem Bettbaldachin. Halbkreisformig gewellt, mit iberfallendem, reliefiertem Blatt-
+- h) Kleines Sofa. Auf acht leicht geschweiften Fiben. Seitenlehnen schraggestellt. Lorbeerbordiren in
+6. werk.Vergoldet und griin gestrichen. Hohe 72 cm,Breite 132cm.
+7. Gold auf hellgrinem Grund. Polsterung mit grin und rot gestreiftem Bezug. Fichtenholz. Lange 160 cm, Breite 66cm,Hohe 75 cm.
+- k) Stihle. Gerade FiBe. Leicht geschweifte Rucklehne: Mit Mitteloval und Palmengehangen. Fichtenholz,
+- i) Zwei Stihle und sechs Sessel. FiBe,Armlehnen und Armstitzen leicht geschweift, Ricklehne sanft gebogen. Diese mit Gehangewerk. Ein Stuhl mit Strohgeflecht in schildformiger Umrahmung. Sitz gepolstert mit rot und grin gestreiftem Bezug. Fichtenholz,hellgrin gestrichen, mit Gold konturiert. Zum Teilerganzt. Stihle:Hohe 90 cm,Breite 53cm,Tiefe 50cm;Sessel:Hohe 88 cm,Breite 40 cm,Tiefe 42cm. Abbildung Tafel 9.
+10. hellgrin gestrichen, mit Gold konturiert. Polsterung mit rot- und gringestreiftem Bezug. Hohe 9O cm, Breite 47cm,Tiefe 41 cm.
+- m) Saule. Auf drei geschweiften FriBen die hohe, schlanke Saule,reliefierte Lorbeergehange. Dreieckige FuBund Deckplatte. Fichtenholz,hellgrin gestrichen. Hohe 84 cm.
+- 1) Spiegel. Hochrechteckig, oben abgerundet.Von reliefierten Lorbeergewinden gefaBt. Fichtenholz, hellgrin gestrichen. Hohe 172 cm, Breite 65 cm.
+13. 277 Biedermeiereinrichtung.Bestehend aus Bicherschrank, Sekretar,rundem Tisch, Konsoltisch,zwei kleinen
+- a) Bicherschrank. Dreitirig； der Unterteil der Tuiren mit hochrechteckigem,kanneliertem,vergoldetem Feld, der Oberteil verglast mit aufgelegtem, spitzovalem Ornament in schwarzem Holz. Gesims mit umlaufender Galerie.Eichenholz. Siddeutsch. Erstes Drittel des 19. Jahrhunderts. Hohe 225 cm,Breite 210 cm,Tiefe40cm.
+15. Wandkastchen, Schaukelstuhl, zwei Lehnstihlen, vier Sesseln und einem groBen Spiegei.
+
+Abbildung Tafel 4.
+
+- Um 1850.H6he 220 cm, Breite 112 cm, Tiefe 59cm.
+- b) Sekretar. Im Unterbau drei Schubladen, das nach vorne aufklappbare Mittelstick mit acht um eine offene Spiegelnische gruppierten, kleinen Schubladen; dariber eine groBe Schublade. An den vorderen Kanten des Sekretars auf stark geschwungenem Sockel flankierende Rundsaulen. Stufenformig aufgebauter Giebel. Auf Schubladen,Pultplatte und Giebelfeld reiches Blumen-und Rankenwerk in eingelegter Arbeit.
+- c) Runder Tisch. Dreieckige, dreimal eingezogene FuBplatte. Einfacher Saulenschaft,runde Platte. Poliert,
+- d) Konsoltischchen. Rechteckige, vorn eingezogene FuBplatte. Die beiden FiBe in Form von Fillhornern. Rechteckige,iberstehende Platte.Poliert.Mitte des 19. Jahrhunderts.Hohe75cm,Breite54 cm,Tiefe 36cm.
+- Mahagoni.Anfang des 19. Jahrhunderts.Hohe 72 cm,Durchm.120 cm.
+- e) Zwei kleine Wandkastchen. Auf zwei VolutenfiBen. Rechteckige Zarge mit Schublade. Uberstehende Platte.Poliert. Mitte des 19. Jahrhunderts.Hohe 35 cm,Breite 35 cm,Tiefe 25 cm.
+- g) GroBer Lehnstuhl. Auf vier leicht geschweiften FuBchen. Hohe, in Armlehne ibergehende Ruicklehne. Sitz und Lehne gepolstert mit geblumtem, modernem Wollstoff bezogen. Mitte des 19. Jahrhunderts.
+- f) Schaukelstuhl. Armlehnstitzen in Form von Schwanen. Sitz,Ricklehne und Armlehne gepolstert mit geblumtem Bezug. Poliert. 1. Halfte des 19. Jahrhunderts. Hohe 100 cm, Breite 60 cm, Tiefe 65 cm.
+- Hohe 102cm,Breite 72cm,Tiefe 80cm.
+- h) Lehnstuhl. Auf vier geraden FuBen, Rucklehne leicht geschweift, Armlehne und Armlehnstitzen geschwungen. Ruicklehne mit Palmettenornament. Sitzpolster mit Lederbezug. Poliert. Siddeutsch. Mitte des 19.Jahrhunderts.Hohe 95cm,Breite55 cm.Tiefe 50 cm.
+- i) Zwei Sessel. Auf vier geschweiften FuBen,Ricklehne abgerundet. Sitz und Rucklehne gepolstert, mit geblumtem,buntem Bezug. 1. Halfte des 19. Jahrhunderts. Hohe 88cm, Breite 48 cm,Tiefe 42 cm.
+- Abbildung Tafel 9.
+- Abbildung Tafel 9.
+- k) Zwei Sessel. Vier leicht geschweifte FiBe. Ricklehne mit Ovale und Palmzweigen. Sitzpolster mit geblumtem Wollbezug. Poliert. Mitte des 19. Jahrhunderts. Hohe 85 cm,Breite 45 cm,Tiefe 41 cm.
+- 1) GroBer Spiegel. Hochrechteckig. Sockel und Gesims leicht ausladend mit Eierstabornament:Die Spiegelflache durch zwei Querleisten gedritteilt.Das oberste Feld mit lyraformigem Ornament in reliefierter Schnitzerei. Poliert. 1.Drittel des 19. Jahrhunderts. Hohe 172 cm,Breite 77 cm.
+
+<!-- image -->
+- 278 Truhe. Sockel und Gesims ausladend. Auf der Stirnseite zwischen Konsolen mit Blumengehangen reiche Schnitzereien, auf dem Deckel Wappen und zwei Portrats in Reliefschnitzerei. Eichenholz. Arbeit im Stile des 17.Jahrhunderts. Hohe 72 cm, Breite 67 cm,Tiefe 154 cm.
+
+Abbildung Tafel 12.
+
+- 279 Blendschubladen,Armlehnen geschwungen,in vollrunde Kopfe endigend. Moderne Arbeit im Stile des 17. Jahrhunderts.Hohe 182 cm, Breite 160 cm, Tiefe 66 cm.
+- 280 Truhe. Auf der Stirnseite in vier Feldern Rundbogenarchitektur und lineare Ornamente in Flachschnitzerei. Gesims und Decke leicht ausladend. Mit Inschrift:An Gottes Segen ist alles gelegen. Hohe 59 cm, Breite 182 cm, Tiefe 68cm.
+- 281 Stirnwand einer Truhe. In quadratischen und rechteckigen Feldern lineare Ornamente und stilisierte Blumen in reliefierter Schnitzerei mit neuen Teilen.Hohe 83 cm,Breite 63cm.
+- 282 Truhe. Scheibenfibe, rechteckiger Kasten. Auf querrechteckigen Feldern bunte Landschaften und BlumenstrauBe in Bauernmalerei.Um 1850. Hohe 55 cm,Breite 115 cm,Tiefe 60 cm.
+- 283Halbschrank. Offener Unterbau, der eintirige Kasten auf zwei gedrehten Saulen. Die Tirumrahmung mit Rankenwerk in Flachschnitzerei;auf der Tire Auferstehung Christi in Reliefschnitzerei. Ausladendes Gesims. Eichenholz. Im Geschmack des 16. Jahrhunderts. Hohe 190 cm,Breite 110 cm,Tiefe 60 cm.
+- 284 Architekturschrank. Zweigeschossig. Auf sieben flachgedrickten ScheibenfiBen.Quer rechteckiger,stark ausladender Sockel mit vier Schubladen.Jedes GeschoB mit zwei Tuiren. Diese werden flankiert durch eine P600 Rundsaule auf der Mittelleiste und je einem seitlichen Saulenpaar. Auf jeder Tuire stark profilierte Rundbogenarchitektur, zwischen jedem Saulenpaar kleine Nische mit MuschelabschluB. Stark ausladendes Gesims. Mit linearen, eingelegten Ornamenten. Altes Beschlage. Suiddeutsch. Zweite Halfte des 17. Jahrhunderts. Hohe 265 cm, Breite 210 cm,Tiefe 73 cm.
+
+Abbildung Tafel 5.
+
+- 285 Zweitiriger Schrank. Auf finf KugelfiBen, Sockel und Gesims ausladend.Vor den abgeschragten, vorderen Kanten und auf der Mittelleiste Pilaster mit reich geschnitztem Kapital,seitlich halbierte Pilaster. Auf den Tiren Blendarkaden, dariber Blumengehange und Akanthuswerk in Reliefschnitzerei. Reiche Einlegearbeit in Palisander und Zedernholz. Im Sockel zwei Schubladen. Bronzebeschlage,NuBbaum poliert. Suiddeutsch. Ende des 17. Jahrhunderts.Hohe 214 cm,Breite 200 cm,Tiefe 80 cm.
+
+Abbildung Tafel 6.
+
+- 286 Kabinettschrankchen. Auf sieben flachgedrickten Kugelfiben. Rechteckiger, an den vorderen Ecken abgeschragter Sockel. Darauf zweitiriger Kasten.Auf der Mittelleiste zu beiden Seiten der Tire und auf den Seitenteilen halbrunde,gedrehte Saulchen.Auf den Turen und den Seitenflachen sternformige,erhabene Felder. Ausladendes Gesims.Inneneinrichtung:Finfzehn kleine Schubladen.Im Gesehmacke des 17. Jahrhunderts mit alten Teilen.Hohe 80 cm, Tiefe 50 cm,Breite 80 cm.
+- 287 Kredenz. Rechteckige Sockelplatte, offenes Fach. Der eintirige, querrechteckige Kasten auf zwei kraftigen gedrehten Saulen. Tuire und Randleisten mit figirlichen Darstellungen in finf Feldern, dazwischen Rankenwerk und ornamentale Schnitzereien. Ausladendes Gesims. Mit alten Teilen.Im Geschmacke des 17. Jahrhunderts.Hohe 155 cm,Breite 135 cm, Tiefe 40cm.
+- 288 Bifett.Unterbau:Rechteckiger,zweitiriger Kasten, stark ausladendes Gesims.Auf den Tiren und der breiten Mittelleiste figirliche Darstellungen in Reliefschnitzerei.Oberbau:Zwei offene Facher.Weit ausladendes, auf zwei gedrehten Saulen ruhendes Kranzgesims.Mit Inschrift:Jungfer Katharina Elionore Hilsekampen anno 1689. Hohe 215cm,Breite 172 cm,Tiefe 55 cm.
+- 289 GroBer Schrank. KugelfiBe. Auf leicht ausladendem Sockel der querrechteckige, zweitirige Kasten. Auf den Tiiren in Rundbogennische mannliche Figuren. Stark profiliertes Gesims mit Inschrift:Johan Henrich Reincke befiehl dem Hern deine Wege 1754. Ranken und Bandornamente in reicher Schnitzerei. Hohe 200 cm, Breite 200 cm,Tiefe 60 cm.
+- 290 Sekretar. Auf vier Kugelfuiben der an der Stirnseite stark gewolbte Kommodekasten mit zwei Schubladen Dariber auf nach vorn aufklappbarem Schreibpult kleines, eintiriges Kastchen.Vorderseite gewolbt, Giebel geschweift. Um die Mitteltire gruppieren sich acht kleine Schubladen. Tuire, Pultdeckel, Schubladen und Seitenteile mit Hoch- und Querrechtecken in eingelegter Arbeit. NuBbaum, poliert. Beschlage in Goldbronze.Siddeutsch.Um 1760.Hohe 180 cm, Breite 116 cm, Tiefe 76 cm.
+
+<!-- image -->
+
+<!-- image -->
+
+Abbildung Tafel 8.
+
+- 291 Kleines Kastchen. Zweitirig, rechteckig, mit geschweiftem Aufsatz. Dieser mit Akanthusschnitzerei. Ab-
+- gelaugt.18. Jahrhundert. Hohe 70 cm, Breite 50 cm, Tife 28 cm.
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+- 292 Aufsatz zu einem Schreibtisch. Quer rechteckig, mit drei Schubladen. Stirnseite stark geschweift,auf den Schubladen Rankenornament in eingelegter Arbeit.Auf der oberen Seite figirliche Darstellung in Elfenbein zwischen Blumensticken in bunt getontem Holz. Deutsch. Mitte des 18. Jahrhunderts. Hohe 15 cm, Breite 120cm,Tiefe 24cm.
+- 293 Aufsatzkastchen. Schmalrechteckige Grundform, geschweifter, durchbrochener Sockel,Volutengesims.in tuirig,nach drei Seiten verglast. Vergoldet. Zweite Halfte des 18. Jahrhunderts. Hohe 112 cm, Breite 83 cm, Tiefe 27 cm.
+- 294 Aufsatzkastchen. Auf zwei kraftigen Rokaillenfiben. Die quer rechteckige,mit reichem Muschel- und Gitterwerk verzierte Zarge. Auf dieser eintiriges hochrechteckiges Kastchen mit geschweiftem Gesims. Seitlich je zwei Schubladen. FuBe und Zarge vergoldet. Kastchen und Schublade weiB gestrichen mit graviertem Rokaillenwerk in Gold. Bronzebeschlage. Zweites Drittel des 18. Jahrhunderts. Breite 100 cm, Hohe 65 cm, Tiefe 50 cm.
+- 295 Kleine Kommode. Auf vier leicht geschweiften FuBen. Stirnseite des Kastens geschwungen, Seitenteile kon vex eingezogen. Zwei Schubladen. Lineare Ornamente und Wirfelmuster in eingelegter Arbeit. Marmorplatte. Bronzebeschlage. Mit Erganzungen. Deutsch. Zweite Halfte des 18. Jahrhunderts. Hohe 92 cm, Breite 82 cm, Tiefe 42 cm.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Abbildung Tafel Io.
+
+- 296 Kommode. Auf vier kurzen FuBen, mit drei Schubladen, Stirnseite gewolbt, die leicht ausladende Platte an drei Seiten geschweift. Neue Bronzebeschlage, poliert. Mitte des 18.Jahrhunderts, siddeutsch. Hohe 85 cm, Breite 120 cm,Tiefe 65 cm.
+- 297 Sekretar. Vier kurze FiBe. Unterbau rechteckiger Kasten,mit vier Schubladen, Stirnseite gewolbt. Mittelbau nach vorn aufklappbares Pult mit flankierenden, quadratischen Schubladen. Oberbau: Stirnseite gewolbt, mit iberhohtem Mittelkastchen und neun Schubladen.Ture,Pult und Schubladen mit linearen Ornamenten in eingelegter Arbeit. Poliert. Moderne Bronzebeschlage. Siddeutsch. Zweites Drittel des 18. Jahrhunderts. Hohe 177 cm, Breite 25 cm, Tiefe 68 cm.
+
+<!-- image -->
+
+1800
+
+- Sekretar. Unterbau mit zwei ein offenes Mittelfach flankierenden, eintirigen Kastchen. Dariber drei Schubladen. Der nach vorne aufklappbare Mittelbau mit kleinen Schubladen im Innern, der Oberbau mit durch eine kleine Schublade iberhohtem doppeltirigem Kastchen und je vier seitlichen Schubladen. Das Mittelkastchen gewolbt. Auf Turen und Schubladen Band-und Blattornament,auf der Pultplatte Monogramm mit Krone und Palmzweigen in eingelegter Arbeit.Bronzebeschlage.NuBbaum.Suiddeutsch.Ende des 18.Jahr-
+
+Abbildung Tafel 7.
+
+- 298 hunderts. Hohe 215 cm, Breite 130cm,Tiefe 58 cm.
+- 299 Bauernschrank. Zweitirig. ScheibenfibBe. Im Sockel zwei Schubladen, abgeschragte Ecken; ausladendes Kranzgesims. Auf den Tuiren bunte Landschaftsmalerei, Ecksaulen, Gesims und Tiren mit Rosengehangen. Fichtenholz,blau gestrichen. Siddeutsch. Ende des 18. Jahrhunderts. Hohe 215 cm,Breite 200 cm, Tiefe 55cm.
+- 300 Schrank. Zweituirig. Stirnseite geschweift, geschwungener Giebel. Auf den Tiren zwei von Laubengewinden gefaBte Felder, auf der Mittelleiste und den abgeschragten vorderen Ecken Akanthusranken und aufgereihtes Scheibenmuster. Fichtenholz,lackiert. Deutsch. Ende des 18. Jahrhunderts. Hohe 200 cm,Breite 122 cm, Tiefe 55cm.
+- 301 Bifett. Rechteckiger,zweitiriger Unterbau.Oberbau mit stark ausladendem,gebrochenem Gesims,zweituirig. Auf den Turen Landschaft in Blau und BlumenstrauBe in bunter Malerei. Inschrift: A.R.S. 1790 Hohe 210 cm,Breite 115 cm,Tiefe 55 cm.
+- 302 Schrank. Auf ScheibenfiBen. Die vorderen Ecken abgeschragt. Im Sockel zwei Schubladen. Geschweiftes, stark ausladendes Giebelgesims. Zweitirig. Landschaften in Rot und BlumenstrauBe in bunter Bauernmalerei auf weiBem Grund. Inschrift:A.E.H.1800. Hohe 215 cm, Breite 195 cm,Tiefe 63 cm.
+- 303
+- Kleines Bifett. ScheibenfiBe. Rechteckiger, an den vorderen Ecken abgeschragter,zweitiriger Kasten. Oberbau zweitirig mit geschweiftem Giebel. Monogramm A.E.H. BlumenstrauBe und landschaftliche Darstellungen in bunter Bauernmalerei auf weiBem Grund. Hohe 110 cm,Breite 105 cm, Tiefe 55 cm.
+- 304 Kommode.Rechteckig,Stirnseite geschweift,mit drei Schubladen. Landschaften und BlumenstrauBe in bunter Bauernmalerei.Ende des 18. Jahrhunderts.Hohe 85 cm, Breite 125 cm, Tiefe 65 cm.
+- 305
+- Zwei kleine Kommoden. Auf vier FiBen der an Stirnseite und Seitenteilen geschweifte Kasten,Platte geschweift. Auf den drei Schubladen,Platte und den Seitenteilen Jagdszenen in Elfenbein und eingelegtem Holz. Fichtenholz. Niederrheinisch. Im Geschmacke des 18. Jahrhunderts. Hohe 88 cm, Breite 85 cm, Tiefe 44cm.
+- Waschkommode. Rechteckiger Sockel. Eintiriger, trommelformiger Kasten, darauf die rechteckige Zarge. Platte aufklappbar. An den vorderen Kanten freistehende, schwarze Saulchen mit Bronzefassung. Kirsch-
+- 306 holz poliert. Anfang des 19. Jahrhunderts. Hohe 80 cm, Breite 72 cm, Tiefe 46 cm.
+
+<!-- image -->
+
+<!-- image -->
+- 307 Kommode. Kurze, geschweifte FuBchen,rechteckiger Kasten. Drei Schubladen mit Eierstab- und Empire-
+- ornamenten in reliefierter Schnitzerei.Mit neuen Teilen.Anfang des 19.Jahrhunderts. Hohe 95 cm,Breite 125cm,Tiefe 65cm.
+- 308 Kommode. Auf vier kurzen,runden FiBchen der rechteckige Kasten. Drei Schubladen. Diese mit Eierstabornament. Schlisselbleche mit umgelegtem Lorbeerkranz. Anfang des 19. Jahrhunderts. Hohe 88 cm, Breite 140 cm,Tiefe 62cm.
+- 309 Kommode. Auf vier kurzen,geschweiften FuBen (einer fehlt). Der rechteckige Kasten,die zwei unteren Schubladen von schwarzen Rundsaulchen flankiert, die dritte Schublade etwas iberstehend.Platte leicht ausladend.Reich reliefierte Bronzebeschlage. Poliert.Erstes Drittel des 19. Jahrhunderts.
+- 310 Nachtkastchen. Auf vier geraden FuiBen. Ovales Kastchen mit Marmorplatte. Eintirig,mit JalousienverschluB. Offenes Fach. Mahagoni. Anfang des 19. Jahrhunderts. Hohe 72 cm, Breite 50 cm, Tiefe 36 cm.
+- 311 Zwei Nachtkastchen. Auf vier flachgedrickten FuBen, quadratische Sockelplatte. Das trommelformige, eintirige Kastchen auf kurzem,nach oben palmettenformig sich erweiternden Balusterschaft. Mahagoni mit Marmorplatte. Anfang des 19. Jahrhunderts. Hohe 95 cm, Durchm.47 cm.
+- 312 Gewehrschrank. Eintirig,hochrechteckig. Ausladendes Gesims mit Eierstabmotiv, darauf dreieckiger Giebel. Bronzebeschlage. Anfang des 19. Jahrhunderts.Hohe 213 cm, Breite 79 cm, Tiefe 30 cm.
+- Abbildung Tafel 4.
+- 313 Bauernschrank. Zweitirig,im Sockel zwei Schubladen. Ausladendes Gesims mit Giebelaufsatz.Auf weiBem Grund in vier Feldern bunt gemalte Landschaften, Streublumen und BlumenstrauBe. Monogramm:J. C. E. 1833. Fichtenholz, gestrichen. Hohe 200 cm, Breite 140 cm, Tiefe 50 cm.
+- 314 Kleines Kastchen. Auf vier hohen, geraden Fuben. Der hochrechteckige Kasten mit iberstehender Platte.
+- Drei Schubladen, poliert.Mitte des 19. Jahrhunderts.Hohe 76 cm, Breite 46 cm, Tiefe 36 cm.
+- 315
+- Eintiriger Schrank. Sockel und FiBe mit gotisierender Akanthusschnitzerei. Auf der Tire zwei Felder mit weiblichen Figuren in Reliefschnitzerei. Ausladendes Gesims. Mit alten Beschlagen. Arbeit des 19. Jahrhunderts.Hohe 188 cm,Breite 93cm,Tiefe 45 cm.
+- 316 Kasten.Flachgedriickte FuiBe.Vorderseite mit acht hochrechteckigen Feldern. Zwischen drei horizontal laufenden Bordiren. Felderfillung groB stilisiertes Blumenornament in Reliefschnitzerei. Vorderseite zum Aufklappen. Ausladendes Gesims. Moderne Arbeit. Hohe 120 cm, Breite 125 cm, Tiefe 55 cm.
+- 317 Tisch. Auf finf gedrehten, durch geschweifte FuBleisten verbundenen FiBen.Rechteckige Zarge. Weit uiberstehende Platte,mit eingelegtem Sternmuster. Alte Teile,17.Jahrhundert.Hohe 79 cm,Breite 112 cm, Tiefe 123cm.
+- Die rechteckige Zarge, jm Geschmacke des 17. Jahrhunderts.Hohe 83 cm,Breite 110 cm, Tiefe 64 cm.
+- 319 Eckkonsole. Auf zwei kraftigen, geschwungenen FiBen, die durch mit Voluten verzierter Mittelspange verbunden sind. Stirnseite der dreieckigen Zarge geschweift. Vergoldet. Mitte des 18. Jahrhunderts. Hohe 82 cm, Breite 105cm,Tiefe 68cm.
+- 320 Rundes Abstelltischchen. Mit drei offenen Fachern zwischen drei Rokaillefiben. Mitte des 18. Jahrhunderts. Hohe 103cm,Durchm.50cm.
+- 321 Konsoltischchen. Auf zwei kraftigen, mit reliefiertem Knorpelwerk geschmickten,durch Rokaillenkartusche verbundenen,geschwungenenen FiBen die geschweifte Zarge. Lindenholz,vergoldet. Deutsch. Zweite Halfte des 18. Jahrhunderts. Marmorplatte. Hohe 88 cm, Breite 80 cm,Tiefe 55 cm. Abbildung Tafel 10.
+- 322 Konsoltischchen. Ahnlich dem vorhergehendem. Die Mittelspange mit reichem Kartuschenwerk. Lindenholz, vergoldet. Deutsch. Zweite Halfte des 18. Jahrhunderts. Hohe 88 cm, Breite 80 cm, Tiefe 55 cm.
+- 323 Tischchen. Auf vier kraftigen, geschwungenen Rehfibchen mit reliefiertem Akanthus- und Kartuschenwerk. Geschweifte Zarge mit ahnlichem Dekor. Leicht iberstehende nach oben aufklappbare Platte. Mit einer Schublade.Poliert. Zweites Drittel des 18. Jahrhunderts. Suiddeutsch. Hohe SO cm, Breite 8O cm, Tiefe 53cm.
+- 324 Kleines Tischchen. Auf vier geschwungenen Fiben. Quadratische, geschwungene Zarge,leicht iberstehende Platte.Diese nach zwei Seiten aufklappbar.Inneneinrichtung:Unter dem Mittelstick vier kleine Schub-
+- Deutsch.Hohe 75 cm, Breite 54 cm, Tiefe 54 cm.
+- 325 Zwei Konsoltischchen. Gerade,kannellierte FiBe, rechteckige Zarge mit Akanthusschnitzerei. Wenig iberstehende marmorierte Holzplatte. Lindenholz,vergoldet. Ende des 18. Jahrhunderts.Hohe 85 cm,Breite 70cm,Tiefe35cm.
+
+<!-- image -->
+
+<!-- image -->
+- 326 Kleines Tischchen. Auf vier geraden, kannelierten FiBen die rechteckige Zarge. Dekor: Rankenwerk, Linienornament und Akanthusmotiv in reliefierter Schnitzerei. Moderne Holzplatte.Fichtenholz.Vergoldet. Louis XV1. Hohe 75 cm, Durchm. 68 cm, Tiefe 48 cm.
+- 327
+- Kleines Tischchen. Auf vier runden, geraden Fiben die ovale Zarge mit Schublade. An Zarge und FiBen iberfallende Akanthusblatter und Schlingbandmuster in Reliefschnitzerei. Mahagoni. Schwarz-weibe Marmorplatte. Louis Seize. Hohe 79 cm, Breite 63 cm, Tiefe 48 cm.
+- 328
+- Kleines Tischchen. Auf vier geraden, im unteren Teile abgerundeten FiBchen, die rechteckige Zarge. Diese mit drei kleinen Schubladen.Weit iberstehende,rechteckige Platte. Zarge und Platte mit lineaern Ornamerten in eingelegter Arbeit. FuBe mit iberfallendem Akanthusblatt und aufgereihtem Scheibenmuster. Ein FuB beschadigt.Poliert.Louis XVI.
+- 329 Spieltisch.Quer rechteckig,auf vier geraden,runden,kannelierten FiBen.Der schmal-rechteckige kannelierte Akanthuswerk. Wenig iberstehende Platte. Poliert. Mit Erganzungen. Louis XVI. Hohe 8O cm, Breite
+- 115 cm,Tiefe 55 cm.
+- Kleines Tischchen. Auf vier runden, kannelierten FuiBen. Rechteckige Zarge mit zwei Schubladen, Marmor-
+- 330 platte. Vergoldet. Mit neuen Teilen.Louis XVI. Hohe 74 cm, Breite 82 cm,Tiefe 43 cm.
+- 331
+- Kleines Tischchen.Vier gerade,kannelierte,runde FiBe,rechteckige Zarge mit aufgreihtem Scheibenmuster in Eichenholz. Louis XVl. Hohe 79 cmi, Breite 72cm, Tiefe 55 cm.
+- 332 Rundes Tischchen. Auf drei KlauenfiBen.Runde FuBplatte,reich profilierter Schaft. Akanthuswerk und Ranken in Reliefschnitzerei. Gold auf blauem Grunde. Moderne Arbeit,im Stile Louis XVI. Hohe 75 cm, Durchm.45 cm.
+- 333
+- Kleines Tischchen. Auf vier zierlichen, geschweiften Fuben. In der rechteckigen Zarge eine Schublade. Uberstehende Platte. Reliefiertes Rankenwerk und Blumen.Mit neuen Teilen,vergoldet.18. Jahrhundert. Hohe 75cm, Breite 74 cm,Tiefe 48 cm.
+- 334
+- 335
+- Konsoltischchen. Dreieckige FuBplatte. Die ovale Zarge auf drei, in Adlerkopfen endigenden KlauenfiBen. Poliert.Anfang des 19. Jahrhunderts.Hohe 85 cm, Breite 70 cm,Tiefe 39 cm
+- Spieltisch. Gerade FuBe,rechteckige Zarge,leicht iberstehende Platte. Diese zum Aufklappen. FuiBe und Zarge mit Blumen und Rankenwerk in Bronze. Anfang des 19. Jahrhunderts. Mahagoni. Hohe 75 cm, Breite 87 cm,Tiefe 43 cm.
+- 336 Rundes Tischchen.Viereckige,vierfach eingezogene FuBplatte.Auf geradem Saulenschaft runde Marmorplatte.Bronzebeschlage.Mahagoni. Anfang des 19. Jahrhunderts.Hohe 75 cm,Durchm. 49 cm.
+- 337 Konsoltisch. Rechteckige, konkav eingezogene FuBplatte. Die mit reliefiertem Akanthuswerk verzierte vergoldet.Schwarze Marmorplatte. Anfang 19. Jahrhundert. Hohe 85 cm, Breite 90 cm,Tiefe 45 cm.
+- 338 Konsoltischchen. Querrechteckige an der Vorderseite konkav eingezogene FuBplatte.Der Zargenkasten auf zwei geraden und zwei geschweiften FuiBen.Diese, sowie die vorderen Ecken der Zarge mit reliefiertem Blattwerk.Graue Marmorplatte.Erstes Drittel des 19. Jahrhunderts. Hohe 88 cm,Breite 98 cm,Tiefe
+- 50cm.
+- 339 Konsoltischchen. Rechteckige, konkav eingezogene FuBplatte; die rechteckige Zarge auf zwei geschweiften palmettengeschmickten FuBen. Poliert. Deutsch. Mitte des 19. Jahrhunderts.Hohe 75 cm, Breite 55 cm, Tiefe 36 cm.
+- Kleines Tischchen.Lyraformige FuBe,rechteckige Zarge,wenig iberstehende Platte.Poliert,Mitte des 19.Jahr-
+- 340 hunderts.Hohe 80, Breite 50 cm,Tiefe 36 cm.
+- Kleines,rundes Tischchen. Auf drei FuBen.Offenes Fach. Mitte des 19. Jahrhunderts. Hohe 46 cm, Durch-
+- 341 messer 38 cm.
+- 342 GroBer Tisch.Vier schraggestellte BalusterfiBe.Gerade FuBleisten.Rechteckige Zarge.Ebensolche, weit iberstehende Tischplatte. Eichenholz. Arbeit des 19. Jahrhunderts. Hohe 78 cm,Breite 170 cm,Tiefe 105 cm.
+- 343 Tischchen. Auf vier kraftigen KlauenfiBen. Rechteckige,geschweifte Zarge mit sockelartigem Aufsatz. Mit
+- alten Teilen.Hohe 75 cm, Breite 75 cm,Tiefe 50 cm.
+- 344 Bauerntisch. Gerade FuBleisten,vier schrag gestellte BretterfuBe,rechteckige Platte,rot gestrichen. Hohe
+- 81 cm, Breite 92 cm,Lange 127 cm.
+- GroBer Tisch.Ovale FuBplatte auf ScheibenfuiBen.BalusterfuiBe,rautenformige Zarge,ovale Platte. Hohe 82 cm,Breite 115 cm,Lange 145 cm.
+- 345
+- 346 Tisch. Vier gerade FuBe. Rechteckige FuBleiste,ebensolche Zarge, weit iberstehende, geschweifte Platte.
+- Hohe 73 cm, Breite 104 cm,Tiefe 62cm.
+- 347
+- Bauerntisch.Gerade FuBleisten, schrag gestelte BretterfiBe,rechteckige Platte.Hohe 77 cm,Breite 102cm, Lange 122 cm.
+- 348 Ovales Tischchen. Mit zwei offenen Fachern, die Platten mit Blumenstick in bunt getontem,eingelegtem Holz. Moderne Arbeit. Hohe 75 cm, Breite 40 cm, Tiefe 30cm.
+- 349 Blumentisch. Auf vier zierlichen, geschweiften FiBen. Rechteckige Zarge mit reicher, durchbrochener Ranken-
+- schnitzerei. Moderne Arbeit. Hohe 78 cm,Breite 62 cm, Tiefe 42 cm.
+- 350 Kleines Tischchen. Auf vier geschwungenen, kraftigen Fiben wirfelformiger Kasten.Platte leicht iber-
+- stehend,mit Blecheinsatz.Poliert;moderne Arbeit.Hohe 80 cm,Breite 37 cm,Tiefe 37 cm.
+- 351 Rundes Tischchen. Auf drei geschweiften FuBen. Platte mit figirlichen Darstellungen in eingelegter Arbeit.
+- Moderne Arbeit.Hohe 72cm,Durchm. 50 cm.
+- 352 Konsoltisch. Drei gedrehte FuBe, dreieckige FuBleiste,fuinfteilige Zarge;halbkreisformige Tischplatte.Hohe
+- 353
+- 78 cm, Breite 88 cm, Tiefe 58 cm.
+- Konsoltisch. Auf drei BalusterfiBen. Geschweifte FuBleisten.Fuinfseitiger Zargenkasten. Weit iberstehende, geschweifte Tischplatte. Hohe 80 cm, Breite 100 cm, Lange 70 cm.
+- GroBer Tisch. Schrag gestellte FiBe. Gerade FuBleisten. Zarge mit Akanthusschnitzerei. Platte mit reliefierten
+- 354 Rankenornamenten. Moderne Arbeit. Hohe 70 cm, Breite 95 cm,Lange 123 cm.
+- 355 Stuhi. Gerade FuiBe, geschweifte Spangenbretter, gerade Ricklehne. Sitz und Ruicklehne mit Lederbezug. 17.Jahrhundert.Hohe 97 cm,Breite 48 cm,Tiefe 48 cm.
+- 356
+- Zwei Stihle.Vier kraftige,stark geschweifte FuBe. Diese und die Zarge mit reliefiertem Akanthuswerk. Rechteckige,oben geschweifte Ruicklehne. Sitz und Rucklehne gepolstert, mit rotem Samt bezogen. Um 1700. Hohe 108cm, Breite 50 cm, Tiefe 45 cm.
+- Sieben Stihle.Gerade FiBe,die vorderen mehrfach gekropft. Hochrechteckige Ruicklehne mit Akanthusschnitzerei.  Sitz und Ricklehne gepolstert, mit grinem, geschnittenen Samtbezug. Mit alten Teilen im
+- 357 Geschmacke des 17. Jahrhunderts. Hohe 110 cm, Breite 44 cm, Tiefe 40 cm.
+- 358 Drei Bauernstihle.Vier gerade,schrag gestellte FiBe. Ricklehne geschweift,mit Herzausschnitt,mit Akanthuswerk und Voluten. Im Stile des 17. Jahrhunderts. Deutsch. Hohe 95 cm, Breite 42 cm, Tiefe 42 cm.
+- Stuhl. VorderfiBe gedreht, gerade RickfiBe in hochrechteckige Rucklehne ibergehend. Sitz und Ricklehne
+- 359 Breite 50 cm,Tiefe 43 cm.
+- 360 Sechs Stihle. Gerade, durch gekreuzte FuBspangen verbundene BalusterfuiBe. Gerade, oben abgerundete Ricklehne. Sitz und Ricklehne gepolstert,ohne Bezug. Moderne Arbeit,im Geschmacke des 17. Jahrhunderts. Hohe 110 cm,Breite 40cm, Tiefe 50 cm.
+- 361 Finf Stihle. Gerade FuBe. Die RickfiBe gehen in die hohe Ricklehneiber. Diese mit zwei breiten,reich geschnitzten Spangenbrettern. Sitzplatte rechteckig mit abgerundeten, vorderen Ecken. Die Pfosten der Ricklehne stehen weit iber und endigen in eine Volute bzw. Akanthusblatt. Mit alten Teilen.Im Stile des
+- 17.Jahrhunderts.Hohe 118 cm,Breite 42 cm, Tiefe 37 cm.
+- 362 Stuhl. Auf vier geraden FiBen. FuBleisten mit Blumen und Ranken in Reliefschnitzerei. Volutenarmlehnen. Gerade Ricklehne mit weit iberstehenden Pfosten. Sitz und Ricklehne gepolstert. Mit neuen Teilen. Erste Halfte des 17.Jahrhunderts.Hohe 135 cm, Breite 60 cm, Tiefe 55 cm.
+- Lehnsessel. Auf vier geraden FiBen, die beiden vorderen mit vorlagernden,vergoldeten Delphinen. Gerade Ruicklehne mit von Seetieren gehaltener Krone, Volutenarmlehnen. Sitz und Ruicklehne gepolstert.Im
+- 363 Geschmack des 17. Jahrhunderts. Hohe 150 cm, Breite 70 cm,Tiefe 60 cm.
+- Hocker. Auf vier durch Spannbretter verbundenen Balusterfiben der quadratische mit Leder bespannte
+- 364 Sitz. (Ehemals Stuhl.)17. Jahrhundert. Hohe 48 cm, Breite 50 cm, Tiefe 50 cm.
+- Lehnsessel. Gerade FiBe, durch Bretterspangen verbunden.Gerade Ricklehne, leicht geschwungene Arm-
+- 365 lehne. Sitz,Armlehne und Riicklehne mit Lederbezug.Dieser stark beschadigt. Deutsch,17. Jahrhundert. Hohe 98 cm, Breite 57 cm, Tiefe 49 cm.
+- 366 Drei Stihle. Geschweifte FuiBe. Rechteckige bzw.runde,geschweifte Zarge. Ricklehne hochoval bzw.rechteckig mit Strohgeflecht. Dekor:Ranken und Kartuschen. Zum Teil neue Vergoldung. Mitte des 18. Jahrhunderts. Hohe 100 cm,Breite 53 bzw.49 cm, Tiefe 48 bzw. 47 cm.
+- 367 Zwei Lehnsessel.VolutenfiBe, rechteckige geschweifte Zarge, ebensolche Ricklehne, Armlehne und Armstitzen leicht geschwungen. FiBe,Zarge und Oberarmlehne mit Akanthusund Muschelwerk. Ricklehne von reichem Akanthusgewinde gefaBt. Sitz und Ricklehne mit Strohgeflecht. Elsassisch. Mitte des 18. Jahrhunderts. Hohe 100 cm, Breite 70 cm,Tiefe 55 cm.
+
+Abbildung Tafel 9.
+- 368 Lehnsessel. Auf vier geschweiften Rehfibchen. FiBe, Zarge, Ricken- und Armlehne leicht geschweift mit reliefierten Blumengewinden und Rokaillen. Polsterung mit groBgeblimtem Brokatbezug. Neue Vergoldung. Deutsch.Mitte des 18. Jahrhunderts.Hohe 88 cm,Breite 66 cm, Tiefe 52 cm.
+- 369
+- Vier Sesselgestelle. Geschweifte,kurze FiBe. Halbkreisformige, geschwungene Zarge: Rechteckige,gewolbte Rickenlehne. Armlehnen und Armlehnstitzen geschweift. Bei zwei Sesseln Ruicklehnen mit Strohgeflecht. Dekor:Ranken-und Akanthuswerk in Reliefschnitzerei. Vergoldung zum Teil neu. Mitte des 18. Jahrhunderts. Hohe 87cm,Breite 56-61 cm, Tiefe 52—55 cm.
+- Zwei Sesselgestell. Auf kurzen,leicht geschweiften Fiben. Rechteckige,auf der Stirnseite geschweifte Zarge, fast quadratische Ruicklehne.Armlehne und Armstitze geschwungen. Dekor:a) Akanthuswerk, b) Rokaillen, Blumen und Ranken. Reliefschnitzerei. Mitte des 18. Jahrhunderts. Hohe 100 cm, Breite 68 bzw. 66 cm,
+- 370 Tiefe 57 bzw.60cm.
+- 371 Kleines Sofa. Auf sechs geschweiften RehfiBchen. Armlehne leicht geschweift mit drei Mittelspangen. Polsterung mit groB gebluimten Brokatbezug. Neue Vergoldung. Siddeutsch. Mitte des 18. Jahrhunderts. Hohe 76 cm,Breite 125cm,Tiefe 60 cm.
+- 372 FuBbankchen. Auf vier kurzen VolutenfiBen,Zarge mit reliefiertem Ranken-und Gitterwerk. Neue Vergoldung. Polsterung mit groBgeblimtem Brokatbezug. Deutsch. Mitte des 18. Jahrhunderts. Hohe 18 cm, Breite 28cm,Lange 34cm.
+
+Abbildung Tafel 9.
+
+Abbildung Tafel 9.
+
+- 373 Drei Sessel und drei Stihle. FiBe, Zargen und Ricklehne leicht geschweift, ebenso Armlehne und Armlehnstitzen. Dekor:Blumengewinde und Rokaillen in reliefierter Schnitzerei. Sitz und Riicklehne gepolstert, zum Teil mit Strohgeflecht. Polsterung mit groBgeblumtem,buntem Brokatbezug. Neue Vergoldung. Deutsch. 18. Jahrh.Stuihle: Hohe 93 cm, Breite 58cm, Hohe 48cm. Sessel:Hohe 86 cm, Breite 65 cm, Tiefe 62 cm.
+- 374 Sofa mit funf Stuhlen und einem Sessel. Kannelierte, gerade Rundfibchen. Hochovale Ricklehne. Lehnsessel mit geschwungenen Armlehnen.Armstitzen in Form von geraden Saulchen. Seitenlehne des Sofas Querovale mit Strohgeflecht. Dekor:Lorbeergewinde und Perlstabmotiv. Sitz und Ruicklehne gepolstert mit rotweiB gestreiftem Seidendamast bezogen. Zum Teil moderne Arbeit. Louis Seize-Stil. Sofa:Hohe 8O cm, Breite 135 cm,Tiefe 66 cm.Stihle:Hohe 95cm,Breite 50 cm,Tiefe 50cm.Lehnsessel:Hohe 100cm, Breite
+- 65 cm, Tiefe 60 cm.
+- 375 Zwei Stihle und ein Hocker. Gerade bzw.runde FiBe,rechteckige bzw.ovale Zarge mit antikisierendem Ornament in Reliefschnitzerei. Gerade Ruicklehne mit Rundbogenornament und iberhangendem Lorbeergewinde. Sitz gepolstert mit rot,weiB und blau gestreiftem Seidenstoff. Ende des 18. Jahrhunderts. Hohe 95/40 cm, Breite 43/50 cm, Tiefe 45cm.
+- 376 Sessel.Vier gerade FiBe. Gerade,rechteckige Ruicklehne mit Palmettenornament. Gerade Armlehnen und Armstitzen, Mit Monogramm: R.R. Sitz und Armlehnen gepolstert, mit rot,weiB und blauem Seidenbezug. Ende des 18. Jahrhunderts. Poliert. Passend zu Nr.375. Hohe 91 cm, Breite 52 cm, Tiefe 55 cm.
+
+Abbildung Tafel 9.
+
+- 377 Vier Stihle und zwei Sessel (Gestell).a) Sessel. Auf vier kannelierten,runden FuBen, querovale Zarge.Hochovale Ricklehne,leicht geschweifte Armlehnen. Armlehnstitzen in Form kleiner,kannelierter Rundsaulchen. b) Stihle.Gerade,kannelierte FuiBchen, runde bzw. ovale Zarge,hochovale Rickenlehne.
+- Dekor: Eierstabmotiv,Bandwerk und Rosetten in Reliefschnitzerei. Ein Stuhl mit Lorbeergewinde. Ricklehne mit Strohgeflecht,neue Vergoldung. Um 1800.Sessel:Hohe93 cm,Breite 65cm,Tiefe55 cm.Stuhl:Hohe 102cm, Breite 56 bzw.48 cm,Tiefe 46 cm.
+- 3781 Nachtstuhl. In Form eines kleinen Kommodekastchens. Auf vier kurzen FuBen rechteckiger, oben aufklappbarer Kasten. Mit vier Blendschubladen. Erste Halfte des 19. Jahrhunderts. Hohe 56 cm, Breite 56 cm, Tiefe 42cm.
+- 379 Sofa. Auf vier VolutenfiBen.Geschweifte Ricklehne, gerade Armlehnen. Die beiden vorderen FiBe gehen in die Armlehnstitzen iber und sind mit einem fuillhornartigen Ornament geschmickt.Dieses Lindenholz, vergoldet. Mahagoni. Sitz,Rick- und Armlehne gepolstert,mit geblimtem Wollbezug.Erstes Viertel des 19.Jahrhunderts.Hohe 102 cm,Breite 195 cm, Tiefe 72 cm.
+- 380 Stuhl. Gerade FiBe, gerade,leicht zurickgebogene,rechteckige Rucklehne. Sitz und Ricklehne gepolstert, mit groBgeblimtem Bezug.Mit alten Teilen,moderne Arbeit,im Geschmack des 17./18. Jahrhunderts. Stuhl: Hohe 105 cm, Breite 50 cm,Tiefe 45 cm.
+- 381
+- Stuhl. VorderfuiBe reich verkropft,RickfuiBe leicht geschwungen,in Ricklehne ibergehend. Die FiBe durch Spangen verbunden. Sitz und Ruicklehne gepolstert mit Gobelinbezug. Hohe 110 cm,Breite 50 cm,Tiefe 45 cm.
+- 382
+- Drei Bauernstihle. Schrag gestellte FiBe.Ricklehne mit Fratzengesicht und Blattwerk in kraftiger Schnitzerei Moderne Arbeit.Hohe 100 cm,Breite 45cm,Tiefe 42cm.
+
+Abbildung Tafel 9.
+- Sofa mit drei Sesseln.Sofa:Auf acht FuBen.Ricklehne gerade,mit drei Bretterstitzen. Obere Seite geschweift.
+- 383 Geschwungene Armlehnen und Armlehnstitzen.
+- Sessel: a) Geschweifte FiBe,leicht geschwungene Ricklehne, ebenso Armlehne und Armlehnstitzen. b) Gerade FiBe, durch Spangen verbunden, gerade Rucklehne, gerade Armlehnstutzen, auswarts gebogene Armlehnen. c) Scherenstuhl. Reich geschweifte Armlehne, querovale Ricklehne mit Bretterstitze. Sofa:Hohe 100 cm, Breite 160 cm,Tiefe 65 cm.Sessel:Hohe 90—105 cm,Breite 60-63 cm,Tiefe
+
+45-55cm.
+
+- 384 Bettstatt. Kraftige,eine Kugel umfassende KlauenfiBe. FuB-,Kopf- und Seitenteile mit querrechteckigen und quadratischen von Flammleisten gefaBten Feldern sowie reliefierte Blumen und Blatter.Deutsch.17. Jahr-
+- hundert.Hohe 88 cm, Breite 107cm,Lange 200 cm.
+- 385 Bettstatt. Seitenteile geschweift. Das stark erhohte Kopfstick mit hohem Aufsatz. Auf den Seitenteilen, dem Aufsatz des Kopfstickes und den FuBteilen erhohte,reich profilierte Felder. An Aufsatz und FuBteilen Akanthuswerk in Reliefschnitzerei. Mit alten Teilen.Im Geschmack des 17. Jahrhunderts.Hohe 190 cm, Breite 135 cm,Lange 200cm.
+- 386 Himmelbettstatt. Flachgedrickte ScheibenfiBe. Quadratische Eckpfosten. Obere Seite des FuBteils geschweift. Kopfteil mit hohem Aufsatz.Dieser mit Kartusche und Ranken in reliefierter Schnitzerei. Seitenbretter geschweift. Uber dem Ganzen auf vier gedrehten Saulen das Baldachinbrett, an dessen Schmalseiten Akanthusranken und Kartuschenwerk in reicher Schnitzerei. Eichenholz. Mit alten Teilen.Im Geschmack des 17. Jahrhunderts.Hohe 214cm,Breite 124cm,Lange 210 cm.
+- 387Kinderbettstatt. Auf vier gedrehten,durch Bretterleisten verbundenen FiBen.FuB- und Kopfteil geschweift
+- und ausgeschnitten. Auf der AuBenseite Band-und Volutenornamente, sowie I.H.S.und Marienmonogramm. Deutsch.18. Jahrhundert.Hohe 73 cm,Lange 98 cm,Breite 51 cm.
+- Wiege. FuB- und Kopfteil mit reich geschnitztem, durchbrochenem Akanthuswerkaufsatz und linearen Ornamenten in eingelegter Arbeit. Die Seitenteile in ahnlichem Dekor mit Gitterwerkaufsatz. Mit neuen Teilen.
+- 388 18. Jahrhundert.Hohe 88 cm, Breite 55 cm,Lange 103cm.
+- 389 Bettstatt. Obere Kante des FuB- und Kopfstickes geschweift mit iberhangenden Laubgewinden und linearen Ornamenten in Reliefschnitzerei. Auf den Stirnseiten in querrechteckigem, oben geschweiftem Fond Vase in von Laubgewinden gefaBtem Ovale. Einlegearbeit in Palisander, grin getontem und gebranntem Holz. Die Bettbretter mit eingelegtem Ornament des laufenden Hundes.Mit Jahrzahl 1786.Hohe 135 cm,Breite 15cm,
+- Tiefe205cm.
+- 390 Wiege. Rechteckiger Kasten mit Dachaufsatz. Engelskopfe, Tulpen und Ranken in Relief-bzw.Flachschnitzerei.
+- Inschrift:1813. Eichenholz.Hohe 85 cm,Breite 77 cm,Lange 103 cm.
+- 391 Wiege. Mit Blumen und Ranken in bunter Bauernmalerei. 19. Jahrhundert.Hohe 47 cm, Breite 57 cm, Lange 90 cm.
+- 392
+- Wiege. Schaukelbretter.Seitenteile FuB- und Kopfbrett mit BlumenstrauBen und Streublumen sowie landschaftlichen Darstellungen in bunter Bauernmalerei auf weiBem Grund. 19. Jahrhundert. Hohe 72 cm,
+- Breite 82 cm,Lange 108 cm.
+- 393 Bettstatte. Auf vier kraftigen, quadratischen FuBen. Obere Seite des FuB- und Kopfstickes iberschlagend. Das FuBstick mit flankierenden Hermenpilastern und Eierstabmotiv. Bronzebeschlage. Das Kopfstick ohne jeden Dekor. Ebenso die beiden Seitenteile. Poliert. Anfang des 19. Jahrhunderts. Hohe 97 cm,Breite 95 cm,
+- Lange 210 cm.
+- 394 Bettstatte. Mit kraftigen, quadratischen Eckpfosten.Diese mit bekronenden Bronzeschalen. Kopf und FuBteil in gleicher Ausfihrung. Die Bettbretter tief ausgebuchtet,mit aufgelegten Bronze-Lorbeerkranzen.Poliert.
+- Erstes Viertel des 19. Jahrhunderts. Hohe 108 cm,Breite 132cm,Lange 215 cm.
+- 395 Himmelbettstatt. FuB-,Kopf-und Seitenteile geschweift. Das Baldachinbrett auf vier gedrehten,in der Mitte gekropften Saulen. BlumenstrauBe, Streublumen und landschaftliche Darstellungen in bunter Bauernmalerei. Auf dem Kopfteil Doppelmonogramm. Anfang des 19. Jahrhunderts. Hohe 180 cm, Breite 128 cm, Lange 188cm.
+- 396
+- Bettstatt. FuB- und Kopfteil gerade, Seitenteile geschweift. Reiche Profilierung.19. Jahrhundert. Hohe 108cm,Breite 92 cm,Lange 180 cm.
+- 397
+- hundert.
+- 398 Piano-Fligel. Geschweift,auf zwolfseitigen Balusterfiben. 19. Jahrhundert.
+## Ausstattungs- und Ziergerat
+
+- 399 Zwei Flammleisten-Rahmen. Stark defekt, Lindenholz. 17. Jahrhundert. Hohe 51 cm, Breite 74 cm.
+- 400 Hohe 140 cm, Breite 115 cm.
+- Zwei runde Rahmen. Mit kraftigem Akanthuswerk. Vollrunde Schnitzerei. Lindenholz,vergoldet. Barock.
+- 401 Spiegel. Hochrechteckig. Rahmen reich profiliert mit Flammleisten.Schwarz. 17. Jahrhundert. Hohe 44 cm, Breite 39 cm.
+- 402
+- 403
+- Rahmen. Hochrechteckig, von Flammleisten gefaBt. 17. Jahrhundert. Hohe 77 cm, Breite 60 cm.
+- Rahmen. Rechteckig. Reich profiliert, mit Knorpelwerk in kraftiger Schnitzerei. Spuren alter Vergoldung, um 1700. Deutsch. Hohe 70 cm, Breite 80 cm.
+- 404 Spiegel. Quadratisch,in Flammleisten-gefaBt, im Geschmacke des.17. Jahrhunderts. Hohe 47 cm, Breite 47cm.
+- 405 grund. 18. Jahrhundert. Hohe 83 cm, Breite 55 cm.
+- Spiegelrahmen. Hochoval, auf den Seiten eingezogen. Mit Rosetten und Laubgewinden in Glas auf Spiegel-
+- 406 Rahmchen. Reiche Akanthusschnitzerei. Lindenholz,vergoldet. Zweite Halfte des 18. Jahrhunderts. Brust-
+- 407
+- Kleines Kastchen. Vorderseite zum Aufklappen. Inneneinrichtung: sechs kleine Schubladen. Bunte Wismutmalerei. 18. Jahrhundert. Hohe 11 cm,Breite 18 cm, Tiefe 10 cm.
+- 408
+- 409 Spiegel. Reich profiliert.Hochrechteckig mit zwei flankierenden Saulen;Volutengiebel und Gitterwerk. Deutsch
+- 410
+- 411
+- bild eines jungen Monches in Profil nach rechts. Ol auf Pappe.
+- Kleines Kastchen. Rechteckig. Zweitirig. Inneneinrichtung:Um offenes Fach acht kleine Schubladen. Mit bunter Wismutmalerei. 18. Jahrhundert. Hohe 37 cm, Breite 28 cm, Tiefe 13 cm.
+18. Jahrhundert.Hohe 90 cm, Breite 55 cimn.
+- Zwei Spiegel. Pyramidenformig, mit Voluten und Rokaillen in reicher Schnitzerei, symmetrische Anordnung. Zwei Spiegeleinsatze. Lindenholz, vergoldet. 18. Jahrhundert. Hohe 70 cm, Breite 28 cm.
+- 412 Spiegel. Hochrechteckig mit Rundbogenaufsatz. Rokaillenwerk und Blumengirlanden in reicher Schnitzerei.
+- Lambrequinstange. Mit vollrunden Voluten und Mittelrose. Neue Erganzungen. 18. Jahrhundert. Lange 207cm.
+- Neue Vergoldung. Mitte des 18. Jahrhunderts. Hohe 88 cm, Breite 42 cm.
+- 413 Zwei Spiegel. Hochrechteckig. In den Ecken und an der oberen Schmalseite Rokaillen- und Muschelwerkschnitzereien. Lindenholz, vergoldet. Deutsch. Mitte des 18. Jahrhunderts. Hohe 175 cm, Breite 80 cm. Abbildung Tafel 1o,
+- Spiegel. Hochrechteckig, mit reicher Akanthus und Muschelwerkschnitzerei, vergoldet, Lindenholz. Suid-
+- 414 deutsch.Zweite Halfte des 18. Jahrhunderts.Hohe 112 cm,Breite 53 cm.
+- Kleiner Spiegel. Muschelwerk in kraftiger, vollrunder Schnitzerei, in asymmetrischer Anordnung. Linden-
+- 415 holz, vergoldet. Zweite Halfte des 18. Jahrhunderts.Hohe 41 cm, Breite 30 cm.
+- 416 Spiegel. Hochrechteckig,mit Muschelwerk in Reliefschnitzerei. Auf der oberen Schmalseite Akanthuskartusche
+- 417 Rahmen zu einer Kaminverkleidung. Sockel geschweift. Zwei reich profilierte VolutenfiBe mit reliefiertem Akanthuswerk. Leicht ausladendes Gesims mit Akanthusschnitzerei.Lindenholz,vergoldet. Zweite Halfte
+- 418
+- mit Merkurstab und Anker, vergoldet. Zweite Halfte des 18. Jahrhunderts. Hohe 78 cm, Breite 45 cm.
+- des 18.Jahrhunderts.Hohe 94 cm, Breite 157 cm.
+- Kleines Rahmchen. Rokaille- und Muschelwerk, vergoldet. Lindenholz. Zweite Halfte des 18. Jahrhunderts. Breite 25 cm,Hohe 35cm.
+- 419 Spiegel. Hochrechteckig,mit zwei flankierenden Saulenpilastern. Stark ausladendes Gesims und ahnlicher Sockel. Pilaster mit Akanthuskapital. Poliert. Anfang des 19. Jahrhunderts. Hohe 270 cm, Breite 85 cm.
+- 41,5 cm,Hohe 57 cm.
+- 420 Rahmen. Hochrechteckig. Mit Bandornament und Lorbeergewinde. Anfang des 19. Jahrhunderts. Breite
+- Lister. Schalenformiges Mittelstick mit reliefiertem Lorbeergewinde und Palmettenornament. Sechs Voluten-
+- 421 arme mit tulpenformiger Tille. Holz,vergoldet. Anfang des 19. Jahrhunderts.
+- 422
+- Lister. Schalenformiges Mittelstick mit reliefiertem, durchbrochenem Akanthuswerk. Lindenholz,vergoldet. Anfang des 19. Jahrhunderts.Durchm.90 cm.
+- 423 Lister. Schalenformiges Mittelstick. Vier Arme mit je zwei Tillen. Messingbronze. Durchm: 67 cm.
+- 424
+- Zwei Wandleuchter. Vollrunder Arm halt zwei Tulpen. Lindenholz. Bemalt. Anfang des 19. Jahrhunderts. Hohe 35 cm.
+- 425 Spiegel. Hochoval, mit Eierstabmotiv,vergoldet. Anfang des 19. Jahrhunderts. Hohe 70 cm,Breite 55 cm.
+- 426 Toilette- und Schreibkasten. Rechteckig, Deckel zum Aufklappen, Inneneinrichtung: Schreibplatte zum Ausziehen, grobe Schublade, zwei Facher zum seitwarts Ausziehen, grobes Fach mit verschiedenen Einsatzen. Mahagoni,mit Bronzemontierung. Inschrift:Petet fabricant Palais Royal 119/I2o Paris. 19. Jahrhundert.
+- 427
+- Hohe 24 cm,Breite 40 cm,Tiefe 27 cm.
+- Spiegel. Querrechteckig. Mit zwei flankierenden Halbsaulen, weit ausladendes, geschweiftes Kranzgesims. Erstes Viertel des 19.Jahrhunderts. Mahagoni. Hohe 25 cm, Breite 80 cm.
+- 428
+- 429
+- 430
+- Likorkastchen. Rechteckig, auf vier ScheibenfiBchen, Deckel, Vorderseite und Seiten aufklappbar. Inneneinrichtung: An den Schmalseiten Facher fir Likorglaser, am Boden fir Flaschen. Mit neun Glasern und zwei Flaschen. Mahagoni. Erstes Drittel des 19. Jahrhunderts. Hohe 27 cm, Breite 30 cm, Tiefe 22 cm.
+- Spiegel. Hochrechteckig,mit umlaufendem Eierstabmotiv.Die untere Schmalseite mit ringgitterformigen Verzierungen.Obere Schmalseite mit Sockelaufsatz.Vergoldet.Erstes Drittel des 19. Jahrhunderts. Hohe 105cm,Breite 50cm.
+- Kleiner Spiegel. Hochrechteckig,profilierter Rahmen,im Giebel der oberen Schmalseite Seelandschaft.Geschliffener Spiegel. Birkenholz. Mitte des 19. Jahrhunderts.Hohe 50 cm, Breite 35 cm.
+- 431 Vier Rahmen.Hochrechteckig.
+- 432
+- Um 1840. Birkenholz.Hohe 62cm,Breite 52cm.
+- GroBer Lister. Auf dem sich tellerartig verflachenden Mittelstick des vielfach gekropften Schaftes wachsen sechs am vorderen Ende sich gabelnde Ranken mit je zwei Tuillen. Lindenholz, vergoldet. Deutsch. Sog. Maximiliansstil. Hohe 95 cm, Durchm.200 cm.
+- 433 Zwei Gardinenstangen.Rokaillen-,Akanthuswerk und Frichte.Zweites Rokoko. Breite 180 cm,Hohe 55 cm.
+- 434
+- Etagere. Rechteckige Grundform. Zwei offene Facher,auf je sechs zierlichen, gewundenen Saulchen. Schwarz gestrichen. Hohe 54 cm, Breite 44 cm, Tiefe 19 cm.
+- 435
+- Kleine Truhe. Rechteckig, mit altem Beschlagewerk. Mit Erganzungen. Hohe 33 cm, Breite 75 cm, Tiefe 40cm.
+- 436 Wandkastchen.Eintirig,Tiremit reich reliefiertem Rankenwerk und weiblicher Allegorie,von korinthischen Saulenpilastern flankiert.Vorderseite Metall.Hohe 58cm,Breite 31cm,Tiefe 8cm.
+- 437
+- Fillungsfeld.Akanthusornament in Reliefschnitzerei. Hohe 41 cm,Breite 38 cm.
+- 438 Spiegel. Hochrechteckig. Mit zwei flankierenden, gedrehten Saulen. Gesims giebelformig.Das obere Feld mit fast vollrundem Vogel zwischen Rankenwerk. Vergoldet. Hohe 155 cm, Breite 75 cm.
+- 439 Spiegel. Hochrechteckig,mit reich reliefiertem Akanthus- und Muschelwerk. Hohe 72 cm, Breite 41 cm.
+- 440 Zwei Rahmchen. Rechteckig, schwarz. Hohe 30 cm, Breite 24 cm.
+- 441 Ovaler Rahmen.Mit Eierstabornament,vergoldet. 62X 107 cm.
+- 442 Zwei kleine Konsolen. Kopf eines Ziegenbocks von Weinlaub umrankt. Vergoldet. Hohe 21 cm, Breite 15 cm.
+- 443
+- Vogelbauer. Gestell, Ecksaulchen und Dachsparren Holz, weib gestrichen. Hohe 34 cm, Breite 39 cm,Tiefe 30cm.
+- 444 Wandschirm. Sechsteilig. Mit buntfarbigen, biblischen Darstellungen in Hochovalen. Weinlaubbordire.
+- Hohe 175 cm, Breite 336cm.
+- 445 Stander. Aus Geweihen des Edelhirsches gebildet. Hohe 65 cm.
+- 446 Zwei Altarsaulen. Gewunden, von Weinranken umrankt, mit korinthischen Kapitals. Goldfassung; bunt
+
+Abbildung Tafel 2.
+
+- bemalt.17. Jahrhundert.Hohe 212cm.
+- Zwei Altarsaulen. Gewunden,von reliefierten Weinranken umschlungen. Mit Spuren alter Bemalung. 17. Jahrhundert.Hohe 130 cm.
+- 447
+- 448 Akanthusschnitzerei. Lindenholz, vergoldet. Ende des 17. Jahrhunderts. Hohe 158 cm.
+- 449 Reliquienstander. Querovaler Reliquienbehalter inmitten von Akanthus- und Volutenwerk auf hohem FuB. Lindenholz, vergoldet. Deutsch. Um 1700. Hohe 11 cm,Breite 48 cm.
+- 450 Akanthus- und Volutenschnitzereien. Lindenholz,vergoldet. 17./18. Jahrhundert.
+- Zwei Sockel. Voluten,Muschel und Kartuschenwerk in kraftiger Schnitzerei. Lindenholz.17./18. Jahrhundert.
+- 451 Hohe 12 cm,Breite 18 bzw. 27cm.
+- 452
+- Zwei Vasen. Halbrund, doppelhenkelig.Lindenholz, versilbert. 18. Jahrhundert
+- 453 GroBe Konsole. Ranken-und Muschelwerk,mit stark reliefierter Schnitzerei. Deckelplatte stark geschweift. Vergoldet.18. Jahrhundert.Hohe 42cm,Breite 52cm,Tiefe 32 cm.
+- 454
+- Zwei Saulenkapitale. Voluten-und Akanthuswerk in reicher Schnitzerei. AIte Fassung. 18. Jahrhundert. Hohe.40 cm.
+- 455 Zwei Sockel. Lindenholz, mit Resten alter Bemalung. 18. Jahrhundert. Hohe 30 cm, Breite 70 cm, Tiefe
+- 25cm.
+- 456 Altarleuchter. Auf drei VolutenfiBen der reich profilierte Schaft. Akanthuswerk in Reliefschnitzerei. Lindenholz. Deutsch. Ende des 18. Jahrhunderts. Hohe 81 cm.
+- 457 Zwei Schnitzereien. Aus kleiner Urne wachst ein langer von Akanthuswerk und Schlangen umschlungener Stab.Diesen bekront eine Lyra mit Satyrkopf.Lindenholz,vergoldet, beschadigt. Deutsch. Ende des 18.Jahrhunderts.Hohe 70 cm.
+- Rahmenstick eines groBen Altarbildes. Halbbogenformig mit iberfallender Akanthusbordire. Ende des
+- 458 18.Jahrhunderts.Spannweite 320 cm.
+- 459 Altarleuchter.Auf drei VolutenfiBen.Im unteren Teil dreiseitiger,im oberen Teil reich profilierter,von Lorbeergewinden umschlungener Schaft. Lindenholz, vergoldet. Anfang des 19. Jahrhunderts. Hohe 77 cm.
+- 460
+- Sockel. Rechteckig. Vorderseite mit MaBwerkschnitzerei. Moderne Gotik. Hohe 18 cm, Breite 40,5 cm, Tiefe 27cm.
+- 461
+- Stick aus einem Altaraufbau. Hochrechteckig. Moderne Gotik. Hohe 212 cm, Breite 55 cm.
+- Hermensaule. Quadratischer Sockel,mit Voluten und Akanthuswerk. Im Geschmacke des Louis XVI. Moderne
+- 462 Arbeit,vergoldet.Hohe 105 cm.
+- 463 Wappentier.Schwarzer Schwan mit zwei Wappen auf Weltkugel. Hohe 43 cm.
+- 464 Drei Deckenbalken. Mit geschlungenem Zopfwerk.Hohe 265 bzw.200 bzw.73 cm.
+- 465 Saule.
+- Kanneliert. Schwarz gegestrichen mit Gold.Hohe 115 cm, Durchm. 37 cm.
+- 466 Drei Schnitzereien. Reiche Rokaillen- und Rankenwerkschnitzerei. Hohe 38 cm,Breite 6O cm.
+- 467 Drei Schnitzereien. Ranken und Blattwerk, versilbert bzw.vergoldet. Breite 160 bzw.100 cm,Hohe 27 bzw.
+
+## Uhren
+
+- Kaminuhr. Scheibenfibchen. Ausladender Sockel. Rechteckiger, an den vorderen Kanten abgeschragter Kasten.Ausladender,reich profilierter Rundbogengiebel. Zifferblatt mit geschnittenem Rankenwerk. 17:Jahrhundert.Hohe 35 cm,Breite 23cm,Tiefe 15 cm.
+- 25cm.
+- 468
+- 469 Konsoluhr.Auf vier VolutenfiBen der geschweifte,mit reichem Rokaillenwerk und Blumensticken geschmickte Kasten.Als Bekronung Rose in Rokaillenwerk.Zifferblatt Silber mit aufgelegtem Rankenwerk in Goldbronze.Inschrift:Franz Haeller. Lindenholz,vergoldet. Deutsch. Mitte des 18. Jahrhunderts. Hohe 75 cm, Breite 45cm.
+
+Abbildung Tafel 10.
+
+- 470 Konsoluhr. Auf zwei VolutenfiBen die tellerformige von reichem Rokaillenwerk umrahmte Uhr. Lindenholz, vergoldet. Deutsch.Mitte des 18. Jahrhunderts.Hohe 75 cm,Breite 54 cm.
+- Abbildung Tafel 10.
+- 471 Stander fir Taschenuhr. Putto mit Korb,reiches Rokaillenwerk. Lindenholz, vergoldet. Hohe 33 cm.
+- 472 Taschenuhrstander. Akanthusornament. Lindenholz,vergoldet.18. Jahrhhundert. Hohe 31 cm, Breite 13 cm.
+- 473 Uhrgehause. Auf vier Saulchen das reich profilierte Dach. Lindenholz. 18. Jahrhundert. Hohe 35 cm, Breite 25 cm, Tiefe 15 cm.
+- 474 Drei Uhrenstander. Vollrunde,allegorische Figuren,reiches Rokaillenwerk. Lindenholz,vergoldet. Ende des 18.Jahrhunderts.Hohe 24-30 cm.
+- 475 Kaminuhr.Volutensockel. Hochrechteckiges Kastchen,geschweifter Giebel. Mit Akanthuswerk in reliefierter Schnitzerei.Um 1800.Hohe 34cm,Breite 23 cm,Tiefe 12cm.
+- 476
+- Kaminuhr.Hochrechteckiger Kasten,nach drei Seiten verglast. Zifferblatt mit Blattornamenten und Lorbeergewinden in getriebener Arbeit. Anfang des 19. Jahrhunderts. Hohe 34 cm, Breite 22 cm,Tiefe 12 cm.
+- 477 Kaminuhr. Rechteckige Deckelplatte, auf lyraformigem Ornament der von zwei Delphinen gehaltene runde Uhrkasten. Bronzebeschlage. Anfang des 19. Jahrhunderts:Hohe 35 cm, Breite 27 cm. Abbildung Tafel 7.
+- 478 Konsoluhr. Auf vier FiBchen der querrechteckige Sockel. Auf diesem das quadratische Uhrgehause, mit
+- Amor in Kahn als Bekronungsfigirchen, daneben junger, stehender Mann.Bronze. Anfang des 19. Jahrhunderts. Hohe 37 cm,Breite 29 cm.
+
+Abbildung Tafel 1o.
+
+- 479 Konsoluhr. Querrechteckige Sockelplatte.Auf Akanthusmotiv runder Uhrkasten. Ebenholz. Anfang des 19. Jahrhunderts. Hohe 37 cm, Breite 28 cm.
+- 480 Konsoluhr.Hochrechteckig,leicht iberragender Sockel, am Gesims umlaufende Galerie. Giebel mit Bekronungsvase. Anfang des 19. Jahrhunderts. Hohe 45 cm.
+- Konsoluhr. Rechteckiger Kasten,an den beiden vorderen, abgeschragten Ecken Halbsaulchen.Auf dem Stufen-
+- 481 giebel Traghenkel.Bronzebeschlage. 19. Jahrhundert. Hohe 28 cm, Breite 20 cm,Tiefe 13 cm.
+- 482 Stander fir Taschenuhr. Auf Stufensockel kannelierte von Laubgewinden umschlungene Saule mit Rosen.
+- Uhr mit Putto in Emailmalerei. Breguet, Paris.Anfang des 19. Jahrhunderts. Hohe 35 cm.
+- Kaminuhr. Rechteckiger Sockelkasten,zwischen Saulenarchitektur—Saulen aus Alabaster—die von Voluten-
+- 483 ornament gehaltene runde Uhr. Mitte des 19. Jahrhunderts. Hohe 56 cm,Breite 35 cm.
+- 484 Kleine Standuhr. Hochrechteckig,in Renaissancecharakter. Bronze. Hohe 25 cm,Breite 14 cm.
+- 485
+- 486
+- Telleruhr. Ranken und Frichtegehange in getriebener Arbeit.Im Geschmacke des 18. Jahrhunderts. Hohe
+- 35 cm,Breite 30cm.
+- Telleruhr. Quadratisch. Auf vier KugelfiBchen. Bronze. Hohe 9 cm, Breite 10 cm.
+- 487 Wanduhr. Zifferblatt und Ruickbrett Blumen in bunter Bauernmalerei. Lange 85 cm.
+
+## Geweihe
+
+- Rehkopf. Vollrund. Kartusche mit Voluten und Akanthusschnitzerei. Mit Spuren alter Fassung. 18. Jahr-
+- 488 hundert.Hohe 35 cm, Breite 29 cm.
+- 489 Zwei Hirschkopfe. Vollrund,mit Rokaillenkartusche. Mit Jahrzahl 1759 bzw. 1754.
+- 490 Zwei Rehkopfe. Kartusche mit Frichten und Ranken in reliefierter Schnitzerei. Bunt bemalt. Lindenholz.
+- 491
+- 492
+- 493
+- 494
+- Vierender mit Kopf. Auf Kartusche.Spannweite 62 cm.
+- Neunender mit Kopf. Auf ovaler Kartusche. Spannweite 7O cm.
+- Zehnender mit Kopf. Auf Kartusche.Spannweite 105 cm.
+- Zehnender mit Kopf. Auf Kartusche. Spannweite 58 cm.
+- 495 Zehnender auf Wappenschild. Spannweite 97 cm.
+- 496 Zehnender mit Kopf. Auf Kartusche.Spannweite 92 cm.
+- 497 Zwolfender mit Kopf. Spannweite 89 cm.
+- 498
+- Zwolfender mit Kopf. Akanthuswerkkartusche. Spannweite 7O cm.
+- 499 Vierzehnender mit Kopf.Auf Kartusche. Spannweite 105 cm.
+- Spannweite 100 cm.
+- 500 Vierzehnender mit Kopf.Auf Kartusche.
+- 501 Sechzehnender mit Kopf. Auf Kartusche.
+- Spannweite 105 cm.
+- 502 Sechzehnender mit Kopf. Auf Kartusche. Spannweite 75 cm.
+- 503 Sechzehnender mit Kopf. Auf Kartusche. Spannweite 115 cm.
+- 504
+- Hirschkopf.Vollrund. Auf Kartusche. Hohe 54 cm, Breite 38.cm.
+- 505 Bocksgehorn. Auf runder Platte. Spannweite 19 cm.
+- Spannweite 22-cm.
+- 506 Geweih eines Gnus.Auf runder Platte.S
+- 507 Antilopengeweih. Auf runder Platte. Spannweite S5 cm.
+- 508 Geweih einer Antilope auf Wappenkartusche. Spannweite 43 cm.
+- 509 Zwei Antilopengeweihe. Auf runder Holzplatte. Spannweite 53 cm.
+- 510 Antilopengeweih.Auf Kartusche.Spannweite 53 cm.
+- 511
+- Antilopenhorn. Auf rundem Schild. Lange 65 cm.
+- 512 Zwei Kaffer-Biffelgehorne. Spannweite 90 bzw. 7O cm.
+- 513
+- Zwei Rehgeweihe. Auf rundem Schild Spannweite 10 cm.
+- 514 Zwei Kartuschen mit je sieben Kimmern.Hohe 24 cm, Breite 26 cm.
+## Waffen
+
+## Orientalische und ostasiatische Waffen
+
+- 515 Ristung. Helm mit Maske und vierfach geschobenem Nackenschutz. Harnisch mit vollkommenem Achsel, Arm-und Oberbeinschutz.Japan.
+- 516 Armschiene mit Kettenhandschutz. Figirliche Darstellungen und lineare Ornamente in reliefierter Arbeit. Orient.
+- 517 Kettenhemd.Persisch.
+- Helm. Mit aufgesetztem Gehorn und Mittelspitze. Jagdbilder und Portratmedaillons zwischen Blumenwerk
+- 519 Helm. Blattformige Mittelspitze. Vertikal gerillte Felder. Blattwerk- und Blumenornamente in geatzter und
+- 518 in reichster Reliefierung. Mit Kettengehange und Nasenschutz. Persisch. 17. Jahrhundert.
+- goldtauschierter Arbeit. Mit Nasenschutz und Kettengehange.17. Jahrhundert. Persisch.
+- 521 Rundschild. Mit vier Buckeln,in der Mitte Kreisrund mit Jagdszenen. Um dieses in acht Feldern figirliche
+- 520 Helm. Mit zwei aufgesetzten Hornern und getriebener Maske. Ranken und Blattwerk geatzt, gold- und silbertauschiert. Mit Nasenschutz und Kettengehang.Persisch.17./18. Jahrhundert.
+- Darstellung zwischen Rankenwerk. Um den Rand laufende Ornamentbordire. Persisch.
+- 522
+- durchbrochener Arbeit.Orient.Durchm.23 cm.
+- Faustschild-Madu-Maru. Mit zwei Antilopenhornern. Figuirliche Darstellungen zwischen Rankenwerk in
+- 523 Schwert. Holzgriff mit Tuch umwickelt. Breite, geschwungene Klinge mit geatzten Ornamenten. Holzscheide mit Flechtbandern. Malayisch. Lange 72 cm.
+- 524 Schwert. Holzgriff mit breiter Klinge. Lederscheide. Zentralafrikanisch. Lange 72 cm.
+- Dolchmesser. Holzgriff. Breite, blattformige Klinge. Scheide mit Schlangenhaut bezogen. Afrikanisch.
+- 525 Dolch. Astwerkgriff. Geschwungene, flache Klinge. Suaheli. Lange 27 cm.
+- 526 Lange 55 cm.
+- 527 Wurfmesser. Sogenannter Vogelkopf,mit drahtumflochtenem Griff. Niam-Niam. Lange 32 cm.
+- lappten Blattes.Holzschafte zum Teil mit reliefiertem Flechtbandornament.
+- 528 Sechs Kampfspeere zentralafrikanischer Stamme. Spitze lanzettformig bzw. in Form eines einfachen oder ge-
+- 529 Funf Jagdspeere zentralafrikanischer Stamme. Spitze teils blattformig, teils in Form eines Widerhakens.
+- 530 Dolch. Beingriff in Form einer grotesken Tiergestalt. Breite Klinge, Holzscheide mit Silberbandern. Java. Lange 52 cm.
+- 531 Dolch. Holzgriff, geflammte Klinge.Scheide mit graviertem Rankenwerk. Java. Lange 45 cm.
+- 532 Dolch. Holzgriff mit reliefiertem Rankenwerk. Breite Klinge mit figirlichen Darstellungen. Blechscheide. Sumatra.Lange 55 cm.
+- 533 Holzscheide. Mit Ranken in Flachschnitzerei. Borneo. Lange 6O cm.
+- Lange 66 cm.
+- 534 Streitaxt. Die Beilklinge mit figirlichen Darstellungen zwischen Rankenwerk in reliefierter Arbeit. Indisch.
+- 535 Dolch. Griff mit Nageln beschlagen, breite gebogene, Klinge mit Scheide. Indisch. Lange 50 cm.
+- Kutar. Griff mit zwei Mittelspangen. Breite, spitz zulaufende Klinge. Griff und Klinge mit silbertauschiertem
+- 536 Kutar. Griff mit Doppelspange. Vierkantige Klinge. Lederscheide. Indisch. Lange 42 cm.
+- 537 Rankenwerk.Rote Samtscheide.Indisch.Lange 44 cm.
+- 538 Kutar. Griff mit zwei Mittelspangen. Breite, spitz zulaufende Klinge. Reliefiertes Rankenwerk. Lederscheide. Indisch.Lange 50 cm.
+- 539 Streitaxt.Griff mit tauschiertem Blattwerk. Lederscheide. Persisch. Lange 53 cm.
+- 540 Streitkolben. Griff mit Kugelknauf. Der Kolben mit Spitzen besetzt.Tauschiertes Blatt-und Rankenornament.
+- Persisch.Lange 72 cm.
+- 541 Kurzer Sabel. Beingriff mit bunten Steinen besetzt. Leicht geschweifte Klinge. Persisch. Lange 7O cm.
+- 542 Dolchmesser. Beingriff. Spitze der Klinge goldtauschiert. Persisch. Lange 31 cm.
+- 543 Dolchmesser.Holzgriff,breite, spitz zulaufende Klinge,doppelt geschliffen. Scheide mit aubbordure in blauem
+- Cloisonne. Persisch. Lange 53 cm.
+- 544 Dolch. Drahtumflochtener Griff mit Kugelknauf. Stichplatte. Geflammte Klinge. Persisch.
+- Dolch. Breiter Beingriff. Spitz zulaufende Klinge. Auf dem Ruicken der Klinge goldtauschierte Schriftzeichen.
+- 545 Persisch.Lange 42 cm.
+- Dolch. Doppelt eingezogener Griff. Mit silbertauschiertem Laub- und Gitterwerk. Scheide mit figurlicher
+- 546 Darstellung und Schuppenmuster.Persisch. 18. Jahrhundert.
+- Schwert. Beingriff. Mit aufgelegten Steinen. Klinge: Mit Schriftzeichen und geatzten Ranken. Rote Samt-
+- 547 scheide. Persisch.Lange 78 cm.
+- 548
+- GroBes,breites Schwert. Schwarzer Horngriff.Auf der Klinge figirliche Darstellungen zwischen Rankenwerk in gravierter Arbeit. Lederscheide Persisch. Lange 115 cm.
+- Kurzes Schwert. Holzgriff mit reliefiertem Vogelkopf. Holzscheide. Leicht geschweifte Klinge. Geatztes
+- 549 Rankenwerk.Mit Namensinschrift und Jahrzahl 1887. Orient. Lange 74 cm.
+- 550 Kurzes Schwert. Griff mit Elfenbeinschnitzerei und Perlmuttereinlage. Klinge geschweift und ausgeschnitten.
+- 551
+- Holzscheide mit buntem Perlenbelag. Orient. Lange 72 cm.
+- Schwert. Gerader Griff mit Parierstange mit breiter, zum Griff in stumpfem Winkel stehender Klinge. Orient.
+- Lange 76cm.
+- 552 Kleiner Dolch. Griff, Scheide und Klinge mit tauschiertem Gitter- und Ornamentwerk. Orient.Lange 25 cm.
+- 553 Kleiner Dolch. Achtseitiger Griff. Lederscheide und Zwinge mit reliefiertem Blattwerk. Orient. Lange 30 cm.
+- 554 Zwei Dolchmesser. Horngriff. Klinge mit figirlicher Darstellung und Rankenwerk in geatzter Arbeit. Ein Messer mit Lederscheide.Orient.Lange 60 cm.
+- 555 Dolchmesser.Schrag gerillter,mit Leder bezogener Griff,runde Parierplatte,breite Klinge. Mit Lederscheide. Orient.Lange 60 cm.
+- 556 Streitaxt. Langer, sechsseitiger Stil. Doppelte, geflammte StoBklinge. Das Beil mit figurlichen Darstellungen und Ranken in gravierter Arbeit.Orient.Lange 120 cm.
+- 557 Schlachtaxt. Mondformige Beilklinge mit silbertauschiertem Blatt-und Ornamentwerk. Orient. Lange 70 cm.
+- 558 Bogen. Gelb, grin und rot bemalt. Orient.
+- 559 Kocher. Mit rotem Samt bezogen. Mit 16 Pfeilen.Orient.
+- 560 Zierdolch. Aus aufgereihten, chinesischen Minzen gebildet. Ostasien. Lange 45 cm.
+- 561 Schlachtbeil. Figirliche Darstellungen und Ranken in orientalischem Geschmack. Lange 100 cm.
+- Feuersteinbichse. Schaft mit Metall- und Perlmuttereinlagen. Siebenseitiger Lauf mit reliefierten Silber-
+- 562 bandern.Janitscharengewehr.18. Jahrhundert.
+- Feuersteinpistole. Langer,runder Lauf. Zum dreimaligen Auswechseln. Holzschaft mit eingelegtem Ranken-
+- 563 werk in Silber. Turkmenisch. Wohl 18. Jahrhundert. Lange 59 cm.
+- 564 Feuersteinbichse. Langer Lauf. Metallteile. Mit geatzten Ornamenten. Arabisch.
+- 565 Feuersteinpistole.Holzschaft mit zapfenformigem Knauf,Frichtewerk,Tiergrottesken und Blumenornamenten. Persisch.Lange 65 cm.
+- 566
+- Feuersteinpistole. Holzgriff,mit Silberdraht umwickelt. Blumenornamente in eingelegter Beinarbeit. Orient.
+- Lange 45 cm.
+- Zwei Feuersteinpistolen. Oben sechseckiger,unten runder Lauf SchloB mit reliefiertem Akanthuswerk. Eben-
+- 567 holzschaft mit eingelegten Ranken in Silber. Orient. Lange 40 cm.
+- 568 Feuersteinpistole. Schaft mit eingelegten Elfenbeinornamenten. Orient. Lange 40 cm.
+
+## Europaische Waffen
+
+- 569 Morion. Auf den Breitseiten Bourbonenlilie in getriebener Arbeit.Ende des 16. Jahrhunderts.
+- 570 Morion. Auf den Breitseiten Palmetten- und Buckelmuster in getriebener Arbeit. Ende des 16. Jahrhunderts.
+- 571
+- Ristung. Sturmhaube mit zweifach geschobenem Nackenschutz und Visier.Kragen,Brust und Ricken.Achseln, finffach geschobener Oberarm. Vollstandiges Armzeug mit Handschuhen.Vollstandiges Beinzeug. Sechsfach geschobenes Oberbeinzeug. Beinrohre und Schuhe (Kuhmauler) mit Schwert. Im Stile des spaten 16. Jahrh.
+- 572 Ristung. Sturmhaube mit hohem Kamm und Visier. Dreimal geschobener Hals, Brust und Ricken, zweimal geschobene Achsel, volstandiges Armzeug mit Handschuhen.Volstandiges Beinzeug. Oberbeinzeug sechsmal geschoben, Kniestick zweimal geschoben. Beinrohre und Schuhe. Mit Schwert. Im Stile des frihen 17. Jahrhunderts.
+- 573 Schwarze Pikenierristung. Sturmhaube, Brust und Ricken, sechsmal geschobene Achseln. Armzeug, Ober-
+- beinzeug zwolfmal geschoben. Im Geschmack der ersten Halfte des 17. Jahrhunderts.
+- 574
+- 575 Zwei Steigbigel. Innenseite mit Perlmuttereinlage. Die aubere, gebuckelte Seite mit reliefiertem Rankenund Akanthuswerk.17.Jahrhundert.
+- Kopfteil aus einer Pferderistung. Gerillt, mit starker Mittelrippe. Um die Augenlocher stark getriebenes Tauwerkornament.Zwischen den Augen aufgesetzte Wappenkartusche.17.Jahrhundert.
+- 576 Schild. Oval, gegen unten zugespitzt. Im Mittelfeld Kampfszene. Diese wird umrahmt von Bandornament
+- mit figirlichen Darstellungen,Kriegstrophaen und Frichtesticken.Reich reliefierte Arbeit im Geschmacke des 17.Jahrhunderts.
+- 577 Sechs Sturmhauben. Haube zum Teil mit Mittelrippe. Hals und Augenschirm und Ohrenschutz. Deutsch. 17.Jahrhunderts.
+- 578
+- Sieben Sturmhauben. In ahnlicher Ausfuihrung.
+- Vier Sturmhauben.Haube gerippt,mit vierfach geschobenem Nackenschutz,Augenschild, Nasenund hren-
+- 579 schutz.Einer mit Marke:W.Deutsch.17. Jahrhundert.
+- 580 Sturmhauben. Mit hohem Mittelkant,auf beiden Seiten aufklappbar, Augenschild. 17. Jahrhundert.
+- 581
+- Funf Pulverhorner.17. Jahrhundert.
+- 582
+- Bayer. Kirsassierharnisch.19. Jahrhundert.
+- 583 Bayer.Kirassierharnisch.19. Jahrhundert.
+- 584.Bayer. Kirassierharnisch.19. Jahrhundert.
+- 585
+- Bayer. Kirassierhelm mit Raupe. 19. Jahrhundert.
+- 586
+- 587
+- Bayer. Artilleriehelm.19. Jahrhundert.
+- PreuBischer Artilleriehelm.19. Jahrhundert.
+- 588 Garde-Kirassierhelm. Aus der Zeit Napoleons III.
+- 589 Franzosischer Harnisch. Auf der Brustseite Adler in Lorbeergewinde.Anfang des 19. Jahrhunderts.
+- 590 Rickenteil eines franzosischen Harnisches. 19. Jahrhundert.
+- 591
+- Zwei franzosische Tschakos des Artillerie-Reg.45.Mitte des 19. Jahrhunderts.
+- 592
+- Franzosischer Pompierhelm.19. Jahrhundert.
+- 593 Drei franzosische Patronentaschen. 19. Jahrhundert.
+- 594
+- Vier franzosische Feldflaschen. Darunter eine der Fremdenlegion. 19. Jahrhundert
+- 595 Tornister eines Infantterieoffizieres. 19. Jahrhundert.
+- 596
+- Konvolut von verschiedenen Achselsticken.19. Jahrhundert.
+- 597
+- Schottenmitze.19.Jahrhundert.
+- 598 Ruckenstick eines Harnisches.
+- 599 Sieben Brustteile von Harnischen. Einer mit Ruickenstick.
+- 600 Sieben Brustteile von Harnischen.
+- 601 Badische Trommel. 19. jahrhundert.
+- 602
+- Hirschfanger. Hirschhorngriff.Gerade Parierstange.Auf der Klinge Rankenwerk und Jagdbilder in geatzter Arbeit. Jahreszahl 1515. Lange 72 cm.
+- 603 Zweihandiges Ritterschwert. Kugelformiger Knauf. Lederbezogener, in der Mitte gekropfter Griff: Flache,
+- gerade Parierstange mit durchbrochenem Ornament. Flache Klinge mit Blutrinne. Deutsch. 16. Jahrhundert. Lange 115 cm.
+- Hellebarde. Beilklinge halbmondformig, Haken in Form einer Sichel. StoBklinge gewellt und lanzettformig.
+- 604 Gitter- und Rankenwerk in reicher Atzung. 17. Jahrhundert.
+- 605 Hellebarde. Doppelseitig eingezogene Beilklinge. Lilienformiger Haken. Spitze, lange StoBklinge. Akanthuswerk und Bandornamente in reicher Atzarbeit. Holzschaft.17. Jahrhundert.
+- 606 Hellebarde. Beilklinge geschweift. Haken halbmondformig. Halbmondformige StoBklinge. Akanthus- und
+- Rokaillenwerk, Trophaen in reicher Atzung.Holzschaft.17. Jahrhundert.
+- 607 Hellebarde. Saufeder. Lanzettformige,flache Klinge mit Mittelrippe. Mit Quergriff. Holzschaft. Mit Marke.
+- 17.Jahrhundert.
+- Hellebarde. Flache,kurze StoBklinge,gekrimmter Haken und halbmondformige Beilklinge. Graviertes Ranken-
+- 608 werk.Tille mit Nodus.17. Jahrhundert.
+- Hellebarde. Runde Tille. Spitzer bzw. gekrimmter Haken. Messerformige StoBklinge mit Rokaillen- und
+- 609 Akanthuswerk in geatzter Arbeit.Holzschaft.17. Jahrhundert.
+- 610
+- Hellebarde. Zwei bohmische Ohrloffel. Die beiden Ohren halbkreisformig,reich profiliert. Kurze, flache StoBklingen mit Mittelrippen.Kriegstrophaen in gravierter bzw. geatzter Arbeit,Holzschaft. 17. Jahrhundert.
+- 611 Hellebarde. Zwei bohmische Ohrloffel. Die beiden Ohren halbkreisformig. Flache, kurze StoBklinge mit Mittelrippe. Runde, gekropfte Tille. Auf den Ohren Wappen mit Kardinalshut. In reicher Gravierarbeit. Holzschaft.17.Jahrhundert
+- 612 Hellebarde. Beilklinge beiderseits eingezogen, geschweift, Haken in Form eines Dreizacks. StoBklinge flach, spitz zulaufend. Akanthus-und Gitterwerk,Kriegstrophaen in reicher Atzung. Holzschaft. 17. Jahrhundert.
+- 613 Hellebarde. Beilklinge beiderseits eingezogen, halbmondformig. Auf Ruck-und Vorderseite tauschierte Wappenkartusche.Haken in Form zweier spitzer Spiralen. Lange StoBklinge.Holzschaft mit Quaste. Anfang des 17.Jahrhunderts.
+- 614 Hellebarde. Beilklinge. Beiderseits eingezogen,gerader, stark gekrimmter Haken. Kurze, flache StoBklinge.
+- Ranken- und Blumenwerk in reicher Atzarbeit. Holzschaft.Ende des 17. Jahrhunderts.
+- Zwei Hellebarden. Kurze,vierkantige StoBklinge. Spitzer Haken, gerade bzw. stark geschweifte Beilklinge.
+- 615 Holzschaft.17. Jahrhundert.
+- 616 Zwei Hellebarden. Gerade Beilklinge,spitzer Haken,vierkantige,lange StoBklinge.Eine mit durchbrochenem Laubornament und reliefiertem Blumenmuster auf der Tuille.Holzschaft.i7. Jahrhundert.
+- 617
+- Drei Hellebarden.17. Jahrhundert.
+- Drei Hellebarden. a) und b) Mit flacher StoBklinge,mit Mittelrippe und zwei in drei Zacken endigenden Haken.
+- 618 c) Lange,blattformige StoBklinge,zwei spiralenformige Haken. Holzschafte. 17.Jahrhundert.
+- Finf Hellebarden.Beilklinge beiderseitig, teils halbmondformig,teils gerade. Mit durchbrochenen Ornamenten.
+- 619 Haken reich gegliedert. Mittellange StoBklinge.Holzschafte zum Teil neu.17. Jahrhundert.
+- Sechs Hellebarden. Beilklinge und Haken in reich geschweifter,verschiedener Form. StoBklinge breit,flach,
+- 620 mit Mittelrippe. Holzschafte zum Teil neu, mit Quasten.
+- 621 Sieben Hellebarden.Beilklinge beiderseits eingezogen,halbmondformig,mit reich durchbrochener Ornamentik. Der Haken reich gegliedert in verschiedener Form. Lange StoBklinge. Holzschafte zum Teil neu. 17. Jahrhundert.
+- StoBklinge.17. Jahrhundert.
+- Drei bohmische Ohrloffel. Die beiden Ohren halbkreisformig, zum Teil reich profiliert. Kurze, flache StoB-
+- 622 klinge mit Mittelrippe.17. Jahrhundert.
+- 623
+- JagdspieB. Flache, breite Klinge. Holzschaft. 17. Jahrhundert.
+- 624 Zwei JagdspieBe. Mit langer vierkantiger Spitze. Neuer Holzschaft. 17. Jahrhundert. Lange 165—190 cm.
+- 625 Vier JagdspieBe. Mit blattformiger Spitze und Holzstange,eine mit tauschiertem Rankenwerk.17. Jahrhundert. Lange 128-210 cm.
+- 626 Zwei JagdspieBe. Saufeder. Breite, ausgeschnittene Klinge, runde Tille, eiserner Knebel. Holzschafte. Ende des 17.Jahrhunderts.
+- 627 Zwei JagdspieBe. Saufeder. Lange, lanzettformige Klinge mit Mittelrippe. Runde Tille. Holz- bzw. Eisenknebel. Holzschaft mit Lederriemen umwickelt.
+- 628 Drei JagdspieBe. Spitze blattformig gerippt, mit Ricken,Holzstange.Lange 200 cm.
+- 629
+- Finf JagdspieBe. Mit langer, breiter Spitze. Zum Teil mit Quasten. Holzschaft. Lange 200230 cm.
+- 630 Richtschwert. Holzgriff mit Kugelknauf. Gerade Parierstange. Doppelt geschliffene Klinge. Inschrift: Justitia
+- mit Jahrzahl 161l.Mit Holzscheide.
+- 631
+- 632
+- 633
+- 634
+- hunderts. Lange 105cm.
+- Korbschwert. Kugelformiger Knauf, gitterformiger Korb. Frihes 17. Jahrhundert. Lange 100 cm.
+- in kleine Kugeln endigend.17. Jahrhundert. Lange 103 cm.
+- Kurzes Schwert. Quer geriefelter Holzgriff. Flache Klinge. 17. Jahrhundert. Lange 8O cm.
+- 635 Kurzes Schwert. Drahtumflochtener Griff. Ornamentierter Knauf. Gerade,in runde Scheiben endigende
+- 636 Kurzes Schwert. Runder Holzgriff mit Kugelknauf. S-formige Parierstange. Gerade Klinge mit Blutrinne.
+- 637
+- 638 Streitaxt. Griff lederumflochten. Mit linearen Ornamenten.17. Jahrhundert. Lange 50 cm.
+- 639
+- Hirschfanger.Beingriff,mit reliefierter,figirlicher Darstellung.Klinge mit geatztem Jagdbild zwischen Ranken.
+- Jahrzahl 1639. Lange 72 cm.
+- 640 Dolch. Runder, gerillter, mit Draht umflochtener Griff. Leicht nach unten gebogene Parierstange. Klinge mit Mittelrippe.17. Jahrhundert.
+- 641 Zwei Dolche.a) Drahtumflochtener Griff. S-formige Parierstange. b) Holzgriff. Durchbrochene, runde Stich-
+- 642
+- platte.17. Jahrhundert. Lange 36 cm.
+- Lange 72 cm.
+- Hirschfanger. Hirschhorngriff. Mit Muschelornament.  Breite, gerade Klinge. Spates 17. Jahrhundert.
+- 643 Lange 66 cm.
+- 644
+- Hirschfanger. Messinggriff. Mit reliefiertem Rokaillenwerk und Elfenbeineinlagen. Gerade Parierstangen. Auf der geschweiften Klinge figirliche Darstellungen in Atzung. Lange 55 cm. 18. Jahrhundert.
+- 645 50cm.
+- 646 Zwei Dolche. Drahtumflochtener Griff, Kugelknauf. Ovale Stichplatte. Vierkantige, konkav eingezogene Klinge mit geatztem Ranken- und Figurenwerk. 17.18. Jahrhundert. Lange 38 cm.
+- 647
+- Zwei Dolche. Drahtumflochtener Griff; geschweifte Parierstange, spitz zulaufende Klinge. Lange 35 und 30 cm.
+- 648
+- 649
+- Dolch. Horngriff mit geschnitzten Blattranken. Zwinge und Klinge mit ebensolchen in reliefierter Arbeit. Holzscheide.Lange 40 cm.
+- Dolchmesser. Schwarzer Horngriff, auf der Klinge tauschiertes Jagdbild. Lederscheide.Lange 54 cm.
+- 650 Sabel. Lederumwickelter Griff. Mit Parierstange. Klinge mit goldtauschierten,figirlichen Ornamenten. Mit Wahlspruch.Lederscheide.17. Jahrhundert.Lange 115 cm.
+- 651 Kurzer Sabel. Beingriff. Gerade, profilierte Parierstange. Mit Muschelornament. Geschweifte Klinge. Lederscheide. 17. Jahrhundert. Lange 72 cm.
+- Kurzes Schwert. Griff mit Draht umflochten. Kugelformiger Knauf. Gerade Parierstange, flache Klinge.
+- 652 Lange 50cm.
+- 653
+- Zwei Hellebarden und ein Bajonett. a) Breite,blattformige StoBklinge. b) Lange, vierkantige StoBklinge. c) Auf der Klinge geatztes Wappen.16. bzw. 19. Jahrhundert.
+- 654 Kurzes Schwert. Drahtumflochtener Griff.Gerade Parierstange.Klinge mit Rokaillenornament und Jahrzahl 1714.Lange 34 cm.
+- Franzosischer Degen. Holzgriff mit Hahnenkopf. Parierstange mit reliefiertem Rokaillenwerk. Mit Leder-
+- 655 scheide.18. Jahrhundert.
+- 656 Degen. Holzgriff mit Spange und Kugelknauf. Auf der Stichplatte und der Klinge tauschiertes Blattwerk.
+18. Jahrhundert.Lange 92 cm.
+- 657 Degen.Griff mit Silberdraht umflochten. Gerade Parierstange mit Muschelornament. 18. Jahrhundert.
+- 658
+- Franzosischer Degen. Drahtumflochtener Griff,Kugelknauf. Stichplatte. Lederscheide. Mit Namensinschrift. 19.Jahrhundert.Lange 95 cm.
+- Funf franzosische Kavalleriesabel. Mit Messingkorb und Scheide. Namensinschriften aus den Jahren 1812
+- 659 bis 1815.
+- 660 Drei franzosische Sabel. Mit Scheide. Parierkorb mit Namensinschriften aus den Jahren 1845 und 1822.
+- Parierstange. Breite Scheide mit Blutrinne. 17. Jahrhundert. Lange 58 cm.
+- Lederscheide. Spates 17. Jahrhundert.Lange 80 cm.
+- 661 Franzosischer Sabel. Mit Scheide. Einfache Parierstange. Namensinschrift und Jahreszahl 1849.
+- 662 Vier franzosische Seitengewehre. Zwei mit Scheide. Mit Namensinschrift. Mitte des 19. Jahrhunderts.
+- 663
+- Vier franzosische Offizierssabel. Mit Scheide. Parierplatte mit reliefiertem Laub- und Rankenwerk. Mitte
+- des 19. Jahrhunderts.
+- 664
+- Franzosischer Offizierssabel. Horizontal gerillter Griff,mit vollrundem Vogelkopf. Parierkorb. Mit Scheide. 19. Jahrhundert.
+- Vier franzosische Seitengewehre. Messinggriff mit Ring- und Schuppenornament. Lederscheide. Mitte des
+- 665 19. Jahrhunderts.
+- 666 Kurzer Sabel. Messinggriff mit Parierstange. Geschweifte,breite Klinge. 19. Jahrhundert.
+- 667
+- Zwei Bajonette. 19. Jahrhundert.
+- 6682 Zwei Sabelscheiden.19. Jahrhundert.
+- 669
+- Kleine Kanone. Das Rohr fehlt. 17. Jahrhundert. Hohe 70 cm,Lange 180 cm.
+- 670 Feuersteinpistole. Runder, gegen die Miindung glockenformig sich erweiternder Lauf. Mit reliefiertem Trophaenwerk. SchloB mit Akanthusranken in geatzter Arbeit. Schaft reliefiertes und eingelegtes Rankenwerk. Ende des 17.Jahrhunderts.Lange 47 cm.
+- 671 Feuersteinbichse. Langer, runder Lauf. Holzteil mit reliefierten Ranken. Beschlagewerk an der dem SchloB entgegengesetzten Seite. Mit reliefiertem Akanthusblatt. Deutsch. 17./18. Jahrhundert. Lange 240 cm.
+- 672 Zwei Armbriste. Mit Perlmutter- bzw. Beineinlegearbeit. 17. Jahrhundert. Lange 70 bzw. 65 cm.
+- 673 Zwei Armbriste mit Bolzen.Holz. Stark beschadigt.
+- 674
+- atzter Arbeit. Schaft und Kolben mit Beineinlagen.Frihes 18. Jahrhundert.
+- 675 Feuersteinbichse. Achtseitiger Lauf. SchloB mit reliefiertem Jagdbild zwischen Akanthus- und Voluten-
+- werk. Inschrift: Anton Kollneger.Deutsch.18. Jahrhundert.
+- Feuersteinbichse. Sechsseitiger, gegen die Mindung runder, flachgedrickter Lauf. Mit Monogramm: F. L
+- 676 B.L.18.Jahrhundert.
+- 677 Feuersteinpistole. Runder Lauf. SchloB mit reliefierten Ranken und Kriegstrophaen. Abzugbugel und Knauf
+- mit Akanthusornament und Maskarons in reliefierter Arbeit.18. Jahrhundert. Lange 43 cm.
+- Feuersteinpistole. SchloB mit reliefierten Rokaillen und figirlichen Darstellungen.An der Gegenseite des Schlosses, dem Knauf und Abzugbigel Messingblechbeschlage mit gravierten bzw.reliefierten Ranken,Maskarons
+- 678 und figirlichen Darstellungen. Mitte des 18. Jahrhunderts. Lange 43 cm.
+- 679
+- Pistole. Auf dem Schaft reliefierte Rokaillen.Messingbeschlage mit reliefiertem Rankenwerk. 18. Jahrhundert.Lange 52cm.
+- Feuersteinbichse. Siebenseitiger Lauf. Kolben und Schaft mit reliefiertem Laub-und Blumenwerk. SchloB und Beschlage mit Jagdbild.Voluten,Rokaillen-und Gitterwerk in geatzter Arbeit. Namensinschrift: Johann
+- 680 Georg Dinkel,Freysing.Deutsch.18. Jahrhundert.
+- 681
+- Feuersteinbichse. Runder Lauf, auf dem Schaft reliefiertes Rokaillenwerk. Metallteile mit geatztem bzw. goldtauschiertem Blatt-und Rankenwerk.18. Jahrhundert.
+- 682 Franzosische Feuersteinpistole. Mit Namensinschriften. Ende des 18. Jahrhunderts.
+- 683 Feuersteingewehr.
+- 684
+- Jagdgewehr. Schaft mit reliefiertem Rokaillen- und Rankenwerk. Die Beschlageteile in ahnlichem Dekor. Ende des 18. Jahrhunderts.
+- Pistole. Mit reliefiertem Blumenwerk. Perlmuttereinlagen und Monogramm: J. P.mit Krone. Deutsch. Frihes
+- 685 19.Jahrhundert.Lange 40 cm.
+- 686 Deutsches Gewehr.1843. Amberg.
+- 687
+- Zwei franzosische Armeerevolver. Mit Namensinschriften aus dem Jahre 1846
+- 688 Zwei englische Karabiner.Aus den Jahren 1864.
+- 689 Englisches Infanteriegewehr. Aus dem Jahre 1864.
+- 690 Franzosisches Infanteriegewehr. Aus dem Jahre 1866.
+- 691 Franzosisches Infanteriegewehr. 1868.
+- 692 Deutsches Infanteriegewehr.Mit Bajonett. 19. Jahrhundert.
+- 693 Zwei franzosische Armeepistolen. Mit Namensinschriften. Erste Halfte des 19. Jahrhunderts.
+- 694 Zwei franzosische Karabiner, 19. Jahrhundert.
+- 695 Franzosischer Karabiner.19. Jahrhundert.
+- 696
+- 697
+- 698
+- 699
+- Zwei Revolver. Mit eingelegtem Blattornament. Deutsch. 19. Jahrhundert.
+- 700 hundert. Lange 30 cm.
+- 701 Jagdgewehr.
+- Doppellauf. Metallteile mit geatztem Rankenwerk.
+- 702 Jagdgewehr. Holzteile mit reicher Reliefschnitzerei. Metallteile geatzt. Namensinschrift: Rieger, Minchen.
+- 703 Revolver.Doppellauf, modern.
+- Franzosischer Karabiner.19. Jahrhundert.
+- Franzosisches Infanteriegewehr. Mit Fabrikmarke.19. Jahrhundert.
+
+## Textilien
+
+- 704 Gobelin,Tenierszene. In der Mitte des Vordergrundes tanzende Bauern auf Wiesenplan. Links alter Mann mit Hund. Rechts Dudelsackpfeifer und zwei rauchende Bauern.Den Hintergrund fillt eine bergige FluBlandschaft mit Dorfern und Schlossern. Bordire mit Akanthusornament. In bunten, frischen Farbentonen. Erstes Viertel des 18. Jahrhunderts.Breite 410 cm,Hohe 245 cm. Abbildung Tafel 11.
+- 705 GroBer Perserteppich. Innenfeld mit vier hochrechteckigen,von Haken und Spiralenwerk gefillten Sechsecken in Rot, Blau und Fraise. Dreifache Randbordire in ahnlichem Dekor, von weiBen Linien gefaBt. Lange
+- 340 cm,Breite 194cm.
+- 706 GroBer Teppich. Auf rotem Grund zwei Bordiren,mit je sechs achtseitigen von Hakenwerk gefillten Ornamenten in Dunkelblau. Dreiteilige Bordire in ahnlichem Dekor. Schmalseiten mit Fransenbesatz. Hohe 310 cm, Breite 250cm.
+- 707 Perser Teppich. Innenfeld:Lineare Ornamente und Hakenwerk in Blau auf rotem Grund. Dreifache Randbordire in ahnlichem Dekor mit weiBen Trennungslinien. An den Schmalseiten mit Fransen besetzt. Lange 356 cm, Breite 160 cm.
+- 708 Kleiner Perserteppich. Innenfeld Rautenmuster in Blau und Rot mit weiBer Zackenbordire gefaBt. Dreifache Randbordire mit linearen Ornamenten und Hakenwerk. Persisch. Beschadigt. Lange 120 cm,Breite 77 cm.
+- 709
+- Stick eines Taschenteppichs. Innenfeld mit Fliesenmuster in Dunkel und Hellrot auf blauem Grund. Ahnliche Bordire.Persisch.62X53cm.
+- 710 Laufer. Im Innenfeld:Reich stilisiertes Hakenwerk in Rot auf blauem Grund. Dreiteilige Bordire mit buntfarbigen,linearen Ornamenten auf rotem Grund. Kleinasiatisch.Lange 360 cm,Breite 120 cm.
+- Zwei Turbehange. Auf braunem,mit linearen Ornamenten gefilltem Grund Zackenmuster in WeiB. Am Rand
+- 711 sieben durchschnittene Vielecke in Braun,Rot und Blau. Kleinasiatisch. 320 X 68 cm.
+- 712 Sticke eines Taschenteppichs. Hakenwerk in Rot auf blauem Grund. Schmale, weiB und rote Bordire. Klein-
+- asiatisch.60X53cm.
+- 713
+- Gebetsteppich.Rotes,gegiebeltes Mittelfeld,breite Bordire mit linearen Ornamenten und Hakenwerk gefilt. Lange 125 cm, Breite 100 cm.
+- 714 Kleiner Teppich. Innenfeld mit Fliesen-und Sternmuster in Rot und Blau auf gelbem Grund. Doppelte Bordire, laufende Blumenranke und Hakenwerk,stark defekt.165-100 cm.
+- 715 Decke. Roter Seidendamast mit groB stilisiertem Blumenornament. Aus mehreren Sticken zusammengesetzt. Mit Goldfransenbesatz.17.18. Jahrhundert.Lange 200 cm, Breite 74 cm.
+- Rauchmantel. Goldbrokat. Buntfarbige Blumen mit Blattwerk in Gold auf weibem Seidengrund. Aus verschiedenen Teilen zusammengesetzt. Mit Goldborte gefaBt.Zum Teil stark zerschlissen.18. Jahrhundert.
+- 7161 118×270cm.
+- Decke.Innenfeld blauer,weiBer und blauer Seidendamaststreifen. Auf dem Mittelstreifen Wappen in Seidenstickerei. Bunte Bordire mit Fransenbesatz. Bordire und Fransenbesatz modern, Mittelfeld 18. Jahrhundert.
+- 717 Lange 185cm,Breite 130 cm.
+- 718 Deckchen. Buntfarbiges Blumenmuster auf hellbraunem Grund. Queroval mit Goldbortenbesatz. Aus ver-
+- schiedenen Teilen zusammengesetzt.18. Jahrhundert. 95X55 cm.
+- 719 Kleines Deckchen. Seidendamast auf fraisefarbenem Grunde,buntes Nelkenmuster und Blattwerk in Gold.
+- Stark zerschlissen.18.Jahrhundert.58X52cm.
+- Zwei kleine Deckchen.a) Griner Seidendamast. Blumen in Rankenwerk, mit Silberspitzenbesatz. 48 X 48 cm.
+- 720 b) Buntes Blumenornament auf fraisefarbenem Grund. 45X40 cm.18. Jahrhundert.
+- 721 Drei kleine Deckchen. Seidendamast. Ornament- und Blattmuster in Silber auf rotem Grund.18. Jahr-
+- hundert.Lange 26—50 cm,Breite 25cm.
+- 722 Ein Stuick Seidendamast. Bunte BlumenstrauBe auf hellbraunem Grund. Zusammengesetzt. Teilweise mit
+- Fransenbesatz. Ende des 18. Jahrhunderts. Lange 165 cm, Breite 100 cm.
+- 723 Zwei SchoBrocke und eine Weste. Die Rocke in schwarzem bzw.braunem Tuch, die Weste weiBe Seide. Blumen
+- in bunter Seidenstickerei.18. Jahrhundert.
+- 724
+- a) Miederleibchen. Griner,buntgestreifter Seidendamast, Goldspitzen, silberne Knopfe. 19. Jahrhundert. b) Weste.Roter Seidentaft mit Ranken.18. Jahrhundert.
+- Kleines Deckchen. WeiBer Seidendamast. Epheuranken und Windenmuster. 35 X 35 cm. Anfang des 19. Jahr-
+- 725 hunderts.
+- 726 Decke. Schwarzer Seidengrund mit Streifen in Rotviolett,mit Goldborten gefaBt. 19. Jahrhundert. 120X
+- 120cm.
+- 727 Reisetasche.Vorderseite Jagdbild, Rickseite BlumenstrauBe in bunter Straminstickerei. Deutsch. Mitte des 19.Jahrhunderts.
+- 728
+- Straminstickerei. Brustbild eines Mannes im Profil nach rechts.In Biedermeierrahmen,unter Glas. Mitte des 19. Jahrhunderts.20X14 cm.
+- 729 Perlstickerei. FluBlandschaft mit Bauernhaus. Unter Glas, gerahmt. Mitte des 19. Jahrhunderts. 18 X 15 cm.
+- 730 Taschchen. Bunte Perlstickerei. Blumenbordiren und Landschaft. Mitte des 19. Jahrhunderts. Hohe 14 cm, Breite 10 cm.
+- 731 Taschchen. Bunte Perlstickerei. Figirliche Darstellung und Blumenstick. Mitte des 19. Jahrhunderts. Hohe 13cm,Breite 12cm.
+- 732 Kleines Deckchen. Buntes Rosen-und Rankenornament. 19. Jahrhundert. Mit Goldborte gefaBt. 49 X 60 cm.
+- 733
+- Musterfleck.19. Jahrhundert. Lange 1m,Breite 25 cm.
+- 734 Kirchenfahne. Auf rotem Tuch Kelch mit Krone zwischen Lorbeerkranz in bunter Wollstickerei. Dreilappig.
+19. Jahrhundert. Breite 120 cm,Lange 160 cm.
+- Zwei Kissen. Seidendamast in Gelb und Rot, Blumenornament. Mit Goldborten. Aus verschiedenen Teilen
+- 735 zusammengesetzt. Zum Teilmit Seidenfransen.40X40 cm bzw.40X55 cm.
+- Zwei Seidenstickereien. GroBstilisiertes,buntes Blumenmuster auf braungelbem Seidengrund. Ein Stick von
+- 736 Goldbordire umsaumt. Das ungesaumte stark beschadigt. 55 X 65 cm.
+
+## Ostasiatisches Kunstgewerbe
+
+- Sitzender Buddha. Mit Krone,linke Hand segnend. Bronze. Vergoldet. Hohe 35 cm.
+- 737
+- 738 Buddha mit Kind. Sitzend. Mit Spuren alter Vergoldung. Bronze. Hohe 38 cm.
+- 739 Buddhapriester auf Hirsch -reitend. Hohe 17 cm.
+- 740 Statuette der Gottin Kwanyin. Stehend, auf Blumenornament, runder Sockel. Ostasien.
+- Ostasien.Hohe 5 cm.
+- 741 Sitzender Damon mit Biene.
+- 742
+- Schale. Auf SchnorkelwerkfuB, quadratische Schale. Bronze. Ostasien. Hohe 13 cm, Durchm. 16 cm.
+- 743 Schulter des Korpers bunte Cloisonne-Bordire. Ostasien. Hohe 20 cm, Durchm. 15 cm.
+- 744 Runde Schissel. Buntfarbiges Blumen- und Rankenornament auf hellblauem und grinem Grund. Cloisonne.
+- Ostasien. Hohe 18 cm,Durchm. 36 cm.
+- Deckelvase. Runder FuB,Kugelbauchung, Deckel mit Hund des Foh als Bekronung. Dekor:Auf vier Feldern
+- 745 figirliche Darstellungen, buntes Blumen- und Rankenwerk. Cloisonne. Ostasien. Hohe 33 cm.
+- 746 Vase. Rechteckiger Sockel, vierseitige, weit ausladende Bauchung. Eingezogener Hals. Um Sockel, Hals und Leibung groteske Rankenbordire in buntem Cloisonne. Ostasien. Hohe 34 cm.
+- 747 Vase.Auf vier geraden FiBen,kugelformige Bauchung. Dekor:Fische und Wasserpflanzen in reliefierter Arbeit. Auf dem Deckel vollrunde Schildkroten und Felsblock. Bronze. Ostasien. Hohe 39 cm, Durchm. 25 cm.
+- 748 Stehender Buddhapriester.Vollrund. Speckstein.Ostasien. Hohe 11,5 cm.
+- 749 Lackdose. Auf drei KlauenfiBchen kirbisformiger Korper. Zwischen Blatt- und Rankenwerk auf sechs Reserven Chinesenszenen in Gold auf schwarzem Lackgrunde. Zinneinsatz. Lackarbeit, Ostasien. Hohe 14 cm, Durchm.15,5cm.
+- 750 Blumenkorbchen. Walzenformig. Mit Traghenkel. Ostasiatisches Holzgeflecht. Hohe 38 cm.
+- 751 Japanischer Rock. Blumen und Schmetterlinge in Gold und buntfarbiger Seidenstickerei. Bordiren mit reich gestickten, blauen Blumenornamenten. Rosaroter Seidengrund.
+- 752 Zwei Kissen. Auf weiBen und hellvioletten Streifen Schmetterlinge, Rankenwerk, Sumpfvogel und figirliche Darstellungen in bunter Seidenstickerei. Ostasien.
+- 753 Japanischer Holzschnitt. Mutter ihrem Kind die Brust gebend. In altem Rahmen. Hohe 54 cm, Breite 22 cm.
+- 754 Hocker. Achtseitig, durchbrochen mit Blatt- und Rankenwerk in reich eingelegter Perlmutterarbeit. Persisch. Hohe 55 cm.
+- 755 Ibrik mit Platte und Einsatz. Auf dem Rand der Platte und der Bauchung der Kanne figirliche, reliefierte Darstellungen.Persisch.Hohe der Kanne 35 cm,Durchm.der Platte 41 cm.
+- 756 Kleine Kanne. Melonenformig, gedeckelt. Auf der Leibung reliefiertes Rankenwerk. Persisch. Hohe 25 cm.
+- 757 Zwei birnformige Vasen mit Tablett. Persische Reliefarbeit. Hohe der Kanne 30 cm, Tablett 38 X 32 cm.
+
+## Gemalde, Miniaturen und Stiche
+
+## Deutsch
+
+Angeblich 1575
+
+758 Brustbild einer Frau mit Spitzenhaube. Inschrift:Aetatis suae 35. Obyt Ano 1575. In schwarzem Flammleistenrahmen. Ol auf Leinwand. Hohe 41 cm, Breite 31 cm.
+
+## Deutsch
+
+1618
+
+759 Hiftbild Friedrichs V. Pfalzgraf und Kurfurst von Bayern. Rechts oben bez.:1616. Ungerahmt. Ol auf Leinwand.Hohe 100 cm, Breite 80 cm.
+
+## Deutsch
+
+17.Jahrhundert
+
+760 Brustbild eines Mannes. En face nach links. Ol auf Leinwand. In Goldrahmen. Hohe 60 cm, Breite 50 cm. 761 Brustbild eines Ritters des Goldenen Vlieses. In Rustung. Gerahmt. Ol auf Leinwand. Hohe 76 cm, Breite
+
+- 60cm.
+
+## Deutsch
+
+1707
+
+- 762 Auferstehungschristus. Inmitten seiner Juinger. Mit Jahrzahl 1707. Ol auf Holz. Hohe 29 cm, Breite 45 cm.
+
+## Deutsch
+
+1712
+
+- 763 Zwei Portrats. a) Brustbild eines Geistlichen nach rechts. Bezeichnet:H. Schnell 17I2. b) Brustbild eines Herrn in langem Haar. Ol auf Leinwand. Goldrahmen. Hohe 36 cm, Breite 26 cm.
+## Deutsch
+
+## Anfang des 18. Jahrhunderts
+
+- 764 Huftbild eines Firsten. En face nach rechts. Ol auf Leinwand, in Rahmen. Hohe 56 cm, Breite 57 cm.
+
+## Deutsch
+
+## Ende 17. Jahrhundert
+
+- 765 Bildnis einer Furstin. In braunrotem Kleide mit blauem Uberwurfmantel. Huftbild en face nach links. O1 auf Leinwand, in altem Rahmen. Hohe 95 cm, Breite 75 cm.
+- 766E Bildnis eines Firsten. In Hermelinmantel mit Feldherrnstab, en face nach rechts, Gegenstick zu folgendem. dem. Ol auf Leinwand,mit altem Rahmen. Hohe 95 cm, Breite 75 cm.
+
+## Deutsch
+
+18.Jahrhundert
+
+- Vier Portrats. a) Luther. b) Zwingli. c) Kalvin. d) Melanchthon. Huftbild en face nach rechts bzw.links.
+- 767 O1auf Holz.Eines bezeichnet 1782.In Goldrahmen.19,5X 15 cm.
+- 768 Bildnis einer Furstin.Blaues Kleid, dariber rot gefitterter Hermelinmantel. Gegenstick zu folgendem. Ol auf Leinwand, gerahmt.Hohe 110 cm,Breite 85 cm.
+- 769
+- Huftbild eines Firsten. In Hermelinmantel und Rustung mit Feldherrnstab. Ol auf Leinwand, gerahmt. Hohe 110 cm,Breite 85cm.
+- 770 Bildnis eines Kirchenfursten. Neben Tischchen sitzend. Ol auf Leinwand, gerahmt. Hohe 125 cm,Breite 95cm.
+- 771 Brustbild einer Frau. En face nach links.In schwarzem Kleid mit Spitzenkragen. In altem Flammleistenrahmen. O1 auf Holz.Hohe 14,5 cm, Breite10 cm.
+- 772 Brustbild eines Reiterobersten. O1 auf Leinwand. Alter Goldrahmen. Hohe 78 cm, Breite 61 cm.
+- a) Hiftbild eines Fursten. En face nach links. b) Huftbild einer Furstin. En face. Ol auf Leinwand, in altem
+- 773 Rahmen. Hohe 31 cm,Breite 25 cm.
+- 774 Maria gibt dem Kinde die Brust. Ol auf Holz. Hohe 38 cm, Breite 30,5 cm.
+- 775 Madonna mit Kind. Sitzend, vor von Putten gehaltenem Vorhang. Ol auf Leinwand, gerahmt. Hohe 43 cm, Breite 28 cm.
+- 776 Maria in Wolkenhimmel. Von Engeln umgeben. Ol auf Kupfer. Stark beschadigt,in altem Rah men.Hohe 41 cm,Breite 34 cm.
+- 777
+- Jesusknabe in Wolkenhimmel. Inmitten von Engeln,iber ihm hl. Geist in Gestalt einer Taube und Gott Vater. O1 auf Leinwand,ungerahmt.Hohe 177 cm, Breite 123 cm.
+- 778 Auferweckung des Lazarus.Reiche figirliche Staffage. Ol auf Leinwand, gerahmt.Hohe 46 cm, Breite 36 cm.
+- 779
+- Madonna mit Kind. Huftbild. Madonna sitzend, im SchoBe das Jesuskind. In Goldrahmen. Hohe 26 cm, Breite 21 cm.
+- 780 Christus an der Martersaule. Ein Henkersknecht legt ihm den roten Mantel um. Hohe 88 cm, Breite 59 cm.
+- 781
+- Statuen der Evangelistenukas,JohannisMatthaus und Markus.Ol auf Leinwand,ungerahmt.Hohe77, Breite 34cm.
+- 782 Skt. Georg zu Pferd mit Drachen. Alter Goldrahmen.In Ol auf Leinwand. Hohe 77 cm, Breite 53 cm.
+- 783 Skt. Gallus. Gerahmt. Ol auf Leinwand. Hohe 63 cm, Breite 39 cm.
+- 784 Dreizehn biblische Darstellungen. Aquarell auf Papier, in Goldrahmen unter Glas. 9,5 X 12,5 cm.
+- 785 Tod der Virginia. Stark beschadigt. Ol auf Leinwand, in Goldrahmen. Breite 102 cm,Hohe 127 cm.
+- 786 a)Raub der abinerinnenb)Antike,historische zene.l aufeinwand,gerahmt.Hohe50 cmBreite68cm.
+- 787
+- Verbriderung zweier Firsten. Reiche figirliche Staffage in Landschaft. Rickwarts bezeichnet: Herera 158o. Ol auf Leinwand. In Goldrahmen. Hohe 90 cm, Breite 120 cm.
+- 788
+- 789
+- 790
+- Biblische Szene. Rechts Konig auf Thronsessel. Vor ihm kniende Firstin mit Begleiterinnen. Ol auf Leinwand.In Goldrahmen.82X110 cm.
+- Gebirgssee in Gewitterstimmung. Ol auf Leinwand,in Goldrahmen. Hohe 61 cm, Breite 85 cm.
+- Rinderherden in bergiger FluBlandschaft. Ol auf Leinwand, in Goldrahmen. Hohe 61 cm, Breite 85 cm.
+- 791 FluBlandschaft mit figirlicher Staffage. Ol auf Leinwand. In Goldrahmen. Hohe 65 cm, Breite 85 cm.
+- 792 Winterlandschaft. In Abendbeleuchtung. Ol auf Leinwand, gerahmt. Hohe 70 cm,Breite 120 cm.
+- 793 Hund,Affe und Katze auf Tisch. Mit Kupfergefaben. Ol auf Leinwand, in schwarzem Rahmen. Hohe 63 cm, Breite 75 cm.
+- 794 Zwei Landschaften. a) Brennendes Dorf. b) Gebirgslandschaft. Ol auf Leinwand, in Holzrahmen. Hohe 68 cn, Breite 112 cm.
+
+## Deutsch
+
+1798
+
+- 795 Vierzehn Kreuzwegstationen.Ol auf Kupfer. Eine bezeichnet: Johannes Leuprecht,Maler in Babenhausen 1798. Hohe 38 cm, Breite 26 cm.
+
+## Deutsch
+
+Ende des 18. Jahrhunderts
+
+796 6a) Huftbild eines Bauern. En face nach links. b) Hiftbild einer Bauerin. En face nach rechts. Oval. Ol auf Kupfer.Hohe 20,5 cm, Breite 14,5 cm.
+
+## Deutsch
+
+Um 1800
+
+797 Christus mit Juingern unterm Feigenbaum. Ol auf Leinwand. In Goldrahmen. Hohe 90 cm, Breite 120 cm.
+
+## Deutsch
+
+Anfang des 19. Jahrhunderts
+
+798 Artemis mit Nymphen an Brunnen. In altem Rahmen. Ol auf Leinwand. Hohe 70 cm, Breite 120 cm.
+
+## Deutsch
+
+19.Jahrhundert
+
+799 Brustbild eines Bauern. En face nach rechts. Ol auf Leinwand, gerahmt. Hohe 50 cm, Breite 44 cm.
+
+## Franzosisch
+
+18.Jahrhundert
+
+- 800 Martyrtod des hl. Sebastian.O1 auf Leinwand, in Goldrahmen. Hohe 55 cm, Breite 45 cm.
+
+## Hollandisch
+
+17.Jahrhundert
+
+- 801 Die Versuchung des h.Antonius. Inmitten einer Ruine der Heilige, von vielen Spuckgestalten umgeben.Ol aufHolz.Schwarzer Rahmen.47,5X33cm.
+- 802 2Kircheninneres mit reicher figirlicher Staffage. Ol auf Leinwand, in Goldrahmen. Hohe 85 cm, Breite 120 cm.
+
+## Hollandisch
+
+18.Jahrhundert
+
+803 Tanzende Bauern. Ungerahmt, Ol auf Leinwand, stark beschadigt. Hohe 52 cm,Breite 88cm. Trinkerszene. Junge Frau mit zwei Mannern an kleinem Tisch. Ol auf Holz,unter Glas. In breitem, schwarzem
+
+- 804 Rahmen. Hohe 12 cm, Breite 12 cm.
+
+## Kopie nach einem Hollander
+
+805 Turmbau zu Babel. In der Mitte der Turmbau, Zuge von Werkleuten. Im Vordergrund Affe und Hund. Ol auf Holz.Schwarzer Rahmen. 82X36 cm. Abbildung Tafel 12.
+
+## ltalienisch
+
+18.Jahrh undert
+
+- 806 Christus und die Jinger auf dem Gang nach Emaus. Ol auf Leinwand. Goldrahmen. Hohe 96 cm, Breite 129 cm.
+- 807 Madchenkopf. En face nach rechts. Ol auf Leinwand. In altem Rahmen. Hohe 35 cm, Breite 24 cm.
+- 808 8FluBlandschaft mit Brickenruinen.Ol auf Leinwand,in schwarzem Rahmen. Hohe 62 cm, Breite 75 cm.
+- 809
+- 810
+
+## Moderne Meister
+
+- Kleiner See in Vorgebirgslandschaft. Leinwand auf Holz. Goldrahmen: Hohe 25 cm, Breite 44 cm.
+- 811 Brustbild Kaiser Wilhelms Il. En face nach links. Links unten undeutlich bez.: P. L. Berlin. Ol auf Pappe. Hohe 62 cm,Breite 48 cm.
+- 812
+- SchloB an Seegestade bei Abendbeleuchtung. Ol auf Leinwand, in Goldrahmen. Hohe 24,5 cm, Breite 32,5 cm.
+- Zwei Stillben. a) Aufsatz mit Frichten. b) Vase mit Astern. Gerahmt. Ol auf Holz bzw. Leinwand. Hohe 37 bzw. 42 cm, Breite 27 bzw. 29 cm.
+- 813Z Zwei Blumensticke.a) Tulpe in blauer Vase. b) Feldblumen in griner Vase.
+- 814 Blumen in Vase und gefilter Fruchtkorb. Ol auf Holz, gerahmt. Hohe 67 cm, Breite 94 cm.
+
+## Friedrich Muller
+
+- 815 a) Campagna-Landschaft. O1 auf Leinwand, in Goldrahmen. Hohe 50 cm, Breite 70 cm. b) Griechische
+
+lebte in Kassel
+
+- Landschaft, O1 auf Leinwand, in Goldrahmen. Hohe 48 cm, Breite 77 cm.
+
+## Niederdeutsch
+
+- 816 Der Hollenrachen. Nackte Menschen,von phantastischen Teufeln in den Hollenschlund gezerrt. Im Hinter-
+
+Um 1500
+
+- grund Landschaft und Meer. Stark restauriert. 01 auf Holz. Gelber Rahmen. 115 X 162 cm. Abbildung Tafel I2.
+
+## Rasch
+
+lebt in Minchen
+
+- 817 Volksfest. Rechts im Vordergrund Seiltanzer mit Zuschauermengen, im Hintergrund Stadtbild. Ol auf Holz. In schwarzem Rahmchen unter Glas.Hohe 8cm,Breite 13 cm.
+
+## Slawisch
+
+- 818 Maria mit dem Jesuskinde. 01 auf Holz. a)22X 19,5 cm. b) 16X 11,5 cm.
+
+18.Jahrhundert
+
+## H.Wolf
+
+- 819 Rinderherde im Gewittersturm.Ol auf Pappe. Links unten bezeichnet. In Goldrahmen. Breite 27 cm, Hohe 18,5 cm.
+
+## Farbstich
+
+- 820 Zwei Kinder in Landschaft. An einem Bache spielend. Zugeschnitten in altem Rahmen. Fol.
+
+Um 1800
+
+## Farbstich
+
+- 821 ,Le Messager Fidel. Oval. Peint par Et. Lallie academicien. Grave par. M. Halbou. Fol. In altem Rahmen.
+
+Auf Seide
+
+## Farbstiche
+
+- M. Cecilia Hoppner.J. Baldrey fecit.Fol. In altem Rahmen. Moderner Abdruck.
+2. 822
+3. 823
+4. 824
+5. 825 Voila comme les Enfants viennent." Firmin pinx.,Augrand sculp. Moderner Abdruck. Qu. Fol. In altem Rahmen,unter Glas.
+6. The Choice. Engraved by W. Ward. Fol. Moderner Abdruck.In altem Rahmen.
+7. The Soliloquy. Engraved by W. Ward. Fol. Moderner Abdruck. Alter Rahmen.
+8. 826 a) Lady Heathcote as Hebe. Engr.by James Ward. b) The Honble MiB Monkton. Engr. by John Jacobe. c) Lady Gerahmt,unter Glas.
+9. 827 Minet aux aguets. P. L. Debucourt pinx. et scul. Moderner Abdruck. Queroval. Unter Glas, alter Rahmen. Rahmen:Hohe 48 cm, Breite 68 cm.
+10. 828 Abdruck in altem Rahmen, unter Glas. Durchm. 25 cm. Rahmen:Hohe 52 cm, Breite 45 cm
+- a) Beauty directed by Prudence rejects with Scorn the Soliciations of Folly. b) The Triumph of Lowe. Moderner
+- 829 Neunzehn Kupferstiche: Bildnisse bayerischer Firsten und Firstinnen. Nach De Maree, Vivien u. a. Gestochen von Josef Anton Zimmermann. Fol., unter Glas in schwarzem Rahmchen.
+- Zwei Kupferstiche: a) St. Johannes. Fol. b) St. Magdalena. Fol. In altem Goldrahmchen.
+- 8302
+- 831
+- Madonna mit Kind. ,Madonna dell Buono Consiglio. Kupferstich auf Leinwand. In schwarzem Rahmchen, unter Glas.29,5X19 cm.
+- 832
+- 833
+- Landkarte von 0ber- und Niederbayern. Chorographia Bavariae von Philippus Apianus, 1576. 170 X 170 cm.
+- Zwei Silhouetten. Brustbild eines jungen Mannes,en face nach rechts. Geschnitten, schwarz auf weiBem Grund. Mitte des 19. Jahrhunderts. Hohe 11,5 cm, Breite 9,5 cm.
+
+## Miniaturen
+
+- 834 Huftbild einer jungen Dame. Sitzend. In blauem Kleid mit weiBem Spitzenbesatz. Im Haar groBes, violettes Band. Oval. In rechteckigem mit weibem Bein ausgelegten Holzrahmen.Deutsch. 19. Jahrhundert. Moderne Arbeit.Hohe 8,5 cm,Breite 6,5 cm.
+- Junge Dame mit Kind. Unter einer Baumgruppe sitzt eine junge Dame in blauem Seidenkleide, schwarzem Spitzenkragen und Spitzenhaube. Neben ihr kleines Madchen in Rosakleid. Oval. In Silberrahmchen. Deutsch.
+- 835 19.Jahrhundert. Moderne Arbeit.Hohe 9,5 cm, Breite 7,5 cm.
+
+## Varia
+
+- Eberkopf. Vollrund.Auf Rollwerkkartusche. Deutsch. 17. Jahrhundert. Hohe 53 cm.
+- 836
+- 837
+- Sechs Fenster mit Butzenscheiben. Bleifassung. 17. Jahrhundert. Hohe 75—105 cm, Breite 56-88 em.
+- 838
+- 839
+- Konvolut von Butzenscheiben. Flachgedrickter Nabel. 17. Jahrhundert.
+- Buch-Attrappe.Ledereinband, eingepreBt: Haupt Buch Uber die Mieth Leuthe von Lit.M biβ Z.De anno 171I. GroB-Folio.
+- 840 Jagdbesteck. Messer und Gabel. Beingriff, dieser mit Rankenwerk. Lederscheide. 18. Jahrhundert. 22 cm.
+- 841 Besteck, Messer und Gabel. Griff in Form eines RehfiBchens. Mit reliefierter Rokaille. 18. Jahrhundert. Lange 16,5 bzw.15,5cm.
+- 842 Acht Mangbretter. Mit figurlichen und linearen Schnitzereien, Rankenwerk und Frichtesticken. Griff in Form vollrunder Pferde bzw.weiblicher Grotesken. Eines mit Jahrzahl 1783. Lange 58-68cm,Breite 13 bis 16 cm.
+- 843 Jagdbesteck. Dreiteilig. Holzgriff mit Rankenwerk und Rehen in reliefierter bzw. eingelegter Silberarbeit. Hornscheide mit aufklappbarem Messer. Ende des 18. Jahrhunderts. Lange 19,5 cm.
+- 844 Drei Schirmgriffe. Rosen-und Blumengewinde. Ranken- und Kartuschenwerk und aufgereihtes Kernmuster in reliefierter Arbeit. Elfenbein. 18./i9.Jahrhundert.Lange 38—16 cm.
+- 845 Jagdbesteck. Messer und Gabel, Griff mit Perlmuttereinlagen und Akanthus in reliefierter Arbeit. Um 1800.
+- Lederscheide.Lange 20 cm.
+- 846 Jagdbesteck. Messer und Gabel. Griff mit Ring- und Schuppenornament. Silber. Am Ende des Griffs ein-
+- gesetzter, roter Glasstein. Mit Lederscheide. Anfang des 19. Jahrhunderts. Lange 19 cm.
+- 847 Vase. Hoher, vierseitiger Sockel,mit antikisierenden Darstellungen, darauf auf RundfuB vertikal geriefelte Vase. Alabaster.Anfang des 19. Jahrhunderts. Hohe 48 cm.
+- 848 Verschiedene Stockzwingen und Nadelbichschen. Elfenbein.Erste Halfte des 19. Jahrhunderts.
+- 849 Eimer. Einhenkelig, walzenformig, gegen oben leicht ausladend. Mitte des 19. Jahrhunderts. Hohe 28 cm, Durchm.27cm.
+- 850 Kleines Bichchen. Leder. Mit Ornamenten in bunter Seidenstickerei.Mitte des 19. Jahrhunderts. Hohe 13 cm, Breite 10 cm.
+- 851 Zwei VergroBerungsglaser. Spiralgriff,in Messing bzw. Bronze montiert. 19. Jahrhundert. Lange 18/10,5 cm, Durchm.10/6,5 cm.
+- 852 Dose. Oval. Mit Silber-und Perlmuttereinlagen auf schwarzem Horn. In Silber montiert. 19. Jahrhundert.
+- 853 Knick-Schirmchen. Schildpattgriff. Schwarzer Seidenbezug,mit Spitzenbesatz.19. Jahrhundert. Lange 53cm.
+- 854 Sonnenschirm. Beingriff mit reliefiertem Lowenkopf. Mit Messingblech montiert. In gelbseidener Bespan-
+- nung. 19. Jahrhundert.
+- 855 Pokal. ScheibenfuB,walzenformiger Korper. Auf der Leibung reliefierte Wappen und Helme. Auf dem Deckel Skt.Georg. Holz. Bunt bemalt. 19. Jahrhundert. Hohe 107 cm.
+- 856 Reitpeitsche. Silbergriff, Knopf mit reliefiertem Rankenwerk.19. Jahrhundert.Lange 70 cm.
+- 857
+- Damenbrett. Mit 20 Steinen. Hohe 9,5 cm,Breite 34 cm.
+- 858 Kleine Apothekerwage. Messing. In Lederetui. Lange 22 cm, Breite 10 cm.
+- 859 Frankischer Marktkorb. Mit Blumenornamenten in blauem,gelbem und rotem Leder. Hohe 45 cm, Breite 29 cm, Lange 37 cm.
+- 860 Mandoline. Mit Blattornamenten in eingelegter Arbeit. Lange 62 cm.
+- 861
+- Winde. Mit Hebel und zwei Haken. Eisen. Lange 35 cm.
+- 862 Reisekiste. Quer rechteckig, mit abgeschragten Ecken, mit Leder bezogen.Traghenkel, mit Beschlagewerk. Hohe 30 cm,Breite 62cm,Tiefe 46 cm.
+- 863 Runde Pilgerflasche. An Tragriemen.Holz.
+- 864
+- Pilgerflasche.Kugelformig,Holz.Durchm.19 cm.
+- 865
+- Hifthorn.Mit schwarzgelber Schnur.
+- 866 Trinkhorn. Elfenbeingrif in Form einer grotesken Tiergestalt. Lange 68 cm.
+- 867 Kleines Kannchen. Eingezogener FuB, kugelformige Leibung, gedeckelt, Spiralenhenkel. Messing. Hohe 19cm.
+- 868 Besteck.Messer und Gabel,zusammenklappbar.Eisenstahl.Lange 60 cm.
+- 869 Kaffeemaschine. Hohe 16 cm.
+- 870 Kleines Kastchen. Rechteckig,innen mit Samt ausgeschlagen, auBen mit Schweinsleder bezogen. GepreBtes Rankenornament. Hohe 5,5 cm, Breite 11,5 cm, Tiefe 7,5 cm.
+- 871
+- 872
+- Runde Dose. Auf dem Deckel Brustbild eines Bauern. Holz.Durchm. 12 cm.
+- Listerweibchen mit Achtender.An Kettengehange.Spannweite 60 cm.
+- 873 Listerweibchen. Weibliche Figur mit Delphinleib.Lindenholz. Mit Hirschgeweih. Fir elektrisches Licht
+- montiert.Moderne Arbeit.Lange 100 cm;Breite 50 cm.
+
+<!-- image -->

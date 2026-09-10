@@ -1,0 +1,1465 @@
+## Gemalde des Xix. Jahrhunderts.
+
+## Andreas Achenbach
+
+geb.1815 in Cassel,gest. 1910 in Dusseldorf
+
+- 1Haien-Einfahrt von Ostende im Sturm. Die Bildmitte beherrscht ein Segelkutter,der von weiBer Brandung umgischtet, sich gegen den Anprall an die Hafenmauer links wehrt. Hier sieht man hantierende und miBig stehende Schiffer.Hinter dem Segelkutter fahrt vor schwarzer Wolkenwand ein schwere Rauchwolken ausstoBender Dampier. Links hinten hebt sich ein niedriger Turm von den Sturmwolken ab.- Stimmungsgewaltiges Hauptwerk des Meisters,von hochster Bravour in der
+- Durchihrung.Bezeichnet:A.Achenbach 69. Oel auf Leinwand.H.71,B.101. Abb.Taiel 2.
+- 2 Fischerflotte auf dem Dollart bei Emden. Stark bewegte grinsilbertonige See. Vier starkbemannte
+- Fischerkutter kommen mit steifer Brise von links heriiber und streben der rechts sich hinziehenden roten Kaimauer zu.Rechts breiten sich unter aufsteigenden Gewitterwolken die niedrigen Hauser der Stadt,iberragt von einem hohen gotischen Kirchturm hinten.-Hauptwerk des Meisters von trefflicher Beleuchtung.Bezeichnet:A.Achenbach 90.Oel auf Leinwand.H.106,B.135.Abb.Tafel 12.
+- 3Westfalische Mihle bei aufsteigendem Gewitter.Ebene Wicsenlandschait. Ganz vorn an einem Bach das Mihlengehoft mit zwei Hausern, die mit Moos und roten Schindeln gedeckt sind. Ein von rechts hereingeschobenes Gebisch schlieBt die rechte Bildseite nach hinten ab und dient den farbigen Hausern als wirkungsvoller Hintergrund. Nach links hiniber Fernsicht iber Wiesen. Von hinten her steigt schweres Gewittergewolk hoch und wirft weiche dunkle Schatten in das von rechts hereinfallende Licht des Vordergrundes. Mehrere arbeitende Personen als Staffiage.Ungemein wirkungsvolles Mihlenbild aus Achenbachs bester Landschafterzeit.—Bezeichnet:A. Achenbach 72. Oel auf Leinwand.H.73,B.102. Goldrahmen. Abb.Taiel 2.
+- 4 Eritlandschait in Sommerstimmung.An den baum- und buschdurchsetzten Wiesen-Ufern des FluiBchens liegen sporadisch moosbedeckte kleine Hauser. In der Bildmitte die altersgraue Mihle, iber deren Rad das Wasser schaumt. Vorn ein schreitender Fischer mit Fanggerat. Kleinere Figuren in Mittelgrunde.—Bezeichnet:A.Achenbach 1857.Oel auf Holz.H.54,B.66,5.Barock-Goldrahmen.
+
+Mit Echtheits-Bescheinigung des Stadtischen Kunstmuseums,Dusseldorf.
+
+Das Bild war jahrelang in RuBland verschollen und tragt auf der Rickseite das Siegel der SowjetRegierung. Abb.Tafel 3.
+
+- 5 Sturmflut.WeiBgischtige See witet in hochster Heftigkeit gegen eine Mole rechts. Ein Kahn und Bautrimmer treiben durch das Wasser.—Bezeichnet:A.Achenbach 1840. Oel auf Leinwand.H. 63,B.94. Goldrahmen.
+- 6 Strand im Nebel. Dinenstrand mit Segelkutter vorn links in flacher Dunung. Ein Fischer ristet sein Netz zum Fang. Gruppen von Fischern und Frauen sind im Mittel- und Hintergrund sichtbar. Silbergrauer dichter Nebel verschleiert See und Land. Die durchbrechende Sonne beginnt ihn niederzudriicken.—Bezeichnet:A.Achenbach 59.Oel auf Leinwand.H.44,B.37.Goldrahmen.
+
+## Oswald Achenbach
+
+geb.1827 in Disseldorf,gest. 1905 daselbst
+
+- mit Holz und Reisig beladener Kahn nach rechts hiniber gleitet. Auf dem Kahn vorn ein Priester, hinten Manner und Frauen in farbiger Kleidung. Rechts die hochragende Baumasse der Engelsburg, iber deren Vorderseite die Abendschatten spielen.Links am Ufer hohe alte Hauser mit glitzernden Fenstern. Im Mittelgrunde die von vielen Figuren belebte Tiberbricke. Im Hintergrund ragt aus rotlichem-Dunst die Kuppel von St.Peter.Prachtvoll beleuchtete Abendwolken mit purpurfarbenem Horizont.- Hauptwerk des Meisters von hochster Vollendung in Komposition und Beleuchtung. Bezeichnet:Osw.Achenbach 1882.Oel auf Leinwand.H.113,B.150. Abb.Tafel 1.
+- 8 Bei der Pyramide des Cestius in Rom.Den Hintergrund bildet die Aurelianische Stadtmauer mit der Cestius-Pyramide in der Mitte in hellster Sonnenbeleuchtung.In der Mitte vorn halt eine Gruppe von Bauern und Frauen mit beladenen Eseln. Rechts eine andere Figurengruppe im Schatten der Mauer. Fine dritte Gruppe hebt sich leicht von der im Sonnenlicht flimmernden Pyramidenmauer ab. Bezeichnet Osw.Achenbach 94. Oel auf Leinwand.H.77,B.100. Goldrahmen.
+- 9 Schafherde in der Campagna bei aufsteigendem Gewitter. Weiter Blick iber die goldtonige Landschaft mit den Ruinen einer romischen Wasserleitung im Hintergrunde.Von links her spielt Sonnenlicht in magischen Tonen,wahrend iber der rechten Bildhalfte schon die Schatten des aufsteigenden rechts hiniber.—Bezeichnet: Osw. Achenbach 1855 Disseldorf. Oel auf Leinwand. H. 55,B. 73. Goldrahmen.
+- 10 Blick auf das Forum Romanum vom Konstantinbogen,vor der Ausgrabung.-Bezeichnet:O. Achenbach 1846.Oel auf Leinwand.H.27,B.35.Profilrahmen.
+
+## C.Abels
+
+- 11 Schweizerlandschaft in Sommerstimmung mit baumbewachsenem Felsen rechts. Links schroff an-
+- steigende Bergkette.—Bezeichnet:C.Abels.Oel auf Leinwand.H.53,B.71.Gerahmt.
+
+## C.E.Ahrendt
+
+- 12 Zwei kleine Landschaften in Sommerstimmung mit Dorfern im Hintergrund und Figurenstaffage. Gegensticke.—Bezeichnet:C.E.Ahrendt.Oel auf Holz.H.12.5,B.14.Goldrahmen.
+
+## Ernst Anders,Diisseldorf
+
+geb.1845 in Magdeburg
+
+- 13 Die Schmickung der Braut.Letzterer,in weiBem Seidenkleide,in rotgepolstertem Sessel sitzend,wird von junger,dunkelgekleideter Frau der Myrthenkranz aufgesetzt.-Bezeichnet:E.Anders.Oel auf Leinwand.H.85,B.56.Goldrahmen.
+
+## Juriaan Andriesen
+
+Amsterdam 1742-1819
+
+- 14 Baumreiche Landschaft mit Dorf und Figurenstaffage. Sommerstimmung. Oel auf Leinwand. H. 91, B.110.
+
+## O.von DallArmi 1884
+
+- 15 Fliehende Rehe im Herbstwald. Lichtung eines Buchenwaldes in herbstlicher Farbung. Ein Rehbock und eine Ricke fliehen nach vorn.Hinten unter den Baumen ein Jager.-Bezeichnet:v.DallArmi 84.Oel auf Leinwand. H.78,B.58. Goldrahmen.
+
+## Fritz Beinke
+
+geb.1842 in Diisseldorf,gest.1907 daseibst
+
+- beleuchteten Stadtwinkels drangt sich Fine vielkopfige,farbig gekicidete Kinderschar um einen Mann in blauem Rock und Dreispitz,der den Kleinen allerhand Spielsachen gegen herbeigebrachte Lumpen und altes Eisen verhandelt.-Ungemein fein durchgefuihrtes, treflich komponiertes Bild;fuir Beinke eine auBerordentliche Qualitat,durch das er (nach Miller-Singer) seinen Ruf bekommen hat.Bezeichnet: Fritz Beinke Duisseldorf. Oel auf Holz.H.26,B.34.Barock-Goldrahmen. Abb. Tafel 6.
+- 16 Der Lumpensammler im Schwarzwald. Zwischen den malerischen altertimlichen Hausern eines sonnig
+
+## Belgischer Maler
+
+Mitte 19.Jahrhundert
+
+- 17 Dinenstrand mit Staffage. Rechts zieht sich eine Kette hoher Dinen nach hinten. Links Hafen mit verankerten Segelbarken.Einige Staffagefiguren. Oel auf Holz.H.45,B. 60. Goldrahmen.
+
+## Johannes Warnardus Bilders
+
+- 18 GroBe baumreiche FluBlandschaft. Durch die Mitte zieht sich der stille FluB an baumbewachsenen Higeln nach vorn. Links vorn hohe Baumgruppe. Einzelne Figuren beleben das Bild. Bezeichnet: J.W.
+
+geb.1811 in Utrecht,gest.1890-in Oosterbeek.
+
+- Bilders.Oel auf Leinwand.H.126,B.115.Goldrahmen.
+- H.28,B.40.Goldrahmen.
+- 19 Heidelandschaft.Durch die Mitte zieht sich zwischen niedrigem Buschwerk ein sandiger Weg nach vorn, auf dem zwei Frauen mit Traglasten schreiten. Bezeichnet: J. W. Bilders. Oel auf Holz.
+
+## Maurice Blum·
+
+geb.1832 in Lyon
+
+- stehendes Kabinettbild.Reiches Interieur mit Antiken, Gobelin,Perserteppich,Renaissanceschrank usw. Bezeichnet:Maurice Blum.1873.Oel auf Holz.H.46,B.32. Goldrahmen,
+- 20 Die Amateure. Drei Herren in farbenprachtigen Kostimen der Zopfzeit betrachten ein auf einem Stuhl
+
+<!-- image -->
+## Gregor von Bochmann
+
+- 21 Esthnische Bauern in sonniger Landschaft. Auf einem durch die Mitte filrenden Wege fahrt ein Pierdegespann mit Bauer und Bauerin,ein zweites folgt hinten. Rechts am Wege eine kleine Kuhherde.Bezeichnet:G.v.Bochmann.Oel auf Holz.H.17,B.23.Barock-Goldrahmen.
+- 22 Esthnische Landschaft. Links Hausergruppe zwischen Gebisch,rechts reitender Bauer mit zwei Pferden.Bezeichnet:G.v.Bochmann.Aquarell.H.22,B.29.Goldleiste.
+
+## John William Bothomley
+
+- 23 BraunweiB gefleckter Hihnerhund apportiert einen erlegten Hasen. LebensgroB vor groBer bewaldeter Landschaft.Bezeichnet: J.W.Bothomley.Oel auf Leinwand.H.176,B.163. Goldrahmen.
+
+## Gustave Boulanger
+
+Paris 1824-1888
+
+- 24 Sitzendes Madchen in grauem Kittel,mit aufgelostem rotem Haar,nach links, den Kopf zum Beschauer zurickgewendet. Ganze Figur in LebensgroBe. Bezeichnet:G. Boulanger 1882. Oel auf Leinwand. H.140,B.80.Goldrahmen.
+
+## Henri Jacques Bource
+
+## Antwerpen 1826-1899
+
+- 25 Aufbruch zum Tauigang. In einem hollandischen Zimmer stehen eine Hebamme mit dem Taufling auf den Armen, die junge Mutter, die das Haubchen des Kindes ordnet, der junge Vater,der sich eben den Zylinderhut aufsetzt,ein Madchen und ein Knabe in Feiertagskostimen.Das Madchen Offnet gerade die Tire,um ins Freie zu treten. Bezeichnet:Henri Bource 1873.Oel aui Leinwand. H. 90,B. 131. Goldrahmen. Abb.Tafel 11.
+
+## Albert Heinrich Brendel
+
+- geb.1827 in Berlin,gest.1895 in Weimar （lernte in Barbizon).
+- 26 Schafherde im Stalle. GroBer von warmem Sonnenlichte durchiluteter Stall mit nach links offener Tur. Zahlreiche Schafe liegend und stehend fillen den Raum, dazwischen einige Huhner. Nach hinten Durchblick in einen anderen Stall. Bezeichnet: A. Brendel Barbizon. Oel auf Leinwand. H.47,B. 61. Profilrahmen. Abb.Tafel 6.
+
+## Gustave Brion
+
+geb.1824 in Rothau (Vogesen), gest.1877 in Paris
+
+- 27 Die Bibellesung. In altertimlich eingerichteter Stube eine neunkopfige Gesellschaft von Mannern,Frauen und Kindern,in tiefer Bewegung dem Vortrag eines alten Mannes lauschend, der,links neben Kachelofen sitzend, aus der Bibel vorliest. Bezeichnet:G.Brion 68. Oel auf Leinwand. H.90,B.131.Gold-
+- rahmen. Abb.Tafel 14.
+
+## A. de Bruine
+
+- 28 Baumreiche FluBlandschait. Auf einem vorderen Wege ein Holzfuhrwerk. Bezeichnet. Oel auf Holz. H.36,B.48.Goldrahmen.
+- 29 Gegenstick zu vorigem mit ahnlichem Motiv.
+
+## Peter Bicken,Aachen
+
+geb.1831 in Burtscheid
+
+- 30 Higelige Landschaft mit umfangreichem alten Gehoft in der Mitte. Rechts hinten Dorf zwischen Buschwerk. Mehrere Figuren als Staffage. Sommerstimmung. Bezeichnct:P. Bicken. Oel auf Leinwand. H.62,B. 93. Goldrahmen.
+
+## James M.Burfield
+
+englische Schule,19. Jahrhundert
+
+- 31 Rokoko-Interieur. Verliebtes Paar flirtend an einem Tisch sitzend,gegeniber einem alten schlafenden Herrn.Reiche Louis XV.-Kostime.Bezeichnet:J.M.Burfield.Oel auf Leinwand.H.36,B.42.Goldrahmen.
+
+## L.Caro
+
+- 32 Drei Pendants. Szenen aus der Geschichte der alttestamentlichen Erzvater. Oel auf Leinwand.H.74, B.56.Goldrahmen.
+## Professor Max Clarenbach, Disseldorf
+
+- 33 Wintersonne. Tief verschneite niederrheinische Landschaft mit entlaubten Baumen vorn. Die Sonne wirft blaue Schatten auf den Schnee. Bezeichnet: M. Clarenbach. Oel auf Leinwand. H. 53, B. 65. Gerahmt.
+
+## Joh. Chistian Claussen Dahl
+
+- 34 Hochgebirgslandschaft mit FluB und Wasserfall in Mondbeleuchtung. Rechts hoher bebuschter abgestufter Felsen, iber den in steilem Falle ein Bach nach vorn stirzt. Links durch eine Schlucht Sicht auf Bergmassiv im Hintergrunde. Bezeichnet: JC. Dahl 1835.Aquarell. H.48, B. 69. Goldleiste.
+
+## Friedrich Heinrich Commans
+
+geb. in Koln,gest.1919 in Dusseldorf
+
+- 35 Immaculata. Dreiviertel lebensgroBe schwebende Madonna in der Glorie, von Engeln umgeben. Grisaille-Malerei in Oel.Leinwand.H.175,B.100.Gerahmt.
+
+## G.L.Dake
+
+- 36 Wassermihle vor sommergrinem Wald.Bezeichnet: G.L.Dake.Oel auf Karton.H.33,B.49. Gerahmt.
+
+## Franz von Defregger, Miinchen
+
+- 37 Madchenbildnis. Rotlich blonder Madchenkopi nach vorn blickend. Braunes Mieder,geblimtes Busentuch.Bezeichnet:Defregger.Oel auf Holz.H.18,B.14.Barock-Goldrahmen.
+
+## C.F.Deiker
+
+geb.1836 in Wetzlar,gest.1892 in Disseldorf
+
+- 38 Vorstehende Hihnerhunde. Ein braunweiB gefleckter und ein schwarzer Huhnerhund am Hang eines heidebewachsenen Higels.Bezeichnet:C. F. Deiker. Oel auf Holz.H.33,B.43. Goldrahmen.
+- 39 Hirschkampf. Zwei kampfende Kapitalhirsche liegen mit ineinander gerannten Geweihen vorn am Boden.Rechts drangt sich verangstigtes Kahlwild.Bezeichnet:C.F.Deiker. Oel auf Leinwand. H.50, B.76.Goldrahmen.
+- 40 Fuchskopf von vorn.Rauchbild auf Porzellanteller. Bezeichnet:C.F.Deiker. Dm.13. Goldrahmen.
+- 41 Hundekopf von vorn. Rauchbild auf Porzellan.Bezeichnet:C. F.Deiker. Dm.13. Goldrahmen.
+
+## Johannes Deiker
+
+geb.1822 in Wetzlar,gest.1895 in Disseldorf
+
+- 42 Fichse im Schnee. Vorn auf tief verschneiter Waldlichtung zwei nach vorn und rechts spahende Fichse.Bezeichnet:J.Deiker.Oel auf Leinwand.H. 32,B.47.Goldrahmen.
+
+## Joannes Josephus Destree
+
+- 43 Kleine FluBlandschaft bei Sonnenuntergang. Bezeichnet: JJ. Destree. Oel auf Holz.H. 12,B.19. Goldrahmen.
+
+geb. 1827 in Brissel, gest. 1888 im Haag
+
+## Deutsch um 1810
+
+- 44 Napoleon im Kreise von Soldaten empfangt im Feldlager eine Deputation von Birgern. Oel auf Leinwand.H.33,B.40.Gerahmt.
+
+## Louis Douzette
+
+- 45 Landschait bei Barth. Bachdurchzogene Wiese mit Windmihle im Mittelgrunde. Nach hinten Blick auf das Stadtchen.Bezeiclhnet: L. Douzette Barth. Oel auf Leinwand. H. 45, B. 74. Goldrahmen.
+
+geb.1834 in Triebsees
+
+## Eugen Dicker, Disseldorf
+
+Bezeichnet:E.Diicker,Oel auf Karton.H.24,B.36.Barockrahmen.
+
+- 46 Kleines Seestick. Leicht bewegte See mit Blick auf rechts sich hinzichenden grinen Strand mit Dorf.
+
+## Themistokles von Eckenbrecher
+
+- 47 Schweizer Wasseriall. Ueber wildzerkliftete Felsen stirzt weiBschaumend ein breiter Gebirgsbach nach vorn. Links ein starker Fichtenschlag. Nach hinten Blick auf machtige Bergmassive. Bezeichnet: T.v.Eckenbrecher 60. Oel auf Leinwand.H.47,B.65. Goldrahmen.
+
+geb.1842 in Athen,gest.1921 in Goslar
+## Rudoli Epp, Minchen
+
+## geb.1834 in Eberbach
+
+- auf Leinwand.H.36.B.54.Profilrahmen.
+- 48 Herbstlandschaft bei Minchen. Vorn links Bauernhaus mit vollhangendem Apfelbaum davor. Auf sonnigem Rasenfleck eine sitzende Bauerin und ein blumenbindendes Kind. Bezeichnet:R. Epp. Oel
+
+## Anton Evers
+
+## geb.1802 in Hlildesheim,lebte in Hannover
+
+- fahrende Kinder und andere Figuren. Bezeichnet:A. Evers Hannover 1844. Oel auf Leinwand. H.59, B.78.Goldrahmen.
+- 49 Niedersachsisches Bauerngehoft im Schnee. Auf dem verschneiten Platze und Weiher vorn schlitten-
+
+## Adrianus Eversen
+
+## geb.1818 in Amsterdam
+
+- 50 Stadtansicht. Sonnebeschienene StraBe einer hollandischen Stadt mit niedrigen altertumlichen Hausern
+- im roten Ziegelbau. Zahlreiche Personen bei allerhand Hantierung beleben das Bild. Bezeichnet: A.Eversen.Oel auf Leinwand.H.54,B.69.Goldrahmen.
+- 51 StraBe im Winter. Zwischen althollandischen Hausern hindurch zieht sich eine verschneite, figurenbelebte StraBe nach hinten. Bezeichnet: A.Eversen 82.Oel auf Holz.H.37,B.27. Goldrahmen.
+- 52 Verschneite StraBe mit gotischer Kirche links. FuBganger und Fuhrwerke als Staffage. Bezeiclinet:
+- A.Eversen. Oel auf Holz.H.24, B.17,5. Goldrahmen.
+
+## Eugene Fichel
+
+## Paris 1826-1895
+
+- 53 Die Kunstliebhaber im Atelier. Vier Herren in eleganten Kostimen der Zopizeit sitzen und stehen in kritischer Betrachtung um ein Staffeleibild. Rechts verabschiedet sich der Maier von einem anderen Herrn.Bezeichnet:E.Fichel 1862.Oel auf Holz.H.22,B.27.Goldrahmen.
+
+## H.Flockenhaus,Diisseldorf
+
+- 54 GroBe niederrheinische Landschait in Herbststimmung.Durch die Mitte zieht sich ein schilfumwachsener Wasserarm nach vorn. Rechts herbstlich gefarbtes Laubgeholz.Links Hlaus zwischen Baumen und drei arbeitende Frauen. Nebelsonne. Bezeichnet: H.Flockenhaus Ddi. Oel auf Leinwand. H. 67,B.98. Goldrahmen.
+
+## Professor Alexander Frenz, Diisseldorf
+
+- 55 Bildniskopf Dante Allighieris.Profil nach links in rotem Gewand und rot besetzter Mitze.In gemalteni Rund. Bezeichnet:Alexander Frenz. Oel auf Holz.H. 65,B.50. Goldrahmen.
+
+## Friedrich von Friedlander
+
+## geb.1825 inKohijanowitz,gest.1901 in Wien
+
+- 56 Alter osterreichischer Veteran in blauer Uniform, grauem Mantel und schwerem Sabel,blickt, eine Pfeife in der Linken,einen Schoppen Heurigen in der Rechten,den Beschiauer mit behaglichem Schmunzeln an.Bezeichnet:Friedr.Friedlander.Oel auf Holz.H. 20,B.14. Barock-Goldrahmen.
+
+## A.Friedlander
+
+- 57Berittene Gesellschaft von Kavalieren und Damen im Kostim des 17. Jahrhunderts haben links bei lagernden Zigeunern Halt gemacht.Bezeichnet:A. Friedlander.Oel auf Leinwand.H. 42,B. 52.
+- Profilrahmen.
+
+## Professor Max Gaisser, Minchen
+
+- 58Interieur mit schonen Renaissancemobeln,Antiquitaten usw.Bezeichnet:Max Gaisser. Oel auf Karton. H.54,B.44.Goldrahmen.
+
+## Ludwig Gebhardt,Miinchen
+
+geb.1830 in Minchen
+
+- 59 Partie aus Stockdorf bei Minchen. Sommergrine Wiesen-Ebene mit Baumgruppe links, wo ein Steg
+- einen Bach iberquert.Rechts im Mittelgrunde ein Haus. Bezeichnet:L. Gebhardt.Oel auf Leinwand. H.40,B.52.Profilrahmen.
+## Maximilian Lambert Gelissen
+
+Brissel 1786-1867
+
+- 60 Figurenreiches Kirmestreiben vor einem vlamischen StraBenwirtshaus. Bezeichnet: Gelissen. Oel auf Holz.H. 33,B.41. Goldrahmen.
+
+## German Grobe,Diisseldorf
+
+- 61 Madchen und zwei Frauen auf einer Dine. Bezeichnet: G.Grobe. Oel auf Leinwand. H. 40, B.49. Goldrahmen.
+
+## Heinrich Gogarthen
+
+- 62 Kleine gebirgige Landschait mit Wasserfall und Windmihle im Mondschein. Bezeichnet:H. Gogarthen. Oel auf Holz.H.27,B.21. Goldrahmen.
+
+## Wilhelm Grogler, Minchen
+
+1839-1897
+
+- wand.H.64,B.51.Profilrahmen. Abb.Tafel 8.
+- 63 Ein an einem Wirtshaustische sitzerder Franziskanermonch schaut lachelnd auf einen Jager, der einem Madchen einen KuB zu rauben versucht. Bezeichnet: W. Grogler, Minchen. Oel auf Lein-
+
+## Erwin Ginter, Disseldorf
+
+- 64 GroBes Seestick.Auf stark bewegter See vorn zwei Segelkutter vor dem Winde. Links hinten felsige Kiste und einige andere Fahrzeuge. Bezeichnet: Erwin Ginter D'df 06. Oel auf Leinwand. H. 80, B.120. Breiter Goldrahmen.
+- 65 Strand mit Segelbarken. Im flachen Wattenmeer liegen drei vertaute Barken.Auf der stark bewegten
+- 66 Felsenstrand mit zwei Leuchttirmen im Hintergrunde. Bezeichnet:Erwin Ginter Ddf. Oel auf Karton. H.42,B.53.Gerahmt.
+- See im Hintergrunde sieht man einige kleine Segler. Zerrissener Wolkenhimmel. Bezeichnet:Erwin Ginter D'df.Oel auf Leinwand.H.80,B.120.Breiter Goldrahmen.
+- 67 Fischer-Ewer vor Helgoland. Rechts hinten liegt die Insel, an der. ein Dampfer voriberiahrt. Links fahrt ein groBer Ewer nach vorn.Leicht bewegte See. Bezeichnet:Erwin Gunter Ddf. Oel auf Lein-
+
+## Adriana Haanen
+
+- wand.H.100,B.150.Profilrahmen.
+
+geb.1814 in Gosterhout,gest.1895 in Oosterbeek
+
+- A.Haanen. Oel auf Leinwand.H. 64, B. 50. Goldrahmen.
+- 68 Blumenstick. Ein prachtiges Bukett roter und weiBer Rosen hangt vor graugriner Mauer. Bezeichnet:
+
+## Horst Hacker, Minchen.
+
+- 69 Obersee bei Berchtesgaden. Vorn der See zwischen konzentrisch steil ansteigenden Felsen. Vorn am flachen Ufer einzelne Felsblocke. Bezeichnet:H. Hacker. Oel auf Leinwand. H. 95, B. 124. Profilrahmen.
+
+## geb.1842 in Leipzig
+
+- 70 SchloBteich bei Nymphenburg. Vorn der von mehreren Schwanen belebte SchloBteich. In dem den Hintergrund abschlieBenden Gebisch rechts eine Gruppe von Hausern, links hinten das SchloB. Bezeichnet:Horst Hacker,Minchen 1892. Oel auf Leinwand. H.32, B.48. Goldleiste.
+
+## Professor Karl Hagemeister
+
+- 71 Waldwiese mit anschlieBendem Fohrenschlag. Bezeichnet:K. Hagemeister. Aquarell. H. 47,B.36. Gerahmt.
+
+## Louis von Hagn, Miinchen
+
+## J.G.Ham
+
+- 73 Hochgebirgslandschaft mit Felsenschlucht in Vordergrunde. Bezeichnet: JG. Ham. Oel auf Leinwand. H.55,B.45.
+
+Holland,19.Jahrhundert
+
+## Carel Lodewyk Hansen
+
+- 74 Die Zuiderkerk in Amsteriam. Blick auf das Renaissanceportal der Kirche,vor der eine Verkauferin sitzt.Verschneite StraBe. Bezeichnet. Oel auf Leinwand.H.54,B.44.Goldrahmen.
+
+geb.1765 in Amsterdam,gest.1840 in VaaBen
+
+<!-- image -->
+## G.Hemmerich, Minchen
+
+- 75 Zwei figurenreiche Darstellungen. Ruckkehr vom Vieh,bzw.vom Pierdemarkt. Bezeichnet. Oel auf Holz. H. 12, B. 32. Schwarze Rahmen.
+
+## Wilhelm Hempfing, Karlsruhe
+
+- 76 Tanzduett. Tanzpaar als Pierot und Colorbine vor graugrinem Hintergrunde. Bezeichnet: Hempfing. Oel auf Leinwand.H.76,B. 60.Barock-Goldrahmen.
+
+geb.1886 in Schonau
+
+## G.O.Herrmann
+
+- Oel auf Leinwand.H. 50,B. 60.Goldleiste.
+- 77 Weite Wiesenebene mit Herdenvieh. Links hinten Dorf mit Windinile. Bezeichnet: G. O. Herrmann.
+
+## Professor Heinrich Hermanns,Disseldori
+
+geb.1862 in Dusseldorf
+
+- 78 Inneres einer romanischen Kirche mit Blick auf eine Apsis. Vorn einzelne Figuren. Bezeichnet: Heinrich Hermanns. Oel auf Leinwand. H. 66, B. 53. Goldrahmen.
+
+## August Herzog, Minchen
+
+- 79 Kleinere Hochgebirgslandschaft, Bezeichnet: Aug. Herzog, Minchen 1922. Oel auf Karton. H. 40, B.45.Flammleistenrahmen.
+
+## Hollandisch, Ende 18. Jahrh.
+
+- 80 Bei der Toilette. Junge Dame sitzt beim flackernden Schein einer Kerze vor einem von einer Dienerin gehaltenen Spiegel und legt die Schmucksticke an, die ihr eine zweite Dienerin reicht. Oel auf Holz. H.70,B.56.Goldrahmen.
+
+## Hollandisch, 19. Jahrh.
+
+- 81 Sommerlich gestimmte Landschait mit Vieh und Bauerngehoften.Oel auf Holz.H.45,B. 69. Goldrahmen.
+
+## H.Hulk
+
+## Holland,19.Jahihundert
+
+- 82 Hafenbild. Auf spiegelklarem Wasser vor flacher Kiiste rechts liegen drei vom Fang zurickgekenrte Schifferbarken,deren Mannschaft an Deck hantiert. Links hinten sielit man zwei fahrende Segler.
+- Leicht bewolkter Himmel. Bezeichnet:H.Huik. Oel auf Leinwand.H. 67, B. 93. Goldrahmen.
+- 83 Seestick. Vier vom Fischfang heimgekehrte Segelkutter liegen an flachem Duinenstrand vor Anker. Auf den Schiffen und am Strand arbeitende Fischer. Bezeichnet: H. Hlulk. Oel aui Leinwand. H. 45, B.67. Goldrahmen.
+- 84 Segelboote auf leichtbewegter See.Bezeichnet.Oel auf Leinwand.H.20,B. 30. Goldrahmen.
+- 85 Gegenstick mit ahnlichem Motiv. Gleiche GroBe.
+
+## Joseph Jansen
+
+## geb.1829 in Aachen, gest.1905 in Dusseldorf
+
+- 86 GroBe Schweizer Landschaft mit Blick auf die Jungfrau im Hintergrunde. Vorn bewaldete Schlucht mit nach vorn flieBendem Bach.Links eine malerisch gelagerte Gruppe von Schweizerhausern.Bezeichnet: Jos.Jansen 1897. Oel auf Leinwand.H.120,B.103.Goldrahmen.
+- 87 GroBe Schweizer Landschaft mit starkem, weiBschaumendem Wasserfall vorn,an dem eine Mihle
+- steht.Links und rechts vom Fall Fichtenschlage auf Felsen. Hlinten schneebedeckte Bergmassive. Bezeichnet:Joseph Jansen 1897.Oel auf Leinwand.H. 94,B. 128.Goldrahmen.
+
+## Karl Irmer
+
+## geb.1834 in Babitz, gest.1900 in Dusseldorf
+
+- 88 Waldreiche Landschaft in Herbstmorgenstimmung.Im Vordergrunde eine Halde mit Feldhitte und einzelnen Figuren. Rechts im Mittelgrunde zieht sich ein Nadelgeholz vor das Blickfeld. Nach links sieht man in eine flache Senkung, durchsetzt mit einzelnen Waldsticken.Dunstige Morgenstimmung. Be-
+- zeichnet:C.Irmer. Oel auf Leinwand.H.41,B.61.Barock-Goldrahmen. Abb.Tafel9.
+- Goldrahmen.
+
+## Jozef Israels (？)
+
+geb.1824 in Groningen
+
+- 89 Alte Frau am Herdieuer. Vor einem Rauchfang links sitzt eine alte Frau, die das Feuer anfacht. Rechts Tisch mit Geschirr. Nach hinten Blick in einen Alkoven. Bezeichnet: Jozef Israels. Oel auf
+- Holz.H.28,B.34.Barock-Goldrahmen.
+
+## J.Jungblut,Disseldorf
+
+- 90 Kleine verschneite Landschaft mit Figurenstaffage, bei Sonnenuntergang.Oel auf Holz. H. 35, B.26.
+- 91 Gegenstick zu vorigem. Gleiche GroBe.
+
+## Kaspar Kaltenmoser, Minchen
+
+geb.1806 in Horb
+
+- 92 Interieur. Rechts sitzt eine Gemise putzende Bauerin in farbiger Kleidung vor grinem Kachelofen und alter Kommode. Sie schaut auf zwei kleine Madchen links, von denen eins das andere frisiert. Am Boden umher Giemise,Topfe usw.Bezeichnet:C.Kaltenmoser pinxit Minchen 1848. Oel auf Leinwand.H.66,B.58.Barock-Goldrahmen.
+
+## Hermann Frederik ten Kate
+
+## geb.1822 im Haag,gest.1891 daselbst
+
+- Dreispitz liebkosend ein kleines Madchen auf den Armen. Daneben an einem mit chinesischem Teegeschirr bestelten Tisch sitzt lachelnd die junge Mutter im Hauskleid. Bezeichnet: Herman ten Kate. Oel auf Holz.H.30,B.41. Goldrahmen. Abb.Tafel 6.
+- 93 Vaters Liebling. In behaglich ausgestattetem Rokoko-Raum halt ein junger Mann in grauem Rock und
+- 94 Soldaten in der Wachtstube. Um einen Schragentisch herum gruppieren sich alte und junge Soldaten in farbigen Kostimen beim Trunk und Wirfelspiel.Links ein Madchen.Bezeichnet:Herman ten Kate
+- fecit 1853. Oel auf Leinwand.H.32,B.40.Goldrahmen. Abb.Tafel13.
+- 95 Die Brautwerbung. In einem vornehmen Zimmer des 18. Jahrhunderts eine Gesellschaft von Herren und Damen in reichen Kostimen der Zopfzeit.Links steht der werbende Jingling neben einem alteren Herrn und redet die beiden rechts sitzenden Eltern der Braut an, wahrend diese selbst,hinter einem Paravent stehend,erwartungsvoll lauscht.Bezeichnet:Herman ten Kate.it.Oel auf Holz.H. 52,B.69.
+
+## Johan Mari ten Kate
+
+Abb.Tafel 6.
+
+- 96 Bauerngehoit in Nordholland. An einem Ziehbrunnen vorn in der Mitte junge Bauerin und spielendes Kind. Dabei ein Hihnervolk. Rechts das niedrige strohgedeckte Haus. Nach links Landschafts-Sicht. Bezeichnet:M.ten Kate. Oel auf Leinwand.H.61.B.80. Goldrahmen.
+
+## geb: 1831 im Haag
+
+- 97 Kinder auf dem Eise. In der Mitte vorn drei Madchen mit Handschlitten, die von mehreren Knaben links mit Schneeballen beworfen werden.Ein neben dem Madchen stehender Knabe bedroht die Gegner mit einem Stock.Links verschneite Hausergruppe. Bezeichnet:M. ten Kate. Oel auf Leinwand. H.47, B.70. Goldrahmen.
+
+## Hermann Kauffmann
+
+- 98 Hufbeschlag vor der Schmiede. Vor einem Hause rechts halt ein mit sechs Pferden bespannter,plan-
+
+## geb.1808 in Hamburg, gest.1889 daselhst
+
+- bedeckter Wagen.Ein Schmied ist beschaftigt,einem von den Pferden, einem Schimmel, ein Huieisen aufzulegen. Unter dem Vordach des Hauses alter Mann und Frau im Giesprach. Links von der StraBe Bach und Buschwerk in durchsonntem Nebel. Bezeichnet: Herm.Kauffmann. Oel auf Leinwand. H.42, B.67.Goldrahmen. Abb.Tafel 7.
+- 99 Liebespaar. Bursch und Dirndl in oberbayerischer Tracht sitzen karessierend einander gegcniber: zwischen ihnen ein Butterfas. Stube mit grinem Kachelofen. Bezeichnet: Herm. Kauffmann. Oel auf Leinwand.H.22,B. 20. Goldrahmen.
+
+## Karl Kaufmann
+
+- Fischerbarken beleben das Wasser. Am Kai einzelne Figuren. Bezeichnet: Karl Kaufmann. Oel auf Holz,H.31,B.46.Goldrahmen.
+- 100 Ansicht von Venedig mit Blick iber den Canale grande auf St. Maria delia Salute. Gondeln und
+- Barock-Goldrahmen.
+## F.A.von Kaulbach.Angeblich
+
+- 101 Bildnis einer im Sessel sitzenden jungen Dame. Bleistiftzeichnung.Mit Monogramm.22X14.Gerahmt.
+
+## Lodewyk Johannes Kleyn
+
+- 102 Eisvergnigen, Auf zugefrorenem Wasserlauf zahlreiche Figuren. Rechts am verschneiten Ufer Dori mit zwei W.indmihlen,links Weiden.Bezeichnet: L.J.Kleyn. Oel auf Holz.H.37, B.50. Goldrahmen.
+
+geb.1817 in Loosduinen
+
+## J.B.Klombeck und Eugene Verboeckhoven
+
+- 103 GroBe baumreiche Landschait mit Viehherde. Die rechte Bildseite nimmt ein gelichtet stehender Wald mit machtigen alten Eichen und Buchen ein,mit trefflicher Tiefendurchsicht. Eine Herde von Kuhen, Schafen und Ziegen zieht,bewacht von einem Hirten,weidend ain Wald vorbei, durch die Mitte nach vorn zu einem Weiher. Links dehnt sich baumdurchsetztes Weidegelande,iber das hinweg man auf eine den Hintergrund abschlieBende Fiigelkette blickt.Von beiden Meistern voll bezeichnet. Oei auf Leinwand.H.93,B.126.Goldrahmen Abb.Taiel 3.
+
+## Pieter Lodewyk Francisco Kluyver
+
+Amsterdam 1816-1900
+
+- 104 Baumreiche Landschait mit weiter Perspektive. Man blickt iber eine sommergrine Ebene mit meilenweiter Sicht. Der sonnig beleuchtete Vordergrund ist mit Baumschlagen und Hecken durchsetzt,im Mittelgrunde liegt ein Dorf. Zahlreiche Herdentiere,Feldarbeiter etc.beleben das abwechslungsreiche Gelande.Bezeichnet.Oel auf Holz.H.4l,B.54.Goldrahmen.
+- 105 Winterlandschaft bei untergehender Sonne.Weite verschneite Gegend mit vereistem Wasserlauf in der Mitte,der sich an einem Geholz rechts vorbei nach hinten zieht.Holzsammler und andere Figuren beleben die von der untergehenden Sonne in Goldton getauchte Landschaft. Bezeichnet. Oel auf Leinwand.H. 78,B.64.Goldrahmen.
+
+## Ludwig Knaus
+
+## geb.1829 in Wiesbaden,gest.1910 in Berlin
+
+- 106 Kopf eines jungen Madchens mit aufgelostem blonden Haar, das Gesicht nach rechts gewendet. Bezeichnet: L.Knaus. Oel auf Leinwand.H. 26,B. 21. Goldrahmen.
+
+## G.Koch
+
+- 107 Pierdemarkt. Auf einem Platz vor hohen Hausern zahlreiche Pierde, einzein und zusammengekoppelt.
+- Dabei Handler und Kaufer.Bezeichnet:G.Koch.Oel auf Leinwand.H.50,B.67.
+
+## Barend Cornelis Koekkoek
+
+geb.1803 in Middelburg,gest.1862 in Cleve
+
+- 108 In den Ardennen von Luxemburg. GroBe,reich abgestufte Berglanidschaft mit starker Bewaldung und Figuren. Rechts fihrt an bewaldeten Hligeln vorbei ein Weg zu einer im Mittelgrunde liegenden Hausergruppe. Auf dem Wege bewegen sich eine Anzahl fein gcmalter Figuren: Eseltreiber, Reiter, Bauern, Frauen. Links zieht sich zwischen steilen Bergen ein Bachtal in Krimmungen nach hinten. Hier kleine Staffagefiguren.Bezeichnet:B. C. Koekkoek ft.1839.—Hauptwerk des groBen Landschafters von wirkungsvoller Komposition und feinster Durchfihrung. Oel auf Leinwand. H. 91,B. 118. Goldrahmen. Abb.Tafel 5.
+- 109 GroBe Winterlandschaft mit Staffage. Rechts zieht sich ein FluB durch higeliges Gelande nach vorn. Links abgestuftes Ufer mit baumbewachsenen Felswanden,Baumgruppen,Buschwerk. Auf leicht verschneitem Wege,der sich links am Flusse entlang zieht, schreiten zwei Lastesel mit einem Treiber.
+- Bezeichnet:BC.Koekkoek 1834.Oel auf Leinwand.H.84,B.105.Goldrahmen. Abb.Taiel 10.
+- 110 Bebuschtes Felsental mit Staffage. Zwischen grinbewachsenen Felsen rechts und links flieBt ein im Mittelgrunde iberstegter Bach.Im silbertonigen,dunstig verhangenen Hintergrunde Felsmassive.Aui links nach hinten fihrendem Wege ein schreitendes Bauernpaar. Bezeichnet: BC.Koekkoek ft.1846. Abb.Taiel 7.
+- Oel auf Holz.H.37,B.50.Goldrahmen.
+
+## Hermann Koekkoek
+
+- 111 FluBlandschait. Rechts dehnt sich die wechselnd beleuchtete weite Wasserflache,auf der sich vorn ein Ruderboot,hinten einige Segler bewegen.Links am flachen Ufer strohgedecktes niedriges Haus,aufgehangte Waschesticke und zwei Personen.Bezeichnet:H.Koekkoek. Oel auf Leinwand.H. 37,B.60. Goldrahmen.
+## Johannes Hermanus Koekkoek
+
+geb.1778 in Vere,gest.1851
+
+- 112 In der Brandung. Links auf heftig bewegter See eine Barke, die auf Felsen rechts zufahrt. Hier drei Manner bei einer Signalstange. Ein Dreimaster und zwei kleinere Segier links hinten. Bezeichnet: J.H.Koekkoek.Oel auf Holz.H.36,B.48. Goldrahmen.
+- 113 Hafen mit altem Festungsturm.Rechts die in starker Brandung bewegte See,auf der sich eine Segelbarke und ein Ruderboot bewegen.Links Bollwerk mit hohem altem Festungsturm.Bezeichnct: J.H.
+- Koekkoek.Oel auf Holz.H.42,B.57.Goldrahmen.
+- 114 Zwei Segelbarken auf stark brandender See.Links befestigte Kiste mit groBem Schlof.Figurenstaffage.
+- Bezeichnet:J.H.Koekkoek.Oel auf Holz.H.40,B.57.Goldrahmen.
+- 115 Mehrere Segelbarken auf maBig bewegter See.Vorn links ein mit zwci Mannern besetztes Ruderboot.Rechts Hafen mit Bollwerk.Bezeichnet: JH.Koekkoek.Oel auf Holz.H. 31,B. 42.Goldrahmen.
+
+## Willem Koekkoek
+
+- 116 GroBe Stadtansicht mit Figurenstaffage. Malerisch gruppierte Hauser im Stile der niederlandischen Ziegelstein-Renaissance mit Treppengiebeln.Links oifnet sich eine Gracht,auf der ein Kahn mit Heu Kinder sich bewegen. Tauender Schnee auf StraBenpflaster und Hausdachern. Rechts bezeichnet: W.Koekkoek.Oel auf Leinwand.H.85,B.125.Breiter Goldrahmen. Abb.Tafel 5.
+
+Abb.Tafel 11
+
+geb.1839 in Amsterdam
+
+- 117 GroBe hollandische Stadtansicht. Breite StraBe mit malerischen altniederlandischen Birgerhausern im Renaissance-Ziegelbau; auf der linken Seite eine gotische Kirche in der Hauserfront. Zahlreiche Personen einzeln und in Gruppen gegliedert,spazierend.arbeitend,plaudernd,beleben die im Sonnenlicht liegende StraBe.Bezeichnet:W.Koekkoek. Oel auf Leinwand.H.82,B.122. Goldrahmen.
+- 118 Aithollandische Stadtansicht mit Figuren. Idyllische KleinstadtstraBe mit malerischen alteitimlichen Backsteinhausern in sonniger Beleuchtung,im Hintergrunde von hohem Kirchturm iberragt. Manner, Frauen,Kinder,plaudernd,hantierend,spazierengenend,beleben die Szenerie. Bezeichnet:W.Koek-
+- koek.Oel auf Leinwand.H.54,B. 69.Goldrahmen.
+
+## Paul Koken
+
+- 119 GroBe Heidelandschait. Links Blick iber weite Heideflache aui Laubwald in Hintergrunde. Rechts
+
+geb.1853 in Hannover
+
+- vorn vereinzelt stehende Birken und Kiefern, daran anschlieBend nach hinten ein Fichtenschlag. Be zeichnet: Paul Koken.Oel auf Leinwand.H. 95,B. 130. Profilrahmen.
+
+## Everhardus Koster
+
+- 120 GroBes Seestick. Schiffe im Hafen. Eine zahlreiche Flottille von Segelkuttern mit sichtbarer Bemannung liegen rechts vor Anker. Zwischen ihnen bewegen sich einige Ruderboote. Bezeichnet: E.Koster ft. Oel auf Leinwand. H.74, B. 148.
+
+geb.1817 im Haag,lebte in Haarlem
+
+## Theodor Kotsch
+
+- 121 Wiese mit Bauernhaus in Soninerstimmung. Saftig grine Wiesenflache. vorn durcli einen entenbelebten Weiher,hinten und seitlich durch locker gemalte dichte Baungruppen begrenzt.In der Bildmitte ein breitgelagertes niedriges Bauernhaus. Auf der Wiese ein Madchen bei ausgelegten
+
+geb:1818 in Hannover,gest.in Minchen
+
+- Waschesticken.Bezeichnet:Kotsch 1885. Oel auf Leinwand.H.35,B.54. Barock-Goldrahmen.
+
+## Erich Kubierschky,Minchen
+
+- 122 Winter im Isartal. Weite baumdurchsetzte Landschaft im Schnee.Vorn Dorfhauser am FluB, der durch die Mitte flieBt.Bezeichnet:E.Kubierschky 1908. Aquarell.H.18,B.25. Goldrahmen.
+
+geb.1854 in Frankenstein
+
+- 123 Vollmondnacht im Riesengebirge. Weiter Blick iber eine Kette leicht verschneiter bewaldeter Berg-
+- kuppen, hell vom Vollmond bestrahlt. Bezeichnet:E. Kubierschky 82. Oel auf Holz. H. 15, B. 27. Goldleiste.
+## M.Kuglmayr, Minchen 1907
+
+- 124 Madchen in rosa Kleidchen auf einer Strickschaukel vor Parkhintergrunde. Bezeichnet und datiert wie oben.Oel auf Leinwand.H.67,B.46. Goldrahmen.
+
+## Wilhelm Kuckuck,Disseldorf
+
+- Oel auf Leinwand.H.70,B.90.Profilrahmen.
+- 125 Hinter der alten Kirche. Intim beleuchteter Winkel zwischen einer Kirche und einer Hiausergruppe.
+
+## Charles Kuwasseg
+
+geb. um 1830 in Draveil (Seine)
+
+- Stadt und hohe Berge im Hintergrunde.Bezeichnet: C.Kuwasseg. Oel auf Leinwand.H. 35,B.56. Goldrahmen.
+
+## Hans Lassen,Disseldorf
+
+- prifend die Sorten, die ihnen der links vor groBem StickfaB stehende Kellernieister kredenzt. Bezeichnet: Hans Lassen 1900.Oel auf Holz.H.37,B.45. Goldrahmen.
+- 127Die Weinprobe. In einem Kellergewolbe sitzen vier alte Herren um ein FaB herum und kosten
+
+## Edmond Lebel,Rom 1874
+
+- Frauen in romischer Volkstracht. Bezeichnet: wie oben. Oel auf Holz. H. 43, B.55. Goldrahmen.
+- 128 Italienischer Metzgerladen. Hinter der Fleischbank der hantierende Metzger. Davor zwei kaufende
+
+## Francois Leemans
+
+1839-1883
+
+## J.L.van Leemputten
+
+- 129 Erlegter Hase an Baumstamm aufgehangt. Daneben Jagdwaffen. Bezeichnet:F. Leemans. Oel auf Holz. H.83,B.59.Profilrahmen.
+
+Hollandisch,19. Jahrhundert
+
+- Oel auf Holz.H.31,B.45.Goldrahmen.
+- 130 Hihnervolk im Vordergrund einer weiten Wiesenlandschaft.Bezeichnet:J.L.van Leemputten 1868.
+- 131 Gegenstick zu vorigem mit ahnlichem Motiv. Gleiche GroBe. Goldrahmen.
+
+## Charles Leickert
+
+geb. 1818 in Brissel, gest.in Mainz
+
+- 132 StraBe einer hollandischen Stadt im Schnee mit Gemisemarkt. Malerische Gruppe althollandischer Hauser,deren Dacher leicht mit Schnee bedeckt sind. Auf der StraBe links sicht man kaufende und verkaufende Frauen bei Gemisekorben.Dunstiger Winterhimmel. Bezeichnet:Ch. Leickert.Oel auf Leinwand.H.62,B. 49. Goldrahmen. Abb. Tafel 8.
+- 133 GroBe Winterlandschaft mit Eisvergnigen. Die ganze Bildmitte nehmen zwei spiegelblank geirorene Kanalarme ein,zwischen denen eine verschneite Mole nach hinten fihrt. Zahlreiche Schlittschuhlaufer beleben die Eisflachen,FuBganger und Schlittenfahrer auf der Mole.Vorn bei einem Punschausschank eine Anzahl Personen.Bezeichnet:Ch.Leickert.Oel auf Leinwand.H. 62,B.94. Goldrahmen.
+- 134 Zugefrorener Kanal mit Schlittschuhlaufern. Rechts am Ufer drei Windmihlen. Links auf einem Wege
+- mehrere FuBganger.Winterhimmel mit durchbrechender Sonne. Bezeichnet:Ch.Leickert f. Oel auf Holz.H.33,B.47.Goldrahmen.
+- 135 Hollandische Kanallandschait in Sommerstimmung. Zu beiden Seiten des die Bildmitte einnehmenden
+- Kanals grinbewachsene Ufer. Rechts Gehoft im Buschwerk.Auf dem Wasser vorn ein besetzter Ruderkahn,hinten mehrere Segelbarken.Bezeichnet:Ch.Leickert.Oel auf Leinwand.H.33,B.45. Goldrahmen.
+- 136 Kleine hollandische Kanallandschait mit Windmihle und Figurenstaffage. Bezeichnet: Ch.Leickert. Oel auf Holz.H.23,B.18.Goldrahmen.
+
+## Lambertus Lingeman
+
+geb.1829 in Amsterdam,gest.1894 in Abcoude
+
+- 137 Familien-Idyl. In einer warmtonig beleuchteten hollandischen Kiche, links vor hohem Rauchfang ein Mann,der einen vor ihm stehenden Knaben als Landsknecht ausgeristet hat mit Eisenhelm,Trompete und Degen. Rechts um einen Tisch gruppiert ein jingerer Mann und zwei Frauen, die belustigt zu-
+- schauen.Bezeichnet:L.Lingeman.Oel auf Holz.H. 40,B. 50.Goldrahmen. Abb.Tafel 9.
+## Alexander Lion
+
+## Brissel1823-1852
+
+- 138 Im Maler-Atelier. Altniederlandischer Innenraum in warmtoniger Beleuchtung. Links neben hohem
+- breitem Fenster sitzt ein Maler mit roter Mitze vor seiner Staffelei; ein dabei stehendes reichgekleidetes Paar sieht ihm bei der Arbeit zu. Rechts hinten im auigelockerten Helldunkel eine um einen Tisch versammelte Gesellschaft. Bezeichnet:A.Lion. Oel auf Holz. H.52, B.40. Goldrahmen.
+
+## Willibald Lucas
+
+geb.1884 in Duisseldorf,gest.1918 in Partenkirchen
+
+- 139 GroBe Landschait mit Dorf im Schnee. Die Hauser eines niederrheinischen Dories von einem Kirchturm iberragt ziehen sich, den ganzen Mittelgrund ausfillend, von links nach rechts hiniber. Vorn tief verschneites flaches Gelande mit einzelnen entlaubten Baumen. Bezeichnet:W.Licas. Oel auf Leinwand.H.80,B.120.Breiter Goldrahmen.
+
+## Ascan Lutteroth
+
+geb.1842 in Hamburg, Schuler von O.Achenbach
+
+- 140 Capri. Im Vordergrunde anmutiges Landschaftsbild mit Weizenfeld zwischen zwei Baumgruppen. Auf mittlerem Wege schreitet ein brevierlesender Monch.Den Hintergrund schlieBt das steile,von der Sonne bestrahlte Felsmassiv ab,vor dem sich das Stadtchen breitet. Bezeichnet: A. Lutteroth. 1876.Oel auf Leinwand.H.55,B.83.Goldrahmen.
+- 141 Castel del Ovo bei Neapel. Die Festungsbauten schlieBen links den Hintergrund ab. Zwischen ilnen sieht man Pferdegespanne und einzelne Personen in kleinen Figuren.Rechts zieht sich eine gepilasterte ummauerte StraBe zum Meer hiniber,iber das hinweg der von Wolken umwogte Vesuv sichtbar wird. Auf der StraBe und links auf einer Bricke einzelne FuBganger.Ein aufkommender Wind fegt
+- graue Staubwolken iber die Szenerie.Bezeichnet:A.Lutteroth. Oel auf Leinwand. H.60,B.100. Profilrahmen.
+- 142 Italienische Alpenpartie.Vorn breites Gebirgstal von breitem iber Geroll stirzenden Bach durchzogen,rechts und hinten umzaumt von Laub- und Nadelgeholz.Den Hintergrund schlieBen machtige
+- rot bestrahlte Bergriesen ab.Bezeichnet:A.Lutteroth.Oel auf Karton.H.46,B.68.Goldrahmen.
+
+## Christian Friedrich Mali,Minchen
+
+geb.1832in Broekhuizen
+
+- 143 Heimkehrende Schafherde. Im Vordergrunde einer higeligen Landschaft eine meist aus weiBen Schafen bestehende Herde.Dahinter der Hirt,an einen aufgezaumten Esei gelehnt. Am Hlorizonte die auisteigende Mondscheibe. Bezeichnet:Christian Mali Minchen.Oel auf Leinwand. H. 82,B. 114. Goldrahmen. Abb.Tafel 12.
+
+## Anton Mauve
+
+geb.1838 in Zandam,gest.1888 in Arnheim
+
+- 144 Frau bei der Wasche in den Dinen. Eine Frau hangt Waschesticke auf eine vor grinem Hinter-
+- grund gespannte Leine.Bezeichnet: A. Mauve. Oel auf Hlz.H. 16, B.25. Goldrahmen.
+
+## Louis Meijer
+
+geb.1809 in Amsterdam,gest.1866in Utrecht
+
+- 145 Segelbarken auf bewegter See bei Sonnenuntergang. Bezeichnet:L. Meijer 1862. Aquarell. Gerahmt. H.32,B.42.
+
+## E.P.Mirani
+
+- 146 Waldweg in Winterstimmung.Leicht verschneites Gelande mit einer in der Mitte haltenden Pferde-
+- karre. Bezeichnet: E. P. Mirani. Oel auf Holz.H.24,B. 29. Goldrahmen.
+- 147 Walddurchblick in Sommerstimmung.Weg mit zwei Figuren und niedriges Haus unter gelichtet
+- stehenden alten Eichen.Bezeichnet:E. P.Mirani. Oel auf Holz.H.24,B.29. Goldrahmen.
+
+## Peter Monstedt
+
+- hohe.Rechts Weide mit Vieh. Sommerstimmung.Bezeichnet.Oel auf Leinwand. H. 54,B. 78.Profilrahmen.
+- Goldrahmen.
+
+## Bezeichnet:Montpizat
+
+19.Jahrhundert
+
+- 149 Zwei Pierde: Schimmel und Rappe im Vordergrund einer Landschaft neben Baumen stehend. Hinter-
+- grund Zeltlager mit Soldaten. Bezeichnet wie oben. Oel auf Holz.H. 15,5, B. 17. Goldrahmen.
+
+## Konrad Miller-Kurzwelly
+
+geb.1855in Chemnitz,gest.1914in GroBlichterielde
+
+- 150 Herbstwald. Lichter Durchblick durch alten,herbstlich gefarbten Buchenwald mit Bach in der Mitte. Bezeichnet:Miller-Kurzwelly.Oel auf Leinwand.H.110,B.83.
+
+## Ludwig Munthe
+
+geb.1841in Aroen,gest.1896in Disseldorf
+
+- 151 Fischergruppe am Strande bei Tauwetter. Vereister und verschneiter Strand mit spiegelnden Wasserlachen unter nebligem Winterhimmel.Von vorn bis zum Hintergrunde hin sieht man Fischerfrauen und Fischer schreitend mit Fischkorben oder bei gefillten Fischkorben im Gesprach.Rechts treten auf der Dine im Hintergrunde graue Hausersilhouetten aus dem Nebel heraus.Bezeichnet:L.Munthe 93. Oel auf Holz.H. 65,B.48.
+- Mitte Gruppe von zwei Frauen und einem Mann. Durch dichtes Gewolk bricht hinten das silbrige
+- Mondlicht.Bezeichnet:L.Munthe.Oel auf Leinwand.H.35,B. 60.Goldrahmen. Abb.Tafel 9.
+
+## J.A.Neuhuys 1869
+
+- 153Derverwohnte Schlemmer.Ein junger Mann in schwarzem Wams und grauen Wadenstrimpfen sitzt miBvergnigten Gesichts an reich bestelltem Frihstickstisch und weist das Glas Rotwein, das ihm von einer Dienerin gereicht wird, zurick. Bezeichnet: JA.Neuhuys 1869. Oel auf Holz. H. 57, B.45.
+
+## Professor Karl Oesterley jr.
+
+geb.1839in Gottingen
+
+- 154 Wasseriall ,Sieben Schwesternim Gairanger Fjord. Ganz steil abfallende Felsen engen den nach hinten stark verengten Wasserarm ein. Rechts stirzt der Wasseriall herab. Vorn auf erbreiterter Wasserflache ein Ruderkahn mit drei Insassen. Bezeichnet:C.Oesterley jr.1907.Oel auf Leinwand. Goldrahmen.
+- 155 Morgenstimmung im Hardanger Fjord. Vorn grinbewachsenes Tal mit Busch- und Baumgruppen,einzelnen Hausern und figurenbelebtem Weg. Nach hinten blickt man auf den nebligen Fjord und die ihn einengenden Felsen.Bezeichnet: C. Oesterley jr. Oel auf Karton.H. 54,B. 81. Goldrahmen.
+- und hinten schroffe Felsen, die von den Strahlen der Mitternachtssonne beleuchtet werden.Bezeichnet: C.Oesterley jr.1906.Oel auf Karton.H.55,B.80.Goldrahmen.
+- 157 Gegend bei Pinneberg in Morgenstimmung. Wiese links von baumumstandenem Bach durchflossen. Mehrere Kihe am Wasser und auf der Wiese. Hinten ein Dorf im Nebel. Bezeichnet: C. Oesterley jr. 1903.Oel auf Karton.H.42,B.67.Goldrahmen.
+
+## Conrad Piau
+
+- 158 Weiblicher Rickenakt, sitzend. Bezeichnet: Conrad Pfau. Oel auf Leinwand.H.54, B. 45. Goldleiste.
+
+## Camille Pissarro
+
+geb.1831 auf St.Thomas (Normandie),gest.1903 in Paris
+
+- 159 DorfstraBe mit iberbricktem Bach rechts. Bezeichnet:C.Pissarro. Aquarell. H. 34,B.46.Goldleiste.
+
+## Pieter Plaes
+
+Alkmar 1810-1853
+
+- 160 Stallinneres. Im Helldunkel eines Stalles mehrere Stick Rindvieh und ein Madchen, das eine Ziege melkt.Oel auf Holz.H.47,B.37.Profilrahmen.
+
+## J.J.van Poorten
+
+- 161 Hochstammiger Buchenwald in sonniger Beleuchtung.Vorn Lichtung mit Blick auf FluB im Hintergrunde. Bezeichnet: J. J.van Poorten. Oel auf Leinwand. H. 47,B. 76. Profilrahimen.
+## H.Post,Disseldorf
+
+- 162 Badendes leichtbekleidetes Madchen an einem Waldbach. Bezeichnet: H. Post. Oel aui Leinwand. H.142,B.105.Goldrahmen.
+
+## Georg Anton Rasmussen
+
+geb.1842 in Stavanger
+
+- 163 Norwegischer Fiord in Morgenstimmung.Hinten schieben sich die nebelverhangenen Felsenketten zusammen.Vorn auf breiter,silberglanzender Wasserflache einzelne Fahrzeuge.Links vorn am flachen Strande zwei Fischer bei ihren Booten.Bezeichnet:A.Rasmussen 93. Oel auf Leinwand.H.51,B. 82.
+- Goldrahmen.
+- 164 Norwegischer Fjord. Beiderseitig schroffe, teilweise mit Schnee bedeckte Felsen.In der Mitte der fahrzeugbelebte Wasserarm.Bezeichnet: A.Rasmussen 1890. Oel auf Holz.H. 42,B. 62. Goldrahmen.
+
+## Jan van Ravenzwaay
+
+Hilversum 1789-1869
+
+- 165 Schafherde im Stalle.In einem von links durch breite offene Tir beleuchteten Stalle stehen und liegen zahlreiche Schafe.In der offenen Tir steht der Schafer.Monogrammiert (auf dem Futtereimer links) JVR.Oelauf Leinwand.H.40,B.49.Goldrahmen.
+
+## Petrus Johannes van Regemorter
+
+Antwerpen 1755-1830
+
+- 166 FluBlandschait in Mondbeleuchtung. In der Mitte der Spiegel des Flusses,von vielen Fahrzeugen belebt.Vorn Gruppe von Fischern um ein Feuer,iber dem ein Kessel hangt. Rechts am Ufer erleuchtete Hauser,Figuren usw.Bezeichnet:J. Regemorter. Oel auf Holz.H. 51,B.74. Goldrahmen.
+
+## Henricus Engelbertus Reyntiens
+
+Amsterdam1817-1859
+
+- 167 Rokoko-Gesellschaft.In prachtigem Louis XVI.-Interieur eine Gesellschaft von reich gekleideten Damen
+- und Herren mit Puderfrisuren. Rechts eine Gruppe beim Schachspiel, links plaudernde Damen und Herren.Bezeichnet:H.E.Reyntjens.Oel auf Holz.H.28,B.39.Goldrahmen.
+
+## A.de Riviere
+
+- 168 Maler im Atelier vor der Staffelei sitzend. Oel auf Karton. H. 35,B.45. Goldleiste.
+
+## Willem Roelofs
+
+geb.1822in Amsterdam,gest.1897in Berchem
+
+- 169 Walddurchblick in Sommerstimmung,mit alten, licht stehenden Eichen.Auf einem Wege in der Mitte eine holzsammelnde Frau. Bezeichnet:W.Roelofs.Aquarell. H. 57, B. 47. Goldrahmen.
+
+## Margaretha Rosenboom
+
+- 170 Blumen-und Frichtestick.Auf braunem Marmortisch farbig leuchtende Gartenblumen in und um eine
+
+geb.1843im Haag,gest.1896in Voorburg
+
+- Vase angeordnet, daneben blaue und gelbe Trauben. Bezeichnet:Marguerite Rosenboom. Oel auf Leinwand. H.75,B.61. Goldrahmen.
+- 171 Kleines Frichtestick. Trauben,Erdbeeren, Pilaume und Pfirsich auf Marmorplatte. Bezeichnet. Oel auf Holz. H. 15, B. 19. Goldrahmen.
+
+## Johannes Rosierse
+
+- 172,Seifenblasen".In einer Fensternische stehen beim Schein einer Oellampe eine junge Frau und ein kleines Madchen gegeniber; letzteres macht mit einem Rohrchen Seifenblasen. Bezeichnet: J. Rosierse. Oel auf Holz.H. 38,B.30.Goldrahmen.
+
+Dordrechter Maler des 19.Jahrhunderts
+
+## Franz Roubaud
+
+- 173 Der Hammeldieb. Farbig gekleidete Beduinen auf wild dahersprengenden Pierden haben vorn einen rotgekleideten Reiter gestellt, der einen Hammel auf der Schulter hailt. Hinten vor den Toren einer Stadt zahlreiches Reitergewimmel. Bezeichnet:F. Roubaud. Oel auf Leinwand.H.74,B.108. BarockGoldrahmen.
+
+geb. 1856 in Odessa,arbeitete in Minchen
+## Jules Ruinart
+
+geb.1836 in Koblenz,gest.1898 in Rolly-la-Montagne. Schiler von A.Achenbach
+
+- 174 Fischerirau an der Nordkiste von Rugen. Links zieht sich die higelige Kiste, begleitet von felsendurchsetztem Strandstreifen nach hinten. Vorn auf festliegendem Ruderkahn sitzt eine Fischerfrau,in
+- Nachdenken verloren. Bezeichnet: Jules Ruinart Drf. Oel auf Leinwand.H. 65, B. 83. Goldrahmen.
+
+## Valentin Ruths
+
+geb.1825 in Hamburg,gest.1905 daselbst
+
+- 175,Ostertag"in Molln (Lauenburg).Den Hintergrund schlieBt das breit gelagerte Stadtchen mit der iberhohten Kirche ab.Rechts hinten der blaue Spiegel des Sees. Den Vordergrund nimmt ein anmutiges baumdurchsetztes Wiesengelande ein,in dem sich zahlreiche Sonntagsspazierganger bewegen.Bezeichnet:Valentin Ruths 1892.Oel auf Leinwand.H.57,B.99. Goldrahmen.
+- 176 Sommernacht auf dem Ratzeburger See.Links der spiegelglatte dunkle See in Mondbeleuchtung.Rechts hinten das Stadtchen mit iberragendem SchloB. Bezeichnet:V.Ruths.Oel auf Leinwand.H. 31,B. 52. Goldrahmen.
+
+## Hendrik Johannes Scheeres
+
+Den Haag 1829-1864
+
+- 177 Althollandisches Zimmer mit Durchblick auf sonnebeschienenen Hoi. In der offenen Tur steht brieflesend eine junge Frau in silbergrauem Seidenrock und dunkelgrauer Jacke, daneben ein Knabe in rotem Kittel, der einen Korb mit Frichten gebracht hat. Bezeichnet:H.Scheeres 59.Oel auf Leinwand. H. 87,B. 59. Goldrahmen.
+
+## Andreas Schelihout
+
+Den Haag 1787-1870
+
+- 178 Kleine Dinenlandschaft mit beigelegten Segelschiffen und feingemalten Staffagefiguren. Bezeichnet: A.Schelfhout.Oel auf Holz.H.17,B.24.Goldrahmen.
+- 179 Kleine Winterlandschaft mit gefrorenem Kanal.Vorn Mann und Frau bei kleinem Handschlitten.Hinten
+- Schlittschuhlaufer.Bezeichnet:A.Schelfhout.Oel auf Holz.H.15,B.19.Goldrahmen.
+- 180 Kleine Landschait in Sommerstimmung mit niedrigem Haus vorn rechts unter hoher Baumgruppe. Links weite Sicht. Bezeichnet:A. Schelfhout. Oel auf Holz.H.17,B.24. Goldrahmen.
+
+## Andreas Schelihout. Zugeschrieben
+
+- 181 Landschaft in Sommerstimmung. Links umzaunter Park, an dessen Tor Bauer und Bauerin stehen. Rechts offene Landschaft mit Herde.Bezeichnet:A.Schelihout. Oel auf Hlolz.H.38,B.37. Goldrahmen.
+
+## Andreas Schelfhout und Joseph Moerenhout
+
+- 182 Das konigliche JagdschloB,Het Loo"bei Apeldoorn.Landschaft von Scheifhout,Staffage von Moerenhout. Man blickt auf das durch Tirme befestigte Portal. Davor aui dem Wege eine Gruppe in altniederlandischen Kostimen:Kavalier,den Falken auf der Faust,steht neben seinem Pferde, das ein Knecht halt und laBt sich von einem anderen Knecht die Sporen anschnallen,wahrend ein dritter die Hundekoppel halt. Links und rechts gepflegte Parkanlagen in Sommerstimmung. Rechts unten die Abb.Taiel 10.
+- Bezeichnung.Oel auf Holz.H.85,B.112.Goldrahmen.
+
+## Caspar Scheuren
+
+geb.1810 in Aachen, gest.1887 in Disseldorf
+
+- 183 Die alte Mihle. Rechts vor einem baumbewachsenen Higel die altersgrauen malerischen Hauschen des Mihlengehofts. Neben der Mihle links, die ganze vordere Bildbreite einnehmend, der breit ausflieBende Mihlenbach,in dem ein Mann und zwei Knaben mit Stangen hantieren.Nach hinten Sicht iber Weide mit Vieh.Bezeichnet:C.Scheuren.Oel auf Leinwand.H.55,B.78. Goldrahmen.Ein HauptAbb.Tafel 13. werk des Meisters von groBem Stimmungsreiz.
+
+## Robert Schleich
+
+geb.1845in Minchen
+
+- 184 Bauernhof in sonniger Beleuchtung mit umherstehenden Wagen, pickenden Hihnern,Bauer und Bauerin im Gesprach.Bezeichnet:Rob.Schleich. Oel auf Karton.H.21,B.24.Goldleiste.
+
+## Ludwig Schleiden , Aachen
+
+- 185 Madchenkopf mit langwallendem,aufgelostem Goldhaar. Bezeichnet. Oel auf Leinwand.H.24,B.20. Profilrahmen.
+## Hendrik Jacobus Scholten
+
+geb.1824inAmsterdam
+
+- 186,Der Spielverderber". Altniederlandischer innenraum. Links steht eine reich gekleidete Dame im Kostim des 17. Jahrhunderts,der zwei kleine Madchen weinend ihr Leid klagen.Ein daneben stehender storrischer Knabe, der von einer Dienerin gescholten wird, hat ihnen das Spielzeug zerbrochen. Rechts hinten sieht man durch offene Tir in einen sonnebeleuchteten Hof,wo drei andere Kinder spielen. Bezeichnet:H.J.Scholten.Oel auf Holz.H.60,B.76. Goldrahmen. Abb.Tafel 7.
+
+## Wilhelm Schreuer,Disseldorf
+
+- 187Hoher Besuch.Vor einem-links unter alten Baumen liegenden niedrigen Bauernhaus sind zwei auf einem Ausritt begrifene Hofkavalierein der Tracht.der Zopfzeit abgestiegen und sprechen mit einer unterwirfig vor ihnen stehenden Frau, die ihnen eine Erfrischung gereicht hat.Links davon halt ein Junge die beiden Reitpferde.Monogrammiert WS. Oel auf Karton.H. 65,B.83.Profilrahmen.
+
+## Eduard Schulz-Briesen
+
+geb. 1831 in NeuB,gest. 1891 in Dusseldorf
+
+- 188 Kinder-Idyll.Knabe,Madchen und Hund haben neben einem Kreuz am Wege einen groBen roten Schirm aufgespannt und suchen darunter Schutzvor einem einbrechenden Gewitterregen.Rechts anschlieBend
+- Getreidefeld.Bezeichnet.Oel auf Leinwand.H.50,B.58.Goldrahmen.
+
+## Carl Wilh. Ant. Seiler
+
+geb.1846 in Wiesbaden,gest.1911 in Minchen
+
+- 189 Friedrich der GroBe auf dem Gefechts-Beobachtungsstand. Auf dem Speicher eines Hauses steht der
+- Konig links vor einer groBen Lucke und spaht,ein Feinrohr in der Hand,in das Gelande hinaus. Ein neben ihm stehender Mann in braunem Rock erklart ihm die Einzelheiten der Oertlichkeit.Rechts steht das Gefolge des Konigs:fuini hohe Offiziere in verschiedenen Uniformen.Bezeichnet:C. Seiler 1903. Oel auf Holz.H.39,B.54.
+
+## Christian Sell d.A.
+
+geb.1831 in Altona,gest.1883 in Duisseldorf
+
+- 190 Wintergeiecht im Kriege 1870/71.Vorn auf verschneitem Huigel drei beobachtende Generale und eine Husarenpatrouille. Bezeichnet: C. Sell 80. Aquarell. H. 28, B. 41. Goldrahmen.
+
+## Professor Julius Seyler, Minchen
+
+- 191 Zum Fang ausreitende Krabbenfischer in der Bretagne. Weiter Blick iber silbergraue Wasserflache.
+
+geb. 1873 in Minchen
+
+- Drei berittene Fischer mit Schleppnetzen ziehen nach hinten. Bezeichnet: J. Seyler. Oel auf Karton. H.65,B.100.Franzosischer Barock-Goldrahmen.
+
+## Pieter Geerard Sjamaar
+
+- 192 Fischmarkt bei Mond- und Kerzenlicht. In mondbeschienener StraBe vorn das figurenreiche Treiben eines Fischmarktes. Bei kerzebeleuchteten Standen Verkauferinnen und Kauferinnen.Bezeichnet:PG. Sjamaar.Oel auf Holz.H.44, B.58.Goldrahmen.
+
+Den Haag 1819-1876
+
+## Johann Sperl
+
+geb.1840 in Buch,gest.1914 in Aibling
+
+- Madchen in roter Jacke und weiBer Schirze neben einem Puppenkorb und blickt zaghaft auf einen Teckel, der ihre am Boden liegende Puppe anbelt. In der offenen Haustir eine lachelnde Bauerin, ein kleines Kind auf dem Arme. Hinter ihr sieht man ein Madchen am Herdfeuer hantieren.-Ganz hervorragendes Kabinettbild des Meisters,von bezwingender Anmut.—Bezeichnet: J. Sperl. Oel auf Holz.H.20,5,B.15.5.Goldrahmen. Abb. Tafel 8.
+- 193 Spielendes Kind. In einem lauschigen Hauswinkel vor blumenumrankter offener Tir steht ein kleines
+
+## Jacob Spoel
+
+- 194 GroBes Gesellschaitsbild.In vornehm ausgestattetem Renaissance-Raum mit hohem Kamin rechts ist eine Gesellschait von etwa 20 Personen in reichen Kostimen des 17. Jahrhunderts versammelt, die sich in einzelne Gruppen gliedert. Man sieht Kavaliere und Damen im Gesprach, ein altes Paar mit Kindern neben dem Kamin,mehrere an einer Hausorgel rechts musizierende Herren und Damen, einen Herrn, der links an einem Tische kostbare Antiquitaten betrachtet,ein junges Paar rechts an einem Erfrischungstisch usw.—Minutiose Malerei in warmem Goldton. Bezeichnet: J. Spoel 1852. Oel auf Leinwand.H. 80,B.104. Goldrahmen. Abb.Tafel 4.
+
+geb.1820 in Rotterdam,gest.1868 daselbst
+- H.45,B.69.Goldrahmen.
+- H.22,B.35.Barock-Rahmen.
+
+geb.1811 in Nederhorst
+
+## Jan Jacob Spohler,Haarlem
+
+- 195 Winterlandschaft. In der Mitte breite Eisbahn mit FuBgangern und Schlitten. Rechts am verschneiten Ufer niedrige hollandische Hauser. Stirmisches Schneetreiben.Bezeichnet:J.J. Spohler.Oel auf Holz.
+
+## Adolf Stademann
+
+- 196 GroBe Winterlandschaft mit zugefrorenem See. Die spiegelglatte Eisflache dehnt sich zwischen bewaldeten Hohen links und rechts dem Hintergrund zu,wo man eine Gruppe von kleinen Figuren sieht. Vorn bei einem Kahn zwei Manner beim Schilfschneiden. Bezeichnet: Adolf Stademan. Oel auf Leinwand.H.88,B.117.Profilrahmen.
+
+geb.1824 in Minchen,gest.1895 daselbst
+
+## J.Steinacker
+
+- Kostuimen. Bezeichnet: J. Steinacker. Oel auf Leinwand.H. 19,B.31. Profilrahmen.
+- 197 Rast in der PuBta. Vorn drei gesattelte Pierde,rechts davon drei rastende Reiter in ungarischen
+
+## Jacob von Stry
+
+- 198 Mondnacht im Winter. Verschneites Gelande mit Baumgruppen und Hausern links vorn. Nach hinten zieht sich ein vereister Wasserarm zwischen Weiden und Windmihlen. Bezeichnet:J. van Stry. Oel aufHolz.H.67,B.94.Goldrahmen.
+
+## Dordrecht 1756-1815
+
+## Karl Stuhlmiller, Miinchen
+
+- 199 Markt im Schnee.Vor dem Tor einer altertimlichen Stadt ein buntbewegtes,figurenreiches Treiben
+- von Bauern mit Wagen und Vieh und kaufendem Publikum. Bezeichnet:K. Stuhlmiller. Oel auf Karton. H.35,B.56.Profilrahmen.
+
+## Hans Thoma,Karlsruhe
+
+geb. 1839 in Bernau
+
+- 201 Glasgemalde. Salome mit dem Haupte Johannes des Taufers. Farbig. Monogrammiert und datiert 92. Das Gemalde wurde von Hans Thoma entworfen und in seinem Beisein in der Kunstglaserei und Malerei von Hans Drinneberg,Karlsruhe,hergestellt.H.50,B.40.
+- 200,Der Bernauer SepplEin frischer Bauernjunge in weiBem Hemd,grauer Hose,schwarzem Hut,blickt, die vollen Lippen leicht geoffnet, den Beschauer treuherzig an. Huftigur mit leichter Rechtsdrehung. Links bezeichnet:Hans Thoma, gemalt in Bernau 1861, Karlsruhe 15. Dez.1919. Oel auf Malpappe. H.27,5,B.22.Goldrahmen. Abb. Tafel 8.
+
+## D.Thomassin,Minchen
+
+- 202 Kleine Landschait im Schnee bei Mondbeleuchtung. Durch verschneite Ebene zieht sich in der Mitte ein Bach nach vorn,an dem ein Jager mit seinem Hund entlang schreitet.Links und rechts im Mittelgrunde Gebisch.—Treflich beleuchtetes Mondscheinbild.——Bezeichnet:D. Thomassin.Oel auf Karton.
+
+## J.H. Melcher Tilmes
+
+- 203 Kleine baumreiche Landschaft in Sommerstimmung. Bezeichnet.Oel auf Holz.H. 15,B.18. Gold-
+- rahmen.
+
+## Jan Bedys Tom
+
+geb.1813 in Leiden,gest.1894
+
+- 204 GroBe Landschaft mit Herde.Weitgedehnte Weidelandschaft von trefilicher Perspektive.Links zieht
+- sich ein Gebisch zum Hintergrunde hin. Vorn weiden bei einem Wassertimpel Kihe, Stiere, Kalber, Schafe. Andere Schafe und eine Kuh zerstreut im Mittelgrunde. Der Hirt liegt schlafend am Boden ausgestreckt.Sommerstimmung. Bezeichnet:J.B. Tom.Oel aui Leinwand.H.70,B.120. Goldrahmen
+
+Abb.Taiel 4.
+
+- 205 Landschaft mit Herdentieren. Weite Wiesenebene mit Gebisch und Dorfern im Hintergrunde. Vorn bei einem Brunnentrog gefleckte Kihe,Jungrinder,Ziege.Links hinten Gruppe anderer Herdentiere.
+- Sommerstimmung.Bezeichnet:JB.Tom 56.Oel auf Leinwand.H.48,B.64.Goldrahmen.Abb.Tafel 9.
+
+## G.del Torre, Venedig
+
+- 206 Zwei italienische Kinder, ein Knabe und ein Madchen, fittern eine Elster. Bezeichnet: G. del Torre, Venezia 1909.Oel auf Holz.H.39,B.32.Goldrahmen.
+## Eduard Trenn
+
+geb.1839 in Sachsenhausen (Mark),gest.1866 in Afrika
+
+- 207 GroBe bergige Landschait mit groBen Laubbaumen im Vordergrunde. Durch die offene Mitte Fern-
+- sicht.Bezeichnet:Ed.Trenn.Oel auf Leinwand.H.100,B.142.Goldrahmen.
+
+## Wilhelm Triibner
+
+- 208 GroBe Wiese mit nach hinten abschliebendem Gebisch.Im Vordergrunde groBe, dicht wuchernde Sumpfpflanzen.Bezeichnet:W.Tribner.Oel auf Leinwand.H.118,B.95.Goldrahmen.Abb.Tafel 13.
+
+## Unbekannter Maler um 1800
+
+- 209 Heroische Landschait bei Rom.Vorn bei alten sturmbewegten Baumgruppen Liebespaar in altromischem Kostim.Durch die baumfreie Mitte blickt man auf Architekturen im Mittelgrunde. Oel auf
+- Leinwand.H.57,B.88.Profilrahmen.
+
+## Eugene Verboeckhoven
+
+geb.1799 in Warneton, gest. 1881 in Brissel
+
+- 210 Schaie und Esel auf der Weide. Vorn rechts am flachen Hange eines Higels drei weiBe Schafe. Links neben ihnen steht,von der Seite gesehen,ein Esel.Wassertiinpel,Baumstamm,fein gemalteGraser
+- ganz vorn. Bezeichnet und datiert 1839. Oel auf Holz.H.26, B. 32. Goldrahmen. Abb.Tafel 7.
+
+## Albertus Verhoesen
+
+- 211 Hihnervolk vor sommerlich gestimmter Landschaft. Um einen hochstehenden Haushahn gruppieren sich eine Anzahl Huhner und ein Truthahn.Bezeichnet:A.Verhoesen 1877. Oel auf Holz. H. 14,5, B.18.Goldrahmen.
+- 212 Gegenstick zu vorigem. Huhnervolk mit Hahn und eine Henne mit Kiken bei umgelegtem Korb. Gleiche Bezeichnung.Gleiche GroBe.
+
+## Wouter Verschuur
+
+geb.1812 in Amsterdam,gest.1874 in Vorden.
+
+- 213 GroBe Winterlandschaft mit Pferden.Links zugefrorener Kanal,auf dessen Eisflache vorn neben einem beladenen Schlitten drei ausgeschirrte Pferde,umgeben von Bauern,Frauen und Kindern,stehen.Rechts auf verschneitem Gelande alter Befestigungsturm neben niedrigem Haus.-Von ungemein subtiler Durchfihrung.Oel auf Holz.H.52,B.69.Barock-Goldrahmen.
+- 214 Zwei Pferde im Stalle. Brauner und Schimmel stehen in gebrochenem Sonnenlichte vor einer Futter-
+- raufe.Am Boden einige Huihner. Bezeichnet:W.Verschuur. Oel auf Holz. H. 14,5, B. 19. Goldrahmen.
+- 215 Schimmel und Rappe im Stalle, bei von links hereinbrechendem Tageslicht. Dabei ein Knecht in roter
+- Bluse.Bezeichnet:W.Verschuur.H.14,5,B.19. Goldrahmen.
+
+## Samuel Leonard Verveer
+
+Den Haag 1813-1876
+
+- 216 Ansicht einer hollandischen Hafenstadt. Links Blick in altertimliche StraBen. Vorn auf freicm Platze Fischer und Frauen mit Tonnen. Rechts Hafenkai und Blick auf die Sce. Bezeichnet: S. L. Verveer. Oel auf Leinwand.H. 56,B. 70. Goldrahmen.
+
+## W.van de Vliet
+
+- 217 Im Pierdestall In warmtonig beleuchtetem Stalle stehen rechts ein Schimmel und ein Rappe vor einer Futterraufe. Dabei ein hantierender Knecht. Links hinten Blick durch offene Tuir in einen Kuhstall mit zwei Stick Rindvieh.Bezeichnet:W.v. d.Vliet. Oel auf Leinwand. H. 47,B. 60.Profilrahmen.
+
+## J.G.Vogel 1860
+
+- 218 Landschaft in Sommerstinimung. In der Mitte ein Wiesengrund mit einzein weidenden Kihen. Links, rechts und hinten Laubgeholze. Bezeichnet und datiert JG. Vogel 60. Oel auf Leinwand. H. 40, B. 55. Goldrahmen.
+- B.23.Gerahmt.
+
+## Professor Hans von Volkmann,Karlsruhe
+
+- 219 Kleine Landschaft bei Willingshausen. Morogrammiert und datiert August 1885. Oel auf Karton. H. 33,
+
+geb.1860 in Halle a.S.
+
+## Wilhelm Volz,Minchen
+
+- 220 ,Abschied". Klosterszene.Oelstudie auf Karton.Rickseitig NachlaB-Zettel.H.24,B.34. Gerahmt.
+- leiste.
+
+1855-1901
+
+- 221 Blondlockiger Madchenkopf nach links. Oel auf Karton. Rickseitig NachlaB-Zettel. H. 30, B.26. Gold-
+
+## A.Weber, Minchen
+
+- 223 Gegenstick. Weintrinkender Bauer und Dirndl. Gleiche GroBe. Goldrahmen.
+- 222 Bayerischer Bauer an einem Wirtstisch sitzend, lachend in seinen leeren Bierkrug blickend. Neben ihm ein lachendes Dirndl. Bezeichnet:A. Weber Minchen. Oel auf Holz.H.47, B.36. Goldrahmen.
+
+## Paul Weber
+
+- 224 Hochgebirgslandschaft. Im Vordergrunde breitet sich eine Alm mit Kieferngruppen, Sennhitte und weidendem Vieh in kleinen Figuren. Jenseits einer Schlucht schlieBen gewaltige Gletscherimassive den Hintergrund ab. Bezeichnet:Paul Weber. Oel auf Leinwand. H.76, B. 122.Flammleistenrahmen.
+
+geb.1823 in Darmstadt,gest.1916 in Minchen
+
+## Theodor Alexander Weber
+
+- 225 Die Rheede von Dieppe.Rechts die stark bewegte See mit Fischerkutter vorn uid einer Anzahl anderer
+
+geb. 1838 in Leipzig,gest.1907 in Paris
+
+- Segelbarken hinten. Links zieht sich eine von vielen Frauen und Fischern belebte Landungsbricke nach hinten,wo sich ein Leuchtturm erhebt. Bezeichnet: Th. Weber. Oel auf Leinwand.H. 54, B. 84. Goldrahmen.
+
+## Albert Wenk, Minchen
+
+- Zahlreiche Frauen mit weiBen Kopftichern tragen fischgefillte Korbe rechts einen Weg hinauf. Bezeichnet:Albert Wenk.Oel auf Leinwand. H.75,B.100.Goldrahmen.
+
+## Alfred von Wierusz-Kowalsky
+
+geb.1849 in Suwalki. gest. 1915 in Minchen
+
+- setzten Wasser vorn. Links vor einer Schneewehe steht ein Wolf, nach rechts hiniber spahend. Bezeichnet.Oel auf Leinwand.H.60,B.87.Profilrahmen.
+- 227 Wolf im Schnee. Blick iber ein weites tief verschneites Gelande, mit einem von Eisschollen durch-
+
+## Botho von Wille,Disseldorf
+
+- 228 Kichen-Inneres mit Madchen. Hinten nach einem Garten offene Tir. Bezeichnet:B.v. Wille. Oel auf Leinwand.H.50,B.65.Gerahmt.
+
+## Fritz von Wille, Disseldorf
+
+- 229 Morenbach i.d.Eifel.Vorn Bach mit Steinbricke zwischen Gebisch. Hinten groBe Burg. Bezeichnet: Fr.v.Wille,D.di. 89.Oel auf Leinwand.H. 52,B.39.Goldrahmen.
+- 230 Felsenschlucht bei Reifferscheidt. Bezeichnet:Rffschd. F.v. W. Oel auf Leinwand. H. 90,B. 60.
+
+## L.Willems
+
+## Holland, Mitte 19. Jahrh.
+
+- 231 In einer SchloBhalle zwei reich gekleidete Damen in Kostimen des 16. Jahrh.,mit eineim vorbei-
+- gehenden Pagen sprechend. Bezeichnet: L.Willems.Oel auf Holz.H. 62, B.47. Goldrahmen.
+
+## Ludwig Willroider, Minchen
+
+geb.1845in Villach,gest.1910 in Bernried
+
+- 232 Gegend beim Staremberger See in Herbststimmung. Vorn eine saftige bachdurchflossene Wiese,von beiden Seiten von herbstlich gefarbten Baumgruppen cingefaBt.Hinten Gebischmasse mitHaus davor. Federvieh als Staffage in Mittelgrunde.Bezeichnet:Lud. Willroider.Oel auf Karton.H. 40,B. 53. Profilrahmen.
+- Profilrahmen.
+## Joseph Wopfner, Miinchen
+
+geb.1843 in Schwaz
+
+- 233 Drei Nonnen im Kahn. See mit weiter Sicht. Vorn rechts ein mit drei Nonnen besetzter Kahn. Diese
+- sind beschaftigt,einen Heiligen-Bildstock mit Rosenketten zu bekranzen.Das Ufer rechts ist mit hohem Gras und Schilf bewachsen.Bezeichnet:J.Wopfner.Oel auf Leinwand.H.27,B.57. Goldrahmen.
+
+## Meister des 16.18. Jahrhunderts.
+
+## Osias Beert
+
+Amsterdam 1622-1678
+
+- Kase,Nassauer Krug,Zinnkanne,halbgefillter Romer,hoher Venezianerkelch, Brot,ein StoB Zinn-
+- teller etc.Oel auf Leinwand.H.74,B.110.Palisanderrahmen.
+
+## Gerrit Beckheyde. Zugeschrieben
+
+Hollandisch,17.Jahrh.
+
+- 235 Der Damplatz in Amsterdam mit vielen Figuren. Reiche Architekturen umsaumen den Platz.Auf ihm
+- herrscht ein bewegtes Treiben vieler farbig gekleideter Figuren:Handler, Kaufer, Spazierganger, Frauen und Kinder. Oel auf Leinwand.H. 68,B. 94.Profilrahmen.
+
+## Abraham van Beyeren.Zugeschrieben
+
+geb.1620 imHaag,gest.1675inAlkmaar
+
+- holz.H. 61,B.38.Goldrahmen.
+- 236 Stilleben mit Trauben,Aepfeln,Zitrone,halbgefilltem Romer und hohem Silberpokal. Oel auf Eichen-
+
+## Pieter van Bloemen
+
+Antwerpen 1657-1720
+
+- 237 Im Zeltlager. Vor groBem Zelte links farbig gekleidete Soldaten zu Pierd und zu FuB in Unterhaltung und beim Aufbruch. Rechts eine Handlerin mit ihrem Gemisekram. Oel auf Leinwand. H.88,B.74. Profilrahmen.
+
+## Pieter de Bloot
+
+Rotterdam 1602-1658
+
+- 238 Bettlerpaar.Frau in griner Jacke,violetter Schurze, Spitzhut,und vollbartiger Mann mit Schlapphut schreiten nach links hiniber. Rechts unten Signatur. Oel auf Eichenholz.H. 27,B. 20,5. Gerahimt.
+
+## Richard Brackenburgh
+
+Haarlem 1650-1702
+
+- Kindern in farbigen birgerlichen Zeitkostimen lauschen den Darbietungen zweier fahrender Musikanten. II.: Gesellschaft von vielen Personen gruppiert sich um ein tanzendes Paar.—Beide bezeichnet. Oel auf Kupfer. H.17,B.22.Alte Goldrahmen. Abb. Tafei 18.
+
+Abb.Tafel 14.
+
+- 239 Zwei figurenreiche Gesellschaftsbilder als Gegensticke. I.:Eine Gesellschaft von Mannern, Frauen und
+
+## Adrian Brouwer
+
+- gewendet.Oelstudie auf Papier.H.20,B.15. Gerahmt.
+- 240 Mannlicher Kopi. Bartiger Kopf mit wirrem Haar,mit gespanntem Gesichtsausdruck nach rechts oben
+
+## Jan Brueghel d. A.
+
+1568-1625
+
+- 241 Kleine Landschaft mit Obsternte. Offene Landschaft mit Baumen links und Hausern rechts. Links sieht man Bauern in kleinen Figuren beim Pflicken und Tragen von Obst,rechts Kifer beim Herstellen von Fassern.Oel auf Kupfer.H.12,B.18.Gerahmt.
+## Jacques Courtois de Bourguignon
+
+- 242 Reitertreffen. Auf vorderem Higel ein von Pulverdampf umzogenes Handgemenge von feindlichen Reitern.Verwundete und Tote am Boden. Oel auf Leinwand. H.31,B.46. Gerahmt.
+
+1621-1676
+
+## Joos van Craesbeeck
+
+- 243 In der Schenke. Vorn links an einem Tische karessierendes Bauernpaar und ein links daneben stehen-
+
+geb.1606 in Neerlinter,gest.1654 in Brissel
+
+- der Mann. Rechts hinten am Rauchfang ein zurickgelehnt schlafender Zecher. Oel auf Eichenholz. H.42,B.33.Barock-Goldrahmen.
+
+Dordrecht 1620-1691
+
+## Aelbert Cuyp
+
+- 244 Landschait mit Jagern und Fischern. Die linke Bildhalfte fillt ein vorn gelichtet stehender Laubwald, unter dessen Baumen cinzelne Hauser sichtbar werden. Auf einem Wege, der an dem Walde entlang fihrt, zwei Reiter und ein Jager mit zwei Hunden. Weiter rechts Angler am Teich. Im Mittelgrund auf einer Wiese weidende Kihe. Links bezeichnet: A. Cuyp. Oel auf Eichenholz.H. 51,B. 82. Gold-
+- 245 Studie. Zwei Kihe stehend und liegend rechts vor Gebisch. Oel auf Holz. H. 20, B. 31. Profilrahmen.
+- rahmen. Abb. Taiel 18.
+
+## Dirk Dalens I
+
+- 246 Baumreiche Landschait mit Herde. Links vorn flacher Hugel mit dichtem Baumschlag,zwischen dem eine Turmruine sichtbar wird. Am Rande des Baumschlags kleine Herde von Kihen und Ziegen und schlafende Diana von Endymion iberrascht.Rechts buschdurchsetztes Tal mit weiter Sicht.In der Mitte
+
+geb.1600 in Dordrecht, gest.1676 in Zierikzee
+
+- unten bezeichnet:D.Dalens 1640.Oel auf Eichenholz.H.52,B.70. Goldrahmen. Abb.Taiel 18.
+
+## Deutsch, 16. Jahrh.
+
+- 247 Kreuzigung. Vorn der Gekreuzigte und Johannes, Maria und Maria Magdalena.Hinten Blick auf Jeru-
+- salem.Oel auf Leinwand.H.79, B.52.Profilrahmen.
+
+## Deutscher Meister von 1673
+
+- 248 Bildnis der Maria Ida geb. von Plettenberg,verwitw.von Beverforde.LebensgroBes Brustbild in Goldbrokatkleid und rotem Mantel. Name und Jahreszahl in gleichzeitiger Schrit aui der Rickseite.
+- Oel auf Leinwand.H.83,B.65.Goldrahmen.
+
+## Deutsch, 17. Jahrh.
+
+- 249 Ovales Damenbildnis. Hiftbild einer juingeren Birgerfrau in rotem Kleid und grinem Ueberwurf. Oel auf Leinwand.H. 88,B.71. Ovaler ornamental geschnitzter Goldrahmen aus der Zeit.
+
+## Deutsch,18. Jahrh.
+
+- 250 Der Pharisaer und der Zollner im Tempel. Nach dem Gleichnis Lucas XVIll. Oel auf Holz. H.52, B.39. Goldrahmen.
+
+## Jan le Duck
+
+Den Haag 16301676
+
+- 251 Kavalier und Dame in sehr reichen Kostimen des 17. Jahrh. nebeneinander schreitend. Bezeichnet:
+- JL.Duck Fecit.Oel auf Eichenholz.H.41, B. 35.Profilrahmen.
+
+## Cornelis Dusart
+
+Haarlem 1660-1704
+
+- 252 Zechende Bauern. Zwei Manner in blauen bzw.grauen und braunen Kitteln,und eine braungekleidete Frau mit weiBem Kopituch sitzend und stehend um einen Tisch gruppiert.Der Mann rechts halt einen Raerener Krug, wahrend die Frau ein gefilltes Glas hochhebt. Links unten undeutl. Signatur. Oel auf Eichenholz.H.28,B.22.Gerahmt. Abb.Tafel 16.
+
+## Franzosisch, 18. Jahrh.
+
+- 253 Bildnis einer jungen Dame in rotem spitzenbesetzten Kleide und blauem Ueberwurf. Oel aui Leinwand.
+- H.38,B.31.Goldrahmen.
+- rahmen.
+
+## Jan van Goijen
+
+geb.1596 in Leiden, gest. 1656 im Haag
+
+- 254 GroBe fluBdurchzogene Landschaft.In der Mitte der FluB mit geofneter Schleuse,durch die hindurch legten Ruderkahn.Auf einer Planke rechts bezeichnet:J.v. Goijen.Oel auf Leinwand.H. 61,B.100
+- 255 Kleine fluBdurchzogene Landschaft mit hohen Baumen und kleinen Figuren im Vordergrunde.Hinter-
+- man auf baumreiche Ufer im Hintergrunde blickt.Rechts vorn leicht ansteigendes griinbewachisenes Ufer mit hoher Baumgruppe, hinter der ein Haus sichtbar wird. Davor zwei Manner in einem angeAbb.Tafel 16.
+- grund mit weiter Sicht. Oel auf Holz.H.13,B.20.Profilrahmen.
+
+## Richtung Abraham Govaerts
+
+niederlandisch,Anfang 17. Jahrh.
+
+- Bauern.Oel auf Leinwand.H.42,B.55.Gerahmt.
+- 256 FluBdurchzogene Landschaft mit Dorf und zahlreicher Staffage von Reitern und zu Markte zichenden
+
+## Frans Hals d. Jingere
+
+1623-1669
+
+- einen Eimer gehauftes Gemise,links daneben eine Anzahl Fische und cin Eimer mit Muschein.Profilrahmen.
+- 257 GroBes Stilleben. Auf einem Kichentisch vor einer Wand mit Bord und Fenster links, in und um
+
+## Dirk Hals. Zugeschrieben
+
+Hollandisch,17. Jahrh.
+
+- spielend neben einem mit SchaugefaBen besetzten Kamin links. Oel auf Eichenholz.H. 40, B. 54. Flammleistenrahmen.
+- 258 Lustige Gesellschaft. Kavaliere und Damen in reichen Kostimen des 17. Jahrh. singend, trinkend,
+
+## Jan Davidsz de Heem
+
+geb.1606 in Utrecht,gest.1683 in Antwerpen
+
+- 259 Blumenstick.Auf einer Gartenarchitektur in malerischer Anordnung Rosen,Winden,Schneeballen und andere Blumen in subtiler Malerei. Rechts Pilze an einem Brunnenrand. Links neben einem grinen Zweig Ringelnatter, die gegen eine Eidechse zingelt.Rechts am Brunnenrand bezeichnet:D.DE HEEM. Oel auf Leinwand.H. 56,B. 45. Goldrahmen. Abb.Tafel 14.
+
+## Hollandisch, 17. Jahrh.
+
+- 260 Frichtestilleben. Auf braunem Tische ein hoch mit Aepfeln, Birnen, Trauben gefillter Korb. Davor neben und auf einem Teller angeschnittene Frichte. Links ein grauer Steinzeugkrug. Oel auf Eichenholz.H.54,B.73.Gerahmt. Abb.Tafel 17.
+- farbiger Schmetterling und minutios gemalte Wassertropfen.Farbenschone Darstellung. Oel auf Eichenholz.H.36,B.40.Goldrahmen.
+- 261 Frichtestilleben. Aepfel, Piirsiche, Pflaumen und andere Frichte auf grauer Steinplatte. Dabei ein
+
+## Abraham van Kalraet
+
+Dordrecht 1643-1721
+
+- 262 Frichtestilleben.Auf grauer Marmorplatte ein Korb mit Aepfeln und Pilaumen, daneben Trauben,zerstreute Kirschen, Johannisbeeren etc.Oel auf Leinwand.H. 44,B.53.Goldrahmen.
+
+## Godard Kamper
+
+- 263 Gesellschaitsbild. Eine vornehme Gesellschaft von Kavalieren und Danen in einem Zimmer versammelt. Rechts an einem rot und weiB gedeckten Tische vier musizierende und singende Personen und ein karessierendes junges Paar. Dahinter und links daneben je ein prachtig gekleidetes Paar im Gesprach.Rechts vorn am Boden Notenhefte und Kessel. Links auf einem Postament voll bezeichnet:
+
+geb.1614 in Dusseldorf,gest.1679 in Leiden
+
+- G.Kamper A. 1649. Oel auf Eichenholz. H. 60, B. 84.
+
+## Cornelis Ketel
+
+geb.1548 in Gouda,gest.1616 in Amsterdam
+
+- 264 Bildnis eines Herrn in schwarzer spanischer Tracht mit.weiBer Halskrause,in der Linken Handschuhe haltend. LebensgroBes Huftbild in Dreiviertel-Profil nach rechts. Oben Wappenschild mit drei Sichelmonden und Jahreszahl 1599,oben rechts AETATIS 60. Oel auf Eichenholz. H. 103, B. 77.Profil-
+
+Abb. Tafel 18.
+## Nicolaus Knupfer
+
+- 265 Die Geldwechsler. Zwei Herren sitzen an einem mit Geldsticken und Skripturen bedeckten Tische. Der eine schaut aus dem Bilde heraus, der andere halt,mit einer Brille bewafinet, die Geldwage hoch. Oel auf Leinwand.H.83,B.67.Goldrahmen.
+
+geb.1603 in Leipzig,gest.1660 in Utrecht
+
+## Johann Kupetzky
+
+- 266 Selbstbildnis mit Brille. Brustbild in braunem Rock und brauner Mitze, den Beschauer anblickend.
+
+geb.1666 in Posing,gest. 1740 in Nirnberg
+
+- Oel auf Leinwand.H.52, B. 37. Goldrahmen.
+
+## Jan Lievens
+
+geb.1607 in Leiden,gest.1674 in Amsterdam
+
+- holz.H. 55,B. 39. Goldrahmen.Mit Zertifikat von Dr.C.Hofstede de Groot.
+- 267 Greisenkopf. Kopf eines alten Mannes mit starkem weiBen Vollhart, das vergeistigte ausdrucksvolle Gesicht dem Beschauer zugewendet. Lm die Schultern hangt eine reiche Amtskette. Oel aui Eichen-
+
+## Johannes Lingelbach
+
+geb.1622 in Frankfurta.M.,gest.1674 inAmsterdam
+
+- J.Lingelbach. Oel auf Leinwand. H.54, B. 77. Goldrahmen.
+- 268 Orienthafen. Rechts an den Hangen eines steilen Berges eine orientalisch gebaute Stadt. Vorn am Landeplatz eine Anzahl Figuren,zum Teil in schonen Kostimen, darunter eine Dame in einer von zwei Pferden getragenen Sanfte. Links vor Anker liegende Schiffe und Leuchtturm. Rechts bezeichnet:
+
+## Claude Lorrain, Schule
+
+Franzosisch,17.Jahrh.
+
+## Alessandro Magnasco
+
+- 269 GroBe Landschait mit Figuren. Weite Ebene mit Baumgruppen links und rechts. An einem vorderen Bach Fischer beim Fang. Zahlreiche kleine Figuren im Mittelgrunde. Oel auf Leinwand. H. 96,B.126. Goldrahmen.
+
+Genua1681-1747
+
+- 270 Felsenlandschaft mit Wasseriall und Figuren. In der Mitte des Bildes stirzt zwischen zwei Felsen hindurch ein breiter Wasserfall. Die beiden Felsen werden auf ihrer Hohe durch primitiven Steg iberspannt, auf dem Reiter und FuBganger. Links unten am Ufer mehrere farbig gekleidete Manner und Frauen.Rechts am Hang Hirt mit kleiner Herde,oben rechts eine Kirche.- Charakteristisches Bild
+- des Meisters in Komposition und Ton. Oel auf Leinwand. H. 71,B. 97. Abb. Taiel 15.
+
+## Meister der weiblichen Halbfiguren. Zugeschrieben
+
+- 271 Halbfigur einer jungen Frau in rotem Kleide.Sie steht in einem Buche lesend vor einem Tisch.aui dem
+- ein TintenfaB steht.Oel auf Leinwand. H.40,B. 32.Goldrahmen.
+
+## Gabriel Metsu
+
+geb.1615 （?) in Leiden.gest.1667 in Amsterdam
+
+- 272,Das Almosen".Links stehende Bettlerin mit einem Kind auf dem Ricken spricht einen voriberdrei andere Personen und ein Jagdhund vor einer Haustire.Links hinten die Reitpferde des Kavaliers. Links unten bezeichnet:G.Metsu.Oel auf Eichenholz.H. 46,B. 36. Profilrahmen.
+
+## Frans Mieris. Nach ihm
+
+- 273 Dame in roter mit weiBem Pelz gefitterter Jacke, einen grunen Papagei fitternd. Oel auf Metall. H.29,B.24.Goldrahmen.
+
+## Willem van Mieris. Zugeschrieben
+
+- 274 Vertumnus und Pomona. Vertumnus in Gestalt einer alten Frau plaudert mit der yor Parkhintergrund sitzenden Pomona.Oel auf Eichenholz.H. 17,B.14. Goldrahmen,
+## Jan Miensze Molenaer
+
+Haariem,1610-1668
+
+- 275 Singende Bauern. In helldunklem Raum zwei Manner und eine Frau singend und trinkend un einen Tisch gruppiert. Fin vorn auf eine Bank gerakelter junger Mann in rotem Rock und roter Mitze streicht singend die Geige. Auf einem Fasse rechts undeutl. Bezeichnung. Oel auf Eichenholz.H. 29,
+- B.23. Abb.Tafel 16.
+- 276 Tanzende Bauern in der Kneipe. In der Mitte tanzendes,farbig gekleidetes Paar,links ein Dudelsackblaser. Rechts um ein FaB herum Gruppen von Zechern. Bezeichnet: J. Molenaer. Oel auf Eichenholz.
+
+## Pieter Molyn
+
+## geb.1595in London,gest.1661in Haarlem
+
+- 277 Gebirgige Landschaft mit Figuren. Reich abgestufte Landschait mit weiter Sicht.Links und rechts engen Felsengebirge ein baumreiches mittleres Tal ein.Auf einem steilen Felsen links erlebt sich cine Burg. Vorn links auf sonnigem Higel Pferdegespann und einzelne Figuren schreitend und rastend. Im Grunde Schafherde mit Hirt. Links unten monogrammiert und datiert 1655. Oel auf Eichenholz.
+
+## Jodocus de Momper
+
+- H.49,B. 60.Goldrahmen. Abb.Tafel 17.
+
+## Antwerpen 1564-1635
+
+## Paulus Moreelse
+
+- 278 Landschafit mit groBer Burg auf schroffem Felsen rechts, der in cinen See vorspringt. Vorn am Ufer feine Figurenstaffage.Links Fernsicht auf Hohenzige hinten. Oel auf Holz, parkettiert. H. 28, B. 38. Geranmt.
+
+## Utrecht 1571-1638
+
+- Oel auf Eichenholz. H. 33,B.17. Gerahmt.
+- 279 Bildnis einer stehenden Dame in grinem goldbordiertem Kleid,einen Blumenkranz im blonden Haar.
+
+## Niederlandisch,16. Jahrh.
+
+- 280 Kruzifixus im Vordergrunde einer weiten Landschaft mit Blick auf die blautonig gemalte Stadt Jeru-
+- salem.Unter dem Kreuz Bewaffnete. Oel auf Eichenholz.H.37,B.27. Alter Goldrahimen.
+
+## Niederlandisch,17. Jahrh.
+
+- Oel auf Leinwand.H.60,B.50.Gerahmt.
+
+## Isaak Ouwater
+
+## Amsterdam 1750-1793
+
+## Palamedes Palamedesz I.
+
+- 282 Hollandische Stadtansicht.Links breiter Kanal, belebt von FloBen und Kahnen. Rechts zieht sich am Kanal entlang eine Reihe niedriger hollandischer Hauser.Davor eine Schiffswerft mit arbeitenden Mannern etc.Vorn in der Mitte auf eineim Balken bezeichnet:Js. Ouwater. Oel auf Leinwand.H. 47, B.67. Goldrahmen. Abb.Tafel 17.
+
+1607-1638
+
+- 284 Fechtender Reiter, auf einem Schimmel nach links sprengend, ein Faustrohr auf einen andringenden
+- 283 GroBes Reitergefecht.Vorn das Kampfgewihl einer Reiterattacke auf eine Abteilung FuBvolk,iberwogt von schwarzem Pulverrauch.Am Erdboden Tote und Verwundete, Hlite und Waffen. Rechts hinten eine andere kampfende Abteilung.Oel auf Leinwand.H.84,B.120.
+- Pikenier abfeuernd.Oel auf Eichenholz,rund.Dm.1l. Goldrahmchen.
+
+## Nachfolger des Perugino.
+
+- 285 Maria mit dem Jesuskinde. Vor grintoniger Felsenlandschaft. Oel auf Leinwand, die auf Holzbrett
+
+Italien, 16. Jahrh.
+
+- gezogen.H.46, B. 35.Polychromierter Rahmen.
+
+## Franz Pourbus II.
+
+- 286 Bildnis eines jingeren Herrn mit blondem Vollbart und breitem Spitzenkragen. Dreiviertelprofil nach
+
+geb.1569 in Antwerpen,gest. 1622 in Paris
+
+- rechts.Oel auf Eichenholz,H.22,B.17.Alter Profilrahmen,
+- H.34,B.47. Goldrahmen.
+- H.21,B.16.
+
+## Rembrandt-Schule
+
+Hollandisch,17. Jahrh.
+
+- Haustire herausschauenden beturbanten Alten ihre Latwergen an. Oel auf Eichenholz.H. 38, B. 30. Goldrahmen.
+
+## Jusepe de Ribera
+
+1588-1652
+
+- 288 Kleiner Greisenkopf mit machtiger Stirn aus dunkelem Grund herausleuchtend. Oel auf Eichenholz.
+
+## Nach Guido Reni
+
+- 289 Mater dolorosa. Nach links geneigtes Gesicht mit grinem Kopftuch. Oel auf Leinwand. H. 28, B. 21.
+
+## Jusepe de Ribera. Zugeschrieben
+
+- auf Leinwand.H.63,B.47.Goldleiste.
+- 290 BiBender Heiliger in stark entbloBter Halbfigur mit grauem Vollbart, in einer Schriftrolle lesend. Oel
+
+## Jacob Ruisdael. Zugeschrieben
+
+- 291 Baumreiche Landschaft mit Ruine. Rechts zieht sich eine baumbewachsene Higelkette nach hinten, auf der sich vorn die Ruine einer Burg erhebt. Ein ausgefahrener Weg fihrt an den Hugeln vorbei dem Hintergrunde zu.Oel auf Eichenholz.H.32,B.41.Goldrahmen.
+
+## Rachel Ruysch. Zugeschrieben
+
+- 292 Blumenstick. Rote und weiBe Rosen und andere Gartenblumen in einer Vase. Oel auf Leinwand H.35,B.31.In altem geschnitzten Goldrahmen.
+
+Amsterdam16641750
+
+## Willem Schellinks
+
+Amsterdam 1627-1678
+
+- 293 GroBe baumreiche Landschait mit Figuren. Vorn eine die Bildmitte betonende hohe Baumgruppe. Rechts davon baumumgebener Wiesengrund mit niedrigem Haus. Links ein Bach und Blick iber buschbewachsene Wiesen. Vor einem Wirtshaus im Mittelgrunde mehrere Figuren.Vorn rechts bei einer Hirde Mann und Frau im Gesprach mit einer anderen Frau.Auf der Hirde Monogramm WS. Oel auf Eichenholz.H.72,B.106.Goldrahmen. Abb.Taiel 15.
+
+## Floris van Schooten
+
+Haarlemer Maler des 17.Jahrh.
+
+- 294 Stilleben vor einem Hause.Krautkopfe, Gurken, Melonen, Zwiebeln,Mohren gehauft neben kupfernen
+- Kesseln,eisernen Topfen,TongefaBen vor einem Hause,iber dessen Halbtir hinweg eine Frau und ein Mann in die Landschaft nach links schauen. Oel auf Eichenholz.H. 37,B.50.Goldrahmen.
+
+## Jan Siberechts
+
+geb.1627 in Antwerpen,gest.1703 in London
+
+- 295 Landschaft mit Bauern.Waldreicher Vordergrund mit starken Baumgruppen links.Auf cinem Wege strebt ein schwer beladenes mit zwei Pferden bespanntes Marktfuhrwerk nach hinten. Auf beiden Seiten Frauen und Manner mit Traglasten. Gebirgiger Hintergrund. Oel auf Leinwand.H. 6l,B. 76. Goldrahmen.
+
+## Jacob van Spreeuwen
+
+Genremaler des 17. Jahrh.in Leiden
+
+- 296 St.Hieronymus in der Zellie.Er sitzt meditierend in helldunklem Raum vor einem mit Bichern belegten Tische,einen Totenschadel in der Linken,Bicher und ein Globus am Boden vorn rechts.Links hinten,neben dem Heiligen,fihrt eine Wendeltreppe hoch. Oel auf Eichenholz.H. 46,B.32. Mit
+- Zertifikat von Dr.C.Hofstede de Groot.
+
+## Adriaen van Stalbemt
+
+Antwerpen 1580-1662
+
+- 297 Phantastische Felsenlandschait mit Figuren. Zwischen hohen Baumen des Vordergrundes hindurch blickt man auf baumumstandenen Felsen,zu dem ein Steg emporfihrt.Rechts vorn der Blinde,der den
+- Lahmen tragt. Oel auf Eichenholz.H. 30,B.41. Gerahmt.
+## Siiddeutsch,15. Jahrh.
+
+298 Fragment eines Tafelgemaldes. St. Martin und der Bettler. Oel auf Holz.H.58, B.54.
+
+## Art des Abraham Teniers
+
+- auf Holz.H.19,B. 15. Profilrahmen.
+
+## Manir des Aegidius van Tilborch
+
+- 300 Kichen-Interieur mit Fassern,Topfen, Schisseln,links vorn. Rechts hantierende Magd. Im Hinter-
+- grunde drei Manner bei einem Rauchfang.Oel auf Holz.H.39,B. 54.Goldrahmen.
+
+## Johannes Victoors
+
+1620-1676
+
+- 301 Brustbild eines alten Herrn in schwarzem Talar mit weiBem Halskragen und weiBen Stulpen. Oel auf
+- Leinwand.H.75,B.58.Goldrahmen.
+
+## A.Victorijns
+
+Hollandisch,Mitte 17. Jahrh.
+
+- 302 Zwei Bauern und eine Frau sitzen musizierend um eine Tonne in helldunklem Raum.Links eine Katze.
+- Oel auf Eichenholz.H.25,B.31.Gerahmt. Abb.Taiel 17.
+
+## Vlamisch, 16. Jahrh.
+
+- 303 Beweinung Christi. Vorn unter dem Kreuz Maria und Johannes,den Leichnam Christi zwischen sich haltend.Rechts hinten befestigte Stadt.Oel auf Eichenholz.H.37,B.27.Profilrahmen.

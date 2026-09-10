@@ -1,0 +1,5 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_84047,164280,1,2,"Paysages sepia, signes C. BoURGEois, 1824-1812, portant der-",56,98.2,False,none,,,,,
+BO0624_84047,164281,2,2,"Paysages ovales formant pendant (portant derriere les n°s 45 et 46) etb(H.0.61,L.0.48.",69,98.8,False,positional,CLAUDOT(JEAN-BAPTISTE-CHARLES),,,,
+BO0624_84047,164282,3,I,"mpossible de rendre avec plus de verite et de charme familier une tete de vieillard aux longs cheveux. Les chairs, les divers attributs, la tonalite generale sont harmonieux et larges de facture.",118,99.7,False,positional,COURTOIS (JACQUES),,,,
+BO0624_84047,164283,4,I,l y a dans cette reunion intime une naivete charmante. Les poses sont naturelles ; les costumes et les details sont pleins d'exactitude.,234,99.6,False,positional,VERNET(JOSEPH),,,,

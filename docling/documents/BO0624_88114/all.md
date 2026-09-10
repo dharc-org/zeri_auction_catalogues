@@ -1,0 +1,593 @@
+<!-- image -->
+
+## VERKAUFSBEDINGUNGEN.
+
+- Ubernahme erfolgt sogleich mit dem Zuschlage.
+- 2.Durch die Ausstellung ist Gelegenheit geboten, sich von der Eigenschaft und dem Zustande
+- der einzelnen Gegenstande zu uberzeugen, es konnen Reklamationen nach erfolgtem Zuschlage in keiner Weise berucksichtigt werden. Die im Katalog enthaltenen Angaben und Beschreibungen der zum Verkauf gestellten Gegenstande werden nicht gewahrleistet.
+3. Der Unterzeichnete behalt sich das Recht vor, Nummern zu vereinigen oder zu trennen sowie die Reihenfolge der Nummern nicht genau einzuhalten, jedoch werden nach Moglichkeit die Tagesprogramme genau eingehalten. Das geringste Gebot bis zu 1o0,— Mk. ist
+- 1,—Mk.,uber 100,—Mk.5,——Mk.
+4. Die Ersteher haben auf den Zuschlagspreis das gewohnliche Aufgeld von 10 % zu entrichten. Durch etwaiges Doppelgebot entstehende Meinungsverschiedenheiten veranlassen nochmaliges Ausgebot oder es entscheidet das Los. Diejenigen Kaufer, welche am folgenden Tage zu zahlen winschen, missen eine angemessene Summe vor der Versteigerung deponieren. Der Unterzeichnete behalt sich das Recht vor, die angesteigerten, nicht in Empfang genommenen Gegenstande auf Kosten und Gefahr des Ansteigerers wieder zu verkaufen, auf den Mehrerlos hat der Kaufer keinen Anspruch und fur den Ausfall haftet er.
+- 5.Fur die Aufbewahrung verkaufter Nummern kann in keiner Weise eine Garantie uber-
+- nommen werden, jedoch werden sie auf Wunsch des Erstehers und fur dessen Kosten sorgfaltig verpackt und zum Versand gebracht.
+- 6.Es ist nur den mit Katalogen oder EinlaBkarten versehenen Personen die Besichtigung der Sammlung gestattet, wie dies auch bezuglich der Auktion der Fall ist. Bei der Besichtigung
+- wird groBte Vorsicht empfohlen,da jeder Besucher einen von ihm angerichteten Schaden zu ersetzen hat. Alle Zahlungen und Versteigerungsgebuhren wie Auskunfte sind nur an das Lubecker Kunst-Auktions-Haus Cornelius C.M.Michaelsen zu leisten resp. zu richten. Kataloge und Einlafkarten sind zu beziehen und Auftrage nimmt entgegen, welche durch zuverlassige Experten kostenlos ausgeboten werden.
+
+## Libecker Kunst-Auktions-Haus Cornelius C. M. Michaelsen
+
+53 Beckergrube LUBECK Telefon Nr.2552
+
+Bank-Konten:Lubecker Privatbank und Bank fur Handel und Gewerbe.
+
+<!-- image -->
+<!-- image -->
+
+## VERKAUFSORDNUNG.
+
+Dienstag,den 6.Mai, von 10-2 und 47 Uhr:
+
+Nr.1—296 und 383-426.
+
+Fayencen, Porzellane, Kristalle, Silber- und Bronzegerate, Miniaturen, Kupferstiche, Gemalde,echte Geige,verschie- dene Gegenstande.
+
+Mittwoch, den 7.Mai,von 102 und 4—7 Uhr:
+
+Nr.297—382.
+
+MOEBEL im Renaissance-,Barock-Empire- und Biedermeierstil, aus Mahagoni- und Eichenholz.
+
+<!-- image -->
+
+<!-- image -->
+## KERAMIK.
+
+## Fayencen und Steinzeug.
+
+- 1-3. DREI RHEINISCHE KRUGE,gehenkelt, auf der Leibung eingeritzte Ornamente;
+- mit Zinndeckel. 18. Jahrhundert. Hohe 22 cm.
+- 4.ALTE SIEGBURGER SCHNELLE,zylindrische Form, gehenkelt, auf der Leibung plastische, allegorische Darstellungen, Wappen, Ornamente, Namen und Jahreszahl 1587.
+- Besonders schon gearbeitetes Original, sehr gut erhalten. Hohe 251/2 cm.
+
+Siehe Abbildung Tafel I.
+
+5. RHEINISCHER WAPPENKRUG, Walzenform,um die Leibung Proflringe, auf der Stirn-
+2. seite Wappen; mit graviertem Zinndeckel. Um 1700. Hohe 19 cm.
+3. 7.GROSSE DELFTER VASE,bauchig, mit Landschaften und Figuren, tiefblauer Dekor.
+4. Repariert. Hohe 28 cm.
+5. 8.GROSSER INGWERTOPF, um die Leibung zieht sich eine chinesische Landschaft; Hauser,See und angelnder Chinese; Dekor: tiefblau.
+6. Sehr selten. Hohe 20 cm, Durchmesser 20 cm.
+7. 9.DELFTER VASE, blauer Dekor, doppelt gekenkelt, Fuf repariert. Hohe 20 cm.
+10. ZWEI DELFTER VASEN,mit Deckel, hierauf Lowe, auf der Leibung der Vase grofere Streublumen,Dekor: blau.Hohe 15 cm.
+9. 11—18. ACHT KIELER TELLER, eine ovale Schussel,der Rand gewellt,Tellerrand und Fond mit groferen Streublumen; hubscher mehrfarbiger Dekor. Durchmesser 40X30 cm. Sieben Teller, Rand und Fond mit Streublumen dekoriert. Durchmesser 24 cm. Marke: braun,K. B. A.Seltene Originale. Siehe Abbildung Tafel I.
+19. DELFTER TELLER,Rand von Bandornamenten umzogen,im Tellerfond grofes Blumen-
+11. stuck, Dekor: tiefblau;etwas repariert. Durchmesser 33 cm.
+12. 20a u.b. ZWEI KIELER FAYENCE-TELLER, ovaler, gewellter Rand; bunter Blumen-
+13. dekor. 18. Jahrhundert. GroBe 25X33 cm.
+14. 20—22. DREI GEBUCKELTE TELLER, weif glasiert,ohne Dekor. Durchmesser 34 cm.
+23. GROSSER DELFTER TELLER,Tellerrand mit Blumenranken,im Fond chinesische Landschaft und lustwandelnde Chinesen. Tiefblauer Dekor; etwas gesplissen. Durch-
+16. messer 33 cm.
+24. GROSSER DELFTER TELLER, Tellerrand mit Blumen- und Bandornamenten dekoriert, im Fond Blumenkorb mit Blumen und Frichten gefullt, hubscher vielfarbiger Dekor; kleiner Sprung. Durchmesser 30 cm.
+25. GROSSER SCHLESWIGER TELLER, mit tiefblauem Blumendekor. Durchmesser 30 cm.
+26. SCHLESWIGER TELLER,mit tiefblauem Blumendekor,kleiner Sprung. Durchmesser 30 cm.
+3. 27-30.VIER SCHLESWIGER TELLER,Tellerrand und Fond mit blauem Blumendekor, z.Teil mit Marke. Durchmesser 22 cm.
+4. 31—34. VIER TEILE FAYENCEN, drei Vasen, blauer Dekor (Delft),ein Senfnapf, mehrfarbiger Dekor (interessant). Ca. 15 cm.
+35. WEDGEWOOD TERRINE, mit Teller, weif glasiert, Rokokoform, doppelt gehenkelt, auf dem Deckel Knauf; sehr gut erhalten, mit eingedrickter Marke. Hohe 28 cm, Lange 40 cm. Siehe Abbildung Tafel Vll.
+6. Hohe 23 cm.
+7. Brustbild eines alten Mannes, Ber. Luinus. Hubscher farbiger Dekor. Marke: J. G. 1525. Durchmesser 28 cm.
+38. DELFTER TELLER, farbiger Blumen- und Straucherdekor; repariert. Durchmesser 32 cm.
+39. ITALIENISCHER MAJOLIKA-TELLER,im Tellerfond weibliches Brustbild Silvia. Hubsche farbige Glasur mit blauer Marke. Durchmesser 241/2 cm.
+40. DELFTER TELLER, blauer Blumendekor; repariert. Durchmesser 30 cm.
+41. KLEINE TERRAKOTTA-GRUPPE, Bauer und Bauerin. Hohe 8 cm.
+42. ALTER FRANKENTHALER FAYENCE-KRUG, gehenkelt,bunter Dekor; sehr selten vorkommend;bezeichnet: Frankenthal 1798. Hohe 14 cm. Siehe Abbildung Tafel I.
+43. FAYENCE-KRUG, gehenkelt, mit Zinnmontierung, auf dem Deckel Munze, der Krug bunt dekoriert,figurliche Darstellung. Gezeichnet. Schleswig-Holstein. Besonderes Stuck. Hohe 22 cm. Siehe Abbildung Tafel I.
+44. FAYENCE-KRUG,gehenkelt, bunter Blumendekor, mit Zinnmontierung, Jahreszahl 1757. Schleswig-Holstein. Hohe 28 cm. Siehe Abbildung Tafel I.
+15. Monogramm mit Krone, Jahreszahl 1763; der Krug bunt dekoriert, auf der Stirnseite
+
+Siehe Abbildung Tafel I.
+
+- Wappen. Schleswig-Holstein. Seltenes Exemplar. Hohe 27 cm.
+- 46 u. 47.ZWEI FAYENCE-KRUGE, gehenkelt, bunter Dekor, mit graviertem Zinndeckel. Schleswig-Holstein.Um 1700. Hohe 22 cm. Siehe Abbildung Tafel I.
+- 48u.49. ZWEI WEDGEWOOD-PLATTEN, oval, schwarz; allegorische Darstellung nach Thorwaldsen. Vorzigliche Originale; mit eingedrickter Marke. GroBe 121/ X 161/2 cm.
+51. FUNF TELLER, verschiedene Grofen; englisches Fabrikat.
+50. WEDGEWOOD-ZUCKERDOSE,mit Deckel,Urnenform. Hohe 13 cm.
+52. DREI ENGLISCHE HUNDE, weif und braun glasiert. Hohe ca. 15 cm.
+53. FAYENCE-KANNE, mit Zinndeckel, bunter Dekor. Hohe 32 cm.
+## Porzellan.
+
+- 54u.55. ZWEI FRANZOSISCHE PRUNKVASEN, mit wunderbarem grunen,blauen und
+- Gold-Dekor,auf der Stirnseite je ein Gemalde, mannliche und weibliche Person in Zeittracht.Um 1800.Hohe 43 cm. Siehe Abbildung Tafel VIll.
+56. ZWEI FRANZOsISCHE FIGUREN, mannliche und weibliche Figur in Zeittracht,auf
+- Postament stehend,mit schonem bunten Dekor. Hohe 30 cm.
+
+Siehe Abbildung Tafel VIll.
+
+57. ZWEI FRANzOSISCHE FIGUREN,mannliche und weibliche Figur in Zeittracht, auf Postament stehend, schoner farbiger Dekor. Hohe 30 cm.
+58. GROSSER BLUMENKUBEL,aus rotem Ton,bauchige Form,um die Leibung chinesische
+3. Drachenornamente. Hohe 26 cm,Durchmesser 31 cm.
+59. VIER BLUMENTOPFE,mit buntem Dekor,Biedermeier.
+5. Hohe 18 cm.
+60. BECHERTASSE MIT UNTERTASSE,auf der Stirnseite und im Fond der Untertasse
+7. manganfarbige Ansicht, gezeichnet:Rg.(Regensburg). Hohe 6 cm.
+61. WIENER BECHER-TASSE und Untertasse,im Fond der Untertasse Hafenansicht mit
+9. Schiffen,Leuchtturm und Personen,Stirnseite der Tasse zeigt dasselbe Bild. Reiche Vergoldung und mehrfarbiger Dekor. Marke: blauer Bienenkorb.Seltenes Original. Hohe 7 cm. Siehe Abbildung Tafel I.
+62. LUDWIGSBURGER TASSE und Untertasse, Tasse wie Untertasse hubsch bemalt mit Strauchern,Vogel und Insekten; hubscher vielfarbiger Dekor mit Marke. Seltenes Original.Hohe 7 cm. Siehe Abbildung Tafel I.
+63. FRANzOsISCHE TASSE und Untertasse,diese vergoldet, Stirnseite der Tasse zeigt franzosische Hafenstadt. Marke: Goldene Drei. Hohe 10 cm. Siehe Abbildung Tafel I1.
+64. FRANZOsISCHE BECHERTASSE,reich vergoldet und schoner bunter Dekor. Hohe 7 cm.
+65. SCHALENTASSE und Untertasse, ohne Ohr,mit Streublumen bemalt. Fabrikat: Ostindische Compagnie. Hohe 5 cm.
+66. FRANZOsISCHE BECHERTASSE und Untertasse, beide Teile vollstandig vergoldet und mit Streublumendekor.Hohe 7 cm. Siehe Abbildung Tafel I.
+67. SCHALENTASSE und Untertasse,ohne Ohr,mit manganfarbigem Streublumendekor.
+16. Fabrikat:Ostindische Compagnie.Hohe 5 cm.
+68. TASSE, nebst Untertasse, mit Ansicht von Travemunde bei Lubeck. Hohe 7 cm.
+69. TAsSE, nebst Untertasse, manganfarbiger Dekor; unbekanntes Zeichen. Hohe 51/a cm.
+70. TAssE,Schalenform,manganfarbiger Dekor; gezeichnet. Suddeutsches Porzellan. H8he 5 cm.
+20. 71.FRANZOsISCHE TASSE, nebst Untertasse,vergoldet und mit kleinen Ansichten, Empire.
+21. Hohe 10 cm.
+22. 71a. FRANzOsISCHE TASSE nebst Untersasse, Keichform, auf kleinen Lowenklauen; bunter Dekor, reich vergoldet. Hohe 1l cm.
+23. 72.ZWEI KLEINE FLACONS, mit Gold- und Blumendekor, bezeichnet. Suddeutsch. Hohe 5 cm.
+73. TAsSE, mit Ansicht: Das Geburtshaus eines beruhmten Hamburgers. Hohe 8 cm.
+74. FRANzOSISCHER TELLER, mit schwarzer Darstellung: Die Schafschuur. Marke: P.B.
+3. Durchmesser 23 cm.
+75. ZWEI TASSEN UND EINE TEEDOSE, blau dekoriert, Kopenhagen.
+76. ZWEI KLEINE MEISSNER SCHALCHEN, manganfarbiger Blumendekor, bezeichnet. Durchmesser 16 cm.
+6. 78-83. SECHS BERLINER TASSEN und Untertassen,Schalenform,mit farbigem Streublumendekor. Marke: blaues W. Hohe 5 cm.
+84. SEVRES-TELLER, bunter Blumendekor, gezeichnet (geklebt). Durchmesser 22 cm.
+8. 85.ZWEI BERLINER POSTAMENTE,runde Form,mit Vergoldung. Hohe 10 cm,Durch-
+9. messer 12 cm.
+86. KASTEN MIT DREI TEEDOSEN. Die Dosen vergoldet und mit Streublumen bemalt. 18. Jahrhundert.
+87. GOTzE, chinesisch, bunter Dekor, in Art der Mosaikarbeit; eigenartiges seltenes Exemplar.
+12. Um ca.1800.Hohe 23 cm. Siehe Abbildung Tafel II.
+88. CHINESISCHE PORZELLAN-SCHALE, um die Leibung ziehen sich Darstellungen: Kampf des Kriegsgottes, im Schalenfonds: chinesischer Gott und Drachen; das Gold ist eingebrannt und sehr gut erhalten. Mit chinesischer Goldmarke. Sehr altes und seltenes Exemplar. Hohe 5 cm,Durchmesser 11 cm. Siehe Abbildung Tafel I.
+14. 89 u.90. NEUN BIEDERMEIER-TASSEN und ein Blumentopf.
+
+## Glas und Kristall.
+
+- tanzende Baren,daruber Krone. Umschrift:Fic Junxit Fidera cocli. Um 17o0, auferst selten. Hohe 34 cm. Siehe Abbildung Tafel II.
+92. GLAS-DECKEL-POKAL,runder Fuf, die Kuppa geschliffen, Stirnseite zeigt in Gold gebranntes Wappen. Sehr selten. Hohe 36 cm. Siehe Abbildung Tafel II
+93. GLAs-POKAL,Fuf rund mit geäzter Blumenranke,der Kelch zeigt an der Stirnseite
+- erotische Darstellung mit Spruch: Nur dein Werkzeug hingelegt,dieser Schornstein ist gefegt. Um 1700. Sehr selten.Hohe 21 cm. Siehe Abbildung Tafel II.
+94. KRISTALL-POKAL,feinster Kareeschliff, Stirnseite: geatztes Monogramm G.P.Hohe 28 cm.
+
+Siehe Abbildung Tafel H.
+
+95. KRISTALL-POKAL. runder Fub, geschliffene Kuppa. Ohne Deckel. Hohe 22 cm.
+96. KRISTALL-DECKEL-POKAL,runder Fuf, die Kuppa hubsch geschliffen, der Deckel
+3. ebenfalls. Um 1700. Sehr seltenes Exemplar. Hohe 31 cm.
+
+Siehe Abbildung Tafel II.
+
+- geatzt. Stirnseite: Darstellung, Frau mit einer Geige, daruber Spruch: Ich liebe fungern und das Geigen auch. Um 1700. Sehr seltenes Sammelobjekt.Hohe 31 cm.
+97. GLAS-DECKEL-POKAL,runder Fuf, geschliffene Fufsaule, die Kuppa geschliffen und
+
+Siehe Abbildung Tafel II.
+98. ENGLISCHE KRISTALL-FRUCHTSCHALE,oval, feinster Kareeschliff,von den Zacken am Rande fehlen zwei. Lange 30 cm, Breite 2l cm, Hohe 1l cm.
+99. KRISTALL-WAPPEN-SEIDEL,geschliffen, Stirnseite: geatztes Wappen. Vor 1800. Hohe 16 cm.
+100. KRISTALL-GLAS.Hohe 12 cm.
+4. 101.BEMALTE FLASCHE. Hohe 12 cm.
+102. KRISTALL-WASSERFLASCHE, Kareeschliff. 1800. Hohe 25 cm.
+6. 103 u.104.ZWEI KRISTALL-WEINKARAFFEN, hubsch geSchliffen, mit Stopsel. Um 1800. Hohe 30 cm.
+7. 105 u.106. ZWEI KRISTALL-FRUCHTSCHALEN,runder Fuf,geschliffene Schale.Hohe 24 cm.
+
+## ARBEITEN IN SILBER.
+
+107. SILBERNER KIRCHEN-KELCH,sehr sauber und massiv gearbeitet, der Fuf rund, der Kelch aus einem Stuck gezogen,der Deckel getrieben, als Bekronung Kreuz. Holland, 18. Jahrhundert. Gewicht 595 gr. Hohe 44 cm. Siehe Abbildung Tafel II.
+108. SILBERNE KONFEKTSCHALE, ovale Form, die Henkel, Puten und Blumenornamente, die Schale und der Fuf reich im Rokokostil getrieben. Herrliches Original. Um 1750. Gewicht 189 gr.,Lange 26 cm,Breite 13 cm, Hohe 8 cm. Siehe Abbildung Tafel II.
+109. SILBERNE KONFEKTSCHALE,oval,doppelt gehenkelt,mit schon getriebenen und
+4. ziselierten Empiregehangen. Gewicht 175 gr.Grofe 13 X 23 cm.
+
+Siehe Abbildung Tafel II.
+
+- Leibung sowie der Fuf schon getrieben. Um 1790. Gewicht 115 Gr. Hohe 14 cm.
+111. SILBERNER BECHER,mit Gravierungen. Um 1820. Gewicht 123 gr. Hohe 10 cm.
+- 111a. JUDISCHE RAUCHERVASE, aus Silber, bauchige Form,der Fuf rund,die Leibung reich getrieben, der abnehmbare hohe Deckel schon durchbrochen und reich graviert.
+- Empire; Silberstempel und Beschauzeichen. Gewicht 324 gr. Hohe 21 cm.
+112. ZWEI SILBERNE BECHER, getrieben. Um 1800. Gewicht 84 gr. Hohe 61/2 cm.
+- 113,SILBERNE BONBONNIERE, oval getrieben,mit Gravierung,auf dem Deckel figurliche
+- Darstellung: Abschied der Krieger. Gewicht 70 gr.Lange 7 cm, Hohe 4 cm.
+- 114.ROKOKORIECHFLACON,vollstandig,getrieben,Blumen,Ornamente,Putten;aufklappbar fuir Schwamm und Opferpfennig. Gewicht 26 gr. Hohe 61/2 cm.
+
+Siehe Abbildung Tafel II.
+
+115. SILBERNER FISCH,Riechfacon,naturgetreue Nachbildung, Schuppen beweglich, Kopf aufklappbar fur Schwamm; mit farbigen Steinen besetzt. Silberstempel: Schleswig. Seltenes Original. Gewicht 40 gr.Lange 1l cm. Siehe Abbildung Tafel II.
+116. GOLDENES BERLOQUE eines Freimaurers. Seltenes Stick. Um 1800. Gewicht ca.10 gr.
+117. ROKOKO-RIECHFLACON,plastisch getrieben,Ornamente und Putten,aufklappbar. Siehe Abbildung Tafel II.
+2. Gewicht 23 gr. Hohe 7 cm.
+118. SILBERNER STOCKKNAUF,getrieben und graviert. Gewicht 21 gr. Hohe 5 cm.
+119. CAVELING SILBERSACHEN,Filegranschnalle,Pettschaft, ziselierte Hemdschnalle,
+5. Tuchnadel, Pfeifenreiniger. 18. Jahrhundert. Gewicht 55 gr.
+120. SILBERNER FISCH, Riechflacon,ahnlich wie Nr. 115. Original, altes Stuck. Gewicht 23 gr. Lange 91/2 cm.
+121. SILBERNER FISCH, Riechflacon, Beschreibung siehe Nr. 115. Besonders seltenes Exemplar.Gewicht 60 gr.Lange 13 cm.
+122. SILBERNER FISCH,Riechflacon,Beschreibung siehe Nr. 115. Seltenes Sammelobjekt.
+9. Gewicht 50 gr. Lange 13 cm.
+123. SILBERNE ZUCKERZANGE, Biedermeier, 36 gr schwer. Lange 15 cm.
+124. ZWEI PLATE-LEUCHTER, Cheffield-Plate,ovaler Fuf. Um 1800. Hohe 14 cm.
+125. ZWEI PLATE-LEUCHTER, ovaler FuB, vor 1800. Hohe 21 cm.
+126. SILBERNES HALSKOLLIER,aus kleinen getriebenen Kugeln gebildet,das SchloD mit
+14. Steinen. Um 1780. Schleswig-Holstein.52 gr.
+127. SILBERNE SPINDELUHR, mit Petschaft.
+128. SILBERNE SPINDELUHR, Gehause im Rokokostil getrieben.
+17. 129.GOLDENES ARMBAND,gegliedert,mit Gravierung. Biedermeier.
+18. 129 a. SILBERNER LOFFEL, mit runder Kelle. 18. Jahrhundert. Lange 19 cm.
+130. GURTELSCHNALLE, vergoldet, mit bunter Emaille. Lange 9 cm.
+131. GOLDENE BROSCHE, nebst zwei Ohrringen. Biedermeier.
+132. ZWEI GOLDENE HAARNADELN und ein goldenes Berloque.
+## ARBEITEN IN BRONZE,MESSING UND ZINN.
+
+133. LOUIS SEIZE BRONZE-PENDULE,gutes Werk, vorzugliche feuervergoldete Bronze. Hohe ohne Konsol 20 cm. Siehe Abbildung Tafel II.
+134. BRONZE-GOTZE,chinesischer Buddha, auf geschnitztem Holzsockel, gut patiniert. Hohe 33 cm. Siehe Abbildung Tafel II.
+135. DECKELPOKAL,Bronze,reich graviert, der Deckel durchbrochen. Um 1700. Hohe 25 cm.
+4. Siehe Abbildung Tafel II.
+5. 136 138. DREI HOLLANDISCHE KAPPEN,Kupfer vergoldet, mit schoner FiligranschlieBe. 18.Jahrhundert.
+139. BRONZE-GOTZE,chinesisch. 18.Jahrhundert. Hohe 15 cm. Siehe Abbildung Tafel I1.
+7. 140.JAPANISCHE BRONZEVASE, bauchige Form,mit herrlicher bunter Emaille.
+8. (Cloisonne.)1 Hohe 14 cm.
+141. PRAHISTORISCHE LANZENSPITZE,Bronze. Lange 45 cm.
+142. CHINESISCHER TELLER,Eisen,mit eingebrannter Vergoldung im Tellerfond, chinesische Landschaften,Hauser und Tempel. Ruckseite glatt mit Goldmarke. Sehr selten. Durchmesser 18 cm. Siehe Abbildung Tafel I.
+143. KLEINER BRONZE-GOTZE,chinesisch.18. Jahrhundert. Hohe 7 cm.
+144. KLEINE DOLCHSCHEIDE, Eisen vergoldet, chinesisch. Lange 10 cm.
+145. ZINNTELLER, ohne Gravierung, mit Stempelmarke. Durchmesser 34 cm.
+146. SCHENKKANNE, aus Zinn,von 1778. Hohe 30 cm.
+15. 146a. INNUNGSKRONCHEN, aus Zinn, eingraviert: Hinrich Gerdes 1671.Lubecker Zinnstempel). Hohe 20 cm.
+147. KUPFERNE WEINKANNE, bauchige Form,mit Griff und Tippe. Hohe 27 cm.
+148. GOTISCHER KIRCHENLEUCHTER,aus Bronze,zwolfarmig. Seltenes Stuck. Hohe
+18. 90cm. Siehe Abbildung Tafel VI.
+19. 149 u.150. ZWEI BRONZE-WACHSSTOCKHALTER,als Bekronung kleine Figur. Hohe
+20. 18-20 cm.
+151. BRONZE-GRABPLATTE,vorzuglich gearbeitet, massiv Bronze, wiegt uber einen Centner schwer. Durfte auferst selten vorkommen und existieren. Genauere Beschreibung aus
+22. Abbildung Tafel VI ersichtlich. Durchmesser 52 cm.
+23. 152 u.153. ZWEI WANDBLAKER, einer aus Kupfer, der andere Messing, reich getrieben, mit Lichtarmen.Grofe zirka 45 cm.
+- 154 ZWEI CHINESISCHE KRIEGERRUSTUNGEN,vollstandig,Kura,Haube,Visier und Helm.
+- 155 u.156. ZWEI RUSSISCHE LANZEN aus der Zeit um 1650.
+157. ZWEI JAPANISCHE BRONZE-VASEN, Urnenform,doppelt gehenkelt. Sehr seltene
+- Exemplare. Hohe 40 cm.
+158. ZWEI BRONZE-STATUETTEN,Ritterrustung,auf Holzsockel.18.Jahrhundert.Hohe 17 cm.
+159. INNUNGSSIEGEL der Garnweber von 1696.
+160. BRONZE-BRIEFBESCHWERER, Fisch darstellend. Lange 16 cm.
+- 161.CAVELING MESSING- UND KUPFERGERATE,ca.10 Teile.
+
+## MINIATUREN.
+
+Siehe Abbildungen Tafel IIl.
+
+162. BRUSTBILD EINES VORNEHMEN in Tracht des 18.Jahrhunderts, gute Zeichnung und
+2. Kolorit, auf Elfenbein im Rahmen.GroBe ohne Rahmen 7X8 cm.
+163. JUNGERE DAME im Empire-Kleid,mit Halsschmuck, vortreffiches Kolorit und Zeichnung, auf Eifenbein im Rahmen. Grofe ohne Rahmen 5X6 cm.
+164. JUNGES MADCHEN im Empire-Spitzenkleid,mit Korallenschmuck, hubscher lockiger Grofse
+5. Haarfrisur, auf Elfenbein im Rahmen. Vortreffliche Zeichnung und Kolorit. ohne Rahmen 41/2X51/2 cm.
+6. 165u.166. HERR UND DAME in Tracht des 18. Jahrhunderts, gute Zeichnung,lebhaftes
+7. Kolorit.Auf Elfenbein im Bux-Rahmen. GroBe ohne Rahmen 3X4 cm.
+8. 167.PORZELLAN-MINIATUR, Knabe und Madchen. Grofe 3X4 cm.
+168. JUNGERE DAME im decollete Gewand, gute Zeichnung, lebhaftes Kolorit. O1 auf Kupfer im Goldrahmen. Anfang des 18. Jahrhunderts. Grofe 4X5 cm.
+169. STOOBWASSER-DOSE,auf dem Deckel Brustbild eines Offiziers.Durchmesser 8 cm.
+11. 169a. STOOBWASSERDOsE,auf dem Deckel: Brustbild eines Madchens in Zeittracht.
+12. Durchmesser 8 cm.
+13. 169 b. STOOBWASSERDOSE,auf dem Deckel kleine Landschaft. Durchmesser 7 cm.
+14. 170.VORNEHME JUNGE DAME im decollete Empire-Kleid, mit Gold-Halsschmuck,
+15. hubscher Haarfrisur. Vorzugliche Zeichnung und Kolorit. Auf Eifenbein im Rahmen, GroBe ohne Rahmen 5X6 cm.
+## KUPFERSTICHE.
+
+## 171-202. KARIKATUREN AUF NAPOLEON.
+
+ZWEIUNDDREISSIG KOLORIERTE KUPFERSTICHE,teils mit deutscher,englischer und franzosischer Unterschrift; vortrefflich in der Zeichnung und lebhaft im Kolorit. auferst selten vorkom mend. Nachstehend die Unterschriften eines jeden Stiches.
+
+## Nr. 202 siehe Abbildung Tafel
+
+171. Der Himmel entrif mir die Welt, meine Reise geht in die Holle. Grobe 22X251/2 cm.
+172. So zerstieben getraumte Weltreiche. Grofe 23X28 cm.
+173. The Political game of Faro; schwarz. GroBe 331/2X 45 cm.
+4. 174.Der 19. Oktober, Leipzig. GroBe 22X26 cm.
+175. Finale; schwarz.GroDe 34X44 cm.
+176. Commencement du Finale. Grofe 30X40 cm.
+177. Die neue europaische Barbierstube. Grobe 20 X 251/2 cm.
+178. Wechsel-Execution am grofen Zahltage der Leipziger Michaelis-Messe d. 19. Okt. 1813. Grofe211/,X261/2cm.
+9. im Dreck stecken.Grofe 23X27 cm.
+180. Der grofe Adler in der gewaltsamen Mauser. GroBe 21/2X231/, cm.
+181. Mit meiner Scheere will ich ihn modernisiren, mein scharfes Messer soll ihn glatt barbieren, nein, nein im Morser will ich ihn curanzen, Wart, wart nach meiner Peitsche sollst du tanzen. Ich trink in einem Zug das kleine Wesen, mir sey's zum fetten Bissen auserlesen. Grofe 31X23 cm.
+182. Die zur Unzeit zudringlichen Couriere; Kann ich Armeen aus dem Boden stampfen,—
+13. wachsen mir Kanonen aus der Hand. Grofe 22X26 cm.
+183. Durch meine Habsucht habe ich die Karre in den Dreck gefuhrt; Diese ernten den Lohn ihrer Tapferkeit. GroBe 20X26 cm.
+15. 184.Das Liedvom Ende. Grofe 22X26 cm.
+185. Der Kronen-Flicker; Ich habe mit meiner genug zu tun.
+17. Grofe 22X26 cm.
+186. Das grofe Rabengastmahl zu Leipzig. Grofe 21'1/2X 26 cm.
+19. 187.Napoleon auf Krebs reitend; Kampf gegen auf Pferd reitenden Kasaken. Grobe 14'/X20 cm.
+188. Napoleon wird am Laufgurtel von Moskau nach Frankreich gefuhrt. Grobe 22X26 cm.
+189. Napoleon als NuBknacker, die Nuf ist Leipzig. Grofe 211/2X26 cm
+190. Vergeblicher Versuch; Und stampfte ich mit dem Fuf auf den Boden, so steigen Legionen hervor! Grofe 22X26 cm.
+23. 191.Napoleon uibergibt sich. Grobe 211/2X26cm.
+192. Napoleon auf dem Eise. So weit bin ich gelaufen
+25. nun falle ich. GroDe 18X22 cm.
+193. Hauthandel. Kauf mir meine Haut ab! Kamerad, sie ist nicht viel werth! Grobe 22 X 26 cm.
+194. Das grobe Schlachthaus. Grobe 22X26 cm.
+195. Der grobe Hut. Ein Hut allhier ein Haupt bedeckt, Alle sollten werden darunter gesteckt, fur alle war er eine schwere Last, drum weg mit ihm, weil er keinen paft. Grofe 22X26 cm.
+196. Napoleon sagt zu einem Russen: so lange habe ich gebauet (Kartenhauser), nun blast
+4. du alles um. Grofe 18X22 cm.
+197. Der Rheinische Courier verliert auf der Heimreise von der Leipziger Messe nach Paris,
+6. alles. Grobe 81/2X11 cm.
+198. Der gluckliche Wanderer. Ich muf Paris verlassen, weil mich alle Gute hassen, ich
+8. gehe mit vieler Wehmuth, das hat Schuld mein Ubermuth. Grofe 171/2X221/ cm.
+199. Napoleons Fahrt zur Holle. Grofe 21 X26 cm.
+200. Napoleon ausrufend:Der Teufel hange noch den Mantel nach dem Winde, wenn es
+11. von allen Seiten sturmt. Grofe 21X26 cm.
+201. Steckenreiterey. Napoleon auf seinen Schimmel. Hopp, Hopp, Schimmel,verliere doch
+13. nicht den Schweif wegen der Sonne dort. Grobe 21X26 cm.
+14. Siehe Abbildung Tafel III. 202. Schlacht bei Leipzig. Grobe 37X 27.
+15. Stadteansichten mit naheren Beschreibungen von:Munchen, Coln,Leipzig,Wien,Antwerpen, Placenk, Padua,
+203. ZEHN KOLORIERTE KUPFERSTICHE von Mart. Engelbrecht. Nancy, Alexandria, Mayland. 17. Jahrhundert. Grofe 40X 25 cm.
+17. 204.ca.HUNDERT STICHE,darunter Kupferstiche, Stahlstiche, Lithographien etc., farbig
+18. und schwarz. Von 1750—1850.Grofe der Blatter ca.40X50 cm.
+205. WALKER,EDMUND,Blick in die Nordhalle der grofen Londoner Ausstellung 1851 im Hyde Park. Grofe englische Original-Litographie,farbig getont. (Sehr selten.) GroBe 76X100 cm.
+20. 206.TOWNLY STUBBS.G.,Rapture. Englischer Farbenstich in Punktiermanier nach H. Singleton (1800). GroBe 25X33 cm.
+207. TOWNLY STUBBS,G.,Pleasure. Farbenstich in Punktiermanier nach H. Singleton （1800).Grofe 25X33 cm.
+208. DREI KUPFERSTICHE VON RIDINGER, schwarz, Pferde darstellend: Ein arabisches Pferd. Ein Ungar. Ein ordentliches Landrof. Grofe 30X37 cm.
+23. 209-230.ZWEIUNDZWANZIG HOGARTH-KUPFERSTICHE (by Cook). Um1800. Grofe ca.50X 60 cm.
+24. 231.PORTRAT SCHILLER'S,in Stahlstich. GroBe 20X30 cm.
+## GEMALDE
+
+## ALTER UND NEUERER MEISTER.
+
+(GroBen sind ohne Rahmen.)
+
+232. MOLA, Pier Francesco, geb. 1612 zu Mailand, gest. 1668 in Rom (nach Passeri, nach Pascoli ist er zu Colire bei Como geboren und 1666 in Rom gestorben). Schiler von Albano, Orsis und Arpinos,in Venedig weitergebildet. Er war tatig in Bologna und Rom und wurde dort Vorsteher der Accademia Di San Luca. Er wurde u. A. von den Papsten Innocenz V. und Alexander VIll. sowie von der Konigin Christine von Schweden beschaftigt. Bilder von ihm im Doriapalast in Rom,in den Uffizien in Florenz,im Burlington House in London,in den Galerien zu Munchen, Dresden,Wien, St. Peters-
+2. burg, Dublin etc.
+
+Maria erfahrt, daf Herodes dem neugebornen Konig der Juden nach dem Leben trachte. Das Christuskind, dessen Konigreich nicht von dieser Welt ist, stoft die irdische Krone mit dem Fufe von sich. Joseph vernimmt die Warnung mit Schrecken,Maria wehrt ab, denn sie weio, daf sie der Gefahr entgehen wird. Grofe 95X130 cm.
+
+Siehe Abbildung Tafel V.
+
+233. CLARE LENZ,Lubeck （Tochter des Museumsdirektor Prof. Dr. Lenz t). Das kleine Modell in der Malschule. Olgemalde. GroBe 100X128 cm. Siehe Abbildung Tafel IV.
+234. KAULBACH,FRIEDRICH,Frau Anna Ebhardt (Gattin des Chefs der Firma Konig &amp; Ebhardt in Hannover). Olminiatur auf Leinwand. Oben bezeichnet: Friedr. Kaulbach. Grofe 17X28 cm.
+235. KAULBACH, FRIEDRICH,Desdemona". Studienkopf zu dem bekannten Bilde Othello und Desdemona. Olgemalde auf Leinwand, bezeichnet: Kaulbach. Grofe 28X33 cm. Siehe Abbildung Tafel V.
+236. WATTEAU, ANTOINE,Lautenspieler und Damen im Park. Olgemalde auf Leinwand. Grofe 27X33 cm.
+237. WOUWERMANN,(zugeschrieben),Vor der Abreise. Ein Reiter sieht seinem Knecht zu,der auf dem Boden knieend das Sattelzeug fur den vor ihm stehenden Schimmel in
+6. Ordnung bringt. Im Hintergrund Landschaft mit Stadtmauer. Grofe 28X30 cm.
+238. CL.LENZ,Im Stitenstift zu Lubeck (Hartengrube). (Vor dem Umbau gemalt.) 1895. Siehe Abbildung Tafel IV. Olgemalde. Grobe 100X130 cm.
+239. CL. LENZ, Madchen aus Chiggia. Brustbild. Pastell. 41—56 cm,
+240. CL.LENZ, Venezianer Spitzenklopplerin. Brustbild. Pastell. GroBe 41X56 cm.
+241. CL.LENZ, Vorstandssitzung.
+11. Olgemalde.Hohe 82 cm, Breite 105 cm.
+12. 242.PROF. GRUNLER, 1836, Brustbild eines Hamburger Patriziers; bezeichnet. Oigemalde auf Leinwand. Grofe 56X66 cm.
+243. SCHULE VAN DYCK, Madonna, zum Himmel aufblickend, auf ihre Schulter gelehnt
+14. der Jesusknabe. Olgemalde auf Leinwand. Grofe 49X63 cm.
+- 244.CL. LENz, Hinterhaus mit Blumengarten. Olgemalde. GroBe 47X45cm.
+- 245.CL.LENZ,Hinter St. Aegidien in Lubeck. O1gemalde. 1901. Grofe 29X50 cm.
+246. CL.LENZ,Wintermorgen vor dem Schulgang.
+- O1gemalde.Grofe 123X155 cm. Siehe Abbildung Tafel IV.
+247. CL. LENz, Blick auf die Wipperbricke und den Dom in Lubeck. Oigemalde. GroBe
+- 44X58cm.
+- auf Holz; gezeichnet, russische Buchstaben. 17. Jahrhundert. Grofe 14X18 cm.
+249. RUSSISCHES HEILIGEN- (GNADEN-) BILD in gravierter und vergoldeter Umrahmung. Gesicht und Hande in feinster Olminiatur ausgefuhrt. xVll. Jahrhundert, bezeichnet. GroBe 17X21 cm. Siehe Abbildung Tafel V.
+250. CL.LENZ,Verkaufsladen eines Schlachters, bezeichnet: Paris 1902. Grofe 37X45 cm.
+251. HOPPE, FERDINAND (Dusseldorf), Baumallee vor der Stadt. Olgemalde auf Leinwand. Bezeichnet: Ferd.Hoppe, Dusseldorf. 1878.Grofe 33X50 cm.
+252. OLGEMALDE, Napoleon von seinem Generalstabe umgeben auf einem Hugel stehend, ein Italiener (Landesverrater) zeigt auf die Truppen im Tale, welche Napoleon durch ein Fernrohr beobachtet. Um 1800. Auf Leinwand. Grofe 43X60 cm.
+253. AUGSBURGER SCHULE des XVIIl. Jahrhunderts,Josephs Traumdeutung. Olgemalde auf Holz. Grofe 61X100 cm.
+254. VENEZIANER SCHULE,Salome wird das Haupt Johannes des Taufers gebracht. Olgemalde auf Leinwand. Grofe50X59 cm.
+255. CL. LENZ, la petite Michus (junge Franzosin von 1813). Ganze Figur. Pastell. Grofe 40X80cm.
+256. HOLLANDISCHE SCHULE,religiose Darstellung. 17. Jahrhundert. Olgemalde auf Leinwand. Grofe 102X186 cm.
+- 257.CL.LENZ,In der Kinderschule. Olgemalde. Grobe 100X128 cm.
+- bezeichnet:A. Adam,Munchen 181l. Grofe 35X45 cm.
+258. ADAM,Albrecht, Auszug der Witwe des Landwehrmanns. Olgemalde auf Leinwand,
+259. JUNGE BRETAGNERIN, Brustbild. O1gemalde. Grofe 50X 80 cm.
+- 261 u.262. KAULBACH,() bezeichnet K. 1858. Brustbild einer alten Dame und eines alten Herren. Zwei Olgemalde auf Leinwand. Grofen 55X65 cm.
+260. TISCHBEIN, Dorfkirche am Fluf. Olgemalde auf Holz. Grofe 27X 38 cm.
+- 263.PARISERIN, Brustbild. Pastell.GroBe 43X68 cm.
+- 264.CL.LENZ,An der Seine. Olgemalde. Grofe 32X39 cm.
+265. CL. LENZ, Am Dompfarrhaus, Blick in die Hartengrube in Lubeck. Olgemalde. Grobe
+- 54X74cm.
+266. CL.LENZ, An der Obertrave. Olgemalde. GroBe 43X60 cm.
+268. CL.LENZ, Fliederstilleben.Olgemalde.Grofe 38X46 cm.
+267. CL. LENZ, Sommernachmittag (lesende Dame im Park). Olgemalde. Grobe 32X41 cm.
+269. DIE ERWECKUNG VON JAIRIS TOCHTERLEIN, englische Hinterglasmalerei mit Benutzung eines Schabkunstblattes. Grofe 26X33 cm.
+- 24X31cm.
+270. DORFCHEN AM WASSER, hollandische Hinterglasmalerei im Stile S. Berchems. Grofe
+271. EUROPA UND ASIEN,englische Hinterglasmalerei von 1808 (mit Benutzung eines Schabkunstblattes). Grofe 25X35 cm.
+272. MADAME DU BARRY, franzosische Hinterglasmalerei. GroBe 24X30 cm.
+273. DIE KINDHEIT DES HEILIGEN JOHANNES,englische Hinterglasmalerei von 1801,
+4. mit Benutzung eines Schabkunstblattes. Grofe 18X24 cm.
+274. ENGLISCHE HINTERGLASMALEREI, Der Hafen mit der Zollgrenze. 180o. Grobe 18X24cm.
+6. 274a-274c. Grofen
+7. DREI HINTERGLASMALEREIEN,Portrats. 18.Jahrhundert. 171/2X141/2cm.
+275. AMERICA, englische Hinterglasmalerei von 18o0 mit Benutzung eines Schabkunstblattes.
+9. Grofe 14X18cm.
+276. CL.LENZ, Betende Frau aus der Normandie. Olgemalde. Grofe 43X63 cm.
+277. BRANDT, AXEL,Am Malarsee in Schweden. Pastell. Bezeichnet: Brandt 1902. Grofe 26X71cm.
+278. CL.Lenz, An der Mauer, Motiv aus Lubeck. Pastell. GroBe 30X50 cm.
+279. CL. LENZ,In einem Lubecker Armenhof. Olgemalde.
+280. CL.LENZ,Tafelecke (Stilleben mit Obst,Wein etc.).
+15. Grofe 38X87 cm.
+16. Olgemalde. Grofe 58X88 cm.
+17. 281u.282. BRUSTBILD EINES ALTEN MANNES UND ALTER FRAU,nach Denner,
+18. Olgemalde auf Holz im Goldrahmen, bezeichnet: Carl Fichtner. Grofe 15X 20 cm.
+283. CL.LENZ,Das Brautkleid der Tochter (Platterin an der Arbeit).Olgemalde. Grofe 69X89cm.
+284. CL.LENZ,(Bocklund,Erik),Der blinde Bettler und seine Tochter an der Kirchentur Tusch- und Kreidezeichnung. Grofe 37X55 cm.
+21. 285u.286. UNGARISCHE BAUERN-LANDSCHAFT,Olgemalde auf Holz im vergoldeten
+22. Rahmen, modern, bezeichnet: Kis Janos. Grofe 20 X 30 cm.
+287. CL. LENZ, Alter Kramerladen in Paris. Olgemalde auf Leinwand. Bezeichnet Cl. Lenz. Paris 1902. Grofe 22X31 cm.
+288. FRANzOsISCHE SCHULE, Bauernhof, im Vordergrund viele Vogel und Tauben, Korn
+25. aufpickend.17. Jahrhundert. Olgemalde auf Holz.Grofe 24X29 cm.
+26. 289.VAN GEEL,Brustbild eines Hamburger Patriziers. Hamburgensie. Olgemalde auf Holz.Grofe 25X18 cm.
+27. 290 u.29l. AUG. SCHOLZ, Zwei moderne Olgemalde; Stilleben, Fruchte, Blumen und Vasen. Grofe 53X66cm.
+28. 292 u.293. HANS ERTEL,Zwei moderne Olgemalde auf Holz: Portrat eines Jagers mit
+29. Pfeife.Im Goldrahmen. Grofe 15X20cm.
+294. CL. LENZ, Der Genius der Munchener Kunst (nach Nik. Gysis). Pastell. Grobe 115X110 cm.
+295. MORLAND, Daniel in der Lowengrube. Olgemalde auf Leinwand. Grofe 47X 60 cm.
+296. MORLAND, The Girl with the calb. Oigemalde auf Leinwand. GroBe 47X60 cm.
+## MOBEL.
+
+## Renaissance,Barock,Empire und Biedermeier.
+
+- 297-299. BIEDERMEIER-MEUBLEMENT,Mahagoniholz,bestehend aus: Nr.297 SOFA, gradlehnig,mit schoner Schnitzerei. Lange 210 cm; Nr.298 SOFATISCH, auf wuchtigen Klauenfufen,massige Saule, hierauf die rechteckige Platte, Tisch zum ausziehen fur 36 Personen. Lange 115 cm, Breite 94 cm; Nr.299 SECHS STUHLE, auf kantigen Fufen, Ruckenlehne mit geschnitzter Sprosse,
+- sehr massiv gearbeitet. Gut erhalten und poliert. Hohe 85 cm.
+300. ZWEI EMPIRE-STUHLE, Mahagoniholz,Ruckenlehne mit edler Schnitzerei. Hohe 85 cm.
+- Siehe Abbildung Tafel Vll.
+301. MAHAGONI-BUCHERSCHRANK, Unterteil zweiturig,mit Bortern,Oberteil verglaste
+- Turen und schon geschweifte Sprossen, ebenfalls mit verstellbaren Bortern. Gutes Gebrauchsmobel. Um 1800. Hohe 230 cm,Breite 125 cm,Tiefe 50 cm.
+302. SHIPENDALE-TISCH, Mahagoniholz mit Einlage, viereckige Platte mit zwei Klappen, auf gewundener Saule, diese auf vier schon geschnitzten Klauen ruhend, in der Tisch-
+
+Siehe Abbildung Tafel Vll.
+
+- zarge zwei Schubladen mit Bronzebeschlag. Lange 110 cm, Breite 72 cm.
+303. BIEDERMEIER-SEKRETAR, Mahagoniholz,Unterteil mit drei Schubkasten,Oberteil mit runterlegbarer Schreibklappe, dahinter viele kleine Kasten und Facher, im Mittel grofere Tur, auf dieser wunderbar ausgefuhrte Intarsia: Profibild eines osterreich'schen Kaisers. Uber dieser Tur Geheimfach, ebenfalls mit hubscher Ornamentintarsia. Hohe 160 cm, Breite 100 cm,Tiefe 52 cm.
+- 304.EMPIRE-DIELENUHR, Mahagoniholz, schon geformtes Gehause, durch Saulen fankiert
+- Bekronung durchbrochene Galerie. Das Werk acht Tage gehend, auf dem Zifferblatt kleine Gemalde. Um 1780. Hohe 225 cm.
+- 305.EMPIRE-SEKRETAR,Mahagoniholz,mit gewolbter Klappe. Lange 113 cm, Hohe
+- 110 cm,Tiefe 60 cm.
+- 306-308. Empire-MEUBLEMENT aus Mahagoniholz,mit heller Bandintarsia, sehr gemutlich
+
+auch einzeln versteigert.) Hohe 82 cm.
+
+- fur Damenzimmer,besteht aus: Nr.306 SOFA, Ruckenlehne hubsch geschwungen, auber Intarsia noch mit Bronzerosette verziert, die Seitenlehnen hubsch geformt, ebenfalls mit Rosetten. Lange 165 cm; Nr.307 TISCH, Platte ist rechteckig, mit Klappen und zwei Schubkasten, die Fufe hubsch geformt durch Steg verbunden.GroBe 145X72 cm; Nr.308 VIER STUHLE, Fube kantig, Ruckenlehe mit Quersprossen. (Die Teile werden
+309. KLEINE SERVANTE auf spitzen Fufen, viereckige Platte. Kirschbaumholz.
+310. MAHAGONI-SCHREIBSEKRETAR, Empire, gerade Schreibklappe, mit vielen kleinen Fachern; schones Gebrauchsmobel, gut poliert. Hohe 210 cm, Breite 103 cm, Tiefe 46 cm.
+311. MAHAGONI-KOMMODE, Empire, dreischubladig,mit schonen Bronzebeschlagen. Hohe 82 cm,Tiefe 55,Lange 102 cm.
+312. MAHAGONI-SOFATISCH, runde Platte, auf wuchtiger Saule. Biedermeierstil. Durchmesser 115 cm.
+313. ZWEI LOUIS SEIZE-STUHLE,Mahagoniholz, auf gekehiten kantigen Fussen, Rucken-
+4. lehne Wappenform mit geschnitzten Sprossen. Hohe 92 cm.
+314. MAHAGONI-LEHNSESSEL, auf gedrehten Fussen, sehr breite schon geschwungene Rickenlehne. Hohe 80 cm.
+315. EMPIRE-LEHNSTUHL, Mahagoniholz,mit heller Einlage. Hohe 90 cm.
+316. SCHIPENDALE-ECKSCHRANK, Mahagoniholz, Bekronung schon geschnitzte Galerie. Siehe Abbildung Tafel XIl.
+8. Hohe 260 cm.
+317. MAHAGONI-SCHREIBKOMMODE,durch zwei geschnitzte Saulen fankiert, vierschubladig,der obere Schubkasten verstellbar,fur Schreibeinrichtung, mit vielen kleinen
+318. MAHAGONI-SPIELTISCH,mit verstellbarer Platte und heller Einlage. Lange der
+11. Platte 86 cm.
+319. MAHAGONI-SPIEGELKOMMODE,auf geschnitzten KlauenfuBen,einturig,mit Schublade.
+13. Von 1820. Hohe 85 cm, Breite 67 cm,Tiefe 41 cm.
+320. LOUIS SEIZE-KOMMODE, steht auf kleinen kantigen Fufen, die sechs Schubladen sind durch hubsche vergoldete Bronzbeschlage verziert,und zu beiden Seiten von Pilastern, diese durch Sphinxkopfe bekront, begrenzt. Mahagoniholz. Seltenes Original. Hohe 150 cm, Breite 95 cm,Tiefe 45 cm. Siehe Abbildung Tafel VIll.
+321. MAHAGONI-LEHNSESSEL,Ruckenlehne mit geschnitzten Sprossen. Empire. Hohe 85 cm.
+322. ENGLISCHER NAHTISCH, auf gekehlten, durch Steg verbundenen FuBen, Platte rechteckig mit abgestumpften Ecken; zierliches Empire-Mobel in Mahagoniholz gearbeitet. Grofe der Platte 29X41 cm.
+323. BIEDERMEIER-SPIELTISCH,massiv Mahagoniholz,FuBplatte ausgeschweift,FuBsaule
+18. gedrechselt; Platte drehbar, mit zwei Platten. Durchmesser 85 cm.
+324. KLEINES JAKOBMOBEL, achteckig, auf acht mit Rollen versehenen Fufen, zu beiden Seiten zwei Bronzegriffe, Deckel aufklappbar, der Kasten wird von drei Bronzebandern umzogen. Seltenes Stuck. Hohe 67 cm,Durchmesser 44 cm.
+
+S
+
+325. ZWEI LOUIS PHILIPP-STUHLE, Ruckenlehne oval, Mittelfeld gepolstert, Fufe ge-
+2. gedrechselt durch Steg verbunden. Hohe 105 cm.
+326. ENGLISCHER RASIERTISCH, Mahagoniholz, steht auf drei geschwungenen FuBen, Platte rund mit Schubkasten, darauf verstellbarer Rasierspiegel in Mahagonirahmen. Hohe 130 cm, Durchmesser der Platte 44 cm. Siehe Abbildung Tafel Vll.
+4. 327—329. EMPIRE-MEUBLEMENT, massiv Mahagoniholz, sehr stilvoll und gut in der
+5. Nr. 327. SPROSSEN-SOFA, Rickenlehne elegant geformt und fach gepolstert, SeitenNr. 328. SOFATISCH, Platte rechteckig mit Klappen und Schubkasten, die hubsch ge-
+6. Erhaltung und Politur,besteht aus: lehnen mit schmalen etwas gebogenen Sprossen; Lange 180 cm; formten Fufe durch Sprossensteg verbunden. Grofe 130X72 cm;
+- Nr. 329. SECHS STUHLE, kantige etwas gebogene Fufe, Ruckenlehne mit Quersprossen. Hohe 85 cm.(Wird auf Wunsch auch einzeln ausgeboten).
+330. ENGLISCHE DIELENUHR, Gehause: Eichenholz,mit schoner Lackmalerei, chinesische Darstellungen; das Werk: Acht Tage gehend, mit Datum und Sekundenzeiger; das Messing-Zifferblatt mit schon zieselierten Bronzebeschlagen, und eingraviert:Cha. Blanchard, London. Hohe 235 cm. Siehe Abbildung Tafel XII.
+- 331.ZWEI EMPIRE-STUHLE,Mahagoni,Fufe kantig mit kleinen Schuhen,Ruckenlehne
+- gerade und mit schmalen Quersprossen. Hohe 85 cm.
+- 332.MAHAGONI-SPIELTISCH,Empire, mit Einlage. Lange der Platte 88 cm.
+333. MAHAGONI- SERVANTE, Empire, mit heller Stabeinlage. Durchmesser 43 cm.
+- 334u.335. ZWEI EMPIRE-SERVANTES,kantige spitzauslaufende Fufe,Platte und Bord rund.Mahagoniholz.Durchmesser der Platte 35 cm.
+336. EMPIRENAHTISCH, Mahagoniholz, steht auf vier geschweiften Fufen,Platte ist recht-
+337. BIEDERMEIER-VITRINE, Mahagoni,zwei verglaste Turen,innen mit vier Bortern. Hohe 155 cm,Breite 90 cm, Tiefe 45 cm.
+- eckig und aufklappbar, darunter Nahkasten und Farben. Durchmesser der Platte 43 X 58 cm.
+- intarsia, sehr elegant, besteht aus:
+
+Nr.339 SECHS STUHLE, Fufe kantig und gedrechselt, Ruckenlehne mit geschnitzter Quersprosse. Hohe 85 cm;
+
+Nr. 338 SPROSSENSOFA, Ruckenlehne fach gepolstert, Seitenlehne geschweift und mit schmalen Sprossen, Fufe kantig. Lange 180 cm;
+
+Nr.340 SOFATIsCH, runde hubsch geaderte Platte, Fufsaule kantig,davon abzweigend
+
+341. ZWEiTEILIGES REGAL in der Form eines gotischen Portals, mit vielen Bortern,in Eichenholz. Sehr dekoratives Stuck um 1800. Lange 310 cm,Hohe 230 cm, Tiefe ca.70 cm.
+
+hubsch geschweifte Sprossen,Fufplatte ausgeschweift. Durchmesser der Platte 1oo cm. Siehe Abbildung Tafel XIl.
+
+342. LUBECKER WEINFASS, Untergestell aus Lowenkorper gebildet, Vorderseite des Fasses
+343. SHIPENDALE-LEHNSTUHL, Eichenholz,mit edler Schnitzerei. Hohe 105 cm.
+3. mit Schnitzereien und Lubschem Adler in Relief. 1819. Hohe 70 cm.
+4. Siehe Abbildung Tafel VIl.
+5. 345.SCHREIBSEKRETAR mit Aufsatz,doppelturig,verglast,mit schonen Sprossen,Birkenholz. Um 1800.Hohe 165 cm,Lange 110 cm.
+6. 344.EMPIREBUCHERSCHRANK, doppelturig,verglast,mit Sprossen, verstellbare Borter. Birkenholz. Hohe 180 cm,Breite 105 cm,Tiefe 36 cm.
+346. KLEINE TRUHENBANK, Eichenholz,mit herrlichen Schnitzereien und Einlagen. 19.Jahrhundert. Hohe 102 cm,Lange 102 cm. Siehe Abbildung Tafel X.
+348. RENAISSANCE-TRUHE, Eichenholz, Vorderwand mit figurlicher Schnitzerei:Christus welche Erganzungen. Lange 175 cm, Hohe 85 cm, Tiefe 75 cm.
+347. SHIPENDALE-BANK in NuBbaumholz. Seltenes Mobel. Lange 240 cm,Breite 70 cm, Hohe 95 cm. Siehe Abbildung Tafel IX.
+
+Siehe Abbildung Tafel IX.
+- gestell, Vorderseite der Truhe vier Felder, darin kleine Engelskopfe in Relief, die Felder sind durch plastisch geschnitzte Karyatiden geteilt und begrenzt. Sehr seltenes Exemplar. Hohe 87 cm,Lange 175 cm,Tiefe 70 cm.
+350. BAROCK-GEBETSCHRANK, Eiche mit NuBbaumfournier, Unterteil mit drei Schubkasten, diese durch vergoldete und getriebene Beschlage verziert, Mittelteil mit schrager Schreibklappe, dahinter kleine Kasten und Facher, Oberteil mit elf kleinen Schubkasten, diese mit Beschlagen,Mittelfeld mit groferer Tur, diese mit hubscher Mosaikintarsia. Hinter der Tur ist der eigentliche Gebetschrank, das Fach ist mit Stoff ausgeschlagen, darin stehen kirchliche Gerate,Altar etc. Sehr selten vorkommendes Originalmobel. Hohe 215 cm,Breite 125 cm,Tiefe 60 cm. Siehe Abbildung Tafel VIlI.
+- 351.LOUIS SEICE-SEKRETAR, Eichenholz, Unterteil mit drei Schubkasten, Mittelteil mit schrager Klappe, dahinter kleine Kasten und Facher, Oberteil zweiturig, mit Borter fur Bucher, als Bekronung geschnitztes Gesims. Hohe 230 cm,Breite 115 cm, Tiefe 50 cm.
+352. RENAISSANCE-TRUHE, Eichenholz, steht auf Kugelfufen,Vorderseite der Truhe vier Bogenfullungen,darin figirliche Darstellungen:Justiz,Glaube etc., Seitenwande mit hubscher Ornamentschnitzerei in Relief und Eisengriffen. Seltenes Original. Hohe 85 cm, Lange 185 cm, Tiefe 75 cm. Siehe Abbildung Tafel VI.
+353. WILSTER-MARSCH-TRUHE,Vorderwand mit schon verkropften Fullungen,Schnitzereien, Intarsia und Name Detlef Bult, Anno 1773a,Eichenholz. Lange 138 cm, Hohe 63 cm,
+- Tiefe 60 cm. Siehe Abbildung Tafel IX.
+354. TASSENBORD mit funf Tassen und zwei Flakons. 18. Jahrhundert. Hohe 60 cm.
+355. TABARETT mit reicher Perlmuttereinlage. Durchmesser 36 cm.
+356. HOSTEINISCHE TRUHEN-SITZBANK,Ruckenlehne in Felder geteilt, diese reich geschnitzt, Seitenteile hubsch ausgesagt, Eichenholz. Lange 215 cm.
+- 257.EICHEN-BAUERNTISCH,auf massigen Kugelfufen. 18.Jahrhundert. Grobe 71X145 cm.
+358. EICHEN-PRUNKTISCH,auf massigen KugelfuDen, mit grobem Schubfach, die Tischplatte
+- mit manganfarbigen Delfter Fliesen belegt. 17. Jahrhundert.Grofe 82X150 cm.
+
+Siehe Abbildung Tafel VI.
+
+359. STOLLEN-SCHRANK, Renaissance,Eichenholz. Original um 1600. Hohe 168 cm.
+2. Siehe Abbildung Tafel X.
+3. 360.STOLLEN-SCHRANK, Renaissance, Eichenholz, Original. 17.Jahrhundert. Hohe 163 cm.
+4. Siehe Abbildung Tafel X.
+361. DITHMARSCHER LUKENSCHRANK, Eichenholz,Unterteil mit zwei Turen,diese mit geschnitzten Fullungen und sind durch geschnitzte Lisenen geteilt und begrenzt. Uber den Turen die Inschrift: Anno 1733. F. Raucke, Alyes.Oberteil ebenfalls zweiturig, diese auch mit Schnitzereien,Blumenranken. Oberhalb der Turen Inschrift: Was mein Anfang und Ende ist, geschieht im Namen Jesu Christ. Das Kopfstuck ist stark verkropft und ausladend.Hohe 205 cm,Breite 180 cm,Tiefe 55 cm.
+
+Siehe Abbildung Tafel XI.
+
+362. SHIPENDALE-SCHRANK, mit herrlichen Schnitzereien und Messingbeschlagen. Eichen-
+2. holz. Hohe 230 cm, Breite 118 cm,Tiefe 55 cm. Siehe Abbildung Tafel XI.
+363. GROSSER KUGELFUSSTISCH, massiv Eiche, die vier wuchtigen Kugelfufe durch
+2. Steg verbunden, die rechteckige Platte ebenfalls sehr massig gearbeitet. 17. Jahrhundert. PlattengroBe 170X68 cm.
+364. HOLSTEINISCHE TRUHENSITZBANK,FuBteil mit Kehlung, Seitenteile hubsch ausgesagt, Ruckenlehne reich geschnitzt,Blumenranken und Inschriften. Anfang 18. Jahrhundert. Lange 210 cm.
+365. EICHEN-BUFFET, Unterteil doppelturig, diese mit stark verkropften Fullungen;hierauf
+5. zwei Borter mit baldachinartigem Oberbau.17. Jahrhundert. Hohe 208 cm,Breite 145 cm.
+366. RENAISSANCE-TRUHE,Eichenholz, steht auf wuchtigen Kugelfufen,Vorderwand mit
+7. vier Feldern,darin grofe Ornamentschnitzereien,Seitenwande mit Kehlungen und Eisengriffen. Lange 170 cm,Hohe 90 cm, Tiefe 70 cm.
+8. 367.LOUIS PHILIPP-PRUNK-BETTSTELLE,Kopf und Fufteil gut geformt,Seitenteile
+9. mit vorzuglichen Schnitzereien. Massiv NuBbaum.
+368. MAHAGONI-SEKRETAR,mit vielen Schubfachern, schrage Schreibklappe, Aufsatz zwei-
+11. turig. 1800. Hohe 225 cm, Breite 110 cm, Tiefe 55 cm.
+369. LOUIS PHILIPP-PRUNKTISCH, Nufbaumholz,der Fuf sehr hubsch geschweift und mit Schnitzereien. Die Platte ist rund und aus weifem Marmor. Durchmesser 1l5 cm.
+370. BIEDERMEIER-SPIEGEL,Mahagoniholz,mit Messingbeschlag. Hohe 140 cm.
+14. 371.EMPIRE-KOMMODE,Mahagoni, mit zwei Schubkasten auf kantigen Fufen stehend.
+15. Breite 85 cm,Tiefe 50 cm.
+16. 372.KLEINE INNUNGSTRUHE,Eichenholz. Um 1800. Lange 60 cm,Breite 35 cm,Hohe 35 cm.
+373. EICHEN-ECKSCHRANK,mit verglastem Aufsatz.18. Jahrhundert. Hohe 200 cm.
+18. 374.RUNDER TISCH,Eichenholz.Um 1800. Durchmesser 85 cm.
+19. 375.BIEDERMEIER-SPIEGEL,geschnitzt, vergoldet. Hohe 60 cm,Breite 30 cm.
+20. Lange 55 cm,
+376. MAHAGONI-TISCH, auf kantigen Fufen,rechteckige Platte. 1820. Breite 45 cm.
+22. 377.BIEDERMEIER-SOFA, Mahagoniholz, mit heller Bandintarsia, Ruckenlehne geschweift, mit Bronzerosette, Seitenlehnen ebenfalls mit Bronzebeschlag, gemitliches Stuck. Lange 200 cm.
+378. BIEDERMEIER-SOFATISCH,hubsch geschnitzter FuB,runde Platte, gut in der
+24. Erhaltung und Politur. Mahagoniholz. Durchmesser ll5 cm.
+379. EICHEN-BAUERNTISCH,auf massigen Kugelfuben, Tischplatte rechteckig. Holsteinische
+26. Arbeit. 18. Jahrhundert.Groben 67X120 cm.
+380. GOTISCHER TISCH, starke rechteckige Tischplatte auf zwei breiten Fufen,welche durchbrochen,durch Steg verbunden.Lange 215 cm,Breite 56 cm.
+381. BAROCK-HOCKER,Eichenholz, auf geschweiften und geschnitzten Fufen; gepolstert.
+29. Hohe 48 cm,Lange 68 cm,Breite 42 cm.
+382. VIER DOCTOR-STUHLE,Mahagoniholz, Ruckenlehne mit edler Schnitzerei; Askulapstab. Sehr selten. Vor 1800. Hohe 91 cm. Siehe Abbildung Tafel VIl.
+## VERSCHIEDENE GEGENSTANDE.
+
+383. GRANIT-MORSER. Hohe 15 cm.
+384. FRANZOSISCHE BRONZE-KRONE, zwolfarmig,mit schonen Verzierungen, Feuervergoldung; spater fur Gas umgearbeitet. (Ist leicht fur elektrisches Licht einzurichten). 18. Jahrhundert. Armenweite 155 cm.
+385. TEILE EINES ALKOVEN, Holz mit Malereien. Anfang 18. Jahrhundert.
+4. 386 u.387. ZWEI GOTISCHE KIRCHENLEUCHTER,in Holz,reich geschnitzt. Hohe 75 cm.
+388. DREI SENFMUHLEN aus Sandstein. 18. Jahrhundert.
+6. 389—40o. ZWOLF SANDSTEINRELIEFS, aus einem ehemaligen Kgl. danischen Schlosse stammend, aus dem Anfang des 16.Jahrhunderts. Darstellungen:Danische Prinzen, Prinzessinnen, Putten etc.(Photographien und Naheres steht zur Verfugung.)
+401. HELM DER LUBECKER-BURGERWEHR, schwarzer Lederhut, auf der Stirnseite
+8. grofer Lubecker Adler aus Messing. 1800.
+402. FRANZOSISCHER GOBELIN,mytologische Darstellung, sehr gut erhalten, auch in den Farben.Vor 1800.Groben 160X230 cm.
+403. BUX-SCHNITZEREI. Figurliche Darstellung. 18.Jahrhundert. GroBe 7X13 cm.
+404. ZWEI SCHIFFSMODELLE,ein kleiner Segler,ein Auslegerboot.
+12. 405u.406. INNUNGS-GERATE,wurden bei Umzugen der Handwerker vorweg getragen, sehr gute Schnitzerei mit Originalbemalung, eines der beiden tragt die Inschrift: Das Handwerk der Muller. 17. Jahrhundert. Ganze Lange ca. 250 cm.
+407. NEUN PRAHISTORISCHE STEINBEILE und Dolche. Lange 13-20 cm.
+14. 408-41l. VIER MANGELHOLZER (Schleswig-Holstein) mit Flachschnitzereien:Blumen, Ornamente, Inschriften.18. Jahrhundert. Lange ca.60 cm.
+412. STUMME VIOLINE, gut erhalten. Lange 60 cm.
+413. CHINESISCHE TROMMEL,Dornenkrone,geschnitzt und Eunuchen-Daumenschraube.
+17. 414.MAHAGONI-RAHMEN. Grofe 30X24 cm.
+415. STAMMVERSALBUM eines Gottinger Studenten, ca. yon 1800-1830. Die Widmungen
+19. sind auf kleinen Kupferstichen von Gottingen, Meifen,Kopenhagen etc.
+419. DAMENSCHIRM-KNAUF,Eifenbein,mit edler Schnitzerei, Blumen und Ranken. Um 1850. Lange 34 cm.
+420. GESCHNITZTE KIRCHENTAFEL,Eichenholz, mit Namen und Jahreszahl.
+421. CHINESISCHER FACHER,mit figurlichen Darstellungen. Von 1820.
+422. KLEINES MODELLSCHIFF eines Dampfers. Lange 60 cm.
+- 423.ALT-BRESCIANER GEIGE.Zettel:
+
+To Bapt. Rogerius Bon.Nicolai Amati de Cre- mona alumnus Brixiae fexit Anno Dom. 1706.
+
+- Prachtvoll erhaltene Violine eines der besten Schuiler von Nik. Amati und Mitschuler von Stradivari. Er stammte aus Bologna, lernte in Cremona bei Amati und wurde auch von Stradivari beeinfluft, so daf seine Werke,wie auch diese Violine ein amatisiertes Stradivari-Modell zeigen. Seine Arbeit ist in allen Teilen vortrefflich.—Die Violine enthalt die Original-Schnecke und schonen goldbraunen Lack. Schoner edler Ton. Mit Echtheit-Attest eines bedeutenden Sachverstandigen.— Violinen von Rogeri kommen
+- im Handel selten vor, und sind dort nicht unter 7ooo Mk. zu haben.
+- Ca.10 000 Stick.Ver424.DREI BANDE MUNZABSCHLAGE AUF HAUSENBLASE.
+- fertiger: von der Melle, Lubeck, wohl samtliche Europaische Lander, Staaten und Stadte sind vertreten vom Jahre 1502 bis Ende des 18. Jahrhunderts, als:Kaiserlich Romische, Russisch,Konigl. Spanisch,Portugal,Frankreich, England, Schweden,Danemark, Ungarn, Bohmen, Polen, Preussen; Main'zische Kurfursten, Trier, Koln, Pfalz, Bayern, Sachsen, Brandenburg,Braunschweig-Luneburg,Pabste,Bremen,Cammerich,Magdeburg,Salzburg, Augsburg,Breslau,Briseen,Chur,Costnitz, Erichstadt, Halberstadt, Lubeck,Luttich, Hildesheim,Minden,Munster,Olmitz, Osnabruck, Paderborn, Passau,und viele andere, (der Raum ist hier zu beschrankt um alle aufzahlen zu konnen). Seltene, vielleicht nur einzigste Ausgabe. Sehr interessant, fur Munzkabinette, Museen oder grofere Sammlungen.
+- 425 u.426. ZWEI KAMINVORSATZE,in Bronze,facherahnlich zusammenlegbar,die Felder hubsch durchbrochen und ziseliert. (Rokokostil.) Hohe ca. 7o cm.Breite wenn aus-
+- gefaltet ca.100 cm.
+
+<!-- image -->

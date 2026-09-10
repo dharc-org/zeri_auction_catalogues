@@ -1,0 +1,1508 @@
+<!-- image -->
+
+<!-- image -->
+
+## 1. Tag. Dienstag, den 4.Februar 1913, 10 Uhr vormittags.
+
+## GEMALDE.
+
+## ACHILLES.
+
+- 1.Gebirgsgegend mit FluB. Links Felsenufer mit Baumen, rechts flaches Ufer mit Baumgruppe. Im Hintergrunde schneebedecktes Gebirge.
+- Olgemalde auf Leinwand. H. 20 cm, B.61 cm. Goldrahmen. Bez.: Achilles.
+- 2.FluBlandschaft mit flachen Waldufern. Gegenstick zu vorigem. Am rechten das Haus des Fahr-
+- mannes. Unten roter, oben blauer Himmel mit leichter Bewolkung. Ebenso.
+
+## OTTO ANDRES,BERLIN,geb.1855.
+
+3. Ein gefahrlicher Augenblick. Im Gartchen hinter dem grinumrankten Bauernhause sitzt ein kleines Kind, sein Butterbrot verzehrend,am Wegesrande. Da kommt eine der drei Ganse, die ein groBeres Madchen vor sich hertreibt, fligelschlagend und begierig zu ihm. Olgemalde auf Leinwand. H. 99 cm, B.61 cm. Goldrahmen. Bez.: Otto Andres, Berlin.
+
+## HERMANN ANGERMEYER,DUSSELDORF.
+
+- 4.Idyll. In der Ecke im Kirchengarten sitzt ein Maler vor der Staffelei, der sich lachelnd mit einer jungen Frau unterhalt, die mit ihrem blondlockigen Tochterchen zu ihm hingetreten ist. Olgemalde auf Leinwand. H.100 cm, B.85 cm.Goldrahmen. Bez.:H.Angermeyer, Ddrf.,03.
+
+## L.APOL.
+
+- 5.Winterlandschaft. An einem FliBchen vorbei zieht sich ein schmaler Weg, auf dem eine Frau dem Hintergrunde zuschreitet. Rechts und links dichtes Gebisch.
+- Olgemalde auf Holz. H.30 cm,B.19,5 cm. Goldrahmen. Bez.: L.Apol.
+
+## MARGARETHE VON BACZKO, WEIMAR, geb. 1842.
+
+- farbten Baume und Straucher am Ufer.
+
+Olgemalde auf Leinwand. H.27,5 cm, B.35 cm. Goldrahmen. Bez.: M. v.Baczko.
+
+7. Am Haff. Im Schilf am Ufer liegen zwei leere Kahne. Weiter Blick iber das Meer bis zu den
+
+Olgemalde auf Holz. H. 25,5 cm,B.32,5 cm. Goldrahmen. Bez.: M. v.Baczko.
+
+- Dinen der Ferne.
+- 8.Alpensee.Die Alpen, deren schneebedeckte Firnen im Hintergrund erscheinen, fallen in leicht geschwungenen tannenbewachsenen Abhangen zum Tal ab, das ein weiter See fillt. Olgemalde auf Leinwand. H.68 cm, B. 93 cm.Goldrahmen. Bez.:M.v. Baczko,1890.
+9. Friedhofskapelle in St. Blasien. Mitten im Grin am Abhang eines bewaldeten Berges liegt von einer Mauer umfriedigt der Friedhof, in dessen Mitte sich die Kapelle erhebt. Das Tor beschatten
+- zwei hohe Baume. Ihm nahert sich von links eine Witwemit einem Kranz. Olgemalde auf Leinwand. H.43 cm, B.56 cm. Goldrahmen. Bez.:M.v. Baczko.
+- 10.Alpensee. Der mit Tannenbaumen bewachsene Bergabhang links, dessen Grasboden machtige Steinblocke bedecken,verliert sich in den See. Im Hintergrunde tauchen iber den Tannenwipfeln die schneebedeckten Bergkuppen auf. Olgemalde auf Leinwand. H.42 cm,B.55 cm. Bez.:M.von Baczko.
+- 11.In den Doiomiten. Zwischen steilen Felswanden, die sich in der Tiefe in einer tannenbewachsenen Talmulde vereinigen,erblickt man iber einem quer vorgelagerten Felsricken zackige, steile Fels-
+- spitzen.
+
+Olgemalde auf Leinwand. H.28 cm,B.35 cm. Goldrahmen. Bez.:M.v.Baczko.
+
+12. Gletscher. Durch eine Talfurche, in der die Schneespuren verlaufen, blickt man auf die eisigen Gipfel der Berge. Olgemalde auf Holz. H. 23,5 cm, B. 31,5 cm. Goldrahmen. Bez.: M. v. Baczko.
+13. Waldtumpel. Uber ein stehendes Wasser im Vordergrunde fallt der Blick auf frischgrinen, von Tannen umrandeten Rasen, den das Sonnenlicht kraftig farbt. Uber den Tannenwipfeln erscheinen im Hintergrunde beschneite Felskegel.
+
+Olgemalde auf Leinwand. H. 61 cm, B.46 cim. Goldrahmen. Bez.: M.v.Baczko. Wr., 88.
+
+- 14.Waldweg. Durch den Fohrenwald schreitet eine mit Holz beladene Bauersfrau den Waldweg entlang.
+- Olgemalde auf Leinwand. H. 80 cm, B. 63 cm. Goldrahmen. Bez.: M.v. Baczko.
+15. Die Jungfrau. Von einem baumbestandenen Wiesental steigen rechts und links tannenbewachsene Berge auf. An der Boschung rechts liegt ein groBes Hotel. Im Hintergrunde erheben sich die
+- zackigen Firnen der Jungfrau.
+
+Olgemalde auf Leinwand. H. 52 cm,B.73,5 cm. Goldrahmen. Bez.:M.v.Baczko.
+
+16. Schwarzwaldhaus. Im grinen Wiesental liegt, von einem Zaun eingeschlossen, der Bauernhof,
+2. dessen Bewohner im Vordergrunde mit der Heuernte beschaftigt sind. Die Hohen des Hintergrundes bedecken dichte Walder.
+
+Olgemalde auf Pappe. H.14,5 cm, B.23,5 cm. Goldrahmen. Bez.: M.v. Baczko.
+
+## HERMAN BAISCH,DRESDEN,1846-1894.
+
+17. Kihe am Wasser. Am Meeresstrande lagern Kihe. Andere sind ins Wasser hineingeschritten, das ihr Spiegelbild zurickwirft. Im Hintergrunde eine Dinenkette.
+
+Abb. Tafel 7.
+
+Olgemalde auf Leinwand. H.63 cm, B. 98 cm. Goldrahmen. Bez.:Herman Baisch, 1892.
+
+## PROFESSOR HANS VON BARTELS,MUNCHEN, geb. 1856.
+
+- 18.Der Strandfischer schreitet iber den noch von der Flut iberschwemmten Strand einer Sandbank in der Nahe eines groBen Seglers zu, auf der viele Fischerfrauen bei ihren Kibeln beschaftigt sind. Er tragt Holzschuhe, Kniehosen, rote Bluse und einen hohen Hut. Die Rechte stitzt sich auf
+- einen Stock.
+
+Temperagemalde auf weiBem Papier. H. 39 cm,B. 29 cm. Schwarzer Rahmen. Bez.:Hans Bartels 1911.
+## BAUER.
+
+19. FluBlandschaft. Der Blick fallt iber die Vereinigungsstelle zweier Nebenfluisse mit dem Hauptstrom auf ferne blaue Berge. Am diesseitigen Ufer zieht sich ein baumbeschatteter Weg hin, an dem ein Madchen steht.
+
+Olgemalde auf Holz. H. 19 cm, B. 23,5 cm. Schwarzer Rahmen. Bez.: Bauer.
+
+## FRITZ BAYERLEIN, MUNCHEN, geb.1872.
+
+20. Nymphenburg im Schnee. Im Vordergrunde der weiten, tiefverschneiten Ebene, die im Hinter-
+
+Olgemalde auf Leinwand. H.100 cm,B. 140 cm. Goldrahmen. Bez.: F. Bayerlein. Abb. Tafel 8.
+
+- grunde Wald und Bergketten abschlieBen und die im Sonnenlicht erglanzt, erhebt sich links eine barocke Statue,rechts stehen im Schatten eines Baumes mit verblichenem Laub zwei halbrunde Steinbanke um einen Tisch. Dunkelbewolkter Himmel.
+
+## FRITZ BECKERT, DRESDEN,geb. 1877.
+
+- 21.Im Vollmond. Uber die DorfstraBe erblickt man ein breit gelagertes Bauernhaus, dessen frisch getinchter Wohnhausgiebel im vollen Mondlicht hell heriberleuchtet. Jenseits der QuerstraBe liegt ein zweites Haus, von Baumen umgeben, iber denen am Himmel Sterne leuchten. Olgemalde auf Leinwand.H.79 cm,B.119 cm. Goldrahmen. Bez.:Fritz Beckert.
+22. Der Hochzeitswagen. In der von einem Turm abgeschlossenen HauptstraBe in Rothenburg, von
+
+Farbige Zeichnung auf grauem Papier. Dreiteilig. H. 67,5 cm,B. 116 cm. Mahagonirahmen. Bez.:FritzBeckert. Abb.Tafel 5.
+
+- der ausman eine andere in die Tiefe fihrende und ebenfallsvon einem alten Turm iiberragte StraBe erblickt, steht der mit bunten Kranzen geschmickte Hochzeitswagen, an dem der Knecht mit seinem Hund sich verabschiedet. Von den Turen schauen neugierige Frauen zu. Die Giebel der Hauser erglanzen in der Abendsonne.
+
+## PROFESS0R J0HANN EDWARD BERGH,ST0CKH0LM,1828-1880.
+
+23. Gebirgslandschaft. Vom See herauf, in den die Felsen steil herabstiirzen,kommt die Hirtin mit ihrer Herde iber einen steilen Pfad, der an machtigen Findlingsblocken und einer Birkengruppe vorbei nach vorn fuihrt. Am Abendhimmel jagen sich Gewitterwolken. Olgemalde auf Leinwand. H. 98 cm, B. 146 cm.Goldrahmen. Bez.:E. Bergh 1875.
+
+## C.BELLINI.
+
+24. Venedig. Vor der Stadt, die sich als roter Streifen im Hintergrunde unter der sinkenden Sonne ausbreitet, kreuzen auf dem Meere Fischerboote. Zwei Nachen halten am Heiligenhauschen, das sich auf dem Wasser erhebt und vor dem eben das Licht angezindet worden ist. Olgemalde auf Leinwand. H. 50 cm, B. 100 cm. Goldrahmen. Bez.: C. Bellini.
+
+## E.BINDEMANN.
+
+25. An der Klosterruine. Vor den Mauerresten einer gotischen Kirche stehen, von einem Zaun ein-
+2. geschlossen, zwei niedrige Hauschen. Auf dem Platze davor sind Kupferschmiede an der Arbeit. Olgemalde auf Leinwand. H.45 cm,B. 70 cm. Schnitzrahmen. Bez.E.B.
+
+## ALPH0NS BODENMULLER,MUNCHEN,1847-1886.
+
+26. Das Pflegekind. Ein Madchen in grauem, verschlissenem Kleidchen liegt matt in einen roten Polstersessel zurickgelehnt, auf dem man es sorglich zugedeckt hat. Ihr Korbchen mit Blumen
+
+Olgemalde auf Leinwand. H.61 cm,B.52 cm. Schwarzer Rahmen. Bez.:Alphons Bodenmiller, Minchen 1871.Vergl. Miller-Singer,Allgemeines Kinstler-Lexikon,1895,I.,S. 141.
+
+- halt es auch jetzt noch fest.
+
+Abb.Tafel 6.
+## JULIUS BODENSTEIN,BERLIN.
+
+27. Spaziergang im Birkenwald. Jenseits eines Wasserfalls steigen Damen mit Kindern in im hellen Sonnenschein leuchtenden Kleidern durch den Birkenwald zur Hohe. Olgemalde auf Leinwand. H. 91 cm, B. 61 cm. Goldrahmen. Bez.: J. Bodenstein.
+28. Heuernte. Unter gewitterschwilem Himmel sind Arbeiter und Magde emsig beschaftigt, das Heu Zusammenzurechen und auf einen Wagen zu laden. Im Hintergrunde das Dorf, iber dessen Hauser Ulmen emporragen.
+
+Olgemalde auf Leinwand.H. 130 cm, B. 81 cm. Goldrahmen. Bez.: J. Bodenstein.
+
+29. Ahrenleserinnen. Auf dem Felde stehen die Garben bereit. Sie werden auf einen Wagen verladen, wahrend im Vordergrunde Ahrenleserinnen die liegen gebliebenen Ahren zusammenraffen. Abend-
+
+Olgemalde auf Leinwand. H.127,5 cm, B. 91 cm. Goldrahmen. Bez.: J. Bodenstein.
+
+- stimmung.
+30. Strandpromenade bei Trouville. Im Sonnenschein stehen und spazieren Gruppen von Damen und
+
+Olgemalde auf Leinwand. H.50 cm,B.72 cm. Goldrahmen. Bez.: J. Bodenstein.
+
+- Herren am Strande,wahrend Kinder im Sande spielen. Weiter Blick iber das ruhige Meer. Der Himmel bezieht sich mit Wolken.
+
+## C.BOSSENROTH,MUNCHEN.
+
+- 31.Am Weiher, iber den ein Holzsteg ragt,erheben sich aus dem frischen Grin der Wiese bluihende Baume.
+
+Olgemalde auf Pappe. H. 36,5 cm, B. 30 cm. Goldrahmen. Bez.: C.BoBenroth, Mai 98.
+
+32. Der Rechensee. Uber den diesseitigen Uferstreifen hinweg erblickt man einen Teil des leichtbewegten Sees und das jenseitige Ufer mit seinen wald- und wiesenbedeckten Bergen.
+2. Olgemalde auf Leinwand. H.23 cm,B. 32 cm. Dunkler Rahmen. Bez.:C. BoBenroth,Aug.92.
+33. Der Ortler. Uber eine Felsenkuppe hinweg erblickt man den steil aufragenden Ortler mit seinen Olgemalde auf Leinwand. H. 64 cm, B. 53 cm. Goldrahmen. Bez.: C. BoeBenroth, Minchen,
+4. Schluchten, Schneefirnen und Gletschern. 2.11.92.
+
+## EWALD J.BOS.
+
+34. Stube mit Kamin. Auf einem Holzstuhle vor dem Kamin sitzt die junge Hausfrau mit blauer Schurze und naht. Vor ihr ein Holzklotz, auf dem ein Wasserkessel steht. Am Kaminsims Schuisseln,Krige und ein Blumentopf.
+
+Olgemalde auf Leinwand. H.50,5 cm, B.40 cm. Goldrahmen. Bez.:Ewald J. Bos.
+
+## PROFESS0R ANTON BRAITH,MUNCHEN,1836-1905.
+
+35. Bergschafe im Hochgebirge. Auf einer grinen Alpenmatte erblickt man eine Gruppe von vier weiBen und schwarzen Bergschafen. Im Hintergrunde Felswande, vor denen eine zweite Gruppe
+2. weidet.
+
+Gouachegemalde auf weibem Papier. H.16 cm,B. 10 cm. Schwarzer Rahmen. Bez.: Anton Braith,Muinchen,1902.
+
+## REINHOLD BRESSLER, BERLIN,geb. 1868.
+
+36. Hollandisches Interieur. An der Wand unter dem Fenster hockt ein Mann rauchend am Boden. Hinter ihm leuchtet das Kaminfeuer. Durch das Fenster strahlt die Sonne herein.
+
+Olgemalde auf Leinwand. H.61 cm, B.44 cm. Schwarzer Rahmen. Bez.: Nordholland. R. Bressler.
+## VON BULOW,BERLIN.
+
+37. Bildnis Kaiser Wilhelms des GroBen in Generalsuniform mit unbedecktem Haupte. Brauner Hintergrund.
+
+Olgemalde auf Leinwand. H.34 cm,B.28 cm. Goldrahmen.
+
+## J.CARDONA,PARIS.
+
+38. Damen in den Champs Elysees. Am Rasenplatz schreiten zwei Damen Arm in Arm nach links. Rechts sitzt eine zweite auf einem der Stihle. Farbige Zeichnung in Passepartout. H.45 cm,B.35 cm. Goldrahmen. Bez.:Cardona.
+2. 39.Im Foyer, durch dessen Fenster der Schein des beleuchteten Theaterraumes dringt und durch das zwei Herren und eine Dame schauen, sitzt vorn eine Dame in WeiB leicht auf einem Stuhl. Weiter Zurick stehen zwei Damen in Unterhaltung.
+
+## J.V. CARSTENS, MUNCHEN.
+
+- 40.Fruchtstillben. Auf einem weiBgedeckten Tisch liegt eine groBe Seemuschel, die mit dunklen Trauben gefuilt ist. Ringsherum liegen helle und dunkle Trauben und Birnen. Eine Rebe legt sich
+- iber die Muschel.
+
+Olgemalde auf Leinwand. H. 60 cm,B. 85 cm. Schwarzer Rahmen. Bez.: J. V. Carstens, Muinchen.
+
+- 41.Desgleichen. Gegenstick zu vorigem. Auf weiBgedecktem Tisch steht eine groBe Glasplatte,auf verstreut.
+- Ebenso.
+- Ebenso.
+
+## A.CHWALA.
+
+42. Nach dem Gewitter. Am diesseitigen Ufer eines Bachleins, das hinter einem zerklufteten Hugel-
+2. abhang hervortritt, breitet sich eine Wiese mit vereinzelten Baumgruppen aus. Im Vordergrunde eine Wasserlache, aus der ein Rind trinkt. Nicht weit davon steht das Hirtenmadchen. Im Hintergrunde Higel und Wald. Olgemalde auf Leinwand. H.34,5 cm, B.71 cm. Goldrahmen. Bez.:A. Chwala.
+
+## EDWARD T.COMPTON,FELDAFING,geb.1849.
+
+43. Das Matterhorn. Uber scharfkantige Felsricken, auf deren Schneedecke zwei Bergsteiger wandern, blickt man auf das zackige,verschneite Matterhorn, das im Abendrot erstrahlt. Olgemalde auf Leinwand. H.37 cm,B.54 cm. Schwarzer Rahmen. Bez.:E. T. Compton. 1912.
+
+## S.CONSTANTIN.
+
+44. Gemisehandler. Im Keller sitzt ein Alter an dem mit allerlei Gemise dicht bedeckten Tisch und
+2. Olgemalde auf Leinwand. H.58 cm,B. 79 cm. Bez.:S. Constantin.
+
+## SIEGWALD DAHL,DRESDEN.
+
+45. Erster Frost. Am zugefrorenen Weiher, in dessen Hintergrund der Wald sich vom dunkel bewolkten Abendhimmel abhebt,bereiten sich zwei Knaben zum Eissport vor, dem andere bereits obliegen.Die Abendsonne wirft ihre letzten Strahlen. Olgemalde auf Leinwand. H.61 cm, B. 95 cm. Griner Rahmen. Bez.: Siegwald Dahl, 1902.
+- schlieBen.
+
+## C.VAN DAM.
+
+46. Gebirgslandschaft. Zwischen grasbewachsenen Boschungen hindurch windet sich am FuBe eines Felsens vorbei ein Weg zum FluBtal hinab. Jenseits des Wassers erhebt sich ein schroffer Felsen mit einer Burg. Auf einem grasbedeckten Felsvorsprung am FluB weidet ein Hirt seine Schafe. Am Wege befinden sich drei Bauern in Unterhaltung.
+
+Olgemalde auf Leinwand. H.35 cm,B.45 cm. Goldrahmen. Bez.: C. v.Dam. f. 1840.
+
+## HON0RE DAUMIER,VALM0ND0IS,1810-1879.
+
+47. Waldlichtung. Zwischen kraftigen Birkenstammen hindurch blickt man durch das Dunkel auf einen sonnenbeschienenen freien Platz,den helleuchtende Birkenstamme mit lichtem Grin ein-
+
+Olgemalde auf Holz.H. 25 cm, B. 20 cm. Goldrahmen. Bez.:H. D.
+
+## C.DECKERT.
+
+48. Auerhahnkampf im Vordergrunde einer weiten Ebene, der von Gestrauch nach den Seiten hin abgeschlossen wird.
+
+Getuschte Zeichnung auf Papier. H.13 cm, B. 17 cm. Schwarzer Rahmen. Bez.: C. Deckert.
+
+49. Ruhender Edelhirsch. Ein Zehnender rastet in einer Waldlichtung vor einer Baumgruppe. Ebenso.
+50. Luchs, einen Edelhirsch iberfallend. Hochgebirgslandschaft mit Felswand und Bergtannen. Im
+3. Vordergrunde hat sich der Luchs in das Genick des Hirsches verbissen, der zusammenbricht. Ebenso.
+
+## PROFESSOR WILHELM VON DIEZ, MUNCHEN,geb. 1839.
+
+51. Soldatengruppen. Unten links ein Ulan, der sich zu einem an ihn herantretenden Soldaten vom Pferde herabbeugt. Am Boden sitzt ein zweiter Soldat neben seinem Pferd. Oben rechts ist ein Ulan abgestiegen und tritt an einen sitzenden Soldaten heran. Bleistiftstudie auf weiBem Papier. H. 16 cm,B. 20 cm. WeiBer Rahmen. NachlaBstempel mit No.39
+
+## GUSTAV EGGENA,MUNCHEN, geb.1850.
+
+- 52.Der Spazierritt. Auf ihrem Braunen reitet eine junge Dame,vom Hund umkreist,nach vorn. Ihr
+- folgt ein Wagen. Im Hintergrunde flache FluBlandschaft. Olgemalde auf Holz. H. 17,5 cm, B. 13 cm.Goldrahmen. Bez.: G.E.
+53. Ritter und Zigeunerin. In huigeliger Abendlandschaft ist nahe einem Gebisch eine junge Zigeunerin
+- bettelnd zu dem Edelmann getreten, der eben an dem am Wege haltenden Karren vorbeigeritten ist. Olgemalde auf Holz. H. 29 cm, B. 41 cm. Schwarzer Rahmen. Bez.: G. Eggena.
+54. Reiter auf der Flucht. Uber die Ebene rast ein Krieger in der Tracht des dreiBigjahrigen Krieges in eiliger Flucht vor seinen Verfolgern nach vorn. Bewolkter Himmel. Olgemalde auf Leinwand. H.34 cm, B.44 cm. Goldrahmen. Bez.: G. Eggena.
+55. Hirschjagd. Uber die Heide flieht ein Hirsch. Aus dem Walde reitet im Galopp eine Jagerin in mittelalterlicher Tracht auf einem Schimmel ihm nach. Sie wird von zwei gleichfalls berittenen Edelknaben begleitet,von denen der eine voraus galoppiert. Olgemalde, Graumalerei, auf Leinwand. H. 58,5 cm, B. 86 cm. Schwarzer Rahmen. Bez.: G.Eggena.
+## PAUL EHRENBERG,MUNCHEN,geb.1876.
+
+56. Dame im StraBenkostim mit weiBer Federboa und kleinem schwarzem Hut, mit der Linken das Kleid raffend, die Rechte auf ein Spazierstockchen stiitzend. Kreide- und Federzeichnung auf blauem Papier. H.30,5 cm,B.19 cm. Goldrahmen. Bez.: P.Ehrenberg 02.
+
+## L.MAX EHRLER.
+
+57. WeiBe Rosen. Ein reich bluihender Rosenzweig hebt sich von einer naturholzfarbenen Wand ab.
+2. Olgemalde auf Holz.H. 45 cm,B.25 cm. Samtrahmen. Bez.:L. Max Ehrler.
+
+## L.EIBL.
+
+- 58.Blumen- und Frichtestilieben. Auf dem Kichentisch steht neben einem Henkelkorbchen eine Schissel mit dunklen Kirschen, davor liegt ein Biindel Spargel. Links steht eine blaue Vase mit
+- Feldblumen. Ringsum liegen einzelne Frichte. Olgemalde auf Holz.H.41 cm,B.54 cm. Goldrahmen. Bez.:L.Eibl.
+59. Stilleben. Auf einem Tisch steht eine Tonschissel mit Trauben, daneben ein grin glasierter Krug,
+- zur Seite liegen Tomaten und Pilze. Olgemalde auf Leinwand. H. 38 cm, B.68 cm. Schwarzer Rahmen. Bez.: L. Eibl.
+
+## RUDOLF EICHSTAEDT,BERLIN,geb.1857.
+
+60. Abschied. An der Wegscheide sitzt eine junge Dame auf einem Stein und stitzt den Kopf in die Linke, in der sie das Taschentuch halt. Halb hinter ihr steht mit ernster Miene ein Jungling, den Ranzen auf dem Ricken. Er hat ihre Rechte gefaBt und blickt wehmitig auf sie nieder.Im
+2. Hintergrunde weite Wiesenlandschaft. Die LandstraBe beschatten Baume. Olgemalde auf Leinwand. H.100 cm, B.139 cm.Goldrahmen. Bez.:R. Eichstaedt.
+
+## L.EKLHOF.
+
+- 61.Die Nixe. Auf dem Rand des Bootes,in dem der junge Seemann in der Sternennacht schlaft, setzt
+- sich die Nixe,mit der Linken Wasserperlen auf den Schlafenden niederfallen lassend. Olgemalde auf Leinwand. H.49 cm,B. 59 cm. Schwarzer Rahmen. Bez.: L. Eklhof. 09.
+
+## ERICH ERLER-SAMADEN, MUNCHEN, geb.1870.
+
+62. Blumen und Porzellan. Auf einem Tisch vor einer leicht spiegelnden Wand sind neben einer mit bunten Chrysanthemen gefillten weiBen Porzellanvase mit blauen Kreisen zwei weibliche, weiB glasierte Statuetten aufgestellt. Rechts steht ein griines GlasgefaB,links eine griin glasierte Tasse. Olgemalde auf Leinwand.H. 80 cm,B.120 cm.Eichenrahmen.
+63. Frihling in den Alpen. In der welligen Hochebene, die den grinenden und nur an der Spitze noch mit Schnee bedeckten Bergen vorgelagert ist, kniet im jungen Grase eine Sennerin am Holztrog.
+3. Sie halt mit beiden Handen den Hut fest. Olgemalde auf Leinwand. H. 97 cm, B. 140 cm. Schwarzer Rahmen. Bez.: Erich Erler.
+
+## MONOGRAMMIST G.F.
+
+- 64.Landschait. Veranderte Kopie nach Patrick Nasmyth (vgl. No. 244). Bauernhaus mit Wald hintergrund. Im Vordergrunde Teich mit Enten. Blauer Himmel. Von links aufsteigende Wetter-
+- wand. Olgemalde auf Leinwand. H.38 cm,B. 29,5 cm. Goldrahmen. Bez.: G.F. 1906.
+
+Abb. Tafel 8.
+## CARL FELBER, DACHAU,geb.1880.
+
+65. Getreidefelder. Uber ein Stoppelfeld, auf dem das Getreide in Mieten aufgestellt ist,blickt man einen Hugel hinan, dessen Flache in zahlreiche Felder geteilt ist. Am FuBe des Hugels liegt ein niedriges Bauernhaus.
+
+Olgemalde auf Leinwand. H. 38 cm, B. 64 cm. Schwarzer Rahmen. Bez.: C. Felber.
+
+66. Winterlandschaft. Uber einen halb zugefrorenen FluB fuhrt eine gemauerte Bogenbricke. Daran
+2. liegt ein lehmfarbenes Gebaude,an dem eine von Baumen eingefaBte FahrstraBe vorbeifihrt. Die ganze Landschaft,iber die sich ein grauer Himmel breitet,ist mit hohem Schnee bedeckt. Olgemalde auf Leinwand.H. 81 cm, B. 100 cm. Schwarzer Rahmen. Bez.: C.Felber,Dachau 07.
+67. Landschaft mit FluB. Durch eine Wiesenebene flieBt in groBer Windung das Wasser. Am dies-
+4. seitigen FluBufer grine Wiesen, durch die ein Weg nach dem Vordergrunde fihrt. Daran stehen Gebisch und zwei knorrige Baume. Am Horizont Waldsaum unter weibem Himmel. Olgemalde auf Leinwand. H.73 cm, B. 101 cm. Schwarzer Rahmen. Bez.: C.Felber, Dachau 10.
+68. FluBlandschaft. Auf dem diesseitigen flachen sandigen Ufer struppiges Gebisch. Jenseits des Wassers zwischen hohen Baumen und Strauchern Hauser, die sich in blaugrinem stillem Wasser spiegeln.Grauer Himmel.
+
+Olgemalde auf Leinwand.H.60 cm, B.121 cm. Schwarzer Rahmen. Bez.: C. Felber.
+
+## A.FELSER.
+
+69. Zwei Partien. In einem in Rokokostil gehaltenen Salon sitzt ein Paar schachspielend an einem runden Tisch. In der Ecke des Zimmers sitzt weiter ein Kavalier bei seiner Dame, ibermitig auf sie einredend.
+
+Olgemalde auf Leinwand. H. 46,5 cm,B.54,5 cm. Geschnitzter Goidrahmen. Bez.:A. Felser.
+
+70. Harfenspielerin. Gegenstick zu vorigem. In einem Rokokosalon spielt eine Dame Harfe. Eine andere lauscht ihr,neben dem Stuhle sitzend. Eine dritte applaudiert und wird darin von einem Kavalier
+2. unterstitzt.
+
+Ebenso.
+
+## A.FORSTMANN.
+
+71. FluBlandschaft bei Mondschein. Am Ufer des Flusses liegt eine Hitte unter Baumen; aus einem ihrer Fenster dringt Lichtschein. Vorn haben zwei Fischer den Kahn bestiegen und bereiten ihre Netze. Am jenseitigen Ufer liegt auf einer Anhohe eine Mihle. Auf dem Flusse fahrt ein Segelboot. Olgemalde auf Leinwand.H. 47 cm, B. 64 cm. Goldrahmen. Bez.: A.Forstmann.
+
+## ALBERT FRANKENWEBER, MUNCHEN.
+
+72. Der beste Schitze. Der Tod in Jagerkleidung steht am SchieBstand, die knocherne Linke auf die
+2. Schranke legend und mit der Rechten das Gewehr umgekehrt schulternd. Im Hintergrunde weite Wiesenflache mit einer Baumgruppe. Graubezogenei, zerrissener Himmel. Auf einem Brett unten Inschrift; dariber das Herzas. Olgemalde auf Holz. H.30 cm, B. 20,5 cm. Goldrahmen.Bez.:Aib.Frankenweber.
+3. 73.Waldnymphe, ein Eichhornchen fitternd, das zu erreichen sie auf einen der drei Fliegenpilze ge
+4. stiegen ist, die am Boden des Waldes wachsen. Olgemalde auf Holz. H.37 cm, B.13 cm. Goldrahmen. Bez.:Alb.Frankenweber.
+5. 74.Tod und Maske. Am Eingang des Ballsaales, durch dessen offen stehende Tur man die Tanzenden sieht,stoBt derTod in pelzverbramten Mantel und Lackschuhen mit einem alsHarlekin verkleideten
+6. Herrn an, ihm gleichzeitig die Rechte drickend. Aquarell auf weiBem Papier in Passepartout. H. 48 cm,B.36 cm. Mahagonirahmen. Bez.: Frankenweber.
+75. Bildnis einer alten Frau, nach links gewandt. Originalradierung. H.12 cm, B. 12 cm. Brauner Rahmen. Bez.:Alb. Frankenweber,Muinchen 95.
+76. Finis.Im Rasen des grinen Huigels sitzend, offnet ein Kind eine Frucht. Der Tod in schwarzem Mantel beugt sich von hinten dariber, seinen giftigen Atem auf die Frucht richtend. Darunter die Inschrift ,Finis".
+
+Aquarellierte Zeichnung auf weiBem Papier in Passepartout.H.38 cm, B. 29 cm. Eichenrahmen. Bez.: Alb.Frankenweber, Mch. 02.
+
+- 77.Winterlandschaft. Die tiefverschneite Waldlichtung durchfurcht vorn bei einer Baumgruppe das
+- Bett eines Baches. Im Hintergrunde das Dunkel des Waldes.
+- Olgemalde auf Leinwand. H.48 cm, B.38 cm. Goldrahmen. Bez.:A. Frankenweber.
+
+## PROFESSOR OSKAR FRENZEL,BERLIN,geb.1855.
+
+78. Die Pfluger. In welligem Gelande, das im Hintergrunde zu Hugeln aufsteigt, iber die eine Muhle ragt,bestellen drei Bauern mit Pfligen den Acker. Jeder Pflug ist mit drei machtigen Ochsen bespannt. Uber die Landschaft senkt sich das Dunkel des Abends; der Himmel erstrahlt in rotlich. gelbem Lichte.
+
+Olgemalde auf Leinwand. H.123 cm, B.163 cm. Goldrahmen.Bez.:O.Frenzel, Berlin.
+
+## G.FRITZ.
+
+79. Blumenstick. Am Boden liegt ein groBer StrauB bunter Gartenblumen.Ein Schmetterling flattert dariber in der Luft; auf dem Wege nahert sich eine Schnecke den Blumen. Gouachegemalde auf gelblichem Papier in Passepartout. H.43 cm, B.57 cm. Schwarzer Rahmen. Bez.:G.Fritz 89.
+## Kunstlerischer Nachlaf Max Levi t.
+
+MaxLevi,geboren zu Stuttgart am27.September 1863,gestorben u Berlin am4.Juni 1912, war Schiiler der Berliner Kunstakademie unter Fr.Schaper.1893 und 1894 erhielt er das Michael-Beer-Stipendium,das ihm einen langeren Studienaufenthalt in Rom ermoglichte. Dort entstand als seine erste groβe Arbeit,Der Kugelspieler.In den folgenden Jahren war der Kinstler in Berlin tatig,wo insbesondere Bisten und Werke der Kleinplastik entstanden.Von 19oo bisgo4hielterichwiedernomaufwoeralsweitsgroβesWerkseine，ingergruppe schuf.In dieseZeit fallen weiter der，,Altar der Sehnsucht,die,Traumereiund der Brunnen mit Pyramus und Thisbe.Von 1go4 ab bis zu seinem Tode war wieder Berlin sein Wirkungskreis,wo ihm sein dritter groβerWurf,derBronzedavid der ammlungRudol Mosse,gelang.
+
+80. Traumerei. Biste eines jungen Madchens in leichter Gewandung, das den von weichem Haar gekronten zierlichen Kopf,ihn leicht neigend, fast ins Profil nach rechts wendet und nachdenklich vor sich hinschaut.
+
+Abb.Tafel 1.
+
+Karraramarmor.H.48 cm.
+
+81. Phryne. Statuette eines jungen Madchens, das seinen Mantel mit der erhobenen Linken abge-
+2. nommen hat, von dem er herabhangt. Der rechte Arm ist mit sanfter Biegung ausgestreckt. Bronze versilbert. H. 55 cm.Bez.:M.L.
+82. Portratstatuette einer jungen Dame. Die junge Dame, die den linken FuB leicht nach auswarts stellt,tragt einen kleinen runden Strohhut und ein Jackett,in dessen Taschen sie die Hande stitzt. Bronze. H.38 cm. Bez.:Max Levi, 1910. Abb. Tafel 3.
+4. 83.Portratstatuette Rudolf Rittner. Der Kuinstler steht mit leicht gespreizten Beinen, die Hande, den Rock zurickschiebend in die Seite gestemmt,leicht lachelnd da. Bronze. H. 45 cm..Bez.:Max Levi,97. Abb. Tafel 3.
+84. Bildnisbiste eines kleinen Madchens (F. St.'s Tochterchen）. Die Kleine drickt mit beiden Handen innig ihre Puppe an die Brust. Das von wirren Locken umrahmte Kopfchen ist leicht geneigt und halb nach rechts gewandt.
+
+Abb. Tafel 2.
+
+Gebrannter Ton, braun getont. H.35 cm.
+
+85. Portratkopf zu einem Denkmal fuir Alfred Krupp. Auf dem bartigen Haupte sitzt eine schlichte Jagermitze.
+2. Gebrannter Ton. H.13 cm.Gipssockel.
+86. Portratstatuette eines jungen Madchens (Eise Lasker-Schiler). Den rechten FuB vorstellend, steht
+
+Gebrannter Ton. H.35,5 cm. Bez.: Max Levi 96.
+
+- das junge Madchen mit vorn ineinandergelegten Handen ruhig da. Das Kopfchen ist wenig nach rechts geneigt.
+87. Modell zur Rickwand eines Marmorhausbrunnens. Das steleformige, von einer Palmette mit auslaufenden Voluten gekronte Relief zeigt im Mittelfelde das sich durch die Wandoffnung Liebesworte zufluisternde Paar Pyramus und Thisbe. Der untere AbschluBstreifen zeigt einen ruhenden Lowen.
+
+Gebrannter Ton. H.74 cm,B.50 cm.Bez.: Max Levi,03.
+88. Vase. Um das unregelmaBige schlauchformige GefaB, das sich zur Basis hin erweitert, tanzen leicht bekleidete Frauengestalten einen ausgelassenen Reigen.
+2. Gebrannter Ton.H.22 cm. Bez.:Max Levi, 97.
+89. Skizze zum Kugelspieler. Ein nackter Juingling laBt, den Korper in SchluBstellung leicht wendend, eine Kugel iber den ausgestreckten linken Arm laufen; der rechte ist in balanzierender Haltung ausgestreckt. Gips. H.64 cm.
+90. Skizze zum Bogenspanner. Ein nackter Juingling streckt die Arme, den linken FuB vorstellend und
+5. sich nach vorn neigend,wie mit dem Bogen schieBend, aus. Gips. H. 51,5 cm. Bez.: Max Levi 99.
+6. 91.Skizze zum David mit dem Haupt Goliaths. Der schlanke Jingling halt,wie tanzend fortschreitend, das Haupt Goliaths hoch erhoben in beiden Handen und richtet den Blick, den Kopf zurickwerfend,nach rechts in die Ferne. Gips. H.71 cm.
+7. 92.Mutter und Kind (Frau Pastor B.).Die junge Mutter im Hauskleid drickt das Kopfchen ihres Kindes, das das rechte Armchen auf ihre linke Schulter legt, zartlich gegen ihr Kinn. Gips. H.50 cm.Bez.:Max Levi,1894.
+93. Portratstatuette (Pastor B.). Der Herr lehnt sich, das linke Bein am Boden ausstreckend und das rechte dariber legend, gegen einen Felsblock, auf dem der rechte Arm liegt. Die Linke halt ein Buch auf den Oberschenkel gestitzt.
+9. Gips. H.28 cm.
+10. 94.Portratstatuette einer Dame. Die Dame sitzt etwas schrag auf einem liegenden Baumstamm. Die Arme sind auf dem SchoB gekreuzt. Das Gesicht beschattet ein runder Hut. Bronzierter Gips. H. 42 cm. Bez.:Max Levi,1909.
+95. Portratstatuette eines sitzenden Herrn. Im Schreibsessel sitzt,bequem zurickgelehnt, die Beine ibereinanderschlagend, den rechten Arm auf die Lehne legend und den linken aufstitzend,ein alterer Herr mit Schnurrbart. Gips, mit Schellack iberzogen. H.36 cm. Bez.:Max Levi, 1897.
+96. Bildnisbiste eines Junglings. Der bartlose Kopf mit dem links gescheitelten vollen Haar ist gegen
+13. den hermenartigen Sockel wenig nach links gewandt. Gips. H.56 cm.Bez.: Max Levi,1907.
+14. 97.Portratbiste Abraham Geigers, des Vorkampfers der Reform des Judentums, geboren zu Frankfurt a.M. am 24. Mai 1810. Der energisch geschnittene Kopf ist geradeaus gerichtet. Die Biste
+15. ist hermenartig beschnitten und tragt an der Vorderseite die Inschrift: Abraham Geiger. Gips. H.64 cm. Bez.: Max Levi,1910.
+98. Portratstatuette eines Herrn (des Bruders des Kinstlers, Artur Levi). Der Herr stitzt die Linke auf einen Baumstamm und legt daslinke Bein leicht iber das rechte, die FuBspitze aufstitzend.
+17. Gips. H.35 cm.
+99. Studienkopf.Der Oberkorper des jungen Madchens ist leicht vorgeneigt, der Kopf mit dem lockigen
+19. offenen Haar, das in der Mitte gescheitelt ist,hoch genommen und wenig nach links gewandt. Gips. H.49 cm.Bez.: Max Levi 99.
+100. Weibliche Biste (Frau R.). Die Dame in leichter Gewandung neigt den von lockerem Haar
+21. umrahmten Kopf leicht nach rechts und faltet die Hande an der Brust. Gips,getont. H.57 cm.Bez.:Max Levi, 1908.
+## GEMALDE.
+
+- 101.Facher,bestehend aus dreizehn Facherblattern. Die Facherblatter sind mit Malereien versehen, und zwar:
+- 1.Albert Frankenweber,Frosch und Libelle. Blaues Wasser mit Teichrosenblattern. Auf einem derselben sitzt ein Frosch und spielt Flote, wahrend eine Libelle mit rothaarigem Madchenkopf ihn umfliegt. Bez.: Alb. Frankenweber, 1899.
+- 2.Professor Robert Schleich,Erntewagen. Am Rande eines Kornfeldes steht ein mit Pferden bespannter Wagen, den Bauern mit Getreide beladen. Am Himmel
+- Gewitterwolken.Bez.:Rob. Schleich.
+- 3.G. Eggena, Heimkehr von der Ernte. Uber die Ebene, die im Hintergrunde Berge begrenzen,vor denen Dorfer liegen,fahrt ein vierspanniger hochbeladener Erntewagen, auf dem die Bauerin mit ihrem Kinde sitzt und den ein ungarischer Bauer lenkt. Bez.: G. Eggena, Minchen.
+- 4.G.Krausche,Alter Bauer beim Brieflesen. Auf der Gartenbank sitzt in Hemdsarmeln ein alter Bauer, behaglich Pfeife rauchend und einen Brief lesend. Bez: G.Krausche,Minchen, 99.
+- 5.A.Schmutzler,Dame im Maskenkostum. Bez.:A. Schmutzler.
+- 6.Wilhelm Rauber,Trompeter von Sakkingen. Der Trompeter halt blasend zu RoB am Waldesrande. Im Hintergrunde jenseits des Rheinstromes ein burggekronter Berg. Abendstimmung. Bez.:Wilh.Rauber.
+- 7.Professor Otto Seitz,Brustbild eines jungen Madchens mit halb-
+- offenem blumengeschmiicktem schwarzem Haar.WeiBe Draperie. Bez.:Otto Seitz,1899.
+- 8.Professor Wilhelm von Diez,Don Quixote, geristet auf einem Schimmel. Bez.:Wilh. v. Diez.
+- 9.Professor Gabrielvon Max,Madchenbildnis. Der hellblonde Kopf ist
+- ins Profil nach links gewandt. Das Haar fallt in reicher Fuille iber den Ricken, dessen Gewandfalten leicht angedeutet sind. Bez.:G. Max.
+- 10.Max Kauffmann,Die Weinprobe des Alten. Brustbild eines alten Bauern,
+- der in der Rechten ein Weinglas hochhalt, das er prifend betrachtet. Bez.: Max Kauffmann.
+- 11.K. S tu hI m i ller, L a n d s c ha ft. In der Ebene, die nach dem Hintergrunde zu Berge abschlieBen, fahrt ein Bauernwagen, an dem eine Kuh festgebunden ist; seine Insassen
+- sprechen mit dem Schafhirt, der eine Herde am Wegrande weidet. Bez.:K. Stuhlmiller.
+- 12.R. Kochanow ski,Flu Blan ds chaft. Am Ufer eines Flusses sitzen zwei kleine
+- Madchen bei ihren Gansen im Grase. Bez.:R.Kochanowski.
+- 13.Julius Scheuerer,Huhnervolk. Durch die Wiese flieBt ein Bach,an dessen rechtem Ufer unter einem Strauch Hahn und Huhner Nahrung suchen. Bez.: Jul. Scheuerer. Olgemalde auf Holz, je 45:10,5 cm.Goldrahmen.
+102. Facher mit finfzehn Blattern. Die Facherblatter sind mit Malereien versehen, und zwar:
+- 1.Heinisch,Ba ue r n hof. Vom frischen Grin des Waldes hebt sich ein altes Bauernhaus ab,vor dem unter einem bluhenden Baume ein Madchen Schafe weidet. Bez.:Heinisch.
+- 2.C. BoBenro th, Strand partie an einer Meeresbucht mit leichter Brandung. Im
+- Hintergrunde Walder und Berge. Bez.: C. BoeBenroth.
+- 3.Julius Scheuerer,Truthahn und Ente auf einem Pfade,der durch hohes Gras fihrt, einander feindlich gegeniberstehend. Bez.:Jul. Scheuerer.
+- 4.Wilhelm Velten,Osterreichischer Reiter. Auf schneebedeckter Ebene spricht ein Reiter in der Uniform der Zeit Maria Theresias mit einem Bauern, der mit einem Hundewagen vor ihm steht. Grauschwarzer Himmel. Bez.:W. Velten.
+- 5.Max Kauffmann,Weintrinkender Bauer. Auf einem Holzstuhl sitzt ein
+- Bauer mit grinem Hut in Hemdsarmeln,nach links gewandt. In der Linken halt er einen Zinnkrug, dessen Inhalt er sinnend betrachtet. Bez.: Max Kauffmann.
+- 6.W. Rit ter,N u r n ber g i m Wi n ter. Der Wachtturm an der Stadtmauer,im Hintergrunde die Burg, tief verschneit, bei Mondlicht.Bez.:W.Ritter, Nuirnberg.
+- 7.Kunz Meyer,Junger Geiger (Figur aus Meyers ,Schattenkonig") in mittelalterlicher Tracht, aim Waldesrande spielend. Im Grase lauscht eine gekronte Schlange. Bez.: Kunz Meyer, Minchen.
+- 8.W.Schwar,Drei Katzchen. Bez.:W.Schwar.
+- 9.Josef Willroider,Landschaft. Felder mit Baumen an einer StraBe. Himmel in Regenstimmung. Bez.:Jos. Willroider.
+10. D. Thom assin,Dorf im Winter. Im Vordergrunde verschneite Felder, durch die ein Weg zum Dorfe fuihrt, das zwischen Baumgruppen tief verschneit im Wintergrunde liegt. Auf dem Wege eine Bauerin mit ihrem Knaben. Bez.:D. Thomassin.
+- 11.G.Krausche,AIter Posaunenblaser. In einer Steinlaube,an deren Wanden eine grine Ranke emporklettert, sitzt am Holztisch ein Greis, die Posaune in der Linken, mit der Rechten ein Rotweinglas fassend.Bez.:G. Krausche.
+12. Max Merker,AItes Schlo B auf felsiger Hohe. Bez.: Max Merker, Weimar.
+- 13.Schret ter,Madchenbru s t bild. Kleines Madchen mit blonden Zopfen in heller
+- Jacke und roter Brustschirze mit Strohhut, halb nach rechts gewandt. Bez.: Schretter.
+- 14.H. Buchner,Dame im Maskenkostum,Brustbild. Blauweibes Empirekleid mit Schutenhut. Bez.:H. Buchner.
+- 15.Professor Otto Stritzel,Schafeunterbluhenden Obstbaumen auf der Weide. Bez.:Otto Stritzel.
+
+Olgemalde auf Holz. H. 45 cm, Br. 16,5 cm. Goldrahmen.
+
+## WALTER GEFFCKEN,MUNCHEN, geb.1874.
+
+- grunde erblickt man auf einer Wiese ein groBes Gehoft. Pastellgemalde auf Leinwand. H. 48 cm,B. 72,5 cm. Goldrahmen. Bez.:W. Geffcken.
+
+## F.GERSTEL.
+
+- 104.Hirsch auf der Flucht vor einem ihn verfolgenden Jagdhund. FluBlandschaft. Blauer Himmel
+- mit breitgelagerter groBer Wolke. Olgemalde auf Leinwand. H.24 cm, B.33 cm. Goldrahmen. Bez.: F. Gerstel 1893.
+105. Rotwild am Waldesrande.In bergiger Gegend stehen unter den Tannen Rehe, die auf den Schrei des Hirsches,der sich am weitesten ins Freie gewagt hat, angstlich auflauschen. Olgemalde auf Leinwand. H. 70 cm, B. 99,5 cm. Griner Rahmen. Bez.:F. Gerstel 1896.
+## ELISE GEUDTNER, DRESDEN.
+
+106. Frichte- und Blumenstilleben. Auf einer weiben Platte steht eine mit Trauben, Pfirsichen, Pflaumen und Haselnissen gefillte Kristallschale. An ihrem FuBe liegen Georginenbluiten. Einer NuB links nahert sich eine Fliege.
+
+Gouachegemalde auf grauem Papier in Passepartout. H. 42 cm,B. 36 cm. Brauner Rahmen. Bez.:Elise Geudtner.
+
+## VON GLEICHEN-RUSSWURM.
+
+107. Landschaft.Wiesen-und Higellandschaft,im Vordergrunde von einem klaren Bach durchflossen, dessen Ufer Baume und Straucher einsaumen. Bewolkter Himmel. Aquarell auf weiBem Papier in Passepartout. H. 25 cm, B. 35 cm. Dunkler Rahmen. Bez.: Baumland.Aug.84.G.R.
+
+## J. GLUCKERT.
+
+108. Tiroler Bauernhaus am See, von dessen Ufer eben ein Kahn mit zwei Mannern abfahrt. Im Hintergrunde Berge. Olgemalde auf Leinwand. H.32 cm,B.48 cm. Goldrahmen. Bez.: J. Glickert.
+109. Tiroler Tal. Am grinen Bergesabhang liegt eine Hitte. In der Ebene, in der im Hintergrunde
+3. vor den Bergen ein Dorf liegt,breitet sich ein See aus,auf dem einKahn mitzwei Mannern fahrt. Ebenso.
+
+## EDUARD G0TZELMANN,1830-1903.
+
+110. Pferde auf der Weide. Am Wegesrand grasen mehrere Pferde. Links lagert eine Stute mit ihrem
+
+Olgemalde auf Holz. H. 15 cm, B.31 cm. Goldrahmen. Bez.:E. Gotzelmann.
+
+- Fohlen. Im Hintergrunde links Laubwald,rechts Blick iber die Ebene bis zu blauen Bergen am Horizont.
+111. Desgleichen.Gegenstick zu vorigem. Die Pferde haben vor dem ausbrechenden Gewitter Schutz der Peitsche ebenfalls dorthin. Ebenso.
+
+## HENRI G0GARTEN, KARLSFELD,geb.1850.
+
+112. Winterabend im Walde. Uber den Weg des tief verschneiten Waldes schreiten,vorsichtig auslugend,zwei Rehe.Im Dickicht tragteine Frau ein Holzbindel auf dem Kopfe heim.Am Horizont Abendrote.
+
+Olgemalde auf Leinwand. H.45 cm,B.55,5 cm. Goldrahmen. Bez.:Henri Gogarten, 1895.
+
+## OSKAR GRAF,MUNCHEN, geb.1870.
+
+113. An der LandstraBe. An einer Boschung, deren Hohe Tannen kronen,vorbei fuihrt die LandstraBe ins Dorf. Rechts sieht man die ersten Hauser, an deren vorderstes sich nach vorn hin ein Obst-
+2. garten anschlieBt.
+
+Olgemalde auf Leinwand. H. 75 cm, B. 92 cm. Schwarzer Rahmen. Bez.: O. Graf.
+
+114. Abendstimmung. Zwischen einer rasenbedeckten Erderhohung,auf der eine Baumgruppe steht,
+2. und auf einer Wiese,iber die der Blick weit in die Ferne und auf den bewolkten Himmel fallt, zieht sich ein schmaler Pfad hin.
+
+Olgemalde auf Leinwand. H. 62 cm,B. 49cm. Schwarzer Rahmen. Bez.:O. Graf.
+
+## FAUST GUISTO, PARIS.
+
+115. Der Nordbahnhof zu Brissel. Uber den regenfeuchten, von Lampenlicht schon erhellten Vorplatz schreiten in der Dammerung einzelne Paare. Im Vordergrunde halt eine Gemisehandlerin ihre Waren feil. Weiter dem Bahnhof zu halten zahlreiche Droschken. Gouachegemalde auf weiBem Papier. H. 20 cm, B.30 cm. Goldrahmen. Bez.:F. Guisto.
+## MONOGRAMMIST F.C.H.
+
+116. Knabe im Studierzimmer. Am gringedeckten Tisch sitzt im breiten Lehnstuhl ein Knabe, iber
+
+Olgemalde auf Leinwand. H.48,5 cm, B.61 cm. Schwarzer Rahmen. Bez.: F. C. H. 1900.
+
+- eine Karte gebeugt. Rechts und links Instrumente, weiter zurick, auf dem Schreibtisch am Fenster liegt ein Totenschadel.
+
+## HORST HACKER, MUNCHEN, geb. 1842.
+
+117. Wintertag im Alpendorf. Uber die Bricke im Vordergrund falt der Blick auf die Schmiede,in der eben ein Pferd beschlagen wird,und weiter die DorfstraBe entlang, deren Hausermit dichtem Schnee bedeckt sind und von deren Dachern Eiszapfen herabhangen,bis zur Kirche, die sich im
+2. Sonnenschein klarvon dem WeiB der Bergeabhebt.
+
+Olgemalde auf Leinwand.H.95 cm,B.122 cm. Goldrahmen.Bez.:Horst Hacker,Minchen,1893.
+
+## CARL VON HAFFTEN, BERLIN,geSt. 1880.
+
+- einen erloschenen Vulkan darstellt,ein tiefblauer stiller See. An ihm vorbei fuihrt rechts ein baumbeschatteter Weg zum Kirchhof. Im Vordergrunde laBt ein Hirsch, dem nahen Tannenforst zugewandt, seinen Brunstschrei ertonen. Olgemalde auf Leinwand. H.70 cm, B.100 cm. Goldrahmen. Unten rechts bez.: Hafften 1876.
+
+## J.HAHN.
+
+119. Herbstabend. Am See vorbei,der im Schein der untergehenden Sonne golden erstrahlt,eilen zwei Rehe von den kahlen Baumen rechts ins Gebiisch links. Pastellgemalde auf Papier. H.24 cm, B.31,5 cm. Goldrahmen. Bez.:J. Hahn.
+120. Winterlandschaft. An der schneebedeckten LandstraBe, die an einem Walde vorbei und zum Dorfe fuihrt,breitet sich vorn ein Weiher aus. Hinter ihm liegen Bauernhauser. Auf dem Wege schreitet eine Frau mit einem Tragkorb dahin. Ebenso.
+
+## F.HARLITZSCH.
+
+121. Pferdekopfe. Ein Brauner und ein Schimmel schauen aus der Stalltir heraus.
+2. Olgemalde auf Leinwand. H.27 cm, B.20 cm. Goldrahmen. Bez.: T. H. 1891.
+122. Desgleichen. Gegenstick zum vorigen. Ein Brauner und ein Schimmel angeschirrt. Ebenso.
+
+## ADOLF HARTEN.
+
+123. Pferde im Stall.Vor der Luke friBt ein Brauner aus seiner Krippe. Durch einen Pfosten von ihm getrennt, steht dahinter ein dunkleres Pferd,das den Kopf zu ersterem heriberneigt. Olgemalde auf Leinwand. H.63 cm, B. 82 cm. Schwarzer Rahmen.
+124. Im Kuhstall. In dem nur von einem schmalen Fenster erleuchteten Stall liegen zwei schwarzweiBe Kihe schlafend am Boden. Zwei andere stehen an der Ruickwand in der Nahe der Tir.
+3. Olgemalde auf Leinwand. H.61 cm,B. 84 cm. Schwarzer Rahmen. Bez.:A. Harten,03.
+125. Kihe im Stall. Im Dunkel des Stalles leuchtet das SchwarzweiB des Kalbchens. Weiter zuriick dem Fenster zu stehen durch eine Schranke getrennt zwei Kihe. Olgemalde auf Leinwand. H. 50 cm, B.76 cm. Schwarzer Rahmen. Bez.: A. Harten, 09.
+
+## J.HARTUNG.
+
+126. Katzen und Krebse. Auf dem Kichentisch sind vier Katzen um einen mit Krebsen gefilten Korb versammelt,in den sie vorsichtig mit den Tatzen greifen. Olgemalde auf Holz. H. 19 cm,B. 24 cm. Goldrahmen. Bez.: J. Hartung.
+127. Eitle Katzen. Gegenstick zu vorigem. Vier Katzen haben sich auf den Toilettetisch geschwungen
+2. und beschaftigen sich mit den vorgefundenen Gegenstanden. Ebenso.
+128. Wie Du mir ... Zwei Hunde qualen einen Papagei, der im Zimmer auf der Stange sitzt. Einer hai ihm eine Schwanzfeder ausgerissen, die er im Maule halt. Olgemalde auf Holz.H.34 cm, B. 25 cm. Goldrahmen. Bez.: J. Hartung.
+4. 129.... so ich Dir. Gegenstick zum vorigen. Der Papagei beiBt den einen Hund in den Schwanz und
+5. dieser wirft fliehend den anderen um. Ebenso.
+
+## GALLUS EMIL HENSCHEL, BERLIN, geb. 1865.
+
+130. Andromeda. Kopie nach P. P. Rubens. Die Jungfrau steht verzweifelt am Felsen. Amor ist zu ihr herangeschwebt und lost die Fesseln. Aus der Ferne sprengt Perseus durch die Lifte herbei. Das um 1638 entstandene Original im Berliner Kaiser-Friedrich-Museum. Olgemalde auf Leinwand. H. 189 cm,B.94 cm. Goldrahmen.
+
+## HUBERT VON HERKOMER,LONDON,geb.1849.
+
+131. Araberkopf mit buschigem Bart und tief in die Stirn gezogenem Kopftuch. Originallithographie.H.23 cm,B.18 cm.Dunkler Rahmen.Bez.:H.H.75 und Hubert v.Herkomer (Bleistiftsignatur.)
+132. FluBlandschaft. Ein Angler tritt, den Koder bereitend,aus dem Dunkel der Baume an den FluB, iber den der Blick auf eine kleine alte Stadt fallt. Originalradierung.H.14 cm,B.29 cm.Dunkler Rahmen. Bez.:Hubert Herkomer 91 und Hubert
+3. v.Herkomer (Bleistiftsignatur.)
+
+## A.HERRMANN-ALLGAU, MUNCHEN.
+
+133. Fruchtstilleben. Auf dem blankgescheuerten Tisch liegen rotwangige Apfel,zwischen denen ein griin glasierter Krug und ein Glas steht. Olgemalde auf Leinwand. H. 40 cm, B. 50 cm. Silberrahmen. Bez.: A. Herrmann-Allgau,
+2. Muinchen.
+134. Desgleichen. Gegenstick zum vorigen. Gegen ein Spankorbchen ist eine Messingkasserolle ge-
+4. lehnt, die umkippend ihren Inhalt an Pflaumen auf den Tisch verstreut hat. Ebenso.
+
+## CARL HEYDEN, DUSSELDORF, geb.1845.
+
+135. Hollandisches Interieur. In der Wohnstube sitzt am Tisch ein Jungling und spielt die Laute, ein junges Bauernmadchen hort ihm lachelnd zu. An der Wand steht ein Schrank mit Delfter Geschirr. Unter dem Stuhl vorn schlaft die Katze.
+
+Olgemalde auf Leinwand. H. 59 cm, B.47 cm. Schwarzer Rahmen. Bez.: Carl Heyden.
+
+## CARL HEYN, DRESDEN.
+
+136. Verlassener Torfstich. In der bluihenden Heide liegen rechts und links zwei Hitten; zwischen
+2. ihnen hindurch zieht sich der Torfstich, durch den vorn das Grundwasser freigelegt ist. Olgemalde auf Leinwand. H. 50 cm, B.67 cm. Goldrahmen. Bez.: Carl Heyn.
+137. Das Matterhorn. Uber rissiges und zackiges Felsgestein, in dessen Fugen dichter Schnee liegt, erhebt sich, allein noch von der Abendsonne getroffen, die Pyramidenspitze des Matterhorn.
+4. Olgemalde auf Leinwand. H. 70 cm, B. 96 cm. Goldrahmen. Bez.: Carl Heyn.
+138. Alpensee. Aus dem himmelblauen See steigen schroff die Felswande auf, auf deren Firnen im Sonnenschein Schnee glanzt. Im Vordergrunde breitet sich eine Alm aus, auf der der Hirt bei
+2. einem Feuerchen seine Herde bewacht.
+
+Olgemalde auf Leinwand. H.67 cm, B. 97 cm.Goldrahmen. Bez.:Carl Heyn.
+
+139. Torbole am Gardasee. Zwischen alten Mauerresten blickt man iber die roten Dacher der Dorf-
+2. hauser auf den tiefblauen See, jenseits dessen sich die felsigen Berge erheben.
+3. Olgemalde auf Leinwand. H. 47 cm, B. 62 cm. Goldrahmen. Bez.: Carl Heyn, Torbola, 96.
+140. Der Ortler. Der machtige Fels,in dessen Furchen Flugschnee liegt, steigt steil in die Hohe. Seine Spitze,die eine dichte Schneekappe bedeckt,leuchtet im Abendrot. Auf einem Plateau im Vorder-
+5. grunde sprieBen Blumen. Olgemalde auf Leinwand. H. 110 cm, B. 119 cm. Goldrahmen. Bez.: Carl Heyn.
+141. Alpenlandschaft. Vor den machtigen Felsen senkt sich das grine Gelande zu einer Mulde, die ein
+7. spiegelnder See fuillt. Am Ufer warmen sich zwei Manner an einem Feuer. Olgemalde auf Leinwand.H.38 cm, B.52 cm.Goldrahmen. Bez.:Carl Heyn.
+142. Seeufer. Aus dem glanzenden Wasser sprieBen Graser, zwischen ihnen liegt im Vordergrunde ein Nachen. Auf dem weiten Flachland, das am Horizont Berge abschlieBen, breiten sich kleine Walder aus. Rechts taucht das Dach eines kleinen Bauernhauses auf. Am Himmel ballen sich
+9. Gewitterwolken.
+
+Olgemalde auf Leinwand. H. 76 cm,B. 116 cm. Goldrahmen. Bez.: Carl Heyn.
+
+- 143.Alpenlandschaft. Auf der Wiesenmatte am Rande eines Abgrundes liegen Sennhutten. Jenseits des Spalts wachsen machtige Felswande steil empor. Der vielzackige Gipfel eines Berges im
+- Hintergrunde ist mit Schnee bedeckt und leuchtet im Sonnenschein. Olgemalde auf Leinwand. H.124 cm, B. 85 cm.Goldrahmen. Bez.: Carl Heyn.
+- 144.Alpenlandschaft im Sonnenschein. Am FuBe eines machtigen, tief zerfurchten und zackigen Felsens breitet sich eine grine Wiese aus, zwischen deren Strauchern zahlreiche Gedenksteine
+- und Marterln. Tiefer in der Bodenfalte liegt eine Sennhitte. Olgemalde auf Leinwand. H. 94 cm, B.126 cm. Goldrahmen. Bez.: Carl Heyn.
+145. Alpental. Ein Wiesental senkt sich sanft zum FuBe eines machtigen Berges links. Durch eine Spalte, die dieser mit einem von rechts vorstoBenden Bergricken bildet, blickt man auf einen gletscherbedeckten Gipfel. Im Tai liegt, von dichtem Gebuisch versteckt, ein Haus,auf das ein Madchen auf einem schmalen Pfade zuschreitet. In der Sohle erglanzt ein stilles Wasser. Abend-
+- stimmung.
+
+Olgemalde auf Leinwand. H. 94 cm, B. 125 cm. Goldrahmen. Bez.: Carl Heyn.
+
+146. Alpenrode. Vor machtigen Felsricken, deren zackige Spitzen im letzten Strahl der Abendsonne leuchten,breiten sich durch eine Bodenfalte getrennte,leicht abfallende Flachen aus, auf denen niedriges Gestrauch mit Baumstimpfen wechseln. Zwischen sie und die Felsen des Hintergrundes
+2. schieben sich gewaltige Bergricken. Olgemalde auf Leinwand. H.76 cm, B. 120 cm. Goldrahmen. Bez.: Carl Heyn.
+
+## ERNST HEYN, DRESDEN.
+
+147. Steinpilze. Aus dem Erdreich erheben sich drei groBere und zwei kleine Pilze.
+148. Farrenkrauter. Der Waldboden ist dicht von Farrenwedeln iberwuchert.
+3. Ebenso.H.15,5 cm,B.21,5 cm.
+149. Pilze. Zwischen den Baumstammen sprieBen im Waldboden Fliegen- und Steinpilze. Ebenso. H.14 cm,B.22 cm.Bez.:Ernst Heyn 84.
+150. Flechten. An einem Baumstumpf wuchern die Flechten. Im Hintergrunde Tannenwald. Ebenso. H.20 cm,B. 13 cm. Bez.: Ernst Heyn.
+151. Schwarzwild. Zu einem moorigen Waldweiher steigen im Schein der untergehenden Sonne Wildschweine mit ihren Frischlingen hinab.
+
+Heyn,Leipzig 1887.
+
+Aquarell auf weiBem Papier in Passepartout. H.48 cm,B.36 cm. Goldrahmen. Bez.:Ernst
+
+152. Einsiedler im Walde. Unter dem Schatten machtiger Tannen schreitet ein Greis mit wallendem
+2. Bart in Monchstracht dahin. Im Vordergrunde flattern Schmetterlinge iber den Blumen. Ebenso. H.52,5 cm,B. 35 cm.Goldrahmen. Bez.: Ernst Heyn,Leipzig 1887.
+
+## PAUL HEYN,DRESDEN.
+
+153. Wassertimpel. Im Vordergrunde einer weiten grasbewachsenen Ebene breitet sich am FuBe einer Birke ein Wassertimpel aus, in dem sich die Birkenaste spiegeln. Olgemalde auf Leinwand in Passepartout. H. 35 cm,B.26,6 cm. Schwarzer Rahmen. Bez.:
+
+## RUDOLF HOCKNER,NIENDORF,geb.1864.
+
+154. Mihle bei Hemmoor. In der weiten Ebene erhebt sich eine einsame Windmihle,vor der einige Karren stehen. Auf dem daran vorbeifuhrenden Wege schreitet das Millerpaar dem weiter zurick liegenden Wohnhause zu.
+
+Olgemalde auf Leinwand. H. 42 cm, B.58 cm. Goldrahmen. Bez.:R. Hockner.
+
+155. DorfstraBe im Winter. Zwischen Baumen und Gestrauch liegt an der verschneiten StraBe ein umfriedigter Bauernhof. Olgemalde auf Leinwand. H. 33 cm,B.19 cm. Schwarzer Rahmen. Bez.: R. Hockner.
+156. Holsteinisches Dorf.Zu beiden Seiten der DorfstraBe liegen die schlichten strohgedeckten Bauern-
+
+Olgemalde auf Leinwand. H. 61 cm, B. 90 cm. Schwarzer Rahmen. Bez.: R. Hockner.
+
+- hitten. Auf einem freien Wiesenplatz im Vordergrunde links sind Aste und Stamme gefallter Baume zusammengetragen.
+
+## F.HOPFNER.
+
+157. Ibrahim-Aga. Auf einer an einer hochstrebenden Moschee vorbeifihrenden StraBe,in der in der Ferne Verkaufsladen sichtbar sind,halt vorn vor einer Gartenmauer an der Tur ein Kameltreiber mit zwei gesattelten Kamelen.
+
+Olgemalde auf Leinwand. H.148 cm,B.67 cm.Goldrahmen. Bez.:F.Hopfner 1903. IbrahimAga.
+
+## VIGGO A.V.HOFF.
+
+158. Sommertag an der auBeren Reede von Kopenhagen. Leicht bewegte See,belebt mit zahlreichen Aquarell auf weiBem Papier in Passepartout. H. 15 cm, B. 37 cm. Brauner Rahmen. Bez.:
+2. fahrtbereiten Segelschiffen, Dampfern und Fischerbooten. Viggo A.V.Hoff.94.
+3. 159.Abendmotiv aus dem Himfjord. Meeresstrand mit Fischerhitten. Auf der stillen See Segler und
+4. Fischerboote. Am Horizont die verschwindende Abendrote. Ebenso. Bez.:Viggo A.V.Hoff. 93.
+160. Abend nach dem Regen im Kattegat. Auf der ruhigen See fahren Segelschiffe und Barken, in
+
+Ebenso. Bez.:Viggo A.V.Hoff. 95.
+
+- einiger Entfernung zwei Dampfer. Vorn eine Boje. Am Himmel Abendrote und zerrissenes Gewolk.
+
+Paul Heyn.
+161. Die innere Reede von Kopenhagen. Mit Segelschiffen,Dampfern und Ruderbooten belebte Hafenansicht, ruhiges Meer, grauer Himmel. Aquarell. H. 9 cm,B. 11 cm. Brauner Rahmen. Bez.:V. H.92.
+162. Abend am Strand bei Gilleleje. Im Abendrot kreuzen auf dem stilliegenden Meer zwei Segelschiffe Weiter zurick fahrt ein bemanntes Boot. Ebenso.
+163. Sommertag an der Bucht von Aarhus. Von der Stadt, die im Hintergrunde schimmert, liegt ein machtiger Segler, an den ein Segelboot heranfahrt. Im Vordergrunde ein Kahn. Ebenso.
+164. Abend an der Ostsee. Im Dammerschein hebt sich vom Abendrot das Takelwerk eines Segelschiffes vom Himmel ab. Vorn eine Boje. Ebenso.
+
+## CHARLES H0GUET,BERLIN,1821-1870.
+
+165. Sturm. Die Wellen des Meeres, auf denen Fischerboote lavieren, branden schaumend gegen das Ufer, an dem aufgeregte Menschen in der Nahe eines balkenbewehrten Bollwerks die Vorgange
+2. beobachten.
+
+Pastellgemalde auf grauem Papier in Passepartout. H. 30 cm, B. 42 cm. Schwarzer Rahmen.
+
+Bez.:C.H.70.
+
+## HOLLANDISCHER MEISTER.
+
+166. GroBvater und Enkelkinder. In der Wohnkiche sitzt am Kamin der GroBvater auf einem Sessel; er hat ein Buch auf das Knie gesitzt,in dem er seinen beiden Enkelkindern ein Bildnis zeigt. Olgemalde auf Leinwand. H.56 cm, B.44,5 cm. Goldrahmen.
+
+## HOLLANDISCHER MEISTER.
+
+167. Wasserlandschaft. Ein breiter FluBlauf zieht sich von einer baumbeschatteten Hausergruppe zu einer im Hintergrunde liegenden alten Ortschaft hin. Auf dem Wasser liegen zwei Segelboote, vor denen ein Nachen vorbeifahrt.
+2. Olgemalde auf Holz. H.25 cm, B.31,5 cm. Goldrahmen.
+
+## HOLLANDISCHER MEISTER.
+
+168. Am Strand. Im seichten Seewasser liegen zwei Fischkutter,vor denen in der Nahe eines Wagens drei Leute stehen. Auf dem weiten Meer leuchten zwei Segel. Olgemalde auf Holz.H.24 cm, B.39 cm. Goldrahmen.
+
+## HOLLANDISCHER MEISTER.
+
+169. Am Bauernhaus. Auf einem Rasenplatz im Garten vor dem Backsteinhause gieBt eine Magd
+2. Milch aus dem Melkeimer in ein GefaB. Vor ihr weiden die Ziegen. Olgemalde auf Holz. H. 23 cm, B.18,5 cm. Schwarzer Rahmen.
+
+## JOSEPH JANSEN,DUSSELD0RF,1829-1905.
+
+170. Gollinger Wasserfall. Eine hohe Felswand, aus deren Fugen Tannen emporwachsen,herab, stirzt schaumend ein machtiges Bergwasser.U Uber den Gipfeln der Berge breitet sich klarblauer Himmel aus.
+
+Olgemalde auf Leinwand. H.122 cm,B. 104 cm. Goldrahmen. Bez.: Jos. Jansen.
+## MARIA JAKOB IGNAZ JAROSCINSKI,POSEN,geb.1819.
+
+171. Heimkehr vom F 1de. Auf dem Wege, der sich am FluBlauf vorbeizieht,reiten polnische Bauern mit ihren zur Arbeit geschirrten Pferden nach Hause. Im Mittelgrunde wartet ein Wagen. Am Himmel Gewitterwolken.
+
+Olgemalde auf Holz. H.37 cm, B.58 cm. Goldrahmen. Bez.: J. Jaroscinski.
+
+## O.R.DE JONGHE.
+
+172. Winterlandschaft. Auf einem Flusse, der durch eine alte Stadt flieBt,geben sich die Bewohner dem Eissport hin. Im Vordergrunde halten Frauen Erfrischungen feil. Olgemalde auf Leinwand.H.34 cm, B.51 cm. Goldrahmen. Bez.: O.R. de Jonghe.
+
+## M.JUILLARD.
+
+173. Disteln. Uber das dirre Gras legen sich die breiten Distelbliten mit ihrem frischen grinen Laub. Olgemalde auf Leinwand. H.54 cm, B. 64,5 cm. Goldrahmen. Bez.: M. Juillard.
+
+## J.JUNGBLUT.
+
+174. Winterlandschaft. Uber den zugefrorenen Bach, der von den Bauernhausern des Hintergrundes zu einer Birkengruppe vorn flieBt, schreiten zwei Frauen. Olgemalde auf Leinwand. H.74,5 cm, B.54 cm. Goldrahmen. Bez.: J. Jungblut.
+175. Desgleichen. Gegenstick zu vorigem. Uber das Eis, das die Wiesenflache neben den beschneiten Hitten links, die im Schatten von Baumen stehen,bedeckt,kommt eine Frau mit ihrem Sohn daher.
+
+Ebenso.
+## Il. Tag. Mittwoch, den 5.Februar 1913, 10 Uhr vormittags.
+
+## GEMALDE.
+
+## PROFESSOR EUGEN KAMPF,DUSSELDORF, geb.1861.
+
+176. Getreidemieten.Am breiten Feldweg, den tiefe Karrenspuren durchfurchen, sind auf den Feldern Getreidemieten aufgebaut. Hinter einer derseblen rechts taucht der Giebel eines Bauernhauses auf, dem sich eine Frau nahert. Im Hintergrunde das Dorf,von dem eine Karre herkommt.
+2. Olgemalde auf Leinwand. H. 45 cm, B. 64 cm. Schwarzer Rahmen. Bez.:E. Kampf.
+
+## A. KANZA.
+
+177. Rokokoszene. Auf einer Bank im Freien sitzt ein Paar in Rokokotracht. Der Herr beteuert, die Hand aufs Herz legend, der Dame, die verschamt den Finger an den Mund legt, seine Liebe. Olgemalde auf Leinwand. H.71 cm, B. 104 cm. Goldrahmen. Bez.:A.Kanza.
+178. Desgleichen. Gegenstick zu vorigem. Uber ein Wasserchen hiniber spricht eine junge Dame in Rokokotracht mit einer Angel in der Hand neckend auf einen schuichtern aim andern Ufer sitzenden jungen Mann ein.
+3. Ebenso.
+
+## F.TH.KARGL.
+
+179. Italienische Uferlandschaft. Am Meeresstrande vorbei,in dessen Biegung die Hauser einer Stadt erscheinen,fuhrt eine LandstraBe dem Vordergrunde zu. Von der wenig belebten StraBe schreitet eine Italienerin mit ihrem Knaben dem Bauernhofe zu, der friedlich zwischen machtigen Baumen
+2. daliegt.
+
+Olgemalde auf Holz. H.36 cm, B.58 cm. Goldrahmen.Bez.:F.Th.Kargl.
+
+180. Desgleichen. Gegenstick zu vorigem. Auf der LandstraBe am Strande kommen Eseltreiber daher. Auf einem der Huigel erblickt man durch die Baume Ruinen. Ebenso.
+
+## MAX KAUFFMANN, MUNCHEN.
+
+181. Tirolier Bauer, den Wein prifend. Ein Alter in griner Weste mit kihn aufgestilptem Lodenhitchen halt das Weinglas blinzelnd vor die Augen. Olgemalde auf Holz. H. 26,5 cm,B. 20,5 cm. Schwarzer Rahmen. Bez.: Max Kauffmann.
+182. Jager und Holzknecht im Gasthaus. In einem Tiroler Wirtshaus sitzen an einem Holztisch Holzknecht und Jager beim Trunk. Der Jager halt prifend sein Glas empor,mit der Linken halt er den Lauf seiner Flinte. Von der Bank am Fenster beobachtet ihn der Holzhacker, behaglich
+3. rauchend.
+
+Olgemalde auf Leinwand. H.45,5 cm, B.52,5 cm. Goldrahmen. Bez.: 15. VIl.Max Kauffmann.
+- Hugel.
+
+## WILHEIM V0N KAULBACH,1805-1874.
+
+183. Wotan auf seinem Throne. Karton zu einem Wandgemalde. Wotan sitzt geristet und in wallendem Mantel,auf dem Haupte einen mit Adlerfligeln geschmickten Tierschadel, in frontaler Haltung auf dem auf Stufen aufgebauten Thronsessel. Zu seinen FuBen erscheinen grimmige Wolfe. Zu seinen Ohren schweben zwei Adler. Kohlezeichnung auf gelblichem Papier. H.158 cm,B. 140 cm.
+184. Flora. Karton zu einem Wandgemalde. Flora fahrt,mit beiden Handen Blumen streuend, auf einem von zwei Stieren gezogenen reich verzierten Triumphwagen durch die Wolken. Kohlezeichnung auf gelblichem Papier. H.150 cm, B.135 cm.
+185. Orpheus. Karton zu einem Wandgemaide. Ein Juingling, dessen Mantel iber den linken Arm
+4. und die rechte Hifte zu Boden fallt und dessen Linke eine auf der Erde aufstehende Leier halt, in begeisterter Haltung,halb nach rechts gewandt. Kohlezeichnung auf gelblichem Papier. H. 150 cm, B. 91 cm.
+
+## E.KAYSER.
+
+186. FeldblumenstrauB. Im Rasen liegt ein bunter StrauB von Feldblumen. Von links fliegt eine Libelle hinzu, von rechts kriecht eine Schnecke heran. Olgemalde auf Leinwand. H. 67 cm, B. 55 cm. Goldrahmen. Bez.: E. Kayser, 89.
+
+## PROFESSOR FRANZ KIRCHBACH, MUNCHEN, geb.1859.
+
+187. Waldlandschaft. In einer Waldlichtung liegen auf moosigem Grunde zwischen Felssticken gefallte Baumstamme und mit Brettern geschitztes Kleinholz.
+2. Olgemalde auf Leinwand. H. 80 cm, B. 60 cm. Schwarzer Rahmen. Bez.:F. Kirchbach.
+
+## A.KIRCHNER.
+
+188. Maulbronn. Von einer mit Steinen eingefaBten Erdterrasse blickt ein junger Wanderer ausruhend auf die alte Abtei, vor die sich von links alte Hauser schieben. Im Hintergrunde bewaldete
+
+Aquarell auf weiBem Papier in Passepartout. H. 29 cm,B. 37 cm. Dunkler Rahmen. Bez.: A.Kirchner,Maulbronn, d.17. Sept.1855.
+
+## HANS KLATT, MUNCHEN, geb.1876.
+
+189. Am Waldesrande. Unweit der machtigen Fohren pflickt ein Madchen Blumen auf einer Wiese, uiber die hinweg der Blick iber ein Dorf und eine Anhohe hinweg auf den fernen Wald fallt. Olgemalde auf Leinwand. H. 28 cm, B. 36 cm. Schwarzer Rahmen. Bez.: Hans Klatt 1901.
+
+## ROMAN KOCHANOWSKI, MUNCHEN,geb.1856.
+
+190. Abendlandschaft. Am Ufer eines breit dahinflieBenden Flusses zieht sich eine LandstraBe hin, an der rechts ein Bauernhaus mit erleuchteten Fenstern liegt. An ihm fahren Fuhrwerke vorbei den weiter zurickliegenden Hausern zu. Dammerstimmung.
+
+Olgemalde auf Leinwand. H. 26,5 cm, B. 46,5 cm. Schwarzer Rahmen. Bez.:Kochanowski.
+
+## F.KOOREMANN VAN LEYDEN.
+
+- 191.FluBlandschaft. Ein Arm des Flusses, dessen Hauptlauf im Hintergrunde zwischen Windmihlen im Abendrot erglanzt,verliert sich durch das Schilf des Vordergrundes,in dem ein Fischer im Kahn erscheint,in einen Teich.
+
+Olgemalde auf Holz. H. 28 cm,B. 19 cm. Goldrahmen. Bezeichnet.
+## G.KRAUSCHE, MUNCHEN.
+
+192. Einsames Bauernhaus. Auf einer Wiese am Saume eines Tannenforstes liegt ein kleines Hauschen mit blumengeschmicktem Vorgartchen. Vorn am Brunnen wascht ein Madchen;ganz im Vordergrunde suchen Enten und Hihner ihr Futter. Olgemalde auf Pappe. H. 23 cm, B. 30 cm. Goldrahmen. Bez.: G. Krausche, Minchen.
+193. Mutter und Sohnchen. Vor einem grinen Kachelofen sitzt die junge Mutter in Marklissaer Birgertracht und halt,indem sie liest,ihr Knablein auf ihrem SchoB. Dieses lehnt sich an sie und zeigt mit dem Finger in das Buch. Aquarell auf weiBem Papier in Passepartout. H. 46 cm, B.33 cm. Brauner Rahmen. Bez.: G.Krausche, Minchen.
+194. Zwei Kinderportrats. Kleiner Knabe in violettem Samtanzug und kleines Madchen in Weib mit
+4. Blumen im Arm. Aquarelle auf weiBem Papier in Passepartout. H. je 11 cm, B. je 8 cm. Mahagonirahmen.
+195. Strickende Alte. Der Kopf der Greisin, der von einem schwarzen Tuche bedeckt ist,dessen Zipfel Aquarell auf weiBem Papier in Passepartout. H. 21 cm,B.16 cm. Mahagonirahmen. Bez.:
+6. auf das violette Kleid herabfallt, ist iber die Strickarbeit in den runzligen Handen gebeugt. G.Krausche,Minchen.
+196. Menzel. Kopf des Kinstlers,nach links gewandt.
+8. Bleistiftzeichnung auf weiBem Papier in Passepartout. Goldrahmen. Bez.: G. Krausche, M. 19.
+197. Madchenbrustbild in altdeutscher Tracht vor dunklem Hintergrund, nach links gewandt.
+10. Olgemalde auf Holz. H.38 cm,B.28 cm. Goldrahmen. Bez.: G.Krausche, Minchen.
+198. Bruder Kellermeister. Der weiBbartige Kopf des Monches, der eine Brille tragt, erscheint neben dem FaB,aus dem er eben eine Probe in sein Glas gefilt hat.Der Blick ist sinnend nach vorn gerichtet. Aquarell auf weiBem Papier in Passepartout. H.21 cm, B. 16 cm. Mahagonirahmen. Bez.: G.Krausche,Minchen.
+199. Brustbildnis einer alten Frau mit Brille,weiber Schleierhaube und grinem gestreiftem Kleid,halb nach links gewandt. Olgemalde auf Leinwand. H. 5 cm, B. 38 cm. Goldrahmen. Bez.: G.Krausche, Mch.
+
+## HUGO KREYSSIG, MUNCHEN, geb.1873.
+
+200. Moor im Walde. Am FuBe der machtigen Fohren, die die grasbewachsene Boschung beschatten,
+2. breitet sich das dunkle, im Grunde mit Wasserpflanzen bewachsene Moorwasser aus. Olgemalde auf Leinwand. H. 90 cm, B. 107 cm. Dunkler Rahmen. Bez.: H. Kreyssig.
+
+## HIERONYMUS CHRISTIAN KROHN,HAMBURG,geb.1843.
+
+201. Gitarrespieler. In einem mit bunten Fenstern und Wandmalereien geschmickten Saale lehnt an einem Renaissancemobel ein Jungling in rotem Leibrock und spielt sinnend Gitarre. Olgemalde auf Holz. H. 46,3 cm, B. 26,5 cm. Schwarzer Rahmen.
+202. Brustbild einer Romerin in rotem,mit goldenen Borten besetztem Kleid und Korallenhalsband. Der von offenem schwarzem Haar umrahmte Kopf hebt sich von der Luft und den Baumen des Hintergrundes ab. Die Linke ist vor die Brust gelegt. Olgemalde auf Leinwand. H. 61,5 cm, B. 50 cm. Goldrahmen.
+
+## OSKAR KRUSE-LIETZENBURG,BERLIN, geb.1847.
+
+203. Am Hiddense. Uber Tannen hinweg fallt der Blick von der Hohe an einem Hause vorbei, dessen Fenster im Abendrot erstrahlen,auf den in der Dammerung matt leuchtenden See. Olgemalde auf Leinwand. H. 33 cm, B. 57 cm. Goldrahmen. Bez.:Kruse-Lietzenburg, Ber-
+2. lin1902.
+- blickt.
+- hutte liegt.
+
+## WILHELM LEIBL(?),MUNCHEN,1844-1900.
+
+204. Brustbild eines Landmanns in grinem Mantel. Das ziemlich lange Lockenhaar des frischen,mit einem Schnur- und Knebelbarte gezierten Kopfes, der sich nach rechts zum Beschauer hin um-
+
+Olgemalde auf Leinwand. H.47 cm, B.39 cm. Bez.:W.Leibl 1863. Beschadigt.
+
+- wendet,bedeckt ein Lodenhut. Grauer Hintergrund.
+
+## KARL LEIPOLD,STORORT, geb.1864.
+
+205. An der Stormindung. In der Dammerung liegen auf dem Wasser mehrere Fischerboote mit braunen
+2. Segeln. Am Ufer erscheinen die Hutten. Olgemalde auf Pappe. H. 23 cm, B.39 cm. Schwarzer Rahmen. Bez.: Leipold.
+206. Elbelandschaft. Im Grau der Dammerung sieht man iber dem FluB hinweg niedrige Bauernhauser unter hohen Baumen liegen. Olgemalde auf Pappe. H. 23 cm, B. 39 cm. Schwarzer Rahmen. Bez.: Leipold.
+207. Alte Werft. Am Ufer des Flusses liegt neben einer Baumgruppe ein alter baufalliger Schuppen.
+5. Olgemalde auf Pappe. H. 26 cm, B.36 cm. Schwarzer Rahmen. Bez.: Leipold.
+208. Herbst. Im Herbstnebel taucht iber dem Wasser des Vordergrundes eine Gruppe vergilbter
+7. Baume auf,hinter der das Strohdach eines Bauernhauses sichtbar wird. Olgemalde auf Leinwand. H. 45 cm, B.69 cm. Schwarzer Rahmen. Bez.: Leipold.
+209. Auf der Unterelbe. Durch das graue Wasser fahrt ein Kutter dahin. Schwere Wolkenballen senken sich fast auf das Deck hernieder.
+9. Olgemalde auf Pappe. H. 23 cm, B. 39 cm. Schwarzer Rahmen. Bez.: Leipold.
+
+## HEINRICH LESSING,BERLIN, geb.1856.
+
+210. Hollanderin am Fenster. Im Zimmer sitzt ein junges Madchen, die Naharbeit auf dem SchoBe, am Fenster, durch das man ins Grin und auf die im Sonnenschein hellrot leuchtenden Dacher
+
+Olgemalde auf Leinwand. H. 87 cm, B. 68 cm. Goldrahmen. Bez.: Heinrich Lessing.
+
+## J.LEUCHERT.
+
+211. Der Konigssee. Auf dem klaren Wasserspiegel, aus dem die Felswande schroff aufsteigen, fahren zwei Boote. Links fuihrt ein steiniger Pfad zu einer Tannengruppe,in deren Schatten eine Fischer-
+
+Olgemalde auf Leinwand. H. 68 cm, B. 103 cm. Goldrahmen. Bez.: J. Leuchert.
+
+## FRIEDRICH L0SS0W,MUNCHEN,1837-1872.
+
+212. Rebhihner und Jagdhunde. An einer Boschung lagern die Huhner im Felde, von rechts schleichen zwei Hunde herbei.
+
+Bez.: Fr. Lossow.
+
+- Ufer vorbei fahrt ein Segelboot.
+
+Bleistiftzeichnung auf weiBem Papier. H. 24 cm, B.30 cm.Passepartout in poliertem Rahmen.
+
+## A.A.LUDER.
+
+213. FluBlandschaft mit Muhle. An einem breiten FluB, iber dessen Spiegel die Tuirme und Hauser einer groBen Stadt auftauchen, liegt im Vordergrunde eine Windmihle zwischen Gestrauch. Am
+
+Olgemalde auf Holz. H.12,5 cm, B. 19 cm. Schwarzer Rahmen. Bez.:A.A. Luder 61.
+## ELSE LUEDECKE,STEGLITZ.
+
+214. Idyll. Am Brunnen, auf dessen Rand Tauben sitzen,halt ein junges Madchen, um dessen Huften ein Schleier gelegt ist,eine Muschel empor,auf die eine Taube herabflattert. Durch den Torbogen im Hintergrund blickt man in den Garten.
+
+Olgemalde auf Holz.H. 48 cm,B.30,5 cm. Goldrahmen. Bez.:Else Luedecke.
+
+## W. LUDERS.
+
+215. Birken in der Heide.Durch die weite blihende Heide zieht sich an einem Pfad vorbei eine Birkenreihe in die Tiefe.
+
+Olgemalde auf Leinwand. H.71 cm,B.50,5 cm.Schwarzer Rahmen. Bez.:W.Liders.
+
+216. Desgleichen. Gegenstick zu vorigem. An den Raderspuren, die aus dem blihenden Heidekraut
+2. hervorleuchten,vorbei zieht eine Birkenreihe den Blick auf ein Waldchen im Hintergrunde. Ebenso.
+
+## LOUIS LUZETTE,BERLIN,geb.1834
+
+217. Mondaufgang. Am Horizont erscheint am bewolkten Himmel der Mond und wirft sein mattes Licht iber die Heide,in der rechts ein Bauernhof liegt und weiter vorn unfern eines stehenden Wassers ein Birkenwald sich erhebt. Am Wasser sitzt ein Mann, auf das Gehoft schreitet eine
+2. Frau zu.
+
+Olgemalde auf Leinwand. H. 41 cm, B. 66 cm. Schwarzer Rahmen. Bez.: L. Luzette. Barth.
+
+## LUCIE MAGUET,DRESDEN.
+
+218. Lora in der Schaukel. Auf der freischwebenden Schaukel sitzt ein griner Papagei, sich mit dem Schnabel die Brustfedern ordnend.
+
+Aquarell auf grauem Papier. H.35,5 cm,B.28,5 cm.Goldrahmen. Bez.:L.Maquet 1900.
+
+## COLOMBO MAX, MUNCHEN.
+
+219. Frihlingsidyll. Auf blumiger Wiesenhohe, die links ein Birkenwaldchen abschlieBt, sitzen unter dem tiefblauen, sich bewolkenden Himmel vor einer Birkengruppe ein Madchen und ein junger Mann, sich umschlingend und kissend.
+
+Olgemalde auf Holz. H. 44,5 cm, B. 40 cm. Schwarzer Rahmen. Bez.: C. Max 1904.
+
+## WOLFGANG A. MERKEL, MUNCHEN.
+
+220. Stilleben. Auf einem Tisch, auf den ein rund gemusterter Vorhang herabfallt, liegen bei einer blauen Majolikavase Apfel, Trauben und Kastanien. Nach rechts vervollstandigt die Gruppe ein gebuckeltes KupfergefaB, auf dem ein weiBer Kakadu sitzt.
+
+Olgemalde auf Leinwand. H. 68 cm, B. 82 cm. Schwarzer Rahmen. Bez.:W.A. Merkel.
+
+## MAX MERKER,WEIMAR, geb.1861.
+
+221. Forsthaus im Hochwalde. Auf das mit einem Erker gezierte Fachwerkhaus schreitet aus dem
+2. Dunkel der Baume ein kleines Madchen zu.
+
+Originallithographie. H.23,5 cm, B. 33,5 cm. Brauner Rahmen. Bez.: M. Merker, Weimar. (Bleistiftsignatur.)
+
+222. Innerer Hof der alten Burg zu Libeck. Drei zusammenhangende Gebaude mit steilen Giebel-
+2. dachern und Butzenfenstern. Zu ihnen fihrt ein Steintreppenweg,auf dem ein Knabe mit einem kleinen Kinde sitzt. Links im Vordergrund ein Gartchen. Rechts gepflasterter Hof mit Baumen. Olgemalde auf Leinwand. H. 72,5 cm, B.56 cm. Goldrahmen. Bez.:M. Merker 1887.
+223. Abend nach dem Gewitter. Eine noch vom Regen nasse StraBe, auf der ein Madchen Ganse nach
+2. Burgruine. Kupferdruck nach Merkers Gemalde auf Bitten; einer der finf vom Kinstler aquarellierten Drucke. H.75,5 cm, B.68 cm. Schwarzer Rahmen. Bez.:Max Merker,Weimar, aqu. (Bleistiftsignatur).
+3. vorn treibt, fihrt zu den spitzgiebeligen alten Dorfhausern. Auf einem nahen Hugel ragt eine
+4. 224.Vor der alten Stadtmauer in Uberlingen. Im Vordergrunde Gemisefelder,in denen eine Frau arbeitet,und Obstbaume. Dahinter ein Stick der alten Stadtmauer und alte Fachwerkbauten mit spitzen Dachern und bunten Laden. Weiter zurick,von ihnen zum Teil verdeckt,ein Turm. Farbiger Kupferdruck nach Merkers Gemalde auf Hollander-Papier. Probedruck, vom Kinstler iberarbeitet. H. 45 cm,B. 62 cm. Dunkler Rahmen. Bez.:Max Merker,Weimar (Bleistiftsignatur).
+225. Waldmarchen. Im Waldweiher baden drei blondhaarige Nixen. Zwei von ihnen blicken auf einen jungen Ritter, der am Waldesrande auf einem Schimmel halt. Farbiger Kupferdruck nach Merkels Gemalde auf Hollander-Papier. Einer der vom Kinstler bezeichneten Erstdrucke.H. 50 cm,B. 72 cm. Goldrahmen. Bez.:Max Merker (Bleistiftsignatur).
+226. Die Ruinen des Palatin. An der LandstraBe erheben sich vor dem Dunkel eines Zypressenhains Wasser, aus dem eine zerbrochene Saule aufragt.
+7. drei Marmorsaulen. Den Hain schlieBt der Rest einer alten Mauer ein.Im Vordergrunde stehendes Olgemalde auf Leinwand. H. 45 cm, B. 78 cm.Goldrahmen. Bez.: M. Merker, Roma 1889.
+227. Am FuBe des Palatin. Hausergruppen des modernen Rom; in den Garten und Hofen Zypressen und Pinien. Tiefblauer Himmel. Olgemalde auf Pappe. H. 45 cm, B. 62 cm. Goldrahmen. Bez.: M. Merker.
+228. Das alte Tor. In baumreicher Landschaft erhebt sich eine Gebaudegruppe,an die sich ein Torturm anschlieBt. Durch das Tor treibt ein Hirt seine Schafherde auf den freien Platz im Vordergrunde, wo eine Frau ihn erwartet. Originallithographie. H. 17,5 cm, B. 35 cm. Dunkler Rahmen. Bez.:M.Merker, Weimar (Bleistiftsignatur).
+229. Bachlandschaft. Durch ippig grine Wiesen flieBt ein klarer Bach, an dessen Ufer eine Laubbaumgruppe steht, deren Spiegelbild das Wasser zurickwirft. Im Hintergrunde Felder und bewaldete Higel. Der Himmel ist von der eine Wolke durchstrahlenden Sonne gerotet. Originalfarbenlithographie. H. 30 cm,B. 35 cm. Dunkler Rahmen. Bez.:M.Merker,Weimar (Bleistiftsignatur).
+
+## PROFESSOR HANS MEYER, BERLIN, geb.1846.
+
+230. Parktor. Uber die geschwungene Mauer und durch das eiserne Gittertor fallt der Blick in den
+2. herbstlichen Park, in dessen Hintergrunde ein Teil des prachtigen Landsitzes sichtbar wird. Aquarell auf weiBem Papier in Passepartout. H. 36 cm,B.51 cm. Eichenrahmen. Bez.:Hans Meyer,1910.
+
+## PROFESSOR PAUL MEYERHEIM,BERLIN,geb.1842.
+
+231. Hessischer Bauer. Brustbild im Profil nach rechts. Das Gesicht ist bis zum Munde von dem breitkrampigen, hinten hochgeklappten schwarzen Hut tief beschattet.
+2. Olgemalde auf Pappe. H. 28 cm, B. 38 cm. Schwarzer Rahmen. Bez.: P. Meyerheim.
+232. Studie zu einem Damenbildnis. Auf einem Polsterstuhl sitzt eine Dame nach rechts gewandt
+4. vor einem Tisch,auf dem eine Blumenvase steht,und blattert in einem Buche. Olstudie auf Pappe. H.74 cm, B.54 cm. Schwarzer Rahmen. Bez.:Paul Meyerheim.
+
+## JEAN FRANC0IS MILLET,BARBIZON,1814-1875.
+
+233. Landschaft. Von der in einem Bogen zu einem Gehoft fuihrenden LandstraBe,an dessen Rand vereinzelte Pappeln stehen, falt das Gelande zu den tiefer gelegenen Wiesen herab. Olgemalde,Leinwand auf Pappe. H.24,5 cm, B. 33,5 cm. Schwarzer Rahmen.
+## W.MORAS,BERLIN.
+
+234. Spreewaldlandschaft. Unter den herbstlich gefarbten Baumen, die die regenfeuchte LandstraBe am Ufer des Kanals beschatten, kommt ein altes Mitterchen mit einem Tragkorb nach vorn.
+
+Olgemalde auf Leinwand. H. 61 cm, B. 101 cm. Schwarzer Rahmen. Bez.:W. Moras. Abb.Tafel 7.
+
+- Weiter zurick folgt ein Ochsengespann;im Hintergrunde ein Gehoft.
+
+## G.MORTELLA.
+
+235. Landsknechte. Vor dem Tor eines maurischen Schlosses sitzen und stehen Landsknechte, ins
+2. Spiel vertieft,beieinander.Vorn Trommler. Olgemalde auf Holz. H.38,5 cm, B.26,5 cm. Dunkler Rahmen. Bez.: G. Mortella.
+
+## H.MOSER,MUNCHEN.
+
+236. Der Einsiedler. Auf der Bank vor der in den Fels gebauten Hiitte sitzt der greise Monch und fittert
+2. ein Reh.Am Baum neben ihm hangt iber dem Betpult ein Madonnenbild. Farbige Zeichnung. H. 14 cm,B.17 cm. Dunkler Rahmen. Bez.:H.Moser 1904.
+
+## PAUL MUCHA,BERLIN,geb.1856.
+
+237. Gebirgslandschaft mit hoher Felswand. Im Tale davor Gebirgsbach in felsigem Bett. Den Talgrund fuillen Tannen und Fohren. Gelblicher Himmel.
+2. Olgemalde auf Leinwand. H.39 cm, B. 48 cm. Goldrahmen. Unten rechts bez.: Mucha.
+
+## PROFESSOR HUGO MUHLIG, DUSSELDORF,geb.1854.
+
+238. Reifmorgen. Eine von dinnen kahlen Baumstammchen eingefaBte LandstraBe herunter, die sich durch bereifte Felder zieht, gehen und fahren Bauern mit ihrer Ware zum Markt. Rechts pfligen zwei Manner mit Ochsengespannen die Acker.
+
+Olgemalde auf Leinwand. H.78 cm, B.122 cm. Goldrahmen. Bez.:Hugo Mihlig, Ddf.
+
+## EMMA MULLER,EDLE VON SEEHOF,MUNCHEN.
+
+239. Tiroler Madchen.Auf einem Bauernstuhl sitzt, das Korbchen mit Apfeln auf dem SchoB,lachelnd ein junges blondes Madchen in schlichter Bauerntracht. Olgemalde auf Leinwand. H. 37 cm, B. 28 cm. Goldrahmen. Bez.: Emma v. Miller.
+
+## G.MULLER, BRESLAU.
+
+240. Felsenlandschaft. Am FuBe einer machtigen Felswand flieBt zwischen Steinblocken und Geroll hindurch ein Bach. Im Hintergrunde higelige Wiesenlandschaft. Olgemalde auf Pappe. H. 68 cm, B. 47 cm. Schwarzer Rahmen. Bez.: G. Miller-Breslau.
+
+## ILSE MULLER,DRESDEN.
+
+- 241.HerbststrauB. Auf einer Balustrade liegt ein StrauB verdorrter Bliten. Olgemalde auf Leinwand.H. 47 cm, B. 65 cm. Goldrahmen. Bez.: Ilse Muiller, 1892.
+
+## MUNCHNER oder WIENER MEISTER, um 1850.
+
+242. Allgorische Gruppe. Karton zu einem Wandgemalde. An eine sitzende ahrenbekranzte Frauenden Handen halt,drangen sich zwei nackte Knablein.
+2. gestalt, deren Mantel sich um die Hiften und iber den linken Arm legt und die Spinnwirbel in Kohlezeichnung auf gelbem Papier. H.110 cm, B. 100 cm.
+243. Nymphen. Karton zu einem Wandgemalde. Auf einer Erderhohung sitzen zwei nackte Nymphen dicht aneinander geschmiegt und einen wasserspendenden Krug neben sich haltend. Die eine tragt einen Efeukranz im Haar und streichelt ein Reh. Die andere entlockt einer Pansflote Tone, wobei ihr ein nacktes Knablein zuschaut.
+
+Kohlezeichnung auf grin getontem Papier. H. 113 cm,B. 146 cm.
+## PATRICK NASMYTH,L0ND0N,1787-1831.
+
+244. Landschaft. Am Waldesrande steht ein umzauntes Bauernhaus mit Moosdach. Davor sanft zum Wasser abfallender Wiesengrund. Auf dem Wasser schwimmen einige Enten. In der Einzaunung steht eine Frau bei einem mit Marktkorben beladenen Esel. Von links her schiebt sich eine graue Wolkenwand iber den blauen Himmel.
+
+Olgemalde auf Leinwand. H. 30,5 cm, B. 25 cm. Goldrahmen. Unten rechts bez.: P. Nasmyth.
+
+## H.NOACK,DRESDEN.
+
+245. Orangen. Auf einer Tischplatte steht ein Spankorbchen mit Orangen, die zum Teil noch in ihrer Papierumhillung liegen. Davor sind auf einem Teller zerteilte Frichte ausgebreitet. Links liegt ein Messer mit Hirschhorngriff. Olgemalde auf Leinwand. H.36 cm, B.51,5 cm.Goldrahmen. Bez.:H. Noack.
+246. Pilze. In der Heide liegen auf einem Tuch, das iber den Boden und einen Baumstumpf gebreitet
+3. ist, zahlreiche Pilze. Im Hintergrunde Farnkrauter. Olgemalde auf Leinwand. H.58 cm, B. 126 cm. Eichenrahmen. Bez.: H. Noack.
+247. Weintrauben. Gegenstick zu vorigem. Ein Korb mit Weintrauben ist halb umgestirzt, sodaB die Trauben zum Teil herausgefallen sind. Rechts steht eine Zinnschuissel mit dunklen Trauben.
+5. Im Hintergrunde Reben,deren Blatter das Ganze umranken. Ebenso.Bez.:Helene Noack.
+
+## ADOLF 0BST,BERLIN,geb.1869.
+
+248. Nach Sonnenuntergang. Auf einem toten FluBarm, in dessen Wasser sich das Abendrot des
+2. Himmels und die Baume und Straucher spiegeln,ruht ein FloB, auf dem sich zwei Manner ein Feuer angezindet haben. Von rechts ragt ein Landungssteg iber das Wasser. Olgemalde auf Leinwand. H. 72 cm, B.103 cm. Schwarzer Rahmen. Bez.:Adolf Obst.
+3. 249.Hollunderbliten. Am Teich,der sich im Vordergrunde ausbreitet, liegt hinter Weiden und blihendem Hollunder versteckt eine Bauernhitte. Am Himmel ballen sich Gewitterwolken. Olgemalde auf Leinwand. H. 62 cm, B. 92 cm. Schwarzer Rahmen. Bez.: Adolf Obst.
+
+## PROFESSOR A.OESER.
+
+250. Jahrmarktsvorbereitung. Auf dem freien Platz vor einem steilen Higelabhang, dessen Hohe ein Aussichtsturm kront, kommen zahlreiche Komodiantenwagen und Karren an und unter dem Gedrange der Neugierigen entstehen die Buden und rechts ein Karussel. Am Himmel ziehen schwere Wolken auf.
+
+Olgemalde auf Leinwand. H.46 cm,B.54 cm. Goldrahmen. Bez.:A. Oeser.
+
+## ALEXANDER 0LBRICHT,OBERWEIMAR, geb.1876.
+
+251. Am Bach, der durch Wiesen und Felder nach vorn flieBt, stehen Birken. Im Hintergrunde hebt
+2. sich vom Dunkel des Waldes ein Gehoft hell ab. Der Himmel ist mit Regenwolken bedeckt. Originalradierung. H.19 cm,B.23 cm. Bez.:A.Olbricht.
+
+## ERNST ORLOW,MUNCHEN.
+
+252. Bismarckkopf, nach rechts gewandt, im Kirassierhelm. Olgemalde auf Holz. H. 15,5 cm, B. 11 cm. Geschnitzter Goldrahmen. Bez.:E. Orlow.
+
+## HEINRICH OTTO,DUSSELDORF,geb.1852.
+
+253. Heideweg. Durch das bluihende Kraut hindurch windet sich der Weg in vielen einzelnen Armen an einem Haus und einer Baumgruppe vorbei dem Hintergrunde zu. Olgemalde auf Leinwand. H. 82 cm,B. 123 cm. Schwarzer Rahmen. Bez.:H. Otto.
+## B.PASSIG.
+
+254. Frihling in der Heide. Zwischen dem blihenden Heidekraut des Vordergrundes breitet sich ein stehendes Wasser aus, in dem sich die Frihlingswolken spiegeln. Dariber hinweg erblickt man grinende Wiesen.
+
+Olgemalde auf Leinwand. H. 29 cm,B.46 cm. Schwarzer Rahmen. Bez.: B. Passig 1910.
+
+## L.PATEK.
+
+255. Der Dammerschoppen. Aus der offenen Wirtshalle, in dem Jager beim Trunk beisammensitzen, tritt ein kleines Madchen, den gefillten Krug vorsichtig nach Hause tragend. Olgemalde auf Holz. H. 31 cm, B.22,5 cm. Dunkler Rahmen. Bez.: L. Patek.
+
+## DOMENICO PENNACCHINI,ROM,geb.1860.
+
+256. Auf der Terrasse. Auf der gegen das blaue Meer hin von einer Balustrade abgeschlossenen Terrasse reicht ein junges Madchen einem zweiten iber eine Steinbank hin einen Korb mit Blumen. Links sprudelt ein Brunnen, rechts blihen Oleanderbaumchen in Kasten. Olgemalde auf Leinwand. H. 45 cm, B. 62 cm. Geschnitzter Goldrahmen. Bez.:Pennacchini, Roma.
+
+## H.PERTEL.
+
+257. Frichtestilleben. Auf einer Steinbalustrade stehen zwischen allerlei Frichten eine bunte chine-
+2. sische Flasche, ein venezianisches Fluigelglas und eine goldene Schale mit Austern. Olgemalde auf Leinwand. H. 56 cm, B. 77 cm. Goldrahmen. Bez.: H.Pertel.
+
+## PROFESSOR HANS VON PETERSEN, MUNCHEN, geb.1850.
+
+258. Winter. Am FuBe eines verschneiten Berges schlangelt sich ein FluBlauf vorbei. Auf dem von einer dichten Schneedecke verhuillten flachen linken Ufer liegt im Hintergrunde vor einem dunklen Wald ein Kirchdorf. Im Vordergrunde erhebt sich aus dem Wasser eine kleine schneeverhillte Insel.
+
+## PROFESSOR OTTO VON PILTZ,MUNCHEN, geb.1846.
+
+Olgemalde auf Leinwand. H. 78 cm, B. 103 cm. Schwarzer Rahmen. Bez.: Hans v. Petersen. Abb.Tafel 4.
+
+259. In der Haustir. Im Halbdunkel der Diele steht die Bauerin mit der Schissel in der Hand, aus der sie das Futter ausgestreut hat. Vom Hofe her drangt das Huihnervolk hungrig herein. Auf einer Bank am Zaun rechts liegen Stiefel. Am Tirpfosten lehnt ein Besen, daneben steht ein blauer
+
+Olgemalde auf Pappe. H. 36,7 cm,B. 28,5 cm. Schwarzer Rahmen. Bez.: O. Piltz.
+
+## P.PLAT,1873.
+
+260. Im Schafstall, in dem die groBe Herde lagert, hebt der Bauer ein Lamm in die Hohe, um es aus einem Kuibel trinken zu lassen, das sein Tochterchen bereit halt. Olgemalde auf Holz. H. 47 cm, B. 63 cm. Goldrahmen. Bez.: P. Plat 1837.
+
+## J.J. VAN POORTEN.
+
+261. Der Ugleisee in der holsteinischen Schweiz. Im Vordergrunde erheben sich machtige Buchen, in deren Schatten Rotwild ast. Uber den Spiegel des Sees hinweg blickt man auf eine von dichtem Wald umgebene Wiese.
+
+Olgemalde auf Leinwand. H. 79 cm, B. 128 cm. Goldrahmen. Bez.: J. J. van Poorten.
+
+## PROFESSOR LEO PUTZ, MUNCHEN, geb.1869.
+
+262. Der Frihstickstisch. Auf dem runden Gartentisch,iber den ein Leinentuch geworfen ist, steht das Frihsticksgeschirr,weiBes Porzellan mit mattgoldenem Rand,dazwischen eine silberglanzende Kaffeemaschine. Alles hebt sich kraftig ab von dem bunten Laub der Baume und dem gemusterten
+
+Olgemalde auf Leinwand. H. 77 cm, B. 101 cm. Dunkler Rahmen. Bez.: Leo Putz. 06.
+
+- Blau einer Decke,die iber der weiBlackierten Bank hangt.
+- Krug.
+## ERWIN RAUPP,DRESDEN.
+
+263. Pudelkopf. Der von langen schwarzen Locken umrahmte Kopf ist nach vorn gewandt. Raupp,Dresden,1893.
+
+## A.REIMERS,DUsSELDORF,geb.1843.
+
+264. Bergsee. Zwischen machtigen Felshohen liegt ein klares Bergwasser, umrahmt von knorrigen Baumstammen. Ein junges Madchen kniet waschend am Ufer. Olgemalde auf Holz. H.54,5 cm, B. 43 cm. Goldrahmen. Bez.:A.Reimers.
+
+## A.REINERT.
+
+265. Norwegischer Fjord. Die schneebedeckten Felsen fallen steil zum klaren Wasser ab,in dem sich der Himmel spiegelt. Vorn links fahrt ein Kahn mit Gras. Auf einer Wiese links liegen ein paar Hauschen. An der Felswand rechts liegt ein Boot mit gespannten Segeln. Olgemalde auf Leinwand. H. 82 cm, B.130 cm. Goldrahmen. Bez.:A. Reinert, 12.
+
+## G.REINHARDT.
+
+266. Heimkehr von der Weide. Aus dem Dunkel des Waldes kommt die Viehherde,gefolgt von Hirten auf einem steinigen Pfad. In der Tiefe schlangelt sich an den Bergen des Hintergrundes vorbei
+2. ein FluB.
+
+Olgemalde auf Leinwand. H. 87 cm, B. 65,5 cm. Schwarzer Rahmen. Bez.: G. Reinhardt.
+
+## CARL VON RETH,AACHEN.
+
+267. Die vier Elemente. Hundebilder. a) Feuer. Um den glihenden Ofen haben sich vier Jagdhunde versammelt. b) Wasser.Ein Jagdhund verfolgt, durchs Wasser schwimmend,eine Wildente, die sich fliegend vor ihm ans Ufer rettet. c) Luft.Vor dem Jagdhunde steigt der verfolgte Fasan plotzlich in die Lifte. d) Erde.Im Gestripp zerrt ein Dachshund einen Dachs aus seinem Bau. Ein Foxterrier schaut sprungbereit und gierig zu.
+
+Olgemalde auf Leinwand. H. 84,5 cm, B. 104,5 cm. Dunkler Rahmen. Bez.: C. v. Reth, 1903.
+
+## WANDA ROHLING, BERLIN.
+
+268. Briefschreiberin. Am Tisch vor dem blumengeschmiickten Fenster sitzt ein junges Madchen in ausgeschnittenem grauem Kleidchen,einen Brief schreibend. Durch das Fenster blickt man auf die grinen Baume des Gartens.
+
+Olgemalde auf Leinwand. H.78 cm, B.58 cm. Goldrahmen. Bez.: W. R.
+
+## A.ROMHILD.
+
+- 269.Norwegischer Fjord. Aus dem leicht vom Abendrot gefarbten Wasser steigt eine von beschneiten zackigen Gipfeln gekronte Felswand auf,der zwei gewaltige Felskegel vorgelagert sind. An diesem fahren zwei Boote vorbei.Weiter streben Dampfer dem offenen Meere zu. Olgemalde auf Leinwand. H. 112 cm, B. 160 cm. Goldrahmen. Bez.: A. R.
+
+## G.ROMIN.
+
+270. Strandlandschaft. Am Meeresufer liegen machtige Felsblocke, von denen Moven iber das stillliegende bleifarbene Meer fliegen. Grauer Himmel. Aquarell. H.30 cm,B.46,5 cm.Dunkler Rahmen.Bez.:G.Romin.
+271. Stille See in Abendstimmung; zwei Segelboote gleiten iber die ruhige,vom Mondschein beglanzte
+3. Wasserflache dahin. Im Vordergrunde Steinblocke. Am Himmel eilende Wolken. Pastellgemalde mit Gouache. H. 41,5 cm,B. 56 cm. Brauner Rahmen. Bez.:G.Romin.
+## BILDWERKE.
+
+## T.H.BAUMER.
+
+272. Amor.Uber einen Felsblock, auf dem er leicht sitzt, gebeugt, belauscht Amor, den Finger, Schweigen heischend,an den Mund gelegt,ein schnabelndes Taubenpaar. Bronze. H.41 cm, auf drehbarem Marmorsockel. Bez.:T.H. Baumer.
+
+## JEAN AUGUSTE BARRE,PARIS,1811-1896.
+
+273. Biste Napoleons Ill. als Prinzregenten in groBer Generalsuniform. Bronze. H. 85 cm. Bez.:A. Barre fecit 1852. Gegossen im Auftrage der Stadt Metz 1852 in der franzosischen StaatsgieBerei und bis 1870, bis zum Einzug der preuBischen Truppen, im Metzer Rathaus aufgestellt. Offizielles Modell der Geldminzen des zweiten Kaiserreichs.
+
+## G.BROGGI.
+
+274. Biste der Cleopatra. Weit zurickgelehnt,halt die Konigin die Schlange an ihren Busen, sie mit disteren Blicken betrachtend. Das energische Antlitz hat einen schwermitig sinnenden Ausdruck angenommen.
+
+Karraramarmor. H.108 cm.Bez.:G.Broggi.
+
+## HANS DARSOW,BERLIN,geb.1877.
+
+275. Der erste Unterricht. Ein junges Weib sitzt,die Beine zur Seite legend,neben ihrem Buben am Boden. Sie umschlingt mit dem rechten Arm zartlich die Schulter des Kleinen und blickt in das Buch, das er,der auf einem Felsblock Platz genommen hat,auf seinem SchoB liegen hat. Bronze.H.36 cm. Griner Marmorsockel. Bez.:H.Darsow.
+
+## DE LA VALLIERE, PARIS.
+
+- Madchens ab, dessen Haar ein zierlich durchbrochenes Haubchen bedeckt.
+- Karraramarmor, leicht getont. H. 50 cm;B. 45 cm. Bez.:de la Valliere.
+
+## JEAN ALEXANDRE J0SEPH FALGUIERE, PARIS, 18311900.
+
+277. Die Tanzerin (Cleo de Merode).Das nackte junge Weib beginnt, das linke Bein leicht beugend und den Oberkorper nach links neigend, zu tanzen. Der linke Arm ist, die Tanzrichtung an-
+2. deutend, gebogen. Auf dem Handgelenk der Rechten ruht der Blick. Karraramarmor. H.164 cm. Auf rotem Marmorsockel. Bez.:A. Falguiere.
+
+## OTTO GLAUFLUGEL,BERLIN,geb.1853.
+
+278. Die Perle des Weines. Ein nacktes junges Madchen, iber dessen FuBen Weinlaub wuchert, betrachtet glicklich lachelnd eine Schale,die es mit der Rechten hoch erhebt. Die erhobene Linke halt eine Weintraube. Am Boden steht ein Krug mit Bacchantinnendekor. Karraramarmor. H. 163 cm. Auf Holzpostament. Bez.:Otto Glaufligel sculpsit.
+## ITALIENISHER MEISTER.
+
+279. Beim Mondschein. Auf niedrigem Marmorsockel in Form einer Ziehharmonika erheben sich die Bisten eines lockigen Madchens, dessen Haar von einem Band in einem aufsteigenden Bischel zusammengefaBt ist,und eines Juinglings mit federgeschmicktem Barett. Beide singen.Hinter ihren Kopfen zieht sich die Mondsichel hin.
+
+Karraramarmor.H.42 cm. Auf griinem Marmorsockel.
+
+## PROFESS0R RUD0LF MAIS0N,BERLIN,1854-1904.
+
+- 280.Der Augur. Ein arglistig lachelnder Greis mit kahlem Schadel schreitet mit einem gefuillten Weinkrug, den er mit der Linken an die Brust preBt,und einer Ente, die er in der herabhangenden
+
+Karraramarmor, farbig getont. H.76 cm. Bez.:R.Maison.
+
+## RUGA,MAILAND.
+
+281. Biste zweier sich kissender Kinder. Ein Hirtenknabe halt ein kleines Italienermadchen fest umschlungen und kiBt die leicht Abwehrende auf die Wange.
+2. Karraramarmor. H.53 cm. Bez.:Ruga,Mailand.
+
+## GEMALDE.
+
+## ALEXANDER SALZMANN, MUNCHEN.
+
+282. Dame im Park. Auf einer Steinbank im herbstlichen Park sitzt eine Dame in gelbrot gestreiftem Reifrock; den Oberkorper bedeckt ein zarter Spitzenschleier. Die auf die Bristung gelegte Linke halt eine gelbe Rose. Auf dem roten FuBpolster liegt ein Zwerghund. Aquarell auf weiBem Papier. H.41 cm,B. 31 cm.Schwarzer Rahmen. Bez.:A. S.
+
+## JULIUS SCHEUERER.
+
+283. Geflugel am Bach.Pfauen,Truthahn,Hihner,ein Silberfasan und drei Tauben sind vor einem
+2. Zaun nahe am Bach versammelt.Im Hintergrunde ein Bauernhaus.
+
+Olgemalde auf Holz. H. 14 cm,B. 38 cm. Schwarzer Rahmen. Bez.:Jul. Scheuerer.
+
+284. Apportierender Hund am Waldesrande auf einer blihenden Wiese,ein Rebhuhn im Maule tragend. Nicht weit von ihm springt ein Hase davon.
+
+Olgemalde auf Holz. H. 16 cm, B.20 cm. Goldrahmen. Bez.:Jul. Scheuerer.
+
+285. Fasanen.Am Kornfeld vorbei stolziert ein Fasan,wahrend die Henne im Schutze der Graser ihre
+2. Kichlein hitet;ein zweiter tritt aus dem Korn hervor.
+3. Olgemalde auf Holz. H.7,5 cm,B. 11 cm. Schwarzer Rahmen. Bez.: Jul. Scheuerer.
+286. Verbellter Hirsch.In einer Lichtung im Hochwald,am FuBe einer Tanne,liegt ein verendeter Zehnender,wahrend ein Hund laut bellend neben ihm steht. Am nachtlichen Himmel bricht
+5. durch zerrissenes Gewolk der Mond. Olgemalde auf Holz. H.40 cm,B.30 cm. Goldrahmen. Bez.: Jul. Scheuerer.
+6. Rechten tragt, firbaB.
+## CARL COVEN SCHIRMER, BERLIN, geb.1852.
+
+287. Felsschlucht. Zwischen zwei ragenden Felswanden flieBt in der Tiefe ein Wasser, auf dem Teichrosen blihen. Hinter einem Block steht ein nacktes junges Madchen daran, mit einem Stecken im Wasser spielend.
+
+Olgemalde auf Leinwand. H. 140 cm,B.56 cm. Goldrahmen. Bez.:C. C. Schirmer,1887.
+
+## O.SCHIRNAY.
+
+288. Stilleben. Auf einem Tisch mit orientalischer Decke, auf den von oben ein bunter Vorhang herabfallt, steht ein Weinkihler mit einer Sektflasche, davor ein Glas. Rechts liegt auf einem weiben Tuch ein Hummer, links liegen Frichte auf einem Teller.
+
+Olgemalde auf Leinwand. H. 60 cm, B.72 cm.Goldrahmen. Bez.:O. Schirnay,1909.
+
+## MATHIASSCHMID.
+
+289. Allegorie. Weibliche Gestalt in einfacher Volkstracht,auf einsamer Bergeshohe. Sie schwingt in
+2. der Rechten das Tiroler Banner, die Linke sitzt sie auf das osterreichische Wappen,das mit einem Alpenblumenkranz geschmickt ist. Im Hintergrunde die schneebedeckten Firnen der Tiroler Alpen.
+
+Gouachegemalde auf Papier. H.26 cm,B. 16 cm.Dunkler Rahmen. Bez.: Mathias Schmid.
+
+## JOSEF SCHOYERER,MUNCHEN,geb.1844.
+
+290. Abend im Dachauer Moos nach Sonnenuntergang. Bruchlandschaft mit Baumgruppe im Vordergrunde. Im Wasser spiegeln sich die hellen Abendwolken.
+
+Olgemalde auf Holz. H.18 cm, B. 25 cm. Schwarzer Rahmen. Bez.: J. Schoyerer.
+
+291. Gebirgslandschaft am Schleierfall bei Gastein. Der Blick fallt zwischen einem machtigen Felsabhang, von dem Wasser schaumend herabstirzt und einer tannenbewachsenen Halde auf die Gipfel der Berge. In der Talmulde bahnt sich das Wasser seinen Weg durch Geroll hindurch. Auf dem Pfade schreiten Paare dem Hintergrunde zu.
+
+Olgemalde auf Holz. H.19 cm, B.41,5 cm. Schwarzer Rahmen. Bez.: J. Schoyerer,Munchen.
+
+## PROFESS0R JULIUS SCHRADER,BERLIN,1815-1900.
+
+292. Bildnis eines Musikers. Der schwarzlockige Herr mit ausrasiertem Gesicht sitzt in schwarzem Gehrock am Spinett. Die Rechte ruht auf den Tasten,die Linke auf den Noten. Das Gesicht ist dem
+2. Beschauer zugekehrt.
+
+Olgemalde auf Leinwand.H. 90 cm, B.68,5 cm. Schwarzer Rahmen. Bez.:Prof. Julius Schrader.
+
+## ALOIS SCHRAM, WIEN.
+
+293. Frauenkopf. Das von blendendem Gelock umrahmte frische Gesicht ist von einem weiBen Schleier
+2. umrahmt,dessen Enden iber den gelben Mantel herabfallen.
+
+Olgemalde auf Pappe. H. 32 cm, B. 18,5 cm. Griner Rahmen. Bez.: Al. Schram.
+
+## AD0LF SCHREYER,CR0NBERG,1828-1899.
+
+294. Arabischer Reiter. Mit aufgestitztem Gewehr blickt der stolz auf seinem Fuchs sitzende Wistensohn in die Ferne.Gewolbter Himmel.
+
+Olgemalde auf Holz.H.28 cm, B. 19,5 cm. Goldrahmen. Bez.: Ad. Schreyer.
+
+## BERNHARD SCHROTER.
+
+295. Higellandschaft. Uber Tannenwipfel hinweg fallt der Blick auf den von dunklem Laubwald bedeckten Higel, auf dem sich zwei Halden ausbreiten.Am Horizont steigen Abendwolken am klarblauen Himmel auf.
+
+Olgemalde auf Leinwand. H.95 cm,B. 122 cm. Goldrahmen. Bez.:Bernhard Schroter.
+
+Abb.Tafel 4.
+## PROFESSOR WERNER SCHUCH,BERLIN,geb.1843.
+
+296. Spazierritt. Uber den Feldweg kommt ein von zwei Damen besetzter zweispanniger Wagen, den ein Reiter begleitet. Ein zweiter zigelt weiter zurick sein Pferd.Im Hintergrunde links eine
+2. Baumgruppe, rechts Gestrauch, aus dem das Dach eines Bauernhauses aufragt. Olgemalde auf Leinwand. H. 60 cm, B.130 cm. Goldrahmen. Bez.:W. Schuch.
+
+## P.SCHULTZE-NAUMBURG.
+
+297. Madchen mit Tauben. In einem gepflasterten Raum, durch dessen offene Tir man auf einen begrinten Hugelabhang blickt, steht ein barfibiges junges Madchen,mit den sie umflatternden Tauben spielend.
+
+Olgemalde auf Leinwand. H. 87 cm, B.59 cm. Goldrahmen. Bez.:P. Schultze-Naumburg, 95.
+
+298. Madchen am Brunnen. Am Brunnentrog, in den das Quellwasser vom Felsen herablauft, steht
+2. ein barfiBiges Madchen mit blondem Lockenkopf. Gegenstiick zu vorigem; ebenso.
+
+## A.SCHULZE.
+
+299. FluBlandschaft. Uber den FluB, auf dessen beiden Ufern sich dichter Laubwald ausbreitet, schwingt sich in machtigem Bogen eine Steinbricke. Uber sie hinweg erblickt man im Hintergrunde ein SchloB. Vorn sind zwei Magde mit dem Vieh in das seichte Wasser gestiegen. Olgemalde auf Leinwand. H.75 cm, B. 101 cm. Goldrahmen. Bez.:A. Schulze, 1875.
+
+## CARL SCHUSTER,FREIBURG i.B.,geb.1854.
+
+300. Hauser am Bach. Alte Fachwerkhauser schlieBen einen kleinen mit Steinplatten belegten Platz
+2. ein,iber den,unter den Hausern durchgefuihrt, das Wasser eines Baches flieBt. Olgemalde auf Leinwand. H.40 cm,B. 31 cm. Schwarzer Rahmen. Bez.: C. Schuster, 1906.
+
+## PROFESSOR OTTO SEITZ,MUNCHEN, geb.1846.
+
+301. Der letzte Heller. Am Schenktisch sitzt,nach links gewandt, der Dorflump. Er halt die Pfeife in der Linken und schaut pfiffig lachelnd nach vorn. Neben dem Krug auf dem Tisch liegt ein
+2. Geldstick.
+3. Federzeichnung. H.18 cm, B.13,5 cm. Schwarzer Rahmen. Bez.: Otto Seitz, 1898. Mit eigen-
+
+handiger Widmung.
+
+302. Phantasie aus dem Totentanz. Der Tod thront, in einen faltigen Mantel gehilt, auf einer Wolke und betrachtet die Erdkugel, die er zwischen beiden Handen hochhalt. Sense und Lorbeerkranz
+2. liegen neben ihm. Die Sonne versinkt strahlend.
+3. Bleistiftzeichnung in Passepartout. H. 17 cm,B. 12 cm.Schwarzer Rahmen. Bez.:1898.
+
+Otto Seitz.
+
+303. Der Dorflump. Der Stromer sitzt,nach rechts gewandt, am Tisch. Er halt die Tonpfeife in der Rechten und schaut pfiffig lachelnd nach vorn. Originalradierung. H.22,5 cm,B.15,5 cm. Brauner Rahmen. Bez.:Otto Seitz,1896.Mit eigenhandiger Widmung. Vergl. Nr.301.
+304. Ave Caesar! Morituri te salutant. Der Tod, in einen schwarzen Mantel gehuillt, und die Kaiserkrone auf dem Haupte,schreitet mit befehlender Gebarde auf einer mit Totenkopfen bedeckten Ebene daher. Hinter seinem Haupte breiten sich die Sonnenstrahlen am sonst finsteren Himmel aus. Originallithographie. H. 16 cm, B.24 cm. Schwarzer Rahmen. Bez.:O. S.
+
+## PROFESSOR CARL FRITJOF SMITH,WEIMAR,geb.1859.
+
+305. An der Alster.Von der baumbestandenen Allee des Vordergrundes fihrt eine grasbewachsene Boschung hinab zum FluB, auf dem ein Segelboot schaukelt. Im Grau der Ferne tauchen finf
+2. Kirchtirme auf.
+
+Olgemalde auf Leinwand. H. 35,5 cm, B.40 cm. Schwarzer Rahmen.
+306. Auf dem Boulevard. Der Blick fallt auf einen freien Platz, der von zahlreichen Wagen belebt ist.
+
+Olgemalde auf Leinwand. H. 33 cm, B.41 cm. Schwarzer Rahmen. Bezeichnet.
+
+- Im Hintergrunde erheben sich machtige Hauserreihen aus dem Grin der sie einsaumenden Baume.
+
+## PROFESSOR HEINRICH SPERLING,BERLIN, geb.1844.
+
+307. Manne und Minne. Ein roter und ein schwarzer Dachshund warten zusammengekoppelt auf dem Wege auf ihren Herrn. Manne sitzt und schaut neugierig um sich, Minne lauscht stehend.
+2. Olgemalde auf Leinwand. H.44 cm,B.56 cm.Goldrahmen. Bez.:H. Sperling, 1905.
+308. Der Storenfried. Am Hinterteil des friedlich im Grase sitzenden Mopses versucht ein Hirschkafer
+4. hochzuklettern.Der Hund wendet argerlich seinen Kopf danach um. Pastellgemalde auf Papier. H.54 cm, B.44 cm.Goldrahmen. Bez.:H. Sperling.
+
+## CARL SPITZWEG,MUNCHEN,1808-1885.
+
+309. Torwachter.Am Portal eines Rathauses sitzt ein Krieger auf der Schwelle, schlafend, die Helle-
+2. barde im Arm haltend. Das Schwert liegt neben ihm. Links naht die ablosende Scharwache. Im Hintergrunde StraBe mit Hausern, die Erker und Turmchen schmicken. Olgemalde auf Leinwand. H.37,5 cm,B.28,5 cm. Goldrahmen. Bez.: Spitzweg.
+310. Ertappt. Ein Jager streift die Flinte unterm Arm, behaglich rauchend durch die Kornfelder. Von einem Baumstamm geschitzt, beobachtet er schmunzelnd ein am Boden eng umschlungen sitzendes Liebespaar.
+
+Olgemalde auf Holz. H. 19 cm, B. 24 cm. Goldrahmen. Bez.: C. S.
+
+311. Alte Kistenstadt. Vom freien Platz am Strand, auf dessen Sand ein Fischerboot gezogen ist, blickt man auf eine belebte StraBe, deren Hauser ein Turm iberragt. Olgemalde auf Holz. H. 26 cm, B. 36 cm. Goldrahmen. Bez.: C. S.
+312. Die heiligen drei Konige.Auf der Hohe des Berges angelangt, erblicken die drei Weisen den Stern Melchior schaut mit ausgebreiteten Armen auf das Zeichen und schreitet den Abhang hinunter. Im Hintergrunde links das Gefolge mit den Kamelen. Bleistiftstudie auf weiBem Papier. H. 21 cm, B.35,5 cm. Bez.: S. mit Raute und Spitzweg.
+
+## AUGUST SPLITGERBER,MUNCHEN, geb.1844.
+
+313. Flachlandschaft. Auf dem an einem Zaun vorbei durch die Wiesen zum nahen Geholz fuihrenden Pfade schreitet eine Bauersfrau an einem Bauer vorbei, der seine Kuh heimtreibt. Abend stimmung.
+
+Olgemalde auf Holz. H. 21 cm, B. 16 cm. Schwarzer Rahmen. Bez.: A. Splitgerber.
+
+## WILHELM SPRENGER, BERLIN,geb.1850.
+
+314. Der Herr Lakai. Auf einem der Wege, die vom im Hintergrunde liegenden SchloB durch die Felder fihren,reitet der Lakai eins der Pferde seines Herrn. Ein Bettler steht ehrfurchtsvoll,aber
+2. leicht lachelnd vor dem Stolzen, der fir den SchloBherrn gehalten zu werden glaubt. Olgemalde auf Leinwand. H. 116 cm, B. 86 cm. Goldrahmen. Bez.:W. Sprenger,1899.
+
+## A.STADEMANN,MUNCHEN,1824-1895.
+
+315. Winterlandschaft. Vor den in der tiefverschneiten Landschaft liegenden Bauernhiausern tummeln
+2. sich Kinder auf dem zugefrorenen Weiher. Zu ihnen eilen weitere aus der vordersten Hitte. Uber dem Wald des Hintergrundes verschwindet die Sonne hinter den rotlichen Wolken. Olgemalde auf Pappe. H. 30 cm, B. 45 cm. Goldrahmen. Bez.: A. Stademann.
+
+## PROFESSOR OTTO STRUTZEL, MUNCHEN,geb.1855.
+
+- 316.Rindergruppe. Studie. Kreidezeichinung auf weiBem Papier. H.15 cm, B. 29 cm. Schwarzer Rahmen. Bez.: Otto Stritzel.
+## KARL STUHLMULLER, MUNCHEN.
+
+317. An der LandstraBe. Vor dem Wirtshaus unterhalt sich die Wirtin mit einem Bauer, der mit seinen Kihen vor ihr steht. An der regenbenetzten StraBe halten zwei Wagen. Olgemalde auf Leinwand. H. 13 cm,B.30 cm. Schwarzer Rahmen. Bez.:K. Stuhlmiller, Minchen.
+
+## J.THOMA.
+
+318. Motiv aus dem wilden Gerlos. Am FuBe ragender Tannen vorbei stirzt ein GieBbach zwischen machtigen Felsblocken dahin. Rechts vor einer Hitte steht ein Paar. Im Hintergrunde die Berge,
+2. dariber dunkles Gewolk. Olgemalde auf Leinwand. H. 80 cm,B. 63 cm.Goldrahmen. Bez.: J. Thoma.
+
+## D.THOMASSIN.
+
+- 319.Waldweg im Winter.Zwischen den entlaubten Birkenstammchen schreiten Jager mit ihren Hunden auf dem tiefverschneiten Wege dem Gebaude im Hintergrunde zu, iber dem der Mond verschleiert scheint.
+- Olgemalde auf Holz. H. 31 cm,B. 23 cm. Schwarzer Rahmen. Bez.:D. Thomassin.
+320. Desgleichen. Gegenstick zu vorigem. Uber den beschneiten Waldweg kommt ein Bauernwagen, in dem ein Paar sitzt,nach vorn; der Hund lauft voran. Rechts zweigt ein Weg ab;an der Ecke
+- steht ein Wegweiser. Ebenso.
+321. Sonnenuntergang im Winter. Am Bach in der Nahe eines Geholzes tragen zwei Frauen Reisig auf einen Schlitten. Bei ihnen steht ein Madchen mit einem Hund. Die Schneelandschaft wird von der Glut der untergehenden Sonne bestrahlt. Olgemalde auf Leinwand. H. 54 cm, B. 44 cm. Schwarzer Rahmen. Bez.: D. Thomassin, 96.
+
+## PROFESS0R FRITZ VON UHDE,MUNCHEN,1848-1911.
+
+322. Studie zur Trommelibung. In einer Reihe nebeneinander stehen acht Soldaten, die vorderen
+2. vier trommelnd,nach links gewandt. Bleistiftstudie auf weiBem Papier. H. 11 cm,B.13,5 cm. Goldrahmen.Bez.:Prof. F.v. Uhde.
+
+## UNBEKANNTER MEISTER.
+
+323. Interieur. In die balkengedeckte Diele eines altdeutschen Hauses tragt ein junges Madchen eine Kredenzplatte mit Weintrauben und einem Pokal. Vor ihr springt ein Hindchen. An der grauen Wand hinter ihr Skulptur, Bischof auf Konsole,und Bild. Fliesenboden. Olgemalde auf Leinwand. H.42 cm,B.32 cm. Goldrahmen.
+
+## UNBEKANNTER MEISTER.
+
+- 324.Abendlandschaft mit Windmihle und Wohnhaus. Im Vordergrunde Teich mit Zaun. Dahinter niedriges Gebisch. Am Himmel weiBliche zerrissene Wolken. Olgemalde auf Holz. H.35,5 cm, B. 26 cm. Goldrahmen.
+
+## UNBEKANNTER MEISTER.
+
+325. Junglingskopf mit lang herabfallendem braunem Haar,in LebensgroBe. In Dreiviertelwendung
+2. nach rechts.
+
+Olstudie auf Leinwand.H.43 cm,B.33 cm.Goldrahmen.
+
+## UNBEKANNTER MEISTER.
+
+326. Rom. Blick iber das Forum nach Sidosten von hochgelegenem Standort aus. Abendstimmung.
+2. Am blauen Himmel rotliche Wolkenstreifen. Olgemalde auf Leinwand. H.59 cm,B.72,5 cm. Goldrahmen.
+## UNBEKANNTER MEISTER.
+
+327. Ruhende weibliche Gestalt in griechischem Gewande. Hinter ihr ein Krug. In der Ferne Gebirge. Sepiazeichnung auf weiBem Papier. H.26 cm,B. 35 cm.Goldrahmen.
+
+## UNBEKANNTER MEISTER.
+
+328. Maria Luise von Tassis. Kopie nach dem Gemalde des Anthonis van Dyck in der Galerie Liechten stein, Wien.
+
+Olgemalde auf Leinwand. H. 120 cm, B. 85 cm. Schwarzer Rahmen.
+
+## UNBEKANNTER MEISTER.
+
+- 329.Madonna della Sedia. Ovale Kopie des Rundbildes Raffaels in der Galleria degli Uffici zu Florenz. Olgemalde auf Leinwand. H.73 cm,B.59 cm.Goldrahmen. Beschadigt.
+
+## UNBEKANNTER MEISTER.
+
+- der Details des Hintergrundes.
+
+Kohlezeichnung auf gelbem Papier. H.265 cm, B.165 cm.
+
+## UNBEKANNTER MEISTER.
+
+331. Hollandische Landschaft. Am Kanal vorbei zieht sich eine DorfstraBe, auf der zwei Frauen sich
+2. mit einem Mann,der zwei Pferde fuihrt,unterhalten.Am anderen Ufer Dorfhauser,groBer Baum und weiter eine Mihle. Ihr Spiegelbild zeigt sich im Wasser. Olgemalde auf Leinwand. H.44 cm,B. 64 cm. Schwarzer Rahmen.
+
+## UNBEKANNTER MEISTER.
+
+332. Flachlandschaft mit See. Im Vordergrunde Baumpflanzungen; darin eine Villa in Ziegelrohbau mit Veranda.Dahinter bewaldeter flacher Higel. Am FuBe desselben Hauser mit Turm und Fabriken.Wiesen und Gebisch erstrecken sich bis zum Horizont.Leicht bewolkter Himmel. Aquarell auf weiBem Papier. H.37 cm, B. 52 cm. Passepartout in schwarzem Rahmen.
+
+## UNBEKANNTER MEISTER.
+
+333. Landschaft. An einer Wiese,auf der Schafe weiden und die ein Bach begrenzt,vorbei, schlangelt sich ein Wegin das Dunkel der Baume. In diesem erscheint eine Bauernhitte.Im Hintergrunde steigt ein Hohenricken an. Auf dem Wege ein wanderndes Paar. Olgemalde auf Leinwand. H.50 cm, B. 68 cm. Goldrahmen.
+
+## VERNE.
+
+334. Hirt und Nymphe. Auf einem Rasenplatz, den das Dunkel des Waldes einhilit,ruht die bekranzte Nymphe vor der Quelle,neben der ein junger Hirt die Flote blast. Olgemalde auf Leinwand. H. 79 cm,B.57,5 cm. Blauer Rahmen.
+
+## W.VIETTE.
+
+335. Pferd auf der Weide. Im Hintergrunde Gebisch. Blauer,unten weib bewolkter Himmel.
+2. Olgemalde auf Leinwand. H. 35 cm, B. 27,5 cm. Goldrahmen. Unten rechts bez.:W. Viette.
+
+## FRANCESCO VINEA,FLORENZ,geb.1846.
+
+336. Liebessehnen. Ein junges Madchen im weiBen Seidenkleid hat dem marmornen Amor im gobelingezierten Saale Blumen gestreut und schaut, die Hande ringend,flehend zu dem Gotte auf,der den Pfeil auf sie gerichtethalt.
+
+Olgemalde auf Leinwand. H. 82 cm. B. 66 cm. Geschnitzter Goldrahmen. Bez.:F. Vinea, Firenze.1893.
+## PROFESS0R ADALBERT WAAGEN,1833-1898.
+
+337. Der Konigssee. Im See spiegeln sich die schroff abfallenden Felshohen. Im Vordergrunde liegen
+2. machtige Steinblocke.
+
+Olgemalde auf Leinwand. H.48 cm, B.63 cm. Goldrahmen. Bez.:A. Waagen, 1887.
+
+## JOHANNES WA GNER.
+
+338. Hafenbild am Bosporus. Fischerbarken fahren an den Hausern der Stadt entlang dem offenen Meere zu. Olgemalde auf Leinwand. H.55 cm, B.68 cm. Goldrahmen. Bez.: Joh. Wagner.
+339. Desgleichen. Gegenstiick zu vorigem.Zahlreiche Fischerbarken lagern vor der Stadt. Im Hinter-
+3. grunde erblickt man die Kuppeln einer Moschee. Ebenso.
+
+## TH. WAGNER.
+
+340. Kihe am FluB. Die mit Baumen besetzte Uferboschung hinab steigen die Kihe zum Wasser. Im Hintergrund Blick iber Wiesen und Felder bis zum nahen Dorf.
+2. Olgemalde auf Leinwand.H. 40 cm, B.32 cm. Goldrahmen. Bez.:Th. Wagner.
+341. Desgleichen. Gegenstick zu vorigem. Ahnlich; umgekehrte Anordnung. Ebenso.
+
+## HANS JOSEPH WEBER, MUNCHEN.
+
+- 342.Burgfeste. Uber eine Wiese,in deren Vordergrunde sich eine einsame Eiche erhebt,falt der Blick auf einen FluBlauf, auf dessen jenseitigem Ufer auf schroff ansteigender Hohe die starken Bauten der Burgfeste,von Gewitterwolken umhullt,erscheinen.
+
+Olgemalde auf Leinwand. H. 92 cm, B. 121 cm. Goldrahmen. Bez.: Hans Jos. Weber.
+
+## THEODOR WEDEPOHL,BERLIN,geb.1863.
+
+343. Dudelsackpfeifer. Vor halbdunklem Hintergrund steht ein graubartiger Italiener mit einem
+2. runden weichen Hut, blauer Jacke iber roter Weste, braunen Hosen und mit umwickelten und umschnirten Unterschenkeln und FuBen, auf dem Dudelsack pfeifend. Olgemalde auf Leinwand. H. 202 cm,B. 98 cm. Schwarzer Rahmen. Bez.: Skizze. Theodor
+
+Wedepohl.Rom.1901.
+
+## PROFESSOR EDUARD WEICHBERGER, WEIMAR,geb.1843.
+
+344. Der letzte Schnee.Wald- und Feldlandschaft im ersten Frihling,in der das frische Griin des Grases eigenartig gegen die letzten Schneespuren absticht. Blauer Himmel. Olgemalde auf Holz. H. 15,5 cm, B. 21 cm. Schwarzer Rahmen. Bez.: E. Weichberger.
+
+## PROFESSOR EMIL RUDOLF WEISS, BERLIN, geb.1875.
+
+345. Blick aus dem Atelier in Baden-Baden. Die Silhouette eines mit grinem Rasen und reichem Baumwuchs geschmickten wohlgepflegten Huigels, in dessen halber Hohe ein Rundtempelchen liegt, hebt sich vom leicht bewolkten Frihlingshimmel ab.
+2. Olgemalde auf Leinwand. H. 82 cm, B. 91 cm. Schwarzer Rahmen. Bez.: E. R. W.1901.
+346. Landschaft bei Bernau. Das Gelande steigt von einem Bauernhofe rechts sanft zu den Bergkuppen des Hintergrundes auf. Grine Wiesen und bunte Acker bedecken es. Im Vordergrunde arbeiten zwei Manner auf ihrem Felde. Olgemalde auf Leinwand. H. 55,5 cm,B.60 cm. Schwarzer Rahmen. Bez.:E. R. WeiB,1904.
+347. Junge Tannen. Auf grinem Rasen erheben sich hinter einer noch im bunten Herbstlaub leuchtenden Buche zwei machtige Tannen. Zwischen diesen und den bunten Zweigen, die von rechts in das Bild hineinragen,hindurch fallt der Blick auf eine Gruppe junger Tannen. Der mit leichten Frihlingswolken belebte tiefblaue Himmel bildet den Hintergrund.
+
+Abb. Tafel 5.
+
+Olgemalde auf Leinwand. H. 80 cm, B. 90 cm. Schwarzer Rahmen. Bez.: E. R. W. 1901.
+348. Blick auf Bernau. In einer sanften Senkung des Hochlandes liegen von grinen Wiesen umgeben drei Bauerngehofte,hinter denen sich dunkler Tannenwald dahinzieht.
+
+Olgemalde auf Leinwand. H.55 cm,B. 60 cm. Schwarzer Rahmen. Bez.: E.R. WeiB.
+
+349. Blihender Kastanienbaum. Im Schatten des Baumes, aus dessen grinem Laub die roten Bliten hervorleuchten,ruht am Boden ein Wanderer. Das Hugelland im Hintergrunde ist mit Feldern bedeckt.Leicht bewolkter Frihlingshimmel. Oigemalde auf Leinwand. H.55 cm,B.60 cm. Schwarzer Rahmen. Bez.:E.R.WeiB.Bernau, 07.
+
+## A.WILDSTOSSER, MUNCHEN.
+
+350. Tiroler Bauer. Brustbild nach Fr. von Defregger. Originalradierung. H. 14 cm, B.12 cm. Dunkler Rahmen. Bleistiftsignaturen beid er Kuinstler.
+
+## ADOLPHE LEON WILLETTE,PARIS,geb.1857.
+
+351. Amor im Frondienst. Vor einem nur dirftig bekleideten jungen Madchen halt Amor die Strick-
+2. wolle, die es zu einem Knauel aufwickelt. Amor blickt,die Beine verkrampfend,verzweifelt in das lachelnde Gesicht der Kleinen. Bleistiftzeichnung auf weiBem Papier in Passepartout. H. 22,5 cm,B. 16 cm. Eichenrahmen. Bez.:A.Willette.
+
+## B.ZICKENDRAHT.
+
+- 352.Weiblicher Akt. Ein nacktes junges Madchen ruht auf einem dunkelroten Diwan. Hinterglasmalerei. H.13,5 cm,B.22,5 cm.Schwarzer Rahmen. Bez.:B.Zickendraht,1894.
+
+## JULIUS ZIELCKE.
+
+353. Blick auf Rom. Durch Saulenarkaden hindurch fallt der Blick auf die grine Ebene, in der zahlreiche Bauten,in der Mitte das Colosseum,verstreut liegen.
+2. Aquarell auf weiBem Papier. H. 54 cm,B. 78 cm. Goldrahmen. Bez.: Julius Zielcke,Rom.
+
+## PROFESS0R ERNST ZIMMERMANN,MUNCHEN,1852-1901.
+
+354. Brustbild eines kahlkopfigen alten Mannes,mit weibem Vollbart und dunklem Rock,nach links gewandt. Die Augen blicken ernst nach rechts. Dunkler Hintergrund.
+2. Olgemalde auf Leinwand. H.26 cm,B.21 cm. Schwarzer Rahmen.
+## BEVORSTEHENDE AUKTIONEN:
+
+## 11.UND 12.FEBRUAR 1913:
+
+Antiquitaten.Mobiliar,Textilien,Fayencen, Porzellane,Miniaturen, Edelmetall, Schmuck, Zinn. 一 Sammlung alter Musikinstrumente. Kollektion exotischer Waffen.
+
+## 18.FEBRUAR 1913:
+
+Alte Meister. Gemalde, Skulpturen und Handzeichnungen aus der Sammlung des Herrn Dr. P. Gerhardt in Hamburg und anderem Privatbesitz.
+
+## 25.FEBRUAR 1913:
+
+Kupferstiche, insbesondere franzosischer und englischer Meister
+
+## 4.MARZ 1913:
+
+Sammlung Dr. Wilhelm Eichenwald-Munzzuschlag. Gemalde alter und neuer Meister.
+
+## IN VORBEREITUNG u.a.:
+
+Ende Marz: Kollektion A. Arens, Antwerpen.
+
+Mitte April: Kinstlerischer Nachlass der Leipziger Illustratoren-
+
+familie Geissler aus dem Besitz von Fraulein Marie Berg-Berlin.
+
+des 18. Jahrhunderts.

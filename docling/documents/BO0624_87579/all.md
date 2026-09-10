@@ -1,0 +1,1800 @@
+<!-- image -->
+
+## Bezeichnet: A. A.
+
+- Landschaft. An hohen Baumgruppen rechts fuhrt ein Weg der Ferne zu,auf welchem eine Bauerin, einen Korb auf dem Kopfe tragend; in der Ferne links vor kleiner Waldung ein
+- Bauernhaus.
+
+Hubsches Salonbildchen.Bezeichnet:A.A. Leinwand. Hohe 37,Breite 31'e Cent.
+
+## Andreas Achenbach, Duisseldorf.
+
+- 2 Romantische Gebirgslandschaft. Gebirgiges, weitausgedehntes Gelande; im Vorgrunde iber gewaltige Felsblocke ein wilder,breiter Wasserfall. Als Staffage bei niedriger Hutte Kind, eine Kuh weidend.
+
+Leinwand. Hohe 33, Breite 431/ Cent.
+
+Gewaltige Composition. Ausgefuihrte Studie. Unten links bezeichnet: A.Achenbach.
+
+- 3 Flusslandschaft. Beiderseits von hohen Bergen eingeschlossener Fluss, an dessen rechtem Ufer ein Schiffsbauwerft.
+
+Genial und fott behandeltes Bild.Bezeichnet:A.A.
+
+Holz.Hohe 281/e,Breite 38 Cent.
+
+- 4 Schiffbruch. Mehrere Personen eilen einem links am Strande
+- Schiffbruch leidenden Schiffe zu Hulfe.
+
+Geistreich behandelte Skizze. Bezeichnet:A.Achenbach.
+
+Leinwand. Hohe 18,Breite 27 Cent.
+
+- Dorfstrasse. Rechts und links von Dorfhutten bestandene
+- Strasse,in welcher eine Bauerin der Ferne zuschreitet.
+
+Genial und meisterhaft entworfene Skizze.Bezeichnet:A. Achenbach. Leinwand auf Holz.Hohe 17,Breite 211e Cent.
+
+## Oswald Achenbach, Dusseldorf.
+
+- Landschafts-Studie. Sumpfgegend mit Zugvogeln.
+
+Flotte Skizze.Bezeichnet:O.Achenbach,Df.87.
+
+Holz.Hohe 13,Breite 191/e Cent.
+
+## H. Angelmann, Karlsruhe.
+
+- 7 Landschaft. Herbststimmung.
+
+Naturwahres, zarttoniges Bild. Bezeichnet.
+
+Holz. Hohe 16,Breite 23 Cent.
+
+- 6
+- Fruhlingsstimmung. 8 Landschaft. Gegenstick zum Vorigen.I Gleiche Ausfihrung. Gleiche Bezeichnung.
+
+Holz. Gleiche Grosse.
+
+## Hermann Bahner, Duisseldorf.
+
+- Rheinische Dorfstrasse im Winter. Beiderseits von niedrigen Hausern besetzt, zieht sich durch den Mittelgrund eine breite, schneebedeckte Dorfstrasse, auf der Ochsenwagen und
+- 9 mehrere Figuren als Staffage. Abendliche Stimmung.
+
+Voll bezeichnet.
+
+Leinwand. Hohe 74,Breite 106 Cent.
+
+- Herbstlandschaft mit Vieh. Auf einem rechts und links von Hecken und entlaubten Baumen eingeschlossenen,breiten Wege treibt ein Hirt seine Schafherde dem Vorgrunde zu; im Hintergrunde Wassermihle und die Hauser eines Dorfes.
+
+Schones Bild von guter Wiedergabe der herbstlichen Stimmung. Bezeichnet: H.Bahner Ddf.
+
+Leinwand.Hohe 67,Breite 58 Cent.
+
+- Hollandisches Dorf an Canal bei Abendstimmung. Hubsches Bildchen.Bezeichnet:H.Bahner 98. Holz. Hohe 1612,Breite 14 Cent.
+- 10
+- 11
+- 12 Dorfstrasse mit Schafherde. Gegenstick zum Vorigen.Gleiche Ausfihrung. Bezeichnet.
+
+Holz.Gleiche Grosse.
+
+## Fritz Beinke, Dusseldorf.
+
+- 13/14 Jugendstreiche. Zwei Knaben, aus der Schule ausreissend und neugierig vor dem Zelte eines Kolner Hanneschens stehend.
+
+Bezeichnet. Gegenstuicke. Leinwand. Hohe 85,Breite 27 Cent. 2 Stick.
+
+- 15/16 Thiersticke. Alter Schafer,mit seiner Herde aus dem
+- Stalle tretend.  Gansemadchen, vor Schafstall sitzend.
+
+Hubsche Bilder.
+
+Bezeichnet. Gegensticke. Leinwand. Hohe 35, Breite 27 Cent. 2 Stick.
+
+- ,Der Lumpenmann.Vor einem Dorfhause, durch dessen Thorbogen man ins Freie blickt, steht der alte Hausirer, Kindern Spielzeug eintauschend.
+
+Sehr hibsches Bild.Voll bezeichnet.
+
+Holz. Hohe 35,Breite 26 Cent.
+
+- 18 ,Kinder-Maifest". Gegenstuick. Eine dichtgedrangte Schaar von Knaben und Madchen, theils mit Blumen geschmickt, singend und scherzend auf breitem Wege dahinziehend.
+
+Gleiche Ausfihrung.Bezeichnet.
+
+Holz.Gleiche Grosse.
+
+- 17
+## C. Bewer, Duisseldorf.
+
+Leinwand. Hohe 44, Breite 36 Cent.
+
+- 19 Mannlicher Studienkopf. Brustbild eines jungeren Mannes mit rothem Halstuch und hohem schwarzem Hute. Sehr gute, flotte Studie.
+
+## M. O. Beyer, Dusseldorf.
+
+- Koppel von Feldhuhnern und Schnepfen.
+- 20 Todtes Gefliigel. An weissgetunchter Wand hangt eine
+
+Naturwahres sehr fein ausgefihrtes Bild. Bezeichnet und datirt 97. Leinwand. Hohe 69,Breite 46 Cent.
+
+- 21 Todtes Gefligel.
+
+Gegenstick. Aehnliche Composition in gleicher Ausfihrung. Bezeichnet. Leinwand. Gleiche Grosse.
+
+## F. Bienbar.
+
+- Herbstmorgen. Auf einem Felsvorsprunge ein brunstender
+
+Gutes Bildchen. Bezeichnet und datirt 1889.
+
+- 22 Hirsch; unterhalb zwei Hirschkuhe.
+
+Holz. Hohe 281/2,Breite 22 Cent.
+
+- Herbstabend. Am Ausgange eines Waldes ein in die Ferne
+
+Gegenstick zum Vorigen. Ebenso.
+
+- 23 spahender Hirsch mit zwei Hirschkuhen.
+
+Holz. Gleiche Grosse.
+
+## Leon Biet, Paris.
+
+Feintoniges Bild von grosser Naturwahrheit. Bezeichnet: Leon Biet Paris. Holz. Hohe 5o,Breite 66 Cent.
+
+- 24 Landschaft. Bauerliche,von Baumen umgebene Architektur. Als Staffage im Vorgrunde eine Bauernfrau.
+
+## Henri Bimas, Paris.
+
+Bezeichnet:Henri Bimas Paris.
+
+- 25 Herbstlandschaft. Waldweg,von zwei Figuren belebt. Stimmungsvolles, durch herrliche Tonung besonders ausgezeichnetes Bild.
+
+Holz. Hohe 51, Breite 69 Cent.
+
+## A. de Bylandt, Haag.
+
+Feintoniges schones Bild. Bezeichnet: A. de Bylamdt.
+
+- 26 Parthie am Gardasee.Rechts im Mittelgrunde eine Ortschaft zwischen hohen Baumen und Gebisch versteckt liegend; am Ufer landen zahlreiche Segelboote und Fischerbarken, wahrend andere das  die linke Seite und den Vorgrund einnehmende Wasser beleben.
+
+Holz. Hohe 32,Breite 5o Cent.
+## C. Colsoulle.
+
+- 27 Pferdestiick. Brauner und Schimmel im Stalle an der Krippe; in ihrer Gesellschaft Hahn und Huhn.
+
+Meisterhaft ausgefihrtes Bild von grosser Naturlichkeit. Voll bezeichnet.
+
+Holz.Hohe 26,Breite 38 Cent.
+
+## Bezeichnet: Corot.
+
+- Links 28 Italienische Landschaft bei Abendstimmung. eine Ortschaft mit dichtgedrangten Hausern, an leichtem Hugel ansteigend; rechts sitzt an einer Gruppe hoher Baume ein Ziegenhirt, die Flote blasend; abseits bei Gebusch mehrere Ziegen.
+
+Leinwand.Hohe 5o,Breite 65 Cent.
+
+Schone Composition, in wuchtiger Behandlung ungemein wirkungsvoll ausgefuhrt.
+
+## L. Crozio.
+
+- 29 Pompejanische Scene. In einer Nische mit reicher Architektur eine junge Mutter mit ihrem Knaben auf einer Lagerstatte; vor ihr ein junges Madchen mit Facher.
+
+Feines vorzigliches Werk. Bezeichnet. Leinwand. Hohe 77,Breite 55 Cent.
+
+- 30 Orientalische Scene. In dem eleganten Interieur eines kaiserlichen Palastes die auf einem Divan ruhende und von ihren Dienerinnen umgebene reichgekleidete Sultanin, in Erwartung eines Besuches.
+
+Feines Genrebild von vorziglicher Qualitat. Bezeichnet. Leinwand. Hohe 53,Breite 77 Cent.
+
+- 31 Maurische Scene. In einem maurischen Hofe mit reicher Architektur ein Grande zu Pferde, eine Sclavin raubend, von
+- seinen Dienern gefolgt.
+
+Schone, farbenprachtige Composition. Bezeichnet. Leinwand, Hohe 53, Breite 77 Cent.
+
+## L. Dijon, Paris.
+
+- 32 Landschaft mit Vieh. Weitausgedehnter,von hohen machtigen Baumen bestandener Wiesenplan,auf welchem mehrere weidende Kuhe; unter einem Baume rechts eine Magd beim Kuhmelken.
+
+Vortrefflich ausgefihrtes, wirkungsvolles Bild. Bezeichnet: L.Dijon Paris.
+
+Leinwand.Hohe 98.Breite 87 Cent.
+
+## M.Dohmen.
+
+- 33 Parthie bei Sigmundskron unweit Meran. Portraitlandschaft. Auf dem breiten Wege des Vorgrundes drei Figuren als Staffage.
+
+Gut ausgefihrtes Bild. Bezeichnet.
+
+Leinwand. Hohe 78,Breite 63 Cent.
+
+3
+
+4
+S
+
+n
+
+e
+
+e
+
+S- i-
+
+r- es
+
+on
+
+Cr- ler
+
+on ch-
+
+ere eim
+
+aris.
+
+nd- ren
+
+- 35
+- Parthie bei Mariastein im Innthal. Gegenstuick zum Vorigen. Portraitlandschaft. Als Staffage Angler, in einem
+- 34 Kahne sitzend.
+
+Gleiche Ausfuhrung. Bezeichnet.
+
+Leinwand. Gleiche Grosse.
+
+- Motiv vom Berge Issel in Tirol. Gegenstuick. Portraitlandschaft; als Staffage Bauerin mit Kind, auf ihr Haus zuschreitend.
+
+Gleiche Ausfuihrung.
+
+Leinwand. Gleiche Grosse.
+
+- Schloss Rothelstein bei Ademond in Tirol. Portraitlandschaft; rechts im Vorgrunde das grosse Schloss,auf das ein Knappe zuschreitet. Im Hintergrunde die hohen Berge.
+
+Leinwand.Hohe 8o,Breite 62 Cent.
+
+- 36 Ebenso.
+- 37 Der Konigssee. Der von Bergen umschlossene See, von Zwei Kahnen belebt, mit Blick auf St. Bartholoma im Hinter-
+- grunde.
+
+Bezeichnet, aber angeblich gemalt von J. Kruchem.
+
+Leinwand. Hohe 55,Breite 81 Cent.
+
+- 38 Schloss Veldes in Karnthen. Gegenstick. Portraitlandschaft;im Hintergrunde die hohen,theils schneebedeckten
+
+Gleiche Ausfuihrung.
+
+Leinwand. Gleiche Grosse.
+
+## Prof. E. Ducker (angebl.).
+
+- 39 Vieh auf der Weide.Vom mittleren Vorgrunde fuhrt ein breiter. ausgefahrener Weg durch odes Flachland, in welchem links ein Hirt mit seiner Schafherde.
+
+Skizzenhaft behandeltes, flott entworfenes Bild.
+
+Holz. Hohe 39, Breite 54 Cent.
+
+## J.Du Mont, Brissel.
+
+- 40 Spanischer Officier. Brustbild, im Costume des XVIl. Jahrh., nach links,den Kopf mit t grossem Federhute en face, in braunem Koller mit breitem Kragen; die Rechte umfasst den Degengriff.
+
+bezeichnet.
+
+Breit in der Manier des Frans Hals vortrefflich ausgefihrtes Bild. Voll
+
+Holz.Hohe 24,Breite 19 Cent.
+
+## Louis Dunocq, Paris.
+
+Bezeichnet:Louis Dumocq.98.
+
+- 41 Stimmungslandschaft. Interessante Kreidezeichnung.
+
+Hohe 15, Breite 58 Cent.
+
+- Berge.
+- alte Bauernfrau.
+
+## F. Ebel.
+
+- 42 Harzlandschaft. Waldreiches,leicht hugeliges Gelande,in welchem an dem links ansteigenden Wege ein Bauernhaus.
+- Figurenstaffage.
+
+Vorzigliches Bild von schoner Composition und wohlthuender, naturwahrer Farbung. Bezeichnet:F. Ebel 1892.
+
+Leinwand.Hohe 67,Breite 1oo Cent.
+
+## M. Egner, Duisseldorf.
+
+- 43 Am Vierwaldstatter-See". Links mehrere Hauser zwischen Buschwerk versteckt liegend; rechts Blick iber den See mit
+- dem Rigi. Abendliche Stimmung.
+
+Reizendes Bildchen von poetischer Auffassung. Rechts bezeichnet: M.Egner Ddf.
+
+Leinwand. Hohe 26,Breite 381/e Cent.
+
+## Wiggo Fauerhold.
+
+- 44 Marine. Links die ruhige, von einzelnen Segelbooten belebte See, in welcher im Vorgrunde ein bemannter Nachen den Hintergrunde auf den grinen Gefilden des Ufers eine Windmuhle.
+
+Wirkungsvolles Bild von breiter genialer Pinselfuhrung. Bezeichnet: Wiggo Fauerhold.1881. Ddf.
+
+Leinwand. Hohe 56,Breite 1o1 Cent.
+
+## L. Ferstel.
+
+- Fischermadchen. Idealisirte Frauengestalt in hubschem
+- 45 Costum, sich auf ihr Ruder stitzend.
+
+Hubsches Bildchen.Bezeichnet.
+
+Holz. Hohe 31,Breite 12 Cent.
+
+- 46 Blumenmadchen. Gegenstick. Hubsche Frauengestalt, einen mit Blumen gefuillten Korb auf der Schulter tragend.
+- Gleiche Ausfuhrung.
+
+Holz. Gleiche Grosse.
+
+## A. Fink, Munchen.
+
+- 47 Die Via Mala. Als Staffage Planwagen.
+
+Ausgefihrte Studie.Bezeichnet.
+
+Carton. Hohe 26,Breite 36 Cent.
+
+## C. Flad.
+
+- 48 Waldlandschaft.Hohe Baume und Gestrupp begrenzen einen breiten, mit Felsblocken umfassten Weg, auf dem eine
+
+Sehr schones Bild in gelungener herbstlicher Stimmung. Bezeichnet. Leinwand. Hohe 62,Breite 92 Cent.
+in
+
+S.
+
+r- en
+
+lit et:
+
+te en
+
+m
+
+d- et:
+
+em en
+
+zen ine
+
+- 54
+
+## A.Flamm,Dusseldorf.
+
+Hervorragendes Bild von angenehmem, vornehmem Farbentone. Bezeichnet:A.Flamm.
+
+- 49 Cap Miseno. Links weiter Fernblick iber das Meer mit den in ihm liegenden und ihn begrenzenden Felsparthieen. Rechts ein mit Gestripp,Blumen und Blattpfanzen bewachsener von Mauer umzogener Gartenplatz einer Fischerhitte,auf dem eine Fischerfamilie von funf Figuren bei verschiedener Beschaftigung: Netze fickend,haspelnd etc.
+
+Leinwand. Hohe 1oo,Breite 153 Cent.
+
+## H. Flockenhaus, Duisseldorf.
+
+- 50 Winterlandschaft bei untergehender Sonne. Flachlandschaft,in deren Mittelgrund,zerstreut, Hauser liegen; auf dem breiten, nach dem Vorgrunde zufuhrenden Wege Holzsammlerin. Die Vorderparthie der Composition liegt bereits in volligem Abenddunkel, wahrend der Hintergrund sich heller abhebt in malerischer Beleuchtung durch die letzten Strahlen der Sonne, welche die Wolkenglut roth farben.
+
+Ganz vortreffliches Werk in prachtvoller Stimmung. Bezeichnet: H. Flockenhanus Ddorf.
+
+Leinwand. Hohe 40,Breite 721 Cent.
+
+- 51 Frihlingslandschaft, Im Mittelgrund Bach, uber den ein Holzsteg fuhrt, auf welchem eine Frau. Im Hintergrunde Bergabhang mit Schloss. Bezeichnet. Holz. Hohe 251/,Breite 27 Cent.
+- 52 Winterlandschaft bei untergehender Sonne.Im Vordergrunde zugefrorener Wassertumpel, auf dem zwei Knaben. Zwischen hohen Baumen durch Blick iber beschneite Fluren auf eine Ortschaft.
+
+Gegenstick zum Vorigen in gleicher Ausfuihrung.
+
+Holz. Gleiche Grosse.
+
+- Motiv vom Niederrhein. Die Hauser eines Dorfes zwischen Baumen und Gebisch an einem Bache, iber den ein Holz-
+- 53 steg fuihrt.
+
+Hubsche Composition. Voll bezeichnet. Holz. Hohe 261/e,Breite 171/ Cent.
+
+## A.Forstmann,Dusseldorf.
+
+- Rheinlandschaft mit Blick auf das Siebengebirge. Links Rolandseck mit dem Rodderberg; im Mittelgrunde Nonnenwerth. Leinwand. Hohe 38, Breite 68 Cent.
+
+## E.Frank-Colon, Disseldorf.
+
+- Fasan etc. in reichen Landschaftsdarstellungen.
+- 55 Zwei Gefligelsticke. Grosse Huhnerfamilie und Enten mit
+
+Gegensticke. Hubsche, gut ausgefuhrte Bilder. Holz. Hohe je 16, Breite 21 Cent.
+- 56 Gefligelstick. Buntgefiederter Hahn mit zwei Huhnern und Fasan vor landschaftlichem Hintergrunde.
+
+Reizendes Bildchen.
+
+Holz.Hohe 71/2,Breite 101/2 Gent.
+
+## Therese Fuchs.
+
+- Norwegischer Fjord. Von den schneebedeckten Gebirgsriesen umrahmt, erstreckt sich derselbe,von Booten belebt, zum fernsten Hintergrunde, in dem ein Dampfer.eben erkennbar ist. Im Vorgrunde rechts Fischerdorf, sich magisch im Wasser wiederspiegelnd.
+
+Vortreffliches Bild.Bezeichnet und datirt 1896.
+
+Leinwand. Hohe 64,Breite 86 Cent.
+
+- 58 Norwegischer Fjord. Derselbe zieht sich, von schroffen Felsgebilden begrenzt, langgestreckt zu einem weiten Hintergrunde hin,in dem,eben erkenntlich,ein Dampfer. Auf den beiderseitigen Ufern einzelne Hauser.
+
+Sehr schones Bild von ganz vorziglicher Ausfuihrung. Bezeichnet.
+
+Leinwand. Hohe 55, Breite S9 Cent.
+
+## G. Calli, Florenz.
+
+- 59 Der Klosterbruder. Kniefigur eines wohlbeleibten alteren Klosterbruders in brauner Kutte, en face, mit ergrautem Haar, sich vor Lachen schuttelnd uiber eine in der Linken gehaltene Carricatur.
+
+Leinwand. Hohe 39, Breite 3o Cm.
+
+Vollendet durchgefihrtes kostliches Bild. Bezeichnet: Galli Firenze.
+
+## Rob.Ceorgius.
+
+Sehr gutes Bild mit treff licher Wiedergabe der Thier-Charaktere. Bezeichnet. Leinwand. Hohe 5o, Breite 65 Cent.
+
+- Spielende Fuchse. In einer Hohle liegt die Fuchsmutter, von ihren drei spielenden Jungen umgeben.
+
+## J. Cluckert.
+
+- Trechtlinghausen bei Bingen. Portraitlandschaft mit reicher
+- 61 Staffage.
+
+Gutes Bild.Voll bezeichnet.
+
+Leinwand. Hohe 32, Breite 46 Cent.
+
+- Dorf im Taunus. Gegenstick. Grosses Dorf in einem Thalkessel; als Staffage mehrere Kinder etc.
+
+Leinwand. Gleiche Grosse.
+
+Gleiche Ausfihrung. Voll bezeichnet.
+
+## A. Cuillemin.
+
+- Interieur. Junger Bretagner am offenen Kaminfeuer beim Mittagbrod.
+
+Holz. Hohe 301/2,Breite 23 Cent.
+
+- 57
+- 60
+- 62
+- 63
+
+Trefflich ausgefihrtes Bildchen von hubschem, freundlichem Colorit. Bezeichnet:A.Guillemin 55.
+- 66
+- 69
+- 71
+
+## Ernst Hardt, Dusseldorf.
+
+- 64 "Unter Pinien und Cypressen".Den ganzen Vorgrund nimmt ein links von hohen Baumen und Strauchwerk bestandenes,felsiges Ufer ein,welches von der ruhigen,im Hintergrunde von dunklen Wolkenparthieen abgeschlossenen See bespilt wird.
+
+Meisterhaft ausgefuhrtes grosses Bild, von vorziglichster Stimmung. Bezeichnet:Ernst Hardt Df. 96.
+
+Leinwand. Hohe 15o,Breite 21o Cent.
+
+- Mondschein im Parke der Villa D'Este. Den Mittelgrund nimmt der Weiher mit der grossen Fontaine ein; auf der
+- 65 Steinbank links Dame in antikem Costime.
+
+Gleich meisterhaftes Bild. Vollbezeichnet und datirt 96.
+
+Leinwand. Hohe 94,Breite 126 Cent.
+
+Ueber die beiden vorstehenden Bilder schreibt das ,Deutsche Kinstlerin seinen durch Radirung vervielfaltigten Gemalden: Verganglichkeit,
+
+Traumerei und Reminiscenzen, sowie auch in den neueren grossen Werken: ,Unter Pinien und Cypressenund ，,Mondschein in der Villa D'Este"
+
+## A. Heffmeier.
+
+Zarttoniges, stimmungsvolles Bild. Voll bezeichnet.
+
+- Flusslandschaft bei Mondscheinbeleuchtung.
+
+Holz. Hohe 4o, Breite 59 Cent.
+
+## F. Herchenroder.
+
+- 67/68 ,Wer den Schaden hat, braucht fir den Spott nicht zu sorgen" und ,Wer zuletzt lacht, lacht am besten". Gegenstuicke.
+
+Leinwand. Hohe 72,Breite 53 Cent. 2 Stick.
+
+Humoristische Compositionen mit zwei Lehrjungen mit ihrem Mittagbrode.Bezeichnet.
+
+- Motiv an der belgischen Kiste bei Nacht.
+
+Ausgefihrte Studie.Bezeichnet.
+
+Leinwand. Hohe 27,Breite 38 Cent.
+
+- 70 Marine bei Vollmond. Gegenstick.
+
+Gleiche Ausfuhrung. Bezeichnet.
+
+Leinwand. Gleiche Grosse.
+
+## Ed. Hering.
+
+- Parthie am Chiemsee. Der im Hintergrunde von hohen Bergen begrenzte See wird von Kahnen und kleineren Segelbooten belebt; vom Vorgrunde fuihrt ein breiter Weg nach links einer Waldung zu, hinter welcher ein Gebaude mit hohem Thurme zum Vorschein kommt.
+
+Vortreffliches, stimmungsvolles Bild von schoner, klarer Farbung. Bezeichnet:Ed.Hering.
+
+Leinwand. Hohe 391/e,Breite 6o Cent.
+- 72
+
+## F. Hesse.
+
+- Der Etstallgletscher. Portraitlandschaft.
+
+Flotte,skizzenhafte Behandlung. Bezeichnet.
+
+Leinwand. Hohe 28, Breite 34 Cent.
+
+## E. Heyn sen., Duisseldorf.
+
+- 73 durch das sich in mehrfachen Wasserfallen ein Gebirgsbach nach dem rechten Vorgrunde zu zieht. Im Mittelgrunde rechts Sennhuitte,auf
+- Schweizerlandschaft. Enges Gebirgsthal, die eine Frau zuschreitet.
+
+Sehr schones Bild mit vortrefflicher Wiedergabe der Natur. Bezeichnet: H.E.Heyn sr.
+
+Leinwand. Hohe 9o,Breite 76 Cent.
+
+## Eduard Heyn jun.
+
+- 74 dem Berner Oberland. fall bildende schwarze Lutschine.
+- Parthie aus Im Hintergrunde Jungfrau, Monch und Eiger, im Vorgrunde die einen Wasser-
+
+Gut ausgefihrtes Bild. Bezeichnet.
+
+Leinwand. Hohe 46,Breite 71 Cent.
+
+## Carl Hilgers.
+
+Hubsches Bildchen in schonem Tone und von angenehmem Colorit. Holz. Hohe 21,Breite 25 Cent.
+
+- 75 Winterlandschaft. Um das sich im Mittelgrunde erhebende schlossartige Gebaude zieht sich ein zugefrorenes Wasser, welches im Hintergrunde von Hohenzug und kleiner Waldung begrenzt wird. Als Staffage Frau mit Schlitten.
+
+## Bernh. Hoppe, Haag.
+
+Schones, etwas breit behandeltes Bild. Bezeichnet: Bernh.Hoppe 1877.
+
+- 76 Hollandische Landschaft. Weit ausgedehntes,im Hintergrunde von einer kleinen Waldung abgeschlossenes Flachland, in welchem mehrere Personen bei der Feldarbeit,im Vorgrunde zwei Bauerinnen mit Kuhmelken beschaftigt; links vor hoher Baumgruppe ein kleines, seichtes Gewasser.
+
+Leinwand. Hohe 56,Breite 87 Cent.
+
+## Ferd. Hoppe, Dusseldorf.
+
+- 77 Ostseestrand. Rechts die von Gebusch besetzten Dunen; auf dem flachen Vorgrunde zahlreiche Fischerfamilien in einzelnen Gruppen; links weiter Blick auf das von Segelbooten belebte Meer.
+
+Vorzigliches,breit behandeltes Bild. Bezeichnet: Ferd.Hoppe Ddf.1882. Leinwand. Hohe 38,Breite 68 Cent.
+
+## Karl Hubner.
+
+- 78 Die Auswanderer. Junges Paar mit Mutter und Kindern verrichten ein inbruinstiges letztes Gebet im Anblick der von
+- 81
+- 84
+
+ihnen verlassenen heimathlichen Gefilde. Rechts eine Gebirgs- parthie mit grosser reich staffirter Stadt.
+
+Vortreflich ausgefuhrtes, stimmungsvolles Bild.Bezeichnet: C.Huibner 1854. Leinwand. Hohe 39,Breite 47 Cent.
+
+## A. Huser.
+
+- 79 Holsteiner Gorde. Im Vorgrunde ein Sumpfwasser mit Sumpfpfanzen aller Art, begrenzt von Waldterrain mit hohen Baumen und Gebusch. Als Staffage zwei Rehe. Nebelige Herbststimmung.
+
+Vorzuglich ausgefuhrtes, ansprechendes schones Bild. Bezeichnet.
+
+Leinwand.Hohe 6o,Breite 9o Cent.
+
+## Prof. C. Irmer.
+
+- 80 Landschaft in herbstlicher Stimmung bei aufgehendem Monde. An einem von Mauer umgebenen Paike vorbei fiesst ein untiefer Bach,den ganzen Mittelgrund einnehmend,zum linken Vorgrunde. Am Rande des Baches stehend ein Madchen, die herbeieilenden Ganse fitternd. Links weite Fernsicht mit Blick auf ein schlossartiges Gebaude,welches die nebenliegenden Hauser hoch iberragt. Vor demselben Weideplan mit Viehtigem Zauber die ganze Landschaft.
+
+Schon componirtes, feingestimmtes Bild. Bezeichnet: C. Irmer. Leinwand. Hohe 79, Breite 6o Cent.
+
+## Alfred Jensen.
+
+- Marine. Auf der leicht bewegten See ein Dampfer und zwei Segelboote; auf der Kiiste links schlossartiges Gebaude.
+
+Bezeichnet und datirt 1896.
+
+Leinwand. Hohe 85,Breite 136 Cent.
+
+Trefflich ausgefuhrtes Bild.
+
+## J. Jungblut.
+
+- 82 Winterlandschaft. Schneebedeckte Flachlandschaft mit den Hausern eines Dorfes zu beiden Seiten eines Flusses, auf dessen Eis als Staffage eine Anzahl Kinder mit Korben. Abendliche Stimmung.
+
+Leinwand. Hohe 94,Breite 77 Cent.
+
+Vorzigliches Bild.Bezeichnet.
+
+- 83 Fischmarkt auf dem Eise. Hollandische, weit ausgedehnte Winterlandschaft mit schneebedeckten Fluren,in deren fernstem Hintergrunde die Hauser eines Fischerdorfes. Im Vorgrunde auf zugefrorenem Wasser mehrere Fischweiber bei ihren gefuillten Korben; andere nahen vom Hintergrunde her.
+
+Sehr schones Werk des Kinstlers.
+
+Leinwand. Hohe 76,Breite 95 Cent.
+
+- Hollandische Winterlandschaft bei Sonnenuntergang. Die Mitte der Composition nimmt ein zugefrorenes Wasser
+- 89
+
+ein, dessen Eis von den Strahlen der untergehenden Sonne magisch beleuchtet wird, belebt von vielen Figuren. Rechts und links schneebedeckte Gefilde mit zerstreut liegenden Hausern.
+
+Vortreffliches, ungemein wirkungsvolles Bild. Bezeichnet.
+
+Leinwand. Hohe 76, Breite 94 Cent.
+
+- 85 Hollandische Winterlandschaft bei Abendbeleuchtung. Weit ausgedehnte schneebedeckte Flur mit Fischerdorf im Hintergrunde, von zugefrorenem Wasser durchzogen. Als reiche Staffage Fischer mit ihren Weibern etc. in einzelnen Gruppen, theils ihre Korbe wegtragend.
+
+Sehr schones stimmungsvolles Bild. Bezeichnet.
+
+Leinwand. Hohe So,Breite 6o Cent.
+
+- 86 Hollandische Winterlandschaft bei untergehender Sonne. bewegenden l
+- Den Mittelgrund nimmt ein zugefrorenes Wasser ein, auf das die Sonne ihre letzten Strahlen wirft,die,sich auf dem Eise Figuren grell beleuchtend; links Waldeingang; im Hintergrunde rechts weit ausgedehnte Ortschaft mit Windmihle etc.
+
+Sehr schones stimmungsvolles Bild. Bezeichnet.
+
+Leinwand. Hohe 42,Breite 64 Cent.
+
+- 87 Hollandische Sommerlandschaft. Im Vorgrunde links zieht
+- sich ein breiter Fluss hin, auf dessen flachen Ufern zwischen Baumen und Buschwerk einzelne Bauernhauser zerstreut liegen. Gegenstick zum Vorigen in gleich vorziglicher Ausfihrung. Bezeichnet. Leinwand. Gleiche Grosse.
+- 88 Hollandische Winterlandschaft. Weit ausgedehntes Gelande,in dessen fernstem Hintergrunde eine Ortschaft. Reiche Figurenstaffage von Fischern, Fischerweibern etc. Sonnige Beleuchtung.
+
+Sehr schones Bild. Bezeichnet.
+
+Leinwand. Hohe 56,Breite 41 Cent.
+
+- Hollandische Winterlandschaft bei untergehender Sonne. Ortschaft, an einem zugefrorenen Bache liegend,auf dessen Eis mehrere Figuren.
+
+Leinwand.Gleiche Grosse.
+
+Gegenstick zum Vorigen in gleicher Ausfuhrung. Bezeichnet.
+
+## Hermann Kauffmann jun., Mtinchen.
+
+Vortrefflich ausgefihrtes Bild. Bezeichnet:Herm. Kauffmanm jum.
+
+- 06 Forster. In mittleren Jahren,'mit grossem schwarzem Vollbarte, sitzt derselbe, bis zum Knie dargestellt, an einem Tische, sein Glas aus einer Flasche mit Wein fullend.
+
+Holz.Hohe 18,Breite 14 Cent.
+- Der alte Forster. Gegenstuick. Alter Waidmann mit ergrautem Vollbarte, das Pfeifchen in der Linken haltend,an einem Tische sitzend; vergnugten Blickes pruft er den Stoff des mit der Rechten gegen das Licht des Fensters gehaltenen
+
+Gleiche Ausfihrung. Gleiche Bezeichnung.
+
+Holz.Gleiche Grosse.
+
+## R. Kaulen, Dusseldorf.
+
+- 92/93 Zwei hollandische Landschaften. Dorfansichten Canal.
+- am
+
+Gegensticke. Hibsche Stimmungsbildchen. Bezeichnet: R. Kaulen 98.
+
+Holz. Hohe 17,Breite 28 Cent. 2 Stick.
+
+## Eugen Klinckenberg.
+
+- 94 Stillleben. Aufgeschlagenes Buch, Krug, Mandoline, Blumen, blimtem Vorhange.
+
+Reiche Composition. Voll bezeichnet.
+
+Leinwand. Hohe 56,Breite 86 Cent.
+
+## Otto Klinger, Weimar.
+
+- Landschaft. Links im Vorgrunde baumumstandenes Bauernhaus; rechts iber Felder Ausblick zu dem im Hintergrunde
+- 95 liegenden Dorfe.
+
+Voll bezeichnet.
+
+Holz. Hohe 48,Breite 66 Cent.
+
+- Landschaft mit Giessbach. Gewitterstimmung. Voll bezeichnet und datirt 98.
+- 96
+- 97
+
+Holz. Hohe 17,Breite 25 Cent.
+
+- Landschaft. Gegenstuick. Im Vorgrunde ein Wasser. Gleiche Ausfuhrung.  Gleiche Bezeichnung.
+
+Holz. Gleiche Grosse.
+
+## P. Klogthing, Dusseldorf.
+
+- Zwei Landschaften:,Im Lande der Kaffern". Gegenstiicke. Exotische Flusslandschaften mit Urwald etc. bei Mond-
+- 98 beleuchtung.
+
+Gut ausgefuihrte Bilder. Voll bezeichnet.
+
+Leinwand. Hohe je 29,Breite 44 Cent.
+
+## A.Knoop, Munchen.
+
+- 99 Die Antiquitaten-Liebhaber. Um einen Tisch,auf dem mehrere kostliche Bijoux liegen, gruppiren sich drei Cavaliere im Costume Louis XV., von verschiedenen Altersstufen; einer derselben, der juingste, betrachtet in stiller Bewunderung ein
+- 91 Seidels. Humorvolle Darstellung.
+reizendes Medaillon; links ein mit Silbersachen gefuillter Glasschrank.
+
+Fein und delicat ausgefuihrtes Bild von hibscher Composition und meister- hafter Behandlung des Stoffes.Bezeichnet:A. Knoop. Minchen. Holz. Hohe 27, Breite 2o Cent.
+
+## B. C. Koekkoek.
+
+- Weg fuhrt, auf dem ein Bauernpaar in Unterhaltung. Rechts weite Fernsicht mit Fluss im Mittelgrunde.
+- 100 Landschafts=Studie. Links Waldeingang, zu dem ein breiter
+
+Klar gestimmtes Bildchen.Bezeichnet:B.C.Koekkoek ft.1841. Holz. Hohe 36, Breite 28 Cent.
+
+## Paul Koester, Dusseldorf.
+
+- 101 Wassermiihle in Westfalen. Als Staffage ein Mann am Schleifstein.
+
+Reizendes,fein durchgefihrtes Bildchen. Bezeichnet:Paul Koester 98.
+
+Holz. Hohe 18,Breite 26 Cent.
+
+- 102 Bauerngehoft in Holstein. Gegenstick. Im Hintergrunde
+- eine Windmuhle. Figurenstaffage.
+
+Gleiche Ausfihrung. Gleiche Bezeichnung.
+
+Holz. Gleiche Grosse.
+
+- 103 Westfalische Landschaft. Links Wassermiihle, im Hinter-
+- grunde rechts zwischen mehreren Hausern Windmuhle.
+
+Bezeichnet.
+
+Holz. Hohe 16,Breite 21 Cent.
+
+- Rechts Windmihle auf einem Hugel. Im Vorgrunde ein Wasser, auf dem Kahn mit mehreren
+
+Gleiche Ausfihrung. Bezeichnet.
+
+- 104 Landschaft. Gegenstick. Insassen. Links Fernsicht.
+
+## Bezeichnet: Koukely.
+
+Gleiche Grosse.
+
+- 105 Portrait Bismarck's. Lebensgrosses Brustbild des verstorbenen Reichskanzlers, en face, in Civilkleidung mit grossem Schlapphute, den Kopf halb im Profle nach rechts gewandt. Vortreflich ausgefuihrtes Bild von lebenswahrer Wiedergabe. Bezeichnet. Leinwand. Hohe 75,Breite 55 Cent.
+- 106 Tiroler Jager. Fast ganze Figur eines Gemsjagers, die Buchse unter dem Arme,en face dargestellt, vor bewachsenem Felsen stehend.
+
+Sehr gutes Bild von naturlicher Wiedergabe. Bezeichnet. Pappe. Hohe 58,Breite 38 Cent.
+
+## H. Korn, Dusseldorf.
+
+- Boden stehen und liegen Flaschen, Kurbiss etc.
+- 107 Angenehme Unterhaltung. In einer Bodega schakert an mit Flasche und Krug besetztem Tische ein reich gekleideter Cavalier mit einem links sitzenden huibschen Madchen; am
+
+Hubsche Composition. Voll bezeichnet. Holz. Hohe 33, Breite 26 Cent.
+## L. Kratke.
+
+- 108 Genrebild. Zwei in altdeutsche Tracht gekleidete Manner auf plattenbelegtem Flur, an einer durch Vorhang geschlossenen Thur lauschend.
+
+Gutes Bild.Bezeichnet:L.Kratke.1879.
+
+Leinwand. Hohe 351e, Breite 171/e Cent.
+
+## F. S. Lachenwitz.
+
+- Brauner, im Profle nach links, an einer Mauer stehend.
+- 109 Pferdestiick.
+
+Vortrefflich ausgefuhrtes Bild. Bezeichnet:F. S.Lachenwitz. Leinwand. Hohe 5o,Breite 62 Cent.
+
+## H. Lallemand.
+
+- 110 Stadtmotiv aus Briissel. Von dichtgedrangt liegenden Hausergruppen und hoher Kirche umstandener freier Platz, auf welchem eine reiche Staffage in einzelnen Gruppen und Figuren; aus dem Portale der Kirche zieht eine Procession.
+
+Leinwand.Hohe 69,Breite 58 Cent.
+
+Schones ansprechendes Bild, gleich vortrefflich in Zeichnung und Colorit.Bezeichnet:H.Lallemand.
+
+## A.Le Petit, Paris.
+
+- 111 Parthie aus Paris. Den Vorgrund nimmt die uberbrickte Seine ein; auf dem jenseitigen Ufer die Hauser, von mehreren hohen Kirchthirmen iberragt.
+
+Pastos und breit behandeltes vortreffliches Bild.Bezeichnet:Le Petit
+
+Holz.Hohe 47,Breite 33 Cent.
+
+fils Rouen 1898.
+
+- Flaches Gelande,in dem rechts ein Dorf, dessen Hauser von dem hohen Kirchthurme iberragt werden; links zwei hohe Fruchtbarmen, vor denen mehrere Schnitte-
+- 112 Landschaft. rinnen.
+
+Vorzigliches,meisterhaft behandeltes Bild des geistvollen Impressionisten.
+
+Holz. Hohe 33,Breite 46 Cent.
+
+Bezeichnet:Le Petit fils 1898.
+
+## Rud. Lichtenberg, Duisseldorf.
+
+- ein angeschossener Hirsch, bei welchem ein aufbellender Dachshund steht. Frihabendliche Stimmung.
+- 113 Winterlandschaft. In der Lichtung eines hohen Waldes
+
+Sehr schones, effectvoll durchgefuhrtes Bild. Bezeichnet: Rud. Lichten-
+
+Leinwand. Hohe 72,Breite 68 Cent.
+
+berg.Df.1882.
+
+- 114 Italienische Landschaft. Im Hintergrunde von1 hohem Gebirgszuge eingeschlossener See,in welchem im Vorgrunde links Fischer in Nachen. Abendliche Stimmung.
+
+Schones wirkungsvolles Bildchen.
+
+Bezeichnet:R.Lichtenberg.Df.81. Holz.Hohe 17,Breite 311/ Cent.
+## J. W. Lindlar.
+
+- 115 Parthie am Vierwaldstatter See. Der jenseits von hohen schneebedeckten Alpen begrenzte,von vielen kleinen Booten belebte See bespult das den ganzen Vorgrund einnehmende felsige, von einzelnen Baumen bestandene Ufer. Als Staffage Mann mit zwei an der Erde sitzenden Frauen im Gesprache.
+
+Sehr schones Bild,meisterhaft in seiner vollendeten Ausfuhrung wie dem naturwahren Colorit.
+
+Leinwand. Hohe 95,Breite 2oo Cent.
+
+## Bezeichnet: N. M., Amsterdam.
+
+- 116 Landschaft mit Vieh. Am Rande einer kleinen Waldung rechts Hirtenmadchen bei weidender Schafherde； links leicht
+- ansteigendes Dunenland.
+
+Breit und flott behandeltes Bild. Bezeichnet wie oben.
+
+Leinwand. Hohe 381/e,Breite 58 Cent.
+
+## Edm. Massau, Duisseldorf.
+
+- 117 ,Die Kartenspieler. In einer Schenke, die von der, durch zwei Fenster einfallenden vollen Sonne hell beleuchtet ist, sitzen zwei spanisch-niederlandische Soldaten beim Kartenspiel; der eine legt in siegesbewusster Pose das gewinnende Blatt hin. Ein jungerer Soldat beobachtet lachelnd die Gruppe. Am Fenster des Hintergrundes Mann in Unterhaltung mit der Aufwarterin.
+
+Humorvoll aufgefasstes, charakteristisches Bild,ungemein klar in der Farbengebung. Bezeichnet: Edm. Massau Ddf.
+
+Holz. Hohe 52,Breite 39 Cent.
+
+## J.Maxfield, Muinchen.
+
+- 118 Italienische Obstverkauferin. Halbfigur en face einer jungen Italienerin in Nationaltracht, ein Korbchen mit Citronen vor sich tragend.
+
+Meisterhaft ausgefihrtes Bild von lebenswahrem Ausdruck. Bezeichnet: J.Macfield.Df.1879.
+
+Leinwand. Hohe 421/2,Breite 371/e Cent.
+
+## C. M. Meinzolt, Munchen.
+
+- dernorwegischen Gebirgswelt, zu deren Fussen Matten,Alm und Fischerhitten liegen.
+- 119 Am Hardanger Fjord. Den sich in weite Ferne erstreckenden Fjord umgeben die schneebedeckten Bergriesen
+
+Vortrefflich durchgefihrtes Bild. Bezeichnet. Leinwand. Hohe 23,Breite 31 Cent.
+
+## J. van Meulen, Amsterdam.
+
+- 120 Auf der Dine. Im Vorgrunde links zwei Fischermadchen an der Erde sitzend, deren eines auf zwei in der Ferne sichtbare Segelboote zeigt. Abendstimmung.
+
+Leinwand. Hohe 56,Breite 77 Cent.
+
+Vortrefflich ausgefuhrtes, stimmungsvolles Bild. Bezeichnet:J. van Meulen,Amsterdam 1898.
+## H. Mevius, Dusseldorf.
+
+- befestigte Kiiste.
+- 121 Marine. Aufgeregte See, von mehreren vollgetakelten Segelbooten und Dampfern belebt;im Vorgrunde ein bemannter Nachen in hohem Wellenschlage; in der Ferne rechts die
+
+Schones decoratives Bild. Bezeichnet:H. Meviuus 18.
+
+Leinwand. Hohe 54,Breite 8o Cent.
+
+## J.F. Millet, Paris.
+
+- 122 Der Morgen. Weit ausgedehntes Feld, auf dem drei Bauern-
+- frauen und Kind am fruhesten Morgen bei der Arbeit; links im Hintergrunde mehrere Fruchtbarmen.
+
+Ausgefuihrte Studie.Bezeichnet:J.F.Millet.
+
+Holz. Hohe 23,Breite 31 Cent.
+
+## Bjornson Moller, Norwegen.
+
+- eine Reihe Fischerhutten am Ufer eines Sees. Figurenstaffage. Kraftig gemaltes Bild. Bezeichnet:Bjorns. Moller.
+- 123 Fischerhiitten am See. Vor langgestrecktem Hohenzuge
+
+Leinwand.Hohe 281/2,Breite 441/2 Cent.
+
+## A. Moulin.
+
+- 124 Norwegischer Fjord. Rechts und links die schroffen, theils schneebedeckten hohen Felsen.Auf dem Wasser Dampfer und mehrere Boote; im Vorgrunde rechts ein Fischerdorf.
+
+Sehr schones Bild von vortrefflicher Wiedergabe der Natur. Bezeichnet. Leinwand. Hohe 65, Breite 95 Cent.
+
+## A. Muller, Disseldorf.
+
+- 125 Hollandische Landschaft. Im Mittelgrunde die Gebaude links ein Wasser zur Zeit der Ebbe.
+
+Breit behandeltes Bild.Bezeichnet:A.Muiller Ddf. 99.
+
+Holz.Hohe 46,Breite 331/2 Cent.
+
+- 126 Strandscene. Frau mit zwei Kindern, ein ankommendes
+
+Trefflich ausgefihrtes Bildchen. Bezeichnet:A. Miller Ddf.
+
+Holz. Hohe 26,Breite 17 Cent.
+
+- 127 Strandscene. Zwei Fischer beim Muschelfange waten in der See.
+
+Gegenstick zum Vorigen. Gleiche Ausfuihrung. Bezeichnet. Holz. Gleiche Grosse.
+
+## 128/129 Zwei hollandische Dorflandschaften.
+
+Holz. Hohe je 131/e, Breite 11 Cent. 2 Stick.
+
+Gegensticke.Bezeichnet:A. Muiller Ddf. 98.
+
+- Segelboot erwartend.
+## H. Munsterhjelm.
+
+Wirkungsvolles Bild von sehr guter Wiedergabe der winterlichen Stimmung. Bezeichnet:H.Munsterhjelm,Carlsruhe 1866.
+
+- 130 Winterlandschaft. Auf dem rechts an ciner Tannenwaldung vorbeifuhrenden beschneiten Wege haben finnlandische Bauern mit ihren bespannten Schlitten Halt gemacht; links einige Bauernhauser.
+
+Leinwand. Hohe 94, Breite 6o Cent.
+
+## Aug. Neumann, Paris.
+
+- 131 Stillleben. Auf einer Holzbank neben Netz und Angelgerathen eine Anzahl Fische, Krebse etc.
+
+Naturwahr ausgefihrtes Bild. Bezeichnet. Leinwand. Hohe 68,Breite 1oo Cent.
+
+- 132 Manoverscene. Galoppirende Artillerie; rechts auf einem Hugel der Generalstab.
+
+Treffliches Bild.Bezeichnet.
+
+Leinwand. Hohe 4o,Breite 53 Cent.
+
+## A. Normann, Dusseldorf.
+
+- Gestripp besetzt.
+- 133 Norwegischer Fjord. In ganzer Breite des Bildes zieht derselbe sich,von Booten belebt und in weitester Fernsicht von Felsgebilden begrenzt. Das Ufer links mit Gebiisch und
+
+Prachtvolles Bild bei eben beginnender Dammerung. Bezeichnet. Leinwand. Hohe 64,Breite 96 Cent.
+
+## Zach. Noterman, Paris.
+
+- 134 Hundestick.Zwei Hunde,der eine stehend,der andere sitzend neben einem Stuhle, auf dem eine Jagdtasche liegt; in der Umgebung Maasskrug auf Holzblock stehend,Korb, rothe Decke etc.
+
+Meisterhaft ausgefihrtes Bild mit vollendeter Wiedergabe der ThierCharaktere.Bezeichnet:Zach.Noterman.
+
+Leinwand.Hohe 49,Breite 62 Cent.
+
+## C. Ostersetzer.
+
+Sehr hubsches Bildchen. Bezeichnet.
+
+- 135 ,Blond oder Schwarz? Zwei Tiroler Burschen, der eine mit hellblondem,der andere mit schwarzem Haar,reichen ihr Glas der am Ofen stehenden Maid, welche, verschamt lachelnd, unschlussig ist, wem sie den Vorzug geben soll.
+
+Holz. Hohe27,Breite 21 Cent.
+
+- 136 ,Jagerlatein." Gegenstick. Aelterer Tiroler Waidmann erzahlt den ihm lachend zuhorenden beiden Bauerndirnen seine Abenteuer.
+
+Gleiche Ausfuihrung. Bezeichnet.
+## J. Paschinger, Disseldorf.
+
+- 137 Landschafts-Studie. Binnensee mit flach ansteigenden Ufern.
+- Gute Skizze.Voll bezeichnet.
+
+Holz.Hohe 131/2,Breite 191/e Cent.
+
+## Louis Perrey, Paris.
+
+- 138,Die ersten Blumen. Jugendliche Madchengestalt, mit aufgelosten, goldblonden Haaren in leichtem, von der Schulter herabfallendem Gewande,die wie die Arme entblosst,ordnet mit beiden Handen glucklichlachelnden Blickes den auf einem Tische in einer Vase stehenden Blumenstrauss.
+
+Anmuthvolles schones Bild von vollendeter weicherBehandlung.Bezeichnet: L.Perrey.
+
+Leinwand. Hohe 65,Breite 54 Cent.
+
+## H. Petersen-Angeln.
+
+- 139 Motiv bei Vlissingen bei Mondschein. Links ein Fischerdorf mit theils erhellten Hausern und mehreren Windmuhlen. Rechts das Meer, von Segelbooten mit Wachtlichtern belebt. Im fernsten Hintergrunde ein Dampfer; der theils zwischen Wolken versteckte Vollmond wirft, die ganze Scene beleuchtend, seinen Schein auf das Wasser.
+
+Vorzigliches Bild mit vorziiglicher Behandlung der verschiedenartigen Lichtwirkungen. Voll bezeichnet.
+
+Leinwand. Hohe 6o,Beite 84 Cent.
+
+## Andre Plumot.
+
+- 140 Das Brautgeschenk. In einem vornehmen Gemache drei Damen um einen Tisch gruppirt; wahrend eine das auf dem Tisch stehende Schmuckkastchen geoffnet hat und das darin befindliche Geschmeide voll Entzicken betrachtet, sind die beiden
+- anderen mit dem Lesen eines Briefes beschaftigt.
+
+Vorziglich und feissig ausgefuihrtes Bild von hubschem Colorit. Bezeichnet:
+
+Leinwand. Hohe 37, Breite 48 Cent.
+
+AndrePlumot 1862 Antwerpen.
+
+## L. Rausch, Dusseldorf.
+
+- 141 Schweizerlandschaft. Nachtlicher Blick auf den Eiger von der Scheideck aus.
+
+Hibsch gestimmtes Bild.Bezeichnet.
+
+Carton.'
+
+Hohe 33,Breite 5o Cent.
+
+- 142 Schweizerlandschaft. Blick von der Hohe in ein von Wasser durchzogenes Gebirgsthal; als Staffage Jager.
+
+Gleiche Ausfihrung.
+
+Leinwand.Hohe 36,Breite 51 Cent.
+
+## L. Redig.
+
+- 143 Landschaft. Links fuihrt an von hohem Baume uberragtem Gebisch vorbei ein breiter Weg zu einer weiten Fernsicht
+mit Ortschaft; im Vorgrunde ein Wasser, iber welches ein vollbesetzter Kahn zum Ufer rechts fahrt, auf dessen Hohe mehrere Bauernhauser.
+
+Gutes Bild von hibschem Colorit.
+
+Voll bezeichnet. Holz.Hohe 38,Breite 46 Cent.
+
+## Ceorg Rossler, Munchen.
+
+- 144 Der Forster.Kniefigur eines alteren Waidmannes nach rechts gewandt, den Kopf mit vergnigtem Gesichtsausdruck en face. Im Begriffe, sein Pfeifchen anzuzunden, sitzt derselbe an einem
+- Tische, auf dem ein Maasskrug Augustiner steht.
+
+Humorvoll aufgefasstes, charakteristisch lebenswahres Bild. Bezeichnet: Georg Roessler 91 Miinchen. Holz. Hohe 28,Breite 22 Cent.
+
+## W. Rogge, Disseldorf.
+
+- eine mit Schmucksachen, Facher etc. besetzte Commode gelehnt,ein Madchen, das reiche Armband ihrer Herrin betrachtend, mit dem sie sich geschmickt.
+- 145 Die vorwitzige Zofe. In einem Rococo-Gemach steht, gegen
+
+Vorzugliches Bild.Bezeichnet.
+
+Leinwand.Hohe 62,Breite 4o Cent.
+
+- 146 Das neugierige Kammerkatzchen. Gegenstick. In cinem Rococo-Gemache lehnt ein junges Kammerkatzchen, von der Arbeit aufhorend,gegen ein Sopha,damit beschaftigt, einen zerrissenen Brief zusammenzulegen, um dessen Inhalt zu er-
+- fahren.
+
+Gleich vorzigliche Ausfihrung. Bezeichnet.
+
+Leinwand. Gleiche Grosse.
+
+## Julius Rose, Muinchen.
+
+- 147 Der Sidfjord. Von norwegischen Firnen umgeben der mit Dampfern und Booten besetzte Fjord, an dessen linkem Ufer sich ein Fischerdorf erhebt.
+
+Treffliches Werk.Bezeichnet.
+
+Leinwand. Hohe 48,Breite 78 Cent.
+
+- 148 Der Rastsund. Gegenstuck.Auf dem stillen, von schneebedeckten Bergen umgebenen Wasser ein einsames Segelboot. Am Ufer einige Blockhauser.
+
+Leinwand. Gleiche Grosse.
+
+Gleiche Ausfihrung. Gleiche Bezeichnung.
+
+## Jan Ruyten, Antwerpen.
+
+Vortreffliches Bild. Bezeichnet.
+
+- 149 Stadtansicht bei Mondschein. An einem Canal, auf den der hinter schwarzen Wolken aufsteigende Vollmond seinen Schein wirft, gruppiren sich um hohen runden Thurm die Hauser einer alten Handelsstadt. Zahlreiche Boote liegen an dem Ufer.
+## Bezeichnet: L. S.
+
+- 150 Am Canal zu Dordrecht.Vom linken Vorgrunde zieht sich der von Segelbooten belebte Canal an Hausergruppen mit hoher Kirche vorbei; rechts breite, mit hohen Baumen bestandene Strasse, auf welcher Fuhrmann mit Karren und
+- zwei Frauen.
+
+Freundliches Bild,in schonem warmem Tone ausgefuihrt. Bezeichnet L.S.
+
+Leinwand. Hohe 34,Breite 47 Cent.
+
+## Josef Sander.
+
+- 151 Friihlingslandschaft. Nach dem Vorgrunde rechts zieht sich ein breiter Bach; auf dessen Ufer links bei einer Gruppe hoher Baume,deren mehrere in voller Bluthe,steht ein Bauernhaus. Rechts Fernsicht; als Staffage Huhnerfamilie.
+
+Sehr schones freundliches Bild.
+
+Leinwand. Hohe 55, Breite 81 Cent.
+
+- 152 Herbstlandschaft. Gegenstuick. Aehnliche Composition mit sich nach links ziehendem Bache; vor dem zwischen hohen
+- Birken liegenden Bauernhause eine Bauerin.
+
+Gleiche Ausfihrung.Bezeichnet.
+
+Leinwand.Gleiche Grosse.
+
+## A. Schelfhout.
+
+- 153 Mondscheinlandschaft. Das vom Vollmond hellbeschienene,
+- von einer Fischerbarke belebte Wasser bespilt links ein vor Baumgruppen1 liegendes ruinenhaftes Gebaude mit hohem Thurm.
+
+Hibsches stimmungsvolles Bildchen.Bezeichnet:A. Schelfhout 1830. Holz.Oval. Hohe 20,Breite 27 Cent.
+
+- 154 Winterlandschaft.Vor dem rechts auf einem kleinen ErdWasser hin, das von Schlittenfahrern und Schlittschuhlaufern
+- hugel1 liegenden Bauerngehoft zieht sich ein2 zugefrorenes belebt.
+
+Gegenstick zum Vorigen. Gleiche Ausfuihrung. Ebenso bezeichnet. Holz. Oval. Gleiche Grosse.
+
+## A. Schelhuis.
+
+- 155 Landschaft. Weit ausgedehnte reichbewachsene, im Hintergrunde von einem Hohenzuge begrenzte Landschaft, durch welche sich ein schmales Wasser schlangelt; im Vorgrunde links an kleinem Bache ein zwischen Baumgruppen liegendes
+- Bauerngehoft.
+
+Reizendes stimmungsvolles Bild, von wohlthuender Farbenharmonie.
+
+Bezeichnet:A. Schelhuis f.
+
+Leinwand. Hohe 671e,Breite 96 Cent.
+## Joh. Caspar Scheuren,  Disseldorf.
+
+- See und zwischen Baumen ver156 Mondscheinlandschaft. stecktes Schloss. Im Vorgrunde Kahn mit einem Insassen als Staffage.
+
+Fein gestimmtes,weich behandeltes Bild. Bezeichnet: J. C. Scheuren.
+
+Leinwand. Hohe 24,Breite 3o Cent.
+
+## Hermann Schouten, Briissel.
+
+- 157 Viehstick.
+- Weit ausgedehnte Flachlandschaft, in deren Vorgrund zwei Kuhe und Kalb in einem Sumpfwasser waten. Im Hintergrunde links lagert die ibrige Herde.
+
+Sehr schones,pastos behandeltes Bild. Bezeichnet.
+
+Leinwand. Hohe 5o,Breite 65 Cent.
+
+- 158 Der Hihnerstall. In ihrem Stalle sitzen in mehreren Gruppen auf Stange und Spreu zahlreiche buntgefiederte Huhner mit
+- dem Hahn.
+
+In breiter Behandlung fott gemaltes, gutes Bild. Voll bezeichnet. Holz. Hohe 25,Breite 35 Cent.
+
+## W. Schroter, Disseldorf.
+
+- 159 Winterlandschaft. Ein Fluss durchzieht ein schneebedecktes Gelande vom Mittelgrunde her nach dem linken Vordergrunde. Auf dem Ufer rechts Wassermihle und mehrere Hauser mit schneebedeckten Dachern. Abendliche Beleuchtung bei unter-
+- gehender Sonne.
+
+Schones Bild. Bezeichnet:W. Schroter Disseldorf. Leinwand. Hohe 74,Breite 95 Cent.
+
+## R. Schultze, Minchen.
+
+- 160 Der Vierwaldstatter See. Blick auf den herrlichen,von einem Dampfer belebten See vom Brunnen aus; links die
+- Axenstrasse.
+
+Feines sonniges Bild,vorziglich ausgefihrt. Bezeichnet.
+
+Leinwand. Hohe 5o,Breite 75 Cent.
+
+## Christian Sell jr.
+
+- 161 Scene aus dem deutsch-franzosischen Kriege. Preussische Husaren-Patrouille wird von einer Waldlisiere aus beschossen, was der fuihrende Officier mit dem Revolver erwidert. Winterstimmung.
+
+Holz.Hohe 18,Breite 24 Cent.
+
+Bezeichnet.
+
+- 162 Scene aus dem deutsch-franzosischen Kriege. Officiers-
+- patrouille, gegen eine Waldlisiere feuernd.
+
+Bezeichnet.
+
+Holz. Hohe 18,Breite 24 Cent.
+- 163/164 Zwei ahnliche Scenen. Preussischer Husarenofficier, recognoscirend, im Feuer.—— Ulanen-Infanterist auf Vorposten.
+- Gegensticke.Bezeichnet.
+
+Holz.Hohe 9,Breite 12 Cent.2 Stick.
+
+- 165 Scene aus dem deutsch-franzosischen Kriege. Preussische Ulanen, einen Transport franzosischer Gefangener escortirend.
+
+Voll bezeichnet.
+
+Holz. Hohe 18,Breite 24 Cent.
+
+- 166 Scene aus dem deutsch-franzosischen Kriege. Preussische Infanterie beim Vorstoss auf eine Wald-Lisiere in schnee-
+- bedecktem Felde.
+
+Voll bezeichnet.
+
+Holz. Hohe 18,Breite 24 Cent.
+
+- 167 Scene aus dem deutsch -franzosischen Kriege.Auf weitem schneebedecktem Felde halt eine Ulanen-Patrouille
+- unter Fuhrung cines Officiers.
+
+Voll bezeichnet.
+
+Holz. Hohe 18,Breite 24 Cent.
+
+- 168 Scene aus dem deutsch-franzosischen Kriege. Auf schneebedeckter Flur fragt ein Husaren-Adjutant einen von einem
+- Infanteristen escortirten Franzosen nach dem Wege.
+
+Voll bezeichnet.
+
+Holz.Hohe 18,Breite 24 Cent.
+
+## Prof. Carl Sohn, Dusseldlorf.
+
+- 169 Weiblicher Studienkopf.Brustbild einer alteren Frau in
+- Lebensgrosse, den Kopf mit weissem Tuche verhullt.
+
+Sehr gute Studie.
+
+Leinwand.Hohe 44,Breite 36 Cent.
+
+## Cornelis Springer.
+
+- 170 Altes Stadtviertel in Holland. Vor den rechts sich erhebenden,alten architektonischen Gebauden Manner,Frauen und Kinder， die den Darbietungen einiger Bankelsanger lauschen; die sich bis zum fernsten Hintergrunde hinziehende Strasse wird von vielen Personen belebt.
+
+Sehr schones Bild, trefflich in Zeichnung und Colorit und von lebendiger
+
+Holz. Hohe 5o,Breite 41 Cent.
+
+## H. Steen.
+
+- 171 Schloss Chillon am Genfersee. Auf dem Ufer links das Schloss. Den See beleben mehrere Fischerboote.
+
+Gut ausgefuihrtes Bild. Bezeichnet.
+
+Leinwand. Hohe 6o,Breite 98 Cent.
+
+Staffage.
+- 172 Parthie aus dem Holsteiner Moor. Gegenstick. Gruppen hoher Baume und Buschwerk, zwischen denen,versteckt liegend, mehrere Bauernhauser. Im Vorgrunde Sumpfwasser.
+
+Gleiche Ausfuhrung.Bezeichnet.
+
+Leinwand. Gleiche Grosse.
+
+- 173 Parthie am Kellersee in Holstein. Den Mittelgrund Der breite Weg des Vorgrundes ist beiderseits von Gruppen
+- nimmt der See ein,im Hintergrunde von Hohenzug begrenzt. hoher Baume und Gestripp besetzt.
+
+Gutes Bild. Bezeichnet.
+
+Leinwand. Hohe 6o,Breite 96 Cent.
+
+## Aug. Stegmann.
+
+- 174 Marine. Wild aufgeregte See, in welcher ein vollgetakeltes Segelboot die rechts befindliche Brandung zu erreichen sucht; im Hintergrunde ein Dampfer.
+
+Wirkungsvolles Bild von naturgetreuer Wiedergabe. Bezeichnet: Stegmann. Leinwand.Hohe 4o1/2,Breite 38 Cent.
+
+## Gustav sus,  Dusseldorf.
+
+- 175 Gefligelstick. Buntgefiederter Hahn, auf der Erde pickend.
+
+Sehr hibsch ausgefuhrte Studie.
+
+Leinwand. Hohe 14,Breite 21 Cent.
+
+## Paul de Tagentris, Paris.
+
+- Buschwerk und hohe Berge abgeschlossen wird. Figurenstaffage.
+- 176 Landschaft. Im Vorgrunde ein Wassertumpel, rechts von dichtem Pinienwald begrenzt; links Wiesenflache,welche durch
+
+Treffliches Bild yon meisterhafter Behandlung und vorziglichem Colorit
+
+Holz.Hohe 5o, Breite 38 Cent.
+
+Bezeichnet:P. de Tagentris.
+
+## Bezeichnet: J. Till.
+
+- 177 Mignon. Jugendliche Frauengestalt mit Laute, am Thore
+
+Leinwand. Hohe 31,Breite 17 Cent.
+
+- 178 Guitarrespielerin. Gegenstick. Italienisches Madchen,barfuss, bunt gekleidet, die Guitarre umgehangt, an Palast stehend. Leinwand. Gleiche Grosse.
+
+## A. Tombrock, Dusseldorf.
+
+- mit mehreren Fussgangern belebter Weg einem den ganzen Hintergrund einnehmenden Berge zu.
+- 179 Landschaft. An Wiesen und Buschwerk vorbei fihrt ein
+
+Bezeichnet und datirt 1898.
+
+Holz. Hohe 45, Breite 7o Cent.
+
+- eines Palastes stehend.
+## Unbekannte Meister.
+
+- 180 Portrait Kaiser Wilhelms I. Lebensgrosses Brustbild des alten Kaisers, halb nach links gewandt, geradeaus blickend, in Generals-Uniform.
+
+Vortreffliches Portrait von lebenswahrem Ausdruck. Leinwand.Hohe 8o,Breite 7o Cent.
+
+- 181 Weibliche Actstudie. Halbfgur einer entblossten jugend gesehen,den Kopf im
+- lichen Frauengestalt vom Rucken Profile nach links gewandt.
+
+Leinwand. Hohe 65,Breite 75 Cent.
+
+- 182 Winterlandschaft. Im Mittelgrunde erhebt sich ein auf langgestreckter Hohenkette liegendes Burggebaude; auf dem Wege heimkehrende Jagdgesell-
+- links leicht ansteigenden schaft.
+
+Copie nach Prof. C. Hilgers in schoner Ausfuihrung. Leinwand. Hohe 3912, Breite 49 Cent.
+
+- 183 Der treue Kamerad. Auf dem Schlachtfelde kniet ein verwundeter Soldat an der Leiche seines gefallenen Kameraden.
+
+Breit behandelte,gute Skizze.
+
+Leinwand. Hohe 39,Breite 49 Cent.
+
+- 184 Strandansicht. Rechts das Meer mit mehreren Kahnen und Booten; auf dem Strande links im Vorgrunde mehrere Hauser. Figurenstaffage.
+
+Leinwand. Hohe 38,Breite 46 Cent.
+
+- 185 Nachtlandschaft mit vollem Mondschein. Den Mittelgrund nimmt ein Bach ein, dessen Holzsteg die beiden Ufer
+- verbindet, auf denen Hauser zwischen Gebusch.
+
+Gutes,in dunklem Tone gehaltenes Bild.
+
+Leinwand. Hohe 35,Breite 46 Cent.
+
+- 186 Flusslandschaft. Rechts das felsige Ufer mit hohem Thurme,
+- an welchem mehrere Segelboote; links der sich ausdehnende Fluss, im Hintergrunde von einem Hohenzuge eingeschlossen.
+
+Gutes Bild.
+
+Leinwand. Hohe 28, Breite 37 Cent.
+
+- 187 Genrebild. Junge Bauerin im Vorgrunde einer Landschaft auf bewachsenem Felsblock sitzend, in den Handen eine Blume haltend; neben ihr an der Erde Korb und Krug. Gutes Bildchen.
+
+Leinwand. Hohe 33,Breite 24 Cent.
+
+- 188 Marine. Bewegte See, in welcher ein vollgetakeltes Segel
+- boot in hohem Wellenschlag; im Hintergrunde ein Dampfer.
+
+Fleissig durchgefuihrtes Bildchen.
+
+Holz.Hohe 17,Breite 23 Cent.
+## C. Unverdross.
+
+- 189 Landschaft. Rechts ein vom Vollmond hellbeschienenes
+- Wasser,iber welches cine steinerne Bogenbricke zu hohem Gebirgszuge fuihrt, an dessen Fusse ein Bauerngehoft. Als Staffage Angler im Kahn.
+
+Schon gestimmtes Bild ven pastosem Farbenauftrag. Bezeichnet:G.Unverdross.96.
+
+Leinwand. Hohe 116,Breite 76 Cent.
+
+## R. O. Unverdross, Disseldorf.
+
+- 190 Parthie aus Venedig. Rechts und im Vorgrunde das von Gondeln belebte Wasser, an dessen Ufer beleuchtete Hauser; links Blick auf die Marcuskirche. Abendliche Beleuchtung bei
+- Vollmondschein.
+
+Breit behandeltes,gutes Bild. Voll bezeichnet und datirt 95. Leinwand. Hohe 85,Breite 58 Cent.
+
+## Carlos Vasquez, Paris.
+
+- 191 ,Beleidigt". In Gartenanlagen auf dem Seestrande sitzt ein junges Paar, das sich entzweit, auf einer Bank; neben dem Herrn, der Kreise im Sande zieht, steht ein schwarzer Pudel.
+
+Vorzigliches Bild mit vollendeter Wiedergabe der Gemithsstimmungen. Voll bezeichnet.
+
+Leinwand. Hohe 38,Breite 54 Cent.
+
+## Eugene Verboeckhoven.
+
+- 192 Thierstudie. Wuthender Bulle im Vorgrunde ciner Landschaft, uber einen Bretterzaun setzend.
+
+Ausgefihrte Studie.Bezeichnet:Eug.Verboeckhoven. Holz.Hohe 34,Breite 28 Cent.
+
+## E. Volkers, Duisseldorf.
+
+Vorzigliche Ausfihrung. Unten links voll bezeichnet und datirt 1894. Leinwand. Hohe 26,Breite 37 Cent.
+
+- 193 Pferde-Portrait. Rappe im Profile nach rechts stehend, zum Rennen gesattelt; vor ihm rothe Decke.
+- 194 Pferde-Portrait.Gegenstuck. Goldfuchs im Profile nach
+
+Gleiche Ausfihrung. Gleiche Bezeichnung.
+
+Leinwand. Gleiche Grosse.
+
+## Prof. L. Voltz, Mtinchen.
+
+Trefflich ausgefuhrtes,gut beleuchtetes Bild. Bezeichnet Leinwand. Hohe 52,Breite 44 Cent.
+
+- 195 Herbstmorgen im Walde. Im Dickicht eines Waldes ein Hirsch, bei Sonnenaufgang in die Ferne spahend.
+- links; vor ihm Eimer.
+- Kelchglas.
+
+## Van der Voort.
+
+- 196 Stillleben. vor Kirbiss und bauchiger Weinfasche eine Schissel mit Trauben,Apricosen und Melonenscheibe, sowie ein gefilltes
+
+Naturwahr ausgefihrtes Bild. Bezeichnet: van der Voort. Leinwand.Hohe 421e,Breite 5o Cent.
+
+## Johann Wagner.
+
+- 197 Marine bei heller Mittagssonne. Ruhige See,bis in den fernsten Hintergrund belebt von zahlreichen Fischerbooten
+- und Segelbarken.
+
+Klargestimmtes Bild. Bezeichnet. Leinwand. Hohe 68, Breite 54 Cent.
+
+- 198 Marine.Gegenstick. Aehnliche Composition. Rechts Blick auf das Fischerdorf.
+
+Gleiche Ausfuhrung. Bezeichnet.
+
+Leinwand.Gleiche Grosse.
+
+- 199 Marine bei Abendstimmung. Ruhige See mit zahlreichen, von Moven umschwarmten Fischerbooten. Rechts Blick auf
+- das Stranddorf.
+
+Vorziglich ausgefuhrtes Bild. Bezeichnet.
+
+Leinwand. Hohe 57,Breite 69 Cent.
+
+- Gegenstuick. Aehnliche Composition. Der Strand
+- 200 Marine. mit dem Fischerdorfe links.
+
+Gleiche Ausfihrung. Bezeichnet.
+
+Leinwand. Gleiche Grosse.
+
+- 201 Marine. Aehnliche Composition,in die Hohe.
+
+Gleiche Ausfihrung. Bezeichnet.
+
+Leinwand. Hohe 68,Breite 34 Cent.
+
+- 202 Marine. Gegenstick. Aehnliche Composition, nach Sonnen-
+
+Gleiche Ausfuhrung. Bezeichnet.
+
+Leinwand. Gleiche Grosse.
+
+- 203 Marine.Ruhige See. Im Mittelgrunde eine Gruppe von drei Fischerbooten mit gehissten Segeln. Bis zum fernsten Hintergrunde erscheinen zahlreiche weitere Boote und Kahne.
+
+Sehr hubsches Bild. Bezeichnet.
+
+Leinwand. Hohe 36, Breite 57 Cent.
+
+- 204 Marine. Gegenstick. Aehnliche Composition.
+
+Gleiche Ausfihrung.Bezeichnet.
+
+Leinwand. Gleiche Grosse.
+
+- untergang.
+## Karl wagner.
+
+- 205 Hafenansicht bei Libeck. Links der Hafendamm mit den von Kirchthurm iberragten Hausern,reich staffirt von Figuren aller Art. An demselben liegen Fischerboote und Segel-
+- kahne, meist bemannt.
+
+Vorziglich ausgefihrtes, decorativ sehr wirkungsvolles Bild. Bezeichnet.
+
+Leinwand. Hohe 73,Breite 1oo Cent.
+
+- 206 Hollandische Hafenansicht. Gegenstick. Aehnliche Composition; der Damm rechts.
+
+Gleiche Ausfihrung. Bezeichnet.
+
+Leinwand. Gleiche Grosse.
+
+- 207 Hollandische Hafenstadt. Rechts der Strand mit grossern und kleinern Hausern, Windmuhle etc., von reicher Figurenstaffage belebt. An demselben liegen zahlreiche Fahrzeuge aller Art, theils bemannt; links Blick auf das Meer, in dessen
+- fernstem Hintergrunde ein Dampfer eben sichtbar wird.
+
+Reiche, schone Composition in vorziglicher Ausfihrung. Bezeichnet. Leinwand. Hohe 5o,Breite S1 Cent.
+
+- 208 Hollandische Hafenstadt. Gegenstick. Aehnliche Composition, von der Gegenseite, bei voller Sonnenbeleuchtung.
+
+Gleich vorzigliche Ausfihrung. Bezeichnet.
+
+Leinwand. Gleiche Grosse.
+
+## Sig. wagner, Wien.
+
+- 209 Landschaft aus Nieder-Oesterreich. Hohe Baume und Gebisch zu beiden Seiten eines breiten Weges, auf dem Bauerin mit Kind; rechts Bauernhaus.
+
+Hubsches Bild. Bezeichnet.
+
+Leinwand. Hohe 32,Breite 53 Cent.
+
+- 210 Landschaft aus Nieder-Oesterreich. Gegenstick. Breiter Weg, von hohen Baumen und Gebuisch begrenzt. Figuren-
+
+Gleiche Ausfihrung. Gleiche Bezeichnung.
+
+Leinwand. Gleiche Grosse.
+
+## Th. Wagner.
+
+- 211 Am Waldessaum im Herbste. Rechts Waldeingang mit
+- hohen,theils schon entlaubten Baumen,vor denen Bauerin mit Rechen. Den ganzen Vorgrund nimmt ein Wasser ein;links weite Fernsicht.
+
+Schones stimmungsvolles Bild. Bezeichnet.
+
+Leinwand. Hohe 68,Breite 54 Cent.
+
+- 212 Am Waldessaum. Gegenstick. Links Waldeingang, einen ruhigen Waldsee begrenzend. Als Staffage Holzsammler. Gleiche Ausfihrung. Bezeichnet.
+
+Leinwand. Gleiche Grosse.
+
+- staffage.
+- 213 Parthie aus der oberen Lombardei. Rechts Waldeingang bei einem seichten Wasser,in dem mehrere Kuhe waten; links weite Fernsicht mit Blick auf ein Klostergebaude. Sommer-
+- liche Stimmung.
+
+Sehr schones Bild. Bezeichnet.
+
+Leinwand. Hohe 41,Breite 7o Cent.
+
+- 214 Parthie aus der oberen Lombardei. Gegenstick. Links breiter Waldweg,auf dem Holzsammlerin,neben einem von Holzsteg uberbrickten Bache; rechts weite, von Hohenzug
+
+Gleich vorzigliche Ausfihrung. Bezeichnet.
+
+- begrenzte Fernsicht. Herbstliche Stimmung.
+
+Leinwand. Gleiche Grosse.
+
+## Th. Weber.
+
+Holz..Hohe 15,Breite 22 Cent.
+
+- 215 Landschaftsstudie.
+
+## Aug. weger jr.
+
+Bezeichnet.
+
+- 216 Portrait Kaiser Wilhelms I. Halbfigur des alten Heldenkaisers, in einem Sessel sitzend, nach links gewandt, gerade-
+- aus blickend.
+
+Lebenswahr ausgefihrtes Bildchen. Bezeichnet. Pappe. Hohe 15, Breite 12 Cent.
+
+## B. Weiermann, Karlsruhe.
+
+- 217 Motiv aus Friesland. Landschaft mit See.
+
+Bezeichnet. Holz. Hohe 57,Breite 78 Cent.
+
+## Paul wichmann, Koln.
+
+- 218 Winterlandschaft. Schneebedecktes Gefilde mit Waldsaum Als Staffage vierbespannter Postwagen und Holzsammlerin mit
+
+Vorzigliches Bild mit meisterhafter Wiedergabe der winterlichen Stimmung.
+
+- mit hohen entlaubten Baumen; links ein zugefrorener Bach. Hund.
+
+Voll bezeichnet. Leinwand.Hohe 6o,Breite 1oo Cent.
+
+- 219 Sommerlandschaft. Gegenstuck. Norddeutsches Seedorf mit den zwischen hohen Baumen und Gebisch liegenden Hausern; auf dem den ganzen Vorgrund einnehmenden Wasser ein einsamer Fischerkahn.
+
+Stimmungsvolles Bild in gleich n vorziglicher Ausfihrung. Gleiche Bezeichnung. Leinwand. Gleiche Grosse.
+
+- 220 ,Auf der Studienreise". Am Saume eines breiten, beiderseits von Baumen und Buschwerk begrenzten Weges sitzt ein jugendlicher Maler in munterem Gesprach mit zwei neugierig neben der Staffelei stehenden Bauerndirnen;im Hintergrunde erscheint,
+- von einem Hause herkommend, eine Alte.
+
+Reizendes, hibsch componirtes Bild, klar in Farbe und Lichtwirkung. Bezeichnet und datirt 1887.
+
+Leinwand.Hohe 79,Breite 66 Cent.
+- 221 ,Das Vogelnest".In dem Garten einer Villa sitzt unter einem Vor-
+- hohen Baume eine jugendliche Mutter, einem Knaben wirfe machend, der ein Vogelnest ausgenommen hat.
+
+Sehr hibsches Bild. Voll bezeichnet und datirt 1889.
+
+Leinwand. Hohe 6o,Breite 46 Cent.
+
+- See erscheint als jugendliche
+- 222 ,Irrlicht". Ueber einem stamm gekletterten Burschen verlockend.
+
+Poetisch aufgefasstes,hibsches Bild.Voll bezeichnet. Leinwand.Hohe 46,Breite 55 Cent.
+
+- 223,,Nachzigler".Auf breitem,vom Vollmond hell beleuchtetem Wege, der links von Gebusch begrenzt, ein jugendliches Paar in Liebesgesprach,von Hund begleitet,hinter der bereits im Hintergrunde verschwindenden grosseren Gesellschaft zurickbleibend.
+
+Vortreffliches Bild in klarer Farbengebung. Voll bezeichnet.
+
+Leinwand.Hohe 48,Breite 39 Cent.
+
+- 224 ,Auf der Walze. Auf breitem Wege des Vorgrundes,der von einem von Gebuisch iberragten Kornfeld begrenzt wird, zwei reisende Handwerksburschen.
+
+Humorvoll aufgefasstes Bildchen.Voll bezeichnet. Holz.Hohe 33,Breite 4o1/e Cent.
+
+- 225 Stunden der Andacht. Gegensticke.Alte mit ergrautem Jugendliche Mutter,
+- Haare,in einer Hauspostille lesend.— ihrem Kinde die Brust reichend.
+
+Anmuthvolle Brustbilder. Bezeichnet,
+
+Holz.Hohe 2812,Breite 24 Cent.2 Stick.
+
+## Clara von wille.
+
+- 226 Thierstick. Schwarzgefleckter Jagdhund, in der Hutte liegend.
+
+Leinwand. Hohe 2o,Breite 21 Cent.
+
+- Trefflich ausgefihrtes Bildchen. Bezeichnet und datirt 188o.
+- 227 — Gelbgefleckter Jagdhund bei seiner Hutte. Gegenstick zum Vorigen. Ebenso.
+
+Leinwand. Gleiche Grosse.
+
+## F. von Winterfeld, Dusseldorf.
+
+Poetisch aufgefasstes schones Bild. Bezeichnet: F.v.W. Leinwand. Hohe 37,Breite 56 Cent.
+
+- 228 Motiv vom Bodensee. Auf dem Ufer links hohe Baume und dichtes Gebuisch; dazwischen Kornfeld mit Schnitterinnen; rechts weiter Blick uber den See. Abendliche Stimmung.
+
+## M. Wirth.
+
+- 229 Der Kunstliebhaber. In einem Zimmer, an dessen hinterer Wand Bilder und Wandkarte hangen, steht rechts ein Tisch, der wie der danebenstehende Stuhl dicht gedrangt mit Rari-
+dem Boden steht Malerkasten neben zwei Studien.Der Besitzer selbst steht links bei grossem Schranke, sich ein Schnapschen einschiittend.
+
+faltig ausgefihrt. Voll bezeichnet.
+
+Reich componirtes,interessantes Bild, bis in die kleinsten Details sorg-
+
+Holz. Hohe 61,Breite 5o Cent.
+
+## C. Wuttke, Dusseldorf.
+
+- mit Strandansicht, welches von der ausgedehnten, von kleineren Booten belebten See bespilt wird; den Vorgrund bildet das von Stein- und Felsblocken bestandene Ufer.
+- 230 Italienische Landschaft. Links Janggestrecktes Felsgebirge
+
+Hibsches Stimmungsbild von trefflichster Austihrung. Bezeichnet:
+
+Leinwand. Hohe 56,Breite 85 Cent.
+
+C.Wuttke Ddf.Amalfi.
+
+## A. Ziem, Paris.
+
+- grunde erstreckt sich lang hin die Stadt.
+- 231 Ansicht yon Venedig.Den ganzen Vor- und Mittelgrund nimmt das azurblaue Meer ein,das von Gondeln und zahlreichen Segelbooten und Barken belebt ist; im fernen Hinter-
+
+Schones,wirkungsvoll behandeltes Bild. Bezeichnet:Ziem.
+
+Leinwand. Hohe 37, Breite 7o1/2 Cent.
+
+## Marius Zival, Marseille.
+
+- 232 Hahnenkampf. Im Vorgrunde einer Landschaft kampfen buntgefiederter und weisser Hahn. Der letztere,bereits am Boden liegend,scheint ersteren, der sich wild auf ihn sturzt,besiegt. liegen als Zeichen des heftigen Kampfes die aus-
+- bei hohem windenumranktem Baume von dem Umher gerupften Federn.
+
+Mit grosser realistischer Naturwahrheit kraftig gemaltes, vortreffliches Bild.Bezeichnet. Leinwand. Hohe 116,Breite 98 Cent.
+
+## F. Zuber-Buhler, Paris.
+
+- 233 Kind im Grase liegend. Auf einem Rasenplatze liegt bei grossblatterigen Krautern nachlassig H hingestreckt ein kleines Madchen barfuss in Hemdchen und gelbem Rockchen,
+
+Reizendes,fein durchgefuhrtes Bild mit meisterlichem Ausdruck der kindlichen Unschuld.Bezeichnet:Zuber-Buhler.
+
+Leinwand. Hohe 25,Breite 34 Cent.
+
+## Ernst Hardt, Disseldorf.
+
+- 65a Italienische Villa mit Parkweiher. In einem Parke zwischen den hohen,breitkronigen Baumen liegt das nur in dem oberen Theile sichtbare Gebaude. An dem Ufer des davorliegenden Weihers mehrere Schwane.
+
+Vorziigliches Werk des hervorragenden Meisters, fein ausgefihrt in der Wiedergabe der andachtsvollen Morgenstimmung.
+
+Leinwand. Hohe 44,Breite 63 Cent
+## Aquarelle, Zeichnungen,gerahmte
+
+## Kupferstiche und Prachtwerke.
+
+## E.van Drielst, 1818.
+
+- 234 Winterlandschaft.Leicht hugelige,baumreiche,von mehreren In Tusch und Sepia vortrefflich ausgefihrte Zeichnung. Auf der Ruck-
+- Bauernhutten bestandene Gegend mit reicher Figurenstaffage. seite die Bezeichnung:E.van Drielst 1785.
+
+Hohe 34,Breite 49 Cent.
+
+Unter Glas in Rahmen.
+
+## C. Goebel, Minchen.
+
+- 235 Ansicht von Hallstadt. Blick auf Ort und See vom Kirch-
+- hof aus.
+
+Sonniges,reich staffrtes quarell. Voll bezeichnet.
+
+Hohe 37,Breite 54 Cent.
+
+## C. Hilgers.
+
+## 236 Jagd auf Seevogel.
+
+Genial entworfene Tusch- und Federzeichnung. Bezeichnet: C. Hilgers 72.
+
+Hohe 24,Breite 16 Cent.
+
+Unter Glas in Rahmen.
+
+## A. Schluter, Disseldorf.
+
+- 237 Landschaft mit Kirchgangern. Weit ausgedehnte,von einzelnen Baumen bestandene Landschaft,in welcher mehrere
+- Dorfbewohner in ihrem Sonntagsstaat zur Kirche ziehen.
+
+Vortrefflich ausgefihrtes Aquarell. Bezeichnet:A. Schliter Df.67.
+
+Hohe 24,Breite 30 Cent.
+
+Unter Glas in Rahmen.
+
+## Th. Schuz.
+
+- 238 Genrestick. Auf dem Hofe an einer Gartenmauer sitzt die alte Grossmutter,in der Bibel lesend, wahrend ein kleines Madchen mit dem in einem Wagelchen sitzenden Knabchen
+- spielt; dabei eine Katzenfamilie.
+
+Superb ausgefuhrte Kreidezeichnung. Bezeichnet: Th. Schiz. Hohe 25,Breite 2o Cent.
+
+Unter Glas in Rahmen.
+
+- 239 Die Begegnung.
+- Auf den Stufen eines bogenformigen Hausdurchganges Italiener und Italienerin im Gesprach.
+
+Prachtvolles Aquarell von meisterhafter Ausfuhrung. Bezeichnet.
+
+Carton.Hohe 74, Breite 53 Cent.
+## S. Simons, Rom.
+
+- 240 Ponte della Misericordia in Venedig. Die ganze Breite des Vorgrundes nimmt der von Gondeln und Booten belebte Canal ein, uber den sich zwischen Kirchen und anderen Ge-
+- bauden die holzerne Bricke wolbt.
+
+Prachtiges Aquarell von superber Technik. Bezeichnet. Carton. Hohe 63, Breite 8g Cent.
+
+- und Eva nach dem Sundenfalle.
+
+In Rahmen unter Glas.
+
+- 241 Et.Baudet. Adam D.Domenichino p. Andr.Hdb.I.roy.fol.Restaurirt.
+- 242 John Burnet. Blind Fiddler. Dav. Wilkie p. Sehr schoner Abdruck mit Rand. gr. qu. fol. In Rahmen unter Glas.
+- 243 T.W. Th. Janssen. Das Examen des Jobs. Hasenclever p.
+- Ap. 4. Neuer Abdruck aus Hanstein's Verlag. roy. qu. fol.
+- 244 Ch. Johannot. Le Trompette. Horace Vernet p.
+- Ausgezeichneter Abdruck mit Rand. gr. qu. fol. In Rahmen unter Glas.
+- 245 W. Krauskopf. Christus treibt die Handler aus dem Tempel. Frank Kirchbach p. Sehr schoner Abdruck mit dem radirten Kuinstlernamen. imp. qu. fol.
+- 246 Lecomte. Le chien du regiment. Horace Vernet p.
+- Sehr schoner Abdruck mit Rand. gr. qu. fol. In Rahmen unter Glas.
+- 247 J. M. Leroux.La Dame de Charite. Reich gekleidete Dame, einen kranken Alten besuchend. Mme. Haudebourt p.
+- 248 E. Fr.Lignon. La Naissance du Duc de Bordeaux. Fragonard p. Ap. 12.Vorziglicher Kinstlerdruck vor aller Schrift vor dem Stechernamen,der authographisch eingeschrieben. Chinesisches Papier mit zahlreichen Stichelproben. Sporfeckig. gr. qu.fol.
+- 249 A. Raimbach. Village Politicians. Dav. Wilkie p. Trefflicher Abdruck mit Rand. gr. qu. fol. In Rahmen unter Glas.
+- 250 Bibel, Die, das ist die ganze Heilige Schrift des alten und neuen Testaments nach Doctor Martin Luthers Uebersetzung. Mit Bildern der Meister christlicher Kunst. Hsgg. v. Rud.
+- Pfleiderer. Stuttgart 1892.
+- 3 goldgepresste Orig.-Halblederbande. fol.
+- 251 Cornelius, Peter von. Entwirfe zu den kunstgeschichtlichen Fresken in den Loggien der Kgl. Pinakothek zu Munchen. Gestochen von H. Merz. Mit Text von E. Forster. Leipzig 1875.
+
+Orig.-Pappband. qu. fol.
+
+- 252 Defregger-Album. Text von P. K. Rosegger. In Orig.-Leinwandmappe.fol.
+- 253 Deutsches Leben in Frieden und Arbeit. Prachtwerk.Bremen. Goldgepresster Orig.-Halblederband.fol.
+- 254 Friedrich,Woldemar. Sechs Monate in Indien. Jagd-und Reisebilder. Text von E. von Leipziger. Leipzig. Goldgepresster Orig.-Leinwandband. fol.
+- 255 Gustav Freytag-Galerie. Nach den Originalgemalden und Cartons der ersten Meister der Neuzeit. 2o Bll. mit begleit. Text. Photographiedruck v. W. Hoffmann. Jubilaums-Ausg. Dresden 1887.
+
+Orig.-Leinwandband. fol.
+
+- 256 Geselschap,F. Zehn Studienblatter in Lichtdruck. (Aus: Breslau 1888.
+
+In Orig.-Leinwandmappe. fol.
+
+- 257 Gritzner u. Hildebrandt. Soo Wappen der graflichen Fa milien Deutschlands, Oesterreich-Ungarns etc. Leipzig. In 4 Orig.-Halbleinwandmappen.40.
+- 258 Hamerling-Album. Hsgg. v. Rosegger. Mit Illustrationen in Lichtdruck nach Zeichnungen von G.Fessler. Orig.-Leinwandband.fol.
+- 259 Henne am Rhyn,Otto. Die Kreuzzige und die Cultur ihrer Zeit. Illustrirt von Gustav Doré. Leipzig 1884. Orig.-Leinwandband. fol.
+- 260 Hoefer,Edmund. Kistenfahrten an der Nord- und Ostsee. Illustrirt von G. Schonleber. Stuttg. 1899. Goldgepresster Orig.-Leinwandband. fol.
+- 261 Hofmann, Heinr. Zehn Studienblatter in Lichtdruck. (Aus: Studienmappen Deutscher Meister. Hsgg. v. J. Lohmeyer.) Breslau 1888.
+
+In Orig.-Leinwandmappe.fol.
+
+- 262 Kaulbach, F. A. v. Eine Auswahl von 3o Werkcn des
+- Kunstlers in Heliogravure und Phototypie. Munchen. Vorzigliches Prachtwerk in Orig.-Lederband mit Vergoldung. fol.
+- 263 Kinstlerheim. Festgeschenk fur Freunde der Kunst. 25 Ori-
+- ginal-Zeichnungen in Feder und Blei, Kreide und Kohle. Durch Lichtdruck veroffentlicht. 1. Sammlung. Munchen. In Orig.-Leinwandmappe.fol.
+- 264 Dasselbe Werk in 2. Sammlung.
+- 265 Dasselbe Werk in 3. Sammlung.
+- 266 Dasselbe Werk in 5. Sammlung.
+- 267 Meisterwerke in Kupferstichen und Radirungen. 25 Blatt nach Originalen von Raphael, Crespi, Meissonnier, Murillo, Hiddemann, Meyerheim, Meyer v. Bremen, Knaus, Vautier etc.11. Aufl. Berlin 1898.
+
+In goldgepresst. Orig.-Leinwandmappe. fol.
+
+- 268 Meyerheim,Paul. Zehn Studien-Blatter in Lichtdruck. (Aus: Studienmappen Deutscher Meister, hsgg. v. J. Lohmeyer). Breslau 1899.
+
+In Orig.-Leinwandmappe.fol.
+
+- 269 Passini, Ludwig. Zehn  Studien-Blatter in Lichtdruck. (Aus: Studienmappen Deutscher Meister, hsgg. v. J. Lohmeyer.) Breslau 1899. In Orig.-Leinwandmappe. fol.
+- 270 Plinzner, M. 20 cavalleristische Skizzen. Photogravure. Berlin 1899.
+
+In Orig.-Leinwandmappe. qu. fol.
+
+- 271 Psalter, Die. Allioli's Uebersetzung. Mit Orig.-Zeichnungen gefuhrt von Kaspar Oertel. Leipzig 1875.
+- von Joseph, Ritter von Fuhrich. In Holzschnitt ausGoldgepresster Orig.-Leinwandband. fol.
+- 272 Sinnen und Minnen. Eine Sammlung neuerer Gedichte. Mit 4 grossen Heliogravuren, sowie zahlreichen kleineren Illustrationen reich ausgestattet. Berlin 1899.
+
+In schonem,verziertem Leinwandprachtbande.4°
+
+- 273 Werner, Anton von.# Zehn Studienblatter in Lichtdruck. (Aus: Studien-Mappen Deutscher Meister, hsgg. von J. Lohmeyer.) Breslau 1899.
+
+In Orig.-Leinwandmappe. fol.
+
+- Oberon. Romantisches Heldengedicht in Illustrirt mit 2o grossen Holzschnitten und 20 kleineren im Texte nach Zeichnungen von Gabriel Max
+- 274 Wieland, C. M. 12 Gesangen. und Gustav Closs. Leipzig 1898.
+
+Orig.-Leinwandband mit Vergoldung. fol.

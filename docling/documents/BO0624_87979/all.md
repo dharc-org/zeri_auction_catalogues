@@ -1,0 +1,2618 @@
+## Verkaufsordnung
+
+1-211
+
+Donnerstag, den 26.Oktober nachmittags 3 Uhr Nr.
+
+Freitag, 27. ”” 3 ”” 212-515
+
+Samstag, 99 99 28. 66 99 3 66 66 516-SchluB.
+
+## Bedingungen.
+
+Die Sammlung ist in meinen Ausstellungssalen, HochstraBe 6668 von
+
+Sonntag.den 22. 0kt.,bis Mittwoch,den 25. 0kt.1911
+
+von 10-1 Uhr vormittags und von 2-5 Uhr nachmittags zur Besichtigung zuganglich.
+
+Die Auktion findet Donnerstag, den 26. Freitag, den 27.und Samstag, den 28. Okt. nachmittags 3 Uhr statt.
+
+Nur den mit Katalogen oder Einladungskarten versehenen Personen ist der Zutritt zur Besichtigung und zur Auktion gestattet. Bei ersterer wird den Besuchern die groBtmoglichste Vorsicht anempfohlen, damit kein Gegenstand in irgend einer Weise beschadigt wird. Jeder ist fur den von ihm angerichteten Schaden verantwortlich.
+
+Das geringste zulassige Gebot bis 10 M. ist 50 Pfg., von 10 M. aufwarts 1 M., von 50 M. aufwarts 5 M., von 100 M. 10 M. usw.
+
+Die Versteigerung geschieht gegen sofortige bare Zahlung. richten, wobei jede angefangene Mark fir voll gerechnet wird.
+
+AuBer dem Steigpreise hat der Ankaufer das ibliche Aufgeld von 10o/o fir jede Nummer zu ent-
+
+Die Gegenstande werden in dem Zustande verkauft, in dem sie sich befinden Durch die offentliche Ausstellung ist Jedermann Gelegenheit geboten, sich von dem Zustande der zur Versteigerung gelangenden Objekte zu unterrichten, Reklamationen wegen Beschadigung oder wegen irrtimlicher Angaben im Kataloge konnen daher nach erfolgtem
+
+Zuschlage keinerlei Bericksichtigung finden.
+
+Der Unterzeichnete behalt sich das Recht vor, Nummern zusammenzustellen oder zu teilen, auch die Nummernfolge zu unterbrechen.
+
+Solten iber den Zuschlag bei erfolgtem Doppelgebote Zweifel obwalten, so wird sofort die fragliche Nummer von neuem ausgeboten, um jedem Teile auf die unparteischste Weise zu begegnen.
+
+Die Ansteigerer sind gehalten, ihre Erwerbungen sofort nach der Auktion in Empfang zu nehmen und Zahlung dafir einschlielich des Aufgeldes zu leisten, widrigenfalls behalt sich der Unterzeichnete das Recht vor, die nicht entnommenen Gegenstande auf Kosten des Ansteigerers wieder zu verkaufen. Die Aufbewahrung bis zur Abnahme und Bezahlung geschieht mit gr8tmoglichster Sorgfalt, jedoch auf Gefahr des Kaufers. Alle Nachteile, welche daraus entstehen, daβ Gekauftes nicht sofort abgenommen wird, fallen dem Ansteigerer zur Last. An Auswartige erfolgt, wenn nicht andere Vereinbarungen getroffen sind, die Zusendung auf billigstem Wege auf Rechnung und Gefahr des Bestellers, unter Nachnahme des Betrages.
+
+Kaufauftrage werden von unterfertigter Firma streng reell ibernommen.
+
+AACHEN,im Okt.1911. Hochstrale 66-68. Pernruf 1019 :Gegrindet 1869.
+
+Ant. Creutzer vorm. M. Lempertz.
+
+Abteilung Kunsthandlung.
+## 1 Richtstatte.
+
+Raubvogel umschwarmen den Richtpfahl,an welchem noch die Seile von der letzten Hinrichtung hangen. Im Hintergrunde hohe Berge. Monogrammiert A. A. 1836.
+
+Schwarzer Rahmen.Leinwand. Hohe 30, Breite 43 cm.
+
+## Euphr. Beenaert
+
+tatig in Brissel.
+
+## 3 Sommeridyll.
+
+## 2 Landschaft am Kanal.
+
+Von Baumen und Strauchern eingefasst,zieht sich von der Mitte des Bildes zum Hintergrund ein Kanal. Dahinter wird ein Gehoft sichtbar. Bezeichnet.
+
+Goldrahmen.Holz. Hohe 35,Breite 50 cm.
+
+## G. Carneri
+
+Mailand.
+
+Am Ufer eines Sees unterrichtet ein Mann sein Kind im Angeln, die Mutter steht dahinter und sieht zu. Ein Ruderboot mit zwei Insassen nahert sich dem Ufer. Bezeichnet. Goldrahmen. Holz.Hohe 31, Breite 42 cm.
+
+## Ph. Dorner
+
+London.
+
+## 6 Am Waldbach.
+
+Auf einem von Wald eingesaumtem und stark mit Schilf bewachsenen Wasser ruht ein Kahn, in welchem ein Angler sitzt. Bezeichnet.
+
+Schwarzer Rahmen. Leinwand. Hohe 6l,Breite 62 cm.
+
+## Gemalde neuerer Meister.
+
+## Prof. Andr. Achenbach
+
+geb. 1815 in Cassel, 1910 zu Disseldorf.
+
+## 4 Tiroler Madchen mit Apfel.
+
+Auf dem Rasen sitzt ein Madchen im Miederrock, in der Rechten einen Apfel haltend. Bezeichnet. Goldrahmen. Holz.Hohe 28,Breite 21 cm.
+
+## 5 Rauchender Tiroler Bub.
+
+Auf einer Bank sitzt ein junges Birschchen, die Tonpfeife rauchend. Bezeichnet. Goldrahmen.Holz. Hohe 28,Breite 21 cm.
+
+## A. Haueisen.
+## 7 Stilleben.
+
+Vor dunklem Hintergrunde auf weilgedecktem Tisch verstreut liegende Aepfel, eine Steinkanne und ein Wasserglas. Bezeichnet. Siberrahmen. Leinwand. H. 41, Br. 50 cm.
+
+## 8 Stilleben.
+
+Gegenstick zu Vorigem. Vor einem umgefallenen Korbchen, neben welchem ein Messingkessel steht, verstreut liegende Pflaumen. Bezeichnet.
+
+Silberrahmen. Leinwand. Hohe 41,Breite 50 cm.
+
+## G. Hilbert.
+
+## 10 Tierstuck.
+
+## 9 Sumpfige Landschaft.
+
+Von der Mitte des Bildes flihrt zum Hintergrund durch sumpfiges Land ein einsamer Weg.Bezeichnet. Schwarzer Rahmen. Leinwand. Hohe 50, Breite 80 cm.
+
+## M. Hormuth-Kallmorgen
+
+geb. 1828 in Heidelberg.
+
+Links in einem Stall steht an der Krippe ein Schimmel, den Kopf zur Seite gewandt; daneben der Warter des Pferdes, der sich anscheinend mit diesem unterhalt. Monogrammiert M. H. K. Schwarzer Rahmen Holz.Hohe 37,Breite 46 cm.
+
+## Josse Impens
+
+geb. 1840 in Bruissel, 1900 daselbst.
+
+## 11 Die Kartenspieler.
+
+In einer Bauernstube sitzen um einen runden Tisch vier Bauern beim Kartenspiel. Wahrend der eine mit dem Zuschauer sein Spiel berat, warten die anderen gespannt. An der Wand rechts ein Kamin,auf welchem Blumentopfe und ein Kruzifix stehen.
+
+Goldrahmen. Holz.Hohe 46. Breite 57 cm.
+
+## J.Jungbluth
+
+Dusseldorf.
+
+## 12 Winterlandschaft.
+
+Ueber einen zugefrorenen Wasserlauf fuhrt ein Weg zu dem im Hintergrunde liegenden Hausern. Die untergehende Sonne wirft ihre letzten Strahlen auf das Eis. Bezeichnet J.Jungbluth. Schwarzer Rahmen. Holz. Hohe 28, Breite 35 cm.
+
+## 13 Hollandische Winterlandschaft.
+
+Rechts am Ufer eines zugefrorenen Wassers eine verschneite Ortschaft, drei Bauersfrauen iberschreiten das Eis. Bezeichnet J. Jungbluth.
+
+Schwarzer Rahmen. Holz. Hohe 35, Breite 26 cm.
+
+## August Herrmann Allgau
+
+tatig in Minchen.
+
+## 14 Hollandische Landschaft.
+
+Rechts am Ufer eines Wassers haben einige Boote festgemacht, dahinter liegt eine
+
+Ortschaft mit Windmihlen. Bezeichnet J. Jungbluth.
+
+Schwarzer Rahmen. Holz. Hohe 32,Breite 40 cm.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## 17 Hafenansicht.
+
+Zahlreiche Segelschiffe und Ruderboote beleben einen stark befestigten Hafen. Hintergrund ausgedehnte Hohenzige. Bezeichnet Ch. Kuwasseg.
+
+Im
+
+Schwarzer Rahmen. Leinwand. Hohe 24, Breite 32,5 cm.
+
+## Georg Macco
+
+geb. 1863 in Aachen, tatig in Dusseldorf.
+
+## 18 Wintersonne.
+
+Motiv bei Adelboden im Berner Oberland. Vor hohem schneebedeckten Gebirge mehrere Sennhitten. Grell beleuchtet die Wintersonne die weissen Plachen. Bez. und datiert 1902. Schwarzer Rahmen. Leinwand. Hohe 34,Breite 46 cm.
+
+## K.O.Matthaci
+
+Karlsruhe.
+
+## 21 Alpenlandschaft.
+
+## 22 Alpenlandschaft.
+
+## Professor Eugen Kampf
+
+geb. 1860 in Aachen, tatig in Dusseldorf.
+
+## 15 Feld mit Strohhocken.
+
+Rechts an einem von einer Pferdekarre belebten Landweg einige Bauernhitten, jenseits auf den herbstlichen Feldern mehrere Strohhocken. Stimmungsvolles Bild.
+
+Bezeichnet E. Kampi. Schwarzer Rahmen. Leinwand. Hohe 43, Breite 63 cm.
+
+## Professor Christ. Kroner
+
+geb. 1838 in Rinteln, tatig in Dusseldorf.
+
+## 16 Kampfende Hirsche.
+
+In der Lichtung eines Laubwaldes sind zwei Hirsche zusammengeraten, die einander mit den Geweihen bekampfen; unter den Baumen neugierig zuschauende Alttiere. Bezeichnet. Goldrahmen. Leinwand. Hohe 40, Breite 55 cm.
+
+## Charles E. Kuwasseg
+
+geb. 1830 in Draveil,  zu Paris.
+
+## 19 Auf der Dorfstrasse.
+
+Auf der Dorfstrasse vor niedrigen Bauernhausern steht der Lastwagen eines Koch- geschirrhandlers. Bezeichnet. Schwarzer Rahmen. Leinwand. Hohe 42, Breite 43 cm.
+
+## 20 Vor dem Dorfe.
+
+Am Rande eines Gemuisefeldes sitzen zwei spielende Kinder. Im Hintergrunde werden unter Baumen Bauerngehofte sichtbar. Schwarzer Rahmen. Leinwand. H.40, Br. 56 cm.
+
+## Munchener Schule
+
+.XIX. Jahrh.
+
+Links an einem von Dampfern und Booten belebten See eine Alphitte. Im Hintergrund die hohen Bergriesen Goldrahmen. Leinwand. Hohe 51. Breite 78 cm.
+
+## Munchener Schule.
+
+Zwischen hohen Bergen ein FluB, an dessen Ufer ein Dorf liegt.
+
+Schwarzer Rahmen. Holz. Hohe 9, Breite 20,5 cm.
+## 23 Winterlandschaft.
+
+Ein Flu windet sich um einen verschneiten Berg. Im Hintergrund beleuchtet die Sonne eine Ortschaft, dahinter ein bewaldeter Hohenzug.Bezeichnet.
+
+Schwarzer Rahmen. Leinwand. Hohe 77, Breite 104 cm.
+
+## A.Pick.
+
+## 24 Gebirgslandschaft in Karnten.
+
+Links der von Booten belebte Laaker-See, rechts von Waldern eingefalt. Dahinter erblickt man hohe, schneebedeckte Bergriesen.Bezeichnet.
+
+Goldrahmen.Leinwand. Hohe 48,Breite 80 cm.
+
+## J.van Poorten
+
+Holland.
+
+## 27 Mannerportrat.
+
+Brustbild eines alteren Herrn, den Beschauer anblickend. Der grinlich-blaue Rock mit schwarzem Pelzkragen. Ein Backenbart umrahmt das ausdrucksvolle Gesicht. Dunkler Hintergrund. Goldrahmen. Leinwand. Hohe 60,Breite 48 cm.
+
+## Leon Richet
+
+Fontainebleau.
+
+Im Vordergrunde breitet sich eine mit Gestripp bewachsene Waldlichtung aus, die nach dem Hintergrunde zu von einem hohen Eichenwald begrenzt wird. Der Himmel ist stark bewolkt.Bezeichnet Leon Richet. Goldrahmen.Leinwand. H.50,Br. 65 cm.
+
+## Louis Robbe
+
+tatig in Brigge.
+
+## 29 Tierstuck.
+
+Darstellung eines Schafes.
+
+Goldrahmen. Leinwand. Hohe 44, Breite 56 cm.
+
+## 30 Tierstuck.
+
+Fressende Kuh.
+
+Goldrahmen.Leinwand. Hohe 34,Breite 55 cm.
+
+## 28 Waldlichtung.
+
+## Professor Hans Petersen
+
+geb.1850 in Husum, tatig in Munchen.
+
+## 25 Motiv bei Dortrecht.
+
+Im Vordergrunde ein von Segelbooten belebter Kanal, an dessen Ufern mehrere Windmihlen stehen.Im Hintergrund Dortrecht. Bez.Goldrahmen. Leinwand. H. 35, Br.47 cm.
+
+## 26 Landschaft bei Delft.
+
+Ein Kanal fihrt an Hausern und einer Windmihle voriber, im Hintergrunde erscheinen die Tirme und Dacher Delfts. Gegenstick zu Vorigem.
+
+Goldrahmen. Leinwand. Hohe 35, Breite 47 cm.
+
+## Alfred Rethel
+
+geb. 1816 in Aachen, 1859 zu Dusseldorf
+- 31 Ueberraschte Wilderer.
+
+In einem bauerlichen Gemach sieht man vier aufgeregte Manner ein Wildschwein und einen Hasen durch eine geoffnete Palltire in den Keller bringen, wahrend eine Frau den Boden vom Blute reinigt. Durch die offene Tur sieht man zwei Forster sich dem Hause naheren. Bezeichnet C. Ruprecht 1842.
+
+Schwarzer Rahmen.Leinwand. Hohe 32, Breite 40 cm.
+
+## Caspar Scheuren
+
+geb.1810 in Aachen, 1887 zu Dusseldorf.
+
+- 32 Rheinlandschaft.
+
+Durch die hohen Berge des Hintergrundes flieBt der Rhein dem Vordergrunde zu,an dessen beiden Ufern Ortschaften sichtbar werden. Im Vordergrunde rechts ein befestigter Wachtturm. Goldrahmen. Kupfer. Hohe 16,Breite 25 cm.
+
+## Johann Georg Schutz
+
+geb. 1755 in Frankfurt a. M. 1813.
+
+- 33 Mainlandschaft.
+
+Rechts fihrt ein Weg zu einer auf der Anhohe liegenden Ortschaft, links im Tal ein Gehoft, vor dem ein Bauer das Feld bearbeitet. In der Ferne flieBt der von Schiffen belebte Main und dahinter eine Ortschaft.
+
+Goldrahmen.Leinwand. Hohe 23,Breite 36 cm.
+
+## Christian Sell
+
+geb. 1831 in Altona, 1883 zu Dusseldorf.
+
+- 34 Das Verhor.
+
+Am Rande eines Zeltlagers verhort der Kommandant einen von 2 Kriegern vorgefihrten und an den Handen gefesselten Bauern. Im Hintergrund Zelte und Krieger. Bezeichnet. C. Sell. 59. Goldrahmen. Leinwand. Hohe 48, Breite 64 cm.
+
+## J.M.Stack
+
+Stockholm.
+
+- 35 Mondscheiniandschaft.
+
+Rechts an einern Wasser ragt aus dem Geblisch eine Ruine hervor, an deren Fusse ein Boot festliegt. Bezeichnet. Goldrahmen.Leinwand. Hohe 33,Breite 45 cm.
+
+## Desire Thomassin
+
+Minchen.
+
+- 36 Am Strand.
+
+Am Strande hat man mit Pferden die Fischerboote hereingeholt. Fischer sind mit dem Ausladen derselben beschaftigt, rechts wird eine zweiradrige Pferdekarre beladen.
+
+Bezeichnet D. Thomassin. Schwarzer Rahmen. Holz. Hohe 17, Breite 26 cm.
+
+## Unbekannt
+
+Anfang XIX. Jahrh.
+
+- 37 Studienkopf.
+
+Frauenkopf in Profil.
+
+## C.Ruprecht
+
+Anfang d. XIX. Jahrh.
+## 38 Landschaft.
+
+In der Mitte fihrt iber einen Bach ein hoher Steg, auf welchem eine Bauersfrau sichtbar wlrd. Im Hintergrund eine Ruine. Schwarzer Rahmen. Lwd. H. 27,5 Br.21 cm.
+
+## Cornelius Wagner.
+
+## 39 Abend auf hoher See.
+
+Auf der hochgehenden See sucht ein Dampfer seinen Weg. Stark bewolkter Himmel. Bezeichnet Wagner 09. Schwarzer Rahmeu. Leinwand. Hohe 85, Breite 62 cm.
+
+## Gemalde alter Meister.
+
+## Antwerpener Meister
+
+1532.
+
+Aeltere Frau mit Haube und Muihlradkragen auf weiDe Kissen gebettet. Rechts neben dem Bett stehen auf einem Tisch Kruzifix, Weihwasserkessel und Kerze. Rechts oben AETATIS-SVAE-65. In Orign.-Rahmen mit niederdeutscher Inschrift und dem Datum 1532. Auf der Rickseite 2 mal eingebrannt des Zeichen der Lukasgilde (Hand) und eine undeutliche Meistermarke mit Buchstaben. Holz. H.44,5, Br. 57 cm. S.Abldg.
+
+## 40 Frauenportrat auf dem Totenbett.
+
+## Balthasar van der Ast
+
+geb.etwa 1600, 1658 in Delft.
+
+Auf einem Steinpostament steht eine steinerne Vase, welche reich mit Blumengehangen und Straussen dekoriert ist. Goldrahmen. Leinwand. Hohe 32, Breite 24 cm.
+
+## Cornelis de Baeilleur
+
+geb.in Antwerpen, 1671 daselbst.
+
+Rechts vor einem mit Gebisch bewachsenem Felsblock halt die Gottesmutter den Leichnam auf ihren Arm. Davor kniet Magdalena und kiBt die schlaffe Hand des Erlosers, weiter zurick steht der klagende Johannes in rotem Mantel. Im Hintergrunde Jerusalem. Monogrammiert C,B.fec. Schwarz. Rahm. Lwd. H. 100, Br. 140 cm.
+
+## 42 Die Beweinung Christi.
+
+## Ludolf Bakhuyzen
+
+geb. 1631 in Emden, 1708 zu Amsterdam.
+
+Auf hochgehender See sieht man im Vordergrunde einen groBen Dreimaster schaukeln, weiter zurick kampft ebenfalls ein Segler gegen die Wogen. Bewolkter Himmel.
+
+Schwarzer Rahmen. Holz. Hohe 45,Breite 48 cm.
+
+## 41 Blumenstilleben.
+
+## 43 Marine.
+
+## Unbekannt.
+## 44 Biblische Scene.
+
+Am Fusse schroff ins Meer fallender Felsen schreitet Christus auf den Wellen dem versinkenden Petrus entgegen. Links ein Fischerboot und im Hintergrund eine Ruine.
+
+## Hendrik van Balen
+
+geb.1575 in Antwerpen,  1632 daselbst.
+
+Schwarzer Rahmen. Leinwand. Hohe 52,5 Breite 109 cm.
+
+## Claas Pieters Berchem
+
+geb. 1620 in Haarlem, 1683 zu Amsterdam.
+
+## 45 Tierstick.
+
+Drei Kuihe auf der Weide. Im Hintergrund Gebirgslandschaft.
+
+Goldrahmen.Leinwand. Hohe 35, Breite 54 cm.
+
+## Dominicus Bertetoni
+
+um 1682.
+
+## 46 Christi Geburt.
+
+Copie des Ruben'schen Bildes aus dem ehemal. Kapuzinerkloster in Aachen. In einer Felsenhohle liegt auf Stroh und weiDen Windeln das Kindlein. Links kniet die Gottesmutter und rechts bewundern die herbeigeeilten Hirten das Kind. Oben erscheinen mehrere Engelchen. Schwarzer Rahmen. Leinwand. Hohe 39,Breite 31 cm. Vergl. Pick,Aus Aachens Vergangenheit, S. 89.
+
+## Abraham Hendriksz Beyeren
+
+geb.1621 im Haag,  1674 zu Alkmaar.
+
+## 47 GroBes Stilleben.
+
+Auf einem Tisch mit zurickgeschobener Decke liegen bunt durcheinander Meerettich, Zwiebel, Kohlkopfe,Gefligel etc. Rechts davon ein Morser und zwei gefuillte Weinglaser. Goldrahmen.Leinwand. Hohe 77, Breite 96 cm.
+
+## Jacques Cornel. Biltius
+
+geb. wahrsch. im Haag, nach 1678.
+
+## 48 Stilleben.
+
+Auf hellem Hintergrund hangen an einem Nagel mehrere Fallen mit gefangenen
+
+Vogeln. Bez. Cornelius Biltius f. anno 1670. Schwarz. Rahm. Lwd. H. 56, Br.44 cm.
+
+## Ferdinand Bol
+
+geb. 1616 in Dortrecht, 1680 zu Amsterdam.
+
+## 49 Mannerportrat.
+
+Brustbild eines Edelmannes in schwarzem Wams mit weibem Kragen. Schwarzes, lockiges Haar umrahmt das den Beschauer anblickende Giesicht.
+
+Schwarzer Rahmen.Leinwand. Hohe 70, Breite 52 cm.
+
+## Adrian Brouwer?
+
+geb.1605, Oudenaerde,十1638 zu Antwerpen.
+
+## 50 Interieur.
+
+In einem dunklen Raume sind links an einer Wand Fasser, Kibel, kupferne Geschirre etc. aufgestapelt, rechts im Hintergrund erblickt man zwei rauchende Bauern.
+
+Schwarzer Rahmen. Holz. Hohe 23, Breite 3l cm.
+## 53 Raucherscene.
+
+Drache. Schwarzer Rahmen.Holz.Hohe 77,Breite 104 cm.
+
+## Jan Brueghel d. Ae.
+
+geb. 1568 in Brissel,  1625 zu Antwerpen.
+
+- 51 Landschaft mit Schaferscenen.
+
+Im Vordergrunde Schaferinnen mit einer Schafherde, dahinter, jenseits eines Weihers, tanzen Bauern auf einer Waldwiese einen Reigen.
+
+Schwarzer Rahmen. Holz. Hohe 25,Breite 32 cm.
+
+## 52 Winterlandschafl mit Flucht nach Aegypten.
+
+Auf einem von Bauernhuitten umsaumtem zugefrorenen Kanal tummeln sich Schlitt- schuhlaufer. Links ein Wald,aus dem die hl. Familie heraustritt.
+
+Goldrahmen. Holz. Hohe 21, Breite 29 cm. Siehe Abbildung.
+
+## Art des Hollenbrueghel
+
+XVI. Jahrh.
+
+In einem Gemache sitzt ein alter Mann,eine lange Tonpfeife rauchend.Vor ihm,auf einem Tisch mit Trink- und Rauchutensilien,sitzt ein rauchender Affe, der seinem Herrn den Fidibus reicht.Durch ein geoffnetes Fenster im Hintergrunde erscheint ein
+
+## Brisseler Meister d. weibl. Halbfiguren
+
+tatig um 1530.
+
+## 54 Madonna mit Kind.
+
+Halbfigur der Gottesmutter in blauem Gewand und rotem faltenreichen Mantel, auf dem blonden Haar turbanartig ein weiDesKopftuch tragend. Vor ihr sitzt auf blauem Kissen das unbekleidete Jesuskindlein,welches in einem hingehaltenen Buch blattert.
+
+Schwarzer Rahmen.Holz.Hohe 26, Breite 21 cm,
+
+## Annibale Carracci
+
+geb.1560 in Bologna, 1609 zu Rom.
+
+Liegender Silen umgeben von vier spielenden Putten mit Trauben, WeingefaBen etc.
+
+## 55 Bacchanal.
+
+Dunkler Hintergrund. Holzgeschnitzter Rahmen.Marmor. Hohe 36, Breite 39 cm.
+
+## Giovanni Benedetto Castiglione
+
+geb.1616 in Genua, 1670 zu Mantua.
+
+## 56 Landschaft bei Gewitter.
+
+Im Vordergrund wird eine Schafherde vom Sturme bei aufgehendem Gewitter iberrascht; dahinter erblickt man auf einer Anhohe ein Schlo. Stark bewolkter Himmel.
+
+Goldrahmen.Leinwand. Hohe 60,Breite 97 cm.
+
+## Jean Baptiste Simeon Chardin
+
+geb.1699 in Paris,1779 daselbst.
+
+in gelbem perlenverzierten Barett mit roten Federn,und braunem ausgeschnittenen Gewande mit weilen Aermeln. Mit der Linken halt es eine Taube.
+
+Goldrahmen.Leinwand.Hohe 60,Breite 50 cm.
+
+## 57 Junges Madchen mit Taube
+- 58 Stilleben.
+
+Auf einer bedeckten Tischecke steht ein hoher, halbgefuillter Weinromer, in dem und zu beiden Seiten ein Brot, Messer und zwei Aprikosen. Dunkelbrauner Hintergrund.
+
+Goldrahmen. Holz. Hohe 62, Breite 45 cm. Siehe Abbildung.
+
+## Gonzales Coques
+
+geb.1618 in Antwerpen, 1684.
+
+- 59 Portrat des Malers C. Huysmans.
+
+In einer Saulenhalle, vor einer gerafften roten Portiere steht der Kinstler und weist mit der Rechten auf ein Gemalde, eine auDerst fein ausgefuihrte Landschaft.
+
+Schwarzer Rahmen. Holz. Hohe 38,Breite 30 cm.
+
+## Michael Coxcie
+
+geb.1499 in Mecheln, 1592 das.
+
+- 60 Madonna mit Kind.
+
+Halbfigur der Gottesmutter in einer Landschaft sitzend. Auf ihrem SchoB halt sie das trinkende Jesuskind. Seine Gespielen sehen der lieblichen Scene zu.
+
+Goldrahmen. Holz. Hohe 4l,Breite 30 cm.
+
+## Lukas Cranach d. Ae.
+
+geb.1472 in Kronach,+ 1553 zu Weimar.
+
+- 61 Luther auf dem Totenbette.
+
+Brustbild des Reformators im Chormantel auf einem Bettkissen liegend.
+
+Goldrahmen. Holz. Hohe 41, Breite 30 cm.
+
+## Aelbert Cuyp
+
+geb.1620 in Dortrecht,  1691 daselbst.
+
+- 62 Stilleben.
+
+Aus einem Korbchen rollen eine Menge Weintrauben mit herbstlich gefarbtem Laub auf eine Tischplatte. Rechts oben flattert ein Schmetterling. Monogrammiert A. C.
+
+Goldrahmen. Holz. Hohe 46, Breite 80 cm. Siehe Abbildung.
+
+## Deutscher Meister
+
+XVI. Jahrh.
+
+- 63 Kreuztragung Christi.
+
+Im Vordergrunde ist Christus unter dem Kreuz niedergesunken und wird von einem Kriegsknecht geschlagen. Links knien die hl. Frauen.Im Hintergrund ein langer Zug Volk und Krieger zu Pferde, dahinter Jerusalem. Eichenrahmen. Holz.H. 50, B.31 cm.
+
+## Deutsche Schule
+
+XVIll. Jahrh.
+
+- 64 Ecce homo.
+
+Brustbild des dornengekronten Heilands in rotem Gewand.
+
+Schwarzer Rahmen. Holz. Hohe 36, Breite 26 cm.
+
+## Pieter Claesz
+
+geb. um 1590 in Burgsteinfurt,  1661 zu Haarlem.
+
+## 65 Spielende Putten in Landschaft.
+
+Vier Putten vergnigen sich mit Seifenblasenspiel. Goldrahmen. Leinwand. H. 65,B.51 cm.
+## 69 Kreuzabnahme.
+
+## Christ. Wilh. Ernst Dietricy
+
+geb.1712 in Weimar, gestorben 1774 in Dresden.
+
+- 66 Abschied des hl. Petrus von Paulus.
+
+Vor einer Stadtmauer sind Kriegsknechte mit dem Aufrichten des Marterkreuzes beschaftigt, andere sind im Begriff Petrus Fesseln anzulegen. Von oben schwebt ein Engel mit einer Dornenkrone in der Hand hernieder.
+
+## 67 Gaukler mit Hunden.
+
+In der Mitte auf einem Tisch vier Hunde,welche von einem buckligen Gaukler dirigiert werden. Links sitzt ein Dudelsackpfeifer und rechts drei Zuschauer.
+
+Goldrahmen. Leinwand. Hohe 52,Breite 32 cm. Siehe Abbildung.
+
+Schwarzer Rahmen. Leinwand. Hohe 70,Breite 114 cm.
+
+## Simon van der Does
+
+## 68 Landschaft am Wasser.
+
+geb.1653 in Amsterdam, 1717 im Haag.
+
+Von der Mitte bis zum Hintergrund zieht sich ein Wasser, an dessen linkem Ufer, an
+
+Goldrahmen. Holz.Hohe 50, Breite 65 cm.
+
+einem belebten Wege eine Reihe Hauser stehen. Rechts fuihrt ebenfalls unter hohen Baumen ein schmaler Weg an einer Bauernhitte vorbei. Bewolkter Himmel.
+
+## Cornelis Engelbrechtsen
+
+geb.1468 in Leiden, 1533.
+
+Im Vordergrunde einer bergigen Landschaft erheben sich die drei Marterkreuze. Davor halt mit Tuchern Joseph von Arimathia den Leichnam Christi zu dessen PuBen Maria Magdalena kniet. Zur Seite steht die klagende Gottesmutter und dahinter auf einem Felsblock Johannes, dessen roter Mantel vom Sturm bewegt wird. In der Ferne blickt man auf die Hauser Jerusalems. Kostuimlich interessantes, farbenprachtiges Gemalde. Goldrahmen. Holz. Hohe 46, Breite 35 cm. Siehe Abbildung.
+
+## Englischer Meister
+
+XVIll. Jahrh.
+
+Brustbild eines ordengeschmickten Herrn in Pelzmantel. Dunkler Hintergrund. Schwarzer Rahrmen. Leinwand. Hohe 36, Breite 29 cm.
+
+## Allaert van Everdingen
+
+geb. 1621 in Alkmaar,  1675 zu Amsterdam.
+
+Im Vordergrunde schaukeln auf der leicht bewegten See zwei groJe Segler und mehrere kleine Boote. Die gebirgige Kuste im Hintergrund ist stark befestigt. Auf den Hohen werden hinter den Mauern Hauser sichtbar. Schwarzer Rahmen. Holz. H. 30, Br. 45 cm.
+
+## Nachahmer Jan van Eycks
+
+- 72 Bildnis Christi, des Konigs der Konige.
+
+XV.Jahrh.
+
+Vor dunklem Hintergrund erscheint das von dunkelrotem Haupt- und Barthaar umrahmte Gesicht des Heilandes von einem Strahlenschein umgeben. In der Mitte des Bildes griechische Buchstaben. Schwarzer Rahmen. Holz. Hohe 36, Breite 26 cm.
+
+## 70 Herrnportrat.
+
+- 71 Hafenansicht.
+## 73 Christen-Verfolgung.
+
+## 74 Susanna im Bade.
+
+Neben einem Brunnen die in Schleier gehillte Susanna von den beiden Alten bedrangt.
+
+Goldrahmen. Holz.Hohe 21,Breite 36 cm.
+
+## Flamischer Meister um l52o.
+
+## 75 Pieta.
+
+Vor dem Kreuz sitzt die Gottesmutter, auf ihrem SchoJe den nackten Leichnam Christi haltend, schmerzbewegt blickt sie ihm ins Antlitz. Rechts steht Magdalena und links Johannes,in der erhobenen Rechten die Dornenkrone zeigend.
+
+Goldrahmen. Holz.Hohe 46,Breite 58 cm.
+
+## Flamischer Meister
+
+XVIll. Jahrh.
+
+- 76 Der hl. Hieronymus in der Wuiste.
+
+Vor einem Felsen, an dem ein Kruzifix hangt, kniet der Heilige in andachtigem Gebet.
+
+Rechts liegt auf zwe1 Folianten ein Totenkopf. Geschnitzter Rahmen. Holz. H.48,B.35 cm.
+
+- 77 Ecce homo.
+
+Halbfigur des gefesselten Erlosers,auf dem Haupte eine Dornenkrone tragend. Um die Huften tragt er ein Lendentuch. Hinter ihm zwei Manner mit dem Spottmantel.
+
+Schwarzer Rahmen. Holz. Hohe 38, Breite 27 cm.
+
+## Franz Floris
+
+geb. 1517 in Antwerpen,  daselbst.
+
+- 78 Allegorie auf die bildenden Kunste.
+
+In einer von Bergen eingeschlossenen Landschaft erblickt man im Vordergrunde auf einem Postament eine hohe Hermes-Statue. Links davon ein Maler mit Staffelei und ein Bildhauer, rechts im Vordergrunde sitzen zwei Gelehrte mit Bichern.
+
+Goldrahmen.Leinwand.Hohe 92, Breite 68 cm.
+
+## Frans Frankend. J.
+
+geb. 1581 in Antwerpen,  1642 daselbst.
+
+- 79 Kreuztragung Christi.
+
+Christus in grinem Kleid mit rotem Mantel ist unter der Last des Kreuzes niedergesunken. Drei Henkersknechte sind ihm beim Aufrichten behilflich.
+
+Goldrahmen. Kupfer. Hohe 19. Breite 15 cm.
+
+## Melchior Feselen
+
+geb.in Passau,  1538 zu Ingolstadt.
+
+Im Vordergrunde sitzt auf einem reichen Thronsessel,umgeben von seinen Kriegern, ein romischer Kaiser. Von rechts werden ihm die entkleideten Christen durch Landsknechte zur Verurteilung vorgefihrt. Der Hintergrund wird durch einen Wald abgeschlossen,an dessen Baumen die Verfolgten aufgeknipft werden. Am Himmel erscheint Gott Vater umgeben von Engelskopfen.
+
+Schwarzer Rahmen. Holz. Hohe 54,Breite 59 cm.
+
+## Flamischer Meister
+
+XV.Jahrh.
+## 80 Heilige Familie.
+
+## Franzosischer Meister
+
+um 1700.
+
+In einem Park sitzt die Gottesmutter vor einer Saule und halt das schlafende Jesuskind auf ihrem Schobe. Hinter der Gruppe steht Josef, mit der linken Hand einen Korb haltend,und links neben Maria kniet der kleine Johannes. Links oben erscheinen zwei Engelkopfchen. Goldrahmen.Leinwand. Hohe 78,Breite 64 cm.
+
+## Aert de Gelder
+
+geb.1645 in Dortrecht, 1727 daselbst.
+
+Links auf weiDen Tichern von zwei Mannern und einer Frau unterstitzt, erhebt sich der ins Leben zurickgerufene Lazarus. Rechts stehen mit erhobenen Handen Christus und ein Juinger. Goldrahmen.Kupfer.Hohe 13,Breite 17 cm.
+
+- 81 Auferweckung des Lazarus.
+
+## 82 Scene aus der hl. Schrift.
+
+Christus umgeben von seinen Juingern ein Gleichnis deutend.
+
+Goldrahmen. Kupfer. Hohe 13,Breite 17 cm.
+
+## Thomas Girtin.
+
+geb. 1773 in London, 1802 daselbst.
+
+Im Vordergrund haben viele Seegelboote festgemacht, dahinter fuihrt eine steinerne Bricke zu der am jenseitigen Ufer liegenden Stadt.
+
+Goldrahmen.Leinwand. Hohe 30,Breite 47 cm.
+
+## Jan van Goyen
+
+geb. 1596 Leiden,  1656 im Haag.
+
+Im Vordergrunde schaukeln auf der leicht bewegten See drei grole Segelkutter, auf welchen die hollanaische Flagge weht. Der Kutter rechts ist am Steuerdeck reich verziert. Am Horizont wird die Kiste mit einer Stadt sichtbar.
+
+Goldrahmen. Holz. Hohe 57, Breite 82 cm.
+
+## Francesco Guardi
+
+geb. 1712 in Venedig,  1793 daselbst.
+
+Links an der Kiste hinter einem Tor und einem hohen Bauwerk ein Monument von
+
+Goldrahmen. Leinwand. Hohe 54, Breite 68 cm.
+
+## 83 FluBlandschaft.
+
+## 84 Marine.
+
+## 85 Italienischer Hafen.
+
+einem Adler bekront. Auf dem freien Platze vor dem Tore reiche Figurenstaffage. Rechts auf dem Wasser erblickt man drei grosse Segler, Bewolkter Himmel.
+
+## Jan Davidz de Heem
+
+geb. 1606 in Utrecht,  1683 zu Antwerpen.
+
+Auf einer Steinplatte malerisch um eine Delfter Schussel ausgebreitet, Weintrauben mit Laub, Melonen, Aepfel, Citronen etc. Vorne auf einem Zinnteller ein Krebs und dahinter zwei Weinglaser. Bez. J. D.De Heem. Goldrahmen. Holz. H. 12,5,Br. 17 cm.
+
+## 86 Fruchte Stilleben.
+- 87 Frichte Stilleben.
+
+Trauben, Pfirsische, Kirschen, Pflaumen und Birnen, welche neben einem Glas und Krug liegen,heben sich wirkungsvoll von dem dunkelgrinen Hintergrund ab, Bez.
+
+Goldrahmen. Leinwand. Hohe 56, Breite 73 cm.
+
+## Jan van Huijsum
+
+geb. 1682 in Amsterdam, 1749 daselbst.
+
+- 88 Blumenstilleben.
+
+dunklen Hintergrund abheben
+
+- 89 Blumenstilleben.
+
+Ein groJer StrauB bunter Blumen in einer Vase hibsch arrangiert, steht auf der Ecke einer Bristung. Dunkler Hintergrund. Gegenstuick zu Vorigem.
+
+Schwarzer Rahmen. Leinwand. Hohe 7l, Breite 49 cm.
+
+## Jacob Jordaens
+
+geb. 1593 in Antwerpen,↑ 1678 daselbst.
+
+Links unten auf einer Blume ein Falter.
+
+Schwarzer Rahmen. Leinwand. Hohe 71,Breite 49 cm.
+
+- 90 Mannerkopf
+
+Brustbild eines alten Mannes in dunklem Wams. Das ausdrucksvolle Gesicht um- rahmt ein grauer, langer Bart, das graue Kopfhaar walt bis zum Nacken herab.
+
+Schwarzer Rahmen. Leinwand. Hohe 54, Breite 42 cm.
+
+- 93 Maria Heimsuchung.
+
+Im Vordergrunde vertraut sich die hl. Maria der Elisabeth an, beide stehen in inniger Umarmung. Rechts auf der Freitreppe eines Hauses begriben sich der hl. Josef und Zacharias. Im Hintergrund wird eine gebirgige Landschaft mit einer Orischaft sichtbar. Bewolkter Himmel. Goldrahmen. Leinwand. Hohe 35, Breite 28 cm. Siehe Abbildung.
+
+## Jan Davidz de Heem
+
+geb. 1606 in Utrecht,十 1683 zu Antwerpen.
+
+- 91 Das Familienkonzert.
+
+An dem reich besetzten Tisch sitzt links in einem Lehnstuhl der aus einem Buche vorsingende Vater. Die auf der anderen Seite sitzende Mutter, Tochter und zwei Enkel begleiten ihn teils singend, teils Fiote spielend. Im Hintergrund erscheint ein Dudelsackblaser. Schwarzer Rahmen. Leinwand. Hohe 46, Breite 61 cm. Siehe Abbildung.
+
+## Adriaen Isenbrant
+
+geb. ？,+ 1510 zu Brigge.
+
+## 92 Maria mit Kind in Landschaft.
+
+Auf einem mit Blumen bestandenen Rasen sitzt Maria in blauem Gewand und rotem Mantel. In ihrem rechten Arm halt sie das Jesuskind, dem sie die Brust reicht.
+
+Rechts ein Bach mit Baumen und links ein Dorf und Gebirge.
+
+Geschnitzter Rahmen. Holz. Hohe 33,5 Breite 24 cm.
+
+## Italienische Schule
+
+2.Halfte des XVI. Jahrh.
+## 94 Madonna.
+
+Kopftuch. Die Hande sind zum Gebet gefaltet und ihr Haupt hat sie andachtig zur Seite geneigt. Goldrahmen. Leinwand. Hohe 63, Breite 47 cm.
+
+## Italienischer Meister
+
+XVIl. Jahrhundert.
+
+Kniestick der Gottesmutter in rotem Gewand und lang herabwallendem blauen
+
+## 95 Madonna mit Kind.
+
+Kniebild der Gottesmutter in rotem Kleid mit gruinem Mantel. Auf dem rechten Arm tragt sie das Jesuskindlein, welches die Linke segnend erhoben hat und in der rechten
+
+Hand ein Buch halt. Dunkler Hintergrund. Schwarzer Rahmen. Holz. H. 105,Br. 77 cm.
+
+## Italienischer Meister
+
+XVIl. Jahrh.
+
+Am Rande eines Waldes hat sich die heilige Familie zur Ruhe niedergelassen. Bewolkter Himmel. Schwarzer Rahmen. Leinwand. Hohe 32, Breite 38 cm.
+
+## Italienische Schule
+
+XVIl. Jahrh.
+
+Venus in rotem Gewand kniet klagend neben dem toten Adonis. Abendstimmung. Goldrahmen.Leinwand. Hohe 45,Breite 62 cm.
+
+## Italienische Schule
+
+XVIll. Jahrh.
+
+An der rechten Seite eines schmalen Kanals liegt an einem freien Platze eine Kirche und ein Monument mit Reiterstandbild. Davor mehrere Personen in malerischer Tracht.
+
+Schwarzer Rahmen. Leinwand. Hohe 63, Breite 98 cm.
+
+## Willem Kalf
+
+geb.1612 in Antwerpen, 1680 daselbst.
+
+Auf einer Tischplatte liegen in malerischem Durcheinander um einen hohen, reich getriebenen silbernen Pokal, Trauben, angeschalte Zitronen und eine Pfeife mit Tabak. Rechts vor einem Totenkopf eine Sanduhr und ein halbgefilltes Weinglas, weiter werden zur Halfte noch ein Globus,Violine, Flote und Noten sichtbar. AeuJerst fein kombiniertes Bild. Goldrahmen.Leinwand. Hohe 76,Breite 74 cm.
+
+## Jan van Kessel
+
+- 100 Tafel mit allerlei Tieren.
+- 96 Ruhe auf der Flucht.
+- 97 Venus und Adonis.
+
+## 98 Ansicht von Venedig.
+
+- 99 GroBes Stilleben.
+
+geb. 1612 in Antwerpen,  1679 daselbst.
+
+Auf hellem Hintergrund auBerst naturgetreue Darstellung von 62 verschiedenen Tieren, wie exotischen Vogeln, Schlangen, Froschen, Mausen, Raupen, Schildkroten etc.
+
+Schwarzer Rahmen. Holz. Hohe 47, Breite 62 cm. Siehe Abbildung.
+## 101 Damenportrat.
+
+## Sir Godfrey Kneller
+
+geb.1646 in Libeck,+ 1723 zu London.
+
+Brustbild einer jungen Dame in ausgeschnittenem, mit Spitzen besetzten Kleid,woriber sie ein rotes Umschlagtuch tragt. Das den Beschauer anblickende Gesicht wird von herabwallendem blonden Lockenhaar umrahmt. Goldrahmen.Lwd.H.76,Br.63 cm.
+
+## Pieter van Laar (gen. Bamboccio)
+
+- 102 Kichen-Interieur.
+
+geb. 1582 in Haarlem,  1642.
+
+Rechts hangt in einer d dunklen Kiche an der Wand ein geschlachtetes Schwein.
+
+Links vor einem Herd ist eine Menge kupferner Kessel, Flaschen und Frichte aufgehauft,dahinter wird der Koch und eine Frau,welche eine Kostprobe macht, sichtbar. Goldrahmen.Leinwand. Hohe 46,Breite 64 cm.
+
+## Nikolas de Largilliere
+
+geb.1656 in Paris. 1749 daselbst.
+
+- 103 Portrat des Prinzen Eugen von Savoyen.
+
+Brustbild fast en face. Ueber der glanzenden Ruistung tragt er einen roten mit Hermelin besetzten Sammetmantel und eine reiche goldene Kette. Das den Beschauer anblickende Gesicht wird von einer Allongepericke umrahmt.
+
+Schwarzer Rahmen. Leinwand. Hohe 80, Breite 65 cm. Siehe Abbildung.
+
+## Pieter Lastmann
+
+geb. 1583 in Amsterdam, 1633 daselbst.
+
+- 104 Anbetung der hl. Konige.
+
+In einer Ruine sitzt rechts im Vordergrunde Maria, das Jesuskindlein auf dem Scho haltend, hinter ihr der hl. Joseph. Vor der Gottesmutter knien die hl. drei Konige und hinter diesen auBer den Geschenktragern,viele Neugierige. Durch die hohe
+
+Eingangstir gewahrt man im Hintergrunde die Hauser Bethlehems.
+
+Holz. Hohe 51,Breite 40,5 cm.
+
+## Lukas von Leyden (Schule)
+
+- 105 Zwei Flugel mit weibl. Heiligen.
+
+Kniesticke in Landschaft. In den Handen halten sie ein Buch.
+
+Schwarzer Rahmen. Hohe 46,5, Breite 18 cm.
+
+## Johannes Lingelbach
+
+geb.1622 in Frankfurt, 1674 zu Amsterdam.
+
+- 106 Schlachtenscene.
+
+Im Vordergrunde tobt zwischen Reitern wildes Handgemenge, dahinter Feuergefecht zwischen Infanterie. Im Hintergrunde eine befestigte Stadt und Gebirgszige. Blauer, stark bewolkter Himmel. Schwarzer Rahmen,Leinwand. Hohe 61, Breite 79 cm.
+
+## Lombardische Schule
+
+XVIl. Jahrh.
+
+Vor einer Treppe mit reichem Gelander die zu einer Balustrade hinauf fuhrt, sitzen Christus und die beiden Juinger an gedecktem Tische. Jesus bricht mit der linken Hand das Brot und segnet es mit der Rechten. Hinter und vor dem Tisch ser-
+
+Goldrahmen. Leinwand. Hohe 51. Breite 36 cm.
+
+- 107 Christus und die Jinger zu Emaus. vierende Knaben.
+## 108 Hl. Hieronymus.
+
+## Quentin Massijs Schule.
+
+In einer Saulennische unter einem Altarbild sitzt der mit rotem Tuch bekleidete
+
+Schwarzer Rahmen. Holz. Hohe 26,5, Breite 26,5 cm,
+
+Heilige und schreibt in ein Buch. Rechts durch das Fenster Ausblick auf eine Stadt und Gebirgslandschaft. Links durch die offene Haustire gewahrt man eine Ruine. An der rechten Saule hangt der Kardinalshut und vor der Linken ruht der Lowe
+
+## Meister von Cappenberg
+
+tatig in Westfalen Anf. XVI. Jahrhundert.
+
+Zwischen den beiden Schachern in der Mitte der tote Christus am Kreuz, umgeben von Kriegsvolk und den hl. Frauen. Im Vordergrunde links die Mutter des Herrn, vor Schmerz niedergesunken und gehalten von Johannes. Dahinter steht der blinde Longinus, der mit Unterstitzung eines Knappen die Seite des Herrn geofnet hat und zwei hl. Frauen. Unter dem Kreuz steht in reicher Ristung der romische Hauptmann und neben diesem die Kriegsknechte, Schergen und Volk und die Trager zweier Standarten mit flatternden,hellroten Wimpeln.Im Hintergrund Landschaft mit Ansicht einer Stadt. Goldrahmen. Holz. Hohe 6l, Breite 47 cm. Siehe Abbildung.
+
+## Meister des Todes der Maria
+
+## 110 Madonna mit Kind.
+
+## 111 Frauenbildnis.
+
+Maler des XVI. Jahrhunderts.
+
+Die Madonna ist gesenkten Blickes dargestellt. Vor grinem Hintergrund mit gerafften Portieren sitzend. Mit ihrer Linken reicht sie dem auf dem rechten Arm ruhenden nackten Jesuskinde die entbloBte Brust. Ihr schlicht gescheiteltes blondes Haar ist von einem braunen Kopftuch umrahmt.S Sie tragt ein rotes Kleid und dariber einen dunkelgrauen Mantel. Vor ihr auf einer Steinbristung eine Vase mit Lilien, ein aufgeschlagenes Buch, Kirschen und Aepfel. Goldrahmen.Holz. Hohe 56, Breite 42 cm.
+
+## Pieter Mierevelt
+
+geb. 1596 in Delft, 1623 daselbst.
+
+Brustbild einer jungen Frau nach links.
+
+Sie tragt eine Spitzenhaube und groben Muhlsteinkragen. Dunkler Hintergrund. Schwarz. Rahm.Lwd. H.49,Br.38 cm.
+
+## Pierre Mignard d. Ae.
+
+geb. 1612 in Troyes, 1695 zu Paris.
+
+Brustbild eines altern Herrn den Beschauer anblickend. Er tragt einen dunklen Rock mit Jabot. Das charakteristische Gesicht wird von einer weilen AllongePerricke umrahmt. Dunkler Hintergrund.
+
+Schwarzer Rahmen. Leinwand. Hohe 80, Breite 66 cm. Siehe Abbildung.
+
+## Nicolaes Molenaer
+
+geb. um 1626in Haarlem, 1676 daselbst.
+
+Rechts zieht sich an einer Stadtmauer ein Flu hin, auf dessen Eis sich Manner und Frauen beim Schlittschuhlaufen und Schlittenfahren vergnigen. In der Ferne eine Stadt.
+
+Schwarzer Rahmen. Holz. Hohe 26, Breite 51 cm.
+
+## 109 Calvarienberg.
+
+## 112 Herrnportrat.
+
+## 113 Winterlandschaft.
+- 117 Heilige Familie.
+
+Maria hat das Jesuskind aus dem Tragkorb genommen und halt es liebevoll auf den Knien. Links hinter dem Korb steht der hl. Joseph. Im Hintergrund ein zwischen
+
+Saulen gezogener Vorhang. Goldrahmen. Leinwand. Hohe 76, Breite 73 cm. Siehe Abbildung.
+
+## Niederlandischer Meister
+
+um 1650.
+
+Die Mitteltafel zeigt die Kreuzigung Christi. Zwischen den Schachern steht das Kreuz mit dem Heiland, umschwebt von einem Engel. Zu Fuben stehen die klagenden hl. Frauen und Johannes. In der Nahe hinter der Scene drei berittene Krieger. Im Hintergrund von Bergen eingeschlossen Jerusalem. Auf beiden Fligeln die GeiDelung Christi und Christus vor Pilatus. Die Aubenseiten zeigen die Kreuzschleppung und
+
+- 118 Triptychon.
+
+Grablegung Christi. Hohe 98,Breite 90, geoffnet 180 cm.
+
+## Lambert van Noort
+
+geb. 1520?,+ in Nymwegen.
+
+- 119 Christus wird dem Volke vorgestellt.
+
+Christus steht gefesselt und dornenbekront auf einer Ballustrade, begleitet vom Hohen priester im Ornat und zwei Kriegern. Rechts unten ein spottender Soldat.
+
+Schwarzer Rahmen. Holz. Hohe 130,Breite 102 cm.
+
+## Monogrammiert J. G. 1752.
+
+- 114 Anbetung der Hirten.
+
+In einem Stall auf einem Strohlager sitzt die Gottesmutter, dem Kindlein die Brust reichend. Dahinter steht der hl. Joseph. Links davon knien und stehen die herbeigeeilten Hirten; eine Magd bringt Eier dar. Ueber der Scene schweben drei
+
+Engelchen. Monogr. J. G. 1752. Goldrahmen. Holz. Hohe 41, Breite 29 cm.
+
+## Jan Mostaert
+
+geb. 1474 in Haarlem, 1555 daselbst.
+
+- 115 Anbetung der hl. drei Konige.
+
+Vor einem ruinenartigen Stallgebaude sitzt die Gottesmutter in blauen Mantel gehillt. Auf ihrem SchoJe halt sie das nackte Christuskindlein. Vor ihr knien die hl. drei Konige in reicher Tracht und bringen ihre Geschenke dar. Dahinter blickt durch ein Fenster der hl. Joseph. lm Hintergrund eine Landschaft und das Gefolge der Konige. Schwarzer Rahmen. Hohe 64, Breite 49 cm.
+
+## Niederlandischer Meister um 1440.
+
+- 116 Kreuzabnahme.
+
+Vor dem Kreuze, an welchem eine Leiter lehnt,kniet die Mutter Gottes, auf ihrem SchoJe den nackten Leichnam Christi haltend. Das schmerzbewegte Antlitz wird von einem weiben Kopftuch mit grinem Ueberwurf umrahmt. Links kniet die trauernde Magdalena und dahinter steht Johannes in wehendem roten Mantel, die Hande andachtig zum Gebet gefaltet. In der Ferne erblickt man die Hauser Jerusalems.
+
+Schwarzer Rahmen. Holz. Hohe 57, Breite 47 cm. Siehe Abbildung.
+
+## Niederlandischer Meister
+
+XVIl. Jahrh.
+## Jan van Os
+
+geb. 1744 in Middelharnis, 1808 im Haag.
+
+Auf gedeckter Tafel in einer groJen, blau-weiben Delfter Schissel aufgehauft verschiedenes Obst, wie Trauben, Aepfel und Pfirsische. Mehrere Trauben und Kirschen liegen daneben. Goldrahmen.Leinwand. Hohe 38, Breite 50 cm.
+
+## Johann Victor Platzer
+
+## 120 Frichte-Stilleben.
+
+geb. 1704 in Vintschgau,  1767 in Eppan.
+
+- Vor einer Felsenhohle sitzt Christus in roten Mantel gehillt und verrichtet andachtige Gebete.Um ihn herum bringen ihm Engel und Putten Frichte dar. Im Hinter-
+
+Goldrahmen. Kupfer. Hohe 36, Breite 27 cm.
+
+- 121 Christus unter Engeln weilend. grund ein Wasserfall und eine Landschaft.
+
+## Jacopo da Ponte
+
+122 Jesus bei zwei Jungern in Emaus. An einem Hause, vor dessen Eingang eine Prau iber die Bristung einer Mauer lehnt, sitzen Christus und die beiden Juinger an gedecktem Tisch. Christus bricht das Brot. Links vor dem Tisch kniet ein Knecht, ein Weinglas fuillend, daneben zwei Hunde. Hinter dem Tisch ein zweiter Diener, welcher Gefligel auftragt. Im Hintergrund Landschaft. Stark bew8lkter Himmel.
+
+geb.1510 in Bassano, 1592 daselbst.
+
+Goldrahmen. Leinwand. Hohe 130, Breite 97 cm. Siehe Abbildung.
+
+## Nicolas Poussin
+
+- 123 Christus und die Samariterin am Brunnen.
+
+geb. 1593 in Andelys,  1665 zu Rom.
+
+An einem Ziehbrunnen sitzt rechts Christus und spricht mit der ihm gegenuiberstehenden Samariterin. Rechts Saulenhallen und ein Monument, links Blick in eine StraJe mit mehreren Mannergruppen. Schwarzer Rahmen. Holz.H.42,5, Br. 57,5 cm.
+
+## Erasmus Quellinus d. J.
+
+## 124 Der hl. Hieronymus die Kutte nehmend.
+
+geb. 1608 in Antwerpen, 1678 daselbst.
+
+Vor einer Schmiede kniet der Heilige halb entbioBt. Hinter ihm ein Franziskanermonch, welcher die Kutte halt. Rechts Landsknechte und links der am Ambos hammernde Schmied mit seinen Gesellen. Goldrahmen.Leinwand. H.57,Br. 65 cm.
+
+## 125 Mannerportrat.
+
+## Schule Rembrandt.
+
+Brustbild eines jungen Mannes nach rechts. Er tragt einen dunklen Ueberrock, welcher vorne durch eine goldene Kette zusammengehalten wird. Auf dem blonden, herabwallenden Lockenhaar tragt er ein rotes Sammetbarett mit Federn. Dunkler Hintergrund, Schwarzer Rahmen. Leinwand. Hohe 55,Breite 40 cm.
+## 126 Streitende Manner.
+
+Vor dunklem Hintergrunde links zwei gestikulierende Manner, auf welche ein rechts erscheinender Mann mit der Hand deutet. Ausschnitt aus einem groBeren Bilde.
+
+Goldrahmen. Leinwand. Hohe 95,Breite 115 cm.
+
+## Guido Reni (Schule)
+
+## 127 Hl.Johannes.
+
+Huftbild des andachtig emporblickenden Heiligen in rotem Gewand und blauem Mantel. Goldrahmen. Leinwand. Hohe 25,Breite 19 cm.
+
+## 128 Hl. Theresia.
+
+Brustbild der Heiligen nach Links. Sie tragt ein weibes Kleid, uber welches das lange Kopftuch wallt. Das Haupt hat sie andachtig zur Seite geneigt und die Hande zum Gebet gefaltet. Dunkler Hintergrund. Goldrahmen.Lwd. Hohe 64,Breite 54 cm.
+
+## Marinus van Romerswale
+
+geb.um 1497  nach 1567.
+
+## 129 Der Geldwechsler.
+
+Interieur. An einem gruingedeckten Tisch, auf welchem Schreibutensilien, Schmuckstuicke und eine Menge Minzen liegen, sitzt ein alterer Mann in rotem Mantel und schreibt in ein Kontobuch ein. Neben ihm, den Arm auf die Schulter des Schreibenden gelegt, sitzt ein Zuschauer. Auf einem Regal an der Wand, ein Leuchter, Bucher und Urkunden. Schwarzer Rahmen. Holz. Hohe 56,Breite 50 cm.
+
+## Pietro dei Rotari
+
+geb. 1707 in Verona,  1762 in Petersburg.
+
+## 130 Heiligen-Bildnis.
+
+Brustbild einer Heiligen in weibem Kleid mit gruinem Mantel. Das andachtig geneigte
+
+Haupt wird von blondem Lockenhaar und einem gelben Kopftuch umrahmt.
+
+Schwarzer Rahmen. Leinwand. Hohe 2l,Breite 18 cm.
+
+## Peter Paul Rubens
+
+geb. 1577 in Siegen,  1640 zu Antwerpen.
+
+## 131 Diana mit Gefolge von Faunen iberrascht.
+
+Im Vordergrunde einer flachen Landschaft, Diana mit ihren Hunden von der Jagd zurickkehrend. Ueber dem roten Manteltuch tragt sie ein Tigerfell. Dahinter ihr Gefolge, drei Nympfen wovon die eine von einem Faun umarmt und gekit wird. Goldrahmen. Holz. Hohe 62, Breite 53 cm. Siehe Abbildung.
+
+## Schule P. P. Rubens.
+
+## 132 Jagdzug der Dlana.
+
+Diana und ihr Gefolge sind ihm Begriff mit ihrer Meute iber ein kleines Gew&amp;sser zu setzen um das fliehende Wild zu erlegen. Im Hintergrund ein See.
+
+Goldrahmen. Holz. Hohe 57,5, Breite 78,5 cm.
+
+## Rembrandt-Schule.
+## 133 Blumenstilleben.
+
+## 136 Madonna mit Kind.
+
+## Rachel Ruysch
+
+geb.1664 in Amsterdam, 1750 daselbst.
+
+Vor dunklem Hintergrund in einer Vase ein huibsches Blumenarrangement.
+
+Goldrahmen. Holz. Hohe 42,5 Breite 34,5 cm.
+
+## Schule Jacob van Ruisdael.
+
+## 134 Landschaft mit Wassermihle.
+
+Wasser spilt eine Prau Wasche. Schwarzer Rahmen. Lwd. H.92,Br.132 cm.
+
+Rechts fihrt von einem mit Baumen bewachsenen Hugel eine steinerne Bricke zu einer auf hohen Pfosten gebauten Mihle, links Wald. Davor in dem abflieBenden
+
+## 135 Landschaft mit Schlofs.
+
+Rechts im Vordergrunde fuihrt iber einen Graben eine Bricke zu einem Schlol. Davor stehen Manner im Wassergraben, welcher vertieft wird. Links im Hintergrund unter Baumen erscheint eine Kirche. Schwarzer Rahmen.Lwd.H.94,Br.124 cm.
+
+## Russische Schule
+
+XVIl. Jahrh.
+
+Vor dunklem Hintergrund Brustbild der Madonna in reicher Tracht. Auf ihrem linken Arm das Jesuskindlein haltend. Goldrahmen.Leinwand.Hohe 52, Breite 31,5 cm.
+
+## David Ryckaert
+
+geb. 1612 in Antwerpen,  1661 daselbst.
+
+In einer Wirtsstube an einem Fa sitzen drei rauchende und zechende Bauern. Rechts vor dem Kamin die Wirtin und ein weiterer Gast.
+
+Schwarzer Rahmen. Leinwand. Hohe 39, Breite 32 cm.
+
+## Joachim yon Sandrart
+
+## 138 Landschaft mit Burg.
+
+geb. 1606 in Frankfurt a. M.,+ 1688 zu Nirnberg.
+
+Links auf dem felsigen Ufer eines See's erheben sich die Mauern einer Burg; auf der schmalen Landzunge davor beobachten mehrere Manner das Landen eines Bootes. Im Hintergrund Hohenzige. Goldrahmen. Kupfer. Hohe 18, Breite 25 cm.
+
+## Roeland Savery (Nach.)
+
+geb. 1576 in Courtrai,  1639 zu Utrecht.
+
+Orpheus unter einem Baum die Laute spielend, umgeben von zahllosen Tieren aller
+
+- 139 Orpheus.
+
+Art. Goldrahmen.Leinwand. Hohe 73, Breite 97 cm.
+
+## Godfried Schalken
+
+geb. 1643 in Made, 1706 im Haag.
+
+Alte Frau mit Kind eine Kerze anzindend. Schwarz. Rahm.Lwd. H. 50,Br.44 cm.
+
+## 137 Zechende Bauern.
+
+## 140 Abenddammerung.
+## 141 Kinder mit Fackel.
+
+Durch einen finstern Wald schreiten zwei Kinder; voran ein Knabe mit einer Fackel, dem das Schwesterchen mit einem Sack beladen folgt. Prachtiger Lichteffekt.
+
+Goldrahmen. Leinwand. Hohe 34, Breite 29 cm.
+
+## Martin Schongauer (Schule)
+
+geb. um 1420 in Augsburg,  1488 zu Colmar.
+
+## 142 Enthauptung Johannes des Taufers.
+
+In einem kellerartigen Raume kniet der Heilige, an den Handen gefesselt, und erwartet den Schwerthieb den der vor ihm stehende Kriegsknecht im Begriff ist auszufihren. Durch die geoffnete Tur blickt man auf einen langen Gang.
+
+Goldrahmen. Holz. Hohe 105, Breite 62 cm.
+
+## Siennesischer Meister um I300
+
+(Schule des Duccio di Buoninsegna).
+
+## 143 Hl. Paulus.
+
+Unter reliefiertem Rundbogen das Kniestick des Heiligen in dunkelgrauem Gewand mit goldgelbem Ueberwurf. Das Haupt umgibt ein gemusterter Heiligenschein. Auf
+
+Goldgrund. Schwarzer Rahmen. Holz.Hohe 66, Breite 42 cm.
+
+## Elisabeta Sirani
+
+geb. 1638 in Bologna,  1665 daselbst.
+
+## 144 Enthauptung der Hi.Katharina.
+
+Neben einem lodernden Scheiterhaufen kniet die Heilige mit gefesselten Handen und verbundenen Augen. Neben ihr steht ein halbentkleideter Tirke mit hochgeschwungenem Schwert, im Begriffe, die Hinrichtung zu vollziehen; iber dieser Scene schwebt am bewolkten Himmel ein Engel. In der Ferne eine Stadt.
+
+Goldrahmen. Kupfer.Hohe 38,Breite 28 cm.
+
+## Frans Snyders
+
+geb.1579 in Antwerpen, 1657 daselbst.
+
+## 145 Grobes Stilleben.
+
+Rechts auf einer langen Tischplatte bunt durcheinander verschiedene Gemise, wie Blumenkohl, Spargel, Artischoken, Kohl u. s. w.; links davon vor einem mit Weintrauben, Pfirsischen und Beeren gefillten Korb mehrere Zitronen und zwei Melonen, wovon die eine angeschnitten ist. Goldrahm.Lwd.H.53,Br.112 cm.Siehe Abbild.
+
+## Spanischer Meister
+
+XVll. Jahrh.
+
+## 146 Anbetung der hl. Konige.
+
+Vor abgebrochenen Saulenstimpfen sitzt die Gottesmutter, auf ihrem Schole das Jesuskindlein haltend. Vor ihr knien die hl. Konige mit Geschenken. Ueber der Scene zwei schwebende Engelchen. Tabernakelrahmen. Stein.Hohe 47,Breite 32 cm.
+
+## Godfried Schalken.
+## 147 Maria Magdalena.
+
+## 148 Verspottung Christi.
+
+## Spanischer Meister
+
+XVIll. Jahrh.
+
+Brustbild nach links. Sie tragt braunes Kopftuch und grauen Mantel und hat die Hande auf der Brust gekreuzt. Schwarzer Rahmen. Leinwand. Hohe 69,5 Breite 58 cm.
+
+## Siddeutscher Meister
+
+XVI.Jahrh.
+
+Christus, die Dornenkrone auf dem Haupt und die Hande gefesselt, ist lediglich mit einem Lendentuch bekleidet und hat den Purpurmantel umgetan. Hinter ihm steht der Pharisaer. Dunkler Hintergrund. Goldrahmen. Holz. Hohe 31,5, Breite 22,5 cm.
+
+## Siddeutscher Meister um 1520
+
+## 149 Hl. Anna selbdritt.
+
+Richtung des Martin Schaffner.
+
+Vor dem Fenster einer Steinhalle sitzt auf einer Bank die hl. Mutter Anna in roten Mantel gehuilt und mit weibem Kopftuch. Auf ihrem Scho sitzt das nackte Jesuskindlein. Daneben sitzt die hl. Maria in blauem Kleid,bis zu den Knieen in ein faltenreiches Kind greift. Durch das offene Fenster blickt man auf eine fein ausgefihrte Landschaft.
+
+Goldrahmen. Holz. Hohe 47, Breite 34 cm. Siehe Abbildung.
+
+Tuch gehillt. Das anmutige Antlitz wird von lang herabwallendem, blonden Lockenhaar umrahmt. Auf ihrem Scho halt sie ein aufgeschlagenes Buch, nach dem das Rechts oben auf einem Zettel die Inschrift:,Hilf heilige Frau sant Anna selbdritt".
+
+## Siddeutsche Schule
+
+XVIl. Jahrh.
+
+Auf Wolken stehend links der mit einem Lendentuch und rotem Mantel bekleidete
+
+## 150 Erscheinung Christi.
+
+Christus. Er umfaDt mit der linken sein Marterkreuz. Rechts steht Maria. Ueber beiden fliegende Engel und die Taube. Geschnitzter Rahmen.Holz. H.56,5,Br.41 cm.
+
+## David Teniers d. Ae.
+
+geb.1582 in Antwerpen,十 1649 daselbst.
+
+Um zwei Tische sind rauchende und zechende Bauern malerisch gruppiert. In der geoffneten Tur die Wirtin. Goldrahmen.Leinwand. Hohe 53,Breite 75 cm.
+
+## 151 Wirtshaus-Interieur.
+
+## David Teniers d. J. (?)
+
+geb,1610 in Antwerpen, 1690 zu Perck.
+
+Links vor den Hausern einer Ortschaft steht ein Wirtshaus vor welchem an gedeckter Tafel trinkende und rauchende Bauern mit ihren Frauen sitzen. Rechts sieht man durch das Tor Trnnkene von ihren Frauen gefuihrt, heimwarts ziehen.
+
+Schwarzer Rahmen.Leinwand.Hohe 39,Breite 51 cm.
+
+## 152 Bauernfestlichkeit.
+- 153 Landschaft.
+
+Links im Vordergrund drei Manner in einem Teich ihre Netze auswerfend. Dahinter erscheint unter Baumen ein Bauerngehoft. Rechts breitet sich eine huigelige Landschaft mit Gehoften aus. Goldrahmen.Leinwand. Hohe 76,Breite 104 cm.
+
+## Gerhard Terborch?
+
+geb. 1617 in Zwolle, 1681 zu Deventer.
+
+- 154 Der Guitarrespieler.
+
+Ein Kavalier im Sammetwams, dem Beschauer zugewendet, sitzt in einem Lehnsessel
+
+Goldrahmen.Holz. Hohe 40,Breite 34 cm.
+
+## Giovanni Battista Tiepolo
+
+geb. 1696 in Venedig, 1770 zu Madrid.
+
+- 155 Skizze zu einem Deckengemalde.
+
+Rundbild. Auf Wolkengebilden sitzt mit erhobenen Armen ein Heiliger in Dekonen-
+
+Goldrahmen.Leinwand. Hohe 30, Breite 32 cm.
+
+- 157 Stilleben.
+
+Auf einer Tischplatte vor dunklem Hintergrund eine Delftschissel mit Erdbeeren, ein halbgefillter Romer, ein Zinnteller mit Brot und eine Blume.
+
+Goldrahmen. Kupfer. Hohe 23,Breite 26 cm.
+
+## Theodor van Tulden
+
+geb.1606 in Hertogenbusch, 1676 daselbst.
+
+- 158 Kreuzabnahme.
+
+Mehrere Manner heben den fahlen Leichnam Christi vom Kreuze, daneben steht die klagende Maria und davor kniet Magdalena, die Fule Christi haltend.
+
+In geschnitztem Holzrahmen. Leinwand. Hohe 45, Breite 37 cm.
+
+## Unbekannt
+
+XVIll. Jahrh.
+
+- 160 Maria.
+
+Copie eines Gnadenbildes in der Matthaus-Kirche zu Trier.
+
+Schwarzer Rahmen. Leinwand. Hohe 74, Breite 57 cm.
+
+## David Teniers d. J.
+
+- 156 Erziehung der Maria.
+
+Links sitzt Mutter Anna, die neben ihr stehende Maria, welche ein aufgeschlagenes Buch in den Handen halt, belehrend. Rechts steht der hl. Joachim andachtig mit gefalteten Handen nach oben blickend. Von der Decke herab kommt eine Licht- erscheinung mit Engelskopfen. Goldrahm.Lwd. Hohe 4l,Breite 31 cm. Siehe Abbild.
+
+## Jan Jansz Treck
+
+geb. 1606 in Amsterdam,  1652 daselbst.
+
+- 159 Herbstlandschaft.
+
+Rechts hinter einem Weiher unter Baumen ein Bauernhauschen.
+
+Goldrahmen. Holz. Hohe 22, Breite 28 cm.
+## 161 Mannerportrat.
+
+rahmte Gesicht blickt den Beschauer an Schwarz. Rahmen.Lwd. H.39, Br. 28 cm.
+
+## Unbekannt.
+
+Brustbild eines alteren Mannes in dunklem Wams. Das mit grauem Vollbart um-
+
+## 162 Stilleben.
+
+Auf gedecktem Tisch auf Zinntellern Pasteten, Austern, Obst,Fleisch u. s. w. Dahinter ein Steinkrug und ein halbgefilles Weinglas. Goldrahmen. Holz. Hohe 12, Breite 19 cm.
+
+## 163 Studienkopf.
+
+Brustbild eines jungen Madchens en face. Dunkler Hintergrund.
+
+## 164 Ruhe auf der Flucht.
+
+Figurenreiche Darstellung auf Porzellan.
+
+## 165 Hl. Hieronymus.
+
+Goldrahmen. Holz. Hohe 34, i’reite 18,5 cm.
+
+Goldrahmen, oval.H. 10,5,Br.14,5 cm.
+
+Kniestick des Heiligen in weiler Kutte mit rotem Kragen; er schreibt in einen groBen Folianten, der vor ihm an der Wand lehnt. Rechts unten wird ein Lowenkopf sichtbar. Goldrahmen. Kupfer.Hohe 15,5,Breite 1l,5 cm.
+
+## 166 Bauernportrat.
+
+## 167 Fruchte-Stilleben.
+
+Kniestick eines alteren Bauern in dunklem Wams, die Hande auf einen Stock gestuitzt. Im rechten Mundwinkel halt er eine Tonpfeife. Auf dem struppigen Haar sitzt eine hohe Pelzmitze. Schwarzer Rahmen. Leinwand. Hohe 8l, Breite 64 cm.
+
+## Undeutlich bezeichnet
+
+.XVIl. Jahrh.
+
+Vor dunklem Hintergrund auf einer Tischplatte zwei Birnen und mehrere Aprikosen mit Laub. Rechts oben bezeichnet und datiert 1658.
+
+Goldrahmen. Holz.Hohe 3l,Breite 38 cm.
+
+## Theodoor Valckenborch
+
+geb. 1675 in Amsterdam,  1725 zu Surinam.
+
+An einer Wand hangen ein Hase und eine Schnepfe. Daneben liegen links ein Fasanenhahn und rechts in einem Korb eine weitere Schnepfe.
+
+Goldrahmen. Leinwand. Hohe 14,5, Breite 12 cm. Siehe Abbildung.
+
+## Adriaen Hendriksz Verboom
+
+geb.1628 in Amsterdam, nach 1667.
+
+In einer Waldlichtung haben vier Jager zu PuB und einer zu Pferd Aufstellung genommen, um den von der Meute aufgejagten und links aus dem Geblisch hevorbrechenden Hirsch zu erlegen. Im Hintergrund hohe Felsen und Laubwald.
+
+Goldrahmen. Holz. Hohe 34, Breite 44 cm. Siehe Abbildung.
+
+## 168 Jagdstilleben.
+
+## 169 Hirschjagd.
+## Claude Joseph Vernet
+
+geb. 1712 in Avignon,  1789 zu Paris.
+
+- 170 FluMlandschaft mit Gartenarchitektur.
+
+Rechts wird ein Park von einem Wassergraben eingeschlossen. Im Vordergrund erscheint ein Mann, welcher an einem Seil ein Boot nach sich zieht. Am jenseitigen Ufer sitzen mehrere Angler und dahinter liegt eine Ruine.
+
+Goldrahmen. Leinwand. Hohe 27,Breite 34 cm.
+
+Rechts am felsigen Ufer unter einer Baumgruppe zwei Angler, mehrere Kinder und eine Frau mit einem Korb Fische. Am gegeniber liegenden Ufer auf zerklufteten Felsen eine Ruine, darunter auf einer Landzunge mehrere Fischer mit Einziehen der Netze beschaftigt. Im Hintergrunde wird vor Hohenzigen eine Stadt sichtbar.
+
+## 171 Landschaft am Wasser.
+
+Goldrahmen. Leinwand. Hohe 102, Breite 140 cm. Siehe Abbildung.
+
+## David Vinck-Boons
+
+geb.1578 in Mecheln, + 1629 zu Amsterdam.
+
+## 172 Gebirgslandschaft.
+
+Links neben einem Wasserfall, fuhrt unter Baumen ein schmaler, von drei Reitern belebter Weg. Rechts auf bewaldeter Anhohe erblickt man zwei Burgen. Stark bewolkter Himmel. Goldrahmen. Kupfer. Hohe 20, Breite 28 cm.
+
+## Simon Jacobsz de Vlieger
+
+geb. 1601 in Rotterdam,  1653 zu Weesp.
+
+## 173 Marine.
+
+Auf der hochgehenden See schaukeln mehrere Fischerboote. Schwarze Gewitter- wolken bedecken den Himmel. Schwarz.Rahm.Holz. H.31, Br. 58 cm.
+
+## B. W. bezeichnet
+
+XVIl. Jahrhh.
+
+## 174 Marine.
+
+Auf den von einem Gewittersturm gepeitschten Wogen schaukelt im Vordergrund ein Segler, auf dessen Masten die holl. Flagge weht. Rechts im Hintergrund zwei weitere Schiffe. Am Himmel dunkle Gewitterwolken. Bezeichnet BW.
+
+Goldrahmen. Holz. Hohe 37, Breite 49 cm. Siehe Abbildung.
+
+## Jan Baptiste Weenix
+
+geb.1621 in Amsterdam, 1664 zu Utrecht.
+
+## 175 Romische Landschaft.
+
+In einem Talgrund stehen mehrere Personen um einen Brunnen, hinter welchem hohe Saulenstuimpfe als beredte Zeugen von entschwundener Pracht erscheinen. Links Baume und rechts am bewaldeten Abhang einige Hauser.
+
+Schwarzer Rahmen. Leinwand. Hohe 45,Breite 55 cm.
+
+## Adriaen van der Werff
+
+geb.1659 in Rotterdam, 1722 daselbst.
+
+## 176 Salome mit dem Haupt des Johannes.
+
+Kniebild der Salome in reichem Gewand. Das von schwarzlockigem,herabwallenden Haar umrahmte Antlitz ist dem Beschauer zugewandt. Mit beiden Handen halt sie eine silberne Platte, auf welcher das Haupt des Johannes liegt.
+
+Goldrahmen. Leinwand. Hohe 80,Breite 60 cm.
+## Westfalischer Meister
+
+um1500.
+
+In ihrem Schlafgemach kniet rechts, am FuBende ihres Bettes Maria, in grines Gewand gekleidet. Vor ihr auf dem mit Fliesen belegten Boden, eine Vase mit Lilien. Von links erscheint der in reiches Gewand gehillte Engel und iber diesem die Taube. Im Hintergrunde und links gothische Fenster.
+
+## 177 Mariae Verkindigung.
+
+Schwarzer Rahmen. Holz. Hohe 51, Breite 40 cm. Siehe Abbildung.
+
+## Rogier van der Weyden
+
+geb.um 1399 in Doornijk, 1464 zu Brussel.
+
+- 178 Madonna mit Kind in Landschaft.
+
+dem SchoBe. Sie ist in ein blaues Gewand gehillt und hat lang herabwallendes Haar. Sie reicht dem Kindlein einen StrauB Feldblumen, nach welchem dieses verlangend hingreift. Dahinter ein weiter Ausblick auf eine reizvolle Landschaft
+
+Auf einer Rasenbank sitzt die Gottesmutter und halt das unbekleidete Kindlein auf
+
+Schwarzer Rahmen. Holz. Hohe 63, Breite 37 cm.
+
+## 179 Zwei Altarflugel in einem Rahmen.
+
+In Originalrahmen. Hohe 54, Breite je 15,5 cm. Siehe Abbildung.
+
+Rechts der hl. Antonius von Padua in grauer Fanziskanerkutte. In seiner rechten Hand das Kruzifix und in der Linken das Buch mit dem daraufsitzenden Jesuskindlein tragend. Auf der linken Seite ein hl. Bischof mit Buch und Bischofsstab. Beide sind in ganzer Figur, stehend, auf blumenbestandener Wiese dargestelt. Im Hintergrund weite Fernsicht auf Walder, Burgen, Gewasser und Gebirge. Die Rickseite zeigt die Verkindigungsscene und Spruchbander.
+
+## Francisco de Zurbaran
+
+- 180 Bildnis d. hl. Franziskus.
+
+geb. 1598 in Fuente de Cantos,  1662 in Madrid.
+
+Brustbild des Heiligen in dunkler Kutte mit Kapuze. Das schmerzbewegte, von dunklem Bart- und Kopfhaar umrahmte Gesicht hat er nach oben gerichtet.
+
+Goldrahmen.Leinwand. Hohe 65,Breite 54 cm.
+
+## Aquarelle, Pastelle, bunte engl. Farbdrucke, Kupferstiche.
+
+- 181 Desgoffe, Blaise Alexandre, (geb, 1831 in Paris  1901.) Stilleben. Auf einer
+
+In Rahmen. Hohe 40, Breite 31 cm.
+
+- Tischecke mit zurickgeschobener Decke neben einem Zinnteller und einer Prunktasse, Gefligel und verschiedenes Obst. AeuJerst fein ausgefihrtes Pastell.
+- 18la Guirard, Lab. (England. Anfang XVIl. Jahrh.) Damenbildnis. Kniestick einer
+- jungen Dame in einem Sessel sitzend. Sie tragt ein weibes Kleid mit Spitzen besetzt und rotes Manteltuch. Das reizende Gesichtchen wird von wei gepudertem Lockenhaar umrahmt, worauf sie ein Spitzentuch tragt. Pastell. Bezeichnet.
+
+In geschnitztem Rahmen. Oval. Hohe 32, Breite 25 cm. Siehe Abbildung.
+
+- 182 Merlin, Bernhard. (Minchen 1893). Faunfamilie in Landschaft. Aquarell. Bez.
+- Goldrahmen. Hohe 24,Breite 40 cm.
+- 182a Rudell, C. (Coln). Ansicht eines Seitenaltars in St. Peter in Coln mit Figurenstaffage. Bezeichnet: C. Ridell 1910. Aquarelle. Goldrahm.H.50, Br.30 cm.
+- 183 Unbekannt,(um 1780). Frauenportrat. Brustbild einer jungen Dame in blauem,
+- ausgeschnittenem Kleid. Das mit schwarzen Locken umrahmte Gesicht blickt den Beschauer an. Pastell in schwarzem Empirerahmen mit Messingrosetten.
+
+Hohe 50,Breite 40 cm.
+
+- Blatt mit schmalem Rand. PlattengroBe25,5X20cm.
+- 185 Balechou, Jean Jos.(1575-1632). L' Operateur Barri, mit 10 Zeilen Text. Paint
+- par E. Jeanrat, grave par Balechou 1743. Wenig beschnitten.
+
+In Rahmen.PlattengroDe 38X 27cm.
+
+- 186 Bartoloni. Child of Sorrow. Painted by R. M. Paye. Engraved by Bartoloni.
+- Buntes Blatt mit breitem Rand. Plgr.32X25 cm.
+- 187 Bartolozzi, Fr. (1728-1813). 2 bunte Schabkunstblatter. Samuel  Anna,
+- Daughter of Phannuel. Painted by John Hoppner. Mit br. Rand. Plgr.37X30 cm. 2 Bl.
+- 188 — Anaiad, mit 6 Zeilen Text. Cipriani painted. F. Bartolozzi sculp. 1779. Buntes Blatt, wenig beschnitten. Plgr.32×23 cm.
+- 189  Jane Shore introduced to King Edward IV,by the Contrivance of the Mistrehs of Lord Hastings. G. B. Cipriani inv. et del. F. Bartolozzi sculp. 1785. Fast bis zum Pittrd. beschn. Plttgr.33X38cm.
+- 190—Affection and Innocence. F. Bartolozzi, R.A.inv. et del. P. W. Tomkins
+- sculp. Pupil of F. Bartolozzi. Wenig beschn. Plttgr.30X35cm.
+- 191 2 bunte Blatter: Pomona — Flora. Angelica Kauffmann delin. J. Bartolozzi
+- sculp. Wenig beschn. In Rahmen. Plttgr.41X32cm.
+- 192 Benoist, Jeune. Portrit des Konigs von Rom als Kind. Gut erhaltenes Blatt v.d. Schr. Plttgr.34X39cm.
+- 193 Bettelini, P. Elizabeth. Queen of Edward the 4th. mit engl. und franz. Text.
+- J.F. Rigaud K. A. pinxt. P. Bettelini sculpt. Wenig beschn. Plittgr.38,5×43cm.
+- 194 Bonnefoy, You can't Write. W. Miller pinxt. Bonnefoy sculpt. Buntes Blatt, Plttgr.27X36cm. wenig beschn.
+- 195 Bonnefoy. Qu'elle Est Gentille. Boilly pinx. Bonnefoy sculp. Buntes Blatt m. br. Rand. In Rahmen. Plttgr. 34X28 cm.
+- 196 Cardon, Ant. La Singnature Du Contrat De La Noce De Village. Ant. Watteau
+- pinx. Ant. Cardon sculp. Prachtblatt wenig beschnitten. PlattengroBe 57X75 cm.
+- 197 Clavareau, A.F. Ah! comme il y viendra! Louis Boilly pinx. A.F. Clavareau
+- sculpt. Buntes Blatt mit breitem Rand. PlattengroBe 36,5X28,5 cm.
+- 198 Collyer, Jos. 2 Blatt. The Childre in the Wood, mit 16 Zeilen Text. Design. by Thomas Stothard. Engraved by J. Collyer et Julius Fidd —Edm. Scott. Past bis zum Plattenrand beschnitten. PlattengroBe 41X35 cm.2 Blatt.
+- 199 Descourtis, Carl Melchior (1763 + 1820). L′ Ascension. Tannay pinx, Des-
+
+PlattengroBe 59,5X46 cm.
+
+- courtis sculp. Ausgezeichnetes buntes Blatt. Bis zum Plattenrand beschnitten.
+- 200 Knight, Charles. (2. Halfte XVll. Jahrh.) 2 bunte Blatt. Tom And His Pidgeons
+- The Favorite Rabit. Painted by J. RuBell.Wenig beschnitten.
+
+PlattengroBe 27,5X36,4cm.
+
+- 201 Mariage. Cornelie Mere Des Gracques mit vier Zeilen Text. E. B. Garnier.
+- pinxt. Mariage sculpt. Buntes Blatt bis zum Plattenrand beschnitten.
+
+PlattengroDe38X44 cm.
+
+- 202 Michel, J. B. Alexander giving up his favorit mistre. Campaspe to Apelles, mit langem Text. Miller pinx. J. B. Michel sculpit. Fast bis zum Rand beschnitten.
+
+Plttgr.32,5X39cm.
+
+- Blatt wenig beschitten. Plttgr.25X23 cm.
+- 203 Nutter,Wm. Adoration. Painted by R.M.Engraved by W.Nutter, 1785. Buntes
+- 204 Piranesi, Giov. Batista (1720-1778). Veduta della Dogana di Terra a Piazza
+- di Pietra. Piranesi Architetto scul. Mit breitem Rand.
+
+In Rahmen.Plttgr.Hohe 44,Breite 60 cm.
+
+- 205 Pomel, Claude Jos. 4 bunte Blatter. Victor retrouvant Clemence —— Victor Combattant Roger —Victor recoit de Clemence une Echarpe — Clemence apprend de Victor qu'elle n'est pas sa sceur. Aubry del. Gerard sculp. Mit breitem Rand aber mit einigen Wurmstichen. In Rahmen.Pittgr.28X34 cm.
+- 206 Ridinger, Joh. Jac. Der verblimte Blumenkorb. Der Blumenkorb ist's nicht, der das Geheimnis deckt. Such nach, der Schlissel ist dazu darin versteckt.  Joh. Text. Beschn. In Rahmen d.Zeit.Pittgr. 57X40 cm.
+- Wynne Ryland sculpt. 1777. Buntes Blatt, fast bis PlattenPlttgr.38X29cm.
+- 207 Ryland, Wilh. Wynne (1729-1783). Patience, mit 3 Zeilen Text. Angelica Kauffmann pinxt. rand beschn.
+- 208 Domestick Employment. Wynne Ryland Engraver to his Majesty delint et Sculpt Buntes Blatt m. br. Rand. Plttgr.35X26,5 cm.
+- 209 Schiavonetti, Niccola (1771--1813). Betsy in Trouble. Painted by J. RuBel. Buntes Blatt, wenig beschn. Plttgr.27-—36cm.
+- 210  The Dog's first sight of himsself. Painted by J. Rubell. Buntes Blatt, wenig beschnitten. Plttgr.27X30 cm.
+- 211 Wille, J. G. Gazettiere Hollandoise. Peint par G. Terburg. Grave par Wille. Wenig beschn. Plttgr.40X28,5cm.
+
+## Japanische Farbholzschnitte, Schwarzdrucke,
+
+## Tuschskizzen.
+
+- 212 Buncho, Jppitsusai ( 1796). Musizierender Mann. Ganze Figur.1 16X11cm.
+- 213 --2 Blatt Buntdrucke mit je 3 Landschaften in Fachermedaillon. 16-10,5 cm.2 Bl.
+- 214 2 Blatt bunte Skizzen. Figirliche Darstellungen. 16X11cm.2Bl.
+- 215-Tierstudie,bunt. 16X11cm.
+- 216 — 3 Blatt bunte Skizzen. Pflanzen, Tiere etc.
+- 16X10,5cm.3Bl.
+- 217 Harunobu, Suzuki (ca. 1725-1770). Junges Madchen, am Boden kniend und
+- in einem Buche lesend. 22X15cm.
+- 218 — Liebespaar auf Veranda in einer Schriftrolle lesend. Guter Druck. 26,5X205 cm.
+- 219 Hiroshige I, Ichiryusai (geb. 1797,  1858). Landschaft am Wasser, Ansicht
+- der Gegend Hiratsuka,einer der 53 Stationen des Tokaido. H.35,5,Br.24cm.
+- 220  Ansicht der Gegend Hiratsuka. Landschaft mit blihenden Kirschbaumen. Durch
+- die Aeste eines Baumes sieht man im Hintergrund den Fuji Berg. Gutes Blatt. Hohe 35,Breite 24 cm.
+- 221 — Blick auf einen verschneiten Tempelhof. Im Hintergrund unter verschneiten Baumen der Tempel, welchem Leute zustromen. Hohe 35, Breite 24 cm.
+- Krieger zu Pu und zu Pferde. Hohe 22,5,Breite 35 cm.2 Blatt.
+- 223 - Landschaftsbild. Im Vordergrund bricht sich an Felsen eine hohe Welle, im Hohe 35, Breite 24 cm.
+- Hintergrunde der Fuji Berg.
+- Schiffe ans Ufer. A. d. Folge d. Tokaido Stationen.
+- Hohe 35,Breite 24 cm.
+- 225 - Mondlandschaft mit Wasserfall. Im Vordergrunde Sanftetrager und Kulis mit Lampions. Hohe 35, Breite 24 cm.
+- 226 -- Winterlandschaft am Fuji Berg. Ein schmaler Weg fihrt am steilen Hange hinauf, dahinter erblickt man den Fuji. Hohe 37, Breite 24 cm.
+- 228 —Winterlandsch. m. Kanal. A. d.Folge der 53 Stat. d. Tokaido. H.25,Br.36cm.
+- 227 - Strabenscene in Yedo: Belebtes Strabenbild mit Verkaufsladen. H. 16,Br.21 cm.
+- 229 一 Vornehme Japanerin mit Diener am Flule spazierend.
+- Hohe 37,Breite 25 cm.
+- 230 - Waldlandschaft mit Pigurenstaffage. Hohe 37, Breite 25 cm.
+- Hohe 37, Breite 25 cm. 232 - 3 Blatt. Scenen aus den Kriegen des Yoshitsune. H.25,Br.37 cm.3 Blatt.
+- 231 - Junge Japanerin bei Regenwetter am Parkttor einen Reiter empfangend.
+- 233 -- Ansicht eines verschneiten Dorfes am Wasser. Die StraBe wird von Sanftetragern belebt. Hohe 25, Breite 37 cm.
+- 235 5—Begegnung auf der Bricke eines FluBes, im Hintergrunde Gebirge. H. 24, Br. 36 cm.
+- 234 —Ansicht aus der Gegend Hiratsuka. A.d. Folge der 53 Stationen des Tokaido. Hohe 24,Breite 36 cm.
+- 236 - Mondlandschaft mit Dorf. Auf dem Wege vor dem Dorfe eine Karawane mit Kompira-Pilger. Hohe 25. Breite 37 cm.
+- In Rahmen, Hohe 35, Breite 23 cm. 238 - Landschaft am FluBe im Nebel. Im Vordergrunde mehrere Boote mit Personen. Hohe 24,Breite 37 cm.
+- 237 -Landschaft mit Dorf am Wasser. Im Hintergrund Gebirge.
+- 239 - Tempelgarten im Winter. Im Vordergrunde wird ein Pluu mehrfach iberbrickt. Hohe 25,Breite 37 cm.
+- 241 —2 Blatt. Portrats berihmter Dichter mit Gedichten. Hohe 23,Breite 16 cm. 2 Blatt.
+- 240 Hokusai, Katsushika. (1760—1849.) 2 Blatt. Portrats berihmter Dichter mit Gedichten. Hohe 23, Breite 16 cm. 2 Blatt.
+- 242 —2 Doppelblatter. Strabenleben in Yedo. Hohe 21,Breite 30 cm. 2 Blatt.
+- 244  Doppelblatt. Gedenkstein in der Umgebung von Yedo. Mit reicher Figurenstaffage
+- 243 — Doppelblatt. FluBansicht mit Lotosfischern, im Vordergrunde an einer Balustrade zwei zuschauende Japanerinnen. Hohe 21,Breite 30 cm.
+- Hohe 21,Breite 30 cm.
+- 245 Hokusai, Katsushika. Doppelblatt. Junge Jpanerinnen im Park Vogel fitternd. Hohe 21, Breite 30 cm.
+- Hohe 25, Breite 37~cm. 246  Scene aus der Roninsage.
+- Hohe 37, Breite 26 cm. 247 — Schauspieler und Schauspielerin im Spiel. Brustbilder.
+- 248 Kiyomasa, Torii (geb.um 1679,+ 1763). 2 Blatt Schwarzdrucke, Theaterzettel
+- Hohe 20, Breite 13,5 cm.2 Blatt. mit figirlichen Darstellungen.
+- Hohe 33, Breite 16 cm. 249 Landschaft mit Bettlerin.Guter handkolorierter Druck.
+- 250 Kiyonobu, Kondo (XVll. Jahrh.). Zwei Schauspieler in Scene, ganze Figuren
+- Hohe 26, Breite 16 cm. Schwarzdruck.
+- 251 Koriusai, Jsoda (Horunobus Schiler,+ um 1780). Liebespaar auf Veranda, daHohe 26,Breite 18 cm. hinter Ausblick auf eine Landschaft. Guter Druck.
+- 252 Kunimaru (tatig bis 1820). Triptychon. Scene aus der Roninlegende. Kampfende
+- Hohe 38,Breite 78 cm. Krieger in Landschaft.
+- 253 Kunisada, Gototei (1787-1865). Tanzscene. Tanzerin in reichem Kostim, von
+- Hohe 35, Breite 26 cm. zwei Musikanten begleitet.
+- 254 -- Familienleben eines reichen Japaners. Figurenreiche Scene auf der Veranda. Hohe 36,5, Breite 26,5 cm.
+- Hohe 33,5, Breite 22 cm. 255 —— Junges Madchen bei der Toilette.
+- Hohe 33, Breite 22 cm. Ganze Pigur. 256-S Schauspieler in Rolle.
+- Ganze Pigur. 257— Schauspieler in Rolle.
+- Hohe 33, Breite 22 cm.
+- 258 —2 Blatt Shogun mit Gefolge. Figurenreiche Darstellung. H. 36, Br. 24 cm. 2 Bl.
+- Liebespaar Madchen mit 259 Kuniyoshi Utagawa (1800--1861).  2 Blatt. Hohe 27, Breite 25 cm. 2 Blatt, Bllitenzweig.
+- Hohe 27, Breite 25 cm.2 Blatt.
+- 260 -2 Blatt. Schauspieler in Rolle.
+- Hohe 27, Breite 25 cm.2 Blatt. 261 2 Blatt. Schauspieler in Rolle.
+- Hohe 34 Breite 23 cm.
+- 262 — Held zu Pferde, in reicher phantastischer Rustung.
+- Figurenreicher Reiterkampf am
+- 263 -Triptychon. Darstellung aus den Tairakriegen.F Hohe 36, Breite 72 cm. FuBe eines Gebirges.
+- 264   2 Blatt. Darstellung einer japan. Sage. Mann und Fran unter Palmen mit
+- Hohe 36,Breite 25 cm.2 Blatt. Lampions tanzend.
+- 265 — Japaner mit Schwert und reichem Kostim unter einer Palme stehend. A. e.
+- Hohe 36, Breite 25 cm. japan. Legende.
+- 266 Kuniyoshi. 3 Blatt. Kintaro im Kampfe mit Raubern. Figurenreiche Darstellung. Hohe 36,Breite 24 cm. 3 Blatt.
+- 267 - Stralenscene. Steil ansteigende StraBe mit Passanten. H.25,Br.27 cm.
+- 268 - Gebirgslandschaft. Ein hoher, bewaldeter Berg iberragt die sich am Horizont hinziehende Gebirgskette. Hohe 25, Breite 37 cm.
+- 269 Masaoyshi, Kitaw Keisei ( 1824）. 3 Blatt Darstellungen aus einer japanischen Heldensage. Hohe 21,Breite 15,5 cm..3 Blatt.
+- 270-2 Blatt desgleichen. Hohe 21,Breite 15,5 cm. 2 Blatt.
+- 271 —2 Blatt desgleichen. Hohe 21,Breite 15,5 cm.2 Blatt.
+- 272 Finale der Roninlegende. Nachtlicher Ueberfall auf ein Dorf, dessen Bewohner halb entkleidet entfliehen. Hohe 24,5, Breite 35 cm.
+- 273 - Satirisches Blatt. Figurenreiche Darstellung mit Text. Hohe 25,Breite 37 cm.
+- 275 Sadahide, Gyokuransai. 1 Blatt mit 4 Darstellungen aus der Roninlegende. Hohe 18,5, Breite 25 cm.
+- 274 Moronobu, Hishikawa (16381714). 2 Blatt Schwarzdrucke. Figurliche Darstellungen. Hohe 24,Breite 33 cm.2 Blatt.
+- 276 ——1 Blatt mit 3 Darstellungen aus der Roninlegende. Hohe 17, Breite 24 cm.
+- reichem Gefolge. Hohe 35,Breite 75 cm.
+- 277 Sadakaje (Schiler d. Toyokuni Il.) Triptychon. Tokugawa-Prinzessin mit zahl-
+- 278 — Shinto-Tanzerin bei einer Festlichkeit.
+- 279 - Triptychon. Shogun m. Gefolge. Die Karawane bewegt sich iber eine Bricke. Hohe 36,Breite 75 cm.
+- Hohe 36, Breite 24 cm.
+- 280 - Sadanobu Tamura (Mitte d. XVll. Jahrh.) 2 Blatt mit verschiedenen Scenen aus der Roninsage. Hohe 37,5, Breite 25 cm. 2 Blatt.
+- 282 Zwei V8gel auf Blumenzweig. Hohe 19, Breite 27 cm.
+- 281 Shigemasa I, Kitao (geb. 1739 in Yedo  1820). Vogel mit Blitenzweig in Landschaft. Hohe 19,Breite 27 cm.
+- 283 Shikimaro (Nachfolger Utamaros). Die schone Hanaogi aus dem Ogi-Hause mit Facher und in reich gestickter Robe auf der Promenade.
+- 284 Shunko Katsukawa (geb. 1760 + 1827). Schauspieler in Rolle, ganze Figur.
+- 285 - Schauspieler mit Schwert in Rolle. Ganze Figur.
+- H.37,Br.25 cm.
+
+Hohe 30,5 Breite 14 cm.
+
+Hohe 30,Breite 13,5 cm.
+
+- 786 - Schauspieler in Rolle. Ganze Figur. Hohe 30,Breite 13,5 cm.
+- 287 Shunro (Hokusais Frihname, vor 1795). Landschaft mit dem Hause eines vornehmen Japaners. A. d. Folge: Kanadchon Chushingura = Die treuen Ronins. Hohe 20,5, Breite 31 cm. Feiner Neunfarbendruck.
+- 288  Landschaftsbild mit Blick auf Hauser. A. d. Polge: Kanadchon Chushingura. Hohe 20, Breite 28 cm.
+- 289 Landschaftsbild. Im Vordergrund Blick auf ein Teehaus. A. d. Folge: Kanadchon
+- Hohe 20, Breite 29 cm. Chushingura.
+- 290  Hinrichtungsscene vor einem Hause. A. d. Folge: Kanadchon Chushingura. Hohe 20, Breite 29 cm.
+- 291 Landschaft am FluB bei Regenwetter mit Ueberfall. A. d. Folge: Kanadchon Hohe 20,Breite 29 cm. Chushingura.
+- 292 Sunsho, Katsukawa (1726-1792). Held zu Pferde unter einer Pinie. Hohe 26, Breite 19 cm.
+- 293 —2 Blatt Schwarzdrucke. Scenen aus dem Familienleben. H. 18, Br. 26 cm. 2 Blatt.
+- 294 — 2 Blatt Schwarzdrucke. Theaterscene — Familie beim Spiel. Hohe 18, Breite 26 cm.2 Blatt.
+- 295 - Darstellung der sieben chinesischen Weisen in Landschaft. Rundbild in SchwarzHohe 24,5, Breite 18,5 cm. fassung.
+- Hohe 24,5, Breite 18,5 cm.
+- Hohe 30,5, Breite 14,5 cm.
+- Hohe 30,5, Breite 14,5 cm.
+- Hohe 28,5, Breite 14,5 cm.
+- Hohe 31,Breite 14,5 cm.
+- Veranda am Wasser. Rundbild in Schwarziassung. 296
+- 297— Schauspieler mit Schwert in Rolle, ganze Figur.
+- 298 8— Schauspieler mit Stock in Rolle, ganze Figur.
+- 299-9 Schauspieler unter einem Baum kniend.
+- 300— Schauspieler mit gezogenem Schwert, ganze Figur.
+- Hohe 32,5, Breite 14 cm. 301— Schauspieler mit Schwertern in Rolle, ganze Figur.
+- Hohe 29,5, Breite 14,5 cm. 302  Schauspieler in gelbem Gewande, ganze Figur.
+- Hohe 27,Breite 14 cm. 303 — Schauspieler in gestreiftem Gewand in Tanzscene.
+- 304 Shunyei, Katsukawa (Gest. ca. 1819 im Alter v. 60 Jahren. Shunsho's bester Hohe 23,Breite 17 cm. Schiler). Kintaro kampft mit Tongus.
+- Hohe 23, Breite 17 cm. 305 — Kintaro besiegt den Diemogott.
+- 306 —Vornehmer Jingling, vor seinem Schreibzeug sitzend, empfangt eine Dame. Hohe 23,5, Breite 16,5 cm.
+- 307 - Schauspieler in Rolle unter einem Baum, ganze Figur. Hohe 31,5, Breite 14,5 cm.
+## Surimono's.
+
+- 308 ——Hokusai,2 Blatt. Rauchender Krieger - Spielendes Kind. Hohe 9, Breite 13 cm. 2 Blatt.
+- 309  Sorii,2 Blatt. Zwei Piguren mit Vogelkafig — Malschale mit Pinsel. Hohe 10, Breite 13 cm. 2 Blatt.
+- 310 -- Toyoshiro. Reiter mit Diener. Hohe 9,5, Breite 12,5 cm.
+- 311 —Unbekannter Meister,2 Blatt. Sanfte ——Landschaft.H. 13,Br. 9 cm. 2 Bl.
+- 312 Toyoharu, Utagawa (1733-1814). Landschaftsbild aus der Umgebung Yedo's. Hohe 22, Breite 15,5 cm.
+- 313 — Marktplatz in Yedo.
+- Hohe 22, Breite 16 cm.
+- 314  Blick auf einen reich belebten Tempelvorhof in Yedo. Hohe 22,Breite 36 cm.
+- 315  Ansicht aus der Umgebung Yedo's mit dem von Schiffen reich belebten Sumida.
+- 316 — Ansicht aus der Umgebung Yedo's mit dem Sumida. Hohe 24,5, Breite 37,5 cm.
+- Hohe 24,5, Breite 37,5 cm.
+- 317 Toyokuni Il, Utagawa (Kunisada,17871865). Zwei Blatt. Schauspielerscene, 3 Personen, ganze Figuren. Hohe 36, Breite 24 cm.2 Blatt.
+- 318 -2 Blatt. Tanzerinnen, ganze Figur. Hohe 36, Breite 24 cm.2 Blatt.
+- 319 -2 Blatt. Schauspieler mit Schwert in Rolle. Hohe 36,Breite 24 cm.2 Blatt.
+- 320 -2 Blatt. Junge Madchen auf einer Bricke Fische fitternd. Drei junge Damen
+- auf der Veranda beim Tee. Hohe 25,5, Breite 18 cm.2 Blatt.
+- 321 -3 Blatt. Madchen vor einem Paravent mit Blumen.Liebespaar auf Veranda. --
+- 322  Diptychon. Yoshitsune im Kampfe am Ufer eines PluBes. Hohe 36, Breite 49 cm.
+- 2 Tanzerinnen. Hohe 25,Breite 18 cm. 3 Blatt.
+- 323 Triptychon. Kampfscene aus den Tairokriegen.Figurenreiche Schlachtendar-
+- 324 Toyokuni I. Utagawa (geb 1773, + 1828). Schauspieler mit rotem Kleid in Rolle, ganze Figur.
+- stellung am Rande eines Flubes. Hohe 36, Breite 75 cm.
+- Hohe 30,5, Breite 14,5 cm.
+- 326 Schauspieler mit Schwert und Facher in Rolle, ganze Figur. Hohe 32,5, Breite 15 cm.
+- 325-S Schauspieler in weiblicher Rolle, ganze Figur. Hohe 33,Breite 14,5 cm.
+- 327Schauspieler mit Tamburin in Rolle, ganze Figur. Hohe 33, Breite 21,5 cm.
+- Zwei Schauspieler in Rolle. Hohe 38, Breite 25 cm.
+- Hohe 38,Breite 25 cm.
+- 328 —Schauspielerscene.Z
+- 329  Schauspielerscene. Drei Schauspieler in Rolle.
+- 330 Toyokuni I. Utagawa. Schauspieler und Schauspielerin in Rolle Hohe 38, Breite 25 cm.
+- Hohe 34, Breite 22 cm. 331 — Zwei Schauspieler mit Stab in Rolle.
+- 332 - Drei junge Damen mit Blitenzweigen im Parke. Im Hintergrund der Fuji. Hohe 37, Breite 25 cm.
+- 333 Utamaro Kitagawa (geb. 1754 in Kawagoye, + 1806). Junge Dame mit Dienerin. Hohe 18, Breite 13 cm.
+- 334 ——Liebespaar,Halbfiguren.
+- Hohe 38, Breite 26 cm.
+- Hohe 38, Breite 26 cm. 335 - Brustbild eines jungen Madchens mit Pacher.
+
+Hohe 37,Breite 25 cm. 336 - Junge Madchen in einer Seidenraupenzucht beschaftigt.
+
+Hohe 37, Breite 25 cm. 337 - Drei Madchen am Webstuhl beschaftigt.
+
+- 338 - Zwei Prauen mit ihren Kindern beobachten das Ausfliegen der Schmetterlinge. Hohe 37,Breite 25 cm.
+- Hohe 37, Breite 25 cm. 339 — Brustbild einer Kurtisane.
+- 340 Verschiedene Meister. 5 Blatt. Verschiedene Tuschskizzen und Schwarzdrucke. Hohe 23,Breite 18 cm.5 Blatt.
+- 4Blatt. 341 4 Blatt. Verschiedene Farbholzdrucke. Figirliche Darstellungen.
+- 4Blatt. 342—4Blatt. Verschiedene Parbholzdrucke. Figurliche Darstellungen.
+- 5 Blatt.
+
+343 —5 Blatt. Verschiedene Farbholzdrucke.Figirliche Darstellungen.
+
+- 344 Yeizen Keisai (1790-1848). Junge Frau mit zwei Kindern auf einer Bank spielend. Hohe 36, Breite 24 cm.
+- Hohe 24, Breite 37 cm.
+- 345 — Strassenscene mit huibscher Pigurenstaffage.
+- 346 Yeishi Hosoi （tatig ca. 1800-1830 im Stile Hokusais). Sitzende junge Dame,
+- Hohe 38, Breite 26 cm. einen Kakemono betrachtend.
+- 347  Auf der Veranda drei junge Madchen mit Blumenzweigen. Hohe 23, Breite 17 cm.
+- Hohe 23, Breite 17 cm.
+- 348 — Zwei junge Damen am Bache spazierend.
+- Interessante Darstellungen. 349 Yoshitoshi,Kwaisai,2 Blatt. Kinderscenen.I Hohe 37,Breite 26 cm.2 Stick.
+- 350 - Triptychon, Darstellung einer Schlachtenscene aus den Tairakriegen. Hohe 36, Breite 72 cm.
+- 351 — Triptychon. Heerfihrerversammlung. Scene aus den Tairakriegen. Hohe 36, Breite 72 cm.
+## Antiquitaten aller Art.
+
+## Chinaporzellane, Bronzen, Elfenbein.
+
+- 352 Blumenstander. Jmari, rechteckig, mit Chinoiserien in rot, blau und gold. Mit drei Reihen Einsteck18chern. Hohe 5,2,Lange 9,5, Breite 5 cm.
+- Hohe 9,5 cm.
+- 353 Teebuchse. China, sechseckig und mit Blumendekor in rot und blau. Mit Silberdeckel.
+- 354 Gedeckelte Zuckerdose. China, famille rose. Mit schonem Bluimchendekor in
+- 355 Becherformige Tasse. China, famille rose. Verziert mit Blitenzweig in bunten Emailfarben. Hohe 7,5 cm.
+- Emailmalerei. Hohe 7,5 cm.
+- 356 Spulkumpe und vier Teeschalen. Hien-fong. Die Wandung mit grinen Blatt-
+- 357 Gedeckeltes Teekannchen. China. Mit astformigem AusguB und Henkel. Dekoriert mit Figuren und Blumen in Blau. Hohe 11,5 cm.
+- ornamenten auf hellgelbem Fond. Hohe 6,9, Durchmesser 12,5--18 cm.5 Stick.
+- 358 Teekannchen. Jmari, mit bunter Bemalung.
+- 359 Gedeckeltes Teekannchenmit Henkel. China, famille rose. Dekoriert mit
+- Hohe 11,5 cm.
+- Blumenzweigen in bunter Emailmalerei. Hohe 13 cm.
+- 360aFlacher Teller.China, famille rose. Der Rand sowie der Fond mit Streubluimchen und einem Hahnenkampf in Emailfarben und Gold verziert.
+- 360 Flacher Teller. China. Bemalt mit Blumen und einer Landschaft in blau. Durchmesser 23 cm.
+
+Durchmesser 22,5 cm.
+
+- 362 Zwei flache Teller. China. Rand und Spiegel dekoriert mit bunter Blumenornamentation. Durchmesser 28 cm.2 Stick.
+- 361 Tiefer Teller. China. Der Pond mit blau gemalten Blumen und einer Landschaft. Durchmesser 23 cm.
+- 363 Sechs flache Teller. China. Bemalt mit Blumenguirlanden in bunt. Emailfarb. Durchmesser 23 cm. 6 Stick.
+- in Emailmalerei. Hohe 9 cm. 2 Stick.
+- 364 Zwei kleine Vaschen. China. famille rose. Birnformig und mit Blumendekor
+- 365 Kiote-Kubel, reich mit figirlichen Darstellungen und Blumenwerk in Blaumalerei verziert. Hohe 22, Durchmesser 25 cm. Siehe Abbildung.
+- Hohe 12 cm.
+- 366 Kleine Vase. Mit buntem Blumendekor in Emailfarben.
+- 367 Vase. China. Die zylindrische Leibung blau glasiert und mit Blumen-Emailmalerei. Hohe 23 cm.
+- 368 Jmari-Vase mit Deckel. Beide Teile mit reicher bunter Bemalung verziert. Hohe 52 cm. Siehe Abbildung.
+- China. Die birnformige Leibung stark eingeschnirt und bemalt 369 Zwei Vasen. Hohe 21 cm. 2 Stuick. Siehe Abbildung. mit figurlichen Darstellungen in blau.
+- 370 Zwei Jmari-Vasen. Die zylindrische Leibung mit ausladendem Fu und weitiberfallendem Rand. Blumenstauden, Blitenmuster, Vogel und Drachen in bunter
+- Hohe 38 cm.2 Stick. Malerei zieren die Wandung.
+- 371 Zwei Jmari-Vasen. Die eiformige Leibung mit kurzem engen Hals und reicher Hohe 31 cm. 2 Stuck. bunter Bemalung.
+- 372 Hohe Vase, Japan. Die Leibung sowie der zylindrische Hals mit Pilanzenornament
+- Hohe 42 cm. Siehe Abbildung. und Vogeln.
+- 373 Hohe Deckel-Vase. Art famille rose. Deckel und birnformige Leibung mit Hohe 41 cm. Siehe Abbildung. schonem Blumendekor in bunten Emailfarben.
+- 374 Zwei hohe Vasen, China. Die eiformige Leibung reich dekoriert mit bunter
+- Blumenornamentation und zwei Medaillons mit figurlichen Darstellungen. Hohe 48 cm. 2 Stick. Siehe Abbildung.
+- 375 Zwei grole Wandschusseln, Jmari. Den Rand umziehen sechs Felder mit
+- Blumenwerk und Vogeln, im Fond stilisierte Blumen in bunter Emailmalerei. Durchmesser 45 cm.2 Stick.
+- 376 GrofiBe Wandschussel. Im Fond eine Wasserlandschaft mit figirlichen DarDurchmesser 37 cm.
+
+stellungen,Blumenstauden und Ornamente in blau-wei.
+
+- Lange 5,5 cm. 377 Kafer. Bronze, Japan. AeuDerst fein bearbeitet.
+
+auf dem durchbrochen gearbeiteten Deckel ein Reiher als Knauf.
+
+- 378 Kleiner Raucher-Koro. Bronze, Japan. Mit reliefiertem Astwerk verziert und Auf Holzsockel. Hohe 7,5 cm.
+- Lange 8 cm.
+- 379 Bronze-Krebs, Japan. Sehr fein modelliert.
+- 380 Wasserratte. Bronze, Japan. In kauernder Stellung und mit den Vorderfibchen
+- Hohe 5,Lange 9,5 cm. eine NuB haltend.
+- 381 Wasserratte. Bronze. Japan. Sitzend und mit den Vorderfinchen eine Nu Auf Holzsockel. Hohe 6,5 cm. haltend.
+- Lange 10 cm. 2 Stick. 382 Zwei Schildkroten. Bronze. Japan.
+- 383 Bronze-Figur. Gottin, sitzend auf einem Bronze-Untersatz mit durchbrochener
+- Ruickwand. Gesicht und Schmuck farbig behandelt, sonst gute Feuervergoldung. Hohe 21,5 cm. Siehe Abbildung.
+- 384 Cloisonne-Koro. Japan. Die kugelige Leibung mit reichem Schmetterlingsdekor
+- 385 Zwei Cloisonne-Vasen. Flaschenformig und reich mit bunten Blumen und Ornamenten auf hellblauem Fond verziert. Hohe 17 cm.2 Stick.
+- auf dunklem Fond; auf drei Kugelfibchen ruhend. Hohe 14 cm.
+- 386 Netzukes. WallroB, Japan. In Form eines mit einem Sack beladenen Kuli's. Hohe 5,5 cm. Siehe Abbildung.
+- Hohe 4, Breite 5 cm. Siehe Abbildung.
+- 387 Netzukes. WallroB, Japan. In Form von zwei sitzenden Aeffchen. Mit Marke.
+- 388 Affengruppe. Holz, geschnitzt. Japan. Drei Aeffchen im Kreis sitzend. Auf Holzsockel. Hohe 3,5 cm.
+
+## Steinzeuge.
+
+- 389 Henkelkrug mit Zinnfu. Bunzlau, braun-schwarz glasiert. Die birnformige
+- 390 Henkelkrug. Nassau, grau und rot-braun glasiert. Die birnformige Leibung mit reliefierten und eingeschnittenen Blumenranken in grau-blau. Hohe 19 cm.
+- Leibung mit Blumenornamenten verziert. Hohe 23 cm.
+- 391 Kleiner Henkelkrug mit Zinndeckel. Nassau, grau-blau glasiert.
+- Leibung mit strahlenformigem Zackenornament und Furchen. Die kugelige Hohe 16.cm.
+- gerillt. Die kugelige Leibung mit drei achteckigen Medaillons mit dem 8sterreichischen Adler, die ibrige Flache verziert mit Rosetten und herzformigen Ornamenten.
+- eingepreBter Rosetten. Hohe 26 cm.
+- 393 Henkelkrug mit Zinndeckel. Nassau, grau-blau glasiert. Hals und PuB stark Hohe 21 cm. eingeschnirt und gerilt. Die eiformige Leibung ist verziert mit fuinf Reihen groJer,
+- 394 Henkelkrug mit getriebenem Zinndeckel. Nassau, grau-blau und braun glasiert. Hals und FuB stark eingeschnirt und gerilt. Die eiformige Wandung mit reliefiertem, die ganze Flache einnehmenden Blumenornament.
+- 394a Schreibzeug. Nassau, grau-blau glasiert. Mit Sand- und Tintentopfchen.
+- Hohe 25 cm.
+- 395 Hohe Schenkkanne. Westerwald, Anfang XVIl. Jahrh. Grau-blau glasiert und Lange 13, Breite 8 cm. mit Zinndeckel. Die Mitte des ovalen Bauches mit einem Fries der Schweizer Kantonswappen unter Rundbogen mit Ueberschriften: ZVRIC-BERN-LVZER-SCAFVRY-SCWI-V:W-BA. Der FuBteil kanneliert und auf der Schulter, drei ibereck gestellte Quadrate mit Rosetten, durch Kerbschnitt-Felder getrennt. Am Hals drei Medaillonmasken, durch Trauben-, Blumen- und Bandornamente getrennt. Prov.: Kollektion Dr. Jakobs.
+- 396 Hohe Schenkkanne. Grenzhausen um 1620. Grau-blau glasiert und mit Zinndeckel Die Mitte des ovalen Bauches mit einem Fries, auf welchem unter 8 Rundbogen die Geschichte der Judith dargestellt ist. Der FuBteil mit Purchen und auf der Schulter Blumenornamente und Kerbmuster. Am Hals finf Medaillons mit Hohe 34 cm. Manner- und Frauenportrats.
+- 396a Henkelkrug. Raeren, grau-blau glasiert. Auf der kugeligen Leibung gerilte Hohe 23 cm.
+- Ornamente.
+- 397 Raerener Krug mit gerilltem Hals und braun glasiert. Auf der kugeligen Leibung drei scharfe ovale Wappen mit den Initialen eines der Mennicken. Henkel fehlt. Hohe 16 cm.
+- 398 Schenkkanne. Raeren, braun glasiert. Die eiformige Wandung durch Radialfurchen in Pelder eingeteilt, welche eingeprelte Ornamente zeigen. Der kurze Hohe 22,5 cm. zylindrische Hals mit reliefierten Maskarons und Ornamenten.
+
+Prov.:Kollektion Dr. Jacobs.
+
+## Fayencen.
+
+- 399 Fayence-Briefbeschwerer, weiD-glasiert. Arnstadt. Auf profilierter,rechteckiger Hohe 6, Lange 12, Breite 5,5 cm. Platte ein liegender Hund.
+- 400 Fayence-Schreibzeug. Arnstadt. In Porm einer Kommode, mit Sand- und
+- Hohe 10,5,Lange 16,5, Breite 9 cm. TintengefaB in bunter Bemalung.
+- Hohe 25 cm.
+- 401 Henkelkrug. Bunzlau. Mit Ornamenten in bunt.
+- 402 Puppenschreibzeug. Delft. Mit Tinten- und Sandgefa, in hibscher BlumenHohe 4, Lange 6, Breite 4 cm. malerei in blau.
+- 403 Delfter Kuh, auf viereckigem Sockel stehend und mit blauem Dekor. Hohe 15 cm.
+- 404 Flacher Teller. Delft. Dekoriert mit blauem Blumenmuster. Durchmesser 22 cm.
+- 405 Delfter Schussel. Der Fond fein bemalt mit Blumenornamentation in blau. Durchmesser 31 cm.
+- 406 Kleine Delfter Garnitur. Marke Hahnenful. Drei Deckelvasen und zwei Vleuten, deren birnformige Leibungen einen Pfauenvogel in Blaumalerei aufweisen. Auf dem
+- Hohe 19,9-25,5 cm.5 Teile. Deckel ein sitzender Lowe.
+
+Blumen und Vogeln. Als Knauf auf dem Deckel eine Tierfigur.
+
+- Marke:LF. Bestehend aus drei Deckelvasen und 407 Kleine Delfter Garnitur. zwei Vleuten. Die sechskantige Leibung gerillt und bunt bemalt mit Ornamenten, Hohe 18-25cm.5 Teile.
+- 408 Delter Garnitur. Marke: BP. Bestehend aus drei Deckelvasen und zwei Vleuten. Die birnformige Leibung zeigt in relifiertem Rokokomedaillon eine hollandische Landschaft und Blumen in hubscher Blaumalerei. Der dachformige Deckel weist als Knauf einen Vogel auf. Hohe 24,5-33 cm.5 Stick.
+- 409 Delfter Garnitur. Marke: L.V.S. Drei Deckelvasen und zwei Vleuten.Die eiformige Leibung der Vasen achtfach gefurcht und gleich den Vleuten reich mit Blumenornamenten in bunt dekoriert. Auf dem Deckel als Knauf ein Knopf.
+- dekoriert mit blau gemalten Blumenstauden. Hohe 23 cm. 5 Stick. Siehe Abbildung.
+- Hohe 27-—32cm. 410 Delfter Garnitur. Bestehend aus drei Deckelvasen und zwei Vleuten. Allseitig
+- 411 GroBe Delfter Garnitur. Marke: A.R. Bestehend aus drei Deckelvasen und zwei Vleuten. Die birnformigen Vasen achtfach abgeflacht und gleich den Vleuten mit reichem mille fleurs Dekor in Blaumalerei. Auf dem glockenformigen Deckel als Knauf eine Vogelfigur.
+- 412 Delfter Deckelvase. Marke: V. Duyn. Birnformig, und dekoriert mit Blumen und einer Landschaft in blau. Hohe 29 cm. Siehe Abbildung.
+- Hohe 30-45 cm.5 Teile.
+- 413 Delfter Deckelvase.Marke:A. P. (Anthony Pennis). sch8n gemalten Blumenstauden in Blau. Birnformig und mit
+- 414 Delfter Deckelvase. Birnformig und mit blauen Blumenstauden. Hohe 32 cm.
+- Hohe 32 cm. Siehe Abbildung.
+- 415 Hohe Delfter Vase mit Deckel. Marke: Hahnenfuu. Die birnformige Leibung, sechsfach abgeflacht, zeigt auf der Vorderseite in reliefiertem Rokaille- Medaillon V8gel und Blumen in blau. Als Deckelknauf ein Vogel. Hohe 43 cm.
+- 417 Delfter Vleute. Sechskantig und mit blaugemalten Chinoiserien. Hohe 20 cm.
+- 416 Delfter Vleute. Marke A. P. (Anthony Pennis.) Sechskantig mit iberfallendem Rand und Blaumalerei. Hohe 22,5 cm.
+- 418 Delfter Vleute. Zylindrisch mit iberfallendem Rand. Bemalt in blau mit Blumen und Ornamenten. Hohe 31,4 cm.
+- 420 Delfter Vleute. Zylindrisch mit iberfallendem Rand und blaugemalten Blumen
+- 419 Delfter Vleute. Zylindrisch mit iberfallendem Rand und bemalt mit Vogeln auf Blumenzweigen in blau. Hohe 3l cm.
+- und Chinoiserien. Hohe 27 cm.
+- 422 Zwei Delfter Vleuten. Marke:L. D. K.Sechskantig und mit Blumenstauden in blau dekoriert.
+- 421 Zwei Delfter Vleuten. Sechskantig mit Rokaillen und bemalt mit Vogel auf Blumenzweig in blau. Hohe 21 cm. 2 Stick.
+- 423 Zwei Fayence Pantoffel. Frankreich. Marke Gien. Mit blauem Dekor. Hohe 19 cm. 2 Stick.
+- Lange 13 cm.
+- 424 Fayence MaBkrug. Pulda. Mit Zinndeckel. Die zylindrische Leibung mit Land-
+- FD Hohe 22 cm. Siehe Abbildung.
+- 425 Schreibzeug. Niederwiller. In Form einer runden Vase auf vier KlauenfiBchen Hohe 7,5 cm. Siehe Abbildung. ruhend. Mit Goldekor in vier Silhouetten verziert.
+- Durchmesser 25 cm. Blumenornamentation in Blau.
+- 427 Zwei ovale Platten. Septfontaines, mit Marke. Mit fassoniertem Rand und Lange 30,5,Breite 23 cm.2 Stick. blauem Streublimchendekor.
+- Mit geflochtenem und durch428 Zwei runde Platten. Septfontaines, mit Marke.
+- Durchmesser 29,5 cm.2 Stick. brochenem Rand und blaumen Streubluimchendekor.
+- 429 Runde gedeckelte Terrine. Septfontaines,mit Marke. Verziert mit blauem
+- Hohe 22, Durchmesser 25 cm. Streublimchendekor.
+- 430 Schreibzeug. Straβburg. Mit bunter Bemalung. Wenig defekt. Lange 20, Breite 13 cm. Siehe Abbildung.
+- Durchmesser 22 cm.
+- 431 Flacher Teller. StraBburg. Mit buntem Blumendekor.
+- 432 Zwei flache Teller. Straβburg. Mit gewelltem Rand und buntem Blumendekor.
+- Durchmesser 25 cm. 2 Stick.
+- Durchm.25cm.2 St.
+- 433 Zwei Teller. Straβburg. Mit buntem Blumendekor.
+- 434 Henkelkannchen mit Zinndeckel. Dekoriert mit blaugemalten figurl. Darstellungen. Hohe 23 cm.
+- Durchmesser 21,5 cm. 435 Tiefer Teller. Suiddeutschland. Mit bunter Bemalung.
+- gesprungen.
+- 436 GroBe Schissel. Siddeutschland. Dekoriert mit bunter Blumenmalerei. Durchmesser 35 cm.
+- 437 Milchkannchen. Wedgwood. Der Henkel geflochten und in reliefierte Blume
+- Hohe 17 cm. endigend. Als Deckelknauf eine Blume.
+
+## Porzellane(Berlin,Fulda, Hochst,Ludwigsburg,Meiben,Wien etc.).
+
+- 438 Schalenformige Henkeltasse mit Unterschale. Bunt dekoriert. Henkel fehlt. Hohe 7 cm.
+- 439 Zwei Biedermeier-Flacons, sechseckig und mit Pfropfen. Allseitig mit bunter
+- Hohe 14 cm.2 Stick. Malerei verziert.
+- 440 Zwei Biedermeier-Tintenfaber mit Pfropfen und bunter Bemalung.
+- Hohe 9 cm. 2 Stick.
+- 441 Biedermeier-Vase. Auf drei KlauenfiDen, zylindrisch und mit iberfallendem Rand. Ein fein gearbeiteter Biskuit-Blumenkranz umzieht die wei glasierte Leibung.
+- Hohe 14cm.
+- Hohe 21 cm. Siehe Abbildung. 442 Biedermeier-Vase. Auf sechseckigem PuBe und mit bunter Bemalung.
+- 443 Zwei Biedermeier-Vasen. Dekoriert mit bunten BlumenstrauBen und Gold. Hohe 15,5 cm.2 Stick.
+- 445 Biedermeier-Statue. Volligur einer Dame in grinem Kleid. Hohe 17,5 cm.
+- 446 Becherformige Henkeltasse mit Unterschale. Empire. Berlin mit blauer Marke. Die Tasse mit breiten Goldrandern und einem schwarzen Silhouettenportrat. Im Fond der Unterschale ein buntes Alliance-Wappen und die Inschrift: ,Sylvester 1800-1801 von Elliot." Hohe 13 cm. 2 Teile. Siehe Abbildung,
+- Mit reichem Goldekor und einem fein gemalten Brustbild Dr. M. Luthers.
+- 447 Becherformige Henkeltasse mit Unterschale. Empire. Berlin mit blauer Marke.
+- Hohe 12,5 cm. 2 Teile. 448 Becherformige Henkeltasse mit Unterschale. Berlin mit blauer Marke. Beide Teile mit bunten Streublimchen dekoriert.
+- 449 Rokoko Teedose mit Deckel. Berlin mit blauer Marke. Birnformig, mit reliefierten
+- Hohe 8 cm.2 Teile.
+- Rokaillen und hubschen Streubluichen in bunt dekoriert. Hohe 15 cm. Siehe Abbildung.
+- formige Leibung dekoriert mit feingemalten Streublimchen. Hohe 14 cm. Siehe Abbildung.
+- 450 Sahne-Kannchen mit Henkel und AusguB. Berlin mit blauer Marke. Die birn-
+- 451 Sahne Kannchen mit breitem Ausgu und Henkel. Berlin mit blauer Marke und K.P. M. Dekoriert mit bunten Streublimchen. Hohe 13,5 cm. Siehe Abbildung.
+- dekoriert, zeigt an beiden Seiten reliefierte Widderkopfe als Handhaben.
+- 452 Zwei Vaschen. Berlin mit blauer Marke. Die Leibung mit bunten Streubluimchen
+- 453 Zwei Vasen. Hohe 18 cm. 2 Stick. Berlin mit blauer Marke.H feiner Malerei Reich dekoriert mit Streublimchen in Hohe 18 cm. 2 Stick. SieheAbbildung.
+- kugelige Dose gerillt und mit reliefierten Guirlanden und Kranzen verziert, in letzteren sind Reiterbildnisse in bunt gemalt. Hohe 12, Durchmesser 9 cm.
+- 455 Runde, gedeckelte Dose. Berlin mit blauer Marke. Der Deckel sowie die
+- 456 Rundes Confektkorbchen. Berlin mit blauer Marke. Reich durchbrochen ge-
+- 457 Kleiner Flacon. England XVIl. Jahrh. Fiaschenformig und mit hibscher Kauffahrteiscene in bunter Malerei Hohe 7,5 cm.
+- arbeitet und allseitig verziert mit fein gemalten Streublumchen in bunt. Die beiden seitlichen Henkel in Form von Aesten. Hohe 8,5, Durchmesser 16 cm.
+- 458 Zwei Vasen. England. Die kugelige Leibung mit langen, stark eingeschnirten Hals und bemalt mit Streublumchen und figirlichen Darstellungen in chinesischem Hohe 28 cm. 2 Stick. Siehe Abbildung.
+- Geschmack.
+- 459 Ovale Bonbonniere. Frankreich, XVll. Jahrh. Die Leibung sowie der gewolbte Lange 9, Breite 6,5 cm. Deckel mit bunten Blumen und Chinoiserien dekoriert.
+- 460 Becherformige Henkeltasse mit Unterschale. Empire. Frankreich. Allseitig mit Hohe 7 cm. 2 Teile. reichem Golddekor und Ornamenten in bunt verziert.
+- 461 Becherformige Henkeltasse mit Unterschale. Frankreich. Empire. Beide Teile Hohe 12 cm. 2 Teile. mit hibschem Golddekor verziert.
+- Verziert 462 Becherformige Henkeltasse mit Unterschale. Frankreich. Empire.
+- Hohe 12 cm. 2 Teile. mit reichem Golddekor.
+- 463 Becherformige Henkeltasse mit Unterschale. Frankreich. Empire. Mit reichem
+- Golddekor und einer auBerst fein gemalten Gebirgslandschaft mit Schlo. H. 11,5 cm. Siehe Abbildung.
+- 464 Becherformige Henkeltasse mit Unterschale. Frankreich. Empire. Dekoriert
+- Hohe 13,5 cm. Siehe Abbildung. mit einer bunten Parforcejagd.
+
+465 Hohe becherformige Henkeltasse mit Unterschale. Frankreich. Empire. Auf
+
+- drei KlauenfiBen mit iberfallendem, vergoldeten Rand und geschwungenem Henkel. Auf der Vorderseite in bunt Merkur und Venus in Landschaft. Auf der goldum-
+- randerten Unterschale ein bunter raphaelischer Engelskopf. H. 13,5 cm. Siehe Abbildg.
+- 466 GroBe becherformige Henkeltasse mit Unterschale. Empire. Frankreich. Mit
+- reichem Golddekor und fein gemalter Parklandschaft mit Rehen. H. 14,5 cm. 2 Teile.
+- 467 Statue ,Hirtenknabe". Frankreich, mit Monogramm L. B. (Brancas-Lauraguais). Auf reichem Rokokosockel steht an einen Baumstumpf gelehnt ein Hirt, in der Rechten halt er seinen mit Blumen gefillten Hut, wahrend auf seiner linken Hand ein Vogelchen
+- Hohe 26 cm. Siehe Abbildung. sitzt. Vor ihm ein Hund. Mit bunter Bemalung.
+- 468 Gruppe. Frankreich. Mit Marke: Rue Neuve des Capuc. Auf rundem Rokokosockel ein Apfelbaum,auf welchem ein Knabe sitzt. Darunter ein Sanger und eine Sangerin, dahinter schmickt ein Knabe seinen Hut mit Aepfeln. Mit bunter Hohe 30 cm. Siehe Abbildung. Bemalung.
+- 469 Teekannchen, mit Deckel und Henkel. Fulda. Marke: Doppel T und Krone. Die kugelige Leibung mit feingemalten Streublimchen, der Ausgu in Form eines Hohe 13,5 cm. Siehe Abbildung. Delphinkopfes.
+- 470 Konfektschale. Hochst. Marke: Blaues Rad mit Krone. Im Fond fein gemalte
+- Lange 19, Breite 15 cm. Frlichte. Der Rand gewellt und vergoldet.
+- 471 Sechs schalenformige Tassen mit Unterschalen. Hochst. Marke: Rotes Rad. Beide Teile weisen auBerst fein gemalte Streubluimchen und verschiedene Landschaften Hohe 5,5 cm. 12 Teile. Siehe Abbildung.
+- in Purpur auf.
+- 472 Statuette Harlekin.Hochst.(?) Auf grinem Sockel an einem Baumstumpf in tanzender Stellung. Schwarze Kniehose und geblumte Jacke mit Spitzenkragen. Auf dem Kopf einen gelben Spitzhut. Hohe 13,5 cm. Siehe Abbildung.
+- 473 Statue Turkin. Hochst. Marke: Bekrontes Rad. Auf Rasensockel in reichem
+- Kostim eine Tirkin. Hohe 18 cm.
+- 474 Ovale Platte. Limbach. Mit Monogramm L.B. Mit durchbrochenem Rand und
+- reliefiertem Korbflechtmuster. Im Fond bunt gemalte Streublimchen.
+
+Lange 24,5, Breite 20 cm.
+
+- 475 Zwei Statuetten. Schafer-Schaferin&amp;. Ludwigsburg. Marke: Doppel C. Auf rundem Sockel. Knabe in grinem Anzug, auf dem linken Arm ein Haschen haltend. Madchen in weilem, gringestreiften Kleid, auf dem linken Arm ein Schafchen tragend. Hohe 15 cm. 2 Stick. Siehe Abbildung.
+- 476 Statue Bettlerin. Ludwigsburg. Marke: Doppel C. Ganze Figur einer Bettlerin neben einem auf dem Boden liegenden Sack. In der Linken halt sie eine weile Schirze und einen Topf. Auf ihrer rechten Schulter sitzt eine weibe Katze. Das Weib tragt braunen zerissenen Rock und gelbe Bluse. Hohe 17 cm. Siehe Abbildung. Modelliert von P. Franc. Lejeune.
+- 477Statuette Dudelsackblaserin. Ludwigsburg. Mit Marke: Bekrontes doppel C.
+- Auf einem Felsblock sitzt ein junges Madchen, in der Hand einen Dudelsack haltend. Mit bunter Bemalung. Hohe 16,5 cm. Siehe Abbildung.
+- 478 Henkeltasse mit Unterschale. Meiβen mit blauer Schwertermarke. Mit rotem und blauem Dekor. Hohe 7 cm. 2 Teile.
+- 479 Becherformige Henkeltasse mit Unterschale. MeiBen, Marcolini mit blauer Schwertermarke und Stern. Beide Teile mit buntgemalten Streubluimchen verziert.
+- 480 Becherformige Henkeltasse mit Unterschale. Meiβen, Marcolini mit blauer
+- Hohe 7 cm. 2 Teile.
+- Schwertermarke. Beide Teile dekoriert mit ziegelroten Blumenranken.
+
+Hohe 7 cm. 2 Teile.
+
+- 482 Becherformige Henkeltasse mit Unterschale. MeiβBen mit blauer Schwertermarke.Der Rand mit reliefiertem Korbflechtmuster.Dekoriert mit auBerst fein gemalten Watteauscenen, Liebespaare in Landschaft. Hohe 9 cm. Siehe Abbildung.
+- 481 Becherformige Henkeltasse mit Unterschale. MeiBen mit blauer Schwertermarke. Auf der Tasse das buntgemalte Wappen der von Timpling und Streublumchen. Die Unterschale tragt im Fond die Inschrift: Zum Andenken den 3. Marz 181l. Die von Tumpling. Hohe 7,5 cm.2 Teile. Siehe Abbildung.
+- 482a Becherformige Tasse. Meiβen, mit blauer Schwertermarke. Mit bunt. Bemalg. Hohe 6,5 cm.
+- marke. Reich mit Golddekor verziert. Hohe 6 cm. 2 Teile.
+- 483 Schalenformige Henkeltasse mit Unterschale. Meiβen, mit blauer Schwerter-
+- 484 Schalenformige Henkeltasse mit Unterschale. MeiBen, Marcolini mit blauer Schwertermarke und Stern. Allseitig verziert mit bunt gemaltem Rankenwerk und Hohe 5,5 cm.2 Teile. V8geln in chines. Geschmack.
+- 485 Schalenformige Henkeltasse mit Unterschale. Meiβen, mit blauer Schwertermarke. Dekoriert mit Goldrandern und einer Ansicht des Brandenburger Tores Hohe 9 cm. 2 Teile. Siehe Abbildung. in Berlin.
+- 486 Gehenkeltes Sahnekannchen mit Deckel. MeiBen, mit blauer Schwertermarke Die birnformige Leibung mit bunter Landschaft auf graubraunem Pond. Hohe 12,5 cm.
+- 487 Gedeckelte Teekanne. Meiβen, Marcolini, blaue Schwertermarke mit Stern.
+- Die kugelige Leibung zeigt in zwei Ornamentmedaillons buntgemalte Chinoiserien. Hohe 9 cm. Siehe Abbildung. Henkel und Ausgul mit relifiertem Astwerk verziert.
+- 488 Gedeckeltes Teekannchen. MeiBen, mit blauer Schwertermarke. Die Leibung
+- Hohe 10,5 cm. mit Blumenmalerei verziert.
+- Meiβen,mit blauer Schwertermarke. Die 489 Runde, gedeckelte Bonbonniere. Leibung und der Deckel mit Golddekor und drei Medaillons, in welchen Kauf-
+- Hohe 6,5, Durchmesser 9 cm. Siehe Abbildung. fahrteiscenen in bunt dargestellt sind.
+- 490 Achteckige Schale. MeiBen, mit blauer Schwertermarke. Die Aulenseite ver-
+- goldet, der Fond reich ornamentiert und mit Chinoiserien verziert. Hohe 3, Lange 11,5, Breite 11,5 cm.
+- 491 Ovale Schale. MeiBen, Marcolini mit blauer Schwertermarke und Stern. Der Rand gerilt und facettiert. Im Fond mit reicher Goldornamentation und bunt ge-
+- Hohe 31,Lange 17,5,Breite 13,5 cm. malten Chinoiserien.
+- 492 Viereckige Jardiniere. Meiβen, mit blauer Schwertermarke. Der Rand gewellt
+- Lange 22, Breite 22 cm. und im Fond bunte Streubluimchen. Defekt.
+- 493 Flacher Teller. MeiBen mit blauer Schwertermarke. Der Rand gewelt. Der Fond
+- zeigt flach reliefiertes Weinrankenwerk mit goldenem und grinem Dekor. Durchmesser 25 cin.
+- 494 Zwei flache Teller. Meiβen, mit blauer Schwertermarke. Der Rand sechsmal
+- eingeschnirt und mit reliefiertem und bemaltem Blumenwerk. Durchm. 21 cm. 2 Stick.
+- 495 Zwei flache Teller. Meiβen mit blauer Schwertermarke. Der Fond mit finf Durchmesser 22 cm. 2 Stick. flach reliefierten Weinblattern mit Golddekor.
+- Meiβen mit blauer Schwertermarke. Der Rand durchbrochen 496 Zwei flache Teller. gearbeitet. Im Fond je eine fein gemalte Ansicht. ,Schillerhaus an der Esplanade", Durchmesser 22 cm. 2 Stick. ,Residenz-Schlo Altenburg".
+- 497 Tiefe ovale Platte. Meiβen, mit blauer Schwertermarke. Die Inenseite reich
+- ornamentiert in Flachrelief und goldenem und blauem Dekor. H. 5,5,L. 27,5,Br.23 cm.
+- 498 Zwei Vaschen. Meiβen, mit blauer Schwertermarke. Auf profiliertem, ovalen FuJe aufrechtstehende Filihorner, verziert mit bunten Streublimchen und Golddekor.
+- Hohe 1l cm. 2 Stick. Siehe Abbildung.
+- 499 Gehenkelte Vase. Meiβen, mit blauer Schwertermarke. Auf rundem, stark eingeschnirtem FuBe zeigt die birnformige Leibung reichen Golddekor und eine auBerst fein gemalte Landschaft mit Schlo Ehrenberg. Die beiden seitlichen Handhaben in Porm von zwei Schlangen. Hohe 28 cm. Siehe Abbildung.
+- 500 Zwei Vasen. Meiβen, mit Monogramm A.R. Die kugelige Leibung sowie der lange schlanke Hals mit Blumen und Vogeln in chinesischemGeschmack dekoriert. Hohe 32 cm. 2 Stick.
+- 501 Statue. Wanderer. Meiβen.E Blaue Schwertermarke.Auf weilem Rasensockel an einen Baumstumpf gelehnt ein Mann in Dreispitz und Ranzen, Stock in der linken Hand. Der lange Rock mit Goldknopfen. Modell von Kandler.
+- dem mit Streublimchen bemalten Gewand tragt sie einen rosafarbenen Umhang. Hohe 20 cm. Siehe Abbildung.
+- Hohe 19 cm. Siehe Abbildung. 502 Statuette Florae MeiBen, mit Marke. Auf rundem Rokokosessel lehnt an einen Baumstamm die Blumengottin,in den Handen eine Blumenguirlande haltend. Ueber
+- 503 Statuette Putte Proskau. Auf rundem Sockel ein Putte in den Handen ein Blumenkorbchen haltend. Hohe 1l cm.
+- 505 Runde Zuckerdose mit Deckel. Rauenstein. Aenlich wie Vorige.
+- 504 Runde Zuckerdose mit Deckel. Rauenstein. Gerilt und mit blauem, stilisierten Blumenmuster. Hohe 10,Durchmesser 9,5 cm.
+- Hohe 9, Durchmesser 9,5 cm.
+- 506 GroBe schalenformige Henkeltasse mit Unterschale. Sevres mit blauer Marke. Datiert 1824. Beide Teile mit reichem Golddekor auf dunkelbraunem Fond. Den Rand umzieht, eine auJerst fein gemalte Blumenguirlande. Hohe 10,5cm.
+- 505a Statuette eines Kavaliers. Der Sommer. Rudolstadt mit Marke. Stehend an eine groJe, aufrechte Aehrengarbe gelehnt, in beiden Handen seinen schwarzen Hut mit gelber Feder haltend. Bekleidet mit gelbem langen Rock und rot gestreifter Kniehose. Hohe 18 cm.
+- 507 Becherformige Henkeltasse mit Unterschale.Thiringen. eine bunte Landschaft. Im Fond der Unterschale auf einem Gedenkstein die Inschrift: Auf der Wandung &gt;Es gilt der Preundin Hohe 7,5 cm. 2 Teile. Siehe Abbildung.
+- Hohe 11,2 cm.
+- 508 Teebiichse mit Silberdeckel. Volksstedt mit roter Marke. Die Leibung mit bunter Blumenmalerei in chinesischem Geschmack.
+- 509 Gedeckeltes Teekannchen. Volksstedt, mit roter Marke. Die kugelige Leibung mit bunter Blumenmalerei in chinesischem Geschmack. Der AusguB endigt in einen Tierkopf, der Henkel ist mit Rokaillen verziert. Hohe 9,5 cm.
+- 510 Statuette. Lautenspielere. Wien, mit blauer Marke. Auf rundem Rokokosockel steht ein Kavalier, in den Handen eine Laute haltend. Hohe 16 cm.
+
+## Glaser.
+
+- 511 Henkelglas mit Deckel. XVill. Jahrh. Mit Ornamenten.
+- Hohe 18 cm.
+- 512 Becherglas mit Deckel. Die konische Wandung verziert mit fein geatztem BlumenHohe 19 cm. ornament.
+- 513 Weinpokal. XVll. Jahrh. Auf Holzfu. Der kantige Korper zeigt eine auJerst fein geschliffene und geatzte Lagerscene mit Reitern in reichem Ornament Medaillon. Hohe 18,5 cm.
+- 514 Weinpokal. Kantig geschliffen und bemalt mit breiten Goldrandern und einer
+- Hohe 17,5 cm. Parkscene a la Watteau in Rokoko-Medaillon.
+- 515 Drei Glasbecher. Die konische Wandung kantig geschliffen und mit feingemalten, goldenen Jagd- und Parkscenen in Rokaille-Umrahmung. Der Lippenrand vergoldet.
+- Hohe 9 cm. 3 Stick.
+
+## Elfenbein, Miniaturen, Perlmutter, Schildpatt.
+
+- 516 Geldtaschchen. Schildpatt, eingelegt mit Perlmutter und goldenen Ornamenten.
+- Lange 8,5,Breite 5,5 cm.
+- Lange 20 cm. 517 Schildpatt-Facher. Anfang XIX. Jahrh.
+- 518 Haarkamm. Schildpatt. XVIll. Jahrh. Reich durchbrochen gearbeitet. Hohe 18,5, Breite 14,5 cm.
+- 519 Perlmutter-Relief. XVll. Jahrh. Auf rechteckiger Platte eine fein geschnittene Landschaft. Im Vordergrunde zwei rauchende und trinkende Bauern. Auf der Rick-
+- Hohe 6, Breite 12,5 cm. seite bezeichnet:J. C. Konsz. Fec. 1757.
+- 520 Perlmutter-Etui, mit zwei eingesetzten Elfenbein-Miniaturen. Brustbild einer jungen
+
+Dame in pelzverbramtem Mantel. Das Haar mit weilen Bandern geziert. Auf der
+
+- Hohe 10, Breite 8 cm. Siehe Abbildung. Rickseite ein BlumenstrauB.
+- 521 GroBer Meerschaum-Pfeifenkopf mit Silberbeschlag. XVll. Jahrh. AeuBerst reich geschnitten mit einer Hirschjagd. Zwei Ritter und eine Edeldame zu Pferd —
+- welcher sich zu einem Einsiedler geflichtet hat. In altem Etui. Hohe 16, Breite 15 cm. Siehe Abbildung.
+- 522 Elfenbein-Facher. Anfang XIX. Jahrh. Beiderseitig mit durchbrochenem Blumen-
+- Lange 21,5 cm. Siehe Abbildung. werk geschnitten.
+- 522a Elfenbein-Facher. Anfang XIX. Jahrh.Aehnlich wie Voriger.
+- Lange 23 cm.
+- 523 Elfenbein-Biste. XVIll. Jahrh. Auf rundem Sockel die Biste einer jungen Frau. Bezeichnet E. de Clercq. Hohe 15 cm. Siehe Abbildung.
+- 525 Elfenbein-Statue. Spanisch oder portugiesisch. XVI. Jahrh. Weibliche Heilige mit in Strahnen herabfallendem Haar und ibergeworfenem Mantel.  Die Hande hat hat sie andachtig gefaltet. Teilweise mit alter Vergoldung. H. 17 cm. Siehe Abbildg.
+- 524 Christus-Figur. Elfenbein. Spanien, XVI. Jahrh. Christus ist als Leichnam nur mit Lendentuch bekleidet dargestellt. Der Korper ist mit aufgemalten Blutflecken versehen. Lange 21 cm. Siehe Abbildung.
+- 526 Rundes Elfenbein-Medaillon, XVIll. Jahrh.In Hochrelief Portrat des IOHAN-
+- PAULI-OLIUEKRANS. (Schwedischer Staatsmann 1633-1707.) Brustbild nach rechts mit Allongepericke. Bezeichnet: C. (J. Cavalier). Durchmesser 7 cm.
+- 527 Elfenbein Relief. Rechteckig, XVIl. Jahrh. In fein geschnittenem Hochrelief die Geisselung Christi. Christus ist an einen Stein gefesselt und wird von drei Mannern mit Ruten geschlagen. Hohe 13, Breite 8,7 cm. Siehe Abbildung.
+- Blucher Franz Schubert Freiherr von Stein.
+- 528 Funf runde Elfenbein-Reliefs. Portat des Th. Korner — Andr. Hofer -General
+
+In Holzrahmchen. Durchmesser 4 cm. 5 Stick.
+
+- und mit Spitzen besetztem Kleide. Auf dem Kopfe tragt sie etn Spitzenhaubchen.
+- 529 Ovale Elfenbein Miniatur. Brustbild der Marie Lescinska in pelzverbramtem
+- Bronzerahmchen. Hohe 6, Breite 4,5 cm. 530 Ovale Elfenbein-Miniatur. Brustbild der Konigin Charlotte in dunklem ausgeschnittenem Kleide und mit weil gepudertem Haar. Broncerahm.H.6,Br.5 cm.
+- 532 Ovale Miniatur. Pergament. XVll. Jahrh. Huftbild einer Daine in blauem, Spitzen besetztem Kleide, Goldener Hintergrund. Kupf. Rahmch. H. 7,5, Br. 6 cm.
+- 531 Ovale Elfenbein-Miniatur. Brustbild der Konigin Louise, auf dem blondgelockten Haar tragt sie ein Diadem. Holzrahmchen. Hohe 4,7,Breite 3,6 cm.
+- 533 Zwei ovale Elfenbein-Miniaturen. Brustbild des Revt Ersthy und dessen Gemahlin. In Empirerahmchen. Hohe 7,5,Br. 6 cm.
+- Goldrahmchen. Hohe 5,2, Breite 4,3 cm. Siehe Abbildung. 535 Rechteckige Elfenbein-Miniatur. Huftbild eines Herrn nach rechts in Biedermeiertracht. In Lederetui.Hohe 9,5,Breite 7,5 cm.
+- 534 Rechteckige Elfenbein-Miniatur. XVll. Jahrh. Vor dunklem Hintergrund Brustbild der Mutter Rembrandts in dunklem Kleid und weiDer Haube.
+- 536 Rechteckige Elfenbein-Miniatur. Brustbild Napoleon I.Jugendbildnis in
+- Uniform nach einem Gemalde von Greuze. Broncerahmch.H.6,5, Br. 5,2 cm.
+- 536a Rechteckige Elfenbein-Miniatur. Kniebild der Adelheide von Orleans (Schwester
+- Louis Philipps). In rotem ausgeschnittenem Kleid auf einem Sessel sitzend. Silbermontiertes Schildpattrahmchen. Hohe 13,Breite 9 cm.
+- 537 Rechteckige Elfenbein-Miniatur. Landschaft mit Viehherde nach Nic. Berchem.
+- Schildpattrahmchen. Hohe 9,Breite 13 cm.
+- 538 Ovale Elfenbein-Miniatur. Brustbild eines alteren Herrn in pelzverbramtem
+- Mantel. Schildpattrahmchen. Hohe 5, Breite 4 cm.
+- 539 Ovale Elfenbein-Miniatur. Brustbild des Prinzen Franz von Hohenlohe,
+- Schildpattrahmchen. Hohe 8,5, Breite 7 cm.
+- 540 Ovale Elfeinbein-Miniatur. Huftbild einer jungen Dame in spitzenbesetzem Kleid. Auf dem blondgelockten Haar ein groBer Strohhut. Hintergrund Landschaft.
+- Bronzerahmchen. Hohe 6,Breite 5 cm.
+- roten Kleid und lockiger Frisur.— Huftbild des Lord Peel nach rechts in dunklem Rock. In vergoldetem Rahmchen. Hohe 8,2, Breite 6 cm.
+- 542 Runde Elfenbein-Miniatur. Brustbild der Henriette Schroter mit hoher Locken-
+- Durchmesser 9 cm. frisur und in ausgeschnittenem Kleid.
+
+543 Runde Miniatur auf Porzellan. Wien,Marke: Bindenschild. Brustbild der Madame
+
+- Holzrahmchen.Durchmesser 6 cm. Lebrun. Bezeichnet: Mathieu.
+- An einen Tisch,auf welchem Buicher 544 Wachsportrat. Huiftbild eines Gelehrten. und ein Federkiel liegen, ein in faltenreiches Gewand gekleideter Mann. Er hat beide Arme aufgestitzt und blattert eifrig in einem Folianten, in welchem die Verse zu lesen sind:,NUR-KONNER-WERDEN-DIESES-SAGEN- WAS-SIE-AN-DIESER ABBE(it). HABEN- UND-VON- GROSER-HERREN- GELD-LEBEN-KUNSTLER-IN-DER-WELT-WAN-GROSE-BRINGEN-KUNST-IN-FLOR-SOKOMT -DES -KUNSTLERS- GEIST-INPOHR". Das ausdrucksvolle Gesicht ist umrahmt vou einem Kranz langer Lockenhaare und lang herabwallendem Bart. Bezeichnet: W. S. Wunderbar modelliert.
+
+In Rahmenkasten. Hohe 20,5, Breite 17,5 cm. Siehe Abbildung.
+
+## Eisen, Zinn, Kupfer.
+
+- 545 Lange dreizinkige Gabel. Eisen, XVll Jahrh. Der lange Stil ist Schraubenzieherformig; der breite Griff zeigt unten eine getriebene Maske und auler geschnittenen Lange 53 cm. Siehe Abbildung. Ornamenten den Namen:ALF.
+- 546 Turklopfer. Schmiedeeisen, geschniten XVll. Jahrh. Mit Masken und Orna-
+- Lange 38, Breite 17 cm. menten verziert.
+- 547 GroBer Schlubel. Eisen, geschnitten XVI. Jahrh. Mit verziertem Bart und Grif
+- Lange 17 cm. Siehe Abbildung.
+- 548 Drei verschiedene Schluissel. Eisen, geschnitten. XVI. Jahrh. Bart und Griff Lange 9—12 cm. 3 Stick. Siehe Abbildung. verziert.
+- 549 Drei Schluissel. Eisen, geschnitten. XVI. Jahrh. Bart und Griff durchbrochen gearbeitet. Lange 12 cm. 3 Stick.
+- 550 Vier Schlssel. Eisen, geschnitten. XVl. Jahrh. Die Griffe sind rund und durchbrochen gearbeitet. Lange ca. 10 cm. 4 Stick.
+- 551 Zwei Kamineisen. Schmiedeeisen. XVI. Jahrh. Hiel, zum Aufhangen von Topfen. Lange 80 u. 85 cm. 2 Stuick.
+- 552 Eiserne Kaminplatte. XVl. Jahrh. Die oben in drei Rundbogen auslaufende
+- 552a Eiserner Feuerbock. XVll. Jahrh. Hohe 59 cm.
+- Platte ist in der Mitte geteilt und zeigt unten den thronenden Konig Salomon in einer Gerichtsscene. Oben in der Mitte ein springender Lowe in eingezauntem Garten. Rechts und links je ein Wappenschild mit Lowen. Prachtstick. Hohe 85, Breite 6 cm.
+- 553 Zwei Kerzenleuchter. Zinn, rot bemalt. Anfang XIX. Jahrh. H.25 cm. 2 Stick.
+- Schaft mit birnformigen Zwischensatzen. Der Dorn Schmiedeeisen.
+- 554 Zwei hohe Barock-Kerzenleuchter. Zinn. Auf wulstigen,runden Fuben der
+
+Hohe 50 cm. Siehe Abbildung.
+
+Hohe 25 cm.
+
+- 555 Zinn-Oellampe. XVll. Jahrh. Auf rundem Tellerfuu.
+- 556 Flacher Zinnteller mit Aachener Zinnstempel und Meisternamen. Durchm.24 cm.
+- 558 Zwei Rokoko Teller. Zinn. Der Rand profiliert und mehrfach eingeschnirt.
+- 557 Flache Rokoko-Schussel. Zinn. Der Rand profiliert und mehrfach eingeschnirt. Durchm.32 cm.
+- Durchmesser 24 cm.2 Stick.
+- 560 GroBe flache Schissel. Zinn. XVll. Jahrh. Auf dem breiten Rand oben ein graviertes Wappen, Durchmesser 47 cm.
+- 559 Fidibus-Becher. Zinn. XVll. Jahrh. Auf rundem, profilierten FuB; die Leibung eingeschnirt. Hohe 14,5 cm.
+- 561 Runde gedeckelte Zuckerdose. Zinn-Empire. Die konische Wandung wird durch zwei aufgelegte Lowenkopfe flankiert. Hohe 15 cm.
+- 563 Zinnkessel. XVll. Jahrh. Aenlich wie Voriger. Hohe 18 cm.
+- 562 Zinnkessel mit Deckel und groJem Traghenkel. XVll. Jahrh. Hohe 26 cm.
+- 564 Teekanne. Alfenide. XIX. Jahrh. Die Leibung mit gravierter Ornamentation. Mit Deckel.
+- 565 Empire Krahnenkanne. Zinn. Vasenformig und ornamentiert. Hohe 27 cm.
+
+Hohe 21 cm.
+
+- 566 Krahnenkanne. Zinn. Vasenformig und mit Holzknaufen versehen.
+
+Hohe 40 cm. Siehe Abbildung.
+- 567 Hohe Krahnenkanne, Zinn mit drei Krahnen. Birnformig, auf drei volutenformigen FuBen mit Holzknäufen und mit zwei seitlichen, geschwungenen Henkeln. Hohe 53 cm. Siehe Abbildung. Der glockenformige Deckel mit Holzknauf.
+- 568 Teebichse. Frauenkopf endigend. Reich verziert mit gravierten Ornamenten.
+- Kupfer. Holland. XVIll. Jahrh. Sechseckig, oben in einen offenen Hohe 20 cm. Siehe Abbildung.
+- 569 Einarmiger Wandleuchter. Kupfer, Barock. Die getriebene Rickwand in
+- Hohe 18,5,Breite 19 cm. Form einer Kartusche.
+- 570 Wandleuchter. XVll. Jahrh. Auf geschnitzter Holzplatte eine messinggetriebene Strahlensonne, an welcher der geschweifte Arm angebracht ist. Hohe 45 cm. Siehe Abbildung.
+- 571 Handlaterne. Messing. Vierseitig verglast und mit Tragring.
+- Hohe 43 cm.
+- Ueber dem Stern drei Arme mit Rosetten. 572 Sabbathlampe mit Sage. Kupfer. Hohe 48 cm. Als Abschlu oben ein Doppeladler.
+- Hohe 45 cm. Rosetten.
+- 574 Sabbathlampe mit Sage. Kupfer.
+- Hohe 48 cm.
+- Hohe 42 cm. 575 Bronze-Leuchter. XVll. Jahrh. Sechsarmig und reich verziert.
+- 576 Rechteckige Tabatiere. Kupfer. Holland, XVIl. Jahrh. Deckel und Boden mit
+- Lange 12, Breite 5 cm. gravierten Ornamenten, Figuren und Inschriften.
+- Hohe 22 cm.
+- Hohe 18 cm.
+- Durchmesser 43 cm.
+- 577 Kleiner Wasserkessel. Kupfer. Anfang XIX. Jabrh.
+- 578 Kaffeekanne mit Deckel und Henkel. Kupfer. XIX. Jahrh.
+- 579 Kupferne Ampel. XVll. Jahrh.
+
+580 Kamin-Vorsatz. Kupfer. XVIll. Jahrh. Mit gravierten Guirlanden.
+
+Hohe 17, Breite 59 cm.
+
+- 581 Tiefe Wandschussel. Kupfer getrieben und graviert. Im Fond Darstellung des
+- Durchmesser 53 cm. hl. Christophorus.
+- 582 Wandschuissel. Kupfer getrieben und graviert. Im Fond zwei Manner eine grobe
+- Durchmesser 42 cm. Traube tragend. Der breite Rand mit Buckelornament.
+
+## Bronzen etc.
+
+- Mit eingelassenem Compal und zwei aufgeklebten 583 Sonnenuhr in Holzgehause. Lange 8,5, Breite 5,5 cm. Tabellen und Stadteverzeichnis.
+- 584 Kleine Achatdose,rechteckig mit kupfervergoldeter Montierung.
+- 585 Sechs Kommodenbeschlage und drei Schlisselschilder. Bronce. Louis XVI.
+
+Lange 5,7, Breite 2,5 cm.
+
+- Durchbrochen gearbeitete Vasen mit Guirlanden.
+- 586 Grolbes Kronungssiegel, Blei. Auf reichem, gothischen Kronungssessel mit Baldachin sitzt der Kaiser Albrecht I. (1298—1308) in vollem Kronungsornat und mit Scepter und Apfel. Darum gruppiert sechs von Lowen gehaltene Wappen. Am Rand zwei Reihen Schrift. Durchmesser 12 cm. Siehe Abbildung.
+- 9 Teile.
+- 587Opladen-Form. Zinnlegierung. XV. Jahrh. Flachrelief. In der Mitte in einem SechspaB Christus auf Wolken stehend. Darum ein Doppelkreis mit Inschrift. Der Rand zeigt unter gotischem Spitzbogen auf Saulen die zwolf Apostel.
+- 588 Messer mit Bronzegriff. Italien XVI. Jahrh. Der gewundene Griff in einen Tierkopf mit Ring endigend.
+
+Durchmesser 26 cm. Siehe Abbildung.
+
+- Lange 19 cm. 589 Grofer Brunnenkrahnen. Barock. Nurnberg. Der Auslauf in Form eines Delphinenkopfes. Auf dem Wirbel als Handgriff ein vollrunder Delphin. L. 38 cm.
+- 590 Bronce Petschaft in Form eines hockenden Teufels. Deutsch. XVI. Jahrh.
+
+Hohe 4,2 cm.
+
+- 592 Christus-Corpus. Kupfer, feuervergoldet. Frankreich XVll. Jahrh. mit dem Lendentuch bekleideter Korper mit seitwarts geneigtem Haupte. Nakter,nur durchmodellierter und ciselierter Gu. Wundervoll Hohe 22 cm. Siehe Abbildung.
+- 591 Tischglocke. Bronze, XVIll. Jahrh. Kugelige Form mit vier Wappen. H. 7 cm.
+- 593 Christus-Corpus. Xll.-Xlll. Jahrh. Ausgeschnittenes Flachrelief. Bronzetreibarbeit. Mit Resten von Vergoldung. L. 13,5, Br. 12 cm. Siehe Abbildung. Ciselierte
+- Hohe 16,5, Breite 10,5 cm. Siehe Abbildung.
+- 594 Christus-Corpus. Limoges Xll.Xll. Jahrh. Ausgeschnittenes Hochrelief. lierte Bronzetreibarbeit. Teilweise mit undurchsichtigem Grubenschmelz verziert. Cise-
+- 595 Kruzifix mit vollrundem, feuervergoldeten Corpus. Xlll. Jahrh. Bartig, mit Dornenkrone und Lendenschurz, hangt Christus mit geschlossenen Augen am Kreuz. Das Kreuz an den Seiten gekerbt und mit Messing eingefaIt.
+- 596 Sechseckige Tischuhr mit Wecker, Bronze vergoldet. Siddeutschl. XVI. Jahrh. Auf drei mit Rankenwerk verzierten KlauenfiBchen, der Rand oben unten profiliert und iberstehend. Die Zifferblatter mit Stunden,Tag- und Monatsangabe. Raderwerk hubsch durchbrochen gearbeit und graviert. Hohe 9, Durchmesser 11,5 cm.
+
+Hohe 22, Breite 12,5 cm. Siehe Abbildung.
+
+- 597 Bronze-Medaille. Brustbild Salviatis;Rev. Fortuna mit Fuillhorn. Durchmesser 8,5 cm. Siehe Abbildung.
+- Durchmesser 9 cm. Siehe Abbildung.
+- 598 Bronze-Medaille.Brustbild d.MARIA-MAGDALENA-ARCH-AVSTR-MAG-D-ETR.
+- 599 Bronze-Medaille. Brustbild d. ACHILLES-BOCCHIVS. Rev. Mythologische Darstellung. Durchmesser 6,5 cm. Siehe Abbildung.
+- VICTORIA-ROBERT-M-D-ETRVR Brustbild.Rev. Seestick. Durchmesser 8,5 cm. Siehe Abbildung.
+- 600 Bronze-Medaille. Bos. IN. CANDOR.
+- 601 Bronze-Medaille. ANTONIUS-FRANC.- GHISE-LLI-NOB- BON- CANONI.
+- Brustbild. Rev.EX-MORTALITA-TE-SIRI-PARTA-IMMORTA-LITE.Frauenfigur in Landschaft. Durchmesser 9 cm. Siehe Abbildung.
+- 602 Bronze-Relief. XV. Jahrh, Mit Resten von Vergoldung. Vor einem Pult mit aufgeschlagenem Buch kniet die hl. Maria in faltenreichem Mantel. Das lockige Haar wallt iber die Schulter herab. Hohe 6, Breite 5 cm. Siehe Abbildung.
+- Christus mit dem Lendentuch bekleidet, an eine
+- 603 Bronze-Plakette,rechteckig. Saule gefesselt. Hohe 14, Breite 7,5 cm. Siehe Abbildung.
+- 604 Bronze-Plakette, Halbrelief. Padua (Arbeit des Moderno). Anfang XVI. Jahrh. Kreuzigung Christi. Zwischen den beiden Schachern hangt Christus am Kreuze, dessen Stamm Magdalena umfaUt. Links vorne ist Maria hingesunken, von zwei Frauen gehalten. Hinter ihr steht Johannes, die Hande ringend; rechts zwei Krieger, der eine nackend nur mit dem Schilde. Im Hintergrunde weiteres Kriegsvolk, darunter zwei Berittene: der eine mit einer Keule auf den rechten Schacher einschlagend.
+
+Hohe 11,2, Breite 7,6 cm. Siehe Abbildung. Vergl. Molinier, Les plaq. No. 171 u. Bode, Italien. Bronzen No. 740 u. Taf. 50.
+
+rechts vom Kopfe die Buchstaben INRI. Nach dem im Schatz von St. Peter in
+
+- 605 Bronze-Plakette, Halbrelief. Vergoldet. Italien XVI. Jahrh. Vera Ikon. Brustbild Christi im Profil nach links. Ueber dem Nimbus die Taube, links die Sonne, rechts Siehe Abbildung. Hohe 9, Breite 6,4 cm. Rom befindl. altertliml. Cameo.
+- der Mond. Von einem mit Zahnschnitt versehenen Rahmen eingefabt. Links und Vergl. Bode, Italien.Bronzen No.1305 u.Taf.74,u.Read,Plaquettes of the mediaeval room in the British-Museum.
+- 606 Bronzebuiste. Leicht nach links gewendet, mit fast kahlem Schadel und gebogener Nase. Das lose umgeworfene
+- Italien XVI. Jahrh. Romischer Imperator. Hohe 211/2 cm. Siehe Abbildung. Gewand aus Marmor. Auf Marmorsockel.
+- 607 Bronzestatue. Padua, XVl. Jahrh. Marc Aurel. Nachbildung der antiken Reiterstatue auf dem Capitol. Auf Originalsockel. Schwarze Lackpatina. Hohe 33 cm. Siehe Abbildung.
+- 608 Bronzestatue. Florentinisch (Giovanni da Bologna?) Ende XVl. Jahrh. Nessus und Deianira. Der Centaur, hoch aufspringend im Galopp, halt die sich straubende nackte Frau mit beiden Handen gewaltsam auf seinem Ricken fest. Auf Holzsockel. Hohe mit Sockel 31, ohne Sockel 22 cm. Siehe Abbildung. Dunkelbraune Lackpatina. Ehedem Sammlg. Zoeppritz.
+- 609 Bronzestatue.S Spuren von Vergoldung. Venedig XVI. Jahrh. Romischer Feldherr. Lorbeergekront und in reich verzierter und gegirteter Tunika, unter welcher
+er die bis zu den Knien reichende und mit halblangen Aermeln versehenen subucula tragt. Die linke Hand stitzt er in die Hufte, wabrend die erhobene Rechte den Feldherrnstab tragt. Auf Holzsockel. Hohe 34 cm. Siehe Abbildung.
+
+- 610 Bronze-Statue. Italien. XVI. Jahrh. Mannerfigur. Nackt, das Haar lorbeerbekranzt und mit dem linken Bein vortretend. Die Gegenstande in der erhobenen Rechten, wie in der leicht vorgestreckten Linken fehlen. Auf Marmorsockel. Schwarze Lackpatina. Hohe mit Sockel 35 cm. Siehe Abbildung.
+- 611 Bronze-Statue. Padua, XVl. Jahrh.
+- Frauenfigur (Kerzenleuchter) in herabwallendem, in den Huften gerafftem Gewand, das rechte Bein wenig vorgesetzt. Mit beiden Handen halt sie eine auf ihrem Kopf ruhende Vase Lichttille). Auf dreibeinigem, astformigen Fu. Dunkelbraune Patina. Hohe 22. cm. Siehe Abbildung. Ehemals Coll. Bardini.
+- 612 Bronze-Statue. Fast vollrund. Spuren von Vergoldung. Niederlande,um 1500. Stehende Madonna. Maria, die Krone auf dem Haupte, und in lang herabwallendem
+- 613 Bronze-Gruppe. Florentinisch, XVI. Jahrh. Architektur. Liegende weibliche Figur. Nackte Frau, im Haar ein Diadem, nach links hin gelagert, stitzt sich zum Schreiben auf Bicher. Auf dem Boden liegen Winkel, Zirkel, Musikinstrument und die Maske der Verganglichkeit. Auf ovalem Marmorsockel. Dunkle Patina.
+- Gewande, steht auf einer Konsole. Das Kind fehlt. Hohe 1l,4 cm. Siehe Abbildung.
+
+Hohe 21, Lange 32 cm. Siehe Abbildung.
+
+Gleiche Figur Salting Bequest Victoria &amp; Albert Museum, London. Aehnliche in der friheren Sammlung Hainauer, Berlin.
+
+- 614 Bronze-Tintenfass. Florentinisch, XVl. Jahrh. Auf drei durch doppelschwanzige Delphine gebildeten FuiJen erheben sich unkekleidete, gefligelte Frauengestalten als Trager des runden Tintenbehalters, untereinander durch Guirlanden verbunden. Der kegelformige, schuppenverzierte Deckel tragt als Knauf eine sitzende Cupidofigur. Dunkle Lackpatina. Hohe 19 cm. Siehe Abbildung.
+- 615 Bronze-Glocke. Italien, XVl. Jahrh. Den untern Rand umzieht eine Ornamentbordure. Die Leibung ist geziert mit Wappen, unter denen sich Fillhorner befinden, ferner mit Imperatorenkopfen, Vogeln und Lorbeerbaumen.
+
+Hohe 8,5 cm. Siehe Abbildung.
+
+- 616 Romische Bronzelampe. Der nach oben geschwungene Griff in einen Tierkopf endigend. Die Lampe ruht auf goldbronzenem Stander, auf welchen die Inschrift eingraviert ist:&gt;Cette Lampe a etoit trouve a Pompei dans une fouille, ordonne par le Prince Charle Novembre 1835&lt;. Lampe Hohe 5,5 cm. Stander 5,5 cm. Siehe Abbildung.
+
+## Silber etc.
+
+- 617 PokalfuB mit Goldtauschierung. XVIll. Jahrh. Verziert mit Medaillon, Ornamenten,
+
+Hohe 2,5,Durchm.10,5 cm. Siehe Abbildung.
+
+- figirlichen Darstellungen und kurfirstlichen Wappen.
+- 618 Silbertauschierter Eisenbeschlag. XVll. Jahrh. Oval und an den vier Seiten in durchbrochene Lilien auslaufend. Die tauschierten Silberornamente sind ziseliert.
+- In der Mitte ein erhabener Prauenkopf. Hohe 13,5 Breite 10,5cm.
+- 619 Runde Dose, Kupfer vergoldet. Prankreich, XVIll. Jahrh. Reich graviert und im Deckel eine Emailminiatur mit schoner Watteauscene. Durchmesser 6 cm.
+- 620 Ovales Etui. Silber-Filigranarbeit. XVll. Jahrh. AeuBerst feine Arbeit. Lange 13, Breite 6 cm.
+- 621 Ovale Bonbonniere. Silber, innen vergoldet. Holland, XVIl. Jahrh. Mit drei
+- Marken. Verziert mit Rokaillen und auf dem Deckel eine Wirtshausscene. Lange 7,7, Breite 6,5 cm.
+- 622 Krone. Versilbert, XVIll. Jahrh. Reich verziert und durchbrochen gearbeitet.
+- Hohe 15 cm. Siehe Abbildung.
+- 623 Gothisches Petschaft. Silber, mit Holzgriff. Tief geschnittenes Wappenschild Durchmesser 3 cm. und Umschrift: S. ULRIDI DI UPER.
+- 624 Empire-Huillier, Silber, mit zwei Christalflaschen. Frankreich. Mit Beschauzeichen und Meistermarke C. V. Das ovale Tablett mit durchbrochen gearbeiteter Umrandung und auf vier KugelfiBchen. Das Flaschengestell ebenfalls reich durchbrochen gearbeitet und mit hoher Handhabe. Rechts und links derselben zwei muschelformige Hohe 32 cm. ca 500 gr. Kristallschalen.
+- Das ovale 625 Empire-Huillier, Silber. Mit zwei silbermontierten Kristalllaschen. Hohe 29 cm. Gestell mit hoher Handhabe und auf vier volutenformigen FuiBchen.
+- 626 Rokoko-Huillier, Silber. Teilweise vergoldet. Auf vier palmettartigen FiBchen die geschweifte und am Rand gewolbte Einsatzplatte, mit Muschel- und Palmettenwerk verziert. Der Einsatz ruht auf vier muschelartigen, geschwungenen Tragern. Seitlich der mehrfach geschwungenen Handhabe Pfeffer- und Salzbehalter in Form von gewolbten Blattern. Die Kristalflasche mit Silber montiert. Mit finf Marken. Hohe 21,5 cm.
+
+gewolbten Sockel ruhend, mit vasenformigem Aufbau, die Balken achtfach abgeflacht,
+
+- 627 Standkreuz, mit Silbermontierung. XVll. Jahrh. Ganz in Bergkristall, auf hohem, in Kleeblatform auslaufend. Die Montierung Silber, ziseliert mit Palmetten und Hohe 32 cm. gefligelten Engelskopfchen.
+- 628 Russisches Heiligenbild, XVIl. Jahrh. Silber vergoldet, reich getrieben und mit
+- Hohe 31, Breite 26 cm. unterlegter Malerei. Brustbild der Madonna mit Kind.
+- 629 Zwei Messkannchen auf ovalem Tablett. Silber. Frankreich, Louis XVI. Tablett und Kannchen reich mit Ornamenten verziert. Letztere mit AusguB, Deckel
+- und volutenformigen Henkeln. Tablett: Lange 23, Breite 16 cm. Kannchen:Hohe 15 cm. 3 Teile.
+- 630 Silberner Hostienbehalter. Das turmartige Gehause mit Renaissance-Ornamenten und Maskarons. Als Bekronung auf dem kugelformigen Deckel ein freistehendes Kruzifix. Hohe 25,5 cm.
+- 631 Ciborium mit Deckel. Silber. XVll. Jahrh. Mit drei Marken. Der weitausladende wulstige FuB zeigt ringsum einen fein getriebenen und gepunzten AkanthusblattFries. Der Schaft, schon gegliedert, tragt eine durchbrochen gearbeitete,von Wein rankenwerk gebildete Schale, in welcher die Kuppa ruht. Auf dem mit Akanthusblatt verzierten Deckel ein runder Knauf mit einem vergoldeten Kreuz als Bekronung. Hohe 45 cm.810 Gramm.
+- 632 Hohes Reliquiar. Kupfer, vergoldet. Sienna,XVI. Jahrh. Der weitausladende Ful mit reichem Blattornament auf gepunztem Grund. Der Schaft hat unten einen zylindrischen Untersatz mit reichem Fratzen und Tierornament, der oben und unten Inschriften zeigt. Der Behalter in Form eines auf sechs Pfeilern ruhenden Tempels (Glaseinsatz fehlt), dessen Kuppel durch den Deckel gebildet wird.Als Bekronung halt. Hohe 49 cm. Siehe Abbildung.
+- 633 Hohe gotische Monstranz in architektonischem Aufbau. Silber mit Email. XV.Jahrh. Der hibsch gegliederte Pu ist aus einem langlichen Achteck entwickelt. Der sechskantige Schaft mit unterem Blumenrand zeigt einen starken Knauf, der mit einem Kranz von sechs kleinen Bichsen geziert ist. Der Oberbau mit cylindrischem Glasbehalter, dessen obere Fassung weit ibertritt und durchbrochen gearbeitetes Blumenornament zeigt. Auf der Kuppel ein reich gegliederter Turm, in demselbem die frei stehende Statuette Maria mit Kind. Rechts und links treppenformig gegliederte Strebepfeiler mit Turmchen und Krabbenschmuck, Wasserspeiern und MaBwerk. Auf dem Fu ein Rundmedaillon mit Wappen in tranzluzidem Email. Auf der unteren und oberen Fassung des Glaszylinders aufgelegte emaillierte Blumen.
+
+Hohe 60 cm.
+
+- 634 Silberner Becher, innen vergoldet. Hollandisch. XVIl. Jahrh. Die konische Wandung ist oben verziert mit vier Ornamentmedaillons,in welchen die Starke, Gerechtigkeit und der UeberfluB dargestellt sind. Darunter graviert die Buchstaben: PXG. Den FuB umzieht ein gewundener Stab und darunter eine Ornamentbordire. Mit Beschauzeichen und Meisterwerke B. Z. Hohe ll cm. Siehe Abbildung.
+- 635 Silberner Renaissance-Pokal.Vergoldet. Deutschland. Der glockenformige
+- Kelch mit reichem Bandornament und drei Medaillons mit Manner-, Frauen- und Kinderkopf. Der profilierte Schaft mit langezogenen Buckeln und auf dem wulstigen Fu eine Bandornamentbordire mit Engelskopfen und Prichten. Mit zwei Marken.
+
+Hohe 16 cm.
+
+- 636 GroBe runde Silberschussel. Teilvergoldet. XVI. Jahrh. Den Umbo ziert ein Rundmedaillon mit leerem Wappenschild. Um das Medaillon legt sich ein Kranz mit vier Cartouschen,in welchen Enten und Delphine in hoher Treibarbeit dargestellt sind. Zwischen den Kartouschen Pruchtgehange. Diesen Kranz umschlieIt ein glatter nichtvergoldeter Streifen und diesen wieder eine zum hochliegenden Rand ansteigende Rand mit gravierten und getriebenen Ornamenten
+## Leder, Holzskulpturen, Einrichtungsgegenstande,
+
+## Geschnitzte und eingelegte Mobel.
+
+- auf Holzkern, alseitig reich mit Goldornamenten gepragt. Im Innern vier Abteilungen. Mit Schlo und zwei SchlieBhaken. Hohe 6,5, Lange 19,5 Breite 10 cm. Siehe Abbildung.
+
+schild haltende Prauenfiguren, umgeben ebenfalls von tanzenden und musizierenden
+
+- 638 Kasten. Leder geschnitten, gepunzt und polychromiert. Italien, XV. Jahrh. Auf dem Deckel in der Mitte sechs tanzende und musizierende Putten. Ringsum eine Bordure von Blattornamenten mit Tieren und Putten. Die Vorderseite zeigt in der Mitte zwei aus Rankenornament erwachsende, das wappenformige SchlisselPutten. Ueber dem Schluisselschild eine gefligelte Prauengestalt und daneben in Ranken zwei Putten. Die ganze Flache ist seitlich und unten von einer reichen Bordure eingefaBt. Die Rickseite schmickt seitlich und unten eine Blumenbordire und die Mitte, durch drei hibsche Beschlage in zwei Flachen geteilt, zeigt in je zwei Die beiden ibereinanderliegenden rechteckigen Feldern Putten und Ornamente. Kopfenden zeigen unten je ein Medaillon mit Mannerkopf, oben links ein von Putten gehaltenes Medaillon mit durchschossenem Herz und rechts eine Venus mit Amor, alles inmitten reicher Ornamente und von Borduren umgeben. Mit hibchen, seitHohe 15,5 Breite 15,7,Lange 26,8 cm. Siehe Abbildung. lichen Handhaben.
+
+Ehemals Samml. Stein.
+
+- 638a Pasticcio-Kastchen. Italien, XVI. Jahrh. Auf ausladendem Fu und der Deckel mit iberfallendem Gesims. Allseitig mit aufgelegten Ornamentbordliren, Kriegerscenen
+- Hohe 16,Lange 24, Breite 18 cm. und Stadtansichten.
+- 639 Kleine Holzstatue. Flamisch. XVll. Jahrh. Kniender Konig aus einer Anbetungs-
+
+gruppe in reichem Kostim mit umgeworfenem Mantel. In den vorgestreckten Handen
+
+- Hohe 22 cm. Siehe Abbildung. halt er einen rechteckigen Kasten. Polychromiert.
+- 640 Ein Paar Holzstatuetten. Kniende Engel mit langen, lockigen Haaren als Leuchtertrager. Plamisch, um 1500. Mit alter Vergoldung und Bemalung. Die Engel, deren Fligel fehlen, halten mit beiden Handen den auf dem vorgestreckten Knie
+- Hohe 55,5 cm. 2 Stick. Siehe Abbildung. ruhenden achtkantigen Leuchterschaft.
+- 641 Buste eines jungen Mannes. Lindenholz. 16.Jahrhundert. Arbeit des Jorg Syrlin. Das ausdrucksvolle Gesicht umrahmt lang herabwallendes Haar. Er tragt eine Mitze mit anliegendem gezackten Rand und einen Mantel mit weiten Aermeln und langem, bis zur Brust reichendem Kragen. Die linke Hand tragt eine Kugel, wahrend die Rechte dozierend erhoben ist. Hervorragendes Werk. Hohe 42 cm. Siehe Abbildung.
+- Hohe 82 cm. 3 Stick. mit alter Bemalung und Vergoldung.
+- 642a Madonna mit Kind. Vollrund. Eichenholz. XV. Jahrh. Neu bemalt. Auf einer Bank sitzend, tragt die Gottesmutter auf dem linken Arm das Jesuskind. Hohe 33 cm.
+- 643 Hl. Anna selbdritt. Eichenholz, abgelaugt, vollrund. Flamisch um 1500. Standfigur der Heiligen in faltenreichem Gewand und mit Kopftuch. Im rechten Arm halt sie die Madonna mit dem Jesuskind, welches nach der in der linken Hand gehaltenen
+- Traube greift. Hohe 46 cm. Siehe Abbildung.
+- 644 Madonna mit Kind. Eichenholz,abgelaugt,vollrund. Niederrheinisch.XV. Jahrh. Standfigur der Madonna in faltenreichem Gewand und mit herabwallendem Haar. Auf
+- dem rechten Arm tragt sie das Jesuskindlein und in der linken Hand ein aufgeschlagenes Buch. Hohe 43 cm. Siehe Abbildung.
+- 645 Hl. Maria. Lindenholz, bemalt,vollrund. Niederrheinisch um 1520. Standfigur der Gottesmutter in faltenreichem Mantel und mit herabwallendem Haar, H. 80 cm.
+- 645a Geschnitzter Turaufsatz. Eichenholz. XVll. Jahrh. In der Mitte zwei AllianceWappen (darunter: Schuyl v. Walhorn- Schleicher von Bongart) mit Resten alter Vergoldung,umgeben von einem Akanthusblatt-Kranz. H.42,Br.95cm.
+- 646 Vier Fullungen einer gothischen Vertafelung. XV. Jahrh. Eichenholz. Hohe 47,Breite 28 cm.4 Stick.
+- 646a Gothische Fullung. Eichenholz. XV. Jahrh. Hohe 49, Breite 20 cm.
+- 646b Vorderwand eines gothischen Schrankes. XV. Jahrh. Zwei Tiren mit reichgeschnitzten Puillungen und Rahmen. Mit hibschen Original-Eisenbeschlagen.
+
+Gesammthohe 69,Breite 114 cm.
+
+- 646c Gothische Schranktur. Eichenholz. XV. Jahrh. Die Fuillung mit hibschem Schnitzwerk verziert. Mit Originalbeschlagen und Schlo. Hohe 43, Breite 48 cm.
+- 646d Gothische Schranktur. Eichenholz, XV. Jahrh. Mit reichgeschnitzter Fuillung und Original-Eisenbeschlag. Hohe 62, Breite 46,5 cm.
+- 647 Vier Renaissance-Fullungen. Italien.Eichenholz, geschnitzt. Hohe 47, Breite 31 cm.4 Stick.
+- 647a Funf Renaissance-Fullungen. Italien. Eichenholz, geschnitzt.
+
+Hohe 47,Breite 31 cm.5 Stick.
+
+- 648 Zwei hohe Altar-Aufsatze fir Reliquien. Holz geschnitzt. Barock. Nach oben verjuingt sich der Aufsatz und endigt in einem Kreuz. Reich mit geschnitztem Blatt-
+- werk verziert. Hohe 120 cm. 2 Stick.
+- 649 Rokoko-Tabernakel. Eichenholz. Ovale Form und reich mit Rokaille-Schnitzwerk verziert. Als Abschlu oben eine Krone. Hohe 90 cm.
+- 650 Holzdose in Form eines Buches. XVIll. Jahrh. Lange 19, Breite 11 cm.
+- 651 Buchsbaum-Dose. XVll. Jahrh. Die Rickseite der Dose bildet ein aufrecht sitzender Lowe, dessen vollrund geschnittener Kopf iberragt. Rechts und links reliefartig Moses und David und auf dem Deckel eine Mannerfigur.
+
+Hohe 10,5, Breite 6 cm.
+- 652 Zwei Tellerbretter. Eichenholz. XVll Jahrh. Zwei Etagen, die Seitenwände
+- geschnitzt. Hohe 77,Breite 122 cm.
+- 653 Drei Bambusstabe. China. Geschnitzt. Hohe 200 cm.3 Stick.
+- 654 Konvolut afrikanischer Waffen. Bogen, Pfeile, Lanzen etc. 12 Stick.
+- 655 Perlbeutel. Anfang XIX. Jahrh. In Stickerei zwei Jager mit Hunden in Landschaft.
+- Lange 18,Breite 15 cm.
+- 656 Perlbeutel. Anfang XIX. Jahrh. Mit gestickten Rehen in Landschaft.
+
+Lange 18, Breite 16 cm.
+
+- 657 Perlbeutel.A Anfang XIX. Jahrh. Mit Blumen und zwei Reiterbildnissen in
+- Landschaft. Lange 22, Breite 15 cm.
+- 658 Vierarmiger Leuchter. Holz geschnitzt. XVll. Jahrh.
+- 659 Kleine Wanduhr. XVlll. Jahrh. Zifferblatt Kupfer, mit Zinnapliken.
+
+Hohe 18, Breite 13 cm.
+
+- 660 Rokoko-Pendule.Eichenholz. Der rechteckige Kasten auf kleinen volutenformigen FuBchen und mit profiliertem Gesims. Das ganze reich mit Rokaillewerk geschnitzt. Zifferblatt: Messing graviert und mit Inschrift: Nikolas Boty Fils a Liege. Mit gutem Werk. Hohe 62,5, Breite 34 cm.
+- 661 Hohe Empire-Pendule. Masse. An einen runden Sockel,auf dem das runde Gehause steht, lehnt eine Frauenfigur, welche sinnend das Haupt auf ihren Arm stitzt. An dem Sockel auf einer Bronzeplakette die Inschrift: Nutze sie, kein Wunsch bringt sie zurick.&amp; Hohe 71 cm.
+- 662 Empire-Pendule. Marmor mit Goldbronzemontierung. L. Grognot a Paris. Auf rechteckigem Sockel hangt in einer Saulenarchitektur das mit ziselierter Goldbronze montierte Uhrwerk. Hohe 41, Breite 27 cm. Siehe Abbildung.
+- 663 Boule-Uhr nebst Boule-Sockel, reich mit Bronze imontiert. Frankreich, XVll. Jahrh. Das geschweifte Gehause mit nach oben ausgezogenen Ecken, die auf vier volutenformigen bronzenen FiBen ruhen. Die ganze Uhr ist inskrustiert mit Blumenwerk in Schidpatt und Messing und montiert mit Goldbronze, die Kanten mit Rokaillewerk, die Tir mit Putten auf Laubwerk sitzend. Das bronzene Zifferblatt mit RokokoSchnorkelwerk und mit aufgelegten Email-Zifferschildchen. Ais Bekronung auf einem Sockel sitzender Putte. Der ebenfalls mit Messingornamenten inkrustierte Sockel ist reich montiert mit Goldbronze. Hohe der Uhr 90, Breite 60 cm.
+
+Hohe des Sockels 39, Breite 49 cm. Siehe Abbildung.
+
+- 664 Hohe Standuhr. Ende XVIll. Jahrh. Eichenholz. Das Unterteil, sowie die lange schmale Tir des Mittelstlickes weisen hibsches Schnitzwerk auf. Der Uhrkasten mit geschweiftem Gesims. Zifferblatt Messing mit Zinnappliken und Inschrift: Nicolaus
+- Kaulert, Uhrmacher 181l. Mit gutem Werk. Hohe 260 cm.
+- 665 Hohe Standuhr. Eichenholz. XVll. Jahrh. Die Seiten geschweift und gleich der Vorderwand mit hibschem Schnitzwerk verziert. Der Uhrkasten mit hohem, geschweiften Gesims. Zifferblatt: Email. Mit gutem Werk. Hohe 150 cm,
+- 666 Hohe Standuhr. Eichenholz. XVIl. Jahrh. Die Tir des schlanken Kastens mit
+- hibschem Schnitzwerk verziert. Der Uhrkasten mit gekr8pftem, profilierten Gesims und iberfallend. Zifferblatt: Messing mit Zinnappliken und Inschrift: Martin Frings in Stolberg 1790. Mit gutem Werk. Hohe 235 cm.
+- 667 Armlehnsessel. Eichenholz. XVll. Jahrh. Die runden Stollen mit gedrehten
+- Traversen. Die Rickenlehne mit Schnitzwerk und Sprossen. Sitz Rohrgeflecht.
+
+Hohe 106 cm.
+
+- 668 Konsoltischchen. NuBbaum. XVll. Jahrh. Auf runden kannelierten Stollen und mit geschnitzten Schragen. Hohe 78, Lange 69, Breite 40 cm.
+- 669 Spieltischchen. NuBbaum fourniert und eingelegt. XVll. Jahrh. Auf runden
+- Stollen und mit gekreuzten Traversen. Hohe 77,Lange 85,Breite 34 cm.
+- 669a Achteckiges Tischchen. NuBbaum mit Ahorn-Intarsien. Allseitig mit Ornmenten Hohe 74, Durchmesser 64 cm.
+- und Vogeln eingelegt.
+- 670 Rechteckiger Tisch. Eichenhoiz, XVIll. Jahrh. Auf vier schneckenformig gewundenen Stoilen mit Kreuztraversen. Unter der Tischplatte eine breite Schieblade mit Messinggriff. Hohe 75,Lange 80, Breite 54 cm.
+- 671 Eckschreibschrank mit Glasaufsatz. Eichenholz. XVlll. Jahrh. Das Unterteil mit kannelierten Schlagleisten und zwei Tiren mit verzierten Fuillungen. Das sich nach oben verjungende Schreibgelab wird durch die aufklappbare Schreibplatte verschlossen, deren Pillung geschnitzte Musikembleme aufweisen. Der daraufstehende Glasschrank mit geraden Sprossen und das Gesims mit geschnitzter Galerie.
+
+Hohe 113, Breite 120, Tiefe 85 crn.
+
+- 672 Hoher Schreibsekretar. Eichenholz, eingelegt. XVIl. Jahrh. Das Unterteil mit drei Schiebladen und das darauf ruhende SchreibgelaB durch die schragliegende Schreibplatte verschlossen. Im Innern eine Anzahl Schiebladchen und Schrankchen. Der sich darauf aufbauende architektonisch hibsch gegliederte Schrank mit drei Tiren. Hohe 220,Lange 120, Breite 59 cm.
+- 673 Biedermeier-Wandspiegel. Kirschbaum, poliert. Auf dem profilierten, iber fallenden Gesims eine in Metall gepreBte Mannerfigur.
+
+Hohe 88, Breite 42 cm. Siehe Abbildung.
+
+- 674 Zwei Biedermeier-Stihle. Kirschbaum poliert. Auf vierkantigen Stollen die gebogene Ruckenlehne mit durchbrochen geschnitzter Flammenvase. Sitz mit Seidenbezug. Hohe 88 cm. 2 Stick. Siehe Abbildung.
+- 675 Drei Lehnsessel. Biedermeier. Kirschbaum poliert. Auf geschweiften, vierkantigen Stollen und mit geschweiften Armlehnen. Die gebogene Rickenlehne zeigt ein durchbrochen geschnitztes Medaillon mit Seidenbezug. Hohe 92 cm. 3 Staick. Siehe Abbildung.
+- 676 Konsole. Biedermeier. Kirschbaum poliert und mit Marmorplatte. Auf rechteckigem Sockel erheben sich vorne zwei Saulen mit Bronzekapitalen und PuBen, welche die
+
+Hohe 88, Lange 78, Breite 39 cm. Siehe Abbildung.
+
+- eine Schieblade enthaltende Konsole tragen. Als AbshluB eine Marmorplatte.
+- 677 Kleine Biedermeier-Kommode. Kirschbaum poliert. Auf vierkantigen Stollen drei ibereinanderliegende Schiebladen,welche rechts und links von schwarzen Saulen mit Bronzekapitalen flankiert werden. Als Schluisselschilder eingelegte EbenholzWappenschilder. Hohe 83, Lange 102, Breite 58 cm. Siehe Abbildung.
+- 678 Schreibsekretar. Biedermeier. Kirschbaum,poliert und mit Marmorplatte. Auf vierkantigen Stollen. Das Unterteil ist durch zwei Turen verschlossen. Das SchreibgelaB birgt im Innern mehrere Schiebladchen und ist durch die aufklappbare Schreibplatte verschlieBbar. Im Gesims eine breite Schieblade. Die Schlagleisten kanneliert und die Ecken mit schwarzen Leisten verziert. Schlisselschilder weile eingelegte Wappenschilde. Hohe 148,Lange 91, Breite 28 cm.
+- 679 Biedermeier-Eckschrankchen. Kirschbaum, poliert. Auf drei geschnitzten FlammenfiBchen ein gebogenes Gelal, durch eine grole Tuir verschlossen. Das vorsprlngende Oberteil enthalt eine Schieblade und wird an den Seiten durch schwarze Saulen getragen. Hohe 85,Breite 65, Tiefe 46 cm.
+- 680 Kleines Kommodchen. NuBbaum mit Ahornintarsien. Frankreich. XVll. Jahrh. Auf hohen, vierkantigen Stollen und mit zwei Schiebladen. Allseitig reich mit eingelegten Ornamenten verziert. Hohe 76,5 Lange 30, Breite 39 cm, Siehe Abbildung.
+- 681 Glasschrank. NuBbaum mit Ahornintarsien. Holland.  Auf Klauenfiben erhebt
+- sich das dreifach geschweifte Unterteil, drei Schiebladen enthaltend. Der sich darauf aufbauende Glasschrank an den Ecken abgeschragt und gleich den Turen mit geraden Sprossen verziert. Das Gesims geschweift und als AbschluB eine geschnitzte Kartusche. Hohe 220,Lange 142,Breite 45 cm. Siehe Abbildung
+- 682 Hoher Schreibsekretar. NuBbaum fourniert und reich eingelegt. XVlll. Jahrh. Das Unterteil kommodenformig, in der Mitte eingezogen und nach beiden Seiten hin geschweift. Es ruht auf vier Ballenfiben und enthalt drei ibereinanderliegende Schiebladen. Das wenig zuricktretende Schreibgelal wird von zwei Schiebladen flankiert und in der Mite durch eine schragliegende Platte verschlossen.I Darauf erhebt sich ein hoher, dreifach geschweifter Aufbau,in der Mitte mit drei Schiebladen und schrankformigem Gela, das beiderseitig von einer Schiebladenkolumne flankiert wird. Allseitig mit hibschen eingelegten Bandverzierungen. Bronzebeschl. Hohe 90, Lange 108, Breite 60 cm. Siehe Abbildung.
+- 683 Hoher Schreibsekretar. Eichenholz. fourniert mit Erbelwurzel und eingelegten Messing- und Ahornbandern. Das kommodenformige Unterteil dreifach stark geschweift und mit drei ibereinander liegenden Schiebladen. Das sich nach oben verjuingende Schreibgelab zeigt rechts und links der schragliegenden Schreibplatte je zwei geschweifte Schiebladen. Das dreifach geschweifte Oberteil zeigt in der Mitte ein schrankformiges GelaB, und zu beiden Seiten eine Kolumne von vier Schiebladen. Das Gesims an den Seiten geschweift und mit einer Schieblade versehen. Das ganze Mobel auBerst fein verziert mit inkrustierten Ahornbandern, welche von schmalen Messingstreifen eingefalt sind. An den Seiten bronzene Traggriffe.
+
+Hohe 190, Lange 120, Breite 75 cm. Siehe Abbildung.
+
+- 684 Empire Wandspiegel.F Holz, geschnitzt und vergoldet. An den Ecken des schmalen Rahmens je eine Rosette, unten herabhangend eine Guirlande mit Kranz. Der reich durchbrochen geschnitzte Aufsatz stellt ein Arrangement von Lorbeer- und Eichenzweigen, Tamburet, Bogen, Kocher mit Pfeilen und zweier Vogel dar.
+
+Hohe 119, Breite 62 cm.
+- 685 Wandspiegel. XVIll Jahrh. Mahagoni mit Elfenbeinauflagen.
+
+Hohe 88, Breite 40 cm. Siehe Abbildung.
+
+- 686 Ofenschirm. Mahagoni. Empire. Auf vier volutenformigen Fubchen und mit
+- Hohe 97, Breite 70 cm. gesticktem Bild.
+- 687 Zwei Hocker. Mahagoni. Empire. Mit zwei seitlichen ausgebogenen Lehnen mit Tierkopfen. Originalbezug. Hohe 56 cm. 2 Stick.
+- Die hohe 688 Lehnstuhl. Mahagoni, poliert.Die Stollen schneckenformig gewunden.L Ruckenlehne verziert mit gewundenen Saulchen und Schnitzwerk. Sitz gepolstert. Hohe 96 cm.
+- In 689 Zwei Empire Stihle. Mahagoni. Auf geschweiften vierkantigen Stollen.I der gebogenen Ruckenlehne zwei geschnitzte Fullhorner. Mit Plischbezug.
+
+Hohe 81. cm. 2 Stuick.
+
+- 690 Empire Sessel. Mahagoni. Auf geschnitzten Stollen. Die gebogene Arm- und
+- Rickenlehne ebenfalls mit Schnitzwerk verziert. Hohe 82 cm.
+- 691 Runder Tisch. Mahagoni poliert. Empire. Auf schwarzem dreieckigen Sockel. Die runde Platte wird von drei grolen, fein geschnitzten Delphinen getragen.
+- Hohe 80, Durchm. 110 cm. Siehe Abbildung.
+- 692 Empire Kommode. Kirschbaum poliert und mit Broncebeschlagen. Auf vierkantigen FiBen, rechts und links von freistehenden Saulen mit Broncekapitalen und FuBen flankiert, drei ibereinander liegende Schiebladen, das Oberteil springt vor und
+- birgt eine Schieblade. Hohe 95, Lange 120, Breite 61 cm. Siehe Abbldg.
+- 693 Empire Nachttischchen. Mahagoni mit Marmorplatte. Auf viereckigem Sockel
+- der zylindrische Schrank mit einer hohen Tur. Als Abschlu eine Marmorplatte.
+
+Hohe 84, Durchm. 44 cm. Siehe Abbildung.
+
+- 694 Hohe Standuhr mit Spielwerk. Mahagoni poliert.Empire. Der Sockel mit schwarzen Leisten und einem Broncerelief verziert; der Kasten wird hinten von einer geschlossenen Rickwand und vorne durch schwarze Saulen mit Broncekapitalen und PuiBchen getragen. Emaillezifferblatt mit Bleiappliken, dariber eine buntgemalte Landschaft. Mit Schlag und Spielwerk, letzteres 8 Stuicke spielend.
+
+Hohe 252, Breite 53 cm. Siehe Abbildung.
+
+- 695 Sopha. Mahagoni mit Ahornintarsien XVll Jahrh. Auf geschweiften, in geschnitzte Klauen endigende Stollen. Seiten und Ruickwande geschweift. Mit Seidenbezug.
+
+Lange 164,Breite 66 cm.
+
+- 696 Empire Sopha. Mahagoni. Auf geschnitzten schweren Stollen. Die Seitenwangen mit geschnitzten Schlangen verziert, Pluschbezug. Lange 235, Breite 68 cm.
+- 697 Schreibsekretar. Empire. Kirschbaum, poliert. Auf halbrunden FiBen erhebt sich der nach oben schmaler werdende Schrank.Im Unterteil drei ibereinander
+- liegende Schiebladen.Das Schreibgelal wird durch die aufklappbare Schreibplatte
+- verschlossen und birgt im Innern sechs kleine und eine grole Schieblade sowie ein groes offenes Gela von sechs Saulchen mit Bronzekapitalen getragen. Die Ruickenwand ist mit Spiegel hinterlegt. Auf das stufenformig zuricktretende Gesims baut sich ein halbrunder Aufsatz mit einer Schranktire auf. Mit hibsch graviertem Schlisselblatt. Prunkstick. Hohe 192, Lange 97, Breite 46 cm. Siehe Abbildung.
+- 698 Empire-Schreibsekretar. Mahagoni fourniert und mit Bronzebeschlagen. Die Vorderwand wird durch zwei Saulen mit Bronzefackeln und Kapitalen flankiert. Unter der aufklappbaren Schreibplatte,welche eine Menge Schiebladchen und Schrankchen verschlieBt, befindet sich ein grobes Gelag durch zwei Turen verschlossen. Die vorstehende Klappe, welche vorn von den Saulen getragen wird, birgt eine breite Schieblade.Als Abschlu darauf eine Marmorplatte. Hohe 143,Lange 96,Breite 45 cm.
+- 698a Kleine gothische Truhe. Eichenholz. Die Vorderwand in zwei Felder geteilt, deren Fillungen geschnitztes Blattwerk aufweisen. Hohe 52,Lange 68, Breite 41 cm.
+- 699 Stuhl. Eichenholz. XVIl. Jahrh. Mit gedrehten Stollen und Sprossen in der
+- Ruckenlehne. Hohe 87 cm.
+- 700 Lehnsessel. Eichenholz. XVll. Jahrh. Auf gedrehten Stollen, welche durch eben-
+- falls gedrehte Traversen mit einander verbunden sind. Sitz und Lehne mit Lederbezug. Hohe 104 cm.
+- 701 Renaissance-Tisch. Eichenholz. XVl Jahrh. Auf runden, profilierten Stollen, welche durch ebensolche Traversen mit einander verbunden sind. Unter der an den
+- Ecken abgerundeten Tischplatte eine breite Schieblade. H.72,L.102,Br.71 cm.
+- 702 Renaissance-Tisch. Eichenholz. XVl. Jahrh. Auf dicken, runden, profilierten Stollen und durch ebensolche Traversen miteinander verbunden. Die Tischplatte an den Ecken abgerundet und mit einer verschliebaren Schieblade, deren Vorderwand geschnitzt ist. Hohe 74, Lange 116, Breite 66 cm.
+- 703 GroBer Renaissance-Tisch. Eichenholz. Auf kegelformigen Stollen mit flachen Traversen. Die Schragen ausgeschnitten und an den Ecken mit Lowenkopfen verziert. Hohe 79, Lange 172, Breite 72 cm.
+- 704 Renaissance-Buffetschrank. Eichenholz. XVl. Jahrh. Die Vorderwand des auf schmalen Stollen ruhenden Schrankes enthalt zwei Gelabe, deren Turen zwei Fillungen und breite gewellte Leisten aufweisen. Unter dem iberfallenden, geschweiften Gesims ebenfalls eine gewellte Leiste. Hohe 101,Lange 129, Breite 56 cm.
+- 705 Renaissance-Buffetschrank. Eichenholz. XVll. Jahrh. Auf vier Ballenfuiben. Die Vorderwand wird durch zwei grobe Tuiren verschlossen, deren Fullungen kassettenformige Verzierungen aufweisen. Die Schlagleisten sind hibsch profiliert; das gewolbte, iberfallende Gesims mit drei vorspringenden, vollrund geschnitzten Lowenkopfen mit Messingringen und zwei Schiebladen mit altem Schlou.
+
+Hohe 143, Lange 158, Breite 67 cm. Siehe Abbildung.
+
+- 706 Renaissance-Buffetschrank. Eichenholz. XVll. Jahrh. Auf vier BallenfuiBen und profiliertem Sockel. Das Gelal wird durch zwei grole Tiren mit hisch profilierten Kassettenfillungen verschlossen. Die Schlagleisten zeigen aufgelegte Eben-
+holztafeichen mit profilierten Leisten. Das gewolbte, stark iberfallende Gesims mit zwei Schiebladen und drei vorspringenden, geschnitzten Lowenkopfen mit Metallringen. Mit altem Schlo. Hohe 150, Lange 168, Breite 65 cm. Siehe Abbildung.
+
+- 707 Lehnstuhl. Eichenholz. Louis XIV. Auf gedrehten Stollen mit Traversen und
+- gepolstert und mit Seidenplischbezug. Hohe 104 cm.
+- 708 Hohe Standuhr. Eichenholz, Barock.Das viereckige Unterteil auf vier KugelfiBen und mit profilierter Fillung. Die Tur des schmalen Mittelstickes oben und unten mit geschnitzten Muschelkartuschen. Auf dem geschweiften Uhrgehause eine geschnitzte Kartusche als Bekronung.  Zifferblatt Kupfer mit Zinnappliken und Inschrift: CORNELIS-PEEK-A-AIX. Mit gutem Werk. Hohe 254 cm.
+- 709 Buffetschrank. Eichenholz,reich geschnitzt. Louis XV. Die Vorderwand zeigt in der Mitte ibereinander zwei rechteckige, mit geschnitztem Rankenwerk verzierte Fillungen. Zu beiden Seiten hohe Turen, deren Fillungen gleich den Schlagleisten geschnitztes Rankenwerk und Ornamente aufweisen.Die Kappe springt wenig vor und ist profiliert. Schones Stick. Hohe 112,Lange 150, Breite 56 cm.
+- 710 Rokoko-Hocker. Eichenholz. Auf vier geschweiften und geschnitzten FiBchen. Die Fillung der Vorderwand sowie die abgerundeten Ecken mit geschnitzten Rokaillen Hohe 50, Lange 49, Breite 45 cm,
+- 71l Rokoko-Hocker. Eichenholz. Auf vier geschweiften Stollen und Schragen mit Schnitzwerk. Sitz gepolstert. Hohe 53 cm.
+- 712 Rokoko-Stuhl. Eichenholz. Auf geschweiften Stollen. Die hohe Rickenlehne
+- 713 Rokoko-Stuhl. Eichenholz. Die geschweiften Stoilen, sowie die Schragen mit geschnitztem Muschelornament. Die Rickenlehne ist huibsch durchbrochen geschnitzt
+- mit geschweiften Sprossen und hibscher Rokokoschnitzerei verziert. Sitz gepolstert. Hohe 100 cm.
+- und mit Rokaillen verziert. Sitz gepolstert. Hohe 100 cm.
+- 714 Rokoko-Stuhl. NuBbaum. Die geschweifte Ruickenlehne mit hibsch geschnitzten Rokaillenwerk und zwei Sprossen. Hohe 98 cm.
+- 715 Hoher Rokoko-Lehnsessel. NuBbaum, reich geschnitzt.Auf vier schlanken geschweiften Beinen die gebogenen Armlehnen und Schragen mit hibschem Schnitzwerk verziert. Die hohe Ruickenlehne ist oben geschweift und zeigt im Gesims ein fein geschnitztes Alliance-Wappen mit Krone und herabhangende Blumengewinde. Sitz und Lehne gepolstert. Prachtstick. Hohe 137 cm. Siehe Abbildung.
+- 716 Armlehnsessel. NuBbaum, Rokoko. Mit geschweiften Stollen und Armlehnen. Die Zargen volutenformig ausgeschnitten. Die hohe Rickenlehne weist oben hubsches Schnitzwerk auf. Sitz und Lehne gepolstert und mit Gobelinbezug. Hohe 110 cm.
+- 717 Spiegelkonsole.
+- Rokoko, vergoldet und reich geschnitzt. Auf zwei volutenformigen Stollen, welche gleich den Schragen reich durchbrochen geschnitzt sind.
+
+Hohe 79, Lange 80, Breite 43 cm.
+- 718 Kleiner Rokoko-Tisch. Eichenholz. Die Stollen und die Platte geschweift.
+- Die Schragen weisen huisbches Rokailleschnitzwerk auf. H.76,L.67,Br.76 cm.
+- 719 Rechteckiger Tisch. Eichenholz, Rokoko. Auf geschweiften Stollen und mit geschnitztenSchragen. Die Platte geschweift. Hohe 76,Lange 105, Breite 74 cm.
+- 720 Rechteckiger Tisch. Eichenholz, Rokoko. Auf geschweiften und geschnitzten Stollen. Die Zargen und Platte geschweift und ausgeschnitten.
+
+Hohe 71, Lange 86, Breite 70 cm.
+
+- 721 Rechteckiger Tisch. Eichenholz. Rokoko. Die geschweiften Stollen sowie die Schragen mit geschnitzten Rokaillen und Blumchen verziert. Die Platte an den Ecken abgerundet und geschweift. Hohe 77,Lange 106, Breite 76 cm.
+- 722 Rechteckiger Tisch. Eichenholz. Rokoko. Die geschweiften Stollen sowie die Schragen mit hibschem Muschelornamentwerk geschnitzt. Die Platte geschweift und an den Enden abgerundet. Hohe 72,Lange 90, Breite 68 cm.
+- 723 Rokoko Komode. Eichenholz. Auf vier volutenformigen, geschnitzten FuBen und mit drei ibereinanderliegenden, zweifach geschweiften Schiebladen. Allseitig reich
+- mit Schnitzwerk verziert. Hohe 86,Lange 132, Breite 59 cm.
+- 724 Hohe Standuhr. Rokoko. Eichenholz. Auf vier Kugelfuben das breite Unter-
+- teil mit geschnitzter Fuillung. Die Tir des Mittelstuckes mit Rokoko-Kartuschen verziert. Das Uhrgehause falt wenig iber und hat am geschweiften Gesims als Bekronung eine Kartusche. Zifferblatt: Messing mit Zinnappliken und Inschrift: Jean Francois Mattonet a Steinbach. Mit gutem Werk. Hohe 248 cm.
+- 725 Hohe Standuhr. Rokoko. Das hohe schlanke Gehause an den Seiten und vorne reich mit Rokaillewerk geschnitzt. Der Uhrkasten an den Ecken abgeschragt, mit gekehitem, profiliertem Gesims und hibschem Schnitzwerk verziert. Das Zifferblatt:
+- Messing mit Zinnappliken und Inschrift: Henry Kogel a Aix. Mit gutem Werk.
+
+Hohe 272 cm.
+
+- 726 Aufsatzschrankchen. Eichenholz, Rokoko. In der Mitte ein verschlossenes GelaB, rechts und links davon je vier ibereinander liegende Schiebladchen. Im geschweiften Gesims eine breite und schmale Schieblade und als Abschlul eine geschnitzte Kartusche. Hohe 64, Lange 65, Breite 20 cm.
+- 727 Eckglasschrank. Eichenholz, Rokoko. Auf geschnitzten, volutenformigen Stollen
+- und mit abgeschragten Ecken. Das Unterteil wird durch zwei schmale Turen verschlossen deren Puillungen schones Schnitzwerk aufweisen. Der Glasaufsatz zeigt
+
+Hohe 240,Breite 100,Tiefe 48 cm.
+
+- 728 Rokoko- Eckschreibschrank mit Glasaufsatz. Eichenholz.Auf KugelfiJen und mit abgeschragten Ecken, welche mit Rokailleschnitzwerk verziert sind. Das Unterteil verschlieBt eine breite Tir, das darauf ruhende Schreibgelal verjingt sich nach oben und wird durch die schragliegende Schreibplatte mit Rokokoornamenten verschlossen. Der eintirige Glasaufsatz oben geschweift und von geschnitzter
+- Kartusche bekront. Hohe 125,Breite 112,Tiefe 75 cm.
+- 729 Rokoko-Glasschrank. Eichenholz. Auf vier BallenfiDen und an den Ecken abgeschragt. Das Unterteil wird durch zwei Tiren verschlossen, deren Fuillungen gleich den Ecken grole, hibsch geschnitzte Muschelkartuschen aufweisen. Der Glasaufsatz ist auch an den Ecken verglast und gleich den oben geschweiften Tiren mit geraden Sprossen geschmickt; das hibsch profilierte, iberfallende Gesims ist an den Ecken gekropft und tragt als Bekronung eine fein geschmickte Kartusche.
+
+Hohe 240, Lange 135, Breite 58 cm. Siehe Abbildung.
+
+- 730 Rokoko-Glasschrank. Eichenholz. Das Unterteil an den Ecken abgeschragt und gleich den beiden Tiren mit huibschem Rokaillenwerk geschnitzt. Der wenig zuricktretende Glasaufsatz auch an den Seiten und abgeschragten Ecken verglast und mit geraden Sprossen verziert. In der geschweiften Kappe eine geschnitzte Muschel-
+- kartusche als Bekronung. Hohe 241, Lange 126, Breite 46 cm.
+- 731 Kleines Tischchen. Eichenholz. Louis XVl. Auf schlanken, kannelierten Stollen
+- und mit gekehlter Platte. Die Schragen mit geschnitzten Ringelmustern.
+
+Hohe 75,Lange 75, Breite 50 cm.
+
+- 732 Lehnsessel. Louis XVl. NuBbaum reich geschnitzt. Auf schlanken kannelierten Stollen, die geschweiften Armlehnen sowie die schrage Rickenlehne sind mit hibschen Perlstab, Rosetien etc. verziert. Sitz und Lehne mit Seidenbezug Hohe 97 cm.
+- 733 Sechs Stihle. Eichenholz. Louis XVl. Auf kannelierten Stollen und in der schragen Rickenlehne eine durchbrochen gearbeitete Vase, Sitz mit Binsengeflecht. Hohe 80 cm.
+- 734 Louis XVl. Stuhl. NuBbaum. In der Ruickenlehne eine durchbrochen gearbeitete
+- Vase und geschnitzte Rosetten. Hohe 86 cm.
+- 735 Zwei Stihle. NuBbaum. Louis XVI. Stollen und Schragen kanneliert; die schrage Rickenlehne mit zwei Sprossen und geschnitzten Schragen verziert.
+
+Hohe 83 cm.2 Stick.
+
+- 736 Louis XVI. Garnitur. Eichenholz. Vier Stihle und zwei Sessel. Auf runden kannelierten Stollen und mit ovaler medaillonformiger Rickenlehne. Mit hubschem Schnitzwerk verziert. Sitz gepolstert. Hohe 93 cm. Siehe Abbildung.

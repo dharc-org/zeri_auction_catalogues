@@ -1,0 +1,2990 @@
+## ITALIENISCHE MAJOLIKEN, SPANISCHE UND ORIENTALISCHE FAYENCEN
+
+## FRUHE MAJOLIKEN,ORVIETO,FAENZA,TOSKANA
+
+Nr.1-—22
+
+## 1SCHALE.
+
+Steilwandig mit schmalem Schragrand. Bemalt mit Mangan und Grun. Im Innern groBe Figur einer Sphinx: Lowenkorper mit gekrontem Frauenkopf und Schweif mit Blatt buschel. Korper und Schweif gruin quadriert; uber dem Rucken eine Art Schabracke. Die ganze Figur breit konturiert; die ibrige Flache ausgefullt mit konturierten, gelappten Blattern,z.T. grun bemalt; die Zwischenraume manganfarben quadriert. Auf dem Rand teils gekreuztes Stabmuster in Mangan,beiderseits mit grunen Streifen, teils grin weifes Rautenmuster. Ruckseite bleiglasiert.- Repariert.
+
+ORVIETO,ANFANG 15.JAHRHUNDERT.Durchmesser 33cm,Hohe 9,5cm. Tafel I.
+
+## 2KANNE.
+
+Rundbauchig mit langem, spitzem Schnabelausguf und breitem Henkel. Unter dem Aus guf gemalt ein spitzovaler Wappenschild,darin ein gelbes,blau konturiertes Rautenkreuz. Die Umrahmung leicht hellgrun getont, ebenso ein aufen herum gewolbtes Band. Seitlich blaue Schnorkelbander; am Ausguf Striche.- Am Henkel zwei im Brennofen anges backene Stuicke eines anderen GefaBes.
+
+FAENZA,2.HALFTE 15.JAHRHUNDERT.Hohe 13,5cm. Tafel I.
+
+## 3KLEINER,BAUCHIGER KRUG.
+
+Mit geschwungenem Henkel und gekniffenem AusguB. Farbig bemalt auf braunlicher Glasur: Unter dem AusguB ein von radialem Strichring umgebener Kreis, tiefblau; darin mondsichelartige Figur, teils ockergelb, teils weiB; die Innenflache geteilt weiβ
+
+und hellgrun,auBen weiB und manganbraun. Henkel gekittet.
+
+FAENZA,2.HALFTE 15.JAHRHUNDERT.Hohe 13,5 cm. Tafel I.
+
+## 4KANNE.
+
+Rundbauchig mit langem, spitzem Schnabelausguf und breitem,hochgezogenem Henkel. Farbig bemalt. Vorn, iber den Ausguf hinweggemalt,ein grofer,von radialer Strich borte eingefaBter blauer Kreis, darin eine funfzackige Krone in Blau, mit etwas Grun am Reifen. Seitlich matte grine Bandschnorkel. Unter dem Boden eingeritzt ein Kreuz.
+
+FAENZA,2.HALFTE 15.JAHRHUNDERT.Hohe 18 cm. Tafel I.
+## 5 HENKELKANNE.
+
+Schlanke, vasenformige Form. Auf lichtgruner Glasur vorn ein von Leiterborte ges bildetes Oval; darin in angedeuteter Landschaft eine Tierfigur (Gepard?). Farben: blau, gelb, grin.
+
+FAENZA,ENDE 15.JAHRHUNDERT. Hohe 20 cm. Tafel I.
+
+## 6KLEINE,HALBKUGELIGE SCHALE.
+
+Innen Brustbild einer Dame mit weiBer, gelbgestreifter Haube, ebensolchem Halstuch, grinem Kleid und gelben Armeln. Breite blaue Schattenkonturen. Der Grund blau ge= streift. Links Monogramm MS (ligiert). Am Rand blaue Strich# und blaugelbe Punkt borte.-Repariert.
+
+FAENZA,UM 1500. Durchmesser 11 cm,Hohe 4,5 cm.
+
+## 7TIEFE SCHALE.
+
+Bemalt. In der Mitte Rundmedaillon mit Brustbild einer Dame in reicher Tracht. Farben:blau, gelb,grun und braun, auf blauem Grund, aus dem ausgekratzt die Buch staben D und B, sowie kleine Kreise. An der Wandung vier Friese. Der erste un= dekoriert, der zweite braun mit schwarzem Perlstabmuster. Der dritte breit,darin gekreuztes schwarzes Zickzackmuster auf gelbem Grund. Der letzte Fries mit schwarzem Dreieckmuster auf braunem Grund. Auf der Ruckseite blaue und mangan= farbene konzentrische Kreise.
+
+FAENZA,UM 1500. Durchmesser 20 cm,Hohe 4,8 cm. Tafel XIX.
+
+## 8NAPF.
+
+Mit steilem,breitwandigem Rand, auf Ringfuf. Elfenbeinfarbig glasiert; innen blau bemalt. Im Boden eine Hakenrosette,an der Wandung konzentrische Kreise.
+
+FLORENZ,1.HALFTE 15. JAHRHUNDERT. Durchmesser 13,5 cm,Hohe 5,6 cm.
+
+## 9NAPF.
+
+Mit steilem,breitwandigem Rand,auf RingfuB. Gelbgraue Glasuren; bemalt mit Blau und Mangan. Im Innern grofer Kreis, in vier Viertel zerlegt, darin je eine blaue Zickzacklinie und ein kleines, blattartiges Gebilde. Am Rand Schragstriche. AuBen blaBmanganfarbene konzentrische Kreise.
+
+FLORENZ,1.HALFTE 15.JAHRHUNDERT. Durchmesser 12,5 cm,Hohe 6,5cm.
+
+## 10 DOPPELHENKELIGE VASE.
+
+Breitbauchig,mit geradem,kurzem Hals. Bemalt mit pastosem, tiefem Kobaltblau und Mangan auf rotlichweiBer Glasur. Auf beiden Seiten je funf ubereinanderliegende Zonen,gefullt mit blauen hangenden Rundzacken; am Hals ein Fries von blauen,mangan konturierten Tropfen, dazwischen manganfarbene Kreuze. Auf den Henkeln je zwei blaue Sterne zwischen Manganstrichen. Unter dem Boden eingeritzte Signatur.— Der obere
+
+Rand bestoBen.
+
+FLORENZ,UM 1425-50.Hohe 20,5cm. Tafel II.
+## 11 NAPF.
+
+Mit hoher Steilwandung. Bemalt in Blau, mit etwas Mangan, Gelb und Grun. Im Boden ein dreilappiges, gefiedertes blaues Blatt, in den Zwischenraumen dunne Ranken mit Blattern und Fruchten in Grun,Mangan und Gelb. Am Rand zwischen Zonen konzen=
+
+trischer Reifen ein Fries von Bernardinstrahlen. AuBen dunne blaue Wellenborte. FLORENZ,UM 1450. Durchmesser 20,5 cm,Hohe 7 cm.
+
+## 12 TIEFE SCHUSSEL.
+
+Mit schragem Rand. Bemalt in tiefem Blau, Mangan und Grun. Im Spiegel in hellblau konturiertem Feld ein gotisches b; aus dem Blau ausgekratzt zierliche weiBe Ranken; die Ecken manganfarben und grun. Rechts und links davon blaue Blattranken mit palmettenartig gefiederten Blattern. Auf dem Rand Bernardinstrahlen in Mangan
+
+Ruckseite bleiglasiert.Repariert.
+
+FLORENZ,UM 1450-70.Durchmesser 34,8 cm,Hohe 9 cm. Tafel II.
+
+## 13BAUCHIGEVASE.
+
+Mit kurzem,breitem Hals und breitem Fuf.Bemalt in Blau, Gelb,Braun, Grun und Man gan. Vorn in gebundenem Blattkranz ein Wappenschild (halber steigender Lowe uber Schachbrettmuster). Auf der Ruckseite breites Blattmuster mit rund umgelegten Spitzen und zwei Pfauenaugen, dazwischen kleine blaue Spiralranken. Am Fuf schraggelegte Blatter. Am Hals Zickzackfries zwischen konzentrischen Kreisen.Am Fuf bestoben. FLORENZ,UM 1475. Hohe 22 cm. Tafel II.
+
+## 14HOHER'ALBARELLO.
+
+Farbig bemalt. Breiter Mittelfries, darin stehende blaubraune Rauten, dazwischen groBe grune und manganfarbene Spitzblatter. Oben und unten Fries von blauen Ranken. Am Hals Zackenborte. Das Blau von grauschwarzem Ton.-Reparatur.
+
+FLORENZ,2.HALFTE 15.JAHRHUNDERT. Hohe 28cm.
+
+## 15 KLEINER KRUG.
+
+Mit geflochtenem Henkel und gekniffenem Ausguf. Der obere Rand mehrfach profiliert. Gelblichgrau glasiert. Bemalt mit kraftigem Grun und schwarzlichem Mangan. Vorn zwischen zwei rundgelegten grunen Blattranken ein gruner Hirsch, manganfarben kon= turiert. Rechts und links bis zum Henkel Streifen, Punkt und Strichmuster.- Stark repariert.
+
+TOSKANA,1.HALFTE 15.JAHRHUNDERT. Hohe 13 cm. Tafel I.
+## 16 KLEINE APOTHEKENBUCHSE.
+
+Mit Deckel; runde,konische Form. Cremefarbene Glasur. Bemalt mit zierlichen, dunn stengeligen Ranken und eichenblattahnlichen Blattern in Blau. Vorn ein Schriftband mit pharmazeutischer Inschrift: Pill India. zwischen Ranken mit mangan und grun gemalten Blattern. Der Deckel mit flachem Knopf und Ranken in schwarzlichem Blau mit grunen Bluten.—Deckel repariert.
+
+TOSKANA,2. HALFTE 15.JAHRHUNDERT. Durchmesser 9,5 cm,Hohe 7,5 cm. Gegenstick in der Sammlung A. von Beckerath;vgl. Auktionskatalog 1913 Nr. 99,
+
+Tafel E.
+
+## 17ALBARELLO.
+
+Bunt bemalt. Auf der Wandung ein breites Schriftband mit blauer pharmazeutischer Inschrift: Trifera. Ma.,hinten blaue Schnorkel. Daruber und darunter breite Blatt ranken mit umgerollten Spitzen in Blau, Mangan und Gelb. Auf Schulter und Ablauf konzentrische blaue, gelbe und grune Streifen.
+
+TOSKANA,ENDE 15.JAHRHUNDERT.Hohe 20 cm.
+
+Tafel III.
+
+## 18APOTHEKENKANNE.
+
+Mit breitem Henkel und steilem RohrenausguB. Bemalt in Dunkelblau mit etwas Ocker. Unter dem Henkel Schriftband mit pharmazeutischer Inschrift: Dia moro. Die Leibung im ubrigen ebenso wie der Henkel bemalt mit verschlungenem, dunnstengeligem Rankenwerk mit palmwedelahnlichen Blattern, deren Inneres ein ockerfarbenes Dreieck besitzt. Am Hals Bernardinstrahlen,am Fuf Schragblatter.Der Ausguf repariert.
+
+TOSKANA,UM 1500.Hohe 23 cm.
+
+Tafel IIl.
+
+## 19 SCHUSSEL.
+
+Farbig bemalt. Im runden Mittelfeld Wappenschild mit steigendem Wolf auf blaus schwarzem Grund (Wappen der Altoviti). Auf der Wandung dunkelblaues,verschlun= genes Bandwerk, das vier groBe Kreise und vier in Felder zerlegte Quadrate bildet. In den Kreisen Schachbrettmuster aus braunen und weiBen,blaugepunkteten Feldern; die Felder der Quadrate teils blau, teils braun gestrichelt. Der weiBe Grund mit blauen Punktlinien gefillt. Auf der Ruckseite blaue konzentrische Kreise; darin ein Fries von Spitzblattern. In der  nur zum Teil glasierten — Mitte eine blaugemalte Marke.— Repariert.
+
+TOSKANA,ANFANG 16.JAHRHUNDERT. Durchmesser 42,5 cm. Tafel III.
+
+## 20 BILDPLATTE.
+
+festhalt. Seine Glorie mit braunem Kreuz.
+
+Hochrechteckig. Bemalt mit Madonnendarstellung. Auf tiefblauem Grund sitzt auf einer niedrigen Mauer die Madonna in gelbem Kleid und blauem, grungefuttertem Mantel, braunem Haar und gelbem Heiligenschein und halt den Christusknaben, der segnend auf ihrem rechten Knie steht und sich mit der Linken an ihrem Gewand
+
+TOSKANA,ANFANG 16.JAHRHUNDERT.Hohe24cm,Breite19,5cm.
+
+Tafel IV.
+## 21 ALBARELLO.
+
+Schlanke Form,farbig bemalt. Vorn hohes Oval, von braunen Strahlen auf blauem Grund umgeben. Darin Apothekenmarke (Kreis mit Kreuz,darin P B),unter Strahlen. Der Grund gefuillt mit Dreipunktornament. Auf der Ruckseite wabenartige Felder,an den Schnittpunkten mit blauen, gelb getupften Bluten;in den Feldern grofe achtteilige Blatter. Auf dem Hals ein gruner und zwei gelbbraune konzentrische Reifen, am Fuf gelbbrauner und blauer Reifen.
+
+FLORENZ,1.HALFTE 16.JAHRHUNDERT.Hohe 24,3cm. Tafel III.
+
+## 22 GROSSE DECKELKANNE.
+
+dem AusguB breiter gebundener Blattkranz, grun mit gelbbraunen Apfeln und Pinien Zapfen. Darin auf blauem Feld eine Kartusche,umgeben von Engelskopf und Bandern. Im Mitteloval klosterliches Wappen:Kreuz auf Dreiberg; gekreuzt von einem braunen und einem grau bekleideten Arm, in deren Handen Wundmale. Die ubrige Flache der Wandung bedeckt mit einem in Blau und Braungelb gemalten groBen Granatapfel muster: achtteilige grobe Blatter in Sechseckfeldern. Die Drachenhenkel blau, gelb, grun und braun gestreift, mit Manganstrichen. Der Deckel mit Eichelknauf und blau gelber Blumenborte. —Der Deckel und Hals mit kleinen Reparaturen.
+
+FLORENZ,UM 1540. Hohe(mit Deckel) 47,5 cm. Tafel XXII.
+
+SIENA
+
+Nr.23-35
+
+## 23ALBARELLO.
+
+In der Mitte weiBe Zone mit pharmazeutischer Inschrift: Gera,pigra. semplice. Dariber und darunter streifenformig sich ablosende Friese in Blau und Braun; mit
+
+Punktkreisen,kleinen Quadraten,Halbblattern usw.
+
+SIENA,UM 1500. Hohe 22cm. Tafel VII.
+
+## 24 APOTHEKENKANNE.
+
+Mit breitem Henkel und langem, gebogenem AusguB mit Ringwulst. Gelbgraue Glasur, bunt bemalt. Unter dem Ausguf breites Schriftband mit pharmazeutischer Inschrift: Sy·de V. Radici*., umgeben von breitem Blattwerk mit umgerollten Spitzen in Blau,
+
+Mangan und Ocker. Dazwischen zierliche blaue Ranken und Fullmotive. SIENA,UM 1500.Hohe24,5cm.
+
+Tafel VIIl.
+
+## 25 HOHERALBARELLO.
+
+Farbig bemalt. Die Wandung in drei Zonen zerlegt. In der oberen und unteren Pfauen federfriese; oben abwechselnd ein nach unten geoffnetes Pfauenauge in Blau, Grun, Braun und ein nach oben geoffnetes, in Dunkelblau und Hellblau gemaltes. In der
+unteren Zone dasselbe in umgekehrter Stellung. Auf der Mittelzone zarte blaue Wellen= ranke mit groben tiefblauen Bliten und brauner Mitte. Auf Schulter und Ablauf blaue Punktborte zwischen Streifen. Sprung.
+
+SIENA,UM 1500. Hohe 31 cm. Tafel V.
+
+## 26 SEHR GROSSER KRUG.
+
+Mit breitem, dreiteiligem Henkel und eingekniffenem Ausguf. Farbig bemalt.Vorn unter Krone ein groBer Wappenschild mit Wappen von Arragon. Ringsum auf tief blauem Grund breiter Blattkranz mit palmettenartigen grunen Blattern und ockers farbenen kleinen Fruichten. Oben und unten ein Kreis, darin geviertelte Kugel. An den
+
+Seiten groBe geschwungene blaue Bandspiralen.
+
+SIENA,UM 1500. Hohe 38 cm. Tafel VI.
+
+## 27 TELLER.
+
+Mit flachem Rand. Leicht rotliche Glasur. Im Spiegel die Inschrift ,PIERA·B"in zwei durchgesteckten Quadraten und Kreis, von dem Strahlen ausgehen. Am Rand Eier stabfries und stilisierte Blitenkelchborte. Farben:blau,grun und gelbbraun. Die Ruckseite mit der typischen Dekoration der Sieneser Teller: radial angeordnete Blatt motive, blau konturiert,mit blauen und braunen Querstrichen. In der Mitte blaue
+
+Marke: durchstrichenes M. Sprung.
+
+SIENA,UM 1500. Durchmesser 26,5 cm.
+
+Tafel IV.
+
+## 28 APOTHEKENKANNE.
+
+Vasenform, mit breitem, doppeltgerieftem Henkel und AusguBrohr, das von einer
+
+Schlinge gehalten wird. Auf der Schauseite groBer blauer Blattkranz mit gelben Fruchten.Darin,unter dem AusguB,breites weiBes Band mit pharmazeutischer Inschrift: SY°.IVIVBINO.In den Halbkreisen symmetrisches Rankenwerk in Blau, Gelb und Grun auf braunem M Grund. Unten in der Mitte weifes Ovalfeld, darin blaues Apothekenzeichen: AuBen flatternde blaue Bander.- FuBrand gekittet. SIENA,ANFANG 16.JAHRHUNDERT.Hohe 24,5 cm. Tafel V.
+
+## 29 APOTHEKENKANNE.
+
+Vasenform,mit breitem, gerieftem Henkel und AusguBrohr, das von verschlungenem Tau gehalten wird. Auf der Schauseite groBer Kranz von grunem Eichenlaub und gelb braunen Eicheln, gebunden von flatternden grunen Bandern. In der Mitte,unter dem AusguB weiBe Zone mit pharmazeutischer Inschrift: DIA MORON. In den braun= grundigen Zwickeln oben drei gefluigelte Drachen, blau mit gelben Punkten; unten eine Hundehochzeit. Unter dem Boden eingeritzte Inventarzeichen und Zahlen.
+
+SIENA,ANFANG 16.JAHRHUNDERT.Hohe 23,5cm. Tafel V.
+## 30 ALBARELLO.
+
+Am Bauch vorne Brustbild einer Frau vor blauem Vorhang. Darunter: V. EGITIACVM. auf einem Spruchband. Rechts und links Blattranke mit Birnen. Hinten dunnfiedrige
+
+SIENA,ANFANG 16.JAHRHUNDERT. Hohe 21 cm. Tafel VII.
+
+blaue Ranke mit gelben Fruchten. Oben und unten mehrere Borten.  Repariert. Aus der Sammlung des Lord Carmichael.
+
+## 31 ALBARELLO.
+
+Auf der Stirnseite groBer blauer Blattkranz mit gelben Fruchten; darin in der Mitte weifes Band mit pharmazeutischer Inschrift: DIA PENIDI;in den beiden Halbs bogen symmetrisches Rankenornament mit Fullhornern auf braunem Grund. AuBen verschlungene blaue Bander.
+
+SIENA,ANFANG 16.JAHRHUNDERT. Hohe237 cm.
+
+Tafel VII.
+
+## 32 APOTHEKENKANNE.
+
+Mit breitem Henkel und Ausgufrohr in Gestalt eines Drachenhalses mit Kopf. Dieser braun mit gruner Schattierung. Unter dem AusguB ein Spruchband mit pharmazeus tischer Inschrift: Sy artemisia. Daruber,neben dem Drachenhals,je eine gelbe Palmette,hinter dem Drachenhals ein gelbes Blatt auf dunkelblauem Grund. Uber den Palmetten je ein rechteckiges,hellblau schraffiertes Feld. Seitlich zwei senkrechte
+
+Streifen mit blauen Schnorkeln. Auf der Ruckseite blaue Schnorkel und Striche.— Der Ausguf repariert.
+
+SIENA,UM 1525. Hohe 23 cm. Tafel VIII.
+
+## 33APOTHEKENVASE.
+
+Kraftig gebaucht, mit abgesetztem und umgeschlagenem Rand. Auf dem Bauch halbs rundes Feld,darin tanzendes Paar vor sitzendem Lautenspieler in Blau gemalt. An den Seiten gruner Blattkranz mit gelbbraunen Fruchten und blauen Schnorkeln. Unten Spruchband mit pharmazeutischer Inschrift:IRIFERA:CVM:OPO. Hals gelb, uber dem Fries braune Rundbogenborte auf gelbem Grund.
+
+SIENA,MITTE 16.JAHRHUNDERT. Hohe 15,7 cm.
+
+Tafel VIII.
+
+## 34APOTHEKENKANNE.
+
+Mit breitem, gefurchtem Henkel und kurzem RohrenausguB. Farbig bemalt. Unter dem Ausguf gezackte gelbbraune Strahlenglorie,darin IHS auf blauem Grund. Darunter Spruchband mit pharmazeutischer Inschrift: Mele violato. Ringsum breiter blauer Blattkranz mit gelbgruinen Bluten. Unter dem Henkel Inschrift:·PI·PA· Am
+
+Henkel kleine Reparatur.
+
+SIENA,16.JAHRHUNDERT.Hohe23,5cm.
+
+Tafel VIII.
+## 35APOTHEKENVASE.
+
+Kraftig gebaucht, auf schlankem FuB. Auf dem Bauch in halbrundem, tiefblauem Feld weibliches Brustbild mit blondem Haar und blauer Halskrause. Darunter Spruchband mit pharmazeutischer Inschrift: Zuco :Violato. An den Seiten gelb gebundener griner Blattkranz mit gelben Blumen und blaue Schnorkel.
+
+SIENA,2.Halfte 16.JAHRHUNDERT. Hohe 18,5 cm. Tafel VIII.
+
+## DERUTA
+
+Nr.36——59.
+
+## 36FLACHER TELLER.
+
+Im Spiegel Rundfeld mit blauweiBem Schachmuster, gelbgetupft;ringsum Blatter,blau und grun. Auf dem Rand zwei Reihen rundliegender gruner Blatter,dabei symmetrisch verteilte blaue Sternbluten mit gelber Mitte und Blatter. Auf der Ruckseite blau kon=
+
+turierte,zum Strahlenkranz geordnete Spitzblatter.—Repariert.
+
+DERUTA,ANFANG 16.JAHRHUNDERT.Durchmesser21,5cm. Tafel IX.
+
+## 37ZWEIHENKELIGE VASE.
+
+Um den abgesetzten Bauch in der Mitte ein weifes Flechtband. Am Hals zwei braun= grundige Felder, darin symmetrisches Rankenmotiv in Blau, Gelb und Grun. Am Ablauf Schragblatter in WeiB,Grun und Gelb; am FuB blauer Blattzackenfries.— Henkel gekittet.
+
+DERUTA,ANFANG 16.JAHRHUNDERT.Hohe 18,5 cm. Tafel X.
+
+## 38 SCHUSSEL.
+
+Mit erhabenem Umbo und schmalem Rand. Auf dem Umbo laufender Hase in Land schaft. Die breite Wandung durch radiale Streifen, braungelb und blau bzw. grun in vier Felder zerlegt. Darin zweimal blaubraunes Schuppenmuster,zweimal eine aus Blattwerk mit Fruichten auslaufende blaue Ranke. Auf dem Rand umlaufende Borte aus stilisierten Blattern, Bluiten und Kelchen. Auf der Ruckseite grofe vierblattrige Blume in blauer Konturmalerei, darin ein durchstrichenes B; am Rand blaues Strichmuster.— Repariert.
+
+DERUTA,ANFANG 16.JAHRHUNDERT.Durchmesser 33cm. Tafel X.
+
+## 39 TELLER.
+
+Mit breitem Rand. Im Spiegel ein breitblau umrandetes Wappen mit gelben und braunen Balken,oben weif. Auf dem Rand ein schuppenartig angeordnetes Muster und eine Kelchborte in Bianco sopra bianco. Auf der Ruckseite ineinander geordnete blau gezeichnete Blatter.—Repariert.
+
+DERUTA,ANFANG 16.JAHRHUNDERT.Durchmesser 23 cm,Hohe 3 cm. Tafel IX.
+
+<!-- image -->
+## 40 TELLER.
+
+Mit vertiefter Mitte. Im Spiegel Rundmedaillon, darin auf einem Band die blaue Inschrift: Orelia. Be (lla). Dariber und darunter Blattornament in Blau, Turkisgrun und Gelb auf braunem Grund. Auf dem Rand verschlungene Zweige, turkisgrun mit blauem Kontur. Auf der Ruckseite ineinander geordnete blau gezeichnete Blatter.—
+
+Repariert.
+
+DERUTA,ANFANG 16.JAHRHUNDERT.Durchmesser21 cm,Hohe4,8cm. Tafel IX.
+
+## 41 SCHUSSEL.
+
+Mit erhohtem Mittelbuckel. Auf dem Buckel Portrat eines Madchens in Blau, Grun,Braun und Gelb vor blauem Grund. Davor ein durchstrichenes B. Die Wandung durch blaue und weiBe Streifen radial in Felder zerlegt; darin viermal ein grunes Blatt,je zweimal Schuppen: muster und symmetrische Ranke. Auf dem Rand auf braunem Grund blaue Ranken zwischen gelben, grungepunkteten Ovalen. Auf der Ruckseite ein Stern aus zehn verschlungenen Blattformen; in der Mitte blaue Marke: ——Spruinge.
+
+<!-- image -->
+
+DERUTA,ANFANG 16.JAHRHUNDERT. Durchmesser 34 cm,Hohe 3,5 cm. Tafel X.
+
+## 42 SCHUSSEL.
+
+Mit schmalem, aufen hochgebogenem Rand. Bunt bemalt mit groBer Halbfigur einer Dame in reichem Kostum vor gelbem Grund. Rechts eine Mauer, links Felsen in Blau= malerei. Ruckseite in Blau bemalt mit sternartigem Mittelornament und kleinen Zacken friesen.-—Repariert.
+
+DERUTA,UM 1525. Durchmesser 33cm,Hohe 3,3 cm. Tafel X.
+
+## 43 SCHUSSEL.
+
+Mit erhohtem Umbo und schmalem Flachrand. Im Umbo zwei sich fassende, gekronte Hande iber einem Herzen. Ringsum verschlungenes Fadenmuster. Die zum Rand an# steigende Flache durch radiale Streifen in acht Felder zerlegt,in denen abwechselnd Schuppenmuster und symmetrisches Blattwerk. Auf dem Rand umlaufende, symme# trische Renaissanceranke. Malerei blau und ockerfarben,listriert. Auf der Ruckseite gelbrot luistrierte konzentrische Kreise.
+
+Aus dem Besitz der Familie Sergardi, Siena.
+
+DERUTA, UM 1510. Durchmesser 33 cm,Hohe 3,5 cm. Tafel XI.
+
+## 44 GROSSE VERTIEFTE SCHUSSEL.
+
+Im Fond Brustbild einer Dame mit verschnirtem Kleid und reichem Kopfputz. Vor ihr ein Spruchband mit Inschrift:PER DOMIRE NO SAQVISSTA;hinter ihr Blume. Der Rand vollig mit Schuppendekor. Malerei blau und ockerfarben, lustriert. - Repariert. Die Darstellung bis auf Einzelheiten ubereinstimmend mit der nicht luistrierten Deruta Schussel der Sammlung Pringsheim (Nr. 124, Taf.68).
+
+DERUTA,1.VIERTEL 16.JAHRHUNDERT.Durchmesser 41 cm,Hohe9 cm. Tafel XI.
+## 45 GROSSE VERTIEFTE SCHUSSEL.
+
+Im Fond Brustbild des heiligen Hieronymus mit Kreuz und Lowe. Der Rand durch mehrfache radiale Streifen viermal geteilt. Dazwischen Felder mit Schuppenmuster bzw. symmetrischem Blattwerk. Malerei: blau und ockerfarben,listriert.
+
+DERUTA,1.VIERTEL 16.JAHRHUNDERT. Durchmesser 40 cm,Hohe 9 cm. Tafel XII.
+
+## 46 KLEINE SCHUSSEL.
+
+Mit vertiefter Mitte und Randwulst. Im Spiegel Achtpaffeld,darin gotischer Buch stabe (N ?) mit bartiger Fratze und Streubluten. Am Rand radialer Zackenfries mit
+
+Blumen. Malerei blau und ockerfarben,listriert.
+
+DERUTA,1.VIERTEL 16. JAHRHUNDERT.Durchmesser 27 cm. Tafel XIII.
+
+## 47TONDINO.
+
+Im Fond und auf dem Rand blaue Ranken mit blauen Sternblumen und ockerfarbenen lustrierten Blattern auf elfenbeinweifem Grund. Die Wandung vollig lustriert.— Springe.
+
+DERUTA,1.HALFTE 16.JAHRHUNDERT.Durchmesser 19,8 cm,Hohe 4,2 cm.
+
+## 48 TONDINO.
+
+In der vertieften Mitte in schuppenumgebenem Kreis ein E in Quadrat. Auf dem Rand radiale Zackenborte mit Blumen dazwischen. Malerei blau und ockerfarben,lustriert. —Stark repariert.
+
+DERUTA,1.HALFTE 16.JAHRHUNDERT.Durchmesser 20,8 cm,Hohe 4,8cm.
+
+## 49 TONDINO.
+
+Uber Rand und vertiefte Mitte radial verteilt pfauenaugenartiges Schuppenmuster, blau und ockerfarben gemalt und lustriert.
+
+DERUTA,1.HALFTE 16.JAHRHUNDERT.Durchmesser 20,5 cm,Hohe 4,5cm. Tafel XIII.
+
+## 50 TONDINO.
+
+Im Fond rechteckige Tafel mit Inschrift: SILVIA. Ringsum Schuppenborte. Auf dem Rand uber Eierstabfries kronenartige Gebilde unter Bogen. Malerei blau und ockers farben,lustriert. Auf der Ruckseite ockerfarben lustrierte,konzentrische Kreise.Am Rand drei gebohrte Locher.
+
+DERUTA,1.HALFTE 16.JAHRHUNDERT.Durchmesser 21,6 cm,Hohe 4,5 cm. Tafel XIII.
+
+## 51 TONDINO.
+
+In der vertieften Mitte auf Schuppengrund ein Spruchband mit Inschrift: NICHOLA. Auf dem Rand Fries schraggelegter Blatter. Malerei blau und ockerfarben, lustriert.—
+
+Sprung.
+
+DERUTA,1.HALFTE 16.JAHRHUNDERT.Durchmesser 21,5 cm,Hohe 5 cm. Tafel XIII.
+
+3
+## 52VERTIEFTER TELLER.
+
+DERUTA,1.HALFTE 16.JAHRHUNDERT. Durchmesser 22,8 cm,Hohe 4 cm. Tafel XIII.
+
+Im Fond Brustbild eines bartigen Mannes mit Mutze,neben Blume. Ringsum Schuppen borte. Auf dem Rand Zackenfries mit Blumen. Malerei blau und ockerfarben, lustriert. Auf der Ruckseite konzentrische, ockerfarben lustrierte Kreise.— Sprung.
+
+## 53 VERTIEFTESSCHALCHEN.
+
+Kapelle, rechts Blume. Malerei blau und ockerfarben, lustriert.- Sprunge. DERUTA,1.HALFTE 16.JAHRHUNDERT. Durchmesser 16,4 cm. Tafel XIII.
+
+Mit Relieffigur des knienden heil. Hieronymus mit dem Lowen und Kruzifix. Links
+
+## 54 GEBUCKELTE SCHALE.
+
+Mit gewelltem Rand, auf niedrigem FuBring. Auf der leicht erhohten Mitte symmes trisches dunnes Rankenornament. Ringsum radiale,keulenformige Buckel, von weiBem Grund umgeben. Malerei blau und ockerfarben,luistriert.— Sprung.
+
+DERUTA,1.HALFTE 16.JAHRHUNDERT. Durchmesser 21,5 cm,Hohe 5 cm.
+
+## 55 GEBUCKELTE UND GERIPPTE SCHALE.
+
+DERUTA,1.HALFTE 16.JAHRHUNDERT. Durchmesser 22 cm,Hohe 4 cm.
+
+Auf der erhohten Mitte blau und ockerfarben gemalte,unsymmetrische Blattstaude. Ringsum radial angeordnete,keulenformige Buckel,von weiBem Grund umgeben. Der Rand gewellt. Malerei blau und ockerfarben, luistriert.
+
+## 56SCHALE AUF FUSS.
+
+Lustriert. Breiter senkrechter Rand, der Boden nach innen eingewolbt. Im Boden Rundfeld mit blau konturiertem, gekrontem M, daneben je eine Blume. Ringsum radial angeordnete gezackte Halbblatter, dazwischen Blumen. Im inneren Rand Fries von eiformigen Bluiten,auf dem auBeren Rand Fries von Blumen mit umgeklapptem Blatt. Am Ablauf radiale Spitzzacken, dazwischen Blumen. Auf dem Fuf Blattfries. Malerei blau und ockergelb auf weiBem Grund.— Spruinge.
+
+Tafel XIV.
+
+DERUTA,1.HALFTE 16.JAHRHUNDERT. Durchmesser 25 cm,Hohe 16 cm.
+
+## 57DOPPELHENKELIGE VASE.
+
+Lustriert. Auf bauchigem Korper eingezogene Schulter mit geradem Halsring; breit geschweifter Fuf. Auf der Schulter beiderseits von Punktstreifen gerahmtes Feld, darin blau konturiertes, symmetrisches Blattwerk auf weiBem Grund. Auf dem Hals Blattborte auf weiBem Grund. Am Bauch schrager Blattfries, daruber Eierstabborte; dieselbe Borte auf dem Fuf.
+
+DERUTA,1.HALFTE 16.JAHRHUNDERT.Hohe24cm.
+
+Tafel XIV.
+## 58 DOPPELHENKELIGE VASE.
+
+Auf FuB, lustriert. Senkrechte Wandung auf schragem Ablauf. Auf der Wandung beiderseits rechteckiges Feld, darin zwei in Flammen stehende Herzen unter einer Krone, daneben je eine Blume. Rechts und links neben den Henkeln senkrechte Bander mit Blattfries; auf dem Fuf der gleiche Blattfries. Am Ablauf radial gestellter Zacken fries. Malerei blau und ockerfarben,listriert. Repariert.
+
+DERUTA,1.HALFTE 16.JAHRHUNDERT.Hohe 16.8 cm.
+
+Tafel X.
+
+## 59 VASEINFORMEINESPINIENZAPFENS.
+
+Auf FuB. Reliefiert, durchweg ockerfarben bemalt und lustriert.-FuB gekittet. DERUTA,1.HALFTE 16.JAHRHUNDERT. Hohe 20 cm. Tafel XIV.
+
+## GUBBIO
+
+Nr.60-64.
+
+## 60 RELIEFIERTE SCHALE.
+
+Auf niedrigem Ringfuf. In der von einem Ring umgebenen,leicht gewolbten Mitte uber Flammen zwei sich fassende Hande unter Krone. Der Grund blau gemalt. Auf dem Rand abwechselnd reliefierte Akanthusblatter und Zacken,auf deren Spitze eine reliefierte Kugel. Malerei blau und ockerfarben;neben dem blauen und ockerfarbenen Lister stellenweise rubinrote Luster. Auf der Ruckseite drei ockerfarben lustrierte
+
+Schnorkel.-—Am Rand mehrfach beschadigt.
+
+GUBBIO,1.VIERTEL 16.JAHRHUNDERT. Durchmesser 22 cm,Hohe 4,5 cm. Tafel IX.
+
+## 61SCHUSSEL.
+
+Mit hochgewolbtem Spiegel und steilem Rand. Im Spiegel das Lamm Gottes mit Siegess fahne auf Buch, gerahmt von symmetrischem Blumenwerk. Am Rand abwechselnd symmetrisches Blattwerk und vertiefte Ovale.Weifer,leicht rosafarbener Grund, die Konturzeichnung blau, das Innere der Zeichnung gelbbraun mit rotlichem Luster.—
+
+In schwarzem Holzrahmen.
+
+Aus Sammlung des Duke of Newcastle.
+
+GUBBIO,1.VIERTEL 16.JAHRHUNDERT. Durchmesser 25 cm,Hohe 5 cm.
+
+Tafel IX.
+
+## 62TELLER.
+
+Mit flachem Rand. Im vertieften Fond Putto mit blauem Band in Landschaft (Boden grun, Berge blau, Himmel gelb). Auf dem Rand schabloniertes Rankenmuster mit Engelskopfen, Fullhornern und Kugeln,gelb,braun, grun und weif auf tiefblauem
+
+Grund. AuBenrand gelb.-Repariert.
+
+GUBBIO,ohne Luster,UM 1525. Durchmesser 26,8 cm. Tafel IX.
+## 63VERTIEFTE,RELIEFIERTE SCHALE.
+
+GUBBIO,UM 1520. Durchmesser 21 cm,Hohe 5 cm.
+
+Im Fond auf gruinem Boden zwei geflugelte Putti, die ein Wappenschild zwischen sich halten. Die Figur und der Schild reliefiert. Auf dem Rand abwechselnd reliefierte Akanthusblatter und symmetrische Blumenstaude mit plastischer Buckelblute. Bemalt mit blauen Konturen,reich in Rubinrot lustriert.
+
+Tafel XV.
+
+## 64 FLACHER TELLER.
+
+Mit leicht vertieftem Fond. Darin auf Goldlustergrund die grau konturierte, ockergelb schattierte Figur eines Putto, der einen Vogel am Bande halt. Er steht auf grunem Boden, dahinter dunkelblaue Berge. Der breite Rand ist bedeckt mit einem radial angeordneten, schablonierten Rankenmuster,aus blauem Grund ausgespart und mit goldenem und rubinrotem Luster bereichert. Auf der Ruckseite drei rot lustrierte
+
+Schnorkel.
+
+23 cm, Hohe 2,5 cm.
+
+Tafel XV.
+
+## 65 KLEINE SCHALE.
+
+Auf Ringfuf,bunt bemalt mit Brustbild einer Frau mit gelber, blauschwarz gemusterter Mutze und ebensolchem Kleid. Auf tiefblauem Grund. Links und rechts auf Spruch band:Philomea Bella.-Repariert.
+
+Tafel XVIII.
+
+## 66 GROSSER TELLER.
+
+Mit stark vertiefter Mitte und flachem Rand. Im Spiegel gefesselter Amor am Baum, grau gemalt und weif gehoht vor kleiner Landschaft mit gelbem Himmel. Auf dem Rand in Graumalerei auf tiefblauem Grund drei Rundmedaillons mit lorbeergekronten Brust bildern von NERO,ERCHVLES und ENEA. Dazwischen Gruppen von Musikinstru menten mit Spruchbandern, auf denen hebraische Inschriften. Auferer Rand gelb. CASTEL DURANTE,UM 1520. Durchmesser 28,5 cm,Hohe 4,8 cm.
+
+Tafel XVI.
+
+## 67 TIEFES BECKEN.
+
+Mit profiliertem Rand und erhohtem Mittelrund. Auf diesem Mittelrund in Blau, Gelb,
+
+Braun, Grun und Schwarz gemalt das von zwei Putten gehaltene, an einem Engelskopf hangende Wappen der Este. Der profilierte Rand ringsum gelb. Die innere Flache des Beckens zeigt zwischen blauen Spiralblattrankenfriesen abwechselnd blau konturierte, grau schattierte Trophaen und blaues Rankenornament ,alla porcellana.Auf dem Rand,
+
+## CASTEL DURANTE
+
+Nr.65-81.
+Zwischen gelben Streifen, ein ebenfalls blau gemalter Fries von Palmetten. Mehrfach gekittet.
+
+CASTEL DURANTE,Arbeit des NICOLA DA URBINO, UM 1520. Durchmesser 46 cm,Hohe 7 cm.
+
+Tafel XVIl.
+
+## 68 KLEINER ALBARELLO.
+
+Der Korper durch zwei vertikale Blattbander in zwei Bildhalften zerlegt. Einerseits graue, gelb gehohte Trophaen auf dunkelblauem Grund mit ausgekratzten Schnorkeln; anderseits symmetrische Grotesken mit Vase, Delphinkopfen und Blumen, aus dunkelblauem Grund ausgespart und hellblau schattiert. Am Hals blauweife Ranken#
+
+borte,uber dem FuB Blattborte.
+
+CASTEL DURANTE,UM 1525. Hohe 16,5cm. Tafel XVIll.
+
+## 69 KLEINER ALBARELLO.
+
+Der Korper durch zwei vertikale Blattbander in zwei Bildhalften zerlegt. Einerseits graue, gelb gehohte Trophaen auf dunkelblauem Grund mit ausgekratzten Schnorkeln; anderseits vier mit der Spitze zusammenstoBende Palmettenmotive,blau gemalt auf hellblauem bzw. grunem Grund;in den Ecken gelbe Blattranken auf tiefblauem Grund. Am Hals und Ablauf Zickzackbander auf blauem Grund.
+
+CASTEL DURANTE,UM 1525. Hohe 16,5 cm. Tafel XVIII.
+
+## 70 KLEINER ALBARELLO.
+
+Stark eingezogen. Auf der Schauseite grofes, vom Rand bis zum Boden reichendes Ovalfeld. Darin auBen grau schattierte Trophaen auf dunkelblauem Grund. In der Mitte querliegendes gelb schattiertes Band mit pharmazeutischer Inschrift: Si. Buglossia. In den Zwickeln grau schattierte Ranken bzw. Fullhorn auf schwarzem Grund. Auf der Ruckseite blaue Schnorkel. - Repariert.
+
+CASTEL DURANTE,1.HALFTE 16.JAHRHUNDERT. Hohe 14,5 cm.
+
+## 71 TELLER.
+
+Mit flachem Rand. Im flachen Spiegel ein blaugelbes Wappen auf grunem Boden stehend. Rechts und links die Buchstaben N und A. Auf dem Rand grau gemalte Trophaen auf blauem Grund.
+
+Vgl. den sehr ahnlichen,1530 datierten Teller mit dem gleichen Wappen in der Sammlung Pringsheim;Kat.Nr. 220.)
+
+CASTEL DURANTE,UM 1530.Durchmesser 26,5 cm.
+
+Tafel XVI.
+
+## 72 TELLER.
+
+Mit breitem Rand. Im Spiegel grau gemalter Amor mit grinem Kocherband in gruiner, gelber und blauer Landschaft. In der Kehlung weiBe Ranke auf weiBem Grund (bianco sopra bianco); auf dem Rand graue Trophaen und Musikinstrumente auf dunkelblauem Grund mit ausgekratzten weiBen Schnorkeln.
+
+CASTEL DURANTE,UM 1540.Durchmesser 24,5 cm,Hohe 3,3 cm.
+## 73 TELLER.
+
+Mit vertiefter Mitte. Im Spiegel braun gemalter Putto auf gelbem Grund. Ringsum gebundener gruner Blattkranz. Daruber brauner Zickzackfries auf gelbem Grund. Auf dem Rand braun gemalte Trophaen auf dunkelblauem Grund. -Repariert.
+
+CASTELDURANTE,UM 1550.Durchmesser23,7 cm,Hohe3,7cm.
+
+## 74GEWOLBTESCHALE.
+
+Reiters, mit Rustung und Schwert vor einem Baumstamm. Hellblau ausgespart und weif gehoht auf tiefblauem Grund. Rand von Schale und Fuf gelb. Unter dem Boden blaue Jahreszahl 1536.
+
+CASTEL DURANTE,1536.Durchmesser 23.3 cm,Hohe 6,5cm.
+
+Tafel XVII.
+
+## 75 TELLER.
+
+Mit flacher Mitte. Uber die ganze Flache verstreut Gruppen von grau gemalten
+
+Trophaen auf dunkelblauem Grund mit ausgekratzten weifen Schnorkeln.
+
+CASTEL DURANTE,UM 1540. Durchmesser 21,2 cm. Tafel XVIll.
+
+## 76 GROSSER APOTHEKENTOPF.
+
+In Form einer bauchigen Vase mit steilem Hals. Auf der Schauseite gelbes Rund= medaillon mit Kriegerkopf in Blau, Braun und Grun. Dabei Spruchband: BRVTO. Darunter auf breitem Band pharmazeutische Inschrift:Roch; sanum. Die ibrige Flache in breite Schragfelder zerlegt; darin abwechselnd gelbe Weinranken auf dunkelblauem Grund und blaue Groteskranken auf braunem Grund. Unten ringsum gelbe Ranken# borte auf grunem Grund. Auf der Schulter Blattranke auf grunem Grund. Am Hals Vierblattmotive abwechselnd blaugrun auf braunem und gelb auf gruinem Grund. Ahn= liche Borte uber dem Fuf,abwechselnd gelb auf blauem und blaugrun auf braunem
+
+Grund.-Kleine Springe und Absplitterungen.
+
+CASTEL DURANTE,UM 1550. Hohe33,5cm.
+
+Tafel XXII.
+
+## 77 GEBUCKELTE SCHALE.
+
+Auf Fuf. Auf dem erhohten Umbo Kriegerbrustbild in Blau, Gelb und Grun auf gelb braunem Grund. Die gebuckelte Wandung in einzelne verschiedengestaltige Felder zerlegt, darin gelbe,braun schattierte Zweige auf grinem Grund und hellblaue Ranken verschiedener Art auf braunem bzw. tiefblauem Grund. Die Ruckseite mit breiten blauen und gelben Streifen und Halbbogen dekoriert. Repariert.
+
+CASTEL DURANTE,UM 1550. Durchmesser 27,5 cm,Hohe 7,8 cm. Tafel XVIII.
+## 78 GEBUCKELTE SCHALE.
+
+Auf Fuf. Auf dem erhohten Umbo ein Frauenbrustbild en face, gemalt in Gelb, Grun und schwarzlichem Blau auf gelbem Grund. Die gebuckelte Wandung symmetrisch in einzelne Felder zerlegt, in denen gelbe Blatter bzw. Sternbluten auf gruinem Grund; Ranken, Kopfe usw. auf braunem und tiefblauem Grund. Die Ruckseite mit breiten blauen und gelben Streifen und Bogen dekoriert.Repariert.
+
+CASTEL DURANTE,MITTE 16.JAHRHUNDERT.Durchmesser26,5cm,Hohe8cm.
+
+## 79 GEBUCKELTE SCHALE.
+
+Auf Fuf. Im Spiegel Frauenbrustbild mit Haube in Grun, Blau, Braun auf gelbem Grund. Die gebuckelte Wandung mit Blattern und Ranken auf grunem, braunem und tiefblauem Grund. Ruckseite in Hellblau, Gelb und Braun dekoriert.- Repariert. CASTEL DURANTE,2.HALFTE 16.JAHRHUNDERT. Durchmesser 24,8 cm, Hohe 7 cm.
+
+## 80 SCHALE.
+
+Mit hochgebogener Wandung. Bemalt auf dunkelblauem Grund mit Ocker; symmes trisches Groteskenwerk. In der Mitte iber einer Fratze eine Halbfigur, die in Ranken auslauft. Auf ihrem Kopf eine Vase mit Fruchten. Seitlich Ranken mit Delphin# und Drachenkopfen. Auf der Ruckseite innerhalb des abgebrochenen -RingfuBes die blaue Jahreszahl 1551,aufen blaue Schnorkel. — Repariert.
+
+CASTEL DURANTE,1551. Durchmesser 24 cm,Hohe 5 cm. Tafel XVII.
+
+## 81 GROSSE SCHUSSEL.
+
+Mit umgebogenem Rand und Ringfuf. Im runden Mittelfeld zwischen Mauern mit land schaftlichem Ausblick eine kauernde Frau,in der Rechten eine Bandrolle,mit der Linken einen nackten Knaben haltend, der nach einer blauen Kanne greift; gemalt in Blau, Grau, Gelb, Braun und Grin. Auf dem Rand breit geschwungene gelbe Ranken auf grunem Grund. Auf der Ruckseite des Randes abwechselnd symmetrische Ranken und drei gelbe Quitten, dazwischen Blattwerk und Punkte in Blau, Gelb, Braun und Grun. Auf dem unglasierten Boden in schwarzlichem Blau aufgemalt S S
+
+eine Tafel mit flatternden Bandern. Darin eine Jahreszahl, wohl 1550. -Der Rand beschadigt.
+
+CASTEL DURANTE,1550. Durchmesser 38,5 cm,Hohe 7cm.
+
+FAENZA
+
+Nr.82-113.
+
+Tafel XVIII.
+
+## 82 ALBARELLO.
+
+Mit grunem Ringwulst in der Mitte. Auf der Leibung iber dem Wulst senkrechte blau gelbe Streifen,unter dem Wulst pharmazeutische Inschrift: cll diantos in Spruchband auf gelbem Grund. Hinten ockerbraune stilisierte Ranke. Am Ablauf ockerbraune
+
+Schnorkel.
+
+FAENZA,ANFANG 16.JAHRHUNDERT. Hohe 21 cm.
+
+<!-- image -->
+## 83 APOTHEKENVASE.
+
+Blau bemalt. Breitbauchig mit schlankem Hals und verbreitertem Ausguf. Auf dem Bauch breites,kraftig schattiertes Spruchband mit pharmazeutischer Inschrift: a·menthe. Im ibrigen grofe Blutenranken, die Zwischenraume mit zierlichen Spiral ranken gefuillt. Am Hals stilisierte Palmetten und Dreizackblatter.
+
+FAENZA,16.JAHRHUNDERT. Hohe 23 cm.
+
+## 84 KLEINER ALBARELLO.
+
+Auf der Vorderseite Spruchband mit blauer pharmazeutischer Inschrift: Pill de reubaro. Daneben in Ovalfeld ein Kriegerbrustbild auf gelbem Grund mit Spruchband:Valerio. Die ibrigen Flachen mit abwechselnd braunen, schwarzen und grunen Feldern,in denen blaue bzw. gelbe Ranken.
+
+FAENZA,UM 1535.Hohe 15,5cm.
+
+## 85 APOTHEKENKANNE.
+
+Mit breitem Henkel und kurzem Rohrenausguf. Blau bemalt. Unter dem Henkel pharmazeutische Inschrift: So violato. auf breitem, stark schattiertem Spruchband. Auf der ibrigen Flache Blattranken. Am Hals Palmettenfries;auf dem Henkel und uber dem Fuf Zickzackmuster.
+
+FAENZA,1.HALFTE 16.JAHRHUNDERT. Hohe21,5 cm.
+
+## 86ab ZWEI APOTHEKENKANNEN.
+
+Mit breitem Henkel und kurzem RohrenausguB. Blau bemalt. Unter dem Henkel Spruchband mit pharmazeutischer Inschrift: So. de betonica,bzw. Oo. de absintio. Auf der ibrigen Wandung dunnes Rankenwerk mit Blattern; unter dem Ausguf groBe Stern blume, am Hals blauer Fries aus stilisierten Blattern und Fruchten. Am FuB Zickzack muster.
+
+FAENZA,1.HALFTE 16.JAHRHUNDERT.Hohe 20 cm.
+
+Tafel XIx.
+
+## 87,88 ZWEI ALBARELLI.
+
+Blau bemalt. Breites, stark schattiertes Spruchband, darauf: cll. judi. mi.,bzw.nychleta. Auf der ubrigen Flache geschwungene Blattranken. Auf der Schulter und am Ablauf Fries von Schragstrichen.
+
+FAENZA,16.JAHRHUNDERT. Hohe 18 cm,bzw.17 cm.
+
+Tafel XIX.
+
+## 89 ALBARELLO.
+
+Blau bemalt. Die Flache durch senkrechte und wagerechte Doppelstreifen in Quadrate zerlegt,in denen stilisierte Blumenstauden. Oben und unten konzentrische Kreise.
+
+FAENZA,16.JAHRHUNDERT. Hohe 15,8 cm.
+## 90 ALBARELLO.
+
+Blau bemalt. Auf der Schauseite Spruchband mit pharmazeutischer Inschrift: Mitridato. Daruber und darunter, sowie auf Schulter und Ablauf dunne Blattranken mit Blumen. Auf der Leibung seitlich blaue Schnorkel. Die beiden Profilkanten gelb bemalt.
+
+FAENZA,16.JAHRHUNDERT.Hohe18,5 cm.
+
+## 91,92 ZWEI ALBARELLI.
+
+Blau bemalt. Dunne, geschwungene Ranken mit grofen Rosettenbluten. An den Seiten kraftig schattiertes Schriftband mit pharmazeutischer Aufschrift:Fil·de·Sebesten,bzw. Requie Nicolai. Auf der Schulter Zickzackfries. Am oberen Rande und innen gelb. Ein Stuck mit Reparaturen.
+
+FAENZA,16.JAHRHUNDERT. Hohe 17 cm.
+
+## 93ALBARELLO.
+
+Blau bemalt. Spruchband mit pharmazeutischer Inschrift: Vo negro. Auf der Ruck seite geschwungene dunne Ranken mit zwei grofen Blumen. Auf Schulter und Ablauf
+
+Zickzackfries.-Bestofen.
+
+FAENZA,16.JAHRHUNDERT.Hohe 19,5 cm.
+
+## 94KLEINER ABARELLO.
+
+Blau bemalt,mit etwas Braun und Grun. Spruchband mit pharmazeutischer Inschrift: Perle·masnade. Die Enden des Spruchbandes ockerbraun. Vorn,in der Mitte uber dem Spruchband zwei grun gemalte Fruchte. Im ubrigen zierliche blaue Spiralranken. FAENZA,16.JAHRHUNDERT.Hohe11 cm.
+
+## 95ALBARELLO.
+
+Bemalt in Blau mit wenig Gelb. Spruchband mit pharmazeutischer Inschrift: Co roxato. Im ubrigen geschwungene Ranken mit Bluten, deren Inneres gelb gemalt ist. Auf der Schulter Blattfries,am Ablauf Strichborte.
+
+FAENZA,16.JAHRHUNDERT.Hohe 17cm. Tafel XIX.
+
+## 96APOTHEKENVASE.
+
+Blau bemalt. Rundbauchig mit verjungtem Hals und verbreitertem Ausguf. Auf dem Bauch Spruchband mit pharmazeutischer Inschrift:A·De·Plantagine. Im ubrigen zierliche Blattranken mit groBen Sternbluiten; ebensolche Ranken auf dem Hals. Am Ablauf Strich= und Punktborte.
+
+FAENZA,16.JAHRHUNDERT. Hohe 26,5cm. Tafel XIX.
+## 97 APOTHEKENKANNE.
+
+FAENZA,16.JAHRHUNDERT.Hohe 21 cm.
+
+Mit breitem Henkel und steilem RohrenausguB. Bemalt in leuchtendem Blau. Unter dem Henkel Schriftband mit pharmazeutischer Inschrift:o·de·euforbia. Die Leibung Hals und Henkel bedeckt mit geschwungenen Blattranken. Auf dem Fuf Zickzack fries.——Mehrfach beschadigt.
+
+Tafel XIX.
+
+## 98 ALBARELLO.
+
+Blau bemalt. Spruchband mit pharmazeutischer Inschrift:v·dialtea. Auf der ibrigen Flache geschwungene Blattranken. Auf der Schulter Zickzackfries,am Ablauf Blatt= borte.—Bestofen.
+
+FAENZA,16.JAHRHUNDERT. Hohe 18 cm. Tafel XIX.
+
+## 99ALBARELLO.
+
+Bemalt in Blau, mit wenig Gelb und Grun. Spruchband mit pharmazeutischer Inschrift: co bogo loxado. Im ibrigen geschwungene Ranken mit gelben und grunen, blau konturierten Blattern und Fruchten. Auf der Schulter Strichborte,am Ablauf Zick zackfries.
+
+FAENZA,16.JAHRHUNDERT.Hohe 17,5cm. Tafel XIX.
+
+## 100APOTHEKENKANNE.
+
+Mit doppeltem,unten in seitlich gelegten Wulsten auslaufendem Henkel und Steilausguf.
+
+Auf der Vorderseite in Blau, Gelb, Grun und Braun bemalt mit Fruchtkranz,in dem ein weiBes Band mit pharmazeutischer Inschrift: SYo·DESTICA'CO'. In den Zwickeln Groteskmotive mit Fratzen. Unter dem AusguB auf weifem Grund blau gemaltes Apothekenzeichen. An den Seiten flatternde blaue Bander,unter dem Henkel die Jahres= zahl 1574.—Fuf repariert.
+
+FAENZA (ODER SPATES SIENA?),1574. Hohe23cm.
+
+Tafel VIII.
+
+## 101APOTHEKENKANNE.
+
+Mit breitem Henkel und engem, steilem Rohrenausguf. Farbig bemalt. Unter dem
+
+<!-- image -->
+
+Ausguf Schriftband mit pharmazeutischer Inschrift: Giv·Violato·zwischen blauen Blattkranzen mit gelben Fruchten und Bandern. In den Zwickeln blaue Ranken mit grunen Blattern, von gelben Fratzen auslaufend. Aus dem blau bemalten Aus guB ausgekratzt das Datum 1579. Seitlich flatternde grine Bander. Unter dem Henkel blaues Apothekenzeichen:Dreieck, darin C und A,oben Stern. FAENZA,1579. Hohe24 cm.
+## 102 FLACHER TELLER.
+
+Hellblau glasiert (a berettino). Im Mittelfeld gefligelter Maskaron, hellblau ausgespart und weif gehoht auf dunkelblauem Grund. Die Wandung im ubrigen dekoriert mit radialen Rankenmustern, dunkelblau und weif auf hellblauem Grund; einige Blatter gelb und braun. Am Rand ein gebundener gruner Blattkranz mit gelbbraun=blauen Fruchten und Bluten. Auf der Ruckseite konzentrische dunkelblaue Kreise.
+
+FAENZA, CASA PIROTA,UM 1525. Durchmesser 23 cm. Tafel XX.
+
+## 103 TELLER.
+
+Mit breitem Rand. Hellblau glasiert (a berettino). Auf dem leicht erhohten Umbo Halbfigur eines Kriegers mit Schild (blau, gelb, braun) auf grunem Grund. In der Kehlung weiBes Palmettenornament auf hellblauem Grund. Auf dem Rand Grotesken ornament mit Buchern und Trophaen, hellblau ausgespart und weif gehoht auf tief blauem Grund. Die Ruckseite mit dunkelblauen und dunkelgelben konzentrischen
+
+Kreisen dekoriert.
+
+FAENZA,CASA PIROTA, UM 1530.Durchmesser 27cm.
+
+## 104 KLEINER TELLER.
+
+Mit vertiefter Mitte. Hellblau glasiert (a berettino). Im Mittelfeld hangendes Wappen schild mit Markuslowen in einem Quartier. Gemalt in Gelb, Braun, Weif und Grun. In der Kehlung Palmettenornament auf hellblauem Grund. Auf dem Rand Grotesk ornament mit Fratzen,Delphinen und Fullhornern,hellblau ausgespart und weif gehoht auf tiefblauem Grund. Ruckseite:In der Mitte durchkreuzter Kreis mit Punkt in einem Kreisviertel Marke der Casa Pirota); am Rand dunkelblaue Blumen und Zickzacklinien.
+
+FAENZA,CASA PIROTA,UM 1530. Durchmesser 19 cm.
+
+## 105 TELLER.
+
+Mit breitem Rand und vertiefter Mitte. Hellblau glasiert (a berettino). In der Mitte Schild mit Wappen der StrozziRidolfi, gemalt in Dunkelblau, Gelb,Braun, Grun und
+
+Weif,an Engelskopf hangend,auf hellblauem Grund. In der Kehlung weifes Palmetten= ornament mit Masken, Halbfiguren und Engelskopfen,hellblau ausgespart und weif ge= hoht auf tiefblauem Grund. Ruckseite:In der Mitte ein durchkreuzter Kreis; in einem Kreisviertel ein C (Marke der Casa Pirota). Am Rand dunkelblaue Ranken und Blumen.- Repariert.
+
+FAENZA,CASA PIROTA, UM 1530. Durchmesser 24.5 cm.
+
+Tafel XX.
+
+## 106 TELLER.
+
+Mit breitem Rand und vertiefter Mitte. Gegenstuick zum vorigen; die Grotesken# ornamente auf dem Rand variiert.— Repariert.
+
+FAENZA, CASA PIROTA,UM 1530.Durchmesser 24,5cm.
+
+<!-- image -->
+## 107 FLACHER TELLER.
+
+Hellblau glasiert (a berettino) und stark krakeliert. Im Mittelfeld verschiedenartige der Mitte durchkreuzter Kreis, in einem Kreisviertel ein C (Marke der Casa Pirota);auBen Blumenornamente und Zickzacklinien.
+
+Trophaen, hellblau ausgespart und weiB gehoht auf tiefblauem Grund. Ebenso auf dem breiten Rand Groteskornamente mit Engelskopfen, Vogeln, Buchern usw.In der Kehlung weiBes Palmettenornament auf hellblauem Grund. Ruckseite:In
+
+FAENZA,CASA PIROTA,UM 1530. Durchmesser 24 cm. Tafel XX.
+
+## 108 TELLER.
+
+Mit breitem Rand und vertiefter Mitte. Hellblau glasiert (a berettino). In der Mitte Halbfigur der Fortitudo Frau mit Saule), gemalt in Dunkelblau, Grun, Gelb und Braun, mit Weif gehoht. In der Kehlung weiBes Fiederblattornament auf der hellblauen Glasur; auf dem Rand Groteskenornament mit Palmetten, Ranken, Delphinkopfen usw., hellblau ausgespart und weif gehoht auf tiefblauem Grunde. Ruckseite: In der Mitte konzentrische Kreise mit Querstrichen, auf dem Rand durchkreuzte Kreise und
+
+Zickzackornamente.
+
+FAENZA,CASA PIROTA,UM 1535.Durchmesser 23,5 cm. Tafel XX.
+
+## 109SCHALE.
+
+Flachgewolbt, auf kurzem FuB. Hellblau glasiert (a berettino). Im Mittelfeld kniende Magdalena in Landschaft, gemalt in Blau, Gelb, Braun und Grun. Auf dem Rand Groteskenornament mit geflugelten Masken, Engelskopfen usw.,hellblau ausgespart und weif gehoht auf tiefblauem Grund. Auf der Ruckseite dunkelblau dekoriert mit Stern, Ranken und Blumenkelchen.
+
+FAENZA,CASA PIROTA,UM 1540.Durchmesser24,3cm.
+
+## 110 TELLER.
+
+Mit vertiefter Mitte. Hellblau glasiert (a berettino). Uber die ganze Flache hingemalt Braun;in der Mitte brauner Vogel. In den Zwischenraumen dunkelblaue Punkte. Auf dunne dunkelblaue Ranken mit kleinen und vier groBen Blattern in Grun, Gelb und der Ruickseite dunkelblaues Blattornament.
+
+FAENZA,MITTE 16.JAHRHUNDERT. Durchmesser 25 cm.
+
+## 111TELLER.
+
+Mit vertiefter Mitte. Im Mittelfeld Wappen der Bartolini (Gruin und Braunlich auf Gelb),in kleiner Landschaft stehend. Auf dem Rand in Blau auf weiBem Grund kleine
+
+Blattranken, in denen Vasen und Schrifttafeln.
+
+FAENZA,UM 1525. Durchmesser 21,5 cm. Tafel XIX.
+
+<!-- image -->
+## 112 GEBUCKELTE SCHALE AUF FUSS.
+
+Auf dem erhohten Umbo in Landschaft sitzende Figur Pauli mit Schwert und Buch, ges malt in Blau, Gelb, Braun und Grun, mit Weif gehoht. Die Flache ringsum durch Schragbuckel reliefiert,auf die die Malerei keine Rucksicht nimmt: zwei breitere, zwei schmalere Ovalfelder,in denen symmetrisches Rankenornament auf braunem Grund. In den Zwickeln Eichenzweige (gelbbraun) auf tiefblauem Grund. Der gewellte Rand zeigt weiBe liegende Zweige auf blauem Grund. Auf der Ruckseite abwechselnd gelbe und blaue Fiederblatter.—Repariert.
+
+FAENZA, UM 1535. Durchmesser 29 cm,Hohe 6,5 cm.
+
+Tafel XXI.
+
+## 113 SCHALE.
+
+Gewolbt,auf niedrigem FuB,bunt bemalt mit der Bekehrung Pauli. Sechs Reiter,unter ihnen ein Fahnentrager, suchen vergeblich die baumenden Rosse zu bandigen;in der Mitte fallt Saulus vom Pferd,vor ihm liegt Schwert und Schild; darauf die Buchstaben P.S. Oben erscheint in Wolken Gottvater mit ausgestreckter Linken.— Ruckseite:In der Mitte gelbe und blaue konzentrische Zonen,darin Jahreszahl 1540. Der Rand mit Schuppenmuster (Pfauenfedermotiv) bedeckt;blau und gelb mit grunem Auge; oben und unten in Zonen ockergelb ubermalt. — Repariert. Variante dieser Darstellung als ,Schlacht zwischen Romern und Samniten auf einer
+
+Venezianer Schussel der Sammlung Pringsheim (Bd. II, Nr. 236).
+
+FAENZA,Arbeit von BALDASSARE MANARA,1540. Durchmesser 27,5 cm,
+
+Hohe 6,8 cm.
+
+Tafel XXI.
+
+## 114SCHALE.
+
+Mit aufgebogenem Rand, bunt bemalt. Die Vestalin Tuscia tragt in einem Sieb Wasser zu einem Altar,der unter einem Baldachin steht. Neben dem Altar zwei TuiCogmond Hintergrund Tur und Fenster. Auf der Ruckseite:1540. Tutia l'acqua porto
+
+1540 Greise, eine Frau und ein Jungling. Hinter der Vestalin zwei Frauen. Im CiaTarmpo. col cribo al Tempio.X.- Repariert.
+
+URBINO,Arbeit des FRANCESCO XANTO AVELLI DA ROVIGO,1540.Durch messer 27,2 cm.
+
+## 115 TELLER.
+
+Mit flachem Rand,bunt bemalt. Im Mittelfeld sitzende weibliche Figur,einen Spiegel (?)
+
+haltend,vom Rucken esehen. Gemalt in Hellund Dunkelbraun,weif gehoht,vor ocker
+
+Von der Zinne des Turmes sturzt sich ein Jungling hinab; rechts ruft ein zwischen Baumen stehender Mann ihm erschreckt zu. Auf dem Meere ein Schiff mit schwarzem Segel und Ruderern. Ruckseite mit Inschrift: Morte di Egieo. - Sprung. URBINO,unbezeichnete Arbeit des FRANCESCO XANTO AVELLI DA ROVIGO, UM 1540. Durchmesser 28cm. Tafel XXIII.
+
+gelbem Grund. Ringsum zusammenhangendes Bildfeld, darin eine Burg am Meeresufer.
+
+## URBINO,VENEDIG, RIMINI u.a. Nr.114-—133.
+
+<!-- image -->
+## 116 SCHALE.
+
+Gewolbt,auf RingfuB,bunt bemalt. In einem Saulensaal sitzt links unter einem Baldachin Moses auf einem Thron und liest und erklart aus einem Buche, das auf seinen Knien liegt. Links eine Gruppe von drei Mannern; im Hintergrund des Saales eine hortat populum.
+
+URBINO,Art des GUIDO FONTANA,2.VIERTEL 16.JAHRHUNDERT.Durch messer26,5 cm,Hohe6 cm. Tafel XXIII.
+
+## 117 SCHUSSEL.
+
+Mit vertiefter Mitte, bunt bemalt. In Landschaft links eine Stadt, rechts Zeltlager. In der Mitte Coriolan mit mehreren Kriegern, gefolgt von Reitern, geht auf eine Gruppe von Frauen zu, die aus dem Stadttor herausschreiten. Vor ihnen ein Knabe. Ruckseite mit Inschrift: Coroliano.
+
+URBINO, MITTE 16.JAHRHUNDERT. Arbeit von GUIDO FONTANA. Durchmesser 37 cm. Tafel XXI.
+
+## 118 HOHE PRUNKVASE.
+
+Mit Schlangenhenkeln. Eiformiger,oben abgeplatteter Korper mit zwei Querwulsten; profilierter Trichterhals,profilierter —erganzter -Fuf. Farbig bemalt. Auf der einen Schauflache schwimmende, von Delphinen getragene Muschel, darauf stehende Venus mit Bogen, neben ihr zwei Amoretten. Rechts und links Najade auf Muschel,bzw. blasender Triton auf Delphin. Auf der anderen Schauseite in zwei Zonen ubereinander Meergottheiten auf Seeungeheuern und Delphinen, sowie ein Flof mit liegendem Menschenpaar. Oben ringsum Meeresgestade mit Hausern vor Bergen. Unter den gelb blau bemalten Schlangenhenkeln plastische, gelbbraune Lowenmasken. - Am Hals und einem Henkel kleine Reparaturen; der Fuf erganzt.
+
+URBINO,FONTANA-WERKSTATT,UM 1560. Hohe61 cm. Tafel XXII.
+
+## 119 SCHALE.
+
+Auf RingfuB,bunt bemalt. Meleagar mit vier Gefahrten auf der Jagd nach dem kalydo nischen Eber. Landschaft mit grofem,zackigem Fels und Baumen; im Hintergrund
+
+Stadt am Ufer. Ruckseite mit Inschrift: La Caccia di meleagro.  Stark repariert. URBINO,UM 1540.Durchmesser 27 cm.
+
+## 120 FLACHE SCHUSSEL.
+
+Auf niedrigem RingfuB, bunt bemalt. Belsazar laBt sich von Daniel die Schrift an der Wand deuten. Zwischen Architekturteilen Gruppe von sechs Mannern, die erschreckt auf die Wand sehen, auf der eine Hand Schriftzeichen schreibt. Links der Konig auf dem Thron sitzend. In der Mitte Aussicht in Landschaft mit Burg und Hausern. Ruck seite mit Aufschrift:Daniel quando pharaone li fece interpretar le lettre per una mano scritte apparuano (?).
+
+URBINO,UM 1540. Durchmesser 28 cm. Tafel XXIII.
+## 121 TELLER.
+
+Mit vertiefter Mitte,bunt bemalt. In Felslandschaft Joseph, von sechs seiner Bruder gefesselt auf einen Brunnen zugefuhrt, an dem ein weiterer Bruder steht. Links Aus= blick auf eine Stadt. Ruckseite mit Inschrift: La presa de Josefe dali fratelli.
+
+URBINO,MITTE 16.JAHRHUNDERT. Durchmesser 28,5 cm. Tafel XXI.
+
+## 122 SCHUSSEL.
+
+Leicht gewolbt und bunt bemalt. In reicher Landschaft sitzt vor einer Felsenhohle der heilige Hieronymus, lesend. Neben ihm der Lowe, vor ihm am Boden der
+
+Kardinalshut.
+
+URBINO,MITTE 16.JAHRHUNDERT.Durchmesser 26 cm.
+
+## 123 TELLER.
+
+Mit flachem Rand,bunt bemalt. Reiche Landschaft mit Baumen vor einem See. Darin drei Hirten mit zwei Hunden; sie schauen erschreckt auf zu Ganymed, der vom Adler in die Wolken emporgetragen wird. Ruckseite mit Inschrift: Ganimedo.
+
+URBINO,MITTE 16.JAHRHUNDERT.Durchmesser 22,5 cm.
+
+## 124 FLACHER TELLER.
+
+Bunt bemalt. In weiter Felslandschaft eine Meeresbucht. Am Ufer ein Schiff. Dem zu= vorderst darin stehenden Mann reicht vom Ufer aus eine Frau (Circe?) eine Schale. Die ubrige Schiffsbemannung sieht zu;ein nackter Mann zieht das Schwert. Ruickseite mit gelben konzentrischen Kreisen.- Repariert.
+
+URBINO,MITTE 16.JAHRHUNDERT.Durchmesser 26,5 cm. Tafel XXI.
+
+## 125 SCHUSSEL.
+
+Mit schmalem Rand,bunt bemalt mit der Geschichte von Mutius Scaevola. In reicher Landschaft links ein Palast; davor sitzt,von Kriegern umgeben, der Konig Porsenna auf dem Thron und weist auf Mutius Scaevola hin, der in der Mitte seine Hand ins Feuer halt. Hinter ihm Krieger mit Pferden vor Zeltlager. Ruckseite mit Inschrift: Mutio chela sua desstra erante chuoce.
+
+URBINO,MITTE 16.JAHRHUNDERT. Durchmesser 37cm. Tafel XXI.
+
+## 126 GEBUCKELTE SCHALE.
+
+Auf RingfuB mit gezacktem Rand, bunt bemalt mit Grotesken auf weiBem Grund. In der Mitte Rundbild mit in Gelb und Braun gemaltem wandernden Putto. Ringsum Groteskmotive mit Halbfiguren, Blumenkorben, Kameen u.a.
+
+URBINO,2.HALFTE 16.JAHRHUNDERT.Durchmesser 24 cm,Hohe 6,5 cm.
+## 127 TELLER.
+
+Bemalt mit Grotesken auf weifem Grund. In der Mitte das Wappen der Piccolomini in
+
+Sprung.
+
+Rollwerk, uberhoht von Bischofsmutze. Ringsum figurliche Groteskmotive mit Vogeln, Vasen usw. Am Rand zwei gemmenartige Medaillonkopfe, Vogel, Greifen usw. —
+
+URBINO,2.HALFTE 16.JAHRHUNDERT. Durchmesser 22,5 cm.
+
+## 128 GEBUCKELTE SCHALE.
+
+Mit gebogtem Rand,bunt bemalt. Unter Baldachin rechts Simeon, das Christuskind iber dem Altartisch haltend. Auf dem Tisch ein Korb mit Tauben. Vorn kniet die betende Maria;hinten Joseph und vier Priester. Links Ausblick in Landschaft. Ruckseite mit Inschrift: Simeone nel tenpio a no apresentato iesu christ.  Kleiner Sprung.
+
+URBINO oder VENEDIG,16.JAHRHUNDERT. Durchmesser 27 cm,Hohe 5 cm.
+
+## 129 ALBARELLO.
+
+Von gedrungener Form. Auf der Wandung geschwungene blaue Ranken mit grinen Blattern und groben grunen, gelbbraunen und braunen Fruichten. Auf Schulter und Ab:
+
+lauf blauer Zickzackfries. Sprunge.
+
+VENEDIG,16.JAHRHUNDERT. Hohe22 cm.
+
+## 130 GROSSE VASE.
+
+Farbig bemalt. Bauchige Form; steiler, leicht konischer Hals,runder FuBring. Auf dem Bauch grofe Rollwerkkartusche, darin Kniefigur der heiligen Katharina in gelber Glorie. Die ganze ubrige Wandung und der Hals bedeckt mit groBen geschwungenen Akanthuss ranken mit Blumen in Gelb, Ocker, Grun und Weif auf dunkelblauem Grund,aus dem duinne weife Spiralranken ausgekratzt sind.
+
+VENEDIG,2.HALFTE 16.JAHRHUNDERT.Hohe 34,5 cm.
+
+## 131 SCHALE.
+
+Leicht gebuckelt, mit gewelltem Rand und RingfuB. Bunt bemalt. Inmitten bergiger Landschaft Apollo mit dem Bogen,einen Baum umfassend, in den soeben Daphne ver wandelt wird. Auf der Ruckseite eine Messingplatte befestigt,zum Aufschrauben.
+
+RIMINI,MITTE 16.JAHRHUNDERT. Durchmesser 20,5 cm.
+
+## 132 SCHALCHEN.
+
+Oval, mit geschweiftem Rand, zwei Schlangenhenkeln und plastischer Halbfigur einer Frau auf dem einen Schmalrand. Dunkelblau glasiert,bemalt mit Gelb und WeiB: Symmetrisches Rankenwerk auf der Vorderseite;an den Randern innen und aufen mit kleinen gelben Rankenfriesen.
+
+OBERITALIEN,17.JAHRHUNDERT.
+
+## 133 KLEINE SCHALE.
+
+Mit gezacktem Rand und FuBring. Im Innern mit bemaltem Reliefdekor. Im Mittelrund Engel, der das Wappen von Bern vor sich halt. Auf der Wandung Reliefranken mit Blattern, Bluten, Apfeln und zwei Frauenmasken in Blau, Gelb und Grun auf mangan# braunem Grund. An der Ruckseite eine Ose.
+
+SCHWEIZ(WINTERTHUR),17.JAHRHUNDERT.Durchmesser 18cm,Hohe5,5cm.
+## MEZZAMAJOLIKA
+
+Nr.134-138.
+
+## 134KRUGAUSMEZZAMAJOLIKA.
+
+Mit breitem Henkel und gekniffenem Ausguf. Dickbauchig. Aus hellem Anguf aus gekratzt im Sgraffitoverfahren ein von Blattkranz umgebenes Halbrund,in dem ein mannliches Brustbild mit Mutze zwischen Ranken. Bemalt mit durchsichtigen Blei glasuren: grin, gelb, braun und blau.
+
+OBERITALIEN,15.-16.JAHRHUNDERT.Hohe 21 cm. TafelXXIV.
+
+## 135SCHUSSELAUSMEZZAMAJOLIKA.
+
+Mit breitem Flachrand. Aus weiBem Anguf ausgekratzter Dekor,mit gruner,braun gelber und blauer Bleiglasur bemalt. Im Spiegel Frauenbrustbild zwischen zwei Baumen; am Rand Wellenranke mit groBen gezackten Blattern.- Sprung.
+
+OBERITALIEN,UM 1500. Durchmesser 34,5 cm. TafelXXIV.
+
+## 136SCHUSSELAUSMEZZAMAJOLIKA.
+
+Vertiefte Mitte;breiter,ansteigender Rand. Aus gelblichem Anguf ausgekratztes Ornament,das von dem rotlichen Grundton in leichtem Relief sich abhebt. Auf dem Rand breite Wellenranke,im Spiegel ringsum Blattranke und Zickzackband;in der Mitte, lediglich mit ausgekratzten Konturlinien,ein Rollwerkwappenschild mit Stern,bemalt mit blauen, grunen und braunen Bleiglasuren.- Kleiner Sprung.
+
+OBERITALIEN,1.HALFTE 16.JAHRHUNDERT.Durchmesser 40 cm,Hohe9cm. Tafel XXIV.
+
+## 137 SCHUSSEL AUS MEZZAMAJOLIKA.
+
+Schrage Wandung, schmaler Rand. Aus hellem AnguB ausgekratzter Dekor,mit grunen, gelben und braunen Bleiglasuren bemalt. Im Spiegel ein Fisch;auf der Wandung Fries von Zackenblattern in Spitzbogen.Auf dem Rand Kreise mit Spitzrauten.- Repariert. OBERITALIEN,16.JAHRHUNDERT.Durchmesser 37,5cm. Tafel XXIV.
+
+## 138SCHUSSELAUSMEZZAMAJOLIKA.
+
+Mit schrager Wandung und schmalem Rand. Aus hellem Anguf ausgekratzter Dekor, mit Grun, Braun und mattem Blau (Bleiglasuren) bemalt. Im Spiegel zwei gegenstandige Vogel, zwischen ihnen ein zypressenartiger Baum; im unteren Abschnitt Blattornamente.
+
+OBERITALIEN,16.17.JAHRHUNDERT.Durchmesser 38,5 cm.
+
+Die Wandung mit senkrechten Strichen, der Rand mit Rautenfries.
+
+Tafel XXIV.
+## 139NAPF.
+
+Bemalt mit Blau und blassem Goldluster. Gebauchte Steilwandung, ohne FuBring. Im Spiegel Christusmonogramm in Goldluster, auf der Wandung Felder mit blauen Blattern und Blumen, durchzogen von luistrierten Ranken. Auf der AuBenseite vier blaue Blatter; dazwischen und unter dem gewolbten Boden lustrierte Palmettenbliten und Ranken.—
+
+Repariert.
+
+SPANISCH=MAURISCH,15. JAHRHUNDERT. Durchmesser 14 cm,Hohe 4,5 cm.
+
+## 140SCHUSSEL.
+
+Mit Steilrand; mit Kupferlister dekoriert. Im Innern plastische Schragbuckel, ab wechselnd ganz listriert und gemustert,mit Ranken oder Gitterwerk. Am Rand innen und aufen Rechteckfelder, abwechselnd mit einer Blume bemalt oder ganz lustriert. Auf der Ruckseite groBe geschwungene Ranken mit Fiederblattern.- Repariert.
+
+SPANISCH=MAURISCH,UM 1500. Durchmesser 25 cm,Hohe 6,8 cm.
+
+## 141GROSSE FLACHESCHUSSEL.
+
+Mit Goldluster dekoriert. Auf dem Mittelbuckel ein Hase uber Ranke. Die schmale Wandung in Zonen zerlegt, darin abwechselnd Kettenmuster und kleine Ranken mit Streublumen. Auf dem breiten Rand groBe reliefierte Dreiblatter uber lustrierten Flach bogen; dazwischen Streumuster. Die Ruckseite mit einer groBen Spirale dekoriert. Der Rand mehrmals gekittet.
+
+SPANISCHMAURISCH,16.JAHRHUNDERT.Durchmesser 41 cm. Tafel XXV.
+
+## 142 GROSSESCHUSSEL.
+
+Mit Kupferluister dekoriert. In der Mitte uber plastischen Schragbuckeln erhohtes Rund Felder zerlegt zwischen Streifen mit Gittermuster. Der breite Rand mit plastischen Schragbuckeln belegt,auf denen abwechselnd voller Luster, Gittermuster und Ranken gemalt sind. Rickseite: in der Mitte Stern,am Rand duinne Ranken mit grofen Fieder medaillon, darin das Monogramm Christi. Die schmale Wandung in vier rankengefillte blattern.—-Am Rand zwei Stuicke ausgebrochen.
+
+SPANISCH=MAURISCH,16.JAHRHUNDERT.Durchmesser 47,5cm. Tafel XXV.
+
+## 143 GROSSE BAUCHIGE VASE MIT VIER HENKELN.
+
+Mit Kupferluster dekoriert. Der kraftig gebauchte Korper sowohl wie der kurze, senk rechte Hals besetzt mit einem in Reihen versetztem Muster:kleine schraffierte Kreise, ringsum mit Punkten besetzt. Auf der Innenseite des Halses ahnliches,liegendes Muster.
+
+- —Ein Henkel abgebrochen.
+
+SPANISCHMAURISCH,17.JAHRHUNDERT.Hohe 22 cm.
+
+## SPANISCH-MAURISCHE FAYENCEN
+
+Nr.139-147.
+## 144 VASE MIT VIER HENKELN.
+
+Mit Kupferlister dekoriert. Auf geschweiftem Fufrand erhebt sich der im unteren Teil leicht konische, im oberen Teil ausgeweitete und mit plastischen Rundbogenfeldern versehene Korper. In der Mitte ein Ringwulst, iber dem die vier mit Knopfen besetzten Henkel ansetzen. Die vier groBen Felder des unteren Teils bemalt mit kleinen Mustern (Kettenpanzergeflecht bzw. kleine Kreise, in denen ein Dreiblatt). Die Rundbogenfelder des oberen Teils zeigen Sternmuster, Ranken und Rautenmuster mit Scheiben. Der setzte Zone unten am Korper mit Manganfarbe bemalt. Im Innern senkrechte luistrierte
+
+Mittelwulst und der FuB mit Sternmuster. Der profilierte obere Rand und eine abges Zickzackbander.
+
+SPANISCH=MAURISCH,17.JAHRHUNDERT.Hohe19 cm.
+
+## 145 VASE MIT VIER HENKELN.
+
+Mit Kupferluster dekoriert. In Form und Dekor sehr ahnlich der vorigen. Im unteren Teil des Korpers zwischen zwei schmalen Kettenpanzerfriesen ein breiterer Fries mit Palmettenmuster;der Mittelwulst ebenfalls manganfarben bemalt.- Zwei Henkel gekittet.
+
+SPANISCH=MAURISCH,17.JAHRHUNDERT.Hohe 18,7cm.
+
+## 146 VASE MIT VIER HENKELN.
+
+Mit Kupferluster dekoriert. Bauchige Form mit kurzem, geradem Hals,an dem die vier gebogenen Henkel ansetzen. Der Bauch durch drei konzentrische hellblaue Reifen in zwei Zonen zerlegt,in denen nach oben geoffnete Bogen.Auf Schulter und Hals zwischen den Henkeln vier hellblau konturierte Felder; darin schragliegende Raute. Auf der
+
+Innenseite des Halses Wellenlinien zwischen Strichen.
+
+SPANISCH=MAURISCH,17.JAHRHUNDERT.Hohe 18,5cm.
+
+## 147ZWEIHENKELIGE VASE.
+
+Mit scharf rotem Kupferluster dekoriert. Auf flachem RundfuB stark bauchiger Korper. Der enge Hals erweitert sich oben zu einem zylindrischen Aufsatz, unter dem die Henkel ansetzen. Uber und uber mit Kupferluster bemalt: Ranken, in denen auf den beiden Schauseiten je ein Vogel. Auf dem Hals Ranken: und Maanderfries.
+
+SPANISCH=MAURISCH,17.-18.JAHRHUNDERT.Hohe 28cm.
+
+## KLEINASIATISCHE UND PERSISCHE KERAMIK
+
+Nr.148-152.
+
+## 148HALBFAYENCETELLER.
+
+Mit breitem Rand. Auf weiBem AnguB bemalt mit Blau, Grun, Schwarz und Bolusrot.
+
+Im Spiegel und auf dem Rand gefiederte Blatter und Nelken. Auf der Ruckseite kleine Bluten und Blatter in Blau und Grun. - Rand bestoBen.
+
+KLEINASIEN,UM 1600. Durchmesser 26 cm.
+## 149 HENKELKANNE AUS HALBFAYENCE.
+
+KLEINASIEN,UM 1600. Hohe 20 cm.
+
+Bauchige Leibung, hoher,zylindrischer Hals und Rundhenkel. Auf weiBem AnguB bemalt mit schragwachsenden Blattern und Blumen in Turkisgrun und Bolusrot auf hell blauem Grund.Am Rand repariert.
+
+## 150 TELLER MIT LUSTERDEKOR.
+
+PERSIEN,UM 1600. Durchmesser 22 cm.
+
+Schmaler Steilrand,kraftiger FuBring. Auf dicker,durchsichtiger, grunlichweifer Glasur bemalt mit gelblichem Luster. Im Spiegel Vogel in Blattranken. Am Rand Zackenborte. Auf der Ruckseite Fries aus blattahnlichen Ornamenten.
+
+## 151 PORZELLANFLASCHE IN FORM EINER KROTE.
+
+PERSIEN,UM 1600. Hohe 17,5cm.
+
+Fur eine Wasserpfeife, blau bemalt. Sitzende Krote, im Maul kleiner runder AusguB. Auf dem Rucken lange zylindrische EinguBrohre, oben sechskantig erweitert. Rucken und Beine blau bemalt mit dunklen Punkten und Bluten. Auf der EinguBrohre Baum mit Vogel und Staude.-Kleine Reparaturen.
+
+## 152 UNTERTEIL EINER FLASCHE (Hals abgeschliffen).
+
+Auf weifem Anguf bemalt in Blau, Mangan, Grun und Gelb,mit zwei mannlichen
+
+Brustbildern,Blumen und Blutenfries.
+
+PERSIEN,17.18.JAHRHUNDERT.Hohe 13,6cm.
+## 153 KASEL AUS DUNKELROTEM SAMMET.
+
+FLORENZ,UM 1500; der Sammet spater. Lange 116 cm,Breite 65 cm.
+
+Breite gewebte Seidenborte auf beiden Seiten: Symmetrisches Rankenwerk, darin ab wechselnd Spitzovale mit Brustbild der Madonna mit reichsapfeltragendem Kind bzw. Brustbild eines heiligen Bischofs und Sechseckfelder mit granatapfelartigem Motiv. Farbe: Gold auf lachsfarbenem Grund. Mit braunem Leinen gefuttert.
+
+## 154 KISSEN.
+
+Rote Stickerei auf Leinen. Querlaufende Parallelreihen: Aste mit kleinen Blattern.
+
+ITALIEN,16.JAHRHUNDERT. Lange 45 cm,Breite 31 cm.
+
+Ringsum rotweiBe Franse mit kleinen Troddeln.
+
+## 155 KISSEN AUS ROTEM SAMMET.
+
+In den Ecken aufgenaht vier Kreuze in kraftigen Farben und Metallstickerei. Ringsum rote Franse; an den Ecken gelbgoldene Troddeln. Ruckseite rote Seide. ITALIEN,UM 1600. Lange 57 cm,Breite 45 cm.
+
+## 156,157 ZWEI KISSEN.
+
+Mit grofem, stilisiertem Blumenmuster,rot auf weiBem Grund. Beiderseits bezogen.
+
+An den Ecken rotgoldene Quasten. ITALIEN,UM 1600. Lange 45 cm,Breite34 cm.
+
+## 158 GROSSES KISSEN AUS ROTEM SAMMET.
+
+Kleine Blatt und Blutenmotive, sich kreuzend. Ringsum Goldborte. Ruckseite mit roter Seide gefuittert.
+
+ITALIEN,ANFANG 17.JAHRHUNDERT. Lange 82 cm,Breite 47cm.
+
+## 159 LANGE DECKE AUS GRUNEM SAMMET.
+
+Kleines Muster aus Blutenzweigen und schragliegenden Blattern. Ringsum Goldborte.
+
+Leinenfutter.
+
+ITALIEN,ANFANG 17.JAHRHUNDERT. Lange 200 cm,Breite 48 cm.
+
+## 160ROTESAMMETDECKE.
+
+Rautenmuster; die Gitterstabe aus SFormen gebildet; in den Kreuzungspunkten Bluten. In den Rauten je eine Rosenblite mit Blattern. Ringsum Goldborte. Leinenfutter.—
+
+Gestopft.
+
+ITALIEN,17.JAHRHUNDERT. Lange 124 cm,Breite 68 cm.
+
+## 161LANGER STREIFEN GRUNGELBER BROKATELLO.
+
+Muster: gegenstandige schrage Blumenkelche; darin Fruchte und Blumen. Aus ihnen hervorwachsende Zweige, die eine granatapfelahnliche Blume tragen. Das Muster grun auf goldgelbem Grund. Unten und an den Seiten eine gelbgrine Sammetborte mit Rankenmuster. Unten daran gringelbe Seidenfranse. Leinenfutter. ITALIEN,ENDE 16.JAHRHUNDERT. Lange 645 cm,Breite 50 cm.
+
+## 162 DECKE AUS BLAUGELBEM BROKATELL.
+
+Drei Bahnen mit blauem Muster auf gelbem Grund: Granatapfelmuster mit Ranken und Pfauen.
+
+ITALIEN,17.JAHRHUNDERT. Lange 218 cm,Breite 152 cm.
+## III METALLARBEITEN
+
+Nr.163-180
+## 163KASSETTE.
+
+Bronze. Braune Naturpatina. Darstellungen in Flachrelief. Auf den beiden Langs seiten zwei Ichthyokentauren mit Najaden. Sie halten einen aus Fullhornern gebildeten Kranz, der einen antiken Kopf in Hochrelief umrahmt. Am Boden links eine Panflote, rechts eine Zither. An den Schmalseiten je ein von vorn gesehenes Gorgonenhaupt uber einer rechts und links an den Hornern zweier Stierschadel befestigten Girlande. Auf der Mitte des Deckels ein Wappen, umfaft von einem Kranz, von dem flatternde Bander ausgehen, zwischen denen links und rechts die Initialen M und P angebracht sind. Ehemals TintenfaB. Vergl. die Stucke im Museo Nazionale in Florenz (Sammlung Carrand,Nr.251/2;Bode,Bronzestatuetten II,131),bei Pierpont Morgan (Bode Nr.68), ehem. R. von Guttmann=Wien (mit Monogramm CB), in Berlin (F. Goldschmidt, Die italienischen Bronzen der Renaissance und des Barock, I, 2. Aufl. 1914, Nr.250) usw. In Berlin vergl. auch Einzelplaketten (E. F. Bange, Die italienischen Bronzen der Renaissance und des Barock,II, 3.Auflage 1928, Nr.625,626).
+
+Quattrocento,nach Bange o. c. wahrscheinlich von Donato Bramante. Sammlung Heseltine.
+
+Fruher wegen der Ahnlichkeit der antiken Kopfe mit dem Terrakottenfries in S. Satiro in Mailand falschlich dem Caradosso (1452-1526/27) zugeschrieben (vgl. Venturi, Storia dellarte italiana, VI, 930 f.; Hill, in Thieme Beckers Kunstlerlexikon V, 564 f.). Nach Goldschmidt o.c. von einem Paduaner Nachfolger Donatellos am Ende des
+
+OBERITALIENISCHER MEISTER,in der Art des DONATO BRAMANTE DA URBINO 1444—1514(?). Lange 20,5 cm, Hohe 10 cm, Tiefe 10,9 cm.
+
+Tafel XxVI.
+
+## 164 DREISEITIGES TINTENFASS.
+
+Bronze. Braune Naturpatina. Drei flache Reliefs, in der Mitte Rundmedaillon mit Lowenkopf,umgeben von Rankenwerk,zu einem auf drei hohen, unten in Lowenpfoten endigenden FuBen stehenden Tintenfaf zusammengestellt.-Deckel fehlt. PADUA,UM 1500. Hohe7,2 cm. Reliefs Hohe 2,5 cm,Breite 7 cm.
+
+## 165 KAUERNDE VENUS.
+
+Statuette. Bronze. Die nackte Gestalt sitzt zusammengekauert auf einer Muschel, das linke Bein aufgestellt, das rechte fast den Boden beruhrend. Schutzend legt sich der rechte Arm uiber die Brust, wahrend der linke den SchoB deckt. Das Haupt mit dem leicht aufgeknoteten, auf den Rucken fallenden Haar nach links gesenkt. Ovaler
+
+Bronzesockel, auf Marmor montiert.
+
+Freie Nachbildung der kauernden Aphrodite des Dodalses von einem Nachfolger des Giovanni Bologna. Vergl. die ahnliche Statuette im Berliner Museum (Goldschmidt,Die italienischen Bronzen der Renaissance und des Barock, I, 2. Aufl. 1914, Nr. 190).
+
+FLORENZ,UM 1600. Hohe 13,3 cm.
+
+## 166 HERKULES.
+
+Statuette. Bronze mit brauner Lackpatina. Stehende nackte Gestalt, das linke Bein als Spielbein, der rechte —nicht vollig erhaltene Arm herabhangend, der linke erhoben und in der Hand vier Apfel haltend. Blick leicht nach links gesenkt. Auf Bronzesockel. Freie Nachbildung der Antike.
+
+Sammlung Lord Leigthon.
+
+FLORENZ,UM 1600. Hohe 21 cm.
+## 167 MERKUR.
+
+Statuette. Bronze. Dunkle Lackpatina. Auf das rechte, von dem Zweig eines Gebuischs gestitzte Bein tretend, das linke Bein hochgezogen, steht Merkur mit Flugelhelm. Er greift mit der Linken in das die Hufte umschlingende Tuch, der rechte Arm iber der
+
+Brust halt den Beutel. Auf Marmorsockel.
+
+ITALIEN,18.JAHRHUNDERT. Hohe 12,5 cm.
+
+## 168 BRONZEGEFASS MIT DURCHBROCHENER WANDUNG.
+
+Bronze. Alte Patina. Die zylindrische Wandung aus durchbrochenen Weinranken mit Blattern und Trauben gebildet, darauf kleine Tiere wie Mause, Eidechsen usw. Drei flache,abgestufte Fufe.
+
+ITALIEN,17.JAHRHUNDERT.Hohe 13,5 cm.
+
+## 168a HEILIGER HIERONYMUS.
+
+Plakette,Bronze,vergoldet.
+
+ITALIEN,16.JAHRHUNDERT.
+
+## 169 VORTRAGEKREUZ.
+
+Silbervergoldet, mit NielloScheiben und Unterglasmalerei besetzt. Holzkern mit vier kantigem Eisendorn. Die Kreuzarme in VierpaBform,ein weiterer Vierpaf in der Mitte des unteren Armes. Beiderseits aufgenietetes gestanztes und vergoldetes Silberblech mit Rosetten, Blumen und Zweigen. Vorn in der Mitte die plastische Figur des Kruzifixus, darunter ovale Unterglasmalerei: Stigmatisation des heil. Franziskus in Gold,Rot und WeiB. Auf den Kreuzarmen kleine Rundmedaillons mit Niellen: oben Pelikan, links und rechts Maria und Johannes. Das untere Niello fehlt. Auf der Ruckseite sechs NielloMedaillons mit Heiligenfiguren: Johannes der Taufer, Catharina u.a. An den Seitenkanten gestanztes Silberblech.
+
+OBERITALIEN,15.JAHRHUNDERT.Hohe (mit Eisendorn)57,5 cm,Breite28,7cm.
+
+## 170 SALZFASS.
+
+Bemalt mit farbigem Maleremail auf Kupfer. Sechseckig; oben und unten eine Mulde. Auf den Seitenflachen abwechselnd ein Frauenbrustbild mit grunem Kopfputz und Beis schrift:VENUS und ein bartiger Mann in Helm mit Beischrift: HOCTE. In den Mulden bartiger Mannerkopf bzw. Junglingskopf; ringsum blaue Ranken mit weiBen und turkis farbenen Bluiten auf schwarzem Grund.Kleine Reparaturen.
+
+LIMOGES, MITTE 16. JAHRHUNDERT; Atelier des COLIN NOYLIER (oder Nouailher). Durchmesser 8,8 cm, Hohe 7 cm.
+
+## 171 GETRIEBENE MESSINGSCHUSSEL.
+
+In der Mitte eingelegt silbernes, farbig emailliertes italienisches Allianzwappen. Rings# um reliefierter Fries von schraggelegten Birnbuckeln. Dann dekorativer Buchstabenfries, Rankenfries und in der Wandung vertiefte Schragbuckel. Am AufBenrand kleine ge stanzte Borte.
+
+DEUTSCHLAND,ENDE 15.JAHRHUNDERT;in Italien mit dem Emailwappen ver sehen.Durchmesser 43,3 cm.
+- 172 GETRIEBENE MESSINGSCHUSSEL.
+
+DEUTSCHLAND,UM 1500.Durchmesser36,3 cm.
+
+Im Mittelrund reliefierte Darstellung von Adam und Eva neben dem Paradiesesbaum mit der Schlange. Ringsum gestanzter gotischer Blattfries. Auf dem Rand zwei weitere Friese. Auf der Wandung leicht plastische Schragbuckel.
+
+- 173 GETRIEBENE MESSINGSCHUSSEL. Fast identisch mit der vorigen Nummer. DEUTSCHLAND,UM 1500. Durchmesser35,7 cm.
+
+## 174 GETRIEBENE MESSINGSCHUSSEL.
+
+Fries mit dekorativen Buchstaben. Mehrere gestanzte Friese. Auf der Wandung ver tiefte Schragbuckel.
+
+Im Mittelrund relifierte Darstellung von Adam und Eva mit der Schlange. Ringsum
+
+DEUTSCHLAND,ANFANG 16.JAHRHUNDERT. Durchmesser 39 cm.
+
+## 175 GETRIEBENE MESSINGSCHUSSEL.
+
+Im Mittelrund reliefierter Fries aus Granatapfeln. Ringsum dekorativer Buchstabenfries. AuBerdem drei kleine gestanzte Borten.
+
+DEUTSCHLAND,1.HALFTE 16.JAHRHUNDERT. Durchmesser 41,5 cm.
+
+## 176 GETRIEBENE MESSINGSCHUSSEL.
+
+In der Mitte stark herausgetriebener Umbo aus schraggelegten Spitzblattern. Ringsum Fries mit den wiederholten Buchstaben: MARIA WHILF. AmAubenrand gestanzte Borte. DEUTSCHLAND,1.HALFTE 16.JAHRHUNDERT.Durchmesser 39 cm.
+
+## 177 GETRIEBENE MESSINGSCHUSSEL.
+
+In der Mitte stark herausgetriebener Umbo aus kraftigen Schragblattern. Ringsum ornamentaler Buchstabenfries.Am AuBenrand kleine gestanzte Borte. DEUTSCHLAND,1.HALFTE 16.JAHRHUNDERT.Durchmesser 48,5cm.
+
+## 178 GETRIEBENE MESSINGSCHUSSEL.
+
+Im Mittelrund reliefierte Darstellung des heiligen Georg im Drachenkampf. Ringsum Doppelranke mit Blumen. In der Wandung vertiefte Schragbuckel. Auf dem Rand ge stanzter Fries.— Ausgebessert.
+
+DEUTSCHLAND,MITTE 16.JAHRHUNDERT. Durchmesser 41 cm.
+
+- 179 GETRIEBENE MESSINGSCHUSSEL. In der Mitte plastische DoppelSternrosette. Sonst undekoriert. DEUTSCHLAND,16.JAHRHUNDERT. Durchmesser 38,5 cm.
+
+## 180GETRIEBENE MESSINGSCHUSSEL.
+
+Der nach innen erhohte Boden mit vertieftem Mittelrand. Uber die ganze Flache hinweg gepunzt: Baumstamm mit Blattern und traubenartigen Fruchten. Auf dem Rand zwei
+
+Friese mit ausgebuckelten Spitzovalen, von gestanzten Kreispunktborten begleitet.
+
+DEUTSCHLAND,16.17.JAHRHUNDERT.Durchmesser 43 cm.
+## IV. ITALIENISCHE RENAISSANCEMOBEL
+
+Nr.181—232.
+## 181 KLEINE TRUHE.
+
+Mit Certosina=Mosaik. Kastenform mit schrager Fufleiste und glattem Deckel. Auf allen vier Aufenseiten, auf dem Deckel innen und auBen, sowie auf drei FuBleisten mit zierlichen Einlagen aus Knochen und hellem Holz (dies fur die Linien):Kreise mit mehr oder weniger komplizierten Innenmustern, Sternmustern,verschlungenen Bandern usw. In der Mitte des Vorderbretts gourdenartige Figur orientalischen Stils. Schwalben schwanzverband. An den Ecken und im Innern Eisenbander.
+
+OBERITALIEN, UM 1500. Hohe 21 cm,Breite 46cm,Tiefe 32,5 cm.
+
+## 182 KLEINE TRUHE.
+
+Geschnitzt. Auf glattem, vorn geschweiftem Bretterunterbau der Kasten. Vorn und an rundetem und gekerbtem Tiefschnitt von der Mitte nach den Seiten symmetrisch ent den Seiten Fullungen in profiliertem Rahmen. Auf den Fuillungen in plastischem, ge wickeltes Rankenwerk. Der Deckel mit kraftigem,beiderseits profiliertem Rahmen. OBERITALIEN,16.JAHRHUNDERT. Hohe 48,5cm, Breite 98 cm,Tiefe 42cm.
+
+## 183 KLEINE TRUHE.
+
+Mit stark erhohtem Deckel. NuBholz. Auf - erganzten —KlauenfuBen der vorsprin# gende, mit Schragbuckelfries versehene Sockel. Im Vorderbrett eine lange und zwei quadratische, vertiefte Fullungen,an den Seiten ebenfalls lange Fullungen. Der weit vor kragende,reich profilierte Deckel in der Mitte mit langlichem Aufsatz, der ein durch
+
+Schiebeplatte zu offnendes Fach enthalt.
+
+TOSKANA,1.HALFTE16.JAHRHUNDERT.Hhe39cm,Breite60cm,Tiefe35,5cm.
+
+## 184 KLEINE TRUHE.
+
+NuBholz. Auf profiliertem Sockel rechteckiger Kasten. An den Vorderecken plastische Puttenhermen. Vorn und an den Seiten Fullungen;in der Vorderfuillung eingeschnitzt ein um Blutenzweig geschlungenes S und kleine Kirchenfassade. Der Deckel seitlich ab geschragt. Klauenfufe. - Mit Erganzungen.
+
+TOSKANA,UM 1600. Hohe 21 cm,Breite 43 cm,Tiefe 25 cm.
+
+## 185 KLEINE TRUHE.
+
+NuBholz. Auf profiliertem Sockel mit stilisiertem Blattfries der rechteckige Kasten. Vorn und an den Seiten Fullungen, mit groben und kleinen Kerbschnittrosetten. Auf dem Rahmen einfacher Kerbschnittfries,ebenso auf den Seitenbandern des Deckels. Eine seitliche Sockelleiste fehlt.
+
+PIEMONT,17.JAHRHUNDERT. Hohe 42,5 cm,Breite 82 cm,Tiefe 40cm.
+
+## 186 GROSSE TRUHE MIT DEKOR AUS VERGOLDETER MASSE UND RUND BILDERN VON TADDEO DI BARTOLO (ca.1363-1422).
+
+Kastenform mit gewolbtem Uberschlagdeckel. Der niedrige Sockel vorn viermal ausgeschnitten in Treppen# und Zackenformen. Durchweg mit Stuck belegt und auf Bolusgrund vergoldet. Die Vorderseite durch vier gedrehte Saulen in drei Quadrate ges teilt. Die Quadrate sind ringsum eingefaBt von Buchstabenbandern: CREDO IN UNON DEO usw., meist rein dekorative, unleserliche Aneinanderreihung von Buch staben. Darin vertieftes Achtpaffeld;in dessen Mitte je ein bemaltes Rundmedaillon.
+
+Im ersten links: Christus als Weltenrichter, thronend in der Strahlenglorie;im zweiten:
+Christus als Gott des Zornes, mit wuchtig erhobener Rechten; im dritten: Christus als Gott der Vergebung, mit geoffneten Armen die Seligen empfangend, in einer roten Cherubsglorie. Die Seitenfelder ahnlich, aber flacher dekoriert. In den Mitten je ein Wappenschild: rot mit goldenem Querbalken, bzw. goldenes Feld. Auf den FuBstitzen, den Deckelleisten und oben auf dem Deckel ringsum Friese und Bander aus Sternen, Rauten, Ranken usw.
+
+Expertise von Perkins.
+
+SIENA,ANFANG 15.JAHRHUNDERT. Hohe 66 cm, Breite 164 cm,Tiefe 57 cm. Tafel XxVII.
+
+## 187 TRUHE.
+
+Mit rotem Samt bezogen. Glatte Kastenform auf vier Bronzefufen in Form einer Sphinx mit ausgebreiteten Flugeln. Vorn zwei eiserne SchloBbleche in Form von Doppel adlern und eiserne Klappbander. Vorn, auf den Seiten und auf dem Deckel roter Samt bezug, befestigt und zerlegt durch Doppelreihen von Bronzenageln. An den Seiten eiserne Griffe.
+
+OBERITALIEN,17.JAHRHUNDERT. Hohe 51 cm,Breite 137cm,Tiefe 54 cm.
+
+## 188 THRON.
+
+Mit Intarsien. NuBholz. Auf breitem,profiliertem Podest mit abgerundeten Vorder ecken steht der als Truhe gebildete Sitz,nach unten verjungt,mit abgeschragten Ecken. In der Mitte der groBen Vorderfuillung eingelegte Kartusche mit Wappen: fahnenhalten der Lowe, links von ihm stehender Lowe auf Balken. Die obere Ruckwand durch vier kannelierte Pilaster gegliedert,im Sockel verkropft. Drei Hochfillungen, denen im Ge sims drei Querfuillungen entsprechen. In allen Fullungen ringsum Band mit geometri schen Intarsien.
+
+TOSKANA (SIENA?), UM 1500. Hohe 162 cm, Breite 152 cm, Tiefe 46 cm. Tafel XxVIII.
+
+## 189GROSSE KREDENZ.
+
+Nufholz. Dreifach verkropfter Sockel, dessen untere Flachen die FufBe bilden. Darauf drei breite Leisten,deren Felder mit verschlungenem Bandmotiv mit Rosetten geschnitzt sind. Dazwischen die beiden Turflugel mit kraftig profilierten Rahmen. In den Rahmen feldern je zwei Rechteckfelder ibereinander, auf denen in zwei ibereinandergelegten Quadraten eine Rosette. In den oberen Rosetten vorstehende holzerne Knaufe. Im Ges sims zwei Schubladen, die mit durchlaufendem Bandmotiv mit Rosetten geschnitzt sind.
+
+Darin zwei Holzknaufe. Auf den Seiten groBe Rauten aufgelegt.
+
+TOSKANA,16.JAHRHUNDERT. Hohe 130 cm,Breite 154 cm,Tiefe 63 cm. Tafel XXIX.
+
+## 190 KREDENZ.
+
+Mit figurlichen Pilastern. NuBholz. Breiter,nach unten verjungter Sockel auf Klauen fuBen. Darunter zwei Turen mit Profilrahmen und grofem gedrehtem Messingknauf. Seitlich neben den Turen Hermenpilaster,unten in ein Blatt auslaufend. Auf der Mittel leiste auf hohem Sockel nackte mannliche Figur. In den Ecken rechts und links je eine toskanische Saule. Im dreifach verkropften Gesims zwei breite und drei schmale Schubladen. Unter der Deckplatte geschnitzter Fries.
+
+TOSKANA,16.JAHRHUNDERT. Hohe 115cm,Breite 166cm,Tiefe 57cm. Tafel XXIX.
+## 191 KLEINE KREDENZ.
+
+NuBholz; zweiturig. Profilierter Sockel auf KlauenfufBen. Die beiden Turen mit auf= gelegter Raute, darin profilierte Scheibe. Rechts und links kannelierter Flachpilaster, oben und unten Rosette. Das Gesims mit Triglyphenfries; unter der Platte Eierstab. TOSKANA,1.HALFTE16.JAHRHUNDERT.Hohe93cm,Breite86cm,Tiefe38cm.
+
+Tafel XXX.
+
+## 192 KASTENSCHRANK.
+
+Mit geschnitzten Hermen. Nufholz. Profilierter, an den Seiten verkropfter Sockel. Unter der Simsplatte breites Gebalk, seitlich getragen von zwei geschnitzten weiblichen Hermen, die unten in Voluten auslaufen. Die dazwischenliegende Front aufgeteilt in Kasten: seitlich je funf Kasten ibereinander;in der Mitte zwischen zwei breiteren Kasten ein durch eine Tur geschlossenes Mittelfeld. Auf der Tur eine runde Nische mit Giebel, seitlich Halbsaulen. Die Kastenturen und die Schrankseiten mit hellen Band einlagen.
+
+TOSKANA,UM 1550. Hohe 101 cm,Breite95 cm,Tiefe 40 cm.
+
+Tafel XxX.
+
+## 193 KLEINE KREDENZ.
+
+Mit Schubladen. NuBholz. Nach hinten verbreiterte Form. Stark profilierter,an den Ecken abgeschragter und verkropfter Sockel; darauf der schmalere kommodenartige Oberbau. An den Ecken vorspringende gegliederte Pfeiler. Dazwischen drei Schubs laden mit glatten, kraftig gerahmten Fullungen. Unter der Platte breite Zarge mit flacher Schublade;im Sockel ebenfalls Schublade. — Kleine Reparaturen.
+
+TOSKANA,16.JAHRHUNDERT. Hohe 88 cm,Breite 92cm,Tiefe 41 cm.
+
+## 194 KLEINE KREDENZ.
+
+NuBholz. Kraftiger, profilierter Sockel auf Klauenfufen. Das Hauptgeschof mit zwei Turen, in deren Fuillungen runde Bronzeknopfe. In den Ecken toskanische Saulen. Zwischen den Saulen und den Turfluigeln ein schmales kanneliertes Feld. Im glatten Ge: sims eine Schublade mit Bronzeknopf. Profilierte Deckplatte.
+
+TOSKANA,MITTE 16.JAHRHUNDERT. Hohe 90 cm,Breite 84 cm,Tiefe 32cm.
+
+Tafel XxX.
+
+## 195KLEINEKREDENZ.
+
+NuBholz. Zweiturig, auf kraftigem Sockel; unter der Platte ein Schubkasten mit zwei Bronzegriffen. Die Turen mit aufgelegten Profilrahmen und Bronzeknopfen. Rechts und links aufgelegter Pilaster, geschnitzt; oben Lowenmaske mit hangendem Blatt buschel, unten Feld mit stilisierten Blattern. Unter der Platte vorn und an den Seiten kleine geschweifte Konsolen (zwei fehlen). Auf dem Sockel seitlich je eine gedrechselte Scheibe.
+
+MITTELITALIEN,2.HALFTE 16.JAHRHUNDERT. Hohe 99 cm,Breite 100cm,
+
+Tiefe 50 cm.
+
+Tafel XXX.
+## 196 KLEINE KREDENZ.
+
+Einturig. Nufholz. Profilierter Sockel auf Klauenfufen. Der grofe Mittelbau als RustikaQuaderfassade gestaltet. Aufgelegt zwei kannelierte Saulen. Dazwischen die Tur, die in Rahmenwerk eine oben halbbogig geschlossene Quadernische enthalt. Im Ge: sims uber den Saulen kraftige, gebogte Akanthusblatter; dazwischen Schublade mit grofem Quadermotiv.
+
+TOSKANA, ENDE 16. JAHRHUNDERT. Hohe 97 cm, Breite 70 cm,Tiefe 36 cm.
+
+## 197KLEIDERRECHEN(ATTACCAPANNO).
+
+NuBholz,zum Teil vergoldet. Langes schmales Brett mit drei vertieften Fullungen, auf deren Rahmen geschnitzte und vergoldete Blattfriese. In ihrer Mitte geschnitzte und vergoldete Rosetten; daneben je zwei balusterformig gedrehte Zinken. Obenauf schmales Gesims mit Blattfries.
+
+ITALIEN, UM 1550. Lange 143 cm, Hohe 27 cm.
+
+## 198KABINETTSCHRANKCHEN.
+
+Aus Ebenholz mit ElfenbeinEinlagen, auf  erganztem —— Tischuntersatz. Langrecht Rechts und links je sechs Fullungen mit Elfenbeineinlage. Die oberen und unteren zwei Fullungen entsprechen je einem Kasten;in der Mittelzone zwei Kasten. Im Hohlraum hinter der Mitteltur geometrische Holzeinlagen.An den Seiten eiserne Griffe. Das eckige Form. In der Mitte Tur mit eingelegtem Feld und Giebel uber einem Kastchen. —erganzte ——Tischgestell mit gedrehten Beinen.
+
+ITALIEN,17.JAHRHUNDERT. Das Schrankchen:Hohe 34 cm,Breite 82 cm, Tiefe 82 cm.—Der Tisch:Hohe 83 cm.
+
+## 199KABINETTSCHRANKCHEN.
+
+Mit goldradierten Glastafeln. Kastenform. Aufen NuBholz. Die Fassade etwas vers tieft liegend,aus Ebenholz mit Glasradierungen. In der Mitte Altararchitektur mit Pilastern, gebrochenem Giebel und rundbogiger Tur. Rechts und links je drei ubers einanderliegende Kasten mit je zwei Glastafeln in Profilrahmen. Auch die Tur,die Pilaster, Gesimse und die kleinen FuBe des Schrankchens mit goldradierten Glastafeln belegt. Dargestellt:Landschaften mit Staffagefiguren, sowie mythologische Szenen. Uber den Schraggiebeln kleine bronzevergoldete Vasen mit Blumen.
+
+ITALIEN,17.JAHRHUNDERT. Hohe 50 cm,Breite 81,5 cm, Tiefe 33 cm.
+
+## 200 TISCH.
+
+Mit achteckiger Platte. Nufholz. Rechteckiges Untergestell. Vierkantbeine,in der Mitte mit Pilasterglied. Unten vier einfache Zwischenleisten. In der Zarge geschnitzter Fries von aneinandergereihten Hochovalen. Die Platte mit abgeschragten Ecken; ringss um vertiefter Blattfries.
+
+TOSKANA,16.JAHRHUNDERT. Hohe76 cm,Breite 123cm,Tiefe 102cm.
+
+## 201 OVALER TISCH.
+
+Auf BalusterfuB. Nufholz. Kraftiger BalusterfuB auf vier geschwungenen,vierkantigen Stitzen. Die Tischplatte glatt, oval.
+
+ITALIEN,16.JAHRHUNDERT. Hohe74 cm,Lange91 cm,Breite 64 cm.
+## 202 TISCH.
+
+Mit rechteckiger Platte. NuBholz. Balusterformige Beine,unten durch Vierkantstege verbunden. In der Zarge breite Schublade mit zwei Fullungen und zwei runden Bronze: knaufen. Unter der Platte Eierstab.
+
+BOLOGNA,ANFANG17.JAHRHUNDERT.Hohe83cm,Breite126cm,Tiefe61cm.
+
+## 203 SCHERENSTUHL.
+
+Gebildet aus sich kreuzenden Latten, die unten in einem Querbrett befestigt sind und oben ein Brett als Riucklehne tragen. In der Ricklehne eingeschnitzte Rosette und ein= geschlagene Sterne. Die seitlichen Profile gekerbt.
+
+Tafel XXXI.
+
+ITALIEN,UM 1500. Hohe 88 cm,Breite 43cm.
+
+## 204 SCHERENSTUHL.
+
+Ahnlich dem vorigen. Auf der Rucklehne ein groBer und zwei kleinere Kreise mit Kreuz.
+
+ITALIEN, UM 1500. Hohe 82 cm,Breite 36 cm.
+
+## 205 SCHERENSTUHL.
+
+Ahnlich den vorigen. Auf der Rucklehne Kreise und eingeschlagene Sternmuster. Auf
+
+ITALIEN, UM 1500. Hohe 87 cm,Breite 41 cm.
+
+der Ruckseite eine Hausmarke eingebrannt:Blatt mit drei Kreisen.
+
+## 206 ARMLEHNSTUHL.
+
+Mit Lederbezug. NuBholz. Vierkantbeine,deren hintere, oben leicht gerollte und kannelierte,zugleich die Rucklehne halten,wahrend die vorderen,oben mit gedrehtem Baluster versehenen Beine die geraden Vierkantlehnen tragen. Vorn gebogtes,durch brochenes Zwischenbrett, seitlich angeschnittene Brettstege. Sitz und Rucklehne aus Leder, mit brunierten ovalen Messingnageln befestigt.
+
+ITALIEN,16.JAHRHUNDERT. Hohe 126 cm,Breite 62 cm. Tafel XXXI.
+
+## 207 ARMLEHNSTUHL.
+
+Mit Lederbezug. Nufholz. Vierkantbeine, deren hintere,oben in geschnitzte Akanthus= blatter auslaufende, zugleich die Rucklehne halten, wahrend die vorderen, mit ge drechseltem Mittelteil versehenen Beine die geraden Armlehnen tragen.Vorn ge schnitzter Zwischensteg mit Maske und Blattwerk; seitlich und hinten ausgeschnittene Zwischenbretter. Sitz und Rucklehne aus Leder,mit brunierten,ovalen Messingnageln befestigt.
+
+TOSKANA,16.JAHRHUNDERT. Hohe 131 cm,Breite 65 cm. Tafel XXXI.
+
+## 208 ARMLEHNSTUHL.
+
+Mit grunem BrokatellBezug. NuBholz. Vierkantbeine, die hinteren oben mit ge schnitztem Akanthusblatt. Die vorderen, oben als Vierkantbaluster gestaltet,tragen die geraden,vorn in Voluten endigenden Armlehnen. Vorn,unter der tiefen Zarge, ein ge schnitztes und ausgezacktes Zwischenbrett mit Voluten und Lilien. Hinten dasselbe
+
+Brett ohne Schnitzerei. Seitlich ausgebogte Brettstege. Sitz, Zarge und Rucklehne mit
+kleingemustertem, gruinem Brokatell bezogen, befestigt mit groben messingenen Stern nageln. Grine Seidenfransen.
+
+TOSKANA,2.HALFTE 16.JAHRHUNDERT. Hohe 138 cm, Breite 64 cm. Tafel XXXI.
+
+## 209 STUHL.
+
+NuBholz.Vierkantbeine, die vorderen mit kleinem BalusterZwischenstick; die hinteren mit geschnitzter Akanthusendigung. Holzsitz. Die Rucklehne wird gebildet aus einem breiten, oben ausgezacktem Brett mit Blattwerkschnitzerei. Zarge und vorderer Zwischensteg mit ahnlicher Schnitzerei. Seitlich und hinten ausgebogte Brettstege. TOSKANA,2.HALFTE 16.JAHRHUNDERT. Hohe 114 cm,Breite 46 cm.
+
+Tafel XXXI.
+
+## 210 ARMLEHNSTUHL.
+
+NuBholz. Vierkantbeine, die hinteren oben mit Volutenendigung. Die vorderen Beine uber dem holzernen Sitzbrett in vierkantiger, geschnitzter Balusterform. Gerade,vorn in Voluten endigende Armlehnen,hinten mit aufgelegtem Akanthusblatt. Die Rucklehne wird gebildet durch ein breiteres und ein schmaleres Brett von geschweiftem Umrif. Ringsum geschnitzte Volutenformen;in der Mitte rechteckiges Brett aus hellerem Holz mit hellen Einlagen von Volutenlinien. Zwischen den Vorderbeinen ebensolches Brett; daruber und darunter schmaler,oben gerader,unten ausgeschweifter Steg mit ahnlicher Schnitzerei.
+
+ITALIEN,2.HALFTE 16.JAHRHUNDERT. Hohe 125 cm,Breite 58 cm. Tafel XXXI.
+
+## 211 ARMLEHNSTUHL.
+
+NuBholz. Vierkantbeine, deren vordere Flachen Akanthusschnitzerei zeigen. Die hinteren Pfosten oben in Form einer Vierkantvase mit Trauben. Die vorderen Beine uber dem holzernen Sitzbrett in vierkantiger, geschnitzter Balusterform. Die Rucklehne wird gebildet durch ein breiteres und ein schmaleres Brett von geschweiftem Umrif mit groBen geschnitzten Volutenmotiven. Unten,zwischen den vorderen Beinen ebenso ein halbes und ein ganzes Brett. Seitlich und hinten Brettstege. Die geschwungenen Armlehnen vorn volutenformig umgebogen; obenauf ein Fries von halben Blattern. ITALIEN,2.HALFTE 16.JAHRHUNDERT. Hohe 122 cm,Breite 57 cm.
+
+Tafel XXXII.
+
+## 212,213 ZWEI HOHE LEHNSTUHLE.
+
+Mit rotem Bezug. NuBholz,z. T.vergoldet. Vierkantbeine, deren hintere in vergoldeten geschnitzten Akanthusvoluten endigen. Als Rucklehne dienen zwei Querbretter von geschweiftem Umrif mit geschnitzter und vergoldeter Innenzeichnung. Ein ahnliches Brett zwischen den vorderen Beinen. Seitlich und hinten einfache Brettstege. Der Sitz mit gemustertem,rotem Bezug, daran rotseidene Franse.
+
+ITALIEN,2.HALFTE 16.JAHRHUNDERT.Hohe 140 cm,Breite 51 cm. Tafel XXXII.
+
+## 214,215 ZWEI KLEINERE STUHLE.
+
+In Bau und Dekor ahnlich den vorigen, in Einzelheiten etwas verschieden,auch in der Hohe. Sitz mit rotem Samt bezogen.
+
+ITALIEN,2.HALFTE 16.JAHRHUNDERT.Hohe104bzw.91 cm,Breite 43bzw.49cm.
+## 216 ARMLEHNSTUHL MIT LEDERBEZUG.
+
+borten. Unten grine geknupfte Fransen.
+
+NuBholz. Vierkantbeine auf SchlittenfuBen,vorn mit Klauen. Die hinteren Beine oben mit vergoldetem Akanthusblatt. Die vorderen Beine, oben mit gedrehtem Baluster, tragen die geraden Armlehnen. Sitz und Zargenkasten mit Lederbezug, befestigt mit Messingnageln. An der Zarge vergoldete Borten. Auf dem Leder der Rucklehne Gold= pressung: In der Mitte leerer Wappenschild mit reicher Helmdecke und Halbfiguren, in den vier Ecken breite Muster mit Rollwerk und Blumen. Ringsum schmale Spitzen
+
+ITALIEN,ENDE 16.JAHRHUNDERT. Hohe 139cm,Breite 66 cm.
+
+Tafel XXXII.
+
+## 217 ARMLEHNSTUHL MIT LEDERBEZUG.
+
+fache Spitzenborte mit Eckmotiven.
+
+NuBholz. Vierkantbeine, die hinteren oben mit geschnitztem Akanthusblatt; die vor deren stitzen die geschweiften Armlehnen. Vorn und hinten geschweifte und durch# brochene Zwischenstege; seitlich ausgebogte Brettstege. Sitz und Rucklehne mit Leder bezug, durch flache Messingnagel befestigt und mit gelber Borte und Fransen umzogen. Auf der Ricklehne Goldpressung: In der Mitte leerer Wappenschild, ringsum drei
+
+ITAILEN,ENDE 16.JAHRHUNDERT. Hohe 142 cm,Breite 59 cm. Tafel XXXIII.
+
+## 218-223 SECHS ARMLEHNSTUHLE MIT LEDERBEZUG.
+
+Provenienz:Principe Altieri.
+
+NuBholz. Vierkantbeine, deren hintere zugleich die Rucklehne halten, wahrend die vorderen, mit gedrechseltem Mittelteil versehenen Beine die leicht geschwungenen Armlehnen tragen. Vorn geschnitzter Zwischensteg mit Rosette und Blattwerk; seitlich und hinten ausgeschnittene Zwischenbretter. Sitz und Rucklehne aus Leder,mit groBen Messingnageln befestigt. In der Mitte der Rucklehne eingepreBtes,vergoldetes Wappen. Die hinteren Pfosten oben mit geschnitzter Akanthusendigung.
+
+TOSKANA,UM 1600. Hohe 141 cm,Breite 68 cm.
+
+Tafel XXXIlI.
+
+## 224 ARMLEHNSTUHL MIT LEDERBEZUG.
+
+mit grunen Seidenfransen bzw. Borten.
+
+NuBholz. Vierkantbeine, deren hintere, oben in kraftige,vergoldete Akanthusblatter auslaufende zugleich die Rucklehne halten,wahrend die vorderen oben und unten mit gedrehten Balustern versehenen die geraden Armlehnen tragen. Vorn zwei,an der Seite je eine gedrehte Docke als Zwischensteg. Sitz und Rucklehne aus Leder, umsaumt
+
+ITALIEN, UM 1600. Hohe 113 cm,Breite 65 cm.
+
+Tafel XXXII.
+
+## 225,226 ZWEI ARMLEHNSTUHLE.
+
+Mit olivgrunem Samtbezug. NuBholz. Vierkantbeine auf SchlittenfuBen, vorn mit eine geschnitzte Rosette besitzt. Sitz und Ricken mit olivgrinem Samtbezug, hell
+
+Klauen. Die hinteren Beine oben mit geschnitztem und vergoldetem Akanthusblatt; die vorderen Beine als Stitzen der geschweiften Armlehnen, deren vordere Volute aufen grunen Borten und grunen Seidenfransen.
+
+ITALIEN,UM 1600. Hohe 129 cm,Breite 65cm.
+- 227ARMLEHNSTUHL.
+
+Mit olivgruinem Samtbezug. NuBholz. Vierkantbeine auf Schlittenfufen, vorn mit Klauen. Die hinteren Beine oben mit geschnitztem und vergoldetem Akanthusblatt, die vorderen oben und unten mit gedrehten Balustereinsatzen. Die Armlehnen gerade, vorn mit Volutenendigung. Vorn geschnitztes Zwischenbrett mit Rosetten und Blatt voluten. Sitz und Rucklehne mit olivgrunem Samtbezug, hellgruner Borte und grunen
+
+Seidenfransen.
+
+ITALIEN,UM 1600. Hohe 135 cm,Breite 61 cm. Tafel XXXII.
+
+- 228,229 ZWEI STUHLE MIT LEDERBEZUG.
+
+NuBholz. Vierkantbeine, die hinteren mit geschnitzter und vergoldeter Akanthus endigung. Vorn durchbrochen geschnitztes und vergoldetes Zwischenbrett. An den Seiten einfache Brettstege. Sitz mit hohem Zargenkasten und Ruicklehne mit Leder bezug, befestigt mit groBen runden Messingnageln. In der Mitte der Rucklehne ge: preBtes und vergoldetes Oval mit Blumenspitzenrahmung. Darin Blume und Schrift band mit Inschrift:DEL S. S. ROSARI MODO.
+
+ITALIEN,UM 1600. Hohe 120 cm,Breite 47 cm. Tafel XXXII.
+
+- 230 ARMLEHNSTUHL MIT LEDERBEZUG.
+
+NuBholz. Vierkantbeine auf Schlittenfufen, vorn und hinten mit Klauenendigung. Die hinteren,oben geschnitzten Beine halten die Rucklehne, die vorderen Beine stitzen die geraden, profilierten Armlehnen. Der Sitz, die Zarge und die Rucklehne mit Leder bezug, der durch Doppelreihen runder Messingnagel befestigt ist. Das Leder unten mit gelber Franse besetzt.
+
+ITALIEN,UM 1600. Hohe 130 cm,Breite 64 cm.
+
+- 231 ARMLEHNSTUHL MIT LEDERBEZUG.
+
+NuBholz. Ahnlich dem vorigen. Die Vorderbeine oben mit gedrehten Balustern; die Hinterbeine oben mit geschnitzten Akanthusblattern; die Messingnagel oval; die Franse grunlich.
+
+ITALIEN,UM 1600. Hohe 132 cm,Breite 63 cm.
+
+## 232 ARMLEHNSTUHL MIT GRUNEM SAMTBEZUG UND WAPPENSTICKEREI.
+
+Vierkantbeine, die hinteren tragen oben geschnitzte und vergoldete Aufsatze mit Voluten und Masken; darin geschnitztes und gemaltes Allianzwappen: rechts das der Piccolomini; links weiBer Querbalken mit zwei steigenden schwarzen Lowen auf rotem Grund. Die vorderen Beine oben und unten mit teilvergoldetem Baluster Zwischenstick. SchlittenfiBe mit vorderer Volutenendigung. Der Sitz mit hohem Zargenkasten und die Rucklehne bezogen mit kleinmusterigem, grinem Samt. In der Mitte appliziertes, mit Gold und Silber bordiertes Wappenschild, darin dasselbe Allianzwappen wie auf der Schnitzerei. Auf der Ruckseite farbige Ledertapete.
+
+TOSKANA,ANFANG 17.JAHRHUNDERT. Hohe 150 cm,Breite 67cm. Tafel XXXIII.
+## RAHMEN
+
+Nr.233-263
+## 233 RAHMEN.
+
+NuBholz,vergoldet und polychromiert. Einfache Profilierung, in der Kehle goldner,aus dem schwarzen Grund herausgearbeiteter Rankenfries in Sgrafito.
+
+FLORENZ,VOR 1500. Hohe 31 cm,Breite 32,5cm.
+
+## 234 RAHMEN.
+
+NuBholz, vergoldet. StuccoFries aus Gittermuster und Rankenwerk. VENETIEN,VOR 1500. Hohe 22,3 cm,Breite 19,8cm.
+
+## 235RAHMEN.
+
+NuBholz. Flache Profilierung, in der Kehle Stuccofries mit aneinandergereihten Bluten kelchen.—Vergl.Nr.234.
+
+VENETIEN,VOR 1500. Hohe26 cm,Breite 22,5cm.
+
+## 236 RAHMEN.
+
+Nufholz,vergoldet. Zwischen stark profilierten Leisten in der Kehle Rankenmuster auf gepunztem Grunde.Sog. Tipo Albani.
+
+MITTELITALIEN.UM 1500.Hohe 27,5cm,Breite 19 cm.
+
+Darin Gemalde: Kopf eines heiligen Rochus. Venedig,Ende 16. Jahrhundert.
+
+## 237RAHMEN.
+
+NuBholz. Zum Grunde abgestufte,antikisierende Leisten (Perlstab, Blattborte u.a.). ITALIEN,1.HALFTE 16.JAHRHUNDERT. Hohe 24,3 cm,Breite 20 cm.
+
+## 238 RAHMEN.
+
+Holz, vergoldet. In der Kehle blaugrun mit vergoldeten Blitenmustern in Sgrafitotechnik.
+
+FLORENZ,UM 1530. Hohe 19,5cm,Breite 13,2cm.
+
+## 239 RAHMEN.
+
+NuBholz, vergoldet und polychromiert. Querrechteckig. Ringsum reiche Schnitzerei in Volutenformen mit Engelkopfen und gefligelten Puttenkopfen. Darin Spiegel.
+
+FLORENZ,16.JAHRHUNDERT.Hohe 31,5 cm,Breite 44 cm.
+
+## 240 ACHTECKIGER RAHMEN.
+
+NuBholz,vergoldet. Breiter,kraftig auf Licht# und Schattenwirkung geschnitzter Wulst
+
+TOSKANA,MITTE 16.JAHRHUNDERT.Hohe 89 cm,Breite 73 cm.
+
+mit Fruchtgirlanden und Akanthus in den Ecken,aufen durchbrochener Akanthusfries. Darin Gemalde: Kopie nach der hlg.Apollonia des Carlo Dolci.
+
+## (Die MaBe sind durchgehends LichtmaBe)
+## 241 RAHMEN.
+
+NuBholz, schwarz. Von Flammenleisten umrahmte Kehle mit Bronzeleiste mit Metall auflagen und blauen Glasrosetten. An den Seiten angesetzte Hermen in vergoldetem Bronzerelief,oben Engelkopf in Ranken.
+
+TOSKANA, 2. HALFTE 16. JAHRHUNDERT. Hohe 21,8 cm, Breite 16,5 cm.
+
+## 242RAHMEN.
+
+NuBholz, teilweise goldgehoht.AuBen sich iberschlagende Voluten, symmetrisch von in den Leistenmitten befindlichen Rosetten entwickelt. Innen kleine Blattstableiste.
+
+VENEDIG, 16. JAHRHUNDERT. Art der sog. SansovinoRahmen. Hohe 53 cm, Breite 44,5cm.
+
+## 243KLEINER SPIEGELRAHMEN.
+
+NuBholz, reich geschnitzt, goldgehoht. Bildfeld achteckig hochoval. Gebrochene Voluten mit Blattgirlanden,oben Engelkopf,unten hangender Granatapfel.
+
+VENEDIG, SPATES 16. JAHRHUNDERT, sog. Sansovino=Stil. Hohe 21,5 cm, Breite 15,6 cm.
+
+## 244 KLEINER RAHMEN.
+
+NuBholz, vergoldet. Schwere geschnitzte Volutenranken, in den Ecken Muscheln, gekront von einem schwarzen Frauenkopf,unten geflugelte schwarze Maske.
+
+OBERITALIEN,16.JAHRHUNDERT,im StileSansovinos.Hohe 17cm,Breite15cm.
+
+## 245 RAHMEN.
+
+NuBholz, vergoldet und polychromiert. Reiche, durchbrochene Schnitzerei. Aufen ge schwungenes rotes, goldgehohtes Rollwerk mit umgeschlagenen Blattendigungen,innen durchbrochener runder Wulst aus grunen Weinranken und goldenen Blattern und
+
+Trauben.
+
+VENEDIG,2.HALFTE 16.JAHRHUNDERT.Hohe 44,5 cm,Breite 36,5cm.
+
+## 246RAHMEN IN TABERNAKELFORM.
+
+NuBholz, vergoldet. Innen gebundener Blattfries, bekront von einem Giebel mit. ge= brochenen Voluten,seitlich und unten mit ausgeschwungenen breiten Volutenbandern und hangenden Fruchtbuscheln.
+
+VENEDIG,ENDE 16.JAHRHUNDERT. Hohe 20 cm,Breite 15cm.
+
+## 247RAHMEN.
+
+Nufholz. Palmettenfries in Pastiglia,vergoldet.
+
+VENETIEN,16.JAHRHUNDERT. Hohe20,5 cm,Breite 15,5cm.
+
+## 248RAHMEN.
+
+NuBholz. Geschnitzt,vergoldet und polychromiert. Aus einer hochreliefierten Blatt girlande gebildet. Mischung des Fruchtkranzmotivs (della Robbia) mit Elementen des
+
+Nordens.
+
+EMILIA,16.JAHRHUNDERT. Hohe 24 cm,Breite 20 cm.
+## 249 RAHMEN.
+
+Holz, vergoldet, Pastiglia mit breitlappigem Rankenwerk. OBERITALIEN,16.JAHRHUNDERT. Hohe 67cm,Breite 49,5 cm.
+
+## 250 KLEINES STANDTABERNAKEL.
+
+OBERITALIEN,16. JAHRHUNDERT.Bauernstil. Hohe 7,3 cm,Breite 6 cm.
+
+Holz,vergoldet und blau bemalt. Rechteckiger Aufbau mit Giebel (goldnes Christus= monogramm auf Blau), seitlich Voluten.
+
+## 251 RAHMEN.
+
+Holz. Teilweise rot und grin lackiert. Innen und auBen Blattstab,dazwischen kraftiger runder Wulst: Blattranken mit Bluten und Trauben.
+
+Darin Gemalde:Heilige Familie. Brescia,Ende 16. Jahrhundert.
+
+OBERITALIEN,MITTE 16.JAHRHUNDERT.Hohe 92,5 cm,Breite73,5cm.
+
+## 252 KLEINER RAHMEN.
+
+Holz. Geschnitzt und vergoldet. Starker wulstiger Blattfries auf ausgeschwungener Akanthusleiste.
+
+OBERITALIEN,ENDE16.JAHRHUNDERT.Hohe18,5cm,Breite14,3cm.
+
+## 253 RAHMEN.
+
+NORDITALIEN,ENDE 16.JAHRHUNDERT.Hohe19,8cm,Breite 14,1 cm.
+
+## 254 RAHMEN.
+
+NuBholz, Spuren von Vergoldung. Girlandenmuster,Flammleiste. MITTELITALIEN,ENDE 16.JAHRHUNDERT. Hohe 19 cm,Breite 16,3 cm.
+
+## 255 RAHMEN.
+
+Holz, vergoldet, Pastiglia mit breitlappigem Rankenwerk.
+
+BOLOGNA,16.JAHRHUNDERT.Hohe24,5cm,Breite20,5cm.
+
+## 256 RAHMEN.
+
+Nufholz, vergoldet. Kraftig geschnitztes, nach innen erhohtes Akanthusblattwerk mit Masken in den Ecken. In den Leistenmitten Halbmonde. Innen Perlstab. Darin Spiegel. BOLOGNA,16.JAHRHUNDERT. Hohe 44 cm,Breite 36cm.
+
+## 257,258 ZWEI KLEINE RAHMEN.
+
+Kranz von Schragbuckeln.
+
+NuBholz, geschnitzt,vergoldet und schwarz lackiert. Innen stark erhohter reliefierter
+
+BOLOGNA,17.JAHRHUNDERT. Hohe 22,8 cm,Breite 19 cm.
+## 259 RAHMEN.
+
+Holz, geschnitzt,vergoldet und bemalt. AuBerer Umrif hochoval, in der Mitte runder Fruchtkranz. Oben Aufsatz mit Delphinkopfen und Schrifttafel in Ranken, unten ahn licher Ablauf mit Wappen. Darin Gemalde: Tondo mit Darstellung des Schmerzens# mannes. Samt Tondo aus einem Stick geschnitzt.
+
+ITALIEN,17.JAHRHUNDERT. Hohe 54 cm,Breite 37 cm.
+
+## 260RAHMEN.
+
+Holz, vergoldet. Innen Perlborte, auBen Eierstab. Glatte Kehle. Sog. Salvator Rosa= Rahmen.
+
+ITALIEN,17.JAHRHUNDERT.Hohe 16,5 cm,Breite 12 cm.
+
+## 261 RAHMEN.
+
+Holz,vergoldet. Innen und auBen Perlstab, in der Kehle verschlungenes fortlaufendes Band.
+
+ITALIEN,18.JAHRHUNDERT. Hohe 16,2cm,Breite13 cm.
+
+## 262KLEINER OVALER RAHMEN.
+
+Holz, vergoldet. Reich geschnitzt mit stark durchbrochenen Rokaillen und Blumen gehangen, oben unter vollrund geschnitzter Blumengirlande ein Doppeladler. Innen Perlstab.
+
+TOSKANA,UM 1775. Hohe 13,5 cm,Breite 9,8cm.
+
+## 263RAHMEN.
+
+Holz, vergoldet. In der Kehle symmetrische Blattauflage aus Holz auf gelbem Samt. AuBen Fries aus antikisierendem Akanthus,innen Blattstab.
+
+OBERITALIEN (Savoyen),UM 1800. Hohe 68,5 cm, Breite 50 cm.
+## VI. PLASTIK VERZEICHNET VON W.R.DEUSCH
+
+Nr.264--269
+## 264 ETRUSKISCH,4.-3.JAHRHUNDERTV.CHR.
+
+Aschenurne mit Deckel.
+
+Auf der Vorderseite der kleinen sarkophagartigen Urne Halbrelief einer Kampfszene
+
+Gebrannter Ton mit alter Bemalung. Deckel etwa 21:40 cm. Urne Hohe 22 cm,Breite zwischen vier Kriegern. Auf dem nicht zugehorigen Deckel eine ruhende Gestalt in weitem,faltigem Gewand.
+
+35 cm, Tiefe （oben) 20,5 cm.
+
+## 265 VENEDIG,UM1360.
+
+Tabernakel mit thronender Madonna.
+
+Auf einer Sitzbank, deren in Lowenkopfen endigende Seiten rechts und links sichtbar sind, thront Maria,den Oberkorper und das Haupt leicht nach links gedreht,um sich dem auf dem linken Knie stehenden,mit einem glatten hemdartigen Gewand bekleideten Kinde zuzuwenden. Auf ihrer rechten Hand ein Vogel,nach dem das Kind greift. Weiter, uber den Kopf gelegter Mantel. Hochrelief auf glattem Grunde, tabernakelartig ein gerahmt von zwei Dreiviertelsaulen, die Fialen und krabbenbesetzten Spitzbogen tragen. Linke untere Ecke leicht beschadigt.
+
+Marmor.Hohe 75 cm,Breite 44 cm.
+
+Tafel XXXIV.
+
+266 WERKSTATT DES ANDREA DI CIONE GEN.ORCAGNA. (Florenz, tatig etwa 1344—1368).
+
+Paupertas.
+
+dem in starkem Hochrelief die Kniefigur einer Frauengestalt erscheint. Sie tragt iber dem nach rechts gewandten Haupte ein Tuch,in der Linken eine Schriftrolle. Ein Hund zerrt an ihrem Gewande. Der rechte Arm, der einen in seinem unteren Ende noch sicht baren Stab hielt, abgebrochen.
+
+Marmor, mit Spuren alter Vergoldung. Hohe 45 cm, Breite 36 cm. Tafel XXXIV.
+
+## 267 NINO PISANO (2.Halfte 14.Jahrhundert).
+
+Stehende Madonna mit Kind.
+
+Maria steht mit stark ausgebogener linker Hufte,von der eine tiefe Falte uber den Unterkorper zum Boden verlauft, in frontaler Haltung. Auf dem Haupte uber geschei teltem,welligem Haar ein Kopftuch; den machtigen Korper bedeckt ein uber Brust und Huften reichgefalteter Mantel,aus dem die einen Apfel haltende Rechte hervorragt. Auf dem linken Arme sitzt das Kind,in der einen Hand eine Rolle haltend, die andere nach dem Apfel ausstreckend.- Kopf des Kindes abgebrochen und angestickt.
+
+Das Werk entstammt dem weiteren Umkreise des Nino Pisano und duirfte vielleicht in die Gegend von Arezzo zu lokalisieren sein.
+
+Sammlung Fairfax Murray.
+
+Stein. Ruckseite bearbeitet. Alte Fassung in Blau und Rot, Reste von Vergoldung.
+
+Hohe 133 cm.
+
+Tafel XxxV.
+## 268LOMBARDEI,UM 1450.
+
+Madonna mit Kind.
+
+Halbfigur der Maria mit dem Kinde iber einem die Fligel halbkreisformig ausbreiten= den Cherubim. In den oberen Ecken zwei Engel, die ein faltiges Tuch hinter der Madonna halten.Halbrelief, skizzenhaft gearbeitet. Mit profiliertem Rahmen. Gebrannter Ton,Reste von Vergoldung. Hohe 53 cm,Breite 43,5 cm.
+
+## 269WERKSTATTDERDELLAROBBIA.
+
+Monch.
+
+Halbfigur eines in eine weite Kutte gekleideten Monches in DreiviertelProfil, mit uber der Brust gefalteten Handen.
+
+Gebrannter Ton. Hochrelief. Figur weif, Grund blau glasiert. Hohe der Figur 22 cm.
+## VII. GEMALDE
+
+VERZEICHNET VON W.R.DEUSCH
+
+Nr.270-350
+## 270 ITALOBYZANTINISCH,UM 1300.
+
+Tod Mariae.
+
+Parallel zur Bildebene das machtige Ruhebett, auf dem Maria in dunkelgrunem Mantel liegt,umgeben von den Aposteln. Rechts hinten Petrus, die Totenmesse lesend,oben Christus mit der personifizierten Seele Mariae in einer von Cherubimkopfen umrahmten
+
+Holz,mit angeschnitztem Rahmen. Hohe 26,5 cm, Breite 23 cm.
+
+Mandorla.
+
+## 271 NACHFOLGER DES GUIDO DA SIENA (Siena,Anfang 14.Jahrhundert).
+
+Thronende Madonna mit Engeln.
+
+Auf einem Marmorthron, dessen Ruckseite spitz zusammenlauft und das Haupt Mariae umschlieBt, thront die mit einem roten Kleide und einem dunklen goldgefaltelten Mantel bekleidete Madonna. Auf ihrem Schofe das mit roten Bandern gewickelte Kind, dem sie die Brust zu reichen im Begriffe ist (Typus der byzantinischen ,Galaktotrophusa"). Zu den Seiten des Thrones je ein stehender Engel. Goldgrund mit punziertem Muster.
+
+Holz,mit angeschnitztem Rahmen. Hohe 18,3 cm, Breite 12.3 cm.
+
+## 272 SIENA,14.JAHRHUNDERT.
+
+Kopf der Madonna.
+
+DreiviertelAnsicht. Haupt mit einem weiBen Kopftuch und einem schweren Mantel bedeckt,unter dem einige Strahnen des rotblonden Haares sichtbar werden. Goldgrund. Holz. Hohe 39,5 cm,Breite 32 cm.
+
+## 273 BOLOGNA,14.JAHRHUNDERT.
+
+AusgieBung des Heiligen Geistes.
+
+Im Hof eines weitlaufigen Gebaudes,uber dem der goldne Grund sichtbar wird, Halb figur der Maria mit den Aposteln. Am Himmel eine senkrecht nach unten sturzende Taube. Oben spitzbogig ausgeschnitten, die Zwickel mit dekorativen Mustern gefuillt. Holz. Hohe 32 cm,Breite 26,5 cm.
+
+## 274 SIENA,MITTE 14.JAHRHUNDERT.
+
+Kreuzigung Christi mit Maria und Johannes.
+
+Vor Goldgrund das hohe Kreuz mit dem S=formig ausgebogenen Korper Christi, dessen Fufe von der in einem roten Mantel gehullten Magdalena umschlungen werden. Links Maria in dunklem Mantel, zum Beschauer gewandt,rechts Johannes mit gefalteten Handen, das Haupt zu dem Erloser erhoben.
+
+Sammlung Conte Pannilini.
+
+Ausstellung sienesischer Kunst, Siena 1905.
+
+Mittelstuck eines Triptychons.
+
+Holz.Hohe 34,5 cm,Breite 15 cm.
+## 275 NACHFOLGER DES NARDO CECCHARELLI (Siena,um 1350).
+
+Ecce homo.
+
+Halbfigur Christi mit Brust und Handwunden, die Arme unterhalb der Brust gekreuzt, das leicht nach links geneigte Haupt vor der Kreuzgabelung. Goldgrund.
+
+Mittelstick eines Triptychons.
+
+Holz, mit angeschnitztem Rahmen. Hohe 34,5 cm,Breite 23 cm.
+
+## 276 GIOVANNI DEL BIONDO (Florenz,tatig 1356-1392).
+
+Vermahlung der heiligen Katharina.
+
+In der Mitte Maria in hellrotem Gewand und blauem Mantel, das Haupt der rechts knienden,in einen roten gemusterten Mantel gehullten Katharina zugewandt. Die Heilige halt ihre Rechte dem links stehenden jugendlichen Christus hin, der im Begriffe ist,ihr den Ring anzustecken. Im Vordergrund in reiner Profilansicht die dunkel gekleidete Gestalt einer kleinen Stifterin. Goldgrund. Spitzbogig abgeschlossen.
+
+Nach Mitteilung des Besitzers Zuschreibung von B. Berenson und R. Offner. Holz. Hohe 127 cm,Breite 65 cm.
+
+Tafel XxxVI.
+
+## 277 NACHFOLGER DES GIOVANNI DEL BIONDO (Florenz,2.Halfte 14.Jahrhundert).
+
+Madonna mit Kind.
+
+Vor Goldhintergrund Brustbild der Madonna in Profil, mit beiden Handen das Kind an sich schmiegend, das in ein chromgelbes, in den Schatten rotliches Tuch gehullt ist.
+
+Holz.Hohe 33,8 cm,Breite 31,7 cm.
+
+## 278 FLORENZ,2.HALFTE 14.JAHRHUNDERT.
+
+Madonna mit Kind und Heiligen.
+
+Art des Compagno di Agnolo Gaddi.
+
+In der Bildmitte sitzt zusammengekauert die Madonna in goldbrokatenem Gewand und dunklem,iber das Haupt gelegtem weitem Mantel. Sie deutet mit der Linken auf das auf ihrem rechten Knie liegende gewickelte Kind, das den Finger zum Munde fuhrt. In kleineren Proportionen links der hlg. Antonius, ganz im Profil, rechts, mit den FuBen im Wasser stehend, Christophorus mit dem Kind auf den Schultern. Goldgrund, am oberen Rande mit punziertem Muster.
+
+Holz,mit angeschnitztem Rahmen. Hohe 48,4 cm, Breite 40,6 cm.
+
+Tafel XXxVII.
+
+## 279 PAOLO DI GIOVANNI FEI (etwa 1342, Siena nach 1410).
+
+Katharina und der Verkundigung.
+
+Triptychon mit Kreuzigung, den Heiligen Christophorus und
+
+Im Mittelfeld die Kreuzigung mit der trauernden Maria und Johannes in hellrotem Mantel, den linken Arm schmerzvoll ausreckend. Links vorn Magdalena, die den Kreuzesstamm umklammert. Auf dem linken Flugel Christophorus mit dem Kinde, in dem von Fischen belebten Wasser watend, auf dem rechten die hlg. Katharina in hellrotem Mantel und goldbrokatenem Gewand mit Rad und Palme. In den Zwickeln
+der beiden Flugel die Kniefiguren des Verkundungsengels und der Maria. Goldgrund.
+
+Holz, mit angeschnitztem Rahmen. Hohe 44 cm, Breite (Mittelstuck) 21 cm,
+
+Am Sockel zwei Wappen und Gedenkinschrift.
+
+(Flugel je) 9,8 cm.
+
+Tafel XXXVIII.
+
+## 280 SCHULE DES BERNARDO DADDI (Florenz,um 1370).
+
+Christus im Grabe mit Maria und Johannes.
+
+Vor Goldgrund parallel zur Bildebene der weiBe Marmorsarkophag, aus dem der Korper Christi hervorragt. Seine beiden Arme werden von Maria und Johannes,die links und rechts am Bildrand hocken, an die Lippen gefuhrt.
+
+Holz, mit angeschnitztem Rahmen. Hohe 37,2 cm,Breite 50,3 cm.
+
+Tafel XXXIX.
+
+## 281 TOSKANA,2.HALFTE 14.JAHRHUNDERT.
+
+Martyrium der heiligen Agatha.
+
+Links thront in einer flachgedeckten Saulenhalle der Konig,umgeben von seinen Raten, Kriegern und Knechten,die die gemarterte Heilige in die geoffnete Tur des Gefangnisses stofen. Rechts der Gefangnisbau,vor dem zwei Krieger sitzen und durch dessen breites Gitterfenster die wunderbare Heilung Agathas durch Petrus sichtbar wird, wahrend ihr von oben ein Engel zufliegt.
+
+Holz. Hohe 30,2 cm,Breite 42,8 cm.
+
+Tafel XXXIX.
+
+## 282 KREIS DES TADDEO DI BARTOLO (etwa 1362Siena 1422).
+
+Zwei Flugel eines Altars.
+
+Auf dem linken Flugel ein heiliger Bischof, davor Johannes der Taufer, in harenem Gewand und hellrotem Mantel, und eine weibliche Heilige. Auf dem rechten Flugel wiederum ein Bischof mit Stiftermodell, davor der hlg. Martin mit dem bis zur Brust sichtbaren Pferd, der im Begriffe ist,mit seinem Schwert seinen Mantel zu zerschneiden.
+
+Daneben ein jugendlicher Heiliger (Laurentius?) ohne Attribut. Goldgrund. Holz, mit angeschnitztem Rahmen. Hohe je 96,4 cm,Breite je 28,6 cm.
+
+Tafel XL.
+
+## 283 FLORENZ,ENDE 14.JAHRHUNDERT.
+
+Kreuzigung.
+
+Maria in rotem Gewand und dunklem, chromgelb gefuitterten Mantel steht mit schmerz voll gefalteten Handen zur Linken des Kreuzes. Johannes in grunblauem Gewand und weinrotem Mantel weist mit der Linken auf den Gekreuzigten. Goldgrund.
+
+Holz. Hohe 35,2 cm,Breite 27 cm.
+
+ayarheeanaeone
+## 284 TOSKANA,SPATES 14.JAHRHUNDERT.
+
+Stigmatisation des heiligen Franziskus S一 Kreuzigung mit Maria und Johannes.
+
+Linke Tafel: Vor einer steil ansteigenden Felslandschaft mit Baumen und Strauchern kniet Franziskus in grauer Kutte und empfangt die Stigmata, die ihn als goldne,von dem vor schwarzem Himmel schwebenden Kruzifix ausgehenden Strahlen treffen. Auf der rechten Tafel vor ebenfalls schwarzem Grunde Christus am Kreuz, zu seinen Seiten
+
+Maria und Johannes. Zusammen in einem Rahmen.
+
+Holz.Hohe je 68,3 cm,Breite je 24,2 cm.
+
+## 285 TADDEO DI BARTOLO (etwa 1362, Siena 1422).
+
+GeiBelung Christi.
+
+Vor Goldhintergrund drei Gestalten: Christus mit ibergesetzten Beinen und auf den Rucken gebundenen Handen,an der Martersaule, blickt zu dem rechten mit beiden Handen auf ihn einschlagenden Henkersknecht, wahrend der linke, halb von vorn gesehen mit der Rechten zum Schlage ausholt.
+
+Der Typus Christi stimmt fast vollkommen iberein mit dem des signierten Poly ptychons von Taddeo di Bartolo in der Galleria municipale in San Gimignano und des Auferstehenden Christus der ehem. Sammlung Ludovico SpiridonRom Versteigerung Amsterdam 1928,Katalog Nr. 11).
+
+Holz. Hohe 20 cm,Breite 16,2 cm.
+
+- 286 ART DES MARIOTTO DI NARDO (Florenz, Anfang des 15. Jahrhunderts). Johannes der Taufer.
+
+Vor oben halbrund abschlieBendem Goldgrund der Heilige in harenem Gewand und rotem iber den linken Arm herabfallendem Mantel, halbrechts gewandt, mit der Rechten auf den Kreuzstab weisend. Fluigel eines Altars.
+
+Holz. Hohe 68 cm, Breite 31 cm.
+
+- 287 ZANOBI DI JACOPO DI PIERO MACCHIAVELLI (1418 Pisa,Florenz etwa 1480). Heilige Katharina.
+
+Die Heilige in gruinem, goldgesiumtem Gewande und hellrotem Mantel steht mit ge= senktem Haupt und halt in der Rechten das Marterwerkzeug. Goldhintergrund. Holz. Hohe 90,8 cm,Breite 29 cm.
+
+## 288 WERKSTATT DES LUCA SIGNORELLI (1441 Cortona,Mittelitalien 1523).
+
+Die Gestalten in zwei Zonen angeordnet: in der oberen die thronende Madonna in rotem Gewand und weitem, dunklem,goldgesticktem Mantel, das Haupt nach rechts geneigt, und auf dem linken Arm das segnende Kind haltend. Zu ihren Seiten je ein Engel, die hlg. Ursula und der Evangelist Johannes. In der unteren Zone, zu Fufen des Thrones sitzend, der schreibende Bernhard, links und rechts flankiert von den stehen den Gestalten der hlg. Katharina und Magdalena. Kleine Landschaftsausschnitte, hell
+
+Thronende Madonna mit Heiligen.
+
+blauer Hintergrund.
+Die stark abgeriebene Tafel geht in der Anlage auf Signorelli selbst zurick und steht seinen groBen Altartafeln um 1490 in Volterra und London sehr nahe, wenngleich die Ausfuhrung auf Schulerhande deutet.
+
+Holz. Hohe 163,5 cm,Breite 134 cm.
+
+Sammlung Fairfax Murray.
+
+## 289 UMBROSIENISCH,ENDE 15.JAHRHUNDERT.
+
+Die Heiligen Victor und Martha.
+
+Hinter einer profilierten Marmorbrustung die Kniefiguren des hlg. Victor mit Schwert und Palme und der Martha, die in der Rechten das rote Buch vor die Brust halt und in der herabsinkenden Linken den Palmzweig tragt. Goldhintergrund mit rotem Pflanzenmuster. Flugel eines kleinen Altars.
+
+Der Art des Bernardino Fungai nahestehend.
+
+Holz. Hohe 50 cm,Breite 26,7 cm.
+
+## 290 SCHULE DES ANDREA MANTEGNA (Ende des 15. Jahrhunderts).
+
+Neptun mit Tritonen.
+
+Auf dem leicht bewegten Wasser zieht von rechts nach links der Zug der Tritonen, die in ihrer Mitte Neptun mit sich fuhren. Auf dem langen Ruicken des vordersten, der, gefligelt und sein Instrument blasend, ganz im Profil gegeben ist, reitet die machtige, stark kontrapostierte,von einem weiten Mantel umwehte Gestalt des Gottes mit dem Dreizack. Den BeschluB des Zuges bilden ein flotenblasender und ein fiedelnder Triton.
+
+Das Bild zeigt trotz des Zusammenhanges mit Mantegnas Stich (B 17) keinerlei direkte Ubernahmen, sondern ist eine selbstandige Arbeit im Stil des M. Als Autor kommt viel leicht Girolamo Mocetto (etwa 1458bis etwa 1531) in Betracht.
+
+Grisaille.
+
+Holz.Hohe 18,2 cm,Breite 45,1cm.
+
+## 291 ERCOLE DE'ROBERTI (nach 1450,Ferrara 1496).
+
+Die Schlacht der drei Konige.
+
+Die dreiteilige figurenreiche Szene schildert vor landschaftlichem Hintergrund rechts den Anmarsch der Konige mit Gefolge, in der Mitte die Annahme des heiligen Sakra ments vor einem kleinen Renaissancetempel mit Altar, rechts das Getummel der
+
+Schlacht.Predellenstick.
+
+Nach Mitteilung des Besitzers zugeschrieben und begutachtet von B. Berenson, G. Gronau, Toesca und De Nicola.
+
+Aus der Sammlung des Fursten Chigi erworben durch Fairfax Murray:
+
+Holz. Hohe 29,3 cm,Breite 65,8 cm.
+
+Tafel XLI.
+
+## 292FRANCESCO DIDOMENCIO MORONE (1473/74,Verona 1529).
+
+Grablegung Christi.
+
+Joseph von Arimathia und Nikodemus schleppen den Korper Christi, uber den sich yon hinten Maria beugt, zu dem vorn links sichtbaren Grab. Die Gruppe wird um
+schlossen von der Reihe der funf wehklagenden Frauen und dem von rechts herbei eilenden Johannes in rotem Gewand und blauem Mantel. Im Hintergrund links blau lich verschwimmende Berglandschaft, rechts Golgatha mit einer mittelalterlich be= festigten Stadtanlage.
+
+Holz. Hohe 26,4 cm,Breite 17 cm.
+
+Tafel XLI.
+
+## 293 EVANGELISTA DI PIAN DI MELETO (tatig 1483-1549 Urbino).
+
+Anbetung der Konige.
+
+Links Teil eines palastartigen Gebaudes, in dessen dunklem Torbogen Ochse und Esel sichtbar werden. Davor der stehende Joseph und die sitzende Madonna mit dem Kinde, das von den drei, den rechten Vordergrund einnehmenden Konigen angebetet wird. Im Mittelgrund Reittiere und Krieger,im Hintergrund weite bergige Landschaft mit Reiterzug.
+
+Holz.Hohe 42,5 cm,Breite 36 cm.
+
+Tafel XLI.
+
+## 294 UMBRISCHER MEISTER,UM 1500.
+
+Kreuzigung.
+
+Vor lichtgrinem Himmel und weitem Landschaftsgrund der Kruzifixus zwischen Sonne und Mond. Am FuBe des Kreuzes die kniende Magdalena in rotem Mantel, rechts Johannes, links Maria mit klagend erhobenen Armen. An den seitlichen Bildrandern vorn je ein hohes Baumchen.
+
+Auf der Ruckseite alte Inschrift:,Questo quadro e di Giovanni fig. di fran.c di .. sua e asuo giacere di Rendermelo e conservarmelo Come appare al Mio Memoriale di detto Giovanni; Et Io
+
+Der Meister gehort der EinfluBsphare Peruginos an und setzt, in einer Gestalt wie der der Magdalena, das Studium Signorellis voraus.
+
+Benciuenni; il quale Presto a fros (?) Lodouico da... fra Lodouico fo fede di mia mano propria a di 20 Gen 1520".
+
+Holz. Hohe 43,4 cm,Breite 35 cm.
+
+Tafel XLII.
+
+## 295 LUDOVICO MAZZOLINO (tatig in Ferrara etwa 15041528).
+
+Vor den Ruinen eines kirchenartigen Gebaudes, das links hinten einen Ausblick auf eine Landschaft mit Verkuindigung an die Hirten freilaBt, kniet Maria, das auf einer Strohmatte mit Leintuch liegende Kind anbetend. Rechts der schlafende Joseph, links zwei anbetende Hirten.
+
+Anbetung des Kindes.
+
+Ol auf Holz. Hohe 42,5 cm, Breite 28,6 cm.
+
+Tafel XLII.
+
+## 296 BENEDETTO MONTAGNA (Anfang des 16. Jahrhunderts,Vicenza).
+
+Heilige Familie.
+
+Vor neutralem, dunklem Hintergrund,der links einen kleinen Ausschnitt auf den Himmel freigibt,Maria,in dunkelrotem Gewand und grunlichblauem,hellbraun aus
+geschlagenem Mantel, das Kind anbetend, das links vorne auf einer Brustung sitzt und dem sich der Johannesknabe zugesellt. Rechts im Vordergrund die Halbfigur Josephs
+
+Nach Mitteilung des Besitzers von Ch. Loeser dem Speranza, neuerdings von G. Fiocco dem B. M.zugeschrieben.
+
+mit iber der Brust gekreuzten Armen.
+
+Holz. Hohe 35 cm,Breite 29,5 cm.
+
+Tafel XLIII.
+
+## 297 ANTONIO SOLARIO GEN.LO ZINGARO (Oberitalien,Neapel,
+
+Anfang 16. Jahrhundert).
+
+Madonna mit Kind in Landschaft.
+
+Halbfigur der Madonna, das nackte Kind auf der vorderen Brustung haltend und ihr
+
+Hinten alte Aufschrift:,Cesare da Sesto".
+
+Haupt an das des Kindes lehnend. Die Linke stutzt ein auf der Brustung stehendes Buch. Rotlichblondes Haar, dunkelrotes Kleid und blaugruner Mantel. Im Hintergrund Landschaft mit Bergen und Gewasser, kleine Burganlagen, rechts eine groBere An siedlung mit Turm und zinnenbekronten Hausern.
+
+Spates Werk des Meisters mit Anklangen an die lombardischen Meister der Leonardo
+
+Holz. Hohe 34,4 cm,Breite 27,2 cm.
+
+Nachfolge.
+
+Tafel XLIII.
+
+## 298,299 MARCO PALMEZZANO (tatig in Forli etwa 1490 bis etwa 1536).
+
+Geburt Ch risti. Vor der knienden Madonna das mit dem Kopf auf einem Stroh bundel liegende Kind mit erhobenem linkem Arm. Hinter ihm sind in einer Hutte Ochse und Esel zur Halfte sichtbar,links sitzt Joseph mit auf den Stock gestitzten Handen. Rechts Ausblick auf bergige Waldlandschaft,im Mittelgrund zwei herbei eilende Hirten.
+
+Darstellung im Tem pel. Vor einer halbrunden Nische ein Altar, auf dem Maria in grunem Mantel das die Rechte segnend erhebende Kind dem links stehenden Simon darreicht. Hinter Maria zwei weibliche,hinter dem Hohepriester zwei mannliche
+
+Gestalten.
+
+Zwei Predellentafeln.
+
+Aus der Spatzeit des Meisters.
+
+Ol auf Holz. Hohe 35,5 cm,Breite 58,8 bzw.56,4 cm.
+
+Tafel XLIV.
+
+## 300 BENEDETTO DIANA(um 1460,Venedig 1525).
+
+Madonna mit Kind.
+
+Vor einer grinen, rotgesaumten Wand, die rechts und links den Ausblick auf eine weite,felsige,mit Burgen durchsetzte Landschaft freilaft,sitzt Maria in rotem Kleid und blauem Mantel, leicht halbrechts gewandt,in der auf dem Knie ruhenden Rechten ein paar Kirschen. Auf dem linken Knie das stehende nackte Christuskind, das eine Kirsche zum Munde fuhrt.
+Sammlung Fairfax Murray.
+
+Holz. Hohe 56,4 cm,Breite 76 cm. Tafel XLV.
+
+## 301 VERONA,UM 1510-1520.
+
+Anbetung der Konige.
+
+Links ein kreuzgewolbtes, offenes hallenartiges Gebaude, vor dem Maria mit dem Kinde sitzt. Hinter ihr wird Joseph sichtbar,von rechts nahen die drei Konige anbetend und Geschenke bringend. Hinter ihnen die Kopfe zweier Pferde.
+
+Meister aus dem Umkreis des Girolamo dai Libri und des Liberale da Verona (1451 bis 1536), von denen er sich durch die nordlichen Einflusse und die farbige Gesamthaltung in braunen Tonen unterscheidet.
+
+Leinwand. Hohe 74,5 cm,Breite 84 cm.
+
+## 302 NACHFOLGER DES VINCENZO CATENA (Venedig,um 1510).
+
+Santa Conversazione.
+
+In freiem Raume vor hellblauem Himmelsgrunde die Kniefigur der sitzenden Maria,die das Kind mit der Linken auf dem Schofe halt und ihm mit der Rechten einen Vogel reicht. Rechts eine Heilige mit weitem braunem Kopftuch, den Blick gesenkt und die Arme iber der Brust gekreuzt,rechts ein bartiger Heiliger in dunkelbrauner Kutte und rotem Mantel, der sich mit beiden Handen auf einen Stock stuitzt. Im Vordergrund in Profil das Brustbild eines vornehmen Mannes mit langem,wallendem Bart. Sammlung Fairfax Murray.
+
+Holz.Hohe 82,5 cm cm, Breite 101,5 cm.
+
+Tafel XLVI.
+
+- 303 NACHFOLGER DES GIROLAMO DA SANTA CROCE (Santa Croce, tatig
+
+etwa 1503-1556Venedig).
+
+Madonna mit Heiligen.
+
+Maria thront in der Mitte,in blutrotem Gewand und dunklem Mantel. Links ein Heiliger mit Turban und langem weiBem Bart, rechts ein barhauptiger Mann in braunem Mantel. Links neben dem Thronhimmel buschiges Dickicht,rechts Fernsicht in eine blaulich verschwimmende Landschaft.
+
+Rahmen des 16. Jahrhunderts.
+
+Holz.Hohe 54,2 cm,Breite 74,8 cm.
+
+Tafel XLVI.
+
+## 304 GIULIO ROMANO (1493Rom,Mantua 1546).
+
+Madonna mit Kind,heiliger Anna und Johannesknaben.
+
+Vor einer Bristung mit Saulen, zwischen denen dichter Nebel sichtbar wird, sitzt die Madonna auf einer mit antikisierenden Motiven reliefierten Marmorbank. Uber ihrem SchoBe liebkosen sich das links auf einer kleinen Wiege stehende nackte Christkind und der von der knienden Anna gehaltene,mit einem Fell bekleidete Johannesknabe. Rechts steil abfallende Landschaft mit Fernblick.
+Bestimmung nach Mitteilung des Besitzers von W. von Bode.
+
+In Einzelheiten und im Hintergrund veranderte, seitenverkehrte Wiederholung von Raffaels um 1518 entstandener sogenannter ，,Kleiner Heiliger Familie（38:32 cm), die aus Exemplaren im Louvre und der Sammlung Roussel in Nanterre bekannt ist. Fruhwerk des Meisters, das wohl in der Werkstatt Raffaels kurz nach der Entstehung des Raffaelschen Originales ausgefuhrt wurde. Ein kompositionell verandertes,in Einzelheiten ubereinstimmendes Bild des G. R. im Museo Nazionale zu Neapel, abgeb. bei VoB, Malerei der Spatrenaissance in Rom und Florenz, Berlin 1922,95 f. Holz. Hohe 71 cm, Breite 55,6 cm.
+
+## 305 DANIELE RICCIARELLI DA VOLTERRA (1509 Volterra,Rom 1566).
+
+Zur Rechten vor einer machtigen Renaissancehalle mit plastischem Schmuck weist die Sibylle dem Kaiser die Erscheinung der Muttergottes mit dem Kinde, die in der linken oberen Bildecke sichtbar wird. Links eine weite, mit phantastischen Renaissance tempeln und #palasten besetzte Landschaft,in der vorderen rechten Ecke ein auf eine
+
+Die tiburtinische Sibylle und Kaiser Augustus.
+
+Groteskmaske gestutzter liegender FluBgott mit Fullhorn.
+
+Holz. Hohe 55 cm,Breite 49 cm.
+
+## 306 VENEDIG,1. HALFTE 16. JAHRHUNDERT.
+
+Weibliches Bildnis.
+
+Brustbild einer jungen Frau mit gescheiteltem Haar in rundausgeschnittenem weiBem iber die Brust greifenden rechten Arm gehalten wird. Dunkler Hintergrund.
+
+Leinwand. Hohe 76 cm,Breite 66 cm.
+
+Gewand,umhullt von einem weiten roten Mantel,der auf der rechten Seite von dem Friher Jacopo de'Barbari zugeschrieben.
+
+## 307 GIROLAMO ROMANINO (etwa 1485,Brescia 1566).
+
+Lukrezia.
+
+Die halbnackte Gestalt,mit dem linken Arm auf die ein Reliefmedaillon und darunter die Buchstaben L V tragende Marmorplatte gestitzt,stoft mit der Rechten den Dolch Unterarm ein weiBer Gewandfetzen, der von einem gelben Mantel umhult wird. Sammlung Fairfax Murray.
+
+Leinwand. Hohe 122,5 cm, Breite 58 cm.
+
+## 308 PARIS BORDONE (1500 Treviso,Paris,Augsburg,Venedig 1571).
+
+Frauenbildnis.
+
+Vor einem Landschaftshintergrund sitzt in seitlicher Ansicht eine reichgekleidete Dame in braunem Seidengewand mit weiBen, halblangen Armeln. Im Schofe halt sie ein flaches Korbchen mit Rosen. Am linken Bildrand ein schwerer weinroter Vorhang.
+
+Sammlung Marchese Panciatichi.
+
+Sammlung Fairfax Murray.
+
+Leinwand. Hohe 118,5 cm,Breite 94 cm.
+
+Tafel XLVII.
+- 309 SCHULE DES FRANCESCO DEI ROSSI, GEN. IL SALVIATI (1510,Florenz 1563). Bildnis des Roberto di Michele Strozzi.
+
+An einem kleinen, mit einer roten gemusterten Decke bedeckten Tischchen vor einer Fensteroffnung sitzt ein reichgekleideter bartiger Edelmann, die Hande nach unten hangend, den Blick zum Beschauer gerichtet. Hinter ihm ein Vorhang, der rechts zur Seite geschlagen ist und iber eine Balkonbrustung hinaus den Blick auf Florenz mit Dom und Campanile freilaBt.
+
+In der linken oberen Ecke Inschrift von spaterer Hand: ,Rubto di Michele Strozzi" Auf der Ruckseite ein Zettel mit der Aufschrift:,Di proprieta dell Illma: March. Giuseppa Quaratesi Frescobaldi ceduto dalla medesima al Sig: Gina Capponi". Holz. Hohe 131 cm,Breite 99 cm.
+
+Tafel XLVII.
+
+- 310 LEANDRO DA PONTE GEN.BASSANO (1577 Bassano,Venedig 1622). Bildnis des Daniel Hopfer Il.
+
+Vor einer Tischplatte, die mit einem rotgemusterten Teppich bedeckt ist, die Halbfigur eines stehenden Mannes in schwarzem gegurtetem Gewand mit weiBen Aufschlagen an den Armeln und weiBem Kragen. Die Linke ist in die Hufte gestitzt, mit der Rechten beruhrt er einen Brief. Hintergrund dunkel.
+
+Auf dem Briefe die Aufschrift: ,All Magr Dauitt Hopffer ...... Augusta". Es handelt sich danach wahrscheinlich um den Augsburger Waffenatzer Daniel (auch David) Hopfer,den Sohn des Jorg und Enkel des beruhmten Daniel Hopfer, der 1598 in Augsburg starb.
+
+In der oberen linken Ecke Signatur in lateinischen Majuskeln:LEANDER.A PONTE Zeit nach seiner Erhebung in den Ritterstand, also nach etwa 1595.
+
+Leinwand. Hohe 102 cm, Breite 84 cm.
+
+Tafel XLVIII.
+
+- 311 DOMENICO ZAMPIERI GEN.DOMENICHINO (1581 Bologna,Rom,Neapel 1641).
+
+Martyrium der heiligen Katharina.
+
+In der Mitte die Heilige in gelbem Gewand und blauem,flatterndem Mantel, die Arme ausgebreitet und nach dem von oben mit Siegespalme und Kranz herabfliegenden Engel blickend. Rechts und links von ihr die Henker, unter der Macht der Vision und der Wucht der zersplitternden Rader zusammenbrechend. Rechts antike Tempelfront,
+
+Links Ausblick auf Landschaft mit Stadtansicht.
+
+Aus der romischen Zeit.
+
+Sammlung Herzog von Sutherland.
+
+Leinwand. Hohe 68 cm,Breite 49,8 cm.
+
+- 312LUCA GIORDANO（1632Neapel,Florenz,Rom,Venedig,Madrid,Neapel 1705） Anbetung der Konige.
+
+In der Mitte auf einem erhohten Sockel thronend die Madonna, das Kind auf dem Schofe, das von einem weiBbartigen, in ein hermelinbesetztes Gewand gekleideten Konig (Portratzige) angebetet wird. Von rechts nahen die beiden anderen Konige,hinter ihnen der lange Zug des Trosses. Hinter Maria Joseph,vorn zwei vom Bildrand uber
+schnittene Krieger. Uber der Madonna,in Wolken schwebend,ein Engel mit gefalteten Handen.
+
+Aus der venezianischen Zeit des Meisters um 1685.
+
+Sammlung Fairfax Murray.
+
+Leinwand. Hohe 106,5 cm,Breite 82,6 cm.
+
+## 313 GIOVANNI PAOLO PANNINI (1691 Piacenza,Paris,Rom 1764).
+
+Romische Ruinenarchitektur.
+
+Aus dem mit Figurenstaffage belebten Ruinenfeld ragen links der Konstantinsbogen und dahinter die Trajanssaule,rechts Teile des Palatin und die teilweise abgebrochene Aufenwand des Kolosseums hervor. Hellblauer bewolkter Himmel.
+
+Sammlung Baron Lazzaroni.
+
+Leinwand. Hohe 126 cm,Breite 118 cm.
+
+Tafel XLIX.
+
+## 314,315 MAINFRANKISCH,UM 1520-1530.
+
+Zwei Altarflugel mit stehenden Heiligen.
+
+Auf dem linken Flugel Johannes der Evangelist in weitem Mantel,mit der Rechten den Kelch mit der Schlange segnend. Daneben der heilige Erasmus in Bischofstracht, mit der Linken sich auf die Winde stitzend. Auf dem rechten Flugel die Heiligen Lauren= tius mit dem Rost und Thomas mit umwundener Lanze;im Gegensatz zu den ruhigen Gestalten links in erregtem Gesprach. Die beiden Fligel verbindet eine Fruchtgirlande und ein Akanthuszweig.Vermutlich Aufenseiten zweier AuBenflugel. Grisaillen. Die Tafeln zeigen StilAnklange an Grunewald.
+
+Fichtenholz. Hohe 122 cm,Breite 37 cm.
+
+Tafel L.
+
+Grablegung Christi.
+
+Parallel zur Bildebene der machtige Sarkophag,in den der Leichnam von dem links hinten stehenden Nikodemus und dem rechts vorn stehenden Joseph gesenkt wird. Hinter dem Sarkophag Maria mit Johannes und den drei Marien. Hoher Horizont mit Aussicht auf Landschaft.
+
+Holz.Hohe 42,5 cm,Breite 30,5 cm.
+
+## 317 ART DES JOOS VAN CLEVE (1485 Cleve,Antwerpen 1540).
+
+Maria mit dem Kinde.
+
+In einer halbrunden Nische mit Renaissanceornamenten die Kniefigur der sitzenden Maria in dunkelgrunem Untergewand und rotem Mantel, dem Kinde die Brust reichend. Rechts vorne ein truhenartiger Tisch mit einem Glas, einem Messer und einem halbierten Granatapfel. Das in ein loses Hemdchen gehullte Kind halt in der
+
+Hand eine Blume.
+
+Die Komposition geht auf Gerard David zurick, der Stil weist in die Nahe der Fruh zeit Joos van Cleves.
+
+Holz. Hohe 50,5 cm,Breite 37 cm.
+
+Tafel LI.
+## 318 BERNAERT VAN ORLEY (Brussel,um 1495-1542).
+
+Vor der mit zwei Saulen besetzten Brustung einer Loggia erscheint Maria in Halbfigur, in weiBem Kopftuch und dunkelgrunem, uber den Kopf gelegten Mantel. Sie halt mit der Rechten das Kind, das auf einem roten,auf der vorderen Bristung liegenden Kissen sitzt, und reicht ihm mit der Linken die Brust. Hintergrund Landschaft mit
+
+Kastell.
+
+Das Bild zeigt nach Ansicht M. J. Friedlanders nahe Verwandtschaft zu den Jugend arbeiten Bernaert van Orleys. Die Komposition geht auf Rogier van der Weyden zurick,vgl. Friedlander,Altniederl. Malerei,Band II,Nr. 107.
+
+Sammlung Durazzo, Genua.
+
+Holz, oval (urspringlich rechteckig）. Hohe 68 cm,Breite 52 cm.
+
+Tafel LII.
+
+- 319 NACH JAN GOSSAERT GEN. MABUSE (1475 Maubeuge, tatig in Antwerpen und anderen niederlandischen Stadten,1533).
+
+Ecce homo.
+
+Auf einem rechteckigen Steinblock sitzt Christus mit der Dornenkrone,ein Lenden tuch um die Huften geschlungen, die Hande iber den Knien gefaltet, nach oben blickend. Links vor einer Mauer, hinter der sich Renaissancearchitektur erhebt, ein Paar in Zeittracht,rechts hinter einer Saule der Kopf eines Mannes mit weifer Mitze.
+
+Bezeichnet an der FuBbank:JOHANNES MALBODIUS PINGET.
+
+Datiert auf dem Sitz:1527.
+
+Die auf eine Erfindung Mabuses zuruckgehende Komposition ist nur in Werkstatt wiederholungen bekannt,vgl. E. WeiB,Jan Gossaert, 1913 S. 118.
+
+Holz. Hohe 26,2 cm,Breite 20 cm.
+
+## 320 JAN MIENSE MOLENAER (nach 1605,Haarlem 1668).
+
+Gesellschaftsstuck.
+
+An einem mit Speisen bedeckten, von Krugen und Fassern umgebenen Tisch eine Anzahl Manner und Frauen bei Geigenspiel, Gesang und Wein. Links vorne ein Violinspieler, rechts eine singende Frau mit einem Weinglas.
+
+Holz. Hohe 32 cm, Breite 30 cm.
+
+Bezeichnet zwischen den Beinen des Violinspielers: I. MOLENAER. Sammlung Stroganoff.
+
+- 321 JAN ASSELIJN (etwa 1610 Amsterdam,Italien, Frankreich 1652).
+
+Ruinenlandschaft.
+
+Links ein FluBlauf, der sich in eine tiefe Landschaft windet und an dem zwei Ge: stalten mit einem Hund sichtbar werden. Rechts antike Ruinen, vor denen ein lagern des Hirtenpaar die vorn weidende Rinderherde hitet.
+
+Sammlung Murawieff.
+
+Alter hollandischer Schildpattrahmen.
+
+Ol auf Leinwand. Hohe 44,5 cm, Breite 55 cm.
+## 322 DIRK STOOP （etwa 1610 Utrecht, Spanien,England,Utrecht 1686).
+
+Jagdszene.
+
+In einer hugeligen Landschaft im Vordergrund links ein Treiber, der einen erlegten
+
+Zwei ahnliche Bilder unter Nr.2260 und 2261 im Rijksmuseum zu Amsterdam, ferner in Kopenhagen,Dresden u.a.
+
+Hasen aufnimmt, wahrend ein zweiter mit langem Stock den Weg weist. Rechts vor einem machtigen Baumstamm ein Jager zu Pferd,vor ihm zwei Hunde,im Hintergrund als Silhouette ein weiterer Reiter mit Treibern.
+
+Rechts unten volle Bezeichnung und Datierung (verwischt:44?). Sammlung Stroganoff.
+
+Holz.Hohe 30,5 cm,Breite 24,5 cm.
+
+## 323 SYBRANT VAN BEEST (1610 Haag, Amsterdam 1674).
+
+Kuche mit Schweinen.
+
+Der Ausschnitt einer Kuche zeigt einen Tisch, beladen mit Gemusen und Fruchten, rechts vorn eine Tonne, darauf ein Korb mit Apfeln, links drei Schweine, die die am
+
+Boden liegenden Uberreste fressen. Im Hintergrund Fischer und Kuchengerate.
+
+Bezeichnet rechts unten:S.v.BEEST,1649.
+
+Sammlung Stroganoff.
+
+Holz. Hohe 35,4 cm,Breite 35,2 cm.
+
+## 324 JACOB VAN LOO (1614 Sluys,Amsterdam,Paris 1670).
+
+Mannerbildnis.
+
+Brustbild. Ein Herr mit langem Haar und schwarzem Gewand mit schmalem, weiBem Kragen. Dem auf den Beschauer gerichteten Blick entspricht die lebhaft bewegte rechte
+
+Hand.
+
+Sammlung Fairfax Murray.
+
+Ol auf Leinwand. Hohe 81,5 cm, Breite 65 cm.
+
+## 325 EGBERT VAN DER POEL (1621 Delft,Rotterdam 1664).
+
+Nachtlicher Brand.
+
+Die nachtliche, durch den Schein des Feuers erleuchtete Szene zeigt links ein in Flammen stehendes Haus, das von den,nach vorn zu einem Gewasser drangenden Bauern geloscht wird. Rechts Hutten und eine Dorfkirche.
+
+Sammlung Stroganoff.
+
+Holz. Hohe 35 cm,Breite 26,5 cm.
+
+## 326 ALBERT CUYP (1620,Dordrecht 1691).
+
+Mannliches Bildnis.
+
+Der Dargestellte, in dunklem Gewand mit weiBem Kragen, fast von vorn gesehen,halt in der am unteren Bildrande sichtbaren Rechten einen Handschuh. Der dunkle Hinter# grund zeigt Umrisse eines Gemachs, links einen schweren roten Vorhang.
+
+Die in der Mitte links angebrachte Signatur ,ACuypund Datierung ,1667 sind viel leicht spatere Zutat, der Stil des Bildes weist eher auf Abraham L. J. van den Tempel
+
+(1622-1672).
+
+Leinwand. Hohe 79,5 cm, Breite 64,5 cm.
+
+Tafel XLVIII.
+## 327 PIETER WOUWERMAN (1623 Haarlem,Amsterdam 1682).
+
+Ausritt zur Jagd.
+
+Vor einer weiten Landschaft ein Jager und eine Jagerin zu Pferde, Jagdfalken auf der Hand;in der Mitte ein Reiter,im Begriff, seinen Schimmel zu besteigen. Rechts eine Freitreppe, auf deren Brustung ein Pfau sitzt, links hinten eine Gruppe von Reittieren und Dienern mit Jagdfalken.
+
+Bezeichnet rechts unten: P.W.
+
+Sammlung Stroganoff.
+
+Holz.Hohe 24,3 cm,Breite 34,7 cm.
+
+Tafel LIII.
+
+## 328 PIETER WOUWERMAN (1623Haarlem,Amsterdam 1682).
+
+Plunderung eines Klosters.
+
+Links eine machtige RenaissanceKreuzkuppelkirche in Flammen. Davor die Anfuhrer der plundernden Truppen, die von den Klosterbridern unter Leitung eines die Monstranz haltenden Priesters um Gnade angefleht werden. Rechts Kriegsvolk und weggetriebenes Vieh, im Hintergrund auf einem Hugel eine zweite brennende Kirche. In der linken Ecke Spuren einer verwischten Signatur.
+
+Leinwand. Hohe 54,5 cm,Breite 53,6 cm.
+
+Sammlung Stroganoff.
+
+## 329 WILLEM ROMEYN (um 1624 Haarlem,Italien nach 1693).
+
+Viehweide.
+
+Sudliche Landschaft mit blauem bewolkten Himmel. Links ein antiker Architekturs Brunnen, an dem ein Hirte aus einer Schale trinkt. Im Vordergrunde eine weife Kuh, umgeben von Schafen,Widdern und Ziegen. Rechts auf einer Anhohe ein Gebaude und Ausblick auf Landschaft mit Hausern.
+
+Sammlung Fairfax Murray.
+
+In der Mitte unten auf einem Stein signiert: WROMEYN.
+
+Ol auf Holz. Hohe 60,7 cm,Breite 54 cm.
+
+## 330 JAN DE BRAY (ca.1627,Haarlem 1697).
+
+Brustbild einer jungen Frau.
+
+Alter hollandischer Rahmen mit Schildpattbelag.
+
+Dreiviertel Vorderansicht. Lockengeringelte Frisur, Perlenkette um den Hals, Spitzen= bluse mit kreuzformiger Brillantbrosche,um die Unterarme ein schwarzer Mantel ge= schlungen. Neutraler Hintergrund.
+
+Sammlung Fairfax Murray.
+
+Ol auf Leinwand. Hohe 71 cm,Breite 35 cm.
+
+## 331 GERRIT ADRIAENSZ BERCKHEYDE (1638,Haarlem,1698).
+
+Innerhalb einer Ringmauer,hinter der in der Ferne eine blaulich verschwimmende Land
+
+Landschaft mit Staffage.
+
+schaft sichtbar, ragen Turme und zerfallende Mauern einer alten Befestigung auf,vor
+der sich Landleute — zwei Frauen und ein Mann —mit Tieren und ihren ausgebreiteten
+
+Waren zu schaffen machen.
+
+Bezeichnet am Rand rechts unten: GERRTT BERCK HEYDE.
+
+Sammlung Murawieff.
+
+Holz. Hohe 37 cm, Breite 49 cm.
+
+Tafel LIII.
+
+## 332,333 JAN DAVIDSZ. DE HEEM (1606 Utrecht,Antwerpen 1683/4).
+
+Zwei Stilleben.
+
+Das eine Bild zeigt auf dem mit einer gruinen Decke belegten schweren Tisch eine Platte mit einem zerlegten Fisch, eine hochfuBige Schale mit Zitronen, Orangen u.a.,links
+
+Austern,rechts rotliches Laub und Trauben,Kirschen,angeschnittene Zitronen.
+
+Auf dem zweiten Bilde links Glasvase mit Nelken,rechts Platte mit Zitrone.
+
+Beide Bilder an der Tischkante bezeichnet.
+
+Gegenstucke.
+
+Leinwand. Hohe je 48 cm, Breite je 60 cm.
+
+Tafel LIV.
+
+## 334 JAN DAVIDSZ.DE HEEM (1606 Utrecht, Antwerpen 1683/4).
+
+Stilleben mit Austern.
+
+Auf einem steinernen Tisch ein groBes schlankes Kelchglas,um das sich eine Platte mit angeschnittenen Zitronen, Austern, Mispeln und andere Fruchte gruppieren. Links ein dunkelrotes gefranstes Tuch.
+
+Sammlung Stroganoff.
+
+Leinwand. Hohe 46 cm,Breite 40 cm.
+
+## 335,336 MELCHIOR D'HONDECOETER (1636Utrecht,Amsterdam 1695).
+
+Zwei Geflugelstilleben. Gegenstucke.
+
+Die beiden Bilder zeigen auf einer beiderseits sichtbaren profilierten Steinplatte eine
+
+Menge aufgeschichteten verschiedensten Geflugels.
+
+Links an der Steinplatte signiert: M De H.
+
+Sammlung Conte Mansi di Lucca.
+
+Leinwand. Hohe je 55,5 cm, Breite je 75 cm.
+
+Tafel LIV.
+
+## 337 NIEDERLANDISCHER MONOGRAMMIST H. C.(17.Jahrhundert).
+
+Bauernstube.
+
+Blick in eine holzgezimmerte Stube, links eine geoffnete Tur, rechts ein grofer Kamin. Um einen kleinen Tisch gruppiert sich eine Gesellschaft von Mannern und Frauen, links am Boden spielende Kinder.
+
+Uber der Tur ein Zettel mit Inschrift und der Signatur: HC (verschlungen) in F.
+
+Nagler,Monogrammisten, Nr.790.
+
+Sammlung Stroganoff, daselbst David Ryckaert IlI (Antwerpen,161261) zugeschrieben. Holz. Hohe 48 cm, Breite 61 cm.
+## 338,339 ABRAHAM GENOELS II (1640 Antwerpen,Paris,Rom,Antwerpen 1723).
+
+Zwei Landschaften.
+
+Rechts bzw. links vorne Hutten,davon Figurenstaffage,auf der andern Bildseite Fern blick auf eine higelige Landschaft mit einer Ansiedelung.
+
+Gegensticke.
+
+Holz.Hohe 19,5 cm,Breite 37 cm.
+
+## 340,341HOLLANDISCH,UM 1700.
+
+Zwei hausliche Szenen.
+
+Erstes Bild: Links auf einem Stein sitzt ein Geiger, der von einem zu der rechts ver sammelten Familiengruppe gehorigen Jungen mit einer Wasserspritze bespritzt wird.
+
+Zweites Bild: In einem links auf eine Parklandschaft geoffneten Raume sitzt eine vors
+
+Landschaftsgrund.
+
+nehm gekleidete Frau am Nahtisch. Ein Herr in Hut und Mantel reicht ihr ein Billett, wahrend eine kleine Zofe sich kniend an seinem Mantel zu schaffen macht. Neben dem Herrn ein Junge.
+
+Ol auf Leinwand. Hohe 35,5 cm,Breite 45,5 cm.
+
+Gegenstuicke.
+
+## 342 FLAMISCH,ENDE 17.JAHRHUNDERT.
+
+Landschaft.
+
+Tiefer Horizont. An einem sumpfig sich ausbreitenden Gewasser rechts eine Muhle mit Weiden, links in einem Boote zwei Fischer mit Netz und Hakenstange. Sammlung Murawieff.
+
+Ol auf Holz. Hohe 26,5 cm,Breite 37 cm.
+
+## 343BALTHAZARPAUL OMMEGANCK(1775,Antwerpen,1826).
+
+Heimkehr von der Weide.
+
+Links eine Furt,aus der ein Hirte die letzten Schafe treibt,wahrend im Vordergrund die reitende Hirtin die Schafe und Rinder dem Gebirge rechts zutreibt.
+
+Sammlung Princ. de Fondi.
+
+Bezeichnet rechts unten:B. P. Ommeganck.
+
+Holz. Hohe 31,5 cm, Breite 42,5 cm.
+
+## 344 GASPAR DUGHET GEN.POUSSIN (1613,Rom,1675).
+
+Im Vordergrunde links eine dichte hohe Baumgruppe, unter der ein Schaferpaar ruht. In der Mitte ein Gewasser mit badendem Vieh und einem am Ufer ruhenden FluBgott, dahinter ein Dorf und ansteigendes Gebirge. Rechts im Vordergrunde ein schreitender
+
+Romische Gebirgslandschaft.
+
+Jungling mit Stock hinter einem gesattelten Saumtier.
+
+Sammlung Fairfax Murray.
+
+Sammlung Duke of Marlborough.
+
+Leinwand. Hohe 98 cm,Breite 136 cm.
+
+Tafel XLIX.
+## 345 GASPAR DUGHET GEN.POUSSIN (1613,Rom,1675).
+
+Starkbewegte Wald und Gebirgslandschaft,links durch eine Baumgruppe,rechts durch steil und felsig ansteigendes Gelande begrenzt. In der Mitte ein Gewasser,vor dem Diana, nackt,mit Jagdspeer und Halbmonddiadem,lagert. An beiden Ufern weitere lagernde oder sich entkleidende Nymphen.
+
+Landschaft mit Nymphen.
+
+Sammlung Marchese di Medici.
+
+Leinwand. Hohe 73 cm,Breite 98 cm.
+
+## 346ENGLAND,18.JAHRHUNDERT.
+
+Bildnis eines Herrn.
+
+Vorderansicht, Kopf leicht nach rechts gewandt. Weife Halsbinde, maigruner Rock. Neutraler Hintergrund.
+
+Leinwand. Oval. Hohe 48 cm, Breite 39,2 cm.
+
+Art des Sir Francis Cotes (etwa 1725,London,1770).
+
+## 347 ENGLAND,ANFANG 18.JAHRHUNDERT.
+
+Frauen bildnis, sog. Maria Mancini.
+
+In grauen und braunlichen Tonen gehalten. Die Dargestellte, als Brustbild, in halber Vorderansicht,den Blick dem Beschauer zugewandt.
+
+Pergament auf Holz. Deckfarben. Hohe 26,6 cm, Breite 21 cm.
+
+## 348ENGLAND,18.JAHRHUNDERT.
+
+Frauenkopf.
+
+Fluchtige Skizze eines mit einem Tuch turbanartig umschlungenen weiblichen Kopfes, die rechte Schulter drapiert, die linke frei. Wangen, Haar und Augenpartie leicht mit Pastell gehoht.
+
+Zeichnung auf weifem Papier. Bleistift und Pastell. Hohe 23,4 cm, Breite 17,8 cm.
+
+## 349,350 ENGLAND,18.JAHRHUNDERT.
+
+Stehen der Kavalier,mit ubergeschlagenen Beinen, den Hut in der Linken haltend, lassig an einen fluchtig angedeuteten hohen Tisch gelehnt.
+
+Schreitender Kavalier mit Gewehr, den Blick zum Beschauer gewandt, den linken Arm weit ausgestreckt und in der Rechten ein Gewehr tragend.
+
+Zwei Studienzeichnungen.
+
+Bleistift,mit Kreide gehoht. Blauliches Papier. Hohe 36 bzw.37 cm, Breite 20 bzw. 26,3cm.
+## VIII. MINIATUREN
+
+VERZEICHNET VON W.R.DEUSCH
+
+Nr.351-412
+## 351 MITTELITALIEN,ENDE 13.JAHRHUNDERT.
+
+Blatt aus einem Missale.
+
+Miniatur eines thronenden Konigs, der unter seinen Fufen einen Drachen zertritt. Zinnoberrotes Gewand, blauer Grund. Links eine aus einem Drachen gebildete Verzierung.
+
+Pergament. BlattgroBe: Hohe 44,5 cm,Breite 30,5 cm.Miniatur:Hohe 8 cm,Breite 5 cm.
+
+## 352BOLOGNA,14.JAHRHUNDERT.
+
+Initiale S mit Darbringung im Tempel.
+
+Tempelarchitektur an einem Altar Darbringung des Kindes.
+
+Pergament. Hohe 14 cm, Breite 14 cm.
+
+## 353 BOLOGNA,14.JAHRHUNDERT.
+
+Doppelblatt aus einem Antiphonar.
+
+Auf der Ruckseite des ersten Blattes Prachtinitiale A,hellrot auf poliertem goldnem
+
+Felde, gebildet aus Blattwerkverschlingungen, Bandwerk und reichem,breitlappigem Akanthusblattwerk, das sich iber den oberen,linken und unteren Blattrand hin zieht. In der Initiale auf blauem Grunde Doppeldarstellung: Oben Joachim und Anna in einem Gemach,das eben Johannes betritt, daneben die Begegnung der jugendlichen Johannes und Christus in der Wuste. Unten Johannes der Taufer in harenem Gewand,angebetet von knienden Klosterfrauen.
+
+Pergament. BlattgroBe: Hohe 52,2 cm,Breite 37 cm. Initiale: Hohe ca.23 cm,Breite ca.20cm.
+
+## 354BOLOGNA,14.JAHRHUNDERT.
+
+Blatt aus einem Antiphonar.
+
+Mit Initiale N, darin Christus in der Mandorla zwischen den anbetenden Maria und Johannes, dem heiligen Dominikus und seinen Bridern erscheinend. Unten zwei Rund bilder mit Szenen aus dem Leben des heiligen Dominikus.
+
+Pergament. Blattgrofe:Hohe 61 cm,Breite 41 cm.Initiale:Hohe 17,5 cm,Breite 13,5 cm.
+
+## 355BOLOGNA,14.JAHRHUNDERT.
+
+Blatt aus einem Antiphonar.
+
+Initiale S, darin Darstellung der Darbringung im Tempel. Breitlappiges Rankenwerk uber drei Kanten der Bildseite.
+
+Pergament. Blattgrofe:Hohe 54,5cm,Breite 37 cm.Initiale:Hohe 18,5 cm,Breite 15 cm.
+
+## 356BOLOGNA,ANFANG 14.JAHRHUNDERT.
+
+Blatt aus einem Missale.
+
+Initiale E auf blauem rechteckigem Felde, darin auf Goldgrund Anbetung der heiligen drei Konige. Links Maria auf dem Thron, in Profil, rechts kniend die Konige mit ihren
+
+Gaben.
+
+Pergament. Blattgrofe: Hohe 49 cm,Breite 33 cm. Initiale: Hohe etwa 9,8 cm,Breite etwa9,4cm.
+## 357-359BOLOGNA,14.JAHRHUNDERT.
+
+Drei Blatt aus einem Antiphonar.
+
+BlattrankenInitialen auf blauem Grunde, die Stamme eingefaBt von weiBen, begleiten den Ornamentierungen.
+
+Initiale D, darin stehender Christus, jugendlicher Typus,in rotem Gewand und grunem Mantel.
+
+Initiale S,darin Steinigung des heiligen Stephanus.
+
+Initiale A,darin Enthauptung zweier Heiliger.
+
+Die drei Blatter gehoren stilistisch wie nach dem Charakter der Schrift zusammen und weisen eine starke Verwandtschaft zu dem Blatte Nr. 360 auf. Charakteristisch fur diese
+
+Gruppe die trockene erdige Farbe sowie die Auflichtung der Fleischtone mit Weif.
+
+Pergament. Blattgrofe:Hohe 53,7 cm,Breite 37 cm. Miniatur:Hohe etwa 11 cm,Breite etwa 9 cm.
+
+## 360BOLOGNA,14.JAHRHUNDERT.
+
+Blatt aus einem Antiphonar.
+
+Miniatur mit der Darstellung von Christus und Maria,thronend in der von zwei Heiligen und sechs Engeln umgebenen Mandorla.Darunter Anbetung durch in weif gekleidete Nonnen,am Rand eine Initiale. Gewander und Heiligenscheine poliertes Gold mit schwarzgezeichneten Falten.
+
+Vielleicht zu der Handschrift der Blatter Nr.357-359 gehorig.
+
+Pergament. Blattgrofe:Hohe 53,7 cm,Breite 37 cm. Miniatur:Hohe etwa 11 cm,Breite etwa 1l cm.
+
+## 361-364 BOLOGNA,14.JAHRHUNDERT.
+
+Vier Blatt aus einem Missale.
+
+- a) Initiale L auf blauem Grund mit weifer Musterung, darin Darstellung der Geburt
+2. Christi und der Verkundung an die Hirten.
+- b) Dop pel da r s te llu ng: Christus erscheint Maria und den Jungern, und Erscheis nung Christi bei seinen Jungern (der unglaubige Thomas?). Blauer, rot eingefaBter Grund mit weifBer Ornamentierung.
+- c) Initiale C auf blauem,rechteckig geschweiftem Felde. Byzantinisches Schema der Himmelfahrt: Unten Maria und die Apostel, oben die Halbfigur des segnenden Christus in der von zwei Engeln getragenen Mandorla.
+- d) Initiale N, AusgieBung des heiligen Geistes. Seltene byzantinische Darstellung: Christus inmitten von vierzehn Jungern (statt zwolf, die den symmetrischen Aufbau nicht gestattet hatten).
+
+Der fluissige Stil der Initialen aus spitzem Akanthusblattwerk wie der Stil der Figuren mit den stark byzantinisierenden Kopftypen, ferner die Farbgebung und die charakte ristische Tonung des Inkarnats lassen auf dieselbe Hand schlieBen, die Ahnlichkeit mit der der Blatter 365 und 366 zeigt.
+
+Tafel LV.
+
+Pergament. BlattgroBe: Hohe 51 cm, Breite 35,5 cm. Initialen: Hohe etwa 9,5 cm, Breite etwa 1l cm.
+## 365 BOLOGNA,14.JAHRHUNDERT.
+
+Blatt aus einem Antiphonar.
+
+Auf blauem Feld und Grund mit weiBem Muster Initiale F mit Darstellung des heiligen Michael, der den zu seinen FuBen liegenden Drachen totet. Im Stil den Darstellungen der Blatter 361-364 nahestehend,wenngleich die Herkunft aus demselben Kodex nicht angenommen werden kann.
+
+Pergament.BlattgroBe:Hohe 528 cm,Breite 36,5 cm.Initiale: Hohe 10,5 cm,Breite 9 cm.
+
+## 366BOLOGNA,14.JAHRHUNDERT.
+
+Blatt aus einem Antiphonar.
+
+Auf blauem Feld und Grund mit weiBem Muster die Initiale D, darin Darstellung des Marientodes.Vgl.Bemerkung bei Nr.365.
+
+Pergament. BlattgroBe: Hohe 52,8 cm,Breite 36,5 cm. Initiale: Hohe etwa 11 cm, Breite etwa 1l cm.
+
+## 367,368SIENA,ZWEITE HALFTEDES 14.JAHRHUNDERTS.
+
+Zwei Blatt aus einem Antiphonar.
+
+Initiale D auf rechteckig eingefaftem, goldgrundigem Felde,aus Rankenwerk ge: bildet und mit dem Rankenwerk der Blattumrahmung, das kleine hermenartige Gebilde, einen Krieger,Kopf,Vogel u. dgl. zeigt,verbunden. Darin Darstellung des Pfingstfestes auf blauem Grunde.
+
+Initiale:Hohe 19,3 cm,Breite 16,1 cm.
+
+Initiale M. Aus reichem Rankenwerk gebildet, das wie bei dem vorhergehenden Blatt drei Blattrander umzieht. In dem linken Teil der Initiale, vor angedeutetem Innenraum, der kniende Verkundigungsengel,im rechten Felde erhoht sitzend, die
+
+Jungfrau.
+
+Initiale:Hohe 14 cm,Breite 11,5 cm.
+
+Pergament. Blattgrofe:Hohe 52 cm,Breite 35,5 cm.
+
+Tafel LVI.
+
+## 369SIENA,14.JAHRHUNDERT.
+
+Blatt aus einem Antiphonar.
+
+Initiale S auf blauem Felde. Im oberen Teil der Initiale auf weinrotem Grunde ein im Bett liegendes schlafendes bekleidetes Paar, dem von rechts Maria in einem blauen Mantel er scheint. Unten auf blauem Grunde Darstellung einer Messe. Rankenwerk langs des linken Blattrandes und in den linken Ecken.
+
+Pergament. Blattgrofe: Hohe 51 cm, Breite 36 cm. Initiale: Hohe etwa 14,5 cm,
+
+Breite 13 cm.
+
+## 370 TOSKANISCH,SPATES 14.JAHRHUNDERT.
+
+Blatt aus einem Mis.sale.
+
+Initiale A mit Darstellung des heiligen Grabes,hinter dem ein Bischof und zwei Monche zelebrieren;im Vordergrunde die Brustbilder zweier Dominikaner. Goldgrund. Rot liches Feld.
+
+Pergament. BlattgroBe: Hohe 54,5 cm,Breite 38 cm.Initiale:Hohe 13 cm,Breite 11,5 cm.
+## 371-374 FLORENZ,UM 1400.
+
+Vier Blatter aus einem Antiphonar.
+
+Initialen auf blauem Felde,Akanthusblattwerk mit weit ausschweifenden Enden. Fol.39r:Initiale N mit Darstellung eines Bischofs, der einer links knienden Gestalt
+
+den Teufel austreibt.
+
+Initiale: Hohe 14 cm,Breite 12,5 cm.
+
+Fol. 73 r: I nitia le N mit Darstellung eines stehenden Heiligen mit Strick und Buch vor rotlich quadriertem Hintergrund.
+
+Initiale:Hohe 13 cm,Breite 12 cm.
+
+Fol. 93r:Initiale D mit Darstellung der Enthauptung der heiligen Lucia vor
+
+Architektur.
+
+Initiale:Hohe 13 cm,Breite 13,5 cm.
+
+Fol.106 r: Initiale Q mit Darstellung der Bekehrung des Saulus.
+
+Initiale:Hohe 15 cm,Breite 15 cm.
+
+Pergament. BlattgroBe:Hohe 53 cm,Breite 38,5 cm.
+
+Tafel LVI.
+
+## 375 SCHULE VON SAN MARCO (Florenz,1. Halfte 15. Jahrhundert).
+
+Blatt aus einem Missale.
+
+Initiale S auf rechteckigem goldnem Felde. Darin auf blauem Grund Darstellung der AusgieBung des heiligen Geistes: Oben die Taube,im unteren Feld Maria im Kreis von vier Jungern.
+
+Pergament. Blattgrofe:Hohe 53,5 cm,Breite 37 cm.Initiale:Hohe 20 cm, Breite 16 cm. Tafel LVI.
+
+## 376FLORENZ,15.JAHRHUNDERT.
+
+Blatt aus einem Missale.
+
+Reich von lappigem Rankenwerk eingefafte Initiale G auf goldnem Felde mit blauem Grund, darin die Halbfigur des Paulus mit Schwert und auf der Linken emporgehobenem
+
+Buche.
+
+Pergament. BlattgroBe: Hohe 59,5 cm,Breite 39 cm.Initiale: Hohe 16 cm, Breite 15 cm.
+
+## 377-380 UMBRIEN,ANFANG15.JAHRHUNDERT.
+
+Vier Blatt aus einem Antiphonar.
+
+Initialen aus spitzblattrigem Akanthus, reiches Rankenwerk an dem linken Blattrand. Fol. 112 r:Initiale A,hellrot auf blauem,goldgerandertem Felde.Darin Auferstehung Christi. Christus in blauem Mantel, mit Wundmalen und Siegesfahne,setzt den linken FuB auf den Rand des Sarkophags,vor dem ein Krieger schlaft. Weinroter Grund.
+
+Fol. 183 r: I n itiale D mit Darstellung des Pfingstfestes. Unten die Apostel, drei Halb= figuren sichtbar,im ubrigen Heiligenscheine. Oben sturzt aus blauem Himmelsbogen die weife Taube zwischen roten Strahlen herab.
+
+Fol. 170 r: Initiale P mit Himmelfahrt Christi. Christus in ganzer Gestalt,in karmin= rotem Gewand und blauem Mantel,umgeben von Goldstrahlen, schwebt in die Hohe, wahrend unten die Brustbilder einiger Apostel sichtbar sind.
+Fol. 184r:Initiale U mit Himmelfahrt Mariae. Die in weife Gewander gekleidete
+
+Pergament. BlattgroBe: Hohe 55 cm,Breite 44 cm.Initialen:Hohe etwa 15 cm,Breite 11-13cm.
+
+kniende Gestalt wird auf einer Wolke von Engeln nach der Hohe getragen.
+
+Tafel LVI.
+
+## 381 SIENA,UM 1450.
+
+Initiale A mit zwei ritterlichen Heiligen.
+
+heilige vor blauem Hintergrund.
+
+Rotliche Initiale mit weiBer Ornamentierung auf goldnem Felde. Zwei stehende Ritter:
+
+Pergament. Hohe 8,9 cm,Breite 8,4 cm.
+
+## 382 ART DES MATTEO DI GIOVANNI (etwa 1435 Borgo San Sepolcro, Siena 1495).
+
+Auf goldnem, poliertem Feld die innen goldgerandete Initiale in Rot und Blau. Darin die auf einem Beine kniende Gestalt Davids mit Turban und Harfe vor Landschafts hintergrund.
+
+Initiale D mit harfespielendem David.
+
+Pergament. Hohe 13,9 cm, Breite 13,6 cm.
+
+Tafel LV.
+
+## 383ATAVANTEDIGABRIELLO DIVANTEDIFRANCESCO DIBARTOLO
+
+## (1452 Castelfiorentino,Florenz etwa 1517).
+
+Initiale O mit Gnadenstuhl.
+
+In einer Flammenmandorla vor blaulichem Hintergrund thront Gottvater in rotem Gewand und blauem Mantel und halt mit beiden ausgestreckten Armen den Kruzifixus. Initiale aus goldnem Stamm mit Akanthusblattwerk.
+
+Pergament. Hohe 12,5 cm,Breite 10 cm.
+
+## 384 NORDITALIEN (ALPENLANDISCH),ANFANG 15. JAHRHUNDERT.
+
+Kreuzigung.
+
+Rechteckig umrahmtes Bildfeld mit ornamentalen und kalligraphischen Ecken# und Mitten Verzierungen. Schmale felsige Landschaft, blauer Hintergrund. Neben dem Kreuz Maria und Johannes mit gefalteten Handen in Schmerzgebarde.
+
+Pergament. BlattgroBe:Hohe 32 cm,Breite 22 cm.Bildgrofe:Hohe 23,5 cm,Breite 17 cm.
+
+## 385 GIROLAMO DA CREMONA (tatig etwa 1467-1483).
+
+Initiale D mit Wundererscheinung.
+
+Auf goldnem Felde die aus spitzem Blatt# und Rollwerk gebildete Initiale, darin in Landschaft Wundererscheinung eines Propheten und eines posauneblasenden Engels. Pergament. Hohe 18 cm, Breite 18 cm.
+
+Tafel LV.
+司
+
+## 386 CREMONA,2. HALFTE 15. JAHRHUNDERT.
+
+Initiale S mit Paulus.
+
+Goldnes,ornamentiertes Feld. Rote Initiale mit grunen und blauen Pflanzenverzierungen. Halbfigur des Heiilgen vor Landschaft.
+
+Pergament. Hohe 8,1 cm, Breite 1l cm.
+
+## 387-397 MODENA,2.HALFTE 15.JAHRHUNDERT.
+
+Elf Blatt aus einem Missale.
+
+Elf Initialen um ein blafgoldnes Gerust aus reichem Blatt und Rankenwerk, haupt sachlich Akanthus,und Fruchtbuscheln in Weinrot,Karmin, Grun,Blau gebildet,ver ziert mit breitlappigem Akanthus. Goldnes, poliertes,braun gekantetes Feld.
+
+Darstellungen meist in einer Landschaft mit grunem Erdboden und blauem gekraus selten Meer.
+
+Fol.iv:Initiale A.Stehender Heiliger,von einem knienden Mann angebetet.
+
+Fol. 13r: Initiale D. Petri Fischzug. Petrus und Simon im Boot, das Netz hoch#
+
+ziehend, am Ufer Christus.
+
+Fol.34r:Initiale S.Zwei stehende Manner im Gesprach. Spruchband.
+
+Fol.43r:Initiale D. Anbetung der Hostie durch einen Priester und einen knienden Mann.
+
+Fol.70r. Initiale I. In rotgetafeltem Gemach ein Heiliger (Christus?), einem stehen
+
+Fol. 54v: Initiale D. Christus zwischen zwei Jungern.
+
+den Mann und einer knienden Nonne predigend.
+
+Fol. 81 r:Initiale I. Heiliger im Gesprach mit einem Monche in roter Kutte.
+
+Fol. 105r: Initiale D. Auferweckung eines Toten.
+
+knienden gekronten Frau.
+
+Fol. 115 r: Initia le O. In rotgetafeltem Gemach Erscheinung eines Heiligen vor einer
+
+Fol.120v:Initiale I. In rotgetafeltem Gemach links thronender Konig,rechts ein von einem stehenden Mann empfohlener kniender Jungling.
+
+Pergament. BlattgroBe: Hohe 59 cm, Breite 45,5 cm. Initialen: Hohe etwa 17 cm,
+
+Fol. 132r:Initiale O. Christus zwischen zwei Jungern.
+
+Breite etwa 17 cm.
+
+Tafel LV.
+
+## 398-400 MODENA,2.HALFTE 15.JAHRHUNDERT.
+
+Drei Initialen.
+
+Initialen auf rechteckig goldnem,poliertem Felde,braun gekantet,in kraftigen roten, grunen und blauen Farben aus Blatt= und Fruchtwerk gebildet.
+
+von links ein vierter mit roter Mitze tritt.
+
+I nitiale A. Darin Darstellung von drei an einem Tisch sitzenden Mannern, zu denen
+
+Initiale D. Darin Darstellung der Berufung des Petrus.
+
+Die drei ausgeschnittenen Initialen gehorten aller Wahrscheinlichkeit nach zu derselben
+
+I ni tiale R. Segnender Heiliger vor zwei knienden mannlichen Gestalten.
+
+Handschrift wie die Blatter Nr.387-397, stammen jedenfalls von derselben Hand.
+
+Pergament. GroBe der Initialen: Hohe etwa 17 cm, Breite etwa 17 cm.
+## 401MODENA,UM 1480.
+
+Initiale H mit thronendem Christus,Petrus und Paulus. Initiale aus ornamentalem Stamm mit breitlappigem Rankenwerk auf goldnem Felde. Innen vor blauem Hintergrund und einem ausgespannten grunen Tuch der thronende Christus zwischen den stehenden Petrus und Paulus. Pergament.Hohe 17,9 cm,Breite 14,5 cm.
+
+## 402LOMBARDEI,SPATES 15.JAHRHUNDERT.
+
+Auf goldnem Felde die Initiale mit rotem Stamm und blauen und grinen Blattorna menten, darin auf blauem Grunde in Profil Brustbild eines Bischofs in grellgrunem
+
+Initiale B mit Bischof.
+
+Mantel und ebensolcher Mitra.
+
+Pergament. Hohe 7,8 cm,Breite 7 cm.
+
+## 403-411FERRARA,ENDE 15.JAHRHUNDERT.
+
+Die ausgeschnittenen Miniaturen stellen Szenen aus dem Leben Christi dar: Anbetung
+
+Neun Miniaturen aus einem Livre d'Heures.
+
+der Konige, Christus im Tempel, Auferweckung des Lazarus, Blindenheilung, Abend
+
+Illuminierungen dem Marmita oder Maineri zugeschrieben werden.
+
+mahl, Christus am Olberg,Verrat des Judas,Kreuzigung,Himmelfahrt Christi. Von derselben Hand wie das Missale des Kardinals Domenico della Rovere, dessen
+
+Pergament. Hohe 7 cm,Breite 7,5 cm.
+
+## 412 ITALIEN,18.JAHRHUNDERT.
+
+Imago S. Libory.
+
+In rechteckigem Goldrahmen Brustbild des Heiligen in Ornat. Pergament. Hohe 94 cm, Breite 6,3 cm.
+TAFELN

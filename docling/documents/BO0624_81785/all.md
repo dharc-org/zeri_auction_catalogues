@@ -1,0 +1,1247 @@
+## CONDIZIONI DELLA VENDITA
+
+La vendita si effettuera per contanti.
+
+Gli acquirenti pagheranno il solo 5 % in piu sul prezzo di aggiudicazione.
+
+- I lotti potranno essere riuniti o frazionati a beneplacito del Direttore dell' asta.
+
+I lotti aggiudicati dovrano essere ritirati il giorno che segue quello dell' asta.
+
+- In caso di contestazione su due incanti, l' oggetto verra immediatamente rimesso in vendita.
+
+Proclamata I'esposizione ha agia a messo il pubblico in grado di valutare lo stato
+
+- e la natura degli oggetti.
+
+Si accettano commissioni per quegli amatori che non possono assistere alla vendita e si accetta ancora di fornire l' imballaggio e provvedere alla spedizione degli oggetti acquistati.
+
+Per informazioni,cataloghi, commissioni, rivolgersi alla Casa di vendite
+
+A.RAMBALDI
+
+Bologna,I Via Castiglione
+<!-- image -->
+
+## PRIMO GIORNO DI VENDITA
+
+Lunedi 31 Maggio 1909,alle ore 14 precise
+
+- 1.Due Miscellanee rappresentanti frutta ed oggetti diversi; pitture ad
+
+Alt.,m.0,75×0,62.
+
+- olio su tela con cornice.
+- 2.Due vasi impero di porcellana decorata a fiori con dorature.
+
+Alt,m.0,40.
+
+3. Quattro piccoli paesaggi; pitture ad olio su tela con cornice.
+
+## SCUOLA VENEZIANA
+
+- 4.La Carita; pittura ad olio su tela con cornice.
+- 5.Paesaggio con figure; pittura ad olio su tela.
+
+## SCUOLA GENOVESE
+
+- 6.Due mendicanti; pitture ad olio su tela con cornice.
+
+Alt.,m.1,50X0.86.
+
+Alt.,m.0,71×0,56.
+
+Alt.,m.0,50X0,70.
+## SCUOLA VENETA
+
+7. Ecce Homo; pitura ad olio su tela con cornice.
+8. Tre figurine di bronzo Luigi XVI.
+
+## SCUOLAFIAMMINGA
+
+9. Scena rappresentante un mercato; pittura ad olio su tela con cornice.
+
+Alt.,m.0,48X0,60.
+
+## SCUOLA BOLOGNESE
+
+- 10.Panneau di Putti; pittura ad olio su tela con cornice.
+
+Alt,m.0,26X0,76.
+
+## SCUOLA TOSCANA
+
+11. Il giudizio di Salomone; pittura ad olio su tela con cornice.
+
+Alt.,m.0,92X1,66.
+
+- 12.La Cena degli Apostoli; copia antica della Cena di Leonardo da
+
+Alt.,m.0,46&gt;0,68.
+
+- Vinci; pittura ad olio su tela con cornice.
+13. Sacra famiglia; copia antica di Raffaello; pittura ad olio su tavola con cornice dorata.
+
+Alt.,m.1,—X0,79.
+
+14. Tavolo rotondo a tre piedi con marmo Portovenere.
+15. Grande tauolo rotondo a tre piedi in forma di delfni con doratura e piano a mosaico di marmo.
+16. Due quadretti rappresentanti soggetti biblici; chiaroscuro ad olio su tela con cornice.
+
+Alt,m.0,24×0,28.
+
+Alt.,m.1,24X0,98.
+17. Lotto di 5 quadretti ad olio su tela; soggetti diversi.
+18. Lotto di 4 quadri ad olio su tela in cornice; soggetti diversi.
+
+## SCUOLA NAPOLETANA
+
+19. Paesaggi con figure; pitture ad olio su tela con cornice.
+
+Alt.,m.0,95×1,44.
+
+20. Una Martire; pittura ad olio su tela con cornice.
+
+Alt.,m.1,16X1,40.
+
+21. Due Vasi impero di porcellana con ornati, fiori e dorature
+
+Alt., m. 0,40
+
+- 22.Piccolo stipo d’ ebano con ornati in argento
+23. Scrivania Impero di noce con sovrapposto piccolo scaffale per
+- libri, ornamenti in legno scolpito e dorato.
+24. Inginocchiatoio con intagli e stemma; e sgabello con intagli.coperto di velluto.
+25. Secretaire Impero intarsiato e piano di marmo.
+26. Lotto di 5 quadretti dipinti ad olio su rame, soggetti sacri, belle cornici di bronzo
+27. Copia della Santa Cecilia di Raffaello dipinta ad acquarello, cornice d'ebano
+
+## CARRACCI LODOVICO
+
+28. S. Giovanni Battista al fonte; pittura ad olio su tela con
+2. cornice.
+
+Alt.,m.0,50X0,36.
+
+Alt.,m.0,45X0,35
+- 29.Seruizio da tavola d' argento in astuccio, composto di: 12 coltelli, 12 forchette,12 cucchiai;1 forchettone,1 coltellaccio,1 ramajolo, 1 molletta da zucchero, 3 salierini con vetro, 12 cucchiaini da caffe,12 coltellini,6 cucchiaini per conserve,6 sottobottiglie,12
+
+Peso netto gr. 4250
+
+- sottobicchieri.
+30. Astuccio contenente una collana ed orecchini di vetri di scavo e
+- legatura in oro.
+- 31.Reliquiario ovale con soggetto sacro d avorio e cornice d argento smaltato.
+32. Pettine Impero con parti d’ oro e cammei.
+33. Braccialetto oro smaltato camaieu con orologio, in astuccio.
+
+## SALVATORE ROSA
+
+(Scuola di)
+
+34. Due battaglie; pitture ad olio su tela con cornice.
+
+Alt.,m.0,500,60
+
+## PANNINI
+
+(Scuola di)
+
+35. Soggeti mitologici con architettura; pitture ad olio su tela
+2. con cornice
+
+Alt.,m.0,97X0,70
+
+## SCUOLA VENEZIANA
+
+36. La cena degli apostoli; pittura ad olio su tela con cornice.
+
+Alt.m.0,70X1,00
+
+## CARLONE GIOVANNI
+
+- 37.Rebecca al pozzo; bella pittura ad olio su tela in cornice dorata sagomata
+## CARLONE GIOVANNI
+
+38. Giuseppe che spiega i sogni; altra bella pittura ad olio su tela in
+
+Alt, m.1,55X1,95.
+
+- cornice dorata sagomata.
+
+## SIRANI ELISABETTA
+
+39. Leda; bella mezza figura dipinta ad olio su tela in cornice dorata.
+
+Alt.,m.0,90X0,85.
+
+## SCUOLA VENEZIANA
+
+40. Ritratto di A. Doria; pittura pregevole su lavagna in cornice.
+
+(V. Illustrazione Tav.Xlll)
+
+## FIASELLA DOMENICO
+
+(1589-1669)
+
+41. Madonna con S. Francesco; bella pittura ad olio su tela con cornice.
+
+Alt.,m.0,93&gt;1,20
+
+Alt,m.0,42&gt;0,33,
+
+## FIASELLA DOMENICO
+
+(1589-1669)
+
+42. Madonna con Santi; altra bella pittura ad olio su tela in cornice. Alt,m.0,93X1,20.
+43. Bacino rotondo d’ argento,parti incise a ornati.
+44. Grande caffettiera argento Impero a tre piedi.
+4. diamanti.
+
+Grammi 1483,
+
+Grammi 1255.
+
+45. Due anelli; uno a cuore con rubino Siam e rose, e l'altro con
+2. 46.Medaglione d’ argento con diamanti.
+- 47.Broche a 5 rubini orientali con rose.
+
+## SCUOLA BOLOGNESE
+
+48. Risurrezione di G. C.; frammento in forma di aguglia;pittura ad olio su tavola. XIV Sec.
+
+Alt.,m.0,55&gt;0,42.
+
+49. Redentore in trono;pittura ad olio su tavola a fondo d’ oro, XIV
+2. Sec., assai interessante.
+
+## SCUOLA VENEZIANA
+
+50. XCadonna in trono con Santi; pittura ad olio su tavola con cornice gotica.
+
+(V.Illustrazione Tav.XIX)
+
+Alt,m.0,70&gt;0,50.
+
+Alt.,m.0,850,55.
+
+51. Grande stipo incrostato d' avorio con graffti a figure, maniglie di bronzo.
+
+Alt., m.0,60×1,10.
+
+52. Reliquiario in forma di tempietto con ornati repusse
+2. argento e pietre dure.
+53. Crocifisso d’avorio.
+54. Seruizio da toilette di argento in astuccio composto di 15 pezzi compreso i vetri e lo specchio.
+55. Due candelabri d’ argento a 2 candele ciascuno.
+
+## SCUOLA VENEZIANA
+
+56. La circoncisione di N. S.;pittura ad olio su tela in cornice sagomata
+
+Grammi 1456.
+
+Grammi 1668.
+
+Alt,m.0,52×0,40
+## SEBASTIANO DEL PIOMBO
+
+(Scuola di)
+
+57. Gesu fagellato alla colonna; pittura ad olio su tavola.
+
+Alt,m.0,57×0,42,
+
+## FILIPPO LIPPI
+
+58. Madonna con bambino; pittura ad olio su tavola, fondo oro, molto
+2. restaurata.
+
+Alt.,m.0,700,45.
+
+## PALMA JACOPO
+
+59. Sacra Famiglia; pittura ad olio su tavola in cornice.
+
+Alt.,m.0,67×1,—
+
+## ANTONIO DA CARPENA detto il Carpenino
+
+60. L' Annunciazione; pittura ad olio su tavola in cornice policromata;
+
+Alt.,m.1,95×1,10.
+
+- opera assai pregevole.
+
+(V.Illustrazione Tav.Xll)
+
+## TURA COSIMO detto Cosme
+
+(Scuola di)
+
+61. Madonna col Bambino; pittura ad olio su tavola, di molto pregio.
+
+Alt.,m.0,54&gt;0,39.
+
+## SCUOLA FIORENTINA
+
+62. Madonna con santi; pittura ad olio su tavola con cornice dorata.
+
+Alt.,m.0,980,77
+
+63. Sacra Famiglia; alto rilievo in argento repusse; XVll Sec.
+
+Alt.,m.0,320,26.
+- 64.Anello a cuore in brillanti.
+65. Chatelain rubini orientali e orologio.
+66. Paio buccole a pendenti, perle finissime.
+67. Xadonna bizantina fondo oro; pittura ad olio su tavola.
+
+Alt.,m.0,87X0,95.
+
+Alt,m.0.87X0,95.
+
+## IGNOTO
+
+68. La Deposizione; pittura ad olio su tavola.
+
+## SCUOLA TOSCANA
+
+69. S. Anna e S. Elisabetta; pittura ad olio su tavola; XIV Sec.
+
+Alt,m.0,90X0,57.
+
+## SCUOLA UMBRA
+
+- 70 Quattro panneaux rappresentanti S. Giacomo e S. Domenico; S. Giacomo e S. Agostino; pitture ad olio su tavola del XIV Sec.
+- cornici in stile gotico.
+
+(V.Illustrazione Tau.XX)
+
+## SCUOLA TEDESCA
+
+71. La crocifissione; pittura ad olio su tavola.
+
+## PARMIGIANINO
+
+(Scuola del)
+
+72. Sacra famiglia; pittura ad olio su tela in cornice.
+
+Alt,m.1,050,78.
+
+Alt.,m.0,85X0,70.
+
+Alt., m. 1,10×1,72.-
+
+Alt,m.0,380,58.
+
+## SCUOLAVENEZIANA
+
+73. Ecce Homo; pittura ad olio su tela in cornice.
+## IGNOTO
+
+74. Gesu Cristo che porta la croce; pittura ad olio su tela in cornice.
+
+Alt.,m.0,94×1,20.
+
+- 75.Due poltroncine noce scolpite, coperte con ricamo di seta.
+76. Lotto di 4 poltroncine mogano scolpite, coperte in damasco rosso.
+77. Lotto di 6 sedie Impero con cuscini di damasco rosso.
+78. Lotto di 1 sofa e8 poltroncine noce scolpite, coperte di stoffa
+- a fiorami.
+79. Grande lampadario di bronzo a 6 bracci con cristalli bianchi ed
+- a colori.
+- 80.Vetrina intarsiata di ornati in metallo (Boulle).
+- figurate - Epoca Impero -
+82. Cassettone scolpito con intarsio.
+83. Letto Impero di noce con ornamenti di bronzo dorato e due tavo-
+- lini da notte con piano di marmo.
+84. Tre quadri a soggetti sacri in cornice.
+
+## SCUOLA TEDESCA
+
+85. Due studi di testa; pittura ad olio su tavola in cornice.
+
+## SCUOLA FERRARESE
+
+86. Ritratto di Lodouico Ariosto;pittura ad olio su tela
+
+Alt.,m.0,570,42.
+87. Due quadri a soggetti diversi
+88. Quatto quadri a soggetti diversi.
+89. Tre quadri a soggetti diversi
+90. Tre quadri a soggetti diversi
+91. Due studi di testa; pitture ad olio su tavola.
+92. Tre quadri a soggetti diversi.
+93. Due quadri a soggetti sacri.
+94. Due ritratti d’ uomo; pitture ad olio su tavola.
+95. Due studi di testa; pitture ad olio su tela:
+96. Quattro quadretti a soggetti diversi.
+
+## SCUOLA VENEZIANA
+
+97. L' adorazione; pittura ad olio su tela in cornice.
+
+## SCUOLA BOLOGNESE
+
+98. Madonna con bambino; pittura ad olio su tavola in cornice.
+
+Alt,m.0,57×0,46.
+
+99. Cadonna della tenda; copia antica di Raffaello; pittura ad olio
+
+Alt.,m.0,660,50.
+
+Alt,m.096X0,77.
+
+- su tavola in cornice dorata.
+
+## GIACOMO FRANCIA
+
+100. Sposalizio di S. Catterina; bella composizione dipinta ad olio su tavola in cornice dorata.
+
+(V.Illustrazione Tau.XV)
+
+Alt,0,88X0,62.
+| 101. Merletto punto di Milano.                              |                                                             | MI.3,10.   |                                                             |
+|-------------------------------------------------------------|-------------------------------------------------------------|------------|-------------------------------------------------------------|
+| 102.Merletto Rococo.                                        |                                                             |            |                                                             |
+|                                                             | 103. Merletto punto di Venezia.                             | MI.3,15.   |                                                             |
+| 104. Merletto punto di Milano.                              |                                                             | MI.3,35.   |                                                             |
+| 105. Merletto punto Raffaello.                              |                                                             | MI.3,75.   |                                                             |
+| 106. Merletto punto di Milano.                              |                                                             | MI. 3,——.  |                                                             |
+| 107. Merletto punto di Milano.                              |                                                             | MI.3,40.   |                                                             |
+| 108. Merletto punto di Milano.                              |                                                             | M1.3,15.   |                                                             |
+| 109. Merletto Fiandra.                                      |                                                             | MI.3,05.   |                                                             |
+| 110. Merletto punto di Milano.                              |                                                             | MI.3,——.   |                                                             |
+| 111. Merletto punto di Milano.                              |                                                             | MI.4,40.   |                                                             |
+| 112. Due merletti veneziani; uno con 5 stemmi. altro basso. | 112. Due merletti veneziani; uno con 5 stemmi. altro basso. | MI.3,12.   | 112. Due merletti veneziani; uno con 5 stemmi. altro basso. |
+<!-- image -->
+
+## SECONDO GIORNO DI VENDITA
+
+Martedi 2 Giugno 1909,alle ore 14 precise
+
+113. Lotto di 4 cestine maiolica bianca Aldrovandi, con sottoposto
+2. piatto.
+114. S. Elena; pittura ad olio su tavola in cornice intagliata e dorata.
+115. Soggetto incerto; pittura ad olio su tela in cornice dorata.
+116. Due studi di testa; pittura ad olio su tavola.
+117. Due vasi ed una fruttiera di maiolica antica.
+118. Due quadreti, uno su tela rappresentante il Battesimo di G. C., ' altro su rame rappresentante S. Elisabetta.
+119. Paesaggio con figure; pittura ad olio su tela.
+
+## JACOPO DA PONTE
+
+(Scuola di)
+
+120. La fagellazione; pittura ad olio su tela.
+
+Alt.,m.0,63X0,93.
+121. La Nativita;pittura ad olio su cartone.
+
+## SCUOLA TEDESCA
+
+122. La Deposizione; pittura ad olio su tavola in cornice.
+
+Alt.,m.0,760,64.
+
+123. Tre quadretti soggetti diversi;pitture ad olio su tela.
+
+## SCUOLA VENEZIANA
+
+124. Crocifisso; pittura ad olio su tavola in cornice.
+
+## SCUOLA BOLOGNESE
+
+125. La fuga in Egilto; pittura ad olio su tela.
+
+Alt,m.0,440,29.
+
+Alt,m.0,460,35.
+
+126. La Caddalena; pittura ad olio su tavola in cornice.
+
+Alt,m.0,31&gt;0,41.
+
+127. Bagno di Ninfe e Soggetto mitologico; due quadri dipinti ad olio su rame.
+
+Alt.,m.0,28X0,35.
+
+## SCUOLA VENEZIANA
+
+128. La fagellazione; pittura ad olio su tela in cornice dorata.
+
+Alt.,m.0,68X0,57.
+
+- 129.Ritratto d’ Uomo; pittura ad olio su tela in cornice.
+
+Alt,m.0,73X0,55.
+
+130. Soggetto mitologico; pittura ad olio su tela in cornice.
+
+Alt,m.0,47X0,57.
+
+Alt,m.0,440,58.
+## SCUOLA BOLOGNESE
+
+131. Lot con le figlie; pittura ad olio su tela in cornice dorata.
+
+Alt.,m.0,32×0,41.
+
+132. L' Annunciazione; copia dipinta ad olio su tavola.
+
+Alt,m.0,36X0,51.
+
+- 133 Ritratto di Frate; pittura ad olio su tela in cornice.
+
+Alt,m.0,67×0,52.
+
+- 134.S. Ambrogio con angeli e serafini; pittura ad acquerello in cornice d' ebano. Alt,m.0,55X0,39.
+
+## PANNINI GIOVANNI
+
+135. Due bellssime architetture con figure; piture ad olio su tela in
+2. cornice dorata.
+
+(V.Illustrazione Tao. IX)
+
+Alt,m1,-X1,45.
+
+136. Due braccialetti con malachite rilegati in oro fino.
+2. 137:Brocbe topazio contornato in diamanti.
+138. Flacon in cristallo ed oro fino con rosa.
+139. Medaglione con turchesi rilegato in oro.
+
+## SCUOLA FRANCESE
+
+- 140 Ritratto di giouane Principessa; pittura ad olio con tela in cornice
+- dorata.
+
+(V.Illustrazione Tav.V.)
+
+Alt.,m.0,75X0,50.
+
+141. Astuccio con 26 bottoni pietra dura e scatola rotonda nel centro di pietra dura rilegata in argento.
+142. Scatola rettangolare in metallo dorato con smalto e figura.
+143. Quadretto in bassorilievo d' avorio con fondo vetro bleu e cornice d' argento.
+144. N.4 Cucchiai d’argento di diverse forme.
+
+## CALIARI CARLO
+
+145. Il trionfo della bellezza; pittura ad olio su tela di molto pregio
+2. in cornice dorata.
+
+(V..Illustrazione Tav.VIll)
+
+146. Ritratino di guerriero spagnolo; dipinto ad olio,in cornice di
+2. bronzo e corallo.
+147. Astuccio contenente 24 bottoni in agata e diaspro.
+148. Piccola coppa porcellana con montatura argento dorato filogranato.
+149. Astuccio argento con coltello e forchetta.
+
+## JACOBELLO DEL FIORE
+
+(attribuito a)
+
+150. Madonna col Bambino; pittura ad olio su tavola fondo oro in
+2. cornice stile gotico.
+3. (V.Illustrazione Tao.XVIlI)
+151. Astuccio d'osso con necessaire e nell'interno.
+152. Seccbiello argento dorato; lavorazione russa.
+
+Alt.,m.0,74X0,52.
+
+Peso gr. 800.
+
+Alt,m.2,25×1,70.
+
+Peso gr.321.
+## Oggetti Etruschi di scavo
+
+- 153.Staffle di bronzo.
+154. Lotto di 136 pezzi diversi d' istrumenti chirurgici applicati su tre cartoni.
+155. Lotto di 60 pesi di bronzo diversi per bilancia applicati su cartone.
+156. Grande vaso di terra cotta con figure
+- 157.Piede di ara di bronzo.
+158. Lotto di 100 pezzi di fbbie diverse di bronzo applicati su due
+- cartoni
+- 159.Lampada di bronzo.
+160. Lotto di tre strigilli di bronzo
+
+## BRUGHEL
+
+(scuola di)
+
+- 16l. Soggetto mitologico; pittura ad olio su rame in cornice.
+
+Alt,m.0,39&gt;0,53.
+
+- 162.La Maddalena;pittura ad olio su rame in cornice.
+
+Alt,m.0,390,32.
+
+163. Diana al bagno; soggetto mitologico, pitture ad olio su tela.
+
+Alt.,m.0,72&gt;0,59.
+
+164. Madonna con santi; pittura ad olio su tela in cornice
+
+Alt.,m.0,40X0,48.
+
+165. S. Cecilia; chiaroscuro dipinto ad olio su tela
+
+Alt,m.0,45X0,31.
+## CASTELLO BERNARDO
+
+## genovese
+
+166. La sacra famiglia e S. Giouanni; pittura ad olio su tela in cornice. Alt.,m.0,97X0,82.
+
+## SCUOLA TEDESCA
+
+167. S. Girolamo; pittura ad olio su tavola in cornice
+
+Alt,m.0,90X0,70.
+
+## IGNOTO
+
+168. Gesu e la Maddalena; Noli me tangere; pittura ad olio su tavola in cornice dorata Alt,m.0,99X0,75.
+2. 169.Nazzareno;bassorilievo in terra cotta proveniente da Monte
+
+Alt,m.0,47×0,32.
+
+- Pulciano
+
+## BARNABA DA MODENA
+
+170. Lo sposalizio di S. Caterina; bella composizione dipinta ad olio
+2. su tavola in cornice stile gotico.
+
+(V.Illustrazione Tav.XVI)
+
+171. La Pieta; piccola pittura ad olio su rame in cornice barocca.
+
+## Oggetti Etruschi di scavo
+
+172. Grande vaso di terra cotta con
+2. hgura.
+173. Lotto di 134 chiodi diversi di bronzo applicati su due cartoni,
+174. Lotto di 25 anelli diversi di bronzo.
+175. Lotto di 110 pezzi diversi di spole da reti e aghi in bronzo
+6. applicati su due cartoni.
+
+Alt.,m.0,730,50.
+176. Grande scodella di rame.
+177. Vaso di bronzo con manico.
+178. Grande cista cineraria di bronzo.
+4. due cartoni.
+
+Diam.,m.0,45.
+
+Alt.,m.0,40.
+
+179. Lotto di 200 frammenti di vetro lavorato e smaltato applicati su
+2. 180.Paio bottoni lapislazzoli per camicia ed 1l poggia posate d argento.
+
+Grammi 205.
+
+181. Pendentif argento con diamanti e tre perle.
+
+## SCUOLA ROMANA
+
+182. Madonna con Bambino e Santo; pittura ad olio su tavola in
+
+Alt.,m.0,95×0,80,
+
+- cornice dorata.
+
+## SCUOLA FIORENTINA
+
+183. Madonna con bambino; pittura ad olio su tavola in cornice.
+
+Alt.,m.0.95X0.70.
+
+184. La Pittura; piccola allegoria dipinta su seta in cornice dorata.
+185. Buon pasto; piccolo quadretto dipinto ad olio su tavola in cornice
+3. dorata.
+186. Gesu bambino e la Pieta; due piccoli quadretti dipinti ad olio
+5. su rame.
+187. Due placchette bronzo in cornice di metallo e piccola miniatura
+7. in cornice rappresentante Beatrice Cenci.
+188. Ritratto di Vecchio; pittura ad olio su tela in cornice dorata. Alt.,m.0,80X0,60.
+189. Due piccoli quadreti dipinti ad olio su tavola in cornice rappresentanti
+3. uno Bacco, I' altro un Paesaggio.
+
+## SPINELLO ARETINO
+
+190. La crocifissione; bella composizione dipinta ad olio su tavola in
+2. cornice dorata.
+
+(V.Illustrazione Tau.VI)
+
+- 191.Puttino d’ argento dorato entro coppa d’ agata.
+
+## Oggetti Etruschi di scavo
+
+192. Grande lampada di bronzo a 6 becchi
+193. Grande Vaso Greco di Micene in terracotta decorato con diverse figure.
+
+Alt,m.0·640,58
+
+Alt.,m.0,38.
+
+194. Lotto di 134 chiavi diverse di bronzo applicate su tre cartoni.
+2. 195.Piccola ansa di bronzo con due testine di levriero.
+196. Lotto di 19 armille diverse di bronzo.
+197. Lotto di 40 piccoli animali diversi di bronzo.
+198. Piccola pendola d’ argento in forma di due aquile entro astuccio.
+199. Bustino in cameo entro vetrinetta.
+200. Servizio da tauola di porcellana Indo-Cina, centinato e decorato
+8. con rose e dorature composto di: N. 2 zuppiere,23 fondine, 68 piatti, 8piatti grandi ottagoni,4detti mezzani12 detti piccoli,2 saliere, 2 salsiere. Totale pezzi 121
+201. Grande stipo Luigi XIV incrostato di tartaruga e piccoli ornati di argento.
+
+Alt.,m.0,80. Larg., m.1,00.
+
+202. Grazioso lampadarietto Impero di bronzo dorato a 6 candele.
+203. Lotto di zuccheriera e 5 tazze con piattello di porcellana Giappone.
+204. Lotto di due tazze e un piattello Vienna; tazza con coperchio e 3 piattelli porcellana Giappone.
+205. Salotto Impero in mogano composto di:
+
+Grande console con piano di alabastro orientale e sovrapposta specchiera con ornamenti dorati. Grande specchiera da camino pendent alla precedente. Due consoles piu piccole con piano d'alabastro orientale e sovrapposte specchiere. Due cantonali con piano d'' alabastro.
+
+206. Lotto di due sofa e sei poltroncine scolpite di mogano, coperti di seta celeste che completano il salotto di cui al precedente numero.
+207. Grande lampadario Luigi XVI; a dodici bracci in bronzo e prismi di cristallo di Boemia.
+208. Statua di marmo rappresentante la Venere di Canova con colonetta di marmo.
+209. Panello in legno di finissimo intaglio d'ornato con medaglione nel centro rappresentante Napoleone I;opera firmata da Vittorio Giusto 1800.
+210. Console scolpita e dorata Luigi XV con piano di marmo.
+6. 21l. Caminiera in legno scolpito e dorato, stile barocco.
+212. Piccola console scolpita e dorata Luigi XV con piano di marmo.
+213. Lotto di: 5 poltrone e 4 sedie, Luigi XV scolpite e dorate.
+214. Lotto di 6 poltrone Luigi XV.
+215. Broccbetta di maiolica antica.
+216. Gruppo di due Putti di marmo di Carrara con sottoposta colonna di marmo di Portovenere.
+317. Piccolo armonium a forma di chitarra.
+218. Una cetra con tastiera.
+219. Un’ arpa con ornati d’ oro a grafito su fondo nero, marca Jhon
+8. Egan 40 Dowson St.Dublin Secolo XVIll
+220. Violino d autore Joannes Varotti fecit Bononiae anno 1791.
+<!-- image -->
+
+## TERZO GIORNO DI VENDITA
+
+Mercoledi 2 Giugno 1909, alle ore 14 precise
+
+221. Piatino di maiolica antico; Ispano-arabo,con lustri; bleu nel
+2. centro.
+3. 222.Altro piatto Ispano-arabo figurato.
+223. Piatto di maiolica italiana XVI Secolo;rappresentante la Creazione del Mondo,con bellssima cornice dellepoca,n legno scolpito
+5. ed in parte dorato.
+
+## GUIDO RENI
+
+(Scuola di)
+
+224. Piccola Cadonna con bambino in cornice dorata.
+
+## SCUOLA FIAMMINGA
+
+225. L'astronomo ed il beuitore; due quadretti dipinti ad olio su tela in cornice.
+226. Astuccio contenente servizio vieux saxe ed argento cesellato.
+227. Calamaio Impero in porcellana di Napoli decorato a paesaggio e dorature.
+228. Lotto di 6 bellissimi appliques Direttorio a 5 candele ognuno, con
+3. ornati finissimi di bronzo e rilievi dorati su legno.
+229. Lotto di sei appliques Direttorio eguali al precedente numero.
+230. Lotto di tappezzeria impero in seta celeste rigata.
+
+## SCUOLA TEDESCA
+
+- 231 Ritratto di artista del XVll Secolo; dipinto ad olio su tela in cornice dorata.
+
+## SCUOLA FRANCESE
+
+232. Ritratto di Luigi XIV, assai bene disegnato e colori vivaci;
+2. dipinto ad olio su tela in cornice dorata.
+
+## SCUOLA BOLOGNESE
+
+233. Santa Cecilia;bella composizione dipinta ad olio su tela in cornice dorata.
+
+## SCUOLA VENEZIANA
+
+234. Ritratto di Dama del XVI Sec.;pittura ad olio su tela in cornice.
+
+Alt.,m.0,65×0,55.
+
+235. Servizio antico di porcellana Indo-Cina, centinato,riccamente decorato,composto di:2 zuppiere,26 fondine, 48 piatti,2 fondine piccole,4piattini,6piatti grandi rotondi6dettimezzani,8fruttire di diverse grandezze,10 piatti grandi rettangolari,4 detti mezzani, 8 detti piccoli, 6 saliere, 4s salsiere,2 cremiere con coperchio,
+2. 3 compostiere con coperchio, 3 vasi con manici. Totale pezzi 142
+
+Alt,m.0,540,44.
+
+Alt,m.0,95×1,30.
+
+MI.72,40.
+
+Alt.,m.1,-X0.70.
+- tela in cornice.
+
+## SCUOLA GENOVESE
+
+236. Ritratto di Gentiluomo; due terzi di figura; pitura ad olio su
+
+Alt,m.1,10×0,70.
+
+## SCUOLA VENETA
+
+237. Ritratto di Signora; bella pittura ad olio su tela in cornice.
+
+Alt.,m.0,63X0,50.
+
+## COURTOIS JACOPO detto il Borgognone
+
+238. Due Battaglie; belle composizioni dipinte ad olio su tela con
+
+Alt.,m.0,68X0,85.
+
+- cornici..
+- olio su tela.
+- 240.Lotto di:
+- N. 8 tende di damasco rosso di seta di m. 2,46 ciascuna, di cui
+
+MI.39,20.
+
+MI.55,20.
+
+- due foderate in seta rossa.
+
+Gallone di velluto seta applicato alle suddette.
+
+Coperta e baldacchino da letto in damasco rosso di seta dello stesso disegno
+
+## SCUOLA NAPOLETANA
+
+241. Scena carneualesca; pittura ad olio su tavola in cornice dorata.
+
+Alt.,m.0,300,42.
+
+MI.38,——.
+
+## MENGS RAFFAELLO
+
+(1728-1779)
+
+239. L'Annunciazione con gloria; finissima composizione dipinta ad
+
+Alt.,m.1,X0,48.
+- fodero.
+
+## GIULIO ROMANO
+
+(Scuola di)
+
+246. Due graziosi quadretti rappresentanti Danze di Putti e Satiri; pittura ad olio su tavola in cornice dorata.
+
+## BONACCORSI PIETRO
+
+247. Figura biblica di donna; pittura ad olio su tavola.
+
+Alt,m.0,39&gt;0,25.
+
+248. Coltellaccio con impugnatura d’ avorio e riporti d’ argento sul
+249. Scatola di bronzo dorato Luigi XV, cesellato, a traforo e fondo
+3. lapislazzoli.
+250. Grande stipo incrostato di tartaruga con tarsie di metallo e suo
+5. tavolo con 6 colonne a spirale e finissimo traforo di tartaruga.
+
+V.Illustrazionc Tao.X.)
+
+Alt,m.1,50×1,12.
+
+## JOURDANS GIOV.
+
+- 242.Quattro quadri sappresentanti Putti con fiori; dipinti ad olio su tela in cornice dorata.
+
+Alt.,m.0.75X0,39.
+
+243. Piccola cornice Sansovinesca in legno scolpito e dorato.
+
+Alt,m.0,400,25.
+
+244. Croce stazionale in bronzo con repusse XIV Sec.
+
+Alt.,0,48.
+
+245. Cedaglione in alto rilievo di terracotta raffigurante Gesu col Cen-
+2. turione; in cornice di legno scolpito e dorato dell' epoca - Maniera del Bernini.
+
+Diam.,m.0,30
+
+Alt.,m.0,18X0,28.
+- 251.Piatto grande d argento.
+- 252.
+- Idem
+- 253.Due figurine biscuit, soggetto allegorico.
+254. Due centri da tauola in argento lavorato con gruppo di porcellana nel centro di vecchio Ginori.
+255. Personaggio cavalcante un caprone - caricatura - grande porcellana
+
+Alt,m.0,42.
+
+256. Due figurine di Donna di porcellana colorata - Marca Sassonia.
+257. Frustino argento.
+258. Cadonna; placca argento con cimasa.
+259. Orologio argento del XVI Secolo.
+
+## SCUOLA GENOVESE
+
+260. Ritratto di Signora; pittura ad olio su tela con cornice.
+2. (V.Illustrazione Tav. VI)
+
+## MENGS RAFFAELLO
+
+261. Cose; pittura ad olio su tavola in cornice dorata.
+
+Alt.,m.0,370,44.
+
+Alt.,m.0,370,44.
+
+Alt,m.1.230,90.
+
+- a colori e dorature con marca Sassonia.
+
+## MENGS RAFFAELLO
+
+262. S. Pietro; pittura ad olio su tavola.
+
+Grammi 770.
+
+Grammi 1145.
+
+Grammi 258.
+## SCUOLA FIAMMINGA
+
+- 263.Ritratto di Prelato; pitura ad olio su tela con cornice.
+
+Alt,m.0,290,24.
+
+## IGNOTO
+
+264. Madonna con Putto; pittura ad olio su tela in cornice dorata.
+
+Alt.,m.0,94X0,67.
+
+## BAROCCI FEDERIGO
+
+(1528-1612)
+
+265. Madonna con bambino;bellissima pittura ad olio su tavola con
+2. ricca cornice dorata.
+
+Alt.,m.0,90X,070.
+
+266. Soggetto incerto; pittura ad olio su rame in cornice.
+
+Alt,m.0,340,27.
+
+Alt., m.0,650,80.
+
+## IGNOTO
+
+267. Decapitazione di Luigi XVl; pittura ad olio su tela in cornice dorata.
+
+## SCUOLA ROMANA
+
+268. La Resurrezione di Lazzaro; pittura ad olio su marmo in cornice.
+
+Alt,m,0,23X0,63.
+
+## SCUOLA VENEZIANA
+
+269. Dittico in cornice gotica; pittura su tavola del XIV Sec.
+
+Alt.,m.0,86X1,23.
+## SIMONE DEI CROCIFISSI
+
+270. L' Incoronazione della Vergine; Gesu Cristo pone una corona sul capo della Vergine; due figure un terzo del naturale sedute sopra un trono formano un maestoso e grazioso gruppo ornato da una moltitudine di piccoli angeli, due dei quali sostengono un palio di porpora e oro; alla base del quadro si legge: Symon pinxit hoc opus.
+
+(V.Illustrazione Tav. XIV)
+
+## SCUOLA SPAGNOLA
+
+271. Pittura ad olio su tavola del Xlll Secolo rappresentante la figura
+2. di una Santa ed in alto Gesu in Croce e le Maddalene; in cornice gotica.
+
+Alt.,m.1,800,82.
+
+Alt,m.0,98X0,63.
+
+## SCUOLA FERRARESE
+
+272. Lotto di 4 panelli rettangolari rappresentanti : La sacra famiglia; I infanzia di G. C.; le nozze di Canaan; I' adorazione dei Magi.
+
+Alt,m.0,18X0,65.
+
+- 273.Lotto di 4 placche dorate Luigi XV con specchio.
+274. Idem
+- Fini pitture ad olio su tavole.
+
+## CARLONE GIOVANNI
+
+275. Soggetto biblico;bella composizione d dipinta ad olio su tela in
+
+Alt.,m.1,85×2,10.
+
+- cornice dorata sagomata.
+276. Piccolo modello di nave con base.
+277. Lotto di m. 50 brocatello rosso con disegni di animali e grappoli d'uva.
+278. Quadretto rappresentante Monumenti romani in mosaico in cornice
+
+Alt.,m.0,21&gt;0,31.
+
+Alt,m:0,21X0,31.
+
+Alt.,m.0,520,37.
+
+## ORATIO JACOBI
+
+280. Gesu Cristo crocifsso; in alto su le nubi due piccoli angeli oranti, ed ai suoi piedi inginocchiato S. Domenico a destra ed un giovinetto a sinistra in ricco abito del XIV Sec.-Per la sua grande espressione, per la perfezione del lavoro e per l iscrizione  Oratio Jacobi pinxit 1442 e una tavola rimarchevole ed e solo il secondo quadro di questo pittore che si conosca.
+
+(V.Illustrazione Tav.XVI)
+
+281. Lotto di tre alabarde, un fucile a miccia ed un frammento di corazza.
+
+## CASTIGLIONE GIOVANNI
+
+(detto il grechetto)
+
+282. Due Quadri rappresentanti uno, Una mandra, I’ altro, Una caro-
+2. uana; pitture ad olio su tela in cornice.
+
+Alt.,m.0,98×1,12.
+
+283. Gruppo di due figure di terracotta assai bene modellate attribuite al Lombardi.
+
+Alt.,m. 0,65.
+
+Alt.,m.0,990,42.
+
+- dorata.
+279. Idem
+
+## IGNOTO
+
+284. Soggetto storico sacro; molte figure, ben disegnato; pittura ad olio su tela con cornice.
+## ANTONIO DA CARPENA detto il CARPENINO
+
+285. Pittura ad olio su tavola rappresentante la Vergine col Bambino. Alla sua destra sono S. Nicola e S. Lucia, alla sinistra S. Basilio e S. Antonio di Padova, ed a' suoi piedi genufessi Filippo ed Agostino Griff,che il quadro avevano commesso nel 154l per porlo ad ornamento della Cappella dedicata a S. Nicola e S. Lucia nella Cattedrale di Sarzana, sicome risulta dagli atti di Francesco Montano conservati nell Archivio di Sarzana sotto la data stico, anno 1890, pag. 49 e seguenti, e di Ubaldo Mazzini i"Il Carpenino e le sue opere enella Rassegna Bibliografica dell' Arte Italiana, Anno X, N. 13.— Quest opera pregevolissima aein perfetto stato di conservazione.
+
+(V. Illustrazione Tav. III)
+
+Alt.,m.1,621,32.
+
+## IGNOTO
+
+286. La Mictitura; gruppo di Putti piura ad olio in cornice
+
+Alt.,m.0,420,52.
+
+Alt.,m.0,20&gt;0,44.
+
+## SCUOLA VENEZIANA
+
+- 287 Piccolo trittico pieghevole a libretto, assai interessante del XIV Secolo con policromie.
+- 288 Soggetto allegorico, pittura ad olio su tela in cornice
+
+Alt.,m.0,740,33.
+
+## RUBENS PIETRO PAOLO
+
+(Scuola di)
+
+289. La SS. Trinita; pittura ad olio su tavola in cornice.
+
+Alt,m.0,49&gt;0,35.
+## SEBASTIANO DEL PIOMBO
+
+290. Ritratto di Andrea Doria; pittura ad olio su lavagna, assai
+2. interessante.
+3. (V.Illustrazione Tav.II)
+291. Il presepio;pittura ad olio su rame.
+
+## SCUOLA VENEZIANA
+
+292. La presentazione; bozzetto dipinto ad olio su tavola
+
+Alt,m.0,450,35.
+
+## SCUOLA FIORENTINA
+
+293. La vergine col bambino; pittura ad olio su tavola in cornice.
+
+Alt.,m.0,43&gt;0,34.
+
+## JACOPO FORTI bolognese
+
+(1450-1500)
+
+294. La Morte della Madonna cogli apostoli; pittura ad olio su tela.
+
+Alt,m.1,72×2,50.
+
+## SCUOLA VENETA
+
+- 295.Pala da altare a forma di trittico. La Madonna seduta col centro e Santi ai lati; segnata ai piedi la data 1421.
+
+(V.Illustrazione Tav.XX)
+
+## SCUOLA OLANDESE
+
+296. S. Girolamo;pittura ad olio su tavola
+
+Alt,m.1,82X1,90.
+
+Alt,m.0,47&gt;0,33.
+
+Alt.,m.0,60X0,45.
+
+Alt,m.0,410,30.
+## CASTELLO BERNARDO (1629)
+
+## genovese
+
+297. S. Tommaso; pittura ad olio su tela in cornice
+
+Alt,m.0,630,54.
+
+## SCUOLA VENEZIANA
+
+298. L' Adorazione; bozzetto dipinto ad olio su tavola im cornice.
+
+Alt.,m.0,460,34.
+
+## ALBANI FRANCESCO
+
+(Scuola di)
+
+299. Gesu bambino con angeli; pittura ad olio su rame.
+
+Alt.,m.0,360,47.
+
+## ALLEGRI ANTONIO
+
+(detto il Correggio)
+
+300. Amore; grazioso Putto dipinto ad olio su tela in cornice.
+2. (V.Illustrazione Tao.IV)
+
+## MURILLO BARTOLOMEO
+
+(Scuola di)
+
+301. Graziosa figura di Donna con fanciullo; pittura ad olio su tela
+2. in cornice. Alt.,m.0,98&gt;0.69.
+
+## SCUOLA NAPOLETANA
+
+302. Paesaggio; pittura ad olio su tela in cornice.
+
+## SCUOLA FIORENTINA
+
+303. La Nativita; pittura ad olio su tavola in cornice.
+
+Alt.,m.0,95&gt;0,67.
+
+Alt,m.0,900.70.
+
+Alt.,m.0.671,30.
+304. Madonna con Santi; pittura ad olio su tavola del XIV Sec.
+
+Alt.,m.0,98&gt;0.77.
+
+Alt.,m.0,40.
+
+## ALGARDIALESSANDRO
+
+305. Crocifsso bellissimo d’ avorio in astuccio.
+306. La Crocifissione; pittura ad olio su tavola con fregio dorato del XIV Secolo, in cattivo stato.
+
+## WOUWERMANS FILIPPO
+
+307. Contadini con cavalli; due quadretti dipinti ad olio su lavagna
+2. Alt, m.0,16&gt;0,22.
+
+Alt,m.0,62&gt;0,39.
+
+## BASSANO
+
+(Jacopo da Ponte)
+
+308. L' Adorazione; pittura ad olio su tela in cornice.
+
+Alt,m.0,930,72.
+
+## VANNUCCHI ANDREA
+
+(Scuola di)
+
+309. S. Sebastiano; pittura ad olio su tavola in cornice.
+
+Alt.,m.0,77&gt;0,59.
+
+## VERONESE PAOLO
+
+310. Santa con varie figure; pitura ad olio su tela in cornice dorata.
+
+(V.Illustrazione Tav.XI)
+
+## SCUOLA TEDESCA
+
+311. S. Girolamo; pittura ad olio su tavola in cornice dorata.
+
+Alt.,m.0,75&gt;0,56.
+
+Alt.,m.0,96X1,12.
+312. Cristallo di rocca in forma ovale con entro Madonnina in oro.
+313. Flacone doppio cristallo, montatura perle e oro.
+314. Broche brillanti balascio.
+
+## ERCOLE FARNESE
+
+115. Bronzo Fiorentino del rinascimento finamente cesellato
+2. con splendida patina. Oggetto da collezione.
+
+Alto m.0,57.
+
+316. Pettine in rose e diamanti
+
+## SCUOLA VENEZIANA
+
+317. Madonna e Putto con Santi; pittura ad olio su tavola in cornice
+
+Alt.,m.0,520,82.
+
+- dorata.
+318. Grande basso rilieuo in pietra arenaria con innumerevoli figure, del XV secolo.
+
+## GIULIO ROMANO
+
+(Scuola di)
+
+319. Sacra famiglia; bella pittura ad olio su tavola in cornice dorata
+2. Alt,m.0,840,70.
+
+Altezza m. 0,32. Lunghezza m. 2,50.
+
+## RUBENS PIETRO PAOLO
+
+(atribuito a)
+
+320. Giuditta e Oloferne; pittura ad olio su tela con ricca cornice
+
+Alt.,m.1,120,87.
+
+- intagliata e dorata.
+
+(V.Illustrazione Tao.I)

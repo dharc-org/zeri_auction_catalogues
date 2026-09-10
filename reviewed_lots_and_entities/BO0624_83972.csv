@@ -1,0 +1,8 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_83972,28266,1,I,"l est represente en buste, de trois quarts vers la gauche, coiffe d'une toque de velours et vetu d'un pourpoint de velours noir.",18,99.6,False,positional,BOURDICHON,,,,
+BO0624_83972,28267,2,I,"l tient de la main droite le sceptre;sa couronne royale est posee sur un coussin de velours bleu a feur de lis. Au fond, une grande draperie rouge. doublee de brocart d'or.",99,99.7,False,positional,RIGAUD,,,,
+BO0624_83972,28268,3,I0,"LIoN ET LIoNNE en ancienne e porcelaine de Saxe, decores au naturel et reposant sur des terrassements fleuris.Deux groupes se faisant pendant.",137,98.9,False,positional,,,OGGETTI VARI,,
+BO0624_83972,28269,4,11,"PAIRE DE FLAMBEAUx formes par deux statuettes de Pou-tai accroupis et souriants, en ancienne porcelaine blanche de la Chine. Ils ont le chef couvert d'un casque de forme surbaissee en bronze cisele et dore et reposent sur des socles egalement en bronze cisele et dore de forme contournee, enguirlandes de feuillages et supportes par quatre pieds figurant des feuilles d'acanthe. Des socles s'elancent des branches feuillagees supportant les lumieres. Epoque Louis XV. Tres belle qualite.",138,99.7,False,positional,,Periodo di Luigi XV,TORCE,,
+BO0624_83972,28270,5,12,"GRoUPE EN BRoNzE :lEnlevement de Proserpine, par Girardon.",141,97.3,False,positional,RIGAUD HYACINTHE,,OBJETS D'ART,,
+BO0624_83972,28271,6,13,"GRouPE EN BRoNzE :Boree enlevant Orithye, par",149,96.6,False,positional,,,OBJETS D'ART,,
+BO0624_83972,28272,7,14,"—— PAIRE DE cHENETs en bronze finement ciseles et dores,",160,97.2,False,positional,,,OBJETS D'ART,,

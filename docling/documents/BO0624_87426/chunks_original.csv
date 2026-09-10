@@ -1,0 +1,559 @@
+catalogue_id,index,num,title,text,image_online
+documents/BO0624_87426,1,2,"2.Felsenlandschaft mit Staffage. Berghem, Claas Pietersz, 162o-1683. | Leinw.37/48                       |","2.Felsenlandschaft mit Staffage. Berghem, Claas Pietersz, 162o-1683. | Leinw.37/48                       |",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000022-p.%203.jpg/full/max/0/default.jpg
+documents/BO0624_87426,2,3,4. | Ruhende Hirtenfamilie: Landschaft.                                                                | Holz 40/55 Leinw.35/48            |,| 3. 4. | Ruhende Hirtenfamilie: Landschaft.                                                                | Holz 40/55 Leinw.35/48            |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000022-p.%203.jpg/full/max/0/default.jpg
+documents/BO0624_87426,3,5,"| Bol, Ferdinand, 1616—1681. Portrait des Dichters Rukraten. Boucher,Francois,1703-177o.(Manier.)   | Holz111/84                        |","| 5.    | Bol, Ferdinand, 1616—1681. Portrait des Dichters Rukraten. Boucher,Francois,1703-177o.(Manier.)   | Holz111/84                        |",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000022-p.%203.jpg/full/max/0/default.jpg
+documents/BO0624_87426,4,6,"7. | Schaferscene. Desgl. Pendant z. Vor. Brakenburg, Richard, 1650-1703.                              | Carton 31/42                      |","| 6. 7. | Schaferscene. Desgl. Pendant z. Vor. Brakenburg, Richard, 1650-1703.                              | Carton 31/42                      |
+|       | 8.Kuichen-Interieur.                                                                              | Leinw.21/19                       |",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000022-p.%203.jpg/full/max/0/default.jpg
+documents/BO0624_87426,5,10,| 10.Jager im Walde.                                                                                | Aquarell 14/8     ,| 10.Jager im Walde.                                                                                | Aquarell 14/8                     |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000022-p.%203.jpg/full/max/0/default.jpg
+documents/BO0624_87426,6,12,| 12.Madonna mit dem Jesuskind.                                                                     | Tempera auf Goldgr,"| 12.Madonna mit dem Jesuskind.                                                                     | Tempera auf Goldgrund. Holz 39/32 |
+|       | Caracci.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000022-p.%203.jpg/full/max/0/default.jpg
+documents/BO0624_87426,7,13,13.Landschaft.                                                                           | Leinw.61/82                  ,"13.Landschaft.                                                                           | Leinw.61/82                       |
+
+<!-- image -->
+## Costa, A., in Wien.",
+documents/BO0624_87426,8,14,15.             | Parthie am Ossiacker-See. Desgl.am Eibsee.Pendant z.Vor.                                                                                                                      | Leinw.32/47                 |,"| 14. 15.             | Parthie am Ossiacker-See. Desgl.am Eibsee.Pendant z.Vor.                                                                                                                      | Leinw.32/47                 |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+|                     | Daelen, E.,in Dusseldorf. 16.Abendstimmung. 17.Regenstimmung.Pendant z. Vor. Dietrich, Christian Wilhelm Ernst, 1712 - 1774.                                                  | Leinw.35/53                 |",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000031-p.%204.jpg/full/max/0/default.jpg
+documents/BO0624_87426,9,18,19.             | Portrait eines Gelehrten. Desgl. Pendant z. Vor.                                                                                                                              | Holz 25/19                  |,| 18. 19.             | Portrait eines Gelehrten. Desgl. Pendant z. Vor.                                                                                                                              | Holz 25/19                  |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000031-p.%204.jpg/full/max/0/default.jpg
+documents/BO0624_87426,10,20,| Kleines Portrait.                                                                                                                                                             | Holz 14/10                  |,| 20.                 | Kleines Portrait.                                                                                                                                                             | Holz 14/10                  |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000031-p.%204.jpg/full/max/0/default.jpg
+documents/BO0624_87426,11,21,"| Dressel, C., in Hannover. Frichte.                                                                                                                                            | Leinw.25/37                 |","| 21.                 | Dressel, C., in Hannover. Frichte.                                                                                                                                            | Leinw.25/37                 |",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000031-p.%204.jpg/full/max/0/default.jpg
+documents/BO0624_87426,12,22,23.             | Marienrosen. Mohn.                                                                                                                                                            | Leinw.30/42 Leinw.36/23     |,| 22. 23.             | Marienrosen. Mohn.                                                                                                                                                            | Leinw.30/42 Leinw.36/23     |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000031-p.%204.jpg/full/max/0/default.jpg
+documents/BO0624_87426,13,24,| van Dyck (Copie). Christus am Kreuz.                                                                                                                                          | Leinw.66/48                 |,| 24.                 | van Dyck (Copie). Christus am Kreuz.                                                                                                                                          | Leinw.66/48                 |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000031-p.%204.jpg/full/max/0/default.jpg
+documents/BO0624_87426,14,25,| Fassauer. Taubenpaar.                                                                                                                                                         | Holz 39/37                  |,| 25.                 | Fassauer. Taubenpaar.                                                                                                                                                         | Holz 39/37                  |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000031-p.%204.jpg/full/max/0/default.jpg
+documents/BO0624_87426,15,26,"| Gentileschi, Oratio, 1563-1647. Huldigung vor dem Christkinde und der Jungfrau Maria. Gruppe von 7lebensgrossen Figuren.I                                                     |                             |","| 26.                 | Gentileschi, Oratio, 1563-1647. Huldigung vor dem Christkinde und der Jungfrau Maria. Gruppe von 7lebensgrossen Figuren.I                                                     |                             |",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000031-p.%204.jpg/full/max/0/default.jpg
+documents/BO0624_87426,16,27,"| 27.Die Pest in Rom. | Giordano,Luca, 1632-1705.                                                                       ","| 27.Die Pest in Rom. | Giordano,Luca, 1632-1705.                                                                                                                                                     | Leinw.250/200 Leinw.124/270 |
+|",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000031-p.%204.jpg/full/max/0/default.jpg
+documents/BO0624_87426,17,28,| 28.Ansichten aus dem Schwetzinger Garten: Gouache je 41/58 Ruine des Merkurtempels. b) Wasserleitung. Apollotempel. d),"| 28.Ansichten aus dem Schwetzinger Garten: Gouache je 41/58 Ruine des Merkurtempels. b) Wasserleitung. Apollotempel. d) Die Moschee. e) Minervatempel. Tempel der Waldbotanik. |                             |
+|                     | Greuze, Jean Baptiste, 172s-1805.                                                                                                                                             | Holz 31/38                  |
+|",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000031-p.%204.jpg/full/max/0/default.jpg
+documents/BO0624_87426,18,29,"| 29.Madchen mit Katze. Heem, Jan Davidsz de, 16oo-1684.                                                                ","| 29.Madchen mit Katze. Heem, Jan Davidsz de, 16oo-1684.                                                                                                                        |                             |
+|",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000031-p.%204.jpg/full/max/0/default.jpg
+documents/BO0624_87426,19,30,| 30. Stillleben.                                                                                                       ,"| 30. Stillleben.                                                                                                                                                               | Leinw.133/176               |
+Hoom, van, in Wien.",
+documents/BO0624_87426,20,31,Hafenparthie bei Haarlem. 32. Desgl. bei Dortrecht. Pendant z. Vor.   | Holz 26/47    |,"| 31. Hafenparthie bei Haarlem. 32. Desgl. bei Dortrecht. Pendant z. Vor.   | Holz 26/47    |
+|---------------------------------------------------------------------------|---------------|
+| Huisken, H., in Karlsruhe. 33. Vor Strassburg.                            | Leinw.20/40   |",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000032-p.%205.jpg/full/max/0/default.jpg
+documents/BO0624_87426,21,I,talienische Schule. 34. Landschaft. 35. Desgl. Pendant z. Vor.           | Leinw.97/128  |,"| Italienische Schule. 34. Landschaft. 35. Desgl. Pendant z. Vor.           | Leinw.97/128  |
+| Jordaens, Jakob,1593-1678. 36.Brustbild eines Bettlers.                   | Leinw.54/39   |
+| Kalf, Willem, 163o-1693. 37.Interieur. Metzgerei.                         | Holz 39/36    |",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000032-p.%205.jpg/full/max/0/default.jpg
+documents/BO0624_87426,22,38,Das Paradies.                                                          | Leinw. 59/84  |,| 38.Das Paradies.                                                          | Leinw. 59/84  |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000032-p.%205.jpg/full/max/0/default.jpg
+documents/BO0624_87426,23,39,Landschaft. Motiv aus Oberosterreich.                                 | Leinw. 5o/60  |,| 39. Landschaft. Motiv aus Oberosterreich.                                 | Leinw. 5o/60  |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000032-p.%205.jpg/full/max/0/default.jpg
+documents/BO0624_87426,24,40,| 40.Wetterstein und Lermos.                                                | Leinw.42/57   |,"| 40.Wetterstein und Lermos.                                                | Leinw.42/57   |
+| Lairesse, Gerard de, 16401711.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000032-p.%205.jpg/full/max/0/default.jpg
+documents/BO0624_87426,25,41,41. Die Schmiede Vulkans.                  | Holz 44/58    |,"41. Die Schmiede Vulkans.                  | Holz 44/58    |
+| Landgrebe, S., in Munchen.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000032-p.%205.jpg/full/max/0/default.jpg
+documents/BO0624_87426,26,42,42.Abend am Konigsee.                          | Leinw.50/75   |,"42.Abend am Konigsee.                          | Leinw.50/75   |
+| Lefeubure, C., in Munchen.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000032-p.%205.jpg/full/max/0/default.jpg
+documents/BO0624_87426,27,43,43. Die Gosauschlucht mit den Donnerkogeln.    | Holz 16/21    |,"43. Die Gosauschlucht mit den Donnerkogeln.    | Holz 16/21    |
+| Lepie, 1876.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000032-p.%205.jpg/full/max/0/default.jpg
+documents/BO0624_87426,28,44,44.Schweizersee.                                             | Leinw. 75/100 |,"44.Schweizersee.                                             | Leinw. 75/100 |
+| Luttebrandt, F.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000032-p.%205.jpg/full/max/0/default.jpg
+documents/BO0624_87426,29,45,45.Winterlandschaft.                                      | Holz 18/25    |,45.Winterlandschaft.                                      | Holz 18/25    |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000032-p.%205.jpg/full/max/0/default.jpg
+documents/BO0624_87426,30,46,Klosterruine im Winter.                                               | Holz 16/22    |,| 46. Klosterruine im Winter.                                               | Holz 16/22    |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000032-p.%205.jpg/full/max/0/default.jpg
+documents/BO0624_87426,31,47,Abendlandschaft mit Hirsch.                                            | Carton 28/38  |,| 47.Abendlandschaft mit Hirsch.                                            | Carton 28/38  |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000032-p.%205.jpg/full/max/0/default.jpg
+documents/BO0624_87426,32,48,Landschaft mit Staffage.                                              | Holz 23/30    |,| 48. Landschaft mit Staffage.                                              | Holz 23/30    |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000032-p.%205.jpg/full/max/0/default.jpg
+documents/BO0624_87426,33,49,Hollindisches Interieur.                                              | Leinw.45/58   |,| 49. Hollindisches Interieur.                                              | Leinw.45/58   |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000032-p.%205.jpg/full/max/0/default.jpg
+documents/BO0624_87426,34,50,Desgl. Pendant z. Vor.                                                |               |,| 50. Desgl. Pendant z. Vor.                                                |               |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000032-p.%205.jpg/full/max/0/default.jpg
+documents/BO0624_87426,35,51,Singende Bauern.                                                                                   | Leinw.32/37             |,"| 51. Singende Bauern.                                                                                   | Leinw.32/37             |
+|--------------------------------------------------------------------------------------------------------|-------------------------|",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,36,52,| 52. Spielende Bauern. Pendanz z. Vor.,| 52. Spielende Bauern. Pendanz z. Vor.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,37,53,53. Musizirende Bauern.                                          | Leinw.32/37             |,53. Musizirende Bauern.                                          | Leinw.32/37             |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,38,54,| 54. Karten spielende Bauern.Pendant z. Vor.,| 54. Karten spielende Bauern.Pendant z. Vor.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,39,55,55. Die Kartenspieler.                                     | Holz 26/32              |,"55. Die Kartenspieler.                                     | Holz 26/32              |
+| Mieris.  (Nach ihm).",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,40,56,56.Portrait einer Kochin.                                                         | Blech 11/9              |,"56.Portrait einer Kochin.                                                         | Blech 11/9              |
+| Mignard, Pierre, 1612-— 1695.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,41,57,"57. Die Herzogin von Montpensier als Pomona. Leinw. 1oo/75 Minjon, P. J. |                         |","57. Die Herzogin von Montpensier als Pomona. Leinw. 1oo/75 Minjon, P. J. |                         |",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,42,58,Dorfstrasse.                                                                                       | Leinw. 57/78            |,| 58. Dorfstrasse.                                                                                       | Leinw. 57/78            |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,43,59,| 59. Burg und Stadt bei Abenddammerung.                                                                 | Leinw. 70/95 ,"| 59. Burg und Stadt bei Abenddammerung.                                                                 | Leinw. 70/95            |
+| Molyn, Pieter, 16oo-1661.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,44,60,60. Landschaft mit Staffage.                                                 | Leinw. 59/86            |,"60. Landschaft mit Staffage.                                                 | Leinw. 59/86            |
+| Ockert, Karl, in Munchen.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,45,61,61. Rehe.,61. Rehe.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,46,62,62. Wildente. Bez.: C. P.                                          | Leinw.49/75 Holz16/17   |,62. Wildente. Bez.: C. P.                                          | Leinw.49/75 Holz16/17   |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,47,63,| 63. Elisabeth von Thuringen.                                                                           | Leinw.19/16  ,"| 63. Elisabeth von Thuringen.                                                                           | Leinw.19/16             |
+| Pforr, Johann Georg, 1745—1798.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,48,64,64.Pferde. Aquarell. Druck 29/39,64.Pferde. Aquarell. Druck 29/39,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,49,65,65. Desgl. Aquarell. Druck 24/19      |                         |,"65. Desgl. Aquarell. Druck 24/19      |                         |
+| Pondel, F., in Minchen.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,50,66,66. Ein guter Trunk.                                                           | Holz19/27               |,"66. Ein guter Trunk.                                                           | Holz19/27               |
+| Poussin, Gaspard, 1613 -1675.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,51,67,67.Landschaft.                                                           | Leinw.43/34             |,"67.Landschaft.                                                           | Leinw.43/34             |
+| Rabes, Max, in Kairo.                                                                                  |                         |",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,52,68,| 68. Wohlthuende Warme.,| 68. Wohlthuende Warme.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,53,69,69. Wasserschopfende Frauen.                                                    | Leinw.57/43 Leinw.64/44 |,"69. Wasserschopfende Frauen.                                                    | Leinw.57/43 Leinw.64/44 |
+| Range, A.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,54,70,70.Cymon und Pera im Kerker.                                                                 | Leinw.51/67             |,"70.Cymon und Pera im Kerker.                                                                 | Leinw.51/67             |
+| Reichenbach, Eugen, in Munchen.                                                                        | Leinw. 67/86            |",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,55,71,Stimmungslandschaft nach Schleich.                                                                 |                         |,| 71. Stimmungslandschaft nach Schleich.                                                                 |                         |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000041-p.%206.jpg/full/max/0/default.jpg
+documents/BO0624_87426,56,73,"| Rembrandt, Harmensz van Rijn, 16o7- 1669. 72.Der Landpfeger Pilatus. Holz 49/64 Wirfelnde Landskncchte. Pendant z. Vor.                   |","| 73.                                                    | Rembrandt, Harmensz van Rijn, 16o7- 1669. 72.Der Landpfeger Pilatus. Holz 49/64 Wirfelnde Landskncchte. Pendant z. Vor.                   |
+|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                        | Rigaud. (Art des). 74.,Portrait eines Kardinals. Desgl. eines Ritters in Ruistung.                                                        |",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000042-p.%207.jpg/full/max/0/default.jpg
+documents/BO0624_87426,57,75,76.                                                | Leinw.78/64 Leinw. 8o/65 Desgl.eines. Fursten. Leinw. 8o/64                                                                               |,| 75. 76.                                                | Leinw.78/64 Leinw. 8o/65 Desgl.eines. Fursten. Leinw. 8o/64                                                                               |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000042-p.%207.jpg/full/max/0/default.jpg
+documents/BO0624_87426,58,79,79. Landschaft imit Wasser.                                                                                     |,79. Landschaft imit Wasser.                                                                                     |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000042-p.%207.jpg/full/max/0/default.jpg
+documents/BO0624_87426,59,80,| 80. Gebirgslandschaft mit Staffage.                    | Holz 45/62                                                   ,"| 80. Gebirgslandschaft mit Staffage.                    | Holz 45/62                                                                                                                                |
+|                                                        | Schalcken, Godfried, 1643 - 1706.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000042-p.%207.jpg/full/max/0/default.jpg
+documents/BO0624_87426,60,81,81. Alte Frau mit Licht. Leinw.67/53                                                                    |,"81. Alte Frau mit Licht. Leinw.67/53                                                                    |
+|                                                        | Schmidt, P., in Munchen.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000042-p.%207.jpg/full/max/0/default.jpg
+documents/BO0624_87426,61,82,"82. Am Untersberg. Holz 22/28 Schutz, Christian Georg, 1718-1791!                                                |","82. Am Untersberg. Holz 22/28 Schutz, Christian Georg, 1718-1791!                                                |",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000042-p.%207.jpg/full/max/0/default.jpg
+documents/BO0624_87426,62,84,"84. Felsenlandschaft mit Wasserfall. Pendant z. Vor. Schwab, M., in Munchen.                            |","84. Felsenlandschaft mit Wasserfall. Pendant z. Vor. Schwab, M., in Munchen.                            |",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000042-p.%207.jpg/full/max/0/default.jpg
+documents/BO0624_87426,63,85,| 85.Am Hallstidter See.,| 85.Am Hallstidter See.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000042-p.%207.jpg/full/max/0/default.jpg
+documents/BO0624_87426,64,86,86.Am Gosausee. Pendant z. Vor. | Holz 21/27                                                                            ,"86.Am Gosausee. Pendant z. Vor. | Holz 21/27                                                                                                                                |
+|",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000042-p.%207.jpg/full/max/0/default.jpg
+documents/BO0624_87426,65,87,| 87.Bei Berchtesgaden. Leinw.85/110 Motiv bei Tolz. Leinw.29/45                                                        ,| 87.Bei Berchtesgaden. Leinw.85/110 Motiv bei Tolz. Leinw.29/45                                                                            |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000042-p.%207.jpg/full/max/0/default.jpg
+documents/BO0624_87426,66,89,| 89. Kuhe an der Tranke.                                                                                               ,"| 89. Kuhe an der Tranke.                                                                                                                   |
+## Stademann, Adolf, in Munchen.
+
+|",
+documents/BO0624_87426,67,90,| 90.Winterlandschaft.                                                           | Holz 19/32              |,"| 90.Winterlandschaft.                                                           | Holz 19/32              |
+|----------------------------------|--------------------------------------------------------------------------------|-------------------------|
+|                                  | Steen,Jan,1626-1679",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000051-p.%208.jpg/full/max/0/default.jpg
+documents/BO0624_87426,68,91,91.Der Alchymist.                                          | Holz31/25               |,"91.Der Alchymist.                                          | Holz31/25               |
+|                                  | Steinmuiller, G.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000051-p.%208.jpg/full/max/0/default.jpg
+documents/BO0624_87426,69,92,"92.Abschiedsscene. Tamm,Franz Werner, 1658—1724.              | Leinw.64/76             |","92.Abschiedsscene. Tamm,Franz Werner, 1658—1724.              | Leinw.64/76             |
+|",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000051-p.%208.jpg/full/max/0/default.jpg
+documents/BO0624_87426,70,93,"| 93.Fruchtstick. Ten Kate, Herm. Frederik Carel, im Haag.                       | Leinw.100/75            |","| 93.Fruchtstick. Ten Kate, Herm. Frederik Carel, im Haag.                       | Leinw.100/75            |
+|",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000051-p.%208.jpg/full/max/0/default.jpg
+documents/BO0624_87426,71,94,| 94.Tizian in seinem Atelier.                                                   | Holz 17/14              |,| 94.Tizian in seinem Atelier.                                                   | Holz 17/14              |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000051-p.%208.jpg/full/max/0/default.jpg
+documents/BO0624_87426,72,95,"Kind an einem Kreuz stehend. | Tizian, 1477-—1546. Unbekannte altere Meister.                                 | Leinw. 61/85            |","| 95. Kind an einem Kreuz stehend. | Tizian, 1477-—1546. Unbekannte altere Meister.                                 | Leinw. 61/85            |",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000051-p.%208.jpg/full/max/0/default.jpg
+documents/BO0624_87426,73,96,97. 98. 99.                  | Badende Frau. Weibliche Halbfigur. Desgl. Pendant z. Vor. Heiliger.            | Leinw.90/70 Leinw.83/66 |,| 96. 97. 98. 99.                  | Badende Frau. Weibliche Halbfigur. Desgl. Pendant z. Vor. Heiliger.            | Leinw.90/70 Leinw.83/66 |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000051-p.%208.jpg/full/max/0/default.jpg
+documents/BO0624_87426,74,100,| Portrait eines Mannes. Cimon und Pera.                                         | Leinw.83/64 Leinw.43/36 |,| 100.                             | Portrait eines Mannes. Cimon und Pera.                                         | Leinw.83/64 Leinw.43/36 |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000051-p.%208.jpg/full/max/0/default.jpg
+documents/BO0624_87426,75,101,102.                        | Christus mit der Dornenkrone.                                                  | Leinw.110/87            |,| 101. 102.                        | Christus mit der Dornenkrone.                                                  | Leinw.110/87            |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000051-p.%208.jpg/full/max/0/default.jpg
+documents/BO0624_87426,76,103,| Portrait.                                                                      | Leinw.106/90            |,| 103.                             | Portrait.                                                                      | Leinw.106/90            |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000051-p.%208.jpg/full/max/0/default.jpg
+documents/BO0624_87426,77,104,105.                        | Desgl. Desgl. Pendant z. Vor.                                                  | Leinw.3s/27 Leinw.61/43 |,| 104. 105.                        | Desgl. Desgl. Pendant z. Vor.                                                  | Leinw.3s/27 Leinw.61/43 |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000051-p.%208.jpg/full/max/0/default.jpg
+documents/BO0624_87426,78,106,107.                        | Kuhherde am See. Landsknecht. Krieger in auslandischer Tracht. Pendant z. Vor. | Leinw.37/48 Leinw.36/27 |,| 106. 107.                        | Kuhherde am See. Landsknecht. Krieger in auslandischer Tracht. Pendant z. Vor. | Leinw.37/48 Leinw.36/27 |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000051-p.%208.jpg/full/max/0/default.jpg
+documents/BO0624_87426,79,109,| 109. Petrus verleugnet Christus.                                               | Leinw.42/48             |,"| 109. Petrus verleugnet Christus.                                               | Leinw.42/48             |
+|                                  | Velde, Willem van de, 161o-1693.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000051-p.%208.jpg/full/max/0/default.jpg
+documents/BO0624_87426,80,110,110.Marine.                                   | Leinw.57/83             |,"110.Marine.                                   | Leinw.57/83             |
+|                                  | Vogel, L., in Munchen.                                                         |                         |
+|",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000051-p.%208.jpg/full/max/0/default.jpg
+documents/BO0624_87426,81,111,| 111.Verwaist.                                                                  | Leinw.70/55             |,"| 111.Verwaist.                                                                  | Leinw.70/55             |
+|                                  | Volanek, R., in Wien.                                                          |                         |
+|",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000051-p.%208.jpg/full/max/0/default.jpg
+documents/BO0624_87426,82,112,| 112.Parthie am Chiemsee.                                                       |                         |,"| 112.Parthie am Chiemsee.                                                       |                         |
+|",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000051-p.%208.jpg/full/max/0/default.jpg
+documents/BO0624_87426,83,113,| 113.Aus Niederosterreich.Pendant z. Vor.                                       | Leinw.27/47             |,"| 113.Aus Niederosterreich.Pendant z. Vor.                                       | Leinw.27/47             |
+## de Vries, Salomon, 1556--1604.",
+documents/BO0624_87426,84,114,| 114. Felsige Landschaft.                                                               | Leinw.59/86   |,"| 114. Felsige Landschaft.                                                               | Leinw.59/86   |
+|----------------------------------------------------------------------------------------|---------------|
+| Wallner, J., in Wien.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000052-p.%209.jpg/full/max/0/default.jpg
+documents/BO0624_87426,85,115,115. Parthie bei Zell am See.,115. Parthie bei Zell am See.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000052-p.%209.jpg/full/max/0/default.jpg
+documents/BO0624_87426,86,116,116. Aus der Pfalz.Pendant z. Vor. | Leinw.37/58   |,"116. Aus der Pfalz.Pendant z. Vor. | Leinw.37/58   |
+| Weenix, Jan, Baptista,1621-1665.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000052-p.%209.jpg/full/max/0/default.jpg
+documents/BO0624_87426,87,117,117.Thierstick.                                       | Leinw. 99/142 |,117.Thierstick.                                       | Leinw. 99/142 |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000052-p.%209.jpg/full/max/0/default.jpg
+documents/BO0624_87426,88,118,Madchen mit Katze.                                                                | Holz21/17     |,| 118. Madchen mit Katze.                                                                | Holz21/17     |,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000052-p.%209.jpg/full/max/0/default.jpg
+documents/BO0624_87426,89,119,Damenportrait.                                                                     | Holz 31/23    |,"| 119.Damenportrait.                                                                     | Holz 31/23    |
+
+## B. Glas- und Topferwaaren.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000052-p.%209.jpg/full/max/0/default.jpg
+documents/BO0624_87426,90,120,Wappen mit Hirsch. Rund D.24 cm,120. Wappen mit Hirsch. Rund D.24 cm,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000052-p.%209.jpg/full/max/0/default.jpg
+documents/BO0624_87426,91,121,Landsknecht. /18 cm,121. Landsknecht. 30/18 cm,
+documents/BO0624_87426,92,122,Wappen SRECTA RECTE 22/22cm,122. Wappen SRECTA RECTE 22/22cm,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000052-p.%209.jpg/full/max/0/default.jpg
+documents/BO0624_87426,93,123,Fischerboot im Mondschein. 30/23cm,123. Fischerboot im Mondschein. 30/23cm,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000052-p.%209.jpg/full/max/0/default.jpg
+documents/BO0624_87426,94,124,Sybille. 42/27cm,"124. Sybille. 42/27cm
+
+Glas126. Madonna. 23/21cm",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000052-p.%209.jpg/full/max/0/default.jpg
+documents/BO0624_87426,95,125,Abendgebet.(Nach Richter.) 30/23cm malereien. 127. Ritter und Madchen. 26/19cm,125. Abendgebet.(Nach Richter.) 30/23cm malereien. 127. Ritter und Madchen. 26/19cm,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000052-p.%209.jpg/full/max/0/default.jpg
+documents/BO0624_87426,96,128,Rugen'sche Strandgegend mit Fischerboot. 34/22cm,128. Rugen'sche Strandgegend mit Fischerboot. 34/22cm,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000052-p.%209.jpg/full/max/0/default.jpg
+documents/BO0624_87426,97,129,Die Anbetung der Konige. In altem Styl. 85/65cm,- 129.Die Anbetung der Konige. In altem Styl. 85/65cm,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000052-p.%209.jpg/full/max/0/default.jpg
+documents/BO0624_87426,98,130,Himmelfahrt ChristiIn altem Styl.,"130.Himmelfahrt ChristiIn altem Styl.
+
+Rund D. 5o cm",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000052-p.%209.jpg/full/max/0/default.jpg
+documents/BO0624_87426,99,131,"Kommode. Rococo, mit Blumen gemalt.","131. Kommode. Rococo, mit Blumen gemalt.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000052-p.%209.jpg/full/max/0/default.jpg
+documents/BO0624_87426,100,132,Desgl. Desgl.,132. Desgl. Desgl.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000052-p.%209.jpg/full/max/0/default.jpg
+documents/BO0624_87426,101,133,Jardiniere. Krone.,133.Jardiniere. Krone.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000052-p.%209.jpg/full/max/0/default.jpg
+documents/BO0624_87426,102,134,Schale mit Delphin.,"134.Schale mit Delphin.
+
+Fayencen.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000052-p.%209.jpg/full/max/0/default.jpg
+documents/BO0624_87426,103,135,Vase. Durchbrochen.Rouen. Bauer mit Esel. Fayencen. Desgl. Desgl.,135. Vase. Durchbrochen.Rouen. 137. Bauer mit Esel. Fayencen. 136. Desgl. Desgl.,
+documents/BO0624_87426,104,138,Desgl. Zwei desgl.,138. Desgl. 140. Zwei desgl.,
+documents/BO0624_87426,105,139,Zwei Pierrot-Teller.,139. Zwei Pierrot-Teller.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,106,7,141.,7. 141.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,107,8,142.,8. 142.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,108,9,Zwei Leuchter mit Pierrots.,9. Zwei Leuchter mit Pierrots.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,109,143,Desgl. Desgl.,143. Desgl. Desgl.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,110,11,145.,11. 145.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,111,12,Ochse.,12. Ochse.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,112,13,(Boeuf vosgien).,13. (Boeuf vosgien).,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,113,144,Salz- und Pfeffergefass mit Bauer.,144. Salz- und Pfeffergefass mit Bauer.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,114,146,Grosse Thonschissel.,146. Grosse Thonschissel.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,115,16,147.,16. 147.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,116,148,Majolika-Teller.,148. Majolika-Teller.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,117,18,Senfgefiss mit Bauerin.,18. Senfgefiss mit Bauerin.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,118,19,Teller. Italienisch.,19. Teller. Italienisch.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,119,149,Zwei Thonfiguren. Japanesen. 151.Zwei grosse Vasen mit Schlangenhenkeln. Watteau-Malerei und Blumen.,149. Zwei Thonfiguren. Japanesen. 21. 151.Zwei grosse Vasen mit Schlangenhenkeln. Watteau-Malerei und Blumen.,
+documents/BO0624_87426,120,150,Thonfigur.,150. Thonfigur.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,121,23,152.,23. 152.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,122,24,153.,24. 153.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,123,25,Desgl.,25. Desgl.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,124,26,Zwei Vasen mit Steifhenkeln und Blumen.,26. Zwei Vasen mit Steifhenkeln und Blumen.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,125,154,Theekanne.Alt.,"154. Theekanne.Alt.
+
+- Terrine mit Blumen.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,126,155,Sechs Teller. Viertheilig.,155. Sechs Teller. Viertheilig.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,127,157,156. Sechs desgl. desgl.,"- 157.
+
+156. Sechs desgl. desgl.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,128,158,Sechs desgl. desgl. Sechs desgl. mit Blumen.,158. Sechs desgl. desgl. 2. Sechs desgl. mit Blumen.,
+documents/BO0624_87426,129,159,Zwei Vasen mit Blumen. Schulenburg.,159. Zwei Vasen mit Blumen. Schulenburg.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,130,161,Zwei Vasen mit Schlangenhenkeln und GePorzellan. malden auf gelbem Fond.,161. Zwei Vasen mit Schlangenhenkeln und GePorzellan. malden auf gelbem Fond.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,131,5,160.,5. 160.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,132,6,Sauciere mit Blumen.,6. Sauciere mit Blumen.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,133,7,162.Zwei Vasen mit Watteau-Gemalden auf gelbem Fond. Schulenburg.,7. 162.Zwei Vasen mit Watteau-Gemalden auf gelbem Fond. Schulenburg.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,134,8,163.,8. 163.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,135,164,Zwei Japan-Teller. Blau und weiss. Zwei Vasen. Steifhenkel mit Blumen.,164. Zwei Japan-Teller. Blau und weiss. 10. Zwei Vasen. Steifhenkel mit Blumen.,
+documents/BO0624_87426,136,165,Funf Zwei Drei desgl.,"165. Funf 167. Zwei 166. Drei desgl.
+
+desgl. desgl.
+
+desgl. Kobalt und Gold.
+
+- Roth, blau und gelb.",
+documents/BO0624_87426,137,168,Drei desgl. Diverse Farben u. Gold.,168. Drei desgl. Diverse Farben u. Gold.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,138,169,Japan-Teller. Kobalt und Gold.,169. Japan-Teller. Kobalt und Gold.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000061-p.%2010.jpg/full/max/0/default.jpg
+documents/BO0624_87426,139,170,Bonbonniere. Blauer Fond mit Blumen gemalt. 172.,170. Bonbonniere. Blauer Fond mit Blumen gemalt. 2. 172.,
+documents/BO0624_87426,140,171,Figur. Staatsmann.,171. Figur. Staatsmann.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000062-p.%2011.jpg/full/max/0/default.jpg
+documents/BO0624_87426,141,173,Nachtlampe. Dose. Fein gemalt. Marcolini.,173. Nachtlampe. 5. Dose. Fein gemalt. Marcolini.,
+documents/BO0624_87426,142,174,Tasse mit Untertasse. 176.,174. Tasse mit Untertasse. 7. 176.,
+documents/BO0624_87426,143,175,Japan-Theedose mit Deckel.,175. Japan-Theedose mit Deckel.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000062-p.%2011.jpg/full/max/0/default.jpg
+documents/BO0624_87426,144,177,Dose. Meissen. Zwei Figuren. Frankenthal.,177. Dose. Meissen. 10. Zwei Figuren. Frankenthal.,
+documents/BO0624_87426,145,178,China-Flacon. Alt. Zwei Gliser. Geschliffen. Doschen in Silberfassung.,178. China-Flacon. Alt. 180. Zwei Gliser. Geschliffen. 179. Doschen in Silberfassung.,
+documents/BO0624_87426,146,181,Drei desgl. Vergoldung und Emaillen. Desgl. desgl. Teller.Vieux Sevres.,181. Drei desgl. Vergoldung und Emaillen. 183. Desgl. desgl. 182. Teller.Vieux Sevres.,
+documents/BO0624_87426,147,184,Jardiniere.,184. Jardiniere.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000062-p.%2011.jpg/full/max/0/default.jpg
+documents/BO0624_87426,148,185,Desgl. Gross oval. Neapel.,185. Desgl. Gross oval. Neapel.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000062-p.%2011.jpg/full/max/0/default.jpg
+documents/BO0624_87426,149,19,187.,19. 187.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000062-p.%2011.jpg/full/max/0/default.jpg
+documents/BO0624_87426,150,20,"Rund, reich verziert.Neapel.","20. Rund, reich verziert.Neapel.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000062-p.%2011.jpg/full/max/0/default.jpg
+documents/BO0624_87426,151,186,"Zwei Jardinieren.oGross, mit Engel.","186. Zwei Jardinieren.oGross, mit Engel.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000062-p.%2011.jpg/full/max/0/default.jpg
+documents/BO0624_87426,152,22,188.,22. 188.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000062-p.%2011.jpg/full/max/0/default.jpg
+documents/BO0624_87426,153,189,- Zwei Jardinieren. Blauer Grund.,"189.
+
+- Zwei Jardinieren. Blauer Grund.
+
+Zwei Figuren. Faun und
+
+- Jardiniere mit Salve.
+
+Bacchantin.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000062-p.%2011.jpg/full/max/0/default.jpg
+documents/BO0624_87426,154,190,Muschelschale mit schiessendem,190. Muschelschale mit schiessendem,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000062-p.%2011.jpg/full/max/0/default.jpg
+documents/BO0624_87426,155,2,Engel.,2. Engel.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000062-p.%2011.jpg/full/max/0/default.jpg
+documents/BO0624_87426,156,3,191.Muschelschalemitsitzendem Engel:,3. 191.Muschelschalemitsitzendem Engel:,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000062-p.%2011.jpg/full/max/0/default.jpg
+documents/BO0624_87426,157,192,Zwei Vasen.,192. Zwei Vasen.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000062-p.%2011.jpg/full/max/0/default.jpg
+documents/BO0624_87426,158,193,Blumenkorb. Schale.,193. Blumenkorb. 195. Schale.,
+documents/BO0624_87426,159,194,Desgl. Porzellan.,194. Desgl. Porzellan.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000062-p.%2011.jpg/full/max/0/default.jpg
+documents/BO0624_87426,160,8,196.,8. 196.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000062-p.%2011.jpg/full/max/0/default.jpg
+documents/BO0624_87426,161,197,Vase. Korb.,197. Vase. 10. Korb.,
+documents/BO0624_87426,162,198,Hahn. Glas.,198. Hahn. Glas.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000062-p.%2011.jpg/full/max/0/default.jpg
+documents/BO0624_87426,163,12,199.,12. 199.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000062-p.%2011.jpg/full/max/0/default.jpg
+documents/BO0624_87426,164,13,Vase. Baumstamm. Majolika.,"13. Vase. Baumstamm. Majolika.
+
+Faenza.
+
+Porzellan.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000062-p.%2011.jpg/full/max/0/default.jpg
+documents/BO0624_87426,165,I,talienische,"Italienische
+
+Majoliken.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000062-p.%2011.jpg/full/max/0/default.jpg
+documents/BO0624_87426,166,216,## Metalle.,"216.
+
+## Metalle.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000071-p.%2012.jpg/full/max/0/default.jpg
+documents/BO0624_87426,167,200,Venetianische Ampel. Bronce. Zwei Figuren. Leuchter. Louis XV. Messing.,200.Venetianische Ampel. Bronce. 202. Zwei Figuren. 201.Leuchter. Louis XV. Messing.,
+documents/BO0624_87426,168,203,Glocke.Messing.,203. Glocke.Messing.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000071-p.%2012.jpg/full/max/0/default.jpg
+documents/BO0624_87426,169,204,Bronce-Schale.,204. Bronce-Schale.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000071-p.%2012.jpg/full/max/0/default.jpg
+documents/BO0624_87426,170,205,Desgl.,205. Desgl.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000071-p.%2012.jpg/full/max/0/default.jpg
+documents/BO0624_87426,171,206,Rauchgarnitur. Bronce. Teller.Cuivre poli. Nautilus.,206. Rauchgarnitur. Bronce. 208. Teller.Cuivre poli. 207. Nautilus.,
+documents/BO0624_87426,172,209,Desgl. desgl.,209. Desgl. desgl.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000071-p.%2012.jpg/full/max/0/default.jpg
+documents/BO0624_87426,173,210,Zwei Degen mit schonen Stichblattern in Stahl geschnitten.,"- 210.
+
+Zwei Degen mit schonen Stichblattern in Stahl geschnitten.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000071-p.%2012.jpg/full/max/0/default.jpg
+documents/BO0624_87426,174,211,"Orientalische silbergruppe. 857o Gr. englisches Silber. Muselmann zu Pferd an einem Brunnen unter Palmen, dabei eine verschleierte Orientalin mit Kind und Ziege. Mit Sockel. Hohe ca.100 cm","211. Orientalische silbergruppe. 857o Gr. englisches Silber. 2. Muselmann zu Pferd an einem Brunnen unter Palmen, dabei eine verschleierte Orientalin mit Kind und Ziege. Mit Sockel. Hohe ca.100 cm",
+documents/BO0624_87426,175,212,Gebetbuch mit reichem Silberbeschlag.,212. Gebetbuch mit reichem Silberbeschlag.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000071-p.%2012.jpg/full/max/0/default.jpg
+documents/BO0624_87426,176,213,Nadelbichse mit Riechdoschen und Fingerhut. Silber.,213. Nadelbichse mit Riechdoschen und Fingerhut. Silber.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000071-p.%2012.jpg/full/max/0/default.jpg
+documents/BO0624_87426,177,214,"215. Reisebesteck in Etui.Messer, Gabel und Loffel.Perl-","214.
+
+215. Reisebesteck in Etui.Messer, Gabel und Loffel.Perl-
+
+Zuckerzange.  Storch.Silber.
+
+mutter.
+
+Messingschussel.Mit Adam und Eva.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000071-p.%2012.jpg/full/max/0/default.jpg
+documents/BO0624_87426,178,217,Zwei Manchettenknopfe.Gold mit Korallen.,"217.
+
+Zwei Manchettenknopfe.Gold mit Korallen.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000071-p.%2012.jpg/full/max/0/default.jpg
+documents/BO0624_87426,179,219,219. Zwei Zinnkannen. Gravirt.,"219. Zwei Zinnkannen. Gravirt.
+
+Notizbuch mit Messingdeckel.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000071-p.%2012.jpg/full/max/0/default.jpg
+documents/BO0624_87426,180,220,Zwei Dosen.,220. Zwei Dosen.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000071-p.%2012.jpg/full/max/0/default.jpg
+documents/BO0624_87426,181,221,Handspiegel. Vier Wandarme in Goldbronce mit Prismen. 6lichtig. Papagei. Bronce.,221. Handspiegel. 223. Vier Wandarme in Goldbronce mit Prismen. 6lichtig. 222. Papagei. Bronce.,
+documents/BO0624_87426,182,224,Sechs desgl. Alter chinesischer Metallspiegel. Laterne mit buntem Glas. 6 Flammen.,"224. Sechs desgl.
+
+desgl. 3"" 226. Alter chinesischer Metallspiegel. 225. Laterne mit buntem Glas. 6 Flammen.",
+documents/BO0624_87426,183,227,"Goldene Dose mit ciselirtem Deckel, ca. 59 gr. Emaildoschen. Goldene Uhr mit Petschaft, ca. so gr.","227. Goldene Dose mit ciselirtem Deckel, ca. 59 gr. 229. Emaildoschen. 228. Goldene Uhr mit Petschaft, ca. so gr.",
+documents/BO0624_87426,184,230,Dose mit Miniatur.,230.Dose mit Miniatur.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000071-p.%2012.jpg/full/max/0/default.jpg
+documents/BO0624_87426,185,231,Dose mit Mosaik. 233.,231. Dose mit Mosaik. 2. 233.,
+documents/BO0624_87426,186,232,Neun alte Petschafte in Kasten.,232. Neun alte Petschafte in Kasten.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,187,234,Korbchen. Silber. Broncering mit Miniatur.,234. Korbchen. Silber. 5. Broncering mit Miniatur.,
+documents/BO0624_87426,188,235,Bronce-Figur. Perlen-Flacon.In Bronce gefasst.,235. Bronce-Figur. 237. Perlen-Flacon.In Bronce gefasst.,
+documents/BO0624_87426,189,236,Zwei Kirchenkannchen. Innen vergoldet.,236. Zwei Kirchenkannchen. Innen vergoldet.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,190,9,238.,9. 238.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,191,239,Emaildose. Grin mit Silbereinlage. Schmuckkastchen.Ebenso.,239. Emaildose. Grin mit Silbereinlage. 11. Schmuckkastchen.Ebenso.,
+documents/BO0624_87426,192,240,Kupferteller. XVIl. Jahrhundert.Getrieben.,"240. Kupferteller. XVIl. Jahrhundert.Getrieben.
+- XVI. Jahrhundert.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,193,241,Laternchen. Silber mit gemalten Figuren auf Goldgrund.,241. Laternchen. Silber mit gemalten Figuren auf Goldgrund.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,194,242,Briefbeschwerer. Affe in Bronce auf Marmorfuss.,242. Briefbeschwerer. Affe in Bronce auf Marmorfuss.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,195,16,243.,16. 243.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,196,244,"Silberner Becher, ca. 104 gr.","244. Silberner Becher, ca. 104 gr.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,197,18,Cheminee-Garnitur.(Ofenvorsetzer.)Goldbronce.,18. Cheminee-Garnitur.(Ofenvorsetzer.)Goldbronce.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,198,19,245.,19. 245.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,199,20,246.,20. 246.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,200,21,"Funf Essloffel. Silber, ca. 284 gr.","21. Funf Essloffel. Silber, ca. 284 gr.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,201,22,247.,22. 247.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,202,23,Zwolf 'Theeloffel. do. 144,23. Zwolf 'Theeloffel. do. 144,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,203,248,"Zuckerzange. do. "" 30 Sieben desgl. do. 69","248. Zuckerzange. do. "" 30 25. Sieben desgl. do. 69",
+documents/BO0624_87426,204,249,Gewehr. Desgl. Desgl.,249. Gewehr. 251. Desgl. 250. Desgl.,
+documents/BO0624_87426,205,252,Messingschissel mit. gemaltem Obst.,252. Messingschissel mit. gemaltem Obst.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,206,253,Pokal.Versilbert mit Landsknecht. Trinkhorn mit versilbertem Beschlag. Krug. Mit Mozart und Beethoven.,253. Pokal.Versilbert mit Landsknecht. 255. Trinkhorn mit versilbertem Beschlag. 254. Krug. Mit Mozart und Beethoven.,
+documents/BO0624_87426,207,256,Schnelle mit mythologischen Figuren.,256. Schnelle mit mythologischen Figuren.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,208,257,Grosse Bronce-Platte. Pharao's Durchgang durch das rothe Meer.148/93cm.,257. Grosse Bronce-Platte. Pharao's Durchgang durch das 35. rothe Meer.148/93cm.,
+documents/BO0624_87426,209,258,Briefbeschwerer.J Japanische Bronce.,258. Briefbeschwerer.J Japanische Bronce.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,210,259,Schloss. Fein gravirt. Japanisches Silber.,259. Schloss. Fein gravirt. Japanisches Silber.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,211,38,260.,38. 260.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,212,39,Zwei alte Degen.,39. Zwei alte Degen.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,213,261,Drei desgl.,261. Drei desgl.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,214,262,Arabischer Dolch.,262. Arabischer Dolch.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000072-p.%2013.jpg/full/max/0/default.jpg
+documents/BO0624_87426,215,263,Zwei alte Pistolen.,"263. Zwei alte Pistolen.
+## D.Holz uElfenbein,Miniaturen.",
+documents/BO0624_87426,216,264,"Kirschkern als Korbchen geschnitzt.Amor auf dem mit vier Pferden bespannten Siegeswagen, zwei Amoretten sich umarmend und auf einem Postament ein Paar schnabelnde Tauben.","264. Kirschkern als Korbchen geschnitzt.Amor auf dem mit vier Pferden bespannten Siegeswagen, zwei Amoretten sich umarmend und auf einem Postament ein Paar schnabelnde Tauben.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,217,2,"265.Desgl.Sitzende Figur, die Leyer spielend und elf Figuren, welche einen Reigen tanzen.","2. 265.Desgl.Sitzende Figur, die Leyer spielend und elf Figuren, welche einen Reigen tanzen.
+
+Diese interessanten Schnitzereien sollen von Leo Pronner in Nirnberg, geb.155o zu Thalhausen in Karnthen, gefertigt sein.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,218,266,"Marmorfigur #Penelopea-ron Professor Leonidas Drossis. Hohe 75, Lange 6o, Breite 30 cm.","266. Marmorfigur #Penelopea-ron Professor Leonidas Drossis. Hohe 75, Lange 6o, Breite 30 cm.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,219,267,Schachbrett und Figuren. Chinesisch.,267. Schachbrett und Figuren. Chinesisch.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,220,268,Japanische Flote.,268. Japanische Flote.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,221,4,269.,4. 269.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,222,270,Desgl.,270. Desgl.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,223,6,Elfenbeingruppe. Reiher auf Lotos. Japan.,6. Elfenbeingruppe. Reiher auf Lotos. Japan.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,224,7,271.,7. 271.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,225,8,Huhnerfamilie.,8. Huhnerfamilie.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,226,9,Vier diverse Dosen.Japan.,9. Vier diverse Dosen.Japan.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,227,272,Holzfigur.Die Wachsamkeita. konigskirche in Sachsenhausen. Polychrom.,272. Holzfigur.Die Wachsamkeita. konigskirche in Sachsenhausen. Polychrom.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,228,273,Holzschnitzerei Katera.,273. Holzschnitzerei Katera.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,229,274,Schnupftabakdose in Form eines Pulverhorns.,274. Schnupftabakdose in Form eines Pulverhorns.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,230,275,Facher mit schonen Medaillons.,275. Facher mit schonen Medaillons.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,231,276,Miniatur.Frauenbildniss.,276. Miniatur.Frauenbildniss.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,232,277,Desgl.Portrait eines Mannes.,277. Desgl.Portrait eines Mannes.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,233,278,Zwei Miniaturen. Musen.Italienisch.,278. Zwei Miniaturen. Musen.Italienisch.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,234,279,Miniatur.Marie Antoinette.,"279. Miniatur.Marie Antoinette.
+
+## E. Uhren, Mobel u. dergl.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,235,280,Pendule.Mahagoni mit Bronzen.Franzosisch.,280. Pendule.Mahagoni mit Bronzen.Franzosisch.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,236,281,Empire-Standuhr. Crystall.,281. Empire-Standuhr. Crystall.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,237,282,Pendule.Bronze.,282. Pendule.Bronze.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,238,283,Desgl.Bronzirt. lehnend.Hohe 73 cm.,283. Desgl.Bronzirt. lehnend.Hohe 73 cm.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,239,5,"Weibliche Figur, an einer Saule","5. Weibliche Figur, an einer Saule",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,240,6,Stammt aus der Drei-,6. Stammt aus der Drei-,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000081-p.%2014.jpg/full/max/0/default.jpg
+documents/BO0624_87426,241,284,Cassette. Elfenbeinartig gepresst.,284. Cassette. Elfenbeinartig gepresst.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,242,285,Desgl.Schwarz.,285. Desgl.Schwarz.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,243,286,Spielcassette. Eichenholz mit Beschligen.,286. Spielcassette. Eichenholz mit Beschligen.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,244,4,287.,4. 287.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,245,288,Bambusstinder.,288. Bambusstinder.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,246,6,Pluschcassette mit antiken Beschligen.,6. Pluschcassette mit antiken Beschligen.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,247,7,289.,7. 289.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,248,290,Pfefferrohrstinder.,290. Pfefferrohrstinder.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,249,9,291.,9. 291.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,250,292,Desgl.,292. Desgl.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,251,11,"Zeitungsstander. Rother Plusch, gemalt.","11. Zeitungsstander. Rother Plusch, gemalt.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,252,12,Stander in vergoldetem Rohr.,12. Stander in vergoldetem Rohr.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,253,13,293.,13. 293.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,254,14,294.,14. 294.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,255,15,"Photographiestander. Holz, gemalt.","15. Photographiestander. Holz, gemalt.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,256,295,"Spieltisch.Achteckig, mit Spielen.Eichenholz. Holzcassette mit Beschlagen.","295. Spieltisch.Achteckig, mit Spielen.Eichenholz. 17. Holzcassette mit Beschlagen.",
+documents/BO0624_87426,257,296,Desgl. Viereckig. Eichenholz.,296. Desgl. Viereckig. Eichenholz.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,258,297,Schreibtisch.,297. Schreibtisch.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,259,20,298.,20. 298.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,260,21,Pouf.Turkische Stickerei.,21. Pouf.Turkische Stickerei.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,261,299,Kleine Truhe in grunem Stof.,299. Kleine Truhe in grunem Stof.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,262,300,Desgl.,300. Desgl.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,263,301,Rococo-Glasschrinkchen.,301. Rococo-Glasschrinkchen.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,264,302,Desgl.,302. Desgl.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,265,303,Rococo-Hocker.,303. Rococo-Hocker.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,266,304,Desgl. Desgl.,304. Desgl. 306. Desgl.,
+documents/BO0624_87426,267,305,Glasschrankchen. Rococo.Vergoldet.,305. Glasschrankchen. Rococo.Vergoldet.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,268,30,Desgl.,30. Desgl.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,269,307,Zwei weisse Tische mit Gold.Renaissance.,307. Zwei weisse Tische mit Gold.Renaissance.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,270,308,Bauerntisch mit reichen Einlagen.,308. Bauerntisch mit reichen Einlagen.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,271,33,309.,33. 309.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,272,34,311.,34. 311.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,273,35,Antikes Schmuckkastchen von Ebenholz. 7 Schubladchen,35. Antikes Schmuckkastchen von Ebenholz. 7 Schubladchen,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,274,36,"mit modellirter Silberarbeit, radirt auf Untergrund.","36. mit modellirter Silberarbeit, radirt auf Untergrund.
+
+## F. Diverse.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,275,310,Schale.  Gepresstes Leder.,310. Schale.  Gepresstes Leder.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,276,2,312.,2. 312.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,277,3,Indische Decke.,3. Indische Decke.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,278,4,Wahl und Kronungs-Diarium Karl VI. Frankfurt a.M. 1712,4. Wahl und Kronungs-Diarium Karl VI. Frankfurt a.M. 1712,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,279,313,Desgl. Franz I. do. 1746.,313. Desgl. Franz I. do. 1746.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,280,6,314.Lersner's Chronik yon Frankfurt a. M.1706.,6. 314.Lersner's Chronik yon Frankfurt a. M.1706.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000082-p.%2015.jpg/full/max/0/default.jpg
+documents/BO0624_87426,281,7,desgl.,"7. desgl.
+- Chronik von Deutschland. AugsGermaniae Chronicon.",
+documents/BO0624_87426,282,316,315. burg 1538.,"- 316.
+315. burg 1538.
+- Candelaber.Crystall.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,283,317,- Alte Decke mit Stickerei (Papst).,"- 317.
+- Alte Decke mit Stickerei (Papst).",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,284,318,- Zwei Sticke alter Seidendamast.,"- 318.
+- Zwei Sticke alter Seidendamast.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,285,319,Brocatmiitze.,319. Brocatmiitze.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,286,320,Alte Weste.,320. Alte Weste.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,287,321,Dreieck in Brocat.,321. Dreieck in Brocat.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,288,322,Kleine Stickerei.,322. Kleine Stickerei.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,289,323,Ovale Haube.,323. Ovale Haube.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,290,325,325. Diverse Decorationsstoffe.,"325. Diverse Decorationsstoffe.
+- Degengehang.
+- Ofenschirm.Gestickt.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,291,326,## G. Muinzen und Medaillen.,"- 326.
+
+## G. Muinzen und Medaillen.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,292,327,"Anhangemunzen.4 Stick, dabei St. Georg, Anhalt und","- 327.Anhangemunzen.4 Stick, dabei St. Georg, Anhalt und",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,293,328,Anhalt.Vereinigungsthaler 1863.,"328. Anhalt.Vereinigungsthaler 1863.
+- Salzburg.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,294,329,"Baden. Ducat Amalie Friederike, Erbprinzessin.Carlsruhe 1776 mit Brustbild.","329. Baden. Ducat Amalie Friederike, Erbprinzessin.Carlsruhe 1776 mit Brustbild.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,295,331,330. Desgl. Zweiguldenstick 1846.,"- 331.
+330. Desgl. Zweiguldenstick 1846.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,296,332,Desgl. Schuitzengulden 1863.,"332. Desgl. Schuitzengulden 1863.
+- Desgl. Thaler 1836Zu ihrer Volker Heil.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,297,333,Desgl.,333. Desgl.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,298,334,- 335.,"- 334.
+- 335.
+- Bamberg. Contributionsthaler 1795.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,299,336,Desgl. Marienthaler 1771,"336. Desgl. Marienthaler 1771
+- Schitzengulden 1867.
+- Bayern. Marienthaler 1771
+- Stempelvar.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,300,337,Desgl. Marienthaler 1778.,337. Desgl. Marienthaler 1778.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,301,338,Desgl. Marienthaler 1786.,338. Desgl. Marienthaler 1786.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,302,339,Desgl. Kronthaler 1837.,339. Desgl. Kronthaler 1837.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000091-p.%2016.jpg/full/max/0/default.jpg
+documents/BO0624_87426,303,340,Desgl.Doppelthaler 1842 Vermahlung des Erbprinzen. Brabant.Goldner Real. Berg. Reichsthaler 1803.,340. Desgl.Doppelthaler 1842 Vermahlung des Erbprinzen. 342. Brabant.Goldner Real. 341. Berg. Reichsthaler 1803.,
+documents/BO0624_87426,304,343,Brandenburg. Reichsthaler 1742. 2,"343. Brandenburg. Reichsthaler 1742. 2
+2",
+documents/BO0624_87426,305,344,Brandenburg. Gulden1753.,- 344.Brandenburg. Gulden1753.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000092-p.%2017.jpg/full/max/0/default.jpg
+documents/BO0624_87426,306,345,Brasilien. Thaler 1851 zu 200o Reis.,345. Brasilien. Thaler 1851 zu 200o Reis.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000092-p.%2017.jpg/full/max/0/default.jpg
+documents/BO0624_87426,307,346,Braunschweig. Thaler 1611.Heinrich Julius.,346. Braunschweig. Thaler 1611.Heinrich Julius.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000092-p.%2017.jpg/full/max/0/default.jpg
+documents/BO0624_87426,308,347,Desgl. Thaler 1619.Friedrich Ulrich.,347. Desgl. Thaler 1619.Friedrich Ulrich.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000092-p.%2017.jpg/full/max/0/default.jpg
+documents/BO0624_87426,309,349,348. Desgl. Thaler 1701.,"- 349.
+348. Desgl. Thaler 1701.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000092-p.%2017.jpg/full/max/0/default.jpg
+documents/BO0624_87426,310,350,Desgl. Gulden 1797.,"350. Desgl. Gulden 1797.
+- Desgl. Thaler 1714.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000092-p.%2017.jpg/full/max/0/default.jpg
+documents/BO0624_87426,311,351,Desgl. Zweithalerstuck 185625jahr.Regierunga.,351. Desgl. Zweithalerstuck 185625jahr.Regierunga.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000092-p.%2017.jpg/full/max/0/default.jpg
+documents/BO0624_87426,312,352,Bremen.,352. Bremen.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000092-p.%2017.jpg/full/max/0/default.jpg
+documents/BO0624_87426,313,353,Chile.Thaler 1868.,"353. Chile.Thaler 1868.
+- Schitzenthaler 1865.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000092-p.%2017.jpg/full/max/0/default.jpg
+documents/BO0624_87426,314,354,Coln. Goldgulden von circa 15o0.,354. Coln. Goldgulden von circa 15o0.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000092-p.%2017.jpg/full/max/0/default.jpg
+documents/BO0624_87426,315,355,- Danemark.Viermarkstick 1690.,"- 355.
+- Danemark.Viermarkstick 1690.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000092-p.%2017.jpg/full/max/0/default.jpg
+documents/BO0624_87426,316,356,Deutsche Kaiser.Chaise d'or von Ludwig IV. Schraubthaler Carl VIl. 1744 mit inte- Desgl. Medaille mit Brustbild Kaiser Sigismunds.,"356. Deutsche Kaiser.Chaise d'or von Ludwig IV. 358. Schraubthaler Carl VIl. 1744 mit inte- 357. Desgl. Medaille mit Brustbild Kaiser Sigismunds.
+- Desgl. ressanten Trachten-Miniaturen.",
+documents/BO0624_87426,317,359,Desgl. - Goldminze Carls V. Desgl. Thaler Ferdinand II.1621.,"359. Desgl. - 361.
+- Goldminze Carls V. 360. Desgl. Thaler Ferdinand II.1621.
+- vor Wien.
+- Desgl. Medaille1683. Vertreibung der Turken",
+documents/BO0624_87426,318,362,Desgl. Thaler Leopold 1695. Eggenberg. Thaler 1658. Desgl. Thaler Maria Theresias 1766.,362. Desgl. Thaler Leopold 1695. 364. Eggenberg. Thaler 1658. 363. Desgl. Thaler Maria Theresias 1766.,
+documents/BO0624_87426,319,365,England. Groat von Heinrich V. Desgl. Medaille1706.Anna. Desgl. Thaler 1677. Carl I1.,365. England. Groat von Heinrich V. 367. Desgl. Medaille1706.Anna. 366. Desgl. Thaler 1677. Carl I1.,
+documents/BO0624_87426,320,368,Desgl. Georg 1Il. 1/2 Thaler 1818.,368. Desgl. Georg 1Il. 1/2 Thaler 1818.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000092-p.%2017.jpg/full/max/0/default.jpg
+documents/BO0624_87426,321,369,- Florenz. Thaler 1677.,"- 369.
+- Florenz. Thaler 1677.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000092-p.%2017.jpg/full/max/0/default.jpg
+documents/BO0624_87426,322,370,- Desgl. 1/2 Thaler 1829.,"- 370.
+- Desgl. 1/2 Thaler 1829.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000092-p.%2017.jpg/full/max/0/default.jpg
+documents/BO0624_87426,323,371,Frankreich.Z Zwei alte Tournosen. Desgl. Thaler Ludwig XIV.1693. Desgl. Ducat Ludwig XIll. 1643.,371. Frankreich.Z Zwei alte Tournosen. 373. Desgl. Thaler Ludwig XIV.1693. 372. Desgl. Ducat Ludwig XIll. 1643.,
+documents/BO0624_87426,324,374,Desgl. Thaler. Ludwig XVI. 1789.,374. Desgl. Thaler. Ludwig XVI. 1789.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000092-p.%2017.jpg/full/max/0/default.jpg
+documents/BO0624_87426,325,375,Friedberg.,"375. Friedberg.
+- Gulden 1675.
+- Fulda.Contributionsthaler 1795.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000092-p.%2017.jpg/full/max/0/default.jpg
+documents/BO0624_87426,326,377,377. Geldern. Thaler 1792.,377. Geldern. Thaler 1792.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000092-p.%2017.jpg/full/max/0/default.jpg
+documents/BO0624_87426,327,378,Groningen.Klippe 1672.,378. Groningen.Klippe 1672.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000092-p.%2017.jpg/full/max/0/default.jpg
+documents/BO0624_87426,328,380,Hannover.2 2/3 Thaler 1826.,380. Hannover.2 2/3 Thaler 1826.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,329,381,Desgl. Thaler 1865Waterlo0.,381. Desgl. Thaler 1865Waterlo0.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,330,382,Hohenzollern.1/2 Gulden 1852.,382. Hohenzollern.1/2 Gulden 1852.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,331,383,Holland.Thaler 18o8.Ludwig Napoleon.,383. Holland.Thaler 18o8.Ludwig Napoleon.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,332,384,Japan. Lippe.,384. Japan. 386. Lippe.,
+documents/BO0624_87426,333,385,Desgl. 1/2Thaler.,385. Desgl. 1/2Thaler.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,334,8,Thaler.,8. Thaler.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,335,9,Thaler 1860.,9. Thaler 1860.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,336,388,'Lucca.Thaler 1756.,388. 'Lucca.Thaler 1756.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,337,387,Lothringen. Goldminze (circa 1400.),387. Lothringen. Goldminze (circa 1400.),http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,338,12,389.,12. 389.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,339,13,Luttich.Thaler 1570.,13. Luttich.Thaler 1570.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,340,391,Mailand.1/4 Thaler.,391. Mailand.1/4 Thaler.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,341,390,Mansfeld. 1/s Thaler 1671 mit St. Georg. Gehenkelt.,390. Mansfeld. 1/s Thaler 1671 mit St. Georg. Gehenkelt.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,342,16,392.,16. 392.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,343,393,Modena. Goldminze.,393. Modena. Goldminze.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,344,18,394.,18. 394.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,345,19,Mecklenburg. Vereinsthaler 1870.,19. Mecklenburg. Vereinsthaler 1870.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,346,20,Munster. Friedens-Schaustick 1648.,20. Munster. Friedens-Schaustick 1648.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,347,21,395.,21. 395.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,348,22,Ducat der Reformationsfeier 1617.,22. Ducat der Reformationsfeier 1617.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,349,23,Nordlingen. Goldgulden aus dem 15. Jahrhundert.,23. Nordlingen. Goldgulden aus dem 15. Jahrhundert.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,350,396,Nurnberg.,396. Nurnberg.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,351,397,Desgl. 1/2 viereckiger Ducat 1700.,397. Desgl. 1/2 viereckiger Ducat 1700.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,352,26,398.,26. 398.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,353,27,Ostfriesland. Goldgulden 1582.,27. Ostfriesland. Goldgulden 1582.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,354,399,Overyssel.Ducat.,399. Overyssel.Ducat.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,355,400,Passau. 1/2Ducat 1716. Pfalz. Goldgulden (in Heidelberg geprigt). Peru. 1/2 Thaler 1844.,400. Passau. 1/2Ducat 1716. 402. Pfalz. Goldgulden (in Heidelberg geprigt). 401. Peru. 1/2 Thaler 1844.,
+documents/BO0624_87426,356,403,Preussen. Medaille 1768.,403. Preussen. Medaille 1768.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,357,33,404.,33. 404.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,358,34,Desgl. Sterbethaler 1786.,34. Desgl. Sterbethaler 1786.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,359,35,406.,35. 406.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,360,405,Desgl. Medaille 1787.,405. Desgl. Medaille 1787.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,361,407,Desgl.,407. Desgl.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,362,38,409.,38. 409.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,363,39,Reuss. Thaler 1858.,39. Reuss. Thaler 1858.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,364,40,408 Sachsen. Galvanische Copie einer Medaille 1594.,40. 408 Sachsen. Galvanische Copie einer Medaille 1594.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,365,410,Bronce-Medaille.Bernhard Erich Freund zum,410. Bronce-Medaille.Bernhard Erich Freund zum,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,366,42,411.,42. 411.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,367,43,Thaler 1868.,43. Thaler 1868.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,368,44,Desgl. Kleine Medaille von Johann Georg IIl.,44. Desgl. Kleine Medaille von Johann Georg IIl.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,369,45,Desgl. 25 jahrigen Reg.-Jub.1846.,45. Desgl. 25 jahrigen Reg.-Jub.1846.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,370,46,Sachsen. Vereinsthaler 1854.Tod Friedrich Augusts II.,46. Sachsen. Vereinsthaler 1854.Tod Friedrich Augusts II.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,371,413,Desgl. Thaler 1623. Salzburg. Thaler 1620.,413. Desgl. Thaler 1623. 412. Salzburg. Thaler 1620.,
+documents/BO0624_87426,372,414,"Desgl. Medaille auf die Erbauung der Kirche 24,","414. Desgl. Medaille auf die Erbauung der Kirche 24,",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,373,50,415.,50. 415.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,374,25,Sept. 1628.,25. Sept. 1628.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,375,52,Desgl. Gulden 1682.,52. Desgl. Gulden 1682.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000101-p.%2018.jpg/full/max/0/default.jpg
+documents/BO0624_87426,376,416,Salzburg. Anhangemedaille 1689.,416. Salzburg. Anhangemedaille 1689.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,377,2,Thaler 1696.,2. Thaler 1696.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,378,418,Schlesien. Klippe 1621. Desgl.,418. Schlesien. Klippe 1621. 417. Desgl.,
+documents/BO0624_87426,379,419,Spanien. Sevillaner Real.,419. Spanien. Sevillaner Real.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,380,6,Goldscudo.,6. Goldscudo.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,381,421,Stuttgart. Schiitzenmedaille.,421. Stuttgart. Schiitzenmedaille.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,382,420,Desgl.,420. Desgl.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,383,9,Selten.,9. Selten.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,384,422,Ulm.Klippe 1704.,422. Ulm.Klippe 1704.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,385,423,Ungarn. Gulden 1705. Waldeck.Vereinsthaler 1839. Desgl. Marienthaler 1769.,423. Ungarn. Gulden 1705. 425. Waldeck.Vereinsthaler 1839. 424. Desgl. Marienthaler 1769.,
+documents/BO0624_87426,386,426,Weimar.Gulden 1613. Wurttemberg.J Jubilaumsgulden 1841.,426. Weimar.Gulden 1613. 428. Wurttemberg.J Jubilaumsgulden 1841.,
+documents/BO0624_87426,387,427,Wien.Schutzenthaler 1868.Selten.,427. Wien.Schutzenthaler 1868.Selten.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,388,17,Demlandwirthschaft-,17. Demlandwirthschaft-,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,389,429,"Desgl. Broncemedaille lichen Verdienst, o. J.","429. Desgl. Broncemedaille lichen Verdienst, o. J.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,390,430,Zeeland.Gulden1683.,430. Zeeland.Gulden1683.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,391,431,Karnthen.I Ducat 1565.,431. Karnthen.I Ducat 1565.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,392,432,Maestricht.,432. Maestricht.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,393,433,Strassburg. Gulden 1685.,433. Strassburg. 23. Gulden 1685.,
+documents/BO0624_87426,394,434,Zwei Zwanzigkreuzersticke.,434. Zwei Zwanzigkreuzersticke.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,395,435,27 Scheideminzen.,"435. 27 Scheideminzen.
+
+## Francofurtensien.",http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,396,436,Gulden 1672.,436. Gulden 1672.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,397,2,437.,2. 437.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,398,3,Contributionsthaler 1796.,3. Contributionsthaler 1796.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,399,438,Zweiguldenstick 1848. Desgl. Goethefeier 1849. Desgl. Erzherzog Johann.,438. Zweiguldenstick 1848. 440. Desgl. Goethefeier 1849. 439. Desgl. Erzherzog Johann.,
+documents/BO0624_87426,400,441,Thaler 18s8.Mit den Thurmen.,441. Thaler 18s8.Mit den Thurmen.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,401,8,442.,8. 442.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,402,9,Schillerthaler 1859.,9. Schillerthaler 1859.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,403,443,Furstentagthaler 1863.,443. Furstentagthaler 1863.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,404,11,444.,11. 444.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,405,12,Schitzenmedaille (offiziell) 1887.,12. Schitzenmedaille (offiziell) 1887.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,406,445,Kaiser Carl Vl. Kronungsmedaille 1711.,445. Kaiser Carl Vl. Kronungsmedaille 1711.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,407,446,Desgl.,446. Desgl.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,408,15,1711.,15. 1711.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,409,16,447.,16. 447.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,410,17,Medaille 1887.Reformirte Gemeinde.,17. Medaille 1887.Reformirte Gemeinde.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,411,448,Schutzenmedaille 1862.,448. Schutzenmedaille 1862.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,412,449,Medaille 184o.IV. Sacular-Feier der Buchdruckerkunst.,449. Medaille 184o.IV. Sacular-Feier der Buchdruckerkunst.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg
+documents/BO0624_87426,413,20,Belagerungsthaler 1794.,20. Belagerungsthaler 1794.,http://137.204.64.39/image/iiif/3/BO0624_87426!BO0624_87426_000102-p.%2019.jpg/full/max/0/default.jpg

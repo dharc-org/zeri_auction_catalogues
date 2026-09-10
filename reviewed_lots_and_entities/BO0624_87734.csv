@@ -1,0 +1,2 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_87734,458829,1,I,"talienischer Meister. Hervorragendes Stick. 30:23,auf Kupferplatte.",193,99.2,False,positional,,,Tenne,,

@@ -1,0 +1,762 @@
+## CONDITIONS DE LA VENTE
+
+Elle sera faite expressement au comptant.
+
+Les acquereurs paieront 19 fr. 50 pour cent en sus des encheres.
+<!-- image -->
+
+## Dessins, Aquarelles, Gouaches
+
+## BEAUVARLET (Jacques-Firmin)
+
+1731-1797.
+
+## DEUX PENDANTS
+
+Pensent-ils a ce mouton ? La Confidence.
+
+Compositions pastorales galantes, d’apres F. Boucher.
+
+Deux dessins au crayon noir et rehauts de blanc.
+
+Haut.,3g cent.1/2;larg.,31 cent.1/2.
+
+## BEAUVARLET (J.-F.)
+
+3 Renaud et Armide.
+
+Armide, assise sur un coussin, vetue d'une tunique serree par une echarpe, la chevelure paree de perles et d'une rose, se penche vers Renaud étendu a ses pieds, pendant que des amours se sont empares de ses armes.
+
+Dessin au crayon noir et rehauts de blanc, d'apres F.
+
+Boucher.
+
+Haut., 32 cent.1/2; larg.,40 cent.
+
+## 1-2
+## BOILLY
+
+## (Louis-Leopold) 1761-1845.
+
+## Un Cabaret de Paris,en 1815.
+
+La scene tres animee de gens du peuple attables, jouant ou buvant, se passe dans la salle d'un cabaret populaire.Un joueur de vielle fait danser des marionnettes pour amuser deux enfants. Par une porte ouverte, au fond, on apercoit d'autres groupes de personnages.
+
+Tres important dessin a la plume, lavis d'encre de Chine et aquarelle.
+
+Haut.,5g cent.1/2;larg., 82 cent.
+
+Exposition Centennale de Icoo.
+
+Cite par H Harrisse,L.-L. Boilly,p.163,n 885.
+
+Le tableau, lithographie par Jules Boilly, figura a la vente Boilly de 1829.
+
+Voir la reproduction.
+## BOILLY (L.-L.)
+
+## 5 La Lecture du onzieme bulletin de la Grande Armee.
+
+Dans un interieur, autour d'une table que recouvre une carte de l'Europe deployee,de nombreux personnages sont reunis et commentent le bulletin qui apporte le detail des operations militaires et le progres de la Grande Armee.
+
+Important dessin a la plume, lavis d’encre de Chine,rehausse
+
+Haut., 42 cent.1/2;larg.,58 cent.
+
+d'aquarelle.
+
+Ce dessin est sans doute celui qui a figure a la vente Arnault, le 15 avril 1835,n°2I,et qui est cite par H.Harrisse,L.-L. Boilly, p.176,n1o74.
+
+Le tableau, de meme grandeur, figura au Salon de 18o8 (n°54）, a la vente Boilly de 182g (no 6),a la vente Daupias de 18g2 (n°2).
+
+Voir la reproduction.
+## 8
+
+## DROUAIS (Attribue a Hubert)
+
+## Portrait de la Princesse Louise de France, fille du Roi Louis XV.
+
+De face, a mi-corps, debout, en robe garnie de dentelle, et tenant de ses deux mains une guirlande de feurs. Gouache de forme ovale.
+
+.Haut.,28 cent.;larg.,23 cent.
+
+## DROUAIS (Attribue a H.)
+
+## Portrait de jeune femme.
+
+En buste, de trois quarts a gauche, corsage decollete et petite collerette, la chevelure relevee et ornee de feurs. Dessin au crayon.
+
+Haut., 31 cent.; larg., 23 cent. 1/2.
+
+Beau cadre Regence, en bois sculpte dore.
+
+## ECOLE FRANCAISE
+
+## Les Amoureux.
+
+Un galant, debout, a passe son bras autour du cou d'une jeune fille assise pres de lui et l'embrasse. Dessin a la sanguine.
+
+## (xVIll siecle)
+
+Haut.,42 cent.;larg., 3o cent. 1/2.
+10-11
+
+## ECOLE FRANCAISE
+
+Fete champetre.
+
+Reunion de personnages dans un parc.
+
+Dessin a la plume.
+
+Haut.,27 cent.;!arg,34 cent
+
+Cadre en bois sculpte dore.
+
+## ECOLE FRANCAISE
+
+DEUX PENDANTS
+
+Le Financier. L'Emprunteur.
+
+Dans de somptueux interieurs, on voit, dans l'un, l'opulent financier assis, lisant une requete qu'un visiteur reste debout, canne et chapeau a la main, vient de lui remettre. Dans l'autre, toujours assis, il fait compter des écus par un valet que celui-ci met dans un sac.
+
+Deux dessins aquarelles et rehausses de gouache.
+
+Haut.,24 cent.;larg.,18 cent.
+
+Cadres en bois sculpte dore.
+## 13
+
+## FRAGONARD (Jean-Honore)
+
+1732-1806.
+
+## La Visite au grand'pere. 12 1
+
+Devant la porte de son habitation rustique, assis dans son gros chien tire un petit chariot d'enfant. Dessin a la plume et lavis de sepia.
+
+fauteuil, il recoit ses enfants et petits-enfants. A gauche,un
+
+Haut.,28 cent. 1/2; larg,31 cent.
+
+Collection du Baron A. de R..., a Paris. Exposition Fragonard,a Paris, juin-juillet 1g21,n132.
+
+Voir la reproduction.
+
+## GREUZE (D'apres Jean-Baptiste)
+
+L'Accordee de village.
+
+Importante composition bien connue par la gravure de Flipart.
+
+Dessin au crayon noir.
+
+Haut., 46 cent.; larg., 62 cent.
+## ISABEY (Jean-Baptiste)
+
+1767-1855.
+
+## Le Petit Coblentz 14
+
+Vue du boulevard de Gand, sous le Directoire. L'artiste y a groupe, en caricature, les Proteges des Graces : sur la gauche, Vestris; devant lui, Mme Recamier au bras de Garat.Au fond, a droite,Bonaparle et Talleyrand;vers le centre, Murat assis, une canne a la main.Tout a fait a
+
+Important dessin a la plume rehausse d'aquarelle.
+
+gauche, au premier plan, lartiste lui-meme.
+
+Haut., 45 cent.1/2;larg.,45 cent.
+
+Collection du Comte de La Beraudiere,vente a Paris, avril 1883,n 153. Collection Richard Lion,vente a Paris,avril 1886,n° 63.
+
+Voir la reproduction.
+
+## LANCRET (Nicolas)
+
+1690-1743.
+
+## 15 Jeune Femme debout.
+
+Elle est vue en pied, de profl, tournee vers la droite, relevant de sa main un pli de sa robe.
+
+Dessin a la sanguine.
+
+Haut., 22 cent.1/2;larg.,12 cent. 1/2.
+## LANCRET (Attribue a Nicolas)
+
+## 16 Un Mezzetin.
+
+En pied, assis, le corps renverse, le visage de face. Dessin a la sanguine.
+
+Haut.,21 cent.1/2;larg.,24 cent.1/2.
+
+## LAWREINCE (D'apres Nicolas)
+
+## La Partie de musique.
+
+Sur une terrasse, dans un parc, un groupe de quatre personnes faisant de la musique.
+
+Haut.,29 cent.; larg., 35 cent.
+
+Gouache.
+
+Cadre Louis XVI en bois sculpte dore.
+
+Composition gravee par V. Langlois le jne.
+
+## ROBERT (Attribue a Hubert)
+
+18-19 Ruines de Villas romaines.
+
+Deux compositions animees de personnages formant pen- dants.
+
+Deux dessins aquarelles et gouaches.
+
+Haut., 33 cent.; larg., 45 cent. 1/2
+## SCHENEAU (Jean-Eleazar)
+
+1737-1806.
+
+## DEUX PENDANTS
+
+## 20 Les Apprets de la maternite.
+
+Dans un interieur Louis xVI, ou deux chambrieres preparent un lit,un jeune homme accompagne sa jeune epouse dont la delivrance est proche. Au second plan, un medecin est assis consultant sa montre.
+
+## 21
+
+## La Toilette du nouveau-ne.
+
+Une jeune femme, assise au coin du feu, tient le bebé qu'elle va remettre a une nourrice qui s'apprete a lui donner le sein.
+
+Deux dessins au lavis et aquarelles.
+
+Haut.,18cent.1/2;larg.,24 cent.1/2.
+
+Cadres en bois sculpté.
+
+Collection P. Decourcelle,vente a Paris,29 mai 1g11,nos 161-162.
+
+Voir les reproductions.
+
+<!-- image -->
+<!-- image -->
+
+## Tableaux, Pastels
+
+## ECOLE FRANCAISE
+
+(xve siecle)
+
+## Scene de Comedie italienne. 22
+
+Pierrot, costume de satin, coiffe d'un feutre et portant dans le dos sa guitare, a mis un genou a terre, tenant a la main un billet devant la porte de sa belle.
+
+Haut.,53 cent.; larg.,43 cent.
+
+## ECOLE FRANCAISE
+
+## 23 Portrait de femme.
+
+Vue en buste, de face, vetue d'une robe de brocart ornee de dentelles et de noeuds de ruban.
+
+Toile avec vue ovale. Haut., 81 cent.; larg., 64 cent.
+
+Cadre ancien en bois sculpte dore.
+
+Pastel ovale.
+## BOUCHER (Francois)
+
+1703-1770.
+
+## 24—— -Portrait tpresume de JeanneElisabeth-Victoite Boucher.
+
+Qui épousa le peintre Deshays, en 1758.
+
+Dans l'ombre d'une large capote de paille, elle sourit. Vetue d'un corsage decollete lace de rubans roses, elle appuie son bras gauche sur un panier d'osier rempli de fleurs.
+
+Pastel de forme ovale.
+
+Haut., 6o cent.; larg., 48 cent.
+
+Cadre ancien en bois sculpte dore.
+
+Collection Léon Michel-Levy,vente a Paris,17-18 juin 1g25,n°40. Exposition de Cent Pastels,Paris, mai-juin 1go8,n 1.
+
+tion,Paris,Georges Petit, 1go8,p.1.
+
+Decrit par M. Roger-Miles et reproduit dans son ouvrage sur cette exposi-
+
+Voir la reproduction.
+## 26
+
+## BOUCHER
+
+(Attribue a FR.)
+
+## Jeune Femme endormie. 25
+
+En buste, decolletee, elle a penchee sa tete, dont la chevelure est ornee de feurs, sur un coussin vert et dort.
+
+Toile. Haut., 40 cent.; larg,, 31 cent.
+
+Cadre en bois sculpte dore.
+
+## BOUCHER
+
+(Attribue a FR.)
+
+## Tete de Flore.
+
+C'est le portrait de l'une des deux filles de F. Boucher, representee en buste et tenant une corbeille de feurs. Pastel.
+
+Haut.,3g cent.1/2;larg.,31 cent.1/2.
+
+Cadre Regence en bois sculpte dore.
+
+Composition gravee a l'imitation du pastel par Louis-Marin Bonnet.
+## 28
+
+## BOUCHER
+
+(Ecole de FR.)
+
+## Les Dieux de l'Olympe. 27
+
+Jupiter et Junon dominent la composition, au-dessus des chars de Venus et de Neptune, quescortent des tritons et naiades. Amphitrite, Mars, Mercure, Saturne et autre divinites de moindre importance animent l'ensemble.
+
+Toile contournee pour dessus de porte. Haut., 6o cent.; larg., I m. 25.
+
+Cadre en bois sculpte dore.
+
+## BOUCHER
+
+(Ecole de FR.)
+
+L'Automne.
+
+Groupe de trois amours et petit bacchant dans les nuages.
+
+Toile. Haut., 61 cent.; larg, 71 cent.
+
+Cadre Louis XVI, en bois sculpte dore.
+## 29
+
+## CLOUET
+
+(Attribué a)
+
+## Portrait d'une Dame de qualité.
+
+Representee a mi-corps, debout, vetue d'une robe noire a manches ballonnees a petits creves;une fraise entoure son col. Paree de bijoux d'or, elle tient des gants de sa main droite. En haut, a gauche, on lit : Etatis su 29, et a droite, la date: Anno 1577.
+
+Bois.Haut,72 cent.; larg., 5o cent.
+
+## DROLLING (Martin)
+
+1752-1817.
+
+## 3o -Les Chiens sayants.
+
+Dans un parc, devant des promeneurs amuses par le spectacle, des baladins font danser trois chiens savants grotesquement affubles, tandis qu'un autre chien, libre, parait s'interesser au travail de ses congeneres.
+
+Bois. Haut., 74 cent.; larg., 1 m. o5.
+
+Cadre en bois sculpte dore.
+
+Voir la reproduction.
+## LABILLE-GUIARD (Madame
+
+1749-1803.
+
+## 31 Portrait de Madame Mitoire, fille de Carle Vanloo avec ses deux enfants.
+
+Representee assise, tenant dans ses bras son dernierne qu'elle allaite et son regard tourne vers son aine, debout pres d'elle a cote d'un gueridon.
+
+Pastel.
+
+Voir la reproduction.
+
+Haut., 92 cent.; larg., 71 cent.
+## NATTIER (Jean-Marc)
+
+1685-1766.
+
+## 32— Thalie.
+
+Portrait allegorique d'une jeune femme representee assise dans le vestibule d'un palais, tenant un masque, la poitrine nue, sous une tenture bleue qu'elle releve de son bras droit. Au fond, a gauche, trois personnages dans un atrium.
+
+Toile.Haut.,78 cent.; larg,95 cent.
+
+Cadre en bois sculpte.
+
+Euvre de la premiere maniere du maitre. Collection Eug.Kraemer,2vente apres son deces,a Paris,mai 1g13,no.
+
+Voir la reproduction.
+
+## PATER
+
+(Attribue a J.-B.)
+
+## 33 —La Diseuoe de Bonne Aventure.
+
+Une dame de qualite et ses suivantes, a la promenade, ont rencontre des Bohemiens et se font predire l'avenir. A gauche, a droite et au second plan, des groupes de personnages. Fond de paysage et village.
+
+Bois.Haut.,34 cent.; larg.,44 cent.
+
+Cadre Louis XV, en bois sculpte dore.
+
+La gravure de cette composition se trouve dans le Recueil de la Galerie du
+
+Duc de Choiseul.
+
+Voir la reproduction.
+## SANTERRE (Jean-Baptiste)
+
+1658-1717.
+
+## 34—— Su&amp;anne au bain.
+
+Retenant de la main droite une draperie blanche,elle est assise au bord d'un bassin. Un manteau rouge est pose derriere elle sur un tabouret dore. Au second plan, a droite, les vieillards. Signe et date, a droite.
+
+Bois. Haut.,37 cent.; larg.,34 cent.
+
+Collection de la comtesse Mniszech,vente a Paris,mai 1gio, n 86.
+
+Reduction du grand tableau du maitre se trouvant au musee du Louvre.
+
+## SCHALL
+
+(Attribue a F.)
+
+## 35 —Portrait de Marie-Antoinette,en vestale.
+
+En pied, debout,vetue dune robe blanche,la chevelure enveloppee d'un voile, aupres d'un autel; a ses pieds, une buire enguirlandee de fleurs.
+
+Toile. Haut.,32 cent.; larg.,23 cent. 1/.
+
+Cadre Louis XVI, en bois sculpte dore.
+## TOUZE (Jean)
+
+1747-1809.
+
+## 36 —Portrait de la Reine Marie-
+
+## Antoinette.
+
+Representee debout, de face, en grande toilette avec large robe a paniers. Fond de paysage.
+
+Bois de forme ovale.Haut.,24 cent.;larg.,20 cent.
+
+Cadre Louis XVI, en bois sculpte dore.
+
+A ete grave a l'eau-forte par Duflos.
+
+## TURNER
+
+(Attribue aJ.M.W.)
+
+## 37 Paysage anime de figures.
+
+Le centre de la composition presente, pres d'une route menant a une riviere, un groupe de femmes. Au second plan,les palais et habitations d'une ville et des ponts jetes sur la riviere. Fond de collines.
+
+Toile. Haut., 92 cent.; larg., I m.27
+
+Cadre en bois sculpte dore.
+## VALLAYER-COSTER
+
+(Attribuea MADAME)
+
+## 38 ——Une Vestale.
+
+Vue en buste, vetue de blanc et coiffee d'un voile orne de fleurs.
+
+Toile a vue ovale.Haut.,45 cent.;larg., 37 cent.
+
+Cadre Louis XVI, en bois sculpte dore.
+
+## WATTEAU
+
+(D'apresANTOINE)
+
+39 一 Sous un habit de Me&amp;etin.
+
+Composition connue par la gravure de Thomassin
+
+Bois. Haut., 29 cent. 1/2; larg., 21 cent.
+
+Beau cadre Regence,en bois sculpte dore.
+
+<!-- image -->
+
+le fils.
+<!-- image -->
+
+## Objets d'Art et d'Ameublement
+
+## OBJETS DE VITRINE,MINIATURES
+
+- 40  GRANDE MINIATuRE ovale, peinte a laquarelle sur papier,
+- attribuee a J.-B. Isabey: portrait de Madame Chalgrin, femme de larchitecte. xix siecle. Cadre en cuivre sur fond de citronnier.
+
+Haut.,13 cent.1/2;larg., 9 cent.1/2.
+
+- GRANDE MINIATuRE ovale, peinte a l'aquarelle sur papier, 41 一 attribuee a J.-B. Isabey : portrait presume de Madame Coutteau, coiffee d'un turban et vetue d'un manteau borde de fourrure. xix siecle. Cadre en cuivre sur fond de citronnier, orne, aux angles, de couronnes de laurier.
+
+Haut.,15 cent.1/2;larg.,12 cent.
+
+- 42 GRANDE MINIATuRE ovale, peinte a laquarelle sur papier,
+- par Doizi. Portrait presume de Madame d'Arjuzon. Signee et datee : 1826. Cadre en cuivre sur fond de citronnier.
+
+Haut., 12 cent.; larg., 9 cent.
+
+- 43 TREs GRANDE MINIATuRE rectangulaire, peinte a l'aquarelle et a la gouache sur papier; portrait presume de Madame Recamier. Signee. xix siecle. Cadre en cuivre dore.
+
+Haut.,21 cent.;larg.,15 cent.1/2.
+- 44  GRANDE MiNIATuRE ronde, peinte sur ivoire, attribuee a Hall; portraits presumes de Mesdemoiselles de Sombreuil et de Noirmont, representees assises toutes deux, face a
+- face, les visages tournes vers le spectateur. xvine siecle. Cadre en bronze dore.
+
+Diam.,1o cent.1/2.
+
+- —PeTITe PeiNTuRE sur metal,representant un demenage-
+- 45ment parisien, d'apres L. Boilly. Cadre plaque d'écaille.
+
+Haut,9 cent.1/2;larg.,10 cent.1/2.
+
+- 46-47 - DeUx MINIATuREs rectangulaires, peintes a la gouache dans le gout de Charlier, presentant des sujets pastoraux,
+- d'apres F. Boucher. Petits cadres-baguettes. en cuivre.
+
+Haut.,5 cent.;larg.,7 cent.
+
+- 48 — MeDaILLoN ovale en or, presentant, sur ses deux faces, deux sujets a personnages en email peint de Limoges. A linterieur, miniature : portrait d'homme. xvie siecle.
+
+Haut.,7 cent.
+
+- 49 — BoIte ovale en or, du temps de Louis XVI, avec poincons de Paris, ornee, sur le couvercle, d'un medaillon ovale emaille en couleur, a sujet allegorique. xvine siecle. Le dessus, le dessous, ainsi que le pourtour ont ete decores en email de rinceaux et petites arabesques en couleur sur fond jaune.
+
+Grand diam.,8 cent. 1/2.
+
+- 5o - PeTIr corFrET rectangulaire a musique, en ecaille jaspee,
+- decore, sur le dessus et sur le pourtour, de sujets a personnages peints au vernis. ll renferme un oiseau chanteur et des ustensiles a broder montes en or.
+
+Haut.,6 cent.1/2;larg., 12 cent.
+- 51—PeTIrE cLE de coffret en fer cisele, presentant le chiffre du Roi surmonte d'une couronne et encadre de petites
+
+Haut.,7 cent.
+
+- cariatides a bustes de femmes.
+- 52- Erui a livre, forme reliure,a fermoirs, en or cisele et
+- emaille en couleur,presentant, sur les plats, des arabesques a rinceaux, mascarons et figures, et, sur le dos,de petites compositions a personnages.
+
+Haut., 11 cent.1/2; larg., 8 cent. 1/2.
+
+## PORCELAINES
+
+## DE LA CHINE,DU JAPON ET DE SEVRES PORCELAINES MONTEES EN BRONZE
+
+- 53 — PAiRE DE vAsEs-TuLipes a anses arrondies, sur piedouches, en ancienne porcelaine tendre de Sevres, decores, sur fond bleu de Vincennes charge de dorure, de deux medaillons reserves offrant des oiseaux perches sur des branchages, dans le gout d'Aloncle.
+
+Haut.,23 cent.
+
+Collection A. Wertheimer.
+
+- 54— PAIRE DE PETITs VAsEs-BALUsTREs a six pans,munis d’anses,
+- en ancienne porcelaine tendre de Sevres (marques). Decores, sur fond blanc, de chutes de petites feurs entre les lacis d'un ruban vert. Annee E.
+
+Haut.,16 cent.1/2.
+
+Collection Conyngham.
+- 55 PairE De vases de forme ovoide, sur piedouches et avec couvercles, en ancienne porcelaine tendre de Sevres (non marques). Munis de deux anses aplaties, ils sont ornes chacun, sur fond vert, de deux medaillons peints en camaieu presentant, pour l'un Flore et des Attributs de jardinage; pour l'autre,Pomone et une Corbeille de fruits. Bases en
+- bronze cisele et dore, enguirlandees de laurier.
+
+Voir les reproductions.
+
+Haut.,34 cent.
+
+- 56 — GranD vAse ovoide a deux anses surelevees, sur piedouche, en ancienne porcelaine tendre de Sevres (non marque), decore,sur fond vert charge de dorure, de deux medaillons ovales reserves presentant,l'un,une scene maritime dans un port d'Orient, par Morin, et l'autre, des couronnes de roses, bleuets et laurier suspendues par un noeud de ruban. Base mouluree et ornee en bronze dore.
+
+Collection Alfred Beurdeley. Reproduit dans l'Histoire de I'Ameublement.
+
+Voir la reproduction.
+
+- Paire De vases ovoides a cols retrecis, sur bases-piedouches et deux anses a volutes feuillagees, avec couvercles, en ancienne porcelaine tendre de Sevres (non marques), decores en dorure de rinceaux et cornes, avec bordure faite de rinceaux, sur fond gros bleu.
+
+Voir les reproductions.
+
+Haut.,37 cent.1/2.
+
+- 58 - GraND vAsE ovoide a col retreci, sur base-piedouche et deux anses a volutes, avec couvercle, en ancienne porcelaine tendre de Sevres (non marque). Il est decore, sur fond bleu charge de dorures,de deux medaillons ovales reserves,
+- presentant des oiseaux perches sur des branchages.
+
+Voir la reproduction.
+
+Haut.,44 cent.
+
+Haut: totale,45 cent.
+- 59 —Vasque ronde en ancienne porcelaine de Chine, Kien-
+
+Diam.,58 cent.
+
+- lung, decoree en émaux de couleur, sur la panse, de quatre reserves chargees de feurs, sur fond bleu orne de pivoines. Interieur decore de poissons nageant entoures de petites plantes vertes. Anses a mascarons et anneaux de cuivre. Pied en bois sculpte,
+- 6o Vase ovoide a petit col cylindrique, en ancienne porcelaine de Chine,decore, sur fond bleu fouette orne en dorure, de quatre grands et huit petits medaillons reserves
+- a sujets de personnages en fleurs. (Tres fracture.)
+- 61 - Gros vasE ovoide avec col, en ancienne porcelaine de Chine, periode Kang-shi, presentant, sur fond bleu fouette, quatre grandes reserves a paysages ou personnages, et huit petites avec fleurs, en émaux de couleur. Il est compris dans une monture en bronze dore, a collerette et base reliees par deux grandes anses a feuillages, rocailles et volutes.
+
+Haut.,58 cent.
+
+Etiquette de la collection Grandidier collee sous le vase.
+
+Voir la reproduction.
+
+- 62 — PeriTE vAsQuE ronde en ancienne porcelaine du Japon (Imari), decoree, sur tout son pourtour, d'un paysage animé de personnages et oiseaux. Monture en bronze dore,a collerette et base mouluree et ornee, reliees par deux anses
+- feuillagees.
+
+Haut.,34 cent.;larg.,62 cent.
+- 63— GarnIrure complete de cinq pieces:trois potiches et deux cornets, en ancienne porcelaine de Chine emaillee bleu. Ces pieces sont comprises dans des montures en bronze dore du temps de Louis XV,a decor de feurs et rocailles; deux des potiches simulant des aiguieres,la troisieme, un vase avec couvercle. Les cornets sont munis de deux anses fixees
+- a la collerette.
+
+Haut. du vase, 4o cent. Haut. des cornets, 33 cent. Haut. des aiguieres, 36 cent.
+
+Collection Ed.Chappey,3vente apres deces, a Paris,2731 mai 1907, n1380.
+
+Voir la reproduction.
+
+## BRONZES D'AMEUBLEMENT
+
+## PENDULES
+
+- 64 — PeNDuLE plaquee d'ébene et cuivre, ornee de bronzes dores, a cadran metallique avec heures émaillees; decor de gaines,volutes, mascarons. Amortissement surmonte d'un
+- vase. Signee : Boucheret, a Paris. Epoque Regence.
+
+Haut., 8o cent. environ.
+
+- 65— GRANDE PENDuLE contournee, sur socle, en bois plaqué d'ebene, et ornee de bronzes dores a feuillages. Elle est surmontee, aux angles, de petits vases a rocailles et, au centre, d'une statuette de Jupiter. Decor de gros mascarons, feurons feuillages, etc. Cadran metallique.
+
+Haut.,I m.o5.
+
+- 66 -PAIRE DE PETITs CANDELABREs a deux lumieres, formes
+- chacun d'une statuette de satyre ou faunesse,en bronze patine, portant les bras de lumieres et reposant sur une terrasse ajouree a feuillage et volutes. Epoque Louis Xv.
+
+Voir la reproduction.
+
+Haut.,32 cent.
+- 67—PAIRE DE CANDELABREs a quatre lumieres, formes chacun d'une statuette de femme drapee, debout,en bronze patine, portant sur la tete une corbeille en vannerie chargee de raisins, ainsi quune tige centrale et trois branches a rinceaux formant le bouquet de lumieres. Socles demi-circulaires en marbre gris turquin, creuses de petites cannelures et ornes
+- de bronzes, oves, tore de laurier, etc. Epoque Louis xVI.
+
+Voir la reproduction.
+
+Haut.,I m.02.
+
+- 68 — PAIRE DE CANDELABREs a quatre lumieres, composes chacun d'un bouquet de rinceaux sortant d'une corne, en bronze cisele et dore, que porte de ses deux bras une statuette de femme drapee, debout, en bronze patine; decor de feuillage, fruits, epis, guirlandes de feurs. etc. Socles cylindriques en marbre, moulures et ornes de bronzes. Attribues a l'époque Louis XVI.
+
+Haut.,I m.08.
+
+- 69 -PAIRE DE GRANDs CANDELABREs a cinq lumieres, composes chacun d'un vase balustre en porcelaine emaillee sang-deboeuf, compris dans une monture de bronze cisele et dore a deux anses tetes de coq,collerette surmontee d'un bouquet de feuillage duquel s'elevent les branches porte-lumieres disposees autour d'une tige centrale supportant une grosse famme. Base a lambrequin sur quatre pieds de biche. Socle
+- en marbre. Attribues a l'epoque Louis XVI.
+
+Haut. totale,1 m.23.
+
+- 70— Paire De vasEs ovoides, sur piedouches avec couvercles, en marbre gris bleute, compris dans une monture en bronze cisele et dore, a collerette ajouree sur laquelle sont fixees deux anses formees de tetes de chevres, culot feuillage,base a tore de chene et bouton du couvercle a graine sur rosace.
+
+Haut.,46 cent,
+## SCULPTURES
+
+## EN MARBRE,TERRE CUITE,BRONZE
+
+- SraTue grandeur nature en marbre blanc, symbolisant la Paix. Debout, enveloppee d'une robe s'attachant sur la poitrine par quatre boutons, et laissant decouverte sa jambe gauche, elle tient de sa main droite une branche de laurier, et de sa main gauche une épee la pointe en l'air. Attribuee a Germain Pilon. xvie siecle.
+
+Haut.,I m.8o environ.
+
+Provient du chateau de Montessy, pres Juvisy (Seine-et-Oise), ou elle fut achetee par le sculpteur Marcellin.
+
+Voir la reproduction.
+
+- 72— BusTe grandeur nature en marbre blanc, presentant Louis, Duc de Bourgogne, fils du Grand Dauphin. Il est represente coiffe de la grande perruque et portant, au col, sur un habit brode,l'ordre du Saint-Esprit. Epoque Louis XIV.
+
+Haut., 62 cent.
+
+- 73— SraTuETTE en bronze cisele et patine, dite Cleopatre, representee étendue, dormant. Sur socle en bois noir moulure, a trois faces decorees de rinceaux en marqueterie d'ecaille.xvlie siecle.
+
+Haut.,3y cent.;larg.,58 cent.
+
+Voir la reproduction.
+- 74 QuATRE PETITEs sTATuEs allegoriques en terre cuite,
+- presentant des enfants nus, drapes et debout, symbolisant : le gouter, lodorat, le toucher, la vue. L'une d'elles est datee: 1733. xvin° siecle. Sur socles en bois sculpte cire.
+
+Haut. des statues,93 cent.
+
+- 75 Deux vases forme Medicis, a deux anses, sur piedouches, en albatre. Ils sont decores, chacun, de personnages disposes en frise et inspires de l'antique. Les moulures sont ornees de rangs de perles,oves,rais de coeur,gros feuillage et pampres de vigne. Bases creusees de canaux. Epoque Empire.
+
+Haut., 5o cent.
+
+## MEUBLES
+
+- 76— GRAND BuREAu plat Regence, reposant sur huit pieds cambres et ouvrant a neuf tiroirs. Il a éte plaque de bois de violette et satine, avec marqueterie de feuillage en bois debout; garniture de bronzes : ceinture mouluree, chutes,
+- appliques, entrees de serrures et patins de pieds.
+
+Collection Lord Methuen.
+
+Long., 1 m.94.
+
+- 77 — HoRLoGE-REGULATEuR de forme galbee, en bois de placage, incrustations de filets de cuivre et decoree de bronzes ciseles et dores tels que : moulures et gros feuillage a volutes, coquille, culot. La lunette est surmontee d'un amour assis sur des rocailles, au-dessus d'un gros feuillage et de chutes de laurier. Le mouvement, signe :Martinot ad Luparum, 1727, comporte quatre petits cadrans émailles, sur fond de
+- cuivre grave de rinceaux. Epoque Regence.
+
+Haut.,2m.12.
+
+Voir la reproduction.
+- 78 PaiRE DE MEuBLEs d'encoignure de forme mouvementee, en bois noir,ouvrant a deux portes d'ancienne laque de Coromandel, a decor de personnages chinois occupes a des jeux divers. Riche ornementation de bronzes ciseles et dores, formant encadrements, composes de baguettes a rinceaux et rocailles, culots de feuillages et autres motifs; chutes et agrafes. Dessus de marbre brocatelle. Estampille de B. V.R. B. Epoque Louis XV.
+
+Haut., 91 cent.;larg.,86 cent.
+
+Collection L. Double,vente a Paris,3o mai-ier juin 1881,n°339.
+
+Collection F.Doistau,vente a Paris,9-11 juin 1go9,n°321.
+
+Voir les reproductions.
+
+- 79 —— CoMmoDe de forme contournee sur pieds cambres, ouvrant
+
+Larg., 1 m.32.
+
+- a deux tiroirs, en bois de placage avec filets. Ornementation de bronzes ciseles et dores : chutes, poignees de tirage, entrees de serrures et patins de pieds,a motifs de rocailles et feuillage. Estampille de I. Dubois. Dessus de marbre. Epoque Louis XV.
+
+Voir la reproduction.
+
+- 8o- ConsoLe a quatre pieds contournes reunis a la base par une tablette cintree sur la face et ornee,en son centre, d'un vase en bois noir, corne bleue et marqueterie de Boulle,a Decoration de bronzes ciseles et dores : moulures ornees, mascarons, grandes chutes a gaines et patins de pieds.
+
+Long., 1 m. 34.
+- 81-82 - DEUx GRANDs MEUBLEs d'entre-deux, formant armoires a trois portes, dans la maniere de A.-C. Boulle, plaques d'ebene et ornes de marqueterie de cuivre et ecaille (ire et 2 parties). Ils sont decores tous deux de bronzes ciseles et dores. Au centre de chacun d'eux est une figure de Bacchus pour l'un et de Ceres pour lautre, dans un encadrement fait de feurons et accompagne de mascarons, amours, feuil-
+
+Haut.,1 m.69;long.,1 m.89.
+
+- 83 -TaBLE-ETAGERE composee de deux tablettes de granit comprises dans une monture tout en bronze vert, a quatre pieds-colonnettes, reunissant les deux ceintures et relies, sur les faces laterales, par des croisillons. Une galerie ajouree, munie de deux poignees,borde la tablette superieure.Epoque Louis XvI.
+
+Haut., 77 cent.; larg., 81 cent.
+
+Collection Jacques Doucet,vente a Paris, juin 1gi2,n 313.
+
+- —ConsoLE rectangulaire en acajou mouchete,contenant trois tiroirs dans la ceinture et reposant sur huit pieds fuseles et canneles reunis par trois croisillons. Elle est ornee de moulures, baguettes, bagues et patins, cannelures, en bronze dore, et couverte d'une tablette de marbre bleu turquin veine de blanc. Estampille de Weisveiler. Epoque
+
+Long.,I m.62;prof.,54cent,
+
+- 84 Louis XVI.
+
+Voir la reproduction.
+
+- lages a volutes, attributs, etc.
+- 85— CommoDe de forme droite,a coins ronds canneles et pieds a toupies,ouvrant a trois rangees de tiroirs, dont trois en haut, plaquee de bois de citronnier encadre d'acajou. Elle est ornee de bronzes ciseles et dores : chutes, poignees, entrees de serrures a decor d'ecussons feuillages et autres ornements. Dessus de marbre. Epoque Louis XVI.
+
+Long., I m.28.
+
+Collection Page Turner; vente a Londres, chez Christie.
+
+- 86 - Bureau plat en acajou, sur pieds ronds fuseles et canneles,
+
+Long.,I m.17.
+
+- ouvrant a deux tiroirs. Il est orne,au sommet des pieds, de motifs en acajou sculpte, et decore de bronzes dores : baguettes d'encadrements, entrees de serrures, patins, etc. Dessus de cuir.
+- 87—VIrrIne murale, a deux portes vitrees, en marqueterie de bois de placage, avec corniche et plinthe en bois moulure.
+
+Haut., 7o cent.,; larg, 1 metre.
+
+<!-- image -->

@@ -1,0 +1,3370 @@
+<!-- image -->
+
+## Aquarelles et Dessins
+
+## BOUDIN
+
+(EUGENE) Honfleur,1825Paris,18g8.
+
+## Vue prise
+
+## dans le port de Rotterdam.
+
+Aquarelle.
+
+Signee en bas, vers la droite, avec l'indication : Rotterdam, et l'estampille : E. B.
+
+Haut.,22 cent.1/2;larg.,3o cent.
+## DAUBIGNY
+
+(CHARLES) Paris,1817+1878.
+
+2
+
+## Le Troupeau de moutons
+
+## en marche.
+
+Dessin a la sanguine. Signe a droite, en bas.
+
+Haut., 1g cent ; larg.,28 cent.
+
+## DAUMIER
+
+(HONORE)
+
+Marseille,18o8+Valmondois,1879.
+
+3
+
+## Le Violoniste.
+
+Dessin au crayon Conte, sur papier verge, rehausse de lavis de sepia.
+
+Signe a gauche, en bas, des initiales : H. D.
+
+Haut., 22 cent.,;larg.,17 cent. 1/2.
+## DELACROIX
+
+(EUGENE)
+
+Charenton-Saint-Maurice,1798 + Paris,1863.
+
+## Scene de la rue, a Alger.
+
+Accroupi contre une construction abritee d'un auvent, un Arabe, vetu d'une veste bleue et enveloppe de son burnous, tient le bras gauche appuye sur son genou. A ses pieds, sur la droite, un autre Arabe cause avec un homme debout. Au fond, se detachant sur la blancheur d'une maison, deux femmes a demi voilees.
+
+Aquarelle.
+
+A gauche, en bas, l'estampille : E. D.
+
+Haut.,24 cent.; larg.,27 cent. 1/2.
+
+L'Euvre de Delacroix, par RoBAuT, n° 439. Vente apres deces de I'artiste, n° 428.
+
+Voir la reproduction.
+## GAVARNI
+
+(SULPICE-GUILLAUME CHEVALIER,dit) Paris,1804 Paris,1866.
+
+5
+
+## La Femme de chambre.
+
+Aquarelle. Signee a droite, en bas.
+
+Haut.,32 cent.1/2;larg.,21 cent
+
+## GERICAULT
+
+(THEODORE) Rouen,179  Paris,1824.
+
+6
+
+## Centaure enlevant une femme.
+
+Dessin a la plume et au lavis de sepia.
+
+Haut., 19 cent. 1/2; larg., 22 cent.
+
+## GRANET
+
+(FRANCOIS-MARIUS)
+
+Aix-en-Provence,1775 + Aix-en Provence,1849.
+
+7
+
+Le Tombeau dans une chapelle.
+
+Aquarelle. Signee a droite, en bas.
+
+Haut., 24 cent.; larg., 17 cent. 1/2.
+Vente Burty.
+
+Voir la reproduction.
+
+## JONGKIND
+
+(JOHANN-BARTHOLD)
+
+Latrop (Hollande),181g + La Cote-Saint-Andre (Isere), 18g1.
+
+8
+
+## Entree de village dans le Nivernais.
+
+La route longe, a droite, des maisons en contre-bas devant lesquelles on apercoit, au premier plan, des groupes de femmes. A gauche, d'un renflement de terrain, émerge un bouquet
+
+Aquarelle.
+
+d'arbres dont les frondaisons se detachent sur un ciel d’azur.
+
+Signee a gauche, en bas, et datée : Nivernais, 186o.
+
+Haut.,29 cent.;larg,42 cent.1/2.
+## JONGKIND (JOHANN-BARTHOLD)
+
+## Les Bords de l'Orb,a Beziers.
+
+A droite, dominant la ville, l'ancien chateau et, franchissant la riviere, les ponts de pierre. A gauche, sur la berge, deux figures. Un ciel lumineux, coupe de nuages mauves, se reflete dans le miroir de l'eau.
+
+Aquarelle.
+
+Signee a droite, en bas, et datee : Beziers, 5 oct. 1880.
+
+Haut., 17 cent.; larg., 46 cent.
+
+Vente apres deces de l'artiste, 18g1, n 86.
+
+Voir la reproduction.
+## JONGKIND
+
+(JOHANN-BARTHOLD)
+
+10
+
+## Lyon.
+
+C'est, dominant le feuve enserre entre ses quais, une colline sur le flanc et au sommet de laquelle on a eleve et groupe des maisons, parmi la verdure. Vers la gauche, un bateau-lavoir est relie a la rive par une passerelle. Au fond, on apercoit les arches d'un pont et,au dela, des batiments que surmonte la haute cheminee d'une usine.
+
+Aquarelle.
+
+Signee a gauche, en bas, et datee, a droite : Lyon, 24 aout
+
+Haut., 22 cent. 1/2; larg., 5o cent.1/2.
+
+## JONGKIND
+
+(JOHANN-BARTHOLD)
+
+11
+
+## Canal en Hollande.
+
+A gauche,un chemin de halage separe des prairies par un suite des constructions et des magasins d'un port que dominent, cours d'eau que franchit une passerelle et, sur l'autre rive, la de place en place, des moulins a vent.
+
+Aquarelle.
+
+Signee a gauche, en bas.
+
+Haut.,24 cent.;larg.,43 cent, 1/2.
+
+Vente apres deces de 1'artiste, 18g1,n° 71.
+
+1874.
+## JONGKIND
+
+(JOHANN-BARTHOLD)
+
+12
+
+## Plage a maree basse.
+
+Aquarelle. Signee a droite, en bas, et datee : 62.
+
+Haut., 23 cent.; larg., 33 cent.
+
+## MILLET
+
+(JEAN-FRANCOIS) Greville,1814 + Barbizon, 1874.
+
+13
+
+## Le Berger et la mer.
+
+Debout, vu de dos, vetu de sa limousine et appuye sur un baton, il regarde la mer.
+
+Dessin au crayon noir sur papier calque.
+
+A droite, en bas, l'estampille : J. F. M.
+
+Haut., 14 cent. 1/2; larg., 9 cent. 1/2.
+
+<!-- image -->
+<!-- image -->
+
+## Tableaux Modernes
+
+BESNARD (ALBERT)
+
+14
+
+## Une Ouled-Nail.
+
+Signe a droite, en bas, et date: Alger, 1894.
+
+Panneau.Haut.,4o cent. 1/2;larg.,26 cent.1/2.
+## COROT
+
+(CAMILLE-JEAN-BAPTISTE) Paris,1796+Ville-d'Avray,1875.
+
+15
+
+## Jeune Fille assise, les seins nus.
+
+Une jeune fille aux cheveux blonds est vue la tete penchee et inclinee vers la gauche. Elle est vetue d'une jupe grise, et la chemise, qui a glisse de ses epaules, laisse a decouvert ses jeunes seins.
+
+A droite,en bas, l'estampille de la vente Corot et, au dos, sur le chassis, le cachet a la cire rouge.
+
+Toile. Haut., 32 cent.; larg., 24 cent.
+
+Vente Corot, 1875,n° 157.
+
+Voir la reproduction.
+## DAUMIER
+
+(HONORE)
+
+Marseille,18o8+Valmondois,1879.
+
+16
+
+## Les Trois Aoocats.
+
+Au premier plan, un avocat, en robe, la tete tournee vers la gauche, tient sous son bras une serviette bourree de dossiers. Au second plan, on apercoit un second avocat dont la tete est tournee vers la droite et, a l'extremite de droite,se profile la tete du troisieme personnage.
+
+Signe a gauche,en bas : H. Daumier.
+
+Panneau.Haut.,14 cent.;larg.,12 cent. 1/2.
+
+Voir la reproduction.
+## JONGKIND
+
+(JOHANN-BARTHOLD)
+
+Latrop (Hollande), 181g + La Cote-Saint-Andre (Isere), 18g1.
+
+## Brick et sloops de peche a l'ancre, sur la Meuse; Rotterdam.
+
+Un grand navire, aux voiles larguees et dont le pavillon flotte a l'arriere, est a l'ancre et. se presente de profl. En avant, un canot monte par deux hommes. Plus loin, pres de l'autre rive, un autre bateau amarre. Au fond,vers la gauche, on apercoit dans le lointain des constructions aux tuiles rouges et des moulins aux ailes immobiles. Au premier plan, tout au bord de leau, deux hommes aupres d'un canot tire sur la berge. Des nuages gris et mauves couvrent le ciel qui se refete dans l'eau du fleuve.
+
+Signe a droite, en bas, et date:186g.
+
+Toile.Haut.,34 cent.;larg.,46 cent.
+
+Voir la reproduction.
+## JONGKIND
+
+(JOHANN-BARTHOLD)
+
+18
+
+## Canal d'Overschie, pres Rotterdam.
+
+Le canal, aux eaux pleines des refets du ciel, occupe le premier plan et se dirige vers le fond ou l'on apercoit une barque a la voile deployee. A droite, la berge, élevee, est surmontee d'un moulin a vent et, a gauche,un batiment aux toits d'ardoise est encadre de deux constructions basses, toiturees de rouge.
+
+Signe a gauche, en bas, et date : 1877.
+
+Toile. Haut.,24 cent 1/2; larg., 32 cent.
+
+## LEPINE
+
+(STANISLAS)
+
+Caen,1836Paris,1892.
+
+19
+
+## La Seine et Rouen,
+
+## vus de la hauteur.
+
+Effet de soleil couchant.
+
+Signe a droite, en bas.
+## TASSAERT
+
+(OCTAVE) Paris,1800+1874
+
+20
+
+## La Maison deserte.
+
+A la porte close d'une chaumiere, une fillette, penchee sous le poids d'un lourd fagot, attend quon lui ouvre; elle tient, appuyee contre elle, sa petite soeur.
+
+Signe a droite, vers le bas : Oct. Tassaert, et date : 1858.
+
+Toile.Haut.,41 cent.; larg., 33 cent.
+
+Catalogue de l'Euvre de Tassaert, par Bernard Prost, n 208.
+
+<!-- image -->
+<!-- image -->
+
+## Pastels, Dessins, Aquarelles
+
+## BONINGTON
+
+(RICHARD PARKES) Arnold,18o1+Londres,1828.
+
+21
+
+## Charles I et sa famille.
+
+Le roi s'avance, au centre, la canne et le feutre a la main, dans I'allee d'un parc. La reine Henriette I'accompagne avec les deux enfants royaux. Au fond, vers la droite, les tourelles d'un chateau derriere les frondaisons des massifs.
+
+Aquarelle gouachee. Signee a gauche, en bas.
+
+Cadre en bois sculpte.
+
+Voir la reproduction.
+
+Haut.,1o cent ;larg.,1g cent.
+## BONINGTON
+
+(RICHARD PARKES)
+
+22
+
+## L'Odalisque endormie.
+
+Sa tete repose sur un coussin et elle dort, a demi nue, sur la terrasse d'un parc. A ses pieds, un coffret a bijoux. A droite, une draperie rouge.
+
+Aquarelle gouachee.
+
+Haut.,12cent.;larg.,14 cent.1/2.
+
+Collection Coutan-Hauguet, vente a Paris,les 16-17 decembre 1889.
+
+Cadre en bois sculpte.
+
+Voir la reproduction.
+
+## BONINGTON
+
+(RICHARD PARKES)
+
+23
+
+## Raphael et 《 la Fornarina 》.
+
+Lavis de sepia.
+
+Haut.,13 cent.;larg.,14 cent.
+
+Collection Coutan-Hauguet,vente a Paris,les 16-17 decembre 1889.
+## BONINGTON
+
+(RICHARD PARKES)
+
+24
+
+## Scene tiree de Shakespeare.
+
+Trois personnages sont reunis dans un interieur, lun assis et vu de face,un autre debout, vu de profil,le troisieme vu de dos.
+
+Lavis de sepia.
+
+A gauche, en bas, le timbre de la collection Coutan-Hauguet.
+
+Cadre en bois sculpte.
+
+Haut., 12 cent.; larg., 1o cent.
+
+## BOUCHER
+
+(FRANCOIS)
+
+Paris,1703 + Paris, 1770.
+
+25
+
+## Etude d'enfant.
+
+En buste, presque de face, la tete légerement penchee sur son epaule gauche; une draperie entoure sa poitrine, laissant a nu le sein et l'epaule.
+
+Dessin a la pierre noire, sanguine et rehauts de blanc, sur papier gris.
+
+Haut., 1g cent.; larg., 15 cent.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## BOUCHER
+
+(FRANCOIS)
+
+26
+
+## Etude de femme.
+
+Elle est representee nue, couchee sur le ventre, le haut du corps et la tete releves, les deux bras etendus en avant.
+
+Dessin a la pierre noire, rehausse de blanc au pastel, sur papier gris. Sur son ancienne monture portant l'estampille frappee a sec de Glomy.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+
+## BOUCHER
+
+(FRANCOIS)
+
+27
+
+## Etude d'amour.
+
+Il est appuye contre un medaillon, indique en blanc a sa droite, la tete legerement penchee et le bras gauche etendu.
+
+Dessin a la pierre noire, sanguine et rehauts de blanc, sur papier gris.
+
+Haut.,1g cent.;larg.,15 cent.
+
+Cadre ancien en bois sculpte dore.
+
+Haut.,27 cent.;larg.,3g cent.
+## BOUCHER
+
+(FRANCOIS)
+
+28
+
+## Buste d'enfant.
+
+De profil, la tete tournee presque de face, il tient ses deux bras releves.
+
+Dessin a la pierre noire et rehauts de blanc, sur papier gris. Signe en bas, a gauche.
+
+Haut.,19 cent.;larg.,13 cent.
+
+Cadre ancien en bois sculpte dore.
+
+## BOUCHER
+
+(FRANCOIS)
+
+29
+
+## Tete de femme.
+
+De face, tres penchee sur le cote,regardant a gauche; cheveux boucles sur le front, retenus par un ruban dont les bouts retom- bent sur les épaules nues.
+
+Dessin a la pierre noire, sanguine et rehauts de blanc, sur papier chamois.
+
+Cabinet de Mme d'Azaincourt.
+
+A éte grave a plusieurs crayons par G. Demarteau (no 217).
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+
+Haut., 1g cent. 1/2; larg.,15 cent.
+## BOUCHER
+
+(FRANCOIS)
+
+30
+
+## Academie de femme.
+
+Vue de dos, hanchant sur la gauche, la tete retournee, les cheveux releves sur la nuque, elle tient, a hauteur de son epaule et pendant devant elle,une draperie.
+
+Dessin a la pierre noire, rehausse de blanc, sur papier gris.
+
+Haut.,34 cent.;larg.,18 cent.
+
+Collection Henri Michel-Levy,vente des 12-3 mai 1919, n°62.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+
+## BOUCHER
+
+(FRANCOIS)
+
+31-32
+
+DEUX PENDANTS
+
+## L'Amour, ou les Attributs de Venus. La Musique, ou les Attributs d'Apollon.
+
+Compositions allegoriques formees de groupes d'amours. Deux dessins, de forme ovale,a la plume et au lavis de bistre.
+
+Haut., 20 cent.; larg., 24 cent.
+
+Cadres anciens en bois sculpte dore.
+
+Voir les reproductions.
+## BOUCHER
+
+(FRANCOIS)
+
+33
+
+## Feuille d'etudes:
+
+A DROITE EN HAUT:
+
+Buste de paysan, de profil a droite.
+
+AGAUCHEENHAUT:
+
+Le bas d’un personnage, assis a terre, les jambes nues croisees.
+
+AU-DESSOUS:
+
+Deux etudes de mains tenant chacune un legume.
+
+Dessin a la sanguine, rehausse de blanc sur papier chamois. Signe au bas, a gauche.
+
+Collection Antoine Vollon.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+
+Haut., 26 cent.; larg.,36 cent.
+## BOUCHER
+
+(FRANCOIS)
+
+34
+
+## Pastorale.
+
+Au pied d'un arbre, face a ses moutons, une bergere est assise, tournee vers la gauche, et allaitant son plus jeune enfant ; un autre joue devant elle, tandis que laine exprime sa joie a la vue d'un fruit que tient dans sa main le berger son pere, qui vient de descendre d'ane.
+
+Dessin a la plume et lavis de bistre. Signe sur une pierre, vers la droite.
+
+Haut,25 cent.;larg.,29 cent.1/2.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+
+## BOUCHER
+
+(FRANCOIS)
+
+35
+
+## La Danse allemande.
+
+Au milieu de la verdure, un couple danse; se tenant par les mains, elle, penchant la tete vers son danseur; assis a droite,un paysan joue du flageolet; dans le fond, des spectateurs.
+
+Dessin a la sanguine.
+
+Haut., 33 cent. 1/2; larg.,22 cent.
+
+A éte grave par G. Demarteau,n° 2o3. Vente Marmontel, 1883.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## BOUCHER
+
+(FRANCOIS)
+
+36
+
+## Abraham renvoyant Agar.
+
+Au seuil de la maison du patriarche, pres d'un pigeonnier, debout, Abraham, s'appuyant sur un baton, le bras gauche étendu, ordonne du geste a Agar de s'eloigner avec son fils Ismael. En arriere, sur les degres de l'escalier, les serviteurs assistent a la scene.
+
+Dessin a la plume et lavis de bistre, sur sa monture originale.
+
+Haut., 3o cent; larg.,23 cent.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+
+## BOUCHER
+
+(FRANCOIS)
+
+37
+
+## Buste de jeune femme.
+
+Elle est representee la tete appuyee sur sa main gauche, les yeux baisses.
+
+Dessin aux crayons de couleur, legerement rehausse de pastel, sur papier gris.
+
+Haut., 20 cent.; larg., 17 cent.
+
+Cachet de la collection du baron de Schwiter; vente des 2o-21 avril 1883, n° 16.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## BOUCHER (FRANCOIS)
+
+38
+
+## Le Berger entreprenant; pastorale.
+
+Au bord d'un ruisseau, pres d'une barriere rustique et devant un grand arbre, une jeune bergere, qui vient de se baigner et rajuste ses vetements, est surprise par un galant et se defend mal contre ses entreprises amoureuses.
+
+Dessin a la pierre noire, rehausse de blanc et de pastel, sur papier gris.
+
+Signe et date : 1764, en bas, a gauche.
+
+Sur son ancienne monture.
+
+Haut., 33 cent.,;larg.,23 cent.
+
+Cabinet de M. de La Haye.
+
+Grave a la sanguine par G. Demarteau (no 6i). Vente de Montesquiou-Fezensac.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## BOUCHER
+
+(FRANCOIS)
+
+39
+
+## La Jeune Fille brune.
+
+En buste, presque de face, le bras droit accoude sur un tertre, la tete appuyee sur la main gauche, les cheveux bruns separes en bandeaux sur le front, legerement poudres, coiffée d'un chapeau de paille orne de feurs, elle porte un corsage bleu decollete et lace sur la poitrine; un fichu de gaze est noue autour de son cou.
+
+Pastel.
+
+On lit, derriere la monture ancienne : Boucher, 1757.
+
+Haut.,26 cent.;larg.,20 cent.
+
+Collection H. Michel-Levy, vente des 12-13 mai 1g19, n°41 du catalogue.
+
+Cadre ancien en bois sculpte, peint et dore.
+
+Voir la reproduction.
+## BOUCHER
+
+(FRANCOIS)
+
+40
+
+## Portrait de jeune fille.
+
+Dans l'ombre d'une large capote de paille, sa jolie figure sourit. Elle porte sur son costume blanc, au corsage largement decollete, un corselet rose lace avec des rubans de meme couleur. Elle s'appuie sur un panier d'osier rempli de feurs, qu'elle presse de la main gauche, le bras ployé. Sa figure se detache sur un fond de ciel d'azur.
+
+Pastel de forme ovale.
+
+Haut.,6o cent.;larg.,48 cent.
+
+C'est peut-etre la fille ainee du peintre, Jeanne-Elisabeth-Victoire, qui épousa le peintre Deshays le 8 avril i758.
+
+Exposition des Cent Pastels, mai-juin Igo8:
+
+Decrit par M. Roger-Miles et reproduit dans son ouvrage sur cette exposition (Imp. G. Petit, 19o8, p. 1).
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+Projet de plafond.
+
+Dessin a la plume et lavis d'aquarelle.
+
+Haut., 26 cent.; larg., 22 cent.
+
+Exposition de Petits Maitres francais du xvine siecle, juin i920, n°172.
+
+Cadre ancien en bois sculpte et dore.
+
+## BOUCHER
+
+(FRANCOIS)
+
+41
+
+## La Jeune Fille au pigeon.
+
+En buste, de profl a droite, la tete tournee vers le spectae largement decollete, pare d'une feur, et d'une écharpe. Les cheveux, releves au sommet de la tete, retombent
+
+Pastel ovale.
+
+Cadre en bois sculpte dore.
+
+Voir la reproduction.
+
+## CALLET
+
+(ANTOINE-FRANCOIS) Paris,1741 + Paris,1823.
+
+42
+
+## Allegorie.
+
+teur, elle tient sur sa poitrine un pigeon. Elle est vetue d'un corsage en boucles sur la nuque.
+
+Haut.,45 cent.;larg.,36 cent.1/2.
+A éte grave.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+
+## CARESME
+
+(JACQUES-PHILIPPE)
+
+Paris,173++ Genes,1796.
+
+43
+
+## Sacrifice a Bacchus.
+
+Devant un terme bachique, un personnage travesti en vestale, devant un brule-parfums, offre lencens; derriere, le cortege, compose d'une theorie de petits bacchants musiciens, de bacchantes et suivants de Bacchus.
+
+Dessin a l'aquarelle, rehausse de gouache.
+
+Haut.,19 cent./2;larg.,23 cent.1/2.
+## CHARDIN
+
+(JEAN-BAPTISTE-SIMEON) Paris,1699 + Paris, 1779.
+
+女
+
+## Son Portrait par lui-meme.
+
+De trois quarts a droite, attentif devant son chevalet, le nez chevauche par ses besicles, il prend une mesure en promenant son index sur son crayon. ll a le crane coiffe d'un serre-tete blanc, retenu par un ruban bleu. C'est Chardin vieux, le visage sillonne de rides profondes. Son vetement est brun; la tete se detache sur un fond fonce.
+
+Pastel.
+
+Haut., 40 cent.; larg., 3i cent.
+
+A éte acquis chez un descendant de la famille de Chardin, accompagne des besicles que l'artiste porte sur son nez.
+
+Exposition des Cent Pastels, mai-juin 1go8.
+
+Decrit par M. Roger-Miles et reproduit dans son ouvrage sur cette exposition (Imprimerie Georges Petit, 1go8, p. 5).
+
+Exposition Chardin-Fragonard.
+
+Reproduit dans l'ouvrage d'Armand Dayot et Leandre Vaillat, publie apres cette exposition, pl. 1.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## CHARDIN
+
+(JEAN-BAPTISTE-SIMEON)
+
+45
+
+## Interieur.
+
+C'est une vaste chambre avec un lit, des chaises, un humble mobilier, éclairee par une fenetre, sur la droite. Devant cette fenetre, une menagere est assise pres d'une table et lit; a cote d'elle, une fillette. Dans le fond, une cheminee chargee d'ustensiles de menage, dans laquelle une marmite fume sur un feu de bois. Vers la gauche de la composition, deux autres figures sont restees a l'état d'ebauche au crayon.
+
+d'encre de Chine.
+
+Important dessin au crayon, accentue de plume et lavis
+
+Haut.,2g cent.; larg, 49 cent.
+
+Collection Guichardot. Exposition Chardin-Fragonard.
+
+Reproduit et cite dans l'ouvrage d'Armand Dayot et Leandre Vaillat, publie apres cette exposition, n° et pl. 59.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+n°731.
+
+## CHARDIN
+
+(JEAN-BAPTISTE-SIMEON)
+
+46
+
+## Les Amateurs.
+
+Dans un cabinet de curieux, trois amateurs sont assis, penche ou debout, examinant, autour d'une table, des objets precieux. Dessin a la plume et touches de crayon.
+
+Sur le dossier de la chaise, a gauche, on lit, a l'encre, une signature et une date : Chardin, 1769.
+
+Haut., 12 cent.; larg., 14 cent.
+
+Collection H. Destailleur, vente apres son deces, 1g-23 mai 1896,
+
+Exposition Chardin-Fragonard.
+
+Reproduit et cite dans l'ouvrage de M. Armand Dayot et Leandre Vaillat, publie apres cette exposition, n° 5g.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+
+## COSWAY
+
+(RICHARD)
+
+Tiverton,1742 Londres,1821.
+
+47
+
+## Portrait de Charlotte, Princesse de Galles.
+
+Presque de face, le visage légerement tourne vers la droite, elle est vue en buste, vetue d'un corsage garni de volants de linon. Sa coiffure est bouclée et un collier de perles orne son cou.
+
+Miniature de forme ovale.
+
+Voir la reproduction.
+
+Haut., 8 cent.; larg., 6 cent.
+## DUCREUX
+
+(JOSEPH) Nancy,1737 +Paris,1802.
+
+48
+
+## Portrait de fillette.
+
+En buste, le visage tourne de trois quarts vers la gauche; cheveux blonds pendant sur les epaules et serres sur la tete par un ruban bleu.
+
+Beau portrait inacheve, d'une grande fraicheur de coloris. Pastel ovale.
+
+Haut.,44 cent.;larg.,33 cent.
+
+Collection G. Muhlbacher, vente des 15-18 mai 18g9, n° 113.
+
+Cadre en bois sculpte dore.
+
+Voir la reproduction.
+## DURAMEAU
+
+I.OUIS-JEAN-JACQUES) Paris, 1733 +Versailles, 1796.
+
+49
+
+## La Partie de cartes aux bougies.
+
+Deux gentilshommes et une dame, a la lumiere de deux bougies, jouent aux cartes, assis autour d'une table a jeu, devant la cheminee.
+
+Dessin sur papier rose, a la plume, lave de bistre, rehausse
+
+Signe en bas, a gauche, et date : 1767.
+
+Haut.,17 cent.;larg.,23 cent.
+
+Collection des Goncourt, vente des 15-i7 fevrier 1897,n°0. Exposition de Petits Maitres du xvil1 siecle, juin 1g2o, no 268.
+
+Cadre ancien en bois sculpte dore.
+
+V'oir la reproduction.
+
+de blanc a la gouache.
+## ECOLE FRANCAISE
+
+xville siecle.
+
+50
+
+## La Vieille Femme au chat.
+
+Une vieille femme assise de face, representee a mi-corps et tenant a deux mains un chat sur ses genoux.
+
+Dessin sur papier jaunatre, a la pierre d'Italie, rehausse de blanc.
+
+Haut.,22 cent.1/2;larg.,17 cent. 1/2.
+
+Collection des Goncourt, vente des 15-17 fevrier 1897, n° 42 (attribue a J.-B.-S. Chardin).
+
+Cadre en bois sculpte dore.
+
+## ECOLE FRANCAISE
+
+xvile siecle.
+
+51
+
+## Baigneuses.
+
+Au bord d'un ruisseau, une bergere est assise, nue, dans I'herbe; une autre est debout, les pieds dans l'eau. Au premier plan,un chien;a droite,un mouton.
+
+Dessin au lavis d'encre de Chine et de bistre.
+
+Haut., 16 cent. 1/2; larg., 23 cent.
+
+Cadre ancien en bois sculpte dore.
+## ECOLE FRANCAISE
+
+xville siecle.
+
+DEUX PENDANTS
+
+52-53
+
+## Le Poete satisfait. Le Poete mecontent.
+
+Deux compositions satiriques executees au lavis d'aquarelle, l'une sur un trait de plume, l'autre sur un trait grave.
+
+Haut.,18 cent.1/2;larg.,12 cent.1/2.
+
+Sous l'attribution a Gabriel de Saint-Aubin, elles ont fait partie des collections Paignon-Dijonval et Morel de Vinde.
+
+Cadres anciens en bois sculpte dore.
+
+## EISEN
+
+(CHARLES-DOMINIQUE-JOSEPH) Valenciennes,172o + Bruxelles,1778.
+
+54
+
+## Venus et Vulcain.
+
+La deesse, accompagnee de suivantes sur un nuage et conduite par l'Amour, apparait a Vulcain entoure de cyclopes forgeant des armes pour Enee.
+
+Dessin a la plume et lavis d'encre de Chine.
+
+Haut., 19 cent. 1/2; larg., 15 cent.1/2.
+
+Cadre ancien en bois sculpte dore.
+## FRAGONARD
+
+(JEAN-HONORE) Grasse,1732+Paris,1806.
+
+55
+
+## La Terrasse de la villa Reale, a Naples.
+
+Elle est limitee, a droite, par une balustrade au dela de laquelle la vue sétend sur des bois de pins. A gauche, devant un rideau de grands arbres aux épaisses frondaisons, s'eleve un hexedre plaque de treillages rustiques, que decore cn son milieu une fontaine surmontee d'une statue. De nombreuses figures, disposees par groupes, animent la terrasse; d'aucuns se promenent, d'autres se reposent sur lherbe. A droite, sur son piedestal, la statue de l'Hercule Farnese.
+
+Dessin au lavis de sepia, de la plus belle qualite et dans un parfait etat de conservation.
+
+Haut.,34 cent.;larg.,45 cent.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## FRAGONARD
+
+(JEAN-HONORE)
+
+56
+
+## La Poursuite.
+
+Dans lallee d'un parc,un homme poursuit a la course un cavalier qui s'eloigne.
+
+Dessin au lavis de sepia sur crayonnage.
+
+Haut., 22 cent. 1/2; larg., 16 cent. 1/2.
+
+Collection Walferdin,vente du 12-16 avril 188o.
+
+Cadre ancien en bois sculpte dore.
+
+## FRAGONARD
+
+(JEAN-HONORE)
+
+57
+
+## Le Berger.
+
+Dans un paysage accidente, pres d'un chemin que suit une paysanne montee sur son ane, le berger s'est étendu a terre pour se reposer; son chien est attentif aupres de lui, pendant que ses moutons ensemble sont couches non loin. A gauche, sur un rocher, un paysan est assis.
+
+Dessin gouache et pastelle.
+
+Haut.,24 cent.1/2;larg.,39 cent
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## FRAGONARD
+
+(JEAN-HONORE)
+
+58
+
+## Saint Marc.
+
+D'apres un maitre italien du xvin siecle.
+
+Il est represente assis, le lion couche a ses pieds, ecoutant la voix d'un ange. En haut, a droite, sur une nuee, deux cherubins.
+
+Dessin au crayon et lavis d'encre de Chine.
+
+Haut.,25 cent. 1/2;larg.,1g cent. 1/2.
+
+A éte grave a l'eau-forte par Fragonard.
+
+Cadre en bois dore.
+
+## FRAGONARD
+
+(JEAN-HONORE)
+
+59
+
+## La Surprise.
+
+Une jeune fille est assise sur un canape, son pied gauche posant a terre; ses deux bras sont releves, la main droite ouverte, dans une attitude exprimant la surprise.
+
+Dessin a la sanguine.
+
+Haut., 19 cent. 1/2; larg., 21 cent.
+
+Cadre ancien en bois sculpte dore.
+
+V'oir la reproduction.
+## FRAGONARD
+
+(JEAN-HONORE)
+
+60
+
+## La Ferme.
+
+Dans la cuisine de la ferme, un jeune paysan a fait entrer un ane sur lequel sont montes ses trois petits freres. Cette arrivee inattendue a mis tout le monde en émoi; les servantes, a leurs fourneaux, poussent des cris, les poules et les pigeons s'envolent effrayes, le chien jappe a la tete de l'ane.
+
+Dessin au crayon et a la pierre noire, accentue de quelques traits de plume et lave d'encre de Chine. Sur son ancienne monture marquee d'un G (Glomy).
+
+Haut.,27 cent.1/2; larg.,3g cent.
+
+A éte grave par l'abbe de Saint-Non.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## FRAGONARD
+
+(JEAN-HONORE)
+
+61
+
+## La Sultane.
+
+Assise, les jambes croisees a l'orientale, elle tient une lettre, le bras gauche pose sur un coussin; un eunuque regarde en ecartant legerement une des tentures qui garnissent le fond.
+
+Dessin au lavis de sepia.
+
+Haut.,23 cent.;larg.,16 cent.
+
+Cachet de la collection du baron de Schwiter; vente des 2o-21 avril 1883, n°37.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+
+## FRAGONARD
+
+(JEAN-HONORE)
+
+62
+
+## Tete de femme.
+
+Vue de face, elle est enveloppee d'un foulard noue sous le menton.
+
+Dessin a la sanguine.
+
+Haut.,18 cent.1/2;larg.,15 cent. 1/2.
+
+Cadre ancien en bois sculpte dore.
+## FRAGONARD
+
+(JEAN-HONORE)
+
+63
+
+## L'Italienne; jeune femme debout.
+
+En pied, le corps de profil, la tete vue de face, regardant le spectateur, les cheveux releves ornes d'une broche, elle est vetue d'une chemisette a collerette et d'un ample jupon releve qu'elle tient sous son bras.
+
+Dessin au lavis de sepia.
+
+Haut.,33 cent.; larg., 20 cent.
+
+Collection du comte J. de Bryas, vente des 4-6 avril 18g8, n° 50. Vente Vanda de Boncza.
+
+Cadre ancien en bois sculpte dore.
+
+I'oir la reproduction.
+
+## FRAGONARD
+
+(JEAN-HONORE)
+
+## Sancho Panca.
+
+Represente en pied, debout, les mains se tenant le ventre, riant de tout son corps.
+
+Dessin a la sanguine.
+
+Haut.,27 cent.;larg.,15 cent.1/2.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## GILLOT
+
+(CLAUDE) Langres,1673 Paris, 1722.
+
+65
+
+## Scene de Comedie italienne: les Gourmands.
+
+Dans un decor de terrasse a arcade de feuillage, Scapin, Mezzetin, Polichinelle sont representes en equilibre instable sur leurs sieges qui viennent de subitement s'exhausser. A droite,
+
+Arlequin allume le pate d'artifice.
+
+Dessin a la plume et lavis de bistre.
+
+Haut., 16 cent.; larg., 21 cent.
+
+Collection Henri Michel-Levy,vente des 12-13 mai 1g19,n° go.
+
+Cadre ancien en bois sculpte dore.
+## GILLOT
+
+(CLAUDE)
+
+66
+
+## Un Duel apres le bal masque.
+
+Dans un carrefour de ville, a la lueur de deux lanternes posees a terre, six combattants croisent le fer.
+
+Dessin au lavis de bistre.
+
+Haut.,16 cent.;larg.,21 cent.
+
+Cachet de la collection L.-D. Lempereur (xvin siecle).
+
+comme sanguine).
+
+Collection A. Marmontel, vente des 28-29 mars 18y8, n° 29 (indique
+
+Cadre en bois sculpte dore.
+
+Voir la reproduction.
+
+## GILLOT
+
+(CLAUDE)
+
+6
+
+## Scene de comedie bouffe.
+
+Personnages de la Comedie italienne comparaissant devant un tribunal comique.
+
+Dessin a la plume et lavis de bistre.
+
+Haut., 16 cent.; larg., 21 cent.
+
+Collection A. Marmontel, vente des 28-29 mars 1898, n° 28 (indique comme sanguine).
+
+Cadre ancien en bois sculpte dore.
+## GILLOT
+
+(CLAUDE)
+
+68
+
+## Danseurs au tambourin.
+
+Groupe de six personnages : au centre, un couple d'acteurs de la Comedie italienne dansant, Colombine agitant un tam- bourin au-dessus de son partenaire.
+
+Dessin a la sanguine, qui pourrait etre de Watteau a ses debuts, encore sous l'influence de son maitre Gillot.
+
+Haut., 21 cent.; larg., 27 cent.
+
+Cadre en bois sculpte dore.
+
+## GREUZE
+
+(JEAN-BAPTISTE)
+
+Tournus,1725 + Paris,1805.
+
+69
+
+## Etude d'enfant.
+
+Represente debout, de profil, ses deux bras releves au-dessus de sa tete rejetee en arriere.
+
+Etude pour le tableau du maitre : la Malediction paternelle.
+
+Dessin a la sanguine.
+
+Haut., 41 cent.; larg., 26 cent, 1/2.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## GREUZE
+
+(JEAN-BAPTISTE)
+
+70
+
+## Etude de tete de jeune fille.
+
+De grandeur naturelle, tournee de trois quarts vers la droite, les yeux baisses; les cheveux, separes au milieu de la tete, sont retenus par un ruban.
+
+Dessin a la sanguine.
+
+1aut.,3g cent.; larg.,3o cent
+
+Cadre ancien en bois sculpte dore.
+
+## GREUZE
+
+(JEAN-BAPTISTE)
+
+71
+
+## La Visite a la fermiere.
+
+Dans un interieur rustique, une dame,la figure severe, est assise pres d'un petit garcon qui, timidement, pose la main sur son bras. En face d'elle,la fermiere semble lui fournir des explications.
+
+Dessin au lavis d'encre de Chine, avec rehauts de blanc, sur papier gris.
+
+Signe en bas, a droite, sur la monture originale, et date :
+
+1780.
+
+Haut., 1g cent. 1/2; larg., 36 cent.
+
+Collection Defer-Dumesnil, vente des 1o-12 mai 1goo,n°151.
+
+Cadre ancien en bois sculpte dore.
+## HUET
+
+(JEAN-BAPTISTE) Paris,1745 Paris,1811.
+
+72
+
+## Le Pont de bateaux, a Moulin-Joli
+
+Garni des deux cotes par des caisses remplies de fleurs et des bancs, il relie d'un bord a l'autre les berges de la Seine. Des promeneurs cotoient le fleuve; un batelier traverse deux menageres avec leurs enfants apres avoir amene, de l'autre rive, une femme tenant un panier et une autre portant deux cruches et accompagnee d'un enfant.
+
+Dessin au crayon, plume et lavis d'aquarelle. Signe et date : 177S, en bas, vers la droite.
+
+Haut.,21 cent.1/2;larg.,32 cent.1/2.
+
+Madame Vigee-Lebrun dans ses memoires (tome I, pp. 1o2-103)
+
+donne la description de Moulin-Joli ou elle fut invitee, une premiere fois,par Watelet, grand amateur d'art, qui en était proprietaire, et une seconde fois, avec Hubert Robert, par M. Gaudran,riche commercant, qui avait acquis Moulin-Joli en 1778. C'est pendant ce dernier sejour qu'elle peignit le portrait de Robert, la palette a la main, qui
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+Cadre en bois dore.
+
+## HUET
+
+(JEAN-BAPTISTE)
+
+73
+
+## Le Colin-maillard.
+
+Tout en gardant leurs moutons, bergers et bergeres jouent a colin-maillard.
+
+Dessin a la plume et lavis de sepia. Signe et date : 1782, en bas, a droite.
+
+Haut., 26 cent.; larg., 20 cent.
+
+## HUET
+
+(JEAN-BAPTISTE)
+
+74
+
+## Moutons.
+
+Ils forment un groupe de cinq; trois d'entre eux sont couches,les deux autres sont debout.
+
+Dessin a la pierre noire avec rehauts de blanc, sur papier gris.
+
+Signe et date : 1792, en bas, a droite.
+
+Haut., 27 cent. 1/2; larg., 22 cent.
+
+Cadre ancien en bois sculpte dore.
+## JORDAENS
+
+(JACOB)
+
+Anvers,1593 +Anvers,1678.
+
+75
+
+## Feuille d'etudes: Deux Tetes de vieilles femmes.
+
+Toutes deux de trois quarts vers la gauche, le visage ride, la chevelure enfermee dans un serre-tete de lingerie.
+
+Dessin a la pierre noire, sanguine et rehauts de blanc.
+
+Haut.,14cent.12;larg.,22cent.1/
+
+Cadre ancien en bois sculpte dore.
+
+## LAJOUE
+
+(JACQHiES DE)
+
+Paris,168+Paris,1761.
+
+76
+
+## L'Escalier du parc.
+
+Au bas de son emmarchcment,une jeune femme, tenant par la main une filleite, se dispose a lui en faire gravir les degres.
+
+Dessin a la sanguine.
+
+Haut.,21 cent. 1/2;larg.,18 cen t.
+
+Cadre ancien en bois sculpte dore.
+## LA TOUR
+
+(MAURICE-QUENTIN DE)
+
+Saint-Quentin,17o4 + Saint-Quentin,1788.
+
+77
+
+## Portrait du peintre Siloestre.
+
+Il est debout, vu en buste, de trois quarts a droite, la palette au poing, le crane serre dans un foulard gris noue sur le front. Il est vetu d'un habit bleu brode de feurs. Derriere lui, a droite, une toile sur un chevalet.
+
+Pastel.
+
+Haut.,63 cent.;larg., 53 cent.
+
+Vente Laperlier, des 17-18 fevrier 1879,n°49.(Portrait d’un peintre, attribue a Chardin.)
+
+Exposition des Pastellistes,1883.
+
+Exposition des Cent Pastels,mai-juin 1go8.
+
+Decrit par M. Roger-Miles et reproduit dans son ouvrage sur cette exposition (Imprimerie Georges Petit, 1go8,p. 36).
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## LE PRINCE
+
+(JEAN-BAPTISTE)
+
+Metz,1733 + Saint-Denis-du-Port,1781.
+
+78
+
+## Buste de jeune femme.
+
+Elle est representee de trois quarts a gauche, les yeux baisses, vetue d'un corsage a rayures sur une chemise entrouverte sur la gorge. Sa chevelure est retenue par un ruban.
+
+Dessin a la sanguine.
+
+Grave par G. Demarteau, n° 3o3.
+
+Haut., 25 cent.; larg., 21 cent.
+
+Cadre ancien en bois sculpte.
+
+## LE PRINCE
+
+(JEAN-BAPTISTE)
+
+79
+
+## Cour de ferme.
+
+A gauche, en échelons, les batiments de la ferme, que domine l'habitation. Au centre, un paysan pres d'un puits. A gauche, au premier plan, un villageois et son cheval; plus pres, un valet de ferme jouant avec son chien. Dans le fond, accompagnee d'un enfant, une lavandiere portant une corbeille
+
+Dessin au lavis de sepia.
+
+Haut.,27 cent. 1/2; larg., 35 cent.1/2.
+
+Cadre ancien en bois sculpte dore.
+
+de linge.
+## LOUTHERBOURG
+
+(JACQUES-PHILIPPE)
+
+Strasbourg,1740 + Londres,1813.
+
+PENDANT DU SUIVANT
+
+80
+
+## Le Passage du gue.
+
+Une bergere, portant un panier sur son bras droit, appuie
+
+Dessin au lavis d'encre de Chine.
+
+son bras gauche sur l'épaule du berger qui porte sur son dos un enfant et sur son bras un chevreau. Un chien les precede.
+
+Signe et date : 177o, en bas, a gauche.
+
+Haut.,20 cent. 1/2; larg., 3o cent. 1/2.
+
+Exposition de Petits Maitres du xvine siecle, no 366.
+
+Cadre ancien.
+## LOUTHERBOURG
+
+(JACQUES-PHILIPPE)
+
+PENDANT DU PRECEDENT
+
+81
+
+## Le Paysan galant.
+
+Dans un paysage une bergere, montee sur un ane, conduit ses animaux a l'abreuvoir. Elle appuie son bras droit sur Iépaule d'un berger qui la guide en marchant a son cote. Plus loin, deux moutons, une chevre et un chien.
+
+Signe et date : 177o, en bas, a gauche.
+
+Dessin au lavis d'encre de Chine.
+
+Haut., 21 cent.; larg.,3o cent. 1/2.
+
+Exposition de Petits Maitres Francais du xville siecle. Paris, juin 192o, nos 367.
+
+Cadre ancien.
+## PAJOU
+
+(Attribue a AUGUSTIN) Paris,1730 Paris, 1809.
+
+82
+
+## Projet de brule-parfums.
+
+Il est orne d'un amour assis entre deux satyres, parmi les entrelacs d'une guirlande de fleurs.
+
+Dessin a la plume, lavis de bistre et rehauts de blanc a la gouache.
+
+Collection des Goncourt, n° 225.
+
+Collection Henri Michel-Levy,n°1o5.
+
+Cadre en bois sculpte doré.
+
+## PATER
+
+(JEAN-BAPTISTE-JOSEPH)
+
+Valenciennes,1695 + Paris,1736.
+
+83
+
+## Etude.
+
+Groupe de deux femmes, dont une est assise, tenant un eventail.
+
+Dessin a la sanguine, avec rehauts de blanc.
+
+Haut., 13 cent.1/2; larg.,22 cent.
+
+Cadre ancien en bois sculpte dore.
+
+Haut.,14 cent.;larg.,18 cent.
+## PERRONNEAU
+
+(JEAN-BAPTISTE)
+
+Paris,1731+Amsterdam,1781.
+
+## Portrait de Marie-Therese de Villette,femme Laruette.
+
+En buste, de trois quarts tournee vers la gauche, le haut du corps penche en avant, les cheveux poudres releves au sommet de la tete, un ruban bleu autour du cou et noue sous le menton, elle porte un corsage de soie jaune decollete, avec nceuds sur la poitrine, et un mantelet noir sur les epaules.
+
+Pastel.
+
+Haut., 55 cent.;larg.,45 cent.
+
+Exposition de Cent Pastels, mai-juin 1go8, n 87 du catalogue.
+
+Vente apres deces de M. Henri Michel-Levy, 12-13 mai 1919, n°1o7 du catalogue.
+
+Cite et reproduit dans J.-B. Perronneau, sa vie et son euvre, par
+
+Marie-Therese de Villette-Laruette,pensionnaire du Roi, fut recue en 176o a la Comedie italienne ou elle crea un certain nombre de roles dans des ceuvres de Gretry, de Monsigny,etc.
+
+Leandre Vaillat et Paul Ratouis de Limay, pl.45.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## PERRONNEAU
+
+(JEAN-BAPTISTE)
+
+85
+
+## Portrait de Mme Dutillieu.
+
+Dans un ovale, elle apparait presque de face, une draperie bleu clair jetee sur son costume blanc, au corsage amplement decollete. Dans ses cheveux poudres, coiffes bas, elle a pique des feurettes bleues. Un rang de perles presse son cou.
+
+Pastel.
+
+Haut., 6g cent.;larg.,55 cent.
+
+Exposition de Cent Pastels, mai-juin 1go8, n° 88.
+
+Decrit par M. Roger-Miles et reproduit dans son ouvrage sur cette exposition (Imp. G.Petit,1go8, p.75).
+
+Le portrait de M. Dutillieu, qui a la meme origine que celui-ci, figurait a la meme exposition et appartenait alors a M. Jacques Doucet.
+
+Exposition des Portraits de femmes et d'enfants,a l'Ecole des Beaux-Arts, avril 1897, n°162.
+
+Cite et reproduit dans J.-B. Perronneau, sa vie et son ouvre, par Leandre Vaillat et Paul Ratouis de Limay, pl. 70.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## PORTAIL
+
+(JACQUES-ANDRE)
+
+Brest ou Nantes,fin du xvnl siecle + Versailles,1759.
+
+86
+
+## Gentilhomme debout.
+
+Il marche, se dirigeant vers la droite, le bras gauche allongé, la main ouverte. A droite, incomplet et plus sommaire,un croquis du meme personnage.
+
+Dessin au crayon et a la sanguine.
+
+Haut., 24 cent.; larg., 16 cent.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+
+## PORTAIL
+
+(JACQUES-ANDRF)
+
+## La Musicienne.
+
+C'est une jeune femme debout aupres d'un clavecin, tenant dans sa main droite un cahier de musique. A cote d'elle, une chaise paillee a haut dossier.
+
+Dessin au crayon, pierre noire et sanguine.
+
+Haut.,1g cent.1/2;larg.,25 cent.1/2.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## ROBERT
+
+(IUBERT)
+
+Paris, 1733 + Paris, 1808.
+
+PENDANT DU SUIVANT
+
+88
+
+## La Crainte enfantine.
+
+Sur un chemin en foret, un groupe de femmes et d'enfants se dirigent vers la droite. Une fillette et un jeune garcon brandissant une tige de roseau sont effrayes par les aboiements d'un chien qui court sous leurs pas. A droite, une brouette sur laquelle un dindon est perche.
+
+Dessin a la plume, lavis de bistre et d’aquarelle.
+
+Sur sa monture originale estampillee : F R O.
+
+Haut.,36 cent.; larg.,28 cent. 1/2.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## ROBERT
+
+(HUBERT)
+
+PENDANT DU PRECEDENT
+
+## Lavandieres a Charenton.
+
+Au bord de la riviere,une femme lave; derriere elle, une autre etend un drap sur une table. Aupres d'elles, des enfants jouent. A droite, un arbre au squelette tordu et ébranche.
+
+Dessin a la plume et lavis de bistre.
+
+Signe en bas, avec linscription sur sa monture originale :
+
+D'apres nature, a Charenton.
+
+Haut.,36 cent.;larg.,28 cent.1/2.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## ROBERT
+
+(HUBERT)
+
+90
+
+## Le Chien de garde.
+
+Dans la cour d'une ferme, pres du perron d'acces au logis, un chien, liberé de sa chaine, mange sa patée pres de son abri, renversee. En haut des marches, une femme est accoudee sur une barriere rustisque.
+
+Dessin a la plume, lavis d'encre de Chine et légerement aquarelle.
+
+Haut., 17 cent.1/2; larg.,24 cent. 1/2.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+
+## ROBERT
+
+(HUBERT)
+
+91
+
+## L'Arche du pont de pierre.
+
+Sous ce pont, assis au bord de l'eau, ou dans des barques, des pecheurs suivent leur ligne au fil de l'eau. A gauche, trois personnages; l'un, vetu d'un grand manteau, designe, de son bras étendu, l'une des barques qui parait revenir a la terre.
+
+Contre-epreuve d'un dessin a la sanguine, reprise a la plume et lavee d'aquarelle par le maitre.
+
+Haut.,28 cent.1/2;larg.,36 cent.1/2.
+
+Cadre ancien en bois sculpte dore.
+## ROBERT
+
+(HUBERT)
+
+92
+
+## Le Petit Patre.
+
+Au centre de la composition, le petit patre, pieds nus, coiffé d'un chapeau de feutre, apres avoir depose sa besace, s'est assis sur un rocher place en travers de la route. A gauche.
+
+d'autres rochers devant un arbre couche par la tempete. A droite, la foret.
+
+Dessin a la sanguine.
+
+Signé a la plume, en bas, a gauche.
+
+Haut.,2g cent.;larg.,36 cent.
+
+Cadre ancien en bois sculpte dore.
+## ROBERT
+
+(HUBERT)
+
+93
+
+## La Chaumiere.
+
+Au bord d’un cours d’eau et entouree de verdure, on y
+
+Dessin a la sanguine.
+
+accede par un escalier exterieur accroche a ses fancs. Au premier plan, une femme dans un bateau cause avec une paysanne debout sur la rive, tenant a la main un panier, pendant que plus loin des lavandieres sont occupees a leur tache.
+
+Signe a la plume, en bas, au milieu.
+
+Haut.,28 cent.;larg.,35 cent.1/2.
+
+Cadre ancien en bois sculpte dore.
+## ROBERT
+
+(HUBERT)
+
+94
+
+## La Balustrade.
+
+Au premier plan, assise sur une balustrade de pierre, une paysanne, portant un panier, cause avec trois autres femmes accompagnees d'un enfant, debout en arriere. A droite, enfoui dans la verdure, le haut d'un temple peryptere a colonnes.
+
+Dessin a la sanguine.
+
+Signe et date : 178o, en bas, a droite.
+
+Haut.,34 cent.; larg., 24 cent.
+
+Cadre ancien en bois sculpte dore.
+
+## ROBERT
+
+(HUBERT)
+
+95
+
+## Nymphes.
+
+Au centre d'un paysage e de verdure,pres d'un temple peryptere a colonnes, en ruines, des nymphes sont assemblees.
+
+Dessin a la sanguine.
+
+Haut., 22 cent.; larg.,32 cent. 1/2.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## ROBERT
+
+(HUBERT)
+
+96
+
+## La Villa Aldobrandini, a Rome.
+
+Devant la villa, dont la facade est couronnee d'un fronton sur colonnes, au-dessus d'une arcade, s'étend une terrasse que borde une balustrade ornee de statues. Plus loin,les jardins animes de figures. A gauche, une charmille et un rideau de grands arbres.
+
+Dessin a la sanguine.
+
+Haut.,31 cent.;larg.,45 cent.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## ROBERT (HUBERT)
+
+L6
+
+## L'Escalier de la terrasse.
+
+Il s'eleve en deux rampes devant le mur de soutenement et conduit a la terrasse plantee d'une double rangee d'arbres. De face, une piece d'eau; a gauche, une cascade; a droite, des lavandieres. La balustrade est decoree de vases et de sphinx; au centre, gravissant les degres, un jardinier porte un pot de fleurs.
+
+Dessin a la sanguine.
+
+Signe et date : 1765, en bas, vers le milieu.
+
+Haut.,32 cent.;larg.,46 cent.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## ROBERT
+
+(HUBERT)
+
+98
+
+## La Montee au bosco.
+
+Dans une cour de villa romaine, disposee en hemicycle, au centre du mur, perce de niches garnies de statues et en partie couvert de vegetations, qui soutient la terrasse, s'amorce la pente douce qui conduit au bosco de chenes verts. Au premier plan,deux x figures de femmes, l'une portant une corbeille,
+
+Dessin a la sanguine.
+
+l'autre s'appretant a soulever une gerbe.
+
+Haut.,32 cent.;larg,44 cent.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## SAINT-AUBIN
+
+(GABRIEL-JACQUES DE)
+
+Paris, 1724 Paris, 1780.
+
+99
+
+## Feuille d'album.
+
+A gauche, une maman assise, dont on ne voit que le bas du visage, donne le sein a un enfant assis sur ses genoux; a droite, quatre tetes, un homme et trois femmes; celle qui est en haut, incomplete.
+
+Dessin au crayon, sanguine, plume, lavis et aquarelle.
+
+Haut., 9 cent.1/2; larg.,13 cent.
+
+Au revers, est un autre dessin presentant un groupe de femmes dans un parc. A la plume et au lavis.
+
+Cadre ancien en bois sculpte dore.
+## SCHMIDT
+
+(GEORGES-FREDERIC) Berlin,1712+Berlin,1775.
+
+DEUX PENDANTS
+
+100-101
+
+## Portrait
+
+de # Charles-Antoine Jombert, Libzaize du Roi pour l'Aztillerie et le Genie, ne a Patis en 1712,mozt en 1784, grand amateuz des Atts.
+
+## Portrait
+
+de # Marie-Angelique Gueron, epouse de Chazles-Antoine Jombezl, Libzaize du Roi.
+
+Deux dessins de forme ovale, a la pierre noire, sanguine, aquarelle et rehauts de blanc.
+
+Le premier porte la mention, a la suite du nom du personnage : Dessine par Schmidt en 1743.
+
+Haut., 28 cent.; larg., 23 cent.
+
+Vente de Dessins et Aquarelles du xvi1 siecle, du 6 mars 1899, n°g8.
+
+Cadres anciens en bois sculpte dore.
+
+Voir les reproductions.
+## TIEPOLO
+
+(JEAN-DOMINIQUE) 1727+1804.
+
+102
+
+## Le Pere Eternel.
+
+Porte par les anges sur une nuee, un vieillard barbu, drape, s'éleve dans le ciel, precede d'une theorie d'angelots.
+
+Haut.,23 cent. 1/2; larg., 16 cent. 1/2.
+
+Dessin a la plume et lavis d'encre de Chine. Signe en bas, a droite.
+
+Cadre ancien en bois sculpte doré.
+
+## VANLOO
+
+(CHARLES-ANDRE,dit CARLE)
+
+Nice,1705 + Paris,1765.
+
+103
+
+## Buste de jeune femme.
+
+La tete presque de profil a gauche, penchee en avant. Elle est decolletee et sa chevelure est ornee d'une coiffe de lingerie.
+
+Haut.,20 cent. 1/2;larg.,16 cent. 1/2.
+
+Dessin a la pierre noire, sanguine et rehauts de blanc, sur papier gris.
+
+Cachet de la collection His de la Salle, en bas, a gauche.
+
+Vente de Mme Dewitt.
+
+Cadre ancien en bois sculpte dore.
+## VIGEE
+
+(LOUIS)
+
+DEUX PENDANTS
+
+104-105
+
+## Portraits d'actrices.
+
+Representees toutes deux en pied; fonds de paysages. Dessins au pastel.
+
+Haut., 37 cent., larg., 23 cent.
+
+L'un de ces deux portraits a ete grave par Simeon Dufos, d'apres Louis Vigee, avec le titre : Babichon. C'est le portrait de Mlle Sauvage, comedienne.
+
+Cadres anciens en bois sculpte dore.
+
+Vour les reproductions.
+## WATTEAU
+
+(JEAN-ANTOINE)
+
+Valenciennes,1684 Nogent-sur-Marne,1721.
+
+106
+
+## Etude pour ( la Famille 》.
+
+A gauche, un personnage couche a terre, le bras droit appuye sur le sol, le bras gauche éleve et reployé, indique de la main une jeune fille, assise a droite, s'appuyant sur son bras droit, le bras gauche ramene au corps. Elle est vetue d'une robe blanche avec corsage decollete a larges manches.
+
+Dessin a la pierre noire, a la sanguine, avec rehauts de blanc, sur papier chamois, de la plus éclatante fraicheur.
+
+Haut.,23 cent. 1/2; larg., 35 cent.
+
+La Famille, estampe gravee par P. Aveline, d'apres A. Watteau. Cf. Emile DacIER et Albert VuAFLART : Jean de Jullienne et les Graveurs de Watteau, au XVIII siecle, n86.
+
+Vente Lallemend, mai 1894.
+
+Voir la reproduction.
+## WATTEAU
+
+(JEAN-ANIOINE)
+
+107
+
+## Feuille d'etudes Deux Personnages et mains.
+
+A gauche, un homme assis a terre, vu de dos, s'appuyant sur son bras droit. A droite, un joueur de fute assis. De chaque cote, une étude de main tenant un baton; celle de droite incomplete.
+
+Dessin a la pierre noire, sanguine et blanc, sur papier chamois.
+
+Haut.,25 cent.;larg.,34 cent.
+
+La figure de gauche se retrouve avec modifications dans un des personnages du tableau du maitre :L'Ile enchantee, faisant partie de cette collection et decrit plus loin sous le n58.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## WATTEAU
+
+(JEAN-ANTOINE)
+
+108
+
+## Tete de Gilles.
+
+De trois quarts vers la gauche, legerement penchee en avant, elle émerge d'une collerette de lingerie.
+
+Dessin a la pierre noire, sanguine et rehauts de blanc.
+
+Haut., 15 cent. 1/2; larg., 14 cent.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+
+## WATTEAU
+
+(JEAN-ANTOINE)
+
+109
+
+## Jeune Femme assise.
+
+Sur un tertre, tournee vers la droite, vetue d'une robe decolletee, le haut du corps ramene en avant, le visage legerement penche et presque de face. Elle tient de ses deux mains un eventail.
+
+Etude pour l'Amour paisible, de Berlin.
+
+Dessin a la pierre noire, sanguine et rehauts de blanc, sur papier gris.
+
+Haut., 22 cent.; larg., 23 cent.
+
+Cachet de la collection du baron de Schwiter; vente des 2o-21 avril 1883, n°167.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## WATTEAU
+
+(JEAN-ANTOINE)
+
+110
+
+## Le Marchand de fruits.
+
+Il est debout, vu a mi-corps, de face, le front decouvert, longue barbe grise;il porte le vetement des paysans russes;a sa droite, un panier de pommes sur lesquelles il pose la main largement ouverte.
+
+Dessin a la pierre noire et a la sanguine.
+
+Haut.,24 cent.;larg.,18 cent.
+
+Cachet de la collection du baron de Schwiter;vente des 2o-2I avril
+
+1883,n°161.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduclion.
+## WATTEAU
+
+(JEAN-ANTOINE)
+
+111
+
+## Portrait d'un magistrat.
+
+D'apres A. Van Dyck.
+
+Il est represente de profil devant une table, vetu d'un habit montant a collerette,coiffe d'un feutre a large bord et tenant dans sa main gauche un feuillet de papier roule; il allonge le bras droit dont la main a l'index tendu pose sur la table.
+
+Beau dessin a la pierre noire et a la sanguine.
+
+Haut.,21 cent. 1/2; larg.,15 cent.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+## WATTEAU
+
+(JEAN-ANTOINE)
+
+112
+
+## Etude de deux figures
+
+## pour ( I'Embarquement pour
+
+## Cythere 》.
+
+Un gentilhomme, vu de dos, fait un geste vers la gauche, tenant par la taille une jeune femme vue de face, la tete tournee vers la droite.
+
+Dessin a la sanguine.
+
+Haut., 18 cent.; larg., 14 cent.
+
+Collection G. Muhlbacher, vente des 15-18 mai 1899, n° 310.
+
+Cadre ancien en bois sculpte dore.
+
+## WATTEAU
+
+(JEAN-ANTOINE)
+
+113
+
+## La Causerie.
+
+Un homme assis, vu de dos, ayant une femme a sa droite, avec qui il cause.
+
+Dessin a la sanguine.
+
+Haut., 19 cent.; larg., 18 cent.
+
+Collection du baron de Schwiter, vente des 20-21 avril 1883, n° 171.
+
+Cadre ancien en bois sculpte dore.
+## WATTEAU (JEAN-ANTOINE)
+
+114
+
+## Deux Dessins encadres ensemble :
+
+A GAUCHE:
+
+Gentilhomme debout, tete nue tournee vers la gauche.
+
+## A DROITE:
+
+Offcier en surtout, debout, coiffe du tricorne, la tete de trois quarts vers la gauche.
+
+Deux petits dessins a la sanguine.
+
+Haut.,11 cent.;larg.,7 cent.
+
+Le premier de ces dessins fait partie de la suite des Figures de modes, dessinees et gravees a l'eau-forte par Watteau et terminees au burin par Thomassin le fils.
+
+Le second, de la suite des Figures francaises et comiques, nouvellement inventees par M. Watteau, peintre du Roi; celle-ci gravee par L. Desplaces.
+
+Cf.: Emile DacIER et Albert VuAFLART :Jean de Jullienne et les Graveurs de Watleau, au XyIIle siecle, n 44 et 58.
+
+Cadre en bois sculpte et dore.
+## WATTEAU
+
+(JEAN-ANTOINE)
+
+115
+
+## Danseur.
+
+Debout, de face, devant un groupe de deux femmes assises au pied dun terme joueur de fute. A droite, un levrier. Au fond, des habitations.
+
+Dessin a la sanguine.
+
+Haut., 1I cent.; larg, 12 cent. 1/2
+
+Cadre ancien en bois sculpte dore.
+
+## WATTEAU
+
+(JEAN-ANTOINE)
+
+116
+
+## Femme debout.
+
+Elle marche vers la droite,la tete retournee, presque de face, vers le spectateur.
+
+Dessin a la sanguine.
+
+Haut.,13 cent.1/2;larg.,7 cent.
+
+Cadre ancien en bois sculpte dore.
+## WATTEAU
+
+(JEAN-ANTOINE)
+
+117
+
+## Deux Etudes de danseuse.
+
+A gauche, elle est vue presque de dos, la tete retournee vers le spectateur, tenant de ses deux mains les cotes de sa jupe et esquissant un pas. A droite, la meme danseuse vue de trois quarts, presque de face, d'une indication plus sommaire.
+
+Haut., 17 cent.1/2;larg,12 cent.1/2.
+
+Dessin a la sanguine.
+
+Collection Maherault, vente des 27-2g mai 188o, partie du n° 389.
+
+Cadre ancien en bois sculpte dore.
+
+Voir la reproduction.
+
+## WATTEAU
+
+(JEAN-ANTOINE)
+
+118
+
+## La Ronde des amours.
+
+Dans un paysage, des amours dansent une ronde autour d'une figure de femme adossee a un arbre et surmontée d'attributs.
+
+Dessin a la sanguine.
+
+Haut., 16 cent.; larg.,22 cent.
+
+Euvre executee sous l'influence de Gillot.
+
+A éte gravee a l'eau-forte par Caylus (no 83).
+
+Cadre en bois sculpte dore.
+## WATTEAU
+
+(JEAN-ANTOINE)
+
+119
+
+## Saint Antoine en priere.
+
+Il est agenouille devant une croix rustique, tenant un gros livre ouvert, un chapelet entourant sa main gauche. Pres de lui, son compagnon repose. Fond de paysage avec clocher.
+
+Haut., 2g cent.1/2; larg., 39 cent.
+
+Dessin a la sanguine.
+
+A éte grave en contre-partie par C.-N. Cochin, sous la direction de Huquier (n 93).
+
+Cadre ancien en bois sculpte doré.
+
+Voir la reproduction.
+
+## WATTEAU
+
+(Attribue a JEAN-ANTOINE)
+
+120
+
+## Village italien.
+
+Au centre, un escalier de pierre donne acces a une eglise
+
+édifiee sur un monticule.
+
+Dessin a la sanguine.
+
+Haut.,1g cent.; larg, 3o cent.
+
+Collection Henri Michel-Levy, vente des 12-13 mai 19i9, n° 148.
+
+Cadre ancien en bois sculpte dore.
+n°539.
+
+## WATTEAU de Lille
+
+(LOUIS-JOSEPH)
+
+Valenciennes,1731 +Lille,1798.
+
+121
+
+## Le Repos des moissonneurs.
+
+C'est la fin d’une chaude journee d'éte; moissonneurs et moissonneuses se disposent a prendre le chemin du village, dont on apercoit, dans le fond, le clocher de l'eglise dominant les toits des maisons qui l'entourent.
+
+Dessin au crayon legerement rehausse d'aquarelle.
+
+Haut.,18 cent. 1/2; larg,29 cent.
+
+Exposition des Petits Maitres francais du xvi siecle, juin 1920,
+
+Cadre ancien en bois sculpte dore.
+
+I'oir la reproduction.
+
+<!-- image -->
+<!-- image -->
+
+## Tableaux Anciens
+
+## BONINGTON
+
+(RICHARD PARKES) Arnold,18o1 + Londres,1828.
+
+122
+
+## Le Port de peche.
+
+Un quai protege, a gauche, l'une de ses darses, dont le flot s'est retire apres le reflux. Un marin y apparait, coiffe de rouge; derriere lui,un homme et une femme poursuivent leur causerie pres d'une cabane de pecheurs dont la cheminee fume. Au fond, des voiles sur la mer.
+
+Toile.Haut.,20 cent.;larg.,28cent.
+
+Cadre en bois sculpte.
+## CALLET
+
+(ANTOINE-FRANCOIS)
+
+Paris,17+1 + Paris,1823.
+
+123
+
+## Portrait de femme en vestale.
+
+Un long voile de gaze épingle a sa chevelure poudree, vetue d'une robe de satin blanc, elle est debout devant un autel sur lequel elle repand les parfums d'une aiguiere d'or et tient une corbeille de feurs de la main gauche.
+
+Toile.Haut.,22 cent.; larg., 16 cent.
+
+Cadre ancien en bois sculpte.
+## CHARDIN
+
+(JEAN-BAPTISTE-SIMEON)
+
+Paris,1699  Paris,1779.
+
+## 124
+
+## Les Aliments de la convalescence.
+
+Une table est placee, a gauche, dans une piece, devant une cheminee. Des gateaux, un verre, sont disposes sur la nappe blanche qui la recouvre. Une femme en corsage blanc, robe grise,tablier de toile,le visage souriant sous une petite coiffenoire, casse un ceuf pour le mettre dans un poelon pose sur la table: Sur le sol, un pichet de faience verte et, a droite, lindication d'une chaise.
+
+Esquisse du tableau expose au Salon de 1747, n° 6o du Livret.
+
+Toile Haut.,43 cent ;larg.,32 cent.
+
+Esquisse hardie et fine, que Jules de Goncourt grava a l'eauforte.Ph.BuRTY.
+
+Grave par Jules de Goncourt.
+
+Collection Laperlier, n°g de la re vente, a Paris, les 1i-3 avril 1867.
+
+Collection du baron de Beurnonville, vente a Paris, les g-i6 mai
+
+N° 4 de la 2 vente, a Paris, les 17-18 fevrier 1879.
+
+1881, n° g du catalogue.
+
+Cf. W. BuRGer, Gazette des Beaux-Arts, #re per., t. VIlI, Pp.234,235.
+
+No i64 du Catalogue raisonne de l'Euvre peint et dessine de J.-B.-Simeon Chardin,par Jean GuiFFREy, p. 82.
+
+# Qui vous a dit, Monsieur, qu'on peignait avec des couleurs ？ Avec quoi donc?- Avec quoi? Avec le sentiment.  CHARDIn. Cf. DIDERoT, Salons, p. 410.
+
+Cadre ancien en bois sculpte.
+
+Voir la reproduction.
+## CHARDIN
+
+(JEAN-BAPTISTE-SIMEON)
+
+## 125
+
+## La Nappe blanche.
+
+Un broc de faience a couvercle d'etain et des flacons sont a rafraichir dans un seau de bois a anse de fer depose, a gauche, au pied d'une table ronde recouverte d'une grande nappe blanche. Un verre est renverse sur la nappe, pres d'un couteau et d'un second verre a demi plein de vin rouge, et une miche de pain dore est posee a cote de trois tranches de saucisson dans un plat d'argent.
+
+Devant de cheminee.
+
+Toile de forme chantournee dans la partie superieure.
+
+Haut.,92 cent.;larg.,I m.20.
+
+Collection Laperlier.
+
+Exposition Chardin-Fragonard, Paris, 1go7,n° 53 du catalogue illustre.
+
+α Chardin peignit longtemps des natures mortes... Il vivait alors en grand compagnonnage avec le portraitiste Aved,le camarade, lami de toute sa vie, dont il a laisse le portrait,c'est un detail fort ignore,— dans ce tableau du philosophe en habit et en bonnet fourre lisant un gros livre relie en parchemin, expose au Salon de 1753. Chardin se trouvait avec lui; une dame vint demander a Aved son portrait jusquaux genoux : elle lui offrait quatre cents livres. Aved trouve la somme trop modique et refuse. Chardin,habitue a des prix plus modestes, insiste aupres de lui pour qu'il ne laisse pas échapper cette occasion, disant que quatre cents livres sont toujours bonnes a gagner. Oui, lui dit Aved, si un portrait était aussi facile a faire qu'un saucisson. Chardin, a ce moment, était occupe a couvrir un devant de cheminee. Il n'avait rien trouve de mieux que d'y peindre franchement, bellement, et de sa large touche, une table avec sa nappe blanche; au bas, un broc et une bouteille dans un seau a rafraichir; sur la table, deux verres, dont l'un est renverse, un couteau et un
+saucisson dans un plat d'argent. Pique du mot d'Aved... Chardin se promettait d'aborder la figure, et bientot il se decouvrait une nouvelle vocation.》 E. et J. DE GoNcouRT, l'Art du XVII siecle,《Chardin ，, PP. 95 et 96 (edit. Paris, 1873), t. 1. E. et J. de Goncourt ajoutent en note:# Ce devant de cheminee est aujourd'hui dans le cabinet de M.Laperlier.）
+
+Reproduit dans la Revue de l'Art ancien et moderne, t. II, p. oo. Reproduit dans la Gazelte des Beaux-Arts,t. XXxVIlI, 6o2 livraison, p. 97, sous le titre: La Table servie.
+
+Collection du peintre Decamps. (Ne figure pas au catalogue de la vente.)
+
+Exposition de la Caisse de secours des artistes, 186o, n° 351.
+
+No 16 du Catalogue raisonne..., par Jean GuiFFRey, op. cit., p. 82. Cf.MARIETTE,Abecedario,t.I,p.37.
+
+a Aucun doute en revanche n'est permis en presence du Mendiant de Saint-Sulpice...,ni des 《natures mortes provenant de M. Leon Michel-Levy: le Lievre mort (de la seconde vente Laperlier), la Table servie, le Chat friand d'huitres...,humbles sujets qui se vendaient jadis a d'humbles prix, et dont assurement la valeur venale actuelle etonnerait fort les Marcille pere,les Walferdin et les Lacaze, qui ont su les denicher dans les echoppes ou le #bon gout》 de l'Empire et de la Restauration les avaient relegues.  Maurice TourNeux, Gazetle des Beaux-Aris, 6o2e livraison, aout 1g07,Pp. 9798.
+
+Cf. Jean GuiFFREy, Revue de lArt ancien et moderne, t. II, p. 1o2.
+
+Cadre ancien en bois sculpte.
+
+Voir la reproduction.
+## CHARDIN
+
+(JEAN-BAPTISTE-SIMEON)
+
+126
+
+## Les Prunes.
+
+Un corbillon de prunes violettes est pose, a gauche, sur une dalle de pierre ou l'une d'elles a roule. Au centre, une bouteille
+
+Signe en bas, vers la droite.
+
+pansue, un verre d'eau et deux concombres.
+
+Toile. Haut., 42 cent.; larg., 48 cent.
+
+Ancienne collection Pillet. N° 17o du Catalogue raisonné.. , par Jean GuirFrey, op. cit., p. 83.
+
+Cadre ancien en bois sculpte.
+
+Voir la reproduction.
+## CHARDIN
+
+(JEAN-BAPTISTE-SIMEON)
+
+127
+
+## Les Peches.
+
+Une petite corbeille de peches est posee sur un entablement de pierre, pres de deux noix, dont Il'une est écalée, d'une grappe de raisin dore et d'une poire. Devant la grappe, un grain detache. Signe a gauche, en bas, et daté : 1758.
+
+Toile.Haut., 37 cent.;larg.,45 cent.
+
+Collection Laperlier, vente a Paris,les 11-13 avril 1867,n°25 du catalogue.
+
+Collection Raymond Sabatier,vente a Paris, le 3o mai 1883,n°59
+
+du catalogue.
+
+No 16g du Catalogue raisonne..., par Jean GuiFFrey, p. 83.
+
+α C'est toujours la nature et la verite: Vous prendriez les bouteilles par le goulot si vous aviez soif; les peches et les raisins éveillent
+
+1'appetit et appellent les mains.  DiDEror, Salon de 1759, p. 98.
+
+Cadre ancien en bois sculpte.
+
+Voir la reproduction.
+## CHARDIN
+
+(JEAN-BAPTISTE-SIMEON)
+
+128
+
+## Le Lievre.
+
+Il git, inerte, la tete sur le sol, les yeux clos. Il est accroche au clou d'une muraille, la patte liée au cordonnet d'une poire a poudre. A droite, une gibeciere.
+
+Signe a droite, vers le centre.
+
+Toile.Haut., 65 cent.;larg.,81 cent.
+
+Collection Laperlier,vente, a Paris,les 11-13 avril 1867,n°22 du catalogue,et 2°vente, a Paris,les 17-18 fevrier 1879, n°3 du catalogue.
+
+Exposition de la Caisse de secours des artistes, 186o, n° 1o6.
+
+Exposition des.Cent Chefs-doeuvre, Paris, juin 18g2,n 6 du catalogue.
+
+No 166 du Catalogue raisonne..., par Jean GuiFFRey, op. cit., p. 83.
+
+Exposition Chardin-Fragonard, Paris 1yo7,n° 47 du catalogue illustre.
+
+Reproduit dans l'Art au XvIlle siecle, par A. Dayor.
+
+602 livraison, P. g5 (article de Maurice IouRNeux).
+
+Reproduit dans la Gazette des Beaux-Arts, 3e per., t. XxxVIlI,
+
+Cf. Revue de lArt ancien el moderne, t. II, igo7, p. 1og (article de
+
+Jean (GUIFFREY).
+
+Cadre ancien en bois sculpte.
+
+Voir la reproduction.
+## CHARDIN
+
+(JEAN-BAPTISTE-SIMEON)
+
+129
+
+## Le Gobelet d’argent.
+
+Deux pommes jaunes et rouges se refletent, au centre, sur l'argent poli d'un gobelet, pose sur une table, entre une brioche, un pate et deux avelines.
+
+Signe a gauche, vers le bas.
+
+Toile.Haut.,31 cent.;larg.,40 cent.
+
+N 17i du Catalogue raisonne..., par Jean GuiFFREy, op.cit., p. 83.
+
+Cadre ancien en bois sculpte.
+
+Voir la reproduction.
+## CHARDIN
+
+(JEAN-BAPTISTE-SIMEON)
+
+PENDANTDU SUIVANT
+
+130
+
+## Le Chat friand d'huitres.
+
+Une raie est suspendue, a gauche, dans un interieur de cuisine, a un crochet de fer. Sur une table, sont repartis un couteau d'écaillere, une burette de vinaigre, un plat d'etain et des huitres ouvertes. A droite, un chat avance une patte vers elles.
+
+Signe en bas, vers la droite.
+
+Toile. Haut., 8o cent.; larg., 63 cent.
+
+Collection de Beurnonville, vente a Paris,les 9-16 mai 1881,n° 22 du catalogue.
+
+No 167 du Catalogue raisonne..., par J. GuiFFrey, op. cit., p. 83.
+
+Exposition Chardin-Fragonard, Paris, 19o7,n° 20.
+
+Cite par M. TouRNeux,Gazetle des Beaux-Arts, 3 periode,
+
+Cf. J. GuIFFRey,Revue de lArt ancien et moderne, t.II,1go7,p.o2.
+
+t.XXxVI1I, 6o2 livraison, P.98.(Cf.notice du n° 125 du present catalogue.)
+
+Cadre ancien en bois sculpté.
+
+Voir la reproduction.
+## CHARDIN
+
+(JEAN-BAPTISTE-SIMEON)
+
+PENDANT DU PRECEDENT
+
+131
+
+## Le Larron en bonne fortune.
+
+Une peche, trois moules, un poireau, sont disposes sur une table, pres d'une tranche de saumon, sur laquelle un chat aux aguets a la patte posee. Deux harengs, au centre. pendent a un
+
+Signe vers le bas, au centre, et date : 1758.
+
+Toile. Haut., 8o cent.; larg., 63 cent.
+
+Collection de Beurnonville, vente a Paris, les g-16 mai 188,n° 21 du catalogue.
+
+No 168 du Catalogue raisonne..., par Jean GuiFFREy, op. cit., p. 83. Cf. M. TouRNEux, Gazette des Beaux-Arts, 3 per., t. XXxVIll, P.98.
+
+Exposition Chardin-Fragonard,Paris,yo7,n° 21.
+
+Cf. J. GuiFFRey, Revue de l' Art ancien et moderne, 1go7, t. II, p. 102.
+
+Paris, decembre 1920.
+
+Deux compositions semblables ont figure a la vente Alphonse Kann,
+
+Cadre ancien en bois sculpte.
+
+Voir la reproduction.
+
+crochet de fer.
+## CHARDIN
+
+(JEAN-BAPTISTE-SIMEON)
+
+132
+
+## Le Pichet vert.
+
+Un pichet de terre verte,un poulet la tete pendante,un fromage entame, un égrugeoir sont repartis sur une table de pierre au-dessous d’une raie suspendue a un crochet de fer.
+
+Signe a droite, en bas.
+
+Toile Haut., 40 cent.; larg.,32 cent.
+
+Collection Camille Marcille, vente a Paris, les S-g mars 1876, n°2o du catalogue.
+
+N74 du Calalogue raisonne..., par Jean GuiFFrey, op cit., p 84. Catalogue par Emmanuel BocHER : Jean-Baptiste-Simeon Chardin,
+
+P.98.(Edit.Rapilly,1876.)
+
+Cadre ancien en bois sculpte.
+
+V'oir la reproduction.
+## CHARDIN
+
+(JEAN-BAPTISTE-SIMEON)
+
+133
+
+## La Cote de boeuf.
+
+Un quartier de viande est suspendu a un crochet au-dessus d'une table sur laquelle sont distribues, de gauche a droite, une terrine brune, deux oignons, un pichet, deux brins de poireau et un chaudron de cuivre.
+
+Toile. Haut., 40 cent.; larg., 32 cent.
+
+Collection Camille Marcille. N 173 du Catalogue raisonne..., par Jean GuiFFrey, op. cit., p. 84.
+
+Cadre ancien en bois sculpte.
+
+Voir la reproduction.
+
+## CHARDIN
+
+(JEAN-BAPTISTE-SIMEON)
+
+## Le Carre de mouton.
+
+Trois champignons sont poses sur une table avec un carre de mouton, un pot de terre verte vernissee et un égrugeoir.
+
+Toile. Haut.,37 cent;larg,45 cent.
+
+Collection Laperlier, vente a Paris, les 11-13 avril 1867,n°27
+
+du catalogue.
+
+N 172 du Catalogue raisonne.., par Jean GuiFFrey, op. cit., p. 83.
+
+Cadre ancien en bois sculpte.
+
+Voir la reproduction.
+## CHARDIN
+
+(JEAN-BAPTISTE-SIMEON)
+
+135
+
+## Le Chaudron de cuiore.
+
+Il est appuye contre une muraille, sur une etagere, pres d'un égrugeoir, une ecuelle de terre brune, une échalote,un oignon et un couteau.
+
+Signe vers la gauche, en bas.
+
+Bois. Haut., 17 cent.; larg., 20 cent.
+
+No 175 du Catalogue raisonne..., par Jean GuiFFrey, op. cit., p. 84. Cadre ancien en bois sculpte.
+
+I'oir la reproduction.
+
+## CHARDIN
+
+(JEAN-BAPTISTE-SIMEON)
+
+136
+
+## Les Legumes du pot-au-feu.
+
+Une serviette est negligemment jetee, a gauche, sur une
+
+Toile. Haut., 31 cent.; larg., 39 cent.
+
+etagere, pres d'un pichet de gres et d'un petit chaudron avec son écumoire. A droite, un chou et une botte de carottes. Signe vers le centre, a droite.
+
+No 176 du Catalogue raisonne..., par Jean GuirFRey, op. cit., p. 84. Cadre ancien en bois sculpte.
+
+Voir la reproduction.
+## FRAGONARD
+
+(JEAN-HONORE) Grasse,1732 +Paris,1806.
+
+137
+
+## Pan et Syrinx.
+
+La jeune nymphe, poursuivie par le dieu Pan jusqu'au bord du feuve Ladon, a cherche refuge entre les bras d'une divinite qui le symbolise, assise, a gauche, sur des rochers humides. Elle se suspend a son cou avec effroi. Pan surgit, a droite, sur la berge, decu de netreindre qu'une touffe de roseaux. Un amour, au-dessus de lui, brandit son arc, un autre le pousse pour hater sa course. Des naiades jouant parmi les eaux semblent le railler de sa deception.
+
+Toile. Haut., 49 cent.; larg., 59 cent.
+
+Collection du comte de La Beraudiere.
+
+Exposition de l'Art du xvin siecle, Paris, decembre 1883-janvier 1884,n°49 du catalogue.
+
+Collection Auguste Sichel, vente a Paris, les ier5 mars 1886.
+
+Catalogue par le baron Roger PorTALis dans : Honore Fragonard, sa vie et son oeuvre, p.283.（Edit.Paris,1889.)
+
+Cadre ancien en bois sculpte.
+
+Voir la reproduction.
+## FRAGONARD
+
+(JEAN-HONORE)
+
+138
+
+## Le Philosophe.
+
+Il est assis, le buste penche en avant, la main droite posee sur laccotoir de son siege, l'autre main appuyee sur une pile de livres. Les cheveux en desordre, la moustache et la barbe blanches, vetu d'une robe d'interieur a large col, il lit attenti- vement un volume ouvert devant lui.
+
+Toile de forme ovale. Hlaut., 57 cent.; larg., 71 cent.
+
+Cadre en bois sculpte.
+
+Voir la reproduction.
+## FRAGONARD
+
+(JEAN-HONORE)
+
+139
+
+## L'Approche de l'orage.
+
+Des bergers, sous la menace des nuees, rentrent a la hate leur troupeau.L'un d'eux, au premier plan,en culotte grise, gilet bleu, sa houlette sur l'épaule, court vers la droite, tandis que son chien effraie des canards refugies sur une mare. Au fond, le troupeau apparait soulevant la poussiere.
+
+Toile de forme ronde.Diam.,25 cent.
+
+Collection Laperlier,vente a Paris,les 20-21 fevrier 1879, n° 14
+
+du catalogue.
+
+Collection du baron de Beurnonville, vente a Paris, les g-i6 mai 1881,n67 du catalogue.
+
+Catalogue par le baron Roger PorTALis : Honore Fragonard..., op.cit.,P.271.
+
+Cadre ancien en bois sculpte.
+
+Voir la reproduction.
+## FRAGONARD (JEAN-HONORE)
+
+140
+
+## La Toilette de Venus.
+
+La deesse, nue et assise sur un lit de repos, le bras gauche mollement accoude sur un coussin de soie verte, se retourne vers une glace qui lui renvoie son image et sourit a sa beaute. Deux amours yolettent autour d'elle en deployant une draperie au-dessus de sa tete, tandis qu'a ses pieds deux autres amours
+
+Toile. Haut.,58 cent.; larg., 3g cent.
+
+Etude pour un tableau de plus grandes dimensions ayant fait partie de la collection Barroilhet, vente a Paris, les 15-16 mars 1872, n°g du catalogue (haut., 72 cent.; larg, 49 cent.).
+
+Exposition Chardin-Fragonard, Paris, 1go7,n° 1o5 du catalogue
+
+Cette étude nous parait avoir ete reprise posterieurement par une autre main.
+
+illustre de MM. A. DayoT et L. VAILLAT (reproduit p. 1o5).
+
+Cadre ancien en bois sculpte.
+
+Voir la reproduction.
+
+lui lacent ses sandales.
+Cadre en bois sculpte.
+
+## GAEL
+
+(BARENT GAAL,ou)
+
+Harlem,vers 162o  1687.
+
+141
+
+## La Charrette de foin.
+
+Des paysans, dans une prairie, rentrent leur foin apres la fenaison. Un valet, dans une charrette deja presque pleine, repartit de la fourche la charge pour en assurer le bon équilibre. Une villageoise est assise, au centre, sa fillette sur les genoux et, a droite, un chasseur, l'arme sur l'épaule, s'avance accompagne d'une dame.
+
+Bois. Haut., 38 cent.; larg., 46 cent.
+
+Cadre ancien en bois sculpte.
+
+## JEAURAT
+
+(ETIENNE)
+
+Paris, 1699 Versailles, 1789.
+
+PENDANTDU SUIVANT
+
+142
+
+## La Cuisiniere.
+
+En camisole rouge et cotte bleue, coiffee d'un bonnet blanc, elle est penchee sur son fourneau.
+
+Toile. Haut., 25 cent.,; larg., 19 cent.
+## JEAURAT
+
+(ETIENNE)
+
+PENDANT DU PRECEDENT
+
+143
+
+## Le Petit Retameur.
+
+Il est assis, penche sur un sac qu'il vide de la main droite.
+
+A terre, aupres de lui, divers ustensiles de menage.
+
+Toile. Haut.,25 cent.; larg.,19 cent.
+
+Cadre en bois sculpte.
+
+## LAJOUE
+
+(JACQUES DE) Paris,1687 + Paris,1761.
+
+144
+
+## Le Parc.
+
+Une jeune femme, au centre, precedee d'un chien, descend les degres d'un grand escalier de marbre accedant a la terrasse d'un parc. Une seconde promeneuse est assise sur l'appui de la large rampe qui le decore. A droite, une fontaine jaillissante et, au fond, une allee ombreuse.
+
+Toile. Haut., 41 cent.; larg., 54 cent.
+
+Cadre ancien en bois sculpte.
+## LEMOYNE
+
+(FRANCOIS) Paris,16s8Paris,1737.
+
+145
+
+## L'Enlevement d'Orythie.
+
+Boree, qui a surpris la fille d'Erechtee jouant avec ses compagnes au bord d'une source, apparait a droite, dans une nuee, et emporte Orythie nue et palpitante. A gauche, une éminence boisee.
+
+Toile.Haut.,31 cent.;larg.,23 cent.
+
+Collection Alfred Saucede,vente a Paris, le 14 fevrier 1879,n°63 du catalogue.
+
+Cadre ancien en bois sculpte.
+
+## LEPICIE
+
+(NICOLAS-BERNARD)
+
+Paris,1735+Paris,1784.
+
+146
+
+## Le Jeune Dessinateur.
+
+Le crayon aux doigts, un carton sur les genoux, il est assis et regarde attentivement le modele. Un foulard noue autour du cou, le visage de trois quarts vers la gauche, il est vetu d'un habit brun.
+
+Toile. Haut.,54 cent.;larg,45 cent.
+
+Cadre ancien en bois sculpte.
+## MIEL
+
+(JAN)
+
+Anvers,vers 15gg+Turin,1664.
+
+147
+
+## Les Dunes.
+
+Leur doux vallonnement sablonneux ondule en bordure d'une greve ou vient mourir la vague. Trois hommes, l'un debout, accompagne d'un chien, les deux autres assis, devisent, a gauche, pres d'un chemin sur lequel s'avance un chariot. Au fond, le clocher d'une petite bourgade.
+
+Toile.Haut.,26 cent;larg.,32 cent.
+
+Cadre ancien en bois sculpte.
+## PERRONNEAU
+
+(JEAN-BAPTISTE)
+
+Paris,1715 +Amsterdam,1783.
+
+## 148
+
+## Portrait du peintre Gillequin.
+
+Coiffe d'une perruque poudree, nouee d'un catogan, le visage tourne de trois quarts vers la gauche, 1'ceil vif, la levre ironique, il est represente presque a mi-corps, son tricorne sous le bras. Il porte un petit jabot de mousseline, et des manchettes de mousseline agrementent aux poignets, dont l'un seul est visible, son habit de soie grise.
+
+Toile.Haut.,62 cent.;larg.,52 cent.
+
+Collection Aignan-Thomas Desfriches, a Orleans.
+
+Collection Laperlier,vente a Paris,les 17-18 fevrier 1879,n36 du catalogue.
+
+Exposition au profit de l'Euvre des Orphelins d'Alsace-Lorraine,
+
+Collection du baron de Beurnonville, vente a Paris, les g-i6 mai 1881,n°152 du catalogue.
+
+Paris, salle des Etats, au Louvre, en 1885, n° 379 du catalogue.
+
+On lit, sur un papier adherent au revers de la toile :
+
+α Ce tableau est le portrait du Sr Gillequin, peintre et amy du Chevalier Arnoud qui le fit son heritier et est peint par Perronneau, environ l'an i75o. Sr Gillequin fixa son sejour a Angers, je l'alois voir a un passage en cette ville, en i754. Je le trouvay a l'extremite d'une Goutte Remontee. Il me pria d'accepter son portrait prevoyant bien qu'il n'irait pas loing. En effet, 2 jours apres il mourut. La presente notte faite a Orleans le 4 7bre 1768. Signe: Desfriches.
+
+Tres vraisemblablement, le portrait expose au Salon, en 1746, sous le n° 148, par J.-B. Perronneau, 1'annee meme ou il fut agree a l'Aca- demie royale de peinture et de sculpture.
+
+Cette meme annee, Perronneau exposait cinq portraits dont trois au pastel:
+
+146, Celuy de M. le Marquis Daubail, en cuirasse,
+- 147, Celuy de M. Drouais, peintre de lAcademie.
+- 148, Celuy de M. Gilcain, peintre (en huile).
+- 15o, Celui d'un jeune ecolier, frere de l'auteur, tenant un livre en
+- 149, Celui du petit Demoyel, tenant une poule huppee.
+- huile).
+- 《3. Le portrait de Gillequin, par Perronneau, present qui m'a este fait, trente L.
+- Il se peut que Desfriches, qui assigne au tableau la date de 175o, se trompe. Il écrit sa note en 1768, soit quatorze annees apres son information et, d'ailleurs,il fait preceder la date du mot environ.Dans un inventaire de son cabinet, du 3 septembre 176o,il mentionne et estime ainsi ce portrait:
+- #Dans un autre inventaire du 28 juin 1774, il porte son estimation de trente a soixante-douze livres. La valeur marchande avait donc au moins double de 176o a 1774.Le portrait fut achete 2.5oo francs par le baron de Beurnonville,et adjuge a sa vente, en 188t,2.o5o francs a M.Leon Michel-Levy... L'indication du sejour de Gillequin a Angers dans cette ville avant l'annee 1746. En tout cas, je ne crois pas que le mot de chef-dceuvre soit exagere pour exprimer la valeur de ce tableau, la premiere en date des peintures connues de Perronneau, et affirmer qu'il équivaut aux portraits d'Adam l'aine et d'Oudry, qu'il devance de quelques annees. Comment oublier la solidite de construction de cette figure énergique, la droiture de ce regard fixe sur l'operateur, la différenciation nuancee des valeurs et cependant l'unite du modele, l'accent dedaigneux de la courbe des narines,le leger pli de scepticisme de la bouche, l'execution d'un pinceau fier, toujours promene dans le sens de la lumiere et de la forme, la robuste matiere qui conserve dans certaines parties, comme le tour de cou en linon et le jabot, tout le foconneux et toute la feur du pastel. Leandre VaiLLAT et Paul RATouis DE LIMAy : J -B. Perronneau, p. 1o. (Edit. Paris, s. d.)
+
+Sur les rapports d'amitie entre J.-B. Perronneau et A. Desfriches, cf.Un Amateur orleanais au XvIIl siecle,Aignan-Thomas Desfriches, par P. RAToUIs DE LIMAy. (Edit. Paris, 19o7.)
+
+Catalogue meme ouvrage, p. 143 et reproduit pl. 7.
+
+Gilcain, ou Gillequin, naquit vers 1695 et mourut vers 1754.
+
+Donat Nonnotte exposa au Salon de 1745, sous le n1i5," une tete representant M. Gilquin, Peintre .
+
+Cadre ancien en bois sculpte,
+
+Voir la reproduction.
+## ROBERT
+
+(HUBERT) Paris, 1733 + Paris, 1808.
+
+149
+
+## Les Cascatelles de Tivoli.
+
+Un arche vetuste surplombe, au centre, un chemin ou s'avance une bergere en cotte bleue relevee sur un jupon rose, accompagnee d'une fillette. Elle conduit une vache, tandis que son chien aboie apres le reste du troupeau. Pres d'elle, un homme drape dans un grand manteau brun. Au fond, d'autres personnages dans la brume legere qui s'eleve des cascatelles.
+
+Bois. Haut.,27 cent.; larg.,1g cent.
+
+Cadre ancien en bois sculpte.
+
+Voir la reproduction.
+## ROBERT
+
+(HUBERT)
+
+150
+
+## Les Baigneuses.
+
+Une riviere coule, au premier plan, alimentee par une cascade jaillissant, a droite, entre des rochers parmi des verdures. Quatre baigneuses se devetent sur la rive, ou la presence d'un chien provoque l'envol de quelques canards sauvages. Un petit pavillon s'eleve, au second plan, sur la terrasse d'un parc dominant le cours diligent des eaux. Trois jeunes femmes y apparaissent a un balcon, accompagnees d'un jeune homme qui regarde les baigneuses.
+
+Toile.Haut.,55 cent.;larg.,3g cent.
+
+Cadre ancien en bois sculpte.
+
+Voir la reproduction.
+## ROBERT
+
+(HUBERT)
+
+151
+
+## La Voute.
+
+Une barque accoste, a droite, pres des degres d'un petit escalier et d'une porte ouverte dans la muraille d'une voute de pierre surplombant un cours d'eau. Deux jeunes femmes et une fillette debout sur les marches attendent son approche. A gauche, sur un rocher,un homme, le baton sur l'épaule.
+
+Bois.Haut.,1o cent.;larg.,1o cent.
+
+Cadre ancien en bois sculpte.
+## ROSLIN
+
+(ALEXANDRE) Malmoe,1718+ Paris,1793.
+
+152
+
+## Portrait de Mme Francois Boucher.
+
+Un bouquet de myosotis pique parmi les lacis de rubans bleus qui parent sa chevelure poudree, le visage presque de face et souriant, elle tient un livre de la main gauche. Un mantelet de soie bleue, seme de pastilles et borde de fourrure brune, couvre ses épaules.
+
+Signe a droite et date : 1761.
+
+Toile de forme ovale. Haut., 63 cent.; larg., 51 cent.
+
+Expose au Salon de 1761.
+
+a Il y a d'autres portraits de Roslin que je n'ai pu regarder apres celui de M. de Marigny. On trouve cependant que ce peintre a fait des progres depuis le dernier Salon et l'on a fort loue le Portrait de Boucher et celui de sa femme, qui est toujours belle. DiDeroT, Salon de 1761. Cf. Euvres completes de Diderot,t. X, p.i36 (edit. Garnier, Paris, 1876).
+
+Le " portrait de F. Boucher , qui lui faisait pendant, est conservé au musee de Versailles.
+
+Cadre ancien en bois sculpté.
+
+Voir la reproduction.
+## SAINT-AUBIN
+
+(GABRIEL-JACQUES DE) Paris,1724+ Paris,1780.
+
+153
+
+## Le Reve.
+
+Voltaire écrit La Pucelle. Il est assis devant sa table.la plume aux doigts et semble puiser son inspiration dans la contemplation des medaillons de Charles Vll, d'Agnes Sorel, de Jeanne d'Arc, de Dunois, qu'un genie éclaire de son flambeau. Un petit faune agenouille pres de son écritoire lui presente un encrier. Sur la table, une lyre doree, une tasse dans sa soucoupe, une cafetiere et des livres. A terre, une brochure avec le titre: La Pucelle d'Orleans, qu'il foule aux pieds.
+
+Peint sur une gravure marouflee sur toile. Haut.,33 cent.;larg.,24 cent.
+
+Il existe une gravure de Pierre-Nicolas RaNsoNNETTe : Le Reve, d'une composition sensiblement similaire. Elle porte en bas, a gauche: Invente par Gabriel de St-Aubin; au milieu:Le Reve;a droite: la signature du graveur. Elle s'accompagne de la legende : Mr DE VoLTaire, Eclaire par le Genie de la Poesie, considere les medaillons de Charles VII,Agnes Sorel, Jeanne d'Arc, Dunois,etc., que presente l'Amour,et le Genie de la Satire lui tient le Cornet,et sous les Pieds de lAuleur est le Poeme de la Pucelle par Chapelain. Sa mise en vente fut annoncee, avec une description detaillee, dans le Mercure de France de novembre 1782,p.238.
+
+edit.Paris 1914,p.169.
+
+Cf. Emile DaciER :L'Euvre grave de Gabriel de Saint-Aubin,
+
+Gabriel de Saint-Aubin est mort le g fevrier 178o, la gravure de N. Ransonnette est de 1782, elle mesure 352 millim.; larg., 248 millim. Dans l'Art du XVIll siecle, p. 2o4, E. et J. de Goncourt mentionnent un dessin a la plume, en tout semblable a la gravure, mais plus petit. Il a figure a la vente Clement en 1878. Il est vraisemblable que G. de Saint-Aubin ait pu, des 178o, ou meme anterieurement,etre en possession d'un essai de la gravure definitive et l'avoir utilise comme subjectile.
+
+Cadre ancien en bois sculpte.
+
+Voir la reproduction
+## SUBLEYRAS
+
+(PIERRE) Uzes, 1699 + Rome, 1749.
+
+154
+
+## La Courtisane amoureuse.
+
+(Conte de La Fontaine.)
+
+- u Ce ne fut tout; elle le dechaussa.
+- a Quoi! de sa main! Quoi! Constance elle-meme?》
+
+(LA FONTAINE.)
+
+Camille, en robe de chambre, est assis dans un fauteuil; la jeune femme, vetue d'une elegante robe bleue, est agenouillee devant lui et lui retire ses bas.
+
+Toile.Haut.,3o cent.; larg., 23 cent.
+
+Grave par Pierre. Vente Randon de Boisset, 1777. Vente Trouard,1779. Vente du marquis de Saint-Marc, 1859. Collection Jules Burat, vente a Paris, les 28-29 avril 1885, n° 168
+
+du catalogue avec l'indication des ventes precedentes.
+
+Cadre ancien en bois sculpté.
+Grave par Pierre.
+
+Vente Ch. Natoire, 1778.
+
+Vente Hubert Robert, le 5 avril 18o9, n 3o du catalogue.
+
+Vente du comte d'Houdetot, Paris, les 12-14 decembre 1859, n° 149 du catalogue.
+
+Collection Jules Burat, vente cit., n° 16g du catalogue.
+
+Le musee du Louvre conserve un tableau analogue mais presentant de notables variantes de composition.ll provient de la collection du duc de Penthievre, au chateau de Chateauneuf-sur-Loire. (Toile. Haut., 3o cent.; larg., 23 cent.)
+
+Cadre ancien en bois sculpte.
+
+## SUBLEYRAS
+
+(PIERRE)
+
+155
+
+## L'Ermite.
+
+(Conte de La Fontaine.)
+
+La mere amene sa jeune fille au frere Luce, qui simule l'effroi en voyant ces deux femmes dans sa cellule :
+
+- αJe crains, dit-il, les ruses du malin.
+- Dispensez-moi;le sexe feminin
+- “Ne doit avoir en ma cellule entree.
+
+(LA FONTAINE.)
+
+Toile. Haut., 3o cent.; larg.,26 cent.
+## TILBORG
+
+(GILLIS VAN)
+
+Bruxelles,1625  Bruxelles,vers 1678.
+
+156
+
+## La Lecture a la taverne.
+
+Cadre ancien en bois sculpte.
+
+Bois. Haut., 4o cent.; larg., 3g cent.
+
+## VANLOO
+
+(CHARLES-ANDRE,dit CARLE) Nice, 1705 + Paris, 1765.
+
+157
+
+## Portrait presume de la Marechale de Levis.
+
+La tete legerement inclinee sur l'épaule gauche, la chevelure Elle porte un corsage largement decollete et borde d'un ruche
+
+Toile. Haut., 55 cent.; larg.,45 cent.
+
+poudree, les yeux bruns, elle est representee presque a mi-corps. de rubans; elle tient un livre de la main droite et semble mediter sur sa lecture.
+
+Collection du baron de Schwiter, vente a Paris, le 3 mai 886, n° 44 du catalogue.
+
+Cadre ancien en bois sculpte.
+
+Voir la reproduction.
+## WATTEAU
+
+(JEAN-ANTOINE)
+
+Valenciennes, 1684 + Nogent-sur-Marne, 1721.
+
+158
+
+## L'lle enchantee.
+
+Pres d'un lac, ou se refletent les frondaisons des arbres qui le bordent, une societe galante est reunie. Les femmes, vetues de la robe decolletee a larges plis droits partant des epaules et finissant en cassures molles, portent les cheveux releves et tordus en chignon noue d'un ruban; les hommes, empresses aupres d'elles, devisent ou contemplent le paysage. Au premier plan, a gauche, une femme, coiffee d'une toque garnie de plumes, une fanfiole de ruban au corsage, se defend, en souriant, des entreprises de son compagnon; un couple, assis non loin, se retourne vers eux et les considere, amuse. Au centre, trois personnages vus de dos : une femme assise sur I'herbe et deux hommes a ses cotes. L'un, a droite, coiffe d'un toquet de soie, est allonge sur le gazon, le haut du corps souleve par un petit tertre sur lequel il croise les bras, tandis que lautre, couche sur le fanc, prend son point d'appui sur la jupe etalee pres de lui. A droite et a gauche du tableau, deux hommes debout, le manteau jete sur l'épaule, invitent leurs compagnes a la promenade.
+
+Toile. Haut.,44 cent.,; larg.,55 cent.
+
+Grave par J.-P. Le Bas, avec la mention :《 Du Cabinet de M.Cartaud, Architecte de feu S. A. R. Monseig le Duc de Berry , et le sous-titre : Gravee d'apres le tableau original peint par Watteau, de la meme grandeur de l'estampe. Nous devons remarquer que 1estampe mesure :o,345 X 0,475.
+
+Collection de Sir Joshua Reynolds. Collection Holworthy.
+Peut-etre le n° 57 d'une vente anonyme faite a Paris le 1er mars 1844.
+
+Vente John Wilson, a Paris, le 14 mars 1881, n° 25 du catalogue. Vente Febvre, a Paris,le 17 avril 882,n° 35 du catalogue.
+
+Vente de Beurnonville, a Paris,le 21 mai 1883, n° 42 du catalogue.
+
+Vente Edouard Kann, a Paris,le 8 juin 18g5,n° g du catalogue. Exposition de 1'Art au xvin siecle, Paris, decembre 1883-janvier 1884, n°142 du catalogue.
+
+Cite et catalogue par Emile DaciER et Albert VuAFLART : Jean de Jullienne et les graveurs de Watteau au XvIIIe siecle, t. III, Catalogue, p. 111, n 264 : α Aujourd'hui : Paris, coll. Léon Michel-Lévy. )
+
+Catalogue et reproduit par E. Heinrich ZiMMERMANN:Watteau, p. 58, ed. des Classiques de l'Art, Stuttgart, 1g12.
+
+Cf. n 1o7 du present catalogue: Feuille d’etude :Personnages et mains.
+
+Cadre ancien en bois sculpte.
+
+Voir la reproduction.
+## WATTEAU
+
+(JEAN-ANTOINE)
+
+159
+
+## L'Enseigne.
+
+Dans la boutique d'un marchand de tableaux, un homme, au centre， depose avec precaution dans une caisse un portrait d'homme qu'une élegante jeune femme, vue de dos, en robe de satin mauve, vient d'acquerir. Un commissionnaire, a gauche,un baton a la main, son crochet sur le dos, attend pour charger. Un laquais, au second plan, porte une glace a fronton. Derriere lui, une horloge est posee sur le marbre d'une commode. Un gentilhomme, a droite, coiffé d'une perruque poudree, la tete legerement inclinee sur l'epaule, vetu d'un habit marron entr'ouvert sur un gilet rose, s'entretient avec la belle acheteuse. Des ceuvres d'art ornent les murailles et une porte vitree, au fond, s'ouvre sur la perspective d'une galerie
+
+Ce tableau est la partie gauche de la composition connue sous le titre de l'ENSEIGNE DE GERSAINT.
+
+Toile. Haut., 98 cent., larg., I m.3o.
+
+Collection de labbe Guillaume, vente a Paris, le 18 mai 176g et jours suivants, n° 2og du catalogue, ou il était ainsi designe :α Un tableau par le meme [Watteau], qui formait un des cotes du Tableau de Gersaint, representant un Peintre qui fait encaisser des Tableaux. H.36,L.48.
+
+28 mai au 1er juin 185o, dans son logement de la rue Caumartin, n° 9; n° 62 du catalogue :#WATTEAu.La moitie de l'Enseigne, tableau en Avec sa gravure.）
+
+Collection de M. Auguste, ancien pensionnaire de Rome, vente du plafond, fait pour son ami Gersain, marchand sur le pont Notre-Dame.
+
+Collection du baron de Schwiter qui l'avait acquis a la vente precedente), vente a Paris, le 3 mai 1886, n° 46 du catalogue.
+
+Expose au Petit Palais en Igoo,
+Reproduit dans la Gazette des Beaux-Arts, n de mars 1go9, 621# livraison, p. 212, et n° d'avril 1go9, 622e livraison, p. 3o9.
+
+Reproduit dans les Arts, n° 4, annee 1go2, p. 13.
+
+Reproduit dans l'lllustration du 22 janvier 1gio, p. 58.
+
+Cite par Emile DaciER et A. VuAFLART : Jean de Jullienne et les
+
+Catalogue et reproduit par E. Heinrich ZIMMERMANN : Watteau, graveurs de Watteau, t. Ill, no 115, p. 57.
+
+n° 1o4 bis, édit. des Klassiker der Kunst (Stuttgart, 1912).
+
+L'Enseigne de Gersaint a ete gravee par P. Aveline, alors qu'elle appartenait a M. de Jullienne. La gravure porte les vers suivants:
+
+α Watteau dans cette enseigne, a la feur de ses ans,
+
+Des maitres de son art imite la maniere, Leurs caracteres differens, Leurs touches et leur gout composent la matiere De ces esquisses élegans. Que n'attendions-nous point de tant d'heureux talens! Si le ciel eut voulu prolonger sa carriere, Il auroit surpasse ses modeles charmans.
+
+Le tableau fut brosse en quelques jours par A. Watteau, pour Gersaint, qui nous rapporte lui-meme, — dans la notice biographique consacree au maitre, lorsqu'il redigea le catalogue de la vente Quentin de Lorangere, en 1744, —— les precieux renseignements suivants sur son execution:
+
+A son retour a Paris, qui étoit en 172i, dans les premieres annees de mon etablissement, il vint chez moi me demander si je voulois bien le recevoir, et lui permettre, pour se degourdir les doigts, ce sont ses termes, si je voulois bien, dis-je, lui permettre de peindre un plafond que je devois exposer en dehors; j'eus quelque e repugnance a le satisfaire, aimant beaucoup mieux loccuper a quelque chose de plus solide; mais voyant que cela lui feroit plaisir, i'y reussite qu'eut ce morceau; le tout étoit fait d'apres 1 consentis. L'on scait la nature;les attitudes en etoient si vraies et si aisees, l'ordonnance si naturelle,les groupes si bien entendus, qu'il attiroit les yeux des passans; et meme les plus habiles Peintres vinrent a plusieurs fois pour l'admirer:ce fut le travail de huit journees, encore n'y travailloit-il que les matins, sa sante delicate, ou pour mieux dire sa foiblesse, ne lui permettant pas de s'occuper plus long-tems. C'est le seul ouvrage qui ait un peu aiguise son amour-propre; il ne fit point difficulte de me l'avouer. M. de Julienne le possede actuellement dans son cabinet, et il a été grave par ses soins.
+
+11l convient de remarquer, malgre tout l'interet que presentent ces
+lignes, que Gersaint les écrit a 23 ans de date des évenements qu'il relate et, peut-etre en raison meme de ce laps de temps ecoule, avec quelque imprecision de souvenirs. Ne note-t-il pas, par exemple, que Watteau revint d'Angleterre en 172i, alors que son retour dut etre anterieur, —si l'on s'en refere a sa correspondance, — et se placer vers le debut de l'ete 172o. Quoi qu'il en soit, et meme entache de certaines erreurs rectifiees aujourd'hui par de scrupuleuses recherches et les travaux critiques consacres a lEnseigne, son temoignage n'en demeure pas moins, en ses traits essentiels, digne de creance.
+
+L'ceuvre peine terminee fut exposee sous l'auvent de son magasin, pont Notre-Dame. Elle n'y resta que quinze jours et fut acquise par Claude Glucq, seigneur de Villequier, conseiller au Parlement, s'il faut en croire le Mercure de mars i732,pour entrer ensuite dans la collection de Jean de Jullienne. Elle faisait encore partie du cabinet de ce celebre amateur et ami de Watteau en 1744, lors de la redaction du catalogue Quentin de Lorangere. Le 3o mars 1767, date de la vente de M. de Jullienne, elle ne figure pas au catalogue dresse par Remy; elle n'est pas non plus mentionnee dans son testament du 25 mai 1764. Sa trace se perd donc entre 1744 et 1762.
+
+D'aucuns pensent toutefois la retrouver en 176o, a Charlottenbourg, dans la collection n privee du grand Frederic. Les Autrichiens, qui viennent de la piller quelque peu, ont cependant épargne, écrit alors le marquis d'Argens a son royal correspondant :# Les deux Enseignes de Watteau et le portrait de cette femme que Pesne a peint a Venise. Les  deux Enseignes , a leurs yeux, ne sont, en fait, que 1'Enseigne elle-meme, acquise a Paris par un des representants ordinaires du s pour des motifs de commoroi de Prusse,et scindee en deux parties dite d'ameublement et pour obtenir deux pendants. Ces deux fragments sont toujours a Berlin, oi ils ornent, dans le Vieux Palais,le salon particulier de l'Imperatrice.
+
+D'autres ecrivains d'art pensent, au contraire, que la trace perdue reapparait en 1769, et inclinent a identifier la partie gauche de lEnseigne de Gersaint avec le no 2og de la vente de l'abbe Guillaume fragment pour une ceuvre originale de et tiennent ce beau Watteau.
+
+Le prestige du maitre est aujourd'hui si grand et si vif le souci de ce qui concerne sa production geniale, qu'une maniere de debat s'est peu a peu instituee au sujet de l'Enseigne. Deux theses se sont opposees et concluent l'une en faveur des α fragments de Berlin ， l'autre, du 《 fragment de Paris 》. En Allemagne, en France, en Angleterre, la critique s'est efforcee de faire prevaloir tour a tour
+l'une de ces theses. On trouvera plus loin l'indication des auteurs a consulter sur la controverse.
+
+Il semble bien que l'essentiel de l'argumentation des partisans de u l'Enseigne  de Berlin se resume et trouve sa plus complete expression dans la communication faite par M. P. ALFAssA a la Societe de lHistoire de l'Art, le 8 avril gio, et inseree au Bulletin de cette Societe, fasc. 1I de la meme annee, Pp. 126 et suivantes. M. Alfassa se propose, dit-il, d'y  remettre au point une question ou se trouve interesse un des plus admirables chefs-d'ceuvre de notre art et de fournir ainsi aux recherches futures une base solide . Il étudie ensuite les documents relatifs a 《 l'Enseigne de Gersaint , les analyse, les confronte, en tire des deductions et conclut provisoirement en historien desireux seulement de verite. Ce travail critique des textes, l'etude des ceuvres ellesmemes, de la copie executee par J.-B. Pater, de la gravure d'Aveline, decide de son choix pour les tableaux de Berlin. Malgre toutefois les arguments qu'il groupe et coordonne exclusivement en leur faveur, il ne rejette pas la possibilite d'admettre que Watteau ait peint le tableau de la presente collection. Nous empruntons a sa tres erudite et ingenieuse demonstration ses propres lignes :
+
+ne soit pas de Watteau? Vous me permettrez de ne rien affirmer. Je n'y reconnais pas l'art de Watteau a l'extreme fin de sa vie. Mais que ce soit un tableau plus ancien, laisse inacheve, quelque chose absolument impossible, encore que je ne voie pas a quelle epoque la placer...》.Cf.Bullelin,op. cit.,p.17o.
+
+# Est-ce a dire que le fragment de la collection de M. Michel-Levy
+
+En 18g2, deja, Paul MaNTz avait ecrit :L'Enseigne, toujours separee en deux morceaux, est aujourd'hui a Berlin, dans le salon rouge du vieux palais.(Antoine Watteau, p. 2o7.) Quelques années plus tard, Gabriel SeaiLLes ecrit egaleiment : u La fameuse Enseigne est aujourd'hui entre les mains de l'empereur d'Allemagne..., elle fut acquise de Jullienne par Frederic II.(Watteau, édit. H. Laurens, Paris, s. d., p. 38.) Depuis, M. Paul LepRIeuR exprima la meme opinion et a son avis :a .. les donnees historiques, de valeur assez fragile pour leuvre parisienne, apportent au contraire a lensemble de Berlin, sinon l'absolue garantie d'authenticite,le temoignage deja singulierement concordant de probabilites vraisemblables. D'autres encore ont fourni leur contribution a l'eclaircissement d'un probleme dont les donnees sont encore incompletes et toujours entachees d'obscurite. Certains d'entre eux, entraines par les resultats de leur enquete, ou seduits exclusivement par la beaute des tableaux de
+Berlin, se sont prononces contre ce qu'on a appele:le Fragment de Paris. De ce nombre, sont divers articles de presse, tel celui de
+
+M.Alvin-Beaumont publie dans Le Journal du 28 mars 1gio, ou telle encore sa brochure : Un probleme d'art, Watteau en Allemagne, d'un developpement si personnel.
+
+Par contre, le 《 fragment de Paris  a trouve d'ardents defenseurs en de maints auteurs :α Il est etabli par l'examen historique, documentaire et artistique, que le fragment de Paris, collection Leon Michel-Levy, constitue tout ce qui nous reste de l'Enseigne peinte par Watteau... Si l'on α allait devant I'arbitre  les choses se passe- raient ainsi:
+
+- Qu'invoquez-vous, demanderait l'arbitre, pour affirmer que le fragment de Paris est l'Enseigne de Gersaint?
+- -La filiation admise unanimement entre ce tableau et la toile presentee en i76g, a la vente Guillaume, comme etant celle peinte pour Gersaint. Sa conformite avec la copie de Pater, avec la gravure d'Aveline et le prospectus de Jullienne, temoins contemporains. Sa facture, qui repond au recit de Gersaint et a la facture large et decidee de Watteau. Il est probable, enfin, que l'autre moitie n'avait pas encore quitte la France en 1829...
+
+Se tournant alors vers la partie adverse, l'arbitre demanderait :
+
+- —Et vous, quels sont vos documents?
+- -Ce recit dit-il que les tableaux furent achetes a Jullienne,
+- Un seul. Le recit du marquis d'Argens.
+- possesseur de lEnseigne en 1744?
+- ——Non.
+- ——A qui alors?
+- On ne sait pas.
+- En quelle annee?
+- On ne sait pas.
+- -Ces tableaux sont-ils pareils a la copie-gravure ?
+- Non.
+- Sur combien de points different-ils de ce temoin contemporain?
+- Quatorze.
+- Sur quoi vous appuyez-vous pour dire que ces tableaux n'en
+- faisaient qu'un primitivement?
+- —Les fils de la toile concordaient.
+- Mais la peinture concordait-elle?
+- ——Non.
+
+Le reste est litterature. Andre MaurEL :L'Enseigne de Gersaint, Paris,edit.Hachette et Ci,1913,Pp.107,1o9,110.
+La vraie est celle de Paris.  Louis VAuxceLLes :L'Enseigne de
+
+Gersaint, Gazette des Beaux-Arts, mars 19o9, 621 livraison, p. 209.
+
+- francais est large, spontanee, toute de franchise et de joie de peindre, autant son harmonie generale est vibrante et chaude, autant le metier des deux toiles de Berlin est retenu, precis, d'une savante timidite. Et cette froide technique, qui rappelle beaucoup celle de Lancret dans ses commandes officielles, s'enveloppe d'une couleur grise et glacee, non sans finesse et sans charme, mais ou l'on cherche en vain la rayonnante
+
+chaleur et le genie de Watteau. Armand DayoT : Histoire de la peinture francaise au XVIIl siecle.
+
+- (C'est, sans conteste, un fragment de la a premiere version tres
+
+libre, tres franche, tres ardente et chaude de l'enfantement, un peu brutale meme, qui est reste en France.  Virgile Josz : Watteau, Paris, edit.1g03.
+
+( Les repliques sont au reste nombreuses dans l'oeuvre du maitre. Ainsi pensent ceux qui ont compare les divers Contrats ou Fetes de village, et lon ne voit pas pourquoi Watteau, qui a fait deux Embarquements,n'aurait pas fait deux Enseignes. Edmond PiLon: Watteau et son Ecole, p.145, édit.Van Oest, Paris-Bruxelles, 1924.
+
+une opinion personnelle qui ne doit rien a l'erudition ni a la mathematique des documents, mais qui seulement s'appuie sur des impressions et des souvenirs. ll existe, a nos yeux, quant a l'execution des deux euvres, les memes differences qu'entre les deux Embarquements pour Cythere. En Allemagne, I'Embarquement et l'Enseigne nous parurent visiblement plus appliques, plus menus de facture, moins libres en un mot que les notres, comme cela se voit assez frequemment dans les repliques des ceuvres du maitre. Ici, dans l'Enseigne provenant de la vente de Schwiter, l'execution est ardente, joyeuse, large, spontanee ainsi que toute ceuvre de premier jet et, avec le tact que Watteau apportait en toutes choses, comme il convient a une peinture faite pour servir d'enseigne. 》 Arsene ALexANDRe : Les Arts, mai 1go2, n° 4, P.I2.
+
+α Il sera permis au signataire de cette notice d'exprimer a son tour
+
+Dans le tableau de M. Michel-Levy, au contraire, aucune dissem-
+
+α Il y a quelques annees, s'est elevee une controverse a propos d'un blance ni avec la gravure, ni avec le Pater. C'est bien ici le chef-d'ceuvre original, enleve de verve, avec un esprit, une souplesse, une fevre joyeuse, des qualites qui, elles seules, signeraient irrefutablement ce delicieux, cet inegalable morceau.  Gustave BaBiN : L'Illustration, n°3491, 22 janvier 1910, p. 59.
+fragment reproduisant la moitie gauche de l'Enseigne et que possede aujourd'hui un amateur parisien. ll y a eu des partisans de ce qu'on a appele le α fragment de Paris . Le tableau, que chacun a pu voir a I'Exposition de 1goo, est tres beau;Degas le trouvait α enivrant 》. Je lui dois personnellement une gratitude infinie :je lui dois la revelation d'un Watteau inconnu, de moi insoupconne, un Watteau que dans un moment j'essaierai a mon tour de vous faire entrevoir. Ce tableau a d'ailleurs toute son histoire en regle : on le suit depuis l'annee 1769, ou il passe a la vente de l'abbe Guillaume;on le retrouve ensuite dans l'atelier de ce peintre rare, de cet independant, precurseur de Chasseriau et de Gauguin, ce mysterieux M. Auguste, tant admire de Delacroix et dont les precieux pastels sont le joyau secret du musee d'Orleans; de la,il passe dans la collection du baron Schwiter, autre bon connaisseur, ami de Delacroix. C'est donc, en tout état de cause, un tableau qui a ses titres de noblesse. Pour la question d'attribution, je renvoie aux brochures excellentes de M. Alfassa et de M. AlvinBeaumont, ainsi qu'aux etudes de M. Dacier et de Paul Leprieur. L'opinion contraire, celle qui tient pour original le fragment de Paris, est principalement representee par M. Andre Maurel, qui la defend avec beaucoup d'adresse. Je reprocherais meme a son raisonnement un exces de subtilite. Mais j'ajoute que la place du tableau parisien, qui n'a jamais quitte Paris, est au Louvre, dont il est digne. Louis GILLET:Watteau(Paris,Plon,1921),Pp.184, 185,186.
+
+venir a la pensee de contester l'authenticite des tableaux de Berlin, a d'autres exemples d'ceuvres repetees par le maitre.
+
+On a rarement autant écrit au sujet d'un tableau. La qualite meme de l'ceuvre en cause en est l'explication.Un tel litige n'aurait pu se prolonger longtemps si les admirables peintures qui l'ont provoque et entretenu n'étaient pas dignes de susciter la passion. ll ne saurait nous mais il ne nous parait pas non plus, actuellement, qu'une autre main que celle d'Antoine Watteau ait pu peindre la presente Enseigne. Il y
+
+Cadre en bois sculpte.
+
+Voir la reproduction.
+## WATTEAU
+
+(JEAN-ANTOINE)
+
+160
+
+## L'Ete.
+
+Ceres est assise de face, au centre, sur des gerbes de blé, portee par des nuages. Ses cheveux blonds boucles et pendant sur la nuque sont pares d'epis, de bleuets et de coquelicots. Une écharpe rose est drapee sur ses genoux, un ruban de meme
+
+Toile de forme ovale. Haut., I m. 42; larg., 1 m. 16.
+
+couleur retient a peine la chemise qui glisse sur ses épaules. De la main gauche, elle tient la faucille. A droite, une femme nue, en buste, vue de profil, et un enfant blond portant une gerbe dans ses bras. A gauche, on remarque les signes du Zodiaque : le Lion, au mufle de face, et le Cancer, figure par I'écrevisse. Fond de ciel.
+
+Grave parJ. Renard du Bos, n 1o6 du Catalogue... de MM. E. DaciER
+
+Vente du duc de Choiseul, Paris,le 18 decembre 1786,n° 3 du et A.VuAFLART, op.cit.,t.III,p.50.
+
+catalogue.
+
+Vente Lionel Phillips,Londres,le 25 avril g13,n72 du catalogue, Collection H. Michel-Levy,vente a Paris, les 12 et 13 mai 1919， n28 du catalogue.
+
+Vente Le Brun, Paris, le 1I novembre 1791, n° 2o4 du catalogue.
+
+Dans le Catalogue raisonne de l'Euvre peint, dessine et grave d'Antoine Watteau, par Edmond De Goncourr (Paris,Rapilly,187), p.5o et 5,on lit :αLe Printemps,l'Este,lAutomne,lHyver, ces quatre peintures ont éte executees pour la salle a manger de Crozat, sur des toiles ovales de 4 pieds 5 pouces sur une largeur de 3 pieds 9 pouces. Ces peintures ont éte gravees par Desplaces, Renard du Bos, Faissar, Audran.. Deux de ces peintures, l'Este et l'Hyver, qui decoraient lhotel, rue Grange-Bateliere, du duc de Choiseul, étaient vendues le 18 decembre 1786, dans la vente des objets curieux depen-
+dant de la succession du duc. Ces deux peintures repassaient a la vente du cabinetLebrun（i791).）
+
+La gravure de Renard du Bos porte la mention : Grave d'Apres le Tableau original Peint en ovale par Watteau chez Mr Crozat, haut de 4 pieds 5 pouces, sur 3 pieds 9 pouces de large.
+
+Sur Pierre Crozat (166i-1740), cf. E. DAciER: les Premiers amateurs de Watleau en France, dans la Revue de l'Art ancien et moderne,t. XL
+
+(1921),p.115.
+
+u C'est probablement par Sirois que Watteau fut introduit dans la maison. Crozat lui commanda la decoration de sa salle a manger... Watteau executa, en quatre dessus de portes, les Quatre Saisons. C'etait sa premiere tentative en sujets de grandes dimensions. Les compositions sont charmantes. Caylus dit fort etourdiment qu'elles sont de La Fosse :nous avons conserve les etudes du Prinlemps et de l'Automne, et ce sont parmi les plus beaux des dessins de Watteau. Les peintures se sont perdues, sauf celle de l'Ete, qui s'est retrouvee en Angleterre et fait partie de la collection Leon Michel-Levy. Elle a malheureusement souffert, mais pas assez pour perdre sa grace de blonde coiffee d'epis, de coquelicots et de bleuets. Louis GiLLET:
+
+Watteau,Pp.64-65 (édit.Paris,1921).
+
+Cite par Edmond PiLon:Watleau et son Ecole, p. 125 (edit. Paris-
+
+Bruxelles,1924).
+
+Cadre ancien en bois sculpte.
+
+Voir la reproduction.
+grandeur.
+
+## WATTEAU
+
+(JEAN-ANTOINE)
+
+## 161
+
+## La Diseuse d'aoenture.
+
+Trois jeunes femmes sont reunies a l'angle d'un mur enguirlande de feuillage. L'une d'elles tend la main a une Bohemienne, en corsage rouge et grande mante verte, pour qu'elle y lise sa destinee. Un garconnet se blottit contre la diseuse d’aventure, un tambourin a la main. Fond de verdure.
+
+Toile.Haut.,75 cent.; larg.,58 cent.
+
+Composition gravee par L. Cars, avec la mention : du Cabinet de M. Oppenort, d'apres le tableau original peint par Watteau, de meme
+
+Les dimensions de la gravure sont o,339 millim. X o,274 millim.
+
+D'apres les Annonces, affiches et avis divers (n° du 31 juillet 1752, édit. in 4°, p. 468) une Diseuse d'aventure de Watteau passe dans la vente apres deces de M. Barbier, capitaine au regiment d'Orleans, en juillet i752.—On citera ensuite:vente anonyme (collection of pictures from the grand cabinets of cardinal Mazarin and Prince Carignan, etc., Londres, 1765 : Gypsie telling fortune; 2 p. 7 po.X 2 po.); d'apres Concourt; —vente de Merval (Paris, 9 mai 1768, n° 13o :la Bohemienne; t.,2 p. 4 po. X 22 po.), a Lenglier;—vente Desenfans (Londres, 8 avril 1786, n° 298: Fortune teller; t., 2 p. 9 po. X 2 p. 5 po.); —vente Fossard (Paris, 24 avril i838,n° 73; sans detail);vente
+
+L'ecart des dimensions est trop sensible pour ne pas admettre que la gravure ait éte faite d'apres un autre original. Elle presente d'ailleurs de notables variantes. Le format meme des figures du present tableau est inusite dans l'ceuvre de Watteau et la facture nous donne a supposer que nous sommes en presence d'une ceuvre du debut de l'artiste, qu'il aurait plus tard reproduite telle qu'elle apparait dans la gravure.
+Stevens(Paris,1r mai 1847,n°3i9,ibid.); ;——vente Gaudinot (Paris, 15fevrier 1869,n°119;t.,0,60X0,50); 一 -vente anonyme (Paris, 26 fevrier 188o, n° 12; avec l'indication :"grave avec quelques variantes par L. Cars  ; t., o,75 X o,58); ——vente G. Bohn (Londres, 19 mars 1885, n 63;1o X 7 inches). Aujourd'hui : Paris, coll. Leon Michel-Levy . Emile DaciER et Albert VuAFLART : Jean de Jullienne et les Graveurs de Watteau., op. cit., Pp. ig-2o, n° 3o.
+
+Cadre en bois sculpte.
+
+Voir la reproduction
+
+<!-- image -->
+<!-- image -->
+
+## OBJETSD'ART
+
+## CERAMIQUE
+
+Faiences de Delft, Porcelaines de Chine
+
+162 - PoTicHE avec couvercle en ancienne faience de Delft.
+
+A huit pans et cotelee, elle est ornee, en couleurs, de compartiments a feurs et oiseaux, dans le gout japonais. Epaulement feuillage, sur fond bleu. Marque de Corn. de
+
+Keizer.
+
+Voir la reproduction.
+
+- 163 - Deux PoTIcHEs avec couvercles en ancienne faience de Delft.
+
+A huit pans et partiellement cotelees, elles sont decorees, en bleu, de grands compartiments juxtaposes contenant des paysages animes.
+
+Haut.,45 cent.
+
+Haut.,52 cent.
+- 164 — Deux coRNETs en ancienne faience de Delft.
+
+A huit pans et coteles, ils sont ornes en couleurs, d'arbustes feuris et d'oiseaux, avec lambrequins a la base.
+
+Voir la reproduction.
+
+Haut.,38 cent.1/2.
+
+- Deux PoTicHEs avec couvercles en porcelaine de
+- 165— Chine, époque Ming.
+
+Ces potiches, legerement variees de decor, sont ornees de nombreux personnages et enfants dans des paysages.
+
+Haut., 42 cent.
+
+- 166 -VAsE-rouLEAu en porcelaine de Chine, epoque Ming.
+
+Il est orne de quatre compartiments contenant des paysages animes et des fleurs, avec petits compartiments feuris formant lambrequins a l'epaulement.
+
+Voir la reproduction.
+
+Haut.,42 cent.
+
+- 167 -VAsE-RouLEAu en porcelaine de Chine, époque
+- Kang-hi.
+
+Il est decore, dans un paysage orne de rochers et d'arbustes, de quatre guerriers dont deux a cheval. Sur le col, deux personnages disposes chacun sur une feuille.
+
+Haut., 46 cent.
+- 168 -VAsE-RouLEAu, en porcelaine de Chine, epoque Kang-hi.
+
+Il est decore de deux grands compartiments a paysages animes, separes par de petites reserves chargees d'ustensiles et de paysages. Fond vert piquete et fleuri.
+
+Haut.,45 cent.
+
+Voir la reproduction.
+
+- 169 — Deux PETITEs PoTIcHEs avec couvercles, en porcelaine de Chine, époque Kang-hi.
+
+Elles sont ornees chacune, sur fond rose feuri, de quatre reserves a petits personnages dans la campagne. Les cols sont émailles jaune.
+
+Voir la reproduction.
+
+- 17o - Deux PETITs vAsEs quadrilateraux sur socles en
+- porcelaine de Chine, epoque Kien-lung.
+
+Ils sont decores sur fond jaune, de reserves contenant des feurs, avec lambrequins surmontes de fleurs a l'épaulement. Les socles ajoures offrent une decoration analogue.
+
+Haut.totale,33 cent.
+
+Haut.,2g cent.
+
+Voir la reproduction.
+## SCULPTURE
+
+STATueTTE en marbre blanc : le Printemps. 171 一
+
+Cette statuette est ainsi decrite dans le catalogue de leuvre de Falconet, par Louis Reau, tome I, page 196. a De ces differentes baigneuses, on peut rapprocher une admirable statuette de femme nue, appartenant a Monsieur Michel-Levy, qui l'a baptisee le Printemps : debout, les jambes croisees, elle s'appuie a un arbre recouvert d'une draperie. L'attribution a Falconet est justifiee par la grace de l'attitude,la perfection du modele et l'identite avec le type feminin de l'artiste. C'est évidemment le meme modele qui a pose le Printemps et la Baigneuse du Louvre. )
+
+Haut.,75.cent.
+
+Louis Reau:Etienne-Maurice Falconet,tome II,page 5o6, catalogue de 1'euvre de Falconet, paragraphe II : ceuvres attribuees. Meme modele que la Baigneuse du Louvre.
+
+Voir la reproduction.
+
+## PENDULE ET CANDELABRES
+
+172
+
+2—PeNDuLE en marbre blanc et bronze dore.
+
+Le mouvement, surmonte de deux colombes, est compris entre deux statuettes : jeune femme debout, drapee, tenant une rose et amour tenant son arc. Pieds reunis par une draperie. Epoque Louis XVI.
+
+Haut., 33 cent.
+
+Voir la reproduction.
+- 173 - Deux CANDELABREs a quatre lumieres en bronze dore et marbre blanc.
+
+Ils sont composes, l'un d'une statuette de faunesse, lautre d'une statuette de faune. Tous deux sont accroupis et portent sur leur tete une corbeille de fruits d'ou s'echappe le bouquet de lumieres. Epoque Louis XVI.
+
+Voir la reproduction.
+
+Haut.,54 cent.
+
+## AMEUBLEMENT DE SALON
+
+## et Ecran en Tapisserie
+
+## MEUBLES
+
+Il se compose d'un canape et de huit fauteuils. Les sieges sont ornes d'animaux et les dossiers de personnages. Sur le dossier du canape, le Jeu de colin-maillard,d'apres JeanBaptiste Huet. Les dossiers des sieges, tous varies, offrent des compositions galantes d'apres Fragonard, Baudouin, Lawrence, etc. : le Serment d'amour, la Fontaine d'amour, les Sabots, On y va a deux, etc. Milieu du xvin siecle. Bois modernes sculptes et peints gris.
+
+Voir la reproduction.
+
+Larg. du canape, 1 m.go. Larg. d'un fauteuil, 62 cent.
+
+175 — EcRAN en tapisserie de Bruxelles.
+
+La feuille est ornee de paysans dans la campagne, dansant aux sons d'une fute dont joue un paysan monte sur un ane. Bordure étroite a baguette enrubannee imitant un cadre. xvime siecle. Monture moderne en bois sculpte et peint gris.
+
+Haut., 86 cent.; larg., 65 cent.
+
+Voir la reproduction.
+176 —PETITE TABLE ovale en marqueterie.
+
+La ceinture, munie d'un tiroir, est ornee de quadrilles. Le dessus offre un bouquet de fleurs. Elle repose sur quatre pieds cambres reunis par une tablette ornee d'un trophee d'instruments de musique. Galerie de cuivre. Fin de I'époque
+
+Louis XV.
+
+Voir la reproduction.
+
+De forme rectangulaire, elle est ornee d'un carrelage
+
+Larg., 5o cent.
+
+losange et munie, sur la face, de deux tiroirs surmontes d'un tiroir simule et d'une tablette. Sur un cote, un tiroir formant écritoire; sur l'autre,une seconde tablette. Pieds gaines. Epoque Louis XVI.
+
+Voir la reproduction.
+
+<!-- image -->
+
+Grand diam., 48 cent.

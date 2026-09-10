@@ -1,0 +1,12 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_83798,45297,1,I,"l faut bien reconnaitre que, dans ces lignes tres etu-",49,99.0,False,none,,,,,
+BO0624_83798,45298,2,3,## COROT,90,100.0,False,title_direct,COROT,,,,
+BO0624_83798,45299,3,5,## DELACROIX,146,100.0,False,title_direct,DELACROIX,Scuola di De La Corix,,,
+BO0624_83798,45300,4,6,— Le Christ en croix.,202,94.7,False,positional,DELACROIX,,,,
+BO0624_83798,45301,5,8,## DIAZ,219,100.0,False,title_direct,DIAZ,,,,
+BO0624_83798,45302,6,I,NGRES,287,90.9,False,title_direct,INGRES,,,,
+BO0624_83798,45303,7,I,"ly a quelques annees, un poete écrivit sur un album, au sujet de ce tableau, ces quelques strophes demeurees inedites:",326,99.6,False,positional,MILLET,,,,
+BO0624_83798,45304,8,13,— La Petite gardeuse d'oies.,353,94.3,False,positional,MILLET,,,,
+BO0624_83798,45305,9,15,## PETITJEAN,364,100.0,False,title_direct,PETITJEAN,,,,
+BO0624_83798,45306,10,16,## RIBERA,374,100.0,False,title_direct,RIBERA,Scuola di J. Ribera,,,
+BO0624_83798,45307,11,18,Dans la foret.,400,89.7,False,positional,ROUSSEAU,,,,

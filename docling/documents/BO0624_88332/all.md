@@ -1,0 +1,1602 @@
+- 2
+- 9
+
+## Franz Adam
+
+geb. zu Mailand 1815, gest. 1886 zu Munchen.
+
+- I begangnis eines Soldaten.Im Vordergrund Wagen mit Verwundeten. Reiter,Pferde,Esel und lagernde Soldaten.Weiter zurick StraBe mit Wagen und Militar.
+
+Bezeichnet:Franz Adam. 01 auf Leinwand.62,5X 8g cm.Goldrahmen, Abbildung Tafel I.
+
+## Julius Adam
+
+geb. 1826 in Munchen, gest, 1914 daselbst.
+
+- Sorgsame Mutter. In einem Stadel Katzin mit ihren drei Jungen vor einer Milchschussel. Bezeichnet:Jul. Adam.
+
+## Fr.Amling
+
+- 01 auf Leinwand. 27,5 X 40 cm. Goldrahmen. Abbildung Tafel II.
+
+geb.1853 in Trier, gest. 1894 in SchleiBheim.
+
+- 3 Am Abend. Ein Liebespaar unter Baumen dahinschreitend.Zwischen den Baumen schimmert Abendluft.
+
+Bezeichnet: Fr. Amling 91. O1 auf Leinwand. 64 X 46 cm. Geschnitzter vergoldeter Rahmen.
+
+## Hermann Baisch
+
+geb. 1846 in Dresden, gest. 1894 in Karlsruhe.
+
+- Kuihe in hollandischer Dunenlandschaft. Links StraBe mit Baumen. Rechts Dunenweg zwischen Gras und Ginster.Darauf Kuhherde, Hirtin mit weiBem Bundel am Arm.
+
+Bezeichnet:Hermann Baisch 1891.
+
+Abbildung Tafel III.
+
+O1 auf Leinwand. 7I X 1oo cm. Goldrahmen.
+
+## Paul Baum
+
+lebt in Neustadt bei Marburg.
+
+- 5 Wald im Vorfrihling. Allach bei Munchen. Ol auf Leinwand. 59 X 43 cm.Goldrahmen. Bezeichnet:Paul Baum.
+
+- 6 Grinstedt bei Weimar. Im Vordergrund Bach in Auenlandschaft. Als Staffage Frau mit Kind. Bezeichnet:Paul Baum 1888. O1 auf Leinwand.63.5X46 cm.Goldrahmen.
+
+- Herbstlandschaft. Am Waldsaum entlang fuhrender Weg mit zwei schwarz gekleideten Spaziergangern. 7 Links Ausblick in die Ferne.
+
+- 01 auf Leinwand. 57,5 X 86 cm. Goldrahmen Bezeichnet:Paul Baum 1881. Abbildung Tafel XX.
+
+## Hans Best
+
+lebt in Munchen.
+
+- 8 Altbayerischer Bauer im Hut mit blauer Blume darauf und geblimter Weste mit silbernen Knopfen, Bezeichnet: Hans Best. Ol auf Holz. 23 X 17 cm. Unter Glas. Schwarzer Rahmen.
+
+## Eugen von Blaas
+
+geb. 1843 zu Albano bei Rom, lebte in Wien.
+
+- Madchenbildnis.  Junge Venetianerin mit gelbem geblumten Kopftuch. Bezeichnet: Eugen von Blaas 1887. Ol auf Holz. 32 X 24 cm.Goldrahmen, Abbildung Tafel V.
+## G.v.Bochmann
+
+geb.185o in Nesat (Estland), lebt in Dusseldorf.
+
+- Ruckkehr von der Schwemme. Alter Bauernknecht auf einem Pferd reitend mit noch zwei anderen
+
+Bezeichnet:G.Bochmann.
+
+O1 auf Holz.16 X 12 cm.Goldrahmen.
+
+- IO Pferden und einem Fullen.
+
+Abbildung Tafel V.
+
+geb. 1842 in Morges am Genfersee, lebte in Berlin.
+
+## Eugen Bracht
+
+- II An der ligurischen Kiste. Ruine bei Bordighera.
+- Bezeichnet:Eugen Bracht. 01 auf Leinwand. 117 X 96,5 cm. Goldrahmen.
+- Fernblick bei Baack an der Ruhr. Im Vordergrund Baumgruppen und Hugel. In der Ferne Wald, Hauser und groBe bewolkte Luft.
+
+Abbildung Tafel III.
+
+Bezeichnet:Eugen Bracht 1912.
+
+O1 auf Leinwand. 69 X go cm. Goldrahmen.
+
+- 13 Kastell bei Albenga an der ligurischen Kiste. Bezeichnet:Eugen Bracht. O1 auf Leinwand. 33 X 51 cm. Goldrahmen. Abbildung Tafel VI.
+
+## Emil Brack
+
+geb. 186o in Naumburg, gest. 1905 in Munchen.
+
+- I4 Annaherung. Ein Biedermeierherr und eine Dame auf einer Marmorbank. Der Herr versucht, das
+
+Bezeichnet:E.Brack.
+
+- Hundchen der Dame an sich zu locken.
+
+O1 auf Leinwand. 41,5 X 57 cm. Goldrahmen.
+
+## Anton Braith
+
+geb.1836 in Biberach,gest. 19o5 daselbst.
+
+- Muntere Gesellschaft. Nebeneinander trottende und hupfende Kalber. Hinterdrein Hirtin mit Herde.
+- I5 Bezeichnet:Anton Braith 18go,Munchen. Olauf Leinwand. 5o X78 cm.Goldrahmen. Abbildung Tafel IV.
+- 16 Siesta. Romische Landschaft in der Campagna zur Mittagszeit. Esel und Ziegen in der Sonne. Eselsreiter und Hirten am Boden schlafend. Bezeichnet: Anton Braith, Munchen 18go. O1 auf Leinwand. 5o X 8o cm. Goldrahmen. Abbildung Tafel IV.
+
+## H.Brandenburg
+
+geb. 1824 in Mulheim a.Rh., gest. 1go7 in Dusseldorf.
+
+- Eibsee. Der See mit seinen felsigen Ufern beschattet. Die Berghohen teilweise belichtet, teilweise
+- I7 von heranziehenden Wetterwolken umzogen.
+
+01 auf Leinwand. 73,5 X 98 cm. Goldrahmen.
+
+## Josef von Brandt
+
+- 18 Polnische Holzsage. Im Vordergrund Holzarbeiter beim Essen.Gutsherr mit Flinte und Jagdtasche, Pferd und Hund,im Gesprach mit den Leuten.
+- Bezeichnet:Brandenburg.
+
+geb. 1841 in Szebresyn, gest. 1916 in Munchen.
+
+Bezeichnet:Josef Brandt Warszawy Monachium. O1 auf Leinwand. 36X73 cm. Goldrahmen. Abbildung Tafel I.
+
+## A.Bredow
+
+- I9 Schatzvergraber. Monche aus der Zeit des dreiBigjahrigen Krieges vergraben den Kirchenschatz im Klosterhof. Umgebung groBer offener Torbogen,im Hintergrund Klosterkirche. Nachtstimmung. Bezeichnet:A.Bredow. Ol auf Leinwand. 89 X 142,5 cm. Goldrahmen.
+
+## Heinrich Breling
+
+- 20 Im Grunen.  Grine Wiese am FluBchen. Junger Edelmann, die rechte Hand einer unterm Baume am Boden sitzenden jungen Edeldame bietend. Bezeichnet:H.Breling.
+
+geb. 1849 zu Burgdorf, lebt in Hannover.
+
+O1 auf Holz. 16X 2I cm. Goldrahmen.
+- 2I
+- Wandernde Musikanten. Zwei alte Musikanten und ein auf der Pfeife spielender Knabe, vor Zechern im Kostum des 17. Jahrhunderts, die vor dem Wirtshaus um ein FaB sitzen. Auf dem Wirtsschilde bezeichnet:H. Breling. O1 auf Holz. 29 X 45.5 cm. Goldrahmen. Abbildung Tafel XxxVI.
+- Der Spion. Lager aus der Zeit des DreiBigjahrigen Krieges. Im Vordergrund Reiter und ein Kapuziner, 22 ein alterer und ein jungerer Mann. Ein Obrist am Tisch bei zechender Gesellschaft spricht mit ihnen. Auf der linken Seite im Hintergrund Soldaten bei einer Marketenderin.
+
+Bezeichnet:H.Breling 1889. Ol auf Holz. 53 X74 cm.Goldrahmen. Abbildung Tafel XXII.
+
+## A.Brendel
+
+geb.1827 in Berlin, gest. 1895 in Weimar.
+
+- 23 Blick in einen Hof. In einem Winkel hangt Wasche. An der Hausmauer lehnt allerhand Geschirre
+- und Topfe. Ol auf Leinwand. 39,5 X 47,5 cm. Goldrahmen.
+
+## Wilhelm Brocker
+
+geb.1848 in Berlin, lebt in Dresden.
+
+- Gebirgslandschaft. Tal mit stark bewolkter Luft und Nebel um die Berge. Im Vordergrund auf einem 24 Felsen sitzend ein Adler, ein anderer kreist in der Luft. Bezeichnet:Wilh.Brocker 1895. Ol auf Leinwand. 27,5 X 35.5 cm. Goldrahmen.
+
+## Karl Buchholz
+
+geb. 1849 in SchloBwippach bei Weimar.
+
+- 25 Bezeichnet:K.Buchholz Ober-Weimar 85. Abbildung Tafel X.
+
+## G.Cairati
+
+lebt in Munchen.
+
+- Madonna mit erhobenem Gesicht und Handen im flehenden Gebet. Der Kopf
+- 26 Mater afflictorium. umgeben von einer Gloriole. Auf silbernem Grunde M.A.
+
+Bezeichnet:G.Cairati,Munchen.
+
+O1 auf Leinwand. 59,5 X 41,5 cm. Gold und teilweise versilberter Rahmen, Abbildung Tafel XVI.
+
+- Cum infula virgo. Heilige im schwarzen Schleier und weiBen Stirnband. Profilkopf auf einer goldenen Gloriole und besterntem grunblauen Grund. Vom Kiinstler bemalter Holzrahmen unter Glas mit der
+
+Bezeichnet:G.Cairati 1896.
+
+Ol auf Holz. 24 X 21,5 cm. Unter Glas. Goldrahmen.
+
+## A.Chevalier
+
+geb.1831 in Crossen, lebte in Berlin..
+
+- 28 Winterlandschaft.Rechts beschneites Haus. Links im Hintergrund Ortschaft.Im Vordergrund Schlittenfahrer und Schlittschuhlaufer auf dem Eis. Ol auf Leinwand. 35 X 50,5 cm. Goldrahmen. Bezeichnet:A. Chevalier.
+- 29 Sommerlandschaft. FluB. Links Bauernhaus unter Baumen. Rechts Baumgruppe, darunter ruhender Hirte.Kihe im Wasser und am Ufer.
+
+Bezeichnet:A. Chevalier.
+
+Ol auf Leinwand. 34 X 50 cm. Goldrahmen.
+
+## L.Th.Chouland
+
+geb. 1827 in Dresden, gest.in Dresden.
+
+- 30 Die Engelsburg in Rom. Im Vordergrund Tiber mit Schiffern;rechts und links Hauser. Bezeichnet:Chouland. O1 auf Leinwand. 42 X58 cm. Goldrahmen.
+
+## E.T. Compton
+
+geb. 1849 in London, lebt in Feldafing.
+
+- 31 Bezeichnet: E.T. Compton. Ol auf Leinwand.35X54cm.
+- 27 Inschrift: Cum infula virgo.
+- Goldrahmen.
+- 33
+
+## Albert Conrad
+
+geb.1817 in Torgau, gest. 1887 in Berlin.
+
+- Cellospieler. In altertimlicher Stube unter hohem Fenster am Notenpult sitzender alter Cellospieler. 32 Bezeichnet:Albert Conrad. O1 auf Leinwand. 69,5X58 cm.Goldrahmen.
+
+## 1.De Coster
+
+- Bezeichnet:J. de Coster. O1 auf Holz. 30,5 X 19,5 cm.Goldrahmen.
+- Marine. Segelschiff mit eingezogenen weiBen Segeln im blauen Meer. Im Hintergrund Kuiste und Stadt. 34 Bezeichnet:J. de Coster. Ol auf Holz.19,5 X32 cm.Goldrahmen.
+
+## Hugo Darnaut
+
+geb. 1851 in Dessau,lebt in Wien.
+
+- 35 Abend am Weiher. Am Ufer Baume und bluihende Straucher. Bewolkte Abendluft. Bezeichnet:H.Darnaut 1896. Ol auf Leinwand.78,5 X 112 cm. Goldrahmen.
+- 36
+- Weiden am Bach. Dahinter Zaun und Weg den Bach entlang.
+- Bezeichnet: Hugo Darnaut. 01 auf Leinwand. 39,5X32,5 cm. Goldrahmen.
+
+## Franz von Defregger
+
+geb. 1835 zu Dolsach in Tirol, lebt in Munchen.
+
+- Madchenbildnis. Rothaariges Bauernmadchen im braunen Kleide.
+
+Abbildung Tafel VIII.
+
+- 37 Bezeichnet:Defregger 1908. O1 auf Leinwand. 35 X27,5 cm. Schwarzer Rahmen.
+- BegriBung. Vor einem Bauernhaus im Pustertal Tiroler Familie, die eine eben ankommende junge
+- Bezeichnet:F. Defregger 1891.
+
+01 auf Holz. 76 X59 cm. Goldrahmen.
+
+- 38 Bauerin als Gast begriBt. Dariber hinaus Ausblick auf die Berglandschaft.
+
+Abbildung Tafel VII.
+
+geb. 1823 in Segeberg. gest. 1g06 in Homburg. (Schiler von Trojon).
+
+## M.Delfs
+
+- Viehherde in sommerlicher Landschaft. Im Vordergrund Schafe und Rinder. Weiter zurick higeliges
+
+Bezeichnet:M.Delfs 63. Abbildung Tafel XI.
+
+- 39 Gelande mit Ausblick auf ein FluBtal.
+
+Ol auf Leinwand. 108 X 135 cm. Goldrahmen.
+
+## Wilhelm von Diez
+
+- 40 General Ney. Der General zu Pferd mit einer Landkarte in der Hand. Vor ihm ein Bauer, der ihm den Weg zeigt. Zu Pferd dahinter sein Diener.
+
+Abbildung Tafel IX.
+
+geb. 1839 in Bayreuth, gest. 19o7 in Munchen.
+
+Bezeichnet: Wilh.v.Diez 1896.
+
+O1 auf Holz. 23 X 17.5 cm. Goldrahmen.
+
+## Eugen Ducker
+
+- Strand von Rugen. Im Vordergrund an steil ansteigender Kuste ein Fischer mit Frauen. Im MittelBezeichnet:E.Ducker. Ol auf Leinwand. 73X58,5 cm.Goldrahmen.
+
+## 1.Dunte
+
+- Norwegisches Fjord. Im Vordergrund Angelfischer auf einem Felsen,rechts davon Schiffhitten. Im Hintergrund von der Sonne beschienene schneebedeckte Berge. Bezeichnet:J. Duntze 1870.
+
+geb. 1841 zu Arensberg, gest. 1916 in Dusseldorf.
+
+Abbildung Tafel X.
+
+geb. 1823 in Rablinghausen bei Bremen, gest:1895 in Dusseldorf.
+
+O1 auf Leinwand. 36 X 45,5 cm. Goldrahmen.
+
+- 4I
+- 42
+
+Abbildung Tafel XVII.
+- 45
+- 48
+
+Bezeichnet: Franz Ad.Fischer.
+
+## 1. Ekenaes
+
+geb. 1847 in Christiania, lebte in Munchen.
+
+- 43Norwegische Kiche. Norwegerin am Herdfeuer, iber dem der Teekessel hangt. Interieurbild Bezeichnet: J. Ekenaes. Ol auf Leinwand. 43,5 X32 cm.Goldrahmen. Abbildung Tafel XVI.
+
+## Hugo Engel
+
+geb. 1852 in Lienz i. Tirol, lebt in Munchen.
+
+- Ol auf Hoiz. 70 X 58 cm. Versilberter Rahmen.
+- 44 Heimgarten. Bezeichnet:H.Engel 1898. Jagerbursch in der Sennhitte im Gesprach mit zwei Dirndln. Abbildung Tafel XIII.
+
+## J.A. Engelhart
+
+geb. 18o1 in Nurnberg, gest. 1858 daselbst.
+
+- Korbmacher. Korbmacher bei der Arbeit. Eine junge Frau daneben, die einen Korb zum Flicken bringt. Ein paar Kinder spielen mit Katzen. Am offenen Fenster zwei alte Leute. Durch die geIm Stubengebalk an der Decke bezeichnet: J. A. Engelhart pinx. Nurnberg 1835.
+
+Abbildung Tafel XVIII.
+
+## Th.Ethofer
+
+lebte in Salzburg.
+
+- 46 Kopf und Brustbild eines jungen romischen Mannes in dunkelblauem Rock, weiBem Hemd und roter
+- Weste. 01 auf Leinwand. 48 X 38,5 cm. Goldrahmen.
+
+Bezeichnet:T.Ethofer 1871.
+
+## Louis Eysen
+
+geb. 1843 in Manchester, gest. 1899 in Munchen.
+
+- 47 Siesta. Blonde Dame am Fenster auf dem Sofa liegend, ein Buch in der Hand. 01 auf Leinwand. 5o X70 cm.
+
+## Arthur Fendel
+
+- Blick bei Nacht von Katwyk nach Scheveningen. Im Vordergrund Segelschiffe mit Lichtern und Schiffersleuten am Strand. O1 auf Leinwand. 48 X 66 cm. Goldrahmen. Bezeichnet:Arthur Fendel, Katwyk.
+
+## August Fink
+
+geb. 1846 in Munchen, gest. 1916 daselbst.
+
+- 49 Bezeichnet:A.Fink. 01 auf Leinwand.72X 104 cm. Goldrahmen.
+
+Abbildung Tafel XV.
+
+- Bezeichnet:Eysen 95. Abbildung Tafel XII.
+
+## Franz Adolf Fischer-Gurig
+
+geb.186o in Ober-Gurig,lebt in Dresden.
+
+- 50 Hinterm Muhlenrad. In einem feuchten Grund am Bach Muhlenrad und Muhle. Rechts Pappelbaume mit aufgehendem Mond. 01 auf Leinwand.78 X57 cm. Schwarzer Rahmen.
+- Fischer im Kahn,Netze flickend.Rechts hinaus Blick
+- Bezeichnet:Adolf Fischer-Gurig.
+- 51 Fischer und Fischerhitte am Ammersee. auf den See. Bezeichnet:Franz Adolf Fischer. Ol auf Leinwand.71X 88,5 cm. Goldrahmen.
+- 52
+- Dorfgasse in Trafoi. Mit Schindeln gedeckte Hauser und Holzhitten. Im Vordergrund im Gruinen Huhner. Ol auf Leinwand.65 X56,5 cm.Goldrahmen.
+- Goldrahmen.
+- 57
+
+Bezeichnet:Friedr.Friedlander. O1 auf Leinwand.47,5 X 6o cm.Goldrahmen.
+
+## R.Foederreuther
+
+geb. in Martin-Lamitz, gest. in Dresden.
+
+- 53 Landschaft.Waldwiese. Rechts Tannholz,links Wiese. Weiter zurick bewaldete Hohen. Bezeichnet:R.Foederreuther 1891. Ol auf Leinwand.45 X56,5 cm.Goldrahmen.
+- 54 Mondaufgang. Winterlandschaft. Zwischen Busch und Wald vereister Bach. Aus tribem Gewolk steigt der Mond auf.
+
+O1 auf Leinwand. 33 X 25.5 cm. Schwarzer Rahmen.
+
+## Ernst Freiesleben
+
+lebt in Weimar.
+
+- 55 Die beschadigte Uhr. Knabe auf einer bunt bemalten Truhe stehend, sieht erschrocken auf die am Boden liegende und beschadigte Wanduhr.
+
+Bezeichnet:E.Freiesleben,Weimar 81.
+
+O1 auf Leinwand. 70,5 X 40,5 cm. Goldrahmen.
+
+- 56 Uberraschung. Zwei Madchen im Walde stehen iberrascht vor einem auf einem Felsen sitzenden Eichhornchen.
+
+Bezeichnet:E. Freiesleben, Weimar.
+
+Abbildung Tafel XIV.
+
+O1 auf Leinwand. 94 X72 cm. Goldrahmen.
+
+## Friedrich Friedlander
+
+geb. 1825 in Kohljanowitz in Bohmen,gest. 1go1 in Wien.
+
+- Bei der Arbeit.Oberosterreichische Bauerin mit weiBer Haube am Herd sitzend und Kartoffel schalend. Vor ihr ein FaB mit irdenem weiBen Krug, Schusseln und Wage. Am Boden Gemuise.
+
+Abbildung Tafel XIX.
+
+- 58 Stillvergnigt. Oberosterreichischer Bauer,am Tisch stehend,beide Hande in den Hosentaschen. Hinter ihm mit Flaschen, Glasern und Brot besetzter Tisch. Vor ihm ein Spitzhund. In der Fensternische roter Schirm und Hut.
+
+Abbildung Tafel XIX.
+
+Bezeichnet:Fried.Friedlander.
+
+Bezeichnet:Harald Friedrich.
+
+O1 auf Leinwand. 61,5 X 47,5 cm. Goldrahmen.
+
+## Harald Friedrich
+
+lebt in Hannover.
+
+- Nahendes Madchen. Am offenen Fenster mit Ausblick in den Garten sitzt auf einer altertumlichen Truhe und Bank ein Madchen im blauen Kleid,mit Naharbeit beschaftigt.
+
+Abbildung Tafel XVII.
+
+Bezeichnet:E.F.
+
+01 auf Leinwand. 77 X 50,5 cm. Goldrahmen.
+
+## Ernestine Friedrichsen
+
+geb. 1824 in Danzig, gest. 1892 daselbst.
+
+- 60 AusgestoBen. Judische Auswanderer. Im Vordergrund alterer Mann im roten Bart und Tochter mit ihren wenigen Habseligkeiten.
+
+Ol auf Leinwand. 108,5 X 73 cm. Goldrahmen.
+
+## Alois Gabl
+
+geb. 1845 zu Wiesen, gest.1893 in Munchen.
+
+O1 auf Leinwand. 106 X 82 cm. Goldrahmen.
+
+## Max Gaiser
+
+lebt in Munchen.
+
+- 62 Der Spion. Ein Kapuziner von einem Kriegsknecht auf den Knien niedergehalten vor einem schwedischen Oberst. Um den Tisch der Kriegsrat. Weiterhin Soldaten, die in der gewolbten Halle zechen.
+
+Abbildung Tafel XXI1.
+
+- 61 Schafkopfspiel. Um einen Tisch sitzen ein alterer und ein junger Gebirgsbauer,letzterer in roter Jacke, gegeniber zwei Dirndl mit Karten.
+
+Abbildung Tafel XXI.
+
+Bezeichnet:A. Gabel.
+
+Bezeichnet:M. Gaiser.
+
+Bezeichnet:R.Foederreuther.
+
+- 59
+
+Ol auf Holz. 51 X 71,5 cm. Goldrahmen.
+- 66
+- 68 Am Ufer Birken.Bewolkte Luft.
+
+Bezeichnet:H. Gattiker 88.
+
+## H. Gattiker
+
+lebt in Dresden.
+
+- 63 Gauernitzer Insel. Im Vordergrund dinenartiges Land. Links Kanal mit Segelboot. In der Ferne Hauser und Windmihle.
+
+O1 auf Leinwand. 54.5 X 81,5 cm. Goldrahmen.
+
+## Otto Goebel
+
+- Wald im Vorfruhling.  Staffage:Holzleserin mit rotem Kopftuch.
+- 64 Bezeichnet:Goebel. Ol auf Leinwand.25 X 17 cm.Schwarzer Rahmen.
+
+## Eduard von Grikner
+
+geb. 1846 in GroBkarlowitz,lebt in Munchen.
+
+- 65 Klosterbruder am Tisch, ein gefultes Bierglas in beiden Handen haltend und damit liebaugelnd.
+- Bezeichnet:E. Gritzner 95. Ol auf Holz. 33 X 25 cm. Goldrahmen.
+
+Abbildung Tafel IX.
+
+## C.A.Gugel
+
+geb. 182o in Bergzabern, gest.1885 in Minchen.
+
+- Madchen mit aufgelosten Haaren und entbloBter Schulter, das Hemd mit der linken Hand iber die Brust haltend.
+
+Bezeichnet:C. Gugel, Munchen 1861.
+
+O1 auf Leinwand. 61 X 49 cm. Goldrahmen.
+
+## Josef Hahn
+
+geb.1839 in Munchen, gest. daselbst.
+
+- 67 Herbstabend bei Dachau. Im Vordergrund Baume mit gelbem Laub, Haus und Wegkapelle. Jager mit Hund und Holzfrau. Bezeichnet:J. Hahn. O1 auf Leinwand.44 X 36 cm. Goldrahmen.
+
+## M.Hartwig
+
+lebt in Munchen.
+
+- Bezeichnet: M.Hartwig. Ol auf Pappe. 31,5 X 48,5 cm. Goldrahmen.
+
+## M.Haubtmann
+
+geb. 1843 in Prag.
+
+- 69 Grimmelsee. Einsamer See zwischen Felsen, Nebel und Hochgebirge. Bezeichnet: M.Haubtmann. 01 auf Leinwand. 70,5 X 46,5 cm. Goldrahmen.
+
+## R.Hausleithner
+
+geb. 184o in Mannsworth, lebte in Wien.
+
+- 70 Moderne Eva. Dame im roten Sonnenschirm mit Hund zur Seite,im Garten an verbotener Stelle einen Apfel vom Baumchen brechend. Ol auf Holz. 57.5 X 35 cm. Goldrahmen. Bezeichnet:R.Hausleithner.
+
+## G.Hausmann
+
+geb. 1827 in Barbis a.Harz, lebte in Hannover.
+
+- 7I Konigsee. Der ruckwartige Teil, der wie mit einem Felsriegel abgesperrt erscheint. Dariber hinaus Blick auf beschneite Berggruppe.
+
+Bezeichnet:G.Hausmann 1879.
+
+01 auf Leinwand. 74 X 97.5 cm. Goldrahmen.
+## Karl Heilmayer
+
+geb. 1829 in Munchen, gest. daselbst.
+
+- Bergsee. Im Vordergrund See. Rechts Baumgruppen. Im Hintergrund Schneeberge und Gebirgs72 ort von der den Nebel durchbrechenden Sonne beschienen.
+- Bezeichnet:K.Heilmayer 1869. O1 auf Leinwand.51 X 82 cm.Goldrahmen.
+
+## Carl Heinisch
+
+geb. 1847 in Neustorf,lebte in Munchen.
+
+- 73 Herbst. Am Weg Schafer mit Schafen bei Kindern, die am Feuer Kartoffeln braten. Weg heimkehrender Bauernwagen und Frau. Links Hauser,rechts Blick auf einen See. Bezeichnet:C.Heinisch,Munchen 86. Ol auf Leinwand.27X43 cm.
+
+## Hermann Hendrich
+
+geb. 1856 in Heringen, lebt in Berlin.
+
+- Lied der Sehnsucht. Auf steilem Felsen in einsamer Landschaft am Meer blast ein Hirte auf der 74 Schalmei. Abendstimmung. Bezeichnet:H.H.1894. O1 auf Leinwand.64X92 cm.Goldrahmen.
+- Der Friedensbote. Der Friedensengel mit der Palme naht einem armseligen Hauschen am FluB unter 75 Weiden,worin Licht schimmert. Landschaft und Umgebung in Abendstimmung. Bezeichnet:H.Hendrich.
+- Am Meer.Griner Strand mit Waldbaumen. Gewitterstimmung.
+- 76 Bezeichnet:H.H.1894. O1 auf Leinwand.47 X39,5 cm. Goldrahmen.
+- Nixe. Blumenpflickendes Madchen sieht im Grunde einer Quelle eine Wassernixe.
+- 77 Bezeichnet:H.Hendrich 1895. O1auf Leinwand.72X52cm. Goldrahmen.
+- Nymphe. In von Felsen eingeschlossener kleiner Meeresbucht sitzt eine Nymphe mit Schmetterlingen
+- 78 auf der Hand. Am Wasser bluihen feuerrote Blumen. Bezeichnet:H.H. 01 auf Leinwand. 5o X 63 cm. Goldrahmen.
+- 79 Echo. Landschaft. Zwischen Felsen in Abendstimmung eine Frauengestalt, die in die Ferne ruft.
+- Bezeichnet:H.Hendrich. Olauf Leinwand. 43X63 cm.Goldrahmen.
+- 80 Am Meeresstrand.Felsiger Meeresstrand mit badenden Frauen. Bezeichnet:Herm. Hendrich 91. Ol auf Leinwand. Ioo X 15o cm. Mit Muscheln,Algen und Seesternen verzierter und
+- 81 Norwegische Sennhutte bei flammendem Abendhimmel. Mann mit roter Mitze als Staffage.
+- bronzierter Holzrahmen.
+- Bezeichnet:H.H. 01 auf Leinwand. 475 X 69 cm.Goldrahmen.
+
+## Adolf Hengeler
+
+lebt in Munchen.
+
+- 82 Das Lied. Auf grunem Rasen sitzender blumenbekranzter Faun auf einer Flote blasend.
+- Bezeichnet: A. Hengeler 03. 01 auf Holz. 375 X32 cm. Schwarzer Rahmen. Abbildung Tafel XXIII.
+- 83 Die kleine Gratulantin. Kleines blondes Madchen in hellem Kleide mit einem Nelkenstock in Handen vor einer Laube. Bezeichnet:A. Hengeler 1908. Ol auf Holz. 41 X 35 cm. Schwarzer Rahmen. Abbildung Tafel XXIII.
+- 84 Idylle. Mann mit Federhut und weiBem Rock am Waldsaum auf der Flote spielend. Dabei ein Hund Bezeichnet:A.Hengeler 1902. Ol auf Holz. 34 X 43 cm. Schwarzer Rahmen.
+
+## R.A.Hesse
+
+- Bezeichnet:Rich.Hesse. Ol auf Leinwand. 67 X 54,5 cm. Goldrahmen.
+- Abbildung Tafel XXIV.
+- 85 Nach dem Spiel. Junges blondes Madchen im Stuhl sitzend. Das Kinn auf den Arm gestutzt. In der rechten Hand einen Tennisschlager.
+- Auf dem Goldrahmen.
+- 87
+
+## Franz Hochmann
+
+lebt in Berlin.
+
+- Fruhlingslandschaft. FluBauen. Auf der Wiese und am Wasser Schweineherde. Zwei Huterjungen 86 dabei.Rechts Blick auf das andere Ufer. Dahinter Ortschaft. Bezeichnet:Fr. Hochmann/Karlsruhe. O1 auf Leinwand. 10o X 17o cm.Goldrahmen.
+- Abbildung.Tafel XV.
+- Abend. Melker mit Kuihen unter Weiden am Brunnen. Neben dem Brunnentrog ein liegendes Schwein. Landschaft in Abendstimmung. Ol auf Leinwand. 38 X 54 cm. Goldrahmen. Bezeichnet:Franz Hochmann, Berlin. Abbildung Tafel XxV.
+
+## August Hoerter
+
+geb. 1836 in Elberfeld, lebte in Karlsruhe.
+
+- 88 Sommerlandschaft. Im Vordergrund aus dem Wald herausschaumender Bach. Auf dem Weg ein in der Sonne wandelndes Bauernmadchen.Dahinter reifes Kornfeld. Bezeichnet:A.H.1894. O1 auf Leinwand. 35 X5o cm. Goldrahmen.
+
+## 1.B. Hofner
+
+geb. in Aresing 1832, gest.in Munchen.
+
+- 89 Sommer. Zwischen Hugeln liegender Wassertumpel mit badenden Jungen, am Ufer Rinder. Am Hugel im Getreidefeld Schnitter. 01 auf Leinwand. 37 X 58,5 cm. Goldrahmen. Bezeichnet:Hofner 1855. Abbildung Tafel XVIII.
+
+## M.Hunten
+
+lebt in Dusseldorf.
+
+- Rominten. Birkenwald mit Nadelholz gemischt. Im Vordergrund asender Hirsch, Zwolfender. Weiter
+
+O1 auf Leinwand. 63 X 79 cm.Goldrahmen.
+
+## J.F.Jllem
+
+geb.1865 in Pilsen, lebt in Wien.
+
+- Winterlandschaft. Beschneiter Wald. Aufgehender Mond. In der Waldlichtung ein Hirsch. 91
+- Bezeichnet:J. F. Illem. Ol auf Leinwand. 69 X 1o6 cm.Goldrahmen.
+- Spatherbst.Waldweg,Birken und Unterholz in herbstlichen Farben. Auf dem Weg eine Bauerin 92 und ein Madchen. 01 auf Leinwand. 58 X 74,5 cm. Goldrahmen. Bezeichnet:Illem.
+
+## D.srael
+
+lebte in Minchen.
+
+- 93 Orientalisches Bad. Eine ins Bad steigende Odaliske und Dienerin, die ihr den Mantel abnimmt. O1 auf Holz. 17 X 10,5 cm. Goldrahmen. Bezeichnet:D. Israel, Munchen.
+
+## Hugo Kauffmann
+
+geb. 1844 in Hamburg, gest.1916 in Munchen.
+
+- Die Angler. Auf einem Brettersteg am See die Dorfjugend mit Angeln beschaftigt. Ein kleiner Knirps
+- Ol auf Holz. 16 X 12,5 cm. Goldrahmen.
+- 94 hat einen Fisch gefangen.Weiter zurick Dorf, dahinter Berge. Bezeichnet:Hugo Kauffmann I902. Abbildung Tafel XxVI.
+- Goldrahmen.
+- 95 Gute Nachrichten.Bauernmadchen am Fenster einen Brief lesend. Bezeichnet:Hugo Kauffmann 96. Ol auf Holz.25 X 13,5 cm. Abbildung Tafel V.
+
+2
+
+- 90 zurick Hirschkuh und junge Hirsche. Bezeichnet:M.Hunten.
+
+Abbildung Tafel Xx.
+Bezeichnet:Albert Keller 1897.
+
+## Albert von Keller
+
+lebt in Munchen.
+
+- 96 Dame mit Spiegel und Puderquaste in der Hand.
+
+O1 auf Holz. 20,5 X 10,5 cm. Schwarzer Rahmen.
+
+Abbildung Tafel XxVI.
+
+## P.Keller-Reutlingen
+
+lebt in Furstenfeldbruck bei Munchen.
+
+- Haus unter Birken und Gewitterhimmel. Am Wasser im letzten Schein der Abendsonne Gansehirtin
+
+Bezeichnet:P. W.Keller-Reutlingen. Abbildung Tafel XVIII.
+
+Ol auf Leinwand. 33 X 54 cm. Goldrahmen.
+
+## Emil Kirchner
+
+geb. 1813 in Leipzig, gest. 1885 in Munchen.
+
+- 98 Motiv aus Brescia.Am FluB Kirche und Muhle.Daruber altes Kastell und Hauser. Rechts im Vordergrund Hirte mit Schafherde.
+
+Abbildung Tafel XxVII.
+
+Bezeichnet links: Brescia nella Lombardia im Oktober. Rechts bezeichnet:Emil Kirchner, Munchen 1879. Ol auf Holz. 57 X 88 cm. Goldrahmen.
+
+## Philipp Klein
+
+geb.1871 in Mannheim, gest.1go7 in Minchen.
+
+- Der Lackschuh. Blonde Dame in hellem Interieur bei der Toilette, einen schwarzen Lackschuh an-
+
+Bezeichnet:Philipp Klein 05. O1 auf Leinwand. 95 X78 cm.Versilberter Rahmen. Abbildung Tafel XxVIII.
+
+- 99 ziehend.
+- Chrysanthemen. StrauB gelber Chrysanthemen in blauer Vase. Teller mit gelben Apfeln, daneben
+
+Abbildung Tafel XxVIII.
+
+- 1OO auBerdem Teebichse, Kanne und Medaillon am schwarzen Band. Bezeichnet: Philipp Klein 05.
+
+01 auf Leinwand. 95 X 78,5 cm. Goldrahmen.
+
+## L. Klengel
+
+geb. 1751 in Kesselsdorf, gest. 1824 in Dresden.
+
+- IOI Italienische Landschaft. Im Vordergrund Steinbricke an einem FluB, darauf Hirte und Herde.Im Mittelgrund Baume und Felsgruppen. Im Hintergrund auf dem Hugel altes Kloster. Aussicht in blaue Ferne.
+- I02
+
+Bezeichnet:Klengel.
+
+- Gelande. Baume und blaue Ferne. Bezeichnet:Klengel.
+
+01 auf Holz.19 X 26 cm. Goldrahmen.
+
+O1 auf Holz. 19 X 26 cm. Goldrahmen.
+
+geb. 1856 in Dresden, gest.in Muinchen.
+
+- Bezeichnet:Hugo Konig
+
+## Hugo Konig
+
+- I03 Heimkehr vom Felde. Alter Mann im blauen Schafermantel und schwarzem Hut halt sich, auf einen Stock gestitzt an einem Baumchen und ruht.
+- I04 Astern. Vorgarten vor einem landlichen Haus mit bluhenden Astern. Madchen bei den Blumen Bezeichnet:Hugo Konig. Ol auf Leinwand. 70 X 55 cm. Goldrahmen.
+
+Ol auf Leinwand. 71,5 X 6o,5 cm.( Goldrahmen.
+
+- 97 mit Herde.
+## Juliusz Kossack
+
+geb. 1824 in Wisznicz, lebte in Krakau.
+
+- Heimkehr vom Markt. Auf baumbestandener StraBe Fuhrwerke. An einem ist die Achse gebrochen.
+- 105 Vom Markte heimkehrende Madjaren stehen helfend und beratend dabei. Daneben ein Koppel Pferde. Bezeichnet: Juliusz Kossack 1873. Ol auf Leinwand.59 X1o6 cm.Goldrahmen. Abbildung Tafel XxVII.
+
+## A. Wierusz von Kowalski
+
+geb. 1849 in Suwaiki, gest.1915 in Munchen.
+
+- 106 Schnelles Tempo. In einem zweispannigen Schlitten polnische Bauernmadchen, dahinter ein weiteres Gefahrt.
+- 107 Ein Uberfall. Ein im beschneiten Walde von Wolfen iberfallenes Dreigespann. Bezeichnet:A. Wierusz Kowalski. O1 auf Leinwand.33,5X54,5 cm. Goldrahmen. Abbildung Tafel XXIX.
+
+Bezeichnet:A. Wierusz Kowalski.
+
+01 auf Leinwand. 36,5X51,5 cm.Goldrahmen.
+
+Abbildung Tafel XXIX.
+
+## Erich Kubierschky
+
+geb. 1854 in Frankenstein, lebt in Munchen.
+
+- 108 Fruhling in den FluBauen. Im Vordergrund ein Holzsteg iber das FluBchen. Holzleser am Ufer. Im Hintergrund Hauser.
+
+## L.Kramer
+
+- Orangegelbe und weinrotliche Blumen in vergoldeter Vase vor grinem Sammethintergrund. Bezeichnet:L.Kramer. O1 auf Leinwand. 6o X 35 cm. Goldrahmen.
+
+## Carl Kronberger
+
+geb.1841 in Freystadt (Oberosterreich),lebt in Munchen.
+
+- IIO Hausherrnfreuden. Vor einem beschneiten Hauschen ein mit roter Mitze und blauer Schurze bekleideter Hausherr, mit einer Stange die herunterhangenden Eiszapfen von der Dachrinne entfernend.
+
+Bezeichnet:C. Kronberger.
+
+Abbildung Tafel Xxx.
+
+O1 auf Holz. 41 X 30 cm. Goldrahmen.
+
+Bezeichnet:E.Kubierschky 1891.
+
+Abbildung Tafel XXXI.
+
+- 109 Blumenstilleben.
+
+O1 auf Holz. 34 X 48 cm. Goldrahmen.
+
+## Carl Kruger
+
+geb. 1834 in Libbenau im Spreewald, gest. 188o in Gohlis bei Dresden.
+
+- III Kuhe, Enten am Wasser.
+
+Bezeichnet: Karl Kruger 77.
+
+O1 auf Leinwand. 41 X 8g cm.Goldrahmen.
+
+## Gotthard Kuehl
+
+geb. 1851 in Lubeck, lebte in Dresden.
+
+- II2 GroBmutter mit Kind. GroBmutter vor einem grinen Kachelofen, ein Buch im SchoB,vor ihr ein rothaariges Madchen. Am Boden Nahkorb mit spielender Katze. Oi auf Holz. 32 X 30,5 cm. Schwarzer Rahmen.
+
+Bezeichnet: G. Kuhl, Munchen 74.
+
+Abbildung Tafel XxxII.
+
+## Diedrich Langko
+
+geb. 1819 in Hamburg, lebte in Munchen.
+
+- groBerer Ort. Im Vordergrund Ackerland und ein mit Ochsen pflugender Bauer.
+
+Bezeichnet: O. Langko 18go, Munchen.
+
+Abbildung Tafel VI.
+
+Ol auf Leinwand. 33,5X64 cm. Goldrahmen.
+## Diedrich Langko und Braith
+
+- Sommerlandschaft. Besonnte Waldlichtung mit Rinderherde. Hirtin und Kind. Die Tiere sind von II4
+- Braith gemalt,die Landschaft von Langko.
+
+Bezeichnet: O.Langko, Munchen.
+
+O1 auf Leinwand. 35 X58 cm. Goldrahmen.
+
+Abbildung Tafel XxXI.
+
+## F.Leclair
+
+lebt in Paris.
+
+- 115 Der zerstreute Professor. Er tritt im Schlafrock und Nachtlicht in der Hand ins Zimmer einer auf ihrem Lager halb entbloBt ruhenden Schonen.
+
+## Karl Leipold
+
+geb. 1864 in Duisburg, lebt in Hamburg.
+
+- 116 Stadtmauer mit Bastion und Turm, zum Teil abgebrochen. Im Hintergrund Baume. Im Vordergrund Staffage zwei Manner im Gesprach.
+
+## F.de Lemo
+
+- II7 Hollandische Winterlandschaft.Im Vordergrund gefrorener Teich. Rechts beschneites Haus unter Baumen;Reiter davor.Links hinaus weitere Hauser und OrtsstraBe.
+
+Bezeichnet:F.de Lemo 1840. O1auf Leinwand.4o X61 cm.Goldrahmen.
+
+## W.Lichtenheld
+
+geb. 1817 in Hamburg, gest. 18g1 in Munchen.
+
+- 118 Mondnacht bei Kufstein. Vor der Feste Kufstein InnfluB mit Kahn und Schiffern. Im Hintergrund Stadt und Berge.
+
+O1 auf Leinwand. 41 X 66,5 cm.Goldrahmen.
+
+## Helmuth Liesegang
+
+lebt in Dusseldorf.
+
+- I19 Bezeichnet: H. Liesegang, Ddf. O1 auf Holz. 39,5 X 50 cm. Goldrahmen. Abbildung Tafel VI.
+
+## Richard Linderum
+
+geb.1851 in Dresden, lebt in Munchen.
+
+- I20 Der Komponist. Alter Monch in weiBer Kutte am Klavier. Vor ihm Schreibzeug und Notenblatter. Daruber Bucher.
+
+Bezeichnet: Rich.Linderum,Munch.89. Abbildung Tafel XVIII.
+
+## Carl Ludwig
+
+O1 auf Holz. 30 X 40 cm. Goldrahmen.
+
+geb. 1839 in Roemhild, gest. 1go1 in Berlin.
+
+- I2I Gebirgssee am AlpulapaB. Im Vordergrund See. Daruber aufsteigende Felswand und Bergspitzen. Bezeichnet: Carl Ludwig. Ol auf Leinwand. 95.5 X 81,5 cm. Goldrahmen.
+
+## E.Mahlknecht
+
+geb. 182o in Wien, lebte daselbst.
+
+- I22 Stier und Schafe am Wasser.Dahinter Hirte. Bezeichnet:E.Mahlknecht. Ol auf Leinwand. 28,5 X 34 cm. Goldrahmen.
+
+Bezeichnet:E.Mahlknecht.
+
+Ol auf Leinwand.28,5X35 cm. Goldrahmen.
+
+- I23 Kuhweide. Im Vordergrund eine gefleckte Kuh, daneben am Boden liegend ein Kalbchen. Weiter zuruck ein sitzender Hirte vom Rucken gesehen. Ausblick auf FluB und Berge.
+
+Bezeichnet:W.L.1881.
+
+O1auf Holz.21 X28,5 cm.Goldrahmen.
+
+Bezeichnet: F. Leclair,Paris.
+
+Bezeichnet:Leipold.
+
+Ol auf Holz. 26 X 39 cm.Goldrahmen.
+## G.Majer (genannt Schwabenmajer)
+
+geb.1847 in Bobingen, lebte in Munchen.
+
+- I24 Monch mit weiBer Kutte und mit blauem Schurz an einem FaB sitzend, ein Weinglas in der Rechten und dessen Inhalt prifend. Bezeichnet:G.Majer. 01 auf Leinwand. 34 X 23.5 cm. Goldrahmen.
+
+## Wilhelm Marc
+
+geb. 1839 in Landshut, lebte in Munchen.
+
+- 125 Alte Frau in der Kirche. Alte Frau im Kirchenstuhl,mit beiden Handen ein Buch haltend und darin lesend.Neben ihr gelbes Tuch und Rosenkranz. Bezeichnet:W.Marc. O1 auf Holz.14 X 1I cm.Schwarzer Rahmen.
+- 126 Firmung. Se. Eminenz der Bischof besucht eine kleine Gebirgsstadt. Er wird von weiBgekleideten Madchen, der Geistlichkeit,den Patres und Honoratioren empfangen.
+
+O1 auf Leinwand. 106 X 159,5 cm. Goldrahmen.
+
+## Vicente March
+
+geb. 1859 in Valencia, lebt in Rom.
+
+- Die Spinnerin.  Torwinkel in einem italienischen Ort. Auf der Gasse Italienerin mit Spinnrocken; I27 weiter zurick Wassertragerin, Alte und Kind.
+
+O1 auf Holz. 27,5 X 18,5 cm. Goldrahmen.
+
+## Gabriel von Max
+
+geb. 1840 in Prag, gest. 1915 in Munchen.
+
+- 128 Kopf eines jungen brunetten Madchens. Bezeichnet: G. Max.
+
+Abbildung Tafel VIII.
+
+## Ernst Meibner
+
+geb. 1837 in Dresden,lebte in Minchen.
+
+- Des Pfarrers Spitz. Ein weiBer Spitzhund treibt die heimkehrende Schafherde iber einen Zaun ins
+
+Bezeichnet:Ernst MeiBner, Munchen 1874.
+
+- 129 Holz. Huiterjunge mit Schreien und Hutschwingen hinterdrein.
+
+AbbildungTafel XV.
+
+- Ol auf Leinwand. 64 X 102 cm. Goldrahmen.
+
+## Max Merker
+
+geb. 1861 in Weimar.
+
+- 130 Fruihlingslandschaft. Uberschwemmte Auen.Weg,im Hintergrund Hauser und regnerischer Himmel. Bezeichnet:Merker 1893. Ol auf Leinwand. 34 X49 cm. Goldrahmen.
+
+## 1.Metzler
+
+- 131 Buchenwald. Besonnte Buchen im Waldgrund am Wasser. Bezeichnet: J.Metzler. O1 auf Leinwand. 42 X 65 cm. Schwarzer Rahmen.
+
+## M.Morgan
+
+- 132 Der KuB.  Junges Madchen auf Wolken wird von einem herzufliegenden Amor gekuBt.
+- Bezeichnet:M.Morgan 188o. Ol auf Holz. 23 X 33 cm. Goldrahmen.
+
+## Meno Muhlig
+
+geb.1823 in Eibenstock, gest.1873 in Dresden
+
+- Bergmann. Invalider Bergmann zeigt einem Alten und Kindern in einem vor ihnen aufgestelten
+
+Bezeichnet:M.Muhlig.
+
+Ol auf Leinwand. 39 X 32 cm. Goldrahmen.
+
+- 133 Kasten den Betrieb eines Bergwerks.
+
+O1 auf Leinwand. 33 X 25 cm. Goldrahmen.
+
+Bezeichnet: V.March,Roma.
+
+Bezeichnet: W.Marc,Munchen.
+
+Abbildung Tafel XVI.
+- I4I
+
+## Albert Muhlig
+
+lebt in Dresden.
+
+- Am Bach Huhner. Zwischen Weiden 134 Am Dorfbachlein.Wiesengrund mit bluhenden Blumen. und Baumen im Hintergrund weiBes Haus. Ol auf Leinwand. 65 X 45 cm. Goldrahmen. Bezeichnet:A.Muhlig.
+
+## Emma von Muller
+
+geb. 1868 in Innsbruck, lebt in Munchen.
+
+- Bauernmadchen mit blondem, iber der Stirn gescheiteltem Haar und Zopfen. Rot und weiBes
+- 135 Halstuch und grine Jacke. O1 auf Holz. 26,5 X 21,5 cm. Goldrahmen. Bezeichnet:E.v.Muller.
+- 136 Bauernmadchen mit kleinem schwarzen Hut, gelbseidenem Brusttuch und schwarzem Mieder. Frisches lachendes Gesicht, von vorn gesehen. 01 auf Holz. 21,5 X 15,5 cm. Goldrahmen. Bezeichnet:E. v.Muller.
+- 137 Bayerisches oberlandisches Bauerndirndl mit hohem schwarzen Filzhut, grunseidenem Halstuch und rotbraunem Mieder. Kopf im Profil. Bezeichnet: E.v. Muller. Ol auf Holz. 27 X 2I cm. Goldrahmen.
+- 138 Tiroler Madchen in dunkelblauvioletter Bluse, grunem Schurz und weiBem Halskragen vor einer Holztafelung sitzend. Rechter Arm und Hand im SchoB. Bezeichnet:E. v. Muller. Ol auf Holz. 25,5 X 17 cm. Goldrahmen.
+- 139
+- Blondes Madchen mit ihrer Puppe im Arm.
+- Bezeichnet:E.v.Muller. O1 auf Holz. 48 X 38,5 cm. Goldrahmen.
+
+## L.Munthe
+
+geb. 1841 in Aaren, gest. 1896 in Dusseldorf.
+
+- 140 Hollandische Landschaft in Abendstimmung bei Tauwetter. Beschneite Gracht mit Booten,Hollanderin am Weg, im Hintergrund Stadt.
+
+Abbildung Tafel XXXIIl.
+
+Bezeichnet: L. Munthe 93.
+
+O1 auf Leinwand. 66 X 47 cm. Goldrahmen.
+
+## S.Navejde
+
+lebt in Berlin.
+
+- Selbstbildnis. Profilkopf mit aufgebundenem schwarzen Haar und roter Schleife, iber die Schulter sehend. Bezeichnet: S. Navejde 1904. Ol auf Pappe. 41 X 31 cm. Goldrahmen.
+
+## Axel Nordgren
+
+geb.1828 in Stockholm,gest.1888 in Dusseldorf.
+
+- Fjord bei Mondbeleuchtung. Rechts im Hintergrund ein Ort. Links Meer mit ruhendem Segelboot. 01 auf Leinwand. 48,5 X 8o cm.Goldrahmen.
+- I42 Bezeichnet:A.Nordgren. Abbildung Tafel XXXIV.
+- I43
+- I44 Fruhlingsstimmung.
+- Norwegisches Fjord. Rechts Ufer mit grinem Talgrund und Hauser. Staffage Fischer am Boot und Netze. Weiter zuruck beschneite Berge. Links Meer und weiter hinaus Berge. Bezeichnet: A. Nordgren. Ol auf Leinwand. 72X 131 cm. Goldrahmen. Abbildung Tafel XXxIV.
+
+## Ernst Novak
+
+geb. 1853 in Troppau, lebt in Wien.
+
+- Nachbarkinder. Nachbarknabe iberm Zaun, junges blondes Madchen an beiden Handen festhaltend.
+
+Bezeichnet:Ernst Novak.
+
+Abbildung Tafel XVI.
+
+Ol auf Holz. 375 X 29,5 cm. Goldrahmen.
+## Georg Oeder
+
+geb. 1846 in Aachen, lebt in Dusseldorf.
+
+- Herbstlicher Birkenwald im Nebel, zum Teil sonnig beschienen. Im Vordergrund Reh. I45 Bezeichnet:G.Oeder. 0l auf Leinwand. 78 X 58,5 cm. Goldrahmen. Abbildung Tafel XxxIII.
+
+## E.Oehme
+
+geb. 1797 in Dresden, gest. 1855 daselbst.
+
+- 6Waldlandschaft. Im Vordergrund Bach, dariber Hang mit Fichten. Links hinaus Blick in Laubwald. 146 Bezeichnet:E.Oehme 18...,Dresden. O1 auf Leinwand.58 X 40 cm. Goldrahmen.
+
+## Hugo Oemichen
+
+geb. 1843 in Bordorf (bei Leipzig), lebte in Dusseldorf.
+
+- Elternlos. Zwei Waisen in landlichem Interieur. Madchen in schwabischer Tracht auf einer Bank I47 sitzend, ein Stick Brot in der Hand; vor ihr ein Bub, der aus einer Schussel loffelt. Bezeichnet:Hugo Oemichen. 01 auf Leinwand. 78 X 55 cm. Goldrahmen.
+
+Abbildung Tafel XIV.
+
+## August Pfister
+
+- 148 Bei Partenkirchen. Bezeichnet: A.Pfister. 01 auf Leinwand. 8o,5 X 55 cm. Goldrahmen.
+- 149 Am Dorfbrunnen. Bezeichnet:A. Pfister 92. Gebirgsdorf. Am Dorfbrunnen Magde und Frauen bei der Arbeit. Ol auf Leinwand. 55 X 70 cm. Goldrahmen.
+- 150 Gasse in einem Gebirgsdorf. Auf der Gasse Madchen mit Kind im Arm und ein spielendes daneben. Im Hintergrund die Berge. O1 auf Leinwand. 65 X 50 cm. Goldrahmen. Bezeichnet:A.Pfister.
+
+## Max Pitzner
+
+geb.1855 in Partenkirchen, lebte in Munchen.
+
+- Pferdehandel. Ein Knecht im blauen Fuhrmannshemd fuhrt einen Schimmel und einen Fuchsen vor. I51 Verkaufer und Handler stehen dabei.Weiter zurick Pferde und Marktbesucher. Bezeichnet: M. Pitzner,Munchen 1891. O1 auf Holz. 15 X 23 cm. Schwarzer Rahmen.
+
+## Paul Priem
+
+- I52 Markisches Dorf. Im Vordergrund Kartoffelleserinnen bei der Arbeit. Ol auf Leinwand. 45 X 88,5 cm. Goldrahmen. Bezeichnet: Paul Priem.
+
+## Fr.Prolo
+
+geb. 1855 in Dresden, lebt in Munchen.
+
+- 153 Oberbayerische Braut im vollen Schmuck, sich im Handspiegel betrachtend.
+- Ol auf Holz. 31,5 X 24 cm. Goldrahmen. Bezeichnet:Fr.ProlB 1900.
+
+## 1. C. B. Puttner
+
+- 154 Hollandischer Strand. Rechts Stadt am Wasser und Segelschiff. Links Wasser. Am Strand entlang lebhafter Verkehr.Fischer, Schiffer,Frauen und Kinder. Bezeichnet:J. C.B.Puttner 1874. Ol auf Leinwand. 42 X 68 cm. Goldrahmen.
+- 156
+- 168
+- nordische Vogel.
+
+O1auf Holz.16X13,5cm. Goldrahmen.
+
+## Heinrich Rasch
+
+geb. 184o in Norburg auf Alsen, lebte in Munchen.
+
+- 157 Landschaft. Im Vordergrund ein Garten mit Sonnenblumen, Rosen und jungen Obstbaumen. Im Gartenweg Kind mit Blumen. FluBchen im Grinen und weiter zurick Hauser. Bezeichnet:Coburg.Heinrich Rasch. O1 auf Holz. 26,5 X35 cm. Schwarzer Rahmen.
+- 158 8Venetianische Marine. Italienische Schiffer mit Segelschiffen. Im Hintergrund Venedig. Bezeichnet:Heinrich Rasch ——Venezia —Munchen.
+- O1 auf Leinwand. 41 X69 cm. Goldrahmen.
+
+## Karl Rettich
+
+geb. 1841 in Rosenhagen, gest. in Dresden.
+
+- 159 In den Scharen. Norwegisches Motiv. Auf den Felsen zwischen dem hereinflutenden Meer bunte
+
+Bezeichnet: K.Rettich,Mch.1892. 01 auf Leinwand. 45 X 76 cm. Goldrahmen.
+
+- 160 vogeln.Bewolkte Luft.
+- Abend an der norwegischen Kuiste. Im Vordergrund felsiges Ufer mit Resten eines Wracks und See-
+
+Bezeichnet:K.Rettich, Mchn.1892. 01 auf Leinwand. 40,5 X 6o cm. Goldrahmen.
+
+- 161 Nordische Sommernacht. Fjordartige Bucht mit Felsen und Moven darauf. Bezeichnet: K.Rettich,Munchen 1891. O1 auf Leinwand.28X46 cm.S Schwarzer Rahmen.
+- 162 Ostseestrand im Herbst. In der Duine Frauen im Sand und Kind. Links Blick auf das blaue Meer. Bezeichnet: K. Rettich,Munchen 1890. Ol auf Leinwand. 25 X 40 cm.Goldrahmen.
+- 164 Wendischer Katen. Interieur nur von einem Fenster beleuchtet. Rechts vom Fenster Herd. Im
+- 163 Frihlingsbluten auf Capri.Z Zwischen Felsen Ausblick aufs blaue Meer. Bliten am Weg und an einer Pergola.Im Vordergrund italienisches Madchen. Bezeichnet:K.Rettich,Munchen 1892. Ol auf Leinwand. 49 X 3I cm.Goldrahmen.
+- Vordergrund Madchen,Gemise zurichtend. Huhner dabei.
+
+Abbildung Tafel XVII.
+
+Bezeichnet:K.Rettich,Munchen. 01 auf Leinwand. 52X43 cm. Goldrahmen.
+
+- 165 Norwegischer Strand mit Trummern eines Schiffes. Stark bewolkte Luft mit durchbrechenden Sonnenstrahlen.
+- 166 Sommerlandschaft.Dorf unter Baumen.
+- Bezeichnet:K.Rettich,1884. O1 auf Leinwand. 1oo X 8o cm. Goldrahmen.
+- Im Vordergrund blumige Wiese mit Staffage. Bezeichnet:K.Rettich. Ol auf Leinwand. 31 X 48 cm.Schwarzer Rahmen.
+
+## A.W.Reuter
+
+lebt in Bautzen.
+
+- 167 Lehrjunge,vor der Ture zwischen zwei Wassereimern stehend, liest die Zeitung. Bezeichnet: W.A.Reuter,Bautzen 93. Ol auf Leinwand. 57X42 cm.
+
+## J.Rummelspacher
+
+geb.1852 in Berlin,lebt daselbst.
+
+- Landschaft mit Burg auf bewaldeter Hohe.Im Vordergrund FluB und Steg dariber,mit Angler darauf. Rechts Blick in ein bewaldetes Tal.
+
+Bezeichnet:Rummelspacher.
+
+O1 auf Leinwand. 86 X 128 cm.Goldrahmen.
+
+## F.J. Raffaelli
+
+geb. 1851 in Paris, lebt in Paris.
+
+- grund OrtsstraBe mit Kirchturm. Bezeichnet: F. J. Raffaelli. Ol auf Holz. 22,5 X 10,5 cm.Goldrahmen.
+
+Abbildung Tafel XXVI.
+
+- Die kleine Kirche in Neuilly. Davor eine kleine Baumanlage. Bauer mit Schimmel und Frau mit Marktkorben.
+
+Bezeichnet:F. J. Raffaelli.
+
+Abbildung Tafel XxVI.
+
+Goldrahmen.
+## E.Schaltegger
+
+geb. 1857 in Altersweilen, lebte in Munchen.
+
+- 1691 Im Walde. WeiBgekleidetes Madchen im leicht besonnten Wald an einem Baum lehnend. Bezeichnet:E.Schaltegger. Olauf Leinwand.92,5X65cm. Schwarzer Rahmen mit Goldleiste.
+
+## Jacques Schenker
+
+geb. 1854 in Luzern, lebt in Vitznau (Schweiz).
+
+- Ebbe. Kustenlandschaft. Links felsige Kuiste, altes Stadttor mit Befestigungsmauer und Hauser. I70 Am Strand lebhaftes Treiben von Fischern und Fischerinnen.  Rechts hinaus das Meer. Bezeichnet: Schenker 84. Ol auf Leinwand. 49 X 67 cm. Goldrahmen.
+- I7I Burg am See. Im Vordergrund am Weg alte Frau und Kind.
+- Letzter Schnee. Vorfrihlingslandschaft. Auf den Feldern tatige Landleute. Im Vordergrund Weg, I72 Wasser und steinerne Bricke dariber. Bezeichnet: Schenker,Dresden 89. O1 auf Leinwand.65 X 1o0 cm. Goldrahmen.
+- Bezeichnet:Schenker, Dresden. Ol auf Leinwand.92X65 cm. Goldrahmen.
+- I73
+- Spatherbst im Erzgebirge. Dorf im Erzgebirge. Links Wirtshaus mit Fuhrwerk. Davor Kanal Bezeichnet:Schenker,Dresden. O1 auf Leinwand.62 X 102,5 cm.Goldrahmen.
+- Englischer Strand. Felsiger Strand, terrassenartig abgestuft. Hauser und Viehweiden. Am Strand
+- Goldrahmen.
+- I74 Fischer,Fischerinnen und Fuhrwerke. Stark bewolkte Luft dariber. Bezeichnet: Schenker 92,Dresden. Aquarell auf Papier.120 X 181 cm. Unter Glas.
+- Fruhling am Teich. Auf dem Teich im Kahne Fischer mit Kind. Bewolkte, die Ferne zart verI75 schleiernde Luft.
+- Bezeichnet:Schenker. O1auf Leinwand.46X74 cm. Goldrahmen.
+- 176 Winterabend am Bodden.Im Vordergrund beschneiter Weg. Frau mit Schubkarren, Kinder mit Schlitten. Weiter zuruick Hauser unter Baumen und Blick auf zugefrorenen See. Bezeichnet: Schenker, Dresden 95. Ol auf Leinwand.121X92,5 cm. Goldrahmen.
+- I77 Winterlandschaft.Waldrand und verschneiter Bach mit Rehen. Bezeichnet: Schenker,Dr. Ol auf Leinwand.5o X40cm. Goldrahmen.
+- I78 Bei Saalfeld. FluBufer mit FloBen. Rechts Hauser, alter Turm und DorfstraBe mit Leuten in Thuringer Tracht. Bezeichnet:Schenker,Dresden. Ol auf Leinwand. 41 X 6o cm. Unter Glas. Goldrahmen.
+- I79 Fruhling. Landschaft mit Bach und Stauwehr im Vordergrund. Dabei Bub mit der Angel. Im Hintergrund steinerne Bricke und Haus. Auf dem Weg Fuhrmann und Wagen. Bezeichnet:Schenker. Ol auf Leinwand. 45,5 X 75 cm. Goldrahmen.
+- 180 An der Nab. Im Vordergrund FluB. Rechts Wiesen mit Ganseherde,Rinder und Frauen. Dahinter das Stadtchen und dariber hinaus Waldberge. Bezeichnet: Schenker,Dresden. O1 auf Leinwand. 64,5 X 1oo cm. Schwarzer Rahmen.
+- 181 Am Dorfteich. Im Vordergrund Wassertimpel mit Knaben, die auf einem BretterfloB fahren. Knabe und Madchen am Ufer. Rechts alte Weidenstamme und alte Dorfkirche und Hauser.
+- Bezeichnet: Schenker. Ol auf Leinwand. 64 X 10o cm. Goldrahmen. Abbildung Tafel XX.
+
+## Julius Scheuerer
+
+lebte in Minchen.
+
+- 182 Geflugel im Grinen. Hahn und Huhner. Truthahn und Hennen. Im Vordergrund am Wassernapf zwei Tauben. O1 auf Leinwand. 41,5 X 52 cm. Goldrahmen. Bezeichnet:Jul. Scheuerer.
+- 183 Truthuhner und Enten mit Jungen am Wasser. Ol auf Holz.14X 18 cm. Goldrahmen. Bezeichnet:Jul. Scheuerer.
+- 01 auf Holz. 14 X 18 cm. Goldrahmen.
+- 184 Huhner und Pfau. Huhner am Bach. Pfau am Zaun beim Tauben- und Huhnerhaus. Bezeichnet: Jul. Scheuerer.
+- 185 Storch und Geflugel. Huhnerhof.
+- Storch unter Tauben, Perl- und Schopfhuhnern, Hahnen und Fasanen im Bezeichnet: Jul. Scheuerer. O1auf Leinwand.16,5X40 cm. Goldrahmen.
+- 186 Geflugel.Hahn und Henne und sitzende Ente mit ihren eben ausgebriteten Jungen. Bezeichnet: Jul. Scheuerer. 01 auf Leinwand. 31,5 X55 cm. Goldrahmen.
+## L.Scheuermann
+
+geb.1859 in Burghersdorp (Afrika).
+
+- 187 Landliche Stube. Auf dem Tisch am Fenster ein Schneider,an einem weiben Kittel nahend. Auf der Bank nebenan seine Frau, mit gleicher Arbeit beschaftigt. Blick durch das Fenster auf alte Ziegeldacher.
+
+Ol auf Holz. 32 X 22 cm. Goldrahmen.
+
+## Matthias Schiestl
+
+lebt in Minchen.
+
+- 188 Albrecht Durer als Knabe,in frankischer Landschaft ein Kirchlein abzeichnend. O1 auf Pappe. 38 X 36 cm. Goldrahmen. Bezeichnet: M. Schiestl.
+
+Abbildung Tafel XxIV.
+
+## Rudolf Schietzold
+
+geb. 1842 in Dresden, lebte in Munchen.
+
+- 189 Landschaft. Heuernte am Ufer eines Sees.  Im Vordergrund rechts Heuwagen. Links Bauernkinder,
+
+Bezeichnet:R. Schietzold,Mchn.76. O1 auf Leinwand.77X 144 cm. Goldrahmen.
+
+- Kihe und ein paar Kahne. Gewitterstimmung.
+
+Abbildung Tafel XI.
+
+## 1.E.Schindler
+
+geb.1842 in Wien,gest.18g2 in Westerland a. Sylt.
+
+- 190 Am Waldbach. Altes Wehr im Grinen. Am Bach entkleidetes kleines Madchen. Sommerstimmung. Bezeichnet:Schindler 85 Goisern. O1 auf Holz. 56,5 X 40 cm. Goldrahmen.
+
+Abbildung Tafel XxxV.
+
+## Eduard Schleich sen.
+
+geb. 1812 in Harbach, gest. 1874 in Munchen.
+
+- 191 Chiemsee. Uferlandschaft. Im Vordergrund links Schiffhitten,Kuhe im Wasser und Hirtin. Weiter zurick Dorf. Rechts hinaus Blick auf den See und die Berge.
+
+Bezeichnet:Ed. Schleich. O1 auf Leinwand. 45 X 33 cm. Goldrahmen.
+
+## Eduard Schleich jun.
+
+geb.1852,gest.1893 in Munchen.
+
+- 192 Fruhling. Bauernhauser unter bluhenden Baumen. Im Vordergrund Wiese mit Huhnern. Auf dem Weg eine Frau.
+
+Bezeichnet:Ed. Schleich jr.,Minchen. 01auf Leinwand. 38 X58,5 cm. Goldrahmen.
+
+- 193 Gewitterstimmung. Im Vordergrund Bach und eine Bauerin mit dem Wasserschaff. Weiter zurick
+
+Bezeichnet: Ed. Schleich jr., Munchen. O1 auf Leinwand. 38X58 cm. Goldrahmen. Abbildung Tafel VI.
+
+- Haus und Baume. Gewitterige,dustere Luft iber der Landschaft.
+
+## Robert Schleich
+
+geb. 1845 in Munchen, lebt daselbst.
+
+- Markttag. In einem Gebirgsstadtchen. Vor dem Wirtshaus Wagen, Landleute und Vieh. Lebhaftes
+
+Bezeichnet:Rob. Schleich 1893.
+
+- 194 Treiben.
+
+Abbildung Tafel XXxVI.
+
+Ol auf Holz. 12 X16 cm. Goldrahmen.
+
+Bezeichnet: Scheuermann.
+- 195
+
+## Matthias Schmid
+
+geb. 1835 in See (Tirol), lebt in Munchen.
+
+- ofen und landliche Stube. Bezeichnet:Mathias Schmid. Ol auf Leinwand. 100 X 74 cm. Goldrahmen. Abbildung Tafel XXI.
+- 196
+- 197
+- Vorbereitung zum Fest. Tiroler Madchen schmicken die Herrgottsecke in der Stube mit frischen
+- Blumen. Bezeichnet: Mathias Schmid,Munchen. O1 auf Leinwand. 58,5 X 44 cm. Goldrahmen. Abbildung Tafel XIII.
+
+## H.Schmidt
+
+lebte in Munchen.
+
+- Aus dem Schlitten gefallener Korb am Boden, woraus ein Hund eine Wurst erbeutet. Hinterher FuBganger. In der Ferne Dorf. Bezeichnet:H. Schmidt,Munchen. Ol auf Leinwand. 33 X 46,5 cm.Goldrahmen.
+
+## Franz Schreyer
+
+geb.1858 in Leipzig-Reudnitz, lebt in Dresden-Blasewitz.
+
+- 198 Heide. Mit Erika bewachsenes Heideland, Moorhutte und Birken. Im Hintergrund Wald. Bezeichnet:Franz Schreyer 98. O1 auf Leinwand. 31 X 52 cm. Goldrahmen.
+- 199 Hunengrab. Rechts aufgeturmte Felsblocke. Links ein einsames Gehoft. Weiter hinaus Blick auf Heide. 01 auf Holz. 20 X 32 cm. Goldrahmen. Bezeichnet:Franz Schreyer.
+- 200 Abend im Moor. Im Vordergrund Wasser und Schilf. Im Mittelgrund Birken. Im Hintergrund Auenwald. Bezeichnet:Franz Schreyer. O1 auf Leinwand. 61 X gI cm. Goldrahmen. Abbildung Tafel XX.
+- 201 im Sand. O1 auf Leinwand. 52 X 81 cm. Goldrahmen. Bezeichnet:Franz Schreyer.
+- 202
+- Torfhitten bei Dachau. Im Vordergrund entwurzelter Baum. Weiter zuruick Torfhitte unter Birken. 01 auf Leinwand. 42,5 X 70 cm. Goldrahmen. Bezeichnet:Franz Schreyer.
+- 203 Am kurischen Haff. In der Dunung Fischerhaus. Am Strande Fischerfrauen bei der Wasche.
+- Ol auf Leinwand. 41 X 55 cm. Goldrahmen. Bezeichnet:Franz Schreyer.
+- Muhle und Stauwehr mit Steg dariber. Dahinter Hauser. Im Goldrahmen.
+- 204 Muhle an der Spree in Barwald. Vordergrund Baume. Ol auf Leinwand. 61 X 9I cm. Bezeichnet:Franz Schreyer.
+- 205 Winter im Moor. Schneefeld.Im Vordergrund Bach und Birken.Weiter zurick Wald.
+- Ol auf Leinwand. 77 X 107 cm. Goldrahmen. Bezeichnet:Franz Schreyer.
+- 206 Am DolskeflieB im Spreewald. Hauser im Grunen mit roten Ziegeldachern am Wasser. Im Wasser Kahne. Bezeichnet: Franz Schreyer. Ol auf Leinwand. 61 Xg1 cm. Goldrahmen.
+- 207 Nordseewellen mit Moven dariber. Ol auf Leinwand. 61 X 91 cm. Unter Glas. Goldrahmen. Bezeichnet:Franz Schreyer.
+- 208
+- Marztag im Moor. Vorne Wasser, im Mittelgrund Heideland mit Birken;im Hintergrund Auenwald. O1 auf Leinwand. 40,5 X 6o cm. Goldrahmen. Bezeichnet:Franz Schreyer.
+- 209 Helgoland. Rechts die roten Felsen von Helgoland. Links Meer. O1 auf Leinwand. 31 X 48,5 cm.Goldrahmen.
+- Bezeichnet:Franz Schreyer 90.
+- 214
+
+Bezeichnet: Werner Schuch.
+
+## Werner Schuch
+
+geb.1843 in Hildesheim.
+
+- 210 Raubritter. Im Vordergrund brechen drei Ritter zu Pferd aus dem Walde hervor. Im Mittelgrund vorbeiziehende Kaufleute mit Wagen.
+
+Abbildung Tafel XXxVII.
+
+- 2II Parforcejagd. Aus dem Wald herausreitende Jager im Kostim des 18. Jahrhunderts. Links der von
+
+Bezeichnet: Werner Schuch.
+
+- der Meute verfolgte Hirsch.
+
+Abbildung Tafel XxxVII.
+
+- 2I2 kommende jungste Kind.
+
+## Otto Schulz
+
+Weimar.
+
+Bezeichnet:O. Schulz, Wmr. 84. Abbildung Tafel II.
+
+- 213 Fuhrwerk auf steinigem Acker.
+
+Ol auf Leinwand.52 X 65 cm.Goldrahmen.
+
+## G.Schwarzmeier
+
+01 auf Leinwand. 31,5 X 43,5 cm.Goldrahmen.
+
+## Otto Seitz
+
+geb. 1846 in Munchen, gest. 1912 daselbst.
+
+- Kind und Tod. Tod versteckt in Schilf und Gestripp eines Wassertimpels; streckt seine Knochenhand mit einer Teichrose einem Kind entgegen,das ahnungslos auf ihn zugeht.
+
+Bezeichnet:O. S.1888. Ol auf Holz. 12,5 X8 cm. Unter Glas. Dunkler Rahmen.
+
+## Ludwig Skell
+
+geb. 1833 auf SchloB Berg (Starnberger See), lebte in Muinchen.
+
+- 216 Rucken, dahinter Jager.
+- 215 Landschaft. Ausblick von einem Hohlweg auf weite Landschaft.Vorne unter Baumen versteckt Hauser, links ein Kirchturm. Im Vordergrund Weg mit Staffage. Bezeichnet:L. Skell. Ol auf Holz. 21 X 27 cm. Goldrahmen.
+
+## Johann Sperl
+
+geb. 1840 in Buch, gest. 1914 in Aibling.
+
+- Weg im Gebirg mit Aussicht auf ferne Taler und Hohen.Auf dem Weg Gebirglerin mit Kraxe am
+
+Bezeichnet: Sperl 99. Abbildung Tafel XII.
+
+O1 auf Leinwand. 49 X 68 cm. Schwarzer Rahmen.
+
+## Alfons Spring
+
+geb.1843 in Libau, gest.in Munchen.
+
+- 217 Sechs Studienkopfe auf einer Tafel. Bauerntypen, teils barhauptig, teils mit Kappen und Huten. Bezeichnet:A. Spring, Munchen. OlaufHolz.16X2Icm.
+- Goldrahmen. Abbildung Tafel XxxVI.
+
+## Adolf Stademann
+
+geb. 1824 in Munchen, gest. 1895 daselbst.
+
+- 218 8Winter in einem hollandischen Dorf. Im Hintergrund beschneite Hauser und Windmuhlen.Im Vordergrund auf dem Eise Manner und Frauen und Kinder mit Schlitten. Bezeichnet: A.Stademann.
+
+Ol auf Holz. 28 X 45 cm.Goldrahmen.
+
+- 220 Mondnacht am Starnberger See. Am Ufer Busch und Weiden, Schiffshitten und offenes Feuer mit Staffage. Ein Kahn im See. Bewolkte Luft,vom Mondlicht durchbrochen.
+- 219 Winterlandschaft. Am Strand. Im Eise eingefrorene Boote. Auf dem Eise Kinder und Schlittschuh laufer.Rechts Blick auf Hauser und Windmihlen. Bezeichnet: Ad.Stademann. Ol auf Holz. 27 X 40 cm. Goldrahmen.
+- Bezeichnet:Ad. Stademann.
+
+Ol auf Holz. 26,5 X 57,5 cm. Goldrahmen.
+
+Bezeichnet:G.Schwarzmeier.
+
+O1 auf Holz. 25X39,5 cm.Goldrahmen.
+
+O1 auf Holz. 25 X39,5 cm.Goldrahmen.
+- 222 kranz.
+- Bezeichnet:A.Thiele.
+
+## Toni Stadler
+
+geb. 185o in Gollersdorf, gest. 1917 in Munchen.
+
+- 221 mit Herde vor einer Baumgruppe.
+
+Bezeichnet:T.Stadler.
+
+Abbildung Tafel XxxII
+
+O1 auf Holz. 33 X 25 cm. Goldrahmen.
+
+## Franz v. Stuck
+
+geb. 1863 in Tettenweis, lebt in Munchen.
+
+- Brustbild einer Italienerin in rotem Haar. Medaillonform,umgeben von grinem stilisiertem Lorbeer-
+
+Ol auf Pappe. 61,5 X 46 cm. Schwarzer Rahmen. Bezeichnet:Franz Stuck. Abbildung Tafel XXxVIII.
+
+## Andrea Tavernier
+
+lebt in Turin.
+
+- 223 Abendstimmung. Romerin an einem bluhenden Rosenstrauch. Im Vordergrund Gartenarchitektur mit zwei Hermen am Wasser. Abendstimmung. Bezeichnet:A. Tavernier,Roma. Ol auf Leinwand. 35 X 55 cm. Bronzeartiger Rahmen.
+- 224 Italienische Landschaft. Im Vordergrund Bauerin mit rotem Kopftuch, einen Kurbis in der Hand tragend. Bezeichnet:Tavernier. Ol auf Leinwand. 63 X 1o6 cm. Bronzeartiger Rahmen.
+- 225 Mittag. Italienische Bauerin,vor ihrem Haus Gemise zubereitend. Vor ihr in der Sonne Huhner mit Jungen. Bezeichnet:A.Tavernier. O1 auf Leinwand. 74,5 X 40 cm. Bronzeartig behandelter
+
+Rahmen.
+
+- Verwaist. Italienisches Madchen, den tonernen Wasserkrug am Arm im Grunen.
+- Ol auf Leinwand. 57 X 35 cm. Dunkler bronzeartiger Rahmen. Abbildung Tafel XVII.
+
+## Arthur Thiele
+
+geb. 1841 in Dresden, lebte in Munchen.
+
+- 227 Rehfamilie. Rehbock, Gais und Kitz im Gruinen. 01 auf Leinwand. 63.5 X51,5 cm.Goldrahmen.
+
+## Hans Thoma
+
+geb. 1839 in Bernau,lebt in Karlsruhe.
+
+- 228 Mutter, im Garten sitzend, ihr Kind im Arm. Abendstimmung in der Landschaft. Bezeichnet:H. Th.92. Bemalter Steindruck.44X35,5 cm. Abbildung Tafel XXXVIII.
+- Lautenspielerin am Quell. Weiter zurick Pferd am Geholz.
+- Goldrahmen.
+- 229 Bezeichnet:H. Th.93. Bemalter Steindruck. 46 X 37 cm. Goldrahmen. Abbildung Tafel XxXIX.
+- Centaurin auf der Laute spielend am Wasserfall.
+
+Abbildung Tafel XxXIX.
+
+- 230 Bezeichnet:H.Th.93. Bemalter Steindruck. 46 X 37,5 cm. Unter Glas. Goldrahmen.
+
+## Adolf Thomas-Zittau
+
+geb.1834 in Zittau, gest.1887 in Dresden.
+
+- Dreiviertelprofil. Lila Halstuch und weiBes Kleid. 231 Kopf eines italienischen Madchens auf Capri. Ol auf Leinwand. 39.5 X 29 cm. Goldrahmen. Bezeichnet:Capri A.Thomas.
+- 232 Herrenkretschen. Mondbeleuchtete felsige Landschaft. An der StraBe belichtete Hauser. Im Dunkel ein junger Mann, eine Holzklapper schwingend. 01 auf Leinwand.72X59 cm. Goldrahmen. Bezeichnet:A.Thomas 1895.
+- 233 Waldlandschaft.Im Vordergrund links Bach mit steilen Ufern, weidendem Vieh und badenden Kindern. Rechts Ausblick auf blaue Berge. Ol auf Leinwand.102 X 85 cm.Goldrahmen. Bezeichnet:A.Thomas 1870.
+- 234 Italienischer Knabe an einer Mauer, der VeilchenstrauBe feilhalt.Im Hintergrund die Stadt Rom. Ol auf Leinwand.121 X 8o,5 cm.Goldrahmen.
+- Bezeichnet: Ad. Thomas Rom 72.
+- 226 Bezeichnet:A.Tavernier.
+- 235 am Weg.
+- 236 Mieder.
+
+## L.Toussaint
+
+geb.1826 in Konigsberg.
+
+01 auf Leinwand. 66 X53 cm. Goldrahmen.
+
+## Benjamin Vautier
+
+geb. 1829 in Morges, gest.1898 in Dusseldorf.
+
+- Schwarzwalderin. Brustbild eines dunkelhaarigen Madchens mit schwarzem Kopftuch und buntem
+
+Bezeichnet:B.Vautier 89.
+
+Abbildung TafelV.
+
+Ol auf Leinwand. 22 X 17 cm. Goldrahmen.
+
+## Heinrich Vogeler
+
+lebt in Worpswede bei Bremen.
+
+- 237 Die Krauterhexe. Alte mit Korb am Arm unter bluhenden Rosen. Bezeichnet:H. V. Ol auf Leinwand.62 X 6o cm.Geschnitzter vergoldeter Holzrahmen.
+- 238
+- 8Im Herbst. Blondes Madchen in langem Kleide,offenem Haar und gelben Blumen darin,unter mit reifen Apfeln behangenen Baumen.
+
+Bezeichnet:H.V.Ol auf Leinwand.62 X 6o,5 cm.Geschnitzter vergoldeter Holzrahmen.
+
+## Friedrich Voltz
+
+geb. 1817 in Nordlingen, gest.1886 in Munchen.
+
+- 239 Strickendes Bauernmadchen.Vor ihr Hund und Kuhe. Bezeichnet:Fr. Voltz 85. Nahebei eine Bretterhitte unter Baumen. O1 auf Holz. 27 X42 cm.Goldrahmen.
+
+Abbildung Tafel XXV.
+
+- 240 Falbe Kuh von der Seite gesehen. Bezeichnet:F.V.
+
+O1 auf Pappe. 27 X 36 cm. Goldrahmen.
+
+## Ludwig Voltz
+
+geb. 1825 in Augsburg, gest.1911 in Munchen.
+
+- 241 Ziegen vor dem Stall. In Felsen eingebauter Ziegenstall. Ziege mit Zicklein davor. Bezeichnet:L.Voltz. 01 auf Pappe. 34 X 42 cm.
+- Goldrahmen. Abbildung Tafel XXXI.
+- Abend am See. Rechts See mit heimkehrenden Fischern im Boot. Links Ortschaft unter Baumen.
+- Bezeichnet:L.Voltz. O1 auf Holz. 26,5 X 43 cm. Unter Glas. Goldrahmen.
+- 242 Am Weg Bauerin mit einem Korb auf dem Kopf.
+
+## Paul Wagner
+
+geb.1852 in Rothenburg,lebt in Kochel.
+
+- Kleiner Schalk. Kleines Madchen, das sich einen Schleier iber das Haar gezogen und diesen mit der rechten Hand halt, blickt schalkhaft lachelnd den Beschauer an. Bezeichnet:Paul Wagner,Munchen,Kochel.
+
+Ol auf Leinwand. 41 X 32 cm. Goldrahmen.
+
+## Robert Warthmuiller
+
+geb.1859 in Landsberg,gest.1895 in Berlin.
+
+- 244 Schwerer EntschluB. In einem Rokokozimmer auf dem Divan sitzende Schone. Zur Seite an einem
+
+Abbildung Tafel XXXI.
+
+Ol auf Holz. 48 X 55,5 cm. Goldrahmen.
+
+- Stuhl stehender Husarenoffizier, der eben seinen Antragvorbringt. Bezeichnet:R.Warthmiller.
+- 2431
+
+Bezeichnet:L.Toussaint.
+- 257
+
+## Eduard Weichberger
+
+geb. 1843 in Krauthausen b. Eisenach,lebt in Weimar.
+
+- 245 Waldinneres.Herbstlicher Wald. Auf dem Weg Bauerin mit Butte am Rucken. Birken und Buchen.Im Vordergrund Steg iber einen Bach. Links Ausblick auf offene Wiese. Abendstimmung. Bezeichnet:E. Weichberger, Weimar. Ol auf Leinwand. 8o X 6o cm.Goldrahmen.
+- Wald mit durchziehender Rinderherde. Im Vordergrund iber Felsen schaumender Bach.
+- 246 Bezeichnet:E.Weichberger,Weimar. Ol auf Leinwand.78 X 114 cm.Goldrahmen. Abbildung Tatel XV.
+
+## Josef Wenglein
+
+geb. 1845 in Munchen, lebt daselbst.
+
+- 247 Vorfrihling. Oberbayerische Auenlandschaft in Fruhlingsstimmung. Im Vordergrund Wasser, links Birken und Holzleserinnen. Rechts Blick in blaue Fernen.
+
+Bezeichnet: J. Wenglein, 9o Munchen.
+
+Abbildung Tafel Xxxx.
+
+01 auf Leinwand. 74 X 59,5 cm. Goldrahmen.
+
+## Josef Willroider
+
+geb.1838 in Villach, gest. 1g1o in Munchen.
+
+- Sommerlandschaft. Im Mittelgrund Baumgruppen und Bauernhaus. Im Vordergrund am Boden
+- 248 kauernder Schafer und Hund. Weiter zurick Schafherde. Bezeichnet: J. Willroider. 01 auf Holz. 16 X 27 cm. Goldrahmen.
+
+## Conrad Wimmer
+
+geb. 1844 in Munchen, lebt daselbst.
+
+- 249 Landschaft in regnerischer Stimmung. Auf dem durchweichten Weg heimkehrende Herde und Schafer. Zwei Kinder mit rotem Schirm. Rechts Bauerngehoft. Bezeichnet:C.Wimmer. Ol auf Leinwand.18 X28 cm.Goldrahmen.
+- 250 Kartoffelernte. Bezeichnet: C. Wimmer, Minchen. 01auf Holz.16X26cm. Goldrahmen.
+- 251 Winterlandschaft. Auf dem Weg Jager, die mit dem Fernglas abziehende Rehe beobachten.Weiter vorne am Weg Schlitten. In der Ferne Hauser.Abendstimmung. Bezeichnet:C.Wimmer. Ol auf Holz. 16X26 cm.Goldrahmen.
+- Auenlandschaft.Wiese und Wasserlauf mit Geholz.Dahinter Hauser. Auf der Wiese am Wasser
+- 252 zwei Rehe. Bezeichnet:C.Wimmer. Ol auf Leinwand. 18,5 X 28 cm. Goldrahmen.
+- 253 Heuernte in den Vorbergen. Im Vordergrund eine mit dem Rechen hantierende Bauerin, dahinter Ochsengespann. Weiter zurick Wagen,Pferde und heuernde Bauern. Im Hintergrund Ort. schaft am See. Bezeichnet:C.Wimmer. O1 auf Holz. 16X 26 cm. Goldrahmen
+- 254 Heuernte bei heranziehendem Gewitter. Im Vordergrund Heuwagen mit zwei Pferden bespannt. Heu aufladender Bauer, Bauerin und Bub,ein Hund dabei. Ol auf Holz. 16 X 26 cm. Goldrahmen.
+- 255
+- Bezeichnet: C. Wimmer,Munchen.
+- Getreideernte. Magde und Knechte mit Zusammenbreiten und Aufladen der Garben beschaftigt. Bezeichnet: Carl Wimmer,Munchen. Ol auf Holz.16X26 cm.Goldrahmen.
+
+## Anton Windmeier
+
+geb. 184o in Pfarrkirchen, gest. 1896 in Munchen.
+
+- Weiter 256 Abendlandschaft. Nach dem Regen.  Am Waldessaum Schafherde, Hirte und Madchen. zurick Fuhrwerke und Hauser im Nebel.
+
+Bezeichnet:A.Windmeier.
+
+O1 auf Leinwand. 22 X3o cm. Goldrahmen.
+
+## Walter Witting
+
+geb. 1864 in Dresden, lebt daselbst.
+
+- Interieur aus Thiringen. Hell beleuchtete Stiege und rot gepflasterter Hausgang. An der Ture Magd mit weiBer Schurze und Haube.
+- O1 auf Leinwand. 47 X 56 cm. Goldrahmen.
+
+Bezeichnet: W.Witting 1890.
+## F.E.Wolfrom
+
+geb.1857 in Magdeburg.
+
+- 258 8Studienkopf. Madchen mit brunettem Haar, offenem Hemd an Hals und Brust. Bezeichnet:F. E.Wolfrom. O1auf Leinwand.52X39 cm. Goldrahmen.
+
+## Josef Wopfner
+
+geb.1843 in Schwaz,lebt in Munchen.
+
+- Einweihung. Auf Bergeshoh festlich gekleidetes Gebirgsvolk vor einer neuen Kapelle. Der Pfarrer 259 O1 auf Leinwand.44 X36 cm.Goldrahmen. Bezeichnet:Wopfner,Minchen. Abbildung Tafel XXX.
+- 260Am Chiemsee. Goldrahmen.
+- Bezeichnet: Josef Wopfner, Munchen. Fischer gegen Frauenworth heimwartsfahrend.  Abendstimmung. Olauf Holz.18X24cm. Abbildung Tafel XXxVI.
+
+## J.G. Zacheisen
+
+lebte in Dusseldorf.
+
+- 261 Hollandische Kuste.Rechts hohes Ufer mit Leuchtturm. Links Meer und ein Segelschiff.Im Vordergrund Hollander und Hollanderinnen.
+
+Bezeichnet:J.G.Zacheisen,Dusseldorf 1844.
+
+O1 auf Leinwand.48,5 X64,5 cm.Goldrahmen.
+
+## Albert Zimmermann
+
+geb. 18o8 in Zittau, gest. 1888 in Munchen.
+
+- 262 Gebirgsbach.Aus dem Hochwald heraus iber Felsen schaumender Gebirgsbach. Bezeichnet:Albert Zimmermann. O1 auf Holz.57X50 cm. Abbildung Tafel XXxx.
+- Goldrahmen.
+- 263 Windmuhle. Rechts hollandische Windmuhle am Wasser. Am Ufer Baume und Hauschen. Links Wasser mit Schiffen.
+
+Bezeichnet: Albert Zimmermann,Minchen. O1 auf Holz. 59 X 30,5 cm. Goldrahmen.
+
+HU

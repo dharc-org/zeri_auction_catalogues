@@ -1,0 +1,854 @@
+## PERSISCHE FAYENCEN
+
+- 1FLACHE SCHALE AUF KONISCHEM FUSS.
+
+Mit abgesetztem,flachem Rand. Grinlich glasiert,schwarz und blau bemalt.Im
+
+Spiegel springender Hase,auf dem Rand schriftartige Borte. Etwas irisiert.— Repariert.
+
+MESOPOTAMIEN,RAQQA,13.JAHRHUNDERT.Durchmesser 15,5 cm. Abb.Tafel II.
+
+- 2 FLACHE SCHALE AUF RINGFUSS.
+
+Mit abgesetztem,flachem Rand.Grunlich glasiert, schwarz und blau bemaltStili- sierter Panther zwischen Blattranken.Irisiert.-Leicht repariert. MESOPOTAMIEN,RAQQA,13.JAHRHUNDERT.Durchmesser 16,5 cm.
+
+- SCHALE AUF RINGFUSS. K
+
+Blau und schwarz bemalt auf grinlichgelbem Grund. Im Spiegel Kamel im
+
+Kreis, am Rand Borte.Irisiert.Reparaturen.
+
+MESOPOTAMIEN,RAQQA,13.JAHRHUNDERT.
+
+Hohe 7 cm,Durchmesser 14,5 cm.
+
+- HENKELKANNE AUF RINGFUSS.
+
+Kugelige Form mit eingezogenem weitem Hals. Blau glasiert mit schwarzer Bemalung: Blattranken. Am Hals ausgesparter Schriftfries. Starke Irisierung. MESOPOTAMIEN,RAQQA,13.JAHRHUNDERT. Hohe 8 cm,Durchmesser 11 cm.
+
+- SCHALE AUF RINGFUSS.
+
+Mit abgesetzter Wandung und flachem Rand. Turkisgrun glasiert. Kraftige Irisierung.
+
+MESOPOTAMIEN,RAQQA,12.13.JAHRHUNDERT.
+
+Hohe 8 cm,Durchmesser 15,5 cm.
+
+- KLEINE HENKELFLASCHE AUF RINGFUSS.
+
+Birnformig mit eingezogenem Hals und gekniffenem Ausguf. Turkisgrun gla siert. Starke Irisierung.
+
+MESOPOTAMIEN,RAQQA,13.JAHRHUNDERT.
+
+- HENKELFLASCHE AUF RINGFUSS.
+
+Birnformig,unter dem Ausguf freiplastischer Vogelkopf. Turkisgriin glasiert. Irisiert. Geringe Reparatur.
+
+MESOPOTAMIEN,RAQQA,13.JAHRHUNDERT.Hohe 21,5cm. Abb. Tafel IV.
+## 8
+
+## KLEINER HENKELKRUG AUF RINGFUSS.
+
+Mit kugeliger Wandung und weitem Hals. Griinlichweif glasiert und mit braunem Lister bemalt.Auf der Leibung stilisierter Blattrankenfries, senkrecht geteilt durch vier blaue, bzw. tirkisgrine Streifen. Am Hals schriftartiger Fries. Irisiert.-Repariert.
+
+MESOPOTAMIEN,RAQQA,12.-13.JAHRHUNDERT.Hohe15cm.
+
+## 9SCHALE AUF HOHEM RINGFUSS.
+
+Cremeweif glasiert,mit braunem Lister bemalt.Im Spiegel stilisiertes Blattornament.Die innere Wandung mit rundumlaufendem Schriftfries, durch vier tirkisgriine Radialstreifen getrennt.- Repariert. MESOPOTAMIEN,RAQQA,12.-13.JAHRHUNDERT.
+
+Hohe 8 cm,Durchmesser 15 cm.
+
+## 10TIEFE SCHALE AUF HOHEM RINGFUSS.
+
+Mit konischer Wandung. Grunlichweife Glasur,mit Lustermalerei. Stilisiertes Blattornament,auf der Wandung durch radial laufende,ornamentierte Streifen und vier blaue Linien geteilt. Aufen Spiralornamente. Etwas Irisierung. Repariert.
+
+MESOPOTAMIEN,RAQQA,13.JAHRHUNDERT. Hohe 22,5 cm,Durchmesser 11 cm. Abb. Tafel IV.
+
+## 11 SCHALE AUF RINGFUSS.
+
+Mit konischer, durch den Brand etwas unregelmafiger Wandung. Gruinlich glasiert mit schwarzer und blauer Bemalung. Im Spiegel zwei sich einander gegeniberstehende Vogel, die innere Wandung gegliedert durch ein umlaufendes, vier Kreise bildendes Band.Irisiert.-Reparaturen.
+
+MESOPOTAMIEN,RAQQA,13.JAHRHUNDERT.
+
+Hohe 11 cm,Durchmesser 24,5 cm.
+
+Abb. Tafel IV.
+
+## 12 DECKELGEFASS AUF RINGFUSS.
+
+Kugelige Form, der Deckel mit hohem eingezogenem Griff. Innen und auben tirkisgrin glasiert, mit schwarzer Bemalung. Schnorkel, Blattranken und grobe Schriftzeichen. Kraftige Irisierung.
+
+MESOPOTAMIEN,RAQQA,12.JAHRHUNDERT.
+
+Hohe mit Deckel 19 cm,Durchmesser 18 cm.
+
+Abb. Tafel III.
+
+Aus Sammlung Fritz von Gans.
+
+## 13 GROSSE HENKELURNE.
+
+Mit niedriger Fubplatte, eiformig, der eingezogene Hals mit Wulstabschluf.Vier kleine Bogenhenkel. Auf der Leibung gekerbtes Wellenband, daruiber gekerbte Schnur in Relief. Turkisgrun glasiert. Stark irisiert.
+
+MESOPOTAMIEN,RAQQA,13.JAHRHUNDERT.Hohe 38 cm.
+
+Abb. Tafel III.
+## 14SCHALE AUF RINGFUSS.
+
+Konische Wandung. Rotlicher Scherben mit griiner Glasur und in den Anguf eingeritztem Dekor:Auf der inneren Wandung drei stilisierte Vogel.- Repariert. Hohe 7 cm,Durchmesser 18,5 cm.
+
+PERSIEN,sogenannte GHABRI-WARE,9.11.JAHRHUNDERT. Abb.Tafel II.
+
+## 15 SCHALE AUF RINGFUSS.
+
+Konische Wandung. Gelblichweib glasiert, der Dekor ausgespart auf ausgekratztem,braun glasiertem Grund: stilisiertes Tier zwischen Blattranken.
+
+PERSIEN, sogenannte GHABRI-WARE,9.—11.JAHRHUNDERT. Hohe 6 cm,Durchmesser 17 cm.
+
+Repariert.
+
+Ab.Tafel IV.
+
+## 16 SCHALEAUF RINGFUSS.
+
+Aufen blau,innen radial in acht Felder geteilt,von denen vier blau,zwei wei und zwei tirkis glasiert sind.In Lustermalerei Blattwerk und Arabesken.Aufen
+
+PERSIEN,RAGHES,12.JAHRHUNDERT.Hohe 614 cm,Durchmesser 15 cm.
+
+Rundschrift.—Repariert.
+
+- 17 TIEFE SCHALE AUF RINGFUSS.
+
+Mit gewolbter Wandung. WeiR glasiert und mit Lister bemalt. Innen stilisierte Blattornamente, durch abwechselnd blaue und gruine,radiale Streifen in zwolf Felder geteilt.Aufen palmettartige Ornamentierung. PERSIEN,RAGHES,13.JAHRHUNDERT.Hohe 10 cm,Durchmesser 20,5 cm.
+
+## 18 TIEFE SCHALE AUF RINGFUSS.
+
+Mit achteckiger Wandung und leicht ausladendem Rand. Innen und aufen blau glasiert. In den acht Feldern der Leibung Reliefdekor: abwechselnd zwei gegenstandige Reiterinnen und zwei gegenstandige Sphinxe, darunter Tiere. Repariert.
+
+Abb.Tafel II.
+
+PERSIEN,RAGHES,13.JAHRHUNDERT. Hohe 13,5 cm,Durchmesser 19,5 cm.
+
+## 19 FLACHE SCHALE AUF RINGFUSS.
+
+Weif glasiert mit schwarzer und blauer Bemalung. Im Spiegel Palmetten und
+
+Arabeskenblatter in Rosettenanordnung.Am Rand rundumlaufende Schriftzeichen,ausgespart auf schwarzem Grund. Aufen Pflanzenstauden.Erganzungen. PERSIEN,SULTANABAD,13.JAHRHUNDERT. Hohe 6 cm,Durchmesser 23 cm. Abb.Tafel II.
+
+- 20 HENKELKANNE AUF RINGFUSS.
+
+Birnformig. Weif glasiert mit senkrecht laufenden blauen Streifen. Am Rand eingeritzter, verstimmelter Schriftfries.- Geringe Reparaturen.
+
+PERSIEN,SULTANABAD,UM 1300.Hohe 14,5cm.
+- 21 FLACHE SCHUSSEL AUF RINGFUSS.
+
+Mit abgesetztem Rand. Cremeweif glasiert. Innen radial in zwolf abwechselnd blau und schwarz bemalte Felder aufgeteilt. Punktdekor,Blattstilisierung und Schnorkelwerk. Etwas Irisierung.
+
+PERSIEN,SULTANABAD,13. JAHRHUNDERT.Durchmesser 32 cm. Abb. Tafel II.
+
+- 22 SCHALE AUF KLEINEM RINGFUSS.
+
+Mit gewolbter Wandung. Cremeweif glasiert mit blauer, tirkisgriner und schwarzer Bemalung. Im Spiegel Tierfigur zwischen Blattern, darum fuinf grofe und fuinf kleine abwechselnde Palmetten auf Blattrankengrund. Auben Tupf- dekor.Irisiert.
+
+PERSIEN,SULTANABAD,13.JAHRHUNDERT. Hohe 9,5 cm,Durchmesser 21,5 cm.
+
+Abb. Tafel IV.
+
+- 23 SCHALE AUF RINGFUSS.
+
+Mit abgesetztem Rand. Cremeweif glasiert mit blauer und schwarzer Bemalung. Im Spiegel Gittermuster mit Punkten in Doppelkreis, darum symmetrisch angeordnete lockere Zweige. Am Rand aufen und innen Friese. Irisiert. Erganzung am Rand.
+
+PERSIEN,SULTANABAD,13.JAHRHUNDERT. Hohe 10 cm,Durchmesser 21 cm. Abb. Tafel IV.
+
+- SCHALE AUF RINGFUSS.
+
+Mit konischer Wandung. Cremefarben glasiert, mit blauer und schwarzer Bemalung. Im Spiegel Vogel mit Blumen,auf der inneren Wandung vier Palmzweige abwechselnd mit Blattkartuschen mit Schriftzeichen.Aufen Pflanzenornamente. -Reparatur.
+
+PERSIEN,SULTANABAD,13.JAHRHUNDERT. Hohe 9,5 cm,Durchmesser 21 cm. Abb. Tafel IV.
+
+- GROSSE SCHALE AUF RINGFUSS.
+- 24
+- 25
+
+Konische,oben senkrecht abgesetzte Wandung mit flachem Rand. Olivgrine Glasur,bemalt mit schwarzer und weiber Schlempe. Innen Flechtband in Sternform auf Blattwerkgrund. Auben Strichdekor. Irisierung. PERSIEN,SULTANABAD,13.JAHRHUNDERT. Hohe 14 cm,Durchmesser 27 cm. Abb. Tafel II.
+
+- 26 TIEFE SCHALE AUF EINGESCHNURTEM FUSS.
+
+Mit leicht gewolbter,oben abgesetzter Wandung.Weife Glasur,blau,turkisgrin und schwarz bemalt.Das Innere radial in acht,in Farbe und Dekor abwechselnde Felder aufgeteilt mit Arabesken und Gittermustern. Am Rand auBen und innen
+
+Friese.Aufen Strichdekor.Irisiert.—Repariert.
+
+PERSIEN,SULTANABAD,13.JAHRHUNDERT.
+
+Hohe 16 cm,Durchmesser 27 cm. Abb.Tafel II.
+- 27 RECHTECKIGE FLIESE.
+
+Mit Reliefdekor: stilisiertes Blattwerk. Turkisgrin glasiert. Leicht irisiert. PERSIEN,SULTANABAD,13.14.JHRHUNDERT.Hohe 13 cm,Breite 22cm.
+
+- 28 TELLER AUF RINGFUSS.
+
+Turkisblau glasiert mit schwarzer Bemalung. Im Spiegel Blumenstauden, der Rand in Felder aufgeteilt.
+
+PERSIEN,BOCHARA,16.JAHRHUNDERT.Durchmesser 28cm.
+
+- 29 PLATTE AUF RINGFUSS.
+
+Turkisblau glasiert und schwarz bemalt. Im Spiegel zwolfpassige Rosette, am
+
+Rand Gittermuster.-Repariert.
+
+PERSIEN,BOCHARA,16.JAHRHUNDERT.Durchmesser 33,5cm.
+
+- 30 PLATTE AUF RINGFUSS.
+
+Turkisblau glasiert und schwarz bemalt. Im Spiegel Sternrosette und zentrale Blattrankenornamente. Auf dem Rand analoger Dekor.- Repariert. PERSIEN,BOCHARA,16.JAHRHUNDERT.Durchmesser 35 cm.
+
+- 31 PLATTE AUF RINGFUSS.
+
+Turkisblau glasiert und schwarz bemalt. Duinne Blattrankenornamente im Spiegel und auf dem Rand. PERSIEN,BOCHARA,16.JAHRHUNDERT.Durchmesser 34 cm.
+
+- 32 PLATTE AUF RINGFUSS.
+
+Turkisblau glasiert und schwarz bemalt. Bluiten und dunnlinige Blattranken.Repariert.
+
+PERSIEN,BOCHARA,16.JAHRHUNDERT.Durchmesser 35 cm.
+
+- 33 GROSSE VASE AUF RINGFUSS.
+
+Birnformig mit abgesetztem,kurzem,leicht ausladendem Hals.Weif glasiert und blau bemalt mit schwarzer Zeichnung. Auf der Leibung auf Schuppengrund ausgesparte Kartuschen mit Pflanzenstauden. Dariber und darunter ornamentierte Friese. Durch Einwirkung von Ol oder Fett nachgedunkelt. PERSIEN,18.JAHRHUNDERT.Hohe 32 cm,Durchmesser 28 cm.
+
+- 34 GROSSE VASE.
+
+Birnformig, der abgesetzte Hals mit Wulstrand. Weif glasiert und blau bemalt mit schwarzer Zeichnung. Auf der Leibung Pflanzen- und Blattrankenornamente zwischen ornamentierten Friesen. - Durch Einwirkung von Ol und Fett nachgedunkelt.
+
+PERSIEN,18. JAHRHUNDERT. Hohe 32 cm,Durchmesser 26 cm.
+
+- 35 KRUG AUF RINGFUSS
+
+Kugelige Form mit abgesetztem, hohem, konischem Hals. Turkisgrun glasiert und schwarz bemalt.Pflanzenfriese.- Henkel abgebrochen. PERSIEN,18.-19.JAHRHUNDERT. Hohe 15 cm.
+## 36 FLACHE SCHUSSEL AUF RINGFUSS.
+
+Turkisblau glasiert und schwarz bemalt. Im Spiegel drei Brandstitzennarben.
+
+PERSIEN,18. JAHRHUNDERT.Durchmesser 24,5 cm.
+
+-—Repariert.
+
+## 57 FLACHE SCHUSSEL AUF RINGFUSS.
+
+Turkisblau glasiert und schwarz bema lt. Im Spiegel Rosette,am Rand Palmetten.
+
+Drei Brandstitzennarben im Spiegel.
+
+PERSIEN,18. JAHRHUNDERT.Durchmesser 24,5 cm.
+
+## 38 FLIESENBILD.
+
+Aus vier Fliesen. Weif glasiert,blau, turkisblau und grun bemalt. Zentral angeordnete Blatt-,Bliten- und Rankenornamente.
+
+SYRIEN,DIARBEKIR,16.JAHRHUNDERT. Hohe 53 cm,Breite 53 cm.
+
+## 39 FLIESENBILD.
+
+Aus 25 Fliesen. Weif glasiert mit bun ter Bemalung.In der Mitte Rosenstaude mit Zwei Rehen. Darum Bluitenranken. In den vier Ecken das persische Lowenwappen.Borte.
+
+PERSIEN,18.-19.JAHRHUNDERT.Hohe 95 cm,Breite95 cm. Abb. Tafel V.
+
+## 40FLIESENBILD.
+
+Aus 15 Fliesen. Weif glasiert und bunt bemalt. Gartenterrasse mit Liebespaar, umgeben von Dienern und Musikanten. Borte.
+
+PERSIEN,KESHAN,18.-19. JAHRHUNDERT.Hohe 86cm,Breite 54 cm.
+
+Abb. Tafel V.
+
+## 41 FLIESENBILD.
+
+Aus 32 Fliesen.Bunt glasiert. Stilisierte Baume, Menschen- und Tierdarstellungen,am Rand in Kartuschen. Borte.
+
+PERSIEN. Hohe 150 cm,Breite 75 cm. Abb. Tafel V.
+
+## FLIESENBILD.
+
+Aus 60 Fliesen. Weif glasiert,mit gelber, blauer, gruner und manganfarbener Bemalung.Unten Vasen zwischen zwei Arkaden und Blattranken, dariber eine
+
+Moschee.
+
+MAROCCO.Hohe 167 cm,Breite 100 cm. Abb. Tafel V.
+
+## 43 GROSSE DECKELDOSE.
+
+Zylindrisch,unten und am Deckel abgeschragt. Grauer mittelharter Scherben mit schwarzgemalten Chrysantemenranken unter gelblichgrauer,fein gespriingelter Seladonglasur.
+
+KOREA,KORAIDYNASTIE,10.14.JAHRHUNDERT.
+
+Hohe 17,5 cm,Durchmesser 23,5 cm.
+
+Abb. Tafel III.
+
+Ausstellung: Chinesische Keramik,Frankfurt 1923. Katalog Nr. 237.
+
+## 42
+## PLASTIKEN
+
+## 44 ROMISCHE DECKELURNE
+
+Birnformig, mit eingezogenem Fuf und zwei geraden Griffhenkeln. Auf der Vorder- und Ruickseite Stierschadel, bzw. Vogel zwischen Olivenzweigen,in hohem Relief. Auf dem Deckel Olivenzweige und
+
+Marmor, Reste des Bleiverschlusses. Hohe mit Deckel 50 cm. AUGUSTAEISCH. Aus Sammlung Fritz v. Gans. Abb. Tafel III.
+
+Bluite als Knopf.
+
+## 45 STUCCO-RELIEF:MARIA MIT DEM KIND.
+
+Maria, in Halbfigur,nach rechts gewandt,halt auf einem Kissen das bekleidete Knablein. Sie wird flankiert von zwei reichprofilierten
+
+Kandelabern.
+
+Stucco, Relief, mit alter Fassung. Hohe 67 cm, Breite 46 cm. Alter vergoldeter Rahmen mit reliefiertem Ornament. ITALIEN,ANTONIO ROSSELLINO,1427-1478. Abb. Tafel VI.
+
+## 46 TONRELIEF:HEILIGE FAMILIE.
+
+In der Mitte Maria nach links gewandt,halt mit der Rechten das nackte Knablein, mit der Linken das Buch. Rechts unten der kleine Johannes. Links hinter ihr der heilige Joseph,rechts die heilige Anna. Ton, flaches Relief. Hohe 39 cm,Breite 24 cm. Abbildung Tafel VI.
+
+## 47
+
+## BRONZEBUSTE EINES ROMERS,
+
+stellt und deren Kopf nicht zur Statue gehort. Nach neuesten Forschungen stellt und Romische Portrats, Abbildung Tafel 279/280.
+
+den Kopf nach unten geneigt. Knapper faltiger Umhang. Bronze, dunkel patiniert,auf profiliertem Sockel, Hohe mit Sockel 53 cm. Die Darstellung geht zurick auf den Kopf der sogenannten Aristoteles-Statue im Palazzo Spada in Rom, die jedoch nicht Aristoteles, sondern Aristippos darder Kopf keinen Griechen, sondern einen Romer vom Ende der Republik oder aus dem Beginn des Kaiserreiches dar. Vergl. Brumm-Arndt, Griechische
+
+ITALIEN,16.JAHRHUNDERT. Abbildung Tafel VII.
+## 48 MARIA MIT DEM KIND,
+
+stehend. Sie halt auf der linken Hand das bekleidete Knablein, das sich ihr zuwendet und dessen linkes Handchen sie mit der Rechten faRt.
+
+Weicher Marmor, vollrund.
+
+SIZILIEN,verwandt der Madonna von Trapani.15.16. JAHRHUNDERT. Abb. Tafel VII.
+
+## MARMORBUSTE DES PAPSTES BENEDIKT XIII.(17241730),
+
+## 49
+
+den scharf geschnittenen Kopf nach links gewandt. Mit Mitze und hochgeknopftem Umhang mit Kapuze. Uber dem Umhang die Stola mit papstlichen Insignien, sowie den Wappen-Emblemen der Orsini zwischen Rankenornamenten,in feinem Relief. Weiber Marmor, auf profiliertem Sockel,Hohe 92 cm. ROM,PIETRO BRACCI,1700-1773,dem Bildhauer des Grabmals Benedikt XIII., sowie der Papste Clemens XIl.und Benedikt XIV. Abb.Tafel VIlI.
+
+## 50 SILBERBUSTE DES HL.ALOISIUS VON GONZAGA,
+
+Reliquienbuiste. Der jugendliche Kopf mit Tonsur. Uber dem hochgeschlossenen Gewand von Spitzen umsaumtes Chorhemd.Auf der Brust ovale Offnung fur die Reliquie.
+
+Silber, （unleserlicher Stempel),getrieben und ziseliert mit dunkler Patina,mit drei grinen Steinen besetzt.Hohe 60 cm.
+
+Auf profiliertem und vergoldetem Bronzesockel mit auf der Vorderseite aufgelegter Kartusche in Treibarbeit. Hohe 21 cm.
+
+Siehe Schnitgens Zeitschrift fuir christliche Kunst,34. Jahrgang 1921, Seite 28. ITALIEN,MITTE 17.JAHRHUNDERT. Abb. Tafel IX.
+
+## 51 TRAUERNDE MARIA,
+
+stehend, mit unter dem Kopftuch herabfallendem, gewelltem Haar.
+
+Die Hande vor der Brust gefaltet.
+
+Eichenholz, vollrund, mit alter Fassung, Gesicht und Hande ohne Fassung. Hohe 110 cm.
+
+FRANKREICH,2.HALFTE 14.JAHRHUNDERT. Abb.Tafel X.
+
+## 52 BUSTE EINES KONIGS
+
+mit Krone und Harnisch. Auf profiliertem Sockel, der von zwei liegenden Lowen getragen wird.
+
+Lindenholz,vollrund,polychrom.Hohe 54 cm.
+
+VIELLEICHT ARBEIT EINES BOHMISCHEN MEISTERS DES 15. JAHRHUNDERTS.
+## 53 STEHENDEHEILIGE,
+
+Lindenholz, ruckseitig gehohlt,mit alter Fassung. Hohe 84 cm. DEUTSCH,UM 1490.
+
+## 54 HEILIGE MIT BUCH,
+
+halt sie das Buch, mit der Rechten greift sie in das faltenreiche Obergewand.
+
+Lindenholz, ruckseitig gehohlt.Hohe 118 cm.
+
+SCHWABISCHER MEISTER AUS DEM KREIS MULTSCHERS,UM 1480.
+
+## 55 ELFENBEIN-MEDAILLON:
+
+Portrat-Buste einer Dame,im Profil nach rechts. Mit hoher Frisur,in reicher Tracht.
+
+Elfenbein,Reliefschnitzerei.Hohe 10 cm,Breite 7,5 cm.
+
+In altem,mit grinen Steinen besetztem,vergoldetem und ziseliertem Bronzerahmen,auf dessen Ruckseite Spiegel.
+
+FRANKREICH,UM 1700.
+
+Aus Sammlung Fritz v. Gans, s.Katalog Abb. Tafel 25.
+## GEMALDE
+
+## FRIEDRICH BRENTEL
+
+Lauingen 1580-1651 StraRburg
+
+- 56 Miniatur: Der Fischzug.
+
+Links vorn, unter einem Baum Ritter und Dame. In dem nach hinten ziehenden Wasser zahlreiche Fischer. Im Hintergrund eine Stadt. Bezeichnet links unten F. Brentel, rechts unten 1641. Gerahmte Miniatur. Hohe 812 cm,Breite 13 cm. Aus Sammlung Fritz v. Gans.
+
+## JAN BRUEGHEL DER ALTERE
+
+Brissel1568-1625 Antwerpen
+
+- 57 Landschaft mit Windmihle.
+
+Auf der Landstrafe drei Reisewagen und ein Karren,bei dem ein Mehlsack verladen wird.
+
+Bezeichnet rechts unten:BRUEGHEL. Schwarzer Rahmen.
+
+Ol auf Kupfer. Hohe 7 cm.Breite 914 cm. Aus Sammlung Fritz v. Gans.
+
+## BARTHOLOMAEUS (BARTHEL)BRUYN d.J.
+
+Koln,nachweisbar seit 1550-1610 Koln
+
+- 58 Bildnis eines Mannes.
+
+In mittleren Jahren,mit braunem Haar und Vollbart,etwas nach rechts gewandt. In schwarzer Kappe und Gewand mit breitem Pelzkragen. Die Rechte mit den Handschuhen ruht auf dem Tisch,die mit dem Wappenring geschmickte Linke faft in den Pelzkragen.Als Hintergrund gruner Vorhang. Halbfigur. Gegenstuick zu Nr. 59. Ol auf Eichenholz. Hohe 87 cm.Breite 30 cm. Schwarzer Rahmen. Abb.Tafel XI.
+- 59 Bildnis einer Dame.
+
+Etwas nach links gewandt. In weifer Haube und schwarzem, weif gefuittertem Gewand,das durch einen breiten,mit Perlen ornamental bestickten Gurtel mit goldener Schnalle zusammengehalten wird. Sie halt mit beiden Handen, von denen die Linke mit Ringen geschmickt ist, ein rot eingebundenes Buch. Als Hintergrund griner Vorhang. Halbfigur. Gegenstuck zu Nr. 58.
+
+Abb.Tafel XI.
+
+Ol auf Eichenholz. Hohe 87 cm. Breite 30 cm. Schwarzer Rahmen.
+
+2.Halfte des 16.Jahrhunderts.
+
+- 60 Bildnis der Christine von Lothringen, GrofherZogin von Toskana.
+
+Den Kopf leicht nach links gewandt. Volles braunes Haar, weiber breiter,von Spitzen gesaumter Radkragen, schwarzes Gewand. Grobe Perle als Ohrring,reicher Brustschmuck. Brustbild.
+
+Ol auf Kupferplatte, die auf der Ruckseite mit Landschaftsmotiven graviert ist und die gravierte Inschrift tragt: CRISTINA DI LORENO G.D.DI TOSCANA 1589. (1589 ist das Jahr ihrer Vermahlung mit Ferdinand I. von Toskana.) Hohe 2312 cm. Breite 19 cm.Alter Goldrahmen. Aus Sammlung Fritz von Gans. Abb. Tafel XII.
+
+## HOLLANDISCHER MEISTER DES 17.JAHRHUNDERTS aus der Schule Rembrandts
+
+- 61 Studienkopf eines jungen Mannes.
+
+Nach rechts gewandt. Mit Pelzmitze und rotem Gewand. Ol auf Holz. Hohe 27 cm. Breite 24 cm. Schwarzer Rahmen.
+
+## LOUIS MICHEL VAN LOO
+
+Toulon 1707-1771 Paris
+
+- 62 Bildnis eines Edelmannes.
+
+Den Kopf geradeaus, den Korper nach rechts gewandt. Weife Pericke, blaue,goldbestickte Weste,rote Samtjacke.Unter dem linken Arm die Muitze, die linke Hand in die Weste gesteckt. Halbfigur. Ol auf Leinwand. Hohe 78 cm.Breite 64 cm. In Goldrahmen. Abb.Tafel XIIl.
+## MICHIEL VAN MUSSCHER
+
+## Rotterdam 1645-1705 Amsterdam
+
+- 63 Selbstbildnis des Malers.
+
+Am runden Tisch den Zeichenstift auf einem weifen Blatt angesetzt. Die Linke greift in den weiten, pelzverbramten Mantel. Dreiviertelfigur. Rechts hinten eine Staffelei. Auf dem vom Tisch halb zurickgeschlagenen Teppich die Signatur: Michiel v. Muisscher pinx Anno
+
+1693.
+
+Die ganze Auffassung insbesondere die Blickrichtung weist darauf hin, daf es sich um ein vor dem Spiegel entstandenes Selbstbildnis handelt. Ol auf Leinwand.Hohe 42 cm.Breite 37 cm. Goldrahmen. Abb.Tafel XVII.
+
+## SIR JOSHUA REYNOLDS 1723 Plympton-1792 London
+
+- 64 Bildnis: Miss Charlotte Hunter.
+
+Den Kopf nach rechts gewandt. Braunes Haar unter dem weifen Kopftuch, dessen herabfallendes Ende die Linke vor die Brust halt. Rosa mit Hermelin verbramtes Gewand mit weitem Halsausschnitt. Halbfigur.
+
+Olivbrauner Hintergrund.
+
+Ol auf Leinwand.Hohe 74 cm.Breite 62 cm. Goldrahmen.
+
+Aus der Sammlung Fritz von Gans, Frankfurt a. M. Abb.Tafel XIV.
+
+## GEORGE ROMNEY
+
+zugeschrieben
+
+Dalton-le-Furness 1734-1802 Kendal
+
+- 65 Bildnis von Richard Cosway.
+
+Nach links gewandt. Blondes gepudertes Haar,Rock mit hochstehendem Kragen und weifem Jabot. Brustbild. Gemalt auf eine gravierte Kupferplatte mit Darstellung des Master Mure, nach Richard Cosway,graviert von Philip Dame. Unter dem Bildnis entsprechende Gravierung in Spiegelschrift. (Diese Kupferplatte ist nicht publiziert worden). Hohe 26 cm. Breite 19 cm. Alter Goldrahmen. Abb. Tafel XV.
+
+## ULMER MEISTER UM 1600
+
+- 66 Bildnis des Ulmer Stadtarztes Friedrich Fuchs (1532—1604).
+
+Etwas nach rechts gewandt. In Amtstracht. Halbfigur. Oben die Schrift: PUBLICAEULMENSIS MEDICUS ORDINARIUS AETATIS SUAE ANNO LXXI. Darunter sein Wappen und das Wappen der Ehinger, aus dessen Geschlecht seine Frau stammte.
+
+Ol auf Holz. Hohe 34 cm.Breite 24 cm. Schwarzer Rahmen. Abb. Tafel XVII.
+## DOMENICO VENEZIANO Venedig(?) 1400-1461 Florenz
+
+- 67 Kreuzigung Christi.
+
+In der Mitte Christus,rechts unter dem Kreuz der heilige Benedikt in weifem Gewand, links der heilige Lodovico von Tolosa (?) in hell-
+
+Holz, spitzgiebelig. Hohe 43 cm.Breite 25 cm. Goldrahmen.
+
+blauem Gewand. Goldgrund.Auf der Ruickseite rotes Siegel und die alte Beschriftung Domenico Veneziano.
+
+Aus dem Hause des Conti Boutourline stammend.
+
+Fasc. II-III.
+
+Ausfihrlich beschrieben von Alessandro Chiappelli in l'Arte, anno XxVIl,
+
+Ausstellung von Meisterwerken alter Malerei im Stadelschen Kunstinstitut 1925,
+
+Abb. Tafel XVI.
+
+Katalog Nr.256.
+
+## LOUIS M.DESIRE-LUCAS
+
+geb. in St. Pierre, lebte um 1900 in der Bretagne
+
+- 68 Hafenbild
+
+mit Segelschiffen und Boten.Auf dem sich nach hinten ziehenden Pier
+
+Fischer. Im Hintergrund im Nebel verschwommene Hafengebaude.
+
+Bezeichnet rechts unten: Desire-Lucas.
+
+Ol auf Leinwand. Hohe 68 cm. Breite 85 cm. Goldrahmen.
+
+## TSCHEN GU DSCHUNG.
+
+- 69 Chinesisches Gemalde: Katzen.
+
+Vor einem mit Ornamenten farbig bemalten Schirm sitzt auf einem
+
+Bezeichnet am linken Rand unten: Tschen Gu Dschung.
+
+Tisch eine weife Katze. Davor ein Tisch mit Geraten. Rechts davon ein Zierfelsen mit zwei Katzen. Sechs weitere, spielende und sich balgende Katzen am Boden. Bluihende Paonienzweige.
+
+Hohe 149 cm.Breite 104 cm.
+
+CHINA,MING-ZEIT.
+
+Abb. Tafel XVIII.
+## MOBEL UND KAMINE
+
+- 70 LEHNSTUHL.
+
+Nufbaum, gerade Form mit braunem (modernem) Lederbezug.
+
+ITALIEN,16.JAHRHUNDERT. Hohe 120 cm,Breite 73 cm.
+
+- 71 DESGLEICHEN. ITALIEN,16.JAHRHUNDERT.
+- 22 LEHNSTUHL.
+
+Nufbaum,mit hohem Riicken, geschweiftem FuRgestell und Armlehnen.Bezogen mit Stickerei in gros point.
+
+VLAMISCH, GEGEN 1700.Hohe 125 cm,Breite 65 cm. Abb.Tafel XXI.
+
+- 73 DESGLEICHEN.
+
+Bezogen mit Stickereien in gros und petit point. - Sitz repariert. VLAMISCH,GEGEN 1700. Abb. Tafel XXI.
+
+## 74REGENCE-SESSEL.
+
+NuRbaum. An den leicht geschwungenen Fiben, Zarge, Ruck-und Armlehnen Muschelwerk Rokaillen und Blumen in reicher Schnitzerei. Sitz und Rucken strohgeflochten.
+
+FRANZOSISCH,UM 1730.Hohe 89 cm,Breite 63 cm. Abb. Tafel XXI.
+
+## 75 KOMMODE.
+
+Geschweift. Mit zwei Schubladen. Band- und Blumenornamente in RosenholzMarketerie.Bronzebeschlage.Platte aus rotgeadertem Marmor.
+
+FRANZOSISCH,UM 1750. Hohe 90 cm,Breite 117 cm. Abb. Tafel XXII.
+
+- 76 TISCHMITMARMORPLATTE
+
+Mit vier geschweiften Beinen, auf allen vier Seiten geschnitzt mit Rokaillen, Muschelwerk,Blatt-und Blumenranken. Spatere Vergoldung. DEUTSCH,MITTE18.JAHRHUNDERT.Hohe77cm,Breite 128cm,Tiefe65cm.
+
+- 22 HARFE.
+
+Krone und Fuf mit Akanthus und Guirlanden in reicher Schnitzerei.Resonanzboden bemalt und bezeichnet:RENAULT &amp; CHTELAIN RUE DE BRACQUE.
+
+Analoger Stempel an der Krone.
+
+FRANZOSISCH,LOUIS XVI-Zeit. Hohe 160 cm.
+- 78 HOHE STANDUHR.
+
+NuRbaum,eingelegt. Gerade Form. DEUTSCH,UM 1780.Hohe 225 cm.
+
+- 62 GROSSER SCHRANK.
+
+Nufbaum furniert. Mit zwei Flugelturen, im Sockel zwei Schubladen. Architektonische Gliederung, die Kapitale der Saulen und Verzierungen in Schnitzerei. Bronzebeschlage und Bronzegriffe. Stahlschlof mit gravierten Bronzeauflagen,doppelt verschliefbar. SUDDEUTSCH,ANFANG 18.JAHRHUNDERT. Hohe 240 cm,Breite 225 cm,Tiefe 80 cm. Abb. Tafel XXIII.
+
+- 80 SCHRANK.
+
+NuRbaum furniert, mit hellen Holzern eingelegt. Zwei Flugeltiren, auf diesen eingelegt die Jahrzahl 1791. DEUTSCH, UM 1791. Hohe 215 cm,Breite 180 cm,Tiefe 80 cm.
+
+- 81 KIRCHENSTUHL.
+
+Eichenholz geschnitzt. Uber dem truhenartigen Sitz der von Saulen und Ruckwand getragene Oberbau. Alte Pilasterfiguren und alte Fuillungen mit biblischen Darstellungen in Reliefschnitzerei. Hohe 205 cm,Breite 155 cm,Tiefe 65 cm.
+
+- 82 2ZWEIFLUGELIGE TURE
+
+aus vergoldeter und ziselierter Bronze.
+
+Auf den je drei Fullungen der beiden Fluigel aufsteigendes Ranken- und Vasenornament in erhabener Lackmalerei,unterbrochen von schwarzgrundigen Reserven mit fein reliefierten Darstellun gen. Mahagoni und Zitronenholz. Turgriff
+
+ENGLAND,UM 1800. Hohe 250 cm.Breite je Fluigel 61 cm. Abb. Tafel XXIII.
+
+- 83 DESGLEICHEN.
+
+Mahagoni und spatere Bronzebeschlage.
+
+Ruickseite der vorhergehenden.
+
+- 84 KLEINER GUERIDON.
+
+Fein ziselierte, teils feuervergoldete, teils brunierte Bronze. Fubplatte und eingelassene Tischplatte aus weifem Marmor. Der Fuf reich gegliedert, mit figirlichem und ornamentalem Schmuck. Auf der Tischplatte Grisaillebild:Faun mit Nymphe,in deren Bronzeeinfassung Kameen. FRANZOSISCH ODER ITALIENISCH,1800-1810. Hohe 76 cm.
+
+Abb. Tafel XXII.
+
+Aus Sammlung Fritz v. Gans.
+
+- 85 EMPIRE-THERMOMETER
+
+mit Barometer. Mahagoni mit Auflagen und Montierung in ziselierter und vergoldeter Bronze. Auf der Barometerblatt die Inschrift: Bordeur Sceur de Car- cano, Place Dauphine Nr. 2 a Paris. PARIS,UM 1810. Hohe 118 cm.
+## 86 EMPIRE-SAULE,
+
+gruin geaderter Marmor. Die Basis der Saule in vergoldeter Bronze-Montierung, das Akanthuskapital aus vergoldeter und ziselierter Bronze. PARIS,UM 1810.Hohe 126.
+
+Abb.Tafel XXI.
+
+## EMPIRE-SITZGARNITUR,
+
+## 87
+
+bestehend aus Sofa,Bergere und 7 Sessel. Mahagoni, geschnitzt, mit Bronzeauf lagen. Gruiner moderner Bezug. FRANZOSISCH,UM 1810. Hohe 94 cm, Breite des Sofas 185 cm, Breite des Sessels 62 cm. Abb. Tafel XxIl.
+
+## 88 GOTISCHER KAMIN.
+
+Aus Sandstein. Rund umlaufender, breiter, tief eingeschnittener Blattfries. Auf der Frontseite,in der Mitte,Wappen mit drei Lilien. Die Kapitale der flankierenden Saulen mit Halbfiguren zwischen gotischen Blattern. GuBeiserne
+
+Kaminplatten mit reliefierten Ornamenten.
+
+FRANKREICH,ENDE 15.JAHRHUNDERT.
+
+Hohe 160 cm,Breite 200 cm,Tiefe 65 cm,lichte Hohe 124 cm.
+
+Abb. Tafel XX.
+
+## 89 ROKOKKO-KAMIN.
+
+Gelblicher Marmor. Mit Muschel,Rosett- und Blattornament in hohem Relief und reicher Profilierung. GuBeiserne Kaminplatten mit reliefierten Ornamenten.
+
+FRANKREICH,UM 1750.
+
+Hohe 110 cm,Breite 140 cm,Tiefe 41 cm,lichte Hohe 87 cm. Abb. Tafel XX.
+## WANDTEPPICHE UND TEXTILIEN
+
+## 90 WANDTEPPICH
+
+mit allegorischer Darstellung: Lebensweg des Menschen zwischen Schuld und Reue. In der unteren Bildhalfte sieht man in einem Kreis reichgeschmickter Frauen den Jungling unentschlossen zwischen den Verfihrungen des Lasters und den Mahnungen seines Gewissens, dessen Personifikation,als Conscientia bezeichnet,mit der Culpa zusammen seine standige Begleitung bildet. Die Scene oben links vom thronenden Salvator zeigt den Menschen bei irdischen Freuden, bedient von der Culpa und von der Justitia mit gezicktem Schwert bedroht. Rechts oben wird er betend als Peccator von Conscientia dem Erloser zugefuhrt. Ein ihnlicher Teppich im bayrischen Staatsbesitz (Siehe Goebel, Wandteppiche I,Abb.89).
+
+BRUSSEL,UM 1510.Hohe3,55cm,Breite3,20cm.
+
+Abb.Tafel I.
+
+Besprochen von Geheimrat von Falke im Pantheon,Aprilheft 1929.
+
+- GROSSES CHINESISCHES WIRKBILD:TAOSTISCHER HIMMEL. Zahlreiche Gruppen von Gottern und Heiligen,umgeben von Gefolge, in phan-
+- 91
+
+tastischer Landschaft. Farbig auf rotem Grund. Gobelinwirkerei (Kosse) in Seide.
+
+CHINA,18. JAHRHUNDERT. Hohe 182cm,Breite 108cm. Abb.Tafel XIX.
+
+- VIER KOSSE-STREIFENALSKAMINSCHIRMMONTIERT. Die Streifen je mit drei vasenformigen Aussparungen in bunten Farben und Gold
+
+## 92
+
+auf blauem Grund und eingefaRt von schmaler rotgrundiger Borte. In den Aussparungen Kampfscenen. Gobelinwirkerei Kosse) in Seide. CHINA,18.JAHRHUNDERT,GroRe je Streifen 105X28 cm.
+
+- 932 ZWEI KOSSE-STREIFEN ALS KAMINSCHIRM MONTIERT,
+
+mit Kriegerdarstellungen in bunten Farben auf goldenem Grund, eingefaRt von schmaler blaugrundiger Borte. Gobelinwirkerei (Kosse) in Seide. CHINA,18. JAHRHUNDERT. GroRe je Streifen 106X27 cm.
+
+## 94 FUNF GROSSE BAHNEN SKUTARI-SAMT
+
+als Wandschirm montiert. Das Ornament in geschnittenem Samt in vorwiegend Rot und etwas Blau auf cremefarbenem Grund. Hohe je Bahn 210 cm,Breite 59 cm.
+## TEPPICHE
+
+95 CHINESISCHER TEPPICH. Geknipft. Zentral angeordnetes Bliten-und Blattrankenmuster in Creme,Hellund Dunkelblau, sowie Blabrot auf gelbem Grund. Zweifache,doppelt eingefaRte Maanderborte, die innere rot, die aufere blau auf gelbem Grund. UM1700.180X130cm. Abb.Tafel XXIV.
+
+- 96 CHINESISCHER TEPPICH. Geknipft.Funf gleichlaufende Reihen der sogenannten kostlichen Dinge in Gelb, Hellrot und Hellblau auf tiefblauem Grund.Lachsfarbene Borte mit stilisierten bluhenden Zweigen, eingerahmt von Maanderborte und blauem Rand. UM 1800.230X170cm. Abb.Tafel XXIV.
+
+97 GROSSER SAMARKAND-TEPPICH,OSTTURKESTANISCH. Seide gekniipft. In der Mitte kleines rundes Medaillon mit Schriftzeichen auf weifen,roten und hellbraunen Feldern.Das Feld mit Diagonal laufendem Flechtmuster in Hellblau auf Rot,eingefaRt von stilisierten Wellenmotiven. Breite, reich gegliederte Borte mit Baumen,Rosetten,Ranken und Maanderornament. 18.JAHRHUNDERT.340X180 cm. Abb.Tafel XXV.
+
+98BESCHIR-TEPPICH,ZENTRALASIATISCH(BOCHARISCH). Geknupft. Fuinf Rhomben mit stilisierten Blumen auf blauem,rot getupftem Grund. Funffache Borte mit geometrischen und stilisierten Pflanzenornamenten. 300X140cm.
+
+- 99
+
+GIORDES-GEBETTEPPICH,KLEINASIATISCH. Geknipft. Grines Nischenfeld, dariber dreireihige stilisierte Blatt-und Rosettenornamente in Rot, Weif und Braun auf blauem, bzw. braunem Grund. Reichgegliederte Borte. 18.JAHRHUNDERT.200X130 cm. Abb.Tafel XXVI.
+
+100KIRMAN-TEPPICH,SUDOSTPERSISCH. Geknipft.Achteckiges Mittelmedaillon, darum entsprechend zentrisch gegliedertes Feld mit Arabesken und stilisierten Pflanzenmotiven in Rot,Braun und Blau auf abwechselnd cremefarbenem und blauem Grund. Funffache Borte. 175X150cm. Abb.Tafel XXVI.
+- 101 KIRMAN-TEPPICH,SUDOSTPERSISCH. Geknuipft. Achteckiges, gegliedertes Mittelmedaillon mit cremefarbenem,bzw. blauem Grund, darum analog gegliedertes cremefarbenes Feld,hellbraune Eckfelder. Zentral angeordnete stilisierte Pflanzen-,hauptsachlich Palmettenornamente in Hellrot,Braun,Hell- und Dunkelblau. Dreifach gegliederte Borte.
+- 102
+
+220X130cm.
+
+- HERAT-GALERIE,OSTPERSISCH Geknipft.Arabesken und Palmettenornamente in Rot,Gelb,Hellblau und Weif auf blauem Grund. Rotgrundige Borte mit analogem Dekor. 545X110cm.
+
+103 KESCHAN-TEPPICH,MITTELPERSISCH. Geknipft. Achtzackiges blaugrundiges Mittelmedaillon, umgeben von cremefarbenem Feld,gelbgrundige Eckfelder. Zentral angeordnete stilisierte Pflanzenornamente.Dreifache, creme-grundige Borte. 200X125cm. Abb.Tafel XXVI.
+
+- 104 GROSSER TABRIS,PERSISCH.
+
+Auf tiefblauem Grund Mittelmedai llon mit bunten Blattarabesken auf hellBegleitrandern.
+
+blauem,bzw.rotem Grund.Analoge Eckfelder. Fuinfgliedrige breite Borte mit 900×500cm.
+
+- 105
+
+5HAMADAN-GALERIE,MITTELPERSISCH. Geknipft. Geometrisches Ornament mit stilisierten Pflanzenmotiven und Rosetten in Blau,Rot,Weif auf hellbraunem Grund. Dreifache Borte. Auf dem hellbraunen Rand stilisierte,bunte Palmetten. 500X100cm.
+
+106HAMADAN-GALERIE,MITTELPERSICH. Geknupft. Geometrisches Ornament mit stilisierten Blumen und Rosetten in Blau,Rot,Grun und Weif auf braunem Grund. Rotgrundige, doppelgesaumte Borte. Breiter brauner Rand. 535X105cm.
+
+107HAMADAN-GALERIE,MITTELPERSISCH. Geknipft. Geometrisches Ornament mit stilisierten Blumen und Rosetten in Rot,Blau, Grin und Weif auf braunem Grund.Dreifache Borte.Breiter brauner Rand. 590X105cm.
+
+- 108
+
+## HAMADAN-GALERIE,MITTELPERSISCH.
+
+Geknipft. Geometrisches Ornament mit symmetrischem Blumenmuster und Rosetten in Rot,Blau und Weif auf hellbraunem Grund.Dreifache Borte.Schmaler. brauner Rand.
+
+510X100cm.
+- Geknupft. Parallel laufende Reihen von rotgrundigen stilisierten Palmetten auf creme-farbenem Grund. Siebenfache Borte, die mittlere mit Tierornamenten auf creme-farbenem Grund. 390X180cm.
+- 110 BIDJAR-TEPPICH, NORDPERSISCH. Geknipft.Weifgrundiges,rhombisches Mittelmedaillon,umgeben von rotgrundigem Rhombenfeld,die Eckfelder blaugrundig. Reiche Arabeskenornamentik mit stilisierten Blumen in bunten Farben. Fuinffache, breite Borte.
+
+450X280cm.
+
+Geknupft. Parallel laufende, gegeneinander versetzte Reihen von stilisierten Baumen in vorwiegend Rot auf blauem Grund. Dreifache Borte, die mittlere
+
+- 580X100cm.
+- 111 PERSISCHE GALERIE. gruingrundig.
+- 112BALKAN-BRUCKE. Gewirkt. Im Mittelfeld zwei Rhomben mit rotem Kreuz auf weibem, schwarz eingefaRtem Grund. WeiBe, schwarz eingefaRte Borte. 165X150cm.
+## INKUNABELN
+
+UND
+
+## EINBANDEDES16.-18.JAHRHUNDERTS
+
+- reichem Messingbeschlag.Einbd. d. Zt. SchlieBen fehlen.Folio. (Nuirnberg 1491). Hain 3540 pars 4.271 pp.
+
+Vorrede datiert 1491,Nirnberg.Mit schonen ausgemalten Initialen.
+
+- am Ende: Explicit postilla Nicolai de Lyra sup. vetus test. cum expositionibus Britonis ... additionibus ed.a. M. Doringk.ord. Minorum.Erstes Blatt aufgezogen,am Anfang stark wasser-
+- fleckig. Mit einigen Holzschnitten. Nicht bei Hain u. Copinger.
+- 115 AESOP.Les Fables dEsope Phrygien, mises en Ryme Francoise.Avec la vie dudit Esope par M. Antoine du Moulin.A Lyon par Jean de Tournes,1551.16°. fig.223 pp.(Brunet 94 f.:Les beaux exemplaires de cette edition sont recherches et ne se trouvent que difficilement.) Tournes. 1549.127 pp. Am Schluf scheinen einigeSeiten zu fehlen. Beigeb.ein defectes Ex.von A.Alciati Emblematum libri 2. Die ersten 2 Seiten fehlen. 143 pp.
+- Das Ganze in einem gepreBten Schweinslederband.16°
+- 116 AQUINO THOMAS, Tertium seript. sententiar.Lugduni,impens.J.et Fr.de Giunta. 1520.8° der ein Kolner Meister war. Vgl. South Kennington lat. II.,269 (gibt das Zeichen verschieden vom vorliegenden Beispiel).
+- 117 ARRIGONI, G.B,Rime, Padua,D.Rizzardi,1604.12°. Schwarzer Maroquinband mit feinstem
+- Blattrankenmuster.
+- 118 BUDAEUS.G.,Annotationes in 24 pandectar.libros.Lugduni,S.Gryphius.1551. Schweinslederzeichnet (im obern Mittelstick und im untern mit Datum (1561?) (VM).Besitzerinitial und Jahreszahl 1565.
+- 119 CALINUS,C. Joseph patrichiarcha Minch:1760. 4°.Brauner eingelegter Ganzlederbd.mit reicher Verzierung.Mittelstuick Stern.4°
+- COCCIUS, A. Sabellici opera omnia Basel 1560.Folio 1155 pp.Pergtschale m. Superexlibris
+- 120 (Wappen J. A. R.) Aus d. Bibliothek d. Grafen v.Nostiz m.eingekl. Ex libris.
+- 121 CONFESSIONSSCHRIFT.Etlichen Predicanten in den Herrschaften Graitz, Geraw,Schonburg O.O. Dr.u.J. (Leipzig 1567 ?) kl,4°. Weifer Kalbspergamentband mit Vergoldung und Blindpressung.
+- 122 FAERNUS.G.Fabulae (cum fig.) Antwerp. ex offic Chr.Plantini 1567.12°.Brauner Lederband mit Blindpressung.
+- 123
+- HESYCHIUS Dictionarium.Venedig Aldus 1514.Folio. GepreRter Schweinslederbd.mit SchlieRen. Am Anfang und Schluf mit Druckerzeichen Aldus.
+- 124 MAJOR,G.,Vitae patrum Witebergae, haeredes L. Schwenck,1578.kl. 8°. Brauner Kalblederband mit Vergoldung und Blindpressung.
+- 125 NICIUS.J. Pinacotheca imaginum illustrium doctrinae. Coln 1645.Roter Ganzmaroquinband mit reicher Seitenverzierung, Lilien in der Mitte ein Medaillon mit Kreuz.8°
+- 126
+- PETRARCH von Hulff u.Rath in allen anligen.Frankf. Ch.Egenolff 1551. GepreRt Gzldbd.folio 6unn.u.222 num. Bll. Uber 250 Holzschnitte v.Hans Weiditz, dem Petrarcameister.Ricken des Einbandes beschadigt.
+- NOVUM TESTAMENTUM (graece).Antwerpiae ex offic.Christ.Plantini,1574.12° Brauner Leder-
+- 127 band mit Blindpressung und Vergoldung (schwarz).
+- THEOLOGIA.Theo-logia,Teutsch./..(Augsburg 1546?) 12°. Brauner Kalblederband mit
+- 128 Blindpressung.
+- VICTORIUS P.Variarum lectionum libri XXV.Lugd. J. Temporal 1554.Brauner Lederband d. Zeit mit eingepreBten Heiligendarstellungen auf Vor- und Hinterdeckel.
+- 130 XENOPHON. In hoc volumine continentur in / frascripta opera Xenophontis./ Paedia Persarun wohl was die Komposition anbetrifft,als auch in Bezug auf die Erhaltung aufergewohnlich schones Stick.Deutschland ca.1510.
+- 131 BRAUNE gepreRte Ganzlederbande des 16.Jahrhunderts.8°und 4°1.Psalmen.Coln 1532.Mit Titelholzschnitt. SchluBblatter fehlen.(Aus d. Carthause in Buxheim.). 2.Vulteus.2 Werke.Paris 1538.3.Caesar Opera.Paris 1539.Mit Holzschnitten.4.Dion Delle guerre Romane.Venedig 1542 (wurmst.).5.Epictet.Enchiridion.Basel 1561.6.Homer Odyssea S.1.1567.7. Camerarius.J.Homiliae Leipz.1573.8.Aristoteles.de Moribus.Paris 15764.9.Weigel,J.de hodierno misniae statu beato et felice. Jena 1597.10.Plutarch Lyon 1566.
+- 1328 EINBANDE 17.und 18. Jahrhundert.Leder und Pergament (3 davon mit Wappen）.1. Artis exorcisticae Vened.1600.2.Ausleg.d.alt.Testaments.Lauing.1606.3.Paradiso spirituale.1607. 4.Teresa de Jesu Teil IIl.Antwerp.1630.5.Augustinus Meditationes Coln 1639. 6.Urania victrix Minch.1663. 7. The book of Common prayer 1689. 8.Perry J. La grande Russie Haag 1717.
+- GEPRESSTE Schweinslederbande des 16. Jahrhunderts. 8°und 4°.3 Bde. 1. Cicero Lyon 1572. 2.Tractatus commerciorum Coln 1577.3. Lipsius de recta pronunciatione latinae ling.Antw.
+- 133 Plantin1599.
+
+## BUCHER,KATALOGE,MAPPENWERKE
+
+- 134 ANDRAE WALTER.Farbige Keramik aus Assur.1 Bd. Scarabaeus-Verlag Berlin 1923.
+- graphische Reproduktion. Herausgegeben durch Scato de Vries.Vorwort von Dr. Sal.Morpurgo. Geschichte und seine Kunst.Ubersetzung von Kurt Freise. 3 Teile. Leiden und Leipzig,1908, 1910,1911.
+- 136 THE BURLINGTON MAGAZIN. 1904 bis 1913 kompl. 1903 (9 Hefte),1914 (5 Hefte).
+- LE COQA.von.Die Buddhistische Spatantike in Mittelasien.Erster Teil:Die Plastik. Verlag
+- 137 Dietrich Reimer,Ernst Vehsen,Berlin.
+- GALLERIA DEGLI UFFIZI,7 DISEGNI DELLA R.Disegni di Tiziano Vecello,Tintoretto.
+- 138 1Mappe mit 25 Tafeln.Verlag Leo S. Olschki,Firenze 1912.
+- 139 GARTENSCHONHEIT,EINE ZEITSCHRIFT mit Bildern.1 Buch und 32 Hefte.
+- 140 HANDZEICHNUNGEN alter Meister der Hollandischen und Vlamischen Schule im konigl. Kupferstichkabinett zu Amsterdam.Herausgegeben von E. W.Moes,Direktor.I.Mappe 150,II.Mappe 51-100.Marz1927.
+- 141
+- KATALOG:DIE SAMMLUNG OSCAR HULDSCHINSKY. Paul Cassirer,Hugo Helbing. Berlin 1928.
+- 142
+- MAREES-GESELLSCHAFT,DER,XIX Druck: Constantin Guys,Weltliche Legenden. Finfzehn Tuschzeichnungen und Aquarelle.Text von J. Meier-Graefe.
+- 143
+- MAYER,ALEXANDER.Die Genreplastik an Peter Vischers Sebaldus Grab.1 Bd.Insel-Verlag 1911.
+- 144 K.MUSEEN ZU BERLIN.Zeichnungen:Alter Meister.Erster Band:Italien-Frankreich-Spanien. Zweiter Band:Deutschland-Niederlande.G. Grothe'sche Verlagsbuchhandlung,Berlin 1910.
+- 145
+- PSST! Illustrierte Wochenschrift. Images par Forain. Carau d'ache. Libraire Plon. Premiere Annee 1898/99. Seconde Annee 1899.
+- 146
+- RAPHAELS ZEICHNUNGEN,Herausg. von O.Fischel. II. Abteilung:mit Text und 49 Tafeln in Mappe 1922.
+- 147 RENARD, EDMUND.Das neue SchloR zu Benrath.1 Bd. Insel-Verlag 1913.
+- RIVIERE, HENRI, La ceramique dans lart Musulman.2 Bde. mit 100 farb. Tafeln. Paris 1923.
+- 148 Exemplar No.115.
+- RIVIERE,HENRI,La ceramique dans lart d’extreme-Orient.2 Bde.162 farbige Tafeln.Paris 1923.
+- 149 Exemplar No. 257.
+- 150
+- SCHWABE,KURD,MAJOR.Die deutschen Kolonien.2 Bde.Verlag Weller &amp; Huttich,Berlin. (10Hefte.)
+- SPIELMANN, M. H. 10o Popular Pictures facsimile Reproductions ... Cassell and Compagnie,
+- 151 Limited 1910.1Bd.
+- 152 COLLECTION STROGANOFF,Pollak,Ludwig et Hunoz,Antonio.Pieces de Choix de
+- la Collection du Comte Gregoire Stroganoff a Rome.Bde I und II.
+- 153
+- WEISSER,L. Bilder-Atlas zur Weltgeschichte nebst 2 Textbande.Stuttgart,Nitzschke,1860,1868.
+- 154 GroBere Anzahl Versteigerungskataloge und Ausstellungskataloge.
+
+## EINRICHTUNGSGEGENSTANDE
+
+- 155 STEHLAMPE,Bronze vergoldet. Seidenschirm. Hohe 75 cm.
+- 156 TISCH IM LOUIS XVI-STIL. WeiR und grin lackiert mit Schnitzerei. Platte, stoffbezogen. 72×95×95cm.
+- 157
+- NIEDRIGER TISCH auf Saulenfuf mit runder Marmorplatte. Hohe 54 cm,Durchmesser 66 cm.
+- 158 ZWEI KLAPPSCHREIBTISCHE,Mahagoni. Scherenformiges Gestell. Die geoffnete Platte mit Einrichtung in Leder. Hohe 72 cm,Platte 55X55 cm.
+- 159 SESSEL,Hepplewhite,Mahagoni mit Medaillonricken und Polstersitz. 100X62 cm.
+- 160 SECHS SESSEL, Hepplewhite, Mahagoni geschnitzt mit Medaillonricken und Polstersitz.
+- 161
+- 98×61,5cm
+- ZWEI STUHLE. Sheratonstil. Birke mit Intarsien. Auf dem Sitz alter Taftbezug. 89X38 cm.
+- 162 SESSEL, Sheratonstil. Helles Holz mit Bemalung. Sitz mit Strohgeflecht. 96X53 cm.
+- 163 ZWEI BANKE.Sheraton-Stil. Schlankes Gestell in Buche mit durchbrochenen Armlehnen.Bema-
+- lung.Sitz mit Strohgeflecht.83X103 cm.
+- KREDENZ,Sheraton-Stil. Zitronenholz mit Intarsien und gemalten Darstellungen. Zweituirig.
+- 164 Schublade.93,5X99,5X42cm.
+- 165 KLAPPTISCH, Sheraton-Stil. Birke mit Einlagen und Malerei. 71,5X87X50 cm.
+- 166 GROSSE BANK, Sheraton-Stil. Mahagoni Schlankes Gestell, Rucklehne mit Sprossen. Strohsitz mit Kissen.92X230 cm.
+- HALBRUNDER KONSOLTISCH (demie lune), Sheraton- Stil. Zitronenholz mit Intarsien. Roll-
+- 291 verschluf.77,5X78X41cm.
+- 168 AUFSATZSCHRANK, Sheraton-Stil. Birke.Zweigeschossig mit Glastiren und gemalten Leisten.
+- 169
+- PULTTISCH, Sheraton-Stil. Birke mit Einlagen. Schrage, aufklappbare Platte. Innen eingerichtet 78×55,5×49cm.
+- 170 BANK, Queen Anne-Stil. Nubaum, geschweiftes Gestell, geschnitzt und eingelegt.Einlegsitz.
+- 106X128cm.
+- 171 GROSSER BIBLIOTHEKSTISCH, Queen Anne-Stil. Mahagoni,reich geschnitzt. Platte mit Lederbezug.80X252X125cm.
+- 172 GROSSER BIBLIOTHEKSTISCH. Empire-Stil. Mahagoni mit Bronzebeschlagen.Unten fir Bicher eingerichtet. Platte mit Lederbezug.78X263 cm.
+- BUCHERSCHRANK, Chippendale-Stil. Mahagoni, dreiteilig,mit Glastuiren. Reich geschnitztem 173 Sockelund Sims. 223X260X49 cm.
+- 174 OVALER TISCH,zum Ausziehen.Mahagoni,mit geschweiften Fifen. 72.5X132X98 cm.
+- 175 PARAVANT, Mahagoni. Rechteckiger Rahmen mit Stoffeinlage und dariber Glasfillung. Hohe191cm.
+- 176 PARAVANT, dreiteilig. Geschnitztes Holzgestell mit Brokatbezug. Hohe 172 cm.
+- 177 KLEINER BOUDOIRLUSTER in Form eines Korbchens mit Blumen. Vergoldete und ziselierte Bronze, Porzellanblumen. Sechsarmig, elektr isch eingerichtet. Hohe 7S cm.
+- 178 ZWEI WANDARME,in der Art des Listers. Hohe 22 cm.
+- 179 ZWEI FEUERBOCKE,Bronze vergoldet.25X13X25 cm.
+- 180 KLEINES RUNDES CHINESISCHES TISCHCHEN mit geschweiftem Bein und durchbrochener Schnitzarbeit.Perlinuttereinlage. Hartes Holz.Hohe 72 cm.
+- 181 SCHREIBTISCHSESSEL,Louis XV-Stil. NuRbaum mit reicher Schnitzerei. Diagonal gestellte Beine.Sitz einfach,Rucken doppelt strohgeflochten.88X61 cm.
+- 182 ZWEI SESSEL UND ZWEI STUHLE,Hepplewhite.Hell Mahagoni mit herzformigem Ricken und gepolstertem Sitz.93X60bzw.57cm.
+## TAFELN

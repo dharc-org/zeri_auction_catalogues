@@ -1,0 +1,339 @@
+## CONDITIONS DE LA VENTE
+
+Elle sera faite au comptant.
+
+Les adjudicataires paieront dix pour cent en sus des encheres.
+
+L'exposition mettant le public a meme de se rendre compte de l'etat et de la nature des objets, aucune reclamation ne sera admise une fois l'adjudication prononcee.
+<!-- image -->
+
+## DESIGNATION
+
+## ESTAMPES DU XVIII SIECLE
+
+EN NOIR ET EN COULEURS
+
+BAUDOUIN (D'apres P.-A.)
+
+—Le Coucher de la Mariee.
+
+Gravure en noir, par MoREAU LE JEUNE et SIMoNET.
+
+Cadre en baguettes Louis XVI, de bois sculpte et
+
+Tres belle epreuve.Bonne marge. dore.
+
+—Jusque dans la moindre chose.
+
+Tres belle epreuve, grande marge.
+
+## BONNET(L.)
+
+- 3— Mademoiselle Adeline Colombe.
+- Mademoiselle Desbrosses.
+
+Deux petits portraits, de forme ronde,imprimes en couleurs, petite marge. Les titres decoupes ont éteé
+
+Actrices de la Comedie italienne. colles au revers des cadres. Rares.
+
+Tete dessinee par J.-B.Huet,peintre du Roi. Gravure a plusieurs crayons. Marge.
+
+2
+- I
+
+## BONNET (L.)
+
+- 5— Tete de Femme, d'apres BoucHER. Gravure a la maniere du pastel. Superbe epreuve. Marge.
+- Tete de Femme, de profil a gauche, d’apres
+- 一 BoUCHER.
+
+Gravure a plusieurs crayons.
+
+- -La Laueuse,d'apres BoucHER. Gravure a la sanguine, marge. Cadre en baguettes
+- Louis XVI, bois sculpte peint.
+- Venus et l'Amour,d'apres BoucHER (?). Gravure a plusieurs crayons, dans la maniere de BONNET.
+- 6 Annette et Lubin.
+- L'Heureue divorce.
+
+Deux gravures imprimees en couleurs, faisant pendants, dans la maniere de BoNNET. Marge.
+
+## BOUCHER (D'apres F.)
+
+- 10-Le Plaisir de la peche,par BeaUvARLET.
+- Bonne epreuve.
+
+## CHEVAUX (D'apres)
+
+- La Bonne Nourrice, par Pirou. Belle epreuve imprimee en couleurs, petite marge. Cadre ancien en bois dore.
+- 12
+
+## CIPRIANI (D'apres)
+
+- Venus au bain, par BaRToLozzI.
+- Belle epreuve imprimee en couleurs. Marge.
+- 13— Ariane.
+- Hebe.
+
+Deux petites gravures ovales faisant pendants. Tres belles epreuves imprimees en couleurs. Petite marge.
+
+## CIVIL (Chez)
+
+- 14—L'Amant entreprenant.
+- La Chercheuse de puce.
+
+Deux gravures gracieuses faisant pendants, de forme ronde, imprimees en couleurs. Marge. Rares.
+
+## COIFFURES
+
+- 15—Deux petites gravures sur les coiffures et modes, provenant d'un almanach du xvine siecle.Epreuves coloriees.
+
+## DEBUCOURT(P.-L.)
+
+- 16—Les Courses du matin, ou la porte d'un riche.
+- Tres belle epreuve coloriee. Grande marge.
+- 17 一
+- La Promenade publique,1792.
+
+La piece capitale du maitre. Superbe epreuve imprimee en couleurs. Sans marge et rognee en haut. Cadre en baguettes Louis XVI, de bois sculpte et dore.
+- 18
+
+## DE GOUY
+
+-Chu..u...u, d'apres ScHALL Reduction en petit ovale de l'estampe de CHapoNNIER:l.a Soubretle officieuse. Superbe epreuve imprimee en couleurs. Cadre en cuivre.
+
+- 19
+- —La Meme estampe. Tres belle epreuve imprimee en couleurs.
+
+## DEMARTEAU (G.)
+
+- 20 — Tete d’etude, d’apres BoucHER (No 149).
+- Gravure en couleurs a plusieurs crayons.
+- 21—Tete detude, d'apres BoucHER (N 15l). Gravure en couleurs a plusieurs crayons.
+- 22-
+- Tete de Femme, d'apres BoucHER (No 155). Gravure en couleurs a plusieurs crayons.
+- 23— Tete de Femme, d'apres BoucHEr (No 187). Gravure en couleurs a plusieurs crayons.
+- 21-
+- (No188). Gravure en couleurs a plusieurs crayons.
+- Tete de Jeune Homme, d'apres BoucHER
+- 25— Tete de Femme, d'apres BoucHER (No 250).
+- Gravure en couleurs a plusieurs crayons.
+- 26—
+- 30 一
+
+## DEMARTEAU (G.)
+
+- Sujets de Bacchanales.
+- Deux pendants, d'apres Le BaRBier l'aine (Nos 625626). Deux gravures en couleurs a plusieurs crayons. Grande marge.
+- Venus et l'Amour.
+- Le Bain de Diane.
+
+Deux gravures faisant pendants, en couleurs a plusieurs crayons. Decoupees en ovale.
+
+## DUPLESSI-BERTAUX
+
+Fait historique du 5 messidor an X-1802. Charmante petite gravure a l'eau-forte avec la lé-
+
+- 28 —La Bienfaisance ingenieuse. gende. Marge.
+
+## FREUDEBERG (D'apres S.)
+
+- 29— La Promenade du soir,par InGouF.
+
+Tres belle et rare épreuve, avec la tabletle blanche.
+
+- Remargee.
+- La Soiree d'hyver, par INGouF.
+- Tres belle et rare epreuve, avec la lablette blanche. Remargee.
+
+## GOUACHE (xvIIre siecle)
+
+- 3l — La Peche, composition pastorale a trois personnages dans un paysage.
+## HUET (D'apres J.-B.)
+
+## 32-Pygmalion amoureux de sa statue, et pendant.
+
+Deux gravures faisant pendants gravees par L. BonNET. Superbes epreuves imprimees en couleurs. Montees en dessin sur d'anciens glomis.
+
+## JANINET(F.)
+
+- 33 —Le keveil de Venus.
+- -Bacchante endormie.
+
+Deux pelites gravures ovales faisant pendants,d'apres CnARLIER.Superbes epreuves imprimees en couleurs, la premiere avant la lettre portant seulement graves a la pointe seche les noms des artistes. La seconde est sans marge.
+
+- 34 - Bustes de Femmes.
+
+Deux petites pieces ovales faisant pendants sans nom d'auteur. Belles epreuves imprimees en couleurs; marge. (Provient d'une feuille a cinq sujets.)
+
+- 35Portrait de Mlle du T...(Duthe),d'apres LEMOINE.
+
+L'un des plus gracieux portraits de femmes graves au xvie siecle. Superbe epreuve, inprimee en couleurs, probablement avant la lettre. Tres rare.
+
+## KAUFFMANN (D'apres AuG.)
+
+- 36— Blind mans buff, par BARToLozzI.
+
+De forme ronde. Tres belle epreuve imprimee en couleurs.Marge.
+- 38
+- 41
+
+## LAWREINCE (D'apres N.)
+
+- 37 L'Assemblee au Concert.
+- L'Assemblee au Salon.
+
+Deux estampes faisant pendants, gravees par DeQueVAUVILLER (E.-B.,Nos 5-6).
+
+Superbes epreuves avec marge. Cadres en baguettes Louis XVI, de bois sculpte et dore.
+
+- -Le Billet douc, grave par DE LauNay (E.-B., No10).
+
+Superbe epreuve avec marge.
+
+- --Le Contretemps, par DEqUEvAuvILLER (E.-B.,
+- 39N15).
+
+Superbe epreuve; grande marge.
+
+- 40—Le Lever des Ouurieres en modes,par L.C.
+- (E.-B., N 36).
+
+Tres belle et rare epreuve imprimee en couleurs.
+
+- —La Marchande a la toilette,par VIDAL (E.B., No37).
+
+Superbe epreuve avec toute sa marge. Rare en aussi belle condition.
+
+## MALLET (D'apres)
+
+12—Chit,chit!
+
+- Par ici.
+
+Deux petites gravures faisant pendants, par CopIA. Tres belles epreuves en noir; marge.
+## MOREAU LE JEUNE (D'apres)
+
+43 —La Dame du Palais de la Reine, par MaRTINI. Tres belle epreuve du premier tirage. Avec les lettres A. P. D. R. Marge.
+
+- 44  La Rencontre au Bois de Boulogne, par GuTTENBERG.
+
+Tres belle epreuve du premier tirage. Avec les lettres A.P.D.R.Marge.
+
+## PETIT
+
+45 -Les Colombes cheries, d'apres F. BoucHER.
+
+Belle epreuve a la sanguine; marge. Cadre en ba- guettes Louis XVI, de bois sculpte et dore.
+
+## TURNER(C.)
+
+- 46—
+- Hebe, d'apres HuET-VILLIERs. Superbe epreuve imprimee en couleurs; grande marge.
+
+## VIGNETTE
+
+- 47 lllustration pour un ouvrage du xvinl siecle. In-so avec encadrement orne. Epreuve avant la lettre. Marge.
+## OBJETS VARIES
+
+GLACES,PENDULES,ETC.
+
+- 48—Petite glace étroite en bois et pate,peints et dores. Epoque Louis XVI.
+- 49 —Deux petits miroirs, dans des cadres en bois sculpte dore,decor de feuillages et rocailles.
+- Epoque Louis Xv.
+- -Commode de poupee, de forme contournee, en marqueterie a carrelages de bois de rose; motifs et filets d'encadrement en citronnier et amarante. Elle est munie de trois tiroirs,et en-
+- 50 richie de bronzes. Epoque Louis XV.
+- 51 Paire de flambeaux en argent, a tiges fuselees et bases ovales. Les binets sont supportes chacun par un cygne; decor a frise de pampres de vignes, et larges feuilles a la base. Epoque Empire.
+- 52 —Pendule-cage en bronze cisele, dore et marbre blanc. Ie fronton,cintre a corniche mouluree, est supporte par quatre pilastres canneles, enserrant le mouvement, posant sur une draperie,retenue par des cordelieres qui s'attachent a deux rosaces, sur les pilastres. ll est couronne d'un vase enguirlande,et agremente aux angles de graines feuillagees. Socle rectangulaire, orne d'une frise a jeux d'amours en basrelief. Le cadran porte la marque : Alexandre a Paris. Fin du xville siecle.
+## SIEGES ANCIENS
+
+- 53—Petit tabouret, forme rectangulaire,en bois moulure sculpte et cire; decor de feuilles. Epoque Louis XIv. Garni de damas rouge.
+- 54 —Fauteuil,de forme mouvementee,en bois moulure,a dossier cintre. Epoque Louis Xv. Il est garni de soie brochee a decor de bouquets de fleurettes et festons de feuillage sur fond blanc.
+5. -Deux petits fauteuils,de forme mouventee, sur pieds eleves, en bois sculpte, moulure et cire. Decor de fleurs et feuillages. Epoque Louis Xv. Garniture de velours rouge cisele, a fleurs.
+- -Fauteuil, de forme mouventee,en bois moulure, sculpte et cire, a decor de fleurs, feuillages Epoque Louis XV. Garniture de
+- 56 et palme. velours rouge cisele a fleurettes.
+- 57 Fauteuil, de forme mouvementee,en bois sculpte,moulure,cire, a dossier arrondi. Decor de fleurettes et feuillages.I Epoque Louis Xv. Garniture de velours rouge cisele a fleurettes.
+- 58 —Fauteuil, de forme mouvementee,en bois moulure,sculpte et cire,a decor de fleurettes et feuillages a la ceinture du siege. Epoque Louis XV. Garniture de soie brochee, a decor de feurettes et feston de feuillages, sur fond creme.
+- 59—Banquette rectangulaire, de forme mouvementee, en bois sculpte, cire,reposant sur six pieds. Decor de feuillages et rocailles. Epoque Louis Xv. Garniture de damas rouge.
+- 60—Banquette rectangulaire,de forme 1 mouvementee, en bois moulure, peint blanc. Epoque Louis xv. Garniture de velours rouge.
+- 61 Bergere,de forme contournee, en bois sculpte. Decor de fleurs et feuillages. Elle porte lestampille de Meunier.F Epoque Louis XV. Garniture de soie brochee a gerbes de feurs,et rayures vertes,roses et noires.
+- Bergere,de forme mouvementee,en bois moulure, sculpte et peint blanc; a dossier arrondi. Decor de fleurettes. Estampille illisible.Epoque Louis Xv. Garniture et coussin mobile en
+- 62 一 velours rouge uni.
+- —Petit lit de repos, a deux accotoirs,en bois sculpte reposant sur huit pieds. En partie du temps de Louis xv. ll est garni de coussins en
+- 63 velours rouge a rayures.
+- 64 -Chaise longue, en deux parties, en bois sculpte, moulure. Decor de rosaces, millerais. Pieds fuseles, canneles.  Epoque Louis XVI. Garniture de velours cisele,a rayures jaune et
+- verte.
+- 65 — Lit de repos en bois sculpte cire, a accotoirs renverses. Decor de piastres et cannelures. Il repose sur six pieds canneles en gaine. Epoque Louis XVI. Garniture de coussins en imberline, a rayures rose et verte.
+- 66 —Bergere en bois mouluré et sculpte,a dossier carre; pieds fuseles et canneles; decor de fleurons feuillages. Epoque Louis XVI. Garniture et coussin mobile en velours, a petites rayures rouges et blanches.
+- 67 -Deux bergeres en bois moulure, sculpte et cire, a decor de fleurons. Pieds fuseles,a cannelures rudentees. Epoque Louis XVI. Garniture et coussin mobile, en damas vert.
+- 68 8—Petite bergere en bois moulure peint blanc.
+- Pieds fuseles a cannelures rudentees. Epoque Louis XVI. Garniture et coussin mobile en soie ancienne.
+- -Deux fauteuils en bois moulure peint blanc, a dossier medaillon. Pieds fuseles et canneles. Garniture de soie a rayures bleues, jaunes et
+- 69 blanches.
+- 70 — Deux fauteuils en bois sculpte peint blanc, accotoirs a balustres et pieds fuseles et canneles. Epoque Louis XVI. Garniture de soie bleue brochee.
+- —Petit fauteuil de bureau en bois sculpte, cire, accotoirs a crosse, et pieds fuseles. ll porte l'estampille de P. Gerard. Epoque Louis XVI. Garniture de soie brochee. Guirlandes de fleurs
+- 71 et rayures fond rose.
+- 72 —Bergere, de l'époque Louis xVI, a dossier arrondi, en bois sculpte cire. Elle repose sur quatre pieds fuseles et canneles. Estampille de Falconet. Garniture de soie, brochee a fleurs, ruban et larges rayures, cerises, roses et blanches.
+- Chaise,a dossier-medaillon ovale, en bois sculpte cire; decor d'enroulement de ruban. Pieds fuseles et canneles. Garniture de soie
+- 73 — jaune a rayures. Epoque Louis XVI.
+- 74 — Quatre fauteuils en bois sculpte cire; decor a feuilles d'eau. Pieds fuseles et canneles. Ils portent l'estampille de Pluuinel. Epoque Louis
+- XVI. Garniture de soie jaune a rayures.
+- Bergere en bois moulure, cire. Epoque Louis Xv. Garniture et coussin mobile en soie
+- 75 jaune a rayures.
+- 76 —Grand fauteuil en bois sculpte,cire, a dossiermedaillon; decor d'enroulement de ruban sur baguette, fleurons; pieds fuseles a cannelures rudentees.Epoque Louis XVI. Garniture de soie brochee a semis de branchages de roses fleuries et baguettes de bluets, sur fond creme.
+- 77—Bergere en bois sculpte, mouluré et cire,a dossier arrondi; decor d'enroulement de ruban sur baguettes, feuilles d''acanthe, rosaces ; pieds fuseles, canneles et rudentes. Epoque Louis XVl. Elle est garnie et munie d'un coussin mobile, en soie, a decor Pompadour.
+- 78 -Bergere en bois sculpte, mouluré et ciré, a dossier arrondi; decor d'enroulement de ruban sur baguette,piastres, perles, feuillages, rosaces; pieds fuseles et canneles. Epoque Louis xVI. Elle est garnie et munie d'un coussin mobile de meme etoffe que la precedente.
+- 79 一 Deux chaises cannees cn bois moulure, sculpte, peint blanc; dossier-medaillon; pieds canneles en gaine. Epoque Louis xvI.
+- 80 -Fauteuil en bois moulure, sculpte et ciré,a dossier carre; pieds fuseles a cannelures rudentees. Epoque Louis XVI. Garniture de velours jaune a petites rayures.
+- 81 一 Bergere en bois moulure, sculpte et cire,a dossier carre; pieds fuseles, canneles et rudentes.Epoque e Louis xVI. Elle est garnie et munie d'un coussin mobile en velours vert
+- epingle, a guirlandes et bouquets de fleurs.
+- 82 1 Quatre fauteuils en bois sculpte,moulure et cire, a pieds fuseles, a cannelures rudentees; decor de rosaces et fleurons. Epoque Louis XVI. Garniture de meme etoffe que la bergere.
+- 83 — Trois chaises en acajou, a dossier legerement renverse.Epoque Empire. Garniture de velours jaune,
+
+## MEUBLES ANCIENS
+
+## ET DESTYLE
+
+- 84 -— Commode en bois de placage, sur pieds eleves et cambres avec leger ressaut sur le devant. Elle est munie de deux tiroirs. Dessus de marbre.
+- Epoque Louis xv.
+- 85 -Petite coiffeuse, de forme galbee, en bois de placage, munie de tiroirs. Epoque Louis Xv.
+- —Petite encoignure,de forme mouvementee,a face legerement bombee, en marqueterie de bois de couleurs. Elle ouvre a une porte decoree de branches feuillagees et fleuries. Le decor se repete dans deux compartiments reserves, sur chaque montant. Dessus de marbre. Epoque
+- 86 Louis XV.
+- 87 — Table a coiffer, de forme contournee, en marqueterie de bois de rose et de violette, munie de quatre tiroirs et tirette sur le devant. Elle repose sur quatre pieds cambres. Epoque Louis XV.
+- 88 - Importante armoire en bois de rose, a compartiments encadres de filets, grecques et médaillon en bois de violette et citronnier. Elle ouvre a deux portes et est munie d'un tiroir a sa partie inferieure, et de deux autres interieurement. Fronton a corniche mouluree. Elle distingue une estampille illisible. Epoque fin
+- repose sur quatre petits pieds cambres. On Louis XV.
+- 89—Commode, de forme droite,la partie centrale en legere saillie,a pieds cambres, ouvrant a trois tiroirs,en marqueterie de bois de placage. Dessus de marbre gris. Commencement de lepoque Louis XVI.
+- 90 —Petite table,de forme rectangulaire, en bois de placage. Elle est munie de deux tiroirs et repose sur quatre pieds-gaines. Dessus de marbre de couleur. Epoque Louis XVI.
+- 91 —Petite table,de forme ovale,en marqueterie de bois de rose, et filets. Elle ouvre a trois tiroirs et repose sur quatre epiedscambres reunis par une tablette d'entrejambes. Dessus de marbre blanc, ceinture d'une galerie en cuivre. Epoque Louis XVI.
+- 92-Petite commode,de forme demi-lune,en marqueterie de bois de rose,violette et filets d'encadrement. Elle est munie de deux tiroirs et-repose sur quatre pieds fuseles. Garniture
+- de bronzes ciseles et dores. Dessus de marbre
+- blanc.Epoque Louis XVI.
+- 93 —Petit bureau a cylindre en acajou, surmonte d'une petite vitrine a deux portes. Il est muni de deux tiroirs,et repose sur quatre pieds-gaines. Dessus de marbre blanc et galerie de cuivre. Epoque Louis XvI.
+- Petit secretaire droit en acajou,il ouvre a abattant et quatre tiroirs. Orne de baguettes en cuivre, et de colonnes cannelees sur les cotes. Dessus de marbre blanc et galerie ajouree en
+- 94— cuivre. Epoque Louis XVI.
+- 95 - Bureau rectangulaire en acajou, Il repose sur
+- quatre pieds fuseles et canneles, et est inuni de trois tiroirs. Dessus de basane. Epoque Louis XVI.
+- 96 —Table-bureau, de forme rectangulaire, en bois sculpte, peint blanc; pieds fuseles et canneles; la ceinture est decoree d'une frise de canaux avec rosaces aux angles. Elle ouvre a deux tiroirs. Dessus de basane. Epoque Louis XVI.
+- 97 一 Petit bureau plat étroit,de forme rectangulaire, en bois de placage. Il repose sur quatre pieds en gaine. Muni d'un tiroir sur la face principale et d'une tirette sur un cote. ll renferme un compartiment sur le dessus. Epoque Louis XVI.
+- 98 -Petit meuble de peintre, de forme rectangulaire, en acajou. ll repose sur quatre pieds en marbre blanc. ll est muni, sur la face, de deux tiroirs, d'une tirette a tablette de marbre. Dessus également en marbre blanc encastre,et
+- en gaine,relies par une tablette d'enirejambes ceinture d'une moulure plate unie en cuivre. Epoque Louis xVI.
+- 99-1 Petite console, de forme demi-lune, en bois de placage, reposant sur quatre pieds fuseles, reunis par une tablette d'entrejambes. Munie d'un tiroir de face a la ceinture. Dessus de marbre de couleur. Epoque Louis XVI.
+- 100 —Gueridon rond en acajou, reposant sur quatre pieds fuseles a cannelures incrustees de cuivre. ll est muni a la ceinture de deux tiroirs et deux tirettes. Dessus de marbre gris veine,encastre et ceinture d'une galerie ajouree en cuivre. Epoque Louis XVI.
+- 101-S Secretaire droit, a abattant, tiroir et deux portes en marqueterie de bois de placage,a filets de bois de couleurs. Dessus de marbre. Epoque Louis XVI.
+- 102 -Console-servante, de forme demi-lune, en acajou,a quatre pieds fuseles et canneles,reunis par deux tablettes d'entrejambes.Elle est munie de trois portes. Dessus de marbre blanc. Epoque Louis xVI.
+- 103 - Console rectangulaire en bois sculpte cire, reposant sur quatre pieds fuseles et canneles. La ceinture est decoree d'une frise,de rinceaux feuillages interrompus, dans les milieux, par un culot de feuillage et vases enflammes. Feuilles d'acanthe aux angles.Encadrement de rais-de-coeur. Dessus de marbre portor. Epoque Louis XVI.
+- J01-1 Meuble d'entre-deux, a cotes cintres, en acajou. ll ouvre a une porte et repose sur quatre pieds carres canneles, en gaine. Dessus de
+- marbre blanc. Epoque Louis XVI.
+- 105—Gueridon rond, en acajou, reposant sur
+- quatre pieds fuseles et canneles, muni de deux tiroirs et deux tirettes, a la ceinture. Dessus de marbre breche d'Alep, encastre et ceinture d'une galerie ajouree en cuivre. Epoque Louis xVI.
+- 106 -Petite table, forme rognon, en acajou. Dessus de marbre et galerie de cuivre. Epoque Louis XVI.
+- 107 — Console demi-lune en acajou,reposant sur trois pieds-gaines. Epoque Louis XVI.
+- 108 - Petit gueridon en acajou,reposant sur trois pieds et muni d'une tirette et d'un tiroir a la ceinture. Commencement du xix siecle.
+- 109 — Support en bois de placage, de forme ovale,
+- reposant sur quatre pieds cambres a griffes reunis par une tablette d'entrejambes; decor de cordeiieres avec glands en marqueterie. Dessus de marbre jaune encastre. Epoque Empire.
+- 1l0 —Petit support bas en bois,a plateau circulaire sur tige mobile et pied tripode. Decore sur le dessus d'un medaillon en marqueterie a fleurs.
+- —Table rectangulaire en noyer cire, a pieds
+- 111 tors ajoures et croisillon.
+- 112— Meuble a deux corps,la partie superieure formant vitrine, et la partie inferieure ouvrant a deux portes; en marqueterie de bois de couleurs. Decor de vases feuris et rinceaux de feuillages, dans des encadrements de festons de fleurs. Ancien travail hollandais.
+- 113 -Petite encoignure en bois de placage, de forme droite, ouvrant a une porte. Garniture de bronzes. Dessus de marbre breche d'Alep. Style Louis XVI.
+
+<!-- image -->

@@ -1,0 +1,1807 @@
+- 1 Pferdegruppe auf der Weide.
+
+Signiert:Adam 1860.
+
+Abbildung Tafel II.
+
+- 4 Stallinneres mit zwei Kuhen.
+
+## Albrecht Adam
+
+(1786-1862).
+
+O1 auf Holz. 28 X 24 cm. Schwarzer Rahmen.
+
+## Julius Adam
+
+- 2 Katzen am Feuer. Alte Katze am Kohlenofen, aus dem Glut auf den Boden gerollt ist; junge Katzen springen danach. O1 auf Leinwand. 41X 28 cm. Schwarzer Rahmen.
+
+(1852-1914).
+
+## Jiminec Aranda
+
+Sevilla
+
+- 3 Beim Antiquar. Bucherfreund in Rokokotracht beschaut ein altes Buch in einem offenen Buchladen. Signiert:Jiminec Aranda. O1 auf Holz. 26 X 19 cm. Dunkler Rahmen.
+
+## Alois Bach
+
+(1809-—1893).
+
+01 auf Leinwand. 23,5 X 29 cm. Schwarzer Rahmen.
+
+## H.Bachmann
+
+geb. in der Schweiz, lebt in Disseldorf.
+
+- 5 Mittagsruhe. Ein auf einem Wiesenhang im Schatten eines Baumes sitzendes Bauernmadchen, das Gesicht dem Beschauer zugewandt. Auf ihrem SchoBe ein Kind mit einem BlumenstrauB im Arm. Im Hintergrund Berge.
+
+Signiert:Hans Bachmann.
+
+- 6 Kopie nach Rembrandt ,Der geschlachtete Ochse"(im Louvre). O1 auf Leinwand. 45 X 39 cm. Schwarzer Rahmen.
+
+01 auf Leinwand. 48,5X64 cm.Goldrahmen.
+
+## Heribert Bahndorf
+
+Berlin
+
+Aquarell. 40,5 X 26 cm. Unter Glas, schwarze Leiste.
+
+- 7 BeschieBung der japanischen Stellung vor Tsingtau durch S. M. Kanonenboot Jaguar und durch den osterreichischen Kreuzer Kaiserin Elisabeth. Signiert: H. Bahndorf, Berlin Wilmdf. 1914.
+
+Aquarell. 43,5 X 29 cm.Unter Glas, schwarze Leiste.
+
+- 89 S.M. s. Kreuzer Emden vernichtet einen russischen Kreuzer und einen franzosischen Torpedojager. Signiert: H. Bahndorf, Berlin Wilmdf. 1914.
+
+## Friedrich Bamberger
+
+(1814—1873).
+
+- 9 Steinbruch bei Polling. Malerisches Bild des von der Sonne beschienenen Steinbruchs mit blauer Luft dariber.
+
+01 auf Leinwand. 72X 38 cm. Dunkler Rahmen.
+
+## Hans Bartels
+
+(1856—1914).
+
+- 10 Hollandisches Madchen. Brustbild, Profil. Im Hintergrund Windmihle, Wasser und Baume. Signiert:Hans Bartels, Munchen. Tempera.45X32 cm.Goldrahmen. Abbildung Tafel I.
+
+Signiert:F. Bamberger.
+## G.Bauerfeind
+
+(1848-1904).
+
+- 11 Jerusalem. Im beschatteten Vordergrund eine helle Gebaudewand mit zyklopisch gefigter Mauer und enge Gasse. Im Mittelgrund eine Gruppe Araber und ein lagerndes Kamel. Im Hintergrund eine Moschee und die Silhouette der Stadt.
+
+## H.Beck-Gran
+
+01 auf Leinwand. 110 x 82 cm. Goldrahmen.
+
+Signiert:G. Bauernfeind, Jerusalem.
+
+Abbildung Tafel X.
+
+lebte in Nurnberg.
+
+- 12 Blumenstilleben.
+
+Tempera. 70 X 46 cm. Unter Glas, Goldrahmen.
+
+- 13 Blumenstilleben.
+
+Tempera. 70 X 46 cm. Unter Glas, Goldrahmen.
+
+## M.Beierlein
+
+Minchen
+
+- 14 Parklandschaft. Italienischer Park mit Gartenmauer, Brunnennische und einer Gruppe von Zypressen. Im Hintergrunde eine Villa im Sonnenschein, leicht bewolkter blauer Himmel dariber. Signiert:M. Beierlein. 01 auf Leinwand. 50X37 cm. Goldrahmen.
+
+## Jose Benlliure y Gil
+
+lebt in Rom und Madrid.
+
+- 15 Die Reitprobe. Vor der Klosterpforte mit altspanischer Architektur macht ein Monch Reitversuche auf einem Mauitier,belacht von seinen Bridern und anderen Personen. Signiert: J. Benlliure. 01 auf Holz.13X20 cm.Goldrahmen.
+
+## Bergmann (Zigelschuler)
+
+- 16 Tierbild. Drei Rinder mit Hirten vor einem Wasserspiegel in sonniger Landschaft. Signiert:Bergmann. Ol auf Holz. 35X27 cm.Unter Glas,Goldrahmen.
+
+## E.Berninger
+
+Munchen
+
+- 17 Romischer Sommertag. Antike Ruinen unter tiefblauem Himmel mit figirlicher Staffage im Vordergrund. Signiert:E.Berninger. 01 auf Leinwand. 78X64 cm.Goldrahmen.
+
+## Hans Best
+
+Minchen
+
+- 18 Vogelfreund. Ein alter Bauer in schwarzer Lederhose, gelbem Janker fittert den Kanarienvogel im grun-
+- gestrichenen Kafig an der Wand. Signiert: Hans Best. 01 auf Pape. 16 X 11 cm. Unter Glas, dunkler Rahmen.
+- schwarzem Hut. Signiert: Hans Best. 01 auf Leinwand. 46X 38 cm. Dunkler Rahmen.
+
+## H.Biedermann-Arends
+
+lebte in Munchen.
+
+- 19a Hundebild. Kurzhaariger gelber SchweiBhund in Profilstellung schreckt vor jungen Dackeln zurick, die aus ihrem Stall hervorklaffen. Signiert: Biedermann-Arends. 01 auf Leinwand. 110 x73 cm. Goldrahmen.
+
+## E. Birzer
+
+lebte in Minchen.
+
+- 20 Isarlandschaft. An den Uberfallen bei Thalkirchen. Signiert: E.B. O1 auf Leinwand. 59 X 38 cm. Unter Glas, dunkler Rahmen.
+
+## G.von Bochmann
+
+geb.1850,lebt in Dusseldorf.
+
+- 21 An der Tranke. Estlandische Landschaft mit grauer bewolkter Luft, Bauer mit einem Schimmel an der Tranke.Im Vordergrund rechts Enten. O1 auf Holz. 24X 18 cm. Goldrahmen. Abbildung Tafel 1.
+- Steintisch mit Handarbeit.
+
+## Arnold Bocklin
+
+(1827-1901).
+
+- 22 Die Melonenlaube. Unter leuchtend blauem italischem Himmel eine aus Pfahlen und Stangen errichtete Laube mit ippigen Ranken. Aus dem satten Grin leuchten die goldgelben Frichte. Signiert: AB. 01 auf Leinwand. 54X 53 cm. Goldrahmen.
+
+## Hans Bohrdt
+
+Berlin
+
+- 23 Marinestick. S. M. Augsburg im Kampfe mit russischen Panzerkreuzern.
+
+## Abbildung Tafel XVII.
+
+Signiert: Hans Bohrdt. Guasche. 39 X 26 cm. Unter Glas, schwarze Leiste.
+
+## Willy Brandes
+
+- 24 Die Racher von Sokol (bei Lemberg). Die durch das ausgebrannte Sokol sprengende Osterreichische Kavallerie iberreitet russische Infanteristen.
+
+Signiert:W.Brandes, Berlin. Aquarell. 58X 38,5 cm.Unter Glas, schwarze Leiste.
+
+- 25 Chemnitzer Kaiserulanen, eine russische Batterie erobernd.
+
+Signiert:W. Brandes. Guasche. 40,5 X 26 cm.Unter Glas, schwarze Leiste.
+
+- 26 Fliehende Englander bei St. Quentin. Englander und Schotten werden von deutscher Kavallerie iberritten.
+
+Signiert:W. Brandes,Berlin,Lichterfelde. Aquarell. 40 X 26 cm. Unter Glas, schwarzer Rahmen.
+
+## Carl Otto Braun
+
+Munchen
+
+- 27 Dame in der Mode der siebziger Jahre (schwarz) in einer halbgeoffneten,mit Portiere umrahmten Ture. Signiert: Carl Otto Braun, Munchen 1875. 01auf Leinwand. 61X42 cm.Goldrahmen.
+
+## Robert Buchtger
+
+Muinchen
+
+- 28 Brandung. An Felsen aufbrandende Meereswoge mit groBer Abendluft dariber. Signiert:Rob. Buichtger. 01 auf Leinwand. 69 X 49 cm. Goldleiste.
+
+## Hugo Burgel
+
+lebte in Munchen.
+
+28a Landschaft. Grauer Tag an einem oberbayerischen See in malerischer Licht- und Luftstimmung. Signiert: Hugo Burgel, Minchen. Ol auf Pappe. 30 x 21 cm. Schwarzer Rahmen.
+
+## Heinrich Burkel
+
+(1802-—1869).
+
+- 29 Brustbildnis eines jungen Mannes in Vatermorder, schwarzer Halsbinde, schwarzem Rock und weitem, blauem Mantel (Biedermeierzeit).
+
+Auf der Rickseite bez.: Gemalt von Heinrich Birkel, den 15. Janner 1833. Ol auf Holz. Medaillon 8 cm Durchm. Alter Biedermeierrahmen.
+
+## Wilhelm Busch
+
+(1832-1908).
+
+- 30 Stilleben. Auf braun untermaltem Grund ein an den zusammengebundenen Standern aufgehangter, gerupfter Hahn in voller Beleuchtung, dahinter eine Schreibtafel. Unten Korb, Zitrone und Flasche. Signiert: Busch. 01 auf Leinwand. 80X56 cm.Goldrahmen.
+
+## Gilbert von Canal
+
+Minchen
+
+- 31 See in parkartiger Waldlandschaft mit altem SchloB. Signiert: Canal. 01 auf Holz. 24X35 cm. Goldrahmen.
+
+## Julius Viktor Carstens
+
+geb.1849 in Libek, gest.1908 in Pasing.
+
+Signiert: J. V. Carstens. 01 auf Leinwand. 60 X 80 cm.Goldrahmen.
+- 38
+
+Signiert: G. Cervi Roma 1883.
+
+## Giulio Gervi
+
+- 33 Funf Minuten Aufenthalt. Drei italienische Soldaten erhalten vor dem haltenden Eisenbahnzuge von einer Frau einen Labetrunk.
+
+Rom
+
+Aquarell. 73X53 cm. Passepartout mit weiBem Rahmen.
+
+## J. A. Cogels
+
+- 34 Landschaft mit dem Minchner Stadtbild im Hintergrund. Blick vom bewaldeten Isarufer aus auf die
+
+(1786-1831).
+
+- Hohen von Harlaching. Im Hintergrund die Silhouette der Stadt mit vielen Kirchtirmen, Frauentuirme u.a. Im Vordergrund links im tiefen Schatten ein Mann mit seinem Buben. Rechts das noch hell erleuchtete FluBbett, dariber groBe Abendluft. Muinchener Schule. Erstes Drittel des 19. Jahrh. (1822). Signiert: Cogels 22. O1auf Leinwand. 65X 46 cm. Alter Goldrahmen.
+
+## Edward T. Compton
+
+- 35 a) Die Jungfrau im Berner Oberland, von Wengernalp gesehen. Im Vordergrund Gebirgsbach, von Wetterfichten umstanden. Das gewaltig aufsteigende Bergmassiv im Neuschnee.
+
+geb. 1849 in London, lebt in Feldafing.
+
+- Links unten bez.:E. T. Compton 1882. 01auf Leinwand.93X140 cm.
+- Links unten bez.: E. T. Compton 1888 Co. DCXLI.OI auf Leinwand. 137 X93 cm. Goldrahmen. c) Marine. Motiv anscheinend von der dalmatinischen Kiste. Fischerboote unter Segel am Strande bei ruhiger See.
+- Goldrahmen. b) Das Matterhorn. Aus einem Vordergrund verwitterter, alter Bergarven reckt sich, im Neuschnee schimmernd, der gewaltige Felskegel des Riesen von Zermatt empor.
+
+Signiert:E. T. Compton.
+
+O1 auf Leinwand. 82X 140 cm.Goldrahmen.
+
+## J. Constable, R.A.
+
+- 36 Landschaft. Schluchtartiges Gelande. Im Vordergrund Altwasser und weidendes Vieh. Im Hintergrund stark bewaldeter Hugel und Weiden. Gewitterige Luft dariber.
+
+## Abbildung Tafel II.
+
+01 auf Holz. 21 X 14 cm. Goldrahmen.
+
+- 37 Sommerlandschaft. Im Vordergrund gelbes Getreidefeld vor dunklen Baumgruppen,nach der linken Seite zu ein FluB, dariber hinaus weites flaches Land in lichter Sommerluft. Abbildung Tafel II.
+- 01 auf Holz. 22X 15 cm. Goldrahmen. Near Naseby. Im Vordergrund links steil abfallende bewaldete Kiste, rechts bewaldetes Land, kleiner See; im Hintergrund das blaue, wogende Meer, stark bewolkte Luft dariber.
+
+## A.Cordes
+
+01 auf Holz. 25,5 X 20 cm. Goldrahmen.
+
+- 39 Tierstick. Im Vordergrund eine rote Kuh und eine weibe Ziege im Wasser; dahinter ein schwarzer Bulle. Auf der rechten Seite Wald und ein Hirte. Signiert:A. Cordes.
+
+## John Crome
+
+- 01 auf Leinwand. 81 X 55 cm. Goldrahmen. 40 Tierstick. Kihe im Wasser. Im Hintergrund Bauerngruppe und Hirtin mit rotem Kopftuch. Signiert: A. Cordes. 01 auf Leinwand. 81 X55 cm. Goldrahmen.
+
+(1768-—1821)
+
+- 42 Konig Lear. H.de Croux siehe Nr. 67 H. de Groux.
+- 41 Sonniger Herbsttag. Idyllische landliche Stimmung. Alte bauerliche Behausungen unter Baumen an sonnigem Weg. Im beschatteten Vordergrund ein Bach und groBe herbstlich belaubte Baume; kihle herbstliche Luft dariber. 01 auf Leinwand. 53 X 45 cm. Dunkler Holzrahmen.
+
+## Franz von Defregger
+
+- 43 Brustbild eines Madchens. Gesicht fast en face gegen den Beschauer gewandt, Haare iber der Stirn ge-
+
+Munchen
+
+- scheitelt, im Nacken in Flechten gelegt. Signiert: Defregger.
+
+Passepartout unter Glas, Eichenholzrahmen.
+
+Zeichnung Kohle und Bleistift. 21,5 X 15,5 cm.
+
+(1776-1837).
+on lie
+
+ell n-
+
+2).
+
+n
+
+ee
+
+1.
+
+e
+
+1
+
+- 44 Tiroler Bauernmadchen. Strickt an einem Strumpf. Ganze Figur in kleidsamer Tracht, rotgefuittertem Strohhut auf dunklem Haar und frischem, rotbackigem Gesicht, rotes Halstuch, schwarzes Mieder, weibe Armel, blauer Schurz, dunkler Rock und rote Strimpfe.
+
+01 auf Pappe. 30 X 21,5 cm. Unter Glas, dunkler Rahmen.
+
+## Zeno Mich.Diemer
+
+Munchen
+
+- 45 Verfolgung in der Luft. Zwei einander verfolgende und bekampfende Flugzeuge iber einer befestigten, an einem Flusse gelegenen Stadt. Aquarell. 39 X 24 cm. Unter Glas, schwarze Leiste.
+
+Signiert: Defregger.
+
+Abbildung Tafel XVIll.
+
+- 46 Zeppelin iber Antwerpen. Uber der Spitze eines Turmes im rotbeleuchteten und bewolkten Abendhimmel ein Zeppelin.
+
+Aquarell. 38,5X 24 cm. Unter Glas, schwarze Leiste.
+
+## Wilhelm von Diez
+
+(1839-1907).
+
+- und Wagen vor einem alten Stadtchen mit Burg.
+
+Signiert: W. D. 01 auf Holz. 24,5X 15,5 cm. Unter Glas, dunkler Rahmen.
+
+## A.Doll
+
+(1826-1887).
+
+- 48 Seespiegel zwischen grinen Ufern. Im Hintergrund Gebirge. Die Staffage im Vordergrund stellt eine Entenjagd dar.
+
+01 auf Leinwand. 49 X 60 cm. Goldrahmen.
+
+## J.Dorner
+
+(1775-—1852).
+
+Aquarell. 39 X 32 cm. Schwarzer Rahmen.
+
+## Adolf Eberle
+
+(1843-1914).
+
+- 50 Der Liebling. Auf GroBvaters SchoB ein Enkelkind, daneben eine altere Schwester, die ein Lammchen halt, welches das Kind liebkost. Von links herzudrangende Schafe. Neben dem Alten ein Dackel auf der Bank. Erst angelegtes, noch nicht vollendetes Gemalde aus dem NachlaB des Kinstlers. Bez. auf der Rickseite:,Adolf Eberle NachlaB."
+
+51
+
+Genrebild. Bauernmadchen beim Anziehen der Schuhe. Ein Dackel sieht zu.
+
+Abbildung Tafel XIV.
+
+- 52 Waldlandschaft. Skizze.
+
+Abbildung Tafel XIll.
+
+Signiert: C. Ebert.
+
+Abbildung Tafel XI.
+
+01 auf Holz. 36X 29 cm. Dunkler Rahmen.
+
+Signiert: A.Eberle. Ol auf Leinwand. 35X25 cm. Schwarzer Rahmen.
+
+## C.Ebert
+
+(1821-1885).
+
+01 auf Leinwand. 36 X 56 cm. Goldrahmen.
+
+## Alois Eckhardt
+
+lebt in Minchen.
+
+- 53 Die Ganserupferin. In einem Gewolbe ein blondes Madchen mit roter Bluse,rupft eine Gans auf ihrem SchoBe. An den Wanden und auf einem im Hintergrunde stehenden Tisch verschiedenes Geflugel. Signiert:Al. Eckhardt. 01 auf Leinwand. 110 X 81 cm. Schwarzer Rahmen.
+
+## R.M.Eichler
+
+Munchen
+
+- 54 Dorf Frieding. Uber gelben Kornfeldern erscheint der Kirchturm des Dorfes und eine Baumsilhouette. Signiert: R.M.Eichler. O1 auf Leinwand. 61 X 48 cm.Versilberter Rahmen.
+
+## L.v.Ehrenberg
+
+Duisseldorf
+
+O1 auf Leinwand. 44X 34 cm.Schwarzer Rahmen.
+
+Signiert: Zeno Diemer.
+
+Signiert: Doll 57.
+
+- 49 Hochgebirgslandschaft.
+- 55 Frichtestilleben.
+
+Signiert:J. Dorner 1827.
+
+Signiert:Ehrenberg.
+## W.Emele
+
+(1830-1905).
+
+- 56 Ein weiBer Lipizzaner-Hengst, im Reitgeschirr tanzelnd. Neutraler Hintergrund. Signiert: W.Emmele Wien 9. Mai 1866.
+- 0l auf Leinwand. 44X 36 cm.Goldrahmen.
+
+## Oskar Eschke
+
+Berlin
+
+- 57 Auf der Fraueninsel. Wiese mit alten Baumen hinter dem Wirtshaus der Fraueninsel im Chiemsee. Rechts der Turm der Kirche und die Dacher einiger Hauser.
+
+Signiert: Oscar Eschke 82.
+
+## Julius Exter
+
+Minchen
+
+- 58 Weihnacht. Triptychon. Mittelstuick. Eingeschneites Dorf. Im Vordergrund rechts ein Haus mit beleuchtetem Fenster, drinnen Kinder um den Christbaum. Heller Schein nach auBen und auf einen Ziehbrunnen. Auf dem rechten Flugel ein Haus. Joseph schaut durch die geoffnete Tir in die Nacht hinaus. Im beleuchteten Innenraum Mutter und Kind. Auf dem linken Fligel Bauern im Lichtschein. Signiert auf dem linken Fligel: Julius Exter.
+
+O1 auf Leinwand. 193 X 91 cm. Versilberter, vom Kuinstler bemalter Rahmen.
+
+## Franz Eybl
+
+(1806—1880 lebte in Wien).
+
+- 59 Herrenbildnis der Biedermeierzeit. Profil, von links gesehen. Brustbild.
+
+## Otto Fedder
+
+- Signiert:Eybl 1846. Aquarell. 25X 20 cm. Brauner Rahmen. Abbildung Tafel XVI.
+
+Minchen
+
+- 60 Waldlandschaft mit Staffage. Signiert: Otto Fedder. 01 auf Holz. 19X12,5 cm. Goldrahmen.
+
+## J.Fendel
+
+- 61 Bildnis der Contessa InghiramiBrustbild,der Kopf auf gelbem Grunde,nach rechts gewandt,fast Profi stellung, weiBes Gesellschaftskleid. An der rechten Schulter ein paar Rosen.
+
+## Le Feubure
+
+- 61a Hochgebirgslandschaft. Im Vordergrund grines Tal,auf einer Anhohe ein Bauernhaus, rechts oben ein Weg ins Tal. Bewaldete Hohen, im Hintergrund das Hochgebirge in der Nachmittagssonne. Signiert: Le Feubure. 01 auf Holz. 25,5x 12 cm. Goldrahmen.
+
+## A.Feuerbach (?)
+
+- 62 Genrebild. Brustbild eines jungen Madchens mit dunklen Augen und Haaren in rotem Kopftuch, den Arm auf einen Felsen gestitzt,vor ihr liegend ein schlafender, dunkelhaariger Knabe. Im Hintergrund gebirgige Landschaft mit gewitteriger Luft. 01auf Leinwand. 37X34 cm.
+
+## Otto Gebler
+
+- 63 Zwei Schafe mit einem Lamm. Signiert:O. Gebler. 01 auf Holz. 6,5X8 cm. Goldrahmen. Abbildung Tafel XIV.
+
+(1838-1917).
+
+## August Geist
+
+(1835-1868).
+
+- 64 Skizze aus Rom mit dem Blick auf die Kuppel der Peterskirche. Signiert:Roma 10. Nov.68. August Geist. Federzeichung mit Blei schattiert. 18,5 X 23,5 cm. Schwarzer Rahmen.
+
+## Theodore Gericault
+
+(1791-1824).
+
+- 65 Pferdestall. In finf Standen stehen von rechts nach links ein Rappe, ein Apfelschimmel, ein braunes,
+
+Abbildung Tafel Xll.
+
+01 auf Leinwand. 58X38 cm. Goldrahmen.
+
+- ein falbes und wieder ein braunes Pferd in Ruickenansicht. Stall im Helldunkel mit zarten Lichtern auf den Pferdeleibern.
+
+01 auf Leinwand.50X44 cm.
+
+Ol auf Leinwand. Goldrahmen.
+Signiert: H. Grober 15.
+
+Signiert:Henry de Groux.
+
+Abbildung Tafel IX.
+
+- 67 Konig Lear im Gewittersturm im Walde.
+
+Abbildung Tafel IX.(Nr.42.)
+
+## H.Graf
+
+- 66 Stilleben. Drei Birnen, zwei Hummeln und zwei Schmetterlinge. Signiert:H. Graf 92. Aquarell. 16,5 X 10,5 cm. Schwarzer Rahmen mit Passepartout.
+
+## H. Grober
+
+Minchen
+
+- 66a Brustbid einer jungen blonden Frau mit weiBem Kopftuch und dunkelblauer Bluse, Gesicht nach links gewandt, beide Hande auf einen Stock gestitzt.
+
+01 auf Holz. 40,5 X 35 cm. Goldrahmen.
+
+## Henry de Groux
+
+Spea-Paris
+
+01 auf Leinwand. 132X 100 cm.Goldrahmen.
+
+## Olaf Gulbranson
+
+Minchen
+
+- 68 Der neue Reichstag. Erschienen im Simplicissimus Jahrg.XI, Nr.44. Federzeichnung. 23,5X26 cm. Gerahmt in Kirschbaumleiste.
+
+## Horst Hacker
+
+gest.in Minchen.
+
+- 69 Waldinneres.Im Vordergrunde sehr detaillierte Vegetation,dahinter Rehwild. Signiert: Horst Hacker Minchen. O1auf Leinwand. 35X56 cm.Goldrahmen.
+
+## Th.Th. Heine
+
+Munchen
+
+- 70 Teufel und Jungfrau. Federzeichnung, Teufel und iberhangende Baumzweige an der Parkmauer, grun getuscht. Aus dem Simplicissimus Jahrg.XI, Nr. 25.
+
+Abbildung Tafel IX.
+
+Signiert: Th.H. Federzeichnung. 28,5 X 39 cm. Passepartout in dunklem Rahmen.
+
+## Karl Gustav Hellquist
+
+geb.1851 in Kungsor am Malarsee, gest. 1890 in Berchtesgaden.
+
+- 71 Der hohe Goll. Im Vordergrund links liebevoll ausgefihrtes Wegkreuz mit betenden Bauern. Hugel ricken mit alpinem Bauernhaus. Im Hintergrund rotlich aufsteigend das Gollmassiv. Signiert:C.G.Hellquist B—den 1883. 01 auf Leinwand. 72X103 cm.Goldrahmen.
+
+## J.F.Hennings
+
+gest. in Minchen.
+
+- 72 Brickenkopf einer alten Stadt. Blick in das Giebelgewirr. Im Vordergrund bewegtes Wasser. Signiert: J. F. Hennings. 01 auf Leinwand. 66 X 46 cm. Schwarzer Rahmen.
+- 73 Waldwiese mit Durchblick in eine Tallandschaft. O1 auf Leinwand. 24X 29 cm. Schwarzer Rahmen.
+
+## Th.Her
+
+Minchen-Gern
+
+- 74 Allee. Motiv aus Nymphenburg. Hainbuchen am Weg, in der Sonne.
+
+Signiert: Th.Her 93, Nymphenburg. Aquarell. 36 X 25 cm. Passepartout in Goldrahmen.
+
+- 75 Fiesole. Kirche und Kloster von der Abendsonne warm beschienen, rechts ein Pinienhain. Im Vordergrunde und beim Kloster Monche in weiBen Kutten. Signiert: Th.Her 1901. 01 auf Leinwand. 105 X65 cm. Goldrahmen.
+- 76 Signiert:Th.Her 95,Bozen. Aquarell. 36 X 26,5 cm.Passepartout in Goldrahmen.
+- 77 Venedig. Canale grande bei grauer Luft. Die Hauserreihe in fahlem weiben Licht, die Anlegeplatze in dunklen satten Farben. Auf dem Kanal Gondeln.
+
+Signiert: Th.Her 87. Aquarell. 35,5 X 24 cm. Passepartout in weiBem Rahmen.
+
+Signiert: J. F.Hennings.
+- 78 Capri. Typisches Caprimotiv. Gegen die tiefe Himmelsblaue stehende Felsen, Mauern und Pergola. Im Vordergrund Boote und ein paar Jungen. Signiert:Capri 88. Aquarell. 36 X 25 cm. Passepartout in weiBem Rahmen.
+- 79
+
+Aquarell. 36 X 25 cm. Passepartout in weiBem Rahmen.
+
+Signatur: Capri 88 Her.
+
+## Abbildung Tafel XV.
+
+80 Rialto. Das typische Motiv im Halbschatten mit blauem, venetianischem Himmel. Aquarell. 36X 25 cm. Passepartout in weibem Rahmen.
+
+Signiert: Th.Her 87.
+
+- 81 Felssteig bei Torbole. Weg zwischen Felssticken auf stark ansteigendem Gelande. Im Hintergrund Bergkuppen mit blauer dunstiger Luft dariber.
+
+Signiert: Th.Her. Aquarell. 52X 35 cm. In Passepartout und Goldleiste.
+
+82 Wasserlauf, zwischen grinen Baumgruppen im Sonnenlicht.
+
+Signiert: Th.Her. Aquarell. 51 X 34 cm. Passepartout in Goldleiste.
+
+- 83 Kiste bei Recco. Ins Meer vorspringende felsige Kuste mit kleiner Bucht, buschige Baumkronen und schlanke Pinien als dunkle Silhouetten gegen das blaue dammerige Frihlicht.
+
+## Abbildung Tafel VIll.
+
+Signiert: Th.Her. 01auf Leinwand.127X92 cm.
+
+- 84 Kuiste bei Recco. Ins Meer vorspringende felsige Kiste mit kleiner Bucht, buschige Baumkronen und schlanke Pinien als dunkle Silhouetten gegen die strahlend blaue Luft. Abendstimmung. Signiert: Th.Her. 01auf Leinwand.127X92cm.
+
+## H.Hermanns
+
+Dusseldorf
+
+- 85 Inneres von St. Gereon in Koln. Blick von der linken Kirchenseite auf den erhohten Chor. Chor effektvoll beleuchtet durch das von den hochgelegenen Fenstern rechts einfallende Licht. Im Vordergrund leere Bankreihen.
+
+Signiert:H. Hermanns. Guaschebild auf Pappe. 45 X 32 cm. Schwerer dunkler Rahmen.
+
+## G.Herpfer
+
+Munchen
+
+- 86 Ernste Fragen. Boudoir einer Dame aus der Rokokozeit. Sie sitzt in Profilstellung im Vordergrund mit hochfrisierten gepuderten Haaren,rosaseidenem Uber- und weiBem Unterkleid und wendet anscheinend ihre ganze Aufmerksamkeit einem Ring am kleinen Finger zu. Auf dem Tisch vor ihr ein BlumenstrauB und Schmuckschatulle. Ihr gegeniber ein junger Mann in Rokokotracht, der ernsthaft auf sie einredet,
+
+Signiert:Herpfer Munchen 1875.
+
+01 auf Leinwand.93X74 cm. Goldrahmen.
+
+## P.HeB
+
+(1792-—1871).
+
+- 87 Jagdstick. Jager im Hochwald vor einer machtigen Buche, den SchweiBhund an der Leine; vor ihm im Vordergrunde der erlegte Hirsch.
+
+## v.HeuB
+
+Signiert:P.HeB 1837.
+
+01 auf Holz. 34,5 X 30,5 cm. Alter Goldrahmen.
+
+Abbildung Tafel I.
+
+(18081880).
+
+- 88 Damenbildnis. Halbfigur in rosarotem Kleide, von fliegenden Schleiern umweht; rote Rose im Haar und an der Brust, halt in der Rechten einen Stab, mit der Linken hat sie eine weiBe Halbmaske abgenommen und blickt munter auf den Beschauer.
+
+Signiert:v.HeuB 1877. 01 auf Leinwand. 85X 69 cm. Goldrahmen.
+
+## Franz Hoch
+
+Munchen, gest.1916.
+
+- 89 Eifeldorf. Blick von einer Anhohe iber Felder, Hauser und Dacher hin.
+- 90 FluBlandschaft. Wiesen und Felder und das mit groBen Baumen bis zum Wasserspiegel bedeckte Ufer. Signiert:F.Hoch. 01 auf Leinwand. 79 X 63 cm. Schwarzer Rahmen.
+
+Signiert: F. Hoch. 01 auf Pappe. 54 X 38 cm. Schwarzer Rahmen.
+
+- 91 Rotes Haus im Schatten. Ein gruiner Baum in der Sonne davor.
+
+Signiert:F.H.
+
+0l auf Pappe. 46 X 32 cm. Goldrahmen.
+
+- vor ihm ein offener Brief.
+- eine Bauersfrau mit Naharbeit.
+
+## Anton Hoffmann
+
+Munchen
+
+- 93 Bayerische Ulanen in der Schlacht bei Lagarde. Ulanen iberreiten franzosische Batterien.
+- 94
+- von deutschen Ulanen begleitet. Aquarell. 34X 21,5 cm.Unter Glas, schwarze Leiste.
+- 95 Verfolgung. Deutsche Reiter stechen mit ihren Lanzen franzosische Kavalleristen vom Pferde.
+- 96
+- Signiert: Anton Hoffmann,Munchen.
+- Reiter gefangen.
+
+Signiert: Anton Hoffmann, Munchen.
+
+- Aquarell. 34X21,5 cm. Unter Glas, schwarzer Rahmen.
+
+Aquarell. 34X 24,5 cm. Unter Glas, schwarze Leiste.
+
+- 97 Im Kampfe mit Franktireurs. Dorfgasse,aus den Hausern rechts schieBen ein paar Franktireurs, einer fallt eben von einem quer durch den Vordergrund sprengenden Reiter getroffen, unter dessen Pferd ein toter Franktireur. Aquarell. 34X 21,5 cm. Unter Glas, schwarze Leiste.
+- 98 Grenzgeplankel im Osten. Im Vordergrund ein Ulan, einen Russen attackierend.
+
+Aquarell. 34X21,5 cm. Unter Glas, schwarze Leiste.
+
+- Auf Vorposten im Westen.Im Schatten eines Baumes liegen zwei deutsche Soldaten, das Gewehr im
+
+Signiert:Anton Hoffmann. Aquarell.34X 21,5 cm.Unter Glas, schwarze Leiste.
+
+- Signiert: Anton Hoffmann, Muinchen. 99 Anschlag;in der Ferne anreitende feindliche Patrouille.
+- 100 Furor teutonicus. Kopf eines behelmten und bebarteten, laut schreienden Germanen.
+- Signiert:Anton Hoffmann, Muinchen. Tuschzeichnung. 34X 22 cm. Unter Glas, schwarzer Rahmen.
+
+## Johann Daniel Holz
+
+Minchen
+
+- 101 Am Strande. Zwei Duinenesel vor einer Karre; auf den Duinen einige Gebaude. Signiert: Joh.D.Holz. Ol auf Leinwand. 88X108 cm. Schwarzer Rahmen.
+
+## Theodor Hummel
+
+Minchen
+
+- 102 Interieur. Gringekalkte Stube mit grinem Kachelofen und grinem Reflexlicht durch das Fenster an der linken Wand. Blick durch offene Tuiren in eine Stube nebenan und in den Hausgang. Am Fenster
+
+Signiert: Th.Hummel 08.
+
+01 auf Leinwand. 48,5X 40,5 cm.Goldrahmen.
+
+## Eugen Jettel
+
+lebte in Wien.
+
+- 103 Viehweide auf der Ebene von Delacroix. Im Vordergrunde ein paar Kuihe im Wasser, Vieh auf der Weide, im Mittelgrund ein Gehoft mit Baumen. Uber dem weiten Horizont groBer bewolkter Abendhimmel. Signiert: Eugen Jettel. O1 auf Leinwand. 100 X 69 cm. Schwarzer Rahmen.
+
+## A.Kappis
+
+lebte in Stuttgart.
+
+- 104 Possenhofen am Starnbergersee. SchloB Possenhofen, Park und Parkmauern in der Nachmittagssonne. Eine Fischerhitte dabei mit einer jungen Frau und Kind. Ein Alter breitet daneben Netze auf Stangen aus. Im Vordergrund ein junger Mann,Knabe und alte Frau, die Fische entgegennimmt, die ihr der alte Fischer im Einbaum darreicht. Weiterhin Bootshitte, Gerate und Steg. Ausblick auf den blauschimmernden See mit blauer bewolkter Luft dariber.
+
+Abbildung Tafel IIl.
+
+Signiert:Kappis Muinchen. 01 auf Leinwand. 102 X 62,5 cm. Goldrahmen.
+
+## Hugo Kauffmann
+
+(1844-1916).
+
+- 105 Pferdehandel. Ein Bauer fihrt einen hibschen Braunen vor, sein blondes Biberl steht dabei und sieht aufmerksam nach dem Handler und den Schmusern.
+
+Signiert: Hugo Kauffmann 72. O1 auf Holz.30 X 23 cm.Unter Glas, dunkler Rahmen. Abbildung Tafel II.
+
+92Die Honved-Husaren bei Krasnick. Signiert:Anton Hoffmann Minchen. Aquarell. 34X 21,5 cm. Unter Glas, schwarze Leiste.
+
+Signiert: Anton Hoffmann, Minchen. Aquarell. 40 X 26 cm. Unter Glas, schwarze Leiste.
+Signiert: F. Kirchbach.
+
+01 auf Leinwand. 140 X 212 cm. Goldrahmen.
+
+## Karl Kebler
+
+Minchen
+
+- 109 St. Christoph am Arlberg. In tiefbeschneiter Talsenkung das vorne von der Sonne angeschienene Kirch-
+- lein. Im Hintergrund beschattete Berge, dariber kalter klarer Himmel.
+
+Signiert: Karl KeBler.
+
+Aquarell. 53,5 X 36,5 cm. Unter Glas, dunkler Rahmen.
+
+- Winterlandschaft. Um Davos. Einige Holzhitten im Vordergrund. Im Hintergrund Hochgebirge.
+
+Signiert: Karl KeBler, Davos 1911. Aquarell. 52 X 36 cm. Unter Glas, dunkler Rahmen.
+
+## Frank Kirchbach
+
+(1859-1912).
+
+- 111 Leonore. In groBer nachtlicher Landschaft ein mondbeschienener Kirchhof mit Kreuz und Leichensteinen im Vordergrund. Uber die aufgerissene Pforte sprengt der Tod, Leonore im Nachtgewande bei sich auf dem Pferde. Die von hellem Mondlicht beschienene Leonore bildet gegenstandlich und malerisch den Mittelpunkt des von damonischer Balladenstimmung durchwehten Bildes. Signiert:F.Kirchbach 1895. 01auf Leinwand. 352X270 cm.
+- 112 Skizze zu Birgers Lenore.
+
+NachlaBstempel.
+
+O1 auf Leinwand. 75X 100 cm.Schwarzer Rahmen.
+
+- Lasset die Kindlein zu mir kommen! In einem von Felswanden eingeschlossenen engen Tal ein Brunnen mit runder Zisterne und saulengetragenem Dach. Auf seinen Stufen vorn rechts der weiBgekleidete Heiland, halbnackte Kindergestalten mit glicklichen Augen neben sich und zu seinen FuiBen. Den ganzen Vordergrund links fillen Gruppen von Mittern mit Kindern jeden Alters aus, die sich zogernd oder vertraut dem Erloser nahern. Zwischen ihnen ein Greisenpaar, das staunend auf das UnfaBbare
+
+Links unten bez.:F.Kirchbach 1871. Oi auf Leinwand. 300X 400 cm. Goldrahmen. Abbildung Tafel VI.
+
+- 113 blickt. Hinter dem Herrn finf Juinger. Im Hintergrund Blick auf die Stadt.
+- 114
+- Grablegung Christi. Der nackte Leichnam des Herrn wird von zwei mannlichen Gestalten auf einem Leintuche zur Felsengruft getragen.
+
+Abbildung Tafel VI.
+
+- 115S Skizze zu Christus und die Handler. Vor dem Tore des Tempels die weibe Gestalt des Herrn, der die auf den Tempelstufen hockenden Handler vertreibt.
+
+NachlaBstempel.
+
+116 Es ist vollbracht. Kruzifixus, die Frauen am FuBe des Kreuzes.
+
+01 auf Leinwand. 140X 180 cm. Goldleiste.
+
+O1 auf Leinwand, oben halbkreisformig abgeschnitten. 185 X 100 cm. Goldrahmen.
+
+Signiert: F. Kirchbach.
+
+- 117 der Meute. Waldlandschaft.
+
+Signiert:F. Kirchbach.
+
+01 auf Leinwand. 150 X 200 cm. Goldrahmen.
+
+- 110 Kalte blaue Winterluft.
+
+## Fritz August Kaulbach
+
+Minchen
+
+- 106 Frihling. In sprossender Fruihlingslandschaft mit Birken unter zartblauem Himmel auf blumiger Wiese die anmutige Gestalt einer jungen Mutter, in ihren Armen ein Wickelkind.
+
+O1auf Holz.82X42cm.Goldrahmen.
+
+Signiert:Fritz Aug. Kaulbach.
+
+Abbildung Tafel VIl.
+
+## Hermann Kaulbach
+
+(1846-1909).
+
+- 107 Hamlet. Ganze Figur. Das Gesicht von links her voll beleuchtet. Die rechte Hand auf die Hufte gestitzt. Den linken Arm in den Mantelfalten. Kostim Pelzmantel, kurzes Wams, rote, enganliegende Hosen, kurze Stiefel.
+
+Signiert: H.K.
+
+01 auf Pappe. 35,5 X 22,5 cm. Unter Glas, dunkler Rahmen.
+
+## Karl Keller
+
+- 108 Die Frauen aus Jerusalem kommen zum Grabe Jesu und finden das Grab leer und einen Engel davor. Im Hintergrunde die Stadt.
+
+Signiert: Karl Keller 1851.
+
+01 auf Leinwand. 145X108 cm.
+118 Standchen. Zwei Edeldamen in mittelalterlicher Tracht. Vor ihnen auf einer Terrasse ein zur Laute singender Page.  Italienische Kustenlandschaft. Surporte. Signiert:F. Kirchbach. O1 auf Leinwand. 60 X 80 cm. Schwarzer Rahmen.
+
+119
+
+120
+
+Der Gott und die Bajadere.
+
+NachlaBstempel. 01 auf Leinwand.115X85 cm. Gerahmt.
+
+Hagen und Volker, nach dem Nibelungenlied.
+
+Signiert:F.Kirchbach. 01 auf Pappe. 56 X 30 cm. Gerahmt.
+
+121 Bacchanal mit Tiger, auf dem zwei nackte Frauen reiten,verfolgt von Satyrn.
+
+NachlaBstempel. 01 auf Leinwand. 150X 200 cm. Goldleiste.
+
+122 Studie zum Plafond des Bibliotheksaals in Frankfurt a. M. Genien, einen Folianten gen Himmel tragend. O1 auf Leinwand. 137 X 122 cm. Goldleiste.
+
+NachlaBstempel. 01 auf Leinwand. 250X 250 cm. Keilrahmen.
+
+123 Entwurf zum Plafond des Herrn Hirsch in Frankfurt. Gefligelte Genien und Putten mit einem Lorbeerkranz und einer Taube vor wolkigem Himmel.
+
+124 Entwurf zum Plafond des Bibliotheksaales in Frankfurt a. M. Genien tragen einen machtigen Folianten gen Himmel. Unten Putten mit Globus und Laubgewinden. NachlaBstempel. 01 auf Leinwand. 277 X 265 cm. Keilrahmen.
+
+125 Portrat von Wolfgang Kirchbach. Goldene Medaille der Internationalen Kunstausstellung 1909. Signiert: F. Kirchbach.
+
+O1 auf Leinwand. 80 X 59 cm. Schwarzer Rahmen. Abbildung Tafel IV.
+
+126 6Frauenportrat. Feiner Kopf, Haar und Augen braun, von vorn gesehen. Dunkelblaues, ausgeschnit tenes Kleid. Signiert:F. Kirchbach. O1 auf Leinwand. 55X 43 cm. Schwarzer Rahmen.
+
+127 Portrat der Grafin Alice KeBler 1884. Abbildung Tafel Xll. Ol auf Leinwand. 212X 96 cm.Goldrahmen.
+
+128 Weibliches Portrat mit entbloBter Brust und aufgelostem Haar. Kopf geneigt, Blick nach unten gerichtet. NachlaBstempel. O1 auf Leinwand. 64X54 cm. Schwarzer Rahmen. Abbildung Tafel V.
+
+129
+
+130
+
+Weiblicher Studienkopf. Briinett, leicht geneigt und auf die linke Hand gestitzt. Blaues Kleid.
+
+NachlaBstempel.
+
+01auf Leinwand.58X46 cm.Gerahmt.
+
+Studienkopf zum Ganymed (dem bekannten Bilde des Kinstlers).
+
+O1auf Leinwand. 32X51 cm. Schwarzer Rahmen.
+
+131 Tiger beim FraB. Signiert: F. Kirchbach. 01 auf Leinwand. 56 X 80 cm. Goldleiste.
+
+132
+
+O1 auf Pappe. 48 X 33 cm. Schwarzer Rahmen. 133 Braunes Pferd im Stall. Signiert:Frank Kirchbach NachlaB. O1 auf Pappe. 46 X34 cm. Schwarzer Rahmen.
+
+134
+
+Knecht mit Pferd (Brustbild). Naturstudie.
+
+Schweres Zugpferd, braun, von links im Profil gesehen.
+
+NachlaBstempel.
+
+01 auf Pappe. 44 X 55 cm. Schwarzer Rahmen.
+
+135 Drei Tore. Alte landliche Architektur. Signiert: F. Kirchbach. 01 auf Leinwand. 47 X 60 cm.Goldrahmen.
+
+136
+
+137
+
+Der Prunkbecher Kamnitz aus der Sammlung Rothschild.
+
+Signiert: F. Kirchbach.
+
+O1 auf Leinwand. 80X 43 cm. Brauner Rahmen.
+
+Hafen von Venedig mit Schiffen in Regenstimmung. Skizze.
+
+Signiert: F. Kirchbach.
+
+O1 auf Leinwand. 59 X 78 cm.Schwarzer Rahmen.
+
+138 Scheune in Ruhpolding. Signiert:F. Kirchbach. O1auf Leinwand.75X 100 cm.Goldrahmen. Abbildung Tafel III.
+
+139 Der Stadelgarten in Frankfurt a. M. Laubengang mit Steinsaulen. Gefuigelte Sphinx. NachlaBstempel. 01 auf Leinwand.137X 99 cm. Goldleiste.
+
+140 Holzknecht mit Pfeife. Skizze. NachlaBstempel. O1 auf Leinwand. 29 X 36 cm. Schwarzer Rahmen.
+141S Studie zu einem Christuskopf. O1 auf Leinwand. 47 X 40 cm. Schwarzer Rahmen. NachlaBstempel.
+
+142 Sturzbach zwischen Felsgeroll. 01 auf Leinwand. 77 X 60 cm. Schwarzer Rahmen. Nachlabstempel.
+
+143
+
+144
+
+145
+
+146
+
+147
+
+148
+
+149
+
+150
+
+Entwurf zur Innenarchitektur des Bibliotheksaales in Frankfurt a. M.
+
+Nachlabstempel.
+
+O1 auf Leinwand. 100 X 68 cm. Schwarzer Rahmen.
+
+Entwurf zur Innenarchitektur der Drachenburg.
+
+Signiert:F.Kirchbach.
+
+01 auf Leinwand. 95X78 cm. Schwarzer Rahmen.
+
+Landschaft bei Eppan. Im Vordergrund Felsgeroll. Hinten Hochgebirge. Wald in Herbstfarben.
+
+Signiert: Frank Kirchbach.
+
+01 auf Leinwand. 60 X 45 cm. Schwarzer Rahmen.
+
+Alter Bauer in Ruhpolding. Charakterkopf mit Hut vor einer Holzwand. (Genannt Wimmervater.)
+
+Signiert:F.Kirchbach.
+
+Der Schlern.
+
+NachlaBstempel.
+
+Burg Runkelstein bei Bozen.
+
+O1 auf Leinwand. 78X 60 cm. Schwarzer Rahmen.
+
+01 auf Leinwand. 59X 78 cm.Schwarzer Rahmen.
+
+NachlaBstempel. 01 auf Leinwand.100 X 60 cm.Schwarzer Rahmen. Abbildung Tafel IV.
+
+Bische am Wegrain.
+
+Signiert:Frank Kirchbach.
+
+An der Riviera. Felsenkiste am Meer mit StraBe.
+
+Signiert:Frank Kirchbach.
+
+01 auf Pappe. 48X32 cm.Gerahmt.
+
+01 auf Pappe. 48X 32 cm. Gerahmt.
+
+- 151 St.Wolfgang. Bank in einer Felsgrotte. Signiert:F. Kirchbach. 01 auf Pappe. 31 X 47 cm. Schwarzer Rahmen.
+
+## J.Kozics
+
+lebte in Minchen.
+
+152 Elfen und andere Sommernachtstraumgeister im Mondschein. Signiert: Kozics. 01 auf Holz. 33 X 20,5 cm. Altgoldrahmen.
+
+## Hans Kratzer
+
+Minchen
+
+153 Frau mit Pelzhaube. Brustbild einer Frau mit dunkler Pelzhaube und gelb-orange und rot gestreiftem Schultertuch. Signiert: Hans Kratzer. Pastell. 50X 40 cm. Versilberter Rahmen. 154 Meute. Ein Rudel weiB und braun gefleckter Jagdhunde im Freien. Signiert: Hans Kratzer 1916. 01 auf Pappe. 48 X 39 cm. Dunkler Rahmen. 155 Unterredung. Zwei Manner in der Tracht des 18. Jahrhunderts auf einer Bank an einer Mauer; daneben ein FaB mit Glas. Signiert:Hans Kratzer 1915. 01 auf Pappe. 48 X 39 cm. Schwarzer Rahmen.
+
+## Wilh. Kray
+
+156 Am Meere. An felsiger Kuiste eine dunkelhaarige Frau, die sehnsichtig aufs Meer hinaussieht, umschlungen von einem blonden nackten Madchen. Signiert: W. Kray. 01 auf Leinwand. 41 X 31 cm. Goldrahmen. 157 Liegendes Madchen. (Halbakt.) Kopf im Profil im Schatten, volles Licht auf Schulter und Brust und Streiflicht auf dem roten Kissen.
+
+lebte in Munchen.
+
+- Signiert: W. Kray. O1 auf Leinwand. 38 X 26 cm.Goldrahmen.
+
+## E.Kubierschki
+
+Minchen
+
+Tempera und Ol auf Pappe. 33 X 21,5 cm. Unter Glas, dunkler Rahmen.
+
+- 158 Winterlandschaft. Von der Mitte des Bildes gegen eine Anhohe und darauf gelegenem Hause zufihrender Weg. Im Vordergrunde rechts eine Eisflache und kahle Baume, Schneeluft dariber. Signiert:Kubierschki.
+## M.Kurreck
+
+Dusseldorf
+
+- 159 Gartentor. Graue Mauer mit einem jungen Baum davor. Im Vordergrund Gartenstraucher auf rotlicher Erde.
+
+Signiert: M.Kurreck 94. Aquarell in Passepartout. 17 X21,5 cm. Gerahmt in griner Leiste.
+
+## Wilh. Laage
+
+Betzingen
+
+- 160 Heide. Brustbilder zweier Madchen in einer Heidelandschaft. Das eine im blauen Kleide, Heideroschen im Haar und roter Halskette; das andere Madchen in rotem Gewand mit langen, iber Schultern und Brust hangenden Zopfen.
+
+Abbildung Tafel XV.
+
+Signiert:L.03.
+
+01 auf Leinwand. 92 X 65 cm. Goldrahmen.
+
+## Fritz Lange
+
+geb. 1851 zu Dusseldorf, lebt daselbst.
+
+- 161 Gefligel. Auf sonnenbeschienener Wiese verschiedenes Gefluigel. Im Vordergrunde Gebuische,im Hintergrunde ein Haus.
+
+Signiert: Fritz Lange 15.
+
+01 auf Leinwand. 18X24 cm. Goldrahmen.
+
+## Julius Lange und Ludwig Voltz
+
+Minchen
+
+- 162 Waldlandschaft. Tannenwald im Gebirge. Kesselartiger Einbruch im Vordergrunde mit einem anschleichenden Fuchs. Die Landschaft hat Lange, den Fuchs L. Voltz gemalt.
+
+## Julius Lange
+
+01auf Leinwand. 49X39 cm.
+
+- 163 Bergsee. Im Vordergrund Staffage. Links unten bez.: J. L. 01 auf Leinwand. 19,5 X 27 cm. Schwarzer Rahmen.
+
+## L.Langenmantel
+
+lebte in Minchen
+
+- 164 Genrebild. Tiroler Stube,am Fenstertisch ein Madel mit blauer Schuirze, schwarzem Mieder und rosa farbenem Brusttuch aufrechtstehend, die linke Hand auf den Tisch gestitzt,rechts davon im Hintergrund ein Tiroler in der Bozener Tracht. Im Vordergrund rechts sitzend ein Madel im roten Rock und schwarzen Mieder, in lebhafter Geste sich gegen die ihr gegeniber stehende Dirne wendend. Signiert:Langenmantel. 01 auf Pappe. 62X49 cm.
+
+## Dietrich Langko
+
+(1819-1896).
+
+- 165 FluBlandschaft. GroBe Baumgruppen am bebuschten Ufer, dunkler Wasserspiegel,helle ut. Signiert:Langko. O1 auf Leinwand. 33X 25 cm.Unter Glas, dunkler Rahmen.
+
+## G.Lappe
+
+- 166 Gletscherspalten. Blick in die blau schimmernden Seracs eines groben Gletschers. Rechts unten bez.: G.Lappe 1882. O1 auf Leinwand. 76 X 58 cm. Brauner Holzrahmen.
+
+## C.Lasch
+
+(1822-1888).
+
+- 167 Genrebild. Bauernbursche, das Kinn auf die rechte Hand gestitzt, zur Tire herausschauend, in der Linken die Pfeife. Auf dem Kopf eine Otterfellmitze, rote Weste und hemdarmelig. Signiert: C. Lasch. 01 auf Leinwand. 39,5X32 cm.Goldrahmen.
+
+## Hans Licht
+
+- 168 Interieur. Starke malerische Beleuchtungseffekte von einem in der Zimmerecke gelegenen Fenster auf einen Schrank nebenan und einen im Zimmer stehenden polierten runden Tisch. Signiert: Hans Licht. Ol auf Leinwand. 88X 69 cm.Goldrahmen.
+
+## von Looz-Corswarem
+
+- 169Ubergabe derFestung Longwy.ImHintergrund MauerwallundTor der zerschossenenFestungausdm Tor ein langer Zug franzosischer Gefangener, rechts vorn der deutsche Kronprinz und sein Stab zu Pferde. Signiert: Looz-Corswarem.
+
+Guasche grau in grau, weib gehoht. 71,5 X 49 cm. Unter Glas, schwarze Leiste.
+- 170 Einnahme des Panzerforts Loucin (Littich). Von rechts her stirmen deutsche Soldaten unter der voran-
+- flatternden deutschen Fahne einen der Zugange zum Fort. Uber dem Walle wiederum vorsturmende Deutsche.
+
+Signiert:Looz-Corswarem.
+
+Guasche grau in grau, weiB gehoht. 71,5 X 49 cm. Unter Glas, schwarze Leiste.
+
+## H.Lossow
+
+geb.1843.
+
+- 171 Idyll. Ein im Grinen auf einem alten steinernen Kapitell sitzendes Madchen mit einem BlumenstrauB
+- vor dem Gesicht.
+
+Auf der Ruckseite signiert:H. Lossow.
+
+Aquarell in Medaillonform. 13X9 cm. Naturholzrahmen.
+
+## F.Lossow Ludw.Voltz,J. Grinenwald und Carl Ebert
+
+- 172 Gebirgslandschaft. Bauernhaus unter grinen Baumen und viel Staffage.
+
+Abbildung Tafel XIlI.
+
+01 auf Leinwand.38X50 cm.Goldrahmen.
+
+- Auf der Ruickseite folgende handschriftliche Beurkundung:,Dieses Bild ist von folgenden Minchener Kinstlern gemalt:1. Studie nach der Natur (aus Brannenburg) von Friedrich Lossow;2. die Staffage: Kuh und Kalb, Madchen und Huhner von Ludwig Voltz;3. der dengelnde Bauer und der Knabe (links) von Jac. Grinenwald;4. der Durchblick in die Ferne und die Zusammenstimmung der Landschaft von Carl Ebert. Zur Beurkundung: Prof. Dr. Scherer.
+
+## F.Ludwig
+
+- 173 Italienische Landschaft. Aus beschattetem Vordergrund mit reicher Baumstaffage gegen lichte Abendluft fihrt links ein Weg in bewegtes Gelande mit einem Kloster auf einem Huigel. Im Hintergrund
+
+Signiert: Marc, Munchen.
+
+Signiert:G.M.
+
+01 auf Leinwand. 35,5 X 26,5 cm.
+
+- die Silhouette einer Stadt,am Horizont das Meer. Komposition in der Art Claude Lorrains. Signiert:F.Ludwig 1829. Ol auf Leinwand. Schwarzer Rahmen.
+
+## H.Ludwig
+
+geb. 1829, lebte in Rom.
+
+- 174 Itallenische Landschaft. Felsen, Baume, beschattete Schlucht, zwischen zerstreuten Felssticken Quellen und im Hintergrunde durch den Bogen eines Aquadukts Ausblick auf Meer und Strand. Signiert:H.Ludwig 1840. 01 auf Leinwand 52X 42 cm.Goldrahmen.
+
+## W.Marc
+
+Munchen
+
+- 175 Auf der Alm. Eine Sennerin erhalt auf der Alm den Besuch einer Freundin, die ihr aus einem Brief vorliest.
+
+01 auf Holz. 35X 27 cm. Goldrahmen.
+
+## Gabriel von Max
+
+- 176 Noli me tangere. In abendlicher Landschaft Christus, vor ihm kniend Magdalena.
+
+Abbildung Tafel I.
+
+177 Dorflandschaft. Im Vordergrunde Dorfhuitten in landlicher Umgebung. Dahinter Kirche und Baum-
+
+Signiert: B.Mayr.
+
+schlag. Staffage.
+
+- 178 Zwei Lammer.
+
+(1840-—1915).
+
+## B.Mayr
+
+01 auf Leinwand. 22,5 X 31,5 cm. Goldrahmen.
+
+## Ernst Adolf MeiBner
+
+gest.in Munchen.
+
+01 auf Malpappe. 19 X 32,5 cm. Goldrahmen.
+
+O1 auf Pappe. 34 X 18 cm. Schwarzer Rahmen.
+
+- 179 Treiber im Schnee. Alter Bauer mit Stock und Schnapsflasche.
+
+Signiert:16.Dez.1890.
+Signiert: Gustav Michell 73.
+
+## Gustav Michell
+
+Munchen
+
+- 180 Strandwacht. Ein Seemann in seiner Blockhutte auf Strandwacht, schaut hinaus auf die abendlich dunkelnde See. Die schwarz-weiB-rote Flagge liegt quer iber dem Fensterbrett. Im Vordergrund ein Hund.
+
+Abbildung Tafel VIl.
+
+O1 auf Leinwand. 98X79 cm.Goldrahmen.
+
+## Karl Millner
+
+- 181 Gewitter im Hochgebirge. Vorne Gebirgsbach mit schonem Baumschlag. Im Hintergrund alles iberSigniert:Millner f.1851.
+
+geb. 1825 in Mindelheim, gest. in Minchen.
+
+01 auf Leinwand.62X 82 cm. Goldrahmen.
+
+## A.Montemezzo
+
+- 182 Am Strande. Fischerboot, neben dem Kinder im Sande spielen.
+
+Signiert: A. Montemezzo.
+
+O1 auf Pappe. 28 X 52 cm. Schwarzer Rahmen.
+
+- 183 Genrebild. Zwei Kinder mit einer Ganseherde in einer DorfstraBe.
+
+Signiert:A.Montemezzo.
+
+01 auf Pappe. 20,5 X 30 cm. Schwarzer Rahmen.
+
+- 184 Landschaft. Altwasser. Im Mittelgrund im frischen Grin prangende Baumgruppen mit einer Hutte. Im Hintergrund blaue Hugelkette, grausilbrige Luft daruber. Signiert:A.Montemezzo.
+
+lebte in Munchen.
+
+Ol auf Leinwand. 42 X 33 cm. Schwarzer Rahmen.
+
+## Hugo Muhlig
+
+- 185 Feldweg. Dunenlandschaft mit Silberpappeln. Signiert:H.Muhlig. Aquarell. 32X 23 cm. In Passepartout mit Goldleiste.
+
+- 186 Alte Kirche. Alte Dorfkirche mit verwitterten Baumen und malerischem Dorffriedhof. Bleistiftzeichnung. 10,5 X 17,5 cm. Passepartout in grauer Leiste gerahmt.
+
+- 187 Landschaft. Morgenstimmung, grine Flur mit Baumsilhouetten gegen lichtgelbe Luft.
+
+Aquarell in Passepartout und Goldrahmen.-16 X 10 cm. 188 Landschaft. Feldweg. Signiert:Hugo Muhlig. Aquarell in Passepartout und Goldrahmen. 15 X 11 cm.
+
+Duisseldorf
+
+## Adolf Muller (Diezschuler)
+
+- 189 Hafenarbeiter bei der Mittagsrast. Im Vordergrunde Gruppen feiernder Arbeiter und Frauen, die ihnen Essen bringen, rechts Blick auf alte Hafenanlagen und Bauten. Signiert: Adolf Muiller 1880.O1 auf Leinwand. 71 X 50 cm. Unter Glas, dunkler Rahmen.
+
+lebte in Munchen.
+
+## Adolf Muller
+
+Munchen
+
+O1 auf Pappe. 27 X 17 cm. Schwarzer Rahmen.
+
+- 190 Am Waldrand. Auf einem mit Bretterzaunen geschlossenen Wege zwei Bauerinnen. Rechts Blick in den Laubwald, links ein Wegkreuz.
+
+Signiert: Adolf Muiller 1905.
+
+## M. Muller,gen.Feuermuller
+
+- 191 Junges Bauernpaar am Wirtstisch bei Kerzenlicht. Im Hintergrund Musikanten und Tanzer.
+
+(1807-1865).
+
+- Abbildung Tafel XIV. O1auf Leinwand. 55X52 cm.Goldrahmen.
+
+## Moritz Muller sen.
+
+lebte in Munchen.
+
+Signiert: M. Muiller sen., Munchen.
+
+O1 auf Holz. 27,5 X 21 cm. Goldrahmen.
+
+- 192 Jagdstick. Ein Rehbock mit zwei Gaisen tritt aus dem Walde an die Tranke, wo ein Wildentenpaar abstreicht.
+## Munchener Maler um 1830
+
+- 193 Wildbach. Im Vordergrund rechts brausender Wildbach, links zerkliftete felsige Gebirgszenerie. Im Olauf Leinwand.60X46 cm.Goldrahmen. Hintergrund Tannenwald,blaue bewolkte Luft dariber.
+
+## Munchener Maler um 1880
+
+- 194 Moorlandschaft mit Rehen. Moor in herbstlicher Vegetation,einige Birken und Erlen,im Mittelgrund Ol auf Leinwand. 58X41 cm.Holzrahmen. ein paar Rehe. Gemalt in Finks Art.
+- 195 Amperlandschaft in mooriger Gegend mit Huigelgelande im Hintergrunde. 01 auf Leinwand. 45X 17 cm. Schwarzer Rahmen.
+
+## Munchener Maler A.S.1908
+
+- 196 Kinderbildnis. Blondgelockter Kinderkopf mit frischen roten Backen und dunklen Augen,in weiber Schirze, einen roten Apfel in beiden Handen. 01 auf Holz. 44X34 cm. Goldleiste. Signiert:A. S.Mchn.1908.
+
+## L.Neubert
+
+gest. in Minchen.
+
+01 auf Malpappe. 22,5 X 26 cm. Schwarzer Rahmen.
+
+- 197 DorfstraBe, durch Hauser und Wirtschaftsgebaude ganz abgeschlossen. Signiert: L. Neubert.
+
+## Fritz Neumann
+
+- 198 StraBenkampf bei Sabac. Signiert: Fritz Neumann. Guasche. 44 X 30 cm. Unter Glas, schwarze Leiste.
+- 199 Osterreichische Jager erobern montenegrinische Geschitze. Signiert: Fritz Neumann. Guasche. 45 X 31 cm. Unter Glas, schwarze Leiste.
+
+## E.Nitzky
+
+Minchen
+
+- 200 Frihling. Im Vordergrund bluihende Baume, Kind und Frau im Grinen. Im Mittelgrund Tal mit FluB und dariber hinaus Huigelgelande und blaue Fernen. Signiert:E.Nitzky. O1 auf Holz. 33X 22 cm.Unter Glas,dunkler Rahmen.
+
+## J.Noerr
+
+lebte in Munchen.
+
+- 201 Waldinneres mit Bach. Signiert: J. Noerr. 01 auf Pappe. 30 X 18 cm. Schwarzer Rahmen.
+
+## Franz Nolken
+
+Hamburg
+
+- 202 Madchen in der Sonne, eines im blauen, eines im weiben Kleid und eines in blauer Schirze und rotem Zopfband.Impressionistische Malerei
+
+Pastell auf Pappe unter Glas. 89 X 74 cm. WeiBer Rahmen.
+
+## Adolf Obermullner
+
+geb. 1833 in Wels (Oberosterreich), gest. in Wien.
+
+- 203a Die Simony-Hitte am Karlseisfeld mit dem Blick auf die Zwei Dirndln, den Hohen und Niederen Dachstein,die Simony-Scharte, den Loidl-und Wallner-Kopf,das Schoberl,Hohe und Niedere Kreuz.Massige Felspartie mit Almhitte; schoner Blick auf felsige Hochgipfel mit Hangegletschern.
+- b Hochgebirgslandschaft. Das Rauriser Knappenhaus mit dem Rauriser Goldberg, Sonnblick und Hoch-
+
+Signiert:A. Obermillner 1888. 01auf Leinwand. 62X 88 cm.Goldrahmen.
+
+- narr. Schones Gletscherpanorama, im Vordergrund kleiner See zwischen Moranentrimmern. Signiert:A. Obermillner. O1 auf Leinwand. 45X 61 cm.Goldrahmen.
+
+## Georg Papperitz
+
+geb. zu Dresden 3. August 1846, lebt in Munchen.
+
+- der linken Hand umfassend,unter seinem Mantel birgt. Die rechte Hand Eurydikes drickt Orpheus an seine Brust.
+
+Signiert:G.Papperitz.
+
+01auf Leinwand. 115X82 cm. Goldrahmen.
+
+Abbildung Tafel Xl.
+## Alberto Pasini
+
+205 Moschee. Am FuBe eines machtigen, mit tiefblauen Kacheln belegten Pfeilers hockt ein Beter auf dem Steinfliesenboden. Durch das hohe, vergitterte Fenster fallt grin gedampftes Licht herein. Im Hintergrunde steil aufsteigende Treppe mit hochragender, kuppelbedeckter Kanzel. Signiert:A.Pasini 1875.
+
+geb. 1826 in Busseto (Parma), lebte in Moncalieri bei Turin.
+
+O1 auf Leinwand. 32X24 cm.Goldrahmen.
+
+## Max Pitzner
+
+206 Perdemarkt in Minchen.Wintertag,lebhaftes Treiben,Pferdevorfihrung,Gruppen von Handlern und Kennern, lebhafter Verkehr von Wagen auf der StraBe. Im Hintergrund die Silhouette der Frauenturme. Signiert: M.P.1899. Ol auf Holz. 27 X 17 cm. Unter Glas, schwarzer Rahmen. 207F Pferdehandler. Beschneite StraBe und Hauser an einem FluB. Im Mittelgrund ein bespannter Schlitten und ein paar lose Pferde, zwei Manner dabei und eine Frau am Ufer. Signiert: M. Pitzner, Munchen. O1 auf Holz. 22X 14 cm. Goldrahmen.
+
+geb.1855, lebte in Minchen.
+
+## August Poppel
+
+- 208 Bei Menzing. Eine Schwaige unter Baumen rechts davon Viehweide mit Durchblick in die Ferne. Im Vordergrund ein Pferd und Fuillen an der Tranke. Uber der in gesattigten Farben prangenden Sommerlandschaft bewolkte Luft.
+
+Signiert: A. Poppel, Munchen.
+
+lebte in Minchen
+
+01 auf Leinwand 57X35 cm. Dunkler Rahmen.
+
+## Leo Putz
+
+209 Ruckenakt einer Blondine im Atelier. Das Modell in Bewegung, sich zu entkleiden, Wasche und graues
+
+Signiert: Leo Putz.
+
+Minchen
+
+Kleid im Vordergrund. Im Hintergrund dunkler gehaltenes Interieur.
+
+O1 auf Leinwand. 91 X 77 cm. Versilberter Rahmen.
+
+## Ludwig Putz
+
+- 210 Die Osterreicher in der Schlacht bei Lemberg. Gegen in Brand geschossene russische Stellungen vorgehende Osterreicher.
+
+## Abbildung Tafel XVIl
+
+Signiert: Franz Quaglio 1807.
+
+Munchen
+
+Signiert: Ludwig Putz. Guasche. 50 X 35 cm. Unter Glas, schwarze Leiste.
+
+## F.Quaglio
+
+Minchen
+
+- 211 Gruppe von Pferden und Hunden mit einem Warter in Waldlandschaft.
+
+## Max Rabes
+
+- 212 Flucht der russischen Armee nach der Schlacht bei Tannenberg.. Die Darstellung behandelt den Schauplatz des kleinen Plautziger Sees, wo die Russen auf ihrem fluchtartigen Ruickzug gegen die StraBe nach Ortelsburg von unserer Artillerie unter morderisches Feuer genommen wurden. Es ist um die Mittagszeit in heller Sonne. Die Szene ist nach der Schilderung eines Augenzeugen gemalt. Signiert: Max Rabes,auf der Ruickseite die eben angefuihrte Schilderung.
+
+Guasche, grau in grau, weiB gehoht. 54,5X 35 cm. Unter Glas, schwarze Leiste.
+
+- 213 Erstirmung eines russischen Schitzengrabens. Im Vordergrund stark besetzter russischer Schitzengraben, im Mittelgrund Nadelbaume und Verhau mit heranstirmenden deutschen Soldaten. Signiert: Max Rabes.
+
+Guaschmalerei, grau in grau und weiB gehoht. 61 X 45,5 cm. Unter Glas, schwarze Leiste.
+
+## Heinrich Rasch
+
+lebte in Minchen.
+
+- 214 Dorfweiher unter grinen Baumen. Im Hintergrund Zaun und Haus.
+
+Signiert:H.Rasch, DieBen 1874.
+
+O1 auf Leinwand. 40X28,5 cm. Schwarzer Rahmen.
+
+- 215 Auf Bergeshohe. Auf einem breiten Grat wandert ein junges Paar der aufgehenden Sonne entgegen. Im Hintergrund bewaldete und Felsgipfel.
+
+Signiert:H.Rasch 1876.
+
+- 216 6Landschaftsmotiv aus der Umgebung von Bernau.
+
+Ol auf Holz. 34 X 46 cm. Goldrahmen.
+
+Signiert:Bernau 1877 H. Rasch. O1 auf Leinwand. 31X41 cm. Schwarzer Rahmen.
+
+01auf Holz. 21 X 26 cm. Goldrahmen.
+Signiert: K. Raupp.
+
+Signiert: J. Rummelspacher.
+
+Kopf und Blick gesenkt.
+
+## Karl Raupp
+
+Minchen
+
+- 217 Im hoheren Schutz. Im Sturm treibender, mit Heu beladener Kahn. Mutter und Kind von einem Schutzengel bewacht.
+
+## E.Reiniger
+
+Minchen
+
+- 218 Chiemseelandschaft. Blick von einem Higel im Norden des Sees auf diesen und das dahinter liegende Gebirge.
+
+Rechts unten bez.:E.Reiniger.
+
+01 auf Leinwand. 17,5X 28,5 cm.Goldrahmen.
+
+## Th.Rocholl
+
+Berlin
+
+- 219 Aufsitzende Kirassiere. Auf freier sonniger Wiese und unter Baumen rastende Kirassiere werden alarmiert und besteigen ihre Pferde.
+
+Signiert:Th.Rocholl 02.
+
+O1 auf Leinwand. 168X 106 cm.Goldrahmen.
+
+Abbildung Tafel VIlI.
+
+## Chr.Rohlfs
+
+Hagen i.W.
+
+- 220 Goethes Gartenhaus. Herbststimmung in pointillistischer Art. Signiert:Ch.R. O1 auf Leinwand. 73X58 cm. Natureichenholzrahmen.
+
+- 221 Knabenakt gegen grine Wand und roten FuBboden.
+
+Signiert rechts unten:C. R.S.
+
+01auf Leinwand.79X51 cm.
+
+Abbildung Tafel XV.
+
+- 222 Haus in Soest. Frontalansicht eines westfalischen Hauses in der Sonne mit weiBem Putz und rotem Ziegeldach, links ein Nebengebaude, rechts rotes Dach und Ziegelmauer. Im Vordergrund Karren und ein Karrner. Ol auf Leinwand.110X73 cm. Holzrahmen.
+
+## Alfred Roloff
+
+Berlin
+
+- 223 Vernichtung russischer Kavallerie bei Soldau. Attacke russischer Kavallerie auf deutsche Infanterie, die sie mit vernichtendem Feuer empfangt.
+
+Guaschebild, farbig. 29 X 19 cm.Unter Glas, schwarze Leiste.
+
+## Carl Rottmann
+
+(1798-1850).
+
+- 224 Landschaft. Studie zu dem Bilde von Reggio unter den Arkaden des Minchener Hofgartens. Im Vordergrunde ein blauer See, dahinter ein Gebirgstock im rotlichen Glanz der Abenddammerung. Abbildung Tafel XIll. 01 auf Leinwand. 58X70 cm. Schwarzer Rahmen.
+
+## J.Rummelspacher
+
+lebte in Berlin.
+
+- 225 Aus der Eifel. Malerisches Stimmungsbild. Alte Hauser in Wolken und Nebel bei hervorbrechendem Mondlicht.
+
+O1 auf Holz. 31 X 24 cm. Unter Glas, schwarzer Rahmen.
+
+## A.J. Sailer
+
+- 226 Die Narewarmee in die Masurischen Sumpfe getrieben. Im Vordergrunde ein russischer Offizier auf braunem, durch das Wasser watendem Pferde. Signiert: J.A. Sailer. Guasche. 30 X 19 cm. Unter Glas, schwarze Leiste.
+
+Minchen
+
+## Leo Samberger
+
+Munchen
+
+227 Brustbild des heiligen Aloisius. Profil nach rechts, im schwarzen Ordenshabit und weiBem Halskragen.
+
+Signiert: Leo Samberger.
+
+01 auf Leinwand. 76 X 57 cm. Unter Glas, dunkler Rahmen.
+
+O1 auf Holz. 57X39cm.Goldrahmen.
+## Egon Schiele
+
+Wien
+
+228 Tote Stadt. Dammerdistere,alte, verlassene Hauser und Nachtschatten. Signiert:Egon Schiele 1912. 01 auf Leinwand. 80 X 80 cm. Holzrahmen.
+
+## Carl Schlageter
+
+229 Weibliche Aktfigur, liegend. Die im Oberlicht farbig gesehenen malerischen Fleischtone in starker Gegensatzlichkeit zu dem weiBen Linnen am Boden. Signiert:Karl Schlageter 1916. O1 auf Leinwand. 100 X 70 cm. Schwarzer Rahmen.
+
+Minchen
+
+## Rob. Schleich
+
+Munchen
+
+230 Ausfahrt. Dame in einer Rokokokutsche, ein Jager am Wagen, der Waldhorn blast und andere figurliche Staffage in einer Herbstlandschaft. Signiert: R. Schleich. O1auf Holz. 11,5 X 9 cm. Unter Glas, dunkler Rahmen. 231 Wirtshausszene zur Tenierszeit. Zwei Zechbrider mit Gitarre sitzen an einem FaB. Die Schenkin steht vor ihnen. Signiert: Rob. Schleich. 01 auf Holz. 10X 15 cm. Goldrahmen. Abbildung Tafel XVI. 232 Heuernte. Bauern mit hochbeladenem Erntewagen auf dem Felde. Signiert: Rob.Schleich. O1 auf Pappe. 9X 14 cm. Schwarzer Rahmen.
+
+## Abbildung Tafel XVI. Eduard Schleich sen.
+
+(1812-1874).
+
+Signiert: Eduard Schleich. 01 auf Pappe. 17 X 36 cm. Schwarzer Rahmen.
+
+233 Wildbach zwischen Geroll und Felsblocken. Signiert:Eduard Schleich. 01 auf Pappe. 33,5 X 47,5 cm. Schwarzer Rahmen. 234 Hochgebirgspanorama (GroB-Venediger). Signiert:Eduard Schleich. 01 auf Pappe. 16 X 40 cm. Schwarzer Rahmen. 235 Gebirgspanorama aus den Vorbergen mit dem Blick in die Ebene. Signiert: Eduard Schleich. O1 auf Pappe. 17,5 X 31,5 cm. Schwarzer Rahmen. (aus dem NachlaB) 236 Gebirgspanorama.Im Mittelgrund ein Seespiegel.
+
+## Ed. Schleich d.J.
+
+(1852—1893).
+
+237 Tierstick. Ein machtiger, weiBbrauner Stier, auf grinem Grund von der Sonne gestreift. Von rechts gesehen. Signiert:Ed. Schleich jr. 01 auf Pappe. 28 X 35 cm. Schwarzer Rahmen.
+
+## F.Schmalzigang
+
+geb. zu Friedrichshafen a. Bodensee 1847, lebte in Minchen.
+
+238 Widderkopf. Vor graubraun getontem Hintergrunde Kopf eines braunen Widders.
+
+Signiert: F. Schmalzigang, Aresing 1868. Ol auf Leinwand. 31X39,5 cm. Schwarzer Rahmen.
+
+## Mathias Schmid
+
+geb. im Dorfe See im Paznauner Tal 1835, lebt in Minchen.
+
+239 Tischgebet. Um einen runden Tisch zwei sitzende und ein stehendes Tiroler Bauernmadchen; eine davon spricht das Tischgebet. Auf dem Tische eine Schissel mit Kartoffeln. Hintergrund Holzvertafelung mit einem Heiligenbilde. Signiert:Mathias Schmid. Ol auf Leinwand. 67 X 55 cm. Schwarzer Rahmen.
+
+## J.Schmitzberger
+
+## Abbildung Tafel V.
+
+Minchen 239a Katzenbild. Wer kommt? Drei Katzchen in gespannter Aufmerksamkeit gegen den Beschauer blickend 01auf Leinwand. 51X34cm.
+
+## Carl Schuch
+
+(1846—1903).
+
+240 Studie. Malerische Darstellung eines kleinen Stauwohrs im Gebirge. 01 auf Pappe. 26 x 27 cm. Goldrahmen.
+## Harry Schulz
+
+## Minchen
+
+- 241 Seeschacht bei Santa Maria.Rechts vorne diebrennende neisenau,weiter zurick Scharnhorst,Leipig, Dresden; links Good Hope,Monmouth, Glasgow, Otranto. Signiert: Harry Schulz. Aquarell. 43,5 X 28,5 cm. Unter Glas, schwarze Leiste.
+- 242 U 9 vernichtet drei englische Kreuzer. Signiert: Harry Schulz. Aquarell. 43,5 X 28,5 cm. Unter Glas, schwarze Leiste.
+
+## Hans Rudolf Schulze
+
+- 243 Erkundigungsfahrt eines Militardoppeldeckers an der Marne. Das Gelande unten in Abendstimmung; aufblitzender Geschitzkampf, nach oben der Doppeldecker, unter ihm weibe Schrapnellwolkchen. Signiert: Hans Rud. Schulze. Guasche. 49 X31 cm. Unter Glas, schwarze Leiste.
+- 244 Heldengraber im Feindesland. Im Vordergrund auf einer steinigen Anhohe Soldatengrab mit Kreuz, Kranz und Helm. Links eine mit Wagen, Geschitzen und Truimmern besate Anhohe, dariber wolkiger Abendhimmel.
+
+## Abbildung Tafel XVIll.
+
+Guasche. 49 X 28 cm. Unter Glas, schwarze Leiste.
+
+## Otto Seitz
+
+(1846—1914).
+
+- 245 Genrebild.Alter Mann in niederlandischer Tracht,blauer Jacke und roter Mitze,in der rechten Hand den Steinkrug,in der linken die Pfeife.
+- Signiert: Otto Seitz. 01 auf Holz. 30 X 23 cm. Dunkler Rahmen.
+
+## A.Stademann
+
+(1824——1895).
+
+- Signiert:Ad. Stademann. O1 auf Holz. 35,5 X 18 cm. Unter Glas, schwarzer Rahmen.
+- 246 Winterlandschaft Im Vordergrund von Schlittschuhlaufern und Schlitten belebte Eisflache. Im Hintergrund die in Nebel gehillte Silhouette des Minchener Stadtbildes.
+- 247 Eisvergnigen. Winterabend auf dem Eise mit Schlittschuhlaufern und Schlittenfahrern. Baume und ein in Nebel gehilltes Stadtbild. Signiert:A. Stademann. 01 auf Leinwand. 55X35 cm. Goldrahmen.
+- besonnten Bauernhausern. Im Vordergrund ein Huiterbub auf einem schwarzen Fohlen,ein Bauernmadchen am Wasser und darin lustig platschernde Enten. Signiert: A. Stademann. 01 auf Leinwand. 50 X 40 cm. Goldrahmen.
+- 250 Eisvergnigen. Am tiefen Horizont eine in Nebel gehillte Stadt. Im Mittelgrund im Eis eingefrorene Schiffe. Im Vordergrund reich bewegte und durch verschiedene Typen belebte Staffage: Schlittschuhlaufer, Schlitten, Fuhrwerke u. a. m. Signiert: A. Stademann. 01 auf Leinwand. 65X 111 cm. Goldrahmen.
+- 249 Jagdgesellschaft. Im tiefen Schnee dem fernen Dorfe zustapfend. Rechts in Winternebel eingehillter Wald und einzelne kahle Baume. Signiert: A. Stademann. 01 auf Holz. 40 X 27 cm. Goldrahmen.
+- 251 MondnachtWinterlandschaftmit dunkler ewolkterLuftaus de egen die Mitte des Bildes derolle Mond scheint und auf der Eisdecke unten reflektiert. Das Eis umrahmt von dunklen Baumgruppen und Dorfern. Lichtschein am Ufer. Auf dem Eise Schlittschuhlaufer und andere Figuren. Signiert: A. Stademann. 01 auf Leinwand. 62X 108 cm.Goldrahmen.
+- 253 Winterlandschaft mit groBer grauer Luft. Im Vordergrund Eisflache mit figurlicher Staffage; links
+- 252 Winterlandschaft. Eingang zu einem beschneiten Dorf, Schneedecke und Luft warm bestrahlt von der untergehenden Sonne. Signiert: A. Stademann. 01 auf Pappe. 19 X 12 cm. Unter Glas, dunkler Rahmen.
+- in Nebel gehuillter Wald. 01 auf Leinwand. 49 X 37 cm. Unter Glas, dunkler Rahmen.
+- 255 Mondlandschaft an der niederlandischen Kuste. Schiffe und Windmihlen. Sparliches Mondlicht, das durch duistere Wolken fallt. Signiert: A, St.
+- 254 Auszug zur Jagd. Beschneiter Wald. Auf dem durch eine Waldlichtung fuhrenden Weg ein paar Edel leute zu Pferd, Jager mit SpieBen und Hunden hinterher. Signiert: Ad.Stademann 1879. 01 auf Leinwand. 65X42 cm. Goldrahmen.
+
+01 auf Pappe. 20 X 26 cm. Goldrahmen.
+
+Signiert: Hans Rud. Schulze.
+256 Winterlandschaft. Eisbedeckter See mit Schlittschuhlaufern in grauer Nebelstimmung. Waldiges Ufer links. Signiert: St. 01 auf Leinwand. 17 X 25,5 cm. Schwarzer Rahmen. 257 Bauern bei ihrem Wintervergnigen. Neblige Winterlandschaft mit Bauernhaus am Waldrande. Signiert:A.St. O1 auf Pappe. 22,5 X 31,5 cm. Schwarzer Rahmen. 258 Winterlandschaft. Verschneites Huigelgelande mit Wald und Buschwerk. Staffage im Vordergrund. Signiert: Stademann. 01 auf Pappe. 23,5 X 31 cm. Goldrahmen. 259 Waldweg bei aufgehendem Mond. Signiert:Stademann. 01 auf Holz. 27 X 37 cm. Schwarzer Rahmen. 259a Mondnacht. Unter stark bewolktem, vom vollen Mond iberstrahltem Nachthimmel FluBlandschaft mit erleuchteten Hausern am Ufer. Im schilfbestandenen Ufer ein Kahn mit zwei Figuren.
+
+## A.Steffens
+
+Signiert:A. Stademann. 01 auf Holz. 26x 17 cm. Goldrahmen.
+
+260 Die Malerin. In ganzer Figur vor der Staffelei sitzend, mit Pinsel und Palette bei der Arbeit in Atelierumgebung. Signiert:A. Steffens. 01 auf Leinwand. 75X59 cm. Goldrahmen.
+
+## Willy Stoewer
+
+261 Der Kreuzer ,Konigsberg zerstort den englischen Kreuzer ,Pegasus" vor Dar es Salam. Signiert: Willy Stoewer. Aquarell. 43 X 27 cm. Unter Glas, schwarze Leiste.
+
+## Otto Leopold Stritzel
+
+Minchen
+
+262 Bauer mit Pferd,am Abend heimwarts ziehend. Schimmel von rickwarts her von rotem Abendlicht beleuchtet,auf der Seite blaue Schatten; dieselbe farbige Grundstimmung auch in der Landschaft. Signiert: Otto Stritzel. 01 auf Pappe. 36 X 29,5 cm. Unter Glas, dunkler Rahmen.
+
+## A.Teichlein
+
+(1820-1879).
+
+263 Hohlweg. Zwischen Felsen und herbstlich belaubten Baumen hinziehender Weg unter stark bewolktem Abendhimmel. Auf dem Weg figurliche Staffage. Signiert: A. Teichlein. O1 auf Pappe. 25 X 18 cm. Unter Glas, dunkler Rahmen. 264 Landschaft. In waldiger Landschaft an einem sich kreuzenden Weg Hirt mit einer herausziehenden Schafherde. Effektvoll malerisch empfundene Landschaft. 01 auf Holz. 26 X 19 cm. Goldrahmen. 265 Waldige Landschaft. Stilles Wasser, Felsen und Baumgruppen im Hintergrunde; im Vordergrunde uippige Vegetation. 01auf Holz.40X30,5 cm.
+
+## Albert Theer
+
+Wien
+
+266 Portrat eines eleganten jungen Biedermeiers. Signiert: Albert Theer, Wien 840. Aquarell. Oval, 22X 18 cm.Brauner Rahmen.
+
+## Thermeyer
+
+um 1830.
+
+267 Architekturbild.Alte Hauser und Turme am Eingang eines Stadtchens.Im Vordergrund rechts Steinkreuz mit figirlicher Staffage. 01 auf Leinwand.26 X31 cm.Goldrahmen.
+
+## Willi Tiedjen
+
+Munchen
+
+268 Deutsche Torpedoboote greifen einen englischen Kreuzer an. Signiert:W. Tiedjen,Munchen 1914. Aquarell. 41 X 25,5 cm. Schwarzer Rahmen. 269 Deutsches Linienschiff im Kampfe mit feindlichen Torpedobooten. Signiert:Tiedjen 14. Aquarell. 49 X31 cm. Schwarzer Rahmen. 270 Ein deutscher Kreuzer kapert einen englischen Handelsdampfer. Signiert: Tiedjen 14. Aquarell. 41 X26 cm. Schwarzer Rahmen.
+
+## Abbildung Tafel XVI.
+## Hans Thoma
+
+Karlsruhe
+
+- 271 Idylle. Nymphe, eine Ziege melkend, ein nacktes Kind dabei, das sich an der Mutter halt.
+- Signiert:HTh.1909. Rotelzeichnung. 41 X 39,5 cm. Unter Glas, schwarzer Rahmen.
+
+## Desire Thomassin
+
+Munchen
+
+- 272 Segelschiffe am Strande. Ein Fuhrwerk holt den Fang ab.
+- 01 auf Pappe. 18 X 35 cm. Goldrahmen. Signiert: Desire Thomassin, Munich.
+
+## Eduard Thony
+
+Minchen
+
+- Aquarell. 27,5 X 18 cm.Unter Glas, schwarze Leiste.
+
+## C.Troyon
+
+(1810-1865).
+
+- 274 Hundebild. Rehfarbener Foxterrier, sitzend, in Dreiviertelansicht des Korpers, den rechten VorderfuB straff vorgestellt, aufmerksam gegen den Beschauer blickend. Signiert:C.Trojon 1854. O1 auf Leinwand. 50 X 60 cm. Unter Glas. Goldrahmen. Abbildung Tafel XIl.
+
+## T.W.
+
+- 275 Traubenstilleben. WeiBe,rotliche, gelbe und blaue Trauben mit Pfirsichen.
+- Signiert:T.W.1872. O1 auf Leinwand. 34 X 21 cm.Dunkler Rahmen.
+
+## Unbekannter Meister
+
+- 276 Landschaft. Sandweg mit Buschwerk und Staffage. Wahrscheinlich eine Kopie nach altem Meister. 01 auf Holz. 30X27 cm.Goldrahmen.
+- 277 Italienische Marine. Typische Lagunenlandschaft. Vorn am flachen Strande Figurengruppe. Lastschiffe und Fischerbarken unter Segel. Monogrammiert: J.W. 01 auf Holz. 36 X 30 cm. Goldrahmen.
+
+## Unbekannt: A.P.
+
+- 277a Landschaft. Abend im Moor. Auf dem Weg ein Reiter in weibem Rock und eine Frau. Am Weg eine Alte mit Reisigbindel auf dem Ruicken. Signiert:A.P. 01 auf Holz. 16 x9 cm. Goldrahmen.
+
+## Unbekannt: T.S.
+
+- 277b Landschaft in grauer Regenstimmung. Im Vordergrund FluBufer mit Wascherinnen. Signiert: T.S. O1 auf Holz. 16x 11 cm. Goldrahmen.
+
+## Unbekannt: L.S.
+
+- 277c Abtei Maria Laach. Im waldigen Talgrund die Kirche. Im Vordergrund ein Weg am FluB mit figuirlicher Staffage. Signiert: L. S. 01 auf Holz. 34x26 cm. Goldrahmen.
+
+## Unbekannt
+
+- 277d Brustbild eines Madchens. Blondgelocktes, blauaugiges Madchen mit entbloBter Schulter im Hemd und blauen Kleid. 01 auf Leinwand.39x30 cm.Goldrahmen.
+
+## Unbekannt:Burgerlicher Maler des 18.Jahrhunderts
+
+- 277e Familienbild. Mann in blauem Rock mit der Zopfpericke am Tisch sitzend und seine Taschenuhr mit goldener Kette einem Kind reichend, das seine Frau auf dem SchoB halt. Frau mit uiber der Stirn gewelten Haaren, ein gesticktes Haubchen auf dem Kopf, Schmuck von Perlen und roten
+
+Auf der Rickseite: Wittwe des seligen Prof. Dr. Ludwig Merz. Portrat seiner Eltern Professor Liebherr in Landshut. O1 auf Leinwand. 86x67 cm.Schwarzer Rahmen.
+
+- Steinen am Hals, Till dariber und blauem Oberkleid.
+## Francesco Vinea
+
+geb. 1846 in Forli (Romagna), lebte in Florenz.
+
+- 278 Madchen in hellblauer Taille vor neutralem Hintergrund. Signiert: F. Vinea. O1 auf Leinwand. 31X22 cm.Goldrahmen.
+
+## W.Voeldter
+
+- 279 Portrat eines eleganten jungen Mannes. Biedermeier. Signiert:W.Voeldter p.1847. 01 auf Holz. 26X 21 cm. Goldrahmen.
+
+## Hans Voldter
+
+280 Wisby auf Gotland. Blick iber die Stadt auf Ziegeldacher, auf die Ruine einer gotischen Kirche und dariber hinaus auf das Meer. Grauer Nachthimmel mit aufgehendem Mond. Signiert: Hans Voldter 90. O1auf Leinwand. 45X39 cm.Goldrahmen.
+
+## S.Vollmar
+
+280a Genrebild. Madchen in bauerlicher Tracht liest in einem auf dem Tisch aufliegenden alten Buch. Dahinter Ausschnitt eines Fensters mit Blick ins Grine. Signiert:13. Sept.73. 01 auf Leinwand. 42x35 cm.Goldrahmen.
+
+## Friedrich Voltz
+
+geb. 1817 zu Nordlingen, gest. 1886 in Minchen.
+
+281 Tierstick. Kampf eines Stiers mit einem Baren. Signiert:F.V. NachlaBstempel. Tuschzeichnung. 50 X43 cm. Unter Glas, dunkler Rahmen. 282 Verfallene Bauernhitte. Davor auf dem Boden sitzend ein Kind mit Huihnern. Signiert: Aubing F. Voltz.
+
+O1 auf Holz. 34X 40 cm. Schwarzer Rahmen. Abbildung Tafel XIIl.
+
+## Ludwig Voltz
+
+(1825-1911).
+
+283 3Breysee. Blick gegen die Berge, Abendstimmung. Signiert:L.V. 01 auf Pappe. 32,5 X 23 cm. Unter Glas, dunkler Rahmen. 284 Tierstick. Ackergaul mit Geschirr an einer Stallmauer. Signiert: L.V. O1 auf Leinwand.17,5X25 cm.Schwarzer Rahmen. 285 Tierstick. Ein graues und ein weiBes Rind, am Boden ruhend.
+
+Signiert: L.V. O1 auf Pappe. 23X34 cm. Goldrahmen.
+
+## T.VoB
+
+286 Kleine Landschaft. Higelgelande mit Wald und Feld. Staffage. Signiert: J. VoB. O1 auf Pappe. 15 X 23,5 cm. Schwarzer Rahmen.
+
+## A.Waagen
+
+(1833-1898).
+
+- 287 Die Sabinerberge bei Rom. Im Vordergrund bergiges Gelande mit Baumen und einem alten Palazzo (Montragone bei Frascati). Signiert: A.Waagen. O1 auf Leinwand. 48 X 29 cm. Schwarzer Rahmen. 288 Berglandschaft. Anstieg durch den Bergwald. Auf freier Lichtung ein Jager auf der Birsch. Im Hinter grunde rechts Hochgebirg. Signiert: A.Waagen. 01 auf Leinwand. 52X 38,5 cm. Schwarzer Rahmen. 2891 Motiv aus der Umgebung von Bozen. Bauernhaus am Wege. Blihende Baume. Im Hintergrund Hochgebirge. Signiert: A.Waagen.. O1 auf Pappe. 13 X 22 cm. Schwarzer Rahmen. 290 Bei Salurn in Sidtirol. Blick von der Hohe ins Tal. Signiert: A.Waagen. 01 auf Leinwand. 13X 21,5 cm. Schwarzer Rahmen. 291 Motiv aus Sidtirol. Tief eingeschnittenes Tal mit steil aufsteigenden Wanden. Gebirgsbach mit Holzbricke.Im Hintergrund Gletschermassiv. Signiert: A.Waagen. 01 auf Pappe. 12,5 X 20,5 cm. Schwarzer Rahmen. 292 Bei Frascati. Italienische Landschaft. Signiert:A. Waagen.
+
+Ol auf Papier, aufgezogen auf Leinwand. 12,5 X 20,5 cm. Schwarzer Rahmen.
+- 293 Landschaft aus Tirol. Im Vordergrund Higel mit Wald und verstreuten Hitten, im Hintergrund Gletschermassiv.
+
+Signiert: A. Waagen. 01 auf Pappe. 12,5 X 20,5 cm. Schwarzer Rahmen.
+
+294 An der Taufer bei Gries. Gebirgslandschaft. Mit Geschiebe erfilltes FluBbett im Vordergrunde, dahinter
+
+Signiert: A. Waagen.
+
+Dorfhauser und die Berge.
+
+O1 auf Pappe. 12X21 cm. Schwarzer Rahmen.
+
+- 295 Hochgebirgssee in Felseinsamkeit. Im Hintergrund weit gedehnte Berggruppen. Signiert: A. Waagen. O1 auf Pappe. 12X 21 cm. Schwarzer Rahmen.
+
+## K.Weigand
+
+Munchen
+
+296 Madchenkopf. Frisches, volles Gesicht mit schwarzem Haar und dunklen Augen. Dreiviertelprofil, von links gesehen. Neutraler Hintergrund. Signiert: K. Weigand. 01 auf Holz. 34 X 23,5 cm. Schwarzer Rahmen. 297 Madchenkopf. Schwarzes Haar, dunkle Augen. Profil vor neutralem Hintergrund. Signiert: K.Weigand. O1 auf Holz. 32,5X 23 cm. Schwarzer Rahmen. 298 Blonder Madchenkopf in ausgeschnittenem Kleide. Dreiviertelprofil, von links gesehen.
+
+Signiert: K.Weigand. O1auf Holz. 25X 19 cm.Schwarzer Rahmen.
+
+## E.R.Weib
+
+Berlin
+
+299 Besuch. Zwei blonde Frauen vor einer Gartenmauer. Eine en face mit weiBem Gewand, ein Korbchen mit Blumen und Fruichten auf den Handen. Die andere in Profilstellung im dunklen Kleid,einen VeilchenstrauB in der Hand. Uber der Mauer Ausblick in die Landschaft. Signiert:E.R.WeiB 1903. 01 auf Leinwand. 150 X 110 cm.
+
+## L. Sion Wenban
+
+Abbildung Tafel X.
+
+300 Waldfest. Im Vordergrund im Schatten eines machtigen Buchenstammes Sommergaste. Weitere an einem im Hintergrund durchlaufenden Staketenzaun, durch den helles Grin durchschimmert. O1 auf Pappe. 46 X 37 cm. Goldrahmen. 301 Dorfweiher. Im Vordergrund breiter Wasserspiegel, links grines, baumbestandenes Ufer. Im Hintergrund unter Weiden und Laubbaumen geweiBte Hauser und rote Ziegeldacher, zart abgestimmte, lebte in Munchen.
+
+leicht bewolkte Luft dariber. 01 auf Pappe.76 X 52 cm. Dunkler Rahmen.
+
+## Josef Wenglein
+
+geb. 1845 zu Munchen, lebt daselbst.
+
+302 Waldinneres. Ein Wassertimpel, umgeben von dichtem Gebuisch mit Durchblick auf bewolkten Himmel. Signiert:J. Wenglein 1879. 01 auf Leinwand. 28,5X 43 cm. Schwarzer Rahmen. 303 Abend. Uber dem dammerigen Moor die Silhouetten zweier Birkenstamme, umgeben von groBer Luft in stimmungsvoller Beleuchtung. Signiert: Josef Wenglein. 01 auf Pappe. 42 X37 cm. Goldrahmen. 304 Tierstudie. Gefleckte Kuh im Seitenlicht von links gegen graue Luft. Signiert: J. Wenglein. O1 auf Pappe. 43 X 35,5 cm. Unter Glas, schwarzer Rahmen.
+
+## F.Wenk
+
+305 Jagdstilleben. Ein erlegter Sechserbock hangt an einer Scheunentire. Signiert: F. Wenk. 01 auf Leinwand. 100 X 69 cm. Schwarzer Rahmen.
+
+## Joseph Willroider
+
+306 Landschaft. Im Vordergrund rechts ein Schuppen, links Maueriberreste. Herbstlich gefarbte Baume und Nadelwald im Hintergrunde. Signiert: J. Willroider. O1 auf Leinwand. 34 X 26 cm. Schwarzer Rahmen. 306a Landschaft in den Vorbergen. Im Vordergrund ein Wassertimpel und Streuhaufen mit Enten und geb. zu Villach 1838, gest. 1915 zu Munchen.
+
+Huhnern. Im Hintergrund Dorf, gebirgiges Gelande und Bergkette. Signiert: J. Willroider. O1 auf Pappe. 25 x 16 cm. Unter Glas, dunkler Rahmen.
+## Ludwig Willroider
+
+(1845-1910).
+
+- 307 Abendlandschaft. Freie Hohe mit groBer bewolkter Luft. Signiert: Lud. Willroider. 01 auf Pappe. 31 X 22 cm. Unter Glas, dunkler Rahmen.
+- 309 Motiv aus Bernried. Blick von bewaldeter Hohe aus auf den Starnberger See. Signiert: Lud. Willroider. 01 auf Pappe. 27 X 24 cm. Unter Glas, dunkler Rahmen.
+- 308 Wassertuimpel mit steil aufsteigender Boschung und Silhouetten von Baumkronen in leicht bewolkter Abendluft. Signiert: Lud. Willroider. Ol auf Pappe. 33 X 24 cm.Unter Glas, dunkler Rahmen.
+- 310 Sommerlandschaft. Wasserspiegel, grunes Ufer mit Baumgruppen als dunkle Silhouetten, leicht bewolkte dunstige Luft daruber. Signiert: Lud. Willroider. 01 auf Pappe. 31 X 23,5 cm. Unter Glas, dunkler Rahmen.
+- 312 Landschaft. Hugeliges Gelande mit groBer, leicht bewolkter Luft daruber. Im Vordergrund Wasser mit Brucke, weidende Kuhe und Hirte, alte Sandgrube und Weg mit Kuhen. Signiert:L. Willroider. Auf der Ruckseite: NachlaBstempel.
+- 311 Motiv aus Bernried. Weg an einem Bache mit Erlen und Birkengruppen. Im Hintergrund die Silhouette eines Hauschens. Signiert:Lud. Willroider. 01 auf Pappe. 30 X 23 cm. Unter Glas, dunkler Rahmen.
+
+01 auf Leinwand. 40 X 29 cm. Unter Glas, dunkler Rahmen.
+
+- 312a Landschaft. FluBtal mit grober bewolkter Luft daruber. Kohlenzeichnung auf Pappe. 57 X 42 cm. Eichenholzrahmen.
+
+## F.Z.
+
+- 313 Schlachtenbild. Angriff bayerischer Chevauxlegers gegen eine Batterie. Hinter dieser eine brennende Dorfkirche. Uniform der Mitte des vorigen Jahrhunderts. Signiert:F.Z. 01 auf Leinwand. 45 X 55 cm. Goldrahmen.
+- 314 Schlachtenbild. Bayerischer Generalstab im Feuer. Im Hintergrund gegen eine feuernde Batterie an reitende Chevauxlegers. Uniformen der Mitte des vorigen Jahrhunderts. Signiert: F.Z. 01 auf Leinwand.43 X59 cm. Goldrahmen.
+
+<!-- image -->
+## APRIL-VERSTEIGERUNGEN
+
+## Antiquitaten,Kunst-und Einrichtungsgegenstande Alte Gemalde
+
+aus den Nachlassen
+
+Rudolf Hubel,Meran Museumsdirektor Dr.H.Stegmann,Munchen Direktor Dr.Wilhelm Schmidt,Munchen Professor Wierusz-Komalski,Munchen etc.
+
+## Kunstlerischer Nachlab
+
+(Olgemalde und Studien)
+
+Professor WieruszKomalski,Munchen

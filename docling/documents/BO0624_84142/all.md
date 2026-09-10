@@ -1,0 +1,661 @@
+## CONDITIONS DE LA VENTE
+
+Elle sera faite au comptant.
+
+Les adjudicataires paieront dix pour cent en sus des encheres.
+
+## ORDRE DE LA VACATION
+
+On suivra l'ordre numerique du Catalogue.
+<!-- image -->
+
+## DESIGNATION
+
+## ESTAMPES
+
+COSWAY (D'apres R.)
+
+1—Mrs Cosway, par ScHIAvoNETTI.
+
+Petite gravure anglaise imprimee en couleurs. Marge. Sous verre.
+
+## COYPEL (D'apres)
+
+2—Vertumne et Pomone.—Zephire et Flore.
+
+Deux estampes formant pendants, gravees, par F. BARTOLOZZI.
+
+Superbes epreuves, imprimees en couleurs, avec le cadre rehausse d'or. La premiere est d'un état tres rare aoant toutes lettres Petite marge.
+
+## LANCRET (D'apres N.)
+
+3-4 ——Mlle Camargo.-Mlle Salle.
+
+Deux gravures en noir se faisant pendants, par L. CARs et DE LARMEssIN. Marge. Encadrees.
+
+## LE PRINCE(D'apres J.-B.)
+
+5—Jeune Femme debout arrangeant des fleurs.
+
+Gravure a limitation de dessin aux crayons de cou- leur, par G. DEMARTEAu (No 385). Petite marge.Encadree.
+## NATTIER (D'apres J.-M.)
+
+- 6—Mme la Duch. de...(Louise-Henriette de Bourbon-Conti) en Hebe.
+
+Gravure en noir, par HuBERT. Cadre Louis XVI en ancienne baguette de bois dore.
+
+## WARD (Publiee chez)
+
+- 7—A Cottager return'd from market.
+
+Gravure anglaise ancienne en couleurs. Marge.En- cadree.
+
+## WATTEAU (D'apres ANT.)
+
+- 8-9—LAccordee de village.-La Mariee de village.
+
+Deux gravures en noir se faisant pendants, par CocHIN et DE LARMEsSIN.Marge.
+
+Cadres Louis XVI en ancienne baguette de bois dore.
+## DESSINS
+
+BOUCHER (Ecole de F.)
+
+- 10—Le Repos. Etude de femme nue. Dessin a la sanguine et rehauts de blanc. Haut., 30 cent.; larg., 45 cent. 1/2.
+- —Academie d'Homme. Dessin a la sanguine et rehauts de blanc. Haut.,49 cent.;larg.,35 cent,
+
+## ECOLE FRANCAISE (xviIIe siecle)
+
+- 12—Amour dans un paysage. Dessin, de forme ovale, au lavis. Haut.,16 cent. 1/2;larg.,11 cent.
+
+## ECOLE FRANCAISE(xvIl1e siecle)
+
+- 13—Paysage anime de petits personnages. Gouache.
+
+Haut.,13 cent. 1/2; larg., 20 cent.
+
+FRAGONARD(H.)
+
+14—Escalier dans un parc.
+
+Croquis au lavis de bistre.
+
+Haut.,16 cent.;larg.,18 cent.
+## HUET (CHRISTOPHE)
+
+## 15—Fruits et legumes.
+
+Deux dessus de portes faisant pendants.
+
+Toiles.Haut.,71 cent.;larg.,1 m.35 cent.
+
+## HUET (J.-B.)
+
+- 16—Diane et la nymphe Echo.
+
+Dessin a la plume et lavis. Signe et date: 1780.
+
+Haut.,15 cent.;larg.,16 cent.1/2.
+
+## LANCRET(N.)
+
+## 17—Etude d'Homme debout.
+
+Represente dans l'attitude de la marche,tenant un fil dans les deux mains comme pour attirer quelque chose a lui.
+
+Dessin a la sanguine.
+
+Haut.,19 cent.;larg., 11 cent.
+
+## LEONI (LE CHEVALIER)
+
+18—Portrait de Dona Lisa Aldobrandini.
+
+Dessin au crayon noir et rehauts de blanc.
+
+Haut., 21 cent.; larg., 14 cent.
+
+(Vente Valory,1908,No419.)
+
+ROBERT (HUBERT) (DEUX PENDANTS)
+
+19-20 —L'Escalier de pierre.—Une Arcade d’am- phitheatre.
+
+Compositions animees de petits personnages. Deux dessins rehausses de lavis a l'aquarelle.
+
+Haut.,22 cent.; larg.,18 cent
+## SICARDI (LOUIS)
+
+## 21—Portrait d'Homme.
+
+Dessin de forme ovale au crayon rehausse de blanc. Signe a gauche: Sicardi,1817, age de 74 ans.
+
+Haut ,12 cent.; larg.,10 cent.
+
+Derriere, on lit cette dedicace:u Je donne ce portrait,fait par Sicardi,a mon amie de ceur,ma femme,Clemence Jamont, ce 3 aout 1871. Signe: H.CARRIER.
+
+(Collection Pierre Decourcelle,mai 1911.No 164)
+## TABLEAUX
+
+## CASANOVA
+
+23—La Halte dans la campagne.
+
+Toile.Haut.,71 cent., larg.,58 cent.
+
+Cadre ancien Louis XV en bois sculpte dore.
+
+## ECOLE FRANCAISE (xvIIre siecle)
+
+24—Petit portrait de Jeune Femme.
+
+En corsage rouge,portant des feurs,dont elle a orne sa chevelure et son corsage.
+
+Panneau.Haut.,45 cent.;larg.,33 cent.
+
+Epoque
+
+Beau cadre en bois sculpte redore. LouisXV.
+
+ECOLE FRANCAISE(xvIIIe siecle)
+
+25—La Marchande de poissons.
+
+Panneau.Haut., 47 cent.；larg.,38 cent.
+ECOLE FRANCAISE (xvIne siecle)
+
+26——La Paic protegeant les Arts.
+
+Composition allegorique formant dessus de porte. Toile. Haut.,1 m. 04 cent.; larg.,1 m. 40 cent. Cadre ancien en bois dore.
+
+(Voir la Reproduction.)
+## ECOLE FRANCAISE(xvIne siecle)
+
+27-28-La Guerre.—Les Arts.
+
+Deux compositions allegoriques formant dessus de portes.
+
+Toiles.Haut.,1 m.17 cent.;larg.,1 m.27 cent.
+
+Cadres anciens en bois dore.
+
+## ECOLE HOLLANDAISE (xvIe siecle)
+
+- 29—Portraits de deux Jeunes Filles formant un groupe.
+
+Toile.Haut., 95 cent.; larg,85 cent.
+
+GERARD(Baron)
+
+30—Portrait dEnfant blond.
+
+Toile.Haut.,55 cent.; larg. 46 cent.
+## GOYEN (JAN VAN)
+
+## 31—Bord de riviere, en Hollande.
+
+Au premier plan a droite, sur un ilot qui emerge des eaux,des animaux sont au paturage et des pecheurs montes sur deux barques posent un filet; a gauche, un bateau a voile file sous le vent. Au fond, se profilant sur l'horizon,des moulins a vent et les monuments eleves de la ville. Ciel nuageux.
+
+Panneau signe du monogramme et date:1655.
+
+Haut.,37 cent.;larg., 50 cent.
+
+(Voir la Reproduction.)
+
+HUET (Attribue a JEAN-BAPTISTE)
+
+- 32—La Petite Pecheuse.
+
+Toile. Haut., 60 cent.; larg.,48 cent.
+
+## LANCRET (D'apres N1coLAs)
+
+- 33—L'Enfance.
+
+Composition decorative pour dessus de porte,connue par la gravure de De LARMEssIN.
+
+Toile.Haut.,90 cent.; larg.,1 m. 07 cent.
+## LELY(PIERRE)
+
+34—Portrait d’une Dame de qualite.
+
+Representee de grandeur naturelle,assise, vue de trois quarts a droite en robe decolletee, paree de joyaux et enveloppee d'un manteau; elle tient sur ses genoux une gerbe de fleurs.
+
+Toile.Haut.,1 m.17 cent.;larg.,99 cent.
+
+(Voir la Reproduction.)
+## LOUTHERBOURG (Attribue a)
+
+## 35—Pastorale.
+
+Personnages aqueduc.
+
+s et animaux; fond de paysage et
+
+Toile.Haut.,74 cent.; larg,1 m.25 cent.
+
+## MEULEN (Attribues a VAN DER) (DEUX PENDANTS)
+
+36-37 - Sieges de villes par Louis xIV.
+
+Toiles. Haut.,79 cent.; larg., 1 metre.
+
+RAOUX (JEAN)
+
+- 38—Jardiniere.
+
+Jeune femme a mi-corps dans un medaillon ovale. Toile.Haut.,48 cent.; larg.,38 cent.1/2. Cadre ancien Louis XIV en bois sculpte dore.
+
+## ROBERT(HUBERT)
+
+## 39 —La Cascade.
+
+Au milieu d'un paysage mouvemente, pres d'une source, deux femmes sont arretees.Au fond,on apercoit des chasseurs.
+
+Panneau. laut., 22 cent.; larg., 16 cent.
+
+Cadre en bois sculpte.
+
+(Collection Pierre Decourcelle. Mai 1911,n 44.)
+40—LePuits.
+
+Composition decorative animee de personnages, pour dessus de porte.
+
+Toile.Haut., 62 cent.; larg.,1 m.33 cent.
+
+(Voir la Reproduction.)
+
+## ROBERT (HUBERT)
+
+(DEUX PENDANTS)
+
+41-42—Erection d’une statue dans un temple rus- tique.—La Visite au tombeau.Effet de nuit.
+
+Toiles.Haut., 61 cent.; larg.,50 cent.
+
+## SWANEVELT (H. VAN)
+
+- 43—Paysage anime de figures, et troupeau de
+- moutons.
+
+Toile.Haut.,48 cent.1/2;larg.,56 cent.1/2.
+
+## TARAVAL (H.)
+
+- 44—Les Arts couronnes par la Renommee.
+
+Composition allegorique. Toile de forme ovale.
+
+Haut., 60 cent.;larg., 50 cent.
+
+## ROBERT(HUBERT)
+## CADRES
+
+- 45— Cadre rectangulaire en bois sculpte dore, decore aux coins de coquilles, volutes feuillagees et feuilles d'eau. Epoque Louis xv.
+
+Haut., 32 cent.1/2; larg., 46 cent.
+
+- 46-47 -Cadre a pastel en bois moulure, sculpte et dore, decore de petites feuilles. Epoque Louis xv.— Cadre en bois finement sculpte dore, richement decore de rocailles, coquilles, fleurs,etc.
+
+Haut.,49 cent.;larg.,59 cent. Haut, 22 cent.; larg., 30 cent.
+
+- 48——Petit cadre rectangulaire (en hauteur),a crossettes, en bois sculpte dore, decore de piastres, culots et fronton a ruban. Epoque Louis XVI.
+
+Haut.,17 cent.; larg.,12 cent. 1/2.
+
+- 49-50 — Deux petits cadres ovales en bois sculpte dore, decores, l'un d'un laurier et rais-de-coeur, l'autre d'une perle et feuille d'eau.
+
+Haut., 16 cent.1/2; larg.,23 cent.
+
+Haut., 10 cent. 1/2; larg., 8 cent.
+
+- 51-Cadre rectangulaire (en hauteur) en bois
+- sculpte et dore, a oves, perles et rais-de-coeur, orne d'un fronton fait d'un cartel enrubanne avec feuillage. Epoque Louis xVI.
+
+Haut., 85 cent.; larg., 70 cent.
+- 52—Cadre rectangulaire （en hauteur) en bois
+- sculpte et dore, a moulure et feuille d'eau ; fronton fait d'un cartel et de fleurs, culot a cartouche et laurier. Epoque Louis xVI.
+
+Haut.,61 cent.；larg.,49 cent. 1/2
+## CERAMIQUE
+
+- 53-54 - Tasse et sa soucoupe en ancienne porce-
+
+Haut.,5et6cent.
+
+- laine de la Compagnie des Indes, a decor de fleurs et petite bordure.- Deux tasses cylindriques et soucoupes en ancienne porcelaine de Paris, decorees de fleurettes en dorure.Ensemble trois pieces.
+- 55—Coupe a bord lobe en ancienne porcelaine du Japon, decoree en couleur et dorure de feurs,
+- papillons et attributs. Socle en bois de fer.
+
+Diam., 28 cent.
+
+- 56 —Sucrier quadrilobe couvert et son presentoir en ancienne porcelaine tendre de Chantilly,decore en couleur de branchages fleuris. Marque en rouge.
+
+Long., 23 cent.
+
+- 57— Petite aiguiere et son bassin, de forme contournee, en ancienne porcelaine de Ginori, decoree en grisaille de sujets mythologiques a personnages et de fleurs;bordure a filets et hachures en dorure.
+
+Haut.,20 cent.;larg.,25 cent. 1/2.
+
+(Voir.la Reproduction.)
+
+- 58—Deux oiseaux:pivert et perruche, perches sur des troncs,en porcelaine de Saxe decoree au naturel.
+- 59— Oiseau perche, se grattant l'aile avec son bec, en ancienne porcelaine de Saxe decoree au naturel.
+- 60 — Deux oiseaux en ancienne porcelaine de Saxe; ils reposent sur des terrasses a rocailles en bronze cisele et dore.
+
+Larg.de base,13 cent.1/2.
+
+- 6l -Deux tasses et soucoupes en ancienne porcelaine de Saxe,a decor de relief gaufre et medaillons a volatiles et fleurs peints en couleur,avec bordure a imbrications violettes.
+
+Haut,,5 cent.
+
+- 62—Flacon a the, a six pans, en ancienne porcelaine de Saxe, decore sur toutes les faces de paysa-
+- ges avec personnages, en grisaille; fond dore.
+
+Haut.,9 cent.1/2.
+- 63 — Service a the en ancienne porcelaine de Saxe, dite Saxe-Royal, du temps de Louis xV,et comprenant : six tasses et soucoupes,une theiere, une verseuse, un sucrier et un bol. Decor de medaillons a sujets de paysages maritimes animes de personnages en camaieu; encadrements faits d'arabesques et de fleurs avec rehauts de dorure. Deux pieces sont marquees en bleu des lettres K. P. M.
+
+Haut. de la verseuse:20 cent. 1/2.
+
+(Voir la Reproduction.)
+- 64— Groupe en ancienne porcelaine de Saxe: Sanglier attaque par trois chiens, sur terrasse avec tronc d'arbre et fleurettes.
+
+Long.,27 cent
+
+- 65 - Sucrier a base arrondie en ancienne porce-
+
+Ilaut.,8cent.1/2.
+
+- laine tendre de Sevres, decore en couleur et dorure; fond bleu pointille et feuillage d'or, et bordure superieure a guirlandes de feurs sur fond blanc.
+- 66 - Tasse cylindrique et sa soucoupe en porcelaine dure de Sevres, decoree en dorure sur fond marbre.
+
+Haut. de la tasse,7 cent.1/2.
+
+- 67 —Petite tasse a base arrondie, avec couvercle
+- et soucoupe,en ancienne porcelaine tendre de Sevres; decor en couleur par bandes blanches et vertes,avec rayures bleues et rehauts d'or.
+
+Haut.,7 cent.
+
+(Collection Goury du Rolland,Mai 1905.)
+
+- 68— Deux petites tasses,a base arrondie, avec leurs soucoupes, en ancienne porcelaine tendre de Sevres;decor en couleur de guirlandes de roses et lauriers et bordures bleu turquoise rehaussees de dorure. Annee R. (1770). Marque de decorateur indeterminee.
+
+Haut., 5 cent.
+- 69 - Tasse a base arrondie et sa soucoupe en ancienne porcelaine de Sevres,pate tendre.Elle est decoree en couleur d'Amours dans des medaillons encadres en dorure et reserves sur fond bleu-turquoise. Annee U. (1773). Marques des
+- decorateurs Chauvaux pere et Dodin (?).
+
+Haut. de la tasse, 6 cent.
+
+- 70 — Plat creux a ombilic en ancienne faiencehispano-mauresque,a reflets metalliques et decor rehausse de bleu sur fond chamois: fleurs stylisees, rinceaux et petites bordures, ombilic a
+- godrons.
+
+Diam.,49 cent.
+
+- 71—Coupe,a bord lobe, sur piedouche,en ancienne faience d'Urbino, decoree en plein d'un sujet tiré
+- de la Vie du Christ. Inscription au revers.
+
+Diam., 27 cent.
+
+- 72—Autre coupe, de meme forme et de meme ancienne faience, decoree en plein d'un sujet bibli-
+- que. Inscription au revers.
+
+Diam.,27 cent.
+
+- 73 —Plat en ancienne faience de Savone; decor bleu a personnages.
+- 74 — Grande assiette,de forme contournee,a marli ajoure, en ancienne faience de Strasbourg, decoree en couleur : gerbe de fleurs. Marque de Hannong.
+
+Diam.,29 cent.
+- 75 -Plat oblong a extremites cintrees en ancienne faience de Moustiers. Decor bleu, d'apres Berain.
+
+Long.,44 cent. 1/2.
+
+- 76 -- Deux tasses droites et soucoupes en ancienne porcelaine de Marseille,a decor de ruban et fleurs. Marque de Robert, en bleu.
+
+Haut. d’une tasse, 6 cent.
+
+- 77— Grand plat rond en ancienne faience de Marseille,de la fabrique de Saint-Jean-du-Desert. Decor bleu a medaillon central encadre d'un lambrequin et renfermant une composition a personnages; au marli, bordure a rinceau de
+
+Diam.,53cent.
+
+- feuillage et fleurs.
+- 78—— Vase-brule-parfums, de forme rectangulaire, avec couvercle ajoure et muni de deux anses tetes de beliers,en ancienne faience de Marseille, decore en couleur de petits sujets chinois dans le gout de Pillement. Marque de la Veuve Perrin.
+
+Haut.,19 cent.,; larg.,26 cent.
+
+(Voir la Reproduction.)
+
+- 79—Jardiniere-porte-bouquets,de forme demilune,en ancienne faience fine de Niederwiller (?), decoree de rocailles modelees en relief et polychromees, d'un paysage anirne de personnages en grisaille et de fleurs en couleur.
+
+Haut., 24 cent.; lar., 21 cent.
+
+(Voir la Reproduction.)
+- 80—Porte-montre,en forme de cartel,reposant sur deux lions, en ancienne faience de Rouen, decore en couleur. Sur la face principale,composition mythologique relative a Ceres;encadrement fait d'arabesques,guirlandes de fleurs, figures decoratives, coquilles,etc. Sur les faces laterales, medaillons avec paysagesetoiseaux
+- encadres de rocailles.Piece interessrnte et rare.
+
+IIaut.,32 cent.
+
+(Voir la Reproduction.)
+- 8l—Important vase, de forme ovale, avec cou-
+- vercle ajoure, muni de deux anses grecques surelevees,et reposant sur piedouche, en ancienne faicnce fine de Sceaux, decore en colleur; sur la face principale,medaillon a sujet familial,et, sur lautre,medaillon,oiseaux et guirlandes de fleurs.
+
+Haut.,25 cent;larg.,30cent.
+
+(Voirla Reproductiou.)
+- 82—Grande-jardiniere porte-bouquets,de forme demicirculaire, en ancienne faience fine de Sceaux, decoree en couleur de paysages animes de nombreuses figures,et bordures de laurier et entrelacs.
+
+Haut.,20 cent.1/2;larg.31 cent.1/2.
+
+(Voir la Reproduction.)
+
+- 83 Vase, forme éventail, en ancienne faience fine de Sceaux, decore en couleur; sur l'une des faces, sujets familial a personnages; sur I'autre, oiseaux sur des branchages, bouquets de fleurs et filets de dorure.
+
+Haut., 12 cent.; larg., 18 cent.
+- 84 - Deux assiettes en ancienne faience de Delft, decor polychrome.
+- 85 — Deux plats en ancienne faience de Delft, decor
+- bleu.
+- 86 - Deux petites potiches couvertes en ancienne
+- faience de Delft,decor bleu.
+- Vase ovoide en ancienne faience de Delft,
+- 87 decor bleu.
+- 88 — Bouteille,a renfement spherique au-dessus du col, en ancienne faience de Delft, decor bleu.
+- 89-Potiche et couvercle en ancienne faience de
+- Delft,decor bleu a compartiments,ornes de personnages et vases de fleurs.
+- 90 — Deux potiches et couvercles en ancienne faience de Delft, decor polychrome a fleurs.
+
+Haut.,32 cent.
+- 91-Plat creux,a bord godronne, en ancienne fience de Delft, decore en plein dans le gout japonais, en couleur et rehauts d'or: personnages, rochers, feurs et oiseaux. Marque de Pynacher.
+
+Diam., 29 cent.
+
+(Voir la Reproduction.)
+
+- 92— Deux petits souliers en ancienne faience de
+- Delft, decores en couleur et rehausses d'or.
+
+Long.,12 cent.
+
+(Voir la Reproduction.)
+
+- 93 —Dessus de brosse,de forme ovale, lobee et bombee, en ancienne faience de Delft, decore en couleur avec rehauts de dorure:branche fleurie et oiseau;bordures a dent de loup et fleurs stylisees.
+
+Long，13 cent.
+
+(Collection Ploquin,n 60.)
+
+(Voir la Reproduction.)
+- 94 — Coupe ronde, a bord ajoure a entrelacs, en ancienne faience de Delft, decoree interieurement et exterieurement en couleur et dorure :oiseaux et fleurs, avec frise de feuillage. Marque de Pynacker.
+
+Diam.,25 cent.1/2.
+## SCULPTURES
+
+95—Buste representant un portrait de femme, la tete tournee de trois-quarts vers l'épaule gauche, vetue d'un corsage decollete borde de dentelle, les epaules enveloppees d'une fourrure ; coiffure haute ornee de perles. xvilre siecle.
+
+Platre.Haut., 81 cent.
+
+(Voir la Reproduction.)
+- 96 —Buste d'homme,un peu plus petit que nature, coupe aux épaules; la tete tournee vers la gauche,la chemise entr'ouverte. Terre cuite.
+
+Ce buste,paraissant dater de la fin du regne de Louis XV, representerait Noble-Pierre-Francois de Mignard (de la famille du celebre peintre Mignard). xville siecle.
+
+Terre cuite.Haut.,36 cent.
+
+- 97 — Deux sculptures decoratives, representant chacune un lion assis et posant une patte sur un serpent. Terres cuites.
+
+Terres cuites. Haut., 72 cent.; larg., 72 cent.
+## OBJETS DE VITRINE
+
+- 98 —Bonbonniere ronde en écaille blonde posee de petites etoiles d'or. Le couvercle est orne d'une miniature ovale: Portrait dhomme. Epoque
+- Louis XVI.
+- 99 —Miniature ovale attribuee a Isabey:Portrait de Napoleon en costume de general. Dans un écrin.
+
+Haut., 65 millim.;larg., 45 millim.
+
+- 100 — Petite peinture ronde, dessus de boite, representant un paysage anime de petits personnages.
+
+Diam.,6 cent.1/2.
+## OBJETS VARIES
+
+- 10l - Petit Christ en bois sculpte, dans un cadre, de forme contournee,en bois sculpte,attribue a Bagard,de Nancy, couronne d'une palmette. Commencement du xville siecle.
+
+Haut.,41cent.
+
+- 102 —Petit coffret a parfums en marqueterie de bois de placage, renfermant cinq flacons, un entonnoir et un petit pot a pommade en ancienne porlaine tendre a decor bleu.xvine siecle.
+
+Haut.,13cent.
+## BRONZES
+
+## D'AMEUBLEMENT
+
+## PENDULES
+
+- 103 —Petit lustre a huit lumieres en bronze, orné de cristaux :petites plaquettes, pendeloques et pieces d'enfilage. Dispose pour l'eclairage electrique.
+
+Haut.,1 metre environ.
+
+- 104 — Entourage de plateau, de forme contournee et reposant sur quatre pieds, en bronze cisele et dore. xvinl siecle.
+- 105—Paire de chenets en bronze cisele et doré; modele a vase sur socles enguirlandes de branches de chene. Epoque Louis XVI.
+
+Haut., 36 cent.
+
+- 106 -Paire de chenets en bronze cisele et dore;
+- modele a cassolette, sur socle orne et galerie enguirlandee de fleurs. Epoque Louis XVI.
+
+Haut., 35 cent.
+- 107—Pendule en marbre blanc sculpte,representant une jeune femme debout,pres du tambour renfermantle mouvement,et couronnant deroses l'Amour. Socle orne d'une frise en bronze cisele et dore a rosaces et culots. Cadran marque: Baudouin,a Paris. Epoque Louis xVI.
+
+Haut., 35 cent.
+
+(Voir la Reproduction.)
+
+- 108Pendule-cartel d'applique en bronze cisele et dore. Le mouvement, dont le cadran est marque : Courieult, a Paris, est enguirlande de laurier, cantonne de trophees d'attributs guerriers et surmonte d'un buste d'empereur romain;le culot forme d'une tete de belier et de branches de
+- chene. Epoque Louis xVI.
+
+Haut., 82 cent.
+
+(Voir la Reproduction.)
+
+- J09-Pendule en bronze ciselé dore et marbre blanc, faite d'un groupe figurant Venus et l'Amour. Sur le socle de base, rosaces et bas-
+- reliefs d'enfants. Epoque Louis XVI.
+
+Haut., 36 cent.
+
+(Voir la Reproduction.)
+## ECRAN,SIEGES&amp;MEUBLES
+
+- 110 - Ecran en bois sculpte dore, muni d'une feuille en ancienne tapisserie, du temps de la Regence,offrant,au centre,une figure de Flore qu'accompagne un Amour,encadree d'arabesques avec dais enguirlande de feurs, perroquets et socle cul-de-lampe orne de vases et instru-
+- ments de jardinage. Contrefond jaune.
+
+Dimensions de la feuille : Haut., 89 cent.; larg., 69 cent.
+
+## (Voir la Reproduction.)
+
+- lll - Fauteuil de bureau en bois sculpte ciré, garni de cuir. xvile siecle.
+- 112 — Tabouret en bois sculpte,recouvert en ancienne tapisserie du xville siecle.
+- 1l3 — Bergere en bois moulure et sculpte, peinte en blanc. Epoque Louis xv. Garniture de velours frappe.
+- 114 — Bergere en bois moulure, peinte en blanc. Epoque Louis xv. Garniture de velours frappe.
+- 115 - Table rectangulaire, faite d'une ancienne console,en partie du temps de Louis XIV,en bois sculpte redore a decor de palmettes,volutes et
+- quadrille. Tablette de marbre blanc.
+
+Long., 85 cent.
+
+- 116— Commode a deux rangees de tiroirs,de forme contournee sur pieds cambres et eleves, en marqueterie de bois de placage d'epoque Regence. Elle est garnie de bronzes ciseles et dores : chutes a mascarons, poignees de tirage, entrees de serrures,patins et cul-de-lampe. Dessus de marbre.
+
+Larg., 1 m. 45 cent.
+
+- 1l7 - Deux fauteuils a dossier ovale en bois moulure peint,recouverts d'ancienne tapisserie du temps de Louis XVI:bouquets de fleurs et
+- bordure a entrelacs.
+
+Larg., 59 cent.
+
+- 118 -Petite table-gueridon de forme ronde repo-
+- sant sur trois pieds, en acajou avec incrustations de bois jaune. Fin du xvinre siecle.
+
+Diam.,32 cent.
+
+- li9 - Petit meuble en acajou moulure,ouvrant a quatre portes grillagees. Dessus de marbre.
+- Epoque Louis XVI.
+
+Haut.,1 m.39 cent.
+- 120 —Petit secretaire,de forme droite,a abattant, tiroir et deux portes,en marqueterie de bois de couleur, orne de bronzes. Epoque Louis XVI. (Legeres parties refaites).Dessus de marbre.
+
+Haut.,1 m.35 cent.
+
+- 121 —Table-bureau en acajou, munie de deux tiroirs, ornee d'un perle en cuivre.
+
+Long.,1 metre environ.
+
+- 122 —Table ronde,reposant sur quatre pieds carres en gaines,munie de quatre tiroirs a la ceinture, s'ouvrant par un ressort, en acajou moulure. Le dessus, borde d'une galerie ajouree en bois, offre en son centre un medaillon a fleurs en marqueterie.Elle est ornee de petits bronzes: draperies, rosaces, petites chutes, etc. Epoque Louis XVI. Attribuee a David Roentgen.
+
+Diam., 59 cent. 1/2.
+
+(Voir la Reproduction.)
+
+- 123 — Commode,de forme droite,a leger ressaut central, munie de trois rangs de tiroirs,en marqueterie de bois de placage. Signee : J. Manser.
+- Dessus de marbre. Epoque Louis XVI.
+
+Long., 1 m.28 cent.
+
+- 124 — Glace-psyche, cintree a la partie superieure et comprise entre deux colonnes, en acajou； elle est ornee de deux bras-appliques a deux
+- lumieres et de motifs d'ornements en bronze dore.Epoque Empire.
+
+Haut.,1 m. 75 cent.
+
+(Vente Antocolsky.)
+- riques.
+
+## TAPISSERIES
+
+- 125 ——Petite tapisserie d'Aubusson, formant portiere,representant un paysage avec habitation et oiseau. Bordure d'encadrement sirnulant un
+- cadre. xvlle siecle.
+
+Haut., 2 m.60; larg., 1 m. 20 cent.
+
+- 126 —Tapisserie de Bruxelles, de la fin du xvie siecle, representant Samson renversant les colonnes du Temple.Large bordure d'encadrement faite d'une torsade de feuillages,fleurs et fruits, de niches simulees avec figures allego-
+
+Haut.,3 m.35 cent.;larg.,5 metres.
+
+- 127 — Tapisserie d'Aubusson, fin xvir siecle ou
+- commencement du xvine.Verdure presentant un paysage boise traverse par un cours d'eau et anime de deux faisans. Bordure d'encadrement a torsade de feuillages fleuris agrementee de petits oiseaux.
+
+Haut., 2 m. 55 cent.; larg., 2 m. 95 cent.
+
+- 128 — Tapisserie d'Aubusson du xvlre siecle. Ver-
+- dure representant un paysage boise, avec cours d'eau; au premier plan : fontaine et balustrade; des perroquets et un chien poursuivant un cerf animent la composition.Bordure d'encadrement a enroulement de feuillages et de fleurs.
+
+Haut., 2 m.85 cent.;larg.,4 m.45 cent,
+- 129 —Tapisserie d'Aubusson,xvlre siecle.Verdure presentant un paysage plante de grands arbres avec arbustes fleuris et volatiles.Au premier plan, dans le lointain:colline, chateau et piece d'eau. Bordure d'encadrement faite de feuillages, fleurs et oiseaux.
+
+Haut.,2 m. 65 cent.; larg.,3m. 90 cent.
+
+- 130 -Tapisserie d'Aubusson, de la fin du xvl1e siecle.Verdure representant un paysage boise, avec eclaircielaissant apercevoir deshabitations; au premier plan, cours d'eau avec chute et volatiles.Bordure d'encadrement a torsades de feuillages et fleurs.
+
+Haut.,2 m. 30 cent.； larg.,3 metres.
+
+- 13l-Tapisserie flamande du xvre siecle.Elle represente une compostion a nombreux personnages tiree de I'Ancien Testament. Large bordure d'encadrement faite de medaillons a sujets varies, de figures allegoriques, d'arabesques, de chutes de fleurs et fruits.Marque d'atelier dans le galon vertical droit.
+
+Haut.,3 m.10 cent.;larg.,5 m.20 cent.
+- 132 —Tapisserie flamande,du temps de la Regence, representant:le Concert dans le parc. Au milieu de la composition, dans le fond, on apercoit le chateau avec son parterre a la francaise; de chaque cote de la verdure,a droite un chateau d'eau, a gauche un pavillon avec fontaine aupres de laquelle est un groupe de personnages chantant ou jouant d'instruments divers. Bordure d'encadrement a torsades de fleurs, fruits et feuillage.
+
+Haut., 3 m. 60 cent.; larg., 2 m. 35 cent. (Voir la Reproduction.)
+
+<!-- image -->

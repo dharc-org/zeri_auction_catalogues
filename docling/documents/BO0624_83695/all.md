@@ -1,0 +1,2338 @@
+## CONDITIONS DE LA VENTE
+
+Elle sera faite au comptant.
+
+Les acquereurs paieront 1o p. 1oo en sus des prix d'adjudication.
+
+L'exposition mettant le public a meme de se rendre compte de la nature et de l'etat des objets,il ne sera admis aucune reclamation une fois ladjudication prononcee.
+
+## ORDRE DES VACATIONS
+
+## Jeudi 12 Decembre 1901
+
+| Dessins..           |                         |                           | No52a201                |                         |                         |                         |
+|---------------------|-------------------------|---------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
+|                     |                         | Vendredi 13 Decembre 1go1 |                         |                         |                         |                         |
+| Tableaux            |                         |                           | Nos 1a51                |                         |                         |                         |
+| Gravures            |                         |                           | Nos 202a213             |                         |                         |                         |
+| Livres..            |                         |                           | Nos214a290              |                         |                         |                         |
+| Cadres              |                         |                           | Nos 291 a 301           |                         |                         |                         |
+|                     | Samedi 14 Decembre 1go1 | Samedi 14 Decembre 1go1   | Samedi 14 Decembre 1go1 | Samedi 14 Decembre 1go1 | Samedi 14 Decembre 1go1 | Samedi 14 Decembre 1go1 |
+| Miniatures          | Miniatures              |                           | Nos302a318              |                         |                         |                         |
+| Porcelaines.        | Porcelaines.            |                           | 9610N                   |                         |                         |                         |
+| Faiences            | Faiences                |                           | Nos347a383              |                         |                         |                         |
+| Objets de vitrine.. | Objets de vitrine..     | Objets de vitrine..       | Nos 384 a 399           | Objets de vitrine..     |                         |                         |
+| Sculptures...       | Sculptures...           | Sculptures...             | 6000 soN                | Sculptures...           |                         |                         |
+| Pendules et bronzes | Pendules et bronzes     | Pendules et bronzes       | Nos 410 a 421           | Pendules et bronzes     | Pendules et bronzes     |                         |
+| Meubles...          | Meubles...              | Meubles...                | Nos 422 a 434           | Meubles...              |                         |                         |
+| Objets divers       | Objets divers           | Objets divers             | Nos 435 a la fin.       | Objets divers           |                         |                         |
+<!-- image -->
+
+## TABLEAUX
+
+## ECOLE FRANCAISE DU XVIII SIECLE
+
+- —Portrait d'homme.
+
+En buste, vetu d'un costume de la fin du regne de
+
+Louis XVI.
+
+Pastel.
+
+(H.0,55.-L.0,45.)
+
+- Portrait de lAmiral de Trentignac,gouverneur de Brest.
+
+Presque de face, en cuirasse recouvrant un cos- tume bleu.
+
+Pastel ovale. Cadre ancien.
+
+- Portrait de dame de qualite.
+
+Debout, vue a mi-jambes de face, elle tient un éventail de la main droite.
+
+Esquisse a l'huile sur toile.
+
+(H. 0,20, — L. 0,16.
+
+- Verre rempli de fleurs reposant sur un vieux livre.
+
+Peinture a l'huile sur carton.
+
+(H.0,31.—L.0,23.)
+
+(H.0,55.—L.0,45.)
+## 5.—Portrait de femme.
+
+En costume du temps de la Regence, corsage bleu et draperie rouge.
+
+Bois.
+
+- 6.—Portrait de Joseph Vernet.
+
+En buste de profil a gauche, coiffe d'une perruque poudree et vetu d'un habit gris recouvrant un gilet bleu.
+
+Vigoureuse peinture qui pourrait etre attribuee a Chardin. Toile. (H.0,55.-L.0,43.) Bordure ancienne.
+
+## BLIN DE FONTENAY
+
+7. 一 Tableau decoratif representant un surtout charge de fruits, se detachant sur un plat de metal ouvrage enguirlande de feurs.
+
+Fond de treillage et ciel.
+
+Toile.
+
+- Baigneuses.
+
+Plusieurs jeunes femmes nues prennent leurs ebats et se livrent au plaisir du bain dans un paysage accidenté
+
+Fin et precieux tableau de la meilleure qualite du maitre. Bois. (H. —L. ·)
+
+Collection Robillard de Reims.
+
+- Enfant au chat.
+
+Etude peinte en grisaille.
+
+Toile.
+
+(H.0,20.-L.0,14.)
+
+- 8.
+- 9.
+
+## BOILLY (L.)
+
+(H.1,13.-L.0,98.)
+
+(H.0,21.—L.0,16.)
+## CHARDIN (J.-B.-S.)
+
+## 10.——Brioche de noce.
+
+Sur la brioche reposant sur une table de pierre est piquee une branche d'oranger dont quelques petales sont tombes.
+
+(H. 0,44. - L. 0,36.)
+
+Pastel ovale sur toile. Bordure bois sculpte et dore Louis XVI.
+
+## I1. Nature morte.
+
+Semelle de peches, carafon et verre, pain et couteau sur une table de pierre. Signe et date 1778.
+
+Toile.
+
+Cadre ancien.
+
+(H.0,35.——L.0,45.)
+
+## CHARPENTIER (J.-B.)
+
+- Portrait de M. P. Royer, peintre de 1'Acade12.—
+- mie royale des Arts de Londres.:
+
+Il est represente debout a mi-corps tenant a la main droite un porte-crayon, tandis que la main gauche retient un carton sur lequel il s'appuie.
+
+Belle peinture largement executee, signee et datee de 1783, ayant figure au Salon de la meme année.
+
+Toile.
+
+Beau cadre ancien Louis XVI, a oves. en bois sculpte et dore.
+
+## 13. Portrait de jeune fille.
+
+Er buste presque de face, elle est vetue d'un corsage bleu. Chevelure poudrée ornee de feurettes blanches.
+
+Toile ovale.
+
+(H.0,55.——L.0，44.)
+
+(H.0,98.-L.0,78.)
+## COYPEL (attribues a CH.)
+
+## Zephyre et Flore.—Diane et Acteon.
+
+Deux toiles de forme ovale faisant pendants.
+
+Collection Pouyer-Quertier.
+
+## DIAZ (N.)
+
+## 15. — Pivoines et Coquelicots.
+
+Dans un vase de porcelaine bleue.
+
+Esquisse de forme ovale sur fondequarri, signee du monogr. N. D. Toile. (H.0,58.-L.0,41.)
+
+## DUCREUX (J.)
+
+## 16.Portrait d'Etienne Bezout.
+
+Celebre mathematicien ne a Nemours en 1739, mort en i783.
+
+Toile. (H.0,81.-L.0,63) Beau cadre ancien en bois sculpte et dore Louis XV.
+
+## DUPLESSIS(C.-M.-H.)
+
+## La Halte. 17.
+
+Des cavaliers se sont arretes au seuil d'une auberge; plus loin des groupes de personnages assis.
+
+Bon et fin tableau. Toile. Collection Pouyer-Quertier.
+
+(H.0,31.-L. 0,39.)
+
+(H.0,92.=L.0,77.)
+## 18. —- La Requisition.
+
+Un paysan conduisant une charrette de vivres, une jeune villageoise amenant des bestiaux au camp se dispo- sent a traverser un gue.
+
+Charmant tableau signe en bas a gauche. Bois. (H. 0,40. - L. 0,48.) Cadre ancien en bois sculpte et doré.
+
+## EISEN (FR.) LE PERE
+
+- -Jeux d’enfants.
+
+Spirituelle composition familiere au maitre.
+
+Signe et date de 1776.
+
+Cadre ancien en bois sculpte et doré.
+
+(H.0,23.—L.0.31.)
+
+## FRAGONARD (H.)
+
+- 20.——L'Ane et le Chien.
+
+Conte de La Fontaine.
+
+Bois..
+
+(H. 0,31. ——L. 0,39.)
+
+## Mle GERARD(MARGUERITE)
+
+- L'Enfance de Paul et Virginie.
+- 21.—
+
+Gracieuse composition de neuf personnages.
+
+Toile. (H.0,43.—L.0,54.) Cadre ancien en bois sculpte et dore Louis XVI.
+
+## GERICAULT
+
+22. —Interieur d'ecurie.
+
+Toile.
+
+(H. 0,32. ——L. 0,40.)
+
+Toile.
+
+- 19.
+## GREUZE(J.-B.)
+
+- 23.—Etude de jeune fille dans I'attitude de la douleur.
+
+Belle peinture du maitre, ayant un peu souffert. Toile. (H.0,40.——L.0,31.)
+
+## GUARDI (attribue a F.)
+
+24. —Paysage maritime aux environs de Venise avec barques et figures.
+
+Bois.
+
+(H.0,12.—L.0,18.)
+
+## HEINSIUS (J.-E.)
+
+- 25.—Portrait de l'abbe de Calonne, frere du ministre.
+
+ll est represente appuye sur le dossier d'un fauteuil semblant faire une demonstration.
+
+Signe et date de 1773. Toile.
+
+- 26.—Portrait d'Actrice.
+
+Vue presque de face, en buste et coquettement vetue, elle est assise tenant a la main un morceau de musique.
+
+Toile ovale.
+
+(H.0,64.—L.0,51.)
+
+(H.0,24.——L.0,19.)
+
+(H. 0,90. ——L. 0.74.)
+
+## HOIN (CL.)
+
+27. — Bacchante.
+
+Esquisse peinte a l'huile. Bois.
+- 29.
+
+## HUDSON (THOMAS)
+
+(ECOLE ANGLAISE)
+
+## 28.—Portrait dune Dame de qualite.
+
+Elle est representee assise presque de face, vetue d'une robe de soie grise garnie de dentelles blanches avec fichu sur les épaules, et coiffee d'un bonnet serre autour de la tete par un ruban bleu.
+
+Euvre remarquable de cet artiste qui fut le maitre de J. Reynolds.
+
+(H.1,22.—L.0,92.)
+
+Cadre ancien Louis XIV en bois sculpte et dore.
+
+Signe et date de 1747. Toile.
+
+## HUET (J.-B.)
+
+- Tableau decoratif representant, pres d'une fontaine, une jeune bergere, un panier de fruits au bras, causant avec un jeune garcon assis a terre a cote d'elle. Fond de paysage.
+
+Toile.
+
+(H.1,08.——L.1,32.)
+
+Cadre ancien en bois sculpte et dore du temps de Louis XV
+
+avec cartouche et guirlandes de laurier.
+
+## JEAURAT (E.)
+
+30. —— Jeune mere allaitant son enfant.
+
+Toile signee et datee 1753.
+
+(H. 0,35. -— L. 0,26.)
+
+## JOUVENET (J.)
+
+31. — Portrait de sa mere.
+
+Bois. (H.0,35.--L.0,28.) Beau cadre ancien en bois sculpte et dore.
+
+2
+## 32.—Entree de Jesus a Jerusalem.
+
+Brillante esquisse portant l'inscription : α Les Pharisiens dirent a Jesus : Maitre, faites taire vos disciples. Il leur repondit : S'ils se taisoient les pierres elles-memes parleroient.)
+
+Toile. Cadre ancien Louis XIV en bois sculpte ei dore.
+
+(H.0,45.—L.0,85.)
+
+## LARGILLIERE (N. DE)
+
+## 33.—Portrait de gentilhomme.
+
+De face, assis dans un large fauteuil en bois dore a dossier haut, coiffe d'une perruque bouclee retombant ment drapee en étoffe bleue richement brodee d'or et doublee de soie rose,laissant apercevoir le haut du gilet et le col entr'ouvert ainsi que les manchettes ornees de gui- sur les epaules, il est vetu d'une robe d'interieur amplepure.
+
+Tableau d'une coloration vigoureuse et d'une execution magistrale. (H.1,37.—L.1,04.) Cadre ancien en bois sculpte dore.
+
+Portrait de la Comtesse de Saulx-Tavannes,
+
+34. nee Marie-Catherine d'Aguesseau.
+
+Debout a cote d'une console en bois doré, elle est vue de face le bras droit appuye sur un coussin rouge. Elle est richement vetue d'une robe de velours grenat avec broderies d'argent et enveloppee d'un manteau bleu double de fourrure. Fond de paysage.
+
+Toile. (H.1,37.—L.1,05.) Cadre ancien de la Regence en bois sculpte et dore.
+36.
+
+## LE MOYNE (FR.)
+
+## 35. 一 Diane et Calisto.
+
+Sous les traits de la chaste deesse Jupiter apparait a la nymphe et l'entoure de nuees qui la derobent a la vue de ses compagnes groupees plus loin au pied d'un buisson.
+
+Toile.
+
+Beau cadre en bois sculpte et dore Louis XVI couronne d'un noeud de ruban et de guirlandes de chene.
+
+## LERICHE
+
+-Bouquets de fleurs.
+
+Roses et tulipes s'enlevant sur un fond clair.
+
+Toile. (H.0,40.——L.0,34.)
+
+## MAAS (NIC.)
+
+Portrait de jeune femme.
+
+Vue a mi-corps, vetue d'un corsage blanc decollete, entouree d'une draperie bleue.
+
+（H.0,44.—L.0,34.)
+
+Signe a gauche. Toile ovale équarri. Cadre ancien Louis XIV, en bois sculpte et dore.
+
+## MEULEN (V.DER)
+
+38.— Scene militaire.
+
+Esquisse peinte sur toile. (H.0,26.—L.0,34.) Cadre ancien en bois sculpte et dore.
+
+(H.0,77.——L.0,60.)
+41. —
+
+## MONNOYER(BAPTISTE)
+
+<!-- image -->
+
+Dans un vase de verre de Venise.
+
+Toile. Cadre ancien.
+
+(H. 0,43. ——L. 0,35.)
+
+## NATTIER LE PERE
+
+40. — Portrait de jeune seigneur.
+
+Vu a mi-corps tenant en main un faucon et vetu d'un costume blanc a revers rouges. Fond de paysage et ciel bleu.
+
+Toile. (H.0,80.-L.0,64.) Cadre a coins et milieux ajoures avec coquilles aux angles.
+
+## PERRIN(J.-C.-N.)(1754-1831)
+
+Portraits du peintre et de sa fille.
+
+La jeune flle, vetue de blanc, est assise devant la cheminee, les mains croisees aupres d'un metier a broder sur lequel sont jetees des étoffes de satin bleu et rouge. Debout, la main droite dans le gilet et l'autre sur le bord du metier, se tient le pere vetu d'un habit de soie a refets changeants.
+
+Bon et charmant tableau d'un harmonieux coloris. Signe. (H.1,45.—L.1,09.) Beau cadre ancien bois sculpte dore.
+- 45.
+
+## RIGAUD (HYAC.)
+
+42. — Portrait de Louis de Bourbon, comte de Vermandois (fils de Mme de La Valliere, mort a Courtray, en 1683, a l'age de 16 ans).
+
+Represente debout en cuirasse, ceint d'une écharpe blanche, le baton de commandement a la main droite, la gauche appuyee sur un casque reposant sur une draperie rouge recouvrant une console. Dans lelointain un combat.
+
+Toile. (H.1,38.—L.1,02.) Cadre ancien de la Regence, bois sculpte et doré. Provient du Chateau de Mussegros (Eure).
+
+- Portrait de Gentilhomme. Coiffe d'une haute
+43. perruque, vetu d'un costume de velours gris et enveloppe d'une draperie rose.
+
+(H,0,82.-L.0,65.)
+
+Toile ovale. Cadre ovale en bois sculpte dore Louis XIv.
+
+## SAINT-AUBIN (GABRIEL DE)
+
+- 44.— L'Heureuse mere.
+
+Une jeune femme assise a terre allaite son enfant;
+
+derriere est un jeune garcon.
+
+Spirituelle esquisse peinte a l'huile sur papier. (H.0,10.-L.0,12.)
+
+Cadre ancien.
+
+## TARAVAL (H.)
+
+- —Bacchante.
+
+Elle est assise frappant sur un tambour de basque, pendant qu'a ses cotes un jeune enfant joue de la fute de Pan.
+
+'Toile.
+
+(H. 1,05. ——L. 0,73.)
+- 48.
+
+## TENIERS(D.)
+
+46.— La Sainte Face.
+
+L'image du divin Martyr est imprimee sur une draperie que soutiennent deux cherubins agenouilles.
+
+Precieux petit tableau signe : D. Teniers fecit. Bois. （H.0,10.-L.0,14)
+
+## TIEPOLO
+
+47.—Le Centenier aux pieds du Christ.
+
+α Jesus entra a Capharnaim, un centenier vint a lui et lui demanda de guerir son serviteur paralytique qui etait reste dans sa maison, ajoutant qu'il lui suffrait d'une parole pour accomplir ce prodige. Jesus admirant sa foi, lui dit : Qu'il soit gueri comme vous avez cru,et le serviteur fut gueri.(Math.VIII.)
+
+Toile.
+
+Collection Pouyer-Quertier.
+
+La Foi et la Religion terrassant l'Heresie.
+
+Esquisse pour un plafond.
+
+Toile.
+
+49. — La Surprise.
+
+A l'ombre de grands arbres, un jeune homme épie une bacchante nue sommeillant sur une peau de tigre;il est surpris par une jeune fille qui lui ferme les yeux.
+
+Importante composition de l'artiste.
+
+Signee: Valin 1828. Toile. Collection Pouyer-Quertier.
+
+(H.0,62.-—L.0,78.)
+
+(H.0,52.-L.0,82.)
+
+(H.0,61.—L.I,15.)
+
+## VALIN
+## VOUET (S.)
+
+## 5o.—Portrait de Gentilhomme.
+
+En buste, le visage legerement tourne a gauche, il est pierres fines, recouvert en partie par un large col de den- vetu d'un riche costume a creves, brode d'argent et de telle.
+
+Toile ovale. (H. 0,68. — I. 0,60.) Cadre ancien bois sculpte doré.
+
+Collection Pouyer-Quertier.
+
+## WATTEAU (L.) de Lille
+
+51. L'Hermite.
+
+Conte de La Fontaine. Toile.
+
+(H. 0,40. -L.0,51.)
+
+## DESSINS
+
+- 52.—— AUBERT (L).LA FERMIERE CHARITABLE, COmposition de trois figures.
+
+Crayon noir.
+
+- 53.— AUDRAN.LAMBREQUIN.
+
+Compose d'un cartouche avec sujet en grisaille et arabesques, agremente de figures d'Amours et de Chimeres.
+
+(H.0,32.——L.0,25.)
+
+(H.0.43.-L.1,15.)
+- 54.
+
+## AUGUSTIN (Attribue a).PoRTRAIT DE JEUNE FILLE. En buste.
+
+Crayons noir et blanc.
+
+(H.0,20.--L.0,16.)
+
+- BAUR (W.). SAINT JEAN PRECHANT DANS LE
+- 55.— DESERT.
+
+Charmante petite gouache avec nombreux personnages.
+
+Cadre ancien Louis XIV,en bois sculpte dore. (H1.0,85.—L.0,13.)
+
+- 56.— BELANGER. INAUGURATION DE LA STATUE DE LOUIS XIV SUR LA PLACE DE BEAUVAIS, SOuS les ordres de M. Celerier. (Cette figure etait
+- au chateau de Boufflers.)
+
+Interessante composition avec une multitude de petits personnages repartis dans les tribunes et sur des terrasses qui bordent la place.
+
+A la gouache. Signee et datee 1785. (H.o,26.——L.o,41.) Cadre ancien Louis XVI, en bois sculpte et dore.
+
+- RETABLISSEMENT DE LA STATUE D'HENRI IV, SUR LE PoNT-NEUF.
+
+Projet agremente de figures par Belanger, intendant des Batiments de Monsieur, Architecte des Menus-Plaisirs. Dans le fond on distingue, a gauche, le quai de Gesvres et la Tour Saint-Jacques; a droite, la place Dauphine et le quai des Orfevres.
+
+La partie superieure du dessin est ornee de deux cartouches relies par une banderole portant au centre les armes de France soutenues par deux genies.
+
+Tres joli dessin au trait lave d'encre de Chine.
+- 58.—1 BELLANGE (Hip.). TAMBOUR-MAJOR DES GRENADIERS DE LA GARDE.
+
+Etude pour son tableau des Tuileries.
+
+Au crayon noir et bistre. Signe en bas a droite.
+
+(H.0,30.—L.0,22.)
+
+- TAMBOUR-MAJOR DE GRENADIERs en tenue de canpagne.
+- 59.
+
+Dessin au bistre releve de blanc et de vermillon. (H.0,33.-L.O,22.)
+
+- 60.—— BERAIN (J.).L'ABONDANCE.
+
+Composition decorative avec figures au milieu d'arabesques. (H.0,17.—L.0,235.)
+
+- 61.— LA ROYAUTE.
+
+Composition decorative avec figures au milieu d'arabesques.
+
+(H.0,16.—L.0,22.)
+
+62. BOILLY (L.). ETUDE DE FEMME DEBOUT Vetue d'une robe fottante.
+
+Crayons noir et blanc sur papier gris.
+
+- BOISSIEU (J.-J. de). VUE PRISE DU COTE DE VALMONT-EN-CAUX.
+
+Aquarelle. (H.0,12.-L.0,19.)
+
+- VILLAGE AUX ENVIRONS DE LYON, avec figures. Crayon finement aquarelle. Signe du monogramme. (H.0,18.—L.0,26.)
+- 63.—
+- 64
+- 65.—1 BOUCHER (Fr.).VENUS AUX AMOURS.
+
+Dessin a la sanguine. Signe en bas a droite (a ete grave). Cadre ancien. (H.0,20.—L.0,26.)
+- 66.— VENUs sUR LEs EAUx. Etude pour le tableau. A la sanguine. (H.0,26.—L.0,38.) (La gravure est jointe au dessin.)
+
+<!-- formula-not-decoded -->
+
+- 68.— RETOUR DU MARCHE.
+
+Belle et vigoureuse esquisse aux trois crayons sur papier bleu. (H.0,30.—L.0,25.)
+
+69. —LE RETOUR A LA FERME.
+
+Importante composition dessinee au bistre avecrehauts suivante du temps : dernier dessin jait par M. Boucher de crayon blanc. Au verso du dessin on lit l'inscription avant sa mort.
+
+(H. 0,24. ——L. 0,45.) Cadre ancien Louis XVI, bois sculpte et doré.
+
+- 70.— CARMONTELLE. PoRTRAITS DE Mme TAAFFE ET
+
+du regiment de Dillon.
+
+- DE soN MARI, gentilhomme Irlandais, chevalier de Saint-Louis, capitaine commandant
+
+Aquarelles sur fond de crayon noir.
+
+2 med. ovales.
+
+(H.0,13.—L.0,10.)
+
+- CASANOVA. CoMBAT DE CAVALERIE aupres d'un
+71. -pont.
+
+Encre de Chine et sepia.
+
+(H.0,26.—L.0,41.)
+
+- CHARLIER. ALLEGORIE DE LA PEINTURE.
+
+Composition de quatre figures executee a la gouache.
+
+Ovale sur velin. (H.0,275.-L.0,23.) Cadre ancien Louis XVI, bois sculpte et dore.
+
+- 72.
+- CHARPENTIER.LE BILLET DE LOGEMENT.
+
+## 73.——
+
+Composition de plusieurs figures.
+
+A la sepia rehaussee de blanc sur papier gris. (H.0,26.—L.0,17.)
+
+- CHOFFARD (P.P.). ENCADREMENT de dessin figu74. rant un cadre Louis XVI a crossettes, surmonté d'un noeud de ruban et ornemente de chutes et de guirlandes de fleurs; il renferme un dessin a la sanguine :portrait de jeune femme.
+
+A la mine de plomb.
+
+- COCHIN(C.-N.). PORTRAIT D'HOMME.
+
+En buste de profl a droite.
+
+A la mine de plomb.
+
+(Med.rond.Diam.o,11.)
+
+76. 一 COYPEL (Ch.). GALATHEE ET PoLYPHEME.
+
+Crayon noir et sanguine.
+
+(H.0,155.—L.0,205.)
+
+- DECAMPS (Attribue a).PAYSAGE AVEC CoURS
+77. D'EAU. Fusain. (H.0,34.-L.0,54.) Cadre ancien Louis XIV, en bois sculpte et doré.
+78. DELAFOSSE (C.). FRONTISPICE compose de différents vases decoratifs.
+
+Lavis d'encre de Chine.
+
+(H. 0,35. ——L. 0,28.)
+
+- VASE DECORATIF. 79. 1 Dessin a la plume signe en bas a gauche. (H.0,29.—L.0,21.)
+80. — VASE DECORATIF.
+
+Plume etsepia.Signe des initiales.(H.o,24.—L. o,18.)
+
+- 81.—— DEMARNE. RETOUR DE MARCHE.
+
+Plume et lavis.
+
+82. DESFRICHES. VUE PRISE DANS LE LOIRET.
+
+Paysage avec figures.
+
+Crayon noir.
+
+(H.0,17.——L.0,22.)
+
+- 83.—DUCERCEAU (J.A.).PROJET DE CREDENCE.
+
+Au tiait legerement rehausse de lavis. （H.0,25.—L.O,20.)
+
+- DUGOURE. BAL COSTUME.
+
+Dans un riche interieur un couple danse le men uet au milieu de nombreux spectateurs.
+
+Gouache.
+
+(H.0,39.—L. 0,30.)
+
+## 85.—DUNKER (B.-A.). PAYSAGE ACCIDENTE.
+
+Chateau fort en ruines au bord d'un cours d'eau coulant en ravin. Au premier plan, groupe de chasseurs et pecheurs.
+
+Signe et date 1772. (H.0,28.—L.0,37.) (Sera vendu avec lenIII qui lui fait pendant.)
+
+86. — DUPLESSIS. SOLDATS JOUANT AUX CARTES.
+
+Crayon, lavis et rehauts de blanc.
+
+- DURAN (D.). HERCULE ET OMPHALE. —— JUPITER ET JUNON.
+
+Deux miniatures sur velin. Signees et datees 165o. Cadres anciens. (H. —L. )
+
+- 87
+- 88.— EARLOM (Richard). PoRTRAIT DE LoRD ELIOTT, gouverneur de Gibraltar.
+
+Beau dessin du graveur d'apres le tableau de Reynolds, au lavis d'encre de Chine, d'une execution magistrale.
+
+Cadre ancien.
+
+89. ECOLE ITALIENNE DU XVI SIECLE.VASE DEcoRATIF avec une anse en forme de chimere supportant des figures; panse a go-
+2. drons et rinceaux.
+
+Au trait lave de sepia.
+
+(H.0,34.—L.0,25.)
+
+- VAsE DE PHARMAcIE decore de mascarons et guirlandes de fruits; couvercle forme de serpents enlaces.
+- 90.
+
+A la plume rehausse de lavis. (H.0.30.—L.0,21.)
+
+- ECOLE FRANCAISE DU XVII SIECLE. EX91. LIBRIs d'un cardinal.
+
+Dessin au trait et lavis.
+
+92. ARC DE TRIoMPHE, surmonte d'une statue equestre.
+
+Beau dessin de decoration au trait lave de bistre.
+
+(H.0,50.—L.0,25.)
+
+- ECOLE FRANCAISE DU XVIII SIECLE. PAY-
+
+SAGE AVEC COURS D'EAU ET PECHEURS.
+
+Gouache sur papier. （H.0,12.—L.0,20.) Joli cadre ancien Louis XVI a rais-de-cceur, pirouette et feuilles d'acanthe. (H.0,20.-L.0,28.)
+
+- PAYSAGE AVEC FIGURES. 94.
+
+Gouache dans le gout de L. Moreau. （H.0.25.—L.0,21.)
+
+(H.0,42:-L.0,32.)
+
+## 93.
+95. PoRTRAITs D'HOMMEs, en silhouettes. Neuf dessins au crayon noir sur fond de gouache.
+2. PoRTRAITs D'HOMMEs ET DE FEMMES, en silhouet-
+96. tes.
+
+Neuf dessins au crayon noir sur fond de gouache.
+
+- 97.
+- SCENE GALANTE.
+
+Reunion de plusieurs personnes en élegantes toi- lettes devisant et chantant au milieu d'un parc.
+
+Gouache sur velin. (H. 0,22. ——L. 0,32.)
+
+- LA SURPRISE.
+
+Joli dessin aux trois crayons sur papier bleu. (H.0,245.——L.0,32.) Cadre ancien Louis XVl en bois sculpte et dore.
+
+99. TETE DE JEUNE GARCON. Crayon noir et pastel, (H.0,25.—L.0,20.)
+100. FRAGONARD (H.). COMPOSITION ET CROQUIS
+3. executes en Italie.
+
+Trois dessins a la pierre noire (ont ete graves).
+
+- LES JARDINS DE LA VILLA D'EsTE, a Tivoli.
+- '101
+
+Au milieu de riches frondaisons on distingue une statue et une balustrade, formant la cloture du parc.
+
+Spirituel et habile dessin a la sanguine. (H.0,23.—L.0,34.)
+
+102. GALOFRE.VUE DE ToLEDE.
+
+Gouache sur bois.
+
+Cadre ancien Louis XIV, bois sculpte et doré.
+- 103.—
+- GELLEE (Cl.), dit le Lorrain.PAYSAGE AU GRAND ARBRE, avec figures.
+
+Plume et sepia. Cachet de collection.
+
+(H.0,27.——L.0,20.)
+
+104. — GILLOT (C.). LA FESTE DU DIEU PAN.
+
+Importante composition avec de nombreuses figures de femmes, d'enfants et de Satyres. A ete gravee.
+
+Sanguine.
+
+(H.0,165.-L.0,365.)
+
+- 105.— GOYEN (J. Van). LA CHARRETTE.
+
+Sur un monticule, au bord d'un chemin, deux paysans regardent passer une charrette.
+
+Crayon et lavis.
+
+（H.0,15.-L.0,22.)
+
+(H.0,17.——L.0,22.)
+
+- 106.— VUE DES REMPARTS DE DORDRECHT. Crayon et lavis. Signe et date 1638. CollectionPitcairn-Knowles.
+107. MARCHE AU BORD DE LA MER, nombreuses figures et barques.
+
+Crayon et encre de Chine. Signe et date 1653. (H. 0,12. -— L. 0,21.)
+
+108. — VILLAGE, église, cours d'eau et figures. Crayon et encre de Chine. Signe et date 1653. (H.O,12.—L.0,20.)
+109. — PAYsAGE RUsTIQUE, avec figures. Crayon et lavis. (H.0,12.—L.0,23.)
+3. GRAVELOT (Attribue a).PARADE DANS LA CoUR
+110. D'UN CHATEAU.
+
+Jolie composition d'un grand nombre de personnages. A la mine de plomb. Sur velin.(H.o,155.—L. o,225.)
+## III. HACKERT(J.-G.). PAYSAGE ACCIDENTE.
+
+Cours d'eau et ruines d'un aqueduc; au premier plan une bergere,montee sur un ane, conduit devant elle quelques chevres.
+
+Importante composition signee et datee 1770.
+
+(H.0,28.—L.0,37.) (Sera vendu avec le n 85 qui lui fait pendant.)
+
+## 112.— HALM.L'OISEAU CHERI.
+
+Gracieuse composition. Dessin au crayon rehausse d'aquarelle et de gouache.
+
+Cadre ancien Louis XVI, bois sculpte et dore.
+
+(H.0,23.-L.0,19.)
+
+- 113.HOIN (CI.). COMPOSITION ALLEGORIQUE EN L'HONNEUR DE MoNSIEUR, FRERE DU RoI, PrOtecteur des Arts et des Lettres, represente en buste.
+
+Sur un fond de bibliotheque on distingue les medail- lons de MM. de Biencourt, de Roquelore, de Cosse,de Choiseul, de la Tour du Pin et de Perigord.
+
+Important dessin de lartiste fait alors qu'il desirait obtetenir le titre de:Peintre de Monsieur.(Voir Cl. Hoin,par le ba- ron Portalis, p.13.)
+
+Signe en bas a gauche des initiales, puis en toutes lettres avec la date 178r. Sous le passe-partout se yoit écrit de la main de Partiste :Dedie a Monsieur.
+
+Plume et encre de Chine. (H.0,31.-L. 0,26.)
+
+- 114.— HUET (J.-B.). LE PASSAGE DU GUE.
+
+A la pierre noire. Ancienne monture de Glomy.
+
+(H.0,275.—L.0,36.)
+
+- 115.— COMPOSITION DE PLUSIEURS PERSONNAGES.
+
+Joli dessin a la plume, rehausse d'aquarelle et de gouache.
+
+Signe et date 1783(a ete grave en couleurs).
+116. - HUYSUM (J. Van). VASES DE FLEURS.
+
+Deux dessins a la plume et a laquarelle faisant pendants. (H.0,23.—L.0,175.) Cadre ancien Louis XVI, bois sculpte et dore.
+
+Collection Pitcairn-Knowles.
+
+- JANINET (F.). LES JARDINS DE LA VILLA MEDI17. 一 Cis, a Rome (d'apres H. Robert).
+
+Dessin a la plume a l'encre rouge. (H.0,29.—L.0,24.) (Provient de latelier de Janinet, auteur de la gravure.)
+
+118. HIsTOIRE DE LA REvOLUTIoN. Assemblée constituante.
+
+Suite de vingt-six dessins a la plume, au lavis et a l'aqua-
+
+(H. 0,13.—L. 0,85.) relle. (Ont ete graves et publies.)
+
+- 1-2. —— 20 juin 178g.— Entrée des Deputés dans le Jeu de Paume, a Versailles.
+- 20 juin 178g. — Les Deputes jurent de ne
+- pas se séparer avant d'avoir donne une constitution a la France.
+- 3-4. ——3o juin 178g.——Le peuple delivre les Gardes Francaises a la prison de l'Abbaye de Saint-Germain-
+- des-Pres.
+- -8 juillet 1789. — Supplice d'un espion de la police dans le jardin du Palais-Royal.
+- 5-6. — 12 juillet 1789. ——Le Prince de Lambesc, a la tete d'un detachement du Royal-Allemand, charge le peuple dans le jardin des Tuileries.
+- -14 juillet 1789. — Mort de M. de Flesselles, Prevot des marchands a l'Hotel de Ville.
+
+7-8.—14 juillet 178g.—Le Gouverneur de la
+
+- Bastille, apres avoir fait baisser le premier pont-levis et laisse entrer un grand nombre de citoyens dans la premiere cour, les fait fusiller.
+duit a la ville par les volontaires de la Bastille.
+
+9.—13 juillet 1789.-Pillage de la maison de Saint-Lazare.
+
+10-11.—14 juillet.178g.—Le Marquis de Pelleport, voulant arracher le major de la Bastile des mains du peuple, est lui-meme pres d'expirer sous les coups de la hache d'un factieux.
+
+Les Gardes Francaises ecartant la populace pour empecher le massacre de
+
+- 14juillet 1789. M. de Launay.
+
+12-13.—14 juillet 178g.—Transport des canons des Invalides dont le peuple et les bourgeois s'étaient empares.
+
+Nuit du 14 au 15 juillet 178g.—M.deLiancourt se jette aux pieds du Roi et lui fait le recit des malheurs de la Capitale.
+
+14-15.—17 juillet 1789:Arrivee deLouis XVI dans la capitale.
+
+17juillet 178g. Louis XVI se montre a l'une des fenetres de la grande salle de l'Hotel de Ville, la cocarde nationale au chapeau.
+
+16-17.—19 juillet 178g.-Emeute a Saint-Ger- main. Les membres d'une deputation de l'Assembiee Nationale a genoux devant le peuple pour le fechir et arracher a la mort le nomme Thomassin.
+
+- 23 juillet 178g.— Supplice de Foulon sur la
+
+18.—17 aoit 178g.—Monsieur Walche apaise des furieux qui veulent ravager le chateau de Chassenon en leur faisant preparer un repas.
+
+- place de Greve.
+
+19-20. —2 aout 178g. —Emeute de Saint-Denis. Massacre du lieutenant de Maire.
+
+- 5 octobre 1789. —Les femmes voulant pendre labbe Lefevre et les hommes voulant incendier les papiers (cour de l'Hotel de Ville).
+21-22. —5 octobre 178g. —Les dames de la Halle partent pour aller chercher le Roi, a Versailles.
+
+- 8fevrier1790.— Apres l'execution des deux freres Agasse, leurs corps sont remis a leur famille.
+
+23-24.—14juillet 1790.——Passage des federes au quai de la Conference.
+
+-de-Mars.
+
+25-26.3 aoit 1790.—Devouement du jeune Desilles a la porte Stainville, a Nancy.
+
+—15 novembre 179o.—Devastation de 1hotel
+
+Castries, a Paris.
+
+- LAFOSSE (J.-C. de).LA CIRCONCISION.—LES
+119. RAMEAUX.
+
+Deux esquisses a l'huile peintes en grisaille sur papier. （H.0,15.—L.0,29.)
+
+- LAGRENEE.PSYCHE ET L'AMOUR. 120.
+
+A la plume et sepia de forme ovale sur son ancienne monture portant la signature et la date 1774.
+
+- 121.
+- LANCRET (N.).TROIS ETUDES D'HOMME.
+
+A la sanguine.
+
+- ETUDE D'HOMME AGENOUILLE, la main gauche 122. appuyee sur une cage, le bras droit tendu; et deux etudes de mains.
+
+A la sanguine. (H.0,19.——L.0,26.)
+
+123. ETUDE D'HoMME, marchant a terre s'appuyant sur les mains.
+
+A la sanguine.
+
+Collection Pitcairn-Knowles.
+124. — ETUDE D'HOMME AGENOUILLE. Joli dessin aux trois crayons sur papier gris. (H.0,175.—L.0,145.)
+2. -ETUDE D'HOMME AGENoUILLE. De profl a droite.
+3. 125.— A la sanguine. (H.0,16.—L.0,13.) Collection Pitcairn-Knowles.
+4. 126.
+5. 一 LANGENDYCK (N.). COMBAT DE CAVALERIE entre troupes francaises et hollandaises. Epoque de la Revolution.
+
+A l'encre de Chine. Cadre bois sculpte.
+
+(H. 0,45.—L.0,60.)
+
+- LEONI (Le Chevalier 0ctave) (1578-163o). PoR127. TRAIT DE FEMME, en buste.
+
+Joli dessin aux trois crayons. (H.0,21.L.0,155.)
+
+128. PoRTRAIT DE FEMME, a collerette.
+
+Crayon noir et bleu sur papier gris.(H.o,22.—L. o,16.)
+
+- 129.
+- LE PAON. SCENES DE CAMP.
+
+Deux dessins faisant pendants,a la plume rehausses de sepia. Signes des initiales L. P.
+
+(H.0,95.-L.0,155.)
+
+- 130.——LE PRINCE(J.-B.).—BERGERS POUSSANT LEURS
+
+TROUPEAUX.
+
+Charmant et fin dessin a la sepia dans le gout de Fragonard. Ancienne monture de Glomy. A ete grave par labbe de SaintNon. (H.0,06.—L.0,16.)
+
+- 131.—LESUEUR (N.). DEUX ETUDES DE FEMME.
+
+Aux deux crayons sur papier chamois.
+
+Collection Desperet.
+
+(H.0,20.-L.0,38.)
+- MEISSONNIER. BRAS-APPLIQUE,a deuX lu-
+- 132.— mieres, de style rocaille.
+
+A la sanguine.
+
+- 133.— MICHEL (G.).PAYSAGE.
+
+Importante composition au crayon et a l'aquarelle. （H.0,35.—L.0,46.)
+
+- MOREAU le jeune (J.-M.). FRONTISPICE POUR
+134. (ROLAND FURIEUX ）.
+
+Joli dessin a lencre de Chine reproduit en tete du present (H.0,215.-—L.0,13.)
+
+catalogue.
+
+- 135.—
+- NICOLLE.VUE DE LA PLACE SAINT-PIERRE,a Rome.
+
+Plume et sepia.
+
+(H.0,12.——L. 0,175.)
+
+136. — OSTADE (Adrien Van). LE REPOs DANS LA CAM-
+2. PAGNE.
+
+Vigoureux dessin a la plume et au lavis avec touches de peinture a l'essence.
+
+(H.0,26.—L.0,38.) Bordure ancienne Louis XVI. Bois dore.
+
+137. INTERIEUR DE CABARET.
+
+Charmant dessin a la plume et a l'aquarelle.
+
+Collection Van Eyndhoven.
+
+(H. 0,135.——L.0,12.)
+
+- 138.— OZANNE.&amp;VAISSEAU QUE L'ON DESACORE POUR ETRE LANCE A LA MER.） Cette manoeuvre est representee telle qu'elle se fait dans le port de Toulon.
+
+Composition animee de nombreux personnages.
+
+Dessin au crayon et a la plume rehausse d'encre de Chine. (H.0,35.——L.0,50.)
+139. —
+2. VUE PRISE AUX ENVIRONS DE NAPLES. Charmante composition animee de nombreuses figures. （H.0,135.—L.0,225.)
+140. PECHEURS AU BORD DE LA MER. Importante composition a l'encre de Chine. (H.0,24.—L.0,34.)
+141. PATER (J.-B.).ETUDE DE FEMME ASSISE, en
+5. grand costume.
+
+A la sanguine. (H.0,20.——L.0,16.)
+
+- EruDE DE FEMME tenant une pomme a la
+142. main.
+
+Sanguine et crayon blanc. (H.0,23.—L.0,155.)
+
+- 143
+- 144.
+- PERELLE. BoRDs DE RIvIERE, aupres d'une ville. Dessin a la plume.
+- PERIGNON (N.). LE GRAND CANAL,a Venise. Plume et sepia.
+- 145 PERNET. RuINEs ANTIQUEs avec fontaine Sous une arcade laissant apercevoir un temple, un obelisque et une perspective de colonnades en hemicycle. Des femmes et des enfants devisent autour de la fontaine.
+
+Tres importante composition de l'artiste a l'aquarelle. Signee. (H.0,32.—L.0,41.)
+
+- 146.—1 PICART (B.). LE SoUPER DU RoY; Louis XIV ayant a ses cotes le d uc d'Orleans, les jeune princes et quelques gentilshommes, est servi
+a table, dans un appartement intime, par des laquais.
+
+Curieux et spirituel dessin a la plume lave d'encre de Chine. (H.0,13.—L.0,18.)
+
+147. PILS (I.). CHARGE D'ARTILLEUR, d'apres Géri-
+2. 一 cault.
+
+Dessin au crayon rehausse d'aquarelle. Signe et date 1865. (H.0,30.-L.0,36.)
+
+148. RADEMAKER (A.).PAYSAGE MONTUEUX,Orné de figures.
+
+Plume et aquarelle.
+
+(H.o,15.-—L.0.21.)
+
+- I49. — PAysAGe, avec cours d'eau et figures.
+
+Plume et lavis.
+
+(H.0,14.—L.0,28.)
+
+150. 一 RANSON. TroPHEE. Croquis pour dessus de porte.
+
+Plume et aquarelle.
+
+- 151.— RIGAUD (Hyac.). PoRTRAIT DE MAGISTRAT.
+
+Assis dans un riche fauteuil, il tient un acte a la main.
+
+Crayons noir et blanc.
+
+（H.o,30.—L.0,25.)
+
+- 152.—— ETUDES DE BRAS ET DE MAINS.
+
+Sanguine et pastel. (H.0,28.—L.0,38.)
+
+Bordure ancienne Louis XVI.
+
+- 153.—1 ROBERr (Hubert). AQUEDUC EN RUINES, avec un large escalier s'élevant sous une arche.
+
+Sanguine.
+
+(H.0,22, ——L.0,31.)
+154. —Le BucHERoN. Aide de deux enfants, il est occupe a scier les arbres qu'il vient d'abattre.
+
+Sanguine.
+
+(H.0,35.—L.0,28.)
+
+- COLONNADE DE SAINT-PIERRE DE RoME, tranSformee en parc d'artillerie.
+
+A la sanguine. Signe: Annibale Robert, 1758.
+
+(H.0,22.—L.0,31.)
+
+156. — DoNJon baignant dans un cours d'eau tombant en cascade. Fond d'arbres.
+
+Dessin a la sanguine. (H.0,36.—L.0,29.) Bordure Louis XVI,bois sculpte et dore.
+
+157. EscALIER montant sous une arcade, avec figures.
+
+Tres petite aquarelle sur crayon. (H. o,o6.——L.o,o3.) Cadre ancien Louis XVI, bois sculpte et dore.
+
+158. — EsCALIER sOUs UN PORTIQUE avec figures.
+
+Dessin a la pierre noire.
+
+(H.0,34.-L.0,27.)
+
+159. — EscALIER DE TERRAsSE, dans un parc.
+
+Joli dessin a la sanguine.
+
+(H. 0,22. - L. 0,31.)
+
+- 160.—FoNTAINE PUBLIQUE a Rome, formee d'une vasque antique dans laquelle une statue de femme verse deux urnes; elle se detache sur un fond de muraille en ruines, ou l'on apercoit deux dessinateurs. Au premier plan, des lavandieres, et un homme puisant de l'eau dans son chapeau.
+
+Joli dessin a l'aquarelle portant sur le socle de la statue la signature du maitre. (H.0,21.—L.0,165.)
+
+- 155.—
+- 161.-Le GouTEr. Sous de grands arbres formant clairiere, au pied d'une statue, des paysans sont attablés.
+
+Sanguine.
+
+- 162.—LE PoNT-LEVIS.
+
+Il réunit un pont de pierre a une porte fortifiee. Dans le lointain,on distingue des navires dans le port, ainsi que les maisons qui bordent les quais.
+
+Beau dessin a la sanguine. (H.0,23.-L.0.85.) Cadre ancien.
+
+- 163.—
+
+Collection Decloux.
+
+- VuE DE L'ARc DE TITUs, a Rome. Importante composition avec plusieurs figures. A la sanguine. (H.0,33.—L.0,44.)
+- 164.—— VuE D'UN CouvENT, en Italie. Sanguine. (H.0,22.—L.0,36.)
+- 165.—VILLA ROMAINE.
+
+Statues et bustes dans un jardin.
+
+A la sanguine.
+
+- 166.—TERRASSE D'UNE VILLA ITALIENNE, aVec balustrade ornee de statues et fontaines,dominant un parc d'ou s'élevent de grands arbres.
+
+Belle et importante composition animee de figures. A la sanguine. (H.0,36.—L.0,54.)
+
+- 167.—SAINT-AUBIN (Attribue a Aug.). PoRTRAIT DE FEMME.
+
+Elle tient un eventail fermé.
+
+Dessin au crayon.
+
+(H.0,35.—L.0,28.)
+
+(H.0,16.--L.0,12.)
+168. -- SAINT-AUBIN (Aug. de). PoRTRAIT DE Mle X*** DANS LE ROLE DE ROXANE.
+
+Charmant dessin aux crayons de couleurs rehausse de lavis,
+
+(H.0,105.—L.0,08.) de forme ovale. Joli cadre ancien Louis XVI en bois sculpte et dore.
+
+- 169.PoRTRAIT DE Mme LA MARQUISE D'HAVRINCOURT, née de Béthisy. De profil.
+
+Fin dessin a la mine de plomb. Med. ovale. (H.0,13.-L.0,11.)
+
+- 170.— PoRTRAIT DE MADAME DE LANCRY, née AnneFrancoise de la Myre. De profil.
+
+Fin dessin a la mine de plomb. Med. ovale. (H.0,13.-L.0,105.)
+
+171. — SAINT-AUBIN (Gab. de). VuE PRISE A PARIS.
+
+Eglise et colonne surmontee d'une statue.
+
+(H. 0,16.——L. 0,10.) Plume et lavis.
+
+172. —- MoNuMENTs avec colonnades et portiques.
+2. Dessin a la plume et au lavis.
+173. — VUE DE L'ORANGERIE ET DU CHATEAU DE VER-
+4. SAILLES.
+
+Plume et lavis. (H.0,14.—L.0,20.) Cadre ancien Louis XVI finement sculpte et dore.
+
+174. — ScENEs DE TANcREDE, tragedie par M. de Vol-
+2. taire.
+
+Deux belles compositions reproduites a l'eau-forte par l'artiste lui-meme.
+
+A la plume, aux crayons de couleurs et a l'aquarelle. (H.0,055.——L.0,092.)
+175. — SAINT-QUENTIN. ETUDE DE FEMME NUE, Sur un lit de repos.
+
+Aux trois crayons sur papier gris.(H.o,25.—L.o,53.)
+
+- 176.—SALLAERT (A.). SCENES DE L'ENFANT PRO-
+
+DIGUE.
+
+Deux dessins au lavis.
+
+Cadres anciens de lepoque Louis XIV en bois sculpte et dore, surmontes d'une coquille et d'ornements de feuillages et de chutes de fleurs. (H. 0,27.——L. 0,23.)
+
+177. 一
+2. SANZIO (attribue a Raphael). LE CoURONNEMENT DE CHARLEMAGNE par le pape Leon III.
+
+Etude pour le tableau du Vatican.
+
+Dessin au lavis. (H.0,83.—L.0,55.) Cadre ancien Louis XVI, bois sculpte.
+
+Collections Gibelin et Furby de Marseille.
+
+178. —— SLODTZ (M.-A.). VESTIBULE DE PALAIS, avec escaliermonumental et nombreuses figures.
+
+A la sepia.
+
+(H. 0,30. - L. 0,45.)
+
+179. 一 STAVELEY (M.).(Ecole anglaise.) PoRTRAIT
+
+D'HOMME.
+
+Dessin aux crayons de couleurs. Signe et date 1796.
+
+(H.0,21.-L.0,125.)
+
+- STEEN (J.).INTERIEUR DE CABARET.
+180. —
+
+Importante composition de six figures.
+
+A la plume et au lavis.
+
+(H. 0,29. ——L. 0,23.)
+
+- 181.— SWEBACH-DESFONTAINES. MARCHE AUX CHEVAUX EN RUSSIE.
+
+Spirituelle composition avec nombreuses figures. Crayon, plume et encre de Chine. (H.o,185.——L.o,32.)
+182. 一 ENTREE DES TROUPES A.ES DANS PARIS.
+
+Episodes militaires, suite de trois dessins a la mine de plomb.
+
+(2 gravures accompagnent ces dessins.)
+
+(H.0,115.——L.0,19.)
+
+- ENTREVUE DES SOUVERAINS ALLIES.
+183. —
+
+Aquarelle de forme ronde. (Diam.0,16.) (La gravure avec variante accompagne ce dessin.)
+
+184. SYLVESTRE(I.).LE RETOUR DELA PROMENADE.
+
+Debarquement de dames de qualite et de gentils- hommes.
+
+A la plume.
+
+(H.0,13.——L.0,21.)
+
+- 185.— TARAVAL. VUE DE L'EGLISE SAINT-EUSTACHE, A PARis, avec projet de fontaine a l'angle des rues Montmartre et Montorgueil.
+
+Amusant dessin a la plume et a laquarelle anime de nom- breuses figures. (H.0,28.—L.0,35.)
+
+- 186.— TIEPOLO. EsCALIER AVEC BALCON, anime de
+- figures.
+
+Esquisse a la plume et au lavis. (H. o,22. -L. o,17.)
+
+- TRINQUESSE.PoRTRAIT DE JEUNE FEMME aVeC
+- 18 grand chapeau.
+
+Dessin aux crayons noir et blanc. (H. o,25.——L. o,2o.)
+
+188. VAN LOO (Carle). TETE DE JEUNE HOMME, de
+2. 1 profil a gauche.
+
+A la sanguine.
+
+(H.o,23.——L.0,21.)
+
+189. VERNET (Joseph). ETUDE DE FEMME AsSISE. Crayon signe.
+- 190.——
+- VINCENT (P.-A.). PORTRAIT DE SAINT-FAL, de la Comedie-Francaise.
+- —PoRTRAIT DE CHENARD, de l'Opera-Comique.
+
+Deux dessins faisant pendants au crayon noir rehausse d'aquarelle et de blanc. Signes et dates. Medaillons ronds.
+
+(Diam.0,13.)
+
+- 191.— -VIVANT-DENON (Baron).PoRTRAITS DHOMMES ETDEFEMMES.
+
+Six dessins au crayon et lavis.
+
+192. SixcroQuis d'album, dontle Portrait du peintre. Crayon, plume et lavis.
+193. — PRELATS ROMAINS ET CAMERIERS.
+
+Six dessins au crayon dans un meme cadre.
+
+- WATTEAU (Ant.). ETUDE D'HOMME DEBOUT, 一 tenant une gourde d'une main et un pla-
+194. teau de l'autre.
+
+Beau dessin a la sanguine. Une etude analogue se trouvait dans la collection Decloux. (H.0,25.—L.0,165.)
+
+195. — DEux ETUDEs DE FEMMEs, en pied vue de profil.
+2. Sanguine. (H.0,21.—L.0,15.)
+196. - TETE D'HoMME de trois quarts a gauche.
+
+A la sanguine.
+
+(H. 0,11. —L. 0,08.)
+
+Onze dessins a la mine de plomb, dans un cadre
+
+197. — WATTEAU (Fr.). F1GURES DE MODES. ancien Louis XVI en bois sculpte et dore.
+198. —- DEUx FIGUREs DE MODEs. Femmes assises.
+3. A la mine de plomb.
+199. —- WATTEAU (de Lille). AssEMBLEE DANS UN PARC.
+2. Esquisse au crayon.
+200. —WILLE. PORTRAIT DE LA MERE DU PEINTRE GREUZE. Beau dessin a la sanguine. (H.0,33.—L.0,26.)
+4. 201.— WILLE (P.-A.), le Fils. CosTUMES DE L'AN VI (1796). Fin dessin au trait de bistre. (H.0,28.—L.0,21.)
+
+## GRAVURES
+
+- 202.— ANONYME. Modeles de BouToNs, formes de trophées, avec instruments de musique,
+- feurs et attributs divers.
+
+15 motifs differents graves a l'aquatinte sur une seule planche.
+
+- 203.—BAUDoUIN (D'apres P.-A.). α Jusque dans la moindre chose 》, par Masquelier.
+
+Superbe épreuve du 2e état, avant la lettre. Grande marge.
+
+204. —BONNET.α The Amiable family ), d'apres Hombert.
+
+Tres belle épreuve imprimee en couleurs. Marge.
+
+Cadre ancien Louis XVI, bois sculpte et dore.
+
+205. —- CAUVET (D'apres). Suite de 10 planches : VAsEs DEcoRATIFs graves par Viel, Martini, etc.
+
+Tres belles épreuves avec grande marge.
+- 206.—JANINET. COLONNADE ET JARDINS DU PALAIS
+- MEDicis A RoME, d'apres H. Robert.
+
+Tres belle épreuve imprimee en couleurs.
+
+207. -- PoRTRAIT DE Mlle CoLOMBE, L'AiNEE.
+
+Superbe epreuve d'essai, imprimee en couleurs (differentes des epreuves terminees) et rehaussee de gouache, sur son ancienne monture.
+
+(Atelier de Janinet.)
+
+208. —PoRTRAIT DE Mlle ST-HUBERTI.
+
+Superbe epreuve imprimee en couieurs, avant toutes lettres, grande marge, provenant de latelier de Janinet.
+
+Cadre ancien du temps de Louis XVI, en bronze cisele et dore avec rosace et nceud de ruban.
+
+209. —LAWREINCE (D'apres N.). LE BILLET DoUx, par
+2. de Launay.
+
+Tres belle epreuve avec l'adresse de l'auteur. Marge du cuivre.
+
+210. —MOREAU le Jeune (D'apres J-M.). A LA REINE.
+
+Composition allegorique, gravee par N. Le Mire. Tres belle épreuve avec marge.
+
+- 21 1.—— SAINT-AUBIN (Aug.). LA FAMILLE ROYALE.
+
+Triple profl en medaille, d'apres Sauvage.
+
+Tres belle epreuve avant la lettre avec la tablette blanche. Marge.
+
+- 212.—— TOUZE (D'apres). PoRTRAIT DE MARIE-ANTO1NETTE D'AuTRICHE, reine de France et de Navarre, par Duflos.
+
+Tres belle épreuve avec grande marge.
+
+213. — VERNET (D'apres Carle). NAPOLEON ET sON ETAT-MAJoR, par Levachez.
+
+Tres belle épreuve imprimee en couleurs et rehaussee du temps a la gouache.
+## LIVRES
+
+214. —La Chanson des Gueux, par J. RIcHEPIN. Paris, M.Dreyfous, 1185, avec le fascicule des pieces supprimees (Londres,1885). Dessins originaux, portraits et illustrations dans et hors texte, par A.-A. HaNNoTEAU, 2 vol. in-4, brochés.
+2. 215.La Mer, par J. RicHEPIN. Paris, M. Dreyfous, 1886. Portraits et illustrations, par A.-A. HANNoTEAU, I vol. in-4, broche.
+3. 2 16.—Le Conservatoire.de la Danse moderne, Charges Parisiennes. Paris, chez Aubert.—Suite de 12 pl. lithogr. col., Par QuILi.EBoIs, I vol. cart.
+4. 217.—Masques et Visages, par GAvARN1. Paris, 1868, 1 vol. toile.
+5. 2 18. -- Chants et chansons populaires de la France, Notices par M.Du MeRsAN. Paris, Delloye, 1843. Nombreuses illustrations par TRIMOLET,STENHEIL,DAUBIGNY,STAAL, E.DE BEAUMONT,DUBOULOZ,NARGEOT,J. BoILLY,MEISSONIEr, etc., 3 vol. in-4, demi-rel. mar. rouge av. coins,
+6. tr.dor.
+7. Recueil de Chansons revolutionnaires. Suite de 125 morceaux numerotes avec musique, portant le timbre (o,15) de la Republique. Suivi d'autres chansons
+219. manuscrites. 1 vol. in-8, mar. rouge.
+
+Interessant recueil.
+
+- 220.— Euvres de Moliere, précedees d'une notice sur sa vie et ses ouvrages, par M. SAINTE-BeuvE. Paris, 1835; illustrat. par T. JoHANNoT, 2 vol. in-8, non rognes, demi-rel.
+- 22 1. -Il Callotto resuscitato. Suite de 1 frontispice et 48 planches gravees et coloriees de grotesques avec legendes, au milieu d'encadrements differents d'arabesques et de
+- figures satiriques. I vol. pet. in-fol. veau fl. (Rel. anc.)
+- 222.— Editions Cazin. Suite de 24 vol. parmi lesquels : les Contes de La Fontaine, Euvres de Grecourt, de Chaulieu, de Rabelais,la Jerusalem delivree, les Sai-
+- sons,etc.
+
+On y a joint un 25e vol. : les Jardins, de Delille.
+
+rouge, fil.tr.dor.
+
+Ensemble 25 vol. in-12, en ancienne reliure,mar.
+
+Aux armes de Colbert.
+
+223. Histoire du regne de Louis XIv. Amsterdam, 1717,
+2. Tome V. 1 vol. in-18, v. marb. aux armes de la Marquise de Pompadour.
+3. La Fraude, comedia nuova di A. BADALuccHIo. Venezia, 1597, 1 vol. pet. in-8, veau marb. filets, aux armes de la Marquise de Pompadour, 2 vol.
+224. —Recueil de differentes brochures. Paris, 1768, 1 vol. in-8, mar. rouge, fl. tr. dor. (Rel. anc.)
+
+Aux armes du Prince de Conde.
+
+225. — Lycoris, ou la Courtisane grecque. Amsterdam, 1746,
+2. vignette sur titre. Suivi du
+3. Reglement pour l'opera de Paris; a Utopie, chez Thomas Morus, 1748 (Meunier de Querlon), front. par BoucHER et CocHIN fils. En un vol. in-I2, v. éc.
+4. tr.r.
+5. 226.—Les Amours pastorales de Daphnis et Chloe, par Lo-
+6. GUs, 1718. Petit in-8 avec 1 front. par CoypEL et 28 fig. par le Regent, gravées par AuDRAN, la 29° fig. les Petits pieds, par le Cte De CayLus.
+
+Exempl. en mar. rouge ancien avec dentelle, tr. dor.
+
+Ex lib.de Laulnaye.
+227. —— Le Decameron, par J. BoccAcE, traduit par Le Macon. Londres (Paris), 1757. Portrait, figures et culs-de-lampe, par BouCHER, EisEN, GRAvELoT, etc. 5 vol. in-8, mar. rouge, fil. tr. dor. (Rel.anc.)
+
+Un vol.est remboite.
+
+228. — Les Metamorphoses d'Ovide, en latin et en francais, de la traduction de M. 1labbe BAN1Er. Paris, 1767-1771, fig. 4 vol. in-4, veau marb. v. tr. jas. (Rel. anc.)
+2. 229.—
+3. Les Amours de Psyche et de Cupidon, avec le poeme d'Adonis, par LA FoNTAINE. Edition ornée de fig. dessinees par Moreau le Jeune et gravees sous sa direction. Paris, Didot le Jeune, l'an 3. Papier vélin, 1 vol. in-4, v. marb. fil. et palm., tr. dor. (Rel. anc.)
+4. 23o.— Euvres de Seneque. Elzevir, Lyon, 164o, fig. Ex.
+5. libris J. T. Aubry, grave par MARTINET, 3 vol. in-18, mar. rouge jans. dos orné d'aigles, tr. dor. (Rel. anc.)
+6. 231.—Livret des emblemes de Maitre Andre Alciat, mises
+7. en rimes francoises et presentes a Mgr lAmiral de France. Paris, Chretien Wechel, 1536. Nombreuses planches sur bois, 1 vol. in-12. (Rel. mod.)
+8. 232.
+9. — Catalogue historique de peinture et sculpture francaise de M. Lalive,introducteur des Ambassadeurs, etc. Paris, 1764, Portrait et fig. par LALivE DE JuLLy. 1 vol. in-8, mar. v., fil. tr. dor. (Rel. anc.)
+233. — Catalogue raisonné d'une collection considerable de diverses curiosites en tous genres contenues dans les cabinets de feu M. Bouner de la Mosson, par E.-F. Gersaint. Paris, 1744, front. par BoucHER, suivi du
+11. — Catalogue raisonne de coquilles et autres curiosites naturelles par M. GERsAINT. Paris, 1736, front. par BoucHEr. 2 catal. en I vol. in-12, v. mar. fil. tr. dor. (Rel. anc., prix marques.)
+12. 234.— Catalogue raisonne des tableaux, dessins et estampes, etc., apres le deces de M. de Julienne, par
+- P. REMy. Paris, 1767, frontisp. gravé. 1 vol. in-i2, cart.
+2. (Prix marques et noms.)
+235. — Catalogue detableaux, dessins, estampes, bronzes, etc., dont la vente se fera a l'hotel d'Alligre le 15 decembre 1777, sous la direction de M. A. PAiLLET (quelques prix). Suivi d'un catal. de vente par le meme expert et du Catalogue d'une belle collection de tableaux, gouaches, etc., par Le BruN peintre 1782, avec les prix et les noms et quelques illustrations en marge a la plume et au crayon. I vol in-I2,v. éc.(Rel.anc.)
+4. 236.—Catalogue d'une riche collection de tableaux des
+5. maitres les plus celebres des trois écoles, dessins, etc., qui composent le cabinet de feue S.A.S. Msr le Prince de Conti, prince du sang et grand prieur de France. Paris, 1777,frontisp. par MorEAu le Jeune, in-12. cart. (Prix marques.)
+6. 237.— Catalogue de tableaux et dessins precieux des maitres celebres des trois écoles, figures de marbre, etc., du cabinet de feu M. Randon de Boisset, par P. ReMy. Paris, 1777. Suivi du Catologue des vases, colonnes de marbre, etc., faisant partie du meme cabinet. Vendu par
+7. C.-F. Julliot. 1 vol. in-12 cart. (Prix marques.)
+238. — Le meme catalogue. I vol. in-12, v. f. fl. tr. dor.
+239. — Album de papier blanc ancien. In-4, mar. rouge, fil. armoiries sur les plats.
+
+PETITS ALMANACHS DES XVIII ET XIXe SIECLES
+
+- 240.— Almanach dedie aux Dames (1824). Chez Le Fuel et Delaunay. Titre avec vignette et 6 fig. In-16, mar. rouge, plats et dos ornes. Etui anal.
+- Almanach des Dames (1825). Chez Treuttel et Wirt et a Tubingue. Titre avec vignette et 8 fig. In-18 de I'imprimerie de J. Didot ainé, mar. rouge, plats et dos
+- ornes. Etui anal.
+
+2 vol.
+241. — Les Beaux caprices d'un jeune poete (18og). Chez Janet. Titre et 12 fig.avec texte grave. In-64, cart. tr.
+2. dor.
+3. —Les Souvenirs d'un Troubadour (1815). Chez Janet.
+4. Titre avec vignette et 8 fig. In-32, cart. (Non decrit.)
+5. —L'Oiseau bleu (1822). Chez Janet. Titre avec vignette et 8 fig. par S. Le Roy. In-32 cart. rose. Etui anal.
+6. —Le Temple de la Vertu (i828). Chez Le Fuel. Titre avec vignette et 6 fig. Calendrier encadré d'une vignette.
+7. In-32, cart. rose, bord. dor. (Incompletement decrit.)
+
+4volumes.
+
+242. —La Morale du Coeur (pour lannee 1812). Chez Janet. Titre et 6 fig. Recueil de poesies charmantes.In-64, mar.
+2. rouge orne. Etui anal.
+3. —Joconde ou les Coureurs d'Aventures (1815). Chez Janet. Titre et 6 fig. de S. LE Roy. In-24, mar. rouge avec grecque. Etui analogue.
+4. —Le Petit chansonnier du dix-huitieme siecle (1815). Chez Le Fuel. Titre et 5 fig. par S. Le Roy. In-32, broche.
+5. —Rose et Pensee (1828).A Paris, chez Marcilly.
+6. Titre et 6 fig. avec un Souvenir des Dames. In-32, décousu.
+
+4volumes.
+
+- 243.— Almanach du bel age, ou les Charmes de la bienfaisance (18io). Chez Le Fuel. Titre et 6 fig. non signees. In-32, mar. rouge orne.
+- Etrenne a la Beaute (1816). Chez Marcilly. Titre et 12 fig. In-32, mar. rouge, plats ornés, tr. dor.
+- —Les Meurs du Jour (1819.) Chez Janet. Titre et 8 fign. signees. In-32, mar. rouge dent. tr. dor.
+
+3volumes.
+- 244.—Les Petits riens (1812). Chez Janet. Titre avec vignette et 6 fig. (Incomplet de 2 fig. et 4 feuillets de texte
+- grave.) In-32, cart.
+- —Le petit Almanach des graces (s. d.). Cher Janet. Titre grave avec vignette et6 fig. Suivi du Petit souvenir des Dames. In-24 cart. avec paysages en coul. sur les
+- plats, tr. dor. (Non decrit.)
+- —Les Soirees de l'Enfance (s. d.). Chez Marcilly. Titre
+- et 7 fig. non signées. In-64. cart. vert gaufre.
+- 3 volumes.
+245. — Les Etrennes de Polymnie, ou choix d'Ariettes, nouvelles de l'Opera-Comique et du Vaudeville. A Paris, chez Janet (1810). 1 titre grave et6 fig. In-32, mar.rouge, plats ornes avec motifs de 2 tourterelles se becquetant sur un fambeau et un carquois,tr. dor. Etui mar. rouge.
+246. — Le Soufle de Zephire (18o9). Chez Janet. Titre grave avec vignette, 1o8 pages de texte imprimé et 6 fig. par MAssoL, d'apres S. Le Roy, suivi du Souvenir ou Tablettes a l'usage des Dames. In-24, mar. rouge jans. tr. dor. (Non decrit.)
+- —Les Metamorphoses de l'Amour, ou les Plaisirs de chaque mois (i8o9). Chez Le Fuel. Titre et 12 fig. gravés. In-32 mar. rouge, fil. jans. Etui analogue.
+- 一F Etrennes de 1'Espritet du Coeur (181o). Chez Le Fuel. Titre et 6 fig. non signees. In-32, mar. rouge dent. Etui
+- mar. rouge.
+
+3volumes.
+
+247. —— Le Petit Florian, ou Recueil de Romances pastorales. A Paris, chez Janet (année 18o7). Un titre grave et 12 fi-
+2. gures non signees. In-32, mar. rouge orné, tr. dor.
+248. — Etrennes de Minerve a l'Adolescence. A Paris, chez
+4. Janet (an VIIl). Un titre grave et 12 figures de DoRGEz. In-64 relie en soie brodee a paillettes.
+- 249:— Les Noeuds de 1Hymen serres par la tendresse, ou les Epreuves du sentiment. A Paris, chez Janet (18oo). 12 jolies figures par DorGez, texte en partie grave. In-24,
+- mar. avec riche dentelle, dos orne, tr. dor.
+- 25o.—L'Almanach le plus joli, etc. A Paris, che Janet (18oo). Titre grave et 12 jolies fig. non signees. In-18, mar. rouge, fl. tr. dor.
+- 251.—1 Manuel de Piete a l'usage des Voyageurs. A Chaalons (sic) chez Mercier, imprimeur libraire, rue de Brebis. In-32, riche reliure mar. rouge avec plats ornes d'une dentelle encadrant un trophee d'attributs divers.
+
+## ALMANACHS MINUSCULES
+
+252. — Le Joujou des enfants. Almanach pour l'an 18o2. A Paris, chez Janet. Recueil de chansons et devises orne de 8 fig. In-128, mar. rouge orne. (Non decrit.)
+2. —Le Favori des enfants. Almanach pour 18og.A Paris, chez Janet. 8 planches, avec devises pour demoiselles et garcons. In-128, mar. rouge orne.
+3. Le Petit bijou des Dames. A Paris, chez Marcilly
+4. (1818), 8 petites figures. In-128, mar. rouge orne. (Non decrit.)
+5. Le Petit chanteur pour 181g. A Paris, chez Louis Janet. Recueil de chansons et devises, orne de 8 fig. In-128, mar.rouge orne.
+6. Le Tableau de la vie. Annee 182o. A Paris, chez Mozard. Recueil de chansons orne de 8 fig. In-128, mar. rouge orne.
+7. 一1 Les Jeux de l'amour. Annee 1S2o. A Paris. Recueil de chansons orné de 8 fig. In-128, mar. vert orne. Etui semblable avec trophees.
+
+Ensemble,6 petits volumes
+- 253.—Le Jardin des ames sensible (sic).Almanach. Orne de jolies gravures. A Paris, chez Janet (annee 1797). Texte grave, 1 titre frontispice et 12 tres jolies figures de DoRGEz, enluminées du temps. In-32, mar. rouge orne sur les plats d'une dent. et d'un medaillon avec figures, tr. dor.
+- 254.— L'Empire de la beaute par les élements,les ages et les saisons. Etrenne au beau sexe. A Paris, chez Janet (1796-97). 1 titre grave et 12 figures; un des jolis almanachs de cette époque. In-24, mar. vert, petite dent. tr. dor.
+255. — Les Finesses cousues de fil blanc ou les Aventures chez Janet (Calendrier pour lannee bissextile 1796). i titre grave et 12 figures dans le genre de DoRGEz.
+- amoureuses.Almanach charmant et chantant. A Paris, In-32,mar.rouge orne, tr.dor.
+256. — Etrenne des neuf sceurs. Dedie a lAmour. A Paris, chez Blanmayeur (an IV). Titre grave et 12 jolies figures. In-32, mar. rouge richement orné sur les plats,
+- avec les deux initiales dorees J. V. (Non decrit.)
+- 257.—A Almanach des Folies de l'amour, ou le Tribut de 1'amitie au beau sexe. A Paris, chez Jubert (annee 1795). I titre grave (avec seulement l'indication de Jubert éditeur) et 1o tres jolies figures (deux manquent) de DorGEz, coloriees du temps. In-32, mar. rouge avec plats ornes,
+- tr. dor.
+258. — L'Apologie de la Tendresse ou le Pouvoir de l'Amitie. A Paris, chez Janet (an 3). 1 titre et 12 jolies figures non signées. In-32, riche reliure en mar. rouge avec large dent. encadrant un medaillon avec sujet et la devise: Il me conduit, tr. dor. Etui de mar. rouge orne.
+259. — L'Amant trompe par l'amour etc. (1793). Titre grave
+- (avec le titre Nouveau chansonnier), frontispice et 8 fig. non signees, gravees a l'aquatinte en couleurs. In-24, mar. rouge, fil., dos orné, tr. dor.
+- 26o.— Toujours de lAmour,Almanach nouveau sur les plus jolis Airs. Chez Janet (1792). Titre gravé et 12 fig. attribuees a DoRGEz. In-32. Cart. imitant le mar. avec vi-
+- gnette et encadrement sur les plats, tr. dor.
+- —Le Ton de la bonne compagnie (181o). Chez Marcilly. Titre et 12 fig. n. signes. In-64, mar. rouge, plats ornes d'une colombe portant une couronne. (Non decrit). 2vol.
+261. — Les Meurs des premiers ages, etc. A Paris, chez
+- Janet (1792). Titre grave et 12 fig. au lieu de 6, chiffre indique dans la bibliographie des Almanachs spar J. GRAND-CARTERET. In-24, mar. rouge, les plats richement ornes de la vignette dite a l'horloge. tr. dor.
+262. Le Fanal des Patriotes ou les LXxxIlI Departements. Almanach orne de jolies gravures. A Paris, chez Janet, beau-frere et successeur du S Jubert, doreur (année 1791). 1 titre grave par DoRGez portant en tete la devise: Vivre libre ou mourir, et 6 tres jolies figures par DoRGEz, enluminees du temps,qui font de ce petit almanach un des plus jolis de l'époque. In-24,relie en
+- soie brodee de paillettes. Etui en mar. rouge orne.
+- 263.—Les Amusements champetres, etc. A Paris, che Desnos (179o). 24 petites estampes en couleurs. In-32, mar. rouge, fil.tr.dor.(Non decrit.)
+- 264.—Almanach Dauphin historique ct allegorique. Dédie
+- a la Nation.A Paris, chez Jubert (s. d.). Titre gravé et 12 jolies fig. non signees, coloriées. In-24, mar. rouge, fl. tr. dor.(Non decrit.)
+- 265.— Le Vrai Calendrier perpetuel ou exposition des principaux articles du calendrier, etc. par M.J. GuIBERT. A Paris, chez Lamy, 1783. Un vol.in-32, mar. rouge, fil. tr.dor.
+266.  Etrennes de l'Amour, des ris, des jeux et des plaisirs (1783). Chez Boulanger. Titre grave et 7 jolies fig. (in-
+complet de 5 pl.). In-32,v. f. armoiries de France.
+
+(Mauvaisetat.)
+
+- —Les Fariboles du Parnasse. A Paris, chez Jubert (annee 1788). 12 figures de DorGEz (le titre manque). In-32, mar. rouge, orne de dentelles et trophées, tr. dor.
+- —Le Tresor des Almanachs. Etrennes nationales curieuses et instructives (annee bissextile 1792). Chez Cailleau. 1 front. et 12 vign. en-tete des mois. In-32,
+- mar. rouge, fil. tr. dor. (Belle conservation.)
+
+3vol.
+
+- 267.—Petites etrennes spirituelles a Madame la Dauphine (1771).In-32,mar.rouge, dent.
+- 一 Almanach royal pour 1lannée 179o. In-32, mar.
+- rouge, aux armes d’un batard de France, Amiral.
+- Etrennes de France pour l'annee 1815, avec 2 portraits.In-32,mar. vert, orne, tr. dor.
+- 一 Etrennes nouvelles commodes et utiles pour 179o. Rouen.In-18, mar. rouge, dent. tr. dor. 4 vol.
+- 268.—Le Petit fabuliste chantant. Etrennes pour l'année 179o. In-32, mar. rouge, flets.
+- Calendrier de la Republique francaise pour l'annee
+1793. In-32, mar. vert, richement orne.
+- —Le meme calendrier pour 1annee 1795. In-32, v
+- fauve, orne.
+
+3vol.
+
+- 269.—Le Calendrier de Minerve ou le Joujou de l'Innocence. A Paris, chez Jubert (annee 179o). 1 titre gravé
+- et 12 fig. de DorGEz. In-32, mar. rouge, orné, tr. dor.
+- 270.—— Galatee, pastorale. A vous que j'aime. A Paris, chez Boulanger. (179o). 1 titre gravé et 12 jolies figures, par QuEvERDo. In-32, mar. rouge, flets, tr. dor
+- 271.—1 Etrennes comme il y en a peu ou melange agreable des plus jolies choses en tout genre pour l'annee bissextile 1778. A Falaise, chez Bouquet, et a Paris, chez Moutard. In-32, mar. rouge, les plats ornés offrant au centre un medaillon a 2 personnages, representant la cueillette des pommes, tr. dor.
+272. —Les Amours d'Heloise et d'Abeilard. Dediees aux
+- ames sensibles. A Paris, Esnaults et Rapilly (i787). Titre grave, 2 portraits et 12 fig. coloriees. In-18, mar. rouge, orne sur les plats d'un medaillon avec cette devise: Il ne m'en faut quun.
+273. 一 Les Espiegleries amoureuses ou les Intrigues de Cythere. A Paris, chez Hardoin (année 1787). 1 titrefrontispice et 12 figures par DoRGEz. In-32, mar. rouge, filets, tr. dor. (Rel. anc.)
+- 274: —— Les Caprices de Venus. A Paris, chez Jubert Doreur
+- (annee 1787). 1 titre grave dans un paysage et 12 figures non signées (DoRGEz). In-64, relie en soie brodée avec paillettes et une lyre supportant 2 carquois. Bel étui en mar. rouge, orne d'une dentelle encadrant un trophee. (Belle conservation.)
+
+(Bibliotheque Desbois, de Rouen.)
+
+275. — L'Amour ermite (sic) ou le joujou de lamour. AParis, grave et 12 tres jolies figures , par QuEveRDo. In-32,
+2. chez lauteur, rue Saint-Jacques (annee 1786). 1 titre mar. rouge, filets, tr. dor.
+
+Les petites nouvelles du temps appelaient cet almanach
+
+1'Almanach des Mappemondes.
+
+276. —Les Muses a Cythere, etc. A Paris, chez Desnos (1785). Titre gravé et 1 1 fig. In-24, mar.rouge, fil. tr. dor.
+277. —— Petit chansonnier, Calcas moderne, etc. A Paris, che? DesRAis, au lieu de 1o, chiffre indique dans la bibliographie des almanachs, par J. GRAND-CARTEREr. In-24, mar. rouge, fil. tr. dor.
+278. — La Veillee de Venus, etc. A Paris, chez Desnos (1784). Titre grave, frontispice en couleur et 11 petites gravures en noir non signées. In-24, mar. rouge, fl.
+2. tr. dor.
+279. — Recueil de chansons des meilleurs auteurs. A Paris, Desnos (s. d.). Titre grave et 8 tres jolies fig. 4 ff. de musique et chansons gravécs. In-24, mar. rouge, fil. tr. dor.(Incompletement decrit.)
+4. 28o.— Almanach des Marches de Paris. Etrennes curieuses et comiques avec des chansons interessantes. Dedie a Marie Barbe, Fruitiere, Orangere. Dresse et grave par M. QuEvERDo. A Paris, chez Boulanger (annee 1782). Titre grave et 12 ravissantes fig. Texte grave et 24 pages de musique. Suivi de
+5. L'Almanach galant des Costumes francais, des plus a la mode, dessines d'apres nature. Dédie au Beau Sexe. A. P. D. R. A Paris, chez le Sr Boulanger (année 1782).Almanach entierement gravé. Titre avec 2 amours nus, coiffés de chapeaux et 18 planches de costumes, d'apres DEsRAIs, A. DE ST-AuBIN, L. WATTEAU, etc.
+
+Les deux almanachs relies en 1 vol. in-32, mar. rouge, orné, tr. dor. Etui mar. rouge, dentelle. (Belle conservation.)
+
+281. — Etrennes chronologiques et historiques (1787). In-18, veau fauve.
+2. Etrennes interessantes des 4 parties du monde
+3. (1791). In-32, mar. vert orne.
+4. Le meme almanach pour 1'an X1I (18o3-18o4).
+5. In-32, mar. rouge.
+
+3vol.
+
+- 282.— Etrennes mignonnes, curieuses et utiles pour l'annee 1784. In-32, mar. rouge, large dent. (Manque le
+- ()
+- —Le meme, pour 1année 1787. In-32, mar. rouge, fil.. tr. dor.
+- —Le meme, pour lannee 179o. In-32, mar. rouge dent. tr. dor.
+- -Le meme, pour l'année 1814. In-32. mar. rouge, fil. tr. dor.
+- 一 Le meme, pour l'annee 1815. In-32, mar. rouge, fl. tr. dor.
+
+5 vol.
+
+283. Le Calendrier de la Cour pourl'année 1782. A Paris, chez la Vve Herissant. In-18 elzevir, avec riche reliure en maroquin rouge ornee sur les plats d'un Amour
+2. appuye sur un cartouche renfermant un dauphin.
+3. 284.-Le Calendrier de la Cour pour 1année 1763. In-18,
+4. mar. rouge, fil. tr. dor.
+5. 一 Le meme, pour lannee 1778. In-18 mar. rouge, fl. jans. tr. dor.
+6. mignonnes curieuses et utiles pour la meme annee. 2 parties en un vol. in-18 mar. rouge, fl. tr. dor.
+7. -Le meme, pour 1'annee 18o8. In-18 mar. rouge, orne tr. dor.
+
+4 vol.
+
+- 285.-Z Zeelands cronijk Almanach. Voor den Jaare Te
+- Middelburg by J. Dane.
+- 6 petits vol. in-32 avec frontispice grave pour les annees 1777,1778, 1781, 1782, 1783, 1784. Quelquesuns avec pianches gravees et cartes geographiques. Reliure en mar. rouge ornee sur les plats d'un ecusson avec la devise : Luctor et emergo.
+- 286.— Almanach des Heroides (annee bissextile 1776) Amsterdam, chez Magerus, 6 pl. doub. non signees.
+- In-24, soie peinte et brodée, tr. dor.
+- 一 Almanach des Heroides (1777). 6 fig. doub. non signées. In-24 mar. rouge, fl. et médaillon avec fig. et devise : Il n'est fai (sic) que pour vous. Etui mar. rouge,orne.
+- Almanach des Heroides (1778). 6 pl. doub. non signees. In-24, soie peinte et brodee, tr. dor.
+- 3vol.
+- 287.-Le Petit livre d'Eglise, dedie a Mgr le Dauphin.
+- A Paris,1681.In-32,rel. en soie, dans un étui a fermoirs en argent filigrane avec motif d'oiseau a deux tetes.
+- 288.— Almanach iconologique （1767) des Vertus, par M. GRAvELoT. A Paris, chez Lattré. 1 titre et 12 fig. suivi de 1Almanach iconologique (1764), par M. GRAVELoT. 1 titre, 1 frontispice et 12 fig.1 vol. in-24 mar.
+- rouge, dent. tr. dor.
+- 一 Almanach iconologique (1772). L'Homme, par M. GrAvELoT. Titre et 9 fig. (incomplet). In-24 mar. rouge, fil. tr. dor.
+- Almanach iconologique (1773). Etres moraux, par M. GRAvELor. Titre et 12 fg. In-24 mar. rouge, fl. tr. dor.
+- 一1 Les 4 saisons et les 4 heures du jour (1774), frontispice et 8 fig. par GRAvELor. In-24 mar. rouge, fil. tr. dor.
+
+4vol.
+
+- 289.—Petit Carnet de bal formant souvenir du temps de
+- lEmpire, garni de satin. Reliure en metal aventurine encadre de bronzes finement ciseles et dores a motifs de
+- feurs, ornements divers et attributs de musique.
+- 29o.— Almanach iconologique, illustre par GRAvELoT. Annee 1765. Des Arts. 1 port. de GRAvELoT, 1 titre,
+- 2 front., I2 fig. 7 ff. de texte.
+Annee 1766. Des Sciences. 1 titre, 15 fig. dont 2 a 1. 6 ff. de texte.
+
+Année 1768. Etres metaphysiques. 1 titre, 13 fig.
+
+Année 1767. Des Vertus. 1 titre, 12 fig. 6 ff. de texte.
+
+7 ff. de texte.
+
+6 ff. de texte.
+
+Annee 1769. Les Muses. 1 titre, 12 fig. dont 1 a 1.
+
+Annee 177o. Les Elements, etc. 1 titre, 17 fig. dont 5a l.1o ff.de texte.
+
+Annee 1771. Le Temps. 12 fig., 1o ff. de texte.
+
+Annee 1773. Etres moraux. 1 titre, 12 fig. 10 f.
+
+Annee 1772. L'Homme. 1 titre, 7 fig. 12 ff. de texte.
+
+de texte.
+
+Annee 1774. Des Sciences. 1 titre, 13 fig. dont 1 a 1. 6ff. de texte.
+
+dont I a l.6 ff. de texte.
+
+Annee 1775. Les Vertus et les Vices. 1 .titre, 14 fig.
+
+Annee 1776. Les Vertus et les Vices. 1 titre, 12 fig. 8 ff. de texte.
+
+dont I a l.1o ff.de texte.
+
+Annee 1777. Les Vertus et les Vices. 1 titre, 13 fig.
+
+Année 1778. Les Vertus et les Vices. 1 titre, 14 fig. dont 2 a 1. 12 ff.de texte.
+
+8 ff. de texte.
+
+Année 1779. Les Vertus et les Vices. 1 titre, 12 fig.
+
+Annee 178o. Les Vertus et les Vices. 1 titre, 11 fig.
+
+9 ff. de texte.
+
+Année 1781. Les Vertus et les Vices. 12 fig., 1o ff. de texte.
+
+classees par annee.
+
+Ensemble, avec 15 planches doubles, 146 pieces
+## CADRES
+
+291. — Cadre ancien en baguettes Louis XVI, bois sculpté
+2. et dore, profil a perles et rais-de-coeur.
+
+<!-- formula-not-decoded -->
+
+292. — Cadre ancien semblable. (H. 0,64. — L. 0,91.)
+293. —— Cadre ancien Louis XVI, bois sculpte et doré; pro-
+3. fil a gorge, perle et feuille d'eau. (H. 0,25. —— L. 0,41.)
+294. —- Cadre ancien Louis XVI, bois sculpte et dore; profl a pirouette, canneaux et feuilles d'eau.
+
+<!-- formula-not-decoded -->
+
+295. —- Cadre ancien Louis XVI, bois sculpte et dore; profil plat avec entrelacs et rosaces.
+2. (H.0,63.—L.0,90.)
+296. —— Cadre ancien Louis XVI, bois sculpte et dore; profil a oves et pirouette. (H. 0,48. —L. 0,66.)
+297. -- Cadre ancien Louis XVI, couronne d'un nceud de ruban avec guirlandes de laurier. (H.0,41.—L.0,28.)
+298. — Petit cadre ancien Louis XVI en marqueterie de bois de couleurs.
+
+<!-- formula-not-decoded -->
+
+299. — Petit cadre ancien de lépoque de Louis XIII a profil renversé, decore de rinceaux. (H. 0,10. -Larg. 0,13.)
+2. 3oo. — Cadre ancien Louis XIV en bois finement sculpte et doré a plusieurs ors.
+3. 3o1. —— Cadres non catalogues.
+
+<!-- formula-not-decoded -->
+## MINIATURES
+
+302.— ANONYME. PoRTRAIT DE CoMEDIENNE tenant a la main un masque; sur velin. Cadre ancien bois sculpte et dore.
+
+303.—1 BOILLY (L.). PORTRAIT DE SIMON CHENARD, de I'Opera-Comique (ami du peintre).
+
+En buste presque de face, les bras croisés, il est vetu d'une redingote couleur cuir a collet noir et cravate de blanc.
+
+A l'huile sur argent, de forme ronde. Cadre ancien. (Diam.0,060.)
+
+304. — BONE (H). Ecole anglaise. PoRTRAIT DE
+
+Galles.
+
+- GEoRGE IV, alors qu'il était Prince de
+
+Peinture en émail, de forme ovale,au dos\_de laquelle on lit:a His Royal Highness the Prince of Wales.Painted by Hy Bone A.R. A.enamel painter to His Royal Highness. June 1806.》
+
+- 305.—DEMARNE. VACHES, CHEVRES ET MOUTONS AU
+
+PATURAGE.
+
+Fixe sous verre de forme ronde. (Diam. 0,080.)
+
+- 306.DUMONT. PORTRAIT DE L'ABBE DE MARBEUF.
+
+Petite miniature ornant une bonbonniere ronde en écaille brune cerclée d'or ciselé a plusieurs couleurs. Sur ivoire,de forme ovale.
+
+307.——PORTRAIT DE FABRE D'EGLANTINE.
+
+Buste de face tete nue, en habit bleu a revers rouge, le col largement ouvert. Sur ivoire de forme ronde.
+
+(Diam.0,070.)
+
+Signee : Dumont f. lan 2.
+## 308.—ECOLE FRANCAISE DU XVII SIECLE.PoRTRAIT DE JACQUES CALLOT.
+
+En buste presque de face, il est vetu d’un pourpoint brode d'or avec ample collerette de dentelle.
+
+A l'huile sur cuivre, de forme ovale.
+
+## 309.
+
+## 310.—
+
+## 311.
+
+(H. 0,070.—L. 0,060.)
+
+## 一 ECOLE FRANCAISE FIN DU XVIII SIECLE
+
+PORTRAIT DE GUSTAVE-MAURICE COMTE D'ARMFELD, general suedois.
+
+Sur ivoire, de forme ovale.
+
+## ECOLE FRANCAISE,FIN DU XVIIIe SIECLE.
+
+PORTRAIT DU GENERAL MARCEAU. Sur ivoire, de forme ovale, cercle en or.
+
+## HALL (?).PORTRAIT DE JEUNE FEMME.
+
+Vue a mi-corps vetue d'un corsage bleu, d'une chemisette et d'une jupe blanche; elle est coiffée de dentelles et tient des feurs dans son tablier. Sur ivoire,de formc ronde. Cercle en or.
+
+(Diam.0,075.)
+
+## 312.—LAWREINCE (N.) (?) PORTRAIT DE FEMME.
+
+Vue en buste, coiffee d'un bonnet a rubans bleus, mantelet noir et fichu blanc. Sur ivoire, de forme ovale. Elle parait etre signee de la lettre L suivie de la date 1779.
+
+Cadre medaillon a beliere en or enrichi de perles fines.
+
+- 313.—PERIN (L.-L.).PoRTRAIT DHOMME en buSte VU de face.
+
+Il est coiffe d'un chapeau noir et vetu d'un gilet de soie sur une chemise a jabot; fond de ciel.
+
+Sur ivoire, de forme ovale.
+
+(H. 0,070 . —— L. 0,060.)
+- 314.— PLYMER (Ecole anglaise). PoRTRAIT DE LA PRINCESSE FREDERIQUE-CHARLOTTE-ULRIQUE-CATHERINE, derniere fille de FrederikGuillaume HI, roi de Prusse, devenue DUCHESSE D'YORK ET D'ALBANY.
+
+Sur ivoire, de forme ronde.
+
+(Diam. 0,075.)
+
+- 315.—PORTRAIT DE LADY NoRTHWICK. Sur ivoire, de forme ovale. (H. 0,075. — L. 0,062.)
+316. — RUBENS (D'apres). Portrait de MARIE DE MEDICis en riche costume de soie noire se detachant sur un fond de draperie rouge.
+
+Sur ivoire, de forme ovale.
+
+- 317.— SAUVAGE. BONBONNIERE DE FORME RONDE EN ECAILLE brune ornee sur le dessus d'une miniature peinte sur opale, en imitation de bronze. Signee.
+318. — VESTIER. PoRTRAIT DE JEUNE FEMME en buste dans un medaillon ovale. Sur ivoire.
+
+## PORCELAINES
+
+319. - Deux GoBELETs a pied a huit pans en ancienne
+
+Collection Pouyer-Quertier.
+
+- PORCELAINE Du JAPoN a decor de fleurs en bleu.
+320. — GRAND PLAT en ancienne PoRCELAINE DU JAPON a riche decor polychrome de poissons et coquilles entoures de
+branches de pivoines alternant avec des compartiments ornes de feurettes.
+
+(Diam. 0,52.)
+
+- 32I.— DEux TAsSEs ET SoUcoUPES en ancienne PoRCELAINE DE CHINE de la famille rose, décorees de bouquets de feurs et d'un treillage reticule laissant voir une enve-
+- loppe interieure émaillee en bleu.
+
+Collection Pouyer-Quertier.
+
+- 322.—TAsSE ET SA SoUcoUPE en ancienne PORCELAINE DE
+- CHINe de la famille rose, decoree de lobes émailles roses sur lesquels courent en relief de petits écureuils dans des branches fleuries.
+
+Collection Pouyer-Quertier.
+
+- 323.PETITE CAFETIERE en ancienne PORCELAINE DE CHINE
+- de la famille rose, dont la panse est faite de lobes rouge et bleu; sur le pourtour, des feurs en relief encadrent deux medaillons reticulés et dores.
+
+Collection Pouyer-Quertier.
+
+- 324.— Deux BoLs a anses avec couvercles et soucoupes en ancienne PoRcELAINE DE CHINE de la famille rose, decores de lobes rayonnants roses sur lesquels courent en re-
+- lief des branches feuries et de petits écureuils.
+
+Collection Pouyer-Quertier.
+
+- 325.—Deux AsSIETTES en ancienne PORCELAINE DE CHINE de la famille rose, offrant au centre un coq au milieu de feurs et de papillons; et au marli, des marguerites et rinceaux de feuillage en reserve sur fond noir avec bord rose.
+
+Collection Pouyer-Quertier.
+
+(Diam. 0,23.)
+
+326. Deux PETITs PLATs a bords festonnés en ancienne PORCELAINE DE CHINE de la famille rose, offrant au centre un coq au milieu de feurs et de papillons, et au marli une feur rouge, au centre de compartiments alternativement bleu clair et quadrille rose.
+
+Collection Pouyer-Quertier.
+
+(Diam. 0,27.)
+- 327.—PETITE FIGURINE D'ENFANT nu portant un berceau en
+- ancienne PoRcELAINE DE SAxE, a décor polychrome.
+- 328.STATUETTE en ancienne PoRcELAINE DE SAxE personnifiant la Musique. Décor polychrome avec rehauts
+
+(H. 0,115.)
+
+- d'or.
+329. —PLATEAU en ancienne PoRcELAINE DE SAxE en forme de double feuille, decoré de bouquets de fleurs.
+- 33o.-PLATEAu a deux anses de forme ovale a bords contournes, en ancienne PoRcELAINE DE SAxE, a pate treillagee, decoree de bouquets de feurs; il supporte une petite soupiere et son couvercle decores de meme,
+- celui-ci est termine par un groupe de deux enfants.
+
+Collection Pouyer-Quertier.
+
+- 331.— TERRE DE CyFLE. Ancien groupe a deux person-
+- nages, representant : L'Oiseau mort.
+
+(H. O,26.——L. 0,20.)
+
+- 332.— TERRE DE CyFLE. Deux statuettes anciennes,repre-
+- sentant un jardinier debout, faisant pendant a une jardiniere debout, un pot de feurs brise a ses pieds.
+
+(H.0,24.)
+
+- 333.PORTRAIT EN MEDAILLON DE PROFIL DE LA PRINCESSE DE LAMBALLE en ancien BISCUIT DE SEvREs.
+
+Collection Ruyter.
+
+- 334.—— GRoUPE en ancien BIscuIT DE SEvREs : Jeune fille apprenant a lire a deux jeunes garcons.
+
+Signe dans la pate : Schneider, xvine siecle.
+
+- 335.-Deux GroupEs de deux figures,faisant pendants, en ancien BIscuIT DE SEvREs, pate tendre.  Elle mord a la grappe ) et α La lecon de fliute. )
+- 336.— BoITE en ancienne PoRcELAINE pate tendre de forme pentagonale, decoree a l'interieur et a l'exterieur de
+- feurs polychromes.
+
+Collection Lize, de Rouen.
+- 337.PETIT VASE couvert en ancienne PoRcELAINE TENDRE BLANCHE DE MENNECy-VILLERoY, en forme de pot-pourri, decore en relief sur la panse de feuilles, et sur le cou-
+- vercle, d'un bouton de feurs. Marque.
+- 338.— ancienne PORCELAINE DE MENNEcy-VILLERoY, pate tendre emaillee en blanc, imi-
+- TROIS PETITES cOUPES en a tant des corbeilles de vannerie a anses.
+- 339.—DEux PoTs A CREME en ancienne PoRCELAINE TENDRE DE MeNNEcy-VILLERoy decores de bouquets de feurs,
+- sur fond blanc strie en spirale et en relief. Marques.
+- PETITE THEIERE en ancienne PORCELAINE TENDRE DE SEvRes; la partie superieure ainsi que le couvercle sont decores d'ornements en arabesques et de feurs sur
+- 340.—1 fond mauve, par Noel. Annee 1786.
+341. —— Tasse cylindrique avec sa soucoupe en ancienne PORCELAINE TENDRE DE SEvRES, decorée par CAPELLE de
+- rinceaux et de festons sur fond rouge brique.
+- 342.—— PETITE TASSE CYLINDRIQUE aVec sa soucoupe en ancienne PoRCELAINETENDRE DE SEVREs a fond jaune citron, decoree d'ornements en rinceaux; au centre de la soucoupe, deux pigeons sur un carquois. Annee 1786.
+
+Collection Pouyer-Quertier.
+
+343. CREMIER en ancienne PORCELAINE DE SEvRES, pale tendre, a fond blanc decore sur le bord et sur l'anse d'un ruban bleu borde de filets dores, et sur la panse de bouquets de feurs. L'anse est reliee aux pieds par des branches feuries en relief. Lettre A (1753), decor par
+2. de Choisy (?).
+344.  PETIT PLATEAU CARREenancienne PORCELAINE DE SEVRES pate tendre, a fond blanc, dentele d'or sur les bords et decore de festons de feurs en camaieu bleu. Lettre f
+4. (1758).
+- 345.- DEux BEuRRIERs en ancienne porcelaine tendre DE SevRes decores de filets bleus et de bouquets de feurs par JoyAu (annee 1772).
+
+Collection Pouyer-Quertier.
+
+- 346.TAssE DroITE en ancienne porcelaine tendre de VINCENNEs, a fond blanc, tres finement decoree d'un sujet
+- pastoral dans le gout de J.-B. HuET.
+
+Elle est montee en forme de vase sur un trepied avec cou- vercle en bronze cisele et dore.
+
+## FAIENCES
+
+347. - DEUx CoMPoTIERs en ancienne FAiENCE DE MousTIERs
+2. de forme contournee a decor bleu d'arabesques de BeRAIN sur fond blanc.
+348. PoRTE-HuILIER en ancienne faience francaise en forme de nacelle, a decor polychrome avec parties ajourees.
+4. 349.— PAIRE DE RAFRAICHISSoIRs en ancienne FAiENCE DE STRAsBouRG, de forme ovale a deux anses, decores de feuilles d'acanthe sur fond jaune et ornes de bouquets de feurs.
+5. 35o. — DEUx PLATS en ancienne FAiENcE DE LA RocHELLE de forme ovale a bords contournes, a decor polychrome compose de bouquets de feurs sur fond blanc.
+6. decor polychrome de sujets dans le gout chinois.
+351. — PoT A cREME en ancienne FAiENcE DE MARsEILLE a
+8. 352.— AssIETTE en ancienne FAieNcE DE MARsEILLE a bords contournes et a decor polychrome, forme de personnages
+9. chinois dans un paysage agremente d'oiseaux.
+- 353.CoMPoTIER en ancienne FAiENCE DE MARSEILLE,de forme carrée a bords contournés et sujet chinois poly-
+- chrome.
+- 354.— PIcHET en ancienne FAiENCE DE NEvERs ayant la forme d'un personnage assis en costume de polichinelle
+- et a decor polychrome.
+
+(Haut.0,34.)
+
+355. AssIETTE en ancienne FAiENCE DE SINcENy a decor polychrome offrant au centre un medaillon avec oiseau chantant sur une branche, encadre de quatre autres médaillons en reserve sur fond jaune quadrille de noir avec paniers de fleurs et de fruits.
+
+(Diam.0,23.)
+
+356. - MouTARDIER avec son couvercle en ancienne FAiENcE DE Rouen, a decor polychrome dit a la corne tronquee. Collection Pouyer-Quertier.
+357. - SALIERE en ancienne FAieNCE DE RouEN a six pans
+3. decoree en camaieu bleu.
+358. - Grand coMPoTIER en ancienne FAiENcE DE RouEN a decor polrchrome dit a la corne, agremente d'oiseaux et d'insectes.
+
+Bel émail.
+
+(Diam. 0,30.)
+
+359. — PoRTE-HUILIER en ancienne FAiENCE DE RoUEN a bords contournes et a decor polrchrome de branchages
+2. fleuris.
+3. 36o. - PoRTE-HuILIER en ancienne FAiENCE DE RoUEN a decor polychrome de quadrilles verts et de bouquets de
+4. feurs de GuILLEBAUT.
+361. BoITE AUx TRoIS-EPIcEs en ancienne FAiENcE DE RouEn a decor bleu et rouge forme de compartiments
+6. symetriques pointilles de rouge et rinceaux.
+
+Collection Pouyer-Quertier.
+- 362.— DEux AssIETTEs en ancienne FAiENCE DE RoUEN, a
+- bords contournes et a decor polychrome dit au vase de fleurs.
+
+Collection Pouyer-Quertier.
+
+(Diam.0,24.)
+
+363. —AssIETTE en ancienne FAieNcE DE RouEN, a decor
+2. polychrome dit a la pagode offrant au marli des feurs se detacliant en reserve sur fond d'émail bleu.
+
+(Diam.0,24.)
+
+- 364.- PicHET avec son couvercle en ancienne FAiENcE DE Rouen, a decor polychrome dit a la corne, agrémente de feurs, oiseaux et papillons.
+
+Il porte en decor l'inscription Marie Rabardi, 1774. Collection Pouyer-Quertier. (Haut.o,35.)
+
+- 365.— AsSIETTE en ancienne FAieNcE DE RouEN a decor bleu offrant au centre un blason forme de deux écussons, surmonte d'un cimier; au marli des festons et arabesques.
+
+(Diam.0,24.)
+
+Les armoiries sont celles des familles Hue du Mont et Hautemer(Normandie).
+
+366. - AssIETTE en ancienne FAieNcE DE RouEN a bords contournes eta decor polychrome,offrant au centre un écusson armorie surmonte d'une couronne de comte, decore du cordon du Saint-Esprit. Au marli, compartiments dans lesquels des fleurs jaunes se detachent sur fond blanc pointillé de rouge.
+
+(Diam.0,25.)
+
+- 367.-AssIETTE en ancienne FAiENcE DE RouEN a decor polychrome offrant au centre les chiffres L et M entrelaces, surmontes d'une couronne ducale supportée par deux anges. Marli a lambrequins de coquilles et d'ara-
+
+(Diam.0,24.)
+
+- besques.
+- 368.—AssIETTE en ancienne FAiENcEDE RouEN a decor polychrome offrant au centre un panier feuri et au marli des
+- grenades et des feurs en reserve sur fond d’email bleu.
+
+Collection Ploquin.
+
+(Diam.0,24.)
+369. AssIETTE en ancienne FAieNcE DE RouEN a decor polychrome offrant au centre une corbeille de fleurs et fruits et au marli un lambrequin quadrille en rouge avec coquilles et rinceaux en jaune sur fond bleu.
+
+(Diam.0,24.)
+
+- 37o.—AssIETTE en ancienne FAieNcE DE RouEN a decor bleu et rouge de style rayonnant décoree au centre d'une corbeille de feurs; et au marli de lambrequins avec reserves de quadrilles, coquilles et bouquets feuris.
+
+(Diam.0,21.)
+
+- 371.— AssIETTE en ancienne FAiENcE DE RouEN a decor blei et rouge, de style rayonnant,offrant au centre un panier feuri et au marli seize compartiments a motifs de feurs,rinceaux et draperies en guirlandes.
+- 372.—A
+
+(Diam.0,24.)
+
+- AssIETTE en ancienne FAiENCE DE RouEN a bords contournes et a decor polychrome offrant au centre un vase feuri, entoure de compartiments quadrilles de rouge, d'ou émergent alternativement des feurs et des guirlandes.
+
+Collection Pouyer-Quertier.
+
+(Diam.0,24.)
+
+- 373.— DEUX AssIETTEs en ancienne FAiENcE DE RouEN, a decor polychrome representant trois personnages vetus a l'orientale, dans un paysage agremente de rochers, de plantes et d'oiseaux.
+
+(Diam.0,24.)
+
+374. - PAIRE DE PETITs SoULIERs a talon et semelle en ancienne FAiENcE De RouEN,a decor polychrome de branches
+2. feuries avec bande d'ocre niellee d'arabesques en noir.
+
+Rares et jolies pieces. Collection Pouyer-Quertier.
+
+- 375.— COMPOTIER en ancienne FAiENCE DE RoUEN, a huit pans et a decor polychrome offrant au centre une corbeille de feurs. Des guirlandes alternent sur le marli avec des arabesques portant des paniers feuris.
+
+Collection Pouyer-Quertier.
+
+(Diam.0,27.)
+- 376.— CoMPoTIER en ancienne FAiENcE DE RoUEN, a huit pans avec bords contournes et a decor polychrome de Chinois avec parasol; au premier plan, un petit Chinois navigue dans une nacelle. Marque N. T.
+
+(Diam.0,25.)
+
+377. — DEUX COMPoTIERs en ancienne FAiENCE DE RouEN de forme octogonale a decor polychrome, offrant au centre un medaillon decore de canards et de fleurs qu'entourent des compartiments vermicelles, alternativement decores de vases de feurs et de pyramides de fleurs.
+
+Collection Pouyer-Quertier.
+
+(Diam. 0,25.)
+
+- 378.Deux PLATEAux a piedouche en ancienne FAieNcE DE Rouen, a huit pans et a decor bleu de style rayonnant, portant au centre une feur, au milieu d'une rosace,avec lambrequins et arabesques, entourée de riches motifs formes de rinceaux et de pyramides. Decoration analogue sur le piedouche.
+
+Ces deux belles pieces sont marquees de la lettre A.
+
+Collection Pouyer-Quertier. (Diam. 0,30.)
+
+379. -- PLATEAu a piedouche en ancienne FAiENCE DE RouEN, a huit pans et a decor polrchrome representant, au milieu de branchages feuris, une famille de Chinois partant a la promenade. Au marli une frise a fond jaune avec reserves de feurs. Bordure analogue sur le pié- douche.
+
+Piece rare.
+
+(Diam. 0,31.)
+
+Collection Ploquin.
+
+- 38o. — PLATEAu oblong en ancienne FAiENcE DE RouEN a huit pans,a decor bleu et rouge de style rayonnant. I1 offre au centre une corbeille de feurs et de fruits richement encadree d'une bordure de lambrequins et de pen-
+- dentifs haches de rouge en reserve. Sur fond bleu.
+
+(L.0,41.—L.0,35,)
+
+381.—PLAT ROND en ancienne FAiENCE DE RouEN, a bords
+contournes et a decor polychome dit au dragon et a l'oiseau.
+
+Piece remarquable par la beaute de son email. Collection Pouyer-Quertier. (Diam.0,33.)
+
+382. — AIGuIERE avec anse et couvercle, en ancienne FAiENcE
+2. DE RouEn. Decoree en camaieu bleu de sujets familiers chinois ; le haut de l'aiguiere en forme de tete de coq decoree au naturel, la crete et la barbe en rouge; sur la panse un écusson de chiffres enlaces surmonte d'une couronne de comte et la base ornee de godrons en relief decores de palmettes.
+
+Piece rare.
+
+Collection Pouyer-Quertier.
+
+- 383.GRAND PLAT CREUx en ancienne FAiENCE DE RoUEN
+- de forme circulaire, a fond ocre revetu d'arabesques, de rinceaux et de losanges bleu fonce, au centre duquel se detache en bleu un groupe forme par Venus et 1'Amour accompagnes de deux faunes dansant. A l'entour, six reserves decorées de feurs sur fond blanc. La bordure est ornee d'une frise de feurs et de rinceaux rouges sur fond bleu.
+
+Piece rare. Collection Pouyer-Quertier.
+
+(Diam. 0,40.)
+
+## OBJETS DE VITRINE
+
+384. - EvENTAIL EN vERNis MArTIN du temps de la Regence representant sur l'une de ses faces : Le Triomphe de IAmour, scene composee d'un grand nombre de personnages escortant le dieu traine sur un char et couronne par I'Innocence. L'autre face est decorée d'un paysage en camaieu violet dans lequel evoluent des paons et autres oiseaux au plumage multicolore. Les gardes et les mon-
+
+(H. 0.42.)
+tants de la monture presentent des sujets dans le gout chinois.
+
+Un des beaux specimens de ce genre d’eventail,remarquable par sa qualite et son bel etat de conservation.
+
+- 385.— EvENTAIL DE FIANCAILLEs du temps de Louis XV, peint a la gouache sur velin, offrant au centre, en un medaillon ovale soutenu par deux Amours, le portrait de la fiancee que contemple un couple de personnages assis. Plus loin a droite un autre medaillon offre le por-
+- trait du fiance. Monture en ivoire decoupe a jour.
+
+Bel éventail, en bon état de conservation.
+
+386. - Erui en or émaille a fond bleu de ciel encadre d'ornements sur fond d'email blanc, et offrant sur chacune de ses faces deux sujets : Amour et Muse.
+
+Joli travail du temps de Louis XVl.
+
+387. —— Erui en galuchat formant ecritoire de poche, garni
+2. de ses accessoires en argent. Epoque de Louis XVI.
+3. 388.-CoupE ronde a deux anses en émail peint du xvll siecle, offrant au centre un medaillon en camaieu representant 1Amour vainqueur, avec la devise : Omnia vincit amor. Al'entour, des lobes rayonnants emailles blanc avec feurs se decoupant sur fond noir decore d'arabesques d'or. Le revers offre au centre un paysage et au pourtour des lobes a fond noir avec arabesques d'or et ornements translucides se decoupant sur un bord d'émail blanc avec arabesques noires. Belle piece bien conservée et signee des initiales I. L. (Jean Laudin.)
+
+(Diam.0,14.)
+
+- ment sculptee sur ses deux faces. Elle offre d'une part le Roi-Soleil en Apollon et de lautre une figure de Diane.
+389. — RAPE A TABAc du temps de Louis XIV en ivoire,fine-
+
+Collection Lize, de Rouen.
+
+39o. — BorrE en jaspe sanguin du temps de Louis XVI, de forme oblongue, montee a cage en or cisele.
+- 3g1.— Borre ovale en prisme d'amethyste, du temps de Louis XV.Monture en or a ornements en rocailles avec
+- onglets.
+392. —DRAGEoir en cristal taille,monture en or, du temps de la Regence.
+- 393.—
+- PAIRE DE PETITs cISEAUx en or, du temps de la Regence.
+394. — CourEau en nacre et monture en or, du temps de Louis XVI, dans son étui de galuchat.
+- 395.— TRoussE DE DENTIsTE, du temps de Louis XIII.Dans
+- son etui en vieux maroquin a semis de feurs de lys.
+396. — EpiNGLE DE cRAvATE formee d'une ancre enrichie de roses; monture en or. Epoque Louis XVI.
+- 397.— EpINGLE DE CRAvATE composee d’une tres petite mi-
+- niature par DE GauLT : femme jouant avec un Amour, cercle d'or guilloche. Epoque Louis XVI.
+398. — PeTIT cADRE en forme de reliquaire en argent repousse compose d'ornements de style rocaille et surmonte d'une couronne. XVIHle siecle.
+- 399.CADRE A MINIATuRE en argent cisele du temps de Louis XVI en forme de medaillon decore d'entrelacs et enguirlande de rubans et de branches de laurier; dans son étui en galuchat du temps.
+
+## SCULPTURES
+
+- 400.—STATuETTe de femme nue, en marbre blanc,attribuee
+- a GERMAI PILoN, Amphitrite debout,une main appuyee sur le sein droit, adossee a un enlacement de trois dau-
+phins. Elle est coiffee de nattes qui s'elevent en casque au sommet de la tete sur lequel est pose un diademe;le bas de la chevelure dispose en noeud et orne de rubans descend sur la nuque, et des boucles retombent sur les epaules.
+
+401. —- Deux BAs-RELiEFs modeles en cire sur fond d'ardoise,
+
+（H.0,65.)
+
+- attribués a CLoDion, representant 1'un : L'Offrande a l'Amour, figuree par une jeune vestale versant une coupe delibation dans un brule-parfum devant l'Amour, debout sur un piedestal; lautref figurant l'Hyménee sous la forme d'un couple de jeunes gens, les mains enlacees, semblant s'éloigner d'une femme agee qui s'efforce de les retenir.
+
+(Diam.0,131/2.) Cadres en acajou a perles et feuilles d'eau dorees.
+
+De forme ronde. Collection Lize,de Rouen.
+
+- 402.— BusTE DE JEUNE FEMME en forme de chef en chene sculpte de la fin du xvr siecle. Elle est vetue d'un riche costume decollete avec ornements en cabochons et perles, fermant sur la poitrine par une agrafe formee d'une tete d'ange. La coiffure est ornee a son sommet d'un motif en volute auquel est attache un voile retombant en arriere, de cordons de perles et d'une ferronniere.
+
+Belle conservation.
+
+(H. o,50. -—L. 0,50.)
+
+- 403.— BAs-RELIEF en ancienne terre cuite, dans le goit de Clodion, representant une jeune nymphe étendue nue sur une draperie entouree d'amours dont deux ornent sa chevelure tandis que d'autres en voltigeant lui offrent des fleurs et des fruits.
+
+De forme ovale.
+
+(H. o,25.——L. 0,29.)
+
+404. — DEux FIGURINEs faisant pendants en terre cuite, par
+2. EDME BoucHARDoN, representant un jeune garcon vetu en paysan, et une jeune fille amplement drapee tenant une urne.
+
+(H. 0, 29.)
+405. — Deux STATuETTEs faisant pendants en bois sculpte
+2. et ivoire. Elles personnifient Mezzetin et Colombine. L'habillement en bois teinte polychrome,les tetes, les mains, la lingerie et les chaussures travaillees en ivoire.
+
+Curieuses et gracieuses compositions d'une execution remarquable. Epoque de la Regence. (Haut.0,29.) Collection Pouyer-Quertier.
+
+406. — BAs-RELIEF modele en cire sur fond d'ardoise signe PInsoN f.1781.Portrait de la chevaliere d'Eon de Beaumont,chevalier de Saint-Louis,neea Tonnerre le5octobre1728.
+
+Cadre a reverbere en argent dore.
+
+407. — DEux PETITs BAs-RELIEFs modeles en cire rose sur
+2. fond d'ardoise figurant des allegories de la Guerre et de la Concorde dans leurs petits cadres du temps. xvilre siecle.
+408. —— PERsoNNAGE RIANT dans une pose hieratique, en pierre de lare, assis sur un rocher et vetu d'un riche costume. Travail ancien de l'Extreme-Orient.
+
+(H.0,30.)
+
+409. —DEux FIGuREs DE FEMMEs nues debout faisant pendants
+2. modelees en cire; l'une est vue de face, l'autre de dos.
+
+## PENDULES ET BRONZES
+
+- 41o.— BELLE PENDULE du temps de Louis XVI, en marbre blanc et bronzes finement ciseles et dores. Elle se compose de deux figures personnifiant l' Innocence et l' Amour. Une jeune fille a demi vetue d'une draperie qu'elle retient ala ceinture recoit de l'Amour un bouquet de roses. Le petit dieu, porte par un nuage, allume son fambeau a
+un brasier, apres avoir abandonne arc et carquois. La base est ornee de perles et bas-reliefs formes par des branches de lierre et de laurier en entrelacs. Le cadran signe de Lechopie, a Paris, indique les heures, jours et quantiemes.
+
+.Tres belle piece, attribuee a Falconet.
+
+(H.0,42.—L.0,35.)
+
+- 411.— PeNDuLE en forme de Cartel-applique du temps de
+- Louis XV, en bronze cisele et dore, de forme rocaille avec guirlande de feuillages et de feurs, surmontee d'un personnage chinois, assis, les jambes croisees. Belle piece poinconnee du C couronne.
+
+(H.0,55.)
+
+412. PAIRE DE CAsSOLETTES-FLAMBEAUx du temps de Louis XVI, en bronze finement ciselé et dore, composees d'une urne a trepied enguirlandee de laurier; base
+2. et couvercle moulures, decores d'ornements divers.
+
+(H.0,21.)
+
+- 413.—PAIRE DE FLAMBEAUx du temps de Louis XIV, en bronze finement cisele; modele a balustre, orne de petits bustes dans des medaillons; la base, carree a pans coupés, est decorée de lambrequins.
+
+(H.0,23.)
+
+- 414.—PAIRE DE FLAMBEAUx du temps de Louis XVI,en bronze ciselé et dore. La tige, en forme de balustre cannele, est terminee par un culot de feuilles d'acanthe; la base comporte un enroulement de feuilles autour d'une
+- baguette.
+
+(H.0,28.)
+
+- 415.—1 PAIRE DE FLAMBEAux en bronze patine et dore, du temps de lEmpire, tres finement cisele.La tige,en forme de gaine, est ornee de trois tetes de femmes et de griffes de lion reposant sur une sphere. Douille et base ornees de palmettes.
+
+Beau modele.
+
+(H. 0,32.)
+- 416.—PoRTE-MoNTRE en forme d’applique du temps de
+- Louis XVI, en bronze cisele et dore offrant au centre un soleil dans un medaillon enguirlande de laurier.
+- 417.— DEux PETITEs FIGuRINEs d'Amours avec draperies en bronze patine ésur socles en marbre vert de mer xvIll siecle.
+
+Collection Lize, de Rouen.
+
+418. —— BusTE D'ENFANT riant, en bronze patine, du temps de Louis XV. De profl a droite pose sur un piedouche
+2. en bois.
+
+(H.0,32.)
+
+419. — STATuETTE en bronze de 1'Extreme-Orient figurant
+2. une divinite avec face et vetement dores, xvr siecle.
+
+(H. 0,25.)
+
+420. — Deux sTATuETTEs en bronze de l'Extreme-Orient,
+2. representant des divinites stellaires. xvr siecle.
+
+(H.0,27.)
+
+421. — Deux sTATuETTEs en bronze de l'Extreme-Orient,
+2. figurant des divinites stellaires. xvr siecle.
+
+(H. 0,24.)
+
+## SIEGES ET MEUBLES
+
+- 422.—FAuTEuIL de bureau du temps de Louis XV de forme
+- contournee, en bois sculpte ciré.
+423. — FAuTEuIL du temps de Louis XV de forme con-
+- tournee, en bois sculpte,ornemente de rocailles et de feurs portant l'estampille du maitre-ébeniste GourDAIM.
+
+Il est garni d’une soie ancienne.
+- 424.— GRAND FAuTEuIL du temps de Louis XIV,en bois sculpte avec traverse anterieure offrant une coquille et des rinceaux ajoures. Il est garni d'une tapisserie au point representant des vases feuris et des figures au milieu d'ornements divers.
+- 425.—- FAuTEuIL canne du temps de la Regence, en bois finement sculpte et cire a pieds cambres relies par un
+- croisillon.
+- 426.— FauTeuiL bas, du temps de la Regence, en bois sculpte cire recouvert d'ancien velours rouge.
+- FauTeuiL du temps de la Regence, en bois sculpte,
+- 427.—— a pieds cambres relies par un croisillon avec dossier mouvemente et orne de coquilles, feuillages et quadrilles a trefe.
+
+## Collection Pouyer-Quertier.
+
+428. — EcRAN en acajou, du temps de Louis XVI, a colonnettes detachees, panaches et rosaces en bronze cisele et
+2. dore; il est garni de damas blanc sur bleu.
+429. — BuREAU A Dos D'ANE, du temps de Louis XV, de forme contournee en marqueterie de bois violet et satine,a
+4. losanges. Entrees en bronze cisele et dore.
+5. 43o. —- MeUBLE D'ENTRE-DEUx forme de tiroirs reposant sur une console a quatre pieds en forme de fuseaux avec tablette d'entre-jambe. Il est en acajou garni de bronzes dores, avec dessus de marbre blanc et galerie ajouree.
+6. Les cotes, de forme cintree, s'ouvrent sur des étageres.
+7. 431.- TABLE DE NuIT du temps de Louis XVI, a quatre pieds cambres et entre-jambe mouluree de cuivre. Le dessus est marquete a feurs sur fond satine avec galerie
+8. decoupee a jour. Chutes, sabots, etc., en bronze cisele.
+9. 432.TABLE-BUREAu du temps de Louis XVI, meuble de voyage en bois d'acajou double de citronnier.Le dessus
+se souleve a cremaillere pour former pupitre a ecrire debout. Les pieds, en forme de gaines, sont visses de facon a pouvoir etre demontes. La ceinture offre un tiroir avec tablette a écrire et renferme lui-meme trois petits tiroirs plaques de bois rose. Ce meuble remarquable du maitre-ebeniste DavID RoENTGEN est orne d'astragales, de denticules, de rosaces et de poignees en bronze tres finement cisele et dore.
+
+Provient de la Malmaison. (Larg. o,6g.——Long. o,99.)
+
+- 433.-1
+- HARPE ancienne Louis XVI, en bois sculpte dore et en partie laque noir avec decor chinois; la table est peinte au vernis Martin de motifs de fleurs,d'attributs et de paysages.
+- 434.— HARPe ancienne Louis XVI en bois sculpte dore, analogue a la precedente, dont la table peinte represente une suite de trophees d'instruments de musique.
+
+## OBJETS DIVERS
+
+435. EpEE DE Cour du temps de la Regence. La poignee, ciselee, doree et damasquinee offre, sur ses differentes parties des allegories relatives aux victoires du guerrier pour qui elle fut executee. Des figures de dieux et de deesses habilement disposees proclament les vertus du meme heros. Cette ceuvre remarquable, d'une parfaite conservation,porte sur le pommeau la signature du maitre fourbisseur Le CouRT.
+
+Collection F. de Liocourt, de Nancy.
+
+- 436.— CoFFRET en forme de petite malle, en cuir gravé peint et doré, muni de son couvercle a trois rampants. La decoration se compose de compartiments renfermant
+des rosaces entourees de feuillages et de chiffres separes par des bandes d'ornements graves.
+
+Belle conservation.
+
+Travail francais ou du Nord de l'Italie; fin du xv siecle. (L.0,12.—H.0,071/2.)
+
+- 437.—1 PoRTEFEuILLE en maroquin rouge avec fermoir en argent grave. Il est largement decore d'un semis de feurettes et de paniers feuris dores aux petits fers; l'interieur, egalement orne, est doublé de soie verte.
+
+Belle conservation.
+
+Travail francais du temrs de Louis XVI.
+
+438. — PoRTEFEuILLE en maroquin rouge avec son fermoir
+2. en argent grave; il est orne d'ornements dores aux petits fers et porte un monogr.composé des lettres J.J.F. dans un cartouche surmonte d'une couronne de comte. L'interieur, egalement decore, est diviseen 12 compartiments pour les mois de l'annee.
+
+Travail francais, du temps de Louis XVI.
+
+- 439.— PoRTE-MONTRE ET THERMOMETRE en forme de lyre enguirlandee de myrtes et de lauriers. Bois d'acajou tres finement sculpte et ajouré, du temps de Louis XVI, portant au dos la signature de PHILBERT, sculpteur.
+
+(H.0,36.)
+
+440. —— DEUX SALIERES DOUBLES et QuATRE SALIERES SIMPLES
+2. en argent fondu et cisele de travail francais du temps de Louis XVI.
+
+Chacune des sa lieres simples est formee d'une corbeille ovale enguirlandee de chene, supportee par quatre pieds en griffons et ornee d'ecusson a deux blasons. Les salieres doubles offrent les memes corbeilles reunies par une plateforme recevant un ecusson armorie sur les deux faces et surmontee d'une pyramide ajouree agrementee de chainettes.
+
+Godets en verre bleu.
+
+441. — PAIRE DE SALIEREs en argent du temps de Louis XIV,
+2. de forme rectangulaire a pans coupes, ornees de deux moulures a godrons.
+- 442.— CAFETIERE en terre vernissee noire avec son couvercle. Monture en argent du temps de Louis XVI composee de guirlandes de feurs sur la panse, d'une suite de rosaces recouvrant l'anse, et d'une rose entr'ouverte
+- formant bouton sur le couvercle.
+- 443.— CAssoLETTE de forme ovoide faite de deux petites
+- coupes en vieux laque du Japon a fond rouge rehausse d'or, reunies par une ceinture ajouree en bronze cisele et dore du temps de Louis XV..
+- DIvINITE INDIENNE representant un personnage cas-
+- 444.—1 que accroupi, les jambes croisees.
+
+Argent repousse,xvir siecle.
+
+445. —— FER A REPAssER en bronze, sur son support de meme
+2. metal, decoupe a jour, figurant une lyre, xvll siecle.
+446. -- MARTEAu DE PoRTE en bronze forme de deux dauphins dont les tetes soutiennent un masque de satyre, xvll siecle.
+4. 447.— DEux GARGouLETTEs en ancien verre blanc de Venise avec appliques de verre bleu. A la partie superieure, une anse couronnee d'un motif en forme d'oiseau.
+
+(Haut.o,30.)
+
+448. — PETIr EDIcuLE en forme de rotonde a deux étages agrementé de colonnettes et surmonte des armes de France sous lequel, sur un trone, se voit une petite figure representant Louis XV enfant. Globe cylindrique en terre surmonte d'une feur de lys. Ouvrage
+2. execute a la naissance du jeune roi.
+449. — FeuILLE D'EcRAN du temps de Louis XVI brode au point de chainette sur satin blanc representant un bouquet de ffeurs. Bordure composee de festons de roses et d'autres fleurs alternant avec un cordon de perles.
+- 45o. SuITE DE sIx PANNEAux a fond de satin rose brode et chenille d'arbustes, de fleurs et de noeuds de rubans, avec personnages chinois dansant. xvill siecle.
+
+(H. 0,98.-—L. 0,52.)
+
+- 451.— CoupoN DE 6",5o environ,de satin rouge broche a grands ramages de branches feuries, tisse d'or et d'argent.
+
+Belle conservation.
+
+452.— OBJETS OMIS AU PRESENT CATALOGUE.
+
+<!-- image -->
+IMPRIME
+
+PAR
+
+## PHILIPPE RENOUARD
+
+19, rue des Saints-Peres, 19
+
+PARIS

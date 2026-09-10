@@ -1,0 +1,527 @@
+## CONDITIONSDE LA VENTE
+
+La vente sera faite au comptant.
+
+Les acquereurs paieront cinq pour cent en sus des adjudications.
+
+L'exposition mettant le public a meme de se rendre compte de l'etat et de la nature des objets, il ne sera admis aucune reclamation une fois l'adjudicationprononcee.
+
+Paris -Imp. de lArt,E.MoREau ET Ci,41,rue de la Victoire.
+<!-- image -->
+
+## DESIGNATION
+
+## BOUDIN
+
+(E.)
+
+## La Baie de Douarnene%.
+
+A droite,la greve et les rochers contournent la baie dont la rive occupe tout le fond de la composition. Au premier plan,la mer ou se dresse un ilot abrupt pres duquel plusieurs bateaux de peche navi- guent, toutes voiles dehors.
+
+Le ciel, éclaire par les lueurs du matin, est couvert de legers nuages. Signe a droite et date: 1897.
+
+Toile.Haut.,56 cent.;larg.,go cent.
+## 2
+
+## BOUDIN
+
+(E.)
+
+## Venise, vue prise de San Giorgio.
+
+Sur la riviere, une douzaine d'embarcations se dirigent vers le quai au bout duquel se trouve un large escalier de pierre.
+
+Deux gondoles vont decharger leurs passagers sur les marches ou s'est assis un promeneur.
+
+Au fond,les maisons de la ville detachent leur note chatoyante sur le ciel clair ou s'estompent quelques nuages.
+
+Signe et date: 1895.
+
+Toile.Haut.,51 cent.;larg.,73 cent.
+
+## BOUDIN
+
+(E.)
+
+## La Rade de Villefranche, effet de soir.
+
+A droite, adossees aux collines, les maisons de la ville, dont plusieurs sont abritees par de grands bouquets d'arbres.
+
+A gauche, trois cuirasses sont a l'ancre dans la rade que traverse une barque. Celle-ci est montee par deux hommes, dont l'un rame, tandis que l'autre tient le gouvernail.
+
+Ciel gris d'une exquise finesse. Signe a droite et date : 1893.
+
+Toile.Haut.,51 cent.; larg.,73 cent.
+## Trouville.
+
+Au bord de la mer, la digue s'etend vers la droite.
+
+Par les trois escaliers, au pied desquels plusieurs canots sont dissemines sur le sable, des promeneurs se dirigent vers la plage.
+
+Les voiliers que l'on apercoit vers la gauche s'approchent du port ou l'animation est grande. C'est jour de marche et les auvents, aux toiles multicolores, protegent les acheteurs contre les rayons du chaud soleil d'ete qui perce les nuages clairs dont le ciel est charge.
+
+Signe a droite et date:1886.
+
+Toile.Haut., 47 cent.; larg., 66 cent.
+
+## BOUDIN
+
+(E.)
+
+## Le Riuage d'Etretat.
+
+A droite, la masse imposante des hautes falaises. Chassees par le vent, les vagues bordees d'écume deferlent sur la plage.
+
+Des pecheurs ont etabli leurs cabestans et quelques bateaux de peche sont a l'ancre.Une embarcation, montee par deux hommes, va quitter le rivage.
+
+Au loin, un vapeur se dirige vers la droite.
+
+Signe a droite et date 18g1.
+
+Toile.Haut.,41 cent.;larg.,55 cent.
+
+## BOUDIN
+
+(E.)
+<!-- image -->
+
+Sur la berge de la riviere qui occupe le premicr plan, une grande maison blanche abritee par un bouquet d'arbres se detache en note claire sur le ciel gris, aux tons delicats,
+
+A gauche,bordant une ruelle,leglise et son clocher au toit couvert d'ardoise dominent les hangars d'une ferme dont les murs de cloture longent le bord de l'eau.
+
+Signe et date: 1891.
+
+## BOUDIN
+
+(E.)
+
+## 6 Etaples, soleil coucbant.
+
+Quelques bateaux de peche sont rentres au port et viennent s'echouer a l'embouchure de la Canche.
+
+Sur la riviere, un grand canot et plusieurs petites embarcations
+
+A gauche,les sables d'ou la mer s'est deja retiree; au loin, l'Ocean ou se couche le soleil dont les dernieres lueurs eclairent ce site plein semblent craindre le retrait du fot et se hatent de regagner les bords.
+
+de grandeur.
+
+Dans le ciel, quelques bandes de nuages.
+
+Signe a gauche et date: 1886.
+
+Toile.Haut.,41 cent.；larg.,55 cent.
+
+## BOUDIN
+
+(E.)
+
+Toile.Haut.,41 cent.,;larg.,55cent.
+## 8
+
+## C
+
+## BOUDIN
+
+(E.)
+
+## Le Port de Trouville.
+
+Un pecheur s'est installe dans un des nombreux canots que lo. apercoit a droite du premier plan, pres d'un bateau échoue dont la coque endommagee doit avoir subi bien des tempetes.
+
+Plus loin, lautre rive, ou s'échelonnent de grands hangars. Des navires a voile et a vapeur et des barques sillonnent en tous sens l'eau calme ou se reflete le ciel gris.
+
+Signe a droite et date: 1872.
+
+oile.Haut.,33 cent.;larg,47 cent.
+
+## BOUDIN
+
+(E.)
+
+## Fecamp, temps de pluiie.
+
+Au premier plan, le quai ou la pluie recente a laisse sur le sol quelques faques d'eau qui refletent les nuages encore charges d'averses.
+
+Degarnis de toute leur voilure,les mats des bateaux detachent leur silhouette sur le ciel gris.
+
+Dans l'encombrement du quai,plusieurs ouvriers du port rangent les barils de morues, abondante recolte des pecheurs d''Islande.
+
+A gauche, une femme se dirige vers la grande maison qui borde le quai.
+
+Signe a droite et date:1886.
+## 10
+
+## Trouville.
+
+C'est le moment de la maree haute,les bateaux de peche,alignes le long du quai, deploient leurs voiles et sappretent a quitter le port.
+
+Au fond,les boutiques au bord de l'eau,Plus loin,les maisons de la ville,adossees aux collines verdoyantes.
+
+Signe a droite et date : 1893.
+
+Toile.Haut.,66 cent.;larg.,47 cent.
+
+## BOUDIN
+
+(E.)
+
+## Laveuses; plage d'Etretat.
+
+Un groupe, compose d'une centaine de femmes, la plupart coiffées d'un bonnet blanc, s'occupent a laver le linge dont les paquets jonchent la plage.
+
+A gauche, la falaise et l'aiguille surplombent la mer sillonnee par plusieurs bateaux de peche.
+
+Au loin,un vapeur lance dans le ciel clair son leger panache de fumee.
+
+Signe a gauche et date : 1894.
+
+## BOUDIN
+
+(E.)
+
+Bois.Haut.,37 cent.；larg.,54 cent.
+## 13
+
+## BOUDIN
+
+(E.)
+
+## Le Bassin de Fecamp. 12
+
+Il occupe le premier plan et est borde a droite par le quaiou se profile la rangee de grands hangars pres desquels on decharge les navires qui amenent au port leurs cargaisons variees.
+
+A gauche,un canot monte par trois hommes traverse le bassin et se dirige vers le pont qui relie les deux parties de la ville.
+
+Au dela du pont, d’autres navires et bateaux a voile detachent leur mature sur le ciel.
+
+Signe a droite et date : 1894.
+
+Bois.Haut.,37 cent.;larg.,46 cent.
+
+## BOUDIN
+
+(E.)
+
+## Trouville, Maree baute.
+
+Sortant du port, un bateau a vapeur longe la jetee de droite et plu- sieurs groupes de promeneurs assistent a son depart.
+
+A gauche, pres de lautre jetee que termine un phare,un grand canot a voiles blanches se dirige vers le premier plan, ou un bateau dragueur est a lancre.
+
+Le temps est calme, et les tons gris de la mer se confondent harmonieusement avec le ciel voile d'une brume legere.
+
+Signe a droite et date : 1894.
+## BOUDIN
+
+(E.)
+
+## Les Bassins de Dunkerque. 14
+
+Un grand voilier est amarre au quai, pres d'une haute maison au toit de tuiles grises.
+
+Plus loin,un navire, a la mature incomplete,est en reparation sur un chantier pres du pont, a la gauche du tableau.
+
+Un trois-mats deploie ses voiles et sapprete a quitter le port.
+
+Signe a droite et date : 1891.
+
+Bois.Haut.,41 cent.;larg.,33 cent.
+
+## BOUDIN
+
+(E.)
+
+## 15 Trouville, Maree basse.
+
+La maree est basse, les jetées qui protegent le port abritent les bateaux de peche, presque tous echoues sur le sable.
+
+A gauche, pres des pilotis,un canot monte par un hcmme a blouse blanche.
+
+Au loin,le large ou quelques bateaux de peche sont a l'ancre,tandis que d'autres font voile vers le port.
+
+Signe a gauche et date 1894.
+
+Toile.Haut.,41 cent.;larg.,33 cent.
+## 17
+
+## BOUDIN
+
+(E.)
+
+## 16 Le Village de Toucques.
+
+Sur la rive droite du courant, quelques vaches viennent s'abreuver. Une paysanne, suivant le sentier étroit qui longe le bord de l'eau, chemine vers le village dont on apercoit au loin les maisons eparses dominees par le clocher. A gauche, quelques maisons sur les collines boisees qui s'etendent a perte de vue.
+
+Le ciel est charge de nuages gris et serres indiquant l'approche d'un orage.
+
+Signe a droite et date : 1869.
+
+Bois.Haut.,22 cent.;larg.,41 cent.
+
+## BOUDIN
+
+(E)
+
+## Le Passage du Lac de Plougastel en 1870.
+
+A gauche,occupant le premier plan,les sables ou un canot est ancré.
+
+Plus loin,quelques bateaux echoues et une embarcation quittant le rivage ou des ouvriers travaillent au radoubage d'une coque sans mature.Au fond,vers la pleine mer qui s'étend sur la droite,les navires de la fotte Barbey pendant la guerre de 187o.
+
+Ciel clair parseme de nuages.
+
+Signe a gauche et date : 1870.
+
+Bois.Haut., 22 cent., larg.,34 cent.
+## GUILLAUMIN
+
+(A.)
+
+## 18 Le Moulin de Crozan.
+
+A gauche,les eaux bouillonnantes et couvertes d'ecume se repandent sur les roches qui emergent du cours d'eau. A droite, un moulin abrite d'un bouquet d'arbres.
+
+Des collines s'etagent vers le fond ou quelques maisons dominent le paysage.
+
+Signe a gauche.
+
+Toile.Haut.,65 cent.;larg.,81 cent.
+
+## GUILLAUMIN
+
+(A.)
+
+## Le Soir au cap Long. 19
+
+Au premier plan,longeant le sentier que bordent quelques menues broussailles, se dresse un bouquet d'arbres aux cimes robustes, mais inclinees par lesvents du large.
+
+Vers la droite, la baie s'elargit au pied des monticules qui abritent la rive opposee.
+
+Signe a gauche.
+
+Toile.Haut.,6o cent.;larg.,73 cent.
+## 21
+
+## GUILLAUMIN
+
+(A.)
+
+## La Route du Dramont. 20 1
+
+Au bord de la mer, au pied d'un grand arbre, deux dames en costume de touriste se sont arretees et semblent faire signe au yacht qui s'approche de la cote.
+
+La haute voilure blanche du bateau se refete dans l'Ocean.
+
+Une route bordee de blocs de rocher et venant de la droite conduit a la plage. Dans le ciel, des nuages au tons roses annoncent le coucher du soleil.
+
+Signe a gauche.
+
+Toile.Haut.,65 cent.;larg.,81 cent.
+
+## GUILLAUMIN
+
+(A.)
+
+## La Villa Dormay.
+
+A gauche,les montagnes enserrent la baie, dont l'eau bleue occupe la droite dela composition.
+
+Au premier plan, un arbre aux branches tortueuses et dont le feuillage menu aiteste les nombreux assauts du mistral.
+
+Sur les terrains sablonneux se dessinent en larges stries les ombres projetees par les grandes branches de Parbre.
+
+Signe a droite.
+
+Toile.Haut.,65 cent.;larg,81 cent.
+## GUILLAUMIN
+
+(A).
+
+## 22 Le Matin sur la route.
+
+Au premier plan, le sable rocailleux parsemes de blocs de pierre, aux tons d'or bruni. De rares broussailles mettent une note de verdure dans ce sol ingrat.
+
+A gauche,au sommet d’une montagne, les tourelles en ruine d’un vieux chateau-fort.
+
+A droite,l'Ocean baigne le pied d’un bouquet d’arbres,isole sur le rivage.
+
+Stgne a gauche.
+
+Toile.Haut.,65 cent.;larg.,81 cent.
+
+## GUILLAUMIN
+
+(A.)
+
+## 23— -Le Matin a la pointe de Dramont.
+
+A droite, la masse de roches presque rouges sous le soleil ardent abrite un sentier conduisant vers la mer qui occupe la droite de la composition.
+
+Au bord de la route etroite, un grand arbre dresse sa silhouette vigoureuse et sa frondaison luxuriante cache presque toute la ligne de l'horizon.
+
+Signe a gauche.
+
+Toile.Haut., 65 cent.;larg.,81 cent.
+## 24
+
+## LEPINE
+
+(S.)
+
+## — Le Port de Cherbourg.
+
+Au premier plan,une embarcation montee par plusieurs hommes, va accoster un voilier se dirigeant vers le port. Plus loin, quelques navires sontamarres le long du quai, occupant presque toute la lar- geur de la composition.
+
+A droite,la mer ou les bateaux detachent sur le ciel bleu la silhouette deleur mature.
+
+Signe a gauche.
+
+Toile.Haut.,51 cent.;larg.,79 cent.
+
+## LEPINE
+
+(S.)
+
+## Bords de l'Oise.
+
+La droite de la riviere est longee par un sentier. Pres d'un canot abandonne,un passeur aide a embarquer une femme qui vient de quitter le sentier pour gagner l'autre rive, ou lon apercoit quelques maisons blanches abritees par de grands arbres.
+
+Au fond,un pont de pierre, vu en largeur, relie les deux bords de la riviere.
+
+Au premier plan, l'herbe verdoyante et, dans leau, quelques touffes de roseaux et de plantesau feuillage sombre.
+
+Signe a gauche.
+
+## 25
+
+Toile.Haut.,24 cent.;larg.,33 cent.
+## MONET
+
+(CLAUDE)
+
+## 26 — L'Eglise de Bennecourt.
+
+A droite, au fond de la ruelle bordee par les humbles maisons du village, 1'eglise dresse la feche de son modeste clocher,qui se detache sur le ciel charge de clairs nuages.
+
+A gauche, au premier plan, quelques arbres ont pousse dans un clos abandonne; ils egaient de leur note claire la gamme grise des murs.
+
+Signe a droite.
+
+Poissy. 27
+
+A droite, la berge de la Seine, ou s'est assis un pecheur a la ligne. Plus loin, quelques promeneurs se dirigent vers le village.
+
+Sur la riviere, ou sont amarres des chalands, un remorqueur traine un bateau.
+
+Signe a droite et date: 1871.
+
+Foile. Haut., 78 cent.; larg.,73 cent.
+
+## PISSARRO
+
+(C.)
+
+Toile.Haut.,43 cent.;larg,5g cent.
+## PISSARRO
+
+(C.)
+
+## 28 — Vue de Bazincourt.
+
+Au premier plan,les prairies bordees de saules et de peupliers sont couvertes de neige.
+
+Sur la colline, qui domine le fond du paysage, leglise et les mai- sons du village.
+
+Signe a droite et date 1884.
+
+Toile. Haut.,46 cent.; larg.,55 cent.
+
+## SISLEY
+
+(A.)
+
+## 29 Les Sablons en hiver;lapres-midi.
+
+Le soleil est a son declin et va disparaitre derriere la futaie. A tra- vers les branches degarnies, on apercoit quelques chaumieres.
+
+Au premier plan,a droite,un tas de fagots bordant un champ. Plus loin, une maison aux murs crepis,a toit de tuiles, pres de laquelle l'habitant a empile sa provision de bois.
+
+Signe a droite.
+
+Toile. Haut.,55 cent.; larg.,73 cent.
+## SISLEY
+
+(A.)
+
+## 30 ——Bords de riviere.
+
+A droite, isole sur la berge escarpee, un grand arbre surplombe la cime des peupliers qui bordent la riviere en contrebas de la colline qu'elle contourne.
+
+Au fond, le long de la rive, les maisons aux toits de tuiles rouges s'alignent au bord d'une route.Le vert tendre du feuillage et l'effet de lumiere indiquent bien la saison du renouveau.
+
+Signe a droite.
+
+Toile.Haut.,46 cent.;larg.,55 cent.
+
+## ZIEM
+
+(F.)
+
+## 31—Le Grand Canal, a Venise.
+
+A droite, sous le ciel azure, la note rosee du palais de Don Carlos qui occupe le bord de l'eau.
+
+Plus loin, un chantier de radoub ou des ouvriers ont allume du feu. Ils se preparent a reparer un bateau echoue dont la vetuste reclame leurs soins.
+
+Au premier plan, la riviere; une gondole y passe, se dirigeant vers le fond, ou les clochers eleves dominent les maisons de la ville.
+
+Signe a gauche.
+
+Bois.Haut.,58 cent.; larg.,85 cent.
+## ZIEM
+
+(F.)
+
+## 32 — Les Jardins de Venise.
+
+Au premier plan,une clairiere verdoyante longe un cours d'eau dont la rive opposee est abritee par de grands arbres aux cimes touffues. Une gondole transportant une vingtaine de passagers se dirige vers la droite et s'apprete a passer sous un pont de pierre.
+
+Plus loin, se profilant sur le ciel, la note blanche d'une construction en forme de pavillon.
+
+Signe a gauche
+
+33 ——Venise.
+
+Les constructions d'une eglise surmontee d'un dome, fanque de deux clochetons elances, se profilent vers la gauche, au bord de l'eau.
+
+Une grande gondole, appartenant sans doute a quelque famille patricienne, est amarree pres d'un palais. Plus loin,la rangee d'édifices se prolonge jusqu'a l'horizon éclaire des tons roses du soleil couchant.
+
+Au premier plan,une barque chargee de passagers vient de la droite, ou un bateau de peche a voiles rouges s'apprete a jeter l'ancre.
+
+Signe a droite.
+
+Bois.Haut.,54 cent.; larg, 8o cent.
+
+## ZIEM
+
+(F.)
+
+Toile. Haut., 55 cent.; larg.,76 cent.
+## 34——Venise.
+
+Un canot de peche, monte par plusieurs hommes, esta l'ancre dans la riviere et son equipage sapprete a retirer de leau les filets charges de poisson.
+
+Vers la droite, un bateau a voile jaune se dirige vers le port qui s'etend a gauche au dela de la riviere.
+
+A droite, le campanile de San Marco et les palais de la vieille cite. L'eau bleue refete les tons opalins du ciel argente de legers nuages clairs.
+
+Signe a droite.
+
+## ZIEM
+
+(F.)
+
+Bois.Haut.,47 cent.;larg.,56 cent.
+
+<!-- image -->

@@ -1,0 +1,871 @@
+<!-- image -->
+
+## Quadri Antichi.
+
+- 1.Scuola Toscana. Sec.XIV. Crocifisso, dipinto su croce di legno,au-
+- 2.Perugino (Pietro Vannucci detto il).1446-1521. Gesu Crocifisso; la
+- reola dorata in rilievo. Pezzo raro da Museo. Alt. cm. 80, larg. cm.50.
+- Maddalena prostrata a piede della Croce;a destra ed a sinistra Santi e Sante, delicate figure di dolcissimo aspetto; sfondo di paese, Dipinto su tavola di esecuzione finissima da miniaturista. Disegno puro, colorito leggiadro. Cornice a tabernacolo. Alt. cm. 19, larg. cm.26.
+
+Vedi tavola N.8.
+
+- 3.Pinturicchio Bernardino.1454-1513.San Gerolamo a piede della nalizio e tre libri: sfondo di paesaggio: gli alberi lumeggiati in oro. Dipinto su tavola. E' un piccolo capolavoro: Cornice a tabernacolo in noce
+- Croce: dietro di lui, sul terreno,il leone accovacciato,il cappello cardiscolpito.Alt.cm.44,larg.cm.30.
+
+Vedi tavola N.9.
+
+- 4.Lorenzo di Credi. Sec.XVI. La Vergine col Bambino, figure di angeli abbozzate nello sfondo. Bel disegno. Cornice legno scolpito e dorato.
+- 5.Raffaellino del Garbo.1466-1524. La Vergine col Bambino. Buon dipinto su tavola. Cornice antica a tabernacolo in legno policromo. Altezza cm.80,larg.cm.45.
+- 6.Montagna Bartolomeo. Sec.XV. Gesu Cristo fra due Angeli. Dipinto su tavola di sommo pregio:regolato disegno,fresco colorito.Cornice a
+- tabernacolo in legno seolpito e dorato. Alt. cm. 27, larg. cm.29.
+
+Vedi tavola N.7.
+
+- 7.Andrea del Sarto.Sec.XVI. Gesu Cristo legato alla colonna.Bel di-
+- segno alla sanguigna. Cornice legno scolpito e dorato.
+8. Bronzino (Alessandro Allori detto il). Sec.XVI. Testa di vecchio.
+- Forte disegno alla sanguigna. Cornice legno scolpito e dorato.
+- 9.Bronzino (Alessandro Allori detto il). Sec.XVI.Ritratto di giovinetto in piedi. Ottimo dipinto su tela,di colorito forte,ammirevole per la verita dell'espressione. Cornice legno scolpito e dorato. Alt. cm.120, larg. cm.70.
+10. Santi di Tito. Sec. XVI.Ritratto di gentiluomo. Buon dipinto su ta-
+- vola.Cornice legno dorato.Alt.cm.103,larg.cm.77.
+- 1l. Santi di Tito.Sec.XVI.Ritratto di gentiluomo. Buon dipinto su tavola.Cornice legno dorato. Alt.cm.103, larg.cm.77.
+12. Bevilacqua A. Sec.XVI.La Vergine col Bambino. Bel dipinto su tavola,Tabernacolo di legno dorato,ornato nella cimasa della testa del
+- Redentore,dipinta dallo stesso maestro. Alt. cm. 67,larg.cm.48.
+## Quadri Antichi.
+
+- 13.Parmigianino (Francesco Mazzola detto il). Sec. XVI. La Vergine col Bambino, S. Giuseppe e S. Catterina. Bel dipinto su tavola a vivaci
+- 14.Parmigianino (Francesco Mazzola detto il). Sec.XVI.La Vergine col Bambino. Dipinto sn tela di corretto disegno e buon colorito. Cornice legno nero scolpito. Alt.cm.29, larg.cm.23.
+- colori. Cornice legno scolpito e dorato. Alt. cm. 74, larg. cm. 58.
+15. Parmigianino (Francesco Mazzola detto il). Sec. XVI. La Vergine
+- col Bambino. Grisaille su tela. Cornice legno nero scolpito; passe-partout cireolare.Diametro cm.38.
+16. Correggio (Antonio Allegri detto il). Sec.XVI. Il Matrimonio mistico di S. Caterina. Bel dipinto su tela. Cornice legno dipinto e dorato.
+17. Correggio (Maniera del). Sec.XVI. ll Redentore. Tavola interessante. Ait.cm.70,larg.cm.40.
+- Alt.cm.130,larg.cm.96.
+18. Tintoretto (Jacopo Robusti detto il). Sec.XVI. Ritratto di gentiluomo veneziano. Dipinto su tela vigoroso e bello. Cornice legno scolpito e dorato.Alt.cm.66,larg.cm.54.
+
+Vedi tavola N.10.
+
+- 19.Morone Giov.Batt.1510-1578.Ritratto di gentiluomo. Dipinto su tela,eseguito con verita e disegno corretto. Cornice legno scolpito e dorato.Alt.cm.50,larg.cm.40.
+- Cornice legno scolpito e dorato. Alt.cm.132.larg.cm.90.
+20. Scuola Bergamasca. Sec.XVI.Maternita. Bellissimo dipinto su tela.
+21. Seuola Bergamasca. See. XVI. Donna che grattuggia il formaggio; Uomo con bambino. Dipinti su tela di buon colorito. Cornici legno scolpito e dorato.Alt.cm.87,larg.cm.66.
+- bino. Dipinto su tela di buona esecuzione. Cornice in noce scolpita. Altezza cm.39,larg.cm.29.
+
+Wacdoy
+
+22. Paolo Veronese (Paolo Caliari detto). Sec. XVI. Ritratto di bam-
+23. Paolo Veronese (Paolo Caliari detto). Sec.XVI. La Comunione di una Santa. Ottimo disegno lumeggiato in bianco. Cornice legno scolpito edorato.
+3. pergamena di squisita esecuzione.Cornice in ebano. Alt. cm. 53,larghezza cm.38.
+4. 24.Procaccino Giulio Cesare. 1548-1626. Scena storica. Miniatura su
+
+Woacn
+
+25. Dolci Carlo. Sec.XVII. Santa Caterina incoronata di fiori da un Angelo. Dipinto di bellezza meravigliosa, ammirevole per la soave, affascinante espressione delle figure. Il colore e fresco e ridente,il disegno corretto e spigliato. Cornice legno dorato.Alt.cm. 86, larg. cm.100.
+
+Vedi tavola N.14.
+
+26. Dolci Carlo. Sec. XVI. Olocausto di fiori: giovane donna in estasi che porge un fascio di fiori. Incantevole figura; vero capolavoro dell' insigne maestro. Tela firmata.Cornice scolpita e dorata. Alt. cm. 96,lar-
+2. ghezza cm.70.
+
+Vedi tavola N.15.
+
+- 27.Pannini (Maniera del). Sec. XVII. Architetture. Due dipinti su tela. Cornici legno dipinto. Alt.cm. 92,larg.cm.132.
+- 28.Luca Giordano. Sec.XVII. Europa rapita da Giove: sfondo di paesaggio. Bel dipinto su tela.Cornice legno scolpito e dorato. Alt. cm.69, larg.cm.53.
+## Quadri Antichi.
+
+29. Rosa Salvatore. Sec.XVII. Scena pastorale: sfondo di paese. Bellissimo dipinto su tavola di colorito vivace. Cornice legno scolpito e dorato. Alt.cm.64,larg.cm.52.
+30. Rosa Salvatore. Sec.XVI. Paesaggi con macchiette. Due buoni di-
+3. pinti su tela in cornici di legno scolpito e dorato. Alt.cm.14,larghezza cm.18.
+31. Rosa Salvatore. Sec.XVII. Paesaggi con macchiette. Due buoni dipinti su tela in cornici di legno scolpito e dorato.Alt.cm.14,lar-
+5. ghezza cm.18.
+32. Albani Francesco. Sec. XVIl. Venere, Marte e gruppi di Amorini.
+7. Ottimo dipinto su tela,in ricca cornice di legno scolpito e dorato.Altezza cm.90,larg.cm.62.
+33. Schedone Bartolomeo. Sec. XVII. La Vergine col Bambino. Buon dipinto su tela.Cornice legno dorato. Alt.cm. 74,larg. cm.59.
+34. Guido Reni. Sec.XVII. Un Angelo. Buon dipinto su tela, di colorito morbido e bello, corretto disegno, grazia e dolcezza di espressione. Cornice legno seolpito e dorato.Alt.cm.75,larg. cm. 63.
+35. Crivelli Angiolo Maria detto il Crivellone. Sec.XVII. Polli. Dipintosu tela eseguito con verita. Cornice in legno scolpito e dorato.
+11. 36.Crivelli Angiolo Maria detto il Crivellone. Sec. XVII. Polli. Dipinto su tela eseguito con verita. Cornice legno scolpito e dorato. Altezza cm.29,larg.cm.42.
+12. Alt. cm. 29, larg. cm.42.
+13. 37.Pannini Giovanni Paolo.1691-1764. Architettura con gruppo di persone: fra queste e il pittore. Bellissimo dipinto su tela. Cornice in legno scolpito e dorato. Alt.cm.44, larg.cm.37.
+38. Cristofano Allori. Sec. XVII. Paesaggio con figure. Dipinto su tela di corretto disegno eseguito con finezza. Cornice legno nero scolpito. Altezza cm.67,larg.cm.47.
+39. Baschenis Evaristo. Sec.XVIlI. Frutta. Bel dipinto su tela.Cornice
+16. legno scolpito e dorato.Alt.cm.60,larg. cm.68.
+17. 40.Ignoto. Sec.XVII. La Sacra Famiglia e due Sante. Dipinto ovale su tela.Alt.cm.30,larg.cm.40.
+41. Bellotto Bernardo detto il Canaletto. Sec.XVIII. Paesaggi. Due disegni a penna molto belli, in passe-par-tout e cornici a mogano.
+42. Guardi Francesco. Sec.XVIIl. Paesaggio con gruppi di figure. Dipinto su tela di sommo interesse; molto belle le macchiette. Cornice in legno dorato.Alt.cm.23,larg. cm.34.
+20. Vedi tavola N.18.
+43. Guardi Francesco. Sec. XVIII. Paesaggio con rovine e gruppi di
+22. macchiette.Pendant al precedente.
+
+Vedi tacola N.18.
+
+44. Guardi (Maniera di). Sec.XVII. Veduta di Venezia. Dipinto su tela molto interessante e bello.Cornice legno scolpito e dorato. Alt. cm. 30,
+2. larg.cm.40.
+3. 45.Guardi Giacomo. Sec. XVIII. Paesaggio con sfondo di marina e fgure diverse. Grazioso dipinto su metallo. Cornice noce. Alt. cm.16, larg. cm.19.
+46. Zuccarelli Francesco. Sec. XVIlI. Paesaggio. Squisito dipinto su tavola. Cornice legno scolpito e dorato. Alt. cm.28, larg. cm.23.
+## Quadri Antichi.
+
+- 47.Zuccarelli Francesco. Sec.XVIII. Paesaggio. Bel dipinto su tela. Cornice legno dorato. Alt.cm. 2l,larg. cm.30.
+- larg. em.72.
+- 48.Zuccarelli Francesco. Sec.XVIII. Pescatore e contadini: sfondo di paesaggio. Dipinto su tela molto bello. Cornice legno dorato. Alt. cm. 58,
+49. Zuccarelli Francesco. Sec.XVIlI. Paese con figure. Dipinto su tela toccato da maestro.Cornice legno seolpito e dorato. Alt. cm.5l,lar-
+50. Zuccarelli Francesco. Sec. XVIll. Paesaggio con due amorini. Grazioso dipinto su tela,disegno spigliato. Cornice legno scolpito e dorato. Alt. em.70, larg. cm.100.
+- ghezza cm. 1l2.
+51. Zuccarelli Francesco (Maniera di). Sec.XVIlI. Paesaggio. Bellis-
+- 52.1 Ricci Sebastiano. Sec.XVIlI. Otello e Desdemona all'isola di Cipro. Dipinto su tela di bella composizione,eseguito con vigore,vivace di colorito, corretto di disegno. Cornice legno seolpito e dorato. Alt. cm.117, larg.cm.86.
+- simo dipinto.Cornice legno scolpito e dorato. Alt. cm.36,larg.cm.29.
+53. Tiepolo G.Batt. Sec. XVIII. Gruppo di cavalli e cavallieri; frammento di battaglia.Disegno. Cornice legno seolpito e dorato.
+- e bello.Cornice legno scolpito e dorato.
+54. Brusaferro Girolamo. Sec.XVIlI. Scena Sacra. Disegno interessante
+- 55.Longhi Pietro. Sec.XVIlI. Ritratto di donna. Tela ovale di sommo pregio. Cornice legno scolpito e dorato. Alt. cm. 90, larg. cm. 69.
+57. Scuola Francese. Sec.XVI. Ritratto di gentiluomo. Finissimo piccolo dipinto su rame. Cornice legno nero scolpito.
+- 56.Appiani Andrea. Sec.XVIIl. Allegoria, disegno lumeggiato in bianco. Un Angelo porge in un vassoio le chiavi del trono offerte, in ginocchio, da una donna incoronata (l'Italia?) ad un giovine Principe:in basso due putti reggono lo stemma. Cornice legno scolpito e dorato.
+58. Scuola Francese. Sec.XVIII. Scena mitologica. Bel disegno a
+59. Scuola Francese. Sec.XVIlI. Giovani donne a mezzo busto. Due pastelli di buona esecuzione. Cornici di legno scolpito e dorato. Altezza cm. 94, larg. cm. 70.
+- acquarellato. Cornice legno seolpito e dorato.
+- 60.Poussin Gaspare. Sec.XVIl. Paesaggio con figure. Dipinto su tela, bellissimo. Cornice in legno seolpito e dorato.Alt.cm.100,larg.cm.140.
+- 60 bis. Poussin Gaspare. Sec.XVIl. Pescatori che tirano una barca alla riva. Bellissimo sfondo di paesaggio. Ottimo dipinto su tela. Cornice legno scolpito e dorato.
+- Vedi tavola N.19.
+
+Vedi tavola N. 19.
+
+61. Poussin Gaspare. Sec. XVII. Paesaggio con figure. Bel dipinto su tela. Cornice legno seolpito e dorato. Alt. cm. E7,larg. cm.70.
+2. tela. Cornice legno scolpito e dorato. Pendant al precedente.
+3. 62.Poussin Gaspare. Sec.XVII. Paesaggio con figure. Bel dipinto su
+63. Callot Jacopo. Sec.XVII. Piazza di un villaggio in un giorno di fiera: nel centro un 《Indovino》 dice ai contadini la buona novelia. Bellissimo dipinto,eseguito con sicurezza di tocco e buon colorito. Ottima la distribuzione delle figure. Cornice legno. Alt. cm. 60, larg. cm. 72.
+## Quadri Antichi.
+
+64. Callot Jacopo. Sec. XVIl. Piazza di un villaggio in un giorno di fiera: nel centro, domina la folla un incantatore di serpenti. Bellissimo di-
+2. pinto,pendant al precedente.
+65. Ravenet F. Sec. XVIlI. Un satiro. Bel disegno alla sanguigna. Cornice
+4. 66.Peronneau Jean B.1755-1783. Trionfo di un artista. La Seultura e
+5. legno scolpito e dorato.
+6. la Pittura presentano il ritratto di un Artista in un medaglione sorretto da due amorini: sfondo di drappeggio e paese. Dipinto su tela di non comune bellezza. Cornice in legno scolpito e dorato. Alt. cm, 64, larghezza cm.54.
+
+Vedi tavola N.17.
+
+- 67.Drouais Fr.Hubert. Sec. XVIlI. Ritratto di gentildonna in elegante costume. Dipinto di ottima fattura. Cornice legno seolpito e dorato.Altezza cm.75,larg.cm.63.
+
+Vedi tavola N. 12.
+
+- 68.Nattier Jean Marc.1685-1766.Ritratto di gentiluomo in parrucca bianca. Bel dipinto su tela:ben drappeggiato l'abito, viva e vera lespressione del viso.Cornice legno scolpito e dorato.Alt.cm.74, larg.cm.58. Vedi tavola N.11.
+69. Rigaud Giacinto. Sec.XVIlI. Ritratto di gentiluomo in parrucca. Dipinto di insuperabile bellezza,ammirevole per la verita dellespressione, la pennellata larga e sicura, Cornice in legno scolpito e dorato. Altezza cm. 90, larg. cm.70.
+
+<!-- image -->
+
+Vedasi la riproduzione sulla copertina del Catalogo.
+
+71. Boucher Francois. Sec.XVIll. Studio di amorini. Dipinto su tela di sommo interesse. Cornice legno scolpito e dorato. Alt.cm.44,larg.cm.38. Vedi tavola N.16.
+70. Watteau Antoine. 1684-1721. Due studi a penna sopra un solo foglio: Schizzo per una Santa Maddalena (?) Sehizzo per la figura a mezzo busto di un giovane cavaliere. Cornice legno scolpito e dorato.
+72. Boucher Francois. Sec.XVIII. Venere e amore. Bel dipinto su tela. Cornice legno dorato. Alt.cm.36, larg.em.48.
+4. alla sanguigna eseguito con spigliatezza e grazia ammirevoli. Cornice legno scolpito e dorato.
+73. Boucher Francois. Sec. XVIll. Tre amorini reggono uno seudo. Studio
+6. 74.Fragonard Jean Honore. 1732-1806. Scena mitologica. Disegno acquarellato, spigliatissimo, di gusto squisito; lumeggiato in bianco. Cornice legno scolpito e dorato.
+75. Fragonard Jean Honore. 1732-1806.Una baccante, un satiro e due bambini: sfondo di paese. Disegno acquarellato di rara bellezza. Corniee legno scolpito e dorato.
+8. 76.Fragonard Jean Honore.1732-1806.Dopo il bagno. Bellissimo
+9. 77.Chardin Giov. Batt. Simeone. Sec.XVIll.Lamor materno.Dipinto
+10. aequarello. Cornice legno scolpito e dorato.
+11. su tela di colorito fresco e ridente,ammirevole per la verita e la grazia delle figure. Cornice legno nero seolpito. Alt. cm.28, larg. cm.36.
+78. Chardin Jean Baptiste Fr.1699-1779. La Vergine col Bambino e un Angelo. Disegno. Cornice legno scolpito e dorato.
+## Quadri Antichi.
+
+- 79.David Jacques Louis.1748-1825. 1l Matrimonio mistico di S.Caterina. Disegno di squisita fattura.Cornice legno scolpito e dorato.
+- 80.Prud'hon Pierre.1758-1823. La costruzione della torre di Babele. Bellissimo disegno. Cornice legno nero scolpito.
+- germente acquarellato alla seppia. Cornice legno nero scolpito.
+81. Gerard (Francois P. S.).1770-1837. Scena greca. Bel disegno leg-
+82. Greuse Jean Baptiste.1725-1805. Amorini. Disegno a bianco e nero,
+- graziosissimo. Cornice legno nero scolpito.
+83. Greuse Jean Baptiste.1725-1805.Venere e tre amorini. Bel disegno alla sanguigna. Cornice in legno scolpito e dorato.
+84. Greuze Jean Baptiste. 1725-1805. Gruppo di amorini. Graziosissimo acquarello. Cornice in legno scolpito e dorato.
+85. Robert Hubert. Sec.XVIlI.Paesaggi. Due acquarelli a colori di straor-
+86. Robert Leopold Louis.1794-1835. Paesaggi con figurine. Due buoni
+- dinaria bellezza. In passe-par-tout e cornice a mogano.
+- aequarelli a colori. In passe-par-tout e cornice a mogano.
+87. Robert Leopold Louis. 1794-1835. Paesaggi. Due bellissimi acquarelli a colori. In passe-par-tout e cornici a mogano.
+88. Robert Leopold Luis. 1794-1835. Paesaggi. Due buoni acquarelli. In passe-par-tout e cornici a mogano.
+89. Delacroix Ferdinand Victor Eugene. 1798-1863.La Sacra Fa-
+- miglia.Interessante disegno aequarellato. Cornice legno seolpito e dorato.
+90. Memling Hans. Sec.XV.La Vergine col Bambino. Piccolo dipinto su
+- tavola a fondo oro; gioiello di pittura fiamminga. Alt. cm. 20,larghezza cm.14.
+- 91.Van 0rley (Bernardo). 1490-1560. La Vergine col Bambino. Dipinto su tavoletta di rovere d'Olanda,eseguito con squisita finezza.Cornice a tabernacolo in legno scolpito e dorato. Alt.cm. 42, larg. cm.31. Vedi tavola N. 13.
+92. Snyders Franz. 1579-1657. Volpi, gallinacei e uccelli. Due bellissimi
+93. Du Jardin Karl. Sec. XVII. Paesaggi. Due bellissimi acquarelli co-
+- acquarelli. Cornici di legno scolpito e dorato.
+- lorati.In passe-par-tout e cornice a mogano.
+94. Hondecoeter Melchiorre.Sec.XVII. Gallinacei Bellissimo dipinto su rame. Cornice legno nero scolpito.Alt. cm.20,larg.cm.30.
+95. Jordaens Giovanni. Sec.XVII. L'Officina di Vulcano. Schizzo vigo-
+- roso e bello. su tela. Cornice in legno scolpito e dorato. Alt. cm. 58, larg.cm.43.
+- 96.Claudio di Lorena. Sec.XVIII. Paesaggi. Due buoni acquarelli in
+- passe-par-tout e cornice a mogano.
+97. Hobbema (Maniera di). Sec.XVII. Paessagio.Dipinto su tavola. Cornice 1egno dorato.Alt.cm.42,larg.cm, 51.
+98. Ruisdael (Maniera di). Sec.XVII. Paesaggio con molino a vento. Di-
+- pinto su tela. Cornice legno nero. Alt. em.3i,larg. cm.53.
+99. Gherardo delle Notti. Sec.XVII. Una apparizione. Buon dipinto su tela con effetto di luce. Cornice legno nero. Alt. cm.78,larg. cm. 62.
+100. Van Dyk (Scuola di. Sec. xVII. Ritratto di un magistrato. Dipinto
+- su tela eseguito con vigoria di pennello. Cornice legno scolpito e dorato. Alt.cm.75,larg.cm.59.
+## Quadri Antichi.
+
+101. Seuola Fiamminga. Sec.XVIll. Fiori e pappagalli. Dipinto su tela di corretto disegno,a vivaci colori,eseguito con finezza. Cornice in legno
+2. scolpito e dorato. Alt.cm.60, larg.cm.46.
+102. Scuola Fiamminga. Sec.XVIII. Paese con figure.Dipinto su tela,a tempera di bellezza non comune. Cornice legno scolpito e dorato. Altezza cm,33,larg.cm.50.
+102. Scuola Fiamminga. Sec.XVIII. Paese con figure. Bellissimo dipinto
+104. Scuola Fiamminga. See. XVII. Il mercato al porto. Bellissimo dipinto con innumerevoli figure. Sfondo di marina con navi, ecc. Cornice legno scolpito.dipinto e dorato.Alt.cm.42, larg.cm.59.
+6. a tempera su tela,pendant al precedente. Cornice legno scolpito e dorato.
+105. Scuola Fiamminga. Sec.XIX. Paesaggio. Dipinto su tela.Cornice nera.Alt.cm.29,larg.cm.37.
+106. Verboeckhoven Eugenio Giuseppe. Sec.XIx.Pastore e gruppo di animali: sfondo di paese.Dipinto su tela di bel colorito, disegno corretto, eseguito con finezza. Cornice legno scolpito e dorato. Alt. cm. 40,larghezza cm.60.
+107. Murillo B. S. Sec.XVIII. Il piccolo mendicante.Squisito dipinto su
+108. Murillo (Maniera del).Sec. XVIII. La madre del mendicante. Schizzo
+11. tela.Cornice legno scolpito e dorato.Alt. cm.94, larg. cm.75.
+12. acquarellato. Cornice legno scolpito e dorato.
+109. Velasquez (Don Diego Rodrigues de Silva y). Sec.XVII. Ritratto dell'Infante Margarita Maria. Sehizzo su tela pel quadro esistente al Louvre. Cornice legno seolpito e dorato. Alt.cm. 35,larg. cm.26.
+110. Johann-Barthold Jongkind.Sec.XIx. Paesaggio con pastore e pecore.Impressione dal vero.Dipinto su tela di sommo interesse. Ricca cornice antica di legno scolpito e dorato.Alt. cm.34, larg. cm.47.
+15. Vedi tavola N. 20.
+16. 1ll1. Johann-Barthold Jongkind. Sec.XIx. Marina. Dipinto su tela di verita sorprendente. Cornice francese a pastiglia. Ait. cm.34,larg.cm.47.
+17. Vedi tavola N. 20.
+112. Justum Henry. 1816-1869.Paesaggio inglese, con veduta di vecchia torre e diverse macchiette. Bello e finissimo dipinto. Ricca cornice in legno nero scolpito.Alt.cm.33,larg. cm.26.
+113. Seuola Inglese. Sec.XIX. Post-Office. Interessante dipinto su tela.
+20. Studio di macchiette in un villaggio, allarrivo del corriere: eseguito con brio. Cornice legno dorato. Alt. cm.38, larg. cm.58.
+114. Bonington Richard Parkes. 1801-1828. Marina. Dipinto su tela. Studio eseguito dall'insigne maestro inglese durante il suo soggiorno in
+115. Bonington Richard Parkes.1801-1828. Marina. Pendant al predente.
+23. Italia nel 1822. Cornice legno scolpito e dorato.Alt.cm.25, larg. cm.38.
+116. Fielding Anthony Vandykc Copley. Paese con gruppo di figure. Dipinto allacquerello di bellezza non comune;le figure sono eseguite con la spigliatezza di toceo caratteristica dell'illustre pittore. Cornice legno dorato.Alt.cm.56,larg.cm.106.
+25. pinto su tavola. Cornice legno dorato. Alt. cm. 22, larg. cm.28.
+117. Gallety F. Sec.XIX.Amore innocente: sfondo di paesaggio. Bel di-
+
+<!-- image -->
+## Quadri Antichi.
+
+118. Seuola Inglese. Sec. XIX. Paesaggio con figure. Bellissimo dipinto su tela. Cornice legno dorato. Alt.cm. 89,larg. cm. 117.
+119. Seuola Inglese. Sec. XIX. Ritratto di donna: interessante dipinto. Cornice con passe-par-tout ovale in legno scolpito e dorato. Alt. cm. 55, larg.cm.46.
+
+## Quadri Moderni.
+
+120. Pellegrini Riccardo. Interno d'una fortezza. Dipinto su tavola, firmato.Cornice legno dorato. Alt.cm.30, larg.cm.10.
+2. Cornice legno dorato.Alt. cm.50,larg. cm.75.
+3. 12l. Galli Riccardo. Sec.XIx. Autunno. Bel dipinto su tela,firmato.
+122. Sala E. Busto di donna. Forte dipinto su tela nella maniera del Tallone.Firmato.Cornice legno dorato. Alt.cm.53, larg. cm. 40.
+5. dorato.Alt.cm.75,larg.em.38.
+123. Barbieri.Il pittore. Buon dipinto su tela firmato 《B.》. Cornice legno
+124. Fasanotti G. Sec. XIx. Paesaggio. Bellissimo acquarello, firmato. Cornice legno dorato.Alt. cm.54,larg.cm.40.
+8. 126.Favretto. A Venezia. Mercato dei fiori. Bellissimo dipinto su tela. Cornice legno dorato. Alt.cm.50,larg.cm.75.
+125. Zambelli C.Marina. Dipinto firmato.Alt.cm. 32, larg. cm.57.
+127. Caprile V.Sec.XIx. Sulla via. Figura di giovine donna: dalla porta di casa un uomo, inosservato, la guarda e sorride. Dipinto su tela, firmato. Cornice legno scolpito e dorato. Alt. cm. 78, larg. cm. 52.
+11. mato.Cornice legno dorato.Alt. cm.57,larg. cm.76.
+128. Bignami Vespasiano. Studi di figure.Trittico,dipinto su tela,fir-
+129. Fontana G.Busto di giovine donna b brianzola. Dipinto su tavola firmato 《G. F.》. Cornice legno dorato. Alt.cm.20,larg. cm. 12.
+14. Cornice legno dorato. Alt.cm.22, larg. cm.18.
+130. Fontana E.Sec.XIx.La ballerina. Grazioso dipinto su tela, firmato.
+16. 13l.Formis Achille. Sec.XIx.Porto d'Anzio: paesaggio di montagna. Buon dipinto su tela, con la data: Porto d'Anzio, 1869. Cornice legno dorato.Alt.cm.30,larg.cm.42.
+17. legno dorato.Alt.cm.29, larg.cm.42.
+132. Pointeau Stanislao.Sec.XIx.Marina. Buon dipinto su tela.Cornice
+133. Cinotti Guido. Tramonto. Dipinto su tavola.Schizzo del quadro pre-
+134. Bazzaro L.Tramonto. Bellissimo dipinto su tela, firmato.Cornice legno
+21. miato a Brera nel 1903. Cornice legno dorato. Alt. cm.30, larg. cm.42.
+22. dorato. Alt.cm. 60, larg.cm.90.
+23. dorato. Alt. cm.60,larg. cm.40.
+135. Bazzaro L.Paesaggio. Ottimo dipinto su tela, firmato.Cornice legno
+136. Gignoux Eugenio. Sec.XIx.Paesaggio.Dipinto su tavola, firmato. Cornice legno scolpito e dorato. Alt. cm. 18,larg. cm.1l.
+138. Cremona T.(Maniera). Figura di giovine donna. acquarello. Cornice legno dorato. Alt.cm.37, larg.cm.23.
+137. Gignoux Eugenio. Sec.XIx. Paesaggio. Bel dipinto su tela, firmato.Ccrnice legno dorato. Alt.cm.75,larg.cm.58.
+<!-- image -->
+
+## Quadri Moderni.
+
+139. Ademollo. Sec. XIx. Campagna romana, con gruppi di persone e animali. Dipinto su tela, firmato e con la data 1862. Cornice legno dorato.Alt.cm.57,larg.cm.70.
+141. Sartori A. Sec. XIX. Paesaggi. Due bellissimi acquarelli a seppia, uno dei quali firmato. In passe-par-tout e cornice a mogano.
+140. Gioja Belisario. Sec.XIx. Le stiratrici; scena d'interno. Sehizzo di una delle tele piu belle dell'illustre pittore romano. Cornice legno nero scolpito. Alt.cm.42,larg.cm 50.
+142. Sartori A. Sec.XIX. Paesaggi. Due bellissimi acquarelli, uno dei quali firmato. In passe-par-tout e cornice a mogano.
+5. ecornice a mogano.
+143. Serra I. Sec. XIx. Paesaggi. Due buoni acquarelli in passe-par-tout
+144. Vinea Francesco. Sec. XIx. Abbraccio.Bellissimo dipinto su tavola. Cornice legno dorato. Alt.cm.35. larg. cm.24.
+8. dipinto su tela. Cornice legno scolpito e dorato.Alt. cm.40, larg. cm.30.
+145. Ignoto. Sec.XIx.Figura di giovane donna a mezzo busto. Bellissimo
+10. 147.Haanen (R. Van). Sec. XIX. Paesaggio Bellissimo dipinto su tela. Cornice legno dorato. Alt. cm.34,larg. cm.39.
+11. Cornice legno dorato.Alt.cm.36, larg. cm. 47.
+148. Haanen (R. Van). Sec. XIX. Paesaggio. Bellissimo dipinto su tela.
+13. 149.Millet Jean Francois. 1814-1875. Ritorno col fascio della l legna. Sehizzo su tela di esecuzione mirabile,non tradotto mai in quadro compiuto. E' pittura caratteristica, che ricorda il notissimo quadro delle 《Mietitrici 》. Cornice legno nero scolpito. Alt. cm. 39, larg. cm.49.
+151. Scuola Francese. Sec. XIx. In giardino. Dipinto su tavola. Cornice legno nero scolpito. Alt. cm.27,larg. cm. 17.
+150. Courbet Gustavo.1819-1877. Dopo il bagno: figura di donna nuda, seduta, pensosa: sfondo di paese. Questo dipinto e poco piu di uno schizzo e pure larmonia dell'insieme da una impressione esatta, viva, come se noi avessimo sott'occhio la stessa natura. Cornice legno nero scolpito. Alt. cm. 47, larg. cm. 36.
+152. Minozzi I. Marina. Grazioso acquarello, firmato. In passe-par-tout.
+17. In passe-par-tout.
+153. Minozzi I. Contadina con una capra. Bellissima sanguigna, firmata.
+19. 154.Decamps A.Gabriel. 1803-1860.Cani e selvaggina.Dipinto bellislissimo, di colorito intenso e vivo; ogni dettaglio e curato con finezza ma eseguito con vigoria di pennello. Cornice in legno scolpito e dorato. Alt.cm.85,larg.cm.117.
+156. Ignoto. Sec. XIx. Un santo in orazione. Forte dipinto su tela. Cor-
+21. 155.Filippini F. Sec.XIX.Amore materno. Bellissimo dipinto,una delle migliori tele dell'insigne pittore. Firmata. Cornice legno scolpito e dorato.Alt.cm.115.larg.cm.71.
+22. nice legno scolpito e dorato. Alt.cm. 42,larg.cm·35.
+158. Ussi Stefano. Sec. XIx. Bosco al chiaro di luna: gruppo di figure,
+24. 157.Ussi Stefano. Sec.XIX. Gesu Cristo benedice un gruppo di Apostoli. Sehizzo di buona esecuzione. Cornice legno dorato. Alt cm. 35, larghezza cm. 27.
+25. scena fantastica con effetti di luce. Bel dipinto su tela. Cornice legno seolpito e dorato.Alt.em.95,larg. cm.135.
+## Quadri Moderni.
+
+159. Ussi Stefano. Sec.XIx. Figura di donna a mezzo busto. Dipinto su tela. Cornice legno dorato. Alt.em. 28, larg. cm. 21.
+160. Mose Bianchi. Sec.XIX,Nevicata. Dipinto su tavola firmato M. B. Cornice legno dorato. Alt.cm. 12, larg.cm.2l.
+3. 16l. Mose Bianchi. Sec. XIx. La pesca. Schizzo su tela eseguito con vigore. Cornice legno dorato. Alt.cm.5l, larg. cm. 70.
+162. Boldini Giovanni. Ragazza pensosa.Dipinto su tela,firmato.Cornice legno dorato. Alt.cm.25,larg. cm.12.
+163. Sernesi Raffaello. Sec. XIX. San Marco. Sehizzo su tela. Cornice legno dorato.Alt.cm.15, larg cm.40.
+164. Sernesi Raffaello.Sec.XIX.Armigero.I Dipinto su tela. Cornice legno dorato.Alt. cm.15,larg. cm.20.
+165. Focardi Pietro. Al lavatoio. Dipinto su tela, firmato.Cornice legno dorato. Alt. cm. 19, larg. cm.26.
+8. 166.Lega Silvestro. Sec.XIx. Paesaggio. Dipinto su tela, firmato. Cornice legno dorato. Alt. cm.15,larg. cm.25.
+167. Cannicci Niccolo. Sec.XIX. Pecore e pastore. Bel dipinto su tela, firmato. Cornice legno dorato. Alt. cm. 53, larg. cm. 30.
+168. Palizzi Filippo. Sec. XIx. Palude: sfondo di prateria con animali al pascolo. Schizzo.Buon dipinto su tela. Cornice legno scolpito e dorato. Alt.cm.30,larg.cm.40.
+11. 169.Banti Cristiano.Il Carroccio. Dipinto su tela. Cornice legno dorato. Alt.cm.56,larg.cm.105.
+170. Bistolfi. Paesaggio. Dipinto su tavola,con dedica e firma di pugno dell'artista.Cornice legno dorato.
+171. Menrico G. A.Sec.XIx.Paesaggio alpino, con animali. Bel dipinto
+14. su tela,firmato.Cornice legno dorato.Alt,cm.4l, larg.cm.64.
+172. Bosio Giovanni. Paesaggio triste. Dipinto su tela di non comune bellezza.Cornice in legno seolpito e dorato.Alt.cm.93, larg. cm,120.
+173. Dupre Jules. Sec. XIx. Paesaggio. Bel dipinto su tela. Cornice in legno dorato.Alt.cm.29,larg.cm.45.
+174. Morelli Domenico. Sec. XIx. Busto di donna, nudo. Studio su tela, firmato. Dipinto su tela circolare. Cornice legno nero.Diam. cm.18.
+175. Morelli Domenico.Sec.XIx. Ritratto di donna. Forte schizzo su tela. Cornice legno scolpito e dorato. Alt.cm.58,larg.cm.46.
+176. Morelli Domenico. Sec.XIx. Ritratto di giovinetto a mezzo busto. Bella figura di bimbo egregiamente dipinta. Cornice legno nero scolpito. Alt. cm.35, larg. cm. 29.
+177. Morelli Domenico. Sec.XIx. Muzio Seevola. Schizzo su tela. Cornice legno dorato. Alt.cm.2l,larg. cm.34.
+178. Morelli Domenico. Sec. XIx. All'ombra del roseto.Figura di giovane donna.Studio su tela,firmato.Cornice legno dorato. Alt. cm.3O,lar-
+22. ghezza cm.20.
+179. De Michis.Sec. XIx.Il giovine lettore. Dipinto su tela. Sehizzo vigoroso e bello. Cornice in legno scolpito e dorato, Alt.cm. 30, lar-
+24. ghezza cm.57.
+180. Corot.Paesaggio. Bellissimo d dipinto su tela. Cornice in legno dorato. Alt. em. 62, larg. cm.115.
+## Quadri Moderni.
+
+181. Meneghelli E. Al Marocco. Bel paesaggio con rovine. Dipinto su tela, firmato.Cornice di legno nero. Alt.cm.31,larg. cm.47.
+182. Fattori Giovanni. Sec. XIX. Studio di un cavallo. Schizzo su tavola, firmato.Cornice legno nero scolpito. Alt. cm. 2l, larg cm.19.
+3. Cornice legno dorato. Alt. cm. 14, larg. em.32.
+4. 183.Fattori Giovanni Sec.XIx. Paesaggio. Dipinto su tela, firmato.
+5. 184.Fattori Giovanni. Sec.XIx. Marina. Bel dipinto su tela. Cornice legno nero scolpito. Alt. cm.23, larg. cm.38.
+185. Fattori Giovanni (Maniera di). Sec.XIx. Un asino legato al carretto vicino al quale e seduta una contadina: sfondo di paese. Cornice legno dorato. Alt.cm.30, larg.cm.40.
+186. Costa Nino. Campagna romana.Dipinto su tela, firmato.Cornice legno dorato.Alt.cm.30,larg.cm.75.
+188. Previati Gaetano. Anime decadute. Bel disegno a carbone, firmato.
+9. 187.Previati Gaetano.Lecco. Acquarello firmato.In passe-par-tout.
+10. In passe-par-tout.
+190. Previati Gaetano. La Vergine col Bambino. Disegno acquarellato,
+189. Previati Gaetano. Maternita. Disegno firmato. In passe-par-tout.
+13. firmato. In passe-par-tout.
+14. par-tout.
+191. Previati Gaetano. La Madonna dei gigli. Disegno, firmato.In passe-
+192. Previati Gaetano. Anima che sfugge al diavolo, (da Poe). Disegno firmato.Cornice legno scolpito e dorato.
+17. Disegno firmato. Cornice legno scolpito e dorato.
+195. Segantini G. Sec. XIx.Nevicata.Buon dipinto su tela, firmato. Cornice legno dorato. Alt. cm.43, larg. cm.5.
+19. 194.Previati Gaetano. Crocifisso. Dipinto su tela di sommo preglo,firmato.Cornice legno dorato. Alt.cm.90,larg.cm.50.
+196. Bo G. Sec. XIx. Marina. Dipinto su tela. Cornice in legno dorato. Alt. cm.55, larg. cm.87.
+21. legno dorato.Alt.cm.19,larg.cm.15.
+197. Scatola. Sec.XIX.Interno di chiesa.Ottimo dipinto su tela. Cornice
+198. Scatola. Sec.XIx. Interno di chiesa. Dipinto su tela. Cornice legno dorato.Alt.cm.15,larg.cm.20.
+200. Rietti A.Disegno a penna, firmato.In passe-par-tout.
+199. Fernbach E. Sec.XIx. Ritratto virile.Dipinto su tela, firmato. Cornice legno dorato.Alt.cm. 66, larg. cm.50.
+201. De Nittis Giuseppe. Studio di carrozze nel ritorno dalle corse di Au-
+27. 202.De Nittis Giuseppe. Studio di carrozze nel ritorno dalle corse di Auteuil. Sehizzo su tavola, firmato. Cornice legno nero.
+28. teuil. Sehizzo su tavola,firmato.Cornice legno nero.
+203. Faruffini (Maniera del). Sec. XIx. Madre e figlia. Dipinto su tela. Cornice legno dorato. Alt.cm·23,larg. em.18.
+30. firmato.Cornice legno dorato.Alt. cm.35,larg. cm.28.
+204. Barbaglia Giuseppe. Busto di giovane donna. Dipinto ovale su tela,
+## Miniature.
+
+205. Ritratto di giovane e bella dama in costume Luigi XV. Graziosa mi-
+206. Ritratto di bella e giovane dama. Bella miniatura su avorio firmata E. Souka.Montata su seatola di tartaruga.
+3. niatura su avorio firmata S. Faure,in cornice di legno scolpito e dorato.
+207. San Giovannino: La Vergine col Bambino. Due miniature ovali su avorio, cerchio di bronzo dorato.
+5. seatola di tartaruga.
+208. Ritratto di dama inglese in elegante costume Luigi XV:Montata su
+209. Ritratto di Gaetana Agnesi,insigne matematica milanese.Bella miniatura
+210. Scena fiamminga. Gruppi di persone a tavola.Interessante miniatura;
+9. ovale su avorio; cerchio bronzo. Sec.XVIII.
+10. cornice legno nero e oro. Sec. XVII.
+11. dorato.
+211. La Vergine col Bambino. Miniatura ovale su avorio; cerchio bronzo
+212. Interno di scuderia.Miniatura rettangolare su avorio di insuperabile
+213. Ritratto di giovane e bellissima dama in costume del XVIlI secolo. Finissima miniatura su avorio, montata in argento su scatola di corno.
+15. finezza. Cornice legno dipinto. Sec.XVIII.
+214. Marina con paesaggio e macchiette. Bellissima miniatura di Fr. Guardi,
+215. Ritratto di giovine e bella dama in elegante costume, del XVIlI secolo con spillone nei capeli. Miniatura di insuperabile finezza. Cerchio bronzo cesellato e dorato.
+18. montata su scatola di tartaruga. Sec. XVIII.
+216. Scena d'interno di bettola fiamminga. Finissima miniatura circolare di Adr. Van Ostade: Montata su scatola di bosso. Sec. XVII.
+20. Block: Circa 1850.
+217. Ritratti di giovani donne. Due miniature su avorio rettangolari, firmate
+218. Ritratto di bellissima dama in elegante costume del XVIll secolo. Finissima miniatura su avorio.Medaglione in oro a l8 carati.
+23. cerehio bronzo dorato.
+219. Ritratto di giovine donna. Miniatura ovale su avorio, cornice legno nero,
+220. Gruppo di due bambini. Miniatura circolare francese su avorio di finissima fattura. Cerchio bronzo dorato. Sec. XVIlI.
+26. niatura circolare di eccezionale finezza,in cornice di legno nero,cerchio di bronzo dorato.
+27. 22l. Ritratto di giovine e bellissima dama in costume del XVIlI secolo. Mi-
+222. Scena militare. Bella miniatura rettangolare su avorio di F. Voover-
+223. Ritratto di X. medico di Napoleone I. Miniatura francese su avorio di esecuzione finissima,in astuccio1 Impero.
+30. man. Cornice legno nero scolpito.
+31. 224.Ritratto di giovine gentiluomo del XVIlI secolo. Finissima miniatura
+225. Ritratto di Caterina Regina Mingotti, celebre musicista. Bella miniatura circolare su avorio di Raffaello Mengs. Cornice legno,cerchio bronzo dorato. Sec. XVIII.
+33. su avorio montata su scatola di corno.
+<!-- image -->
+
+## Miniature.
+
+226. Paese con cascata d' acqua. Miniatura circolare finissima di Ruisdael, cornice legno nero,cerchio bronzo dorato. Sec. XVIl.
+228. Ritratto di bambina. Bella miniatura su avorio. Cornice legno nero,
+227. Ritratto di giovine e bella dama in ricco costume del XVIll secolo. Finissima miniatura circolare su avorio in scatola di cuoio.
+4. cerchio bronzo dorato. Sec. XVIlI.
+5. mata.In medaglione di bronzo dorato.Impero.
+6. 229.Ritratto del patriota Carlo Trombetti amico di Silvio Pellico.Miniatura di insuperabile finezza,opera dell'insigne miniaturista Quaglia, fir-
+230. Ritratto di giovine e bella dama in elegante costume del XVIlI secolo. Miniatura circolare su avorio di eccezionale finezza, montata su scatola
+8. 231.Ritratto di giovine gentiluomo in parrucca che tiene una lettera; piccolo dipinto ovale su rame di ottima fattura, seuola francese del XVIII secolo.Cornice bronzo cesellato.
+9. di bosso. See. XVIII.
+232. Ritratto di giovine e bella signora in costume del XVIlI secolo. Fnissima miniatura su avorio montata su scatola di tartaruga con cerchio in oro.
+234. Ritratto di giovine e bella signora in elegante abito Sec. XVlll, con un cane. Finissima miniatura su grande lamina di avorio rettangolare. Cornice legno nero scolpito.
+233. Ritratto di giovine gentiluomo in parrucca,nella destra tiene un cuore che arde. Piccolo dipinto ovale su rame di scuola francese del XVilI secolo.Cornice in bronzo cesellato.
+235. Ritratto di gentiluomo a mezzo busto; piccolo dipinto ovale su rame molto bello,di scuola fiamminga del XVIl secolo. Cornice bronzo cesellato.
+
+## Bronzi, Marmi, Terrecotte, ecc.
+
+236. Due putti in bronzo cesellato su piedestalli di marmo verde. See. XVII.
+2. e grossi festoni.
+237. Mortaio in bronzo del XV secolo, ornato di medaglioni a soggetti sacri
+238. Putto seduto su piedestallo di marmo verde. Bronzo di squisita mo-
+239. Abele dormente.Terracotta del Dupre,interessantissima. Modello del
+6. dellazione, lavoro francese del Sec XVIII.
+7. bronzo esistente alla Galleria degli Uffzi.
+8. scano del XVI secolo.Alt.cm.70.
+240. La Vergine. Seultura in legno policromata e dorata,ottimo lavoro to-
+241. Mortaretto da sparo in bronzo cesellato con le armi del Pontefice Giu-
+242. La Vergine. Statuetta in terra cotta; lavoro toscano del XVI secolo.
+12. lio II (Della Rovere).Interessante pezzo da museo. See. XV.
+13. Alt.cm.80.
+14. cese. Epoca Luigi XV.
+15. 244.La Vergine col Bambino. Stueco policromo della seuola di Donatello. In tabernacolo di legno polieromo. Sec. XV.
+## Bronzi,Marmi, Terrecotte,ecc.
+
+245. San Giovannino. Bellissimo marmo di seuola toscana del XVI secolo. Alt.em.87.
+
+Vedi tavola N.6.
+
+246. Busto di giovinetto. Ottima seultura in marmo del XVIl secolo. Vedi tavola N.4.
+247. Busto di donna avente il capo coperto da una pelle di leone. Seultura
+3. in marmo di buona esecuzione, del Xvll secolo.
+
+Vedi tavolaN.4.
+
+248. La Vergine col Bambino in gloria d'Angeli. Bassorilievo in terracotta,
+249. Busto di imperatore romano. Marmo romano di scavo. Alt. cm. 42.
+3. lavoro toscano di ottima esecuzione del XVI secolo. Cornice legno nero.
+250. Una mendicante. Statua in noce scolpita di buona modellazione. Sec. XVII.
+5. In esso si riscontrano purezza di modellazione,grazia nel viso e nella movenza.Pattina bruna, conservatissima.Sec. XVIHI.
+6. 25l. Busto di bambino sorridente. Bronzo di bellezza rare volte raggiunta.
+
+Vedi tavola N.3.
+
+252. Figura di donna romana che tiene un'anfora. Statua in bronzo di buona modellazione.Alt.cm.48.
+253. Capofuoco in ferro battuto ornato di due mascheroni e due draghi in bronzo.Ricco ed artistico lavoro toscano del XV secolo.Alt.em.140, largh.cm.120.
+3. secolo,di squisita modellazione.
+255. Battente in ferro cesellato conf figure di tre satirelli e un drago in bronzo. Bellissimo lavoro nella maniera del Riccio. Secolo XVI.
+256. Venere e Amore. Gruppo in bronzo di stile celliniano, squisito lavoro
+6. del XVI secolo.
+257. Putto che regge un candelabro. Bronzo cesellato del XVII secolo.
+259. Afrodite. Bella statuetta in bronzo del XVI secolo.
+258. Mortaio in bronzo con festoni e stemma. Sec. XVI.
+260. Bassorilievo in legno, probabilmente frontale di un cassone o schienale di un letto rappresentante scena storica guerresca. Interessantissima scultura del xV secolo.Alt.cm.35, largh.cm.142.
+
+Vedi tavola N. 3.
+
+- 261 Capretta sdraiata. Bellissimo bronzo cesellato attribuito al Tacca. Secolo XVI.
+262. Mortaio in bronzo con mascheroni e festoni. Sec. XVI.
+264. Profumiera chinese formata da un cervo. Bronzo cesellato. Sec. XVI.
+- 263.Profumiera con coperchio sormontato da una chimera;bronzo chinese di ottima modellatura. See. XVIII.
+265. Calamaio in bronzo di ottimo cesello,ornato di sfingi,festoni e masche-
+- roni,con coperchio sormontato da un satirello in atto di fischiare. Secolo XVI.
+266. Giove. Statuetta in teraacotta dorata di buona modellazione.Sec. XVII.
+267. San Giovannino Terracotta toscana del XV secolo della seuola di Donatello, di buona modellazione. Pezzo pregevolissimo proveniente dalla
+
+<!-- image -->
+## Bronzi, Marmi,Terrecotte,ecc.
+
+collezione del Conte Guidi di Cesena, illustrato nel catalogo Guidi con tavola N.5. Alt.cm.43.
+
+Vedi tavola N.5.
+
+268. Satiro in bronzo cesellato formante un calamaio. Belia scultura miche-
+2. langiolesca.
+3. 269.Putto nudo che tiene un mazzo di fiori.Statuetta in bronzo ben modellata,finemente cesellata,opera di Jacopo da Sansovino.Sopra base di marmo. Sec. XVII.
+270. Figura di donna romana. Bella statua in bronzo, di buona pattina. Secolo XVIl.Alt.cm.52.
+271. Figura di guerriero romano. Bella statua in bronzo, di buona pattina.
+272. Schiavo. Piccola statuetta in bronzo. Impero.
+7. Alt.cm.52.
+273. Il Redentore a mezzo busto, su base di legno. Stueco di corretta modellazione conservatissimo,policromo. Opera pregevolissima di Andrea Verrocchio. Vero capolavoro d'arte toscana. Oggetto da museo! Se-
+9. colo XV.
+
+Vedi tavola N.1.
+
+- 274.Idolo birmano in bronzo dorato.
+275. Ragno di mare. Bronzo cesellato. Sec. XVII.
+276. Toro. Bronzo cesellato.
+277. Statuetta in avorio cesellato, rappresentante Napoleone Bonaparte.
+- 278.Ninfa danzante.Placchetta in bronzo cesellato.
+279. Due vasi chinesi di forma quadrangolare in bronzo cesellato,di ricco lavoro. Sec. XVI. Alt.cm.35.
+280. L'Angelo custode. Bassorilievo in bronzo cesellato.Moderno.
+281. Figure di giovinette. Due bellissime statuette in bronzo di P.Troubetzkoi,firmate.Inedite. Alt.cm.47.
+282. Busto d'uomo. Bellissimo gesso inedito di P. Troubetskoi.
+
+## Maioliche e Porcellane.
+
+283. Piccola tabacchiera e piccolo vasetto in porcellana policroma e dorata.
+284. Tre busti in maiolica bianca.Lucio Vero, Iside e busto ririle.
+285. Tre piatti di graziosa forma Luigi XV, ornati di figure e stemma, in maiolica di Lille.
+286. Piatto ovale in maiolica di Milano. Decorazione polieroma. Sec. XVIII.
+287. Grande catinella in maiolica di Pistoia, di elegante forma Luigi XIV. Sec. XVII.
+288. Calamaiera in maiolica di Pesaro. Decorazione di fiori. See. XVIII.
+289. Coppa per frutta in maiolica di Faenza; decorazione policroma.Imita-
+8. zione.
+291. Fioriera in porcellana polieroma e dorata. Decorazione di uccelli e insetti. Mareata A.R.
+290. Due grandi coppe in maiolica di Faenza. Decorazione polieroma. Imitazione.
+292. Brocca in maiolica marcata Gien decorata a fiori, uccelli e insetti.
+## Maioliche e Porcellane.
+
+293. Due portafiori a cinque corni in porcellana policroma e dorata, marcati
+294. Piatto decorato a rilievo, in maiolica a fondo verde, soggetto chinese.
+3. con un'ancora.
+295. Vasi con coperehio in porcellana del Giappone. Decorazione in oro e colori. Sec. XVIII.
+297. Portafrutta a cestello in maiolica lavorata a jours. Decorazione policroma.
+6. 296, Due grandi vasi in maiolica, decorazione bleue.
+298. Sei interessanti piatti, fabbriche e decorazioni diverse.
+8. corazione a festoni di fiori. Epoca Luigi XVI.
+299. Due graziosi vasetti con coperchio, in maiolica di Pesaro, finissima. De-
+300. Due graziosi vasetti con coperchio in maiolica di Pesaro. Decorazione
+301. Caricatura in biseuit bianco, francese.
+12. verde di foglie. Epoca Luigi XVI.
+302. Profumiera in porcellana del Giappone, decorata in oro e colori.
+14. 304.Grande coppa in porcellana della China.Decorazioni di fiori.
+303. Due piccoli piatti circolari a jours di Pesaro. Con stemmi. Sec.XVIII.
+16. 305.Due vasi in maiolica di Abruzzo. Decorazione policroma con ritratti.
+17. Sec. XVIII.
+306. Due vasi in maiolica di Abruzzo. Decorazione policroma e ritratti. Se-
+19. colo XVIII.
+307. Bel vaso in maiolica d'Abruzzo. Decorazione polieroma, con ritratto. Sec. XVII.
+309. Tazze e piattino in porcellana della China. Finissima decorazione in oro
+308. Due graziosi vasi in maiolica di Urbagna, fondo bleue con lumeggiature in bianco; in alto un calice in giallo. Sec. XVII.
+23. e colori.Sec.XVIII.
+24. 31l. La Vergine col Bambino. Bella mattonella in maiolica di Faenza. Secolo XVI.
+310. Piatto circolare in maiolica a jours di Pesaro; nel centro uno stemma.
+312. Due graziosi vasi in maiolica di Urbagna, fondo bleu scuro. Decorazione
+313. Due graziosi vasetti in maiolica di Marsiglia.Finissima decorazione di
+28. bleue con lumeggiature in bianco; in alto un calice in giallo. Sec. XVII.
+29. rose. Sec. XVIlI.
+314. Due chicchere con piattini in maiolica di Castelli. Bella decorazione di
+315. Tre vasi a rocchetto in maiolica d'Abruzzo. Decorazione polieroma. Sec.XVIII.
+32. paesaggi. See. XVIlI.
+33. 316.Mattonella policroma a rilievo in maiolica di Faenza, rappresentante la Vergine col Bambino. Sec. XVI.
+34. zione policroma.Sec. XyIII.
+317. Sei chicchere con piattini in finissima porcellana della China. Decora-
+318. Grande piatto in maiolica di Deruta, decorato in bleu ad animali e
+319. Portagioie in maiolica di Deruta. Ai quattro lati cariatidi a rilievo. Decorazione bleu di selvaggina e uccelli. Pezzo raro. Sec. XVI.
+38. fiorami. Sec. XVII.
+320. Due bei vasi in maiolica di Cafaggiolo. Decorazione bleue e medaglioni
+40. a manganese. Sec.XVI.
+## Maioliche e Porcellane.
+
+- 32l. Due bellissimi vasetti in maiolica di Faenza. Decorazione bleue su fondo
+322. Scodella con la Vergine di Loreto, in maiolica di Castelli. Opera finissima dei Grue. Sec.XVII.
+- bleu chiaro, con stemmi interessanti. Sec. XVII.
+323. Due piccoli vasi in maiolica di Pesaro. Decorazione policroma di pae-
+324. Brocca in maiolica di Pesaro.Decorazione polieroma di paesaggi. Se-
+- saggi. Sec. XVII.
+- colo XVII.
+325. Rospo, in maiolica bruna di Pavia. Rarissimo pezzo da Museo. Sec. XVI.
+327. Boccale in maiolica di Urbino. Decorazione policroma. Sec. XVII.
+326. Due vasetti in maiolica di Faenza. Decorazione bleue. Sec. XVIII.
+328. Due vasetti in maiolica di Faenza. Decorazione bleue. Sec. XVIlI.
+330. Bel vaso in maiolica di Cafaggiolo. Decorazione bleue. Sec.XVI.
+329. Boccale in maiolica di Urbino. Decorazione policroma. Sec.XVII.
+- 33l. Vaso in maiolica di Faenza. Decorazione bleue. Sec. XVII.
+332. Vaso in maiolica di Faenza. Decorazione bleue di ornati e paese. Secolo XVII.
+333. Cane di San Bernardo. Maiolica di Faenza.Bella policromia,ottima modellazione. Pezzo raro. Sec. XVII.
+333. Due vasi in maiolica di Abruzzo. Decorazione policroma. Sec. XVII.
+334. Piatto circolare in maiolica 《 a jours 》 di Pesaro. Nel centro uno stemma.
+336. Bella bottiglia in maiolica di Pesaro. Decorazione policroma di figure e
+337. Grande piatto in maiolica di Deruta.Decorazione bleue di animali e fogliami. Sec. XVII.
+- paese su fondo bianco. Sec.XVII.
+338. Calamaiera in maiolica di Pesaro. Decorazioni di fiori. See.XVIHI.
+340. Saliera in maiolica di Urbino. Decorazione policroma di grotteschi,nel
+339. Vaso in maiolica di Urbagna. Decorazione bleu scuro su fondo bleu, in alto uno stemma. Sec. XVII.
+- centro un amorino. See.XVI.
+- Sec.XVIII.
+- 34l. Brocca in maiolica di Pesaro. Decorazione verde di un uccello e fiori.
+342. Grande piatto in porcellana persiana,Ricca decorazione bleue. Sec. XVI.
+- Sec.XVI.
+343. Bel vaso in maiolica di Cafaggiolo. Decorazione a fogliami bleu e gialli.
+344. Brocca in maiolica di Casteldurante.Decorazione policroma. Sec.XVI.
+346. Fiasca con due anse in maiolica di Urbagna, decorata da figure di buon disegno. Secolo XVI. Pezzo raro da museo.
+345. Calamaiera di Faenza. Decorazione di fiori. Sec.XVIll.
+347. Brocca in maiolica d'Abruzzo a vivissimi colori bleu, giallo e verde. Sec.XVI.
+- Luigi XIV. Sec. XVII.
+- 348.Fioriera in maiolica di Faenza, ornata da uno stemma. Bella forma
+349. Brocca in maiolica di Abruzzo decorata in verde,bleu e giallo. SecoloXVI.
+350. Bella bottiglia in maiolica di Faenza, decorata da uno stemma policromo. Sec.XVI.
+<!-- image -->
+
+## Maioliche e Porcellane.
+
+- 35l. Brocca in maiolica di Faenza. Bella decorazione a fogliami in bleu con cartella in giallo e verde. See. XVI.
+352. Due bei vasi a roccbetto in maiolica policroma di Casteldurante. Rari. Sec.XVI.
+353. Due vasi in maiolica policroma di Casteldurante ornati a ritratti, maseheroni e trofei. Rari. Sec.XVI.
+- corone d'alloro. Rarissimi. Sec. XVI.
+- 354.Due vasi in maiolica di Cafaggiolo, ornati di stemma, circondato da
+355. Vaso in maiolica di Cafaggiolo. Decorazione bleue a foglie. Sec. XVI.
+357. Vaso in maiolica di Cafaggiolo. Decorazione bleue a foglie e fiori. Se-
+356. Brocca in maiolica di Pesaro, decorata da un cervo e alberi. Sec. XV.
+- colo XVI.
+- colo XVI.
+358. Bel vaso a tromba in maiolica di Abruzzo. Decorazione polieroma. Se-
+359. Acquasantiera in maiolica policroma di Faenza, ornata a bassorilievo, conla figura della Vergine e il Bambino in gloria d'Angeli. Finissimo
+360. Gruppo in maiolica policroma di Faenza, rappresentante quattro giuocatori al tavolino e un cane. Sec. XvII.
+- lavoro. Con la marca di fabbrica e la data 1719.
+- 36l. Bel vaso a tromba in maiolica di Faenza.Decorazione policroma a or-
+362. Ecce Homo. Busto in maiolica primitiva di Pesaro, decorato nei soli colori giallo,verderamina e manganese. Il color rosso non era ancora introdotto nella decorazione della maiolica e per questo il sangue che esce dalla fronte del Cristo punta dalle spine, e riprodotto col colore verde. Sec.XV.
+- nati e ritratto. Sec.XVIII.
+363. Bellissima brocca in maiolica d'Abruzzo.Decorazione a forti colori bleu
+- verde e giallo.Sec.XV.
+364. Due brocchette in maiolica di Faenza.Decorazione bleue. Sec.XVII.
+365. Due graziosi vasi in maiolica di Urbagna, fondo bleu scuro, decorazione bleue con lumeggiature in bianco, in alto un calice, in giallo. Sec.XVII.
+366. Vaso in maiolica di Cafaggiolo. Decorazione gialla e bleu, con stelloni.
+368. Due graziosi vasi in maiolica di Urbagna,fondo bleu seuro. Decorazione bleu con lumeggiature in bianco, in alto un calice in g giallo. Sec. XVII.
+367. Due graziosi vasi in maiolica di Urbagna, fondo bleu seuro, decorazione bleue con lumeggiature in bianco; in alto un calice. Sec. XvIl.
+369. Boccale in maiolica di Faenza. Decorazione a code di pavone. Sec. XVI.
+- colo XVI;— Vaso in maiolica di Faenza.Decorazione bleue, gialla e everde,con la data 1675.
+370. Vaso a due anse in maiolica di Faenza. Decorazione bleue e gialla. Se-
+371. Gruppo in porcellana polieroma di Capodimonte, rappresentante l'idillio di due giovani contadini. Per la bella modellazione e la finezza della decorazione questo gruppo e un piccolo capolavoro. Sec. XVIlI.
+- un'aquila.
+372. Grande piatto 《 a jours 》 circolare in maiolica di Pesaro. Nel centro
+373. Due bei vasi in porcellana della China. Decorazione su fondo bleu chiaro,
+- con iserizioni. Bella forma. Sec. XVI. Alt.cm. 40.
+## Maioliche e Porcellane.
+
+374. Grande orcio con coperchio in maiolica toscana, ornato a rilievo, smalto verde. Sec.XVI.
+375. Grande orcio in maiolica toscana con ornati a rilievo. Bellissimo smalto verde. Sec. XVII.
+376. Due brocchette in maiolica di Urbagna, fondo bleu scuro. Decorazione
+377. Piatto in maiolica di Montelupo.Nel centro un cavallo. Bello e raro. Sec.XVI.
+5. bleue con lumeggiature in bianco; in alto un calice in giallo. Sec. XVIl.
+378. Due vasetti in maiolica di Faenza. Decorazioni bleu. See. XVII.
+380. Tre vasetti di forma cilindrica con coperchio,in maiolica di Pesaro. Decorazione verde di foglie. Epoca Luigi XVI.
+379. Due graziosi vasetti di forma cilindrica con coperchio, in maiolica di Pesaro. Decorazione verde di foglie. Epoca Luigi XVI.
+9. 38l. Zuppiera in maiolica di Milano, decorazione policroma a uccelli fiori e ornati. See. XVIll. Rara.
+10. lori, di uccelli e fiori. Sec. XVII.
+382. Piatto in maiolica di Pavia, rara e interessante decorazione a forti co-
+383. Piatto in maiolica di Milano. Decorazione policroma di ornati, nel centro
+384. Vasetto in maiolica di Torino, finissima decorazione bleue. Sec. XVIII.
+14. un uccello. Sec. Xvll. Raro per la decorazione.
+385. Vassoio in porcellana di Capodimonte. Nel centro gruppo d’uccelli, con-
+16. torno verde e oro. Sec. XVilI. Marcato.
+386. Piatto in maiolica Ispano Araba. Decorazione finissima con riflessi me-
+18. talliei.
+387. La Vergine col Bambino. Statuetta in maiolica policroma di Bologna.
+388. Scodella in maiolica di Faenza,avente nel centro la Vergine di Loreto, decorazione policroma. Sec. XVIII.
+389. Piatto in maiolica 《a jours 》 di Pesaro. Nel centro uno stemma. Secolo XVIII.
+390. Piattino in maiolica di Castelli. Decorazione di paesaggio. Sec. XVII.
+391. La Vergine che calpesta il demonio; mattonella in maiolica policroma di Faenza.
+
+## Oggetti di scavo.
+
+392. Figura d’uomo nudo che regge un anfora. Statuetta in bronzo romano
+2. di scavo.
+393. Figura virile. Statuetta romana in bronzo di bella modellazione.
+394. Vaso per profumi in zinco romano ornato di piccole testine in bassorilievo.
+396. Vaso con ansa in terracotta di Nola, fondo nero, decorazione rossiccia.
+395. Vaso etrusco in terracotta a due anse, decorazione interessante di figure su fondo nero.
+397. Quattro vasetti romani in terracotta, a due anse, decorazioni diverse.
+399. Sette lampade e tre maschere in terracotta romana di scavo.
+398. Due grandi. e una piccola coppa a due anse, in terracotta romana.
+## Oggetti di scavo.
+
+400. Quattro interessantissimi idoli egiziani in terracotta.
+402. Otto vasetti in terracotta romana di scavo, forme diverse.
+401. Due statuette in terracotta di scavo.
+403. Due vasetti in terracotta romana di scavo, di curiosa forma, con ansa e becco,luno decorato in nero e rosso su fondo mattone,laltro con un
+404. Statuetta in terracotta di scavo, molto interessante e bella.
+6. mascherone a rilievo.
+405. Vaso con ansa in terracotta di Nola, fondo nero.
+407. Tre cucchiai, unasse, anelli, frammenti diversi in bronzo romano di seavo. 30 pezzi
+406. Due idoli egiziani in bronzo.
+408. Quattro fbule e cinque piccole seulture rappresentanti animali ed altre cose, in bronzo di scavo. 9pezzi
+409. Dodici diverse statuette ed idoli in bronzo romano di scavo.
+
+## Oggetti da vetrina e argenterie.
+
+## Oggetti diversi.
+
+410. Bomboniera in maiolica di Sassonia con ornati a rilievo, decorazione
+2. 41l. Astuccio in avorio.
+3. policroma. Marcata.
+412. Smoccolatio con piattino in argento cesellato. Impero. Gr. 244.
+5. 414.Due piattini a smalto,luno con grotteschi in bianco e oro su fondo nero, l'altro decorato a figure,
+6. 4l3. Ercole e il leone; Un Amorino. Due smalti su rame di finissimo lavoro.
+415. Legatura di libro in argento sbalzato e cesellato. Sec. XVIll. Gr. 323.
+417. Bomboniera in porcellana di Sevres, decorazione di figure e ornati su
+416. Aequasantiera in argento cesellato, sostenuta da un Angelo. See. XVIlI. Gr.210.
+10. fondo bleu.
+11. mingo.
+418. Portabiglietti: smalto su rame a fondo rosso,nel centro soggetto fiam-
+419. Bomboniera in porcellana decorata a figure e ornati, marcata.
+421. Due candelieri in argento ceseliato. Impero. Gr. 565.
+420. Cornice in argento cesellato sostenuta da figure grottesche, sormontata da stemma.
+422. Piccolo e grazioso portaprofumi composto di tre facons montati in bronzo cesellato e dorato: Luigi XV.
+424. Astuccio ovale in argento in forma di croce. Sec. XVII.
+423. Dieci cucchiai in argento cesellato. Epoca Luigi XV.
+425. Piccola torre in argento cesellato. Gr. 115.
+427. Due acquasantiere in argento sbalzato cesellato.Impero.
+426. Collier in argento cesellato e dorato, ornato da smeraldi e perle. See. X VII.
+428. Lotto di 4 piccoli sigilli antichi.
+## Oggetti da vetrina e argenterie.Oggetti diversi.
+
+430. Scatola circolare in agata.
+429. Scatola triangolare e tre impugnature di coltello in agata.
+431. Astuccio in Vernis Martin.Sec. XVIII.
+433. Portastuzzicadenti in argento cesellato. Epoca Luigi XV.
+432. Due candelabri in argento cesellato a tre candele. Sec.XVII.
+434. Cogoma in argento cesellato; bella forma.
+436. Due bei candelabri in argento cesellato a tre candele. Epoca Luigi XVI.
+435. Bella zuccheriera in argento cesellato.Impero.
+437. Bomboniera in porcellana di Sevres decorata a figure e ornati su
+438. Bomboniera in porcellana di Lille, decorata fiori e figure.
+11. fondo bleu.
+439. Bauletto in bronzo cesellato di stile gotico.
+441. Scatola in biscuit, rappresentante figura di donna sopra un dromedario.
+440. Croce in ebano, intarsiata in madreperla.
+15. 442.Fiaschetta da polvere in ottone ornato in argento.
+444. Coltello da caccia, orientale, con impugnatura e fodero orrati in argento.
+443. Cane:marmo verde scolpito.
+18. 445.Porta fori in avorio giapponese scolpito a figure;— e scatoletta in corno montata in argento.
+447. Serie di 16 biglietti carte valori. Cornice dorata.
+446. Secchiello in bronzo cesellato, ornato di figure.
+448. Pezzo di trina:guipure francese.
+450. Quattro pezzi di trina, guipure francese.
+449. Pezzo di trina in punto all'ago, a rilievo.
+451. Due fazzoletti ornati con punto all'ago.
+453. Lumiera in ottone a tre becchi. Sec.XVII.
+452. Due candelieri in bronzo. Sec. XVII.
+454. Due belle pistole ornate a cesello, con riporti in bronzo cesellato. Se-
+455. Due pistole con ornamenti in acciaio cesellato, una delle quali con
+29. colo XVIII.
+30. stemma,Sec. XVIII.
+457. Sei ventole.Impero.
+456. Tre diverse lame di spada e una piccola alabarda per bandiera.
+458. Ritratto di giovane donna.Dipinto su alabastro in cornice di legno scol-
+459. Turibolo in bronzo cesellato. See. XVII.
+35. pito e dorato. See. XvIll.
+460. Due belle mensole dangolo in legno scolpito e dorato. Epoca Luigi XV.
+37. colo XVII.
+38. 46l. Stipo in ebano a vari tiretti: mobiletto toscano di bella forma. Se-
+462. Catinella e brocca in ottone, di lavoro marocchino del XVIlI secolo.
+464. Specchio in rame sbalzato,argentato, di bella forma Luigi XV. Sec.X VIHI.
+463. Bellissimo lampione in ferro battuto:lavoro toscano del XVI secolo.
+465. Due ventole in rame argentato e sbalzato, con braccio per candela. Bella forma Luigi XV. See.XVIII.
+466. Due arazzi di buon disegno dipinti a sucehi d'erba, con amorini nel centro, stemmi e ornati nel contorno. Sec.XVI. Alt.cm.140, larghezza cm.160.
+## Oggetti da vetrina e argenterie.Oggetti diversi.
+
+467. Bell'orologio in legno con quadrante e riporti in bronzo cesellato e. do-
+2. rato.Rara ed elegante forma del XVII secolo.
+468. Due piatti in rame cloissonne, lavori chinesi del XVII secolo.
+469. Lumiera in ottone a tre becchi. Sec. XVII
+470. Lampione in ferro battuto di stile toscano rinascimento: con becco per gas.
+6. 47l. Cofanetto in noce scolpita e dorata con cariatidi ai lati. Sec. XVI.
+472. Modello da serittoio in noce, Luigi XIV. Grazioso mobiletto. Sec. XVIHI.
+
+## Cornici.
+
+473. Cinque piecole cornici in legno scolpito e dorato.
+474. Cornice in bronzo cesellato e dorato, da miniatura.
+475. Cornice in legno scolpito e dorato.Cm.16 X20.
+476. Cornice in legno scolpito e dorato. Sec. XV1l. Cm. 47 X 67.
+477. Cornice ovale in legno scolpito e dorato. Sec. XVIll. Alt. cm. 80,larghezza cm.60.
+478. Cornice in legno scolpito.Cm.24 X 20.
+479. Cornice in legno scolpito e lumeggiato in oro, agli angoli quattro busti virili.Cm.36X28.
+480. Bella corrice in legno scolpito e dorato. Sec.XV11. Cm. 17X 22.
+9. 48l. Due ricche cornicette barocche di diversa forma in legno scolpito e dorato.Sec.XVII.
+482. Cornice in legno scolpito e dorato. See. XVI1. Cm. 17 X 28.
+483. Cornice in legno seolpito e dorato. Sec. XVIl. Cm. 21 X 16.
+484. Cornice ovale in legno scolpito e dorato. Sec,XVlf. Cm. 27 X 22.
+485. Due cornicette in legno nero sbalzato.
+486. Dne cornicette in legno nero sbalzato.
+487. Cornice in legno scolpito e dorato. Sec. XVI1. Cm. 20 X 33.
+488. Corniciette in legno scolpito e dorato. Sec. XVII.
+489. Due graziose corniciette ovali per ritratti, in legno scolpito e dorato. Sec. XVII.
+490. Graziosa cornicetta in legno scolpito, grafito e dorato. Sec. XVII.
+491. Cornice in legno scolpito e dorato. Sec. XV1ll. Cm. 22 X 27.
+492. Cornicetta in legno scolpito e dorato, di forma albana. Secolo XVIl.
+21. Cm.10X14.
+493. Cornice in legno scolpito a frutta e foglie e dorato. Secolo XVII.
+23. Cm.95X100.
+24. 494.Bella cornice di forma circolare in legno scolpito a frutti e dorato.Dia-
+25. metrocm.32.
+495. Cornice in legno scolpito e dorato; lavoro toscano del XVI secolo. Cm. 62X48.
+27. 496.Cornice in legno scolpito e dorato; lavoro toscano del XVI secolo. Cm.62X48.
+497. Cornice ovale in legno scolpito e dorato. Sec. XVI1. Cm. 18 X24.
+## Mobili.
+
+498. Tavola in noce con gambe a lira. Sec. XVIlI,
+
+499. Tavolo in noce di bella forma con gambe a lira. Sec. XVIII.
+
+500. Madia in noce. Sec. XVII.
+
+50l. Bureau con alzata a specchi in radica. Sec.XVIl.
+
+502. Tavolo circolare in noce a gambe tornite. Sec. XVIl.
+
+504. Tavolino in noce di bella forma con gambe a lira. Sec. XVl.
+
+503. Tavolo circolare in noce a gambe tornite. Sec. XVll.
+
+505. Como in noce intarsiato nella maniera di 《Maggiolini 》. See. XVIll.
+2. 506.Tavolino da giuoco in noce scolpita,coperto di panno verde. Epcca Luigi XV.
+3. 507.Piccolo tavolino da the, inglese moderno, in noce, elegante forma.
+
+508. Cassettone 《bombe 》 in radica di noce. Epoca Luigi XV.
+
+509. Armadietto in noce. Sec.XVill.
+
+510. Tavolo ovale in noce, con gambe tornite. Sec. XVII.
+2. 51l. Sedia in noce bianco e oro; sedia in noce. Epoca Luigi XV.
+512. Sedia in noce. Sec. XVIl.
+513. Salotto di epoca Luigi XV in noce scolpito,elegante forma. Composto di un divano, due poltrone e dieci sedie.
+5. 514.Inginocchiatoio in noce scolpita. See. XVI.
+515. Credenza in noce. Sec.XVI.
+516. Due bellissimi cassettoni in noce flettati, elegante forma.Epoca Luigi XVI.
+517. Tavolino da giuoco in noce. Epoca Luigi XV.
+518. Tavolino da giuoco quadrangolare in noce intarsiata, nel centro il giuoco della dama. Epoca Luigi XVI.
+519. Bel tavolo in noce a gambe tornite con tiretti. See. XVIl.
+
+## Incisioni.
+
+520. Serie di otto incisioni francesi a colori: La toilette;Le bain; La Promenade du Matin;Le Coucher;L'evenement au bal;Le boudoir;Le Promenade du soir;La Visite inattendue.
+2. 52l. Serie di 22 acquarelli per figurini di teatro.
+
+522. Sedici incisioni colorate:costumi dell'armata francese napoleonica.
+
+523. Sette acqueforti e ineisioni rappresentanti paesaggi e vedute diverse.
+
+525. Les charmes du Primtems; Les delices de l'Automne; Le Feu;La Terre;l'Air; l'Eau; sei ineisioni a colori.
+
+524.Due monotipi del Quadrelli rappresentanti paesaggi
+
+526. Quattordici stampe a colori rappresentanti battaglie e ritratti del risor-
+
+- gimento italiano.
+527. Carlo Ferrario. L'Italia Artistica, con belle tavole a colori. In port-folio.
+528. La danza delle ore. Bellissima incisione di Raff. Morghen da N. Poussin.
+- Cornice noce.
+## Incisioni.
+
+529. Cupidon vient aun secours de Psichee et l'eveille. Bella incisione di J.Andrau da A. Coypel. Cornice noce.
+
+231. Ritratto di Raffaello Sanzio. Bella incisione di Raff. Morghen. Cornice noce.
+
+530.Diana. Bella incisione di G. Folo da B. Nocehi
+
+532. Diogene ed Alessandro. Bella incisione di M. Gandolf. Cornice noce.
+
+533. Amorini. Quattro belle incisioni di Aug. Zaffonato da Guido Reni e Franceschini.
+
+534.Lotto di 49 incisioni antiche montate su fogli di misura uniforme.
+
+536.Lotto di 29 diverse ineisioni antiche, montate su fogli di misura uni-
+
+537. Lotto di 43 diverse incisioni antiche montate su fogli di misura uni- forme.
+
+forme.
+
+538.Lotto di 25 stampe diverse.
+
+539.Zais. Sec. XVIll. Paesaggi. Due buoni dipinti su tela. Cornici legno
+
+dorato.

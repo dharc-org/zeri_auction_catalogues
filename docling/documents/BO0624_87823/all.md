@@ -1,0 +1,2165 @@
+## Verkaufs-Bedingungen.
+
+- 1.Die Versteigerung geschieht gegen sofortige Zahlung in Deutscher Reichswahrung. Die Uebernahme erfolgt sogleich mit dem Zuschlage.
+- 2.Diejenigen Kaufer, welche am folgenden Tage zu zahlen wunschen,mussen eine angemessene Summe vor der Versteigerung deponieren.
+- 3.Die Gegenstande werden in dem Zustande versteigert,in welchem sie sich befinden, und kann nach erfolgtem Zuschlag keinerlei Reklamation berucksichtigt werden. Die im Katalog enthaltenen Angaben und Beschreibungen der zum Verkauf gestellten Gegenstande werden nicht gewahrleistet.
+- 4.Angegebene MaBe verstehen sich bei Gemalden ohne Rahmen.
+- 5.Gesteigert wird mindestens um 1 Mk. iber 100 um 5 Mk.
+- Von der Reihenfolge wird nur ausnahmsweise abgewichen.
+- 6.Ein Aufschlag zur Kaufsumme wird vom Kaufer mit 5% erhoben.
+- 7.Bei Streitigkeiten iber den Zuschlag wird der betreffende
+- Gegenstand noch einmal ausgeboten.
+- 8.Wenn zwei oder mehrere Personen zugleich ein und dasselbe Gebot abgeben, entscheidet das Los. (Ges. v. 10. Juli 1902.)
+
+## Rudolph Lepke's Kunst-Auctions-Haus.
+## EINTEILUNG.
+
+## I.AUCTIONSTAG:
+
+## DIENSTAG,DEN 3.DEZEMBER 1907
+
+VORMITTAG11UHR.
+
+No.1-110.
+
+## PORZELLAN.
+
+- A.BERLIN.No.1—10.
+- B.MEISSEN.No.11-110.
+
+## II.AUCTIONSTAG:
+
+## MITTWOCH,DEN 4.DEZEMBER 1907
+
+VORMITTAG11UHR. No.111-217.
+
+## PORZELLAN. KLEINKUNST.
+
+- C.VINCENNES-SEVRES.No.111-154.
+- D.KLEINKUNST(OBJETS DE VITRINE).No.155-180. FACHER,DOSEN,MINIATUREN,FLAKONS.
+- E.PORZELLAN VERSCHIEDENER MANUFAKTUREN.No.181-217.
+- ANSBACH-BRUCKBERG,CHANTILLY,FRANKENTHAL,FURSTENBERG,
+- GOTHA,HOCHST,LUDWIGSBURG,VENEDIG,WIEN.
+
+## III. AUCTIONSTAG:
+
+## DONNERSTAG,DEN 5.DEZEMBER 1907
+
+VORMITTAG 11 UHR. No.218-334.
+
+## GEMALDE,SILBER,BRONZEN,MOBEL,TEXTILIEN,BIBLIOTHEK.
+
+- F.GEMALDE ALTER UND NEUER MEISTER.No.218-247.
+- G.SILBER,BRONZEN,MOBEL,TEXTILIEN,TEPPICHE,JAPAN- UND CHINA-PORZELLAN,MUNZENSAMMLUNG,DEKORATIONSGEGENSTANDE. No.248-291.
+- H.BIBLIOTHEK.No.292-334.
+## VORWORT
+
+uBer der ,Deutschen Jahrhundert-Ausstellung" in der Koniglichen National-Galerie (1906) waren es hauptsachlich zwei Ausstellungen, die in Berlin im Laufe der letzten Jahre das Interesse aller Kunstfreunde fesselten: Das Europaische Porzellan des XVIll. Jahrh. im Lichthof des Konigl. Kunstgewerbe-Museums 1904 und die ,Ausstellung von Werken alter Kunst aus dem Privatbesitz der Mitglieder des Kaiser Friedrich-Museums-Vereins" im ehem, Palais Redern,1906.— Wahrend diese letztere alle Werke der bildenden und angewandten Kunst umfaBte,brachte die Ausstellung im Kunst-GewerbeMuseum lediglich Porzellan des 18. Jahrh. und zwar mit iberraschendem Erfolge. Es hatte wohl niemand, selbst von den Beteiligten, geahnt, welche Fulle kostlichster Schatze dabei an die Offentlichkeit kommen wurden, seltenste Fruchte jahrelanger und muhevoller Arbeit von seiten der Porzellansammler! Das Fazit zog nun zunachst die Museumsverwaltung in dankenswerter Weise dadurch,daB sie einen wissenschaftlichen Katalog* der ausgestellten Porzellane herausgab, der, reich illustriert, von dauerndem Werte fur Sammler,Forscher und Kunsthistoriker bleibt.
+
+Aus raumlichen Grunden konnte naturlich nur ein Bruchteil der verschiedenen Sammlungen zur Ausstellung gelangen,es war wohl auch keineswegs beabsichtigt, innerhalb des groBen Gebietes noch Spezialgruppen einzugliedern. Man konnte daher vom Inhalt der Sammlung eines einzelnen
+
+Ausstellers kaum ein vollstandiges Bild gewinnen.
+
+Dr.Fritz Clemm (der im Mai d. J. verstarb) hatte auf beiden vor- genannten Ausstellungen eine groBere Anzahl Porzellane zur Verfugung gestellt. Seine Sammeltatigkeit gehorte iberwiegend der Porzellan-GefaBkunst des 18. Jahrh. an. Was davon ausgestelt wurde, gehorte mit zum besten, was die Porzellankunst des 18. Jahrh. iberhaupt geschaffen! Eine
+
+*) Europaisches Porzellan des XVIll. Jahrhunderts,von Adolf Brining, in Verbindung mit Wilhelm Behncke, Max Creutz und Georg Swarzenski. Berlin 1904. GeorgReimer.
+volle Wurdigung dieser bedeutenden Sammlung aber kann erst eintreten, wenn man an Hand des vorliegenden Katalogs ihren ganzen Umfang ibersieht, doch wurde es zu weit fuhren,ihrem wissenschaftlichen und kulturgeschichtlichen Wert hier nur einigermaBen gerecht zu werden,—V Wir mussen uns darauf beschranken, materiell das hervorzuheben, was von den ublich vorkommenden Typen abweicht. Es ist keine GefaBsammlung vom entwickelungsgeschichtlichen Standpunkt aus,keine Geschichte des Porzellans an Beispielen,—Dr. Clemm sammelte fast ausschlieBlich kunstlerische Prunkstucke der jeweiligen Blutezeit einer Manufaktur.
+
+So ist MeiBen hauptsachlich durch Arbeiten aus der Zeit von etwa 1720—1750 vertreten,also der Epoche Horolds und Kaendlers. Von der kleinsten Riechdose an bis zum pomposen Tafel-Schaustick stehen diese Arbeiten auf der Hohe der Kunst,zeigt die Malerei trotz haufiger Wiederholung der Motive doch jene entzickende Mannigfaltigkeit von,indianischen" Blumen, Chinoiserien, ,Seeprospekten" mit uppiger Gold und Lusterumrahmung, daB sie neben den Figuren Meiben seinen Weltruf verschafften, als die andern Manufakturen noch iber die ersten Versuche nicht hinaus waren.
+
+Uber diese Blutezeit sagt Bruning treffend (Europ. Porz. des 18. Jahrh. pag. XIX): Alle diese Miniaturbildchen geben den Porzellanen der Fruhzeit den Charakter des Kostbaren, Seltenen, das man wie die Handschriften des Mittelalters mit groBter Liebe und Sorgfalt bemalte, da man der hohen Wertschatzung dieser auf intime, eingehende Betrachtung berechneten Dekoration des kostbaren, neugefundenen Stoffes durch den Kaufer gewiB war. Wo man auf weitsichtigere, dekorative Wirkung hin schmicken muBte, wahlte man die auf den ostasiatischen Porzellanen sich darbietende Blumenmalerei."
+
+Geringeres Interesse brachte Dr. Clemm den Figuren entgegen, aber was davon in der Sammlung vorhanden ist, ist ganz eigenartig, vollig abweichend von den sonst bekannten Typen: Die beiden Centauren, die beruhmte danische Gruppe von J. Kaendler, die Tafelfiguren des "Sommers" und ,Winters", das so seltene ,Kriegs-Schachspiel".
+
+Dieser Sammlung von MeiBener Porzellan stehen ebenburtig die Erzeugnisse von Vincennes-Sevres gegenuber: in der Hauptsache aus der Zeit von 1750—1780. Alle die verschiedenen fur Sevres charakteristischen, email-
+artigen Fonds sind vorzuglich vertreten, die fruhen Arbeiten zeigen noch den wolkigen Grund, der spater glatt und gleichmafig wird. Vermoge der reicheren Palette gegenuber den MeiBener Arbeiten gelangte speziell die Malerei in Blumenstilleben und Vogeln, von denen die exotischen wohl ihrer Farbenpracht wegen bevorzugt sind, zu einer Hohe, die in den Namen Cornaille, Taillandier, Barre, Le Bel, Castel u. a.ihren Hohepunkt fand. Auch das nur von Sevres geubte Verfahren,das Porzellan mit Gold und Email prunkvoll zu verzieren, das porcelain a émaux" ist durch drei prachtige Tassen und zwei Eierbecher gut vertreten, desgleichen das fur Sevres so charakteristische ceuil de perdrix-Motiv: den Fond durch Punktkreise auf leicht getontem Grund zu beleben.
+
+Diesen so bedeutenden Arbeiten der wichtigsten europaischen Manu- fakturengegenuber haben die andernBerlin,Wien,Gotha—（die siddeutschen fehlen fast ganz) einen schweren Stand. Und doch haben auch sie allen Anspruch, an erster Stelle genannt zu werden. Uber das Berliner Kaffeeservice liegt ein, man mochte sagen, geschichtliches Urteil vor: es ist das Service,das Friedrich der GroBe seinem vertrauten Freunde, dem DichterGeneral De la Motte-Fouque schenkte, und von dem er selbst schreibt!.. je vous envoye un dejeune aussi beau que le ne jamais on a travaillé a MeiBen". (22. April 1764). Und mit Recht konnte der groBe Konig das behaupten, hat doch keine Manufaktur, selbst Meiben nicht, mit der Malerei in Eisenrot solch kunstlerische Erfolge erzielt, wieBerlin.
+
+daB kein Kenner es dieser Fabrik, die doch noch 1766 an der Masse laborierte",(ohne die Marke gesehen zu haben), zuschreiben mochte. DaB es aber etwas besonderes sei, vielleicht als Geschenk nach England bestimmt, durfte man aus dem zum Service gehorigen Kasten schlieBen,der das englische Wappen in Goldpressung zeigt. Auch Wien ist durch zwei Service, die der zweiten Halfte des 18. Jahrh. angehoren, vorzuglich reprasentiert. Von dem Kaffeeservice sagt Bruning, daB es in vollendeter Malerei Blumen und kleine, zierlich ausgefuhrte Bilder mit Liebespaaren, spielenden Kindern u.a. zeigt".
+
+Aus mehr als einem Grunde erwahnenswert ist noch der Becher
+
+(No. 183) der Manufaktur Venedig: einmal zeigt er in der reichen Bemalung interessante Anlehnung an die Barockornamente der MeiBener
+Fruhzeit in freier Umarbeitung,besonders in den Figuren, dann aber ist er wahrscheinlich der Name eines MeiBener Uberlaufers, der in Venedig nach urkundlich wichtig,weil er voll signiert ist: Carlo Anreiter,Vz.— eigenem Stil zu arbeiten versuchte.—
+
+Was von den GefaBen dieser Sammlung neben dem kunstlerischen Wert vorzugsweise interessiert, ist, daB sie uns in seltener Vollstandigkeit ein Bild geben, wie seit der allgemeinen Einfuhrung von Kaffee, Tee, Schokolade, die Formen fur die einzelnen GefaBe bestimmte Typen annehmen; gleichzeitig aber auch,wie ein vollstandiges Service aussah, das von den Wohl habenden in eigens dazu angefertigten Kasten auf Reisen mitgefuhrt wurde.
+
+Das kunstlerische Milieu, in dem diese Sammlung bisher ihre Heimstatte hatte,ist ein vollstandig ebenburtiges. Die Arbeiten der Kleinkunst, besonders die franzosischen Bijouz, zeigen, welch feines Verstandnis Dr. Clemm der Kunst des 18. Jahrh. entgegenbrachte! Diese Facher, emaillierten Dosen,Miniaturen,die Flakons aus Halbedelstein in meisterhafter Goldmontierung zeigen, daB Frankreich im 18. Jahrh. in uberlegener Weise die Fuhrung hatte. Ein auBergewohnliches Stuck, wohl Familienbesitz,ist dasKehlheimer Stein-Medaillon mit dem Portrait des Pfalzgrafen Otto Heinrich, des Erbauers des Heidelberger Schlosses. Die Bronzen,von denen der romische Imperator von Puget a.d. ehemal. Sammlung Hainauer besonders beachtet zu werden verdient,— Silber,Mobel, Stoffe vervollstandigen das Bild zu einem harmonischen Ganzen.
+
+Unter den Gemalden sind es hauptsachlich die groBen Stilleben-Maler des 17. Jahrhunderts, die dem Sammlungszimmer einen stilvollen Hinter-
+
+Unter den Salonbildern iberwiegen die modernen: eine Saharet von prickelndem Reiz von Lenbach, ein Madchenkopf mit rotem Haar auf grunem Hintergrund von J. J. Henner, ferner M, Gaisser, Frits Thaulow, E.Verboeckhoven.
+
+grund gaben: van Aelst, J. Fyt, J. D. de Heem, J. van Huijsum, Mignon, Rachel Ruijsch, Hondecoeter, Gryeff, der seltene Colyer. Ein prachtiger Wijnants, Dorfkirche, gehort zu den besten Landschaften dieses feinen Stimmungsmalers, das vornehme Damenportrait Caspar Natscher's wurde schon auf der Ausstellung im Palais Redern viel bewundert.
+## I.AUCTIONSTAG:
+
+DIENSTAG,DEN 3.DEZEMBER 1907 VORMITTAG 11UHR.
+
+## BERLINER UND MEISSENER PORZELLAN.
+
+No.1-110.
+## A.BERLIN.
+
+## No.1——10.
+
+1. KORB, weiB, von ovaler, geschweifter Form, mit halbbogenformigen, geflochtenen Henkeln. Durchbrochenes Gitterwerk mit Schleifen in Form sich uberschneidender Halbbogen. An den Henkelrandern aufgelegte Blumen.
+
+H.10,3 cm,Durchm.25,5X19 cm.Marke Zepter in Blau.Ende 18.Jahrh.
+
+- 2.PUDEL, nach links, auf einem Kissen sitzend, rechte Vorderpfote erhoben. Grau gefleckt, das Kissen mit matt-purpurnen Streifen und goldenen
+- Quasten.
+
+H.13,3 cm,Durchm. des Kissens 9X7 cm.Marke Zepter.2.Halfte 18. Jahrh.
+
+- 3.MOPS,nach rechts, auf einem Kissen sitzend. Kopf, Rucken und Schwanz schwarz-grau. Matt-lila Halsband mit goldenen Schellen und SchloB. Das
+- Kissen weiB-gelb gestreift, mit purpurnen Blumchen und Quasten.
+
+H.7,3 cm,Durchm. des Kissens 3,6X5 cm.Marke Zepter. 2.Halfte 18. Jahrh.
+
+4. MILCHGUSS, ,Ordinair Ozier". Rand gewellt. J-formiger, goldgehohter Henkel, drei goldgehohte RocaillefuBe. Auf jeder Seite in breiter, goldener Rokokokartusche purpurne FluBlandschaft. Darin zwei Manner neben drei antiken Saulen mit Gebalk und Urne auf Sockel, bezw. zwei Angler unter einer Weide, links Muhle. Zwischen den Kartuschen vorn kleiner Goldschnorkel.
+
+H.10,2 cm.Marke Zepter. Um 1770. Ausstellung K.K.-Gew.-Mus.Berlin 1904. Brining, Europ. Porz. des 18. Jahrh., No.598.
+
+Reproduktton Tafel50.
+
+- 5.MILCHKANNE,birnenformig, Henkel -formig. Am Rande purpurnes treillage.
+- Schuppenmuster mit geschweiften Goldrandern. Auf den Flachen in bunter Malerei: a) Herr,auf einen Stein sitzend,mit Pfeife und Buch. b) Sitzende Dame auf einen Schirm gestutzt, hinter ihr Pfeiler mit Urne. Beide en Auf dem Deckel ahnliche Darstellungen. Streublumen,zum Teil vom Schuppenmuster herabhangend. Knaufblume purpur getupft, Henkel und AusguB goldgehoht.
+
+H.10,8 cm. Marke Zepter, eingekratzt H. 1.Um 1765. Ausstellung K.K.-Gew.-Mus.Berlin 1904. Brining,Europ.Porz. des 18.Jahrh.,No.577. Ausstellung Palais Redern Berlin 1906,No.461.
+
+Reproduktion Tafel 50.
+- 6.DOSE von rechteckiger Form, gerade Wandung mit abgerundeten Ecken. Silberne Montierung, vorn mit einem Zweig aus Rosen und Almadinen. Bemalung in Purpur camaieu. Auf der Wandung, AuBenseite des Deckels und am Boden Amoretten-Genres nach Boucher, auf der Innenseite des Deckels Genreszenen a la Watteau: SchloBterrasse mit zwei Damen und einem Kavalier.
+
+H.4 cm,B.8,3 cm, T.6,3 cm.Ohne Marke.2.Halfte 18.Jahrh.
+
+- 7.DOSCHEN fur Riechschwammchen,abgeflachte,oben und unten leicht
+
+H.4,4 cm,Durchm.3,7X3 cm.Ohne Marke. 2.Halfte 18. Jahrh.
+
+- geschweifte Tonnenform, in der Mitte nach beiden Seiten aufklappbar, Goldmontierung. Hellgruner Fond mit (auf jeder Seite) je zwei Kartuschen auf weiBem Fond mit farbig gemalten Genreszenen a la Watteau Kavalier und Dame), Umrahmung aus flach reliefierten, in Gelb und Purpur bemalten Rocaillen.Auf den Boden Blumen in Purpur.
+- 8.FRUHSTUCKSERVICE,bestehend aus Schokoladenkanne, Zuckerdose, Tasse nebst Untertasse und Anbietplatte. Birnenformig, Henkel -formig. Die viermal leicht eingezogene Anbietplatte mit geschlossenen Rocaillegriffen. ,Neuzierat" in Gold mit goldenem Gittermuster und einfarbiger, eisenroter Malerei: Watteaufguren in Landschaft, Herr und Dame sitzend, mit Lauten, Facher u.a., ganze und unterbrochene Blumengehange. Auf dem Deckel der Kanne Griff mit ziseliertem Lorbeerkranz und kleinem Schiebedeckel mit Blumen aus vergoldeter Bronze.
+
+Durchm.29,6 cm.Marke Zepter,einpepreBt O.13.Um 1765.
+
+Schokoladenkanne H. 11,3 cm, Zuckerdose H. 8,8 cm, Tassen H.4,5 cm,Anbietplatte
+
+In rotem, achteckigem Maroquin-Lederkasten mit Goldpressung.
+
+Reproduktton Tafel 1.
+
+Ausstellung K. K.-Gew.-Mus.1904. Palais Redern 1906,No.453. Brining, Europ.Porzellan des 18. Jahrh., No. 623.
+
+- 9.KAFFEE- UND TEESERVICE, bestehend aus Kaffee-, Milch-,Theekanne, Zuckerdose, drei Deckeltassen nebst Untertassen und Anbietplatte. ,Kurlander Muster".Die mit radiertem Golde verzierten Tuchgehange auf blaBgelbem Grunde, die Wandungen mit breitem,vergoldetem Stabwerk bedeckt. Formen der Kanne und der Zuckerdose aus der Urnenform entwickelt, Henkel goldgehoht in Form eines am unteren Ende verschlungenen Blattstiels, auf dem Rucken Perlreihe. Auf dem abgekanteten AusguBrohr ebenfalls Perlreihe, Goldornament und Blattwerk am Ansatz. GoldgefaBte Pinienknaufe auf vier Akanthusblattern. Tassen eiformig auf kleinem FuB, Untertassen gewolbt. Anbietplatte oval. Auf den Kannen je zwei, auf den Tassen ein ovales Medaillon, umrahmt von einem Rosenkranz,in denselben in bunter Malerei Putten auf Wolken mit Bogen, Kocher, Fruchten, Blumen, Floten u. a.
+
+Kaffeekanne H.17 cm, Milchkanne H.12,2 cm, Teekanne H.11,2 cm, Anbietplatte Durchm.
+
+35,6X28,6 cm. Marke Zepter, eingekratzt I und X. Um 1780.
+Dazu gehorig:Futteral, achteckig, Holz in braunem Lederbezug mit Goldpressung und Messingbeschlagen. Innen rote Seide.
+
+Ausstellung K.K.-Gew.-Mus.Berlin 1904. Brining,Europ.Porzellan des 18.Jahrh.,No.659.
+
+Reproduktion Tafel2.
+
+10. KAFFEE-SERVICE, bestehend aus Kaffee- und Milchkanne,Zuckerdose, zwei Tassen nebst Untertassen und Anbietplatte. Birnenform,in der unteren Halfte leicht eingezogen, Henkel in verschnorkelter -Form mit kleinen, an der Wandung anliegenden Blutenzweigen. Die Einsatze aus niedrigen, geschweift mit gewolbtem Rande und durchbrochenen, gold und blaBrot gehohten Rocaillegriffen. ,Neuzierrat" in Gold mit goldenem Gittermuster und einfarbiger,eisenroter Malerei:Watteaufiguren in Landschaft,Herren und Damen mit Lauten, servierenden Dienern,Kindern usw.,Blumen (auf dem Grunde der Einsatze), ganze und unterbrochene Girlanden. AusguBe, Henkel und Einsatze goldgehoht.
+
+Kaffeekanne H.20 cm,Milchkanne H.11,7 cm,Zuckerdose 8,4 cm,Durchm.der Anbietplatte 43X31,5 cm.Marke Zepter und S., eingpreBt K.2. Um 1765.
+
+Ausstellung K.K.-Gew.-Mus. Berlin 1904.
+
+Bruning,Europ.Porzellan des 18. Jahrh.,No.622.
+
+Friherim Besitz der Familie von Pfuel-Wilkendorf.Deren Vorfahr,der Dichter und General De la Motte-Fouque erhielt dieses Service als GeschenkFriedrich des GroBen mit folgendem Brief des Konigs:
+
+"Apres que vous avez insulte ma manufacture de porcelaine,il faut mon cher, "que je la justife. Je vous envoye un dejeune aussi beau que le ne jamais "on a travaille a Meissen et vous verrez le meme tems une tasse peint en figures qui vous convaincra que notre ouvrage vaut au moins celui de Saxe.. Nous nous occupons ici a tirer notre poudre aux moinaux,le tems est froid,mais cela n'empeche pas, que nous naillons notre chemin. Adieu mon cher, je vous souhaite bonne sante, "contentementetvie." Frederic.
+
+22.d'Avril1764.
+
+Reproduktion TafelI.
+
+<!-- image -->
+## B. MEISSEN.
+
+## No.11—110.
+
+11. MINIATURDOSCHFN, in Form eines Eies, in der Mitte aufzuklappen farbigen Streublumen.
+
+Gr.2,7 cm. Ohne Marke.2.Halfte 18.Jahrh.
+
+12. ZWEI MINIATUR-VASCHEN MIT DECKEL, birnformig mit eingeZogenem FuB und kurzem Hals. Goldrander. WeiBer Fond mit farbigen BlumenstrauBen.
+
+H.4 cm.Schwertermarke. 2.Halfte 18. Jahrh.
+
+13. ZUCKERDOSE MIT DECKEL,flache,achteckige,karnisformig profilierte Form mit eingezogenem Rand und FuB. Der Deckel ebenfalls profiliert und gekehlt, der Knauf hoch herausragend (Irminger Modell). Ganz bemalt mit Goldornamenten,gegittertes Band mit Barockornamenten, Randlinien und Kehlungen glatt gold.
+
+H. 7,5 cm (m.Deckel), B. 11 cm,T. 8 cm. Ohne Marke. Mitte 1725.
+
+Reproduktion Tafel 25.
+
+14. TEEBUCHSE MIT DECKEL,gerade Form von langlich-vierpaBformigem Querschnitt. Turkisblauer Fond mit zwei VierpaBmedaillons,bemalt mit Seeprospekt bezw.Landschaft mit Burgruine und Figuren in Purpur camaieu. Glatt goldene Randlinie. Schulter weiBer Fond mit Purpurblumchen; gerader Hals mit goldenen Profilen. Der Deckel mit zwei kleinen VierpaBmedaillons und Purpurmalerei, oben eine in Gold gemalte Rosette. H.12 cm, Durchm.6,3X8 cm. Marke Goldenes S auf Boden und im Deckel, im ersteren
+2. eingekratzt P.
+
+Reproduktion Tafel50.
+
+15. TEEKANNE, weiB,bauchige Form mit halbrundem Henkel, Deckel und kurzem AusguB mit Maskaron.Auf beiden Seiten der Leibung reliefierter BlumenstrauB, am Hals Lambrequinbordure. Auf dem Deckel drei einzelne reliefierte Blumen. Der spitze Knopf ist durch silbernes Kettchen mit
+2. dem in Silber montiertem AusguB und dem Henkel verbunden.
+
+H.13,6.Ohne Marke.Vor 1720.
+
+Reproduktion Tafel 17.
+
+16. ZWEI TASSEN MIT UNTERTASSEN,flache Schalenform ohne Henkel
+2. und Bemalung in Purpur camaieu, Genreszenen a.la Watteau,Liebespaar auf
+einer Bank unter Baumen. Auf dem inneren Lippen-Rande Goldspitzenbordure. Auf den Untertassen musizierendes bezw. Menuett tanzendes Paar. Am Rande Goldspitzenbordure. Auf dem Boden der Obertassen Rocailleornament.
+
+H. der Obertasse 4,3 cm, Durchm.7 cm, Marke Schwerter, eingepreBte Nummern. Um 1760. Reproduktion Tafel 25.
+
+17. LICHTTULLE in Form eines spitzen Kegels, mit aufgebrochener Frucht als Bekronung.Henkel eckig. Am unteren Rande reliefierte Blutenbordure. Bemalung in Eisenrot und Gold in japanischem Stil mit zwei sich gegenuberstehenden Ho-Ho's und Emblemen. Randlinien vergoldet.
+- H. 8,5 cm,Durchm.4,3 cm. Marke Schwerter. Ende 18. Jahrh.
+18. KATZCHEN, sitzend, die rechte Pfote sich leckend. Dunkelbraune
+4. Flecke.
+
+H.3,3 cm. Marke Schwerter. 2.Halfte 18. Jahrh.
+
+- Der Fond unter Glasur reliefiert mit Schwanen, Wasservogeln, Muscheln, Wasserpflanzen usw., im Hintergrund strahlenformig bis uber den Rand sich erstreckend eine stilisierte Muschel, davor ein fliegender Reiher.Auf dem Rande "indianische" Blumen und das Graflich Bruhl'sche Wappen.Der
+- 19.TELLER aus dem ,Schwanen-Service". äuBere Rand gebogt, gestrichelte Randbordure in Gold.
+
+Durchm.23,5 cm.Marke Schwerter.Mitte 18.Jahrh.
+
+Reproduktion Tafel 27.
+
+20. SAUCIERE mit dem Muster des Schwanenservices, Griff in Pflanzenform, seegrun und grun getupft, am unteren Ende mit lilafarbenem Bande. Auf den Flachen bunte indianische" Streublumen.Goldrand mit un-
+2. gleichen Zahnen.
+
+H.15,8 cm,B. 22,5 cm.Marke Schwerter, eingekratzt 28.Mitte 18.Jahrh. Ausstellung K.K.-Gew.-Mus.Berlin 1904. Brining,Europ.Porzellan des 18.Jahrh.,No.141.
+
+Reproduktton Tafet 27.
+
+21. STOCKKNOPF, runde, sich verjungende Form, flach gewolbt. Bemalung: Auf der Wolbung Rocaille-Kartusche mit Elblandschaft,im Hintergrund eine Burg, rechts Manner mit Warenballen. Auf der Rundung violette Schuppen, mit Rocaille-Ornamenten gegen den weiBen Fond des Stiels abgesetzt. Auf diesem friesartige FluBlandschaften mit Ruinen, Schlossern und reicher Figurenstaffage....
+
+H.4,5 cm.Ohne Marke.2.Halfte18.Jahrh
+- 22.MOPS,auf einem Kissen sitzend, Ohren gestutzt,Purpur-Halsband mit Schellen.Fell gelblich-braun, das Kissen kobaltblau mit breitem, gebogenem, goldenem Rande, gruine Konturen mit Purpurblumen und Goldquasten an den Ecken. Auf dem Purpur-Halsband in weiB ausgespartes Monogramm C.A.
+
+H.6 cm.Kissen 7X5cm.Ohne Marke.Mitte 18.Jahrh.
+
+23. POMPADOUR-BODEN,vierseitig abgerundeter Schalenform,a jour gearbeitet. Kontur geschweift, am Rande gelocht (zum Annahen des Beutels). Reich verschlungenes symmetrisches Bandel-Ornament mit Palmetten an den Ecken und Kartuschen in den Zwischenfeldern. In der Mitte ein viereckiges Feld bildend, dessen Ecken in Form von Muscheln mit hochstehenden Voluten die FuBchen bilden.In den vier Kartuschen und dem
+2. Mittelfeld fein gemalte farbige Genreszenen a la Watteau.
+
+H.3 cm,Durchm. 9,5 cm.Marke Schwerter. 2. Halfte 18. Jahrh.
+
+Reproduktion Tafel25.
+
+24. DESGLEICHEN, gleiche Form wie Vor.,reicher bemalt. Konturen mit Gold gehoht, die Muscheln und Palmetten purpurfarbig. In den Kartuschen und dem Mittelfelde Soldaten-Genres: Einzelfiguren und Soldaten mit
+2. Madchen.
+
+H.3 cm,Durchm. 9,5 cm. Marke Schwerter.2.Halfte 18.Jahrh. Reproduktion Tafel 25.
+
+25. FIGUR,MADCHEN MIT SCHAFCHEN; auf reliefiertem Rocaillesockel mit Vergoldung. Kostum mit Spitzenputz.Bemalung: WeiBes,reich vergoldetes Haubchen mit einem grunen,rotgetupften Barett mit Schleife, faltiger, geraffter Rock mit gelben Langsstreifen (rote Blumchen mit grunen Blattern) und grau schraffierten Streifen. Unterkleid grune und weiBe Streifen mit roten Punkten, rosa Schuhe.
+
+H.14,5 cm. Schwerter mit Stern in Blau, und eingepreBte Schwerter im Dreieck. Marcolini, Ende 18.Jahrh.
+
+26. TASSE MIT UNTERTASSE,gerade, zylindrische Form mit ohrmuschelformigem Henkel. Untertasse mit hohem, schrag abstehendem Rande, Bemalung: Orangefarbiger Rand mit Goldpique, gegen den weiBen Fond durch zierliche goldene Rocaillen abgesetzt. An drei Stellen hangen reiche Blumenzweige mit schwungvollen Ranken herab, durch blaue Schleifen befestigt.
+
+H.8 cm,Durchm.7 cm,Durchm.der Untertasse 15,5 cm.Schwerter mitPunkt.2.Halfte18.Jahrh.
+
+27. MOPS,nach links stehend, Schwanz geringelt. Kopf, Rucken und Schwanzdunkelbraun...Halsband grun mit Goldrandernund PurpurSchleife.
+
+H.5,4 cm,Lg.5,5 cm.Ohne Marke.2.Halfte 18. Jahrh,
+- 28.MOPS, nach rechts stehend; bemalt wie der Vorige. Purpurnes, goldge-
+- tupftes Halsband mit goldenen Schellen und gruner Schleife. H.5,4 cm, Lg. 5,8 cm.Ohne Marke.2. Halfte 18. Jahrh.
+29. LIEGENDE HIRSCHKUH, Kopf seitwarts spahend gewandt. Natura-
+- listisch bemalt.
+
+H.5 cm,Lg.8,8 cm. 2.Halfte 18. Jahrh. Ohne Marke.
+
+30. TASSE MIT UNTERTASSE, hohe gerade Becherform, am FuB eingezogen, leicht geschweifter Rand. Henkel ohrmuschelformig, ganz vergoldet. Bemalung: Auf der Stirnseite eine Kartusche mit Prospektmalerei Die Umrahmung in Form eines Podestes, unten mit Lambrequinmotiv, oben in Form eines Baldachins abschlieBend,reich in Gold mit purpurnem Rankenwerk gemalt. Seeprospekt mit vielen Schiffen,vorn drei Figuren eine in Gold gemalte Damastbordure,mit vier kleinen VierpaBmedaillons und FluBlandschaften mit Figuren in Purpur camaieu.Auf der Untertasse FluBlandschaft mit hohem Gebirge. Vorn unter einem groBen Baum vornehme Gesellschaft an einem Meilenstein (mit Posthorn). Umrahmung und Randbordure wie bei der Obertasse.
+
+H. der Obertasse 7,3 cm,Durchm.7 cm,Untertasse Durchm.13,2 cm.Marke Schwerter und Goldnummer 47.-Um 1740. Reproduktion Tafel19.
+
+31. TASSE MIT UNTERTASSE,Schalenform ohne Henkel. Bemalung und Umrahmung wie die Vorige (vom gleichen Service).Auf der Obertasse zwei Medaillons: a) Binnenlandschaft mit vornehmer Gesellschaft im Vordergrunde, unter einem Baum lagernd, b) FluBlandschaft, vorn Gesellschaft von mehreren Figuren an einem Meilenstein (Posthorn und 734:1734, das Laub eines Baumes bedeckt die ,1".Im Fond ebenfalls Landschaft,Untertasse wie oben.
+
+H.der Obertasse 4,7 cm,Durchm.8 cm.Marke Schwerter und Goldnummer 47.
+
+Reproduktton Tafel 25.
+
+- 32.KAFFEEKANNEMIT DECKEL. Geschweifte bauchige Form mit ?-formigen Henkel und vergoldetem AusguB.WeiBer Fond mit zwei groBen Vierpabmedaillons: Binnenlandschaft mit einem Haus unter hohen Baumen im Vordergrunde,mehrere Figuren als Staffage.Weiter Horizont. Umrahmung in Form einer reichen Rankenwerkkartusche in Gold und schwarzen Konturen.Auf dem weiBen Fond deutsche Blumen und Insekten mit Schlagschatten. Am Rande Spitzenbordure.Auf dem Deckel zwei Landschaften mit Figuren, der Rand in Gold montiert, der Deckelknauf in Form einer Rokokokartusche in Gold.Der Henkel
+- goldschwarz bemalt.
+
+H.18 cm.Marke Schwerter,Um 1750,
+33. KLEINE FIGUR, KAVALIER, stehend, den rechten Arm in die Hufte gestitzt, mit der linken die weiBe Nachtmitze quer uber den Leib haltend. Kopf halb links gewandt. Kostum: Schlafrock mit gruner Scharpe, hellila Fond mit ,indianischen"Blumen,Innenseite gelb.
+
+Reproduktion Tafel 26.
+
+H.6 cm.Marke Schwerter. Mitte 18.Jahrh.
+
+- 34.DESGLEICHEN,KAVALIER,an einem Baumstamm stehend,den linken FuB vorgesetzt, Kopf halb nach rechts gewandt. Beide Hande stecken in einer grofen Pelzmuffe. Kostum: Schwarzer Dreimaster, schwarze Schleife im Zopf, gruner Rock mit Pelzbesatz und goldenen Knopfen, violette Weste (nur die Zipfel sichtbar), gelbe Beinkleider, weiBe Strumpfe,
+- schwarze Schuhe.
+
+H.6,5 cm.Marke Schwerter.Mitte 18.Jahrh.
+
+Reproduktion Tafel 26.
+
+- 35.DESGLEICHEN,DAME,schreitend,Kopfchen nach rechts gewandt,beide Hande in gelber Muffe mit Pelzbesatz. Kostum: WeiBes Haubchen mit lila Band und Schleife, weifer Pelerine, violetter Taille mit offenen Armeln, weiBer Rock mit ,indianischen" Blumen bemalt,violette Schuhe mit gruner Schleife.
+
+H.6 cm. Marke Schwerter. Mitte 18. Jahrh.
+
+Reproduktion Tafel 26.
+
+36. TASSE MIT UNTERTASSE, VierpaBform ohne Henkel. AuBerer Fond dunkelpurpur uni, auf der Obertasse vier schwarz konturierte Reserven in VierpaBform, farbig bemalt mit Seeprospekten und Figurenstaffage. Am inneren Lippenrande Goldspitzenbordure,im Spiegel ,indianische" Blumen. Im Spiegel der Untertasse VierpaBmedaillon mit Seeprospekt, Schiffen,Figuren, felsige Ufer mit Burgen,in den Zwickeln Goldornamente auf Listergrund. Am Rand Goldspitzenborduire.
+
+H. d.Tasse 5,5 cm,Durchm.7,5X6,5 cm, Untertasse 11X10,5 cm.Um 1740. Marke Schwerter. Reproduktion Tafel25.
+
+- 37.TERRINE, oval, mit Dulongs-Relief-Zierraten". Griffe in Form zweier verschlungener, goldgehohter Rokokomuscheln mit durchgestecktem, buntem Gemusekolben.Als Knauf: sitzender FluBgott, auf eine goldgehohte Urne gestutzt, mit blab-gelbem, dunkelpurpur geblumtem Gewandstick,in der Rechten Schnecke, um ihn herum bunte, aufgelegte Blumen. In der goldgehohten Kartusche Blumen, auf den Flachen verstreut schattenwerfende Insekten.Goldrander.
+
+H.23,5 cm,Durchm.26X18 cm. Ohne Marke. Mitte 18.Jahrh. Ausstellung K.K-Gew.-Mus.Berlin 1904. Bruning, Europ.Porzellan d. 18. Jahrh.,No.279.
+- 38.TELLER, Ordinair Ozier",Fels mit Paeonien,Chrysanthemen und Vogel in der Art des Dekors der chinesischen Famille verte".Auf dem Rande Streublumen.
+
+Durchm.23 cm.Marke Schwerter.Eingekratzt E.Um 1735. Ausstellung K.K.-Gew.-Mus. Berlin 1904. Bruning, Europ. Porzellan des 18. Jahrh., No. 137.
+
+Reproduktton Tafel 27.
+
+- 39.ZUCKERDOSE, oval, gewolbt, mit Pinienknauf.Als Griff je ein kleiner, nach links gewandter Frauenkopf auf kleiner Doppelvolute mit Palmette und Schleife; die vier FuBe Barockvoluten mit Palmetten. Malerei im Stil der ,Famille verte", dazu Fels mit Paeonien und Schmetterling.
+
+H.10,8 cm,Durchm.12,5X9,7 cm. Marke Schwerter.Um 1735.Ausstellung K.K.-Gew.-Mus. Berlin 1904. Bruining,Europ.Porzellan des 18.Jahrh.,No.138.
+
+Reproduktion Tafel 17.
+
+40. ANBIETPLATTE MIT ZUCKERDOSE UND ZWEI KAFFEETASSEN. Platte kleeblattformig, mit kurzem, schrag abstehendem Griff, der mit goldgehohtem,plastischem Rokoko-Ornament (am Ansatz Muschel) geziert schlungenem, zum Teil aufgerolltem Bandwerks mit Akanthuskelchen. Zuckerdose leicht gewolbt, mit purpurner Blume als Knauf. Henkel der Tassen verschnorkelt. Bemalt mit bunten BlumenstrauBen und Streublumen.
+
+Durchm. der Anbietplatte 29X26 cm,Zuckerdose H.8,7 cm,Tassen H.7 cm.Marke Schwerter mit zwei Punkten,eingepreBt 26 u.28. Mitte 18. Jahrh.Dazu gehorig:Futteral, den Formen Ausstellung K.K.-Gew.-Mus.Berlin 1904.
+
+Brining,Europ.Porzellan des 18.Jahrh., No.226.
+
+41. SCHUSSEL,tief, mit schrag ansteigendem Rande. "Indianische" Malerei; im Spiegel Stauden mit zwiebelartigen Bluten,den ganzen Grund fullend,in unterglasurblau mit Goldkonturen. In der Hohlkehle grune, schwarz punktierte Zone mit gelben Randern, auf dieser am
+
+<!-- image -->
+
+Rande halbe Bluten in Eisenrot und Gold und funf grune und blaue, symmetrisch angeordnete Blatter; in der Zone ausgespart vier ovale Felder mit je einem abwechselnd roten und schwarzen Fische zwischen rot gestrichelten Wellen. Auf dem Rande bunte Streublumen und Borte von unterglasurblauem Gittermuster.
+
+H.7,4 cm,Durchm. 40,3 cm. Marke Schwerter, und K. H. C. in Purpur. Um 1730. Austellung K.K.-Gew.-Mus.1904. Brining,Europ.Porzellan des 18. Jahrh.,No. 80.
+
+Reproduktion Tafel 27.
+- 42.VASE, birnenformig, mit kurzem Hals, weitausladendem Rande und einindianischer"Malerei. In zwei vierpaBformigen, goldgeranderten Feldern: Fels mit Vogel, Blume und Schmetterling und Blutenbaum in chinesischer Art. Fuss mit Goldrand. Alte Fassung in vergoldeter Bronze; am Hals profilierter Rand, als Griffe zweifuBige Drachen,profilierter FuBrand.
+
+H.16 cm.Ohne Marke.Um 1730. Ausstellung K.K.-Gew.-Mus.Berlin 1904. Bruning,Europ.Porzellan des 18. Jahrh.,No.126.
+
+Reproduktion Tafel 13.
+
+- 43.DECKELTASSE MIT UNTERTASSE.Tasse (ohne Henkel) fast zylindrisch, mit leicht gewolbter Wandung. Deckel gewolbt, als Knauf Kirsche. Rand der Untertasse schrag ansteigend. Der Grund bedeckt mit dunkelpurpur ,Mosaique".In je zwei Kartuschen, von goldenen Rocaillen und Blumen umrahmt, bunte exotische Vogel auf Stauden (im
+- Sevres-Stil).
+- H. der Tasse 11 cm,Durchm.8,7 cm. Marke Schwerter, goldene 19,eingepr. 55. Mitte
+
+18.Jahrh.
+
+Ausstellung K.K.-Gew.-Mus. Berlin 1904. Bruning, Europ.Porzellan des 18.Jahrh., No. 245.
+
+Reproduktton Tafel 16.
+
+- 44.SCHACHARTIGES SPIEL (KRIEGS-SCHACHSPIEL),bestehend aus 40 Figuren, zur Halfte mit Unterglasurblau und Fleischfarbe bemalt. Die Gewander der Chinesen mit indianischen Blumen,die anderen Figuren blau gehoht. Niedrige, viereckige Sockel mit Hohlkehle, bei den meisten den Ecken Rocaille-Ornament,von dem dunne Ranken ausgehen.
+- a) Chinesischer Kaiser mit gekreuzten Beinen auf rundem Polster sitzend, nach links gewandt, die Rechte erhoben,die Linke an der Hufte; Spitzhut, Mantel und weitarmeliges, bis zu den beschuhten FuBen
+- reichendes Gewand (zweimal).
+
+H.8cm.
+
+- b) Kniender Chinese; die Hande gefaltet (viermal).
+2. H.6,7cm.
+- c) Elefant mit rundem Turm auf lambrequinartig ausgeschnittener Decke (viermal).
+4. H.6,5 cm.
+- d) Springer mit Pferdekopf (viermal).
+
+H.5,3cm.
+
+- e) Muschelformiger, zweiradriger Wagen mit bartiger Maske auf der Ruck-
+2. seite(viermal).
+
+H.4,8cm.
+
+- f) Kanone auf Lafette, ohne besonderen Sockel (viermal).
+
+H.2,5cm.
+- g) Buste eines Chinesen mit Spitzhut und Mantel (achtzehnmal). Futteral:flacher,viereckiger Kasten mit Lederbezug. Innen rotes Leder. H.5,6 cm.Marke Schwerter (auf einer Kanone).Mitte 18. Jahrh. Ausstellung K. K.-Gew.-Mus.Berlin 1904. Brining,Europ. Porzellan des 18. Jahrh.,No. 575.
+
+Reproduktion Tafel10.
+
+- 45.DECKELNAPF, chinesische Form. Der Deckel mit geradem,abgesetztem, ganz vergoldetem Rand (als FuB).Auf der Leibung drei Postamente, die sich aus dem reichen Barock-Ornament entwickeln.Auf diesen Podien Chinesenfiguren in mannigfaltiger Beschaftigung: zwei Figuren mit Brennspiegel, zwei an einem Feuerherd, zwei mit Fahne. Im Laub- und Bandelwerk kleine VierpaBmedaillons eingeschlossen,mit Figuren und Prospekten bemalt. Farben Eisenrot, Grun,Braun,Purpur,Luster und Gold. FuB- und Lippenrand ganz vergoldet. Die Malerei des Deckels analog derjenigen des Napfes,drei Postamente mit Figuren.In der Mitte ,indianische"Blumen.
+
+H.mit Deckel 8,4 cm,Durchm.10 cm.-Marke Schwerter.Um 1725-30.
+
+Reproduktion Tafel 19.
+
+46. KAFFEE-UND TEESERVICE,bestehend aus Teekanne, MilchguB,
+2. Zuckerdose, zwei Tee- und zwei Kaffeetassen nebst Untertassen, Anbietplatte und zwei Teeloffeln. Teekanne kugelig.Henkel und AusguBrohr zweigartig gebildet,als Knaufe Knospen.MilchguB auf drei FuBen. Anbietplatte oval, mit geschweiftem Rande.Tassen gewolbt, Loffel mit muschelformiger Schale,Griff in Form von Pflanzenstielen.Bemalt mit Bauernbildern in grauer Malerei: Bauernfamilie in Landschaft, essend, trinkend und mit den Kindern spielend. An den Randern dunne Blumenzweige in Gold und Eisenrot, Henkel, Ausguisse und Knauf goldgehoht; gezahnte Goldrander.
+
+In lederiberzogenem Holzkasten.
+
+H. der Teekanne 9,2 cm, MilchguB 8,2 cm,Zuckerdose 9 cm,Kaffeetassen 5,3 cm, Durchm. der Anbietplatte 32,3X23,7 cm.Marke Schwerter mit Punkt, eingepreBt bezw.eingekratzt 28,50,53,55und H.-2.Halfte 18.Jahrh.
+
+Ausstellung K.K.-Gew.-Mus.1904. Bruning,Europ.Porzellan des 18.Jahrh., No. 300.
+
+Reproduktion Tafel 22.
+
+- 47-48. ZWEI SALZGEFASSE in Form von bauchigen, muschelformig gerippten Rokoko-Vasen, mit engem,hochaufstrebendem Halse und goldgehohten Rocaille-Ornamenten. Vorn mit einer Oeffnung in VierpaBform. Runder Sockel.An den Vasenkorper schmiegt sich grazios je eine Figur das eine Bein hochgezogen,mit dem anderen den Boden berihrend.
+- a)weibliche Figur,Der Sommer,mit weiBem Kopftuch und fliegendem, weiBem Tuch um die Schultern,rosa Mieder,gelber Rock mit purpur-
+farbiger Blumenbordure, das feine Kopfchen seitwarts geneigt, die linke Hand umfaBt die Vasenbekronung, die rechte halt ein Aehrenbuschel. Am Sockel Aehren und Blumen.
+
+- b) Jungling, Der Winter", mit gelbem Hut und purpurfarbiger Feder, violettem,pelzverbramten Rock,rosa Weste und gelben Hosen,Schlittschuhe an den schwarzen Schuhen,beide Hande sich an einem Feuer auf dem Vasenhals warmend.
+
+Marke Schwerter in Blau.H. 14,5 und 16 cm. MeiBen,Mitte 18. Jahrh.
+
+Reproduktion Tafel 18.
+
+- 49-50. ZWEI FLASCHEN, achtkantige Birnenform mit langem Halse. Bauch geteilt in acht abwechselnd weiBe und seegrune Felder, in den weiBen Feldern indianische"Blumenstauden (Chrysanthemen und Paeonien) nebst Insekt. Auf der Schulter nach oben gekehrtes Goldspitzenornament mit Palmette.Am Rande gestrichelte Goldzacken, am Halse Streublumen. H.22,2 cm.Marke Schwerter in Unterglasurblau und Purpur, eingeschliffen N=291. Um 1730.
+
+Reproduktion Tafel24.
+
+- Ausstellung K.K.-Gew.-Mus.Berlin 1904. Brining, Europ. Porzellan des 18. Jahrh, No.129/130.
+51. TISCHGLOCKE NEBST UNTERSATZ. Griff profiliert, dreimal eingezogen. Untersatz quadratisch,mit leicht nach innen geschweiften Seiten und eingezogenen Ecken. Bunte Chinoiserien: Um die Glocke zieht sich eine Mauer in Gestalt eines Goldbandes mit eingravierten Wellenranken, halb derselben, sowie auf den Treppen Chinesen in verschiedenen Beschaftigungen. Auf der Schulter der Glocke ausgezacktes,goldenes Schuppenmuster mit dunkel-purpurnen Stoffgehangen; unten am Rande, innen und aufen Goldzacken.Griff mit Gold- und Dunkelpurpur-Ornament, dazwisehen kleine, ovale Chinoiserien in Eisenrot und Dunkelpurpur. Untersatz ahnlich dekoriert.Am Rande ausgezacktes Schuppenmuster. mit vier stehenden,radial angeordneten Chinesen.Auf der Ruckseite vier "indianische"Blumenzweige und vier Insekten.
+
+H.12,3 cm,Durchm.10 cm,Untersatz,Durchm.15,3 cm,Marke auf dem Untersatz: Sehwerter mit Knauf. Um 1730.
+
+Reproduktion Tafel 25.
+
+Ausstellung K.K.-Gew.-Mus.Berlin 1904. Bruning,Europ.Porzellan des 18. Jahrh., No.153.
+
+- 52.KORB, oval, mit zwei senkrechten Griffen, auBen Strohgeflecht mit drei vergoldeten Reifen, innen glatt,mit bunter indianischer" Malerei.Auf dem Boden Fels (in Luster) mit Paeonien und Chrysanthemen,Vogel und Streublumen.Am inneren Rand Borte aus Streifen mit verschiedenartigem rotem Gittermuster gebildet,auf jedem Streifen abwechselnd eisenrote und
+dunkelpurpurneBlume nebst sechs Blattern.Die vergoldeten Henkel gehen von je einer weiblichen und mannlichen bartigen Maske aus, deren Haarschmuck die verschiedenen Jahreszeiten versinnbildlicht,hinten greifen von den Masken aus.zwei goldgehohte Voluten uber die innere Randborte iber.
+
+H.10,5 cm,Durchm.25X18 cm.Marke Schwerter.Um 1735. Ausstellung K.K.-Gew.-Mus.Berlin 1904. Brining, Europ. Porzellan des 18. Jahrh.,No.139.
+
+Reproduktion Tafel 17.
+
+<!-- image -->
+
+53. TEETASSE NEBST UNTERTASSE, geschweifte Wandung mit ausladendem Rande. Chinoiserien in Ueberglasurblau auf vierpaBformigen,goldgeranderten Feldern,die von buntenindianischen"Blumen (Chrysanthemen,Nelken) umrahmt sind.Auf der Tasse:a) stehender Chinese mit Rahmen, b) stehender Chinese mit Teekessel; auf der Untertasse: stehender Chinese mit Schirm und Stab,mit Sichel unter dem Arm. Auf der freien Flache kleine Insekten und Streublumen.Breite Goldspitzenrander mit je vier groBen Zacken.Auf dem Grunde der Tasse bunte Blumen, auf der Ruckseite der Untertasse zwei Blumenzweige.
+
+H. der Tasse 4,5 cm, Durchm. 7,3 cm.Marke A.R.Um 1730. Ausstellung K.K.-Gew.-Mus.Berlin 1904. Bruining, Europ. Porzellan des 18. Jahrh., No.167. Sammlung Habich-Cassel 1901,No. 508.
+
+Reproduktion Tafel25.
+
+- 54.KAFFEEKANNE, birnenformig,,Ordinair Ozier".Henkel aus drei mit breitem Flechtwerk gezierten Voluten zusammengesetzt.Am SchnabelausguB weibliche Maske mit buntem Federputz und goldgehohtem Tuchbehang. Deckel mit Perlstabrand,iberfallendem Blattkranz nnd Knauf in Form einer vergoldeten Blute auf kurzen eisenroten Blattern. Unterhalb des Ausgusses in bunter Malerei Wappen des Generals von Munnich, umgeben vom Andreasorden unter einem von einer Krone iberragtem Baldachin, zu beiden Seiten zwei kleinere, gekronte Schildermit dem Monogramm M； unter demselben Inschrifttafel (Obsequio et candore) auf Gittermuster;als unterer AbschluB der ganzen Komposition Tuchgehange mit Quasten. Auf den leeren Flachen sparsam verteilte, bunte indianische" Blumen.Auf dem Rucken des Henkels kleine,'rechteckige Felder mit federartig gestricheltem Purpurornament.
+
+Reproduktion Tafel 8.
+
+H.23,5 cm.Marke Schwerter (EingepreBt ) 1738. Ausstellung K.K.-Gew.-Mus.Berlin 1904. Brining, Europ. Porzellan des 18. Jahrh., No.140.
+
+- 55.KANNE,eiformig,mit eingezogenem FuB,kurzem,breitem Halse,einem an der Schulter ansetzenden, auf einem Blatte ruhenden AusguBrohr und silbernem Deckel.Imaridekor: Am Korper Bambus und Mumezweig mit
+Phonix,ein Zweig ragt bis.iber die andere Seite hin.Am Halse Blumenzweige. Am FuB seegrune Wellenranke mit eisenroten Bluten. Auf dem Rucken des Henkels Blumen. Im Deckel eingelassene Silbermunze;Avers: Brustbild nach Rechts,im Panzer. Umschrift:Frid. Aug. D. G.Elect. Sax.In Regem Polon. Elect. 1697. Revers:Dem als Hydra bezwingenden Herkulesdargestellten Fursten uberbringt eine Frauengestalt die Konigskrone.. Umschrift:Nec me labor ille gravabit.Unterschrift: Herculi Saxonico. Bezeichnet G.H. Um die Munze herum flachgetriebene Wellenranke mit Blumen und zwei Reihen schrager Riffeln.Henkelauf lage mit gravierter Akanthusranke.
+
+H.21 cm.Marke Schwerter.Um 1730. Ausstellung K.K.-Gew.-Mus.1904. Brining,Europ.Porzellan des 18.Jahrh.,No.104.
+
+Reproduktion Tafel 8.
+
+- 56.KRUG MIT SILBERVERGOLDETEM DECKEL.Gerade,cylindrische Form mit wenig geschweiftem Henkel, der FuB in silbervergoldete Platte gefaBt. Der Deckel karnisformig profiliert, der Henkelknauf elegant gegliedert in Form gespaltener Volute mit Akanthusblatt.—Der Fond der Leibung Koboltblau, auf der Stirnseite ein groBes VierpaBmedaillon mit minutios ausgefuhrter Prospektmalerei.Hafenlandschaft mit felsigen Ufern, das Wasser reich belebt durch Schiffe, auf einer Halbinsel des Mittelgrundes zahlreiche Figuren,Kaufleute, Fischer, Kameltreiber mit Tieren usw. Vorn links eine Gruppe vornehmer Herren und Chinesen. Weiter Blick in die Landschaft, weiter wolkiger Himmel. Umrahmung in Gold- und Silberlack gemalt, reiches Barockornament mit Ranken und Gitterwerk,rechts und links Podien mit silbernen Chinesenfiguren.Auf dem blauen Fond verstreute, fliegende, groBe Vogel und Schmetterlinge. Am Lippenrand reiche Spitzenbordure in Gold mit silbernen Rosetten. Auf dem weiBen Henkel reiches Goldornament mit Purpur.
+
+H.15,5 cm, Durchm.10,8 cm.Ohne Marke.Um 1735-40. Ausstellung Palais Redern Berlin 1906.
+
+Reproduktion Tafel 13.
+
+57. DECKELTASSE NEBST UNTERTASSE. Henkel in Form goldgehohter Zweige mit purpurnen Blumen. Wandungen geschweift. Der gewolbte gehohtem Blatt und Stiel.Bemalt mit bunten BlumenstrauBen und Streublumen mit vorherrschendem Purpur, zwischen denen parallel laufende breite Purpurbander mit Goldspitzen sich schrag von oben nach unten
+2. Deckel in halber Hohe eingezogen. Als Knauf purpurne Blume mit golduber,die Wandungen ziehen.
+
+H.15,8cm,Durchm.11.cm.Marke Schwerter mit Punkt, auf der Untertasse eingekratzt —6. Um1770.
+
+Ausstellung K. K.-Gew.-Mus. Berlin 1907.
+
+Brining,Europ. Porzellan des 18. Jahrh.,No.231.
+
+Reproduktton Tafel 17.
+58. SERVICE, bestehend aus einer groBen und zwei kleineren Terrinen mit Deckel und 22 flachen Tellern. ,Neu Brandenstein". a) Terrine: Griffe in Form zweier verschlungenerRokokomuscheln mit durchgesteckten Gemusekolben. Als Knauf Putto mit blaB-lila Gewand an goldenem Bande, aus einem Fuillhorn bunte Blumen und Fruchte ausschuttend. Auf den Gruppen von bunten Vogeln auf Stauden. Goldrander. b) die kleineren Terrinen, ahnlich. c) Teller, mit bunter Malerei, im Spiegel Vogel auf Pflanzenstauden.Auf dem Rande achtmal aufgehangte Blumengirlande.
+2. Goldrand.
+
+Terrinen a) H.17 cm,Durchm.22,5X14,6 cm;b) H.17,7 cm, Durchm.22X15 cm; c) Teller, Durchm.24,2cm.Marke Schwerter mit Punkt.Mitte 18. Jahrh. AusstellungK.K.Gew.-Mus.Berlin 1904. Brining,Europ.Porzellan des 18. Jahrh.,274/75,277/78.
+
+Reproduktion Tafel20.
+
+59. SUPPENNAPF MIT UNTERSATZ,kugelige Form,als Knauf purpur und gelb getupfte Rose, als Henkel zwei durch blaue Bander verbundene Blumenzweige. Rand des Untersatzes gewellt und durchbrochen. Gittermuster mit blauen Bluten auf den Kreuzungspunkten, unterbrochen von vier langlichen,in zarten Tonen dekorierten Rokokokartuschen und vier C-formig geschweiften, goldgehohten Akantusranken mit je einem Tiere (zweimal Fuchs, Schwan und rotschwarzer Vogel), Mosaikgrund dunkelpurpur. Darin ausgespart auf Deckel und Schale je zwei geschweifte Breitfelder, umrahmt von Zweigen in radiertem Golde, mit buntem Obst (Aepfel, Traube,Kirschen) und Blumen.Im Spiegel des Untersatzes radierte Goldblumen.
+
+H.des Napfes 12,6 cm, Durchm.14 cm,Untersatz,Durchm.14 cm.Marke Schwerter. Mitte 18.Jahrh.
+
+Ausstellung K.K.-Gew.-Mus.Berlin 1904. Brining,Europ.Porzellan des 18.Jahrh.,No.244.
+
+Ausstellung Palais Redern Berlin 1906,No.452.
+
+Reproduktion Tafel 16.
+
+60. SUPPENNAPF MIT UNTERSATZ,Neu Ozier". Purpur getupfte Rose als Knauf, als Henkel verschlungene Blumenzweige, durch purpurne Bander verbunden. Untersatz: Gewellter Rand mit durchbrochenen bunten BlumenstrauBen (Bruhlscher Durchbruch),dazwischen vier langliche Rokokokartuschen,in zarten Tonen bemalt. In den Kartuschen und auf der Schale vier bunte Landschaften mit spielenden Kindern.Auf den Randern des Deckels, des Napfes und in der Hohlkehle des Untersatzes purpurne Blumengehange. Im Spiegel des Untersatzes purpurner StrauB. Gezahnte Goldrander.
+
+H.des Napfes 12,5 cm,Durchm.13 cm,Untersatz,Durchm.25,1 cm.Marke Schwerter.Mitte 18.Jahrh.
+
+Brining, Europ.Porzellan des 18. Jahrh.,No. 266.
+
+Reproduktion Tafel 17.
+
+Ausstellung K.K.-Gew.-Mus. Berlin 1904.
+61. BECHER MIT DECKEL, zylindrisch, nach unten sich verjungend,mit breitem FuB, belegt unten an der Wandung und auf dem Deckel mit goldgehohten, grunen Akantusblattern, zwischen diesen Goldspitzen. Vom profilierten Rande herabhangend plastische, purpurne und eisenrote Bluten. in Laub,und Bandelwerkkartusche in Gold, Luster, Eisenrot und Purpur, in demselben bunte,bergige FluBlandschaft mit einer Chinesengesellschaft stauden (Chrysanthemen,Nelken). Eisenrotes Eierstabornament. Auf dem Deckel FluBlandschaft mit zwei Chinesen.
+
+H.16,6 cm,Durchm.8,6 cm.Ohne Marke.Um 1730. Ausstellung K.K.-Gew.-Mus.Berlin 1904. Brining,Europ. Porzellan des 18. Jahrh., No. 165.
+
+Reproduktion Tafel 13.
+
+62. LEUCHTER. FuB und Tille sechsmal eingezogen, auf den drei groBeren Feldern BlumenstrauBe in Relief, auf den kleineren bunte Streublumen. Der Schaft gebildet aus goldgehohten, gedrehten Rokokovoluten, auf denen zwei sich kreuzweis umschlingende Putten, mit bunten Blumen auf dem Gewand,sitzen. Dazwischen zwei goldgehohte Kartuschen mit dem Wappen und Namenszug (aus lila Grund ausgespart) des Grafen Bruhl. Das Schaftende umschlieBt mit gruinen Pflanzenschossen und goldgehohten Rocaillen den unteren Teil der Tulle. Mittelstuck gleich den nach einem Stich von Meissonier modellierten Leuchtern des Schwanenservices.
+
+H.29 cm.Marke Schwerter,eingepreBt 46.-Mitte 18. Jahrh. Ausstellung K.K.-Gew.-Mus.Berlin 1904. Bruning, Europ. Porzellan des 18. Jahrh., No.315. Palais Redern Berlin 1906.No.460.
+
+Reproduktion Tafel 21.
+
+- 63-64. ZWEI VASEN, Fleutenform,zylindrisch, mit kleiner FuBwulst und trichterformig ausladendem Halse. Unterhalb der Mitte eine breite flache Wulst.Die Bemalung von seltener Farbenpracht mit indianischen"Blumen in Ziegelrot,Blau,Purpur,zweierlei Grun, Gold und Gelb:Bambusstauden mit Paeonien,Chrysanthemen,Binsenhocken,
+
+<!-- image -->
+
+Phantasie- und Paradiesvogeln. Goldlinien am Ansatz der Wulst und am Fuf. H. 24,8 cm, obere B.13 cm. Marke blaues F.A. im Monogramm. Um 1725. Ausstellung Palais Redern Berlin 1906.No. 444.
+
+65. VASE MIT DECKEL. Eiformige Leibung mit eingezogenem FuB, ausladender Wulst und geradem,zylindrischem Hals. Der Deckel mit pro-
+2. filiertem Knauf.Bemalung:,Indianische"farbenprachtige Blumen,grobe Chrysanthemenstauden mit starken Blutenbuscheln,Bambus,Weimutskiefern,
+
+Reproduktion Tafel 4.
+
+<!-- image -->
+exotische Vogel,Schmetterlinge.:Am FuB Felsgestein undschreitende Eidergans.Am Hals eisenrotes Wellenlinienband.Der Deckel analog H.m.Deckel 31 cm,groBter Durchm.14 cm.Marke blaues A.R. im Monogramm. Um 1725.
+
+Ausstellung Palais Redern Berlin 1906,No.444.
+
+Reproduktton Tafel 4.
+
+66. SUPPENSCHUSSEL MIT DECKEL UND UNTERSATZ. Kumpige Form mit eingezogenem FuB und zwei Henkeln in Form naturalistisch bemalter Zweige, mit violetten Bandern zusammengebunden, an der Leibung mit kleinen aufgesetzten Bliten.Der Deckel gewolbt, am iberstehenden Rande wenig eingezogen. Als Knauf rot getupfte Rose. Untersatz tellerformig, gebogter Rand,Fond (zur Aufnahme der Terrine) vertieft. Bemalung: Fond mit blau in blau gemalten, schattierten Schuppen,auf beiden Seiten zwei Kartuschen freilassend, mit reich staffierter Prospektmalerei. Elblandschaften mit Schlossern,im Vordergrunde Kavaliere und Damen zur Jagd reitend,musizierend usw. Umrahmung in Gold gemalt und radiert,Rocaille-Kartuschen,teilweise mit schwarz konturiert. Die Innenflache (ebenso beim Deckel) ganz vergoldet. Der Deckel ganz analog der Terrine, Untersatz mit zwei ahnlichen Kartuschen und Elblandschaften, zwischen diesen je zwei dreieckige, konturierte Zwickel mit blauen Schuppen, Fond dazwischen meist mit grofen goldenen,radierten deutschen Blumen und farbigen Girlanden.Im Spiegel kleines Blumenstilleben.
+
+H. der Terrine 14 cm, Durchm.14 cm, Durchm. des Untersatzes.23,5 cm. Marke Schwerter. 2.Halfte 18. Jahrh.
+
+Reproduktion Tafel 16.
+
+- 67.TEESERVICE,bestehend aus Anbietplatte,Teekannchen,MilchguB,Zuckerdose und zwei Tassen nebst Untertassen. Form und Dekor in der Art der gleichzeitigen Sevres-Arbeiten.Anbietplatte oval und mehrfach geschweift,Rand erhoht, Teekanne kugelig,?-formiger Henkel, kurzer AusguB,MilchguB auf drei FuBen, am Hals eingezogen, Zuckerdose gerade Form, am FuB eingezogen, Untertassen schalenformig. Bemalung: Auf der Anbietplatte acht kreisrunde, goldumranderte Felder mit Purpurrosen auf hellgrauem Grunde mit Schatten.Um diese Rosenkreise zieht sich uberschneidend und wellenformig eine Blumengirlande und ein breites hellblaues Band. Der innere Spiegel der Platte weifB, der Zwischenraum an der Hohlkehle zum Rande im Stil des ceuil de perdrix-Motivs bemalt mit nebeneinandergestellten goldpunktierten Kreisen mit purpurnen Tupfen. Randlinie Gold. In gleicher Art die einzelnen Serviceteile dekoriert.
+
+H. der Theekanne 6,5 cm,MilchguB 8 cm, Tassen 5,5 cm,Zuckerdose 8,5 cm,Durchm. der Anbietplatte 32X23,5 cm.Marke Schwerter mit Punkt.2. Halfte18. Jahrh.
+
+Reproduktion Tafel 19.
+- 68.DOSE in Kiepenform,mit Deckel (einzeln,weil ohne Montierung), konische Form mit gerader Ruckwand und flachen senkrechten Kehlungen. Der Deckel ebenfalls(muschelformig) gerippt.Bemalung:Auf der Stirnseite ein im Freien unter Baumen aufgeschlagenes purpurnes Zelt mit zwei Damen, die von einem von links kommenden Kavalier iberrascht werden. —Unter dieser Gruppe ein geschweiftes Barockpostament mit ovalem Medaillonportrat. Ruckseite:Postament mit allegorischer Figur eines Soldaten in phantastischer Kleidung, mit Schwert in der Hand, ,Der Krieg", umgeben von Trophaen, Fahnen, Pauken,Morsern, Schilden usw. In der Luft eine krepierende Granate.—- Auf dem Boden Seeprospekt in Purpur camaieu. Deckel:oben purpurnes Zelt unter Baumen mit drei Schauspielern, die einen Pauken tragenden Esel vor sich haben, rechts eine weibliche Herme mit lateinischem R. Zu FuBen der Gruppe ein Schild mit Rollwerk und Purpur-Monogramm A.v.E.(oder E.v.A.) Innenseite:Portrat,Brustbild einer Dame mit blondem Haar,weiBem Kopftuch und violetter Schleife, dekolletiertem blauem Kleid mit weiBen Ruschen am Ausschnitt. Brauner Hintergrund.
+
+H.5,5cm,Durchm.4,5X6,5 cm.Ohne Marke. Mitte 18.Jahrh.
+
+- 69.KAFFEE-UNDTEESERVICE,bestehend aus Kaffeekanne von gestreckter Birnenform mit ?-formigem Henkel, Teekanne, nach oben verjungt, Teebuchse, sechskantige BirnenformmitDeckel, Spulnapf geschweift, Zuckerdose, lache, achteckige Form, profiliert, mit Deckel, und sechs geschweiften Tassen und Untertassen. Bemalt mit breiten Goldrandern,
+
+Reproduktion Tafel 23.
+
+<!-- image -->
+
+Goldspitzen,bunten indianischen"Blumen,Insekten und bunten ChinoiGold,Luster und Eisenrot mit Schatten. Auf dem Boden einer jeden Tasse eisenrote indianische" FluBlandschaft mit kleinem Angler im Boot. In den Chinoiserien Chinese vor Teetisch, mit Eichhornchenhaus, vereuropaische Hirschjagd malend.
+
+H. der Kaffekanne 20 cm, Teekanne 12,2 cm, Teebuichse 9,8 cm, Spilnapf 8 cm, Durchm.
+
+16,4 cm,Tassen 4,5 cm,Durchm.7,5 cm. Marke (nur auf der Teekanne) K.P.M.,darunter Schwerter, auf allen Stuicken in Gold:50.Um 1725.
+
+Dazu gehorig: Futteral, Holz mit schwarzen Lederbezug und Messingbeschlagen,innen mit dunkelgrunem Sammet und Goldborte.
+
+H.19cm,B.50cm,T.35cm. Ausstellung K.K.-Gew.-Mus.1904. Brining, Europ.Porzellan des 18. Jahrh., No. 157.
+
+Reproduktion Tafel 5.
+70. DOSE in Kiepenform mit Deckel. Goldmontierung,konische Form, gerippt, abgesetzter FuB. Bemalung: Auf der Stirnseite VierpaBkartusche mit vornehmer Jagdgesellschaft.Im Vordergrunde zwei Kavaliere mit Hunden, weiter zurick Herren und Damen vor einem Zeltlager. Auf der Ruckseite Seeprospekt mit reicher Staffage,im Vordergrunde Manner mit Warenballen.Umrahmung in Gold und Luster, reiches Barockornament mit Ranken- und Gitterwerk. Am Boden Landschaft in Purpur camaieu, mit Jagern die nach Vogeln schieBen. Innen ganz vergoldet. Deckel (spatere Arbeit) in Gold montiert a) Aufenseite:VierpaBkartusche mit Jagdszene Halali",Umrahmung in Gold und Luster, reiches Bandelund Rankenwerk,b) Innen:Hirschjagd.
+
+H.6,5 cm,Durchm.7X5 cm.Ohne Marke.Mitte 18. Jahrh.
+
+Reproduktion Tafel23.
+
+- 71.DOSE,runde, flache Form mit Deckel (einzeln,weil ohne Montierung). Die Leibung in Form einer flachen Kehle mit Viertelstab, am FuB wenig eingezogen. Deckel flach gewolbt. Bemalung: In der Kehle ein Fries von minutios gemalten Schlachtszenen, Gruppen hoher Offiziere zu Pferde, einzelnen Reitern, Verwundeten mit Priestern, Plunderungsszenen usw. Auf der flachen Wulst in Gold gemaltes Barockornament,geometrisches Motiv mit Palmetten. Auf dem Boden Landschaft mit Soldatenszenen, Lagerfeuer, Reitern, vorn ein vornehmes Paar,Kavalier und Dame mit Diener. Innen ganz vergoldet. Deckel:oben Landschaft mit Soldatenszenen,im Vordergrunde rechts Zelt, davor Offiziere an einem Tisch mit Karte, Kriegsrat haltend. Auf der Innenseite Huftbildnis eines Fursten in Rustung und Purpurmantel mit Hermelin,breitem,orangefarbigem Ordensband, gepuderter Perricke.
+
+Reproduktion Tafel 23.
+
+H.3,2 cm,Durchm.7,8 cm.Ohne Marke. Um 1740.
+
+72. BECHER MIT DECKEL,von glatter, konischer Form, mit eingezogenem FuB. Die Hohlkehle vergoldet. Um den unteren Teil der Leibung zieht sich ein Fries von reliefierten, aufsteigenden Akantusblattern mit gold gemalten Rippen;in den Zwischenraumen Goldornamente.Auf der Leibung zwei groBe und zwei kleine Kartuschen, erstere in langlicher, breiter VierpaBform mit Darstellungen:a) bergiges FluBufer mit Schiffen, reicher Staffage, vorn auf einem Quai vornehme Gesellschaft von Kavalieren und Damen;b) BeschieBung einer Stadt, vorn auf einem Plateau Zeltlager mit Offizieren und Marketendern. In den kleinen Kartuschen Chinesen bei verschiedenen Verrichtungen. Umrahmt von reichen Barockornamenten in Ziegelrot, Purpur, Luster und Gold. Am Lippenrand schone Goldornamentbordure. Der Deckel analog. Der Knauf in Form eines profilierten Knopfes. In der Mitte ein Medaillon mit Prospektmalerei.
+
+Reproduktion Tafel 13.
+
+H.16 cm,Durchm.10,5 cm.Marke Schwerter und Goldbuchstabe H. Um 1735. Ausstellung Palais Redern Berlin 1906,No.448.
+- 73.GRUPPE,DER KRIEG".S Sitzende Frau auf einem Felsstick unter groBer und kleiner Palme, nach rechts gewandt, die Rechte auf einen goldgezierten Helm in Form einer Lowen-Maske stutzend,mit der Linken auf eine mit rotem Zackenmuster geschmuckte Trommel mit schwarzem, goldgerandertem Bande weisend, unter ihr zwei gelbbraune Fahnen.1 Im Haar Perlschnur mit purpurfarbenem Stein. Schmaler Schuppenpanzer mit Goldkonturen auf dem die Bruste freilassenden Untergewande. Uber die Oberschenkel fallt ein lila Mantel mit bunten Blumen, innen gelb. Links am FuB der Palmen goldgerandertes Schild und zwei gelbbraune Kesselpauken mit blauen Bandern. Die Blatter der von Blumenzweigen umrankten Palmen seegrin,Fruchte gelb. Felssockel, mit bunten Blumen belegt, auf der glatten Ruckseite zwei Zapfenlocher.Teilstick der "Danischen Gruppe",Allgorie auf die Union von Danemark und Norwegen, von Joh. Joachim Kandler.
+
+H.32 cm,Br.32 cm.Ohne Marke.1767. Ausstellung K.K.-Gew.Mus.Berlin 1904.
+
+Brining, Europ.Porzellan des 18. Jahrh.,No. 570.
+
+Reproduktion Tafel 15.
+
+74. SATZ VON VIER BECHERN, glatte konische Form mit abgesetzter flacher FuBwulst, die, ganz vergoldet, mit Stabwulsten verziert ist. (Form der gleichzeitigen Silberbecher). Bemalung:Friesartig, mit groBen Chinesenfiguren. Der Boden hell-oliv und braun. Die einzelnen Figuren in prachtigen Kostumen. a) Hauptgruppe: Chinese auf hochlehnigem Stuhl neben halbrundem Tisch sitzend, auf diesem GefaB mit Geraten,rechts und links Blumen,neben ihm Kessel auf Feuerbecken. Von rechts nahen sich zwei Chinesen, links zwei im Gesprach. b) Hauptgruppe: Chinese neben einem Tisch mit Geschirr, nimmt einen Becher,den ein Diener auf einem Tablett reicht. Rechts naht sich ein Kiepentrager, auf der andern Seite zwei Chinesen, einen am Boden stehenden Tisch mit GefaBen ordnend. c) Hauptgruppe: Chinese,an einem Tisch sitzend, mit einem links stehendem Mann mit Facher sprechend, von rechts naht sich ein Flehender, kniend, Blumen in der Hand; weiter zuruck Zwei im Gesprach. d) Hauptgruppe: vornehmer Chinese an einem Brunnen mit Blumen sitzend, von rechts und links nahen sich Arme, zuruck ein liegender Mann mit Fahne.- Bei allen gemeinsam am Lippenrand innen und auBen fein gezeichnete Bandelwerkbordure.
+
+H. 8,2 cm,ob. Durchm. 7,5 cm,unten 5 cm. Marke Schwerter mit kugeligem Knauf und Gold- buchstaben 1.1.2.4.Um1725-1730. Ausstellung Palais Redern Berlin 1906,No.445.
+
+Reproduktion Tafel 9.
+
+75. SATZ VON FUNF GROSSEN VASEN,drei mit Deckel,zwei Fleuten. Die groBe und die zwei etwas kleineren Deckelvasen sind birnformig, mit zylindrischem Hals, der Deckel hochgewolbt, als Bekronung ver-
+2. goldeter, birnformiger Knauf. Die Fleuten im unteren Drittel karnisformig,
+der Hals erweitert sich nach oben in Trichterform. Bemalung: Auf samtichen fuinf Vasen die gleiche Einteilung. Auf der Leibung je zwei groBe Barock-Kartuschen in Gold, schwarz konturiert, verschiedenartig gegittert. In der FuBeinschnurung ebenfalls je zwei - kleinere -Kartuschen mit ahnlicher Umrahmung. In den Feldern Chinesen bei mannigfacher Beschafigung,Tee trinkend, spielend,kochend,Throne mit Mandarinen usw.,Farben Purpur,Eisenrot, Oliv- und Seegrun, Blau, Braun und Gold. Auf dem weiBen Fond zwischen den Kartuschen Stilleben von deutschen Blumen und Streublumen.Am Hals reiche Goldspitzenbordure. Die Deckel analog der Vasenmalerei mit je zwei Kartuschen, Chinesen und Blumen.
+
+H.d.groBen Deckelvase 54 cm,Durchm.21,5 cm,H.der beiden kleinen Deckelvasen 46 cm, H.d.Fleuten 42 cm, oberer Durchm.24 cm. Marke Schwerter in Blau. Mitte 18.Jahrh. Reproduktton Tafel 11.
+
+- 76.FLAKON,abgeflachte Birnenform mit reliefierten Rocaille-Ornamenten an den Seiten, abgesetztem,in Gold montiertem FuB und goldenem Stopsel in Form einer Rokoko-Muschel. Bemalung: An den breiten Seiten Binnenlandschaften mit SchloBruine unter Baumen bezw.Kirchdorf, Figuren, Bauern und Bauerinnen, Pferde, Fischer usw., weiter Horizont. An den schmalen Seiten und an der FuBplatte feines goldenes Rankenmuster.
+- H.13,5 cm.Ohne Marke. Mitte 18.Jahrh.
+
+Reproduktion Tafel23.
+
+- 77.LEUCHTER, runder, breiter FuB, gebogte Kontur, mit BrandensteinWulst und Streubluimchen;darauf ein zwolffach geteiltes,stark eingezogenes Postament mit uberfallendem Rande,auf welchem eine groBe Frauenfigur sitzt, die FuBe lose ibereinandergelegt,mit beiden Armen einen auf ihren SchoB stehenden Putto umschlingend, der den Leuchterschaft - in Form eines Rocaille-Palmstammes mit beiden Handen festhalt. Daruber Tulle mit Lichtmanschette. Bemalung:Am Sockel deutsche Blumen. Das Gewand der groBen Figur, in malerischen Falten von der Schulter uber den Rucken herabfallend und die Oberschenkel bedeckend, gelb, Innenseite purpur, bemalt mit indianischen"Blumen.Haar dunkel, um den Hals zweireihige Perlenkette. Palmstamm mit Gold gehoht,oben grun, an der Tulle Streublimchen, Goldrander.
+
+H.34,5 cm, Durchm. am Sockel 15 cm. Marke Schwerter. Mitte 18.Jahrh. Ausstellung K.K.-Gew.-Mus.Berlin 1904.
+
+Reproduktton Tafet 21.
+
+- 78.TERRINE MIT DECKEL UND UNTERSATZ. Glatte, runde KummenForm, nur wenig am FuB eingezogen. Zwei horizontal abstehende, ganz vergoldete Henkel in Form durchbrochener Barockkartuschen.Deckel mit ubergreifendem Rande, Pinienzapfen (vergoldet) als Knauf. Untersatz
+
+Ausstellung Palais Redern Berlin 1906,No. 459.
+rund, Tellerform. Bemalung: der Fond auf allen drei Teilen ganz vergoldet, auf der Terrine zwei breite langgezogene Medaillons, weiBer Fond mit farbigen Landschaften, Liebespaare als Staffage.Umrahmung mit goldenem, schwarz konturiertem Rankenwerk mit teilweiser Verwendung von Luster,auf weiBem Grund (a jour-Imitation). Auf dem Deckel drei solche Medaillons mit gleicher Umrahmung. Als Staffage:Liebespaar vor einer Panherme, Mutter mit Kind unter einem Baum,davor.ein Mann, auf dem Boden sich bequem ausstreckend. Zwei Damen unter einem Baum.- Auf dem Teller:im Spiegel kreisrundes Medaillon mit Purpurcamaieu-Malerei: Kavalier. und Dame schmausend auf einer Gartenbank. Auf dem Rande drei Medaillons wie vorher: Binnenlandschaften mit je zwei groBen Figuren im Vordergrunde.
+
+H.der Terrine 14 cm, Durchm.17 cm,Teller Durchm,23 cm.Um 1740. Marke Schwerter
+
+Reproduktion Tafel 12.
+
+in Blau,eingepragt E (Teller). Ausstelung Palais Redern Berlin 1906, No.451,
+
+- 79.KAFFEE- UND TEESERVICE, bestehend aus Kaffee-,
+
+Milch-und Teekanne,Teebuchse,Zuckerdose, Spulnapf und sechs Teetassen nebst Untertassen. Kaffee- und Milchkanne Goldmalerei:Jagdszenen mit Laub- und Bandelwerkbehang: Fahrt zur Jagd,Fruhstick,Hirsch,Eber-,Baren,Fuchs,Hasenjagd,Reierbize, Heimfahrt des erlegten Wildes u. a. Henkel, AusguBe und Knaufe voll
+
+<!-- image -->
+
+- gestreckt birnenformig, Henkel ?-formig, Teekanne mit Adler als AusguB und geripptem Volutenhenkel mit Knabenkopf. Teebuchse von sechskantiger Birnenform,mit Deckel. Zuckerdose oval, gewolbt. Spulnapf und Tassen mit geschweifter Wandung und ausladendem Rande. Die Deckel der Kanne sind mit vergoldeten Silberketten an den Henkeln hefestigt.- Radierte vergoldet, breite Goldrander mit schmalen Spitzen. Auf der Teebuchse Felsen mit Palmen und Tieren nebst Laub- und Bandelwerkbehang und Vogel auf Zweigen. Auf dem Grunde der Tassen Vogel auf Zweig. H. der Kaffekanne 21,5 cm, Milchkanne 15 cm, Teekanne 13,5 cm,Zuckerdose 8,5 cm, Spul napf 8,5 cm,Durchm.18,2 cm, Tassen 7,5 cm. Zeit um 1720. Marke C. S.in Lister, auf
+
+der Zuckerdose C.A.C.S.——)
+
+Reproduktion Tafel 14.
+
+Dazu Futteral, rechteckig, mit geschweiften Ecken, Goldpressung und Messingbeschlagen, auf vier FuBen in Gestalt von kugelhaltenden Krallen aus vergoldeter Bronze, innen grunes Tuch mit Goldborden.
+
+H.28 cm,B.52 cm,T.38 cm. AusstellungK.K.-Gew.-Mus.1904.
+
+Brining,Europ. Porzellan des 18. Jahrh,No.50.
+
+Das Service stammt aus der Familie Schimmelmann, deren Vorfahr der sachsische Accisrat und preuBische Geheimrat Carl Heinrich Schimmelmann eine fir die MeiBener Manufaktur wichtige Rolle z. Zt der Okkupation Dresdens durch Friedrich den GroBen, Ende 1756, spielte. Berling,Meiβener Porzellan". schreibt (pag. 123) von Sch: — es wurden ihm die von Geheimrat von Nimpsch auf
+300 00o Taler Wert geschatzten drei Warenlager ,nebst samtlichen sonst darin befindlichen Vorraten,worunter auch die auf den Boden und iberall stehenden Porzellane" fuir 120 000 Taler bar iberlassen.—
+
+)Es ist unseres Wissens nach wohl das einzige Service,welches mit dieser Bezeichnung existirt.Ueber die Moglichkeit,daB die Goldmalerei von dem Maler Joh. Christoph Schaffler stammt, schreibt Brining, Europ.Porzellan des 18.Jahrh.pag.XIIl.:
+
+Vergl. ferner Berling,MeiBener Porzellan, pag.17,21.,W.von Seidlitz, die Meifener Porzellan-Manufaktur unter Boettger. Anm.10 im Neuen Archiv fir Sachs. Geschichte und Altertumskunde,Bd.IX.
+
+,Neben den Chinoiserien erscheinen auch Jagddarstellungen in Goldmalerei. Ein glanzendes Beispiel dieses Dekors bietet das Kaffeeserviece von F.Clemm No.50 (Tafel 3),das sich noch in seinem alten Futteral vollzahlig erhalten hat.Dieses Geschirr ist aus mehr als einem Grunde wichtig. Zunachst veranschaulicht es uns in greifbarer Form jene gute alte Zeit,in der man,wenn man auf Reisen ging, sein eigenes Geschirr in sorgfaltigster Verpackung mitnehmen muBte.Wie wir aus Berichte des Direktors der Berliner Porzellanmanufaktur wissen,verschenkte man die Service gleich im Futteral. Sodann aber gibt es uns ein vollstandigesKaffeeservice aus fruhester Zeit. Die Formen sind glatt, einfach uind mit Ausnahme der Kaffeeund Teekannen,Nachbildungen chinesischer GefaBformen.Die Teekanne mit dem Adler als AusguB kommt.auch in rotem Steinzeug vor.Die Flachen der Geschirre schmucken verschiedene Jagddarstellungen, die ebenso wie die Chinoiserien in Gold auf einem Bodenstreifen stehen,von dem eine Art Lambrequin herabhangt, der aus meisten Sticke des Services tragen unter dem Boden in jener schon erwahnten listerartigen Schrift die Signatur C.S. Es ist nicht ausgeschlossen, daB unter diesen Buchstaben der Maler Joh. Christoph Schaffler zu suchen ist, der schon 1711 in der Manufaktur angestellt wurde*.
+
+- 80.DOSE in Form einer Dame, die auf einem Nachtgeschirr sitzt. Vergoldete Bronzemontierung. Mit der Linken faBt sie sich an die Brust, die rechte Hand halt die Kleider, das Kopfchen leicht nach rechts geneigt. Bemaiung: WeiBes Haubchen auf braunem Haar, gelber faltiger Rock mit indianischen" Blumen, lila Gurtel. Auf der Innenseite des Deckels Tierszene:
+
+H.8,5 cm,Durchm.am Boden 6X5,5 cm.Ohne Marken. 2.Halfte 18.Jahrh.
+
+- Der Fuchs vor Gericht (nach La Fontaine), auBen Streublumen.
+
+Reproduktton Tafel 26.
+
+81. GRUPPE VON DREI EINZELNEN MUSIKANTEN-FIGUREN in gemeinschaftlicher Montierung. Rechteckiges,in der Mitte vorspringendes, feuervergoldetes Bronzepostament mit reliefiertem Wasserwogenband. In der Mitte ein in den Ecken gekehlter Bronzesockel mit der Figur des Kapellmeisters, die rechte Hand erhoben,die linke mit Notenrolle vorgestreckt. Kostum: gelber Hut mit blauen Schleifen, weiBer Kragen, hellvioletter Rock mit rosafarbiger, mit Gold reich bemalter Weste, und Scharpe, grinen Hosen,weiBen Strumpfen und Schuhen mit roten Rosetten. Rechts Tambourinschlagerin. Kostum: gelbes Mieder, lambrequienartig gezackt und braun konturiert, griner Tunika und lila Rock mit Purpurblumen, gelbe Schuhe. Links Flotenblaser mit groBer Trommel. Kostum: griner Hut,lila Rock mit grunen Aufschlagen,weiBes Hemd, gelbe Hosen
+mit grunen Schleifen, weiBe Strumpfe und Schuhe.Hinter den Figuren stehen groBe Zweige aus Bronze mit Blattern und farbigen Porzellanbluten, die ganze Gruppe iberragend und eine Laube bildend. H.27,6 cm,B.25,5 cm,T.10,2 cm,Hohe der Figuren 15,14 und 12,5 cm.2.Halfte 18.Jahrh. Montierung franzosisch.
+
+Reproduktion Tafel 28.
+
+82. TASSE MIT UNTERTASSE. Obertasse leicht geschweift mit abgesetztem, vergoldetem FuBrand ohne Henkel. AuBen kobaltblauer Fond mit zwei breiten VierpaBmedaillons, umrahmt von goldener Bandelwerkkartusche, bemalt mit reich staffierten FluBprospekten",Kaufleuten,Arbeitern beim Ein- und Ausladen von Schiffen usw. Innerer Lippenrand mit Goldspitzenbordire,Blume im Spiegel.Untertasse mit grofem VierpaBmedaillon und Binnenlandschaft.Im Vordergrunde ein Weg mit Reiter, links groBer Baum mit Herrn und Dame bei einem Hund. Bergige Landschaft mit Kirchdorf. Umrahmung in Form einer reichen Bandel- und Rankenwerkkartusche in radiertem Golde und eisenrot.Am Rande reiche Goldspitzen-
+2. bordure.
+
+H.der Tasse 4,8 cm,Durchm.7,5 cm,Untertasse Durchm.12,5 cm.Marke Schwerter in Blau,Goldnummer 1.Um 1745.
+
+- Geschweifte hohe Becherform mit vergoldetem, ohrKobaltblauer Fond mit groBem VierpaBmedaillon auf der Stirnseite, bemalt mit reich staffiertem ,Seeprospekt", Schiffe, Boote, am Ufer Kameltreiber usw., umrahmt von in Gold gemalter Bandelwerkkartusche, rechts und links vom Henkel einzelne Blumenzweige in Gold, am inneren Lippenrand Goldspitzenbordure. Untertasse mit VierpaBmedaillon und Binnenlandschaft mit vornehmem Reiter im Vordergrund. Umrahmung in Gold,Luster und Eisenrot, am
+- 83.DESGLEICHEN. muschelformigem Henkel. Rand reiche Goldspitzenbordire.
+
+H.der Obertasse 7cm,Durchm.6,5cm,Untertasse Durchm.12,5 cm.Marke Schwerter in
+
+Blau und Goldnummer 1.Um 1745.
+
+Ausstellung Palais Redern Berlin 1906,No.449a.
+
+Reproduktion Tafel 25.
+
+84. SCHAFERHUND, sitzend,weiB mit braunen Flecken:Den Kopf seitlich gedreht, Schwanz geringelt, Ohren gestutzt. Halsband grun mit braunem
+2. Rankenornament und Goldrandern.
+
+H.10 cm. Ohne Marke. Um 1750.
+
+Reproduktton Tafel 26.
+
+85. DESGLEICHEN, ahnlich, nach rechts sitzend, ahnliches Halsband,aber
+2. mit violetter Schleife. Dunkelbraune Flecken.
+
+H.10,5 cm,Ohne Marke. Um 1750.
+
+Reproduktion Tafel 26.
+86. TERRINE MIT UNTERSATZ,oval, gewolbt, Griffe in Form von Masken mit buntem Federkopfputz. Der Deckel wachst zu einer kuppelartigen, von einem Akanthuskranz umgebenen Spitze aus, die in einem mit vier Akanthusblattern geschmuckten Knauf endigt. Untersatz mit viermaliger Einziehung und flachgewolbtem Rand, Griffe aus zwei Voluten mit Muschel gebildet. Der Grund ist vollig, mit Ausnahme eines Teils des plastischen Schmuckes, vergoldet. In dem Goldgrunde weiB ausgespart auf dem Deckel, den beiden Seiten des Korpers und dem Untersatz breite Laub- und Bandelwerkkartusche mit zwei Girlanden haltenden Amoretten,in den Kartuschen vierpaBformige Breitfelder mit bunten Landschaften. Auf dem Korper: a) FluBlandschaft:Muhle und Brucke mit zwei Reitern, b) Binnenlandschaft mit Reitern und einer Gesellschaft neben Zelten; auf dem Untersatz: Kauffahrteischiff im Hafen mit berittenen Kaufleuten. An der Spitze des Deckels eine kleine Landschaft in Purpur,auf dem Rande innerhalb einer Laub- und Bandelwerkborte in Gold und Luster vier kleine,bunte,ovale Landschaften.Auf dem Rande des Untersatzes bunte Hafenlandschaft mit Kaufleuten und Waren innerhalb weiB ausgesparter, zum Teil schwarz gehohter Laub und Bandelwerkbordure. Auf der Ruckseite des Untersatzes bunte,,indianische"Streublumen.
+
+H.d.Terrine 27,5 cm,Durchm.23,5X18,5 cm,Durchm.des Untersatzes 30,5X39 cm.Marke Schwerter.Auf dem Untersatz eingekratzt 3 Punkte.Um 1740. AusstellungK.K.-Gew.-Mus.Berlin 1904.
+
+Reproduktion Tafel 6 und 7.
+
+Bruning,Europ.Porzellan des 18. Jahrh., No.181.
+
+87. STATUETTE EINES ELEFANTEN mit erhobenem Russel. Auf dem Rucken weiBe, goldgeranderte Schabracke mit Kissen. Fell naturalistisch bemalt, das Kissen mit vier goldenen Quasten ist zinnoberrot, reich bemalt mit Blumen in Gold und Schwarz.
+
+H. 7,7 cm,Lg.13.3 cm. Marke Schwerter am FuB （undeutlich). Um 1750.
+
+Reproduktion Tafel 26.
+
+- 88.NADELBUCHSE von zylindrischer Form mit Streublumen und franzosischer Goldmontierung in Form fein ziselierter Rocaille-Ornamente mit Blumen-
+- festons.
+
+Mitte 18. Jahrh. Lg.12,7 cm, Durchm.2,5 cm. In Original-Schlangenhaut-Etui.
+
+Reproduktton Tafel 46.
+
+89. ZENTAUR, am Boden liegend, die VorderfuBe erhoben,auf seinem Rucken Amor nach rechts gewandt, zu dem er sich zuruckwendet. Beide die Rechte erhoben,die Linke gesenkt. Schweif bogenformig,mit der Spitze die Croupe beruhrend. Zentaur naturalistisch bemalt. Uber dem linken
+Oberschenkel des Amors grunes Gewandstuck,braunroter Kocher mit bunten Pfeilen an lila Band mit goldener Wellenlinie.
+
+H.21,5 cm,Lg.23 cm. Marke Schwerter. Mitte 18. Jahrh. Ausstellung K.K.-Gew.-Mus. Berlin 1904. Brining,Europ. Porzellan des 18. Jahrh.,No.552.
+
+Reproduktton Tafel 3.
+
+- 90.DESGLEIGHEN, Gegenstuck zum Vorigen. Amor geradeaus gewandt. Die Rechten beider beruhren sich nahezu.Um die Huften Amors lila Gewand mit goldenen Bluten. Braunroter Kocher am gelben Bande.
+
+H.22 cm,Lg.25,5 cm.Mitte 18.Jahrg. Ausstellung K.K.-Gew.-Mus.Berlin 1904. Brining, Europ. Porzellan des 18. Jahrh., No.552.
+
+Reproduktion Tafel 3.
+
+- 91.TASSE NEBST UNTERTASSE,birnformig geschweift, Henkel in Form verschlungener Stiele, weiB und gold gehoht. Untertasse im FunfpaB gebogt. Bemalung:Fond bedeckt mit Blau in Blau gemalten dreiteiligen Schuppen, dunkelblaue Konturen, auf der Obertasse nach unten, auf der Untertasse nach innen zu sich verjungend. Auf der Obertasse ein, auf der Untertasse zwei weiBe Reserven mit in Gold gemalten, radierten Kartuschen, Rocaillewerk mit Blumen.In den Feldern bunte exotische Vogel (Sevres-Stil). Im Spiegel der Untertasse Schmetterling mit zusammengefalteten Flugeln auf weibem Grund. Rander vergoldet, gebogte Borduren. H.6,5 cm,Durchm. 7,8 cm. Untertasse Durchm.13,8 cm. Marke Schwerter, Goldnummer 28. Zweite Halfte 18.Jahrh.
+
+Reproduktton Tafel 19.
+
+- 92.DOSE, Korbchenform mit Deckel,von ovaler, nach unten sich verjungender Form.WeiBer korbgeflechtartig reliefierter Fond mit drei Reifen aus aufgesetzten,naturalistisch bemalten VergiBmeinnichtbluten mit Blattern;auf dem Deckel ebensolche Randbordure. Innenseite des Deckels farbig gemalt: Blumenstilleben auf einem Tisch. Goldene Montierung.
+- Beschaumarke: A.H.
+
+H.4,5 cm, oberer Durchm.5,55X4,3 cm. Ohne Marke. Zweite Halfte 18.Jahrh.
+
+Reproduktton Tafel 48.
+
+- 93.DOSENDECKEL,rund, flach gewolbt, farbig gemalt.Auf der Innenseite mythologische Genreszene:Faun,die unter einem im Freien befindlichem Zelt schlafende Diana uberraschend. Links seitwarts Amor. AuBenseite mit Purpur-Schuppenbordure;nach der Innenseite zu das weiBe Feld durch Rocaillen abschlieBend. Im Mittelpunkt eine Muschel, von welcher aus sich Blumengirlanden speichenformig nach dem Rande ziehen.
+
+Durchm. 7,3 cm. Ohne Marke. Zweite Halfte 18. Jahrh.
+94. MINIATURDOSCHEN,in Form eines Tonnchens, in goldener Montierung.
+2. Deckel an Scharnier, fein profiliert,in der Flache ein reliefierter BlumenstrauB.Die Leibung friesartig bemalt mit Reiterkampfen,in der Art Rugendas, Zeltlager,Verhaue usw., oben und unten am Rande eine Ranken-Bordiure in Gold und Luster mit je vier kleinen ovalen Medaillons mit minutios gemalten Seeprospekten und Figuren in Eisenrot. Am Boden indianische Blumen.
+
+H.2,8 cm,Durchm.1,8 cm.Ohne Marke. Um 1740.
+
+- 95.DOsE, von geradliniger, rechteckiger Form mit flach gewolbtem Deckel. Vergoldete Bronzemontierung. Die Wandungen,Boden und Deckel mit kleinen BlumenstrauBen bemalt, auf der Innenseite des Deckels ,Antonius und Cleopatra",in den Wolken Amor mit Pfeil,links hinten schlafen-
+- der, bartiger Krieger.Links unten signiert J. W.
+
+H.3,6,B.8,7 cm. Ohne Marke. Zweite Halfte 18. Jahrh.
+
+- 96.DESGLEICHEN, geradlinige Wandung mit flach gewolbtem Deckel, vergoldete Bronzemontierung. Bemalt mit Blumenstilleben. Auf der Innenseite des Deckels Tischplatte mit Blumenkorb und groBen Blumen.
+
+H.2,4 cm,B.7 cm,T.5 cm. Ohne Marke. Zweite Halfte 18. Jahrh.
+
+Reproduktion Tafel 48.
+
+97. SCHOKOLADENTASSE NEBST UNTERTASSE,becherformig mit aus-
+
+H.7 cm, Durchm.7,3 cm. Marke Schwerter im Doppelring. Um 173040. Ausstellung K.K.-Gew.-Mus.Berlin 1904. Brining,Europ. Porzellan des 18. Jahrh., No.170. Palais Redern Berlin 1906,No.449.
+
+- ladendem Rande. Dunkelpurpurner Grund,in demselben ausgespart auf der Tasse zwei vierpaBformige Felder mit bunten Landschaften:a) bergige Hafenlandschaft, links im Vordergrunde vier Chinesen mit Waren;b) bergige Binnenlandschaft mit bevolkerter LandstraBe,im Vordergrund drei Landstreicher unter Baumen. Auf der Untertasse Hirschjagd in bergiger Landschaft, umrahmt von Laub- und Bandelwerkkartusche in Gold, Luster, Purpur und Eisenrot. Als Randborte goldene Wellenranke zwischen Linien.
+
+Reproduktton Tafel 25.
+
+98. DESGLEICHEN, ganz ahnlich der Vorigen. Marke Schwerter mit Doppelring. Um 173040.
+99. FLASCHE,vierkantige Birnenform mit langem Halse; Stopsel mit BalusterChinesen vor einem Tisch mit Facher, Fahnen, Staben mit Behang, Pfeife,
+
+H.23 cm.Um 1725. Ohne Marke. Ausstellung K.K.-Gew.-Mus.Berlin 1904. Bruning, Europ. Porzellan des 18. Jahrh., No.150. Palais Redern Berlin 1906,No.446:
+
+- knauf. Auf jeder Seite bunte Chinoiserie auf braun-grunem Bodenstreifen: Katze u. a., iber jedem Bilde Vogel und Schmetterling.
+
+Reproduktton Tafel 24,
+100. ACHTZEHN TISCHMESSER mit Porzellangriffen. Sechsseitig abgeflachte, mit Blumen, Blattern und je zwei Vogeln,nach der Angel zu Blumenstillleben, dazwischen Insekten. Die Vermeil-Klingen auf der einen Seite mit gravierten Blumen verziert.
+
+Ohne Marke. Lg. des Griffs 9 cm, ges.Lg.22,7 cm. In rotem Lederkasten mit Glasdeckel. Meifen.Um 1800.
+
+- 101.TELLER, flach. Mit bunter indianischer" Malerei und Chinoiserie. Den grunen, unregelmaBig geschuppten Rand unterbrechen vier langliche, goldgeranderte Felder mit je einem Chinesen in Landschaft. Zwischen den Feldern auf dem grunen Grunde groBe eisenrote und purpurne Bluten und grun-gelb-blaue Gabelranken. Vom Rande aus wachsen in den Spiegel hinein vier dunne Blutenbaumchen (Chrysanthemum,Nelke). In der Mitte Vogel und verstreute Insekten. Rand auf der Ruckseite gelb glasiert. Gekittet am Rande.
+
+Durchm.22,2 cm. Marke Schwerter mit goldenem Punkt. Um 1725 Ausstellung K.K.-Gew.-Mus.Berlin 1904. Bruning,Europ. Porzellan des 18. Jahrh. Palais Redern Berlin 1906,No.446a.
+
+Reproduktton Tafel 27.
+
+102. TASSE MIT UNTERTASSE, flache Schalenform ohne Henkel. GelblichweiBe Masse mit reicher Goldmalerei. Auf Obertasse Chinesengruppe um eine Pagode versammelt (funf Figuren) Vogel auf Ast, innen breiter Goldrand mit Spitzenbordure, im Fond ein Vogel.  Auf Untertasse Gruppe von vier Chinesen, einem Gotzen opfernd, in der Luft Vogel und fliegende Reiher, unter dem Sockel reiches Barockornament. Goldner
+2. Rand mit Spitzenbordure.
+
+H.d. Obertasse 4,8 cm,Durchm.7,5 cm, Untertasse 12 cm.In letzterer eingepr.64. Um 1720. Ohne Marke.
+
+103. DESGLEICHEN, gerade Form mit eingezogenem FuB, ?-formigem Henkel."Dulongs-Relief-Zierrat" mit je vier Kartuschen auf Oberund Untertasse. Umrahmung Gold gehoht, in den Feldern farbig gemalte
+2. Singvogel auf Blumenzweigen. Im Spiegel der Untertasse BlumenstrauB. H.7 cm,Durchm. 7,3 cm. Schwerter mit Punkt. Zweite Halfte 18. Jahrh.
+104. DESGLEICHEN, Birnenform mit eingezogenem FuB und Henkel aus zwei verschlungenen Stielen, am Ansatz in vergoldete Rocaillen ubergehend. gegen den weiBen Grund abgesetzt mit goldradierten, bezw. grinen Blattranken in Form einer liegenden 8. An den Goldranken je zwei
+4. Untertassse schalenformig. Bemalung:Am Rande Purpur-Piquefond, blaue Schleifen,die zierliche Blumengirlanden halten.
+
+H.6,8 cm,.Durchm.7,4 cm. Schwerter mit Punkt. Zweite Halfte 18. Jahrh.
+105. TEEKANNE mit Deckel. Kugelige Form mit J-formigem Henkel, Ausmit bunten Stilleben, deutsche Blumen,und Streublumchen, Henkel und AusguB purpur gehoht.
+
+H.9,5 cm. Schwerter. Zweite Hallfte 18. Jahrh.
+
+106. PUDERDOSE,mit Deckel. Von gerader zylindrischer Form mit eingezogenem FuBrand. Vergoldeter Zapfen als Deckelknopf. Bemalung: Auf der Leibung drei Kartuschen in DreipaBform mit FluBprospekten, im Vordergrund regelmaBig wiederkehrend hohe Baume mit Figuren von Kavalieren und Damen,Fischern. Als Umrahmung reiche Barockkartusche mit Laub- und Netzwerk in Gold, schwarz konturiert. Der Deckel analog der Dose bemalt: Drei flache VierpaBmedaillons mit staffierten Binnenlandschaften in Gold gemalter Umrahmung.
+
+Boden, S1 auf dem Deckel. Um 1740. Reproduktion Tafel23.
+
+H.mit Deckel 8,2 cm,Durchm.5 cm. Schwerter （undeutlich),Goldbuchstabe S 2 auf dem
+
+107. TASSE MIT UNTERTASSE, passige Form mit Henkel, geschweiften
+2. Konturen und spitzen Ecken,nach unten sich verjungend. Untertasse analog. Bemalung:Fels mit Vogel und ,indianischen"Blumen, dariber der Ho-Ho. Farben:Kobaltblau, Seegrun, Eisenrot und Gold.
+
+H.5 cm,Durchm.8,6X7,6 cm.Fruhe Schwertermarke in Blau.
+
+Reproduktion Tafel 25.
+
+- 108.ZUCKERSCHALE, runde, kumpige.Form mit abgesetztem:FuB. WeiBerFond. Bemalung: Auf der Wandung zwei Darstellungen: auf der Klarinette vorspielt; links Hund,weiter hinten Flote blasender Hirt. b) Szene aus der comedia del arte. Neben einem umgesturzten Postament Columbine und Pierrot,vor ihnen der Harlequin.Am FuBrand feine in Gold gemalte Ornamentbordure. Auf der Innenseite am Rande reiche in Gold gemalte Barockbordure mit Palmetten,Ranken- und Gitterwerk. Im Spiegel ein Ornament mit Muschel und Bandelwerk. Stark restauriert.
+
+H.6 cm,Durchm.10 cm.Schwerter in Blau.
+
+109. SPULNAPF, tiefe runde Form mit eingezogenem FuB. Bemalt mit
+
+H. 8,5 cm,Durchm.1,3 cm. Marcolini (Schwerter mit Stern). Ende 18. Jahrh.
+
+- farbigen, groBen Fruchtstilleben auf der Leibung und auf der Innenseite des Bodens.Goldne Zackenlinie am Rande.
+110. BECHER, geschweifte, glatte Form ohne Henkel mit abgesetztem FuB.
+- Grau-blauer Fond mit zwei groBen VierpaBmedaillons, von Goldspitzen umrahimt. In den Feldern Chinesen, je zwei Figuren mit Schirm bezw. Fahne,und ,indianischen Blumen.Am inneren Lippenrande Goldspitzenbordure.
+
+H.7,5 cm,Durchm.7 cm, Marke Schwerter und Goldnummer 25. Um 1735.
+II.AUCTIONSTAG:
+
+MITTWOCH,DEN 4.DEZEMBER 1907 VORMITTAG 11UHR
+
+## VINCENNES-SEVRES KLEINKUNST (OBJETS DE VITRINE) PORZELLAN VERSCHIEDENER MANUFAKTUREN
+
+No.111-217
+## C.VINCENNES-SEVRES.
+
+No.111-154.
+
+111. UNTERTASSE mit schrag ansteigendem Rande. Schwarz-blauer Fond mit Goldmalerei.Der Rand in zehn Felder geteilt,in jedem eine zierliche Rankengirlande. Im Spiegel Streublumen und eine wellenformige, zier-
+2. liche Rankenbordure.
+
+Durchm.15,3 cm.Marke Doppel-L mit Krone in Blau und Gold, darunter g und 7.29. 2. Halfte 18.Jahrh.
+
+112. TASSE MIT UNTERTASSE,zylindrische Form, Untertasse mit schragansteigendem Rande, Henkel ohrmuschelformig. Obertasse in sechs senkrechte,rechteckige Felder geteilt, abwechselnd vier Beeren mit Blattchen in ovalem,goldenem Blattkranz bezw.goldenes Gittermuster mit stilisierten Purpur-
+
+<!-- image -->
+
+drei ovalen Goldpunkten mit hellblauer Kontur. Bordure am Lippen- und FuBrand senkrecht in Gold gestrichelt. Untertasse analog (radial), im Spiegel goldne Palmettenrosette.
+
+- blumen. Zwischen jedem der sechs Felder ein Streifen mit
+
+H.4,8 cm,Durchm.5.2 cm. Durchm. der Untertasse 11 cm. Marke in Purpur Doppel-L mit Krone. Jahresbuchstabe Y.1775. Malerei (Note) von Thevenet pere.
+
+113. ZUCKERDOSE von runder, geschweifter Form,am Rand und Knauf, gezackter Goldrand. Bemalt mit kleinen Blumenstilleben
+2. am FuB eingezogen. Deckel mit gelb-rot getupfter Blume als (vorherrschend rote und gelbe Rosen) auf weibem Fond.
+
+H.mit Deckel 8,5 cm,Durchm. 7,5 cm.Marke in Blau Doppel-L mit Jahresbuchstaben h und Malermarke.1760. Blumen von Tardi.
+
+<!-- image -->
+
+<!-- image -->
+
+Durchm.24 cm. Marke Doppel-L mit Jahresbuchstaben C.2.Halfte 18. Jahrh.
+
+114. SUPPENTELLER mit gebogtem Rande. WeiBer Fond. Im Spiegel ein kreisrundes Medaillon mit goldenem Wellenband auf konigsblauem Grund und Rosenbluten und Knospen. Darin ein doppelter goldner Kreis mit Punkten, in der Mitte ein RosenstrauB. Aut dem Rande weiBe gebogte Bordure mit konigsblauer Umfassung zwischen Goldrandern, und ovale und runde Goldmedaillons mit BlumenstrauBen und Knospen. Die Randlinien gezackt.
+115. TELLER,flach,mit gebogtem Rande.WeiBer Fond. Im Spiegel ein Kranz aus roten Rosen mit blauem Band durchflochten, in der Mitte Rose in Goldkranz, der Zwischengrund mit hellgrunem ceuil de perdrixMotiv,ebenso der Fond des Randes,ausgespart sechs kreisrunde Medaillons mit Blumen in Goldumrahmung und blauen Schleifen, dazwischen Rosengirlanden. Vergoldeter Rocaille-Rand mit turkisfarbigen Zwickeln.
+
+Durchm.25 cm. Marke S.58 N.mit Krone in Rot.1858.
+
+116. KLEINE UNTERTASSE,runde Schalenform. Smaragdgruner, satter Fond mit weiBem Medaillon und Fruchtstilleben mit Rosen und Feldblumen. Umrahmung aus Rocaillen und Blumen in radiertem Golde.
+
+<!-- image -->
+
+Durchm.9,3-cm.Marke Doppel-L mit Buchstabe N.Um 1765.
+
+<!-- image -->
+
+- 117.TASSE MIT UNTERTASSE,zylindrischeForm mitgeschweiftem Henkel,Untertasse mit schrag ansteigendem Rande. Wedgwood blauer Fond mit senkrechten,goldenen,gleichmafigen Streifen (auf der Untertasse radial nach dem Spiegel zulaufend),in sich schrag schattiert. Rander vergoldet. Im Spiegel der Untertasse BlumenstrauB in radiertemGolde.Auf dem Henkel vergoldete reliefierte Lorbeerfestons.
+
+H.5,8 cm,Durchm.5,8 cm,Durchm. der Untertasse 12,5 cm. Marke Doppel-L mit Krone in Blau. Um 1790.
+
+Reproduktion Tafel 35.
+
+118. DESGLEICHEN, Form wie vorhergehende. Obertasse in acht senkrechte,rechteckige Felder geteilt, abwechselnd ein weiBes mit Zickzackrand in Grun und Gold und drei Blumchen, bezw.eines mit opakem,blauem Grund und Zweigen mit roten Rosen.Am Lippen- und FuBrand punktierte und glatte Goldrander mit rotbrauner Linie.Untertsase analog, die
+
+<!-- image -->
+
+Streifen radial, nach dem Spiegel zu sich anjungend. In der Mitte rote Rose. H.6 cm, Durchm. 5,6 cm.Marke Doppel-L in Blau. Jahresbuchstabe H.H. Marke des Malers und Vergolders. (G.1 in Gold).——1784. Blumen von Niquet.
+
+- 119.TASSEMIT UNTERTASSE,gewolbt,mitkleinem Henkel. Bemalt in Blau mit Rosen, die auf einem runden Reifen sitzen. Henkel goldgehoht. Goldene Zackenrander.
+
+H. der Tasse 4,9 cm,Durchm.5,5 cm,Untertasse Durchm. 11,9 cm. Marke auf der Tasse Doppel-L und Jahresbuchstabe L (1764),Untertasse Doppel-L und Jahresbuchstabe H, sowie zwei gekreuzte S(1760).
+
+Ausstellung K.K.-Gew.-Mus.Berlin 1904.
+
+Brining,Europ. Porzellan des 18. Jahrh.,No.1129.
+
+Reproduktion Tafel 35.
+
+<!-- image -->
+
+Reproduktion Tafel 35.
+120. TELLER, flach, Rand geschweift und turkisblau bemalt. Darin drei ausgesparte Breitfelder,umrandert und verbunden durch plastische, bogenformige und goldgehohte Akanthusschossen,Blumen,Girlanden in radiertem Golde.In den Feldern je ein bunter Vogel in Landschaft.In der Mitte ein StrauB aus Rosen und Feldblumen. Blumen und Vogel von Leve dem Alteren.
+121. TASSE MIT UNTERTASSE,leicht geschweift. Wandung der Untertasse gewolbt. Auf dem weiBen Grunde Wabenmuster, gebildet aus blauen und violetten Punktkreisen und blauen Punktrosetten mit groBen goldenen und grunen Punkten in der Mitte. Auf der Tasse zwei ovale Felder, auf der Untertasse ein rundes mit bunter FluBlandschaft in radiertem Goldrande.
+
+<!-- image -->
+
+H.2,5 cm,Durchm.24,6 cm.Marke Doppel-L,Jahresbuchstabe P.,darunter L., eingekratzt C.T.(1768).
+
+Ausstellung K.K.G.-Mus. Berlin 1904.
+
+Bruning,Europ.Porzellan des 19. Jahrh.,No.1135.
+
+Reproduktion Tafel 31.
+
+<!-- image -->
+
+H. der Tasse 6,1 cm,Durchm.7,5 cm.Marke Doppel-L und Jahresbuchstabe P (7) 1768. Ausstellung K.K.-Gew.-Mus.Berlin 1904. Brining, Europ.Porzellan des 18.Jahrh., No.1134.
+
+Reproduktion Tafel 39.
+
+122. TELLER,aus dem Service des Lord Southampton, flach, Rand glatt,grun,mit drei ausgesparten Breitfeldern. Diese umrahmt von Palmenzweigen und Lorbeerblattern in radiertem Golde.Dazwischen Blumenkranze.In den Feldern und in der Mitte bunte StrauBe aus Rosen, Weintrauben und Feldblumen. In der Kehlung goldener Zackenrand. Goldrand.
+
+<!-- image -->
+
+Durchm. 24,7 cm.Marke Doppel-L u. Jahresbuchstaben CC.
+
+Reproduktton Tafel 32.
+
+Proven-Coll.Lord Harrington 1780. Ausstellung K.K.-Gew.-Mus.Berlin 1904. Brining, Europ. Porzellan des 18. Jahrh., No.1144.
+
+123. NAPF MIT DECKEL, gerade, konische Wandung.1 Deckel
+
+gewolbt, in der Mitte abgesetzt und geschweift. Als Knauf purpurgetupfte Blume. Bemalung: Grund konigsblau, auf der Leibung zwei ovale, weibe Reserven mit je zwei exotischen Vogeln. Umrahmung aus goldenen, radierten Blumenranken. Deckel mit breitem konigsblauem Rand und goldradiertem Blumenreifen,vom Absatz an weiBer Grund mit farbigem Blumenkranz.
+
+<!-- image -->
+
+H.mit Deckel 9,5 cm,Duchm.9,5 cm. Marke Doppel-L in Blau und blauer Punkt unter dem Rand. Vincennes,um 1750.
+
+Reproduktion Tafel 39.
+124. TASSE MIT UNTERTASSE. Gerade,zylindrische Form mit agraffenartigem Henkel. Untertasse mit schrag ansteigendem, geradem Rande. Bemalung: ceuil de perdrix-Motiv auf dem Fond,hellblaue, ohne Zwischenraum nebeneinanderstehende Kreise mit roten Punkten. Auf der Obertasse weiB ausgesparte Bordure,am oberen Rande sanft gebogt,mit Goldlinie abgesetzt. An zwei violetten Schleifen hangen Blumengirlanden und
+
+<!-- image -->
+
+<!-- image -->
+
+zwei RosenstrauBe, in der Mitte ein Kranz, nach unten zu durch tiefe Bogen mit Goldlinie abgesetzt. Untertasse analog.
+
+H.4,7 cm, Durchm.4,9.cm, Durchm. der Untertasse 10,7 cm. Marke Doppel L in Violett,
+
+Jahresbuchstaben aa.1777, darunter pq,dariber BD in Hellblau. Bemalung von Boudouin. Reproduktion Tafel 37.
+
+125. TASSE MIT UNTERTASSE, gerade, zylindrische Form mit ohrmuschelformigem Henkel. Untertasse mit schrag ansteigendem Rande. Konigsblauer Grund mit weiBem, ovalen Medaillon auf der Obertasse,umrahmt von goldenen Schilfblattern. Im Fond ein Blumen-Stilleben,an einer rosa Schleife mit flatternden Bandern hangend. Im Spiegel der Untertasse Fruchtstilleben und Blumen an gruner Schleife. Auf der Obertasse und dem konigsblauen Rande der Untertasse ein breiter, in Gold gemalter Maander,
+
+<!-- image -->
+
+um den sich zierliche,in Gold radierte Feldblumenranken schlingen. Henkel weiB mit Goldverzierungen.
+
+H.6 cm,Durchm.5,7 cm, Durchm. der Untertasse 12 cm.Marke Doppel-L in Blau, darunter Lilie und L. G.-Um 1780. Blumen von Taillandier,Vergoldung von Le Guay. Reproduktion Tafel 35.
+
+126. DESGLEICHEN. Obertasse von gerader zylindrischer Form,mit ohrmuschelformigem Henkel, Untertasse mit schrag aufsteigendem Rande.Bemalung:Ober- und Untertasse in drei vertikale Bandstreifen geteilt, der mittlere (sowie Lippen- und FuBrand) turkisblau mit Goldranken. Der obere und untere Rand mit weiBem Fond, drei ovale Felder mit gelber Marguerite und grungrundigen, rechteckigen Zwischenfeldern mit in
+
+<!-- image -->
+
+Purpur gemalten Rosengirlanden. Auf der Untertasse gleiche Einteilung bei entsprechend mehr Feldern.
+
+H.6 cm,Durchm.5,7 cm, Durchm. der Untertasse 12 cm. Marke in Blau, Sevre. Darunter R.F. 10 (), darunter D. T.und zwei Punktrosetten. Auf der Untertasse fehlt die kleine 10.
+
+—（Republik.-1810?)
+<!-- image -->
+
+127. TASSE MIT UNTERTASSE,gerade,zylindrische Form,mit ohrmuschelformigem Henkel, Untertassemitschrag aufsteigendemRande. Der Grund mattblau mit kleinen nebeneinander stehenden Punktstreifen.Auf der Stirnseite ein weiBes Medaillon,von naturalistisch gemaltem Lorbeerkranz umrahmt, der sich in Form einer Girlande um die ganze Leibung hinzieht und am Henkel wieder einen kleineren Kranz bildet. Henkel weif mit Golddekor,Rander vergoldet. Im Medaillon Korb mit roten Rosen, an einer orangefarbigen Bandschleife hangend. Untertasse analog. Auf dem Rande drei Lorbeerkranze durch Girlanden verbunden. WeiBer Spiegel mit Blumenkorb wie die Obertasse.
+
+H.6 cm,Durchm.5,5 cm,Durchm.der Untertasse 12,3 cm. Marke Doppel-L in Blau. Blumen iu der Manier Taillandier's. Um 1780.
+
+Reproduktton Tafel 35.
+
+128. TELLER, flach, mit gebogtem Rande. WeiBer Fond mit drei bohnenformigen Medaillons auf dem Rande,bemalt mit staffierten Landschaften.(Vordergrund Ruinen oder Hauser, einige Figuren, weite Fernsicht mit Bergen am Horizont.) Umrahmung: breite Goldkante mit Lorbeer-Volute und Palmette, nach beiden Seiten hin sich entwickelnd. In den drei
+
+<!-- image -->
+
+Durchm.24 cm. Aus dem Service der Comtesse Lamballe.(7) Marke Doppel-L in Blau. Jahresbuchstaben K.K.——1786.——Goldbuchstaben H.P.Vergoldung von Prévost. Landschaften von Rosset.
+
+Zwischenraumen der Medaillons Kartuschen mit ovalem Goldrand, Gitterwerk und Rosenumrahmung, im Felde ein Kastell in Sepiabraun. Im Spiegel ein Monogramm C. L. (C = Gold, L aus Rosen).
+
+Reproduktion Tafel 32.
+
+- 129-30. ZWEI EIERBECHER, gedrungene Form, nach unten sich verjungend,kurzer,eingezogener FuB. Juwelendekor (porcelain a emaux). WeiBer Fond mit breiter Louis XVI.Bordure aus aufgelegtem Gold mit farbigem Schmelz; ein fuinfmal sich wieder-
+
+<!-- image -->
+
+holendes Motiv in Form einer turkisblauen Vase mit grunem Rankenwerk und karminroten Tropfen; oben und unten von goldenem Wellenband mit roten Schmelzperlen eingefaBt. Ueber dem FuB eine Bordure aus smaragdgrunen Epheublattern mit roten Perlen.Vergoldete Randlinien. H4,5 cm, Durchm.4,5 cm. Marke Doppel-L in Gold und 2000. Um 1775. Dekorierung von Vincent.
+
+Reproduktton Tafel 39.
+<!-- image -->
+
+131. TEEKANNE, eiformig.Gebogenes AusguBrohr. Ohrmuschelformig gebogener Blattstielhenkel. Bemalt mit S-formig verlaufenden Girlanden, abwechselnd aus bunten Blumen und Lorbeerblattern bestehend und schrag gestellte Felder bildend. Der Raum oben und unten bis zu den Randern mit blau punktierten Augen auf blablila Grund (Perlhuhnmuster - ceuil de perdrix).Am Ausguf Blumen.Griff und Rander vergoldet. Blumen von Taillandier.
+
+H.10,8 cm.Marke Doppel-L., bourbonische Lilie. Um 1780. Proven. Ehem. Coll.Lord Londsdale (1787). Ausstellung K.K.-Gew.-Mus.1904. Bruning,Europ.Porzellan des 18. Jahrh., No. 1145.
+
+Reproduktion Tafel 40.
+
+132. TEESERVICE,bestehend aus Teekannchen, SahnengieBer, Tasse mit Untertasse und Anbietplatte. Teekannchen eiformig, mit ?-formigem Henkel,Deckel (Knopf abgebrochen) und AusguBrohr. Milchkannchen geschweift, Rand konturiert, Henkel in Form eines Aststiels mit Blumen, drei FuBchen. Tasse geschweift, in der Mitte und am FuB eingezogen,
+
+<!-- image -->
+
+geflochtener Henkel, Untertasse schalenformig. Anbietplatte achtseitig nach innen gebogt,Rand schrag ansteigend. Bemalung: Dunne, blaue Randlinien mit Goldtupfen und gezackten Goldlinien.WeiBer Fond mit exotischen Vogeln auf Zweigen. Henkel und FuBe blau gehoht und mit Gold verziert.
+
+H.des Teekannchens 8,5 cm,MilchgieBer 8,5 cm,Tasse 5,6 cm, Durchm.6,8 cm,Durchm. der Anbietplatte 23,5 cm. Marke auf der Anbietplatte Doppel-L mit Jahresbuchstaben K.und Malermarke in Blau.1762. Maler:Chapuis ainé.
+
+<!-- image -->
+
+133. TASSE MIT UNTERTASSE. Wandungen gewolbt. Grund konigsblau. Auf Tasse und Untertasse ein Feld ausgespart, umrahmt von Stabwerk (treillage)mit Blumen in radiertem Golde,in dem Felde zwei fliegende Vogel. Vom blattstielartigen, goldgehohten Henkel ausgehend zwei Blumenranken in Gold. Ausgezackte Goldrander
+
+H. der Tasse 8,1 cm,Durchm. 7,8 cm. Marke Doppel-L. Um 1750. Ausstellung K.K.-Gew.-Mus.Berlin 1904. Bruning, Europ. Porzellan des 18. Jahrh., No.1116.
+
+Reproduktion Tafel40.
+
+<!-- image -->
+
+- 134.ZUCKERDOSE,rund,Wandung geschweift,inmal eingezogen. Als Knauf goldgehohte Blume. Grund konigsblau mit feiner Sprenkelung in Gold. Je zwei herzformige Felder ausgespart, die mit Schilf, Rosen und VergiBmeinnicht in radiertem Golde umrahmt sind. In den Feldern in Purpur gefligelte Knaben auf Wolken,
+einer mit Rosen, der andere mit Vogel und Vogelbauer (nach Boucher), der Deckel entsprechend bemalt. In den Feldern Kocher mit Bogen und Fackel.Gezackte Goldrander.
+
+H.9,9 cm,Durchm.8 cm.Marke Doppel-L. Jahresbuchstaben A eingekratzt 4.—1753. AusstellungK.K.-Gew.-Mus.Berlin 1904. Brining, Europ. Porzellan des 18. Jahrh., No.1122.
+
+Reproduktion Tafel 37.
+
+135. DESGLEICHEN, Wandung leicht geschweift. Als Knauf
+2. goldene Frucht mit radierten Blattern. Bemalt mit schragen, abwechselnd turkisblauen und weiBen,leicht gewellten Streifen, die durch punktierte Goldlinien getrennt sind. In den blauen Streifen zierliche Ranken in Gold, in den weiBen bunte Blumengehange. Gezackte Goldrander.
+
+<!-- image -->
+
+H.10,6 cm,Durchm. 8,3 cm. Marke Doppel-L. Jahresbuchstabe C (1755). Ausstellung K.K.-Gew.-Mus.Berlin 1904. Brining, Europ. Porzellan des 18. Jahrh.,No.1123.
+
+Reproduktton Tafel 40.
+
+<!-- image -->
+
+136. TASSE MIT UNTERTASSE,zylindrisch.Henkel glatt, geschweift. Untertasse mit schrag ansteigendem Rande. Grund dunkelblau mit ausgesparten, weiben Kreisen. In diesen purpurner Punktkreis mit Goldpunkt in der Mitte.Auf dem blauen Grunde verstreut Goldpunkte. Auf der Tasse in einem ausgesparten, ovalen, goldumranderten Felde ein geflugelter Knabe mit Blumenkorb auf Wolken in Purpur. In dem Spiegel der Untertasse Knabe mit Helm und Schwert. Gezackte Goldrander. Purpurmalerei von Asselin.
+
+H. der Tasse 4,7 cm, Durchm. 5,1 cm. Marke Hellpurpur, Doppel-L. Jahresbuchstabe M.
+
+Reproduktion Tafel 35.
+
+darunter A.(1765). Ausstellung K.K.-Gew.-Mus.Berlin 1904. Bruning, Europ.Porzellan des 18. Jahrh., No.1132.
+
+137. DESGLEICHEN, zylindrisch, Henkel glatt, geschweift. Als Grund Schuppenmuster in Gold und Blau. Auf der Tasse vier rhombische Felder ausgespart, auf der Untertasse ein rundes, um das sich sechs rhombische gruppieren. In den Feldern rote Rosen. Henkel goldgehoht. Goldrander. Blumen von Guillaume Noel.
+
+<!-- image -->
+
+H. der Tasse 4,6 cm,Durchm.5 cm. Marke Doppel-L.Jahresbuchstabe Z.(1777). Ausstellung K.K.-Gew.-Mus.Berlin 1904. Bruning, Europ.Porzellan des 18. Jahrh.,No. 1138.
+
+Reproduktion Tafel 35.
+- 138.TASSE MIT UNTERTASSE,zylindrisch,Henkel glatt, geschweift. Untertasse mit schragem Rand. Juwelendekor. Auf der oberen Halfte der Tasse und am Rande der Untertasse doppeltes Wellenband,gebildet aus breiten Bandern und Akanthusschossen,an denen drei grune
+
+<!-- image -->
+
+emaillierte Blattkelche in ziseliertem,mit bunten Emailleperlen verziertem Golde hangen. Als Umrahmung Perlreihen. Darunter schmale Goldborte mitPerlen. In der Mitte der Untertasse in grunem Email das Doppel-L. Henkel goldgehoht. Ausgezackte Goldrander. Ornamente von Fontaine, Vergoldung von Theodore.
+
+H.der Tasse 4,7 cm,Durchm.5 cm.Marke Doppel-L und Jahresbuchstaben A.A. (1778) Punkte und eingekratzt 36.
+
+Ausstellung K.K.-Gew.-Mus.Berlin 1904.
+
+Brining,Europ. Porzellan des 18. Jahrh., No.1139.
+
+Reproduktion Tafel 37.
+
+139. DESGLEICHEN,Juwelendekor (porcelain a émaux).Gerade zylindrische Form mit ohrmuschelformigem,weiBem Henkel, Untertasse mit schrag aufsteigendem,hohem Rand,konigsblauer Grund.Auf der Obertasse drei ovale kleine Medaillons mit karneolrotem,emailliertem Felde und goldener,getriebener Umrahmung. Die Medaillons verbunden durch zierliche, gold getriebene Lorbeer-Girlanden,in der Mitte Kranze bildend, die
+
+<!-- image -->
+
+Beeren aus roten Schmelzperlen gebildet. Am Lippen- und FuBrand Lorbeerbordire, die Kanten vergoldet. Die Untertasse analog. Spiegel glatt, blau,am Rande wieder Lorbeerblattbordure.
+
+H.7 cm,Durchm. 6,8 cm, Untertasse Durchm.14 cm. Marke Doppel-L in Blau und L.G. in Blau. Vergoldung von Le Guay. Um 1780.
+
+Reproduktion Tafel 30.
+
+140. DESGLEICHEN, gerade Form mit eingezogenem FuB, rundem Henkel, Untertasse schalenformig.WeiBer Fond mit zwolf in Gold gemalten Blattkranzen,in zwei Reihen nebeneinander stehend. In jedem Kranz
+
+<!-- image -->
+
+eine aufgebluhte, rote Rose mit Knospen und kleinen Blattern. Am Rand gezackte Goldbordure. Auf der Untertasse acht solche Kranze am Rande, und vier im Spiegel. Auf dem Henkel Bluten in Gold gemalt.
+
+H.6,3 cm,Durchm.7 cm,Untertasse Durchm. 13,7 cm. Marke Doppel-L in Blau mit py. Um 1770. Blumen von Sion jeuné.
+
+In Original-Etui aus rotem, goldgepreBtem Leder, innen rosa Seide.
+
+Reproduktton Tafel 39.
+141. TEEKANNE mit Deckel. Eiformige Leibung mit ohrmuschelformigem Henkel und geschweiftem AusguB. Als Deckelknopf vergoldete Frucht mit Blattern. Grund konigsblau. Um den oberen Rand ein nach innen gebogter, sechseckiger Stern, darunter eine breite Bordure von sich iberschneidenden in Gold radierten Blumengirlanden und goldener Linie durch die Schnittpunkte.An den Breitseiten groBe weiBe Medaillons mit breiter goldener Randlinie und Stilleben aus Fruchten mit Feldblumen. Am unteren Ende des weiBen AusguBrohres Rosenkranz. Henkel ganz vergoldet. Deckel mit weiBem Spiegel,Blumenkranz und Lorbeerbordure in Gold auf konigsblauem Fond. H.12,2 cm. Marke Doppel-L (in schwarz-blauer Farbe) mit sechs Buchstaben X (1774), darunter P und ein 7-ahnliches Zeichen. Bemalung von Pierre jeune (7).
+
+<!-- image -->
+
+Reproduktion Tafel 30.
+
+## LA.HUPE.
+
+<!-- image -->
+
+toureau, Seo terres Magelanigues
+
+<!-- image -->
+
+<!-- image -->
+
+- 142.TASSE MIT UNTERTASSE, gerade,zylindrische Form.mit ohrmuschelformigem Henkel, Untertasse mit schrag ansteigendem,hohem Rande. Grund leuchtendes ultramarinblau,auf der Stirnseite der Obertasse ovales Medaillon in goldradierter Umrahmung. Schuppenband mit Blatt-und Ornamentranken. Im Felde minutios gemalter Wiedehopf in einer Landschaft.Am oberen Rande Goldrankenbordire mit Blattgirlanden， am unteren gerade Lorbeerbordure. Im Spiegel der Untertassen kreisrundesMedaillon
+
+mit einem roten Staar in einer Landschaft. Randborduire wie bei der Obertasse.
+
+H.7 cm, Durchm. 6,7 cm,Durchm. der Untertasse 13,6 cm. Marke Untertasse Doppel-L Auf der Obertasse fehlen die in Blau, Jahresbuchstaben Doppel-J.1785.Malermarke C...A
+
+Jahresbuchstaben.Vogelvon Castel.
+
+Reproduktton Tafel 40.
+
+143. TEESERVICE,bestehend aus Teekanne,Milchkanne, zwei Tassen nebst Untertassen. Purpurgehohte Rosen als Knaufe. Als Henkel der Milchkanne und der Tassen goldgehohte verschlungene Blattstiele. Die Flachen (auch das AusguBrohr der Teekanne) sind geteilt durch je drei vertikale purpurne Stabe, die von einem Goldbande umwunden sind.In den Zwischenraumen
+
+<!-- image -->
+
+je ein herabhangender gruner Zweig mit kleinen purpurnen und eisenroten
+Bluten. Die Rander konigsblau mit Goldornament (Blatter- und Punktreihen). Die Henkel mit Goldornament, auf dem der Teekanne goldenes Gratenmuster. Der SchnabelausguB der Milchkanne mit goldenen Rocaillen. Blumen von Cornaille. Vergoldete Silberketten verbinden Deckel und
+
+Henkel der Kannen.
+
+H.4,3 cm,Durchm.8,3 cm. Marke unter der Teekanne, den beiden Tassen und einer Unter-
+
+Dazu Teekanne H.12 cm,Milchkanne H.13 cm,Zuckerdose H.10,8 cm, Tassen H.6,3 cm. gehorig: zwei silberne Lofel mit Spuren von Vergoldung und zylindrische Zinnbuichse tasse. Die anderen Sticke, deren Grin dunkler ist, sind spatere Arbeiten. Eingekratzt in der Milchkanne dt. Jahresbuchstabe L (1763).
+
+Als Futteral: Rechteckiger Holzkasten, fourniert mit Rosenholz; auf dem Deckel perspektivisches Wurfelmuster in Braun und Grun. Griffe und Schlusselschild aus vergoldeter Bronze. Innen gefuttert mit roter Seide.
+
+H.17,5 cm,B.30,2 cm,T.24,8 cm.
+
+Ausstellung K.K.-Gew.-Mus.Berlin 1904. Bruining,Europ.Porzellan des 18.Jahrh.,No.1130.
+
+Reproduktion Tafel 41.
+
+<!-- image -->
+
+H. der Teekanne 10,5 cm,Znckerdose 9,1 cm, Tassen 5,2 cm,Durchm. der Anbietplatte
+
+144. DESGLEICHEN. Teekanne,Zuckerdose, zwei Tassen mit Untertassen und Anbietplatte. Eiformig, gebogenes AusguBrohr und Blattstielhenkel. Knaufe in Form von goldgehohten Birnen. Anbietplatte rautenformig mit schrag ansteigendem,geschweiftem Rande und abgerundeten Ecken. Bemalt an den Randern mit Flechtmuster in WeiB, Blau und Gold. Dazwischen ausgesparte Felder in Rocaille-Umrahmung mit Gitterwerk in Gold. Darin bunte BlumenstrauBe. Bei der Teekanne und Buchse ist das Randmuster zackenartig ausgeschnitten. Auf den freien Flachen zweiNagel auf einem Baum in Landschaft. 30X25 cm. Marke Doppel-L und Punkte.Um 1750.
+
+Ausstellung K. K.-Gew.-Mus. Berlin 104. Brinung, Europ. Porzellan des 18. Jahrh., No. 1118.
+
+Reproduktion Tafel 37.
+
+145. TEEKANNE,eiformig, kurzer,zylindrischer Hals. Gebuckelter Deckel. AusguB in Form eines Adlerkopfes, der in eine
+2. Palmette auslauft. Auf den Griff aufgelegt zwei Akanthus-
+
+<!-- image -->
+
+mit aufsteigenden Lorbeerblattern.Grund turkisblau. Auf
+
+Schulter und Hals radierte Goldranke. Dazwischen weiBe Zone mit bunten Blumengehangen,verbunden durch goldene Doppelkelche. Am Hals drei Medaillons, in zweien antike Kopfe in Kameen-Art auf braunem Grunde, Das ursprunglich darin befindliche (vom Kranz im dritten Lorbeerkranz. umrahmte) Monogramm E II abgeschliffen. Henkel, AusguB, Knauf und Lorbeerkranzblatt ganz vergoldet. Blumen von Barre. Aus dem Service der Kaiserin Katharina Il. von RuBland.
+
+H.17,2 cm. Marke Doppel-L darunter B (1778). Ausstellung K.K.-Gew.-Mus.Berlin 1904. Brining, Europ. Porzellan des 18. Jahrh., No.1142.
+
+Reproduktion Tafel 29.
+146. SUPPENNAPF MIT UNTERSATZ. Geschweifte Wandungen. Als Henkel verschlungene Blattstiele.Als Deckelgriff Lorbeerzweig. Untersatz oval mit geschweiftem Rande.Grund konigsblau. Auf jedem Stick zwei nierenformige Felder ausgespart. Darin gemalt bunte Blumen in Korben, die an blauen Schleifen hangen. Auf dem Blau zwischen den Feldern Gitter-
+
+<!-- image -->
+
+und Bandelwerk mit Blumengirlanden in radiertem Gold. Goldrander. Blumen von Cornaille,Vergoldung von Chauvaux dem Alteren.
+
+H. des Napfes 10,2 cm,Durchm.15X11,6 cm,Untersatz 19,8X16 cm. Marke Doppel-L und Jahresbuchstaben ee in goldener Note und zwei gekreuzte Doppelstriche, eingekratzt 15, undeutlich 43.1782.
+
+Ausstellung K.K.-Gew.-Mus.Berlin 1904. Bruining,Europ.Porzellan des 18. Jahah.,No.1147.
+
+Reproduktion Tafel 33.
+
+<!-- image -->
+
+- 147.TEESERVICE, bestehend aus Teekanne, MilchguB,Zuckerdose mit Deckel, zwei Tassen mit Untertassen und Anbietplatte. Teekanne eiformig, Deckel, geschweiftes weiBes AusguBrohr, ohrmuschelformiger Henkel. MilchguB geschweift,konturierter AusguB, drei FuBe. Zuckerdose birnformig mit Deckel, Tassen von glatter, runder Form mit eingezogenem FuB und weibem Henkel. Anbietplatte viereckig mit abgerundeten Ecken,geschweifte Konturen,erhohter Rand mit freistehenden Rocaille-Griffen. Bemalung: Fond pfirsichblutenrosa mit ausgesparten weiBen,kleinen Kreisen, die mit blauen Punkten umrandet sind, in der Mitte mit einem Goldpunkt (ceuil de perdrix). WeiBe, ovale Reserven mit radierter Goldkante. Blumengirlanden aus Rosen und Feldblumen. Auf der Anbietplatte viereckiges, weiBes Feld mit groBem Blumenkranz. An den Randern gezackte Goldkanten. Als Deckelknopf gelbe Blume mit Blattern.
+
+H. der Teekanne 12,5 cm, MilchguB 9,5 cm, Zuckerdose 8,5 cm, Tassen 6,2 cm, Durchm. der Anbietplatte 32,5X26 cm.Marke in Blau,Jahresbuchstabe M (1764).Teekanne ohne Marke, Anbietplatte nur Doppel-L. Blumen von Cornaille gemalt.
+
+Reproduktton Tafel 38.
+
+148. TASSE MIT UNTERTASSE,Juwelendekor (porcelaine a emaux). Gerade,zylindrische Wandung mit ohrmuschelformigem,weibem Henkel. Untertasse mit schrag aufsteigendem, hohem Rande. Konigsblauer Grund mit Bordure aus sich iberschneidenden Bogenlinien aus aufgesetzten,in Gold getriebenen, kleinen Kreisen mit weiBen und carneolroten Schmelzperlen. In den
+
+<!-- image -->
+
+ovalen Feldern kreisrunde, goldgetriebene Rosetten, Blattmotive, und Flechtbander mit Schmelzperlen. An den Schnittpunkten der Wellenlinien hangen ovale Medaillons mit Grisaille-Gemmen in getriebener,
+emaillierter Umrahmung und weiBen Perlborduren. Am unteren Rande eine Bordure mit abwechselnd weiBen und korallenroten Halbperlen in goldener Fassung. Die Untertasse analog. Auf dem Rande vier Gemmen und vier Rosetten, im Spiegel Bordure wie am FuB der Obertasse und goldener Lorbeerkranz.
+
+H.7,5 cm,Durchm.7,4 cm,Durchm.der Untertasse 15,4 cm.Marke Doppel-L in Gold und L.G.in Gold, am Rande blauer Punkt, eingedruckt auf Obertasse 43, auf Untertasse 38A.Vergoldung von Le Guay. Um 1770.
+
+Reproduktion Tafel 30.
+
+149. SUPPENSCHUSSEL MIT DECKEL UND UNTERSATZ.
+2. Kumpige Form mit zwei Henkeln in Form verschlungener Stiele, gewolbter,in der Mitte eingezogener Deckel mit vergoldetem Griff-Henkel in Form eines Zweiges mit Blattern und Fruchten. Untersatz oval geschweift, erhohter
+
+<!-- image -->
+
+Rand, vertiefter Fond,kurz abgesetzter FuB. Bemalung: Am Rande ceuil de perdrix-Motiv in Turkisblau mit weiBausgesparten,dunkelblau punktierten, kleinen Kreisen, gegen den weiben Fond durch goldene Linie abgesetzt. Kreuzweis sich gegenuberstehend vier in Gold gemalte Ranken, durch ein Viereck gesteckt,in Form eines liegenden lateinischen E",an der Gold linie ringsherum Girlanden aus Rosen und Feldblumen. Im Fond ein Kranz aus bunten Blumen. Schussel und Deckel analog gemalt. Randlinien vergoldet. Auf der Ruckseite des Untersatzes in Gold gemalte Blattborduren.
+
+H.der Schissel mit Deckel 12 cm,Durchm.13,2 cm,Durchm. des Untersatzes 23X18,7 cm. Marke Doppel-L in Blau. Jahresbuchstabe T. Maler L.B. 1771. Blumen von Le Bel jeune.
+
+Reproduktton Tafel 33.
+
+150. TELLER, sechsfach gebogter Rand mit kleinen Zwischenbogen,flache Form.Rand ,Rose Dubarry",Fond mit drei weiBen ovalen Medaillons, umrahmt von Rocaillen und Blumengehangen aus radiertem Gold und ornamental mit den in gleicher Technik gemalten Ranken und Blumengehangen der Zwischenraume verbunden. AeuBere Randlinie nach innen gezackt. Spiegel weiB mit Stilleben aus Rosen, Feldblumen und Frichten.
+
+<!-- image -->
+
+Durchm.24,6 cm.Marke Doppel-L in Blau.Jahresbuchstabe X.(1774),darunter L.Bemalung von Leve pere. Aus dem Serviece des Cte. de La Redoute.
+
+Reproduktion Tafel 31.
+
+151. TEESERVICE,bestehend aus Teekanne, MilchguB,Zuckerdose mit Deckel, zwei Ober- und Untertassen, Anbietplatte. Teekanne eiformig,
+ohrmuschelformiger Henkel, geschweifter AusguB, als Deckelknopf eine vergoldete Frucht. MilchguB geschweift, am Rande konturiert, Henkel ?-formig, drei FuBchen in Form von Zweigen. Tassen zylindrisch, Untertassen mit schrag aufsteigendem Rand.Anbietplatte in Form eines gestreckten Vierpasses, der Rand in Form einer flachen Kehle mit geflochtener, glatter,vergoldeter Schnur,an den langen Seiten Henkel in Form weiBer,goldgetupfter Bandschleifen. Bemalung der Gefabe:WeiBer Fond mit goldenen RocailleBorduren und glatten,goldenen Streifen am unteren Rande, am oberen kleine Bogen und glatte Streifen.Auf dem weiBen Fond Rosenkranze mit Blumen- und Fruchtkorben an Schleifen, verbunden durch Ranken und Girlanden. Spiegel der Untertassen weiB mit goldenem Blumenkranz und in goldradierter Rose.Anbietplatte mit abgesetztem Rande.An den Bogen
+
+2000
+
+<!-- image -->
+
+kreuzweis gegenuberstehend Rosenkranze am Rande, an den Zwickel ecken Vasen mit Blumen,in den Zwischenraumen Girlanden.Im Fond vier Kartuschen mit in Gold radierten Rocaillen umrahmt. In jeder ein an einer Bandschleife hangender Korb mit Blumen und Fruchten,verbunden nach den Seiten durch Girlanden.In der Mitte goldene Blattrosette.
+
+H. der Teekanne 11 cm,MilchguB 10 cm,Zuckerdose 10 cm,Tassen 6 cm,Durchm.5,8 cm, Anbietplatte Durchm.42X32 cm.Marke Doppel-L mit Krone in Purpur,darunter Malermarke:zwei gekreuzte Zweige und 2000. Um 1780. Blumen von Sinsson, Vergoldung von Vincent.
+
+Reproduktion Tafel36.
+
+<!-- image -->
+
+eine in Gold gemalte Perlschnur,an den Henkeln goldenes Eichenlaub,unter den Voluten ein Perlkranz und Blumen. Auf dem weiBen Fond (am unteren Drittel) eine Bordure mit ovalen Perlen und Goldpunkten auf purpurviolettem Grunde,nach oben und unten mit zierlicher Goldspitzenbordure eingefaBt. FuBrand glatt Gold,ebenso die obere Kante.
+
+152-53. EIN PAAR CACHE-POTS,zylindrische Form mit eingezogenem FuB, kleinem Karnisprofil am Rande und zwei Rocaille-Henkeln. Unter dem Rand breite tuirkisblaue Bordure mit zwei ovalen, weiBen Medaillons mit radierter Goldumrahmung,Bandwulst und Schilfblatter. Im Felde Blumenzweig und Lorbeer-Umrahmung. Auf dem Turkisrande
+
+H.10,9 cm,Durchm.12 cm. Marke Doppel-L in Blau. Jahresbuchstaben h.h.1784. Dariber a) Marke des Blumen-Malers in Blau: Noel. b) bezw.unter dem Monogramm M (Massy?) Darunter beide in Gold H.P.Vergoldung von Prevost.
+
+Reproduktion Tafel 29.
+<!-- image -->
+
+154. TEESERVICE:Teekanne,MilchguB, Zuckerdose, sechs Tassen. Teekanne eiformig, mit gebogenem Ausgubrohr und ohrmuschelRand geschweift. Der Griff und die drei FuBe in Form von Asten,von denen aus sich Blumenzweige in Relief verbreiten. Zuckerdose zylindrisch,unten etwas verjungt. Als Deckelknauf eine Blume. Grund konigsblau. Ausgespart ein,bezw. zwei ovale,bezw.runde Felder, die von goldradierten Blumenranken eingerahmt sind. In den Feldern je zwei fliegende bunte Vogel mit Zweigen.Auf dem Deckel der Zuckerdose bunter Blumenkranz.Goldrander.
+
+H.der Teekanne 12,4 cm,MilchguB 9,5 cm,Zuckerdose 9,2 cm,Tassen 6,1 cm.Marke auf Zuckerdose und Tassen Doppel-L. Um 1750. Ausstellung K.K.-Gew.-Mus.Berlin 1904. Bruning, Europ.Porzellan des 18.Jahrh.,No. 1115.
+
+Reproduktion Tafel 34.
+
+<!-- image -->
+## D.KLEINKUNST (OBJETS DE VITRINE).
+
+DOSEN,FACHER,MINIATUREN,FLAKONS,MEDAILLONIN KEHLHEIMER STEIN ETC.
+
+No.155-180.
+
+- 155.FINGERRING, Gold, schmaler Reif mit breiter, langlich rechteckiger,an den Ecken abgeschragter,leicht gebogter Platte mit meisterhaft gemaltem Miniaturportrat eines jungen bartlosen Kavaliers in gepuderter Perricke, weiBem Spitzenjabot und dunklem Rock,mit kleinem Ordensband im
+- Knopfloch. Das Gesicht dem Beschauer voll zugewandt.
+
+Franzosisch,Ende 18. Jahrh,PlattengroBe 3,4X1,8 cm.
+
+Reproduktion Tafel46.
+
+- 156.NADELBUCHSE, Gold,emailliert. Ovaler Querschnitt. Bleu royal-Fond
+- mit goldenem Sternchen und mattgoldenen, fein ziselierten Borduren mit Opalen besetzt.
+
+Franzosisch, letztes Drittel 18. Jahrh. Pariser Beschaumarken. Durchschnitt 1,5X1,2 cm.
+
+Reproduktion Tafel 43.
+
+Lg.8,7cm.
+
+157. DESGLEICHEN, aus Blutjaspis,am VerschluB und am Boden in Gold
+2. montiert in Form durchbrochener,fein ziselierter Rocaille-Ornamente mit Blumen.Als Druckknopf kleiner Brillant.
+
+Franzosisch, Mitte 18. Jahrh.Lg.9,3 cm.
+
+Reproduktion Tafel 43.
+
+158. DOSE,rund aus blau-grunem poudre d'écaille,innen Schildpattfutter. Im Deckel eine ovale Elfenbein-Miniatur. Brustbild einer Dame in hochfrisiertem Haar,dekolletiertem,rotbraunem Kleid mit grunem Besatz Franzosisch, Ende 18. Jahrh. Um die Miniatur ovaler, gravierter Goldreifen. H.2,4 cm,
+
+Reproduktion Tafet 44.
+
+- und Spitzen am Ausschnitt. Das Gesicht dem Beschauer zugewandt. Durchm.7,5cm.
+159. DESGLEICHEN, Gold, emailliert. Langlich achteckige Form; auf allen
+- Seiten gestreifter bleu royal-Fond mit transluciden,zierlichen Goldborduren a deux couleurs und weiBen Linien.
+
+Franzosisch,Ende 18.Jahrh. Beschaumarken nicht deutlich, (Jean Bte.Fouache.1774—1780, Paris7) H.2,3 cm,B.8cm,T.3 cm.
+160. DOSE. Gold, von flacher,rechteckiger Form. Guillochierte Wandung
+2. und Boden,auf dem Deckel eine Fullung mit einem aus farbigen Halbedelsteinen gebildeten C,uberragt von einer Furstenkrone;auf dem Grund flache,auf dem Rande kraftig reliefierte,fein ziselierte Blumen-und Rankenornamente a deux couleurs.
+
+Anfang 19.Jahrh.Ohne Beschau.H.1,8 cm, B.9 cm,T.6,4 cm.
+
+Reproduktion Tafel 43.
+
+- 161.DESGLEICHEN,Elfenbeinin Goldmontierung;rundeForm.Auf demDeckel eine Emailminiatur in Sepiaton nach Eisen,Liebespaar,im Park Innen
+- sich kussend. Umrahmt von einem Kranz aus StraBsteinen. Schildpattfutter.
+
+Franzosisch,Ende 18.Jahrh.H.2,3 cm,Durchm.5,3 cm. Reproduktion Tafel 44.
+
+162. DESGLEICHEN, Gold, a quatre couleurs, flache, viereckige Form mit runder Wandung. Von allen Seiten guillochiert,in den Ecken und Zwickeln zierliche Ornamente auf blauem Emailgrund. Im Deckel fein ziselierte Ornamentgruppe mit Blumenkorb und Pfauen.
+
+Anfang 19. Jahrh. Marke C.K. im Monogramm und C. C. S. mit einem Pfeil in einer
+
+Raute.H.1,8 cm, Durchm.8,5X6 cm, Gew.90 g.
+
+163. FACHER mit Elfenbeingestell, 22 Stabe mit flacher Reliefschnitzerei, farbig bemalt und vergoldet auf durchbrochenem Gitterwerk, darstellend Kavaliere mit Damen und Kinder unter einem Baum, denen ein auf einer Bank stehender Kavalier zum Tanz aufspielt. Die vergoldeten Rankenornamente von farbigen Blumengirlanden reizvoll belebt. Die Fahne aus Pfauenhaut. Darstellung einer Parkszene mit zwei vornehmen Damen, denen ein Kavalier auf der Laute vorspielt. Am Rande Blumenranken mit Schmetterlingen und Vogeln. Mitte 18. Jahrh.
+
+Lg.28,5 cm.Aufgespannt Durchm.52 cm.In rotem Maroquin-Lederetui.
+
+164. DOsE, Gold, von langlich, achteckiger Form, gerade Wandung mit
+2. reliefierten Rankenborduren. Im Deckel eine ovale,rote Achatplatte. Franzosisch, Anfang 19.Jahrh. Innen Beschaumarken. H. 2.7 cm,Durchm.7,8X5,8 cm.
+165. DESGLEICHEN, von ovaler Form;Boden und Deckel aus geflecktem Achat. Im Deckel eine skulptierte Trophae. Die Wandung aus Gold mit
+4. fein ziselierten Ornamenten auf gestanztem Grunde. Franzosisch,18.Jahrh.H.2 cm,Durchm.4,2X3,4 cm.
+166. NECESSAIRE-ETUI von flacher, achteckiger Form, aus Porzellanplatte in gravierter Goldmontierung;pate tendre mit farbigen Blumen-
+6. strauBen,umrahmt von Blumenkranzen in zweifarbigem Golde.
+
+Franzosisch,2.Halfte 18.Jahrh.H.8,3 cm, B.5,3 cm,T.1,4 cm.
+167. DOSE, Gold, von ovaler Form, guillochiert und ziseliert. Auf den
+2. Randern Reliefborduren,in der Mitte ein Musik-Emblem a deux couleurs. Franzosisch, Ende 18. Jahrh. H. 1,5 cm,Durchm.6,8X4,6 cm, Gew.48 g
+3. 168.FACHER mit Perlmuttergestell;28 Stabe mit durchbrochenem,farbig unterlegtem Gitterwerk,flach reliefierten Figuren und Ornamenten,sowie gemalten Genreszenen und Darstellungen aus Lafontaine's Fabeln. In der Mitte eine vornehme Gesellschaft a la Watteau. Die Fahne aus Pergament ganz bemalt. Im Mittelpunkt unter einem Baldachin eine Furstin, umgeben von Frauen, die von einem Kunstler gemalt wird. (Apelles und Cambasbe.). Rechts der jugendliche Alexander, im Hintergrund Landschaft und Zeltlager. Die Figuren in klassischen Kostumen.
+4. (in On) Um den Rand reiche Blumen- und Ornamentbordure mit Fruchten, Tieren usw. Ruckseitig Park mit Genreszene.
+
+Franzosisch,Mitte 18.Jahrh. Lg.29,5 cm.Aufgespannt Durchm.57 cm.
+
+Reproduktion Tafel 45.
+
+169. ELFENBEIN-MINIATUR. Brustbild eines jungen Madchens in weibem,
+2. dekolletiertem Kleid mit blauem Gurtelband, braunes, in der Mitte gescheiteltes lockiges Haar, das Kopfchen leicht zur Seite geneigt. Rechts bezeichnet Mt Jaser.
+
+Anfang 19.Jahrh. In viereckigem Citronenholzrahmen mit reich verzierter,vergoldeter,ovaler
+
+Bronze-Einlage. Durchm.der Miniatur 7,5X6,2 cm. Gr. des Rahmens 15,5X13 cm.
+
+Reproduktion Tafel44.
+
+170. FACHER mit Perlmuttergestell; 24 Stabe mit teils durchbrochenen, teils reliefiert geschnitzten a deux couleurs vergoldeten Rocailleornamenten mit Blumen und Vogeln. Die Fahne aus Pergament, ganz bemalt. Auf der Vorderseite eine grobe, figurenreiche Komposition: unter einem von Saulen getragenen Thron sitzt die Konigin von Saba, der sich huldigend der jugendliche Konig Salomon naht. Zu beiden Seiten des Thrones Frauen und Amoretten. Um den Rand Rocaille-Bordure mit Blumen. Auf der Ruckseite ahnliche Szene,einfacher, mit 4 Figuren.
+
+Franzosisch, Mitte 18. Jahrh. Lg.29,5 cm, aufgespannt 57 cm.
+
+ReproduktionTafel42.
+
+171. FLAKON aus fassetiert geschliffenem Kristall von abgeflachter Tropfenform,nach unten sich verjungend, ganz uberfangen mit goldenen, fein ziselierten Rocailleornamenten und Blumengehangen. Der Stopsel in Form
+2. einer konturierten doppelseitigen Muschel mit zierlichem Kettchen.
+
+Franzosisch, Mitte 18. Jahrh. H. 8,5 cm, B.3,5 cm. In Original Schlangenhaut-Etui.
+
+Reproduktion Tafel 43.
+
+172. DESGLEICHEN, von abgeflachter Form, mit flach geschliffenen Hohl-
+2. kehlen. Ganz mit Goldornamenten iberfangen; an den Seiten rechts und
+links Leisten in Form gekehlter Pfeiler, unten sich in geschwungene Ranken auflosend,oben durchbrochenes Muschelwerk tragend. Auf beiden Seiten in der Mitte je ein Blumenkorb mit Libelle und Girlande,oben Blumen- bezw. Gewandfeston.Am Hals ein weiB emailliertes Band mit Inschrift:,Gage De Mon Amour."——Der Stopsel (mit Goldkettchen) in Form einer doppelseitigen Muschel.
+
+Franzosisch,Mitte 18.Jahrh.H.9,7 cm,B.4,3 cm.
+
+Reproduktion Tafel 43.
+
+173. ELFENBEIN-MINIATUR,Bildnis einer sitzenden Dame in dekolletiertem Kostum — gelbes Mieder mit blauem Rock —und StrauBfederhut,in den Handen einen weiben Schleier haltend. Im SchoB Blumen,am Arm einen Pompadour.
+
+Franzosisch,18. Jahrh. In rundem, silbervergoldetem Rahmen mit blauer Emailbordure. Durchm.6,5 cm.
+
+174. NOTIZTAFEL (Carnet de bal), Elfenbein mit Klappdeckel, in fein ziselierter Goldmontierung. Auf der Vorderseite eine Elfenbein-Miniatur, Brustbild des Cte. de Mortemar, auf der Ruckseite Medaillon mit Haaren. Am Deckel zwei goldene Ranken mit Blumen und ,Souvenir —
+2. D'Amitie".
+
+Franzosisch, Ende 18.Jahrh. Gr.8,5X5 cm.
+
+175. FACHER mit Perlmuttergestell, 20 Stabe mit gebogten Konturen und reliefierten, geschnitzten und vergoldeten Blumenranken. Auf den beiden AuBenstaben je zwei Medaillons in Rocailleornamenten mit Email-Plaketten. Die Fahne aus Pergament mit drei durch zierliche Ornamentleisten mit Musik-Emblemen getrennten Feldern und reizvoll gemalten Genreszenen a la Watteau; eine ahnliche Darstellung auf der Ruckseite.
+
+Franzosisch, zweite Halfte des 18.Jahrh, Lg.26,5 cm,aufgespannt Durchm.48 cm.
+
+Reproduktion Tafel 45.
+
+176. DOsE,Gold, a deux couleurs, von achteckiger Form. Gerade, hohe Wandung, je vier Felder blau emailliert,je vier mit relieferten Emblemen in einem ovalen Medaillon. Der Boden blau emailliert, in der Mitte goldene Rosette. Im Deckel （am Rande analog den Seiten) eine achteckige Elfenbein-Miniatur, allegorische Darstellung: Liebe von der Tollheit gefuhrt,landschaftlicher Hintergrund.
+
+Franzosisch, Epoche Louis XVI. Beschaumarken: zwischen zwei von einer Krone iberragten V ein A, ferner ein von einem Pfeil horizontal durchnittenes M und eine kleine
+
+Muschel. H.3,4 cm,Durchm.5,8 cm.
+
+Reproduktion Tafel 43.
+- 177.PORTRATMEDAILLE aus kehlheimer Stein mit dem en faceBrustbildnis Otto Heinrichs, Pfalzgraf bei Rhein. Das bartige Haupt bedeckt ein flaches Barett, die Brust ein reich gesticktes Gewand. Umschrift:OTTO.HENRICVS.D.G.CO.M.ES.PALATINVS.
+- RHEN.ELECTOR.AETATIS.LVI*
+
+Durchm.3,4 cm.In profilierter brauner Holzfassung.
+
+Reproduktton Tafel44.
+
+178. DOsE,rund,aus grun getontem Schildpatt in Goldmontierung. Im Deckel Elfenbein-Miniatur, Bildnis eines jungen Madchens,auf einem Stuhl sitzend, den rechten Arm lose auf eine Tischplatte gelegt, die linke Hand ruht im SchoB. WeiBes, dekolletiertes Kostum mit schwarzem, durchsichtigem Tuch uber die Schultern, das Gesicht mit dem lockigen Haar dem Beschauer zugewandt.
+
+Franzosisch,um 1800.H.3,5 cm,Durchm.8,2 cm.
+
+Reproduktton Tafel 44.
+
+179. DESGLEICHEN, Gold emailliert. Ovale Form. Im Deckel,Boden und Wandung blaue Felder, wellenformiger Fond mit glattblauen,weiβpunktierten, kleinen Kreisen. Die Borduren aus weiBen Schmelzperlen und glatten, weiBen Linien,am Rande eine Bordure aus kleinen Bluiten
+2. mit je vier grunen Cabochons, abwechselnd mit runden Opalen.
+
+Franzosisch,letztes Drittel 18. Jahrh. Pariser Beschaumarken:zwei verschlungene L- ein S mit Krone und Initialen J.E.B.in einem Schild. H.2,3 cm, Durchm.9X5,2 cm.
+
+Reproduktion Tafel46.
+
+- 180.SPITZENFACHER. Perlmuttergestell mit 23 Staben, deren Flache aus dachziegelformig durchbrochenem Grund a quatre couleurs vergoldete Reliefschnitzerei zeigt: in der Mitte das spanische Allianzwappen mit der Konigskrone, rechts und links in reizvoller Anordnung musizierende Amoretten,Vogel,ein Hund, ein Chinese usw.auf elegant geschwungenen Rocaille-Ornamenten. Auf den auberen Stangen Ranken mit Vasen, Trophaen,Amoretten und Wappen. Im Mittelpunkt der abgepaBten Spitzenfahne wiederum das Wappen mit Krone und Ornamenten von ahnlicher Form und Anordnung wie unten.
+
+Franzosisch,Mitte 18.Jahrh. Lg.29 cm,aufgespannt Durchm.54 cm.In grunem Original-
+
+Reproduktion Tafel 42.
+
+Schlangenhaut-Etui mit Gold-Pique-Verzierungen.
+
+<!-- image -->
+## E.ARBEITEN VERSCHIEDENER PORZELLAN-
+
+## MANUFAKTUREN.
+
+ANSBACH-BRUCKBERG,CHANTILLY,FRANKENTHAL,FURSTENBERG,
+
+GOTHA,HOCHST,LUDWIGSBURG,VENEDIG,WIEN.
+
+No.181-217.
+
+181. TASSE ohne Untertasse. Hohe Becherform mit tief eingezogenem FuB und kleiner FuBplatte,ohrmuschelformiger,vergoldeter Henkel. Schwarzer Fond mit breitem, abgesetztem, goldgrundigem Band um die Mitte der Leibung, bemalt mit einem Kranz von losen Feldblumen. Auf dem oberen schwarzen Teile Fries mit Chinoiserien in Gold- und Silberlack (Figuren in Landschaft）), auf dem unteren Teile Epheubordure, dunnstenglig,in Gold- und Silberlack,
+
+H.8 cm,Durchm.8,3 cm. Marke Doppel-L in Blau. Franzosisch, 2. Halfte 18. Jahrh.
+
+182. GROSSE KAFFEEKANNE, eiformige Leibung mit schlankem
+2. Hals, rundem, gewolbtem Deckel, ?-formigem Henkel mit reliefierten Akanthusblattern, spitzem AusguB und drei FuBen in Form von Rocaille-Voluten. Bemalung: Auf der Stirnseite,auf weiBem Fond,grobBe Landschaft mit Baumen,unter denen Tiere 75 ruhen, ein Pferd, ein Ochse und ein Schaf. Links an ein Postament mit Vase steht der Hirt gelehnt. Rechts im Hintergrund Hauser, am Horizont Berge. Als unterer AbschluB des Bildes reiches in Gold gemaltes Rokoko-Ornament. AusguB, FuBe und Henkel mit Gold gehoht, auf der Leibung farbige Streublumen.
+
+<!-- image -->
+
+H.29 cm. Marke C. T.mit Krone und 75 in Blau und Gold. Frankenthal 1775.
+
+- 183.BECHER,von schlanker,zylindrischer Form,achtfach gebogt,eingezogenr
+- FuB mit vergoldeter Linie. Die Wandung entsprechend den Bogen in acht Felder geteilt. In vier Feldern je zwei bis drei Figuren, Manner in langen Manteln,in einem Felde zwei Frauen mit Obstkorben, zu denen ein Mann herantritt. Farben vorzugsweise Eisenrot und Purpur, mit etwas Grun und Gelb. In den vier Zwischenfeldern reiches Bandel- und Gitterwerk, in der Mitte ein Podest mit goldradierter Buste (im Stil Berain's) wiederkehrend. Malerei in Gold und Eisenrot. Innen ganz vergoldet. Ueber dem Goldrand am FuB bezeichnet: (in Eisenrot) Carlo Anreiter Vz. H.7,2 cm,Durchm.7,5 cm. Ohne Marke. Venedig,1.Halfte 18.Jahrh.
+184. TEEBUCHSE von rechteckigem Querschnitt, gerade Wandung mit Hohlkehlen an den Ecken,kurz abgesetztem Halse und Deckel mit ubergreifendem Rande. Vergoldeter runder Knopf. Leuchtend blauer opaker Fond mit Goldlinien an den Konturen.Auf den breiten Seiten fast runde Medaillons mit Goldrahmung und farbiger Malerei auf weibem Fond: Kranze aus Rosen, Winden und Primeln, oben von einer violetten bezw. rosa Schleife gehalten. Aut dem Deckel zwei kleine weiBe Medaillons mit Blumenkranzen.
+
+H.8,5 cm,B.7,3X5,2 cm.Ohne Marke.Franzosisch,2.Halfte 18. Jahrh.
+
+Reproduktion Tafel 39.
+
+185. DOSE von rechteckiger Form mit geschweifter Wandung. Deckel flach gewolbt. Bemalung:Auf der Wandung und dem Boden einzelne Blumenstraube, auf.dem Deckel farbige Genreszene a la Watteau.Auf der Innenseite in ovalem Felde Miniaturportrat eines Knaben mit lockigem Haar, purpurfarbenem,vorn offenem Rock mit Pelzbesatz und eisenrotem Mantel. Die Zwickel braun mit Goldornamenten.Vergoldete Bronze-
+2. montierung.
+
+H.3,5 cm,B.6.5 cm,T.5cm.Franzosisch,um 1800.
+
+186. ZWOLF TELLER, flacher, zwolffach gebogter Rand mit reliefiertem Korbgeflecht-Motiv, und zwolf radialen, geflochtenen Bandern. Auf je sechs Feldern eine einzelne Blume. Im Spiegel reich staffierte Landschaften mit Baumen, Hausern, Burgen,Ruinen,Gebirgen und Flussen, durch Figuren belebt; nach unten abgeschlossen durch schwungvolles Rocaillewerk in Gold mit Purpur und Blau, sowie zierlichen Blattgirlanden. Goldrand.
+
+Durchm.23,5 cm.Marke C. C. verschlungen, dariber Krone. Blau unt. Gl.Ludwigsburg, um1770.
+
+187. MINIATURFIGUR, Dame, stehend, linke Hand hangt lose herab, die rechte ein wenig seitwarts gestreckt, Hand geoffnet. Rokoko-Kostum, weiBes Haubchen, dekolletiert,weiBes Fichu am Ausschnitt, matt-purpurfarbiger,faltiger Ueberrock mit Schleppe und offenen Aermeln mit weiben Einsatzen,weiBes Unterkleid, gelbe Schuhe.
+
+H.8,5 cm. Marke Rad mit Krone und Kreuz. Blau unter Gl. Hochst, um 1770.
+
+ReproduktionTafel26.
+
+188. GRUPPE. Knabe versucht einem Madchen Obst aus der Schurze zuentwenden. Das Madchen sitzend,sich heftig wehrend, der rechte Arm, der vom Knaben erfaBt wird, hoch erhoben; ein Pan-
+2. toffel ist vom FuB gefallen. Bemalung in zarten Farben, gruner Gras-
+sockel. Kostim des Madchens: weibes Haubchen mit gruner Schleife, schwarze (gemalte) Halskette mit goldenem Anhanger, weibes Mieder, gelber Rock mit violetten Streifen,weibe Pantoffel. Knabe: gelber Hut mit grunem Band, rosa Rock, weiBe Hosen mit blau-rosa Streifen.
+
+H.13,5 cm,Durchm. am Sockel 12,5X10 cm. Marke blaues Rad unt. Gl. Eingekratzt R.1.
+
+Reproduktion Tafel28.
+
+Hochst,um 1770.
+
+189. GRUPPE,weiB.,Herbst",drei nackte Kinder. Eins mit dem Rucken auf dem Boden liegend,ein anderes kniet daneben und halt ihm eine Weintraube ibers Gesicht. Ein drittes liegt schlafend links seitwarts auf
+2. dem Leib, das Gesicht in ein Gewand vergraben. Felssockel.
+
+H.12 cm,Durchm. am Sockel 13,5X10,2 cm. Marke C.T.mit Krone und 84 unter Glasur in Blau;eingekratzt No.2 W. Frankenthal,1784. Modell von Konrad Linck.
+
+ReprodukttonTafel28.
+
+190. DOSE von langlich rechteckiger Form, gewolbter Deckel, abgerundete Ecken. Silbervergoldete Montierung.Auf samtlichen Flachen der Wandung und des Deckels reliefierte weiBe Rocaille-Kartuschen auf (durchsichtig) kobaltblauem Grunde. Innenflachen der Kartuschen weiB mit Malerei in Eisenrot. Auf der Wandung vorn Landschaft mit Burg und Samann,hinten FluBlandschaft, am Boden Amorette.Auf dem Deckel Liebespaar in einer Landschaft. Innenseite des Deckels glatt, Malerei wieder in Eisenrot. Genreszene nach Watteau:Liebespaar vor einer Laube im Park, Wein trinkend; links Mauerwerk mit Kellertreppe und einem Diener mit Weinflasche. Innenwande der Dose ganz vergoldet.
+
+H.4,8 cm,B:0 cm,T.5 cm.Ohne Marke.Frankenthal,2.Halfte 18.Jahrh.
+
+Reproduktion Tafel 48.
+
+191. FLAKON, darstellend einen Bauer in gelbem Rock mit roten Beinkleidern und schwarzem Hut,auf dem Rucken eine Kiepe mit (freirund modellierten,farbigen) Blumen tragend. Als Stopsel ein kleiner,Beeren pickender Vogel. Zu FuBen sitzender Hund.Rocaille-Sockel, am Boden
+2. mit goldenem Gitterwerk bemalt.
+
+Chelsea,Mitte 18.Jahrh. H. 8,5 cm.
+
+Reproduktion Tafel 23.
+
+192. SCHOKOLADE-SERVICE,bestehend aus Kannchen mit Deckel,
+2. Tasse mit Untertasse, Anbietplatte. Kannchen von bauchiger Form mit ohrmuschelformigem Henkel und spitzem SchnabelausguB. Obertasse von geschweifter Becherform mit Henkel, Anbietplatte
+
+<!-- image -->
+
+von rechteckiger Form mit erhohtem Rande, gebogt,hochstehende RocailleHenkel, mit einem Ende iber den Rand auf der Platte aufsitzend. Malerei: An allen Sticken Bordure am Rande mit hell-violetten Medaillons und
+schraffierten goldenen Zwischengliedern und Rosetten. Um die Bordure Auf der Anbietplatte vier Amoretten mit Vogelbauer und flatternden Bandern.
+
+schlingt sich wellenformig ein Band aus goldenen Rocaillen mit hellgrunem Streifen: Auf der weiBen Leibung Amoretten in Wolken nach Boucher. Henkel und Randlinien ganz vergoldet. Als Deckelbekronung vergoldete Birne.
+
+H. des Kannchens 9 cm,Tasse 7,3 cm, Durchm. der Anbietplatte 26X17,5 cm. Marke S Wien,1770-80. Austellung Palais Redern Berlin 1906,No. 457.
+
+Reproduktion Tafel 48.
+
+- 193.KAFFEE-SERVICE,bestehend aus Kaffeekanne, Milchkanne,
+- Einsatzschale, zwei Tassen nebst Untertassen und Anbietplatte. Kaffeekanne bauchig,als Griff gedrehter Zweig, SchnabelausguB WeiBe Blumen als Knauf. Einsatzschale in Form eines ovalen Korbes mit geschweiftem Rande und zwei verschlungenen Blumenzweigen als Griffen. Tassen in der Mitte eingezogen; als Henkel
+
+<!-- image -->
+
+zwei verschlungene Blattstiele. Anbietplatte rechteckig mit schragem, bogenformig durchbrochenem,goldgehohtem Rande.Bemalung:Auf jedem Stuck breite Borte aus goldenem Gittermuster,eingefaBt von einem Flecht band in Gold und Luster. In dem Gittermuster ausgesparte, von dem Flechtband umrahmte Felder; in demselben in bunter Malerei Manner, Frauen und Kinder in verschiedener Beschaftigung in Landschaft. Auf den weiBen Flachen bunte BlumenstrauBe.
+
+H.der Kaffeekanne 14,3 cm,Milchkanne 12cm,Schale5 cm,Durchm.12,3X8,5 cm. H.der Tasse 5,2 cm,Durchm.7,2cm,Anbietplatte 34,8X27,7 cm.Marke Bindenschild.Wien 1760-70.
+
+Ausstellung K.K.Gew.-Mus.Berlin 1904.
+
+Bruning,Europ.Porzellan des 18. Jahrh.,No.1036.
+
+Reproduktion Tafel 47.
+
+- 194.KAFFEE-UND TEESERVICE,bestehend ausKaffeekanne,Teekanne, MilchguB,Zuckerdose, vier Tassen nebst Untertassen und Anbietplatte. Kaffeekanne birnenformig. Pinienknaufe; Knauf der Zuckerdose in Form einer Rosenknospe. SchnabelausguB der Kaffeekanne mit Muschelwerk in Relief, Milchgub mit geschweiftem Rand auf drei gebogenen FuBen. Bemalt mit sparsam verteilten Blumenstrauben, Streublumen und Insekten in verschieden getontem Gold und Silber. Zierliche Rander aus goldenem, punktiertem Schuppenmuster, das von dunnen,uberglasurblauen Blattranken eingefaBt ist. Auf den Griffen Blattgehange mit Tropfen, Goldrander.Deckel mit den Henkeln durch vergoldete Silberketten verbunden. Kaffeekanne H.18,3 cm,Teekanne 9,2 cm,Milchkanne 11,5 cm, Zuckerdose 9,5 cm,Tassen 5,7 cm,Anbietplatte Durchm.31,4X24 cm.·Marke R.Gotha,um 1780.
+Dazugehorig Futteral,viereckig, Holz mit schwarzem Lederbezug, innen mit violettem Sammet.Innen und auben mehrfach das englische Wappen in Gold gepreBt.
+
+Ausstellung K.K.-Gew.-Mus.Berlin 1904.
+
+Brining,Europ.Porzellan des 18.Jahrh.,No.1004. Palais Redern Berlin 1906,No.455.
+
+Reproduktion Tafel 49.
+
+<!-- image -->
+
+Lambrequin-Borduren. Am oberen Drittel der Gefabe, sowie am erhohten Kornblumenkranz.
+
+195. TEESERVICE,bestehend aus Teekannchen,MilchguB, Zuckerdose, Tasse mit Untertasse und Anbietplatte.Gerade Form, MilchguB geschweift, ohrmuschelformige Henkel. Weiber Grund mit regelmaBig iber die Flache verteilten blauen Kornblumen und Goldblattchen, in den Mitten und am Rande goldene und geschweiften Rande der Anbietplatte ein naturalistisch gemalter
+
+H. der Teekanne 5,7 cm, MilchguB 8,5 cm, Zuckerdose mit Deckel 8,3 cm, Tasse 3,6 cm, Durchm. der Anbietplatte 16X16,5 cm. Marke gekrontes A in Rot und Gold.Paris,um 1778.Porcelaine de la Reine (Antoniette) (Andre Marie Leboeuf). In Lederkasten mit
+
+Goldpassung.
+
+196. FLASCHE, birnformige, vierkantige Form mit engem, schlankem Hals, chinesische Form,dekoriert im Stil der famille verte" mit Paeonienstauden, Vogeln,Bambus und gelbem Tiger; je zwei Felder gleich dekoriert. Farben pastos uber Glasur: Grun,Eisenrot, Gelb und Gold. Am Halse eine Blumenbordure und am Rande einzelne kleine Zweige. FuB und Hals in vergoldeter franzosischer Bronzemontierung; der viereckige FuB mit einem Blattprofil,am Hals Stabwulste und der Stopsel in Form einer Rosette mit Eichelknauf.
+
+H.22,5 cm, franzosisch （Chantilly?) um 1775.Ohne Marke.
+
+Reproduktton Tafel 24.
+
+- 197.EINSATZTASSE NEBST UNTERTASSE (trembleuse),Tasse fast zylindrisch, nach oben sich etwas erweiternd. Henkel in Form zweier verschlungener, goldgehohter Blattstiele. Untertasse mit tiefem,geradwandigem Einsatz und horizontal abstehendem Rande. Auf beiden Seiten das Monogramm C.A., gebildet aus Blumengewinden in Gold,Dunkelpurpur und Seegrun unter eisenroter Krone (Clemens-August?). Streublumen
+- in radiertem Golde; Goldrander.
+
+H. der Tasse 7,2 cm, Durchm.7,2 cm. Marke A. Ansbach-Bruckberg,um 1780. Ausstellung K.K.-Gew.Mus. Berlin 1904. Brining,Europ.Porzellan des 18.Jahrh., No.1000.
+198. FLAKON in Form eines abgeflachten Rokoko-Omaments,reich konturiert und teilweise vergoldet. Auf beiden Seiten ovale Medaillons mit Brustbild eines Fursten in rotem Rock mit breitem,blauem Ordensband, das Gesicht dem Beschauer voll zugewandt, bezw. dem aus Blumen gebildeten Monogramm G.L. mit Furstenkrone. Silberner SchraubverschluB. Mitte 18. Jahrh.H.7,3 cm,B.3,5 cm.Fabrikat nicht mit Sicherheit zu bestimmen.
+
+Reproduktion Tafel 23.
+
+<!-- image -->
+
+- 199.RAUCHERVASE MIT DECKEL.Kugelige Form mit eingezogenem Hals und hochgewolbtem Deckel. In der Wandung ein Kranz von sechs durchbrochenen Sternen in runden Oeffnungen,zwischen diesen kleine,runde Locher. Deckel entsprechend mit vier Sternen. Als Knauf eisenrote Blume. Bemalt mit zwei bunten StrauBen und Streublumen.Goldrander.
+
+H.19 cm,Durchm.13,2 cm.Hochst. Marke Rad mit Kurhut, eingekratzt P.I. Um 1780. Ausstellung K.K.-Gew.-Mus.Berlin 1904.
+
+Bruning,Europ.Porzellan des 18. Jahrh.,No. 831. Reproduktion Tafel 50.
+
+- 200.UNTERTASSE, rund, mit schrag ansteigendem Rande.Im Spiegel,in Sepia gemalt, zwei allegorische Frauengestalten Malerei und Musik", auf einer Marmorbank sitzend. Der Rand chromgelb.Goldene Randlinie.
+
+Durchm.13,5 cm. Marke Bindenschild in Blau unt. Gl,eingekratzt 05.Wien 1805.Auf der Ruckseite franzosischer Vers:
+
+"songeant a remplir ma promesse, un Dieu m'inspice et je prends le crayon soudain de la peinture il fait une Deesse, et de la poesie un nouvel Apollon.
+
+j'aurais rempli mon but, s'ils vous plaisent san cesse. deB....pinxit."
+
+201. TERRINE. Runde, mehrfach eingezogene Leibung mit ab-
+2. gesetztem FuB und Rand. Deckel in der Mitte eingezogen, als Knauf groBe Rose mit Knospen und Blattern. Schrag geschweifte Rocaille-Henkel. Reliefzierat mit Spalier und Kartuschen. Rose auf dem Deckel naturalistisch gemalt (Dunkelpurpur). In den Kartuschen der Terrine wie des Deckels farbige Blumenstilleben mit roten Rosen. Henkel Purpur mit Gold,an der Leibung mit aufgesetzten,farbig bemalten Blumen.Rander vergoldet.
+
+H.mit Deckel18,5cm,Durchm.am ob.Rande18cm.MarkeA in Blau. Ansbach-Bruckberg, um1770.
+
+202. TASSE MIT UNTERTASSE. Runde Schalenform mit ?-formigem Henkel.
+2. Malerei: hellorangefarbige Bordure mit goldenem Zickzack und Punkten, gegen den weiBen Fond mit goldenen Rocaillen abschlieBend. Auf der Stirnseite und dem Spiegel der Untertasse Blumenstilleben in Eisenrot. Streublumchen.
+
+H.4,7 cm, Durchm. 7,2 cm.Marke ,F" in Blau unt. Gl. Furstenberg,2.Halfte 18. Jahrh.
+203. TASSE MIT UNTERTASSE,zylindrische Form mit ohrmuschelformigem Henkel,Untertasse mit schrag aufsteigendem Rande. Am Lippenrand der Obertasse und Rand der Untertasse Fries aus farbig gemalten Weinlaub mit Trauben. Auf der Leibung und im Spiegel einzelne Trauben.
+2. H.5,4,Durchm.5,2 cm.Marke R in Blau unt. Gl. Gotha 1790.
+3. 204.SECHS KLEINE BECHER,geschweifte Becherform mit ?-formigem Henkel. Bemalt mit farbigen Blumenstilleben,Randlinien vergoldet.
+4. Dazugehorig achteckige versilberte Anbietplatte,mit getriebenen Stabwulsten auf dem Rande.
+
+H.3,5 cm,Durchm.3,5 cm.Marke eingepreBt Rautenschild.Nymphenburg,2.Halfte 18.Jahrh.
+
+205. DOSE mit Deckel, von hoher zylindrischer Form. Als Deckelknopf vergoldete Knospe. WeiBer Fond mit Borduren am Lippenrand und FuB aus roten Rosen mit grunen Blattern auf goldpunktiertem Grunde.Auf der Stirnseite ein Monogramm AZ aus farbigen Blumen, daruber ein Kranz. Ruckwarts Blumenstilleben.Deckel analog.
+
+H. 11,5 cm,Durchm. 8 cm.Marke eingepreBt 13C....Thuringer Fabrikat.Ende 18. Jahrh. Reproduktion Tafel 50.
+
+206. TASSE mit Untertasse, geschweifte Form, in der Mitte und am FuB eingezogen. WeiBer Henkel in Form verschlungener Stiele mit Goldtupfen. Matt-purpurfarbige Randbordure mit Goldrandern und kleinen, ausgesparten, weiBen, ovalen Feldern mit Rosen.Dazwischen weibe Rosen auf den Fond gemalt. Leibung weiB, unter der Bordure goldene, wellenformige Blattranke.Auf der Stirnseite, sowie an den Seiten Blumenstilleben. Untertasse analog.
+
+H.5,5 cm, Durchm.7 cm. Marke R in Blau und Gold. Gotha, um 1780.
+
+Reproduktion Tafel 50.
+
+207. TASSE MIT UNTERTASSE. Geschweifte Form,in der Mitte und am FuB eingezogen. Henkel weiB in Form doppelter Stiele. Bemalung: Vom Lippenrand zum FuB ziehen sich in gleichmaBigem Abstand karneolrote Bander, in der Mitte zweiimal umgelegt, so daB sie Zickzackformig liegen, von punktierten Goldlinien umsaumt,in den Zwickeln je ein kleines BlumenstrauBchen in Purpur. Am FuBrand sowie im Spiegel der Untertasse goldene Rocaille-Bordure.
+
+H.5,6,Durchm.7 cm.Marke R in Blau und Gold.Gotha,um 1780.
+
+Reproduktion Tafel 50.
+
+208. DESGLEICHEN,Form wie vorher. Auf der Stirnseite sowie auf der Untertasse groBes, reich komponiertes Musik-Stilleben mit Lorbeerkranzen, Festons und Blumen.Am Rande hellila Bordure mit Goldpunkten in goldgemaltem,gebogtem Blumenband.
+
+H.5,5 cm, Durchm.7 cm.Marke R in Blau unter Glasur. Gotha,um 1780.
+
+Reproduktion Tafel 50.
+- FuB, ohne Henkel. Gelblich weiBe, leichte Masse. Auf der Leibung der Obertasse in aufgelegtem, graviertem Golde zwei Gruppen von Jagdtieren in Ornamentranken, dazwischen groBblattrige Blume mit Blattern, am FuB ein zierlicher Fries von Silhouette-Figuren von Jagern, Hirschen, Hunden und Baumen. Auf der Innenseite der Tasse einzelne Gruppen von Tieren auf Zweigen: Eule und Eichhornchen. Untertasse analog. Im Spiegel vier Blattranken, auf der Ruckseite Fruchtfestons mit Gewand gehangen und Ranken.
+
+Ohne Marke.Dresden,erste Halfte 18. Jahrh.
+
+Reproduktion Tafel 50.
+
+- 210.MINIATURTASSE MIT UNTERTASSE. Gerade,zylindrische Form mit ohrmuschelformigem Henkel, Untertasse mit flach-schrag ansteigendem Rande.Obertasse innen und Henkel ganz vergoldet. Malerei in radiertem Gold;Hirsch und Jagdhund zwischen einer Baumgruppe. Auf der Untertasse Bank mit Guitarre und Trommel, bezw. Jagdhund auf einer Rasenbank.Goldrander.
+
+H.3,8 cm,Durchm.3,8 cm.Ohne Marke. Paris um 1800.
+
+211. TASSE MIT UNTERTASSE, breite, geschweifte Schalenform mit abgesetztem FuB und Henkel in Form einer weiblichen Karyatide. Untertasse mit geschweiftem, flachem Rande. AuBenseite der Obertasse und der Rand der Untertasse mit weiBem Biskuitfond,belegt mit reliefierter, vergoldeter Bordure aus Weinranken mit Trauben, bezw.vom FuBrand aufsteigenden Akantusblattern und Palmetten.Spiegel der Untertasse und
+2. Innenseite der Obertasse vergoldet.
+
+H.5,8 cm,Durchm.9,5 cm. Marke in Blau uber Gl.: Dagoty honore a paris. Um 1790.
+
+212. SCHOKOLADE-SERVICE,bestehend aus kleinen Kannchen mit Deckel und -formigem Henkel,Tasse mit Untertasse,Zuckerdose von runder,glatter Form mit Deckel,Anbietplatte blattformig konturiert,abgesetzter,erhohter, geschweifter Rand. Als Deckelknopf purpur getupfte Blumchen. WeiBer Fond mit Blumenstilleben,Rosen und Feldblumen. Streublumchen. Rand
+
+H.des Kannchens 8,5 cm, Zuckerdose 7,5 cm, Durchm. der Anbietplatte 21,5X21,5 cm. Marke F in Blau unter Gold. Firstenberg, Ende 18. Jahrh.
+
+- linien vergoldet. (Obertasse gekittet.)
+- Zuckerdose mit Deckel, zwei Tassen mit Untertassen und Anbietplatte. Eiformige Leibung mit hohen Henkeln. AusguB der Kaffeekanne in Form einer Groteske. Deckelknopf vergoldet. Anbietplatte oval. Breite, ganz ver-
+goldete Rander mit schragen goldenen Rippen, und weiBen Hohlkehlen. In der Mitte der Anbietplatte runde,goldene Rosette.
+
+H. der Kanne 18 cm, MilchguB 16 cm, Zuckerdose 14,5 cm,Tassen 8,5 cm,Durchm. der Anbietplatte 36X28 cm.Ohne Marke.Franzsisch,Anfang 19.Jahrh.
+
+214. KORB,weiB,von ovaler Form mit hochstehenden, gelochtenen Henkeln, am Ansatz mit Blumen belegt. Durchbrochen gegittert in Form rechtwinkelig sich schneidender Stabe,mit Bluten und Blattern belegt. H.9,5 cm, Durchm.23X14,5 cm.Marke C.T.mit Krone, Blau u.Gl. und 74.Frankenthal1774.
+215. DOSE, von ovaler Form, gerade Wandung mit Deckel, silbervergoldete Innen- und Aubenseite des Deckels je eine Kartusche mit reliefierten hollandische Genreszenen, trinkende und spielende Bauern.
+3. Montierung. Bemalung: Auf der Wandung je zwei, auf dem Boden, Rocaillen, in Purpur und Orange gehoht. In den Feldern farbig gemalte H.4cm,Durchm.6,5X4cm.19.Jahrh.
+216. KAFFEE-UND TEESERVICE, bestehend aus zwei geschweiften Kannen mit farbigen Blumenstilleben und Streublumen. Teilweise beschadigt.
+5. mit Deckel, Henkel und AusguB, drei FuBe,Teekanne, geschweift,und 6 Ober-und Untertassen (eine ohne Henkel). Die Leibung weiB, schuppenformig reliefiert,Deckelknauf, AusguB und Henkel purpur gehoht;bemalt H. der Kannen 21,5 und 17 cm, Teekanne 11,5 cm, Tassen 5 cm. Marke Doppel-C mit Krone in Blau u. Gl. Ludwigsburg,Ende 18.Jahrh.
+217. CONVOLUT VERSCHIEDENER KANNEN,ZUCKERDOSEN uSW., bestehend aus acht groBeren und kleineren Kaffee- und Teekannen,zwei Zuckerdosen,einer Teebichse,einer Untertasse und kleinem,weibem,durch brochenem Korbchen. Geschweifte Formen mit farbigem Blumenstillleben bemalt.
+
+H. zwischen 23 cm bis 10 cm. Fabrikate:Ludwigsburg,Frankenthal, Zurich, Thuringen usw. Marken in Blau. Einzelnes defekt,Deckel nicht immer zugehorig.
+
+<!-- image -->
+III.AUCTIONSTAG:
+
+DONNERSTAG,DEN 5. DEZEMBER 1907 VORMITTAG 11UHR.
+
+GEMALDE ALTER UND NEUER MEISTER SILBER,BRONZEN,MOBEL,TEXTILIEN MUNZENSAMMLUNG JAPAN- UND CHINA-PORZELLAN BIBLIOTHEK.
+
+No.218-334.
+## 219. Bauernszene.
+
+Vor einem Wirtshaus, welches sich am Ufer eines Flusses erhebt,kartenspielende und rauchende Bauern. Rechts zwei Manner, die im Begriff sind, einen Kahn zu beladen. Abendstimmung.
+
+Auf Holz. Mit dem Monogramm des Kinstlers bezeichnet.H. 34 cm, B.32cm.S.R.
+
+## F. GEMALDE.
+
+No.218-—247.
+
+## HUGO BURGEL.
+
+Minchen.
+
+## 218. Morgendammerung.
+
+Wiesen-Landschaft mit Birken.
+
+Leinwand, signiert. H.47 cm,B.68 cm. G.-R.
+
+## KASPER PIETER VERBRUGGEN d.J.
+
+1664-1730
+
+## 218a.Blumenstuck.
+
+Auf einem Gesims steht eine reich skulptierteVasemitprachtigem BlumenstrauB.Lose Blumen am Fube der Vase.
+
+Sehr schon wirkendes Bild auf Leinwand. H. 156 cm,B.112 cm.S.R.
+
+## 218b. Desgleichen.
+
+AehnlicheDarstellung und Gegenstickzu vorhergehendem Bilde.
+
+Ebenso.Leinwand.H.156 cm,B.112 cm.S.R.
+
+## GILLES ROMBOUTS.
+
+Tatig um 1660 zu Haarlem.
+## 220. Stillleben.
+
+Neben einem kleinen Wasserbassin,in welches der Strahl eines Brunnens fallt, Blumen verschiedener Art,unter denen weiBe Lilien besonders bemerklich.Ein Frosch sowie zahlreiche
+
+Insekten beleben die Darstellung.
+
+Leinwand.H. 90 cm,B.70 cm.S.R.
+
+## LOUIS DOUZETTE.
+
+Geb.1834 in Triebsees.
+
+## 221. FluBufer bei Mondbeleuchtung.
+
+Im Vordergrunde zwei Manner an einem Feuer.
+
+Leinwand.Mit dem Namen des Kinstlers bezeichnet. H.21 cm,B.30 cm. G.-R.
+
+## M. GAISSER.
+
+Muinchen.
+
+## ABRAHAM MIGNON.
+
+1640-1679 in Frankfurt a.M.
+
+## 222.Im Klosterkeller.
+
+Ein Kavalier scherzt mit einem Monch, welcher, die Kanne in der Hand,an einem Fasse lehnt.
+
+Holz. In der rechten unteren Ecke die Signatur des Kinstlers. H. 45 cm, B.53cm.G.-R.
+
+## CARL JUTZ.
+
+Geb. 1838 in Windschlag i. Bad.
+
+## 223. Enten-Familie.
+
+AmBach,welchervon Weiden beschattet wird,haben sichEnten mit ihren Jungen niedergelassen. Im Hintergrunde ein Dorf. Auf Holz.Die Signatur in der linken unteren Ecke. H.18 cm, B. 23 cm. G.R.
+
+Reproduktion Tafel 67.
+## 225.Landschaft.
+
+Bewaldeter Abhang mit zwei Personen als Staffage.
+
+Auf Holz.Mit Monogramm.H.9 cm,B.12 cm.G.-R.
+
+## EUGENE VERBOEKHOVEN.
+
+17991881.
+
+Mutterschaf und Lammchen in einem Stalle,daneben Henne. Holz. Mit dem vollen Namen des Kinstlers. 1859. H.12 cm,B.17,5 cm. G.R. Reproduktion Tafel 61.
+
+## JAN VAN HUIJSUM.
+
+1682-1749.Amsterdam.
+
+226. Schafe.
+
+## 227.Blumenstick.
+
+Zur Seite eines Steinpostaments, welches von Jelanger-jelieber iberwuchert wird,erhebt sich eine bluhende Mohnstaude.Ganz vorn auf moosigem Boden einige Pilze, sowie Schlange und
+
+Eidechse.
+
+Leinwand.H.75 cm,B.57 cm.G.-R.
+
+## CARL JUTZ.
+
+Geb.1838 in Windschlag i.Bad.
+
+## 224. Huhner-Familie in der Hofecke.
+
+Im Hintergrunde zwischen Baumen die Hauser eines Dorfes.
+
+Auf Holz.Rechts unten signiert. H.12 cm,B. 16 cm.G.-R.
+
+Reproduktton Tafel 67.
+
+## JAN WIJNANTS.
+
+Tatig 1641-1679.Amsterdam.
+
+Reproduktton Tafel 60.
+## 230.Blumenstick.
+
+Auf einem skulptierten Steinpostament,in grun glasierter Vase, ein prachtiger Blumenstraub. Eine Schnecke sowie mehrere Insekten beleben die Darstellung.
+
+Leinwand. Mit der vollen Signatur der Kunstlerin. H.64 cm,B.53 cm. S.R.
+
+Reproduktton Tafel 64.
+
+## C. COLYER.
+
+17.Jahrhundert.
+
+## 228.Stillleben (,Vanitas").
+
+Auf einem,mit goldbefranzter Decke bedecktem Tische verschiedene Bucher, ein menschlicher Schadel, Himmelsglobus, Sanduhr,Musikinstrumente usw. Aus einem Folianten ragt ein Zettel hervor,auf welchem die Inschrift:Memento mori.
+
+Auf Holz. Links im Grunde der Name des Kinstlers. H.29 cm,B. 22 cm. S. R.
+
+Reprodukt ion Tafel 60.
+
+## WILLEM VAN AELST.
+
+Geb.1620 in Delft, gest.1679 in Amsterdam.
+
+## 229.Blumenstick.
+
+Auf einem Tisch mit Marmorplatte, von welchem eine gold befranzte Decke herabhangt,prachtiger BlumenstrauB mit Rosen, Lilien,Mohnblumen usw.,belebt durch einen Schmetterling, ein sogenanntes Nachtpfauenauge.
+
+Leinwand.H.70 cm,B.58cm.G.-R.
+
+## RACHEL RUIJSCH.
+
+16641750.Amsterdam.
+
+Reproduktion Tafel 64.
+## 231. Stillleben.
+
+Auf einem Tische sind neben einer.Bibel, einem Globus,einer Standuhr und einem Pokal tote Vogel dargestellt.
+
+Auf Holz.In einem geoffneten Buch ist die Signatur des Kunstlers angebracht. H.58cm,B.81cm.G.-R.
+
+## FRITS THAULOW.
+
+Geb. 1847 in Christiania,gest.1906 in Paris.
+
+Winterlandschaft mit Bach, an dessen Ufer sich im Mittelgrunde zwei rote Backsteinhauser erheben. Sonnige Beleuchtung. Auf Leinwand. Der Name des Kunstlers steht in der linken unteren Ecke. H.64cm,B.53cm.G.-R.
+
+Reproduktion Tafel 68.
+
+## FRANZ VON LENBACH.
+
+Geb.1836 in Schrobenhausen,gest.1904 in Minchen.
+
+## 233. En face-Portrat der Tanzerin Saharet.
+
+In Oel auf Karton ausgefihrt. Der Name des Meisters rechts unten. Oval. H.75cm,B.67 cm.S.R.
+
+Reproduktion Tafel 65.
+
+## MELCHIOR D'HONDECOETER.
+
+## 234. Geflugel.
+
+Geb.1636 in Utrecht,gest.1695 in Amsterdam.
+
+Krahender weiber Hahn im Vordergrunde einer Landschaft, rechts eine Henne. Links oben fliegender Gimpel.
+
+Leinwand. H. 81 cm,B. 65 cm. S.R.
+
+Reproduktion Tafel 61.
+
+## 232. Winter.
+
+## P.VAN SCHOTEN.
+
+17.Jahrhundert
+## 237. Stillleben.
+
+Auf einem Tische steht ein gruner Romer, in dem sich die Fensterscheiben des Zimmers spiegeln. Daneben eine NuB, Weinbeeren und ein Messer.
+
+Holz.Am Tischrande mit dem Namen des Meisters bezeichnet. 1625. H.46cm,B.36 cm.S.R.
+
+## ADRIAAN GRYEFF.
+
+Geb.1670 in Antwerpen, gest.1715 in Brissel.
+
+Reproduktion Tafet 62.
+
+## JAN DAVIDSZ DE HEEM.
+
+Geb.1606 in Utrecht, gest. 1683 in Leiden.
+
+## 235. Fruchtstuck.
+
+Feston von Weintrauben,Kirschen,Pfirsichen und anderen Fruchten,an blauen Bandern hangend,welche vermittelst goldkuppiger Nagel an einer Wand befestigt sind. Belebt ist die Darstellung durch einen Schmetterling.
+
+Auf Holz.H.51 cm,B,63 cm.G.R.
+
+## 236. Stillleben.
+
+Auf einem mit gruner Decke halb bedeckten Tische Fruchte der verschiedensten Art in und neben einer Zinnschale. Links ein venetianisches Flugelglas,mit rotem Wein zur Halfte angefillt.
+
+Leinwand. Auf schwarzem Grunde rcchts unten der volle Name des Meisters. H.46cm,B.40 cm.G.R.
+
+Reproduktion Tafel 58
+
+## WILLEM CLAESZ HEDA.
+
+1594-1678.Harlem.
+
+Reproduktion Tafer 58.
+
+## 238. Jagdstuck.
+
+Im Vordergrunde einer Landschaft sieht man zwei Jagdhunde, von denen sich einer schlafend zusammengekrummt hat,bei erlegtem Wild der verschiedensten Art. In einiger Entfernung zwei Jager mit dem Rest der Meute.
+
+Leinwand. In der rechten unteren Ecke der Name des Kinstlers.H.112 cm, B.160 cm,G.-R.
+
+Reproduktion Tafel 57.
+## 239. Jagdstick.
+
+In einer Landschaft mit Ruinen ein junger Jager mit zwei Hunden bei dem erlegten Wild. Im Hintergrunde links ein Piqueur,Halali blasend. Gegenstick zu vorhergehendem Bilde.
+
+Leinwand.Ebenso.H.112 cm,B.160 cm.G.-R.
+
+Reproduktion Tafel57.
+
+## 241. Stillleben.
+
+Auf einem Tische mit gruner Decke sind um einen Pokal mit MetallfuB ein Hummer, verschiedene Fruchte, wobei eine geschalte Zitrone, Austernschalen und Krabben gruppiert.
+
+Leinwand. Links am Tischrande der Name des.Kunstlers. 1659. H.56 cm, B.52cm.G.-R.
+
+## JAN VAN HUIJSUM.
+
+1682-1749.Amsterdam.
+
+## 242.Blumenstick.
+
+In einer gewolbten Mauernische steht auf einem Steinpostament eine blau bemalte Vase mit Gartenblumen der verschiedensten Art. Am VasenfuB links ein Vogelnest mit Eiern. Belebt ist die Darstellung durch einige Insekten.
+
+Leinwand. Der volle Name des Kinstlers und die Jahreszahl 1737 befindet sich an der Kante des Postamentes.H.58 cm,B. 49 cm.G.-R.
+
+ReproduRtion Tafel59.
+
+Reproduktion Tafel 62.
+
+## ADRIAAN GRYEFF.
+
+Geb.1670 in Antwerpen, gest.1715 in Brissel.
+
+## JAN FYT.
+
+1611——1661.Antwerpen.
+
+## 240. Jagdstillleben.
+
+Auf einer Felsplatte neben einem toten, mit dem Kopfe herabhangenden Hasen, Geflugel verschiedener Art, sowie Weintrauben, Pfirsiche,Aepfel usw.
+
+Leinwand. H. 82 cm,B. 112 cm.G.-R.
+
+Reproduktion Tafel 63
+
+## JAN DAVIDSZ DE HEEM.
+
+Geb.1606 in Utrecht,gest.1683 in Leiden.
+## 243.Portrat.
+
+## 246. Landschaft.
+
+Im linken Vordergrund erhebt sich eine Kirche mit viereckigem Thurm. Auf einem Wege, der an der Kirche
+
+## J.J.HENNER.
+
+Geb.1829 in Bernweiler.
+
+En face-Brustbild eines jungen Madchens mit auf die Schultern herabfallendem,rotem Haar.
+
+Leinwand.Rechts oben die Signatur des Kinstlers.H.55 cm,B.37 cm.G.-R. Reproduktion Tafel 66.
+
+## FRANZ VON LENBACH UNDJ.B.HOFNER.
+
+## 244. Faun mit Tieren.
+
+Faun,im Schatten groBer Baume ruhend, liebkost einen jungen
+
+Widder. Daneben Huhner, eine Taube und eine Katze.
+
+Auf Leinwand.Die Signatur beider Kinstler steht in der rechten unteren Ecke.
+
+H.119 cm,B.170 cm.G.-R.
+
+## CASPAR NETSCHER.
+
+Geb.1639 in Heidelberg,gest.1684 in Haag.
+
+## 245.Damenbildnis.
+
+Kniestuck einer sitzenden Dame in ausgeschnittenem,kupferfarbigem Kleid.Die Dargestellte tragt Perlenschmuck und laBt die Linke im SchoBe ruhen, wahrend die Rechte auf eine Steinbrustung gestutzt ist. Zu ihrer Seite ein Bologneser Hundchen,im Hintergrunde Landschaft.
+
+Das Bild ist auf Holz gemalt und links unten mit dem Namen des Malers sowie der Jahreszahl 1675 bezeichnet. H. 52 cm,Br.44 cm. G.-R. Ausstellung Palais Redern Berlin 1906,No.92.
+
+Reproduktion Tafel 54.
+
+Reproduktion Tafel 69.
+
+## JAN WIJNANTS.
+
+Tatig1641-1679.Amsterdam.
+vorbeifuhrend, sich im Hintergrunde verliert,mehrere Personen, wobei ein Reiter.
+
+Auf Holz.Das Monogramm 1des Kinstlers findet sich unten am Rande. H.75cm,B.57cm.S.R.
+
+Reproduktton Tafel56.
+
+## WILLEM VAN AELST.
+
+Geb.1626zu Delft, gest.1679 in Amsterdam.
+
+## 247. Stillleben.
+
+Bei einer Distelstaude, die am FuBe eines Buchenstammes emporwachst, toter Fasan und totes Rebhuhn. Oben rechts auf einem Aste Chamaleon sowie auf dem Waldboden neben einer Pilzgruppe Krote und Schnecke. Insekten beleben die Distelstaude.
+
+Leinwand. Der volle Name des Kinstlers nebst der Jahreszahl 1671 befindet sich in der linken oberen Ecke.H.80 cm,B. 62 cm.S.R.
+
+Reproduktion Tafel 55.
+
+<!-- image -->
+## G.SILBER,BRONZEN,MOBEL,TEXTILIEN,TEPPICHE, JAPAN- UND CHINA-PORZELLAN, FAYENCE, DEKORATIONSGEGENSTANDE,
+
+No.248--291.
+
+MUNZSAMMLUNG (DABEI SPEZIELL TALERSAMMLUNG).
+
+248. SILBERNES TEESERVICE, bestehend aus groBer Anbietplatte, Teeverzierungen.
+
+Englisch.Ende 19. Jahrh.,Londoner Beschaumarken.Gew.5445 g. H. der Teemaschine 38 cm, Spilnapf H. 8,5 cm,Durchm.16,5 cm,Anbietplatte Durchm.35X51 cm.
+
+- sechsseitige Form mit schwarzem Holzgriff. Das geschweifte AusguBrohr endet in einen Greifenkopf. Um den oberen Rand der Leibung zieht sich ein fein auf Grund reliefierter Weinlaubfries. Das Gestell mit durchbrochenem Einsatz auf vier geschweiften FuBen und vierseitig geschweifter
+- Platte auf KugelfuBen.
+
+Ganze H. 30,5 cm, Gewicht 1170 g. Hamburger Beschaumarke,Anfang 19. Jahrh.
+
+250. KAFFEEKANNE aus Silber, Rokoko.
+
+Englisch,Mitte 18. Jahrh., Londoner Beschau: Gekronter Lowenkopf, schreitender Lowe,
+
+- Birnenform mit FuBplatte, AusguB, Deckel und geschweiftem Holzgriff. Die FuBplatte rund, mit tief gekehlten Profilen und vier Muscheln.Die Leibung durch schrage Rippen und Kehlen in vier Felder geteilt, drei mit hochgetriebenen Blumenranken, die sich vom Hals bis zum FuB ziehen,im Mittelfelde eine RocailleKartusche und Blumenranken,mit graviertem Familienwappen und Spruch, Der Deckel analog der Leibung getrieben, der Knauf vasenformig.
+
+Kleeblattformiger Schild mit Sonne und S.C.und Schild mit Jahresbuchstaben D (1759). H.28 cm,Gew.ca. 1000 g.
+
+Reproduktion Tafel52.
+
+- 251-52. ZWEI BRONZESTATUETTEN. Reiterdenkmal KonigHeinrich IV. und Ludwigs XIV. von Frankreich.(Von Dupre bzw. Francois Girardon 16301715). Auf giallo antico Postament mit Bronze-Blatt-
+- kehlungen.Vorzuglich ziselierte Arbeiten.
+
+H.mit Postament 38 cm. Franzosisch, Ende 18. Jahrh.
+- 253-54. ZWEI BRONZESTATUETTEN, stehende Figuren von Voltaire und J. J. Rousseau von Houdon. Auf grauem, saulenformigem Marmor-
+- postament in vergoldeter Bronzemontierung.
+
+H.mit Sockel 48 cm.Franzosisch,Ende 18.Jahrh.
+
+Reproduktion Tafel 53.
+
+255. GROSSE BRONZESTATUETTE: Romischer Imperator von Pierre
+2. Puget (1622—1694). Schreitend dargestelt. Der Kopf mit dem Lorbeerkranz im Haar nach rechts gewandt, der rechte Arm mit dem Feldherrnstab vorgestreckt, die linke Hand stutzt sich auf den Schild. Den Korper bekleidet die in malerische Falten drapierte Toga,die vorn an der Brust einen Teil der prunkvollen Rustung sehen laBt. Emailartige, braune Patina. H.64 cm.Friher Kollektion Hainauer.
+
+Reproduktion Tafel 51.
+
+- 256.PARAVENT,in rechteckigem Holzrahmen, reich geschnitzt und ganz
+- vergoldet. Als Aufsatz ein Rankenfries, die Zarge unter der Fuillung durchbrochen gegittert. Die Kehlungen mit Blatfriesen. —— Als Fuillung ein Gobelinbild: Geschweifte Barockvase mit roten und weiben Georginen, Jelanger-jelieber und rotem Mohn auf einem Postament,iber welches eine Brokatdecke in Orange,Blau und Rot faltig geworfen ist.Rechts sitzt ein bunter Papagei,im braunen Fond Kafer und Libelle.
+
+Ganze H. 137 cm,B.73 cm. H. des Geb.-Bildes 81 cm, B. 61 cm. Franzosisch,Epoche
+
+LouisXVI.
+
+257. GROSSE ALTCHINESISCHE VASE,elipsoidische Leibung mit eingezogenem FuB und abgesetzter FuBwulst,abgesetztem, trichterformigem Hals mit durchbrochenen Chimaren-Henkeln.Seladongruner Fond mit weiBem Unterglasur-Reliefdekor, Mandelbaum mit verzweigten Asten und Bluten.FuB und Rand in vergoldeter Bronzemontierung.FuB viereckig mit eingerundeten Ecken,schraffierte Felder, dariber eine Wulst mit Lorbeerfeston. In den Henkeln hangen verzierte Bronzeringe in Form einer 8.
+
+H.52,5 cm,B.am Sockel 20,5 cm. Montierung franzosisch, Epoche Louis XVI. Mit der eingeschlagenen Marke von St. Cloud,sig. St C.(mehrfache Inventar-Nummern) 197. (durchgekratzt 42—12,31——59).
+
+258. WANDSCHIRM, sechsteilig. Jeder Teil von hoher Rechteckform, durch Scharniere verbunden.Eisenholz mit Porzellan-Einlagen auf blauem Lackgrund. Jedes Feld in ein groBeres und kleineres Rechteck geteilt, dazwischen, sowie oben und unten ein schmales Feld mit blau dekorierter Porzellanplatte. In den groBeren Feldern farbig bemalte Kinder-Genres, in den unteren Stilleben mit Vasen.
+
+H.120 cm,B. jedes Feldes 25 cm. Chinesisch,Anfang 19. Jahrh.
+259. FAUTEUIL. Gestell aus braun gebeiztem Holz, geschweifte FuBe und Armlehnen in Form von Voluten mit Akanthusblattern. Sitz und die breite, schrag gestellte Rucklehne gepolstert und mit farbigem, gesticktem Bezug (Kreuzstich und en petit point) bezogen; weiBgrundiges Feld mit groBem Frucht- und Blumenstilleben in einer Umrahmung von Laub- und Bandelwerk mit Maskarons.
+
+Franzosisch.Um 1700.
+
+- 260.PERSISCHER SEIDEN-GEBETTEPPISCH,ziegelrotes Feld mit cremein matten Farben,ebenso Bordure und Lissenen,
+- farbigem Spiegel und hellblauen Zwickeln.Reich bedekt mit Arabesken Gr.199X131 cm. Sehr dicht geknipft.
+261. DESGLEICHEN, roter Fond mit hellem Stern in der Mitte und vier
+- Medaillons in den Ecken,im Zwischenraum Rankenmotive und Blumen. Sehr fein gemusterte Lissenen und Borduren. Gr.180X134 cm.Sehr dicht geknipft.
+262. GROSSE BROKATDECKE mit goldenem,japanisierendem Rankenwerk, rot konturiert und mit farbigen,naturalistischen Blumenranken durchzogen. Silberne Reserven mit kleinen Blumenstilleben. Breite Goldborde am Rand. Hinten mit gruiner Seide gefuttert. Gr.235X200 cm.Franzosisch,um 1700.
+263. DAMASTDECKE, goldgelber Fond mit gleichmafig iber die Flache verteilten Gruppen,abwechselnd a) rote Paeonienbluten und Blatter, Strauchwerk,groBer,belaubter Baum und Zaun mit Kirche, b) silberne RocailleKartusche mit Landschaft in Blau (Brunnen),umrahmt von Fruchtstilleben, Schilfblattern und Blumen. Silberne Borde am Rande. Mit blauer Seide gefittert.
+
+Gr.141X108 cm. Franzosisch, 1.Halfte 18.Jahrh.
+
+264. DESGLEICHEN, blauer Fond mit gleichmafig die Flache bedeckenden Gruppen,abwechselnd a) Steinportal mit rundem Podest,auf diesem eine Gruppe mit schlafendem Amor,Hintergrund Baume, unterer AbschluB Blumen mit Festons,das Ganze iberagt von rotem, faltigem Baldachin mit silbernem Strahlenkranz,b) goldgelbes Schiff mit Amoretten und Blumen, Segel mit Emblemen (Pfeil und Kocher), roter Wimpel am Mast, Hintergrund silberne Wolken, unten Wasser, Blumen- und Blattgruppe. Gr.131X110 cm.Franzosisch,Mitte 18.Jahrh.
+265. BROKATDECKE, silberne,breite Wolkenbander mit Blumen in Silber und zarten Farben, abwechselnd mit groBen Gruppen eines stilisierten, reich varierten Granatapfelmotivs in Silber auf rotem Grund. Schmale Goldborde.
+
+Gr.107X102 cm.Franzosisch,1.Halfte 18.Jahrh.
+266. COUPON SEIDENDAMAST,weiBes Atlasband mit groBen wellenformigen, blauen Bluten und Blattern.Leuchtende Farben.
+2. sich uiberschneidenden grunen Ranken und roten, grun schattierten und Gr.154X100 cm.(UnregelmaBig）.Franzosisch,Epoche Louis XVI.
+267. GROSSE CHINESISCHE VASE von bauchiger, sechsseitiger Form mit schlankem Halse, der sich nach dem Rande zu erweitert. Blauer Dekor. In jedem Feld aufsteigende, groBe Blumenstaude.Auf der Schulter Maeanderbordure und dreiteiliges Blattmotiv.Auf dem Halse wiederum aufsteigende Blumenstauden. Am FuB und Halsrand Maeander-Borduren. H.66 cm.Marke in Blau:Tien-Lung. 1736-1795.
+268. TISCH,rund, auf vier geschweiften FuBen, dunkelbraun poliert. Rand
+5. mit schragen Wulsten. In der Platte reiche farbige Holzintersien. Platten-Durchm.114 cm.Hamburger Arbeit.Mitte 19.Jahrh.
+269. SPIEGELTOILETTE (auf den Tisch zu stellen). Mahagoni mit Ahornlinien und Bronzebeschlag. Zwischen zwei Halbsaulen mit Bronze-Kapital, drehbaren Messingleuchtern und Giebelbekronung der verstellbare Spiegel.
+7. H.87cm,B.59cm.Um 1830.
+270. FAUTEUIL,Mahagoni poliert. Geschweifte FuBe mit Krallen,die uber eine Halbkugel fassen. Armlehne in Voluten endigend, Rucklehne mit durchbrochenem,lyraformigem Mittelstuck. Roter (moderner) Sammetbezug. Chippendale,Ende 18.Jahrh.
+271. DEMI-FAUTEUIL,Mahagoni,leicht geschweifte FuBe, Polstersitz,Halb-
+10. kreisformige Rucklehne in Form einerflach skulptierten Wulst auf geraden Stutzen. Gestreifter Damastbezug (neu). Ende 18. Jahrh.
+11. 272-73.ZWEI FAYENCE-LOWEN,schreitend,mit aufgesperrtem Rachen, den
+12. Schweif bis zum Rucken gebogen. Bemalung mattblau,Zunge und Augen rot.
+
+H.18 cm,Lg.21,5 cm.Deutsch,18.Jahrh.
+
+274. JARDINIERE von stark gebauchter, lang gezogener VierpaBform mit eingezogenem FuB und vorspringender FuBplatte. An den beiden Langsseiten auf vorspringenden Ecken je zwei geflugelte Sphinxe; auf den bauchigen Wulst reliefierte Rundstabe.Seladongriner Fond mit vergoldeten Linien. Auf der gekehlten Leibung eine Fries von Amoretten mit Girlanden in weiBer pate sur pate-Malerei. Auf der Innenseite breite
+
+H.27 cm,Durchm.54X29,5 cm. Sevres,1865. Marke auf dem Boden: S.65. Innen in Rot:N.mit Krone, 66.
+
+- Goldspitzenbordure.
+- 275-76. ZWEI SCHUSSELN,flach,blau-weiBer Fond mit blauem Dekor. Auf dem Rande Blumen,in der Hohlkehle Wellenmotive,im Spiegel Paeonien mit Bambusstauden.
+
+Durchm.31,5 cm. Japanisch.
+
+277. EINE DESGLEICHEN, groBer.Auf dem Rande reiches UnterglasurOrnament,in der Hohlkehle blaues Brokatdessin mit ausgesparten weiBen Medaillons (Blumen). Im Spiegel reiches, kreisformiges breites RankenOrnament mit Paeonien. In der Mitte eine Rosette aus Knospen. Durchm.39 cm.Japanisch.
+2. in Form reich gebogter und gezackter Blattkonturen gegen den weiBen Spiegel abgesetzt.Bemalt mit Blumen in Phirsichblutenrot,WeiB,Hellgrun und Blau,in pastosen Farben. Im Spiegel Stilleben mit groBen Paeonien,
+3. Glockenblumen usw.
+
+Durchm.37,7 cm. China, 18. Jahrh. Famille rose.
+
+279. DESGLEICHEN, Fayence, flach, reich in blau dekoriert. Auf dem Rand Blumenbordure in japanischem Stil, ebenso im Spiegel: zierliches Rankenwerk mit Chrysanthemen und Paeonien. Um die Hohlkehle ein Kranz mit 16 gebogten, facherartig angeordneten Feldern, in jedem eine auf-
+2. steigende Nelke mit Blattern.
+
+Durchm. 45 cm. Marke A K.in Blau. Delft, um 1642 (Albr. de Keiser).
+
+280. BRONZE-STATUETTE eines auf einer Wolke knienden Engels, gegeflugelt, den Kopf nach rechts geneigt, die Arme vorgestreckt (wie um eine Girlande zu halten). Vergoldet. Auf viereckigem Holzpostament.
+2. Ganze H.28,5 cm.Mitte 19.Jahrh.
+281. SCHUSSEL, flach, mit vertieftem Fond. Bemalung in Blau, Eisenrot
+4. und Gold. Auf dem Rande weiBes Unterglasur-Ornament, in der Hohlkehle Brokatdessin mit Blumen in ovalen weiBen Feldern. Im Spiegel groBe Paeonienranken und Bambusstauden. Durchm.35 cm. Imari, 18. Jahrh.
+282. DESGLEICHEN, groBer. Auf dem Rande vier Gruppen von Paeonien mit Blattern,in der Hohlkehle blaues Brokatmuster mit weiBen Medaillons und Blumen. Im Spiegel Fels mit groBen Paeonienbluten. Bemalung wie
+6. vorhergehende Schussel in Blau, Eisenrot und Gold. Durchm.45 cm.Imari,18.Jahrh.
+283. WANDSPIEGEL,in Form eines ovalen Medaillons. Holzgeschnitzt und vergoldet, umrahmt von durchbrochen gearbeiteten Lorbeerzweigen,die
+8. oben an einer Bandschleife hangen und unten sich uberschneiden. H.97 cm,B.51 cm.Stil Louis XVI.
+284. KLEINE TISCH-VITRINE, Mahagoni mit Messingkehlungen. Viereckige Form mit geraden FuBen und profilierten Messingschuhen. H.76cm,P1.-Gr.49,5X49,5 cm.
+285. AUSSTELLUNGSSCHRANK aus hellem Eichenholz mit Glaswanden.
+3. Innen mit grunem Sammet ausgeschlagen. H.155cm,B.163cm,T.55cm.
+4. 286.DESGLEICHEN,ebenso. H.155cm,B.117 cm,T.55cm.
+287. ZWEI BERLINER VASEN (sog.,Braunschweiger Vasen"), birnformige groBen farbig gemalten Blumenstilleben.
+6. Leibung auf FuB mit durchbrochenen Deckeln und ringformigem Knauf, hohen Schleifenhenkeln.Gelber Fond mit groBen weiBen Medaillons und H.37 cm. Marke Zepter.Bemalung nicht von der Manufaktur.
+288. VASE, bauchige Form mit eingezogenem FuB und Hals, dreipaBformiger Querschnitt. WeiBer Fond mit hellgruner pastoser Malerei, stilisiertes Rankenwerk mit Blumen,Fledermausen und Symbolen. Am FuB und Hals Bordure in Turkisblau mit Rosa und kleinen Blumen. H.27 cm. Chinesisch. Am Boden Marke in Rot.
+289. MUNZSAMMLUNG, enthaltend elf alte Goldmunzen,86 verschiedene Taler, ca.58 div. silberne Munzen und Medaillen,ca.85 Kupfer-
+9. munzen und Medaillen. In gemeinschaftlicher schwarzer Holzkassette. H.12,5 cm,B.32 cm,T.23 cm.
+290. GROSSE SILBERNE MEDAILLE.Avers:Brustbild des Kurfursten Karl Theodor nach rechts, Umschr.Karl Theodor Kurfurst.—Revers:LorbeerGesellschaft.
+
+Durchm.5,2 cm.In rotem Leder-Etui mit goldgepreBter Aufschrift.J.E.Mannheim, den 4.Juli 1807.—
+
+291. GOLDENE MEDAILLE.Avers: Profilkopf nach rechts,Umschrift:
+2. LVDOVICVS·M.D.HASS.ET.AD.RHENYM.(Goetze fec.). Revers: Sitzende Athena mit Lorbeerkranz; Umschrift:SEMINARII. PHIL.GIESS.CONDITOR.BENE.MERENTI.Unter dem Sockel: COND.A.MDCCCXII.
+
+Durchm.3,5 cm.In rotem, goldgepr.Lederetui
+
+<!-- image -->
+## H.BIBLIOTHEK.
+
+## FRANZOSISCHE PRACHT-AUSGABEN,FRANZOSISCHE LITTERATUR, DEUTSCHE,ENGLISCHE,FRANZOSISCHE KUNSTGESCHICHTE.
+
+No.292--334.
+
+292. HENRY HAVARD,Dictionnaire de 1'Ameublement et de Decoration depuis le XIll. siecle jusqu' a nos jours; Paris, Librairies Imprimeries Reunis. Vier Bande mit zahlreichen Text-Illustrationen und farbigen ganzseitigen Abbildungen.Lederrucken und Goldsch. Fol.
+293. ALEXANDRE DUMAS,Les Trois Mousquetaires. Mit Illustrationen von Maurice Leloir, Holzschnitte von J. Huyot. Paris Calmann Levy, 1894. Zwei Bd.Fol. in goldgepreBt.Lederrucken.
+294. THE WORKS OF WILLIAM SHAKESPEARE,by Charles and Mary Cowden Clarke.London,Bickers &amp; Son,1892. Mit Titelkupfer und Facsimil. Unterschrift (nach Martin Droishout von R. C.Bell). LuxusAusgabe in vier Banden mit braunem Leder, reicher Goldpressung und
+4. marmoriertem Schnitt.Gr.8o.
+5. 295.VOLTAIRE, Candide,ou 1'optimisme. Paris,Academie des bibliophiles. 1869. Nummeriertes Exemplar auf Wattmann (im ganzen nur 20 Exempl. auf Wattmann gedruckt) mit vier Portratbildnissen Voltaires;(Abzuge vor aller Schrift).Lederbd. mit Goldpr.Gr.8.
+296. ALFRED DE MUSSET, oeuvres completes. Edition ornee de 28 Gravures d'apres les dessins de M. Bida. Paris, Charpentier, Libraire-editeur. 1879. Elf Bande in elegantem, rot marmor. Ppbd. mit goldgepr.Lederrucken und Goldschnitt.Gr.8°.
+297. PIERRE DE NOLHAC, Louis XV.et Maria Leczinska. Illustrations d'apres les originaux contemporains.Exemplaire sur velin, planches imprimees en camaieux divers, frontispice en couleurs.-Exemplaire No. 217.— Paris, Goupiel &amp; Cie.1900. In Maroquin rouge. Prachtband mit reicher Goldpressung von J. Fau. Gr.40.
+298. PIERRE DE NOLHAC,La Reine Marie Antoniette. Paris,Boussod, Valadon et Cie.1890.Luxus-Ausgabe mit zahlreichen Graviren nach zeitgenossischen Werken und farbiger Titel-Gravire der Konigin nach Janinet. In Marquoin rouge-Pracht-Einband mit goldgepreBtem Allianzwappen und
+2. Goldschnitt. Gr.4
+299. PIERRE DE NOLHAC,La Dauphine Marie Antoinette.Paris, Boussod, Valadon et Cie.,Luxus-Ausgabe (No.636) mit kolorierter Titelgravure, Portrat der M.A. nach Drouais, und zahlreichen Gravuren nach zeitgenossischen Werken.In Maroquin rouge-Prachtband mit reicher
+4. Goldpressung mit Allianz-Wappen. Goldschnitt. Gr.4
+5. 300.PIERRE DE NOLHAC,J.M. NATTIER,Peintre de la cour de Louis XV.,Paris, Goupil &amp; Cie, 1905. (Luxus-Ausgabe). Illustrations d'apres les Documents contemporains. Exemplaire sur Papier de Rives. Planches imprimees en camaieu sur chine blanc contre-colle sur papier teinte. Quatre Planches Fac-Simile en couleurs. Prachtbd. in Maroquin bleu mit reicher Goldpressung.Gr.4.
+301. ALEXANDRE DUMAS FILS,La Dame aux Camelias, Preface de Jules Janin, et nouvelle preface inedite de 1auteur. Illustrations de A.Lynch..— Collection Calmann Levy,Paris,maison Quentin. Nummeriertes Exemplar 89.—Eleg.Ppbd. mit blauem Lederrucken und Ecken. Gr.4
+7. 302.FREDERIC MASSON: Josephine,imperatrice et reine. Paris, Goupil &amp; Cie. 1899. GroBe Luxus-Ausgabe (nummeriertes Exempl. No.276). Mit zahlreichen camaieu-Gravuren nach zeitgenossischen Werken und koloriertem Titel-Portrait nach Gerard (Versailles 1806). Schwarzer Lederbd. mit reicher Goldpressung und Goldschnitt. Gr. 4
+303. L. ROGER-MILES: Comment Discerner les Styles, du VII au XIX
+9. Siecle. Histoire-Philosophie-Document.—— Objets d'art, de curiosite et d'ameublement. Paris, Edouard Rouveyre, editeur. Mit zahlreichen Illustrationen. Schwarzer Orig.Lederbd.mit Golddruck.Gr.40.
+10. 304.H.A.AUDSLEY UND JAMES L.BOWES: La Ceramique Japonaise. Edition francaise publiee sous la direction de M. A.Racinet, Paris, Firmingraphischen und Lichtdrucktafeln, sowie Abbildungen und Marken im Text. Gruner Lwbd.mit Lederrucken und -Ecken.Gr.-Fol.
+305. BARON D'EISENBERG:L'art de Monter a Cheval,ou description du Manege Moderne, dans sa perfection. - Grave par B. Picart. A. la Haye, chez P. Gosse &amp; J. Neaulme,1733. Anhang:Dictionnaire des Termes du Manege Moderne. Mit 55 ganzen in Kupfer gest. Tafeln. Qu.-Fol.
+2. AlterLederbd.
+306. DER WIENER KONGRESS: Kulturgeschichte —Die bildenden Kunste und das Kunstgewerbe -Theater -Musik in der Zeit von 18001820. Unter Redaktion von Eduard Leisching. Wien, Artaria &amp; Co.,1898.Mit 46 Volltafeln in Gravure,Farbendruck und kolorierter Gravure; zahlreichen Portraits und llustrationen. Nummerierte Luxus-Ausgabe (No. 434). In Maroquin rouge mit Goldpressung (von F.W. Papke) nach der Origin. Envel. der Wiener KongreB-Akte. Gr.-Fol.
+307. PIERRE DE NOLHAC:Louis XV.et Madame de Pompadour. Illustrations d'apres des Documents Contemporains. Exemplaire sur Papier de Rives Planches imprimees en camaieu, frontispice en couleur,(nach Boucher). Exempl. No.720. Brochiert. Paris, Goupil &amp; Cie., 1903. Gr.4°
+5. 308.L'EXPOSITIONRETROSPECTIVEDEL'ARTDECORATIFFRANCAIS,
+1900. Description par Gaston Migeon, avec une introduction par M.Emile Molinier.Paris, Goupil &amp; Cie,(Nur 200 Exempl.gedruckt, vorliegend No. 153). Luxus-Ausgabe in zwei Mappen, jede funf Hefte enthaltend mit kolorierten Gravuren (Vollbildern). Grune Ledermappen mit Goldpragung.Gr.-Fol.
+309. BIBEL... samt Luthers) Vorreden, Glossen und Parallelstellen,iberdies sowohl mit des sel. Herrn Lutheri und seines Geschlechts, als anderen Bildnissen nebst derenselben Lebens-Laufen und verschiedenen,ganz neu verfertigten, schonen Kupfertafeln ausgezieret. Ingleichen sind zu Ende dieses Bibel-Werkes nebst der unveranderten Augspurgischen Confession die biblische Zeitrechnungen und unterschiedliche, nutzliche Register beygedruckt worden. Nurnberg, Joh. Andr. Endter 1765. In prachtigem Orig. Ebd. aus Schwld., (rot getonter Grund mit blauem geometrischem Muster und feinen Goldornamenten). Reich verzierte Bronzeschliessen.Goldschnitt. Gr.-Fol.
+310. KARL BERLING, das MeiBener Porzellan und seine Geschichte. Mit 15 Chromolithographien,15 Heliogravuren, einer Markentafel und 419 Textabbildungen. Leipzig,F.A.Brockhaus 1900.Orig.Ebd. Gr.-Fol.
+311. M. J. MANYAT,Histoire des Poteries, Fayences et Porcelaines. Notes et additions par M. M. le comte d'Armaille et Saluetat, avec une preface de M. Riocreux. Paris Vve. Jules Renouard, 1866. Zwei Bande mit zahlreichen Abbildungen und Marken.Marmor.Ppbd. mit Lederrucken und Ecken.
+312. WILLIAM CHAFFERS, The Keramic Gallery,containing several hundred Illustrations of rare,curious and choice examples of Pottery and Leder mit Goldpragung und Goldschnitt. Gr. 8.
+313. SAMUEL BIRCH, History of ancient Pottery; Egyptian, Assyrian
+4. and Greek.— Greek, Etruscan and Roman.—London, John Murray, 1858.—Zwei Bande in eleg.Ebd.mit rotem,goldgepragtem Lederricken und Ecken.Gr.8
+314. SINGER, Hans Wolfgang,Allgemeines Kunstlerlexikon. Dritte
+6. Auflage 1895.—Funf Bande eleg. gebd.
+315. BRILLAT-SAVARIN, Physiologie du Gout, avec une Preface Par
+8. Ch. Monselet; mit radiertem Portrat des Verfassers von Ad. Lalauze. Paris,Librairie des Bibliophiles. 1879. Zweiter Band. In Maroquin rouge und Goldpr.8°
+9. 316.OEUVRES DE MOLIERE, mit Titelbild. Paris,Firmin-Didot &amp; Cie.
+10. Zwei Bande. 8.Lederricken mit Goldpr.
+11. Augmentee des Notes et Commentaires de M. de Voltaire. Paris, Comp. des Libraires Associes. 1771. Drei Bande in goldgepr. Lederband. 8°
+318. LIVINI MEYERI e societate Jesu Poematum libri dudecim. Munchen, 1760. Goldgepr. Lederband mit getriebenen, silbervergoldeten Ecken; Goldschnitt.8.
+13. eighty-fife Engravings by Eisen, and thirty-eight after Lancret, Boucher, Pater etc. London, Society of English Bibliophilists, 1896. Zwei Bande, Fol. gbd. (Nur 520 Exempl. gedruckt), Exempl. No. 222.
+320. GALERIE FRANCOISE,on Portraits des Hommes et des femmes celebres qui ont paru en France etc. avec un abrege de leur vie par une Societe de Gens de Lettres. A Paris 1771. Mit zahlreichen ganzseitigen in Kupfer gestochenen Portrats. Pappebd. Gr.Fol.
+321. ANATOLE FRANCE,CLIO. Illustrations de Mucha. Paris, Calmann Levy.1900.Lederrucken m.Goldsch.8°.
+3. to Collectors. London, Bickers and Son 1892. Mit zahlreichen Illustr.
+4. und Marken.Gebd.8.
+323. ALBERT JACQUEMART,Historie de La Ceramique. Paris,Librairie Hachette et Cie. 1884. Mit zahlreichen Textillustrationen,Marken und
+6. ganzseitigen Originalradierungen,Fol. Lederrucken.
+7. 324.OEUVRES COMPLETES DE P.J.De BERANGER. Edition unique revue par 1auteur, ornee de 104 vignettes en taille-douce dessinees par les peintres les plus celebres, Paris, Perrotin, éditeur 1834.—Vier Bande, in marmor. Pppbd.mit Lederrucken.8.
+325. DASSELBE WERK in gleicher Ausgabe, gruner Lederricken und Ecken.
+326. WILLIAM BURTON. F.C. S. A History and Description of English Porcelain. Mit zahlreichen Textabbildungen und ganzseitigen Farbendrucken. London, Cassell and Co. 1702. Nummeriertes Exempl.
+10. No.783.
+327. OCTAVE UZANNE,Anecdotes sur la comtesse Du Barry. Mit Orig.-Titel-Radierung von Lalauze.Paris, A. Quantin, 1880. LiebhaberAusgabe. Goldgepr.Ebd.
+328. DASSELBE, Les Moeurs Secretes du XVll. Siecle. Paris, A. Quantin 1883. Mit zwei Original-Titel-Radierungen von P. Avril. LiebhaberAusgabe. Nummeriertes Exempl. auf Wattmann No. 55. Goldgepr. Ebd.
+329. JAENNICKE, Friedrich, GrundriB der Keramik. Stuttgart, Verl.von
+14. Paul Neef 1879. In einem Band mit Lederrucken und -Ecken.
+330. DILLON, Edward (M.A.) Porcelain. Auf Buttenpapier mit 49 Tafeln, Abbild. in Lichtdruck und Farbendruck. London,Methuen and Co. Goldgepr.Ebd.
+331. CHAFFERS, William, Marks and Monograms on European and Oriental Pottery and Porcelain,revised and edited by Frederick
+332. FRANZ EUGEN FREIHERR VON SEIDA UND LANDSBERG,Denkbuch der franzosischen Revolution. Mit 42 ganzseitigen Kupferstichen.Memmigen,Christoph Muller,1817.Qu.-Fol.
+333. LES PLANS,COUPES,PROFILS ET ELEVATIONS DES VILLE ET CHATEAU DE VERSAILLES, avec les Bosquets et Fontaines, tels quils sont a Presant, Levez sur les Lieux, Dessinez et Gravez en 1714 et 1715. A Paris chez Demortain,pont Notre Dame, aux belles Estampes, avec pvivilege du Roi.—Gr.-Fol. Lederband mit Goldpr.
+334. ARNOLD BOCKLIN. Achtzig Heliogravuren nach seinen hervorragendsten Werken. Munchen, Photographische Union. Inzwei Mappen.
+
+<!-- image -->
+ABBILDUNGEN.

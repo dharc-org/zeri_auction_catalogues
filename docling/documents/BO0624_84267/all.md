@@ -1,0 +1,770 @@
+<!-- image -->
+
+## GOUACHES
+
+## DU XVIII SIECLE
+
+## CARESME
+
+(PHILIPPE)
+
+Paris,1754Paris,1796.
+
+PENDANT DU SUIVANT
+
+1
+
+## Le Sacrifice a Priape.
+
+La statue du dieu s'érige,a droite, derriere un trepied de bronze, parmi les fumees d'un sacrifice. Un pretre officie pres de l'autel. Deux satyres, a gauche, entourent une jeune nymphe coiffee de feurs et tenant un thyrse orne de pampres. Au fond, une bacchante leve sa coupe vers Priape.
+
+Gouache.
+
+Signee vers la droite et datee : 1780.
+
+Voir la reproduction.
+
+Haut.,27 cent.;larg.,18 cent.
+## CARESME
+
+(PHILIPPE)
+
+PENDANT DU PRECEDENT
+
+2
+
+## Bacchanale.
+
+Dans un parc, devant la statue d'un Priape, une menade couronnee de feurs danse en s'accompagnant du tambourin. Pres d'elle, un faune emporte une bacchante entre ses bras. A droite, deux autres personnages.
+
+Gouache.
+
+Signee a droite et datee : 178o.
+
+Voir la reproduction.
+
+Haut.,27 cent.;larg.,18 cent.
+## LALLEMAND
+
+(JEAN-BAPTISTE)
+
+Dijon, 1710  Paris, 1803.
+
+PENDANT DU SUIVANT
+
+3
+
+## La Halte a l'auberge.
+
+Une auberge s'éleve,a droite, dans la verdure,au bord d'une route. Une jeune femme s'avance sur le seuil pour presenter a un cavalier, montant un cheval blanc, un verre de vin. D'autres figures animent la composition et trois poules picorent au premier plan.
+
+Gouache.
+
+Signee vers la droite, en bas.
+
+Haut.,31 cent.;larg.,45 cent.
+## LALLEMAND
+
+(JEAN-BAPTISTE)
+
+PENDANT DU PRECEDENT
+
+## Le Chemin de la riviere.
+
+Une riviere coule, a droite, au pied d'une colline escarpee. Des bergers et leur troupeau suivent un chemin qui y accede.
+
+A gauche,un bouquet d'arbres.
+
+Gouache.
+
+Haut.,31 cent.; larg,45 cent.
+
+<!-- image -->
+<!-- image -->
+
+## TABLEAUX ANCIENS
+
+## BOILLY
+
+(LOUIS-LEOPOLD)
+
+La Bassee,1761+Paris,1845.
+
+5
+
+## Portrait presume
+
+## de Pierre-Henri-Charles Huguet.
+
+Toile. Haut., 22 cent.; larg., 17 cent.
+
+BOILLY
+
+(LOUIS-LEOPOLD)
+
+6
+
+Portrait presume de Charlotte-Jeanne Le Boullenger.
+
+Toile. Haut., 22 cent.; larg., 17 cent.
+## BOUCHER
+
+(Ecole deFRANCOIS)
+
+## Les Baigneuses.
+
+Toile.Haut.,48 cent.;larg.,63 cent.
+
+Cadre en bois sculpte.
+
+## DESHAYS
+
+(JEAN-BAPTISTE-HENRI)
+
+Rouen,1729+ Paris,1765.
+
+8
+
+## Portrait de jeune femme.
+
+Un petit bouquet pique dans sa chevelure legerement poudree, le visage souriant et tourne de trois quarts vers la gauche, les yeux bruns, elle apparait en buste. Une chemisette lache decouvre ses épaules a demi nues que pare, a gauche, une guirlande de feurs.
+
+Voir la reproduction.
+
+Toile.Haut.,54 cent.;larg.,45 cent.
+## DUPLESSIS
+
+(JOSEPH-SILFREDE)
+
+Carpentras,1725  Versailles,1802.
+
+PENDANT DU SUIVANT
+
+9
+
+## Portrait de Madame Necker.
+
+Elle est vue a mi-corps, assise sur une chaise, tournee vers la droite, le visage presque de face. En haute coiffure bouffante, paree de gaze, elle porte un corsage de satin blanc decolleté, avec nceud de ruban et fichu de mousseline.
+
+Toile de forme ovale.Haut., 32 cent.; larg.,27 cent.
+
+Cadre en bois sculpte.
+
+Collection du comte A. de G.;vente a Paris, le 16 avril 1go7,n° 24 du catalogue.
+
+Voir la reproduction.
+
+## DUPLESSIS
+
+(JOSEPH-SILFREDE)
+
+PENDANT DU PRECEDENT
+
+10
+
+## Portrait de Necker.
+
+A mi-corps, tourne vers la gauche, les cheveux poudres, boucles et releves sur les oreilles, il est vetu d'un habit de velours violet et d'un gilet de meme couleur ouvert sur un jabot de dentelle.
+
+Toile de forme ovale.Haut.,32 cent.; larg.,27 cent,
+
+Cadre en bois sculpte.
+
+Grave par Sergent sous la direction de Saint-Aubin.
+
+Collection du comte A. de G...; vente cit., n 25 du catalogue.
+
+Voir la reproduction.
+## ECOLE FRANCAISE
+
+(Commencement du xvie siecle.)
+
+11
+
+## L'Enlevement d'Europe.
+
+La soeur de Cadmus, en tunique jaune et manteau bleu, est assise sur le taureau blanc dont le front est orne de guirlandes de roses. Une de ses compagnes lui presente des feurs et,a gauche, deux amours volent au-dessus d'elle en tenant des couronnes.
+
+Toile. Haut., I m.75; larg,1 m.38.
+
+## ECOLE FRANCAISE
+
+(xvI siecle.)
+
+12
+
+## Portrait presume de J.-F. de La Perouse et de sa famille.
+
+Le celebre navigateur est assis, a gauche, devant une table supportant un atlas et une carte deroulee. Pres de lui se tiennent un de ses fils et un peintre, la palette a la main. Sa femme,a droite, offre une gimblette a un petit chien, tandis que son plus jeune enfant regarde une servante creole agenouillee et penchee sur des cartes a jouer.
+
+Toile Haut., 94 cent.; larg., I m.22.
+## HEINSIUS
+
+(JOHANN-ERNST) Hidburghausen, 174o + Orleans,1812.
+
+13
+
+## Portrait de jeune femme.
+
+Elle est representee presque a mi-corps et, la chevelure poudree, porte un corsage vert qu'agremente une écharpe de mousseline.
+
+Signe a droite et date: 1776.
+
+Toile de forme ovale. Haut., 7I cent.; larg., 55 cent.
+
+Collection de Mme X..., vente a Paris, le 24 avril 1go7, n 42 du catalogue.
+## HUET
+
+(JEAN-BAPTISTE) Paris,1745Paris, 1811.
+
+14
+
+## L'Amour vainqueur.
+
+Entouree de ses moutons et d'un petit chien qui jappe, une bergere est assise, en tunique blanche, pres d'un buisson de roses, le visage tourne vers un amour tenant des couronnes et qui volette vers un autel ou fument les vapeurs d'un sacrifice. Un panier de feurs git renverse a ses pieds, aupres d'un grand chapeau de paille borde d'un ruban bleu. A gauche, deux colombes.
+
+Signe a gauche et date:1786.
+
+Toile.Haut.,49 cent.;larg., 8o cent.
+
+Voir la reproduction.
+
+Une composition similaire,avec quelques variantes, a éte gravee en couleurs sous le meme titre et la direction de Gilles-Antoine Demarteau.
+## JOUVENET
+
+(JEAN)
+
+Paris,1644+Paris,1717.
+
+15
+
+## Portrait d'homme.
+
+La main sur la poitrine, le visage tourne de trois quarts vers la gauche,il porte une ample perruque bouclee. Il est representé en buste, une cravate de dentelle mollement nouee sous le menton.
+
+Toile de forme ovale.Haut., 67 cent.; larg.,55 cent.
+
+Cadre en bois sculpte.
+## LARGILLIERE
+
+(NICOLAS DE LARGILLIERRE,OU DE)
+
+Paris,1656Paris,1746.
+
+16
+
+## Portrait d'homme.
+
+Le visage souriant sous la perruque poudree et vu presque de face, il est represente a micorps. Il porte un habit marron a boutons d'or, entrouvert sur un gilet de brocart d'argent, et un manteau brun double de satin blanc. A droite,une colonne; fond de parc.
+
+Toile.Haut.,81 cent.;larg.,64 cent.
+
+Cadre en bois sculpte.
+
+Collection J.Doucet,vente a Paris,le6 juin 1g12,n°165 du catalogue.
+
+Voir la reproduction.
+## LARGILLIERE
+
+(NICOLAS DE)
+
+17
+
+## Portrait de Voltaire.
+
+Coiffe dune ample perruque poudree dont les boucles retombent sur son habit bleu doublé de rose,a boutons d'or,le visage souriant tourne de trois quarts vers la droite,il est represente a mi-corps. La main droite engagee dans le gilet de brocart doré, il porte un jabot de dentelle et tient son tricorne sous le bras gauche.
+
+Toile de forme ovale. Haut., 79 cent.; larg.,64 cent.
+
+Cadre en bois sculpte.
+
+On releve, au revers de la toile, la mention: p. par Largilliere reentoile
+
+1858 Voltaire.
+
+Collection Poussin,vente a Paris,le 2g avril 1863,n26 du catalogue,ou il est mentionne comme provenant de la collection Rhone.
+
+Voir la reproduction.
+## LARGILLIERE
+
+(NICOLAS DE)
+
+18
+
+## Portrait presume
+
+## de la Marquise de Dangeau.
+
+La chevelure bouclee et poudree, elle est representee a micorps, de trois quarts vers la gauche. Drapee dans un manteau bleu double d'argent, elle porte un corsage de drap d'or decollete que pare un joyau enrichi de perles.
+
+Toile de forme ovale. Haut., 82 cent.;larg., 63 cent.
+
+Cadre en bois sculpte.
+
+## LARGILLIERE
+
+(NICOLAS DE)
+
+19
+
+## Portrait de jeune femme.
+
+Les yeux bruns, le visage presque de face, une boucle de cheveux retombant avec grace sur l'épaule, elle est representee en buste. Son corsage de brocart, degageant la naissance du cou, s'échancre sur une chemise de dentelle. Une echarpe rouge, maintenue par un joyau orne d'une perle baroque, entoure ses epaules. Fond de parc.
+
+Toile de forme ovale.Haut.,66 cent.;larg., 55 cent.
+
+Cadre en bois sculpte.
+## NONNOTTE
+
+(DONAT)
+
+Besancon,1708+Lyon,1785.
+
+20
+
+## La Dame a l'eventail.
+
+Le visage souriant sous une petite coiffe de dentelle et tourne de trois quarts vers la droite, elle est assise et representee a mi-corps. Elle porte un corsage rouge,borde de fronces et agremente d'une echelle de nceuds de rubans bleus. Les bras se degagent de volants de dentelle; de la main gauche, elle tient un éventail a branches d'ivoire.
+
+Toile.Haut.,8o cent.;larg.,63 cent.
+
+Cadre en bois sculpte.
+
+Voir la reproduction.
+## RIGAUD
+
+(HYACINTHE-FRANCOIS-HONORAT-MATHIAS-PIERRE-ANDRE)
+
+Perpignan,165g +Paris,1743.
+
+21
+
+## Portrait presume
+
+## de Lefebore d'Ormesson.
+
+Assis dans un fauteuil, devant une table ornee de bronzes, en robe et manteau de soie noire, longue perruque a marteau, un billet avec l'inscription : Au Roy. Un rideau de velours rouge est drape sur la droite. Sur la table, un encrier d'argent.
+
+Toile. Haut., 1 m.45; larg., 1 m. 13.
+
+Cadre en bois sculpte.
+
+Vente du 23 mars 1go8, a 1'Hotel Drouot, n° 37 du catalogue.
+
+## TOURNIERES
+
+(ROBERT LEVRAC)
+
+Ifs, 1668  Caen, 1752.
+
+22
+
+## Portrait de Jean Duc,le fils.
+
+Vu presque a mi-corps, le visage de trois quarts vers la droite, la perruque poudree, les yeux noirs, il est drape dans un manteau violet. Un jabot de dentelle bouffe a l'échancrure
+
+Signe au revers de la toile, et date : 1736.
+
+Toile. Haut., 8o cent.; larg.,65 cent.
+
+de son gilet de brocart.
+## TOURNIERES
+
+(ROBERT LEVRAC)
+
+23
+
+## Portrait d'homme.
+
+Il est debout, vu a mi-corps, dans l'embrasure d'une fenetre cintree quorne une draperie verte. Le visage tourne de trois quarts vers la droite, il tient de la main gauche un pli du
+
+Signe a droite et date:1714.
+
+manteau violet qui l'enveloppe.
+
+Toile.Haut.. 55 cent.;larg.,45 cent.
+
+Cadre en bois sculpte.
+
+Collection de Mme X..., vente a Paris, le 24 avril 1go7, n 64 du catalogue.
+
+Voir la reproduction.
+## TROY
+
+(FRANCOIS DE)
+
+Toulouse,1645+Paris,1730.
+
+24
+
+## Portrait de femme en Diane.
+
+Un manteau bleu double de blanc flottant autour de ses épaules,en robe bleue galonnee d'or et corsage decollete a manches rouges, elle tient un arc de la main gauche; lautre main est posee sur une fleche empennee. Elle est representee jusqu'aux genoux dans un paysage. A gauche, son carquois.
+
+Toile.Haut.,I m.3g;larg.,I m.09.
+
+Vente du 13 decembre 1go6,Hotel Drouot,n°43 du catalogue.
+
+Voir la reproduction.
+
+<!-- image -->
+<!-- image -->
+
+## Objets d'Art et d'Ameublement
+
+## PORCELAINES
+
+- 25—GrAND vAsE en porcelaine de Chine, orne d'un arbuste sur fond jaune.
+- 26 — Groupe en porcelaine de Chine, de deux personnages souriant, tenant un vase.
+- 27 — GraND vAsE avec couvercle, en ancienne porcelaine de Chine; decor de reserves a haies fleuries sur fond bleu cailloute d'or. Monture en bronze dore a rocailles.
+- 28—CorNET en ancienne porcelaine de Chine, decore de rochers et oiseaux.
+- 29 —— SrATuETTE de Kouan-in assise, en ancienne porcelaine de Chine.
+- 3o PETITE PoTicHE avec couvercle,en ancienne porcelaine de Chine,a reserves sur fond cailloute vert.
+- 31—PeTIr vAsE quadrilateral, en ancienne porcelaine de Chine, decore de paysages et ustensiles. Il contient un bouquet de feurs en porcelaine.
+- 32 —Deux poTicHEs avec couvercles, en ancienne porcelaine
+- de Chine, decorees de rochers fleuris, oiseaux et arbustes.
+- 33Deux vAses en ancienne porcelaine de Chine, epoque
+- Kien-lung, a decor d’animaux chimeriques sur fond jaune.
+- 34 STATuErTE de femme debout, en vetements a fleurs,en ancienne porcelaine de Chine, époque Kien-lung.
+- 35 —PrronG hexagonal, decore de fleurs.Ancienne porcelaine de Chine, époque Kien-lung.
+- 36 — LEGuMIER rond,avec couvercle, en ancienne porcelaine de Chine, époque Kien-lung, a decor de fleurs.
+- 37-Vase en ancien celadon bleu-turquoise de la Chine;
+- monture en bronze dore simulant une fontaine et ornee d'un dauphin et d'un mulot en ancien celadon bleu turquoise de la Chine. Couvercle orne de feurettes de porcelaine.
+- 38 —— Deux vases a pans, en porcelaine émaillee bleu-turquoise, a decor, sous couverte, de feurs et lambrequins. Montures en bronze dore.
+- 3g — Groupe en ancienne porcelaine de Saxe:jeune paysanne
+- accompagnee de deux enfants.
+- 40- STATuETTE en ancienne porcelaine de Saxe : jeune berger debout, accoude a un tronc d'arbre,et jouant
+- du flageolet, son chien couche devant lui.
+- 41 - STATueTTE en ancienne porcelaine de Saxe: jeune femme
+- personnifiant l'éte.
+- 42  SrATuETTE en ancienne porcelaine de Saxe : adolescent personnifiant l'automne.
+- — SouPiErE ovale avec couvercle, decor d'oiseaux sur des arbustes; bouton de couvercle forme d'une figurine d'enfant
+- 43 nu. Porcelaine de Saxe-Marcolini.
+- 44 — PerDrix avec ses petits, en ancienne porcelaine d'Allema-
+- gne, decor au naturel.
+- 45— Coupe ronde, avec couvercle, en ancienne porcelaine de
+- Vienne : imbrications vertes et feurs polychromes.
+- 46 —Por a creme avec couvercle, en ancienne porcelaine tendre
+- de Sevres,a decor de bouquets de fleurs.
+- 47 — Deux PETITs BouGEoiRs en ancienne porcelaine tendre de Sevres, a decor de guirlandes de feurs; montures en bronze
+- dore, a tores de laurier et feuilles.
+- 48— Deux PETITs FLAMBEAUx, forme vases, en porcelaine tendre
+- a reserves d'oiseaux sur fond vert; montures en bronze dore.
+- 49 —— Deux poTs a creme varies avec couvercles, en ancienne
+- porcelaine tendre de Mennecy, a decor de grosses feurs.
+
+## OBJETS DE VITRINE, EVENTAILS
+
+- 5o- Boire en poudre d'écaille bleue, ornee d'une miniature: portrait d'homme en buste,vetu d'un habit bleu a parements d'or. Fin de l'epoque Louis XV.
+- 51- Boire ovale en or, du temps de Louis XVI, reemaillee bleu. Poincons de Clavel, annee 1784.
+- 52— MiNIATuRE ronde :jeune fille et tourterelle aupres d'un double coeur perce d'une fleche. Signee : Vallette, 1779. Epoque Louis XVI.
+- 53 — MinIAruRE ronde:portrait de femme en buste, de profil,
+- coiffée d'un bonnet de lingerie. Fin du xvinr siecle.
+- 54 MiniATuRE rectangulaire en grisaille : cortege antique.
+- Signee :Montesquiou,1791.
+- 55— MiNIATuRE octogone en grisaille : char de l'Amour. Fin du xvine siecle.
+- 56GRANDE MINIATURE rectangulaire :portrait de femme assise, vetue de blanc, la main sur un livre. Epoque
+- Empire.
+- 57 — Grosse MoNTrE a double boitier en or ajoure, a decor de
+- rinceaux, bustes et oiseaux. xvine siecle.
+- 58 — MonTre en or grave, a decor d'instruments de musique. Epoque Louis Xv.
+- 59— MonTrE en or de couleur cisele, ornee d’un medaillon
+- peint sur émail : buste de femme. Epoque Louis XVI.
+- 6o — MonTRE a double boitier en or de couleur cisele, ornee
+- d'un medaillon peint sur email : jeune femme en buste, coiffee d'un chapeau et vetue d'un corsage multicolore. Epoque Louis XVI.
+- 61- FEuILLE D'EvENTAIL peinte:le concert dans un parc. Cadre
+- en bois sculpte et dore.xvi siecle.
+- 62 — EveNTaiL a monture de nacre argentee et doree, a personnages. Sur la feuille, Diane et les amours. Epoque Louis XV.
+- 63—EveNTaIL a monture d'ivoire ajoure, peint et dore. Sur la
+- feuille, des personnages mythologiques dans la campagne. Epoque Louis Xv.
+- 64 —— EveNTaiL a monture d'ivoire ajoure et peint. Sur la feuille, la clemence d'Alexandre. Epoque Louis XV.
+- 65-EveNTaiL a monture de nacre ajouree et partiellement
+- doree. Sur la feuille :jeune femme étendue,a qui un enfant apporte des fleurs; encadrements a fleurs, fruits et enfants nus. Epoque Louis XV.
+- 66 -EveNTaIL en ivoire ajoure et peint, a personnages. xvinl siecle.
+- 67 — EvenTaiL en ivoire ajoure a decor de reserves, dont une a trois personnages dans la campagne. xvine siecle.
+- 68 - EveNTaIL en ivoire ajoure. Sur la feuille, scenes galantes.
+- Epoque Restauration.
+- 69 — EveNTaiL en ivoire decore au vernis : Flore et Zephyr.
+## OBJETS VARIES,SCULPTURES
+
+- 70 — DeUx FLAMBEAUx en argent, a decor de feuilles et canne-
+- lures. Fin du xvine siecle.
+- 7I— PeTIT BRULE-PARFuMs compose d'une terrasse en bronze
+- supportant deux figurines d'amours costumes, en ancienne porcelaine de Saxe, ainsi qu'une tasse avec un couvercle en ancienne porcelaine de Chine.
+- 72— SuPPoRT-APPLIQUE en bois sculpte et dore, a coquille et mascaron. Epoque Regence.
+- 73— ELEpHANT en jade vert de la Chine, accompagne de deux personnages. Sur terrasse en bronze avec feurettes de porcelaine.
+- 74 — Deux PETITs coRNETs en ancien émail de Canton, decores de medaillons contenant des bustes, des fleurs et des animaux
+- et se detachant sur fond carrele.
+- 75 — BoL en email de Canton, decore de fleurs et rinceaux sur fond bleu.
+- 76 — Deux JARDINIEREs rondes en ancien email cloisonne de la Chine,a feurs sur fond bleu.
+- 77 —- Deux JARDINIEREs rondes en émail cloisonne de la Chine, a fleurs et papillons sur fond bleu.
+- 78-VasouE ronde en email cloisonne de la Chine, chargee de fleurs et feuilles sur fond bleu.
+- 79 — Deux GRossEs BoUTEILLEs en émail cloisonne de la Chine,
+- a fleurs sur fond bleu.
+- 8o - Deux LAMPEs formees de vases en email cloisonne de la Chine, a rinceaux feuris sur fond bleu.
+- 81- PeTIT PANNEAu en tapisserie au point:anges et person-
+- nages apportant des feurs a la Vierge et a l'Enfant Jesus. Cadre en bois dore. xvin siecle.
+- 82— QuATRE BusTes plus grands que nature, en marbre blanc, personnifiant les Saisons sous les traits de trois femmes et
+- d'un homme barbu.
+- 83— QuaTRE FuTs de colonnes en marbre de couleur.
+
+Haut.,Im.18.
+
+- 84 —— Vase avec couvercle, en porphyre rouge de Suede, a decor
+- de gros godrons. Anses-mascarons et bouton de couvercle en bronze dore.
+## BRONZES,PENDULES
+
+- 85— STaTuETTe, de faune étendu, en bronze patine, d’apres
+
+Base en marqueterie de cuivre sur ecaille garnie de bronzes, du temps de Louis XIv.
+
+- l'antique.
+- 86 — Deux FLAMBEAux en bronze dore, a decor de feuillages et
+- moulures avec aigle heraldique couronne, sur la base. Epoque Regence.
+- 87—— Deux cHENeTs en bronze dore, composes de terrasses, avec monogrammes, ornees de statuettes de jeune garcon et de
+- fillette assis, et prolongees d’une galerie. Epoque Louis XVI.
+
+Voir la reproduction.
+
+- 88 —Deux FLAMBEAux en bronze patine, dore et marbre blanc,
+- a figures de personnages debout tenant le porte-lumiere. Fin du xvinle siecle.
+- 89 -- Deux CANDELABREs a trois lumieres, en bronze patine et dore, a figures de divinites debout, portant les bouquets de lumieres. Epoque Empire.
+- go — PeNDuLe en bronze et porcelaine, a mouvement porte par
+- un elephant. Epoque Louis Xv.
+- g1— PeNDuLe en bronze dore, a mouvement surmonte d'un
+- vase et place entre deux statuettes d'enfants. Socle en marbre blanc. Epoque Louis XVI.
+- 92 — PeNduLE en marbre blanc et noir et bronzes, a mouvement
+- porte par deux pilastres. Epoque Louis XVI.
+- 93 — GRANDE PENDULE en marqueterie de cuivre sur ecaille, garnie de bronzes, tels que : statuette du Temps, chutes, feuillages, cadran, etc.
+- 94 —— PeNDuLe en bronze dore et marbre blanc, ornee de deux statuettes : souverain debout, et figure symbolique.
+- 95 —BruLE-PARFuMs forme d'une coupe en laque rouge, montee sur un arbuste avec terrasse en bronze dore. Sur cette terrasse, deux statuettes de singes musiciens en porcelaine de Saxe.
+- 96 — Deux cANDELABREs a trois lumieres, en bronze dore, ornes de pieces d'enfilage et pendeloques en cristal de roche et
+- cristal.
+- 97 — GroupE en bronze : Hercule terrassant le taureau de Crete.
+## SIEGES VARIES
+
+- g8 —— BANQuETTE en bois sculpte et dore.
+- Elle est couverte de tissu de la Savonnerie du xvne siecle, a trois feurs de lis sur fond jaune.
+- 99 — Deux TABouRETs en bois sculpte et redore, couverts en tissu de la Savonnerie a decors varies de rosaces, feurs et
+- oiseaux.Epoque Regence.
+- 1oo - Deux FAuTEuILs en bois sculpte, a coquilles et rocailles; sieges et dossiers cannes. Epoque Louis XV. Coussins en
+- soie a fond jaune.
+- Io1 — Deux TABouRETs en bois sculpte, repeint et redoré,a decor de fleurs et feuilles. xvine siecle. Dessus a chassis
+- couverts en damas rouge.
+- 102 — TaBouRET en bois sculpte,repeint gris et redore, a decor de feuilles et fleurs. Italie, xvie siecle. Dessus en damas rouge.
+- 103 —Deux cHAisEs en bois sculpte, dossiers ajoures. Sieges
+- couverts en tapisserie au point du xvin siecle, a paysages.
+
+5
+- 104 — PETIT TABouRET ovale en bois sculpte. Il est couvert
+- d'ancienne tapisserie au point a grosses fleurs.
+- 105 —TaBouRET rectangulaire en bois sculpte et dore, couvert en ancienne tapisserie au point ornee d'une corbeille de fleurs.
+- I06 — QuATRE TABouRETs a X en bois dore, couverts en tissu genre Savonnerie,ornes chacun d'un medaillon de feurs place au centre d'une draperie en losange, se detachant sur un fond bleu enguirlande de fleurs.
+
+## SIEGES COUVERTS EN TAPISSERIE
+
+- 107 — MoBiLier de salon en bois sculpte et redore, a fleurs et rocailles.
+
+Il est couvert de tapisseries d'Aubusson a sujets tires des fables de La Fontaine, avec encadrements de fleurs et de rocailles sur fond rouge fonce; manchettes a feurs. Montures a chassis. ll comprend un canape et six fauteuils.
+
+Larg.du canape,2 m.3o.
+
+Larg. d'un fauteuil, 75 cent.
+
+Epoque Louis XV.
+
+Voir la reproduction.
+
+- 108 -Deux FAuTeuILs en bois sculpte et redoré,a feurs, du temps de Louis XV. Ils sont couverts de tapisserie de Beauvais du temps de la Regence : sur les dossiers, un enfant symbolisant les Arts et un enfant symbolisant la Guerre; sur les sieges, un large motif a coquille, grands rinceaux et fleurs.
+
+Voir la reproduction,
+
+L.arg.,74 cent.
+1og —Deux MARQuIsEs en bois sculpte a moulures. Elles sont couvertes de tapisseries de Beauvais, decorees, sur fond jaune, de singes au milieu de guirlandes de feurs sur les dossiers, de perroquets, feuillages, quadrilles et monogramme sur les coussins, avec feurs et rinceaux sur les cotés. Epoque Louis Xv.
+
+Larg., 81 cent.
+
+Vente Lelong 1g03.
+
+Voir la reproduction.
+
+- 11o - TABouRET a X en bois dore.
+- Il est couvert de tapisserie de Beauvais du commencement du xixe siecle, a rosace sur fond blanc avec contrefond rose.
+- I11 - GrAND caNAPe a joues, en bois ajoure et sculpte.
+
+Il est couvert d'une partie de tapisserie des Gobelins du xvine siecle, de la tenture des Dieux, d'apres Claude Audran :le dossier est orne, sur fond jaune, d'une figure de Jupiter accompagnee d'un amour et entouree de guirlandes de feurs et de deux petits motifs d'architecture. Le siege est decore d'un lambrequin arrondi, d'oiseaux,de
+
+- guirlandes de fleurs, etc., egalement sur fond jaune.
+
+Larg., 2 metres.
+
+Voir la reproduclion.
+
+- 112 — FauTeuIL a haut dossier, en bois moulure. Il est couvert de tapisserie flamande du xvin siecle : sur le dossier, un vase de feurs et, sur le siege, un bouquet.
+- Fond blanc, contre-fond bleu.
+- 113 - Deux FAuTeuiLs en bois sculpte et redore a coquilles,
+- feuilles et quadrilles, couverts en tapisserie d'Aubusson, a decor de corbeilles et vases de feurs avec encadrements a quadrilles. Commencement du xvine siecle.
+
+Larg.,68 cent.
+
+Voir la reproduction.
+
+- 114 - PeTIT CANAPE en bois dore. ll est couvert de tapisserie
+- d'Aubusson en partie du temps de Louis XVI, a personnages, draperies et animaux.
+- 115 — TaBouREr ovale en bois dore. Il est couvert de tapisserie d'Aubusson du temps de Louis XVI,a vase de fleurs sur fond blanc. Contre-fond rouge.
+- 116 - Deux FAuTeuILs en bois dore. lls sont couverts de tapisserie d'Aubusson du temps de Louis XVI, a medaillons contenant des animaux se detachant sur fond blanc charge de fleurs.
+- 117  FAuTEuIL en bois dore. Il est couvert de tapisserie d'Aubusson du temps de Louis XVl, a medaillon a personnage, sur le dossier, et medaillon a decor d'animaux sur
+- le siege.
+- 118  Deux FAuTeuiLs en bois sculpte, peint bleu et dore. Ils sont couverts de tapisserie d'Aubusson du temps de Louis XVI, a medaillons de personnages et animaux sur fond blanc et contre-fond bleu.
+## MEUBLES
+
+## CLAVECIN
+
+## CHAISE A PORTEURS
+
+- 11g — ConsoLe en bois ajoure, sculpte et redore, a decor de
+- rocailles et quadrilles, reposant sur quatre pieds contournes relies par un croisillon surmonte d'une coquille. Dessus de marbre. Epoque Regence.
+- 120 — ConsoLE en bois sculpte et redore, decoree d'une rosace et sur deux pieds a mascarons. Dessus de marbre. Epoque Regence.
+- 121 — EcrAN en bois sculpte et dore. Feuille en tapisserie, en partie du temps de la Regence, ornee d'un personnage musicien, debout, entoure de rinceaux.
+- 122 — EcraN en bois dore. Feuille en tapisserie d'Aubusson
+- du temps de Louis XV : scene galante a deux personnages accompagnes d'une brebis et d'un chien.
+
+V'oir la reproduction.
+
+- 123 —Ecran en bois sculpte, peint et dore, a guirlandes et dauphins. Feuille en tapisserie d'Aubusson du temps de Louis XVI, decoree d'une corbeille de feurs au milieu de
+- rinceaux dans la maniere de Salembier.
+- 124 — HorLoGE a gaine en marqueterie de bois de violette, a
+- quadrilles; garniture de bronzes : masque du soleil, encadrements a rocailles et fleurs, etc. Epoque Louis Xv.
+
+Haut.,I m.28.
+
+Voir la reproduction.
+
+- 125 — BurEau a dos d’ane, a toutes faces, en marqueterie de
+- bois de bout a fleurs, garniture de bronzes. Epoque Louis Xv. Encadrements, chutes, sabots a rocailles en bronze.
+- 126 -PeTIT BuREAu a cylindre, en marqueterie de bois de couleur, a trophee d'instruments de musique. ll est muni de tiroirs interieurs et exterieurs. Epoque Louis XV. Chutes,
+- sabots, entrees de serrures en bronze.
+- 127 - PeTITE TABLE a trois tiroirs en bois de placage; dessus
+- de marbre. En partie du temps de Louis XV.
+- 128  Deux ENcoiGNuREs en marqueterie de bois de violette de bout, ouvrant a deux portes galbees. Dessus de marbre. Epoque Louis Xv. La bordure superieure porte la mar-
+- que B. V. R. B. Garniture de bronzes a rocailles.
+
+Voir la reproduction.
+
+- 129 —— TaBLE de chevet, en bois de placage,fermant a coulisses
+- surmontees d'un tiroir formant bureau. Garniture de bronzes. En partie du temps de Louis XV.
+- 130 —PETITE TABLE ronde a deux tiroirs, en marqueterie de bois
+- de couleur a flets verts. En partie du temps de Louis Xv.
+- 131 —PETITE TABLE a trois tiroirs, en ma!queterie de bois de couleur, decoree d'un paysage sur le dessus. Garniture de
+- bronzes. En partie du temps de Louis XV.
+- 132 - TaBLE en bois de placage a quadrilles, munie de deux tiroirs lateraux; garniture de bronzes. En partie du temps
+- de LouisXV.
+- 133 - SecRETAirE a abattant, portes et tiroir, en marqueterie de bois de couleur a carrelages. Dessus de marbre breche d'Alep. Epoque Louis XVI. Garniture de bronzes.
+- 134 —ConsoLe demi-lune plaquee d'acajou, munie d'un tiroir dans la ceinture et d'une tablette d'entre-jambes. Dessus de marbre blanc. Epoque Louis XVI. Garniture de bronzes.
+- 135 — SecRETAIRE a abattant, portes et tiroir, en bois de placage,
+- orne d'un medaillon en marqueterie avec incrustations d'os. Garniture de bronzes. Dessus de marbre. En partie de I'époque Louis xvI,
+- 136 — GRANDE ARMoIRE en bois sculpte,ouvrant a deux portes et decoree de grosses moulures. xvinl siecle.
+- 137 -— ArMoire a deux portes,en bois sculpte et dore,ornee de panneaux d'ancienne laque de Hollande, a sujets de style chinois, en dorure sur fond rouge. Dessus de marbre.
+- 138 — CHAisE A poRTEuRs en bois sculpte et dore et toile peinte, a decor darmoiries,rocailles,eurs,fruits,oiseaux,rubans, etc. xvine siecle. Interieur garni de velours cisele a feurs, en rouge sur fond jaune.
+- 13g — CLavecin en bois, decore de peintures en grisaille a sujets d'enfants nus, medaillons, guirlandes, etc., avec cartes a jouer et feuillets de musique en trompe l'eil sur le dessus. A l'interieur, une peinture a sujet d'amours symbolisant la et le nom : Joannes Couchet fecit Antverpia.En partie du
+- Musique. A linterieur, l'inscription: Vive lamusique, 1778, xville siecle.
+- 140 - CoMmoDe a deux tiroirs, plaquee d'acajou et ornee de panneaux en laque a fruits, feurs, etc. Dessus de marbre.
+- 141 — GraNDe consoLE en bois ajoure, sculpte et dore, a decor cambres relies par une traverse. Tablette de marbre de
+- couleur.
+## TAPISSERIES
+
+- 142 — Deux MoNTANTs de la suite des entrefenetres des Termes, d'apres Le Brun, en tapisserie des Gobelins tissee d'argent du xvinle siecle, decores chacun d'une cariatide de personnage barbu enguirlandee de fleurs et interrompue par un cartouche au chiffre du roi et un trophee d'armes. A la partie superieure, une console surmontee d'une fleur de lis. Bordure simulant un cadre fleurdelise.
+
+Haut.,3 m.40; larg., I m.05.
+
+Voir la reproduction.
+
+- 143 TapisserIe famande du xvil siecle,representant la naissance de Bacchus: composition de nombreux personnages accompagnes d'enfants. Fond de paysage. Bordure simulant un cadre enrichi de torches et de fleurs.
+
+Haut.,3 m.20;larg.,3 m.80.
+
+Voir la reproduction.
+
+- 144 — TapissErie flamande du xvine siecle: Mercure vient chercher Psyche pour la conduire dans l'Olympe. Psyche est assise aupres d'une table sur laquelle est dispose un coffret rempli de bijoux et que viennent d'ouvrir trois suivantes. Fond de paysage avec palais et jardin a la francaise. Bordure simulant un cadre enrichi de fleurs et de torches.
+
+Haut.,3m.15;larg.,2 m.95.
+
+Voir la reproduction.
+- 145TapissERiE flamande du xvn siecle: Diane et Endymion, au bord d'une riviere coulant au milieu d'une foret; au second plan, deux personnages sortant de l'eau. Bordure
+- de trois cotes, chargee de feurs, couronnes et corbeilles.
+
+Haut. et larg.,3 metres.
+
+Voir la reproduction.
+
+- 146 -TapisseRie de la meme suite que la precedente et de la
+- meme epoque: Venus et Adonis s'enlacant; gros arbres au second plan. Aupres d'eux,l'Amour lancant une feche sur un groupe de colombes. Bordure sur trois cotes, en partie rapportee,et decoree de perruches, fruits, feurs,etc.
+
+Haut., 3 metres; larg.,2 m.15.
+
+- 147-TaPissERIE famande du xvine siecle:la Toilette de Flore. La deesse est assise dans un jardin, accompagnee de suivantes; au-dessus d'elle, une draperie jetee sur des arbres.
+
+Haut.,3 m.3o; larg.,2 m.25.
+
+Voir la reproduction.
+- 148 - TroIs MoNTANTs d'entre-fenetres, en tapisserie de Felletin du temps de la Regence, presentant chacun, sur fond marron, des reserves a sujets mythologiques entourees de rinceaux avec quadrilles et mascarons en haut et en bas. Marquees M.R. D.F.P.
+
+Voir la reproduction.
+
+Haut., 3 metres; larg., 55 cent.
+
+- 149 — TaBLEau en tapisserie du temps de Louis XV: portrait de femme vue a mi-corps, en robe blanche a panier avec rubans roses; elle porte sur lépaule gauche une houlette a laquelle est suspendue une corbeille de feurs. En bas, a gauche, un double écusson d'armoiries. Cadre en bois sculpte et dore.
+
+Haut., 8o cent.; larg., 7o cent.
+
+- 150 — TapissERIE d'Aubusson du temps de Louis XV:Alexandre et la famille de Darius; bordure a fleurs et rinceaux.
+
+Haut.,2m.5o;larg..3m.50.
+
+- 151 —Deux BoRDuREs de tapisserie flamande du xvil siecle, ornees de divinites marines,cartouches, feuillages, rinceaux, oiseaux et moulures simulees.
+
+Haut., 32 cent.; long.,3 m.85.
+
+Haut.,2g cent.;long.,3m.85.
+- 152  TapisserIe d'Aubusson du xvi siecle, ornee, au premier plan, de deux grands oiseaux se combattant. Fond de
+- paysage avec habitations et moulin.
+
+Haut.,2 m.45;larg.,3 m. 6o.
+
+Voir la reproduction.
+
+- 153 —Tapisserie d'Aubusson du xvil siecle:paysage avec, au centre, un cours d'eau traverse par un pont de bois. Sur le cote,berger et bergere. Au premier plan, des brebis et des
+- oiseaux.Marquee M.R.D.P.P.L.E.
+
+Haut., 2 m.65; larg., 2 m. 50.
+
+- 154 - CaNToNNiEre formee d’une bordure de tapisserie flamande
+- du xvi siecle, a decor de feurs, fruits et ustensiles divers.
+
+Haut.,2m.55;larg.,3m.6o.
+
+- 155-GRAND TAPIs-CHEMIN en tapisserie de Beauvais,du commencement du xixe siecle, decore, sur fond rouge, de medaillons feuillages alternant avec des rosaces et des carrelages entoures d'attributs divers. Bordure simulant des
+- oves.
+
+Voir la reproduction.
+
+Long.,14m.40;larg.,I m.35.
+## TAPIS
+
+156  PeTIT TAPis chinois,a dessins gris et bleu.
+
+- 157 — GRAND TAPIs en tissu genre Savonnerie, a motif de medaillon central; decor rayonnant et quadrille a coquilles et rinceaux; entourage de guirlandes de feurs sur fond havane; ecoincons a coquilles, grands rinceaux et cornes d'abondance; encadrement a faisceaux de feuilles d'acanthe
+
+Long.,6 m.75;larg, 6m.40.
+
+- et guirlandes de feurs.
+- 158 — Tapis en tissu genre Savonnerie, a motif de medaillon central a decor rayonnant, piquets et guirlandes de roses sur fond havane; entourage a quadrilles, ecoincons a coquilles, rinceaux feuillages et cornes d'abondance fleuries.
+
+Long., 6 metres; larg., 3 m. 80.
+
+- 15y — Tapis en tissu genre Savonnerie,a decor de guirlandes
+- de fleurs avec rosace au centre.
+
+Long.,6m.7o;larg.,5 metres.
+
+<!-- image -->

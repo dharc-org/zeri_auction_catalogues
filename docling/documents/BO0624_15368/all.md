@@ -1,0 +1,2570 @@
+## ITALIENISCHE
+
+## UND
+
+## SPANISCHE PLAKETTEN
+- 15
+
+## Kopien und freie Nachbildungen nach der Antike. 16.-17.Jahrhundert.
+
+- Hercules und Antaeus. Hercules nach rechts, hebt Antaeus empor und erwurgt ihn. Drei-
+- 1 fache Leiste.
+
+Blei. Spaterer Guf. Hochoval.—H.46.-B.35. Barge 132.
+
+- 2 Bronze. Spaterer Guf.Oval.——H.56.——B.45,5. Bange 163.
+- Alexander der GroBe. ALISANDRO Brustbild mit Helm nach rechts.
+- 3
+- Derselbe. Ohne Bezeichnung. Wie oben.
+- 4 Profilkopf des Augustus oder Tiberius. Nach rechts blickend.
+- Bronze.Alter Guf.Hochoval.Bohrloch.-H.41.-B.31. Bange 181.
+- 5
+- 6 Decursio. Romischer Kaiser,gefolgt von einem Begleiter,nach rechts reitend. Untcn SC Ringsum Beischrift:VICTORI GLORIA-MAIOR-ERIT Bronze. Alter Guf. Zwei Bohriocher.—Dm.51. Bange 207.
+- Brustbild des Hadrianus. Lorbeerbekranztes Brustbild im Profl nach links, bartig. Bronze. Alter Guf. Hochoval.-H.39.-B.29.Bange 196.
+- 7 Heliogabal. Brustbild als Knabe nach rechts. Bronze.Vergoldet.Original.Oval.—H.37,5—B.31. Bange 212. Tafel 1
+- 8
+- 9
+- Hercules. Kopf, Profl nach rechts, bartig, mit dem Lowenskalp bedeckt, rechts die Keule. Bronze. Alter GuB. Oval.—H.50.-B.48.
+- Kopf des Hercules. Nach rechts blickend. Bronze. Alter Guf.Hochoval.-H.32.—B.28.
+
+Este 299.
+
+- 10 Julius Caesar. Brustbild mit Lorbeerkranz nach rechts. Inschrift IVLIVS CAESAR DICTATOR
+
+Bronze.Alter GuB.——H.49.——B.40.
+
+- Julius Caesar. Brustbild mit Lorbeerkranz. Rahmung mit Beischrift: C·IVLIVS
+- 11 CAESAR
+
+Bronze.Alter Guf.Hochoval.—H.114.—B.94.
+
+- 12
+- Unbekannter. Brustbild, Profl nach links. Mit Bart. Bronze.Original.Hochoval.Drei Bohrlocher.—H.44.-B.40.
+- 13 Tanzender Bacchant. Bronze. Neuerer Guf. Hochoval.—H.25.—B. 21,5.
+
+## Ferraresischer Meister. Um 1460.
+
+- 14 Unbekannter. Brustbild von linker Seite, bartlos, halblanges Haar, Mutze.
+
+(Vielleicht ein Mitglied der Familie d'Este）.
+
+Bronze.Alter Guf.-H.67.-B.47.
+
+Scheint unbekannt.-Vgl. Bange 268 u.ff.
+
+## Florentinisch.Um 1440.
+
+- Christus am Kreuz, zwischen Maria und Johannes. Zu Fuben des Kreuzes der Schadel Adams. Rahmen aus gewundenem Astwerk.
+
+Bronze. Alter Guf. Mit Bronzeplatte. Die Figuren konturiert. Oben halbrund.
+
+H.90.-B.70.
+
+Bange 286.-.Molinier 730.
+- 17
+- 24
+
+## Bertoido di Giovanni, geb. um 1420, gest. 1491, tatig in Florenz.
+
+- 16 Vulcan schmiedet die Waffen des Aeneas. Rechts sitzt der nackte Vulcan am Ambof. In der Mitte eine Victoria mit Schild, nach dem ein Jungling links greift. Unten links zwei Pferde. Profilierter schmaler Rand.
+
+Bronze.Alter Guf.—Dm.62.
+
+Bange 315.-Bode,Bertoldo S.42.
+
+Tafel 2
+
+## Niccolo di Forzore Spinelli? gen. Niccolo Fiorentino 1430-1514, täatig in Florenz.
+
+- Christus am Kreuz zwischen Maria und Johannes. Die Figuren konturiert. Tabernakelartige Umrahmung. Im Giebel Halbfigur Christi mit zwei Engelskopfchen.
+- Bronze. Spuren von Versilberung und Vergoldung. Original. H.114.-B.71.
+
+Vgl.Bange 328.--Ein ahnl.Exemplar im Mus.Arch. Venedig tragt die Bezeichnung Nicolo. M. Flor Fecit.
+
+- 18 Unbekannter.Brustbild von linker Seite,bartlos, Kappchen. Bronze.Alter Guf.-D.64. Scheint unediert. Tafel 2
+
+## Florentiner Meister in der Art des Lorenzi di Credi.
+
+- 19
+- Heilige Familie in Halbfigur. Rechts sitzend halt Maria das nackte Kind. Links Josef der die Rechte des Kindes ergreift. Breiter profilierter Rahmen mit Ose. Bronze Vergoldet.Original.- Dm.ohne Ose 136. Bange 336.-Braun,Kunst und Kunsthandwerk XIV 1911,S.405. Tafel 2
+
+## Florentinische Schule. 16 Jahrh.
+
+- 20 Madonna mit zwei Heiligen. Von Balustrade iberschnitten, die Halbfigur von Maria mit dem Kinde, zwischen zwei Heiligen. Unten Fries mit dem Wappen der Medici. Silber.Teilvergoldet.Original.—H.88.-B.62. Tafel1
+
+## Bartolommeo Bellano, tatig in Padua um 1430-1498.
+
+- 21 Madonna in Halbfigur. Maria hinter einer Brustung nach rechts gewendet,mit Schleiertuch und Nimbus, halt den Knaben. Auf der Bristung links und rechts flammende Kandelaber. Bronze. Alter Guf.-H.97.-B.82. Bange 345.-Molinier 368.— Braun, Kunst und Kunsthandwerk 1911, S.405. Tafel 2
+- Madonna in Halbfigur. Ausschnitt aus der vorigen Plakette als Kuftafel. Profilierte
+- 22 Rahmung.
+
+Bronze.Alterer Guf.H.89.-B.66.
+
+Vgl.Bange345.
+
+## Art des Giovanni di Pisa.
+
+- 23 Madonna in Halbfigur. Rechtshin.Oben Stern und Girlande. Unten Blattkante. Bronze.Alter GuB.-H.69.-B.58. Bange 348.-Braun,Kunst u.Kunsthandwerk 1911, S.405.
+
+## Paduaner Nachfolger Donatellos.
+
+- 4 Maria mit dem Kinde. Auf der Mondsichel mit Engelskopf stehend, halt Maria mit beiden Handen das Kind.
+
+Bronze.Vergoldet.Alter konturierter Guf.—H.134.
+
+Planiscig,Kunsthist. Museum Wien. Bronzeplastiken Wien 1924.Nr.405 (ohne Nimbus).- Braun, Kunst u. Kunsthandwerk 1911, S.405.-Bange 349als Plakette. Tafel38
+
+## Andrea Briosco gen.Riccio 1470-1532, tatig in Padua und Verona.
+
+- 25 Reiterschlacht. Aus den Mauern einer turmreichen Stadt brechen die Verteidiger hervor
+- links die Angreifer. Dichtes Kampfgewuhl.
+
+Bronze.Alterer Guf.Ohne Rar d.-H.130.-B.98. Bange 371.
+- 32
+
+## Ulocrino.Padua. Ende 15.Jahrh.
+
+- Pilaster und Felswand. Links Lowe. Oben in erhabener Schrift:VLOCRINO Bronze.Alterer Guf.-H.73.-B.48. Bange 418.
+
+Tafel 2
+
+Moderno,oberitalienischer,wahrscheinlich pad anischer Goldschmied. Tatig in den letzten Jahrzenten des 15. und den ersten des 16.Jahrh.
+
+- 27 St. Sebastian.Der Heilige,an die Saule gefesselt,von Pfeilen durchbohrt, steht zwischen Architekturteilen, die mit Reliefs geschmickt sind.
+
+Bronze. Alterer GuB.H.76.B.55.
+
+Bange 433.— Braun, Kunst u.Kunsthandwerk. 1911. S.405.
+
+- 28 David und Goliath.David, an ein Postament gelehnt, stehend, befiehlt einem Knaben den Rumpf Goliaths wegzutragen. Links der Kopf Goliaths.
+
+Bange 438.
+
+- Bronze. Alter Guf. Profilierter Rand. H.70.-B.56.
+- Maria mit dem Kinde. Maria am Boden kauernd, reicht dem Kind die Brust. Rechts Joseph ein Kreuz haltend. Tabernakelumrahmung. Die Pilaster mit Bandwerk, Sockel mit
+- 29 Wappen, Giebel mit Gottvater und Cherub.
+
+Bronze.Vergoldet.Original.-H.113,5.—B.71,5.
+
+- 30 GeiBelung Christi. In einer Saulenhalle, der gebundene Christus von den Kriegsknechten gepeitscht. Glatte Rahmung.
+
+Vgl.Bange 447u.448.-Molinier 162.
+
+Bange 453.--Molinier 170.
+
+Bronze.Alter Guf.-H.141.-B.1C6.
+
+- 31 Kreuzigung. Christus zwischen den beiden Schachern, links Magdalena am Kreuzstamm
+
+Bronze. Alterer Guf.-H. 126.-B.90.
+
+- Kreuzigung.
+- und die Gruppe der Trauernden. Kriegsvolk darunter zwei Berittene.
+
+Bange 454.-Braun,Kunst und Kunsthandwerk 1911
+
+S.405.
+
+Bronze. Spaterer GuB.Ohne Rahmen.H.116.—B.78. Bange 454.
+
+- bar, wird von Maria und Johannes gestitzt. Hinten der Kreuzstamm.
+- 33 Beweinung Christi. Der Leichnam, aufgerichtet bis zu den Knieen im Sarkophag, sicht-
+
+Bronze.Vergoldet. Original. Ohne Rahmen.
+
+H.91.-B.62.
+
+- 34 Grablegung. Christus wird von Maria und 2 Mannern in den mit antiken Szenen geschmuckten Sarkophag gelegt. Hinten die trauernden Frauen und Johannes. Bronze.Alterer Guf.—H.95.—B.60. Bange 456.—Molinier 172.
+
+Variante von Bange 455.
+
+Tafel 1
+
+- 35 Auferstehung Christi. Der Heiland mit Fahne schwebt iber dem Sarkophag. Zwei von den vier Wachtern blicken zu ihm auf.
+
+Bronze. Original. Vergoldet. Ohne Rahmen. Oben Bohrloch.
+
+H.100.-B.72.
+
+Bange 458.-Molinier 180.
+
+- 36 Hl. Hieronymus. Knieend, vor der Felshohle. Vor ihm der Lowe und das Kruzifx. Bronze.Alter Guf.-H.78.-B 60. Bange 463.-Molinier 184. Tafel4
+
+Tafel 3
+
+- 37 Hercules mit dem nemaeischen Lowen. Der Held, stehend Profl nach links erwirgt den hochgehobenen Lowen. Ringsum schmale Leiste. Bronze.Alterer Guf.—H.75.—B.55. Bange 474.
+- 38
+- Lowenjagd. Nackte behelmte Reiter und Krieger zu Fuf bekampfen den Lowen. Profilierter Rand.
+
+Bronze. Alterer Guf.Dm.75,5.
+
+Bange 478.
+
+- 39 Hercules totet die lernaeische Hydra. Hercules packt die Hydra mit der Linken und
+- holt mit der Rechten zum Schlag aus.
+
+Bronze. Vergoldet. Alterer Guf. Ohne Rahmen. Zwei Bohrlocher.
+
+Bange 481.
+
+H.92.-B.73.
+
+Tafel2
+
+Tafel 1
+- 40 Cacus stiehlt die Rinder des Hercules. Wahrend Hercules rechts schlaft versucht Cacus ein Rind am Schwanz in seine Hohle zu ziehen.
+
+Bronze. Alterer GuB.—H.68.-—B.57.
+
+Bange 482. (Mit Signatur).
+
+- 41 KuBtafel. Beweinung Christi. Der von dem ornamentierten Sarg uberschnittene, aufgerichtere Leichnam Christi wird von Maria und Johannes gestutzt. Umrahmung mit Pilastern,im Giebel g flugelter Engelskopf.
+
+Bronze. Original. H.174.——B. 118.
+
+Sammlung Aukt.Kat.Nr.99 Heinrici, Frankfurt 1920, mit Abb. Tafel 3
+
+## Nachfolger des Moderno.
+
+- 42 Schlacht ei Cannae. Hannibal, gefolgt von Reitern, sprengt gegen ansturmende Fuf-
+- soldaten. Hintergund:Stadtarchitektur.
+
+Silber.Original.—H.37.-B.42.
+
+Bange 508.
+
+## Meister in der Art des Moderno.
+
+- 43 Kampfszene. Gewappneter Reiter sprengt iber zwei am Boden liegende nackte Krieger und ein gesturtztes Pferd. An seiner Seite lediges Pferd. Profil.erter Rahmen.
+
+Bronze. Alter Guf. Drei Befestigungslocher.
+
+Bange 514.
+
+## Paduanischer Meister. Um 1480.
+
+- 44 Hl. Hieronymus. Er kniet nach links in der Hohle, das Kruzifix vor ihm. Bei ihm der Lowe.
+
+Bronze. Alterer GuB.-H. 101.-B.76.
+
+Bange 547.
+
+## Paduanische Schule. 1. Halfte 16. Jahrh.
+
+- 45 Hercules totet den Centauren. Hercules erschlagt mit seiner Keule, den zwischen seinen Beinen liegenden Centauren. Tafel4
+
+Bronze.Vergoldet.Original.Konturiert.H.168.
+
+Vergl.Aukt.Kat.Sambon,Munchen 1914,112.
+
+- 46 Hercules erwurgt den nemaeischen Lowen. Hercules erdrosselt den aufgerichteten Lowen, am Boden liegt de Keule.
+
+Bronze. Vergoldet. Original. Konturiert.—H.57.-Gegenstuck zum vor. Vgl. Sambon 112.
+
+Tafel 4
+
+- 47 Thronende Madonna zwischen Heiligen. Maria mit Kind, umgeben von Magdalena, Katharina, Benedik:(?) und Franziskus, zu Seiten des Thrones je drei Cherubkopfe, unter dem Thron leeres Wappenschild. Tabernakelartige Umrahmung. Bronze.Alterer GuB.—H.117.—B.77. Bange 567.
+- 48 Maria mit dem Kinde und Engeln. Auf einer Estrade steht vor einer Nische Maria mit dem Kinde, umgeben von 17 Engeln, die Girlanden halten oder Leuchter tragen. Bronze.Vergoldet. Original.-H. 8,8.——B.7. Bange 568. Tafel3
+
+## Venezianische Schule. 1. Halfte 16. Jahrh.
+
+- 49 Johannes der Taufer. Stehend zwischen Baumen. Auf Spruchband: ECCE AGNvS DEI Rand mit Umschrift: IN·TERNATOS·MVLIERVM·NON·SVREXIT·MAIOR· IOVANES BABTISTA+
+
+Bronze.Vergoldet.Original.—Dm.56.
+
+Bange 585 und Anmerkung.
+
+- 50 Beweinung Christi. Leichnam Christi, vom ornamentierten Sarg iberschnitten,von zwei Engeln gehalten. Dahinter Maria und Johannes. Bronze.Spaterer Guf.-H.111.—B.90. Mittelstuick von Bange 588.
+
+6
+
+H.55.-B.63.
+
+Tafel5
+- 52
+- 53
+- 54
+- 56
+- 58
+
+## Cristoforo di Geremia,um 1430 bis nach 1475, gest.vor dem 22.2. 1476.
+
+- 51 Augustus und Abundantia. Augustus, den Caduceus in der Linken, reicht einer Frau mit Fullhorn die Hand. Zwischen ihnen DreifuB. Proflierter Rahmen.
+
+Bronze.Alterer Guf.—H.69.--B.68,5.
+
+Bange 611.—Molinier 90.
+
+## Pier G. l. Bonacolsi gen. Antico.
+
+- Eiserner Schwertknauf. Mit zwei Plaketten. Allegorie des Sieges (Bange 613) u. TriumphZug von Moderno (Bange 491).
+
+Bange 491 und 613.
+
+## Fra An Brix (Francesco Antonio da Brescia),tatig um 1487-1500.
+
+- eine Wiese.
+
+Bronze.Alter Guf.-—Dm.64.
+
+Bange643.
+
+Tafel1
+
+- Schlafende Bacchantin, von Satyrn iberrascht. Links nackte schlafende Frau mit zwei Kindern, am Altar der Tugend lehnend, der die Aufschrift VI RT|VS| tragt. Von rechts kommen zwei Satyrn.
+
+Bronze. Original.—Dm.56.
+
+Bange 645.
+
+## Meister IO·F·F·Oberitalienisch.
+
+- 55 Parisurteil. Vor dem linkshin sitzenden Paris stehen die drei nackten Gottinnen. Unten undeutlich bez.
+
+Bronze.Alterer Guf.—D.54.
+
+Bange 652.
+
+Tafel6
+
+- Allegorie. Thronende Frau auf Drachen mit einer Begleiterin; vor ihr zwei Manner, der eine tragt Palmzweig, der andere eine Stange mit abgeschlagenem Haupt.
+
+Bronze. Spuren von Vergoldung. Original. Zwei Bohrlocher.
+
+Dm.56.
+
+Bange 656.-Mol.147.
+
+## Unbekannter oberitalienischer Meister. Um 1530 (7).
+
+- 57 Anbetung des Kindes mit Heiligen.(Siegelstempel) Maria kniet vor dem Kinde, umgeben von Petrus, Paulus, Laurentius und Hirten. Uber der Architektur Gott Vater. Unten das Wappen der Medici mit zwei den Kardinalshut haltenden Engeln. Umschrift: HIP(politus) T(i) T(ulio) S(ancti) LAV(renti) IN·DAM(aso)·DIA(conus) CAR(dinalis) DE:
+- MED(ici) S(anctae) R(omanae) S·E(cclesiae) VICE·CAN(cellarius) PERV(siae) VMBR(iae) QV(e) LEGAT(us).
+
+Siegelstempel des Kardinals Hippolytus de'Medici, geb. 1511, Kardinal 1529-1535.— Von Fortnum vermu- tungsweise dem Lautizio von Perugia zugeschrieben.
+
+Bronze.Alter Guf.Spitzoval.—H.104.—B.69. Bange 712.
+
+Rickwarts veItieft im Duktus des 18.Jahrh.FIORENSA/AN·D·MDXXX
+
+## Italienisch. 1. Halfte 16. Jahrh.
+
+- Leichnam Christi. Der aufgerichtete Leichnam Christi,in Halbfigur, mit nach links geneigtem Haupt, gestuitzt von drei trauernden Engelknaben.
+
+Bronze.Original.——H.101.—B.85.
+
+Tafel 4
+
+- 59 Hl. Franziskus. Er betet nach links knieend das Kruzifixan. Tafel7 Bronze.AIter Guf.—H.95.-B.67.
+
+## Oberitalienische Schule. 1. Halfte 16.Jahrh.
+
+- 60 Ecce homo. Christus in Halbfigur vom Sarkophag iberschnitten mit uberkreuzten Armen vor Draperie. Unten zwei gefugelte Puttenkopfe. Umrahmung Akanthusstab. Glarter Rand. Bronze. Alterer GuB. Oben abgerundet.
+
+Tafel1
+
+H.111.-B.71.
+- 61 Der Genius der Musik. Nackter Jungling greift in den Zweig eines Baumes, an dem zahlreiche Musikinstrumente hangen. Rechts flammendes Feuer, in dem eine Posaune liegt. Bronze. Alterer Guf.-H.116.—B.72. Bange 724.
+- 62 Ecce homo. Christi in Halbfigur mit Nimbus steht vom Sarkophag iberschnitten. Tabernakelrahmen mit Cherubskopf und Akanthuslaub.
+
+Bronze.Guf.Original.-—H.136.-B.74.
+
+Vgl.Bange 721 u.722.
+
+## Venezianische Schule.Um 1560.
+
+- 63 Beweinung Christi. Der Leichnam Christi liegt am Boden von Maria,Johannes und Magdalena gehalten, dahinter zwei Frauen und zwei Manner. Im Hintergrund Landschaft mit den drei Kreuzen, Baum und Jerusalem.
+
+Bronze. Vergoldet.Original. Glatter Rahmen
+
+H.198.-B.150.
+
+Bange 42.
+
+Tafel8
+
+- Anbetung der Hirten. Vor einem Saulenbau kniet Maria, das Kind verehrend, links funf Hirten, die ein Lammchen darbringen. Auf dem Architrav des Saulenbaus Inschrift: PARMA INVENIT Unten auf einem Stumpf die Jahrzahl 1501 (sicl).
+
+Bronze.Alterer Guf.—H.197.-B.146.
+
+Vgl. Bange 42, Anmerkung, wo auf diese Plakette als Gegenstick zur vorhergehendenKat.Nr.63 hingewiesen ist.
+
+Braun,Kunst u.Kunsthandwerk 1911 S.406. Tafel 8
+
+- GeiBelung Christi. Der an die Saule gebundene Heiland wird von zwei Knechten geschlagen. Bronze.Alter Guf.-H.163.-B.136.
+
+## Oberitalienisch.2.Halfte 16.Jahrh.
+
+- Judith. Von yorne gesehen mit dem Schwert und dem Haupt des Holofernes. Halbfigur.
+- 66 In ovalem Rahmen, gebildet aus Rollwerk mit Kopfen und Laub.
+
+Bronze-Applike. Spuren von Vergoldung. Original. Oval.
+
+H.75.-B.60.
+
+Braun 65.-Vgl. Aukt. Kat.Artur Sambon.Hirsch 1914 Nr.90.(Art des Riccio.) Um 1500.
+
+- 67 Maria mit dem Kinde und dem hl. Hieronymus. Rechts von der thronenden Madonna
+- der hl.Hieronymus, links empfiehlt ein Engel einen knienden Knaben,
+
+Bronze.Alter Guf.-H.106.-B.81.
+
+## Oberitalienisch. Wohl Venezianisch. Ende 16.Jahrh.
+
+- 68 Maria mit Kind und Johannes. Die sitzende Maria halt in der Rechten ein Buch, mit der Linken umfaBt sie den Johannesknaben. Vor ihr steht Jesus.
+
+Bronze. Alter Guf. Die oberen Ecken abgeschragt. Braun, Kunst und Kunsthandwerk 1911 S. 406 ff.mit H.138-B.103. Abb.Unikum! Tafel8
+
+- 69
+- Der Leichnam Christi, von zwei Engeln gestitzt. Zwei stehende Engel halten den aufgerichteten Christus, dessen Haupt nach links gesunken ist. Bronze.Original. Konturiert.——H.141.-B.110. Braun,Kunst u.Kunsthandwerk 1911, S.460 mit Abb.
+
+## Venezianisch.Um 1600.
+
+Bronze. Alterer GuB. Vier Bohrlocher.
+
+Tafel4
+
+- 70 Bacchus und Ceres. Die nackte Ceres mit Garbenbundel und Bacchus mit Trinkschale stehend sich umarmend. Rahmung: Fruchtekranz, gehalten von zwei Putten.
+
+H.88-B.68.
+
+Este 431.
+
+## Mailand.Anfang.16.Jahrh.
+
+- 71 Die Gerechtigkeit des Trajanus. In der Mitte steht der Kaiser von Reitern und FuBsoldaten umgeben. Rechts knieender Mann, dahinter der Henker, eine Frau mit Kind. Im Hintergrund Kolosseum und Konstantinusbogen. PredellenartigerA bschluf mit Kampfszene. Silber. Vergoldet. Original.Oben abgerundet. Bange732.-Braun,Kunst u.Kunsthandwerk1911 S.405. H.94.-B.53.
+
+Tafel3
+
+- 64
+- 65
+- 81
+
+## Jacopo da Trezzo aus Mailand, tatig 1552-1578,gest.1589 Madrid.
+
+- 72 Diana. Sie schreitet, in ein Horn blasend,mit ihren Hunden nach rechts. Inschrift: PAR VBIQ·POTESTAS·Perlrand. Auf der Ruckseite M Bronze.Alterer Guf.—D.67.
+- 73 Sitzende Pax. Mit brennender Kriegsfackel, einer Palme und Lorbeerzweig in der Linken. Perlrand.Inschrift:CECIS-VISVS-TIMIDIS·QVIES Bronze. Alter GuB. Dm. 64.
+
+## Valerio Belli, gen.Valerio Vicentino 1468-1546, tatig in Vicenza.
+
+- Taufe Christi. In der Mitte steht Christus,rechts Johannes, links vier Junger. Proflierter
+- 74 Rand.
+
+Bronze. Spaterer Guf. Mit feststehender Ose.
+
+H.61.-B.61.
+
+- Jesus im Tempel lehrend. Vor Saulenarchitektur steht auf einem Postament nach links
+
+Bange 749.
+
+- 75 Bronze.Alterer Guf.-—H.59.—B.99. Bange757.
+- 76 Grablegung Christi. Maria und ein Mann halten den Korper Christi. Zu beiden Seiten Manner und Frauen. Unterer Abschnitt leer. Bezeichnung: VALERIVS DE BELLIS VI(C)EN·F.
+
+Bronze.Versilbert. Alter Guf. Breitoval. Bohrlocher.
+
+H.89.-B.97.
+
+Bange 772.
+
+- Gefangennahme Christi. In der Mitte umarmt Judas Christus, den ein Scherge faBt. Kriegsknechte und Jinger, rechts Petrus und Malchus. Unten Bezeichnung (undeutl.) VA-
+- 77 LERiVS VINCENTINVS F· Der untere Kreisabschnitt frei.
+
+Blei.Alterer Guf.Oval.Bohrloch.—H.88.—B.96. Bange 773.
+
+- Das Urteil des Paris. Paris rechts stehend reicht Aphrodite den Apfel, neben ihr die
+- 78 beiden andern Gottinen.
+
+Blei.Alter Guf.Hochoval.-H.46.—B.36. Bange 795.
+
+## Giovanni Bernardi da Castelbolognese.
+
+1649-1753, tatig in Ferrara und Rom.
+
+- Anbetung der Konige. Links sitzt Maria mit dem Kind, das die Gabe des knieenden
+- 79 Konigs entgegennimmt, hinter diesem stehen die zwei anderen Konige.
+
+Profilierter Rahmen.
+
+Bronze.Alterer Guf.-H.118.-B.87.
+
+Vgl. Bange 866und Molinier 261.
+
+- Amazonenschlacht. Wirres Durcheinander kampfender Reiter und Reiterinnen. Im Grund
+- 80 Saulenhalle. Unterschrift:IOANNES DE BERNAR(DI)
+
+Ausguf einer Kristaltafel an der ,Casetta Farnese im Museo Nazionale Neapel.
+
+Blei.Alter Guf.Breitoval.-H.87.-B.117. Bange 872.
+
+Kronos. Nackter Greis, geflugelt am Boden liegend, die Rechte faBt die Sense. Bronze. Original. Oben ein Stick im Guf ausgeblieben. Breitoval. H.63.-B.130. Bange 885.
+
+- Die Ermordung Casars. Vier Verschworer erdolchen den am Boden liegenden Casar.
+- 82 Links Statue des Pompejus.
+
+AusguB eines geschnittenen Steines.
+
+Bronze. Spaterer Guf.Breitoval.——H.55.——B.75. Bange 914.
+
+- chenden Gegner. Im Vordergrund links Flufgott, dahinter Stadttor. Rechts auf dem Schild eines Kriegers bez.:IO·B·F·
+
+AusguB einer geschnittenen Kristaltafel. Vielleicht Einnahme von ,Goletta".
+
+Silber.Alterer GufB.Breitoval.-H.54.-B. 64. Bange 919. -Braun, Kunst u. Kunsthandwerk 1911 S.406.
+
+- 83
+
+Tafel 6
+
+Tafel5
+## In der Art des Giovanni Bernardi.
+
+- Kreuzigung. Die drei Kreuze umgeben von den Trauernden, im Grund berittene Krieger, 84 rechts wurfeln die Soldaten um den Rock Christi.
+
+Blei. Alter Guf.Bohrloch.Dm.69,5.
+
+Bange 923.
+
+Giovanni Jacopo Caraglio.1500-1570, tatig in Parma und Verona.
+
+- Anbetung des Kindes. Rechts knieen die Eltern, von links nahen ein Hirte und zwei
+- 85 Frauen. Rechts Palastarchitektur.
+
+Bronze. Alter Guf. Breitoval.Bohrloch.
+
+H.71.-B.86.
+
+Bange 924.
+
+## Antonio Abondio 1538-1591 tatig in Mailand,Wien,Prag,Munchen.
+
+- 86 Christus. Av. Brustbild n. 1. (hebraischer Buchstabe) Rs.: Christus als Schmerzensmann mit
+- zwei Engeln. Mit Kunstlersignatur unter dem Brustabschnitt.
+
+Silber.Vergoldet. Original.——H.39.—B.33. Bange 925.
+
+## Thomas di Savii, tatig in Venedig.
+
+- 87 Thronende Madonna mit Heiligen und Dogen. Maria auf hohem Thron, rechts der
+- hl.Laurentius, den Dogen empfehlend, links Markus. Unten bez.: THOMASO·DI·S(AVII)
+
+Bronze. Original. Hochoval. Mit acht Lochern.
+
+H.68.-B.56.
+
+Bange 934.
+
+## Art des Jacopo Sansovino.
+
+- 88 Sitzende Madonna. Maria, Profl nach links, bis zu den Knieen sichtbar, halt das stehende Kind mit Nimbus. Unten profilierter Sockel.
+
+Bronze.Vergoldet. Konturiertes Original. Unten zwei Bohrlocher.
+
+H.88.-B.57.
+
+Bange 938 (Hohlform) ohne Nimbus und Sockel.
+
+Tafel 39
+
+- 89 Maria mit dem Kind und dem kl. Johannes. Auf einer Balustrade sitzt Maria nach rechts, auf dem Schof sitzt der nackte Knabe, bei dem Johannes steht. Die drei Figuren mit Nimbus.
+
+Bronze.Vergoldet.Original.—Dm.140.
+
+Bange 940.- Braun, Kunst u.Kunsthandwerk 1911 S.406. Tafel9
+
+- 90 Kronung der Maria. Christus auf Wolken kront die links vor ihm knieende Maria. Oberund unterhalb schweben Engel. In sog: Sansovino Rahmen. Bronze.Vergoldet. Original. Mit Ose. H.197.-B.124. Bange 944.—Braun, Kunst u. Kunsthandwerk 1911,
+
+S.406. Tafel4
+
+- 91 Beweinung Christi. Unter dem Kreuzstamm Maria, in ihrem Schof ruht von vorne gesehen der Leichnam Christi, die Arme von zwei Engelknaben gestuitzt. Stilisierte Wolken. Bronze mit Resten von Vergoldung. Original. Zwei Bohrlocher. H.132.-B.86. Bange 945. Tafel7
+- 92 KuBtafel. In der Mitte Pietagruppe wie Kat.Nr. 91. Umrahmung. Sog. Sansovinorahmen. In der Bekronung Halbfigur Gott Vaters. Bronze.Alter GuB.—H.163.-B.111. Vgl. Bange 945.- Aukt.Kat.Faure Nr.691 mit Abb.
+- 93
+- Maria mit Kind und Johannes. Maria sitzt nach rechts, das Kind haltend, links der
+
+Bange 946 mit Anmerkung iber dieses Exemplar. Braun, Kunst u.Kunsthandwerk 1911. S.406.
+
+- kleine nackte Johannes. Im Hintergrund kirchliche Gebaude. Bronze. Original.-H.133.-B.87.
+- 94 Rosenkranzmadonna. Maria, das liegende Kind im Schof hoch thronend; sie reicht dem h.Dominikus den Rosenkranz,hinter desem Papst,Kaiser und Page,rechts die hl.Therese,
+- die Kaiserin und 2 andere Frauen.
+
+Bronze. Original. Vergoldet. Hochoval.  H. 111. Oben feststehende Ose, seitlich zwei Schrauben. H.124.-B.107. Vgl. Bange 950. Tafel5
+
+- 95 Madonna mit Kind und Johannesknaben. Maria in Halbfigur halt mit beiden Handen das schlafende Kind. Links der Johannesknabe mit Kreuz. Rechts Saule und Vorhang. Profilierte Umrahmung.
+
+Bronze.Original.Vergoldet.--Dm.123.
+
+Tafel9
+
+- 96 Maria mit dem Kind. Maria in Halbfigur, halt mit beiden Handen das stehende Kind.
+- Bronze. Original.Ve.goldet. Hochoval.—H. 90.——B.73.
+
+## Romisch.Um 1540.
+
+- 97 Gottermahl. Die olympischen Gotter um eine langlich ovale Tafel versammelt. Bronze.Alterer Guf.Breitoval.—H.132-B.238. Este 402.
+- Hermaphrodit und Nymphe Salmacis. Links Hermaproditus, sich den Lockungen der Nymphe entziehend, rechts Hermaphroditus am Flufufer sitzend, im Wasser das Paar.
+- 98 Ais Zuschauer die Olympier.
+
+Bronze.Alterer GuB.Achteckig.—H.133.B.135. Este 403.
+
+- 99 Diana und Kallisto. Die Gottin nackt mit ihren Begleiterinnen am FluBufer, oben Kallisto von 2 Nymphen gestitzt. Bronze.Alterer Guβ.Achteckig.—H.135.—B. 135. Este 404.
+- 100 Mars, Venus und Vulcan. Rechts sitzen sich umarmend Mars und Venus. Links halt Vulcan das unter ihnen ausgebreitete Netz. Bronze.Alterer Gufβ.Achteckig.——H. 140.B. 140. Este 405.
+- 101 Sturz des Phaeton. In den Wolken Apoll auf seinem Wagen, links sturzt Phaeton mit seinem Gespann herab. Auf der Erde der Flufgott und die drei Schwestern. Bronze.Alterer Guf.Achteckig.—H.139.—B.139. Este 406.
+- 102 Apollo und Marsyas. In der Mitte der an einen Stamm gefesselte Marsyas, neben ihm kniet der Mann mit dem Messer. Links sitzt Apollo mit seinen Begleitern. Bronze.Alter Guf.Achteckig.—H.138.—B.137. Este 407. Tafel5
+- 103 Parisurteil. Links Merkur und Paris, der Aprodite den Apfel reicht. Neben dieser Athena und rechts, abgewendet, Hera. In den Wolken Zeus.
+- Bronze. Alterer Guf.Achteckig.—H.138.B.138. Este. 408.
+- 104 Venus und Adonis. Links ruht das Liebespaar unter Baumen, rechts Klage um den
+- toten Adonis.
+
+Bronze.Alterer Guf.Achteckig.H.139.——B.144. Este 409.
+
+Pastorino di Giovanni Michele, geb.um 1508, gest. 1592. Tatig in Siena.
+
+- 105 Franz von Lothringen.FRANCOIS DE LORRAIN Brustbild r.,am Armabschnitt
+- vertieft 1557
+
+Blei. Einseitiges Original.- Dm.64.
+
+Italien. Mitte 16. Jahrh.
+
+- 106 Kaiser Karl V.CAROLVS·V·IMPERATOR Brustbild nach rechts.
+- Bronze. Spaterer Guf.——Dm.34. Bernhart 206.
+- 107 Philipp Il. von Spanien. Brustbild nach links. Agraffe. Proflierter Rand.
+- Bronze.Alter Guf.—Dm.40.
+## Unbestimmte Meister.16. Jahrh.
+
+- 108 Grablegung.Der Leichnam Christi,yon Maria und Johannes gestutzt, vor dem Eingang
+- zum Feisengrab. Unten Zierleiste mit 3 Engelskopfen und 2 Paimetten. Tafel7 Bronze.Vergoldet. Original.Oben abgerundet.——H.188.——B.140.
+- 109 Grablegung. Johannes und 2 Engel stitzen den auf dem Sarkophag ruhenden Toten. Rechts Maria.
+
+Bronze. Spaiterer Guf. Oben gerundet.
+
+H.91.-B.61.
+
+Bange 970.-—Mol.566.
+
+- 110 Der Leichnam Christi. In ganzer Figur aufrecht, von 2 Putten unter den Armen gehalten, die auf dem Sarkophag stehen. Hinten das Kreuz.
+
+Bronze.Vergoldet. Spaterer Guf.
+
+H.116.-B.77.
+
+Vgl.Bange 973.(konturiert!)
+
+- 111 Vera Ikon. Brustbild Christi mit Nimbus, Profl nach links.Daruber Taube, Sonne und
+- Mond. Rahmen mit Zahnschnitt. Inschrift:I·N (R) I
+
+Nach einem im Schatz von St. Peter befindlichen Kameo.
+
+Bronze. Alter Guf. Mit Ose.Beschadigt.
+
+H.104.-B.66.
+
+Bange 975.
+
+- 112 Brustbild Christi. Profl nach links. Schriftlos. In der Art des Matteo de Pastis. Bronze.Original.-H.65.—B.48. Vgl. Bange 976.——Este 425. Tafel 10
+- 113 Brustbild Christi. Dem vorigen ahnlich. Inschrift: EGO SVM VIA VERITAS ET VITA
+
+Bronze.Alter Guf. Mit angegossenem, profiliertem Rahmen.—-Dm.106.
+
+- 114 Madonna. Brustbild mit Kopftuch und Nimbus nach rechts. Inschrift:O QVA TRISTIS· ET·AFFLICTA FVIT ILLA BNDICTA
+
+Bronze. Alterer GuB. Vergoldet. Bohrloch. Ohne Umrahmung (Gegenstick zum vorigen ?) Dm.83. Este.426.
+
+- 115 Brustbild Christi. Wie Nr.113. Umrahmung mit acht Engelskopfen besetzt.
+- Bronze.Vergoldet und bemalt.Alter Guf.Zum Aufstellen.- H.170.
+- 116 Christus. Brustbild, Profl nach links. Bronze.Vergoldet. Konturierter Guf.Original.-H.126.
+
+Tafel 6
+
+- 117 Sultanin. Weibliches Brustbild von rechter Seite, mit federgeschmicktem Turban. Darunter vertieft:SVLTANA
+
+Bronze.Alter Guf.-H.93.-B.61.
+
+## 118-121 Die vier Evangelisten.
+
+Matthaus. Der Evangelist sitzend mit Tafel, rechts etwas zurick der Engel.
+
+Markus. Profil nach links, sitzend. mit aufgeschlagenem Buch. Links der Lowe.
+
+Johannes. Sitzend nach rechts, schreibend. Neben ihm der Adler.
+
+Lukas. Sitzend nach links, die Tafel auf das Knie gestutzt. Hinter ihm der Stier.
+
+Einfassung der Serie: Eierstab.
+
+Bronze. Spatere Gusse nach gelochten Exemplaren. Braun 146-149.-Bange 980-982 Bemerkung iber Dm.77. diese Exemplare.
+
+- 122 Klage um den Leichnam Christi. Im Schof Marias ruht der aufgerichtete Leichnam Christi yon zwei Engeln gestitzt, dahinter das Kreuz. Zu Seiten Nikodemus, Johannes und zwei hl. Frauen.
+
+Bronze,Versilbert.H. 218.B.160.Vergoldetes Exemplar. im Bayr. Nat.Museum, Muinchen.
+
+- 123 Hercules mit der Keule. Nach dem Hercules Farnese.
+
+Bronze.Alterer Guf.Oben gerundet.-H.138.—B.60.
+- 124 Zwei wilde Manner. Stehend, nackt mit Keulen. Bronze.Original.—H.133.-B.162.
+- 125 Ringende Amoretten. Zu ihren FuBen Bogen und Kocher, iber ihnen Kranz, Schrift band und 2 Windgotter.
+
+Bronze.Original.Mit feststehender Ose.-H.98.-B.64.
+
+Tafel 6
+
+- 126 Buchenblatt.Auf rechteckiger Platte. Bronze.Alter Gufβ.-H.41.-B.69.
+- 127 Applike. Ecce homo; Maria mit dem Kinde; Enthauptung Johannes des Taufers. Umrahmung: Scheibenornament.
+
+Bronze.Original.Patiniert.Ausgeschnitten.Hochoval.-H. 101.-B.77.
+
+## Italien.Um 1600.
+
+- 128 Galathea. Sie fahrt auf von Delphinen gezogenem Wagen durchs Meer,begleitet von Tritonen, Nymphen und Putten. Nach dem Wandgemalde Raffaels in der Villa Farnesina
+- in Rom. Unter Inschrifttafelchen: TENP/ES FE
+
+Bronze.Vergoldet.Original.H.217.-B.165.
+
+## Italien.1.Halfte 17.Jahrh.
+
+- 129 Christus am Kreuz. Zu Seiten die trauernde Maria mit Nimbus und Johannes. Am
+- Boden Totenkopf und Knochen. Im Hintergrund Jerusalem.
+
+Ein weiteres Exemplar. Sammlung Lobbekke Kat. Nr. 873.
+
+H.163.--B.120.
+
+Braun 204.--
+
+## Italienisch. 17. Jahrh.
+
+- 130 VerstoBung der Hagar. Rechts Hagar mit dem weinenden Ismael, in der Mitte Abraham, links vom Rucken gesehen Sarah. Profilierter Rand.
+
+Silber. Teilweise vergoldet. Original.
+
+Bange 1044. - Braun, Kunst und Kunsthandwerk, 1911 S.406. Tafel 11
+
+H.34.-B.55.
+
+- 131 Rosenkranzmadonna. Auf Wolken thront Maria mit dem Kinde, sie reichen dem hl. Franz Xaver und der hl. Johanna von Valois einen Rosenkranz. Bronze.Vergoldet.Original.-H.61.-—B.74. Tafel 10
+- 132 Hl. Familie mit Johannes dem Taufer. Unter einem Baum Maria, das auf ihrem Schofe sitzende Kind umarmt den knieenden Johannes. Bronze.Vergoldet.Original.-H.58.-B.71. Tafel 10
+- 133 KuBtafel. Maria und Magdalena betrauern den Leichnam Christi. Tabernakelartige Umrahmung. Bronze.Alter Guf.--H.162.-B.86.
+- 134 Ecce homo.Brustbild Christi en face.
+
+Bronze.Spater Guf.Hochoval.-H.84.--B.64.
+
+- 135 Maria Immaculata. Auf der Mondsichel stehend, mit gefalteten Handen. Bronze.Konturierter Guf. Original.Vergoldet. Bode 1316 (nicht bei Bange!) H.68.-B.39.
+- 136 Marcuslowe. Gefligelter Lowenkopf in den Tatzen Schwert und Buch.
+- Bronze.Alterer Guf.-Konturiert.--H.61 -—B.48.
+- 137 Madonna von Loreto. Umgeben von Heiligen und Bufern. Im Abschnitt dreizeilige Schrift.
+
+Bronze.Versilbert.Alter Guf --Dm,52.
+
+- 138 Hl. Bischof. Er kniet betend am Altar auf dem ein Buch liegt und sechs Leuchter stehen. Zu Fufen Mitra und Pedum.
+
+Kupfer. Original.Dm.203.
+
+Tafel5
+
+Tafel 6
+
+Tafel 38
+- 139 Die hl. Cacilie. Nach dem Gemalde Raffaels in der Pinakothek zu Bologna.
+- Bronze.Spaterer Guf.-H.238.-B.165.
+- 140 Einzug in die Arche Noah. Im Vordergrund Noah mit Frau, Sohnen und Schwieger-
+- tochtern, im Hintergrund die Arche in die alle Arten Tiere einziehen. Bronze.Alter Guf.-Dm.196. Sammlung Faure. Aukt. Kat.Frankfurt 1913 Nr.648 mit Abb. Tafel10
+- 141 Diana. In einem Wald schreitet die zur Jagd gerustete Diana nach rechts. Hinter ihr steht eine weibliche, verhullte Gestalt. Bronze.Alter GuB. Dm.200.
+- 142 Jupiter und Kallisto. Im Vordergrund unter Baum Jupiter in Gestalt der Diana, Kallisto umarmend. Im Hintergrund entdeckt Diana den Fehltritt der Nymphe. Tafel10 Bronze.Alter GuB. Dm.201.
+- 143 Hercules und Omphale. Beide sitzen unter einem Baum; in dessen Zweigen Putten.
+- Bronze.Alter Guf. Beschadigt.-H. 85.—B.107.Este 436.
+- 144 Jupiter und Jo. Auf Wolken Jupiter und Jo, links Jo in eine Kuh verwandelt.
+- Bronze.Alter Guf.-H.85.-B.102.
+- 145 Poseidon und Amphitrite. Poseidon umarmt die Frau. Links ein Putto mit Urne und
+- Dreizack.
+
+Bronze.Alter Guf.Breitoval.-H.53.-—B.65.
+
+Tafel 36
+
+- 146 Triumphator. Vor architektonischem Hintergrund Reiterstatue nach links. Ruckwarts
+- vertiefte Inschrift.
+- Bronze. Spaterer GuB.Hochoval.-H. 113.—B.92.
+
+## Italienisch.18. Jahrh.
+
+- 147-149 Drei Beschlagstucke. Die Hochzeit zu Kana; Christus vermehrt die Brote und
+- Fische; Magdalena wascht Christus die Fufe.
+
+Messing. Treibarbeit. Geschwungene Form.
+
+H.43.-B.46.
+
+Vgl. Bange 1052.
+
+## Italien. Gegen 1800. Meister 1. B.
+
+- 150 Schopfungsgeschichte. Im Vordergrund Erschaffung der Eva,weiter rickwarts scheidet Gott Licht und Finsternis, erschafft die Himmelslichter, die Tiere und belebt Adam. Silber. Treibarbeit. Mit 2 Marken davon eine Rosenberg (Ausgabe 1911) Nr. 4626 und Meistermarke. I. B. Tafel9 H.137.-B.193.
+
+## Empire.
+
+- 151-160 Zehn Zierbuckel. Mit verschiedenen Darstellungen:Lowenjagd, Reiterschlacht,
+- Minerva, Poseidon? hl. Georg. Fratzenkopf, Rankenwerk.
+
+## Unbekannte Meister der 15.—17.Jahrh.
+
+- 161 Kreuzabnahme. Zwei Manner lassen den Leichnam herab, seitlich die Kreuze mit den
+- Schachern, zu Fufen der Kreuze zwei Gruppen von Trauernden. Bronze. Spater GuB.Oben gerundet.——H. 129.—B.94.
+- 162 Pieta. Maria halt den aufgerichteten Leichnam im Schof, zu Seiten zwei trauernde Engel. Bronze. Spaterer Guf.-H.101.-B 72.
+- 163 David. Er steht nach links gewendet auf dem Haupte Goliaths.
+- Bronze. Grun patiniert.Konturierter GuB.-- H. 95.
+## Spanische Plaketten.
+
+## Nicolaus Viircoenius (sicl)
+
+- 164 Hl. Petrus Martyr.In einer Saulenhalle steht der Heilige, das Schwert im Haupt, einen Inschrift: CREDO.IN.VNVM·DEVM· Auf dem glatten Rand unten::NICOLAVS.VIiRCENIVS.ME.FECIT:
+
+Kupfer. Vergoldet. Alte Treibarbeit.H.156.—B.115.
+
+## Spanisch. Um 1600.
+
+- 165 Maria mit Kind und Johannesknaben. Die Madonna sitzt nach rechts unter einem Baldachin, das Kind auf dem Schof, vor ihr der kleine Johannes.
+- Bronze.Vergoldet.Original.——H.87.—B.67. Tafel 37
+
+## Spanische Plakettenwerkstatte. 1. Halfte 17. Jahrh.
+
+- 166 Reuiger Petrus. Halbfigur nach rechts mit gerungenen Handen. Links auf Saule krahender Hahn.
+
+Bronze.Vergoldet.Alter Guf.—H.103—B.72
+
+Braun, Uber eine Gruppe spanischer SpatrenaissancePlaketten im Archiv fur Medaillen- und Plakettenkunde III （1921/22)S.15 ff.Nr.5.
+
+Tafel 12
+
+- 167 Der hl.Hieronymus. Knieend, mit Kruzifix, nach rechts,neben ihm Totenkopf, Lowe und aufgeschlagenes Buch mit den Buchstaben S I (San Jeronimo. Profilierte Rahmung. Bronze.AIter GuB.Mit feststehender Ose.H.101.-B.71. Bange 1054. - Braun a. a. O. Nr. 6.
+- 168 Die hl. Familie in der Werkstatt. Im Vordergrund links steht der hl. Joseph dem der Christusknabe die Sage reicht. Weiter zurick Maria mit Garnspule. Bronze. Original. Mit feststehender Ose.—— Bange 1059.  Braun a.a. O. Nr.7 mit Abb. H.102—B.71,5 Tafel 12
+- 169 Die hl. Katharina von Alexandrien. Stehend, gekront, mit Schwert und Palme. Zu ihren Fufen zwei Teile des zerbrochenen Rades.
+
+Bronze.Alter Guf.—H.100 -B.7,1.
+
+Braun a.a. O. Nr. 8 mit Abb.
+
+- 170 Hl. Franziskus de Paula. Ganze Figur, stehend mit Kruzifix und Buch, auf dem ein
+- Kind sitzt. Profilierte Rahmung. Bronze.Original.Feststehende Ose.—H.102—B.71 Braun a.a.O. Nr. 10. Tafel 12
+- 171 Hl. Monch. Stehend, ganze Figur, mit Kreuz Christi, neben ihm rechts Knabe mit Kranz. Proflierte Rahmung.
+
+Bronze.Vergoldet.Alter GuB. Mit feststehender Ose.
+
+H.103-B.72
+
+Braun a.a. O. Nr. 11.
+
+- 172 St. Dominicus. Stehend yon vorne mit Kruzifix und Buch. Zu seinen FuBen Hund mit
+- Fackel und Erdkugel. Profilierte Rahmung. Bronze. Alter GuB. Mit feststehender Ose. H.104-B.73 Braun a.a. O. Nr. 13.
+- 173 Die hl. Magdalena. Kniestuck nach rechts mit Kruzifix. Neben ihr Totenkopf, Geiβel, SalbgefaB. Proflierte Rahmung. Bronze. Vergoldet. Original. Mit feststehender Ose. Bange 1060. -Braun a.a. O. Nr. 16 mit Abb.
+
+H.103.-B.72.
+
+Tafel 12
+
+Tafel 11
+- 174 Hl. Franziskus. Halbfigur nach links, mit gekreuzten Armen, vor ihm Kruzifix, Totenkopf, Buch und Geifel. Bronze. Alter GuB. Feststehende Ose. H.103,5—B.73,5. Braun a.a.O. Nr. 17.
+- 175 Ecce Homo. Christus, gefesselt mit Dornenkrone und Stab. Halbfigur von vorne. Profilierte Rahmung. Bronze.Vergoldet. Original. H.101 —B.72 Braun a.a.O. Nr.18. Tafel 12
+- 176 Johannes der Taufer. Halbfigur yon vorne. Oben Inschrift: NON SV/RE/XIT/MAIOR Proflierte Rahmung. Ruckwarts:/GLO/RIAM/TIX/VSI Bronze.Alter GuB.H.103 -B.72 Bange 1057.- Braun a.a.O. Nr.19.
+
+## Spanisch.Anf.17.Jahrh.
+
+- 177 Ecce homo. Christus in Halbfigur an der Geifelsiule, unten drei geflugelte Engelskopfe
+- auf Wolken. Profilierter Rahmen mit feststehendem Ring. Fur den Christustypus vgl.Kat.Nr.175.-Bronze.Original.Vergoldet.—H 170.-B.121.
+
+## Spanisch.17.Jahrh.
+
+- 178 Hl.Franziskus. Der Heilige, Halbfigur nach rechts, betet vor dem Kruzifix.
+- Bronze.Alterer Guf.—H.123-B.90
+- 179 Hl.Felix de Cantalizie. Ein kleiner Engel fuillt den Sack des Kapuziners mit Broten,
+- ein anderer gieBt Wein in sein Gefaf. Kupfer.Alte Treibarbeit.-H.129--B.84
+- 180 Maria mit dem Kinde. Auf Wolken thront vor einer Bergwand Maria mit dem Kinde, das mit einer Sage einen Fels teilt. Tafel 11 Bronze.Vergoldet.Original. Hochoval. Mit feststehender Ose.-H.118.-— B.83.
+- 181 Himmelfahrt Mariae.Auf einer Wolke schwebt Maria, auf der Mondsichel stehend empor, begleitet von vier Engelknaben. Tafel 11 Bronze.Vergoldet. Alterer Guf.-H.154—B.100
+- 182 Himmelfahrt Mariae. Auf einer Engelwolke schwebt Maria, mit gefalteten Handen, aufwarts, auf der Erde umgeben Apostel und Frauen den Sarkophag. Tafel 11 Bronze.Vergoldet.Original.Oben gerundet.-H.147 B.85
+- 183 Maria in der Engelwolke. Maria steht auf der Mondsichel, umgeben von vielen kleinen
+- Engeln.
+
+Bronze.Alter Guβ.-H.191-B.139
+
+- 184 Steinigung des hl. Stephanus. Im Vordergrund der knieende Heilige als Diakon, zwei stehende Manner halten in den erhobenen Handen Steine. Zuschauer.In Wolken Gott Vater und Sohn. Bronze. Vergoldet. Original.Mit feststehender Ose.—H.79.——B.56 Tafel 12
+- 185 Maria mit dem Kinde. Maria in Halbfgur nach links, halt mit beiden Handen das Kind.
+- Bronze. Alter Guf.Konturiert.Unten drei Befestigungslocher.-H.129 -B. 88
+- 186 Maria Immaculata. Die Madonna zertritt die Schlange, die die Weltkugel umwindet. Bronze.Vergoldet. Alterer Guf.Konturiert.-H.186
+- 187 Die buBende Magdalena. Halbfigur in einer Felshohle.
+- Kupfer.Alte Treibarbeit.Oben halbrund. Oben gelocht.-H. 167—B. 116
+- 188 Agnus Dei. Das Lamm mit Kreuzesfahne auf einem Buch liegend.
+- Bronze.Alter Guf.Hochoval.--H.130 B.102
+- 189 Lamm Gottes. Auf Buch, nach links liegend. Strahlenglorie.
+- Bronze.Alterer GufB.Queroval.--H.29 -B.44
+## DEUTSCHE PLAKETTEN
+Blei. Spater GuB. Dm.49 mm.
+
+## Mittelrheinisch.Um 1460.
+
+- 190 Abendmahl. Um den gedeckten sechseckigen Tisch sitzen Christus und die 12 Apostel,
+
+Bronze. Alter Guf.Dm.79,5.Oben Bohrloch.
+
+Braun 3.—Bange 5902 u.Anm.(iber dieses Exemplar).
+
+## Deutsch.2.Halfte 15.Jahrh.
+
+- 191 Christus am Olberg. Christus kniet nach links, rechts neben ihm die drei schlafenden Junger. Oben Kopf Gottvaters. Gerauter Grund.
+
+## Suddeutsch.Ende 15. Jahrh.
+
+- 192 KuBtafel. Hl. Veronika. Die Heilige in faltigem Untergewand, Kopftuch und Mantel steht
+- auf Grasboden. Mit den ausgebreiteten Armen halt sie das Tuch mit dem Antlitz Christi. Die Figur ist auf eine rechteckige Platte aufgelegt, die einen Rundbogen mit doppelter Saulenstellung zeigt. In den Zwickeln die Brustbilder zweier Engel. Oben glatter Fries mit der Inschrift: (SANTA MA)RIA GRATIA PLENA Ein ahnlicher Fries bildet den unteren Abschluf der Plakette.Inschrift:PAX TIBI SEMPER SIT
+
+Die Figur der Heiligen ist Schongauers Stich B. 66 entnommen. Bronze. Original. Figur H.76.—Tafel H.104—B.85. Braun 1.
+
+- 193 KuBtafel. Hl. Veronika. Sie halt das Tuch mit dem nimbierten Antlitz Christi. Hinter ihrem nach rechts geneigten Haupt mit Kopftuch und Nimbus gotisches MaBwerk.
+
+H.135.-B.98.
+
+Tafel 13
+
+Bronze. Original. Die Plakette oben rundbogig geschlossen, mit dreifach profilierter Umrahmung.
+
+Braun 2.
+
+Tafel 13
+
+## Augsburg. Um 1520. Meister aus dem Kreise des Hans Schwarz.
+
+- 194 Thronende Madonna.Von sechs Engelknaben umgeben. Maria mit nach links gewendetem Kopf halt mit beiden Handen den nackten Knaben. Zwei Putten halten das Kieid der Ma-
+
+Bronze. Spuren von Vergoldung. Alter Guf. Oben ein Bohrloch. H.136.-B.102. Braun 4.-Bange 1053 und Anmerkung.
+
+- donna,in dritter fatrHaar,invierterblast dieFlote,in drittesPaarbefestigteine Girlande.
+
+## Peter Flotner, geb. in der Schweiz (Thurgau), gest. Nurnberg 1546.
+
+- 195 Der Sundenfall.In der Mitte Baum der Erkenntnis, um den sich die Schlange windet,
+- yon der die rechtsstehende Eva den Apfel empfangt. Links vom Baum bartiger Adam. Im Vordergrund zwei Baume, Hund und Steinbock.
+
+Blei. Alter Guf.
+
+H.48.-B.64.
+
+Braun 5.-Vgl.Anmerkung Bange 5675.Tafel 13
+
+- 196 Christus und die Samariterin. In einer baumreichen Landschaft Christus mit der Samariterin. Im Mittelgrund figurliche Gruppe.
+
+Blei. Spaterer Guf. Rechts oben ein kleines Stuick im GuB ausgeblieben. Angelotete Ose.
+
+H.47.-B.103,5.
+
+Braun 6.-Lange 9.-E Bange 2341(Seite eines Kastchens).
+
+- 197 Der Geruch.(Aus der Folge der funf Sinne). Unter Baum sitzt eine Frau, die, sich nach rechts beugend, ein Kind reinigt. Links steht Knabe, der sich die Nase zuhalt. Im Mittelgrund sieht man Fischer am Strande und in Booten, weiter zurick Stadte
+- und Burgen.
+
+Blei.Original.-H.52,5-B.76,5.
+
+Braun 7.-Bange 5684.
+
+Tafel 14
+
+- am Fuf des Tisches eine Fliege (Biene?). Gesternter Hintergrund. Schmalprofilierter Rahmen. Abdruck eines besonders charakteristischen mittelrheinischen (nicht mehr erhaltenen) Models.
+
+Tafel 13
+- 198 Die kleinere ,Versuchung des Glaubens". Auf einer Felsenbank sitzende Frauengestalt in einer Landschaft,neben ihr Lamm (Patientia ?). Sie erwehrt sich der vier Versucher, die auf sie eindringen. Rechts ein Fluf mit sinkendem Schif, dahinter eine brennende Stadt. Braun 8.——Lange 116.—Bange 5690. Tafel13 Blei.Alter Guf.Bohrloch.--H.59.-B.84.
+- 199 Wygewon. (Aus der Folge der zwolf altesten deutschen Konige). Der Konig steht rechts gewendet. Rustung mit Mantel, in der Linken Hellebarde, am Boden Helm.
+- Landschaft. Blei.AIter Guf.H.59.-B.43. Braun 9.——Bange 5644.——Lange 47.
+- 200 Konig.Stehend,mit Speer und Schwert.Kartuschenumrahmung mit Beschlagwerk und Kopfen.
+- Bronze.Alterer Guf.-H.120.—B.80. Bange 5653 als Plakette ohne Umrahmung.
+- 201 Ein Bettler.(Aus ,Die sieben Folgen der Trunkenheit"). Ein weinlaubbekranzter Mann schreitet nach links. Rechts eine traubengefullte Kufe, ein Faf und eine Leiter. Weiter zurick Architektur. Unten Rollwerkkartusche. Blei. Spaterer Guf.Dm.63. Braun 10.——Bange 5682 (rechteckig).——Lange 107. Tafel13
+- 202 Der Geiz. (Aus  Die sieben Todsinden"). Stehende Frau mit Fledermausflugeln von vorn, den Kopf mit verbundenen Augen nach links. Zu Fufen Geldsack und Krote. Rechts im Hintergrund Befestigungswerke. Blei. Alterer Gufβ.—H.70.-B.46. Braun 11.—Bange 5671. ——Lange 96. Tafel15
+- 203 Die Unkeuschheit.(Aus derselben Folge). Frau, leicht von einem Mantel umhillt, in Schrittstellung, blickt auf gefugeltes Herz in ihrer Rechten, die Linke halt brennenden Pfeil. Zu Fufen ein Stier. Landschaftlicher Hintergrund. Blei.Alterer GuB.——H.69.——B.46,5. Braun 12.Bange 5672.——Lange 97. Tafel 15
+- 204 Der Neid. (Aus derselben Folge). Stehendes altes, geflugeltes Weib, den Kopf rechts gewendet,beifBt in ein Herz, das sie in der Linken halt. Rechts Hund. Landschaft mit Architektur als Hintergrund. Bronze.Alterer Guf.-H.74.—B.51. Braun 13.——Bange 5675.—Lange 100. Tafel15
+- 205 Der Neid. Wie vorher. Blei. Alterer Guf.-H.70.——B.45.
+- 206 Die Tragheit.(Aus derselben Folge). Stehende Frau, von vorne gesehen, mit grofen, schlaff herabhangenden Flugeln. Hinter ihr ein Esel. Landschaftlicher Hintergrund. Blei.Alterer Guf.-H.69.B.46. Braun 14.—Bange 5676. Lange 101. Tafel14
+- 207 Klio. (Aus der Folge der neun Musen.) Zwischen Gebauden stehend, weist Klio geneigten Hauptes auf am Boden liegende Bucher. Architektonischer Hintergrund. Blei.AIter GuB.——H.71,5-B.50. Braun 15.——Bange 5626.--Lange 21. Tafel15
+- 208 Urania.(Aus derselben Folge). Sie steht, den Oberkorper entbioBt, einen Mantel uber ihrer linken Schulter, den Kopf im Profil nach links und betrachtet einen Zirkel in ihrer erhobenen Rechten; linker Fuf auf Globus. Im Hintergrund Mauerwerk. Blei.Alter Guβ.-H.73.—B.48,5. Braun 16.—Bange 5632.—Lange 27. Tafel14
+- 209 Caritas.(Aus Die sieben stehenden Kardinaltugenden"). In Landschaft stehende Frau in langem faltigem Gewand, sie halt mit beiden Handen ein Kind, ein zweites,vom
+- Rucken gesehen, reicht ihr eine Frucht empor. Blei.Alterer GuB. Rechts ein Stick ausgebrochen. H.73.-.B.48. Braun 17.-Bange 5663.-Lange 81.
+- 210 Ate und die Litai. Durch ein Gebirgstal schreiten von rechts drei Frauen, die Litai" (Abbitten). Oben in Wolken verjagt Zeus die Ate (Verblendung). Eine brennende Burg und eine Mordszene weisen auf das von Ate gestiftete Unheil. Im unteren Kreisabschnitt Kar-
+- tusche mit Rollwerk. Die Darstellung geht auf eine lllustration der Pariser Ausgabe des Alciatus 1534 zurick. Braun 18.——Bange 5637.—Lange 38.
+- Blei.Alter GuB.Oben Bohrloch.-Dm.154. Tafel 14
+- 211 Temperantia. (Aus der Reihe der sieben [sitzenden] Kardinaltugenden in rechtekkiger Umrah m ung.) Frau auf einer Felsenbank, in einer Schale Wasser u. Wein mischend. Landschaftlicher Hintergrund.
+
+Blei.AIterer Guf.H.80.-B. 65.
+
+Braun 19.—Bange 7708.—Lange 64. Tafel 16
+
+- 212 Prudentia.(Aus, Die acht grofen Kardinaltugenden"). Die Doppelgesichtige sitzt auf einem Thron,in einen Spiegel blickend, in den auch Amor hineinzulugen sucht. Ausblick auf
+- eine Stadt.
+
+Bronze.Vergoldet. Original.-Dm.77.
+
+Braun 20.- Bange 1705.-Lange 73. Tafel 15
+
+- 213 Astronom in Landschaft. Unter grofem Baum liegt der Astronom mit Zirkel und Glo-
+- bus. Links eine Muhle.
+
+Blei.Alterer Guf.-H.40.-B.68.
+
+Braun 21.-Lange 117.
+
+## Peter Flotner zugeschrieben.
+
+- 214 Applike. (Putto als Pilasterfigur). Auf Sockel steht der Putto, von vorne gesehen,
+- als Kapitell Fruchtekorb.
+
+Konturierter Gelbguf vergoldet. Original.Mit 2 Lochern.
+
+H.60.-B.19.
+
+Braun 22.
+
+Tafel 17
+
+- 215 Applike. Konig. Gekronter Kopf mit langem Bart,rechtshin. In Rollwerkumrahmung, Einfassung Lorbeerkranz mit Rollwerk.
+
+Bronze.Vergoldet.Alter Gufs.—Dm.55.
+
+Braun 23.
+
+## Nach Peter Flotner.
+
+- 216 Marzipanmodel. Sitzende Justitia. Justitia aus der Folge der acht groBen Kardinaltugenden.Vertieft. Rand mit Lorbeerstab. Zinn.Alt.-Dm.97. Vgl.Lange Nr.75 u. Bange 5657.Einleitung. Braun.
+
+## Werkstatt der Vischer.16.Jahrh.
+
+- 217 Grablegung. In von Pilastern flankierter Muschelnische der Leichnam Christi im Schof Marias liegend, dahinter drei Manner und eine Frau. Umrahmung: Seitlich ornamentierte Saulen, Sockel und Architrav mit Mannerkopfen. Mittelteil des Sockels: Zwei Fabeltiere mit Wappenschild darin Kreuz; Mittelteil des Architravs: zwei Vogel mit Maskaron. Im Gie bel Halbfigur Gortvaters. Bekronung: drei geflugelte Engelskopfe.
+
+Bronze. Original.-—H.166.—B.108.
+
+Tafel18
+
+- 218 Simson und ein Philister. Simson auf Schild stehend, tragt den Philister auf der rech-
+- ten Schulter linkshin. Dahinter Keule und Eselskinnbacken.
+
+Buchsmodell im Bayr.Nationalmuseum.
+
+Bronze.Vergoldet. Original.——H.45.—B.38.
+
+Tafel19
+
+## Monogrammist H L (Hans Leitmaier? Nurnberg um 1540).
+
+- 219-232Vierzehn runde Plaketten mit profiliertem Rand nach Duirers Marienleben und kleiner Passion. Die Serie ist ruckseitig vertieft nummeriert, in nachfolgender Ordnung:1.Verkindigung Mariae. 2. Geburt Christi. 3. Darstellung im Tempel. 4. Anbetung der Konige. 5. Flucht nach Agypten. 6. Der Knabe Christus im Tempel. 7. Christus erscheint seiner Mutter. 8. Kreuztragung. 9. Christus am Kreuz. 10. Grablegung. 11. Beweinung Christi. 12. Himmelfahrt Christi. 13. Sendung des hl. Geistes.
+- 14.Mariae Himmelfahrt.
+
+Zwei bei Bange (S. 95, 5736 und 5737) beschriebene Bleiexemplare aus der vorliegenden Serie sind mit dem Monogramm HL bezeichnet.
+
+Silber.47.
+
+221,223,225 Tafel19
+
+Tafel 15
+
+Braun 26-39.—Bange 5736-5738.
+## Leonhard Danner.Nurnberg, geb.1497, gest. 1587.
+
+- 233 Abschied des verlorenen Sohnes. In reicher Landschaft verabschiedet sich der Sohn
+- vom Vater und Bruder. Oben schmale Schriftleiste mit PATER DA MIHI usw.
+
+Bronze.Alter Guf.—H.57-Br.95. Braun 40. Tafel 19
+
+## Art des Leonhard Danner.
+
+- 234 Triumph der Temperantia. Auf einem von zwei Pferden gezogenen Wagen sitzt Temperantia, die aus einem Krug Wasser in einen Pokal gieft. Im Hintergrund Land
+- schaft mit Gebauden.
+
+Vgl. die zur Serie gehorige Plakette mit ,Justitia" im Kat. Lobbecke 937; Taf. XLVII. Bronze.Vergoldet.Original.—H.51.Br.110. Braun 43.
+
+## Suddeutsch.1.Halfte 16.Jahrh.
+
+- 235 Nessus und Dejaneira. Auf dem Rucken des nach rechts eilenden Centauren sitzt die
+- nackte Frau.
+
+Bronze. Alter GuB. Oben im Halbrund geschlossen.- H.99.-B.69.
+
+## Deutsch.2.Viertel 16.Jahrh.
+
+- 236 Pulverflasche. Vs: Mucius Scavola. Er steht von zwei Romern gehalten rechts, die Hand in den Flammen,links vor seinem Zelt Porsenna. Zeltlager und Kanonen, am Rande Blatterkranz. Rs: Graviert: Radial angeordnete stilisierte Zweige. In der Mitte Inschrift: MADRID MDLV
+
+Als Plakette Bange 1492.
+
+Bronze. Vergoldet. Original. Seitlich zwei Osen. Gesamthohe 122.-D.92.
+
+## Suddeutsch, Mitte des 16. Jahrh.
+
+- 237 Totung des Cacus. Hercules erschlagt mit seiner Keule den vor seiner Felsenhohle liegenden Cacus.
+
+Nach dem Stich v.H.S.Beham v.1545 (B.104).
+
+Bronze. Alter Guf.——H.81.——Br. 100.
+
+Braun 41.
+
+Tafel 17
+
+- 238 Totung des Centauren. Hercules erschlagt mit seiner Keule den zwischen seinen Beinen
+- liegenden Centauren (Pholos)?
+
+Bronze.Vergoldet.Original.-H.100 —Br.63. Braun 42.
+
+## Suddeutsch (Passionsfolge). Nurnberg. Um 1550.
+
+- 239 Christi Gefangennahme. Judas kiBt Christus; zu beiden Seiten gepanzerte Kriegsknechte. Vorne Petrus und Malchus.
+
+Bronze. Original. Oben abgerundet.
+
+H.70.-B.47.
+
+Braun 44.-Bange 5811.
+
+Tafel 20
+
+- 240 Christus vor Pilatus. Christus wird von zwei Kriegsknechten vor den erhoht sitzenden Pilatus gefuhrt. Links ein Jude.
+
+H.70.-B.47.
+
+Blei. Original. Oben abgerundet. Kl. Bohrloch.
+
+Braun 45.-Bange 5812.
+
+Tafel 20
+
+- 241 Handwaschung des Pilatus. Pilatus sitzt nach rechts, vor ihm der Diener. Torbogen mit Blick auf eine Stadt.
+
+Braun 46.-—Bange 5813.
+
+Tafel 20
+
+Blei. Original. Kl.Bohrloch. Oben abgerundet. H.70.-B.48.
+
+Tafel 17
+
+Tafel17
+
+Tafel 18
+
+Tafel 19
+- 242 Beweinung Christi. Johannes halt den halbaufgerichteten Leichnam, daneben kniet Maria zu Seiten Joseph von Arimathia und Nikodemus. Hinter der Gruppe ein Kreuz und Ausblick in die Landschaft.
+
+Blei. Original.Oben abgerundet. Bohrloch. H.70.-B.47.
+
+Braun 47.—Bange.5819.
+
+Tafel 20
+
+- 243 Grablegung. Joseph von Arimathia und Nikodemus legen den Leichnam in den Sarg, dahinter Maria und Johannes.
+
+Blei. Original. Oben abgerundet. Kl. Bohrloch. H.70.-B.47.
+
+Braun 48.-Bange 5820.
+
+Tafel 20
+
+244 Auferstehung. Christus steht mit Siegesfahne auf Sarkophag. Im Vordergrund vier Wachter.
+
+H.69.-B.49.
+
+Tafel 20
+
+Die gleiche Plakette im Bayr. Nat. Museum. Blei. Original. Oben abgerundet.
+
+## Nurnberg.Um 1550.
+
+- 245 Orpheus unter den Tieren. Orpheus sitzt nach rechts gewendet auf einem Baumstrunk und geigt, umgeben von vielen Tieren, darunter einem die Bewegung nachahmenden Affen. Am unteren Rand ein Blattfries.
+
+Blei. Alterer GuB.
+
+Braun 49.-Nach Habich:Arbeiten dieses Meisters in Munchen und Stuttgart.
+
+H.40.-B.82.
+
+- 246 Zundkrautflasche in Trapezform. Auf der Vs: Parisurteil: Unter einem Baum liegt Paris, zu ihm tritt Hermes, auf die drei nackten Gottinen weisend. An den Schmalseiten Laubwerk. Rs. graviert: Blattwerk.
+
+Friher Sammlung Thewalt (Auktionskatalog Nr. 1729). Bronze. Vergoldet. Original.
+
+H.ohne Ausschuttrohre 45.—B.37.
+
+Braun 55.
+
+Tafel 17
+
+- 247 Ovale Uhrkapsel: Landschaft mit Liebespaar. In einer Berglandschaft mit Gebauden und Baumen sitzt ein sich umarmendes Paar an einer Tafel, an der noch eine dritre Person sitzt. Die Darstellung umgeben von geriefelter Umrahmung und Blatterkranz. Oben Knopf und Ring.
+
+Bronze. Vergoldet. Original.
+
+H. 60 (ohne Ring und Knopf).—B.52.
+
+Braun 56.
+
+Tafel 17
+
+- 248-249 Evangelist Johannes. Gefligelt. Nach links an Pult sitzend, daneben der Adler. Gedrehter Kordelrand.
+
+Bronze. Alter Guf. Vergoldet.
+
+Evangelist Markus. Gefugelt. Nach links, an mit Decke behangenem Tisch sitzend. Rand w.o.
+
+Dm.41.
+
+Braun 211u.212.
+
+Bange 5801 u.1834.
+
+Tafel 19
+
+250-253 Die vier Evangelisten mit ihren Symbolen. Wie Nr.248/249. Mit glattem Rand.
+
+Bronze. Versilbert. Spatere GiBe.
+
+Dm.41-42.
+
+Bange1833,1834,5800,5801.
+
+- 254 Putto. Er steht, bekleidet mit einer bis zum Nabel reichenden Jacke, auf einem Lamm und blast zwei Flugelhorner.
+
+Goldschmiedemodell fur Dolchscheide. Blei. Rechteckig, nach unten schmaler werdend. Spaterer Guf. H.80.—B.40. Braun 68.
+
+- 255 Justitia.Die Frau,in reicher Zeittracht, steht auf dem Lowen,in den Handen halt sie Schwert und Wage.
+
+Modell fur eine Dolchscheide?
+
+H.112.-B.48
+
+Blei. Alter GuB. Rechteckig, nach unten schmaler werdend.
+
+Braun 69.
+
+Tafel 15
+
+Braun 211 u.212.
+- 256 Jakobs Traum. In einer Landschaft mit See und Bergen mit Kastellen ruht Jakob, im Hintergrund die Himmelsleiter, die Gottvater halt.
+
+Silber.Vergoldet. Originalguf.H.40.—B.80.
+
+Braun 67.
+
+Friher Sammlung Lobecke,raunschweig.Katalog Minchen 1908Nr 896 T.13, dort 2Sticke aus der gleichen Folge. Tafel 19
+
+- 257 Zwei kampfende Reiter. Auf zwei nach links gewendeten Pferden zwei sich bedrangende Krieger.
+
+Nach dem Stich eines der Kleinmeister.
+
+Bronze.Alter Guf.H.76.-B.j61.
+
+Bange 8319.
+
+- 258 Stier und Ziege. Stier nach rechts, eine Ziege anspringend. Uber der Darstellung die Buchstaben -PG-B- Proflierter Rahmen.
+
+B
+
+Bronze. Vergoldet. Original.
+
+Dm.37.
+
+Braun 59.
+
+- 259 Agraffe. Kaiser Karl V. Brustbild mit Barett, von links vorne. Proflierter Rand. (Das Portrat sonst mit Vlief am Band!) Bronze. Alterer Guf. Dm.38. Braun 60.
+- 260 Das Parisurteil. Unter Baumen Paris in Rittertracht nach rechts, der Aphrodite den Apfel reichend, hinter ihr die zwei anderen Gottinnen.
+
+Bronze.Vergoldet.Original. Drei Bohrlocher.
+
+Dm.43.Mit profiliertem Rand.
+
+Braun 61.
+
+Tafel 20
+
+- 261 Die Beratung. Im Vordergrund sitzen drei Manner in antiker Rustung, iber ihnen thront erhoht ein vierter.
+
+Bronze.Vergoldet. Original. Zwei Bohrlocher
+
+Braun 62.
+
+Dm.39.Mit ornamentiertem Wulst.
+
+Bange 1879.
+
+Tafel 20
+
+- 262 Die ermordete Frau. Links sitzt ein Konig, eine tote Frau im Schof, von rechts nahen zwei Manner. Rand mit Kartuschen. Bronze.Vergoldet.Original.-Dm.35. Bange 2687. Tafel 16
+
+263 Gnadenstuhl. Im Schof von Gottvater der Leichnam Christi von zwei Engeln gestutzt, dariber die Taube. Ornamentierter Rand. Bronze.Original.Vergoldet.Drei Bohrlocher.H.33.-B.29. Tafel 16
+
+- 264 Puttenfries. Von einer Blumenvase gehen in symmetrischer Anordnung Ranken aus, auf Delphinen sitzen zwei Putten mit Schwert und Schild. Nach Aldegrever. Bronze. Vergoldet. Gravierung. H.33. B.100.
+
+## Jugendarbeiten des Meisters H. G.?
+
+- 265 Bacchus auf dem Eber. (Aus einer Folge von Bacchusszenen). Bacchus wird von Bange vermutet in der Plakette eine Jugendarbeit des Meisters H. G. Vgl. Anmerkung zur Nr. 5693. Gehort zur gleichen Folge wie Nr.266.
+
+Blei.Alter Guf.Drei Bohrlocher.H.71.-B.63. Braun 24.-Bange 5693.
+
+- 266 Bacchus auf dem FaB. (Aus einer Folge von Bacchusszenen). Bacchus sitzt rittlings auf einem FaB umgeben von drei Affen und drei nackten zechenden Mannern. Im Grund eine Ruine.
+
+Blei.Alter Guf.-H.70—B.60.
+
+Braun 25.- Bange 6694.
+- beiden Seiten Wassergott mit Urne. Im Hintergrund Pegasus und zwei Putten.
+
+H.C0-B.18,5.
+
+Blei. Alterer Guf. Queroval.
+
+- 268 Das Urteil des Paris. Der sitzende Paris reicht der Aphrodite den Apfel, die mit Amor rechts steht. Links wendet sich die sitzende Hera zu Athena, die von ruckwarts gesehen
+
+Blei.Alterer Guf mit Lochern.-Dm.130.
+
+Braun 127.——Lobbecke 871.
+
+- ist. Baumreiche Landschaft mit Stadtarchitektur.
+
+Braun 125
+
+- 269 Venus und Adonis. Im Vordergrund rechts liegt der sterbende Adonis, bei ihm steht Venus, die Anemone ergreifend und 2 Jagdhunde; links entflieht der Eber. Landschaft mit
+
+Tafel 21
+
+- Architektur. In Wolken Amor und der Wagen der Gottin. Glatter Rand. Blei. Original. Bohrloch. D.108. Braun 133.
+
+## Meister H. G. Suddeutsch um 1570.
+
+- mung: Flechtband.
+- 270 Scylla und Minos. Konig Minos sprengt auf seinem Rosse nach links, begleitet von geScylla noch einmal mit Begleiterin, links drei Frauen. Oben Wasserflache von Booten befahren. Im Vordergrund Baumstumpf mit Jahrzahl 1569 und Monogramm H. G. Umrah-
+
+Blei. Original. Bohrloch.—D.182.
+
+Braun 114.
+
+- 271 Der Angler. In einer Landschaft mit Baumgruppen und Architektur sitzt links vorne der Angler. Fluf mit Kahnen und vielen Tieren. Oben Strahlenantlitz der Sonne und Wolken. Rechts im Vordergrund Baumstumpf mit Jahrzahl 1570 und Monogramm H. G. Umrah-
+- mung:Flechtband.
+
+Siehe Braun im Archiv II/3. Abb. 10. Blei.Original. Bohrloch.—D.171.
+
+Braun 115.
+
+- 272 Saturn, die Wahrheit der Sonne entgegenfuhrend.Im Vordergrund einer Landschaft nackte Frau, die Saturn emporziehen will, wahrend ein Damon auf Wolken versucht sie zurickzuhalten. Rechts Taube mit Ranke. Oben Umschrift: VERITAS·FILIA·TEMPORIS Auf dem breiten Rand Signatur H·G1570 und 8ABSTRVSAM8TENEBRIS8
+- TEMPVS8ME8EDVCIT8IN8AVRAS8
+
+Bronze.Original.——D.84.
+
+Nach Etienne Delaune.
+
+Tafel 22
+
+Tafel 23
+
+Braun 116.- Bange 7954 und Anmerkung.
+
+Tafel 24
+
+- 273 Salbung Davids. (Samuel I, 16). Im Vordergrund salbt Saul den knieenden David, zu beiden Seiten Zuschauer. Rechts im Mittelgrund der Brandaltar, daneben David mit dem Botschafter Sauls. Umrahmung: Flechtband.
+
+Blei. Original. (Etwas gereinigt）. Bohrloch. Sammlung Faure.Aukt. Kat. Frankfurt 1913, Nr. 656 mit Abb. Dm.172. Braun 117.
+
+- 274 Das Urteil des Salomo. Vor dem Palast sitzt der junge Konig, umgeben von 2 Mannern, den beiden Muttern, vor ihm der Henker mit dem lebenden Kind.
+
+Nach Etienne Delaune.
+
+Neuer Bronzeguf.- Dm.166.
+
+Braun 118.
+
+- 275 Elieser am Brunnen. Rebekka reicht dem Elieser den Krug. Am Brunnen zwei Magde, links ein Knecht mit zwei Dromedaren. Im Hintergrund Wasserflache und Stadtarchitektur. Bronze.Original.——Dm.93. Braun 119. Tafel 24
+- 276 Abrahams Opfer. In baumreicher Landschaft kniet Isaak auf dem Scheiterhaufen, hinter ihm Abraham mit gezucktem Schwert, der Engel fallt ihm in den Arm. Links steht ein Knecht mit einem Pferd. Ausblick auf Stadtarchitektur. Bronze.Original.—Dm.95. Braun 123.
+
+Tafel 24
+- 277 Marcus Curtius. Der Held sprengt nach links in den fammenden Abgrund, Frauen und Manner schauen der Tat zu. Umrahmung: Flechtband mit Beschlagwerk.
+
+Bronze. Spaterer Guf nach gelochtem Exemplar.
+
+Dm.147.
+
+Braun 120.
+
+- 278 Abraham und die Engel. Im Vordergrund begruBt Abraham, knieend, die von rechts heraneilenden Engel. Links das Haus Abrahams in dessen rundbogigen Turoffnungen zwei Szenen sichtbar sind: Abraham fuhrt den Engeln seine Frau vor; zwei Diener schlachten
+
+ein Lamm.
+
+Vgl. Kat. Schulman (Amsterdam) Nr. 1308, Taf. XIl.
+
+Blei.Original.Dm.150.
+
+Braun 121.
+
+## Schule des Meisters H. G.
+
+- 279 Die Segnungen des Friedens.Die Gottin stehend,mit Palme, ber ihr geflugelter Puto,
+- Fischer, Maurer und Steinmetz bei ihrer Beschaftigung.
+
+Blei. Neuerer Guf nach dem runden Original in Cassel. H.128.-B.149. Braun 124.
+
+- 280 Urteil Salomos. Der Konig, umgeben yon seinem Gefolge thront unter einem Baldachin. Vor ihm das tote Kind und die beiden Mutter. Links steht ein Krieger mit Schwert, das
+- lebende Kind haltend.
+
+Blei. Alterer GuB.-Dm.78.
+
+Braun 122.
+
+- 281 Salomo und die Konigin von Saba. Links thront der Konig umgeben von seinem Gefolge, vor ihm kniet in Zeittracht die Konigin mit ihren Frauen, Geschenke darbringend. Im Hintergrund Kronung und Urteil Salomos. Der untere Kreisausschnitt ist
+- freigelassen. Umrahmung: Blattstab mit Beschlagwerk.
+
+Blei. Alter Guf.-Dm.117.
+
+Braun 126.
+
+Tafel 35
+
+- 282 Das Urteil des Paris. Der nach rechts sitzende Hirte reicht Aphrodite den Apfel.
+- Bronze. Alterer Guf. Gewolbt.Dm.157.
+
+## Art des Jonas Silber. Nurnberg, letztes Viertel des 16. Jahrh.
+
+- 283 Abrahams Opfer. Rechts kniet Isaak auf dem Scheiterhaufen, links Abraham auf den
+- Engel blickend, der ihm in den Arm fallt. Widder und rauchende Opfervase.
+
+Die Darstellung durch einen Punzenstich Silbers von 1582 beeinfluBt.
+
+Bronze.Vergoldet.Original.——H. 98.——B.59.
+
+Braun 134.
+
+Tafel 16
+
+- 284 Hirtenszene. Im Vordergrund einer Landschaft mit viel Architektur, einem FluB mit Ruickseite das Monogramm H C B graviert.
+- 285 Diana. Im Vordergrund einer Landschaft mit Wassermihle, Stadtarchitektur und Bergkastell steht an einem Fluf die Gottin in Helm und Panzer, den Jagdfalken und einen SpieB tragend, begleitet vom Jagdhund.
+
+Kupfer.Vergoldet. Alter Guf. Dm.65.
+
+Vgl. Nagler Monogrammisten Ill, Nr. 777. Braun 135.
+
+Vgl. die Plakette mit Kreuzigung Bange 1474 und Anmerkung.
+
+Gegenstick im Bayr. Nat.-Museum Munchen.
+
+Blei.Original.-Dm.135.
+
+Braun 136
+
+Tafel 21
+
+- 286 Mars und Venus. Der gewappnete Mars und die nackte enus sitzen, umgeben von drei
+- Putten, einer Flotenspielerin und einer schreibenden Frau. Landschaft mit Architektur. In den Wolken Amor. Einfacher Randwulst.
+
+Blei.Alter GuB.-Dm.165.
+
+Braun 137.
+
+Tafel 22
+287 Mercur und Argus. Im Vordergrund sitzt der schlafende Argus, ihm gegenuber Mercur die Schalmei blasend. In der baumreichen Landschaft weidet die Herde. Weiter zurick auf Anhohen gelegene Stadte und Kastelle. In Wolken Zeus, der Mercur herabsendet. Umrahmung: Flechtband. Blei.Original.-Dm.147. Braun 141.
+
+- 288 Pan und Syrinx. Pan verfolgt nach rechts die entfliehende Syrinx. Im Mittel-und HinterHetzjagd auf Hirsch. Landschaft mit Baumen und Architektur. Vom gleichen Meister wie Nr.287.
+
+Braun 142.
+
+Blei.Vergoldet.Original.-Dm.166.
+
+## Paul Flindt d. J., tatig in Nurnberg, gest. nach 1618.
+
+Tafel 24
+
+Tafel 23
+
+- 289 Lowe in Landschaft. Rechts vorne der Lowe in hugeligem Gelande mit vereinzelten Baumen oben und Kastell. Flacher Rand.
+
+Blei.Alter Guf.Hochoval.-H.93—B.82
+
+Siehe Braun Archiv I. (1913 s.21 f.) Ein 2. Exemplar, Museum Troppau.
+
+Braun 132.
+
+Tafel 25
+
+Meister der Kardinaltugenden und Hauptlaster. Suddeutsch, Augsburg. Um 1580.
+
+- 291-296 Sechs allegorische Figuren. (Justitia - Fides - Temperantia — Spes —Furor-Ira)
+- 290 Bellona. Die Kriegsgottin sitzt auf Trophaenthron, beiderseits gefesselter Krieger. AbguB nach dem Relief auf einem Tirchen des sog. Kabinetts Rudolfs Il., Wien, Hofmuseum. Bronze.Neuerer Guf.—H.88.—B.78. Braun 152.
+
+Liegende Frauen. Meist vor Vorhang mit Landschaftsausblick. Unten lateinische Inschriften. Abgisse nach den Reliefs des sog.Kabinetts Rudolfs II.,Wien, Hofmuseum. Vgl.Plakette mit Caritas aus derselben Folge.Bange 1513 und Anmerkung ebenda.
+
+H.76.-B.118.
+
+Braun 153-158.
+
+Erwerb: Auktion Frank, Wien.
+
+## Meister der Jagdszenen.Nurnberg. Um 1570/80.
+
+- 297 Hirschjagd. Hirsch, Reh (?) und Hase laufen in ein Fangnetz, rechts davon sitzt ein Jager mit Hund, weiter rickwarts geht ein zweiter. Waldlandschaft mit charakteristischen Baumen. Kartuschenumrahmung nach unten verjungt.
+
+Blei.Alter Gufβ.-H.60.-B.95.
+
+Braun 138.
+
+- 298 Hasenjagd. Dame, auf reich geschirrtem Pferd, nach rechts reitend zwei Jager,einer den erlegten Hasen haltend. Landschaft mit Baumen und Architektur. Umrahmung ahnlich w. o. Blei.Alterer GuB.-H.58.—B.95. Braun 139. Tafel 26
+
+Tafel 26
+
+- 299 Hetzjagd. Jager zu Pferd mit erhobener Pistole nach rechts sprengend, begleitet von Jager Zu Fuf und vier Hunden. Stadtarchitektur und charakteristische Baume. Umrahmung ahnlich w.0.
+
+Braun 140. Bange 5925.
+
+Blei. Alterer GuB.-H. 60.——B.95.
+
+## Nurnberg. 2 Halfte 16. Jahrh,
+
+Tafel 26
+
+- 300 David. Er steht, von vorne gesehen, mit seiner Rechten halt er Schleuder und Schwert, in der Linken das Haupt des Goliath. Bronze.Alterer Guf. Oben gelocht.—Dm.86. Braun 84.
+- 301 Diana und Aktaeon. Im Wald schreitet Aktaeon mit zwei Hunden von rechts einem Brunnen zu, in dem Diana mit zwei Nymphen badet. Rechts oben Aktaeon mit Hirschkopf, zuruckblickend.
+
+Bronze.Vergoldet. Original.——H.173.-B.124. Braun 57.
+
+Die Komposition angeregt durch einen Holzschnitt des Virgil Solis in der Metamorphosenausgabe des Posthius 1563. Tafel 27
+
+Vgl.Bange 5925 und 5867. Tintenfaf.
+
+Glockenmetall. Neuere GuBe.
+- 302 Enthauptung Johannes des Taufers. Der Henker reicht Salome das Haupt; am Boden der Korper des Heiligen. Palastarchitektur, im Hintergrund tragen vier Manner die Leiche fort, auf der Treppe rechts eine Frau.
+
+Kupfer.Alte Treibarbeit.Dm.103. Oben Wuixenzeichen. Braun 131.
+
+## Suddeutsch. 2. Halfte 16. Jahrh.
+
+- 303 Bellerophon totet die Chimara.Der gewappnete Held, auf dem Pegasus sitzend, sprengt nach links, mit der Lanze die Chimara durchbohrend. Umrahmung mit Maskarons und Puttenkopfen.
+
+Bronze.Versilbert.Alterer Guf.-H.95.-—B.52. Braun 70.
+
+- 304 Justitia. Sie sitzt streng frontal, das Schwert schulternd. Bronze. Original, etwas derb iberarbeitet.— Bohrloch,oben und unten rechts etwas abgebrochen. H.66.-B.41. Braun 71.
+- 305 Marcus Curtius. Der Held zu Pferd sprengt nach rechts in den flammenden Abgrund. Architektonische Umrahmung mit Rollwerk.
+
+Bronze.Alter Guf.Bohrloch.-H.99.—B.82. Braun 72.
+
+- 306 Fortuna. In architektonischer Umrahmung stehende Frau, nach links gewandt, mit der
+- Linken in ein Fullhorn greifend. Blei.Original.Etwas abgerieben.Spuren alterVergoldung. Braun 73. H.49.-B.32.
+- 307 Justitia. In Rollwerkumrahmung steht die nackte Frau, Wage und Schwert haltend; rechts
+- ein Kranich.
+
+Modell zum Belag einer Dolchscheide.
+
+Zinn.Alter Gufβ.Gewo1bt.——H.75.—B.44. Braun 74.
+
+- 308 Venus Marina. Sie steht auf einem Wagen, den ein von ihr an Seilen gelenkter Delphin fahrt. Putten im Wasser und in der Luft. Rechts unten Kartusche.
+
+Modell zum Belag einer Schwertscheide.
+
+Zinn.Alterer Gufβ.Bohrloch.——H.104.-B.64. Braun 75.
+
+- 309 Susanna und die beiden Alten. Susanna, die Fufe im Wasser, wird von den Alten bedrangt; Rollwerkumrahmung.
+
+Kupfer.AlteTreibarbeit.Obengelocht.—H.54.-B.45. Braun 76.
+
+- 310 Joseph und seine Bruder. Zwei Manner ziehen Joseph aus der Zisterne heraus, da-
+- hinter sechs andere Bruder. Unten Rollwerkkartusche mit Herme.
+
+Modell zum Mundblech eines Schwertbeschlages. Die Darstellung vom Holzschnit des Virgil Solis aus der Frankfurter Bibel (1563, Seite 23) abhangig. - Zinn.Alterer GuB. Nach unten spitz zulaufend. H.100.-B.65. Braun 77.
+
+- 311 Auferstehung. Christus in einer Wolkengloriole, die Fahne in der Hand iber dem Sar-
+- kophag. Zu Seiten vier Wachter.
+
+Silber. Vergoldet.Original. Zwei Bohrlocher.—
+
+H.67.-B.42.
+
+Braun 78.
+
+Tafel 20
+
+- 312 Auferstehung. Christus mit flatterndem Mantel und Fahne steht auf dem Sarkophag. Die drei erschreckten Wachter fahren zurick. Im Hintergrund Stadtarchitektur. Kupfer.Altere Treibarbeit.Mit Bohrloch.
+
+Braun 79. Aus Sammlung Thewalt. Koln.
+
+H.55.-B.43.
+
+313 Justitia. Nach links schreitend Wage und Schwert haltend, neben ihr Kranich.
+
+Im Bayr.Nat. Museum Munchen ein Exemplar als Peisser“.
+
+Bronze.Alter Gufβ.—H.75.—B.60.
+
+Vgl. Bange 5750 u. folgende.
+## Deutsch. 2. Halfte 16.Jahrh.
+
+- 314 Anbetung der hl. drei Konige. Im Stall sitzt nach rechts gewendet Maria mit dem Kinde, vor ihm kniet der alteste Konig, die beiden anderen treten heran.
+
+Wiederholung einer Komposition aus den Quadrins historiques de la Bible von Bernhard Salomon (erste Ausgabe von 1553).
+
+Bronze. Vergoldet. Original.
+
+Drei Bohrlocher. Eine Ecke fehlt.
+
+Braun 81.
+
+H.61.-B.36.
+
+Bange 1518.
+
+Tafel 28
+
+- Bronze.Alterer Guf.-Dm.80. Braun 83.
+- 315 Vase. Auf einem Postament steht die urnenformige Vase mit Pflanzen gefillt.
+- 316 Urania. Die Frau steht von vorne, Kopf im Profl nach rechts, in ihrem linken Arm ein Lammchen. Zu ihren Fufen kauert nackte alte Frau, auf der anderen Seite Globus u. Adler. Die alte Frau geht auf eine Zeichnung A. Durers mit der Geburt des Hercules zurick vgl. E. w. Braun Mitteilungen der Gesellschaft fur graph. vervielfaltigende Kunst. Wien 1915. S. 39. Vgl. Bange 2852. Bronze. Neuerer konturierter Guf. Ein Arm abgebrochen. H.108. Braun 85.
+- 317 Jesus bricht unter dem Kreuz zusammen. Der unter dem Kreuz liegende Christus wird von einem Schergen am Strick vorwarts gezerrt, wahrend drei Kriegsknechte von rickwarts auf ihn eindringen.
+
+Bronze.Vergoldet. Original.-—Konturierter GuB. Bohrlocher.——H.94.—B.162.
+
+Tafel18
+
+- 318 Klio. Die Muse steht von vorne gesehen in einem faltigen Mantel, der Kopf ist nach links gedreht, die Rechte halt das Buch, die Linke rafft den Mantel. Bronze.Altvergoldet. Original.
+
+Braun 86.Vgl.Bange 5713 und 5714. Tafel 16
+
+H.95.-B.50.
+
+- 319 Justitia. Sie sitzt nach rechts auf einem Postament, Wage und Schwert haltend. Landschaftlicher Hintergrund.
+- Bronze.Alter Guf.Bohrloch.-Dm.69.
+
+Braun 145.
+
+Tafel 16
+
+- 320 Zwei Tritonenszenen. Triton mit Delphin. Er schleudert dem Tier Fische in den geoffneten Rachen.
+
+Wohl Bekleidung eines Kastchens.—Bronze. Alter Guf.2 Bohrlocher.H. 102.-B.45.
+
+S.W.0.-H.97.-B.45.
+
+Kampfender Triton. Er stoBt dem Delphin den Speer in den Rachen.
+
+Braun 128und 129.
+
+- 321 Hercules totet Nessus. In einer baumreichen Landschaft mit Architektur steht Hercules dessen Pfeil dem nach rechts eilenden Centauren im Rucken steckt. Nach einem Stich des H. S. Beham.
+
+Bronze. Alterer Guf.An den Schmalseiten abgerundet.H. 36.-B.116.
+
+- 322 Amor. Nackter Knabe, mit Fligeln an den FuBen, halt brennende Fackel und Bogen, iber ihm flatterndes Schriftband.
+- Bronze.Alter Guf.Drei Bohrlocher.-H.84.—B.62. Braun 167.
+- 323 Hl. Johannes auf Patmos. Der Heilige sitzt schreibend nach rechts,vor ihm der Adler, in Wolken erscheint die Madonna.
+- Von Mathaus Wallbaum, vgl. das Ebenholzaltarchen im Bayr. Nat. Museum, Munchen. Silber. Original. Oben fehlt die Rahmung.—H.26.—B.27.
+- 324 Patriarch Levi. Der Patriarch, ein flammendes Schwert schwingend, sitzt nackt auf einem
+- Baren. Links die Mutze des Hohepriesters. Rechts Gruppe auf Postament. stochen hat.Vgl. Bange 7853 Patriarch Issachar und 7854 Patriarch Benjamin aus der gleichen Folge und Anmerkung ebenda.
+
+Bronze. Spaterer Guf.-H.82.-B.158.
+
+Braun 113.
+
+Tafel 17
+- 325 Zwei Landsknechte. Trommler und Pfeifer stehen, ihre Instrumente spielend. Bronze.Alterer Guf. Oval. Doppelter Wulst als Umrahmung.Oben ein Bohrloch.—H. 60.-B. 41. Braun 63. Aukt. Kat.Faure Frankfurt 1913,Nr. 732.
+- 326 Kamel. Rechtshin schreitend.
+
+Blei.Original.——H.75.—B.71.
+
+Tafel 25
+
+- 327 Allegorie auf Kinste und Wissenschaften. Auf einem reich mit klassischer Architektur geschmuckten Platze Minerva im Kreise der durch weibliche Gestalten dargestell-
+- ten Kinste. In Wolken Putte mit Kranz und Palme.
+
+Wohl Augsburg?
+
+Vgl. Braun Einleitung mit Abb.3 sog.Cellini Schale im Louvre.Aukt.Kat. Gutekunst Munchen 1910.Nr.423 u.424.
+
+## Suddeutsch.Ende 16. Jahrh.
+
+- 328 Mars und Venus. Mars und Venus sitzen sich umarmend auf einer Truhe, vor ihnen
+- Neptun und ein vierter Gott. Umrahmung Flechtband mit Rollwerk. Blei.Original. Bohrloch.-Dm.160. Braun 151. Tafel 21
+- Amor. Links kommt Vulkan mit dem ausgebreiteten Netz. In Wolken sitzen Zeus, Apollo,
+- Nach A. v. Walcher Stichvorlage Carracci, Loth u. seine Tochter. Braun a. a. O. Bronze.Alterer Guf.Hochoval.-H.116.-B.87. Braun 159.
+- 330 Daniel in der Lowengrube.(Daniel, 14, 32). Daniel, bartig mit nacktem Oberkorper sitzt umgeben von 5 Lowen in der durch Felswerk und Moos angedeuteten Hohle. Sein linker Arm langt nach der von Habakuk herabgelassenen Flasche.
+
+Vom gleichen Meister, Venus mit dem Spiegel. Bange 2325, siehe Anmerkung ebenda. Bronze.Alterer Guf.-Dm.116. Braun 160.
+
+- 331 Zwei Putten mit Hippokamp. Durch das Wasser schwimmt nach rechts ein Hippokamp, auf ihm reitet ins Horn stofend ein Putto mit Schmetterlingsflugeln. Neben ihm
+- die Halbfigur eines zweiten Puttos.
+
+Nach Bange (Anmerkung zu 2325) zurickgehend auf den Meister des Daniel in der Lowengrube. Kat. Nr.330. Kupfer. Alte Treibarbeit.
+
+Braun 200.
+
+H.100.-B.130.,mit abgeschragten Ecken.
+
+Tafel29
+
+- 332 Christophorus. Der Heilige nur mit dem Oberkorper aus dem Wasser ragend, tragt das Kind. Im Hintergrund Bergspitze mit Ziege. Ornamentierter Rand.
+
+Vom gleichen Meister wie Nr.331.-Blei. Spaterer Guf.—Dm. 88.
+
+- 333 Bacchusfest der Putten. Auf mit Weinreben bedecktem Korblager liegt ein Putto aus einer Schale trinkend, umgeben von sieben Putten. Vorne liegender Panther nach rechts.
+- Bronze. Alterer GuB.-Dm.193. Bange 8313. Vgl.Kat.-Nr.330. Tafel 25
+- 334 Bacchanal. Auf Flechtkorb sitzt Bacchus, um ihn vier Begleiter. Vielleicht vom Meister des Daniel in der Lowengrube.Kat.-Nr.330. -Blei.Alter GuB.—Dm.102. Tafel 21
+- 335 Kampfszene. Gewappnete Reiter und Landsknechte im Handgemenge. Bronze. Spaterer Guf.—H.48.-B. 112. Braun 87.-
+- 336 Uberfall. Von einem Reiter in vornehmer Tracht befehligt, zerren geharnischte FuBsolda-
+- ten einen Reiter in Kapuzenmantel vom Pferd.
+
+Bronze. Alterer GuB, neu patiniert.
+
+H.74.-B.135.
+
+Braun 88.
+
+- 337 Diana. Die nackte Gottin ruht von rickwarts gesehen, nach links unter Baum. Links sitzen 2 Hunde.
+
+Elfenbeinkopie im Bayr. Nat. Museum.
+
+Bronze.Breitoval. Spaterer Guf.—H.74.-B.99. Braun 161.
+
+Blei. Spater Guf.—Dm.147.
+- 338 Simson mit dem Lowen. In Rankenwerk der Held nach links gewandt mit der Keule den Lowen erschlagend.
+
+Bronze. Alter GuB. Gewolbt. Dolchscheidebeschlag.
+
+H.71-B.52.
+
+Braun 162.
+
+- 339 Raub der Amymone. Neptun, von Delphin getragen, umschlingt die nackte Frau.
+
+Kupfer. Versilbert. Alter Guf. Hochoval. Ose.
+
+H.60.-B.44.
+
+Braun 163.—Bange 1493.
+
+- 340 Ceres. In Landschaft steht die nackte Gottin auf Garben, in Handen Ahren und Sichel. Erinnert an Arbeiten von Jonas Silber. Kupfer.Alte Treibarbeit.Hochoval.——H.55.—B.39. Braun 164. Tafel 16
+- 341 Bacchus. Bacchusknabe auf dem Faβ, mit zwei Gefahrten. Blei.Alter Guf. Bohrloch.——Dm.55.
+
+Braun 165.Vgl.Bange 5848.
+
+- 342 Fruhling und Sommer. Zwei Frauen, Blumen bezw. Ahrenbuschel tragend, schreiten auf blumigem Boden nach rechts.
+
+Bronze.Alterer Guf.
+
+H.97.-B.90.
+
+Braun 175.- Bange 5768 und Anmerkung. Tafel30
+
+- 343 Herbst und Winter. Zwei Frauen, ein Fullhorn bezw. ein Feuerbecken haltend, schreiten uber den karglich bewachsenen Boden. Gegenstuck zum vorigen.
+
+Vgl. Anmerkung bei Bange 5768 und 5769. Bronze. Alterer Gufβ.
+
+H.100.-B.90.
+
+- 344 Ecce homo.
+
+Nach Braun von den Niederlanden beeinfluft. Bronze. Spaterer Guf. H.112.-B.72. Braun 192.-Bange 7048.
+
+- 345 Pieta. Unter dem Kreuzstamm sitzt auf einer Rasenbank Maria, in ihrem Schof ruht halb aufgerichtet der Leichnam Christi, das Haupt nach rechts geneigt. Am Boden Totenkopf, Dornenkrone und Zange. Im Hintergrund die Stadt Jerusalem.
+
+Die Plakette geht auf ein italienisches Vorbild zurick.
+
+Bronze. Alter GuB. Ose.H.180.-B.124.
+
+Braun 194.—Vgl. Bange 5771 und 5772.
+
+Tafel 31
+
+Kreuzstamm fehit. Hintergrund stilisierte Berge, links die drei Kreuze. Himmel und Wolken.
+
+Vgl.Braun.194. Bronze.Original.
+
+H.139.—B.96.
+
+Braun 195.
+
+Tafel 31
+
+- 347 Anbetung der Hirten. In der Mitte das Christkind auf Stroh, verehrt yon Maria und Josef und den herannahenden Hirten, einer kniet links. Saulenarchitektur.Im Hintergrund herabschwebender Engel mit Spruchband.
+
+Bronze.Vergoldet. Alterer Guf. teilweise punziert.
+
+Dm.97.
+
+- 348 Pieta.
+
+Darstellung ahnlich wie Nr.345. Vgl. Kat.Nr. 347,auBerdem Nr.345 u. 346. Kupfer. Alte Treibarbeit. Vergoldet. Die oberen Ecken abgeschragt.—H.117.—B.104. Tafel 31
+
+- 349 Einhorn. Es schreitet mit gesenktem Kopf nach rechts. Steiniger Boden mit Grasbuischeln.
+- Glatter Rand.
+
+Kupfer.Original.Alte Treibarbeit.Breitoval.Bohrloch. H.62.-B.78.
+
+Deutsch. Ende 16. Jahrh.
+
+- 350 St. Michaels Kampf mit dem Drachen. Der geflugelte Erzengel kampft mit einem viel-
+- kopfigen Ungeheuer. Oben und unten stilisierte Wolken.
+
+Bronze. Alterer Guf. Hochoval.— H.59.——B.40.
+
+Tafel 25
+
+Braun 168.
+
+Tafel 32
+
+Braun 176.- Bange 5769.
+
+Tafel 30
+## Monogrammist HR 1596.
+
+- 351 Gravierte gewolbte Platte: Das hl. Abendmahl. Im Mittelpunkt Christus mit Johannes,
+
+umgeben von den Jungern.
+
+Kupfer.Vergoldet.-Dm.76.
+
+Braun 97.
+
+## Adam Stor? Nurnberg.Um 1600.
+
+- 352 Anbetung der Hirten. In der Stallruine kniet nach rechts gewendet Maria, hinter ihr steht Joseph, links begruBen zwei Hirten das Kind. Links Ausblick auf eine Landschaft mit der Taufe Christi. Unter der Anbetung zwei Wappen.
+
+Blei.Original.—Dm.88.
+
+Braun 66.Voge 765.
+
+Vgl. den Gnadenpfennig, Kat. Bourgois (Koln 1904) Nr.6071.
+
+## Nurnberg.Um 1600.
+
+- 353-354 Zwei Jagdszenen: Wolfsjagd. Zwei Jager zu Pferd, begleitet von zwei Hunden, toten zwei sie anspringende Woife. Eberjagd. Ein Eber wird von einem Reiter, zwei
+- Treibern und zwei Hunden gestellt.
+
+Bronze.Versilbert und vergoldet. Altere Gufe.
+
+H.81.-B.170bezw.H.79.-B.166.
+
+Vgl. Bange 5778 und 5779.
+
+- 355 Barenjagd. Ein Jager stoBt dem aufrechtstehenden,von drei Hunden gestellten Baren die Partisane in die Brust, von rechts naht ein Reiter.
+- Bronze. Vergoldet und versilbert. Alterer GuB.—H. 81.--B. 121.
+- 356 Straussenjagd. Ein Turke zu Pferd, begleitet von Hunden, erlegt einen Strauf.
+- Bronze.Vergoldet und versilbert. Alterer Guf.-H.83.——B.120.
+- 357 Lowenjagd. Zwei Reiter erlegen den sie anfallenden Lowen. Bronze.Versilbert und vergoldet. Alterer GufB.—H. 83.—B.123.
+- 358 Hasenjagd. Ein berittener Jager, zwei Treiber und Hunde erlegen einen Hasen. In der Landschaft fliehende Rehe.
+
+Bronze.Vergoldet und versilbert. Alterer Gufβ.-H.81.——B. 119.
+
+- 359 Barenjagd. Drei Jager und zwei Hunde umgeben den erlegten Baren. Belaubte Baume. Hintergrund mit Bergen und Wolken.
+
+Kupfer. Alte Treibarbeit. Zum Teil versilbert und vergoldet.
+
+H.68.-B.180.
+
+Tafel 18
+
+- 360 Der gefesselte Prometheus. Dem an den Fels geschmiedeten Prometheus reift der Adler die Leber aus der Brust.
+
+Bronze. Neuerer Guf.-—Dm.71.
+
+## Augsburg.Um 1600.
+
+- 361 Thronende Maria in Wolken. Maria mit dem Kinde auf der Mondsichel, umgeben von musizierenden Engeln, unten drei Engel mit Kranzen, Palmzweig und Schlange.
+
+H.147.-B.112.
+
+Bronze.Vergoldet. Original. Oval.
+
+- 362 Christus wird dem Volke gezeigt. Bronze. Neuerer Guf. Am Rand beschadigt. H.155.—B.110..
+
+Braun 205.
+
+Braun 193.
+
+- 363 Christus am Kreuz. Der Gekreuzigte zwischen Maria und Johannes. Gedrehter Kordelrand. Bronze. Alterer Guf. Hochoval. H.50.-B.45.
+- 364 Maria mit dem Kinde. Stehende gekronte Maria, das Kind mit beiden Handen haltend. Bronze.Alter Guf Hochoval.-—H.70.-B.53. Tafel 32
+
+## Braun 235.Vgl.Bange 5700.
+
+Tafel32
+- mentalem Rahmen mit Zacken, abwechselnd mannliche Brustbilder und Beschlagwerk. Bronze. AIterer Guf.——Dm.76. Braun 64.
+- 367 Anhanger: Hl. Margarete. Mit Kreuz. Zu ihren FuBen der Drache. Einfache profilierte
+- 366 Golgatha. Zwischen den drei Kreuzen Krieger, einer mit Leirer, rechts vorne der gute Hauprmann, links die Gruppe der Trauernden. im Hintergrund Jerusalem. Blei.Alterer Guf.-Dm.168. Braun 203.
+- Rahmung
+
+Silber. Spaterer GuB. Oben gerundet. Mit feststehender Ose.-H. 47. B. 24.
+
+## Augsburger Plakettenwerkstatte 1600-1650.
+
+- stizt, die R chte halt den Federkiel. FuBplatte. Ruckwarts eingraviert 15 M 9/0 In den unteren Zwickeln C-H
+- 368 Der hl. Gregorius. Der Kirchenvater sitzt nach rechts das Buch auf das linke Knie ge-
+
+Bronze.Alte Vergoldung. Original. Konturiert. H.50.-B.30.
+
+Braun 232.
+
+Plakettenkunde, II/3 (1920/21) S. 83f. Braun ebenda IIl, S. 91, Berliner ebenda III, 3/4(1921/22) S.124. Berliner, Eine Augsburger Devotionalienwerkstatte der ersten Halfte des 17. Jahrh. ebenda IV, (1923/24) S.95f Tafel 17
+
+- 369 Hl. Augustinus. Der Kirchenvater sitzt nach rechts, Buch und Pedum haltend. Bronze. Alte Vergoldung.Alter Guf.Konturiert.H. 50.——B.30. Braun 231. Vgl. Berliner, Eine Augsburger Devotionalienwerkstatte der 1. Halfte des 17. Jahrh. a. a. O. Tafel 17
+- 370 Hausaltarchen.(Drei Teile eines Triptychons). Mitrelfeld:Kronung der knienden Maria durch Gottvater und Christus, dariber schwebt die Taube. — Die Darstellung geht auf Durers Marienleben B. 94 zuruick. - Linker Flugel: Der hl. Sebastiin, an den Baum gefesselt von Pfeilen durchbohrt. Unten Kartusche mit Schweif- und Rollwerk. Inschrift: S SEPASTI (si!) Rechter Flugel: Der hl. Georg in Rustung nach links, die mit dem Kreuzwimpel geschmickte Lanze halteni, zwischen seinen FuBen der Drache. Kartusche. Inschritt: S·GEORGIO (sic!)
+
+Bronze. Originale. Vergoldet. Oben Bohrloch.Literatur s.unter Kat. Nr. 368. Mittelfeld H.81.B.56.-Flugel H.72.B.27.
+
+72.分28.
+
+Braun 52-54.
+
+Tafel 28
+
+- 371 Pieta. Vor dem Kreuzstamm sitzt Maria, den nach rechts liegenden Korper Christi
+
+Vgl. die KuBtafel im Bayr. Nat.Museum Munchen. Braun II/Ill, Abb.6, sowie die unter Nr. 368 angegebene Literatur.
+
+- haltend.
+
+Bronze. Alter Guf. Oben abgerundet. Bohrloch.
+
+H.71.-B.50.
+
+Braun 80.
+
+- 372 Mariae Verkundigung. Maria kniet nach rechts vor dem Betpult ihr gegenuber Gabriel
+- mit der Lilie.
+
+Vgl. Berliner a. a. O. Mit Abbildung der Plakette an einem Altarchen im Besitz des Bayr. Nat.Mus. Minchen Blei.Alter Guf.-H.31.-B.56.
+
+- 373 Maria mit dem Kinde. Maria, gekront, thront auf Wolken, zu den Seiten halten zwei Engel die Enden ihres Kopfschleiers.
+
+Bronze. Alter GufB. Die Scamalseiten gerundet.- H 37.-B.82.
+
+## Augsburg.Anfang 17.Jahrh.
+
+- 374 Pyramus und Thisbe.Unter einem Baum liegt der tote Pyramus, Thisbe stuirzt sich in das Schwert. Rechts ein Brunnen mit einem Knaben als Brunnenfigur. Kopiert nach dem Holzschnitt des Virgil Solis,Blatt 48 in Joh.Posthi Tetrasticha in Ovidi Metam.1563
+
+Bronze.Spaterer Guf.-H.70.-B.123. Braun 58.—Bange 8320 und Anmerkung.
+- 375 Kronung Mariae. Auf einer von Engeln getragenen Wolke sitzen Gott Vater und Gott
+- Sohn, sie halten die Krone iber die knieende, nach links gewendete Maria, dariber die Taube. Unten weite Fluflandschaft mit Bergen, Bricke und Siedelungen.
+
+Aus Sammlung Parpart (Auktionskat. Berlin 1912, Nr. 1169). Kupfer. Alte Treibarbeit. Oben abgerundet. Braun 196.
+
+## Suddeutsch um 1600.
+
+- 376 Anbetung der Hirten. Links der Korb mit dem Christkind, dahinter Maria und Josef und die Tiere. Rechts drei Hirten, aus den Wolken schweben Engel herab.
+
+Blei. Alter Guf.Hochoval.H.219.—B.191. Vgl. Bange 5773 und Anmerkung hierzu.
+
+## Suddeutsch. Anfang 17. Jahrh.
+
+- 377 Gang nach Emmaus. Im Vordergrund schreitet Christus zwischen den beiden Jungern
+
+Genaue Kopie des Holzschnittes der Lyoner Bibel von 1533, deren Illustrationen Salomon Bernhard gezeichnet hat. Abb. der Vorzeichnung dieser Plakette Auktionskat. Boerner Leipzig 1914. Vom gleichen Meister die Plakette Noli me tangere. Auktion Frank, Otto Helbing, 14. Dez.1908 Nr. 3374.
+
+- nach rechts. Im Hintergrund Emmaus, im Hause links sitzt Christus mit den beiden Jungern beim Mahl.
+
+Bronze.Vergoldet.Original.H.180.—B.147. Braun 197. Tafel 29
+
+- 378 Flucht nach Agypten. Aus dem Wald kommt Maria mit dem Kind auf dem Esel sitzend, den Josef nach rechts fuhrt. Bricke und Bergpfad mit Reiter und Fufganger. Ausblick auf Berglandschaft mit Kastell.
+
+Vgl. Braun 197 und die gleiche Darstellung in der neutestamentlichen Szene Braun 179. Kat.Nr.423. Wohl die gleiche Vorlage.
+
+Kupfer.AlteTreibarbeit.Vergoldet.H.190.-B.125. Braun 198.
+
+Tafel33
+
+- 379 Hl. Petrus. Vor einer Felswand der Heilige mit verschrankten Handen. Kniestuck nach
+- links. Oben der Hahn, rechts zwei Schlussel.
+
+Bronze. Alterer Guf. Vergoldet.
+
+H.157.-B.124.
+
+## 380-383 Die vier Erdteile.
+
+Braun 199.
+
+## Deutsch.1. Viertel 17.Jahrh.
+
+Europa. Stehende gekronte Frau in reicher Tracht mit Szepter und Reichsapfel, zu ihren Fufen Musikinstrumente und Trophaen. Im Mittelgrund Hirsch, Hirschkuh, Kuh， Ziege, Lammer, zwei Pferde. Unter den Pflanzen Rosen und Wein. Hintergrund: Fluf und Stadtarchitektur.
+
+Afrika. Stehende Frau in Schleiergewand mit Fullhorn und mit Munzen gefullter Schale. Zu ihren FuBen GefaBe mit Muscheln und Korallen. Mittelgrund: Lowenpaar, Krokodil, Giraffe, Antilope unter exotischen Baumen.
+
+Asien. Stehende Frau in phantastischem Gewand mit Szepter und Palmzweig. Zu Fufen Blumenkorb, Fruchte und mit Kleinodien gefullte Schalen. Mittelgrund: Lowe, Elefant, Einhorn,zwei Kamele unter phantastischen Baumen.
+
+Amerika. Indianerin mit Kopfschmuck und Federrock mit Bogen und keulenartiger Waffe nach links schreitend. Zu ihren Fufen GefaBe mit Frichten. Mittelgrund: Woifin mit Eichhornchen, Affen, Nashorn und auf einem der exotischen Baume ein Papagei.
+
+Dm.175.
+
+Bleioriginale mit Resten alter Vergoldung.
+
+Braun 171-174.
+
+Tafel 34
+
+- 384 Christus, der Kinderfreund. In der Mitte der Heiland mit einem Kinde. Links bringen zwei Mutter ihre Kleinen, rechts stehen zwei Junger.
+
+Bronze. Alter Guf.Vergoldet.—Dm.80.
+
+Braun 202.
+
+Nach Braun vom gleichen Meister wie Kat. Nr. 419.
+
+Tafel 33
+
+H.188.-B.145.
+
+Tafel 31
+- 385 Christus der Kinderfreund. Wie Nr. 384.
+
+Braun 202.
+
+Blei. Spaterer Guf.-Dm.78.
+
+## Andreas Hamburger gest. 1657.
+
+Mit 2 Marken. Rosenberg (Ausgabe von 1911) Nr. 333 und Rosenberg Nr. 123. Silber. Alte Treibarbeit.Die Nimben, die Krone Marias, die Gloriole der Taube vergoldet. Oben rundbogig geschlossen. H.245-B. 177. Tafel31
+
+- 386 Kronung Mariae. Auf Wolken kniet Maria, rechts vor ihr sitzt Gottvater, links Christus, beide erheben segnend die Hande: iber der Gruppe sch webt die Taube, von der Strahlen ausgehen. In den Wolken geflugelte Engelskopfchen.
+
+Georg Schweigger, geb. in Nurnberg um 1616, gest. daselbst 1690.
+
+- 387 Brustbild des Philipp Melanchthon. 1497-1560. Halb nach links.
+
+Bange 5856.
+
+Bronze.Alterer Guf. Dm.83.
+
+- 388 Brustbild des Theophrast von Hohenheim gen. Paracelsus 1493-1541. Halb nach rechts.
+
+Bronze. Alterer Guf. Dm.84.
+
+Bange 5857.
+
+- 389 Brustbild Kaiser Karl V. Halb nach links.
+
+Bronze. Alter Guf. Dm.81.
+
+Bernhart Nr. 221.
+
+- 390-391 Brustbild Martin Luthers.Von rechts vorne.
+
+Brustbild der Katharina Bora, Luthers Gattin. Profl nach links.
+
+Bronze.Originale.Vergoldet.——Dm.62.
+
+Deutsch.Anf.17.Jahrh.
+
+- 392-407 Sechzehn Darstellungen nach Holbeins Holzschnitten aus dem Totentanz. Dargestellt sind:392 Vertreibung aus dem Paradies.— 393 Adam bei der Feldarbeit.— 394 Der Tod und die Kaiserin. - 395 Der Tod und die Konigin.- 396 Der Tod und der Bischof.— 397 DerTod und der Abt.— 398Der Tod und die Abtissin.— 399 Der Tod und der Edelmann. 400 Der Tod und der Fursprecher. 401 Der Tod und die alte Frau.— 402 Der Tod und der Ritter.—403 Der Tod und der alte Mann.— 404 Der. Tod und die Herzogin.— 405 Der Tod und der Kramer. - 406 Der Tod und das Kind.— 407 Der Tod und der Narr.
+
+Der Modelleur hat,von wenigen Vereinfachungen (s. Braun) abgesehen, nach einer der vollstandigen Original-
+
+Bronze.Vergoldet. Originale.Verstandnisvoll ziseliert. Braun 89-104.Bange 7087,7096.
+
+ausgaben der Jahre 1545-1554 kopiert.
+
+An den Ecken u.auf den Seiten gelocht.—H.63. —B.48.
+
+397,400,402,404,405Tafel28
+
+## Suddeutsch. 1. Halfte 17.Jahrh.
+
+- 408 Gottvater. Halbfigur mit Strahlennimbus und Weltkugel. Vor ihm drei Engelchen. Hintergrund: Wolken und geflugelte Engelskopfchen.
+
+Silber.AlteTreibarbeit.Oben ein Einschnitt.H.84.B.64.Braun 169.
+
+- 409 Gottvater.
+
+Silber.Spaterer Guf.Hochoval.—H.69.—B.52. Vgl.Braun 169.
+
+- 410 Gottvater. Wie vorher Nr.409.
+
+Bronze. Spater GuB. In achteckiger Umrahmung. H.79.-B.63,5.
+
+Tafel 33
+
+Vgl. Braun 169.
+- 411 Gottvater und Christus. Auf Wolken die Halbfiguren yon Gottvater und Christus mit Strahlennimben, einander zugewendet. Zu den Seiten geflugelte Engelskopfchen. Kupfer. Vergoldet.Alte Treibarbeit. Querrechteckig mit abgerundeten Seiten. Zwei Bohrlocher. H.39.-B.85. Braun 166.
+- 412 Verkindigung. Rechts kniet Maria vor dem ornamentierten Betpult und wendet sich nach links zu dem auf Wolken herabschwebenden Gabriel. Uber diesem die Taube. Bronze. Originalguf mit Spuren alter Vergoldung. Oval. H.110.-B.92. Braun 82. Tafel 35
+- 413 Christus als Herr der Welt. Halbfigur, die Rechte segnet, die Linke halt die Weltkugel. Umgeben von stilisierten Wolken mit geflugelten Engelskopfen. Tafel 33 Bronze. Alte Treibarbeit.Vergoldet.——H.155.——B.114.
+- 414 Pilaster. Kartusche, aus der Pflanzenwerk aufwachst. Oben Herme. Bronze.Vergoldet.Originai.Konturiert.-H.79.
+- 415 Venus und Amoretten. Die Szene in breitovaler Reserve, zu beiden Seiten verschlungenes Bandwerk.
+
+Bronze. Gravierung.Vergoldet.——H. 33.- B.97.
+
+- 416 Verschlungenes Bandwerk. Ornament ahnlich wie vorhergehende Nr. 415. Bronze.Vergoldet. Gravierung.——H.34.——B.64.
+- 417 Der Opfertod des Marcus Curtius. Der Held sprengt auf seinem Rof nach links in den Abgrund. Hintergrund: Stadtarchitektur. In Kartusche mit Maskarons, Engelskopfen,
+- Fruchtbundeln und Rollwerk.
+
+Goldschmiedemodell. Die Gestalt des Helden in Anlehnung an eine GuBplakette. Vgl. Bange 2216. Kupfer.Alte Treibarbeit.H 1c9.-B. 90. Braun 130.
+
+- 418 Anbetung der Hirten. In der Krippe das Kind, verehrt von Maria und Josef, links zwei Hirten, dahinter Ochs und Esel. Bronze. Spaterer Guf.—Dm.74.
+- 419 Christus bei Maria Magdalena und Martha. An einem gedeckten Tisch sitzt links Christus, ihm zugewender Magdalena, Martha tritt heran. Durchblick in die Kuche mit Herd.
+- Bronze. Spaterer Guf.—Dm.85. Braun 201.
+
+## Augsburg. Um 1600—1650.
+
+## 420-435 Sechzehn Darstellungen aus einer neutestamentlichen Serie.
+
+Verkindigung
+
+H.104.-B.78.
+
+Anbetung der Hirten (2. Halfte 17.Jahrh.) H.104.-B.80. Bange 7649.
+
+Anbetung der Konige (Mit 2Augsburger Marken;2. Haifte 17.Jahrh.) H.95 一 710.R. Bange 7650.
+
+Flucht nach Aegypten (letztes Viertel des 16. Jahrh.) H.105.-B.78. Bange 7651.
+
+Der zwolfjahrige Jesus im Tempel H.105.-B.80.
+
+Das letzte Abendmahl H.105.-B.80.
+
+Christus am Olberg H.105.-B.80.
+
+Christi Dornenkronung H.105.-B.78. Tafel 32
+
+Christi GeifBelung (Mit Augsburger Marken) H.100. 一 B.78. Christus wird dem Volke gezeigt H.108.- B.80. Tafel 32
+
+Christus begegnet Veronika H.105.-B.78.
+
+Kreuzigung H.105.-B.78.
+
+Grablegung
+
+H.105.-
+
+B.80.
+
+Auferstehung (Anfang 17.Jahrh.) H.95.-B.69.
+
+Bange 1934.
+
+Himmelfahrt Bange7753(n.ihm v.gleichen Meister wie d.Flucht n.Aegypten）. H.106.B.78.
+
+AusgieBung des Hl. Geistes. H.105.-B.80.
+
+Bronze.Alte GuBe. (Mit Ausnahme von Nr.422 Anbetung der Konige, Geifelung Nr.428, Himmelfahrt Nr.434, alle mit Rahmen). Braun 177-190 (zwei Stucke spater hinzuerworben.)
+
+Uber Datierung usw. vgl. Bange a. a. O.
+- 436 Christus vor Kaiphas. Unter einem Baldachin thront auf Stufen der Hohepriester, rechts Christus von finf Soldaten gefuhrt, links drei judische Priester. Saal mit rund-
+
+Aus Sammlung Lobbecke (Kat. Nr. 938). -Bronze. Vergoldet. Alter GuB. Vier Bohrlocher. H.83.-B.126. Braun 191.
+
+- bogigen Fenstern.
+- 437 Dornenkronung Christi. Im Mittelpunkt sitzt unter einem Baldachin Christus, den zwei Schergen kronen. Rechts und links zwei Zuschauer. Saal mit Rundbogenfenstern. Bronze. Spaterer GuB.—H. 83.——B. 122. Vgl. Braun 191.
+
+Tafel 32
+
+- 438 Ruhe auf der Flucht. Vor einer Blumenhecke sitzt Maria, das Jesuskind haltend, in der Rechten ein Buch. Rechts Josef mit dem Esel. Aus den Wolken schweben Engel-
+- chen herab.
+
+Bronze.Alterer Guf. Oben rundbogiggeschlossen.— H. 123.B.82.
+
+Tafel15
+
+- 439 Papst Leo I. Brustbild mit Tiara und Nimbus, Papstkreuz und Buch. Gedrehter Kordelrand. Bronze.Vergoldet. Original. Rand angesetzt.-Dm.42. Braun 217.
+- 440 Hl.Ambrosius. Brustbild, mit Mitra und Nimbus, nach links; Attribute: Pedum, Buch und Geifel.Gedrehter Kordelrand. Bronze.Vergoldet.Original.Rand angesetzt?-Dm.42.Braun 218.
+- 441 Pieta. Maria halt den Leichnam Christi im Schof. Blattstab.
+- Wohl nach einem Gnader bild.- Bronze.Alterer Guf.Vergoldet. Mit Schraube.Oval.
+- H.35.-B.22. Braun 241.
+- 442-443 Evangelist Matthaus.Evangelist Johannes. Halbfiguren mit ihren Symbolen, Runde profilierte Rahmen. Bronze. Vergoldet. Alte Gusse.— Dm. 68.
+- 444 Christus am Kreuz. Zu FuBen des Kreuzes die stehende Maria und die knieende Magdalena. VierpaBformige Rahmung. Silber.Original -H.50.-B.50.
+- 445 Kronung Mariae. Uber der knieenden Maria halten Gottvater und Christus die Krone. Dariber Wolken mit Engeln und Engelskopfchen und die Taube. Bronze.Vergoldet.Original.——H.177.-B.114. Tafel 33
+- 446 Darbringung im Tempel. Hinter dem Altar der Priester und ein Mann mit Kerze. Rechts
+- Maria und Josef mir dem Kinde, links zwei Frauen mit dem Opfer. Ruckwarts Vorhang. Kupfer.Vergoldet.Alte Treibarbeit.—H.174.——B.143. Tafel 29
+- 447 Kronung Mariae. Auf Wolken kniet Maria auf der Mondsichel, Christus und Gottvater kronen sie, dariber die schwebende Taube. Von F. O. S. Silber. Alte Trcibarbeit. Vergoldete Einfassung mit gezackten Blattern. Oval.- H. 134.— B.129.
+- 448 Joseph und Jesusknabe. Joseph, das Kind fuhrend schreitet nach links. Links ein groBer Baum, rechts Stadrarchitektur. Auf der Ruckseite datiert: MDCxXXxIV (1644) Vielleicht niederlandis he Arbeit. Bronze.Vergoldet.Original.-H.210.—B.163. Tafel35
+- 449 Klage um den Leichnam Christi. Maria knieend umfaBt den toten Sohn, der von einem Engel gesritzt wird.
+- Silber.Konturierter Guf.-H.112.-B.112.
+- 450 Die hl.Dreifaltigkeit.Inschrift:*:BENEDICTA·SEMPER·SANCTA·SIT·TRINITAS*
+- Ornamentierter Randwulst.
+- Blei. Spaterer Guf.-Dm.60.
+- 451 Bekronung. Rankenwerk in symmetrischer Anordnung. Oben gefigelter Putto, zu den
+- Seiten blasende Tritonen. Bronze. Original. Durchbrochen.H.152.-B.212.
+
+Tafel19
+- 452 Wappenl8we. Heraldischer Lowe rechtshin. Messing.Treibarbeit.——H. 51.—B.49.
+- 453 Taufe Christi. Im Wasser die Halbfgur Christi, dariber die Taube,rechts kniet erhoht der hl. Johannes, links Baume. Ruckwarts graviert: M Christoph Bohm p. Pastor Leut-
+- schov Sup. Hung A 1658 Silber. Original.Hochoval.H.38.-B.83.Braun 234.
+
+## Deutsch. Um 17oo. (Aus einer Passion Christi).
+
+- 454 Das letzte Abendmahl. Christus mit Nimbus sitztim Mittelpunkt, umgeben von den Jungern.
+- Gold. Original. Oben im Kielbogen geschlossen.3 Bohrlocher.——H. 57.—B. 42. Tafel 29
+- 455 Kreuzigung. Zu Seiten des Kreuzes kniet Maria und steht Johannes.
+- Gold.Original.Oben im Kielbogen geschlossen.3 Bohrlocher.—H. 56.——B. 42. Tafel 29
+- 456 Auferstehung. Christus, frontal mit Siegesfahne entsteigt dem Sarkophag, vorne zwei
+- Wachter. Gold. Original. Im Kielbogen geschlossen.3 Bohrlocher.-H. 57.—B.42. Tafel 29
+- 457 Himmelfahrt. In Gloriole auf Wolken schwebt Christus empor. Im Vordergrund knieen Maria und drei Junger. Gold. Original. Im Kielbogen geschlossen.3 Bohrlocher.——H.57.—B.42. Tafel 29
+
+## Raphael Donner (7) geb. 1695 in EBlingen (Osterr.), gest. 1741 in Wien.
+
+- 458 Kreuzabnahme. An das Kreuz sind 2 Leitern gelehnt, drei Manner lassen den Leichnam herab. Links Maria, Johannes und Magdalena,in der Luft schweben trauernde Engel.
+- Bronze.Alter GuB. Oben gerundet.- H.218.—B.111.
+- 459 Leichnam Christi. Er ruht nach links, von einem knieenden Engel gestuitzt. Unten Kar-
+- tusche mit den Buchstaben S·D G Bronze. Vergoldet. Original.Dm.108.
+
+## Suddeutsch.1.Halfte 18. Jahrh.
+
+- 460 Mariae Verkundigung. Maria steht neben dem Betpult, Gabriel naht auf einer Wolke, zwischen beiden schwebt die Taube. Bronze.Versilbert. Original.2 Bohrlocher.—H.72.—B. 119.
+- 461-462 Hl. Katharina von Bologna. Halbfigur als Klarissin nach rechts mit dem Christ-
+- kind. Hl. Katharina von Siena. Halbfigur als Dominikanerin nach links, die Dornenkrone auf dem Haupt, mit Kruzifix und Rosenkranz. Blei. Spatere Gusse. Hochoval.-H. 58.-B.48. Braun 214 und 215.
+- 463-464 Hl. Emmeran. Brustbild in Bischofsornat mit Pedum und Leiter.
+- Hl. Albertus Magnus. Brustbild in Bischofsornat nach rechts mit Pedum und Buch.
+- Blei. Spatere Gusse.—Dm.55. Braun 213 und 216.
+- 465 Mariae Verkundigung. Links die am Betpult sitzende Maria, rechts Gabriel in Halbfiguren. Rahmen profiliert.
+- 466 Hl. Abt. Stehend mit Krummstab und Gefaf.
+- Bronze.Vergoldet. Ziseliert.Original.Hochoval. Mit feststehendem Ring.—H. 143.—B.112.
+- Blei.Original.Hochoval.—H.42.—B.35.
+- 467-468 Die Heimsuchung. Die beiden Frauen umarmen sich, im Hintergrund Zacharias und Josef.
+- Schutzengel mit Kind. Sie schreiten nach links durch die Landschaft. Silber. Originalgusse. H.44.-B.36.bzw.H.45.B.36. Braun 239 und 240.
+- 469 Geburt Christi. Maria und Josef betten das Kind in einen Strohkorb.
+- Bronze. Spater GuB.Oval.-H.42.—B.32. Braun 238.
+- 470-471 Hl. Leopold? In reicher Tracht nach rechts schreitend, am Boden der Herzogshut. Hl. Georg. In barocker Rustung mit Kreuzesfahne. Stehend. Blei.Altere Gusse.—H.40.-B.34.bzw.H.42.—B.35.Braun 236 und 237.
+- 472 Christus in Emmaus. Der Heiland sitzt zwischen beiden Jungern beim Mahl. Bronze.Alter Guf.-H.39.-B.33. Braun 242.
+- 473 Wunder zu Kana. Christus auf die Weinkrige weisend, neben ihm Maria. Bronze.Oval.-—H.42.-B.34. Vgl.Braun 242.
+- 474 Geburt Christi. Maria und Josef beten das Kind an, daruiber und neben dem Strohlager je zwei kleine Engel.
+- Bronze.Alter GuB.—H.101.—B. 66.
+- 475 Christus als Schmerzensmann. In Anlehnung an Durer. Bronze.—H.255.—B.190.
+
+Deutsch.1.Halfte 19. Jahrh.
+
+- 476 Maria mit dem Kinde. Maria sitzend in Halbfigur halt das stehende Kind. Bronze.Original.-H.76.—B.57.
+- 477 Maria mit dem Kinde in Wolkenumrahmung.
+- Blei.—H.145-B.110.
+
+## Appliken.
+
+Suddeutsch.Ende 16. Jahrh.
+
+- 478 Maria mit dem Kinde. Auf der Mondsichel sitzend gekront.
+- Nach einem Gnadenbild.
+
+Bronze.Alter konturierter GuB.—H. 84.-B.40. Braun 206.
+
+- 479 Maria mit dem Kinde.Variante von Kat. Nr. 478. Mit Strahlennimbus.
+
+Bronze.Konturierter alterer Guf.—H.88.—B.42. Braun 207.
+
+- 480 Kruzifixus mit Magdalena. Die Heilige knieend, umfaBt den Kreuzstamm, Christus mit nach links geneigtem Haupt.
+
+Schacher mit Maria und Johannes im Bayr. Nat. Museum, Munchen.
+
+Bronze.Konturierter alter Guf.
+
+H.137.-B.62.
+
+Braun 208.
+
+## Deutsch.Um 1600.
+
+- 481 Christus als Schmerzensmann. Der Heiland mit Dornenkrone und gebundenen Handen
+- sitzt nach rechts.
+
+Bronze.Versilbert und vergoldet. Konturierter alter GuB.— H. 143.
+
+- 482 Anbetung der hl. drei Konige. Konturierter alter Guf. Mit Resten von Vergoldung.— H. 109.— B. 108.
+
+Tafel 39
+
+Tafel 40
+## Deutsch. Anfang 17. Jahrh.
+
+| 483 Evangelist Johannes. Halbfigur nach rechts mit dem Adler.                                                                                                                                                            | 483 Evangelist Johannes. Halbfigur nach rechts mit dem Adler.                                                                                                                                                            | 483 Evangelist Johannes. Halbfigur nach rechts mit dem Adler.                                                                                                                                                            | 483 Evangelist Johannes. Halbfigur nach rechts mit dem Adler.                                                                                                                                                            | 483 Evangelist Johannes. Halbfigur nach rechts mit dem Adler.                                                                                                                                                            | 483 Evangelist Johannes. Halbfigur nach rechts mit dem Adler.                                                                                                                                                            | 483 Evangelist Johannes. Halbfigur nach rechts mit dem Adler.   | 483 Evangelist Johannes. Halbfigur nach rechts mit dem Adler.   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
+| Bronze. Vergoldet. Original. Konturiert. H.40.-B.35. Braun 219.                                                                                                                                                          | Tafel 39                                                                                                                                                                                                                 |                                                                                                                                                                                                                          |                                                                                                                                                                                                                          |                                                                                                                                                                                                                          |                                                                                                                                                                                                                          |                                                                 |                                                                 |
+| 484 Maria mit dem Kinde. Nach rechts gewendet, auf der Mondsichel stehend. Als unterer                                                                                                                                   | 484 Maria mit dem Kinde. Nach rechts gewendet, auf der Mondsichel stehend. Als unterer                                                                                                                                   | 484 Maria mit dem Kinde. Nach rechts gewendet, auf der Mondsichel stehend. Als unterer                                                                                                                                   | 484 Maria mit dem Kinde. Nach rechts gewendet, auf der Mondsichel stehend. Als unterer                                                                                                                                   | 484 Maria mit dem Kinde. Nach rechts gewendet, auf der Mondsichel stehend. Als unterer                                                                                                                                   | 484 Maria mit dem Kinde. Nach rechts gewendet, auf der Mondsichel stehend. Als unterer                                                                                                                                   |                                                                 |                                                                 |
+| Abschluf geflugeltes Engelskopfchen. Bronze. Alter Guf. Das Engelskopfchen angelotet ? Loch fur das Scepter? -H. 160. -B. 60. Braun 222.-Bange 5793 und Anmerkung.                                                       | Tafel 39                                                                                                                                                                                                                 |                                                                                                                                                                                                                          |                                                                                                                                                                                                                          |                                                                                                                                                                                                                          |                                                                                                                                                                                                                          |                                                                 |                                                                 |
+| 485 Engel. Halbfigur en face, geflugelt mit Buch. Bronze.Original. Konturiert.Mit 3 Lochern.-H.53.—B.51. Braun 221.                                                                                                      | Tafel 39                                                                                                                                                                                                                 | 485 Engel. Halbfigur en face, geflugelt mit Buch. Bronze.Original. Konturiert.Mit 3 Lochern.-H.53.—B.51. Braun 221.                                                                                                      | 485 Engel. Halbfigur en face, geflugelt mit Buch. Bronze.Original. Konturiert.Mit 3 Lochern.-H.53.—B.51. Braun 221.                                                                                                      | 485 Engel. Halbfigur en face, geflugelt mit Buch. Bronze.Original. Konturiert.Mit 3 Lochern.-H.53.—B.51. Braun 221.                                                                                                      | 485 Engel. Halbfigur en face, geflugelt mit Buch. Bronze.Original. Konturiert.Mit 3 Lochern.-H.53.—B.51. Braun 221.                                                                                                      |                                                                 |                                                                 |
+| 486-487 Evangelist Lukas. Brustbild nach rechts. Mit Stierkopf.                                                                                                                                                          | 486-487 Evangelist Lukas. Brustbild nach rechts. Mit Stierkopf.                                                                                                                                                          | 486-487 Evangelist Lukas. Brustbild nach rechts. Mit Stierkopf.                                                                                                                                                          | 486-487 Evangelist Lukas. Brustbild nach rechts. Mit Stierkopf.                                                                                                                                                          | 486-487 Evangelist Lukas. Brustbild nach rechts. Mit Stierkopf.                                                                                                                                                          | 486-487 Evangelist Lukas. Brustbild nach rechts. Mit Stierkopf.                                                                                                                                                          |                                                                 |                                                                 |
+| Evangelist Markus. Brustbild nach links mit Lowenkopf. Bronze. Alte konturierte Gusse. Befestigungslocher. H.56.-B.46.bzw.H.57-B.47. Braun 223 und 224.                                                                  | Tafel 38                                                                                                                                                                                                                 | Evangelist Markus. Brustbild nach links mit Lowenkopf. Bronze. Alte konturierte Gusse. Befestigungslocher. H.56.-B.46.bzw.H.57-B.47. Braun 223 und 224.                                                                  | Evangelist Markus. Brustbild nach links mit Lowenkopf. Bronze. Alte konturierte Gusse. Befestigungslocher. H.56.-B.46.bzw.H.57-B.47. Braun 223 und 224.                                                                  | Evangelist Markus. Brustbild nach links mit Lowenkopf. Bronze. Alte konturierte Gusse. Befestigungslocher. H.56.-B.46.bzw.H.57-B.47. Braun 223 und 224.                                                                  | Evangelist Markus. Brustbild nach links mit Lowenkopf. Bronze. Alte konturierte Gusse. Befestigungslocher. H.56.-B.46.bzw.H.57-B.47. Braun 223 und 224.                                                                  |                                                                 |                                                                 |
+| 488 Hl. Magdalena. Halbfigur mit Gabenbichse. Bronze. Alterer konturierter GuB.-H. 58.—B.42.                                                                                                                             | Tafel 40                                                                                                                                                                                                                 | 488 Hl. Magdalena. Halbfigur mit Gabenbichse. Bronze. Alterer konturierter GuB.-H. 58.—B.42.                                                                                                                             | 488 Hl. Magdalena. Halbfigur mit Gabenbichse. Bronze. Alterer konturierter GuB.-H. 58.—B.42.                                                                                                                             | 488 Hl. Magdalena. Halbfigur mit Gabenbichse. Bronze. Alterer konturierter GuB.-H. 58.—B.42.                                                                                                                             | 488 Hl. Magdalena. Halbfigur mit Gabenbichse. Bronze. Alterer konturierter GuB.-H. 58.—B.42.                                                                                                                             |                                                                 |                                                                 |
+| 489-491 Drei Evangelisten mit ihren Symbolen.Markus:H. 63. -B. 48. Johannes: 57. 47.                                                                                                                                     | 489-491 Drei Evangelisten mit ihren Symbolen.Markus:H. 63. -B. 48. Johannes: 57. 47.                                                                                                                                     | 489-491 Drei Evangelisten mit ihren Symbolen.Markus:H. 63. -B. 48. Johannes: 57. 47.                                                                                                                                     | 489-491 Drei Evangelisten mit ihren Symbolen.Markus:H. 63. -B. 48. Johannes: 57. 47.                                                                                                                                     | 489-491 Drei Evangelisten mit ihren Symbolen.Markus:H. 63. -B. 48. Johannes: 57. 47.                                                                                                                                     | 489-491 Drei Evangelisten mit ihren Symbolen.Markus:H. 63. -B. 48. Johannes: 57. 47.                                                                                                                                     |                                                                 |                                                                 |
+| Lukas: ” 63. —— 49. Aus der gleichen Werkstatt wie Braun 223/224. Kat Nr.486/87. Bronze. Vergoldet. Konturierte alte Gusse. Mit Bohrlo hern. 492-493 Hl.Magdalena. Brustbild nach rechts mit Salbgefaβ.                  | Lukas: ” 63. —— 49. Aus der gleichen Werkstatt wie Braun 223/224. Kat Nr.486/87. Bronze. Vergoldet. Konturierte alte Gusse. Mit Bohrlo hern. 492-493 Hl.Magdalena. Brustbild nach rechts mit Salbgefaβ.                  | Lukas: ” 63. —— 49. Aus der gleichen Werkstatt wie Braun 223/224. Kat Nr.486/87. Bronze. Vergoldet. Konturierte alte Gusse. Mit Bohrlo hern. 492-493 Hl.Magdalena. Brustbild nach rechts mit Salbgefaβ.                  | Lukas: ” 63. —— 49. Aus der gleichen Werkstatt wie Braun 223/224. Kat Nr.486/87. Bronze. Vergoldet. Konturierte alte Gusse. Mit Bohrlo hern. 492-493 Hl.Magdalena. Brustbild nach rechts mit Salbgefaβ.                  | Lukas: ” 63. —— 49. Aus der gleichen Werkstatt wie Braun 223/224. Kat Nr.486/87. Bronze. Vergoldet. Konturierte alte Gusse. Mit Bohrlo hern. 492-493 Hl.Magdalena. Brustbild nach rechts mit Salbgefaβ.                  | Lukas: ” 63. —— 49. Aus der gleichen Werkstatt wie Braun 223/224. Kat Nr.486/87. Bronze. Vergoldet. Konturierte alte Gusse. Mit Bohrlo hern. 492-493 Hl.Magdalena. Brustbild nach rechts mit Salbgefaβ.                  |                                                                 |                                                                 |
+|                                                                                                                                                                                                                          | Tafel 38                                                                                                                                                                                                                 |                                                                                                                                                                                                                          |                                                                                                                                                                                                                          |                                                                                                                                                                                                                          |                                                                                                                                                                                                                          |                                                                 |                                                                 |
+| Hl. Johannes. Brustbild nach links mit Nimbus. Bronze.Alte Gusse. Konturiert. H.58-B.45.bzw.H.61.-B.48. Braun.225 und 226.                                                                                               | Tafel 40                                                                                                                                                                                                                 | Hl. Johannes. Brustbild nach links mit Nimbus. Bronze.Alte Gusse. Konturiert. H.58-B.45.bzw.H.61.-B.48. Braun.225 und 226.                                                                                               | Hl. Johannes. Brustbild nach links mit Nimbus. Bronze.Alte Gusse. Konturiert. H.58-B.45.bzw.H.61.-B.48. Braun.225 und 226.                                                                                               | Hl. Johannes. Brustbild nach links mit Nimbus. Bronze.Alte Gusse. Konturiert. H.58-B.45.bzw.H.61.-B.48. Braun.225 und 226.                                                                                               | Hl. Johannes. Brustbild nach links mit Nimbus. Bronze.Alte Gusse. Konturiert. H.58-B.45.bzw.H.61.-B.48. Braun.225 und 226.                                                                                               |                                                                 |                                                                 |
+| Von Braun als Evangelisten bezeichnet.- Aus der gleichen Werkstatt wie Braun Nr.223/24. 494-495 Trauernde Maria. Halbfigur nach rechts. Hl. Magdalena. Halbfigur nach rechts mit Buchse.                                 | Von Braun als Evangelisten bezeichnet.- Aus der gleichen Werkstatt wie Braun Nr.223/24. 494-495 Trauernde Maria. Halbfigur nach rechts. Hl. Magdalena. Halbfigur nach rechts mit Buchse.                                 | Von Braun als Evangelisten bezeichnet.- Aus der gleichen Werkstatt wie Braun Nr.223/24. 494-495 Trauernde Maria. Halbfigur nach rechts. Hl. Magdalena. Halbfigur nach rechts mit Buchse.                                 | Von Braun als Evangelisten bezeichnet.- Aus der gleichen Werkstatt wie Braun Nr.223/24. 494-495 Trauernde Maria. Halbfigur nach rechts. Hl. Magdalena. Halbfigur nach rechts mit Buchse.                                 | Von Braun als Evangelisten bezeichnet.- Aus der gleichen Werkstatt wie Braun Nr.223/24. 494-495 Trauernde Maria. Halbfigur nach rechts. Hl. Magdalena. Halbfigur nach rechts mit Buchse.                                 | Von Braun als Evangelisten bezeichnet.- Aus der gleichen Werkstatt wie Braun Nr.223/24. 494-495 Trauernde Maria. Halbfigur nach rechts. Hl. Magdalena. Halbfigur nach rechts mit Buchse.                                 |                                                                 |                                                                 |
+| Kupfer. Vergoldet. Alte Treibarbeit.-Vielleicht aus Tirol. H.55.-B.40.bzw.H.53.-B.40. Braun 228 und 229. 496 Hl. Magdalena. Halbfgur mit Salbenbuchse nach links.                                                        | Tafel 40                                                                                                                                                                                                                 | Kupfer. Vergoldet. Alte Treibarbeit.-Vielleicht aus Tirol. H.55.-B.40.bzw.H.53.-B.40. Braun 228 und 229. 496 Hl. Magdalena. Halbfgur mit Salbenbuchse nach links.                                                        | Kupfer. Vergoldet. Alte Treibarbeit.-Vielleicht aus Tirol. H.55.-B.40.bzw.H.53.-B.40. Braun 228 und 229. 496 Hl. Magdalena. Halbfgur mit Salbenbuchse nach links.                                                        | Kupfer. Vergoldet. Alte Treibarbeit.-Vielleicht aus Tirol. H.55.-B.40.bzw.H.53.-B.40. Braun 228 und 229. 496 Hl. Magdalena. Halbfgur mit Salbenbuchse nach links.                                                        | Kupfer. Vergoldet. Alte Treibarbeit.-Vielleicht aus Tirol. H.55.-B.40.bzw.H.53.-B.40. Braun 228 und 229. 496 Hl. Magdalena. Halbfgur mit Salbenbuchse nach links.                                                        |                                                                 |                                                                 |
+| Spuren von Vergoldung.Bronze. Original. Konturiert.—H. 49.——Breite mit Ose 41. 497 Engel.Halbfigur, en face, gefugelt, gefaltete Hande.                                                                                  | Spuren von Vergoldung.Bronze. Original. Konturiert.—H. 49.——Breite mit Ose 41. 497 Engel.Halbfigur, en face, gefugelt, gefaltete Hande.                                                                                  | Spuren von Vergoldung.Bronze. Original. Konturiert.—H. 49.——Breite mit Ose 41. 497 Engel.Halbfigur, en face, gefugelt, gefaltete Hande.                                                                                  | Spuren von Vergoldung.Bronze. Original. Konturiert.—H. 49.——Breite mit Ose 41. 497 Engel.Halbfigur, en face, gefugelt, gefaltete Hande.                                                                                  | Spuren von Vergoldung.Bronze. Original. Konturiert.—H. 49.——Breite mit Ose 41. 497 Engel.Halbfigur, en face, gefugelt, gefaltete Hande.                                                                                  | Spuren von Vergoldung.Bronze. Original. Konturiert.—H. 49.——Breite mit Ose 41. 497 Engel.Halbfigur, en face, gefugelt, gefaltete Hande.                                                                                  |                                                                 |                                                                 |
+| Kupfer. Alte Treibarbeit, teilweise vergoldet.4 Befestigungslocher. H.61.-B.55. Braun 227. 498 Madonna mit Kind. Stehend, gekront. Bronze. Spaterer konturierter GuB.- H. 162.                                           | Tafel 39                                                                                                                                                                                                                 | Kupfer. Alte Treibarbeit, teilweise vergoldet.4 Befestigungslocher. H.61.-B.55. Braun 227. 498 Madonna mit Kind. Stehend, gekront. Bronze. Spaterer konturierter GuB.- H. 162.                                           | Kupfer. Alte Treibarbeit, teilweise vergoldet.4 Befestigungslocher. H.61.-B.55. Braun 227. 498 Madonna mit Kind. Stehend, gekront. Bronze. Spaterer konturierter GuB.- H. 162.                                           | Kupfer. Alte Treibarbeit, teilweise vergoldet.4 Befestigungslocher. H.61.-B.55. Braun 227. 498 Madonna mit Kind. Stehend, gekront. Bronze. Spaterer konturierter GuB.- H. 162.                                           | Kupfer. Alte Treibarbeit, teilweise vergoldet.4 Befestigungslocher. H.61.-B.55. Braun 227. 498 Madonna mit Kind. Stehend, gekront. Bronze. Spaterer konturierter GuB.- H. 162.                                           |                                                                 |                                                                 |
+| 499-500 Hl. Sebastian. Stehend, am Stamm gefesselt, nach rechts.                                                                                                                                                         | 499-500 Hl. Sebastian. Stehend, am Stamm gefesselt, nach rechts.                                                                                                                                                         | 499-500 Hl. Sebastian. Stehend, am Stamm gefesselt, nach rechts.                                                                                                                                                         | 499-500 Hl. Sebastian. Stehend, am Stamm gefesselt, nach rechts.                                                                                                                                                         | 499-500 Hl. Sebastian. Stehend, am Stamm gefesselt, nach rechts.                                                                                                                                                         | 499-500 Hl. Sebastian. Stehend, am Stamm gefesselt, nach rechts.                                                                                                                                                         |                                                                 |                                                                 |
+| Bronze. Altere konturierte Gusse.-H.110 bzw.114. Braun 209 und 210. 501 Gottvater. Sitzend, die Rechte segnet, die Linke halt die Weltkugel. Unten gefugeltes Engelskopfchen. Bronze. Vergoldet. Alter konturierter GuB. | Bronze. Altere konturierte Gusse.-H.110 bzw.114. Braun 209 und 210. 501 Gottvater. Sitzend, die Rechte segnet, die Linke halt die Weltkugel. Unten gefugeltes Engelskopfchen. Bronze. Vergoldet. Alter konturierter GuB. | Bronze. Altere konturierte Gusse.-H.110 bzw.114. Braun 209 und 210. 501 Gottvater. Sitzend, die Rechte segnet, die Linke halt die Weltkugel. Unten gefugeltes Engelskopfchen. Bronze. Vergoldet. Alter konturierter GuB. | Bronze. Altere konturierte Gusse.-H.110 bzw.114. Braun 209 und 210. 501 Gottvater. Sitzend, die Rechte segnet, die Linke halt die Weltkugel. Unten gefugeltes Engelskopfchen. Bronze. Vergoldet. Alter konturierter GuB. | Bronze. Altere konturierte Gusse.-H.110 bzw.114. Braun 209 und 210. 501 Gottvater. Sitzend, die Rechte segnet, die Linke halt die Weltkugel. Unten gefugeltes Engelskopfchen. Bronze. Vergoldet. Alter konturierter GuB. | Bronze. Altere konturierte Gusse.-H.110 bzw.114. Braun 209 und 210. 501 Gottvater. Sitzend, die Rechte segnet, die Linke halt die Weltkugel. Unten gefugeltes Engelskopfchen. Bronze. Vergoldet. Alter konturierter GuB. |                                                                 |                                                                 |
+| H.85.-B.36. Braun 230. 502 Gottvater.Auf Wolken thronend, die Rechte segnend erhoben.                                                                                                                                    | H.85.-B.36. Braun 230. 502 Gottvater.Auf Wolken thronend, die Rechte segnend erhoben.                                                                                                                                    | H.85.-B.36. Braun 230. 502 Gottvater.Auf Wolken thronend, die Rechte segnend erhoben.                                                                                                                                    | H.85.-B.36. Braun 230. 502 Gottvater.Auf Wolken thronend, die Rechte segnend erhoben.                                                                                                                                    | H.85.-B.36. Braun 230. 502 Gottvater.Auf Wolken thronend, die Rechte segnend erhoben.                                                                                                                                    | H.85.-B.36. Braun 230. 502 Gottvater.Auf Wolken thronend, die Rechte segnend erhoben.                                                                                                                                    |                                                                 |                                                                 |
+| Bronze. Alterer konturierter GuB.-H.79.—B. 65.                                                                                                                                                                           | Bronze. Alterer konturierter GuB.-H.79.—B. 65.                                                                                                                                                                           | Bronze. Alterer konturierter GuB.-H.79.—B. 65.                                                                                                                                                                           | Bronze. Alterer konturierter GuB.-H.79.—B. 65.                                                                                                                                                                           | Bronze. Alterer konturierter GuB.-H.79.—B. 65.                                                                                                                                                                           | Bronze. Alterer konturierter GuB.-H.79.—B. 65.                                                                                                                                                                           |                                                                 |                                                                 |
+- 503 Engel mit WeihrauchfaB. Er kniet nach rechts auf Wolken und faBt mit beiden Handen in die Ketten des GefaBes. Bronze. Spuren alter Vergoldung.Konturierter GuB. Original.—H. 88.B.49. Tafel 39
+- gestus erhoben. Scheibennimbus. Nach romanischem Vorbild.
+
+Kupfer.Vergoldet. Original.H. 118 -B.56.
+
+## Suddeutsch.17.Jahrh.
+
+- 505 Maria mit dem Kinde. Auf der Mondsichel stehend, im rechten Arm das Kind. Bronze.Alter konturierter GuB.—H. 98.
+- 506 Maria mit dem Kinde. Auf Wolkensockel sitzend. Mit Strahlenglorie. Bronze.Alter konturierter GuB.—H.91.-—B.58.
+- 507 Gottvater. Sitzend. Mit Segensgestus und Weltkugel. Bronze.Alter konturierter GuB.-H.98.—B.51. Tafel 39
+- 508 Gottvater. Brustbild auf Engelwolke. Bronze.Konturierter GuB.-H. 67.-B.71.
+
+## Deutsch.18.Jahrh.
+
+- 509 Truhenbeschlag. Das Schluisselloch flankiert von zwei Putten, die in Blumenzweigen sitzen. Bronze. Alter Guf.Vergoldet.——H.79.——B.90.
+- 510 Die Madonna erscheint dem hl. Bernhard. Madonna auf Wolken sitzend erscheint dem vor dem Altar knieenden hl. Bernhard,auf Altarstufe Inful, Krummstab, Gebetbuch. Silber.Teilweise vergoldet.Alte Treibarbeit.- H. 85.
+- 511 Frauenbuste. Gekronte Dame mit flatterndem Haar in tief ausgeschnittenem Kleid. Bronze.Alter konturierter GuB.-H.63.B.49.
+
+## Deutsch.17.-18.Jahrh.
+
+- 512-515 Vier Appliken. Hl. Magdalena; Maria mit dem Kinde; Trauernde Maria; Joseph mit dem Jesuskind.
+- Bronze.Neuere Gusse.——H.45-56—71-61. Magdalena=Braun 220.
+
+Tafel 40
+## NIEDERLANDISCHE UND FRANZOSISCHE PLAKETTEN
+## Niederlandisch.2.Halfte 15. Jahrh.
+
+- 516 Maria mit dem Kinde. Maria in Halbfigur, halt das Kind. Beide mit Nimbus. Bronze.Alter Guf.Konturiert. Braun 233 -Bange 1462-Sammlung Lobbecke H.70-B.45. Munchen 1908 Nr. 869. Tafel 40
+
+## Steven Cornelisz van Herwijck,
+
+geb.in Utrecht um 1530, gest.in London um 1565-67.
+
+- 517 Spes. In baumreicher Landschaft nach links schreitende Spes. Zu ihren FuBen Anker.
+- Oben SPERANDO SVSPIRO Am Abschnitt vertieft. STE·H·F·Perlrand. Blei.Original.-Dm,106. Tafel 35
+- 518 Caritas. Sitzend einen Saugling an der Brust, rechts Kind mit Hund, links 2 andere
+- Kinder. Beischrift: CHARITAS·OMNIA·SVFFERT Perlschnurrand. Am Abschnitt ver-
+- tiefr:STE·H·
+
+Vgl. Voge 831 (I. 1884）. Revers der Medaille des Hans van den Broeck von 1559 s. Tourneur in ,The Numismatic Chronicle* 1922, S.114.
+
+Blei. Spaterer Guf.-Dm.58.
+
+Braun 143.
+
+## Art des St.C.v.Herwijck.
+
+- 519 Respice finem. Frau mit Wage und Sanduhr nach links eilend. Landschaft mit drei Baumen im Vordergrund. Beischrift: RESPICE-FINEMx Ringsum Perlrand. Tafel 36 Blei. Original.——Dm.70. Braun 144.
+
+## Niederlandisch. 1. Halfte 16. Jahrh.
+
+- 520 Anbetung der Konige. Von links naht iber einen Hugel der Zug, der alteste Konig kuBt dem Christkind den FuB. Rahmen mit Akanthusstab. Bronze.Alterer Guf.Oben gerundet.-H.102 -B.77.
+
+## Niederlandisch. 2.Halfte 16. Jahrh.
+
+- 521 Das Urteil Salomos. Salomo thront erhoht,rechts von ihm die eine Mutter mit dem lebendigen Kinde, das der Henker ergreift. Umrahmung Perl- und Akanthusstab. Vielleicht deutsche Arbeit. Sammlung Faure Auktion Frankfurt 1913 Nr.659mit Bronze. Alter Guf.-Dm.92. Abb.
+- 522 Anbetung der Konige. Rechts die hl. Familie, der alteste Konig kniet vor dem Kinde, die beiden anderen treten heran, im Hintergrund das Gefolge, meist zu Pferd. Vielleicht deutsche Arbeit. Tafel33 Bronze.Alter Guf —H.153-B.123.
+- 523 Diana entdeckt den Fehltritt der Kallisto. Diana beugt sich iber die Nymphe,rechts
+- steht eine Begleiterin.
+
+Bronze. Alter GuB. Hochoval. Bohrloch.-H. 101 —B.86.
+
+- kammt. Links ein Baum.
+- Bronze. Alterer Guf.-Dm.88. Bange 1419.
+
+Tafel 36
+- 525 Vanitas. Nackte Frau, den linken Arm auf ein Kissen gestitzt, am Boden kauernd, spielt mit ihrem Haar.
+
+Bronze. Alter Guf.Hochoval.—H.125 ——B.98. Vgl.Bange 2088und 1419.
+
+Tafel 36
+
+- 526 Liebespaar. Mann mit phantastischer Mutze und Weib mit entbloBter Brust einander Zugewendet. Halbfiguren.
+
+Bronze.Alter Guf.-H.77-B.55.
+
+## Niederlandisch.Ende 16.Jahrh.
+
+- 527 Raub der Sabinerinnen. Eine Schar romicher Soldaten, zum Teil beritten, entfuhrt die sich straubenden Frauen. Im Hintergrund Saulenbau und Triumphbogen. Der Saulenbau links und der Triumphbogen wiederholen sich auf einer gleichen Darstellung des Adrian de Vries, Bange 840 Vgl. Anmerkung ebenda.
+
+Messing.Spaterer Guf.-Dm.165. Braun 150.
+
+- 528 Raub der Sabinerinnen. Im Vordergrund schleppen romische Krieger die Frauen fort, im Hintergrund ein Haus, davor eine mit 2 Pferden bespannte Kutsche. Blei. Alterer Guf.- Dm.131.
+- 529 Beweinung Christi. Am Fuf des Kreuzes Maria mit dem Leichnam, rechts und links ein Engelknabe.
+
+Bronze.Vergoldet.Alterer Guf.—H.72—B. 62. Bange 5955.
+
+## Niederlandisch. 2.Halfte 16. Jahrh.
+
+Aus einer Folge von Triumphdarstellungen.
+
+- wagen sitzt die Gerechtigkeit mit Schwert und Wage, die Abundantia und eine dritte Frau.
+- Vorne ein Wagenlenker.
+
+Die vier Triumphdarstellungen Kat, Nr.530, 531, 533,534) stammen von einem Kastchen aus dem Besitz des Erzherzogs Karl von Oesterreich, Herzog von Steiermark geb.1540,gest.1590 in Graz. Bronze.Versilbert.Original.-H.68-B.128. Braun 105- Bange 3075.
+
+- Mann gelenktem Prunkwagen sitzt eine Frau mit dem Schlussel Petri, dabei Glauben, Keuschheit und Gehorsam.
+
+Bronze. Versilbert. Original.——H.68 -B.128. Braun 106 —Bange 1490.
+
+- 532 Triumph der Fulle. Auf dem von 2 Stieren nach rechts gezogenen Prunkwagen drei
+
+Bronze. Spaterer Gufβ.—H. 63-B. 118. Braun 107-Bange 1488. Tafel 27
+
+- Frauen, Knabe und Mann mit Fulihornern und Schalen, neben dem Lenker steht ein Alter in Monchskutte.
+- 533 Triumph der Demut. Auf dem von 2 Rossen (Modestia und Mansuetudo) nach links gezogenen und von Methus gelenkten Wagen sitzt die Umilitas, nebenher schreiten Glaube, Liebe und Hoffnung.
+
+versehen ist.
+
+Das Relief wiederholt die von H. Cock gestochene Komposition d. M. Heemskerk, die mit Beischriften
+
+Bronze. Versilbert. Original ——H.65 —B.125.
+
+Braun 108 - Bange 1489.
+
+- 534 Triumph des Mangels. Auf dem y. zwei Maultieren nach rechts bewegten, v. TIM (OR) gelenkten Korbwagen sitzen INOPIA und VMI (LITAS) Nebenher schreiten Patientia, Servitus und Fragilitas.
+
+Das Relief der Inopia wiederholt die in dem Stiche des Hieronymus Cock festgehaltene Komposition des Marten Heemskerk.
+
+Bronze.Versilbert.Original.—H.65 -B.125 Braun 109  Bange 1487, vgl. Anmerkung.
+
+- 535 Triumph des Reichtums. Zwei reichgeschirrte Pferde (Rapina und Fraus) von Dolus
+- (Betrug) gelenkt ziehen den Prunkwagen nach rechts auf dem die Opulentia erhoht thront,
+
+Tafel 37
+
+Tafel 30
+dem Wagen folgen Vana, Lactia und die beiden Vanae Voluptates.
+
+Die Plakete (Unikum) wiederholt die von H. Cock nach M. Heemskerk gestochene Komposition, deren Beischriften, die Deutung ermoglichen. Abb. bei Braun S.49.
+
+Bronze. Original.H.68—B.126.
+
+Braun 110.
+
+Tafel 27
+
+- eine behelmte Frau mit Kirchenfahne und Lamm,nebenher schreiten Spes, eine geflugelte weibliche Gestalt und eine Frau mit verbundenen Augen.
+
+Bronze.Alter Guf.--H.65-B.120
+
+Braun 11l - Fruher Sammlung Rho Wien.Tafel 27
+
+## Niederlandisch.Um 1600.
+
+- 537 Triumph der Musen. Zwei Pferde, von einer Frau mit geschwungener Geibel gelenkt,
+- ziehen den Prunkwagen nach rechts. Auf dem thronartigen Rucksitz Erato und eine Muse, auf den Himmelsglobus deutend, den eine dritte Frau halt. Neben dieser Urania mit dem Globus.
+
+Bronze. Teilweise versilbert, teilsweise vergoldet. Original.
+
+H.112—B.195.
+
+- 538 Maria mit Kind. Unter Baumen sitzt Maria nach links, dem auf einem Kissen sitzenden
+- Kinde zugewendet.
+
+Blei.Original.-—H.166—B.125
+
+- 539 Abendmahl. In der Mitte der langlichen Tafel sitzt Christus umgeben von seinen Jungern. Vor dem Tisch zwei Henkelvasen.
+
+Bronze.Alterer Gufβ.--H 64—B.106.
+
+Bange 1551.
+
+- 540 Anbetung der Hirten. Vor der Ruine das Kind, umgeben von Joseph und den Hirten. In den Wolken schweben kleine Engel.
+
+Bronze. Alter GufB.Oben gerundet.—H. 161 -B. 121.
+
+- stehende Kanne. Proflierter Rand.
+
+Nach Ansicht A. v. Walchers deutsche Arbeit des 16.Jahrhunderts. Bronze. Alter Gufβ.-Dm. 68,5.
+
+- 542 Satyr und Nymphe. Sie liegen sich umarmend unter einem Baum.
+- Kupfer.Alte Treibarbeit. H. 140 —B. 141. Eine zweite Plakette: Ahnliche Darstellung. Bronze. Spater GuB.—Dm.125.
+- 544 Feldherr. Er reitet nach links, barhauptig, den Feldherrnstab in der Linken. Landschaft. Bronze.Vergoldet.Alte Treibarbeit. Oval.H.75——B.54. Tafel 11.
+- 543 Abrahams Opfer. Abraham in der Mitte stehend, faBt den auf dem Scheiterhaufen kauernden Isaak am Nacken. Der Engel fallt ihm in den Arm. Bronze. Alter Guf.-H.172—B.123. Sammlung Henrici Nr. 136 mit Abb.
+
+## Niederlandisch. 1. Halfte 17. Jahrh.
+
+- 545 Bacchusfest der Putten. Neun Putten trinken, essen Trauben oder musizieren in einer
+
+Bronze. Alter GuB.-H. 116 -B. 144.
+
+- Gartenlandschaft.
+- ein grofes Gefaf.
+
+Bronze. AIter Guf.—H. 94 ——B.154.
+
+Sammlung Henrici. Aukt.Kat.187 mit Abb.
+
+- 547 Vier spielende Putten.
+
+## Niederlandisch,17. Jahrh.
+
+Bronze.Alterer GuB.Hochoval.H.116.B.100.
+
+Tafel 26
+
+Tafel37
+
+Braun 112—Vgl.Bange 7804.
+- 548 Martyrium des hl. Sebastian. Im Vordergrund steht an einen belaubten Baum gebunden, von Pfeilen durchbohrt, der Heilige. Ein Engel bringt ihm Palme und Kranz. Im Hintergrund Krieger und Volk, darunter die hl. Irene. Unten datiert 1552. Bronze. Spuren von Vergoldung. Alter GuB.Hochoval.—H.222 -B.82.
+- 549 Die hl. Familie mit dem Johannesknaben. Bronze. Spaterer Guf.—H.119.B.100. Vgl. Bange 838.
+- 550 Schlusselschild. Maskaron umgeben von Beschlagwerkornament. Kupfer.Alte Treibarbeit.-H.150:—B.133.
+
+## Hollandisch.17.Jahrh.
+
+- 551 Quacksalber. Er steht nach rechts, einen Tragkasten mit Flaschen umgehangt.
+- Bronze.Alterer Guf.—H.109-B.54.
+
+## Hollandisch. 18.Jahrh.
+
+- 552 Affen im Urwald. Funf Affen betrachten einen sechsten, der modisch gekleidet, in kurzer Hose, langer Weste und Rock, vor ihnen steht.
+- Bronze. Vergoldet. Original.——H.87.-B.97. Tafel 9
+
+## Franzosische Plaketten
+
+## Franzsisch.16.Jahrh.
+
+- 553 Pallas Athene. Brustbild rechtshin, der Helm mit einem Lorbeerkranz geschmuckt. Bronze.Original.Hochoval.—H.127 —B.101. Tafel9
+- 554 Drache und Kriegstrophaen.
+- Bronze. Alterer GuB.Dm.102.
+
+## FranzOsische.2.Halfte. 16.Jahrh.
+
+- 555 Bacchische Szene. Bekranzter Silen auf einem Esel nach rechts reitend, umgeben von Faunen und Silenen.
+
+Bronze.Alter Guf.—Dm.217.
+
+- 556 Bacchanal. Unter Baumen Faun mit Ziege, umgeben von sechs Putten. Bronze. Alter GuB.-H.68.-B.96.
+
+## Franzosisch.Um 1600.
+
+- 557 Bacchantenszene. Bacchus umgeben von trunkenen Satyrn, einer Bacchantin, Putten
+- und einem Ziegenbock. Ornamentierter Randwulst. Bronze.Alter GuB.-Dm.145.
+
+## Jean Warin.1604-92.
+
+- 558 Sulla. Kopf, Profil nach rechts.L·COR·SVLLA·COS Unten bez. VARIN
+- Bronze. Spaterer GuB.-Dm.105.
+
+## Franzsisch. Anf.17.Jahrh.
+
+- 559 Ludwig Xill. im Kronungsornat. Der gekronte Konig in lilienubersatem Mantel, steht in ganzer Figur nach links gewendet, das Scepter haltend. Bronze.Vergoldet.Original. Mit feststehender Ose.-H.153.——B.92. Tafel 35
+
+Tafel 25
+## Franzosisch. 17.Jahrh.
+
+- 560-561 Zwei kleine Faune. Sie sitzen unter einem Baum, der eine ift eine Traube. Bronze.AIterer Guf. Breitoval.—H. 94 -B.118.
+
+## Kleiner Faun und Putto.
+
+Bronze.Guf.Original. Breitoval.—H. 94.——B.120.
+
+- 562 Venus und Adonis. Venus versucht den jungen Jager, der mit seinen Hunden auf aufbrechen will, zuruckzuhalten. Bronze. Spaterer Guf.-Dm.91.
+
+## Manier des Claude Gillot. Franzosisch. 2. Halfe 18. Jahrh.
+
+- Bernhart,Medaillen und Plaketten 1920,Abb.90.
+- 563 Venus und Adonis. Der Jager nimmt Abschied von der auf einem Lager sitzenden Venus. Zwei Putten und ein Jagdhund. Landschaft. Glatter Rand. Silber. Original. Queroval. Mit drei Stempeln Hahn;(Rosenberg 1921 Nr.4373) Mannerkopf und Adler. H.53.-B.70.
+
+Tafel30
+
+- folgt, nach links durch einen Gebirgsbach. Links Felsufer mit Wasserfall und Baumen.
+- 565 Apollo und Daphne.Von Apollo verfolgt,flieht Daphne, sich in einen Baum verwandelnd,
+- Silber.Original.—H.51.-B.78. Tafel 30
+- nach links.
+
+Silber.Original.-H.50—B.65
+
+Tafel 30
+
+Tafel35
+
+## Franzosisch.18. Jahrh.
+
+- 566 Venus und Amor. In Landschaft schlafende Venus, hinter ihr Amor. Kupfer.Original.Bohrloch.Dm.48.
+- 567-568 Zwei Bacchantenszenen. Liegende nackte Frau blaft die Flote,links Tanzerin mit einem Knaben,rechts Bacchusaltar.— Unter einem Baum liegt ein Silen, iber den sich eineNymphe beugt, links steht ein zweites Paar. Bronze.Alte Gisse.-Dm.154.
+- 569 Zwei Engel mit einer Taube spielend.
+- Bronze.Alterer Guf.-H.90-B.101.
+- 570 Spielende Kinder. Ein vermummtes Kind erschreckt drei kleine Knaben. Landschaft mit grofBem Baum. Kupfer.Alte Treibarbeit.Breitoval.-H.87.-B.116. Tafel36
+
+## Franzosisch. Ende 18. Jahrh.
+
+- 571 Malerei und Bildhauerei. Im Vordergrund steht die Malerei neben einer Bildtafel, links die Bildhauerei an einer Buste arbeitend. Rechts hinten nahen Haf und Neid. Silber.Original.—H. 68——B.86.
+
+## Franzosisch.1.Halfe 19.Jahrh.
+
+- 572 Tod der Niobiden. Von den Pfeilschissen Apollos und Dianas getroffen, stirzen die Niobiden von den Rossen. Links die Gruppe der zur Niobe fluichtenden Madchen. Silber.Treibarbeit.Queroval.-H.89 -B.122.
+
+## Franzosisch.Um 1850.
+
+- Achilles empfangt Briseis.-Hektors Abschied.- Achilles totet Hektor. Achilles schleift die Leiche Hektors.
+
+Bronze. Leicht gewoibt. Nach unten schmaler werdend.-H. 103. —B 131.

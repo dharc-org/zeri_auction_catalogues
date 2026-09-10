@@ -1,0 +1,228 @@
+<!-- image -->
+
+## Mobel und Ausstattungs-Gegenstande.
+
+- 1 Humpenschrank in Eichenholz reich geschnitzt, aus der Uebergangszeit der Gothik in die Renaissance. Das Untertheil offen,die Vorderstollen reich geschnitzt in Saulenform,die Riickwand mit breiten Hohlkehlen. Zwei unterhalb geschweifte Schiebfacher, auf deren Friesen fein gestengeltes, aus fabulosen Figuren erwachsenes Laubwerk fuhren zu dem Obertheile iber,dessen beide Thiren eine Darstellung der Verkiindigung Maria in zwei hochreliefrten Figuren mit reich und edel drapirten Gewandungen unter dreipassformigen Bogen zeigen; auf der schmalern Mittelfuillung die fast vollrund geschnittene Standfigur des hl. Georg mit Rittermantel,Schild, Schwert und Speer in einer tiefen Nische. Die Seitenwandungen mit Hohlkehlen; die sammtlichen Schlagleisten in einem reichen Candelaber-Ornament.Kostbares Mobel. Die streng stylvollen Figuren sind spatgothisch, die ganze Structur, die architectonischen Partien und das Ornamentwerk tragen dagegen bereits einen entschiedenen Charakter der Fruh-Renaissance. Die geschmackvollen Eisenbander und Gehange der Thuren der Zeit entsprechend.Um 1520.FundstatteKoln"
+
+Hohe 166, Breite 120,Tiefe 60 Cent
+
+- 2 Hoher Humpenschrank in Eichenholz reich geschnitzt. Das Untertheil offen in zwei Etagen, die Vorderstollen saulenformig;auf den Friesen der den Uebergang bildenden beiden Schiebfacher reiche aus Mascarons erwachsende Laubranken. Das Obertheil mit einer mittleren Thire, die in sehr hohem Relief ganz meisterhaft geschnitzt mit dem Gastmahl des reichen Prassers in einer an die Darstellungen des G. Pencz erinnernden stylvollen Composition unter reichem Saulenbaldachin. Zu den Seiten in tiefen von breiten Pilastern mit aufsteigendem Blumenornament fankirten Nischen die gleichfalls ganz vortrefflich geschnittenen personnificirten Figuren der Sonne und des Mondes in sehr hohem Relief, theils fast vollrund.Die Mittelfullungen der Seiten mit hochreliefirten Thierkopfen auf prachtigen Ornamentcartuschen.
+Unter dem vortretendem Hauptgesims des Mobels ein Fries mit Stierschadeln in antikisirender Weise, auf der Frontseite mit Fruchtfestons, auf den Querseiten mit Draperien verbunden. Ungemein kostbares Mobel, das in seiner Art wohf als das hervorragendste dastehen dirfte. In seinem ganzen Aufbau, der Strenge und der vorziglichen Ausfuhfuihrung seiner figuralen, wie ornamentalen Decoration gleich bedeutend. Um 1570. Fundstatte ,Abtei Gladbach".Das kostbare Mobel ist beschrieben und abgebildet in der Kolner Bau- und Kunst-GewerbeZeitung, Jahrg. 1888. Heft 2.
+
+Hohe 178, Breite 120, Tiefe 60 Cent.
+
+- 3 Humpenschrank in Eichenholz geschnitzt. Das Untertheil offen mit
+- kandelaberformigen Vorderstollen. Auf den Schubladenfriesen und auf den entsprechenden Fillungen der Seitenwandungen Medaillonkopfe zwischen Grotesken, auf den beiden Thiren unter Baldachinen die Profilbrustbilder eines Ritters und seiner Gemahlin; die schmale Mittelfuillung zeigt wie die Fullungen der Seitenwandungen Blumenvasen und Blumenornamente.Sehr schones Mobel von vorziglicher Ausfuhrung. Um 1550.
+
+Hohe 135,Breite 117, Tiefe 70 Cent.
+
+- 4 Humpenschrank in Eichenholz reich geschnitzt,das Untertheil offen mit zwei Etagen, die Vorderstollen in Form zweier ibereinanderstehender Saulen,die Ruckwand gekehlt.Die stark vortretenden,reich profilirten Leisten der vertieft liegenden Thire und Nebenfuillungen vortrefflich geschnitzt; erstere mit Doppelwappen, die letzteren mit einfachen Wappen auf reichen Helmdecken. Die Seitenwandungen mit Hohlkehlen. Sehr schones Mobel. Um 1550.Fundstatte ,Euskirchen" Hohe 160, Breite 110, Tiefe 47 Cent.
+- 5 Grosser Aufsatzschrank in Eichenholz,in sehr hohem Relief meisterhaft geschnitzt mit den Standfiguren der Evangelisten.Auf wirfelformigen Fissen erhebt sich iber einem mit Ornamentstab geschmickten Sockel der Unterbau mit zwei von Karyatiden fankirten grossen Thuren, welche unter prachtigen Bogenstellungen die Standfiguren der Hl. Johannesund Lucas zeigen. Ein gewolbtes Mitteltheil mit zwei reich geschnitzten Schiebfachern zwischen vollrund vortretenden Lowenkopfen bildet den Uebergang zu dem stark zuricktretenden. Obertheile,auf dessen beiden Thuren, den unteren entsprechend, die Standfiguren der Evangelisten Lucas und Matthaus, wahrendeine schmale Mittelfillung eine weibliche allegorische Figur zeigt. Fries der weit vortretenden,von zwei Der vollrund geschnitzten weibgeschnitzt mit gefligelten Engelskopfen zwischen Fruchtgehangen, Mas-
+lich des Oberbaues zwei figelformige Ansatze mit Karyatiden,Hermen und Mascarons. Prachtstiick von elegantem Aufbau,vortreffllicher Ausfihrung und tadelloser, durchweg originaler Erhaltung. Um 1630. Fundstatte ,Eiserfei. Abgebildet und beschrieben in der Kolner Bauund Kunst-Gewerbe-Zeitung. Jahrg. 1888, Heft 2.
+
+Hohe 182,Breite 140,Tiefe 57 Cent.
+
+- 6 Kleiner Aufsatzschrank, in Eichenholz reich geschnitzt.Das Untertheil kastenformig mit zwei grossen Thuiren, die in durchbrochener Arbeit zwei grossere Wappenschilder auf reicher Helmdecke zeigen. Der Fries der dariber1 liegenden grossen Schieblade zeigt in entippigen Laubranken.Das zuricktretende, sich iber einem offenen Raume aufbauende schobener Rautenform mitVexirschloss haben.
+- Obertheil ist mit zwei kleinen Thiiren verschlossen, die in aparter Weise in der Mitte zwischen dem in Groteskfiguren bestehenden Schnitzwerk eine in Laubranken durchbrochene zierliche Eisenrosette in verObenund unten entsprechend ornamentirte Eisenbander. Zwischen den beiden,wie das gesammte Schnitzwerk, in weit vortretenden Proflleisten vertieft liegenden Thiiren steht in einer Nische auf Sockel eine in Buchsbaum vorziglich ausgefuihrte,ungemein edel gehaltene Statuette der Madonna, auf dem rechten Arme das Jesukind,in der Linken einen Blumenstrauss haltend. Die Seitenfuillungen mit Hohlkehlen. Kostbares elegantes Mobel. Um 1520. Fundstatte ,Abtei Steinfeld."
+
+Hohe 165,Breite 89,untere Tiefe 52,obere 33 Cent.
+
+- 7 Buffetschrank in Eichenholz geschnitzt. Untertheil und Obertheil welche durch zwei Schiebfacher und ein offenes Mittelfeld verbunden
+- reliefierte Lowenkopfe zwischen Rollen-und Walzwerk,auf dem Obertheil die Wappen der Familien von Wilig (Wedig) und von Loe mit reichen Helmdecken zeigen.Der Fries der Kappe mit aus Mascarons erwachsenden Laubranken und stark vortretenden Lowenkopfen. Sehr
+
+Hohe 170, Breite 120,untere Tiefe 55,obere 42 Cent.
+
+- 8 Credenzschrank, jetzt Bucherschrank. Das Untertheil kastenformig mit einer zwischen zwei schmalen Fillungen liegenden Thire und zwei dariber befindlichen Sehiebfachern,die sammtlich reich durchbrochen geschnitzt mit Laubwerk in Holbeins Geschmack, theils in Masken endigend. Dasselbe umgrenzt auf den Schiebfachern zwei kleine gemalte Wappenschildchen.Das Obertheil stark zurucktretend, offen
+mit zierlichem Aufsatz, dessen schmaler Fries reiche aus Mascarons erwachsende Laubranken zeigt. Sehr hubsches Mobel.Um 1540. Fumdstatte ,,Koln"
+
+Hohe 110,Breite 80,untere Tiefe 55,obere.45 Cent.
+
+- 9 Hoher doppelthuriger Kleiderschrank in Eichenholz;an den Ecken wenig geschragt; der Sockel auf fachen Kugelfissen ruhend. Die Thiren in je drei Kompartimente getheilt mit Leistenverzierungen in geometrischer Anlage;dieselben sind seitlich und in der Mitte von kannelirten Saulen mit reich ornamentirten Vasen und Capitellen fankirt. Die Kappe mit stark vortretendem Gesims mit Bossen und vollrund vortretenden Mascarons.Besterhaltenes Mobel. Um 160O. Fundstatte",Koln".
+
+Hohe 250,Breite 180, Tiefe 70 Cent.
+
+- 10 Schreibschrankchen in architectonischer Form mit oberer Kuppel und
+- zahlreiehen Schiebfachern und huibschen Bronzeknopfchen, theils in Form von Engelskopfen.Interessante schone Schreinerarbeit. XVII.Jahrh. Hohe 46, Lange 48, Tiefe 34 Cent.
+- 11 Gothische Commode,Eichenholz,mit 4 Schiebfachern mit schildfor-
+
+Hohe 102,Breite 146, Tiefe 67 Cent.
+
+- migen Schlisselblechen und herzformigen Griffen.Aus St.Maria im Capitol in Koln stammend.
+- 12 Kleine Truhe, nach unten wenig ausgeschweift und auf fantastischen Thierfiguren ruhend. Eichenholz. Die Frontseite ist im ippigsten Renaissancestyl uiberaus reich geschnitzt mit Holbeinlaubwerk,theils mit figuralen Endigungen, fabulosen Thieren etc., welche auf den beiden Hauptfuillungen vollrund vortretende charakteristische Medaillonkopfe umrahmen. Reiche Eisenbeschlage,Rosetten und grosse schildformige Schlossplatte. Sehr schones Mobel von reicher und edler Ornamentirung. Um 1560.Fundort,Vicariat Rohe" geschmackvoll
+
+Hohe 64,Breite 102, Tiefe.47 Cent.
+
+- 13 Truhe.Die Frontseite in reichster Intarsienarbeit mit breiten Ornamentfriesen als Umrahmung von vier Fullungen, von denen die mittleren zwei Wappen aus dem Munizipaladel heim Biirgermeisters von Coln und der Catharina von Federhenn, des Casper von Mihlseiner Gattin 一 zeigen, die sich in dunkler Farbung von dem Goldtone des Untergrundes wirkungsvoll abheben. Um 1590.Fundstatte ,Koln" Sehr hubsches Mobel.
+
+Hohe 67, Breite 318, Tiefe 52 Cent.
+- 14 Truhenvorsatz mit reicher Sehnitzarbeit.
+
+Hohe 65,Breite 132 Cent.
+
+- 15 Zwei Thuren,reich geschnitzt, gothisch 1524, aus dem Refectorium Minuskel-Aufschrift.In der einen bekennt sich der Urheber des Ge-
+- der Abtei Steinfeld. In der Mitte der Thiren befinden sich unter dem ausgezeichnet schonen Wappen mit stilisirten Helmdecken je eine sammtwerkes im Refectorium:Hoc opus elaboratum per Hilde de Rineck Abbas".Die sehr interessanten Sticke sind beschrieben und abgebildet in der Kolner Kunst- und Gewerbe-Zeitung Jahrgang 1888 Heft3.
+- 16 Gothische Thure,in den oberen Feldern Wappen.
+- 17 Ballenklapptisch. Der Schragen dreiseitig, die Platte achteckig. Die langlichen Ballen und die Traversen mit Schnitzwerk und Ebenholz-
+- einlage.
+
+Hohe 77, Diam. 93 Cent.
+
+- 18 Ballentisch mit vier durch geschragte Kreuzform verbundenen Fissen mit Kugelballen. Nussbaumholz mit Einlagen und Aufagen in Ebenholz. Die Traversen geschnitzt mit Schnecken und Palmetten. XVII. Jahrh.Fundstatte ,Koln."
+
+Hohe 78, Lange 115, Breite 88 Cent.
+
+- 19 Ballentisch. Der Schragen dreieckig, die Platte finfeckig; die Ballen geschnitzt, der Schragen mit Ornamenteinlage. XVIl. Jahrh. Hohe 75, Lange 110, Breite 60 Cent.
+- 20 Kleiner Ballentisch, ausserst zierlich, mit Einlage in Ebenholz; die langlichen Ballen der vier durch geschragte Kreuzform verbundenen Stollen auf der oberen Halfte bossirt; die Traversen durchbrochen ge-
+- schnitzt. Sehr hibsches Mobel. XVIl. Jahrh. Fundstatte ,Koln" Hohe 75,Lange 75, Breite 66 Cent.
+- 21 Viereckiger Tisch; der Schragen in gothischem Style geschnitzt; die
+- Platte eingelegt. Hohe 78, Lange 140, Brcite 84 Cent.
+- 22 Tafeltuch in Gebild zu 3O Personen, mit Ritterfiguren und Jagdscenen.
+- 23 Klappsessel, in Form der alten Sella mit S-formig geschwungenen Wangen, die auf der Vorderseite Laubwerk mit Delphinornament in Schnitzarbeit zeigen; als oberer Abschluss der hinteren Lehne schlafende mascaronartige Kopfe. Sehr seltenes Mobel, holbeinisch. Fund-
+
+Grosste Hohe 118 Cent.
+
+- statte ,Koln".
+- 24 Lehnsessel; das Gestell iberaus reich geschnitzt, die auf Lowenklauen ruhenden Fisse gedreht. Die Lehnen mit Palmetten und vollrunden Engelskopfen als Handhaben; als Aufsatz der von geschnitzten und von vollrunden gefugelten Engelskopfen iberragten Friesen eingefassten Ruckwand e ein reich geschnitztes Wappen in einem von zwei Putten gehaltenen Lorbeerkranze. Sitz und Ruickwand mit geblimtem Seidenstoff bezogen. Sehr schones Stick. Um 1650. Fundstatte ,Dusseldorf".
+
+Hohe 130 Cent.
+
+- 25 Armsessel; das Gestell reich geschnitzt mit Palmetten und Laub-
+
+Hohe 118 Cent.
+
+- ranken, zwischen denen auf der oberen Ruickenlehne eine Puttenfigur; die Fuisse und Tragstollen gedreht. Sitz und Ruckwand mit Rohrgeflecht. XVII. Jahrh.
+- 26/27 Ein Paar Lehnsessel; das Gestell reich geschnitzt mit Palmetten
+- und Laubranken; die Ruckwand von Lowenkopfen und Mascaron iberragt. Sehr schones Mobel. XVII. Jahrh.
+
+Hohe 105 Cent.
+
+- 28 Funf Holzstuhle, sog.,Rubensstihle. Stollen und Mittelbalken reich profilirt; die mittleren Traversen der von Mascarons iberragten Ruck-
+
+Hohe 100 Cent.
+
+- 29 Drei Stuhle, hnlich, die Mitteltraversen mit dem Kolnischen Wappen und Jahreszahl 1731.
+
+Hohe 100 Cent.
+
+- 30 Drei hohe Stuhle; das Gestell gedreht;Sitz und Ruckwand mit Stoff
+
+Verschiedene Grosse.3 Stick
+
+- 31 Renaissance-Mantelbrett, unter dem stark vortretendem Gesims in zwei mit Laubwerk geschnitzten Bogen ausgeschweift.
+
+Lange 50, Breite 118 Cent.
+
+- lehne mit mittlerer Rosette.
+- bezogen.
+- 32 Handtuchhalter in Form einer nach Art der Luisterweibchen vorziglich
+- geschnitzten interessanten weiblichen Costimbuste mit hoher Frisur und breitem aufschlagendem Kragen. Sehr schones Stick. Ende XVI. Jahrh. Fundstatte ,Koln"
+
+Lange 54 Cent.
+
+- 33 Etagere, viertheilig,in Karthauserarbeit, mit doppeltgewundenen Saulchen und Ballustraden. Ende XVII. Jahrh. Fundstatte ,Leudesdorf"
+- Hohe 72, Breite 55 Cent.
+- 34 Grosser Spiegel.Der Rahmen reich geschnitzt und verschiedenfarbig vergoldet. Derselbe bildet einen theils vollrund hervortretenden Fruchtkranz, der von seitlich iber ippigen Fruchtbouquets schwebenden Engelsfiguren gehalten wird.Als oberer Aufsatz das polychromirte stadtkolnische Wappen uiber reicher Helmdecke. Sehr schones Stick. Um 1650.
+
+Hohe 128,Breite 115 Cent.
+
+- 35 Kleiner Spiegel; der Rahmen reich geschnitzt mit reicher,theils frei aufliegender Blumenguirlande, die von einem, den Spiegel oben iberragenden Adler gehalten wird. Vergoldet. 2. Halfte des XVIl. Jahrh.
+- Hohe 78, Breite 62 Cent.
+- 36 Grosser in Eisen geschmiedeter gothischer Kronleuchter; ringformig mit reichen Schneckenverzierungen durchbrochen und von Lilien tiberragt; mit drei vortretenden Armen zu je acht Lichtern mit blumenformigen Tellern.Derselbe hangt an vier zwischen einer reich ornamentirten Krone vereinigten Tragketten. Sehr seltenes und sehr schones interessantes Stuick.(Zeit Maximilian's).Fundstatte ,Rheinbach"
+
+Grosster Diam. 102 Cent.
+
+- 37 Gothischer Thurklopfer in Eisen; die obere Platte des Ringes in
+- Fischblasen durchbrochen,die Wandplatten durchbrochen und getrieben mit reizvollen gothischen Ranken.
+
+Lange 16,Diam.d.Unterplatte 16 Cent.
+
+- 38 Grosser Thurklopfer im Renaissancestyl,in Eisen geschmiedet; die Platte in Form des gekronten Doppeladlers. Fundstatte ,Erpel." Lange 37, Breite 27 Cent.
+- 39 Hoher Messingleuchter mit Tellerfuss und proflirtem Schaft. XVII.
+- Jahrh.
+
+Hohe 25 Cent.
+- 40 Wandleuchter in Messing getrieben. Wandplatte,Teller und Mittel-
+
+Lange 27 Cent.
+
+- knauf mit Buckeln.Interessantes Stick. XVII. Jahrh.
+- 41 Wagebalken, in hibscher Profilirung in Eisen geschnitten und mit durchbrochenen Endknopfen; der Sockel der Zunge in Form des deutschen Reichsadlers mit dem Kolnischen Wappen im Brustschilde. Interessantes Stiick.
+
+Lange 47 Cent.
+
+- 42 Siegburger Henkelkanne, weiss, in Birnform, der Korper in geriefter und gefurchter Ornamentation.
+
+Hohe 21 Cent.
+
+- 43 Schraubflasche in Serpentinstein; der Korper gefurcht.
+
+Hohe 16 Cent.
+
+- 44 Flasche in Serpentinstein,vielseitig und mit Zinnverschluss.
+
+Hohe 18 Cent.
+
+- 45 Jagdbesteck. Messer und Gabel zum Zusammenklappen; die Griffe Horn mit Messingapplicationen. XVII. Jahrh.
+
+Verschiedene Grosse. In Lederetui.
+
+- 46 Kleines ovales Marmormedaillon mit der Proflbiste der Konigin Louise
+
+Hohe 9i/2, Breite 8 Cent.Gekittet.In Goldrahmen.
+
+- in gelocktem Haar und reichem Diadem.Vorziglich ausgefuhrt von Landolin Ohmacht.
+<!-- image -->
+
+## Gemalde.
+
+## Kolnische Schule aus dem Ende des XV. Jahrh.
+
+- 47 Klappaltarchen.Das Mittelbild zeigt in einer Steinnische die Halbfigur der Madonna in rothem Kleide und blauem Mantel, dem vor ihr auf Kissen sitzenden Jesukinde eine Birne reichend.Auf den Innenfugeln die Standfiguren der hl. Katharina und Barbara,auf den Aussenfugeln eine Darstellung des englischen Grusses in zwei Standfiguren. Interessantes anmuthvolles Bildchen in Originalfassung.
+
+Hohe 39,Breite 70 Cent.
+
+## Jaan Martss de Jonghe (Manier).
+
+- 48 Zwei Reitergefechte. Lebendig componirte Darstellungen im Vorgrunde von Hugellandschaften. Zwei interessante gute Skizzen.
+
+Holz.Hohe 19,Breite 24 Cent.
+
+## Hyacinthe Rigaud (Schule.)
+
+- 49 Bildniss eines Fursten. Halbfgur nach rechts gewandt, den Kopf mit langer Allongepericke ganz en face, in ornamentirtem Harnisch mit kleiner Halskrause.Lebenswahre Auffassung. Oben links das gekronte Wappen auf Hermelinmantel.
+
+Leinwand.Hohe 8O,Breite 62 Cent.Geschnitzter Rahmen.
+
+## Laurenz Strauch.
+
+- 50 Mannliches Bildniss. Gurtelbild eines Mannes in mittleren Jahren in Dreiviertel nach 1cchts gewandt, in schwarzem Rocke mit breitem eine Blume, in der Linken die Handschuhe. Sehr schones charaktervolles Bild. Oben rechts die Aufschrift:,Simon Engelschall seines Alters
+- 44.1608. Darunter das Monogramm des Meisters.
+
+Leinwand. Hohe 100,Breite 78 Cent.
+## Unbekannte Meister.
+
+- 51 Bildniss einer Edeldame. Kniefgur, fast en face,in schwarzem Kleide mit Spitzenarmeln und Spitzenkragen, die Rechte auf einen Stuhl stitzend, welcher das Wappen tragt.
+
+Leinwand. Hohe 112,Breite 88 Cent.
+
+- 52 Bildniss eines Scaliger von Verona. Lebensgrosses Brustbild nach rechts, gradeaus blickend mit blondem Lockenhaar und gelbem Koller mit Schlitzarmeln. Ueber dem Harnisch ein breiter weisser Kragen; rechts Blick in eine Gebirgslandschaft;links oben das Wappen. Sehr gutes Bild.
+
+Leinwand.Hohe S2,Breite 64 Cent.
+
+- 53 Bildniss eines Ritters. Lebensgrosses Brustbild mit langem in Locken herabfallendem blondem Haar,in Brustharnisch mit eng anliegendem breiten Kragen.Oval.
+
+Leinwand. Hohe 78,Breite 68 Cent.Geschnitzter Rahmen.
+
+- 54 Bildniss eines Gelehrten. Lebensgrosses Brustbild in Dreiviertel-Wendung nach rechts mit hohem Hut und schwarzem Gewande und breiter Halskrause,in der Linken ein Buch haltend.
+
+Leinwand.Hohe 72,Breite 56 Cent.
+
+- 55 Zwei Stillleben.Oelskizzen auf Leinwand.
+
+Hohe 9,Lange 101/2 Cent.
+
+- 56 Ansicht von Andernach. Sehr interessante Federzeichnung des XVI. Jahrh. Oben rechts das von Engeln gehaltene Stadtwappen.
+
+Hohe 26, Breite 44 Cent. In Rahmen unter Glas.
+
+<!-- image -->

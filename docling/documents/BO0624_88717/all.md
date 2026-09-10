@@ -1,0 +1,703 @@
+## OSWALD ACHENBACH
+
+geboren 1827 zu Dusseldorf, gestorben 1905 daselbst.
+
+## MONDSCHEIN AM GOLFVONNEAPEL
+
+Am Strand des Vordergrunds zahlreiche Figuren. Am rechten Bildrand erhoht liegende Gebaude uber einem beleuchteten Hafen.Links,jenseits einesWassrarmsndemsierllmondiegeltdiedunkleihou eines mit Gebauden besetzten Felsens. Tiefblauer bewolkter Nacht= himmel.
+
+Leinwand 78/100
+
+Links unten bezeichnet: Osw.Ahenbad 1888.
+
+&lt;Abbildung nebenstehend.&gt;
+
+## 2 CARL FRIEDRICH DEIKER
+
+geboren 1836 zu Wetzlar, gestorben 1892 zu Dusseldorf.
+
+## KOPF EINES HUNDES MIT REBHUHN
+
+Gegen blauen Himmel steht der Kopf eines braun und weib gefledkten
+
+Huhnerhundes, der ein Rebhuhn im Maul halt.
+
+Leinwand,oval 44/33
+
+Rechts unten bezeicnet: C.F. Deiker.
+## FIRMIN BAES
+
+geboren 1874 zu Brussel, lebt daselbst.
+
+## DAS TISCHGEBET
+
+Ein Bauernpaar sitzt betend an einem Tish,auf dem EB= und Trink= Sonnenlicht falt durch ein ruckwartiges kleines Zimmer auf die Gestalt
+
+Gerate, ein Brot und eine Shussel mit dampfenden Kartoffeln stehen. des Alten.
+
+Pastell 100/138
+
+Rechts unten bezeichnet:Firmin Baes 1909.
+
+&lt;Abbildung nebenstehend.&gt;
+
+## ALOIS ECKARDT
+
+geboren 1845 zu Lidhta,gestorben 1906 zu Munchen.
+
+## MADCHENKOPF
+
+Gegen dunklen Hintergrund hebt sid der hellbeleuhtete, von dunkel grunem Tuch umrahmte Kopf einer jungen Frau ab.
+
+Holz48,5/41
+
+Rechts unten bezeichnet:Alois Ekardt 79.
+## GREGORVON BOCHMANN
+
+geboren 1850 in Estland, lebt in Dusseldorf.
+
+## ESTNISCHE LANDSCHAFT MITSTAFFAGE
+
+Unter dem hohen bewolkten Himmel dehnt sich eine flache Landschaft mit kartoffelerntenden Bauern im Hintergrund. Im Vordergrund ein schmaler Weg mit Reiter, daneben Bauernkarren und Pferd.
+
+Leinwand57/80
+
+Links unten bezeicnet: G. v. Bochmann.
+
+(Abbildung nebenstehend.&gt;
+
+## ESTNISCHE LANDSCHAFT
+
+## MITSTAFFAGE
+
+In der kalkweiBen Landshaf fahrt ein Planwagen dem Bauernhaus im Hintergrund zu. Rechts davon wassertragendes Bauernmadhen. Be= wolkter Himmel.
+
+Leinwand57/80
+
+Rehts unten bezeidnet: G. v.Bohmann.
+
+(Abbildung nebenstehend.&gt;
+## GREGOR VON BOCHMANN
+
+geboren 1850 in Estland, lebt in Dusseldorf.
+
+## BAUER MIT PFERDEN
+
+IneinWilananupeinit und fuhrt ein Pferd an einer Leine.
+
+Holz13/9
+
+Links unten bezeichnet: G. v. Bochmann.
+
+## 8 AM STRAND VON SCHEVENINGEN
+
+Durh das seidhte Wasser des Strandes fahrt ein Bauernfuhrwerk vor dem Segelkutter im Hintergrund.
+
+Gegenstudk zu Vorigem,
+
+Rechts unten bezeichnet: G.v.Bochmann.
+## JOSEF VON BRANDT
+
+geboren 1841 zu Szczebrzeszyn, gestorben zu Munchen.
+
+## AUS DEM 3O-JAHRIGEN KRIEG
+
+Auf einem Weg sind zwei Reitertrupps kampfend aneinandergeraten. Dihter Pulverdampf verhullt die rudwartigen Gestalten. Rechts dichte Kieferngruppe vor dunkelgrau bewolktem Himmel.
+
+Leinwand 89/169
+
+Links unten bezeichnet: Josef Brandt z. Warszawy 1878.
+
+(Abbildung nebenstehend.)
+
+## 10 CHRISTIANFRIEDRICH MALI
+
+geboren 1832 zu Brockhuizen,gestorben 1905 zu Munchen.
+
+## HEIMKEHRENDE BAUERN
+
+Im flahen Wasser eines Seeufers, unter hohem,leuchtendem Abend= himmel, steht eine Kuhherde; dahinter, neben zwei braun belaubten
+
+Baumen, ein beladenes Fuhrwerk mit Bauern.
+
+Leinwand52/99,5
+
+Links unten bezeicnet: Christian Mali Munchen 1879.
+12
+
+## ANTON BRAITH
+
+geboren 1836 zu Biberah,gestorben 1905 daselbst.
+
+## JUNGVIEH
+
+Ueber eine Wiese sturmt eine Herde Kalber dem Vordergrund zu. Ruckwarts auf der Anhohe eine Bauerin vor der dunstigen Ferne mit
+
+Bauernhausern und Baumgruppe.
+
+Leinwand 44/56
+
+Links unten bezeichnet: Anton Braith Munhen.
+
+(Abbildung nebenstehend.&gt;
+
+## LOUIS DOUZETTE
+
+geboren 1834 zu Tribsees, gestorben 1923 zu Barth a. d. Ostsee.
+
+## MONDSCHEINLANDSCHAFT
+
+Ueber sumpfigem Gelande,mit Baumgruppe und einer Kuh im Vorder= grund,steht der bewolkte,vom Mond beleuhtete Himmel, der si in dem Wasser des Mittelgrundes spiegelt.
+
+Leinwand 50/70
+
+Rechts unten bezeichnet: Louis Douzette.
+
+(Abbildung nebenstehend.&gt;
+14
+
+## HEINRICH BURKEL
+
+geboren 1802 zu Pirmasens, gestorben 1869 zu Munchen.
+
+## HEUERNTE BEI HERAUFZIEHENDEM GEWITTER
+
+Im Vordergrund einer Wiesenlandschaft Heuwagen, den Bauern eilig beladen.Von links rudkwarts zieht ein Weter uber dem Vorgebirge auf.
+
+Leinwand27/37
+
+Rechts unten bezeichnet: H. Burkel.
+
+(Abbildung nebenstehend.&gt;
+
+## CARL JUTZ SEN.
+
+bei Coblenz.
+
+geboren 1838 zu Windshlag i. B., gestorben 1916 zu Pfaffendorf
+
+## ENTEN AMWASSER
+
+An dem mit Weiden bestandenen Ufer eines Baches und auf dem
+
+Wasser zahlreiche Enten mit ihren Jungen. Rechts im Hintergrund Bauernhauser und Baumgruppen.
+
+Leinwand 35/57
+
+Links unten bezeichnet: Carl Jutz 75.
+
+&lt;Abbildung nebenstehend.&gt;
+## CARL FRIEDRICHDEIKER
+
+geboren 1836 zu Wetzlar,gestorben 1892 zu Dusseldorf.
+
+## APPORTIERENDER HUND
+
+In hohem Gras,vor lichter Baumgruppe, steht ein schwarzer Jagdhund einen Hasen apportierend.
+
+Leinwand 56/70
+
+Rechts unten bezeicnet: C.F. Deiker f 89.
+
+(Abbildung nebenstehend.&gt;
+
+## 16 KARL BENNEWITZVONLOEFEN
+
+geboren 1826 zu Thorn, gestorben 1895zu Eutin.
+
+## TIROLERLANDSCHAFT
+
+## MIT BERGSEE
+
+Flaches, grasbewahsenes und steiniges Ufer schlieBt die dunkelblaue Seebuht ein. Rechts rudwarts beginnender Tannenwald, rects und im Hintergrund ansteigende Berghange.
+
+Leinwand 61/95
+
+Rechts unten bezeichnet:Bennewitz.
+
+(Abbildung nebenstehend.&gt;
+18
+
+## LUDWIG MUNTHE
+
+geboren 1841 zu Aaren, gestorben 1896 zu Dusseldorf.
+
+## ABENDLICHE WINTERLANDSCHAFT
+
+In einer winterlichen Flachlandshaft unter hohem, bewolktem Himmel, geht eine Frau dem Vordergrund zu. Am Horizont steht die feurige Sheibe der untergehenden Sonne, die sid in dem Wasser der Landshaft spiegelt.
+
+Holz54/35,5
+
+Rechts unten bezeichnet: L. Munthe.
+
+(Abbildung nebenstehend.&gt;
+
+## LUDWIG DILL
+
+geboren 1848 zu Gernsbadh b.Baden, lebt in Karlsruhe.
+
+## ITALIENISCHES FISCHERBOOT
+
+Auf leidhtbewegtem Wasser ein Segelboot mit ausgelegtem Netz.Hoher, bewolkter Himmel.
+
+Leinwand 85/70
+
+Links unten bezeichnet: L. Dill 85.
+
+(Abbildung nebenstehend.&gt;
+20
+
+## ALBERTFLAMM
+
+geboren 1823 zu Koln, gestorben 1906 zu Dusseldorf.
+
+## LANDSCHAFTBEINEAPEL
+
+Im Vordergrund schmaler Weg mit Figuren zwischen Ruinen und Wein= bergen; rudkwarts die Ebene, aus der in dunklem Blau ein Berg empor= steigt. Im Hintergrund der glatte Meeresspiegel in hellem Blau unter leichtbewolktem Himmel.
+
+Leinwand 102/152
+
+Links unten monogrammiert:O.A.Oswald Ahenbadh&gt;
+
+und bezeichnet:A.Flamm.
+
+(Abbildung nebenstehend.&gt;
+
+## CARL MUCKE
+
+geboren 1847 zu Dusseldorf, gestorben daselbst.
+
+## HOLLANDISCHES INTERIEUR
+
+In einer Stube steht,an einen Tish gelent,eine junge Hollanderin und spielt mit einer Katze. Links im Stuhl ihr Kind.
+
+Leinwand 70/51
+
+Links unten bezeichnet: Carl Mude Ddf.
+## JULIUSROBERT BEYSCHLAG
+
+geboren 1838 zu Nordlingen, gestorben 1906 zu Munhen.
+
+## DES RITTERS ABSCHIED
+
+Am FuB einer Treppe nimmt ein Ritter von seiner Familie Abschied.
+
+Rechts rudkwarts, unter einem Torbogen, der Knappe mit dem Pferd.
+
+Leinwand 88/106
+
+Links unten bezeichnet:Robert Beyschlag Munchen.
+
+Erwahnt in Muller-Singer, Bd. I S. 122.
+
+(Abbildung nebenstehend.&gt;
+
+## 22 THEODOR FUNCK
+
+geboren zu Dusseldorf, gestorben 1921 daselbst.
+
+## DER HEIRATSANTRAG
+
+In der Werkstatt sitzt der alte Schuster und maht einer vor ihm sitzenden
+
+Frau einen Antrag. Rechts auf einem Schemel der Schusterlehrling.
+
+Leinwand86/117
+
+Rechts unten bezeichnet: Th.Funck.
+
+(Abbildung nebenstehend.&gt;
+## EDUARDVON GEBHARDT
+
+geboren 1838 zu St. Johann (Estland), gestorben 1925 zu Dusseldorf
+
+## DIE GATTIN DES KUNSTLERS ALS HOLLANDISCHE PATRIZIERSFRAU
+
+Vor grunlidgrauem Hintergrund in braunem, goldgesticktem Gewand, mit weiber Halskrause, spitzenbesetzten Manschetten und Spitzenhaube. Die Linke halt einen Federfacer.
+
+Holz 87/60
+
+Rechts oben bezeichnet:E. v.Gebhardt 1908.
+
+&lt;Abbildung nebenstehend.&gt;
+
+## 24 HUGO MuHLIG
+
+geboren 1854 zu Dresden,lebt in Dusseldorf
+
+## HUHNERHOF
+
+Auf einer mit Obstbaumen bestandenen Wiese sonnen sich zahlreide Huhner und ein TruthahnRehts vor der Hutte liegt shlafend ein Hund.
+
+Holz32/44
+
+Rechts unten bezeidnet: Hugo Muhlig.
+26
+
+## OTTO GEBLER
+
+geboren 1838 zu Dresden, gestorben 1917 zu Munhen.
+
+## BESUCH IM STALL
+
+Vor der dunklen Stallwand die hellbeleudhtete Gruppe von Shafen und Lammern, die erstaunt das im Vordergrund kauernde Kind betrachten.
+
+Im Vordergrund links drei Kaninchen mit Kohl.
+
+Leinwand97/144
+
+Links unten bezeichnet: Otto Gebler Munchen 1876.
+
+(Abbildung nebenstehend.&gt;
+
+## HUGO MUHLIG
+
+geboren 1854 zu Dresden, lebt in Dusseldorf.
+
+## DORFSTRASSE IM WINTER
+
+Ueber eine tief verschneite Strabe,mit Bauernhausern zu beiden Seiten，
+
+geht ein Handwerksbursche und Bauerin mit Kind.
+
+Karton13,5/22,5
+
+Rechts unten bezeidnet: Hugo Muhlig.
+27
+
+## CARL KRONBERGER
+
+geboren 1841 zu Freystadt, gestorben zu Munhen,
+
+## KOPFEINESALTEN
+
+Brustbild eines alten Mannes,Zigarre rauhend,nadh rehts.
+
+Holz 17/12,5
+
+Links oben bezeichnet: C. Kronberger.
+
+&lt;Abbildung nebenstehend.&gt;
+
+## 28 OTTO GEBLER
+
+geboren 1838 zu Dresden, gestorben 1917zu Munchen,
+
+## SCHAFMITLAMM
+
+Gegen dunkelbraunen Hintergrund stehen die Kopfe eines Shafes und eines Lammes.
+
+Holz15/20
+
+Links bezeichnet: Otto Gebler.
+
+(Abbildung nebenstehend.)
+## PAUL HOECKER
+
+geboren 1854 zu Oberlangenau, gestorben 1910 zu Munhen.
+
+## DER BUROKRATIM BIERSTUBL
+
+Vor holzgetafelter Wand sitzt ein Mann in schwarzem Rodk neben dem Tish mit Bierkrug und Rettichen.
+
+Holz32/23,5
+
+Rechts unten bezeichnet:P. Hoedker Mhen.80.
+
+&lt;Abbildung nebenstehend.&gt;
+
+## 30 EDUARD GRUTZNER
+
+geboren 1846 zu GroBkarlowitz,gestorben 1925 zu Munchen.
+
+## BRUDER TRAUBENLESER
+
+Vor einerMauermit Weinranken steht einMoncinbraunerKutteblaur
+
+Shurze und einer Kiepe, und halt eine Weintraube in seinen Handen.
+
+Holz38/30
+
+Rechts unten bezeicnet: Ed. Grutzner.
+
+(Abbildung nebenstehend.&gt;
+## CARL IRMER
+
+geb.1834 zu Babitz (Brandenburg), gest:1900 zu Dusseldorf
+
+## KUHHERDE AM WALDRAND
+
+Auf hellgrunem Wiesengrund unter dunkelgrun belaubten Baumen lagerteineKuhherdeRukwartsweiteEbenemitFigurenundeinGutshof
+
+Leinwand 80/120
+
+Rechts unten bezeidnet: C.Irmer 79.
+
+&lt;Abbildung nebenstehend.&gt;
+
+## 32 VICTOR WEISHAUPT
+
+geboren 1848 zu Munhen, gestorben 1904 zu Karlsruhe,
+
+## AUF DER WEIDE
+
+Auf saftiggrunem Weideplatz mit jungen Obstbaumen steht neben einem grasenden Ochsen im Vordergrund ein Bauernmadhen, das von einem Burschen angesprocen wird. Jenseits der Weide Blick in die Ebene mit einem Kirhturm zwishen Baumen.Blabrot gefarbter Abendhimmel.
+
+Leinwand 100/135
+
+Rechts unten bezeidnet:V.Weishaupt,Munhen.
+
+(Abbildung nebenstehend.&gt;
+## ALEXANDER JOHNSTON
+
+geboren 1815 zu Edinburgh, gestorben 1891 zu Hampstead.
+
+## DIE VERHAFTUNG DES REFORMATORS JOHN BROWN
+
+An weibgededktem Tisch mit Speiseresten zahlreiche Personen in leb hafer Bewegung. An dem linken Bildrand, in der offenen Tur, zwei Reisige und davor der ProfoB, der den Reformator verhaftet.
+
+Leinwand 119/170
+
+Links unten bezeichnet: Alex.Johnston 1856. Ehemals in der Kunsthalle, Hamburg. Erwahnt in Muller-Singer,Bd. II S. 279.
+
+&lt;Abbildung nebenstehend.&gt;
+
+## 34 ERICH NIKUTOWSKI
+
+geboren 1872 zu Dusseldorf, lebt daselbst.
+
+## ANSICHT VON OBERKAUFUNGEN
+
+Die ziegel und dunkelroten Daher der kleinen Bauernhauser beherrschen das Bild. Sie werden von der massigen Kirhe uberragt. Im Vorder= grund dunkelgrune Wiese.
+
+Leinwand51/74
+
+Rechts unten bezeichnet: E. Nikutowski
+## LUDWIG KNAUS
+
+geboren 1829 zu Wiesbaden, gestorben 1910 zu Berlin,
+
+## FROHLICHE HEIMKEHR
+
+Auf schmalem Wiesenweg geht junges Bauernmadhen mit einem Kind auf dem Rudken. Vor ihr trottet eine Geis mit ihrem Zidklein.
+
+Leinwand46,5/62
+
+Rechts unten bezeicnet:L.Knaus 1886.
+
+&lt;Abbildung nebenstehend.&gt;
+
+## 36 GEORGOEDER
+
+geboren 1846 zu Aachen,lebt in Dusseldorf.
+
+## WALDWEG
+
+Von niedrigem braunen Gebusdh und hohen, dunkelgrun belaubten
+
+Baumenerenzt,furteinshmaleWegmitweiblierFiguremHint grund zu.Uber den Baumwipfeln der hellblaue, leidht bewolkte Himmel.
+
+Leinwand 63/55
+
+Rechts unten bezeichnet: G. Oeder 70.
+## GOTTHARDKUEHL
+
+geboren 1851 zu Lubedk,gestorben 1915 zu Dresden.
+
+## IMLUBECKER WAISENHAUS
+
+An der Langswand eines kahlen Zimmers,mit einzelnen Bildern, sitzen junge Madhen in einheitlicer rotbrauner Kleidung und blauen Shurzen. Links im Vordergrund und am rechten Bildrand stehen Schwestern und Helferinnen mit der Ausgabe der Suppe beschaftigt.
+
+Holz 100/126
+
+Rechts unten bezeichnet: G. Kuhl.
+
+Das Bild stammt aus der Pariser Zeit, da der Kunstler mit Max
+
+Liebermann zusammen arbeitete.
+
+Erwahnt in Muller-Singer,Bd. II S.404.
+
+&lt;Abbildung nebenstehend.&gt;
+
+## 38 GEORG ANTONRASMUSSEN
+
+geboren 1842 zu Stavanger, gestorben zu Berlin.
+
+## NORWEGISCHER FJORD
+
+Ein schmaler Wasserarm wird beiderseits von steilenFelsbergen begrenzt. Am Ufer rotgededkte Hauser, auf dem Wasser ein Nahen. Holz30,5/20
+
+Links unten bezeichnet: Ant. Rasmussen.
+## EDUARDKURZBAUER
+
+geboren 1840 zu Lemberg, gestorben 1879 zu Munhen.
+
+## GROSSMUTTER BEIM KARTENLEGEN
+
+denen eine alte Frau die Karten legt,
+
+Vor dem graugrunen Kahelofen sitzen am Tish mehrere Bauernmadhen,
+
+Holz54/75
+
+Rehts unten bezeichnet:E.Kurzbauer, Munhen 75.
+
+&lt;Abbildung nebenstehend.&gt;
+
+## 40 JOSEFSCHEURENBERG
+
+geboren 1846 zu Dusseldorf, gestorben 1912 zu Berlin.
+
+## ALTDEUTSCHEREDELMANN
+
+BrustbildordunklbraunemHintergrunda linksraunrotesWam mit weibemKragen,langesraunes Haar und Spitbart
+
+Holz29/24,5
+
+Links oben bezeichnet:Jos.Sheurenberg Ddf.1870.
+## FRANZVON STUCK
+
+geboren 1863 zu Tettenweis, gestorben 1919 zu Munhen.
+
+## BILDNIS DER GATTIN DES KUNSTLERS
+
+Brustbild nah rechts, den Kopf mit shwarzem Haar dem Beschauer zugewandt. Den Hintergrund bildet der helle Himmel aber lihtgruner
+
+Landschaft.
+
+Pastell54/46
+
+Rechts unten bezeichnet: Franz v. Studk.
+
+(Abbildung nebenstehend.&gt;
+
+## 42 FRANZVONLENBACH
+
+geboren 1836 zu Shrobenhausen, gestorben 1904 zu Munchen.
+
+## BILDNIS
+
+## FRAU PROFESSOR TONIVONSTADLER
+
+Brustbild nah rehts mit braunem Haar und dreifader Perlenkette.
+
+Pastell 60/48
+
+Auf der Rudkseite Edhtheitsbestatigung.
+
+(Abbildung nebenstehend.&gt;
+43
+
+44
+
+## TITOLESSI
+
+geboren 1850 zu Florenz, lebt in Paris.
+
+## BEIMKARTENSPIEL
+
+An rundem steinernen Tish,unter lihten Baumgruppen, sitzen drei
+
+Manner in Rokokotracht beim Kartenspiel.
+
+Holz24/30
+
+Links unten bezeihnet: Tito Lessi.
+
+&lt;Abbildung nebenstehend.&gt;
+
+## CARLSEILER
+
+geboren 1846 zu Wiesbaden, gestorben 1921 zu Munchen.
+
+## DIE DIPLOMATEN
+
+In einem Ballsaal sitzen ein Herr im Fradk und ein General in Uniform vor einer Saalwand mit Rokokospiegel und Konsole.
+
+Holz30/38
+
+Rechts unten bezeichnet:C. Seiler 1898.
+
+(Abbildung nebenstehend.&gt;
+46
+
+## CARLSEILER
+
+geboren 1846 zu Wiesbaden, gestorben 1921 zu Munchen.
+
+## IM ATELIER
+
+In dem Atelier,mit Paravent,Srank, Bildern und Malgerat,sitzt in Maler vor der Staffelei in schwarzem Barett,hellgelbem Rodk und schwarzer Samthose.
+
+Holz 35/26
+
+Rechts unten bezeichnet:C. Seiler 1881.
+
+(Abbildung nebenstehend.&gt;
+
+## MAX TODT
+
+geboren 1847 zu Paderborn, gestorben 1890 zu Munchen.
+
+## WILLKOMMENE EINQUARTIERUNG
+
+In kahler Stube sitzt an einem Tish ein Landsknecht in grunem Wams und grauer Hose, der wohlgefallig eine junge Frau in ziegelroter Bluse, dunkelviolettem Rodk und dunkelgruner Shurze betrachtet.
+
+Holz29,5/34
+
+Rehts unten bezeicnet: M. Todt 81.
+
+(Abbildung nebenstehend.&gt;
+47
+
+48
+
+## JOHANN SPERL
+
+geboren 1840 zu Buh, gestorben 1914 zu Bad Aibling.
+
+## IM FRUIHLING
+
+Auf einer Wiese steht,an einen Obstbaum gelehnt,ein Bauernmadden， das sich das Haar mit Blumen schmudkt. Vor ihm im Gras liegt ein zweites Madhen in braunem Kleid und blauer Schurze. Leinwand 57/44
+
+Rechts unten bezeicnet: Sperl.
+
+(Abbildung nebenstehend.&gt;
+
+## FRANZ SIMM
+
+geboren 1853 zu Wien, gestorben 1918 zu Munchen.
+
+## DAME INLOUIS XVI-KLEID
+
+Halbfigur einer jungen Dameetwas nah rechts,in weibgrunem Spitzen kleid und grobem, shwarzem Hut auf blonden Lodken
+
+Holz46,5/31
+
+Links oben bezeichnet:F. Simm.
+## ERNSTZIMMERMANN
+
+geboren 1852 zu Munhen, gestorben 1902 daselbst.
+
+## DIE BOSE GANS
+
+Auf dem mit weibem Tudh bededkten Tisd halt ein Mann eine fauchende Gans. Rechts sitzende junge Frau, die ihren erschredkten Jungen festhalt.
+
+Leinwand102/142
+
+Rechts oben bezeichnet:Ernst Zimmermann Munhen 1882.
+
+(Abbildung nebenstehend.&gt;
+
+## FRANZVON STUCK
+
+- 50 geboren 1863 zu Tettenweis, gestorben 1919 zu Munhen.
+
+## DIE TOCHTER DES KUNSTLERS
+
+Der Kopf des Madchens mit shwarzen Locken dreiviertel nach rechts.
+
+Pastell 54/44
+
+Rechts bezeichnet: Franz von Stuck.

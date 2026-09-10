@@ -1,0 +1,688 @@
+<!-- image -->
+
+## TABLEAUX ANCIENS
+
+## ANTONELLO DE MESSINE
+
+(ANTONELLO D'ANTONIO,ouDEGLI ANTONI,ou)
+
+Ecole venitienne, vers 1444+vers 1493.
+
+## Saint Sebastien.
+
+Represente en buste, nu, tourne de trois-quarts a gauche, les yeux bruns leves au ciel, les cheveux abondants et blonds ramenes sur le front, boucles et pendants sur les oreilles et la nuque, il est appuyé contre une colonne de marbre.
+
+Fond noir.
+
+Bois.Haut.,315 millim.; larg.,245 millim.
+
+Exposition de la Royal Academy (1go2).
+
+Exposition du Burlington Club (1g12,no 3o).
+
+On lit, au revers du panneau,une ancienne inscription anglaise relatant une attribution erronee a Leonard de Vinci, mais attestant que le tableau fut offert a son detenteur,le 29 juillet 1796, par M. Thom. de Castle Acre. Cette peinture etait donc en Angleterre depuis le xvine siecle.
+
+Le panneau a éte double de chene, sans doute a cette epoque.
+
+Cadre recouvert d'une application d'écaille.
+## BELLINI
+
+(GIOVANNI)
+
+Venise,1428Venise,1516.
+
+2
+
+## Venus a sa toilette.
+
+La deesse est personnifiee par une jeune femme blonde, aux yeux bruns,assise sur un banc couvert d'un tapis oriental, devant une muraille percee, a gauche, d’une baie ouverte sur la campagne.
+
+nu, une écharpe rose passee autour de la taille et drapee, a gauche, sur le banc. Les meches de ses cheveux ondules, separes en bandeaux sur le front, sont enveloppees d'une étoffe de brocart a fond vert et a galon d'or,enrichi de perles.
+
+Elle est vue a mi-jambes, tournee vers la droite, le corps presque
+
+De la main droite, elle tient devant son visage un miroir enchasse dans un cercle d'or et contemple sa beaute. Le bras gauche est releve a la hauteur de l'epaule,la main appuyee derriere la tete dans un mouvement refete sur un autre miroir, de forme circulaire et accroche sur la muraille.
+
+A gauche, on apercoit par la baie un paysage accidente presentant, au flanc d'un coteau verdoyant, des constructions fortifiees au bord d'un cours d'eau. Des collines boisees, enveloppees d'une atmosphere bleuie, ferment lhorizon, sous un ciel charge de nuages dores par le soleil levant.
+
+Bois.Haut.,65 cent.;larg.,85 cent.
+
+On remarque sur le tableau plusieurs repentirs:l'artiste a notamment deplace le corps de son modele vers la droite et agrandi l'ouverture de la baie.
+
+Exposition de la Royal Academy (igo7), sour le titre: la Toilette de Venus.
+
+Une repetition de ce tableau, attribuee a Francesco Bissolo,leve de G.Bellini,est conservee au Musee de Vienne, no 13 du catalogue (ed. 1go7）. Elle offre plusieurs variantes dans la composition,notamment un vase sur l'appui de la fenetre.
+## BLOMAERT
+
+(HENDRICK)
+
+Utrecht, vers 16o1 Utrecht, 1672.
+
+3
+
+## Portrait d'un jeune magistrat.
+
+Les cheveux blonds pendant en boucles sur les épaules, le visage souriant, son vetement de velours noir en partie couvert d'un ample manteau de drap de meme couleur, un large rabat de lingerie sous le menton,il est represente debout,a mi-jambes, tourne de trois-quarts a gauche. Une main ramenee sur la poitrine, joue avec les glands de son col, l'autre souleve des feuillets poses sur une table couverte d'un tapis.
+
+Un rideau jaune est releve sur le fond.
+
+On lit, a droite, la mention :Aet.33 A°1668.
+
+Signe:H. Blomaert, les initiales enlacees.
+
+Bois.Haut., 39 cent.; larg,32 cent.
+Provient d'Arezzo.
+
+Expose au Musee Fitzwilliam, a Cambridge.
+
+Cadre en bois sculpte.
+
+## BOTTICELLI
+
+(ALESSANDRO FILIPEPI,ditSANDRO)
+
+Florence,vers 1445Florence,1510.
+
+4
+
+## La Vierge, l' Enfant Jesus et saint Jean.
+
+La Vierge, les cheveux blonds, boucles sur les epaules, les yeux bleus,est agenouillee,les mains jointes.Un voile de gaze couvre, sur les epaules, son manteau bleu ouvert sur sa robe rouge. Elle est tournee vers la gauche, adorant son divin fils. Assis sur un pli de sa robe, le corps adosse a un fut de colonne couvert de linges blancs, l'Enfant, les mains retenant une légere écharpe de mousseline, leve les yeux vers sa mere.
+
+Le petit saint Jean est debout,au second plan,flechissant les genoux, ses cheveux boucles encadrent son visage souriant; la main droite est posee sur son coeur, lautre tient la croix pastorale et une banderolle avec l'inscription: Agnus Dei.
+
+Un manteau rouge est drape sur son vetement en peau de mouton. Vers le fond, les ruines d'une arche de pierre occupent le centre de la composition; des socles de marbre sont epars sur le sol. A droite et a gauche, le paysage fuit en perspective, dansun site montagneux, ou l'on remarque, au bord d'un cours d’eau, des constructions gothiques.
+
+Bois,tondo;diam.,I m.15.
+## BOUCHER
+
+(FRANCOIS)
+
+Paris,1703+Paris, 1770.
+
+5
+
+## Jeune Femme etendue sur un sopha.
+
+Une jeune femme nue,les cheveux blonds,releves sur le front et sur la nuque, serrés sous un ruban bleu, est étendue, vue de dos, le corps tourne de profil a gauche, sur un sopha en bois sculpte et doré, garni de velours jaune damasse.
+
+Le haut du corps est releve et appuye sur le dossier lateral, galbe en forme de crosse;les bras sont accoudes,la main gauche retient un ruban bleu. Une chemise de lingerie et un drap sont froisses sous le corps de la jeune femme; la jambe droite est relevée sur un coussin blanc, l'autre jambe est allongee sur les larges plis d'un rideau jaune, qui pend a droite.
+
+A gauche,un livre est reste ouvert sur une écharpe de soie verdatre posee sur un tabouret de damas de soie cramoisie.
+
+Sur le sol, et au premier plan, une branche de roses est abandonnee. Le mur du fond est tendu de panneaux de soierie a ramages, au-dessus de lambris moulures.
+
+Signe a droite et en bas : F. Boucher, et date : 1751.
+
+Toile.Haut.,6o cent.;larg.,73 cent.
+
+Collection du Duc de Marlborough.
+
+Boucher a peint, a une date que nous croyons posterieure, plusieurs tableaux, representant, dans une attitude similaire,une jeune femme qui serait Victoire O'Murphy. Selon Paul Mantz et les notes historiques concernant Miss O'Murphy, nee le 21 octobre 1737,le maitre n²aurait connu la jeune femme qu'en 1752.
+
+La presente composition est tout a fait differente. Le modele est une autre jeune femme, dont on retrouve les traits dans les plus charmantes pastorales du maitre. Nous n'en connaissons aucune replique. Un dessin pour ce tableau a figure dans la collec- tion J. P.Heseltine (n 8 du catalogue édite a Londres en 1goo).
+## BROUWER
+
+(ADRIAEN BRAUWER, de BRAUWERE ou)
+
+Oudenarde,vers 15o5-06+Anvers,1638
+
+## Le Fumeur endormi.
+
+Un jeune homme,aux cheveux blonds,vetu de drap brun et chausse de hautes bottes molles couvrant les genoux, est assis sur une caisse de bois, de profil a droite, devant un mur sur lequel il appuie sa tete. Les yeux clos, il tient, de la main droite, une pipe en terre. Devant lui, sur un tabouret,un broc d'etain est pose,pres d'un verre de vin rouge et d'un linge blanc.
+
+Son chapeau de feutre est accroche a lextremite d'une poutre, en saillie sur une cloison de bois.
+
+Sur la muraille qui refete, au-dessus du fumeur, un vif rayon de lumiere,un dessin est fixe.
+
+Au second plan, trois hommes sont reunis autour d'une table, devant une haute cheminee; l'un est assis sur un banc, vu de dos, en veste bleue et chapeau gris a larges bords; le second, debout, ayant pris la main du premier, leve son verre; le troisieme personnage est vu de face,de l'autre cote de la table, tete nue,la barbeet les cheveux blonds, le visage rieur.
+
+Dans le fond et a droite, une femme est representee dans l'embrasure d'une porte.
+
+Des buches sont entrecroisees, au premier plan, sur le sol.
+
+Bois.Haut.,26 cent.;larg.,35 cent.
+## DELLF
+
+(CORNELIS JACOBS DELFT,ou)
+
+Delft,1571+Delft,1643.
+
+7
+
+## Portrait d’une jeune dame.
+
+A mi-corps, tournee vers la gauche, le visage de trois-quarts, les yeux bruns,le visage souriant au spectateur,elle porte, sur ses cheveux blonds, releves sur le front, une coiffe de dentelle, qui couvre les oreilles. Un collier de perles, a plusieurs rangs, entoure son cou, ainsi qu'une e large fraise a tuyautes rigides depassant un col de dentelle applique sur sa robe noire de velours broche. Une manchette de dentelle orne la manche droite.
+
+Fond gris.
+
+Signe, a droite : J. Dellf, les premieres et les dernieres lettres du nom entrelacees.
+
+On lit, également a droite, la mention : Aetatis 23 A° 1639.
+
+Bois. Haut., 70 cent.,; larg, 57 cent.
+
+Collection du Dr Martin Schubart (vente a Munich,le 23 octobre 1899,n24 du catalogue, ou il est reproduit,p. 9).
+
+Exposition deLeipzig(1889,n°47).
+
+Exposition de Munich(18g5,n19).
+
+Cf.Woltmann und Wcermann, Geschichte der Malerei, t.III, p.826;—Schlie, Repertorium fur Kunstwissenschaft,p.158;— Bredius,Zeitschrift fir bildende
+
+Kunst,p.130.
+## DURER
+
+(ALBRECHT)
+
+Nuremberg,1471 +Nuremberg,1528.
+
+8
+
+## Saloator Mundi.
+
+Le Sauveur est represente de face,la tete legerement inclinee sur l'épaule, la main droite levee pour un geste de benediction, lautre main tenant le globe, symbole de sa mission redemptrice,orne d'un joyau presentant un saphir a monture d'or et trois perles montees en triangle,a l'image de la divine Trinite.
+
+Ses levres sont entrouvertes sous une fine moustache blonde,une courte barbe, divisee en deux pointes sous le menton,porte une ombre delicate, a droite, sur le cou decouvert par sa tunique bleue,ouverte en demi cercle. Ses longs cheveux aux meches ondulees, partages par une raie mediane sur le front,retombent sur ses epaules. Son regard, d'une bonte infinie,est dirige vers la gauche.
+
+Un manteau rouge, drape sur l'épaule, couvre le bras et l'on en apercoit la teinte adoucie et decoloree en rose, a travers le cristal du globe..
+
+Fond vert.
+
+Collection Imhof.
+
+Collection Posonyi, Vienne.
+
+Collection Haller.
+
+Collection Eugen Felix, Leipzig.
+
+Exposition de la Royal Academy en 19o7, sous le titre :α Salvator Mundi .
+
+Exposition de Munich (1868).
+
+National Loan Exhibition (1gog-1g1o,n43), sous la meme designation,que nous
+
+Expose au Musee Fitzwilliam,a Cambridge.
+
+lui conservons.
+
+Dans le catalogue de la collection Eugen Felix,edite en 188o,a Leipzig,on lit
+
+Bois.Haut.,57 cent.;larg,47 cent.
+(page 14o)que sur le cadre ancien, se trouvaient les armoiries de la famille Haller et la date 165g.Une reproduction photographique de l'inventaire de la famille Imhof yetait jointe.
+
+Il est interessant de remarquer que Wilibald Pirckheimer, le celebre humaniste
+
+Le redacteur du catalogue atteste que cette peinture provient de la riche et fameuse collection de Wilibald Imhof,petit fils deWilibald Pirckheimer.
+
+de Nuremberg（Eichstadt 147o-Nuremberg 153o) était non seulement contemporain, mais ami d'Albert Duirer,qui fit son portrait,en 1524.Le maitre fit aussi, en 1521, le portrait de Hans Imhof (peinture conservee au Musee du Prado,a Madrid), pere sans doute deWilibald Imhof,petit fils de Wilibald Pirckheimer.
+
+Cette reference du catalogue Eugen Felix, precisant l'ancienne possession du tableau par la famille Imhof,nous permet ainsi,non seulement de remonter a lorigine de cette peinture, mais encore de la retrouver dans l'entourage immediat du maitre.
+
+Reproduit dans la collection des Klassiker der Kunst,tome IV,p.,25 (ed.Stuttgart, Leipzig,1go6) avec la mention: Collection Eugen Felix, et l'indication: peint en 1502.
+## DYCK
+
+(ANTOINEVAN) Anvers,1599+Londres,1641.
+
+9
+
+## Portrait de Lucas Vosterman le Vieux.
+
+Enveloppe dans un manteau de velours noir, drape sur les epaules et couvrant un pourpoint de meme couleur, un petit col de lingerie souple autour du cou,il est represente a mi-corps, de trois-quarts vers la gauche, le regard tourne de Pautre cote.
+
+Le front est haut et degage des cheveux chatains, separes par une raie sur le cote et tombant en boucles souples sur les oreilles et sur la nuque. La barbe chatain roux, est taillee en pointe sous le menton.
+
+Fond brun.
+
+Grave par LucAs VosTERMan le jeune.
+
+Decrit dans Smith, Catalogue raisonne, tome II (edit.Londres, 186t),page 221, n°785.
+
+J.J.Guiffrey,Van Dyck, sa vie et son ceuvre,page 281,n929.
+
+La planche de L.Vosterman le jeune fait partie de la suite de l'Iconographie des hommes illustres,par VanDyck:Icones principum virorum doctorum pictorum chalcographorum statuariorumnecnon amatorum pictoria artis numero centumabAntonio van Dyck pictore ad vivum expressa eiusq :sumptibus eri incise.Antverpia Gillis Hendricx excudit , dont les cuivres sont conserves a la Chalcographie du Louvre.
+
+Elle y porte la cote : 2373.
+
+Lucas Vosterman était fort lie avec Van Dyck,qui tint,le 1o mars 631,sur les fontsbapismaux,laflle duraveur,qui sappelantoinetten souvenir deson illust parrain.(J.-J.Guiffrey,Van Dyck,page 139.)
+
+Parmi les eaux-fortes gravees par Van Dyck lui-meme,et dont la collection complete est conservee au British Museum, figure un autre portrait de Lucas Vosterman, a mi-corps,le visage et les yeux tournes de trois-quarts vers la gauche.
+
+Lucas Vosterman no Vorsterman le vieux, celebre graveur, eleve de Rubens (Anvers,1578+1656),a grave,d'apres Rubens et Van Dyck,avec la plus grande habilete. Certaines de ses planches comptent parmi les chefs-d'ceuvre de la gravure.
+
+Son fls,ucas Vosterman le jeune,ne Anvers vers 6oo,graveur,fut leve son pere. Parmi ses meilleures planches, Bryan cite:Lucas Vosterman le vieux, d'apres Van Dyck.
+
+Cadre en bois sculpté.
+
+N. B. -— La planche reproduisant ce tableau au present catalogue porte le titre :
+
+Portrait de Vosterman le jeune, par suite d’une erreur de transcription.
+
+Toile. Haut.,73 cent.;larg.,58 cent.
+## ECOLE FLAMANDE
+
+Commencement du xvi siecle.
+
+10
+
+## La Vierge et l'Enfant.
+
+La Vierge, a mi-corps et de face, derriere une balustrade de pierre, ou setale un pli de sa robe brune, sur lequel elle a pose l'Enfant Jesus, se penche vers lui et le tient serre contre sa poitrine.
+
+Un long voile blanc couvre sa chevelure blonde, denouee et retombant sur ses epaules, ou se drapent les plis d'un grand manteau rouge. La tete inclinee a droite, les paupieres baissees, la bouche entrouverte, sa main gauche est appuyee contre son sein, l'autre main soutenant le corps de son divin fils. Des manches de satin brode d'or, debordant de la robe, couvrent ses poignets.
+
+Nu, sous une fine chemisette de gaze blanche,l'Enfant,le buste releve, la tete appuyee contre l'épaule de sa mere, fait un geste de sa main gauche ouverte et tient lautre main posee sur une pomme appuyée a l'une de ses jambes. Le visage de trois quarts,les yeux bleus, de charmants plis de chair au cou, il regarde vers la droite.
+
+Derriere eux, s'ouvrent les perspectives d'un vaste paysage de prairies verdoyantes, de collines, d'arbres et de rochers. Les constructions d'une ville fortifiee y apparaissent, a droite, devant un moulin aux grandes ailes et, a gauche, au bout d'une allee, franchissant un échalier, saint Joseph, en robe grise et manteau rouge, un baton a la main, s'avance, se dirigeant vers Jesus et Marie.
+
+Toile.Haut.,70 cent.;larg.,53 cent.
+
+Elle fait penser a Gerard David et peut etre attribuee a son eleve Adriaen Isen-
+
+Cette peinture, anciennement sur bois, a ete transportee sur toile. brandt, mort a Haarlem en 1551.
+## ECOLE FLAMANDE
+
+xvil siecle.
+
+## Portrait d’un gentilhomme.
+
+Vetu de noir, le pourpoint de drap boutonne sur la poitrine, les manches en satin,il est debout et vu jusquaux genoux, de trois-quarts a droite, une main sur la hanche, l'autre main appuyee au coin d'une table recouverte d'un tapis vert. Les cheveux chatains, les yeux bleus, la barbe blonde et la moustache relevee, son visage colore se detache sur une fraise souple.
+
+Fond de muraille avec colonne sur un socle.
+
+Bois.Haut.,I m.o5; larg,8o cent.
+
+Ce tableau aete attribue a Pourbusetplus recemment a NicolaesElias.
+## ECOLE FRANCAISE
+
+xv siecle.
+
+12
+
+## La Vierge aux Donateurs.
+
+Diptyque.
+
+a) Le premier panneau represente la Vierge assise sur un trone de pierre sculptee et tenant sur ses genoux l'Enfant Jesus,nu, qui offre d'une main un ceillet et appuie l'autre main sur la page d'un livre d'heures ouvert et tenu par sa mere. Vetue d'une robe blanche, sous un manteau vert drape sur les epaules, la Vierge, aux cheveux blonds pendants, porte sur la tete un voile qui se detache sur un nimbe lumineux.
+
+A droite et a gauche, deux anges aux ailes ouvertes, l'un en blanc, l'autre en rose, presentant d'une main une poire, soulevent les plis d'une tenture verte, qui forme dais au-dessus du trone.
+
+b) Le second panneau represente trois personnages, tournes de trois-quarts vers la gauche, les mains jointes dans lattitude de l'adoration : au centre, un homme brun, les cheveux ramenes sur le front, en vetements gris; a gauche, une femme agee, la tete couverte d'un voile de lingerie,portant une robe noire bordee de fourrure blanche; a droite, une jeune fille en robe rose, le corsage noir decollete orne des memes fourrures, la tete couverte d'une coiffe en tulle, laissant apercevoir l'oreille et la nuque.
+
+Fond bleu.
+
+On remarque, sur le fond de ce dernier panneau,la date:1486,en lettre d'or et, sur l'encadrement ancien,l'age des trois donateurs: 60,30,23.
+
+Panneaux cintres dans la partie superieure.
+
+Chaque peinture mesure: Haut., 28 cent.; larg., 2o cent. Le diptyque ouvert mesure, avec son encadrement : Haut.,33 cent.; larg.,51 cent.
+
+4
+## ETTY
+
+WILLIAM)
+
+York,1787+York,1849.
+
+13
+
+## La Danse.
+
+Une jeune femme brune,les cheveux ornes de pampres, nue jusqu'a la ceinture,une écharpe verte et un voile de gaze drapes sur une epaule et couvrant les jambes, les pieds nus, danse dans la campagne en frappant sur un tambour de basque leve au-dessus de sa tete.
+
+A droite,un jeune homme est étendu sur un tertre,le torse nu, les bras accoudes sur le sol, les mains croisees sur la poitrine, un foulard rouge noue sur ses cheveux bruns;il contemple la danseuse. Derriere lui, un homme age, a longue barbe blanche, est assis, partageant la meme admiration.
+
+Vers le fond, la campagne est traversee par un cours d'eau. Des bouquets d'arbres au feuillage d'automne et des collines s'elevent a l'horizon.
+
+Toile.Haut.,94 cent,;larg.,74 cent.
+## GAINSBOROUGH
+
+(THOMAS)
+
+Sudbury,1727+Londres,1788.
+
+14
+
+## Portrait de l'Artiste.
+
+Vu presque a mi-corps, de trois quarts vers la droite, mais le visage presque de face, le bras gauche replie, la main passee dans le gilet entrouvert, il est coiffe d'un tricorne noir legerement incline sur l'oreille et borde d'un large galon d'argent. Les yeux gris bleu sous les sourcils chatains épais et arques,le nez busque, la levre narquoise, sa chevelure, qu'il porte assez longue, tombe lisse sur les joues pour se relever en boucles a son extremite; une petite meche indocile depasse sur le front, debordant sous le tricorne.
+
+Le vetement est traite en facture d'esquisse et en grisaille; un col de lingerie entoure le cou, cravate de noir, et presente deux pointes sous le menton.
+
+Fond gris.
+
+Toile. Haut., 59 cent.; larg, 49 cent.
+
+On lit au revers du tableau, sur le carton de preservation, la mention: Gainsborough by himself, tracee au pinceau,avec la signature d'un ancien proprietaire: G.Richmond.
+
+Sur une notice collee egalement sur le revers,on lit encore:Painted by Thos Gainsborough at Ipswich about theyear 1754(2nd sitting of himself) aged28.
+
+Collection Geo Richmond. R. A. (vente a Londres, 1er mai 1897）. Exposition des Maitres anciens de la Royal Academy (187o). Exposition des Beaux-Arts de la Royal Dublin Society (i891).
+
+Cite et decrit dans Sir Walter Armstrong: Gainsborough,et indique comme peint vers1754.
+## GAINSBOROUGH
+
+(THOMAS)
+
+15
+
+## Portrait de Thomas Haoiland.
+
+Assis dans un fauteuil dont la couverture rose est cloutee d'or, il dos porte le titre:Lewis's materia medica.La main droite tient un etui est represente jusqu'aux genoux, tourne de trois-quarts vers la droite, une main posee sur un in-quarto relie appuye sur son genou,et dont le en galuchat contenant ses besicles.
+
+Coiffe d’une perruque poudree, il porte un habit marron ouvert sur la poitrine, une cravate de mousseline est nouee autour de son cou. A droite, des coquillages sont poses sur une table, devant une bibliotheque, dont les trois rayons superposes sont garnis de livres relies.
+
+Toile. Haut., 1 m. 25; larg., 1 metre.
+
+Grave par R. Joscy pour :a Engravings from the works of Thomas Gainsborough by Scott,Every, Sanders and other eminent engravers (London, Graves, s. d.).
+
+Exposition d'Hiver de la Royal Academy (1go6).
+
+Expose au Musee Fitzwilliam,a Cambridge.
+
+Cite dans Sir Walter Armstrong:Gainsborough (ed.18g8,p.197).
+
+Gainsborough a egalement peint le portrait de James Haviland.
+## HELST
+
+(BARTHOLOMEUS VAN DER)
+
+Haarlem,1613Amsterdam,1670.
+
+16
+
+## Portrait d'une dame.
+
+Vue a mi-corps, debout dans un parc, de trois-quarts a gauche, en robe noire a larges manches, paree d'un collier et de boucles d'oreilles les oreilles, le visage souriant, une main ouverte, l'autre tenant les gants. Une collerette de tulle couvre les epaules; aux poignets, de larges manchettes de lingerie; l'index de la main droite est orne d'une de perles, une coiffe sur ses cheveux releves sur le front et roules sur bague.
+
+Signe a gauche, et date: 1651.
+
+Bois. Haut., 83 cent.; larg.,68 cent.
+
+Collection du Comte Leon Mniszech (vente a Paris, 9-11 avril 1go2), n 132. Exposition de la Royal Academy (1go7).
+
+Cadre en bois sculpte.
+## HONDECOETER
+
+(MELCHIORD')
+
+Utrecht,1636Amsterdam,1695
+
+## Combat entre un coq et un dindon.
+
+Dans un parc, au pied d’un arbre ou une acanthe étale son large feuillage, un dindon a flechi sur ses pattes, sa large queue est écartée sur le sol et supporte le poids de son corps;un coq au plumage fauve et gris, herisse autour de son cou, les ailes ouvertes,a saisi dans son bec la crete rouge du lourd animal.
+
+A droite,une poule huppee est entouree de ses poussins blancs ou noirs; l'un d'eux a éte pietine par le dindon, cause probable du drame. Un oiseau au long bec, au plumage rose et a la tete garnie de hautes plumes, est perche sur une branche d'arbre, devant une muraille qui ferme,a gauche,I'horizon.Une pie vole vers les combattants.
+
+Au second plan, un canard est couche au bord d'un bassin rectangulaire ou vogue un cygne blanc. Sur une balustrade decoree d'un basrelief, terminee par un socle supportant une statue,un paon promene sa queue ocellee.
+
+Dans le fond,un chateau, dont la facade est decoree d'un fronton triangulaire,est entoure de grands arbres devant un parterre,ou un jet d’eau jaillit d'une fontaine en pierre.
+
+Signe vers la gauche, en haut, sur la muraille : M. d'Hondecoeter.
+
+Toile.Haut., 1 m.40;larg,1 m.68.
+
+Cadre en bois sculpte.
+## LANCRET
+
+(NICOLAS) Paris,16go  Paris,1743.
+
+## 18
+
+## Danse champetre.
+
+Dans un parc, devant un bouquet d'arbres, un couple danse. La jeune femme, a gauche, les bras écartes du corps, s'accompagne de castagnettes. Les yeux bleus, le visage souriant, elle a orne ses cheveux blonds d'un bouquet de feurs retenues par un ruban rose. Son corsage bleu decollete,a courtes basques,est agremente sur la poitrine de noeuds de rubans de meme couleur. L'ample jupe, a fond gris, rayee, decouvre les pieds chausses de mules.
+
+Son cavalier est au centre, les yeux fixes sur elle, un poing sur la hanche, l'autre main relevee au-dessus de son chapeau de feutre gris enrubanne. ll porte une culotte bleue a creves sur fond rose; son habit gris est ouvert sur une chemise blanche, barree sur la poitrine d'une branche de feuillage.
+
+Un joueur de vielle est assis sur un tertre et vu de face. Son chapeau gris est releve sur le front par une coque de rubans verts;
+
+A droite, un autre couple indifferent a la danse.
+
+il est enveloppe dans un manteau rouge, qui flotte autour de lui.
+
+La jeune fille blonde, coiffee d'un toquet rose a plume blanche, assise sur la mousse, porte une robe de soie gorge de pigeon a la jupe retroussee sur un jupon rayé. Elle fait un geste de defense pour moderer le galant, empressement d'un jeune homme debout, penche vers elle, lui tendant les bras. Il est coiffe d'une large toque de soie verdatre,un manteau de meme couleur drape sur lépaule.
+
+Au pied d’un arbre, on remarque un panier d’osier et un tambour de basque abandonne sur le sol, avec une écharpe rouge.
+
+Toile.Haut.,72 cent.;larg.,85 cent.
+
+Collection Reginald Vaile, esq.(vente a Londres,23 mai 1go3,n 37）. Reproduit dans le catalogue.
+
+Exposition du Guildhall (1go2). Exposition de Glasgow (1go2).
+
+Cadre en bois sculpte.
+## LARGILLIERE
+
+(NICOLAS DE LARGILLIERRE oU DE) Paris,1656Paris,1746.
+
+19
+
+## Portrait du Comte de Richebourg.
+
+Coiffe d'une longue perruque bouclee, dont la poudre a blanchi le velours noir de son habit ouvert sur une chemise qui decouvre le cou, les yeux bruns, les sourcils noirs, il regarde en face. Sa main gauche retient,a la ceinture,les plis d'un manteau rouge pose sur une épaule et drape autour de lui.
+
+Il est represente sur un fond de parc, a mi-corps tourne vers la gauche, devant une colonne de pierre dressee sur un socle.
+
+Toile.Haut.,8o cent.; larg.,65 cent.
+
+Collection du Comte Andre de Ganay. Exposition de l'Ecole francaise du xvine siecle au Burlington Club (1g13).
+
+Cadre en bois sculpte.
+## LORENZETTI
+
+(PIETRO)
+
+Ecole siennoise,xiv siecle.
+
+20
+
+## La Crucifixion.
+
+Le Christ en croix se presente de face, les cheveux pendants, la tete inclinee sur l'épaule,un linge noue a la ceinture retombe sur les jambes aux genoux plies et ne portant plus le corps. Au sommet de la croix on lit les lettres I.N.R.I sur un écriteau a fond rouge. A droite et a gauche, deux anges ailes voltigent, l'un les bras ouverts, l'autre les mains jointes.
+
+Au pied de la croix,la Vierge en robe noire est étendue a terre, la tete appuyee sur les genoux de l'une des trois Marie. Saint Jean, debout, pleure la tete inclinee sur ses mains jointes, pres de Madeleine, dont les longs cheveux blonds retombent en meches sur sa robe rouge. Les bras ouverts, elle leve les yeux vers le divin crucifie. D'autres saintes femmes, a genoux ou debout, occupent le second plan.
+
+A droite, des cavaliers, des hommes d'armes portant des bannieres rouges ou se detachent en lettres d'or I'inscription : S. P. Q. R., entourent la croix.
+
+Les figures du Christ, de la Vierge, des anges et des saints se deta- chent sur des nimbes dores.
+
+Fond d'or gaufre et encadrement moulure et dore.
+
+Panneau formant un angle aigu dans sa partie superieure.
+
+Haut., 71 cent.; larg.,35 cent.
+
+Collection Cyril B.Harcourt. Exposition de la Royal Academy (1879), sous le nom de P. Cavallini (n° 178).
+## MORO
+
+(ANTONIS MOR,ou MOOR,ou ANTONIO) Utrecht,1512 +Anvers, 1582.
+
+21
+
+## Portrait de jeune dame.
+
+Vue a mi-jambes, tournee vers la droite,elle est debout, la main droite appuyee sur une table,ou un collier de perles est pose sur un tapis vert. L'autre main a la ceinture, le pouce engage dans un sautoir qui retient un bijou, elle porte une robe de satin noir broche, ouverte sur une jupe blanche.
+
+Les manches serrees aux poignets sur des petites ruches, le col montant autour du cou sur une fraise qui encadre le visage, des boutons de perles, une ceinture et des bracelets d'orfevrerie parent sa toilette. Sur ses cheveux bruns, bouffant au-dessus du front et sur les tempes, elle a pose un bonnet de dentelle brode d'or, enrichi, au sommet, d'un joyau de pierres precieuses.
+
+Toile.Haut.,95 cent.;larg.,77 cent.
+
+Collection Pallavicino Grimaldi (vente a Genes,2g novembre-2 decembre 1899, n°276), reproduit au catalogue (planche 16),et attribue a 1Ecole venitienne.
+## MUELICH
+
+(HANS MIELICH ou) Munich,1516+Munich,1573.
+
+22
+
+## Portrait de Pancratius von Freyberg zu Aschau.
+
+A mi-corps, tourne de trois quarts vers la droite,il presente de la main gauche une montre d'or, le boitier ouvert; deux bagues, dont l'une a armoiries, ornent Iindex. L'autre main tient des gants. Les yeux d'une teinte doree, une fine moustache blonde couvrant la levre superieure et melant ses pointes a la barbe longue, il est coiffe d'un toquet noir legerement incline sur l'oreille et agremente de petits ferrets d'or. Une lourde chaine d'or est passee derriere sa nuque et retombe sur sa poitrine. Le medaillon suspendu a l'anneau median est fait d'un saphir enchasse dans une monture d'or cisele, enrichi d'une figure nue.
+
+Les pointes d''une cravate, a dessins noirs et blancs, se croisent et retombent sur son pourpoint de velours sombre, couvert d'un manteau borde de fourrure brune. Des manchettes de lingerie, depassant aux manches, en repetent les motifs autour des poignets.
+
+Fond brun.
+
+On lit, a droite, la mention : M.D.xxxxv.AETATIs EIUs xxxvi1, et les initiales H. M.au-dessus d'un entrelacs completant le monogramme.
+
+Bois.Haut.,62 cent.;larg.,46 cent.
+
+Le panneau porte au revers des armoiries peintes et couvrant tout le champ de sa surface.
+
+Les ceuvres de ce beau maitre, qui fut le peintre du duc Albert V de Baviere, sont fort rares. Bryan, dans son Dictionary of Painters and Engravers (edit. 1gio),ne cite que trois portraits de sa main dans les musees d'Europe: deux a Munich et un a Vienne.
+## REMBRANDT
+
+(REMBRANDT HARMENSZ.VAN RIJN)
+
+Leyde,1606 Amsterdam,166g.
+
+23
+
+## Portrait presume du frere de l'Artiste.
+
+Vu a mi-corps, tourne de trois-quarts vers la droite, les yeux fixes sur le spectateur, la moustache blonde tombant sur les levres ouvertes, il appuie le poing gauche sur le pommeau d'une épee. Ses cheveux chatains sont boucles sur les oreilles et s'echappent d'une large toque a plumes sombres s'elevant en panache au-dessus de sa tete.
+
+A l'oreille droite, pend une boucle soutenant une perle noire.Un colletin d'acier est pose sur son pourpoint marron, une cravate de mousseline sombre est roulée autour de son cou. Une double chaine d'or, soutenant un medaillon d'orfevrerie, est passee en écharpe sur sa poitrine.
+
+Fond gris verdatre.
+
+Bois de forme ovale.Haut., 62 cent., larg.,46 cent.
+
+Collection du Prince A.de Broglie.
+
+Une photographie du tableau est jointe au present numero, et porte, au verso, une attestation de M. le Dr W.von Bode. &amp;The picture is a work of Rembrandt of 1634 or 1635 and represent probably a relation of the master perhaps one of his brothers 》.——26 aug.1g10.Signée:W. BoDE.
+## REMBRANDT
+
+(REMBRANDT HARMENSZ.VAN RIJN)
+
+24
+
+## Un Savant lisant a la chandelle.
+
+Un homme age,un bonnet sur ses cheveux blancs, la barbe blanche coupee court autour du menton, est assis a sa table de travail, dans la lumiere doree que repand une chandelle couverte d'un abat-jour. Les épaules enveloppees d'un large manteau brun, il écrit avec une plume sur un large livre soutenu par un pupitre.
+
+On remarque, sur la table de travail, un encrier et des feuillets de
+
+Un grand in-folio ouvert est appuyé sur une haute boite, dont la forme se precise dans le clair-obscur.
+
+papier; d’autres paperasses sont fixees sur le mur du fond.
+
+A gauche, derriere le vieillard, une porte de bois.
+
+Bois. Haut., 155 millim.; larg., 140 millim.
+
+Cet admirable petit tableau a éte presente au Dr W.von Bode qui en a confirme l'authenticite.
+
+Une variante de cette composition,figurant dans une collection privee a Vienne, reproduite dans les Klassiker der Kunst （tome II, page 6,éd. 1go6),peinte sur cuivre et portant sur la muraille du fond les lettres G.D.F.,est attribuee,a la suite de recentes études,a Gerard Dou.
+## REYNOLDS
+
+(Sir JOSHUA)
+
+Plympton,1723+Londres,1792.
+
+25
+
+## La Mort de Didon.
+
+La reine de Carthage, drapee de voiles blancs, la poitrine et les epaules nues, est etendue sur le bucher qu'elle a fait édifier et qui est recouvert d'une etoffe pourpre brochee d'or. Elle a abandonne pres d'elle un poignard d'or cisele, a la lame sanglante. Son bras droit repose sur un coussin soutenant son buste inerte; la tete aux yeux clos, aux levres exsangues, est inclinee sur l'epaule.
+
+Sa sceur Anna, agenouillee sur le bucher, les yeux fixes sur elle, leve les bras au ciel. Les cheveux roux enrubannes de bleu,elle est vetue d'une ample robe jaune, dont les plis se detachent sur un sombre nuage de fumee qui s'échappe du buicher.
+
+A gauche, dans le ciel et dans un rayon de soleil, la deesse Iris apparait en buste, portee sur Ies nuages. Ses épaules ailees, ses cheveux blonds serres sur le front par un ruban, tenant d'une main une boucle de ses propres cheveux, elle a pris dans l'autre main une meche de la longue chevelure de la reine.
+
+A droite, dans le lointain, on apercoit sur la mer les galeres de Carthage.
+
+Toile. Haut., 61 cent.; larg., I metre.
+
+Grave gar Samuel William ReyNoLDs et par J. GRozER, en 1796.
+
+Cf.Sir Walter Armstrong: Sir Joshua Reynolds (p.25o, edit.1go1).
+
+Cette peinture est une etude achevee pour le grand tableau conserve a Buckingham u Le tableau de Didon est certainement au nombre des essais les plus heureux
+
+Palace dans les collections royales, et qui figura a l'Exposition de 1787 avec treize autres tableaux, qui composaient l'envoi du maitre. Elle offre avec lui de legeres variantesde composition.
+
+de Reynolds pour justifier ses theories personnelles sur le grand style. Sir Walter Armstrong,Sir Joshua Reynolds (Paris,igo1,P.127).
+
+Le plus beau tableau ideal de Sir Joshua.(Tom Taylor.)
+## SALAINO
+
+(ANDREA)
+
+Ecole milanaise, debut du xvr siecle.
+
+26
+
+## La Toilette de l'Enfant Jesus.
+
+Sous un toit de chaume soutenu par une colonne et abritant presente, au centre, agenouillee sur l'herbe. Les cheveux chatains, letable,ou lon remarque, a droite, le bceuf et l'ane, la Vierge se separes en bandeaux sur le front, la tete inclinee sur l'épaule gauche, le visage souriant, elle porte, sur sa robe rouge, un grand manteau bleu, fixé sur sa tete. Soutenant du bras gauche l'Enfant Jesus, debout dans un bassin de cuivre,les pieds baignant dans l'eau,et faisant le geste de benir, de l'autre main elle verse de l'eau sur la jambe de son divin fils.
+
+A droite, une sainte agenouillee et vue de profil, les cheveux longs et nattes, sous un leger voile de gaze, un manteau rouge drape sur une le secher.
+
+Saint Joseph, le crane chauve, un manteau jaune sur une robe rose, est agenouille,a gauche, son baton appuyé a terre,le haut du corps incline en avant, les mains jointes dans l'attitude de l'adoration.
+
+Un arbuste étend, au second plan, ses branches au feuillage vert.
+
+Bois.Haut.,55 cent.;larg,44 cent.
+
+Nous croyons pouvoir attribuer ce tableau a Salaino, par comparaison avec la fresque du musee Brera,a Milan, donnee alternativement a Salaino ou a Marco da Oggiono, n 83 du catalogue (edit.Bergame, 1go8):La Vergine.
+## SANTERRE
+
+(JEAN-BAPTISTE) Magny,1658+Paris,1717.
+
+## La  Femme au masque.
+
+Elle est debout,vue a mi-corps,tournee vers la gauche,tenant dans sa main droite un loup de velours noir, l'autre main est appuyee sur le dossier d'une chaise; son visage sourit au spectateur. Les cheveux poudres, boucles et retombant sur les epaules, sont coiffes d'un petit toquet de velours noir galonne d'or a noeud de ruban bleu et aigrette de plume enrichie d'une perle pendeloque.
+
+La robe de velours sombre, decolletee,ornee de broderies d'or et de pierres precieuses, est a manches de satin blanc;une echarpe de soie rouge est drapee sur l'épaule.
+
+Toile. Haut., 94 cent.; larg.,75 cent.
+
+Collection de S.A. I. la Princesse Mathilde (vente des 17-21 mai 1go4, n° 45）.
+## SOLARIO
+
+(ANDREA)
+
+Milan,vers 146o-65+Milan,apres 1515..
+
+## 28
+
+## L'Annonciation.
+
+Dans une chambre ou un lit couvert d'etoffe rouge apparait sous un dais,a colonnes de marbre et chapiteaux dores, tendu de rideaux verts, l'ange se presente a gauche, de profil, un genou fechi sur le sol dalle. Les cheveux blonds, boucles sur la nuque, les ailes encore fremis- blanche, a broderies d'or, enrichies de perles. Il tient une tige de lis de la main gauche, lautre est ouverte,la paume en dehors, et designe la Vierge.
+
+Agenouillee a droite, vue de face,vetue aux couleurs liturgiques, les cheveux separes en bandeaux sur le front et tombant sur les épaules, la tete inclinee a gauche,les yeux baisses, Marie retient d'une main un pli de son manteau, l'autre est appuyee sur la page d'un livre d'heures pose sur une table couverte d'un tapis vert.
+
+Vers le fond, un banc supporte un coussin rouge et, dans la muraille grise, une fenetre, aux volets de bois, souvre sur la campagne.
+
+Un temple de forme circulaire et a toit de tuiles séleve parmi les arbres, sur une éminence, dominant une large vallee; des nuages fuient dans le ciel bleu.
+
+On lit,en bas, a droite, sur le pied de la table:ANDREAs DE SoLARIo, F.1506.
+
+Bois. Haut., 76 cent.; larg.,78 cent.
+
+Provient d'une collection particuliere en Ecosse.
+
+Collection Yerkes (vente a New-York, du 5 au 8 avril 1g11, no 8g).
+
+Cite dans: North Italian Painters of the Renaissance, par M. Bernhard Berenson (édit.1907,P.294).
+## VLIET
+
+(WILLEM WILLEMSZ. VAN ou VAN DER) Delft,1584Delft,1642.
+
+29
+
+## Un Jeune Officier.
+
+Vetu d'un habit gris soutache et galonne d'argent,aux larges manches ouvertes sur d'autres manches de lingerie a entre-deux de dentelle,un col de guipure couvrant les épaules, il est represente,a mi-corps, de trois-quarts a droite, les yeux bleus, les cheveux chatain clair, bouclés et pendant sur lépaule gauche, le visage souriant au spectateur.
+
+Fond gris.
+
+Signe:W. van der Vliet,fecit.
+
+On lit a gauche : Aetatis 23, A° 1632.
+
+Bois.Haut.,66 cent.;larg.,54 cent.
+
+<!-- image -->

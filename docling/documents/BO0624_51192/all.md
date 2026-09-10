@@ -1,0 +1,4483 @@
+## FIRST
+
+## SESSION
+
+Thursday, January 6th., 1927. at 2.15 p.m.
+
+(Catalogue numbers 1 to 162 inclusive.)
+
+## GREEK VASES
+
+## CORINTHIAN SKYPHOS.
+
+VIIth. century B.C.
+
+Bearing several bands of geometrical ornament in black and red pigment on a light ground, with a frieze of figures of wild beasts; an owl, and conventional plants.
+
+Ht.,7 inches;Diameter,6 1/2 inches.
+
+VIIth.century B.C.
+
+## —CORINTHIAN SKYPHOS. 2
+
+Ornamented with geometrical designs in black and red on a light ground, and a frieze of figures of wild beasts, a lion attacking a boar, sphinxes,a swan, etc.
+
+Ht.51/4inches:Diameter,47/8inches.
+## —CORINTHIAN KOTYLE.
+
+VIIth.century B.C.
+
+Decorated with black and red figures on a light ground, of lions, and an antelope grazing.
+
+Ht.,5 inches;Diameter,7 3/8 inches.
+
+(Illustrated.)
+## CORINTHIAN KOTYLE.
+
+VIIth.century B.C.
+
+Decoration and figures in black and red on a light ground, representing wild beasts and a bird.
+
+Ht.,5inches;Diameter,73/8inches.
+
+## —ATHENIAN ALABASTRON. Ist.half of Vth.cent.B.C. 5
+
+Designs in black on a grey ground ; a young negro, in barbaric costume, drawing a bow, an Ionic column, etc.
+
+Ht.,51/2inches.
+
+From the Lambros collection,Athens. (Sale in Paris, 1912.
+
+No.39,Pl.VIII.)
+
+(Illustrated.)
+
+—CORINTHIAN ALABASTRON.
+
+VIIth. century B.C.
+
+Decoration in red and black on a light ground, representing two lions and a bird.
+
+Ht., 6 inches.
+## -CORINTHIAN ALABASTRON.
+
+Decoration similar to that of the above.
+
+VIIth.century B.C.
+
+Ht.,5 inches.
+
+8-SMALL CORINTHIAN VASE.
+
+VIIth. century B.C.
+
+Scale-like decoration in red and black on a light ground.
+
+Ht.,4 3/4 inches.
+
+9—LARGE ARCHAIC COLUMN KRATER,,WITH COVER. VIth. century B.C.
+
+Decorated in red and black on cream. On either side,a panel containing a large figure of an animal.
+
+Ht.,11 1/2 inches.
+## 10-ARCHAIC GREEK KRATER.
+
+VIth.century B.C.
+
+Decoration in black and purple on red, representing on each side a pair of naked runners, with two umpires.
+
+Ht.,5 inches;Diameter,7inches.
+
+(Illustrated.)
+
+—ARCHAIC KYLIX,WITH FOOT. Greece,VIth.century B.C. II
+
+Figures of dancers in black and red, on cream, separated by rich decorations.
+
+Ht.,43/4inches;Diameter,77/8inches.
+
+Greece,VIth.century B.C.
+
+I2 —SHALLOW KYLIX.
+
+Decorated with heavy black lines on red ground. On either side, in black and purple on red, is represented a ram holding a prostrate man beneath its belly.
+
+An extremely rare representation.
+
+Ht.,2 34 inches;Diameter,7 inches.
+I3 3-SMALL HYDRIA.
+
+Vth.century B.C.
+
+Black figures, relieved with white, on a light ground. The figures.
+
+14-SMALL SCENT-BOTTLE.
+
+Ht.,43/4inches.
+
+Greece,Vth.century B.C.
+
+Decorated with two harpies in red on a glazed black ground.
+
+Diameter,31/4inches.
+16—ATTICLEKYTHOS.
+
+Greece,early Vth.century B.C.
+
+Decorated with a frieze of dancers and Amazons on horseback, in black on a light ground.
+
+Ht.,37/8inches;Diameter,4 inches.
+
+IVth.century B.C.
+
+Red figures on a cream ground, representing a draped woman holding a casket, and facing another woman who holds out a dress on her arm.
+
+(Illustrated.)
+
+Ht.,12 7/8 inches.
+## - ATTIC LOUTROPHOROS. I7
+
+Figures in red, on black : two women standing, another seated on a chair, holding caskets and vases. A Victory holds an alabastron. On the neck, a woman holding a casket.
+
+Ht.,13 5/8 inches.
+
+From the Pozzi Collection. (Sale in Paris, 1919; No. 466,* illustrated.)
+
+## 18—ATHENIAN SKYPHOS.
+
+C. 470 —— 460 B.C.
+
+With red figures; palmettes beneath the handles. On one side, a draped youth, holding a staff in his right hand; on the other side, a draped youth with a staff, and in his right hand an alabastron.
+
+Ht.,3 7/8 inches.
+
+From the Lambros Collection,Athens.(Sale in Paris,IgI2. No.58, Pl. VI.)
+
+## —ATHENIAN ALABASTRON.
+
+Vth.century B.C.
+
+Decorated with red figures, on black. A draped youth, leaning on a staff, looks over his left shoulder at a young woman;between them is a chair, and behind them, a Corinthian column.
+
+## 19
+Greek,VIth.century B.C.
+
+Finely decorated on the outside in black, on a cream ground. Two large stylised eyes; two figures of wild beasts; and, between the eyes, two youths on horseback, riding abreast.
+
+Diameter,37/8inches.
+## EGYPTIAN SCULPTURE
+
+—STONE RELIEF. 2I
+
+Old Kingdom.
+
+Recumbent female figure, amid bull-rushes,holding in her hand a crook.
+
+Ht.,5inches,W.,8inches.
+
+XVIIIth.dynasty.
+
+22—STONE STELA.
+
+With figures (Osiris seated, etc.) and hieroglyphics, in green polychrome.
+
+Ht.,20 inches,W.,11 1/2 inches.
+
+IVth. dynasty.
+
+23-STONE RELIEF.
+
+A youth holding a goose, followed by another youth who holds a goose in his arms.
+
+Partly preserving the original polychrome.
+
+Ht.,9 inches,W.,12 inches.
+
+(Illustrated.)
+## 24—STONE RELIEF.
+
+Old Kingdom.
+
+The ibis-headed god Thoth. Profile, three-quarter length.
+
+Ht.,15inches,W.,81/2inches.
+
+XVIIIth. dynasty.
+
+## LIMESTONE RELIEF.
+
+The head of the God Min, (whose whip is visible.) He wears a false beard, and a pectoral. A vase is presented by the hand of another figure. Both head and hand are exquisitely modelled.
+
+Ht.,7 1/2 inches,W.,18 1/2 inches.
+
+(Illustrated.)
+
+## 26 LIMESTONE RELIEF.
+
+XVIIIth.dynasty.
+
+A figure from a procession. The body is human, the head that of an antelope, adorned with a long wig. In the right hand is the khopeche, in the left a lance. The left hand of the adjoining figure is seen, bearing an ear of corn; whence it is supposed that the bas-relief represented a feast in the honour of Osiris.
+
+Ht.,22 inches,W.,17inches
+
+- 25
+
+(Illustrated.)
+## LIMESTONE RELIEF.
+
+XVIIIth.dynasty.
+
+The head of a negro prisoner, wearing a small round wig, suggestive of curls, and a ring in his ear ; a head remarkable for its life and character. The rope which is passed several times round the prisoner's neck is knotted, and ends in a flower.
+
+(Illustrated.)
+
+28-LIMESTONE RELIEF.
+
+Ht.,43/4 inches,W.,8inches.
+
+XVIIIth.dynasty.
+
+The head of a man, wearing a round wig of archaic form, contained by a fillet from which rises, in the centre of the forehead, the royal emblem, the uroeus. The fllet is further embellished behind the head with lotus flowers,from which there falls a ribbon which terminates in a second uroeus. Above the head, to the left, is seen the end of a cartouche, containing the name of the personnage; and to the right, a foot, on a scale much inferior to that of the head. The basrelief adorned a tomb, and the occupant of the tomb is represented on a larger scale than the figures about him.
+
+Ht.,17inches,W.,16 inches.
+
+(Illustrated.)
+## 29 一 LIMESTONE RELIEF.
+
+XVIIIth.dynasty.
+
+Head of a Pharaoh, bearded, and wearing the double crown of Upper and Lower Egypt.
+
+Ht.,13 1/2 inches;W.,15 1/2 inches.
+
+(Illustrated.)
+
+30—S STONE RELIEF.
+
+XVIIIth.dynasty.
+
+Bust, in profile, of a princess wearing a triple necklace. Her right arm is extended, and draped with a light veil.
+
+Ht.,12 inches;W.,14 1/2 inches.
+
+XVIIIth. dynasty.
+
+- 31 -LIMESTONE RELIEF.
+
+Bust of a Pharaoh, with the ancient red polychrome. (Standing on a wooden easel.)
+
+Ht.,18 inches: W.,16 inches.
+
+XXth.dynasty.
+
+- —LIMESTONE RELIEF. 32
+
+Two figures, and hieroglyphic inscriptions mentioning AmenNameb.
+
+Ht.,15inches;W.,24 inches.
+
+From the Mac Gregor Collection.
+## LIMESTONE RELIEF. 33
+
+New Kingdom.
+
+but the long wig falls before and behind the shoulder.She wears jewels at her throat, and a clinging robe. She suckles the infant Horus, on her knee; the royal tress hangs from the side of his head.
+
+Ht.,13 3/4inches;W.,173/4 inches.
+
+(Illustrated.)
+
+34 — SMALL STONE RELIEF.
+
+Representing a ram, moving to the right.
+
+Ht.,4inches;W.,3inches.
+
+Old Kingdom.
+
+(Illustrated.)
+
+35—BLACK BASALT BUST.
+
+Headless bust of a scribe. Hieroglyphic inscription on the chest.
+
+Ht.,14 inches.
+
+Old Kingdom.
+
+36 —STONE STATUETTE OF WOMAN.
+
+From Palmyra. The legs have been cut off at the knees. The head wears a wig, beneath which the real hair appears on the forehead; the wig is short, and parted in the middle. The face is well-modelled, with an agreable expression; the body stands straight, the hips are narrow, and the arms hang by the sides.
+
+XVIIIth.dynasty.
+## 37-STONE MALE HEAD.
+
+Old Kingdom.
+
+Of very fine character. Archaic styie. On red marble pedestal.
+
+38—STATUETTE OF A MAN.
+
+Ht.,5 1/2 inches.
+
+Middle Kingdom.
+
+In Egyptian limestone; cut off below the knee. The style is full of energy. The somewhat brutal face is broad, and the forehead low,. beneath a round, futed wig. The arms fall stiffy beside the body; the left hand is missing, the right is clenched. The torso is nude, wearing the shenti from the waist to the knee.
+
+- HEAD OF LIONESS.
+
+Ht.,10 1/2 inches.
+
+XVIIIth.dynasty.
+
+A very fine sculptor's model, in a state of perfect preservation.
+
+Ht., 6 1/2 inches.
+
+New Kingdom.
+
+(Illustrated.)
+
+40 —BLACK BASALT STATUE.
+
+Very fine statue of a man. The head is missing. The figure is seated on the ground, with his arms folded and resting on the knees, which are drawn up. The modelling of the arms and legs is very pure, as also that of the knees, which are discernible beneath the clinging robe.
+
+Hieroglyphic inscriptions, before and behind. The statue was an offering to the God Sebek.
+
+(Illustrated.)
+
+- 39
+
+Ht.,14 1/2 inches.
+## —BLACK BASALT HEAD,LIFE-SIZE. 4I
+
+Saitic period.
+
+Head of a prince. Right eye, and part of nose and forehead, missing. Admirable modelling and workmanship. On a pedestal of red marble.
+
+(Illustrated.)
+
+## 42 2—EXTREMELY FINE LIFE-SIZE STONE HEAD.
+
+Ht.,10 inches.
+
+XVIIIth.dynasty.
+
+A work of the very highest importance and of unique quality, possessing indescribable dignity and character. One of the most beautiful specimens of the Egyptian sculptor's art ever discovered. Traces of polychrome. Tip of nose repaired.
+
+Ht.,14 inches.
+
+(Illustrated.)
+
+## 43 — PORTION OF A BLACK BASALT HEAD. XIXth. dynasty.
+
+Part of the left side of the head of a Pharaoh.
+
+Ht.,13 inches.
+
+44-SMALL LIMESTONE CAPITAL.
+
+New Kingdom.
+
+Formed of papyrus fowers, whose stems, bound together, compose the column.
+
+Ht.,9 inches.
+
+From the Giovanni Dattari collection, Cairo.(Sale in Paris, 1912. No. 388 of the catalogue; illustrated.)
+## BLACK BASALT HEAD,LIFE-SIZE. 41
+
+Saitic period.
+
+Head of a prince. Right eye, and part of nose and forehead, missing. Admirable modelling and workmanship. On a pedestal of red marble.
+
+(Illustrated.)
+
+## EXTREMELY FINE LIFE-SIZE STONE HEAD. 42
+
+Ht.,10 inches.
+
+XVIIIth.dynasty.
+
+possessing indescribable dignity and character. One of the most beautiful specimens of the Egyptian sculptor's art ever discovered. Traces of polychrome. Tip of nose repaired.
+
+Ht.,14 inches.
+
+(Illustrated.)
+
+## 43 — PORTION OF A BLACK BASALT HEAD. XIXth. dynasty.
+
+Part of the left side of the head of a Pharaoh.
+
+Ht.,13 inches.
+
+44-SMALL LIMESTONE CAPITAL.
+
+New Kingdom.
+
+Formed of papyrus flowers, whose stems, bound together, compose the column.
+
+Ht.,9inches.
+
+From the Giovanni Dattari collection,Cairo. (Sale in Paris,1912.No.388 of the catalogue;illustrated.)
+- 45 PAIR OF ALABASTER CANOPIC JARS. Old Kingdom.
+
+These jars, which are found in sets of four, were used to contain the viscera of the mummy, separately embalmed. The lids are in the form of human heads, in a very archaic style.
+
+- SMALL PINK GRANITE VASE. 46
+- 47 USHABTI OF A WOMAN.
+
+Traces of polycrhome.
+
+- 48 WOODEN MASK.
+- 49 — WOODEN STATUETTE.
+
+Ht., 12 1/2 inches.
+
+Old Kingdom.
+
+Ht.,5 1/2 inches.
+
+Saitic period.
+
+Ht.,10 3/4 inches.
+
+XVIIIth.dynasty.
+
+Ht.,5 1/2 inches.
+
+Probably VIth.dynasty.
+
+Standing figure of a woman.T The arms and feet are missing.
+
+On the head is a round futed wig; the body, delicate and elegant, wears a clinging robe. The right leg is advanced.
+
+Ht.,13 1/2inches.
+
+XVIIIth.dynasty.
+
+- 50 —WOODEN STATUETTE.
+
+Standing figure of a man. The arms, left leg, and part of the face are missing.
+
+Ht.,21 1/4inches.
+- 52
+
+## EGYPTIAN BRONZES
+
+- XVIIIth. dynasty. 51 I—FINE BRONZE HEAD OF A CAT.
+
+Green patina.
+
+The workmanship of the head is admirable, and the expression full of life.
+
+The cat represented the Goddess Bastit.
+
+(Illustrated.)
+
+- —BRONZE STATUETTE.
+
+Ht.,4 inches.
+
+XVIIIth.dynasty.
+
+A male figure, of the finest style, in a striding posture. The eyes inlaid with silver.
+
+Dark-green patina.
+
+Ht.,8 1/2 inches.
+
+(Illustrated.)
+
+- 3—IMPORTANT BRONZE STATUETTE. XVIIIth. dynasty. 53
+
+A Pharaoh, represented in a striding posture, wearing a a crown, and a very rich costume.
+
+Green patina.
+
+(Illustrated.)
+
+- 54 — BRONZE GROUP.
+
+Ht.,15 inches.
+
+XVIIIth.dynasty.
+
+g figure of Isis, with Horus on her knees. An
+
+Crouching extremely rare representation.
+
+Brown patina with green spots.
+
+(Illustrated.)
+
+- 55 -FIVE FRAGMENTS OF A PRECIOUS GOLD AND SILVER CASKET. XVIIIth. dynasty.
+
+With figures and inscriptions, very beautifully chased. One of the fragments bears an entire figure and a cartouche, two others bear heads, hieroglyphics, etc., in gold on silver.
+
+Ht.,4 inches.
+## ASSYRIAN ART
+
+## 56-FINE ASSYRIAN STONE RELIEF. Tth.century B.C.
+
+Head of Assurbanipal. He wears a hemispherical headdress, and a long narrow beard, elaborately conventionalised.
+
+Ht.,24 inches;W.,22inches.
+
+(Illustrated.)
+## 58
+
+## GREEK SCULPTURE
+
+57 — ARCHAIC STATUETTE.
+
+Cyprus, Vth.century B.C.
+
+Limestone figure of Apollo. The cheekbones are prominent ; the hair is covered with a veil, and the figure wears a simple robe, cut V-shaped at the neck, with wide sleeves. A work of striking character. Ht.,71/2 inches.
+
+(Illustrated.)
+
+## —ARCHAIC MARBLE HEAD.
+
+Head of Apollo.
+
+The hair, arranged in rows of formal curls on the forehead, is bound with a braid through which the locks falling over the nape of the neck are caught up. The nose is mutilated.
+
+Ht.,7 inches.
+
+Beginning of IVth. century B.C.
+
+59 9—MARBLE HEAD.
+
+Bearded head of Zeus, showing signs of wear by exposure.
+
+Ht.,12 inches.
+
+Vth. century B.C.
+
+60 -MARBLE GROUP.
+
+A doe licking her young, which lies by her left side. The movement of the doe's neck is graceful and natural. The legs are missing. Ht.,9 inches;Length,18 inches.
+
+61 CHEST'OF AN ATHLETE.
+
+IVth.century B.C.
+
+In Pentelic marble. The soulders are very finely treated and the whole is magnificent in its strength.
+
+(Illustrated.)
+
+Ht.,13 inches.
+62 2-MARBLE TORSO OF A MAN. Early Vth.century B.C.
+
+Carrying a wine-skin over the left shoulder.
+
+Ht.,22 1/2 inches.
+
+About 5oo B.C.
+
+From the Pozzi collection.
+
+63 — MARBLE HEAD.
+
+A very fine archaic head of Athene,in Parian marble, with traces of earth. A helmet of some other material was pro- bably set on the back of the head.
+
+An important work,representing the transition from archaic art to the art of the 5th.century.
+
+(Illustrated.)
+
+Ht.,7 1/4 inches.
+## 62-MARBLETORSOOFAMAN. EarlyVth.century B.C.
+
+Carrying a wine-skin over the left shoulder.
+
+Ht.,22 1/2inches.
+
+About 500 B.C.
+
+From thePozzi collection.
+
+63—MARBLE HEAD.
+
+A very fine archaic head of Athene, in Parian marble,with traces of earth.A helmet of some other material was probably set on the back of the head.
+
+An important work,representing the transition from archaic art to the art of the 5th.century.
+
+Ht.,7 1/4 inches.
+
+(Illustrated.)
+
+<!-- image -->
+## 64 FINE MARBLE TORSO.
+
+End of Vth.or beginning of IVth.century B.C.
+
+Nude torso of a youth, in Parian marble. A work of great beauty, by a sculptor of importance.
+
+down.
+
+Missing : an arm, a forearm, a foot, and one leg from the knee
+
+Ht.,36 inches.
+## 65
+
+## 5-COLOSSAL HEAD IN WHITE MARBLE. IVth.to IIIrd.century B.C.
+
+Head of Artemis. Part of the waving hair is coiled up high on the head, the rest carried away on either side of the brow, half-hiding the ears. The eyes, full of life and interest, seem fixed at a distance, the lips are slightly parted. The nose is damaged.
+
+(Illustrated.)
+
+66—MARBLE STATUETTE.
+
+Ht.,16 inches.
+
+IIrd.century B.C.
+
+Figure of Venus, nude. A drapery is passed over her head, and falls to the ground. The expression of the face is pleasing, and the torso and thighs are beautifully modelled. One of the arms, which are damaged, supports the drapery. Traces of the action of salt water.
+
+Ht.,14 inches.
+
+67 -WHITE MARBLE HEAD. IVth. to IIIrd. century B.C.
+
+A very beautiful head of a woman. Part of the crown of the head is missing, but the face is intact. The hair is drawn back to a knot at the back; the head is turned slightly aside, and the eyes cast downward with a sweet and melancholy expression. The mouth and chin, particularly as seen in profile, are modelled with much delicacy. Evidently the work of a great artist.
+
+Part of nose restored in plaster.
+## 65-COLOSSAL HEAD IN WHITE MARBLE.
+
+## IVth. to IIIrd. century B.C.
+
+Head of Artemis. Part of the waving hair is coiled up high on the head, the rest carried away on either side of the brow, half-hiding the ears. The eyes, full of life and interest, seem fixed at a distance, the lips are slightly parted. The nose is damaged.
+
+(Illustrated.)
+
+66—MARBLE STATUETTE.
+
+Ht.,16 inches.
+
+IIrd.century B.C.
+
+Figure of Venus, nude. A drapery is passed over her head, and falls to the ground. The expression of the face is pleasing, and the torso and thighs are beautifully modelled. One of the arms, which are damaged, supports the drapery. Traces of the action of salt water.
+
+Ht.,14 inches.
+
+## 67 WHITE MARBLE HEAD. IVth. to IIIrd. century B.C.
+
+A very beautiful head of a woman. Part of the crown of the head is missing, but the face is intact. The hair is drawn back to a knot at the back; the head is turned slightly aside, and the eyes cast downward with a sweet and melancholy expression. The mouth and chin, particularly as seen in profile, are modelled with much delicacy. Evidently the work of a great artist.
+
+Part of nose restored in plaster.
+## 68—WHITE MARBLE HEAD.
+
+IIrd. century B.C.
+
+Head of Venus, in marble ; the expression is fresh and natural, the lips parted in a smile.The wavy hair is parted in the centre of the forehead, the profile is pure,and the perfect oval of the face surmounts a long and elegant neck.
+
+Ht.,13 inches.
+
+Vth.century B.C.
+
+(Illustrated.)
+
+69 —PORTION OF A RELIEF.
+
+In the finest Attic style;from a stele:An ederly bearded man is represented, seated on a chair, and clad in a tunic leaving the arms bare. His right hand is extended.
+
+Ht.,17 inches; W.,11 inches.
+
+Vth.century B.C.
+
+—LARGE SEPULCHRAL VASE.
+
+In Pentelic marble; of elegant form, bearing an inscription.
+
+Above the inscription, three personnages in bas-relief : a man seated on a chair, receiving the homage of two other men standing before him.
+
+Ht., 39 inches.
+
+70
+
+(Illustrated.)
+## —LARGE SEPULCHRAL VASE. 71
+
+Vth.century B.C.
+
+In Pentelic marble. Attic style. In bas-relief :a man, seated, receiving the homage of a man standing before him.
+
+Part of the neck is missing.
+
+(Illustrated.)
+
+## TERRA-COTTA RELIEF. 72
+
+Ht.,22 inches.
+
+Archaic period.
+
+Two pieces of a relief in terra-cotta, forming part of an ex-voto.
+
+The one represents a nude bearded male figure seated with arms oustretched on a stool; the other,a nude beardless male figure seated on a chair.
+
+(Illustrated.)
+
+## 73 — TERRA-COTTA STATUETTE.
+
+A woman, kneeling before a cradle containing a child in The woman's hands, which are missing,
+
+Ht.,8 inches.
+
+swaddling-clothes.T rested on the edge of the cradle.
+
+A very rare specimen of the early art of the Greek islands.
+
+## 4—TERRA-COTTA STATUETTE.
+
+Greece or Asia Minor,C. 2oo B.C.
+
+Crouching figure of a naked woman, in terra-cotta. Her body is inclined to the left,her hands are raised to touch her head, her left elbow rests on her knee.
+
+## 74
+
+Ht.,6 1/2 inches.
+## BRONZES
+
+## GREEK AND ETRUSCAN
+
+—BRONZE STATUETTE OF WARRIOR.
+
+Etruscan.
+
+Wearing a helmet. Part of the left arm is missing; the right arm, which is raised, doubtless held a lance.
+
+Ht.,5 1/2 inches.
+
+## VERY EARLY BRONZE STATUETTE.
+
+A nude man, holding a bowl. The size of the head is exaggerated, but the figure has great style.
+
+Ht.,43/4inches.
+
+Width,3 inches.
+
+Green patina.
+
+## 77—BRONZE HANDLE OF VASE.
+
+Decorated with an archaic head.
+
+From the Fitz Henry Collection.
+
+## 78-ARCHAIC BRONZE STATUETTE.
+
+A naked youth, with long hair brushed straight back, and arms pressed closely to the sides; the left foot is advanced.
+## 9—ARCHAIC BRONZE STATUETTE OF APOLLO.
+
+Greek,c.50o B.C.
+
+Nude, standing with the right foot advanced, and the left arm hanging by his side; the right arm is partly missing.
+
+Ht.,5 3/8 inches.
+
+## 80 —ARCHAIC BRONZE STATUETTE OF APOLLO.
+
+Greek, c. 500 B.C.
+
+Standing nude,with hands and left foot slightly advanced. Green and brown patina.
+
+Ht.,53/4inches.
+
+## 81 —BRONZE STATUETTE OF BEARDED WARRIOR.
+
+Archaic Etruscan.
+
+Wearing helmet, short tunic, and greaves. The right hand and left foot are missing. Green patina.
+
+(Illustrated.)
+
+Ht.,7 1/2 inches.
+
+## 82-BRONZE STATUETTE OF WARRIOR.
+
+Wearing a helmet, and armed with lance and shield. Found at Thebes, near the Electra Gate.
+
+Ht.,(to tip of helmet)9 1/2 inches.
+
+Archaic Greek style;but possibly Etruscan. Green patina.
+
+On red marble pedestal.
+
+(Illustrated.)
+
+## 79
+## 83 -BRONZE STATUETTE OF APOLLO.
+
+Etruscan,VIth.century B.C.
+
+In archaic style. His arms are stretched downwards, the rated. The face is round and smiling. He is entirely nude, save for singular pointed shoes on his feet. This is unquestionably a representation of Apollo, as the pose is exactly that of the Apollo of Thera, which would appear to be the earliest existing statue of the God.
+
+A very fine piece, in perfect preservation. Green patina.
+
+Ht.,5 1/2inches.
+
+Greek,c.500 B.C.
+
+(Illustrated.)
+
+84 NUDE ARCHAIC STATUETTE.
+
+A bearded man, with long braids of hair falling over his shoulders. The left arm, and lower part of the legs, are wanting.
+
+Evidently the stand of a mirror. Black patina.
+
+(Illustrated.)
+
+Ht.,41/4inches.
+## 85
+
+## —BRONZE STATUETTE.
+
+Greek, c. 500 B.C.
+
+Very fine and powerful figure of a bearded warrior, clad in helmet, cuirasse, and tunic. Forearms and lower part of legs missing.
+
+(Illustrated.)
+
+## 86-PART OF A BRONZE RELIEF.
+
+Naked youth, with short curly hair, half-reclining, caressing a dog at his side. Green and red patina.
+
+Ht.,5 inches.
+
+A fine specimen of Greek art of the 5th, cent. B. C.
+
+Mounted on yellow marble.
+
+87-BRONZE STATUETTE.
+
+Greek, IIIrd. century B.C.
+
+An old bearded man, readily to be identified as Diogenes. He is moving forward, with a staff in his right hand, and a bowl in the other. His face has great character and expression. His hair is abundant, falling in thick locks. He wears a mantle, caught at the shoudler by a fibula, leaving the right arm bare, and falling to the middle of the leg in harmonious and supple folds. On his feet are thick-soled boots. Bronze pedestal. Green patina.
+
+Ht.,7 inches.
+
+Ht.,4 1/4 inches.
+
+(Illustrated.)
+## 88 -BRONZE STATUETTE OF SEATED GRYPHON.
+
+The right paw uplifted. Finely modelled and chiselled.
+
+In a state of perfect preservation. Green and brown patina.
+
+An unique specimen of Greek art of the IVth.century B.C.
+
+On a lapis-lazuli base.
+
+Ht.,5 inches.
+
+(Sale in Paris, 1905. No.482
+
+From the P.Philip collection. of the catalogue,illustrated.) From the Fitz Henry collection,London.
+
+(Illustrated.)
+
+## 89 —BRONZE STATUETTE OF ARTEMIS.
+
+She stands with the right leg advanced, dressed in a short chiton with a double girdle, and buskins. The hair is drawn up into a knot on the crown of the head, in a style characteristic of Apollo and Artemis.The right hand is raised to the shoulder, and may originally have been in the act of drawing an arrow from a quiver slung behind her. The left hand, no doubt, held a bow, which, like the quiver-case, is now missing.
+
+A fine specimen of Greek art of the 4th.century.
+
+(Illustrated.)
+
+Dark patina. Ht.,73/4inches.
+
+## 9o —SMALL BRONZE STATUETTE. End of archaic period.
+
+A naked youth. He wears a fillet round his hair, and shoes. The right foot is drawn back, and both hands are advanced;
+
+the right hand probably held a lance.
+- ARCHAIC BRONZE STATUETTE. 91
+
+A naked youth, standing with legs apart, and knees slightly bent; the right arm is raised, and the hand holds some object. The left hand and the feet are missing.
+
+Ht.,4 1/2 inches.
+
+Light-green patina.
+
+- 92 —BRONZE STATUETTE.
+
+Greek,Vth.century B.C.
+
+Very small but exquisite bronze figure of Apollo, with long hair bound by a fillet, and the right arm advanced. Part of the left hand, and the right foot, are missing. Green patina.
+
+Ht.,2 5/8 inches.
+
+- 93 — EARLY BRONZE STATUETTE.
+
+Greek or Etruscan,Vth.century B.C.
+
+A youth, nude, with hair dressed in archaic style.
+
+Ht., 3 inches.
+
+Right forearm, left hand, and part of the legs, missing. Fine light-green patina.
+
+- 94 —BRONZE STATUETTE.
+- C.IVth.century B.C.
+
+A young man, with short curly hair. He wears an ample tunic, caught at waist,and boots. His right arm is raised,as if in the act of hurling a lance. He is moving gforward, the left foot considerably in advance of the right. Red patina.
+
+- 95 —BRONZE STATUETTE.
+
+A boy carrying a hare. Green patina.
+
+Ht.,4 7/8inches.
+
+Early Greek.
+
+Ht.,3 1/2 inches.
+## IMPORTANT BRONZE GROUP. Greek, c. IVth. century B.C. 96
+
+Two wrestlers, finely and powerfully modelled. A bearded man stands upright, holding by the wrist and shoulder a younger man whom he has forced to the ground. Rich green patina.
+
+- 97—BRONZE MIROR-CASE.
+
+Ht., 7 inches.
+
+IVth.century B.C.
+
+With handle. On the cover is an embossed relief, representing a winged figure, seated before an incense burner, upon which with her right hand she pours incense, from a thurible or incense-box in her left hand. She wears a long chiton, and himation over the lower limbs, and her hair is tied in a knot behind her head. On the left, a winged figure of a youth, nude, proffers a bowl.
+
+- 98
+
+Diameter,6 1/2 inches.
+
+## 3-SMALL BRONZE STATUETTE. Greco-E gyptian.
+
+A young priest, wearing a pleated tunic, and a drapery passing over his head. The right hand rests with an easy movement on the hip.
+
+Ht.,3 7/8 inches.
+
+From the Sambon collection.(Sale in Paris, 1914.)
+
+- 一 IMPORTANT BRONZE STATUETTE. IIrd. cent. B.C.
+
+Hercules.
+
+A nude and powerful figure, holding in his right hand a club, high above his head.
+
+Light-green patina.
+
+Ht.,8 3/4 inches.
+
+His foot rests on the head of a lion.
+
+## 99
+## —BRONZE STATUETTE OF ATHLETE. 10O
+
+IIIrd.century B.C.
+
+The body is entirely naked; an arm is missing, the left hand, a foot, and a leg below the knee. What remains is of a quality to make this mutilation particularly regrettable.
+
+Ht.,43/4inches.
+
+## IOI SMALL BRONZE STATUETTE. IVth.century B.C.
+
+A bearded man, wearing a mantle, which leaves bare the right arm and the breast. The right hand is missing.
+
+Ht.,3 inches.
+
+## I02 BRONZE STATUETTE OF A CHILD. Alexandrine.
+
+Wearing a long clinging garment which falls to the ground.
+
+The hair is coiled in a knot at the back of the head.
+
+Ht., 3 3/8 inches.
+
+From the Sambon collection.(Salein Paris,Ig14.)
+
+## 103 —ARCHAIC BRONZE STATUETTE. Phenician.
+
+A female figure nude, save for a heavy necklace. The a piece with the body.
+
+Ht.,5 1/8inches.
+
+attitude is straight and rigid, the arms and legs being of Green patina.
+## 104 — BRONZE STATUETTE OF HERCULES. Phenician.
+
+Wearing on his head a lion-skin, which falls over his left arm. The right arm is raised, and the hand, which is missing doubtless held a club. The body, nude and splendidly muscled, stands in a free and graceful attitude.
+
+Ht.,5 inches.
+
+## 105 —ARCHAIC BRONZE STATUETTE. Phoenician.
+
+A seated man. He wears a skirt, shoes, and a conical hat. His hands are out-stretched. Green patina.
+
+## 106 - SMALL BRONZE STATUETTE.
+
+Ht.,5 inches.
+
+Phonician.
+
+A youth, bearing offerings of grapes and a dove. Conical head-dress.
+
+Ht.,3 1/4 inches.
+
+## 107 -BRONZE STATUETTE OF A MAN. Phenician.
+
+In primitive archaic style. He wears a conical head-dress, and the arms are brought round in a circle towards the chest.
+
+Ht.,43/8inches.
+## 108 -ARCHAIC BRONZE STATUETTE.
+
+Hittite.
+
+Upper part of the figure of a man, with grotesque features, and his hands held, closed, before his chest.
+
+Ht.,3 1/2 inches.
+
+Alexandrine.
+
+Ht.,1 1/2 inches.
+
+109
+
+SMALL BRONZE HEAD OF YOUTH.
+
+Very delicately modelled. Brown patina.
+## 1I0-BRONZE TRIPOD AND LAMP.
+
+Etruscan.
+
+An elegant futed column rests on a foot composed of three sphinxes. The lamp has two spouts.
+
+(Illustrated.)
+
+Ht.,58 inches.
+
+## III-BRONZE ENOCHE,WITH SPOUT. Greco-Roman.
+
+The handle is ornamented, at the base, with a bearded winged figure, and on the rim, with two tiny lions.
+
+Ht.,12 1/2 inches.
+
+Greco-Roman.
+
+- 1I2-BRONZE ENOCHCE.
+
+The handle is decorated with acanthus leaves, and, at the base,with the bust of bearded man, in relief.
+
+Ht.,10 inches.
+
+- 113 3—ELEGANT BRONZE CANTHAROS. Vth.century B.C.
+
+The long delicate handles and the foot have much grace.
+
+Ht.,43/4 inches.
+
+- II4-BRONZE SPATULA. Etruscan,early Vth.century B.C.
+
+With a horse and rider engraved on the blade.
+
+Length,9 1/4 inches.
+
+Green patina.
+- 115 —BRONZE LADLE.
+
+Greek.
+
+With a long handle elegantly terminating in the head of a swan.
+
+Green and red patina.
+
+- 116 -SILVER KYLIX.
+
+Length,20 inches.
+
+Greek or Etruscan, c. 5oo B.C.
+
+An oval cup, decorated with an embossed frieze representing warriors on foot and on horse-back, armed with shields, helmets, and lances.
+
+Ovalshape,53/4inches×41/4inches.
+
+- II7 -IVORY PIECES OF A CASKET. Greek, Vth. century B.C. Two grotesque and two classical heads; with red and blue polychrome.
+- 118 —IVORY SWORD-HILT.
+
+Phenician.
+
+Ornamented with a double head of a lion.
+
+(Illustrated.)
+
+Length,5 1/2 inches.
+
+Greek.
+
+- 119-BONE PYX.
+
+Decorated in relief with two figures, a Cupid and a nude female figure, kneeling and caressing a dog. (Allegory of Love and Fidelity?)
+
+- 120—BONE STATUETTE.
+
+Representing a winged Victory.
+
+Ht.,21/4inches;Diameter 1 1/4inches.
+
+Greek.
+
+Length,4 1/4 inches.
+## I2I
+
+## COPTIC TAPESTRY
+
+## —COPTIC FUNEREAL VESTMENT.
+
+With numerous figures, ornaments, and medallions containing figures of men and animals, woven in dark purple, relieved with orange, on light ground. Fine state of preservation.
+
+Length,3 feet.Width,16 1/2inches.
+
+## I22 —TAPESTRY DECORATION OF A COPTIC VESTMENT
+
+Four bands,and four circular pieces forming the complete decoration of a vestment;woven in several colours on red ground ; with figures, trees, and ornaments. Rare state of preservation.
+
+Teobands251/2inchesby21/2inches. Twobands121/2inchesby41/4inches.
+
+Discs, diameter 6 inches.
+## SCULPTURE
+
+## GOTHIC AND RENAISSANCE
+
+123 -WOODEN STATUETTE OF FEMALE SAINT. France,first half of I4th.century.
+
+Standing, with head turned to the left. Her right hand holds up her dress, the left is pressed to her bosom.
+
+Ht.,20 1/2 inches.
+
+124 - ALABASTER GROUP OF THREE FIGURES. English,15th.century.
+
+A woman,holding gloves, standing between two men.
+
+Ht.,12 inches.
+
+- —WOODEN CRUCIFIX, BEARING FIGURE OF St. WILD-
+- French,late 15th.century.
+- 125 GEFORTE.
+
+An extremely rare representation. The legend relates that, crucified nude, and enceinte, she was found the next morning clothed and bearded.
+
+Polychrome.
+
+Ht.,of figure,23 inches.
+
+## 126 - WOODEN BUST OF FEMALE SAINT.
+
+French, middle of r3th.century.
+
+Life-size. The features and hair are very beautifully interpreted.
+
+(Illustrated.)
+
+Ht.,25 1/2 inches.
+I27
+
+— SQUARE FONT.
+
+Auvergne, 12th. century.
+
+In black stone (pierre de Voluic).At each corner, a head, in severe romanesque style.
+
+Ht.,9 inches.
+
+Normandy,end of 12th.century.
+
+128-OAK GROUP.
+
+The Virgin and Child, seated, both crowned. The style is severe, expressive of deep religious feeling.
+
+Ht.,21 1/2 inches.
+
+(Illustrated.)
+## CARVED WOOD RELIEF OF THE NATIVITY. I29 —
+
+French,I3th.century.
+
+The Virgin, recumbent, with the child supported by St. Anne, and St. Joseph leaning on a staff. Below, the manger, with ox and ass; and above, two angels and a figure of God the Father. Remains of polychrome.
+
+Ht.,10 inches.Width,8 inches.
+
+(Illustrated.)
+## 130 -POLYCHROME GROUP IN HARD STONE.
+
+School of the Vosges,I3th.century.
+
+St. Christopher, carrying on his shoulders the Infant Christ. The Child's right hand is raised in benediction;the left holds a lock of the Saint's hair. Intact.
+
+Ht.,361/2inches.
+
+(Illustrated.)
+## 131 — STONE STATUE. Normandy, second half of 13th. century.
+
+A beautiful polychrome and gilt figure of St. Catherine. Part of the wheel, and of the palm leaf, which she carries in her hands, are missing.
+
+Ht.,35inches.
+
+(Illustrated.)
+## I32 2-WHITE MARBLE STATUETTE.
+
+French,middle of I3th.century.
+
+A delicate seated figure of the Virgin. The modelling of the face, and of the hair and crown, is in the finest style of the Ile-de-France.
+
+Cracks caused by exposure ; right hand missing.
+
+Ht.,19 1/2 inches.
+
+(Illustrated.)
+## STONE STATUE OF A SAINTED BISHOP. 133— East of France, end of 13th. century.
+
+A work of remarkable character.
+
+Polychrome. The hands are missing.
+
+(Illustrated.)
+
+Ht.,35 inches.
+134 -STONE GROUP.
+
+France,first half of I4th.century.
+
+A youthful saint carried in the mouth of a lion. Traces of polychrome.
+
+Ht.,18 1/2inches.
+
+(Ilustrated.)
+
+## 135 —WOODEN CARVING IN HIGH RELIEF.
+
+French,I4th.century.
+
+Representing the Virgin, with the Child, seated on a bench, in an ogival recess. The folds of her voluminous dress are most graceful.
+
+Ht.,8inches.Width,71/4inches.
+
+(Illustrated.)
+
+136 5—BOXWOOD GROUP.
+
+Ile de France,I3th.century.
+
+Standing figure of the Virgin, with the Child in her arms. In the finest style of the French 13th. century. Probably by the same artist as the ivory Virgin from the Sainte Chapelle, now in the Louvre. Traces of polychrome.
+
+Ht., 1l inches.
+
+(Illustrated.)
+137 —BOXWOOD GROUP.
+
+French,early I4th.century.
+
+The Virgin, seated, holding the Child, standing, on her knee. The head of the Child, and the right hand of the
+
+Virgin, are missing.
+
+(Illustrated.)
+
+138 8-SMALL GRACEFUL BOXWOOD STATUETTE.
+
+English,15th.century.
+
+A young Saint, crowned, and in armour. At his feet lies a calf, admirably carved.
+
+The forearms and part of the feet are missing.
+
+Ht.,4 5/8 inches.
+
+Time has conferred on this piece a wonderful deep-red patina.
+
+Ht.,9 1/2 inches.
+## 139 9—FINE CARVED KEYSTONE. French,I5th.century.
+
+St. John, with the Pascal lamb, in a setting of stylised foliage.
+
+Ht.,20 inches;Width,24 1/2 inches.
+
+(Illustrated.)
+## 0o-VERY BEAUTIFUL WOODEN STATUE OF St. JOHN. I40
+
+## Picardy,second half of 15th.century.
+
+The head, with a charming expression, is inclined slightly to the right, and the pose is free and gracious. A heavy drapery, with folds elaborately carved, passes over the left shoulder, and is caught up on the right under the Saint's girdle. The left hand holds a book.
+
+The right forearm is missing; the statue is otherwise admirably preserved.
+
+Traces of the old polychrome remain.
+
+(Illustrated.)
+
+Ht.,45 inches.
+140
+
+<!-- image -->
+141
+
+<!-- image -->
+STONE STATUE. I4I
+
+Picardy,second half of I5th.century.
+
+St. Catherine; her feet resting on Vice, in the figure of an armoured man. In her left hand she holds an open book; Her crown, and her long hair, falling the right is missing. over her shoulders, are gilt. Remains of polychrome.
+
+Ht.,50 inches.
+
+(Illustrated.)
+I42
+
+GERMAIN PILON.
+
+France:I6th.—I7th.century.
+
+Life-size marble bust, presumed to be the portrait of Diane de Poitiers. A delicately modelled drapery (strongly reminiscent of that of the Three Graces, by the same master, in the Louvre) is supported low on the breast by a ribbon which passes over the right shoulder, suggesting a quiver slung at her back. The wavy hair is drawn up all round the head and bound with a plait. On a base of green marble.
+
+Ht.,26 inches.
+
+(Illustrated.)
+
+143 ——WOODEN STATUETTE.French, second half of 15th.century.
+
+A Saint, seated, with a book in his hand.The face has remarkable character. Polychrome and gilt.
+
+Ht.,8 1/2 inches.
+144 SMALLBOXWOODGROUP. French,I4th.century.
+
+The Virgin, fainting in the arms of St. John.
+
+(Illustrated.)
+
+Ht., 6 inches.
+
+145 —WOODEN BUST. North of France,late I5th.century.
+
+A youthful saint, or angel, with long curling hair, and a sweet expression.
+
+146 PIETA, IN WOOD.
+
+Remains of polychrome.
+
+Ht.,15 inches.
+
+French,early 16th.century.
+
+Ht.,15 inches.
+
+WOODEN STATUE OF St. JOHN. Italian,I3 th.century. I47 一
+
+Standing, holding an open book. The features, of Giottesque severity, are remarkably beautiful. Remains of the original polychrome and gilding. The hands have been damaged.
+
+Ht.,36 1/4 inches.
+
+(Illustrated.)
+## I48 8—MATTEO CIVITALI.
+
+Lucca:1435-1501.
+
+Wooden polychrome bust of Christ. The head is in the archaic manner of the early Quatrocento masters, and possesses immense character. Excellent state of preserva- tion.
+
+From the Molinier collection.
+
+(Illustrated.)
+
+Ht.,19 inches.
+## 149-GIOVANNI-ANTONIO AMADEO Pavia:I447-I522.
+
+Marble group of the Virgin and Child : the latter seated on a cushion, and holding in his hand a bird, which he feeds with berries. The expression of the Virgin is grave ; she is shown three-quarter length, and the importance of the Child is enhanced by the comparatively large scale on which he is presented.
+
+The original polychrome is beautifully preserved.
+
+(Illustrated.)
+
+Ht.,16 inches.
+## 150
+
+A very beautiful head of St. John the Baptist, in wood. This work, with the wonderfully expressive face framed in long severe curls,is almost certainly the work of the master to whom it is attributed.
+
+Purchased at the sale of the collection of M.Ravaisson-Mollien (a former director of the Musée du Louore) on the cover of the catalogue of which it is illustrated.
+
+Ht.,12 inches.
+
+(Illustrated.)
+I5I —WOODEN RELIEF.Lombardy, beginning of 16th.century.
+
+Representing the legend of Adonis. In the centre, the birth of Adonis : a hooded figure removes him from the body of his mother,Myrrha,metamorphosed into a tree;dryads look on. To the right, Venus is seated by the side of Adonis, who is richly dressed in armour, and holds an arrow. From the air, Cupid takes aim at the pair. On the left, the God Mars, in a fury of jealousy, enters sword in hand, and a dryad flees at the sight of him.
+
+From the Rodolphe Kann collection;illustrated in the cata- logue(1907: Tome I; No.34) and described by Dr. Bode.
+
+Ht.,20inches;Width,37 1/2 inches.
+
+(Illustrated.)
+152
+
+## ——VECCHIETTA.
+
+Siena, 1412-1480.
+
+Boxwood figure of Christ, seated, wearing the crown of thorns; nude, save for a drapery across the left leg. This work, of delicate yet masterly style,is a rare specimen of the art of the Siennese sculptor.
+
+Ht.,91/4inches.
+
+(Illustrated.)
+152
+
+VECCHIETTA.
+
+Siena, 1412-1480.
+
+Boxwood figure of Christ, seated, wearing the crown of thorns ; nude, save for a drapery across the left leg. This work, of delicate yet masterly style, is a rare specimen of the art of the Siennese sculptor.
+
+Ht.,91/4 inches.
+
+(Illustrated.)
+## 153 -POLYCHROME AND GILT WOODEN STATUE.
+
+North of Italy,I5th.century.
+
+The Angel of the Annunciation;a remarkably graceful interpretation. The face and expression are of great sweetness and beauty, and the whole is in a wonderful state of preservation.
+
+(Ilustrated.)
+
+Ht.,3 ft.,7 inches.
+## 154-DONATELLO.
+
+Florence:1386-1466.
+
+Terra-cotta relief of the Virgin and Child, in carved-wood frame of the period.
+
+Ht.,22 1/2 inches;Width 17 inches.
+
+(Illustrated.)
+155-DONATELLO.
+
+(School of) Florence,I5th.century.
+
+White marble relief,representing the head of Christ, crowned with thorns, and weeping.
+
+Ht.,183/4 inches;Width,13 3/4 inches.
+
+(Illustrated.)
+## I56 —ANTONIO ROSSELLINO.
+
+Florence:1427-I478
+
+Part of an altar, in white marble : heads and wings of cherubs, in the finest style of the master.
+
+Ht.,1l 1/2inches.
+
+(Illustrated.)
+Florence,I5th.century.
+
+In the form of a great doorway, with elaborate pilasters, and an angel in a niche on either side; above, the Holy Ghost descending in the form of a dove.
+
+Ht.,37inches;Width,27 1/2 inches.
+
+(Illuustrated.)
+## I58 —TOMMASO FIAMBERTI.
+
+(Worked at Ravenna;contemporary of Mino da Fiesole).
+
+Stone relief of the Virgin and Child. A characteristic work, as well in its delicate feeling and charming expression, as in its beautiful modelling.
+
+Ht.,13 1/2 inches;Width,9 inches.
+
+(Illustrated.)
+## 159 —DESIDERIO DA SETTIGNANO. Florence : 1428-1464.
+
+Terra-cotta statuette of the Virgin, seated, with the Child.
+
+Exquisite workmanship. The folds of the drapery are still almost Gothic in character : while the tenderness of the expression shows the dawn of the Renaissance feeling.
+
+Ht.,131/2inches.
+
+(Illustrated.)
+160CAPITAL OF APILASTER. Florence,I5th.century.
+
+In grey stone (pietra serena); from the courtyard of the Strozzi palace, Florence. A nude female figure, between two winged male figures, and acanthus leaves.
+
+Ht.,32 inches;Width,26 inches.
+
+(Illustrated.)
+161 一 CRISTOFORO MANTEGAZZA. Lombardy:d.1482.
+
+Marble relief of St. Francis of Assisi. The Saint is standing with a cruxifix and a book in his hands, wearing the dress of his Order.
+
+Ht.,33 1/2 inches;Width,12inches.
+
+(Illustrated.)
+
+162-MARBLE RELIEF. North ofItaly,end ofI5th.century.
+
+Representing an allegorical subject. On the right, Juno's chariot, drawn by swans, one of which has been attacked On the left, Bacchus；and in the
+
+Ht.,121/2;Width,47inches.
+
+END OF FIRST SESSION
+
+by the owl of Minerva. centre, Cupid, with Cerberus.
+## SECOND SESSION
+
+Friday,January 7th.,1927. at 2.15 p. m.
+
+(Catalogue numbers 163 to 335 inclusive.)
+
+## PERSIAN POTTERY
+
+- 163 3— Small Rakka jug, with light-green iridescent glaze over blue, green and dark-red decoration.
+
+Rakka,c.gth.century.
+
+Ht.,4 inches.
+
+- 164 — Vase, standing on a hollow foot, with adherent concave cover, pierced. Turquoise-blue and black decoration ; strong iridescence.
+- Rakka, c. gth. century.
+- 165 5——Iridescent bowl with light-green glaze over brown and blue design.
+
+Ht.,7 1/4inches;Diameter,51/4 inches.
+
+Rakka,c.gth.century.
+
+Ht.,3 1/2 inches;Diameter,6 1/2 inches.
+- 166 — Shallow bowl, with iridescent cream glaze upon brown ground, with light and dark blue ornaments. Stylised inscription.
+
+Rakka,c.gth.century.
+
+Ht.,4 inches:Diameter,9inches.
+
+- 167 —Rakka bowl, with lightish iridescent glaze over blue and black decoration. A stylised inscription round the inner rim.
+
+Rakka,c.gth.century.
+
+Ht.,3 inches;Diameter,7 1/2inches.
+
+- 168 —S Shallow Rakka bowl, with cream glaze on brown design, cobalt-blue spots, iridescence. Fine state of preservation.
+
+Rakka,c.gth.century.
+
+Ht.,31/4 inches;Diameter,5inches.
+
+- 169 — Jug, decorated with cream glaze upon brown, iridescent ; cobalt and turquoise-blue spots, and an inscription round the neck.
+
+RakRa,c.gth.century.
+
+Ht., 7 inches.
+- I70 Rakka bowl, with fattened rim. Iridescent cobalt-blue glaze over black scrolls ; with a circular inscription in stylised characters in black and green.
+
+Rakka,c.gth.century.
+
+Diameter,1l inches.
+
+- I7I —Large iridescent Rakka bowl, cream glaze on blue and brown decoration, bearing fine stylised inscription in centre. Partly restored.
+
+Rakka,c.gth.century.
+
+Ht.,5 1/2 inches;Diameter,12 inches.
+
+- I72 —Bowl covered with black-brown iridescent glaze over embossed decoration. Indented rim.
+
+Rakka, c. gth. century.
+
+Ht.,3 inches;Diameter,7 1/2 inches.
+
+- I73 3— Small Rakka bowl, with light iridescent glaze over blue, black and green ornaments. In the centre, the figure of a king, seated cross-legged on the ground.
+
+Rakka,c.gth.century.
+
+Ht.,3inches;Diameter,51/4inches.
+
+- I74 一 Important Rakka jar; cream glaze over brown embossed decoration; strongly iridescent.
+
+Rakka,9t.century.
+
+Ht., 13 inches.
+
+(Illustrated.)
+- 5—Large Rakka jar, with light-green glaze over embossed 175 ornamentation.
+
+Rakka,c.gth.century.
+
+(Illustrated.)
+
+Ht., 13 inches.
+
+- 176 5—Large jar, with light-green glaze over dark-blue and black decoration. An inscription round the neck.
+
+Syria,I2th.century.
+
+(Illustrated.)
+
+- 177 7—Very fine jar, light greenish glaze over black and blue decoration.
+
+Syria,I3th.century.
+
+(Illustrated.)
+
+Ht.,ll inches.
+
+- 178 — Small jar; with light glaze over dark-blue and black decoration
+
+Syria,13th.century.
+
+Ht.,7 inches.
+
+- 179 —— Jar with light glaze over broad black decoration.
+
+Syria,I4th.century.
+
+Ht., 8 inches.
+
+- 180 — Deep narrow-mouthed bowl, ornamented in turquoise-blue and dark-blue, strongly iridescent.
+
+Rakka,gth.century.
+
+Ht.,5 inches;Diameter,7inches.
+
+Ht.,12 inches.
+- 181 Turquoise-blue jug, strongly iridescent.
+
+Rakka,gth.century.
+
+Ht., 8 inches.
+
+- 182 Narrow-necked vase, decorated in turquoise-blue and black strongly iridescent.
+
+Rakka,gth.century.
+
+Ht., 8 inches.
+
+- 183 Very fine shallow bowl, ornamented with large and small
+- fishes, in black, under a turquoise-blue glaze; with deepblue rim.
+
+Persia,c.Ioth.century.
+
+(Illustrated.)
+
+Diameter, 12 inches.
+
+- 184 一 Shallow glazed earthen bowl, standing on a hollow foot. Green design on a cream ground. Persia.
+
+A similar piece in the Louure is described and illustrated by
+
+(See Maurice Pezard, ,, La ceramique archaique de lIslam et ses origines ",Paris, Ernest Leroux, I920.)
+
+Pezard, and ascribed to the 7th.or 8th.century.
+
+Ht.,3 3/4;Diameter,6inches.
+
+- 185 — Glazed earthen bowl, with a green decoration engraved in
+- slight relief.
+
+Persia, 8th. century.
+
+Ht.,4 3/4 inches;Diameter,10 inches.
+
+Described and illustrated by Pezard, op. cit.,Pl.LVII.
+
+(Illustrated.)
+- 186 — Shallow bowl in glazed earthenware, with part of rim repaired. Engraved decoration in slight relief, with two eagles. Yellowish glaze on Van Dyck brown and sepia ground. Geen spots on the outside.
+
+Persia,8th.century.
+
+Ht.,2 5/8 inches;Diameter,8inches.
+
+Reproduced by Pezard,Pl.LXxI.
+
+(Illustrated.)
+
+- 187 - Bowl similar to the above. Decorated on the inside with a regular design. Brown glaze on a cream ground.
+
+Persia,8th.century.
+
+Ht.,31/4inches;Diameter,71/4inches.
+
+Reproduced by Pezard, Pl. LXXI.
+
+188 — Cover of a vase, with green glaze ; showing an eagle.
+
+Persia,8th.century.
+
+Reproduced by Pezard, Pl. LIV.
+
+(Illustrated.)
+
+Diameter,61/4inches.
+- 189 Glazed earthen pot, decorated with a frieze of eagles. Yellow glaze on dark brown ground.
+
+Persia,8th.century.
+
+Reproduced by Pezard, Pl. LXxVI.
+
+(Illustrated.)
+
+- 190 Turquoise-blue earthen bowl, decorated on the inside with an engraved frieze of fishes.
+
+Persia,gth.century.
+
+Ht., 7 inches.
+
+Ht.,23/4 inches;Diameter,8 inches.
+
+Reproduced by Pezard,Pl.LXXxVII1.
+
+(Illustrated.)
+
+- 191 Glazed earthen bowl, with green splashes and yellow and brown designs, on cream.
+
+Persia,gth.century.
+
+Ht.,3 1/4inches;Diameter,11 1/4inches.
+
+Reproduced by Pezard,Pl. CIV.
+- Green glazed earthen bowl. ornamented on the inside with 192 a stylised inscription.
+
+Persia,8th.century.
+
+Ht.,3 inches;Diameter,7 inches.
+
+(Illustrated.)
+
+- 193 一 Large glazed bowl, decorated on the inside with three eagles in cream on a brown ground. Green rim.
+
+Zendjan,9th.century.
+
+Ht.,41/4inches;Diameter,9inches.
+
+(Illustrated.)
+
+- 194 -S Shallow glazed earthen bowl,with two fabulous beasts in yellow on brown ground.
+
+Persia,8th.century.
+
+(Illustrated.)
+
+- 195 Earthen bowl, with a spread eagle amid foliage. Cream on brown ground, with iridescence.
+
+Persia,8th.century.
+
+Ht.,23/8 inches;Diameter,61/8inches.
+
+(Illustrated.)
+
+Diameter,7inches.
+- 196
+- Deep glazed bowl, with stylised decoration in cream glaze on brown, with green splashes.
+
+Persia,8th.century. Ht.,4 1/4 inches;Diameter,9 inches. (Illustrated.)
+
+- 197— White fat-bottomed basin, ecorated with dark blue fower
+- and foliage on white ground.
+
+Persia, 8th. to 1oth. century.
+
+Ht.,3 1/4 inches;Diameter,12inches.
+
+(Illustrated.)
+
+- 198 Upper part of an earthern water-jar, ornamented with a figure of an animal, amid scrolls, with two human heads and two lion heads on either side.
+
+Persia,8th.to 1oth.century. A similar fragment is preserved in the Louure, and another in the British Museum.
+
+(Illustrated.)
+
+Ht., 8 1/2 inches; Diameter, 14 inches.
+
+- 199 — Dark-brown vase with cream-coloured decoration.
+
+Found at Fostat.Early period.
+
+- 200 一
+
+Ht., 8 1/2 inches.
+
+- Red earthenware cup, with yellow glaze; engraved ornamentation on the outside; dark-brown arabesque engraved and raised in centre.
+
+Found at Fostat. Early period.
+
+Ht.,5 1/2 inches;Diameter,9 inches.
+201, 202, 203, 204 — Four lustre tiles, with figures (light-brown on cream) representing a man running, a stag, a dragon, and a man seated on the ground. Extremely rare.
+
+Found at Fostat.
+
+Each about 3 inches squares.
+
+- 205-S Shallow bowl, with three fishes in low relief in the centre, and raised circular ornamentation on the edge.Greenishblue glaze.
+
+Babylonian or Persian.
+
+Diameter,8inches.
+
+(Sale in Paris, 1914.)
+
+From the Sambon collection.
+- 206 —Turquoise-blue vase, with embossed ornamentation.
+
+Early Persian, c.gth.century.
+
+Ht.,8 1/4 inches.
+
+- 207 — Delicate turquoise-blue bowl, ornamented on the outside with raised scrolls.
+
+Early Persian; c.gth. century.
+
+Ht.,41/2 inches;Diameter,6 3/4 inches.
+
+- 208 —Jar of albarello shape; turquoise-blue glaze over black design.
+
+Rhages, 12th. century.
+
+Ht.,11 inches.
+
+- 209 9——Large jar, with dark-blue glaze over embossed ornamentation.
+
+Rhages,I2th.century.
+
+Ht.,14 inches.
+- 210 一 Ewer, with dark-blue glaze and delicate gilt decoration. Strong iridescence.
+
+Rhages,13th.century.
+
+Hr.,12 inches.
+
+- 2II 一 Lobed lustre bottle, with decoration of birds and various designs.
+
+Rhages,I2th.century.
+
+(Illustrated.)
+
+- 212 Fine goblet, with turquoise-blue iridescent glaze on black inscription and decoration.
+
+Rhages, 12th. century.
+
+Ht.,7 3/4 inches.
+
+Ht.,4 3/4 inches.
+
+- 2I3 一 Fine lobed ewer; with cream glaze over brown metallic scrolls, and dark-blue and turquoise-blue stripes.
+
+Rhages,I3th.century.
+
+(Illustrated.)
+
+Ht.,14 1/2inches.
+- 2I4 White bowl with polychrome and gilt ornamentation.An embossed design of birds in the centre, and an inscription round the rim.
+
+Rhages,13th.century.
+
+(Illustrated.)
+
+Diameter,8 inches.
+
+- 215 Octagonal vase, with brown metallic glaze on light ground.
+
+Rhages, 13th. century.
+
+- iridescent turquoise-blue glaze.
+
+Ht., 9 1/4 inches.
+
+- 216 Head of a lion, of particulary fine character, covered with
+
+Rhages, before I2th.century.
+
+(Illustrated.)
+
+- 217 -Bowl, with undulated rim, showing a crouching figure in the centre, surrounded by a procession of camels, amid which stands another figure. Manganese, dark-blue and turquoise-blue ornamentation.
+
+One of the earliest specimens of this ware.
+
+Rhages, 12th. century.
+
+Ht.,4 1/2 inches;Diameter,9inches.
+
+(Illustraded.)
+
+Ht.,4 1/2 inches.
+- 218 8—1 Delicate jug,with cream glaze and deep-blue splashes, decorated with gilt figures. Extremely rare.
+
+Rhages,I3th.century.
+
+Ht.,5 3/4 inches.
+
+- 219.—Very rare and beautiful vase, with cobalt-blue glaze over embossed frieze showing a procession of figures of Mongolian type.
+
+Rhages,I2th.century.
+
+(Illustrated.)
+
+Ht., 10 1/2 inches.
+- 220 Very important fat bowl, with narrowing mouth; polychrome and gilt decoration, showing two sphinxes face to face, and seven other figures, (one repaired) birds, etc. and fine ornamental scroll below.
+
+Rhages,I3th. century.
+
+Ht.,41/8inches;Diameter,81/2inches. (Illustrated.)
+
+- 221 Turquoise-blue bowl, with gold arabesques and stylised
+- inscriptions round the rim.
+
+Rhages, I3th. century.
+
+Diameter,71/2inches.
+
+- — Bowl with very fine metallic glaze on light ground, showing 222 two figures seated in the centre, and a stylised inscription
+- round the inside.
+
+Rhages, early 13th. century. Ht., 3 3/4 inches; Diameter, 8 inches. (Illustrated.)
+
+- 223 —— Vase, with greenish metallic glaze on white ground, showing below the neck a frieze of beautifully designed animals, and a stylised inscription beneath. Neck repaired.
+
+Rhages,I3th.century.
+
+Ht.,6 5/8 inches.
+
+- 224—1 Beautiful lustre bowl, with blue decoration on white ground,
+- showing in the centre two seated figures, and round the rim figures in medallions, interspersed with signs of the zodiac. Stylised inscription round outer border.
+
+Rhages, I3th. century A. D.
+
+Ht.,3 1/2 inches;Diameter,81/8inches.
+
+From the Collection of Sir George Donaldson,London,and M.Eynard, Lyons.
+
+(Illustrated.)
+- 225 — Jug, with brown metallic glaze on cream ground, showing a frieze of animals, intermingled with scrolls. Part of the neck and the handle are missing.
+
+Rhages,I2th.century.
+
+Ht.,9 1/2 inches.
+
+- 226 Delicate bowl, ornamented with polychrome figures on a white ground, showing in the centre a king seated on a throne, and various other figures interspersed with arabesques. Stylised inscription round rim.
+
+Rhages, 13th. century.
+
+Ht.,3 inches;Diameter,71/4inches.
+
+(Illustrated.)
+
+- Star-shaped tile,polychrome and gilt, with two richly dressed
+- 227 seated figures.
+
+Rhages,I3th.century.
+
+(Illustrated.)
+
+- 228 一 Polychrome bowl, with blue, red and green arabesques on white ground. Stylised inscription round rim and an inscription round the outer rim.
+
+Rhages,I3th.century.
+
+Ht.,7 inches:Width,7 inches.
+
+Diameter,6 3/4 inches.
+- 229 Fine polychrome bowl, with traces of gilding; incomplete.
+
+Rhages, beginning of I3th. century.
+
+Ht.,31/4;Diameter,81/4 inches.
+
+- Polychrome bowl, with a royal personnage seated between two other figures, and surrounded by birds. Incomplete.
+
+Rhages,I3th.century.
+
+- 230
+
+Ht.,31/2inches;Diameter,81/4inches.
+
+- 231 Cream-coloured bowl of very fine shape, with turquoiseblue splashes. In the centre, a gilt rosette, and stylised inscription round the rim.
+
+Rhages, 13th. century.
+
+Ht.,4 inches;Diameter,8 1/2 inches.
+- 232 Shallow bowl, with blue and black decoration on white ground. Numerous inscriptions.
+
+Rhages,early I3th.century.
+
+Ht.,37/8inches;Diameter,81/4inches.
+
+From the Sambon collection. (Sale in Paris,1914.)
+
+- 233 Large hexagonal tile, composed of a central star-shaped tile bearing a sphinx in polychrome, surrounded by small turquoise-blue and deep-blue tiles, with translucent glaze and gold decorations.
+
+Rhages,13th.century.
+
+From the Jeuniette collection.
+
+(Illustrated.)
+
+Ht.,8inches;Width,9inches.
+- Lustre bowl; with fattened rim; showing two figures, 234 between wedges of turquoise-blue and dark-blue. The outside dark-blue, with lustre decoration.
+
+Rhages, 13th. century. Ht.,3 inches;Diameter, 81/2 inches.
+
+- 235 一 Bowl with black cross-shaped ornament, the arms separated by small black designs between blue lines.
+
+Rhages,I3th. century A. D.
+
+Ht.,23/4inches;Diameter,73/4inches
+
+- 236 —Bowl, decorated on the inside with an inscription in large characters, metallic glaze on cream ground.
+
+Rhages,I3th.century. Ht.,31/4nches;Diameter,71/2 inches.
+
+- 237 Polychrome bowl, with three figures surrounded by birds, fowers, and an inscription.
+
+Rhages, 13th. century. Ht.,2 1/2 inches;Diameter,61/4 inches.
+
+- 238 Bowl, decorated with a frieze of birds, amid scrolls, in brown metallic glaze on cream ground. The outside of the bowl is a delicate blue.
+- 239 Small bowl, bearing a stylised inscription round the inside, and another inscription on the outside, in a beautiful greenbrown and rose-coloured metallic glaze on a white ground.
+
+Rhages,I2th.century. Ht.,3inches;Diameter,71/4inches.
+
+Rhages,I2th.century. Ht.,21/2 inches;Diameter,51/2 inches.
+- — Small bowl, decorated on the inside with metallic glaze on 240 a white ground, showing in the centre a horseman. Incomplete.
+
+Rhages, 13th. century. Ht.,3 inches:Diameter,6.1/2 inches.
+
+- 241 Bowl, decorated in blue and green, on white ground ; strongly irridescent. An inscription round the rim.
+
+Rhages,I3th.century. Ht.,33/4inches:Diameter,83/4inches.
+
+- 242 Dark-purple tile, bearing an embossed design of two swans, with necks intertwined.
+
+Rhages,I3th.century.
+
+31/4inchesx5/1/2inches.
+
+- 243 Turquoise-blue openwork tile, with an animal in relief at each corner.
+
+Rhages,13th. century.
+
+Ht.,4 inches;Width,6 inches.
+
+- 244 Lavender-blue jug, with embossed decoration round the neck.
+
+Rhages, I2th. century.
+
+- 245 Turquoise-blue jug, with engraved decoration.
+
+Rhages, 1oth. century.
+
+Ht.,6 3/4 inches.
+
+- 246 —Shallow bowl, decorated with greenish-brown glaze on cream ground, showing figures, ornaments, and inscriptions. Two small pieces missing.
+
+Rhages, 12th. century.
+
+Ht.,3inches;Diameter,73/4inches.
+
+Ht., 9 inches.
+- 247 Large dark-blue spice-dish, iridescent, with one turquoiseblue splash.
+
+Rhages, I2th. century.
+
+Ht.,5 inches;Diameter,13 inches.
+
+- 248 Part of a large lustre plate, decorated in metallic glaze with harpies,birds, and stylised foral ornaments, various inscriptions, and two turquoise-blue splashes.
+
+This plate, although incomplete, is in quality one of the finest specimens known.
+
+Rhages,I3th.century.
+
+Diameter,133/4inches.
+
+- 249 Delicate white bowl, of transparent , rice-grain " ware. Five blue splashes on the inside.
+
+Rhages, 13th. century.
+
+Ht.,23/4inches;Diameter,53/4inches.
+
+- 250 —Plate, divided into wedge-shaped sections, coloured white, turquoise-blue, and dark-blue.
+
+Rhages, 13th. century.
+
+- 251 ——Turquoise-blue plate.
+
+Rhages, I3th. century.
+
+Diameter,10 3/4 inches.
+
+Diameter,83/4 inches.
+
+- 252 Centre of a polychrome bowl (framed in wood.) Two crouching figures, of fine style.
+
+Rhages,12th.century.
+- 253 Beautiful jug,light-blue glaze,embossed black ornamention inscription.
+
+Rhages, 12th. century.
+
+Ht.,51/4 inches.
+
+- 254 Large shallow bowl, turquoise-blue and black, iridescent; with a crouching figure in the centre.
+
+Rhages, I2th. century.
+
+Diameter,121/2inches.
+
+- 255 Turquoise-blue bowl, with fattened blue rim; black design, with a seated figure in the centre.
+
+Rhages, 12th. century. Ht.,31/2 inches;Diameter,71/2 inches.
+
+Ht.,21/2 inches;Diameter,57/8inches.
+
+- 256 Turquoise-blue bowl, with black decoration. Rhages, I3th. century.
+- 257 一 Large shallow turquoise-blue and dark-blue bowl, with fattened and indented rim,ornamented on the inside with fowers and inscriptions, on the outside with a design of black fishes. Iridescent.
+
+Rhages,I3th.century.
+
+Diameter,11 1/2 inches.
+
+- 258 —Turquoise-blue and dark-blue bowl, strongly iridescent. Rhages,13 th. century. Ht.,3 1/2 inches;Diameter,81/2 inches.
+- 259 Delicate bowl, decorated in dark-blue and black, on white ground; in the centre, a bird, surrounded by blue rays; a
+- 一 stylised inscription round the rim.
+
+Rhages,I2th.century.
+
+Diameter,61/4inches.
+- 260 —Large bowl, with metallic lustre ornamentation. A large seated figure occupies almost the whole of the inside of the bowl. Thick pale-green glaze in the centre, and multicoloured rim. Blue glaze on the outside.
+
+Rhages,I2th.century.
+
+Diameter,13 inches.
+
+- 261—S Small bowl, with indented rim; in the centre, a hare, amid
+- light blue and dark-blue design.
+
+Sultanabad,3th.century.
+
+- 262
+
+Diameter,51/2inches.
+
+- 2—Wide bowl, ornamented with dark-blue, turquoise-blue, and black designs on a white ground. Iridescent.
+
+Sultanabad,I3th.century.
+
+Ht.,27/8;Diameter,121/4 inches.
+
+From the Sambon collection. (Sale in Paris,I9I4.)
+
+- 263 3—Bowl, with fattened rim; black inscriptions on turquoiseblue ground.
+
+Sultanabad,I3th.century.
+
+Ht.,3 5/8inches;Diameter,7 3/4 inches.
+
+- 264 — Bowl, with the figure of an elephant in the centre, surround-
+- ed by birds of paradise;blue, black, and white, strongly iridescent.
+
+Sultanabad,r3th.century.
+
+Diameter,9 inches.
+- 265 Cream-coloured bowl, showing, in the centre,a stylised figure of a hare, in blue and black. Strongly iridescent.
+
+Sultanabad,early 13th.century.
+
+Ht.,4inches;Diameter,8inches.
+
+- 266  Bowl, decorated with a large figure of a lion, amid blue, turquoise, and black fowers; strongly iridescent.
+
+Sultanabad,early 3th.century.
+
+Ht.,21/2inches;Diameter,8inches.
+
+(Illustrated.)
+
+- 267 - Bowl, bearing in the centre the figure of a duck, surrounded by fowers and arabesques.1 Dark-blue, turquoise-blue and black, on a white ground.
+
+Sultananad,13th.century.
+
+Ht.,4 3/4 inches;Diameter,81/2 inches.
+
+(Illustrated.)
+
+- 268 Dark-blue, white and black bowl, with the figure of a recumbent doe, surrounded by three birds of paradise.
+
+Sultanabad,13th.century.
+
+Ht.,23/4inches;Diameter,61/2inches.
+
+(Illustrated.)
+
+- 269 — Bowl, with a turquoise-blue deer in the centre, lying amid foral decoration and arabesques in dark-blue; black, and white, iridescent.
+
+Sultanabad,13th.century.
+
+Ht.,3 1/8 inches;Diameter,9inches.
+- Shallow bowl, with three birds of paradise, amid flowers; 270 grey,black, and white.
+
+Sultanabad,I3th.century.
+
+- 27I
+
+Diameter,95/8inches.
+
+- Large vase, bearing a broad frieze of elephants and unicorns, amid fowers; an inscription below the rim. Grey, black, and white beautiful iridescence.
+
+Sultanabad,r3th.century.
+
+(Illustrated.)
+
+Ht.,12 inches.
+- 272 —Important bowl, decorated in the centre with the figures of two deer, lying amid a rich design of flowers and arabesque. Dark-blue, turquoise-blue, and black, on white. Iridescence.
+
+Sultanabad,3th.century.
+
+Ht.,5 inches;Diameter,11 3/4 inches.
+
+(Illustrated.)
+
+- 273 3——Large bowl, with fattened rim ; in the centre, a crouching stag.1 Dark-blue, turquoise-blue, and black design, and flowers,on white ground.
+
+Sultanabad,13th.century.
+
+Ht.,51/4 inches;Diameter,11 inches.
+
+- 274 — Small turquoise-blue vase, with dark-blue arabesques, iridescent.
+
+Sultanabad,13th.century.
+
+Ht.,3 1/2 inches.
+
+- 274 — Small white glazed bowl, decorated in the centre with a blue bird in a circle; transparent "rice-grain '" ornementation.
+
+Sultanabad,3th.century.
+
+Ht.,25/8inches;Diameter,5inches.
+- 276 —Large, deep bowl, with flattened rim; ornamented with fishes and fowers, in grey, black,and blue, on white.
+
+Sultanabad,3th.century.
+
+Ht.,51/4 inches;Diameter,103/4inches.
+
+- 277 —Bowl, similar to the above, in green, black, and blue on white.
+
+Sultanabad,14th.century.
+
+Ht.,5 inches;Diameter,11 inches.
+
+- 278 Square tile bearing, in turquoise-blue on dark-blue ground, a fine decorative figure of a deer, pierced by an arrow. Yellow flovers.
+
+Persia,16th.century.
+
+9inches×91/2inches
+
+- 279 Plate, with foral decoration in two shades of blue, on white.
+
+Damascus,15th.century.
+
+Diameter,141/2 inches.
+
+- 280 一 Small deep-blue lustre vase;with black decoration in metallic glaze.
+
+Persian,I6th.century.
+
+Ht.,3 1/2 inches.
+## BRONZES
+
+## PERSIAN AND SARACENIC
+
+## 28I -BRONZE INCENSE-BURNER.
+
+Fatimite art.c.Ioth.century.
+
+Standing on three feet. Surmounted by a fiugre of a bird. Engraved with birds, inscriptions, and ornaments.
+
+Ht.,10 1/2 inches.
+
+Exhibited at the Exhibition of Mohammedan Art,Munich,
+
+1910.(No.3022.)
+
+282 -BRONZE VASE
+
+Hamadan excavations,I2th.century.
+
+Surmounted by a hinged handle ; inlaid with copper ; design of fabulous beasts, ornaments and inscriptions. Brown, red, and green patina.
+
+Ht.,8 1/2 inches.
+## 283
+
+## BRONZE MORTAR. Hamadan excavations,I2th.century.
+
+Engraved with frieze of animals hunting, interrupted by arabesques. Round the top and bottom,inscriptions in stylised kufic characters.
+
+Brown, red, and green patina.
+
+284 BRONZE CAULDRON.
+
+Hamadan excavations,I2th.century.
+
+With elaborately worked handle; bearing a band of kufic letters. Green and brown patina.
+
+285 —LARGE BRONZE CANDLESTICK.
+
+Hamadan excavations,12th.century.
+
+Ornamented with arabesques and inscriptions. Green patina.
+
+Ht.,28 inches.
+
+Diameter,5 inches.
+
+Ht.,63/4 inches.
+## 286 -OCTAGONAL BRONZE MORTAR.
+
+Hamadan excavations,12th.century.
+
+With two handlesin the form of heads of beasts. Ornaments and inscriptions. Red and green patina.
+
+Ht.,53/4inches:Diameter,71/2inches.
+
+(Illustrated.)
+
+## 287 -BASE OF BRONZE CANDLESTICK.
+
+Hamadan excavations,3th.century.
+
+With three ornamental feet.Decorated with arabesques. Brown and red patina.
+
+Diameter,91/2inches.
+## 288-BASE OF BRONZE CANDLESTICK.
+
+Hamadan excavations I2th. century.
+
+Three ornamental feet, and arabesque decoration. Green patina.
+
+Diameter,10 inches.
+
+## 289 -BASE OF A BRONZE CANDLESTICK.
+
+Hamadan excavations, 12th. century.
+
+Very beautifully modelled and cast. Brown and green patina.
+
+Diameter,61/4inches.
+
+## 290 一 FINE BRONZE BOWL.
+
+Hamadan excavations,I3th.century.
+
+On three feet in the shape of lions. The inside is ornamented with the enthroned figure of a king, with a lion by medallions containing signs of the zodiac. Round the The surface is covered with a layer of oxydised silver, and round the outside is an at this feet,and an attendant on either side. Surrounded outer rim,a hunting scene. inscription.
+
+Purple and green patina.
+
+(Illustrated.)
+
+Diameter,7 3/8 inches.
+291 -BRONZE BOWL. Hamadan excavations,13th.century.
+
+Similar to the above; arabesques in the centre, and medallions containing birds round the outside, with inscriptions between them.
+
+Brown and green patina.
+
+## 292 DISH-SHAPED BRONZE CUP.
+
+Causasus.I2th.to 13th.century.
+
+Standing on three feet, in the shape of elephants. Engraved inscriptions, and figures of animals.
+
+Diameter,7inches.
+
+Exhibited at the Exhibition of Mohammedan Art,Munich,
+
+Munich,1910.(No2027.)
+
+Diameter,7 inches.
+## 293 — SHALLOW OCTAGONAL BRONZE BOWL.
+
+Hamadan excavations, 13th. century.
+
+On three feet. Green and brown patina.
+
+Diameter,6 inches.
+
+## 294 SMALL BRONZE BOWL.
+
+Hamadan excavations,I3th.century.
+
+Ornamented on the inside with a hunting scene, and an inscription. Green patina.
+
+Diameter,43/4inches.
+
+## 295 -UPPER PART OF BRONZE INCENSE-BURNER.
+
+Hamadan excavations,I3th.century.
+
+Fine open-work ornamentation. Green patina.
+
+Ht.,4 1/2 inches.
+## 296
+
+## 5—CIRCULAR BRONZE FRAME.
+
+Hamadan excavations,I3th.century.
+
+Richly ornamented. Green patina.
+
+Diameter,13 1/2inches.
+
+## 297—BRONZE ORNAMENT.
+
+Hamadan excavations,I3th.century.
+
+Flat vase-shaped ornament, with an openwork inscription in the centre.A snake-like decoration on either side.
+
+Ht.,13 1/2 inches.
+## 298
+
+## 3—BRONZE ROSE-WATER BOWL.
+
+Hamadan excavations,I3th.century.
+
+In the centre, a rosette, surrounded by an inscription. Green patina on a back.
+
+Diameter,14 inches.
+
+## 9— CIRCULAR BRONZE INKSTAND. 299
+
+Hamadan excavations,I3th.century.
+
+Ornamented with alternated rosettes and crosses.
+
+Ht.,3 inches.
+
+Inlaid with silver. Inscription on cover.
+
+## 300 -OCTAGONAL BRONZE MORTAR.
+
+West Turkestan (?),13 th. century.
+
+Ring handle; richly engraved and inlaid with silver.
+
+Ht.,5 inches:Diameter,6 3/4 inches.
+
+Exhibited at the Exhibition of Mohammedan Art.Munich,
+
+1910. (No 3018.)
+—BRONZE EWER. Hamadan excavations,I2th.century.
+
+301
+
+Richly ornamented with inscriptions and arabesques. either side of the neck, two lions, with heads in relief.
+
+On
+
+Ht.,15 inches.
+
+(Illustrated.)
+
+302 -BASE OF LARGE BRONZE CANDLESTICK.
+
+Egypt,14th.century.
+
+Bearing an inscription, with the name of a Mameluk prince, and inlaid with silver.
+
+Ht.,71/2inches;Diameter,141/2inches.
+
+Exhibited at the Exhibition of Mohammedan Art,Munich, 1910.(N3I35).
+## 303 3—BEAUTIFUL BRONZE CANDLESTICK.
+
+Mossoul,13th.century.
+
+Round the base,rosettes ornamented with birds,and inscriptions. Richly inlaid with gold and silver.
+
+Ht.,91/2 inches;Diameter,8 3/4 inches.
+
+(Illustrated.)
+
+- 304 —— FINE TRAPEZOIDAL CASKET. Mossoul, 13th. century.
+
+Standing on four feet, richly inlaid with silver, ornamented with seated figures.  Lid missing.
+
+(Illustrated.)
+
+- 305 ——BRONZE CASKET.
+
+Ht.,4 inches.
+
+Mossoul,14th.century.
+
+Similar in shape to the above, complete, with lid. Figures, ornaments, and engraved inscriptions; traces of gilding.
+
+Ht.,51/4 inches.
+
+Mossoul,14th.century.
+
+- 306 6—BRONZE CANDLESTICK.
+
+Richly inlaid with silver. Ornaments and inscriptions.
+
+Ht.,71/4inches;Diameter,73/4inches.
+
+307 —BRONZE CANDLESTICK. Mossoul,15th.century. Inlaid with silver. Round the base,a frieze of seated musicians. Inscriptions, etc.
+
+Ht.,81/4 inches;Diameter,83/4inches.
+## 308 IMPORTANT BRONZE EWER. Mossoul,r4th.century.
+
+Partly inlaid with silver.. Animals, inscriptions, arabesques.
+
+Ht.,8 inches:Diameter,6 1/2 inches.
+
+- 309 - BRONZE CANDLESTICK.
+
+Mossoul,I4th.century.
+
+Of delicate workmanship;inlaid with silver. Inscriptions and ornaments. Base damaged.
+
+Ht.,8inches;Diameter,6 1/2 inches.
+
+310 -BRONZE EWER
+
+Persia, 16th. century.
+
+With engraved ornamentation.
+
+Ht.,10 1/2 inches.
+
+## 3II — GILT BRONZE EWER AND BASIN.
+
+Persia, end of 16th. century.
+
+Ht.,of ewer:15 inches;Diameter of basin,14 1/2 inches.
+
+## 312-LARGE SHALLOW BRONZE BASIN.
+
+Hamadan excavations,12th.century.
+
+Decorated in the centre with animals and arabesques.In-
+
+Diameter,19 inches.
+
+From the Sambon collection.(Sale in Paris,19I4.)
+
+laid with silver and copper.
+## 313 -DECORATIVE BRONZE DOOR-KNOCKER.
+
+Green patina.
+
+Hispano-Moresque,14th. century.
+
+Ht.,7 1/2 inches.
+
+3I4—I LARGE BRONZE VASE,WITH COVER. Hispano-Moresque,I4th.-I5th.centuries.
+
+Engraved with bands of ornaments and inscriptions.
+
+Ht.,23 inches.
+
+Exhibited at theExhibition of Mohammedan Art,Munich. (No3223.)
+## PERSIAN BOOK-MINIATURES
+
+- 315
+- 5—— A very fine miniature, showing a prince, seated, holding a falcon on his wrist. Background incomplete. Persia,I5th.century.
+- 316 - Nude figure of a woman, partly draped, with a long purple gown over her right shoulder, and wearing a green headdress. She holds a fruit in her left hand. A very rare representation.
+
+Persia,15th.century.
+
+- —A seated figure of a richly dressed youth. By his side, a
+- 317 vase, and a cup with an inscription. Background of palms and clouds.
+
+Persia,15th.century.
+
+- 318  Two stags fighting. In grisaille. Bearing a signature. Persia,16th.century. Exhibited at the Musee des Arts Decoratifs,Paris: Exhibition of Mohammedan Art,1903. (Illustrated.)
+- 319 — A young man, feeding a deer from his hand. In grisaille ; the only colours being the fesh tints, and the turquoise-blue of the turban. Bearing a signature and an inscription.
+
+Persia,16th.century. Illustrated and described in Dr.Martins work on Persian miniatures.
+
+A piece of exceptional quality.
+
+Exhibited at the Musée des Arts Decoratifs,Paris,in the Exhibition of Mohammedan Art,1903.
+
+(Illustrated.).
+- 320 —A young man, standing beside an oleander tree. He is dressed in a white turban, and black gown over pink tunic. A miniature of rare quality. Inscription.
+
+Persian,15th. century.
+
+(Illustrated.)
+
+- 321 Curious scene : representing an old man, with one hand raised to his head, and the other extended towards the figure of a child falling headlong from a tree, on a branch of which hangs a snared bird. Ink and watercolour. (Stamp of a collection).
+
+Persia,15th.century.
+
+- 322— Seated figure of a young prince, in a green dress and striped turban.
+
+Persia,15th.century.
+- 323 Portrait of a sage.Ink and watercolour.
+
+Persia,15th.century.
+
+- 324 一 Kneeling figure of a young woman, on a background of fowers and clouds. Drawing in ink and watercolour.
+
+Persia,15th.century.
+
+- 325 — Fine drawing of three male figures; two seated and one standing. Bearing a signature.
+
+Persia,15th.century.
+
+- 326 Standing figure of a young prince, wearing a white turban and blue and green costume.
+
+Persia,15th.or 16th.century.
+
+- 327 Seated figure of a sage.1 Drawing and watercolour. Persia,16th.century.
+- 328 3——Portrait of a young woman, standing, dressed in beautiful and harmonious colours. Bearing a signature.
+
+Persia,16th.century.
+- 330
+- 331一
+- —A camel, caparisoned, with its driver. (Bearing stamp of a
+- 329 collection.)
+
+Persia,16th.century.
+
+- Youthful figure, standing,clad in white turban and red and violet costume.
+
+Persia,16th. century.
+
+- Illuminated leaf of the Koran, showing a richly decorated rosette, and four winged angels at the coners.
+
+Persia,I5th.century.
+
+- 332— Richly decorated page of a book.
+
+Indo-Persian,I6 th.century. Exhibited attheExhibitionofMohammedanArtattheMusée des Arts Décoratifs,Paris,19o3.
+- 333 — Another page of the same MSs., with a border of animals and fowers.
+
+Indo-Persian,16th.century. Exhibited as above.
+
+(Illustrated.)
+
+334. ——A third richly decorated page of the same MSS.
+
+Indo-Persian,I6th.century. Exhibited as above.
+
+- 335— Portrait of a prince, delicately drawn in pencil. Indo-Persian,16th.century.
+
+END OF SECOND SESSION
+336
+
+## THIRD SESSION
+
+Saturday, January 8th., 1927.
+
+at 2.15 p. m.
+
+Catalogue numbers 336 to 518 inclusive.
+
+## BRONZE PLAQUETTES
+
+OF THE RENAISSANCE
+
+ITALIAN MASTER.
+
+Apollo and Marsyas.
+
+Oval plaquette, representing Apollo standing,half-draped, holding a large lyre, and in his right hand a plectrum. Olympus, the pupil of Marsyas, kneels at his feet, imploring mercy. On the left, Marsyas, his hands tied behind his
+
+Copy of an antique intaglio in the collection of the Medicis. An extremely fine specimen. Dark brown patina.
+
+back, is bound to a dead tree.
+
+Molinier, No. 3. Bode, No. 656.
+
+Oual:ht.,1.5/8inches.Width,13/8inches.
+
+(Illustrated.)
+
+15th.century.
+## —ITALIAN MASTER. 337
+
+The rape of the Palladium.
+
+Diomedes is represented seated, in profile, on a cubic altar decorated with laurel ; his left leg is drawn up. In his right hand he holds a short sword, and in his left, the Palladium. Reproduction of an antique engraved gem, catalogued in the inventory of the Medici family.
+
+Bargello.Molinier,No.31.
+
+Flattened oval, slightly concave ; beaded edge.
+
+Ht.,2 inches.Width,1 5/8 inches.
+
+(Illustrated.)
+
+338 一
+
+MODERNO.
+
+North of Italy;end of 15th.century,and first third of 16th.
+
+David and Goliath.
+
+David stands, naked, leaning on a pedestal, a sword at his side, and a helmet on his head. At his feet lie the body and the severed head of the giant, with a naked figure stooping over the trunk.
+
+Molinier,No.159. Bode, No. 729. Light brown patina.
+
+Ht.,25/8inches.Width,1 7/8inches.
+
+(Illustrated.)
+
+15th.century.
+## 339 —MODERNO.
+
+The Crucifixion.
+
+of them on horseback.
+
+Christ crucified, between two thieves. The Magdalen clinging to the foot of the cross ; the Virgin fainting, on the left, supported by two women. Behind her, St. John, wringing his hands. On the right, two soldiers with shields; one of them naked. In the background, more soldiers, two
+
+A composition full of movement.
+
+In the finest state of preservation; with raised border. (Specimens with this border are particularly rare.)
+
+Ht.,5 inches.Width,31/2 inches.
+
+Molinier,No.17I. Bode, No.740. (Illustrated.)
+
+## 340 —MODERNO.
+
+The Virgin seated in a niche, with the Child on her knee. Two cherubs at her feet; standing on the left, St. Anthony of Padua, and on the right, St. Jerome. Above, in the tympanum, the Resurrection of Christ. On the back : SG—SA/HOC.O (PUS).MO/D (ERNI).
+
+A pax. Rich brown patina.
+
+Ht.,4 1/4 inches.Width,21/2inches.
+
+Molinier,No.161.Bode, No.748.
+
+## 341 FLORENTINE MASTER.
+
+15th.century.
+
+Oblong plaquette, with a scene of nymphs and satyrs.
+
+A fine casting;believed to be an unique specimen.
+
+Roundedoblong:Ht.,31/16 inches.Width 21/4inches (Illustrated.)
+2 — RICCIO.
+
+342
+
+Padua:1470-1532.
+
+Allegory of the culture of trees. A standing child, nude, with a loose short cloak foating from his shoulders, treading with his left foot on a prostrate satyr. He waters a tree with a can, and with the other arm shields its topmost branches from the breath of Boreas.
+
+A perfect specimen.
+
+Diameter,17/8inches.
+
+Molinier, No.244. Migeon, No.329. Bode, No.711.
+
+(Illustrated.)
+
+343-FRANCESCO DA SANT' AGATA. Padua:about 1500.
+
+Important bronze plaque, in high relief; representing the entombment of Christ.
+
+On the left, four Holy Women. The body of Christ is supported above the tomb by Joseph of Arimathea. Three bearded male figures on the right. Background of hills, trees, and the Cross.
+
+A work of remarkable force;extremely rare. Cire perdue.
+
+Ht.,63/4inches.Width,51/2inches.
+
+(Illustrated.)
+## PADUAN MASTER (under the influence of Mantegna.)
+
+## 344 16th.century.
+
+The Virgin, standing before a throne, with the Child in her arms ; surrounded by angels, and cherubs with wreaths and garlands.
+
+Fine decorative border.
+
+An excellent specimen, with light-brown patina.
+
+Ht.,47/8inches.Width,37/16inches.
+
+(Illustrated.)
+
+345 UNKNOWN MASTER. ProbablyVenetian,I6th.century.
+
+The Holy Family. The Madonna in the centre, with Jesus on her knee, playing with St. John, who kneels beside him, On the left, St. Joseph.
+
+Circular:diameter,37/8inches.
+
+holding a cross. A plaquette of great rarity.
+
+(Illustrated.)
+## 346 VALERIO BELLI.
+
+Hercules seated,with a lion-skin on his left shoulder;before him, Minerva, standing, wearing a helmet, and holding a lance in her left hand, an olive branch in her right. On the right,Venus,holding by the hand a tiny Cupid. Beneath,the inscription :INSTAR. Copied from an antique intaglio.
+
+Molinier,No.288.
+
+Oual:Ht.,1 7/8 inches.Width,15/8inches.
+
+(Illustrated.)
+
+## 347 -VALERIO BELLI.
+
+Two-sided plaquette.
+
+- (a) Adoration of the Magi;and (b) the infant Christ in the Temple.
+
+Extreme right, St. Joseph, standing behind the chair of Mary. On the left, the magi and their suite bearing presents. One of the magi is kneeling, presenting a chalice. Behind, an archway, on which is the inscription :
+
+## AETEPI ETOMENOI PQE EYRYOMEN
+
+Reverse : the Child, naked, on the altar ; on the left, Mary, and a woman with a basket on her head;on the right,
+
+A temple in the background, with a statue, and the inscription:
+
+Simon, and a woman.
+
+## NUNC DIMITTIS SERVVM TVVM DOMINE
+
+Fine patina ; an excellent specimen.
+
+Ht.,2 11/16 inches.W.,15/16 inches.
+
+(Illustrated.)
+348 -PADUAN MASTER.
+
+Beginning of 16th.century:
+
+Octogonal plaque of exquisite workmanship; representing the legend of Apollo and Marsyas. On the left the God is seated, nude, with his lute. In the centre Marsyas, nude, his arms stretched above his head,is bound by the wrists and ankles to the stump of a tree. Numerous other figures ; landscape of trees.
+
+Ht.,53/8 inches.Width,53/8inches.
+
+(Illustrated.)
+
+Brown patina.
+## —AFTER BENVENUTO CELLINI Italian :16th.century. 349
+
+Circular plaquette,of the most delicate workmanship, with a fine composition of tritons, mermaids, sea-monsters, cherubs,etc. Brown patina.
+
+Diameter,51/2inches.
+## 350
+
+## —AFTER BEVENUTO CELLINI. Italian :16th.century.
+
+Circular plaquette, with decorative border; showing an open-air banquet of nymphs,satyrs, and fawns, in a landscape.
+
+Diameter,57/8inches.
+
+16th.century.
+
+Brown patina.
+
+FLEMISHMASTER.
+
+dead Christ. At His feet, the crown of thorns, pincers, and a skull ; in the background, a walled city, and hills. A work of remarkable energy and character. Gilt.
+
+Ht.,7 1/4 inches.Width,5 inches.
+
+351
+## BRONZE MEDALS
+
+## OF THE RENAISSANCE
+
+352 — UNKNOWN MASTER.
+
+About I400.
+
+The Emperor Heraclius. (Emperor of Byzance, 61o-641.)
+
+HPAKAEIOE ENXQ TQ OQ TICTOC BACI KAI AVTO PO NIKHTHE KAI AOAOO ETHC AEI AYTYCTOC. —-Behind the head:ATOAINIC,—Before:ILLVMINA VVLTVVM DEVS.- On creseent below bust : SVPER
+
+TENEBRAS NOSTRAS MILITABO IN GENTIBVS.
+
+Bust of the Emperor, crowned, looking upwards towards rays of glory; both hands holding his long beard.
+
+Reverse:SVPER ASPIDEM ET BASILICVM AMBVLAVIT ET CONCILIAVIT LEONEM ET DRACONEM.
+
+(Psalms, 90,13.) ——In centre :
+
+CIAAPASTYAAC KAIHAEYOEPQ/CE X ATION BACI HPA/KAE.
+
+The Emperor Heraclius seated in a four-wheeled chariot, drawn by three horses, led by an attendant. The Emperor holds a cross. Suspended above, four lamps.
+
+See detailed publication of Julius von Schlosser,on this,one of the oldest known medals:Die altesten Medaillen und die Antike",inthe Jahrbuch der Kunsthistorischen Sammlungen des allerhochsten Kaiserhauses.Vol. XVIII,Vienna, 1897. Beautiful old gilding. A perfect specimen of this excessively rare medal.
+
+From the arthur Labbecke coll.,Braunschweig. (Sale in Munich,1go8,No.1.)
+
+(Illustrated.)
+
+Diameter,33/4inches.
+## 3-VENETIAN MASTER.
+
+Queen Dido.
+
+IAO BASIAILLA.
+
+Bust of Dido, facing right ; the hair elaborately dressed and bound with laurels.
+
+Reverse:
+
+(2I) ON. (2)
+
+A walled city, filled with fine monuments; the sea at its (Sidon,part of the realms of the Phcenician Queen Dido, at this time belonged to the Venetian gates, with three galleys. empire.)
+
+Specimen believed to be unique.
+
+Diameter,2inches.
+
+From the Maurice Kann collection. (Sale in Paris, 191o.)
+
+## 354—MATTEO DEI PASTI
+
+Isotta degli Atti da Rimini; mistress, and subsequently third wife, of Sigismondo Pandolfo Malatesta.
+
+D.ISOTTE ARIMINENSI.
+
+Portrait, facing right.
+
+Reverse : an elephant (" one of the Malatesta devices : as a symbol of superiority to small misfortunes s"—— see G.F.Hill " Medals of the Renaissance " (pp. 45, 46.) Dated (M.C) (CCC.X (LVI).
+
+Diameter,33/16inches.
+
+See Armand, I, p. 21, No: 19. —Tresor de Numismatique. —— Friedlander.—Mazzuchelli.—L.Forrer,u.IV.——Heiss, IV, p. 44, No. 17 ; etc.
+
+(Illustrated.)
+
+## 353
+
+15th. century.
+## 355
+
+## —NORTH ITALIAN MASTER.
+
+15th.century.
+
+Clara de Gonzaga, Countess of Montpensier, Dauphine of Auvergne. —(Mother of the celebrated Constable de Bour-
+
+CLARA.DE. GONZ. COMITI. MONTPENSERII. ET. DELPHINA. ALVIE.
+
+bon, killed while his army was sacking Rome, in 1526.)
+
+Bust, facing right : with head-dress and long plait. Beaded
+
+A medal of extreme rarity.
+
+(Illustrated.)
+
+356 — ANDREA GUAZZA LOTTI (Andrea G. Pratense). Florence(Prato:1435-I495.
+
+Alfonso II of Aragon, King of Naples. (Son of Ferdinand I. Born 1448; crowned 1494; died 1495.) ALFONSUS.FERDI.DUX.CALABRIE. Portrait bust, three-quarter face; in armour, and a cap;
+
+long curly hair.
+
+Reverse :NEAPOLIS. VICTRIX. And below :OB. ITALIAM.AC.FI/DEM. RESTITUTAM.MCCCCLXXXI.
+
+/OP.AND.G.PRATENS.
+
+Alfonso II, in a triumphal car, accompanied by a numerous suite, entering a town, preceded by captive Turks.
+
+Diameter,25/16inches edge. No,reverse.
+
+(Illustrated.)
+
+Diameter,2 5/16inches.
+## 357 NICOLAS LECLERC AND JEAN DE SAINT-PRIEST.
+
+France,15th.—16th.century.
+
+Bonze medal of Louis XII of France, and Anne of Brittany. FELICE. LUDOVICO. REGNANTE. CESARE.LATERO. GAUDET.OMNIS.NACIO.
+
+of the Order of St. Michael. Field of fleurs-de-lys.
+
+DUODECIMO. The King wears a small crown of feurs-de-lys, and the collar
+
+Reverse:LUGDUN. RE.PUBLICA.GAUDETE. BIS ANNA.REGNANTE.BENIGNE. SIC.FUI.CONFLATA.
+
+1499.
+
+feurs-de-lys and ermines.
+
+The Queen wears a veil, and the royal crown. Field of
+
+Presented to the King
+
+See T.n.,v.I.Mazerolle, 27.Friedlander, III, p. 207,
+
+(Illustrated.)
+
+Diameter,47/16 inches.
+
+Mantua:c.1440-1528（?)
+
+Cast at Lyon, by Léon Lepere.I and Queen by the city of Lyon.
+
+No.1.
+
+358 — SPERANDIO.
+
+Virgilio Malvezzi : a nobleman of Bologna. Ambassador in 1451. Died 1481.
+
+Bust in profile, facing left.
+
+VIRGILIUS. MALVITIUS.BONON. PATRIE.DECUS. ET.LIBERTATIS.CUSTOS.
+
+Reverse:MCCCCLXXVIIII.-OPUS. SPERANDEI.
+
+left foot on a dragon, and a sword in his hand.
+
+An old man, nude, with floating drapery, seated with his
+
+Armand,vol.I.
+
+Diameter,3 1/2inches.
+
+(Illustrated.)
+## 359
+
+## 9—NORTH ITALIAN MASTER. Beginning of 16th. century.
+
+Thomas BOHIER, Baron de St. Ciergue. (Died 1523. Brother of Antoine Bohier, Cardinal-Archbishop of Bourges. Chamberlain to Louis XI, Charles VIII, Louis XII, and Francis I; Secretary to the King, Maitre des Comptes, Secretary for Finance, General of Normandy, and finally the King's lieutenant in Italy. The first proprietor of the Chateau de Chenonceaux.)
+
+THOMAS.BOHIER.GENERAL.DE.NORMANDIE.— M.CCCCCIII.
+
+Fine clear-cut profile, facing right.
+
+Reverse:SIL.VIENT APOINT.
+
+The escutcheon of Thomas Bohier.
+
+A perfect specimen of a very fine and exceedingly rare model.
+
+Diameter,23/8inches.
+
+(Illustrated.)
+## ITALIAN BRONZES
+
+## OF THE EARLY RENAISSANCE
+
+360-BARTOLOMEO BELLANO.
+
+Padua : 1430-1502.
+
+Atlas, with his hands raised in the attitude of supporting the globe. Brown patina.
+
+This superb and rare bronze is described and reproduced in Dr.Bode's work,"Die Italienischen Bronzestatuetten der Renaissance"; see pp. 2I, 22, Fig.13, and Pl. XXI.
+
+Ht.,10 1/8 inches.
+
+(Illustrated.)
+361
+
+BELLANO.
+
+Bronze statuette of the infant Hercules, seated on a bronze pedestal, cast with the figure. (Cire perdue.) An extremely rare representation.
+
+Ht.,4 1/2 inches.
+
+362 2—BELLANO.
+
+Statuette of a man, dressed in a scanty tunic, with his hand pressed to the left side of his face, as if in pain; his right
+
+Fine brown patina.
+
+hand holds a purse.
+
+(Illustrated.)
+
+363
+
+—BERTOLDO.
+
+Ht.,5 3/4 inches.
+
+Florence:1425-1491.
+
+Bronze statuette of Hercules, holding a club, with a lionskin over his left shoulder. The head is turned slightly to the left.
+
+Cf.the very similar figure,with slight variations however, illustrated by Bode, III, Pl. CCXXXIII.(J. Pierpont Morgan collection.)
+
+Ht., 8 1/2 inches.
+
+(Illustrated.)
+
+(Illustrated.)
+## 364 —Attributed to DONATELLO.
+
+Florence :1386-1466.
+
+Infant Bacchus, holding in either hand a bunch of grapes ;
+
+with a gourd slung at his side.
+
+Fine golden-brown patina.
+
+(Illustrated.)
+
+## 365 5-EARLY FLORENTINE MASTER.
+
+Samson wrenching open the mouth of the lion. A group of extraordinary energy and character. The broad treatment of both the figures proves this magnificent bronze to be the work of a master of the first rank. Fine brown-black patina.
+
+Ht.,61/8inches.Length,51/2inches.
+
+(Illustrated.)
+
+—ANDREA RICCIO.
+
+366
+
+Padua :1480-1532.
+
+A winged sphinx, with the head of a beautiful woman, whose hair falls over her shoulders. Cire perdue. Brown patina.
+
+(Illustrated.)
+
+Ht.,5 inches.
+
+367
+
+—RICCIO.
+
+Small inkstand, in the form of a child seated on a dolphin, the tail of which supports a shell. Cast in a single piece.
+
+Brown patina.
+
+Ht., 3 inches.
+
+(Illustrated.)
+
+Ht.,57/8inches.
+368 -RICCIO.
+
+Fine double-handled bronze mortar, ornamented with medallions of lions contained in wreaths.Above is a frieze of garlands and skulls of animals. Brown patina.
+
+Ht.,73/4 inches.Diameter,87/8inches.
+
+(Illustrated.)
+
+369 — WORKSHOP OF JACOPO SANSOVINO.
+
+The infant Hercules, strangling a goose. Green patina.
+
+Florence,r6th.century.
+
+(Illustrated.)
+
+—FLORENTINE MASTER.
+
+370
+
+Ht.,8 5/8 inches.
+
+16th.century.
+
+Fine door-knocker, with dolphins' heads and acanthus leaves.
+
+Ht., 8 1/2 inches.
+## 371 —JACOPO TATTI, CALLED. JACOPO SANSOVINO.
+
+Florence:1477-1570
+
+Door-handle,in the shape of a winged figure, holding his right hand to his head, and his left pressed to his chest.
+
+(Illustrated.)
+
+372 PADUAN MASTER.
+
+Ht.,73/4 inches.
+
+15th.century.
+
+Fine mortar, decorated with a frieze of figures of fawns. Brown patina.
+
+Ht.,43/8inches.Diameter,6 inches.
+
+(Illustrated.)
+
+373 -PADUAN MASTER.
+
+16th.century.
+
+Bronze bowl, standing on three feet ; decorated with a frieze of grotesques.
+
+Ht.,33/4inches.Diameter,71/2inches
+
+374 FLORENTINE MASTER.
+
+16th.century.
+
+Small bronze model of a fountain, in the shape of a winged chimera.
+
+(Illustrated.)
+
+Ht.,7 inches.
+## 375 —ITALIAN MASTER.
+
+15th.century.
+
+Statuette of a horse, of exceptionally fine workmanship and character.
+
+(Illustrated.)
+
+376 5-FLORENTINE MASTER.
+
+Ht.,7 inches.
+
+15th.century.
+
+Portrait bust of a young man, after the antique.
+
+Cf. Bode, II, Pl. CVII.
+
+(Illustrated.)
+
+377 —ITALIAN MASTER.
+
+Ht., 1l inches.
+
+Late 15th.century.
+
+Statuette of a bull, on a bronze pedestal. A piece of remarkable character.
+
+Ht.,(with pedestal) 11 3/4 inches.
+
+Brown patina.
+
+(Illustrated.)
+
+## 378 一 SCHOOL OF MICHELANGELO..Florence, 16th.century.
+
+Beautiful nude figure of Venus, seated with her legs crossed, and wringing her long rope of hair as if she had just emerged from the water.
+
+Rich green patina. Right foot missing.
+
+(Illustrated.)
+
+Ht.,9 inches.
+379 ITALIAN MASTER.
+
+Stag, with tall antlers.
+
+(Illustrated.)
+
+ITALIAN MASTER.
+
+Doe. Rich brown patina.
+
+(Illustrated.)
+
+381 GIOVANNI DA BOLOGNA.
+
+16th.century.
+
+Ht.,81/4inches.
+
+16th.century.
+
+Ht.,6 inches.
+
+1524-1608.
+
+Fabulous two-legged monster, with fantastic bull-like head, small wings, and cloven hooves. This energetic and important bronze, of surprising imaginative power, is one of the few which have come down to us of this type, in which the master gave free play to his abundant fancy. Brown-green patina.
+
+Ht.,81/4inches.
+
+380
+
+(Illustrated.)
+## 382 GIOVANNI DA BOLOGNA.
+
+Gilt bronze group, representing a lion felling a bull. Attacking the left hind leg of the lion is a tiny dragon, emblem of the Borghese family, for whom this fine work no doubt was executed.
+
+Ht.,37/8inches.Length,51/4 inches.
+
+(Illustrated.)
+
+383-GIOVANNI DA BOLOGNA.
+
+Christ, stripped and bound to a pillar. A fine example of Giovanni da Bologna's celebrated gold patina.
+
+Cf. Bode, II, Pl. CLXXXIII.
+
+Ht.,183/4 inches.
+
+(Illustrated.)
+## 384-JACOPO SANSOVINO.
+
+Important bronze statue of St. John the Baptist, nude, preaching.
+
+Dark-brown patina.
+
+(Illustrated.)
+
+## 385-ATTRIBUTED TO PIETRO FRANCAVILLA.
+
+Florence :1548-1618.
+
+Small gilt bronze statuette of Eros, with a drapery wound round his left arm and passing across his loins.
+
+Ht.,4 1/2 inches.
+
+Ht.,24 inches.
+## 386 FLORENTINE MASTER.
+
+16th.century.
+
+Bronze sword-hilt, in the form of a mermaid, with double tail. The movement of the body is admirably studied so as to afford a perfect grip.
+
+Length, 6 inches.
+
+16th.century.
+
+(Illustrated.)
+
+## ITALIAN OR FLEMISH MASTER.
+
+Bronze group : a standing figure of Cleopatra, partly draped, her feet. Dark patina.
+
+(Illustrated.)
+
+388 —ITALIAN MASTER.
+
+Ht.,12 inches.
+
+16th.century.
+
+Silenus, crowned with grapes, supporting a wineskin on the stump of a tree; an empty cup in his left hand.
+
+Brown patina.
+
+389 FRENCH MASTER.
+
+Ht.,15 inches.
+
+end of r6th.century.
+
+Small bronze bust of a child, after Germain Pilon. Fine brown patina.
+
+Ht.,7 inches.
+## EARLY ITALIAN MAJOLICAS
+
+390-LARGE JUG.
+
+Orvieto,I4th.century.
+
+Decorated in relief with a standing figure of a pilgrim, and two ears of corn.
+
+Manganese, light-green, and yellow designs, on white ground.
+
+Ht.,ll inches.
+
+(Illustrated.)
+## 39I-IMPORTANT JUG.
+
+Faenza,I5th.century.
+
+Decorated in blue and white, and bearing, in a round medallion in front, the portrait of a youthful patrician.
+
+Ht.,13 inches.
+
+(Illustrated.)
+## 2A VERY BEAUTIFUL CIRCULAR PLAQUE. 392
+
+Faenza,15th.century.
+
+In the centre, the Angel of the Annunciation, holding a fower, and an inscription in gothic characters, "AvE BEATA PLENA DOMI ",in dark-blue, green, and manganese; surrounded by broad dark-blue and sulphur yellow decorations in bold relief.
+
+(Illustrated.)
+
+393—JUG.
+
+Diameter,19 inches.
+
+Florence,I5th.century.
+
+Decorated with peacok feather and scrolls, in blue, manganese, yellow and green, on white ground.
+
+Ht., 9 inches.
+
+From the Sambon collection.(Sale in Paris,IgI4.)
+
+(Illustrated.)
+394—VASE.
+
+Faenza,r5th.century.
+
+Ornamented with a broad frieze of scrolls, in blue, manganese, green, and yellow.
+
+Ht.,121/4 inches.
+
+Florence,I5th.century.
+
+Ht.,11 3/4 inches.
+
+(Illustrated.)
+
+395 ALBARELLO.
+
+With peacock-feather decoration.
+
+(Illustrated.)
+396 —ALBARELLO.
+
+Faenza, 15th. century.
+
+Decorated in dark-blue, green, and yellow.
+
+397 ——ALBARELLO.
+
+Faenza,15th.century.
+
+Similar to the above, with a different design.
+
+Ht.,12 3/4inches.
+
+(Sale in Paris 1914.) (Illustrated.)
+
+Faenza,15th.century.
+
+From the Sambon collection.
+
+398 8-ALBARELLO.
+
+With a minute decoration of blue and yellow spots, on a white ground. Very rare.
+
+Ht.,123/4 inches.
+
+From the Sambon collection.(Sale in Paris,I9I4.) (Illustrated.)
+
+399 一 ALBARELLO.
+
+Faenza,15th.century.
+
+Decorated in blue and yellow, on white ground; inscribed in gothic letters : "FARINA DE LVV "
+
+Ht.,8 1/2 inches.
+
+Ht.,12 1/2 inches.
+
+From the Sambon collection. (Sale in Paris,Ig14.)
+
+(Illustrated.)
+- 400  ALBARELLO. Florence,I5th.century. Decorated with design of leaves, in deep-blue on white ground.
+
+Ht.,11 3/4 inches.
+
+- 401 SMALL BOWL. Florence,I4th.century. Decorated in blue, manganese, and yellow,on white ground. Diameter,61/2inches.
+- 402 SMALL PLATE. Faenza,early 15th.century. Decorated with arabesques in blue, red, green, and yellow. Diameter.63/4inches.
+- 403 一 PLATE. Florence,early I5th.century. Decorated with the so-called pomegranate design, in blue, yellow, red, and green.
+
+(Illustrated.)
+
+- 404 SMALL PLATE.
+
+Blue, green, and yellow design.
+
+Diameter,13 1/2 inches.
+
+Siena,15th.century.
+
+Diameter,8 1/2 inches.
+
+- Siena,15th.century. 405 —BETROTHAL PLATE. Bearing, in the centre, a winged heart. Blue, yellow, and green decoration.
+
+(Illustrated.)
+
+Diameter,83/4 inches.
+406—BETROTHAL PLATE.
+
+Siena,15th.century.
+
+Showing in the centre two clasped hands, surmounted by a heart pierced by an arrow. Blue, green, and yellow decoration.
+
+Diameter,83/4inches.
+
+Siena, 15th. century.
+
+(Illustrated.)
+
+407 -A BEAUTIFUL PLATE.
+
+In the centre, a fine grotesque; pomegranate decoration round the rim. Blue, green, yellow, and brown.
+
+Diameter,10 5/8inches.
+
+Siena, 15th. century.
+
+From the Mannheim collection.
+
+(Illustrated.)
+
+408-A DELICATE PLATE.
+
+Decoration of arabesque and pomegranate design; blue, brown, and green, on white.
+
+Diameter,91/8inches.
+
+Siena,15th.century.
+
+From the Mannheim collection.
+
+409  SMALL PLATE.
+
+Decorated in the centre with a pomegranate, surrounded by brown, blue, and yellow circles.
+
+Diameter,73/4 inches.
+一 DEEP PLATE.
+
+410
+
+Decorated in blue, brown and yellow.
+
+Diameter,9 inches.
+
+Faenza,I5th.century.
+
+4II -SMALL BOWL.
+
+A female figure in relief, against a landscape of sea and mountains. White decoration in relief on pearl-grey and blue ground.
+
+Diameter,47/8inches.
+
+Faenza,15th.century.
+
+412 一 PLATE.
+
+In the centre, St. Christopher. Border of rich grotesques. Deep-blue on white.The back of the plate is inscribed with an F.
+
+Diameter,10 1/2inches
+
+(Illustrated.)
+
+(Illustrated.)
+
+Siena,15th.century.
+413—DISH.
+
+Italian.
+
+Raised centre, bearing an escutcheon in blue, green and yellow, on brown. The dish is decorated in bianco, sopra bianco.
+
+Diameter,131/4inches.
+
+Castel Durante,I6 th.century.
+
+414—SMALL VASE.
+
+With handles. --Decorated in metallic lustre on white.
+
+Ht.,2 1/2 inches.
+
+415 - POLYCHROME GLAZED GROUP.
+
+Caffiagiolo,I5 th.century.
+
+High-relief ; representing the Nativity.
+
+Ht.,17 1/2 inches.Width,19 inches.
+
+(Illustrated.)
+
+416—MAJOLICA FONT.
+
+By Andrea della Robbia, after a model by Verrocchio.
+
+A reclining child (white glaze) holding a porphyry-coloured chalice. Green base.
+
+Ht.,6 inches.Length,11 inches.
+
+(Illustrated.)
+417 LARGE PLATE.
+
+Florence,end of 15th.century.
+
+Christ crucified, between two thieves, with numerous figures standing and on horseback ; against a landscape.
+
+Diameter,23 1/4 inches.
+418
+
+—
+
+PLATE.
+
+Montelupo,beginning of I7th.century.
+
+An armed horseman crossing a stream,in a landscape.
+
+Diameter,13 inches.
+
+## 419 BERNARD PALISSY.
+
+Oval dish,with hollow compartments, and four graceful figures of cherubs in low relief;polychrome glaze. A beautiful specimen of the art of the celebrated 16th. century French master.
+
+From the Seilliere collection. (Sale in Paris,18go.)
+
+Length,13 inches.Width,10inches.
+## 420 BERNARD PALISSY.
+
+Round dish : with the legend of Perseus and Andromeda, in low relief. Polychrome glaze.
+
+Diameter,9 1/2 inches.
+## HISPANO-MORESQUE POTTERY
+
+421 1—ALBARELLO.
+
+Hispano-Moresque,15th. century.
+
+Decorated in metallic glaze and blue, on light ground.
+
+Ht.,7 1/4 inches.
+
+Hispano-Moresque,15th.century.
+
+422 2—ALBARELLO.
+
+Decorated with blue fowers and ornaments in metallic glaze, on cream ground.
+
+Ht.,10 1/2 inches.
+
+From the Sambon collection.(Sale in Paris,IgI4.) (Illustrated.)
+
+423 —ALBARELLO.
+
+Hispano-Moresque,15th.century.
+
+Decorated in metallic glaze on cream ground.
+
+Ht.,11 3/4 inches.
+
+(Sale in Paris,1go6.) (Illustrated.)
+
+From the Schevitch collection.
+
+424 -SMALL PLATE.
+
+Hispano-Moresque,15th. century.
+
+Decorated in blue and metallic lustre.
+
+Diameter,9 inches.
+## 425—IMPORTANT PLATE. Hispano-Moresque,15th.century.
+
+Ornaments in relief, and decoration in metallic glaze and blue;in the centre, an escutcheon bearing two wolves.  Fine lustre ornamentation on back.
+
+Diameter,14 1/2 inches.
+
+(Illustrated.)
+426—DISH.
+
+Hispano-Moresque,16th.century.
+
+With raised centre, bearing a monogram;beautiful lustre decoration on pinkish ground.
+
+Diameter,143/4inches.
+
+427 ——PLATE.
+
+(Illustrated.)
+
+Hispano-Moresque,I5th.century.
+
+Decorated in light-blue, on white. In the centre, on a shield, the figure of a wild beast.
+
+(Illustrated.)
+
+Diameter,16 1/2 inches.
+428
+
+—PLATE. Hispano-Moresque, 2nd. half of 16th.century.
+
+Decorated in metallic glaze, with a large figure of a winged
+
+Diameter,13 inches.
+
+## LARGE EARTHEN JAR.
+
+Hispano-Moresque,I3th.——I4th.century.
+
+Bands of stylised inscriptions, in kufic characters. Remains
+
+Ht., 30 inches.
+
+## 430 — PUENTE DEL ARZOBISPO PLATE.
+
+Spain,c.16o0.
+
+Ornamented with a fine heraldic figure of a lion, in yellow, blue, and green, on a white ground.
+
+Diameter,14 1/2 inches.
+
+(An extremely rare ware, of which only a few specimens are to be found in museums.)
+
+(Illustrated.)
+
+With flat handles on either side of the neck. of blue glaze. Standing on an iron tripod.
+
+lion.
+
+## 429
+## ENAMELS
+
+## CHAMPLEVE AND BYZANTINE
+
+431 — ARM OF AN ENAMEL CROSS. Limoges, 12th. century.
+
+Showing a Saint, and a church. The face of the saint is in white enamel. Gold background.
+
+Ht.,31/2inches.Width,4inches.
+
+432 — LARGE ENAMEL RELIQUARY. Limoges, 13th. Century.
+
+Decorated on the one side with six medallions containing angels, on the other with standing figures of saints, as also at either end.
+
+It has preserved its original wooden carcase. Surmounted by three balls of crystal.
+
+Limoges,I3th.century.
+
+Ht.,93/4 inches.Length,85/8inches.Width,3 1/4 inches.
+
+(Illustratea.)
+
+433 — IMPORTANT ENAMELLED RELIQUARY.
+
+Limoges,early I3th.century.
+
+Very beautiful reliquary, in the form of a figure of the Virgin, enthroned, with the Child on her left knee. The throne is richly decorated at the back and sides with figures of angels, and in front with designs, in champleve enamel.
+
+Ht.,14 1/2 inches.
+
+(Illustrated.)
+434 —ENAMEL PYX.
+
+Limoges,I3th.century.
+
+Ornamented with medallions containing figures of angels, and flowers,in champleve enamel.
+
+Ht.,3 3/4 inches.
+
+Limoges,I3th.century.
+
+435
+
+—ENAMEL CROSS.
+
+With an engraved and gilt figure of Christ crucified, on a background beautifully enamelled, in rich colours. At the foot of the cross kneels a small nude female figure. In an excellent state of preservation.
+
+Ht.,133/4 inches.
+
+436
+
+(Illustrated.)
+
+— OVAL ENAMEL PLAQUE. Limoges,I3th.century.
+
+With a richly engraved and gilt figure of Christ, the head in relief, on a ground of champleve enamel.
+
+Ht.,41/4inches.Width,31/4inches.
+## 7-BEAUTIFUL ENAMEL PLAQUE. 437
+
+Limoges,I3th.——I4th.century.
+
+Three figures engraved on a champleve enamel background, richly coloured, in lapis, turquoise-blue, green, and red. Below, the inscription : PUGNA, HONOR. DEI.
+
+Ht.,5inches.Width,33/4inches.
+
+## 438 - END OF AN ENAMEL RELIQUARY.
+
+Limoges,I3th.century.
+
+Showing the Virgin, with the Child, in a dress engraved and gilt, with the heads in relief, on a richly ornamented champleve ground.
+
+Admirably preserved.
+
+Ht.,81/2 inches.Width,35/8 inches.
+
+(Illustrated.)
+
+- 439 — ROCK-CRYSTAL CROSS.
+
+I2th century.
+
+Bearing in the centre a round plaquette in Limoges champleve enamel, with the figure of a bird.
+
+Ht.,85/8 inches.
+
+## 440 — RICHLY ENAMELLED GAMELLION.
+
+Limoges, I4th. century.
+
+With secular subjects; in the centre a coat of arms; and various scenes, with figures, dragons, etc.
+
+(Illustrated.)
+
+Diameter,87/8inches.
+441-SMALL ENAMEL PLAQUE.
+
+I2th.century.
+
+Representing a bust of a Saint, beneath a round arch, on gold ground.
+
+Champleve enamel of a very rare and early character.
+
+Ht.,1 5/8 inches.Width,1 3/8inches.
+
+Byzantine,I2th.century.
+
+- GOLD PLAQUE. 442
+
+With a translucent enamelled figure of a Saint (cloisonne enamel).
+
+Inscription. Of same family as that of the Svonogorodsky collection.
+
+Ht.,1 1/2inches.Width,1 1/4inches.
+## IVORIES
+
+443 —ASSYRIAN BONE CARVING.
+
+About 6oo B.C.
+
+Representing a king standing, wearing a diadem and a very rich costume, heavily embroidered.
+
+Length,7 inches.
+
+Byzantine.
+
+(Illustrated.)
+
+444 —HALF OF AN IVORY TAU-CROSS.
+
+Showing a knight in armour, and beneath him, a doubleheaded monster, with eyes inlaid with gold; the whole terminating in the head of a bird.
+
+Length,3 1/4 inches.
+## 445 —CARVED IVORY PLAQUETTE.Byzantine,IIth.century.
+
+Busts of St.Peter and St. Paul.
+
+Ht.,2 1/2inches.Width,21/2 inches.
+
+446 CARVED IVORY PLAQUETTE.
+
+Byzantine.
+
+Divided into numerous compartments, containing,in high relief, scenes from the life of Christ.
+
+Ht.,3 inches.Width,2 4/5 inches.
+
+From the Seguin collection.
+
+## 447 LARGE CARVED IVORY PLAQUE.
+
+Rhenish,gth.century.
+
+Representing Christ enthroned, holding a book on the cover of which is a cross, his right hand raised in the act of bene- diction. At each corner, an angel.
+
+Ht.,65/8inches.Width,33/4inches.
+
+From the Julius Campe collection, Hamburg, (whose stamp it bears on the back).
+
+(Illustrated.)
+## 448
+
+—CARVED IVORY OVAL PLAQUE.
+
+Rhenish,I2th.century.
+
+Christ enthroned. The left side of
+
+From a book-cover. the plaque has been damaged, but the figure is intact.
+
+Ht.,33/4inches.Width,21/4inches.
+
+449 -CARVED IVORY PLAQUE.
+
+French,I4th.century.
+
+Showing two saints, in an ogival recess ; one crowned, and standing, the other kneeling, and holding a crown in his left hand.
+
+Ht.,3 7/8 inches.Width,21/8 inches.
+## 450 — WING OF AN IVORY TRIPTYCH. French, 14th. century.
+
+The right wing of a carved ivory triptych, showing the Infant Christ, supported by the Virgin and St. Joseph, standing above two fabulous beasts. Above, an angel, with a censer.
+
+Ht.,4 1/2 inches.Width,1 1/8 inches.
+
+451 - CARVED IVORY STATUETTE.
+
+I5th.century.
+
+Ivory figure of Christ crucified, in a most beautiful and expressive style.
+
+Ht.,12 inches.
+## 452 - CARVED IVORY STATUETTE.
+
+Italian,lateI5th.century.
+
+St. Sebastian, with his arms bound over his head. Nude width a drapery about the loins. Finely modelled.
+
+Ht.,81/4inches.
+
+(Illustrated.)
+## MEDIEVAL METAL-WORK
+
+## 453 -BRONZE STATUETTE OF DANCING MAN.
+
+French,I3th.century.
+
+Treated in a very primitive style. A piece of unusual interest. Black and green patina.
+
+Ht.,12 1/4 inches.
+
+(Illustrated.)
+## 454 PAIR OF DINANDERIE BRASS CANDLESTICKS. Flanders,early I3th.century.
+
+In the form of men on horseback.
+
+(Illustrated.)
+
+455 —DINANDERIE EWER (AQUAMANILE).
+
+Ht., 6 1/4 inches.
+
+Flanders,I3th.century.
+
+Handle and mouth in shape of animals.
+
+Ht.,10 inches.
+
+Flanders,I4th.century.
+
+456—AQUAMANILE.
+
+Similar to the above, with plain spout and handle.
+
+Ht., 9 inches.
+## 457 — DOUBLE DINANDERIE CANDLESTICK.
+
+Flanders,15th.century.
+
+Ht.,10 1/2 inches.
+
+Flanders,15th. century.
+
+Ht.,12 3/4 inches.
+
+French,I2th.century.
+
+458 -DINANDERIE CIBORIUM.
+
+Surmounted by a crucifix.
+
+- 459 - GILT BRONZE PLAQUE.
+
+Probably the door of a tabernacle ; representing the Crucifixion.
+
+A rare piece, of great character.
+
+Ht.,6inches.Width,5 3/8inches.
+
+(Illustrated.)
+
+460
+
+—GILT BRONZE GROUP:VIRGIN AND CHILD.
+
+French,I3th.century.
+
+Right hand of Virgin missing.
+## 461 I-GILT BRONZE STATUETTE OF FEMALE SAINT.
+
+## French art,14th.century.
+
+Standing, with a long drapery passing over head.
+
+Ht.,3 5/8inches.
+
+## 462 —VERY BEAUTIFUL GILT BRONZE STATUETTE.
+
+French art,I4th.century.
+
+Christ crucified. A wonderful casting.
+
+(Illustrated.)
+
+Ht.,8 3/4 inches.
+## 463 3-GILT BRONZE STATUETTE. French,I4th.century.
+
+A Saint, holding a book and a bladed implement. This work appears (as does also the statuette following, No. 466) to be by the same artist as the Christ above mentioned.
+
+Ht.,81/2inches
+
+464
+
+(Ilustrated.)
+
+— GILT BRONZE STATUETTE. French,I4th.century.
+
+St. Catherine, trampling on a prostrate figure of Vice,whom she holds transfixed with the point of her sword. In her left hand she holds a book.
+
+Ht.,83/4 inches.
+
+(Illustrated.)
+## VARIOUS OBJECTS
+
+465 -BOXWOOD PAX.
+
+Venetian,3th.century.
+
+Delicately carved; two draped female figures standing in a recess, before a cross. Various figures outside.
+
+Ht.,5inches.Width,3 inches.
+
+French,15th.century.
+
+465A-GILT BRONZE PAX.
+
+Showing in relief a Crucifixion, amid ogival arches; above, an angel, holding a candlestick, and rosettes.
+
+Ht.,51/2 inches.Width,27/8inches.
+## 466 -- “VERRE EGLOMISE " PAX. Florence, late 15th. century.
+
+With gilt bronze frame of the period. Christ crucified, with two Saints standing beneath the cross, against a landscape and a red sky. The saints wear golden draperies. In the triangle above, God the Father, holding a globe surmounted bya cross.
+
+Verre églomise ornamentation below.
+
+of Mantegna.
+
+The whole of most exquisite draughtsmanship, in the style
+
+Ht.,63/4 inches.Width 4 inches.
+
+(Illustrated.)
+## 467 PORTATIVEALTAR.
+
+I2th.century.
+
+Composed of an antique green marble slab, fanked at either end by a filigree plaque set with four amethyst cabochons ; and enclosed above and below by niello plaques, bearing a rich design in dark purple enamel on a gold ground.
+
+Width,4inches.
+
+Length,71/2inches.
+
+(Illustrated.)
+## 468 — JASPER CUP.
+
+Italian,16th.century.
+
+A beautifully carved translucent piece.
+
+Ht.,11 1/4 inches.Width,12 inches.
+
+(Illustrated.)
+
+—HANDSOME IVORY VASE WITH COVER.
+
+German Renaissance.
+
+Ht.,12 inches.
+
+French,15th.century.
+
+469
+
+470 RELIQUARY HEAD.
+
+Head of a Saint, shaven, and apparently blind in one eye. Beautifully modelled in repousse copper.
+
+(Illustrated.)
+
+Ht.,73/4inches.
+
+Venetian,16th.century.
+
+—LEATHER CASE.
+
+Of triangular form; painted with medallions enclosing landscapes, portraits, etc. The silk strings pass through lions' heads. Containing a mirror, decorated in the same manner, scissors, nail-file, tweezers for plucking out hairs, etc.
+
+Length, 6 inches.
+
+German,16th.century.
+
+472—BEAD OF A CHAPLET.
+
+Carved boxwood ; in the shape of a man's head. Inscribed : MENSCH. BEDENK. DAS. END.
+
+471
+- 3—SILVER PLAQUE. 473
+
+French,16th.century.
+
+Showing in relief a delicately chased Nativity. Framed in ebony.
+
+Ht.,47/8inches.Width,31/2 inches.
+
+- 474 —— PAINTED BRONZE PLAQUE. Flemish, late 15th. century.
+
+The descent from the Cross. inscription, from the Psalms.
+
+On the back, an engraved
+
+Ht.,51/4inches.Width,43/8inches.
+
+## 475 —SMALL EARTHEN MODEL.
+
+Hispano-Moresque,I4th.century.
+
+A model of a monument, in the shape of a fountain.
+
+Ht.,43/8inches.Diameter,81/2 inches.
+
+- —TOP OF A WOODEN-MIHRAB. Saracenic,15th. century. 476
+
+Richly carved with inscriptions and arabesques.
+
+Ht.,13 1/4 inches.
+
+- 477 - GILT BRONZE MONSTRANCE. Italian,16th.century.
+
+In the shape of a baptistry; decorated with winged heads of cherubs, in silver.
+
+Ht., 13 inches.
+8—PRESSED HORN PLAQUE.French,early I7th.century. 478
+
+Showing the Virgin, seated on a Church, her feet resting on clouds, and the Child in her arms. An angel standing on either side, and cherubs above and below.
+
+Ht.,7 inches.Width,5 inches.
+
+I7th.century.
+
+479 - BRONZE STIRRUP.
+
+Floral decorations embossed on the sides.
+## GEMS
+
+480 -ASSYRIAN GOLD ARMLET.
+
+About 7o0 B.C.
+
+Two figures in relief, of a man in armour, wearing a diadem.
+
+Length, 5 1/2 inches.
+
+## 481 —MEROVINGIAN TREASURE.
+
+The principal piece is a short sword, with gold and silver hilt, studded with precious stones ; (partially restored.)
+
+Nine fibule, some in bronze,inlaid with gold and precious stones.
+
+Four jewelled ornaments, studded with precious stones and enamel.
+
+An ivory comb, studded with precious stones, and showing traces of gilding.
+
+An iron ornament, in the shape of a fabulous beast, with silver filigree decoration, and studded with crystal. In all, 16 pieces.
+
+## 482 2-MEROVINGIAN SILVER STATUETTE.
+
+The nude figure of a man, with the right arm raised, and the left at his waist.
+
+Ht.,2 7/8 inches.
+## 483 —SASSANIAN SILVER VASE.
+
+Tall and extremely elegant ; with a handle. Traces of decoration round the neck.
+
+This rare piece may be compared with a gold vase, similar in shape but more heavily ornamented, in the Roumanian Treasure (now detained in Russia) to which it is closely
+
+(Illustrated.)
+
+Ht.,15 1/2 inches.
+
+IIth.or 12th.century.
+
+related.
+
+484 RELIQUARY.
+
+A bronze (or silver) hand, from a reliquary, in the finest
+
+Ht.,9 1/4 inches.
+
+IIth.or I2th.century.
+
+Byzantine style.
+
+485 5—SILVER LOCKET.
+
+Romanesque filigree heart-shaped locket; bearing a figure of Christ on the cross.
+
+486 5—A SILVER STYLUS.
+
+French,14th.century.
+
+Decorated with silver-gilt spirals.The end set with four green cabochon stones.
+
+Length,7 3/4 inches.
+
+## SILVER AND SILVER-GILT CALAMUS.
+
+French,I4th.century.
+
+Decorated with a circle of small cabochon stones. A rare sacred utensil.
+
+48
+## 488 一 SILVER-GILT STATUETTE. French,15th.century.
+
+A female saint, standing on a globe and crescent, trampling on a monster;her arms crossed on her breast;wearing a
+
+Contained in a copper gilt openwork case.
+
+Ht.,of statuette,3 1/4 inches.
+
+## 489 一 SMALL BUST OF A ROMAN EMPEROR.
+
+Italian,6th.century.
+
+The head, bearded, and the hair bound with a fillet in rock crystal, above a drapery and foot of red porphyry.
+
+Ht.,4 1/2 inches.
+
+490 EQUESTRIAN STATUETTE. Florence,16th.century.
+
+Cosimo dei Medici, bare-headed, and in armour. Silver and silver-gilt; the head carved in a red precious stone.
+
+Ht.,3 3/8 inches.
+
+French,16th.century.
+
+491 I-WATCH.
+
+Small hexagonal crystal and gilt bronze watch. Signed J. Gallier, a Lyon.
+
+From the Chabriere-Arles collection.
+—EMBROIDERY.
+
+493
+
+French,I4th.century.
+
+Worked in gold and silver thread, showing a bishop, in green
+
+Ht.,16 inches.Width, 6 inches.
+
+robes, holding in his right hand a crozier, and in his left a book.
+
+494 —EMBROIDERY. German,beginning of 16th.century.
+
+Band of embroidery, with a composition divided by arches into three compartments;the largest, in the centre,representing the Annunciation, with two saints on either side. Over the centre is a coat of arms.
+
+Ht.,20 inches.Width,6 ft.1 inche.
+
+## GOTHIC TAPESTRY
+
+492 TAPESTRY PANEL.
+
+French,end of I5th.century.
+
+Representing the fate of the callous Rich Man. A young man with long fair hair is the central figure of the composition, clad in gorgeous robes, with a damasked cloak lined with ermine.
+
+On the right, the three-headed Cerberus, holding keys, points to the gates of Hades. The ground is strewn with fowers, and in the background is a landscape.A Above, an inscription in Gothic characters, on red ground.
+
+At his feet lies an open casket filled with gems and money. He is urged forward by Pluto (on the left), wearing a crown and a foating drapery, and holding in his right hand a spear.
+
+Ht.,6 ft.4 inches.W.,5 ft.6 inches.
+
+(Illustrated.)
+## ORIENTAL RUGS
+
+495-FRAGMENT OF AN ISPAHAN RUG. 16th.century.
+
+Design of palmettes and fowers, on a blue ground. Border with red ground.
+
+Length,5 ft.4inches.Width,5ft.3inches.
+
+496 - ISPAHAN FRAGMENT.
+
+Late I5th.century.
+
+Part of a rug, with a fine design of palmettes and fowers, on a ruby-coloured ground. Border on blue ground.
+
+Length,7 ft.4 inches.Width,351/2 inches.
+
+(Illustrated.)
+## 497-ISPAHAN RUG.
+
+I6th.century.
+
+Ornamental design in light-green, cream, and dark-blue, on red ground ; border with design of tiles and fowers on darkblue ground.
+
+Length,8 ft.3 inches.Width,4 ft.3 inches.
+
+(Illustrated.)
+498 3—ISPAHAN RUG.
+
+I6th.century.
+
+Design of palmettes and stylised dragons, on ruby-coloured ground ; with a border of palmettes, on green ground.
+
+Length,6 ft.10 inches.Width,4 ft.7 inches.
+
+(Illustrated.)
+## 499 —LARGE ISPAHAN RUG.
+
+15th.to I6th.century.
+
+Design of trees, fowers, and ornaments on green background. The border, on ruby-coloured ground, is decorated with arabesques interspersed with fowers. The border is restored at one end.
+
+Length,10 ft.Width,5 ft.11 inches.
+
+(Illustrated.)
+500— ISPAHAN RUG.
+
+Early I6th.century.
+
+Half of a fine rug, with broad design of palmettes, fowers and dragons on a ruby-coloured ground, with richly ornamented border on a green ground.
+
+Length,7 ft.6 inches.Width,5 ft.10 inches. (Illustrated.)
+## 501
+
+## 一 PERSIAN PRAYER RUG.
+
+16th.century.
+
+Of very fine wool; ornamented with fowers and arabesques on red ground, and framed in a fine design, with a rich border.
+
+This rug, in an admirable state of preservation, almost exactly forms a pair with that formerly in the possession of the Emperor of Austria,at Shonbrunn. (See Dr.F.R. Martin's " History of Oriental Carpets", Vol. I, p. 127, fig.331.)
+
+Length,6 ft.Width,3 ft. 8 inches.
+
+(Illustrated.)
+502 ISPAHAN RUG.
+
+I6th.century.
+
+Of beautiful quality and rare design, decorated with palmettes on ruby-coloured ground. Top and bottom missing
+
+Length,6ft.4 inches.Width,5 ft.1 inches.
+
+(Illustrated.)
+## 503-PERSIAN GARDEN RUG.
+
+T6th.century.
+
+One of the earliest specimens of this family. Compartments filled with trees and fowers, on cream and rose ground, separated by streams conventionally represented in blue and white; with an irregular border of varied design on darkblue ground.
+
+Length,12 ft.3 inches.Width,6 ft.4 1/2 inches.
+
+(Illustrated.)
+## - FRAGMENT OF A FINE ISPAHAN RUG. 15 th. century. 504
+
+The centre decorated with arabesques and fowers on yellow ground ; framed in part of the border, similarly ornamented on blue ground.
+
+Length,4 ft.2 inches.Width,35inches.
+
+(Illustrated.)
+## 505 — INDO-PERSIAN-ISPAHAN FRAGMENT. 16th. century.
+
+A portion of a very large and extremely fine carpet, with broad decorative design, partly on green and partly on red ground.
+
+Borders of stylised fowers on white ground.
+
+Length,8 ft.,4 inches.Width,7 ft.6 inches.
+
+(Illustrated.)
+## 506 -LARGE INDO-PERSIAN-ISPAHAN RUG.
+
+Early I7th.century.
+
+Covered with small fower design in red, yellow, white and green, on dark-green ground; yellow border. Ressembles the carpets frequently shown in Persian miniatures.
+
+Length,11 ft.11 inches.Width,7 ft.
+
+(Illustrated.)
+## 507-ASIA MINOR RUG.
+
+I6th.century.
+
+Decorated in blue and rose, on a red ground. Border missing.
+
+Length,9ft.3 inches.Width,5 ft.11 inches. (Illustrated.)
+## FURNITURE
+
+508-GOTHICOAK DESK.
+
+French,15th.century.
+
+Ht.,4ft.4 inches.Width,3 ft.63/4 inches.Depth,11 inches.
+
+509 GOTHIC OAK CREDENCE.
+
+French 15th.century.
+
+With delicately carved panels, and fine iron locks. Two drawers and two doors.
+
+Ht.,4 ft.,81/2 inches.Width,4 ft.21/2inches.Ddepth,213/4inches.
+
+(Illustrated.)
+## 5I0-GOTHIC SEAT. French,Louis XII period. C.15oo A.D.
+
+Very beautiful seat, of hexagonal shape, decorated with Gothic panels, and three openwork panels with foral design ; the arms supported by two elaborately carved columns.
+
+Ht.,28 3/4 inches.Width,22 3/4 inches.Depth,16 inches.
+
+(Illustrated.)
+5II —RENAISSANCE TABLE.
+
+French,Henri II period.
+
+Four columns, supporting a richly carved cincture ; pendents at either end; the original leaves for extension.
+
+Ht.,33 1/2 inches.Length,5 ft.Width,33 inches.
+
+(Illustrated.)
+511
+
+<!-- image -->
+## 512 一 CARVED THRONE.
+
+Florence, 16th. century.
+
+Large princely chair or throne, of magnificent architectural design and execution.
+
+Ht.,8 ft.6 inches.Width,3 ft.9inches.Dept,39 inches. (Illustrated.)
+## 513 — IMPORTANT CARVED FRAME. Florence, 15th. century.
+
+Large beautifully carved wooden frame, of architectural design. Partly polychrome.
+
+Ht.,4 ft.2 inches.Width,33 inches.
+
+(Illustrated.)
+## 514 —CARVED CREDENZA OR PRIE-DIEU.
+
+Italian 16th.century.
+
+Richly ornamented, and bearing a coat of arms. On either side, a lion rampant, with the device  OMNIBVS
+
+IDEM."
+
+Ht.,37 inches.Width,31 inches.Depth,26inches.
+
+(Illustrated.)
+
+515 - X-SHAPED ARMED STOOL. Italian early 16th. century.
+
+Ht.,3 ft.Width,25 inches.Depth,21 inches.
+
+516-LARGE CARVED-WOOD MONSTRANCE.
+
+Work of the School of Blois;French,16th. century.
+
+Ht.,2ft.93/4inches.
+## 517 一 TALL CARVED WOOD CANDELABRUM.
+
+Italian Renaissance.
+
+Of beautiful proportions; with winged heads of cherubs, garlands, and acanthus leaves.
+
+(Illustrated.)
+
+518 -FRONT OF A CHEST.
+
+Ht., 40 inches.
+
+French,r6th.century.
+
+Finely carved, in three architectural compartments, surmounted by heads of angels. In the centre, St. Hubert; on the right, St. Martin; and on the left, St. Michael.
+
+Ht.,21 inches.Width,5 ft.3 inches.
+
+(Illustrated.)
+
+END OF THIRD AND LAST SESSION
+## Priced Catalogues
+
+Priced copies of the catalogue, or any session thereof,will befurnished by the Association at charges commensurate with the duties inuolued in copying the necessary information from the records of the Association.

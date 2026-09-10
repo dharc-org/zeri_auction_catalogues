@@ -1,0 +1,467 @@
+<!-- image -->
+
+## PRIMA VENDITA
+
+Martedi 12 Maggio 1903.
+
+## Prima Sala.
+
+- 1—PoLTRoNA antica di noce a braceiuoli ricoperta di ricamo a punt'unghero.
+- 3-PoRTA LIBRI pliant di noce a traforo,lavoro arabo.
+- 4-DipINTo su fondo oro,La Vergine col Bambino, cornice a pastiglia dorata,M.0.23X0.18.
+- STAMPA.La Circoncisione in cornice dorata e cristallo.
+- 6一 MEDAGLIoNE ovale. Testa di Vecchio, cornice di noce.
+- QuADRETTo dipinto a olio.Vecchio suonatore,cornice in-
+- tagliatae dorata,M.0.20X0.15.
+- 8- BussoLA Inglese entro relativo astuccio di mogano.
+- 9—SGABELLINO antico di noce intagliato.
+- 10-QuATTRo sEDIE antiche di noce (dette seggiole da balia)
+- ricoperte di Stoffa scura.
+- 11-FREGIo antico di marmo,scolpito a draghi e fogliami, Scuola Fiorentina, epoca 1500.
+
+## Seconda Sala.
+
+- 12-MoBILINo antico di noce intagliato a due sportelli con
+- pilastri.
+- 13-SeDIA antica di noce con finali dorati, ricoperta di ri-
+- camo a punt'unghero.
+- 14—TERRACoTTA.Testa di cherubino.
+- 15-PIccoLo TABERNAcoLo dilegno nero ed oro,con bassorilievo di bronzo dorato, rappresentante la Vergine, Secolo XVII,
+- Alto M.0.33.
+- 16—PIccoLo sPEccHIo antico veneziano inciso,cornice di legno
+- dorato.
+- 17-MoBILINo antico di noce per sottostipo, con colonne sugli
+- angoli, due sportelli e cassetta.
+- 18-TAvoLINo di noce scolpito con gambe a lira,lavoro
+- moderno.
+- 19—TAvoLA antica di noce con piano intagliato,gambe tornite,
+- e2 cassette,alta0.87 lunga 1.50X0.81.
+- 20-TAPPETo da tavola di damasco rosso antico,con balza di velluto antico e frangia,M.2.60X2.10.
+- 21 1-MeTRI41 difilaticcio gialloe rossoaramageserelativa
+- frangia.
+- 22-TAPPETINo per tavola a strisce di raso verde e ricamo antico gotico.
+- 23-PEDANA Turca disegno a losanghe,M. 2.50 X 1. 00.
+- 24 —PEDANA Turca antica disegno a preghiera, M. 1. 40 X 1. 00.
+- 25—PEDANA Persiana, disegno bleu,bigioe nero M.1.65X1.10.
+- 26— CoRNIcE di noce intagliato a ovoli e lumeggiato di oro, con stampa,M.0.65X0.50.
+- 27-PoLTRoNA a bracciuoli di noce con finali dorati ricoperta di ricamo a punt'unghero.
+- 28- BusTo antico di terracotta. Conte Baldelli di Cortona,
+- Epoca Luigi XIV,alto M.0.68.
+- 29 -CoRNIcE alla Sansovina di legno nero, con stampa,
+- M.0.45X0.35.
+- 30 - CrEDENz di noce a pilastri e pannelli scolpiti, sec. XVI.
+- 31-VETRINA antica di noce a tabernacolo, con tre palchetti fasciati di damasco rosso e sportello a cristalli.
+- 32 -DuE sTATUETTE di porcellana bianca Capodimonte.
+- 33-STATUETTA di porcellana colorita,figura di donna in costume Luigi XV,Frankenthal.
+- 34 - STATUETTA di porcellana bianca, antico Ginori, Figura
+- allegorica.
+- 35 —GRUPPETTo di Cinghiale assalito dai cani, porcellana bianca antico Ginori.
+- 36-TazzA con piatto di porcellana Vienna con decorazione di uccellini e rose,bordo bleu e oro.
+- 37-STATUETTA Contadina,porcellana Capodimonte decorata acolori.
+- 38-Vassoio ovale con due vasetti da crema, porcellana de-
+- corata a tralei di fiori, antico Venezia.
+- 39GALLO, GALLINA e GALLETTo porcellana antica della China.
+- 40-DuE PIATTI di porcellana Capodimonte, con medaglione al centro rappresentante un Bastimento bordo a colori e oro.
+- Epoca Luigi XVI.
+- —TRE PIATTI di porcellana Saxe, prima epoca con bordo
+- 41smerlato e traforato,decorati con animali.
+- 42—DuE PIATTI c.s.con bordo liscio.
+- 43-TazzA con piatto di porcellana vecchia Sassonia decorata a rilievo disegno Pompeiano.
+- 44-PIaTro di porcellana Vincennes,pasta tenera,decorazione a rose.
+- 45-Tazza con coperchio di porcellana Sevres decorata con
+- medaglioni ed arabeschi d'oro.
+- 46—PIATTo di porcellana Vienna con decorazioni a rilievo in oro a due colori,epoca Impero.
+- 47-DuE sTATUETTE Berger e Bergere, di porcellana bianca,
+- costumi Luigi XVI,Vecchio Vienna.
+- 48—CREDENzA antica di noce intagliato, con colonne agli angoli e pilastri formati da cariatidi, due sportelli e cassette, alta
+- M.1.20 lunga 1.90larga 0.70.
+- 49 -VETRINA antica di legno nero e oro,a tre scompartimenti con sportelli e cassette, poggiata su mensole, interno foderato di damasco rosso.
+- 50-SeRvizio di maiolica antica Faenza decorata a roselline, secolo XVIII composto di:Zuppiera, 2 Vassoi, 8 Scodelle, 29 Piatti, Insalatiera, 2 Fruttiere e Salsiera con vassoino.
+- Pezzi 45.
+- 51 -SERvizio per tavola,di terraglia antica Inglese,Davenport con decorazione di fiori e uccelli, composto di:2 Zuppiere,6 Vassoi, 3Legumiere,1Insalatiera,1 Fruttiera,
+- 3 Salsiere,34 Piatti e6 Vassoini da frutte.Pezzi 56.
+- 52-DicIoTTo PIATTI,maiolica Faenza,disegno a fiori e uc-
+- celli.
+- 53-MENsoLoNE antico di carta pesta e legno,decorato a pietra
+- rappresentante una sirena.
+- 54 - GRANDE VAso a manichi doppi con mascheroni, decorazione a figure policrome rappresentante la Storia della Samaritana, il tutto lumeggiato d'oro, alto M.0.45 secolo XVII.De Grue.
+- 55 -CoRNIcE di noce intagliata,con stampa ritratto del Mare-
+- sciallo D'Harcourt (detto l'Homme a la boucle).
+
+M.60 X 48.
+
+- 56 — GRANDE VAso in forma di fiasca,con maniehi,maiolica
+- verde antica,Chinese. Celadon.Alto M.0.35.
+- 57- GRANDE oRcIo antico con manichi, di Montelupo.
+- 58-ORcIo c. s.piu piccolo.
+- 59-DuE BAsI quadrate di legno intagliato con festoni di
+- fiori.AlteM.0.85.
+- 60 —ORoLoGIo Chinese con calendario,in ottone entro cassa di legno nero.
+- 61-SPEccHIETTo Veneziano in cornice di vetro con ornati di bronzo, secolo XVI.
+- 62 — OroLoGIo in forma di tempio,di legno nero con colonne, mostra di vetro Veneziano dipinto.Secolo XVII.
+- 63—MENsoLA antica di legno scolpito con testa di Cherubino, dorata e policromata epoca 1600.
+- 64—GRuPPo antico,di legno dorato,Madonna col Bambino, epoca 1400. Alt.M.0.75.
+- 65 -CREDENzA antica di noce con intagli e colonne sugli angoli, due sportelli e cassetta. Alta M. 1.10 lunga 1.70
+- larga 0.63.
+- 66-ANTIco GRADINo in legno da altare a piccoli pilastri e
+- formelle, tutto lumeggiato d’oro.
+- 67-THEIERA e bicchiere da birra,di rame a sbalzo con fi-
+- gure, lavoro olandese antico.
+- 68 —VAssoio ottagono, antico cloisonne.
+- 69-GRANDE DIPINTo olandese, su tela, Marina cornice nera
+- eoro.M.2.00X1.90.
+- 70—DipINTo su tela,Ritratto di una gentildonna fiorentina dell'epoca di Caterina de'Medici,grandezza naturale,entro
+- bella cornice antica di legno bleu e oro.
+
+Alto M. 2.20 larg.M. 2.05.
+
+- 71-DiPINTo a olio su tela,Ritratto di Senatore Fiorentino.
+- epoca 1600, cornice dorata.
+- 72-DipINTo su tavola,Madonna col Bambinoe San Giovanni.
+- Copia da Andrea Del Sarto.Cornice dorata.
+- 73—DiPINTo a olio su tavola.La SS.Annunziata,cornice nera asbalzo.M.0.25X0.20
+- 74-DuE PIccoLI PAEsAGGI con figure dipinti su rame entro
+- cornici di legno nero intagliato a sbalzo.
+- 75-ToRCIERE di bronzo con tre piedi.Alto M.1.50.
+- 76— SpEccHIo in cornice antica di legno nero con frontone
+- dorato.
+- 77-ORoLoGIo antico a pendolo con mostra di stagno lavorato a sbalzo.Lavoro Tedesco,del secolo XVII.
+- 78-ToNDo bassorilievo antico di stucco policromo,Madonna col Bambino.
+- 79-DiPINTo su tavola,Madonna col Bambino eS.Giovannino,Scuola Fiorentina del 1500,in cornice dorata.
+
+M.0.52X0.39.
+
+- 80DipINTo a olio su tela. Ritratto di Malpighi, cornice antica intagliata e dorata,epoca 1600.
+- 81 - DiPINTo su tela, Ritratto d'uomo, costume 1700, cornice
+- dorata.
+- 82-RiTRATTo di giovinetto a mezza figura in costume di epoca Luigi XV,abito di velluto marrone con tricorno sotto il braccio,cornice dorata M.0.73X0.61.
+- 83-TABERNAcoLo Fiorentino del 14OO.Madonna colBambino eSan Giavannino,attribuito a Fra Diamante,bellissima
+- conservazione tanto la pittura quanto la cornice.
+- 85-GRANDIssIMo PIATTo, decorato con due figure di guercon stemma nella parte superiore, secolo XVI, Diam.0.50.
+- rieri che combattono presso un accampamento,il bordo decorato alternativamente a squamme,e aquile araldiche, Maiolica Pesaro.
+- 86—GRANDEPIATTo decoratonel bordo conarabeschi esquamme riero con spada, Diam.0.35. Secolo XVI,leggeri riflessi
+- rossi, verdi, azzurri, gialli, e bianchi nel centro un guermetallici.Maiolica Pesaro.
+- 87-VAso a pancia e collo ristretto, fondo celestino decorato a fogliame d'arabeschi, con leggenda nel nastro: A. C. - D.
+- Latr. Secolo.XVI, alto M.O.25. Maiolica Faenza.
+- 88 -BoccALE con manico decorato con l'arma di Papa Leone X, ali verdi e ornati di bellissimi colori. Marcato Cafaggiolo.
+- entro l'anello Mediceo uscente da due cornucopie con due Alto M. 0.20.
+- 89 —LoTTo di:Piccolo boccale con manico a fogliami azzurri ed entro un ovale,una corona con le palme, marcato Maiolica Faenza e vaso a beccuccio con manico decorato azzurro,secolo XVI.Maiolica Savona.
+- 90-DuE vAsI a rocchetto,decorati a rabeschi azzurri, leggende: Suc, buc, rosato,e Lock De Pino, secolo XVI. Maio-
+- lica Faenza.
+- 91-Vaso bianco a due manichi con stemma Uguccioni, secolo XVI,alto M.0.26.Maiolica Faenza.
+- 92-MATToNELLA rappresentante la Madonna col Figlio,su fondostoffatoeduetestediCherubini,secoloXVI.Maiolica Faenza.
+- 93 -GRANDE VAso decorato a figure e paesi con ornati azzurri e stemma Panciatichi,secoloXVII,alto M.0.335.Maiolica Savona.
+- 94 -PiccoLo BoccALE da vino,con laquila imperiale e ornati a Grottesche,secolo XVI.Maiolica Montelupo o Urbino.
+- 95 -DuE VAsI a sboffi con manichi decorati bleu, sec.XVI.
+- Maiolica Savona.
+- 96-FRUTTIERA con piede,puttino nel centro e ornato a borchie nel bordo,secolo XVI,Diam.0.29.Maiolica Faenza.
+- 97 --RoccHETTo ornato a fogliami con cartello e leggenda:
+- Corno di cervo ad, secolo XVI, alto M.O.29. Maiolica Faenza.
+- 98 - Vaso con manico e beccuccio con le armi Orsini e leggenda da Ol castorei, secolo XVII, alto M. 0. 275. Maiolica
+- Abruzzi.
+- 99 -DuE vAsI a rocchetto decorati celeste con nastro, un pino ed uccelli,secolo XVI. Maiolica Faenza.
+- 100-PIATTo GRANDE con ornati a fogliami e stecco bianco, giallo e verde e nel centro la mezza fgura di S.Caterina, Diam.O.36,secoloXV.MaiolicaFrattao Citta di Castello.
+- 101-Vaso con coperchio di vetro a onde antico Venezia.
+- 102
+- 2—BiccHIERE e bicchierino di cristallo inciso.
+- 103 — SrEMMA dipinto su legno con Puttini (Epoca 1600).
+- 104 - AsTuccio per posate, di cuoio antico impresso e dorato.
+- 105 — AsTuccro per posate, di cuoio antico impresso e fer-
+- magli di ottone.
+- 106 - PeDANA Turca antica, disegno a fiori, su fondo giallo,
+- M. 2.30 X1. 05.
+- 107 -PEDANA Turca, disegno a quadrettini, M. 1.80X1.00.
+- 108 —PeDANA Turca, disegno a fiori su fondo bianco, M. 2.65X1.100.
+- 109 -PIccoLA PEDANA Turca antica,disegno a preghiera colore rosa e celeste.
+- 110 —PIccoLA PEDANA antica, fondo giallo e balza bleu.
+<!-- image -->
+
+## SECONDAVENDITA
+
+Mercoledi 13 Maggio 1903.
+
+## Terza Sala.
+
+- 111 - SeDIA antica di noce a X con finali dorati.
+- 112 2—PAIo MENsoLE di noce scolpito,moderne.
+- M.0.28X0.20.
+- 114-CoRNICETTA di legno intagliato e dorato.
+- 115 -DuE coRNIcETTE ovali,di legno scolpito a ghirlanda di frutte e dorate.
+- 116 —DUE CAPITELLINI di bronzo dorato,Impero.
+- 117-RELIQUARIo antico,di legno scolpito e dorato in forma di urna.
+- 118-PIccoLo CoFANETTo antico di legno,ricoperto di cuoio
+- impresso. Gotico.
+- 119 -MoRTAINo di bronzo a teste di Cherubini e festoni.
+- 120 —PAIo TIRANTI di bronzo a maniglia con mascherone.
+- 121 -LuccHETTo antico di ferro geminato di oro, con sua chiave.
+- 122 -PAIO MANIGLIE antiche,di bronzo.
+- 123 -PoRTA oDoRI di argento dorato, epoca Luigi XV.
+- 124 -CoFANETTo antico,di bronzo inciso,lavoro Veneziano, secoloxv.
+- 125 - TABAccHIERA ovale di smalto decorata con soggetti militari, epoca Luigi XV.
+- 126 6-VassoiNo ovale di argento con bordo traforato.
+- 127 -Vaso cilindrico a tre scompartimenti con coperchio,an-
+- tico cloisonne,China.
+- 128 -DuE BOTTIGLIE da liquori,di vetro antico inciso, con tappi d'argentoa vite.
+- 129 -GRANDE BoTTIGLIA di cristallo Veneziano, con fiori
+- dorati.
+- 130 -PiccoLA coPPA di Lapislazzuli con manichi su basettina di ebano.
+- 131 -PAlo LeNTI con montatura e manico d'argento dorato dell'Impero,e suo astuccio.
+- 132
+- 2-DisEGNo,allegoria di Lanfranco, entro cornice antica di legno intagliato e decorato verde e oro.
+- 133—DipINTo antico,su tela,Ritratto di Margherita regina di Spagna, in cornice dorata. M. 1.15 X0.98.
+- 134 —DiPINTo su tela,Ritratto a mezza figura di donna con ventaglio Veneziano del 1500,cornice intagliata e dorata.
+- 135 —CRisTo legato alla colonna,bronzo patinato del Chilleri, alto0.30.
+- 136 -CassoNcINo antico di noce intarsiato, in forma di urna
+- e stemmi dipinti ai lati.
+- 137 —DUE PoLTRoNE di noce a bracciuoli, sedili di giunco.
+- -138 一 DuE cuscINI ricoperti di damasco antico verde con nappe.
+- 139 -ORoLoGIo antico con suoneria Black-Borow di Londra in cassetta di legno nero con ornamento di bronzo.
+- 140 -MENsoLA di Boulle antico e rapporti di bronzo.
+- 141 -PANNELLo di legno dipinto su fondo d'oro con figure di donne, disegno Francese, Luigi XV, cornice nera e oro.
+- 142 —PoLTRoNA antica di noce a bracciuoli,ricoperta di cuoio.
+- 143 -TavoLA antica di noce con gambe tornite e cassetta,
+- lunga M. 1.08 larga 0.59.
+- 144 - CorNIcE antica ottagona con rapporti di bronzo (alla
+- Cellini)contenente uno specchio.
+- 145 —DuE coRNIcI legno nero intagliato a sbalzo, di cui una
+- contenenteuna stampa.
+- 146-PIccoLA coRNIcE antica di legno intagliato e dorato.
+- 147 —MoBILINo antico di noce a due sportelli.
+- 148 —CoRNIcE Veneziana di legno intagliato e dorato a grande
+- fogliame.
+- 149 -CREDENzA antica di noce intagliato a due sportelli con
+- sovrapposta vetrina a cristalli.
+- 150 -STATUETTA rappresentante Giunone col pavone,bronzo antico veneziano del 1500.Alto M.0.34.
+- 151 —PIccoLA ANFoRA di vetro di Venezia,montata di argento.
+- 152 -PIccoLA ANFoRA di vetro di Venezia inciso, con sua montatura di bronzo dorato.
+- 153 -PIATTo,la Storia di Passifae e il Toro, secolo XVI. Diam.0.25.Maiolica Urbino.
+- 154-GRAN PIATTo decorato a squamme a raggiera azzurree gialle su fondo bianco. Nel centro l'agnello pasquale sul libro degli Evangeli. Diam. 0.33,secolo XVI. Maiolica
+- Gubbio.
+- 155 -VAso da farmacia con manico a beccuccio,con iscrizione in caratteri gotici: S. Vola,con tralei e ornati a fogliani azzurri, secolo XV,alto M.0.21.Maiolica Cafaggiolo.
+- 156 -GRANDE PIATTo a fogliami in mezzo rilievo, sec. XVII.
+- Diam.0.40.Maiolica Pistoia.
+- 157-PiccoLA TAzzA circolare con decorazione nel bordo a ra-
+- mina e nel centro una croce manganese (rotti i manichi), Diam.0.10,secolo XIV.Maiolica Arcaica.
+- 158 -PiccoLA MATToNELLA da pavimento rappresentante un angiolo che tiene una leggenda, Diametro 9.1/2, sec.XV. Maiolica Cafaggiolo.
+- 159 —MATToNELLA rappresentante San Michele in piedi tenendo uno stemma.Principio del secoloXVI.MaiolicaFaenza.
+- 160 -VAso con due manichi decorato giallo,azzurro e bianco, reflessi metallici,altoM.0.22,secoloXVI.Maiolica Gubbio
+- oDeruta.
+- 161-Vaso a rocchetto decorato a fogliami manganese erighe verdi, alto M.0.24, secolo XV,vedi Guasti pag.47 Maiolica Cafaggiolo.
+- 162 —MATToNELLA rappresentante San Giovanni,con veduta di paesi, secolo.XVI (fine), alta M. 0.24, Maiolica Faenza.
+- 163 --VAso da farmacia a rocchetto,decorato con un medaglione rappresentante una santa e vari arabeschi in grazioso spartito nel retro, alto M.0.29,secolo XVI. MaiolicaCasteldurante.
+- 164-CALAMAIo a stella,decorato a fiori bianchie foglie in rilievo gialle e azzurre, firmato Giacomo Cappucci F.1713.
+- Maiolica Faenza.
+- 165 - BoccALE a beceuccio con manico a disegno,fiori di prezzemolo con stemma nel centro,Cignale passante con albero, naturali in campo giallo, il campo nero caricato di tre gigli d'oro, sec. XV, alto M. 0.25. Maiolica Cafagggiolo.
+- 166 —VAso a rocchetto,fondo azzurro decorato d'arabeschi, mascheroni e fogliami e cartelle giallo,verde e rosso con leggenda: Mastrice, datato 1515, alto M. 0.28. Maiolica
+- Siena.
+- 167 —Vaso a rocchetto a ornati azzurri, con nastro e leggenda:
+- Restoracio, con piccola croce gialla, secolo XVI, alto M. 0.16. Maiolica Faenza.
+- 168—PiccoLo PIATTo concavo a disegno di fiori di prezzemolo manganese e azzurro, con stemma Ginori al centro, uno seudo con fascia a sghembo caricato di tre stelle, secolo XV,Diam.0.15.Maiolica Cafaggiolo.
+- 169-MaTToNELLA a rabeschi e fogliami azzurri e bianchi con nastro bianco portante anno M.D.L.XX. IHI, Carolus Fac. Maiolica Siena.
+- 170 -Vaso a beccuccio e manico decorato a grottesche e arabeschi con leggenda:C. D.Menta.C. C.,e stemma dellOspedale della Scala,secolo XVI,alto M.0.26.Maiolica
+- Siena.
+- 171 -VAso a beccuccio con manico, con leggenda:Aq. Acetosa, con intorno fogliami ed arabeschi racchiusi in una ghirlanda Robbiana, secolo XV, alto M.0.235. Maiolica Cafaggiolo.
+- 172-Vaso a beccuccio e manico decorato a fiori ed ornati azzurro su fondo bianco con nastro e leggenda:S. Manni
+- ficativo,sec.XVI,alto M.0.23. Maiolica Faenza.
+- 173 —Vaso a pancia a fogliami, verde, azzurro e giallo, con ovale entrovi mezza figura rappresentante la Maddalena, alto M.0.245,secolo XVI.Maiolica Caltagirone.
+- 174 -PIATTo FRUTTIERA con piede,con decorazione centrale arabeschi fogliami celesti, gialli e bianchi, con un circolo di scanelature e bordo a fogliami di eguali colori,rifessi metallici,see.XVI,Diam.0.24. Maiolica Gubbio o Deruta.
+- 175-PIaTTo decorato a occhi di pavone azzurri e gialli a raggiera su fondo bianco, rifessi metallici, secolo XVI, Diam.0.24.Maiolica Gubbio oDeruta.
+- 176-PIATTo:Cadmo figlio di Agenore re di Fenicia che libera la sorella Europa dal Dragone.Nel fondo veduta di paese con un Castello a destra. Appeso ad un albero lo stemma del Constable de Montemorency.Retro Fabula de Cadmo qual occise il serpente,nella botega di M.Guido
+- Durantino in Urbino.Secolo XVI,Diam.O.26.
+- 177-PiccoLo PIATTo azzurro con decorazioni arabeschibianchi, secolo XV,Diam.0.22.Maiolica Milano.
+- 178 -PiATTINo amatorio,con ghirlanda a tralcio verde nel
+- bordo,e nel centro due mani che si stringono sotto una corona,e sopra le fiamme con le due iniziali F.E., secolo XVI,Diam.0.22. Maiolica Faenza.
+- 179 -PiaTro a bordo rilevato e piede decorato a occhi di pa-
+- vone a raggiera bianco e azzurro e giallo, rifessi metallici, sec.XVI, Diam.0.21.Maiolica Gubbio o Deruta.
+- 180-FrUTTIERA a sboffi supiede decorataaraggiera azzurro e giallo con fogliami contrariati con testa di guerriero nel centro,secolo XVI,Diam.0.21.Maiolica Faenza.
+- 181 -PiccoLo PIATTo concavo con ghirlanda e tralcio sul bordo a fondo bianco (Stemma bianco,nero nel centro), sec.XVI,
+- Diam.O.17.marcato A.G. Maiolica Faenza.
+- 182 - FRUTTIERA a sboffi con ornati gialli su fondo bianco con stemma nel centro e doghe rosse e nere marcato B. G.con giglio d'oro nel campo azzurro,rifessi metallici, sec. xVI,
+- Diam.0.24.Maiolica GubbiooDeruta.
+- 183 -PiccoLo PIATTo concavo a ornato,a rabeschi bianchi, gialli azzurri, riffessi metallici, secolo XVI, Diam. 0.20. MaiolicaGubbiooDeruta.
+- 184 -PiaTTo con ornati a rabeschi e foglie gialli su fondo bianeo nel bordo,nel centro su fondo giallo stemma Ugolini, due leonardi passanti giallo e bleu contrariati,con rastrello nel capo sul fondo bleu,Diam.0.35, secolo XVI, rifessi
+- metallici.Maiolica Gubbio o Deruta.
+- 185-PiccoLo cAvETTo conghirlanda nel bordo e stemma della famiglia Dini,nel fondo marcato nel rovescio,secolo XV, citato dal Guasti pag. 238.Maiolica Cafaggiolo.
+- 186 -PiccoLo PIATTo concavo a stecco con ornati a tralcio di foglie nel bordo, fondo a squamme e stemma Mediceo nel
+- centro,secolo XVI,Diam.O.20.Maiolica Fratta.
+- 187 - TARGA rappresentante lo stemma Piccolomini, sec.XV, alta M.O.33.Maiolica Siena.
+- 188 -FRuTTIERA fondo azzurro con decorazione e ghirlanda nel bordo,ed emblemi guerreschi nel fondo marcato(Casa Pirota),secolo XVI,Diam.0.25.Maiolica Faenza.
+- 189 -Vaso a manichi decorato a rabeschi policromi, con i due ritratti di S.Francesco e Santa Chiara nelle due fasce del
+- corpo,secolo XVI,alto M.0.27. Maiolica Pesaro.
+- 190-DipINTo a tempera.Piazza Navona a Roma di Gaspare Van-Wittel (detto Gaspare dagli occhiali)entro cornice antica di legno scolpito e dorato con aquile sugli angoli.
+- 191—DipINTo tondo su tela,Paesaggio della Campagna Romana con figure, entro cornice intagliata e dorata, scuola Francese 1700.Diametro M.1.05.
+- 192-RITRATTo ovale del Padre di Rembrandt,di Gerard Dou entro cornice di legno nero a sbalzo.
+- 193 -DipINTo su tela, Ritratto di uomo a mezza figura, epoca Luigi XV, seuola Francese,cornice dorata.
+- 194 —DipINTo su tela, Ritratto di Colbert,a mezza figura in costume nero con trine, cornice dorata attribuito a Philippe de Champagne.M.0.93X0.65.
+- 195-ScRIvANIA (pupitre)di noce intagliato con scarabattolo
+- secoloxv.
+- 196-LAMPADA ebraica di bronzo a 8fiamme.
+- 197— ARMADINo antico di noce a due sportelli.
+- 198—DuE ORoLoGINI antichi,dei quali,uno d'oro,e l'altro di smalto verde con piccole perle.
+- 199 —PEDANA antica orientale,da preghiera,disegno di fiori
+- bianchi e gialli su fondo bleu.M.1.85X1.15.
+- 200-PeDANA antica Persiana disegno a rilievo su fondo bianco (Kulla).M.1.80X1.15.
+- 201 -PeDANA Turca antica disegno su fondo rosso con balza chiara.M.2.20X1.15.
+- 202 —Pezzo di pedana Persiana disegno blu e nero su fondo
+- bigio.M.2.10X1.00.
+- 203 —PEDANA antica, Turca, disegno a losanghe. M.2.20X1.10.
+- 204 -PEDANA Turca, antica, su fondo rosso. M. 1.95 X0.95.
+## TERZA VENDITA
+
+Giovedi 14Maggio 1903.
+
+- 205 -TABERNAcoLo antico,di legno nero lumeggiato di oro, per Crocifisso.Epoca Vasariana.
+- 206 -Mezzo BusTo di marmo in alto rilievo,rappresentante
+- Lorenzo il Magnifico.
+- 207—CoRNIcETTA rettangolare di legno intagliato e dorato.
+- 208  CopPA antica in forma di conchiglia di rame sbalzato e argentato.
+- 209 -DuE TAPPETINI di seta orientale con guarnizione di
+- nappe e relativa fodera.
+- 210 -TaPPETINo di broccatello antico color rosa e giallo guar-
+- nito di frangia e gallone.
+- 211-PiANETA di ricamo antico con tralci di velluto rosso a rapporto e gallone giallo.
+- 212-LoTTo di:Pendone di damasco rosso con bella frangia antica e Tappetino di stoffa chiara a fiori.
+- 213DuE DIPINTI su tavola su fondo giallo chiaro. Soggetti di Mitologia di Sebastiano Ricci Veneziano 1680 entro cornici dorate. M.0.62X0.35.
+- 214 -QuADRETTINo dipinto su rame, Madonna, entro cornice antica di legno intagliato e dorato.
+- 215—MINIATURA su avorio, Ritratto di gentiluomo costume Luigi XIV, entro cornice ovale di legno scolpito e dorato.
+- 216 -MINIATURA su avorio,Ritratto di uomo,cornice rotonda di legno intagliato e dorato.
+- 217-DipINTo ovale su tavola La Fortuna entro cornice antica di legno intagliato e dorato M.0.73X0.58.
+- 218-DipINTo a olio su tela,cornice dorata.Sposalizio di
+- Santa Caterina.GuIDo RENI.
+- 219 -GRuPpo di terra cotta, Madonna col Bambino su base
+- di legno dorato. AltaM.0.10.
+- 220 - MoBILINo antico di noce a due sportelli e due cassette. Alto0.901ungo0.92largo0.52.
+- 221 -PIccoLA CoNsoLE antica Luigi XVI di legno scolpito e
+- dorato.
+- 222
+- -PeDANA Turca disegno a losanghe su fondo blu. M.2.60X0.95.
+- 223
+- -PEDANA Turca disegno su fondo nero. M. 1.85X1.15.
+- 224 -PEDANA Turca antica,medaglione verde,balza rossa. M.1.75X1.20.
+- 225 —MoBILE a tabernacolo, con palchetto di legno con pila-
+- stri e capitelli scolpiti,decorato verde e oro di stile forentinodel1400.
+- 226 DuE FIGURE DI ANGIoLI inginocchiati, che tengono un candelabro sul ginocchio. Legno scolpito dorato,e colorito. Arte fiorentina,Epoca 1400. Alti M.0.54.
+- 227 -VAsETTo a due manichi di argento sbalzato,cesellato e dorato, con mazzo di fiori in argento naturale.Epoca 1550, con punzone di Roma.
+- 228 - STATUETTA antica di bronzo, Bacco fanciullo, su base di legno.
+- 229 -PIccoLo BoccALE bianco con beccuccio formato da un mascherone giallo e bleu. Sec. XVI, alto O.18 Maiolica Faenza e Piccolo Vaso da farmacia arocchetto decorato azzurro con leggenda &lt;S. Portulac &gt; col sole giallo sopra e la marca G. G. L. sotto sec. XVI, alto 0.13. Maiolica
+- Faenza.
+- 230 -PIATTo FRUTTIERA con piede,traforata a losanghe bianca con una figura di Arcangelo nel centro. Sec. XVI. Diam. O.26. Maiolica Faenza.
+231. PiNA bianca a squamme gialle e azzurre in rilievo, con
+- piede giallo, con arabeschi azzurri. Sec. xV, alto O.18. Maiolica Cafaggiolo.
+- 232-DuE PLAccHETTE rotonde in avorio scolpite a mezzo rilievo, rappresentanti una lAvarizia 1'altra la Superbia. Arte Veneziana Sec.XVI.Diametro O.05.
+- 233-FRAMMENTo dipiatto rappresentante la cacciata diAdamo ed Eva dal Paradiso. See.XVI. Maiolica Urbino.
+- 234 -PiATTo piano decorato con stemma Mediceo, giallo su fondo azzurro, nastri svolazzanti e testa di Cherubino, contornato da una bella ghirlanda di fiori e frutte di stile Robbiano. Marcato Cafaggiolo.Secolo XV.Diametro O.235.
+- Vedi Opera del Guasti pag.241.
+- 235 -Vaso da farmaeia con manico a corda decorato con 2 mezzi busti di uomo e donna in colori azzurro e bianco su fondo giallo.Mancante del secondo manico prima della cot-
+- tura.Cafaggiolo.Secolo XV,alto O.23.
+- 236 -PiaTTo fondo decorato a bellissimi colori con disegno di penne di Pavone disposte a raggiera, nel centro un'ornato geometrico azzurro,verde, giallo e bianco. Cafaggiolo, secolo XV.Diametro 0.25.
+- 237 -Vaso a boccale, con arabeschi a ramina, secolo XV, alto 0.16.Maiolica Faenza.
+- 238-VAso a rocchetto con medaglione ritratto d'uomo emblemi guerreschi, secolo XVI, alto M.0.24. Maiolica Ca-
+- steldurante.
+- 239 -DuE PICcoLE CoRNICI ovali in bronzo dorato. Epoca Luigi XIV.
+- 239bis -BoRsA orientale in pelle ricamata in oro.
+- 240-PiccoLo PIATTo concavo a disegni geometrici giallo az-
+- zurro.Maiolica Cafaggiolo.
+- 241-PIccoLo PIATTo FRUTTIERA su piede rappresentante Sam Girolamo, datato 1543.Diam.0.20. Maiolica Cafaggiolo.
+- 242-CALAMAIo rappresentante S. Giorgio a cavallo con un scudo nella sinistra che atterra il dragone, secolo XVI, alto
+- M.O.22.Maiolica Faenza.
+- 243 -VAso a rocchetto decorato a fogliami azzurri, gialli, verdi con nastro e leggenda V. Agrippa, secolo XV, Maiolica Cafaggiolo.
+- 244 -Vaso a rocchetto bianco con ornati azzurri e gialli e nastro con leggenda (Dia. Tiu.Pip. sec. XVI, alto M. O.18.
+- Maiolica Cafaggiolo.
+- 245 -PiccoLo BoccALE con manico con decorazioni manganese e gialle, e il monogramma I. H. S. in una raggiera, sec. XV, alto M.0.16.Maiolica Cafaggiolo.
+- 246 — PIATTo, rappresentante La nascita di Venere. Dal Botti-
+- celli, sec.XVI.Diam.O.43.Maiolica Faenza.
+- 247 —PIATTo a sboff, rappresentante Soggetto mitologico,
+- sec.XVII.Diam.0.40. Maiolica Savona.
+- 248 —PiATTo con due figure. Maiolica Montelupo.
+- 249 —PIATTo con figura.Maiolica Montelupo.
+- 250—PiATTo con due figure.Maiolica Montelupo.
+- 251  BoccALE con stemma di Siena e Medici inquartato, sec.XVI, alto 0.15. Maiolica Siena,e Vaso a rocchetto con fogliami e grande ghirlanda azzurra e gialla e nel
+- centro P. B. sec.XVI, alto 0.24.Maiolica Faenza.
+- 252-MATToNELLA. Ritratto mezzo busto Fiorentino volto a destra in profilo, con tralci azzurri intorno. Epoca 1400.
+- Cafaggiolo,M.0.21X21.
+- 253 -PIATTINo bianco decorato a gessetto, sec. XVI. Diam.
+- 0.19.Maiolica Faenza.
+- 254 -BoccALE primitivo con ornamenti ed una chiocciola a manganese, rotto, see. XV, alto M. 0.21. Maiolica Faenza.
+- 255 -PiATTo con decorazione rappresentante un gruppo di militari a cavallo,con bandiera colle armi Medicee, se-
+- colo XVII,Diam.0.35. Maiolica Savona.
+- 256-GRANDE PIATTo con figura d'uomo nel centro e leggenda (Antonio Bello Fante) con ornati e rabeschi geometrici verde azzurro manganese e giallo nel bordo, sec. XVI,
+- 1520.Diam.0.42.Maiolica Pesaro.
+- 257 -VAso dipinto rappresentante un asino e due buoi che spaventano un pastore ed una greggia di capre in riposo,
+- sec.XVII,marcato P.M.R.alto O.18. Maiolica Abruzzi.
+- 258 -DuE PoLTRoNE antiche di noce a bracciuoli, ricoperte di velluto rosso controtagliato, moderno.
+- 259 DuE sGABELLI antichi di noce scolpiti, spalliera a triangolo, con ornati a corda, fregio superiore con piccola cartella nel centro,e rosaces per finali;piede a fogliami e rosaces.
+- Primi del 1500,alti M.1.00.
+- 260 -STATUETTA di bronzo,Angelo ad ali spiegate che cammina (mancante della mano destra) su base di marmo bianco e verde.Attribuito al Sansovino.Alto M.O.24.
+- 261 -MENsoLINA di noce colorito e dorato, del 1400.
+- 262 —DuE sALIERINE antiche di argento a tripode con cigni,
+- orefici di Valognes.
+- 263-PacE antica di rame dorato con inciso la Crocifssione, scuola di Matteo Dei, cornice di epoca posteriore di rame sbalzato e dorato.Alto 0.19.
+- 264 -PIATTo antico di ottone a sbalzo:entrovi uno scudo con lo stemma dei Valois con la corona di Francia,e in giro la leggenda: Ung Dien  Un Roy + Unge foy + Unge Loy. Epoca sec.XV.Diametro 0.40.
+- 265-PiATro antico diottone lavoratoa sbalzo con Adamo ed Eva,ed iscrizione doppia attorno,Diam.O.42.
+- 266-PiATTo antico di ottone lavorato a sbalzo con Melegrane
+- ed iscrizione gotica attorno,Diam.0.39.
+- 267-PIATTINo di ottone lavorato a sbalzo,con Cervo al centro.
+- con leggenda: Diaprum sol,e E lenit, see.XVII. Maiolica
+- Faenza.
+- 269 -Vaso a rocchetto decorato a fogliami azzurri e gialli con leggenda:Mastici,e stemma azzurro con drago verde escente da una coppa gialla con le iniziali Z. C., sec. XVI, alto M.0.17.Maiolica Faenza.
+- 270 —GRANDE PIATTo rappresentante La partenza per la caccia, con bordo ornato a fogliami e stemma vescovile in alto, secolo XVII in prineipio,Diam.0.41.Maiolica Abruzzi
+- 271- TAzzA con coperchio celestino decorata a raffaellesche bianche a gessetto, con manichi verdi (restaurato il coperchio), secolo XVI,alta M.0.10. Maiolica Faenza.
+- 272 -PiATTo con decorazione policroma,rappresentente il Riposo in Egitto,con stemma vescovile in basso, secolo XVI, Diam.0.25.Maiolica Savona.
+- 273-PiaTTo con decorazione a tralci verdi formanti ghirlanda nel bordo e ritratto in profilo di donna in azzurro, sec.XVI principio,Diam.0.23.Maiolica Faenza:
+- 274 - PIATTo porta uova e saliera, decorato a fogliami ed animali, giallo, verde e azzurro, con stemma sormontato da un elmo, secolo XVII, diam. 0.25. Maiolica Faenza.
+- 275 -Vasso1o a bordo smerlato, con decorazione genere Berain, bianca e gialla su fondo cenerino, secolo XVIlI,Diametro 0.31.Maiolica Faenza.
+- 276 -VAso a beceuccio con manico, con stemma a sega azzurro e giallo e decorazione azzurra, sec.XV,alto M.0.175, Maiolica Cafaggiolo.
+- 277 -Vaso a rocchetto decorato a fogliami azzurro e manganese,secolo XVI, alto M. O,225. Maiolica Cafaggiolo.
+- 278 -Vaso a beccuccio e manico bianco decorato a fogliami, fiori, grappoli d'uva ed uccelli con leggenda: Sy D. Gra nati, con stemma,un animale acquatico e nel collo G.G., secolo XVI,alto M.0.235. Maiolica Faenza. Il piatto di
+- questo Vaso si trova nel Museo del Bargello.
+- 279 -VAso a manico e beccuccio decorato azzurro a mascheroni,fogliami, datato nel beccuccio 1510, alto M.0.25. Maiolica Faenza.
+- 280-Vaso a rocchetto decorato a ornati a fascia azzurri e gialli su fondo bianco,secolo XV,alto M.O.23. Maiolica
+- Cafaggiolo.
+- 281 -Vaso cilindrico con manico decorato bianco, verde e
+- rosso,antico Persiano.
+- 282 -Vaso con manico, disegno a palme, bianco e bleu su fondo verde antico Persiano.
+- 283-VAso a sboff e manichi,bianco e bleu a piccole figure, alto M.0.38.Maiolica Savona.
+- 284-GRAN PIATTo a sboff decorato a piccolo disegno,animali e grottesche bianco e blen,Diametro 0.46. Maiolica Savona.
+- 285-VAso a mascheroni e collo traforato decorato a rose mar-
+- cato F., secolo XVlI, alto M.0.21. Maiolica Faenza.
+- 286-MATToNELLA ovale in cornice nera eoro:L'Immacolata
+- Concezione,secolo XVII, Diam.0.28.Maiolica Pesaro.
+- 287 -FiascA quadrangolare bianca con stella vescovile, se-
+- colo XVII,alta M.O.25.Maiolica Faenza.
+- 288-GRANDE VAso con coperchio e manichi a teste di leoni
+- e mascheroni,con decorazione policroma di figure ed animali,alto M.0.55.Maiolica Savona.
+- 289-STATUA DI MARMo Pietro Leopoldo I Granduca di Toscama, in piedi col costume regale, con manto, corazza, e calzari. Base con rapporti di marmo giallo,e stemma di Austria-Lorena-Toscana,con iscrizione dorata:Petrus Leopoldus A.A.H.E.B.R.P.M.E.D.Epoca 177O, alto M.O.71.Finissimo lavoro Francese.
+- 290 -SGABELLoNE porta busti di noce intagliato e lumeggiato
+- in oro,moderno,alto M.1.12.
+- 291-DipINTo a olio su tela:Una Giovinetta con uma rosa in mano costume del Direttorio, Scuola Francese, cornice
+- dorata.
+- 292—DipINTo c.s.Ritratto di Gentildonna Fiorentina in abito celeste,con un cagnolino in braccio, epoca Luigi XV cornice dorata.
+- 293 -CoFANETTo Veneziano di legno dipinto a fiori con soggetto pastorale sul coperchio a fondo verde.Epoca Luigi XV.
+- 294— ANTico VAso da birra di legno intarsiato di zinco con
+- Cervi,con Stemma,marcato sul coperehio 1735.
+- 295- CopPA antica di legno scannellato su tre piedi,fine 400.
+- 296 —VAso da birra di cristallo inciso,piede e coperchio di stagno.
+- 297 -DiPINTo su tela.Paesaggio con figure.Petit Duval cornice dorataM.0.40X0.31.
+- 298 --GRANDE VAso decorato a fogliami e rabeschi, giallo azurro e verde con medaglione nel centro rappresentante. S.Francesco con leggenda Mel.Rosatum Zucca.Faenza 1550. Alto.0.34.
+- 299 -Vaso a rocchetto con un manico decorato a fogliami con leggenda Diacattolico e Stemma Cancellieri,marcato sotto. Cafaggiolo 1500. Alto 0. 19.
+- 300 -BoccALE a ramina e manganese, mancante del manico e del beccuccio.Faenza 1400.
+- 301 -GRANDE VAso con manico e beccuccio decorato azzurro
+- su fondo bianco a paesaggio con lo Stemma del Cardinale Orsini nel centro, marcato 1724.
+- 302 AMPoLLIERA antica di stagno stile rocaille con bottiglie di
+- cristallo inciso,marcato Giorgio Neff 1711.
+- 303 —DuE SeDIE antiche basse di noce intagliato decorate nero ed oro con stemma della Famiglia Ricci. Sedili di damasco
+- rosso.
+- 304 -Vaso da farmacia a rocchetto decorato con foglie verde chiaro a rovesci bleu,e piccoli nastri e ornati bleu su fondo
+- bianco.Cafaggiolo.Epoca sec.XV,alto O.21.
+- 305 —DuE VAsETTI da farmacia con coperehio,decorati a rose
+- e fasce rosse attenuate, sec.XVIlI. Alt.O.15.
+- 306 -GIARDINIERA a manichi e smerli,di forma ovale deco-
+- rata a rose e bordi rossi attenuati. Rocaille. Sec.XVlII. Pesaro diam.0.30.
+- 307 - SATIRo di legno scolpito,modello delle cariatidi del terrazzino al Palazzo Brunaccini in Firenze.
+- 308 -LoTTo di:Salsiera di Pesaro,e piatto maiolica antica.
+- 309 -VIE ET AMouRs du chevalier de Faublas par M.Louvet de Couvray.Londra-Parigi 1790 13 volumi in 16in tonso
+- cat.test.dorata.Vignette di Lorieux.
+- 310 -ORACULUM ANACHoRETUM e Sylvae Sacrae due seguiti d'incisioni di Giovanni, Raffaello,Sadeler legati in due volumi in cartone.
+- 311 —LEs BIJoUx INDIscRETs au Monomotapa 2vol.in 16°antica legatura in marrocchino verde con dorature e dorso col1'impresa del Delfino di Francia.
+- 312—LE FIGURE DEL VECCHIO E NUOVO TESTAMENTO 10O incisioni di Giovanni,Giuseppe Rlauber,in 8°,oblungo,legato in vitellino Inglese, dorso dorato a piccoli ferri.

@@ -1,0 +1,1821 @@
+- 3 Oberbayerischer Bauer.
+
+Brustbild eines Mannes von etwa funfzig Jahren mit markantem, glatt- rasiertem Gesicht und dunklem Haar. Er tragt grune Weste und braune Joppe.
+
+Bezeichnet:Hans Best.
+
+Ol auf Karton.H. 61, B. 50.
+
+## ADOLF HENGELER
+
+geb. 1863 in Kempten.
+
+Vor einem gefullten Getreidesack, neben dem ein Steinkrug, steht ein nackter Putto, im Begriff, eine vorgebundene Schurze zu fullen. Ein
+
+- 4Putten-Szene.
+
+anderer Putto, mehr hinten, nimmt Blumen aus einem Korbchen.
+
+Bezeichnet: A.Hengeler 88.
+
+Ol auf Leinwand. H. 57, B. 57.
+
+## CARL SPITZWEG
+
+geb.1808 in Munchen, gest.1885 daselbst
+
+- 1 Grofe italienische Landschaft.
+
+Die Bildmitte einer abwechslungsreichen, sonnigen Gebirgslandschaft beherrscht eine befestigte kleine Stadt, deren Hauser mit grunen Baumen durchsetzt sind. Nach vorn fallt das Gelande ab zum felsigen Tal eines Baches, der aus dem tiefen Schattendunkel einer von Baumen uberragten Schlucht rechts hervorrauscht. Links vorn Heiligenhauschen auf einer kleinen Mauerbrucke. Hinten rechts uberspannt eine Bogenbrucke die Schlucht. Ein von blauvioletten Schatten iberzogenes Bergmassiv schlieBt hinten die rechte Bildseite ab,wahrend sich links eine Fernsicht auf blaues Bergland offnet. Kleine Figuren in lebhaften Farben bewegen sich im Mittelgrunde auf die Stadt zu.
+
+Ein Bild von sudlandischer Farbenpracht, reizvoll in seiner wechselreichen Beleuchtung.
+
+Bezeichnet mit S im' Rhombus.
+
+Ol auf Leinwand.H. 55,B.73.
+
+- 2 Faust und Wagner.
+
+Abbildung Tafel 1.
+
+Helldunkler Raum, der sein gedampftes Licht aus einem Mauerfenster links erhalt;an der Ruckwand ein Gestell mit Buchern. Vor dem Fenster ein Tisch mit Buchern. Zur Seite des Tisches sitzt links Faust in rotem Rock und rotem Barett, den rechts stehenden Wagner in gelbem Haus- rock anredend.
+
+Bezeichnet mit dem NachlaBstempel: S im Rhombus und Namenszug
+
+"Spitzweg" auf Vorder- und Ruckseite.
+
+Ol auf Karton.H. 21, B. 16.
+
+## HANS BEST,MUNCHEN
+
+geb.1874 in Mannheim
+## ALEXANDRE CALAME
+
+geb.1810 in Vevey,gest.1864 in Mentone
+
+## 5 Groβe Alpenlandschaft.
+
+Das Tal von Chamonix mit dem Montblanc im Hintergrunde. Eine Gruppe machtiger alter Fichten hebt sich vorn in der Bildmitte plastisch ab von den weiben von der Sonne hell bestrahlten Hangen des Bergriesen. Tiefe, weiche, aufgelockerte Schatten umhullen das Tal. Auf einem Felsplateau links ein schalmeiblasender Hirt und zwei Sennerinnen.
+
+Bezeichnet:A. Calame ft. Geneve.
+
+Ol auf Leinwand.H.201,B.169.
+
+Er w a h n t bei Friedr. von Boetticher, Malerwerke des 19. Jahrh., Bd. I, S. 153, Nr. 38.
+
+## ANDREAS ACHENBACH
+
+geb. 1815 in Kassel, gest. 1910 in Dusseldorf
+
+## 6 Heimkehrende Fischerflotte.
+
+Auf starkbewegter See bewegen sich vorn vier Fischerbarken mit geschwellten Segeln.Rechts am Lande ein Dorf mit Kirche in interessanter wechselnder Sonnenbeleuchtung.
+
+Bezeichnet:A.Achenbach 90.
+
+Ol auf Leinwand. H. 105, B. 135.
+
+## 7 Hollandische Kanallandschaft.
+
+Rechts dehnt sich die breite Wasserflache eines Kanals,an dessen linkem
+
+Ufer mehrere Frachtkahne mit weiben Segeln beigelegt haben. Etwas weiter hinten ein rotgedecktes Gehoft unter hohen Baumen.Rechts hinten die Silhouette einer Stadt. Von hinten her steigen schwere Gewitterwolken am Horizont hoch.
+
+Bezeichnet:A.Achenbach 84.
+
+Ol auf Holz.H. 33,B. 42.
+
+## FRIEDRICH SIMMLER
+
+geb. 1801 in Hanau, gest. 1872 in Aschaffenburg
+
+## 8 Landschaft mit Schafen.
+
+Vorn am FuBe eines hugeligen Hanges vier Schafe in verschiedenen Stellungen. Ein Knabe in blauem Kittel steht daneben. Im Hintergrunde ragt eine Windmuhle.
+
+Ol auf Holz.H. 23,B. 30.
+
+Abbildung Tafel 2.
+- 9 Das Backhendl.
+
+Ein lustiges Fruhstuck im Klosterkeller. Drei Bruder in weiBen Kutten, schwarzen Uberwurfen und Arbeitsschurzen gruppieren sich im hellbeleuchteten Vordergrunde um ein hochgestelltes Fab, auf dem der alteste von ihnen einen auf einer Zinnschussel liegenden gebratenen Hahn mit vergnugtem Schmunzeln anfaBt,um ihn kunstgerecht zu tranchieren.Ihm gegenuber sitzt ein junger Konfrater, der trotz seiner vor Zahnweh verbundenen Backe den Augenblick des Essensbeginns kaum erwarten kann. Der Kellermeister mit ledernem Schurzfell steht lachelnd vor einem groBen, mit Schnitzereien bedeckten FaB und schaut den Bemuhungen des ersten zu. Links am Boden eine rotkupferne Butte, ein FaBchen, ein Kubel. Hinten ein zweites FaB neben der offenstehenden Kellertur, durch die helles Sonnenlicht hereinflutet.
+
+Ein ganz hervorragendes Werk des Meisters, von allererster Qualitat.
+
+Bezeichnet: E. Grutzner 93.
+
+Ol auf Leinwand. H. 71, B. 79.
+
+## HANS VON BARTELS
+
+geb.1856 in Hamburg, gest.1913 in Munchen
+
+- 10 Hollanderin.
+
+Brustbild einer jungen Frau mit weiBer Haube und rotem Brusttuch. Sie sitzt nach rechts gewendet,mit der Linken den Kopf stutzend und schaut mit klagendem Gesichtsausdruck ins Weite. Hintergrund bewegte See.
+
+Bezeichnet:Hans Bartels 1905.
+
+Gouache. H. 30, B. 18.
+
+## EUGEN VON BLAAS,WIEN
+
+- 11 Italienerin.
+
+geb. 1843 in Albano
+
+Halbfigur einer jungen Frau in italienischer Volkstracht: Blaues Kleid, grunes Mieder, weiBes Schultertuch, rotes Kopftuch, Korallenhalskette. Sie blickt, den Kopf auf die Linke gestutzt, aus groben, braunen Augen traumerisch vor sich hin.
+
+Bezeichnet: E. Blaas.
+
+- 12 Mignon.
+
+Ol auf Leinwand. H. 65, B. 52.
+
+## GEORG BUCHNER
+
+geb. 1815 in Nurnberg, gest. 1857 in Stuttgart
+
+Madchenkopf mit braunem Zopf, in scharfem Profil nach links sich von dunklem Grunde abhebend. Schwarzes, rot bebandertes Mieder, weibe
+
+Armel.
+
+Bezeichnet: G.Buchner.
+
+Ol auf Holz.H.20, B. 15.
+
+Abbildung Tafel 3.
+
+## EDUARD VON GRUTZNER
+
+geb.1846 in GroBkarlowitz, gest.in Munchen
+## ANTONBRAITH
+
+geb. 1836 in Biberach, gest. 1905 in Munchen
+
+## 13 Schafherde im Gewittersturm.
+
+Vor schwarzer Wolkenwand fegt ein Sturmwind uber die Heide. Eine verangstigte Schafherde drangt sich fluchtend auf einem Wege vorn in der Mitte um ihren Hirten, einen weiBbartigen Alten mit in die Stirn gedrucktem Hut. Er tragt auf den Armen ein neugeborenes schwarzes Lamm, zu dem das Mutterschaf angstlich blokend den Kopf emporreckt. Der Hund des Schafers umkreist von hinten her die Herde und halt die Tiere zusammen, die mit allen Zeichen der Angst und des Schreckens dem Wetter zu entfliehen trachten.
+
+Ein meisterhaftes Stuck der Tierdarstellung, im Ganzen,wie in den einzelnen Exemplaren trefflichst charakterisiert und durchgefuhrt.
+
+Bezeichnet: A. Braith, Munchen 1872.
+
+Ol auf Leinwand. H. 65, B. 115.
+
+## HERMANN BAISCH
+
+geb. 1846 in Dresden, gest. 1894 in Karlsruhe
+
+Durch hochbrandende, weibschaumende Wogen kampft sich ein Fischer, der ein braunes Pferd reitet, gegen eine Barke mit grobem Segel heran, die dicht vor ihm liegt. Mit Muhe zwingt der Reiter das Pferd, gegen die Wellenberge anzugehen.
+
+## 14 Reiter in der Brandung.
+
+Bezeichnet: H. Baisch.
+
+Ol auf Leinwand. H. 120, B. 88.
+
+## GILBERT VON CANAL
+
+## 15 Hollandische Landschaft.
+
+geb. 1849 in Laibach
+
+In der Bildmitte der klare Spiegel eines Kanals. Am linken Ufer Dorf zwischen Baumen mit vorderer grober Windmuhle. Fern am rechten Ufer ein anderes Dorf, vor dem eine grobe Segelbarke liegt.
+
+Bezeichnet: Canal.
+
+Ol auf Leinwand. H. 66, B.86.
+
+## LOUISVONHAGN
+
+geb. 1820 in Munchen, gest. 1898 daselbst
+
+## 16 Vlamisches Kuichen-Interieur.
+
+Im Goldton gemalter Raum mit groBem Rauchfang rechts,gemauertem Herd, Tisch, Stuhl und allerlei Geratschaften am Boden und an den Wanden.
+
+Ol auf Leinwand. H. 38, B. 45.
+
+Auf der Rickseite Echtheitsbescheinigung, ausgestellt von der Gattin des Kinstlers.— Ferner NachlaBzettel aus dem NachlaB Max Gaissers.
+
+Abbildung Tafel 4.
+## FRANZ VON LENBACH
+
+geb.1836 in Schrobenhausen, gest.1904 in Munchen
+
+## 17 Bildnis Furst Bismarck.
+
+Lebensgrobe Huftigur in rotem Fauteuil sitzend, Kopf und Figur ganz nach vorn gewendet,in einem Schriftstuck lesend,das er mit der Rechten hoch halt. Die Linke liegt an der Hufte an.Er tragt einen Interims-Rock, der aufgeknopft ist und die weiBe Weste sehen laBt. Im Halsausschnitt der Orden Pour le merite, an der linken Brust das Eiserne Kreuz.
+
+Bezeichnet:F. Lenbach 1889.
+
+Ol auf Leinwand. H. 120, B. 94.
+
+Abbildung Tafel 5.
+
+## FRIEDRICH BISCHOFF
+
+geb. 1819 in Ansbach, gest. 1873 in Munchen
+
+- 18 Hugenotten vor dem geistlichen Gericht.
+
+Rechts um einen erhohten rotgedeckten Richtertisch gruppiert: ein Kardinal, ein Inquisitor, zwei andere Geistliche und ein Burger. Links auf einem Schemel sitzt der Angeklagte,ein alter Monch in weiBer Kutte,mit gesenktem Blick. Eine Gruppe von Mannern,Frauen und Kindern, erscheinen links als Bittsteller,als vorderste ein knieendes Madchen mit flehend erhobenem Blick.
+
+Bezeichnet:Fr. Bischof 1850 Munchen.
+
+Ol auf Leinwand.H.102,B.125.
+
+Er wa h n t bei Friedr.v.Boetticher,Malerwerke des 19. Jahrh.,Bd.I, S. 95,Nr.4.
+
+## ERWIN EICHINGER, WIEN
+
+## 19 In der Bibliothek.
+
+In einer Louis-XV.-Bibliothek mit reicher vergoldeter Tafelung sitzt ein alter Kavalier in blauem Seiden-Anzug auf rotgepolstertem Fauteuil, in
+
+Bezeichnet: E. Eichinger.
+
+Ol auf Holz. H. 32, B. 26.
+
+die Betrachtung von Kupferstichen versunken.
+
+## 20 Kardinal.
+
+In altertumlich ausgestattetem Bibliotheksraum sitzt ein Kardinal in ge- schnitztem gotischen Armstuhl, ein Schriftstuck lesend,in der rechten Hand einen Federkiel haltend, vor blaugedecktem gotischen Tische, auf dem sich Bucher und Schriftstucke haufen.
+
+Bezeichnet: E. Eichinger,Wien.
+
+Ol auf Holz. H.39, B. 31.
+## 23 Zigeuner-Belustigung.
+
+## HUGOKAUFFMANN
+
+geb. 1844 in Hamburg, gest. 1915 in Prien am Chiemsee
+
+## 21 Aufbruch zur Treibjagd.
+
+Eine zahlreiche Jagdgesellschaft ist um ein im tiefverschneiten Walde liegendes Forsterhaus versammelt. Rechts Gruppen von Jagdgasten, von denen einzelne schon den Weg in den Wald einschlagen,wahrend andere noch in BegruBung und Unterhaltung beieinander stehen.Links eine Anzahl von Treiberknaben, die eben von einem Jager ihre letzten Instruktionen erhalten. Zwei Forster steigen die Treppe des Hauses hin- unter.
+
+Bezeichnet:Hugo Kauffmann.
+
+Ol auf Leinwand. H. 96, B. 139.
+
+Abbildung Tafel 6.
+
+Er wa hn t bei Miller-Singer,Allg.Kinstlerlexikon, Bd. II, S. 313.Ferner bei Friedr.
+
+von Boetticher,Malerwerke des 19.Jahrh.,Bd.I,S.652,Nr.3.
+
+## WILHELMVELTENMUNCHEN
+
+## 22 Pferdemarkt.
+
+geb. 1847 in St. Petersburg
+
+Auf tief verschneitem Platze vor einer Stadtmauer ein zahlreiches Ge- drange von Pferden und Handlern.
+
+Bezeichnet: W. Velten.
+
+Ol auf Holz. H. 13, B. 21.
+
+## FRANZ STREITT
+
+geb. 1839 in Brody
+
+Eine zahlreiche farbig gekleidete Zigeunerfamilie gruppiert sich vor niedriger strohgedeckter Hutte und sieht dem Tanze eines kleinen Madchens zu, dem ein Knabe auf der Geige aufspielt. Rechts Blick uber sandige Heide.
+
+Bezeichnet: F. Streitt.
+
+Ol auf Holz. H. 27, B. 42.
+
+## KONSTANTIN MAKOWSKI
+
+geb. 1839 in Moskau, gest. 1915 in Petersburg
+
+## 24 Ganse auf der Weide.
+
+Auf einer sommergrunen Wiese eine Schar Ganse und funf farbig gekleidete Kinder.
+
+Bezeichnet:Makowski.
+
+Ol auf Holz. H. 10, B. 17.
+## HANS FREDERIK GUDE
+
+geb. 1825 in Christiania, gest. 1903 in Berlin
+
+- 25 Norwegische Kiste.
+
+Silberne klare Luft leuchtet uber den leicht gekrauselten Wellen einer Bucht, die rechts und im Hintergrunde von grauen Felsenketten ein geengt wird. Vorn rechts auf schmalem, mit Felsblocken durchsetztem Strandstreifen zwei Fischer, die ein umgelegtes Segelboot ausbessern. Neben ihnen ein Kessel uber hellbrennendem Feuer. Eine Frau, die etwas weiter hinten auf einem Steg steht, spricht mit den beidenArbeitern. Links fahrt eine Segelbarke mit zwei Insassen, hinten ein groBer Zweimaster und ein Segelboot.
+
+Hervorragende Stimmungslandschaft, groB in der Auffassung und von reizvoller Tonigkeit.
+
+Bezeichnet: H.F. Gude 1872.
+
+Ol auf Leinwand. H. 83, B. 148.
+
+Abbildung Tafel 7
+
+Er w a h n t bei Friedr. von Boetticher,Malerwerke des 19. Jahrh., Bd. I, S.428, Nr. 87.
+
+## HEINRICHHERMANNS,DUSSELDORF
+
+- 26 Blumenmarkt in Amsterdam. geb. 1862 daselbst
+
+Unter schlanken Baumen neben einer links sich hinziehenden breiten Gracht eine reiche Ausstellung farbenprachtiger Blumen.Allerlei Passanten beleben die StraBe vor den hohen Hausern rechts.
+
+Bezeichnet:Heinrich Hermanns.
+
+Ol auf Leinwand.H. 80, B. 120.
+
+## JOHAN MARI TEN KATE
+
+## 27 Familien-Idyll.
+
+geb. 1831 im Haag
+
+Vor einem alten grunumwachsenen Bauernhaus rechts sitzt eine junge
+
+Bauerin, ein Kind auf dem Schobe, und futtert ein Huhn aus einem Napfe. Ein kleiner Knabe macht sich an einer Kukenkiste zu schaffen.Ein zweiter Knabe steht links neben einem ummauerten Ziehbrunnen. Nach links hinten Blick in baumreiche Landschaft.
+
+Bezeichnet:Mari ten Kate.
+
+Ol auf Holz. H. 40, B. 55.
+
+## HUGO MUHLIG,DUSSELDORF
+
+geb. 1854 in Dresden
+
+- 28 Gespann und Herde in herbstlicher Landschaft.
+
+Im Vordergrunde einer weiten Ebene halt ein mit zwei Kuhen bespannter Bauernwagen, dessen Fuhrmann mit zwei rechts daneben stehenden Madchen spricht. Hinter dieser Gruppe zieht auf breitem Wege eine Schafherde mit dem Schafer an der Spitze nach vorn. Fern im Hintergrunde eine Stadt.
+
+Bezeichnet: Hugo Muhlig Df.
+
+Ol auf Leinwand. H. 26, B. 42.
+- 32 Blumenstraup,
+
+der mittels einer blauen Seidenschleife an den eisernen Griff einer Haus- tur gebunden ist.
+
+Bezeichnet: P. f.
+
+Ol auf Holz.H. 33, B. 23.
+
+Auf der Rickseite Echtheitsbestatigung von Th.von Frimmel.
+
+## OSWALD ACHENBACH
+
+geb. 1827 in Dusseldorf, gest. 1905 daselbst
+
+- 29 Markttreiben in einer italienischen Stadt.
+
+GroBer Platz zwischen schonen Renaissancehausern, links eine breitgelagerte Kirche,hinten ein altes malerisches Stadttor. Heiteres Sonnenlicht uberstrahlt das bunte bewegte Treiben, das diesen Platz erfullt. Marktbauern haben ihre Fruchte und Gemuse auf dem Pflaster ausgelegt, andere kommen mit hochbeladenen Eseln und Maultieren herzu,Equipagen und Bauernwagen winden sich hindurch, dazwischen Damen in farbigen Toiletten mit Sonnenschirmen, fliegende Handler, Spazierganger usw.
+
+Bezeichnet: Osw. Achenbach.
+
+Ol auf Leinwand. H. 112, B. 150.
+
+## ALBERT ARNZ
+
+geb. 1832 in Dusseldorf, gest.1914 in Dusseldorf
+
+- 30 Die Piazza Barberini in Mondbeleuchtung.
+
+Der Platz mit grobem monumentalen Brunnen rechts vorn. Eine Hirtenfamilie mit ihren Herdentieren lagert neben dem Brunnen. Allerlei Passanten beleben den groBen Platz.Im Hintergrund treten Personen aus einem erleuchteten Renaissanceportal. Die ganze Szenerie wird von silbernem Mondlicht uberstrahlt.
+
+Bezeichnet: Alb.Arnz.
+
+Ol auf Leinwand. H. 90, B. 134.
+
+Er wa hn t bei Friedr.von Boetticher,Malerwerke des 19. Jahrh.,Bd. I, S. 40,Nr.9.
+
+## HERMANN CORRODI
+
+geb.1844 in Frascati, gest. 1905 in Rom
+
+- 31 Im Hafen von Kairo.
+
+Buntgekleidete Volkstypen bewegen sich links am Strande bei einer Gruppe von Fischerfahrzeugen. Hinten dehnt sich die Stadt am hugeligen Hang empor. Rechts der stille Wasserspiegel mit der Silhouette zweier Pyramiden fern im Hintergrunde.
+
+Bezeichnet: H. Corrodi.
+
+Ol auf Leinwand. H. 50, B. 100.
+
+## AUGUSTVON PETTENKOFEN
+
+geb.1821 in Wien, gest.1889 daselbst
+
+Abbildung Tafel 8.
+## WILHELMSCHREUER.DUSSELDORF
+
+geb.1866 in Wesel
+
+## 33 Gesellschafts-Ball.
+
+Ein groBes vielfiguriges Bild im Goldton. Man blickt von hinten her in einen Tanzsaal, der im hellsten Kerzenlichte erstrahlt. Im Hintergrund die erhohte Buhne mit einem Streichorchester in Zopfkostumen.Eine Tanzpause ist eingetreten. Der Ordner, ein Mann in rotem Rock und Dreispitz,hebt seinen Stab und gibt den zahlreichen im Halbkreise um ihn versammelten Damen und Herren einige Anordnungen.
+
+Die vielfigurige Gesellschaft ist sowohl als Ganzes wie in ihren einzelnen Gruppen trefflich gegliedert und charakterisiert. Die Kostume gehoren dem beginnenden 19. Jahrhundert an.
+
+Bezeichnet:W. S.
+
+Ol auf Karton.H. 114, B.144.
+
+Abbildung Tafel 9.
+
+## 34 Straβe am Strand.
+
+Zwischen altertumlichen Hausern links und einer Kaimauer rechts fuhrt eine StraBe. Vorn eine Bauernmagd mit einer Kuh, daneben zwei Kinder.
+
+Hinten ein Pferdegespann, an der Mauer rechts zwei Frauen. Nach rechts hinten Blick uber die See.
+
+Bezeichnet: W. S.
+
+H. 40, B. 65.
+
+## 35 Reitende Husarenkapelle.
+
+Durch eine menschengefullte GroBstadtstraBe zieht eine musizierende Husarenkapelle,voran der dicke Stabstrompeter.
+
+Bezeichnet:W. S.15.2.97.
+
+H. 60, B. 56.
+
+## 36 Blick auf Alt-Dusseldorf.
+
+Von einer vorderen Wiese aus, auf der drei fahrende Leute mit ihren Pferden Rast halten, blickt man uber den Rhein hinweg auf die Turme und Hauser der alten Stadt.
+
+Bezeichnet: W. S.
+
+H. 36, B. 52.
+- 40 Die Spieler.
+
+## CARL SPITZWEG
+
+geb.1808 in Munchen, gest.1885 daselbst
+
+- 37 Badende Nymphen.
+
+Sonnedurchleuchtete Felsenschlucht mit senkrecht hoch ansteigenden Felsenwanden,die mit Strauchwerk und Baumen bewachsen sind. Auf der Sohle der Schlucht ein stilles Wasser,in dem sich der blaue Sommerhimmel spiegelt. Rechts vorn auf einer Felsenplatte drei dem Bade entstiegene Nymphen mit blauen und roten Uberwurfen.Wahrend die vordere Partie der Schlucht in goldenem Sonnenlichte liegt,blickt man nach hinten durch einen Gewolbebogen in aufgelockertes Schattendunkel hinein.
+
+Bezeichnet mit S im Rhombus.
+
+Ol auf Holz.H.38, B.22.
+
+## FRIEDRICH VOLTZ
+
+geb. 1817 in Nordlingen, gest. 1886 in Munchen
+
+An einem gewitterschwilen Sommertag strebt eine kleine Herde von Kuhen, Bullen und Jungvieh von einem Gehoft rechts her auf das Wasser eines Sees zu, dessen Spiegel sich links breitet. Prachtig stehen die Tiere: Vier Stuck GroBvieh und zwei Kalber mit der verschiedenen Tonung ihrer Felle in der warmen Mittagssonne, die das Laubwerk eines Gebuschs durchleuchtet, von dem das Gehoft umgeben ist. Schwere Wetterwolken steigen links hinten am Horizont hoch. Auf einem Uferstege vorn steht, vom Beschauer abgewendet, ein Hirt in roter Weste.
+
+- 38 Kuhe am See-Ufer.
+
+Bezeichnet:Friedrich Voltz 73.
+
+Ol auf Holz. H. 38, B. 65.
+
+- 39 Kuhe am See.
+
+Am flachen Ufer eines links sich dehnenden Sees vorn im Schatten einer Baumgruppe zwei lagernde braune Kuhe und eine stehende schwarze. In eines Gehofts.
+
+Bezeichnet: Fr. Voltz.
+
+Ol auf Holz.H. 15, B. 23.
+
+## VICTOR CHAVET
+
+geb. 1822 in Pourlieux
+
+Eine Dame in rotem Seidenkleide und ein alter Herr mit gepuderter Zopffrisur sitzen in elegantem Interieur kartenspielend an einem Tische gegenuber. Ein von rechts herzugetretener Besucher schaut der Dame in die Karten. Kabinettbild von hervorragend feiner Durchfuhrung.
+
+Bezeichnet:Victor Chavet 1855.
+
+Ol auf Holz.H. 25, B.20.
+
+Abbildung Tafel 10.
+
+Abbildung Tafel 10.
+## JOSEF VON BRANDT
+
+geb.1841 in Szczebrzeszin, gest. 1915 in Radow (Polen)
+
+## 41 Rast am Brunnen
+
+Vor einer Gruppe von strohbedeckten Bauernhutten stehen drei prachtig angeschirrte Pferde bei einem Rohrenbrunnen und stillen ihren Durst. Drei Windhunde sitzen daneben. Rechts auf einer Kiste lehnt ein junger Pole in malerischer Kleidung und spricht dringlich auf ein verschamt neben ihm stehendes Madchen in weiBem Kleide und schwarzem Uberwurf ein.Auf dem Sattel eines der Pferde sitzt ein Jagdfalke.
+
+Bezeichnet: Josef Brandt, Warszawa 1875.
+
+Ol auf Leinwand. H. 51, B. 99.
+
+Abbildung Tafel 11.
+
+Er w a h n t bei Friedr. von Boetticher, Malerwerke des 19. Jahrh., Bd. I, S. 129, Nr. 14.
+
+## OTTO GEBLER
+
+geb. 1838 in Dresden, gest. 1917 in Munchen
+
+## 42 Schafe im Kohlfeld.
+
+Funf Schafe sind in ein Kohlbeet eingedrungen, das rechts am Rande eines schattigen Geholzes liegt, und fressen gierig die saftigen Blatter. Ein kleiner Hirtenjunge links auf einem Wege bemuht sich vergebens, seine Pflegebefohlenen zur Ordnung zu rufen.Die Schafe kummern sich anscheinend nicht um seine Befehle und fressen ruhig weiter. Nur ein kleines Lamm,das fur die herrlichen Leckerbissen wohl noch nicht das richtige Verstandnis hat,kommt auf ihn zu.
+
+Bezeichnet: O. Gebler, Munchen.
+
+Ol auf Leinwand. H. 73, B. 107.
+
+Abbildung Tafel 11.
+
+## EDUARD VON GEBHARDT
+
+geb.1838 in Esthland, gest. 1925 in Dusseldorf
+
+## 43 Kopf eines Propheten.
+
+Hageres Asketengesicht von dunklen Locken umrahmt. Roter Rock,mit schmalem Pelzwerk besetzt.Dunkler, aufgelockerter Grund.
+
+Bezeichnet:E. v. Gebhardt.
+
+Ol auf Karton.H. 36,B. 27.
+
+## BERNHARD FERDINAND HOPPE,DEN HAAG
+
+geb. 1841 in Cleve
+
+## 44 Landschaft mit pfliugenden Bauern.
+
+Im Vordergrund einer weiten Feldebene steht ein Bauer uber seinen Pflug gebuckt, vor den ein braunes Pferd gespannt ist. Ein anderer Bauer rechts hinten.
+
+Bezeichnet: Bernh. Hoppe.
+
+Aquarell. H. 40, B. 55.
+## WILHELMAMANDUSBEER
+
+geb. 1837 in Frankfurt a. M., gest. 1907 daselbst
+
+## 45 Russische Jahrmarktszene aus dem Gouvernement Smolensk.
+
+Zwischen Zelten und Buden buntgekleidete russische Frauen, Kinder, Bauern, Handler. In der Mitte eine Gruppe von zwei Frauen und einem Kind, die das eingekaufte Spielzeug bewundern.
+
+Bezeichnet: W. A. Beer,Frankfurt a.M. 1874.
+
+Ol auf Karton. H. 21, B. 26.
+
+Abbildung Tafel 12.
+
+Er w a h n t bei Muller-Singer, Allg. Kunstlerlexikon, Bd. I, S. 91.
+
+## WILHELMVONDIEZ
+
+geb.1839 in Bayreuth, gest.1907 in Munchen
+
+## 46 Vor der Schmiede.
+
+Ein bartiger Schmiedemeister untersucht den Huf eines Apfelschimmels und scheint dem Reiter,einem links stehenden jungen Offizier im Kostum des 17. Jahrhunderts, Vorwurfe uber die Behandlung des Pferdes zu machen. Der Offizier hort nachdenklich zu; er tragt rotes Koller,roten Mantel, schwarze Hosen,Stulpenstiefel und stemmt die Rechte,die den groben, mit weiBer Feder geschmuckten Hut halt, in die Hufte. Rechts an der Wand der Schmiede ein Karren.
+
+Bezeichnet:Wilh.v. Diez 1898.
+
+Ol auf Holz. H. 16, B. 22.
+
+Abbildung Tafel 12.
+
+## KARL LUDWIG FRIEDRICH BECKER
+
+geb. 1820 in Berlin, gest. 1900 daselbst
+
+## 47 Sitzung im Palazzo Pitti.
+
+Ein prachtiger Saal mit schonen Skulpturen und Malereien. Links vor groBem Fenster, durch das helles Sonnenlicht flutet, ein Tisch mit gruner Decke. Ein alter,im Sessel sitzender Patrizier hort, in Nachdenken versunken,den Inhalt eines Schriftstucks an, das ein stehender Ratsherr in bordeauxrotem Seidenkleid vorliest. Ein scharlachrot gekleideter Schreiber sitzt protokollierend an der anderen Tischseite.
+
+Bezeichnet: C.Becker.
+
+Ol auf Holz. H.46,B.54.
+
+## 48 Hollandische Stadt.
+
+Rechts eine Strabe von Passanten belebt. Links eine uberbruckte Gracht. Hauser und entlaubte Baume hinten.
+
+Bezeichnet: F. Nachtweh.
+
+Aquarell. H. 45, B. 55.
+
+## F.NACHTWEH
+## OTTO GEBLER
+
+geb. 1838 in Dresden, gest. 1917 in Munchen
+
+- 49 Mittagsrast.
+
+Eine zahlreiche Herde von Schafen, darunter mehrere Ziegen,umdrangt im Vordergrunde den am Rande eines Wassertumpels sitzenden barfuBigen Hirtenknaben, der sein Mittagessen, ein Gericht Knodel, aus einem Napf verzehrt. Sein neben ihm sitzender Hund schaut begehrlich auf einen Bissen, den ihm der Knabe hinhalt. Zerstreut weidende und lagernde Schafe und Ziegen sieht man rechts zwischen den schlanken Stammen eines herbstlich gefarbten Birkengeholzes. Weiter hinten ragt das Dach eines Hauses aus Buschwerk.Vor dem Hirtenknaben brennt ein Holzfeuerchen.
+
+Bezeichnet: Otto Gebler.
+
+Ol auf Holz.H. 50,B. 68.
+
+## BENJAMIN VAUTIER
+
+geb. 1829 in Morges (Schweiz), gest. 1898 in Dusseldorf
+
+- 50 Morgenwasche.
+
+Neben einem gemauerten Kuchenherde sitzt in einer groben Holzbutte ein kleiner nackter Junge mit blondem Lockenkopf und heult aus Leibeskraften. Daneben am Boden sitzt das groBere Schwesterchen,die sich gerade die Strumpfe uberstreift. Sie belustigt sich uber die Wasserscheu des kleinen Schreihalses. Auf einem Stuhle hangt die Schurze der Mutter, die wohl gleich zuruckkommen wird.
+
+Bezeichnet:B.Vautier, Df. 1889.
+
+Ol auf Leinwand. H.54,B. 72.
+
+Abbildung Tafel 13.
+
+Er wa h n t bei Friedr.von Boetticher, Malerwerke des 19. Jahrh.,Bd. II,S. 915,Nr.70.
+
+## LOUIS TOUSSAINT
+
+## 51 Das Martinsfest.
+
+geb. 1826 in Konigsberg
+
+Auf dem freien Platze einer Stadt ein Gedrange von Kindern mit Papierlaternen. Sie gruppieren sich um zwei Kinder vorn, die ihre entzwei gegangene Laterne beweinen.
+
+Bezeichnet: Louis Toussaint.
+
+Ol auf Leinwand. H. 86, B. 95.
+
+## 52 Bauerin,Huhner futternd.
+
+Bezeichnet: W.Forn 70.
+
+Ol auf Leinwand.H.48,B. 38.
+
+Abbildung Tafel 13.
+
+## W.FORN
+
+In einer Kuche streut eine gebuckt stehende Bauerin mit blauer Schurze und rotem Kopftuch einer Henne und ihren Kuken Futterkorner auf den Boden. Vier Mastganse rechts in einer Kiste suchen durch das Gitter hindurch einzelne Korner zu erhaschen.
+## 54 Der Bergfahrer.
+
+Wettergebraunter Tiroler, lebensgrobes Brustbild in rotem Kamisol und brauner Joppe.Das gelockte dunkle Haar deckt ein schiefgesetzter grauer Hut, zwischen den Lippen, die ein dunkler Schnurrbart beschattet, eine Tabakspfeife. Die verwegenen Augen blitzen dem Beschauer entgegen.
+
+Der ausdrucksvolle Kopf hebt sich plastisch aus dunklem Grunde.
+
+Bezeichnet: Defregger 81.
+
+Ol auf Holz. H. 60, B. 50.
+
+## LUDWIG MUNTHE
+
+geb. 1841 in Aroen, gest. 1896 in Dusseldorf
+
+## 55 Herbstliche Landschaft.
+
+Eine Reihe herbstlich gefarbter Baume uberschatten einen schmalen Kanal, der sich schnurgerade durch die Bildmitte nach hinten zieht. Fallendes Laub in der Luft und auf dem spiegeiklaren Wasser. Vorn liegen vier Ruderkahne, bei denen mehrere Frauen und Manner hantieren. Ein sonniger Herbsthimmel leuchtet durch die Baume.
+
+Bezeichnet: L. Munthe.
+
+Ol auf Leinwand. H. 66, B. 47.
+
+## 56 Kleine Herbstlandschaft.
+
+Durch spiegelnde Regenpfutzen auf einem Wege, der durch die Mitte fuhrt, schreitet eine Bauerin nach vorn. Nach hinten schlieBt Heckengestrupp das Blickfeld ab. Sparliches Sonnenlicht bricht durch die Regenwolken.
+
+Bezeichnet: L. Munthe.
+
+Ol auf Holz. H. 23, B. 18.
+
+Abbildung Tafel 14.
+
+## MICHAELVONMUNKACSY
+
+geb. 1844 in Munkacs, gest. 1900 in Bonn
+
+## 53 Bildnis der Gattin des Kunstlers.
+
+Sie sitzt in Kniefigur auf einem Stuhle ganz nach links gewendet, das Gesicht mit den ernst blickenden Augen ins Dreiviertelprofil geruckt.Winterliches StraBenkostum: Graues Kleid, graubraune Pelzboa, schwarzer Muff, schwarze Pelzmutze mit blauer Schleife auf dem schwarzen,in der Mitte gescheitelten Haar.Tiefdunkler Hintergrund.
+
+Ol auf Holz. H. 60, B.74.
+
+Abbildung Tafel 14.
+
+Ruickseitig findet sich folgende Echtheitsbescheinigung direkt auf dem Malbreti: ,Ich bestatige, daB das umseitige Bildnis eine Originalarbeit meines Onkels, Michael v. Munkacsy ist und seine Frau Cecile darstellt. Berlin,den 25.10.1919.
+
+(gez.)Frau Cecile Bornewitz."
+
+## FRANZVON DEFREGGER
+
+geb.1835 in Dolsach, gest. 1921 in Munchen
+## FRANZ VON DEFREGGER
+
+geb. 1835 in Dolsach, gest. 1921 in Munchen
+
+## 57 Der erzahlende Jager.
+
+Tiroler Bauernstube. Vor einem Fenster an der Ruckwand sitzt der heimgekehrte Jager, ein junger Mann, den Hut verwegen auf dem Kopfe, und erzahlt seiner vor ihm sitzenden,lachelnd zuhorenden jungen Frau, Ihm gegenuber, an der anderen Tischseite, sitzt mit aufgestutztem Kopfe, aufmerksam lauschend, ein Knabe. An der Wand, neben dem Jager,
+
+Buchse und Rucksack, vor ihm sein Hund.
+
+Bezeichnet: F. Defregger, Munchen 1872.
+
+Ol auf Leinwand. H.47,B.42.
+
+Abbildung Tafel 15.
+
+## EDUARD VON GRUTZNER
+
+geb. 1846 in GroBkarlowitz, gest. in Munchen
+
+## 58LesenderKardinal.
+
+Ein alter Kardinal in roter Soutane und roter Mutze sitzt vor einem mit bordeauxroter Seidendecke belegten Tische und liest mit stillvergnugtem Lacheln in einem mit farbigen Miniaturen gezierten Folianten, der aufgeschlagen vor ihm auf dem Tische liegt.
+
+Ein Werk von ganz hervorragender Feinheit und Charakterisierung.
+
+Bezeichnet:E. Gritzner 1910.
+
+Oi auf Leinwand. H. 36, B. 30.
+
+Abbildung Tafel 15.
+
+## RUDOLPHHUTHSTEINER,MUNCHEN
+
+geb.1855 in Dusseldorf
+
+## 59 Kirchen-Inneres.
+
+altaren an den Pfeilern. Rechts Bankreihe, dahinter Treppenaufgang zur Kanzel. Ein Pater steht,ein Gebetbuch in der Hand,im Vordergrunde. Bezeichnet:Rud.Huthsteiner 1921.
+
+Linkes Seitenschiff einer groBen gotischen Kirche, mit reichen Barock-
+
+Ol auf Leinwand. H. 93,B. 71.
+
+## 60 Plauderstindchen.
+
+Bezeichnet:Rud.Huthsteiner.
+
+Ol auf Leinwand. H. 80, B. 60.
+
+Altertumlicher Renaissanceraum mit Kaminfeuer rechts. Eine junge Dame in weifem Seidenkleide und roter pelzverbramter Samtjacke,sitzt, ein Heft in den Handen, lachelnd einem Kavalier gegenuber, der ihr ein amusantes Historchen zu erzahlen scheint.
+## 61 Im Wirtshaus.
+
+GroBe Gaststube mit leeren grauen Wanden.An der Ruckwand ein Tisch mit teilweise heruntergerutschter weiBer Decke, einem Krug und zwei halbgefullten Weinglasern.Die beiden einzigen Gaste sitzen,voneinander abgewendet, an den beiden Schmalseiten des Tisches. Wahrend der eine im Kostum des 18. Jahrhunderts sich die Langeweile durch das Lesen eines Buches zu vertreiben sucht, dost der andere mit aufgestutztem Kopf vor sich hin.
+
+Bezeichnet: C. Mayr, Graz, Munchen 76.
+
+Ol auf Holz. H. 10, B. 16.
+
+## HUGO KAUFFMANN
+
+geb. 1844 in Hamburg, gest. 1915 in Prien am Chiemsee
+
+## 62 Dorf politiker.
+
+Zwei alte Bauern sind in ein lebhaftes Wortgefecht verwickelt. Der eine sitzt rechts im Profil vor grauer Wand und sucht mit eindringlichen Gesten den Gegner von der Gewichtigkeit seiner Grunde zu uberzeugen; er tragt Kniehosen, grune Jacke, weibe Schurze, Zipfelmutze. Der andere sitzt breitspurig, in Hemdsarmeln und roter Weste, links am Tische hinter seinem Bierschoppen und hort, eine Pfeife qualmend, mit uberlegener
+
+Gelassenheit dem anderen zu.
+
+Bezeichnet:Hugo Kauffmann 88.
+
+Ol auf Holz.H. 16, B.20,5.
+
+Abbildung Tafel 16.
+
+## ADELSTEEN NORMANN
+
+geb. 1848 in Bodo (Norwegen)
+
+- 63 Naerofjord bei Sonnen-Untergang.
+
+Ein vom Abendrot beleuchteter zerrissener Wolkenhimmel wolbt sich uber dem vom Winde leicht gekrauselten Wasser des Fjords,auf dem sich mehrere Segelboote schattengleich bewegen. Vorn links auf grunem Strandstreifen liegen am FuBe eines schroff ansteigenden,von tiefen Schatten uberzogenen Felsens mehrere Fischerhauser unter Baumen.
+
+Bezeichnet:A.Normann.
+
+Ol auf Leinwand. H. 90, B. 125.
+
+- 64 Norwegischer Fjord.
+
+Klare Sonnen-Untergangs-Stimmung. Links flacher Strand mit vereinzelten Hausern,uberragt von schroffen Felsen. Rechts der leicht bewegte Meeresarm mit einigen Fahrzeugen. Dunkles Abendgewolk, leicht gerotet vom Lichte der untergehenden Sonne.
+
+Bezeichnet: A. Normann.
+
+Ol auf Karton. H. 65, B. 53.
+
+Abbildung Tafel 16.
+
+## CARLMAYRGRAZ,MUNCHEN
+
+geb. 1850 in Graz
+## 68 Blumenstilleben.
+
+In einer Glasvase vor Gebuschhintergrund ein StrauB von roten und weiBen Winden.Nach links Landschafts-Durchblick.
+
+Bezeichnet:Friedrich Stahl,Florenz 1917.
+
+Ol auf Holz. H. 50, B. 48.
+
+## HANS THOMA
+
+geb.1839 in Bernau (Baden), gest. 1925 in Karlsruhe
+
+## 65 Abendlandschaft.
+
+Aus schattendunklem Gebusch rechts rauscht ein reiBender Bach in weiBschaumendem Gefalle uber Felsblocke nach links hinunter, vorbei an einem blumigen Wiesenstuck,das den rechten Vordergrund fullt und sich am anderen Bachufer auf ansteigendem Gelande nach hinten fortsetzt. Eine Bauerin mit rotem Kopftuch schreitet in gebuckter Haltung durch das Gras auf der Hohe des Hugels,und hebt sich in scharfer Silhouette abvon dem in rot und schwarzblau gluhenden Abendhimmel.
+
+Bezeichnet: H. Th. (in Ligatur) 90.
+
+Ol auf Karton. H. 75, B. 97.
+
+## 66 Stilleben.
+
+Auf einem Tische, dessen weiBe Decke in Falten zuruckgeschoben ist, liegt quer, mit den Hinterlaufen an einen mit Krautkopfen gefullten Korb gebunden, ein erlegter Hase, daneben eine Schale aus Rotkupfer und ein Westerwalder Steinzeugkrug. Das Ganze vor graubrauner Wand.
+
+Bezeichnet: H. Th. (in Ligatur) 87.
+
+Ol auf Karton. H. 74, B. 97.
+
+Abbildung Tafel 17.
+
+## ADOLPH STADEMAN
+
+geb.1824 in Munchen, gest. 1895 daselbst
+
+## 67 Seelandschaft mit Herden-Staffage.
+
+Im Vordergrunde dehnt sich rechts ein von Wiesen und Gebuschen um- gebener See.Links ein Gehoft zwischen Baumen,hinter dem ein schweres Wetter hochsteigt. Herdentiere und einzelne Personen als Staffage.
+
+Bezeichnet: A. Stademan.
+
+Ol auf Karton. H. 26, B.42.
+
+## FRIEDRICH STAHL,FLORENZ
+
+geb. 1863 in Munchen
+
+Abbildung Tafel 17.
+## PAUL WEBER
+
+geb.1823 in Darmstadt,gest.1916 in Munchen
+
+## 69 Zigeuner.
+
+Durch die sonnige Strabe eines oberdeutschen Dorfes zieht eine Zigeunertruppe.Voran ein braungekleideter Mann mit rotem Fez,der einen groBen Baren an der Kette fuhrt. Neben ihm eine Frau mit einem Saugling im Arm, auf der anderen Seite junges Madchen mit Tambourin. Hinterher fahrt ein planverdeckter Wagen, von zwei Maultieren gezogen. Dorfbewohner stehen zuschauend rechts und links vor ihren Hausern. Die Dorfjugend begleitet neugierig den Zug.
+
+Bezeichnet:Paul Weber 1876.
+
+Ol auf Leinwand. H. 71, B. 123.
+
+Abbildung Tafel 18.
+
+## GUSTAV SCHONLEBER
+
+geb.1851 in Bietigheim, gest.1917 in Karlsruhe
+
+## 70 Abend auf der Schelde.
+
+Zwei vom Fang zurickgekehrte Fischerbarken recken ihre groben Segel in die dunstige, von gelben Lichtern durchzitterte Abendluft. Sie treiben in langsamer Fahrt auf eine holzerne Anlegetreppe links zu, auf deren oberer Plattform drei Fischer stehen. Weiter hinten verschwimmen die Umrisse einiger Fahrzeuge im Abendnebel.
+
+Bezeichnet: G. Schonleber 1914.
+
+Ol auf Leinwand. H. 102, B. 134.
+
+Abbildung Tafel 18.
+
+## OTTO EERELMAN,DEN HAAG
+
+geb. 1839 in Groningen
+
+## 71 Hollandische Stadt im Winter.
+
+Breiter verschneiter Platz zwischen architektonisch schonen Hausern, auf dem sich ein buntbewegtes Treiben entfaltet:Prachtige Schlitten mit reich geschirrten Pferden bespannt, bewegen sich nach verschiedenen
+
+Richtungen. Zahlreiche Personen links als Zuschauer.
+
+Bezeichnet: O. Eerelman.
+
+Aquarell. H. 47, B. 75.
+
+## GEORGMACCO,DUSSELDORF
+
+geb. 1863 in Aachen
+
+## 72 Hochgebirgslandschaft.
+
+Gebirgstal mit machtigen Gletschermassiven im Hintergrunde. Links vorn liegt eine Kapelle unter Fichten, auf die sich von rechts her eine Pro- zession zu bewegt.
+
+Bezeichnet: Georg Macco Df. 1898.
+
+Ol auf Leinwand. H. 112, B. 98.
+- 74 Venedig.
+
+Vorn der breite Kai mit Blick auf den Dogenpalast und den Campanile im Hintergrunde. Mehrere Segelbarken haben vorn im Canale grande beigelegt, Gondeln bewegen sich in einiger Entfernung. Ufer und Fahrzeuge beleben farbig gekleidete Personen. Vorn steht ein Paar in reichem Kostum, daneben leert ein Fischer seinen Aalkorb. Ein heller Sommertag ubergoldet die Szenerie. Ganz hinten hebt sich die Kirche S. Maria maggiore aus leichtem Dunst.
+
+Bezeichnet:Ziem.
+
+Ol auf Leinwand.H. 40,B.50.
+
+Abbildung Tafel 19.
+
+## 75 Venedig.
+
+Weite Sicht uber den Lido bei untergehender Sonne. Vorn links eine um- fangreiche Architektur.
+
+Bezeichnet: Ziem.
+
+Ol auf Leinwand. H. 31. B.24.
+
+## FERDINAND HEILBUTH
+
+geb. 1830 in Hamburg, gest. 1889 in Paris
+
+## 76 Reisegesellschaft in italienischer Landschaft.
+
+Bezeichnet: F. Heilbuth.
+
+Aquarell. H. 32, B. 23.
+
+Uber einen Gebirgsweg fahrt eine mit zwei Rappen bespannte Reisekutsche. Ein junger Kavalier in Dreispitz und rotem Mantel und ein alter weiBbartiger Patrizier schreiten ihr, gefolgt von zwei livrierten Lakaien, voran. Rechts wird ein steiler braunerFelsen vom Bildrand uberschnitten.
+
+## WILHELM TRUBNER
+
+geb.1851 in Heidelberg, gest. 1917 in Karlsruhe
+
+## 73 Der Rosengarten.
+
+An breitem, sonnigem Parkweg entlang zieht sich links ein Stacketzaun in das Bild hinein, uber den sich ein uppiger Flor bluhender Rosen legt.
+
+Nach hinten blickt man auf groBe Baume.
+
+Bezeichnet:W. Trubner.
+
+O1. H. 50, B. 60.
+
+Abbildung Tafel 19.
+
+## FELIX ZIEM
+
+geb. 1821 in Beaune, gest. 1911 in Paris
+3
+
+## 77 Kuhe.
+
+Zwei Kuhe, weiB und gelb gefleckt, stehen vorn auf einer Wiese,nach rechts gewendet,hintereinander. Ein Bauer in blauer Bluse liegt etwas weiter rechts im Grase. Helle pralle Sonne spielt uber das Fell der Tiere hin.
+
+Bezeichnet: H. Zugel 22.
+
+Ol auf Leinwand. H. 47, B. 60.
+
+## CARLJUTZ SENIOR
+
+geb. 1838 in Windschlag i. B., gest. 1916 in Pfaffendorf b. Koblenz
+
+## 78 Enten am Wasser.
+
+Braune Ente mit einzelnen blauen Federn steht,umgeben von sieben jungen Entchen, im sonnigen Schilf und Ufergras neben einem seichten Wasser. Die Entchen torkeln lustig umher und suchen sich Nahrung. Bezeichnet: Carl Jutz.
+
+Ol auf Leinwand. H. 45, B. 60.
+
+## 79 Henne im Kampf mit Enten.
+
+Eine gelbe Henne sitzt rechts auf einem Strohhaufen mit gestraubtem Gefieder einer gegen sie angehenden wutenden Ente gegenuber. Die verangstigten Kuken kriechen fluchtend unter sie. Eine Ente mit grunem Kopf schaut der Auseinandersetzung ruhig zu.
+
+Bezeichnet: C. Jutz.
+
+Ol auf Holz. H. 15, B. 20.
+
+## CARL JUTZ SEN. UND HEINRICH HARTUNG
+
+1838-1916
+
+geb. 1851
+
+## 80 Huhner- und Entenvolk in groβer Fruhlingslandschaft.
+
+Bluhende Obstbaume zwischen Bauernhausern,mit Blick auf einen Kirchturm im Hintergrunde. Vorn flieBt ein Bach um einen Dungerhaufen herum,auf dem sich ein Haushahn mit funf Hennen niedergelassen hat. Etwas weiter vorn am Bachrande ein Volk von acht verschiedenfarbigen Enten. Rechts eine Ente mit ihren Jungen. Mehrere Huhner auf einem
+
+Wege, der nach hinten fuhrt.
+
+Die Landschaft von Hartung, die Tiere von Jutz.
+
+Bezeichnet: Carl Jutz 80. H. Hartung.
+
+Ol auf Leinwand. H. 80,B.105.
+
+Abbildung Tafel 20.
+
+Abbildung Tafel 20.
+
+## HEINRICH VON ZUGEL,MUNCHEN
+
+geb.1850 in Murrhardt
+## CARL SCHUCH
+
+geb.1846 in Wien, gest.1903 daselbst
+
+- 81,Mein Haus in Paris".
+
+Eine in grau, schwarz und weib gemalte breite Hausfassade von drei
+
+Stockwerken.
+
+Bezeichnet: Schuch, Paris.
+
+Ol auf Leinwand. H. 63, B. 50.
+
+Abbildung Tafel 21.
+
+## OSWALDACHENBACH
+
+geb.1827 in Dusseldorf, gest. 1905 daselbst
+
+- 82 Park der Villa Borghese in Florenz.
+
+Glutende Sonne durchflutet die Kronen alter Baume, die einen vorn in der Bildmitte stehenden Springbrunnen uberwolben; aus leichtem Schatten heraus leuchten die roten und blauen Kleider einiger um den Brunnen gruppierter Frauen. Spazierganger promenieren hinten vor einer rot bestrahlten Arkade. Rechts im Schatten eines Gebuschs eine Personengruppe.
+
+Bezeichnet:Osw.Achenbach 1881.
+
+Olauf Leinwand.H. 90,B. 75.
+
+## ERNST MEISEL
+
+geb. 1838 in Lichte, gest. 1895 in Trauenstein
+
+- 83 Verliebte Zwiesprache.
+
+Reiches Renaissance-Interieur mit teppichbelegtem Tisch vor einem Marmorkamin. Ein junger Kavalier in rotem Koller sitzt an der hinteren Tischseite und schakert mit seinem anmutigen Gegenuber, einer jungen Dame in weiBem Seidenkleide und roter pelzbesetzter Samtjacke. Sie hat einem vor ihr stehenden Schmuckkastchen einen Ring entnommen, den sie verschamt lachelnd betrachtet.
+
+Bezeichnet:Meisel.
+
+Ol auf Leinwand. H. 74, B.64.
+
+## AUGUSTESERRURE
+
+geb. 1825 in Antwerpen, gest. 1903 in Brussel
+
+- 84 Die neugierige Zofe.
+
+Ein Madchen in rotem Rock, schwarzer Taille,weibem Spitzenhaubchen, steht, in die Betrachtung eines Schmuckfutterals versunken, vor vergoldetem Konsoltisch, auf dem eine Vase mit Blumen und ein Korb stehen. Im Hintergrunde Alkoven mit Bett.
+
+Bezeichnet: Auguste Serrure 1852, Anvers.
+
+Ol auf Holz. H. 25, B. 20.
+
+Abbildung Tafel 21.
+## 86 In der Schenke.
+
+Vier Manner sitzen trinkend,rauchend und erzahlend in einer warm beleuchteten Kneipe um einen Tisch.Ein funfter Mann steht zuhorend links daneben.Trefflich charakterisierte Kopfe,fein durchgefuhrte Malerei im Kostum und Beiwerk, virtuos in Ton und Beleuchtung.
+
+Ein Kabinettbild von altmeisterlicher Schonheit.
+
+Bezeichnet: Claus Meyer.
+
+Ol auf Leinwand. H. 26, B. 18.
+
+Abbildung Tafel 22.
+
+## JOHANN HERMANN BAREND KOEKKOEK
+
+geb. 1840 in Amsterdam
+
+- 87 Hollandischer Kanal bei Sonnen-Untergang.
+
+Eine rotlich uberstrahlte stille Wasserflache nimmt fast die ganze Bildflache ein, rechts begrenzt durch einen dicht mit Baumen besetzten Uferstreifen.Vorn rechts Segelbarken mit Insassen bei einem Schuppen. Zwei weitere Fahrzeuge weiter hinten.
+
+Bezeichnet: Jan H. B. Koekkoek 65.
+
+Ol auf Holz. H.38,B. 57.
+
+## KARL JOHANN LASCH
+
+geb. 1822 in Leipzig, gest. 1888 in Moskau
+
+- 88 Der schuchterne Freier.
+
+Ein junges Bauernmadchen in Schwarzwalder Tracht sitzt, verschamt nend leichte Werbung durchfuhren soll. Die Mutter schaut neugierig rechts aus der Kuchentur heraus. Malerische Bauernstube mit altem lachelnd, an einem Spinnrad, einem unbeholfenen Bursch gegenuber, dem ein stehender Alter in weibem Kittel zuflustert,wie er seine anscheiHausrat.
+
+Bezeichnet: C.Lasch 1872.
+
+Ol auf Leinwand. H. 65, B. 90.
+
+Er w a h n t bei Friedr.von Boetticher, Malerwerke des 19. Jahrh., Bd. I, S. 812, Nr. 21.
+
+## WILHELMLOWITH,MUNCHEN
+
+geb.1861 in Wien
+
+## 85 Die Stammtisch-Brider.
+
+Vier Herren in Kostumen der Zopfzeit gruppieren sich beim Trunk um einen Wirtshaustisch in der Ecke einer Stube mit blauen Wanden,an denen Bilder und GefaBregale hangen. Einer an der Ruckseite des Tisches liest aus einem Schriftstuck etwas vor,das die Heiterkeit der anderen erregt.
+
+Bezeichnet: W. Lowith.
+
+Ol auf Holz. H. 25, B. 18.
+
+Abbildung Tafel 22.
+
+## EDUARD CLAUS-MEYER
+
+geb. 1836 in Hannover, gest. 1919 in Dusseldorf
+## ALBERT FLAMM
+
+geb.1823 in Koln,gest.1906 in Dusseldorf
+
+## 89 Italienische Hafenstadt.
+
+Am FuBe eines nach rechts ansteigenden Hugels ziehen sich die Hauser einer Stadt am Seestrand entlang bis zum fernen bergigen Hintergrunde. Eine Gruppe farbig gekleideter Frauen und einige Manner stehen plaudernd und ihre Kruge fullend vorn rechts bei einem Brunnen in der Abendsonne, die goldene Lichter uber Stadt und Landschaft gleiten laBt.
+
+Bezeichnet:A.Flamm.
+
+Ol auf Leinwand.H. 56,B. 97.
+
+## LOUIS DOUZETTE
+
+geb.1834 in Triebsees (Pommern)
+
+- 90 Mondnacht im Winter.
+
+Verschneite Landschaft mit gefrorenem Wasserlauf rechts. Am strauchwerkbewachsenen Ufer links reckt eine ragende Windmuhle ihre Flugel in den mondbeleuchteten Wolkenhimmel hinein. Bei einem Hause im Hintergrunde lodert ein stark leuchtendes Feuer, vor dem sich zwei schattenhafte Gestalten bewegen.
+
+Klare, durchsichtige Frostluft; magische Beleuchtung.
+
+Bezeichnet: L. Douzette 1875.
+
+Ol auf Leinwand. H. 52, B. 78.
+
+Abbildung Tafel 23.
+
+## ADAM KUNZ,MUNCHEN
+
+geb. 1857.
+
+- 91 Groβes, prunkvolles Stilleben.
+
+Erlegter Fasan,Delftschussel mit groBem Hummer,Korbe und Schalen mit mannigfaltigen Fruchten, dazwischen Kruge,Pokale etc.:Das Ganze auf roter Tischdecke,die ein weiBes Leintuch teilweise verdeckt. Rechts auf dem Tische sitzt ein Affe.
+
+Bezeichnet: L. Adam Kunz 1891.
+
+Ol auf Leinwand. H. 90, B. 150.
+
+## GERARD PORTIELJE
+
+- 92 Schwieriges Unternehmen.
+
+geb.1856 in Antwerpen
+
+In einer vlamischen Kuche mit Rauchfang links und Tellerschrank rechts sitzt auf der Kante eines Tisches ein Beamter mit Dreispitz,eifrig bemuht, eine Nadel einzufadeln, um seinen hinter ihm liegenden Uniformrock zu flicken.
+
+Ol auf Holz.H. 35, B.26.
+
+Bezeichnet: Gerard Portielje,Antwerpen 1884.
+
+Abbildung Tafel 23.
+## 94 Junges Madchen.
+
+Reizender Madchenkopf von dunkler Lockenfulle umrahmt. Die mit weiber Bluse bekleidete Buste nach rechts gewendet, das feine Gesicht mit schelmisch lachelndem Ausdruck aus dem Bilde herausblickend. Goldgelber Hintergrund.
+
+Ein meisterhaftes Werk und eines der besten Bildnisse des Kunstlers, hervorragend in der Auffassung und von blendender Durchfuhrung.
+
+Bezeichnet: L. Knaus.
+
+Ol auf Leinwand. Rund.Dm.30.
+
+Abbildung Tafel 24.
+
+Pro venien z: Sammlung Adolf von Liebermann,Berlin.
+
+## GUSTAV STEVER
+
+geb. 1823 in Riga, gest. 1877 in Dusseldorf
+
+## 95 Das Fruhstuck.
+
+Eine junge Dame in weiBem Seidenkleide mit Federhut steht neben einem Tische vor zwei reichgekleideten Kindern und gieBt aus einer Karaffe Wein in ein Glas.Hinter dem Tische,auf dem eine Schale mit Fruchten, sitzt ein rauchender Kavalier. Rechts hinter der Dame ein essendes Kind.
+
+Bezeichnet:Stever 1874.
+
+Ol auf Leinwand. H. 93, B. 80.
+
+Er w a h n t bei Friedr. von Boetticher, Malerwerke des 19. Jahrh., Bd.II, S. 836, Nr. 28.
+
+## 96Familien-Idyll.
+
+Eine junge Mutter in reichem grauen Seidenkleide halt ein Kind auf dem SchoBe, das sich in dem KuraB des daneben stehenden Vaters in rotem
+
+Koller spiegelt. Zwei andere Kinder links und rechts.
+
+Bezeichnet: G.Stever.75.
+
+Ol auf Leinwand. H. 100, B. 80.
+
+Er w ahnt bei Friedr. von Boetticher,Malerwerke des 19. Jahrh.,Bd.1I, S. 836, Nr. 30.
+
+## KARL KRONBERGER,MUNCHEN
+
+geb. 1841 in Freystadt (Oberosterreich), gest. in Munchen
+
+## 93 Alte Bauerin.
+
+Kopf einer alten Frau mit gescheiteltem weiben Haar, auf dem eine goldgestickte Haube sitzt, deren schwarze Seidenbander das den Beschauer anblickende Gesicht umrahmen.
+
+Prachtvoller Kopf von groBer Auffassung, plastisch aus dunklem Grunde herausmodelliert.
+
+Bezeichnet: C. Kronberger.
+
+Ol auf Holz. H. 19, B.14.
+
+## LUDWIG KNAUS
+
+geb. 1829 in Wiesbaden, gest. 1910 in Berlin
+
+Abbildung Tafel 24.
+## 99 Strand-Idyll.
+
+Drei Fischer sitzen und liegen auf grunbewachsener Dune und unterhalten sich. Im Hintergrunde die von Fahrzeugen belebte See.
+
+Bezeichnet:Elchanon Verveer.
+
+Aquarell.H.30,B.39.
+
+## FRANZ WIESCHEBRINK
+
+geb. 1818 in Burgsteinfurt, gest. 1884 in Dusseldorf
+
+## 100 Der Feinschmecker.
+
+Eine Handwerkerfamilie,Vater,Mutter und drei Kinder an gedecktem Tische beim Mittagessen. Der Vater in schwarzem Schurzfell, mit aufgekrempelten Hemdsarmeln, stellt entrustet seinen ihm gegenubersitzenden SproBling zur Rede, der murrisch seinen noch vollen Teller betrachtet,dessen Inhalt ihm nicht zu munden scheint. Die Mutter raumt gerade den Tisch ab.
+
+Bezeichnet:F.Wieschebrink.
+
+Ol auf Leinwand.
+
+## ANDREAS ACHENBACH
+
+geb. 1815 in Kassel, gest. 1910 in Dusseldorf
+
+## 97 Strand mit heimkehrender Fischerflotte.
+
+Weite,in leichter Dunung rollende See in silberner Beleuchtung unter balligem Wolkenhimmel. Eine grobe in braunen und grauen Tonen gemalte Fischerbarke lauft in der Bildmitte eben auf den Strand, erwartet von einer zahlreichen Gruppe farbig gekleideter Frauen und Kinder,die vorn rechts am Strande lagern. Zwei andere Barken nahen von hinten her. Mehrere kleine Segel zeigen sich fern am Horizont.
+
+Bezeichnet: A. Achenbach 68.
+
+Ol auf Leinwand. H. 71, B. 100.
+
+## 98 Westfalische Muhle.
+
+Vor einem Geholz rechts, dessen Baumkronen sich unter dem Winde eines von hinten hochsteigenden Gewitters beugen,liegen die niedrigen mit Ziegeln und Moos gedeckten Gebaude der Muhle an gestautem Bache, dessen Wasser vorn unter einem Schuppen uber die Schaufelrader sturzt und nach links hinuber durch einen Wiesengrund flieBt. In der Umgebung der Muhle gefallte Baumstamme und ein Strohhaufen.Vor dem Schuppen arbeitet ein Mann, eine gebuckt stehende Frau wascht an einem Seitenarm des Baches. Auf einer vorderen Rasenflache liegen bleichende Waschestucke.
+
+Bezeichnet:A.Achenbach 72.
+
+Abbildung Tafel 25.
+
+Ol auf Leinwand.H. 74,B.102.
+
+Pro venien z:Staatsgalerie Oldenburg.
+
+## ELCHANON VERVEER
+
+geb. 1826 im Haag.
+
+Abbildung Tafel 25.
+## 101 Mary.
+
+Junge Dame in gruner Bluse, Halbfigur nach rechts, den Kopf nach vorn gewendet. Rote Blumen im dunklen Haar.
+
+Bezeichnet:Franz von Stuck.
+
+Pastell. H. 53, B. 48.
+
+Abbildung Tafel 26.
+
+## LUDWIG HARTMANN
+
+geb. 1835 in Munchen, gest. 1902 daselbst
+
+## 102Pferde am Waldrand.
+
+Ein Schimmel, ein Rotfuchs, ein schwarzweib geflecktes Pferd halten vorn auf sonnebeschienenem Wege, der in das gelockerte Helldunkel eines sommergrunen Laubwaldes hineinfuhrt. Auf dem vorderen Schimmel sitzt ein alter Bauer mit Schlapphut,einen Krug in der Hand, auf einen Hund blickend,der sich mit dem Rotfuchs anfreundet.Etwas weiter hinten,im grunen Waldschatten, steht ein zweiter Mann neben einem Pferde und spricht mit einem Madchen. Rechts an der Ecke des Waldes stehen zwei angeschirrte Ackerpferde neben einem am Boden sitzenden
+
+Bauer.
+
+Bezeichnet:Ludwig Hartmann,Munchen.
+
+Ol auf Holz. H. 42,B. 74.
+
+Abbildung Tafel 26.
+
+## 103 Mittagsrast.
+
+Vorn links zur Seite eines Weges ein abgespannter Planwagen, neben dem die beiden Zugpferde, ein Fuchs und ein Brauner, stehen. In einiger Entfernung rechts hinten lagern ein Mann und zwei Frauen neben einem Holzfeuer.Im Hintergrunde eine fluBdurchzogene Hugellandschaft. Bezeichnet:Ludwig Hartmann.
+
+Ol auf Holz. H. 20, B.37.
+
+## WILLEM JOHANNES MARTENS
+
+geb. 1838 in Amsterdam, gest. 1895 in Berlin
+
+## 104 Die schone Schlaferin.
+
+Marmorterrasse eines romischen Parks. Links vorn sitzt auf einer Marmorbank ein schlafendes junges Madchen in spitzenverziertem roten Sammetkleid, Blumen im SchoB, die sie zu einem StrauB ordnen wollte. Neben ihr ein Blumenkorbchen.Ein Kavalier im Zopfkostum beugt sich von hinten her uber die Balustrade und beobachtet die Schlaferin.
+
+Bezeichnet: W. J. Martens.
+
+Ol auf Holz. H. 56, B. 36.
+
+## FRANZ VON STUCK,MUNCHEN
+
+geb.1863 in Tettenweis
+## GEORG ANTON RASMUSSEN
+
+geb. 1842 in Stavanger, gest. in Dusseldorf
+
+## 105 Groβer norwegischer Fjord.
+
+Machtige senkrecht abfallende Felswande nehmen die linke Bildseite ein, wahrend ein schmaler grunbewachsener Dunenstrand der rechten Felskette vorgelagert ist. In der Mitte der in blauen und grauen Lichtern glanzende Wasserarm. Vorn am flachen Strande eine lebhaft farbige Gruppe von drei Mannern und einer Frau, die den Fang aus einem ausTiefblauer, von einzelnen grauen und weiben Wolkenbildungen uberzogener Himmel.
+
+Bezeichnet:A. Rasmussen.
+
+Ol auf Leinwand. H. 76, B.127.
+
+- 106 Sognefjord.
+
+Abbildung Tafel 27:
+
+Der breite,in silbrigem Lichte glanzende Spiegel des Wasserarmes nimmt die ganze vordere Bildflache ein und verengt sich nach hinten zwischen schroffen, teilweise mit Schnee bedeckten Felsen.Rechts ein grunbewachsener Dunenstrand mit einigen Hausern. Davor zwei Segelbarken und ein mit drei Personen besetztes Ruderboot.
+
+Bezeichnet:A. Rasmussen,Df.1890.
+
+Ol auf Leinwand. H. 50, B. 85.
+
+## LUDWIG KNAUS
+
+geb. 1829 in Wiesbaden, gest. 1910 in Berlin
+
+- 107 Kinder auf der Wiese.
+
+Drei Kinder spielend und Blumen pfluckend an blumenreichem Wiesenhang. Ein groBeres Madchen in rotem Kleide rechts geht durch die Blumen und windet einen StrauB, ein kleineres Madchen in weiBem Kleid und roter Mutze tollt singend nach vorn, ein Knabe in weinrotem Anzug jagt, den Hut schwingend,links hinter einem Schmetterling her.In einiger Entfernung springt ein Hund durch die Wiese. Lachender Sommerhimmel wolbt sich uber dem Ganzen.
+
+Bezeichnet: L. Knaus.
+
+Ol auf Holz. H. 50, B.70.
+
+## JAN M.VROLIJK
+
+Den Haag 1834-1862
+
+- 108 Frihlingslandschaft mit Kuh und Hirt.
+
+Bezeichnet: Jan Vrolijk.
+
+Aquarell. H. 30, B.48.
+
+Auf frischgruner Wiese zwischen zwei Weidengruppen grast vorn eine weiB und schwarz gefleckte Kuh. Daneben steht ein Bauer in blauer Bluse, auf einen Stab gestutzt. Hintergrund Wassertumpel und weite Wiesenebene mit kleinen Staffagetieren.
+
+Abbildung Tafel 27.
+## KARL LUDWIG FRIEDRICH BECKER
+
+geb. 1820 in Berlin, gest. 1900 daselbst
+
+## 109 Die kleinen Neugierigen.
+
+Grabkapelle aus grauem Sandstein, geschlossen durch eine eiserne Gittertur, wahrend die auBere Holztur zuruckgeschlagen ist und auf ihrer Innenseite ein geschnitztes und gemaltes Adelswappen zeigt. Zwei kleine Bauernmadchen in lebhaft farbiger Volkstracht,ihre Schulbucher im Arm, stehen angstlich neugierig vor dem Gitter und spahen in den dunklen Innenraum hinein, der von einer kleinen Laterne nur matt beleuchtet wird.
+
+Bezeichnet: C. Becker.
+
+Ol auf Holz.H. 85,B. 62.
+
+Abbildung Tafel 28.
+
+## HANS HERRMANN,BERLIN
+
+geb.1858 daselbst
+
+## 110 Hollandischer Fischmarkt.
+
+Ein nebliger Morgen liegt uber dem Hafen und einem spiegelfeuchten Kai, der die rechte Bildseite einnimmt. Farbig gekleidete Fischer und Frauen mit Fischkorben heben sich aus dem silbernen Gesamtton.
+
+Bezeichnet:Hans Herrmann.
+
+Ol auf Leinwand. H. 80, B. 60.
+
+## 111 Fischmarkt am Hafen von Amsterdam.
+
+Auf breitem Kai rechts Gruppen von farbig gekleideten hollandischen Fischerfrauen und einzelne Manner bei Fischkorben. Auf einer Landebrucke dahinter wartet eine dichtgedrangte Menschengruppe auf das Loschen des Fanges. Dampfer und Segelbarken heben sich in dichter Masse rechts aus dem Dunst des Hintergrundes. Links dehnt sich die von vielen Fahrzeugen belebte Hafenflache.
+
+Bezeichnet: Hans Herrmann.
+
+Ol auf Leinwand. H. 62, B. 92.
+
+## 112 Hollandische Stadtansicht.
+
+Hauser und Kirche bei einer Gracht, die eine gewolbte Brucke uberspannt. Zu Markte gehende Frauen, sonstige Passanten beleben das Bild. Uber die Brucke fahrt eine Gemisekarre. Neblige Morgenstimmung.
+
+Bezeichnet:Hans Herrmann 1895.
+
+Ol auf Leinwand. H. 116, B. 87.
+
+Abbildung Tafel 28.
+## RICHARD FRIESE
+
+geb.1854 in Gumbinnen, gest.1918 in Zwischenahn
+
+## 113 Der Kaiserhirsch.
+
+Zwischen den Stammen eines dichten Holzes, durch das das Sonnenlicht bricht, steht ein kapitaler Achtzehnender, rohrend den prachtigen Kopf zuruckgewendet,aus dem Bilde herausaugend.
+
+Bezeichnet:Rich.Friese 94.
+
+Ol auf Leinwand. H. 93, B. 73.
+
+Abbildung Tafel 29.
+
+- 114 Zwei Tiger im Schnee.
+
+Weitgedehntes, welliges Gelande, aus dessen Schneedecke vereinzeltes Strauchwerk sich hebt.Vorn sitzen zwei prachtige Konigstiger sprung bereit und beobachten eine fern voruberziehende Gazellenherde.Dunkler Wolkenhimmel bei Sonnen-Untergang.
+
+Bezeichnet: Rich. Friese, Berlin 1893.
+
+Ol auf Leinwand. H. 50, B. 80.
+
+## JACOB MARIS
+
+geb. 1837 im Haag, gest. 1899 in Karlsbad
+
+## 115 Am Zuidersee.
+
+Weiter Blick uber die Wasserflache, vorn durchsetzt von Schilfhaufungen. Zwischen dem Schilf ein von vier Fischern besetzter Ruderkahn.
+
+Bezeichnet: J. Maris.
+
+Auf der Rickseite Echtheitsbescheinigung von W. Maris,dem Sohne des Meisters:
+
+Dit Schilderytje (visschers) is door myn vader geschilderet en komt uit de nachlaBschap van de familie Maris.
+
+(gez.)W.Maris."
+
+Abbildung Tafel 29.
+
+Dabei die Unterschrift von 3 Zeugen.
+
+Ol auf Holz.H. 16, B. 32.
+
+## WALTER J. WATSON
+
+## 116 Im schottischen Hochgebirge.
+
+Bezeichnet: Walter J. Watson 1927.
+
+Ol auf Leinwand. H. 40, B. 66.
+
+Ein vorn breites wiesengrunes Gebirgstal, das in der Mitte ein stiller FluB durchzieht, wird hinten von hohen Waldbergen eingeschlossen. Am rechten FluBufer lagert eine kleine Schafherde,am anderen Ufer steht eine Rindviehherde im seichten Wasser.
+## HERMANN KAUFFMANN
+
+geb.1808 in Hamburg, gest. 1889 daselbst
+
+## 117 Pferdegespann in der Sandgrube.
+
+Die Bildmitte durchzieht eine gelbe Sandgrube, die in einen nach vorn abschussigen Berghang eingeschnitten ist. In der Mitte halt ein Bauernwagen, der mit zwei Pferden bespannt ist. Daneben steht ein Bauer,auf einen Spaten gestutzt und spricht mit einem rechts uber der Grube vor seiner Herde stehenden Schafer.
+
+Bezeichnet:Herm.Kauffmann.
+
+Ol auf Leinwand. H. 40, B. 53.
+
+Abbildung Tafel 30.
+
+## GREGOR VON BOCHMANN,DUSSELDORF
+
+geb. 1850 in Esthland.
+
+## 118 Pferde vor einem esthnischen Bauernhaus.
+
+Mehrere Gespanne,einzelne Pferde mit ihren Reitern,Fuhrleute,Handler, Frauen in farbigem Durcheinander vor niedrigem Hause mit weiber
+
+Giebelwand. Links ein Ziehbrunnen und eine Windmuhle.
+
+Ein subtiles Kabinettstuck von miniaturmabiger Feinheit und ausge- glichener Farbigkeit.
+
+Bezeichnet: G. v. Bochmann 09.
+
+Ol auf Holz. H. 14, B. 18.
+
+## 119 Esthnische Landschaft mit Bauern.
+
+Auf einem sparlich bewachsenen, nach vorn abfallenden Hang fahrt rechts ein mit zwei trabenden Pferden bespannter Bauernwagen, auf dem zwei Manner sitzen. Links vorn bei einem Ziehbrunnen vor Gehoft halt ein Reiter mit zwei Pferden, die von einer Magd getrankt werden.
+
+Bezeichnet: G.v.Bochmann.
+
+Ol auf Holz. H. 16, B. 21.
+
+## FRANZ EICHHORST,BERLIN
+
+geb.1885 daselbst
+
+## 120 Das Ende der Treibjagd.
+
+Eine Anzahl von Treibern teilen sich in die erlegten Hasen, die ihnen als Deputat uberwiesen worden sind. Hintergrund schlankstammiger lichter
+
+Laubwald.
+
+Bezeichnet:Franz Eichhorst 1913.
+
+Ol auf Leinwand.H. 130, B. 130.
+
+Abbildung Tafel 30.
+## 122Der Liebesbrief.
+
+Junges Madchen in ganzer Figur steht vor offenem Fenster, durch das man in einen fruhlingsgrunen Garten blickt und liest einen Brief, den sie in beiden Handen halt. Sie tragt grauschwarzes Kleid und weiBe Battistschurze. Neben ihr auf einem Schemel BlumenstrauB und Strickzeug.
+
+Bezeichnet: Walther Firle, Munchen 1893.
+
+Ol auf Holz.H. 99, B. 73.
+
+## AUGUST WEBER
+
+geb. 1817 in Frankfurt a. M., gest. 1873 in Dusseldorf
+
+## 123 Kleine Gebirgslandschaft.
+
+davor schreitet eine Frau mit einem Kind.
+
+Vorn Hugel mit Baumgruppe, unter der ein Haus liegt. Auf einem Wege
+
+Bezeichnet: A. Weber.
+
+Ol auf Leinwand. H. 20, B. 28.
+
+## LUDWIG WILLROIDER
+
+geb. 1838 in Villach (Karnten), gest. 1910 in Bernried
+
+## 124 Am Starnberger See.
+
+grundlandschaft. Stimmung eines klaren Herbsttages.
+
+Von vorn her blickt man uber Wiesen und Waldstucke in herbstlicher Farbung auf den breiten Silberspiegel des Sees und auf eine weite Hinter-
+
+Bezeichnet: Lud. Willroider 1907.
+
+Ol auf Leinwand. H. 82, B.114.
+
+Abbildung Tafel 31.
+
+## EDUARD CLAUS-MEYER
+
+geb. 1836 in Hannover, gest. 1919 in Dusseldorf
+
+## 121 Hollandisches Interieur.
+
+Drei Manner in hoheren Jahren sitzen, ein wichtiges Problem erorternd, einander gegenuber. Der eine in grauem Wams und blauer Mutze spricht mit eindringlichem Gesichtsausdruck und Handegestus zu den beiden anderen:einem weiBhaarigen Manne, der,im Nachdenken versunken, das Kinn auf die uber der Stockkrucke zusammengelegten Hande stitzt und einem mit rotem Rock und schwarzem Schlapphut bekleideten Mann, der halb vom Beschauer abgewendet sitzt.Hollandischer Innenraum mit roten und blauen Bodenfliesen,mit Gemalden an der grauen Wand und mit grobem, in der unteren Halfte grun verhangtem Fenster.
+
+Bezeichnet: Claus-Meyer.
+
+Ol auf Leinwand. H. 100, B. 76.
+
+Abbildung Tafel 31.
+
+## WALTER FIRLE,MUNCHEN
+
+geb. 1859 in Breslau
+## JOAQUIN LUQUE ROSELLO,ROM
+
+geb. 1866 in Malaga
+
+## 125 ,Vom Altar zur Arena".
+
+In einer gotischen Kirche mit mehreren Renaissance-und Barockaltaren hat sich auf Stuhlen links eine in farbige spanische Kostume gekleidete Hochzeitsgesellschaft niedergelassen,von denen einzelne trotz der Heiligkeit des Ortes lebhaft piaudern und flirten.Vor einem Altar rechts findet eben die Trauungszeremonie statt: Das junge Paar, er ein farbig gekleideter Torero, sie in weiBem Kleide mit gesenktem Blick,horen den Worten des vor ihnen stehenden Priesters zu.Ein altes Paar,wohl die Eltern der Braut, sitzt weinend rechts in einem Gestuhl.
+
+Bezeichnet:J. Luque Rosello 1897.
+
+Ol auf Leinwand. H. 68,B. 124.
+
+Abbildung Tafel 32.
+
+Er w ah n t bei Miller-Singer,Allg. Kunstler-Lexikon, Bd. V, S. 244.
+
+## SALVADORVINIEGRAYLASSO,ROM
+
+## 126 Die Hochzeit des Torero.
+
+geb. 1862 in Cadiz
+
+Prachtig ausgestatteter gotischer Raum. Links sitzt unter einem Baldachin vor einem mit roter Seidendecke belegten Tische ein alter Beamter einer in reichste spanische Kostume gekleideten Hochzeitsgesellschaft gegenuber.Er reicht dem rechts von ihm uiber den Tisch gebuckten Torero eine Feder zum Eintragen des Namens in ein aufgeschlagenes Register, wahrend die Braut mit gesenktem Blick daneben steht und wartet, bis die Reihe an ihr ist.
+
+Bezeichnet: S. Viniegra Roma.
+
+Ol auf Leinwand. H. 50, B. 76.
+
+Er w a h n t bei Friedr. von Boetticher,Malerwerke des 19. Jahrh., Bd. Il, S. 932,Nr. 6;—
+
+Abbildung Tafel 32.
+
+ferner bei Miller-Singer,Allg. Kunstler-Lexikon, Bd.V, S.16.
+
+## JOSEGALLEGOS,ROM
+
+geb. 1859 in Xeres de la Frontera
+
+## 127 Andachtige in der Kirche.
+
+Hellbeleuchtetes Seitenschiff einer gotischen Kirche mit alten Fresken. Darin zwei Betbanke. An der vorderen kniet eine junge Frau in blauem Kleid und rotem Kopftuch, neben ihr ein alter Mann mit weibem Bart. In der hinteren Bank sitzen drei ihre Andacht verrichtende Frauen. Zwischen den Banken kniet eine reich gekleidete junge Dame hinter einem Stuhl; vor ihr steht ein junges Madchen in roter Bluse,im Begriff, sich auf einen Stuhl zu setzen. Nach links hinten blickt man auf ein farbiges Kirchenfenster.
+
+Bezeichnet: F. Gallegos.
+
+Ol auf Leinwand. H. 33, B. 58.
+
+Abbildung Tafel 32.
+128 Hirsche.
+
+Ein kapitaler Zwolfer-Hirsch steht im Profil nach links, den Kopf augend nach vorn gerichtet auf strauchwerkbewachsenem Hugel. Rechts hinten zwei Stucke Kahlwild vor der in das Bild geschobenen Ecke eines Laub- waldes.
+
+Bezeichnet: C. F. Deiker.
+
+Ol auf Leinwand.H.45, B. 34.
+
+Abbildung Tafel 33.
+
+## FRANZVON DEFREGGER
+
+129 Dirndl.
+
+geb.1835 in Dolsach,gest.1921 in Munchen
+
+Brustbild eines Madchens mit in der Mitte gescheiteltem braunen Locken-
+
+Bezeichnet: Fr. Defregger.
+
+haar,in weibem Kleide. Fast ganz nach vorn gewendet, das kindliche Gesicht mit leichtem Lacheln auf den Beschauer gerichtet.
+
+Ol auf Holz.H. 30, B.22.
+
+## HUGO KAUFFMANN
+
+geb. 1844 in Hamburg, gest.1915 in Prien am Chiemsee
+
+130,Wer hilft?
+
+Vor der verschlossenen Tur einer Wirtschaft steht ein kleines Bauern- madchen,einen Bierkrug in der Hand und reckt die linke Hand zu einem Schellenzug hoch, den sie nicht erreichen kann. Hinter ihr steht ein weiBer Spitz.
+
+Bezeichnet:Hugo Kauffmann 88.
+
+Ol auf Holz.H.18,B.10.
+
+## ADOLF SCHREYER
+
+Abbildung Tafel 33.
+
+geb. 1828 in Frankfurt a. M., gest.1899 in Cronberg
+
+131 Beduinenscheich.
+
+Er sitzt auf grauweibem Pferde in weiBem Burnus und halt eine Fahne mit der Rechten hoch. Hintergrund Steppe.
+
+Bezeichnet: Ad. Schreyer.
+
+Ol auf Holz. H. 17, B. 12.
+
+Abbildung Tafel 33.
+
+Abbildung Tafel 33.
+
+## CARLFRIEDRICH DEIKER
+
+geb.1836 in Wetzlar,gest.1892 in Dusseldorf
+## 134 Tier-Idyll.
+
+Vor der sonnig beleuchteten Wand eines Bauernhauses drangen sich zwei weibe Schafe, ein schwarzes und ein Lamm um ein kleines Madchen in rotem Kleide, das ihnen Futter hinhalt. Daneben sitzt die junge Mutter,
+
+Kartoffeln schalend,auf einer Bank.
+
+Bezeichnet: Adolf Eberle, Munchen.
+
+Ol auf Holz. H. 34,B.42.
+
+## GABRIELVONMAX
+
+geb. 1840 in Prag, gest. 1915 in Minchen
+
+- 135 Madchen mit weiβen Rosen.
+
+Lieblicher Madchenkopf mit traumerisch verschleierten Augen in die Ferne
+
+Bezeichnet: G.Max.
+
+schauend.Ein Kranz weiBer Rosen umrahmt das hellblonde Haar.Die Brust umhillt ein weiBes Spitzenkleid.Dunkler,leicht aufgelockerter Hintergrund.
+
+Ol auf Leinwand.H.36,B.27.
+
+- 136 Kind in Blumen.
+
+Durch ein Blumen-Arrangement schaut ein kleines vollwangiges Madchen mit hellblondem geringelten Haar.
+
+Bezeichnet:G.Max.
+
+Ol auf Leinwand. H.42,B.35.
+
+Abbildung Tafel 34.
+
+## ALBERTJ.FRANKE,MUNCHEN
+
+## 132 Nach dem Diner.
+
+geb.1860 in Breslau
+
+Eine Gesellschaft von sieben Herren in eleganten Zopfkostumen gruppiert sich um einen Tisch,auf dem noch die Reste des Desserts stehen. Zwei vorn einander Gegenibersitzende sind in eine scharfe Diskussion verwickelt, der die anderen Herren interessiert zuhoren.Reiches Interieur mit brennenden Kronleuchtern.
+
+Bezeichnet: A.J. Franke.
+
+Ol auf Holz.H. 44, B.34. Goldrahmen.
+
+## PABLOSALINAS,ROM
+
+geb.1871 in Madrid
+
+## 133 Spanische Tanz-Szene
+
+Von rechts her beleuchteter Raum mit reichem Blumenflor an der Rickwand. Eine ganz in weiB gekleidete junge Dame tanzt zu den Weisen eines rechts sitzenden Guitarrespielers, wahrend ein rechts stehender Herr in rotem goldgestickten Seidenanzug bewundernd zuschaut. Links sitzen zwei andere junge Damen, die Beifall spenden.
+
+Bezeichnet:Pablo Salinas Roma.
+
+## ADOLF EBERLE
+
+geb. 1843 in Munchen, gest. 1914 daselbst
+
+Ol auf Holz. H. 15, B. 24.
+
+Abbildung Tafel 34.
+
+Abbildung Tafel 34.
+
+Abbildung Tafel 34.
+## AUGUST VON WILLE
+
+geb. 1829 in Kassel, gest. 1887 in Koln
+
+- 137 SchloB-Ruine bei Sonnen-Untergang.
+
+Bezeichnet: A.v.Wille.
+
+Eine umfangreiche rotbeleuchtete Ruine links auf einem Felsen. In der Bildmitte blickt man durch zwei Ruinenbogen auf einen Strom im Hintergrunde. Rechts fihrt eine Treppengasse zu einem altertimlichen Hause hoch. Eine Zigeunerfamilie lagert sich links im Schutz einer Mauer um ein Kochfeuer.Hinten taucht der aufgehende Mond aus rotbeleuchtetem Gewolk.
+
+Ol auf Leinwand.H. 40,B. 55.
+
+Vor einem sonnedurchleuchteten Walddickicht sitzt rechts an einen Rain gelehnt
+
+- 138 Der schlafende Jiger.
+
+ein schlafender Jager.Neben ihm sein Hund. Bezeichnet: A.v. Wille.
+
+Ol auf Leinwand.H. 41,B. 56.
+
+## LUDWIG MECKLENBURG
+
+geb.1820 in Hamburg,gest.1882 in Minchen
+
+Blick iber den Canale grande auf S. Maria maggiore und den Campanile. Eine Gruppe von Segelbarken und Gondeln vorn rechts.Figurentreiben links am Ufer. Bezeichnet:L. Mecklenburg 1850 Minchen.
+
+- 139 Ansicht von Venedig.
+
+O1 auf Leinwand. H.100,B.140.
+
+## JULIUSKOHNHOLZ,BREMEN
+
+geb.1839 in Bremen
+
+Die hinteren Berge erglihen im Abendrot. Graue Nebel schweben iber den Spiegel des Sees.
+
+- 140 Der Gosau-See in Abendstimmung.
+
+Bezeichnet:J. Kohnholz,Bremen.
+
+Ol auf Leinwand. H. 115, B. 80.
+
+## JOHANNES DUNTZE
+
+geb.1823 in Rahlinghausen b. Bremen,gest.1895 in Dusseldorf
+
+Am Ufer eines gefrorenen Flusses,auf dem sich einzelne Schlittschuhlaufer bewegen,links eine Gruppe altertimlicher Hauser mit einem SchloB im Vordergrunde.Am verschneiten FluB-Ufer einzelne Personen. Bezeichnet: J.Duntze 1877.
+
+- 141 Winterlandschaft.
+
+O1 auf Holz.H. 24, B.36.
+
+## THEMISTOKLES VON ECKENBRECHER
+
+- 142 Am Raftsund.
+
+geb.1842 in Athen,gest.1921 in Goslar
+
+Bezeichnet: T.v.Eckenbrecher 1911.
+
+Vorn ein felsendurchsetzter Strand in gelben und grauen Tonen, dahinter das silbern beleuchtete Wasser des Sundes,auf dem ein groBer Dampfer vor Anker liegt.Wolkenumzogene Felsmassive als hinterer AbschluB.
+
+Ol auf Leinwand.H. 55,B. 90.
+
+Durch eine mit Felsen durchsetzte Gebirgsmulde flieBt in weiBschaumendem Gefalle ein reiBender Bach.Berge alshinterer AbschluB. Bezeichnet: T.v.Eckenbrecher,Sogndal 23. 8.93.
+
+- 143 Norwegischer Wasserfall.
+
+O1 auf Leinwand. H. 34,B. 42.
+
+Vorn zwischen Klippen brandende See in grinen,weiBen und violetten Tonen. Den Hintergrund schlieBt eine schneebedeckte Felsenkette ab. Movenschwarme
+
+- 144 Am Lyngenfjord.
+
+fliegen iber die Szenerie.
+
+O1 auf Leinwand. H. 32,B. 46.
+
+Bezeichnet:Th.Eckenbrecher 1918.

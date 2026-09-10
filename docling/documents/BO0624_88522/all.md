@@ -1,0 +1,1492 @@
+## DIENSTAG,VORMITTAGS 10 UHR
+
+## Gemalde alter Meister.
+
+## DEUTSCHE SCHULE.
+
+## NIEDERRHEINISCH,15. Jahrhundert.
+
+- 1Betende Maria.Vor Goldhintergrund die Gottesmutter in dunkel= grunem Gewand. Das halb links gewandte Gesicht ist shmerzbewegt, die Handehalb erhobenHolz,nangescnitztemRundbogenrahmen,4731
+
+## HANS HOLBEIN d.Ae.
+
+Shule Hans Holbeins d.Ae. 1460-15Z4 Augburg, Isenheim.
+
+- 21 Martyrertod. Im Vordergrund auf grunem Rasen, aus dem spitze Eisenstaheln hervorstehen, die durchbohrten, nur mit Lendentuh be= kleideten Korper mehrerer Martyrer. Links ihre Peiniger in bunten Gewandern und mit Hellebarden. Im Hintergrund vor Burg auf hohem Felsen treiben einige Manner ihre Opfer in den Abgrund. Holz 33/24
+
+## DEUTSCH um 1500.
+
+- 3 Mariae Verkundigung. An Betpult rechts vor Alkoven knieend, Maria in rotem Gewand und grunem Mantel. Links neben ihr Vase mit Lilien.Durch das Fenster im Hintergrund hereinflatternd, die Taube. Holz 47/36
+
+## NURNBERG um 1500.
+
+- GeiBelung Christi. Im Hofgang der an eine Saule gebundene, mit
+- Lendenschurz bekleidete Christus. Ein am Boden liegender Peiniger tragt weibes Hemd und braune Hose. Ein stehender schwarz=gelb gestreif= tes Gewand. Rechts aus Tur heraus tritt Pontius Pilatus in rotem Mantel. Holz 110/58
+
+## TIROLum 1500.
+
+- 5 Die Anbetung der Konige. Vor der strohgedeckten Hutte Maria, Josef und das Jesusknablein. Vor ihnen die drei Konige in kostbaren Gewandern mit ihren Geschenken. Holz43/37
+## LUCAS CRANACH.
+
+Nad Lucas Cranah.1472-1553 Kronad,Weimar.
+
+- Bildnis Martin Luthers. Leidt nah rechts gewandt mit shwarzem Barett und shwarzem Talar. Der Hintergrund ist grun. Halbfigur. Holz34/24
+- Portrat der Katharina von Bora. Brustbildnis vor grunem Hinter= grund. Sie tragt schwarzen Mantel mit Pelzkragen uber dem durch weiben Gegenstudk zum Vorigen Zwei vorzuglide, gut erhaltene Arbeiten eines trefflichen zeitgenossischen
+- 8 Kragen abgesclossenen Gewand. Meisters aus der Werkstatt Cranachs.
+
+## HEINRICH ALDEGREVER.
+
+Art des AIdegrever. 1502 -nadh 1555 Paderborn, Soest.
+
+- 9 Hinrichtung Johannis des Taufers. In einem von Mauer und Haus umgebenen Hof im Vordergrund uber einem Steinblodk liegend der ent= hauptete Johannis. Rechts neben ihm der Henker in brauner Hose,rotem Rodk und einem Richtshwert in der Hand. Er reidt das Haupt des Taufers der mit einer Shussel herantretenden, kostbar gekleideten Salome. Links zwei Begleiterinnen der Konigstochter. Rechts ein Richter in scwarzem Gewand.In der Ferne,jenseits der Mauer,Turme u.Hauser. Holz 15,5/20,5
+
+## CHRISTOF SCHWARZ.
+
+Geboren 1550, gestorben 1597 in Munhen.
+
+- 10 Die Heilige Dreieinigkeit. Oben auf Wolke Gottvater in braun und grunem Gewand,neben ihm Christus in rotem Mantel. Beide halten das Szepter, uber welhem die Taube in einer alles uberstrahlenden Glorie shwebt.Engelscharen umschweben die Gruppe. Auf tiefer schwebenden Wolken knieen links Maria, rechts Johannes der Taufer. Kupfer 36/23
+- 11 Betende Maria. Vor dunklem Hintergrund die halb links gerichtete Halbfigur der Betenden. Das Kopftuh ist weib, das Gewand braunlih mit goldner Borte. Holz34/27,5
+
+## ADAM ELSHEIMER.
+
+Geboren 1574 in Frankfurt a. M., gestorben 1620 in Rom,
+
+- 12 Der Martyrertod des Heiligen Laurentius. Im Vordergrund die Gruppe der anklagenden Heidenfursten in exotischen Gewandern, die den Heiligen umstehen. An einem uber dem Martyrer schwebenden Engel vorbei erblickt man den unter einem Baldachin thronenden Kaiser Valerian mit seiner Gefolgschaft. Rechts Steinstatue und Blidk auf feuerschurende Henkersknedte und Volksmenge, Holz29/22
+
+Rechts am Sockel Bezeichnung.
+
+Abbildung Tafel XlI
+## JOHANN ROTTENHAMMER.
+
+Geboren 1564 in Munhen, gestorben 1625 in Augsburg.
+
+- 13 Anbetung der Konige. Links unter Felshang sitzend Maria in grunem Mantel und rotem Kleid mit dem Kind auf dem ShoB. Hinter ihr Josef. Rechts mit Geschenken die Konige in kostbaren, farbenreichen Gewandern. Dunkelblauer Himmel. Kupfer 22/17
+
+Abbildung Tafel XIll
+
+- 14 4Verkundigung Maria. Links an einen Tish gelehnt Maria in rotem Gewand und blauem Mantel. Der Verkundigungsengel mit der Lilie in der Hand schwebt,von kleinen Engeln begleitet, zu ihr heran. In den Wolken Gottvater von Engeln umgeben. Kupfer 26/19
+
+## DEUTSCHum 1650.
+
+- 15 Christus bei Maria und Martha. In der Bildmitte sitzt Christus mit rotem Mantel uber dem blaugrauen Gewand. Wahrend rehts von ihm die seinen Worten lauschende Maria in blaugrunem und rosafarbenem Gewand kauert, steht links Martha mit Tafelgerat. Sie weist auf die am Kuchenfeuer beschaftigte Dienerschaf links im Hintergrund.
+
+Holz 89/88
+
+## JORG GARTNER.
+
+Tatig zu Nurnberg, gestorben 1654 daselbst.
+
+- 16 Tod der Maria. Auf stufenerhohtem Ruhebett ruht Maria, der Jo=
+- hannes eine Kerze in die erkalteten Hande stedkt. Um das Bett sind die Apostel versammelt,teils esend,betend undWeihrauhkessel shwingend Leinwand 72/63
+
+## DEUTSCH,17.Jahrhundert.
+
+- 17 Christuskopf. Aus dunklem Hintergrund lost sich weich das von brau= nem Haupt- und Barthaar umrahmte Dulderantlitz. Ais Umrahmung lateinishe Inschrift. Holz 49/39
+
+## FRANKENTHAL,17.Jahrhundert.
+
+- 18 Der Gang nah Emmaus. Vor dem Eingang eines dusteren Waldwegs nah links schreitend Christus und die beiden Junger. Im Hintergrund eine hugelige Landschaft mit Hauserarchitekturen und Brude. Leinw.90/114
+
+## DEUTSCH um 1700.
+
+- 19 Judith vor deim Volke. Auf nahtlicem Platz zahlreihe Krieger und viel Volk,mit Fadkeln, die der erhoht stehenden Judith zujubeln. Dunkle Hauser als Hintergrund. Holz 39/44
+## JOHANN HEINRICH ROOS.
+
+Geboren 1631 in Otterberg, gestorben 1685 in Frankfurt a. M.
+
+- 20 Landschaft mit Vieh. Im Vordergrund inmitten seiner Herde ein alter, flotespielender Hirt. Rechts jenseits eines Flusses auf Anhohe eine befestigte Stadt. Links treibt ein Shafer seine Herde durch den Tor= bogen einer zerfallenen, mit Moos und Gebush bewachsenen Ruine. Ueber der weiten Berglandschaft in der Ferne leidt bewolkter Himmel. Leinwand 91/163
+
+## PHILIPP PETER ROOS.
+
+Rosa di Tivoli. Geboren 1657 in Frankfurt a.M., gestorben 1705 in Rom.
+
+- 21 Shafe in Landschaff. Vor dunklem Felsen liegt ein hellbeleuchteter Widder von seinen Shafen umgeben. Links ein grober brauner Hund. Rechts das Hirtenmadhen. In der Ferne hebt sich eine Burg auf Berges= hohe vom dunkelblauen Himmel ab. Leinwand 109/153
+
+Abbildung Tafel XV
+
+- 22 Ziegen in Landschaft. Auf einer Wiese neben zersplittertem Baum der mahtige schwarz und weib gefledkte Ziegenbok mit seiner Herde. Links auf dem Boden ein schlafender Hirte. Rehts der braune, weib gefledkte Hund. In der Ferne unter blauem, leidt bewolktem Himmel ein Bergzug. Gegenstudk zum Vorigen
+
+## JOH.MELCHIOR ROOS.
+
+Art des J. M.Roos. 1659 -1731 Frankfurt a. M.
+
+- 23 Hirt mit Herde. Auf felsiger Gebirgsweide ruhende Kuhe, Ziegen und Schafe mit Lammern. Rechts auf Anhohe sitzt der Hirtenknabe mit einem der beiden Hunde. Links auf der Gebirgshohe, gegen den hellen Himmel schwad sihtbar, shlobartige Architektur.Leinw.50/66
+
+## GEORG PHILIPP RUGENDAS.
+
+Geboren 1666 in Augsburg, gestorben 1742 daselbst.
+
+- 24 Reitergefeht. Im Vordergrund auf Weg das bunte Durcheinander kampfender Reiter. Rechts im Hintergrund vor Architekturen das in Pulverdampf eingehullte weitere Getummel. Leinwand 89/115
+
+## F.HAMMER.
+
+Deutsche Schule um 1700.
+
+- 25 Turkenschlaht. Im Vordergrund und auf der Brudke ein buntbewegtes, blutiges Reiterhandgemenge von kampfenden Turken und Osterreichern. Links im Hintergrund gegen Schutzenlinie ansprengender Turkentrupp. Bewolkter Sommerhimmel. Leinwand 138/194
+
+Auf dem Keilrahmen: F.Hammer fec.1711.
+
+Abbildung Tafel XV
+## JOHANN ELIAS RIDINGER.
+
+Art des J.E.Ridinger. 1698 - 1767 Augsburg.
+
+- 26 Von Hunden gehetzter Hirsch. In Hugellandschaft mit einzelnen Baumen einnalinks luhtenderHirshRehtsartaufseinenFersenolgt dieMeute der gelbweib u.braun gefledkten Shweibhunde.Lwd.112/123
+- 27 Von Lowen uberfallenes Pferd. Wahrend der Lowe dem arabiscen Apfelschimmel an die Kehle springt,fallt die Lowin das Tier von hinten an.
+- Als Umgebung eine felsige Landshaf m. vereinz. Palmen. Lwd. 42/50
+- 28
+- Jagdbeute. Unter dunklem Gebusch liegend ein toter Fuhs und einige Vogel. Hinter Baumstumpf ein herantrabender Jagdhund, der die Beute beaugt. Leinwand37/51
+
+## JANUARIUS ZICK.
+
+Geboren 1734 in Munchen, gestorben 1812 in Ehrenbreitstein.
+
+- 29 Madonna.Mit lieblichem Gesihtsausdruck blickt dieMutter,in faltigem rosa und blauem Gewand, auf das in ihrem Shobe liegende nadkte Kind herab. W eich losen sid dessenFormen aus dem weiben Linnen seiner Unter# lage heraus. Im olivbraunen Hintergund schwah sichtbar ein Bord mit einigen Messinggefaben, Leinwand57,5/44
+
+Links unten (spater?) bezeichnet:J.Zick.
+
+AbbildungTafel XIV
+
+Auberst anmutige Darstellung, die in Auffassung und Farbengebung an Zidks italienischen Zeitgenossen Tiepolo erinnert.
+
+## JOH.ANDR.HERRLEIN.
+
+Geboren 1720 in Wurzburg, gestorben 1796 in Fulda.
+
+- 30 Fruchtestilleben. Auf Tisch unter Weinlaub weibe und blaue Wein= beeren und Apfel. Dunkler Hintergrund. Leinwand 83/61
+
+## CHRISTIAN LUDW.LOWENSTERN.
+
+Geboren 1702 in Darmstadt, gestorben 1755 daselbst.
+
+- 31 1Vorm Marketenderzelt.Vor dem Eingang eines Zeltes, auf dem eine rote Flagge weht, Krug und Kranz aushangen, halten vier Reiter in farbenreichen UIniformen. Bei dem Reiter links, der aus einem Kruge trinkt, steht die Marketenderin. Rechts abseits Mann mit Padkpferd und weitere Soldaten im gebirgigen Hintergrund. Leinwand33/44
+- 32 Reitergefecht. Jenseits eines Baches das tolle Durheinander der Kamp= fenden. Links ein entfliehender Reiter. Duster bewolkter Abend himmel. Leinwand 32/41
+- 33
+- Reiterschlaht. Im Vordergrund eine Gruppe kampfender und sturzender Reiter. Im dunstigen Hintergrund in grofer Ausdehnung das weitere Shlahtgetummel, Leinwand28/32
+## JOHANN MARTIN METZ.
+
+Geboren um 1730, gestorben vor 1800. In Koln und Bonn tatig.
+
+- 34 Kakadu und Blumen. Auf Ballustrade blumenumrankte Urnenvase, Fruchte und hoher Goldpokal. Dazwishen weiber Kakadu und andere
+- Vogel. Im Hintergrund die Hoffront eines exotischen Palastes.
+
+Links unten bezeicbnet: J. M.Metz 1777. Leinwand 89/114 Metz war Hofmaler des Kurfursten Clemens August. 1781 ging er nad England. Seine Starke sind Fruchte und Stilleben
+
+## GEORG ANTON URLAUB?&gt;
+
+Geboren 1744 in Bamberg, gestorben 1788 in Mainz.
+
+- 35 Portrat eines Fursten. Der Dargestellte ist halb rects gewandt und
+- tragt weiben Kragen mit Spitzenjabot, weibe Weste und blauen Rodk mit Goldschnuren. Leinwand 36/30
+- 36 Portrat einer Furstin. Uber dem ovalen Gesicht eine hohe blumen= und perlengeschmudkte Rokokofrisur. Das Kleid gelblich mit weibem Shleier
+- fihu. Als Hintergrund gruner Vorhang. Gegenstudk zum Vorigen
+
+## R.K. WINTERSTEIN,1763.
+
+- 37 Erlegter Hase. Am FuBe eines Baumes der warmbeschienene braun= weibe Korper des vom Stamm zur Erde herabhangenden Hasen. Links Ausblidk in weite Berglandschaft unter abendlichem Sommerhimmel.
+- Links unten bezeichnet: R.K.Winterstein 1763. Leinwand 98/69
+
+## JOH.PHIL.ULBRICHT.
+
+Geboren 1762 in Frankfurt a. M., gestorben 1836.
+
+- 38 Romishe Ruinen. Auf Strabe, die durh zahlreiche mit Gras und Buschen bewachsene Ruinen fuhrt, einige Spazierganger. Rechts am Sodel einer Marmorstatue eine Bettlerin mit ihren Kindern. Leiht be=
+- wolkter Sommerhimmel. Holz27,5/35
+
+Links bezeichnet: J.P.UIbridht.
+
+Ulbricht ist in seiner Vaterstadt wenig bekannt. Er war Shuler von Nothnagel und, wie unser Bild zeigt, ein auberst tuchtiger Kunstler.
+
+## L.BITTNER.
+
+Geburtiger Hesse,um 1780 in Rom tatig.
+
+- 39 Ecce homo. In der Bildmitte das Brustbildnis des Heilands mit der Dornenkrone auf dem Haupt. Links Pilatus in grun-weibem Turban und rotem Gewand. Rehts der Morder Barrabas mit groben Gesichts= zugen.Dunkler Hintergrund. Holz40/30,5
+- Bitiner hat sich durh seine hervorragenden Kopien nad alten Meistern einen Namen gemacht.
+## JOH.HEINRICH BAUMANN.
+
+Geboren 1753, gestorben 1832 in Riga.
+
+- 40 Elf Jagd= und Tierbilder, als Supraporten zu verwenden. Selbstbildnis. Neben Jagdbeute sitzend. Leinwand96/157 Hase in Landschaft und Wildkatze mit Hase. Leinwd.je61/99 Birkhuhner und Rebhuhner in Landshaft. Leinwand je 35/51 Bar mit Jungen, Marder an Vogelnest und Gefugel in Land= schaft. Leinwand je 43/60
+
+Hase in Landschaft, Huhner im Hof und Enten im Hof.
+
+Leinwand je25/35
+
+Baumann war Shuler von Jacob Samuel Bedk und als Maler von Jagd= studken bekannt.
+
+## F.TERLINK, um 1750.
+
+- 41 Landschaft mit Wasserfall. Von Anhohe Blidk uber zerkluftete Ge= birgslandschaft mit Wasserfall zwischen den grasbewachsenen Schrunden. Links unterhalb Haus u.einige Leute.Wolkig.Sommerhimmel.Holz 49/40.
+
+## J. D. DIETRICH.
+
+- 42 Dame am Toilettentish. Vor einem rot uberdedkten Tisd, auf dem ein Spiegel und andere Toilettegegenstande, eine junge Dame in kost= barem weiben Seidenkleid und scwarzem Tuch uber den Schultern. Vor dunklem Hintergrund ein von rotem Thronhimmel uberdahtes Bett und einige rot bezogene Polstermobel. Holz37/28
+
+## RHEINISCH,18.Jahrhundert.
+
+- 43 Jagdstilleben. Auf dem Boden vor dunklem Gebusch tote Rebhuhner, Spedhte, Scnepfen und andere Vogel. Redts ein vom Stamm eines verkruppelten Baumes zur Erde herabhangender erlegter Hase. Links in der Ferne eine Burg vor dunklem Berg. Dunkelblauer Abendhimmel. Leinwand 88/112
+- 44 Totes Jagdgetier. Im Vordergrund auf der braunen Erde erlegte Reb= huhner, Shnepfe, Specht, Meise und andere kleine Vogel. Links am Fube eines Baumes ein Fasanenhahn. Rechts ein Hase. In der Bild mitte Durdhblidk auf weite Berglandschaft. Gegenstudk zum Vorigen
+- 45 Parklandshaft mit Federvieh. Vor altem Gemauer unter Baumen und Buschwerk zwei Pfauen, gegen die ein Hahn und eine Henne feindlidh Stellung nehmen. Links ein im Gemuse nagendes Kaninhen. Rechts Leinw.42/60 Springbrunnen und Gebirgslandshaft im Hintergrund.
+## DEUTSCH,18.Jahrhundert.
+
+- Genezareth sturzt. Holz25,5/37
+- 46 Die Austreibung der Teufel. In weiter Landshaft neben Ruinen= architekturen unter Baumen Jesus inmitten seiner Junger. Vor ihnen am Boden zwei Besessene, aus denen der bose Geist entweicht. Im Hintergrund die Sauherde, die sid,von Teufeln getrieben,in den See
+- 47 Landshaft mit Hirshen.Am Waldrand vor Ausblidk auf Feld lagern ein Hirsh und eine Hirschkuh am Fub eines verkruppelten Baumes. Etwas abseits ein weiteres Muttertier.BewolkterAbendhimmel.Lw.65/82
+- 49 Stilleben.Auf Korb liegend,die Halfte eines halbwuhsigen Sweines, deren rote und weibgelbe Shnittflade sic leuchtend vom dunkelgrun= lichen Hintergrund abhebt. Rechts auf der Tischplatte Katze an totem Geflugel, links Weibkraut-Haupter. Leinwand 67/95 Fruher J. Junker zugeschrieben.
+- 48 Maddenportrat.Leiht rechts gewandt,mit braunem 1 Haar und blauem Mantel uber rosafarbenen Kleid. Holz 24/18
+
+## DEUTSCH um 1790.
+
+- 50I Damenportrat.Das lebensfrishe Oval,von schleifenverzierter Haube und Spitzenkragen umrahmt, ist dem Beschauer zugewandt. Am odker= farbenen Atlaskleid ist der grune offene Umhang herabgeglitten.
+
+Pastell 56/46
+
+## VLAMISCHE SCHULE.
+
+## MEISTER A.V. B. Um 1516 tatig.
+
+Nagler verzeichnet unter Nr. 1431 fast das gleiche Monogramm, das auf einem Altarschrein in der Reinholdskapelle der Marienkirche zu Danzig zu sehen ist. Er weist den Maler der Schule von Calkar zu.
+
+- 51 Das jungste Gericht. Im Vordergrund zwischen zahlreichen vom Todes= shlaf erwahten Menschen ein Engel in rotem Mantel uber blauem Gewand. Rechts die Holle, links der Ort der ewigen Seligkeit. In den Wolken thronend Jesus, neben ihm Maria und Josef. Holz29/23 Mitte unten bezeichnet: A.V.(verschlungen) B.
+
+## H.und J. VAN EyCK.
+
+- 52 Zwei Bildnisse in einem Rahmen. Kopien des 18. Jahrhunderts mit verandertem Beiwerk und im Brustbild=Ausschnitt nach dem vordersten und dem sich umwendenden Reiter der gerechten Richter auf dem linken Flugel des Genter Altars, die nad alter Uberlieferung die Zuge des Hubert und des Jan van Eydk zeigen. Holz je 15/15,5
+
+Alte veranderteKopien nad denvan Eydsgest1426u1441,Gent,Brugge.
+## BERNAERTVAN ORLEY
+
+Schule. Brusseler Meister um 1540.
+
+- 53 Madonna.Vor dunkelbraunem Hintergrund, leicht nah links gewandt, die Halbfigur der Maria mit weibem Kopftuch uber dem braunen Haar. UIber ihrem dunkelbraunen Gewand hangt der offene rote, goldgestidkte Mantel. Der vor ihr auf Kissen stehende, nadkte Jesusknabe schmiegt sich kosend an sie. Holz 47/64
+
+Das haufig vorkommende Motiv unseres Bildes des sich von links an die Mutter schmiegenden, stehenden Knaben geht auf eine Komposition des Bernaert van Orley zurudk. Vgl. ahnliche Darstellungen in Donau= eschingen, bei Hauptmann a. D. Geiger in Neu-Ullm und in der 1000. Verst. bei Rud. Bangel, Slg.Furst Erbah-Sonberg (Kat.1000 Nr.5).
+
+## FRANS POURBUS.
+
+Geboren 1569 in Antwerpen, gestorben 1622 in Paris.
+
+- 54 Bildnis der Herzogin Elisabeth von Brabant. Vor dunklem Hinter= grund das jugendlide Brustbildnis der Furstin in kostbarem Gewand. Das frische Oval des Gesichtes wird umrahmt von der roten edelstein= besetzten Haube und dem Geriesel des vielgefaltelten Spitzenkragens. Das Gewand ist uber und uber mit Goldstidkerei und Perlenbehang verziert.
+- Rechts oben:Elisabet. DCei) G(ratia) Ducissa. Brab. A16o3. Holz27/21
+
+Im Jahre 1600 kam Pourbus im Auftrage des Herzogs Vincente I. Gonzaga nach Mantua, der eine Galerie von Portrats der shonsten Frauen aller Lander erridhtete und hierzu auh Pourbus berief. Unser Bild durfte demnach auch in Italien entstanden sein.
+
+## JOOS DE MOMPER.
+
+Geboren 1564 in Antwerpen, gestorben 1635 daselbst.
+
+- Flubmundung mit Staffage. In frischen Farben auf dem Ufer im Vordergrund pflugender Bauer und lagernder Hirt. Jenseits des Flusses, dessen nah links sich erweiternde Flade von einigen Segelfahrzeugen belebt wird, ein Gebirge in blaugrun zarten Tonen. Am Fub eines schroffen Felsens kleinere Stadt. In den Luften die Szene von Dadalus Kupfer,Durchmesser 26 cm
+- 55 und Ikarus.
+
+Figuren wahrscheinlicb von Jan Breughel. AbbildungTafel XIl
+
+Vorzuglide Arbeit, deren Zuschreibung an Momper auh von Fried= lander bestatigt wurde. Vergl. zu unserm Bild Mompers Gebirgslandschaften in Amsterdam, Braunshweig, Cassel, Dresden,Kopenhagen, Madrid, Petersburg.
+## JAN BREUGHEL.
+
+Shule des Jan Breughel. 1568-1625 Antwerpen.
+
+- 56 FluBlandshaft. Am Ufer links zahlreiche,zum Teil besetzte Segel= und Ruderboote. Auf dem waldigen Strand strohgededkte Fischerhauser. In der Ferne Dorf mit Kirche an sanfter Anhohe. Holz 36/46
+
+## DAVID TENIERS d.J.
+
+Art des D.Teniers. 1582-1649 Antwerpen.
+
+- 57 Wirtshausszene. Im Vordergrund zwei rauchende Bauern in blauer und roter Weste uber dem weiben Hemd. Hinter ihnen ein Mann in braunem Gewand, der sich eine Pfeife stopff.Rechts im Mittelgrund eine Gesellschaft von Kartenspielern. Leinwand 38,5/49
+- 58 Kartenspieler. In einer Wirtsstube sitzen um einen Tish mehrere
+- Manner in braunen Gewandern und weiben Halstuchern beim Kartenspiel. Einige Bauern im Hintergrund sehen ihnen aufmerksam zu. Links der Wirt mit einem Krug in der Hand. Leinwand37/47
+
+## FRANS FRANCKEN d.J.
+
+Geboren 1581 in Antwerpen, gestorben 1642 daselbst.
+
+- 59 Anbetung. Im Shutze einer hochragenden Saulenarchitektur die heilige Familie. Wahrend rechts ein Hirte mit Vieh in Anbetung versunken steht, treten von links, mit Gefolge, die Konige in reicen Gewandern an das Jesuskind heran. In den Luften schwebende Engel. Holz 34/45
+
+## SEBASTIAN VRANCX.
+
+Geboren 1573 in Antwerpen, gestorben 1647 daselbst.
+
+- 60 Waldlandshaft mit Staffage. In einem lieblicen Wiesental, das zu beiden Seiten von dichtem Wald begrenzt wird, hutet ein Hirt seine Ziegen und Shafe. In der Ferne Hohenzug. Bewolkter Sommer= himmel. Leinwand 62/94,5
+
+## DANIEL SEGERS.
+
+Geboren 1590 in Antwerpen, gestorben 1661 daselbst.
+
+- 61 Blumengirlande.Von dunkelolivfarbenem Hintergrund heben sidh, zur Girlande gebunden, gesprenkelte Tulpen,Narzissen,Rosen, Neken und andere Gartenblumen leuchiend ab. Leinwand 41/57
+
+Rechts unten bezeichnet: Daniel Segers Socts JESU.
+
+Vorzuglide Arbeit des Kunstlers. Ahnlicde Girlanden in Brussel, Haag, Dresden,Shleibheim, mit Figurendarstellungen in Antwerpen, Berlin, Braunschweig, Stodholm und Wien.
+## JACOBJORDAENS.
+
+- 62 St. Paulus. Brustbild. Das von grauem Haupt= und Barthaar um=
+
+Geboren 1593 in Antwerpen, gestorben 1678 daselbst.
+
+- rahmte Gesidht und die Hand, welhe das uber die Shulter gehobene Shwert halt, sind warm beleuchtet. Das Gewand des Apostels ist dunkelgrun und 1ost sid kaum vom dunklen Hintergrund. Holz 64/48
+
+## ANTHONY VAN DYCK.
+
+Shule des A.v.Dydk.1599-1641 Antwerpen, London.
+
+- 63 Christus am Kreuz. Das Kreuz mit dem duldenden Heiland steht mit dem oberen Teil gegen ein von dusteren Wolken umgebenes, freies Himmelsstuk. Uber der oden Gebirgslandschaft rotlicher Horizont.
+
+Leinwand 100/60
+
+- 64 Tanzende Putten. In lustigem Reigen warmbeleuchtete, nadkte Knaben= gestalten in abendliher Landschaf. In der Ferne sanfte, bewaldete Hugel. Holz 48/68
+- 65 Caritas. Vor reider Draperie von Saule und Vorhang, durh die man den abendlichen Himmel erblidkt, Maria mit dem zu ihr aufstrebenden Jesuskinde und zwei weiteren sih anschmiegenden Knaben.Leinw.85/61
+
+## CORNELIS SCHUT.
+
+Geboren in Antwerpen 1597, gestorben 1655 daselbst.
+
+- 66 Spielende Bacchantenkinder. Auf Wiese vier musizierende kleine Bacchantenknaben, zu deren Weise links vor dem dunklen Waldrand eine grobere Schar einen Reigen tanzt. Rechts Ausblidk in weite Landschaff. Holz47/66
+
+Alte Zuschreibung. Vergl. Shuts Arbeiten in Amsterdam,Antwerpen, Brussel,Munchen, Nurnberg, Petersburg,Stodkholm und Wien.
+
+## HENDRIK VAN BALEN.
+
+Geboren 1575 in Antwerpen, gestorben 1632 daselbst.
+
+- 67 Knabe an Blumenvase. Rechts auf rotem Kissen sitzend, ein nadktes Knablein, welhes nadh dem links stehenden StrauB lebhaft leuchrender Edelblumen tastet. Das Ganze auf perserartig gemusterter Dede. Dunkler Hintergrund. Holz 83/61
+
+Blumenstrauβ von Jan Breughel （1568-1625).Abbildung Tafel XIV Alte Notiz und altes Gutachten auf der Rudkseite, die als Maler des Knaben H. v. Balen, als Maler des Blumenstraubes Jan Breughel be= zeichnen. Beide Kunstler haben haufig zusammengearbeitet, wie arhivalishe Urkunden und viele Bilder in Dresden, Munchen etc. beweisen.
+## LODEWYK DE VADDER.
+
+Geboren 1605 in Brussel, gestorben daselbst 1655.
+
+- 68 Dunenlandschaft mit Staffage. Auf sandigem Weg zwischen sparlic bewachsenen Dunen kommen ein mit drei Pferden bespannter Wagen und einige Fubganger dem Beschauer entgegen. Von links aus einem Hohlweg naht ein Reitertrupp. Auf Anhohe im Hintergrund ein Bauern= wagen.Bededkter Abendhimmel. Holz 37/47,5
+
+Redts unten bezeichnet: L. D. V.
+
+Abbildung Tafel VIII
+
+Nah Hofstede de Groot eine schone charakteristisce Arbeit de Vadders. BezeichneteWerke sind,nah Wurzba II732,auberordentlich selten.Die wenigen bekannten sind aber von grobem koloristischen Reiz". Bilder in Darmstadt,Kopenhagen,Innsbruk,Lille,Munhen,Prag,Stokholm (Bez.:L.D.V.&gt;, Wurzburg,Universitat (2 Bilder bez.:L.D.V.&gt;
+
+## JAN VAN BALEN.
+
+Geboren in Antwerpen 1611, gestorben daselbst 1654.
+
+- 69 Verkundigung Mariae. Links vor grun gededktem Tisch sitzt Maria in verzuckter Gebarde. Ein gruner Mantel fallt uber ihr leuhtend rotes Ge= wand. Links in Glorie der heranschwebende Verkundigungsengel in gel= bem Gewand mit Lilie und Taube. Holz73/55
+
+Rechts oben bezeicbnet: J.v. Balen.
+
+Von den wenigen bekannten Arbeiten des Meisters erwahnen wir den Liebesgarten in Dresden und dessen Replik in Wien, eine Allegorie in Turin Figuren von J.v.Balen,Beiwerk von J. v.Kessel!&gt; und eine Maria mit dem Kind in Wien.
+
+## PEETERBOEL.
+
+Geboren 1622 in Antwerpen, gestorben 1674 in Paris.
+
+- 70 Toter Rebhahn.An graugruner Wand an einem Fuf aufgehangt, der
+- 71 Tote Vogel. Vor dunkelbrauner Wand hangen mit Bindfaden an den Beinen befestigte, bunt befiederte Vogel herab. Leinwand 29/33
+- braun, weib und blaulich schillernde Vogel. Holz45/33
+
+## J.VAN DONCK
+
+Im 17.Jahrhundert in Antwerpen tatig.
+
+- 72 Zwei Hennen. Vor Mauer, die rehts einen Durchblick auf bewolkten Sommerhimmel gewahrt, ein weibes und ein schwarzes Huhn mit Federhaube. Leinwand 63/53
+
+Rechts unten bezeichnet: J.van Donc.
+## CORNELIS HUYSMANS.
+
+Geboren 1648 in Antwerpen, gestorben 1727 in Mecheln.
+
+- Waldlandschaft mit Wasserfall. Von dem nach rechts ansteigenden Waldgelande herab sturzt in treppenartigem Fall ein Wildbah.Links auf Felsplateau unter dunklen Baumen zwei Frauen, Mann und Kind in Leinwand 71/101
+- 73 losen Gewandern.
+
+## ADRIAEN DE GRYEFF.
+
+Geboren 1670 in Antwerpen, gestorben 1715 in Brussel.
+
+- 74 Stilleben. Vor dunkelbrauner Bretterwand ein buntes Allerlei von Kohl, Rettidh,Zwiebeln und anderen Feldfruchten. Rects eine Frau an ihrem Verkaufsstand und einige Kaufer. In der Ferne eine Stadt. Holz 27/37 Rechts unten bezeicbnet:J.A. Gryef.f.
+- 75 Fruchtestilleben Rechts zwischen Kohl, Rettich und anderen Feldgewah sen eine Shussel mit Erdnussen. Davor auf einem umgestulpten Bottid ein Tonkrug. Links mehrere Personen. Im Hintergrund Turen und Hauser einer Stadt. Gegenstuck zum Vorigen
+- Links unten bezeichnet: J. A.Gryef.f. Bezeicnete Bilder desKnstlers in Basel,Cherbourg,Dijn,Lille,aris,
+- Petersburg,Prag Rouen und ShleiBheim.
+- 76 ihm zu FuBen erlegte Wildvogel, daneben Hund, Links Ausblick in Abendlandschaft. Leinwand24,5/17,5
+
+Die Zuschreibung des letzten Bildes ist nicht gesichert.
+
+## J.DE DENEL.
+
+Im 17. Jahrhundert in Antwerpen tatig.
+
+- 77
+- Obststilleben.Auf Tisch in buntem Durcheinander Apfel, Pfirsiche und Trauben. Dunkler Hintergrund Leinwand 37/29
+
+## PETER RYSBRACK.
+
+Geboren 1655 in Antwerpen, gestorben 1729 in Brussel.
+
+- 78 Landshaft mit Ruinen. Jenseits eines Weges das mit Moos und Gebusch bewachsene zerfallene Gemauer einer Burg. Auf dem Weg Reiter, Bettler und Vogelhandler. Links Ausblidk durch Torbogen in weite Landschaff. Dunkel bewolkter Himmel. Leinwand67/53,5 Rechts unten bezeichnet: R. Abbildung Tafel X
+- Von Rysbracks seltenen Werken erwahnen wir eine bezeichnete Lands schaft in Bambergeine unbezeichneteBerglandschaft mit Shlob inDresden, eine bezeichnete Gewitterlandschaft in Hamburg und eine grobe bezeichnete Landschaft in Pommersfelden,
+## VLAMISCHE SCHULE,17. Jahrhundert.
+
+- 79 Madonna und die heilige Katharina. Die unter Rosenbaum sitzende Madonna tragt gelbliches Kopftuch und blauen Mantel uber dem roten Gewand. Der nadkte Knabe auf ihrem Shob liegt auf weibem Linnen. Links die Halbfigur der herantretenden Katharina mit Perlen im blonden Haar. Leinwand 31/25,5
+
+## ITALIENISCHE SCHULE.
+
+## SIENESISCHE SCHULE.
+
+- 80 Madonna. Vor goldnem Hintergrund Maria in rotem Mantel uber dunklem Gewand mit dem Jesusknaben auf dem Arm. Zwei heranschwe= bende Engel setzen ihr eine Krone auf das vom Nimbus umstrahlte Haupt: Holz 40/33,5
+
+## BERNARDINO LUINI.
+
+- 81 Verganglidkeit. Auf rot gededtem Tish vor Blumenstrauf ein auf
+
+Shule des Luini. 1475 bis nadh 1530,Luini
+
+- Totenschadel gestutztes Kind beim Spiel mit Seifenblasen. Dunkler Hintergrund. Leinwand70/54
+
+## LEONARDO DA VINCI.
+
+- 82 Madonna mit Engeln. In der Bildmitte Maria in rotem faltigen Gewand, welhe den shlafenden Knaben auf ein Tuh lagern will, das ein Engelknabe hinbreitet. Hinter der Gruppe zwei weitere Engel. Dunkler Hintergrund. Holz105/74
+
+Shule des Leonardo da Vinci,Amboise,1452-1519.
+
+Abbildung Tafel XIlI
+
+## ITALIENISCHE SCHULE,16. Jahrhundert.
+
+- 83 Josef und Frau PotipharRehts auf Lagerstatt sitzend, die unbekleidete Gestalt der Verfuhrerin. Links in abwehrender Haltung Joseph, dessen roter Mantel ihm entgleitet. Dunkler Hintergrund. Leinwand 87/122
+
+## DANIELE DA VOLTERRA.
+
+- 84 Taufe Christi. Johannes in rotem Mantel tauft den links vor ihm
+
+Ricciarelli. Geboren 1509 in Volterra, gestorben 1566 in Rom.
+
+- stehenden Christus, hinter dem drei weitere Tauflinge. Rechts hinter Johannes zwei Engel. Holz33/39
+
+Auf der Ridseite alte Zeicbnungen.
+## TINTORETTO.
+
+Art des Jac.Robusti. 1518-1594 Venedig.
+
+- 85 Der gefesselte Prometheus.Unter Baumstamm liegend der sich in
+- wildem Schmerz windende, an den Felsen geschmiedete Prometheus. Wahrend eine ihn bedrohende Sdhlange unter rotem Tuch rechts hervor kriecht, fribt ihm der Geier die Leber aus dem Korper.Leinw.123/168
+
+## ANNIBALE CARRACCI
+
+Art des A.Carracci.1560-16C9 Bologna,Rom.
+
+- 86 Pieta. Am Fube des Kreuzes Maria in blauem Gewand und braunem Kopftuh mit dem Leichnam Christi, der auf weiBe Tuher gebetet ist. Neben ihr Maria Magdalena und ein Knabe. Leinwand 27,5/24
+
+## CARAVAGGIO.
+
+Art des Caravaggio. 1569-1609 Venedig.
+
+- 87 Verspottung Christi. Vor dunklem Hintergrund der gepeinigte Christus mit entbloBtem Oberkorper. Zu beiden Seiten je ein Kriegs= Leinwand 83/66
+- knedt in Rustung.
+
+## MASSIMO STANZIONI.
+
+Geboren 1585 in Neapel, gestorben 1656 daselbst.
+
+- 88 8 Kentaur und Nymphe. Aus dunklem Hintergrund hervor leuchtet das helle Inkarnat der von Lendentuh bekleideten Nymphe, welhe dem sie von rudkwarts umfassenden Kentaur nad rects zu entkommen sucht. Leinwand 156/115
+
+## GUIDO RENI.
+
+Art des Guido Reni. 1575-1642 Bologna.
+
+- 89 Susanna im Bade. Im Shatten einer Baumgruppe leuchtet der unbe= kleidete Korper der Badenden, die sich schutzend in ein rotes Mantelrud und ihre weiben Linnen zu hullen sucht. Hinter ihr beugen sidh uber ein Holzgelander die beiden sie belastigenden Alten in rotbraunen Ges wandern herab. Links im Hintergrund Palast. Leinwand 154/123
+- 90 Venus und Adonis. Auf den bis zur Brust sichtbaren Korpern des
+- Liepespaares liegt der Reflex des sie umgebenden olivgrunen Buschwerks.
+
+Ausschnitt.Leinwand 49/93
+
+## GUISEPPE DA RIBERA.
+
+Art des Ribera. 1588-1652 Valencia,Neapel.
+
+- 91 St. Paulus. Aus dem olivdunklen Hintergrund lost sid das leuhtend warme Inkarnat des halbrehts emporgeridteten Antlitzes. Die Recte liegt auf dem Kreuz des geschulterren Shwertes, auf dessen Klinge kuhle Glanzlichter blinken. Leinwand 81/60
+## SEBASTIANO RICCI.
+
+Geboren 1659 in Cividal di Belluno, gestorben 1734 in Venedig.
+
+- 92 Romish-Historische Szene. Links die siegreichen Feldherren in voller Rustung mit ihrem Gefolge. Von rechts kommend die Besiegten, welhe in unterwurfiger Haltung die Kriegstribute in Gestalt kostbarer Vasen und gefulter Beutel herbeischleppen. Leinwand auf Holz 50/63 Zushreibung auf Grund eines Gutachtens von Dr. Bechthold in Munchen,
+
+## LUCA SALTARELLO.
+
+Geboren 1610 in Genua, gestorben nad 1634 in Rom.
+
+- 93 Die Heilige Familie mit Johannes und dessen Eltern. Links in goldgeshnitztem Sessel Maria in gelblichem Kopftuh, rotem Gewand und grunem Mantel. Hinter ihr Josef. Der auf ihrem ShoB sitzende Christusknabe strebt nah dem kleinen Johannes rechts hin. Hinter diesem Elisabeth und Simon. Leinwand 34/42
+
+## CLAUDE LORRAIN.
+
+Art des Claude Gelée,1600-1682 Rom.
+
+- 94 Jesus und die Samariterin. Rehts an einem Brunnen vor Ruinen# arhitektur die beiden Gestalten in farbigen Faltengewandern. Links Blick auf weite, waldige Gebirgslandschaff. Leinwand 70/99
+- 95 5Flublandschaft mit Staffage. Am diesseitigen der beiden waldigen Ufer einige Landleute im Gesprad.Eine Hirtenfamilie treibt ihre Herde durch eine Furt. Am jenseitigen Ufer ein stattliches Shlob und bes waldete Bergkegelim Hintergrund.Wolkiger Abendhimmel.Lw.43/60
+
+## JACQUES BOURGUIGNON.
+
+Art des Bourguignon. 1621-1676 Rom.
+
+- 96 Reitershlaht. In erbitertem Nahkampf zwei turkishe und zwei osterreicishe Reiter in Harnisch, von denen der eine rechts bereits vom Pferd gesturzt ist. Im Hintergrund der Gruppe das weitere wilde Sclactgetummel, Leinwand53/64,5
+- 97
+- Shlachtenszene. Im Vordergrund wird eine Turkenabteilung mit Kanonen von Reitern, die von Anhohe herabsturmen,zusammengeritten. Rechts das tolle Durcheinander eines Handgemenges. Im Hintergrund eine Festung. Dusterer Wolkenhimmel. Leinwand 60/71
+- 98 Reitergefedht. Auf der Brudke uber dem Burggraben tobt der Kampf zwischen Belagerern und Belagerten. Im Hintergrund die Burg.
+
+Gegenstudk zum Vorigen
+## SIMONE CANTARINI
+
+- gen. I1 Pesarese. Geboren 1612 bei Pesaro, gestorben 1648 in Verona.
+- 99 Taufe Christi. Links auf Ufersteinen Johannes in rotem Gewand, der an dem im Wasser des Jordans stehenden Christus die Taufe vor= nimmt. Zwei sdwebende Engel rechts halten die Gewandtucher des Heilandes. Links zwei weitere Engel. Uber der Gruppe die Taube und Gottvater in Wolken, Holz, geschweif 35/35
+- 100 Ruhe auf der Fluht. In waldiger Landschaff lagert Maria in rotem Gewand und blauem Mantel. Auf dem Sdhobe halt sie das nadkte Kind. Rechts Josef. Kupfer 18,5/28
+
+## GIOV.PAOLO PANNINI.
+
+Art des Pannini.1695-1768 Rom,
+
+- 101 Ruinen in Landschaft. Auf einem Weg zwischen zerfallenen Saulen arhitekturen rastendes Kriegsvolk.Links an Laufbrunnen, der von Panfigur bekront wird, Wasserholerin mit Knaben und Hund. Im Hintergrund links Ausblidk auf Gebirgslandshaft in Abendbes leuchtung. Leinwand 98/73
+
+## ITALIENISCHE SCHULE,17.Jahrhundert.
+
+- 102 Cimon und Pera. Vor der dunkelbraunen Wand der Gefangniszelle sitzt Pera in rotem Gewand und braunem Mantel und reicht dem ges fesselten, bartigen Alten die Brust. Leinwand 99/74
+- 103 Mutter mit Kindern. Auf Lagerstatt sitzend die junge Mutter in rotem und blauem Gewand mit einem braunen Tuh uber den Knien Ein kleiner,nakter Knabe, der auf weibem Linnen auf dem Bett iegt, trinkt an ihrer Brust, wahrend ihm die beiden anderen vergnugt zu= Leinwand 67,5/93
+- 104
+- schauen.
+- Maria Magdalena. Vor dunkelbraunem Hintergrund die nur wenig bekleidete Halbfigur mit lang herabwallendem braunen Haar und auf= warts gerichtetem Blidk. Leinwand, oval 80/62
+
+## In holzgescbnitztem Rahmen.
+
+- Heilige Familie. Auf einem von dunkelrotem Tuth verdedkten Tish liegt der nackte Jesusknabemit Spruchband.Dahinter die Halbfiguren der dank bar gen Himmel blidkenden Maria in dunkelblauem Gewand und des Josef, der in einem Buche liest. Links im dunklen Hintergrund er Leinwand 46/60
+- 105 scheinen Engelskopfe.
+- 106
+- Maria mit dem Jesusknaben und drei Gespielen. Unter Baum= gruppe, die links einen Ausblidk auf eine Landschaft frei laBt,Maria in weibem Kopftudh mit dem nadkten Kind auf dem Sdob. Von redhts herantretend, der Johannesknabe, dem zwei weitere Gespielen folgen. Kupfer12,5/16
+## DIENSTAG,NACHMITTAGS 3UHR
+
+## HOLLANDISCHE SCHULE.
+
+## DIRCKVAN HAERLEM.
+
+Um 1500 in Haarlem tatig.
+
+- 107 Madonna. Vor goldgemustertem reliefierten Hintergrund die Halb figur der Madonna in grunem Gewand, auf welhes das mit Perl diadem geschmudkte Goldhar herabflieBt. Liebkosend an die Brust gedrudkt, tragt sie den unbekleideten Knaben. Holz17/12,5 Vorzuglih erhaltene Tafel eines hollandischen Zeitgenossen des Bouts, Geertgen und Ouwater. Nad Thieme=Bedker XV,440 war ein Dirdk
+- van Haerlem um 1612 ansheinend als Portratist im Haag &gt; tatig.
+
+## FREDERIK SUSTRIS.
+
+Geboren um 1520 in Amsterdam? Gestorben 1591 in Florenz.
+
+- 108 Verkundigung Mariae. An einem Gebetpult sitzt Maria in rosa= rotem Gewand und blauem Uberwurf und naht an einem weiben Tudh. Links in den Wolken uber der Stadt Gottvater und Gabriel.Kupfer 28/2Z Alte Zuschreibung aus dem 18. Jahrh. Vergl. weitere Bilder des Kunstlers, die ihm zugeschrieben werden, in Hannover (Hausmann), Munchen (in Depot&gt; und Prag &lt;Strahow).
+
+## ADRIAENVANNIEULANDT.
+
+Art des A.v.Nieulandt.1587-1658Antwerpen,Amsterdam.
+
+- 109 Bachanal. Links an zwei Fassern ein trunkener Bachant und ein zapfender Faun. Rehts alter Bacdhant mit Kelh, kosendes Paar und mit Ziegenbodk spielende Kinder. Weiter abseits vor herbstlich ge= farbtem Waldrand zahlreide Krieger, Bacchanten und Waldnymphen
+- bei frohlidem Gelage. Holz38/55
+
+## JAN PORCELLIS.
+
+Nachahmer des Jan Porcellis. 1585-1632 Gent,Leiden.
+
+- 110 Marine. Auf leidht bewegter See hat eine Korvette beigedreht. Rechts
+- in einem dem Lande zustrebenden Segelboot mehrere Shiffsoffiziere, Im Hintergrund zahlreiche kreuzende Segelkuter. Rechts am Horizont die Turme von Harlem. Am hohen Himmel shwere Wolkenballen. Holz 66/99
+## MONOGRAMMISTLB.
+
+- 111 FluBlandshaft. Am linken Ufer im Vordergrund Netzfisher mit Booten am Anlegeplatz eines Wirtshauses. Rechts am jenseitigen Ufer Stadtteil mit Kirce. Leiht bewolkter Himmel.
+
+Rechts unten monogrammiert:L B.
+
+Holz29/42
+
+Auf Grund der Bezeichnung LB fruher auh Ludolf Bakhuyzen zu geschrieben.
+
+## MEISTER S.M.P.1633.
+
+- 112 Musizierende Bettler. Auf Wiesenpfad die zerlumpten Gestalten des Bettlers mit StelzfuB und der alten Bettlerin mit ihren Musik instrumenten. Vor ihnen ein Hundden. In der Ferne unter sturmish bewolktem Himmel ein Dorf. Holz36/29
+
+Rechts unten bezeicbnet: S. M. P.Ao. 1633.
+
+- 113 Bettler und Dame. Neben einem zerlumpten Bettler mit Kruken und Stelzfub shreitet eine vornehm gekleidete Dame in tanzelndem Gang einher. Im Hintergrund Gewitterwolken uber Landschaf.
+
+Gegenstudk zum Vorigen
+
+Zwei interessante Arbeiten in der Art der A. P. van der Venne.
+
+Unser Maler durfte ebenfalls in Haag tatig gewesen sein.
+
+## PIETER NEEFFS.
+
+Art des P.Neeffs.15781650&lt;6?&gt;Antwerpen.
+
+- 114 Kirheninneres. Vor dem Hocaltar im Seitenschiff des Domes einige betende Priester. Im Halbdunkel des Vordergrundes einige andahtig Betende. Gedampft leuchten die SteinflieBen des FuBbodens vorne und stehen im Gegensatz zu dem helleren Hintergrund. Holz 45/37
+- Rechts unten Cspater9) bezeicbnet:Neefs. Erinnert auch an Arbeiten des Hendrik van Steenwydk, des Lehrers
+- von Pieter Neeff.
+
+## GUILLAM DUBOIS.
+
+1646 in der Haarlemer Gilde, gestorben 1680 daselbst.
+
+- 115 Landschaft mit Staffage. Auf dem hugeligen Feld im Vordergrund
+- geht ein Bauer in rotem Rod, dem ein Knecht mit dem pferdebespannten DungfaB folgt.Mittelgrund weites Flachlandmit Erhebungenam Horizont. Rechts unten bezeichnet: C. Dubois p. Leinwand38,5/40 Vergl. des Kunstlers Arbeiten in Aacen, Aschaffenburg, Braun shweig,Cassel,Den Haag, Oldenburg,Shwerin
+
+## HOLLANDISCHE SCHULE,17.Jahrhundert.
+
+- 116
+- Bildnis eines Gelehrten.Vor graubraunem Hintergrund die Halbfigur eines Gelehrten in Amtstracht. Grisaille=Malerei,Leinwand 30/25
+## WILLEM DE POORTER.
+
+Art des Willem de Poorter. Nah 1645 in Wydk tatig.
+
+- 117 Daniel entlarvt die Baalspriester. Im Dunkel des Tempels steht
+- hellbeleuchtet die Gruppe des Konigspaares mit Gefolge und Daniel vor dem Gotzen. Im Hintergrund die Baalspriester. Leinwand 58/80
+
+## LEONARD BRAMER.
+
+Geboren 1595 in Delft, gestorben 1674 daselbst.
+
+- 118 Die Wachtstube. An einem Tisch links sitzen vier kartenspielende und rauhende Soldaten. Durch eine Tur rechts blidkt man in einen zweiten Raum. Links vorne Harnishe, Trommeln und Standarten.
+- Unter der Bank vorne voll bezeicbnet. Holz, quer oval 35/48
+- Die Taufe des Kammerers aus dem Mohrenland. An einem
+- 119 seichten Bach der knieende Kammerer in weibem goldbestidkten Ge= wand mit seinen Begleitern, Vor ihm der alte Philippus in dunkel blauem Gewand und braunem Uberwurf, den heiligen Akt der Taufe vollziehend. Dustrer Himmel uber dunkler Landschaft im Hintere grund, Holz24,5/20
+
+## HOLLANDISCHER MARINEMALER.
+
+Anfang des 17. Jahrhunderts.
+
+- 120 Kriegsschiffe an der Kuste. Auf dem leicht bewegten Wasser der Bucht zahlreiche, stark bemannte und beflaggte Fregatten. Im Vorder grund die Insassen zweier Boote bei einer Walfischjagd. Redts am
+- Fube steiler Felsen mehrere Hutten. Leinwand32/42
+
+## UNBEKANNTER MEISTER.
+
+Niederlandisher Meister in Italien. 17. Jahrhundert.
+
+- 121 Gebirgslandschaft.An einem Bach, durh den ein Mann auf Esel reitet, sitzt ein Angler. Vor einer Turmruine auf Bergeshohe ein Scafer .mit Herde. Bewolkter Himmel. Holz21/23
+
+## EVERTVAN AELST.
+
+- 122 Tote Vogel. Vor dunkelbrauner Wand hangen zwei Rebhuhner. Lebhaf leuchtet das Braun,Weib und Grau der Bauch und Brustfedern. AbbildungTafel IX. Leinwand59/50
+
+Geboren 1602 in Delft, gestorben 1657 in Amsterdam.
+
+Nach Mitteilungen in der Alt -Hollandischen Literatur hat v. Aelst Stilleben,meist toteVogelGerate von Gold und Silber und au Waffen gemalt. Mit Vorliebe Rebhuhner, an einem Nagel hangend, auf lichtem Grund. Doh sind bisher Bilder von ihm mit Sicherheit noc nicht nahgewiesen worden,
+- 123
+
+## HOLLANDISCHE SCHULE,17.Jahrhundert.
+
+- Obststilleben. Auf Tisch allerlei Gemuse und Fruhte, wie Kasta nien,Apfel und Trauben.Uber dem gefullten Korb links ein Shmetter Kupfer 17/22 ling. Graugruner Hintergrund.
+
+## PIETER CLAESZVAN HAARLEM.
+
+Geboren um 1590 in Burgsteinfurt, gestorben 1661 in Haarlem.
+
+- 124 Stilleben. Aus dem warmen Oliv leuchtet das Weib eines lodker hingeworfenen Tishtuches. Goldene und silbrige Glanzlichter liegen auf dem halbgefullten Romer, den Zinntellern und dem getriebenen Edelmetall der kostbaren Tischgerate redts. Mehr im Hintergrund ein schlanker Pokal. Links die lebhaf leuchtende,lahsfarbene Schnitt Holz78/60
+
+Abbildung Tafel IX
+
+- face eines Schinkens.
+
+Auf mehreren Stilleben des Kunstlers in offentlichen Galerien, z. B. Amsterdam, Berlin finden wir die gleide gebudkelte und getriebene Aufsatzschale, das kleine Kannchen, sowie den breiten Romer und den uber den vorderen Tischrand uberstehenden Zinnteller mit Messer oder dergl. wieder. Die duinne lichte Malweise, der kuhle graubraune
+
+Gesamtton sprechen des weiteren fur Pieter Claesz.
+
+## JACOB GERRITSZ CUyP.
+
+Geboren 1594 in Dordredt, gestorben 1651 daselbst.
+
+- Bildnis eines jungen Madhens. Brustbild vor grauem Hintergrund. Uber das shwarze goldgestidkte Gewand fallt ein reicher Spitzenkragen, dessen mattes Leuchten zum frischen, lebenswarmen Inkarnat des ovalen Gesichtes uberfuhrt. Die sanftblickenden groben Augen sind dunkel grauDas blonde, shliht zurudkgekammte Haar ist mit einem Perlen Holz59,5/52
+
+Abbildung TafelI Links bezeicbnet:Aetatis 19.12.Ao.1636.
+
+J.G.cuyp.fecit.
+
+Versteigerung Amsterdam 19o9 (A6bild.im Kat.v Fred.Muller).
+
+Sympathisches Bildnis des Kunstlers, charakteristisch durch die feine Lasurbehandlung im Inkarnat, die lichtgrauen Schattenpartien und die breite und doch durchsichtige Pinselfuhrung in den Spitzenpartien des Gewandes.Vergl des Kunstiers Frauenbildnisse in Amsterdam,Berlin,
+
+Budapest, Metz,Rotterdam und Wien
+
+- 125 kamm geziert.
+## JAN VAN GOYEN.
+
+Geboren 1596 in Leiden, gestorben 1656 im Haag.
+
+- 126 Segelkutter vor der Kuste. Auf leidt bewegtem Wasser ein nad rechts gleitendes Fiscerboot mit einigen Insassen. Links schwach an= gedeutete Kuste. Rechts im Hintergrund ein zweiter Kutter. Graue Regenstimmung. Holz20/16,5
+
+Amsterdam.
+
+An der Sdifswand bezeicbnet: v.G.1632. Abbildung Tafel X Charakteristishe Arbeit aus der zweiten Periode, der Zeit des weichen, dufigen, gelbbraunen Gesamttons, dem sich die Lokalfarbe aud der leidt und ungemein sicer gezeichneten Staffage unterordnet.  Die Naturstimmung ist auBerst scharf beobachtet. Solche Arbeiten in Dresden(1633&gt;, ein Strand von Sheveningen &lt;1632&gt; bei Thieme= Leipzig,Landshaften in Braunschweig &lt;1635),Augsburg(1636) und
+
+## ROELAND ROGHMAN.
+
+- 127 Landshaft mit Felshangen. Auf dem Weg, der uber einen Steg nah den Hausern im Hintergrunde links fuhrt, entfernt sich ein Mann mit Hund.Rechts schroffe, zerkluftete Felsen, deren erdiges Braun von einigen zerzausten Wettertannen belebt wird. Im Dunkel einer Shluht Wasserfall. Links Ausblick in Fladlandshaft.Leiht be=
+
+Geboren 1597in Amsterdam, gestorben 1686 daselbst.
+
+- wolkter Himmel. Holz 40,5/53
+
+Roghmans Landschaften tragen in der Regel einen etwas melancholischen Charakter. Sie stellen felsige Alpengegenden, aber auch sudliche Szenerien vor. Seine Bilder gehen oft unter Rembrandts Namen. Landshafen in Amsterdam, Berlin, Cassel, Kopenhagen, Oldenburg,
+
+Paris,Petersburg, Wien.
+
+## AERT VAN DER NEER.
+
+- 128 8 Mondnaht an der Kuste. Auf dem stillen Wasser, in dem sich der aus dunklem Gewolk hervorbrechendeVollmond wiederspiegelt,mehrere Segelboote mit Insassen. Rechts das Ufer mit steil abfallenden Felsen. Rechts unten das bekannte Monogramm: A. V.D.N. Holz 24,5/28 Abbildung Tafel XI
+
+Geboren um 1603 in Amsterdam, gestorben 1677 daselbst.
+
+Mit dem bekannten Monogramm wie auf unserm Bilde bezeidnete Mondscheinlandshaften finden sich in fast allen groben offentlichen Galerien. In Hofstede de Groots kritischem Verzeicnis ist unser Bild nicht erwahnt.
+
+Abbildung Tafel Vill
+## AERT VAN DER NEER.
+
+Nadhahmer des A.v. d.Neer.1603-1677 Amsterdam.
+
+- 129 Nachtliche FluBlandschaft. Auf dem Ufer im Vordergrund links Baume und Busche, durh die der Mond sheint. Rehts zwei Manner in einem Kahn. Am jenseitigen Ufer mehrere Personen an einem hellauflodernden Feuer. Auf den Felsen, die steil zum FluBhen ab= fallen, heben sich shwah die Hauser einer Stadt vom Nacht= Holz29/39 himmel ab.
+
+## JAN MIENSE MOLENAER.
+
+Geboren 1605 in Haarlem, gestorben 1668 daselbst.
+
+- 130 Dorfschule. In Scheunentenne zahlreiche Knaben und Madhen in braunen, blauen und roten Gewandern auf Banken sitzend. Rects auf dem Katheder der Lehrer im Gesprach mit einem Knaben. Im Hinter= Holz31/41 Abbildung Tafel VI Flotte, harakteristische Arbeit aus der Mitte der 50er Jahre. Vergl. hierzu die Arbeiten des Kunstlers in Berlin, Frankfurt a.M.,Haarlem,
+- grund Wand und Gebalk der Sheune. Rechts unten bezeicbnet:J.Molenaer. Kopenhagen und Stodkholm.
+
+## ADRIAEN VAN OSTADE.
+
+Art des A. v.Ostade.1610-1685 Haarlem.
+
+- 131 Singende Bauern. In dammerigem Interieur drei singende Bauern in rotem, weibem und braunem Rodk, auf Stuhlen sitzend. Links vor dem Kamin eine Frau mit ihrem Kind auf dem Sdob und zwei Manner. Rechts ein alterer Bauer in grauem Rodk und Hut. Holz 17/23
+- Musizierende Bauern. An primitivem Tisch Geigenspieler in hohem Hut und singende Bauerin. Zwischen beiden stehend ein Floten# Holz, oval 23/31
+- 132 spieler.
+
+Rechts auf Faβ bezeicbnet: A.R.M.1648.
+
+- 133 Bauernszene. An Tisch eine Bauerin mit erhobenem Weinglas und ein Flotenspieler,neben dem ein Kind steht. Im braunlichen Hintergrund Gegenstudk zum Vorigen
+- ein dritter Bauer.
+
+Bezeicbnet:A.R.M.
+
+Zwei flotte Genrestudke in Ostades Manier, doc derber wie dieser.
+
+## MEISTER R.V.,um 1650.
+
+- 134 Bauernszene. In dunklem Interieur an einem Tish eine Frau in weibem Hemd und dunklem Rodk und zwei Bauern in dunklen Ge= Holz 47/38 wandern. Links ein Mann mit Kerze.
+
+Rechts unten bezeicbnet: R. V.
+
+In der Art des Cornelis Bega oder des Jan Miense Molenaer.
+## CORNELIS DECKER.
+
+1643 in der Gilde von Haarlem, gestorben 1678 daselbst.
+
+- 135 Waldlandshaft. Aus dichtem Eichendickicht hervor trit das Bett eines ruhig dahinflieBenden Wassers, dem von links der Wasserfall eines munteren Badhes zurauscht. Ein Mann mit roter Kopfbededkung ist am Ufer beschafigt.Rechts Waldkulisse. Leidt bewolkter Sommer= himmel uber weiter Flahlandschaft links. Holz 61/85
+
+Abbildung Tafei VI
+
+Zushreibung von Karl Lilienfeld, die auf Grund ganz ahnlicher Ar= beiten des Kunstlers in AugsburgDarmstadt,Frankfurt,Hamburg Hannover (Hausmann), Munhen, Paris und Petersburg durchaus gerechtfertigt erscheint.
+
+## JAN BOTH.
+
+Art des Jan Both.1610-1652 Utredht.
+
+- 136 Italienishe Landschaft mit Staffage. Auf Weg des Vordergrundes
+- Frau in rotem Rodk auf Shimmel und Junge in blauem Kittel. Am Wegrand ruhender Mann. Uber einen breiten Flub Blidk auf das hugelige und bewaldete jenseitige Ufer mit Hauserkomplexen. Be= wolkter Himmel. Leinwand 86/112
+- 137 FluBlandschaft. In der Bildmite Langsblick auf das FluBtal. Auf beiden hugeligen Ufern Ruinenarchitekturen. Rehts auf Weg vor grobem Baum Spaziergangergruppe in Unterhaltung. Holz 62/89
+
+## P. J.HEyER
+
+Im 17. Jahrhundert tatig.
+
+- 138 Die Furt. Im Vordergrunde einer weiten italienishen Landschaft mit
+- Bergzugen in der Ferne und Felskulissen rehts durchschreitet eine Kuh und Shafherde,von zwei Hirtinnen getrieben, eine Furt,neben der rehts im Vordergrunde ein Shaferpaar mit Hund sich aufhalt. Leinwand 125/153
+
+## JANFYT.
+
+- 139 Zwei tote Vogel auf grauer Tischplatte neben einem Tintenfab gegen weiten nachtlicen Himmel. Leinwand 37/50
+
+Geboren 1611 in Antwerpen, gestorben 1661 daselbst.
+
+- 140 Tote Taube, auf dem Boden und auf dem Rudken liegend, gegen einen dunklen Hintergrund. Leinwand 50/60
+
+## HENDRIK MARTENSZ SORGH.
+
+- 141 Bei der Arbeit. Im Hof an einem zugededkten Brunnen eine Magd beim Fabreinigen. Um sih herum Kruge, Shusseln, Gemuse und Federvieh. Bewolkter Sommerhimmel. Holz34/47
+
+Art des H.M. Sorgh. 16111670 Rotterdam.
+## LAURENCE NETER.
+
+Holland. Shule. Geboren in Danzig, um 163538 in Holland tatig.
+
+- 142 Wachtstube. Das durh die Tur links hereinflutende Liht beleuchtet eine bunte Soldateska in ihren farbenreicen Uniformen. Ein vor nehmer Offizier, im hellen Lidt unter der Tur,folgt ebenso wie die ubrigen Soldaten, die sid im dammerigen Hintergrund befinden, ge spannt dem Kartenspiel zweier Soldaten rechts. Holz28,5/43 Links unten bezeicbnet: Netter. Abbildung TafelV
+
+Nur wenige Bilder sind von Neter, der in der Art des Palamedes malte, bekannt: Eine undeutlic bezeichnete Wachtstube in der Kollektion Shoenlank in Berlin, eine voll bezeichnete und 1635 datierte Gesell# shaft tanzender und musizierender Herren und Damen in der Kol lektion V. de Stuers im Haag, ein bezeichnetes und 1638 datiertes
+
+Genrebild 《Kartenspielender Offizier und Dame》 in Stodkholm.
+
+## GABRIEL METSU.
+
+Geboren 1615 in Leiden, gestorben 1667 in Amsterdam.
+
+- 143 Bildnis eines jungen Mannes, Unter federgeschmudktem Pelzbarett leuhtet das Inkarnat des von langen dunklen Loden umrahmten Mannergesichtes hervor. Uber dem blauen Gewand, das von weiBem Spitzenragenbgeslossenwidinraunereitli geshlitzterMan Dunkler Hintergrund. Holz 17,5/14
+
+## GOVERT FLINK.
+
+Art des Gov.Flindk.1615-1660 Amsterdam.
+
+- 144 Bildnis Rembrandts). Halb links gewandt. Die eine Gesidtshalfe
+- ist von rehts her hell belictet, die andere dunkel gehalten. Barett und Gewand, aus dem ein gelblich gemustertes Halstuh hervorsieht, sind Holz57/45 schwarz=grun. Gelbgrauer Hintergrund.
+
+Links bezeichnet:R 1635.
+
+Erinnert an ein mannliches Bildnis mit Federhut des Govert Flink von 1636, das 1875 in der Kollektion R. Bergau in Nurnberg war.
+
+## PHILIPS WOUWERMANS.
+
+AIte Kopie nadh Wouwermans. 1619-1668 Haarlem.
+
+- 145 Auf der Landstrabe,die an Sumpf vorbeifuhrt, ein Kavalier und Dame zu Pferde, von zwei Hunden begleitet. Am Rand der Strabe Bettler mit Weib und Kind. Rechts offenes Land mit Feldern und Gehoften und Holz38/32 niedrigem Hohenzug im Hintergrund.
+
+Links unten bezeichnet: Ph. W.
+
+Dasselbe Bild ist bei Smith, Cat.rais I, S.272 Nr.259 beshrieben
+## ISAAC KOEDYCK.
+
+Geboren 1616 in Leiden, gestorben nah 1676 in Amsterdam.
+
+- 146 Hollandishes Innenleben. Links auf Bank Kavalier in goldfarbenem
+- Rodk mit breitem Spitzenkragen, den reid mit bunten Strauffedern ge schmuckten Hut auf dem Shob. Rehts steht die Dame des Hauses in shwarzer Jademit Haubhen,weiBer Shurze und roten Pantoffeln.Neben ihr das Kind in Laufstuhl. Auf dem rotgededkten Tisd Degen und Hand schuhe des Mannes. Leinwand 86/115
+
+Redts unten falscb) bezeicbnet:Nicbolas Maas. A 1632 Dei.
+
+AbbildungTafel V
+
+Zuschreibung an Koedydk nicht gesichert. Das Bild stammt aus der vor= zuglihen Shulnahfolge des Pieter de HoodCorn. de Man,Bourse, Pieter v. d. Bosch, der in seinen spateren Genrebildern mit Maas ver= wandt ist). Zusammenhange bestehen mit dem Berliner Bild Nr.819b Hood,das fruher auf Grund einer unehten Signatur Nic.Maas zuge= shrieben war (!,und 1879 in Paris erworben wurde. Auh unser Bild ist nah Frankreich zu verfolgen.
+
+## OTTO MARSEUS VAN SCHRIECK.
+
+Geboren 1619 in Nimwegen, gestorben 1678 in Amsterdam.
+
+- 147 Krauter mit Getier. Vor dunkelbrauner Felswand Shmeterlinge, Eidechse, Ringelnattern und Schnedken an dunkel und olivgrunen, bluhenden Pflanzen. Holz45/32
+- Insekten und Weichtiere an einer Distel. Am Fube der Pflanze eine sich tot stellende Krote mit rotem Bauh. Zwischen und auf den stachligen Blattern der rotlich bluhenden Pflanze einige Schmetterlinge, Gegenstudk zum Vorigen Zwei charakteristisce Arbeiten des Malers der Weichtiere und Insekten. Vergl.dessenWerkein Amsterdam,Augsburg,Berlin,Dresden,Haag
+- 148 Ringelnattern und anderes Getier. Shleibheim (die grobe Distel!&gt; etc.
+
+## FRANS VERWILT.
+
+Geb. um 1620 in Rotterdam, gest.1691 daselbst.
+
+- 149 Arkadisce Landschaf. In geraumiger Felsenhohle mehrere nadkte Frauengestalten. Links Saulenuberreste und Statue. Rechts im Hintergrund Ausblick auf Berglandschaft.
+
+Recbts unten bezeicbnet: F.Verwilt.
+
+Andere Landschaften Verwilts mit Staffage in Poelenburghs Manier in Kopenhagen,London, Mainz, Wien (Czernin).
+
+Holz 59/83
+## WILLEM KALFF.
+
+- 150 Stilleben.Trink und Prunkgerate, in der Mitte Kettenflashe, daneben zwei goldene Kannen in getriebener Arbeit auf einem Tish. Rechts Prunkshale mit Wappenschild. Links Teller mit Oliven, WeiBbrot, Delfter Sussel,Venezianishes Glas, Zinnteller, darauf eine geoffnete Tashenuhr mit blauem Band. Uber rot gepolsterten Shemel des Vordergrundes falt eine weibe Serviette. Leinwand 115/86,5 Recbts unten bezeichnet: W.Kalf. 1643. Abbildung Tafel II In der Jahreszahl 1643 ist das fruheste von Bildern des Kunstlers be= kannte Entstehungsdatum gegeben. Wahl und Behandlung der darge= sellten Gegenstande entsprechen einer mit Vorliebe in der Shule des Frans Hals in Haarlem, so u. a. von Frans Hals d. J. und Pieter. Roestraeten gepflegten Geschmacksrichtung, fur deren Ubertragung auf Kalff der Umstand mabgebend gewesen sein durfte, dab auh sein Lehrer,Hendrik Pot,unter Hals EinfuB stand.Dieselben oder ahnlihe Gerate auf einem 1643 datierten Bild ehemals bei Klein-Hof,Frank= furt, einem zweiten in Rouen (Nr. 301&gt; und einem dritten bei James Simon, Berlin. Mehrfah in der Literatur erwahnt.
+
+Geboren 1621 in Amsterdam,gestorben 1693 daselbst.
+
+## KAREL DUJARDIN.
+
+- 151 Vieh in Landschaft. Durh einen Bah vor dunklen Felsen treibt eine Hirtin ihre Ziegen und Shafe. Links neben ihr auf Maulesel ein Hirte mit braunrotem Rock und breitem Shlapphut. Rechts Ausblidk in Berglandshaf.Leiht bewolkter Sommerhimmel.Leinwand 48,5/43 Vergl.des Kunstlers Bilder in Amsterdam,Brussel,Hannover, Cassel,
+
+Geb. um 1622 in Amsterdam, gest. 1678 in Venedig.
+
+- Berlin, Dresden,London.
+
+## JACOB VAN RUISDAEL.
+
+Art des J. v.Ruisdael, 1628-1682 Haarlem.
+
+- 152 Waldlandshaft. Auf Weg unter knorrigen Baumen ein Reiter mit
+- Hunden auf dem Boden neben seinem Pferd sitzend. Rechts jenseits eines Baches waldige Hugellandschaft. Duster bewolkter, gelbl. Himmel. Links unten bezeichnet:J.Ruysdaels.F.1674. Holz58/50
+
+## ADRIAEN H.VERBOOM.
+
+Geboren 1628 in Rotterdam, gestorben 1670.
+
+- 153 Jager in Landshaf. Auf Waldweg des Vordergrundes zwei Reiter
+- und Jager mit der Meute. Rechts und links Waldkulisse. In Bildmitte Blidk auf Hauser am Wasser und bergiges Gelande. Leinwand 62/84
+## NICOLAES MAES.
+
+Art des Nic.Maes. 1632-1693 Amsterdam.
+
+- 154 Vor dem Kamin. In schwac erhelltem Interieur eine Frau in braunem Gewand, weibem Haubchen und roter Bluse an einem Spinn rad. Redhts neben ihr ein Mann.Auf dem Boden sitzend, spielt ein Madchen. Leinwand 62/52
+
+## WILLEM VAN DEVELDE.
+
+Geboren 1633 in Amsterdam, gestorben 1707 in Greenwid.
+
+- 155 Marine. Auf bewegter Seeflache, die teilweise von schweren Ge= witterwolken verdunkelt wird, links ein Segelkutter. Rechts schaukelt eine bemannte Jolle. Im Hintergrund weitere grobere und kleinere Holz 32/34,5
+- Segelfahrzeuge.
+
+## FREDERIK DE MOUCHERON.
+
+Geboren 1633 in Emden, gestorben 1686 in Amsterdam.
+
+- 156 Italienische Flublandshaff.Im Vordergrund Uferweg mit Eseltreiber und anderen Landleuten. Jenseits des Flubes, uber den eine Fahre fuhrt, baumbewahsenes Ufer und Hauser. In den dufig rotlichen Leinwand28/35,5
+- Himmel ragen am Horizont schroffe Berge. Recbts unten bezeicbnet: Fred.Moucheron fec.
+
+Moucheron lieb sich seine Bilder gewohnlich von anderen Malern, wie Berchem, A.v.d. Velde,Lingelbach und in Frankreidh von
+
+- Theodor Helmbreker staffieren.
+
+## MEINDERT HOBBEMA.
+
+Art des Meindert Hobbema. 1638-1709 Amsterdam.
+
+- 157 Wassermuhle in Landshaft. Links unter dunkler Baumgruppe die Muhlengebaude. Auf dem ruhigen Badh des Vordergrundes mehrere Fischer bei der Arbeit. Links am Ufer auf Wildenten schieBende
+- Jager. Rechts Ausblick auf Flahlandshaft.
+
+Links unten (falscb) bezeicbnet:M.Hobbema. Leinwand 54,5/78
+
+## CASPAR NETSCHER.
+
+Art des Caspar Netsher.1639-1684 Heidelberg, den Haag.
+
+- 158 Galante Szene. Aus dem Halbdunkel des weiten Raumes, dessen linke Wand von einigen hohen Fenstern durhbrocen wird, treten die beleuchteten Gestalten lebhaf hervor. Die links am Tisch sitzende Dame tragt ein blaugelbgestreiftes Ubergewand uber ihrer dunklen Kleidung. Der sidh ihr kosend nahernde Edelmann tragt shwarzes, federgeschmudktes Barett und braunes Shlitzgewand.Leinw.51/40,5
+## PIETER WOUWERMAN.
+
+Geboren 1633 in Haarlem, gestorben 1682 in Amsterdam.
+
+- 159 Begegnung. Auf Dunenanhohe haltender vornehmer Shimmereiter im Gesprad mit einem Fischerpaar. Links Ausblick auf das Meer.
+
+Rechts unten Monogramm: P.W.1663.
+
+- Holz20/25
+
+## JAN VAN DER HEYDEN.
+
+Geboren 1637 in Gorkum, gestorben 1712 in Amsterdam.
+
+- 160 Gracht in Delft. Links statliche Hauserfronten der Uferbauten, die im Hintergrund von einer Kirche uberragt werden. Auf der sonnigen Strabe zahlreihe Passanten. In der Bildmitte sich begrubende vornehme Familien. Redhts am Kanalufer shafft ein Mann Waren aus seinem Kahn. Holz28,5/34
+
+Staffage von Adriaen van de Velde. Links unten bezeicbnet: J.v.Heyden.
+
+Abbildung Tafel VIl
+
+- 161 ShloB Toorenburg bei Delf. In der ruhigen Wasserflace des Vor= dergrundes,auf der einige Fischernachen fahren, spiegeln sih die rt lichen Umfassungsmauern, das sonnige Turmpaar und die anderen Baulichkeiten des Shlosses. Im' Hintergrunde rechts der Turm der Kathedrale von Delf. Wolkiger Sommerhimmel. Leinwand 37/37,5 Rechts unten monogrammiert: J. V. H.1678. Abbildung Tafel VII Zwei charakteristische Arbeiten des Malers von Stadteansichten, dessen Hauptwerke sich in den Museen von Amsterdam, Cassel, Dresden, Haag, London, Munhen,Paris,Petersburg und Swerin beinden
+
+## ABRAHAM STEENWYCK.
+
+Geboren um 1640 in Breda(&gt;, gestorben 1698 in Haag.
+
+- 162 Stilleben. Auf Marmorkonsole zwei Muscheln und eine Taschenuhr. Paradiesvogel. Dunkler Hintergrund.
+- An der Wand uber einer Gipsplakette ein mit Schleifen befestigter Leinwand59/49 Auf einem Zettel der Rudkseite: Nic. Steenwydk jun. aus Breda Der Vorname Nicolaes geht auf Weyerman zurudk, der den Abraham Steenwydk N. Steenwyk"nannte, woraus spater Nicolaes wurde.
+
+## JACOB TOORENVLIET.
+
+Geboren 1641 in Leiden, gestorben 1719 daselbst.
+
+- 163 Ganzfigur eines jungen Mannes. Auf Terrasse mit durh kaminfarbener Portiere halbverdeckter Saulenarchitektur. Das kostbare Ge wand ist braunlich und reich mit Shleifen verziert. Rechts Ausblidk Leinwand 40/30 auf Park.
+
+Rechts unten bezeicbnet:J. Torenvliet.
+
+Vergl. die Portrats des Kunstlers in Amsterdam, Braunschweig Dresden, Gotha.
+## DANIEL MYTENS.
+
+Geboren 1644im Haag, gestorben 1688 daselbst.
+
+- 164 Bildnis einer Tochter des Fursten Friedrid Heinrih von Oranien. Vor dunkel gehaltenem landschaftlicen Hintergrund die sitzende Prinzessin. Das tiefausgeschnittene ockerfarben und rote Kleid tragt reichen Edelsteinschmudk. Kostbare Perlen zieren den Hals und die shwarze Lokenfrisur, welde das frishe Gesicht umrahmt.
+
+Leinwand 102/73
+
+Von Daniel Mytens sind vorwiegend mythologische Darstellungen bekannt, jedoh auh Portrats wie Herrenportrat von 1680 in Stockholm und das Portrat der Grafin von Styrum als Diana mit einem Hunde.
+
+## EGBERT VAN HEEMSKERK.
+
+Geboren 1645 in Haarlem,gestorben 1744 in London.
+
+- 165 Sanho Pansa wird im Hofe der Shenke geprellt. (Ill. Buh 3.Kap. Neun mutwillige Gaste des Wirtes, dem Sanho die Zeche schuldig geblieben ist,lassen den saumigen Zahler im Hof der Herberge in einem Tuhe auf= und abschnellen.Don Quichote auberhalb des Hofzaunes sieht mit ohnmachtigem Shelten zu, weitere Zushauer des Vorganges rechts. Links die Magd Maritorne, im Mitgefuhl die Hande ringend,und der Wirt, der Sanhos Schnappsadk von seinem Esel abschnallt, um ihn als Pfand zu behalten. Leinw.69/85 Rechts an der Bank bezeicbnet: H. K. Abbildung Tafel III
+- 166 Don Quihotes Abenteuer mit den Galeren=Sklaven. (Ill. Buh 8.Kap. Die von Don Quichote aus ihren Fesseln befreiten Ruder= knechte rucken, gefuhrt von Gines, den er durch seine unverstandigen Reden gereizt hat,ihm zu Leibe,um ihn mit Steinen zu bewerfen.Der irrende Rirter erwartet auf der Rozinante mit der Lanze in der Hand ihren Angriff indes sih hinter ihm Sanho Pansa, von seinem Esel gededkt, zu Boden kauert. Rehts zwei Straflinge. Links der von Don Quichote verwundete Fuhrer der Eskorte am Boden, der von drei Ge= fangenen ausgeplundert wird.Links FluB, im Hintergrunde bewaldete Hohenzuge. Leinwand 68/84
+
+Abbildung Tafel III
+
+Gegenstudk zum Vorigen.
+
+Nr. 165 ist mit dem bekannten Monogramm Heemskerks bezeichnet, das auh dessen Kneipende Soldaten und Trinkende Bauern in Dresden, zwei Bauernszenen in Kopenhagen und zwei Bauernstuben im Louvre (samtlih Gegenstudke&gt; zeigen. Beide Bilder sind in der Literatur be= kannt und mehrfach erwahnt.
+- 168
+
+## EGBERT VAN HEEMSKERK.
+
+- 167 Zedende Bauern. An einem Wirtshaustish einige trunkene Bauern, die sih tolpelhaft zwei Frauen zu nahern suchen. Ein durh die Tur
+
+Geboren 1645 in Haarlem, gestorben 1744 in London.
+
+- Hinzutretender beobachtet verschmitzt die plumpen Liebesszenen.
+
+Holz27/38,5
+
+Rechts monogrammiert: H K.
+
+AuBer dem einwandfreien bekannten Monogramm des Kunstlers findet sidh an der Tishplatte die volle, aber spater aufgesetzte Bezeichnung: Heemskerk.
+
+## MICHIEL CARRE.
+
+Geboren 1657 im Haag, gestorben 1747 in Alkmaar.
+
+Carre war Shuler Nic.Berchems, in dessen Manier seine bekannten Landschaften mit Tierstaffage gemalt sind. Eine ebenfalls 1685 datierte Landschaft in Rotterdam,andere bezeichnete Arbeiten in Basel Koll. Weil&gt;, SdleiBheim, Stodkholm, Wien Akademie), Braunshweig etc.
+
+- Vieh in Landschaft. Vor dunkler zerzauster Baumgruppe Kuhe,ein bepadkter Esel, Safe und Ziege, durh einen Bergbah watend.Nebn ihnen eine Frau in blauem und weibem Gewand. Links im Hinter= grund eine weitere Herde. Bewolkter Sommerhimmel. Leinwand 56/48 Links unten bezeicbnet: M.Carree 1685.
+
+## CHRISTOPHLUBIENITZKY.
+
+Geboren 1660 in Stettin, gestorben 1728 in Amsterdam.
+
+- 169 Lustige Gesellschaft. In Interieur zahlreice Personen um mehrere Tische gruppiert beim Spiel.Links einmahtiger Kamin,rechts einAikoven Auf dem Faf mit Monogramm bezeicbnet. Holz38/50
+
+L.war in Amsterdam Shuler des A. Bader und des G. de Lairesse. Er malte vorwiegend Portrats, von denen in Amsterdam allein funf, in Kopenhagen drei zu finden sind. In Krakau ist eine Tischgesell shaft von 1720.
+
+## ALEXANDER VAN GAELEN.
+
+Geboren 1670 in Amsterdam, gestorben 1728(?).
+
+- 170 Landschaft mit Staffage. Im Vordergrund links neben einer am FuBe eines Baumes sitzenden Frau ein Mann neben seinem Schimmel. Redhts jenseits eines Bahes, in dem ein Reiter sein Tier trankt, Hauser und andere Personen. Wolkiger Abendhimmel. Leinwand 32/39
+- 171
+- Reiter vor der Schenke. Neben einem trinkenden Reiter auf Shimmel der Wirt in rotem Rodk. Links die Shenke. Rehts ein weiterer Reiter mit einem Kind. In der Ferne weite FluBlandshaft. Bewolkter Himmel.
+
+Gegenstuck zum Vorigen
+## DANIEL DE BONDT.
+
+1671 in der Gilde zu Leiden erwahnt, mit dem Bemerken: Woont in Englant.
+
+- 172 Shafe in Landshaft. In warmem abendlicen Dammerlicht sitzt am FuBe einer verkruppelten Weide die Hirtin mit ihrem Sohnchen. Vor ihr die kleine Herde und der geschedkte Hund. In der Ferne massige Holz 36,5/32,5
+
+Links unten monogrammiert: B.D.1662.
+
+- Bergzuge,
+
+De Bondt malte Landshaften in der Art des Berchem. Eine ahnlich bezeicnete und 1661 datierte Landshaft mit Vieh in Oldenburg. Mit dem vollen Namen signierte Arbeiten in Leiden (Gegenstudke und 1895 in der Versteigerung H.Houdk in Amsterdam. Das Haupt werk des Kunstlers,Reisegesellshaft in italienischer Landschafin Emden
+
+## DIRK VAN VALKENBURG.
+
+Geboren 1675 in Amsterdam, gestorben 1721 daselbst.
+
+- 173 Jagdbeute. Vor einer Mauernische ist ein toter Hase an einem Haken derart aufgehangt, dab der Korper auf der Gesimsplatte der Nische aufruht.Unter ihm Vogelnetz,totes Geflugel,Star und Shnepfe.Vorne links Lodkpfeife und Olivenzweig. Leinwand 87/74 Links unten bezeicbnet:D.Valkenburg 17o4. Abbildung TafelIV Valkenburg war Shuler des durch seine Darstellungen von toten Hasen beruhmt gewordenen Jan Weenix. Ahnlides Bild Valkenburgs in ShleiBheim,weitere Arbeiten in Amsterdam von 1701 und 1717, Kopenhagen von 1703 und Wien (Liechtenstein und Harrach).
+
+## JANJ.HOREMANS.
+
+- 174 Vor dem Wirtshaus. Gegen die braun in braun gehaltene Umgebung
+
+Geboren 1682 in Antwerpen, gestorben 1759 daselbst.
+
+- der Gebaude und Baumgruppen die lebhaften Farben einer lustigen Zedgesellschaft. Von links heran treten drei Manner auf die sie be grubenden Gruppen zu. Abendliche Stimmung. Leinwand 66/56
+
+## ROBERT GRIFFIER.
+
+- 175 FluBlandschaft. An den beiden Ufern zahireice Frachtschiffe, deren Besatzung mit Ausschiffen beshaftigt ist, Auf dem linken Uferweg der sih am FuBe eines stattlichen Shlosses hinzieht, eine bunte Volks menge. Rechts ruckwarts ein Stadtdhen und ansteigendes Gebirge.
+
+Geboren 1688 in London, gestorben um 1750 in Amsterdam.
+
+- Leinwand24/33,5
+
+In der Mitte unten bezeicbnet: R. Griffier. Abbildung Tafel XI Von den bekannten Stromlandshaften des Kunstiers erwahnen wir nur die wie auf unserem Bilde R. Grifier bezeichneten in Petersburg Shwerin, Stodholm und Wien (Liechtenstein）.
+## PIETER QUAST.
+
+Art des P.Quast.1606-1647 Amsterdam.
+
+- 176 Bauern in UInterhaltung. In dammerigem Interieur vor dem Kamin
+- vier Bauern um ein zum Tisdh umgestulptes Fab gruppiert, der links sitzende tragt weiBliche Weste, aus der die roten Hemdarmel hervor= sehen. Rehts auf Stuhllehne gestutzt, steht ein Bauer in hohem Filz= hut. Der Raucher vor der Kaminoffnung tragt blaue Weste und odker farbene Kopfbededkung. Links neben ihm ein tolpelhaft aussehender Bauer in Pelzmutze. Leinwand 48/46
+
+## JOOSVAN CRAESBEECK.
+
+Nadhfolger des J. v. Craesbeedk.1606-1654 Bruissel.
+
+- 177 Vor der Schenke. An primitivem Gartentisc sitzt ein rastender Mann in grobem Hut und weiBgelbem Rodk, den eine Shenkmagd in aufdringlicher Weise bedient. Olivbraunes Bushwerk als Umgebung und links im Hintergrund das Wirtsgebaude. Holz46/34
+
+## CORNELIS STANGERUS.
+
+Angeblich in Amsterdam tatig, 1661 in Middelburg.
+
+- 178 Tanz in der Felsgrotte. In der Dammerung der Hohle leuchten die nakten Korper der Reigen tanzenden kleinen Knaben. Rechts sitzt ein Flote blasender, kleiner Faun. Rehts im Hintergrund Ausblidk auf die Felsenkuste. Leinwand 47/61
+
+UInten bezeicbnet: C. Stangerus 1657.
+
+Einzig bekanntes und gesichertes Bild dieses tuhtigen Meisters.
+
+Vergl.Obreen VI,199.
+
+## JACOB WALSCAPELE.
+
+Um 1667-1718 in Amsterdam tatig.
+
+- 179 Fruchtestilleben.Vor dunklem Hintergrund ein farbenfrohes Gehange
+- von Pfaumen, hellen und dunklen Trauben, Apfeln und Pfirsichen. Zwischen den Fruhten herbstliches Laub. Leinwand54/67
+
+## MARTINUS NELLIUS.
+
+1670--1700 in Leiden (n.a. in Delf) tatig.
+
+- Stilleben.Auf Tishedke Auster,halbgefulter Romer,Apfelsinen und Korinthen in einer aus Almanach gedrehter Dute. Olivbrauner Holz 17/16
+- 180 Hintergrund.
+
+Rechts unten bezeichnet: Nellius.
+
+Auf der Papierdute der Name des Buhdrudkers Abraham Dissius, der am 24.April 1651 in der Delfter Gilde war.Auf einem Fruh=
+
+stuckstish von 1693 in Shwerin findet sich der gleiche Name auf einer Dute. Zwei weitere bezeichnete Stilleben in Amsterdam u. Brussel.
+## JACOB DE WIT.
+
+Geboren 1695 in Amsterdam, gestorben 1754 daselbst.
+
+- 181 Paar Grisaillen. Darstellungen von Szenen aus der griechishen Mythologie, Leinwand je25,5/35,5
+
+## HOLLANDISCH um 1680.
+
+- 182 Stilleben. Auf Steintisd RosenstrauB in Vase und eine Anzahl ver= streuter Pilze. Leinwand 46/63
+
+## HOLLANDISCHE SCHULE um 1700.
+
+- 183 Tote Kohlmeisen. Auf Tish vor graubraunem Hintergrund die toten Vogel in ihrem bunten Gefieder. Gouache 14,5/19
+- 184 Tote Meisen. Auf Tisdplatte die beiden toten Vogel. Ggst.z.V.
+- 185 in der Ferne eine Stadt.
+- Seestudk. In der Nahe des Ufers zwei grobe, beflaggte Fregatten. Zwishen den beiden Shiffen und dem Land einige Segelkutter. Rechts Holz 18/26 Auf der Rickseite: Stuv.p.
+- 186 Shiffe an der Kuste. Auf ruhiger See zwei Segelschiffe und einige Segelboote. Am Strand mehrere Personen. In der Ferne links am FuBe einer sanften Bergkette ein Stadtchen. Gegenstudk zum Vorigen
+
+## J.C.BRACKFELD,1726.
+
+- 187 Interieur mit Mann und Frau. An einem Tish, auf dem ein toter Fuhs liegt, rehts auf Shemel ein Mann in rotem Rodk und hohem Hut, der sein Messer sharf,um das Tier abzubalgen.Zur Belohnung reiht ihm die hinter dem Tish sitzende Hausfrau einen Trunk.Im Hintergrund ein bleiverglastes Fenster. Leinwand 87/67
+
+Links unten bezeicnet: J. C. Brackfeld 1726.
+
+## G.C.DELLANS,1740.
+
+- 188 Stilleben.AufTis Fishe in Zinnteller,Krug,Rmer, Honigkuhen
+- und Brotchen. Dunkler Hintergrund. Leinwand 48,5/59
+
+UInten bezeidbnet: G.C. Dellans. F.1740.
+## FRANZOSISCHE U.A.SCHULEN.
+
+## FRANZOSISCHE SCHULE um 1700.
+
+- 189 Interieur mit Winzern. Vor langem Tish, auf dem zahlreihe Kruge und GlasgefaBe stehen, links zwei Frauen mit Krugen im Gesprah. Rechts zwei zum Auszug gerustete Winzer bei einem Alten in rotem Wams. An den Wanden Bilder. Leinwand 42/55
+
+## FRANZOSISCHE SCHULE,18.Jahrhundert.
+
+- 190 Das Urteil des Paris. Vor dunklem Waldrand auf Baumstamm sitzend Paris in rotem Mantel uber dem Hirtengewand. Die heischenden Gebarden der Athene und Hera nicht adtend, reicht er den Apfel der ihm von links mit Amor entgegenstrebenden Aphrodite. Leinw.74/112
+- 191 Damenbildnis.In zarten Tonen das ovale Gesicht mit den sanft blicdkenden Blauaugen und der tiefe Ausschnitt, den ein silbriges Kleid absclieBt. Auf der hohen Rokokofrisur liegt ein hellblaues Kopftuh. Hintergrund grunlich-dunkel. Pastell auf Pergament. Oval 53/42
+- 192 Geflugel in Parkarchitektur. Am Rand eines Wassers mit prunk= vollen Urnen geschmudkter Einfassung, der sich links machtige Saulenarchitekturen anschlieben, einige bunte Enten, Huhn und Truthuhner. Rehts in Hintergrund Ausblidk auf das Halbrund eines Wandel Leinwand 54/67 ganges,
+
+## FRANCOIS BOUCHER.
+
+Geboren 1703 in Paris, gestorben 1770 daselbst.
+
+- 193 Maddenbildnis. Vor hellem Hintergrund das zarte Kopfdhen, von Blei und Rotel 17/13,5
+- braunen Lodken umrahmt.
+
+Links unten Cecht?) bezeicbnet: Boucher.
+
+Aus Sammlung Dr. Graefe, Heidelberg.
+
+## EUSTACHE LESUEUR.
+
+Kopie nah Eustache Lesueur.1616 -1655 Paris.
+
+- 194 Der Hi. Bruno auf dem Sterbebett.In dammerigem, von einer Kerze schwach erhelten Raum stehen mehrere betende Karthauser= monche um die Lagerstatt des Toten, der, die gefalteten Hande er= hebend, eben ausruft: ，Die Gerechtigkeit Gottes hat mid verdammt."
+- Leinwand 33/25
+## ENGLISCHE SCHULE,18.Jahrhundert.
+
+- 195 Brustbild eines Mannes. In theatralischer Pose halt der Dargestelte
+- nach rechts gewandt  das Gesicht halb links emporgerichtet. Das Gewand ist dunkelgrun mit weibem Spitzenkragen, der Hintergrund braunlid. Leinwand 67/55
+- 196 Brustbild eines Madcens. Das schmerzbewegte, tranenuberstromte Antlitz des Maddhens, weldhes  nac rechts gewandt  einen Brief in Handen halt, ist emporgerichtet. Auf das dunkle Gewand herab fallt das von schwarzem Shleier bededte braune Lodkenhaar.
+
+Gegenstudk zum Vorigen
+
+## ENGLISCHE SCHULE,um 1780.
+
+- 197 Landschaft mit Staffage. Vor Waldrand auf Hugel rehts zwei Soldaten auf Posten. Links im Waldinnern Mann mit Hund und zwei Frauen. Ueber den Baumen Ruine gegen den blauen Himmel. Rechts weiter Talblidk. Holz72/102
+
+## L.COVNET,1687.
+
+- 198 Der heilige Sebastian. In der Bildmitte der am Pfahl hangende, von Pfeilen durchbohrte Korper des Martyrers. Links kniet die Hl. Irene in oderfarbenem Mantel uber dem blauen Gewand, welche ihm die Pfeile aus den Wunden zieht. Im Hintergrund Architekturen unter dunklem Himmel. Leinwand 145/117
+
+Unten Mitte bezeicbnet: L. Covnet. Inv.1687.
+
+## MURILLO.
+
+Shule des B.E.Murillo.1618-1682 Sevilla.
+
+- 199 Bettler und Bettlerin. Vor einem links auf Stuhl sitzenden, armlich gekleideten Maddhen mit rotem Kopftuch kniet ein dunkelhaariger Jungling. Die Kleidung des zu seiner Gefahrtin bittend Auf blidkenden ist ebenso wie die ihrige braun in braun gehalten und lost sich von einer Steinmauer im Hintergrund kaum ab. Leinwand62/50,5 Als Beispiel der spanischen Genremalerei jener Zeit,wie sie durh Murillo zur hohsten Stufe entwidkelt wurde, von besonderem Interesse.
+
+## HINTERGLASMALEREIEN.
+
+- 200 Darstellung Jesu. In der Tempelhalle halt der Hohepriester das auf weibes Linnen gebetete Knablein auf den Armen. Vor ihm kniet Maria. Rehts neben ihr Josef. Links und hinter dem Altar Priester. Hinterglasmalerei 34/25
+- 201 Die Anbetung der Konige. Vor der in einer Felsenhohle sitzenden Maria mit dem Christusknaben die drei Konige in farbenprahtigen Gewandern.Im Hintergrund Josef. Gegenstudk zum Vorigen
+
+## SIAMESISCHE HINTERGLASMALEREIEN
+
+- 202
+- 203 Zwei Siamesinnen auf Veranda.
+
+35/23
+
+- Siamese mit Papagei auf Terrasse.
+## MITTWOCHVORMITTAGS10UHR
+
+## Holzplastik.
+
+|     | 204 Madonna auf der Mondsidel. Polychromiert. Halbrund. Spat Hohe 140 cm gotisch.                               |
+|-----|-----------------------------------------------------------------------------------------------------------------|
+| 205 | Sitzende Madonna.Polyhromiert.Vollrund. Gotish.Hohe Z1 cm                                                       |
+| 206 | Shaher am Kreuz.Vollrund. Barodk. Hohe 43 cm                                                                    |
+| 207 | Madonna auf Weltkugel. Vollrund. Barodk. Hohe 35 cm                                                             |
+| 208 | Kn:eender Bishof mit Kelh. Polyhromiert und vergoldet. Voll rund. Barodk. Hohe 83 cm                            |
+| 209 | Trauernde Maria. Polyhromiert. Halbrund. Barodk. Hohe 76 cm                                                     |
+| 210 | Allegorische Frauenfigur mit Hermelinmantel. Vollrund. 18. Jahr= hundert. Hohe 115 cm                           |
+|     | 211  Paar Holzreliefs. Verspottung Christi und die Frauen am Grabe. Deutsch 1.Halfte 16. Jahrhundert. Je56/48cm |
+| 212 | Stehender St. Georg. Vorzugliche Nadbildung einer rheinischen Hohe 73cm fruhgotischen Skulptur.                 |
+| 213 | Engelsfigur. Vollrund. Barock. Hohe74 cm Hohe 87 cm                                                             |
+| 214 | Christusfigur. Halbrund. Fruhbarodk.                                                                            |
+| 215 | Engelknabe.Vollrund. Barodk. Hohe 60 cm                                                                         |
+| 216 | Kruzifix. Korpus Buchsbaum geschnitzt. Deutsch 17. Jahrhundert. Hohe 68 cm                                      |
+| 217 | Madonna. Auf Mondsidel, mit Krone und Szepter. Halbrund. Hohe 115 cm Polyhromiert. Barodk.                      |
+| 218 | Johannesfigur.Vergoldet und polyhromiert.Vollrund. Hohe 78 cm                                                   |
+| 219 | Hohe 88 cm Heiligenfigur.Polyhromiert. Vollrund. Um 1500.                                                       |
+| 220 | Hohe 131cm Stehender Ritter. Vollrund. Sdwabisch um 1450.                                                       |
+| 221 | Pieta. Polyhromiert, vollrund. Suddeutsch 1. Halfte des 15. Jahr- Hohe 34cm hunderts.                           |
+## Mobel / Hausrat.
+
+|     | 222 Shreib= und Toilettetisch. Mahagoni mit hellen figurlichen und ornamentalen Einlagen. Der versenkbare Aufsatz mit hocziehbarem Klappspiegel an der Rudseite wird durh vier schwarze Saulen gestuitzt. Im vorspringenden Mittelteil, das auf zwei grofben schwarzen Saulen ruht,zwei Seitenladen. Im Unterteil Klapptur vor Shublade. Meister= stud.Empire. Hohe 142,123/70 cm AbbildungTafel XVII   |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 223 | Pfeilerspiegel.Mahagoni mit schwarzem a ausgesagten Gitterzierat und geschnitzten Alabasterauflagen.Empire. Hohe 170, Breite 67 cm                                                                                                                                                                                                                                                                      |
+| 224 | Causeuse, Paar Sessel und Krinolinensessel.Weib=gold geschnitzt mit hell gemusterten Seidenbezugen. Franzosisch. Louis XVI. Abbildung Tafel XVII                                                                                                                                                                                                                                                        |
+| 226 | 225 Paar Sessel. Gold mit hellgemusterten Seitenbezugen. Louis XVI. Louis XVI.-Tisch. Gold mit weib=schwarzer Marmorplatte. Rund auf vier Beinen mit Stegverbindung. Hohe 77,Dm.80cm                                                                                                                                                                                                                    |
+| 227 | Pfeilerspiegel. Holzgeschnitzter, vergoldeter Rahmen. Von den Emblemen des Handels bekront.Louis XVI.Hohe186,Breite 86 cm                                                                                                                                                                                                                                                                               |
+| 228 | Sienesisce Truhe.Erlenholz. Auf der Schauseite und den Seitenteilen figurenreiche Szenen in bunter Malerei Reide,leidt reliefierte Gold ornamentik. Renaissance. Hohe 71,174/69cm Abbildung Tafel XVI                                                                                                                                                                                                   |
+|     | Z28a Kleine Kommode. Rosenholz mit hellen und farbigen Einlagen. Zweiladig. Franzosish. Louis XVI. Hohe79,59/43cm AbbildungTafel XVIII                                                                                                                                                                                                                                                                  |
+|     | Z29 Kommode. NuBbaum mit hellen und dunklen Stricheinlagen. Drei- ladig. Biedermeier. Hohe 86,124/62cm                                                                                                                                                                                                                                                                                                  |
+| 230 | Biedermeier=Zimmer.Kirschbaum mit reichen schwarzen und farbigen EinlagenHelle,blau=grune Seidenbezuge mit buntgestidkten Kranzen. Bestehend aus Sofa mit Paar Kissen, drei Armsesseln, Sessel mit Halbrundlehne,vier Stuhlen und rundem Tish. Samtliche Sitzmobel mit geblumten Shutzuberzugen, Abbildung Tafel XVII                                                                                   |
+| 232 | Konsoltisd. Kirshbaum, auf drei geshwungenen Beinen. Halbrund. Biedermeier. Hohe 77,Breite 84 cm                                                                                                                                                                                                                                                                                                        |
+| 233 | Giraffenklavier. NuBbaum. Am Unterbau Seitensaulen mit Bronze ringen. Empire.                                                                                                                                                                                                                                                                                                                           |
+| 234 | Hohe230,120/60cm Empire-Luster. Goldbronze mit Prismenbehang.                                                                                                                                                                                                                                                                                                                                           |
+- 235 Empire-Luster. Wie vorher.
+- 236 Kleine Kommode. Palisander- und Rosenholz mit hellen Einlagen. Zweiladig.Mit eingelassener, weiBer Marmorplatte. Italienish. 18.Jahrhundert. Hohe 83,53/29cm
+- 237 Kommode. Kirschbaum mit Marketterien und farbigen Kakadu-Ein=
+- lagen auf shwarzenFeldernZweiladigBiedermeierHohe8076/47cm Abbildung Tafel XVIll
+- 238 Sofabank. NuBbaum mit hellgemustertem Brokatbezug. Louis XVI.
+- 239
+- Badkensessel. Eiche mit Gobelinbezug. Fruhbarok.
+- 240 Stuhl. Weib-gold mit geblumtem Bezug und Rohrlehne. Louis XVI.
+- 241 Vitrine. Dunkelgrun mit geschnitzten und vergoldeten Ornamenten. Deutsch. Anfang des 18. Jahrhunderts. Hohe114,61/40cm Auf dazu passendem Untergestell. Hohe70 cm
+- Hocker. Grun mit geschnitzter Goldornamentik und geblumtem
+- 242 Seidenbezug. Deutsch, 1. Halfte des 18. Jahrhunderts.
+- Polstergarnitur. Bestehend aus Sofa und Paar Sesseln. Braun mit
+- 243 geschnitzter Goldornamentik und Petitpoint-Bezugen. Deutsch 18. Jahrhundert.
+- 244 Sessel. WeiB-gold mit Brokatbezug. Deutshes Rokoko.
+- 245
+- Empirimmer,estehend aus Sreibtis,ofa,vir esseln,aar Stuhlen und Tisch. Rote Seidenbezuge. NuBbaum, mit sehr reicen Goldbronzebeschlagen.
+- 246 Kleiner Kabinett-Shrankaufsatz, zweiturig mit vielen Schubladen.
+- 246a Shreibtisc. Eiche mit gescnitzter und vergoldeter Blattornamentik. Auf vier geschwungenen Beinen, mit funf Shubladen. Franzosisdh, Louis XV. Hohe77,112/62
+- 247
+- Alt-Chinesischer Tisch. Mit Porzellanschale als Platte und kleinen Shalhen als FuBzierde. Hohe70 cm
+- 248 Standuhr. In Architekturenform auf vier Saulen. Weiber Alabaster. mit reih ornamentierter Goldbronzemontierung.Empire. Hohe 51 cm Abbildung Tafel XIX
+- 249
+- Standuhr. Mahagoni mit Einlage und weiben Alabastersaulen an Hohe 42,5cm den Seiten. Empire.
+- 250
+- Kamingarnitur. Die Uhr und die beiden funflichtigen Girandoles als urnenformige,reic gemalte Sevresvasen in schwerer Bronzemontierung. Hohe je 60 cm
+- 251
+- Pendule. Mit Alabastersaulen an den beiden Seiten. Mahagoni mit Einlagen. Hohe 40 cm
+## Gobelins / Teppiche.
+
+|     | 252 Vlamisher Gobelin.Auf Waldlihtung mit Arhitekturen im Hinter- grunde zahlreide Ritter mit ihren Damen bei Spiel und Tanz. Auf der Bordure Blumenmuster und figurlice Darstellungen. Hauptfarben olivbraun und grun. Hohe 300,Breite325cm Abbildung Tafel XVI Brussel um 1650.   |
+|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 253 | Aubuisson=Tapisserie, Weib,mit lihtfarbigen Blumen und grunen Lange 310,Breite205cm Blattern reich gestidkt.                                                                                                                                                                        |
+| 254 | Gobelin.Mit Darstellungen aus der biblishen Geschichte,wie Hagar und Ismael, Christophorus und Kriegerszene. Hauptfarben rot, gelb, blau und grun. Vlamisch 17.Jahrhundert. Hohe 137,Breite 230 cm                                                                                  |
+| 255 | Shiras. Lange 170,Breite 125cm Lange 120,Breite 115cm                                                                                                                                                                                                                               |
+| 256 | Mossul.                                                                                                                                                                                                                                                                             |
+| 257 | Anatol.. Lange 170, Breite 130 cm                                                                                                                                                                                                                                                   |
+| 258 | Alter Mossul. Lange 210,Breite 123cm                                                                                                                                                                                                                                                |
+| 259 | Alter Afghan. Lange 170, Breite 95 cm                                                                                                                                                                                                                                               |
+| 260 | Jordes=Teppich. Lange 220,Breite 135cm                                                                                                                                                                                                                                              |
+| 261 | Syrischer, gen. Damaskus=Teppih. Lange 200,Breite 138cm                                                                                                                                                                                                                             |
+| 262 | Biedermeier-Teppid. Mit bunten Blumenmustern. In der Mitte Christus- und Johannesknabe in Wustenlandschaft.                                                                                                                                                                         |
+
+Lange 360,Breite300cm
+
+## Metallarbeiten.
+
+|     | 263 Paar Empireleuchter.Zweiarmig mit Urnen verziert. Silber.Hh.41 cm                                                  |
+|-----|------------------------------------------------------------------------------------------------------------------------|
+| 264 | Miniatur auf Messingplatte. Portrat einer Rokokodame in blauem spitzenbesetzten Kleid. 8,517                           |
+| 265 | ReliMaininiug6                                                                                                         |
+| 266 | Pferdestatuette. Originialbronze von Barye. Hohe 12,5cm                                                                |
+| 267 | Bettpfannendedkel.Mit Ornamenten u. Figuren. Messing getrieben. Durchmesser 32 cm                                      |
+| 268 | Gurtel. Mit reih getriebenen Blumenornamenten. Wei Messing.AIte Augsburger Arbeit.                                     |
+| 269 | Empire=Samovar. Bauhige, reid ornamentierte Dedkelvase auf vier FuBen. Mit Elfenbeingriffen. Bronze. Hohe 48cm         |
+| 270 | Paar Empiregirandolen. Goldbronze reid ziseliert, auf hohen kanne lierten Saulen, und vier Kerzenhalter. Hohe je 65 cm |
+|     | 271 Paar Empireleuchter. An hoher kannelierter Saule je funf Delphine mit Kerzenhalter. Goldbronze.Hohe je 67 cm. Abbildung Tafel XVIII   |
+|-----|-------------------------------------------------------------------------------------------------------------------------------------------|
+| 272 | Paar Wandlihthalter. Je zweiKerzentrager an ornamentierter,messing= getriebener Platte.                                                   |
+| 273 | Lange je56 cm Dedelshussel. Mit zwei Henkeln.Empire. Zinn.Durchmesser 80 cm                                                               |
+| 274 | Shussel mit zwei Henkeln. Zinn. Durhmesser 31 cm                                                                                          |
+| 275 | Zinnplatte.                                                                                                                               |
+| 276 | Durchmesser 35 cm Paar Kirhenleudter. Auf profiliertem FuB, reih graviert. Zinn                                                           |
+| 277 | Hohe je 25cm Raudergefab. Mit getriebenen Ornamenten und Engelskopfen.Kupfer versilbert. Hohe26 cm                                        |
+| 278 | Zinnplatte.Mit reichem Reliefdekor.Um 1600. Durchmesser 32 cm                                                                             |
+|     | 279 Kassette. Mit reicem gemalten Dekor.Eisen.16. Jahrh. Lange 30 cm                                                                      |
+
+## Asiatika.
+
+|   280 | Taburett. Reid eingelegt mit Perlmutter, Farbholzern und -Steinen. Arabisch. Hohe 46 cm                                                                    |
+|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   281 | Koranstander. Mit reihen Bein= und Farbholzeinlagen. Arabish.                                                                                              |
+|   282 | Hohe 40 cm Kasten.Mit reichen Bein- und Farbholzeinlagen. Arabisch. Hohe74cm                                                                               |
+|   283 | Flaher Shiebkasten. Mit Spiegel im Innern und reicen Bein= und Farbholzeinlagen. Arabisch. Lange 28 cm                                                     |
+|   284 | Kopf einer Wasserpfeife.Birnformig. Kupfer und Silber, reih ziseliert.Persisch. Lange 25 cm                                                                |
+|   285 | Henkelkanne. Kupfer, reidh graviert und verzinnt. Persisch. Hohe 26 cm                                                                                     |
+|   286 | Kaffeekanne.Kupfer, verzinnt und reid graviert.Persish.Hohe35 cm                                                                                           |
+|   287 | Kohlenbeden. Zum Vorigen passend. Durchmesser 24 cm                                                                                                        |
+|   288 | Paar Chinavasen. Weib, mit gelbbraunen ornamentierten Ringen und Henkeln. Porzellan. Bezeichnet. Hohe je 45 cm Abbildung Tafel XIX                         |
+|   289 | Bronzevase. Mit Maanderfriesen und Henkeln. China, Mokkaushun. Abbildung Tafel XIX Hohe 38 cm                                                              |
+|   290 | Chinavase. Mit Drachen und Ornamenten in Silbereinlagen auf der schlanken Leibung. Bronze auf holzgeschnitztem schwarzen Untersatz. Bezeichnet. Hohe 37 cm |
+
+Abbildung Tafel XIX
+- 291 Siamesisher Ofen. Bestehend aus funf ubereinandergesetzten, nadh oben kleiner werdenden, trommelformigen Teilen. Der untere Teil ruht auf drei Lowenfuben. Die Leibungen aus Messing sind reich getrieben, durhbrochen und weisen zahlreide Buddhafiguren und Fratzen auf. Die Ornamente sind zum Teil mit Turkisen besetzt. Als Be= Hohe 142cm kronung ein ineinander geschlungener Drache.
+- Durchmesser Z6 cm 292 Krakele=Platte.Porzellan.China.
+- 293 Teeservice. Bestehend aus Kanne, RahmgieBer, Zuckerdose und Paar Tassen. Rotgoldener Dekor mit vielen Figuren. Kutani Auf Lacktablett.
+- 294
+- Koro auf drei Fuben. Mit Drachenhenkeln und Fohund auf dem Hohe 26 cm
+- Zwei Teetassen mit Untertassen. Figurlider Dekor. Porzellan. China. Kien-Lung.
+- 295 Deckel. Bronze. China.
+- 296 Koro. Mit reichem Relief-Vogeldekor und Drachen als Henkel. Auf Hohe31 cm
+- dem Dedkel Fabelvogel. Bronze. China.
+- 297 Raudergefab. Reid gravierte und durhbrochene Kuppel in drei= beinigem Untergestell in Silberfries. Messing. Persish. Hohe Z1 cm
+- 298 Persischer Teller. Messing mit reich graviertem Tier- und Ornament= dekor. Durchmesser Z0 cm
+- 299 Sechs Teller. Mit bunten Blumen. Porzellan. China. Durchmesser Z3 cm
+- 300 Deckelvase. Mit reicem rotgrunen Vogel-, Blumen= und Ornament= Hohe29 cm dekor.Porzellan.China.
+- 301
+- Faltervase mit Schmetterlingen, Blumen und Figurenszenen.Porzellan. Japan. Kaja. Hohe 46cm
+## Porzellan / Fayence.
+
+|     | 302 Kleine Tasse. Mit Hirschrudel in Landshaft. MeiBen, Marcolini.                                                        |
+|-----|---------------------------------------------------------------------------------------------------------------------------|
+| 303 | Sauciere auf Untersatz. Shwanenform. Weib und Gold. Porzellan Sevres.                                                     |
+| 304 | Lange 16 cm Paar Figuren. Knabe und Madchen mit Frucht= und Blumenkorb. Porzellan, bunt. Marke Ludwigsburg. Hohe je 14 cm |
+| 305 | Kanarienvogel auf Ast. Porzellan, bunt. Berlin. Hohe11cm                                                                  |
+| 306 | Bajazzo mit Mandoline. Porz., bunt. Frankenth.um 1775. Hh. 10 cm                                                          |
+| 307 | Lautenspieler.Porzellan, bunt.Meiben. Hohe 14 cm                                                                          |
+| 308 | Paar Figuren.Sitzender Knabe und Madhen mit Blumenkorb.Porzellan, bunt.Meiben.                                            |
+| 309 | Hohe je 13 cm Musizierender Kavalier. In violettem Rod.Porzellan, bunt. Wallen= dorf. Hohe15cm                            |
+| 310 | Sitzender Chinese. Porzellan, weib. Nymphenburg. Hohe10 cm                                                                |
+| 311 | Sitzende Chinesin. Porzellan, weib. Nymphenburg. Hohe 10 cm                                                               |
+| 312 | Kleiner Schmied.Porz.,bunt.Hohst.Modell von Melhior.Hh.10 cm                                                              |
+| 313 | Bauerin.Fayence,weib. Damm.                                                                                               |
+| 314 | Hohe 15cm Dame am Spinett. Porzellan, weib. Biedermeier. Hohe 11cm                                                        |
+| 315 | Bauernmadhen.Fayence,bunt.Damm.Blaue Radmarke.                                                                            |
+| 316 | Madhen mit Krug.Fayence,bunt.Damm.Bl.Radmarke.Hh.12,5 cm                                                                  |
+| 317 | Bettelmonh.Porzellan, bunt.Thuringen. Hohe 12 cm                                                                          |
+| 318 | Frau mit rotem UmhangPorzellan,bunt.WallendorfHohe 8,5cm                                                                  |
+| 319 | Paar Miniaturfiguren. Tanzerinnen, Porzellan,weib. Hohe6cm                                                                |
+| 320 | Paar Konfektteller.Reiche Goldornamentik auf blauem Grund. Por= zellan. Meiben, Durchmesser je 28 cm                      |
+| 321 | Urnenterrine. Weib mit Staubblumen. Porzellan, Wien. Hohe 27 cm                                                           |
+| 322 | Madchenfigur. Porzellan, bunt. Hohe13cm                                                                                   |
+| 323 | Knabe mit Vogelkafig. Porzellan, bunt. Berlin. Hohe14 cm                                                                  |
+| 324 | Sitzender Engel. Porzellan, weib.Furstenberg.                                                                             |
+| 325 | Hohe 23 cm Gefesselter Faun.Porzellan,weib.Kloster Veilsdorf.Hohe 14 cm                                                   |
+| 326 | Porzellangruppe, weif. Musizierende Rokokodamen und Shaferknabe.                                                          |
+| 327 | Frankenthal um 1760. Hohe 17 cm Empiretasse.Mit bunter Landschaft und Goldrand,Porzellan.Berlin.                          |
+- 328
+- Biedermeiertasse. Shodoladenfarben mit Inscrift in goldenem, von bunten Blumen umranktem Medaillon. Porzellan.
+- 329 Dedkeltasse. Mit blau= goldenem Ornamentdekor. Porzellan. Berlin.
+- 330 Empiretasse. Weib-gold mit buntem Wappen. Porzellan. Berlin.
+- 331 Biedermeiertasse. Mit goldenen Ornamenten und bunten Blumen. Porzellan. M.D.
+- 332
+- Empiretasse. Mit reichem Golddekor. Porzellan.
+- 333 Empiretasse.Rahmfarben mit gold-blauen Ornamenten.Porz.Berlin.
+- 334 Empiretasse. Auf drei Fuben. Weib= gold, mit Jager in Landschaft. Porrzellan. Berlin.
+- Empiretasse. Mit goldenem und grunem Dekor und Tugendfiguren.
+- 335 Porzellan. Berlin.
+- 336 Empiretasse.Mit gold=rotem Dekor. Porzellan. Berlin.
+- 337 Tasse mit Untertasse. Rot gewurfelte Rander und farbiger Vogel= dekor. Porzellan, Hohst,Radmarke. Abbildung TafelXX
+- Paar Shokoladentassen,Weib,mit farbigem Blumendekor. Empire. AbbildungTafel XX
+- 338 Porzellan, Wien.
+- 339 Tasse mit Untertasse. Weib. Porzellan, Hodst, Radmarke.
+- 340 Paar Tassen mit UIntertassen. Goldner und farbiger Ornamentdekor. Porzellan, Sevres. AbbildungTafelXX
+- Paar Tassen mit Untertassen. Farbiger Blumendekor. Porzellan,
+- 341 Meiben, Marcolini
+- 342 Wedgwood-Shale. Schwarz.
+- 343 Porzellan, Meiben.
+- Durhmesser 18 cm
+- Kaffee= und Teeservice. Bestehend aus Kaffeekanne, Tee= und Mildkanne und Spulkumpen. Langs gerieft,mit rotem Blumendekor.
+- 344 Reiterstandbild Friedrics des Groben. Auf reliefiertem Sodkel. Weib. Porzellan,Furstenberg. Hohe 52cm
+
+Abbildung Tafel XIX
+
+- 345 FunfTassen mit UIntertassen.Roter Blumendekor.Porzellan,Meiben, Marcolini.
+- 346 Madhenfigur. WeiB. Porzellan, Furstenberg. Hohe 16cm
+- 348 Tasse mit Untertasse. Brauner AuBendekor, innen weil mit blauem Chinadekor. Porzellan, Meiben. Abbildung Tafel XX
+- 347 Madhen mit Korb. Porzellan bunt, Berlin Hohe 15 cm
+- 349 Reiterinfigur. Porzellan, bunt. Nymphenburg. Hohe 19cm Abbildung Tafel XX
+- 350 Platte mit durchbrochenem reliefierten Rand. Englisches Porzellan. WeiB. Durhmesser 20 cm
+- 351 Kaffee= und Teeservice. Weib mit Goldornamentik und aufgelegter bunter Birne auf den Deckeln. Bestehend aus Kaffeekanne, Tee= und Milchkanne,Teedose, Spulkumpen und seds Tassen mit Untertassen. Porzellan, Ansbach. Abbildung Tafel XX
+|     | 352 Kaffee= und Teeservice. WeiB mit breiten Goidrandern. Bestehend aus Kaffeekanne, Tee= und Milhkanne, Zuderdose, Spulkumpen und zehn Tassen mit Untertassen. Empire. Porzellan, Furstenberg.   |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     | Abbildung Tafel XX 353 Paar Figuren. Knabe mit Krug und Madchen mit Kaffetasse. Fayence, bunt. Damm. Hohe je 12 cm                                                                                |
+| 354 | Abbildung Tafel XX Madhen mit Taube.Fayence, bunt. Damm.                                                                                                                                          |
+| 355 | Hohe15cm Tasse mit Untertasse. Bunter Rankendekor. Fayence, Kelsterbah,                                                                                                                           |
+| 356 | Abbildung Tafel XX Paar Ofenkacheln. Mit Figuren. Grammatica und Arithmetica. Ton, grun glasiert. Gerahmt. Je27/21cm                                                                              |
+| 357 | Fayenceteller. Weib,mit blauem Chinadekor. Delf. Dm.22,5 cm                                                                                                                                       |
+| 358 | Paar Fayenceteller. Mit didhtem blauen Blumendekor. Delf. Abbildung Tafel XIX Durchmesser je 26 cm                                                                                                |
+| 359 | Fayenceteller. Mit landshaflichem Chinadekor. Delft. Dm.35 cm Fayenceplatte. Mit blauen Ornamenten und Blumen in Jardiniere. Delft. Durchmesser 39 cm                                             |
+| 360 |                                                                                                                                                                                                   |
+| 361 | Abbildung Tafel XIX Fayenceplatte.Mit dichtem blauen Blumendekor. Delf. Dm.40 cm                                                                                                                  |
+| 362 | Abbildung Tafel XIX Fayenceteller, Mit bunten Blumen und Ornamenten. Kellinghusen. Durchmesser 26 cm                                                                                              |
+| 363 | Fayenceteller, Wie vorher. Durchmesser 28,5 cm                                                                                                                                                    |
+| 364 | Fayenceteller. Wie vorher. Durhmesser 32 cm                                                                                                                                                       |
+| 365 | Fayenceteller. Wie vorher, Durchmesser 31,5cm                                                                                                                                                     |
+| 366 | Fayenceteller. Wie vorher. Durchmesser 31 cm                                                                                                                                                      |
+| 367 | Paar Empireleuchter. Blau mit weiBen Reliefs nah der Antike. Wedgwood. Hohe je 21 cm                                                                                                              |
+| 368 | Paar Urnenvasen.Mit buntem Blumen und Ornamentdekor.Fayence Rouen. Hohe je 52 cm                                                                                                                  |
+| 369 | Kleiner Knabe mit Blumen. Porzellan.Bunt. Kelsterbah Hohe 10 cm                                                                                                                                   |
+| 370 | Porzellanmalerei. Interieur mit Bauern beim Mittagsmahl. Nad Teniers. Platte mit reliefiertem, rocaille-ornamentiertem Rahmen. Frankenthal. 18/26cm                                               |
+| 371 | Walzenkrug mit Zinndedel und Zinnrand. Auf der Leibung Dame in Landschaft. Fayence. Magdeburg. Hohe 25cm                                                                                          |
+| 372 | Walzenkrug mit Zinndedel und Zinnrand. Auf der Leibung Marine in Ornamentumrahmung. Fayence. Thuringen. Hohe 25 cm                                                                                |
+| 373 | Walzenkrug mit Zinndedel und Zinnrand. Auf der Leibung Jager in Landschaf. Fayence, mitteldeutsh. Hohe24 cm                                                                                       |
+|   374 | Walzenkrug mit Zinndekel und Zinnrand. Auf der Leibung Mann Hohe23 cm mit Sonnenschirm in Landschaf. Fayence.   |
+|-------|-----------------------------------------------------------------------------------------------------------------|
+|   375 | TongefaB mit engem Hals. Auf der abgerundeten Vierkantleibung Hohe35 cm Fratzen und Wappen. Hohe 17 cm          |
+|   376 | Fayencekrug. Mit buntem figurlichen Dekor.                                                                      |
+|   377 | Flacon. Mit Liebespaaren in Landshaf. Porzellan, bunt, silber= Hohe9cm montiert.                                |
+|   378 | Flacon.Mit Libespaaren und RocailleornamentenPorzellan, bunt. Hohe7,5cm                                         |
+|   379 | Fingerhut. Vergoldet und mit bunter Blumenranke. Porzellan, bunt.                                               |
+|   380 | Tabaksdose. Mit bunten Raucherszenen in Landschaften. Kupfer Lange 13 cm emailliert.                            |
+|   381 | Enghals-Henkelkrug. Mit Zinndedel und blauem Blumendekor. Hohe28 cm Fayence. Hanau                              |
+|   382 | Drei Salzschalen. Mit bunten Blumenmalereien. Fayence. Hohe je 6cm                                              |
+|   383 | Hohe 16 cm Tonkrug. Braun mit weibem Reliefdekor. Hohe 20 cm                                                    |
+|   384 | Steinzeugkrug. Mit blauem Dekor.                                                                                |
+|   385 | Nassauer Steinzeugkrug. Mit blauem Dekor. Hohe 20 cm                                                            |
+|   386 | Nassauer Steinzeugkrug. Mit Rankenfries auf blauem Grund. Hohe20,5 cm                                           |
+|   387 | Bartmannskrug. Hohe15cm                                                                                         |
+|   388 | RaudergefaB. Mit buntem Vogela und Blumendekor und Gold= ornamentik. Porzellan. MeiDen. A.R Hohe 12 cm          |
+|   389 | Biskuitgruppe, Faun mit Nymphe und Kind. Auf Bronzesodkel. Franzosisch. Hohe 46 cm Hohe 21 cm                   |
+|   390 | Tonkrug mit Bauernfries.                                                                                        |
+|   391 | Bartmannskrug. HoheZ3 cm                                                                                        |
+|   392 | Tonkrug mit Figurenfries.                                                                                       |
+|   393 | Tonkrug mit Durchbrud in der fladen Leibung. Hohe 18 cm                                                         |
+
+## Glaser.
+
+- 394 Glaspokal, shlank. Mit Trinker auf der Leibung. Geschliffener Dedel und Stengel. Bohmen. 1. Halfte 18. Jahrhundert. Hohe 30 cm
+- 396 Glaspokal auf profiliertem FuB. Mit Arhitektur=,Vogel und
+- 395 Glaspokal, shlank. Mit Arhitektur-, Vogel und Blumendekor. Geshliffener Dedel.Bohmen.1.Halfte 18. Jahrhundert.Hohe 31 cm
+- Blumendekor. Bohmen.1.Halfte 18. Jahrhundert. Hohe23cm
+- Hohe24 cm
+- 397 Glaspokal auf profiliertem FuB, Mit ornamentiertem Blumendekor.
+| 398   | Glaspokal auf profliertem Fub. Mit Ornamenten und Inschrift auf der Leibung. Bohmen. Hohe23,5cm                         |
+|-------|-------------------------------------------------------------------------------------------------------------------------|
+| 399   | Bierglas. Mit Inschrift: M. S. M. K. 1791. Hohe 14 cm                                                                   |
+| 400   | Becherglas. Mit Blutenranken,                                                                                           |
+| 401   | Hohe 17cm Shnapsflasche. Glasgeshliffen. Mit Wappen, Monogramm unter Krone und Ornamenten an den vier Seiten. Hohe19 cm |
+| 402   | Becherglas. Mit Ornamenten und Figuren, Hohe 13 cm                                                                      |
+| 403   | Beherglas, Mit Hausern und Figur.                                                                                       |
+| 404   | Hohe 11 cm Beherglas. Mit Blumenornamenten und Monogramm. 18. Jahrhundert.                                              |
+| 405   | Hohe 8 cm Glaspokal. Mit Blumenornamenten. Potsdam um 1700. Hohe 19 cm                                                  |
+| 406   | Venezianischer Glaspokal. Hohe15cm                                                                                      |
+| 407   | Glaspokal. Mit Blumenornamenten, Hohe 16,5cm                                                                            |
+| 408   | Bederglas auf FuB. Mit Langsriefen und Hohlraum mit Wurfeln.                                                            |
+| 409   | Hohe 9cm Kleiner Pokal. Auf silbermontiertem FuB. Goldrand und Figuren                                                  |
+| 410   | in Landshaft in shwarzer Emailmalerei. Hohe 16 cm Kristallschale auf Untersatz. Geshliffen mit Goldrand. Empire.        |
+| 411   | Hohe 11 cm Kristalflasce. Kuppelform, geschliffen. Hohe 13 cm                                                           |
+| 412   | Beherglas. Funfzehnedkig. Auf der Leibung Mann mit Vogel in Emailmalerei. Hohe9,5cm                                     |
+| 413   | Becherglas. Mit Wappen und Initiale in Medaillons.                                                                      |
+| 414   | Hohe 11 cm Becherglas. Mit Liebespaar und Spruh in Emailmalerei.Hohe 10 cm                                              |
+| 415   | Kleines Becherglas. Mit Jungfrau, Spruch und Blumen in Email# malerei. Hohe6 cm                                         |
+| 416   | Parfum-Flacon. In Holzkapsel mit bunter Ladmalerei Lange 9 cm                                                           |
+|       | 417 Drei blaue Glaspokale. Mit Figuren in Landshaft in Goldmalerei. Hohe je 15 cm                                       |
+
+<!-- image -->

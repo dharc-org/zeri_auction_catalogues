@@ -1,0 +1,2024 @@
+## Verkaufs-Bedingungen
+
+fir
+
+## RUDOLPH LEPKE'S KUNST-AUCTIONS-HAUS.
+
+- Die Versteigerung geschieht gegen sofortige Zahlung in Deutscher Reichswahrung. Die Uebernahme erfolgt sogleich mit dem Zuschlage.
+2. Kaufer, welche am folgenden Tage zu zahlen winschen, mussen
+- eine angemessene Summe vor der Versteigerung deponiren.
+- DieGegenstande werden in dem Zustande versteigert, 3. in welchem sie sich befinden, weshalb die Kaufer vor dem Zuschlage auf etwaige Beschadigungen, resp. irrthumliche Angaben im Kataloge achten wollen.
+4. Angegebene Maasse verstehen sich bei Gemalden ohne Rahmen.
+5. Bei Gegenstanden, fur welche seitens der Verkaufer Mindestpreise vorgeschrieben sind, wird fur deren Rechnung bis zur Hohe dieser Preise mitgeboten.
+6. Gesteigert wird mindestens um 1 Mark, iber 1oo um 5 Mark. Von der Reihenfolge wird nur ausnahmsweise abgewichen.
+- 7.Ein Aufschlag zur Kaufsumme wird vom Kaufer mit 5 pCt. erhoben.
+
+## Kauf-Auftrage
+
+fur Refectanten, welche der Auction nicht personlich beiwohnen,ibeinehmen gegen Provision, die bei Oelgemalden, Antiquitaten, etc. meist mit 5%e, bei Kupferstichen und Buchern aber in der Regel mit 1o%o. die bekannten Buch- und Kunsthandler und Einige der Herren sind stets an den Tagen der ffentlichen Besichtigung im Auctionslocal zum Zwecke der Ent- berechnet wird, Commissionare. gegennahme von Auftragen anwesend.
+
+## Durch Fernsprecher
+
+konnen Auctionsauftrage, Erhohung oder Ermassigung derselben,nicht entgegengenommen werden; ebensowenig kann nach der Auction Auskunft iber Zuschlagspreise durch denselben ertheilt werden. Bei Einsendung des Ruckporto wird jedoch jede gewinschte Auskunft schnellstens gegeben wie auch vor der Auction jede briefliche Anfrage gewissen- haft beantwortet.
+
+An das unterzeichnete Institut gerichtete Kauf-Auftrage werden durch Vermittlung zuverlassiger und fachkundiger Commissionare aus-gefuihrt.
+
+Rudolph Lepke's Kunst-Auctions-Haus BERLIN S.W.,Kochstr.28/2g.
+<!-- image -->
+
+## 1. Auctionstag:
+
+## Montag, den 17. Dezember 1900,
+
+von 10 Uhrab.
+
+## Gelgemalde und Aguarelle neuerer Kinstler.
+
+- 12 A.Staehle.
+- Monogrammirt M. Kleines Seestick mit Fischer3
+- Zwei Landschaften. Kornfeld. Holzsteg. Gegensticke. H. 23. Br. 32. G. R.
+- booten.Auf Holz.H. 15. Br.20.S.R.
+- 4
+- A. Forstmann.Partie an der Mosel, rechts ein Dorf Staffrt. H. 47. Br. 65. G. R.
+- 5 M. Muinzer. Stillleben mit Mohn und Kornblumen. H.33.Br.49.Gerahmt.
+- 67A.Roden. Gegen-
+- Zwei Gebirgslandschaften. sticke.H.19.Br. 30.Gerahmt.
+- 8
+- J.Burdin.Der Hafen von Havre mit Dampfer im Vordergrunde.H. 32.Br. 46.S.R.
+- 9 一 Kistenpartie  mit tFischerbooten. H.32.Br.46.S.R.
+- Gegenstick.
+- 10 H.Peyer.Landschaft im Spatsommer. H.16. Br. 44.G.R.
+- B.Muhlig. Inneres einer Almhitte mit Familien11 Sehr fein durchgefuhrtes Bildchen.H.13. scene. Br.17.Eichen R.
+- 12J.Andersen. Norwegischer Fjord. H.24. Br.34. G.R.
+- C. Gitzlaff.Dunenlandschaft beiabziehendem Regen. 13 Aquarell von schoner Wirkung. Signirt. H.20. Br.28. Gerahmt.
+- 14 R. Erbe. Bock von einem Hunde angebellt. Aquarell.
+- H. 19. Br.22.Gerahmt.
+- 15 16 R.v.Hovell. Zwei Rauchbilder. Waldpartieen mit Wild. Gegensticke, oval. H. 22. Br.28. Gerahmt.
+- 17 V. Benoni. Stillleben. Schmuckkastchen, Vasen etc.
+- H. 30. Br. 19. G.R.
+- 18 一 Desgleichen. Stutzuhr, Bucher etc. Gegenstuck. H. 30.Br.19. G.R.
+- 19 A.Wagener. Stillleben mit Krugen, Fruchten,
+- Krebsen etc.H. 30.Br. 23.G.R.
+- J.v. d.Lage. Strauss von Gartenblumen in einer
+- 20 Vase. Leinwand, monogr. H. 90. Br. 60. G. R.
+- 21 A. Mosengel. Landschaft bei aufziehendem Gewitter.Hubsches Bildchen. Monogrammirt.H.19. Br. 32.G.R.
+- L. Harcourt. Jager im Walde mit Hund und 22
+- erlegtem Wild bei einem Feuer.H.40. Br.30. G.R.
+- 23 P. Lenhardt. Blick auf Maria della salute zu Venedig. H.33.Br.46.G.R.
+- 24 一 Blick auf San Giorgio zu Venedig. Gegenstick. H.33. Br.46.G.R.
+- M. Munzer. Stilleben mit Folianten, Schreibzeug, 25 Lichtetc. Gut wirkendes Bild.H. 69.Br. 56. Gerahmt.
+- 26 27 C.W.E.Dietrich. Zwei Brustbilder von bartigen Greisen. Auf Holz gemalte hubsche Bilder. H. 25. Br.19.G.R.
+- 28
+- F.Lettau.Z Zwei weibliche Kopfe. Sehr fein durchgefuhrte Aquarelle mit Kinstlernamen. Rund. Diam.25. Gerahmt.
+- 29 Emma Heyne. Fruhstick imFreien. Nach A.Watteau.Aquarell.H. 29. Br. 20. Gerahmt.
+- 30 P.Lehnert.Venetianische Fischerboote auf der Adria. H.51.Br.68.G.R.
+- 31 L.Harcourt. Landschaft mit Windmihle bei aufsteigendem Gewitter.H. 40.Br. 31.G. R.
+- falle.H.53. Br. 42.G.R.
+- 32 Fr. Cassell. Vier Rattenpintscher bei einer Ratten-
+- 33 一 Vier Hunde bei einem Wassergefass.  Gegenstick.
+- H.53.Br.42.G.R.
+- 34 A.Pricelius.Fruchtstuickmit Johannisbeeren,
+- 35
+- Pfirsichen etc.H. 70. Br.100.
+- H. Hirth.Waldpartie mit Staffage Hubsches Bild.
+- H. 47. Br. 40. G. R.
+- 36 一 Vor dem Wirthshause. Gegenstuck. H.47. Br.40.
+- G.R.
+- 37 H. Kramer.Winterlandschaft mit Blick auf eine Stadt an einem Flusse. Leinwand. signirt. H. 37. Br. 42.G.R.
+- 38 A. Thielemann. Stillleben mit Buchern, Veilchenstrauss etc. H. 33. Br. 25. G.R.
+- 39 A. Fischer. Lorenzo - Capelle bei Freiburg i. Br. Staffrt.H.39. Br.56.G.R.
+- 40 一
+- Partie bei Warmbrunn. Abendstimmung.Staffirt. H. 39.Br.56.G.R.
+- 41
+- C. G. Rodde. Italienische Landschaft.Villa mit Blick auf das Meer. Staffrt Hubsches Bild. H. 47. Br.72.G.R.
+- 42
+- N. Leoning. Partie am Golf von Neapel mit vielen Fischerbooten und Staffage. H. 63. Br. 88.G.R.
+- 43 S.Tanzer. Kniestuck einer jungen italienischen Fruchtverkauferin.H. 65.Br.46.Rococo.G. R.
+- 44 nirt.
+- Paul Spangenberg. Weiblicher Studienkopf. SigH.46.Br.34:G.R.
+- 45-48 W.Becker. Cyclus von 4 Bildern.Die vier
+- Jahreszeiten, durch weibliche Halbfiguren dargestellt. Ansprechende decorative Bilder.H.130. Br.75. G.R.
+- 49
+- L.Kohrl. Traumerei. Halbfgur eines jungen sitzenden Madchens.H. 18.Br.15.G.R.
+- 50 51 R. v.Hovell. Zwei Rauchbilder. Landschaften mit Jagdbildern. Gegensticke, oval. H. 22. Br. 28. Gerahmt.
+- 52 Luigi Fontana. Waldpartie im Herbst mit Wasser. Stimmungsbild. H. 71. Br. 100.  Geschnitzter G. R.
+- 53 一 Aehnliche Darstellung. Gegenstick zu vorhergehendem Bilde. H. 71. Br. 100. Geschnitzter G. R.
+- 54 M. Heilmayer. Maria della salute in Venedig bei Mondbeleuchtung. Stimmungsvolles Bild.Holz, sig-
+- nirt.H.17.Br.23.G.R.
+- 55 一 Kloster in den Lagunen von Venedig. Gegenstick zu vorhergehendem Bilde. Ebenso. H. 17. Br. 23. G.R.
+- 56 S.Mayer. Halbfigur eines jungen Madchens, welches eine schwarze Katze halt. H. 92. Br. 63. G. R.
+- A. Kreutzer. Schloss an einem Waldsee bei MondSehr wirkungsvoll gemaltes Bild auf
+- 57 beleuchtung. Leinwand.H. 93. Br. 74.G. R.
+- 58 Th.Wiegand. Norwegischer Fjord. Hubsches Bild.H.36.Br.47.G.R.
+- 59
+- C.H. Kuipper. Dorflandschaft bei Mondbeleuchtung. H. 39. Br. 50.G.R.
+- 60
+- W.Prager. Stillleben mit Blumen und Frichten. H.67.Br.55.G.R.
+- 61 62 C. Erhard. Waldweiher bei Tulln. SpatherbstStimmung. Gegenstucke.H. 44. Br.58.Gerahmt.
+- 63 M.Lobach.Italienische Landschaft. Scirocco-Stimmung an der Riviera. Im Vordergrunde Brandung. Schones Bild. H. 62. Br.94.G.R.
+- 64
+- J.Langk. Wassermihle an einem Sturzbach im Hochgebirge. Staffrt. H. 100. Br. 73.G.R
+- 65
+- P.Altmann.Landschaft mit Bauernhof an einem Bach.H.55.Br.77.S.R.
+- 66 一
+- Gebirgslandschaft mit Wild auf einer Wiese. H.55.Br.77.S.R.
+- 67
+- A.Pricelius.Anemonen in einer Glasvase. Wirkungsvoll gemaltes Bild auf Leinwand. Signirt. H. 62. Br. 72. G.R.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 68 E. Rose. Mohn und Kornblumen in einer Vase und einem Korbe. Sehr schones Bild. H. 72. Br. 110. Br.R.
+- 69 J.Theele. Fliegende Wildenten in einer Abendlandschaft. Sehr hubsches Bild. H. 23. Br. 37. G.R.
+- 70 A.Lynx. Winterlandschaft mit Pferden bei einer Bauernhutte. Holz, signirt. H. 13. Br. 21.S. R.
+- 71 G. Barbarini. Die Kirche zu Gloggnitz. Hubsches
+- 72
+- Aquarell. H. 26. Br.17.Gerahmt.
+- Ferd. Lechner.Blick auf das Mihlsturzhorn in der Ramsau. Schones Bild. Leinwand, signirt. H. 81. Br. 120.G.R.
+- 73 Lor. Spiridon. Der Lautespieler.Interieur mit funf Damen, welche dem Vortrage eines Pagen lauschen. Costim des XVIl. Jahrhunderts. Sehr feines Bild. Holz, signirt. H. 36. Br. 51. G.R.
+- M.Lobach.Herbstabend. See
+- 74 Baume an einem bei Abendbeleuchtung. H. 43. Br. 65. S.R.
+- 75 O. Carlen. Norwegische Kuistenlandschaft. H. 34. Br. 47. G. R.
+- C. H. Kupper.Waldlandschaft mit Wild. H. 45.
+- 76 Br. 61.G. R.
+- 77
+- G.Bakenhus. Winterlandschaft mit Reh im Vordergrunde. H. 42 Br. 28. Ohne R.
+- 78 79 Luigi Fontana. Zwei Waldlandschaften im Herbst. Stimmungsbilder. Gegenstuicke. H.52. Br.26. Geschnitzte G.R.
+- 80 A. Stiglmayer. Bei Prien am Chiemsee Fein gemaltes Bildchen.Holz, signirt. H. 16. Br. 21. G.R.
+- 81 一 Schloss Beutstetten am Starnberger See. Gegenstuck. Ebenso.H. 16.Br. 21.G.R.
+- 82 A. Pricelius. Lilien in einer Vase. Daneben ein Teller mit Trauben. Schones Bild.Leinwand, signirt. H. 100.Br. 60.Gerahmt.
+- A.Wagener. Stillleben mit Champagnerkihler,
+- 83 Austern, Frichten etc. H. 70. Br. 55. G.R.
+- 84 P.Mishel. Blick auf Neapel mit Fischerbooten im Vordergrund. In der Ferne der Vesuv. H.51. Br.92. G.R.
+- C.Gebhardt. Gebirgslandschaft mit Reh an einem
+- 85 Quell:H.36.Br.28.G.R.
+- 86
+- P.Bessano. Zwei Cavaliere von denen einer die Laute spielt sowie ein junges Madchen im Weinkeller. H. 60.Br. 42.G.R.
+- 87 二
+- Aehnliche Darstellung und Gegenstick zu vorhergehendem Bilde.
+- 88 an.
+- E.Armfeld.Rattenpintscher greifen einen Fuchs Gut gemaltes Bild.H. 70. Br. 92.G. R.
+- 89 一 Rattenpintscher auf eine Maus lauernd. Gegenstuck. Ebenso. H. 70.Br. 92.G.R.
+- 90 91 A. Staehle. Winterlandschaft. Abendlandschaft.
+- Gegenstucke. H. 32. Br. 23. G. R.
+- E. Meissner. Bufelkuh mit Kalb. Leicht aqua92 rellirte Bleistiftzeichnung. Signirt.H.18.Br.24. Gerahmt.
+- 93 94 E. Hesse.
+- Zwei Waldlandschaften. Hubsche Aquarelle.H. 21.Br.31.Gerahmt
+- L.Harcourt. Schlafende Bauerin in der Kirche. 95 H. 40. Br. 31.G.R.
+- 96
+- A. Fischer. Partie aus dem Riesengebirge. Abendstimmung. H. 16. Br.24.S. R.
+- 97 A. Lynx. Sommerlandschaft mit Muhle an einem Sturzbach. Holz.H. 31. Br. 21.S.R.
+- Winterlandschaft mit Wassermuhle und Staffage
+- 98 Gegenstick. H. 31. Br. 21. S.R.
+- 66 D.P.y. Lokhorst.Niederlandische Landschaft mit weidenden Kuhen. H. 30. Br.45. G.R.
+- 100 J.Kahrer. Halbfigur eines jungen Madchens,welches einen Schmetterling beobachtet. Leinwand, signirt. H.67.Br.3.G.R.
+- 101 J. Kinzel. Halbfigur eines Spiessburgers, welcher die Zeitung liesst.Feines Bildchen. Holz, signirt. H.26.Br.18.G.R.
+- 102 A.Thielemann. Stillleben. Champagnerkuhler, Austern, Fruchte etc. Reich componirtes Bild. H.70.Br.55.G.R.
+- 103 J. Jungblut. Flache Landschaft mit Bauernhausern an einem Flusse. Staffrt. Schon in Farbe und Stimmung.H.36.Br.53.G.R.
+- James Wallace. Landschaft mit Bauernhutte im 104 Vordergrunde. Stafrt. H.80. Br. 62. G.R.
+- 105 Waldiges Thal bei Abendbeleuchtung. Gegenstick. H.80.Br.62.G.R
+- 106 Luigi Fontana. Herbstlandschaft mit Wasser bei Abendbeleuchtung.H.78. Br. 50. Geschnitzter G.R.
+- 107 AehnlicheDarstellung. Gegenstick zuvorhergehendem Bilde.H. 78. Br. 50.Geschnitzter G.R
+- 108 A.Forstmann. Bauerngehoft an einem See bei
+- Mondbeleuchtung. H.47.Br.65.G.R.
+- 109 Schrekhaase.
+- Norwegischer Fjord  bei Mondbeleuchtung. Von guter Wirkung.H.54. Br.41.G R.
+- 110
+- C.Voll. Angenehme Nachricht. Nach der Arbeit
+- R. Muth. Strasse in Mailand.Hubsches Aquarell. H.22.Br.14.Gerahmt
+- 111 12 ist gut.ruhen.Hubsche Genrebilder. Holz, signirt. H 16.Br.12.G.R
+- A.Rellee. Rosen. Junges Madchen mit Rosen113 strauss.H.50.Br.14.G.R
+- 114 Brief lesend.
+- 一 Lecture.. Junges Madchen cinen Gegenstuck.H. 50.Br. 24.G.R.
+- A.Wagner. Fischerboote auf See in der Nahe
+- 115 einer Hafenstadt.H.51. Br. 79:G R.
+- 116
+- Segelschiff in den Hafen einfahrend. Gegenstick. H.51.Br.79.G.R.
+- 11718 C.Erhard.Winterabend MondnachtGegen-
+- stucke.H.73.Br.58.Gerahmt.
+- 119 20 C.H.Kupper. Winter und Sommer-Landschaft Gegensticke. H. 27. Br.17.G.R.
+- 121 P.Strom. Winterlandschaft. H. 26.Br. 36.
+- GR.
+- 122 L. Merkel.Zwei Ansichten vom Chiemsee. Gegen-
+- sticke.H.25.Br.41.G.R.
+- 123 E.Rose. Kupferkrugund Azalien. H.80. Br. 60.S. R.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 124 Scene auf einem Geflugelhof.
+- H. Scheuerer. Hahne im Kampf. H. 18.Br. 25.G.R.
+- 125 M.Steffen. Westmole von Swineminde. Ein Dampfer auf bewegter See, reich staffirtes, hibsches Bild.H.75.Br.110.G.R.
+- 126 E.H. Kupper.Winterlandschaft mit Hirsch als
+- Staffage. Mondschein. H.55. Br.80. G.R.
+- 127 A.Pricelius. Blumen in einer Glasschale, daneben Kupferkanne. Wirkungsvolles Bild. H. 76. Br. 46.
+- D.P. v. Lokhorst.Niederlandische Waldlandschaft mit Kuh und Kalb auf der Weide. H. 30.
+- 128 Br.38.G.R.
+- 129
+- A. Lynx. Marktscene in einer kleinen ungarischen Stadt. Reizendes fein gemaltes Bildchen auf Holz. Signirt.H.13.Br.20.S.R.
+- 130 A. Fischer. Blick auf Maria della Salute, Venedig.
+- 131
+- Aquarell. H. 30. Br. 14. Gerahmt.
+- 一 Am Canal grande. Ebenso. H. 30. Br.14. Gerahmt.
+- 132 S. Wagner. Zwei Landschaften mit Wasser und Staffage. Gegenstucke. H. 31. Br. 52.G.R.
+- 133 Bauernfuhrwerk in einer Land-
+- E. Kellermann. schaft.H.31.Br.46.G.R.
+- F.Gregoli. Partie auf Capri. Abendstimmung
+- 134 H. 30.Br.21.G.R.
+- N. Vanherle.Winterlandschaft mit Gebauden und
+- 135 Staffage. H. 14. Br. 20.G.R.
+- 136 37 A. Staehle. Zwei Abendlandschaften. Hubsche Stimmungsbilder. Gegenstucke. H.23.Br.32. G.R.
+- 138
+- M.Munzer. Frihlings - Blumen in einem Glase. H. 45.Br.26.Gerahmt.
+- 139 C.Gebhardt.Winterlandschaft mit Windmihle. Staffrt. H. 38. Br.30.G.R.
+- 140 O.Fedders. Nach dem Gewitter. Landschaft mit
+- Kuhherde. Fein in der Stimmung. H.9. Br.18. G.R.
+- 141 J. Grell. Geflugelhof mit Pfau, Huhnern etc. H. 15. Br. 29.G.R.
+- 142 J. Grell. Enten an einem Bache. Gegenstick. H.15. Br.29.G.R.
+- 143 44 A.Fleury. Zwei Interieurs mit Rococo-Genrescenen. Gegensticke. H. 20.Br. 25.G.R.Durchbrochen.
+- 145 B.C.Koekoek (). Gebirgige Gegend mit Bach.
+- Staffrt.H. 26. Br.34.G.R.
+- 146 H. Kolberer. an
+- Landschaft mitFischerhitte einem See. H. 46. Br. 65.G.R.
+- 147 W.Burze. Strasse in Nurnberg. Hubsches Aquarell.
+- H.11.Br.13.Gerahmt.
+- 148 E. Rose. Anemonen in einer grinen Glasvase. H.59.Br.48G.R.
+- 149
+- Porzellanbild. Brustbild einer Italienerin mit Tambourin. Oval H.24.Br.20.S.R.
+- 150 Gerahmtes Aquarell. Sehweizer Landschaft mit Bauernhaus. H.15.Br.20.
+- 151 52 Zwei gerahmte Kupferstiche nach W. von Kaulbach. Zerstorung von Jerusalem.  Zeitalter der Reformation.
+- 153
+- Gerahmter Kupferstich nach Hasenclever. Das Examen.
+
+## ll. Auctionstag:
+
+## Dienstag, den 18. December 1900,
+
+von 10 Uhrab.
+
+- 154 Fayenceteller. (Bourg la Reine). Geschweifte Form, mit schon gemalten Blumen und Vogeldarstellungen. Durchm.35 cm.
+- 155 Blumendecor.#Durchm.38 cm.
+- Desgleichen. Ebenso. Achteckig, mit schon gemaltem
+- 156 57 Zwei Prunkteller. Porzellan mit reichem Golddecor auf grinem und rothem Grunde, sowie figirlichen Dar-
+- stellungen.
+- 158 Visitenkartenschale aus chinesischem Porzellan mit reichem farbigen Decor und figiirlichen Darstellungen. In Bronzemontirung.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 159 Romische Lampe, 2theilig.Die Lampen werden von einem auf einem Dreifuss stehenden Kranich gehalten. Bronze.
+- 160 Pluschbekleidung und Untersatz.
+- Gobelin-Weberei mit figirlicher Darstellung. Jagdscene. H.190,Br.120 cm. In schwarzem Rahmen mit
+- 161 Papierkorb. Leder in quadratischer Form.Reiche Punzarbeit. Zweifarbig gebeizt.
+- 162 63 Zwei Prunkteller.Porzellan mit reichem Decor und figurlichen Darstellungen.Fond rosa und purpur-
+- Dos-a-dos.lVerstellbar, mit kupferfarbigem geblimten
+- farbig.
+- 165 66Vier Salonstuhlchen.Die Sitze iberpolstert und mit Pluischbekleidung.
+- 164 Seidenbezug und Pluschbekleidung.
+- 167 Japanisches Etagerenschrankchen mit Perlmutter- und Elfenbeinverzierung.
+- 169 Staffelei.Schwarz.
+- 168 Desgleichen.Ebenso. Grosser.
+- 170 Oelbild yon E. Bindemann:Blick auf Quedlinburg.
+- H.48.Br.68.Geschnitzter R.
+- 171 Desgleichen von M. O. Beyer. Stillleben mit Champagnerkuhler, Fruchten etc. Schones decoratives Bild. H.83.Br.115.Br.R.
+- 173 Queu-Schrank mit Truhenbank. Eiche.
+- 172 Desgleichen von Demselben.S Stilleben mit Hummer, Austern, Blumenstrauss etc. Gegenstick. H.52. Br. 79. Br. R.
+- 174
+- 175
+- Bank fur Vestibul, geschnitzt im Barockstyl mit Stegverbindung.
+- 176 Turkischer Lauferteppich mit hervortretend blauer Farbenstellung. 290 zu 110 cm.
+- Zwei Schemel, geschnitzt. Ebenso.
+- 177 Kaschmir-Kanne mit Deckel und Schnabeldille in rundlicher Dosenform. Kupfer verzinnt und getrieben. Mit gravirten, sehr schonen Palmetten-Ornamenten und Inschriften.
+- Riffarth.)Imp. qu. fol.
+- 178 Grosses Blatt nach G.Barlosius. (Meisenbach und
+- 179 Radirung von L. Michaleck. Marie von EbenerEschenbach. Sehr schoner Druck mit breitem Rande. Gr. fol.
+- feld, 1880. In 2 Orig -Prachteinbanden.
+- 180 Stacke. Deutsche Geschichte. Reich illustrirt. Biele-
+- 181
+- Reber. Geschichte der neueren deutschen Kunst.
+- 182 Buffet Eiche mit Schnitzwerk.
+- 2.Auff.1884.3 eleg Lwbande.(24 Mk.)
+- Ausziehtisch.Nussbaum mit 51/ Einlage.
+- 183
+- 185 Bronzekrone fur Speisezimmer: Zu Gasgluhlicht. 4flammig. Secessionsstyl
+- 184 Polster-Garnitur fur Herrenzimmer mit blauer Tuchbekleidung und Stickerei,bestehend aus Sopha und 2 Fauteuils.
+- 186 Marrokkanischer Teppich. Schon und kraftig in den
+- 187 Alte Wanduhr mit Orgel und Schlagwerk, 8 Stucke spielend,stindlich schlagend, 3stundlich je ein Stick spielend.
+- Farben. Handarbeit.400 zu 210 cm circa.
+- 188 Fayence Speiseservice fuir 6 Personen, bunt decorirt Styl der Rouen-Fayencen mit figurlichen Genres. Zusainmen 21 Stucke.
+- Englisches Krystallglasservice fuir 24 Personen a Person
+- 189 5 Glaser. 120 Glaser von sehr feinem Schliff.
+- 190 Meissener Porzellan-Dejeuner, mit reicher Blumen-
+- 191 Besteck fur 6 Personen,aus Christofle, enthaltend je 1/, Dtz. Messer, Gabeln und Loffel. In Kasten.
+- malerei.6theilig.
+- 192 Imp. qu. fol.
+- 193
+- Oelbild nach W.von Kaulbach.Die Mittelgruppe aus dem Zeitalter der Reformation. H.78. Br. i02. G.R.
+- 194 Desgleichen von B. Gast. Architecturstick aus Venedig.
+- Gegenstick zu vorhergehendem Bilde. Meublement aus
+- 195 Desgleichen von Dem selben.  Aehnliche Darstellung.
+
+dunkel Mahagoni mit geblimter Velvetbekleidung. Englisches Fabrikat im SecessionsStyl als:
+
+- 197 Zwei Stuhle. Ebenso.
+- 196 Canape mit hoher Ruckwand.
+- 198 Damenschreibtisch aus dunkel Mahagoni.# Englisches Fabrikat nach einem antiken Modell mit eingelegter Arbeit.
+- 200 Salonschrank. Dunkel Mahagoni mit Bronze beschlagen. Empirestyl.
+- 199 Saalspiegel. Dunkel Mahagoni, mit Stufe,Blumeneinsatz und Seitenkonsolen.
+- Bockhara-Teppich.Hervortretend dunkelrother Fond
+- 201 235 zu 190 cm.
+- 202 Grosse franzosische Kamingarnitur aus vergoldeter Bronze und weissem Marmor, bestehend aus Uhr und 2Kandelabern. Erstere auf langem, geschweiften Postament mit durchbrochenen Ornamenten.i 2Frauengestalten und als Bekronung l Vase. 2 vergoldete Putti als Trager der blumenstraussartigen Leuchter.
+- 203 Marmorbuste eines jungen Madchens mit hochfrisirtem
+- Kopfputz und ausgeschnittenem Kleide
+- 205 Ein Paar Prunkvasen. Porzellan mit derWiener Marke. In Urnenform und auf viereckigen Postamenten, mit reichem Golddecor auf grunem Grunde.sowie fein gemalten figurlichen Darstellungen. Libellen und Margaritten."
+- 204 Marmorpostament. Schwarz.
+- 206 Meissener Porzellangruppe mit 4 Figuren.,Die Entfuhrung der Europa. Bunt.
+- Bronzebuste Kaiser Wilheim ll, modellirt von Herr-
+- 207 Desgleichen mit 6 Figuren. Mythologische Gruppe Cybele".Bunt.
+- 209 Broche, rund,in der Mitte eine grosse schone Perle, umgeben von Brillanten,im weiteren Um-
+- 208 mann Steinmann. Grosse 60 cm
+- kreis 8 Perlen und in Bogen Brillanten gefasst.
+- 211 Stock mit Jaspisknopf in Goldbekleidung. Sehr
+- 210 Ring mit 1 Brillant von i Karat
+- 212
+- Goldene Herren Remontoir-Uhr. 3 Goldkapseln.585 Gold.
+- feine Arbeit.
+- 213 Seidenbezug, be-
+- 214 Sophatisch, schwarz mit reichem Bronzebeschlag und
+- Salon-Garnitur mit hellgeblumten stehend aus Sopha und 4 Fauteuils
+- sehr schonen Intarsien.
+- Salonschrank. Rococo, mit reichem Bronzebeschlag.
+- 215 Damenschreibtisch.Hellnussbaum mit Aufsatz, Gravirung und theilweiser Vergoldung.
+- 217 Spiegel in Ebenholz-Rahmen mit eingesetzten und gemalten Majolikaplatten.
+- 216
+- 218 Marokkanischer Teppich. Schone kraftige Farbenstellung.Handarbeit. 470 zu 205 cm circa.
+- 220 Regulator. 14 Tage gehend.
+- 219 Krystalikrone zu 12 Kerzen. Empire-Styl.
+- 221 Postament, geschnitzt mit Figur.
+- mit Reiher als Staffage. H. 57. Br. 28.G.R.
+- 222 Oelgemalde evon H.Bonisch. Frihlingslandschaft:
+- 223 Desgleichen von Demselben. Herbstlandschaft bei
+- Mondschein. Gegenstick zu vorhergehendem Bilde.
+- 224 Desgleichen bez. L. Terni.Italienische Landschaft. H.55.Br.87.G.R.
+- 226 Farbendruck nach F.v. Schennis.Im Parke von
+- 225 Desgleichen von Rob. Gleich. Kochelsee gegen den Herzogstand. Gut durchgefuhrtes Bild. H. 74. Br.100. S R.
+- Versailles. (Vereinigung d. Kunstfreunde).Roy. fol.
+- 228 Desgleichen nach J.Scheurenberg. Spannende Lecture.(Ebenso.) Roy. fol.
+- 227 Desgleichen nach Ch. Kroner. Hirsch am Waldbach. （Ebenso.) Roy. qu fol.
+- 229 Elfenbein-Miniatur. Julia Gonzaga in ausgeschnittenem
+- 230 Ein Paar Elfenbeinstatuetten, Krieger.Auf Holz-
+- Kleide. Bez.R.C
+- postamenten.
+- geschnitzt auf Holzpostament.
+- 231 Ein Paar Desgleichen,Husarenoffizier und Dame. Fein
+- 232
+- Elfenbeinstatuette,Amor als Postillon.
+- 233 Ein Paar Prunkvasen, Porzellan und von schlanker Form mit reichem Decor im Wiener Geschmack, sowie fein gemalten figurlichen Darstellungen.Der Sommer"
+- und ,das Gesicht".
+- 234 zwei Wasserlilien flankirt, leuchtung eingerichtet sind.
+- Kunstbronze.Nereide, in einer Muschel ruhend, yon welche fur elektrische Be-
+- 235 Gruppe mit 7 Figuren. Capo di monte Die Entfuhrung der Proserpina. Beschadigt. Weiss
+- 236
+- 237 Goldene Vorstecknadel. Huf mit 6 Saphiren und 7Brillanten.
+- 239
+- Jaspisdose, Eiform, in reicher Goldbekleidung und Umschrift Par faveur croit l'amour".Sehr schones Stuck.
+- 238
+- Goldene Damen-Remontoir-Uhr.
+- Perlmutterfacher. Aeusserst fein durchbrochene Arbeit.
+- 240 Ring mit Brillant.
+- 242
+- 241
+- Desgleichen. Kleiner.
+- Goldene Shlipsnadel mit Adler auf Koralle.
+- 243
+- 244 Gruppe. Capo di monte.Das Urtheil des Paris"
+- Ein Paar Dresdener Porzellanvasen mit reichem Decor in Wiener Geschmack, sowie figurlicher Malerei.Orakel" und ",Rose".
+- Grosse figurenreiche Composition. Weiss.
+- 246 Luxusschrank.Hellnussbaum mit Aufsatz,Facette-
+- 245 Postament, geschnitzt in Form einer mannlichen Figur.
+- spiegel und theilweiser Vergoldung.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- Damenschreibtisch. Hellnussbaum mit Gravirung und
+- 247 Vergoldung.
+- Franzosische Bronzefigur.bez. Paul Darbefeuille. Junge Dame im Costime des Rococo sitzt auf einem Postament und hat einen Vogelbauer mit Vogel auf dem Schooss. Auf vergoldetem Bronzesockel. Ganze
+- 249 Kaminschirm. Metall. Schone kunstgewerbliche Arbeit,
+- 248 Hohe 70 cm.
+- reich durchbrochen mit Engelsfigur.
+- Desgleichen von Demselben. Italienischer Hirtenknabe. Auf Porzellan gemalt. H.15. Br.12. S. R.
+- 250 Oelgemalde von L.Sturm. Engel der Sixtinischen Madonna. Auf Porzellan gemalt.H. 12. Br.17.S. R.
+- 251
+- 252 Bronzestatuette des Fursten Bismarck mit seinem Hunde Tyras. Modellirt yon Herrmann Steine mann. Grosse 52 cm.
+- 253
+- Standerlampe. Bronze mit imitirtem Onyxtisch und gelbseidenem Schirm.
+- 254 Servirtisch (sogenannter stummer Diener). Eiche mit Porzellanplatte. Zwiebelmuster.
+- 255 Ein Paar Porzellanvasen mit Deckel; reicher Golddecor auf farbigem Grunde und fein ausgefuhrte figur. liche Malereien. Prunksticke mit der Wiener Marke.
+- 257 Grosses Buffet. Nussbaummit schwarz, Spiegel, Seitenspinden und Schnitzwerk.
+- 256 Stehspiegel in Bronzerahmen.Facettirt.
+- 258 Schenktisch. Eiche,auf gedrehten Fussen und eingelegten farbigen Holzern.
+- 259 Truhenbank fur Bibliothek oder Herrenzimmer. Eiche mit Schnitzwerk und Intarsien.
+- 260
+- 261 Weinkuhler. Kupferner Kessel mit eisernem Gestell.
+- Persischer Teppich mit  lebhafter Farbenstellung. 280 zu 125 cm.
+
+262
+
+- 263 Bronzekrone mit sehr reichem Krystallbehang zu elektrischem Licht. 9fammig.
+
+Desgleichen, ebenso.
+
+- 264 Ballustrade, schwarz, 2theilig.
+- 265
+- 266
+- Schraubflasche. Fayence, blau und weiss decorirt in chinesischem Geschmack.
+- Bronzestatue von O. Sesmuras.Ein Schmied bei seinem Ambos stehend. Auf Marmorsockel. Hohe ohne Sockel: 45cm.
+- 267 Meissener Porzellangruppe mit 3 Figuren.Vornehmes Paar im Costum des Rococo auf einem Sopha sitzend
+- 268 Perlmuttflacon mit sehr fein durchbrochen gearbeiteten
+- und musicirend.Bunt.
+- Golduberzug.
+- Shlipsnadel in Form eines Dolches mit 1 grosseren Perle, 3 kleinen Perlen, 1 Rubin und 2 Brillanten.
+- 269 Ein Paar Ohrringe, zwei grossere schone Brillanten, umgeben von kleineren Brillanten.
+- 270
+- 271-74 Vier Meissener Porzellangruppen. Sinne".Bunt.
+- "Dievier
+- 275 Oelgemalde yon B. Lambert. Waldlandschaft im
+- 276 Desgleichen von C. Freckmann. Herbstlandschaft. H. i1.Br. 17.G.R.
+- Herbst. H. 31. Br. 41.G.R.unter Glas.
+- 277 Desgleichen von C.Lohmann. Mondscheinlandschaft. H.30.Br.47.G.R.
+- 278 Standerlampe,Majolika purpurfarbig mit reichem Decor
+- 279
+- in vergoldeter Bronzemontirung.  Mit Spitzenschirm.
+- 280 Damen-Bucherschrank im Empirestyl. Dunkel Maha-
+- Salonschrank, dunkel Mahagoni mit Facettescheiben im Aufsatz.Engl. Styl.
+- goni mit Bronzebeschlag und Glasthuren.
+- Facettespiegel.
+- 281 Damenschreibtisch, dunkel Mahagoni mit Aufsatz und
+- 282 Bronzekrone fir Salon. 5 flammig zu Gasglihlicht.
+- 284
+- 283 Rococo-Sophatisch mit Bronzebeschlag und Intarsien.
+- 284AS Staffelei,reich geschnitzt,mit theilweiser Vergoldung.
+- Pfeilerspiegel mit Untersatz. Eiche.
+- Dresdener Porzellanvase in Urnenform und auf vier-
+- 285
+- 286 Dresdener Porzellan-Tafelaufsatz auf hohem Fusse. Oval und durchbrochen mit 4 vollrunden freistehenden Kinderfiguren.
+- eckigem Postament, mit Blumenmalerei und figurlichen Darstellungen in Watteau's Geschmack.
+- 287 Grosse Tischdecke aus blauer Seide mit reicher Stickerei, Blumen und Vogel darstellend, und Netzfranze.
+- 289 Bronzebuste des Fursten Bismarck, modellirt von Hermann Steinemann. Grosse 441/2 cm.
+- 288
+- Salontisch.Nussbaum, rund, mit rosa Marmorplatte.
+- 290 Bronzestatuette. ",Castagnettentanzerin". Mit dem Kinstlernamen bezeichnet. Grosse 24 cm, ohne Marmorsockel.
+- 291 Buffet. Nussbaum in gothischem Geschmack.
+- 292 Lavoir-Gehause.Nussholz mit Karyatiden, Schnitzwerk und Vergoldung.
+- 293
+- Pfeilerspiegel mit Stufe. Schwarz mit Kupfereinlagen.
+- 294 Herrenschrank aus Nussholz in altdeutschem Geschmack mit Facher, Schieber und Kasten, sowie Verglasung in Messingfassung.
+- Bronzekrone zu elektrischem Licht, 4fammig, mit
+- 296 Sopha fir Wohnzimmer mit kupferfarbigem Moquettplusch bezogen.
+- 295 herabhangenden Birnen.
+- Eiche mit Lederbekleidung.
+- Oelbild von H. Lissmann. untergehender Sonne.H. 71. Br.100.G.R.
+- 2979 98 Zwei Stuhle.
+- 299 Wald im Winter bei
+- 300 Desgleichen von Demselben. Einsamer Wanderer. Elch in einer Schneelandschaft H. 71. Br.100. G.R.
+- Jager und Hunden gehetzt. Tuschzeichnung. H.16. Br.28,5. Gerahmt.
+- 301 Desgleichen von G. Ph. Rugendas. Ein Hirsch von Lebendige Feder- und
+- 302
+- 303
+- Salon -Meublement. Ueberpolstert und mit fraisefarbigem,geblumten Seidenbezug,bestehend aus: 2 Sopha,4 div.Stuhlen,2 Gondel-Fauteuils und einem verstellbaren Sopha.
+- 304 Antoinettetisch. Hellnussbaum mit Gravirung und Vergoldung.
+- Bronzekrone mit sehr reichem Krystallbehang zu elektrischem Licht.
+- Salonschrank. Hellnussbaum mit Maserfillungen, Gravirung, theilweiser Vergoldung und Krystallspiegel im
+- 306 Pfeilerspiegel mit Saulen. Hellnussbaum mit Krystallglas.
+- 305 Aufsatz.
+- 307 Persischer Salon-Teppich mit rosa Fond und breiter Bordure. 420 zu 360 cm circa.
+- 309 Kamin-Uhr in schwarzem Gehause aus schwedischem Marmor, mit Pariser Werk. 14 Tage gehend.
+- 308 Bronzefigur eines Japaners, welcher eine Schale in der erhobenen linken Hand halt. Hohe circa 52 cm.
+- 310 Sehr grosse turkische Decke mit reicher Stickerei in Gold und Farben auf weissseidenem Stoff. Prachtstick.
+- 311 Ausstellungsschrank, (Vitrine), italienisch Nussbaum, reiche Schnitzarbeit,Karyatiden etc
+- Bauerntisch aus italienischein Nussholz,reich geschnitzte
+- 313 und gestochene venetianische Arbeit.
+- 312 Buffet. Nussbaum im famischen Styl mit gedrehten Saulen
+- 314
+- Wandpaneel-Umrahmung. Nussbaum mit Schnitzwerk.
+- 316 Tischdecke mit reicher Stickerei in orientalischem
+- 315 Desgleichen. Ebenso.
+- Geschmack auf fraisefarbigem Seidenstoff. Mit rothem Stoff abgefittert.
+- 318 Oelgemalde von B. Lambert. Frihling im Walde.
+- 317 Bronzestatuette auf Onyxsockel.,La nuit.Schone Patina.
+- Hubsches Bildchen.H. 32.Br. 48.G.R.
+- Hubsches Genrebildchen.H. 15. Br. 11.G.R.
+- 319 Desgleichen, bez.Walter Steiner. Am Strande.
+- 320 Desgleichen von C. Pfeffer. Berchtesgaden in Oberbayern mit Blick auf den Watzmann.H. 5o. Br. 70. G.R.
+- Astronomiedarstellend.Bunt.
+- 321
+- 322 Desgleichen. Ebenso.Die Malerei" darstellend. Bunt.
+- sowie mit aufgelegtem Blumendecor und Blumenmalerei.
+- 323 Salonlampe, sachsisches Porzellan, auf hohem Fusse,
+- 324 Sachsische Porzellanvase, von bauchiger Form und
+- 325 Grosser Elfenbeinbecher aus einem Stuick. ElephantenTeufeln.
+- mit Deckel, Blumenmalerei,aufgelegten Blumen und figurlicher Darstellung in Watteau's Geschmack.
+- zahn mit sehr schoner Schnitzerei in Hochrelief. Darstellung eines Kampfes zwischen Vogelmenschen und Als Deckelknopf Teufelchen in einer Muschel. Sehr schones Stick.
+- Reich bemalt aus dem Leben des Buddhas und mit Mosaikornamenten. Sehr feine Charakteristik der Figuren. Der Deckelknopf buddhistischer Heiliger.
+- 326 Grosse alte Satsuma-Vase mit Deckel, Drachenhenkeln und Untersatz.
+- 327 Ein Paar Meissener  Porzellan- Kandelaber zu je 5 Kerzen1
+- 328 Porzellan-Tafelaufsatz mit ahnlichem Decor.
+- mit freistehenden Figuren und reichem Blumendecor.
+- 329 Bronzestatuette von Barillot. Die Schwerttanzerin."
+- 330 Salonschrank. Hellnussbaum mit Gravirung und Vergoldung. Innen Eiche.
+- Auf Marmorsockel.
+- 331 Sophatisch.Nussbaum. Rococo mit schonem und
+- 331A Goldenes Kettenarmband mit Herz, Rubin,umgeben von Rosen. Gew.57 g.
+- reichem Schnitzwerk.
+- 331B 3 Adressbuch 1900 mit Nachtrag.
+- 332 Ofenschirm, 3thlg. mit Lederbekleidung. Handarbeit. Gemalt.
+- 333
+- 334 Prunkschrank aus Nussholz. Polysander und Esche Schones und. gediegenes Mobel.
+- Lehnstuhl.Eiche. Sitz und Rucklehne iberpolstert und mit rothbraunem Pluschbezug.
+- mit Kupfereinlagen.
+- 335 Orientalischer Teppich mit schoner lebhafter Farben-
+- 336
+- 338
+- stellung. 250 zu i50 cm.
+- Lampe fuir Schreibtisch zu elektrischem Licht.
+- 337
+- 339 Sophatisch, weiss lackirt, Rococo mit Schnitzwerk und theilweiser Vergoldung.
+- Luxusschrank. Vernis Martin. Grun mit Vergoldung.
+- Rococo-kommode mit 4 Schubkasten uud reichem Bronzebeschlag.
+- 340 Alte italienische Renaissancetruhe, in der Front mit kraftig geschnitztem Rankenwerk geziert.
+- 341
+- Alte italienische Renaissancetruhe mit sehr schonen auf Grund geschnitzten Flachornamenten in der Front.
+- 342 Meissner Porzellangruppe mit 3 Figuren. Herr und Dame in Rocococostumen bei einem Apfelbaum. Bunt.
+- 343 Desgleichen mit 4 Figuren.,Die Schmuckung der Braut.Bunt.
+- 345 Sophatisch, Polysander mit Schnitzwerk und Marmor-platte.
+- 344 Salonschrank.Nussholz mit 6Schubkasten und schonen Intarsien.
+- 346 Ofenschirm, 3theilig, geschnitzt, die Fullung roth,
+- 347 Schreibtisch  fir Damenzimmer. Dunkelmahagoni. Englischer Styl.
+- Seide mit reicher Blumen- nnd Vogelstickerei.
+- 348 Lutherstuhl.Eiche. Sitz und Rucklehne iberpolstert und mit kupferfarbigem gewebten Pluschbezug.
+- Persischer Laufer-Teppich mit  gehaltener Farben-
+- 350 Gruppe mit 6 Figuren. Capo di monte. Bacchanal." Weiss.
+- 349 stellung.240 zu 115 cm.
+- 351 Bronzestatuette von Barillot.Der Trompeter yon Sakkingen." Hubsche Costumfigur. Auf Marmorsockel.
+- Salonschrank. Italienisch Nussbaum mit gebogenen
+- 353
+- 352 Scheiben und schonem Schnitzwerk.
+- Orientalischer Galerieteppich mit hellfarbigen menten im Mittelfelde und Ecken.2 220 zu 150 cm.
+- 355 Ein Paar Postamente. Schwarz.
+- 354 Bronzekrone zu Gas. 5fammig.
+- 356 Salonschrank. Schwarz im maurischen Styl.
+- Orna-
+- 357 Venetianischer Kronleuchter zu Gas,4flammig.
+- 359 Bronzestatuette auf Onyxplatte ,Sur la plage. Junges
+- 358 Rococo-kommode von bauchiger Form mit 3 Schubkasten und reichen Bronzebeschlagen.
+- Madchen im Badecostim,am Strande ruhend.
+- 361 Oelgemalde, bez. H. Wiede. Landschaft. Abendstimmung.H. 63.Br. 89.G.R.
+- 360 Persischer Teppich mit schoner und lebhafter Farbenstellung.190 zu 130 cm.
+- 362 Desgleichen, bez. G. Frein. Villen am Garda-See. H.63.Br.76.G.R.
+- 364 Bronzestatuette auf Steinsockel. Jager im Costim des XV. Jahrh.
+- 363 Desgleichen von R. Goltsch. ItalienischeWaldlandschaft mit Hirten und Herde.Leinwand, signirt. H.42.Br.62.S.R.
+- 365 Tischdecke mit reicher Stickerei in orientalischem
+- 366 Gruppe mlt 2 Figuren. Capo di monte.  Mythologische Darstellung. Amor und Psyche." Weiss.
+- Geschmack auf bronzefarbigem Seidenstoff.
+- 367 Ofenschirm.Holzgestell mit Lederfullung. Handarbeit mit Weinlaubornamenten und Inschrift:,In vino veritas." Gemalt.
+- 369 Jerrold. London, illustrirt von Dore. London 1872. Gr.-Fol. Orig.-Prachtband.
+- 368 Scheffel. Der Trompeter von Sakkingen.I Illustrirt von A.v.Werner. Stuttg.1873. Gr.40. Orig.-Prachtband (24Mk.)
+- 370 Wandteller. Fayence. （Bourg la Reine.)Achteckig mit sehr feinen, unter Glasur gemalten Blumen. Durchm. 38 cm.
+- Desgleichen. Ebenso, mit Wildenten.
+- 371
+
+<!-- image -->
+Ill. Auctionstag:
+
+## Mittwoch,den 19. December 1900,
+
+pracise 10 Uhr.
+
+- 372 Masius. Die gesammten Naturwissenschaften. 3 Bde.
+- Essen 1873--77. Eleg. Hfzbande.
+- 373 C.Gunther. Studium der Bakteriologie mit besond. Berucksichtigung der mikroskopischen Technik Lpz. 1893. Origband. (11 Mk.).
+- 375 Zimmermann. Die Wunder der Urwelt.(1866) Hfzbd— Optik und Calorik (1856). 2 Bde., broch.
+- 374 Willkomm. Wunder des Mikroskops. (1878) 0rigbd. Schacht. Mikroskop (1851) Hfzbd. Anleitungen v.Moser (1839) und Mohl (1846), Eyfferth (1877) etc. broch.
+- 376 Ein Paar japanische Porzelianvasen. (CloisonneImitation) mit reichem Blumendecor und figurlichen Darstellungen.
+- decor.
+- 377 Meissener Porzellanvase in Urnenform und mit. Schlangenhenkel.Dunkler Fond mit reichem Gold-
+- Kaminuhr in schwarzem Gehause aus schwedischem Marmor, mit Pariser Werk und sichtbarem Gang.
+- 379 Koniglich Berliner Porzellangruppe, bunt. Alle-
+- 378 14 Tage gehend.
+- gorische Darstellung der Musik.
+- 381 Ein Paar Saisumavasen mit reichem Golddecor und figurlichen Darstellungen.
+- 380 Bronzestatuette der Justitia. Auf Marmorsockel.
+- 382 Zwei Hocker,geschnitzt im Barockstyl, die Sitze mit Lederbekleidung.
+- 384 Zwei Nahtischdecken mit reicherS Stickerei in orientalischem Geschmack auf fraisefarbigem und bronzefarbigem Grunde.
+- 383
+- Ein Paar Consolen,geschnitzt im Barockstyl.
+- 385 Eck-Etagere. Rococo mit Bronzebeschlag. Beschadigt.
+- Seidenpluschbekleidung
+- 386 Gondel-Bankett. weiss lackirt, mit Schnitzwerk und
+- 387 Polster-Garnitur mit Tuchbekleidung und hellgemustertem Bezug, bestehend aus Sopha und 2 Fauteuils.
+- 388 Ein Paar Hange-Kandelaber zu je 3 Kerzen.
+- 389 90 Vier Glas-Fenstervorsetzer mit figirlichen Darstellungen im Mittelfelde.
+- 1 Tulle fehlt.
+- 391 Spieltisch, Nussbaum.
+- 393 Sekretair fuir Damenzimmer,s schwarz mit Messing-
+- 392 Persischer Gebetteppich in hervortretend gruiner und rother Farbenstellung.
+- einlagen.
+- 395 Gerahmter Kupferstich nach Guido Reni.,Aurora" Gr. Imp. qu. fol.
+- 394 Ofenschirm. Holzgestell. Lederfuillung mit landschaftlicher Darstellung.Gebeizt.
+- 396 Stutzuhr in dunkelbraunem Holzgehause mit RococoBronzebeschlagen. Hierzu eine Console.
+- 398 Buffet.Eiche mit Schnitzwerk.
+- 397 Schmuckkassette inTruhenform mit Bronzebeschlagen sowie reichen vergoldeten und versilberten Ornamenten. Im Innern mit Spiegel und grauem Atlas ausgeschlagen.
+- 399 Servirtisch.Eiche mit Schnitzwerk.
+- 401 Ein Kelim,lebhafte Farbenstellung
+- 400 Spieltisch.Eiche mit Schnitzwerk.
+- 412 Fruchtschale aus farbigem Glase. und in vergoldeter Metallmontirung.
+- Muschelformig
+- 404 Miniatur auf Elfenbein. Brustbild dero Comtesse Dubarry. In Bronzerahmchen.
+- 403 Terracotta-Biste. Othello.
+- Herrenschreibtisch mit Aufsatz.Eiche mit Schnitz-
+- 405 werk.
+- 406 Zwei Stuhle. Eiche mit Schnitzwerk.
+- 407
+- Sophatisch. Eiche.Oval.
+- 409 Ein Desgleichen. Ebenso
+- 408 Lehnstuhl fur Herrenzimmer. Nussbaum.S Sitz und Ricklehne iberpolstert und mit Lederbekleidung.
+- 410 Polster-Garnitur mit hellgelbgemustertem Seidenbezug und Pluschbekleidung, bestehend aus Sopha und 2 Fauteuils.
+- 412 Paravent, 3thlg. mit Plischbekleidung und Spiegel.
+- 411 Sopha fir Boudoir. Ebenso.
+- 413 Salontisch,achteckig,Eiche.
+- Oelgemalde bez. K. Voss. Sommerlandschaft aus
+- 414 Staffelei mit Kastenmappe. Reiche Schnitzarbeit.
+- 416
+- Desgleichen,ebenso. Winterlandschaft in Thuringen, Gegenstick zu vorhergehendem Bilde.
+- 415 Thuringen.H.12.Br.18.G.R.
+- 417 Oelgemalde bez. L. Rudow. Der Kronprinz des Deutschen Reiches und von Preussen. Kabinetstick. H.16.Br.9.S.R.
+- 419 Divan mit Moquettepluschbezug. Bogharamuster.
+- 418 Salonschrank. Nussbaum, mit Spiegel.
+- 420
+- Mit losen Ueberfailkissen an den Seitenlehnen.
+- 421 Grosse Portiere iber drei Fenster mit Lamberquins
+- Rohrstuhl. Eiche.
+- und Stangen. Aus blauem Satin.
+- 423 Bronzekrone zu 12 Kerzen. Hierzu Stearinkerzen.
+- 422 Zwei Fauteuils mit gemustertem Bezug und Seidenpluscheinfassung.
+- Rococo-Kommode mit 3 Schubkasten und reichem
+- 425 Marokkanischer Teppich, von kraftigem Ausdruck in den Farben. Handarbeit 370 zu 205 circa.
+- 424 Bronzebeschlag.
+- 426 Gruppe. Capo di monte. Weiss. Figurenreiche Darstellung.
+- Bez. A. Hoffmann.Durchm. 39 cm.
+- 427 Meissener Porzellanschussel. Der Rand rosafarbig, im Mittelfelde das Brustbild einer jungen Romerin.
+- 428 Meissener Porzellangruppc. Schneider auf einem Ziegenbock reitend. Bunt.
+- in Bauernkostimen mit Hund.Bunt.
+- 429 Eine Desgleichen mit 3 Figuren. Knabe und Madchen
+- Geschirrzimmer,Kiefer lasirt,mit Malerei und Trink-
+- 430 spruchen, bestehend aus:
+- e
+- b) Topfschrank mit Etagere.
+- Geschirrschrank mit altdeutscherButzenverglasung.
+- Schenktisch, altdeutsch; die Platte Buchen.
+- 431 Turkischer Teppich mit schonen saftigen Farben. 220 zu 110 cm.
+- Zwei Schemel.
+- 432 Bronzefigur eines japanischen Kriegers involler Rustung mit reichem Golddecor. Hohe 28 cm. Auf Holzuntersatz mit Golddecor.
+- Auf geschnitztem Holzuntersatz.
+- 433 Desgleichen mitLanze,Srhild und Schwert.Hohe 41 cm.
+- 434 Marquis-Ring mit 1 Saphir und Brillanten.
+- 436 Marquisring, Saphir umgeben von Brillanten.
+- 435 Broche, langliche Form mit 1 Saphir 2 Brillanten.
+- und
+- 437 Goldene Broche mit Mosaikeinlage. Vogel und Blumen.
+- 437A Goldener Ring mit 12 Ringen mit Perlen, Turkisen
+- 437B Zwei goldene Siegelringe.
+- und farbigen Steinen besetzt und ein Paar goldene Ohrringe. Gew. 17 g.
+- 438 Damenschreibtisch. Polysander,mit Aufsatz.
+- 440 Glasvase auf Untersatz. Rosa Fond mit Malerei.
+- 439 Nahtisch. Desgleichen.
+- 441-
+- Albumtisch. Eiche geschnitzt.
+- -43 Drei Paneelbretter.Eiche mit Schnitzwerk.
+- 445 Salontisch, mahagonifarbig mit theilweiser Vergoldung.
+- 444
+- 446
+- Postament. Pyramidenformig mit Facher. Nussbaum.
+- 448 Kaschmirkanne aus Silber, blau, sehr reich emaillirt Form einer Ente, auf dem Deckel Tigerpaar.
+- 447 Musikwerk mit Harfenklang,6 Stucke spielend.
+- 449 Silberne Kaschmirkaraffe,blau,sehr reich emaillirt, mit Schlangenhenkeln.
+- 450
+- 451 Desgleichen von Demselben. Motiv bei Pfalzel an der Mosel. H. 65. Br. 43. Geschnitzter Rahmen.
+- Oelbild von E. Bindemann. Fischerhutte bei Mondbeleuchtung. H. 54. Br. 66. Geschnitzter u. gemalter Rahmen.
+- 452 Desgleichen von C. Freckmann. San Franzisco.
+- 453 Desgleichen von Derselben. Neapel. H. 21. Br.32. S.·R.
+- H. 20. Br. 30. S. R.
+- 454 Desgleichen. Auf dein Wohl. Fein gemalte Genrescene. H. 31. Br. 20. S. R.
+- mit Staffage. H.52. Br.41. G.R.
+- 455 Desgleichen von A. Lessing. Gebirgslandschaft
+- 456 Ring. 1 grosserer Saphir, die verschlungene Fassung
+- 457 Broche, auf einem dunnen goldenen Stab grosserer Saphir umgeben von Brillanten.
+- mit Brillanten besetzt.
+- 458 Goldener Ring, mit grosserem Saphir und Brillant
+- 459 Goldene Herren Anker-Uhr. Union. Sehr gutes Werk3 Goldkapseln.Monogramm M.H.
+- und je 2 Rosen auf der Schiene.
+- 459A Goldene Broche mit Granaten,Trauring, 2 Ringe mit Turkisen,1 Desgleichen mit Stein und 1 Gold-
+- 459B Ein Paar goldene Ohrringe mit Turkisen und Tafelsteinbrillanten, 3 goldene Ringe mit Turkisen, ein Ohrring mit kleinem Brillant.
+- 460
+- theilchen.
+- Salonschrank.Schwarz mit sehr reichem Schnitzwerk.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 461 Tisch. Eiche mit Stegverbindung, fur Herrenzimmer.
+- 463 Bowle. Opalglas in vergoldeter Bronzemontirung.
+- 462 Tischlampe. Glas auf Saulenfuss mit Spitzenschirm.
+- 464 Bronzekrone zu Gasgluhlicht. 3fammig.
+- 464A Nippestischchen. Ebenholz mit gedrehtem Fusse und reicher Perlmuttereinlage.
+- 465
+- Damenschreibtisch.Schwarz.
+- Salonstuhl. Vergoldet,mit Flachpolster und ge-
+- 467 68 Zwei Albumtischchen mit Silkbekleidung.
+- 466 mustertem Bezug.
+- 469 Claviersessel mit Notenbehalter. Nussbaum.
+- Farbenstellung. Handarbeit. 4 zu 2,15 m circa.
+- 470 Marokkanischer Teppich yons schoner lebhafter
+- 471 Bronzestatuette. "La vague." Junges Madchen von schaumenden Wogen umspilt. Auf Bronzesockel
+- 472 Gruppe mit 6 Figuren. Capo di monte. "Entfuihrung der Europa."Weiss.
+- mit Onyx. Schone braune Patina.
+- 473 Besteckkasten. Alfenid. Je 6 Tischmesser,Gabeln, Essloffel, Theeloffel, Messerbankchen und 2 Cabaretgabeln.
+- reicher Bronzeverzierung.
+- 474 Kaminuhr, Marmorsockel mit Bronzegruppe und
+- 475 Meissener Biscuitgruppe, nach der Antike. Venus und Endymion. Hohe 30 cm. Kleine Theilchen gekittet.
+- 477 Goldener Ring, 2 Brillanten und 1 Rubin nebenein-
+- 476 Goldenes Armband, 3theilige Schiene mit Perlen und Rosen.
+- ander gefasst.
+- 479 Meissener Porzellangruppe mit 2 Figuren. "Der
+- 478 Ein Paar Ohrringe,2 sehr schone grossere halbe Perlen umgeben von Brillanten.
+- Raub der Sabinerin."Bunt.
+- Oelgemalde von A. Dorg. Fischerdorf an der hollandischen Kuste.Reich staffrt.H. 30. Br. 46. G.R.
+- 480 Desgleichen mit 4 Figuren. "Jagdscene." Bunt.
+- 481
+- 482 Desgleichen von F.Ellmin ger. Scene aus R. Wagner's ,Meistersinger". H. 68. Br. 54. Rococo G.R.
+- 483 Scene aus ,Romeo
+- 484 Desgleichen von J. v. d Lage. Brustbild einer jungen Italienerin. H. 58. Br. 46. Gerahmt.
+- Desgleichen von Demselben. und Julia". H. 68. Br. 54. Rococo G.R.
+- 485 86 Zwei Oelgemalde von C Erhard. Herbstabend. Waldweg bei Regenstimmung.
+- 487 Buffet. Eiche mit Schnitzwerk.
+- Gegensticke.H.73. Br.57.Gerahmt.
+- 488 Herrenschreibtisch.Eiche mit Aufsatz.
+- 490 Schreibtischstuhl, Sitz und Ricklehne iberpolstert
+- 489 Krone zu Gas.
+- 491
+- und mit dunkelblauem gewebten Pluschbezug.
+- 492
+- Ein Puff,uberpolstert und mit Stoffbezug
+- Sophatiseh. Schwarz, achteckig mit Kupfereinlagen.
+- 493 94 Zwei Stilleben.Holz geschnitzt. Todtes Wild.
+- 495 Meissner Porzellan-Tafel-Garnitur mit reichem Golddecor, bestehend aus Obstschale auf Fuss und
+- zwei Kuchenkorben.
+- 496 Bronzestatuette von Barillot. ,Der Rattenfanger von Hameln.
+- 497 Venetianisches Bier-Service,Fadenmuster,bestehend aus Tablett,Kanne und 4 Glasern.
+- 498
+- Silbernes Kinderbesteck. 3theilig. In Etui.
+- 499 500 Zwei Spazierstocke mit silbernen Griffen.
+- 501 Broche,mattgold.vierblattriges Kleeblatt,dessen Rander mit Rubinen, Saphiren  Smaragden und Diamanten besetzt sind, in der Mitte 1 Perle.
+- Goldenes Armband,mattgoldener Reif.Anker mit
+- 502 weissem mittelgrossen Brillant.
+- 503 Ein Paar Porzellan-Kandelaber zu je 5 Kerzen mit freisitzenden Amoretten und Kinderfiguren und aufgelegten Blumen.
+- 505 Gerahmte Radirung von L. Mantl nach R. Eichstaedt. Blucher empfangt bei Genappes die erbeuteten Orden,
+- 506
+- 504 Gruppe mit 5 Figuren.Capo di monte. Mythologische Darstellung. Beschadigt.Weiss.
+- Imp. qu. fol.
+- Hut und Degen Napoleons."I
+- Farbendruck nach F. Waldmiller. Nach der Schule. (Vereinig. d. Kunstfreunde) Gr. fol.
+- 507 Desgleichen nach L. Herzog. Vom Eise zerschellt. (Ebenso.) Gr. qu fol.
+- 509 Stillleben mit Frichten etc.H. 47.
+- 508 Oelbildvon C.Werner. Flieder in einem grinen Krug.H. 100. Br.68. Gerahmt.
+- Desgleichen. Br. 50.Gerahmt.
+- 510 Br. 79.  G. R.
+- Desgleichen von P. Volaro. Kunstliebhaber von seinen Schatzen umgeben. Hubsches Bild.H. 52.
+
+Rudolpn Lepke's Kunst-Auctions-Haus in Berlin.
+- 511
+- Oelbild von Rob. Gleich. Alte Liebe bei Cuxhaven. H. 40.Br.55.S.R.
+- 512 Schreibtisch. Eiche mit Aufsatz und reichem Schnitzwerk.
+- 514 15 Zwei Bankets (Feldherrnstihle). Sitz gepolstert und mit buntem Bezug.
+- 513 Schreibtischstuhl. Eiche, halbrund mit reichem Schnitzwerk und kupferfarbigem seidenen Gobelinbezug.
+- 516 17 Zwei Paneele aus Nussholz mit gestanzten
+- 518 Marokkanische Stickerei. Sonnenschitzer: Reiche Arbeit aus farbiger Seide.
+- Schnitzereien. Figurliche Darstellungen.
+- 519 Marokkanischer Bezug mit gehakelten Einsatzen und Kanten.
+- 521 Stock mit Silberknopf, Hundekopf.
+- 520 Goldener Ring, Saphir und 2 Brillanten auf der Schiene.
+- 522
+- 523 24 Zwei hollandische Fayenceleuchter von verschiedener Grosse und Form. Unter Glasur gemalt.
+- Gruppe mit 2 Figuren. Capo di monte.Leda mit dem Schwan.Beschadigt.Weiss.
+- 525 Oelgemalde, bez. F. Krack. Blick auf Schloss Meran
+- 526 627 Zwei Desgleichen,bez. L.Rudow. Kaiser Wilhelm II. und Kaiserin Augusta H. 14. Br. 9. S. R.
+- 529
+- in Tyrol.H.55.Br.86.G.R.
+- 528 Desgleichen von C. Werner. Flieder in einer Glasvase.H. 89. Br.60.Gerahmt.
+- 530 Ein Paar Salonlampen. Metall, reich ornamentirt.
+- Wandbrett. Eiche,reiche Bildhauerarbeit.
+- 531 32 Zwei Porzellan-kandelaber zu je 4 Kerzen. Reich decorirt.
+- 533
+- 534 Japanischer Bronzeteller von tiefer geschweifter
+- Porzellan-Stehspiegel mit Amoretten und aufgelegtem Blumendecor.
+- Form mit aufliegendem Muscheldecor. Flechtarbeit.
+- 536 Ein Paar Satsumavasen. Fleutenform mit reichem Golddecor und figurlichen Darstellungen.
+- 535 Blumenvase aus farbigem Glase in Bronzemontirung.
+- 537 Japanische Porzellanvase mit Deckel. Urnenform, Okavachi.Blau dekorirt.
+- 538 Bronzekrone fir Salon, 5fammig zu Gasgluhlicht.
+- Grund stilisirte Wellen. In glatten Feldern Tiger an einem Wasserfall, Paonien, Schmetterlinge und Winden an einer Hecke. H. 35. Durchm.24 cm.
+- Secessionsstyl.
+- 539 40 Zwei Fauteuils,iberpolstert und mit rosafarbigem
+- 541 Rococo-Kommode von  geschweifter Form mit 4 Schubkasten und reichen Bronzebeschlagen.
+- 543
+- Seidenbezug.
+- 542 Salon-Teppich. Heller Fond. 3 zu 5 m.
+- 544 Teppich fur Schlafzimmer.Moquette.
+- Englische Bettstatt. Messing.
+- 545 Japanische Flasche,Alt-Satsuma. Um den Hals
+- 546 Japanisches Porzellanbild,bestehend aus 6 Platten. Matsubaumen etc. und breitem schwarzem Holz-
+- und am Fuss Ornamente. Mit Darstellung von Drachen in Wolken.H.33.Durchm.15 cm. Sehr schones Stick.
+- Mit Vogeln,Paonien, Randornament.Blau decorirt. Ins rahmen. H. 49. Br. 73.
+- 547 Hollandische Fayencevase in Kurbisform mit sehr schonem unter Glasur gemaltem Decor.
+- 550 Blumen
+- 548 49 Zwei 0elbildervon C.Erhard. Fruhlingsmorgen. Die March bei Regenstimmung. Gegenstucke. H. 57. Br. 73. Gerahmt.
+- 551 Desgleichen von H. Lissmann. Norwegische Kiste.
+- Oelgemalde bez.D. Howard.Stillleben. und Fruchte.H.68.Br. 55.S.R
+- Abendstimmung.H.71.Br. 100.G.R.
+- 552 Desgleichen von Demselben. Mondnacht in den Lofoten, Norwegen. H.71.Br.100.G.R.
+- Bausteine. mappe (60 Mk).
+- 553 Lose Blatter aus den Mappen Berliner Kunstler. 30 Blatt. Leipzig 1877. Fol.In Original-
+- 554 Cervantes. Don Quixote, deutsch.Mit Illustr. y.
+- Gust.Dore. Berlin 1869. Gr.4°. 2 Orig.-Prachtbande.
+- 555 Musee de Versailles.Avec texte explicatif.Paris 1852. 4°. Mit vielen schonen und interessanten
+- 55657 Gerahmtes Aquarell. DerTodFriedrichs des Grossen. Oelbild in weissem Empire-Rahmen. Landschaft.
+- Stichen.Brauner Lederband.
+- 55859Zwei
+- Oelbilder. Scenevoreiner Schanke. Mannliches Portrait. Ohne Rahmen.
+- 560 Japanische Satsumaschale mit sehr reichem und ausserst feinem Decor in Farben und Gold sowie figurlicher Darstellung. Durehm. 15 cm.
+- 561 mann Steinemann.
+- Bronzebiste des Firsten Bismarck yon HerrGrosse 16 cm.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 562 Schreibtischstuhl. Der Sitz mit Lederbekleidung. Handarbeit.
+- formigen Ornamenten im Mittelfelde. 205 zu i15 cm..
+- 563 Orientalischer Teppich mit hellfarbigen quadrat-
+- 564 Tischlampe auf vergoldetem Bronzefuss und imitirtem
+- 565 Hoilandische Fayencevase von besonderer Grosse,
+- Onyxsockel; mit Spitzenschirm.
+- Kugelformig und mit langem Halse, sowie sehr apartem unter Glasur gemaltem Decor.
+- 568 Desgleichen,bez.C.Bohm.Winterlandschaft mit Staffage. H.76. Br.63. G.R.
+- 566 67 Zwei Oelbilder von C. Erhard. Aus den Marchauen. An der March.  Gegenstucke. H. 57. Br. 73. Gerahmt.
+- 569
+- Schenktisch. Eiche, mit eingelegten farbigen Holzern.
+- 571 Bronzekrone fur Speisezimmer, 4fammig.
+- 570
+- Ruhestuhl, gepolstert und mit Lederbekleidung.
+- 572 Orientalischer Gebetteppich
+- 573 Buste Kaiser Wilhelm's I. Kunstbronze;modellirt von A. Micheli.
+- mit hervortretend hellem Muster. 190 zu 105 cm.
+- 574 Salon-Lampe. Satsumavase mit reichem Golddecor und figirlicher Darstellung. In Bronzemontirung mit Glocke und Schirm.
+- 576 Bronzebiste des Fursten Bismarck von Herr-
+- 575 Ein Paar japanische Lackwandbretter. Blaugriner Fond miteingelegter bemalterElfenbeinschnitzerei, Ahornblattern mit Vogeln.
+- mann Steinemann. Gr.41cm.
+- Hohe circa 35 cm. Auf rothem Marmorsockel.
+- 577 Bronzestatuette eines jungen Madchens mit Katzchen.
+- 578 Japanische Porzellanvase yon hoher schlanker Form.Dunkelblauer und hellgrauer Fond mit Blumen-
+- 579 Hollandische Fayencevase, zweihenklig mit sehr schonem unter Glasur gemaltem Decor.
+- decor.
+- 580 81 Zwei Demi-Fauteuils,i uberpolstert und mit Gobelinbezug.
+- 583 Ein Paar japanische Lack-Wandbretter,blau-
+- 582 Papierkorb. Lederarbeit.Blumenmuster.
+- gruner Fond mit eingelegter bemalter Elfenbeinschnitzerei, Chrysanthemen mit Vogeln.
+- und Als Knopf eine Rose.
+- 584 Japanischer Eifenbeinbecher, mit Blumen Vogeln aus Perlmutter, in eingelegter Arbeit.
+- 585 Orientalischer Teppich,schone Farbenstellung.
+- 586 Turkischer Teppich. Lebhaft in den Farben. 180
+- zu 140cm.
+- an der March Br. 73.Gerahmt.
+- 587887 Zwei Oelbilder von C.Erhard. Sonnenuntergang Regenstimmung. Gegensticke H.57.
+- 589 90 Zwei Desgleichen von C Gebhardt. Jagdscenen. Hubsche Bilder. Gegenstucke.H. 22. Br. 28. S.R.
+- 591 92 Zwei Desgleichen. Stadtansichten. Gegensticke.
+- H.21.Br.30.G.R.
+- 593 94 Zwei Demi-Fauteuils, uberpolstert und mit ge-
+- mustertem Pluschbezug.
+- 595 Ein Paar japanische Lack-Wandbretter. gruner Fond mit Elfenbein-Einlagen, bemalt, Tauben auf Weidenzweigen darstellend.Sehr schone Stucke.
+- Blau-
+- 596 Chinesisches Elfenbeinkorbchen. mit Henkel und Deckel, sehr schon geschnitzte, durchbrochene Arbeit.
+- 597 Altjapanisches Ninseischisselchen, Blumenkelchform, krakelirt, gelblicher Fond mit Malerei und Avataporzellantellerchen, achteckig,bemalt.
+- 598 Hollandische Fayencevase mit sehr schonem unter Glasur gemaltem Decor. Fond dunkelgrin. Zwei-
+- 599 Ein Paar Majolikavasen in Bronzemontirung mit
+- henklig.
+- figurlicher Malerei ,Edelwild“.
+- 600 Majolika-Jardiniere.I Ebenso.
+- 601 Schild einer Riesenschildkrote.
+- 602 603 Zwei Desgleichen. Kleiner.
+- 604 Schwert eines Sagefisches.
+
+<!-- image -->
+
+## IV. Auctionstag:
+
+## Donnerstag, den 20. December 1900,
+
+<!-- image -->
+
+- 605 Bolley-Kopp.Techn.-chem.Untersuchungen.(1874). Hfzbd. Sehubert's Lehrbuch d. techn. Chemie (1854.)
+- Ppbd.
+- Regnault (1851, Diverse altere Chemiewerke.
+- 606 4Lwbde.);Mulder (1851,2 Hfzbd.);Lehmann
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+(1853, 3 Hfzbde); Liebig (1842,Hfzbd),Chemische Briefe (1865, Hfzbd.); ferner von Claus,Duflos, Rammelsberg, Schitzenberger,Kubel-Tiemann,Krocker, gebunden.
+
+- Alexander Braun’s Leben.Berlin 1882.
+- 608 Menzel. Geschichte Europas, 1789 bis 1815. In 2Lwbd. Der deutsche Krieg 1866. In 2 eleg. Lwbden.
+- 607 Mettenius. Gr. 8°, broch.
+- 609 Muspratt's Handbuch d. technischen Chemie. 3.Auf. v.Kerl u. Stohmann. 7Bande. Braunschw. 1880. kl. 4°. In gut erhalt. Hfzbanden gebunden. (Lpr. ca. 280Mk.)
+- 5.Auf.v. Stohmann
+- 611 Joh,Muller's Lehrbuch der Physik u. Meteorologie (1868). 2 Hfrzbande.
+- 610 Payen's technische Chemie. u.Engler. Stuttg. 1874.In 2 Hfrzbanden.
+- 612 Fresenius. Quantitative (1870) und Qualitative (1869)
+- 613 14 Zwei sachsische Porzellan-Wandteller bez. Meissen. Mit weiblichen Brustbildern.
+- chemische Analyse. Hlwbd. u. Hfrzband.
+- 615 16 Zwei Desgleichen. Ebenso.
+- 618 19 Zwei Nymphenburger Porzellanfiguren. Weiss.
+- 617 Vier Paar sachsische Porzellantassen von geschweifter Form,bez. Meissen. Reich decorirt und mit figurlichen Darstellungen.
+- Vornehmer Herr und Dame in Rococo-Costumen.
+- 621 Meissener Porzellangruppe.
+- 620 Prunkvase.Porzellan mit der Wiener Marke,reichem Golddecor, aufgelegten Blumen und vollrunden Vogeln; sowie figurlicher Malerei in Watteau's Geschmack. Als Bekronung auf dem Deckel ein Blumenstrauss.
+- 622 Desgleichen.
+- Bunt.
+- 623 Desgleichen. Bunt. Knabe mit Vogeln."
+- Bunt. "Knabe mit Fisch."
+- 624 Japanische Porzellanvase von bauchiger Form und mit schlankem Halse. Durchbrochen und mit figurlichen Darstellungen.
+- 626 Porzellanfigur. Bunt.  Junger Mann im Rococo-
+- 625 Japanische Porzellanvase von eckiger Form mit reichem figurlicben Decor.
+- Costume in begrussender Stellung.
+- 628 Ein Paar Satsumavasen mit reichem Golddecor und figurlichen Darstellungen.
+- 627 Desgleichen.Ebenso. Junge Dame in ahnlicher Darstellung. Pendant zu voriger Nummer.
+- 629 Japanischer Wandschirm, 4thlg. mit reicher Gold-
+- 630 Fayenceteller (Bourg la Reine)Achteckig und mit sehr schoner Blumenmalerei. Unter Glasur. Durchm. 38cm.
+- stickerei auf schwarzem Grunde.
+- 631
+- Desgleichen. Ebenso, von geschweifter Form.
+- 634 Ein Desgleichen von Amedick. Italienischer Kloster-
+- 632 33 Zwei Oelbilder von E.Erhard. Waldbach im Herbst. Waldbach bei Petersau.Gegensticke. H. 73. Br. 57.Gerahmt.
+- kreuzgang. Hubsches Bild. Staffrt. H. 79. Br. 61. G.R
+- Klosterruine. und gemaltem Rahmen.
+- 635 Ein Desgleichen von E. Bindemann. Rheinische H. 54. Br.65.In geschnitztem und
+- 636 Ruhebett,grin gebeizt.
+- 638
+- Bronze-Ampel fur Speisezimmer zu Gasglihlicht.
+- 637
+- Postament. Stuck,marmorirt.
+- Persischer Galerieteppich mit lebhaften Farben.
+- 640 Gestell. Die
+- 639 245 zu 110 cm.
+- 641 Meissener Porzellan-Kaffeekanne.V Weiss.
+- Ofenschirm auf schmiedeeisernem Fullung aus Sammet mit Blumenstickerei.
+- 642 Sechs Paar chinesische Porzellanschalchen mit
+- reichem Decor.
+- 644 Rococo-Kommode mit 2 Schubkasten und reichem Bronzebeschlag.
+- 643 Prunkteller.Porzellan mit der Wiener Marke. Der Rand rothbraun mit Golddecor, sowie fgirliche Darstellung im Mittelfelde:,Ovid und Polyhymnia".In Rococo-Goldrahmen.
+- 645 Desgleichen.Ebenso.
+- 647
+- 646 Persischer Teppich mit hellen Ornamenten auf blassrothem Grunde.
+- 648 Ein Paar Salonlampen. Marmor in Metallmontirung.
+- Damenschreibtisch. Mahagoni.
+- 649 Storch. Metall. Japanisch.
+- Ein Paar Satsuma-Vasen mit Deckel. Reich
+- 651 Porzellangruppe mit 2 Figuren.Bunt. Knabe und Madchen.
+- 650 decorirt.
+- 652
+- Desgleichen. Ebenso. Bunt. Zwei Knaben.
+- 653 Toilette-Garnitur mit Elfenbein.5 5theilig. In Etui
+- 654 Desgleichen. Ebenso. 3theilig. In Etui.
+- 655 Goldene Herren-Anker-Uhr Drei Goldkapseln 585 er Gold. Fabrikat Geneve.
+- 657
+- 656 Silbervergoldeter Schmuck. Perlen verziert.
+- Collier,Armband, Broche, Ohrringe und Pfeil reich mit Amethysten und
+- Goldene Broche, Schlange mit Rubin.
+- 659 Porzellangruppe mit 2 Figuren. Bunt. Knabe und Madchen.
+- 658 Porzellanfigur. Bunt. Knabe mit Affe.
+- Bronzestatuette. Amorette, das Kunstgewerbe dar-
+- 661 Papierkorb.Leder. Handarbeit. Mohnblumen.
+- 660 stellend. Auf Marmorsockel.
+- 662
+- Hocker,der Sitz mit Lederbekleidung
+- 664 Oelgemalde von V.Rossi. Auf dem Canale Grande in Venedig. H. 20. Br. 31. G. R.
+- 663
+- Ein Paar Schemel,\_geschnitzt mit Maskarons.
+- 6G5 Desgleichen von C. Lohmann.Havellandschaft im Mondschein.H.20. Br. 31.G.R.
+- 667 68 Zwei gerahmte Radirungen von W. L. Arndt.
+- 666 Kupferstich von F. Ludy nach L. Knaus. Das widerspenstige Modell. Vor aller Schrift mit breitem Rande. Roy. qu. fol.
+- 669
+- u. A. Das Brustbild Beethovens.Fahnentrager. Gr. fol.
+- 670
+- Oelbild von H. Lissmann. Strand bei Nervi, Riviera. H. 71. Br. 100. G.R.
+- 671 Rococo-Kommode mit 2 Schubkasten, gemalten Porzellanplatten und reichen Bronzebeschlagen.
+- Desgleichen von Demselben. Norwegische Kustenparthie bei Abendbeleuchtung. H. 71. Br. 100. G.R.
+- Sophatisch.Mahagoni.Rund.
+- 672
+- scenen. H. 14. Br. 1l. In ovalen schwarzen Rahmen.
+- 673 74 Zwei Metallreliefs nach Fr. Boucher. Nymphen-
+- 675 Ein Desgleichen von J. B. Greuze. Die Verlobung.
+- und
+- H. 1l. Br. 14. In ovalem schwarzen Rahmen.
+- 677 Goldene
+- 676 Goldener Ring, Kleeblatt aus 2 Rubinen 1 Brillant.
+- 678 Broche, Hufform mit 1l Saphiren,
+- Damen-Remontoir-Ubr mit Emailverzierung.
+- zwischen welchen je 2 kleine Brillanten gefasst sind.
+- bezug.
+- 679 Lehnsessel, mahagonifarbig im engl. Styl mit Velvet=
+- 680 Phantasietisch,mahagonifarbig mit Gravirung und Vergoldung.
+- 681
+- Bauerntisch.Eiche.
+- 682 Sechs Stuhle, Eiche. Sitz und Ricklehne mit Linoleumbekleidung.
+- 684
+- 683 Ein Paar Bronze-Kandelaber zu je 5 Kerzen. Vergoldet.
+- 685 Sachsische Porzellangruppe mit 2 Figuren. Bunt. ,Liebespaar."
+- Ein Paar Bronze-Clavierleuchter.
+- 686-88 Drei Hollandische Fayencevasen von verschiedener Form und Grosse mit feinem unter Glasur gemaltem Decor.
+- 689 Rococo-Kommode von geschweifterForm mit 3 Schubkasten und reichen Bronzebeschlagen.
+- 690 Chinesischer Wandschirm,4thlg.mit reicher Goldstickerei auf schwarzem Grunde. Beschadigt.
+- 692
+- 691 Krone zu 12 Kerzen, bronzirt.
+- Oelgemalde bez. A. Plagemann. Die heilige
+- Orientalischer Teppich.Gestreiftes Muster. 195 zu 120 cm.
+- 693 Familie. H. 63. Br. 47. G.R.
+- 694 Desgleichen. Ebenso. Christus am Oelberge. Gegenstick zu vorhergehendem Bilde.
+- 696 Desgleichen bez. K. Kaufmann. Ansicht von Venedig.H.20.Br.46.G.R.
+- 695 Desgleichen bez. B. Stein. Am Lago maggiore. H.21.Br.31.G.R.
+- 697 Salontischchen mit chinesischem,reich decorirtem Porzellanteller. Gekittet.
+- 698 Ein Puff mit Pluischbezug und Stickerei.
+- Zwei Tabourets mit Pluschbekleidung; sowie 3 Sopha-
+- 700 Spieltisch.Schwarz.
+- 669 und 2 Fusskissen.
+- 701 Ein Paar japanische Vasen, Reich decorirt.
+- 704 Silbernes Besteckenthaltend:1 Suppenloffel, 1 Gemuseloffel sowie Tranchirmesser und Gabel. In
+- 702 703 Zwei Weinkannen.Alt-Silber. Innen vergoldet.
+- Kasten.
+- Marokkanischer Teppich yon schoner lebhafter Farbenstellung. Handarbeit. 360 zu 220 circa.
+- 705 Ein Desgleichen enthaltend: 2 Fleischgabeln sowie Butter- und Kasemesser. In Etui.
+- 706
+- 707 Oelbild von E. Rose. Gladiolen. H. 75. Br. 40. G.R.
+- H.74.Br.50.Gerahmt.
+- 708 Desgleichen von C. Werner. Waldpartie mit Staffage.
+- 709 Oelbild von C.Hubner. Schornsteinfeger im Schnee.H.30.Br.19.G.R.
+- Glas Wein kredenzend.H.61. Br. 39.G.R.
+- 710 Desgleichen, bez. J. de Guzman 91. Spanierin ein
+- 711 Desgleichen, bez. B. Muhlig. Partie aus Alt-Dresden. H.17.Br.13.G.R.
+- 713 Salatbesteck und 2 Aufschnittgabeln mit silbernen
+- 712 Fischbesteck mit silbernen Griffen, vergoldet und reich verziert.
+- Griffen, vergoldet.
+- 715.Ein Paar Manschettenknopfe,rund, matt tgehammertes Gold mit kleinen Rubinen, Saphiren und Diamanten.
+- 714 Goldene Kravattennadel, Hufeisen mit 11 Saphiren.
+- 716 Japanische Porzellanvase,rothviolett marmorirt, bauchige Leibung mit schlankem Halse.
+- 718 Indisches Schwert mit gebogener Damascener Klinge, gepresster Sammetscheide und schonem goldtauschirten Griff.
+- 717 Chinesische Silbernippes. Schiff, Filigranarbeit, Sanfte und Vogelbauer mit Vogel.
+- 719 Franzosische Bronzebuste, bez. Vitanis ,Sapho".
+- 722
+- 720 21 Zwei Butzenfenster in Bleifassung mit figurlicher Malerei. H. 42. Br. 110.
+- 723 Meissner Porzellanbiste. Bunt.Beschadigt.
+- Orientalischer Teppich in gehaltener Farbenstellung.
+- 724 Bronzestatuette.Junges Madchen in antikem Ge-
+- 725 Salontisch,altmahagoni, barock.
+- wande in tanzender Stellung. Hohe 35 cm.
+- 726 Spiegelrahmen. Nussbaum, reiche Bildhauerarbeit.
+- 728
+- 727 Servirtisch, sogenannter stummer Diener. NussbaumImitation.
+- 730 Goldenes Armband mit Perlen.
+- 29 Zwei Revolver, 5laufig und 1laufg.
+- 731
+- Goldene Broche mit Perlen.
+- 733 Porzellan-Kandelaber zu 4 Kerzen mit reichem Decor.
+- 732 Goldener Ring mit Perle und Brillanten.
+- 734-36 Drei Hollandische Fayencevasen von schiedener Form mit schonem unter Glasur gemaltem verDecor.
+- Imitation.
+- 737 Servirtisch, sogenannter stummer Diener. Nussbaum-
+- 738 Bauerntisch. Nussbaum-Imitation.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 739 740 Zwei Lamberquins fuir Herrenzimmer mit Leder-
+- application.
+- Stutzuhr in vergoldetem Bronzegehause mit der freisitzenden Figur Friedrich des Grossen.Auf Alabaster-
+- 742 Aufsatz fur einen Herrenschreibtisch.Eiche.
+- 741 sockel.
+- Bronzefigur. Japanischer Krieger auf der Laute spielend. Mit reichem Golddecor und auf geschnitztem
+- 744 Desgleichen. Japanischer Krieger, die Flote blasend. Ebenso.
+- 743 Holzuntersatz.
+- 745
+- Ein Paar Meissner Porzellanvasen, zweihenklig und in Urnenform mit schoner Blumenmalerei auf weissem Grunde.
+- 746 47 Zwei gerahmie Kupferstiche von K. B. Post nach Pausinger., "Der Eiferstichtigeund ,Nach dem Kampf. Gr.fol.
+- heilige Abendmahl. Gr. qu. fol.
+- 748 Gerahmter Kupferstich nach Leon. da Vinci. ,Das
+- 749 50 Zwei Oelbilder. Stillleben mit Weintrauben,
+- 751 Schluisselblumen.
+- Frichten, Blumen etc. H. 65. Br.46. G.R.
+- Desgleichen von C.Werner. H.21.Br.31.G.R.
+- Desgleichen von E. Rose. und Kanne.H. 50.Br.60.
+- 752 Stillleben mit Pfirsichen
+- 753 Desgleichen.Junger Kampfhahn. H.32.Br.25. G.R.
+- und figurlichen Darstellungen.
+- 754 Ein Paar Satsumavasen mit reichem Golddecor
+- Reich decorirt.
+- Japanische Blunen-Ampel. Porzellan. Blau decorirt.
+- 755 Japanischer Decorationsfacher.
+- 757
+- 756
+- Orientalische Bronze-Ampel mit farbigen Glasern.
+- 758 Indischer Degen mit starker einschneidiger spitzer Klinge,Inschrift,ornamentirtem Bronzegriff und griner Sammetscheide.
+- 759
+- 760
+- Alte Imarischiissel, tief. Mit schonem originellen Decor in blau, roth, gold und grin.
+- 761 Japanische Vase, schrag godronirt,bauchige Leibung seladongriner Fond mit stahlblauer und brauner Marmorirung.
+- 762 63 Zwei Hollandische Fayencevasen verschiedener Form und Grosse, zweihenklig und mit
+- Alte japanische Bronzepagoie mit Doppeldach und Thurm.
+- von sehr schonem unter Glasur gemaltem Decor.
+- 764 Ein Krystallglasservice fur 24 Personen.
+- und Blatter in farbiger Wolle. 166 zu 115 cm.
+- 765 Gestickter Teppich. Auf schwarzem Grunde Rosen
+- 766 Goldener Ring,mit mittelgrossem Brillant.
+- 768 unl Kasemesser, 2 Aufschnittgabeln
+- 767 Ein Dutzend fein geschliffene Champagnerschalen.
+- 769 Oelgemalde bez. F. Gregoli. Partie auf Capri.
+- Butter und 1 Messer mit silbernen Griffen,vergoldet.
+- H. 47. Br.31.G.R.
+- Ein Paar silberne, yergoldete Manschettenknopfe mit Kette und Koralle.
+- 770 Desgleichen von H. Holzgarten. Sommerlandschaft mit Ganseheerde im Vordergrunde. H. 31.Br.46. G.R.
+- 771
+- 772 Silberner Serviettenring. Innen vergoldet.
+- 774 Pellerine aus weissem Cachmir mit sehr reicher Goldtambourirung.
+- 773
+- 775
+- Silberner Becher.Gehammert.
+- Sophatisch,altmahagoni.Barock.
+- 777 Funf Paar Messer nnd Gabeln mit Elfenbeingriffen. Die Gabeln zweizinkig.
+- 776 Wandbrett,Nussbaum,reiche Bildhauerarbeit.
+- 778 Oelbild von J.Koch.Landschaft. H.34. B.25. G.R.
+- Schoner Abdruck mit breitem Rande. Roy. fol. Gerollt.
+- 779 Kupferstich von D. Raab nach H. Holbein. Madonna.
+- 780 Photogravire nach J. Schmid. Ein Schubertabend
+- 781 Gerahmte Heliogravire von Sabo nach R Eichstaedt. Konigin Luise und Napoleon." Tilsit 1807. Imp. qu. fol. 2
+- in einem Wiener Burgerhause. Mit breitem Rande. Roy. qu. fol.
+- 782 Sechs Paar sachsische Porzellantassen von geschweifter Form, bez. Meissen.Reich decorirt und mit figurlichen Darstellungen.
+- 784
+- 783 Porzellan-Jardiniere,zweihenklig mit Streublumen und figurlichen Darstellungen.
+- 785 786 Zwei Hollandische Fayencevasen von schiedener Form und Grosse, zweihenklig und mit verschonem unter Glasur gemaltem Decor.
+- Fayencevase, 4thlg. mit Blumendecor und Schlangenhenkel. Originelles Stuck.
+- 787 Handjar in Lederscheide mit ornamentirtem Metall-
+- 788 Desgleichen in Pluschscheide mit Messingbeschlag
+- beschlag und Beingriff.
+- und Beingriff.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 789
+- 790
+- Indische Kaschmir-Vase in Flaschenform,mit reicher
+- sehr schoner Silber- und Goldtausia.
+- Chinesische Porzellanvase, Okavaki.Weiss, mit fiegenden Reihern in Blau, von Drachen umschlungen, die die Henkel bilden.Auf dem Deckel ein Fisch.
+- 791 Alte japanische Bronzestatuette. Sitzende Gestalt eines Bussers.
+- 793
+- Papierkorb.Lederarbeit.
+- Journalmappe. Leder mit Blumenornamenten.
+- 792
+- 794 Zwei Marokkanische Stickereien mit farbiger
+- Ebenso.
+- Seide. Reiche und schone Arbeit.
+- 795 Zwei Desgleichen.
+- und 2 Fauteuils.
+- 796 Polstergarnitur auf Holzgestell, bestehend aus Sopha
+- 797 Oelbild von Bernard. Araber auf galloppirendem Pferde am Meeresstrand.Auf Holz.H. 16. Br.24. G.R.
+- 798
+- Desgleichen.F Brustbild eines Mannes mit Weinglas. Auf Holz.H.14.Br.12.G.R.
+- 799
+- 800
+- Desgleichen bez. H. Dreys. porus.H.55.Br. 86.G.R.
+- Mondnacht am Bos-
+- Hollandische Fayencevase von bauchiger Form und
+- mit sehr langem Halse. Unter Glasur gemalt.
+- 801 Eine Desgleichen, zweihenklig. Ebenso.
+- unter Glasur gemaltem Decor.
+- 802 Stander-Lampe. Hollandische Fayence mit schonem
+- 803 Ein Paar Porzellanvasen mit Blumenmalerei.
+- 804 805 Zwei Alfenide Kuchenkorbe. Ornamentirt und
+- glatt.
+- 806 807 Zwei Servirbretter. Oval. Alfenide und Nickel.
+- 808
+- 809
+- Nippestischchen,vergoldet,mit Marmorplatte.
+- Cigarrenspindchen.Eiche mit Schnitzwerk.
+- 810 Paneelbrett.Eiche.
+- 812 Wiener Bank.
+- 811 Ein Desgleichen. Nussbaum.
+- (Ver813
+- Farbendruck nach L. Herzog. Pescatori einigung der Kunstfreunde.) roy. qu. fol.
+- Desgleichen nach L. Munthe.Hollandische Herbst(Ebenso). roy. qu. fol.
+- 815 Desgleichen nach Julian Falat. Vor der Barenjagd
+- 814 stimmung
+- in Russland. (Ebenso.) roy. qu. fol.
+- Gerahmter Kupferstich von A. Beckingham. Prodigals Returne.Imp. qu. fol.
+- ,The 816
+- 817 818 Zwei 0elbilder.
+- H. 26. B. 20. G. R.
+- Waldlandschaften mit Wasser.
+- 819 820 Zwei 0elbilder, bez. L.Majo. Marinen. H. 31. B. 18.  G.R.
+- Ornamentik, im Fond das Zeichen fur Gluck und langes Leben.
+- 821 Alter Imarinapf mit weit iberfallendem Rande, sehr schon decorirt mit Drachen, heiligen Vogeln und reicher
+- 822 Grosse japanische Porzellanvase von bauchiger Form. Lapislazuliblau mit graugriner Ueberlaufglasur.
+- Indischer Khuttar （Tigertoter),eisernes Gefass,reich
+- 824 Ein Paar indische Kaschmir-Ruder mit sehr schoner und reicher Lackmalerei. Bunt und mit Gold.
+- 823 mit Silber tauschirt.
+- 825 Wakayama-Vase, roth-violett marmorirt, bauchige Leibung mit schlankem Halse.
+- 827 Zwei Marokkanische Stickereien aus farbiger Seide.
+- 826 Pellerine aus dunkelgrinem Damentuch mit reicher Goldtambourirung:
+- Reiche Arbeit.
+- 829 Bronzebuste des Fursten Bismarck von Herr-
+- 828 Eine Desgleichen.F
+- Ebenso mit Entre-deux.
+- mann Steinemann. Gr. 16 cm.
+- Auf Holzpostament.
+- 830 Reiterstatuette Friedrichs des Grossen. Kunstguss.
+- 831 Sechs Paar sachsische Porzellantassen, bez. Meissen, mit reichem Decorund figurlichen Darstellungen.
+- 833
+- sitzend.Blau und weiss mit Gold.
+- 832 Meissener Porzellanfigur. Cavalier auf einem Stuhle
+- Eine Desgleichen.,Sanguin“.Ebenso.
+- 835 Bronze.Rennpferd.Bez. Wellgunde Martini a.d
+- 834 Bockhara Teppich mit stark hervortretender dunkelrother Farbenstellung. 2,50 zu 2,00.
+- Wanderlust.Kgl. Gestit Graditz.“
+- 837 Ein Paar Porzellanfiguren. Bunt. Madchen mit Blumenkorben.
+- 836 Prunkteller. Porzellan mit dem Meissener Zeichen. Der Rand rothbraun mit Golddecor,im Mittelfelde das Brustbild der Grafin Cosel.
+- 838 Ein Paar Desgleichen.Bunt. Musikanten. 839
+- Porzellan-Bonbonniere,viereckig,mit reichen figur-
+- 840 lichen Darstellungen. Amorettenscenen.
+- Meissener Porzellantasse mit Deckel, Unterschale, mit Streublumen, aufgelegten Rosen und Vogel.
+- 841 42 Zwei sachsische Porzellan-Kuchentelier bez. Meissen.Durchbrochen undr mit figurlichen Darstellungen.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 843
+- Georg mit dem
+- 844 Fayencekanne mit der Marke VP und hubsch ge-
+- Kunstguss-Gruppe. Der heilige Drachen kampfend. Auf Holzsockel.
+- malten figurlichen Darstellungen.
+- Chinesisches Kabinettschrankchen mit 7 Schub-
+- 846 Zwei Porzellanfiguren.
+- 845 fachern.
+- 847 Ein Bild.
+- 848
+- Ein Paar Japanische Porzellanschtisseln,rund, bunt decorirt. Mit Darstellungen von Pfauen und Paonien am Wasserfall. Ruckseite mit schwarzlich blauem Ornament. Durchm.37 cm.
+- 849 Japanischer Porzellanteller, Nabeshima.Der gezackte Rand mit stilisirten Wellenlinien verziert. Die ibrigen Verzierungen stellen taossistische Embleme dar. Durchm.22 cm.
+- 850
+- 851 52 Zwei sachsische Porzellanteller mit durchDarstellung. brochenen Randern, sowie figurlicher Bez. Meissen.
+- Desgleichen,rund. mit ausgeschweiftem Rand. Blau und roth decorirt. Darstellung von Hirschen in einem Tempelbezirk. Auf der Rickseite blaue Ornamente nebst Siegelinschrift,eiren Gluckwunsch bedeutend. Durchm.18 cm.
+- 853 54 Zwei Desgleichen. Ebenso.
+- 855 Meissener Porzellanfigur. Bunt. Amtstracht."
+- ,Advokat in
+- 856 57 Zwei Paar Meissener Porzellantassen mit reicher Vergoldung.
+- 858 Japanisches Schwertfotteral. und Knauf. Perlmutterlack.Lg. 120 cm.
+- Schwarzes Wappen
+- 859 Japanische Porzellankumme,Kutami. Aussen grun mit Wolkenlinien verziert,innen auf rothem Grund ein griner und ein blauer Lowe. H. 5. Durchm. 14,5 cm. Sehr schones Stuck mit Inschrift am Boden.
+- 860 Japanische Porzellanschissel,rund, stilisirten Wellen.Durchm. 3l cm.
+- 861
+- auf drei Fussen.Imari,blau decorirt. Mittelfeld mit Kranich uber Matsubaumen und Wasser schwebend. Rand mit
+- Ein Paar Satsumavasen mit reichem Golddecor und figurlichen Darstellungen.
+
+<!-- image -->
+## V.Auctionstag:
+
+## Freitag, den 21. December 1900,
+
+pracise 10 Uhr.
+
+- 862 Porzellan-Speiseservice Streublumen (circa 90 Sticke). fir 12 Personen mit 863
+- 865 Damasttischtusch fur 24 Personen.
+- Desgleichen fur 6 Personen. Blau und weiss decorirt. 864 Weinservice (62 Stucke) als:12 Rothweinglaser mit Rand, 12 Rheinweinglaser, grun, 12 Madeiraglaser, 6 Champagnerkelche, 6 grosse und 2 kleinen Krystallkaraffen.
+- 866 Fayence-Kaffeservice, mit der Marke V. P., sowie
+- 867 Henkel. Medicin.pharmaceut. Botanik nebst Atlas. Tub. 1863/63. In 2 Hfzbden. Endlicher u.Unger. Thomé. Lehrbuch (1872).
+- figurlichen Darstellungen in chinesischem Geschmack, bestehend aus: Tablett, Kanne, Sahnentopf, Zuckerschale u. Tasse mit Untertasse.
+- Botanik, (1843) Lwbd. Hfzbd. Schoedler's Buch der Natur (1849). Lwbd.
+- 869 Schickfus. Neu vermehrte schlesische Chronica und Landesbeschreibung. Mit Titelkupfer. Breslau, 1625. Fol. Lederband.
+- 868 Mohr. Lehrbuch d. pharmaceutische Technik (1866). Hfzbd. Henkel's Waaren-Lexion (1871). Lwbd. Hanke. Apothekergehilfen-Prufung (1867). Lwbd.
+- 870 Ovidii metamorphoseon libri. XV. Paris 1637. 11 Kupfertafeln, kl fol. Beschad. Hbpergtbd.
+- Mit
+- prachtigen Stichen nach Moreau le jeune. Schones Exemplar mit vollem Rande. Pappband.
+- 871 Voltaire.La Henriade.1789.(s.1.) Gr. 4. Mit den11
+- 872 Weber's Demokritos. Stuttg. 1884. Orig.-Ausg. in 12 Banden nebst Register. In 5 eleg. Lwbden.
+- 873 Meyer's Handlexikon (1873),Hfzband.
+- 874 Berg.Charakteristik der Pfanzengattungen. (Atlas zur pharmaceutischen Botanik.) Hfrzbd. Die Retorte, pharmaceut. Zeitung 1867/68 Berlin1861. 40. u. diverse altere Jahrgange Industrieblatter, in 3 Banden.
+- Katalog der Jubilaums-Kunstausstellung, 1886, Lwbd., Illustr. und Lichtenstern u. Lange's Schulatlas in 45 Karten (1873), gebd.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 875 76 Zwei Porzellan-Reliefs, weiss glasirt mit Figuren
+- und Amoretten.
+- 877 78 Zwei Biscuitporzellan-Reliefs. Bunt. "Die Barmherzigkeit"und Die Gerechtigkeit" darstellend.
+- 879 Ein Paar Porzellan-Tafelleuchter mit figirlichem Decor.
+- 880 81 Zwei Bisruitporzellan-Reliefs. Nacht" und Amoretten.
+- 882
+- 883 84 Zwei Prunkvasen.Porzellan,Urnenformig und von facher Form; mit reichem Decor und figurlicher Malerei.
+- Weiss. ",Die
+- Fayenceteller.(Bourg la Reine.)Rund, mit sehr reichem Blumendecor auf blauem Grunde.Durchm. 34cm.
+- 885 Drei Paar sachsische Porzellantassen,bez.Meissen.
+- Reich decorirt und mit figurlichen Darstellungen.
+- 886 Drei Paar Desgleichen. Ebenso.
+- 888
+- 887 Porzellanfigur,weiss. Im Bade. Nacktes junges Madchen in hockender Stellung.
+- 889 Majolika mit Bronze und
+- Desgleichen. Ebenso. Junges Madchen im Schafercostim mit Korb.
+- Schreibtisch- Garnitur. 1 Falzbein. Bronze.
+- 890 Convolut:Thermometer, 3 Flacons, 4 Porzellan-
+- Metall.
+- 891 92 Zwei Fruchtschalen.Alfenide. Auf Fuss.
+- 893-95 Briefbeschwerer. Metall.Amor. 4 Rococo-
+- schalen und 3 Aschbecher. Metall.
+- 896 Stutzuhr in Holzgehause mit Amorette unter einem Schirm.
+- 898
+- 897 Ampel fuir Speisezimmer zu Gasglihlicht. Bronze.
+- 901 Drei Goldstickereien auf schwarzem Fond als:
+- Metall-Reliefbild. Weibliche Figur von Amoretten umgeben.
+- 899Tischdecke, Lamberquin, und kleine runde Decke.
+- 902 Oelbild.Hirtenmadchen mit Schafen.H.51. Br.45. G.R.
+- 904 Desgleichen von Demselben. Fischerhaus am Strande. Qu. fol.
+- 903 Aquarell von H. Smithhart. Kustenpartie mit Brandung. Qu. fol.
+- 905 906 Zwei 0elbilder bez. R. Silver. Landschaften.
+- H. 21. Br. 26. G. R.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 907 908 Zwei Onlbilder bez. H. Rigo. Marine-Darstellungen.H.15. Br. 31.G.R.
+- Kittel. Taschenbuch der Flora Deutschlands. Nurn-
+- 910 Leonhard. Geologie.
+- 909 berg 1853.Kl.8 Hfzbd.
+- 911 Schmezer. Vergangenheit und Gegenwart des Erdballs (1875). Lwbd. Madler. Astronomie (1863). Valentiner. Astronomische Bilder. (1881.) Origbd.
+- Mit Stahlstichen.4 Bande. Stuttg. 1836-41. Hfzbande.
+- 912 Sachs. Lehrbuch der Botanik.Lpz.1874.Hfzbd.
+- 914 Valerianus. Hieroglyphica sive de sacris Aegyptorum. Frankfurt 1678. 4°. Mit vielen Holzschnittabbiidungen im Text. Hbledbd.
+- 913 Schleiden. Wissenschaftl. Botanik.Lpz. 1845/46. 2 Thle.in 1 Lwbd.
+- 915 Lotichius et Hofmann Historia Augusta imperator. roman. Amst. 1710.Fol. Mit vielen Kupfern nach Munzen der Sammlung der Konigin Christina von Schweden. Pappband.
+- Ein Paar japanische Porzellanvasen. Flaschen-
+- 917 Ein Paar Desgleichen von bauchiger Form mit japanischen Winterlandschaften.
+- Vorlagen fur Blumen und
+- 919 Album der Gesellschaft fur vervielfaltigende Kunst. 34 Blatt Stiche und Radirungen in schonen Drucken mit Rand. gr. qu. fol.
+- 916 formig mit reichem Decor.
+- 918 M.v. Langen. 6 Blatt. Vogel. gr. fol.
+- 920 J.v. Fuhrich.8 Blatt.Parabel vom Verlorenen Sohn. Gestochen von Petrak. Mit Rand. gr.qu.fol.
+- 921
+- 922
+- Ein Paar goldene Manschcttenknopfe mit Kette, innen 1 Rubin und 1 Saphir.
+- In Umschlag.
+- Granatenkette,geschliffen,mit Anhanger.
+- Zwolf Moccaloffel und zwei Kuchenkorbe,Alfenid.
+- 923 Goldener Ring mit einem Kleeblatt aus einem Rubin und 2 Brillanten.
+- 925 Krystallschale auf Fuss und Butterdose mit
+- 924
+- 926 Servirtisch. Nussbaum mit gemalten Kacheleinlagen.
+- Messer.
+- 927 Wanibrett mit bordeauxfarbiger Pluschbekleidung.
+- H.10.Br.17.G.R.
+- 928 Oelgemalde yon L. Rohsal.Landschaft.Staffirt.
+- 929 30 Zwei Desgleichen bez. J. Golay.Die Armuth und die Gefallsucht. Gegensticke. H.21.Br.15. G.R.
+- 931 Aquareli von T. Lund. Englische Sud-Kuste. qu. fol.
+- 933 34 Gerahmte Lithographie u. desgl. Schabkunstblatt. St. Magdalena. St. Johannes. Erstere beschad.
+- 932 Desgleichen von H. Smithart. Schiffe auf ruhiger See.qu. fol.
+- 935 36 Gerahmtes Schabkunstblatt von E. Ch. Heiss und B. Vogel. Philosophia rationalis. Seltenes Blatt, Gerahmter Stich.Die
+- Vergissmeinnicht in und bei 937
+- 938
+- nicht tadelfrei. Imp.fol. Kreuzabnahme. Gr.fol.
+- Oelbild von E. Rose. einem Glase. H.37.B.45.G.R.
+- Grosse Turkische Decke.
+- Kleiner. 939 40Zwei Desgleichen.
+- Tabouret. Vergoldetes Gestell, der Sitz mit tirkischem
+- 942 Alabasteruhr. hohes rechteckiges Gehause mit aufgesetzten sculptirten Verzierungen. Hohe 35 cm. Kleine
+- 941 Bezug.
+- Defecte.
+- 944 45 Zwei Biscuitporzellan-Reliefs. Weiss. Sommer
+- 943 Ein Paar Porzellan-Tafelleuchter mit Figuren.
+- und Winter" darstellend.
+- 947 Eine Desgleichen. Ebenso. Dunkelblauer Fond mit Golddecor und fein gemalten figurlichen Darstellungen.
+- Griner 946 Kuchenschale. Porzellan,in antiker Form. Fond mit Golddecor und fein gemalten figurlichen Darstellungen.
+- 948 49 Zwei sachsische Porzellan-Kuchenteller, bez. Meissen, durchbrochen und mit figurl. Darstellungen.
+- 950 Ein Paar Bronze-Kandelaber mit reichem Krystallbehang zu je 5 Kerzen. Auf Marmorsockel und durchbrochen.
+- Qu. fol.
+- Cuivre poli. 951 Champagner-Kihler.
+- 952 Aquarell.Englische Seen. 953 Desgleichen von T. Lund. Kuiste von Devonshire. Qu. fol.
+- Ein Achtzehnender." Imp. fol.
+- 954 Gerahmter Kupferstich von J.H. W. Klingender.
+- 955
+- 957
+- Oelbild. Brunfthirsch. H. 31. Br. 20.G. R.
+- Fliehende Hirsche. H.31. Br. 20. G.R.
+- Japanischer Decorationsfacher. Reich decorirt.
+- 956 Desgleichen.
+- 958
+- fuir 959
+- Japanische Ampel.Porzellan, 3thlg. mit reichem Decor.
+- 960
+- mit Blumendecor Porzellan - Tafelservice 18 Personen. (104 Sticke).
+- Sechs Paar Mokkatassen mit Blumendecor.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin
+- 961 Goldener Ring mit einem Saphir und 2 Brillanten, schrag nebeneinander gefasst.
+- 963 Ein Paar chinesische Vasen, reich decorirt. Eine Vase gekittet.
+- 962 Tablett mit 4 Thee glasern. Alfenid.
+- Filigranarbeit.
+- 965 Altjapanische Bronzevase von schlanker Flaschen-
+- 964 Silberner Miniatur -Wandschirm. Dreitheilig, mit Blumenornamenten. Gew. 53 gr.
+- form, mit Einhornhenkeln.
+- Fuss und starkem Schaft, mit Blumenhenkeln und Drachen.
+- 966 Grosser altjapanischer Bronzeleuchter mit breitem
+- 967 Alte japanische Bronzevase mit weit iberfallendem Rande und Paonienhenkeln.
+- 969 Ein Paar Porzellanvaschen auf Bronzefuissen mit Golddecor und Malereien in Watteau's Geschmack.
+- 968 Kanne. Capo di monte mit Figurenfries. Bacchuskinder; und eine Vase, zweihenklig mit Malerei.
+- 970 Decke fur 2 Betten. Grauer Wollsatin mit reicher
+- 971
+- Goldtambourirung.
+- Ein Paar japanische Porzellanvasen mit reichem
+- Ampel fuir Schlafzimmer mit Glocke aus farbigem Glase.
+- 973
+- 972 figurlichen und Golddecor.
+- Messing in Saulenform mit roth-
+- Visitenkartenschale. Metall, reich ornamentirt.
+- 975 Oelgemalde bez. O.Brien. Winterlandschaft. H.19. Br. 29.G. R.
+- 974 Salonlampe. seidenem Schirm sowie extra Glocke.
+- 976
+- 977 78 Zwei Desgleichen von H. Lissmann. Herbst- und
+- Desgleichen von S. Bottcher.Spreewaldlandschaft. H. 20. Br. 30. G. R.
+- Winterlandschaft. Gegensticke. H. 32. Br. 21. S. R.
+- 981 Japanische Porzellanvase. Zweihenkelig mit durchbrochenem Halse und reichem Decor. Heller Fond.
+- 9798 80 Zwei Desgleichen von Demselben. Mondaufgang. Sonnenuntergang. H. 32. Br. 21. Br. R.
+- 83 Zwei Porzellangruppen. Schuster bei
+- 984 Ein Paar Porzellanfguren, reich decorirt. Herr
+- 9828 Bunt. der Arbeit und Frau Mittag essend.
+- und Dame im Kostum des Directoriums.
+- Ein Paar Berliner Porzellanfiguren.Bunt.Bauer
+- 986 und Bauerin".
+- 985 Ein Paar Porzellanvogel. Bunt. Spechte.
+- 987 Ein Paar Thonfiguren.Allegorische Frauengestalten. Original-Compositionen.
+- 988
+- Ein Paar Wandteller. Thon mit reliefrten figurlichen Darstellungen.,Kellerscenen". In ornamentirten Metallrahmen.
+- 989 Servirtisch, sogenannter stummer Diener. NussbaumImitation.
+- 066
+- Ein Teschin.
+- 991 Wickeltisch.
+- 993 Metallbiste. Brustbild Kaiser Friedrichs. Auf Holz-
+- 994
+- 992 Bambus-Etagere.
+- sockel.
+- Sechs Paar diverse Porzellan-Mokkatassen. Reich decorirt. Hierzu 1 Holztablett.
+- 995
+- Sechs Paar Desgleiehen. Ebenso.
+- 996 Porzellan-Mokkatasse auf Unterschale mit reichem Golddecor auf dunkelgrunem Grunde und mit ge-
+- maltem weiblichen Brustbilde.
+- Garnitur aus Granaten,Armband und 1 Paar
+- 998 Convolut, enthaltend: Granatenkette, 3reihig, eine Desgleichen, 1reihig, 1 Paar Ohrringe und 1 Anhanger.
+- 266 Ohrringe.
+- 666 Kaminuhr, Ritter zu Pferde. 1000 Glaskrug, bunt, mit Reifen, Henkel und Ausguss.
+- 1001 Drei Steinkrige mit Spruch und Malerei, 2 davon
+- mit Zinndeckel, 1 gekittet.
+- 1002 Ein Glas und 1 Stein krug mit Zinndeckel, ein
+- Mohnblumen in 1003
+- durchbrochene Arbeit, weisses Thonkannchen, ladirt, und ein braunes Kannchen, ladirt.
+- Ein Paar Tischdekorationen. Majolikavaschen.
+- 1004 05 Zwei altere 0elgemalde von A. Bloomgaart. Reiche Architekturstuicke, mit vielen Costuimfiguren staffrt. Auf Holz. Monogrammirt. H.45. Br.64. S. R.
+- e Farbendrucke nach Bodoy. 1006 07 Zwei gerahmte
+- Sportbilder. Qu. fol.
+- Toiletten - Service. decor.7thlg.
+- Porzellan mit reichem Gold1008
+- 1009 10 Hollandische Fayence und Krug. Sehr schon
+- unter Glasur gemalt.
+- 1011 12 Zwei hollandische Fayence-Palmenkibel yon Sehr fein unter Glasur gemalt.
+- verschiedener Form.S
+- 1013 1014 Wandteller. Thon, gefaltelt mit figurl. Malerei
+- und ein Bildrahmen sowie eine Kartenpresse.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 1015 Kaffeeservice,japanisch,4theilig,1 Untertasse und 2 Theebuchsen.
+- 1017 Sechs Flaschenuntersatze. Neusilber.
+- 1016 Prasentirbrett. Nickel. Oval mit Gravirung.
+- 1018 Ein Paar Porzellanfiguren. Bunt. BauernBrautpaare.
+- Die Galerien von Wien. Stahlstichsammlung der vorzuglichsten Gemalde, mit Text von A. Gorling
+- 1019 Ein Paar Desgleichen. Bunt. Vornehmer Herr und Dame.
+- 1021 Gavarni. Le diable a Paris. Moeurs et coutumes etc. Mit sehr zahlreichen Illustrationen. Paris 1845. Gr. 80. In 2 Hfrzbanden. Seltene Originalausgabe mit fruhen
+- 1020 Lpz.4In 2 Origbanden.
+- Abdricken.
+- 1868-1870.3 Hfzbande.
+- 1022 Archiv der Pharmacie. XVIll. XIX.u. XX.Jahrg.
+- 1023 Hager. Commentar zur Pharmacopoea germanica. 2Bde.Berlin 1874.Gr.8.Lwbde.
+- Gr. Fol.
+- 1024 Aquarell von T. Lund.Englische Fischerboote.
+- Desgleichen yon Demselben. Epping Walde bei
+- 1026 Gerahmte Photographie nach R. Siedeck. Konigin
+- 1025 London.Gr. Fol.
+- Luise. Gr. Fol.
+- 1028 Oelbild von J.Koch. Bauernhaus. H.25. B.34. G.R.
+- 1027 Gerahmtes Aquarell, gez. Wilberg.Landschaft. H. 21. B. 26.
+- 1029 Ein Paar japanische Porzellanvasen (Cloisonne Imitation) mit reichem Blumendecor. Heller Fond.
+- mit sehr feinem Decor.
+- 1030 Alte Nabekaina-Schussel mit godronirter Leibung
+- 1031 Altchinesische Porzellanvase,Birnenform, mit engem Hals, blau bemalt mit grotesken Einhornen. Periode "Kien-Lung"
+- 1032 Imarivase. Seto,r
+- 1031A Desgleichen,ahnlich, mit Fabelthieren bemalt
+- 1033 Desgleichen,weisse eiformige Leibung mit Kranichen
+- mit hellgruner und  brauner Ueberlaufglasur.
+- und Mazzubaumen,blau decorirt. Als Deckelknopf eine Schildkrote.
+- "Das Fest der Venus. H. 60. B. 85. In reich ornamentirten Metallrahmen.
+- 1035 36 Zwei Farbendrucke. Gegensticke.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 1037 Koniglich Berliner Porzellantasse mit Unterschale, mit reichem Golddecor,sowie hubsch gemaltem Architecturstick und der Inschrift ,den 23.August 1840"
+- Ein Paar Majolikavasen. Cylinderformig mit reichem
+- 1038 Wandspiegel in Goldrahmen. Oval.
+- 1040 Majolika-Garnitur,bestehend aus Krug und 2 Vasen mit reichem Decor auf dunkelblauem Grunde.
+- 1039 Decor.
+- 1041 Linnen mit
+- Zwei Desgleichen,Linnen mit farbiger Seide.Reiche
+- Zwei Marokkanische Stickereien. dunkelrother Seide.
+- 1042 und schone Arbeiten.
+- Seeufer.H.33. Br.50.G.R.
+- 1043 44 Zwei 0elbilder.1 Flusslandschaft und Kuhe am
+- 1045 Desgleichen,bez P. Lindstadt.Kustenlandschaft
+- bei Prerow. H. 21.Br.31.G.R.
+- 1046 Desgleichen von W. Schrodter. Partie an der Mosel
+- mit Blick auf eine Burg. H. 21. Br. 3l. G. R.
+- 1047 Ein Paar Dresdener Porzellanflacons,weiss mit Streublumen und landschaftlichen Darstellungen.
+- 1048 Porzellangiesser mit reichem Dccor im Wiener
+- 1049
+- Geschmack und figurlichen Darstellungen.
+- 1050
+- Ein Paar Statuetten aus Kunstbronze.
+- Amor als
+- Brieftrager und Amorette als Sangerin. Brunirt.
+- Palmenstander. Metall.
+- 1051 Visitenkartenschale. Majolika, reich ornamentirt und in Metallmontirung.
+- 1052
+- 1053 54 Japanisches Schmuckschrankchen,Etagere
+- und 2 Theekasten.Lackarbeit.
+- 1055 56 Zwei japanische Bonbonnieren, je 3thlg.und 2 Buchsen, wovon eine mit Deckel. Lack und Holz.
+- Zwei hollandischeFayencevasen von origineller Form, die eine durchbrochen,mit schonem unter Glasur
+- 105758 gemaltem Decor.
+- 1059
+- Eine Desgleichen von hoher schlanker gebauchter Form mit schonem unter Glasur gemaltem Decor.
+- 1060 Oelbild, bez.Carl Holz. Seeufer mit Boot und
+- einem Angler. H. 39· Br. 30.G.R.
+- 10616 62 Zwei Desgleichen bez. J.Albertini. Figurliche
+- 1063 64 Zwei gerahmte Heliograviren.
+- Darstellungen.H.92.Br.37.G.R.
+- 1065 Ein Paar Porzellanfiguren.Bunt. Rococo.
+- 1066 Ein Paar Desgleichen. Bunt. Madchen mit Korben.
+- 1067 Meissener Porzellangruppe. Bunt.Amorette
+- 1068 69 Zwei Meissener Porzellanfiguren.Blau und weiss decorirt. "Cavalier mit Hund"und Dame mit Katzchen".
+- 1073
+- mit Herz.“
+- 1070-72 Drei Meissener Porzellanfiguren. Bunt. Knabe mit Taube, Madchen mit Frichten und Knabe mit Blumen.
+- 1074 Grosser Bronzebitung. cylindrisch, mit reliefrter Darstellung von Schildkroten auf Wellen.
+- Bronzekrone zu elektrischem Licht.3fammig.
+- 1075 Alter Imarinapf mit Darstellung von Chrysanthemen und Iris.
+- 1077
+- 1076 Chinesische Silbernippes,Waffenstander mit Bogen, Helmbarten etc. Gew.37 gr. Silberner Schiebkarren. Gew. 1l gr.
+- 1078 Sieben diverse Porzellanfiguren. Nippes. Bunt und weiss.
+- Fanf diverse Figuren.Nippes.
+- 1079-81 Satsuma-Blumentopfreich decorirt,Porzellanvase im Wiener Geschmack decorirt und Metallgruppe mit Glasvase.
+- 1083 Cigarren-und Cigarettentasche,Bast mit Saphir und Opal-Cabochon.
+- 1082 Silbernes vergoldetes Cigarettenetui mit Malerei.
+- 1084 Zwei Weinkuhler, Alfenid mit Flaschenhenkeln.
+- 1086 87 Zwei Desgleichen von R. Volanek. Dorf Wildalp a. d. Salza.Partie am Chiemsee.Gegensticke. H.18.Br.31. G.R.
+- 1085 Oelbild von C.Pres tele. Wassermuhle bei Garmisch. Hubsches Bild mit Staffage.1 H.41.Br.62.G.R.
+- 1088 Bronzekrone fur Speisezimmer mit Flaschenzug, 4fammigzu Gas und Petroleum. Glocken und Cylinder fehlen theilweise.
+- verschiedener Form und mit reichem Decor.
+- 1089-91Drei Hollandische Fayenceteller von
+- 1092 93 Hlollandische Jardiniere und Cakesdose schonem unter Glasur gemaltem Decor.
+- mit
+- 1094 Hollandische Fayence-Visitenkartenschale mit
+- 1095 Bronzekrone zu elektrischem Licht. 6fammig.
+- schonem unter Glasur gemaltem Decor.
+- 1096 Rothe Pekinglackdose mit figurlichen und ornamentalen Darstellungen, geschnitten.
+- 1097 Japanische Steingutvase,Karaton. Urnenform: Mit hellen stempelartigen Inschriftena auf grauem
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 1098
+
+Grund und unter craquelirter Glasur. H. 20, Durchm. 17cm.
+
+- 1099 Altes Kaschmirbecken, Kupfer,verzinnt,reich ciselirt. Auf dem Rande kufische Inschriften.
+- Japanische Raucherdose, Kyoto -Porzellan, bunt und mit Gold in Gestalt einer Frau.Die Gottin der Lebensfreude Okame mit dem Facher darstellend. Durchm.7,5 zu 9,5 cm.
+- Ein Paar Porzellanfiguren.Kupferfarbig. Knabe
+- 1101 Ein Paar Desgleichen. Ebenso in Rococo-Costimen.
+- 1100 und Madchen.
+- 1102 Schneider. Frauengestalten der griech.Sage (1879). Eleg.Origbd.
+- 1103 Preyer.Aus Natur u. Menschenleben (1885), broch. Reitlinger.Freie Blicke (1874),Lwbd.Ferner:
+- (12 Mk.)Joh. Jacoby.Geist d. griech. Geschichte (1884),broch. Minck witz.Taschenworterbuch der Mythologie (1878).Lwbd.
+- 5div. Bandchen Literatur,meist gebunden.
+- 1105
+- 1104 W.v. Humboldt's Briefe an eine Freundin (1881). Eleg. Lwbd.Emanuel Geibel. Ein Gedenkbuch, hrsg.v.A.Holz （1884）. ElegLwbd. Rodd. Friedrich Ill. als Kronprinz u. Kaiser (1888). Lwbd. Schulze-Delitzsch's Biographie von A. Bernstein. Lwbd.
+- Leipz. 1876. In 4 Hfzbanden.
+- Cosel. Geschichte d. preussischen Staates. 8 Bande.
+- 1106 Findel. Geschichte der FreimaurereiLpz. 1878. Hbwbd.
+- Trentowski.Die Freimaurerei.Lpz 1873.Hlwbd.
+- 1108 Maller. Thiere der Heimath.2 Bande, reich illustrirt. Cassel 1883. Gr. 8. Eleg. 0rigbande.
+- 1107
+- 1109 Numismatische Zeitschrift. Band Xxil und XXIIL. Wien 1890-91.Broch.
+- 1110 Sechs Rohrstihle. Eiche.
+- Desgleichen von Demselben. Epping Walde bei
+- 1111 Aquarcll von T. Lun'd. Schloss Konig Arthurs. Cornwall. Qu. fol.
+- Desgleichenvon Demselben. Partie aus der Qu. fol.
+- 1112 London. Qu. fol.
+- 1114 Desgleichen von J. Limby.Schloss Tautallon. Qu. fol.
+- 1113 Grafschaft Devonshire.
+- 1115 Convolut. Zwei Busten, Matrose und Fischerknabe, 2 japan.Figuren, Pokal aus Steingut, ornamentirt und Tischlampe zu Gas.
+## Vl. Auctionstag:
+
+## Sonnabend,den 22. December 1900,
+
+pracise 10 Uhr.
+
+(Ohne Vorbesichtigung.)
+
+- Ludw. Richter's Landschaften.12 Original-Radierungen, mit Text von Dr.H.Lucke-Leipzig, A.Dirr,
+- Gartenlaube, Jahrgange 1866, 1868,1869,1870. Gebunden.
+- 1116 1875.In Orig.-Cartonband. Gr. qu. fol.
+- 1117
+- 1118
+- Schorer's Familienblatt. Jahrg.1883. Origband. Das neue Blatt. Jahrg. 1888.Origbd.
+- 1119 darunter: Bock's Buch vom Menschen,Kaiser's Rechtsanwalt
+- 1120 Desgleichen chemischer, technischer u. naturwiss.
+- Convolut von div. gebundenen Buchern, im Hause (1886), Knigge's Umgang etc.
+- Bicher u. Broschuren, theils gebunden.
+- 1122 Desgleichen.Reisebicher, Operntexte,Zeitschriftenhefte etc.
+- 1121 Desgleichen.Philosophische,medicin. u.andere Bucher, darunter verschiedene von Rud. Virchow.
+- 1123 Defregger. Aus der Hitten. Mit Dichtungen von KarlStieler. Mit 25Photographien nach Defreggerschen Bildern.Munchen,F.Hanfstaengl. Eleg. Origband. 4.
+- Lichtdrucke nach s. Zeichnungen. Minchen 1884. In Orig.-Prachtmappe.Gr.fol.
+- 1124 Vautier. Kurzweil und Zeitvertreib.12 Blatt
+- 1125 W. Friedrich.Goethe's Leben in Bildern. 17Reproductionen von Tuschzeichnungen. Eleg.Origbd. Gr.4o. Poesieblatter.Reich illustrirte Anthologie. In eleg.Origbd,kl. 40.
+- 1127 Original-Reisepass mit Unterschrift d. Ministers
+- 1126 Autograph.Christian v. Danemark.Kopenhagen 1780, fol.Desgleichen.Friedrich Wilhelm Ill.von Preussen,Billet mit eigenh.Unt.Potsdam 1818,und 2 and. Autogr.
+- 1128
+- Metternich,Dresden 1802. Fol.
+- 1129 Figuren und Gewandstudien. Bleistift-
+- Fr. Nansen. In Nacht und Eis. 34 Lieferungen.
+- 9Blatt. zeichnungen von Q. Becker.Fol.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 1130
+- 1131 一 Abendlandschaft mit Wasser.Aquarell.Gr. fol.
+- L. Harcourt. Fischerboote auf den Lagunen von Venedig.Aquarell. Gr.qu. fol.
+- 1132 F.Lumby. Kanalgasse in Dresden.Aquarell. Fol.
+- 1134 R.Erbe. Gestorter Frieden.Aquarell. Qu. fol.
+- 1133 Herbert.Marine. Aquarell.Kl. qu. fol.
+- 1135 Fliehendes Hochwild am Gebirgsee. Aquarell. Qu.4.
+- 1137
+- Morgen am Waldteich.Aquarell. Qu. fol.
+- 1136
+- Bewachte Beute.Aquarell. Qu. 4.
+- 1138 Aquarell.
+- Waldpartie mit Schloss Moritzburg. K1. fol.
+- 1139
+- 1041
+- 一 Erschrecktes Geflugel. Schones Aquarell. Qu. fol.
+- Desgleichen von Dem selben. Sonnenuntergang. Fol.
+- 1140 Aquarell von T. Lund. Winter-Abend.Qu. fol.
+- 1142-45 Vier Porzellanteller mit reichem Golddecor auf grinem bezw. purpurfarbigem Grunde, sowie
+- 1146 47 Zwei Prunkvasen. Porzellan von verschiedener Form und Grosse, dunkelgruner bezw. dunkelblauer Fond mit reichem Golddecor und figurlichen Darstellungen.
+- figuriichen Darstellungen.
+- 1148 49 Biscuitporzellan Relief.Bunt.Liebespaarund ein Desgleichen, weiss.Der Schutzengel"
+- 1152 53 Zwei Porzellan-Reliefs.Bunt und blau glasirt. Liebespaare.
+- 1150 51 ZweiDesgleichen.Weiss Fruhlingund Sommer"
+- 1154
+- 1155 Ein Paar Glasvasen in Tulpenform. Hellgruin.
+- Ein Paar Bronze-Kandelaber zu je 6 Kerzen.
+- 1156 57 Deckelkrug. Messing, getrieben mit Kampfscene und zwei Desgleichen mit figurlichen Darstellungen. Ebenso.
+- Funf diverse Wandteller.Ebenso mit figurlichen
+- 1158 Ein Paar Vasen. Ebenso mit figurlichen Darstellungen.
+- 1160 Glasservice, geschliffen mit weisser Emaille. 5thlg.
+- 1159 Darstellungen bezw. Brustbildern.
+- 1161 Meissener Porzellan-Fruehtschale mit reichem
+- reliefirten Golddecor.
+- Porzellangruppe mit 2 Figuren.Weiss. Liebes-
+- Porzellanfigur, weiss. Cavalier im Rococo-Costim
+- 1162 paar. Rococo.
+- Sechs sachsische Porzellan-Menuhalter, bez.
+- 1163 in begrussender Stellung.
+- 1164 Meissen. Mit Blumendecor.
+- 1165
+- Ein Paar sachsische Porzellanyasen,bez.Meissen, mit Blumendecor und figurl. Darstellungen. Urnenform.
+- 1166 Zwei Marokkanische Stickereien.
+- 1168 Prachtbibel mit Metallschliessen.
+- 1167 Zwei Desgleichen.
+- GrossesPhotographie-Album,Kabinet,aus schwarz. Leder mit Porzellanbild; enthaltend Scenen u.Figuren
+- 1170 Japanischc Porzellanvase mit Lowenhenkel. Reich decorirt in Farben und Gold.
+- 1169 aus Wagners Opern.
+- Desgleichen.Zweihenklig. Reich decorirt. Griner
+- 1172 Schreibtisch - Garnitur, inBronze-
+- 1171 Fond.
+- 1173
+- Majolika montirung.
+- 1174 Zwei Reliefs.gemalt,in Bronzerahmen.
+- Palmenkibel.Eiche,mit Bronzegriffen.
+- 1175 Oelbild.Schloss am Meere.H.22. Br.50.G.R.
+- 1176 77 Zwei Desgleichen von G. Lange. Landschaften. Gegenstuicke. H.23.Br.31.G.R.
+- 1180 Ein Desgleichen von H. Lissmann MondscheinLandschaft. Seeufer mit Angler als Staffage.H.21. Br.39.G.R.
+- 1178 79 Zwei Desgleichen bez. C.Walter. Am Strande und Klatschbasen. Gegenstucke.H.20. Br. 32. G.R.
+- 1181 82 Zwei Desgleichen von Demselben.Aehnliche Darstellungen.H.21. Br.39.G.R.
+- 1183
+- 1184 Leichenzug des Grossen Kurfirsten.8 87Kupfertafeln in Doppelfolio, gest. v. Kraus u Blasendorf. Mit Text. Koin a.d.Spree.1688.Gr.fol. Ausserordentlich selten und werthvoll. Die Blatter tragen unten die Namen der betreffenden Personlichkeiten und ist wohl fast der ganze Brandenburgische Adel darin aufgefuhrt.
+- Berliner Grossmaul. llustr.Zeitschrifta.d. Jahre 1848.Selten und interessant
+- 1185 Avenarius. Historischer Festzug bei der Vollendung des Kolner Domes im Jahre 1888. Mit 30 prachtigen Farbendrucken. In eleganter Orig.-Mappe. Gr.qu. fol.
+- 1187 Convolut von 2o Reisehandbuchern,Baedeker etc.
+- 1186 Hirth. Das deutsche Zimmer der Gothik u.Renaissance. Munchen 1886. 4o.Reich illustrirt. Eleg. Originalband. (Einband etwas beschadigt.)
+- 1 Louvre-Katalog (Gemalde) und 2 Brochuren.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 1188
+- 1189 Blick auf die Kreuzkirche in Dresden.Aquarell. Fol.
+- F.Lumby.Blick auf Dresden bei Abendbeleuchtung. Aquarell.Gr qu.fol.
+- 1190 L.Harcourt. Auf den Lagunen von Venedig.Aquarell. Gr.fol.
+- 1192 Oelstudie von Prof. J. Schrader.
+- 1191 Gewitter auf den Lagunen.Aquarell. Gr. fol.
+- 1193 31 Blatt. Stiche, Radirungen etc. Fol.-4.
+- 1195 Desgleichen.Aehnliche Darstellung.Fol.
+- 1194 Aquarell.Hollandische Fischerboote auf See. Qu.fol.
+- 1196 Indische Broche,Silberfiligranarbeit,Blumen und Blatter aus eingelegten Mandelkrahenfedern. In Schmuckkasten.
+- Sanfte,Flechtarbeit. Nagelschitzer und Schuh mit Ornamenten ver-
+- 1197 Ein Paar indische Ohrgehange,ebenso.
+- 11991200 Zwei Porzellan-Reliefs,blau glasirt,Sommer" und ,Liebespaar"
+- 1198 Chinesische Silbernippes. sehen. Gew.28g
+- 12011202 Zwei Desgleichen. Bunt, Kindergruppe und Sommer.
+- 1204 Ein Paar Porzellanvasen mit aufgelegten Blumen.
+- 1203 Porzellangruppe mit 2 Figuren. Liebespaar.
+- ,Rosen."
+- korper mit reicher Blumenmalerei in Metallmontirung.
+- 1205 Ein Paar Salonlampen (Moderateur).Porzellan-
+- 1206 Ein PaarMajolikavasen.Klein,mit reichem Decor auf dunkelblauem Grunde.
+- 1207-1209 Zwei Dekorationskriige （Pinten)aus Thon mit reliefrten Darstellungen und einDeckelglas
+- mit Blumenmalerei und Inschrift.
+- 1210 Salon-Lampe (Moderateur) mit Malerei.
+- 1211
+- 1212 Rauchservice in Form einer Mitrailleuse.
+- Porzellanvase mit Golddecor und Blumenmalerei, 2 Flacons und 1 Klingel.
+- 1213 14Relief.Alabaster-Imitation. Brustbild W.Liebknechts und Thonrelief mit ruhender weiblicher Figur.
+- 1215 16 Zwei sachsische Porzellan-Kuchenteller,bez. Meissen.Mit durchbrochenem Rande und Blumenmalerei.
+- 1218 Silberne Herrenuhr mit Kette und Medaille.
+- 1217 Ein Paar sachsische Porzellanvasen,bez. Meissen mit reichem Blumendecor auf weissem Grunde.Urnenform.
+- 1219 Granatcollier mit Anhanger.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 1220 Goldener Ring mit mittelgrossem Brillant.
+- 1222 Silberner Eierbecher mit Loffel. Innen vergoldet.
+- 1221 Silberner Kinder-Besteck. 4thlg.In Etui.
+- 1223 24 Zwei silberne Compottloffel.1 Innen vergoldet.
+- Gruner und blauer Fond.
+- 1225-27 Drei Porzellan-Deckelvasen von bauchiger Form mit Golddecor und figurlichen Darstellungen.
+- 1228-3l Vier Porzellanteller mit reichem Decor auf grinem bezw.rothem Grunde, sowie figurlichen Darstellungen. Zwei Grossen.
+- 1232 Japanische Porzellantasse,Alt-Hirado. Ohne Henkel. Mit Darstellung von schwimmenden Enten in Lotosblumen, dem Symbol einer gluicklichen Ehe. H.5,5.
+- 1234 Japanische Porzellanschussel,Imari, yiereckig, blau, roth und mit Gold decorirt. Mit eingebuchteten Wanden.Lg.22,Br.16 cm.
+- 1233 Japanische Porzellan -Theekumme, Chawan. Bunt und mit Gold. Kyoto-Arbeit mit Figuren bemalt.
+- 1235
+- Oelbild von C.Erhard. Im Birkenwald. H.44. Br.36.
+- 1237 Zwei Photographien. Kaiser Wilhelm HI und Ge-
+- 1236 Zwei Desgleichen von Gerber. Jagdscenen. Gegensticke. Gerahmt.
+- mahlin. Gr. fol.
+- 1238 Zwei gerahmte Lithographien. Madonna und Johannes der Taufer.
+- 1240 Steinschnitzerei.Junges Madchen in sitzender Stellung.
+- 1239
+- Tafelaufsatz aus venetianischem Glase.
+- 1241-43 Drei Vasen aus farbigem Glase, blau und weiss, mit reichem Golddecor.
+- Ein Paar Porzellan-Tischleuchter, 3armig,mit
+- 1245 46 Zwei Biscuitporzellan-Reliefs. Weiss.,Musik und Dichtkunst" darstellend.
+- 1244 figurlichem Decor.
+- 1247 48 Zwei Prunkteller. Porzellan mit reichem Golddecor auf blauem und rosafarbigem Grund, sowie figurlichen Darstellungen.
+- 1251 Bronze-Ampel fur Schlafzimmer zu Gasglihlicht
+- 1249 50 Zwei Porzellanvasen mit langen Halsen von eckiger und bauchiger Form mit Golddecor und figirlichen Darstellungen.Fond blau.
+- 1252
+- Bicher-Paneel.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 1253-55 Zwei Photographiestander. Glas. 2 Nippes. （Figuren) und ein Deckelkrug, Glas mit weisser Emaille.
+- Drei Bilder unter Glas in gemeinschaftlichem Rahmen
+- 1256-58 Drei gerahmte Photograviren nach L.Passini und J. Hamaa. "Der Melonenverkaufer,"At The Well" und A Bitt of Flirtation".
+- 1260 40Blatt. Alt franzos. Stiche. Ansichten von Schlossern, Garten etc. Kl. qu. fol.
+- 1259 Die 3 deutschen Kaiser auf der Jagd".
+- 1261 Drei Jahresmappen der Gesellschaft fur verviel-
+- 1262 Aquarell. Stadt bei Abendbeleuchtung.Fol.
+- R.Erbe.2 Blatt.Im Affenkafig. Die angstliche Aquarelle. qu.4.
+- faltigende Kunst in Wien. a 6 Blatt.(18 Blatt im Ganzen.) Radirungen,Farbendrucke etc. Gr.fol.
+- 1263
+- 1264 Mutter.
+- Desgleichen. Blick auf Venedig bei Abendbeleuchtung. Gr. qu. fol,
+- 1265 2 Blatt. Gute Freunde. Parthie aus Thuringen.
+- 1266 Zum Theil von und nach
+- 二 Aquarelle qu. 4.
+- 1267 71 Blatt Desgleichen. Ebenso.
+- 46 Blatt Zeichnungen.2 franzosischen Illustratoren. Kl. Fol. 8.
+- Goldener Ring, breite gehammerte Schiene mit
+- 1268 einem Rubin und 2 Diamanten.
+- 1269 Stock mit Silberbeschlag,Hundekopf.
+- 1271 Fruchtschale. Rubinglasschale auf Silberfuss.
+- 1270 Visitenkartenschale mit Henkeln,auf Fuss.
+- 1272
+- Marmor-Pendule, schwarz,mit Zinkgruppe Aurora.
+- 1273
+- Drei Bronzerahmen und 2 Photographiestander.
+- 1274 Obstmesserstander (Pfau). Bronze,versilbert mit 12 Messern mit Perlmuttergriffen.
+- 127576
+- Zwei Krystall-Fruchtschalen auf Fuss.
+- 127778 Porzellanvase und Porzellan-Lanbe. Erstere
+- mit Amoretten und Blumendecor, letztere defect.
+- 1279 Ein Paar Porzellan-Tischleuchter,3armig,reich decorirt, Sommer und Winter darstellend.
+- 1280 Wandteller. Porzellan mit der Wiener Marke, reichem Golddecor auf dunkelgrinem Grunde sowie
+- reicher figurlicher Darstellung.
+- Prunkvase. Porzellan mit reichem Golddecor auf purpurfarbigem Grunde, sowie feingemalten figurlichen Darstellungen. Auf Postament.
+- 1281
+- 1282 83 Zwei Prunkteller. Porzellan mit reichem farbigen
+- und Golddecor, sowie figurlichen Darstellungen.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 1284
+- Altjapanischer grosser Bronze-Leuchter mit schlankem,bambusahnlichen Schaft, fein ciselirt.
+- 1285 Indischer Buchdeckel mit sehr schoner Lackmalerei bunt und mit Gold. Nach alten berihmten Originalen
+- copirt. Sehr schone Arbeit.
+- 1288 Bierfass mit eisernem Stander und Hahn.
+- 1286 87 Thermometer (Siegessaule) und Aschbecher, Cuivre poli.
+- 1289 Hoher Deekelkrug mit Malerei, 2 desgleichen kleiner, ebenso und 6 diverse Deckelkrige von Glas, Majolika etc.
+- 1290
+- R.Erbe.2 Blatt.Hochwilda am Wasser.Pferdehandler am Abend.Aquarelle. qu.4.
+- 1291 一 3Blatt.Landschaft mit Barenfuhrer. futterung bei Moritzburg.Waldfrieden Aquarelle, qu.4.
+- 1292
+- 1293
+- 1294 5 Blatt Original-Photographien nach Meissonier. Roy. fol.
+- Wild-
+- Aquarell von H. Smithlart. Kustenpartie. Qu. fol.
+- Desgleichen von T. Lund.Englische Fischerboote. Qu. fol.
+- 1295
+- F.Lumby.Die Frauenkirche in Dresden. Aquarell. fol.
+- 129798
+- 1296 Sonnenuntergang Aquarell.Fol.
+- Zwei ubermalte Photographien. Gebirgslandschaften mit Wild.H. 20.Br.17.G.R.
+- 1299
+- Porzellan-Deckelvase mit reichem Decor im Wiener
+- Porzellan-Giesser auf Unterschale mit reichem Golddecor auf purpurfarbigem Grunde, sowie gemaltem
+- Geschmack.Zweihenkelig und von facher Form.
+- 1300 weiblichen Brustbild.
+- 1302 Ein Paar Porzellanfiguren.Knabe und Madchen
+- 1301 Wandteller. Porzellan mit Golddecor auf blauem Fond mit figurlichen Darstellungen.
+- mit Korben.Bunt.
+- Blumenkibel mit Malerei.
+- 1303 Ein Paar Desgleichen.Ebenso.Kupferfarbig.
+- 1305 06 Tablett. Metall, oval mit figurlicher Darstellung. Spielende Kinder und 2 Untersatze,Metall, sowie eine Alabastervase,defect.
+- 1304
+- 1307 08 Zwei Biscuitporzellanfiguren. Weiss. Junger
+- 1309
+- Mann mit totem Wild und junges Madchen mit totem Gefligel.Beschadigt.
+- Eleg. Originalband.(30 Mk.)
+- Prachtwerk. Prinz Friedrich Carl im Morgenlande.
+- 1310 Desgleichen. Ebenso.
+- 1311 Desgleichen.Ebenso.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 1312 .Gerahmte Tuschzeichnung bez. O. Gunther 1879.
+- 1313 15 bunte Photographien,Rheingegend in Goldrahmung.
+- Jagerkneipe.
+- 1314 15 Desgleichen.
+- 1316
+- 1315 Porzellanbild. Kleine Holzsammlerin imWalde. H.19.Br.141/2.Br.R.
+- 1317 Gerahmter Oeldruck. Sennerin.H. 36.Br.29. G.R.
+- Zehn diverse gerahmte Kupferstiche etc.. Dabei preussisch histor.Portraits. Fol.-4.
+- 1318
+- Altjapanischer  Bronze-Leuchter,durchbrochen
+- 1319 Altjapanische Bronzevase,Flaschenform mit Reliefs.
+- gearbeiteter Schaft und Fuss.
+- 1320 Japanischer Porzellanteller, Nabeshima. Blau, roth und mit Gold decorirt.In Form einer Kirschblithe. Im Fond Darstellung eines Bluthenzweiges. Durchm.17 cm.
+- 1322 Porzellan-Wandteller mit reichem Golddecor auf
+- 1321 Japanischer Porzellanleuchter, alt,aus Hirado. Mit brauner Linienverzierung. Hohe 2i cm.
+- blauem Grunde sowie reicher figurlicher Darstellung.
+- 1323
+- 1324
+- 1325 Desgleichen.Kleiner.Ebenso, mit rosa Fond.
+- Ein Desgleichen.Ebenso.
+- Porzellan-Deckelvase,zweihenklig und von flacher Form mit reichem Golddecor und figurlichen Malereien. Blauer Fond.
+- 1326 Aquarell von R.Opitz.Landschaft mit Birken. Gr.fol.
+- 1327
+- 1328 R.Erbe.2 Blatt.Blick auf die Wartburg. Heraus-
+- Desgleichen von L.Iarcourt. Im Golf von Neapel. Gr. qu. fol.
+- forderung.Aquarelle.4.
+- 一 und Haher.Aquarell.4.
+- 1329 2 Blatt. Stillfrieden im Walde.Eichkatzchen
+- 1330 Porzellanbild. Die buissende Magdalena.In Gold-
+- 1331
+- Ein Paar Prunkvasen.Porzellan mit der Wiener Marke,reichem Golddecor, auf dunkelrothem Grunde, sowie figiurlichen Darstellungen aus der Mythologie.
+- 1332 Prachtwerk. Prinz Friedrich Carl im Morgenlande. Eleg. Originalband (30 Mk.)
+- 1334 Buch der Erfindungen. Pracht-Ausgabe. Leipzig.
+- 1333 Desgleichen.Ebenso.
+- 1884-88. In 8 Orig.-Prachtbanden.(80 Mk.)
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+
+- rahmen.
+- 1335 Thorwaldsen. Alexanders des Grossen Einzug in Babylon. Mit 22 Kupfertafeln. Leipzig 1882. qu.fol. cart.
+- 1337 Japanische Bronzevase, Fleutenformnach der Mitte zu eingebogt mit bandartigem Streifen. H. 19, Durchm.7,5 cm.
+- 1336 Palermo. Isografia raccolta di 2000 firmi e monogrammi 742-1870.Nap. 1870.Gr.Fol.eleg.gebd.
+- 1338 Japanische Fayence-Kanne, braun glasirt in den gerippten Feldern sind stilisirte Lowen (Shishi's) en relief. Henkel verschnorkelt. H.19. Durchm 10 cm.
+- 1339
+- 1340 Alter Imarinapf mit kurzem Fuss,bunt decorirt, mit Pfirsichen.
+- Altjapanische Bronzevase mit proflirtem Schaft und blumenkelchformiger Oeffnung.
+- 1341 Bronze-Ampel fir Schlafzimmer zu Gasglihlicht.
+- 1343 Zwei Alt-Berliner Vasen.
+- 1342
+- Zwei Armleuchter zu 4 Lichten.  Metall.
+- 1344 Zwei vergoldete Konsolen.
+- Madchens.
+- 1345 Vase in Kannenform, Porzellan mit der Wiener Marke, reichem Golddecor auf dunkelrothem Grunde; sowie auf der Stirnseite das Brustbild eines jungen
+- 1346 Bronze-Reiseuhr.
+- 1348 Zwei Marokkanische Lederkissen mit bronzefarbiger und gruner Stickerei.
+- 1347 Marrokkanische Arbeit.
+- Zwei Shawls Gardinen mit reichen farbigen Stickereien.
+- 1349 Ein Paar sachsische Porzellanvasen.bez.Meissen, mit Blumendecor und figurlichen Darstellungen. Urnenform.
+- 1351
+- 1350 Ein Paar sachsische Porzellanvasen,bez.Meissen, mit reichem Blumendecor auf weissem Grunde. Urnenformig.
+- Deutsches Furstenbuch. Mit 28 Lichtdruck-
+- Jac.de Rubeis.Imagines Vaticani. Mit 57 Kupfertafeln.Rom. Qu. fol.
+- 1353
+- 1352 Ohorn. portraits. Lpz.1890.0rigband.43.
+- Simons &amp; Wagner. Aus altromischer Zeit. Illustrirt. 2Bde.Berlin 1872-74.40riginalbande,(24 Mk.)
+- 1353a Cahun.1
+- 1354b Tissot. Meyer &amp; Isaac, moeurs juives.Paris 1888. 40Mit 26grossen Illustrationen von Andriolli. Hlwbd.
+- La vie juive Paris 1886.Kl.fol.Mit vielen Illustrationen,Originalband (30 Mk.)
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 1353c Aquareli von L. Harcourt. Abendstimmung an der
+- 1354 Desgleichen von Demselben. Windmihle am Fluss. Gr. fol.
+- Ostsee.Gr.qu. fol.
+- 1355 R.Erbe. 2 Blatt. Wiesel und Grasmucke. Trau,
+- schau, wem.Aquarelle. Qu.4.
+- 1356 Streitiges Mahl. Schones Aquarell. Qu. fol.
+- 1357 Abendfrieden.
+- 1358
+- 2Blatt. Glicklich entwischt. Aquarelle qu.4.
+- 2Blatt. auf die Wartburg. Aquarelle. Kl. fol.
+- 1359
+- Prunkvase.Porzellan,in Urnenform und auf viereckigem Postament. Cobaltblau mit reichem Golddecor und figurlicher Malerei.
+- 1360 61 Zwei Fayence-Teller. (Bourg la Reine) von tiefer Form mit durchbrochenen Randern und Blumenmalerei. Durchm.:29 cm.
+- 1362 63 Zwei sachsiche Porzellan-Bonbonnieren,bez.
+- Meissen. Rother bezw. blauer Fond mit figurlichen Darstellungen. Eine der Deckel gekittet.
+- 1364 65 Zwei Prunkteller. Porzellan, mit hellgrunem Rande,reichem Gelddecor und figurlichen Darstellungen.
+- Meissen. figurlichen Darstellungen.
+- 1366 67 Zwei sachsiche Porzellan-Bonbonnieren,bez. Weisser Fond mit Blumenmalerei und
+- 1368
+- Ein Paar Meissener Porzellan-Bumentopfe,
+- durchbrochen und mit theilweiser Vergoldung.
+- 1369 Japanische Porzellan-Sektflasche,Kutami. Mit Darstellung mythologischer Scenen auf braunrothem Grune  Siegelform.
+- 1370
+- 1371 Ein Paar Romer mit reichem Golddecor.
+- Fond. Inschrift am Boden. Hohe 16 cm. Durchm. 7 cm.
+- Japanischer Porzellanbecher,alt-Hirado. Bunt decorirt. Mit Darstellung von Windenblithen.H. 11. Br.7cm.
+- Zwei Paar Vaschen und eine Figur.Porzellan
+- 1372 mit aufgel. Blumen, figurlicher Malerei etc.
+- 1373 Bronze-Ampel fir Schlafzimmer zu Gasglihlicht.
+- Porzellan-Fruchtschale auf Fuss. mit Golddecor und Amorettendarstellungen.
+- 1374 Gruner Fond
+- 1375 76 Zwei Prunkvasen. Porzellan mit dem Wiener
+- Zeichen. Zweihenklig mit reichem Golddecor und figurlichen Malereien. Grun.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 1377 R. Erbe.Enten und Frosch. Aquarell.Qu.4.
+- 1379 Aquarell. Kuste von Nordwales.o Qu.fol.
+- 1378 Der Storenfried.Sehr schones Aquarell. Qu. fol.
+- 1380
+- Desgleichen,An der englischen Kiste.Qu. fol.
+- 1381 Gerahmter Holzschnitt,colorirt, Konigin Luise. Fol. Ferner: Betender Monch von Trossin nach C. F.Lessing und ein Lichtdruck:Buchhandlerborse.
+- 1382 Gerahmter Kupferstich von Tro ssin nach Lessing.Betender Monch.Ohne Rand.Gr. qu. fol.
+- Roy. qu. Fol.
+- 1383 Prunkvase. Porzellan, mit dem Wiener Zeichen. Zweihenklig und mit Deckel, blauer Fond mit Gold decor und dem Brustbilde Philipp d'Orleans. Auf Postament.
+- Alter Imarinapf,mit kreisformig durchbrochenem Rande und Medaillons im Fond,bunt, sehr schon
+- Drei rothe Lackschalchen mit sehr feiner figur-
+- 1384 decorirt.
+- 1386 87 Zwei Prunkvasen.
+- 1385 licher Goldmalerei.
+- 1388 89 Zwei sachsische Porzellan-Kuchenteller,bez. Meissen,durchbrochen und mit figirlichen Darstellungen.
+- Porzellan mit reichem Golddecor auf dunkelgrunem Grunde; sowie mit figurlichen Darstellungen.
+- 1390 Alte Hirado-Vase. Flaschenform, weiss.
+- 1392 6Blatt.Desgleichen.Ebenso.4u.8.
+- 1391 R.Erbe.6 Blatt.Silhouetten. Thierscenen 4 u.8.
+- 1393 Aquarell. Windmihle bei Dordrecht. Fol.
+- Desgleichen.Die Seen von Grasmere.Qu. fol.
+- 1394
+- Ohne Rand. Roy qu. fol.
+- 1395 Gerahmter Kupferstich von F.Ludy nach i. Knaus.. Das s widerspenstige Modell.
+- 1396 Desgleichen von Trossin nach Lessing.Betender Monch.Mit Rand. Roy qu. fol.
+- 1398 Ein Paar Desgleichen. Bunt. Krabe und Madchen.
+- 1397 Ein Paar Porzellanfiguren. Elfenbeinfarbig.
+- 1399 Ein Paar Biscuitporzellan-Figuren. Musikanten.
+- 1400
+- Ein Paar Desgleichen. Page und Edeldame. Ebenso,
+- Bunt, beschadigt.
+- 1401 L.Harcourt. Sonnenuntergang auf den Lagunen.
+- 1402 F.Lumby. Winterabend.Aquarell.FOl.
+- Aquarell.Gr. qu. fol.
+- 1403 Gerahmte Photographie nach Steffeck. Kaiser Wilhelm I. Roy. fol.
+
+Rudolph Lepke's Kunst-Auctions-Haus in Berlin.
+- 1404 Gerahmter Kupferstich wonF.Ludynach L. Knaus. Das widerspenstige Modell mit breitem Rande. Roy. qu. fol.
+- 1405
+- Majerski.  Eine Fruhlingsfahrt durch Italien nach Tunis. Mit colorirten und schwarzen Abbildungen. Originalband.4°.(15Mk.)
+- 1406 Perrier. Segmenta urbis Romae. Mit uber 80 Kupfer-
+- tafeln.Rom 1638. Broch.
+- Vier Shawls Uebergardinen uad zwei Friesvorhange.
+- 1407
+- 1408 Zwei Goldrahmen.
+- 1409
+- Drei Packete gebundener Bicher.
+- Mappe mit 12 Blatt modernen Radierungen. Landschaften, Marinen etc. Sehr schone und tadellos
+- 1411 Mappe mit 51 Blatt Kupferstichen, Lithographieen etc. Dabei schone und werthvolle Blatter vor der Schrift.
+- 1410 erhaltene Blatter.Roy. fol.
+
+<!-- image -->

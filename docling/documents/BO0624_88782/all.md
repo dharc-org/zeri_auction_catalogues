@@ -1,0 +1,942 @@
+J.A.KERN
+
+<!-- image -->
+
+Nr.439
+
+DER JUNGE GOETHE
+## ERSTER VERSTEIGERUNGSTAG:
+
+## DIENSTAG,DEN29.JANUAR 1929,AB 10 UHR
+
+A.
+
+## TEXTILIEN/AUBUSSONS/PERSER TEPPICHE
+
+{Nr.1—48&gt;
+
+- 1 KASEL VORDERTEIL),maudefarbener,geblumter Damast. 18.Jhdt.
+- 2 SAMTKISSEN, farblos,mit aufgesetzter Goldstickerei in Form einer Lyra.
+- 3RAUCHMANTEL,kleinblumiger,hellgrundiger Brokat.18. Jhdt. Beshadigt.&gt;
+- 4 TISCHDECKE,quadratish,rostbrauner, groBblumiger Wolldamast.
+- 5 CHINA-GOLDBROKATLAUFER,klein gemustert. 420 cm lang.
+- 6 CHINADECKE,gelbe Seide,mit mehrfarbiger Ornamentenstidkerei. Hierzu TuR KISCHES DECKCHEN,taubenblaue Seide,mit lotosblumenformiger Silberstickerei
+- 7 TISCHLAUFER,blauer,geblumter Wolldamast,mit gelbem Brokat abgesetzt.
+- 8 CHINA-GOLDBROKATDECKE,rotgrundig,mit reihem Shriftzeichendekor
+- 9 TuRKISCHE TISCHDECKE,quadratish,hellgrundig, mit sternformiger Gold stidkerei.(Beschadigt.&gt;
+- 10 TISCHDECKE,taubenblaue Seide,mit weiber Blumenstickerei. Mit Fransen
+- abgesetzt.
+- 11 CHINA-TISCHDECKE, Brokat mit Medaillon, den Drahen zeigend.
+- 12 TISCHDECKE, japanishe rote Seide mit blauer Blumenstidkerei. Beshadigt.&gt;
+- 13 CHINA-GOLDBROKATLAUFER mit groBblumigem Muster auf shwarzem Grund.
+- 14/15ZWEI ALTARDECKCHEN,gruneSeide,mit Goldstidkerei.18.Jhdt.Bescadigt.&gt;
+- 16 STuHLSITZ,mehrfarbige Applikationsarbeit.
+- 17 KONVOLUT: Kopftud, gebatikte Wolle, und leinen Vorhang,romish gestreif
+- 18 KASEL, gruner Wolldamast. Borden fehlen.)
+- 19 KASEL, blauer, groBblumiger Zellstof.Beshadigt.&gt;
+- 20 BAROCK-RAUCHMANTEL,Rosenbukettmuster auf weibem Grund,grun ein=
+- gefabt, mit gelber Seide abgefuttert.
+- 21 TISCHDECKE im Empirestil fraisefarbener Seidenrips,mit gelben Streifen durhsetzt.
+- 22 WANDGOBELIN im gotischen Stil
+- 23 NEUN TEILE KRETONNE-WANDBESPANNUNG,wiederkehrendes Muster:Papageien auf Zweigen,
+- 25 FENSTERGARNITUR, dreiteilig, grun gemusterter Seidendamast.
+- 26 FLUGELDECKE,rote japanishe Wolle, mit blauer Blumenrankenstickerei
+- 27 BIEDERMEIER-STICKEREITEPPICH, schahbrettartig eingeteilt.In den Feldern
+- je ein Blumengewinde. 115x166 cm.
+- 28 STICKEREIBILD:Mohr mit zwei Hunden in Landschaff. 145x175 cm.Be schadigt.&gt;
+- 29 AUBUSSONTEPPICH mit blauem Blutenstraubmedaillon in naturlichen Farben. Rote Einfassung. 350x270 cm.
+- 30 FLUGELDECKE,blauer Samt, mit Silberstidkerei in Rankenmuster, mit grunem
+- und rotem Samt abgesetzt. Spanisch-maurische Arbeit.
+- 31 ALTER SAMARKAND=TEPPICH. Blaugrundiger Spiegel,von hinesierenden Ornamenten in Violett und Gelb durdsetzt.Reide violette Borde. 230x449 cm.
+- 32 ALTER HERES-TEPPICH mit von roten und blauen Ornamenten durchsetztem Spiegel. Blaugrundiges gezacktes Medaillon. Helle Borde. 277x355 cm
+- 33 ALTER KIRMAN-TEPPICH mit cremefarbenem Spiegel. In diesem blatformiges
+- Medaillon.Vielfache Borde in Rot und Beige. 300x427 cm.
+- 34 ALTER SENNE-TEPPICH mit Streifenmuster in roten und grunen Tonen. 128×185cm.
+- 35 ALTER KASAK-LAUFER mit roten Spiegel. In diesem zwei vasenformige blaugrundige,von Tierfiguren belebte Medaillons. Funffache Borde, abwehelnd blau
+- und grungrundig.Gr.115x345 cm.
+- 36 ALTER SCHIRAS-LAUFER mit blaugrundig durchmustertem Spiegel von drei
+- gezadkten Medaillons belebt. 178x272 cm
+- 37 ALTER SCHIRAS-TEPPICH mit drei geometrischen Medaillons im Spiegel, von
+- Tierfiguren belebt.118x154 cm.
+- 38 AUBUISSON-TEPPICH mit Blumenmuster. Etwa 300x400 cm.
+- 39 ALTE KABRISTAN-BRUCKE. Rotgrundiger Spiegel,von trapezformigen Oinamenten durchsetzt.112x253 cm.
+- 40 ALTER TABRIS-TEPPICH in vorherrshend rotbraunen Tonen.122x162 cm.
+- 41 ALTER KASAK-TEPPICH mit blaugrundigem langlic rehtekigen Fond.In diesem vier geometrisce Medaillons.Vierfahe Borde, blau=,weib,braun- und shwarzgrundig.132x233 cm.
+- 42 SPARTA-TABRIS.Cremegrundiger Spiegel. In diesem sparlihe Pfanzenmotive.
+- 300×400cm.
+- 43 ALTER TABRISTEPPICH,rotgrundig,durchmusterter Spiegel,palmettenformiges
+- Medaillon.330x450cm.
+- 44 ALTER BUCHARA. Im Spiegel Wurfelmuster. 107x190 cm.
+- 45 ALTER BIDJAR-TEPPICH mit blaugrundigem Spiegel und saftrotem Medaillon.
+- Von hellblauen und grunen Ornamenten belebt.137x225 cm.
+- 46 ALTER-MEKKA-SCHIRAS=TEPPICH mit drei tapezformigen Medaillons in durchmustertem Spiegel.146x225cm.
+- 47 AuBUSSON-TEPPICH in braunen und weiben Farben, Shwarze Einfassung.
+- 320×270cm.
+- 48 ALTER BUCHARA-TEPPICH in typischer Zeichnung und Farbe. 195x320 cm.
+
+B.
+
+## ANTIKE MOBELBELEUCHTUNGEN
+
+(Nr.49-—153&gt;
+
+- 49-50 EIN PAAR SATSUMAVASEN mit vielfigurigem Dekor,als Kandelaber ein gerihtet, je zwolfkerzig,mit Prismenbehang.
+- 51 KLEINER BAROCK-WANDSPIEGEL. AIs Bekronung eine freiliegende holz=
+- geschnitzte und vergoldete Rocaille. Suddeutsc 18. Jhdt. 56 cm hoc.
+- 52 BAROCK-BRONZEKRONLEUCHTER,actarmig, actflammig.Zwiscen den Armen ein Sternkreuz. 18 Jhdt.
+- 53 BRONZE-SABBATHLAMPE, dreiarmig, dreikerzig.18. Jhdt.
+- 54 BAROCKSTUHL, NuBholz,mit Lederbezug. Suddeutsch um 1700.
+- 55 RENAISSANCESTuHL,italienisces NuBholz, mit trapezformigem Sitz, auf diesem Kissen mit geometrish gemustertem Gobelinbezug. Oberitalien.17. Jhdt.
+- 56 BAROCKSTuHL, Eihe,reih geshnitzt, mit braunem Wolripsbezug. Nord-
+- deutsch um 1700.
+- 57 BAROCK-SCHERENSESSEL, NuBholz, mit braunem geblumtem Stofbezug. Westdeutsch um 1700.
+- 58 EIN DESGL., ahnlidh, mit grobblumigem Gobelinbezug. Westdeutsdh um 1700.
+- Norddeutsch um 1700.
+- 59 BAROCKSTUHL, NuBholz, auf KlauenfuBen, mit zerschlissenem Stoffbezug
+- 60 HOLLANDISCHER BAROCK-AUFSATZSCHRANK, NuBholz,mit Blumen= intarsien.Unterteil kommodenartigviershubig,Oberteil eintuirig,verglast.190x95cm.
+- 61 BAROCK-LEHNSESSEL, NuBholz, mit hoher Lehne und Rohrbezug. Deutsh um 1700.
+- 62 HOLLANDISCHER BAROCK-WEINKuHLER, achtedige Form= mit Messing=
+- einsatz und zwei Bronze=Tragbugeln.18. Jhdt.
+- 63 BAROCK-WANDSPIEGEL, Eide. Der reich geschnitzte Rahmen zeigt in frei= liegender Arbeit Barockranken, in diesen die Figuren des Fruhling, Sommer, Herbst und Winter.Norddeutsch um 1700.60 cm hoch. Abbildung Tafel 5
+- 64 BRONZEKRONLEUCHTER, sehsarmig, sedskerzig. Der Auslauf des Shafts
+- knospenformig behandelt,als Griff ein Adler.
+- 65 BIEDERMEIER-ECKSCHRANK,Eshe. Unterteil zweiturig, Mitelteil zwei=
+- turig, Oberteil zweituig, verglast. 220x110 cm.
+- 66 NUSSBAUM-BAROCKBANK, zweisitzig, mit Rohrbezug. Norddeutsh 18. Jhdt.
+- 67 BAROCKKLEIDERSCHRANK, Eihe, zweiturig, auf KugelfuBen. Auf den Fullungen in Einlegearbeit je die Figur eines Jagers. Norddeutsch 18. Jhdt.
+- 210×170cm.
+- 68 BAROCK-AUFSATZSCHRANK, Eihe. Unterteil kommodenartig, dreischubig, Oberteil zweiturig mit geteiltem Gesims. 220x110 cm.
+- 69 BAROCKKOMMODE,NuBholz, dreishubig,mit alten Bronzebeschlagen. Sud= deutsh 18.Jhdt.
+- 70 BAROCKLEHNSESSEL, Eide, mit reic geshwungenen Armstutzen. Auf dem
+- Sitz Leder=, im Rudken Rohrbezug. Norddeutsh 18. Jhdt.
+- 71 BAROCKSTuHL,Eihe. In der Rucklehne freiliegendes Langsmuster. Mit perser= artigem Velvetbezug.Norddeutsh 17. Jhdt.
+- 72 BAROCK-BRONZEKRONLEUCHTER,sehsarmig,sehskerzig.18. Jhdt.
+- 73 ROKOKO-WANDSPIEGEL mit versilbertem Rahmen. Dreiedige Form.Sud= deutsdh 18. Jhdt. 52 cm hoh.
+- 74 BAROCK-KLEIDERSCHRANK, NuBholz, zweiturig. Die Turen werden von drei Halbsaulen mit reid geschnitzten Kapitalen eingeteilt. Die Fullungen polster= formig von reidem Shnitzwerk umgeben. Das Gesims treppenformig nah oben ausladend.Mitteldeutsch um 1700.220x240x78 cm. Abbildung Tafel 4
+- 75 BAROCKSTuHL, NuBholz, mit geshweiften Beinen und Rohrbezug. In der
+- Bekronung eine mushelartige Shnitzerei. Suddeutsh 18. Jhdt.
+- 76 KRISTALL-KRONLEUCHTER im Barokstil, 24fammig,mit Blattprismenbehang.
+- 77 LATERNE im Stil der venezianischen Renaissance. Holzgeshnitzter FuB mit ver= goldetem sechseckigen Metalloberteil.
+- 78 ROKOKO-ALTARAUFSATZ,NuBholz.Quadratisdes Unterteil von zwei
+- anbetenden Engeln bekront. Von freistehenden Saulen geschmudktes Mittelteil mit zwei Nischen, in denen je eine Apostelfigur steht. Kuppelformiger Aufsatz von Putten und Engeln geschmudkt. Auf Holzpodest mit aufstellbarer Rudwand. Sud= deutsch 18. Jhdt.213 cm hoch.
+- 79 BAROCK-WANDTISCH, einshubig, Eice,mit Rukwand.Auf dieser ein
+- Fayence-Wasserbehalter mit feuervergoldetem Bronzeaufsatz.Die Fayence in Rokokoform mit Maskaron und blauer verstreuter Blumenmalerei. Shleswig? 172 cm hoch Abbildung Tafel 5
+- 80 KLEINE REGENCEKOMMODE,dreishubig,auf hohen FuBen,Veilhenholz, mit Marmorplatte und feuervergoldeten Bronzebeshlagen.In der Deckplatte die eingebrannte Signatur:LARDIN. Vgl. Comte Francois de Salverte: Les Ebenistes du XVIll. siecle, leurs oeuvres et leurs marques. Paris Mitte 18. Jhdt.
+
+Abbildung Tafel7
+
+- 81 REGENCE-LEHNSESSEL,NuBholz, mit x-formiger Stegverbindung und Gros= Point-Bezug: Ranken, Blumen und Bluten in naturlichen Farben. Holz und Gestell Frankreidh 18. Jhdt. Abbildung Tafel 10
+- 82 RENAISSANCE-AUSZIEHTISCH, Eihe,rechtedkige Form. Die Beine kugel= formig bearbeitet, mit umlaufender Stegverbindung. Die Zarge mit Renaissance= schnitzereien verziert.Frankreid Mitte 17. Jhdt. Abbildung Tafel 4
+- 83 LOuIS-XIV.-WANDSPIEGEL,holzgeschnitzt und vergoldet. In der Bekronung
+- Shnitzerei in Form von Sonnenblumen. Frankreid Anfang 18. Jhdt. 90 cm hoch.
+- 84 LOUIIS-XV.-TABURETT, Buhe,mit Rohrbezug. Frankreid 18. Jhdt.
+- 85 NURNBERGER BAROCKKLEIDERSCHRANK,zweiturig,zWeishubig,NuB= holz, mit schmiedeeisernen Tragbugeln. Die Turfullungen zeigen in je zwei kassetten
+- formig vertieften Feldern Flahscnitzereien.Um 1700. 215x190 cm.
+- 86 LOUISXVI.SCHREIBKOMMODE,Mahagoni,mit Intarsien,dreisubig,mit shrager, aufklappbarer Schreibplatte.Norddeutsh 18. Jhdt.
+- 87 GROSSERMESSING-BLUMENKUBEL,zweigriffigimStil des hollandishenBarodk
+- 88 HOLLANDISCHE BAROCK-STANDUHR,Mahagoni mit Blumenintarsien.Das
+- Zifferblatt sign.: William John Dent, London.
+- 89 FRIESISCHER BAROCKKLEIDERSCHRANK,einturig,mit EIfenbeineinlagen. Die Turfullung reich verkropf, in den Eden je ein holzgeschnitzter Vogel. An den Seiten je eine gedrehte Halbsaule, im Gesims eine holzgeschnitzte Kartusce mit der
+- Inschrift: Magreta Eylbaden.Auf Kugelfuben. Z10x125 cm.
+- 90 FRIESISCHE BAROCKKREDENZ,vierschubig,sechsturig,Eiche. Das Unterteil
+- 91 EMPIREBETT,Mahagoni.
+- zeigt in vier arhitektonish gegliederten Feldern je einen holzgeschnitzten Engelskopf, in vier gleichen Feldern des Oberteils je einem Stern in Einlegearbeit. Auf dem Unterteil streifenformige Intarsia. (Aus alten Truhen gefertigt.》 210x185 cm.
+- 92 LOuISXVLTish,Polisander, einshubig,mit quadratisher Platte. Reice Blumen= einlagen in Zitronenholz auf Platte, Zarge und Fuben. Frankreid 18. Jhdt.
+- 93-96 VIER RENAISSANCE-LEHNSESSEL, NuBholz. Gedrehte Beine mit Steg= verbindung. Gros= und Petit-Point=Bezuge auf Sitz und Lehnen: auf schwarzem
+
+Abbildung Tafel 12/13
+
+- Grund Ranken, Vogel und Blumenfestons. Das Holz Frankreih 17.Jhdt. Bezuge spater.&gt;
+- 97 REGENCEKOMMODE,viershubig,Polisander,mit Rosenholz=Marketerie.Feuer= vergoldete Bronzebeshlage und Marmorplate. In der Dedplatte die eingebrannte Signatur: Bines.Frankreic 18. Jhdt. Abbildung Tafel 9
+- 98 LOUISXVI.ZyLINDERBUREAU,Akajou,mit feuervergoldeten Bronzebeschlagen und Galerie sowie Marmorplatte.U Unterteil dreiscubig, rudkseitig dreishubig, mit je einer ausziehbaren Shreibplatte. An den Schmalseiten je eine ausziehbare Schreib= plate. Paris um 1760. Wohl aus der Werkstatt des G. Sdlihtig, Hof-Ebenist der Marie Antoinette).135x170 cm.
+- 99 VITRINENSCHRANK im Louis=XV.=Stil,einturig,Rosenholz,mit Bronze= beschlagen.
+- 99a BERGERE im Louis XV.-Stil mit rotem geblumten Seidendamastbezug.
+- 100 KRONLEUCHTER in Ringform,Shmiedeeisen,adtflammig,achtarmig
+- 101 RENAISSANCE-ANRICHTE,zweiturig, Eice, mit Kerbshnitzwerk. Friesisch um 1700.118x155cm.
+- 102 EINE DESGL., Eihe, mit Aufsatz, zweiturig. 230x200 cm.
+- 103 MESSING-KRONLEUCHTER im Stil des hollandishen Barodk, zweietagig,
+- zwolfarmig, zwolfkerzig.
+- 104 RUNDER AUSZIEHTISCH,Eice,im Stil des hollandisden Barodk.
+- 105 BAROCK-STANDUHR, Eice, mit reihem Kerbscnitt. Norddeutsd 18. Jhdt.
+- 106 QUEEN ANNE SIDEBOARD,Eihe, dreizugig,mit vieretagigem Aufsatz.Die
+- Fullungen der Laden sternartig verkropft. Mit dazugehorigem Davenport- Steingut= service mit blauem Landscaftsdekor, bestehend aus neun groben und sechs kleinen Tellern, einer Schussel und zwei Deckelnapfen.Teilweise beschadigt.&gt; England um 1680.200x169x51 cm.Die Rudkwand erganzt.&gt;
+
+107 TISCHCHEN im Louis=XV.=Stil, in der Platte Einlage von Delfter Kaheln.
+
+108 EIN DESGL.,ahnlich.
+
+109 EIN DESGL., quadratish, mit Delfter Kahelplatte.
+
+109a/b EIN PAAR EMPIRE WANDKONSOLEN, halbrund Mahag., je einshubig.
+- 109c LOUIS XVI. TISCH,Eihe, quadratishe Platte.
+- 109d LOUIS XVI. PFEILERSPIEGEL mit zugehoriger Wandkonsole. Norddeutsch
+- Ende 18. Jhdt.
+- 109e LOUIS XVI. BUCHERTISCHCHEN. Mahag.
+- 110 LOuIS-XV.FAuTEUIL, NuBholz, mit Petit-Point=Bezug auf Sitz und Lehne auf gelbem Fond blaue verstreute Bluten. Bezug und Holz Frankreid 18. Jhdt Abbildung Tafel 3
+- 111 LOUISXV.FAUTEUIL,ahnlih,mit gleihem Bezug.Frankreid 18.Jhdt.
+- Abbildung Tafel3
+- 112 EIN DESGL.,ahnlih,mit gleichem Bezug.Frankrei 18. Jhdt. Abbildung Tafel3
+- 113 EIN DESGL.,ahnlih,mit gleicem Bezug. Frankreich 18. Jhdt. Abbildung Tafel3
+- 114 KLEINE LOUIS-XVI=KOMMODE,zweischubig,Rosenholz,mit Veilden=
+- holzmarketerie.Mit Marmorplatte.Frankreid zweite Halfte 18.Jhdt. Abbildung Tafel5
+- 115 LOUISXVIBUREAU-PLAT, dreishubig,Eie mit Goldhinoiserien auf Rotlak= grund. Freistehend gearbeitet. Holland 18. Jhdt. Abbildung Tafel 8
+- 116 LOUISXV.ANRICHTE,NuBholz,weiturig,mit aufklappbarerDekplate.Dieri geschnitzte Vorderwand zeigt Ranken und Kriegstrophaen. Frankreid Mitte 18. Jhdt. 130 cm lang. Abbildung Tafel7
+- 117 BAROCK-SCHRANK mit Pilastern, zweiturig, Fullungen faherartig geschnitzt.
+- 118 GROSSER BAROCK-SCHREIBTISCH mit vier gedrehten Saulenbeinen. Auf dem Langssteg ein reich verkropftes Bein. Kugelfube. Ital. NuBbaum. Florenz
+- Mitte17.Jhdt.75x235x80cm.
+- 119 KRISTALL-KRONLEUCH1ER,54armig,54kerzig
+- 120 SCHIFFSMODELL eines Dreimasters. Holzgeschnitzt.
+- 121 KONSOLTISCH im Louis=XVI,Stil,einscubig, Rosenholz,mit Marmorplatte.
+- 122 SCHREIBTISCH MIT AUFSATZ im Jakobstil. Mahagoni auf Eiche,mit Messing= leisten-Verzierung. Unterteil neunschubig, an den Scmalseiten je eine Ausziehplatte, Oberteil zweitirig, verglast. 180x145 cm.
+- 123 SCHERENSESSEL, Barod, mit hellem Stofbezug.
+- 124 LOUIS-XV.BuCHERSCHRANK, dreiturig, verglast, NuBholz und Eide 205×169×40cm. Abbildung Tafel 9
+- 125 CHIPPENDALE-LACK-SCHREIBMOBEL mit Goldhinoiserien auf Sdwarz= ladkgrund und Original-Messingbeshlagen.Dreishubig, mit scrager aufklappbarer Shreibplatte und Inneneinrichtung. Abnehmbar von dem tishformigen auf Klauen= fuben stehenden Unterteil. England 18. Jhdt. 100x77 cm. Abbildung Tafel 8
+- 126 KLEINER FRuHRENAISSANCE-TISCH, Buche. Auf SpreizfuBen die ab=
+- gerundete Platte. Frankreidh 16. Jhdt.
+- 127 LOuISXV.FAuTEUIL, NuBholz,mit groBblumigem Gros=Point-Bezug in natur= lichen Farben. Holz und Bezug Frankreich 18. Jhdt. Abbildung Tafel 6
+- 128 EIN DESGL., ahnlih, mit gleichem Bezug. Frankreich 18. Jhdt.
+- 129 LOUISXV.BLUMENTISCH, Buhe,mit Zinkeinsatz. Frankreic 18. Jhdt.
+- 130 LOUIS=XV.FAUTEUIL, NuBholz, mit Petit-Point-Bezug auf Sitz und Lehne: auf hellem Fond gitterformige Einteilung. In den Feldern Feldblumen in natuirlicen
+- Farben. Bezug und Holz Frankreich 18. Jhdt. Abbildung Tafel 6
+- 131 LOUIS-XVIKOMMODCHEN, zweishubig, Wurzelahorn,mit Satineinfassung. Freistehend,mit Marmorplatte und Holzgalerie. Frankreidh Ende 18. Jhdt.
+
+Abbildung Tafel 5
+
+- 132 LOUIS-XIV.TABURETT, Bude, mit x-formiger Stegverbindung.Mit Brokat= bezug. Gestell Frankreidh 18. Jhdt.
+- 133 REGENCEKOMMODE,viershubig,Rosenholz,mit Veilhenholzmarketerie. Mit Marmorplatte und feuervergoldeten Bronzebeshlagen.In der Deckplatte die Si= gnatur: Senne. Frankreich 18. Jhdt. Abbildung Tafel 6
+- 134 LOUIS-XIV.-WANDSPIEGEL,holzgeshnitzt und vergoldet. In der Bekronung ein mit Sonnenblumen gefillter Blumenkorb. Frankreid Anfang 18. Jhdt. 110 cm hoch. Abbildung Tafel 5
+- 135 LOuIS-XVI.-BLUMENKASTEN in Wurfelform. Nubholz. Frankreid 18. Jhdt.
+- 136 LOUISXVINACHTSCHRANKCHEN,Eihe,einturig, einshubig,mit Holz=
+- galerie.Frankreid 18. Jhdt.
+- 137 LOUISXV.SERVIERTISCH, dreietagig,Eie.18. Jhdt.
+- 138 LOUIS-XVIBERGERE,NuBholz,mit cremefarbenem,gestreiftem Seidenbezug und einem freiliegenden Sitzkissen. Bezug und Gestell Frankreich um 1780.
+- 139 LOUISXVI.-BUREAU-PLAT, funfshubig, Rosenholz, mit Polisandereinlagen. Mit ausziehbarer Shreibplatte, feuervergoldeten Bronzebesclagen und altem Leder= bezug auf der Platte. Frankreich 18. Jhdt. 121x66 cm.
+- 140 LOuISXIV.FAUTEUIL,NuBholz, mit Gros=Point=Bezug: gelber Fond mit roten
+- stilisierten Bluten. Bezug und Gestell Frankreich um 1700.
+- 141 LOUISXVI.KOMMODCHEN, dreischubig, NuBholz,mit Holzgalerie und Marmorplatte. Auf hohen Spitzfuben, zwishen diesen eine etagenartige Verbindung. Frankreich 18. Jhdt.
+- 142 LOUIS-XIll.-TABuRETT auf volutenartigen FuBen mit altem Broderiebezug.
+- 143 RENAISSANCE-LEHNSESSEL, NuBholz. Reich geschnitztes Gestell mit groB=
+- blumigem Gros=Point=Bezug.Um 1680. (Bezug spater.)
+- 144 LOUIS-XV.FAUTEUIL,Buhe, mit Verdurenbezug. Franzosish um 1750.
+- 145 EMPIREPFEILERSPIEGEL,holzgeschnitzt und vergoldet 157 cm hoh.
+- 146-147 EIN PAAR KOMMODEN im Barodkstil, Eihe, je dreishubig.
+- 148 BAROCK-GESCHIRRSCHRANK, Eide, vierturig,mit polsterformigen Turfullungen. Auf KugelfuBen. 175x155 cm.
+- 149 NAHTISCH im LouisXVI.Stil, WurzelnuB, einshubig, mit aufklappbarer Platte und ausziehbarem Schub.
+- 150 SHERATONTISCH,oval,auf DreifuB,Mahagoni,mit Bandintarsien.
+- 151 SHERATON-KLEIDERSCHRANK,Mahagoni,zweiturig,zweishubig.Auf dem Gesims eine holzgeshnitzte von Vasen bekronte Galerie, auf den Turfullungen je eine Rosenholzeinlage in Form eines Blutenfestons. Die drei die Fullungen ein= schliebenden Pilaster mit Flahschnitzwerk geziert. Auf VierkantfuBen. Um 1780. 285×135cm.
+- 152 BuREAU PLAT im Stil des Dresdener Rokoko, dreiscubig,NuBbaum, mit reicen
+- Goldbronzeverzierungen.
+- 153 LOuIS-XVITISCH, NuBholz, einshubig. Auf kannelierten Spitzfuben, in der Dedkplatte eine ahteckige Shiefereinlage.
+
+## ARBEITEN IN HOLZ,ELFENBEIN UND GLAS
+
+(Nr.154-220&gt;
+
+- 154 BAROCK-HOLZSAULE mit gedrehtem Shaft.
+- 155 HOLZDECKELDOSE. Auf dem Dedkel im Hochrelief Oedipus Sage. Zedernholz.
+- 156 BAROCKSCHNITZEREI Buhe, in Form eines geflugelten Engelkopfes.
+- 157 KONVOLuT:Vier div.Wandkonsolen, zwei holzgeschnitzt und vergoldet, zwei
+- mit Streifenmuster Louis XVI.
+- 158-160 DREI DIV.BAROCKSCHNITZEREIEN in Form von Wappenkartuschen in Rankenwerk.
+- 161 GERAHMTES HOLZRELIEF:Die sitzende Maria,auf dem Shob das Jesus=
+- kind haltend, zu ihren Fuben der heilige Johannes. S.R. 17x13 cm.
+- 162 HOLZFIGUR: Maria mit Kind.Halbrund, mit Vergoldung. Rheinisd Ende
+- 15.Jhdt.40 cm hoh.
+- 163 HOLZFIGUR:Die heilige Elisabeth: Halbrund,mit Vergoldung und Bemalung. Shwabisch um 1500. 31 cm hoch.
+- 164 HOLZFIGUIR: Christus mit der Dornenkrone, die Rehte zum Segen erhoben. Suddeutsch um 1600. 36 cm hoh.
+- 165 KONVOLUT: Funf div.Wandkonsolen. Holzgeschnitzt.
+- 166 BAROCK-HOLZFIGUR:Frau mit erhobenem rechten Arm. Buxbaum. Sud= deutsch 17. Jhdr.Auf Holzkonsole.14 cm hoh.
+- 167 HOLZFIGUR: Heilige mit tellerartiger Kopfbededkung und geflohtenen Zopfen.
+- Eihe.Niederrheinish Anfang 16. Jhdt. Abbildung Tafel 14
+- 168 HOLZFIGUR:Christus mit der Dornenkrone und vergoldetem Lendentuh
+- Osterreich 17.Jhdt. 148 cm hoh.
+- 169 HOLZFIGuR:Die heilige Anna. Mit Vergoldung und Bemalung. Niederlandish Anfang 16.Jhdt.90 cm hod. Abbildung lafel 14
+- 170 DESGL.: Madonna mit Kind. Mit Resten alter Bemalung. Rheinish um 1500.
+- 70 cm hod.
+- 171 DESGL. (wahrscheinlid Meister vom Hallport): Madonna mit Kind. Shwabish
+- zweite Halfte 15. Jhdt. 115 cm hoch.
+- 172 HOLZFIGUR:Maria mit Kind. Voll rund geschnitzt, mit Vergoldung und teilweiser blauer Bemalung. Ostfranken um 1500.150 cm hodh.Abbildung:Tafel 14
+- 173 HOLZRELIEF:Die Anbetung der Hirten. Lindenholz. Sudwestdeutsh 17. Jhdt.
+- 100×48cm，
+- 174 DESGL.: Christus bei Magdalena. Lindenholz. Donaushule. Erste Halfte 16. Jhdt. Holz=R.64x50 cm.
+- 175 BAROCK-HOLZLEUCHTER,reid geschnitzt,einkerzig,in alter Vergoldung.Um
+- 1700.150cmhoch.
+- 176 HOLZFIGUR: Bischof mit Mitra, in der erhobenen Linken die aufgesclagene Bibel
+- haltend. Lindenholz.Wurzburg um 1700. 135 cm hoch.
+- 177-178 EIN PAAR GERAHMTE HOLZRELIEFS:Samson und Dalila.-Samson im Kampf mit den Philistern.Lindenholz. Suddeutsd 17. Jhdt. S.-R. 21x27 cm.
+- 179 BAROCK-STEHPULT,holzgeschnitzt und gefaBt in Form eines Engels, der den Aufsatz tragt. Das Pult halt ein Pelikan, der seine Jungen nahrt. Suddeutsh 17. Jhdt. 147 cm hoch.
+- 180-181 EIN PAAR HOLZPLAKETTEN, ovale Form,mit den Reliefs von Jesus und Maria.18. Jhdt.32 cm hoh.
+- 182-184 DREI WANDKONSOLEN in Form von Barock-Engelskopfen, die die Platte
+- tragen,
+- 184a/b EIN PAAR BAROCK-ENGELSKOPFE in Akanthusrankenwerk.Mit
+- flaterndem,vergoldetem Haar.75 cm hoch.
+- 184c BAROCKKARTUSCHE. Reiher Rankenrahmen, als Bekronung ein Engel.
+- 185 BAROCK-WAPPENSCHILD,als Bekronung ein Visierhelm. In Rankenumrahmung.
+- Grun, gold und rot gefaBt. Suddeutsh Mitte 17. Jhdt.
+- 186 BAROCK-LEUCHTERENGEL,stehend auf Holzpodest. 18. Jhdt.
+- 187 KREIS DES ROSSOLINO: Maria, das Christuskind auf dem Arm tragend. Ton. Oberitalien um 1600.Alter G.R.56x48 cm.
+- 188 ELFENBEINFIGUR: Diana mit Koher und Bogen. Auf rundem mit Puttenfries
+- dekoriertem Sodel.
+- 189 ELFENBEIN-DECKELPOKAL mit reicher figurlicer Scnitzerei. 68 cm hoh.
+- 190 FRANZOSISCHE LEDERKASSETTE in Sarkophagform,Mit shmiedeeisernen
+- Beschlagen.Um 1600.
+- 191 JAPANISCHER ELFENBEIN-INSEKTENBEHALTER in Zylinderform. Der
+- eingriffige Dedkel und die Fubplatte in reihster figurlicer Shnitzerei.
+- 192 SCHILDPATT-DECKELDOSE. Auf dem Deckel die Miniatur eines oster=
+- reihishen Offiziers.Durhm.7 cm.
+- 193 MINIATuR AUF KUPFER: Brustbild eines Herrn mit Allonge=Peruke. Reid mit Strabsteinen besetzter Rahmen. 3,5x3 cm.
+- 194 EINE DESGL:Brustbild einer Patrizierin mit Spitzenkragen und Spitzenhaube. Bronze-R.
+- 195 GOLDBRONZETAUFMUNZE. In Silberfligran-Rahmen. Ruckseitig eingraviert die Namen der Paten mit Jahreszahlen. Wiener Beschau.
+- 196 KONVOLUT:Drei div. Buxbaum=Medaillons: Kopfe suddeutscher Patrizier in
+- Renaissancekostumen.
+- 196a BIRNBAUMGRUPPE:Pieta. Auf Holzsockel. 19 cm hoch.
+- 197 ELFENBEINRELIEF:Engel in anbetender Stellung. 18. Jhdt. 5 cm hoch.
+- 198 KNOCHENRELIEF:Die Geburt Christi.
+- 199 KONVOLUT: Anhanger in Form eines Kruzifixes. Ein desgl.: Jesu Herz in Kristallfassung.
+- 200 EMAILPLAKETTE,auf blauem Grund einen von der Jagd heimkehrenden Jager
+- zeigend.
+- 201 ELFENBEINKRUZIFIX. Portugiesish 17. Jhdt. 36 cm hod
+- 202 ELFENBEINFIGUR:Maria mit Kind Auf Holzsodkel. Spanish 17.Jhdt. 11 cm hod.
+- 203 DESGL.:Apostelfigur. 11 cm hoch.
+- 204 LOUIS-XVI.-FACHER.
+- Elfenbeingestell, die Fahne Seide bemalt.In holzge= schnitztem und vergoldetem Rahmen.
+- 205 BAROCK-KASTENUHR,Eiche.Um 1700.
+- 206 BAROCK-ZITHER, Kiefer.
+- 207 BAROCK-ARMBRUST mit EIfenbeineinlagen.
+- 208 STEINSCHLOSSGEWEHR.
+- 209 BIEDERMEIER-PENDULE Mahagoni. Das Werk wird von zwei freistehenden mit Intarsien gezierten Saulen getragen.
+- Prismenbehang.
+- 212-213 BIEDERMEIERUHRSTANDER, Mahagoni, in Form eines einturigen Shrankchens.
+- 214 WAPPENSCHEIBE, 18. Jhdt. Im Mittelfeld ein Reiter,hierunter eine Kartushe, hierunter zwei die Sabel kreuzenden Lowen. Mit der Unterschrift:Hinrich Brumer. 1740. Am oberen und unteren AbschluB Namensinschriften.
+- 215 EIN DESGL. Im Mittelfeld zwei eine Rustung haltende Ritter.
+- 216 KLEINE GLASSCHEIBE.Auf dieser in Grisaille-Malerei zwei Apostel. Anfang 18. Jhdt.
+- 217-218 ZWEI DESGL.,rund,mit Umshriften.
+- 219-Z20 ZWEI DESGL,langlid, rehtedkig. Auf diesen je ein Ritter in anbetender Stellung.
+
+D.
+
+## ARBEITEN IN SILBER, BRONZE UND ZINN.
+
+(Nr.221—303).
+
+- 221 BRONZE-AQuAMANILLE in Form eines Lowen, der im Maul den AusguB
+- tragt.20 cm hodh.
+- 222 BRONZELEUCHTER in Form eines Fabeltieres, das auf dem Rucken den drei
+- kerzigen Leuchter tragt. 27 cm hoh.
+- 223-2Z4 EIN PAAR CHINA-BRONZEFIGUREN:Tempelwachter.Auf Holz#
+- konsolen.Um 1700.50 cm hoh.
+- 225 CHINA-BRONZEFIGUR: Kwanon,in den Handen eine Gebetrolle haltend.
+- 17.auf 18. Jhdt. Auf Holzkonsole.55 cm hoh,
+- 226 SILBERNER VEXIERKELCH, das Unterteil abschraubbar. Auf dem gebukelten Shaft Flachrelief-Ornamente in Form von geflugelten Engelskopfen. Beschau Ulrice= hamn Schweden). Um 1776. Meisterzeichen des N. Dahl. 18 cm hoh. Abbildung Tafel 11
+- 227 SILBERNER ABENDMAHLSKELCH. Abgeflahte FuBplatte, gedrehter Shaft mit zwei Grifansatzen in Form von freiliegenden Rokokoranken. Auf der FuB= platte und dem Korper Relieftreibarbeit in Form von Tulpen und anderen Blumen. Nurnberger Beschau um 1776. 17 cm hoh.
+- 228 SILBERNER DECKELBECHER auf drei Kugelfuben. Auf der Wandung in Bauern= fuhrer),von Barockranken eingefaBt. Auf dem Deckel drei Kriegerkopfe und eben=
+- Treibarbeit drei Mannerkopfe Siegreider Feldherr -Turkengeneral — falls Rankenwerk.18. Jhdt.?17 cm hodh.
+- 229 SILBERNER ANANASPOKAL,vergoldet. Runde FuBplatte, auf dieser ein in Zweigen stehender Knabe, der den Pokal tragt.Deutsh 17.Jhdt.Repariert, Dekel
+- fehIt.&gt; 30 cm hoch,
+- 230 SILBERNER POKAL,vergoldet. Auf der runden FuBplatte, dem runden Mittel
+- studk, dem kurzen Shaft und dem langgezogenen Korper Renaissance-Laub= und Bandelwerk im Flahrelief. Augsburger Beschau. Anfang 17. Jhdt. 20 cm hod. Abbildung Tafel 11
+- 231 SILBERNE TAUFSCHuSSEL,vielfac gescweifte Form.Im Spiegel eine Rosette in Form einer aufgebluhten Sonnenblume. Um diese Barockrankenwerk in Treibarbeit.Von diesem Kranz geht Streifenmuster ab, das abwechselnd im Hoh= relief auf= und abbluhende Lilien zeigt. Polen 17.--18. Jhdt. Durchm. 47 cm. Abbildung Tafel 11
+- 232-233 EIN PAAR BRONZELEUCHTER, je einkerzig. Sechsedkiger Fuf, sedhss edkige Tropfplatte, mehrfach gebuckelter Shaft.Auf den Eden der Tropfplatte je ein Renaissanceornament.Auf der Tropfplatte die eingravierten Schriftzeihen: CRS MLD.Nordostdeutsh um 1650. 29 cm hoch. Abbildung Tafel 10
+- 49 cm hoch.
+- 236 SILBERNER EMPIRE-CHANuKALEUCHTER,als Bekronung ein Shwan. FuB erganzt.)
+- FuB.
+- 239 EMPIREPLATED-MENAGE,achteckiger Sodel, mit vier Glaseinsatzen.
+- 240 SILBERNE FIGUR:Badende.Sign. Dennewitz.
+- 240a/b EIN PAAR SILB. ROKOKO KANDELABER je sehskerzig. Die.drei= passige runde FuBplatte zeigt in den Passen reichgetriebene Rocaillen. Der Shaft gedreht, die Arme in Form von Rocaillen. Deutsd 18. Jhdt.
+- 240c SILB. VASE im Rokokostil,als Lampe montiert, zweifallmig
+- 240d/e EIN PAAR SAUCIEREN, Silber innen vergoldet, auf ovalem Untersatz. Am Rand des Untersatzes Maandermuster, das Gefab auf Klauenfuben mit einem senkreht zum Rand stehenden Griff. Ein Geschenk Kaiser Alexander I. an den Feldmarschall Graf von Kleist.&gt;
+- 240f/g EIN PAAR SILB. EMPIRE LEUCHTER, je einkerzig. liert. Ein Gecenk Napoleons an den Grafen von Kleist.&gt;
+- Der Schaft kanne=
+- 240h SILB. EMPIRE-SUPPENTERRINE mit Dedel, innen vergoldet. Zweigriffge ovale Form auf Fub. Die Grife geschwungen mit Akanthusmotiven geschmudkt. Als Dedelknauf ein Pinienzapfen. Nadh Zeichnung des Wiener Silberschmiedes Hildebrand, dessen Marke sich auf dem Stidk befindet. Ein Geschenk des Herzogs von Wellington an den Feldmarschall Graf Kleist von Nollendorf.&gt;
+- 240i SILB. ROKOKO KAFFEEKANNE mit wellenformigem Muster.AIs Deckel= knauf eine Distel. Paris Entwurf und Ausfuhrung von Humbert.
+- 240k SILB. SUPPENTERRINE im Louis XVI-Stil auf FuB. Zweigriffige ovale Form mit Dedkel. Die treppenartig eingeteilte ovale Fubplate mit Klauenfuben, auf dem Korper Reliefgirlanden, die von den geflugelten Genien gehalten werden.Die Griffe zweigformig von einem klassischen Mannerkopf gestutzt. Als Deckelknauf eine sitzende Frauenfigur mit Fullhorn.
+- 241MESSINGAMPEL.Ewige Lampe.&gt;
+- Z42 MESSINGSCHUSSEL,im Spiegel getrieben Blumen und Ranken. Durhm.46 cm.
+- 243 EMAILRELIQUIENSCHREIN in Sarkophagform. Auf blauem Grund die Me= daillons der zwolf Apostel und Szenen aus dem Leben Christi.
+- 244 VORTRAGSKREUZ,Silber,mit aufgelegten Rosetten,die mit vershiedenfarbigen Strabsteinen geziert sind.
+- Z45 BRONZEKUSSTAFEL, aufklappbar, im Innern Maria mit Kind und drei Heilige auf Emailgrund.
+- 246 KONVOLUT:Kleine Reiterpistole, gotisher Dold, Streitaxt und Shwert.
+- 247-Z48 ZWEI BRONZEKRUZIFIXE mit Emailauflagen.
+- 249 BRONZE-MADONNA im gotishen Stil. 17 cm hoh.
+- 250 MINIATUR-SILBERSCHREIN in Sarkophagform. Auf den Wanden eingraviert Christusszenen im gotischen Stil. Innen mit Stof ausgeschlagen.
+- 251 HOLZBUSTE der gekronten Maria. Mit Resten alter Vergoldung. Suddeutsh 17. Jhdt.22 cm hoch.
+- 252-253 EIN PAAR BRONZELEUCHTER, je einkerzig, auf quadratisher Plinte.
+- KLEINERRE
+- Um 1700.
+- 254-255 ROKOKO-BRONZELEUCHTER, einkerzig, und NAISSANCE-BRONZELEUCHTER:
+- 256 BRONZELEUCHTER auf glockenformigem FuB,als Griff zwei sid umeinander
+- windende Shlangen, deren Kopfe die Kerze tragen. 17. Jhdt. Abbildung Tafel 10
+- 257 SILBERNE SCHALE im Barokstil, melonenartig eingeteilt.
+- 258 SILBERNER TELLER.Im Spiegel reih graviert Rankengewinde. Durchm. ZZ cm,
+- 259 SILBERNE DREIFALTIGKEITSPLAKETTE.Auf der Vorderwand im Hoh= relief die Heilige Dreieinigkeit, von Engeln umgeben. Auf der Rudkseite ein Spruh= band, das ebenfalls von zwei Engeln getragen wird. Am Rand umlaufend Shif= zeichen und das Monogramm H. R. sowie die Jahreszahl 1654. An der Plakette hangt
+- eine korbartig durchbrochene Kugel.
+- 260-261 ZWEI SILBERNE ROKOKO-TASCHENUHREN.
+- 262 EINE DESGL.,Kupferemail, auf der Ruckseite Shaferszene auf fraisefarbenem
+- Grund.Frankreid Ende 18.Jhdt
+- 263-264 EIN PAAR MESSING-WANDAPPLIKEN,verspiegelt,ahtedkig,mit je
+- drei Armen. Auf Holz aufmontiert.
+- dem Arm je eine Taube.
+- 267-268 EIN PAAR DESGL.,je einarmig, einkerzig.
+- 269-270 EIN PAAR DESGL.,je dreiarmig,dreikerzig
+- 271 JAPANISCHER BRONZELEUCHTER in Form eines Drachen, der im Maul
+- die Tuille tragt.
+- 272 BAROCK-CHANuKALEUCHTER,Bronze.Die Rudwand zeigt freiliegend zwei aufrecht stehende Lowen; die eine Krone tragen.
+- 273 EIN DESGL., Zinn. Die Tullen werden von zweigartigen Asten getragen. Ende 18.Jhdt.
+- 274 EISERNER MORSER mit Stampfer.
+- 275 KONVOLUIT:15 div.Zinn=Ollampen.
+- 276 EMPIRE-ZINNSAMOWAR. Auf Holzpodest.
+- 277 EMPIRE-ZUCKERDECKELDOSE,ovale Form,auf vier KlauenfuBen.
+- 278 ZINN-ABENDMAHLKELCH.
+- 279 EIN DESGL. mit Dedel, auf diesem das Kreuz.
+- 280-284 FUNF DIV. ZINNSCHuSSELN mit Wappenreliefs.
+- 285 SCHWEIZER ZINNSCHENKKANNE.
+- 286-287 ZWEI DESGL., kleiner. Eine abgeflahte Form, die andere mit Griffdedel.
+- 288 GROSSER ZINNHuIMPEN mit Dedel und Griff. Gebuckelt. Auf dem Dedel
+- eine Munze. Auf dem Rand eingraviert:Amtskrug Hirsh 1730.
+- 289 GROSSER ZUNFTHuMPEN auf drei KugelfuBen. Auf der Vorderseite ein graviert zwei das Zunfshild haltende Shmiede mit der Unterschrift: Der Handel ist dy alteste aller Kunste. Auf dem Deckel das Wappenschild mit einem Spruch
+- und der Jahreszahl 1740.50 cm hoh.
+- 290 GROSSE ZINN-SCHRAUBKANNE,achteckig.Auf der Wandung eingraviert Bluten und das Monogramm S. M. W. mit der Jahreszahl 1833. 30 cm hoch.
+- 291 ZINN-GEBETPULT. Auf der Seitenfront die Inscrift:Johann Bartholdi. 1688.
+- 292-293 EIN PAAR ROKOKO-ZINNLEUCHTER.
+- 294-295 EIN PAAR EMPIRE-ZINNLEUCHTER.
+- 296 KONVOLUT: Zinnpulverflasche, kleiner Zinnteller. Zinnteller im Stil des Enderlein
+- 297 ZINN-ROKOKOTERRINE,zweigriffig,mit Deckel und zugehorigem Shopfloffel.
+- 298-299 ZWEI DIV.ZINN-TABAKDOSEN.
+- 300 ZINN-DECKELKRUG in FaBform.
+- 301 KONVOLuT:Zinn-Kaffeekanne und eine kleinere mit geflochtenem Henkel.
+- 302-303 ZINN-MASSKRUG Dedkel fehlt&gt;und ZINNVASE in Zylinderform.
+## ERSTER VERSTEIGERUNGSTAG
+
+## AB 4 UHR NACHMITTAGS
+
+E.
+
+## BUCHER
+
+(Nr.304-411&gt;
+
+- 304 BIOGRAPHIE NOUVELLE DES CONTEMPORAINS.Paris 1820.20 Bde.
+- Mit 320 Portratkupfern.Halbldrbde.
+- 305 ROTTECK,K.von. Allgemeine Geschichte.Freiburg 1832.9 Bde.in 5. Hubsce Pappbde. mit Vergoldung.
+- 306 POELLNITZ. Memoires pour servir a lhistoire de la Caison de Brandenbourg Royale de Prusse. Berlin 1791.2 Bde.Hubsd vergoldete Halbldrbde. Erste Ausgabe.
+- 307 THOMAS. Oeuvres diverses.Lyon 1771.3 Bde. Reidh vergoldete Ldrbde.
+- 308 ACADEMIE UNIVERSELLE DES JEUX.Amsterdam 1777.2 Bde.Ldrbde.
+- 309 LETTRES CABALISTIQUES OU CORRESPONDENCE PHILOS. entre deux cabalistes divers esprits elementaires et le Seigneur Astaroth. La Haye 1751. 6 Bde.
+- Mit Portrat-Titelkupfer und Kupfervignette. Sehr seltenes okkultistishes Werk.
+- 310 SPINOZA,B. de. Samtlide.Werke.Stuttgatt 1871.2 Bde.Reich vergoldete
+- Halbmaroquinbde. Sehr selten,
+- 311 FISCHER,K. Spinozas Leben,Werke und Lehren. Heidelberg 1898. Starker
+- Samtlide Werke.Stuttgart und Tubingen 1852.40 Bde.
+- Halbldrbd.
+- 312 HERDER J.G.von. in 20. Halbldrbde.mit Rudkenvergoldung.
+- Halbldrbde. mit shwarzen Ruckenschildern. Shone Ausgabe mit vielen Erstdrudken
+- 314 KUGLER,F.Geshidte Friedrih d.Gr.Leipzig 1856. Gr.=8°. Reich vergoldeter Halbmaroquinbd. Zweite Ausgabe mit den beruhmten Illustr. von Menzel, darunter
+- 6 neue.
+- 315 FRIEDRICH D. GR.）. Memoires pour servir a 'histoire de Brandebourg Im= prime pour la satisfaction du public.1754. Mit shonem Jugendportrat und Titel kupfer.Reic verzierter Ldrbd.
+- 316 HISTOIRE DE FREDERIC GUILLAUME I. Roi de Prusse. Amsterdam und Leipzig 1741. 2 Bd. in 1. Mit 2 Kupfern und Kupfervign. Reidh vergoldeter Ldrbd. Sehr selten.
+- innerungen aus meinem Leben. Zerbst 1846. Halbmaroquin
+- shriften z.Verteidigung meiner Schrift uber das Leben Jesu.Hubsch verzierte Haib=
+- Idrbde. d.Z.Erste Ausgaben.
+- 319 STAEL, Mme DE. Oeuvres completes. Paris1820.17Bde. Halbidrbde.
+- Erste Gesamtausgabe.
+- 320 MOLIERE. Oeuvres hoisies. Paris 1861. Mit 20 Holzschnitt-Tafeln von Nanteuil.
+- Hellroter reid vergoldeter Ldrbd.
+- Oeuvres.Paris1747.5 Bde.Mit 1 Portrat. 5Titelvign.von Eisen, davon 3 gestocen von Bouher. 60 Vign. i. T.von Eisen u.6 Kupfertafeln von Cohin in Probedrudken vor der Shrift. Reich vergoldete
+- 321 BOILEAU DESPREAUX. Ldrbde. mit Goldshnit.
+- 322 RACINE. Oeuvres.Amsterdam 1742.3 Bde. Mit Titelkupfer u.12 shonen
+- Kupfern von Tanjé. Reid vergoldete Ldrbde.
+- 323 LE SAGE. Histoire de Gil Blas. de Santillane. Paris an Ill. 4 Bde. Mit
+- 100 zierlicen Kupfern von Duplessis=Bertaux.Bunt marmorierte, reich vergoldete Ldrbde.
+- 324 CAZOTTE.Oeuvres.Paris 1817.4 Bde.Grune reid vergoldete Pappbde. d.Zt.
+- Mit 18 Kupfern, die Cochin u. Moreau zugeschrieben werden. Erste Gesamt= ausgabe. Sehr schones Exemplar.
+- 325 ANNALES DU MUSEE.1805-1808.3 Bde. Mit 216Kupfern.Dunkelblaue
+- Maroquinbde. mit Rucken= u.Deckelvergoldung.
+- 326 RABELAIS. Les songes drolatiques.Paris 1869.Halbmaroquin, Pergament=
+- umshlag eingebunden. Mit 1z0 grotesken u. freien Federzeichnungen nah Rabelais. Sehr selten.
+- 327 LE CHASSEUR A LA BECASSE,PAR P.DE FAVEAUX. Paris ca.1850. Mit 6 Tafeln u. zahlreicen Federzeichnungen i.T.von Felicien Rops. Gruner
+- Halbmaroquinbd.mit farbiger Lederauflage. Sehr seltenes Fruhwerk des Felicien Rops.
+- 328 ABBE PREVOST. Histoire de Manon Lescaut.
+- Paris ca. 1848.Mit Portrat, 20 Holzschnitt=Tafeln u. 90 Holzscniten i. T. von Tony Johannot. Schwarzer reih vergoldeter Halbmaroquinbd.Erste Ausgabe.Sehr selten
+- 329 VIRGIL.Bucolica, Georgica et Aeneis. London 1800. 2 Bde. Mit 14 prahtigen
+- Kupfern von Bartolozzi. Shwer vergoldete Ldrbde.
+- Milano1806.3Bde.mit Sehr schones
+- 330 CELLINI,BENV.,Vita da lui medesimo scritta. Portrat.Bunt marmorierte Halbldrbde. mit reicher Vergoldung. Exemplar.
+- 331 FLAUBERT. Salambo. Paris 1863. Haibmaroquin. AuBerordentlich seltene erste Ausgabe.  Sehr schones Exemplar.
+- 332 RAPIN, P.VON.Allgemeine Geshihte von England. Halle 1755. 11 Bde.4 Mit vielen Kupfern u. Karten.Dekorative Halbpergamentbde.
+- 333 MACAuLAy. History of England. Lordon 1895. 2 Bde. Shone rote Halb= franzbde.
+- 334 FOX.History of James II.London 1808. Gr.=4. Mit Kupfern. Roter reid
+- vergoldeter Maroquinbd.
+- 335 CALENDRIER REPUBLICAIN. Paris ca. 1865. 4. Mit 60 farbigen Tafeln u.zahlreicen Holzschnitten von Metivet. Shoner starker roter Halbmaroquinbd.
+- Erste Ausgabe.
+- 336 JUILES VERNE. 20 000 lieues sous les mers. Paris ca. 1880. Halbldr. Erste Ausgabe.
+- 337 LEONARDO DA VINCI. Recueil de harges et de tetes. Paris 1767. 4. Mit
+- 66 Kupfern auf 20 Tafeln, gestochen von Caylus. Selten.
+- 338 MEDICI, LORENZO DE. Poesie. Bergamo 1763. Pergamentbd.mit Vergoldung.
+- Sehr schones Exemplar.
+- 339 ARIOST.Orlando furioso. Florenz 1823. 8 Bde. 4.Mit Portrat. Halb=
+- pergamentbde. mit Ruckenvergoldung u. shwarzen Shildern. Exemplar auf grobem Velinpapier.
+- 340 SAMMLUNG VON 433 GIPSABGUSSEN NACH BERUHMTEN MUSEEN
+- UND SAMMLUNGEN. 12 Bde. mit doppelseitig eingeklebten Abgussen. Reih vergoldete Halbpergamentbde,mit farbigen Rukenschildern.
+- 341 GAVARNI. Masques et Visages. Sammlung von 142 ganzseitigen Lithographien.
+- Paris o. J. Folio. Ldw.
+- 342 MORTIMER Sammlung von 15 Original-Radierungen.1778. Folio.1 Mit Widmung an Reynolds. Halbldr.
+- 343 HEATH, W. Sammlung von 58 Original-Radierungen mit Karikaturen von Heath.
+- Mit Titel.Ca.1840.Quer=Folio.Lwd.
+- Preisler u.a.Florenz 1761.Gr.Folio.Halbmaroquinbd.Prahtvolle hohst dekorative Blatter.
+- 345 FINDEN'S TABLEAUX. London 1838. Folio. Mit 20 Stahlstichtafeln. Reih vergoldeter gruner Ldrbd. Sehr schones Exemplar.
+- 346 SHAKESPEARE.Midsummei=Night's Dream. London 1868. Folio. Mit Silhouetten von Konewka, auf aufgewalztem China. Reih verzierter Ldrbd.
+- 347 GOETHE.Faust.2 Teile. Stuttgart 1854. Folio. Mit 25 Stahlradierungen
+- von Seibertz.Rote Halbmaroquinbde. Erste Ausgabe.
+- 348 HIRTH. Der schone Mensh in der Kunst der Neuzeit. Munhen 1902. 40.
+- Halbldr.
+- 349 IL VATICANO.Descritto ed illustrato da E.Pistolesi.Rom 1838.8 Bde. Gr.-Folio.Mit 853 Kupfern von Th. de Vivo. Reich vergoldete Halbmaroquinbde. mit Goldschnitt. Das grobte und kostbarste Werk, das je uber den Vatikan er=
+- shienen ist.Wundervolles Exemplar.
+- 350 METASTASIO.Opere dramatiche.Venezia 1758-1766.7 Bde.Gr.=4.Mit
+- Portratkupfer,Titelvignette und uber 50 zierlichen Vignetten. Kupfer und ge= stochene Initialen von Zuchi. Reidh vergoldete Pergamentbde.Furstenausgabe, der Text auf grobem matblauen Papier gedrukt. Studk von seltener Piaht.
+- 351 OSSIAN. Poesie. Pisa 1817.4 Bde. Reizend vergoldete Pergamentbde. d.Z
+- 352 NIBBy,A. Viaggio antiquario ne' contorni di Roma. Rom 1819. 2 Bde. Mit 42 Kupfern.Hubsh vergoidete Pergamentbde. d.Z.
+- 353FUMAGALLI. Scuola di Leonardo da Vinci in Lombardia. Milano 1811. Kl.= Folio. Mit 53 zarten Kupfern von Fumagalli. Halbldr. mit reicer Vergoldung.
+- 354 SEROUX.DAGINCOURT.Storia dellArte.I Dimostrata coi monumenti
+- Prato 1829.Gr.Folio.Mit 325 Kupfertafeln.Halbldr.
+- 355 RIGHETTI.P. Descrizione del Campidoglio.Rom 1833. 2 Bde.Gr.Folio.
+- goldung und goldgeprebtem Wappen.
+- 356 CHABERT. Galerie des peintres ou cellection de portraits des peintres les plus
+- celebres de toutes les ecoles. Paris 1823. Gr.Folio. Mit 89 meist farbig ge= tonten lithographierten Tafeln von Villain.Halbidr. gebrohen.Die ausdrucksvollen Tafeln sind sehr wertvolle Fruhdrudke der Lithographie.
+- 357 WyATT, D. The industrial arts of the 19th century. London 1851. 2 Bde. Gr.Folio.Mit 158 farbig lithographierten Tafeln.Reich vergoldete Halbmaroquinbde,
+- 358 VuES PITTORESQuES DES CHATEAUX DE FRANCE.Avec texte par
+- Blancheton. Paris 1830.2Bde.Gr.=Folio. Mit Z gezeichneten Titelblattern, 1 Portrat und 130 lithographierten Tafeln.Reid vergoldete Halbmaroquinbde.
+- 359 MEDAILLES SUR LES PRINCIPEAUX EVENEMENTS DU REGNE DE LOuIS LE GRANDParis, Imprimerie Royale, 1702.Gr.=Folio.Mit Titel= kupfer, 636 Kupfermedaillons von Cohin und 630 Schlubvignetten und Rokoko= borduren. Roter vergoldeter Maroquinbd. mit dem Wappen Ludwigs XIV.auf dem
+- Deckel und Krone mit Initialen auf dem Rudken.Koniglicer Prachteinband.
+- 360 DESCRIPTIONS DES PRINCIPALES PIERRES GRAVEES DU CABINET DE S.A. S. Monseigneur le Duc d'Orleans, Premier Prince du sang.Paris 1780 bis 1784.2 Bde.Gr.Folio.Mit Titelkupfer von Cochin, 179 Kupfertafeln u 59 Vignetten von St. Aubin.Bunt marmorierte reid vergoldete Lederbde. Pracht=
+- stuck auf grobem Papier.
+- 361 DISSERTATION SUR LES STATUES DE NIOBE. Dediee a son Altesse
+- Royale Pierre Leopold Grand Duc de Toscane.Florenz 1779.Mit Kupfervignette und 18 Kupfertafeln von Campiglia.Halbldrbd. mit Vergoldung.
+- 362 GROOT STEDEBOEK VAN PIEMONT EN VAN SAVOyE,of NaauW= keurige Beschryving van derzelvor Steden, Pleizen,Kerken voornaamste Gebouwen. Ins'Graavenhaage i725.4Bde.Gr,Folio.Mit 4 Titelkupfern, 4 Portrat-Kupfern, 4 Karten u.Wappenkupfern,131 meist doppelbl. gr.Kupfern u, 86Vignetten. Vergoldete Lederbde,
+- 363WATTS.The seats of the nobility and gentry.London 1779. 4. Mit 84 herrlichen Kupfertafeln.Reich vergoldeter Maroquinbd.
+- 364 REyNOLDS, SIR JOSHUA. Engravings from the works. London ca. 1830. 3Bde.Gi.Folio. Mit 300 Shabkunstkupfern.Schwarze reich vergoldete Maroquinbde. Prachtstucke.
+- 365 GALLERy OF PORTRAITS.London 1834.2 Bde,Folio.Mit 72 Portrat= kupfern auf aufgewalztem China, Vergoldete Lederbde,
+- 366 SAMMLUNG VON 11 BRONZEPLAKETTEN UND GEDACHTNIS MuNZEN zur franzosishen Revolution und zum Kaiserreic. In samtene Behalter
+- gebettet und in einem reic vergoldeten Maroquinbd. eingelassen. Folio.
+- 367 CATALOGUES ET ARMOIRIES DES GENTILHOMMES.Mit Titel=
+- kupfer von Cochin und 36 Kupfertafeln mit Standarten. Reich vergoldeter Lederbd.
+- 368 MEDAILLES FRANCAISES depuis le Regne de Charles VIl jusqu'a Louis XVI. Paris 1834—1836.3 Bde.in 2.Gr.=Folio.Reim vergoldete prachtige Halbpergament= bde.Mit 160 gestochenen Tafeln.
+- 369 MEDAILLES DE LA REVOLUTION FRANCAISE.Paris 1836.Mit
+- 96 Kupfertafeln.Einband wie vorige Nummer.
+- 370 CARTER, j. Specimens of the ancient Sculpture and Painting.London 1780-1784. 2 Bde. in 1.Folio. Mit 2 Titelkupfern, gestoch,Titelbl., 30 handgemalten und 86 Bistre-Kupfern.Reich vergoldeter Lederbd.
+- 371 SAMMLUNG VON 30 KUPFERN mit griechischer Vasenmalerei. 18. Jhdt,
+- Gr.=Folio.Halbldr.
+- 372 PICTURAE ANTIQUAE CRyPTARUM ROMANORUM illustratae a Johannae Bellorio. Rom 1791.Gr.Folio.Mit ca.100 Kupfern und Vignetten.Halbldr.
+- 373 GILLRAy.Works from the original plates. London o.J.Gr.Folio.Mit 582 Karikaturen-Kupfern.Reih vergoldeter Halbmaroquinbd.
+- 374 SCEAUX DES ROIES ET REINES DE FRANCE.Sceaux des Roies et Reines
+- d'Angleterre.Paris 1834—1835.2 Bde.in 1.Folio. Mit 65 Kupfertafeln (Siegel》 Reidh vergoldeter Halbpergamentbd.
+- 375 SCEAUX DES GRANDS FEUDATAIRES DE LA COURONNE DE FRANCE.Sceaux des Communes,Communautes,Eveques,Abbes et Barons.Paris 1836-1837.2 Bde.in 1.Mit 56 Kupfertafeln Siegel. Reich vergoldeter Halb= pergamentbd.
+- 376 MEDAILLES COULEES ET CISELEES EN ITALIE.Paris 1834-1836. 2 Bde.in 1.Mit 84 Kupfertafeln Munzen）.Reih vergoldeter Halbpergamentbd
+- 377 TABLEAUX HISTORIQUES DES CAMPAGNES DITALIE.Paris 1806.
+- Folio.Mit Gr.-Portrat Napoleons zu Pferde und etwa 30 schonen Kupfern von Vernet.Halblederbd.
+- 378 SEGuR, CTE.DE.Histoire de Napoleon et de la Grande Armee, pendant 1'annee 1812.Paris 1825.2 Bde.Mit Kupfern. Vergoldete Ldrbde.d.Z.
+- 379 BOuRIENNE. Memoires sur Napoleon. Paris 1830. 10 grune Halbldrbde.
+- 380 NORVIN. Histoire de Napoleon. Mit Holzschniten und sechs groben gestochenen Portrats von Raffet. Shoner Haibldrbd. d. Z.
+- 381 GENLIS, MME DE.Les Parvenus. Paris 1819. 2 schone HalbIdrbde. d.Z
+- 382 BRANTOME, SEIGNEUR DE.Oeuvres. Londres 1779. 9 shone Ldrbde.mit Vergoldung. Sehr selten.
+- 383 LHEPTAMERON OU CONTES DE LA REINE DE NAVARRE. Paris 1807.8 Bde.in 4.Mit 75 reizenden Kupfern von Freudenberg. Blaue
+- Pappbde. mit Rudkenvergoldung.
+- 384 VOLTAIRE.La Pucelle d'Orleans.Budkingham ca.1780.Reidh vergoldeter Ldrbd.
+- 385 BOCCACCIO. Decamerone. Londra 1757. 5 Bde.Mit 116 Kupfern und 97 Kupfervignetten von Gravelot, Bouher und Eisen.Violete reich vergoldete Ldrbde. Die beruhmte Ausgabe in einem herrlichen Exemplar.
+- 386 BOILEAU-DESPREAUX. Oeuvres.2 Bde.Amsterdam 1708.Folio.1
+- Mit 8 Kupfertafeln und 33 Kupfervigneten von Picart. Ldrbde. mit Vergoldung.
+- 387 SHAKESPEARE.Works.London 1866. 3 Bde. Quart. Mit den schonen Holz= schnitten von Sir Gilbert. Dunkelgrune Maroquinbde. mit Goldscnitt.
+- 388 SHAKESPEARES DRAMATISCHE WERKE,ubersetzt von Shlegel und Eshenburg. Wien 18101812. 20 reizend vergoldete Halbldrbde. Mit Kupfern.
+- 389 THE COPPERPLATE-MAGAZINE.London 1794-1802.5 Bde.
+- Quer=40. Mit 255 entzuidkenden Kupfern. Reizend vergoldete Ldrbde. mit Maroquinrucken. Prachtstuidk!
+- 390 SyLVA BRITANNICA,or Portraits of Forest=Trees by Strutt. London 1822.
+- Folio.Mit 50 prahtvollen maleriscen Radierungen auf China. Gruner Maroquin= band mit reihster Vergoldung. Sehr selten!
+- 391 BuFFON. Histoire naturelle, generale et particuliere.Paris 1777-1789. 28 Bde.
+- Mit ca.750 malerischen Kupfern. Bunt marmorierte, reid vergoldete Ldrbde. Prachtige Reihe!
+- 392 COLLECTION OF VOyAGES AND TRAVELS.London 1745. 2 Bde.
+- Klein-Folio. Reih vergoldete Ldrbde. mit dem Wappen des Dauphin von Frank= reid. Mit 49 interessanten Kupfertafeln.
+- 393 COXE,W.Travels into Holland, Russia,Sweden and Denmark. London 1785-1790.3 Bde. Quart. Mit 25 Kupfern u.Karten. Shone sehr elegante Ldrbde.mit Vergoldung.
+- 394 CLARKE,E.D.Travels in various countries of Europe,Asia and Africa.London 1810. 6 Bde.Quart. Mit 179 Kupfern und Karten sowie 157 Kupfervignetten. Rote vergoldete Maroquinbde.Geschenkexemplar des Verfassers, mit handschrift= licher Widmung.Prachtstudk.
+- 395 RECHERCHES SUR L'ORIGINE,esprit et les progres des arts de la Grece Londres 1785.3 Bde.Quart.Mit 89 interessanten Kupfern.Reih vergoldete Ldrbde.
+- 396WALPOLE.Works.London 1798.5 Bde
+- Quart.Mit Z Portrats und 100 Kupfertafeln. Sehr elegante reich vergoldete Ldrbde. Sehr selten.
+- 397 ARIOST.Orlando furioso. Venezia 1584.Klein=Folio.Mit 3 gestochenen Titeln,51 Kupfern,51 Kupferborduren im Text und Holzshnitinitialen von G.Porro und Groto. Reid vergoldeter Luxuseinband mit reichster Vergoldung auf Rucken und Dedkeln.Practstuck.
+- 398 CERVANTES. Nouvelles. Lausanne 1769.2 Bde.Oktav. Mit Portrat und
+- 13 shonen Kupfern von Folkema. Hubsche Ldrbde. Mit Vergoldung.
+- 399 VOLTAIRE.Oeuvres dramatiques. Paris 1779.3 Bde. Mit Titelkupfer und 12 reizenden Kupfern von Eisen und Gravelot. Reich vergoldete Lederbandchen.
+- 400 VOyAGESIMAGINAIRES, songes,visions etromans cabbalistiques.Amsterdam et Paris 1787-1789.36 Bde. Mit 70 shonen Kupfern von Marinier.Verzierte Ldrbde. mit roten Rudenshildern. Sehr seltene Reihe phantastischer Romane.
+- 401 PyNE,W. H. Picturesque Groups for the embellishment of Landscape. London 1845. 2 Bde. in 1. Quart. Mit 120 schonen Aquatinta Tafeln. Halbldr.,beschadigt. Sehr selten und interessantes Werk.
+- 402 DEUTSCHES BALLADENBUCH. Mit Holzschnitten von Ludwig Richter u.a. Leipzig 1858. Original-Leinenband mit reicer Vergoldung.
+- 403 CHANTS ET CHANSONS POPULAIRES DE LA FRANCE. Paris 1854. 2 Bde. Mit 2 Titelkupfern und ca. 300 radierten Seiten, mit gestohenem Text und Zeichnungen von Meissonnier, Daubigny u, a.Grune Halbldrbde. mit Vergoldung. Sehr selten.
+- 404 PuGIN. Paris and its environs. London 1829. Quart. Mit 103 shonen Ansichten.
+- Roter sehr shoner vergoldeter Halbmaroquinbd.
+- 405 GASTINEAU,H. Wales illustrated. London ca.1840.Quart. Mit gestochenem Titel und 96 shonen Landschaftsstichen. Zierlich vergoldeter shwarzer Maroquinbd.
+- 406 BARTLETT,W.The beauties of the Bosporus. London ca.1840. Quart. Mit
+- etwa 80 hubschen Stichen. Halbidr.
+- 407 BEATTIE. W.The Waldenses or Protestant valleys of Piedmont and Dauphiny. London 1838.Quart.Mit Portrat, gestocenem Titel und 70 shonen Sticen.Reid
+- vergoldeter Ganzldrbd.
+- 408 PERGAMENT-DIPLOM der Universitat Padua vom Jahre 1625mit Miniaturmalerei.
+- Roter reich vergoldeter Maroquinbd.
+- 409 DEUTSCHE HANDSCHRIFT.15. Jhdt. Inhalt:Glossa ordinaria in epistolas Pauli.1450.Sdweinsldrbd.d.Z.
+- 410 NAGLER. Kunstlerlexikon. 25 Leinenbde.
+- 411 KONVOLUT:Div.englische Romane.
+
+F.
+
+## GRAPHIK/ GEMALDE ALTER MEISTER
+
+(Nr.412-515&gt;
+
+- 412 BAROCKRAHMEN,reid geschnitzt, in Form von Akanthusranken.
+- 413-414 ZWEI RAHMEN im Rokokostil. Lindenholz, reich geschnitzt.
+- 415 iTALIENISCHER MEISTER um 1700. Fruhtestilleben.Von rechts naht eine
+- Frau einem Tish, auf dem sid Frudte, Stoffe und ein Papagei usw. befindet. Im Vordergrund ein shlafender ShoBhund. Lwd. Holz=R. 88x125 cm.
+- 416-417 KREIS DES SEEKATZ. Brustbild eines Madhens mit Kaninden.-Der
+- Harmonikaspieler.(Gegenstudke.) Holz.G.-R.Z4x18 cm.
+- 418 NIEDERLANDISCHER MEISTER um 1700. Brustbild eines bartigen Greises mit Pelzbarett. Holz. Shwarzer R. 18x14 cm.
+- (Gegenstuicke.) Lwd. Unger. 65x80 cm.
+- 421 UNBEKANNTER MEISTER um 1700.
+- Reiterschlacht.
+- Huftbild des Vizekonigs von Indien. Lwd.G.=R.80x63cm.
+- 422 NACH LUCAS CRANACH. Brustbild Melanhthons. Holz.Shwarzer R. 38×25cm.
+- 423 PAULUS POTTER. Interieur. In einer Sheune verschiedene Ziegen. Zur Rechten von diesen ein Stilleben von Kupfergeraten, einem umgesturzten Fab, einem Kohl=
+- kopf und einem Seefisch. H.R. 52x62 cm. Sign.u.dat. 1611.
+- 424 JACOB TORENVLIET. Nah der Rauferei. Im Vordergrund zwei junge Manner, die sin um eine gesturzte Frau bemuhen. Von redts naht eine alte Frau mit einem Wasserkrug. Sign.Holz.G,R.40x32 cm.
+- 425 KREIS DES DITERICI. Jesus und Magdalena. Monogr. und dat. Holz. G.R. 24×20cm.
+- 426 DAVID TENIERS (1582-1649).Der Bauernhof.Von links naht ein Bauer mit Shubkarren,in diesem verschiedenes Gemuse. Aus der Tur des Gehoftes sieht eine Frau heraus. Vor der Tur ein Fab, auf und uber diesem wiederum verschiedenes Gemuse.Im Vordergrund ein Hund und verschiedenes Federvieh. Sign.Holz.G,R.
+- 426a NORDDEUTSCHER MEISTER 17. Jhdt. Der Auftrag zum SoloBbau. Drei Ratsherren sitzen um einen mit einem blauroten Teppih bededkten Tisd, auf diesem ein Haufen Goldgeld. Im Vordergrund links sitzt der Architekt, den Bauplan auf dem Shob ausgebreitet haltend.Lwd. S.R.180x209 cm.
+- 55×73cm. (Mit Gutadhten von Geh. Rat M. J. Friedlaender.) Abbildung Tafel 1
+- 427 MITTELRHEINISCHER MEISTER um 1560.Christus am Kreuz.
+- Vor blau= grun gehaltener Phantasielandshaft Christus am Kreuz, dessen Stamm von Magdalena umfabt wird. Zur Linken Maria, von Johannes und einer zweiten Frau umfabt. Zur Rechten die Soldner.Holz.G,=R.92x58 cm. Abbildung Tafel 23
+- 428 BRuSSELER SCHULE um 1500. Maria mit Kind in Landshaft.Kniestuk der Madonna, mit der Rechten den Jesusknaben auf dem ShoB haltend. Zur Linken eine Baumgruppe, zur Rechten eine Wasserburg. Holz. Alter holzgeschnitzter G.R. 39×33cm. Abbildung Tafel 15
+- 429 KREIS DES FRANCOIS CLOuET 17. Jhdt.).Brustbild einer jungen Dame
+- mit aufgelostem Haar und Spitzenkragen.Holz.G,#R. 35x27 cm.
+- 430 PAuL DU BOyS (17. Jhdt.). Die heilige Margarete.Brustbild in rotem Samt=
+- Teufelskopf. Holz. G=R.35x28 cm
+- 431 SPANISCHER MEISTER. (17. Jhdt.. Frau mit Kind. Die jugendlice Mutter zeigt auf das vor ihr im Betthen liegende Kind. Rechts auf einem Tisch ein Korb mit Washestucken.Lwd.G.R.112x89 cm. Abbildung Tafel 2Z
+- 432 ANTWERPENER MEISTER um 1520 Kreis des L.v. Leyden). Das Urteil Salomonis. Zwishen reih ornamentierten Saulen auf doppelstufig erhohtem Thron der in jugendlichem Alter dargestellte Konig. Mit damastiertem Goldgewand und tellerartig rotem Barett. Er weist mit dem Zeigefinger der Linken auf die auf den Stufen des Throns liegende Frau. Ihr gegenuber die zweite Frau. Auf der Thron= stufe liegt das tote Kind. Zu den Seiten des Thrones in buntfarbenen Gewandern das Gefolge des Konigs. Ganz links der Henkersknecht, im Begriff, das Shwert aus der Sheide zu ziehen. Holz. Alter Holz-R. 58x69 cm. Das Gemalde stammt aus dem Besitz des Sir William Farrer und war als dessen Leihgabe 1900 in der New-Galerie in London ausgestellt.Nad Geheimrat Dr. Friedlander geht das Gemalde wohl auf eine Zeihnung des Lucas van Leyden zuruck und durfte aus der Fruhzeit des 16. Jhdt. stammen.) Abbildung Tafel 17
+- 433 DONAU-SCHULE um 1560.Die Freuden der Maria. Maria,von vier Engeln gestutzt, uber der Landshaft shwebend, ber ihr, aus den Wolken hervorshauend die heilige Dreieinigkeit. Zu den Seiten in je drei kreisformigen Medaillons Dar= stellung aus dem Leben der Gottesmutter. Holz. Shwarzer R. 58x40 cm.
+- 434 FLAMISCHER MEISTER 17. Jhdt. Die Zerstorung von Sodom und Gemorrha. Zur Linken in einer Grotte Lot und seine Tochter. Holz. Shwarzer R. 20x6Z cm.
+- 435 CARLO SCRETA Prag 17. Jhdt.). Der heilige Franziskus mit seinem Atribut. Holz.Shwarzer R.73x51 cm. Abbildung Tafel 22
+- 436 SCHW ABISCHER MEISTER um 1450. Devotionalbild.Darstellung des Gebetes Christi am Oiberg. Vor eingraviertem Golddamastgrund steht in der Bildmitte auf erhohtem Felsen Christus.Links von ihm Moses mit der Gesetzestafel, rechts Elias. An dem grun bewachsenen Abhang die schlafenden Junger und die Stifter= familie mit Wappen. Von dem Familienoberhaupt geht ein Sprudband mit den Worten aus: 《O fily dei miserere mei》.Holz. Roter R. 90x76 cm.
+
+Abbildung Tafel 23
+
+- Selbstportrat des Kunstlers. 'PMT
+- 437 JOHANN KUPETZKY(1666-1740). Shwarzer R.115x90 cm.
+- 438 ENGLISCHER MEISTER 18. Jhdt.Huftbild einer jungen Dame in weibem Tullgewand vor dunklem Hintergrund.Lwd.G.R.71x55 cm.Abbildung Tafel 24
+- 439 JOHANN ADAM KERN (1750-1800). Huftbild des jungen Goethe,zur Rechten Folianten. Sign.Lwd. G.R, 38x32 cm.Vgl.die Veroffentlihungen der Herren Geheimrat Friedlander, Fritz Stahl und Witkowski.&gt; Abbildung Innentitel
+- 440 A. VAN DyCK-SCHULE. Skizze zu dem Bildnis des Adrian van Stalbent
+- Holz. Shwarzer R.23x18 cm.
+- 441 ANTON GRAFF (1736-1813). Selbstportrat des Kunstlers.Lwd.G.R.51x39 cm. Abbildung Tafel 16
+- 442 WIENER SCHuLE um 1830. Portrat einer alteren, uber einem Folianten gebudkt sitzenden Dame.Holz.Shwarzer R.34x27 cm
+- 443 NIEDERLANDISCHER MEISTER um 1800. Kniestud eines alteren sitzenden Herrn, in der Rechten einen Brief haltend, mit der Linken sich auf Folianten stutzend.Landshaftsdurchblidk,Holz.Shwarzer R.34x28 cm
+- 444 FRANS FLORIS (1516-1570).Das Mah1 der Meeresgotter.Lwd.G.R. Mit Gutachten von Herrn Professor Dr.F. Winkler, dem sich
+- 123×223cm. Exzellenz von Bode anschlieBt.&gt; Abbildung Tafel 2
+- 445 HOLLANDISCHER MEISTER um 1780. Landscaf mit Staffage. Aquarell. 13×22cm.
+- 446 A.GRAFF &lt;1736-1813).Portrat des Philipp Daniel Lippert.Lwd.G.R.55x43,5cm. Abbildung Tafel 16
+- 447 UNBEKANNTER MEISTER um 1680. Miniaturportrat eines Fursten. Oval.
+- Pergament.G.R.17x12 cm.
+- 448 KONVOLuT:Funf kolorierte Jagdlithographien. Wien ca.1810. Quer=Kleinfolio.
+- 449 DESGL.: Sieben kolorierte Pferdesportlithographien.Wien ca.1812. Quer-Kleinfolio.
+- 450 DESGL.: Sechzehn Kupferstiche von Wenzel Hollar.
+- 451 M.v.SCHWIND (1804-1871).Marhenmotiv.Sign.Lwd.G.R.92x104 cm.
+- 452 GEORGE CRUlISHANK (1792-1878). Karnevalszene.Lwd. G.R. 31x42 cm.
+- Abbildung Tafel 24
+- 453 JAMES BAyNES (um 1800). Romantisce Landshaff. Aquarell. 36,5x53 cm.
+- 455 W. GREEN (um 1800). Shottishe Landschaf. Aquarell. 20x29 cm.
+- 456 G.DINSDALE Ende 18. Jhdt.).Motiv aus Shottland.Sign.Aquarell.16,5x22,5cm.
+- 457 P.LA CAVE Ende 18. Jhdt.). Landlihe Szene. Sign. Aquarell. 19x25,5 cm,
+- 458 DERSELBE. Landliche Szene. Gegenstudk zu voriger Nummer). Sign. Aquarell.
+- 19×25,5cm
+- 459 HOLLANDISCHER MEISTER 18. jhdt.Wasserlandshaff.Aquarell. 18,5x23 cm
+- 460 A.PUGIN (um 1800).Die Sternwarte in Greenwid.Aquarell. 25,5x24 cm.
+- 461 MICHAEL WOLGEMUT Werkstat). Christus im Gebet am Olberg. Christus kniet, nah rehts gerichtet, mit betend erhobenen Handen,Zu seinen Fuben die drei sdlafenden Junger.Durd die Gartenpforte tritt Judas mit den Haschern Holz.G.=R.93x76cm. Abbildung Tafel 19
+- 462 FREDERIC VAN VALKENBORCH (1570-1623).Die Entdedkung Amerikas Reic gegliederte Gebirgslandschaft mit mannigfaltig gestalteten Bauten. Im Vorder= grund rehts die Landung einer Flotille, aus der bereits der Anfuhrer einen Elefanten bestiegen hat. Monogr. Holz.Schwarzer R.57x76 cm. Abbildung Tafel 20
+- 463 PAUL BRILL (1554-1626).Phantasielandschaft mit Sturz des Phaeton. Auf dem durh die Sonne ausgetrodkneten Meeresboden im Vordergrund Seeschiffe, ein Walfish, Delphin und Haifische,die in kleinem Mabstab dargestelten Menschen stredken ershreckt die Arme gen Himmel. Am Himmel die vier Sonnenrosse und der auf
+
+Abbildung Tafel 20
+
+- die Erde herabsturzende Wagen. Monogr.Holz.G.-R.48x62 cm
+- 464 HANS HOFMANN Mite bis Ende 16. Jhdt.). Evangelist Johannes. Dieser
+- sitzend als Halbfigur,in einem Buhe lesend. Vor ihm der Kelh, aus dem die Shlange Halbmond《. Zur Rechten Folianten. Holz. G.R. 81x60 cm.
+- 465 DERSELBE. Der Evangelist Markus. Als Halbfigur mit grobem breiten Vollbart, nach rechts hin sitzend und in einem Buhe lesend, dargestelt. Zur Linken Folianten. (Gegenstuick zu voriger Nummer.&gt; Holz. G.R. 80x60 cm.
+- 466 NIEDERLANDISCHER MEISTER um 1550 Kreis des Patinir). Landschaf mit Szene aus der Tobias=Legende. Ein schmaler Wasserarm durchshneidet etwa in der Mitte des Bildes den mit Baumen und Bauerngehoften bestandenen, tief sattgrun und braunlich gehaltenen Vordergrund. Zur Linken im Vordergrund Tobias mit dem Walfish und zu seiner Linken der Engel. Holz.Shwarzer R. 84x106 cm.
+
+Abbildung Tafel 18
+
+- 467 FLAMISCHER MEISTER um 1530 Shule des van Orley&gt;. Kreuzigungsbild. Mittelstudk eines Hausaltars. Im Vordergrund Christus und die beiden Shaher am Kreuz, zu Fuben letzterer Maria und Johannes. Im Hintergrund eine burgahnlide Stadt. Holz.Holz=R.90x57 cm. Abbildung Tafel 21
+- 468 AERNOUT VAN DER NEER (1603-1677).Wasserlandschaft bei Vollmond. Ansidt einer Ortshaff, die hinter einem stillen Wasser liegt. Der Vollmond kommt aus dichten Wolken hervor. Holz.G,=R. (Lt. Gutachten von Exzellenz von Bode handelt es sich um ein harakteristisches Werk des Meisters
+- aus der Zeit von 1660-1670.&gt;
+- 469 KREIS DES JAN VAN SCOREL 1520-1530&gt;.Triptyhon.Im Mitelteil figurenreice Kreuzigung in einer wildzerklufteten Gebirgslandshaff. Auf dem linken Flugel Christus an dem Kreuz zusammenbrehend,auf dem rechten der Shmerzens= mann mit dem Kreuz und der vor einem Betpult kniende Stifter. Holz. G.R. Abbildung Tafel 19
+- 131×191 cm.
+- 470 MARTEN VAN CLEVE 1527-1581&gt;. Bauernkirmes. In einem niederlandischen Dorf mit Ausblidk auf die Antwerpener Kathedrale reices volkstumlices Treiben Im Vordergrund links uber einem offenen Feuer ein mahtiger Kessel, dessen Inhalt von dem Koch auseinandergeruhrt wird. An den Tischen daneben Manner und Frauen mit der Zubereitung von Speisen bescaftigt. Von redhts naht ein von zwei Pferden gezogener Wagen, auf dem ein Dudelsakpfeifer, ein Mann mit Blasebalg und andere scherztreibende Figuren sitzen. Holz.G.R. 110x160 cm.
+
+Abbildung Tafel 18
+
+- 471 FLAMISCHER SITTENMALER um 1560 Art des M.v.Heemskeerk). Moses Shlangenerhohung. Reide figurline Darstellung mit Ausblidk auf das Meer und eine Anhohe. Grobe und kleine Gruppen bewegen sih mit erregten Gebarden zwishen den aufgestellten Zelten und das Solangenkreuz, neben weldhem links Moses in betender Haltung hoh oben auf dem Felsen kniet. Holz. Schwarzer R. Abbildung Tafel 17 115x87 cm.
+- 472 KREIS DES BERNHARD STRIEGEL um 1500). Die heilige Sippe. Von links nad rechts auf einer Bank Maria und Anna mit dem Jesuskind, beiderseits weiter zwei Frauen mit ihren Kindern. Dahinter als Halbfiguren die adht mannlihen Mit= glieder der Sippe. Auf Goldgrund. Holz. G.-R. 45x128 cm. Abbildung Tafel 15
+- 473 WILLIAM ETTy zugeschr.Die Quellnymphe. Ein weiblicer Akt kniet auf
+- einem roten Samtkissen, in der erhobenen Rechten einen BlutenstrauB haltend. Malp. G.-R.53x42cm.
+- 474 KREIS DES BOTTICELLI.Die thronende Maria halt auf dem ShoB das
+- Christuskind, am Fube des Throns Johannes als Knabe. Holz. Schwarzer R. 20×16cm.
+- 475 SPANISCHER MEISTER 17. Jhdt.Maria,das Christuskind auf dem Arm
+- haltend.Lwd. Alter holzgeschnitzter G.=R.32x26 cm.
+- 476 UMBRISCHE SCHULE 15. Jhdt.Maria mit dem Kind. In einem Saulen=
+- gang steht die gekronte Maria, das Christusknablein vor sich auf einem Tish haltend. Auf letzterem eine mit Lilien gefullte Majolikavase und die Bibel. Holz. Alter G.=R. 44x29 cm. Abbildung Tafel 21
+- 477 KREIS DES ROGIER VAN DER WEyDEN. Maria, den Kopf Christi im Arm haltend. Auf Goldgrund mit der Unterschrift:Maria mater dei memento meic. Holz.Shwarzer R. 67x50 cm.
+- 478 DEUTSCHER MEISTER 18. Jhdt.Hufbild eines GroBkaufmanns, in der erhobenen Linken ein Schriftstuk haltend. Lwd. G.R. 70x55 cm.
+- 479 ANGELIKA KAUFMANN zugeschr. Frauenkopf mit wirrem Haar und zitronen=
+- gelbem Uiberwurf. Im Oval.Lwd.G.R. 36x28 cm.
+- 480 KREIS DES QuENTIN MASSyS. Pieta. Die in einer Felsengrotte mit er# hobenen Armen sitzende Maria halt auf ihrem Shob den Leichnam Christi. Holz. Schwarzer R.103x68 cm.
+- 481 GERAHMTE BUCHILLuSTRATION:Anbetung der Heiligen drei Konige. Shwarzer R.20x12 cm.
+- 482 GERAHMTE PERSISCHE LACKMALEREI:Konigliher Empfang. Ruckseitig Ranken.37x54cm.
+- 483 GERAHMTE PERSISCHE LACKMALEREI: Auf der einen Seite ein persisches
+- Konigspaar beim Tee, auf der andern Seite einen persischen Fursten im Garten zeigend.Shwarzer R.40x27 cm.
+- 484 GERAHMTE PERSISCHE MINIATUR auf Pergament: Eine Frau, in der er= hobenen Rechten eine Frucht haltend. Persischer R.
+- 485 NACHAHMER DES GAINSBOROUGH.Hufbild einer Dame mit weibem Chiffonhut.Lwd.G.=R.72x42 cm.
+- 486 NIEDERLANDISCHER MEISTER um 1700. Obststilleben. Auf einer Marmor=
+- platte Weintrauben, Pfirsiche, Melone und Haselnusse.Lwd. G-R. 52x42 cm.
+- 487-88 J. H.RAMBERG zugeschr.Reiterszenen aus den Turkenkriegen. (Gegenstuidke.&gt;
+- Lwd. Schwarzer R. 38x64 cm.
+- 490 SUDDEUTSCHER MEISTER um 1700. Maria mit dem Christuskind, neben ihr je ein Heiliger. Holz. G.R. 84x85 cm.
+- 491 PAOLO MORELLI Rom 1695-1780). Szene in einer Osteria. Im Vordergrund an einem Tisc ein Geiger, weiter rukwarts ein junger Burshe in Unterhaltung mit
+- einem Madhen.Lwd. Holzgeschnitzter vergoldeter R.115x90 cm.
+- 492 ART DES HOREMANNS. Bildhaueratelier.Lwd.S.R. 35x47 cm.
+- 49Za JAN BRUEGHEL(ART&gt;. Niederlandisces Shlahtefest.In Landschaft. Holz. S.R.30×43cm.
+- 493 SCHuLE DES TINTORETTO.Bildnis des Papstes Julius.Lwd. G.=R.
+- 150x113cm.
+- 494 ESAIAS BOURSSE. Interieur. Hausfrau beim Obstscalen.Holz. S.=R. 29×35cm.
+- 495 PALKO.Der heilige Nepomuk, von Putten umgeben.Lwd. AIter G.R. 105x73 cm.
+- 496 OLBILD AUF HOLZ: Landshaft mit Kuhen, von Hirt und Hund bewaht. Bez.C.Troyon 1851.G.-R.35x26 cm.
+- 497-498 ART DES BOURGUIGNON. Reiterschlahten Gegenstude. Lwd. S.R. 42x62cm.
+- 499 OTTO MARSAEUS VAN SCHRIEK GEN.SNUFFELAER. Insektenstill leben.Lwd.S.R.46x35cm.
+- 500 SCHABKuNSTBLATT von R. Houston nah Carriera:A venetian lady in mascarade."
+- 501 BLEISTIFTZEICHNUNG von E.Crofts:Kostumstudien.Zwei Blat,doppelseitig.&gt;
+- 502 FARBSTICH von I. R. Smith: What you will. Ce qui vous plaira.) Abbildung Tafel 12
+- 503 SCHABKUINSIBLATT nah Cotes, gestochen von Bartolozzi: Lady Catherine.
+- Beauclerk. Abbildung Tafel 13
+- 504 FEDERZEICHNuNG in der Art des Seb. Ricci, teilweise getont: Allegori. 40×22cm.
+- 505 TUSCHFEDERZEICHNUNG in der Art des M.Poussin:Bacdanal. 30,5x40 cm.
+- 506 S7uDIE in Tusch, Pinsel und Bleistift von A. Beardsley. 20x12,5 cm.
+- 507 KOLORIERTES SCHABKUNSTBLATT von W. Didkenson nah Peters:Lady Charlotte Bertie.
+- 508-509 ZWEI GERAHMTE AQUATINTA-SPORTBLA1TER von J.Harris
+- nah Alken, in Farben:The start und 》The coming in&amp;.
+- 510 SEPIA-PINSELZEICHNuNG von L. Shoneberger: Landschaf mit Staffage. Sign.u.dat.1795.25,5x38cm.
+- 511 KOHLEZEICHNUNG von Simon Vouet:Rudkenansicht eines sitzenden Mannes. Weib gehoht.26x24 cm.
+- 512 KONVOLUT:20 kolorierte Karikaturenkupfer von Th.Robbin. (Ca.1810.&gt; Quart.
+- 513 DESGL.:27 kolorierte Lithographien von Henry Monnier.(Ca.1835.》 Quer=Quart.
+- 514 DESGL.:8 kolorierte Lithographien von Gavarni und 5 desgl. von Cham.
+- 515 DESGL.:35 kolorierte Lithographien von Geniel Goudiet u.a.
+## ZWEITER VERSTEIGERUNGSTAG:
+
+## MITTWOCH,DEN30.JANUAR1929,AB 10UHR
+
+G.
+
+## KERAMIK
+
+(Nr.516-668&gt;
+
+- 516 KONVOLuT: Zwei Porzellan-Ingwertopfe mit Dedel und Blaudekor und zwei Rheinsberger Fayencekaheln mit manganviolettem Dekor.
+- 517-518 EIN PAAR CHINESISCHE PORZELLAN-INGWERTOPFE mit um=
+- laufendem blauen Landschaftsdekor.Sprung&gt;
+- 519 GROSSE JAPANISCHE MAJOLIKAVASE. Das Oberteil blau glasiert mit
+- Relief-Blumendekor.
+- 520 FAyENCETELLER. Turkisgrund. Im Spiegel die Darstellung eines Hauses.
+- 521 NORDDEUTSCHE FAyENCEKACHEL mit Blaudekor.,eine Tanzerin in einem Park darstellend.
+- 522 ERFURTER FAyENCE-WALZENKRuG.Auf der Wandung ein Chinese
+- mit Spiegel. Manganviolette Marke M.
+- 523-526 VIER FAyENCETELLER mit Blaudekor. Auf dem einen im Spiegel eine
+- Ente, die andern mit Blumendekor.(Einer repariert).
+- 527 KELLINGHUSENER FAyENCESCHuSSEL. Auf dem Rand Bluten auf
+- gelbem Grund, im Spiegel ein FeldblumenstrauB. Bestoben,
+- 528 ERFURTER FAyENCETELLER mit polydromem Dekor. Im Spiegel kreis=
+- rundes Medaillon. In diesem ein fliegender Vogel.
+- 529 MAJOLIKA-ALBARELLO mit blauem Grund und von verschiedenfarbigen Ranken durchzogen. Oberitalien um 1700.
+- 530 EIN DESGL.,kleiner, ahnlich.
+- Chinesen in Land= 531 BERLINER FAyENCE-DECKELVASE mit Blaudekor:
+- shaft. 37 cm hod.Dedel beschadigt.&gt;
+- 532 KLEINER FAyENCE-WALZENKRUG. Auf der Wandung eine Chinesin,
+- Obst anbietend. Manganviolette Marke M.
+- 533 EIN PAAR MAJOLIKA-BLuMENTOPFE. Blauer Grund von gelben Ranken durchzogen, in diesen je zwei Medaillons mit Manner und Frauenkopfen. Ober=
+- italien.35 cm hoh.
+- Wandung je ein Medaillon mit dem Doppeladler und einem springenden Reh. Ober=
+- italien 16.Jhdt.
+- 536 FAyENCE-TAuFBECKEN mit blaugrun und manganviolettem Blumendekor. Auf der Rukwand in einer Kartusce die Jahreszahl 1750,im Spiegel ein Pfau. Niederschlesisch 18. Jhdt. 28 cm hoh.
+- 537 FAyENCE-DECKELNAPF,zweigriffig, mit Blaudekor, Vogel in Blutenmuster
+- zeigend. Suddeutsh.Repariert.&gt;
+- 538 FAyENCE-BARBIERBECKEN. Auf dem Rand gruner Rankendekor, im Spiegel drei sternartige blaue Bluten. Kelinghusen.
+- 539 MAJOLIKA-WEIHWASSERBECKEN. Salzburg. 18. Jhdt.
+- 540 CHINA-PORZELLANSCHUSSEL mit Dekor im Stil der famille rose. Im Spiegel
+- eine grobe Nelke.
+- 541 MAJOLIKA-ALBARELLO mit blauem Rankenmuster. Auf der Vorderseite eine blaue Kartusche auf gelbem Grund. Oberitalien 18. Jhdt. 18 cm hod.
+- 542 EINE DESGL. Auf der Vorderwand ein ovales Portratmedaillon. Oberitalien 18.Jhdt. 25 cm hoh.
+- 543 EINE DESGL.mit Streifenmuster. Oberitalien 18.Jhdt. 32 cm hod.
+- 544 MAJOLIKAVASE,didkbauhig. Auf der Wandung stilisiertes Kriegstrophaenmuster und ovales Portratmedaillon. In vorherrschend blauen und gelben Tonen. Ober= italien um 1700.27 cm hod.
+- 545 GROSSER MAJOLIKA-HENKELKRUG,blaugrundig,mit blauem Rankenmuster. Auf der Vorderseite plastish geflugelter Puto mit Lowe in Bandwerkumrahmung. Auf dem Henkel ein plastischer geflugelter Puto. 38 cm hod.(Repariert.)
+- 546 MAJOLIKAFONTANE in Form einer Brake. Naturalistish bemalt. Ober# italien 18. Jhdt.(Beshadigt.&gt;
+- 547-548 EIN PAAR MAJOLIKA-DECKELVASEN,blaugrundig,mit gelbem, stilisiertem Trophaendekor und einem ovalen Medaillon. In diesem die Figur der Fortuna. Mit je zwei Shlangenhenkeln, die in Teufelsfratzen endigen. Italien um 1700.33 cm hoch.(Beschadigt.&gt;
+- 549 FAyENCE-TINTENFASS in Form einer Miniatur -Frisiertoilette mit zwei bededkelten Einsatzen. Polyhromer Blumendekor. Rouen. 17 cm hoch.
+- 550-551 EIN PAAR FAyENCEFIGUREN in Form von auf naturalistish bemaltem Sokel liegenden Lowen.
+- 552 MAJOLIKATELLER,blau=gelb=grun lustriert.Im Spiegel Adam und Eva im
+- Paradies darstellend. Italien 17. Jhdt.Durchm.25 cm.Sprung.&gt;
+- 553 EIN DESGL., vielfac lustriert, auf kurzem RingfuB. Im Spiegel den Kampf des
+- Herkules mit den Zentauren zeigend. Auf der Rudkseite Ranken, Inschrift und Meistermarke:Erhule Conhice tauri fa batalia Guwwio 1536. Durhm.27 cm. Abbildung Tafel 25
+- 554 MAJOLIKASCHALE auf kurzem FuB, in blauen, gelben und roten Tonen, eine Reitershladt bei Sonnenaufgang zeigend. Durchm. 27 cm.
+- 555 EINE DESGL. Im Spiegel die Darstellung einer Shlangenbeschworung. Durdm.
+- 27cm.
+- shaft liegenden Knaben.Durchm.9 cm.
+- 557 MAJOLIKA=ALBARELLO,einhenkelig,mit blauem Rankendekor auf kleisterblauem Grund. Oberitalien 18. Jhdt.22 cm hoh.
+- 558 MAJOLIKASCHuSSEL. Im Spiegel die Darstellung des Marchens Die ver#
+- zauberte Konigstohter.Marke Venedig.Durchm. 38 cm. &lt;Sprung.&gt;
+- 559 MAJOLIKATELLER auf FuB. In Streifen Raphaelsche Grotesken. Im Spiegel
+- Amor als Puto zeigend. Durchm. 27 cm.
+- 560 MAJOLIKA-PILGERFLASCHE auf Untersatz mit Grotesken-Dekor. Oberitalien.
+- 561 KLEINER MAJOLIKATELLER mit Liliendekor und vertieftem Umbo. In diesem
+- der Kopf eines Kriegers. Durchm.15 cm. Beschadigt.&gt;
+- 562 KONVOLUT:Drei Majolikavasen, eine zweihenkelig, eine mit kleeblatformigem
+- AusguB, eine flashenformig, mit blatformigem Ausgu.
+- 563 MEISSNER PORZELLANFIGUR:Die Gitarrespielerin.18. Jhdt. 16 cm hoh.
+- 564 PORZELLANFIGUR: Mars auf Porzellansodel. 16 cm hoh. Beschadigt.&gt;
+- 565 MAJOLIKA-HENKELKANNE,langsgeriefelt. Auf der Wandung umlaufend Jagddarstellung. Oberitalien.17 cm hoch.
+- 566 GROSSE MAJOLIKA-WASCHKUMME mit mehrfarbigem Dekor.Im Spiegel:
+- Judith bringt den AItesten das Haupt des Holofernes. Durchm. 50 cm.
+- 567 CHINAPORZELLANSCHUSSEL mit Blaudekor. Im Spiegel den Empfang
+- eines Mandarins zeigend. Durdhm.37 cm.
+- 568 CHINATERRAKOTTAGRUPPE,glasiert.Mandarin,begleitet von einer Dienerin,
+- die den Sonnenschirm uber dem Haupte ihres Herrn tragt. 90 cm hod.
+- 569-570 EIN PAAR MAJOLIKA-ALBARELLI mit gelbem Rankendekor auf grunem
+- Grund. Je einhenkelig. Oberitalien. 17 cm hoc.
+- 571-572 EIN PAAR FAyENCEFIGUREN:Putten. Hollitsh? 19 cm hod.
+- (Repariert.)
+- 573 OVALE MAJOLIKASCHuSSEL mit Groteskendekor. Im Spiegel ein kreis=
+- rundes Medaillon, in diesem ein geflugelter Putto in Landschaff. Oberitalien, 43 cm lang.(Repariert.)
+- 574 GROSSE MAJOLIKASCHuSSEL mit Blaudekor. In vertiefem Umbo ein stili= sierter Hirsh. Auf dem Rand Vogel auf Bluitenzweigen und vier turmartige
+- Gebaude.Oberitalien 18.Jhdt.Durchm.50 cm.
+- 575-576 EIN PAAR MEISSNER DECKELVASEN mit Shneeballdekor. In diesem Papageien in naturlichen Farben. Als Dedkelknauf je ein Kanarienvogel. Shwerter= marke.50 cm hom.
+- 577-578 EIN PAAR ENGLISCHE PORZELLAN-DECKELVASEN,je sehs= edig, mit hinesierendem Dekor. Als Dedelknauf je ein sitzender Fohhund.
+- 55cm hoh.
+- 579 CHINAPORZELLANVASE,didkbaucig,mit Funffarbendekor,Stilleben zeigend. Auf Holzuntersatz,mit Holzdedel.40 cm hod
+- 580 MEISSNER APOSTELFIGUR, stehend auf hohem Barodksodkel. Weib glasiert.
+- Kandler=Modell.47 cm hoh.Reparaturen, ein Arm fehit.&gt;
+- 581 STEINZEUGVASE, rot. Bauchige Form mit shlankem Hals. Silberner Band=
+- und Blattdekor auf schwarzer Glasur. Plaue a. d, Havel. 24 cm hoch
+- 582 STEINGUT-SALZSTREUER, ahtedkig. Mit ziselierter Goldbronzemontierung
+- und Henkel. Bottger.Um 1715.10,5 cm hod.
+- 583 GROSSE BAUCHIGE MAJOLIKAVASE AUF FUSS mit starken Doppel= shlangenhenkeln, die von Lowenmasken ausgehen.
+- Umlaufend bemalt in Blau, Grun,Gelb und Oker die Darstellung des Empfangs eines antiken Siegers vor grober Palastarchitektur. Im Boden die Marke des Francesco Xaver Doelli. Faenza um 1600.60 cm hod.Ein Henkel repariert.&gt; Befand sich fruher in der Sammlung von A.v. Bedkerath,Berlin, Abbildung Tafel 25
+- 584 BERLINER PORZELLAN-SPEISESERVICE,weiB,mit Osierrand,87teilig.
+- 585 MEISSENER DECKELKRUG mit Heroldmalerei:Indianishe Blumen, auf der Vorderwand ein eisenrotes Wappenshild. Silbervergoldete Montierung.
+- 586 LIMBACHER PORZELLANGRUPPE: Chronos. Zu FuBen eines Rokoko-UIhr= standers, auf dem ein Hahn sitzt, und einer von einer Vase bekronten Saule, an der ein Knabe spielt, liegt der Gott Chronos, sich mit der Rehten auf einen stein= artigen Unterbau stutzend. Flaterndes Lendentuh min eisenroter Blumenmalerei.
+- Eisenrote Marke B/L 25 cm hoh.
+- 587 LIMBACHER PORZELLANGRUPPE:Der Gott Merkur, in den Wolken schwebend, zu FuBen zwei spielende Putten. Auf dem Sockel ein Globus. Kupfer= roter, hellgelb abgesetzter Uuberwurf. Blaumarke. Z1 cm hod.Repariert.&gt;
+- 588 EINE DESGL. Kloster Veilsdorf: Venus, Amor als Putto liebkosend. Violetter,
+- braun abgesetzter Uberwurf. 29 cm hod. Sockel repariert.&gt;
+- 589 LIMBACHER PORZELLANGRUPPE: Amor als Jungling, auf dem ShoB den Bogen, in der Rechten die Lyra haltend. Auf eisenrot bemalten Wolkengebilden sitzend. (Gegenstuidk zu voriger Nummer.&gt; 29 cm hoh.
+- 590 GROSSE FAYENCEVASE, didkbauhig, mit blauem, sih wiederholendem hinesierendem Landshaftsdekor, Pagoden zeigend. 44 cm hoh.Repariert.)
+- 591 ERFURTER FAyENCE-WALZENKRUG mit leberartig gespritztem Grund. Auf diesem eine blaugelbe Kartusche, in dieser ein Storh am Weiher. Alte Zinn=
+- montierung.
+- 592 DESGL. Auf der Wandung ein Jager mit Hund zwishen zwei Palmstauden. Aite
+- Zinnmontierung.
+- 593 MINDENER FAyENCEKRUG,eine Festung in manganvioletten Farben zwishen
+- zwei Palmen zeigend. Zinnmontierung. Manganviolete Marke M.
+- 594 DELFTER SCHUSSEL mit polychromem Blutendekor. Durchm.30 cm. Repariert.)
+- 595 DOROTHEENTALER FAyENCE-WALZENKRUG mit polyhromem Dekor. In drei von gitterartigen Ornamenten unterbrohenen Feldern zweimal eine Tanne, im mittleren eine hinesische FluBlandschaf, von drei Dschunken zeigend. Zinnmontierung.
+- 596 BRAUNSCHWEIGER FAyENCE-DECKELVASE mit manganviolettem Dekor. Auf der nah oben weit ausladenden Wandung eine Hirshjagd, auf dem Rand des flachen Fubes wie auf dem des Deckels umlaufender Laubwerkdekor.Als Deckel= knauf ein Tannenzapfen in gruner Bemalung. 46 cm hoh. Sprunge.&gt;
+- 596a/b ZWEI OVALE PLATTEN mit bunter Blumenmalerei und Shmetterling in Muffelfarben. StraBburg Mite 18. Jhdt. L. 41,5 cm. Eine Platte mit Glasurrib.
+- 596c APOTHEKERFLASCHE Kugelbauch und enger Hals, vorne blau bemalt. Kar=
+- tushe und zwei Pfauen. Hanau 2. Halfte 17. Jhdt. H. 25 cm.
+- 596d ACHTECKIGE FLASCHE Blaumalerei:Chinesen, Felsen und Baume.2 Zinn= schrankverschluB. Hanau um 1700. H.21,5 cm.
+- 596e/f ZWEI BIRNKRuGE mit turkisfarbener Glasur, gemalt in Mangan, gelb und blau, je eine Figur zwischen Palmen, Zierdedkel Marke O.FF.Offenbad 2. Halfte 18.Jhdt.H.20cm.
+- 597-599 VASENSATZ,dreiteilig, bestehend aus einer Dedkelvase mit eingezogenem FuB und zwei Fleuten= oder Stangenvasen. Blaumalerei. Uberglasur. Hugelland= shaft mit schlobartiger Anlage auf dem Vasenbauch; ahnliches Motiv zieht sih um den Fub.Die beiden reicd bemalten Teile trennt eine mit Bandstreifen verzierte Zone. Das Ornament am oberen Ende des Vasenbauhes von Delft ubernommen. Ebenso die wandernden Bauern; auf dem Dedel und dessen Knauf ahnlihe Dar= stellung. Bezeichnet H. W. Kassel um 1740. Ahnliche Exemplare nur im Kasseler Landesmuseum. Dedkelvase 47 cm hoh. Stangenvase 40 cm hod. Deren Rander ausgebessert.
+- 600 TELLER mit Blaumalerei. Kurfurstlich sachsisces Wappen mit der Jahreszahl 1782.
+- Bez.V.Erfurt.Durchm.Z3 cm.(Gekittet.&gt;
+- 601 DECKELDOSE,oval, vielpassig geschweift, mit BlaumalereiBehangmuster in der Art von Rouen. Bez.mit Blaumarke 5 Rad und e. Erfurt,1.Drittel 18. Jhdt. 10 cm hoch. Die beiden Volutenhenkel repariert.&gt;
+- 602 WALZENKRUG, mangan gespritzt, bemalt in Blau. Zwei raucende Chinesen am Tisd. Am Rande Borte mit stilisierten Blumen in Blau und Grun. Braun= schweig um 1725. Periode Hantelmannv. Horn. Ahnlices Exemplar in der Sammlung Riesebieter in Oldenburg sowie im Stadtischen Museum in Braunshweig. 24 cm hoh.Zinndedkel. Tafel27
+- 603 KLEINER WALZENKRUG, bemalt in Blau, Mangan, Gelb. Zwei Chinesen in Ahnliches Exemplar in der Sammlung Riesebieter und in der Sammlung Zimmermann= Berlin.18 cm hoh.
+- 604 WALZENKRUG, bemalt in den vier Sharffeuerfarben. Pferd zwishen Baumen.
+- Unbez. Mitteldeutsch, Kassel um 1725. Periode Johann Christoph Giltze, von Braunschweig beeinfluBt. ZZ cm hoch.Zinndeckel.
+- 605 DESGL., Mangan gespritzt, ausgespart, mit Blaumalerei Barodkkartushe mit schreitendem Ostasiaten in Pagodenlandscaff. Unbez. Braunschweig um 1730. Periode Hantelmann-v.Horn.26 cm hoc.Zinndedkel. Tafel 27
+- 606 DESGL., bemalt in Blau und Mangan.Ausgespartes Feld mit springendem Pferd. Hannoversc=Munden um 1780. Unbez. Im Versteigerungskatalog Helbing, Munchen vom 27.Marz 1928, Nr. 160, irrtumlid als norddeutsh katalogisiert. Ahnliche Mundener Stuide im Museum zu Hann.=Muinden und in der Sammlung Riesebieter (abgeb. Riesebieter, Fayencen, Abb. 237).21 cm hoh. (Hals und Dedkel repariert.&gt;
+- 607 BLuMENVASE mit eingezogenem Fuf und Hals, bemalt in Sharffeuerfarben mit Blumenstraub und Streublumen. Manganmarke, drei Halbmonde u. B. HannoverschMunden um 1760.18 cm hoch. Dedkel fehit,Hals repariert.&gt;
+- 608 RuNDER KORB mit zwei grunen Astwerkhenkeln und durchbrohenem Gitter= einsatz mit blauen Blumchen. Wandung bemalt mit Blumengirlanden in Sharffeuer= farben.Marken 3 C.Hannoversc-Munden um 1775. Durchm.20 cm.
+- 609 WALZENKRUG, bemalt in Grun,Mangan, Blau. Wanderer in Arhitekturland shaft. Bez. auf dem Boden D.Zerbst um 1730.Stil des Fayencemalers Chri= stian Langendorf R.Smidt, Festshrift, Frankfurt 1927,Olga Bloh,Die Kasseler Fayencemanufaktur,Frankfurter Dissertation,1928,S.27. Der Deckel spater gra= viert ACH 1773. 24,5 cm hoch. Zinndedkel mit thuringischem Beschlag. Tafel27
+- 610 BAuCHIGE VASE, bemalt in Blau. Exotische Vogel und Blumenzweige. Am Hals Spiralborte. Unbez. Zerbst, nach Berliner Vorbild. 1. Halfte 18. Jhdt. 19 cm hoc.Repariert.)
+- 611FLASCHENVASE. Gerippt eingezogener FuB und Hals mit balusterartigem Knauf. Bemalt in Blau. Stilisierte Pflanzen und das in Mitteldeutschland um diese Zeit beliebte Vierpunktmuster.Vgl.Braunschweiger Dedkelvase im Stadt. Museum in Braunschweig usw.&gt; Zerbst, nach einem Berliner Vorbild. Um 1740. 37 cm hoh. Tafel 26
+- 612 HELMKANNE MIT OVALER PLATTE. Blaumalerei. Stehender Lowe,eine
+- barocke Wappenkartusce mit Vogel haltend. Rander mit Borte von ineinander# greifenden Dreiecken, ein an sich norddeutshes Motiv Stralsund und Vegesad). Der Henkel der Kanne mit Spiralborte. Die Henkel der Platte in Bugelform mit Spitz= blatfries. Zerbst? 1. Halfte 18. Jhdt. Kanne 19,5 cm hod. Platte 48 cm lang.
+- 613 SITZENDER PUTTO. Auf quadratisher Plinthe sitzt ein nadkter Putto, mit beiden Handen Blumen und Fruhte an sih druckend. Bemalung in Sharffeuerfarben. Manganmarke 3 Halbmonde. Hannoversh-Munden um 1780.14 cm hod.Tafel 26
+- 614 TELLER mit Blaumalerei. Im Fond grasende Kuh,am Rand Bogenornament und stilisierte Blumen. Blaumarke. Hanau um 1710. Durchm.Z2 cm.
+- 615 TELLER.Blaumalerei mit der fur fruhe Hanauer Stucke typischen Mangan= konturierung, sogenannter Historyteller mit der Darstellung des barmherzigen Samariters. Hanau um 1700. Ahnlihes Exemplar im Hessishen Landesmuseum in Kassel. Durchm.21,5 cm. Tafel26
+- 616 RuNDE SCHUSSEL mit Blaumalerei. Im Fond ein berittener und ein stehender Chinese in streng stilisierter Landschaft. Am Rand Einteilung in adt Felder: ab= wehselnd Chinese in Landshaft mit stilisierten Blumen. Keine Uberglasur. Hanau um 1720.Durchm.32 cm.(Gekittet.&gt;
+- 617 ENGHALSKRUG,bemalt in Blau. Zwei Chinesen in streng stilisierter Land= schaft. Hanau um 1730.Z4 cm hod. Zinndekel.
+- 618 KLEINER MILCHTOPF,in Mangan bemalt. Undeut=
+- Arhitekturlandshaf. lihe Marke. Nurnberg um 1750.11 cm hod.
+- 619 KLEINER MILCHTOPF,in Blau bemalt. Stilisiertes Blumenbuket. &lt;Vgl.》Das
+- Blumenbuket auf einem Nurnberger Enghalskrug&amp; der Sammlung Gutmann in Gieben;abgeb. Zeh, Hanauer Fayence, Abb. 62. Blaumarke D.Nurnberg um 1750.10cm.hoh.
+- 620 ENGHALSKRUG, bemalt in Blau und Mangan. Mit Vogel auf Erdsholle, um= geben von Blumen. An den Seiten je zwei geshwammelte Baume. Blaumarke BFS. Bayreuth, Fabrik Frankel und Shredk, um 1750. Vgl. Heiland, Katalog der ABC=Ausstellung Ansbad 1928,Nr. 770). 25 cm hoch. (Platte in Privatbesitz.&gt; Tafel 26
+- 621 KLEINER WALZENKRUG, fur Suddeutschland seltene Form. Bemalt in Blau und Mangan mit Blume zwischen geshwammeltenk Baumen. Henkel mit abge= setzten Querstrichen. Bez.K.(undeutlid ! Bayreuth um 1750. 21 cm hoh. Zinndedkel.
+- 622 RuNDE SCHuSSEL. Blaumalerei auf heller Glasur. Fruchtshale mit Vogeln, umgeben yon radial angeordneten stilisierten Blumen auf Fliederblattcen. Bez.in Blau BFS Bayreuth,Fabrik Frankel und Shredk,um 1750.Durhm.20 cm. T
+- 623 RUNDE SCHuSSEL, Bemalung ahnlich wie oben. Marke Frankel und Schredk, um 1750. Durchm.16 cm.
+- 624 WALZENKRUG, Unbez.
+- turkisblaue Glasur,unbemalt. Zinnmontierung. Bayreuth um 1730. 29 cm hoch.
+- 625 BIRNENFORMIGER KRUG, bemalt in Sharffeuerfarben. Fruhtstuk zwishen geschwammelten Baumen. Unbez. Zinnmontierung. Bayreuth, 2. Halfte 18. Jhdt. 27 cm hod.
+- 626 WALZENKRUG, Fond blau gespritzt. Auf der Shauseite: Vielpabbild mit
+- Bauernpaar in Landshaft.S Sharffeuerfarbenmalerei. Oben grune Randborte. Hanau um 1725. 20 cm hod. Zinndedkel.
+- 627 WALZENKRUG, horizontal gerillt.Turkisblaue Glasur.
+- 628 WALZENKRUG,bemalt in Sharffeuerfarben. Zwei Bauerinnen, Shafe, Ohsen, Baume. Rot ausgefullte Ritzmarke B. Zinnmontierung.
+- Bemalt in Blau, Mangan, Gelb. Ostasiaten auf einer Balustrade, Baume, Vogel, Shmetterlinge. Zinnmontierung. Hanau um 1720. 20,5 cm hoh. Repariert.)
+- Crailsheim um 1740. 23 cm hoh.
+- 629 OVALES KORBCHEN mit zwei Henkeln, in zwei Reserven, bemalt mit kleinen Landschaften, am Rand Blumengirlande. Manganmarke H. Durladh,2. Halfte
+- 630 KOPPCHEN MIT SCHALE, bemalt in Sharffeuerfarben mit Bogenornament und Spruh. Unbez. Shrezheim, 2. Halfte 18. Jhdt. 5 cm hoh.
+18. Jhdt. 19 cm lang.
+- 631 KLEINE TIERGRuPPE. Auf Baumstumpf sitzt ein Eihhornchen, am Boden liegt ein Hund. Bemalt in Sharffeuerfarben. Unbez. Shrezheim? 2. Halfte 18. Jhdt.11 cm hoh.
+- 632 BLUMENGEFASS, vierseitig gesdweift, mit durchbrohenem Dedkel. Bemalt in Muffelfarben mit Blumenstrauben. Die reliefierten Rokaillen an den Randern purpurrot gehoht. Blaumarke. Strabburg, Joseph Adam Hannong （1760-1780). 11,5 cm hodh.
+- 633-634 EIN PAAR FIGUREN. Stehender Jager in brauner Mutze, grunem Rodk in shwarzer Mutze, roter Jacke und weibem Rodk,einen Jagdhund fuhrend. Sodel wie oben. Beide Stuicke mit Blaumarke P.H. Strabburg um 1750. 20,5 cm hoch.
+- 635 RUNDE SCHuSSEL MIT DAZUGEHORIGER KANNE. Bunt bemalt mit Blumen und Wappen. Bez. P. H. StraBburg um 1750. Kanne 15 cm hoch.
+- Shussel=Durhm.12 cm.
+- 636 DECKELVASE,ahtseitig, stark profiliert,mit Funffarbenmalerei Auf dem Vasen= bauh Pfau auf Erdscholle und Vogel zwischen hinesiscen Blumenstauden.Fuf und Deckel entsprehend. Unbez. Berlin, Fabrik Cornelius Funke, um 1710. Ahnliches
+- 637 DESGL.Form und Dekor wie oben. Unbez.Berlin, Fabrik Cornelius Fundke, um 1710. Ahnlide Studke im Kunstgewerbemuseum Dresden (v. Falke, Abb. 7b&gt; und in der Sammlung Riesebieter (Riesebieter, Fayencen, Abb. 20Z&gt;.
+- Exemplar in der Sammlung Heiland (v.Falke,Abb. 7a). 37 cm hod. Tafel 26
+- 32 cm hoh.
+- 639 GROSSE FLASCHENVASE. Geriefelt, stark eingezogener FuB und Hals. Blaumalerei auf hellblauer Glasur. Auf der Leibung ringsumlaufend mehrfigurige Chinesenszenen in stilisierter Landshaft. Auf FuB und Hals Spiralborte und stilisierte Blumen in mehreren Streifen angeordnet. Ahnlihes Exemplar in der Sammlung Heiland 《v.Falke, 11a). Berlin, Fabrik Wolbeer, um 1710. 45 cm hoh. Stuk am Hals gekittet.&gt; Tafel 26
+- 638 HOHE DECKELVASE. Actseitiger profilierter FuB,entsprehender Korper mit mit mehrfigurigen Chinesenszenen. Teetrinkende Ostasiaten unter Baumen auf einer Veranda. Fub und Dedkel mit stilisierten Bluten in verschiedener Anordnung. Auberdem die fur die Wollbeerfayencen typischen Bander aus dihten Spiralranken an Hals und FuB. Unten Spitzblattfries. Berlin, Fabrik Wolbeer,um 1710. 47 cm hoch. Tafel 26
+- Exotishe Vogel auf Erdshollen zwishen ostasiatisdhen Blumenstucken. In der Luff Vogel und Shmetterling. Auf dem FuB und dem Randwulst Sonnenrosenborte mit
+- Spiralranken. Berlin,Fabrik Wolbeer, um 1720. 24 cm hod. (Gekittet.&gt;
+- 641 WALENKRUG,Mangan gespritzt,bemalt in Blau.Adler mit Initialen FWR, in einer Kralle den Reichsapfel. Unbez. Berlin, Fabrik C. Fundke. Um 1730. Ahnlihes Exemplar in der Sammiung Frau M. Oppenheim, Berlin (v. Falke, 49b).
+- 24 cm hoch. Tafel27
+- 642 WALZENKRUG. Fond blau gespritzt, bemalt in Mangan und Gelb mit gekrontem Adler. Mit Monogramm F R.Berlin, Fabrik Funde. Ahnlihes Studk im Hohen= zollernmuseum in Berlin.Um 1730. 21 cm hoh. Tafel 27
+- 643 WALZENKRUG, bemalt in den vier Sharffeuerfarben.Architekturlandschaft zwischen geshwammelten Baumen auf Hugelgelande.Unbez. Berlin, Fabrik C.Funcke.Um 1730.27 cm hoch.
+- 644 WALZENKRUG. Gelber Fond, bemalt in Grun, Mangan und Bolusrot, mit
+- Nelken und fliegenden Vogeln, oben Borte. Rand durh je eine grune und eisen= rote Bandlinie abgesetzt. Berlin,Fabrik C.Fundke. Um 1730. Ahnliches Studk in der Sammlung Riesebieter (abgeb. Riesebieter,Fayencen, Abb. 217&gt;. Zinnmontierung. 24 cm hod.(Repariert.) Tafel27
+- 645 WALZENKRUG,bemalt in Sharffeuerfarben. Manganmarke. Springendes Pferd zwishen 》geschwammelten《 Baumen. Lesum, 2.Halfe 18.Jhrdt.22 cm hoh. Zinndedkel.
+- 646 WALZENKRUIG. Mangan gespritzter Grund. Ahtpassige Reserve mit springendem Pferd in Scharffeuerfarben. Bez.B
+- Lesum, 2.Halfte 18.Jhrdt. 20 cm hoch. Gravierter Zinndedel mit Reiter.
+- Ovalfeld mit Architekturlandschaft, Lesum,
+- 647 WALZENKRUG,bemalt in Sharffeuerfarben. umrahmt von Blumenzweigen, oben und unten Behangmuster. Bez. V 2.Halfte 18. Jhdt. 22 cm hoch. Gravierter Zinndedkel:1878.
+- 648 VASE, griefelt,mit Blaumalerei na Delfter Vorbild. Chinesishe Blumen, Pfau. Der Wulst des eingeshnurten FuBes mit gestrideltem Grund. Unbez. Potsdam, von Rewend, um 1740. Vgl. die mit 1740 bez. geriefelte Vase gleicer Art im Berliner Shlobmuseum.) 45,5 cm hoc. Dedel niht erhalten.
+- 649-650 EIN PAAR TELLER mit durchbrochenem Rand. Im Fond in Blaumalerei Blumenmonogramm P.V. Bez. in Blau R. Rheinsberg, 2. Halfte 18. Jhdt. Durchm.23 cm.
+- 651 OVALE SCHuSSEL mit gedrehten Riefelungen. Bemalt in Mangan mit Streu=
+- blumen. Bez.R. Sdleswig um 1780. 41x32 cm. Ahnlih dekorierter Korb im Oldenburger Kunstgewerbemuseum.
+- 652 VAsE,bauchig, mit aufgelegten Blumenzweigen,bemalt in Mangan von vershiedener Tonung und in Grun. Darunter gemalte Insekten. Manganmarke Pfeilspitze und E.
+- Stralsund um 1770. 25 cm hoch.(Hals defekt.&gt;
+- 653 DECKELDOSE in Form eines liegenden Hundes auf ovalem Sodel Mopshund). Shnauze, Halsband und Shwanz in Mangan bemalt. Manganmarke. Criseby=
+- Edernforde um 1760. 15,5 cm lang.
+- 654 SCHREITENDER LOWE. Mahne, Fufe und Sweif in Unterglasurblau,Augen und Zunge rot bemalt. Shweif und Tatzen repariert. Criseby-Edernforde um 1760. Gehorte wohl als Griff zu einem Zierstudk vgl. Terrine mit Lowengriff im Kieler Thaulow-Museum).18x21 cm.
+- 655 KLEINE GARTNERIN. Stehendes Madhen mit Apfelkorb. Geblumte Kleidung in hellen Farben. Ritzmarke. Damm um 1840. Nad Hocster Melhiormodell. 15cmhoch.
+- 656-657 EIN PAAR FIGUREN. Zecender Bettelmusikant.Singende Frau mit Noten= blatt.Geblumte Kleider auf hellem Grund. Grassodkel. Musikant mit Blaumarke D.
+- mit Rad. Damm um 1840. 20 cm hod.Frauenfigur repariert.&gt;
+- 658 MINIATuRFIGUR.Washermadden, ein Scaf auf dem Kopf tragend. Geblumte Kleidung. Blaues Rad mit D.Damm um 1840. 85 cm hoch.
+- 659 TELLER in Blaumalerei. Architekturlandshaft. In der Art der Fliesenkeramik
+- bemalt. Delft um 1730.Durdm.22 cm.
+- 660 VASE IN KuBISFORM, bemalt in drei Sharffeuerfarben und Rot in kalter Bemalung: Nelken, fliegende Vogel und Insekten. Delft Anfang 18. Jhdt. 25 cm hoch.(Hals repariert.&gt;
+- 661 RUNDE PLATTE, bemalt in Blau, Gelb und Bolusrot mit Pagode, Chinesen=
+- figuren und Pflanzen. Delf um 1700. Durcm.30 cm. Repariert.&gt;
+- 662 KLEINE FIGUR. Musikant mit Geige. Bemalt in vielen Farben. Bez. PA/H. Delft ? spat.18 cm hoh.
+- 663 DECKELDOSE in Form eines Rebhuhns,naturalistish bemalt, auf grunem Nest sitzend. Manganmarke G. Glienitz um 1770. Um die Mitte des Jahrhunderts beliebte Form fur Butterdosen.Vgi. Kasseler Studke im Hessishen Landesmuseum und in der Sammlung Heiland, Olga Bloh, Die Kasseler Fayencemanufaktur, Abb.93,S.61.&gt;9,5cmhoh. Tafel26
+- 664 DECKELDOSE in Form eines Huhns mit abnehmbarem Oberteil. Bemalt in Braun. Bez.P. Proskau um 1785.11 cm hoh.
+- 665 TINTENZEUG. Rukwand mit Medaillon, von zwei Putten gehalten. Reliefiert. Bunte Blumenmalerei in Muffelfarben. Mit Tintenfab und Streusandbuchse. Bez.
+- in Blau P. Proskau um 1780.7,5 cm hoh.
+- 666-668 DREI WANDTELLER,bemalt in Sharffeuerfarben mit groben Barodblumen im Fond. Die Fahne etwas varierend:a) Rand mit Blattgirlande. Durchm. Z8 cm. b&gt;Rand mit Blumenkranz.Durchm.30 cm.c) Rand mit Blattgirlande.Durhm.
+- 31 cm. Unbez.Kellinghusen um 1770.
+## TAFELN 1bis27

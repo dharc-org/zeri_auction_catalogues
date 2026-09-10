@@ -1,0 +1,93 @@
+<!-- image -->
+CASA EDITRICE D'ARTE BESTETTI E TUMMINELLI MILANO.ROMA
+## PER L'AMICO MELZI COLLEZIONISTA
+
+L'avvocato Gennaro Melzi, geniale e generoso amico mio, vorra perdonarmi queste poche righe di prefazione, che io ho accettato di scrivere per il Catalogo delle opere d'arte di sua proprieta, che figureranno in pubblica esposizione nelle sale
+
+Io non intendo qui, in nessun modo, assumere gli atteg- della Galleria Pesaro, per poi essere messe all'asta.
+
+giamenti di chi ha l'autorita per fare apprezzare la bellezza dei quadri o dei bronzi o comunque delle opere artistiche, che ciascun vero amatore desidera gustare da se.
+
+Io vorrei soltanto definire le caratteristiche umane della passione d'arte, per cui da ventisette anni il Melzi, che non ha rinunciato mai alle battaglie forensi, ha aggiunto ad esse, ogni giorno piu profonda e piu dominatrice,la passione del collezionista artistico.
+
+L'illustre collega, che e un insigne commercialista, fino ai suoi trenta anni non credeva certo, che egli sarebbe salito dalle ricerche intellettuali di una coltura generica allinnamoramento di ogni piu varia e squisita manifestazione estetica.
+
+Il primo quadro,che egli i acquisto, apparteneva ad una collezione venduta all'asta da certo Fassini, che egli, appunto ventisette anni or sono, non visito se non per caso. Doveva
+abboccarsi con un avvocato e arrivo allappuntamento quindici minuti prima dell'ora fissata. Gli dissero che al pianterreno della casa cerano in vendita e libri ed opere artistiche che appartenevano al Fassini: entro: lentamente senti una nuova suggestione e volle fare almeno un primo acquisto. Da quel giorno fu legato alla nuova esigenza dello spirito come da un fascino invincibile.
+
+Da prima g gli parve che bastasse visitare i Musei di Milano e le Biblioteche d'arte e leggere le Riviste, per cui non era necessario uscire da questa nostra citta, nella quale chi sappia veramente frugare ed osservare scopre molti tesori di bellezza piu che molta gente non supponga. Ma poi, a poco a poco, la sua curiosita artistica si fece piu metodica e piu insaziabile. Bisognava viaggiare, uscire e non dai soli confini di una citta : C'era il Prado da visitare, dove trionfa il Velasquez, c'era il Louvre, c'erano le Gallerie austriache e famminghe, che reclamavano qualche giorno di sosta e di indagine, cosi come quelle di Roma e di Firenze e il British Museum.
+
+compratore, non badava ne al tempo, ne allo spazio.
+
+E il visitatore, che si mutava spesso, quasi ogni giorno, in
+
+E questa una caratteristica del collezionista veramente collezionista, che compra non per rivendere, e che preferisce talora alla stessa gioia dell'aver comperato il fervore della caccia, con cui va alla ricerca dell'opera bella, di cui gli altri non conoscono ancora il valore,e che diventa cosi i per lui iuna specie di preda.
+
+Lo spazio? Il tempo? Lo stesso denaro disponibile per le ebbrezza
+
+Gennaro Melzi non ebbe presto piu pareti disponibili nella sua casa e nel suo studio di avvocato, ed anche quando in un palazzo di via Durini in diecine e diecine di grandi sale pote compere? Diventano elementi quasi trascurabili confrontati alla delle scoperte quotidiane e alla febbre dello accumulare le opere d'arte scoperte ed acquistate.
+allineare parecchie centinaia fra le migliaia e migliaia di oggetti artistici suoi, quanta altra bellissima roba non doveva essere affastellata in altri locali in modo da perderne quasi comple- tamente la visibilita!
+
+Ma egli intanto continuava ad acquistare. Per venticinque anni di seguito l'impulso collezionistico non gli diede tregua. Occorse che purtroppo in questi ultimi due anni egli cadesse ammalato, perche per qualche tempo antiquarii el botteghe d'arte, e gallerie eprivate non lo vedessero arrivare quotidianamente col suo bisogno insaziabile di scovare, di studiare, di comprare.
+
+Si consultava forse coi competenti? No. Diciamolo sottovoce: questo nostro amico non crede tutti i giorni alla competenza dei competenti, e qualche volta, quando e meno ottimista, si arrischia a dire che il valore di un quadro e il risultato di parecchie moltiplicazioni, poiche si ottiene moltiplicando la passione di chi vuol comperare per il denaro di cui dispone, piu le doti del quadro che e in vendita, piu l'abilita di chi vende, ma che l'elemento fondamentale e piu forte e la passione del compratore. Il che e, senza dubbio, un paradosso.
+
+Non consultazione, dunque, dei competenti, ma progressiva emulazione tra un collezionista e laltro e i suoi amici e i suoi parenti e i colleghi. E il Melzi rammenta tra gli altri appassionati raccoglitori quell'attento e sottile avvocato Giacinto Gallina, che in Milano si era costituita una galleria artistica di indubbio pregio, e che aveva saputo inventare un modo per possedere opere di tutti i moderni viventi attraverso persino a una collezione di cartoline, di cui ciascuna era stata illustrata da qualche artista del nostro tempo.
+
+Esistono in Milano raccolte artistiche private importanti? Senza dubbio. E basterebbe fare il nome della Galleria della Duchessa Melzi, della Galleria Cicogna e di quella dei Trivulzio.
+
+Talora in esse, e in altre milanesi e non milanesi, si possono
+ammirare creazioni che al collezionista tipo Melzi piaciono piu di quelle da cui sono resi famosi i piu celebri musei.
+
+Un bel giorno fece di lui, prima indifferente alla musica, il piu assiduo dei frequentatori dei concerti di musica classica :
+
+Ma torniamo alla collezione Melzi. Cominciata coll'acquisto di quel modesto quadro dell'asta Fassini, la passione collezionistica del Melzi si estese dai quadri alle stoffe, ai mobili, ai bibelots, alle stampe, agli intagli, ai ventagli, agli orologi e cosi via. Facendosi, oltre che piu intensa e piu varia, piu ricca di umanita, lo sottrasse alla prosa della vita, gli diede nellanimo un bisogno di armonie umane, impedi che la professione avvocatesca, che gli era molto cara, lo irrigidisse in una professionalita eccessiva.
+
+dall'armonia degli occhi a quella uditiva.
+
+amera sempre, pur da qualched una di esse separandosi, sia
+
+Se anche percio giunto ai cinquantasette anni e tornato, dopo la sua malattia all'esercizio forense quotidiano, il Melzi ha dovuto transigere da una specie di dogma morale della sua fede di vero collezionista, e accingersi a vendere qualche centinaio degli oggetti artistici che possiede, scelti fra i forse diecimila, che parte si trovano presso di lui, parte in una villa di Bellagio, mentre altri ne ha disseminati in magazzeni e nelle sale della Fiera Campionaria, in quel palazzo di via Amedei, dove aveva sognato, sotto gli auspici anche del Senatore Mangiagalli, potesse crearsi la sede collettiva delle associazioni milanesi, e dove per parecchi anni profuse la miglior parte della sua attivita, quale creatore e presidente del Primo Istituto di Arte e di Alta Coltura, se cioe ha violato la proibizione spirituale, per cui ha sempre creduto che il collezionista vero puo regalare qualche opera di sua proprieta,ma nessuna mai ne dovrebbe vendere, egli non si rammarica di aver dedicato per piu di sei lustri ogni suo guadagno di professionista, sia alle spese di acquisto delle cose belle, che ha amate tanto, e che
+in quelle iniziative culturali, di cui lo ha fatto innamorare anche la sua vita di collezionista
+
+Che importa, infatti, al Melzi, se il suo sogno dell'Istituto d'Arte e di Alta Cultura dovette essere spezzato da un amaro risveglio? Non tutto e andato perduto quello che egli aveva seminato e la Accademia libera, che ora e diretta da Vincenzo Cento, trasse pure le origini da quel tentativo ed ebbe ospitalita in via Amedei, quando il Circolo di Alta Coltura esisteva ancora.
+
+Cosi, se qualche non lieta esperienza il Melzi dovette fare, quando presso la Alta Coltura aperse quelle Mostre artistiche, di cui la prima dei Pittori Veneti ebbe diecimila visitatori, perchel l'ingresso era gratuito, ma basto mettere un biglietto d'ingresso da una lira per beneficenza, per far scendere i visitatori al fatidico numero di ottantasette,l'esempio dato in via Amedei con l'esporre al pubblico opere d'arte non ando perduto del tutto: almeno i pittori e gli scultori impararono, che nella ricca Milano e meglio non far pagare un soldo, se si vuole che i buongustai accorrano in folla. (Pagheranno anche venti lire di automobile per andare dove la Mostra e aperta; ma vogliono entrarvi con biglietto di invito, dice il Melzi).
+
+E fra le iniziative di carattere artistico e di utilita sociale, che il Melzi puo ricordare con qualche compiacenza, vi e quella Scuola del Marmo che, maestro il Wildt, insegno anche ad umili scalpellini come il marmo possa essere squisitamente lavorato. Ora quella scuola e ospitata a Brera dalla Corporazione delle Arti Plastiche.E non ando disperso il tentativo di dare un indirizzo artistico all'insegnamento professionale nel riformatorio Marchiondi, quando il Melzi se ne occupo nel 1923, poiche anche quelle officine rivelarono un istinto estetico dei giovani, che poteva essere utilmente coltivato e che sara tenuto in conto nel rinnovamento spirituale della vita italiana.
+
+Ma giunto a questo punto, piu che delle iniziative di carattere vario, alle quali lamico fu indotto del carattere uma-
+nistico assunto dalla sua coltura e per la interpretazione sempre tellettuale (in via Amedei il Melzi fu il primo che fece in Milano un apposito impianto per trasmissioni radiofoniche di concerti e conferenze) sento il bisogno di cercare di definire l'invincibile originalita dello spirito del Melzi di fronte ai tormenti della estetica moderna.
+
+Sembrerebbe che questo infaticabile collezionista, il quale non assistera all'asta delle sue opere, perche le aveva acquistate con una specie di illusione di poterle tener sempre seco (il collezionista vero non pensa neppure che deve morire; non teme ne gli incendii, ne le rivoluzioni; ma e un conservatore anche se e un democratico in politica) dovesse essere diventato anche un ipersensibile, rispettoso di ogni bellezza antica, ma desideroso di lanciarsi verso tutte le espressioni nuove dell'arte, fossero ieri quelle del futurismo, o siano oggi quelle del novecentismo.
+
+E invece no. Gennaro Melzi ha serbata intatta, di fronte alle opere pittoriche almeno, la sensibilita d dei primi tempi. Ripeto che in arte egli e un conservatore: forse persino un poco reazionario talora.
+
+Tra i quadri che egli possiede si ammirano piu di duecento ritratti di pittori fiamminghi, raccolta specialissima, che si dice derivi dal palazzo Trissino di Vicenza.
+
+che stia a paro per eccellenza all'opera dei ritrattisti antichi.
+
+Avendogli chiesto, se egli avrebbe accettato di porre in vendita anche quei ritratti, mi rispose che soltanto se fosse stato sicuro di una vendita in blocco se ne sarebbe separato, perche altrimenti la vendita avrebbe avuto il carattere di una barbara dispersione, e perche nulla gli pare nel campo della pittura,
+
+Anche i moderni — dice il Melzi -— cercano la verita dello spirito umano, quando rappresentano in ritratti la figura dei loro contemporanei, ma una grave insidia contro ogni loro profonda significazione psicologica e data dal sussidio della
+fotografia, che convince sovente i ritrattisti del nostro tempo piu all'aparenza della somiglianza, che alla scoperta intima dell'a nima degli uomini.
+
+Io non so, se queste sue affermazioni corrispondano ad una osservazione esatta della realta, ed ho gia detto che non intendo critico, ne delle opere elencate in qui di dettare un saggio catalogo, ne delle convinzioni artistiche del Melzi.
+
+L'osservazione che a mia volta io faccio non e di carattere estetico, ma di carattere psicologico.
+
+E psicologicamente indubitabile che un innamorato d'arte; un ricco collezionista (ricco nel senso della signorilita dell'animo e della rilevanza delle opere che egli possiede) al quale la esperienza di venticinque anni di studi suoi, di sue ricerche, di sue scoperte circa l'autenticita dei quadri e gli errori delle attribuzioni da parte dei competenti piu ad un autore che ad un altro, non hanno messo nel sangue la passione della modernita, rivela una indipendenza del carattere,una originalita ingenua e ribelle del gusto, che sarebbero interessantissime da analizzare.
+
+Nelle sale del Palazzo di via Durini dove Gennaro Melzi organizzo qualche volta persino caratteristiche danze, ma desidero di raro la visita di coloro, che guardano in fretta, e giudicano senza discrezione, egli 1 non rifuto mai il consiglio di chi poteva evitare qualche suo eccesso o qualche suo equivoco, ma rimase sempre una specie di misantropo f filantropo, di specialista non specializzato.
+
+Non sono giuochi di parole. E la complessita del tipo intel. lettuale, che cerco di definire, che mi costringe ad adoperare la pericolosissima arma dell'antitesi. C'e della antitesi spirituale, senza dubbio, tra l'ardore umanitario, con cui Gennaro Melzi ha sempre cercato di soccorrere a tutte le necessita del. l'umile gente, che gli fosse affdata per tutela, o che comunque ricorresse al suo aiuto, e la felicita gustata nell'appartarsi e nel vivere le sue piu liete ore solo avanti alle opere belle che
+parlano, ma senza parole. E c'e dell'antitesi in quella estrosa indipendenza estetica, per cui al Melzi,che pur conosce tutte le ragioni del fascino dell'arte, e parso che in Italia la bellezza pittorica cessasse dopo il Cremona o Mose Bianchi, o gli altri che si riallacciano all'arte pittorica di trent'anni or sono.
+
+Ora che molte fra le cose piu belle sue stanno per distaccarsi da lui e che in una Galleria, dove i trionfi della bellezza sono quotidiani, coloro che ne faranno gioia propria per un attimo o le acquisteranno, passeranno d dall'una all'altra espressione artistica con lattenzione indagatrice dei conoscitori di buon gusto, io sono sicuro che ciascuno di essi avra un pensiero gentile verso colui che tutto aveva raccolto con un amore sempre rinnovantesi, sotto il cui imperativo categorico ogni senso del denaro, del tempo e dello spazio veniva distrutto da una dolce febbre, da una specie di ebbrezza di conquista.
+
+Il Melzi,insomma, e un inattuale,un nostalgico,un solitario, e mentre il suo temperamento di giurista e di uomo lo fa accorto di ogni sottigliezza e desideroso di ogni scoperta, una specie di strana suggestione del passato mette luce di rimpianto piu che gioia di attualita nella sua insaziabilita artistica.
+
+INNOCENZO
+
+CAPPA.
+ILLUSTRAZIONI

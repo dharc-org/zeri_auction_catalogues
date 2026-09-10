@@ -1,0 +1,1694 @@
+## TABLE DES MATIERES.
+
+## MONNAIES OBSIDIONALES.
+
+CAMPAGNES DES ESPAGNOLS AUX PAYS-BAS.,TACHTIG-
+
+JARIGE OORLOG."
+
+(Fin du XVIe siecle et commencement du XVIle). MIDDELB0URG (1572-1574).No.1501 a 1521. HARLEM (1572-1574).No:1522 a 1562. ALKMAAR （1573).No.1563 a 1564. HOLLANDE ET ZELANDE (1573).No.1565 a 1612. LEYDE(1574-1574).No.1613 a 1628. OUDEWATER(1575).No.1629 a 1634. SCH00NHOVEN (1575).No.1635. WOERDEN (1575-1576).No.1636 a 1637. ZIERIKZEE (1575-1576).No.1638a 1654. GRONINGUE (1577).No.1655 a 1661. BREDA (1577). No.1662 a 1667. AMSTERDAM (1578).No.1668 a 1698. KAMPEN (1578).No.1699 a 1705. DEVENTER （1578).No.1706 a 1714. MAESTRICHT (1579).No.1715. ZALTB0MMEL oU B0MMEL （1599).No.1716 a 1728.
+
+BREDA (1625).No.1729-1737.
+
+## GUERRE AUX PAYS-BAS.1672-1673.
+
+(Invasion de Louis XIV et de lEveque de Munster).
+
+DEVENTER(1672).No.1738-1742.
+
+KAMPEN (1672).No.1743 a 1744.
+
+GRONINGUE(1672).No.1745 a 1771.
+
+AMSTERDAM (1672-1673).No.1772 a 1782.
+
+ENKHUYSEN (1673).No.1783 a 1784.
+MAESTRICHT (1794).No.1785. ANGLETERRE (1803-1804).No.1786 a 1787. COLBERG (1807).No.1789. SUEDE (XVIIle siecle). No.1790 a 1793.
+
+## MEDAILLES HISTORIQUES.MONNAIES HISTORIQUES.
+
+## PLAQUETTES MODERNES.No.1794a 1872.
+
+Collection de jetons.- Medailles des princes d'Orange,De Ruyter, M. Hz.et Corn.Tromp.—Medailles sur Amsterdam,Hulst, Gouda, sur les Indes Orientales,l'Amerique, etc. Belles pieces gravees et au repousse.- Etc.
+
+MEDAILLES DES CHEMINS DE FER. No. 1873.
+
+MEREAUX.PLAQUES DE GILDES,ETC.No.1874 a 1887. Plaque par Paulus van Vianen. Mereaux d'Amsterdam, de
+
+Middelbourg.——Insignes.——Plombs.—Cachets.——Balance.
+
+## MONNAIES.No.1888a 1914.
+
+Brabant.— Espagne. Etats-Unis d'Amerique.— France. 一 Erise.Gueldre. Hainaut.—Hollande.— Royaume de
+
+Hollande.—Indes orientales neerlandaises.—Kampen.—PaysBas.—Prusse.— etc.
+## MONNAIES OBSIDIONALES
+
+## CAMPAGNES DES ESPAGNOLS AUX PAYS-BAS. (TACHTIGJARIGE OORLOG)
+
+Fin du XVIe siecle et commencement du XVIle.
+
+## MIDDELBOURG
+
+(Avec sa garnison espagnole sous Mondragon assiegee par les Zelandais, 1572-1574)
+
+## Nos.1501a 1511
+
+1572.Velddaalders et demis velddaalders.Type:dans un cercle,linscription suivante:D(eo) R(egique) P(opulus) F(idelis) MIDD(elburgensis) et la date. Ce cercle est accoste de Pecusson de Zelande et de la ville de Middel bourg.—Maillet, pl.73;De Man; Catalogue-Stephanik,Nos.6934 a 6938. Pieces carrees, unifaces ; poids des velddaalders chacun 26 gr. environ,
+
+Voici les particularites de chaque piece:
+
+les demis 12 a 15grammes. Argent.
+
+- 1501 Velddaalder. Contremarque des ecussons de Zelande et de Hollande.Au
+- revers, cette INSCRIPTION GRAVEE A L'EPOQUE:
+
+,SY MOGHE(N) WEL SUCHTE(N) DIE ONS DOEN FLUICHTEN,
+
+A.
+
+ALS WY WEDEROMME SULLEN SYN IN GENOCHTEN." Avec anneau.
+
+- 2Velddaalder. Sans contremarques. Au revers, CETTE INSCRIPTION
+
+"DOEN IC WAS GESLEGHEN, WAS MIDDELBURGH BELEGHEN, PEERDEN HONDEN HUE(N) DUER NOOD
+
+- 1502 GRAVEE A L'EPOQUE:
+
+Cette meme inscription se trouve sur les precieux quadruples ducats frappes a Middelbourg en 1573, voir le Catalogue-Stephanik, No.6939. Avec oeillet.-Tres rare. A.
+
+- 1503
+- 3Velddaalder. Contremarque du faisceau a sept feches. A.
+- 1504 Velddaalder. Contremarque,en haut, de lecusson de Zelande.
+- A.
+## (Middelbourg,Suite).
+
+|   1505 | 5Velddaalder.Contremarque,en bas,de 1'ecusson de Zelande.               | A.   |
+|--------|-------------------------------------------------------------------------|------|
+|   1506 | Velddaalder. Sans contremarques.                                        | A.   |
+|   1507 | Velddaalder. Sans contremarques. Frappe sur flan brise.                 | A.   |
+|   1508 | Velddaalder.En etain.                                                   |      |
+|   1509 | Demi velddaalder. Grands caracteres. Avec traces d’une contremarque. A. |      |
+|   1510 | Demi velddaalder pareil. Sans contremarques. Avec petit trou.           | A.   |
+|   1511 | Demi velddaalder.Petits caracteres.                                     | A.   |
+
+## Nos.1512a1515
+
+1573. Doubles et simples ducats. Type: dans un cercle, linscription suivante:Deo Regi Patriae fidel(is) Middelb(urg) 1573."Des deux c6tes de ce cercle, les écussons de Zelande et de Middelbourg. Les doubles ducats ont en bas un 2.De Man,Nos. 8,10 et 14;Stephanik,Nos.
+
+6940, 6941 et 6944;Mailliet, pl.84,No.8. Pieces carrees, unifaces. OR.
+
+- 1512 Double ducat. Au revers, LA MEME INSCRIPTION GRAVEE QUE SUR LES QUADRUPLES DUCATS,voir le No.1502 de ce Catalogue. Ce double ducat avecinscription est de touterarete, proba blement unique.-Non citepar Mailliet. (5.5grammes). OR.
+- Voir planche I.
+- 1513 Double ducat. Revers blanc.Entoure d’une bordure cordonnee en or,
+- avec ceillet.- Non mentionne par Mailliet. (7.5 grammes).OR.
+- 1514 Ducat. (2 grammes).OR.
+- 1515 Ducat? Contremarque de lecusson de Zelande. Frappe moderne sur cuivre faite vers 1800 avec le coin matrice retrouve. Mailliet,pl. LXXXIV,No.12. C.
+
+## No.1516
+
+- 1516 1573.2/: Velddaalder? Type:MD dans un grenetis. Quatre contremarques posees en croix: le lion de Zelande, deux fois la tour de Middelbourg， et la date.Non cite par Mailliet. Piece carree,uniface.-Plomb.
+
+son Catalogue).
+
+Stephanik possedait cette piece curieuse en argent (no. 6945 de
+
+## Nos,1517 a1521
+
+- 1574.Ducats,velddaalderset demivelddaalder.Type: dansun cercle,cette inscription:Libert.rest.S.P.Q.Zel.soli Deo honor"et la date de 1574. Au-dessus de ce cercle, Pecusson de Zelande.— Mailliet, pl. 84；De Man, 16 a 18; Stephanik, Nos. 6946 a 6948.-Pieces carrees,unifaces.
+- 1517 Ducat. (3 grammes). OR.
+- 1518
+- Ducat. Autre type, sans grenetis et avec REST au lieu de.REST:Non mentionne par Mailliet. (2 grammes). OR.
+- 1519 Velddaalder. Avec cette INSCRIPTION GRAVEE,couvrant les bords de lavers,et le revers en entier:MIDDELBURGO AB HISPANIS DUCE PR(IN)C(IP)E AURAICO VINDICATO RESPUBLICA GRATITUDINIS ERGO CUDI CURAVIT".(Apres la delivrance, par le prince d'Orange, a titre de reconnaissance'). Non citee par Mailliet.(26.5 grammes). A.
+
+Voir plancheI.
+(Middelbourg,Suite).
+
+1520 Velddaalder. Sans inscription.
+
+1521 Demi velddaalder.
+
+(27 grammes).A.
+
+(13.5 grammes).A.
+
+## HARLEM
+
+(Assiegee par les Espagnols sous Don Frederic fils du Duc dA1be.1572-1573)
+
+Nos.1522a1555
+
+1572.Sous cette rubrique nous decrivons une serie de33velddaalders,demis velddaalders,etun quart de velddaalder,tousdumemetypeendiversesvarietes, chaque variete representant une des emissions faites pendant le siege de Harlem par les Espagnols.Voici le type: trois poincons ont ete estampes sur une petite plaque en argent (losange, rhombe, carre, aux angles coupes ou non coupes), savoir: lecusson de la ville au centre de la piece; ladessous,la date de 1572; tandis qu'en haut on a estampe une marque speciale indiquant lemission: une incuse portant une etoile et un croissant; une etoile simple; trois etoiles; une tete de mort; une feur de lis;le globe imperial;un lion.
+
+Toutes les pieces sont en argent,les velddaalders pesent 28 grammes environ,les demis 14.
+
+Mailliet,pl. XLVI a XLVIlI decrit une partie de ces pieces.
+
+Nous les classons d'apres la marque speciale qui se trouve en haut sur la piece:
+
+## Marque:etoile et croissant
+
+| 1522   | Velddaalder.Losange.                                                                    | A.                  |
+|--------|-----------------------------------------------------------------------------------------|---------------------|
+| 1523   | Velddaalder.Losange. Contremarque de l'ecusson de Hollande.                             | A.                  |
+| 1524   | Velddaalder.Carre.                                                                      | A.                  |
+| 1525   | Velddaalder. Carre. Contremarque de l'ecusson de Hollande.                              | A.                  |
+| 1526   | Demi velddaalder.Rhombe. Contremarque de l'ecusson de Hollande.                         | A.                  |
+| 1527   | Demi velddaalder.Carre.                                                                 | A.                  |
+|        | 1528 Quart de velddaalder.Losange. (5grammes).A. Ce quart de velddaalder est fort rare. |                     |
+|        | Marque:etoile                                                                           |                     |
+| 1529   | Velddaalder.Losange.                                                                    | A.                  |
+|        | 1530 Velddaalder.Losange. Contremarque de l'ecusson de Hollande.                        | A.                  |
+|        |                                                                                         | Marque:tete de mort |
+|        | 1531 Velddaalder. Carre. Contremarque de lecusson de Hollande.                          | A.                  |
+|        | 1532 Demi velddaalder. Rhombe. Contremarque de lecusson de Hollande.                    | A.                  |
+|        | 1533 Demi velddaalder.Carre.l                                                           | A.                  |
+## (Harlem,Suite).
+
+## Marque: trois etoiles
+
+| 1534   | Velddaalder.Rhombe.-—Troue.                                                                                              | A.   |
+|--------|--------------------------------------------------------------------------------------------------------------------------|------|
+| 1535   | Velddaalder.Rhombe. Contremarque de Iecusson de Hollande.                                                                | A.   |
+| 1536   | Velddaalder.Carre.                                                                                                       | A.   |
+| 1537   | Velddaalder.Carre. Comme le precedent, mais plus petit et plus epais.A.                                                  |      |
+| 1538   | Velddaalder. Carre. Contremarque de lecusson de Hollande.                                                                | A.   |
+| 1539   | Demi velddaalder.Losange.                                                                                                | A.   |
+| 1540   | Demi velddaalder. Carre.                                                                                                 | A.   |
+| 1541   | 1Demi velddaalder. Carre. Contremarque de lecusson de Hollande.                                                          | A.   |
+|        | Marque: globe imperial 1542Velddaalder.Carre.                                                                            | A.   |
+|        | 1543 Velddaalder.Losange.                                                                                                | A.   |
+|        | 1544 Velddaalder. Carre.Contremarque de lecusson de Hollande.                                                            | A.   |
+| 1545   | Demi velddaalder.Losange.                                                                                                | A.   |
+|        | 1546 Demi velddaalder.Carre.                                                                                             | A.   |
+|        | 1547 Demi velddaalder. Carre. Contremarque de Pecusson de Hollande.                                                      | A    |
+|        | 1548 Demi velddaalder. Carre. Contremarque de 1'ecusson de Hollande.Plus petit que la piece precedente, mais plus épais. | A.   |
+
+## Marque:fleur de lis
+
+- 1549 Velddaalder.Losange. Contremarque de 1'ecusson de Hollande.
+
+A.
+
+- 1550 Demi velddaalder. Losange.Contremarque de Pecusson de Hollande.— Vermeil,avec ceillet.
+
+Il va sans dire gu'ilafallubeaucoup detempspour reunir cette serie importante, chaque piece etant assez difficile a trouver,surtout que quefques types puis des pieces unigues decrites sous les numeros suivants.
+
+## Pieces au type des precedents ecus, mais
+
+## AVEC DES INSCRIPTIONS GRAVEES AJOUTEES
+
+- 15511
+- Velddaalder,teatoile et auroissant,losange,portant deuxinscripins en majuscules, gravees a lepoque sur les bords de la piece, les coins etant ornes de fleurons graves:
+
+a lavers:SOLI+DEO GLORIA ET HONOR
+
+au revers:VOL STANDICH TEN ENDE.
+
+A.
+
+Superbe piece de l'époque. - Voir planche I.
+- 1552 l'epoque (en 9 lignes):
+
+## (Harlem,Suite).
+
+- Velddaalder. Type au globe imperial; carre, aux angles coupees; contremarque de l'ecusson de Hollande. Au revers, cette inscription gravee a
+
+GHECOME ENDEN 13IVLYAN 73 IS DIE STATINHANDEVAN
+
+DONFREDRICKOGELEVERT OP HAERLEM SYN GESCHOTEN 10402 SCHOTEN. A.
+
+- 1553 Velddaalder. Type a la tete de mort;carre,aux angles coupes. Inscription gravee au revers, au XVIle siecle, en majuscules au simple trait: "Haarlem van den tiran Alba belegert heeft door noot dit geld geslaagen" Mailliet, pl. XLVII, No.13. A.
+
+Cette piece est deja figuree par Van Loon, en 1723.
+
+- 1554 Velddaalder. Type au globe imperial; rhombe, aux angles coupes. La meme inscription gravee au revers que sur la piece precedente,mais les majuscules sont ici tracees a double trait. A.
+- 1555 Velddaalder. Type a Petoile et au croissant;losange;contremarque de l'ecusson de Hollande.Au revers, cette inscription gravee en majuscules: Urbs Haarlem Albani castris obsessa tiranni strenua militibus causa necessa dedit. L'inscription et la piece nous semblent dater du XVIIe siecle. A.
+
+Cette piece est deja figuree par Van Loon, en 1723.
+
+## Nos.1556a1562
+
+1573. Monnaies d'un autre type que les precedentes. Dans un cercle perle, 1ecusson orne de la ville,accoste de la date:15-73.En bas ou en haut,chaque deja employees sur les monnaies frappees en 1572. Le poids de ces pieces etant de189et 4,5 grammes,ona le coutume de les nommer 2/3, et 1/e velddaalder. On se demande si ces pieces n'ont pas eu cours pendant le siege pour la valeur de 1,1/2 et 4 velddaalder.Pendant le siege prolonge, on peut s'imaginer que l'argent se faisait de plus en plus rare.Mailliet, pl.XLVIII et XLIX. Pieces en forme de rhombe.-A.
+
+cel1es de 1572.
+
+Ces pieces de 1573 sont beaucoup pljus rares que
+
+- 1556 2s Velddaalder. A l'etoile et au croissant.-Mailliet, No. 49. A.
+
+1557 /6 Velddaalder.A l'etoile et au croissant.-Mailliet, No. 58.
+
+- A.
+- 1558 eVelddaalder.A 1'etoile.—Mailliet,No.57. A.
+
+1559 s Velddaalder. A la tete de mort.—Non cite par Mailliet.
+
+- A.
+- 1560 2/s Velddaalder.Aux trois etoiles.-Non cite par Mailliet. A.
+- 1561 s Velddaalder. Aux trois etoiles.— Mailliet, No.53.
+- 1562 1Velddaalder.Au globe imperial.-Mailliet, No.63.
+
+## ALKMAAR
+
+(Assiegee par les Espagnols sous Don Frederic, fils du duc d'Albe.1573).
+
+- 1563 (1573). Piece de 3 sols frappee avec le coin du contre-sceau de la ville. Une tour a quatre creneaux. Sigillum de Alcmar.-Mailliet, pl.I, No.1. Piece ronde,uniface.—Plomb.
+
+1564 (15)73. Sol.Une tour avec une porte, accoste de 73.Mailliet, pl. INo.3.
+
+Piece ronde,uniface.—Plomb.
+
+- A.
+- A.
+## HOLLANDE ET ZELANDE
+
+(Guerre avec 1'Espagne, 1573)
+
+## Nos.1565a1596
+
+(1573). Serie de monnaies contremarquees par les Etats de Hollande, en 1573,a leffet de hausser d'un huitieme la valeur ordinaire de ces pieces contremarquees. On distingue deux contremarques, l'une,lecusson de Hollande dans un ovale perle; l'autre, le lion hollandais dans un ovale perle.
+
+Pieces en or et en argent.
+
+Série remarquable et tres variee, donnant un bon apercu de linfuence que la guerre exercait sur la monnaie pendant les premieres annees de la guerre avec lEspagne.
+
+En tout 38 pieces,dont 2 en or.
+
+Notons specialement les PIECES DE MONNAIE ETRANGERES
+
+portant ces contremarques et les PIECES D'OR.
+
+Ces deux sortes sont fort rares.
+
+## Contremarque:lecusson de Hollande
+
+(Mailliet, pl.LI, Nos.2 et 3;LII, No.6)
+
+|      | 1565 Ecu de LIEGE, de 1567.-Fort rare.                  | A.   |
+|------|---------------------------------------------------------|------|
+|      | 1566 Thaler de LUBECK,de 1568.-Fort rare.               | A.   |
+| 1567 | Thaler de SAXE, de 1573, au buste d'Auguste.-Fort rare. | A.   |
+| 1568 | Demi écu Philippe de Hollan de, de 1572.                | A.   |
+| 1569 | Demi ecu Philippe de Hollande, de 1573.                 | A.   |
+| 1570 | Ecu Philippe de Gueldre, de 1557.                       | A.   |
+| 1571 | Ecu Philippe de G ueldre, de 1558.                      | A.   |
+| 1572 | Ecu Philippe de Gueldre, de 1561.                       | A.   |
+| 1573 | Cinquieme d'écu Philippe de G ueldre, de 1567.          | A.   |
+| 1574 | 4 Ecu a la croix de Bourgogne, de Gueldre, de 1568.     | A.   |
+| 1575 | Ecu Philippe d'Overy sel, de 1563.                      | A.   |
+| 1576 | Ecu Philippe de Brabant, de 1557.                       | A.   |
+| 1577 | Ecu Philippe de Flan dres,de 1558.                      | A.   |
+| 1578 | 8Dixieme d'ecu Philippe de Flandres, de (15)63.         | A.   |
+
+## Contremarque:le lion hollandais
+
+(Mailliet, pl.LII,No.5,7 et 8)
+
+- 1579 Demi real d’or de Gueldre, au buste de Philippe II, roi d’Espagne.-
+- Fort rare. (3.5 grammes).OR.
+- 1580 Demi real d'or de Bra ba nt,au buste de Philippe II, roi d'Espagne.Fort rare. (3.5 grammes).OR.
+- 1581 Petite monnaie en argent d'ESPAGNE,aux noms de Ferdinand et d'Isabelle, frappee a Bourgos.-—Fort rare. (2.2 grammes).A.
+## (Hollande,Suite).
+
+| 1582   | Quart de couronne de FRANCE de 1559, au buste de Henri II. Fort rare.                                                                | A.   |
+|--------|--------------------------------------------------------------------------------------------------------------------------------------|------|
+| 1583   | Thaler de JULIERS, CLEVES ET BERG, de 1567,au buste du duc Guillaume.- Fort rare. Voir planche I.                                    | A.   |
+|        | 1584 Gros de MILAN,au nom de Charles V.- Fort rare.                                                                                  | A.   |
+| 1585   | Thaler de labbaye de STABLO,de 1570,au nom de Christian comte de Manderscheidt, et au buste de lempereur Maximilien II.-Fort rare.A. |      |
+| 1586   | Oselle de VENISE,au nom d'Andree Gritti(1523-39).-Fort rare.A.                                                                       |      |
+| 1587   | Marcella de VENIsE, au nom d'Andree Gritti.-Fort rare.                                                                               | A.   |
+| 1588   | Dixieme d’écu Philippe de Holla n de, de 1572.                                                                                       | A.   |
+| 1589   | 3Dixiemes d’écu Philippe d’Utrech t, de 1571, 1572.                                                                                  | A.   |
+| 1590   | Ecu Philippe de G uel dre, de 1557.                                                                                                  | A.   |
+| 1591   | Ecu Philippe de Gueldre, de 1558.                                                                                                    | A.   |
+| 1592   | Ecu Philippe de Brab an t,de 1561.                                                                                                   | A.   |
+| 1593   | Ecu Philippe de Bra ba nt, de 1573.                                                                                                  | A.   |
+|        | 1594 Diverses monnaies en argent de Bra bant, vers 1560 a 1570. (5pieces, 31 grammes). A.                                            |      |
+|        | 1595 Ecu Philippe de Flan dre,de 1558.                                                                                               | A.   |
+|        | 1596 Cinquieme decu Philippe de F1an dre, de 1567.                                                                                   | A,   |
+
+## Nos.1597a1612
+
+1573. Serie de monnaies en or et en argent contremarquees par les Etats de Zelande. C'est dans ce meme but que les Etats de Hollande contremarquerent les monnaies a cette date.Voir la description de la serie precedente. On distingue 7 contremarques: l'ecusson de Zelande avec contour perle;le meme ecusson sans contour perle,en trois grandeurs; - et le lion de Zelande dans un ovale perle, egalement en trois grandeurs. - Mailliet ne represente que deux contremarques:lecusson sans contour perle,et le lion dans un ovale perle. En tout 18 pieces dont 3 en or.
+
+Pieces en or et en argent.
+
+Memes remarques gu'a la serie precedente. Les pieces d'oretles monnaies etrangeres portant une de ces contremarques, sont tres rares.
+
+Contremarque: lecusson de Zelande avec contour perle.
+
+| 1597 Ecu Philippe de Bra ba n t, de 1559.                  | A.   |
+|------------------------------------------------------------|------|
+| 1598 2 Dixiemes d'ecu Philippe de Bra bant, de 157l, 1572. | A.   |
+## (Zelande,Suite).
+
+## Contremarque: lecusson de Zelande sans contour perle. Longueur:11.5 millimetres.
+
+| 1599 Florin d'or Carolus, frappe a Anvers.—Fort rare. (2.5 grammes). OR.                                                                |
+|-----------------------------------------------------------------------------------------------------------------------------------------|
+| 1600 Thaler de SAXE, de 1561,au buste d'Auguste.-Fort rare.A· Voir planche I.                                                           |
+| 1601 Ecu Philippe de Hollande, de 1558. A.                                                                                              |
+| 1602 2Demi écu Philippe de Hollande,de 1573.                                                                                            |
+| A. 1603 Demi écu a la croix de Bourgogne de Bra bant, de 1567. A.                                                                       |
+| Contremarque:l'écusson de Zelande sans contour perle Longueur:10 millimetres.                                                           |
+| 1604 2 Cinquiemes d'écu Philippe de Gue1dre, de 1566,1567. A.                                                                           |
+| 1605 Demi ecu Philippe de Brabant, de 1562. A.                                                                                          |
+| Contremarque: lécusson de Zelande sans contour perle Longueur:8millimetres.                                                             |
+| 1606 Demi real d'or au nom de Charles-Quint, frappe a BRUGES.-La piece et la contremargue sont toutesdeuxfortrares. (3.2 grammes). OR.  |
+| Contremarque:le lion de Zelande dans un ovale perle Longueur:13.5 millimetres. 1607 Eeu a la croix de Bourgogne d'U trecht, de 1568. A. |
+| 1608 Ecu Philippe d'0verysel, de 1562. A.                                                                                               |
+| 1609 Ecu Philippe de Brabant, de 1562. A.                                                                                               |
+| A.                                                                                                                                      |
+| 1610 Dixieme d'ecu Philippe de Holla nde, de 1572. Contremarque: le lion de Zelande, dans un ovale perlé Longueur:10.5 millimetres.     |
+| pagne.-Fort rare. (7grammes.)-OR. Voir plancheI.                                                                                        |
+## LEYDE
+
+(Assiegee par les Espagnols sous Valdez.1573-1574)
+
+## Premier siege
+
+## Nos.1613a1620
+
+1574.Pieces de 20 sols. Varietes en or, argent et papier, de forme loala pointe d'une épee,le chapeau de la liberte;il est accoste de la dans un cartouche,entoure de deux inscriptions circulaires:1,N.O.V. L.S.G.I.P.A.C"(ce qui veut dire:Numrmus obsessae urbis Lugduni sub\_gubernatione illustrissimi principis Auraici cusus:Monnaie de la ville de Leyde assiegee, frappee sous le gouvernement du Prince d'Orange)-
+
+Ces pieces obsidionales de Leyde ont un interet historique particulier: ony a mentionne le NOM DU PRINCE D'ORANGE.Ce sont les seules monnaies sur lesquelles on ait donne au Taciturne cet attribut de la Souverainete.
+
+2°"Godt behoede Leyden.”Mailliet, pl.LXXI, No. 2;Suppl. pl.51,No.2.
+
+- 1613 ESSAI EN OR. TRES BELLE PIECE,DE TOUTE RARETE.
+- (14 grammes).OR.
+
+Les monnaies obsidionales de la guerre avec Cette piece ronde en or n'est pas mentionnee l'Espagne se rencontrent tres rarement en or. par Maiiliet. Voir plarche I.
+
+1614 Essai en argent.Losange, d'un poids lourd. (25 grammes).A.
+
+1615 Idem.D'un poids leger. (18.5 grammes).A.
+
+1616
+
+Essai en argent, carre et de DOUBLE POIDS. (38 grammes).A. Cette piece de double poids est fort rare.Le seul exemplaire connu, a part celui-ci, appartenait a la collection Stephanik.A la vente de cette collection,en 1904,cet exemplaire produisit flor.106.— sans les frais.
+
+1617 Idem.Simple poids.Mailliet, texte,I,p.285, No.24. (18 grammes).A.
+
+1618
+
+Idem.Troue et poinconne, sur la marge, d’une petite clef.(18.5 gra mmes).A.
+
+1619
+
+La meme monnaie, de forme ronde. Essai en argent. Mailliet,texte,No.2 (18.5 grammes).A.
+
+- 1620 La meme monnaie. EXEMPLAIRE EN PAPIER.Contremarquee de
+
+Ces pieces en papier furent frappees avec le papier des missels et avaient cours pendant le siege.
+
+## Nos.1621a1624
+
+1574. Pieces de 5 sols.Exemplaires en argent, plomb et papier.Type: le lion hollandais portant une epee et l'ecusson d'armes de la ville. Inscription Pugno pro patria, 1574". Au revers, dans une couronne de Mailliet, pl.LXXI, 3; Suppl.pl. 51, No. 3.
+
+1621
+
+Essai en argent, de forme carree. -Mailliet, texte, I, p.286,No.3
+
+1622 Idem.En plomb.
+
+(8grammes).A.
+
+- l'ecusson de Hollande.
+- 14
+- MONNAIES 0BSID10NALES.——LEYDE.OUDEWATER.(1573—1575).
+
+## (Leyde,Suite).
+
+- 1623 Essai en argent, de forme ronde.—Mailliet, suppl. pl. 51, No. 3.
+- (9grammes).A.
+- 1624 Exemplaire en PAPIER, de forme ronde. Contremarque du lion de
+- Hollande.—Mailliet, pl.LXXI, No.3.
+
+## Second siege
+
+- 1625 1574. Piece de 30 sols EN PAPIER. Type: sous une couronne, le lion hollandais tenant une epee et l'ecusson de la ville de Leyde;autour, Gott behoede Leyden et Pecusson de la ville accostes de 30-ST; inscription circulaire:Num. ob.urb.Lugd. sub. gub.il. Pr.Au.cus. Mailliet, pl. L XXI.No.4. Diametre 46.5 millimetres.-Papier.
+
+Cette piece de trente sous en papierest detoute rarete. Non citee par Van Loon.
+
+MANQUAIT ALACOLLECTION STEPHANIK.-Voir planche I.
+
+- une epee et lécusson de la ville.Inscription circulaire:,Pugno pro patria. 1574". Au revers, dans une couronne de feuilles, l'inscription suivante: "Nummus obses.urb.Lugdun. sub gub.ill.Prin.Aura.cus" v.Loon I, page 188,No.2 (ed.francaise, p.186, No.2); Mailliet,pl.71, No.6; Stephanik,No.6999. Diametre 45 millimetres.-Papier.
+- 1627 1574. Piece de 28 sols, EN PAPIER. Autre type:le lion hollandais la liberte. Inscription, sans cercle interieur:Haec libertatis ergo 1574"
+- portant lecusson de la ville et, sur la pointe d'une epee,le chapeau de Le revers est du meme type que celui de la piece precedente.- Mailliet, pl.72,No.7;Stephanik,No.7000. Diametre 40 millimetres.Papier.
+- 1628 1574. Demi sol en cuivre (2varietes et un essai en argent, de forme carrée), etc.5 pieces. A.etC.
+
+## OUDEWATER
+
+(Assiegee par les Espagnols sous Hierges, 1575)
+
+## Nos.1629 a1634
+
+1575. Pieces de 40, 20 et 10 sols. Type:les armes de la ville entoures de cinq estampilles:Godt met ons 1572 40 (ou 20,ou 10).—Mailliet, pl.XC（en etain).——Pieces rondes, unifaces.
+
+1629 Piece de 40 sols. Essai en argent.
+
+(11 grammes.) A.
+
+1630 Piece de 40 sols. Mailliet, pl. XC, No. 1.
+
+Etain.
+
+1631 Piece de 20 sols.
+
+E.
+
+1632 2Piece de 10 sols. Essai en argent.
+
+(6.5 grammes.) A.
+
+1633 Idem,mais d'un poids de 4 grammes.
+
+A.
+
+1634 Piece de 10 sols.
+## SCHOONHOVEN
+
+(Assiegee par les Espagnols sous Hierges,1575)
+
+- 1635 1575. Pieces de 6,3(deux varietes),2et 1 sol.v.Loon,I, p.209 （éd. francaise, p.206);Mailliet, pl.101. 5pieces. Pieces carrees, unifaces.——Plomb.
+
+## WOERDEN
+
+(Assiegee par les Espagnols sous le comte
+
+<!-- image -->
+
+de Megen,1575-1576)
+
+Ni Mailliet ni Van Loon ne citent aucune piece avec la date de 1576;la collection Stephanik n'en contenait non plus des speeimens.
+
+1636 (15)76. Piece de 40 sols.ESSAI EN ARGENT. Type: lecusson de la ville accoste du chiffre de la valeur:40, et surmonte de la date: 76.Inscrip-
+
+(Piece carree,uniface.——17.5 grammes).A.
+
+tion:"Pro aris et focis”.—Trouee.
+
+Cet essai en argent de la piece de 40 sols est de teute rarete.
+
+Au revers, quelque habitant a fait graver pendant le siege un voeu pour la delivrance de la ville:
+
+## MISEREBITVR X DNS
+
+## WOERDEN
+
+XIXFX
+
+De telles inscriptions faites sur une monnaie obsidionale pendant le siege de la ville, sont tres rares.
+
+Voir planche II.
+
+- 1637 (1576). Piece de 10 sols. ESSAI EN ARGENT. Meme type qu'au No. precedent, mais plus petit et sans date.
+
+(Piece carree, uniface.-—7 grammes).A.
+
+## ZIERIKZEE
+
+(Assiegee par les Espagnols sous Mondragon,1575-1576)
+
+Voir: Mlle M. de Man, Over de noodmunten van Zierikzee, dans le Tijdschrift voor Munt- en Penningkunde, Vol. XVIlI (1910).
+
+## Nos.1638a1640
+
+1575. PIECES DOR DU SIEGE DE ZIERIKZEE, au type des monnaies, mais avec des INSCRIPTIONS ET DES DESSINS GRA VES ajoutes. Ces belles pieces sont des medailles donnees en present par les Magistrats a quelques defenseurs qui s'etaient le plus distingues pendant le siege de la ville.
+
+- 1638 Ecusson de la ville dans un grenetis.Autour, une jolie decoration gravee et l'inscription:FORTITUDO MEA DEUS A°1575Le revers est entierement rempli d'une jolie gravure representant la figure de Mars et linscription: AUDACES FORTUNA JUVAT.- De Man,No. 30; Mailliet, pl. CXXX, No.1. (Piece carree.-19.5 grammes).OR.
+
+Une des plus belles pieces commemoratives datant de la Guerre de guatre-vingts ans.-Tres rare. Voir planche II
+1647
+
+1648
+
+## (Zierilzee,Suite).
+
+- 1639 Lécusson de la ville,le lion de Zelande et la date de 1575 dans un cartouche, frappe sur la piece.Ces trois poincons sont entoures d'une JOLIE BORDURE GRAVEE et de l'inscription:GRATITUDINIS ERGO. (Piece carree.——22 grammes). OR.
+
+## Voir planche I.
+
+- 1640 Piece pareille a la precedente mais sans gravure a Pavers; par contre,au
+- Avec oeillet. (Piece carree.-16 grammes).OR.
+
+le siege.
+
+D'apres la date au revers, cette medaille fut offerte 29 ans apres
+
+Ces trois pieces (Nos.1638a1640) appartiennent aux plus remarquables documents deianumismatique des Pays-Bas.-La deuxieme etla troisieme ne sont pas citees par Mlle De Man.
+
+- 1641 1575. Piece d'or. Lécusson de la ville; en bas, la date dans un cartouche. —De Man, No. 32 qui n'a pas vu la piece.—Non citee par Mailliet. (Piece ronde,uniface.——3 grammes).OR.
+
+ducat de 1801 dont le type a ete efface, on en voit encore des traces au revers.
+
+Piece posterieure frappee (avec le coin matrice original ?) sur un
+
+- 1642 1575.Velddaalder. Plaque carree en etain trois fois poinconnee:de l'ecusson de la ville, du lion de Zelande et de la date dans un cartouche. -De Man, No. 15;Mailliet, pl. CXXX, No. 3. Etain.
+
+## Nos.1643a1644
+
+1575.Demi velddaalder et quart de velddaalder.Type:lecusson de 1a ville au centre, en haut, petit écusson de la ville; en bas, la date dans un cartouche. Pieces carrees.—A.
+
+- 1643 Demi velddaalder.-De Man,No. 6.
+
+(13.5 grammes).A.
+
+- 1644 Quart de velddaalder.-Non cite par De Man,ni par Mailliet.
+- (7.5 grammes).A.
+- 1645 1575. Quart de velddaalder. L'écusson de la ville;en haut,un rhombe, piece des armoiries de la ville,dans un grenetis;en bas,la date dans un cartouche. - De Man,No. 22; Mailliet,pl.CXXXI, No.7. Piece ronde.-Etain.
+- 1646 1576.Piece d'or, au type des velddaalders.L'ecusson de la ville au centre; en haut,le lion de Zelande;en bas,la date dans un cartouche.—De Man.No. 3l; non citee par Mailliet.
+
+(Piece carree,aux angles coupes.—6 grammes).OR.
+
+ni k, (No.7031 de son Catalogue).
+
+## Nos.1647a1648
+
+1576.Velddaalder et demi velddaalder. Type:1ecusson de la ville au centre; en haut, le lion de Zelande; en bas, la date dans un cartouche. Pieces carrees.-A.
+
+Velddaalder.
+
+8Demi velddaalder.
+
+(28 grammes).A.
+
+(13 grammes).A.
+## (Zierikzee,Suite).
+
+## Nos.1649a1650
+
+1576. Demi velddaalder et quart de velddaalder.Type comme les precedents,mais en haut,on voit le petit écusson de la ville au lieu du lion de Zelande. Pieces carrees.- Etain et argent.
+
+- 1649 Demi velddaalder.-Mailliet,pl.CXXXI,No.14. E.
+- 1650 Quart de velddaalder. (7.5 grammes.) A.
+
+## Nos.1651a 1652
+
+1576.Velddaalder et demi velddaalder frappes par les Espagnols apres la prise de la ville. Type: dans un cercle Pinscription suivante:Regiae Mat.reconciliata Zirizea 2a July Ao 1576. Pieces carrees.—Argent,
+
+- 1651 Velddaalder.—Mailliet, pl. CXXXII,No.19. (28 grammes.)A.
+- 1652 Demi velddaalder.—Mailliet, pl. CXXXII, No.23. (13.5 grammes.) A.
+- 1653 1576. Monnaie en étain (quart décu?).L'écusson de la ville remplissant
+- le champ; au revers, en quatre lignes:1576 Sperando vivo Zzee. 57 -De Man, No. 36; Mailliet, pl. CXXXI, No.17. Piece ronde.-—Etain. Exemplaire de la collection Stephanik (No.7038 de son Catalogue).
+- 1654
+- Cinquieme d'ecu Philippe de Hollande,contremarque de l'ecusson de la ville de Zierikzee et du lion de Hollande. A.
+
+Piece interessante, non-mentionnee par Mlle.De Man,ni par Mailliet,
+
+Voir planche I.
+
+## GRONINGUE
+
+(Monnaies frappees avec les objets d'or et d'argent abandonnes par les Espagnols mis en fuite en 1577.)
+
+- 1655 1577. Piece de 1% ducat. Type: les armes de la ville surmontes d'un G. Necessitate 4 Feb.1577.Contremarquee, en haut, de lecusson de la ville. (Rhombe,uniface.-5.25 grammes).OR.
+
+Piece unique, provenant de la collection Stephanik
+
+(No.7044 et pl. XVII de son Catalogue).
+
+## Nos.1656a1659
+
+1577. Ecus et demi ecu au type de la piece de 1% ducat, mais sans Rhombe,uniface.——A.
+
+contremarque.
+
+- 1656 Ecu.-Mailliet, pl. XLIV,No.1.
+- 1657
+- (34 grammes).A.
+- Ecu.Portant,au revers,une INSCRIPTION GRAVEE A L'EPOQUE EN MAJUSCULES:GRONINGEN WES HIER BY GEDACHTICH EN LAT NIET MEER IN DAN DU BISTE MACHTICH".(33 grammes).A.
+- 1658 Ecu. Portant,au revers,une INSCRIPTION GRAVEE A L'EPOQUE EN ITALIQUES:1577 Gronningen west gedachtich laet niet meer knechten in als du biste machtich". (29 grammes).A.
+- 1659 Demi écu.-Mailliet, pl. XLIV, No.2.
+- (16 grammes).A.
+## (Groningue,Suite).
+
+## Nos.1660 a 1661
+
+1577. Deux tiers,et tiers d'ecu, Type des écus et des demis écus, mais les caracteres sont plus fins. Rhombe, uniface.—Argent.
+
+- 1660 Deux tiers d'ecu. Contremarque, en haut, de Pecusson de la ville.-Non
+- cite par Mailliet. (18.5 grammes).A.
+- 1661 Tiers d'écu.-Mailliet,pl.XLIV,No.4.
+
+## BREDA
+
+(Assiegee, avec la garnison espagnole sous Fronsberg, par l'armee des Etats sous Hohenlohe,1577.)
+
+- 1662 1577. Piece de deux florins. Type: dans le champ, en deux lignes,
+- Prince d'Orange.Mailliet, pl. XVII, No. 3.
+- "Bre dae," entoure de la legende:Necessitatis ergo,"i577. Quatre contremarques: fleur de lis,ecusson de la ville,un 2,le cornet des armes du
+
+(Rhombe, angles coupes, uniface.-14.5 grammes).A.
+
+- 1663 1577. Piece au meme type: une contremarque (cornet) poussee sur le
+- type. Rond,uniface.-Plomb.
+- 1664 1577.Piece de 20 sols. Type des pieces precedentes,mais avec la legende: "In necessitate 4 Contremarques: tour, feur de lis, XX, cornet. Mailliet, pl. XVII, No.4. (Rhombe,uniface.6 grammes).A.
+- 1665 1577. Velddaalder. Type:Pecusson de la ville entoure de la legende:In
+
+(Rhombe.—26 grammes).A.
+
+- der noot.B.A.1577.Non cite par Mailliet.
+
+Piece rare et d'autant plus remarquable qu'on a GRAvE A L'EPOQUE,au revers,l'ecusson darmes du Prince dOrange entoure du collier de la Toison d'or, et linscription:IEMAIN TIENDRA Y ·NASSOVEN.
+
+marque d'un cornet.
+
+A l'avers, une marque d'orfevre aux initiales PW,et la contre-
+
+Voir planche II.
+
+1666 1577. Quart de velddaalder,au meme type.Deux contremarques: cornet et tour.- Non cite par Mailliet. (Rhombe,uniface.——7.5 grammes).A.
+
+1667 1577. Sou, au meme type, mais rond. Non cite par Mailliet. Cuivre.
+
+(10 grammes).A
+## AMSTERDAM
+
+(Assiegee par les troupes des Etats.1578)
+
+## Nos.1668a1687
+
+1578. Serie de pieces de 40,20, 10 et 5 sols,variant entre eux par les
+
+(Losange,rhombe ou carre.—26,13,6 ou 3 grammes).A.
+
+contremarques.Type:1'ecusson couronne de la ville, sur les pieces de40 sols tenu par deux lions;lindication de la valeur se trouve des deux cotes de la couronne;la date,des deux cotes de l'écusson;les pieces de 40 sols ont la date en bas,a quelques-unes la date est accompagnee du chiffre de la valeur. Les pieces de 40 et de 20 sols ont au revers, dans une couronne de feuilles, linscription:μp(ro)ar（is) et fo（cis)", celles de 10 et 5 sols sont unifaces (Pour deux remarquables exceptions voir les numeros 1686 et 1687).
+
+Ces pieces furent frappees avec largent de la statue de St.Nicolas de PAncienne Eglise.
+
+## Contremarquees dun vase.
+
+1668 40 sols.Avec :1578 XL.Rhombe.Mailliet, pl. III,No.1.
+
+1669 20 sols.Rhombe.—Mailliet, pl.IV,No.7.
+
+1670 20 sols. Losange.
+
+1672 5 sols. Rhombe.—Mailliet, pl. IV, No.13.
+
+## Contremarquees d'un briquet.
+
+1671 10 sols. Carre.
+
+1673 40 sols. Avec
+
+1674 20 sols. Rhombe.—Mailliet, pl.IV, No.8.
+
+1675 10 sols.Rhombe.—Mailliet,pl. IV, No.10.
+
+1676 5 sols. Rhombe.—Mailliet, pl. IV, No.14.
+
+1677
+
+5 sols. Rhombe, aux angles coupes.
+
+## Contremarquees du monogramme P G.
+
+1678 40 sols.Avec 1578 XL.Rhombe. —Mailliet, pl. II, No.3.
+
+1679 40 sols. Avec
+
+1680 20 sols.Rhombe.—Mailliet, pl. IV,No.9.
+
+1681 10 sols. Carre.
+
+1682 10 sols. Rhombe. Au revers de cette piece on a grave,au XVIIe siecle, une charmante scene d'homme patinant.
+
+1683 5 sols. Rhombe.—Mailliet, pl. IV,No.15.
+
+## Sans contremarque,et curiosites.
+
+1684 10 sols.Rhombe.
+
+- 1685 40 sols au type:1578 se trouver la date, on a frappe encore une fois la couronne qui couvre Pecusson de la ville, accostee du chiffre de la valeur X-L.Le revers a (Rhombe.—27 grammes).A.
+- éte correctement frappe.
+- des pieces de 40 sols avec l'inscription sp(ro) ar(is)et fo（cis). Les pieces ordinaires sont unifaces. - Non citee par Mailliet. (Rhombe.—6.5 grammes).A.
+- 1687 5 sols, ofrant la meme irregularite que la piece decrite sous le numero precedent.-Non citee par Mailliet. (Carré.-3grammes.)A.
+## (Amsterdam,Suite).
+
+## Nos.1688a1698
+
+Frappees avec l'argent de la Nouvelle Eglise.en prenant le coin de l'ecusson des pieces de 20 sols du type precedent (ecusson accoste de la date), et en le decoupant des deux cotes; on y voit encore,aux cotes, les traces des chiffres 5 et 7 dela date 1578.
+
+1578. Pieces de 40,20,10 et 5 sols,unifaces,ayant deux incuses,dans l'une l'ecusson de la ville; dans l'autre la date et le chiffre de la valeur. Elles different entre elles par la contremarque qui se trouve en haut de la piece. (Losange,uniface.-26,13,6 et 3 grammes).A.
+
+## Contremarquees d’ un vase.
+
+1688 40 sols.——Mailliet, pl. V, No.17.
+
+1689 20 sols.-Mailliet, pl.V, No.21.
+
+1690 10 sols.-Mailliet, pl. V, No. 22.
+
+1691 5 sols.-Mailliet, pl. V, No. 26.
+
+## Contremarquees d’un briquet.
+
+1692 40 sols.-Mailliet, pl.V, No.16.
+
+1693 40 sols. Carre.Lincuse contenant la date et le chiffre de la valeur, se trouve sur le cote droit,au lieu d'etre sous lecusson.-Non citee par Mailliet.
+
+1694 20 sols.—Mailliet,pl.V,No.20.
+
+1695 10 sols.—Mailliet,pl.V,No.24.
+
+## Contremarquees du monogramme PG.
+
+1697 20 sols.—Mailliet, pl. V, No.19.
+
+1696 40 sols.—Mailliet, pl. V, No. 18.
+
+1698 10 sols.-Mailliet, pl. V, No.23.
+
+## KAMPEN
+
+(Assiegee par 1’armee des Etats sous Rennenberg, 1578).
+
+## Nos.1699a1705
+
+1578.Pieces de differentes valeurs,portant chacune 7 incuses, dont yoici lesinscriptions:1ecusson de la ville,ectremum| subsidium,Campen,1578, et l'indication de la valeur (42|st). (Losange,uniface.)
+
+1699 42 sols.Avec 42 ST -Mailliet,pl.XXII, No.1. (29 grammes).A.
+
+1700 42 sols.Avec 42 S.T-Non citee par Mailliet. (28.5 grammes).A.
+
+1701 21 sols. - Non citee par Mailliet.
+
+(13 grammes).A.
+
+1702 219 sols.-Mailliet, pl. XXIII, No.7.
+
+(13 grammes).A.
+
+1703
+
+310% sols.Mailliet, pl. XXII, No.4.
+
+(6.5 grammes).A.
+
+1704 9% sols.-Mailliet, pl. XXIII, No.8. (6 grammes).A.
+
+1705 9% sols.- Non citee par Mailliet.
+
+Plomb.
+## DEVENTER
+
+(Assiegee par larmee des Etats sous le comte de Rennenberg,1578)
+
+- 1706 1578. PIECE DE 1% DUCAT. Une aigle dans le champ;legende: "Urgen. necess. Dawe. 9 Jun. 78. Cette legende est coupee par 1ecusson
+
+(Piece carree,uniface.—5.2 grammes).OR.
+
+- de la ville.—Mailliet, pl. 36, No.1; Stephanik, No. 7089.
+
+SUPERBE PIECE EN OR,DE TOUTE RARETE.-Provient de la collection Stephanik, ou elle fut adjugee flor.430.-sans les frais. Voir planche I.
+
+## Nos.1707a1711
+
+1578. Pieces de 44, 22 et 11 sols. Type de la monnaie d'or decrite sous le No.precedent. Pieces carrees, unifaces.
+
+1707
+
+Pieces de 44 sols.-Mailliet, pl. XXxVI, No. 5. (24.5 grammes).A.
+
+1708 Piece de 44 sols, en étain.-Non citee par Mailliet.
+
+1709 Piece de 22 sols. (12.5 grammes).A.
+
+1710 Id.Variete.-Mailliet, pl. XXXVI, No.6-
+
+1711 Piece de 11 sols.
+
+(12.5 grammes).A.
+
+- (5.5 grammes).A.
+- 1712 1578. Essai en argent d'une piece de deux sous. Type:a une face, ressemblant au type des pieces decrites sous les numeros precedents;a l'autre
+
+(Piece ronde,a deux faces.—2.5 grammes).A. Cet essai en argent est rare.-Non cite par Mailliet.
+
+- face, l'indication de la valeur entouree d'une guirlande.
+- 1713 1578. Pieces de quatre sous (2), de deux sous, d'un sou et d'un demi quees de l'ecusson de la ville.-Voir Mailliet, Suppl., pl. 31, No.1.
+- sou.Type:voir le No.precedent.-6 pieces dont quatre sont contremarPieces rondes,a deux faces.— Cuivre.
+- 1714 1578. Piece carree, frappee avec le coin de 1'ecu des trois villes imperiales: Kampen,Deventer et Zwolle,de 1575, au nom de Maximilien II et aux ecussons heaumes des trois villes. Dans les coins de l'avers on a estampille les quatre chiffres de la date du siege en commencant par
+
+(Piece carree, a deux faces.32 grammes). A.
+
+- le coin du haut:15 78.-Non citee par Mailliet.
+
+Tres belle piece, fort rare.— Voir v.d.Chijs,Overysel, pl.VIl, No.41. Cette monnaie fut frappee par les Espagnols avec l'argent provenant de la chasse de St.Lebuin placee dans la cathedrale. Dans la collection Stephanik se trouvait un exemplaire de cette belle monnaie ou les chiffres de la date du siege commencaientpar le coin a droite,et non par le coin du haut comme sur notre piece. (Voir le Catalogue Stephanik, No. 7093 et pl.XVI).
+
+Voir planche I.
+## MAESTRICHT
+
+(Assiegee par les Espagnols sous Alexandre Farnese, prince de Parme,1579.)
+
+- 1715 1579.Pieces de 40,24,16,12,8,21 et %sous.Type:armoiries et inscriptions tres detaillees.Voir Mailliet,pl.LxxV,No.6 et 9;LXxIV, Nos.12, 13 et 14.-—8 pieces. Pieces rondes,a deux faces.- Cuivre.
+
+## ZALTBOMMEL OU BOMMEL
+
+(Assiegee par les Espagnols sous Francisco de Mendoza,1599.)
+
+## Nos.1716a1724
+
+(1599). SERIE DECUS A TRENTE SOLS, DE DEMIS ECUS ET D'UN QUART D'ECU. Type:un chateau a trois tours.Durae necessitatis opus. Au revers: deux lions tenant une epee au-dessus de l'ecusson de la ville. Legende (avec des variantes):Moneta nova facta Boeme s(tuweri) tri(ginta).—Voir Mailliet, texte,I,p.56et II,p.64.9pieces. Pieces rondes a deux faces.-—A.
+
+Serie tresremarquable;lesmonnaiesobsidionales de Bommel étant tres rares,ilsera difficilederencontrer dans le commerce ou dans descollections particulieres une serie aussi etendue.
+
+| 1716 Ecu. MONETA NOVA.FACTA BOEME.Variete interessante, sans indication de la valeur.—— Mailliet, Suppl. pl. 18, No. 1.   | A.   |
+|---------------------------------------------------------------------------------------------------------------------------|------|
+| 17171 Ecu.MONETA.N O.FACTA.BOE ME.S.TRI                                                                                   | A.   |
+| 1718 Ecu.MONETA.NO.FACTA.BO EME.S.TRI                                                                                     | A.   |
+| 1719 Ecu.MONE.NOV A.FAC TA.BO EME.S.TRI.                                                                                  | A.   |
+
+- 1720
+- Ecu. La meme variete que celui du numero precedent, mais cet écu est CONTREMARQUE D'UNE ROSACE:PIECE DES ARMES DE LA VILLE. A.
+
+mentionne un autre exemplaire portant cette contremarque.
+
+Cette contremarque est unique, nous ne trouvons pas
+
+Exemplaire de la collection Stephanik(No.7lll et pl. xvll de son Catalogue), le meme que celui cite par Mailliet, texte,p.57,No.13.
+
+Voir planche II.
+
+- 1721 Ecu.MONE.NO VA.FACTA.BO EME.S.TRI A.
+- 1722 Demi écu.MONETA* NOVA*FACT A*BOEME.Mailliet, pl. xV, No.3. A.
+
+Les demis ecus sont encore plus rares que les ecus.- Voir planche II.
+
+- 1723 Demi écu.MONETA NO.FACTA BOEME
+- A.
+- 1724 Quart d'ecu.MONET NO.FACTA BOEME.—Mailliet,pl.XV,No.4.A. Piece de toute rarete.- Voir planche II.
+## (Bommel,Suite).
+
+## Nos.1725a1726
+
+(1599). 2 Ecus d'un autre type que les precedents. On reconnait ce type a ce que les lions tiennent un anneau au lieu d'une epee.
+
+Pieces rondes, a deux faces.—A.
+
+- 1725 Ecu.MONE.NO VA.FACTA.BO EME.STRI
+- 1726 Ecu. Variete intéressante, ou la valeur est indiquee par un nombre:MONE&amp;NOVAFACTABOEME8S830 Mailliet, suppl.,pl. 18, No.4. A.
+- 1727 Sol. Type:lecusson de la ville entoure de linscription:Moneta nova facta Boeme. Au revers,une croix feuronnee comme sur les sous communs de lepoque, mais sur cette piece,la croix porte en coeur une epee.,Durae necessitatis opus".—Mailiet,pl.XV,No.5.
+
+(Piece ronde,a deux faces.—2 grammes).A.
+
+- 1728 ESSAI FRAPPE EN PIEFORT SUR UNE PLAQUE DE CUIVRE,de
+
+Piece ronde, a deux faces.-Cuivre.
+
+- ce meme sol.- Non cite par Mailliet.
+
+Piece de toute rarete.
+
+## BREDA
+
+(Assiegee par les Espagnols sous Spinola, 1625.)
+
+No.1729a1734
+
+1625. Serie de pieces de 60 et de 40 sols. Type:le lion des Provinces Unies, entoure de la legende:Breda obsessa,1625.Avec 4 contremarques: chiffre de la valeur,écusson de la ville,rosace,cornet.
+
+(Rhombe,uniface.—15 et 9.5 grammes).A.
+
+1729 60 sols..BREDA.OBSESSA.1625.-Mailliet,pl.XVII, No.11.
+
+1730
+
+Id.En plomb.
+
+1731 60 sols.BREDA.OBSESSA.1625.
+
+1732 60 sols.Flan plus large, frappe fautive:.BBREDA.BSESSA.1625米
+
+1733
+
+Mailliet, pl. XVII, No. i0.
+
+60 sols.Frappe fautive:.BRED.OBSESSA.161625米.
+
+1734 40 sols.
+
+- 1735 1625.Piece de 40 sols. Type:les armes du Prince d'Orange,entoures de la legende:Breda obsessa A0 1625.4 Contremarques:40,écusson de la ville, rosace, ecusson de la ville.Mailliet, pl.XVIl, No.13.
+- 1736
+
+(Rhombe,uniface.——9 grammes).A.
+
+61625. Piece de 20 sols. Type: écusson de la ville.Breda obses.1625. (Rhombe,uniface.—3.5 grammes).A.
+2. 1737 1625. Pieces de deux et d'un sou.Type des pieces precedentes, simplife. Mailliet,pl.XVIlI,Nos.15-16.2 pieces. Rhombe,uniface.-Cuivre.
+## GUERRE AUX PAYS-BAS
+
+1672-1673
+
+INVASION DE LOUIS XIV ET DE L'EVEQUE DE MUNSTER.
+
+## DEVENTER
+
+(Assiegee par l'eveque de Munster,1672.)
+
+## Nos.1738a 1742
+
+1672.Serie d'ecus,et de %,%,%d'ecu.Type:Les armes de la ville et la date dans deux incuses.—7 pieces. Rhombes,uniface.- Argent.
+
+1738 Ecu.-Mailliet, pl. XXXVII, No.12. (27.5 grammes).
+
+- 1739 Ecu, coule en cuivre. Avec cette inscription gravee sur le revers en caracteres de calligraphie:Door vyands maght en paaps geweldt Verkeert
+
+ons glans in vierkandt geldt'-Non cite par Mailliet.
+
+- 1740 Demi écu.—Mailliet,pl.XXXVII, No.14.
+- 1741 2 Quarts d'écu differents.-Mailliet,pl. XXXVIl,No.16. (6.5 et 6 grammes).
+- 1742 2 Huitiemes d'ecu differents.—Mailliet, pl. XXXVII, No.17. (3 et 2.5 grammes)
+
+## KAMPEN
+
+(Assiegee par leveque de Munster,1672.)
+
+## Nos.1743a1744
+
+1672. Ecu. Ecusson de la ville,en dessous: Campen. Au revers, en quatre lignes: ,Necessitas altera, 1672". Rond,a deux faces.-—A.
+
+1743 PIEFoRT. Cette piece de double poids est de toute rarete.-Non citee par Mailliet. (58 grammes).A.
+
+- 1744 Poids simple.Mailliet, pl. XXIII, No.9. (31 grammes).A.
+- 1745
+
+## GRONINGUE
+
+(Assiegee par l'eveque de Munster,1672.)
+
+## Nos.1745a1770
+
+1672. Sous cette rubrique nous vendrons une serie unique de monnaies obsidionales de Groningue,dont les revers ont éte gravés a l'epoq ue de portraits, de vues de la ville et d'inscriptions.Mailliet fait figurer quelques pieces pareilles aux planches XLIy et XLV En tout 26 pieces;rhombes.—Argent.
+
+Serie tres remarquable dont on ne trouvera pas aisement la pareille.
+
+Voici la liste:
+
+- 25 sous. Au revers ON A GRAVE UN PORTRAIT DE,CAREL RABEN. HOuDT".Les angles de la piece ornes de trophees graves.-Non citée par Mailliet. A.
+
+Voir planche II.
+
+- 1746 50 sous. Au revers ON A GRAVE UN PORTRAIT-CHARGE DE C. BERENDT VAN GALEN BISSCHOP V.MUNSTER"En tournant la piece, la mitre de l'eveque se change en porc. -Non citée par Mailliet. A.
+- Voir planche II.
+- 1747 a 1752 6 pieces de 50 sous,ayant chacune GRAVEE SUR LE REVERS,
+- UNE VUE DE LA VILLE ET DU SIEGE, differente sur chaque piece, et sur la plupart accompagnee d'une inscription relative au siege.Trois ont encore une INSCRIPTION GRA VEE autour du type a lavers.A. Tres belles pieces, que nous vendrons separement.-Voir planche II.
+- 1753 50 sous. Avec INSCRIPTION GRAVEE:poesie de16lignes,commencant: Doen de viand hadd in Handen. A 1'avers:PINSCRIPTION GRAVEE A. suivante:Groningen constand,Behoudt van 't Landt.
+- 1754 50 sous. AVEC INSCRIPTION GRAVEE:Doen de viandt had in handen, etc. 16 lignes, differant de l'inscription sur la piece precedente. A.
+- 50 sous. INSCRIPTION GRAVEE:les 10 premieres lignes de la poesie A.
+- 1755 qui est sur les pieces precedentes.
+- 1756 50 sous. INSCRIPTION GRAVEE:poesie de 13 lignes, commencant 5m. ——Trouee.A.
+- 1757 50 sous. INSCRIPTION GRAVEE:Doen Bommen Berent deed, voor A. Groningen de mis, men dese penningh sloegh,ete.
+- 50 sous. INSCRIPTION GRAVEE comme sur la piece precedente, A.
+- 1758 mais autrement disposee.
+- 1759 50 sous. INSCRIPTION GRAVEE:Vorst Maximiliaen en Berent Bom van Galen,die quamen met haar voll uit't Schinke-rijk Westphalen...thoen A. sloeg men vierkant gelt,etc.
+- 1760 50 sous. INSCRIPTION GRAVEE:,Groningen is belegert, etc.
+- A.
+- 1761 INSCRIPTION GRAVEE:1672. Dit Jaer bespotte Groningen, A.
+- 1762
+- 50 sous. Twie papen"etc. Signee:G.v. S"
+- 50 sous. INSCRIPTION GRAVEE: poesie de 8 lignes, commencant: "Door Rabenhoudt zijn wijsen Raadt,En Door Eibergens Helden Daat,"etc.A.
+- 1779
+
+## (Groningue,Suite)
+
+- 1763a1770Seriede4piecesde25,de2de121/e,etde2de61%sous,CHACUNE AVEC UNE INSCRIPTION GRAVEE au revers, dans le meme genre que celle qui est sur les pieces de 50 sous, decrite sous la rubrique precedente.-8pieces. Rhombe.—A.
+
+Nous les vendrons par pieces.
+
+- 1771 1672.3 Pieces de 50 sous, differentes,1 piece de 25 sous et 1 de 61%4 sous. Puis1 piece de25 sous en plomb.6 pieces.Mailliet,pl.XLIV,No.6, 11; XLV,No.16.Rhombe,uniface.Pois de Pargent: 106 grammes.
+
+## AMSTERDAM
+
+1672-1673.
+
+Pendant linvasion de Louis XIV dans les Pays-Bas,en l672,les Etats de Hollande permirent aux Magistrats d'Amsterdam de frapper des ducats et des ducatons,avec des barres d'argent de la Banque d'Echange et des objets d'or et d'argent que les habitants avaient apportes comme taxe extraordinaire.Il aurait éte dangereux d'envoyer ces tresors a l'atelier monetaire des Etats a Dordrecht.Ces pieces furent frappees dans le Regulierspoort,
+
+Voir Mailliet, Suppl., pl. 3;v.Loon, III, p. 81 (ed. francaise, p. 75).
+
+Superbe piece a fleur de coin. Provient de la
+
+- 1772 1673. QUINTUPLE DUCAT, au type des ducats des Provinces-Unies, mais avec le petitecusson de laville d'Amsterdam au-dessous dela legende du revers. Sur la tranche, en relief, cette inscription:D:GEDACHTENIS. V:D:MUNTE.V.AMSTERDAM . (15.5grammes).OR.
+
+collection du chateau de Heeswijk.
+
+## Nos.1773a1782
+
+SERIE DE DUCATONS frappes a Amsterdam pendant linvasion des Francais en 1672 et 1673. Type des ducatons de Hollande dont ils portent le nom,mais a quelque endroit de la piece on a ajoute l'ecusson de la ville d'Amsterdam.-10 varietes. A.
+
+- 1773 1672.L'écusson d'Amsterdam coupe la date. A.
+- 1774
+1672. L'écusson ouale au dessous de lecusson de Hollande.PIEFORT, poids 63 grammes. A.
+- 1775 1672. L'ecusson a angles droits au dessous de Pecusson de Hollande.Avec
+
+PIEFORT,poids 64 grammes.
+
+- inscription gravee sur la tranche: TER GEDACHTENISSE VAN DE MVNTVANAMSTERDAM ANNO 16728.
+
+A.
+
+- 1777 1673.Piece CARREE, mais de poids simple:63 grammes.Avec:HOLLAND. A.
+- 1776 1673.PIEFORT CARRE,poids 98 grammes.-Cette piece 1our de, tres bien conservee,est fort rare. A.
+- 1778 1673.Piece CARREE,mais de poids simple:63 grammes.Avec:HOLL.
+- 1780 1673.Frappe fautive, p.e.163 pour 1673, etc. A.
+- A.
+1673. PIEFORT rond, poids 65 grammes.-Fleur de coin. A.
+## (Amsterdam,Suite).
+
+- 1781 1673.PIEFORT rond, poids 65 grammes,avec cette inscription en relief sur la tranche: TER GEDACHTENISSE VAN DE MUNTE VAN A.
+- AMSTEDAM &amp;(Amstedam,au lieu d'Amsterdam!) Tres belle piece a fleur de coin.
+- 1782 1673.Poids simple, avec la meme inscription qui est sur la piece precedente,
+- mais la faute d'Amstedam a ete corrigee ici;on y lit Amsterdam.
+
+## ENKHUYSEN
+
+(1673)
+
+- 1783 1673. Ducaton frappe a Enkhuysen pendant linvasion des Francais. Type des ducatons de Hollande, mais d'un dessin plus fin,et avec lecusson d'Enkhuysen au-dessous de celui de Hollande. Sur la tranche on lit:,Geeft ons ureede Heere in onse dagen."-Mailliet, suppl. pl. 32, No.1. A.
+- A. 1784 La meme monnaie, mais sans inscription sur la tranche.
+- 1785 MAESTRICHT.-1794.Pieces de 100 et de 50 sous,frappees a Maestricht pendant le siege fait par les Francais. Mailliet,pl.76,Nos.17 et 18. (Rond,uniface.—46 grammes).A.
+- 2pieces.
+- 1786 ANGLETERRE.-1803.Monnaies espagnoles contremarquees en A n gleterre en 1803, du buste de George IfI dans un ovale. Cette contremarque (95 grammes).A. 4pieces.
+- 3 Piastres de Charles IV, 1789, 1790 et 1794.-Demi piastre du meme,1794.
+- 1787 ANGLETERRE.—,1804.Piastre espagnole de Charles IV,1799, contremarquee du buste de George IHI dans un octogone (la marque du GoldA.
+- smith's Hall en 1804).
+- 1788 COLBERG, assiegee par les Francais, en 1807.-Pieces de 8,4 et 2 groschen. Inscriptions ecrites sur des cartes, et un timbre au revers.— Papier.
+- Mailliet,I,pl.26.-3 pieces.
+- 1789 Pieces diverses de Middelbourg, Zierikzee,Harlem,Groningue,etc.8 pieces.
+
+Vermeil.
+## SUEDE
+
+(Monnaies des mines,XVIlIe siecle.)
+
+## Nos.1790a1793
+
+Cuivre.
+
+Grandes pieces en cuivre estampe en Suede au XyIlle siecle, pour payer les ouvriers des mines. Type: un morceau de cuivre carre estampe, dans les angles, des signes royaux; au centre, du chiffre de la valeur. 4pieces.
+
+- 1790 1715. Un daler. Les estampilles dans les angles contiennent deux C entrelaces et couronnes, ils entourent le chiffre XII (=Charles XIl) et coupent la date de 1715. Au centre,une estampille en forme de rhombe,renferune cinquieme estampille renfermant l'ecusson de Gothie et la date de
+1727. Piece de 4 Daler. Estampilles dans les angles:FRS (Fredericus rex Suecorum) couronnes et la date de 1727.Au centre:4 daler silf mynt et
+1718. Dimensions 14 X 15.5 cent.Poids 750 grammes.Cuivre. Mailliet (Texte, vol. I,page 422) ne cite pas la date de 1715,et non plus la cinquieme estampille.
+- 17911 deux petites fleches en sautoir.
+
+Mailliet,I,pl.107,et texte,I,page 427,cite une telle piece de 1733.
+
+Dimensions 22.5 X 22.5 centimetres,poids 3kilogrammes.-Cuivre.
+
+- 1792 1747.Daler,au meme type.Dimensions 11.5X15.5 cent,poids 700 grammes.
+- 1793 1758. % Daler,au meme type, mais les estampilles dans les angles contiennent les initiales AFRS(Adolphus Fredericus Rex Suecorum).
+- Mailliet, I, pl.107,No.58(de 1743). Cuivre.
+
+Dimensions 10 X 10 centimetres,poids 350 grammes.-Cuivre.
+
+Mailliet,I, pl.107, No.63 (de 1763).
+## MEDAILLES HISTORIQUES
+
+## MONNAIES HISTORIQUES
+
+## PLAQUETTES MODERNES
+
+- 1794 JETONS HISTORIQUES.- COLLECTIONS DE PIECES DES XVIeET XVIIe SIECLES, PUIS QUELQUES PIECES DU XVIHIe.-PLUS DE
+- 300 PIECES. Cuivre.
+
+Collection interessante,contenant surtout des pieces de Pepoque de la GUERRE DES PAYS-BAS AVECLESPAGNE,AU XVIE SIECLE,pieces frappees aAnvers,a Utrecht,a Middelbourg, etc.
+
+Ces jetons sont surtout recherches pour la representation naive des grands faits militaires et politiques de lepoque. Dans notre collection ces pieces sont en general tres belles; les belles pieces de cette epoque commencent a se faire rares.-Quelques doubles.
+
+- 1795
+- JETONS EN ARGENT se rapportant surtout a la guerre avec PEspagne, (40 grammes).A.
+- dite de quatre-vingt ans.——7 pieces. Nous ajoutons: jetons de cuivre au buste du prince Maurice comte de Meurs,1601 (un peu use),- medaille moderne sur les comtes d'Egmond et de Horne.
+- 1796 1535. Buste de Jean-Frederic duc de Saxe. Au revers, ses armoiries. Frappee en commemoration durenouvellement de la Ligue de Schmalkalden. Restauration d'un petit trou. (53 grammes).Vermeil.
+- 1797 1537.Portrait a mi-corps de Charles Quint,empereur allemand,roidEspagne, tenant sceptre et globe et portant Pordre de la Toison d'or.Au revers,les armes de l'Empereur entre les deux colonnes d'Hercule,avec la devise: Belle médaille; le portrait est execute d'apres un dessin d'Alb. Durer.
+- 1798 1578,Monnaies obsidionales frappees a Amsterdam pendant le siege fait par les Etats. Pieces carrees unifaces,frappees avec l'argent de PAncienne et de la Nouvelle Eglise:40,20 et 5 sols.-3 be1les pieces.
+- (42.5 grammes).A.
+- 17991 1594.Koevorden devestie et Groningue prise par Maurice prince d'Orange. Profil de Groningue et carte du siege.Medailie frappee par ordre des Etats de Frise.-v.Loon,I,448,1 (ed. francaise, 440, 1).(45.5 grammes).A.
+
+Tres bel exemplaire.
+
+- 1800 1597. Bataille de Turnhout, victoire de Maurice, prince d'Orange, sur les Espagnols. Vue du combat. Au revers, les villes de Berg, Meurs, Grol, Brevort,Enschede,Oldenzaal,Lingen,ete.prises par leprince Maurice. v.Loon,I,494,1(ed.francaise,481,1). (47.5 grammes).A.
+
+Superbe exemplaire.
+- 1801 (1597).Les places fortes d'Overysel prises par le prince Maurice.Medaille frappee par les Etats dOverysel.Van Loon,I,494,3 （ed.francaise, 482,3). (32grammes.) A.
+- 1802 (1568-92).Double thaler de Suede,a la figure du roi Jean II,a micorps, couronne et portant epee et globe;entoure d'une bordure de 23 écussons. Au revers,autour de l'ecusson,une legende en trois cercles: Misericord. et verits, etc.—Madai, 200; Schulthess Rechberg, 1963.
+
+Belle piece.
+
+(57 grammes.) Vermeil.
+
+- 1803 1597. Mariage de Christian IV roi de Danemark. Le Roi a cheval, sous un baldaquin porte par quatre personnes. CHRISTIANI GDANI ENORVREGIs A·NAT·1577 ELEG 85 CORO 96 CONIVG:97 MEN: NO 97;en bas VIVATET VALEAT; au revers, Pallas et Pietas se donnent la main; elles sont entourees de onze écussons.— Medaille coulée. (29.5 grammes.) A.
+- 1804 1600. Bataille de Nieupoort. Piece coulée. (22 grammes.) A.
+- dam pour le commerce des Indes Orientales. Aux armes de la ville dAmsterdam.—v.Loon,I, p.553;Verkade,199,1;Netscher et v. d.Chijs,1. (25grammes.)A.
+- 1805 1601. Piece de 8 reaux frappee par laCompagnie van Verre”d’Amster-
+
+La plus ancienne monnaie coloniale des Pays-Bas.-Un bel exemplaire comme le notre est tres rare.
+
+- 18061 1610.Piece obsidionale de5florins frappee a Juliers pendant le siege fait
+- par Maurice prince d'Orange.Piece carree, uniface. (19.5 grammes).A.
+- 1807 1617.Medaille de la province de Westfrise frappee pour celebrer le succes du commerce hollandais aux Indes Orientales.Elle represente un vaisseau avec ladatede1609. (65 grammes).A.
+
+Voir planche IV.
+
+Superbe piece, rare.-Manquait a la collection Volcker.
+
+- 1808 1619.Uytenbogaert,un des principaux ministres remonstrants,cite,quitte les Pays-Bas. Un pressoir d'un cote, de lautre la fable du lion dans sa caverne, et le renard qui n'y veut pas entrer.Jolie medaille par J. W(yntges).——v.Loon, II, 111 (éd. francaise, 112). (52 grammes).A.
+
+Belle piece.
+
+- 1809 1619.La paix retablie aux Pays-Bas, dans 1eglise et dans l'etat. Medaille
+
+Belle piece.
+
+- frappee en lhonneur de Maurice prince d'Orange. Le lion des ProvincesUnies d'un cote; de l'autre, les armes du prince,entoures de l'ordre de la Jarretiere.Par C.W(ynt g e s).—v.Loon, II, 112 (ed.francaise,113). (60 grammes).A.
+- 1810 1619. La meme medaille. Variete de la piece precedente. (55 grammes). A.
+- 1811 (1625). Grand medaillon au buste de Frederic-Henri prince d'Orange,fait II,159,2 (éd. francaise, 158,2).-Diametre 11 centimetres. Cuivre,
+- a Poccasion du mariage de ce prince avec Emilie de Solms.v.Loon, Beau travail AU REPOUSSE.
+- 1812 1645. Prise de Hulst sur les Espagnols par Frederic-Henri prince d'Orange. Vue de la ville et du siege. Au revers, une inscription sur une tablette, entouree d'une couronne de pampre. Par J.Loof f.-v.Loon,II,288 (ed.francaise, 278). (77 grammes). A.
+
+Chef-d'oeuvre de Looff.-S Superbe exemplaire. Voir planche IV.
+- 1813 Vers1625.Quatre petites medailles anglaises,d'un travail tres fin,ressemblant a des pieces gravees, representant des bustes de Charles I'd'Angleterre et de sa famille en riches costumes.Par Simon de Pas.- 4 pieces.
+
+(8.75 grammes).A.
+
+Tres jolies pieces en superbe condition.- Rares surtout en cet etat.
+
+- a.
+
+yoici les details:
+
+- b.
+- Jacques I, avec chapeau; au revers: Charles I, a tete nue.
+- c. Charles I et Henriette-Marie, bustes accoles;au revers,les armes d'Angleterre et de France reunies.
+- Charles I, avec chapeau; an revers:Henriette-Marie de France, son epouse.
+- d.Charles I et Henriette-Marie,bustes accoles; au revers, trois couronnes reunies par deux sceptres.
+
+ouvrage: Ungedruckte Stiche. Materialien und Anregungen aus Grenzgebieten der Kupferstichkunde.Wien,191l, p.323 a 325.1l en dit e.a.:Alle die angefihrten Denkmaler sind Beispiele einer.... Gruppe merkwirdiger gestochener Arbeiten. Die eigentliche Sticherarbeit ist eine muhsame Gravierung in besonders hartem Material, ein Stahlstich,kann man sagen.... Gerade diese Technik scheint eine England eigentimliche zu sein.... Unter den Kinstlern, die diese Arbeiten geschaffen haben, spielt Simon de Passe die Hauptrolle Voir planehe IV.
+
+- Sans date. (vers 1650). Medaille en 1honneur de Guillaume I prince d'Orange. Son buste cuirasse a droite.Au revers, il est assis,le baton de commandement a la main, entre deux conseillers.Belgica libertas viguit virtute Wilhelmi.Medaille AU REPOUsSE par P.v.Abeele.-v.Loon, (67 grammes).A.
+- 1814 I,206 (éd. francaise, 203).
+
+Belle piece.
+
+- 1815 —La meme medaille. Copie de la piece precedente.
+- (76 grammes).A.
+- Vers 1650.Medaille de mariage, travaillee AU REPOUSSE par P.v.Abeele. D'un cote Venus et Cupidon accompagnes de cigognes; de l'autre Junon
+
+"Een hart dat reine liefde draagt "Il kroon oprechte liefd altoos, Met mynen trouring eindeloos".
+
+- 1816 avec ses paons.
+
+Jolie piece,tres bien conservee.
+
+- 1817 1650. Siege de la ville d'Amsterdam par Guillaume II. Vue de la ville prise de iAmstel qui est rempli de bateaux montes de bourgeois armes. "Ons hert en hant is voor het lant." Au revers, un homme a cheval: Hektor"Medaille gravee et nielliee.v.Loon,II,348,2（ed.francaise, 335,2). (30.5 grammes.) A.
+
+Cette medaille interessante fut faite enl652aveclargentprovenant du montant des amendes des Gardes Civiques, seconde brigade, nommee la brigade dHector.-Voir planehe IV.
+
+- 1818 1650. Siege de la ville d'Amsterdam par Guillaume II prince d'Orange. Restauration des Gardes Civiques. Vue de la ville prise de lAmstel. Au revers,la Paix entouree des instruments de la guerre et foulant aux pieds le Dieu de la Guerre.v.Loon, II, 349,1 (éd. francaise, 337,1).
+
+(48 grammes).A.
+
+Medaille d'un travail remarquable AU REPoUssE signé D.v.
+
+RISWYCK.
+
+Voir planche IV.
+
+- Copie, de 1'epoque, de la medaille precedente, sans le nom de A.
+- 18191650.Van Ryswyck.
+
+(39 grammes).A.
+- 1820 1650. Medaille connue sous le nom deHet Hollende Paard." Entreprise mal-reussie de Guillaume II sur la ville d'Amsterdam,et sa mort. Un cheval trottant; sur l'arriere-plan,les Blokhuizen"(maisons fortifiees) sur l'Amstel. Au revers:vue du Vijverberg a La Haye,au moment ou
+- foudre par Jupiter.v.Loon, II,353 （éd.francaise, 341).
+
+Superbe medaille per Seb. Dadler. -Tres bel exemplaire. Conservee dans sa boite originale en ivoire, dans laquelle se trouvent deux poesies de VONDEL (éditions originale s), intitulees: Afual" et ,Overual".
+
+- 1821
+
+(86 grammes).A.
+
+1651. La Grande Assemblee des Etats Generaux pour reviser l'Union d'Utrecht apres la fin de la guerre avec l'Espagne et apres la mort de Guillaume II. Un rocher aux ecussons des Sept Provinces dans la mer. Medaille frappee par ordre des Etats de Zelande, par S.D（a dler).v.Loon,II,362,1(ed.francaise,350,1). (92 grammes).A.
+2. 1822 1653. Mort de Marten Harpertsz. Tromp,le grand amiral hollandais. Son buste (Aet. 56). Au revers, deux griffons tenant son écusson;en dessous, vue du combat avec les Anglais pres de Katwijk,ou l'amiral perit. v.Loon,II, 376,1 (éd.francaise,364,1). (69.5 grammes).A.
+
+Belle piece travaillee AU REPOUsSE Superbe exemplaire.-Voir planche IIf.
+
+par P.van Abeele.
+
+- 1823 1653.Mort de lamiral Marten Harpertsz. Tromp.Medaille AU REPOUSSE,
+
+Waarom doet Muller Tromp door kunst van gout en silver leven: Om dat hij d yzer eeu door krijgsdeugd heeft verdreven.
+
+- montrant son buste entoure d'un trophee d'armes;mijn hert en handt uas voor het land. Au revers, vue du combat naval ou il perit. Avec ces deux vers par Vondel:
+- v.Loon,II, 376,3 (ed.francaise,364,3).
+- (118 grammes).A. Beau travail de Muller.
+- 1824
+
+Beau travail par G. Pool.-Bel cxemplaire.
+
+1655. Inauguration de lHotel de Ville a Amsterdam.La facade. Au revers, une galere (allusion a l'ancien écusson de la ville). Sur un socle les noms des bourgmestres et des secretaires:Huidecoper,Graef,Poll, Spiegel,ulp,Dronkels.v.Loon,II,399,2 （ed.francaise,387,2) (96 grammes).A.
+2. 1825 1655. Inauguration de 1Hotel de Ville a Amsterdam.--La meme medaille. (85 grammes).A.
+
+Exemplaire remarquable,conserve dans sa boite originale contenant deux poemes imprimes de VONDEL (PREMIERES EDITIONS),intitules:Maghtige Neering",，Matige Regeering".
+
+- 1826 1657. Prix de lecole latine de Gouda. Lecusson de la ville entouree
+
+Jolie piece gravee, tres bien conservee. Une piece pareille de 1685 mais bien diffrente, est decrite sous le No.1831 de
+
+- d'une couronne de feuilles.Au revers, une inscription mentionnant le nom de leleve qui avait merite cette medaille,un Franciscus Verboltius, Ant. van der Wolf, Aem.Coolius,et le nom du recteur Joh. Wourdanus. (60 grammes). Vermeil.
+
+ce Catalogue.
+
+- 1827 1662. Double thaler de Brunswic k-Lune bourg, frappe sur un fan large. Le duc Auguste a cheval. Au revers un ecusson a onze quartiers
+
+Belle piece de luxe.-Tres bel exemplaire.
+
+- et cinq heaumes. (55grammes).A.
+- 1828 (1664). Buste a droite de Don Francesco de Moura, gouverneur des Pays-Bas espagnols.Au revers, ses armoiries. Par A. W（aterloos).v. Loon, II, 518,1(éd.francaise,497,1). (diametre 45 millimetres).Cuivre dore. Belle medaille de Waterloos.- Voir planche IV.
+- 1829 1666. Buste de Corneille Tromp, lieutenant-amiral,,Amstels Admiraal" Au revers, scene du combat naval de trois jours entre les Anglais et les Hollandais. —v.Loon,II,550,2（éd.francaise,529,2）.-Avec beliere (84.5 grammes).A. et anneau.
+
+Tres belle medaille travaillée AU REPOUsSE par Muller.-
+
+Voir planche III.
+
+- 1830 1672.Mariage de Leopold I, empereur allemand,et d'Eleonore. Bustes accoles. Au revers, le champ est bien rempli d'ecussons d'armes et d'emblemes. Inscription servant d'acrostiche:Virtute atque Majestate consilio et indu (72 grammes).A. stria"Avec beliere et anneau.
+
+Remarquable travail allemand AU REPOUSsE. Bel exemplaire,rare.
+
+- 1831 1672. Mort tragique des freres De Witt a La Haye. Leurs bustes en regard. Au revers, la populace, representee par des animaux feroces dechirant leurs victimes.Par Avry.v.Loon,III, 87,1 (éd. francaise, 81,1）.
+- (106 grammes).A.
+
+Medaille capitale sur la mort des freres De Witt.- Bel exemplaire.
+
+1672. Mort des freres De Witt. Travail dorfevre AU REPOUsSE, d'apres la medaille decrite sous le No.precedent.Avec anneau. (58 grammes). A.
+2. 1832
+3. 1833 1672. Siege de Groningue, et reprise de Koevorden.Profl de Groningue et carte du siege; au revers, profl de Koevorden.—v. Loon, III, 110,1 (ed. frangaise, i04, 1).-Tres bel exemplaire.
+
+(31 grammes).A:
+
+- 1834 1674. Jubile de cinquante ans du mariage de Nic.van Loon et d'Emmerentia
+- van Veen a Amsterdam.Leurs armoiriers.—Dirks,Repertorium,II,1702. (24 grammes).A.
+- Buste de lAmiral Corneille Tromp. Plaque ovale en plomb travaillee
+- 1835 AU REPOUSSE.-Dimensions 10.5 X 8 cent.
+1677. Medaille obituaire de Jodocus van Lodensteyn, auteur d'un recueil de chansons religieuses reste populaire pendant deux siecles.Il mourut
+
+(34 grammes).A. Piece gravee tres rare.- Un autre exemplaire est decrit dans le
+
+- 1836 pasteur a Utrecht. Inscriptions gravees des deux cotes.
+
+Catalogue du Cabinet royal de La Haye, No. 1249.
+
+- 1837 1678. Paix de Nimegue. Vue de la ville et representation allegorique. Medaille AU REPOUSSE d'apres la medaille de J. van Dishouke (v. Loon, (45 grammes).A. III,p.248,1).
+- 1838 1683. Vienne assiegee par les Turcs et secourue par Leopold I.Vue du siege:du Adler Sitz Gott ist dein Schitz, eto. Au revers, une inscription, (37 grammes). A. et un petit portrait de Léopold I. - Racz.236. Belle piece.
+- 1839 1685. Prix de 1ecole latine de Gouda. Lécusson d'armes de la ville,au revers une inscription,mentionnent l'eleve a qui cette medaille fut accordee, savoir Petrus Smientius, les noms des bourgmestres: Arn.Vossenburg, Hugo van der Werve, Hugo van Stryen, Joh. van der Does,et le nom du (61 grammes). Vermeil.
+
+Remarquable piece gravee, superbement conservee. Elle differe beaucoup d'une piece pareille de 1657, voir le No.1820 de Catalogue.
+
+- recteur Joh. Verwey.
+- 1840 1686. Mort de Joan Speelman, Ridder Baronet. Armoiries. Au revers, allegorie.—Cat.Cabinet de La Haye,No.1379. (67 grammes).A.
+- 1841 1694.Medaille obituaire de Christijna Vogels, epouse de Bernt Harskamp. Elle naquit en 1614, et se maria en 1640. Inscriptions gravees des deux cotes.
+- (28 grammes).A. Piece gravee de toute rarete.
+- 1842 1696.,Aansprekersoproer”a Amsterdam, Neptune composant les vagues.
+
+Medaille par A(rondeaux),offrant de petites diferences avec la medaille de Boskam figuree par y.Loon.
+
+- Au revers,le nid des alcyons. Medaille offerte aux gardes civiques et aux volontaires.Par A（rondeaux).-Comparez v.Loon,IV,161,1（éd. francaise,221, 1);Cat. Cab. de La Haye,No.1819. (74.5 grammes).A.
+
+Exem plaire remarqua ble, sur la tranche duquel on a grave linscription 1696 Jacob Hendrickse Kardinaal*3
+
+Fleur de coin.
+
+- 1843 1702. Premiere fete seculaire de la Compagnie hollandaise des Indes Orientales. Une femme (la Compagnie) tient une epee, couronnee d'une guirlande (les armes de la ville de Batavia).Au revers,un vaisseau dont les rames sont maniees par des guerriers portant des boucliers aux armes des v.Loon,IV,304(ed.francaise,359). (123 grammes).A.
+
+Belle piece capitale par Arondeaux.
+
+- 1844 1742.Depart du baron G. W.van Imhof,Gouverneur des Indes Orientales. Son portrait, aet. 37.Au revers, un vaisseau.Par M.Holtzhey.—Supple ment dc Van Loon, 170. (50 grammes).A.
+- 1845 1776. Prise de la ville de Boston par George Washington. Son buste.
+- Revers, vue de la ville. Par Du Vivier. (Diametre 69 millimetres).B
+- 1846 1778. Premiere assemblee de la societe Oeconomische Tak"a Harlem. Vue de la salle de 1'assemblee.Praes. Mr. C.A.van Sypesteyn".Par J.G.Holtzhey.Suppl. de Van Loon,No.531. (38grammes).A.
+- 1847 1781. Bataille de Doggersbank.4 Belles medailles sur cet evenement, dont une au buste de Willem Krul, une autre au nom des capitaines Zoutman, Kinsbergen,Bentinck et autres.—Etc.4 pieces. (81 grammes).A.
+- 1848 1782. John Adams est recu par les Etats de Frise en qualite d'ambassadeur des Etats-Unis d'Amerique. La figure en pied de John Adams.Il donne la main a une femme representant les Etats-Unis. Elle tient un Medaille offerte par la Societe Door Vrijheid en IJver"a Leeuwarden. Par B. C.v.Calker.—Supplement de v.Loon, 571; Betts,602.
+
+dans le Tidschrift voor Munt-en Penningkunde,1910.
+
+(31 grammes).A. Voir sur lhistoire interessante de cette medaille,larticle illustre de M. S.Wigersma Hzn.
+
+- 1849 1782. Alliance entre les Etats-Unis d'Amerique et les Pays-Bas. Medaille de la ville d'Amsterdam,La renommee dans les nuages tenant les ecussons des Etats-Unis et des Pays-Bas.Faustissimo foedere junctae." Par J.G.Holtzhey.—Supplement de v.Loon, 575;Betts, 604.
+- 1850 —La meme medaille, plus petite.— Supplement de v. Loon,Tome VIII, page 178.-Fleur de coin. (13 grammes).A.
+
+(24 grammes).A. Superbe exemplairea fleur de coin. -Tres rare en cetetat.
+- 1851 1791. Medaille obituaire de J. B. van Schorrenbergh,cure de PEglise catholique ,de Pool"a Amsterdam.Grande medaille ovale,avec des
+
+(76.5 grammes).A.
+
+- inscriptions gravees; dans une bordure perlee, et avec anneau.
+
+Belle piece, non citee dans le Supplement de Van Loon.
+
+- 1852 1799.Monument funeraire de Guillaume-George-Frederic,prince d'Orange, mort a Padoue. Estampe imprimee sur soie.pet.in-folio.27 X19.5cM.
+- 1853 droite;au revers ses armoiries, lecusson de Hollande porte par laigle imperial, sur deux sceptres en sautoir.—Millingen,No.35s;Nahuys, No.3. Cuivre dore.
+
+Belle piece, rare.
+
+- 1854 1813. Medaille en guise de boite, en etain,par Th. Stettner, contenant dans linterieur une suite de 12 petites estampes coloriees avec autant de feuilles de texte grave, representant les principaux evenements militaires de Pannee 1813, bataille de Leipzig, etc. Etain.
+- 1855 1S15. Medaille en guise de boite,en etain, par Th. Stettner,renfermant une jolie suite de 16 petites estampes circulaires,coloriees,representant les evenements de 1815,Waterloo, etc.Dans sa boite originale sur laquelle on a colle une estampe au meme sujet. La boite contient encore un petit livre a texte hollandais expliquant les sujets des estampes.
+
+Nous ajoutons:Un bulletin du s Gravenhaagsche Courant" annoncant l'arrestation de Napoleon,26 juin 1815.
+
+- 1856 Vers 1820. Buste en haut relief,a droite, de ,Wilhelm Friedrich Karl,
+- Prinz der Niederlanden, geb.d. 28sten Februar 1797"Plaque en fer. Diametre 8.6 centimetres.
+- 1857 Vers 1820.Buste en haut relief a droite,d',Anna Poulowna Kronprincess
+- der Niederlande'.Plaque en fer.-Diametre 8.4 centimetres.
+1829. Medaille portative du Scheibenschitzen-Gesellschaft in Dresden,neu begrindet im Jahre 1829. Andenken fir den Konigsschuss".Buste d'Anton,roi
+
+(26 grammes). OR
+
+- 1858 de Saxe. Au revers, armes et instruments.- Avec ceillet.
+
+Jolie medaille. Un des rares exemplaires de luxe frappes enor.
+
+Fleur de coin.
+
+- 1859 1845. Erection de la statue equestre de Guillaume I prince d'Orange.Vue de la statue, et buste de Guillaume II. Par G. Boutet. (200 grammes). A.
+1898. Couronnement de la Reine Wilhelmina.- Hommage a la ReineRegente,mere de la Reine.— Deux plaquettes, dont une en etain,
+- 1860 uniface; lautre en bronze, a deux faces.—2 pieces.
+- 1861 Premiere Conference de la Paix a La Haye. Buste de la Reine Wilhelmina, au revers scene allegorique. Jolie plaquette par Begeer a Utrecht.— (132 grammes).A.
+- 64X 86millimetres. Une des plus jolies plaquettes publiees aux Pays-Bas pen-
+
+dant cesdernieres annees.
+
+- 1862 1901. Guerre des Republiques sudafricaines comparee a la guerre des PaysBas avec l'Espagne dite de quatre-vingt ans. (13.5 grammes).A.
+- 1863 SOCIETE HOLLANDO-BELGE DES AMIS DE LA MEDAILLE D'ART. Collection de medailles et de plaquettes publiees par cette societe, puis quelques autres medailles du meme genre. 18 pieces (17 en cuivre et une en argent).
+
+On y voit e.a.: Buste du Dr.H. J.de Dompierre de Chaufepied,par Toon Dupuis. Buste de Vietor de Stuers,par L. Jinger. 1900. Buste de Marie-Henriette, reine des Belges,par J.Jourdain.1902. Buste du Comte de Flandre, 1905,par Louis Dupuis. Buste de M. Azn. de Ruyter, 1907,par J. J.van Goor. Pro Pace, par H.P.Le Roy. Etablissement du pouvoir neerlandais aux Indes,1902,par Faddegon. Lhistoire maritime des Pays-Bas, par J. Wienecke.1900. Le vin et la biere, par F.J. Werner.1906. Bruxelles port de mer, par Paul du Bois. 1903. Etc.
+
+- portant a la Maison d'Orange.Bustes de Guillaume Vet de sa femme,
+- 1865 Medailles portatives et insignes,XVIIe et XIXe siecles,en argent, serap-
+- Guillaume I roi etc.-8 pieces. (132 grammes).A.
+- La Haye,1835.-Etc.8 pieces. (Env.50 grammes).A.
+- 1866 Diverses medailles en argent du XVIIe au XIXe siecle.24 pieces. (340 grammes).A.
+
+Cardinal de Milan.150o.-Medaille commemorative sur les Mennonites a Amsterdam. Sur le Saayhal,174l,et diverses autres pieces se rapportant a Amsterdam.-
+
+- 1867 Medailles et jetons historiques divers. XVIe-XIXe siecles.9 pieces. (150 grammes).A.
+
+Jolies medailles miniatures sur Napoleon.—Etc.
+
+a Utrecht.1697.Paix de Ryswyck.1884.Buste de Joh.van den Bosch,
+
+- 1868 Medailles diverses coulees. 5 pieces. (125 grammes). A.
+
+gouverneur-general des Indes Orientales.—— Ete.
+
+- 1869 Medailles Russes: 1728.Buste de Pierre II couronne empereur. Par I.G. I-Buste d'Anne,imperatrice.Par Tim.Iwanow d'apres Hedlinger. -1739.Buste d'Anne, imperatrice.Par S. Oudine dapres Hedlinger.— 1768. Fondation de la Societe economique par Catherine II. Son buste. D'apres D.B.Gass.Etc.5 pieces. Cuivre.
+
+I.G.Jaeger.Plomb.
+
+Nous ajoutons: Grande medaille au buste de Pierre Alexandrowitch, general, par
+
+- 1870 Personnages historiques des XVIe et XVIIe siecles.-Diverses medailles en cuivre et en étain a portraits.6 pieces. B.
+- 1871 COLLECTION DE MEDAILLES ET DE MONNAIES EN CUIVRE,du XVIle au XIXe siecle.75 pieces. B.
+
+Citons:2 medailles au buste du Prince Maurice, dont une de forme ovale.Bustes de Guillaume le Taciturne et de Charlotte de Bourbon.-Mariage de Guillaume II et de Marie d'Angleterre.- Etc.
+
+Citons: Medaille au buste de Christine,reine de Suede.J. Colerus,pasteur a
+
+- 1872 RUBANS portes pendant la Revolution francaise et pendant le regne de Guillaume I:a representations symboliques, portraits et inscriptions.
+
+Amsterdam au XVIIe siecle.-Pierre Le Grand. Alexandre von Humboldt. Bilderdijk.-Medaille sur Van Speyk.2 pieces satyriques sur J.Hilman, commissaire du Theatre a Amsterdam,en 1873.—Monnaies de necessite de la Suede.— Une serie de 1l diferents projets pour une piece de vingt francs de France.1848. Etc.Etc.
+
+- 5 pieces en soie de diverses couleurs.
+## MEDAILLES DES CHEMINS DE FER
+
+- 1873 GRANDE COLLECTION DE MEDAILLES SE RAPPORTANT AUX ORIENTALES.1826-1897.
+
+Elles ont ete frappees a des inaugurations,a des jubiles, a des poses de premieres pierres de ponts et de gares,etc.
+
+On y remarque des ceuvres d'artistes tels que A. Bovy, Caque, E.Dubois,les Wiener,Loos, Hart,e.a.
+
+Elles contiennent des bustes de princes (Pie IX,Louis-Philippe, Napoleon III, Victoria reine d'Angleterre,Guillaume I empereur allemand, etc. etc.),bustes d'ingenieurs, vues de ponts, de tunnels,de gares, de locomotives, etc.
+
+Ensemble 76pieces, dont 13 en argent (poids de l'argent 605 grammes). Voici la liste:
+
+## ALLEMAGNE (12 pieces.)
+
+| a.    | 1841.                                                                                              | Strasbourg-Bale.                                                                                   |                                                                                                    |
+|-------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| b.    | 1844.                                                                                              | Nuremberg-Bamberg.                                                                                 |                                                                                                    |
+|       | 1844.                                                                                              | Berlin Exposition.                                                                                 |                                                                                                    |
+|       | 1852.                                                                                              | Strasbourg.                                                                                        |                                                                                                    |
+|       | 1855.                                                                                              | Breslau. Congres.                                                                                  |                                                                                                    |
+| ef    | 1858.                                                                                              | 1000sten Locomotive par les Borsig.                                                                |                                                                                                    |
+|       | 1859.                                                                                              | Cologne-Mayence.                                                                                   | BBBP                                                                                               |
+|       | 1870.                                                                                              | Konig Wilhelms Rhein-Eisenbahnbrucken.                                                             |                                                                                                    |
+| i.    | 1885.                                                                                              | Nuremberg-Furth. Jubile de 50 ans.                                                                 |                                                                                                    |
+| j.    | 1892.                                                                                              | Schiltech-Schramberg.Carree.Etc. ANGLETERRE(3 pieces.)                                             | B.                                                                                                 |
+| lc.   | 1830.                                                                                              | Liverpool-Manchester. Gare a Liverpool,viaduc traversant                                           | Liverpool-Manchester. Gare a Liverpool,viaduc traversant                                           |
+| 1.    |                                                                                                    | le canal Sankey. Etain.                                                                            |                                                                                                    |
+|       | 1846-50. Buste de R. Stephenson, et viaduc de Carnarvon a Anglesy.Etc. AUTRICE-HONGRIE (7 pieces). | 1846-50. Buste de R. Stephenson, et viaduc de Carnarvon a Anglesy.Etc. AUTRICE-HONGRIE (7 pieces). | 1846-50. Buste de R. Stephenson, et viaduc de Carnarvon a Anglesy.Etc. AUTRICE-HONGRIE (7 pieces). |
+| m.    | 1839.                                                                                              | Vienne-Brunn.                                                                                      | Etain.                                                                                             |
+|       | 1848.                                                                                              | Vienne-Prague.                                                                                     |                                                                                                    |
+| 0.    | 1850.                                                                                              | Triest.                                                                                            |                                                                                                    |
+| p.    | 1851.                                                                                              | Prague-Dresde.                                                                                     |                                                                                                    |
+| q.    | 1857.                                                                                              | "Oesterreichische Sudbahn.Double thaler a fleur de coin.                                           |                                                                                                    |
+| r.    | 1883.                                                                                              | Arlberg-tunnel.                                                                                    |                                                                                                    |
+| S.    | 1897.                                                                                              |                                                                                                    |                                                                                                    |
+|       | BBBABA Hongrie. 2 pieces. BELGIQUE (20 pieces.)                                                    | BBBABA Hongrie. 2 pieces. BELGIQUE (20 pieces.)                                                    | BBBABA Hongrie. 2 pieces. BELGIQUE (20 pieces.)                                                    |
+| t.    | 1834                                                                                               | 35.Systeme de chemin de fer.2 pieces.                                                              | A.et B.                                                                                            |
+|       | 1835.                                                                                              | Colonne inaugurale des chemins de fer.                                                             | BABBD                                                                                              |
+|       | 1835.                                                                                              | Bruxelles-Malines.                                                                                 |                                                                                                    |
+| V.    | 1836.                                                                                              | Anvers.                                                                                            |                                                                                                    |
+| w.    | 1837.                                                                                              | Gand.                                                                                              |                                                                                                    |
+|       | 1839.                                                                                              | Embranchements du canal de Charleroy.                                                              | B.                                                                                                 |
+| y. 2. | 1843.                                                                                              | Verviers-Aix-la-Chapelle.                                                                          | Bronze dore.                                                                                       |
+| aa.   | 1843.                                                                                              | Chemin de fer belge-rhenan.                                                                        | C.                                                                                                 |
+| 66.   | 1843.                                                                                              |                                                                                                    | BBBBBBB                                                                                            |
+|       |                                                                                                    | de fer belge.                                                                                      |                                                                                                    |
+| CC.   | 1844.                                                                                              | Anvers-Cologne.Premier anniversaire.                                                               |                                                                                                    |
+| dd.   | 1846.                                                                                              | Bruxelles-Paris.2 Modules.                                                                         |                                                                                                    |
+| ee.   | 1847.                                                                                              | Lichtervelde.                                                                                      |                                                                                                    |
+| f.    | 1854.                                                                                              | Ipres.                                                                                             |                                                                                                    |
+| gg.   | 1857.                                                                                              | Binche.                                                                                            |                                                                                                    |
+|       |                                                                                                    | Jubile du systeme des chemins de fer de 1834.                                                      |                                                                                                    |
+
+hh.
+
+1859.
+
+BBBBBBB
+(Suite).
+
+| i.        | 1859.             | Buste de P. Simons érige.                                                                                                  | B.                 |
+|-----------|-------------------|----------------------------------------------------------------------------------------------------------------------------|--------------------|
+| ji.       | 1879.             | Tournay.2 Modules. FRANCE (15 pieces.)                                                                                     | C.                 |
+| kk.       | 1826.             | A.et B.                                                                                                                    | A.                 |
+| ll.       | 1835.             | St.Etienne-Lyon. Paris-St. Germain.2 Pieces.                                                                               |                    |
+| mm.       | 1838.             | Paris-Orleans.Octogone.                                                                                                    |                    |
+| nn.       | 1842-             | -43.Chemins de fer et bateaux a vapeur sous les auspices de Louis-Philippe.3 Pieces,dont 1 par Bovy d’un diametre          | A.                 |
+| 00.       | 1844.             | de 112 mM, la plus grande medaille francaise. Marseille-Avignon.                                                           | B.                 |
+| pp.       | 1846. 1851.       | Chemin de fer de ceinture.                                                                                                 | BOBBBBBB           |
+|           |                   | Chemin de fer du Nord.                                                                                                     |                    |
+|           | 1854.             | Paris-Dijon.                                                                                                               |                    |
+| qq. rr.   |                   |                                                                                                                            |                    |
+| CCC.      | 1858. 1839.       | 1847-97. St.Petersbourg.                                                                                                   | B.                 |
+| 88.       | 1854. 1855.       | Paris-Strasbourg. Paris-Espagne.                                                                                           |                    |
+| tt.       |                   | Paris-Mediterranee.                                                                                                        |                    |
+| ul.       | 1855.             | Napoleon III.                                                                                                              |                    |
+|           |                   | Les quatre dernieres pieces par A. Bovy,au buste                                                                           | de B.              |
+| vv.       |                   | Lyon--Geneve. ITALIE (5 pieces.)                                                                                           |                    |
+| ww.       | 1841. 1846. 1884. | Pont de Venise.2 pieces. Rome.2 pieces. Tunnel sur la route de Rome-Solmona.                                               | C.et B. A.et B. B. |
+| yy. 22.   | 1858.             | LUXEMBOURG. Buste de V. Tesche.                                                                                            | B.                 |
+| aaa, 666. | 1872.             | Middelbourg. Flessingue.                                                                                                   |                    |
+| ddd. eee. | 1864. 1873.       | PAYS-BAS (7 pieces.) Premier chemin de fer hollandais (Amsterdam-Harlem). 2Pieces. A.et B. Chemins de fer de l'Etat.       | E. B. B.           |
+| ff.1      | 1889.             | Jubile du cinquantenaire du premierchemin de fer hollandais. 2 Pieces. A.et B. PORTUGAL. 1856. Lisbonne.                   |                    |
+| ggg.      |                   | RUSSIE (2 pieces.) 1857."Warszawsko-Bydgoskiej". Grande medaille en argent.A. SUEDE. iii. 1871. Buste de G.W.von Francken. |                    |
+|           |                   | REPUBLIQUE SUDAFRICAINE. Chemin de fer de la baie Delagoa, Buste de Kruger.B.                                              | B.                 |
+|           |                   | INDES ORIENTALES (2 pieces.)                                                                                               |                    |
+|           |                   | "East Indian Railway”. Grande medaille en argent.                                                                          |                    |
+|           |                   |                                                                                                                            | A.                 |
+|           | 1860.             |                                                                                                                            |                    |
+|           |                   | chemins de fer des Indes neerlandaises.                                                                                    | B.                 |
+|           |                   | Les pieces sont superbement conservees, presque tout est                                                                   |                    |
+|           |                   | afleur de coin. Les pieces se rapportant au meme pays serontven-                                                           |                    |
+|           | dues ensemble.    |                                                                                                                            |                    |
+|           |                   | Jubile de 25 ans de G.C.Daum,president du Comite des                                                                       |                    |
+|           | 1897.             |                                                                                                                            |                    |
+|           | lll.              |                                                                                                                            |                    |
+|           |                   | B.                                                                                                                         | B.                 |
+|           | 00.1895.          |                                                                                                                            |                    |
+|           | kkk.              |                                                                                                                            |                    |
+|           | hhh.              |                                                                                                                            |                    |
+## MEREAUX
+
+## PLAQUES DE GILDES,ETC.
+
+- En forme de cartouche,richement orne; on voit au milieu la deesse Minerve dans un paysage;le marli est orne: en haut, des figures de Junon et de Venus;a gauche et a droite, de deux tetes de lions; et en bas,d'une tete de cherubin; des feuilles,fleurs, fruits et oiseaux, deux cornes d'abondance completent lornementation.Signee:Paulus de Viana fecit et inve".—Dimensions 11.5 X 8 millimetres. (75 grammes).A.
+
+Interessant travail d'orfevre parfaitement conserve.
+
+Cette plaque aurait servi d'insigne aux etudiants d'Utrecht.
+
+- 1875 1651. Mereau d'entree du Theatre d'Amsterdam,au nom du commissaire Jac. Jacz. Hinloopen. Door IJver in liefd'bloeyende 1637.(devise des deux vieilles Chambres de Rhetorique reunies).Ovale.
+
+(29.5 grammes).A.
+
+Jolie piece ornee, qui, dans son dessin, rappelle les ornements de LUTMA.
+
+- 1876 1662.Piece pareille, mais avec la devise IJver 1637" Au nom de J.v.Poel.Ovale. Cuivre. Belle piece.-Voir planche IV.
+- 1877 1673. Plaque d'une gilde de charpentiers, gravee des deux cotes; a l'avers, d'outils du metier; au revers, de deux petites figures representant Lubbert Nollen Conick et sa femme Hilletien Dircks. Dans un cartouche; de forme polylobee, dimensions 97 X 77 millimetres.(35 grammes). A.
+- 1878 1682.Piece de deux forins a la statue de la Liberte,et a Pecusson de Westfrise, frappee sur un large fan carre a Medem blik (dimensions: 48X 48 millimetres).-Verkade,68, 2.-Premier coin.
+
+(52.8 grammes).A.
+
+Tres belle piece, dont on a fait un mereau obituaire: sur les quatre angles vides du carre on a grave,
+
+a l'avers:
+
+Anna Schagens Gedach tenis au revers:
+
+Obit den 25 Januarij 1684.
+
+- 1879 AMSTERDAM.-COLLECTION DE MEREAUX des gildes et corporaC.
+- tions d'Amsterdam. XVIIe et XVIIle siecles.-19 pieces.
+
+Collection remarquable, documents interessants de l'ancienne organisation des metiers.
+
+Les pieces,coulees,rappeeou gravees,sannexent,parleurs representations,ax cuvres de l'art populaire.On y remarque des mereaux des:
+
+Eloyengild,Kompas en Zeilenmakers,St.Lucasgilde, Spek of Varkensslagers,Tuf- dragers,Vischkoopers,Wagdragers,plaque portative des employes au Zeerecht”et.
+
+- AMSTERDAM.-- Grande collection d'insignes et de plombs se rapportant a diverses societes et clubs d'Amsterdam,expositions, fetes, etc.-Plus
+- 1880 de 60 pieces dont plusieurs en argent.
+- 1881 MIDDELBOURG. COLLECTION IMPORTANTE DE BEAUX MEREAUX des gildes de Middelbourg, datant du XVIIe siecle.13 pieces (dont 12 en cuivre et 1 en plomb).-Voir Dirks, pl. LXI-LXXIII.
+
+relative au metier.
+
+COLLECTION INTERESSANTE,LES PIECES ETANTD'UNE CONSERVATION EXCELLENTE. Cette collection constitue un beau document sur les metiers au XVIIe siecle. Les pieces portent les noms des doyens de chaque gilde et une représentation
+
+On y remarque les metiers suivants:
+
+Fruiteniers.1691.——Dirks,12.
+
+Bakkers.1656.—Dirks,6.
+
+Houtzagers.1621.-Dirks,14.
+
+Oudekleerkoopers. Sans date.—Dirks,32.
+
+Kuipers.1640.—Dirks,24.
+
+Schoenmakers.1662.—Dirks,35.
+
+St. Lucasgilde. 1618. —Dirks,41 (Dirks donne la date erronnee de 1678).
+
+Schoolmeesters.1628.—Dirks,37.
+
+Id.1653.Dirks, page 371.
+
+Timmerlieden.1671.—Dirks,45.
+
+Smeden.1690.-Dirks,42.
+
+Vettewariers. Sans date.—Dirks,59.
+
+Nous les vendrons par piece.
+
+Lakenkoopers.1689.-Dirks,62.
+
+- 1882 MIDDELBOURG. "SCHEPENLOODJES".Jetons de presence du Magistrat, des XVIe et XVIIe siecles.-De Man, Zeeuwsche loodjes, pl.I,2,3,5-9.-7pieces. Plomb.
+- 18331
+- Medailles municipales de La Haye (2 pieces differentes), de Dokkum et de Leyde.4 pieces. (63 grammes).A.
+- 1884 Mereaux de Gildes.-3 pieces en cuivre. 1654.St.Lucasgilde.——Hortus Botanicus d'Amsterdam.——Brandspuit van Amsterdam.
+- 1885 AMSTERDAM.- COLLECTION DE CACHETS MATRICES employes
+
+Argent (poids 76 grammes), cuivre et fer. Collection interessante de pieces originales,la plupart datant de l'epoque de Napoleon.
+
+- par des colleges officiels a Amsterdam.14 pieces.
+
+On y voit p.e. les cachets: Kapitein ter zee, kommandant van het korps Mariniers" vers 1820.Gemeentebestuur der Hoodstad,cachet employe pendant le gouvernement de Louis-Napoleon, aux armes du Royaume de Hollande (argent, 14 grammes). (Amsterdam)"."Etat Major general".—— "Spinhuis",argent,14 grammes. Cachet de Mattheus Teunise Koymans (Armoiries),argent, 33.5 grammes.—— etc.
+
+- 1886 Deux bagues a cachet en cuivre et deux cachets en cuivre et en fer
+- (scenes allegoriques et armoiries).——4 pieces. B.
+- 1887
+- Balance de monnaie en cuivre a ladresse de Jecker a Paris. Dans une boite en acajou, commencement du XIXe siecle.
+## MONNAIES
+
+- 1888 BRABANT.-Florin d'or Philippe de la minorite de Charles.Quint (1506-15), frappea Anvers. (4 grammes) OR.
+- BRABANT.-1637. Piefort de quadruple poids d'un ducaton,frappe
+- (128 grammes.)A. Sur la tranche on a grave en caracteres calligraphies:
+- 1889 a A n vers. Buste a droite, sans fraise. -De Witte, 1001.
+
+1690
+
+2m
+
+Davidt
+
+14d Vrints, der Mlaoten,
+
+Berlieuan
+
+Anna
+
+- 1890 ESPAGNE.—1772. Escudillo doro, au buste de Charles III.
+
+yupuf
+
+- (1.2 gramme.) OR.
+- 1891 ETATS-UNIS D'AMERIQUE.-1856.Dollar.
+- OR.
+- 1892 FRANCE. - 1809. Piece de quarante francs au buste de Napoleon OR. empereur.
+- 1893 FRANCE. 一
+1864. Piece de cinq francs au buste de Napoleon III OR. empereur.
+- 1894 FRISE.—1738. Sou au faisceau de fleches. EN OR. (2 grammes). OR.
+- GUELDRE.- 1607. Demi cavalier d'or.Le lion tient sic fleches au lieu OR.
+- 1895 de sept.-Variéte inedite. Fleur de coin. Tres rare en cette conditon.
+- 1896 HAINAUT.- Gros au cavalier, de Marguerite de Constantinople. A.
+- 1897 HOLLANDE.-Demi écu ou clinlaert,de Philippe le Bon(1425-28).v.d. Chijs, pl. XII, No. 4.-Deux fois troue. (1.25 grammes).OR.
+- HOLLANDE.-1587. Unierijksdaalder aux six ecussons reunis.Le buste laure de Leicester tenant une glaive et sept feches.Verkade,46,1.A. Rare.- Belle piece.— Cette monnaie na que les ecussons de siz
+- 1898 provinces, Groningue n'etant pas encore entree dans lUnion.
+- 1899 HOLLANDE.-1740. Sou au faisceau de fleches. EN OR. (2 grammes). OR.
+- ROYAUME DE HOLLANDE.-1806.Ducat,a 1ancien type.-Ver (3.5 grammes). OR.
+- 1900 kade, 98,4;Nahuys, 45.
+- 1901
+- ROYAUME DE HOLLANDE.-1809. Ducat au buste de Louis-Napoleon et a lecusson du royaume. (3.5 grammes).OR.
+- 1902
+- ROYAUME DE HOLLANDE.-1809. ESSAI d'une piece de dix sous. Avec une inscription sur la tranche.Verkade, 194,5; Nahuys, 59. A.
+- 1903 INDES ORIENTALES NEERLANDAISES.-1802.ESSAI EN OR d'un forin frappe a Enkhuizen.Netscher &amp; v. d. Chijs,32;Verkade,1117.(12.5 grammes). OR. Fleur de coin.
+
+Superbe pieee de luxe.
+
+met
+1904 KAMPEN.-ESSAI CARRE FRAPPE EN PIEFORT, d'un ecu a laigle Marque monetaire: rosace. Avec CAMPENsIs
+
+Superbe piece.- Cette piece compte, par sa conservation, parmi les plus belles monnaies des Pays-Bas qu'on puisse se procurer. -Voir planche Iv.
+
+au nom de Rudolphe II. (1576-1612). Au revers, le chateau de Kampen. Voir Verkade,160,1. (58 grammes).A.
+
+1905 PAYS-BAS.-1825.Ducat. (3.5 grammes).OR.
+
+1906 PAYS-BAS.- 1827. Piece de cinq florins au buste de Guillaume I, frappee a Bruxelles. OR.
+
+1907 PAYS-BAS.- 1840. Piece de dix forins, au buste de Guillaume I, frappee a Utrecht. OR.
+
+1908 PAYS-BAS. - 1840. ESSAI d'un florin. Nouveau buste de Guillaume I, a droite,par J.P. Schouberg d'apres Royer.Fleur de coin. A.
+
+1909 PAYS-BAS.-1849.ESSAI d'un dubbeltje.-Ra re. A.
+
+1910 PAYS-BAS.- Divers écus et pieces de trois florins des Pays-Bas. (Batenbourg,sHeerenberg, Dieren,Nimegue,la Compagnie des Indes Orientales, etc.)-1l pieces.
+
+1911
+
+1912 PRUSSE.1755. Friedrichs d'or, au buste de Frederic II.
+
+(300 grammes).A.
+
+PAYs-BAs.-Monnaies diverses des Pays-Bas, ducatons, pieces de trois florins, écus et pieces plus petites.— 35 pieces. (340 grammes).A.
+
+(7.5 grammes).OR,
+
+1913 Monnaies du Moyen-Age. 15 pieces. (25 grammes).A.
+
+1914 Monnaies en Argent de divers pays, parmi lesquelles plusieurs thalers dAllemagne (Schlick,1645.- Saxe,1630.—Brunswick-Lunebourg,a 1'homme sauvage,1607.—etc.).-12 pieces. (200 grammes).A.

@@ -1,0 +1,1349 @@
+## Arbeiten in Steingut,Thon, Fayence,Majolika
+
+<!-- image -->
+
+- 1 Henkelkrug mit breitem, mittlerem Fries,der unter Bogenstellungen einen Bauerntanz en relief zeigt. Darunter: BLAES· LERRE·BRUICH·UNND·HAREN·KRANSSEN·Den geraden Hals umzieht ein von Vogeln belebter Fries, von drei Buisten enthaltenden Medaillons durchsetzt. Rarener Fabrikat. Hohe 24, Diam.13cm.
+
+a
+
+- 2 Masskrug mit Zinndeckel und -Fuss. Die cylindrische Leibung ist gelbglasiert und wird voneiner Blumenranke umzogen. Letztere ist teils blauglasiert, teils aus weisser Perlmusterung gebildet. Auf dem Deckel die eingravierten Buchstaben RG und
+- die Jahrzahl 1723. Hohe 21,Diam. 11,5 cm.
+- 3 Mannliche Biste aus Terrakotta. XVll. Jahrhundert. Hohe 47,
+- Breite 37 cm.
+- Mm 4 Tiroler Weinkanne aus gringlasiertem Thon mit Schnabeldltd muindung in Form eines Vogelkopfes. Auf der Leibung die reliefierten Buchstaben A D R. Hohe 24,Diam.12 cm.
+- 5 Ofenkachel mit gegeneinander gekehrtem Centaurenpaar, eine aus einer Herzfigur erwachsende Blattstaude haltend.In bunter Ausfuhrung. Hohe 19, Breite 25 cm.
+- 6 Fayence=Tafelaufsatz und zwei Standleuchter mit gewundenem Schaft auf rundem,ebensolchem Fusse, in Blau bemalt. Der Aufsatz mit ovaler, muschelformig bossierter Schale, deren Rand in Blau bemalt ist. Als Trager der Schale eine mannliche und eine weibliche Figur, die sich den Ruicken zuwenden und deren weisse Kleidung teilweise blau bemalt ist. Der viereckige geschweifte Sockel mit durchbrochenem Gitterwerk an den Seitenwandungen. Hohe des Aufsatzes 24, Lange 25, Breite 21 cm. Hohe der Leuchter 22,5 cm.
+- 7
+- Achteckige Fayence-Platte mit einem Ornamentfries am Rande und einem Fruchtstick im Fond in Blau bemalt. Mit Marke. Diam.23cm.
+- 8 Runde Platte, mit Blatt- und Blumenwerk in Blau bemalt.
+- Mit Marke.Diam.29,5 cm.
+- 9 Hohe Vase auf grossem, rundem Sockel, der teils Grasboden,
+- teils Gestein imitiert. Der eiformige Vasenkorper bemalt mit Hafenansicht, Streublumen und von bunten,freigearbeiteten Blumenguirlanden umwunden. Fabrikat Marienberg. Hohe 33,5, Diam.14,5 cm.
+M
+
+e
+
+M
+
+9
+
+30
+
+18
+
+13-
+
+30
+
+C
+
+15
+
+9
+
+ds aa
+
+mol aud
+
+na.
+
+- 10 Grosse Deckelvase mit weitem, nach oben gebauchtem Korper, der auf buntmarmoriertem Grunde von freigearbeiteten Blumen und Blattzweigen umwunden wird. Der flache Deckel tragt einen
+- Blumenzweig als Henkel. Hohe 26,Diam. 22 cm.
+- 11 Ein Paar Deckelvasen aus Fayence auf rundem Fusse. Der nach oben.ausladende Korper ist wie der Deckel violett bemalt und mit reliefierten Buckeln verziert. Mit zwei gewundenen Henkeln, zwischen denen zwei buntbemalte Felder. Hohe 20, Diam. 12 cm.
+- 12 Kleine gehenkelte Fayencevase mit Schnabelmindung. Der eiformige Korper mit Rankenornament in Blau reich bemalt. Hohe 2i,Diam 8 cm.
+- 13 Henkelflasche mit sechsfach abgeflachter Leibung, welche in
+- Buntmalerei aufstrebende Blumenstauden zeigt. Mit Schraubenverschluss aus Zinn. Hohe 26, Diam.15 cm.
+- 14 Geflugelte Karyatide mit Fischleibendigungen, buntbemalt. Lange 68 cm.
+- 15 Grosser Masskrug mit Zinndeckel und Zinnfassung oben und unten. Die cylindrische Leibung zeigt in bunter Bemalung zwischen Blumen- und Ornamentwerk drei Kartuschen; zwei derselben enthalten Blumen, die mittlere eine Vase.Auf dem Deckel:
+- M E H 1734.Hohe 25,Diam.16 cm.
+- 16 Masskrug mit Zinndeckel und Fuss.I Die cylindrische Leibung zeigt in Buntmalerei musizierendes Paar in einer Landschaft. Hohe 20,Diam.12 cm.
+- 17 Masskrug mit Zinndeckel. Die cylindrische Leibung schmiickt in Buntmalerei eine Kartusche mit Landschaftsmotiv,in dem ein
+- Flosser. Auf dem Deckel: A. J. R. 1740. Hohe 23,Diam. 11 cm.
+- 18 Masskrug mit Zinndeckel und Fuss. Auf der cylindrischen
+- Leibung in Bunt ausgefihrtes Landschaftsmotiv mit figirlicher Staffage. Hohe 24, Diam. 15 cm.
+- 19
+- Masskrug mit Zinndeckel und Fassung. Die cylindrische Leibung ist mit einem Vogel zwischen Pflanzenwerk buntbemalt. Der Deckel ist verziert und tragt die Initialen M H M und die Jahrzahl 1737.Hohe 22,Diam.14cm.
+- 21 Masskrug mit Zinndeckel und Fuss. Die cylindrische Leibung
+- Die cylindrische Leibung ist mit Blumen enthaltenden Kartuschen und Ornamentwerk buntbemalt. Auf dem Deckel: M. M. S. J. 1801. Hohe 23, Diam.14,5 cm.
+- ist mit bunten Blumen bemalt. Hohe 19, Diam.11 cm.
+- 22 Masskrug mit Zinndeckel und Fuss. Auf der cylindrischen
+- 23 Masskrug. Die cylindrische Leibung ist in Buntmalerei mit
+- Leibung eine in Bunt ausgefuhrte Buffeljagd. Hohe 19, Diam. 12 cm.
+- einem Pferd in Landschaftsmotiv verziert. Hohe 19,Diam.11 cm.
+- 24 Seidelkrug mit bunter Blumenmalerei auf der cylindrischen
+- Leibung. Hohe 17,Diam.10 cm.
+
+2
+<!-- image -->
+
+- 25 Urbino. Runde Platte mit leicht ansteigendem Rande, mit figir-
+
+30.
+
+<!-- image -->
+
+<!-- image -->
+
+- 26 Grosse runde Majolikaplatte,in bunten Farben reich bemalt, mit mittlerem Rond, in welchem eine gefligelte Engelsfigur, die in beiden Handen einen Lorbeerkranz hait. Die Umrahmung bildet ein breiter, von grotesken Vogeln durchsetzter Rankenfries. Diam.42cm.
+- Grunde in hellerem Blau bemalt mit von Mascarons durchsetztem Rankenfries, der sich um ein Medaillon mit einer Heiligen im Gebete in Buntmalerei zieht. Diam.24 cm.
+- l029 Ein Paar Majolika-Vasen, doppeltgehenkelt. Die gebauchte Leibung ist buntbemalt und zeigt auf einer Seite ein ovales Medaillon mit aufrechtstehendem Greif hinter einem Querbalken. Hohe 13,Diam.11 cm.
+- /28 Ovale Majolikaplatte mit iberaus reicher,blauer Malerei auf weissem Grunde—— dichtes Rankenwerk, das durch 1 Linien begrenzt, verschiedene Figuren bildet und oben und unten von einer weiblichen Halbfigur durchsetzt wird. Im Fond ein Medaillon mit dem gefligelten Genius der Gerechtigkeit, in bunten Farben ausgefuhrt. Lange 44,Breite 30,5 cm.
+
+## Porzellane
+
+## Diverse Fabrikate
+
+- 30 Polnische Hochzeit. Auf einem mit Blumen ibersaten Rocail-
+- sockel steht neben einem Tischchen die Braut in gelbem, geblumtem Rocke,lilafarbenem Mieder und schwarzer Mantille. Sie wendet den Kopf zu einem neben ihr stehenden Madchen, das einen Pfeil emporhalt, wahrend es einen Kocher am Ricken tragt. Das Madchen ist mit weissem,geblumtem Rocke und hellgrinem Mieder bekleidet. Der jugendliche Brautigam kniet in schwarzer Hose und grinem Rocke vor seiner Braut. Ein Knabe mit Hermelinmantel bekleidet und violetter Mitze auf dem Kopfe, sitzt neben dem Tische und erfasst die linke Hand der Braut, wahrend deren rechte Hand dem Cavalier entgegengestreckt ist. Fabrikat Meissen. Marke: Gekreuzte Doppelschwerter. Hohe 19,Lange 19, Breite 11 cm.
+- 31 Allegorie auf den Frihling. Zwei Putten mit bunten Blumenkranzen in Handen sitzen zu beiden Seiten eines mit Blumen gefillten Korbes und neigen sich im Gesprache zusammen. Auf Rocailsockel mit Golddecor. Fabrikat Meissen. Marke:Gekreuzte Doppelschwerter. Hohe 13,Lange 14,Breite 8 cm.
+- 32 Der Schauspieler. Er schreitet iber einen mit Gold verzierten viereckigen Sockel und ist bekleidet mit schwarzer Hose,langem, gringestreiftem und mit Gold geschmiicktem Rocke und lilafarbenem Mantel. Das Gesicht verbirgt eine rote Maske, der von Locken umrahmte Kopf ist seitwarts gewandt. Die erhobene Rechte halt einen Brief, wahrend in der linken eine Schriftrolle ruht.
+- Fabrikat Meissen. Marke: Gekreuzte Doppelschwerter mit Punkt. Hohe 17,5 cm.
+- licher Darstellung buntbemalt. Diam.26,5 cm.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+285.
+
+- 33 Der Bilderhandler. In gelber Hose,hellblauem Rocke,gestreifter Weste und schwarzem Hute auf dem Kopfe sitzt er auf einem Felsen, iber den seine Bildermappe hangt.Er neigt sich zu derselben und weist mit der rechten Hand auf die Bilder. Neben ihm sitzt ein Madchen auf dem Grasboden, das mit einem Hunde spielt. Es tragt gelben, blaugestreiften Rock und weisses Haubchen. Fabrikat Hochst. Marke: Bekrontes sechsspeichiges Rad. Hohe 19,Lange 18,
+- Breite 15 cm.
+- Rock, unter dem das gestreifte Unterkleid sichtbar wird und helles Mieder. Die linke Hand stitzt es in die Hifte, wahrend es das Kopfchen zur Seite wendet und den rechten Arm ausgestreckt
+- hat. Fabrikat Hochst. Marke: Bekrontes Rad. Hohe 14 cm.
+
+## 22
+
+- 35 Runde,doppeltgehenkelte Terrine mit gewolbtem Deckel, der gleich dem gebauchten Korper in bunten Farben bemalt ist mit Blumenbischeln und Streublumen auf in Korbflechtmuster ornamentiertem Grunde. Die Henkel sind durch in Gold und Karmesinrot bemaltes Rocailwerk gebildet.Als Deckelknopf dient eine bunte,halberschlossene Blume. Fabrikat Frankenthal.Marke: Lowe. (Paul Hannong.) Hohe 25,Diam.25 cm.
+- 36 Gedeckelte Terrine auf vier Fussen, die durch Blattwerk gebildet werden. Die gebauchte Leibung ist geschweift und wird durch bunte Blumenbischel und reliefierte Sternmusterung verziert.Als Deckelgriff dient ein kleiner Krautkopf. Mitzwei Henkeln. Fabrikat Volkstedt. Marke: Verschlungenes CV. Hohe 19. Lange 31, Breite 20 cm.
+- 379 Sauciere, doppeltgehenkelt. Die geschweifte Schale umzieht am Rande reliefierte Sternmusterung, darunter bunte Blumen. Im Innern ein Blumenbischel in Buntmalerei. Fabrikat Volkstedt. Marke: Verschlungenes CV. Hohe 9,Lange 22, Breite 17 cm.
+- wird oben und unten von einem reliefierten, gitterartigen Fries umzogen und ist mit Blumenbuscheln bunt bemalt. Henkel und Ausgussrohr sind mit Gold verziert. Als Deckelgrif dient eine Rosenknospe. Fabrikat Meissen. Marke: Gekreuzte Doppelschwerter mit Punkt. Hohe 7,5, Diam.10 cm.
+16. 38 Theekanne, gehenkelt und gedeckelt. Der gebauchte Korper
+
+2.1.
+
+- 39 Zwei tiefe Platten mit geschweiftem Rande.Letzterer ist durch Rippen in Langsfelder geteilt, welche teils mit bunten Blumen bemalt sind, teils von reliefierten Sternrosetten bedeckt werden. Fabrikat Volkstedt. Marke:Verschlungenes CV. Lange 32,5,Breite 25,5 cm.
+- 40 Kleine ovale Platte mit bunten Blumen bemalt. Fabrikat Volkstedt. Lange 22,Breite 17 cm.
+- 41 Flacher Teller mit geschweiftem Rande,der mit Purpur verziert ist. Im Fond Blumen in Buntmalerei. Fabrikat Ludwigsburg. Marke: Bekrontes verschlungenes Doppel-C. Diam. 23,5 cm.
+- 42 Fiinf tiefe Teller mit geschweiftem Rande, der wie der Fond
+- mit bunten Blumen bemalt ist. Fabrikat Ludwigsburg. Marke: Bekrontes verschlungenes Doppel-C. Diam.22,5 cm.
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 43 Finf Teller mit bunter Blumenmusterung. Die goldbordierten Rander gewellt und mit einem Fries in Korbflechtmusterung verziert. Fabrikat Meissen. Marke: Gckreuzte Doppelschwerter mit Punkt. Diam.24 cm.
+- bemalt. Den breiten Rand bedeckt Korbflechtwerk. Fabrikat Ludwigsburg. Marke: Bekrontes verschlungenes Doppel-C. Diam.23,5 cm.
+- 45 Japanische Deckelvase mit nach oben gebauchtem Korper,
+- in Rot, Blau und Goid sehr reich bemalt mit aufstrebenden Blumenstauden; oben auf dunkelblauem Grunde Blumenornament, von zwei Vierpassformen durchsetzt. Hohe 35, Diam.22 cm.
+- 46 Chinesische Deckelvase von schlanker Birnform, reich bunt bemalt mit figurlichen Szenen in blauer Umrahmung. Die ibrigen Flachen in Gold und Blau mit Blumen bemalt. Der Deckel von
+- einem Hunde bekront. Hohe 29, Diam. 12 cm.
+- 47 Chinesische Deckelvase mit fast kugelformigem Korper und flachem Deckel,in bunten Emailfarben mit Streublumen auf dunkelblauem Grunde reich bemalt. Hohe 25, Diam.22 cm.
+- werk gebildeten, golddekorierten Henkeln. Der kuppelformige Deckel mit dem nach oben gebauchten Vasenkorper ibereinstimmend verziert mit je zwei ausgesparten, goldumrahmten Vierpassformen auf zitronengelbem Grunde. Diese enthalten in Buntmalerei hibsch ausgefuihrte Watteauszenen.I Der Deckel von einer freiaufliegenden Blume bekront. Fabrikat Firstenberg.Marke:F. Hohe 36,Diam.22 cm.
+- 49
+- Hohe Vase mit cylindrischem, sechsseitigem Korper und kurzem Halse. Auf dunkeiblauem Fond reich verziert mit grossen und kleinen ausgesparten, goldumrahmten Kartuschen, die teils Blumenbouquets, teils Vogel in Buntmalerei enthalten.Hohe 30,Diam.11 cm.
+- 50 Ein Paar kleine Vasen, nach oben ausladend, in Rot und tiefem Blau mit Blumenornament reich bemalt. Japanisch. Hohe
+- 17,Diam.9 cm.
+- 51 Gehenkeltes Flacon in Gestalt einer Dame mit Federhut. Sie tragt dekolletiertes, braunes Kleid mit weissem, geblumtem Unterkleide. Hohe 10 cm.
+- 52 Pendant zu Vorigem in Gestalt eines Herrn mit grinem Rock,
+- weisser Weste und schwarzer Hose. Hohe 9 cm.
+
+## Arbeiten in Edelmetall
+
+- 53 Weihwasserkessel aus Silber. Die glatte Rickwand wird von einer Blumenguirlande mit Schleifenbekronung iberragt. Das Wassergefass ziert Blattwerk. Louis XVI. Mit Marke. Hohe 27,
+- Breite 15 cm.Gewicht:148 gr.
+<!-- image -->
+
+23.
+
+04
+
+- 54 Ein Paar silberne Kirchenleuchter auf sechsseitigem Fusse, der gleich dem unteren Teile des Schaftes in durchbrochener Arbeit Arabesken und die Leidenswerkzeuge Christi zeigt, durchsetzt von gefligelten, vollrunden Engelskopfen. Der obere, vasenumwunden.Hohe 40 cm.
+- Henkeln, die wie der leicht gewolbte Fond mit Laubarabesken ornamentiert sind. Der breite Rand, in Korbflechtmuster durchbrochen gearbeitet, wird von vier Muscheln durchsetzt. Lange 30,
+- Breite 16 cm.
+- 56 Gotischer St. Georgsloffel, Silber, vergoldet, mit Volutenund Blumenwerk im Innern graviert. Als Griff dient die vollrunde Figur des hl. Georg.Augsburger Arbeit. Mit Beschauzeichen und Meistermarke. Lange 11,5 cm. Gewicht: 56 gr.
+- 58 Loffel, Silber, vergoldet, mit langem Stiel, der in ein Mascaron auslauft und aus einem solchen erwachst. Ebenso. Lange 19 cm.
+
+356.
+
+25、
+
+- 57 Ein Paar Loffel, Silber, vergoldet. Die Griffe werden durch Bocksfisse gebildet. Mit Beschauzeichen und Meistermarke. Lange 13,5 cm. Gewicht: 147 gr.
+- Gewicht:64 gr.
+- 59 Zwei Dutzend Bestecke, bestehend aus Messer, Gabel und Loffel aus vergoldetem Silber. Die Griffe aus Rubinglas. Dabei 25 Ersatzgriffe. Lange 19,5 cm.
+- 60 Tasche aus blauem Sammt mit silbernem Bugel, der durchbrochen gearbeitet.
+- Silber, zum Teil vergoldet.Auf
+- 62 Silbernes Buchbeschlag en rocail ornamentiert.
+- dem Deckel in reliefierter Arbeit ein Mascaron, rechts und links davon Akanthusblatter hinter Rollwerk. Mit Beschauzeichen und Meistermarke. Hohe 1,5, Lange 8, Breite 5 cm. Gewicht: 110 gr.
+
+## 22
+
+- Korper des auf einer grossen Perle stehenden Vogels ist aus Silber und ganz mit Rosetten besetzt. In der Mitte ein grosser Smaragd. Das Pfauenrad ist aus vergoldetem Silber und ganz mit Diamanten, echten Rubinen und Smaragden besetzt. Hohe 7,5 Breite 5 cm.
+- 64 Goldene Broche, aus vier Rosetten bestehend, die teils bunt emailliert, teils mit Steinen verziert sind. Renaissance. Lange 5,5, Breite 3.5 cm.
+- 65 Gotischer Kreuzanhanger, Silber, vergoldet, mit aufklappbarer, bunt emaillierter Vorderseite. Hohe 6, Breite 5 cm.
+
+<!-- image -->
+
+1000.
+
+- 66 Anhanger aus Gold, zum Teil bunt eimailliert. An drei von Perlen durchsetzten Kettchen hangt ein schmaler Reif, der in Goldemail die Auferstehung des Heilandes zeigt. Zu beiden Seiten des Grabes die Wachter, der Tod und der Satan. Finf Diamanten zieren das Medaillon. Mit drei anhangenden Perlen.
+- In Etui. Lange 8, Breite 4.5 cm.
+- Z 67 Goldener Anhanger, mit zwolf Almandinen besetzt. Lange 4,
+- Breite 3cm.
+- 68 Medaillonanhanger mit Heiligenbild unter Glas.D Die Umrahmung durch Strass-Steine in Silbermontierung gebildet. Auf der Rickseite eingraviert das Monogramm Jesu und Mariae. Hohe 4,Breite3cm.
+- 69 Ein Paar Ohrringe, Silber, vergoldet, mit Rubinen besetzt und mit an Schleifen hangenden Pendeloques verziert. Lange 3 cm.
+- 70 Vier diverse Schmuckgegenstande aus Gold, teils bunt emailliert, teils mit bunten Steinen verziert. Hohe 3-4,5 cm.
+- 71 Goldene Taschenuhr. Der rickseitige Deckel zeigt eine in Goldemail I ausgefihrte Seelandschaft in Perlkranzumrahmung. Diam.4cm.
+
+## Arbeiten in Bronze, Kupfer, Messing etc.
+
+30. 72 Madonna mit Kind, vollrund in Bronze gegossen. Auf rundem
+2. 9573 Buddha auf der Lotosblume sitzend. Vollrund in Bronze gegossen. Japanisch. Hohe 37 cm
+3. /0575 Kwanon (Gottin des Meeres) auf dem Tische stehend, der sich durch die Wellen schlangelt. Auf viereckigem Sockel, der mit Seetieren verziert ist. Vollrund in Bronze gegossen. Japanisch. Hohe 56,Lange 31, Breite 24 cm.
+4. Holzsockel. Hohe mit Sockel 25,5 cm.
+5. 39.74 Monju (Gottin der Litteratur) auf ihrem Lowen stehend. Vollrund in Bronze gegossen. Japanisch. Hohe 30, Breite 25 cm.
+6. 76 Dieselbe, auf einem Felsen stehend, den die Wellen umspiilen. Vollrund in Bronze gegossen. Japanisch. Hohe 25 cm.
+7. 300 77 Adler, eine Schlange bekampfend, die sich um einen Baumast schlingt. Vollrund in Bronze gegossen. Japanisch. Hohe 9o cm.
+8. 78 Zwei japanische Lowen,vollrund in Bronze gegossen. Hohe 16,
+9. Lange 30 cm.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## 22
+
+- 79 Rauchgefass (auch als Lampe verwendbar) aus Bronze. Der achtfach abgeflachte Korper biidet in der Mitte einen Wulst und ist mit Tieren und Ornamentwerk en relief verziert.Auf vier Fissen mit Maanderornamentverzierung. Den Deckel umzieht ein durchbrochener Fries und dient ein phantastisches Tier als Grif. Mit zwei Henkeln. Japanisch. Hohe 44, Diam.20 cm.
+- 80 Rauchgefass aus Bronze in Gestalt eines Kirin. Japanisch. Hohe 21, Breite 25 cm.
+- 81 Grosser Lister aus vergoldeter Bronze aus Volutenwerk gebildet.
+- Ein Paar Kandelaber aus vergoldeter Bronze. Auf profiliertem Schafte erhebt sich breites Rankenwerk, das vier Lichttillen tragt, zwischen denen sich ein gekronter Adler mit Szepter und Reichs-
+- 82 apfel erhebt. Hohe 55, Breite 40 cm.
+
+<!-- image -->
+
+<!-- image -->
+20.
+
+<!-- image -->
+
+- 83 Bronzehenkel mit Mascaron, das von zwei kleinen Tritonen
+- 84 Ein Paar Renaissance-Thurgriffe in Gestalt von Hundekopfen,
+- flankiert wird, die sich in s-formig angeordneten Laubarabesken fortsetzen. XVIl. Jahrhundert. Hohe 8,5, Breite 15 cm.
+- in Bronze gegossen.Hohe 8 cm.
+
+## 22
+
+- gegossen. Japanisch. Hohe 54, Breite 46 cm.
+- 85 Fugen auf dem Elephanten sitzend. Vollrund in Kupferlegierung
+- 86 Grosses Hibachi aus Kupfer, auf vier Fissen. Die gewolbte Wandung wird aussen von reliefiertem Pflanzenwerk mit Tieren umzogen. Japanisch. Hohe 24,Lange 48, Breite 40 cm.
+- 88 Henkelkanne mit Ausgussrohr und Deckel aus Kupfer. konisch geformte Korper wird oben und unten von Reifen um-
+- 87 Samowar,Louis XVl., aus Rotkupfer mit in Delphinkopf endigendem Ausgusshahnen.Der eiformige Korper wird von vier hohen Klauenfissen getragen, die auf viereckigem,ausgeschweiftem Sockel ruhen, in dessen Mitte sich eine Schlange emporringelt. Hohe 45, Diam.20 cm.
+- Der zogen. Hohe 22,Diam.20 cm.
+- gehenkelte Renaissance-Schale mit Schnabelmundung, in Kupfer getrieben mit Rankenornament. Hohe 5,5, Lange 12,Breite 9 cm.
+- 89 Kleine
+- 90 Gotisches Fragment, Kupfer,vergoldet, mit acht Heiligen figuren unter Spitzbogen stehend, iber einem Bossenkranz. Hohe 9,
+
+11
+
+16
+
+m
+
+<!-- image -->
+
+——36.
+
+- Diam.11,5 cm.
+- Vergoldet. Rokoko. Hohe 25, Breite 16 cm.
+- 91 Rahmchen aus Kupfer mit Voluten- und Muschelwerk getrieben.
+- 92 Desgleichen. Ebenso. Hohe 23,5, Breite 17 cm.
+- 93 Gotisches Vortragskreuz aus Messing mit der vollrunden Figur des Heilandes.
+- Die Vorder- und Rickseite der Balken sind mit Rankenwerk reich graviert und werden am Ende von runden Medaillons durchsetzt.  Auf der Vorderseite stellen dieselben en haut-relief die vier Evangelisten als Bischofe dar, auf der Rickseite dieselben mit ihren Attributen. Hohe 60, Breite 40,5 cm.
+- Der Korper reich ziseliert mit von Rankenwerk umrahmtem Gitterornament. Der Deckel zeigt in durchbrochener Arbeit dicht verschlungenes Voluten-, Blatt- und Blitenornament. Hohe 11l, Lange 21, Tiefe 17 cm.
+- 96 6 Grosser Messing=Kessel, gedeckelt und gehenkelt.
+- 95 Gotische Schussel in Messing getrieben. Im Fond die Verkindigung Mariens,von zwei Schriftbandern und einem Fries umZogen; am Rande ein Lilienfries. Hohe 7, Diam. 39 cm.
+
+12.
+
+- 97 Halbkugelfomiges,
+- Auf drei Fussen. Hohe 33, Diam. 30 cm.
+- gedeckeltes Gefass (Handwarmer), Messing, sehr reich ziseliert mit aus verschlungenen Blumenrosetten gebildeten konzentrischen Kreisen. Orientalische Arbeit. Hohe 7,Diam.14,5 cm.
+<!-- image -->
+
+- XVIl. Jahrhundert. Hohe 5,Diam.25,5 cm.
+- durchbrochen gearbeitet mit Schild haitenden Drachenfiguren.
+- Die Oberflache sowie die Wandung mit Blumen- und Blattwerk graviert. XVll. Jahrhundert. Hohe 14, Lange 17, Breite 10 cm.
+- 100 Kleiner ovaler Rahmen aus Messing. Das Profil von einem Arabeskenfries umzogen, die Bekronung aus Voluten-und Muschel-
+- werk gebildet. XVIil. Jahrhundert. Hohe 28, Breite 17 cm.
+- auf drei Fuissen. Die gerade aufsteigende Leibung umzieht ein Bauerntanzfries en relief. Hohe 13,5,Diam.19,5 cm.
+- hangenen und von einem Vogel belebten Weinstock bildet. Das Gefass ist in Kupfer getrieben und wird von einem Rebengerank, das zwei Medusenkopfe umschlingt, umzogen. Renaissance. Hohe 92 cm.
+- 103 Ein Paar Standleuchter in Gestalt von Riesen, die auf Felsen
+- stehen und auf ihren Kopfen die vasenformigen Lichttillen tragen. Die Kleidung ist zum Teil vergoldet. Vollrund aus braunem Metall gegossen. Japanisch. Hohe 70 cm.
+
+## Arbeiten in Zinn
+
+- 104 Sehr grosser Zunfthumpen der Backer: Die cylindrische Leibung ruht auf drei vollrunden Lowen. Als Deckelbekronung dient ein stehender Lowe, welcher einen Schild mit den AttriAh buten der Backerzunft halt. XVll.Jahrhundert. Hohe 57, Diam.26 cm.
+
+nt
+
+- Der konische Korper mit breitem Lippenrande zeigt zwischen Namensinschriften eine mannliche Figur mit den Attributen der Brauerzunft. Der Deckel wird von einer schildhaltenden, mannlichen Figur bekront. XVll. Jahrhundert. Hohe
+
+<!-- image -->
+
+<!-- image -->
+
+ah
+
+- gravierten 50,Diam.20cm.
+- 106 Grosser, gedeckelter Pokal auf rundem, eingeschnirtem Fusse. Die Leibung endigt unten in zwei Wulste, wovon einer yon acht reliefierten Lowenkopfen umzogen wird.I Den ausladenden Rand umzieht oben ein Schriftfries mit der Jahrzahl 1655 und darunter ein Kranz aus ebenfalls acht Lowenkopfen. Den gewolbten Deckel iberragt eine mannliche Figur mit Fahne und Schild, auf dem: Anno 1653. Hohe 55, Diam.14 cm.
+- 107
+- Sehr grosser, gehenkelter Krug mit Deckel, auf welchem ein mannliches Bildnis en relief.  Um dasselbe: MARCVS· ANTONIVS·MEMMO·DVX·VENETI·ARVM. Die Leibung des Kruges zeigt in getriebener Arbeit tiefe Windungen. Hohe 25 Diam.16 cm.
+
+32
+
+31
+
+<!-- image -->
+
+26.m.
+| 90-   |    | at   | 108 Grosse Henkelkanne mit Schnabelmindung. Der glatte, konisch geformte Korper ruht auf drei Kugelfissen. Hohe 42, Diam.20 cm.                                                                                                                                                                                                                      |
+|-------|----|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0.18  |    | dol  | 109 Henkelkanne mit Schnabelmindung, auf drei durch gefligelte Engelskopfe gebildeten Fissen ruhend. Der Korper tragt auf der Vorderseite zwischen eingravierten Namen eine mannliche Stand- figur, mit den Attributen der Backer. Als Deckelbekronung dient eine vollrunde Sphinx, an der ein Schild mit Inschrift lehnt. Hohe 40,Diam.16 cm.       |
+| l.    | 20 |      | 110 Henkelkanne mit Schnabelmindung. Der gewundene,konisch geformte Korper ruht auf drei durch gefligelte Engelskopfe ge- bildeten Fissen und tragt auf der Vorderseite ein ovales Medaillon, das ein Schiff en relief umschliesst. Als Deckelbekronung dient ein schildhaltender Delphin. Hohe 38, Diam. 16 cm.                                     |
+| M-    | 26 | at   | 111 Henkelkanne mit Schnabelmindung auf drei durch gefligelte Engelskopfe gebildeten Fissen. Auf der konisch geformten Leibung vorne eine vertiefte Nische, in welcher ein sitzender Jager mit Hund. Als Deckelbekronung dient ein Delphin,an welchem ein Schild lehnt. Auf letzterem: Adolph Graf v. Bentheim, Steinfurt 1713. Hohe 40, Diam.18 cm. |
+| M.    | 22 |      | 112 Henkelkanne, gedeckelt. Die konische Leibung zeigt in der Mitte einen gewundenen Fries, ober- und unterhalb eingraviertes Rankenwerk. Hohe 27, Diam. 13 cm.                                                                                                                                                                                      |
+| M.    | 14 |      | 113 Henkelkanne mit glatter,konischer Leibung. Hohe 38,Diam.15 cm. 114 Vierseitige Henkelflasche. Der Korper zeigt in gravierter Arbeit auf der Vorderseite ein Madchen, auf der Rickseite einen                                                                                                                                                     |
+|       | 23 | anl  | Ritter in Umrahmung und auf den beiden anderen Seiten Blumen und Blattwerk.Hohe 30,Lange 15,Breite 8 cm. 115 Henkelflasche mit Ausgussrohr. Die Leibung ist achtfach abgeflacht und zeigt in der Mitte nach oben und unten spitz- zulaufende Felder. Den Henkel bilden zwei Schlangen. Hohe 23, Diam.14 cm.                                          |
+|       |    |      | 116 Gehenkelte Flasche mit sechsfach abgeflachter Leibung, welche schraggestreifte Felder zeigt. Hohe 27,5, Diam.12 cm.                                                                                                                                                                                                                              |
+| 4.    | 23 | aa   | 117 Gehenkelte Flasche.Der oben und unten sechsfach ab- geflachte Korper in der Mitte gewunden. Hohe 26, Diam. 12,5 cm.                                                                                                                                                                                                                              |
+| 4     |    |      | 118 Grosse Zinnplatte. Der sehr breite Rand ist wie der Fond mit Blattwerk reich graviert. Diam. 42 cm.                                                                                                                                                                                                                                              |
+| D.    |    |      | 119 Funf flache Zinnteller. Mit Marken. Diam. 21 cm.                                                                                                                                                                                                                                                                                                 |
+
+- 19.
+- 11.
+
+## Waffen; Arbeiten in Eisen
+
+- 121 Axt mit Holzstiel. Lange 115 cm.
+- 120 Morgenstern mit Holzstiel. Lange 130 cm.
+- 122 Hellebarde mit sehr langem Spitz und durchbrochen gearbeitetem Beil. Mit Holzstiel. XVI. Jahrhundert. Lange 215 cm.
+- 1.5.1
+- W124 Hellebarde mit langem Spitz. Mit Holzstiel. XVI. Jahrhundert.
+- 123 Hellebarde mit Punkten durchbrochen gearbeitet. Mit Holzstiel. XVl. Jahrhundert. Lange 142 cm.
+- Lange 228 cm.
+- Mit Holzstiel. XVl. Jahrhundert. Lange 220 cm.
+- 10, 125 Hellebarde mit Sternrosetten durchbrochen gearbeitet.
+- 126 Hellebarde mit vierkantigem Spitz. Mit Holzstiel. XVl. Jahrhundert. Lange 162 cm.
+- 128 Partisane mit vierkantiger Spitze. Mit Holzstiel. Lange 216 cm.
+- 127 3 ahnliche Sticke. Mit gebrochenem Holzstiel. Lange 140, 157,160cm.
+- 14.129 Partisane mit langem Holzstiel. Lange 180 cm.
+- 130 Offiziers=Sponton, auf beiden Seiten mit Figuren und Geschitzen graviert. Mit Quasten. XVll. Jahrhundert. Mit gebrochenem Holzstiel. Lange der Partisane 34 cm.
+- 131 Orientalische Waffe aus Eisen in Form eines Rohres, auf dem ein gehornter Kopf ruht. Mit reicher Tauschierung. Lange 75 cm.
+- 132 Zwei Lanzenspitzen aus Eisen. Lange ca. 30 cm.
+- I33 Schwert in Scheide mit Scharpe aus rotem Sammt. Lange 90 cm.
+- 134 Kurzes Schwert mit Messinggriff mit Lowenkopf. Lange 67 cm.
+- 135 Hirschfanger mit Perlmuttergriff und versilberter Montierung. Als Stichblatt dient eine versilberte Kartusche, welche mit einer Jagdszene reliefiert ist. Mit Besteck, dessen Griffe versilbert, ornamentiert und mit Perlmutter verziert sind. In gelber Leder-
+- scheide mit Goldpressung. Lange 74 cm.
+- 136 Degen aus Eisen. Korb und Knauf sind ornamentiert. Lange 103cm.
+
+11.
+
+- 137 Dolch mit gewundenem Horngriff. Die Klinge ist durchbrochen gearbeitet und mit gewundenen Messingstabchen eingelegt. Lange 36,5cm.
+- 138 Gewehr mit Bajonett. Lange 172 cm.
+- achtfach abgeflacht und am Ende graviert. Mit Feuersteinschloss.
+- Lange 27 cm.
+- geschnittenen Verzierungen geschmickt. Auf einem Schloss: Moretti In Pesaro. Renaissance. Lange 34 cm.
+- 141 Ein Paar Pistolen mit in Eisen geschnittener Verzierung und graviertem Schloss. Auf dem Lauf: Lorenzo Cominazo. Lange 49cm.
+- Inschrift:Joh. And. Kuchenreuter. An Regenspurg. Auf den Schlossern dieselbe Inschrift. Lange 43 cm.
+- 143 Ein Paar kleine Pistolen mit graviertem Lauf, mit der Inschrift: Smith London. Mit gepresstem Holzgriff. Lange 15 cm.
+
+3
+3-
+
+10
+
+- 144 Lange Pistole mit reich graviertem Lauf. Der Schaft ist in Holz geschnitten und mit graviertem Eisen montiert. Das Ende des Griffes ist mit ornamentiertem,vergoldetem Silberbelag geschmickt. Auf dem Lauf:L. Lazarino. Lange 50 cm.
+- W145 Desgleichen mit eingelegtem Holzschafte, ornamentiertem Laufe
+- und Schloss. Der Griff ist mit ornamentiertem Messingbelag geschmiickt. Lange 39 cm.
+- 29 146 Lange Pistole mit tauschiertem Laufe. Der vergoldete Schaft ist reich graviert. Lange 50 cm.
+- 147 Pistole mit Feuersteinschloss. Der Griff endigt in eine Elfenbein-
+- 148 Pistole,einfach. Lange 25 cim.
+- kugel. Lange 40 cm.
+- 12 149 Kleine Pistole mit Doppellauf, graviert. Mit der Inschrift: Segalas London. Lange 16 cm.
+
+## 22
+
+- 150 Pulverhorn aus Hirschhorn geschnitzt. Die Vorderseite desselben zeigt eine en relief geschnitzte Hirschjagd. Mit vergoldeter
+- Montierung. Hohe 14, Breite 5,5 cm.
+- 151 Pulverhorn aus einem Biffelhorn geschnitten. Der Deckel ist mit einer Beinschnitzerei verziert, die eine Hirschfamilie darstellt.
+- Lange 30 cm.
+- Diam.10,5 cm.
+- 153 Pulverhorn, einfach.Lange 32 cm.
+- 155 Runde Feldflasche aus Holz, mit Lederriemen. Diam. 15,5 cm.
+- 154 Runde Feldflasche aus Blech. Auf der Leibung eine Wappen haltende Figur in Buntmalerei.Diam.19 cm.
+- 156 Orientalischer Rundschild aus Eisen mit Messingmontierung.
+- 40.157 Spanischer Degenkorb mit Blumen-und Blattwerk reich durch-
+- Als Griff dienen zwei Antilopenhorner. Diam. des Schildes 22 cm.
+- brochen gearbeitet und mit Bisten enthaltenden Medaillons verziert.Diam.12,5 cm.
+- /b.159 Patronengirtel.
+- IY. 158 Lederner Kocher mit Pfeilen.
+- 160 Renaissance-Beutel aus g gemustertem Leder mit Riemen-
+- 161 Rustung aus Stahlblech. Auf Stander.
+- verzierung.
+- 162 Fahne aus weisser und blauer Seide mit Rautenmusterung und
+- einem mittleren Felde, das auf beiden Seiten mit Heiligenstatuetten bunt bemalt ist.
+- 13 163 Fahne aus weisser und blauer Seide.
+
+<!-- image -->
+<!-- image -->
+
+- 165 Ein Paar Renaissance-Thurbander in Eisen geschmiedet
+- aA64 Wirtshausschild aus Eisen in Form eines Blattkranzes, in dem o eine Traube hangt. Hohe ca. 70, Breite ca. 60 cm.
+- mit durchbrochenen Laubranken. Lange 43, Breite 11 cm.
+- 166 Taschenbigela Eisen mit Mascarons en relief verziert.
+- aus Hohe 8,Breite 13 cm.
+- 167 Eiserner Taschenbigel. Renaissance. Lange 26, Breite 20 cm.
+- 168 Funf diverse gotische Beschlage in Eisen geschnitten.
+- 169 Feilkloben in Eisen geschnitten. Lange 22, Breite 12 cm.
+- Hohe 4,5cm.
+- 170 Schwertknauf aus Eisen in Form eines mannlichen Kopfes.
+- 171 Desgleichen in Gestalt eines Hundekopfes,der mit reliefierten Figuren bedeckt ist. Hohe 4,5 cm.
+- 172 Desgleichen mit diversen Darstellungen en relief verziert.
+
+## Diverses
+
+- 173 Antike weibliche Buste aus weissem Marmor. Auf Sockel. Hohe mit Sockel 46 cm.
+- 174 Antiker griechischer Torso aus Stein. Auf viereckigem Sockel. Hohe 66 cm.
+- 175 Doppeltgehenkelte Lederkassette mit seitlicher Schieblade und gewolbtem Deckel. In Gold reich gepresst mit Jagdszenen und Figuren in mehrfacher Ornamentumrahmung. Hohe 17,5, Breite 24, Tiefe 16 cm.
+- 176 Renaissance-Ledertasche mit Eisenbigel. Hohe 17,Breite 19 cm.
+- 177 Porphyr=Vase in Urnenform, auf rundem Fusse, welcher auf einer vierseitigen Plinthe ruht. Der Korper mit leicht iberfallendem Rande. Hohe 33, Diam.25 cm.
+- 178 Gehenkelter Masskrug aus Glas mit Zinndeckel. Die cylindrische Leibung des Kruges bedeckt in geatzter Arbeit ein Landschaftsmotiv mit einer Jagdszene. Auf dem Deckel ein rundes Medaillon mit allegorischer Darstellung, darunter: I ·H·S. Hohe 18, Diam.11 cm.
+- 179 Venezianisches Glas in Vogelform. (Defekt.) Hohe 22 cm.
+- 180 Japanische, grosse Platte in Email-cloisonne. Den Rand bedeckt reiches Ornament- und Blumenwerk, wahrend den Fond ein Drache belebt.Diam. 60 cm.
+- 181 Elfenbeinrelief mit Christus am Kreuz, an dessen I Fuss die hl. Maria, der hl. Johannes und die hl. Magdalena. In Rundbogenform. In schwarzem Rahmen. Hohe 15, Breite 9 cm.
+- Hohe 5 cm.
+a
+
+- 182 Necessaire, aus neun diversen Gegenstanden bestehend, die
+- 183 Flacon aus Email in Vasenform. Die Aussenwandung zeigt
+- zum Teil aus Perlmutter geschnitten sind.Mit vergoldeter Silbermontierung. In rotem Lederetui.
+- auf blauem Fond von Goldfolio eingerahmte Kartuschen, welche bunte Landschaftsmotive und Blumensticke enthalten. Mit ver-
+- 184 Langliches Etui aus Perlmutter mit Landschaftsmotiven in
+- goldeter Montierung. Hohe 9,5, Breite 4,5 cm.
+- Goldfolio und bunten Farben verziert. Lange 7, Breite 5,5 cm.
+- Wandung ist aussen blau, mit bunten Landschaftsmotiven und Gold verziert. Hohe 3,7,Diam. 6,5 cm.
+- 185 Ein Paar Email-Salzfasser auf drei Fussen. Die gebauchte
+- 186 Totenkopf in Elfenbein geschnitzt. Hohe 7 cm.
+- rahmchen.Hohe 15, Breite 15 cm.
+- 187 Miniature mit dem Bildnis eines deutschen Firsten des XVIlll. Jahrhunderts, nach rechts gewandt, in Ristung mit Hermelinmantel. Oval. Elfenbein. Unter Glas. In viereckigem, vergoldetem Holz-
+- 188 Ovales Medaillon in Gold-Email mit der Geburt Christi. Hohe 4,Breite 3,5 cm. 22
+- 189 Pfeifenkopf aus Porzellan. Die achtfach abgeflachte Wandung
+- 190 Pfeifenkopf aus Porzellan, mit einer Ansicht von Liechtenstein in Bunt bemalt. Hohe 10 cm.
+- ist bunt bemalt und zeigt unter Spitzbogen die Standfiguren von Rittern und Landschaftsmotive. Mit silbernem Deckel. Hohe 14 cm.
+- 191 Pfeifenkopf aus Porzellan,mit einem Studentenbildnis schwarz bemalt. Hohe 11 cm.
+- Tibingen zeigt. Hohe des Kopfes 10 cm.
+- 192 Pfeife mit Porzellankopf, der in Buntmalerei eine Ansicht von
+- 193 Pfeife mit Porzellankopf, der mit einer Ansicht in Bunt bemalt ist. Das Rohr ist zum Teil in Holz geschnitzt. Hohe des Kopfes 12 cm.
+- 195 Pfeife mit in Holz geschnitztem Kopf. Mit silbernem Deckel, auf dem en relief der Januskopf. Hohe des Kopfes 9 cm.
+- 194 Pfeife aus Holz geschnitzt, mit silbernem Deckel, der in Kuppelform durchbrochen gearbeitet ist. Hohe des Kopfes 14,5 cm.
+- 196 Pfeife mit holzernem Kopf und anhangenden Ketten. Hohe des Kopfes 10 cm.
+- 198 Mandoline mit Schallochverzierung. Der Griff mit Perlmutter-
+- 197 Eine Partie Pfeifenrohre.
+- intarsia. Lange 49 cm.
+- 200 Musiktrophae mit diversen Gegenstanden, wie: Waldhorn,
+- 199 Mandoline mit Perlmuttereinlage am Griff und in einem Kranz, der sich um das Schallloch zieht. Darunter eine Kartusche aus Schildpatt. Lange 73 cm.
+- 201 Astronomisches Instrument aus Messing. Diam.22 cm.
+- 202 Eine Mineraliensammlung.
+<!-- image -->
+
+## Textilarbeiten und Kleidungssticke
+
+- 203 Casula aus Goldbrokat mit Spuren von schwarzem Blumen-
+- dessin. Mit Goldborten.
+- 204 Pluviale, Louis XV.,aus rotbraunem Silberbrokat. Das Muster
+- zeigt in streifenartiger Anordnung Blumenguirlanden in Silber abwechselnd mit weissgemusterten Wellenlinien. Mit breiter Silberspitze besetzt. Dabei ein Marienmantelchen von gleichem Stoffe gefertigt.
+- 205 Pluviale mit Kappa, aus rotem, reich gemustertem Seidenbrokat mit breiter Rankenbordire in bunter Seidenstickerei. Renaissance.
+- 206 Pluviale aus blauer Seide mit bunter Blumenmusterung.H Kappa und oberer Rand sind mit Blumen- und Rankenwerk in Goidfaden benaht. XVll. Jahrhundert.
+- 207 Madonnenmantel aus blauer Seide, mit bunten Seidenblumen, Goldfaden und Steinen reich benaht.
+- 208 Decke aus weisser Seide mit Rosenmusterung in bunter Seide reich bestickt. Mit rotem Seidenfutter. Louis XVI. Quadratseite 130 cm.
+- und Ornament. Renaissance. Lange 130, Breite 25 cm.
+- 210 Drei Stucke Seidenbrokat mit reichem, schonem Blumenmuster in Weiss auf rosafarbenem Grunde. XVill. Jahrhundert. Lange 225,215 und 210,Breite 43und 72 cm.
+- 211 Eine Partie Seidenstoffmuster.
+- 212 Eine Partie Sammtmuster.
+- 213 Gobelinbild mit allegorischer Figur unter einem Bogen. Im Hintergrunde Gebaude. In Goldrahmen. Hohe 85, Breite 66 cm.
+- Hohe 83,Breite 71 cm.
+- 214 Paravant=Stickerei, ein Blumenstillleben in Kartuschenumrahmung darstellend. Franzosische Arbeit. Stil Louis XIV.
+- 215 Gebetteppich aus Wollpeluche mit bunter Musterung auf dunkelrotem Fond. Mit dreifacher Bordire,deren mittlere weissen Fond zeigt. Lange 134, Breite 90 cm.
+- Mittelstick zeigt auf rotem Fond ein grosses, zackiges Feld. Lange 150,Breite 128 cm.
+- 0216 Gebetteppich aus Wollpeluche mit breiter,bunter Bordire. Das
+- 217 Sehr grosser Teppich aus Wollpeluche mit grosser BlumenDie Bordiire zeigt
+- und Blattmusterung in bunter Ausfihrung. buntes Rankenwerk auf dunkelblauem Fond. Lange 315, Breite 235 cm.
+- 218 Grosser roter Teppich aus Seidenpeluche mit vielen bunten Feldern und Sternen. Lange 250, Breite 185 cm.
+- auf der Spitze stehende Quadrate in Bunt ausgefihrt sind. Mit zackiger Bordire. Lange 410, Breite 200 cm.
+- 219 Langer griechischer Teppich mit rotem Fond, auf welchem
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 220 Teppich aus dunkelrotem Seidenpeluche mit rautenahnlicher
+- Musterung in weisser Zackenumrahmung. Lange 128, Breite 100 cm.
+- 221 Derselbe Teppich. Gleiche Grosse.
+- Mit Bordire und Fransen. Lange 164, Breite 124 cm.
+- 222 Teppich aus Wollpeluche mit Langsfeldern mit bunter Musterung.
+- 223 Grosse Portiere (2Teile) mit zackigen Querstreifen in Rot,Weiss und Braun, welche bunte Musterung zeigen. Lange 360, Breite 150 cm.
+- 224 Grosse Portiere (2 Teile) mit bunter Musterung und weissem Bandornament. Lange 330, Breite 156 cm.
+- Lange 320,Breite 75 cm.
+- 225 Portiere mit Spitzbogen, die bunte Musterung einschliessen.
+- 226 Zwei Portieren mit schiefer Streifenmusterung, welche auf weissem, blauem und rotem Grunde Rauten mit bunten Zeichen
+- 227 Zwei Vorhange aus rotbraunem Sammt mit griner Sammtbordire, welche mit Rankenwerk in Silberapplikation reich verziert ist. (3 Teile.) Hohe 200, Breite 110 cm.
+- enthalten. Lange 465, Breite 65 cm.
+- 228 Landsknechtskittel aus Leder nebst Ordenskette.
+- 229 Zwei seidene Brustticher mit buntem Blumenmuster auf
+- rotem und blauem Grunde.
+- 230 Eine Partie diverse Kleidungssticke.
+- 231 Eine Partie diverse Huite und Mitzen.
+- 232 Schwarzer Filzhut mit vielen gelben und blauen Seidenquasten
+- verziert. XVll Jahrhundert.
+- 233 Bauernhut, Dreispitz, aus schwarzem Filz mit roter Rosette.
+- 234 Ein Paar lange Stiefel mit Sporn. Gelb. XVll. Jahrhundert.
+- 236 Ein Paar gelbe Schuhe. XVll. Jahrhundert.
+- 235 Ein Paar desgleichen (ohne Sporn). Schwarz.
+- 237 Ein Paar Kardinalshandschuhe aus roter Seide mit reichen
+- goldgestickten Manschetten und einem ebensolchen Medaillon auf der Oberflache.
+- 238 Zwei Paar verschiedene Handschuhe aus Leder.
+- 240 Vier diverse Perricken.
+- 239 Eine Partie Lederzeug.
+
+## Arbeiten in Holz; Mobel
+
+- 241 Holzgruppe. Christus am Kreuze, zu dessen Fuissen die heilige bM
+- 242 Kruzifix auf Sockel, vergoldet. Dasselbe zeigt auf der einen Seite auf Muschelwerk die reliefierte Gestalt des Heilandes, auf der olr anderen Seite die mater dolorosa. Rokoko. Hohe 55,Breite 52 cm.
+- Magdalena kniet. Auf Sockel. Vollrund geschnitzt und polychromiert. Hohe 190, Breite 95 cm.
+<!-- image -->
+
+- reicht. Lebensvolle Gruppe mit wohlgebildeten Kopfen, mild und sprechend im Ausdruck, gut in den Verhaltnissen. Aus
+- 244 St. Anna und die hl. Maria, sitzend. Halbrund geschnitzt
+- bester Zeit der Gotik. Lindenhoiz. Deutsche Arbeit. Hohe 78 cm.
+- w und polychromiert.Hohe 68, Breite 40 cm.
+- 246 Kronung Mariae. Grosse Reliefgruppe. Anfang des XVl. Jahr-
+- 245 Zwei Statuetten. Die hl. Maria und der hl. Johannes mit nach aufwarts gewandtem Kopfe. Auf Sockeln.Vollrund geschnitzt und polychromiert.Hohe 63 cm.
+- hunderts.Hohe 108. Breite 100 cm.
+- 248 St. Magdalena, sitzend. Vollrund geschnitzt und polychromiert.
+- 247 Tod Mariae.Polychromiertes Holzrelief. Anfang des XVI. Jahrhunderts.Hohe 50, Breite 95 cm.
+- W Hohe 58,Breite 40 cm.
+- 250 St. Martin zu Pferde, seinen Mantel mit einem Armen teilend. LVollrund geschnitzt und polychromiert.Hohe 87,Lange 70, oBreite 27 cm.
+- 249 Zwei gotische Flachreliefs, St. Georg und St. Sebastian darstellend.Hohe 98,Breite 103 cm.
+- 251 Statuette einer Heiligen in faltenreichem Gewande,in der
+- 252 Stehender Engel, vollrund in Holz geschnitzt und poly-
+- rechten Hand ein Kirchenmodell, im linken Arme ein Gebetbuch haltend Vollrund geschnittene Renaissancefigur. Hohe 57 cm.
+- chromiert. Hohe 59 cm.
+- und polychromiert. XVlill. Jahrhundert. Hohe 70 cm.
+- 253 Ein Paar kniende Engel mit Leuchter. Vollrund geschnitzt
+- 254 Zwei grosse Engelsfiguren mit ausgestreckten Armen und reichem Faltengewande, vollrund in Holz geschnitzt. Hohe ca. 90 und 110 cm.
+- 255 Engelskopf, auf einer vergoldeten Muschel ruhend, in Rollwerk endigend.Polychromiert. (Hat wohl ehemals als Verzierung gedient.) Hohe 44 cm.
+- 256 Neptun,vollrund in Holz geschnitzt und polychromiert. Mit der rechten Hand halt er den Dreizack, wahrend er seinen rechten Fuss auf den Kopf eines Delphins gestellt hat, dessen Korper sich um das Bein des Gottes schlingt. Hohe 170 cm.
+- 257 Mannliche Buste in Holz vollrund geschnitzt und polychromiert. Hohe 41,Breite 39 cm.
+
+<!-- image -->
+
+## 22
+
+- 258 Jardiniere in Facherform aus Holz, auf viereckigem Sockel. Die Vorderseite zeigt unter Glas eine bunte, antike Darstellung zwischen diversen Verzierungen. Mit vergoldeter Montierung.
+- 259 Viereckige Kassette aus Holz mit Eisenbeschlage. Hohe 17, Lange 20,Breite 20 cm.
+- Hohe 32,Lange 40 cm.
+
+<!-- image -->
+
+<!-- image -->
+
+80
+
+<!-- image -->
+
+45
+
+<!-- image -->
+
+40—
+
+<!-- image -->
+
+50.
+3
+
+- 260 Ein Paar Verzierungen in Form von vollrund geschnitzten, iber Blattwerk ruhenden Karyatiden. Renaissance.Hohe 40 cm.
+- 261 Braune Rokokokonsole.Die geschweifte Platte wird von uppig angeordnetem Rocailornament getragen, welches von einem Hohe 53,Breite 48,
+- stark vortretenden Mascaron durchsetzt wird. Ausladung 30 cm.
+- 262 Postament mit drei Volutenfissen,in Holz geschnitzt. Die Vorderseite ist mit reliefiertem und zum Teil freigearbeitetem Blumenwerk und Vogeln reich verziert. Rokoko. Hohe 32, Breite 28 cm.
+- W 263 Grosse Kartusche in Holz geschnitzt und zum Teil vergoldet. Um ein mittleres Medaillon zieht sich Grottenwerk mit Perlverzierung, welches von zwei mit bunten Allegorien bemalten
+- Medaillons durchsetzt wird. Barock. Hohe 115, Breite 86 cm.
+
+AN
+
+- Der ovale Schild ruht auf zwei Adlern und wird von einem Kurfirstenhut bekront. Hohe 61 und 63,Breite 49 cm.
+
+YO
+
+h
+
+86:8
+
+- W 265 Wappen mit Laubdecke von Baptist Joh. Ludwig von Knauer, hs ao.1645. zwei leere Wappenschilder.
+- Das Wappenschild zeigt in einem goldenen Zwickel einen aus einer Woike erwachsenden Pfeil. Zu beiden Seiten Aus der bekronten Helmzier erwachst die Haibfigur eines Mannes mit einer Keule. Auf rundem Schild mit Schrift. Diam.59 cm.
+- 266 Thirfullung. Hohe 64. Breite 51 cm.
+- 267 Diverse Malutensilien. 22
+- 268 Ein Paar Wandleuchter aus vergoldeten Kartuschen gebildet, die aus Holz geschnitzt sind. Mit Spiegelbelag. Rokoko. Hohe 57,Breite 38 cm.
+- 269 Langlicher Rokoko-Wandspiegel. Der Rahmen vergoldet und reich geschnitzt mit Laubarabesken, Muschelornament und Rosen. Hohe 67, Breite 45 cm.
+- 270 Langlich viereckiger Wandspiegel in vergoldetem Rahmen, der en rocail geschnitzt und mit Blattzweigen verziert ist. XVIll. Jahrhundert. Hohe 46,Breite 30 cm.
+- 271 Kleiner Spiegel in geschnitztem Holzrahmen. Hohe 32,Breite 23 cm.
+- Grottenwerk gebildet werden. Rokoko. Hohe 80,Breite 62 cm.
+- 272 Zwei Spiegel in vergoldeten Rahmen, die durch reichgeschnitztes
+- Front treten vier, auf dem Deckel drei von Leisten eingerahmte Fuillungen heraus,mit vertieftem Ornament geziert, welches auch die Zwischenteile bedeckt. Kleines Ornament von Quadraten und Knopfen, schwarz sich abhebend. Kugelfisse. XVll. Jahrhundert. Hohe 83,Breite 160, Tiefe 49 cm.
+
+aLL
+
+- 274 Rheinische Truhe mit drei geschnitzten Fuillungen auf der Vorderseite,welche von Schuppenornament flankiert werden. Die mittlere der Fullungen zeigt aufstrebendes Blattwerk, wahrend die beiden anderen eine mannliche und weibliche Biste enthalten. Hohe 60, Breite 97,Tiefe 49 cm.
+
+8
+
+22
+- 275 Kleine Truhe aus Holz, mit hellen Feldern an der Wandung.
+- Hohe 23,Breite 44, Tiefe 32 cm.
+- 276 Salonmeublement bestehend aus einer Kommode,zwei Consoltischen mit hohen Spiegeln, Tisch mit Aufsatz, langlicher Tisch, Sopha, vier Fauteuils,drei Stihle, vier Schemel und Gardinen. Samtliche Sticke sind aus schwarzem Holz, mit Schnitzereien und Bronzebeschlagen verziert. Kommode,Consoltische und Tisch sind mit einer Marmorplatte belegt. Die Polstermobel sind mit roter Seide mit weisser Blumenmusterung bezogen.
+- rankenfries in ibereinanders stehende Fullungen,deren obere St. Georg, den schnitzt ist. Hohe 235, Breite 115, Tiefe 49 cm.
+- luw277 Hoher gotischer Schrank. Die zinnenartige Bekronung ist ati wie der Sockel und der Rand der Vorderseite mit einem Blattgeschnitzter Arbeit verziert.Die Thire birgt zwei adlr Drachen totend, zeigt, wahrend die untere mit Rankenwerk ge-
+- 278 Gotischer Schrank mit zwei Thiren und einer Schieblade. Die
+- Vorderseite ist mit grossen Blattranken in streifenartiger Anordnung
+- 279 Gotischer Schrank mit zwei Thuiren, welche durch einen geschnitzten Laubrankenfries voneinander getrennt werden.I Die Fries.Das Gesimse ist wie der Sockel an der Vorderseite reich
+- 280 Italienischer Renaissance-Halbschrank mit zwei Thuiren. Letztere werden von drei Karyatiden flankiert und zeigen in reichgeschnittener Arbeit ein grosses Mascaron, das von zwei Friesen mit Blumen- und Blattwerk rahmenartig umzogen wird.Das Gesimse birgt zwei Schiebladen, deren Vorderseiten wie die Seitenwandungen des Gesimses mit Rosetten geschnitzt sind; dazwischen drei kleine Mascarons. Hohe 100, Breite 135, Tiefe 60 cm
+- Vorderseite begrenzt rechts und links ebenfalls ein geschnittener mdr geschnitzt und enthalt letzterer an den beiden Ecken ein Wappen. Mit Eisenbeschlage. Hohe 190,Breite 113, Tiefe 62 cm.
+
+OKY
+
+- 281 Belgischer Eckschrank aus braunem Holz. Der Oberbau desselben enthalt zwei Glasthiren und wird von einer Kartusche bekront. Im Unterbau zwei Thiiren aus Holz, deren Fillungen mit Grottenwerk und profilierten Umrahmungen geschnitzt sind.
+- 282 Grosses Buffet mit Aufbau, der auf kannelierten Saulen ruht.
+- Hohe 240,Breite 170,Tiefe 70 cm.
+- Die beiden Thiren desselben liegen zwischen Lisenen, welche mit aufstrebendem Blumenwerk geschnitzt sind und zeigen in ihren Fuillungen reliefierte Vasen mit Rankenwerk. Die beiden Thiren des Unterbaues zeigen en haut-relief allegorische Figuren, die in reichen Umrahmungen stehen. Im Sockel zwei Schiebladen. XVIl. Jahrhundert. Hohe 260,Breite 162,Tiefe 64 cm.
+
+<!-- image -->
+
+huM
+
+hir
+
+- 283 Grosses Buffet mit profiliertem Gesimse, das von zwei gewundenen Saulen getragen wird. Im Unterbau befinden sich von drei gewundenen S Saulen flankierte Thiren,deren Fuillungen Nischenumrahmungen bilden und oben von geschnitztem Akanthusblattwerk verziert werden. Die Fillungen der Rickwand werden von Engelskopfchen iberragt. In der Rickwand sowie im Sockel je zwei Schiebladen.XVIll. Jahrhundert. Hohe 235,Breite 173,Tiefe 70 cm.
+
+150.
+
+60
+
+<!-- image -->
+
+805.—
+
+285
+
+500
+
+<!-- image -->
+
+640-
+350
+
+- 284 Grosser Wascheschrank mit vier Thiren in zwei Abteilungen,
+- zwei Schiebladen in der Mitte und zwei im Sockel. Die Thiren werden von drei Saulen flankiert, wahrend die Fillungen der ersteren von geschnitztem Arabeskenwerk umrahmt werden. Die Saulen erheben sich auf geschnitzten Kapitalen und sind mit Schnitzerei verziert. Mit Eisenbeschlagen. Hohe 224, Breite 176, Tiefe 57cm.
+- 285 Wascheschrank vierthuirig, aus Palisanderholz iber Eiche fourniert und poliert. An Gesims und Leisten treten geschnitzte Engels und Lowenkopfe hervor, welche die Flachen des schonen, dunkeln Holzes beleben. Auf den Thiren quadratische Fuillungen, poliert, zwischen den oberen und unteren Thiren ein Schubfach. Kugelfisse. Sehr stattlicher, vornehmer Schrank. Hohe 172,
+
+mhu
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+85一条
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- Breite 160,Tiefe 61 cm.
+- 286 Grosser Halbschrank mit zwei Thiren und zwei Schiebladen im Sockel. Die beiden Thiren werden von drei gewundenen Saulen flankiert und sind mit je zwei profilierten Fuillungen geschnitzt. Die obere derselben wird von einem vollrunden Engelskopf zwischen Blattwerk iberragt, wahrend die untere von Rankenwerk rahmenartig umzogen wird. Hohe 140,Breite 140,Tiefe 59 cm.
+- 287 Halbschrank mit stufenartigem Aufbau, der neun Schiebladen birgt. nischenartiger Fuliung, die von zwei Saulen flankiert und von
+- Die Vorderseite des Schrankes zeigt eine Thire mit einem geschnitzten Gesimse iberragt wird. Die Vorderseiten der Schiebladen werden von gefrasten Leisten eingefasst. Im Sockel ebenfalls eine Schieblade. Hohe 180, Breite 120, Tiefe 62 cm.
+- 288 Halbschrank mit einer Thire, die von zwei Saulen flankiert
+- wird. Die Thire ist mit einer nischenartigen Fuillung zwischen zwei Saulen verziert, ober der ein gefligelter vollrunder Engelskopf. Mit Schieblade. Hohe 125,Breite 110, Tiefe 54 cm. tar
+- 289 Kleiner Halbschrank auf vier Fuissen. Die Vorderseite zeigt eine von zwei hellen Saulen flankierte Thire, welche nischenformig gebildet ist und von geschnitztem Arabeskenwerk umrahmt wird. Mit einer Schieblade oben und unten. Hohe 105, Breite 71,Tiefe 48 cm.
+- 290 Zweithuiriger Schrank mit Schieblade im Sockel, einfach. Auf vier Fissen. Hohe 167, Breite 72, Tiefe 46 cm.
+- 291 Secretaire in Kommodenform mit Aufbau, der acht Schiebladen birgt und mit zwei Thiren geschlossen wird. Die Vorderseite derselben zeigen in bunter Intarsia zwei bewaffnete Manner auf dunklem Fond, der von schwarzen Voluten eingerahmt wird. Die schiefe Schreibplatte bedeckt finf Schiebladen. Mit Bronzebeschlagen. Louis XIV. Hohe 198,Breite 105, Tiefe 60 cm.
+- 292 Kleines Schreibpult mit schiefer Platte, welche wie die Wandungen mit Blumen- und Blattwerk in bunter Intarsia verziert ist.Die Intarsia der Platte bildet einen Blumenkranz, der XVill. Jahrhundert.
+- ein bekrontes Monogramm umschliesst. Hohe 14, Lange 43, Breite 36 cm.
+
+a
+
+0
+- 293 Rokoko-Konsoltisch mit grinmarmorierter Platte aus Stuck. Das Gestell vergoldet und iberaus reich en rocail geschnitzt. Die beiden Volutenfisse durch Grottenwerk verbunden. Hohe 83, Breite 67,Ausladung 38 cm.
+- Lau 294 Consoltisch mit weisser Marmorplatte. Das vergoldete Gestell ist reich geschnitzt. Rokoko. Hohe 85, Breite 72, Tiefe 46 cm.
+- 295 Consoltisch mit grossem Spiegel. Das Gestell des ersteren sowie der Spiegelrahmen sind vergoldet und mit Grotten und Muschelwerk in Holz reich geschnitzt. Mit rotlicher Marmorplatte. Rokoko. Hohe des Tisches 86, Breite 65, Tiefe 45 cm.
+- 296 Consoltisch von ahnlicher Ausfuihrung. Mit rotlicher Marmorplatte.Hohe 85,Breite 65, Tiefe 42 cm.
+- W298 Langlicher Tisch mit geschweiften Fissen, mit Voluten- und Muschelwerk verziert. Rokoko. Hohe 71,Lange 100, Breite 68 cm.
+- 297 Grosser viereckiger Tisch. Renaissance. Hohe 76,Lange 120, dauArrBreite 110 cm.
+
+a
+
+- 299 Tisch mit starken Kugelfissen und Verbindungsstick. Neuer Aufsatz. Als Schreibtisch oder als Dressoir zu benitzen. Mit Schubfach. XVIl. Jahrhundert. Hohe 73,5 Breite 84,5, Tiefe (Aufsatz) 63cm.
+
+dr
+
+- 300 Tischchen mit achteckiger Platte, welche ein eingelegtes Carreau
+- 301 Zwei einfache Tische. Hohe 78 und 77, Lange 54 und 80, Breite 41und 51 cm.
+- 302 Italienischer Lehnstuhl mit Holzlehne und Holzsitz. An der Rickenplatte wie am Vorderstick befindet sich Intarsia,oben eine Jagdszene, unten Ornament. Nussbaumholz.XVI. Jahr-
+- 303 Acht Florentinerstihle aus Nussbaumholz, hochlehnig, gepolstert, mit ornamentiertem und vergoldetem Lederbezug. XVll. Jahrhundert. Aus dem Palazzo Fondi in Florenz. Hohe 121, Breite 51 cm.
+- hundert. Hohe 121, Breite 58 cm.
+- 304 Schweizer Lehnstuhl mit vier gedrehten Fuissen. Die offene
+- Rickenlehne ist reich geschnitzt und zeigt oben zwischen zwei Wappen ein Mascaron. Die Armstitzen mit Blattwerk verziert. Hohe 96, Breite 60, Tiefe 40 cm.
+- 305 Fauteuil in vergoldetem Gestell mit geblumtem und gestreiftem Seidenbezug. Louis XVI. Hohe 90.Breite 57, Tiefe 50 cm.
+- 306 Stuhl, Louis XVl., auf vier kannelierten Fussen. Das Gestell weiss und gold mit Scheibenornament geschnitzt. Die ovale Rickenlehne und der Sitz gepolstert und mit weiss und blassgrin gestreiftem und buntgeblumtem Seidenstoff bezogen. Hohe 120, Breite 56,Tiefe 47 cm.
+- 307 Lehnstuhl mit grinem Bezug aus Peluche. Hohe 105, Breite 46,
+- Tiefe 40 cm.
+- 308 Stuhl mit Lederbezug am Sitz und Rickenlehne.H Hohe 88,
+- Breite 44,Tiefe 43 cm.
+
+<!-- image -->
+
+<!-- image -->
+- 309 Hocker mit vier geschnitzten Fissen und Traversen. Mit braunem Bezug aus Peluche. Hohe 50, Quadratseite 40 cm.
+- 310 Thure aus Holz geschnitzt, mit zwei Fullungen. Die obere derselben bildet eine Nische und wird von einem Mascaron iberragt;die untere wird von Akanthusblattwerk umrahmt.
+- Hohe 183,Breite 73 cm.
+
+## Oelbilder, Oelstudien, Zeichnungen, Kunstblatter
+
+- 311 Achenbach A. Marinebild mit Segelbooten. Oel auf Holz.In Goldrahmen.Hohe 7,5, Breite 22 cm.
+- 312 Adamo M.Vier figirliche Darstellungen.,Im Pachte—,Grosses Haus,bezahlte Schulden"—,Erhebung". Ein Bild bez.:Adamo
+- 313 Bach G.Partie aus
+1864. Kohleskizzen. Hohe 88, Breite 119 cm.
+- dem Nymphenburger Schlosspark.Im Hintergrunde Rotwild.Unten rechts bez.:G. Bach 1867.(?) Oel auf Leinwand. In Goldrahmen. Hohe 27,Breite 23 cm.
+- In Rahmen. Hohe 43,Breite 34 cm.
+- 314 Graff Anton. Portrat des I. R. Schellenberg, Maler und Kupferstecher aus Winterthur,1740-1806. Brustbild. Oel auf Leinwand.
+- 315 Grunewald E. Mannliches Brustbild. Unten rechts bez.: E. Grunewald,Muinchen 84. Kohlezeichnung. Hohe 43, Breite 31 cm.
+- 317 Marr H. Ansicht von Kienau mit dem Staufen im Hintergrunde. Im Vordergrunde eine Hihnerfamilie. Unten rechts bez.: H. Marr. Oel auf Holz. In Goldrahmen. Hohe 37, Breite 45 cm.
+- 316—. Weiblicher Studienkopf. Unten links bez.:E. Grinewald 1894. Ebenso. Hohe 56, Breite 38 cm.
+- 318 Palme A. Figirliche Darstellung. In einer Felsenhohle kniet eine weibliche Figur am Boden, wahrend sie die mit einem Pfeile bewaffnete rechte Hand zum Stosse emporgehoben hat. Ein Ritter in Rustung und mit Flugelhelm auf dem Kopfe naht sich ihr und halt ihren rechten Arm zurick. Unten links bez.: A Palme, Minchen 1843. Oel auf Leinwand.In Goldrahmen. Hohe 68,Breite 53 cm.
+- Oel auf Holz. In Goldrahmen. Hohe 14, Breite 13 cm.
+- 319 Ranzoni G. Weisser Pudel, sitzend. Rechts monogr.: G. R.
+- 320 Schleich S. Kleine Landschaft mit Regenbogen. Oel auf Holz.
+- 3219 Stademann Ad. Winterlandschaft mit mannlicher Figur im Vordergrunde. Unten links undeutlich bez. Oel auf Pappe. In Goldrahmen. Hohe 17,Breite 22 cm.
+- 322
+- In Goldrahmen. Hohe 9,Breite 12,5 cm.
+- Winterlandschaft mit Schlittschuhlaufern. Unten links bez.: A.Stademann. Oel auf Holz. In Goldrahmen. Hohe 20, Breite 25 cm.
+- 323 Valdes Leal, Don Juan de. Der Kartenspieler nach links gewandt. Oel auf Leinwand. In Rahmen. Hohe 86, Breite 56 cm.
+- 325 Voltz L. Rehbock im Vordergrunde einer bewaldeten Landschaft stehend. Unten rechts bez.:L. Voltz. Oel auf Pappe. In Goldrahmen. Hohe 20,5,Breite 22 cm.
+- 324 —. Pendant zu Vorigem. Undeutlich bezeichnet. Ebenso. Ebenso.
+
+## 22
+
+- 326 Die hl. Familie mit dem kleinen Johannes im Vordergrunde einer Landschaft. Auf Holz. In Goldrahmen. Hohe 72, Breite 64 cm.
+- Hohe 71,Breite 96 cm.
+- 327 Frondbergs Lager. Historische Darstellung. Kohlezeichnung.
+- 328 Historische Darstellung. Oelstudie auf Leinwand. Hohe 89,
+- Breite 87,5cm.
+- 329 Desgleichen. Kohlezeichnung. Hohe 144, Breite 264 cm.
+- 330 Sehr grosse historische Darstellung.Oelstudie auf Lein-
+- wand.Hohe 119,Breite 200 cm.
+- 331 Trauernde Mutter mit Kind vor einer Urne sitzend. Oelstudie
+- auf Leinwand. Hohe 162, Breite 112 cm.
+- 332 Der Astronom. Oel auf Leinwand. In geschnitztem Rahmen. Hohe
+- 21,5,Breite 16,5 cm.
+- 333 Turkischer Wachter. Aquarelle. Unter Glas. In Goldrahmen. Hohe 39,5,Breite 27,5 cm.
+- 334 Fischer am Strande. Kohlezeichnung. Hohe 88. Breite 119 cm.
+- 335 Figirliche Darstellung mit vielen Personen um eine Tafel gruppiert. Kohlezeichnung. Hohe 51, Breite 89 cm.
+- 336 5 diverse Darstellungen. Kohlestudien.Verschiedene Grossen.
+- 337 2 sehr grossef figirliche Darstellungen. Fragmente. Kohlezeichnungen. Hohe ca. 110, Breite ca. 150 cm.
+- 338 8 grosse figirliche Darstellungen. Kohlestudien. Verschiedene
+- Grossen.
+- 339 10 diverse Darstellungen. Oelstudien.Verschiedene Grossen.
+- 340 6 desgleichen.Ebenso. Ebenso.
+- 341 Diverse Darstellungen. 39 Blatt. Oelstudien.
+- 342 Eine Partie diverse Darstellungen.Bleistiftskizzen u.A.
+- 343 Illustration zu Schillers ,Taucher". Kohlezeichnung. Hohe 62, Breite 42 cm.
+- 344 Brustbild eines Herrn in schwarzem Costim mit weisser Halskrause. Oel auf Leinwand. Hohe 36, Breite 29 cm.
+- 345 Bildnis eines jungen Mannes mit Kette, die sich iber die
+- linke Schulter zieht. Oelstudie auf Leinwand. Hohe 60, Breite 48 cm.
+- 346 Mannliches Brustbild in blauem Rocke, gelber Weste und weissem Jabot. Oval. Pastell. Unter Glas. In Goldrahmen. Hohe 15,5, Breite 12,5 cm.
+- 347 Doppelportrait. Oelstudie auf Holz. Hohe 32, Breite 41 cm.
+309
+
+1557
+
+<!-- image -->
+
+- 348 Doppelportrait. Oelstudie auf Leinwand. Hohe 375, Breite 45 cm.
+- 349 Bildnis einer Dame in einer Parklandschaft, an einem Brunnen stehend. Oval. Pastell auf Pappe. In Goldrahmen. Unter Glas. Hohe 46, Breite 36 cm.
+- 350 Bildnis einer Dame in weissem Kleide, sitzend, die Hande
+- im Schosse. Oval.. Ebenso. Ebenso. Gleiche Grosse.
+- 3519
+- Sehr grosses Stillleben mit Frichten, diversen Esswaren und Gefassen. Auf Leinwand. In Rahmen. Hohe 120, Breite 200 cm.
+- 352 Zwei Stillleben mit totem Gefligel. Oel auf Leinwand. In Gold-
+- rahmen. Hohe 73, Breite 97 cm.
+- 353 Landschaft mit verschiedenen Gebauden. Rechts kommt aus einer Ruine ein Wanderer mit einem bepackten Esel, wahrend sich im Vordergrunde rechts ein zweiter Wanderer gelagert hat. Unten links undeutlich bezeichnet. Oel auf Kupfer. In Goldrahmen.
+- Hohe 26,Breite 33 cm.
+- 354 Landschaft mit Hirtenstick im Vordergrunde.I Higelkette mit turmahnlichem Gebaude. Oel auf Leinwand. Hohe 25, Breite 33 cm.
+- Links eine
+- 355 Landschaft mit Gebaude hinter einem Baume. Oelstudie auf
+- Leinwand. Hohe 33,Breite 25 cm.
+- 356 Felsenstudie mit Wasserfall. Oel auf Holz. In schwarzem Rahmen.
+- Hohe 26,Breite 19 cm.
+- 357 Pokal.Oel auf Holz. Hohe 40, Breite 20 cm.
+
+## 2
+
+- 358 Die hl. Dreieinigkeit auf Wolken. Gr.-Fol. Lithographie. Unter
+- Glas. In Rahmen.
+- 359 Die hl. Familie mit der hl. Elisabeth und dem hl. Johannes. Fol.
+- Photographie. Unter Glas. In Rahmen.
+- 360 Madonna mit dem Kinde und zwei Heiligen. Gr.-Fol.Lithographie. Unter Glas. In Rahmen.
+- 361 Historische Darstellung. M. Adamo p. J. Deininger sc. Qu.-Fol. Unter Glas. In Rahmen.
+- 362 Zwei historische Darstellungen. Qu.-Fol. Stich und Photo-
+- graphie. Unter Glas. In Rahmen.
+- 363 Eine Partie diverse Darstellungen. Stiche, Zeichnungen u. A.
+- Verschiedene Grossen.
+- 364 Desgleichen. Stiche, Lithographien u. A. Verschiedene Grossen.
+- 365 Desgleichen. Ca. 250 Blatt. Photographien. Verschiedene Grossen.
+- 366 Diverse Portraits. 47 Blatt. J. Chr. Kolb exc. Kl.-Fol. Stiche.
+- 367 Desgleichen. 61 Blatt. Stiche u.A.
+- 368 Minchener Trachtenbuch. Herausgegeben von Friedr. Wolf, gez. u.lith.v.W. Diez. 31 Bl.40.
+- 369 Armes et Armures du Moyen-age La Renaissance. 47 Blatt. Asselineau lith. Fol.
+- Unter Glas. In Rahmen.
+- 370 Ansicht der Walhalla bei Kehlheim. Qu.-Fol. Lithographie.
+- 371 Landkarten. 82 Blatt. Roy.Qu.-Fol. Farbig.
+- 373 Eine Partie diverse llustrationen.
+- 372 L'Art pour Tous. Eine Partie llustrationen.
+- 374 Eine Partie Bilderbogen u.A.
+- 375 Drei Pergamenturkunden mit Siegel.
+- 376 Eine Partie Skizzenbucher.
+
+## Bucher
+
+- 377 Allgemeine deutsche Real-Encyklopadie fur die gebildeten Stande. (Konversations-Lexikon.) 12 Bd.Leipzig: F.A. Brockhaus
+- 1833.4°.Hlbfrzbd.
+- 378 Caussino,R.P Nicolao.Heilige Hoffhaltung das ist:Christliche Unterweisungen etc. Finffter Theil. Joh. jacklin, Minchen, 1705.4.Ldbd.
+- 379 Denkbuch der Franzos. Revolution von Franz Eug. Frh. von Seida und Landensberg. 2 Bd. Mit je 42 Kupfern. Memmingen 1815und1819. Qu.-Fol.Pppbd.
+- 380 Europa. Des Verwirreten Europae Continuation oder Wahre Historische Beschreibung etc.Andreas Mullern. Mit vielen Kupfern. 2 Bd. Amsterdam,Wittibe J.von Sommern / Heinrich
+- und Diederich Boom.1680 und 1683. Fol. Ldbd.
+- 381 一. Oder Politische und Historische Beschreibung etc. Petrus Valckenier. Mit schonen Kupfern.Amsterdam, Jakob von Meurs / Johannes von Someren, Henrich und Diederich Boom 1677.Fol.Ldbd.
+- 382 Faberio,R.P.F.Vito.Zwey und Funfftzig Discursus Oder Predigten Ueber die Sonntag dess gantzen Jahrs. Sultzbach 1677.40. In gepresst. Ldbd
+- 383 Frankreich. Das Durch der hohen Allirten zu Wasser und Land beunruhigte Konigreich etc. Mit vielen Kupfern. 8o. Ldbd.
+- 384 Haus=Chronik. K. Braun und Friedr. Schneider,Munchen. Fol.
+- 385 Hirth, Georg. Kulturgeschichtliches Bilderbuch aus drei Jahr-
+- hunderten. Gr.-Fol.Unvollst.
+- 386 Hof= und Staatshandbuch des Konigreichs Bayern 1870. Minchen,4°.Pppbd.
+- 387 Hogarth, W. The Works of William Hogarth After The Original Plates Photolithographed On 1i8 Leaves,By Charles Haack At Vienna. With A. Biographicae Essay etc. and Explanations etc. By John Nichols Esqu. Roy.Fol. Pppbd.
+- 388 Holbein und seine Zeit. Von Dr. Alfred Woltmann. 2Bd. und ein Supplement. C. A. Seemann, Leipzig 1866, 1868. 4°. br.
+- 389 Hugenotten des XVI. Jahrhunderts.Dr. Carl Herzog nach W.S.Browning.2 Bd.Leipzig 1830.4.br.
+- 390 Jager,Dr.C. Skizzen aus dem Tiergarten. Fol. 69 Hefte.
+- 391 Mebold, Dr.C. A.Welt-Gemalde-Gallerie etc. 9 Bd. und 14 Hefte. Stuttgart,C. Schweizerbart. 1836—1840. 4. Pppbd.
+- 392 Motley, John Lothrop.Der Abfall der Niederlande etc.
+- 3Bd.Dresden,Rud.Kuntze 1858.4°.br.
+- 393 Muther,Richard. Geschichte der Malerei im XiX. Jahrhundert.
+- G.Hirth, Muinchen 1893. 3 Lief. Fol. br.
+- 394 Nitribitt,P. Ludovico. Lob-Ehren-Und Sitten-Predigen etc. Erster Teil. Wirtzburg, Joh. J. Chr. Kleyer 1753. Fol. In gepr.
+- Schwslbd.
+- 395 Nouveau Dictionnaire des Passagers Francois-Allemand etc. J. L.Frisch.Leipzig 1712.40. In gepr. Schwsldbd.
+- 396 Pelzel's Boehmische Kronik. Neue Kronik von Bohmen Vom Jahre 530,bis 1780.Nebst einer geographischen Beschreibung etc. Joh.Ferd. Edlen von Schonfeld,Prag.1780. Gr.4.Mit beschriebenen Blattern durchschossen.Ldbd.
+- 397 Systematische Bilder=Gallerie zur allgemeinen deutschen Real-Encyklopadie,in 225 lithographierten Biattern.I. Abteilung. Naturwissenschaft. Karlsruhe und Freiburg 1840. Fol. Hlbfrzbd.
+- 398 Zeitschrift fir bildende Kunst.Jahrgang 1866-1877. (Jahrg.1869 unvollstandig.) Fol.
+- 399 Elf diverse alte Bucher, ein Bucheinband und verschiedene Initialen.
+- 400 Eine Partie diverse Bicher.
+## Arbeiten in Porzellan, Thon, Fayence
+
+- 401 Acht chinesische Figuren, die Heiligen vom Berge darstellend. Auf der Ruckseite einer jeden Figur Schriftzeichen. Hohe 10 cm.
+- Lange 6,5 cm.
+- 402 Zwei weisse Pudel auf bemalten Sockeln sitzend. Hohe 9,
+- 403 Sitzender schwarzer Hund (Flacon). Hohe 5,5 cm.
+- Hohe 12,Lange 14 cm.
+- 404 Stehender Mops. Weiss.
+- 405 Stehender Mops mit grinem Halsband, auf mit Blumen ver-
+- 406 Brauner sitzender Mops (Flacon).
+- ziertem Sockel. Hohe 9,5, Lange 9, Breite 6 cm.
+- Fabrikat Meissen.Marke: Doppelschwerter. Hohe 6 cm.
+- 408 Zwei grosse Mopse auf achteckigen, schwarzen Sockeln sitzend. Hohe 16,Lange 14,Breite 9 cm.
+- 407 Kleiner Mops auf violettem Kissen sitzend. Fabrikat Berlin. Marke: Szepter. Hohe 7,Linge 5, Breite 3,5 cm.
+- 409 Zwei kleine Mopse, sitzend. Hohe 5 und 6 cm.
+- 410 Zweiteiliger Speiseeinsatz aus gedeckelten Porzellanschisseln bestehend,die mit bunten Emailfarben bemalt und reich mit vergoldetem Silber montiert sind. Jede Schiissel mit zwei vergoldeten silbernen Henkeln versehen. Die Deckel bilden zugleich einen Teller, dessen Inneres mit einem vergoldeten Teller belegt Bogen, der Einschnitte fir die Henkel aufweist.Hohe 22,5,Diam.15 cm.
+- 412 Chinesische Theekanne mit silbernen Henkel und Deckelgriff. Die gerippte Leibung und Deckel sind mit Blumen- und Blatt-
+- 411 Kleine Henkelkanne mit kugelformigem Korper und schlankem Halse. Die Leibung des ersteren zeigt in Purpur eine Kartusche, die eine Meerlandschaft mit Delphin einschliesst. Mit vergoldetem silbernem Deckel und Fassung, ersterer mit einer Rosette und einem Ornamentfries verziert.Hohe 18, Diam. 8,5 cm.
+- werk in Rot und Blau bemalt. Hohe 9, Diam. 8 cn.
+- 413 Kleine gedeckelte Theekanne, rot, mit Goldiassung. Mit chinesischen Stempeln. Hohe 7, Diam. S cm.
+- 415 Fruchtkorb mit durchbrochener Wandung, welche innen und
+- 414 Chinesische Theebichse mit silbernem Deckel und Fuss. Den kugelformigen Korper bedeckt blaues Blatt- und Ornamentwerk. Hohe 7,5, Diam.7 cm.
+- aussen mit Blumen und Fruichten in Bunt bemalt ist. Hohe 6,5, Lange 18, Breite 13,5 cm.
+- 416 Gedeckelte Bouillontasse mit vergoldeter Silbermontierung.
+- Die Tasse ruht in einem doppeltgehenkelten, vergoideten Mantel, der zwei Medaillons umschliessendes Arabeskenwerk in durchbrochener Arbeit zeigt. Der auch als Teller dienende Deckel wird am Rande und Fuss von vergoldeten Reifen umzogen. Blumen- und Blattwerk in Rot, Blau und Gold bedeckt Tasse und Deckel. Nebst Unterteller in entsprechender Ausfihrung. Hohe 12,5,Diam.12,5,Diam.des Tellers 22 cm.
+- 417 Becherformige Henkeltasse mit Untertasse,mit Golddecor auf dunkelblauem Fond. Die Obertasse zeigt in einem bunt bemalten Medaillon eine figirliche Darstellung, im Fond des Untertellers bewasserte Landschaft mit grossem Gebaude und Bricke im Vordergrund. Fabrikat Meissen. Marke:Doppelschwerter.
+- Hohe der Tasse 5,7,Diam. der Untertasse 13,2 cm.
+- 418 Becherformige Henkeltasse mit Untertasse. Die Vorderseite der Obertasse zeigt in einem viereckigen Felde eine figirliche Darstellung in Buntmalerei. Innen vergoldet. Die Untertasse von entsprechender Ausfihrung.Hohe der Tasse 6,4, Diam. der Untertasse 13 cm.
+- Gold bemalt. Auf der Obertasse in achteckigem Felde eine Den Fond der Untertasse ziert eine Rosette, den Rand umzieht ein Goldstreifen. Fabrikat Wien. Marke:Bindenschild. Hohe der Tasse 6,Diam. der Untertasse 13,5 cm.
+- 419 Becherformige Henkeltasse mit Untertasse, in Graublau mit Allegorie auf die Philosophie in Braun.
+- 420 Schalenformige Tasse mit Untertasse. Die Leibung der Obertasse zeigt auf tirkisblauem Fond zwei Felder, welche bunte Landschaftsbilder mit Staffage umschliessen. Im Innern Landschaftsmotiv in Purpur und goldenes Zackenornament am Rande, welches auch den Rand der Untertasse umzieht. Im Fond derselben in goldener Kartuschenumrahmung eine in Bunt ausgefihrte Landschaft. Fabrikat Meissen. Marke:Doppelschwerter mit Goldnummer 9. Hohe der Tasse 4.5,Diam. der Untertasse 13 cm.
+- 421 Braune Wedgwoodschale,das Innere mit Silber belegt. Die Aussenwand bedeckt ein reliefierter Blumenzweig, der zugleich den Henkel bildet. Hohe 4, Diam. 8,2 cm.
+- 423 Kleine ovale Schale mit durchbrochener Wandung, die von
+- 422 Zwei runde Schalen mit silbernem Griff auf ebensolchem Fuss. Ersterer graviert,letzterer geschweift und mit einem Ornamentfries versehen. Die Schale mit Pflanzenwerk bemalt. Mit niederlandischer Silbermarke.Hohe 8,Diam.13 cm.
+- frei gearbeiteten, bunten Vergissmeinnichtzweigen umzogen wird. Im Fond Blumen und Insekten. Hohe 3,5. Lange 8,5, Breite 7 cm.
+- 424 Chinesische Dose in Facherform mit figirlicher Darstellung und Ornamentwerk in bunten Farben und Gold bemalt. Hohe 2, Lange 11, Breite 3,S cm.
+- 425 Henkelkrug mit silbernem, getriebenem Deckel und Fuss. Die
+- Grunde bemalt. Auf dem Deckel Marke. Hohe 18,5, Diam.10 cm.
+- 426 Gedeckelte Schissel in Form eines grinen Krautkopfes.
+- 427 Standleuchter auf achteckigem Fuss mit ebensolchem Schafte
+- Hohe 17,5,Diam.20,5cm.
+- und Lichttille, welche mit Blatt- und Ornamentwerk buntbemalt sind. Mit Marke. Hohe 21,5, Diam. 12,5 cm.
+- 429 Zwei kleine Standleuchter auf rundem Fusse. Hohe 9,5,
+- 428 Aehnlicher Leuchter. Ebenso. Gleiche Grosse.
+- Diam.6 cm.
+- 430 Thonrelief. Napoleon. In ganzer Figur, stehend. Er tragt einen Hermelinmantel und einen Lorbeerkranz auf dem Kopfe. In der Rechten halt er einen langen Stab, worauf der Adler, die Linke ist an den Degengriff gelegt. Neben ihm liegen auf einem Kissen Szepter und Reichsapfel. Polychromiert. Hohe 25, Breite 17 cm.
+
+## Arbeiten in Glas
+
+- 431 Gedeckelter Pokal auf rundem Fusse.I Der Deckel aus vergoldetem Silber wird von einem gravierten Ornamentfries umzogen, desgleichen die vergoldete Silberfassung, in welcher der Fuss ruht. Die geschliffene Leibung zeigt Rosettenmuster. Mit Augsburger Beschauzeichen und Meistermarke. Hohe 21,Diam.10 cm.
+- 432 Gedeckelter Pokal mit vergoldeter Silbermontierung. Der abgeflachte Korper zeigt auf der Vorderseite einen Doppeladler. Den Deckel umzieht ein Arabeskenfries in geatzter Arbeit. Als Deckelgriff dient ein geschliffener Knopf Hohe 18,5, Lange 9, Breite 6,8 cm.
+- 433 Becher mit geschliffenem Schafte auf achteckigem Fusse, der mit vergoldetem Silber montiert ist. Den geschliffenen Kugelkorper umzieht oben ein geatzter Blattfries. Der Fuss wird von einem ebensolchen Arabeskenfries umzogen. Hohe 10, Diam. 8 cm.
+- 434 Henkelkanne mit silbernem Deckel,silbermontiertem Hals und Fuss. Der Deckel zeigt in getriebener Arbeit einen Bossenfries, der eine Weintraube umschliesst. Der kugelformige Korper mit gepressten Friesen, der schlanke Hals abgeflacht. Hohe 22, Diam.11,5cm.
+- 435 Apothekerflasche mit vierseitigem Korper und zweifach ausgebauchtem Halse. Die eine Seite zeigt en relief den Kopf des Merkurs, darunter der Caduceus und zwei Blumenvasen; auf der Rickseite die gleiche Darstellung ohne Stab. Hohe 21,5, Breite 11, Tiefe 5.5cm.
+- 436 Vier geschliffene Flacons mit Silbermontierung und silbernem Trichter in einem Lederetui. Dasselbe ist mit figirlichen Szenen
+- in Bunt bemalt und mit graviertem Silber montiert. Lange der Flacons 6, Breite 2 cm. Dabei finf Ersatz-Flacons.
+<!-- image -->
+
+<!-- image -->
+
+## Arbeiten in edlem Metall
+
+- 437 Tempel, fuir eine Buddhastatuette,aus Silber. Die cylindrische, doppelthirige Leibung, innen vergoldet,ruht auf einem Blattkelch ahnlichen Knauf, der von einem runden Fusse getragen wird. Letzteren umzieht graviertes Ornamentwerk. Als Bekronung dient ein von Ringen umzogener Stachel, an dem ein Glockchen hangt. Hohe 20,5, Diam.7 cm. Gewicht: 300 gr.
+- 438 Zwei Thoraverzierungen in Gestalt von zwei Glocken, die in kronenartigem Gehause ruhen, das von einer kannelierten Saule getragen wird. Letztere umzieht unten ein Blattfries. Die von einem Vogel iberragte Krone, sowie der sie tragende Kelch ist mit Perlstabfriesen verziert. Silber,vergoldet.Mitte des XVIll. Jahrhunderts. Mit Augsburger Beschauzeichen und Meistermarke.
+- Hohe 24,Diam. 8,2 cm. Gewicht: 655 gr.
+- 439 Zwei Thoraverzierungen aus Silber in Form von Saulen auf rundem Fusse. Das Glockengehause in Form einer vergoldeten den Fuss umziehen die Sternbilder.
+- Krone, die ein auf der Saule stehender Lowe tragt. Die kannelierte Leibung ziert reliefiertes, aufstrebendes Blatt- und Blumenwerk, (Eine Krone fehlt.) Hohe 23,Diam. 9,5 cm. Gewicht: 400 gr. und 340 gr.
+- 440 Silbernes Service, bestehend aus gedeckelter Kaffee-,Thee-, Rahmkanne und Zuckerdose.S Samtliche Sticke werden von vier Fuissen getragen und sind an der Wandung mit Ornamentwerk verziert.Mit Marke. Hohe der Kannen 10, 16, 20, der Dose 8 cm.
+- 441 Jardiniere,aus einer vergoldeten Schale bestehend, die in einem silbernen Mantel ruht. Letzterer zeigt in beiden Henkel bilden in Voluten endigende Karyatiden.
+- getriebener Arbeit reiches Kartuschenwerk und durchbrochenes Gitterornament. Die Mit Marke. Hohe 13, Lange 35, Breite 17 cm. Gewicht: 990 gr.
+- 442 Silberne Theekanne mit weitem Henkel. Die gebauchte
+- 443 Ovale silberne Platte. Der Fond zeigt in hoch getriebener Arbeit eine Hirschjagd, den Rand umzieht ein Blumen- und Blattfries. Auf dem Boden eingraviert: J. B. 1746. Lange 25,8, Breite 18,5 cm. Gewicht: 240 gr.
+- Leibung zieren zwei reliefierte Blatter, die griin emailliert sind. Der Boden mit getriebener Tropfenmusterung. Den Deckelgriff bildet ein Blattzweig. Hohe 9, Diam. 10 cm. Gewicht: 400 gr.
+- 444 Desgleichen mit hoch getriebenem Hirtenstick im Fond. Am Rande ein Blumen- und Blattfries. Lange 27,8, Breite 20,5 cm. Gewicht:340 gr.
+- 445 Zwei runde Schalen aus Silber, auf rundem Fusse. Das Innere der Schalen ist mit Korbflechtmusterung graviert.I Mit zwei versilberten Henkeln. Hohe 6,5, Diam. 22,5 cm.
+- 446 Schale auf vierseitigem Fusse, in Silber getrieben mit Kartuschenwerk und durchbrochen gearbeiteten Blumenzweigen. Mit Glaseinsatz. Dabei ein muschelformiger Loffel. Hohe 15, Diam.12,5 cm. Gewicht:245 gr.
+32.
+
+- 447 Silberner Becher, zum Teil vergoldet. Die Leibung umzieht oben und unten ein Fries aus Voluten- und Palmettenwerk gebildet. Anfang des XVlll. Jahrhunderts. Mit Augsburger Beschau-
+- zeichen und Meistermarke.Hohe 8,5,Diam. 6,5 cm. Gewicht: 95 gr.
+- schmiickt. Dasselbe wird von einer neunzackigen Krone iberragt und zeigt im Felde einen stehenden Lowen auf Querbalken. Mit Strassburger Beschauzeichen und Meistermarke. Hohe 75, Lange 8,
+
+<!-- image -->
+
+9
+
+- Breite 6,2 cm. Gewicht:110 gr.
+- 449 Sirberner Becher mit getriebener Wandung, welche Blumen und Blattwerk von runden Medaillons durchsetzt, bedecken. Letztere zeigen figiirliche Darstellungen und Pferde. Mit Umschrift. Mit Beschauzeichen und Meistermarke. Hohe 1l, Diam.9 cm. Gewicht:165 gr.
+- mantel, der in Silberauflage Meereswellen und Vogel zeigt. Mit Beschauzeichen und Meistermarke. Hohe 10,3, Diam.8,3 cm. Gewicht
+- 451 Silberner Becher, innen vergoldet. Er ruht in einem finf孔 passformigen, vergoldeten Silbermantel auf rundem Fusse. Die Wandungen des Mantels zeigen in durchbrochener Arbeit aufstrebende Blatranken. Mit Marken. Hohe 9,2,Diam.4 cm. Gewicht:130 gr.
+- 35.
+- 453 Silberner Bechermantel in Vierpassform mit Blattmusterung
+- des silbernen Bechers:100 gr.
+- 452 Sechs silberne kleine Becher,vergoldet. XiX. Jahrhundert. Franzosische Arbeit. Mit Marken. Hohe 4, Diam. 4,3 cm. Gewicht: 85 gr.
+- durchbrochen gearbeitet. Hohe 5,5, Diam. 3,5 cm. Gewicht: 20 gr.
+- brochen gearbeitet, zeigt grin emailliertes Laubwerk. Hohe 7,
+
+<!-- image -->
+
+<!-- image -->
+
+24.
+
+14
+
+- Diam.3,5cm.
+- 455 Besteck,aus vier Teilen bestehend,mit ornamentierten silbernen Griffen.In Etui.Lange 17 und 19 cm.
+- graviert und zum Teil vergoldet. In Etui. Lange 27 cm. Gewicht: 80 gr.
+- 456 Kuchenmesser mit silbernem, ornamentiertem Griff. Die Klinge
+- 457 Ein Paar Vorleggabeln mit vergoldeten Zinken. Die Griffe zum Teil gewunden und mit Blatt- und Ornamentwerk verziert. In Etui. Lange 21 cm. Gewicht:72 gr.
+- Gewicht:62 gr.
+- 458 Ein Paar Vorleggabeln, zweizinkig. In Etui. Lange 21 cm.
+
+<!-- image -->
+
+12
+
+13
+
+- 459 Drei kleine Vorleggabeln mit ornamentierten Griffen.
+- /0 460 Runde Siegelkapsel, Silber vergoldet. Der Deckel zeigt in sehr hoher Treibarbeit das russische Wappen, von einem Blattkranz umrahmt. Russische Arbeit. Mit Beschauzeichen und Meistermarke. Hohe 2,3,Diam. 12,7 cm. Gewicht: 450 gr.
+- In Etui. Lange 12,5 cm. Gewicht: 37 gr.
+- 461 Viereckige Dose mit geripptem Silberdeckel. Die Wandungen und der Boden sind aus Perlmutter und mit Silber montiert. Hohe 3.5,Lange 7,8, Breite 5,7 cm.
+<!-- image -->
+
+- 462 Ovale Dose aus Silber. Hohe 3.5,Lange 7,3,Breite 4.8 cm.
+- Die Aussenwandungen zeigen in durchbrochener, grin emaillierter Arbeit Blumen- und Blattwerk.
+- montierung. Der Deckel zeigt in geschnittener Arbeit einen Eber, von einem Hunde verfolgt.In Lederetui.Hohe4,5,Lange 6,5 cm.
+
+<!-- image -->
+
+<!-- image -->
+
+204
+
+<!-- image -->
+
+- 464 Chatelaine, aus drei silbernen Ketten bestehend, die aus kleinen Rosetten gebildet werden. Lange 1l cm.
+- 465 Guirtel, aus Goldschniren bestehend, die in rinnenartigen Gliedern aus vergoldetem Silber laufen. Letztere sind mit
+- schwarzen Rauten bemalt. Lange 63 cm.
+- 466 4 diverse Kettenverschlusse, teils in Silber, teils in Gold
+- tauschiert. Lange 3,5 bis 9, Breite 1 bis 2,5 cm.
+- 467 3 Desgleichen.
+- 468 2 Desgleichen.
+
+## Arbeiten in diversem Metall; Waffen und
+
+## Bestecke.
+
+- 469 Sehr grosse Vase aus Email-cloisonnee mit hohem eingeschnirtem Halse und ausladendem Rande, den aussen ein Ornamentfries umzieht.Korper und Hals mit blauem Fond, bedecken reiche Gestrauche mit Pflaumenbliten und Rosen, von Tauben
+- belebt. Japanisch.Hohe 150, Diam.50 cm.
+- 470 Rauchgefass in Gestalt einer japanischen Ente. Hohe 275 cm.
+- 471 Grosse,runde Zinnplatte,reich gepunzt, mit hebraischem Schriftfries am Rande.In der Mitte des Fonds das Lamm Gottes in einem Stern, der zwischen seinen Zacken Blumen aufweist und
+- von einem Schriftfries umzogen wird. Diam. 35 cm.
+- 472 Japanische, runde Platte aus dunklem Metall. Im Fond reliefiertes,von Vogeln belebtes Pflanzenwerk, teiis vergoldet und versiibert. Den Rand umzieht ein Fries, der aus von Vogeln belebtem Blumenwerk und phantastischen Tieren gebildet wird.
+- Diam.3 cm.
+- 473 Schale aus Zinn in Muschelform, auf vier Fissen. Der Griff durch eine Kartusche mit Mascaron gebildet. Das Innere der Muschel vergoldet. Dabei ein Loffel. Hohe 10,Diam. 15 cm.
+- 475 Sandstreuer mit vergoldeter Montierung. Die geschweiften Seiten, sowie die Oberflache sind mit bunten Blumen bemalt.
+- 474 Viereckige Dose in Gestalt eines Mopses auf einem Sockel liegend, der mit vergoldeter Bronze montiert ist. Die Oberflache heliblau, die untere Seite dunkeiblau. Hohe 4, Lange 7, Breite 5 cm.
+- Hohe 4,Quadratseite 5 cm.
+- 476 Bugeleisen. Die Oberilache desselben zeigt in gravierter Arbeit fries: GOT·ALLEIN·DIE EHR· ANO 16.55 Hohe 15, Lange 15,5, Breite 9,5 cm.
+
+<!-- image -->
+
+1.00
+
+<!-- image -->
+
+28
+
+28
+
+10.
+
+<!-- image -->
+
+15
+80.
+
+- 478 Reisszeug aus acht diversen Gegenstanden bestehend. In mit
+- 477 Leitung eines romischen Bades aus vergoldeter Bronze mit zwei Vasenauisatzen und einem vollrunden Lowen in der Mitte. Mit Patina. Hohe 13, Breite 17,5 cm.
+- Silber montiertem Etui aus Haifischhaut. Lange 17, Breite 7 cm.
+- 479 Messinstrument,vergoldet; nebst drei Bleikugeln. In Lederetui.
+- Lange 11,5 cm.
+- Mit vergoldeter Silbermontierung, die teils schwarz und weiss emailliert, teils mit roten und blauen Steinchen verziert ist.
+
+<!-- image -->
+
+## 22
+
+- Montierung auf silberner Unterlage. Die Montierung zeigt in reich durchbrochener Arbeit Rankenwerk. Die Scheide ist mit Schriftzeichen enthaltenden, goldenen Ronds bemalt. Der Griff aus Fischhaut ist ebenfalls montiert. Lange 95 cm.
+- mit Pflanzenornament in Goldlack bemalt ist. Die Montierung ist reich mit Insekten und einem Frosch in reliefierter Arbeit, teils vergoldet, teils schwarz, verziert. Der Griff ist aus Fischhaut gebildet und wird von einem braunen Stoff spangenartig bestickt ist. Lange 39 cm.
+- 920 483 Japanischer Dolch mit silbernem Griffe und ebensolcher Scheide, welche reich mit Blumenwerk graviert sind. Auf der Klinge zwei japanische Schriftzeichen. In Etui, das mit gemustertem Goldbrokat bezogen ist. Lange 26 cm.
+- bestehend. Mit der Jahrzahl 1759. In griinem Etui mit Goldverzierung.
+- 485 Reisebesteck, bestehend aus silbernem Loffel, zwei Messern und Gabel in Elfenbeinscheide. Lange 15 cm.
+- tSilbermontierung. Griff und Scheide von einem Messer zeigt Chrysanthemumpflanzen
+- 486 Besteck,bestehend aus Messer und zwei Gabeln mit in Messing montierten Silbergriffen, welche reich mit Laubranken graviert, sind. Lange 15, 15,5 und 11,5 cm,
+- in Gold und Silberlack. Japanisch. (Zum Zerschneiden von Raucherwerk dienend.) Lange 14,5 bis 16,5 cm.
+
+38.4
+
+- 488 Zwei kleine Messer und ein kleiner Stachel mit silbernen, gravierten Griffen, welche von kleinen Tieren iberragt werden. Lange 7,3 bis 10,5 cm.
+- 489 Kuchenheber,versilbert,graviert und mit reliefierten Ornamenten geschmiickt. In Etui. Lange 26 cm.
+- 490 Besteckbank, versilbert.Hohe 8,5,Lange 21,5,Breite 11,5.
+- Lange 25 cm.
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Wagen und Gewichte
+
+- 491 Geldwage mit Hebel aus vergoldeter Bronze, der in reich durchbrochener Arbeit Arabeskenwerk zeigt, das von zwei chimaren Tieren getragen wird. Mit den eingravierten Buchstaben H. E. H. und der Jahrzahl 178l. In Holzetui. Lange des Wagebalkens 24 cm.
+- 492 Desgleichen mit zwei silbernen Schalen und silbernem Wagebalken. Der Hebel in vergoldeter Bronze zeigt in durchbrochener Arbeit Kartuschenwerk.Lange des Wagebalkens 23,5 cm.
+- Mit 27 Gewichten. In Holzetui,das im Deckel folgende Schrift zeigt: Diese geachte Waag und Gewicht macht von Iho Grossherzogl. Durchl. im Grossherzogthum Berg gnadigst privilegirter und geschworner Johann Caspar Mittelstenscheid in der Bergischen
+- Hauptstadt Lennep, 18. Lange des Wagebalkens 15 cm.
+- 494 Desgleichen mit 23 Gewichten.Im Innern des Deckels ahnliche Schrift wie vorige Nummer mit ,Johann Daniel von Berg 179."
+- Ebenso.
+- 495 Desgleichen mit Messingschale und Gewicht. Der Wagebalken aus Elfenbein. In Holzetui. Lange des Wagebalkens 24 cm.
+- 496 Kleine Wage mit eisernem Balken und Schalen aus Messing. Mit sechzehn Gewichten. In Holzetui mit handschriftlichen Bemerkungen, mit der Jahrzahl 1697. Lange des Wagebalkens 10 cm.
+- 497 Aehnliche Wage mit neunzehn Gewichten aus Messing. In
+- Holzetui.Gleiche Grosse.
+- 498 Kleine Wage mit Messingschalen und eisernen Wagebalken. Mit sieben Gewichten. In schwarzem Holzetui,in dessen Innern ein kolorierter Kupferstich mit Wappen. Der Deckel aussen mit einem Wappen geschnitzt. Lange des Wagebalkens 9 cm.
+- 499 Sehr kleine Wage mit Messingschalen und eisernem Wagebalken. Mit acht Gewichten aus Messing. In Holzetui. Lange des Wagebalkens S cm.
+- 500 Desgleichen mit eisernem Wagebalken und zwei Messingschalen.
+- Lange des Balkens 11,5 cm.
+- 501 Wagebalken mit Hebel. Letzterer, aus vergoldeter Bronze,
+- ist mit Ornamentwerk graviert. Lange 23 cm.
+- 502 Sechzehn Gewichte fir eine Geldwage.In Holzetui.
+
+## Diverses
+
+- 503 Inro aus Elfenbein. Der Korper in reliefierter Arbeit mit Fruchtund Blattwerk in Umrahmungen verziert. Mit anhangenden blauen
+- Seidenquasten. Hohe 5,5, Breite 7 cm.
+<!-- image -->
+
+<!-- image -->
+
+- 504 Inro aus Elfenbein mit Paeonien und Chrysanthemen in gefarbtem Bein und Perlmutter belegt. Mit Schnurschieber und Netzke aus Elfenbein, das die sieben Symbole der Glickseligkeit tragt.
+- Lange 8,2, Breite 4,2 cm.
+- mit gemaltem Blumenwerk verziert sind.  Mit Schnurschieber. Hohe 6,3,Breite 7,3,Tiefe 1,5 cm.
+- 506 Inro,dessen Aussenseiten mit Tieren,Ornament- und Blattwerk in Rot auf schwarzem Fond bemalt sind. Mit Netzke,welches
+- Breite 6,7 cm.
+- 507 Inro, aus Silber, innen und aussen schwarz lackiert. Die Aussenseite zeigt in reicher Silbereinlage Arabeskenwerk. Hohe 4,5, Breite 4,8 cm.
+- 508 Inro aus schwarzem Holz mit zwei Figuren in Goldlackmalerei verziert. Mit Schnurschieber und Netzke, das einen Drachen in Elfenbein geschnitzt darstellt. Lange 8,5, Breite 3,7, Tiefe 12 cm.
+- 509 Inro aus Holz mit gemusterter Goldlackmalerei und reliefierten Chrysanthemen auf der Aussenseite. Mit Schnurschieber und Netzke, letzteres wird durch eine braune Holzkapsel gebildet.
+- Lange 6, Breite 4,2 cm.
+- Namen auf dem Boden in Perlmutter eingelegt ist. Hervorragend schones und sehr seltenes Stick. Hohe 4 cm.
+- 511 Netzke aus Bein in Gestalt eines kleinen Korbchens, das im Innern reich geschnitzte Blumen zeigt.Hohe 2, Diam.5 cm.
+- 512 Chinesisches Amulett in Elfenbein durchbrochen gearbeitet, eine Fledermaus und Citronenbliten zeigend. Mit anhangender Seidenquaste in Rot und Grin. Lange 9, Breite 5 cm.
+- 513 Chinesisches Amulett aus Bein in der Form eines Schmetterlings, reich durchbrochen gearbeitet und zum Teil bemalt. Mit anhangenden Seidenquasten. Lange 8,5, Breite 4,5 cm.
+- 514 Amulett, mit persisch stilisierten Blumen auf beiden Seiten bunt bemalt. Der Fond grin,zeigt auf der einen Seite chinesische,
+- auf der anderen mandschurische Schriftzeichen. Lange 6, Breite 4 cm.
+- 515 Glasamulett mit Siegelschrift auf der einen Seite und dem Bildnis der Kaiserin Li Wang mu (?).Mit anhangender roter und griner Seidenquaste. Hohe 7,5, Breite 4,7 cm.
+- 516 Jadeit=Amulett mit dem Zeichen des hohen Alters, der Silbe
+- "Shou“. Lange 6, Breite 4,5 cm.
+- 517 Riechtaschchen aus hellbraunem Holz, auf den beiden Seiten Schriftfriese aus gringefarbtem Bein. Auf dem schwarzen Fond auf einer Seite chinesische, auf der anderen Seite mandschurische Schrift.Lange 6,4, Breite 4,4 cm.
+1OU
+
+20
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+25
+
+<!-- image -->
+
+300
+
+350
+
+<!-- image -->
+
+<!-- image -->
+
+- 518 Japanisches Schminkkastchen fur Damen, mit Silbermontierung. Die Wandungen sind reich verziert mit Kranichen und Pflanzenwerk in Goidlack. Im Innern drei Schiebladen, wovon eine drei gedeckelte Dosen birgt. In Taschchen aus Goldbrokat. Hohe 5, Lange 7,8,Breite 4,7 cm.
+- 520 Cylindrischer Becher, teils aus Silber, teils aus schwarz
+- 519 Tabakstasche aus Leder, mit Schnurschieber aus Bernstein und Netzke. Japanisch. Hohe 13, Breite 11,5 cm.
+- lackiertem Kupfer mit Pflanzenwerk graviert. Japanisch. Hohe 6,8,
+- 521 Sehr grosse, viereckige Kassette, ganz in Goldlack bemalt.
+- Diam.2,9 cm.
+- Die Aussenseite des Deckels ziert ein von einem Fluss durchzogenes Landschaftsmotiv und Chrysanthemen in Gold- und mit ahnlichen Motiven bedeckt. Japanisch. Hohe 16,Lange 42.5, Breite 33 cm.
+- zwei ibereinander stehenden runden Holzplatten ruhend, die von Die bunt bemalten Figuren sind aus Holz und stehen auf einer ovalen, vergoldeten Holzplatte. Die Lichttillen aus Gold-cloisonne. Hohe 21, Lange 18, Breite 13 cm.
+- 522 Chinesischer Leuchter mit zwei cylindrischen Lichttuillen auf drei Kindern getragen werden.
+- 523 Zwei Leuchter in Gestalt von zwei Teufeln, die auf ihrem Kopfe ein Kapital, das als Lichttille dient, tragen. Auf Sockel.
+- 524 Grosser chinesischer Lichtschirm mit viereckiger Platte, welche Szenerien aus buntbemaltem Bein auf beiden Seiten zeigt. In geschnitztem Gestell. Hohe 67,5, Breite 55 cm.
+- Polychromiert.Japanisch. Hohe 36 cm
+- 525 Zwei kleine, chinesische Lichtschirme in geschnitzten Ebenholzgestellen, die mit durchbrochenen grinbemalten Elfenbeinschnitzereien verziert sind. Die beiden Schirme zeigen auf der einen Seite figiirliche Szenen, welche in Elfenbein geschnitzt und bunt bemalt sind. Die Riickseiten sind mit Spiegeln belegt. Hohe 23,Breite 16 cm.
+- 526 Zwolf japanische Schnitzereien (Fensterfillungen?)
+- 527 19 japanische Thirfullungen,welche in reich durchbrochener Arbeit bunt bemaltes, von Vogeln belebtes Pflanzenwerk zeigen. Lange 94,Breite 24,5 cm.
+- aus braunem Holz. Dieselben zeigen in reich durchbrochener Arbeit verschiedene Pflanzen. Darunter Chrysanthemen,Pflaumenbliten, Ahornlaub, Winden. Diam. ca. 16 cm.
+- 527aJesuskind auf rotem Kissen stehend, welches auf einem Sockel liegt, der nach unten in Voluten endigt und ein Fruchtbindel auf der Vorderseite tragt. Die rechte Hand ist segnend erhoben, die linke gerade vorwarts gestreckt. Der Kopf ist mit einer Perricke bedeckt. Vortrefflich modellierte Figur. XVll. Jahrhundert. Hohe 65 cm.
+<!-- image -->
+
+G5.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 528 Sehr grosse Kassette mit zwei Thuiren, welche sechs Schiebladen verbergen.Die Vorderflachen derselben zeigen reichen durchbrochenen Beinbelag. Unter dem Deckel der Kassette verschiedene Facher,iu deren mittlerem bunt bemalte geschnitzte Blumen unter Glas sichtbar sind. Die Aussenseiten der Kassette sind mit Elfenbein und Schildpatt belegt und zeigen Deckel, sowie Vorderseite und die beiden Seitenflachen graviertes, aufstrebendes Blumenwerk von Zickzackmusterung eingeschlossen. Die Rickseite mit zwei viereckigen Feldern aus Schildpatt, die teils von Holz, teils von Elfenbein rahmenartig eingeschlossen sind. Mit Messinghenkeln und Beschlage. Russische Arbeit. XVll. Jahr-
+- 529 Hangegefass aus einer Seychellen-Nuss gebildet, welche reich mit Blumen, Tieren und einer Figur geschnitten ist.Mit doppelreihiger silberner Kette, welche aus durchbrochen gearbeiteten
+- hundert. Hohe 32, Lange 40, Breite 29 cm.
+- Perlen und Gliedern besteht.Persisch. Hohe 14,Lange 24,Breite 16 cm.
+- Das lange Pfeifenrohr bedecken silberne Knaufe, die mit Korallenperlen verziert sind. Das Ei ruht in einem silbernen Mantel, der in
+- Die Oberflache der Platte mit Elfenbeinbelag, der in gravierter Arbeit Blumen und
+- getriebener Arbeit Blumen und Blattwerk zeigt. Lange 71 cm.
+- 532 Muskatreiber mit brauner Holzplatte, die mit Perlmutter eingelegt ist. Lange 17,Breite 3,4 cm.
+- 531 Achteckige Platte auf vier Kugelfissen. Ornamentfriese zeigt.Hohe 2,5,Diam.19 cm.
+- 533 Funf indische Loffel. Die Aussenseite des grosseren Loffels
+- 534 Becher aus Filigran-cloisonne auf rundem Fusse. Moskauer Arbeit.
+- mit Rankenwerk graviert. Lange 19 bis 27 cm.
+- Hohe 8,7,Diam.6,5 cm.
+- 535 Tintenfass nebst zwei Leuchtern,teils aus Glas, teils aus
+- emaillierter Bronze gebildet. Hohe des Fasses 1l, der Leuchter 15 cm.
+- 536 Viereckige Dose mit Silbermontierung. Den tirkisblauen Fond zieren weisse Blumenmusterung und sind die Oberflache des Deckels sowie die Seitenwandungen mit Schriftsticken und Schreibmaterialien bemalt. Das Innere mit Noten verziert. Hohe 4, Lange 9,5, Breite 7,5 cm.
+- Auf dem Deckel unter Glas in Goldrahmchen eine Miniature, welche eine bewasserte Landschaft zeigt. Im Vordergrunde derselben ein Herr auf einem Hugel sitzend, am rechten Ufer eine Kirche sichtbar. Auf dem Rahmchen ein russischer Schriftfries, der in deutscher Sprache lauten dirite: Hier wohnen diejenigen, die mir am liebsten sind."
+- 538 Runde Dose aus Elienbein mit gerippter Wandung. Der von einer Rosette iberragte Deckel in geschnittener Wellenmusterung. Hohe 1,8, Diam.5 cm.
+- Hohe 3,5, Diam.11 cm.
+- 539 Runde Dose aus hellem Schiidpatt, mit vielen Sternchen in Gold bemalt.Hohe 1,2,Diam. 4,5 cm.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+30
+
+2
+
+<!-- image -->
+
+20
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 540 Cylindrisches Holzbichschen mit figirlicher Staffage in Land-
+- Diam.2,2 cm.
+- 541 Minzbuchschen aus Elfenbein mit diversen Munzen. Hohe 1, Diam.2,3cm.
+- 542 Flacon in Form einer kleinen Vase aus Horn, die mit Blattwerk in Goldfolio belegt ist. Hohe 5,Diam.2,2 cm.
+- 543 Scheerenetui aus Perlmutter mit vergoldeter Montierung. Die Perlmutterflachen sowie Montierung mit Ornamentwerk reich graviert.Lange 10,5, Breite 4 cm.
+- 544 Federhalter in Form eines langlichen Elfenbeinbichschens mit
+- 545 Zweiunddreissig Schachfiguren, vollrund in Elfenbein geschnitzt. Hohe 3,5 zu 7,8 cm.
+- vergoldeter Montierung. Lange ll cm.
+- Auf der Rickseite unter Glas das goldene Monogramm F. M. Auf Elfenbein. Unter Glas. In Bronzerahmchen.Diam.5.5 cm.
+- 547 Mannliches Brustbild in schwarzem Rocke und gelber HalsUnter Glas.In Bronze- und Holzrahmchen.
+- binde.Auf Elfenbein. Hohe 5,Breite 4 cm.
+- 548 Vergrosserungsglas in vergoldeter Montierung.
+- hellrotem Leder. Samtliche Sticke sind sehr reich mit Blumen und Arabeskenwerk in Gold bestickt.
+- 551 Grosser Lederkoffer mit Eisenbeschlage. Lange 114, Hohe 44, Breite 41 cm.
+- 550 Sattel mit Decke und Zaumzeug aus blauem Stoff, reich mit Gold durchwirkt und mit blauen Quasten verziert.
+
+## Textilarbeiten und Kostime
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- Seite. Die Bordire aus weissen und schwarzen Streifen bestehend, die mit Blumen verziert sind, umzieht ein grines Mittelstick, das nach oben stufenformig gezackt ist und von buntem Ornamentwerk bedeckt wird. Lange 184, Breite 121 cm.
+- zeichen. Lange 170, Breite 130 cm.
+- Bordire, die einen roten Fond umzieht.Derselbe ist mit Kartuschen, welche Ornamentwerk und Blumen enthalten, sowie mit verschiedenen Tieren und Vogeln in Bunt bedeckt. Lange ca.500,
+- Breite 410 cm.
+- Mittelstick,welches auf blauem Fond aus Vasen erwachsende,auf strebende Blumenranken in Rot und Grin zeigt. Die Bordire mit buntem Rosettenmuster, das sich friesformig iber roten Fond zieht. Lange 460, Breite 240 cm.
+<!-- image -->
+
+<!-- image -->
+
+180
+
+- 556 Grosser Teppich mit breiter Bordire,welche bunt stilisierte Baume auf blauem Fond zeigt. Den roten Fond des Mittelstickes bedeckt Ornament- und Pflanzenwerk in Bunt. Mit geknipften Fransen an einer Seite. XVI. Jahrhundert. Sehr seltenes, kostbares Stick von herrlichster Farbenwirkung. Lange 270, Breite 175 cm.
+- Musterung einschliessen. Mit bunter Bordire.Lange250,Breite 130cm.
+- 557 Teppich mit drei grossen Formen auf rotem Fond, die bunte
+- 558 Kleiner Teppich mit breiter, bunter Bordire. Den weissen Fond bedecken zwei Baume, zwischen denen Tiere und Vogel. An zwei Seiten mit langen Fransen. Lange 123, Breite 93,5 cm.
+- 559 Kleiner Teppich mit bunter Musterung. Mit schmalen Fransen. Mit rotem Futter. Lange 100,Breite 47 cm.
+- 560 Portiere aus chinesischem Seidenstoff, der grosse Blumen-
+- musterung in Bunt zeigt. Mit blauem Futter. Lainge 204,Breite 146 cm.
+- 561 Aehnliches Stick mit Wolken und Drachen. Mit rosaiarbenem Seidenfutter. Lange 230, Breite 139 cm.
+
+<!-- image -->
+
+6了.5
+
+- 562 Portiere aus brauner Seide,mit Blumenmusterung in bunter Seide reich bestickt. Mit grauem Futter. Lange 155, Breite 120 cm.
+- die teils aus gross geblumtem Goldbrokat, teils aus verblichenem Seidenstoff mit bunter Musterung bestehen. Mit roter Bordire
+- und braunem Futter. Lange 256, Breite 177 cm.
+- musterung in Bunt und Gold. Mit blauem Futter. Lange 168,
+
+300
+
+- Breite 160 cm.
+- 565 Zwei Wandverkleidungen aus Goldbrokat,mitreicher Musterung in Silberapplikation verziert. Lange 283, Breite 46 cm
+- 566 Sechsteiliger Paravent in schwarzem Gestell. Die einzelnen Felder aus geschorenem Sammt zeigen in Rot und Grin reiches Blatt- und Blumenwerk. Hohe 145, Breite 69 cm.
+- 567 Grosse Decke aus blauer Seide mit grosser Blumenmusterung. Mit Bordire,welche bunte Blumenmusterung auf blauem Fond zeigt. Mit grauem Futter. Lange 176, Breite 130 cm.
+
+<!-- image -->
+
+<!-- image -->
+
+50
+
+- 568 Grosse Sammtdecke mit bunter tirkischer Musterung. Mit gelber, schwarzgemusterter Bordire. Lange 195,Breite 156 cm.
+
+30
+
+- 569 Decke aus weisser Seide, reich bestickt mit grossem Blumenmuster in Gold,Rot, Schwarz und Blau. Mit blauer,buntgeblumter Bordire. Mit grauem Futter. XVIll. Jahrhundert. Lange 134,
+- Breite 134 cm.
+- Mit blauer, geblumter Bordire und buntem Futter. Lange 126,
+
+95
+
+- Breite 144 cm.
+- 571 Decke aus chamoisfarbener Seide mit breiter, schwarzer Bordire. Lange 134,Breite 100 cm.
+- 572 Decke aus Seide mit blauer und gelber Musterung. Mit Futter aus blauem Seidenmoiree. Lange 88,Breite 82 cm.
+<!-- image -->
+
+<!-- image -->
+
+- al.
+- 573 Langliche Decke aus blauem Moiree. Den Rand umzieht in Buntstickerei eine breite Bordire, aus Blumen- und Blattwerk bestehend, im Fond ein Oval, das ein Landschaftsmotiv ein-
+- schliesst. Mit blauem Futter.Lange 116, Breite 60 cm.
+- 574 Decke aus Sammt mit bunter Blumenmusterung auf rotem Fond. Mit brauner, gesternter Bordire. Mit braunem Seidenfutter. Ende des XVIll. Jahrhunderts.Quadratseite 67 cm.
+- 575 Kleine Decke mit bunter Blumenmusterung in schragen Streifen. Mit rotem Futter. Lange 67, Breite 47 cm.
+- 576 Aehnliche Decke. Mit Futter. Lange 79, Breite 52 cm.
+- 5771
+- 578 Lange Bordire aus weissem Leinen, mit Blumen- und Blattwerk in griner Seide und Gold reich bestickt. Mit weissem
+- Kleine Decke aus buntgeblumtem Seidenstoff. Mit gemustertem Futter. Quadratseite 61 cm.
+- Leinenfutter. Lange 168, Breite 29 cm.
+- Seide und Silber reich bestickt.XVll. Jahrhundert. Lange 155, Breite 85 cm.
+- 581 Breiter,langer Leinenstreifen,mit Blumen- und Blattwerk in bunter Seide,Gold und Silber reich bestickt. Ausgang des XVIll. Jahrhunderts. Lange ca 300, Breite 34 cm.
+- 580 Ein Stick blaue Seide mit grossem Blumenmuster in bunter Seide und Gold bestickt. XVll. Jahrhundert. Lange 70, Breite 36cm.
+- 582 Seidenband mit gelbem Streifen in der Mitte, den blaue Blumen
+80. 583 Kissenuberzug aus geschorenem Sammt, der am Rande Blumengerank in Rot und Hellgriin zeigt. In der Mitte eine Rosette in Kranzumrahmung, zu beiden Seiten hellgrine Streifen mit Blumen-
+- durchziehen. Lange 230, Breite 8,5 cm.
+- musterung. Mit gelbem Futter. Louis XVI. Lange 12i, Breite 66 cm.
+- 584 Zehn grosse Quasten mit Schniren, teils aus Gold und Silber,
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## 22
+
+- teils aus bunter Seide.
+- 5585 Chinesisches Kleid aus Goldbrokat und Seide,mit reichem Blumenwerk und Facherfiguren in Bunt verziert.
+- 586 Persisches Kleid aus gelber Seide mit roter, blauer und griiner Musterung.
+- 587 Aehnliches Kleid aus griner Seide.
+
+<!-- image -->
+
+## 22
+
+- 588 Garnitur, bestehend aus kleinem Sopha, zwei Stihlen und zwei Fauteuils, aus braunem Holz mit gestreiftem Seidenbezug. Hohe des Sophas 81, Lange 110, Breite 49, der Stihle 70, Breite 38 cm.

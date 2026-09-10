@@ -1,0 +1,56 @@
+## BONVIN
+
+(FRANCOIS)
+
+Nea Paris,le 22novembre 1817,mort a Saint-Germain-en-Laye,le 19 decembre 1887.
+
+## 16 -La cuisiniere.
+
+Les cheveux chatains couverts d'un bonnet blanc,elle est vetue d'une camisole blanche, dun tablier bleu et d'une jupe marron.
+
+Signe dans le bas,a gauche:F.Bonvin,1868.
+
+Elle rentre du marche et retire un lievre de son panier pose sur la table, panier ou se voit encore une botte d'oignons; une bouteille est sur la nappe.
+
+Panneau, Haut.,31 cent.；larg.20 cent.
+27-Les Chaumieres.
+
+Elles occupent le centre du tableau;un chemin sur lequel s'avance une femmeyaboutit.Ciel mouvemente.
+
+Panneau.Haut.,26 cent.; larg,26 cent.
+
+Signe, en bas, a droite : J.Dupre.
+
+## DUPRE
+
+(JULES)
+## HENNER
+
+(JEAN-JACQUES)
+
+32Buste de jeune femme.
+
+La tete tournee de profil vers la gauche,les cheveux chatains,la poitrine en partie decouverte; robenoire. Signe,en haut, a droite : J. J. Henner.
+
+Panneau.Haut.,27 cent.;larg.,215 millim.
+## RIBOT
+
+(THEODULE)
+
+Nea Breteuil,le 8aout 1823,mort le 16 avril 1893.
+
+## 47-Portrait d'homme.
+
+De trois quarts tourne vers la gauche et vu jusqu'a mi-corps. Cheveux noirs,vetements noirs. Signe,en bas,a droite:T.Ribot.
+
+Toile.Haut.,72 cent.;larg.,60 cent.
+
+## RIBOT
+
+(THEODULE)
+
+48-La femme aux bouteilles.
+
+Vue a mi-corps,de trois quarts tournee vers la droite,coiffe dun bonnet noir,vetue de noir egalement,et tenant deux bouteilles dans la main droite.Fond brun. Signe:T. Ribot, dans le bas, a droite.
+
+Toile.Haut.,73 cent.;larg.,60 cent,

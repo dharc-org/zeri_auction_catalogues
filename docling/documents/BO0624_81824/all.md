@@ -1,0 +1,1013 @@
+## La peinture moderne italienne
+
+## dans la Collection Pisani
+
+Ta peinture italienne de la seconde moitie du siecle dernier est sans doute pour tous ceux qui aiment se donner la peine de l'etudier consciencieusement, fort interessante et caracteristique dans sa complexite un peu confuse. L'art italien stait, pendant de longues annees, manifeste, avec plus ou moins de splendeur et plus ou moins d'originalite, en des ceuvres, qui, tout en etant contemporaines, saffermaient pourtant bien distinctes selon les differentes régions de la peninsule auxquelles elles appartenaient, en depit de l infuence reciproque qu'elles avaient parfois exerce les unes sur les autres, comme elles avaient d' ailleurs subi aussi parfois l infuence de l' art etranger, surtout de l'art francais et de l'art espagnol, qui leur suggeraient des formes, une technique, des expressions esthetiques nouvelles. Mais, peu a peu, a mesure que les rapports entre une province et l' autre devenaient plus faciles, plus frequents et plus cordiaux, il perdait peu a peu les caracteristiques marquees qui differenciaient trop nettement un groupe de Iautre. Et maintenant il nous est permis de predire pour un avenir assez prochain lepoque, ou a la place d'une peinture lombarde ou toscane,napolitaine ou venitienne,nous naurons plus qu'une peinture italienne,. y gagnant assez probablement un developpement plus parfait de I' individualite propre a chaque artiste. De toute facon, pour celui qui aurait voulu écrire l' histoire variee et bril. lante de la peinture italienne de 1850 a 1900, ou qui meme aurait voulu tout simplement s'en former une idee exacte et complete, rien n' etait plus utile que de visiter longuement et minutieusement les salles d'exposition de la Galerie Pisani a Florence. De cette collection, vraiment unique dans son genre, une partie a éte achetee par le Gouvernement Italien pour la Galerie Nationale d' Art Moderne de Rome. L'autre partie, encore plus riche d'euvres, encore plus variee et pas moins importante,va bientot etre vivement
+disputee par galeries et amateurs d’ art a la vente publique qu’en fera a Milan la Maison Lino Pesaro.
+
+Pendant plus d' une trentaine d' annees, des milliers de tableaux a l huile, a l'aquarelle, au pastel, differents pour technique, sujet et tendences et qui ta ient venus de tous les coins de I' Italie et parfois meme de letranger, ont passe par ces salles. Choisis par le comm. Pisani, un tres fin connaisseur et amateur d'art,qui etait en meme temps un de ces rares marchands, qui savent concilier, avec beaucoup de tact et de dignite, 1 interet des artistes et de Iart avec leur propre interet, ces tableaux sarretaient plus ou moins longuement dans la galerie, ou, parfois, ne faisaient que passer, pour repartir aussitot pour les pays les plus eloignes de I Europe, de l' Amerique ou de IAsie. Mais quel ques uns d' entre eux, plusieurs meme, et certainement d' entre les meilleurs, pour des raisons dont il serait inutile de parler ici, sont restes dans la Galerie Pisani, et cest surtout en les examinant attentivement que lon pourra apprendre a connaitre et a admirer beaucoup de ceux qui ont éte et qui sont encore la gloire de la peinture italienne moderne: de Domenico Morelli a Edoardo Dalbono, de Filippo Palizzi a Francesco Paolo Michetti, de Telemaco Signorini a Giovanni Segantini, d'Antonio Fontanesi a Achille Vertunni, d'Alberto Pasini a Giovanni Boldini, de Gerolamo Induno a Mose Bianchi, de Luigi Serra a Ettore Tito, de Filippo Carcano a Mario de Maria, de Federico Zandomeneghi a Enrico Coleman.
+
+il suffira d' en passer rapidement en revue les ceuvres, comme je me propose de le faire en ces pages.
+
+Pour se rendre raison de la singuliere importance de la galerie de place Manin,
+
+Palizzi et Morelli: il suffit de mettre cote-a-cote ces deux noms pour evoquer devant notre esprit une des periodes les plus interessantes et les plus glorieu- ses de l’ art italien du siecle passe.
+
+si differents de temperament et d' aspirations et pourtant lies par une amitie presque fraternelle et par les habitudes ct les souvenirs d'une longue suite d'annees vecues I un aupres de Iautre, que l'art italien est surtout redevable d' avoir pu s²arrecher a la torpeur profonde ou I' avait plonge le conventio-
+
+C'est en effet a Ieuvre parallele de ces deux puissants peintres meridionaux,
+nalisme academique des peintres de la premiere moitie du XIx siecle, imitateurs froids et bornes du classicisme francais.
+
+Avoir compris toute le force du vrai; n'avoir pas voulu, contre toutes les sincere; etre parvenu bien souvent par la limpidite ingenue de sa vision et voyait et comme il le voyait: voila les merites indiscutables de Filippo Palizzi, lois de PAcademie,rechercher son inspiration que dans la realite simple et par la tenacite studieuse de ses recherches, a reproduire sur la toile ce qu'il qui firent de lui un reformateur de la peinture et rendirent son exemple et
+
+son ceuvre si feconds et si precieux aux jeunes artistes de son temps. Certes, comme a tous les novateurs, les predecesseurs ne lui avaient point manques. A Naples meme, il y avait deja, en effet, les paysagistes de Ecole de Pausilipe, qui peignaient en plein air, et il y avait Giuseppe Bonolis,qui enseignait a ses eleves comment il fallait fidelement tout copier d'apres nature; mais aucun d'eux, exception faite pour le subtil et exquis Giacinto Gigante, sance d'observation et le don d' evoquer la realite; aucun navait son admirable équilibre esthetique, ni savait comme lui joindre la pratique a la theorie. Quatre toiles representaient ce maitre de P ecole napolitaine dans la Galerie Pisani et deux en restent encore a vendre, c²est-a-dire " Pastorale" et le évoquer les animaux sur la toile d'une touche agile et vigoureuse.
+
+Quant a l ceuvre plus d'une fois tout-a-fait geniale de Domenico Morelli, le deux superbes tableaux: " Le Christ embaume et  Les tentations de Saint Antoine, qui la representaient dans la Galerie Pisani, ont ete achetes par no- tre Gouvernement.
+
+Mais ce n'est point seulement par Palizzi qu'est representee dans la collection Pisani cette ecole napolitaine, qui pendant une trentaine d' annees a pu si justement se vanter d'etre toujours a I'avangarde de I'art italien. C'est encore par toute une suite de peintres remarquables, par Achille Vertunni, qui, pendant la seconde moitie de sa vie,laissa de Naples pour Rome, ou il obtint bientot un tres vif succes par ses vastes paysages solitaires d'une sobriete noble et parfois assez suggestive; par Gioacchino Toma, dessinateur serré, coloriste intense, evocateur expressif et dramatique de scenes tragiques ou pa-
+thetiques presentes et passees; par Antonino Leto, qui, apres avoir gagne les sympathies de la critique et du public par toute une suite de petits tableaux de genre d'une facture degagee et spirituelle, séclipsa tout-a-coup et a été trop tot et bien injustement oublie; par Alceste Campriani,paysagiste agreable et versatile, dont toute la delicatesse exquise saffirme ici en une delicieuse vue de Venise; par Gaetano Esposito, mort si tragiquement et qui a ete sans doute un des plus efficaces peintres realistes que le Midi de l' Italie peut vanter aujourd hui; enfin et surtout par Edoardo Dalbono et Francesco Paolo
+
+Michetti.
+
+Dans une delicate et exquise aquarelle du premier,  Joueurs de guitare ", a laquell je marrete, parmis plusieurs autres de lui toutes egalement delicieuses, on retrouve, pour la plus grande joie des yeux d'un amateur raffine,le charme irresistible de lumiere, de couleur, de gaiete fantaisiste, qui caracte rise l' art de ce maitre et le rend digne d' occuper une place a part, qui est une place d' honneur, dans la brillante pleiade de peintres napolitains de ce dernier demi-siecle.
+
+Dalbono est un visionnaire du pinceau. A son esprit comme a son regard les scenes de la nature et de la foule humaine n'apparaissent qu'a travers les voiles les plus fantasmagoriques, toutes rayonnantes des lueurs les plus éclatantes. Et cela ne vient pas d' une idée esthetique preconcue, il n'y est point pousse par le but venal de plaire au grand public; cela lui vient, tout naturel lement, d'une conformation particuliere de son cerveau.Il n'aime, j'oserais presque dire qu'il ne comprend, que la joie; ses yeux ne se posent avec complaisance que sur de riants paysages ensoleilles, sur de scenes joyeuses de fete et, peu a peu, sous linsistence de son regard enivre, a travers le bouillonnement exaltant de sa chaude fantaisie, tout se transfigure, tout devient vivace, gai et charmant, de facon que les silhouettes et les spectacles fixes sur la toile
+
+reel, mais a un royaume de fees, a un pays de reve. C'est ainsi que Naples et les napolitains, qui reviennent sans cesse sous le pinceau de Dalbono, ont trouve en lui bien plus qu'un observateur spirituel, bienveillant et sympathisant, comme le fut Favretto pour les venitiens. Il a éte leur poete et leur exaltateur, qui ne pourrait et ne saurait, grace a son
+temperament tout special, que nous en montrer les aspects les plus gracieux, les plus aimables,les plus seduisants,en les rendant,par sa rare puissance pittoresque, plus gracieux, plus aimables,plus seduisants encore. De Francesco Paolo Michetti nous trouvons dans la collection Pisani deux toiles bien jolies, quoique un peu mievres: La petite bergere endormie et  Le cortege de noces". Toutes les deux representent des types et des scenes des populations villageoises des Abruces, avec cette grace particuliere de figuration, cette fraicheur de coloris qui caracterisent, si non sa maniere la plus vigoureuse, a laquelle nous devons "Le voeu" et La flle de Jorio 1'autre qui,bien que parfois legerement manieree, est peut-etre, au premier abord, plus agreable aux yeux du gros public, et lui a valu de si vifs succes, soit en Italie, soit a l' étranger.
+
+Mais, que l'on prefere l'une ou lautre des manieres de Michetti, l'on ne pourra certes s'empecher d' admirer dans l'ensemble son ceuvre complexe qui l'a mis en toute premiere ligne entre les peintres italiens de nos jours, car, dans ses differents aspects, elle nous prouve qu'il se tient toujours infaticable ment en contact avec la nature et qu'il l etudie avec une tendresse religieuse, annees deja, neglige son art pour s' adonner a des autres soins et a des autres recherches.
+
+Le groupe qui, par la quantite et la variete de ses euvres, est le mieux represente dans la collection Pisani,apres le groupe napolitain, est certainement celui des artistes toscans, qui offre un contraste frappant avec le precédent, car autant la premier est exuberant, autant l'autre est contenu et sobre. Si 1'on fait une exception pour Stefano Ussi, le representant, assez acclamé pendant quelque temps, de cette peinture d' histoire romantique et scenographique, qui, tout en pouvant plaire encore parfois d'une facon toute superfcielle a nos yeux, a depuis longtemps cesse d'interesser notre esprit, les peintres de lécole toscane qu²on trouve dans la collection Pisani ont tous appartenu plus ou moins directement, ou peuvent du moins se rattacher aux groupe sym-
+
+pathique et courageux des Macchiaiuoli.
+
+La macchia (la tache) et les Macchiaiuoli (peintres qui mettent les couleurs
+sur la toile a larges taches) ont droit, dans l histoire de la peinture contemporaine toscane,a tout un chapitre, certainement bien interessant mais aussi trop long pour etre rapporte ici. Il me suffra de dire que le caractere principal de linnovation introduite par Signorini,BantiLega,ivoli et qul ques autres, derivait directement des eclatantes violences de couleur du peintre francais Decamps et consistait surtout en un dessin excessivement schematique et a l'usage presque exclusif du clair-obscur, ce qui était une revolte ouverte contre la vieille ecole, qui avait jusque la sacrife a la froide correc- tion du dessin la solidite veritable et le relief de ses peintures. Ce petit groupe de revolutionnaires devait, apres un certain temps, se disperser, en meme temps que leur enthousiasme pour la tache s'affaiblissait, et chacun d'eux, plus ou moins consciemment, se dirigeait vers une maniere nouvelle, fondee sur la recherche de la realite la plus humble et la plus simple, qui servait,mieux que toute autre, a leur veritable temperament artistique. Jusqu alors ils avaient éte innovateurs par principe plus que par une conviction intime de leur etre, par un besoin de leur cerveau assoiffe de nouveaute plus que par un reel besoin de leur sens esthetique individuel; ils etaient entraines par une indomptable fievre de rebellion et non par la force irresistible d'une vision tout-a-fait personnelle.Plus tard, ils allaient suivre d'un pas assez ferme le chemin que leur indiquait leurs tendances profondement realistes, d'un realisme parfois meme trop rigide et un peu aride, dont on peut retrouver les traces dans la litterature de ces temps la et surtout dans les romans et
+
+les contes de Duranty et de Champfleury.
+
+Cinq charmantes petites toiles de Telemaco Signorini; un beau paysage boise par Tivoli; une gracieuse silhouette de paysanne toscane par Cristiano Banti; une scene populaire, pleine de vie et de grace malicieuse, par Federigo Zandomeneghi, qui devait plus tard combattre des luttes bien plus acharnees et plus hardies a Paris,cotea-cote avec les Impressionnistes francais, dont il fut pendant de longues annees le compagnon bienvenu; et enfin un petit tableau collection Pisani,le realisme sobre, sain et sincere et la technique,en meme temps solide et delicate, des Macchiaiuoli, dans leur seconde maniere, plus spontanee et plus sincere.
+A ce groupe se rattachent, par ses calmes et agreables scenes rustiques, Giovanni Fattori, qui plus tard, dans ses groupes mouvementes de soldats de cavalerie et d'artillerie et de paysans de la Campagne romaine, allait nous paraitre plus personnel et plus interessant; Egisto Ferroni, qui a malheureusement manque de tenir les belles promesses de ses premieres ceuvres, si vigoureuses, si elegantes et si efficaces, et Niccolo Cannicci, qui possedait le secret de met- tre dans tout ce qu’il peignait un souffle de poesie.
+
+Les autres regions de l' Italie sont representees dans la collection Pisani par un nombre bien plus restreint de peintres, qui en revanche sont presque tous des artistes de premier ordre.
+
+L’Emilie et les Romagnes nous presentent, en effet,Alberto Pasini,avec un large paysage oriental peuple de silhouettes aux couleurs eclatantes; Giovanni Muzioli, avec une de ses scenes de la vie intime romaine, quelque peu manierees, qui, par la grace de la composition, P elegance juvenile des figures et lagreable ensemble chromatique,nous rappellent le peintre anglais Alma Tadema; Mario de Maria, qui depuis plusieurs annees deja aime a signer ses toiles Marius Pictor, avec deux tableaux tout-a-fait delicieux," Calme du soir" et Le fabriquant de squelettes, le premier si poetiquement pittoresque et le second d'une fantaisie macabre. L'impression subtilement suggestive est rendue plus intense encore par la perfection de la technique, qui rendent digne le peintre bolonais d' etre signale comme un des artistes les plus puissants
+
+et les plus originaux de'l’ Italie d’aujourd’ hui.
+
+Si le Piemont n'est represente que par un seul de ses artistes, Giovan Battista Quadrone,dont la Galerie Pisani possede plusieurs petits tableaux,qui par la finesse spirituelle de I' invention et par la finesse agreable et caressante de la touche peuvent etre classes entre les meilleures ceuvres de ce peintre, la Lombardie nous presente trois de ses plus grands coloristes; c'est-a-dire Gerolamo
+
+Induno,Mose Bianchi et Giovanni Segantini.
+
+D'Induno il y a, dans la collection Pisani, une toile minuscule, La menagere, qui pourrait, sous bien de rapports, etre jugee du pinceau d'un des petits maitres flamands. Elle provient, comme " Le Christ embaume  de Mo- relli, de la fameuse Galerie Vonwiller de Naples, qui fut vendue aux enche
+De Mose Bianchi il y a cinq tableaux a l' huile et une aquarelle et dans tous, nous retrouvons, avec un sentiment de complaisance admirative, ses plus belles qualites: sa joyeuse vision de la realite, la grace facile de reproduction et la vivacite sympathique de coloration, qui gardent intact a ses meil. leures ceuvres ce charme brillant des productions spontanees et libres, correspondant a la mentalite primesautiere propre a ces rares privilegies, parmi lesquels nous pouvons le classer, qui meritent d' etre proclames peintresnés et auxquels l'étude et l' exercice nont servi qu'a developper, sans aucun effort, leurs precieuses aptitudes naturelles.
+
+Les deux toiles de Giovanni Segantini " Le sonneur de cloches" et # Le vieux cheval sont des euvres de jeunesse, mais elles presentent une allure hardie et vigoureuse, bien que la coloration en soit un peu trop sombre et le dessin trop sommaire. Certes, dans ces toiles, 1' artiste ne revele pas encore ces qualites significatives qui le rendirent digne, quelques annees avant sa mort et pendant qu'en Italie on contestait encore dedaigneusement son genie et on ne lui épargnait ni critiques ni sarcasmes, d'etre appele par un subtil critique allemand l'un des phares lumineux de la peinture moderne d' Europe et d' etre range aupres de Puvis de Chavannes et de Boecklin. On y trouve pourtant deja
+
+De Milesi nous trouvons une des toiles les plus justement appreciees, "Au traghetto, dans laquelle son art, d'une derivation si évidemment Favrettienne, nous apparait dans toute sa spontaneite de vision et de savoureuse touche chromatique.
+
+des qualites tout-a-fait remarquables de solidite et de puissance. Cesare Laurenti, qui, quoique ne a Ferrare, est devenu venitien par son long sejour dans la ville de la lagune,Luigi Nono,Alessandro Milesi et Ettore Tito representent dans la collection Pisani P école venitienne et certes peu d'autres en etaient aussi dignes. Nous avons de Laurenti, sous le titre  Jalousie" une scene populaire venitienne, tres bien imaginee et tres habilement distribuee, avec ce caractere, a demi-pathetique et a demidramatique, si cher a sa nature de peintre-psychologue.
+
+Luigi Nono se presente avec "L'Ave Maria" qui appartient a la meilleure periode de sa peinture, car dans cette toile, comme dans l autre " Refugium
+aux fastidieuses minuties de pinceau et aux enjolivements artificieux de la nature, qui rendent parfois moins sympathique sa peinture,est parvenu a join dre une aimable delicatesse de sentiment a une largeur degagee de touche. Quant a Ettore Tito, le tableau Apres la pluie", si élegant de coupe, si charmant comme figuration, si joyeux et lumineux de coloration et si original comme evocation du mouvement des foules dans les rues, dans les places et sur les ponts de Venise peut a bon droit etre classe entre les euvres les plus caracteri stiques et les plus agreables auxquelles cet irresistible Don Juan de la peinture italienne d’aujourd’ hui, a infuse la vie superieure de I’ art.
+
+VITTORIOPICA
+## Notes Biographiques
+
+## Avanzi Vittorio
+
+Naquit a Verona en 1850. Etudia d'abord en Italie puis a Munich. C'est la nature qui exerca sur lui la plus grande seduction et il sut la rendre en de beaux paysages et de belles marines. Ses euvres les mieux connues sont "Marina de Capri, "Premieres feuilles ", " Avant la pluie " et " Lac de Starnberg" qui fait partie de la presente col. lection. La Galerie d'Art Moderne de Rome possede de lui un paysage intitule: " Sur les bords de la Saar ".
+
+## Banti Cristiano
+
+premiers au mouvement realiste de la nouvelle école, et fut l'un de ceux qui lutterent le plus hardiment pour le triomphe de lécole toscane des Macchiaiuoli. Il fut professeur a lAcademie des Beaux Arts de Florence.Riche,il peignit pour lui-meme;il ne produisit pas beaucoup et nexposa que rarement, mais en depit de cela, les quelques ceuvres de lui qui nous restent ont suff a lui assurer une reputation de premier ordre. Son verisme qui descend a letude sincere du moindre detail, est teintee d'une grace adorable, d'une poesie legerement melancholique; le dessein d'une purete et d'une finesse exquise sallie a une peinture aux tons chauds et vaporeux en meme temps. Le tableau: "Retour de la peche sur le lac de Bientina", fit beaucoup de bruit. Il fut vendu a Londres a un prix exceptionnellement eleve et inspira un veritable enthousiasme.
+
+## Barbaglia Giuseppe
+
+Naquit a Milan en 184l, mourut en Milan 28 mars 1910. Fut éleve de Bertini a 1Academie de Brera. Le Christ au Jardin de Gethsemane  fut le premier tableau qu'il exposa et fut achete par S. M. le roi Humbert I.er Il faut encore rappeler de lui  Mariage civile",  Bain Pompeyen, qui remporta le prix Canonica. "Le billet de logementest l'un de ses tableaux les mieux connus.Barbaglia fut tres fort en perspective, et reproduisit souvent tres habilement le grand salon du Palais Clerici qui servit de fond a plusieurs de ses tableaux. Le municipe de Pavie possede de lui " La disette en Sicile".
+## Bazzani Luigi
+
+Né a Rome en l836. Fut professeur a l' Institut des Beaux Arts a Rome. Il se fit une reputation comme aquarelliste et s'inspira surtout aux anciennes ruines romaines qu'il rendit fdelement. Rappelons entre ses euvres les meilleures:  Pompei", faisant partie de cette collection." La Colonne Trajane"et "La Maison des Vetti "qui se trouvent a la Galerie dArt Moderne de Rome.A Berlin, dans la Berliner National Galerie, se trouve son tableau “L'arc de triomphe de Settimio Severo"
+
+## Belloni Giorgio
+
+Naquit a Verona en 1864. S'est fait une reputation de premier ordre comme paysagiste et peintre de marines, dont nous avons un bien bel exemple dans cette collection: la marine connue sous le titre de "Coucher de Soleil, d'une peinture si large et dont leffet de lumiere est rendu d'une facon tellement saisissante,obtint en effet une medaille d'or a l'Exposition de Venise.En 1894 Belloni obtint a Turin un tres grand suc"Effet de soleil sur la mer",La vie au portet Vent, qui appartient a la Galerie d'Art Moderne de Rome.
+
+## Bianchi Mose
+
+Naquit a Monza en 1840,mourut en 1904;ce fut 1un des peintres lombards les plus puissants les plus originaux et les plus sugestifs; il fut reellement une gloire de la peinture lombarde. En 1856 il s'inscrivit a 1'Academie de Brera a Milan; mais il interrompit ses etudes en 1859 pour senroler et suivre Garibaldi. Son devoir accompli envers sa patrie, il se remit a sa peinture et frequenta les cours du peintre Bertini. Ses deux premiers tableaux historiques furent exposes a Brera en 1862-1863 et furent achetes par la Societe des Beaux Arts.
+
+En 1864 il exposa encore a Brera "La veille de la fete" achetee par IAcademie meme. bleau fut achete par la Societe des Beaux Arts et se trouve aujourd' hui au Musee civique de Milan. ll peignit ensuite cette sugestive  Cleopatre qui fut tout dernierement achetee par le comte comm.Antonio Durini a une des ventes Pesaro en 1913. Ayant gagne le prix Oggioni pour une bourse d'etudes,Mose Bianchi se rendit a Venise et plus tard a Paris et peignit a son retour  Les freres au Camp. Il a touche aux genres d'art les plus differents; de la peinture d' histoire il a passe au paysage et aux paysans,il a fait des marines; il a peint a l huile et a laquarelle, il a dessine a l eau forte; et dans tous ces genres il a laisse une empreinte tres personnelle et tres puissante.
+## Bordignon Noe
+
+Peintre venitien. En 1878 il exposa a Paris " Petites flles qui chantent " euvre qui appartient aujourd' hui a la collection Pisani. En 1887 a Venise il exposa "Fleurs et douces paroles ",Partant pour lAmerique"et " Paternoster". Dans ces tableaux de genre il montra en meme temps un temperament artistique exceptionnel et une intuition psychologique rare. Son tableau "Une cour a Venise fut achete en 1883 pour la Galerie de Florence.
+
+## Borrani Edoardo
+
+Ne a Pise en 1834,mort en Florence en 1905. Il appartint a 1ecole glorieuse des Mac- chiaiuoli toscans et fut I'un de ceux qui sentirent le mieux la lumiere et surent le mieux en repandre dans ses toiles.Il obtint une medaille d'or au concours de l'Academie de Florence pour son tableau Un episode de la Conjuration des Pazzi". En 1867 il exposa succes.Lui, aussi comme Bianchi,fut bon patriote. Il fit comme volontaire la campagne de l859 et comme la plus part de ses collegues les Macchiaiuoli il oublia ses reves d'artiste pour son devoir de soldat. Il faut rappeler entre les tableaux qui eurent le plus de succes: "La moisson sur les montagnes de Pistoie  achete par le Prince de la fete",Extase de Sainte Catherine",achete par S.M. la Reine Marguerite."Matinee
+
+XVIme siecle" achetes tous deux par la Galerie Pisani.
+
+## Borzino Leopoldina
+
+Aquarelliste milanaise. Ses ceuvres les plus connues sont “Jour de Fete" et Sortie de la Messe qui furent exposes et vendus a Rome en 1883, "Le repas des moissonneurs  et " Sur la montagne . Les deux dernieres appartiennent a la collection Pisani. Ce peintre joint a la grace beaucoup de vigueur comme coloriste. En 1887 elle exposa
+
+a Venise quatre aquarelles qui furent tres admirees.
+
+## Bruzzi Stefano
+
+Naquit a Groppallo en 1835, etudia a Florence avec Massario et a Rome avec Corbelli. Artiste d'un grand talent,il fut unrealiste passione,aima surtout la lumiere et le grand
+air et illustra avec une puissance singuliere la campagne romaine et toscane; il se plait surtout a peindre des bergers et des troupeaux de brebis dont la note d'un blanc chaud revient souvent dans ses tableaux. Entre ses euvres les mieux connues notons "Don Quichotte" attaquant un troupeau de brebis et de beliers, tableau qui eut un tres grand succes a l'exposition de Venise en 1897 et qui appartient a la collection Pisani, # Campagne romaine"," Retour a l′etable". La Galerie d'Art Moderne de Ro- me possede de lui “ Les batteurs”
+
+## Busi Luigi
+
+Naquit a Bologne en 1857,et mourut en 1884. Sa peinture a de la grace et de 1 esprit. Plusieurs galeries publiques et privees possedent ses ceuvres. Il exposa en 1878 a Paris: "Joies maternelles" et "La fete de bebe qui fait partie de la collection Pisani.
+
+La Galerie d’Art Moderne de Rome possede de lui “ Chacun son nid
+
+## Calderini Marco
+
+Naquit a Turin en 1850. Fut eleve de Gamba et de Fontanesi; il eut pour ce dernier un veritable culte, dont le livre si interessant qu'il nous a donne sur la vie et les euvres de ce grand maitre est un temoignage sincere. Calderini est aujourd' hui l'un de paysagistes italiens les plus puissants et les plus apprecies. l adore la lumiere et ses paysages, si verts et si frais,en sont pleins. a une prference marquee,pour les paya ges de la haute montagne et pour les bois qu'il sait rendre avec une habilite technique et un sentiment de verite rare. Je choisis quelques titres d'entre ses tableaux les mieux connus: "Soleil d'hiver","Automne","Soiree d'éte de la Saint Martin",Le
+
+Parc Royal de Turin”. ll obtint en 1912 a Milan le prix Humbert Ier.
+
+## Campriani Alceste
+
+Né a Terni en 1848. Il etudia a Naples avec de Nittis, dont il subit fortement l'infuence, comme le prouvent ses premiers paysages animes de spirituelles silhouettes. Il s'en degagea plus tard et sa touche devint plus large et plus personnelle. Il vecut pendant quatorze ans a Paris travaillant exclusivement pour la maison Goupil.Rentre en Italie il fut nomme professeur a l'Academie des Beaux Arts a Naples, et plus tard a Lucques. ll peignit alors "Au port",Calme apres la pluie",Paix d'Avril", Canal grande" "Laguna" qui font partie de la Galerie Pisani. La Galerie d'Art Moderne de Rome pos- sede de lui “Le matin"et “Scirocco sur la cote d’Amalfi "
+## Cannicci Nicolo
+
+Naquit a Florence en 1846,mourut en 1907. 1l fut 1’un des peintres forentins qui suivit avec le plus d' ardeur les nouvelles theories des Macchiaiuoli; mais realiste par le choix de son sujet et par sa recherche de la lumiere et du plein air, Cannicci dont la nature paisible, un peu timide et reveuse fuyait les audaces excessives, marqua sa peinture d'une empreinte de poesie et de legere melancolie. Malgre cela sa peinture n'est point monotone; si la tonalite generale en est un peu basse, le chiaro scuro est d'une delicatesse exquise, le dessein d'une purete et d'un sentiment delicieux. Il sut mettre dans ses toiles d'une harmonie si douce et si caressante toute la poesie un peu triste de son ame dartiste. Il exposa a Paris en 1849  Le retour d'une fete "qui remporta un prix. Je noterai entre ses euvres les plus signifcatives, Joies maternelles", "Crepuscule"," Retour des champs"qui fut expose a Paris en 1879 et qui font partie tous trois de la Galerie Pisani. Il y a de lui a la Galerie d'Art Moderne a Rome deux tableaux "Ete ", et "Les semailles en Toscane"
+
+## Carcano Filippo
+
+Il est mort a 1'age de septantetrois ans le 19 janvier de ce 1914.Il travailla jusqu’au dernier instant de sa vie avec une energie exceptionnelle, trouvant une veritable joie dans la creation de ses euvres d'art. Il n'etait pas seulement peintre mais setait apVenise une transposition en sculpture de son fameux tableau " Judas ". ll essaya de tous les genres, peignant avec la meme spontaneite et la meme verve de larges paysages (il affectionnait les etendues immenses, sestompant dans la brume, les hautes chaines de montagnes et les grandes luttes des nuages) et des tableaux de mceurs ou de ris et de Londres decide a rompre avec tous les spreceptes artistiques de ses premiers maitres Hayez et Bertini,et decide a suivre franchement ses propres inspirations,etil eut sur la jeune ecole de son temps une influence preponderante qu'il garda longtemps. Ses deux ceuvres " Une partie de billard "et "Ecole de danse ", marquent une date memorable pour l' histoire de l'art lombard moderne, dont il fut lun des maitres plus
+
+aimes.
+
+## Casciaro Giuseppe
+
+Naquit a Orletta (province de Lecce) en 1862. Etudia a 1Academie de Naples avec Morelli et Palizzi,et obtint la medaille d'or et plusieurs autres prix.ll est un des pastellistes italiens les plus connus et les plus apprecies et sest dedie particulierement au paysage.
+Ses qualites de coloriste sont tout a fait de premier ordre. Ses ceuvres sont tres appreciees a Londres, a Paris, a Vienne. ll a expose a peu pres partout en Italie et a Ietranger obtenant partout des succes bien merites.
+
+## Cassioli Amos
+
+Naquit a Asciano en 1832 et mourut en 1896. Etudia a Florence; ses sujets favorits furent des sujets historiques; entre autres "Galeazzo Sforza", Silvain demandant l'aumonequi se trouvent dans la Galerie d'Art Moderne de Rome. ll peignit encore Boccaccio,"Francesca da Rimini"et plusieurs tableaux illustrant l'Epopee de la Maison de Savoie depuis Charles Albert.
+
+## Cavaleri Vittorio
+
+Naquit a Milan en 1867. Destine par sa famille a la carriere scientifique il abandonna
+
+1 universite pour se dedier a la peinture. En 1893 son tableau " Crue d'autonne remporta la medaille d'or a I Exposition Nationale de Milan.
+
+L'annee apres il exposa " Pian di Spagna"et fut nomme membre honoraire de PAcademie de Brera.En 19ol il exposa a Venise Silence mystique " et la meme annee a Livourne un paysage qui lui valut la medaille d' argent. Il avait aussi obtenu le grand prix d' honneur a l'Exposition Nationale de Biarritz en 1899, et le grand diplome dhonneur en 1900 a Dresde.
+
+## Cecchi Adriano
+
+Peintre toscan ne a Prate. Avait appris la sculpture en bois avec son pere, mais suivit ensuite les cours de I'Academie de Beaux Arts a Florence. En 1879 il sengagea comme portraitiste avec un speculateur anglais;mais,vaincu par la nostalgie,il revint en Italie apres vingt-deux mois d'absence. Il a beaucoup vendu aux negociants de Londres, de New York et de Munich, mais a tres peu expose. Il sest distingue dans le tableau de genre qu’il peint avec beaucoup d’'élegance et de finesse.
+
+## Cecconi Eugenio
+
+Naquit a Livourne en 1842,mourut le 21 decembre 1904. Il ne sétait pas dedie a la peinture dans sa premiere jeunesse, ayant d'abord fait ses etudes de loi; mais il se laissa seduire par I'art et il abandonna la toge pour frequenter les cenacles artistiques. Il n'eut point de maitre, et neut pas a lutter contre des regles et des principes acquis.
+Il ne suivit que sa propre inspiration, et son talent d'artiste se developpa librement; se laissant inspirer par la nature il fut des l'abord une veriste. "Les femmes du peuple livournaises les paysannes halees par le soleil et par le vent de la mer furent d'abord ses sujets d'etude preferees. Son tableau Le cenciaiole (chercheuses de chiffons) qui se trouve dans la collection Pisani est un de ses tableaux les plus puissants et les plus caracteristiques; d'un dessein ferme et precis, d'un coloris sobre,il est peint avec une grande simplicite de moyens et une profond sincerite.Plus tard, chasseur passionne, il se dedia aux sujets de chasse. Il fut un des plus habiles et exquis peintres de chiens, et nous laissa de la Maremma quil adorait de nombreux et delicieux paysages.
+
+La Galerie d'Art Moderne a Rome possede de lui “ Depart pour la chasse au sanglier"
+
+## Ciardi Guglielmo
+
+Ne a Venise 3 septembre 1842, occupe aujourd'hui une des premieres places entre les paysagistes et les peintres de marines italiens. Venise, la lagune et les campagnes de la Venitie inspirerent ses meilleures toiles. Ayant fini ses etudes classiques, il suivit ensuite les cours de lacademie sous la direction de Brasolin,artiste passable,mais vieux d'ans et d'idees. Sorti de Iacademie il se rendit a Florence ou il frequenta la Cenacle artistique du Cafe Michel Angelo et vecut assez longtemps dans la compagnie des artistes les plus combatifs de son temps,comme Costa,Morelli et Palizzi. Ce fut en ce temps la que Ciardi put developper sa personnalite artistique et montrer ses qualites techniques que Centelli synthetisa ainsi:"Genialite de synthese, une grande puissance de coloriste, une rare intensite d'expression. Il voyagea beaucoup a 1'étranger; en 1886 il exposa e Berlin  Messidor qui lui valut un veritable succes. La plus part des gale-
+
+## Coffa Andrea
+
+Peintre napolitain.Peignit surtout des scenes de vie napolitaine en plein air avec beaucoup de verve et de caractere. Il est un brillant coloriste. En 1880 il exposa a Turin " Les commeres de Portici ,"Un vieillard d'esprit", deux ouvrages qui furent achetes pour la Galerie Pisani. En 1884 il exposa a Turin "Repetition generale au theatre" et " Le Vesuve dans une journee de soleil ".
+
+## Coleman Henri
+
+Naquit a Rome en 1846; fils d'un bon artiste anglais il etudia avec son pere et devint bientot un des aquarellistes les plus apprecies, un des paysagistes romains les plus ca-
+racteristiques. Il aime a peindre surtout la campagna romaine et les chevaux; et il le fait avec une surete et une habilite de touche, une evidence extraordinaire. Plusieurs galeries publiques et privees possedent des euvres de lui. Il est represente a la Galerie d'Art Moderne de Rome par  Les centaures"” et “ Temps pluvieux”.
+
+## Coppola Castaldo
+
+Naquit a Naples en 1845. ll est professeur honoraire de I' Institut de Beaux Arts de Naples; sest fait une reputation comme peintre de marines. En 1880 il exposa a Turin "Au Crepuscule"et "Marine de Naples"qui furent bien accueillis. La meme annee il exposa a Rome #Immacolatella a Naples"et a Turin en 1884 "L'arc de Saint Eligio";
+
+en 1886 il exposa a Paris au Salon “ Coucher de soleil sur la mer”.
+
+## Corcos Vittorio
+
+Naquit a Livourne en 1859. Initia ses etudes a Florence et fut quelque temps eleve de Morelli a Naples.Vecut longtemps a Paris,ou il travaillait pour la maison Goupil et ou ses tableaux de genre eurent beaucoup de succes; rappelons: "A la brasserie,Lune de miel "," Les papillons","Le nouveau ne",etc. Depuis il se dedia completement au portrait et sest fait comme portraitiste une reputation solide. Il a peint le portrait de S. M. 1 Empereur Guillaume II et de 1 Imperatrice dAllemagne,celui du Roi et de la Reine Amelie du Portugal, et il est aujourdhui le peintre favori du grand mond italien.Je ne rapellerai ici entre ses portraits que ceux de la Comtesse Morosini a Venise,de Donna Laura Martini-Mariscotti a Rome, de la Duchesse Visconti et de Madame Silvestri a Milan,et de S.Em.le cardinal Bonomelli.
+
+## Cosenza Giuseppe
+
+Né a Luzzi dans les Calabres en 1847. A quinze ans il se rendit a Naples et fut eleve de Marinetti, a dixsept il entra a l Institut de beaux arts ou il gagna un concours et obtint une bourse de mille francs de sa province. Tres doue et plein d'energie il émigra en Amerique a New York ou il reussit a se faire une fortune. En 1887 il exposa a Naples "Piazza del Bendin"et "Blitz Iimprudent", deux tableaux de genre, tres habilement peints. Un de ses premiers paysages, qui lui valut un prix, se trouve a IAcademie de Beaux Arts a Naples.
+## Dal Bono Edoardo
+
+Naquit a Naples en 1843. Fit ses premieres etudes a Rome avec Marchetti. Revenu a Naples,il les continua avec Mancinelli et Morelli. Ensuite il se rendit a Paris ou il vecut huit ans travaillant pour la maison Goupil.
+
+Dans la premiere grande Exposition Nationale d'art a Parme en 1874 il exposa "La Parme la medaille d' argent. En 1872 il avait expose a Milan deux aquarelles "Marine"et"Blanchisseuse qui avaient éte tres appreciees. A Turin en 1880, il exposa plusieurs tableaux "Bateaux de peche",Une rue a Naples","Soir a Ischia","Le
+
+Grenadier", etc., ete, dont la critique s²occupa beaucoup et parla avec admiration. Dans une etude sur ce grand peintre, qui est reconnu comme I'un des maitres de 1'école napolitaine, le critique Rocco De Renzis ecrit: "Il fut toujours un coloriste sentimental,plein de chaude emotion,un poete aux larges imaginations, et son pinceau lui la grace de la jeunesse, une fraicheur incomparable, une richesse de couleur impetueuse . Ces qualites qui sont les plus caracteristiques de son art, Dal Bono les garde encore dans sa feconde vieillesse. Les quatre acquarelles signees par lui qui appartiennent a la collection Pisani, en sont une preuve lumineuse.
+
+## De Maria Ettore
+
+Naquit a Naples en 185l, fut eleve de Dal Bono et se fit bientot une reputation. Il décora en partie le theatre Massimo de Palerme et la villa Igea. Peignit plusieurs ceuvres dont je citerai "Porta Mazzara", Lueurs du soir","Taormina, etc. Dans la Galerie d'Art Moderne a Rome se trouve son tableau "Le soir "
+
+## De Tivoli Serafino
+
+Naquit a Livourne en 1820. En 1832 il se rendit a Florence pour ses etudes litteraires. Ne peintre,le milieu dans lequel il vivait le detourna bientot de ses etudes,qu'il abandonna pour la peinture. Marko fut son premier maitre.En 1848 il s'en rola comme volontaire et se battit pour sa patrie; il fut a Curtatone et a Montanara et prit part en 1849 a la defense de Rome ou il fut fait prisonnier. Revenu a Florence, lame et le cerveau pleins d'idees nouvelles, degouite de IAcademie ne sachant a quoi se decider, il se rendit en 1855 a Paris ou les nouvelles theories sur I'art triomphaient. Il rapporta de la a Florence au sein du petit cenacle d'artistes reunis au cafe Michelangelo une quantite d' etudes interessantes et de theories hardies. C' est ainsi que prit naissance I'école des Macchiaiuoli.
+Autour de De Tivoli se grouperent tous ces jeunes peintres qui voyaient finalement pas longtemps a Florence; il vecut a Paris, a Londres,ou il travailla beaucoup. Il faut citer entre les euvres de cette periode feconde "La Seine,"Saint Denis","Vue des alentours de Paris ".Il mourut dans un hospice en 1892.
+
+## Esposito Gaetano
+
+Naquit a Salerne en 1858, est l'un des artistes les plus doues de 1ecole napolitaine. Il se distingua également en divers genres de peinture; tableaux de genre,marines,paysages; et montra dans chacun des qualites de coloriste exceptionelles. Ses euvres prinqui appartient a la Galerie Pisani, etc. Je rappellerai entre les ceuvres de lui appartenants a des galeries publiques " Le palais de Donna Anna a Posilippo" qui se trouve a Rome dans la Galerie d'Art Moderne.
+
+## Faccioli Raffaele
+
+Il fut eleve a Florence et commenca a se faire connaitre par des tableaux romantiques "Fleur languissante","Des faits et non des mots",qui furent exposes a Milan en 1872 et font partie de la Galerie Pisani. ll a peint aussi entre autres,Dernier sourire d'automne", "La benediction dans les catacombes", etc. Son tableau "Voyage triste" se trouve a Rome dans la Galerie d'Art Moderne.
+
+## Fattori Giovanni
+
+Naquit a Livourne en 1825,mourut a Florenee en 1908 le 30 aout. Fut l'un des peintres les plus originaux et les plus puissants de l'ecole des Macchiaiuoli. Il commenca par etudier la sculpture, ensuite la peinture avec Bezzuoli a Florence; ses eaux fortes furent une revelation et donnerent lieu a de violentes discussions. Il se mit ensuite a peindre des sujets militaires; son premier tableau fut "La bataille de Magenta qui se trouve maintenant a la Galerie des Uffizi a Florence,et qu'il peignit pour un concours institue par le gouvernement provisoire de Toscane. Il peignit d'autres tableaux sinspirant aux evenements de notre "Risorgimento". "L'attaque de la Madonna della scopeta" taille de Custoza ,"L'explosion du canon","S.A. le Prince royal Amede blesse a
+Brera. Avec un groupe de ses amis les plus chers: Banti, Lega, Borrani, Signorini et d'autres,il serendait chaque annee a Castiglioncello,au bord de amer,dans la petit villa du critique d'art Diego Martelli qui fut l'ami le plus sur de Fattori, et lui vint en aide bien souvent. Ce petit groupe d'artistes travaillaient dans ce pittoresque asile avec ardeur,rivalisant noblement entre eux.Les annees de 1870-1894 furent pour Giovanni Fattori tres fecondes. Il nous reste de cette epoque, a part les tableaux, de nombreuses ebauches tres personnelles et d'une puissance singuliere.
+
+la maniere de Manet. En 1872 il peignit "Le marche aux Chevaux de Piazza Montanara" qui fut malheureusement perdu dans un naufrage en revenant de I' Exposition de Philadelphia. La meme annee il peignit aussi "Paturage"," Chevaux qui paissent",
+
+Fattori ne fut point seulement un peintre militaire. Ce fut surtont dans le paysage et dans la representation de scenes de la vie campagnarde qu'il montra ses qualites les plus caracteristiques. Son sens de la vie est profond et intense, son coloris est sobre et vigoureux, son dessein tres personnel; il y a dans toutes ses ceuvres une originalité puissante. Le tableau Fienaiuole qui appartient a la collection Pisani est une de ses euvres les plus fortes. En 190ol il exposa a Venise "Le soldat mort aupres d'une mare d'eau fangeuse au milieu d' un troupeau de porcs. Cette ceuvre de sa vieillesse est embue du pessimisme profond qui, pendant les dernieres annees de sa vie avait envahi l ame de cet artiste. Trop droit et trop sincere pour se plier a un art frivole et agreable qui lui aurait assure l aisance,il prefera la pauvrete plutot que de renoncer a sa convinction d'artiste.
+
+“Bceufs au Paturage"
+
+## Faustini Modesto
+
+Naquit a Brescia en 1839, et mourut en 1894; il n'était qu'un modeste ouvrier,mais sa passion pour l'art le poussa a se rendre a Milan pour etudier avec Bertini; et il devint bientot un artiste distingue. ll peignit surtout des tableaux de sujet historique et "L'arret de Louise Saint Felice* qui eut aussi un prix a Rome en 1888 et qui fait partie de la Galerie Pisani. Ce beau tableau si habilement compose, d'un effet tellement saisissant et qui represente avec tant de verisme et une intensite si poignante de sentiment l' un des episodes les plus touchants et nobles de la revolution napolitaine de 1848, ft epoque. Plus tard sous limpression profonde que fit sur lui l'art du XIve siecle il se dedia a la peinture religieuse, decorant le sanctuaire de Sainte Maria delle Grazie,et la chapelle du Saint Sacrement dans I' Eglise de Saint Giovanni Evangelista a Brescia ainsi que la chapelle gothique de droite dans la basilique de Loreto ou il peignit aussi les douze apotres.
+## Ferroni Egisto
+
+Naquit a Signa (pres de Florence) en 1835 et appartient lui aussi a l'ecole de Macchiaiuoli, dont il fut l'un des representants les plus doues. Nous avons de ses premieres annees de delicieux petits tableaux de genre d'une finesse exquise. Ensuite sa touche devint plus large et plus hardie et il nous donna de grands tableaux, cherchant ses sujets dans la vie des paysans. En 188l il exposa a Turin son grand tableau "A la fon- taine qui fait partie aujourd’ hui de la Galerie Pisani.
+
+On croyait que le tableau aurait eu un prix; il ne l'obtint pas mais cet oubli donna lieu aux plus violentes protestations de la part de tous les artistes toscans qui avaient une sincere admiration pour ce grand peintre, et le tableau eut a ce moment une veritable celebrite. On voit des euvres de lui dans beaucoup de Galeries a letranger et Italie. Son premier tableau Le trecciaiole se trouve au Musee de Londres, et le gouvernement vient d'acheter de la Galerie Pisani une de ses meilleures ceuvres "Avant la tempete".
+
+## Galofre Baldomero
+
+Naquit a Barcelone en 1835,mourut en 1902. Il avait fonde a Barcelone une école d'art. En 1873 il vint a Rome ou il se fit une grande reputation. Contemporain de Fortuny, dont il fut l'ami et l'admirateur,il subit linfluence de ce grand artiste mais sut en meme temps garder son originalite et sa personnalite. ll a peint surtout des paysages et des scenes de plein air. ll a une preference pour les gammes sombres, ce qui nempeche pas a sa peinture d'etre lumineuse. ll peint l'aquarelle avec une touche large, et une couleur si puissante qu'elle fait penser a la peinture a l huile; ses trois aquarelles sani en sont une preuve magnifque. Entre ses euvres plus connues on peut citer
+
+“L'Ave Maria”,“Le sermen”,“L’Elevation",“Le jour apres ”
+
+## Gatti Annibale
+
+Naquit a Forli en 1828, mourut a Florence en 1901.Fut un romantique et peignit sur- porta un prix a Boston,"Leonardo da Vinci a la cour de Lodovico il Moro ", " Paisiello  qui fait partie de la Galerie Pisani. ll a aussi decore la salle du trone au Palais Pitti a Florence.
+## Gignous Eugenio
+
+Naquit a Milan en 1850 et mourut en 1907. Milanais par election quoique appartenant a une famille savoyarde il frequenta lAcademie de Brera et fut eleve de Pio Riccardi. Cour de la Colombera qui est a present dans la Galerie du Chateau de Milan aupres d'un autre tableau de lui "Fleurs dans le couvent , peint plus tard et qui eut beaucoup de succes a Paris. Pendant trentesix ans il n'a manque a aucune des expositions importantes en Italie et a 1étranger. En 1877 il exposa a Naples "Vue de Frisio" qui fut tres admiree. En 188l,1883, 1886 il avait expose a Milan une tres belle serie de se dedia uniquement au paysage et fut I'un des peintres les plus suggestifs de la cam- sujets venitiens qui attirerent l' attention sur lui; en 1887 a Venise il obtint un veritable triomphe avec ses paysages: "Automne " et "Lago Maggiore . Des cette epoque il pagne Lombarde.
+
+## Gioli Francesco
+
+Naquit a Settimo (Province de Pise) en 1846. Eleve de Pollastrini il peignit d' abord, comme la plus part des peintres de son temps, des sujets historiques.
+
+Ensuite il suivit le mouvement veriste des Macchiaiuoli et fit des tableaux de plein air qui eurent du succes. Il n'a jamais cesse de chercher l'air et la lumiere et a rejoint Vienne " Une recontre de Mulets ", et ses tableaux se font remarquer a toutes les expositions. La Galerie d'Art Moderne de Rome possede de lui "Le passage de la procession".
+
+Les annees n'ont pu eteindre l'enthousiasme de cet artiste dont l'esprit ouvert a toute peinture franche, simple et rude de ses premiers tableaux il a passe aux tons voiles et doux aux effets de lumiere brumeuse de ses derniers paysages qui furent admires a la derniere Exposition de Venise. ll est membre de la Commission des Beaux Arts pour le Municipe de Florence.
+
+## Gioli Luigi
+
+Naquit a San Frediano di Pisa en 1854. Il commenca ses etudes de peinture tres tard, apres I'universite. Il travailla avec son frere; ses themes favoris sont les paysages et les animaux,les chevaux surtout.Je choisis ces titres entre ses meilleurs ceuvres "Revenant du paturage ","Place d'armes ", "Chevaux a 1' abreuvage"qui remporta un prix a
+
+Milan. La Galerie d'Art Moderne a Rome possede de lui “Soir d’autumne *
+## Glisenti Achille
+
+Bien que lombard etant ne a Brescia, il est forentin comme peintre. Il a expose a presque toutes les expositions italiennes et a l' étranger, et la critique s'occupa bien souvent favorablement de lui. Ses tableaux furent vendus en Europe et en Amerique; ensetemps de Grand pere ,"Le retour ," Souvenir du passe  et "La priere avant le diner ",ce dernier fait partie de la Galerie Pisani.
+
+## Guida Giovanni
+
+Peintre napolitain tres doue fut essentiellement un coloriste. Eleve de Morelli il subit son influence et suivit sa maniere. En 1877 il exposa a Naples "Bain Pompeyen , en "Le tableau de la Reine representant Luca Giordano a la Cour d' Espagne. A Venise en 1897 il exposa un tableau intitule " Chasseur*,  L'Odalisque" qui appartient a la collection Pisani est peinte avec une largeur de touche et une richesse de couleur qui rappellent son maitre.
+
+## Induno Gerolamo
+
+Naquit a Milan en 1828, et mourut en 1891. Il fut un des renovateurs de la peinture lombarde.Il s'etait dedie surtout d'abord a des sujets historiques et patriotiques et quelques uns des tableaux de cette epoque sont tres connus, p. e."La rencontre de Garibaldi avec Victor Emmanuel au Volturno".En 1862 a la premiere exposition italienne il avait expose La lettre du camp"qui obtint un prix, et "Bivouac de Garibaldi aussi des tableaux de genre avec une finesse de dessein, une richesse de coloris, un sentiment intime digne des anciens peintres de genre famands. Le tableau "La menagere appartenent a la Galerie Pisani, nous montre toutes les qualites les plus exquises de cet artiste remarquable. Il y a de lui a la Galerie dArt Moderne a Rome un portrait de Garibaldi etunpaysage.
+
+## Irolli Vincenzo
+
+Naquit a Naples en 1862, etudia d’abord le dessein avec le sculpteur Sebastiano Lista, passa en suite a I ecole de Morelli dont sa peinture garde I’ empreinte. Sa carriere d’ar-
+fut tres admire et trova un acheteur. Ses qualites de coloriste sont exceptionnelles et ses tableaux pleins de verve. D'un caractere tres independant il ne se lia a aucun groupe, ni a aucune école, et se fit beaucoup d' ennemis. Il est tres apprecie a 1 etranger; exposa souvent a Paris et vendit beaucoup a Londres,a Vienne,a Berlin, et surtout dans I'Amerique du Sud.
+
+## Issel Alberto
+
+Vit a Genes, il faut citer entre ses ceuvres les meilleures."Harmonies" qui fut exposé a Naples en 1877,"Recidiviste",Temps pluvieux qui furent exposes a Turin en 1850. En 188l il exposa a Milan "Souvenir de la Riviera. Il a peinte a 1'huile et a P'acquarelle.
+
+## Laezza Giuseppe
+
+Peintre napolitain; il exposa en 1877 a Naples "Apres le coucher du soleil,"San Germano", "Cassino "," La Marinella qui appartient aujourd' hui a la collection Pisani. ll exposa a beaucoup d'Expositions; entre autres a Turin en 1884 et la critique le jugea tres favorablement.Il a peint presque uniquement des marines, s'inspirant toujours aux beautes naturelles de son pays.
+
+## Laurenti Cesare
+
+Naquit a Mesola en 1867.Venitien par election il a suivi la mouvement psychologique de la peinture moderne avec une tendence speciale au symbolisme. Entre ses ceuvres les plus belles je rappelerai Ave Maria ,"Jalousie , illustration pleine de vie d'une petite tragedie populaire intime et qui fait partie de la Galerie Pisani,"Mots mystedecorateur delicieux et un architecte de gout. C'est lui qui a fait les desseins de la rieux  expose a Milan et a Rome en 1883.A Venise en 1895"Parabole " et en 1897 Pescheria Nuova de Venise.
+
+## Lega S Silvestro
+
+Naquit a Modigliana en 1826 et mourut en 1895. Eleve de Mussini et de Ciceri, dont il suivit d' abord les preceptes artistiques, ce fut Courbet qui lui ouvrit I'esprit aux nou-
+veaux ideals. Il fut, lui aussi un Macchiaiuolo mais ne fit point part du Cenacle du Cafe Michelangelo, trop pose et serieux pour se meler a la gaiete folle des jeunes artistes de ce groupe. Comme bien d' autres de ses collegues il combattit pour la liberte de sa patrie, et la vie militaire a laquelle il avait pris part inspira quelques unes de ses cuvres. Un de ses tableaux representant " Les Bersaglieri * se trouve a la Galerie d''Art Moderne de Rome. Entre ses euvres les meilleurs je citerai " La Toilette ,"La visite derne de Florence, " L'ouvriere* qui appartient encore a la collection Pisani. Un tres beau tableaux de lui " Enfants qui tricotent  fut expose en 1870 a Parme et lui va- lutunprix.
+
+## Leto Achille
+
+Naquit a Monreale en 1844,mourut a Capri le31 mai 1913. Il serendit a Naples pour etudier avec Domenico Morelli. En 1875 il gagna le pensionnat de Rome, ensuite vint sétablir a Florence (de 1878-79). Il peignit dans cette ville " Lung²Arno ,"Lungo il Mugnone * et " Promenade aux Cascine , ces deux derniers appartiennent a la Galerie Pisani. Ces tableaux l'avaient mis en vue. Goupil l'appela a Paris ou son studio fut le rendez vous de tous les artistes les plus connus de cette epoque; De Nittis,Meissonier,Morelli, Mancini, Gemito,etc. C'est d'alors que date sa merveilleuse marine "Apres la tempete. Oblige a revenir en Italie a cause d'une maladie qui lui empoisonna la vie mais ne parvint pas a briser son extraordinaire activite d'artiste ni a gater son caractere doux achete par le Roi Humbert pour le Musee de Capodimonte et "Funari di Torre Annuninfirme, il alla sétablir sous le doux ciel de Capri et continua malgre tout a travailler. Il envoya a Venise en 1910 une "Marine de Catello  achetee par le Roi pour la Galerie d'Art Moderne et " Petite marine de Capri  vendue au Prince heritier de Grece Iactuel Roi Constantin - ces deux ceuvres sont une synthese de l'art de Leto qui ne se laissa jamais emporter par I exuberante nature meridionale. Sa palette est merveilleuse, mais chacun de ses coups de' pinceau garde sa juste valeur. Il sut joindre la hardiesse a la correction et a une connaissance profonde de la nature qu'il adora.
+
+## LojaconoFrancesco
+
+Naquit a Palermo en 184l. Est un des meilleurs artistes siciliens. Il fit ses etudes a Naples avec Palizzi jusqu'a 1860 puis senrola avec Garibaldi. On connait surtout de lui " Journee chaude* qui se trouve a la Pinacoteque de Capodimonte, " Pecheurs d'huitres  qui remporta un prix et qui est considere comme son chef d' euvre, " L'ascension " qui se
+trouve dans la Bibliotheque de Chantilly.La Galerie d'Art Moderne a Rome possede trois ceuvres de ce peintre. Un beau " Paysage " de cet artiste appartient a la Galerie Pisani. La ville de Palerme qui est justement fiere de cet artiste distingue possede une importante collection de ses ceuvres.
+
+## Lugli Albono
+
+Naquit a Carpi, pres de Modene en 1835, etudia a 1'Academie de Modene, ensuite a Florence. Il se dedia surtout a la peinture religieuse et fut professeur a l'Academie de Beaux Arts de Modene et membre honoraire de plusieurs societes artistiques. Il peignit a la gouache et a I huile.
+
+## Marius Pictor (Mario De Maria)
+
+Mario De Maria - ou par son nom de guerre, quil a rendu celebre - Marius Pictor, naquit a Bologne en 1852. De 1872 a 1874 il frequenta 1Academie de cette ville et suivit les cours du Prof. Puccinilli. Il se rendit ensuite a Paris,plus tard a Rome ou, en 1886, ses tableaux eurent a 1'exposition de la Societe "In Arte Libertas  le plus grand succes. En 1909 a lExposition internationale de Venise il fut invite a faire une exposition individuelle de ses euvres.
+
+siasme. Tous les critiques d'art soccuperent de lui. Bertanini dit que: " Le secret de la poesie profonde de l'art de De Maria est dans la couleur . Diego Angeli le considere "comme lartiste le plus complet que possede en ce moment I' Italie  et Ugo Ojetti écrit: "sa peinture eet savante,aucun secret de technique, de mixture et de patine ne lui est inconnu; elle reussit a sembler ancienne a peine sortie de son etude, le dessein en est incisif et medite, inspire a des fantaisies macabres et romantiques . Ce grand peintre joint a des qualites exceptionnelles de coloriste une fantaisie des plus vives et des plus etranges. Sa peinture, aux tons chauds et riches a une puissance de chiaro scuro, une patine doree, un email qui la rendent digne d'un grand maitre du passe.
+
+Il en reunit trente-sept dont on parla beaucoup et qui inspirerent un veritable enthou-
+
+## Marko Andrea
+
+Naquit a Vienne en 1826 et vecut longtemps a Florence. Il se fit une grande reputation comme paysagiste,et fut membre honoraire des Academies de Florence,Milan,Urbino et de la societe des aquarellistes de Bruxelles. En 1860 il exposa a Florence " Cavallari Maremmani  euvre qui obtint un prix et qui appartient aujourd' hui a la collection Pisani. En 1887 il exposa a Vienne une " Vue des carrieres de Carrare  qui lui valut une medaille d'or.
+## Martinetti Angelo
+
+Peintre romain, se dedia a la peinture de la nature morte. Ses tableaux furent exposes a Turin en 1880,a Rome en 1883.
+
+## Michetti Francesco Paolo
+
+Naquit a Tocco Casauria (Abruzzi) en 1851. En 1868 il obtint de la Province de Chieti une pension qui lui permit de se rendre a Naples pour etudier avec Morelli et Palizzi. Des le commencement il prouva qu'il etait plus avance d' idees et plus revolutionnaire que ses maitres memes, en exposant a la Promotrice son tableau " La procession de la Fete Dieu a Chieti . Il venait ainsi de livrer sa premiere bataille. Cette euvre fut le sujet d'apres critiques et de jugements les plus divers.Exalte par les uns,maltraite par les autres, le jeune artiste ne se decouragea point et il exposa a Paris: " Printemps d'Amour . Dans ce tableau il donna libre cours a sa fantaisie hardie et a sa brilliante palette de coloriste. En 1880 il exposa a Turin " Le Dimanche des palmiers ", " Pecheurs de thon  et "Morticelli  qui eurent un tres grand succes. En 188l il exposa a Milan trente-quatre etudes a la gouache,et finalement en 1883,a Rome, son fameux tableau "Il voto"qui est peut etre son chef-d'euvre, qui est certainement l'une des euvres les plus puissantes de l'art moderne italien et qui nous montre son talent exceptionnel d'artiste en plein developpement. Ce tableau se trouve a Rome. Accuse de manquer de Plus tard a Paris en 1900 " Les estropies ", et "Les Serpents  deux grandes gouaches Jorio. En 1909 il fut nomme Senateur du Royaume, honneur qui n'a éte donne qu²a deux autres artistes,Morelli et Monteverde. Michetti est sans contredit l'un des plus grands peintres de Part moderne italien. Original et personnel comme peu d'autres il met dans ses toi- les, si hardiment peintes et si vivantes, toute la couleur, toute la lumiere, toute la chaleur du midi.
+
+## Milesi Alessandro
+
+Naquit a Venise en 1856 etudia a 1Academie de cette ville avec Nani et debuta,en 1879, avec son tableau " Les contes de Grand-mere". Ce tableau de genre, plein de vie et de caractere, tres beau de ton, appartient a la Galerie Pisani qui possede aussi de lui un autre tableau "Al traghetto " euvre beaucoup plus recente. Entre ses tableaux plus connus je citerai " Voulez vous monter? peint en 1887. Il est aussi bon portraitiste.
+## Miti Zanetti Giuseppe
+
+Naquit a Modene en 1860.Il frequenta quoique irregulierement lAcademie de sa ville natale et celle de Bologne. Se rendit en 1879 a Venise, et pris par lo charme profond de cette ville il se promit d'y vivre a peine il en aurait le moyen. En 1884 en effet il realisa son reve et sétablit a Venise. C'est surtout le mystere des nuits venitiennes qui lui inspira les plus belles de ses cuvres. Rappelons " Harmonie", " En paix", " Heure derniere, Venise endormie", etc. La Galerie d'Art Moderne de Venise possede son par S. M. le Roi d' Italie et S. M. la Reine Margherite possede la collection complete des suggestives eaux-fortes de ce maitre. Miti Zanetti a obtenu la medaille d'or a Munich, Vienne,Turin, Goritzia,Modene,et ses eaux-fortes lui ont valu d'autres medailles a
+
+Munich,Venise, Genes,Bologne et de nombreux diplomes a Paris et Chicago.
+
+## Moradei Arturo
+
+Peintre toscan;né a Florence en 1840 il s²était établi a Ravenne ou il mourut en 1901. Il a fait des tableaux de genre avec une belle largeur de touche.En 1878 a l'exposition nationale a Paris il se ft distinguer entre les jeunes peintres italiens. Le critique De une bonne promesse qu'il tint largement.D'autres tableaux qui firent parler favorable-
+
+Renzis admire la simplicite sincere et bien humaine qui inspire ses eeuvres. ll avait expose I'annee precedente a Naples entre autres tableaux "Povera Gigina" qui avait été ment de lui furent: " Comment cela finira-t-il?L'hiver"," Le seul ami", etc., et d' autres ceuvres encore exposees a Venise en 1887 entre les quelles  Seggo, seggo bene " dont Chitani écrit: "Dans ce tableau, comme dans les autres, Moradei a su rendre et faire vives les types caracteristiques des paysans de Ravenne et ses paysages." Dans ce tableau comme dans les autres, sa peinture a une touche solide qui marque les plans, un modele ferme et precis, un dessein large qui ont fait de cet artiste l'un des peintres les plus originaux de I ecole toscane. Moradei est represente dans la collection Pisani par plusieurs ceuvres importantes qui sont entre les meilleurs qu'il ait etre la plus remarquable.
+
+## Muzzioli Giovanni
+
+Naquit a Modene en 1854 et mourut le 8 aout 1894. Il ft ses etudes a 1'Academie de San Luca et ses maitres furent Coghetti et Podesti. En 1874 il se rendit a Florence ou il exposa bientot " Poppee se fisant apporter la tete d' Octave ". En 1880 il exposa a
+Turin  la Madeleine"et le voix publique decreta que ce tableau etait le chef d'euvre de 1 Exposition. En 1887 il exposa a Milan " Le temple de Bacchus ", qui lui valogne son tableau "Les funerailles de Britannicus  fit du bruit et souleva I'enthousiasme general. Ce peintre comme son collegue anglais Alma-Tadema a peint surtout des sujets romains, et sest fait en ce genre une reputation enviable.Il avait de tres belles qualites de dessinateur et de coloriste. On peut citer encore de lui " Heure chaude ", rentine aux ombres violacees et la grace tres pure des deux personnages qui l'animent, est d'une poesie tres sugestive et d'une finesse delicieuse: le maitre, sil nous a laisse des euvres plus importantes et plus completes ne nous a certes rien donne de plus exquis.
+
+## Nono Luigi
+
+Ne a Lusino en 1850 etudia avec Molmenti et debuta en 1872 avec des paysages tout a fait remarquables. En 1880 il exposa a Turin, " La Chasse aux grillons " et Les rie Pisani, et dans la meme annee, a Milan meme," La Convalescence . Ces tableaux, euvres de l'artiste en sa pleine maturite,ont des qualites de couleur et d'observation, une richesse de ton qui le rattachent directement a Favretto.En 188l il obtint un véritable triomphe en exposant a Venise son tableau " Refugium Peccatorum " qui appartient aujourdhui a la Galerie d'Art Moderne de Venise.Nono,qui est bien connu a létranger a eu des prix a Munich, a Berlin, a Paris,et a Bruxelles.Les Musees de Paris, de Berlin, de Petersbourg, et de Buenos Ayres possedent tous des euvres de cet artiste.
+
+## Orfei Orfeo
+
+Naquit a Massa Lombarda,vit a Bologne. Il peint surtout des tableaux de genre, avec beaucoup de gout, de finesse, et d'habilete. On peut citer de lui entre autres "Musicien ambulant ",qui appartient a la Galerie Pisani.
+
+## Pagliano Eleuterio
+
+Naquit a Casale Monferrato en 1826 et mourut en 1893. Il etudia avec Sabatelli et Fogni a lAcademie de Brera a Milan. Il debuta par des tableaux religieux et fut l'un des peintres les plus connus de 1 école romantique. Ayant combattu avec Garibaldi en 1860 il peignit pendant quelque temps des sujets militaires,patriotiques, et historiques: entre autres " La capitulation au cimetiere de Solferino "," La compagnie Bronzetto a
+Soriate", Divorce de Napoleon I " etc. Il fit aussi de la peinture decorative et peignit pour le salon d' attente de la Gare de Milan, les allegories de Venise et de Naples et l'allegorie de lAfrique dans la Coupole de la Galleria Vittorio Emanuele, a Milan.
+
+## Quadrone Giovan Battista
+
+Naquit en Piemont en 1846, mourut en 1908 a Turin.Fut éleve de Gaetano Ferri a IAcademie Albertina. La premiere euvre de lui "Une scene des Martyrs de ChateaulAcademie Albertina et temoigne de I'habilete a laquelle etait deja arrive ce jeune artiste de vingtquatre ans. Il étudia ensuite a Paris,et y vecut quelque temps. La il se laissa entrainer par son enthousiasme pour la peinture francaise, pour Gerome, Meissonier et surtout Zamacois, un peintre espagnol vivant a Paris; sous l' infuence de ces artistes il se mit a peindre avec une marveilleuse habilete de technique, des petits ta- bleaux de genre qui eurent a Paris meme, un tres grand succes.
+
+On connait de lui, de cette epoque " Jugement de Paris",  Les Pirates" qui appartiennent aujourd'hui a la Galerie Pisani,Chasseur clandestin","Un arret", etc. Ces tableaux sont d'une finesse et d'une exactitude minutieuse, ses compositions, tres habiles, ont parfois une amusante verve satirique. Son dessein est ferme et precis, et il a lhabilete de donner a ses petites toiles tres vraies et si vivantes, l'allure d'un grand tableau.Il fut appele le Meissonier italien. La Galerie Nationale d'Art Moderne de
+
+Rome possede de lui un tableau “ Le Retour "
+
+## Raggio Giuseppe
+
+Naquit a Chiavari en 1824. Dans sa jeunesse il a vecu pendant deux ans a Florence. Depuis il a toujours vecu a Rome. A Rome il n'eut pas de maitre, mais il frequenta beaucoup le Cenacle academique auquel appartenaient Capalti et Podesti. Il fut son propre maitre;étudia toujours en plein air, travaillant dans la campagna, amoureux de ses grandes lignes harmonieuses et d de sa lumiere doree qu'il sut si bien rendre dans ses toiles; il fut un veritable precurseur.Aristide Sartorio, qui n'est pas seulement un grand artiste mais aussi un critique tres fin,ecrit dans son tude sur Raggio,dont il parle avec maratre; et qu'il ne sut pas battre a coups de rateau pour la mater et en faire son esclave. Ses euvres seront recherchees un jour comme la manifestation d'un talent rare qui eut de la Campagna Romaine une vision admirable et personnelle." G. Raggio a aujourd hui quatre-vingt-onze ans et il est membre de l'Academie de Saint Luca et de 1'Academie de Genes. Deux des ses toiles "Boeufs trasportant du travertin" et " Idylle " se trouvent dans la Galerie d'Art Moderne a Rome.
+## Rossano Federico
+
+Naquit a Naples en 1848.Vecut longuement a Paris ou il subit l'influence de lecole francaise de I830. On doit rappeler de lui entre ses meilleurs euvres Alentours de Paris ",La moisson"," Recolte de fruits "," Paysage ". Il y a des euvres de lui a la Galerie d'Art Moderne de Rome et de Venise. Ses paysages sont tres estimees par les connaisseurs.
+
+## Scattola Ferruccio
+
+Né en 1873 a Venise. En 1884 a vingt-un ans il gagna a Milan le prix Fumagalli de 10.000 francs avec son tableau "Interieur de Saint Mare, tableau qui fut achete ensuite par le comm. Pisani et vendu a letranger.En 190l son tablean "Le Marechal Ferrant" fut achete pour la Galerie Nationale de Rome. Ce meme tableau fut demande par le Musee de Barcelone, ou il recut une medaille d'argent en 1906. En 1905 son ta- bleau "Burano endormie" lui valut la medaille d'or a Munich. Les ceuvres de ce peintre se trouvent dans tous les principales Galeries et Musees italiens et etrangers.A Venise qui a de lui "Sur I'Arno", Le dome de Sienne" et Certaldo." A Verone,Udine,Trieste. Son tableau"L'Aubea éte achete en 19o0 pour le Musee de Bruxelles et le Musee du Luxembourg a Paris possede Nuit de lune a Saint Gemignano." Il est represente a la Galerie d'Art Moderne a Rome par  Impressions du marche et "Le crete di Volterra". Cet artiste dont la carriere a ete si brillante et heureuse possede tout le charme des coloristes venitiens et sa peinture est tres intime.
+
+## Segantini Giovanni
+
+Naquit a Arco(Trentino) en 1858,mourut en 1899 pendant qu'il travaillait au dernier des grands panneaux du tryptique de Maloja. Issu d'une famille de paysans tres pauvres, il dut pendant sa premiere enfance garder des troupeax de cochons en France. Revenu a Milan il put frequenter lAcademie de Brera,mais son ame rebelle ne sut se plier a aucune regle et il ne suivit pas longtemps les cours. Le tableau qui le premier revela cet artiste de genie fut "Le chceur de Saint Antoine".Ensuite il montra son amour pour le paysage avec "Le Naviglio de Saint Mare","Les etoiles du matin","Coucher de soleil",La recolte des cocons", Tondaison"qui eut un prix a Anvers. En 1889 son parfait developpement. Il avait rejoint son but; la lumiere et le plein air. Son esprit curieux et reveur, qui lui faisait chercher sans cesse de nouveaux sujets d' inspiration, le poussa en 1890 vers le symbolisme; c'est d'alors que datent "Les deux meres",
+"Nos morts",Le berceau vide", La luxure",L'Ange de la vie",etc. Plus tard,repris par sa fievre de recherche de la lumiere et par le charme intense que la haute monta1897, et le grand tryptique "La nature, la vie,et la mort" qui malheureusement nous bien connu de tous les amateurs d'art pour qu'il soit necessaire de parler plus longuement de lui en ces courtes notes.
+
+## Selvatico Luigi
+
+Le plus jeune des fls du regrette poete Riccardo Selvatico, est ne en 1873 a Venise ou il a passe sa jeunesse douloureuse, chercant une consolation aux injustices de la nature dans son amour pour l' art et pour la science. Dans un elegant volume édit par l' Istituto delle Arti Grafiche(Bergamo) lecritique Pelandi,parlant delui avee une tendresse emue,racontant ses premiers pas dans l'art, sous la conduite de Cesare Laurenti,crit a propos de son premier tableau Dans le laboratoire"- expose a Turin en 1896 et en 1897 a IExposition International d'art a Venise,aupres d'un autre tableau "Humbles funerailles:-"La finesse du sentiment s'allie ici a I'habilete du dessein et de la couleur."
+
+Depuis Luigi Selvatico a envoye ses beaux tableax a toutes les expositions de Venise on il a toujours recueilli les eloges unanimes du Jury, du public et de la presse. Il aime surtout a peindre Venise et la mysterieuse beaute de ses canaux et de ses palais. La Galerie d'Art Moderne de Venise possede son tableau "Sous pression", "Depart Matinal" appartient a la Galerie National d' Art Moderne a Rome et S. M. la Reine
+
+Mere acheta, il y a quelques annees, le tableau intitule “ Decadence”.
+
+## Signorini Telemaco
+
+Naquit a Florence en 1835 et mourut en 1901. ll fut I'ame du mouvement revolutionaire de la jeune ecole florentine contre l'Academie; le plus ardent et le plus violent des Macchiaiuoli. Il attaqua l'Academie avec tout son talent d'artiste et son esprit aigu et hardi de critique. ll avait etudie avec son pere qui était peintre et ensuite a Paris ou il sétait imbu de toutes les theories et de toutes les idees nouvelles. Il fut un veriste convaincu et paradoxal. Les tableaux comme Le Ghetto"," Les Forcats", etc., donnerent lieu en 187l au polemiques les plus ardentes et les plus violentes. Plus tard Signorini s'adonna completement au paysage. On vit des euvres de lui dans toutes les expositions en Italie et a l'etranger ou elles eurent toujours du succes et obtinrent souvent des prix. Signorini est aujourd' hui reconnu comme l'un des representants les plus doues et les plus complets de I école des Macchiaiuoli.
+## Simi Filadelfo
+
+Naquit a Versilia en 1849. Etudia a Paris avec Gerome. Ses euvres furent exposes a Florence en 1885 et a Venise en 1887, et eurent un tres grand succes. Il subit Iinfuence de Bastien Lepage. ll y a dans la peinture beaucoup d'exactitude et de finesse d''observation. "La brodeuse" qui fait partie de la Galerie Pisani est une euvre d'une grande purete et de beaucoup de sentiment.
+
+## Sorbi Raffaele
+
+Toscan,naquit en 1847.Fut eleve de Ciseri et,tres jeune, donna des preuves de ses exceptionnelles qualites d'artiste.Lorsqu'en 1867 il exposa son second tableau,Telemaco Signorini écrivait ainsi de lui: S'il nous faut admettre la fameuse maxime d' Horace Poetae nascuntur il nous faudra convenir que,comme les poetes,naissent poetes,Sorbi est ne peintre." Les euvres de Sorbi sont tres estimees et tres recherchees a l' etranger.
+
+## Tano Eugenio
+
+Peintre calabrais,ne a Cosenza,vecut longtemps a Florence.En 1877 il exposa a Naples un portrait de Garibaldi qui fut beaucoup loue, ensuite en 188l a Milan "L'Arno* Ses paysages furent exposes aussi en 1884 a la Promotrice a Florence et en 1885 a Milan.
+
+## Tito Ettore
+
+Naquit en 1860 a Castellamare di Stabia. Il vint tout jeune encore a Venise et commenca ses etudes a l'Academie avec Pompeo Molmenti qui, deja vieux, avait eu comme éleve un autre grand peintre venitien: Giacomo Favretto, dont linfluence sur Tito fut considerable,et dont il semble avoir herite certaines qualites;Ihabilete de la composition et de la coupe de ses tableaux, lequilibre parfait entre lombre et la lumiere. Pendant les premiers temps Tito dut,pour gagner sa vie,peindre des tableaux de genre, et il le fit avec grace,avec un sentiment d'observation tres intime; mais il ne cessait d'etudier surtout les peintres venitiens du XVIIIe siecle, et lorsqu'il put se le permet tre, il voyagea beaucoup en Allemagne,en France, en Angleterre. Ce fut a Venise, au retour de ses voyages en 1887, qu'il exposa son tableau "Pescheria" qui fut une affrmation triomphale de la maturite de son genie. Ce tableau se trouve toujours triomphe dans toutes les expositions a l'etranger et en Italie, a Venise surtout
+ou deux fois,en 1909 et en 1912,il fut invite a faire des expositions individuelles de ses euvres, qui eurent un immense succes. Il a raconte dans ses toiles,la gaie et tumultueuse vie venitienne, tellement remplie de lumiere et de couleur,et aussi la paix harmonieuse de la montagne.
+
+stes qui prirent pour sujet Venise: Ettore Tito est le seul qui sache encore la faire sourire, en plein soleil comme dans la brume,dans les etroits Calli et dans la large lagune, et, apres avoir parle de la saine sincerite de Tito, de la lumiere qu'il sait ré pandre a profusion dans ses toiles, du grand relief qui est une de ses plus belles quali tes,il parle de ".. cette impetuosite de mouvement qui est une autre caracteristique de la vie dans la peinture de Tito..": ".. tout son art est dinamique, dit il plus loin, "toutes ses toiles, ses aquarelles et ses desseins representent une scene rapide, une action passagere, tous ces personnages nous appairaissent comme dans un éclair" et apres une belle description d'une journee de mars a Venise, Ojetti nous dit: Pensez a une de ces journees demars,lumineuse et ventilee,gracieuse et anxieuse et vous verrez "La fortune","La naissance de Venus",Le triomphe de Bacchus"(a Milan, Castello) et un delicieux portraitiste qui rappelle la grace nerveuse de Boldini. Il a fait aussi de la sculpture.
+
+Le grand critique Ugo Ojetti, dans une tres belle etude, dit de lui en parlant des arti-
+
+Il a recu la grande medaille d'or a Vienne, a Paris,a Berlin, a Munich et a Barcelone. Le Luxembourg a Paris et la Pinacoteque de Boston possedent des tableax de lui. Le charmant tableau "Apres la pluie" qui appartient a la collection Pisani est une ceuvre exquise et entre les plus caracteristiques du maitre.
+
+## Tommasi Adolfo
+
+Ne a Livourne en l85l il est I aine de trois freres qui furent tous peintres. Il quitta le commerce auquel il setait dedie a contre-coeur pour obeir a son pere et se rendit en 1874 a Florence ou il commenca a etudier le paysage avec Carlo Marko. Mais il quitta bientot son maitre, dont 1' enseignement academique ne convenait pas a son talent et suivit lecole veriste et impressioniste des Macchiaiuoli. Tommasi se mit a étudier de lui meme travaillant en plein air; etudiant de pres la nature. Il se lia avec Lega, Signorini, Cecioni.En 1870 son tableau "Monte acutoeut un prix a une exposition forentine et en 1880 a Turin un autre tableau representant un champ de choux intitule "Apres la gelee" devint le sujet des discussions les plus vives, fut blame par les traditionalistes,exalte par les novateurs.
+
+Quatre ans plus tard Tommasi exposa encore a Turin un tableau "Locomotive en course" qui fut achete par la Galerie Nationale d' Art Moderne de Rome. Cammillo Boito ecrivait alors dans La Nuova Antologia que ce tableau etait, selon lui, la plus belle ceu- vre de Iexposition. Depuis ce temps Tommasi a souvent expose a Florence,Venise,
+Bologne et a Vienne en l888. Dans ses nombreuses ceuvres il rend le paysage avec une tres grand sincerite et simplicite, avec une teinte de calme melancholie qui lui est personnelle. Tout recemment la Galerie de l'Academie de Florence a achete un de ses tableaux "L'Automne",euvre admirable dont l'effet est obtenu avec les moyens les plus simples.
+
+## Torchi Angelo
+
+Né a Massalombarda pres de Ravenne en 1870. Etudia avec Gelati d'abord et ensuite avec Campriani a Naples, et peignit longtemps a Capri.
+
+En 1883 il revint setablir a Florence. Il a peint surtout des paysages. Dans son livre sur lart et les artistes toscans Anna Franchi parle ainsi de lui: # C'est un des plus doux et des plus poetiques peintres toscans. Son amour pour I' art ne s'est jamais dementi et la saine sincerite qui lui avait ete leguee par les Macchiaiuoli penetre toutes ses euvres et en fait le charme plus grand."
+
+## Vertunni Achille
+
+Naquit a Naples en 1826,mourut a Rome en 1894. Il fut un precurseur en matiere de paysage et ses tableaux ont des qualites tout a fait remarquables de couleur, de lumiere et de verite. ll étudia a l'Academie de Naples et avait commence d'abord avec la peinture d'histoire qu'il quitta bientot pour le paysage. En 1855 il quitta Naples pour sétablir a Rome ou il travailla jusqu'a sa mort.
+
+## Vinea Francesco
+
+Naquit a Forli en 1846 mourut a Florence en 1883. Commenca ses etudes a I'Academie de Florence,mais, trop pauvre, dut les interrompre et pour gagner sa vie se rendit a Milan ou il s'engagea aupres d' un photographe. Avec ses économies il revint a Florence et reprit ses etudes avec le peintre Pollastrini. Il mit de cote bientot les preceptes de l école academique et son talent d' artiste exceptionnellement doue se developpa brillamment.Il se rendit bientot celebre par ses tableaux de genre peints avec uneverve etune elegance remarquables.
+
+Ses qualites de coloriste sont tout a fait exceptionnelles. Les marchands de tableaux les plus connus de Paris, de Londres et de lAllemagne et les amateurs se disputerent ses tableaux qui furent vendus pour des sommes tres hautes. Sa carriere d'artiste fut des plus brillantes.
+## Vizzotto Alberti Giuseppe
+
+Né a Oderzo (Trevise) en 1862. Il commenca ses études de peinture avec son pere qui etait decorateur. A dix-huit ans il partit pour Venise.Frequenta l'Academie et en sortit en 1886. I debuta avec une fresque dans I' Eglise de Sainte Maria dei Miracoli a Motta.
+
+En 1802 il executa deux grands tableaux historiques pour la tour de Saint Martino. ne a Rome. Depuis il peint surtout des tableaux de genre.
+
+## Zandomeneghi Federigo
+
+Naquit a Venise en 1829, se rendit a Florence,ou il vecut longtemps et fut ami de tous les artistes faisant partie du petit Cenacle du Cafe Michelangelo.
+
+Il suivit l école des Macchiaiuoli dont il fut l'un des representants les plus estimes. Se rendit ensuite a Paris ou ilvit encore.
+
+Ayant subi l'infuence des impressionistes francais dont il suivit pendant quelques temps les theories,il a peint depuis a l' huile et au pastel des scenes de la vie pari sienne avec beaucoup de verve, de caractere et d'habilete. A 1 Exposition de Rome en 19ll il avait envoye trois toiles qui furent beaucoup admirees:"Matin ," Au restaurant "," Square d'Anvers ".
+
+Les deux tableaux qui appartiennent a la collection Pisani sont des exemplaires magnifiques de sa premiere maniere. Ils sont d'un dessein precis et vigoureux, et d'une richesse de coloris dans les gammes sombres, tout a fait exceptionnel.
+## CATALOGUE
+## Conditions de la Vente
+
+- 1.Elle sera faite au comptant.
+2. Les acquereurs paieront dix pour cent en sus des encheres.
+- 3.En cas de contestation le lot sera remis en vente.
+4. Les offres ne pourront etre inferieures d'un franc jusqu' a 100 frs.; de 5 frs. jusqua 1000 frs. et de 50 frs.au dela de 1000 frs.
+5. Le Directeur de la Vente se reserve le droit de changer lordre du catalogue, de reunir et diviser les lots.
+6. Le transport et I' imballage des objets vendus sont a la charge de I acquereur.
+7. L'entreprise ne garde pas en depot les objets vendus; l'acquereur devra les retirer dans la matinee suivante I adjudication,passe ce delai de temps le vendeur proprietaire se reserve le droit d'annuler ou de rendre operative I adjudication.L'Entreprise aura aussi le droit de remettre en vente les objets non retires a tout risque de lacquereur.
+8. On donne la garantie de I'autenticite de la signature des euvres.
+9. L' Entreprise pour faciliter a Messieurs les acquereurs le transport des objets achetes a autorisee la Maison Gondrand Freres de Milan a pourvoir pour I'emballage et le transport soit pour P Italie soit pour I etranger.
+
+Les amateurs qui ne peuvent pas assister a la vente sont pries d' adresser leurs commission a la direction de la vente: Maison Lino Pesaro,via Meravigli 10,telephone 12-374,Milan.
+## Aquarelles
+
+1. BENSA L., Paysage, peinture a I aquarelle, riche cadre; m. 0.50X0.30.
+2. LA VOLPE A., Ruines romaines, peinture a 1 aquarelle, riche cadre; m. 0.55X0.75.
+3. 3.VIZZOTTI ALBERTI G.,La peche,peinture a 1aquarelle,riche cadre; metres 0.52X0.30.
+4. 5.DE MARIA ETTORE, Joueur de guitarre, peinture a Iaquarelle, riche cadre;me tres c.55X0.35.
+4. SIGNORINI GIUSEPPE, Paysage, peinture a Paquarelle, riche cadre; metres 0.25X0.36.
+6. PROSDOCIMI A., Monument a Colleoni, peinture a 1'aquarelle, riche cadre; metres 0.60X0.25.
+7. 7.DALBONO EDOARDO, Pecheur de Naples,peinture a 1aquarelle,riche cadre; m.0.47X0.75.
+8. CASCIARO GIUSEPPE,Naples, peinture a 1′ aquarelle, riche cadre; m. 0.40X0.28.
+9. 9.MACCARI C., Joueur d' instruments, peinture a laquarelle, riche cadre; metres 0.75X0.60.
+10. COLEMAN ENRICO,Le coucher du Soleil,peinture a 1aquarelle,riche cadre; m.0.65X0.90.
+11. 11.CASCIARO GIUSEPPE,Marine, peinture a 1’ aquarelle, riche cadre;m.0.35X0.26.
+12. LORIA V., Actualite de Naples, peinture a 1 aquarelle, riche cadre; m. 0.50X0.25.
+13. 13.ALORDA, La Giudecca (Venise), peinture a 1aquarelle, riche cadre; m.1X1.40.
+14. 14.LEHEGIAN G., Des arabes, peinture a 1’ aquarelle, riche cadre; m. 0.75X0.52.
+15. 15.ETHOFER TH.,L'antichambre du cardinal,peinture a 1aquarelle,riche cadre; m.0.80X0.50.
+16. CARCANO FILIPPO, Paysage, peinture a 1 aquarelle, riche cadre; m. 0.17X0.25.
+17. 17.LETO ACHILLE,Joueur d'instruments,peinture a laquarelle,riche cadre; metres 0.28×0.18.
+18. CARCANO FILIPPO, Paysage, peinture a 1' aquarelle, riche cadre; m. 0.25X0.34.
+19. BENSA L.,Notes de glace, peinture a I aquarelle, riche cadre; m. 0.55X0.40.
+20. LA VOLPE A., Pestum, peinture a l'aquarelle, riche cadre; m. 0.50X0.75.
+21. VIZZOTTI ALBERTI G., En attendant, peinture a 1'aquarelle, riche cadre; metres 0.55X0.30.
+22. GALOFRE, La tempete, peinture a 1'aquarelle, riche cadre; m. 0.65X0,95,
+23. DE GROSSI ADELCHI, Nonnettes, peinture a 1aquarell, riche cadre; metres 0.50X0.60.
+5. 24.PROsDOCIMI A., La colonne de Saint Marc, peinture a 1 aquarelle, riche cadre;
+6. m.0.60X0.25.
+7. 25.DALBONO EDOARDO, Chateau d’ Ischia,peinture a laquarelle,riche cadre;
+8. m.0.25X0.33.
+26. DALBONO EDOARDO, Lagune, peinture a 1′ aquarelle, riche cadre; m. 0.40X0.26.
+27. PELLEGRINI RICCARDO, Le Dom de Milan, peinture a 1 aquarelle, riche cadre; m.0.40X0.28.
+28. CIPRIANI NAZZARENO, Au chour, peinture a 1' aquarelle, riche cadre; metres 0.60X0.38.
+29. GALOFRE, Bergeres, peinture a 1 aquarelle,riche cadre; m.1X0.65.
+30. COLEMAN ENRICO,Procession en Abruzzi, peinture a laquarelle,riche cadre; m.0.43X0.55.
+31. CASCIARO GIUSEPPE, Vomero (Naples), peinture a Iaquarelle,riche cadre;
+15. m.0.32X0.50.
+16. 32.MONTEFUSCO VINCENZO, Coutume napolitain, peinture a 1 aquarelle, riche ca-
+17. dre;m.0.27X0.16.
+33. COSTANTINI C.,Forum Traiano (Rome), peinture  1'aquarelle, riche cadre; metres 0.70X1.30.
+34. CARCANO FILIPPO,Au confessionnal,peinture a laquarelle,riche cadre; metres0.17X0.25.
+35. LETO A., Paysage et figure, peinture a I' aquarelle, riche cadre; m. 0.45X0.28.
+36. CARCANO FILIPPO, Paysage, peinture a 1′ aquarelle, riche cadre; m. 0.23X0.33.
+22. 37.AURELI GIUSEPPE,Sur la plage, peinture a l'aquarelle,riche cadre; metres 0.46X0.75.
+38. GABANI GIUSEPPE,Ancienne voiture de poste,peinture a laquarelle,riche cadre;m.0.55X0.90.
+24. 39.VALERY SILVESTRO,Meurs d’orient, peinture a 1 aquarelle,riche cadre; me-
+25. tres0.67X0.47.
+40. GABANI GIUSEPPE,Un arabe,peinture a 1 aquarelle, riche cadre; m.0.55X0.75.
+41. DE MARIA ETTORE, Une rue, peinture a l aquarelle, riche cadre; m. 0.51X0.31.
+2. 43.DALBONO EDOARDO, Chateau dellOvo (Naples), peinture a 1aquarelle, riche cadre;m.0.55X0.75.
+3. 42.TARTARINI A.,Le dome de Pesaro, peinture a laquarelle,riche cadre; metres 0.75X0.40.
+44. GALOFRE, Paysanne espagnole, peinture a 1’aquarelle, riche cadre; m. 0.90X0.58.
+5. 46.DE MARIA ETTORE,Mariette, peinture a 1aquarelle, riche cadre;m.0.45X0.30.
+45. COLEMAN ENRICO,Maremme, peinture a 1aquarelle, riche cadre;m.0.65X0.90.
+47. SERRA LUIGI,Enfant au giardin,peinture a laquarelle,riche cadre; metres 0.41X0.22.
+8. m.0.25X0.33.
+9. 48.DALBONO EDOARDO, Joueurs de guitarre, peinture a 1aquarelle, riche cadre;
+49. CASCIARO GIUSEPPE,Ville Arobia a Naples, peinture a laquarelle, riche ca-
+11. dre;m.0.40X0.27.
+12. 50.MONTEFUSCO VINCENZO,En attendant,peinture a 1 aquarelle,riche cadre; m.0.30X0.22.
+13. 51.COLEMAN ENRICO,Des taureaux,peinture a laquarelle,riche cadre,metres 0.60X0.75.
+14. 52.BORZINO LEOPOLDINA,Heures tristes,peinture a laquarelle,riche cadre;metres 0.35X0.48.
+15. 53.LETO A., Paysage et cheval, peinture a 1’aquarelle, riche cadre; m.0.37X0.18.
+16. 54.BARTOLINI P.,Entree au couwent,peinture a laquarell,riche cadre;metres 0.45X0.68.
+17. 55.BORZINO LEOPOLDINA,Le repas de moissonneurs,peinture a 1aquarelle,ri
+18. checadre;m.0.45X0.26.
+19. 56.LA VOLPE A., Sorrento (Naples),peinture a laquarelle, riche cadre; metres
+20. tres 0.55X0.75.
+21. 57.SIGNORINI GIUSEPPE,Sommellieuse et soldats,peinture a 1aquarelle,riche cadre; m.0.80X0.55.
+22. 58.DE BOCK TH.,Paysage, peinture a 1 aquarelle, riche cadre; m.0.35X0.20.
+23. 59.BAZZANI LUIGI, Port dOstia,peinture a 1aquarelle,riche cadre;m.1X0.60.
+## Tableaux a lhuile
+
+- 60.LEMONARTHUR,Forte deMarmi,peinture a 1 huile sur toile,riche cadre sculp-
+- te et dore; m.0.45X0.80.
+61. ISSELL ALBERTO, Jeune homme au bois, peinture a l'huile sur toile, riche cadre sculpte et dore;m.0.25X0.20.
+62. GORDIGIANI EDOARDO, Castiglioncello (Florence), peinture a 1 huile sur toile, riche cadre sculpte et dore; m. 0.60X0.75.
+63. COFFA ANDREA, Palais pretorien, peinture a lhuile sur toile, riche cadre sculp-
+- té et dore;m.0.35X0.20.
+64. COSENZA GIUSEPPE, Sur la mer, peinture a l'huile sur toile, riche cadre sculp-
+- te et doré;m.0.15X0.28.
+65. GIOLI FRANCESCO,La vendange,peinture a 1huile sur toile,riche cadre sculp-
+- te et doré;m.0.75X0.52.
+- 66.FACCIOLI R.,Pas de mots et bien de faits,peinture a lhuile sur toile,riche ca dre sculpte et dore; m.0.58X0.75.
+- 67.DE MARIA ETTORE,Jeune fille,peinture a lhuile sur toile,riche cadre sculpte
+- et dore;m.0.20X0.30.
+- 68.DE GREGORIO,Lumiere de Soleil,peinture a lhuile sur toile,riche cadre sculp-
+- te et dore;m.0.22X0.18.
+69. COSTA GIOVANNI, Paysanne des environs de Rome, peinture a 1huile sur toile,
+- riche cadre sculpte et dore;m.0.65X0.52.
+70. COSENZA GIUSEPPE,La baie de Naples, peinture a lhuile sur toile,riche ca
+- dre seulpte et dore; m.0.40X0.80.
+- 71.COFFA ANDREA,Femme dans bois,peinture a Ihuile sur toile,riche cadre sculp
+- te et doré;m.0.30X0.20.
+- 72.CECCONI EUGENIO,Paysage,peinture a 1huile sur toile,riche cadre sculpt et dore;m.0.16X32.
+- 73.BRUZZI STEFANO,Saint Pierre vu du Tevere,peinture a 1huile sur toile,riche cadre sculpte et dore; m. 0.40X0.65.
+- 74.BORRANI EDOARDO,Les religieuses,peinture a 1huile sur toile,riche cadre
+- sculpte et dore; m.0.25X0.35.
+
+Expose a la Exposition de Florence en 1878.
+- 75.BALOTTA,Vue deNaples,peinture a 1huile sur toile,riche cadre sculptet dor m.0.35X0.75.
+77. MARKO ANDREA, Le gue, peinture a 1 huile sur toile, riche cadre sculpte et
+- 76.AERNI,Enirons deRome,peinture a huile sur toile,riche cadre sculpteet dore; m.1X0.70.
+- dore;m.0.75X1.15.
+- dore; m.0.35X0.25.
+- 78.MARTINEZ W.J.,Au balcon,peinture a 1huile sur toile,riche cadre sculpte et
+- 79.MORADEI A.,Mingon, peinture a lhuile sur toile, riche cadre sculpte et dore;
+- 80.RAGGIO GIUSEPPE,Tete dane,peinture a 1huile sur toile,riche cadre sculpt et dore;m.0.70X0.50.
+- m.0.60X0.45.
+- 81.PESENTIDOMENICO,GaleriePittipeinture a lhuile sur toile,riche cadre sculp-
+- te et doré;m.0.25X0.20.
+82. GIOLI LUIGI,Scenes militaires,peinture a 1huile sur toile,riche cadre sculpte et doré;m.0.40X0.65.
+- 83.COFFA ANDREA,La Galerie Pittipeinture a Ihuile sur toile,riche cadre sculpté et doré;m.0.35X0.20.
+- 84.OLPE VINCENZO,Moine peintre,peinture a 1 huile sur toile,richecadre sculpte et doré;m.0.41X0.43.
+- 85.VIZZOTTO ALBERTI,Intimites,peinture a 1huile sur toile,riche cadre sculpt et dore; m.0.75X0.95.
+- 86.TOMMASI ADOLFO, Printemps, peinture a 1 huile sur toile, riche cadre sculpté et doré;m.0.65X1.05.
+- 87.SIGNORINI TELEMACO, Maison de Leonardo da Vinci,peinture a 1 huile sur toile,riche cadre sculpte et dore;m.1.20X0.60.
+- 88.RICCI PIO,Dame quibrule des lettres,peinture a 1huile sur toile,riche cade sculpte et dore;m.0.40X0.35.
+- 89.PITTARA CARLO,Scenes de famille,peinture a huile sur toile,riche cadre
+- sculpte et dore; N. 0.22X0.25.
+- 90.VINEA FRANCESCO,Dame du XVIIe siecle,peinture a 1 huile sur toile,riche cadre sculpte et dore;m.0.31X0.23.
+- 91.SCATTOLA FERRUCCIO,Saint Marc (Venise),peinture a 1 huile sur toile,riche cadre sculpteet dore;m.0.70X1.15.
+92. SIMI FILADELFO,La brodeuse- peinture a 1huile sur toile,riche cadre sculpte et doré;m.1.20X0.85.
+
+Expose a Venise en 1887.
+- 93.RAGGIO GIUSEPPE,Cavallari romains, peinture a 1huile sur toile, riche cadre sculpte et dore; m.0.70X1.50.
+- 94.PAGLIANO ELEUTERIO,Page,peinture a 1huile sur toile,riche cadre sculpte et dore;m.0.70X0.45.
+- 95.MORADEI A.,L'echeveau sebouriffe,peinture a lhuile sur toile,riche cadre sculpte et dore; m.1.10X0.96.
+- 96.LA VOLPE A.,Ruines dePestum,peinture a 1huile sur toile,riche cadre sculpt et doré;m.0.52X1.
+- 97.LAEZZA GIUSEPPE,Pompei, peinture a 1'huile sur toile,riche cadre sculpte et dore; m, 0.60X1.25.
+98. ESPOSITO GAETANO, Grotta et Nymphe, peinture a I huile sur toile,riche cadre sculpte et dore; m.0.58X0.73.
+- 99.COFFA ANDREA,Portici (Naples) peinture a 1 huile sur toile,riche cadre sculpte et dore;m.0.50X0.30.
+- 100.RAGGIO GIUSEPPE,Ambassade de Beufs,peinture a I huile sur toile,riche cadre sculpte et dore;m.1.70&gt;2.60.
+
+Expose a Tourin en 1880.
+
+- 101.COFFA ANDREA,Jouissances maternelles,peinture a 1huile sur toile,riche ca dre sculpte et dore; m.0.40X0.65.
+- 102.ADEMOLLO CARLO,Le Circo Massimo, peinture a lhuile sur toile,riche cadre sculpte et dore;m.0.65X1.60.
+- 103.COFFA ANDREA,Petite travaillant la chaussette,peinture a 1huile sur toile, riche cadre sculpte et dore; m.0.65X0.42.
+- 104.BORDIGNON NOE,Enfants qui chantent,peinture a Ihuile sur toile,riche cadre sculpte et dore; m.0.90X1.20.
+105. CALDERINI MARCO,Paysage,peinture a 1huile sur toile,riche cadre sculpt et doré;m.0.50X0.90.
+106. CANNICCI NICOLO, L'improvisateur, peinture a lhuile sur toile,riche cadre sculpte et dore;m.0.95X1.35.
+107. CAVALERI VITTORIO,Barques Venitiennes, peinture a 1'huile sur toile,riche cadre sculpteet dore;m.0.48X0.71.
+
+108.FERRONI EGISTO,Confidences,peinture a 1huile sur toile,riche cadre sculpté et doré;m.0.23X0.14.
+
+- 109.GATTI ANNIBALE,Petit aysage,peinture a 1huile sur toile,riche cadre sculpté et doré;m.0.50X0.75.
+110. GIOLI FRANCESCO,L'eau,peinture a 1huile sur toile,riche cadre sculpte et dore; m.1.45X0.85.
+111. GIORDANO F.,Marine,peinture a Phuile sur toile,riche cadre sculpte et dore; m.0.90X0.60.
+113. CANNICCI NICOLO, Le Primtemps, peinture a 1 huile sur toile, riche cadre
+3. 112.LEMON ARTURO,Chevaux libres,einture a 1huile sur toile,riche cadre sculpte et dore;m.1.25X2.50.
+4. sculpte et dore;m.0.72X0.40.
+5. sculpte et dore; m.0.25X0.15.
+6. 114.FERRONI EGISTO,Femme au soleil,peinture a lhuile sur toile,riche cadre
+7. 115.COSTA GIOVANNI,Deux soeurs,peinture a huile sur toile,riche cadre sulpté et dore;m.1.45X0.90.
+8. 117.CECCONIEUGENIO,Chiffonniereseinturea lhuile sur toilerichecadre scu
+116. CIARDI GUGLIELMO,Une genisse,peinture a 1huile sur toile,riche cadre sculpte et dore;m.0.50X0.75.
+10. teet dore.
+118. MILESI ALESSANDRO, Contes de grande mere, peinture a 1 huile sur toile, ri che cadre sculpte et dore;m.0.50X0.80.
+12. et doré; m.0.22X0.38.
+119. CANNICCI NICOLO, La neige, peinture a 1'huile sur toile, riche cadre sculpte
+120. CANNICCI NICOLO, Joies de grand-pere, peinture a 1 huile sur toile, riche ca-
+15. dre sculpte et dore;m.0.80x0.50.
+16. 121.ZANDOMENEGHI FEDERICO,A l eglise, peinture a 1′huile sur toile, riche cadre sculpte et dore; m. 0.44X0.25.
+17. 122.TORCHI ANGELO,Soleil demars,peinture a 1huile sur toile,riche cadre sculpté et dore;m.1.10X0.75.
+18. 123.SIMONETTI ATTILIO,La premiere danse,peinture a 1huile sur toile,riche ca-
+19. dre sculpte et dore; m.0.40x0.30.
+20. 124.MORADEI A.,Meurs de Ravenna, peinture a 1 huile sur toile,riche cadre sculpte et dore; m.1.05X0.90.
+21. 125.BRUZZI STEFANO,Sous le portique,peinture a lhuile sur toile,riche cadre sculpté et dore;m.0.60X0.90.
+22. 126.BRUZZI STEFANO,Lhote des Alpes,peinture a lhuile sur toile,riche cadre sculpte et dore; m.0.75X0.60.
+23. 127.BARBAGLIA GIUSEPPE,Bice e Ottorino Visconti,peinture a lhuile sur toile,
+24. riche cadre sculpte et dore;m.0.98X0.66.
+128. SIGNORINI TELEMACO,Rendez-vous,peinture a 1huile sur toile,riche cadre sculpte et dore; m.0.32X0.23.
+26. 129.MORADEI A.,L'éte, peinture a 1huile sur toile, riche cadre sculpte et dore; m.0.55X0.77.
+130.LETO A., Interieur de maison, peinture a 1 huile sur toile,riche cadre sculpte et dore;m.0.55X0.35.
+
+131. KONAR A., Le repos, peinture a l'huile sur toile, riche cadre sculpte et dore; m.0.42X0.70.
+
+132. IROLLI VINCENZO, Enfant parmi les fleurs, peinture a 1huile sur toile, riche cadre sculpte et dore; m.0.60X0.40.
+
+133. COFFA ANDREA, Pecheurs a Naples, peinture a 1'huile sur toile, riche cadre sculpte et dore; m. 0.60X1.
+
+134. COSENZA GIUSEPPE, Sur la plage, peinture a 1huile sur toile, riche cadre sculpte et dore; m. 0.50X0.35.
+
+135. GIOLI FRANCESCO,Depart pour la promenade, peinture a 1 huile sur toile, ri che cadre sculpte et dore; m. 0.70X0.45.
+
+136.FACCIOLI R.,Venise,peinture a lhuile sur toile, riche cadre sculpte et dore;
+
+- m.0.28X0.37.
+
+137. DE MARIA ETTORE, Enfant et Singe, peinture a lhuile sur toile, riche cadre sculpte et doré; m.0.40X0.30.
+
+138.DE GREGORIO,Tete devieux,peinture a lhuile sur toile,riche cadre sculpte et dore;m.0.20X0.15.
+
+139. COsTA GIOVANNI,Une demiefgure,peinture a 1 huile sur toile,riche cadre
+
+- sculpte et dore; m.0.75X0.60.
+
+140. COSENZA GIUSEPPE,Marine,peinture a lhuile sur toile,riche cadre sculpte
+
+- et doré; m. 0.20X25.
+
+141. COFFA ANDREA,Marine, peinture a 1huile sur toile, riche cadre sculpte et do- ré;m.0.27X0.15.
+
+142.CECCONI EUGENIO,Route de Cunis,peinture a l′huile sur toile,riche cadre
+
+- sculpteet dore;m.0.25X0.45.
+143. CALOsCI ARTURO, Meurs du quinzieme siecle, peinture a I huile sur toile,riche cadre sculpte et dore; m. 0.20X0.12.
+
+144.BORRANI ODOARDO,Meurs du dix-huitieme siecle,peinture a1 huile sur toile,riche cadre sculpte et dore;m.0.13X0.30.
+
+Exposea l'Exposition deFlorence en 1878.
+
+145.BECHI LUIGI,Paysanne des environs de Rome,peinture a 1 huile sur toile,riche cadre sculpte et dore;m.0.80X0.65.
+
+- 146.ANDREOTTI FEDERICO,Francoise, peinture a 1 huile sur toile,riche cadre sculpte et dore; m.0.30X0.23.
+- 147.MARKO ANDREA,Vallee dArce,peinture a 1 huile sur toile,riche cadre sculpte et dore;m.0.65X1.
+- 148.MARTINETTI ANGELO, Chasse,peinture a Ihuile sur toile,riche cadre sculpte et dore;m.0.70X0.55.
+- 150.RAGGIO GIUSEPPE,Cheval et mulet,peinture a lhuile sur toile,riche cadre sculpte et dore; m. 0.90X0.70.
+149. ROSSANO FEDERIGO, La neige, peinture a 1 huile sur toile, riche cadre sculpte et dore;m.0.20X0.32.
+- 151.PARRINI GIUSEPPE,Eglise de Annonciation,peinturea 1huile sur toile,riche
+152. GIOLI LUIGI, Soldats en marche, peinture a 1 huile sur toile,riche cadre sculpte et dore; m. 0.45X0.75.
+- cadre sculpte et dore; m.0.60X0.40.
+153. COLEMAN ENRICO, Cimitiere de Scarpa, peinture a 1 huile sur toile, riche cadre sculpte et dore; m.0.15X0.25.
+154. VOLPE VINCENZO, L' hotesse, peinture a 1 huile sur toile, riche cadre sculpte et dore;m.0.65X0.50.
+155. VINEA FRANCESCO, Un eveque, peinture a 1' huile sur toile, riche cadre sculpte et dore;m.0.70X0.60.
+- 156.SIGNORINI TELEMACO,Villa de Nittis a Paris, peinture a l huile sur toile, riche cadre sculpte et dore;m.0.32X0.40.
+157. ROSSANO FEDERIGO, Paysage, peinture a 1 huile sur toile, riche cadre sculpte et doré;m.0.35X0.90.
+- 158.RAGGIO GIUSEPPE,Porte-frais romain,peinture a Ihuile sur toile,riche cadre sculpte et dore;m.0.70X1.50.
+- 159.PETITI FILIBERTO,Lumiere de soleil,peinture a Ihuile sur toile,riche ca-
+- dre sculpte et dore; m.0,75X120.
+- 160.ZANDOMENEGHI FEDERICO,Auant la procession, peinture a 1 huile sur toile,
+- riche cadre sculpte et dore;m.1.04X0.82.
+- 161.SORBI RAFFAELLO,Bacchanale,peinture a 1huile sur toile,riche cadre sculp té et dore; m.0.65X1.10.
+- 162.SELVATICO LUIGI,Venise.Vendeur d’assiettes,peinture a Ihuile sur toile,ri-
+- che cadre sculpte et dore; m. 0.90X0.70.
+- 163.RAGGIO GIUSEPPE,Taureaux,peinture a 1 huile sur toile,riche cadre sculpté et dore; m.0.65X1.15.
+- 164.PAGLIANO ELEUTERIO, Jeune fille prudente, peinture a 1’huile sur toile, ri
+- che cadre sculpte et dore;m.0.70X0.45.
+- 165.MOCHI G., Jouissances maternelles, peinture a 1'huile sur toile,riche cadre sculpte et dore;m.0.35X0.25.
+- 166.LOJACONO F.,Paysage,peinture a 1huile sur toile,riche cadre sculpte et dor;
+- m.0.32X0.43.
+167. LAERZA GIUSEPPE,Marinella (Rome), peinture a 1 huile sur toile,riche cadre sculpte et dore; m.0.60X1.25.
+
+Expose a Naples en 1877.
+
+168. CROSIO L., L'écheveau, peinture a 1 huile sur toile, riche cadre sculpte et dore; m.0.52X0.35.
+
+169.COFFA ANDREA,Paysage, peinture a 1 huile sur toile,riche cadre sculpte et dore;m.0.70X0.95.
+
+170.RAGGIO GIUSEPPE,Bufles, peinture a 1huile sur toile,riche cadre sculpte et dore; m.1X2.05.
+
+171.QUADRONE G.B.,Poulets, peinture a 1 huile sur toile, riche cadre sculpte et doré;m.0.14X0.20.
+
+172. AVENDANO S., Paysage, peinture a I' huile sur toile, riche cadre sculpte et doré；m.0.45X0.62.
+
+173.BIANCHI MOsE,Passage difficilepeinture a huile sur toile,riche cadre sculp té et doré;m.0.68x0.48.
+
+174.CIARDI GUGLIELMO,Sur la lagune (Venise),peinture a Ihuile sur toile,riche cadre sculpte et dore; m.0.50X0.98.
+
+175. BORRANI ODOARDO, Atelier de peintre, peinture a 1 huile sur toile, riche cadre sculpte et dore;m.1.25X0.80.
+
+176. CAMPRIANI ALCESTE, Canal Grande (Venise), peinture a I huile sur toile, riche cadre sculpte et dore;m.0.32X0.44.
+
+177. CANNICCI NICOLO,Bergeres qui dansent,peinture a 1 huile sur toile,riche cadre sculpte et dore;m. 0.90X1.42.
+
+178.CAsSIOLI AMOS,Rizzio et Marie Stuard,peinture a 1huile sur toile,riche cadre sculpte et dore; m, 0.70X0.95.
+
+179.FERRONI EGISTO, Concert,peinture a 1 huile sur toile,riche cadre sculpte et dore; m.0.16X0.16,
+
+180. GIGNOUS EUGENIO,Paysage,peinture a 1 huile sur toile,riche cadre sculpte et dore;m.0.75X1.
+
+181. GIOLI FRANCESCO, Seule!(demie figure de jeune fille),peinture a Ihuile sur toile,riche cadre sculpte et dore;m.0.35X0.50.
+
+182.GLISENTI ACHILLE,La priere,peinture a 1 huile sur toile,riche cadre sculpté et dore;m.1.20X1.55.
+
+183.LETO A.,Aux Cascine Florence),peinture a 1 huile sur toile,riche cadre sculpte et dore; m.0.52X0.86.
+
+184.CANNICCI NICOLO,Jeune flle parmi les fleurs,peinture a 1 huile sur toile,ri che cadre sculpte et dore;m.1.15X0.75.
+185.FERRONI EGISTO,Retour du marche,peinture a lhuile sur toile,riche cadre sculpte et dore; m. 0.45X1.
+
+m.0.55X0.36.
+
+186.DE TIvOLI S.,Auboispeinture a 1huile sur toile,riche cadre sculpte et dore;
+
+187. COFFA ANDREA,Un vieillard d ésprit,peinture a 1 huile sur toile,riche cadre sculpte et dore;m.0.90X1.60.
+
+Expose a Venise en 1880.
+
+te et doré;m.0.50X1.10.
+
+188.CECCONI EUGENIO,Le Queteur, einture a 1 huile sur toile, riche cadre sculp
+
+189.MILESI ALESSANDRO,La traversee, peinture a lhuile sur toile,riche cadre sculpte et dore; m.1.05X1.40.
+
+dre sculpte et dore;m.0.50X0.95.
+
+190. CANNICCI NICOLO,Traveaux de champs, peinture a 1 huile sur toile, riche ca-
+
+191. CANNICCI NICOLO, Enfants dans le bois, peinture a 1 huile sur toile, riche cadre sculpte et dore;m.0.35X0.20.
+
+192.VIANELLO CESARE,Lornithologiste,peinture a 1 huile sur toile,riche cadre sculpte et dore; m.0.65X0.90.
+
+193.TOMMASI ADOLFO,Paysage,peinture a 1huile sur toile,riche cadre sculpt et doré;m.0.20X0.33.
+
+194.IMI FILADELFIO,Serravezza,peinture a 1huile sur toile,riche cadre sculpt et dore;m.0.35X0.40.
+
+195.BRUZZI STEFANO, Don Chisciotte,peinture a lhuile sur toile,riche cadre sculpte et dore; m.1.30X2.25.
+
+## Expose a Venise en 1897.
+
+196.BUSI L.,Jouissances maternelles,peinture a lhuile sur toile,riche cadre, sculp- té et doré;m.0.60X0.42.
+
+197.NONO LUIGI,Ave Maria,peinture a l huile sur toile,riche cadre sculpte et do- ré;m.1.05X0.75.
+
+Expose a Milan en 1881.
+
+198.BELLONI GIORGIO,Dans la verdure,peinture a 1huile sur toile,riche cadre sculpte et dore;m.0.45X0.60.
+
+199.SIGNORINI TELEMACO, Dame au bureau, peinture a l'huile sur toile,riche cadre sculpte et dore;m.0.25X0.15.
+
+200.ROSSANO FEDERIGO,Le coucher du Soleil,peinture a lhuile sur toile,riche cadre sculpte et dore;m.0.28X0.35.
+
+201.LAERZA GIUSEPPE,Saint Jean a Teduccio (Naples), peinture a Ihuile sur toile,riche cadre sculpte et dore;m.0.25X0.50.
+
+202. IROLLI VINCENZO,Tete de garcon,peinture a 1 huile sur toile,riche cadre sculpte et dore; m.0.65X0.35.
+203. COFFA ANDREA,Fille et citrouilles, peinture a lhuile sur toile,riche cadre sculpte et dore; m.0.50X0.33.
+204. COSENZA GIUSEPPE,Marine,peinture a Ihuile sur toile,riche cadre sculpt et doré;m.0.20X0.30.
+3. 205.GIOLI LUIGI,Au theatre,peinture a 1huile sur toile,riche cadre sculpteet oré;m.0.70X0.40.
+206. GARINEI G.,La neige,peinture a lhuile sur toile,riche cadre sculpte et dore; m.0.25X0.30.
+5. 207.ETHOFER THEODOR,Ala porte ducouwent,peinture a lhuile sur toile,riche cadre sculpte et dore;m.0.50X0.30.
+6. 208.DE MARIA ETTORE,Le Mugnone (Toscane), peinture a lhuile sur toile,riche
+7. cadre sculpte et dore;m.0.40X0.50.
+209. CREVATIN G. B.,Flore, peinture a l huile sur toile,riche cadre sculpte et do ré;m.0.65X0.55.
+9. 210.COSENZA GIUSEPPE,Marine, peinture a 1 huile sur toile,riche cadre sculpte et doré;m.0.18X0.24.
+10. riche cadre sculpte et dore;m.0.60X0.35.
+212. CASTAGNOLA G.,Faust et Marguerite,peinture a l huile sur toile;riche cadre
+12. sculpte et dore;m.0.60X0.40.
+13. 213.ONUTTO A.,Le palais Ducal a Venise,peinture a I huile sur toile,riche cadre
+14. sculpte et dore; m.0.65X0.75.
+15. 214.BENSA ERNESTO,Enfant cueillant des fleurs,peinture a huile sur toile,riche
+16. cadre sculpte et dore; m.0.25X0.15.
+17. 215.AVANZI VITTORIO,Le lac de Stamberg, peinture a lhuile sur toile,riche ca
+18. dre sculpteet dore;m.0.20X0.35.
+19. 216.MANGIARELLI G.,Porte et peuple, peinture a lhuile sur toile, riche cadre sculpte et dore,m.0.45X0.35.
+20. 217.LUGLI,Lecture interrompue,peinture a 1huile sur toile,riche cadre sculpte et
+21. dore; m.0.40X0.30.
+22. 218.MOCHI G.,Dame avec le perroquet, peinture a 1huile sur toile, riche cadre
+23. sculpte et dore; m.0.60X0.42.
+24. 219.MARTINETTI ANGELO,Chasse,peinture a l huile sur toile,riche cadre sculpt et dore;m.0.70X0.55.
+25. 220.ROSSANO FEDERIGO,Naples vue de Portici,peinture a lhuile sur toile,riche cadre sculpte et dore; m.0.45X0.25.
+26. 221.PESENTI DOMENICO,Galerie des Offces,peinture a 1 huile sur toile,riche ca-
+27. dre sculpte et dore; m.0.25X0.17.
+- 222.MORADEI A.,L'hiver, peinture a 1huile sur toile,riche cadre sculpte et dore; m.0.10X0.21.
+- et dore;m.0.20X0.25.
+- 223.COSENZA GIUSEPPE,Marine,peinture a 1huile sur toile,riche cadre seulpte
+- 224.MORADEI A., Minghette, peinture a l huile sur toile, riche cadre sculpte et doré; m.0.60X0.45.
+- sculpte et dore; m.0.18X0.25.
+- 225.VIZZOTTO-ALBERTI G.,Saint Marc,peinture a 1huile sur toile,riche cadre
+226. SANTORO FRANCESCO, Vue du Tevere, peinture a 1 huile sur toile, riche ca-
+- 227.BANTI CRISTIANO,Jeune fille qui fait la tresse, peinture a I huile sur toile, ri che cadre sculpte et dore;m.0.24X0.14.
+- dre sculpte et dore; m. 0.30X0.55.
+- 228.SIMI FILADELFO,Paysage,peinture a lhuile sur toile,riche cadre sculpte et
+- doré;m.0.10X0.20.
+229. TEDESCO M., Badinage, peinture a I'huile sur toile, riche cadre seulpte et dore; m.0.52X0.35.
+- 230.VALDONI A.,Port de Trieste, peinture a 1 huile sur toile,riche cadre sculpte et
+231. VIANELLO CESARE, Filles et pigeons, peinture a l'huile sur toile, riche cadre
+- dore; m.0.20X0.40.
+- sculpte et dore;m.0.85X0.60.
+232. SIGNORINI TELEMACO, Settignano, peinture a 1 huile sur toile, riche cadre sculpte et dore; m.0.36X0.50.
+- 233.RONCHI C.,Vue de Pescarenico,peinture a I huile sur toile,riche cadre sculp-
+- té et doré; m. 0.30X0.45.
+234. RAGGIO GIUSEPPE, Brebis, peinture a 1 huile sur toile, riche cadre sculpte et
+- dore; m.0.65X1.20.
+- 235.PESENTI DOMENICO,Palais Ducal, peinture a 1huile sur toile,riche cadre sculpte et doré;m.0.60X0.75.
+- 236.VIZZOTTO ALBERTI G.,Idylle venitien,peinture a 1 huile sur toile,riche cadre sculpte et dore;m.1.15X1.90.
+- 237.SINIBALDO,Le depart de lepouse,peinture a 1 huile sur toile,riche cadre sculpte et doré; m.0.25X0.40.
+- 238.SEGANTINI GIOVANNI, Sonneur de cloches,peinture a 1huile sur toile,riche cadre sculpte et dore; m.1,20X0.62.
+- 239.RAGGIO GIUSEPPE,Duel des taureaux,peinture a lhuile sur toile,riche cadre sculpte et dore; m. 0.62X1.
+- 240.ORFEI ORFEO,Un pauure peintre,peinture a lhuile sur toile,riche cadre sculpte et dore; m.0.70X0.60.
+241.MITI-ZANETTI GIUSEPPE,Venise de nuit,peinture a lhuile sur toile,riche cadre sculpte et dore;m.0.73X1.02.
+
+242.LETO A.,Les jardins pubbliques a Naples,peinture a Ihuile sur toile,riche cadre sculpte et dore; m.0.43X0.27.
+
+et dore; m.0.39X0.57.
+
+244.COPPOLA CATALDO,Naples,peinture a 1huile sur toile,riche cadre sculpte et doré;m.0.65X1.20.
+
+Expose a Tourin en 1880.
+
+245. COFFA ANDREA,Femmelettes a Portici (Naples),peinture a 1huile sur toile, riche cadre sculpte et dore;m.1.10x0.75.
+
+246.RAGGIO GIUSEPPE,Bufles, peinture a 1huile sur toile,riche cadre sculpte et doré;m.0,70X1.50.
+
+247.QUADRONE G.B.,Le jesuite,peinture a 1 huile sur toile,riche cadre sculpte et dore; m.0.26X0.20.
+
+248. BAZZANI LUIGI, Pompei, peinture a 1' huile sur toile, riche cadre sculpte et dore;m.0.52X0.77.
+
+249.BIANCHI MOsE,La neige,peinture a 1 huile sur toile,riche cadre sculpte et doré;m.0.25X0.32.
+
+250.BRESSANIN VITTORIO,Au cafe,peinture a lhuile sur toile,riche cadre sculp- te et doré; m. 0.45X0.70.
+
+251. CANNICCI NICOLO, Jouissances maternelles,peinture a Ihuile sur toile,riche cadre sculpte st dore;m.1.40X1.20.
+
+252.BIANCHI MOsE,La peche des anchois,peinture a 1huile sur toile,riche cadre sculpte et dore; m. 0.48X0.73.
+
+253. FERRONI EGISTO, A la fontaine, peinture a 1 huile sur toile, riche cadre sculpte et dore; m. 2.90X1.65.
+
+Expose a Tourin en 1881.
+
+254.GIGNOUS EUGENIO,Paysage,peinture a lhuile sur toile,riche cadre sculpte et doré;m.0.40X0.75.
+
+255. GIOLI LUIGI, Cheveaux libres,peinture a Ihuile sur toile,riche cadre sculpte et dore;m.0.70X1.30.
+
+256. INDUNO GEROLAMO, La menagere, peinture a 1huile sur toile, riche cadre sculpte et dore; m. 0.50X0.40.
+
+257.LETO A., Pont de Bongival, peinture a l'huile sur toile, riche cadre sculpte et doré;m.0.40X0.56.
+
+258.MARIUS PICTOR,Le fabricant de squelettes,peinture a lhuile sur toile,riche cadre sculpteet dore;m.0.50X0.32.
+259. MICHETTI FRANCESCO PAOLO, Cortege nuptial, peinture a lhuile sur toile,
+2. 260.FATTORI GIOVANNI, Allee et boufs, peinture a 1' huile sur toile, riche cadre seulpte et dore; m.1.40X0.75.
+3. riche cadre sculpte et dore;m.0.51X0.73.
+261. CORCOS, En attendant, peinture a lhuile sur toile, riche cadre sculpte et dore; m.1X0.62.
+5. 262.CECCONI EUGENIO,Les blanchisseuses,peinture a Ihuile sur toile,riche cadre sculpte et dore; m.0.50X1.10.
+263. CANNICCI NICOLO, Retour de la campagne, peinture a 1 huile sur toile, riche cadre sculpte et dore;m.1.02X1.82.
+
+Expose a Paris en 1878.
+
+- dore; m.0.65X0.50.
+264. CANNICCI NICOLO, Fiance, peinture a 1'huile sur toile, riche cadre sculpte et
+- 265.QUADRONE G.B.,Froid accueil,peinture a 1huile sur toile,riche cadre sculpte et doré;m.0.26X0.37.
+- 266.PANERAI RUGGERO,Le gue,peinture a lhuile sur toile,riche cadre sculpte
+- et dore; m.2.50X3.90.
+
+Expose a Venise en 1887.
+
+- 267.PALIZZI FILIPPO,Pastoral,peinture a Ihuile sur toile,riche cadre sculpte et
+- doré;m.0.40X0.46.
+- 268.MUZZIOLI GIOVANNI,ldylle romain,peinture a 1huile sur toile,riche cadre sculpte et dore;m.0.42X0.60.
+- 269.CAMPRIANI ALCESTE,La lagune (Venise),peinture a Ihuile sur toile,riche cadre sculpteet dore;m.0.31X0.43.
+- dore; m.0.50X1.05.
+- 271.ISSELL ALBERTO,Bivouac de soldats, peinture a lhuile sur toile,riche ca-
+- dre sculpteet dore;m.0.20X0.85.
+- 272.COFFA ANDREA,Brebis en route,peinture a lhuile sur toile,riche cadre sculptéet doré;m.0.55X0.40.
+- 273.COSENZA GIUSEPPE,Marine,peinture a l'huile sur toile,riche cadre sculpté
+- et dore;m.0.20X0.25.
+274. GIOLI FRANCESCO,Venus au bois,peinture a lhuile sur toile,riche cadre sculpte et dore; m.0.65X0.35.
+275. GIOLI FRANCESCO, Paysage, peinture a 1′ huile sur toile, riche cadre sculpte et dore; m.0.42X0.65.
+- 276.FACCIOLI R., Canal Grand (Venise), peinture a 1huile sur toile, riche cadre
+- sculpte et dore;m.0.28X0.37.
+- 277.DE MARIA ETTORE,Des oies,peinture a lhuile sur toile,riche cadre sculpte et dore; 0.35X0.50.
+- 278.CREVATIN G.B.,Dame dans le jardin,peinture a 1 huile sur toile,riche cadre sculpte et dore; m.0.90X0.75.
+- 279.COSENZA GIUSEPPE,Marine,peinture a lhuile sur toile,riche cadre sculpte et doré;m.0.30X0.20.
+280. COFFA ANDREA,Cathedrale de Palerme,peinture a lhuile sur toile,riche cadrs sculpte et dore; m.0.45X0.30.
+281. CECCONI EUGENIO, Paysage, peinture a 1′ huile sur toile, riche cadre sculpté et doré;m.0.30X0.65.
+- 282.BONELLI R.,Chasse aux papillons,peinture a lhuile sur toile,riche cadre sculpté et dore; m.0.35X0.27.
+- 283.BRUZZI STEFANO,Au bois,peinture a lhuile sur toile,riche cadre sculpte et dore; m.0.70X0.45.
+- 284.BRUZZI STEFANO,Campagne romaine,peinture a 1huile sur toile,riche cadre sculpte et dore; m. 0.45X0.70.
+- 285.MANNARESI UGO,Le port de Livourne,peinture a Ihuile sur toile,riche cadre sculpte et dore; m. 0.65X0.95.
+- 286.MARKO ANDREA, Gardeurs de chevaux romains, peinture a l huile sur toile, riche cadre sculpte et dore;m.0.80X1.15.
+
+Esposeetrecompensea Florence en 1860.
+
+- 287.MATTOLINI A.,Vue de Fiesole,peinture a 1huile sur toile,riche cadre sculpte et doré;m.0.30X0.20.
+- 288.MORADEI A.,Deux amoureux,peinture a lhuile sur toile,riche cadre sculpte et doré; m.0.30X0.18.
+- cadre sculpteet dore;m.0.75X0.40.
+- 290.PESENTI DOMENICO, Galerie Pitti,peinture a 1huile sur toile,riche cadre sculpte et dore; m.0.25X0.15.
+- 291.MORADEI A.,Lautomne, peinture a lhuile sur toile,riche cadre sculpte et dore; m.0.62X0.40.
+292. COFFA ANDREA,Parmi les feurs,peinture a Ihuile sur toile,riche cadre sculpte et doré;m.1X0.67.
+- 293.MORADEI A.,Le pins a Ravenna,peinture a lhuile sur toile,riche cadre sculp te et dore; m.0.18X0.32.
+- 294.VIZZOTTO ALBERTI G.,Palay Ducal,peinture a 1huile sur toile,riche cadre sculpte et dore; m.0.50X0.35.
+- 295.VERTUNNI A., Le Tibre, peinture a Ihuile sur toile, riche cadre sculpte et dore; m.0.32X0.62.
+296. SIGNORINI TELEMACO, Pays, peinture a lhuile sur toile, riche cadre sculpté et dore; m.0.30X0.42.
+- 297.ROCCHETTI ANTONINO, Le devidoir, peinture a 1huile sur toile,riche cadre sculpte et dore; m.0.40X0.60.
+- 298.RAGGIO GIUSEPPE, Gardiens de chevaux romain, peinture a 1'huile sur toile, riche cadre sculpte et dore;m.0.90X0.60.
+- 299.PENNACCHINI DOMENICO,Chaumiere romaine,peinture a 1huile sur toile, riche cadre sculpte et dore;m.0.37X0.25.
+- et doré;m.0.70X0.95.
+301. SINIBALDO, Peintresse, peinture a l'huile sur toile, riche cadre sculpte et dore; m. 0.50X0.30.
+- 302.SEGANTINI GIOVANNI,Vieux cheval,peinture a lhuile sur toile,riche cadre sculpte et doré; m. 0.40X0.47.
+303. RAGGIO GIUSEPPE, Campagne et brebis, peinture a I'huile sur toile, riche cadre sculpte et dore; m.0.65X1.20.
+- 304.ORFEI ORFEO,Joueur dinstrumentsroutier,peinture a1huile sur toils,riche cadre sculpte et doré; m. 0.30X8.18.
+- 305.MANNARESI UGO,Tempete,peinture a 1 huile sur toile,riche cadre sculpte et doré; m. 0.95X150.
+- 306.LEGA SILVESTRO,Jeune fille qui coude, peinture a l'huils sur toile, riche cadre sculpte et doré; m.0.35X0.22.
+307. GUIDA GIOVANNI, Odalisque, peinture a 1'huile sur toile, riche cadre sculpte et doré;m.0.90X0.35.
+- 308.COFFA ANDREA,Dame qui peint,peinture a lhuile sur toile,riche cadre sculp té et doré;m.0.32X0.50.
+309. COFFA ANDREA, Marine, peinture a lhuile sur toile, riche cadre sculpte et dore; m.0.50X0.70.
+- 310.QUADRONE G.B.,Jugement de Paris,peinture a l huile sur toile,riche cadre sculpte et dore; m.0.30x0.50.
+- 311.BELLONI GIUSEPPE,Le coucher du Soleil, peinture a lhuile sur toile,riche cadre sculpte et dore; m.1.45X2.
+
+Expose et recompense a Venise avec medaille d’or.
+
+- 312.BIANCHI MOsE,Retour a letable,peinture a lhuile sur toile,riche cadre sculp-
+- te et dore; m.0.40X0.50.
+- 313.BRESSANIN VITTORIO,La Patricienne,peinture a Ihuile sur toile,riche ca drd sculpteet dore;m.0.70x0.90.
+- 314.CANNICCI NICOLO,Le crepuscule, peinture a lhuile sur toile,riche cadre, sculpte et dore;m.0.40X1.
+315. BIANCHI MOSE,Paysanne, peinture a lhuile sur toile, riche cadre sculpte et dore；m.0.55X0.70.
+- 316.FAUSTINI MODESTO,La Sanfelice,peinture a lhuile sur toile,riche cadre
+- sculptéetdore;m.3.30X2.40.
+
+Expose et recompense a Rome en 1888.
+
+317. GIOLI FRANCESCO, Le vin, peinture a 1'huile sur toile, riche cadre sculpte et dore;m.1.40X0.85.
+318. GIORDANI F.,Environs de Florence, peinture a l'huile sur toile,riche cadre
+3. sculpte et doré; m.0.40X0.95.
+4. 319.LAURENTI CESARE,La jalousie,peinture a Ihuile sur toile,riche cadre sculp
+5. té et dore; m.1.50X0.85.
+6. 320.MARIUS PICTOR,Calme du soir,peinture a 1huile sur toile,riche cadre sculpté
+7. et dore; m.0.60X0.40.
+8. 321.FAUSTINI MODESTO,Amours des Anges, peinture a I huile sur toile,riche ca-
+9. dre sculpte et dore; m.1.80X1.20.
+10. 322.FATTORI GIOVANNI,Faucheuses,peinture a 1huile sur toile,riche cadre sculp
+11. té et doré; m. 0.90X1.80.
+12. 323.CIARDI GUGLIELMO, Canal grande (Venise),peinture a 1huile sur toile,riche
+13. cadre sculpte et dore;m.0.47X0.75.
+324. CECCHI ADRIANO, Lecon de menuet, peinture a lhuile sur toile, riche cadre
+15. sculpte et dore; m.0.62X1.05.
+325. CANNICCI NICOLO, L' hiver, peinture a 1 huile sur toile, riche cadre sculpte et dore;m.0.72X0.40.
+17. 326.CALDERINI MARCO,Paysage,peinture a 1huile sur toile,riche cadre sculpte
+18. et dore;m.0.75X0.45.
+19. 327.VALDONI A.,Viareggio,peinture a lhuile sur toile, riche cadre sculpte et doré;m.0.20X0.35.
+328. TANO F., Paysage, peinture a I huile sur toile, riche cadre sculpte et dore; me-
+21. tres 0.70X0.94.
+329. SIMI FILADELFIO,Paysage, peinture a 1 huile sur toile, riche cadre sculpt et doré; m.0.10X0.20.
+330. QUADRONE G. B., Les pirates, peinture a 1'huile sur toile, riche cadre sculpte
+24. et doré; m.0.14X0.20.
+- 331.PASINI ALBERTO,Chasse au faucon,peinture a 1huile sur toile,riche cadre sculpteet dore;m.0.40X0.60.
+- 332.PALIZZI FILIPPO,Bijou,peinture a 1huile sur toile,riche cadre sculpte et o-
+- ré;m.0.22X0.18.
+- 333.BIGNAMI P.,Recolte des olives,peinture a 1huile sur toile,riche cadre sculpté
+- etdoré;m.0.30X0.45.
+- 334.BARATTI F.,La devineresse, peinture a 1 huile sur toile, riche cadre sculpte et dore; m.0.40X0.30.
+- 335.SENNO PIETRO,Paysage,peinture a 1huile sur toile,riche cadre sculpte et oré;m.0.65X1.
+336. MORADEI A., Le Printemps, peinture a 1 huile sur toile, riche cadre sculpt et
+- doré; m.0.60X0.40.

@@ -1,0 +1,1173 @@
+## Verkaufs-Bedingungen.
+
+- 1.Die Versteigerung geschieht gegen sofortige Zahlung in Deutscher Reichswahrung. Die Ubernahme erfolgt sogleich
+- mit dem Zuschlage.
+- 2.Diejenigen Kaufer, welche am folgenden Tage zu zahlen wunschen, missen eine angemessene Summe vor der Versteigerung deponieren.
+- 3.Die Gegenstande werden in dem Zustande versteigert,in welchem sie sich befinden,und kann nach erfolgtem Zuschlag keinerlei Reklamation berucksichtigt werden. Die im Katalog enthaltenen Angaben und Beschreibungen der zum Verkauf
+- gestellten Gegenstande werden nicht gewahrleistet.
+4. Angegebene Mabe verstehen sich bei Gemalden ohne Rahmen.
+- 5.Bei Gegenstanden,fur welche seitens der Verkaufer Mindestpreise
+- vorgeschrieben sind, wird fur deren Rechnung bis zur Hohe dieser Preise mitgeboten.
+6. Gesteigert wird mindestens um 1 Mk., iber 100 um 5 Mk. Von der Reihenfolge wird nur ausnahmsweise abgewichen.
+- 7.Ein Aufschlag zur Kaufsumme wird vom Kaufer mit 5% erhoben.
+- 8.1 Bei Streitigkeiten iber den Zuschlag wird der betreffende
+- Gegenstand noch einmal ausgeboten.
+9. Wenn zwei oder mehrere Personen zugleich ein und dasselbe
+- Gebot abgeben, entscheidet das Los. (Ges. v. 10. Juli 1902.)
+
+Rudolph Lepke's Kunst-Auctions-Haus.
+
+<!-- image -->
+## Oelgemalde alter Meister.
+
+## Versteigerung:Dienstag,den 6.Marz 1906
+
+Nachmittags von 4 Uhr ab.
+
+Vormittags von 10 Uhr ab,
+
+## Italienische Schule.
+
+- 1.Judith halt das Haupt des Holofernes. Links die Amme mit einer Fackel. Holz.H.115cm,B.76 cm.S.R.
+
+## G.van den Eeckhout angeblich.
+
+- 2.Interieur mit Philosoph bei einem Folianten. Ho1z.H.24 cm,B.32cm.G.-R.
+
+## Nach P. P. Rubens.
+
+- 3.Das Martyrium eines Heiligen, welchem die Zunge ausgerissen wird. Leinwand.H.55 cm, B.45 cm.G.-R.
+
+## Italienische Schule.
+
+16.Jahrhundert.
+
+- 4.Die heilige Familie, St. Elisabeth und St. Johannes. Auf Holz.H.61 cm,B.49 cm.Ohne R,
+
+## Bonaventura Peeters.
+
+1614-1652.
+
+- 5.Segelschiffe auf See unweit der Kuste. Holz, signiert.H.16 cm,B.22 cm.G.-R
+
+## Franzosische Schule.
+
+18.Jahrhundert.
+
+- 6.Huftbild einer jungen Dame in blauer ausgeschnittener Taille und gepudertem Haar. Leinwand.H.60 cm,B.48 cm.G.-R.
+- 10.Reitergefecht.
+
+## Nach Tiziano Vecellio.
+
+- 7.Brustbild eines venetianischen Nobile.
+
+Leinwand.H.60 cm, B.48 cm.G.R.
+
+## Niederlandische Schule.
+
+17.Jahrhundert.
+
+- 8.Bacchus findet die verlassene Ariadne.
+
+Leinwand.H.57 cm, B.43 cm.G.R.
+
+## Federigo Baroccio.
+
+1528-1612.
+
+- 9.Kopf eines Kindes mit blonden Locken.
+
+Holz.H.23 cm,B.25cm.G.R.
+
+## G.P.Rugendas, Art.
+
+Leinwand.H.38 cm, B.50 cm.G.-R
+
+## Monogr. J. v. H.
+
+11. Ein Furst zu Pferde. (Angebl. der Grosse Kurfurst von Brandenburg). Auf der Schabracke des Pferdes signiert: J. v.H. Jan v.Huchtenburgh.) H.75 cm, B. 62 cm. S. R.
+
+## G.van Honthorst.
+
+1590-1656.
+
+12. Eine alte Frau betrachtet bei Laternenschein das Geld in ihrer Hand. Leinwand.H.70cm,B.54 cm.G.R
+
+## R.Brackenburgh zugeschrieben.
+
+13. Landleute nach getaner Arbeit ruhend und trinkend.
+
+Leinwand.H.29 cm,B.38 cm.G.R.
+
+## M. Molenaer, Art.
+
+14. Ein Zahnarzt mit seinem Patienten, welcher sich die Backe halt. Leinwand.H.51 cm,B.40 cm.S.R.
+
+## Art des Nicolaas Berchem.
+
+15. Felsige Landschaft mit Madchen, welches eine Kuh melkt.
+
+Leinwand.H.25 cm,B.34 cm.G.-R
+
+## Rachel Ruijsch zugeschrieben.
+
+- 16.Blumenkorb auf einem Steinpostament.
+
+Leinwand. H.51 cm,B.67 cm.S.R.
+
+## Dom. Tiepolo zugeschrieben.
+
+- 17.Die heilige Jungfrau von zwei Ordensgeistlichen verehrt.
+
+Auf Ho1z. H.33 cm, B.18 cm.G.R
+- 18.Nymphen im Bade.
+
+## Unbekannt.
+
+Leinwand.H.74 cm, B.100 cm.G.R。
+
+18.Jahrhundert.
+
+## J. de Valdes.
+
+1631-1691.
+
+19. Martyrer in einer Lowengrube.
+
+Leinwand. Achteckig.H.31 cm, B.48 cm.G.R.
+
+## Art des van Goijen.
+
+20. Ein Bauernwagen halt vor einem niederlandischen Wirtshaus.
+
+## G.P. Rugendas.
+
+1666-1742.
+
+21. Reitergefecht im Vordergrunde einer Landschaft.
+
+Leinwand.H.22 cm, B.28 cm.S.R
+
+## Nach Paolo Veronese.
+
+22. Die Jungfrau mit dem Kinde auf dem Thron, von Heiligen verehrt. Leinwand.H.72 cm,B.59 cm.G.-R.
+
+## F. Coghetti.
+
+- 23.Die Himmelfahrt Christi. Figurenreiche Studie. Auf Leinwand.H.39 cm,B.22 cm. G.R.
+
+## Sodoma zugeschrieben.
+
+24. Haibfigur der Lucretia, welche sich den Dolch in die Brust stosst.
+
+Ho1z.H.78 cm, B.62 cm.G.-R,
+
+Ho1z.H.21 cm, B.34 cm.S.R,
+
+## Guido Reni, Art.
+
+25. Der Engel der Verkundigung. Sehr fein gemaltes Bild auf Leinwand. H.73 cm, B.58 cm.Geschnitzter G.R.
+
+## F.Albani zugeschrieben.
+
+26. Diana mit ihren Nymphen im Bade entdeckt die Schwangerschaft der Kallisto. Auf Kupfer.H.47cm, B.32 cm.G.R.
+
+## J. J. Horemans.
+
+1682-1759.
+
+- 27.Interieur mit Gesellschaft bei Tische. Die Wande des Zimmers sind mit Statuen und Gemalden verziert. Leinwand.H.72 cm, B.86 cm.G.R.
+- 34.Das Urteil Salomonis.
+
+## Baventseen Thiery.
+
+Ende des 16.Jahrhunderts.
+
+28. Der verlorene Sohn im Kreise der Dirnen. Reich komponiertes und schon gemaltes Kostumstuck. Auf Holz. H.95 cm, B. 125 cm.S. R.
+
+## J. Courtois.
+
+1621-1676.
+
+29. Ein Reitergefecht. Sehr flott gemaltes Bild.Leinwand.H.34 cm, B.551/2 cm.G.R.
+
+## Italienische Schule.
+
+30. Brustbild eines Pagen, welcher einen Hund im Arme halt. Pastellgemalde.H.76 cm,B.57 cm.Gerahmt.
+
+## Nach Sassoferrato.
+
+- 31.Halbfigur der heiligen Jungfrau. Holz.Oval.H.151/2 cm, B.131/2 cm.AIter geschnitzter Rahmen
+
+## Joh.H. Schmidt.
+
+1749-1828.
+
+32. Graf Marcolini in ganzer Figur stehend.
+33. Kurfurst Friedrich August von Sachsen zu Pferde.
+
+Leinwand.H.52 cm,B.59 cm.G.L.
+
+## Nach P.P.Rubens.
+
+Bekannte Komposition.Leinwand.H.115 cm, B.158 cm.G.R,
+
+## Art des A. Grijeff.
+
+35. Stilleben mit totem Reh und Geflugel.
+
+Holz.H.43 cm,B.37 cm.S.R.
+
+## E.M.Passerini 1856.
+
+36. Die Befreiung der Andromeda durch Perseus. Ausserordentlich feines Aquarell. H.45 cm, B.32 cm.G.R.
+
+## Art des Ph. Wouwerman.
+
+37. Zwei Soldaten, von denen einer zu Pferde sitzt, vor einem Wirtshause haltend. Gutes Bild auf Holz.H.37 cm, B.29 cm.G.R.
+
+## D.F.Dandini.
+
+- 38.Die Verlobung der heiligen Katharina. Auf Glas gemalt und monogrammiert.H.33 cm, B.42 cm.G.R.
+
+H.58cm,B.41 cm.G.-L.
+## Schule des Tiziano.
+
+- 39.Venus im Vordergrunde einer Landschaft ruhend. Sehr fein gemaltes Bild auf Kupfer. H. 181/2 cm, B.29 cm.S.R.
+
+## Art des David Ryckaert.
+
+40. Eine Bauernfamilie schmausend und trinkend am Kamin sitzend. Leinwand.H.57 cm,B.82 cm.G.R,
+
+## Bout u. Boudewijns.
+
+41. Eine Hafenstadt mit reicher Architektur, durch hochst zahlreiche kleine Figuren
+
+17.Jahrhundert.
+
+- staffiert. Gutes Bild, auf Leinwand. H.30 cm, B.44 cm.S.R.
+
+## Niederlandische Schule.
+
+42. Halbfigur einer alten Frau in weisser Haube, welche ein Gebetbuch halt. Leinwand.H.77 cm, B.62 cm.G.R.
+
+## G.van Tilborgh angeblich.
+
+43. Tanzende Bauern vor einem Wirtshause. Rechts im Mittelgrunde eine Schlagerei. Leinwand.H.66 cm,B.102 cm.S.R
+
+## Art des Jan van der Neer.
+
+- 44.Hauser an einem Fluss bei Mondbeleuchtung. Staffiert. Holz.H.37 cm,B.49cm.S.R
+
+## Schule der Carracci.
+
+45. Die Geburt eines Heiligen. Rechts in den Wolken erscheint ein Monch. Leinwand.H.87 cm,B.65cm.G.-R,
+
+## Unbekannt.
+
+4647. Die Brustbilder eines Mannes in braunem Rock und seiner Gemahlin in ausgeschnittener Taille. Leinwand. H.76 cm, B.62 cm.Ohne R.
+
+## Jurian van Streek.
+
+1632-1678.
+
+48. Stilleben mit Fruchten in und bei einer blau dekorierten Fayencevase.
+
+Holz.H.62cm,B.51 cm.S.R
+
+## Italienische Schule.
+
+49. Brustbild eines jungen Mannes in schwarzer Kleidung.
+
+Auf Holz.Oval.H.57cm,B.44 cm.G.R
+## G.B. Tiepolo zugeschrieben.
+
+50. Die Grossmut Alexanders des Grossen. Figurenreiche Komposition. Auf Leinwand. H.96 cm, B.115 cm.Holzrahmen.
+
+## Deutsche Schule.
+
+17.Jahrhundert.
+
+51. Brustbild eines Mannes mit Allongeperrucke und Spitzenkragen. Leinwand.H.74 cm, B.60 cm.Aiter Rahmen
+
+## D.Mebeecq.
+
+18.Jahrhundert.
+
+52. Bacchus und Ariadne in einer Landschaft ruhend, links tanzende Nymphen. Gutes Bild auf Leinwand. H.84 cm, B. 108 cm. G.R. (Aus dem Schlosse von Oranienburg stammend.)
+
+## B.Beschey.
+
+1708-1776.
+
+53. Jupiter als Satyr belauscht die schlafende Antiope.
+
+Ho1z.H.26 cm,B.37 cm.S.R.
+
+## Art des Ph.Wouwerman.
+
+54. Vornehme Jagdgesellschaft vor einer Schanke Halt machend. Hubsches Bildchen auf Hoiz. Rechts unten bemerkt man ganz klein das Monogramm NDF. H.34 cm,B.46cm.G.R.
+
+## Italienische Schule.
+
+55. Venus im Bade von Amor bedient. Sehr fein gemaItes Bild auf Schiefer. H. 30 cm, B. 231/2 cm.G.-R.
+
+## Neuer italienischer Meister.
+
+H.38 cm,B.281/2 cm.G-R.
+
+56. Brustbild der Comtesse Pellegrini.
+
+## Ch. A. van Loo.
+
+1705-1765.
+
+57. Brustbild einer Furstin im Hermelin mit reichem Perlenschmuck. Sehr schones Portrat auf Leinwand. Oval. H.72 cm, B.60 cm.G.R. Siehe Reproduktion auf Tafel III.
+
+## Phil. Wouwerman, Art.
+
+- 58.Kavaliere vor einem Marketenderzelt Erfrischungen einnehmend. Links Zigeuner bei einem Feuer. Leinwand.H.40cm, B.51 cm.S.R.
+## C. de Vos.
+
+1585-1651.
+
+59. Brustbild einer Dame mit Muhisteinkragen. Rechts oben monogrammiert. Leinwand. H.54 cm, B.43 cm.S.R.mit Schildpatteinlage.
+
+## J.Fit.
+
+1611-1661.
+
+60. Stilleben mit totem Hasen, Ente und Schnepfen Leinwand, signiert.H.65 cm,B.80 cm.G.R
+
+## Pietro Rotari.
+
+1707-1762.
+
+61. Halbfigur eines jungen Madchens mit entblosstem Busen. In den Luften rechts eine Amorette.
+
+Reizende hochst zart gemalte Darstellung. Leinwand. H.61 cm, B.50 cm. S.R.
+
+## P. Moreelse zugeschrieben.
+
+62. Halbfigur einer Dame in braunem Kostum im Vordergrunde einer Landschaft. Schones Portrat.Leinwand signiert. H.108 cm, B.85 cm.S.R
+
+## Monogrammiert: F.P.1629.
+
+63. Niederlandische Landschaft mit Dorf im Mittelgrunde.Staffiert. Hubsches Bild in der Manier des van Goijen. Auf Holz. H.36 cm, B.57 cm. S.R.
+
+## B.Denner zugeschrieben.
+
+64. Brustbild eines Patriarchen in langem grauen Bart, rotem Rock und Barett.
+2. Ho1z.H.40cm,B.31 cm.S.R.
+
+## Art des Dom. Zampieri.
+
+65. Die heil. Jungfrau in einer Landschaft das Kind auf dem Schosse haltend. Leinwand.H.27cm,B.34 cm.S.R.
+
+## J.Horemans.
+
+1682-1759.
+
+66. Inneres eines Malerateliers mit dem Kunstler und seinen Schulern, welche nach einem Modell zeichnen.
+
+Leinwand.H.63 cm, B.57 cm.G.R.Siehe Reproduktion auf Tafel VI.
+
+## G.Vasari.
+
+1511-1574.
+
+67. Die Geisselung Christi. Figurenreiches Bild. Auf Holz. H.77 cm, B.59 cm.G.R.
+## Italienische Schule.
+
+- 68.Die Verlobung der heiligen Katharina. In den Luften eine Engelsglorie. Gutes Bild auf Kupfer.H.45 cm,B.351/2 cm.G.-R.
+
+## Andreas Boscoli.
+
+Ende 16.Jahrhundert.
+
+- 69.Christus an die Martersaule gefesselt.
+
+Sehr zart gemaltes Bild auf Holz. H.37 cm, B.26 cm. G.-R.
+
+## Aart v. d. Neer zugeschrieben.
+
+70. Hollandische Flussmundung bei Mondbeleuchtung. Mehrere Fischerboote als Staffage. Feines Bildchen auf Holz. H.20 cm, B.27 cm.G.R.
+
+## Claes Molenaer.
+
+17.Jahrhundert.
+
+71. Hollandische Winterlandschaft mit Landleuten auf dem Eise eines Flusses.
+2. Reizendes Bildchen auf Holz.H.18 cm, B.24 cm.G.R.
+
+## Munchener Kunstler.
+
+Anfang des 19. Jahrhunderts.
+
+72. Stilleben mit Krug, Mandoline, Kessel etc. Reizendes Bildchen.H.21 cm,B.27.S.R.
+
+## Maerten Schouman
+
+1770-1848.
+
+73. Mehrere Fischerboote auf stark bewegter See unweit der Kuste, an welcher eine Windmuhle.
+
+H.18 cm,B.23 cm.Gerahmt.
+
+Vorzugliche Zeichnung in Feder und Tusche mit dem Namen des Kunstlers.
+
+## Aquarellminiature.
+
+74. Ein junges ganz unbekleidetes Madchen im Vordergrunde einer Landschaft unter einem Zeltdach ruhend.
+
+18.Jahrhundert.
+
+Schone Aquarellminiature. H.12 cm, B.16 cm.Gerahmt.
+
+## G. Verbruggen.
+
+75. In und neben einer reich skulptierten Steinvase Blumen verschiedener Art. Schones Bild, auf Leinwand. H.80 cm,B.65 cm.G.R.
+
+1664-1730.
+
+## Italienische Schule.
+
+76. Brustbild der Ceres mit einem Garbenbundel.
+
+Auf Stein.H.49 cm, B.35 cm.G.R.
+## Italienische Schule.
+
+77. Brustbild eines Mannes in schwarzer Kleidung und schlichtem weissen Kragen. Auf Stein.H.51 cm, B.35 cm.G.R.
+78. Engel auf Wolken.
+
+Leinwand.H.180 cm,B.130 cm.G.L.
+
+## Schule des Michel Angelo.
+
+- 79.Brustbild Papst Pius IV.
+
+Auf Stein.H.76 cm,B.62 cm.G.-R.
+
+## Flamische Schule.
+
+17.Jahrhundert.
+
+80. Josef flieht vor Potiphars Weib. Im Hintergrunde links eine Saulenhalle.
+2. Leinwand.H.93cm, B.135 cm.G.R.
+
+## Nach Albr. Durer.
+
+81. Der Schmerzensmann mit gefalteten Handen. Interessantes Bildchen auf Holz. H.19 cm, B.15 cm.G.-R.
+
+## F.Pourbus, Art.
+
+82. Brustbild einer Furstin in goldgestickter Taille,Perlenschmuck und Spitzenkragen Leinwand. H.65 cm, B.50 cm.Geschnitzter G.R.Siehe Reproduktion auf Tafel IV.
+
+## Bonaventura Peeters.
+
+1614-1652.
+
+83. Blick auf eine befestigte Hafenstadt. Im Vordergrund viele Schiffe auf See. Leinwand.MIit Monogramm.H.58 cm, B.84 cm.S.R.
+
+## Art des Antoine Watteau.
+
+84. Gesellschaft in einem Parke. Leinwand.H.48 cm, B.64 cm.G.-R.
+
+## Isaac Paling.
+
+1630-1683.
+
+85. Brustbild eines Mannes in Allongeperrucke und schwarzem Talar. Leinwand. Rechts mit Namensbezeichnung. H.72 cm, B.59 cm.S.R.
+
+Siehe Reproduktion auf Tafel V.
+
+## Art des P. Mignard.
+
+- 86.Portrat einer jungen Dame mit Perlenschmuck.
+- Leinwand.H.38 cm, B.30 cm.Geschnitzter Holzrahmen.
+
+## Manier des A. Correggio.
+
+- 87.Die heilige Jungfrau mit dem Kinde, welches einen Blumenkranz uber das
+- Haupt der Mutter halt. Rechts zwei Heilige.
+
+Schones Bild auf Leinwand. H.150 cm, B.124 cm.G.R.
+## J.v.Huchtenburgh.
+
+1646-1733.
+
+88. Reitergefecht. Im Vordergrunde findet ein Kampf um die Fahne statt. Sehr fein gemaltes Bild auf Leinwand. H.33 cm, B.40 cm.S.R.
+
+## Nach Rembrandt v. Rijn.
+
+- 89.Kopf der Mutter Rembrandts mit Kopftuch. Auf Holz.Rund. Diam.7,5.Durchbrochener und geschnitzter G.R,
+
+## Franzosischer Meister.
+
+18.Jahrhundert.
+
+90. Das Brustbild Konig Ludwigs XVI. in Rustung und Hermelinmantel. Auf Kupfer sehr fein ausgefuhrt. H.22 cm, B. 16 cm. G.R.
+
+## G.Ph. Rugendas.
+
+1666-1742.
+
+91. Turkische Reiterei im Kampf. Im Hintergrund Verteidigung einer Brucke. Gutes Bild, auf Leinwand. H.52 cm, B.63 cm.G.-R.Dabei ein Kupferstich。
+
+## Kopie nach P.P. Rubens.
+
+Mitte des 17. Jahrhunderts.
+
+- 92.Das Martyrium des heil. Laurentius. Der Heilige wird von Kriegsknechten auf den gluhenden Rost gelegt.
+
+Durch zahlreiche Reproduktionen bekannte Komposition. Von sehr feiner Ausfuhrung. Auf Ho1z.H.43 cm,B.32cm,G.-R.
+
+## Jacopo Carrucci zugeschrieben.
+
+93. Szene aus der Legende der Heiligen. Frauen sind um den Leichnam eines Knaben versammelt. Rechts ein heiliger Monch. Leinwand.H.87 cm,B.65 cm,G.R.
+
+## Wilhelm Kobell.
+
+94. Auf einer Alm junge Madchen, von denen eine im Begriff ist, eine Ziege zu melken. Feines Bildchen, auf Leinwand. Signiert. H.37 cm, B.30 cm.G.R.
+
+1766-1855.
+
+## Pieter de Bloot zugeschrieben.
+
+95. Niederlandisches Interieur mit tanzenden und trinkenden Bauern. Reiche Komposition, auf Leinwand. H.58 cm, B.82 cm. G.R.
+
+## Rosa di Tivoli.
+
+1657-1704.
+
+96. Felsige Gegend bei Tivoli mit ruhenden Hirten bei ihrer Herde, welche aus Rindvieh, Schafen und Ziegen besteht.
+
+Schones Bild auf Leinwand. H.129 cm, B.174 cm.S.R.
+## Nach G. Metsu.
+
+97. Interieur. Ein Kavalier bringt einer jungen Dame eine Botschaft. Links ein Page. Leinwand.H.55 cm, B.46 cm.G.R.
+
+## Art des F. Mieris.
+
+98. Interieur mit junger Dame, welche von einem Madchen und einem Pagen bedient wird. Fein gemaltes Bild, auf Metall. H.37 cm, B.30 cm.S.R
+
+## Franzosische Schule.
+
+- 99.Venus, von ihren Dienerinnen umgeben, bei der Toilette. Merkur bringt eine Botschaft. H.40cm,B.39 cm.G.R.
+
+## Schule des Poussin.
+
+100. Aegist findet unter einem Stein die Zeichen seiner Abstammung.
+
+Leinwand.H.80 cm, B.100 cm.G.R.
+
+## I. Francucci gen. Innocenza da Imola.
+
+1494-1550.
+
+101. Maria betrachtet das Christuskind, welches sie auf dem Schosse halt. Links der kleine Johannes mit gefalteten Handen, rechts Blick in eine Landschaft.
+2. Vorzugliches Werk des Kunstlers. H.50 cm, B.41 cm.G.R. Siehe Reproduktion auf Tafel I.
+
+## Carlo Maratti zugeschrieben.
+
+102. Schlafender Amor auf einem Ruhebett. Leinwand.H.60 cm,B.74 cm.G.R.
+
+## J. de Geel.
+
+1631-1698.
+
+103. Drei grossere Kriegsfahrzeuge der hollandischen Marine auf stark bewegter See. Sehr gut gemaltes Bild, auf Holz. Mit dem Monogramm auf einer schwimmenden Planke.H.80cm, B.118 cm.S.R.
+
+## Art des Caravaggio.
+
+104. Ein junges Madchen bietet einem Pagen ein Glas mit Wein. Lichtbeleuchtung. Leinwand. H.91 cm, B.76 cm.S.R.
+
+## Jan Vermeer van Haarlem zugeschrieben.
+
+105. Hollandisches Gehoft an einem Flusse. Links Kahn mit zwei Mannern. Holz. Auf dem Kahn bezeichnet: #J.V. M. H.40 cm, B.56 cm.S.R. Siehe Reproduktion auf Tafel VI.
+## Jacob Jordaens.
+
+1593-1678.
+
+106. Esau verkauft die Erstgeburt an Jakob um ein Linsengericht.
+2. Am Querholz des Tisches die Signatur. Schones Bild, auf Leinwand.H.75 cm, B. 100 cm. G.-R. Siehe Reproduktion auf Tafel III.
+
+## Schule des Lucas van Leyden.
+
+107. Die Anbetung der heiligen drei Konige. Auf einer oben ausgebogten Holzplatte. H.72 cm, B.48 cm.G.R.
+
+## F.M. Rondani zugeschrieben.
+
+108. Die Verlobung der heiligen Katharina. Halbfiguren. Leinwand.H.98 cm,B.98 cm.G.-R.mit gemaIten Ornamenten.
+
+## Domenichino zugeschrieben.
+
+109. Ein Mann, am Boden liegend, wird von einem Arzte zur Ader gelassen. Gehilfen sind um den Kranken beschaftigt. Leinwand. H.136 cm, B.181 cm.S.R.
+
+## Englische Schule.
+
+110. Portrat des Doktor Brees.
+
+Leinwand.H.76 cm,B.63 cm.G.R.
+
+## Nach Ad. Elsheimer.
+
+111. Die Marter des heil. Laurentius.
+
+Ho1z.H.26 cm, B.19 cm.Eichen-R
+
+## Nicol. Berchem, Art.
+
+112. Italienische Landschaft mit Hirten und Vieh. Leinwand.H.30 cm,B.35 cm.S.R.
+
+## A.Carracci, Art.
+
+113. Kopf eines Apostels mit kurzem Bart. Vortrefflich im Ausdruck. Leinwand. H.43 cm, B.31 cm.S.R.
+
+## Niederlandische Schule.
+
+114. Junges Madchen auf eine Gitarre gestutzt am offnen Fenster. Holz.H.20 cm,B.14 cm.S.R.
+
+## Antonio Canal zugeschrieben.
+
+115. Venetianische Ansicht mit vielen Kostumfiguren im Vordergrunde. Hubsches Bild auf Leinwand. H.60 cm, B.82 cm.S.R.
+
+## Art des W. Kalff.
+
+Leinwand.H.43 cm,B.61 cm.S.R.
+
+116. Stilleben mit Kupferkessel, Pokalen etc.
+## P.de Bloot, angeblich.
+
+Leinwand.H.23 cm,B.29 cm,G.R.
+
+117. Niederlandisches Interieur mit trinkenden Bauern.
+
+## Nach P.P. Rubens.
+
+118. Eine Alte und zwei Knaben bei einem Feuertopf. Holz.H.38cm,B.30cm.S.R,
+
+## Peter Neeffs zugeschrieben.
+
+119. Inneres der Notre Dame-Kirche zu Antwerpen. Staffiert. Holz.H.36cm,B.28 cm.G.-R.
+
+## M. J. Mierevelt, angeblich.
+
+120. Portrat eines furstlichen Kindes im Spitzenhaubchen. Ho1z.H.39 cm,B.28 cm.S.R.
+
+## Art der Francken.
+
+121. Die Konigin von Saba mit Gefolge vor Konig Salomo.
+
+## J. Mijtens.
+
+17.Jahrhundert.
+
+122. Brustbild einer jungen vornehmen Dame in gruner ausgeschnittener Taille und Perlenschmuck.Leinwand. H.55 cm, B.45 cm.G.R. Siehe Reproduktion auf Tafe1 V.
+
+## Stephan Lochner, angeblich.
+
+123. Das jungste Gericht. Unten die Qualen der Verdammten. Fein gemaltes Bildchen auf Holz.Oben abgerundet. H.33 cm, B.22 cm.Architektonischer G.R.
+
+## J.de Momper und Teniers d. Aeltere.
+
+1564-1635. 1582-1649.
+
+124. Grosse Felsenlandschaft mit reichem Baumwuchs und Gebauden, Im Vordergrunde Schmiede in einem Gewolbe, sowie Konig Heinrich IV.von Frankreich, welcher von dem Schmied gewappnet wird.
+
+Schones Bild auf Holz.H.142 cm, B.164 cm.S.R.Siehe Reproduktion auf Tafel IV.
+
+## G.v.Honthorst, bezeichnet.
+
+- 125.Drei Frauen am Kaminfeuer. Die zuvorderst sitzende halt ihren Knaben im Arm.
+
+Holz. Mit dem vollen Namen des Kunstlers und Jahreszahl bezeichnet. H.37 cm, B.34 cm.G.R.
+
+## B.Denner.
+
+1685-1749.
+
+- Leinwand. Rechts unten signiert mit Jahreszah1 1748. H.73 cm, B.61 cm. G.R.
+
+Ho1z.H.72 cm,B.98cm.S.R.
+## Niederlandische Schule.
+
+127. Christus am Kreuz zwischen den beiden Schachern. Am Fusse des Kreuzes die Anverwandten Christi und Kriegsknechte.
+
+Gutes Bild auf Holz. H.43 cm, B.57 cm.Ohne R.
+
+## Abraham Bloemaert zugeschrieben.
+
+128. Die allegorische Figur des Glaubens, von einem Genius bekranzt. En grisaille gemaltes Bild auf Holz. H.42 cm, B.23 cm. S.R.
+
+## Art des Nikolas Berchem.
+
+129. Eine Rinderherde wird von dem Hirten durch einen Bach getrieben. Abendstimmung. Leinwand.H.40 cm, B.60 cm.S.R.
+
+## Jan Thielens.
+
+17.Jahrhundert.
+
+130. Italienische Landschaft mit Figuren und Staffage.Rechts ein Monumentalbrunnen.
+
+Leinwand. Bezeichnet rechts auf dem Brunnen.H.43 cm,B.58 cm.G.R. Siehe Reproduktion auf Tafel I.
+
+## Valott. (?)
+
+131. Brustbild der Maria Mancini mit Blumen im Haar und am Busen. Leinwand.H.64 cm, B.50 cm.G.R.
+
+## Art des Claude Lorrain.
+
+132. Flusslandschaft mit den Ruinen eines Palastes. Abendstimmung. Auf Kupfer.H.29 cm,B.64 cm.G.R.
+
+## Art des Tiepolo.
+
+133. Die Himmelfahrt einer Heiligen. Reich komponiertes Bild. Auf Leinwand. H.95 cm, B.52 cm.G.R.
+
+## Jan Brueghel.
+
+1568-1625.
+
+134. Eine Dorfstrasse im Winter mit Figuren- und Tierstaffage. Auf Holz. H.49 cm,B.73 cm.S.R.Siehe Reproduktion auf Tafel II.
+
+## Franzosische Schule.
+
+135. Huftbild einer jungen Dame in weisser Taille mit blauem Ueberwurf. Leinwand, H.73 cm, B.62 cm.G.R.
+
+## Art des P.P. Rubens.
+
+- 136.Der Raub der Europa. Vorn rechts Neptun mit dem Dreizack auf einem Muschelwagen. Holz.H.57 cm,B.93cm.S.R.
+- Gewande.
+
+## Joh.Heinr. Schmidt.
+
+1749-1828.
+
+- 137.Portrat des Grafen Carl Bruh1. (Angeblich.) Brustbild im Oval. Pastell. H.20 cm, B.17 cm.G.R
+
+## J.B.Tiepolo.
+
+1696-1770.
+
+138. Ein heiliger Bischof wird von Engeln gen Himmel getragen
+2. Leinwand.H.40 cm, B.26 cm.G.R.
+
+## B.Schidone.
+
+1580-1615.
+
+139. Die heiligen Frauen am Grabe Christi. Skizze auf Leinwand.H.36 cm, B.49 cm.G-R.
+
+## D.Teniers, Art.
+
+140. Niederlandisches Wirtshaus-Interieur. Im Vordergrunde links rauchender Bauer.
+2. Holz.H.22 cm,B.33 cm.G.R.
+
+## Schule des Raffaello.
+
+141. Kniestuck der Madonna mit dem Kinde in einer Landschaft. Holz. H.39 cm, B.27 cm. In sehr schon geschnitztem architektonischen Rahmen mit der
+2. Inschrift: Ave Maria gratia plena
+
+## T.van Thulden zugeschrieben.
+
+142. Salomo, von seinem Hofstaat umgeben, auf einem Throne sitzend, begrusst die vor ihm knieende Konigin von Saba. Im Vordergrunde die Geschenke der
+2. letzteren, goldene Gefasse etc.
+
+Schones Bild auf Leinwand. H.125 cm, B.166 cm.S.R.
+
+## Th.Boeyermans.
+
+1620-1678.
+
+143. Die heilige Cacilie vor einer Orgel sitzend und spielend. In den Luften ein Engel, welcher sie kront. Leinwand, signiert.H.109 cm, B.84 cm.G.R. Siehe Reproduktion auf Tafel II.
+
+## Jan Weenix, Art.
+
+144. Grosses Stilleben mit Fruchten, Gemuse, Geflugel, Fischen,Krug und Weinpokal Vorzuglich wirkendes Bild. Auf Leinwand. H.95 cm,B. 120 cm. S.R
+
+## I.A.v.Ravesteijn zugeschrieben.
+
+- 145.Haibfigur einer vornehmen Dame in prachtigem Spitzenkragen und goldgesticktem Leinwand.H.125 cm,B.92 cm.S.R.
+## G. de Craijer, Art.
+
+- 146.Der Leichnam Christi ruht im Schosse der Maria. Rechts St. Johannes und Magdalena. Leinwand. H.179 cm, B.1121/2 cm. S.R
+
+## Esaijas v. d. Velde, Art.
+
+- Holz.H.47 cm, B.61 cm.S.R.
+147. Spanier uberfallen ein niederlandisches Dorf.
+
+## R.v. Troijen.
+
+148. Eine Opferszene. Anscheinend aus der Geschichte der Makkabaer. Sehr reich komponiertes interessantes Bild mit dem vollen Namen des Kunstlers und der Jahreszah1 1651.H.46 cm, B.73 cm.S.R.
+
+1605-1651.
+
+## Joh. Heinr. Schmidt.
+
+149. Konig Johann von Sachsen als junger Prinz.
+
+H.29 cm,B.19 cm.S.R.
+
+150. Die Portrats des Konigs Friedrich August von Sachsen mit seiner Gemahlin. Weiss gehohte Zeichnungen.H.13 cm, B. 10 cm. In gemeinschaftlicher Rahmung.
+
+## Art der Francken.
+
+151. Der Tod kommt zu einem Wucherer. Fein gemaltes Bildchen auf Kupfer. H. 22 cm, B. 16 cm. S. R.
+
+## F. Albani.
+
+- 152.Drei Amoretten in ganzer Figur stehend. Leinwand.H.27 cm, B.23 cm.G.-R.
+
+1578-1660.
+
+## J.F.Beich.
+
+153. Landschaft mit Gebauden und reicher Staffage. Holz.H.18 cm, B.22 cm.S.R.
+
+1665-1740.
+
+## David, Schule.
+
+154. Halbfigur der Hebe, welche den Adler des Jupiter trinken lasst.
+
+## Niederlandische Schule.
+
+H.129 cm,B.110 cm.G.-L.
+
+155. Loth mit seinen Tochtern in der Hohle. Interessantes Bild, auf Leinwand. H.78 cm, B.101 cm.G.R.
+
+## Art des Brueghel.
+
+156. Ein schon komponierter Kranz von Gartenblumen der verschiedensten Art. In der Mitte Flora in einer Landschaft ruhend. Leinwand.H.68 cm, B.93 cm.S.R.
+
+1749-1828.
+- fliehend.
+
+## A.Couder.
+
+Geb.1808.
+
+157. Stilleben mit einem Fruhstuckkorb und Blumenstrauss. Leinwand, signiert. H.52 cm,B.63 cm.G.R.
+
+## A.Wassemberg zugeschrieben.
+
+158. Venus und Adonis. Erstere halt den Kopf des erlegten Ebers. Leinwand.H.92 cm,B.83 cm.S.R.
+
+## D.Teniers, Art.
+
+159. Tanzende Bauern vor einer Schanke. Leinwand.H.24 cm, B.31 cm.G.-R
+
+## Franzosischer Kunstler.
+
+Um 1830.
+
+160. Der franzosische Staatsmann Thiers mit seiner Familie am Kamin. Leinwand.H.32 cm, B.26 cm.G.R
+
+## J.le Duc zugeschrieben.
+
+161. Reitergefecht mit dem Tode eines Anfuhrers. Lebendig gemaltes Bild auf Hoiz. H. 22 cm, B. 25 cm.S.R.
+
+## Niederlandische Schule.
+
+162. Die Zerstorung von Troja. Im Vordergrunde Aeneas mit seiner Familie Leinwand. H.100 cm,B.118 cm.G.R.
+
+## Unbekannt.
+
+- 163.Die Anbetung der Hirten im Stalle.
+- Ho1z.H.39 cm, B.28 cm.G.R.
+
+## Art des Adam Elsheimer.
+
+164. Salome mit dem Haupte Johannis des Taufers. Auf Kupfer.H.22 cm,B.30 cm.G.R.
+
+## P.Patel zugeschrieben.
+
+165. Ein Palast mit reicher Saulenarchitektur. Staffiert. Leinwand.H.62 cm, B.83 cm.G.-R.
+
+## David Teniers zugeschrieben.
+
+166. Dorfstrasse. Rechts ein Wirtshaus mit trinkenden Bauern. Holz. Mit dem Monogramm des Teniers. H.33 cm, B. 43 cm.S.R.
+
+## Gerahmtes Glasbild.
+
+167. St. Cacilia die Harfe spielend.
+
+H.381/2cm,B.29cm
+## Versteigerung nachmittags von 4 Uhr ab.
+
+## Italienische Schule.
+
+180. Brustbild einer Nonne. Aquarell. Papier auf Leinwand. H. 17 cm, B.14 cm. Gerahmt.
+
+| 168. St. Josef auf der Flucht schlafend.                                                                                                 | Feder und Sepia.H.27 cm, B.21 cm.Gerahmt.              |
+|------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| 169. Kopf eines bartigen Greises. Leinwand.H.46 cm, B.37 cm.G.R.                                                                         |                                                        |
+| Unbekannt. 170. Huftbild eines jungen Madchens, welches Blumen halt.                                                                     | Pastell.H.65 cm,B.55 cm.G.R,                           |
+| 171. Stilleben mit Granatapfeln, Zitrone und Weintrauben. Holz.H.20 cm, B.28 cm.G.-R.                                                    |                                                        |
+| 172. Blick auf eine Stadt an einem oberitalienischen See.                                                                                | Leinwand.H.51 cm, B.70 cm.G.-R.                        |
+| 173. Blick auf einen breiten Strom mit bewaldeten Ufern. Staffiert.                                                                      | Leinwand.H.69 cm, B.84 cm.G.R                          |
+| 174. Sigismund, Konig von Polen. Huftbild mit hoher Mutze.                                                                               | Interessantes Portrat auf Holz. H.18 cm, B. 12 cm,S.R. |
+| 175. Ulrich, Herzog von Wurttemberg. Halbfigur mit Barett.                                                                               | Ebenso.H.20 cm, B.13 cm.S.R                            |
+| 176.Bartiger Mann mit Stab. Leinwand.H.79 cm, B.61 cm.G.-L.                                                                              |                                                        |
+| 177. Die Madonna mit dem Kinde. Leinwand. Defekt. H.78 cm, B.64 cm. G.-L.                                                                |                                                        |
+| 178. Profilbrustbild des Ministers Grafen Bruhl.                                                                                         | Pastell auf Pergament. H.2i,5 cm, B. 16 cm.G.R.        |
+| 179. Huftbild eines preussischen Prinzen (Friedrich d. Gr.2) mit dem Stern des Schwarzen Adlerordens. Leinwand. H.79 cm, B.64 cm.Ohne R. |                                                        |
+## Italienische Schule.
+
+Auf Ho1z.H.40 cm,B.31 cm.G.R.
+
+| 181. Die heilige Jungfrau dem Kinde die Brust reichend. Feines Bildchen auf Kupfer. H. 19 cm, B. 141/2 cm.G.R.   |
+|------------------------------------------------------------------------------------------------------------------|
+## Art des Jacob Jordaens.
+
+194. Kopf eines Mannes mit kurzem Bart und Haar. Ho1z.H.38 cm,B.33 cm.G.R.
+
+## J.Lingelbach.
+
+195. Ein vornehmer Turke mit Pfeil und Bogen zu Pferde. Leinwand.H.35 cm,B.30 cm.G.R.
+
+## Joh. Heinr. Schmidt.
+
+196. Das Brustbild Napoleons I. im Profil. （Bruchstuck aus einem grosseren Bilde). Oval. H. 11 cm, B.9,5 cm. G.-R.
+
+## Rosa di Tivoli.
+
+197. Ein junger Hirt bei seiner aus Rindvieh, Schafen und Ziegen bestehenden Herde. H.39cm,B.481/2cm.G.R.
+
+## Lassi.
+
+198. Die Herzogin von Teck am Arme des Professors Nosi Aquarell. H.23 cm,B.17 cm.Gerahmt.
+
+## Deutscher Meister.
+
+17.Jahrhundert.
+
+199. Stilleben mit Blumen und Fruchten. Fein gemaltes Bildchen auf Kupfer. Oval. H. 161/2 cm, B. 211/2 cm.G.R.
+
+## Italienische Schule.
+
+200. Der Raub der Sabinerinnen. Lebendige Feder- und Tuschzeichnung. H.43 cm, B.63 cm.Gerahmt.
+
+## F. Lippi.
+
+201. Profilkopf einer jungen Frau mit Schleier. Mit Weiss gehohte Zeichnung. H.24 cm,B. 16 cm.Gerahmt.
+
+## Unbekannt.
+
+202. Brustbild eines Knaben. In schwarzer und roter Kreide ausgefuhrt. H. 45 cm, B. 35 cm.Gerahmt.
+
+## Niederlandische Schule.
+
+203. Stilleben mit Fischen und Gemuse.
+
+H.51cm,B.67 cm.G.R.
+
+204. Flusslandschaft mit grossen Baumen Leinwand.H.50 cm,B.67 cm.G.-R.
+205. Felsenlandschaft mit Hirten, welche ihr Vieh treiben Leinwand.H.30 cm,B.44.G.-R.
+209. Alter Burghof.
+210. Weiblicher Profilkopf.
+
+## Italienische Schule.
+
+206. Susanna von den Greisen uberrascht. Auf Marmorplatte gemalt.H. 44 cm, B.33 cm.AIter Rahmen.
+207. Amor der Venus einen Dorn aus dem Fusse ziehend. Fein gemaItes Bild auf Schiefer. H.271/2 cm, B.28 cm.G.R
+208. Christus am Kreuz, mit Maria und St. Johannes. Auf Schiefer.H.39 cm, B.251/2 cm.G.R.
+
+## J.Destree.
+
+Holz, signiert. H. 20 cm, B.15 cm.S.R.
+
+## Schule des Veronese.
+
+- Holz.H.31 cm,B.20 cm.G.R.
+
+## Art des Ant. Watteau.
+
+211. Gesellschaft von Herren und Damen im Vordergrunde einer Parklandschaft.
+2. Sehr interessantes, gut gemaltes Bild auf Leinwand. H.64 cm, B. 80 cm.G.-R.
+
+## Franzosische Schule.
+
+212. Halbfigur des Demokritus. Links eine franzosische Inschrift.
+
+Leinwand.H.70 cm, B.58 cm.G.R.
+
+213. St. Magdalena in einer Felsengrotte mit Buch und Totenkopf.
+2. Schon in Komposition und Farbe. Leinwand. H.49 cm,B.66 cm.Ohne R.
+214. Mannlicher Kopf. Oval. H.17 cm, B.14 cm.AIter Rahmen.
+215. Venus und Amor. Rotelzeichnung.H.231/2 cm,B.18 cm.Geschnitzter G.-R.
+
+## Italienische Schule.
+
+216. Das Martyrium eines Heiligen. Auf Stein.H.50 cm,B.36cm.G.R.
+217. Madonna auf dem Thron von Heiligen umgeben. Leinwand.H.44 cm, B.31 cm.G.R.
+218. Die Ruhe der heiligen Familie auf der Flucht.
+
+Leinwand.H.32 cm, B.40 cm.Alter Rahmen
+
+219. Die Madonna mit dem Kinde.
+2. H.19 cm,B.15 cm.Alter Goldrahmen, geschnitzt.
+220. Die heilige Familie und St.Antonius.
+4. H.32 cm,B.261/2 cm.G.-R.
+
+## Art des B. Denner.
+
+221. Brustbild einer alten Frau mit Haube. Leinwand.H.38 cm, B,30 cm.S.R
+## Art des Cornelis Dusart.
+
+222. Ein Monch umarmt ein junges Madchen, welches ein Pergament mit grossem Siegel haIt. Holz.H.19 cm, B.15cm.G.R.
+
+## Schule des Andrea del Sarto.
+
+223. Die heilige Jungfrau mit dem Kinde und St. Johannes in einer Landschaft.
+
+Holz.H.421/2 cm,B.32 cm.Architektonischer G.-R.
+
+224. Die heilige Familie.
+
+Holz.H.45 cm,B.35cm.G.-R.
+
+## Stefano della Bella zugeschrieben.
+
+- 225/26. Zwei Kavaliere zu Pferde.
+
+Auf Ho1z.H.19 cm, B.14 cm u.H.18 cm, B.14 cm.G.R.
+
+## Angeblich Sassoferrato.
+
+227. Brustbild einer betenden Maria
+
+Leinwand.H.28 cm,B.22cm.G.R.
+
+## Franzosische Schule.
+
+228. Apollo und Diana erschiessen die Kinder der Niobe. Leinwand.H.22cm,B.38 cm.G.R.
+
+## J. Courtois.
+
+229. Ein Gefecht zwischen orientalischer und abendlandischer Reiterei. Leinwand.H.35 cm,B.44 cm.Ohne R.
+
+## D.van Oosterhoudt.
+
+230. Landschaft mit weidender Kuh.
+
+## Niederlandische Schule.
+
+231. Landschaft mit Kuhmelkerin.
+
+## Nach A. Allegri.
+
+Gerahmte Zeichnung. Qu.40.
+
+H.17 cm, B.21 cm.G.R.
+
+- 232.Jupiter und Jo. Kopie nach dem Bilde in der Berliner Galerie. Leinwand. H. 64 cm, B. 49 cm.S. R.
+
+## C.W.E. Dietrich.
+
+Nach Rembrandt. Holz. H.23 cm, B.20 cm.G.R,
+
+233. Das Brustbild eines Rabbiners.
+## Schule des Guardi.
+
+234. Die Rialtobrucke in Venedig.Staffiert.
+235. Venetianisches Kloster an einem Kanal.
+
+H.431/2cm,B.58cm.G.-R.
+
+236. Ansicht einer Kirche in Venedig.
+237. Kopf eines Greises.
+
+Leinwand.H.401/2cm,B.57 cm.G.R
+
+Leinwand. H.401/2 cm, B.57 cm.G.R
+
+## Schule des Guido Reni.
+
+Kreidezeichnung. H.37 cm, B.27 cm.Gerahmt.
+
+## Art des Rembrandt.
+
+238. Allegorische Darstellung mit Christus auf dem See Genezareth. Leinwand auf Holz. H.151/2 cm, B.281/2 cm.G.R.
+
+## Nach Tiziano.
+
+Leinwand. H.36 cm, B.52 cm.G.-R.
+
+- 239.Venus auf einem Ruhebett.
+
+## G. da Giovanni.
+
+240. Brustbild eines jungen Mannes mit kleinem Schnurrbart. Leinwand.H.611/2 cm,B.45 cm.S.R
+241. Die heilige Familie.
+
+## Schule des Raffael.
+
+Mit Weiss gehohte Zeichnung. H.30 cm, B.23 cm. Gerahmt.
+
+## Johann Kupetzky.
+
+1666-1740.
+
+242. Portrat eines Malers, welcher eine Palette halt. Leinwand. H.69 cm, B.53 cm.G.R.
+
+## Th.Stothardt.
+
+243. Szene aus dem Landprediger von Wakefield.
+
+Leinwand.H.21 cm,B.28 cm.G.R.
+
+## Nach P. Lastman.
+
+244. Juda und Thamar in einer Landschaft.
+
+## J.L.David.
+
+245. Drei Entwurfe zu einer Statue der Republique francaise.
+2. Grosse 23 zu 15 cm und 28 zu 18 cm. Bezeichnet. Gerahmt.
+
+Holz.H.30 cm,B.22cm.G.L.
+## J.W. Borselen.
+
+246. Waldinneres bei Fontainebleau mit Kindern als Staffage. Leinwand.H.41 cm, B.30cm.G.R.
+
+## N. Barabinos.
+
+- Leinwand, signiert. H.53 cm, B.40 cm.Gerahmt.
+
+## Lanfranco.
+
+- Rotelzeichnung mit Weiss gehoht. H.26 cm, B. 171/2 cm.Gerahmt.
+247. Studie eines Greisenkopfes.
+248. Tranquilitas.
+- Darstellungen nach antiken Skulpturen und Bildern.
+- Qu-Fol.
+250. Aelteres Oelbild. Ein Kind mit einem Teller voll Fruchten und Biskuit.
+- Leinwand.H.72 cm,B.54 cm.G.-L.
+251. Aelteres Oelbild in der Manier des JAN FIJT. Stilleben mit totem Geflugel, Jagdflinte etc. Leinwand. H.68 cm, B.92 cm.Ohne R.
+252. Oelbild von J. GOOs. Landschaft mit Vieh.
+- H.47cm,B.58cm.G.-L,
+253. Aelteres Oelbild. Stilleben mit Blumen in einer Vase. H.61 cm, B.43 cm.Ohne R.
+254. Aelteres Oelbild in der Manier des EECKHOUT. Die heilige Familie, St. Johannes und Elisabeth. Holz.H.67cm, B.57cm.S.R.
+255. Oelbild nach DOMINICHINO. St.Johannes der Evangelist. Leinwand.H.72 cm, B.57 cm.G.L.
+256. Oelbild. Eine Alte bei Lampenbeleuchtung Geld zahlend. Leinwand.H.64 cm, B.58 cm.G.R.
+257. Aelteres Oelbild. Auf Holz. Flusslandschaft mit Staffage.
+- H.21 cm,B.25 cm,S.R.
+- 258.Gerahmter Buntdruck von DUTHE.La jardiniere coquette. Fol,
+259. Gerahmter Kupferstich von T. TASSAERT. The correction, nach Greuze. KI.Qu.-Fol.
+260. Blatt aus einem Missale mit grossem Initial, die Verkundigung der Maria darstellend. H.52cm,B.35cm
+261. Gerahmtes Glasbild. Hirtenpaar im Freien.
+262. Aelteres Oelbild. Liebespaar. Halbfiguren.
+
+H.27cm,B.35 cm。
+
+H.93cm,B.76cm.G.R.
+
+263. Bemalte Holzschnitzerei. Relief. Christus und die Samariterin am Brunnen. Oval.H.18 cm,B.27cm.
+264. Gerahmter Kupferstich von Raphael Morghen nach Raffaello Santi. Die Transfiguration. Feiner alter Druck mit breitem Rande. Roy.-Fol.
+265. Gravierte Kupferplatte, gerahmt. Ohne Gunst keine Kunst.
+
+<!-- image -->
+
+H.34cm,B.27 cm.

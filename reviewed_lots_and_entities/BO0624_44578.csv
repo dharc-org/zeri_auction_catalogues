@@ -1,0 +1,4 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_44578,588421,1,I,nstruments de Mathematiques,18,98.2,False,title_direct,,,Instruments de Mathematiques,,
+BO0624_44578,588422,2,I,"l n'existe plus, a notre connaissance, depuis la dispersion de ces deux collections, aucun ensemble d'objets de cette nature comparable a la collection que nous mettons en vente, et dont",30,99.7,False,positional,,,OGGETTI VARI,,
+BO0624_44578,588423,3,I,MPORTANTE,38,94.7,False,positional,,,Instruments de Mathematiques,,

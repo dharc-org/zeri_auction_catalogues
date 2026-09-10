@@ -1,0 +1,418 @@
+<!-- image -->
+
+## Auction: Sonnabend, den 27. April 1901, von 10 Uhr ab.
+
+- 1 Antiqua. Unterhaltungsblatt fir Freunde der Alterthumskunde. Specialzeitschrift fur Prahistorie. Illustrirt. Vll.IX. Jahrgang.Z Zirich 1889-1891.3 Hlwbde.
+- 2 Antiquitaten-Zeitschrift, redigirt von R Forrer-Strassburg. Jahrgange
+- 1888-1894.Gr.8.In 5 Hlwbanden.
+- 3 Architektonische Aufnahmen und Skizzen aus Rothenburg a. d. Tauber, autographirt v. A. Bleich. 1869. Fol. 31 Blatter in Doppelformat Hfrzband.
+- Architektonisches Skizzenbuch.Jahrg. 1872-1876. Berlin. Gr. 4.In 2 Lwbanden.
+- -4 Band I.—IV.
+- 5 F.Argnani. Le ceramiche e majoliche faentine dalla loro origine fino al principio del secolo XVI.Appunti storici. Con XX tavole di stoviglie antiche disegnate e colorite dal vero. Faenza 1889. Gr.4. Nummerirtes Exemplar.Eleg. Hfrzband.
+- 6 Armeria Uboldo. Descrizione degli scudi e degli elmi posseduti dal banchiere Ambrogio Uboldo,nobile de Villareggio. Mit 19 Tafeln lithogr Abbildungen Von Schilden u. Helmen. Milano 1839 u. 1810. Fol. Eleganter Hfzband.
+- Atlas zum Katalog der im Germanischen Museum vorhandenen zum evom XV.bis XVIH.
+- 7 Abdruck bestimmten geschnittenen Holzstocke Jahrhundert. 12 Tafeln gr.fol. Nurnberg 1896.In Hfzband.
+- A. Baumeister.Denkmaler des klassischen Alterthums. 3 Bande. Mit sehr zahlreichen Abbild.,Tafeln,Karten ete. kl. 4. Munchen 1885-8s.
+- 8 In schon gepressten u. vergold. Orig.-Lederbanden.
+- 6 G. Berain. Ornemens inventez par G. Berain et se vendent chez le dit autheur aux galleries du Louvre. 88 Kupfertafeln, fol. In altem Schwlederband. Beigegeben sind noch 24 Kupfertafeln, . Thl. gestochen nach Berain u. A. Wernerin u.5 Blatt antike Vasen u. ein Sarkophag in Rothstift nach Cossieau.
+- 10
+- Grosser Mahagoni Bucherschrank mit Glaswanden und Schiebethiren.
+- 11
+- E. Berner. Geschichte des preussischen Staates. Reich illustrirt und mit Farbendruckbeilagen.Minchen 1891. Kl. 4.Hfrzbd.
+- F.v. Biedenfeld. Die Heraldik oder populares Lehrbuch der Wappen
+- 1la kunde.-Mit 22 Tafeln Abbildungen. 4.Weimar 1846. Hlwbd.
+- 12 Bestecksamlmung Zschille. 9O Blatt color. Original-Handzeichnungen nebst handschriftlichem Verzeichniss und Beschreibung der Gerathschaften. 4. In Hfz.Mappe. Dazu der von A. Pabst 1887 herausgeerganzten Nummern. Ohne die Lichtdrucktafeln. Gr. fol.
+
+<!-- image -->
+- 13 Bilderatlas, kulturhistorischer Bd. II. Mittelalter, bearbeitet von A. Essenwein.120 Tafeln mit erklarendem Text.Leipzig 1883. Qu. fol. Orig.-Lwband.
+- 14 Franz Bock.Das heilige Koln. Beschreibung der mittelalterlichen Kunstschatze in seinen Kirchen und Sakristeien, aus dem Bereiche des Goldschmiedegewerkes und der Paramentik. Mit 13 lithogr. Tafeln (wovon 2 stockfleckig). Leipzig 1858. Leipzig 1858. Kl. 4. Hfzband.
+- 15
+- 16 .
+- Der Kronleuchter Kaisers Friedrich Barbarossa im Karolingischen Minster zu Aachen und die formverwandten Lichterkronen zu Hildesheim und Comburg. Mit 16 Kupfertafeln. Leipzig 1864. Fol.j Hlwbd.
+- Das Heiligthum zu Aachen. Mit Abbildungen der grossen und kleinen Reliquien des Munsters etc. Koln 1867. 4. Angebunden sind 2 Brochiren:A. Schlieben, Romische Reiseuhren. Wiesbaden 189l, u.O. Tischler, Eine Emailscheibe von Oberhof. Konigsb. 1887. Hblwband.
+- 17
+- 18 Meister der Wafenschmiedekunst vom XIV. bis ins XVHI. Jahrhundert. Ein Beitrag zur Geschichte der Kunst u. des Kunsthandwerks. Mit 20 Lichtdrucktafeln und 159 Textillustrationen. Berlin 1897. Gr.8. Hfzband.
+- Wendelin Boeheim. Handbuch der Waffenkunde. Mit 662 Abbildungen nach Zeichnungeu von Anton Kaiser u. vielen Waffensehmiedemarken. Leipzig 1890. Originalband.
+- 19 Waffenausstellung 1885 des Mahr. Gewerbe-Museums. Mit 27 Licht-
+- 20 一 Album hervorrag. Gegenstande aus der Waffensammlung des Allerhochsten Kaiserhauses. Mit 5O Tafeln in Lichtdruck und zahlr. Textillustrationen.Wien 1894. Fol. Orig.Lwbd. Nummerirtes Exemplar.
+- drucktafeln, fol. Bruinn 1886. In Orig.-Mappe.
+- 21 Ad.Boetticher. Olympia,das Fest und seine Statte. Reich illustrirt u.mit 15 Kupfertafeln.Berlin 1883. Gr.S.Origband.
+- 23 Anton Buchholtz. Goldschmiedearbeiten in Livland, Esthland und Kurland. Herausgeg. von der Gesellschaft fir Geschichte und Alterthumskunde der Ostseeprovinzen Russlands. 26 Tafeln in Lichtdruck mit
+- 22 Ernst Boetticher. Hissarlik wie es ist. 5. Sendschreiben iber Schliemanns Troja,mit Planen u. Abbild.Berlin 189o.Gr. 8. Hlwbd.
+- erlauterndem Text.Lubeck 1892. Fol. Hlwband.
+- 25 Concilium Constantiense 1414-1418, Chronik des Ulrich von Richenthal. Neudruck mit latein., franzos., russischem u. deutschem Text und den
+- 24 Gust. v. Buchwald. Deutsches Gesellschaftsleben im endenden Mittelalter. 2 Bande. Kiel 1885-87.Orig.Lwbande.
+- facsimilirten Abbildungen.St. Petersburg 1874. Gr.fol.Hfzband.
+- Stuttgart 1885. Fol.Lwbd.
+- 26 R. Cronau. Geschichte der Solinger Klingenindustrie. Mit Illustrationen.
+- 27 E.v.Czihak. Schlesische Glaser. Studie iber die schlesische Glasindustrie friherer Zeit nebst beschreib.Katalog der Glasersammlung des Museums schlesischer Alterthumer.1 Breslau 1891.Gr. 8. Mit Abbild. im Text u. 5 Tafeln Lichtdrucke. Hfzband.
+- de Poitiers.5l Blatt Reproductionen enthaltend. Paris 186l. Kl.4. Hfzband.
+- 28 C. Delange. Recueil des fayences francaises dites de Henri II et Diane
+- 29 Hans Demiani. Francois Briot, Caspar Enderlein und das Edelzinn. Mit
+- 30 Aug. Demmin. Die Kriegswaffen in ihren geschichtlichen Entwickelungen. 3.umgearb. u.vermehrte Auf. mit iber 4500 Abbild. von Waffen und
+- 50 Tafeln in Lichtdruck. Leipzig 1897 Fol. Origband.
+- 44
+- 45
+- 650 Marken von Wafenschmieden. Gera 1891.Orig.Hfzband.Dazu:
+- 600 Abbildungen enthaltend. Wiesbaden.Hfzbd.
+- 一 Keramik-Studien.Sechs Folgen. 1881-S3.In 1 eleg.Hbkalblederband.
+- Mit Holzschnitten.Leipzig 31
+- 32 J.Dielitz. Die Wahl-und Denkspriche,Feldgeschreie,Losungen,Schlachtund Volksrufe besonders des Mittelalters und der Neuzeit. Gr. Ausg. auf holland.Papier,unbeschnitten.Frankfurt 1884.4. Hfzband.
+- 33 Wendel Dietterlin's Buch der Architectur, deutsche Renaissanceformen auf Basis der 5 Ordnungen. 2. Auf.in Facsimiledruck nach der 1598 erschienenen Orig.-Ausgabe. I.u. II. Halbband mit 210 Tafeln. Berlin, Ch.Claesen. Foi. In 2 Mappen. Fol.(Lpr. 120 Mk.)
+- 34 Gustav Dore. Die heilige Schrift,deutsch v. Mart. Luther, mit 230 Bildern. Stuttgart, Halberger. Gr. fol. Pracht-Ausgabe in 2 rothen Hblederbanden.(Ecken beschadigt.) (Lpr.1l5 M.)
+- 35 A.v. Drach. Aeltere Silberarbeiten in den Koniglichen Sammlungen zu Cassel.. Mit urkundlichen Nachrichten u. einem Anhang: Der HessenCassel'sche Silberschatz zu Anfang des 17. Jahrhunderts und seine spateren Schicksale.Mit 2l Lichtdrucktafeln nach den Aufnahmen von Ludwig Bickell. Marburg 1888. Gr. fol. In Orig.-Mappe.
+- M. Dupont-Auberville. L'ornement des tissns. Recueil historique et pratique avec des notes explicatives. Mit 100 farbig gedruckten Tafeln.
+- 36 Paris, Ducher et Cie. 1877. Fol. In Hfrz.Mappe.
+- H.van Duyse. Catalogue des armes et armures du Musee de la Porte
+- 37 de Hal. Illustré. Bruxelles 1897,broch.
+- 38 K. Eggers. Die Siegesstrasse in Berlin beim Einzuge des Kaisers Wilhelm mit den deutschen Truppen am 16.Juni 1871. Fol. Dazu 17 Photographien der Siegesstrasse von G. Schucht, sowie 2 Photographien, Kaiser Wilhelm I. und der Grosse Kurfirst. In Lwd.Mappe. Gr. qu: fol.
+- 39 Elsassische und lothringische Kunstdenkmaler. Herausgeg. yon Hausmann, Leitschuh und Seyboth. In 36 Lieferungen. 120 Tafeln Phototypien. Strassburg. Gr. fol. (Lpr. 72 Mk.) Die Liefer. 19 und 20 sind doppelt vorhanden.
+- 40 Ad. Erman. Deutsche Medailleure des XVI. und XVII. Jahrhunderts. Mit 1l Tafeln Abbildungen. Berlin 1884. Gr. 8. Lwbd.
+- 41 H.Ermisch. Neues Archiv fir sachsische Geschichte und Alterthums-
+- In 8 Hfzbanden und 1 broch.
+- 42 Exposition de Budapest. Chefs-d'ceuvre d'orfevrerie ayant figure a lexposition de Budapest decrits par Ch. Pulsky, Eug. Radisics et Emile Molinier et reproduits par leau-forte,la chromolithographie et l'heliogravure. Paris 1884. Fol. 1 Band Text und 1 Band Tafeln. 2 eleg. Lwbande mit Lederricken. Kunstpublication ersten Ranges.
+- 43 A.v. Eye u. Borner. Die Kunstsammlung von Eugen Felix in Leipzig Katalog. Gr. 8.Nebst einem Atlas mit 36 Lichtdrucktafeln von A. Naumann. Leipzig 1880. Gr. fol. 2 Lwbande mit Lederricken.
+- (30Mk.)
+- Jac. von Falke. Mittelalterliches Holzmobiliar. Mit 40 Lichtdrucktafeln und Text. Wien 1894. Gr. fol. In Mappe.
+- Hellas und Rom, Kulturgeschichte des klassischen Alterthums. Reich illustrirtes Prachtwerk.Stuttgart.Fol. In eleg. Origbande. (70Mk.)
+- 46 Otto von Falke. Katalog der italienischen Majoliken der Sammlung Richard Zschille. Mit 35 Lichtdrucktafeln. Leipzig 1899.Fol. Lwband.
+- 48 一 Kunstgewerbe-Museum.Majolika.Reich illustr.Handbuch.Berlin 1896.
+- 47 一 Desgleichen. Versteigerung obiger Sammlung in London. Mit 17 Lichtdrucktafeln. Gr.8.1899. Cart. u.4 Exempl. ohne Abbild., eins davon mit den handschriftl. beigefuigten Auctionspreisen.
+- 49 M. Fickelscherer.Das Kriegswesen der Alten. Illustrirt.Leipzig 1888.0rigband.
+- 50 R.Forrer. Die Zeugdrucke der byzantinischen,romanischen, gothischen und spateren Kunstepochen. Mit 57 Tafeln,132 Abbildungen. Strassburg 1894.Gr.4.Lwbd.(75Mk.)
+- 52 Die Graber- und Textilfunde von Achmim-Panopolis. Mit 16 Tafeln, 250 Abbildungen. Strassburg 1891.Gr.4 cart. Nummerirtes Exemplar. Vergriffen.(35 Mk.)
+- 51 81 Tafeln,190 Abbildungen in Licht- und.Farbendruck. Strassburg 1898. Gr.4.Lwbd.m.G.
+- 53 一 Romische und byzantinische Seidentextilien aus dem Graberfelde von Achmim-Panopolis. Mit 17 Tafeln,120 Abbildungen. Strassburg 1891.
+- 54 一 Spatgothische Wohnraume und Wandmalereien aus Schloss Issogne,
+- Gr.4.cart.(35 Mk.)
+- Mit 12 Lichtdrucktafeln.Strassburg 1896. Gr.4.Lwbd.
+- Mit 30 Taf. Abbild. Strassburg 1892. Gr. 8. Hlwbd.
+- 55 一 Beitrage zur prahistorischen Archaologie und verwandte Gebiete.
+- 一 Reisebriefe aus Aegypten. Reich
+- 57 一 Die frihchristlichen Alterthumer aus dem Graberfelde von Achmim-
+- 56 Mein Besuch in El-Achmim. illustrirt. Strassburg 1895. Orig.-Lwbd.
+- Panopolis. Mit 18 Tafeln, 250 Abbildungen. Strassburg 1893. Gr.4. Lwbd.(35 Mk.)
+- Die Hugelgraber von Oberrimsingen. Ein archaologischer Streifzug. Mit 5 Tafeln Abbildungen. Strassburg 1893. Gr. 8. Hblwband.
+- 58 R. Forrer u. Gustav A. Muller. Kreuz und Kreuzigung Christi in ihrer Kunstentwickelung. Mit 12 Tafeln, 83 Abbildungen. Strassburg 1894. Gr.4.Lwbd.(24Mk.)
+- 59
+- 60 R.Forrer. Urgeschichtliche Nachrichten und Forschungen. Herausgegeben als Antiqua-Specialzeitschrift fuir Prahistorie 18S6-1891 von einem Consortium schweizerischer Alterthumsfreunde. Mit 107 Tafeln
+- 61 R.Forrer u.Messikommer. Prahistorische Varia a.d. Specialzeitschrift fur Vorgeschichte Antiqua. Mit 12 Tafeln Abbildungen. Zurich 1889. Gr.8. Angebunden einige Nummern aus 1884 u.1888. Hlwbd.
+- Abbildungen.Zurich. Gr. 8.Hlwbd.
+- 62 Drury E. Fortnum. A descriptive catalogue of the Majolica hispanomoresco, persian, Damascus und Rhodian wares in the South Kensington Museum.With histor. notices, marks and monograms. Mit zahlreichen Buntdruck-u.and. Tafeln etc.London 1873.Gr.8. Orig.-Hblederbd.
+- 64
+- 63 Art handbook of the Majoiica (South Kensington Museum). London, Chapmann &amp; Hall. Origbd.
+- 65 Geschichte der deutschen Kunst. 5 Bande, reich illustrirt, sowie mit Farbendrucktafeln etc.I. Die Baukunst von R. Dohme. II. Die Plastik
+- Germanisches Nationalmuseum zu Nurnberg.3 35 Bande illustrirte Publikationen aus den Jahren 1884-1896;Kataloge, Anzeiger und Mittheilungen.Gr.8. In Orig.Lwbanden.
+- 66
+- 67 H.Graf, G. Hager u. J.A. Mayer. Kataloge des bayerischen Nationalmuseums Bd.IV: Die vorgeschichtlichen,romischen und merowingischen Alterthumer;Bd.V:Romanische Alterthimer; Bd. VI: Gothische Alterthimer der Baukunst und Bildnerei.Mit zahlreichen Abbildungen. Minchen 1892-1896.4.3 Bande,cart.
+- von W. Bode. III. Die Malerei von H. Janitschek. IV. Der Kupferstich und Holzschnitt von C. v. Litzow. V. Das Kunstgewerbe yon Jac.v.Falke.Berlin 1887-91.Kl.4.In 5 eleganten Hfzbanden. (Lpr.107Mk.)
+- K. Gimbel. Tafeln zur Entwicklungsgeschichte der Schutz- und Trutzwaffen in Europa mit Ausschluss der Feuerwaffen vom VIII. bis XVII. Jahrhundert. 7 Tafeln imp. qu. fol.,nebst Text. Baden-Baden 1894. In Mappe.
+- 68 J.Th. Graesse. Das grine Gewolbe zu Dresden. 100 Tafeln in Lichtdruck,enth. ca.300 Gegenstande der Kunst-Industrie. Berlin bei P.Bette. Nebst Erlauterungsheft. In Mappe, gr. fol.
+- 69 一 Guide de lamateur d'objets d'art et de curiosite. 2. ed. Dresde 1877, broch.
+- 70 C. Gurlitt. Darstellung der alteren Bau- und Kunstdenkmaler des Konigreichs Sachsen. XVI. Heft: Amtshauptmannschaft Leipzig.Illustrirt.
+- Dresden.1894. Gr.8,broch.
+- 71 Deutsche Tourniere. Rustungen und Plattner des XVI. Jahrhunderts.
+- 一 Archivalische Forschungen. Dresden 1889. Hlwband.
+- 72 Handbuch der Kunstpflege in Oesterreich. Auf Grund amtlicher Quellen
+- herausgegeben.Wien 1891.Lwband.
+- 73 Illustrated priced catalogue. London.
+- The Hamilton Palace Collection. 1882.Gr.4.Orig.-Lwband.
+- 74 Otto Titan v. Hefner. Siebmacher's Wappenbuch II. Bandes 3. Abth.: Der Adel des Konigreich Sachsen. Mit 63 lithogr. Tafeln. Nirnberg 1857.4.Hfzband.
+- 75 一 Neues Wappenbuch des bluhenden Adels im Konigreiche Hannover und Herzogthum Braunschweig.Mit histor.-genealogischen Erlauterungen und 36 Tafeln Wappenabbildungen. Minchen 1862. 4.Hlwband.
+- J.H. v. Hefner-Alteneck. Deutsche Goldschmiedewerke des XVI. Jahrhunderts. Mit 122 Abbildungen auf 30 Tafeln. Frankfurt 1890. Fol.
+- 77 Original-Entwirfe deutscher Meister fir Prachtrustungen franzosischer Konige. 18 Tafeln, Photographien, nebst Text (letzterer stockfeckig). Minchen, Fr. Bruckmann. Gr. fol. in Mappe.
+- 76 In Caiton-Umschlag.
+- 78 J.v. Hefner und J. W. Wolf. Die Burg Tannenburg und ihre Aus-
+- grabungen. Mit 12 Kupfertafeln. Frankfurt 1850.Fol. Hlwband.
+- Fr. v. Hellwald. Kulturgeschichte in ihrer natirlichen Entwickelung bis zur Gegenwart. 4. Aufage. Reich illustrirt. Band I—Ill, kl. 4.
+- 79 Leipzig 1896/97. Eleg. Hfzbande.
+- 80 R.J. Helmers. Erneuert und vermehrtes Wappenbuch. 6 Theile und Anhang Mit iber 1ooO schon colorirten Kupfertafeln,ausserordentlich reichhaltige Wappensammlung. Nurnberg 1703 -1705. Fol. In 3 Hfz-
+- banden.
+- 81 Henne am Rhyn. Kulturgeschichte des deutschen Volkes. 2 Theile. Mit vielen Abbildungen im Text, Tafeln und Farbendrucken. Berlin 1S86, kl. 4.In 2 eleg. Hfzbanden.
+- 82 一
+- Geschichte des Ritterthums. Illustrirt. Leipzig,Friesenhahn 1893. Origband.
+- 83 3 Herold. Vierteljahrsschrift fur Heraldik, Sphragistik und Genealogie. XH.-XXIV. Jahrgang. Berlin 1884-96. 8. Festschrift zur Feier des 25 jahr. Bestehens des Vereins Herold. Reich illustrirt. Berlin 1894. 4.Zusammen 14 Hlwbande. Ferner Heft 1 bis 3 des 28.Jahrgangs der Vierteljahrsschrift, brochirt.
+- 84 Der deutsche Herold. Zeitschrift fir Heraldik, Sphragistik und Genealogie, red. von A. M. Hildebrandt. Mit zahlreichen Abbildungen XV.-XXVH.Jahrgang. Berlin 1884—1896. 4. In 13 Hblwbanden.
+- 85 Ad. M. Hildebrandt.Heraldische Meisterwerke von der Internationalen Ausstellung fir Heraldik zu Berlin 1882. 100 Tafeln in Lichtdruck, nebst erklarendem Text. Berlin, Nicolai's Verlag. Gr. fol. In eleg.
+- Orig.-Mappe.
+- 86 G. Hiltl. Die Waffensammlung des Prinzen Carl von Preussen. Mittelalterliche Abtheilung. 100 Lichtdrucktafeln von A. Frisch. Nurnberg, S.Soldan. Gr. fol.In rother eleg. Hfz.Mappe. Dazu der erlauternde Text mit historischen Bemerkungen versehen von G. Hiltl. PrachtAusg. Berlin 1876. Fol. Eleg. rother Maroquin-Einband mit konigl.
+- 87
+- 88 Der Formenschatz. 1879.1880.1881. 1882. 1883. 1884. In 6 0rig.-
+- G.Hirth. Formenschatz der Renaissance. 252 Blatter. In 2 Orig.Lwd-Mappen, gr. 4.
+- 一 Lwd.-Mappen, gr.4.
+- 89 一
+- Das deutsche Zimmer der Renaissance. Anregungen zu hauslicher Kunstpfege. Reich illustrirt. Minchen 1880. Fol. Hfzband.
+- 90
+- H.Horstmann. Taschenuhren friherer Jahrhunderte aus der Sammlung Marfels. Mit 24 Tafeln Abbild. Berlin 1897.Gr. 8.Lwbd.
+- 16 A.Olzinn. Sammlung Marfels. Mit 17 Tafeln Abbild. Frankfurt 1891. Gr.4.Lwbd.
+- 92 Alb. Jacquemart.Histoire de la ceramique. Etude descriptive et raisonnee des poteries de tous les temps et de tous les peuples. Contenant 200 figures sur bois, 12 planches gravees a l'eau-forte et 1000 marques et monogrammes. Paris, Hachette 1873.Gr. S. Hfzband.
+- 93 A. Jacquemart und E.Le Blant. Histoire artistique, industrielle et commerciale de la porcelaine. Mit 28 fein radirten Tafeln. Paris 1862.
+- Kl. fol.Hfzband.
+- 94 W. Jamitzer's Entwirfe zu Prachtgefassen in Silber und Gold. Photolithographische Nachbildungen, herausgegeben von R. Bergau. Berlin 1881. 4. 75 Blatter in Mappe.
+- 95
+- 96 -Grundriss der Keramik. Reich illustrirt. Stuttgart 1879. Lex. 8. Origband.
+- F. Jannicke.Die Farbenharmonie mit besonderer Ricksicht auf den gleichzeitigen Contrast in ihrer Anwendung in der Malerei etc. Mit 9 Farbentafeln. Stuttgart 1878, brochirt.
+- 97 Achille Jubinal. La Armeria real ou Collection des principales pieces de la galerie darmes anciennes de Madrid. Dessins de Gaspard Sensi. 2 tomes et supplement. Avec 123 planches lithographiees, gravures etc. par Sansonetti, Faxardo et autres artistes.Paris, A. Morel. Gr. fol. In 3 rothen Hbmaroquinbanden. (Einige Blatter etw. stockfleckig,sonst gut erhaltenes Exemplar).
+- Brochirt.
+- 98 0.Kaemmel. Festschrift zur 80Ojahrigen Jubelfeier des Hauses Wettin, illustrirt. Ein Gang durch die Geschichte Sachsens und seiner Firsten. Kinstlerisch ausgestattet von Prof. Donaldini. Dresden 1889. Gr. fol.
+- Wappen in Golddruck.
+- 99 W. v. Kaulbach.Goethe's Reineke Fuchs mit den Kaulbach'schen Zeichnungen, gestochen von Rahn u. Schleich. Gr.4. Stuttgart 1867. Brauner Orig.Lederband m. G.
+- 100 Keramische Sammlung des Freiherrn Albert von Oppenheim in Koln. Herausgegeben von Arthur Pabst. Mit 56 Lichtdrucktafeln nach Aufnahmen von Alex Wolf-Strassburg. Leipzig. Gr. fol. In Mappe.
+- Handbuch der germanischen Alterthumskunde. Mit
+- 101 G.Klemm. 23 Tafeln in Steindruck. Dresden 1836. Pappband.
+- 102 Ernst Kohler. Das Konigreich Sachsen und seine Fursten. Mit 26 Bildnissen.Leipzig 1886. Gr. 8.Hlwband.
+- 103 Gust. Konig. Dr. Martin Luther, der deutsche Reformator, in bildlichen Darstellungen. (48 Blatt Reproductionen.) Gotha, Rud.Besser. 4.Orig.-Lwbd.
+- 105 F.X.Kraus. Real-Encyclopadie der christlichen Alterthumer. Mit zahlreichen Holzschnitten. 2Bande. Freiburg 1880-S6.Lex.8. Hlwbande.(38 Mk.)
+- 104 Rob. Konig. Deutsche Litteraturgeschichte. Reich illustrirt und mit farbigen Beilagen. 9.Auflage. Bielefeld 1881.Gr. 8.Orig.Hfzbd.
+- 106 Illustrirte Kriegschronik. Gedenkbuch an den deutsch-franzosischen Feld. zug von 18:0 71. Leipzig, J. J. Weber, 1871. Gr.fol. Originalband,beschadigt.
+- 107 Kunst fur Alle, herausgegeben von Friedr. Pecht. Reich illustrirt und mit Kunstbeilagen. IV. bis XIII. Jahrgang.. Munchen 1888-1898. Gr.4. In 10 eleg. Hfzbanden. （Lpr.180 Mk.) Ferner in Heften XV. Jahrg.(1899/i900) mit Ausnahme von Heft 2. Einbanddecke zu "Klassischer Bilderschatz"Band XI.
+- 108 Kunstgewerbeblatt, herausgegeben von Arthur Pabst. Reich illustrirt und mit vielen Kunstbeilagen. I.bis XI. Jahrgang. Nebst Kunstchronik XX. Jahrgang bis Neue Folge VI. Jahrgang. Leipzig 1885—1895. 4. In 1i Hblwbinden. Ferner vom Jahrg. 1899/i900 Heft 1-9.
+- Kunstgewerbe-Ausstellung, Leipzig 18i9. 70 Lichtdrucktafeln. Fol.
+- 109 In eleg. Lwd.-Mappe mit Lederricken.
+- 一 Photographische Aufnahmen aus der Dresdener Ausstellung alter kunstgewerblicher Arbeiten. 1875. Nach Auswahl des Comites in Schnellpressen-Lichtdruck ausgefihrt von Rommler und Jonas. Dresden.
+- 10 Gr. fol. 117 Tafeln in Orig.Mappe.
+- 111 Kunstler-Monographien.
+- Unter Mitwirkung von anderen herausgegeben v.H. Knac kfuss. 1. Raffael. 2. Rubens. 3. Rembrandt. 4. Michelangelo. 5.Direr. 6.Velazquez.7. Menzel.8. Teniers.9.A.v.Werner. 10.Murillo. 11.Knaus. 12.Franz Hals.13.A.van Dyck. 14.Ludw. Richter.5.Watteau. 16.Thorwaldsen. 17.Holbein. 18.Defregger. 19. Terborch u. Jan Steen. 20. R. Begas. 21. Chodowiecki. 22.Tiepolo. 23.Vautier. 24. Botticelli. 25.Ghirlandajo. 26.Veronese. 27.Mantegna. 28. Schinkel. 29.Tizian. 30.Correggio. 31.M.v.Schwind. 32. Rethel. 33. Leonardo da Vinci. 34. Lenbach. 35.Hub.u.J.v.Eyck. 36. Canova. 37.Pinturicchio. 38.E.v.Gebhardt. 39. Memling. 40.Munkacsy. 41.Klinger. 42.Stuck. 43.Giotto. 44.Ostade. 45.Liebermann. 46.Thoma. Cart.(Lpr.140 Mk.)
+- 112 Kunst- u. Kunstgewerbe -Ausstellung in Munchen 1876. 120 Blatt
+- Photographien von J. B. Obernetter-Munchen, nebst Text. In LeinwdMappe, gr. fol.
+- 113 La Collection Spitzer. Antiquite-Moyen age-Renaissance. 6 tomes. Paris 1890-1892. Gr. fol.Mit 342 prachtvollen Kunsttafeln und vielen Illustrationen im Text. Nummerirtes Exemplar auf japanischem Papier.
+- In 6 Lwd.Mappen. Hervorragende Kunstpublication.
+- 114 一一 Objets d'art et de haute curiosite,antiques du moyen age et de la renaissance. Versteigerungs-Prachtkatalog, Paris 1893, 2 Bande Text und 6s Tafeln in Doppelformat in besonderem Band. Mit handschriftlich. beigefigten Preisen der einzelnen Objecte. Fol. In 2 Hfzbanden.
+- 115 A.Lagrelius. Kongl. Lifrustkammaren och dermed forenade samlingar. 50 planches exécutees en phototypie a l'imprimerie de l'etat-major. Texte de C.A. Ossbahr
+- L'Armurie royale et les collections y incorporees. en suedois et en francais. Stockholm,1897.Fol. Orig.-Lwband.
+- Qu.Leitner.Die Waffensammlang des osterreichischen Kaiserhauses im k. k. Artillerie-Arsenal-Museum in Wien. Mit 68 Tafeln Abbildungen (einige davon etw. stockfeckig). Gr. fol. Wien 1866-70. Numme-
+- 116 rirtes Exemplar. Eleg. Hfzband.
+- 117 Jul. Lessing. Die Silberarbeiten von Anton Eisenhoit aus Warburg. Mit 14 Tafeln in Lichtdruck von Alb. Frisch. Berlin 1879, Gr. fol. Leinwdb. mit Lederriicken.
+- 118 Berliner Porzellan des XVIII. Jahrhunderts.(Vorbilder-Hefte 18/19).
+- 一 Mit 20 Lichtdruck-u. lithogr. Tafeln. Berlin 1895.Gr. fol.Cart.
+- 119
+- Hugo Licht. Architektur Deutschlands. Uebersicht der hervorragendsten Bauausfihrungen der Neuzeit. Band I. Mit 126 Blatt Lichtdrucken u. Text von Ad. Rosenberg. Berlin 1879. Gr. fol. In Hbledermappe.
+- 120-28 Liebhaber-Bibliothek alter Illustratoren in Facsimile-Reproduction: Jost Amman's Frawenzimmer (1586). Kartenspielbuch (1588). Wappen- u. Stammbuch (1589).- Virgil Solis. Wappenbichlein (i555). Jost Amman's Stande u. Handwerker （1568).Albr. Durer's kleine Passion(1510). Hans Hoibein's Bilder zum alten Testament (1538). Hans Burgkmair's Leben und Leiden Christi (1520). Tob. Stimmer's. Bibel (1576). Munchen, G.Hirth 1880-S7.Kl. 4. 9 meist schon gepresste Lederbande.
+- 129
+- 130 一 Die vaterlandischen Alterthumer der Firstl. Hohenzollernschen Sammlungen zu Sigmaringen. Mit 43 Tafeln Abbild.u.Holzschnitten im. Text.Mainz 1860.4.Cart.
+- L. Lindenschmit. Die Alterthimer unserer heidnischen Vorzeit. Nach den in offentlichen u. Privatsammlungen befindlichen Originalen herausgeg.vom Rom.-Germanischen Centralmuseum in Mainz. Mit sehr zahlreichen gravirten Tafeln.3 Bande. Mainz 1858 bis 188l.Gr. 4. In 3 Hfzbanden.
+- 131 一 Handbuch der deutschen Alterthumskunde in 3 Theilen,mit zahlreichen eingedruckten Holzstichen. Brauuschweig 1880-89. Gr.8.In 1 Hfzband.
+- 132 Lobmeyer, A. llg u. W. Boeheim.Die Glasindustrie, ihre Geschichte
+- gegenwartige Entwicklung und Statistik. Stuttgart 1874. Gr.8.Lwbd.
+- 133 W.Lubke.
+- Grundriss der Kunstgeschichte. Reich illustrirt. Stuttgart 1c68. Gr.8.Hfzband.
+- 134
+- 135 Rich. Frhr. v. Mansberg. Wafen unde Wicgewaete der deutschen Ritter
+- F.Luthmer.Der Schatz des Freiherrn Karl von Rothschild. Meisterwerke alter Goldschmiedekunst aus dem XIV.XVIII. Jahrhundert. I.u. H. Serie. Mit je 50 Lichtdrucktafeln. Frankfurt,H.Keller 1883/85. Gr. fol. In 2 Orig.-Hfz.Mappen.
+- des Mittelalters. Mit 9 Lichtdrucktafeln, 100 Abbildungen.Dresden 1890. Roy. fol. Hfrzband.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+- 136 F.R. Martin. L'age du Bronze au Musee de Minoussiosk. 33 planches photogr. et texte. Stockholm 1893. Fol. In Orig.-Hlwd.-Mappe.(40 Mk.)
+- 137 Meissnische Land- und Berg-Chronica. In 2 Theilen. Mit Holzschnittillustrationen,Wappen,Portraits in Cartouchen,Prospekte etc. Dresden 1589 u. 1590.Fol.Gepresster Orig.-Schwlederband,etw.beschadigt.
+- 138
+- Meisterwerke schwabischer Kunst aus der kunsthistor. Abtheilung der schwabischen Kreisausstellung Ausgsburg 1886. Herausgeg. v. d. Vorstandschaft der Kunsthistorischen Ausstellung. 33 Tafeln Albertotypie mit erlaut. Texte. Munchen 1886. In Mappe, gr. fol.
+- 139
+- M. Meurer. Italienische Majolica Fliesen aus dem Ende des XV.u. Anfang des XVl. Jahrhunderts, nach Orig.-Aufnahmen. 24 farbig gedruckte Tafeln.Berlin 1881.Gr. fol.In Mappe （50 Mk.)
+- 140 Meyer's Konversatonslexikon. 5. Aufage.Leipzig 18951898. In 17
+- eleg.Hfzbanden.(Lpr.170 Mk.)
+- 141 collection of Llewelyn Meyrick etc.,After the drawings,and with the descriptions of Dr.Meyrick by Joseph Skelton. 2 vols. Mit 150 Tafeln Abbildungen.Fol. London. i830.In 2 Hfzbanden.
+- 142 H. Michaelis.Vollstandiges Worterbuch der italienischen und deutschen Sprache. 6. Auf.2 Theile. Leipzig 1889. Gr.S.2 Hfzbande.
+- 143 G. L. Michel. Illustrirtes Zurcherisches Zeughausbichlein. Zurich 1881. Hlwband.
+- Mittheilungen des nordbohmischen Gewerbemuseums. (1887) No. 6 an bis X1l. Jahrg. (1894) No.3. Illustrirt. Reichenberg, kl. 4.In 5 Hblwbanden.
+- 144 Von V. Jahrg
+- 145 Mittheilungen der deutschen Gesellschaft zur Erforschung vaterlandischer Abbild.in Lichtdruck.Leipzig 1883-86.Gr.8. Hblwband.
+- 146 Monographien zur Weltgeschichte in Verbindung mit Anderen herausgeg. von Ed. Heyck. Mit Kunstbeilagen u. vielen Abbildnngen im Text. Band I-XI. Gr. 8. Bielefeld, 1897 -1900. Liebhaber-Ausg. in eleg. Cartonbanden m.G.(Lpr. 33 Mk.).
+- 147 Monumente des Mittelalters und der Renaissance aus dem Sachsischen Erzgebirge, die Klosterkirche Zchillen, jetzt Wechselburg und die Rochlitzer Kunigunden-Kirche 50 Blatt gross Folio,photograph. Aufnahmen u. Schnellpressen-Lichtdruck von Rommler u. Jonas, Dresden 1875.
+- In Mappe.
+- Hans Muller. Beriin 1893. Gr.8.Eleg.Lwbd.
+- 148 Wilhelm Kaulbach (Biographie). Band I. Mit Portrait.
+- 149
+- Musee de la Real Armeria de Madrid.19l Original-Photographien sammlung zu Madrid. Gr.fol.In 2 eleganten Kastenmappen.
+- 150 Musee de Tzarskoe-Selo on Collection d'armes de S. Maj. l'Empereur de toutes les Russies. Ouvrage compose de 180 planches lithographiees par Asselineau d'apres les dessins originaux de A. Rockstuhl.Avec introduction historique par Flor. Gille. Petersb.et Carlsruhe 1835—1853
+- Gr. fol.In 2 Orig.Hfzbanden.
+- 151 Museum Soyterianum. A. F.Butsch.Wafensticke,Ristungen,Kunstwerke und Gerathschaften des Mittelalters. und der Renaissance, Sammlung des Particuliers J. M.Soyter. Mit 5O Originalphotographien u. kurzem Text. Augsburg 187l.Gr. fol. In Lwd.Mappe mit Leder-
+- ricken.
+- G.K. Nagler. Die Monogrammisten. Fortgesetzt von Andresen u. Clauss. Minchen.G. Hirth's Verlag.5 Bande, eleg. Hfrz. Schon erhaltenes
+- 153 Jul. Naue. Die prahistorischen Schwerter. Mit 1l Tafeln Abbildungen. Munchen 1885.Kl. 4.Hlwband.
+- 152 Exemplar.
+- Niffle-Anciaux. Les repos de Jesus et les berceaux reliquaires. Mit 13 Heliogravuretafeln u. zahlreichen Abbild. im Text. Namur 1896.
+- 154 Gr.8.Hfzband.
+- 155 Nurnbergisches Trachten-Buch. Auf Oberherrliche hohe Verguinstigung gantz neu vermehret und mit zierlichen Kupffersticken gezieret. Nirnberg, in Verlegung Paul Firstens Wittib u. Erben (ohne Jahreszahl). Qu.4. Mit 36 Kupfertafeln,z. Thl. etw. wasserfeckig u. ausgebessert. Blatt 33 fehlt. Pappband. Beigegeben ein Blatt Miniatur in Gold und
+- Farben sowie mit alten Initialen versehen.
+- 156 0stfriesische Volks- u. Rittertrachten von 1500. 22 Tafeln u. Titelblatt. In getreuer Nachbildung der Originale des Hauptlings Unico Manninga in der Graf. Knyphausen'schen Hauschronik in Litzburg. Nebst Text von Graf E. zu Inn- u.Knyphausen und Vorwort von Prof. Rud. Virchow
+- 157 J.Overbeck. Pompeji in seinen Gebauden, Alterthimern und Kunstwerken. 2.Auf. 2 Bande. Leipzig 1866. Gr.8.In 1 Hfzband.
+- u.Ulrich Jahn.Emden 1893. Gr.8.In eleg. Orig.-Lwd.-Mappe.
+- Schriften uber christliche Kunstalterthimer vorkommenden Kunstausdricke. Reich illustrirt. 2. Auf. Leipzig 1883. Origband.(9 Mk.) Archaologischer Katechismus, illustrirt.2. Auf. Leipzig 1872. Gr.8.
+- Hblwband.
+- 160 Palais de San Donato. Catalogue des objets d'art et d'ameublement, tableaux illustre,sous la direction de Leon Gaucherel. Paris 1880. Surpapier teinte. Kl. fol. Mit zahlreichen Kunstbeilagen u. einer grossen Anzahl handschriftlich beigefigter Steigerungspreise. Lwband. m. G.
+- fol.In Hfz.-Mappe.
+- 161 F.Paukert. Die Zimmergothik in Deutsch-Tyrol. 6 Abtheilungen. I. und II. Nachlese und Altare u. a. kirchliches Schreinwerk. Im Ganzen 224 Tafeln Abbildungen nebst Erlauterungen. Leipzig 1889-95. Gr.
+- 162 63 F. R. Paulig. Geschichte der Befreiungskriege. Konig Friedrich I. von Preussen.Konig Friedrich Wilhelm I. Frankfurt 188690.3 Hblwbande. Friedrich der Grosse und Friedrich Wilhelm II. Frankfurt 1892-95. 2 Hfzbande.
+- 165 Prachtwerk. Cervantes,Don Quixote von la Mancha, deutsch von L. Tieck. Mit Illustrationen von Gustav Dore. 2 Bande. Berlin 186976. Fol. Eleg. rothe Lwbande mit Lederricken.
+- 164 F.E. Petri's Handbuch der Fremdworter. 11. Auf. Leipzig 186l. Gr.8. Hfzband.
+- 166 Italien in Schilderungen von K. Stieler,E.Paulus, W.Kaden. Illustrirt Von berihmten Kinstlern. Stuttgart 1880. Fol. Eleg. Origband m.G.
+- 168 Prahistorische Blatter. Unter Mitwirkung von Forschern und Freunden der prahistorischen Wissenschaft herausgegeben von J. Naue Munchen.
+- 167 Ebers. Aegypten in Bild und Wort, dargestellt von unseren ersten Kunstlern. 2 Thie. Stuttgart 1879-80. Fol. In 2 eleg.Originalbanden m.G.（Ldpr.115Mk.)
+- Illustrirt.I.-VIH.Jahrg.1889-96.In 8 Hblwbanden.
+- 169 Mit 40 Original-Compositionen,in Holzschnitten v.Brend'amour und Oertel.Ieipzig 1872.Fol. Orig.-Car-
+- Fr. Preller.Homers Odyssee. tonnage.
+- 170 K.Preusker. Blicke in die vaterlandische Vorzeit, Sitten, Sagen,Bauwerke und Gerathe. 3 Thle. mit zahlr. Abbild.auf 10 Steindrucktafeln. Leipzig 1841.-44.Gr.8.In 1 Hlwband.
+- Facsimilirte Nachbildungen alter Orig.-Zeichnungen,Miniaturen etc., nebst Aufnahmen alter Original-
+- 171 Quellen zur Geschichte der Feuerwaffen. 1877. Gr. 4. Mit 157 Tafeln.In Hfz.Mappe.
+- 172 M. Rade. Konigl. Historisches Museum zu Dresden. Auswahl 1von Ornamenten zum praktischen Gebrauch. 10o Blatt Lichtdrucke von Roemmler und Jonas. Dresden 1883. Gr. fol. In Orig.-Lwd.-Mappe.
+- 174 Ludwig Richter's Selbstbiographie. Lebenserinnerungen eines deutschen
+- 173 Reale Armeria Torino. 6l Blatt Photographieen (von G. Rossi-Milano) der Koniglichen Waffensammlung in Turin. Gr.fol. In Hfz,Mappe.
+- Malers. Herausgeg.v.Heinr. Richter. 4. Auf. Frankfurt 1886. Lwbd.
+- 175 Alois Riegl. Ein orientalischer Teppich vom Jahre 1202 n. Chr. und die altesten orientalischen Teppiche. Mit 2 Farbentafeln und 16 TextIllustrationen. Berlin 1895. Gr. fol. Hlwband.
+- 176 Ed.v. Rodt. Historische Alterthimer der Schweiz.I. Serie. 25 Licht-
+- 177
+- 178 一 Der Goldschmiede Merkzeichen. 2000 Stempel auf alteren Goldschmiedearbeiten in Facsimile.Frankfurt 189o. Gr. 8. Hfzband.
+- drucke etc. nebst erlauterndem Text. In Mappe. Gr. fol.
+- Marc Rosenberg. Alte kunstgewerbliche Arbeiten auf der Badischen Kunst- und Kunstgewerbe-Ausstellung zu Karlsruhe 1881. 40 Lichtdrucktafeln mit Text. Frankfurt 1882. Fol.Eleg. Hfzband.
+- 179 Giancarlo Rossi. Commenti sopra suppellettili sacre di argento ed oro appartenute ai primissimi secoli della chiesa. 2. ed. Roma 1890. Kl. etc., conferenza tenuta nella universita 22 marzo 189l. Spoleto 1891. Kl.fol. br.
+- 180 Ed. v. Sacken. Die vorziglichsten Ristungen und Waffen der k. k. Ambraser-Sammlung in Originalphotographien.Nebst biographischen Skizzen. 2 Bande mit 128 Tafeln.Wien 1859-62. Fol. In 2 Orig.-Hfzbanden.
+- 181
+- Katechismus der Heraldik.illustrirt. Lpz.188O. Origband.(2 Mk.)
+- 182 83 Sammelband. Donop.Ausstellung der Radirungen von B. Mannfeld im  Wallraf-Richartz-Museum zu Coln. Mit 3 Kunstbeilagen. Berlin 1891.Gr. 8. Dazu Mappe mit Mannfeld-Radirungen. Originalbriefen.Prospekt 1892, sowie in Passepartouts: 2 Blatt Radirungen (Zschille's Portrait u. Haus ete.) Berling.Die Fayence- und Steingutfabrik Hubertusburg. Mit 4 Lichtdrucktafeln. Dresden 189l. Stegmann. Die Porzellanfabrik zu Firstenberg. Braunschweig 1893 und and. Kunstbrochiren von Fr. Schneider (Diptychon d. X.Jahrh.), Steinbrecht, Zabel.Hfzband.
+- 184
+- Sammelmappe von Photograghien, ca. 8O Tafeln Fol. Darunter Reproductionen der Solkowski'schen Waffensammlung zu Nurnberg, der kunsthistorischen Sammlungen des A.H. Kaiserhauses und Antiquitaten verschiedenster Art. Hblederband.
+- 185 Sammlung von Abbildungen tirkischer, arabischer, persischer, centralasiatischer und indischer Metallobjecte. Mit einleitenden Bemerkungen herausgegeben vom k. k. osterreich. Handels-Museum.50 Tafeln Licht-
+- drucke. Wien 1895. In Orig.-Mappe. Gr. fol.
+- 186 Fr. Sarre. Die Berliner Goldschmiedezunft von ihrem Entstehen bis Berlins. Mit 1 Titelblatt von Jos.Sattler, 4 Portraits,10 Lichtdrucktafeln und mehr. Text-Abbildungen. Berlin 1895. 4°,broch.(20 Mk.)
+- Die Schatzkammer des bayerischen Konigshauses. 100 Tafeln Lichtdrucke ausgefuhrt von Arnold u. Zettler in Minchen Mit Text. Nurn-
+- 187 E.v. Schauss. （ein Theil der Cartons im Rande etw. stockfeckig). berg.Verlag von S.Soldan.Gr. fol.In eleg. Hfzband.
+- 188
+- Joh. Scherr's Germania. Zwei Jahrtausende deutschen Lebens kulturgeschichtlich geschildert. Grosse illustrirte Prachtausgabe. Stuttgart, gr. fol. Eleg. Origband. (Lose im Einband u. beschadigt.)
+- A.Schlieben. Geschichte der Steigbigel. (Separatabdruck a.d. Annalen des Vereins fur Nassauische Alterthumskunde XXIV. Bd. 1892 nebst Nachtrag). Mit 9 Tafeln (507) Abbildungen.1 Blatt des Textes ausWiesbaden,1892.Kl.4.Hlwband.
+- 189 gebessert.
+- H.Schliemann. Ilios, Stadt und Land der Trojaner. Forschungen und Entdeckungen etc. Mit zahlreichen Abbildungen etc. Leipzig,1881.
+- 190 Lex. 8.Eleg. Originalband.
+- 191 G.Schmoranz. Altorientalische Glasgefasse. Im Auftrage und mit Unterstitzung des k.k. Ministeriums fir Cultus und Unterricht herausgeg. v.k. k. osterreich.Handelsmuseum. Nach Originalaufnahmen 45 Tafeln in Farben-und Lichtdruck und 69 Abbildungen im Text.Roy. fol. Wien 189s. Brauner Hbmaroquinband. Hervorragendes Werk in bester
+- E. Schnippel. Ueber einen merkwirdigen Runenkalender des Grossherzoglichen Museums zu Oldenburg. Mit 2 Tafeln. Oldenburg 1883.
+- Erhaltung.
+- 192 Hlwband.
+- 193 O.v. Schorn. Die Kunsterzeugnisse aus Thon und Glas. Uebersicht ihrer technischen und kinstlerischen Entwickelung vom frihen Mittel-
+- alter bis zur Gegenwart. Reich illustrirt. Prag 18s8. Hlwbd.
+- 194 J.Schon. Geschichte der Handfeuerwaffen. Darstellung des Ent-
+- wickelungsganges der Handfeuerwaffen von ihrem Entstehen bis auf die Neuzeit.Mit 31 Tafeln. Dresden 1858.4. Cait.
+- 195 G.W. Schuberth.Chronik der Stadt Grossenhain vom Jahre 10s8 bis auf die Gegenwart. Illustrirt von C. E. Zschille. Grossenhain 1887 -92.
+- Gr.4.Origband.
+- 19697—
+- Chronik der landlichen Ortschaften in der kgl. Amtshauptmannschaft Grossenhain und der Stadt Radeburg. Mit zahlreichen Abbildungen in Lichtdruck von E. Zschille.Grossenhain1888.4.Hlwbd. Grozdec-Grossenhain, ein Beitrag der altesten Geschichte des Hauses Wettin und der Mark.Meissen 1889. 8.Orig.Lwband.
+- 198
+- 199 一 Das hofsche Leben zur Zeit der Minnesinger. 2. Auf. 2 Bande mit 372 Holzschnitten. Leipzig 1889. Gr. 8. Eleg. Hfzbarde.
+- Alwin Schultz. Einfuhrung in das Studium der neueren Kunstgeschichte. 2.Auf. Mit 35l Abbildungen und 12 Tafeln in Farbendruck. Prag und Leipzig 1887.Kl. 4.Hfzband.
+- 200 Paul Schumann. Der trojanische Krieg.8 Tafeln Reproductionen von
+- 201 Schwenke u. Lange. Die Silberbibliothek Herzog Albrechts yon Preussen
+- franzosischen Handzeichnungen zu Wandteppichen aus dem XV. Jahrhundert. Dresden 189S. Gr. qu. fol. In Mappe. 36 Mark. Nebst erlauterndem Text mit 4 Tafeln.Abbildungen. Dresden 1898. Kl.4. broch.
+- und seine Gemahlin Anna Maria. Mit 12 Tafeln und 8 Textillustrationen. Leipzig,1894.Gr.4. Eleg.Lwbd.
+- 202-205 Seemann's Kunsthandbucher, reich illustrirt: A.v. Heyden's Trachtenkunde der Culturvolker Europas.(4 Mk.) Sales Meyer's Handbuch der Ornamentik (1O Mk.) Desgleichen der Schmiedekunst (4 Mk).F.Luthmer's Edelschmiedekunst, Gold und Silber (4 Mk.) Leipzig 1888. Gr. 8. In 4 Orig.-Lwbanden.
+- Hfzbande.
+- 206 Seubert. Allgemeines Kinstlerlexikon. 3 Bande. Stuttgart 1879. Eleg.
+- 207 Gust. A. Seyler. Geschichte der Siegel. Reich illustrirt. Leipzig,
+- 208 P. de Simone. Il sacro tesoro Rossi (25 tavole) e storici Cimeli (3 tav.), phototypirt von Danesi-Rom 1890.Gr. fol. Cart.
+- Friesenhahn 1894.Gr.8.Eleg.Origband.
+- 209 Th.Simons. Aus altromischer Zeit. Kulturbilder. Mit Illustrationen von Alexander Wagner. Pracht-Ausgabe.Berlin 1872-78.Gr.4. In 4 Orig.-Lwbanden.
+- 210 M.L. Solon. The ancient art stoneware of the low countries and Germany: or Gres de Flandres" and Steinzeug", its principal varieties etc. Illustrated with 25 copperpiate etchings and 2i0 illustrations in text. 2 yol. London 1892. Foi. Nummerirtes Exemplar auf holland. Papier. Originalband.
+- 211 Origbande (Einband etwas beschadigt).
+- The South Kensington Museum. Examples of the works of Art in tae Museum and of the decorations of the building with brief descriptions. 2 vols. With 176 plates. London, Sampson Law 1881-82. Kl. fol.
+- 212 Stieler's Handatlas in 95 Karten in Folio-Doppelformat. Gotha 1882. In Halbleder-Einband.Gut erhaltenes Exempiar.
+- 213
+- Joh. Szendrei. Ungarische kriegsgeschichtliche Denkmaler in der Millenniums-Landes-Ausstellung. Uebersetzt von J.v. Reymond-Schiller. Mit 900 Abildungen. Budapest 1896.Kl. 4.Hfzband.
+- 214 Tapestry of Bayeux. Published by the Society of Antiquaries of London July 1st 182223. 17 Tafeln. imp. qu. fol., farbige Kupferstiche. Dazu der Text ,History of the Tapestry"handschriftlich. In i Hfzband.
+- 215
+- P. Telge. Prahistorische Goldfunde.Mit 14 Abbildungen. Berlin 1885. Gr.4.Broch.
+- 216 Franz Trautmann. Kunst und Kunstgewerbe vom frihesten Mittelalter bis Ende des XVIII. Jahrhunders. Hand- und Nachschlagebuch. Nordlingen 1869. Hfzband.
+- 217 Trincier oder Vorleg-Buch von Giac. Procacchi. In's Hochdeutsche versetzt und mit den signirten Kupferstichen auf's best und feissigste gezieret. Leipzig1620. (incl. Titel).Schwlederband.
+- 218 Vases en gres des XVI. et XVII siecles de la collection de M. W. de Weckerherlin a la Haye (1860). Gr.4. Titelblatt fehlt.41 Blatt Photographien nebst der Vorrede.In Orig.-Lwd.-Mappe.
+- 219 Vereinsgeschenk des Sachsischen Kunstvereins auf das Jahr 1895,1896, 1897 u. 1899. Mit je 5 feinen Radirungen. Fol. In Umschlagen.
+- 220 Viollet-le-Duc. Dictionnaire raisonne du mobilier francais de lepoche carlovingienne a la renaissance. Mit zahlreichen Illustrationen im Text,sowie vielen lithogr. Tafeln. 6Bande. Paris 1872-75. Hfzbande.Gut erhaltenes Exemplar.
+- 221 Dictionnaire raisonne de larchitecture francaise du Xl.an XVI. siecle.. Reich illustrirt..10 Bande. Paris 1875. In 10 Hfzbanden.
+- Schones Exemplar.
+- 222-224 H.Vopel. Die altchristlichen Goldglaser. Mit 9 Abbildungen im Text. Freiburg 1899. Gr.8. Broch.Dahlem.Das mittelalterlich romische Lapidarium und die vorgeschichtlich-romische Sammlung zu St. Ulrich in Regensburg. 1890. Das Amphitheater Vindonissa
+- 225 Die Waffensammlung des Grafen S. D. Scheremetew in St. Petersburg, beschrieben von E. v. Lenz. Mit 26 Lichtdrucktafeln. Leipzig 1897. Fol.Orig.-Lwbd.
+- von Otto Hauser. 1898. Hlbwband.
+- 226 Waffensammlung Kuppelmayr-Munchen. Katalog mit 30 Tafeln Lichtdrucken, sowie Portrait des M. K.; nebst Versteigerungsverzeichniss 1895.Gr.fol.Hlwbd.
+- 227 Mit Portrait.
+- Wagenseil.Ullrich von Hutten's Lebensbeschreibung. Nurnberg 1823.Pappband.
+- 228 Otto Wanckel. Die Sammlung des kgl. sachsischen Alterthumsvereins
+- zu Dresden in ihren Hauptwerken. 10o Blatt in Lichtdruck (fehlen die ersten 10 Tafeln). Text von Ed.Flechsig. Dresden 1900. 4.Wanckel's Fihrer durch das Museum des Alterthumsvereins. 1895, broch.
+- 229
+- Warnecke.Die mittelalterlichen heraldischen Kampfschilde in der St. Elisabeth-Kirche zu Marburg. Mit 21 Lichtdrucktafeln. Berlin 1884.4Cart.
+- 230 A.Weckerling. Die Romische Abtheilung des Paulus-Museums der Stadt Worms. 2Thle. mit 21 Taf. Abbildungen. Worms 1885-87. Hblwbd.
+- 231 Herm. Weiss. Kostumkunde. Geschichte der Tracht und des Gerathes im Mittelalter vom IV.—XIV.Jahrhundert. Mit vielen Holzschnitten. Stuttgart 1864. Hfzband.
+- 232
+- L.Weisser.Bilderatlas s zur Weltgeschichte. 146 Tafeln mit iber 5000 Darstellungen. Mit erlauterndem Text von H. Merz. 4. Auflage. Stuttgart 1885.Gr.fol.In Orig.Hfzband.
+- 233 Allgemeine Weltgeschichte... Von Th. Flathe,F.Hertzberg,F. Justi u.A. Mit zahireichen Abbildungen, kunst- und kulturhistor. Beilagen, Karten etc.12 Bande und Register zu Bd.1—12. Berlin,1885-92. Gr.8. In 13 eleg. Hfzbanden (Lpr. 180 Mk).
+- 235 Ch. Yriarte. Autour des Borgia,les monuments,les portraits, Alexandre VI, Cesar, Lucrece, 1épee de Cesar, loeuvre d'Hercule de Fideli,les appartements Borgia au Vatican. Etudes d'histoire et d'art. Mit 18 farbigen, schwarzen und Kupfertafeln und 156 Illustrationen. Paris, J. Rothschild 1891. Gr.4.Nummerirtes Exemplar in eleg. Hbkalblederband.
+- 234 Ad. von Wolfskron. Die Bilder der Hedwigslegende. Nach einer Handschrift vom Jahre 1353. Mit Auszug des Originaltextes und histor.archaologischen Anmerkungen. 61 Abbild.auf 32 Tafeln, Wien, 1846. Gr.fol.Cart
+- 236 A. Worsaae. Afbildninger fra det Kongelige Museum for nordiske Oldsager i Kjobenhavn 1854. Gr.4. Mit sehr zahlreichen Abbildungen der Alterthimer.Angebunden: Das Museum fur nordische Alterthimer in Copenhagen. 1880. Illustrirter Catalog. Hfzband.
+- 4 Hfzbanden.
+- 237 Zeitschrift des Dresdener Kunstgewerbevereins. Reich illustrirt und mit Kunstbeilagen.Jahrg.189498. Leipzig 1S95-98. Gr. 4. In
+- 238 Zweihundert Bildnisse (Holzschnittportraits) und Lebensbeschreibungen beruhmter deutscher Manner. 2. Auf. Leipzig,G. Wigand 1857. Hlwband.
+- 239 R. Zschille und R. Forrer. Die Steigbigel in ihrer Formen-Entwickelung. Charakterisirung und Datirung der Steigbigel unserer Culturvolker. Mit 20 Tafeln (167 Abbild.) und anderen Abbildungen im Text. Berlin 1896. Gr. fol. Fleg. griner Maroquinband mit Silberpressung.
+- 240
+- 241 Daheim. Illustrirtes Familienblatt. Jahrg.1873-1893 und 1895-1898. Leipzig. Gr.4. In 25 Hlwbanden. Ferner von Jahrgang 1900 die Nummern 1—39.
+- Der Sporn in seiner Formen-Entwicklung. Mit 20 Tafeln und 188 Abbildungen im Text. Berlin 1891. Gr.fol. In eleganter brauner Maroquin-Mappe.
+- 242 Gartenlaube. Illustrirtes Familienblatt. Jahrg. 1873-1888 und 1890, 1891,18931898. Leipzig. Gr.4. In 24 Hlwbanden. Ferner Jahrgang 190o in Einzelnummern.
+
+## Convolute.
+
+- 243 I Blatt Facsimiles von Handzeichnungen der Sammlung der Uffizien zu
+- 244 2! Blatt Photographien und 7 Lichtdrucke nebst Druckbogen des Kata-
+- Florenz.4.
+- logs der Zschille'schen Waffensammlung, nebst Manuskript und Zettelkatalog. 16 Blatt Reproductionen von Turnieren, Ristungen etc. Fol.
+- 245 Vier Photographien von antiken Skulpturen und Ornamenten. Fol. 7 desgleichen Colner Architekturen.4. und 3 Tafeln mit Medaillen und Plaketten von O. Roty, qu. fol.
+
+## Kunstkataloge.
+
+- 247 Rud. v. Berthold 1885. Z. Thl. mit Preisen. Hfzband. u. 1 desgl., broch.4.
+- 246 Collection Ralph Bernal 1855. Lwbd. Gr.8.
+- 248 一 Edw. Brett 1895. Collect.of armur and arms. Illustr. Cart.
+- 250 一 Dish-Coln 188l. Mit den Preisen. Illustrirt.4.Ledereinband nach einem Nurnberger Original v. 1521.
+- 249 A. Castellani-Rom 1884. 2 Exempl., 1 illustrirt, 1 nicht illustr. 4,broch.
+- 251
+- 252 一 Lor.Gedon 1884.Mit Preisen. Illustr.Hfzband.4.
+- 一 Eug. Felix 1886. Mit Preisen.
+- Illustr.Hfzband.4.
+- 253 4.Broch.
+- 254-256 Ch.Hammer-Stockholm. Kunstsamml.Ser.I-VI （1892--95) (mit Preisen） Schuster- Bruissel, Schuldt -Hamburg, Gubler- Zurich. Illustrirt. 3 Hfzbande. Gr.4.
+- 257
+- Georg Hirth 1898. Mit 71 Kunstbeilagen.4
+- Th.Hoech-Minchen 1892.Fol. Hfzbd.
+- 25859 -Kuppelmayr-Minchen 1896 (H. Abth.) Zwei Exemplare mit je 30 Lichtdrucktafein. Gr. fol. broch.—Desgleichen IlI. Abth.; Coil. Ullmann-Minchen 1897 u. W. Douglas'sche Glasgemalde. Die ersteren mit Preisen. Gr. 4. Hfzbd., sowie 8o-Katalog der I. Collect. mit Preisen.Hlwbd.
+- 260 6l Collection Mention et Wagner 1838 (Armes anciens). Mit 4 Taf. Radir. Hlwband.,kl. 4.—C.A.Milani 1883. Mit Preisen. Hfzband.,gr. 8.
+- 2 Bande mit vielen Kunstbeilagen. Fol. Broch.
+- 26263 一 Ad. Liebermann 1894.Gemaldegalerie und Kunstsammlung.
+- Collection Herzog v.Osuna und Aug.Hartel-Strassburg 189O. Z.Thl.
+- 264 mit Preisen. Hfzband.,gr. 4.
+- 265 v.Parpart-Hinegg 1884.Mit Preisen.Hfzband.4.
+- 一 Mit Preisen.Eleg. Hfzbande.,gr.8.
+- 26667 Joh. Paul-Hamburg 1S82 und A.Pickert-Nirnberg 1881-82.
+- 268 Richards-Rome 1890. Mit 29 Kunstbeilagen 4. Cart. Desgleichen,
+- 269
+- 一 nicht illustrirt. Broch.
+- 一 Museum A. Riedinger-Angsburg; M. Nelles, Paul Henckels, A. Diez, C.Roux etc. 1894-96. Fol.In 1 Hfzband.
+- 270 一
+- Galerie SchonlankBerlin 1896. Illustrirt. Fol., broch.
+- 271 一 M. Schubart-Muinchen 1899. Illustrirt. Fol. Lwband.
+- 272
+- 一 E. Secretan-Paris 1889, tome HI (objets d'art). Mit Kunstbeilagen. Fol.Broch.
+- 一 Prof. Seyfer-Stuttgart,Abth. I/H 1887-88. Illustrirt. Kl. fol.
+- 273 Eleg. Hfzband.
+- 274 一
+- Ch. Stein-Paris 1886. Illustrirt. Kl. fol. Hfzband.
+- 275 E.v.Waldenburg 1894. Lanfranconi-Pressburg 1895. Mit Kunst-
+- 一 beilagen. Fol. In 1 Hfzband.
+- 276 一 H. Wencke-Hamburg 1898. Mit Kunstbeilagen. Fol. Broch.
+- 277 von Blome,von Donop,von Robert-Wiesbaden,Wurster-Strassburg, Galerie Fedor Zschille. 5 illustr. Kataloge, 4, broch.
+- -278 一 Diverse a.d.Jahren 18861896. Illustr. 4- fol. In 11 Hfzbden.
+- 279 一 Diverse a.d.Jahren 188l-1895. 8-4.In 7Hlwd.-u.7Hfzbden.
+- 280 Convolut. Album fur Jagdfreunde,illustrirt. Lpz.Fol.-- Album der Schlosser u. Rittergiter v. C. E. Zschille.Grossenhain 1895.Heft I. Ebenso erste Lieferung von Andree's Handatlas (1886). Diverse Einzelnummern von Zeitschriften,meist a. d. Jahrgang 1899/1900. Geschaftskataloge u.v.A.
+- -281 Ausstellung Grossenhain 1897.Lwbd. Diverse Festschriften und Berichte, Kunst- und Baumschulen-Kataloge,Varia, Krahe's Korb. weidenkultur 1883, F. Schweyger's Chronik der Stadt Hall 1303-1572, herausgeg.v.D. Schonberger, 1867, broch. Katalog des Reichs-PostMuseums, illustrirt. Berlin, 1897.Gr. 8. broch.
+- 282 1 Ausstellungs- und Museumskataloge, ca. 30 Stick.
+- 283
+- Reisebicher etc., ca. 50,darunter 9 Baedeker (1855—1885) und Amthor's Tyrolerfihrer 1872.
+
+<!-- image -->

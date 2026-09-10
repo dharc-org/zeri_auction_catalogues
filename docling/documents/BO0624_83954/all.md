@@ -1,0 +1,934 @@
+## CONDITIONS DE LA VENTE
+
+Elle sera faite au comptant.
+
+Les acquereurs paieront dix pour cent en sus des encheres.
+
+L'exposition mettant le public a meme de se rendre compte de 1'etat et de la nature des objets, il ne sera admis aucune reclamation une fois l'adjudication prononcee.
+DESIGNATION
+
+## Tableaux Anciens
+
+<!-- image -->
+## BARTOLOMMEO FRA
+
+(BACCIO DELLA PORTA)
+
+(I475-15I7)
+
+## La Vierge,Jesus, Saint Jean et Saint
+
+## Joseph.
+
+La Vierge, assise a droite, de trois quarts a gauche,orte,sursongenoudroitreleve1'Enfant Jesus nu, qui de la main droite dessine un geste de benediction,au dessus de la tete de Saint Jean le contemplant,le genou gauche a terre.
+
+La Vierge est vetue d'un costume rouge pale:une draperie bleue enveloppe la partie inferieure du corps,et le genou gauche s'abaisse en une attitude de genuflexion. Ses cheveux blonds sont en partie enserres dans un beguin de batiste blanche.
+
+appuye sur un baton, penche la tete en avant, et admire les deux enfants. Il est vetu d'un costume bleu et porte sur les epaules une draperie jaune.
+
+Derriere le groupe, Saint Joseph, debout,
+
+Panneau.Haut.1m15;Larg.omSo.
+## BARTOLOMMEO FRA
+
+(I475-15I7)
+
+## 2.-- Sainte famille.
+
+La Vierge, a demi agenouillee, presque de profil a gauche, porte sur ses genoux l'Enfant Jesus nu qui s'appuie de la main droite a la croix de bois que Saint Jean, agenouille devant lui tient de la main droite.La Vierge estvetue d'un costume rouge et d'une draperie verte;un voile leger laisse transparaitre ses cheveux blonds roux.Derriere les deux enfants Saint Joseph est accoude,meditatif. Les figures se detachent sur un fond de paysage qu'on apercoit entre deux pilastres.
+
+Bois.Haut.o97;Larg.om85.
+
+## BOUT
+
+(Genre de PIERRE)
+
+3.— Les Bords du Rhin.
+
+Toile fixee bois. Haut.cm41;Larg. om5o.
+## BUONAROTTI (dit MICHEL ANGE) (I475-1564)
+
+## Le Serpent d'airain.
+
+Composition pour un écoincon. Dessin a la sepia rehausse de blanc.
+
+Le papier porte plusieurs monogrammes de collections:Josuah Reynolds; de Triquetti, etc.
+
+<!-- image -->
+
+Papier.Haut.om36;Larg.om50.
+
+<!-- image -->
+## CANALETTO (ANTOINE)
+
+(Venise1697-1768)
+
+## 5.—Venise.
+
+A droite, le long du quai des Esclavons, des gondoles sont amarrees. Puis voici le Palais des Doges,la Piazzetta,la Libreria,etc...En avant de la Piazzetta des bateaux sont a 1'ancre.Puis de l'autre cote du canal, a gauche on apercoit la Dogana et Santa Maria della Salute.Dans le ciel bleu, des nuages blancs s'envolent, empruntant au soleil de belles lumieres blondes : sur la Piazzetta des personnages se promenent.
+
+Peinture de belle qualite et dans un parfait etat de conservation.
+
+Toile.Haut.om43;Larg.om65.
+
+<!-- image -->
+## 7
+
+## CLEEF (Ecole de) (MARTIN VAN) (Anvers -xvre siecle)
+
+## 6. — Le Christ aux epines.
+
+Il est vu de face jusqu'a la poitrine,en robe rouge, les mains croisees.Il porte sur la tete la couronne d'epines dont les pointes acerees font goutter sur ce front des larmes de sang. Il a les yeux injectes et ses paupieres rougies laissent couler des pleurs sur ses joues emaciees.
+
+Bois.Haut.om39;Larg.om20.
+
+## COURTOIS (JACQUES) dit le Bourguignon (1621-1676)
+
+## Combat contre les Turcs.
+
+Dans un cirque de montagnes la bataille est menee furieusement par la cavalerie: on apercoit dans la fumee les groupes des chevaux qui galopent affolés et deja le sol est jonche de morts. A gauche, les hommes armes de la lance se pressent, au risque deprecipiter sur lesol un blesse qu'on a hisse sur un cheval blanc.A droite, les pieces de canon demeurent sans servants, tandis que des hommes d'armes, dans un élan fougueux, achevent de determiner la fuite des vaincus.
+
+Toile. Haut.omgo;Larg.Im3o.
+## COURTOIS (JACQUES) dit le Bourguignon
+
+(1621-1676)
+
+8. — Charge de cavalerie.
+
+Panneau rond. Diametre om20.
+
+<!-- image -->
+## CUYP (ALBERT)
+
+(1620-1691)
+
+## 9 L'Embarquement.
+
+A droite, sur le seuil d'un chateau en ruine, tout un cortege de gentilshommes et de nobles dames s'avance;ils vont prendre place dans une galere a voile ou deja d'autres personnages sont descendus.
+
+Au fond,du meme cote,on apercoit une montagne auxflancs delaquelle toute uneville attache ses constructions et dont le sommet est dominepar une cathedrale.
+
+Le ciel clair,ou s'envole des nuages legers, met ses reflets d'argent a la surface de l'eau.
+
+A gauche, au bord de leau,un carrosse est arrete, attele de quatre chevaux.
+
+Du meme cote, un massif d'arbres dresse ses frondaisons epaisses sur l'écran du ciel clair. Dans les premiers plans, quelques vaches sont au paturage A droite, en contre bas du chateau, deux barques sont amarrees.
+
+Signe en bas et a gauche.
+
+Bois.Haut.o75;Larg.1oo.
+## DOYEN (GABRIEL-FRANCOIS)
+
+(Paris 1726-1806)
+
+## 10.—Portrait du jeune Duronceray, frere de
+
+## Madame Favart.
+
+Une tete d'enfant espiegle et spirituel:des cheveux blonds coiffes en desordre: des yeux pleins de malice; un nez puissant,une bouche large aux levres rouges et souriantes; des joues rebondies dont la courbe s'affine en un menton volontaire. Il porte un vetement bariole de rouge et de jaune.
+
+Toile.Haut.om3o;Larg.om25.
+
+## DYCK
+
+(Ecole d'ANTOINE VAN)
+
+## 11. —Jesus et Saint Jean.
+
+Ce sont deux enfants nus qui jouent, caressant, Saint Jean paraissant en adoration devant Jesus. Sur le sol un phylactere porte l'inscription a Ecce Agnus Dei .
+
+Toile.Haut.om65;Larg.om54.
+## ECOLE ALLEMANDE
+
+(xve siecle)
+
+12.—Sainte Famille.
+
+L'Enfant Jesus est endormi sur le sein decouvert de la Vierge et celle-ci d'un geste caressant incline sa tete vers l'enfant. Elle est vetue d'un costume bleu-vert: sur ses cheveux blonds roux un voile est place. Pres d'elle Saint Joseph apparait en capuche rouge.
+
+Sur une table de marbre, devant ces figures, on a pose des fruits: du raisin, une figue et une peche. Derriere les figures, un decor d'ordre architectonique.
+
+Panneau.Haut.om52;Larg.o42.
+
+## ECOLE ALLEMANDE
+
+13. — Crucifiement de Saint Pierre.
+
+Bois. Haut.om75;Larg.om68.
+
+## ECOLE ALLEMANDE
+
+14.— Saint Pierre conduit par un ange.
+
+Bois. Haut. om97; Larg. om63.
+
+## ECOLE ALLEMANDE
+
+15.— Jesus aux portes de Jerusalem.
+
+Bois. Haut. om58; Larg.om62.
+## ECOLE ANGLAISE
+
+(xvIre siecle)
+
+## 16.-L'Aurore.
+
+L'aurore apparait, assise sur un monstre marin, et escortee de deux amours joufflus qui font jouer dans le vent son écharpe de clarte chaude.Elle vient reveiller la terre endormie.
+
+Toile.Haut om73;Larg.om82.
+
+<!-- image -->
+## ECOLE ESPAGNOLE
+
+(xvIre siecle)
+
+17.-Portrait d'Infante.
+
+Cadre en bois sculpte.
+
+Toile ovale. Haut.om3o;Larg. om25.
+
+## ECOLE ESPAGNOLE
+
+(Commencement du xvil siecle)
+
+18.— Saint Gerome lisant.
+
+I1 est assis a l'entree de sa grotte,le torse nu, la tete appuyée sur la main droite. De la main gauche il tourne les feuillets d'un in-folio. Devant lui,une tete de mort; derriere lui son chapeau cardinalice suspendu a une branche d'arbre.
+
+La figure de trois quarts a gauche se detache sur un fonds accentue avec quelques éclaircies de ciel dans la partie superieure.
+
+Toile.Haut.om82;Larg.om66.
+
+## ECOLE ESPAGNOLE
+
+(xvIre siecle)
+
+19.—Madeleine en prieres.
+
+Toile. Haut.om9r;Larg.om7o.
+## ECOLE FLAMANDE
+
+20. La Vierge, lEnfant Jesus, Sainte Anne et Saint Gerome.
+
+Deux volets de tryptique. Bois.Haut.om47;Larg.om2o.
+
+## ECOLE FLAMANDE
+
+21.— Le bon et le mauvais larron.
+
+Deux volets de tryptique. Bois.Haut.om28;Larg.om11.
+
+<!-- image -->
+## ECOLE FRANCAISE
+
+(xVII1e siecle)
+
+22.— Tete de jeune garcon blond.
+
+De trois quarts a gauche: une figure poupine aux joues roses, qui s'encadrent de cheveux blonds.
+
+Etude sur papier. Haut. om26; Larg. om19.
+
+## ECOLE FRANCAISE
+
+(xvIe siecle)
+
+23. Portrait presume de l'Amiral de Coligny.
+
+Bois. Haut. om4o. Larg. om3o.
+
+## ECOLE FRANCAISE
+
+(xvII1e siecle)
+
+24.—Portrait du Comte d'Artois.
+
+Pastel sur velin.Haut. om41.Larg.om32. Ce portrait est le pendant du suivant.
+## ECOLE FRANCAISE
+
+(xVIr siecle)
+
+25.-Portrait de Madame de Provence.
+
+Pastel sur velin. Haut. om41; Larg. om32.
+
+## ECOLE FRANCAISE
+
+(xIxe siecle)
+
+26.—Venus endormie.
+
+Pastel.Haut.om46;Larg.om40.
+
+<!-- image -->
+## ECOLE HOLLANDAISE
+
+(xvre siecle)
+
+27.—Le Christ est ressuscite.
+
+Bois.Haut.om58;Larg.om42.
+
+## ECOLE HOLLANDAISE
+
+(xvr siecle)
+
+28.—Le Christ au roseau.
+
+I1 est represente de trois quarts, presque de face,la tete inclinee verslepaule droite,le torse nu émergeant d'une draperie rouge,le front ceint de la couronne d'epines; les poignets sont ligotes; Jesus tient de la main gauche le roseau qui lui fut mis dans la main, en guise de sceptre.
+
+Bois. Haut.om65;Larg.om49.
+
+## ECOLE HOLLANDAISE
+
+(xvI1 siecle)
+
+29.—Halte de paysans dans la campagne.
+
+Bois.Haut.om77;Larg.om43
+## ECOLE ITALIENNE
+
+(xvi1e siecle)
+
+30. ——Place devant une Eglise, en Italie.
+
+Au fond d'une large allee bordee d'une de depart par deux socles sur lesquels sont assis rangee d'arbres a droite,et marquee a son point des chiens de pierre, on apercoit une église dont le porche s'ouvre au cortege d'une procession.
+
+Dans 1'allee qu'un soleil blond éclaire, des personnages se tournent et mettent un genou en terre, tandis que deux jeunes femmes s'en viennent,distraites par les amusements de deux chiens. Au dessus des frondaisons et de l'édifice, le ciel plane tres bleu avec quelques nuages blancs.
+
+Toile. Haut.om42;Larg.om7o.
+
+## ECOLE ITALIENNE
+
+(xVIre siecle)
+
+31.— Les amours forgerons.
+
+Tous deux, nus, sont en train de marteler une fleche dont ils affinent la pointe.
+
+Toile.Haut.1m95;Larg.1m20.
+
+## ECOLE ITALIENNE
+
+32. — Interieur de forge.
+
+Bois.Haut.om23;Larg.om15. Cadre Louis XIV en bois sculpte et dore.
+## ECOLE ITALIENNE
+
+(xvr siecle)
+
+33.-Figures mythologiques.
+
+Trois croquis a la plume.
+
+Haut.om2o;Larg.om31.
+
+## ECOLE MILANAISE
+
+(xvre siecle)
+
+34.——《Ecce Homo 》.
+
+Bois. Haut. om57; Larg. om45.
+
+## ECOLE ROMAINE
+
+(xve siecle)
+
+35.—Nativite.
+
+Dans l'étable:la Vierge agenouillee est en adoration devant l'Enfant Jesus couche sur un lange.Derriere la Vierge deux bergers agenouilles et deux anges dont un porte une branche de lys. A gauche Saint Joseph assis accoude et derriere lui deux anges. Dans le haut trois cherubins portant un philactere. Au fond,de l'autre cote d'un element architectural, un paysage ensoleille.
+
+Bois. Haut. om35; Larg. om26.
+## ECOLE ROMAINE
+
+## 36. —La Vierge et IEnfant Jesus.
+
+La Vierge est assise de face,vetue d'un costume rouge qu'on apercoit dans l'écartement d'une draperie verte qui lui sert de capuche et de chlamyde. La draperie et le costume sont bordes d'une passementerie d'or dont le decor est fait de lettres onciales. La Vierge porte, assis sur ses genoux, l'Enfant Jesus auquel elle offre un chardonneret qu'elle tient de la main droite.Au-dessus de la tete de la Vierge et de Jesus sont peints des chrismes d'or.
+
+Bois.Haut.om29;Larg. om20.
+
+## ECOLE ROMAINE
+
+(xvIe siecle)
+
+37.—La Vierge, I'Enfant Jesus et Saint Jean.
+
+Bois. Haut. 1moo;Larg. om85.
+## ECOLE DE SIENNE
+
+(xve siecle)
+
+38.—La Vierge et I'Enfant Jesus tenant un
+
+## chardonneret.
+
+La Vierge porte l'Enfant Jesus qui de la main droite lui caresse le cou; de la main gauche
+
+1'enfant tient un oiseau. Les deux figures se detachent sur un fond brun a decor de fleurettes.
+
+Bois.Haut.om47;Larg.om35.
+
+## ECOLE VENITIENNE
+
+(xve siecle)
+
+(Attribué a Carpaccio)
+
+39.—Portrait dhomme.
+
+Bois.Haut. om29;Larg. om24.
+
+## ECOLE VENITIENNE
+
+40. —— Suzanne et les vieillards.
+
+Toile.Haut.1"o6;Larg.155.
+## 41.
+
+## FRAGONARD
+
+## JEAN-HONORE) (Grasse 1732-1806)
+
+Tete de vieillard pour un Saint Mathieu.
+
+Etude d'Italie.
+
+Panneau.Haut.om22;Larg,om17. Cadre bois sculpte.
+
+FRANCK (Ecole des)
+
+42.—La Vierge allaitant l'Enfant Jesus.
+
+Cadre en bois sculpte.
+
+Cuivre.Haut.om22;Larg.om17.
+
+GERICAULT (Attribué a TH.) (Rouen 1791-1824)
+
+43.—Le Christ mis au tombeau.
+
+Le Christ a éte descendu de la Croix et les deux hommes portent le cadavre sur un linceul pour le coucher dans le tombeau.La scene est éclairee par une torche. A droite au fond,un pan de ciel aux nuages qui vont s'eclairer.
+
+Toile. Haut. om8o; Larg. om64.
+## GREUZE JEAN-BAPTISTE)
+
+(Tournus 1725-1806)
+
+## Jeune fille qui pleure la mort de son
+
+## 44.oiseau.
+
+Elle est accoudee,le front dans la main droite,le visage dolent,la tete de trois quarts a gauche et penchee en avant;un ruban de ton grenat pale est passe dans ses cheveux blonds. Un fichu jaune protege son cou degage du corsage decollete. La figure se detache sur un fond gris.
+
+Toile.Haut.om41;Larg.om3I.
+
+<!-- image -->
+## GOLTZIUS (Ecole de HANs)
+
+(xvre siecle)
+
+45. ——Composition allegorique.
+
+Le peintre a voulu exprimer lantithese de 1'eternite reveleepar la foi et de la limite restreinte du temps, percue par le paganisme. A gauche,un jeune enfant, assis sur un banc de pierre que recouvre en partie une draperie gros-bleu.Il tient dela main droite,unepalme ets'appuie sur un sablier, symbole des heures qui fuient,tandis que sous son pied se trouve une tete de mort, symbole des decheances finales.De la main gauche,il designe dans 1e fond,le spectacle de la resurrection,symbole d'eternite,la resurrection selon le dernier acte du Calvaire.
+
+Bois. Haut.om58;Larg.om41.
+
+## GUIDO RENI?
+
+(I575-1642)
+
+46.——Assomption.
+
+Vierge entouree d'une guirlande de fleurs.
+
+Toile.Haut.om43;Larg.om34.
+## GUIDO RENI?
+
+(1575-1642)
+
+47.—Saint Jean-Baptiste.
+
+Dans un encadrement de fleurs.
+
+Toile.Haut.om43;Larg.o34,
+
+HELST (Ecole de) (B. VANDER) (?...-1670)
+
+48. --Portrait d'homme.
+
+Cadre Eouis XIlI en bois sculpte.
+
+Toile. Haut.omS1;Larg.om65.
+
+<!-- image -->
+## HOGARTH (WILLIAM)
+
+(I1697-1764)
+
+## 49. — Un drame dans un bal.
+
+La fete battait son plein: sous la clarte des lustres,aux accents d'un orchestre place dans une loggia, les gens costumes s'en donnaient a cceur joie. Mais voici qu'un jaloux a frappe au cceur un rival heureux.A droite,le moribond se confesse a un moine requis hativement, tandis qu'un chirurgien sonde sa plaie. A gauche, 1e coupable,les mains ligotees,repond a linterrogatoire des magistrats assis a une table, tandis que des exempts le retiennent avec une nervosite quelque peu brutale. Au premier plan a droite, une femme, sans doute, 《 unique objet d'un tel ressentiment》 s'est evanouie.
+
+Il y a encore de la foule autour de chaque groupe, mais les gens de police, armes de la hallebarde, s'efforcent de presser cette foule vers laporte.
+
+Toile. Haut. om75; Larg.omgo.
+## HOLBEIN (Ecole de HANs)
+
+## 50.—Portrait d’un seigneur allemand.
+
+Il est represente de trois quarts a droite,la bouche serieuse,le nez puissant,les yeux calmes.
+
+Sous son bonnet noir, ses cheveux blonds debordent.
+
+Il est vetu d'un manteau a col de fourrure noir, dont le revers s'ouvre sur un plastron rouge.
+
+La figure se detache sur un fond rouge brique.
+
+A gauche, on lit l'inscription:
+
+<!-- formula-not-decoded -->
+
+A gauche en bas, dans un ecusson, se trouve une armoirie representant un dragon,la langue tiree.
+
+Blason en bas a gauche.
+
+Bois.Haut.om4o;Larg.o"32 1/2.
+## HOLBEIN (Ecole de HANs)
+
+## 51.-Portrait de femme.
+
+Elle est representee de trois quarts a gauche, en corsage de velours noir a passementerie d'or, et la tete coiffee d'un bonnet debatisteblanche dont elle tient une bride de la main gauche.
+
+De la main droite,dont 1'indexet 1'annulaire sont ornes de bagues, elle tient, en un geste precieux,un petit bouquet fait d'une pensee et de quelques myosotis.
+
+L'index de la main gauche est orne de cinq anneaux et d'une bague d'or a chaton de pierrerie, a droite en bas, on apercoit un arbre heraldique.
+
+Sur le fond brun,on lit deux inscriptions:
+
+AN.D A gauche 1520
+
+ALT A droite 30
+
+Bois.Haut.om4o;Larg.om32 1/2.
+## HUET (NICOLAS)
+
+52.-Tete de loup.
+
+Etude sur papier. Haut. om44;Larg.om34.
+
+## JEAURAT (ETIENNE)
+
+(1699-1789)
+
+53.—Chapelle de la Vierge chez les Benedictines.
+
+Monogramme au bas a droite.
+
+Toile.Haut.om4o;Larg.om32.
+
+## JORDAENS (J.)
+
+(I593-1678)
+
+54. — Ulysse et Nausicaa.
+
+Projet t definitif de decoration pour un triomphe.
+
+Toile.Haut.1m1o;Larg.1m35.
+## JORDAENS (Ecole de JAcQUEs) (1593-1678)
+
+## 55.—L'Abondance.
+
+Une femme portant un enfant et deux personnages, 1'un barbu, l'autre nere,portant des fruits ou soufflant dans une trompe.
+
+Bois. Haut.1m15;Larg.Im78.
+
+LEPRINCE (d'apres J.-B.) (1733-1781)
+
+56.— LAmour a lEspagnole.
+
+Toile. Haut. om3o; Larg.om22.
+
+## MORALES?
+
+(1509-1586)
+
+Saint Francois aux Stigmates, Saint Bernard.
+
+57.—
+
+Deux volets de tryptique.
+
+Bois.Haut.om79;Larg.om32.
+## NEEFS (Ecole de PETER) (Anvers 1570 - 1651)
+
+58.-1 Interieur de cathedrale.
+
+Bois.Haut.o3o;Larg.o46.
+
+OSTADE (EcOle d'ADRIEN VAN)
+
+59. Interieur de ferme.
+
+Dans un encombrement de poutres,de bassines, de paniers,au fond, des bonshommes debout ou assis, se chauffent devant l'atre.L'interieur de la grange est éclaire par un blond rayon de lumiere.Par une petite baie a droite, on apercoit un paysage.
+
+Bois.Haut.om41;Larg.o36.
+
+<!-- image -->
+## PERUGINO (Ecole de)
+
+## 60.—Orphee et Euridyce.
+
+Assis sur un rocher et vu de trois quarts a gauche,le poete couronne de laurier appuie sur son genou,de la main gauche,une syrinx, tandis que, du poignet droit, la main appuyee a la hanche, il porte un petit barillet. Une gourde de berger pend a sa hanche gauche. Derriere lui, debout,et s'appuyant  son paule,Euridyce cheveux blonds denoues,incline coquettement sa tete vers l'épaule gauche. Les deux figures, aux graces juveniles, se detachent sur un fond de paysage: a gauche, un arbre mort auquel des flutes sont suspendues; a droite, des bceufs couches dans l'herbe rare. Au fond une montagne sous un ciel chaud.
+
+Bois.Haut.om2o;Larg.o20.
+
+<!-- image -->
+## POURBUS (Ecole de)
+
+(xvr siecle)
+
+## 61.—Portrait d’'un jeune seigneur.
+
+1lestdebout,detrois quartsa gauche,la main gauche a la hanche,la main droite portant un chapeau,le bras allonge et pendant naturellement.
+
+Il est vetu d'un pourpoint de drap noir avec desmanches de satin bleu.Au bord des manches des rebras de batiste blanclie garnis de pointcoupe. La tete fine aux cheveux blonds, coupes ras, aux traits accentues, pose sur une fraise de batiste blanche a tuyautes souples.
+
+Bois.Haut.om79;Larg.om57.
+
+## POUSSIN (NICOLAS)
+
+(1594-1665)
+
+62.—Bacchanale.
+
+Au son du tambourin, devant un temple,les bacchants et les bacchantes dansent avec ivresse. Au premier plan,une nymphe et un enfant se sont endormis. A droite, assis sur un banc de pierre, Bacchus et un Sylene vident la coupe d'or.
+
+Toile.Haut.om7o;Larg.omg6.
+## POUSSIN (Ecole de NIcoLAs)
+
+63. — Paysage agreste anime de figures.
+
+Toile.Haut.om33;Larg.om42.
+
+REMBRANDT (d'apres)
+
+64.-Portrait d'homme.
+
+Bois. Haut.om25;Larg.om17.
+
+REMBRANDT (Genre de)
+
+65. — Effet de clair obscur.
+
+Toile. Haut.om17;Larg. om21.
+
+RIBERA  (Ecole de)
+
+66.--Le Bon Samaritain.
+
+Toile.Haut.1m61;Larg.2m13.
+## RUBENS (Attribue a PIERRE-PAUL) (I577-1640)
+
+67.—La Vierge et I'Enfant Jesus.
+
+La Vierge est debout pres d'une console:elle est vue presque de face,la tete inclinee vers lepaule gauche:elle est vetue d'un costume rouge et d'une draperie noire au tissu leger dont la partie superieure est retenue a la coiffureet fait chanter l'or fauve des cheveux roux.De ses deux mains elle soutient l'Enfant Jesus nu,represente de trois quarts a droite et debout. Ses pieds reposent sur un lange de ton creme et une lingerie blanche. Les figures se detachent vivement sur unfond sombre.
+
+Bois.Haut.1mo5;Larg.om63.
+
+<!-- image -->
+## RUBENS (Ecole de P.-P.)
+
+## 68.—F Andromede et Persee.
+
+A droite,contrelerocher,lajeune femme est attachee debout,dans sa nudité blonde.Persee, en armure,un manteaurouge flottant surl'epaule gauche, se hate de denouer ses liens et ses mains, dans cet effort sauveur, ont d'amoureuses caresses.
+
+Aux pieds de la jeune femme, deux amours aux chairs roses aident de leurs petites mains le heros empresse.
+
+A gauche, deux autres amours se sont hisses, en jouant, sur le cheval aile.
+
+Plus a gauche encore, on apercoit émergeant du flot tumultueux le dragon desormais impuissant a garder sa proie.
+
+A 1horizon le ciel s'éclaire d'une clarté
+
+fauve.
+
+Toile.Haut.1m35;Larg.1mg0.
+
+## RUBENS (Ecole de P.-P.)
+
+69.—Femme allaitant un enfant.
+
+L'enfant est couche et au-dessus de lui sa mere se penche,approchant de sa bouche son sein puissant.
+
+Ce tableau est un fragment d'une esquisse definitive pour le tableau "Krieg und Frieden" inscrit a la pinacotheque de Munich sous le numero 755.
+
+Bois. Haut.om54;Larg.om42.
+## SANZIO (Ecole de RAPHAEL)
+
+## 70. ——Vierge et Enfant Jesus.
+
+La Vierge est assise, de trois quarts a droite, la tete penchee en avant. Elle contemple l'Enfant Jesus qui joue, nu, entre ses bras. Elle est vetue d'un corsage rose et d'une draperie bleue.
+
+Toile. Haut.om36;Larg.om27.
+
+<!-- image -->
+## SASSO FERRATO (d'apres) (Copie ancienne)
+
+71. — La Vierge et IEnfant Jesus endormi.
+
+Cadre bois sculpte. Bois.Haut.om6o;Larg.om51.
+
+SARTO (d'AGNOLO dit ANDREA DEL)
+
+(Florence 1488-1530)
+
+72.—La Vierge, I'Enfant Jesus et Saint Jean.
+
+La Vierge est assise,le corps de face,la tete tournee de trois quarts a gauche:elle est vetue d'un costume rouge et retient de la main droite sur sa poitrine,un pan de la draperie verte qui 1'enveloppe en partie. Sur ses genoux, elle tient l'Enfant Jesus qui renverse la tete et contemple sa mere.
+
+DerrirlaVirge,dout,ainteanaptis regarde 1'Enfant Jesus par dessus l'epaule droite de la Vierge.
+
+Bois. Haut.omS2;Larg.om6o.
+
+TESTELIN (Attribue a HENRI)
+
+(1616-1695)
+
+73. —Portrait d'un gentilhomme.
+
+Toile. Haut. o7o; Larg.o"60.
+## 74.
+
+## TOCQUE (Ecole de Louis) (1696-1772)
+
+## Portrait de Gaspard de Fontenay, General-Major au service de Saxe.
+
+Il est represente de trois quarts a droite, en cuirasse,la tete decouverte et coiffee d'une perruque poudree. Le visage aux traits accentues et aux tons incarnadins est marque par la maturite et s'illumine d'une spirituelle expression. Ce pastel aurait éte execute en 1748,a Dresde, par David Muller.
+
+Pastel sur papier. Cadre Louis XV.
+
+Bois sculpte.Haut.om5S;Larg.om44.
+
+VANLOO (CARLE) (Nice 1705-1765)
+
+## 75. —Antoine et Cleopatre.
+
+Cleopatre, assise sur un trone et entouree de ses suivantes, recoit Antoine qui l'invite a prendre place sur sa galere.
+
+Peinture executee sous l'influence de l'Ecole
+
+Venitienne.
+
+Toile.Haut.1moo;Larg.1m30.
+## VECELLO (TIZIANO)
+
+## dit le Titien
+
+(1477-1576)
+
+76. —— L'Adoration angelique.
+
+La Vierge assise de trois quarts a droite porte couche sur ses genoux l'enfant Jesus, nu.Elle le contemple,et 1'adore,les mains jointes.Elle est assistee de deux anges, places a ses cotes, l'un en costume jaune, soutenant de sa main droite les langes de 1'enfant,1'autre en costume brun les mains croisees sur la poitrine.La Vierge est vetue d'une robe rouge et coiffee d'un voile blanc sur ses cheveux roux ondules.
+
+Cadre bois sculpte.
+
+Toile. Haut. 1moo; Larg. om98.
+
+<!-- image -->
+## VECELLO (TizIANo)(Attribué a)
+
+## dit le Titien
+
+(I477-I576)
+
+77. -— Madeleine en prieres.
+
+Madeleine, dans sa grotte, apparait jusqu'a mi-corps : elle leve la tete en un geste d'extase contemplative. Les cheveux sont denoues et de sa main droite relevee elle en ramene les tresses sur sa poitrine decouverte. De sa main gauche elle tient un pli de son vetement. Devant elle, a droite,son livre de prieres est appuyé sur une tete de mort. A gauche, se trouve un vase a parfums en albatre. A droite au fond on apercoit un paysage ou le soleil levant met des clartes faures.
+
+Toile.Haut.om84;Larg.om71.
+
+VELASQUEZ (d'apres)
+
+78.—Portrait d'un seigneur.
+
+Toile.Haut.om65;Larg.om51.
+## VIGEE-LEBRUN (LOUISE-ELISABETH)
+
+(1755-1842)
+
+## 79.-Portrait de Madame Tripier-Lefranc.
+
+Assise sur un tertre au pied de gros arbres, coiffee d'un grand chapeau de paille a ruban jaune,vetue d'une robe de gaze blanche decolletee,les bras nus et enveloppee d'une écharpe de tulle rose, son bras gauche repose aur un album a dessins,elle tient dans la main droite un porte-crayon; derriere, une plaine ornee de quelques arbustes.
+
+Signe a droite sur le tertre et dedicace a Mme Tripier-Lefranc.
+
+Toile.Haut.om32,larg.om25.
+
+VIGEE-LEBRUN (LOUISE-ELISABETH)
+
+(1755-1842)
+
+80.—1
+
+Petite fille endormie.
+
+Une petite fille a la chevelure blonde et frisee repose sur un coussin de velours rouge.
+
+Toile.Haut.o48,larg.om42.
+## WATTEAU (d'apres ANToINE)
+
+81. —Recreation champetre.
+
+Toile. Haut. om52;Larg.o58.
+
+## ZAMPIERI (dit le Dominiquin) (1581-1641)
+
+## 82.—Le Miracle de Saint Joseph Calasansio.
+
+Une mere ayant par megarde etouffe son enfant pendant son sommeil,court affolee mettre dans les bras du Saint son enfant inanime; pres d'eux, le pere de 1'enfant et les grands parents.
+
+Toile. Haut. 1m76;Larg.2m27.
+
+<!-- image -->
+## Tableaux Modernes
+
+<!-- image -->
+## CABAT (LoUIS)
+
+83.—
+
+Chaumiere a Bercenay-en-Othe.
+
+Effet du matin. Signe a gauche en bas du timbre de la vente:
+
+no174.
+
+Panneau.Haut.om12;Larg.om22.
+
+## BRAECKLEER (H. de)
+
+(x1xe siecle)
+
+84.-La Salle du Moyen-Age dans un Musee.
+
+Signe a gauche en bas:Henri de Braeckler.
+
+Toile.Haut.om52;Larg.om38.
+
+## ECOLE ANGLAISE
+
+(x1xe siecle)
+
+85.-La Villa d'Horace.
+
+Vue prise du couvent San-Cosimato,a Rome.
+
+Carton.Haut.om34;Larg.om45.
+## ECOLE ANGLAISE
+
+(XIxe siecle)
+
+86.—Les Moussieres dans la foret.
+
+Toile. Haut.om58;Larg.om46.
+
+## ECOLE FRANCAISE
+
+(xIxe siecle)
+
+87.—Fleurs dans un panier.
+
+Toile.Haut. om38;Larg.om43.
+
+GRANDSIRE (E.)
+
+(Orleans 1825-?...)
+
+88.-Les Bords de la Marne.
+
+Entre les rives boisees,la riviere coule, empruntant au ciel chaud des reflets argentes.
+
+Lelong des rives quelques barques sont occupees par des pecheurs.Les grands arbres, audessus de 1'eau, balancent leur panache aux feuillages mordores par l'automne. Au fond,a un tournant de la riviere, on apercoit les deux arches d'un pont de pierre.
+
+Signe a gauche en bas : E. Grandsire.
+
+Salon de 1868.
+
+Toile.Haut. om67;Larg.Imoo.
+## PECRUS (CHARLES-FRANCOIS)
+
+89. -— La Rose.
+
+Salon de 1857. Signe et date a droite: 1857.
+
+Bois. Haut. om32;Larg. om23.
+
+## ROQUEPLAN (CAMILLE)
+
+90.-Les Grands pres le long du hameau.
+
+Au premier plan,une riviere, puis les pres, puis les maisons du hameau, groupees autour du clocheret éclairees par un ciel d'ete:au devant de l'azur planent des nuages gris.
+
+Signe a droite, en bas : C. Roqueplan.
+
+Papier maroufle sur toile. Haut. om1S;Larg.om4o.
+
+## TROUILLEBERT
+
+91.—Andromede enchainee.
+
+Signe a gauche en bas: Trouillebert.
+
+Toile.Haut.om35 1/2;Larg.om2I 1/2.
+## TROUILLEBERT
+
+92.—Bouquet d’arbres sur une hauteur.
+
+Signe a droite en bas : Trouillebert.
+
+Toile.Haut.om22;Larg.om27.
+
+## TROUILLEBERT
+
+93. — Bouquet d'arbres au bord d'une riviere.
+
+Toile.Haut.om41;Larg.om32.
+
+## TROUILLEBERT
+
+94.-Le Barrage de l'lle Adam.
+
+Toile.Haut.om5o;Larg. om65.
+
+## WATTIER (EMILE)
+
+95.— Nymphes et Satyres.
+
+Au fond du bois sacre,pres de la source,les nymphes ont ete surprises par deux satyres, a la grande joie de Venus qui apparait sur son char d'or,traine par des colombes dont lamour tient les guides.
+
+Signe a droite en bas:Emile Wattier.
+
+Toile.Haut.om27;Larg.om35.
+## Sculptures
+
+<!-- image -->
+- 96.- BUSTE ANCIEN en marble blanc representant
+- une tete de Faune, la bouche legerement entr'ouverte.
+
+Hauteur y compris le socle: om55.
+
+- 97.-BUSTE EN MARBRE, faisant pendant au precedent, representant également une tete de Faune.
+
+Hauteur y compris le socle:om55.
+
+Le premier de ces bustes,par sa facture et 1expression du visage,rappelle la maniere de Michel-Ange dont il se rapproche de tres pres; le second a ete execute posterieurement pour lui faire pendant.
+
+Ils reposent tous deux sur des socles en marbre breche.
+
+98.-STATUE EN BRONZE REPRESENTANT APOLLON.Patine vert-antique, socle en marbre rouge.
+
+Hauteur y compris le socle : om77.
+<!-- image -->

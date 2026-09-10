@@ -1,0 +1,2730 @@
+## CATALOGUE.
+
+## First Day's Sale.
+
+## On THURSDAY, MAY 17, 1928,
+
+AT ONE O'CLOCK PRECISELY.
+
+## DUTCH AND FLEMISH SCHOOLS.
+
+## DRAWINGS.
+
+## REMBRANDT VAN RYN.
+
+## 1PORTRAIT OF MAURITS HUYGENS
+
+Eldest son of Christiaen Huygens, the elder, born 1595;was Secretary of the "Raad van Staet";died 1642
+
+Three quarter-length,seated, turned slightly to the right,in rich dress, with black cloak falling in folds from his left shoulder,white linen collar;his right hand rests on the arm of a chair,holding his large black hat in his left hand; seen through a sculptured window with arched top and dated1634
+
+Signed “REMBRANDT F,”
+
+A remarkably fine work
+
+On vellum, in sanguine, crayon, bistre and wash— 14in.by10in.
+
+From the Aylesford Collection Echibited at the Burlington Fine Arts Club,1921-2, No.29
+
+Illustrated in "The Holford Collection, Westonbirt," plate lecix
+
+See Illustration
+
+<!-- image -->
+## REMBRANDT VAN RYN (AFTER).
+
+## 2PoRTRAIT OF MAURITS HUYGENS
+
+A copy, on paper, of the previous Lot, done by Josi for Joos van Amstel's facsimiles (1821)
+
+14in.by 10in.
+
+From the Warwick Collection
+
+## SIR PETER PAUL RUBENS.
+
+## 3 PORTRAIT OF HELENE FOURMENT
+
+The second wife of the Artist,whom he married on
+
+December 6th,1630,being then 53 while she was a girl of 16. She was the eleventh child of Daniel Fourment, silk and carpet merchant,and Clara Stappaerts,and was married a second time to Jean Baptiste de Brouchoven.
+
+Half-length fgure,full-face, in rich dress, with puffed sleeves slashed and showing under-dress, lace collar, pearl necklace with pendant jewel and chains,wearing a head-dress,of the shape of an inverted saucer, of black velvet,surmounted bya ball of fringe on a stem-to support the mantilla that falls over her shoulders;her left hand gloved, and holding a small prayer-book; the right hand raised,holding her mantilla
+
+The drawing has been cut away and re-mounted
+
+In crayon and sanguine on white paper-234 in.by 20 in.
+
+No.28
+
+Exhibited at the Burlington Fine Arts Club,1921-2,
+
+Exhibited at the Echibition of Flemish and Belgian
+
+Illustrated in “The Holford Collection, Westonbirt,"
+
+Art,Burlington House,1927,No.570
+
+plate lcvi
+
+See Illustration
+## PICTURES.
+
+## LUDOLF BACKHUYZEN.
+
+## 4A STRONG BREEZE AT SEA
+
+Approaching the front,under main and jib sails,is a large Dutch pinck,beyond her is a similar vessel in close haul,and on the left is a man-o'-war, and two other ships in the distance;masses of clouds pass heavily over the horizon
+
+Signed,and dated 1663
+
+22 in.by 39 in.
+
+Imported fromHamburg in1823 by General Erskine Purchased from Beckford in1839
+
+Echibited at the British Institution,1852,No.9
+
+Echibited at Burlington House,1887,No.58
+
+See Smith's “Catalogue Raisonne,”vol. vi, No.37
+
+See Dr. Waagen's Art Treasures in Great Britain,"
+
+vol. i, p. 203, and Supp. p. 102
+
+See Dr.Hofstede de Groot's "Catalogue of Dutch Painters,"vol. vii, No. 236
+
+Illaustrated in The Holford Collection, Dorchester
+
+House," plate colic
+## NICOLAES BERCHEM.
+
+## 5 LE DIAMANT DE LA CURIOSITE
+
+A pasture, with a hilly foreground, over which are distributed five cows, three sheep, a ram and a goat; by the gate a herdsman is seated,playing on a pipe;a woman also seated,occupied at needlework,with abasket by her side
+
+Signed"BERCHEM"
+
+On panel—9 in.by 12in.
+
+From the Collection of M.Randon de Boisset,1777
+
+From the Collection of M.Lambert,1787
+
+From the Collection of Duc de Praslin,1793
+
+From the Collection of William Beckford,Esq.
+
+Echibited at theBritish Institution,184S,No.10
+
+Echibited at the Art Treasures Exhibition,Manchester,
+
+1857,No.992
+
+Echibited at the British Institution,1867,No.33
+
+Echibited at Burlington House,1894,No.55
+
+Echibited at the Guildhall,1895,No.120
+
+Echibited at The Burlington Fine Arts Club,1900, No.37
+
+Echibited at Burlington House,1908,No.49
+
+Echibited at The Burlington Fine Arts Club,1921-2, No.37
+
+See Smith’s “Catalogue Raisonne,”vol.v, No.53
+
+See Dr.Waagen’s“Art Treasures in Great Britain, vol.ii,p.201
+
+Engraved by Daudet under the title of “Le Troupeal
+
+Hollandois"
+
+Illustrated in "The Holford Collection,Dorchester House,"plate clii
+## 6
+
+## 7
+
+## FERDINAND BOL.
+
+## PORTRAIT OF A YOUNG GIRL
+
+About eighteen years of age
+
+Threequarter-length figure, standing slightly turned to the right,nearly full-face, in black silk dress overlaid with braid in small check pattern, gold-embroidered stomacher; double white lace collar and cuffs, escalloped at the edges, white lace cap, and four rows of pearls round her neck and wrists,pearl drop ear-ring and jewelled rings;holding a black ostrich feather fan in her right hand,her left is held against her waist.
+
+53 in.by 39 in.
+
+Echibited at Burlington House,1893, No.73 Echibited at The Burlington Fine Arts Club,1921-2, No.30
+
+Ilustrated in "The Holford Collection, Westonbirt," plate loccii See Illaustration
+
+## JAN BOTH.
+
+## SAINT PHILIP BAPTIZING THE EUNUCH
+
+A landscape,strikingly bold and grand;the right composed of lofty rocks by the side of which a river flows to the foreground,at which the Saint is in the act of pouring water on the head of the Eunuch; behind them are two negroes with other attendants, and carriage seen under trees in the background
+
+Signed in the foreground,  J. BoTH, FEcrT" (J. and B. connected)
+
+54 in.by 75 in.
+
+From the Collection of Paul Methuen,Esq.,of Corsham Couirt
+
+Echibited at the British Institution,1844,No.46 Echibited at Burlington House,1887,No.94 See Smith's " Catalogue Raisonne,"vol.vi, No. 48 See Dr. Waagen's " Art Treasures in Great Britan" vol. ii, p. 203
+
+Engraved by Browne
+
+Illustrated in "The Holford Collection, Dorchester House,"plate cocic
+## JOOS VAN CLEVE.
+
+## 8 THEHOLY FAMILY
+
+The Madonna,in green and red robes,with a veil over her head,is seated before a table,holding the Infant Saviour,who plays with a rosary round his neck; Saint Joseph,wearing a straw hat,is reading a roll of manuscript;on the table in front are a cut orange,a knife,a glass vase,and napkin;through a window in the background is a view over a river,with hills beyond
+
+Onpanel28in.by21in.
+
+Echibited at the Burlington Fine Arts Club,1892, No.47
+
+Echibited at the New Gallery Winter Echibition, 1899-1900,No.75
+
+Echibited at Burlington House,1893,No.169
+
+Echibited atDisseldorf Kunsthistorische Ausstellung, 1904
+
+Echibited at the Burlington Fine Arts Club,1921-2,
+
+No.14
+
+Illustrated in "The Holford Collection,Westonbirt, plate ccic
+
+SeeIllustration
+## PETRUS CRISTUS.
+
+## 9PORTRAIT OF A GENTLEMAN
+
+Bust slightly turned to the left, of a clean-shaven man about 30 years of age, in deep red doublet of ribbed design, with black collar edged with fur, and showing white shirt at the neck; close fitting cap of black velvet;dark grey background
+
+On panel—181 in. by 131 in.
+
+Echibited at the Burlington Fine Arts Club,1921-2,
+
+No.4
+
+Echibited at theExhibition of Flemish andBelgian Art,
+
+Burlington House,1927,No.15
+
+Illustrated in The Holford Collection,Westonbirt," plate cciii
+
+See Illustration
+## AELBERT CUYP.
+
+## 10 DORDRECHT ON THE MAAS
+
+A view looking along the river, which flows across the entire foreground towards the town,in the centre of which rises the square tower of the great Church; and on the extreme right,another Church with a tall spire is conspicuous among the other buildings, alongside a are several fishing vessels with their sails hanging free,and a sloop at anchor; towards the centre,a small craft under sail and a laden barge by the side of which floats a raft of timber with three men on it;to the left a small boat with a square sail managed by two sailors;the whole is illumined by the evening glow of the setting sun,which with the enchanting transparency of tones, expresses the sunny stillness of the scene
+
+Anoutstanding ecample by the Artist 27 in.by 75 in.
+
+From the Collection of Lady Stuart,1841
+
+Bought of Brown who purchased it at the Stuart Sale
+
+Echibited at theBritish Institution,1843,No.115
+
+Echibited at the British Institution,1852,No.68
+
+Echibited at theBritish Institaution,1862,No.4
+
+Echibited at Burlington House,1887,No.75
+
+Exhibited at theBurlingtonFine Arts Club,1900,No.31
+
+Exhibited at theDutchEchibition,PavillionduJeu de Paume,Paris,1921
+
+See Smith’s “Catalogue Raisonne,”vol.v, Nos. 187
+
+and 188,and Supp.No.52
+
+See Dr. Waagen's " Art Treasures in Great Britain, vol.i,p.202
+
+See Dr.Hofstede de Groot's Catalogue of Dutch
+
+Painters,”vol.ii,No.164
+
+See Dr.Hofstede de Groot's "Hollandsche Kunst in Engelsche Verzamelingen"
+
+Etched by P.J.Arendzen
+
+Illustrated as Frontispiece No.1 in "The Holford Collection,Dorchester House,"plate ccccvii
+
+See Illustration
+## WYBRAND DE GEEST.
+
+## 11 PORTRAIT OF A SPANISH NOBLEMAN
+
+Oval, on copper—10 in.by 7 in. Echibited at the Burlington Fine Arts Club,1921-2, No.36,as by Gonzales Coques Illustrated in "The Holford Collection,Dorchester House," plate coli
+
+A small fulllength figure of a young man, with long fowing hair, in black doublet with large slashed sleeves, black breeches and white hose, standing resting his left hand on a chest covered with green embroidered velvet; his sword hilt is on his left hip,and a dagger on his right
+
+JAN GOSSAERT.
+
+(MABUSE).
+
+## 12 PORTRAIT OF DAVID OF BURGUNDY
+
+Elected Bishop of Cambrai, January 24,1446;of Therouanne, September 13, 1451;of Utrecht,April 16,
+
+1463; died April 16, 1496
+
+Half-length figure, turned to right,nearly full-face, in black habit showing white lace shirt at the neck and frills at the wrists,black cloak with wide fur collar, gold chain round his neck,a black velvet cap fastened with a black string and tied in a bow under his chin,his hands rest on a table in front,and wearing three jewelled rings on the fingers of his left hand; the background is formed of a shaped window, through which is seen blue sky
+
+Identified by Mr.A.van de Put,from a drawing in the famous Arras Sketch-book (f.97),as a Portrait of the Bishop of Utrecht, an elder half-brother of the Artist's patron,Philip of Burgundy
+
+Known also as "L'Homme a la Chaine d'Or"
+
+On panel,arched top—24 in.by 18 in.
+
+Echibited at Burlington House, 1870, No.111, as by
+
+See Segard’s " Mabuse,”p. 128
+
+Holbein
+
+Exhibited at Burlington House,1893,No.173
+
+Echibited at the Burlington Fine Arts Club,1892, No.43
+
+Echibited at the New Gallery,1899, No.29
+
+Echibited at the Echibition of Flemish and Belgian Art, Burlington House,1927,No.190
+
+House,"plate ccvii
+
+Illustrated in The Holford Collection,Dorchester
+
+See Illustration
+## ADRIAN HANNEMAN.
+
+## 13 PORTRAIT OF PRINCE RUPERT
+
+Threequarter-length figure,life-size,with long brown curls to the shoulders,in yellow sleeveless doublet embroidered with silver braid and unbuttoned at the waist, crimson cloak over his left shoulder,embroidered with the star of the Garter, white lawn collar with white tassels, blue riband of the Garter over his left shoulder, to which is suspended the jewel of the Order;his hat,adorned with pink and white ostrich feathers,under his arm
+
+36 in.by 28 in.
+
+Illustrated in "The Holford Collection,Dorchester House," plate cciv
+
+See Illustration
+
+## ADRIAN HANNEMAN.
+
+## 14 PoRTRAIT OF A YoUNG GENTLEMAN
+
+Half-length figure, slightly turned to the left,his curly gold, white kerchief with crimson bow, and crimson sash;
+
+hair falling on to his shoulders, in armour studded with he holds his helmet in his left hand
+
+29 in.by 24 in.
+## MELCHIOR D'HONDECOETER.
+
+## 15 A PARLIAMENT OF BIRDS
+
+A composition of birds;among them a crane, peafowl,ducks and duckling,pheasant and pigeons, in the gardens of a country mansion, near some ruins of columns, under the shade of dark foliage
+
+54 in.by 74 in.
+
+Echibited at the British Institution,1867,No.26
+
+Exhibited at Burlington House,1893,No.52
+
+Echibited at the Burlington Fine Arts Club,1921-2, No.48
+
+Illustrated in "The Holford Collection, Westonbirt," plate lcccv
+
+See Illustration
+## MELOHIOR D'HONDECOETER
+
+(SCHOOL OF).
+
+- 16 BIRDS IN A LANDSCAPE
+
+A peacock and peahen, with poultry, by a walled building, near a pool
+
+25 in. by 31 in.
+
+## KAREL DU JARDIN
+
+- 17 TRAVELLERS HALTING
+
+The exterior of a tavern, of a picturesque appearance, with a vine growing against it, at which two cavaliers have halted for refreshment; one,in a red cloak,has dismounted from his white horse and is bowing to a lady in the doorway；the other,mounted on a black horse,is taking a glass of wine from a boy who stands at his side, and behind whom is a greyhound; buildings and hills in the distance
+
+Signed at the bottom of the door," K. Du JarDIN FEC,”
+
+and dated 1655
+
+On panel—16 in.by 131 in.
+
+From the Collection of M.le Chevalier Verhulst,1779
+
+From the Collection of the Dowager Lady Stuart,1830
+
+Purchased from Nieuwenhuys,1841
+
+Echibited at the British Institution,1852,No.32
+
+Echibited at the Art Treasures Echibition,Manchester, 1857,No.1038
+
+Echibited at Burlington House,1887,No.56 Echibited at theBurlington Fine Arts Club,1900,No.8 See Smith's " Catalogue Raisonné,vol.v, No.35
+
+See Dr. Waagen’s“Art Treasures in Great Britain”
+
+vol.ii,p.202
+
+Illustrated in "The Holford Collection,Dorchester House,"plate ceccic
+## KAREL DU JARDIN.
+
+## 18 A LANDSCAPE WITH ANIMALS
+
+A brown bull, with three sheep, in a pasture close to a wood; the walls of a town seen on a hill in the background ; blue sky, with sun breaking through the clouds
+
+Signed "K. DU JARDIN F,"and dated 1677 On panel—11 in.by 11 in. From the Lichfield Collection,1842 Echibited at theBritish Institution,1851,No.33 Echibited at Burlington House, 1887, No.89 Echibited at the Burlington Fine Arts Club,1900, No.41
+
+Illustrated in The Holford Collection, Dorchester House," plate ccccvii
+
+## CORNELIS JONSON.
+
+- 19 PORTRAIT OF PROFESSOR ANTON AEMILIUS,OF UTRECHT
+
+Professor of History and Politics at the University of Utrecht
+
+Threequarter-length figure, facing the spectator,aged about 55, fair hair turning grey, black embroidered dress, white lawn collar and cuffs; seated in an arm-chair, an open book on a table by his side; bluish green background
+
+Inscribed on back of canvas, "An. EMILIus, HisT. ET POLIT.PROF.ULTR TR" 37 in. by 30 in. From the Pereire Collection,Paris,1873 Purchased from Brooks in 1876 Illustrated in "The Holford Collection, Westonbirt,"
+
+plate lxviii
+
+## CORNELIS JONSON.
+
+- 20 PORTRAIT OF A LADY
+
+Half-length figure, slightly turned to the left,in black dress with slashed sleeves tied with blue ribbon, blue rosettes and blue sash round her waist, large white lace collar, pearl rope and jewelled ear-rings, flowers in her hair
+
+Inscribed "ANNo 1632" 29 in. by 24 in.
+
+(MY.17)
+## 21 THE PEDLAR
+
+A small full-length figure,with light brown hair and beard, seated in a cavern; he wears a brown doublet, grey stockings, with his right knee bare;he rests a flask on his left knee, and his large brimmed hat on his lap; beside him, on the ground, are his staff and goatskin pack
+
+Signed "F.VAN MIERIs"
+
+On panel-9in.by 6in.
+
+Echibited at the British Institution,1819,No.34
+
+From the Wells Collection,1848
+
+Exhibited at theArt Treasures Echibition,Manchester,
+
+1857,No.1078
+
+Echibited at Burlington House,1894,No.49
+
+Exhibited at the Burlington Fine Arts Club,1921-2,
+
+No35
+
+See Dr.Waagen’s “Art Treasures in Great Britain”
+
+vol.i,p.200
+
+Illustrated in The Holford Collection,Dorchester
+
+House,”" pl. coli
+
+## SIR ANTONIO MORO.
+
+- 22 2PORTRAIT OF EMANUEL PHILIBERT,DUKE OF SAVOY (Called "Testa di Ferro ")
+
+Full-length fgure, life-size, age about 40, with dark beard and moustache,standing in a landscape slightly turned to the left;in striped tunic,with short jacket of chain mail and dainascened steel gorget,bombasticyellow breeches striped with blue,yellowhose,white embroidered leggings,his right hand grasps a martel-de-fer,his sword on his left hip; an old tree in foliage seen in the background
+
+- 82 in.by 44 in.
+
+Echibited at Burlington House, 1887, No.138, as by
+
+Dosso Dossi
+
+See Dr. Waagen's " Art Treasures in Great Britain," vol.ii,p.196
+
+Illustrated in “The Holford Collection,Dorchester
+
+House,” plate ccviii
+
+See Illustration
+
+## FRANS VAN MIERIS.
+## PAULUS MOREELSE.
+
+- 23 PORTRAIT OF A LADY
+
+Inscribed on the back “ BEATRICE oF NassAU"
+
+Bust turned slightly to the right, nearly full face, in black embroidered dress, with large white lace collar and frills; pearls and jewel in her hair,a double gold chain over her shoulders, with pendant attached
+
+On panel—241in.by 19 in. Illustrated in "The Holford Collection,Dorchester
+
+House,” plate ci
+
+## MYTENS.
+
+- 24 PORTRAIT OF A GENTLEMAN
+
+Full-length figure, with moustache and pointed beard, in grey tunic, breeches and hose, and grey cloak over his left shoulder; standing bya table,holding his feathered hat
+
+77 in.by 39 in.
+
+Illustrated in The Holford Collection,Dorchester
+
+House,” plate c
+## 25
+
+## AERT VAN DER NEER.
+
+A daylight view,looking along a frozen river,with a town and church on the left,and snow-capped buildings behind trees on the right;in the foreground a cavalier with his wife and son are watchinga number of skaters; a boy with a sledge and other figures on the left;rosy effect of the setting sun pervades the sky and is reflected on the ice
+
+Signed with initials(AV connected,DN connected)
+
+On panel—18 in.by 271 in.
+
+Purchased fromBeckford in 1839
+
+Exhibited at Burlington House,1893,No.63
+
+Echibited at the Guildhall,1894,No.77
+
+Echibited at the Burlington Fine Arts Club,1900,
+
+No.26
+
+See Dr.Hofstede de Groot’s Catalogue of Dutch
+
+Painters,”vol.vii,No.506
+
+Illustrated in "The Holford Collection,Dorchester House,"plate cxlii
+
+See Illustration
+
+## COLYN NEUFCHATEL.
+
+- 26PORTRAIT OF A GENTLEMAN
+
+Aged about60years
+
+Threequarter-length figure,with fair moustache,in embroidered black dress edged with fur,small white ruff at the neck,black cap,seated in an armchair and resting his arms on a table covered by a Persian carpet;in his left hand he holds his gloves; green curtain and archi tectural background
+
+On panel—42 in.by32 in. Illustrated in The Holford Collection,Dorchester
+
+House,”" plate ccic
+## ADRIAEN VAN OSTADE.
+
+## 27 LE MENAGE HOLLANDOIS
+
+Interior of a cottage, with a peasant family, who appear to have just finished their frugal meal; in the centre the father is still seated at a rustic table, looking towards his wife, who is seated on the left amusing a young child with a pepper-box; behind her stands a youth,holding little girl playing with a pet dog; a cradle, bird-cage and numerous other household objects distributed throughout the room
+
+SMITH, in his "Catalogue Raisonné," says:—"It is impossible to speak too highly of this gem;in luminous effect and brilliancy of
+
+Signed "A. V. OsTADE," and dated 1661 (A.V. connected)
+
+colour and finish, it has never been surpassed
+
+Onpanel—13in.by12 in.
+
+From the Collection of Prince de Conti, Paris, 1777
+
+From the Collection of Count van Wassenaar,1760
+
+From the Collection of M. Choiseul-Praslin,Paris,1793
+
+From the Collection of M. Montaleau, Paris, 1802
+
+From the Collection of M.Duruey,Paris,1797
+
+From the Collection of Jeremiah Harman, Esq.,1829
+
+Echibited at the Art Treasures Exhibition, Manchester, 1857,No.1047
+
+From the Collection of Jeremiah Harman,Esg.,1844
+
+Echibited at Burlington House,1887,No.102
+
+No.35
+
+Exhibited at the Burlington Fine Arts Club, 1900,
+
+See Smith's " Catalogue Raisonne,” vol. i, No. 104
+
+See Dr. Waagen's " Art Treasures in Great Briain," vol.ii,p.200
+
+See Dr. Hofstede de Groot's “Catalogue of Dutch
+
+See Ch. Blanc's “Le Tresor de la Curiosite, vol. ii,
+
+Painters,”vol.ii, No.463
+
+pp.161 and 379
+
+Mentioned by Deschamps,vol.ii
+
+See W. Birger's " Tresors d'Art en Angleterre "
+
+See Huet,vol.ii, p.401
+
+"Le Menage Hollandois"
+
+Engraved by Le Bas when in the Praslin Gallery as
+
+Engraved by Bond in Tresham's “ British Gallery"
+
+Illustrated in "The Holford Collection,Dorchester House," plate ccliv
+
+Engraved by J. Littler in Forster's Engravings
+
+See Illustration
+## ADRIAEN VAN OSTADE.
+
+## 28 OUTSIDE A VILLAGE INN
+
+A large picturesque roadside inn, with an old fellow playing a hurdy-gurdy by the door to a group of peasants seated at a table, while children look on;a cavalier on a grey horse is being attended by a man who tightens his stirrup, while his companion is in the act of mounting a bay horse held by a peasant boy;beyond, a farm-building with peasants descending some steps to the inn;a market-cart by a trough,and other figures in the background;a distant view towards a church nestling in the hills: Stormy sky
+
+Signed “A.V. OsTADE"(A.V. connected)
+
+On panel32 in.by 48in.
+
+From the Collection of Paul Methuen, Esq.,of Corskam Court
+
+Purchased from Nieuwenhuys
+
+Echibited at the British Institution,1845,No.54,as by Isaac van Ostade
+
+Echibited at the British Institution,1852,No.21,as by Isaac van Ostade
+
+Echibited at the Art Treasures Echibition,Manchester, 1857, No.1011
+
+Echibited at Burlington House,1887,No.67
+
+Echibited attheBritishInstitution,1867,No.56
+
+Echibited at the Burlington Fine Arts Club,1900 No.5
+
+See Smith's " Catalogue Raisonné, Isaac van Ostade, vol.i,No.43
+
+vol ii, p. 201, as the work of Isaac van Ostade
+
+See Dr.Hofstede de Groot's “ Catalogue of Dutch
+
+Painters,”vol.iii,No.434
+
+Illustrated in “The Holford Collection,Dorchester
+
+House,"plate calo
+
+See Illustration
+## ADRIAEN VAN OSTADE.
+
+- 29 AN INTERIOR, WITH SIX BoORS SMOKING
+
+Interior of a tavern,with a company of four peasants seated, smoking and drinking,round a wooden table, one of whom,holding a tankard, talks to a peasant woman who stands by his side,while yet another converses with the innkeeper, who leans on the back of a chair,wearing a white hat；a dog sits on the ground in front
+
+An eccellent composition
+
+Signed,and dated 1663
+
+Onpanel—12in.by16 in.
+
+From the Collection of Lady Holderness,1802
+
+From the Collection of Sir G. Page Turner, Bart.,1815
+
+Echibited at the British Institution,1818,No.29
+
+From the Collection of Lord Charles Townshend,1819
+
+From the Collection of A.de la Hante, Esq., 1821
+
+From the Collection of William Beclford,Esq.,1840
+
+Echibited atthe BritishInstitution,1852,No.94
+
+Echibited at Burlington House,1887,No.107
+
+See Smith's "Catalogue Raisonne,"vol. i, No. 133
+
+See Dr. Waagen's "Art Treasures in Great Britain,"
+
+vol. i, p.200-1
+
+See Buchanan's “ Memoirs of Painting,” vol. i, p. 313
+
+See Dr.Hofstede de Groot's “Catalogue of Dutch
+
+Painters,”vol. ii,No. 650
+
+Illustrated in The Holford Collection, Dorchester House," plate colvi
+
+See Illustration
+## PAULUS POTTER.
+
+## 30 THE RABBIT WARREN
+
+A sunny landscape, with a sandy hill in front broken with rabbit holes,a donkey stands in the foreground while another lies slumbering in the grass; a goat, and two kids playing at her side;in the centre is a willow tree with a girl driving a goat over the mound,in the background is a wooded dell. The glowing warmth of a fine summer's evening illuminates the scene, and sparkles upon the thistles and other herbage growing in the foregrouud
+
+Signed “PAULUs PoTTER F"and dated 1647
+
+Onpanel—16in.by15in.
+
+From the Collection of M.Braamcamp
+
+From the Eynard Collection,Paris,1826
+
+From the Collection of Michael M.Zachary,Esq.,1838
+
+From the Collection of Mr.Bredel
+
+Purchased from Brown,1841
+
+Echibited at The Art Treasures Echibition,Man chester,1857,No.1002
+
+Echibited at Burlington House,1887,No.91
+
+Echibited at the Burlington Fine Arts Club,1900,
+
+No.1
+
+See Smith’s“Catalogue Raisonne,vol.v, No.65, and
+
+Supplement, No.25
+
+See Dr. Waagen's"Art Treasures in Great Britain," vol.ii,p.201
+
+See Dr.Hofstede de Groot's " Catalogue of Dutch Painters,"vol.iv,No.136
+
+Illustrated in "The Holford Collection,Dorchester House,"plate ccce
+
+See Illustration
+## FRANS POURBUS (THE YOUNGER).
+
+## 31 PORTRAIT OF ISABELLA CLARA EUGENIA
+
+Daughter of Philip II.,born 1566, Archduchess and Governess of the Netherlands,1598-1621
+
+Nearly full-length,slightly turned to the right,in black dress richly embroidered with silver, the sleeves open and showing a white and gold undersleeve, large lace ruff at the neck and frills at the wrists; she wears a double pearl rope, a jewelled Order, jewelled cross and pendant, and numerous sapphire ornaments;a spray of fowers and jewels in her hair; her right hand resting on a chair,a lace kerchief in her left hand; curtain background
+
+65 in.by 49 in.
+
+Purchased from Wilson in 1858
+
+Echibited at the Echibition of Spanish Art,New
+
+Gallery, 1895-6, No. 165, as by Coello
+
+Echibited at the Echibition of Spanish Old Masters, Grafton Gallery, 1913-14, No. 103, as by Coello
+
+Illustrated in "The Holford Collection, Dorchester House," plate cii
+
+## JAN ANTONISZ VAN RAVESTEYN.
+
+- 32 PORTRAIT OF A GENTLEMAN
+
+Bust, life-size, the figure of a bearded man,slightly turned to the left,in black dress with gold buttons,and gold chain round his neck;white pleated ruff
+
+Inscribed"Fay bien et ne crain rien,and dated 1607 20 in.by 17 in.
+## CHIN
+
+## REMBRANDT VAN RYN.
+
+## 33 PORTRAIT OF THE YOUNG MAN WITH A CLEFT
+
+Formerly said to represent the Artist's Son Titus
+
+Half-length figure of a youth, of about seventeen years of age, full face,his dark eyes on the spectator,his fair hair hanging in curls upon his shoulders,he has a light moustache; the full light falling on the right side of his face,while the remainder is shaded by the large black velvet cap which he wears on his head;a tight-fitting black collar, showing very slightly his white shirt, gold chain round his neck,his shoulders enwrapped in a heavy black cloak; the background is somewhat light
+
+Signed on the right "REMBRANDT F" An outstanding work ofabout 1658
+
+29 in.by 24 in.
+
+Echibited at the British Institution,1862,No.15
+
+Echibited at the British Institution,1867,No.75
+
+Echibited at Burlington House,1893,No.50
+
+Exhibited at the Rembrandt Tentoonstelling Exhibition, Amsterdam,1898,No.107
+
+Exhibited at Burlington House,1899,No.82
+
+Mentioned by Moes,No.6694,4
+
+Mentioned by Michel,p.433
+
+See Dr. W.Bode's "Rembrandt,vol. vi, p.445,as "Titus"
+
+See Dr.Hofstede de Groot's “ Catalogue of Dutch
+
+Painters,”vol.vi,No.703
+
+Reproduced in W.R.Valentiner's Klassiker der
+
+Kunst II,"Rembrandt,”vol.i,p.418
+
+Illustrated in “The Holford Collection,Dorchester
+
+House," plate ccvi
+
+See Illustratiom
+## REMBRANDT VAN RYN.
+
+## 34 PORTRAIT OF MARTEN LOOTEN
+
+Half-length fgure, life size,turned to the left, facing the spectator; fair moustache and pointed beard;in black dress with white rolled collar, and small frills at the wrists;black cloak over his shoulders,large broadbrimmed hat,his right hand to his chest holding an envelope and letter; the light falls full on the face,and glances off on to the collar,hands and the letter
+
+Inscribed on the letter:"MARTIN LooTEN,XI JANUARY 1632,with four lines of writing,of which the only legible words are
+
+EERSAM...VOORS..
+
+..GANSEN....
+
+.JODT BEVOLEN.
+
+and under these are the monogram “RHL"
+
+On panel35 by29in.
+
+From the Collection of Cardinal Fesch,1845
+
+From the Collection of William Coningham, Esq.,1849
+
+Echibited at the British Institution,1851,No.13
+
+Exhibited at the British Institution,1862,No.13
+
+Echibited at Burlington House, 1887,No.93
+
+Echibited at the Rembrandt Tentoonstelling Echibition, Amsterdam,1898,No.20
+
+Echibited at Burlington House, 1899, No.63
+
+Mentioned by Wurting,198
+
+See Vosmaer, pp.114, 495
+
+See Dutuit,p.25
+
+See Moes, No.4639
+
+See Michel, p.117
+
+See Dr. Waagen's "Art Treasures in Great Britain," vol.ii,p.200
+
+See Dr.W. Bode's "Rembrandt,"vol.ii,No.72, also pp.400 and 587, No.214
+
+See Dr.Hofstede de Groot’s “Catalogue of Dutch
+
+Painters, vol. vi, No. 659
+
+Reproduced in\_W.R. Valentiner's Klassiker der Kunst II,"Rembrandt,"vol. i, p. 77
+
+Illustrated in "The Holford Collection, Dorchester House," plate cov
+
+See Illustration
+## REMBRANDT VAN RYN.
+
+- 35 PORTRAIT OF A LADY,WITH A HANDKERCHIEF
+- IN HER LEFT HAND
+
+Hitherto known as Madame Lipsius,wife of Justus Lipsius, or of J. C. Sylvius, now identifed as Madame Sylvius,pendant to the Portrait in the Carstanjen Collection,Munich
+
+Threequarter-length, seated figure of a lady of middle age,facing the spectator,her head slightly turned to the right,in black silk dress embroidered with black braid, smali narrow white lawn ruff and small frills at the wrists,white linen cap covering her ears;her right hand rests on the arm of her chair,on the third finger of which is a jewelled ring,her left,at her waist,holding a white kerchief;to the left is a table with a dark red cover,and on it lies a leather-bound book; strong light falls from the right on the figure
+
+Paintedabout1645
+
+49 in.by 39 in.
+
+From the Collection of Cardinal Fesch,Rome,1845
+
+From the Collection of M.L.B.Coclers,of Amsterdam, 1811
+
+Exhibited at theBritish Institution,1851,No.80
+
+Exhibited at the British Instatution,1862,No.41
+
+Exhibited at Burlington House,1893,No.75
+
+EchibitedattheGuildhall,1894,No.65
+
+Amsterdam,1898,No.64
+
+Exhibited at the Rembrandt TentoonstellingExhibition,
+
+Echibited at Burlington House,1899,No.69
+
+Echibited at the Burlington Fine Arts Club,1921-2, No.32
+
+Echibited atParis,1921,No.41
+
+Mentioned by Vosmaer,pp.261,536
+
+Mentioned by Michel,p.432
+
+Mentioned by Dutuit,pp.45,57
+
+Mentioned byWurzbach,481
+
+See Dr. Waagen's "Art Treasures in Great Britain" vol.ii,p.200
+
+See Smith’s“ Catalogue Raisonné,”vol.vii,No.557
+
+See Dr.W.Bode's“Rembrandt,vol.iv,p.291
+
+Reproduced in W.R.Valentiner's Klassiker der Kunst II,"Rembrandt,vol.i,p.340
+
+See Dr.Hofstede de Groot's "Catalogue of Dutch Painters,"vol. vi, No.861
+
+Illustrated in " The Holford Collection, Westonbirt" plate lccci
+
+See Illustration
+## REMBRANDT VAN RYN.
+
+## 36 PORTRAIT OF A MAN HOLDING THE TORAH
+
+This has often been regarded as a portrait of the Artist
+
+Half -length figure, slightly turned to the left,looking at the spectator, his long curly dark brown hair falling on to his shoulders, and is covered by a purple cap with a gold chain, fair moustache and imperial;he wears a purple doublet, showing white shirt finely pleated at the neck and wrists,and over his right shoulder falls a long black cloak; a gold chain with a circular pendant jewel hangs round his neck; he is seated in a wooden chair, on the arm of which he rests his left elbow; his two hands are joined and hold the Torah, or Seroll of the Law, which is encased in a red velvet sheath mounted in silver; on the left is a stone column on which is inscribed the artist's signature "REMBRANDT F 1644"
+
+39 in.by34 in.
+
+From the Collection of Henry Isaacs, Esq., 1765
+
+Engraved in mezzotint by J. G. Haid, 1765, as a
+
+From the Collection of M.E.G.van Tindinghorste
+
+Amsterdam,1777
+
+From the Collection of M. P. Locquet, 1783
+
+Purchased fromLord Southesl in 1855
+
+Exhibited at Burlington House,1893,No.108
+
+Exhibited at theRembrandt Tentoonstelling Echibition,
+
+Echibited at Burlington House, 1899, No. 73
+
+Amsterdam,1898, No.61
+
+Exhibited at Paris, 1921, No. 43
+
+Echibited at the Burlington Fine Arts Club,1921-2, No.31
+
+Mentioned by Wurzbach,491
+
+Mentioned by Vosmaer, pp. 367, 564
+
+Mentioned by Michel,p.432
+
+Mentioned by Dutuit, pp. 45, 58, No. 343
+
+See Smith's “ Catalogue Raisonné,”vol. vii, No. 458
+
+See Dr. Waagen's "Art Treasures in Great Britain"
+
+vol. ii,p.200
+
+See Dr. Hofstede de Groot's "Catalogue of Dutch Masters,"vol. vi, No.746
+
+See Dr. W. Bode's "Rembrandt,”vol. iv, p. 259
+
+Reproduced in W.R.Valentiner's Klassiker der Kunst, II,"Rembrandt,""vol. i, p. 274
+
+Illustrated in “The Holford Collection, Westonbirt,"
+
+plate lece
+
+See Illustration
+## SIR PETER PAUL RUBENS.
+
+## 37 THE ELEVATION OF THE CROSS
+
+In the centre the suffering Saviour,nailed to the Cross, the weight of which requires eight men,some of whom wear armour,to raise it; on the left Pilate, without a helmet, mounted on a white charger, is extending his hand, in which he holds a war-club, apparently giving orders, attended by a standard-bearer and other soldiers; on the right,women and children huddled together look on with horror,whilst Saint John the Evangelist supports and consoles the Virgin; in the background a group of soldiers and the two malefactors,and men and women clinging to rocks and trees; in the distance the town of Jerusalem is dimly seen
+
+A variation from the design for the Great Triptych, 1610-11,in Antwerp Cathedral
+
+27 in.by 52in.
+
+From the Rigaud Collection
+
+From the Collection of the Prince of Conti,Paris,1777
+
+From the Collection of M.Martin Brauwer,Brussels, 1778
+
+From the Collection of M.Edward Walkiers
+
+Echibited at the British Institution,1815,No.21
+
+From the Collection of Jeremiah Harman,Esq.:1844
+
+Echibited at the Art Treasures Echibition,Manchester, 1857,No.566
+
+Echibited at Burlington House,1887,No.122
+
+Echibited at Burlington House,1900, No. 134,as by
+
+Sir A.Vandyck
+
+Echibited at the Echibition of Flemish and Belgian Art,Burlington House,1927,No.279
+
+See Smith's “ Catalogue Raisonne,”vol.ii, No. 2
+
+See Dr. Waagen's "Art Treasures in Great Britain," vol.ii,p.199,and Supp.p.102
+
+See “Rubens,”by Max Rooses, 1904, vol. i, p. 130
+
+Engraved by JanWidoek
+
+Illustrated in "The Holford Collectiou,Dorchester House," plate ciii
+
+See Illustration
+## SIR PETER PAUL RUBENS.
+
+- 38 THE MARTYRDOM OF SAINT PAUL
+
+The Saint, kneeling in the centre, tied by the wrists, whilst a lady covers his eyes with a scarf; the executioner, sword in hand,stands on the left; Roman soldiers and other figures gathered around;from the Heavens an Angel and Cherubs descending,with a crown and a martyr's palm
+
+A sketch for an altar-piece,painted by the Artist for the Rouge Cloitre,in the Forest of Soignies near Brussels, which was removed, for safety, on the approach of the French troops in 1696, to the Chapel of St. Eloi, at Brussels, where it was destroyed by the bombs of the besiegers
+
+Arched top,on panel—14 in.by 9in.
+
+Bought at Florence from Mr.Wallace,1847
+
+See Dr. Waagen’s " Art Treasures in Great Britain,"
+
+vol.ii, p.200, as by Sir A.Vandyck
+
+Reprodiced in A.Rosenberg's Klassiker der Kunst,
+
+“Rubens,”p.389
+
+See “Rubens,”by Mac Rooses, 1904, vol. ii, p.581
+
+Illustrated in-“The Holford Collection,Dorchester
+
+House," plate civ
+
+## SCHOOL OF SIR PETER PAUL RUBENS.
+
+- 39
+- 9PORTRAIT OF THE ARCHDUKE FERDINAND,CARDINAL INFANT OF SPAIN
+
+Half-length figure, turned to the right; in armour, with wbite lace collar,red sash,and black hat
+
+27 in.by20in.
+## JACOB VAN RUISDAEL.
+
+## 40 LE COUP DE SOLEIL
+
+A view from the undulating dunes of Overveen towards Haarlem; in front, a castle and a windmill, with cottages amongst hills;beyond,a sunlit plain with the great
+
+Church of Haarlem in the distance
+
+152in.by 15in.
+
+From the Collection of Count de Morny,1848 Echibited at the British Institution,1851,No.66
+
+Exhibited at Burlington House,1887,No.109
+
+Exhibited at the Burlington Fine Arts Club,1900, No.28
+
+See Dr. Waagen’s “Art Treasures in Great Britain, vol.ii,p.202
+
+See Dr.Hofstede de Groot’s Catalogue of Dutch
+
+Painters,”vol. iv, No.70
+
+Illustrated in "The Holford Collection,Dorchester House,"plate col
+
+See Illustration
+
+## JAN VAN SCOREL.
+
+## 41PORTRAIT OF A GENTLEMAN
+
+Small half-length figure of a man,of about thirty years of age, clean shaven,in black dress, with high collar showing white shirt at the neck, and with black cap; grey background
+
+On panel—17 in.by 13 in
+
+Echibited at Burlington House, 1893, No.166,as School of Holbein
+
+Echibited at the Burlington Fine Arts Club,1921-2,
+
+No.8
+
+Illustrated in "The Holford Collection,Westonbirt, plate cxcviii
+## JUSTUS SUSTERMANS.
+
+## 42 PORTRAIT OF A NOBLEMAN
+
+Said to represent Cardinal Gian Carlo de' Medici
+
+Full-length figure of a young man, about 25 years of age, in richly embroidered yellow doublet with slashed sleeves showing crimson, large white lace collar and cuffs,crimson breeches embroidered with lines of gold braid,high buff leather boots,the left pulled down below the knee to show a scarlet silk bow with lace frills, large felt hat trimmed with red and white ostrich feathers, standing in a landscape, his right hand to his waist,his left holding his gloves;his sword hangs from a belt across his right shoulder;his helmet and breast-plate on the ground at his feet; curtain and landscape background
+
+A fine example of this Artist's work 80 in.by 44 in.
+
+Echibited at Burlington House, 1908, No. 128
+
+Echibited at the Echibition of Flemish and Belgian
+
+Art,Burlington House,1927,No.148
+
+Illustrated in "The Holford Collection,Dorchester House" plate co
+
+See Illustration
+## JUSTUS SUSTERMANS.
+
+- 43 PoRTRAIT oF A LADy (said to be a Princess of the Medici Family)
+
+Threequarter-length figure, slightly turned to the gold braid,brown cloak lined with yellow, large white lace strings of pearls around her wrists;her right hand holds right,in brown dress richly embroidered with stripes of ruff and cuffs, pearl necklace, jewelled ear-rings, and a gold chain which hangs from her neck;in her left hand is a white kerchief;red curtain background
+
+52in.by 34in.
+
+Echibited at the Vandyck Exhibition,Grosvenor
+
+Gallery,1886-7,No.6
+
+Echibited at Burlington House,1893,No.114
+
+Echibited at Burlington House,1908,No.121
+
+Echibited at the Burlington Fine Arts Club,1921, No.18
+
+Exhibited at the Echibition of Flemish and Belgian Art,Burlington House,1927,No.158
+
+Illustrated in "The Holford Collection, Westonbirt," plate lcic
+
+See Illustration
+
+## JUSTUS SUSTERMANS.
+
+## 44PORTRAIT OF A LADY
+
+Full-length figure,in black dress enriched with jewels, crimson sleeves,white lace collar and cuffs,jewels in her hair;her right hand on a book, which rests on a table; in her left hand she holds a charcoal drawing;red curtain background
+
+86 in.by 47 in.
+## JUSTUS SUSTERMANS.
+
+- 45 PORTRAIT OF CHARIES DUDLEY
+
+Carlo, son of Robert,Earl of Leicester, and Elizabeth Southwell, was born about 1607,the year when his fatber settled in Florence,and byhis capacity as mathematician, title of the Duke of Northumberland,at whose death,his inventor and shipbuilder, attracted the attention of Cosimo II., Grand Duke of Tuscany;he was created a Duke by the Emperor, Ferdinand II.,and assumed the son, Carlo,bore the title
+
+Full-length figure, turned slightly to the left, in silver doublet striped with pink,black breeches,and black cloak lined with blue and silver, crimson hose,and large rosettes on his black shoes; standing by a table, on which is his broad brimmed hat, his right hand to his hip,a dog at his feet;red curtain background
+
+With coat-of-arms in left upper corner
+
+831in.by 50 in.
+
+Echibited at Burlington House, 1912, No. 99, and ascribed to Marco Vecelli
+
+Illustrated in "The Holford Collection, Westonbirt,"
+
+plate lex
+
+## JUSTUS SUSTERMANS.
+
+- 46 PORTRAIT OF A LADY OF THE MEDICI COURT
+
+Full-length figure, turned to the right, facing the spectator,in white dress embroidered with a foral pattern, and with black gown richly embroidered with lines of foliage; white lace collar and cuffs,pearl rope,and jewel chains; standing in an apartment,resting her right band on a table,and holding a fan in her left; red curtain background
+
+80 in.by 43 in.
+
+Exhibited at the Echibition of Spanish Old Masters,
+
+Grafton Gallery, 1913-14, No.78, as by Coello
+
+Illustrated in “The Holford Collection, Dorchester
+
+House,"plate cix
+- 48
+
+## JUSTUS SUSTERMANS.
+
+- 47 PoRTRAIT OF AN ELDERLY LADY,with faxen curls
+
+Full-length fgure, slightly turned to the right, her frills,and white sleeves tied with black bows; standing, faxen hair falling in ringlets over her ears;in rich black velvet dress showing embroidered yellow skirt,white lace resting her right hand on a table,and holding a kerchief in her left; dark red curtain,looped up behind,for background
+
+71in.by 43in.
+
+Echibited at the Echibition of Flemish and Belgian Art,Burlington House,1927,No.266
+
+Illustrated in The Holford Collection, Westonbirt, plate lccii
+
+## JUSTUS SUSTERMANS.
+
+- PORTRAIT OF A ROYAL PRINCE
+
+Full-length,slightly turned to the right facing the spectator,in crimson doublet and breeches embroidered with gold braid,large white lace collar and cuffs; standing in an apartment,his left hand to his hip,his right resting on a table,on which lies his jewelled coronet
+
+65 in.by 46in.
+
+## JUSTUS SUSTERMANS.
+
+- 49 PORTRAIT OF A GENTLEMAN
+
+Threequarter-length figure, slighty turned to the left, in brown tunic and breeches,richly embroidered cloak lined with fur,large white lace ruff,and frills at the wrists;
+
+his right hand to his hip,and his left hand holding his sword;his hat on a table by his side; green curtain background
+
+43in.by 35 in.
+## JUSTUS SUSTERMANS.
+
+Sister of the Emperor Ferdinand II., and wife of
+
+- 50 PORTRAIT OF MARIE MADELEINE D'AUTRICHE
+
+Cosimo II., Grand Duke of Tuscany
+
+391 in.by 28 in.
+
+Threequarter-length fgure, facing slightly to right;in widow's weeds, and black cloak over a white lawn bodice, waist,her left hand caressing her pet dog
+
+Illustrated in " The Holford Collection, Westonbirt," plate lecii
+
+## JUSTUS SUSTERMANS.
+
+- 51 PORTRAIT OF THE EMPEROR FERDINAND II.
+
+died 1637
+
+Born 1578; Son of the Arch Duke Charles of Styria; Emperor of Germany;King of Hungary and Bohemia;
+
+Threequarter-length figure, slightly turned to the left; with short dark hair, fairish moustache and beard,in rich brown dress embroidered with gold,sleeves of floral pattern, large lace ruf, small frills at the wrists, gold chain and jewel of the Golden Fleece; his Crown,Orb and Sceptre on a table by his side;red curtain background
+
+Illustrated in “The Holford Collection, Westonbirt,"
+
+45in.by 38in.
+
+plate lcci
+
+## JUSTUS SUSTERMANS.
+
+- 52 PoRTRAIT or A LITTLe Boy, of three or four years of age.
+- Possibly a portrait of Cosimo IlI.,subsequently Grand Duke of Tuscany
+
+Full-length, facing to the front; in white muslin frock embroidered with gold lace and crimson bows, white lace pinafore to his feet, enamelled jewel and coral necklet, a goldfinch, held on a red cord, futters away into the right corner of the picture
+
+Exhibited at the Burlington Fine Arts Club, 1921-2, No.7
+
+29 in. by 19 in.
+
+Echibited at the Exhibition of Flemish and Belgian Art,Burlington House,1927,No.320
+
+Illustrated in The Holford Collection, Dorchester
+
+House," plate cvii
+## VAN DEN TEMPEL.
+
+- 53 PORTRAIT OF A CAVALIER
+
+Full-length figure,in black dress with white sleeves and white lawn collar, his left hand to his hip;landscape and red curtain background
+
+82 in.by 42 in.
+
+DAVID TENIERS (THE YOUNGER).
+
+## 54 LE BONNET BLANC
+
+The interior of a tavern, with a party of five artisans round a little table, prominent among them being one in a white shirt, seated on a wooden stool gazing at his cards, while his adversary, an older man, wearing a dark grey jacket and black breeches, is seated on a chair made of an old cask(on the back of which hangs a white cap),intently looking at his cards; the game is watched by their three companions; at the back of the room, three peasants at a faming fire, and a fourth is leaving the room
+
+A fine ecample of the Master
+
+Signed “D. TENIERs F,”and dated “1644"on a print on the wall
+
+On panel191 in.by 25 in. From the Collection of James Forbes,Esq.,1839 Echibited at the Brilish Institution,1867,No.110 Echibited at Burlington House,1893,No.85 See Smith's " Catalogue Raisonne" Supp., No. 115 Illustrated in "The Holford Collection,Dorchester House,"plate cl
+
+See Illustration
+## DAVID TENIERS (THE YOUNGER).
+
+## 55 VILLAGERS MERRYMAKING
+
+A courtyard of an inn, with numerous boors conversing; in the centre, a man and woman dancing to the music of a hurdy-gurdy and a triangle played by a man and a boy;in the foreground,a man seated on a form with his arm round the neck of a woman beside him;on the left the village is seen, with church among trees in the distance
+
+Signed "D. TENIERS F." On panel—10 in.by 13in. From the Collection of Peter Rainier, Esq. Echibited at Burlington House, 1887, No.110 See Smith's " Catalogue Raisonne,"vol. ii, No. 634
+
+Illustrated in The Holford Collection,Dorchester House,"" plate cli
+
+## DAVID TENIERS (THE YOUNGER).
+
+## 56 SKITTLE PLAYERS
+
+A village inn and out-house; in the foreground five peasants playing skittles,one,in white shirt, is in the act of bowling,the others stand in a group round the pins; a woman is watching the game from the door of the inn; in the centre, a view of wooded landscape
+
+Signed "D. TeNIERS " On panel—10in.by 14in. From the Collection of M. Blondel de Gagny,1776 From the Collection of Duc de Praslin,1793 From the Fonthill Abbey Collection,1823 Echibited at the British Gallery,1828 From the Collection of Colonel Hugh Baillie, 1831 Bought of Nienuwenhuys, 1842 Echibited at Burlington House, 1887, No.101 See Smith's " Catalogue Raisonne,"" vol. ii, No. 177 Engraved by A.Laurent Illustrated in "The Holford Collection,Dorchester House," plate cli
+## DAVID TENIERS (THE YOUNGER).
+
+- 57 THE TRIUMPH OF VENUS
+
+The goddess in her chariot, drawn in triumph over the waves, surrounded by Tritons,mermaids and Amorini
+
+Signed"D.TENIERs F"
+
+On copper—9 in.by 14in.
+
+From the Gray Collection
+
+From the Collection of M.Danoot,Brussels,1829
+
+See Smith’s “Catalogue Raisonné,vol. ii, No. 122
+
+Echibited at the Burlington Fine Arts Club,1921-2,
+
+No.21
+
+Illustrated in "The Holford Collection, Westonbirt, plate leccin
+
+## DAVID TENIERS (THE YOUNGER).
+
+- SKITTLE PLAYERS
+- 58
+
+In the foreground a group of three peasants playing bowls, one bending down in the act of bowling and the others looking on; beyond a mound on the right,a peasant is conversing with a peasant woman at the door of an inn
+
+Signed with initials On panel6 in.by 8 in. From the Collection of Mr.Artis See Smith's "Catalogue Raisonne,"vol. iii, No. 45
+- 60
+
+## DAVID TENIERS (THE YOUNGER).
+
+- 59 AN ALEHOUSE
+
+A sandy road,with three peasants conversing in the foreground, and with a group of peasants drinking and smoking outside an inn;a wooden signpost on a mound in front,with a distant view of a woody hillosk
+
+Signed with initials On panel-6 in.by 8 in. From the Akers Collection,1815 From the Collection of Lord Charles Townshend Echibited at the British Gallery,1821
+
+From the Collection of G.Watson Taylor, Esq.,1823
+
+From the Collection of Mr.Artis See Smith's " Catalogue Raisonné," vol. iii, No. 454
+
+## DAVID TENIERS.
+
+- VILLAGERS MERRYMAKING OUTSIDE A TAVERN
+
+The yard of an inn, with tall tree in the centre, under which two musicians stand, one playing a violin and the other bagpipes, while a group of six men and women dance;in front a man helping a a lady to rise from the ground; numerous other figures conversing, feasting and drinking;in the background a woman is helping her drunken spouse along a road towards the village
+
+Dated 1641 35 in. by 51 in.
+## SIR ANTHONY VANDYCK.
+
+Caesar Alexandre Scaglia,Abbe de Staffarde,Politician
+
+## 61 PORTRAIT OF THE ABBE SCAGLIA
+
+and Scholar, was in the service of his sovereign, the Duke of Savoy,and in that of the King of Spain; desiring repose he established himself in the Convent of the Recollets,where the inmates followed the Order of Saint Francis, with them he made his profession and lived as one of the community
+
+Full-length f fgure,facing the spectator,standing in easy posture by the side of a column in a carpeted apartment; his fine expressive countenance appears almost full-face as he gazes thoughtfully at the spectator; his hair is dark and curly, and he wears a small moustache and pointed beard;his long habit is of black silk,with a sash of deep folds; white lawn collar and cuffs, while over his shoulders hangs a black cloak; his right arm leans on the plinth of the column, and on his little finger is a jewelled ring; his left hand lightly grasps the folds of his cloak;a yellow embroidered curtain occupies the left background
+
+This is deservedly classed among the Artist's finest achievements; it was painted in 1634 for the Church of the Recollets at Antwerp, sold in.1641 after the Abbe's death,when itwas substituted by the copy now in the Antwerp Gallery,No.495
+
+From the Collection of Delacourt van der Voort,Leyden,
+
+79in.by 48in.
+
+1766
+
+Echibited at the British Institution,1839,No.3
+
+Echibited at the British Institution,1815,No.11
+
+From the Collection of Sir Thomas Baring
+
+Exhibited at the British Institution,1862,No.2
+
+Exhibited at the British Institution,185l,No.6
+
+Echibited at the Grosvenor Gallery,1886-7,No.54
+
+Exhibited at Burlington House,1900,No.66
+
+Eahibited at the Vandyck Tentoonstelling Echibition, Antwerp,1899,No.73
+
+Echibited at the Echibition of Flemish and Belgian
+
+See Smith’s “Catalogue Raisonné,vol.ii, No. 295
+
+Art,Burlington House,1927,No.133
+
+See Dr. Waagen's "Art Treasures in Great Britain, vol.ii,p.200
+
+"Vandycl,”vol. ciii, p.317
+
+Reproduced in Emil Schaeffers'Klassiler der Kunst,
+
+Reproduced and described in Mac Rooses's Anthony
+
+Engraved half-iength with variations in the" Centum Icones,"by Paulus Pontius
+
+VanDyck”"p.74
+
+Illustrated as Frontispiece No.2 in The Holford Collection, Dorchester House,plate coi
+
+See Illustration
+## SIR ANTHONY VANDYCK.
+
+## 62 PORTRAIT OF LA MARCHESA CATARINA DURAZZO
+
+Full-length figure,in black dress with gold stomacher and lines of gold braid down to her feet,embroidered sleeves of silver and gold, and black cloak similarly lined; white lace ruff, jewels in her hair,a jewelled chain round her neck,with pendant attached；standing gby a fountain, holding a fan in her left hand; architectural curtain and landscape,with setting sun,in the background
+
+Of the early Genoese Period
+
+A Replica of the Portrait in the Palazzo Reale, Genoa
+
+82 in.by 48 in.
+
+Illustrated in "The Holford Collection,Westonbirt," plate lcciv
+
+SeeIllaustration
+
+## SIR ANTHONY VANDYCK.
+
+## 63 PORTRAIT OF COUNT BRANDOLINI
+
+The ninth representative of the famous Condottiere Family
+
+Full-length figure, turned to the right; in armour, with white lawn collar, buff doublet and crimson breeches,tall black boots with white linings; standirg in a mountainous landscape,holdinga baton in his right hand,and resting his left on his steel helmet, which rests upon a rocky ledge
+
+81 in.by 49 in.
+
+From the Lebrun Collection
+
+Exhibited at the Vandyck Echibition,Grosvenor Gallery,
+
+1886-7,No.68
+
+Illustrated in "The Holford Collection,Dorchester House," plate coii
+## SIR ANTHONY VANDYCK.
+
+- 64 PORTRAIT OF THE ARTIST
+
+Born March 22, 1599; seventh child of Frans Vandyck, silk merchant of Antwerp; entered the studio of Rubens in 1613,and remained as a pupil and assistant till 1620;in 1621 paid a visit to England and worked in the service of Charles I.;returned to Antwerp 1622,and on the advice of Rubens set out for Italy and stayed chiefy at Genoa; was back in Antwerp in 1626, and became famous as a Portrait and Religious Painter. In 1632 Charles I.gave him apartments at Blackfriars;he was styled,"Principal Painter of their Majesties at the Court of St. James's,"and received the honour of knighthood;died at Blackfriars,December 6,1641
+
+29in.by 23 in. From the Gray Collection
+
+Half-length figure, turned to the right,looking at the spectator over his left shoulder; curly auburn hair, upturned moustache and s small pointed beard;his costume is of black silk, showing a small white collar; a black cloak falls from his right shoulder and is drawn round him by the fingers of his right hand; a heavy gold chain round his neck; dark background
+
+Illustrated in"The Holford Collection,Westonbirt," platelccv See Illustration
+
+## SIR ANTHONY VANDYOK.
+
+- 65 SAINT MARTIN DIVIDING HIS CLOAK WITH THE BEGGAR
+
+background,and a church in the distance
+
+Through an archway the Saint, in futed armour, mounted on a white charger,with the beggar kneeling in front,and reaching forward to receive the half of the scarlet cloak which the Saint cuts with his sword;an old woman,with a child in her arms,and two other figures, stand on the right; two attendant horsemen in the
+
+A study for the large picture at Windsor
+
+From the Collection ofCardinal Fesch
+
+Onpanel—13 in.by9in.
+
+Purchased from Buchanan,1845
+
+Echibited at the Vandyck Echibition,Grosvenor Gallery,1886-7,No.134
+
+Echibited at the British Institution,1849,No.9
+
+Echibited at the Vandyck Tentoonstelling Exhibition, Antwerp,1899,No.29
+
+See Dr. Waagen's "Art Treasures in Great Britain" vol.ii,p.200
+
+Echibited at Burlington House,1900,No.22
+
+Illustrated in "The Holford Collection,Dorchester House,"plate coiii
+## ADRIAEN VAN DE VELDE.
+
+## 66A PASTORAL
+
+A hilly,richly-wooded landscape, with a herdsman conversing with a seated peasant-woman,who caresses a dog; by a stream, in front, are a group of cows,goats,an ewe,and pony
+
+Signed “A. V. VELDE F,”and dated 1663
+
+18↓in.by24in.
+
+From the Collection of Ant Sijdervelt,Amsterdam,1766 From the Hoffman Collection,Haarlem,1846 Echibited at Burlington House,1887,No.53 See Smith's "Catalogue Raisonne,"vol.v,No. 4 See Dr. Waagen's "Art Treasures in Great Britain,"
+
+vol.ii,p.201
+
+Painters,”vol.iv, No.216
+
+See Dr. Hofstele de Groot’s “Catalogue of Dutch
+
+Illustrated in "The Holford Collection,Dorchester House,"plate cceci
+
+## ADRIAEN VAN DE VELDE.
+
+## 67A YOUNG BULL IN A MEADOW
+
+A pasture land, with a young bull and two sheep grazing in the foreground; beyond, a man standing with his back to the spectator, taiking to a boy,who lies on the ground with a dog by his side; blue sky,with feecy clouds
+
+Signed,and dated 1654 On panel—10 in.by 8in. From the Collection of the Marquis of Breadalbane, Echibited at Burlington House,1894,No.48 Illustrated in "The Holford Collection,Dorchester House,"plate ccccii
+## WILLEM VAN DE VELDE.
+
+- 68 A MARINE VIEW DURING A FRESH BREEZE
+
+A sea piece, with a large warship with her head coming up into the wind and about to anchor; beyond,other meno'-war running before the wind;in front, two fishing-boats, with the sea breaking against a jetty on the extreme left
+
+Signed
+
+<!-- image -->
+
+25 in.by 331in.
+
+From the Collection of Sir Lawrence Dundas,1794 From the Collection of Lady Stuart
+
+Bought of Brown,1843
+
+Exhibited at the British Institution,1843,No.102 Echibited at Burlington House,1887,No.62
+
+Echibited at the Burlington Fine Arts Club,1900,
+
+No.43
+
+See “Smith’s Catalogue Raisonne”vol.vi, No.34
+
+See Dr.Hofstede de Groot's “ Catalogue of Dutch Mas- ters,vol.vii,No.441
+
+Engraved by Canot
+
+Illustrated in "The Holford Collection,Dorchester House""plate cclvii
+
+See Illustration
+
+## WILLEM VAN DE VELDE.
+
+- 69 A VIEW FROM THE SHORE DURING A CALM
+
+A scene at low tide,with a group of fisher-folk,one of his hands behind him; beyond,sailing-vessels lying at anchor,prominent among them being a large barque with square sail; a fishing-boat, with brown sail, putting out;
+
+whom has a basket on his back,and a second stands with blue sky,with light clouds
+
+Signed on a log of wood " W.V.V."
+
+12in.by14in.
+
+From the Collection of T.Emmerson,Esq.,1829
+
+From the Collection of Davrd Bailey,Esg.,1835
+
+From the Collection of E. Higginson,Esg.,1846
+
+Echibited at Burlington House,1887,No.99
+
+See Smith’s “Catalogue Raisonne,” vol. vi, No. 161, and Supp.,No.64
+
+See Dr. Waagen's "Art Treasures in Great Britain, vol.ii,p.203
+
+Painters,”vol.iii,No.115
+
+See Dr. Hofstede de Groot's Catalogue of Dutch
+
+Illustrated in "The Holford Collection,Dorchester House," plate cxlvii
+## WILLEM VAN DE VELDE.
+
+- 70 AN APPROACHING STORM
+
+A view on the coast at low tide, with stranded fishingand two fishermen in front with a basket;beyond,a small row-boat and sailing boat with three men;heavy storm- boat in the foreground with brown and white sails unfurled, clouds
+
+Signed on a planl of wood W. V. V. 12 in.by 16 in.
+
+## DAVID VINCKEBOONS.
+
+## 71A GARDEN PARTY IN FLANDERS
+
+An avenue of elms by the side of a canal, with a company of cavaliers and ladies conversing, all richly attired ; prominent in the foreground are Prins Maurits, Prins Willem and Prins Frederik Hendrik of Nassau, behind whom stands their nephew,King of Bohemia,in white dress with blue sash, and large white ruff; a young cavalier,in crimson dress,advances to receive a lady in yellow gown; beyond, two musicians play a'cello and a small harp; on the right is a Gothic chateau with attendant carriages among trees in the background;on the left is another chateau from which a young man attired like the King is leaving the door
+
+Signed
+
+39 in.by 73 in.
+
+## CORNELIS DE VOS.
+
+- PORTRAIT OF A LADY
+
+## 72
+
+Threequarter-length figure, slightly turned to the right, facing the spectator,in black dress,with double flat white lawn collar and white cuffs; a ruby heart hangs from a cord round her neck; small silver waistband; her hands crossed in front,holding a fan;red curtain back-
+
+ground
+
+Onpanel—29in.by 22in. Echibited at Burlington House,1887,No.74 Illustrated in "The Holford Collection, Dorchester House," plate cu See Illaustration
+## CORNELIS DE VOS.
+
+- 73PORTRAIT OFA LADY
+
+Threequarter-length figure, turned slightly to the right, in black dress with small gold buttons in front and on the sleeves, large white lace ruff and cuffs;a floral rosette on her left shoulder,pearl necklace,gold chain with pendant jewel and strings of pearls on her wrists,resting her right hand ona table and holding awhite ostrich-feather fan in her left； architectural and curtain background, with a view of lake and buildings seen on the right.
+
+42in.by 35in.
+
+Illustrated in "The Holford Collection,Westonbirt, plate lcvii
+
+## WILLEM WISSING.
+
+- 74 PORTRAIT OF LOUISE, RENEE DE KEROUAILLE,DUCHESS OF PORTSMOUTH
+
+Threequarter-length, seated,facing front,in dark grey decollete dress, showing white at the neck and sleeves, red cloak, edged with gold braid; architectural and landscape background
+
+49 in.by 39 in.
+
+Illustrated in “The Holford Collection,Westonbirt,”
+
+plate lcccvii
+## PHILIPS WOUWERMAN.
+
+## 75 LA COURSE AU HARENG
+
+A fete-day in a village,with an assemblage of peasantry watching horsemen riding at the herring, which is suspended aeross the road to a cord fastened between an inn and a leafess tree; a man on horseback, with a woman seated at his back, catches at the herring, while a man in front pulls at the horse's head; other couples on horseback are waiting their turn for the sport, while a man on foot is inviting a girl to join in the same amusement. All is bustle and activity, and every incident is faithfully depicted
+
+Signed with monogram 24 in.by 31 in.
+
+From the Lubbeling Collection,according to Blanc
+
+From the Collection of M.Randon de Boisset, Paris, 1777
+
+From the Collection of M. Claude Tolozan, Paris, 1801
+
+From the Collection of the Duchesse de Berri, London, 1834
+
+Purchased from Woodburn,1839
+
+Exhibited at the British Institution,1851,No.58
+
+Exhibited at Burlington House, 1876, No.48
+
+Echibited at the Art Treasures Echibition,Manchester, 1857, No.988
+
+Echibited at the Burlington Fine Arts Club, 1900
+
+No.51
+
+See Smith's " Catalogue Raisonne," vol. i, No. 130, and Supp.No.46
+
+See Dr. Waagen's " Art Treasures in Great Britain,"
+
+vol.i,p.202
+
+See Dr. Hofstede de Groot's "Catalogue of Dutch Painters,"vol. i, No. 1030
+
+See Ch. Blanc's "Le Tresor de la Curiosite," vol i, 356,vol.i,189
+
+See W. Birger’s “Tresors d’Art en Angleterre,” p. 298
+
+Illustrated in "The Holford Collection,Dorchester House," plate cccciii
+
+See Illustration
+## PHILIPS WOUWERMAN.
+
+- 76 SHIPS UNLOADING ON A RIVER
+
+The bank of a river,with two peasants engaged in unloading bales of merchandise from a boat and conveying them upon pack-horses to a store-house; on the right are two men with a grey horse drawing a loaded sledge up a steep bank,on the summit of which is a sentry-box with soldiers conversing;in the distance are several boats in the broad river
+
+Signed,with monogram
+
+On panel—15in.by18in.
+
+From the Collection of M.G.iF.J. de Verhulst, Brussels,1779
+
+From the Collection of M.P.de Smeeth van Alpnen, Rotterdam,1810
+
+From the Collection of M.Lapeyriere,Paris,1817
+
+Echibited at the British Institution,1818,No.65
+
+From the Collection of G.Watson Taylor,Esq.,1823
+
+From the Collection of William Beckford, Esq, Fonthill,1829
+
+Echibited at the British Institution,1845,No.83
+
+Echibited at Burlington House,1887,No.100
+
+See Smith’s“Catalogue Raisonné,vol. i, No.154
+
+See Dr.Waagen’s “Art Treasures in Great Britain”
+
+vol.ii, p.202
+
+See Dr.Hofstede de Groot's “Catalogue of Dutch
+
+Painters,”vol.ii, No.995
+
+See Ch. Blancs “Le Tresor de la Curiositevol. ii,
+
+334
+
+Illustrated in “The Holford Collection,Dorchester
+
+House," plate cocciv
+
+SeeIllustration
+## PHILIPS WOUWERMAN.
+
+## 77 RETURNING FROM MARKET
+
+A market-cart approaching the front, the driver of which sits sideways on the horse,and in the cart is a woman seated on a truss of hay,with a brass milk-can and a poultry-coop; resting by the roadside is a woman nursing a sleeping child
+
+On panel12 in.by 10 in.
+
+From the Le Noir Collection
+
+From the Collection of M.La Live de Jully,Paris,1770
+
+From the Collection of M. Grammont, Paris, 1775
+
+From the Collection of M. Randon de Boisset, Paris, 1777
+
+From the Collection of M. Clesne, Paris,1786
+
+From the Collection of the Duchesse de Berri, London, 1834
+
+From the Collection of the Duchesse de Berri, Paris,
+
+1837
+
+From the Collection of Charles Heusch, Esq., 1842 Echibited at the British Institution,1852,No.4
+
+Echibited at the Art Treasures Echibition,Manchester, 1857, No.986
+
+Echibited at Burlington House,1887,No.108
+
+Exhibited at the Burlington Fine Arts Club,1900, No.36
+
+See Smith's “ Catalogue Raisonne,” vol. i, No. 77, and
+
+Supp. No.31
+
+See Dr. Waagen's " Art Treasures in Great Britain," vol.ii,p.202
+
+See Dr.Hofstede de Groot’s “ Catalogue of Dutch
+
+Painters,” vol. ii, No. 403
+
+See Ch. Blanc’s “Le Tresor de la Curiosite”vol. i,
+
+Nos.165,251,356-7
+
+Engraved by R. Strange and Hervey
+
+Illustrated in "The Holford Collection,Dorchester House," plate coccv
+## PHILIPS WOUWERMAN.
+
+- 78
+
+THE BEACH AT SCHEVENINGEN
+
+This delightful study from Nature is composed of a view on the coast at low tide,with a fisherman wearing a red cap; figures walking in the foreground,and boats beyond;a tower on rising ground to the left
+
+Painted in a clear and silvery tone
+
+Onpanel—7in.by 6in.
+
+From the Collection of C. A. de Calonne,Esq., 1795
+
+From the Collection of C.A. de Calonne,Esq.,1832
+
+From the Collection of Charles Brind,Esq.,1842
+
+Echibited at theBritish Institution,1848,No.34
+
+Echibited at the Burlington Fine Arts Club,1900,
+
+No.30
+
+See Smith's Catalogue Raisonne,vol.i, No.207,and Supp.No.224
+
+See Dr. Waagen's “Art Treasures in Great Britain"
+
+vol.ii,p.202
+
+See Dr. Hofstede de Groot's “Catalogue of Dutch
+
+Painters,col.i, Nos.991 and 1129
+
+See Buchanan’s “Memoirs of Painting,”vol. i, p. 243
+
+Illustrated in The Holford Collection,Dorchester
+
+House,” plate cccui
+
+End of First Day's Sale
+## Second Day's Sale.
+
+## On FRIDAY, MAY 18, 1928.
+
+AT ONE O'CLOCK PRECISELY.
+
+## DRAWINGS.
+
+- 79 A WooDy LANDscAPE, with two labourers and fallen timber
+- 16in.by16 in.
+- 80 THE FORTUNE-TELLER
+
+Pastel—31 in.by27 in.
+
+- 81 HEAD oF ELLEN TERRy-charcoal; and A YoUNG GENTLEMAN, in black dress, with black tie—coloured chalk; and A GiRL, with her hair in a net—black and white (three) 3
+- 82 HEADS OF A LION AND A LIONESS-—(tUo)
+
+## FRANCOIS BOUCHER.
+
+- 83 3THE SEAsoNs-a set of four
+- Heads of young Ladies Imitation de pastel
+
+## SIR EDWARD BURNE-JONES.
+
+- 84 STUDIES OF TWO FIGURES
+
+A man and a woman, seated on the ground: Studies for the "Garden of Pan"—two in one frame
+
+Pencil-8 in.by 7in. From the Artist's Sale, 1898 Exhibited at Berlin,1898
+
+Echibited at the Burlington Fine Arts Club,1899, No.23
+
+- 2
+
+4
+## RICHARD HAMILTON ESSEX.
+
+- 85 THE INTERIOR OF THE CHURCH OF ST. SAUVEUR, BRUGES, with a priest celebrating Mass 36 in. by 27 in.
+
+## RICHARD HAMILTON ESSEX.
+
+- 86 THE INTERIOR OF A CATHEDRAL, with a religious procession 29 in. by 23in.
+
+## HENRY GREVEDON.
+
+- 87 PoRTRAIT OF A GENTLEMAN,in rolled coat,with white stock
+- Signed,and dated1814 Black and white chalk—11 in.by 9in.
+
+## THOMAS HEAPHY.
+
+- 88 THE FIsH SELLERs: A view on the beach, with numerous figures bargaining 23in.by 35in.
+
+## OZIAS HUMPHRY,R.A.
+
+- 89 PICK-A-BACK,after SIR JoSHUA REYNOLDs,P.R.A.
+- Portrait of Mrs.Payne Gallwey with her baby
+
+Signed with initials,and dated1781 Black and red chalk—8in.by 6 in. From the Warwick Collection Illustrated in "The Holford Collection, Westonbirt,"
+
+plate ccu
+## JEAN ETIENNE LIOTARD.
+
+- 90 PORTRAIT OF A GENTLEMAN
+
+Half-length figure turned to the right,in brown coat lined with red,white vest embroidered with gold braid; lace frills; powdered hair
+
+Pastel-23 in.by 17in.
+
+MORGAN.
+
+- 91 FLOWERS IN A BLUE VASE 12 in. by 8 in.
+
+W.MULLER, 1839.
+
+- Two Sheikhs and a Seribe, under an archway
+- 92 THE LETTER-WRITER,CAIRO 13 in.by 10 in.
+
+## REYNOLDS.
+
+- 93 A NoBLEMAN, with his Secretary; and A GENTLEMAN,holding aminiature of aLady-(two) 2
+
+## ROSALBA GIOVANNA CARRIERA.
+
+- 94PORTRAIT OF A LADY
+
+Half-length figure, turned to the left, in blue dress with white scarf, jewels in her powdered hair, holding some flowers
+
+Signed,and dated 1720 Pastel--25 in.by18in.
+## ALFRED STEVENS.
+
+- 95 DESIGNS FOR THE DINING-ROOM AT DORCHESTER HOUSEa set of five 5
+- (1) The South End, showing the door, mirrors, the two upper panels,and the scrolls round the
+- door,never completed
+- (2)A design, showing the mantelpiece,mirror and side door,with the upper panels,never completed
+- (3) The North End, showing the mirrored alcove and
+- two side mirrors
+- (4) The East Side, showing the windows, curtains and mirror
+- (5) A Composite design for the Dining-Room Pencil and colour
+
+## BRITISH SCHOOLS.
+
+## PICTURES.
+
+SIR EDWARD BURNE-JONES.
+
+96 LEs FEMMEs CHASSERESSES:A sketch
+
+A scene on a rocky coast, with sirens watching the approach of a dark-hulled ship manned by warriors
+
+A Study in chiaroscaro
+
+83 in.by 119 in.
+
+Illustrated in "The Holford Collection,Dorchester
+
+House," plate clcv
+## SIR EDWARD BURNE-JONES.
+
+- 97 THE SPIRIT OF THE HILLS
+
+The steps of rocks, with five nude figures looking at the running water
+
+Originally designed for "Arthur in Avalon,"but not used in the final design
+
+Painted in red monochrome—71 in.by 24 in.
+
+Illustrated in “The Holford Collection, Dorchester
+
+House," plate clxiv
+
+## SIR EDWARD BURNE JONES.
+
+- 98 MERCURY AND IOVE
+
+A crimson-winged Cupid, with clasped hands, standing before a figure of Mercury
+
+59 in.by 16 in.
+
+Echibited at Vienna,1927
+
+Illustrated in "The Holford Collection, Dorchester House," plate clxiv
+
+## FRANCIS COTES, R.A.
+
+- 99 PORTRAIT OF A GENTLEMAN
+
+Said to be John Simpson, Esq., of Esslington, Northum- berland
+
+Half-length fgure, turned to left,looking at the spectator, in claret-coloured coat, broad cuffs and white lace frills, white stock, red vest, resting both his hands sky background
+
+Signed, and dated 1765
+
+35 in.by 27 in.
+
+Exhibited at Vienna,1927,No.56
+
+Illustrated in " The Holford Collection, Westonbirt," plate cci
+
+See Illustration
+## WILLIAM DOBSON.
+
+- 100 PORTRAIT OF JAMES,1ST DUKE OF HAMILTON,K.G.
+
+Born June 19, 1606, son of James II.,Marquess of Hamilton,Master of the Horse,1628. As Charles I.'s Prayer Book; carried on intrigues between the King and adviser in Scottish affairs, persuaded him to revoke the Covenanters; led Scottish army into England,which was defeated at Preston,1648; executed,1649
+
+Full-length figure, slightly turned to the right, facing the spectator,in black silk doublet,breeches and hose and black cloak over his left arm,on which is the insignia of the Order of the Garter,pendant jewel suspended from a blue riband round his neck,white lace collar and cuff, standing before a column,holding his hat in his right hand
+
+Inscribed “JAMEs,1sT DUKE OF HAMILTON,1643"
+
+Saidtohave beenpainted atOxford 81 in.by 47 in.
+
+Illustrated in "The Holford Collection,Westonbirt, plate lccvii
+
+## ENGLISH SCHOOL.
+
+- 101 PORTRAITS OF TWO GENTLEMEN AND THREE LADIESa set of five 5
+
+Unframed—13in.by111in.
+
+## GERLACH FLICKE.
+
+- 102 PORTRAIT OF A GENTLEMAN (Said to be Lord le Despenser)
+
+Threequarter-length fgure,life-size,looking to the left, light brown beard and moustache,in black dress edged with brown fur,high fur collar,and small white ruff and frills at the wrists;black cap with a border of twisted gold braid;a black riband around his neck on which hangs a jewelled ring; the hilt of his sword is seen under his left arm,holding his gloves in his right hand, and resting his left on table covered by a crimson cloth; green curtain background
+
+Onpanel41 in.by31in. Illustrated in "The Holford Collection,Westonbirt," plate liv
+## JOHNIVAN DER GUCHT.
+
+- 103 PORTRAIT OF A LADY
+
+Threequarter-length figure turned to the right, facing the spectator, in blue dress cut low at the neck and with short sleeves,pink bows in front, and white lace trimmings,white lace cap trimmed with blue riband, seated on a crimson chair holding some flowers; a vase of fowers on a gilt console table by her side
+
+Signed, and dated 1764 33 in.by 27 in.
+
+## GAWEN HAMILTON.
+
+- 104A TEA PARTY
+
+The interior of an apartment,with an old lady in red circular table; a child, with a toy horse and a spaniel, in front; a maid, with two lovers, in the background
+
+Said to have been painted for Lord Banbury
+
+174 in.by 25 in. From the Collection ofLady Knowles
+
+## WILLIAM HOGARTH.
+
+- 105 PORTRAIT OF A YoUTH
+
+Half-length fgure, turned to left, facing the spectator, in brown coat, green vest embroidered with gold braid, and white stock
+
+Oval-23 in.by 18 in.
+
+## NATHANIEL HONE, R.A.
+
+- 106 PoRTRAIT OF A YoUNG LADY
+
+About twenty-fiveyears of age
+
+Half-length figure, head slightly turned to the right, in blue dress cut low at the neck, with white fichu and white scarf over her shoulders, blue riband round her neck and tied with a bow in front; her hair powdered, and wearing a three-cornered hat trimmed with pink ribbons and white ostrich-feather
+
+29 in. by 25 in.
+
+Illustrated in  The Holford Collection, Dorchester House," plate clxii
+## GEORGE FRANCIS JOSEPH,A.R.A.
+
+- 107 PORTRAIT OF SPENCER PERCEVAL, 2ND SON OF JOHN
+- PERCIVAL,2ND EARL OF EGMONT
+
+Born 1762;educated at Harrow and Trinity College, Cambridge; supported Pitt in Parliament; Chancellor of Exchequer 1807;succeeded the Duke of Portland as Prime Minster 1809;assassinated,11 May 1812,in the lobby of the House of Commons
+
+Half-length figure,turned to the right,in black dress with white vest and stock,holding a paper in his left hand;red curtain background
+
+29in.by 24in.
+
+## SIR GODFREY KNELLER.
+
+- 108 PORTRAIT OF A LADY
+
+Half-length figure,turned to the left,in blue dress over a white bodice;pearls in herhair
+
+Oval—29in.by24in.
+## SIR THOMAS LAWRENCE,P.R.A.
+
+- 109 PORTRAIT OF THE VISCOUNT CASTLEREAGH,AFTERWARDS 2ND MARQUESS OF LONDONDERRY
+
+Born 1769; supporter of Pitt in effecting Union of Ireland;with his brother, Sir Charles Stewart,represented England at Congress of Vienna, 1814
+
+Threequarter-length figure, facing the spectator, in dark green swallow-tail coat,white vest and stock, yellow breeches, wearing the Riband and Star of the Garter; a red riband and fob hangs from his waistcoat;holding a paper in his left hand, which he rests on a table; red curtain,architectural and sky backgrouud
+
+Given by the Sitter himself to George Peter Holford, Esq., hisfriend and executor
+
+49 in.by 39 in.
+
+Exhibited at the Royal Academy,1810, No.61
+
+Exhibited at Grosvenor Gallery,1889,No.126
+
+Echibited at Vienna,1927,No.12
+
+Mentioned in Sir Walter Armstrong's "Lawrence,"
+
+p.121
+
+Engraved by Charles Turner, A.R.A.
+
+Illustrated in "The Holford Collection, Westonbirt, plate cciv
+
+See Illustration
+
+SIR THOMAS LAWRENCE, P.R.A.(After).
+
+- 110 PORTRAIT OF ROBERT BANKS JENKINSON, EARL OF LIVERPOOL, K.G.
+
+Prime Minister 1812-1827
+
+In black dress, with white stock; his hands clasped front
+
+A copy by William Rimer 49 in.by 39 in.
+
+F.R.LEE, R.A., 1830.
+
+- 111 A WATER MILL BY AN OLD OAK
+
+An old overshot mill, among trees, with the stream flowing into the river in front
+
+58 in.by 82 in.
+
+Purchased from Nieuwenhuys,1840
+
+Illustrated in “The Holford Collection,Dorchester
+
+House," plate cla
+## SCHOOL OF SIR PETER LELY.
+
+- 112 PORTRAIT OF A GENTLEMAN
+
+In armour, with lace cravat, and fowing hair 14 in.by 11 in.
+
+## JOHN FREDERICK LEWIS,R.A.
+
+- 113 A LioN AND LioNEss,resting,in a rocky landscape
+- Signed 19 in.by 25 in.
+
+## JOHN OPIE, R.A.
+
+- 114 PORTRAIT OF A YOUNG MAN,READING
+
+Threequarter-length fgure,with powdered hair,in green coat with rolled collar and gold buttons,yellowvest, white stock and black breeches,seated in a crimson chair by a table on which are books and writingmaterial, resting his head on his right hand,and reading from a bookwhich he holds inhisleft;red curtain background
+
+36in.by28 in.
+
+From the Collection of John Nicholson,Esq.,1867
+
+Purchasedof Anthony,1870
+
+Echibited at Burlington House,1908,No.169,as by G.Romney
+
+Echibited at Vienna,1927
+
+Illustrated in "The Holford Collection,Westonbirt, plate cciii
+
+SeeIllustration
+
+SIR JOSHUA REYNOLDS, P.R.A.(SCHOOL OF).
+
+## 115 PORTRAIT OF A LADY
+
+Half-length figure to right, facing the spectator; in pale blue dress with white lawn fichu, and large black hat with ostrich-feathers;her hair powdered, and falling in ringlets on to her shoulders;red curtain and land- scape background
+
+30in.by24in.
+SIR JOSHUA REYNOLDS, P.R.A.(SCHOOL OF).
+
+- 116 THE HON. MRS. STANHOPE
+
+In white dress, seated in a landscape, resting her head onher right hand 29 in.by 24 in.
+
+SIR JOSHUA REYNOLDS, P.R.A.(SCHOOL OF).
+
+- 117 PORTRAIT OF A LITTLE GIRL
+
+A child, seated in a landscape under some trees, feed- inga finch
+
+29 in. by 24 in.
+
+SIR J. REYNOLDS,P.R.A.(SCHOOL OF).
+
+- 118 PORTRAIT OF LADY O'BRIEN
+
+In brown decollete dress, with green cloak, resting her head on her right hand 24 in.by 17in.
+
+CHARLES TOWNE.
+
+- 119A WATERFALL
+
+A view of a cascade, with figures, cattle and sheep crossing a wooden bridge
+
+10 in. by 8in.
+
+## GEORGE VINCENT.
+
+- 120 THE WATERING-PLACE
+
+A view, looking down a valley,with a peasant on a donkey, driving cattle to a stream; on the right,a boy is sitting on a log at the foot of a bank, with his dog and sheep; a clump of trees on the left; clear afternoon sky
+
+34 in.by 56in.
+
+Exhibited at Burlington House,1893, No.40 Illustrated in "The Holford Collection, Dorchester House," plate clci
+## RICHARD WILSON,R.A.
+
+## 121 THE RIVER DEE
+
+A view along a placid river to distant hills;in the foreground an angler,with two other figures conversing near a winding path beneath overhanging trees;on the opposite bank is a pasture, with cattle, and a woman milking,in the distance; sunset
+
+27↓in.by 45in.
+
+From the Collection of William Coningham,Esq.,1849 Echibited at Burlington House,1871,No.381 From Dudley House,1892 Exhibited at Burlington House,1894,No.102 Echibited at Vienna,1927,No.44 Illustrated in The Holford Collection,Dorchester House,plate clic
+
+See Illustration
+
+## RICHARD WILSON,R.A.
+
+- 122 A RIVER SCENE IN THE WELSE HILLS
+
+A view looking along a winding river, with sheep in the foreground, wooded hills beyond; sunset
+
+24in.by 29in.
+
+Illustrated in “The Holford Collection,Dorchester
+
+House,” plate clvii
+
+## FRENCH SCHOOLS.
+
+## ALEXIS SIMON BELLE.
+
+- 123 LA DAME AU PERROQUET
+
+A lady,in grey silk dress adorned with jewels,and white lace frills,holding an almond nut in her right hand, which she is offering to the bird who sits on the fingers of her left hand; landscape background
+
+37 in.by 29 in.
+
+Illustrated in " The Holford Collection, Westonbirt," plate lcxcvii
+## CLAUDE LE LORRAIN.
+
+## 124 LES BERGERS MUSICIENS
+
+A scene in a wooded and mountainous valley,with a stream fowing over rocks on the left;in the foreground, by the side of a road,under tall trees,are two girls and a young peasant playing on musical instruments;herds- men tending goats beyond
+
+Liber Veritatis,No.25
+
+37 in.by 51 in.
+
+From the Collection of Paul Methuen,Esq., of Corsham Court
+
+Echibited at Burlington House,1908,No.129
+
+Echibited at the Burlington Fine Arts Club,1921-2,
+
+No.44
+
+Exhibited at the “" Exposition du Paysage Frangais,"
+
+Paris,1925
+
+Illustrated in "The Holford Collection,Dorchester House,"plate cce
+
+See Illustration
+## CLAUDE LE LORRAIN.
+
+- 125 THE TEMPLE OF BACCHUS
+
+In the foreground,a shepherd and a shepherdess are driving cattle and sheep towards a Classical Temple,in which some fgures are regaling gbeforeastatueof Bacchus;on the left a river flowing through a wooded valley,with the sun setting over the distanthills
+
+Liber Veritatis,No.78
+
+37 in.by 47 in.
+
+From the Collectionof Paul Methuen,Esq.,of Corsham Court
+
+Echibited at Burlington House,1908,No.131
+
+Echibited at the Ecposition du Paysage Francais,
+
+1925,No.124
+
+Illustrated in The Holford Collection,Dorchester House,"plate ccic
+
+## HENRI GASCAR.
+
+- 126 PoRTRAIT OF A LADY
+
+Threequarter-length figure,turned to the left,hor hair falling in ringlets on to her shoulders;in blue dress with white lace frills, pearl necklace and bracelets, holding a watch and chain in both hands
+
+43 in.by 32in.
+
+## JOSEPH DU GREUX.
+
+- 127 PORTRAIT OF THE EMPRESS MARIA TERESA
+
+Threequarter-length figure, turned to the left, facing the spectator,in black dress with widow's weeds,holding akerchief in her right hand；her sceptre and crown on a cushion,on a marble-top console table by her side; curtain background
+
+58 in.by 45 in.
+## JEAN BAPTISTE GREUZE.
+
+- 128 PORTRAIT OF CECILE VOLAGE
+
+The heroine of "Les Liaison Dangeureuses," by Choderlos de La Clos
+
+Half-length,facing the spectator, in white muslin decollete dress, with jewelled bands round her arms; her hair falling in ringlets on to her shoulders,and adorned with fowers and blueriband
+
+Oval—23↓ in.by19in.
+
+Echibited at the Grafton Gallery(Fair Women Echibition),1894,No.97
+
+Echibited at the Burlington Fine Arts Club,1913, No.41
+
+Illustrated in “The Holford Collection,Dorchester
+
+House," plate clvi
+
+## JEAN BAPTISTE GREUZE.
+
+- 129 PORTRAIT OF THE MOTHER OF THE ARTIST
+
+In black silk dress,with white fichu at the neck, white lace bonnet trimmed with blue riband; gold ear-ring
+
+22 in.by 18in.
+
+Echibited at Burlington House,1887,No.85
+
+Illustrated in “The Holford Collection,Dorchester
+
+House," plate clv
+
+## NICOLAS LANCRET.
+
+- 130 FETES-CHAMPETRES-a pair
+
+2
+
+Ladies and gentlemen music-playing and conversing in a glade; and a lady on a swing, with ladies and gentlemen conversing
+
+21 in.by 38 in.
+
+## NICOLAS LANCRET.
+
+- 131A FETE-CHAMPETRE
+
+A harlequin seated at the foot of a bust of Hymen, making love to a lady by his side; a group of five other figures in the background playing and singing
+
+On panel14 in.by 11 in. From the Colleciion of Joseph Marsland, Esq., 1840
+## PIERRE MIGNARD.
+
+- 132 PORTRAIT OF THE DUCHESSE DE BoURGOYNE
+
+Threequarter-length figure,turned to left,facing the spectator; in embroidered white dress richly adorned with pearls,blue cloak,pearl drops and necklace;holding a miniature of a nobleman, who wears the"bleu-duroi,"in her uplifted left hand
+
+Oval—34in.by28 in.
+
+Illustrated in “The Holford Collection,Dorchester
+
+House,”plate cliv
+
+## GASPAR POUSSIN.
+
+- 133 A SYLVAN LANDSCAPE
+
+An opening in a wood, with two figures partly draped looking towards a cavern; in the middle distance Narcissus gazing into the water
+
+38 in.by 53 in.
+
+See Dr.Waagen's Art Treasures in Great Britain" vol.ii,p.195
+
+Echibited at the Burlington Fine Arts Club,1921-2, No.39
+
+Illustrated in “The Holford Collection,Dorchester
+
+House,” plate ccciii
+
+## GASPAR POUSSIN.
+
+- 134AFTER A SHOWER
+
+A woodyriver scene,with a shepherd driving his flock, and with two Classical figures reclining in front
+
+32 in.by 48 in.
+
+From the West Collection
+
+Bought in 1840 of Buchanan, from the Beckford Collection
+
+See Dr. Waagen's " Art Treasures in Great Britain, vol.ii, p.195
+## GASPAR POUSSIN.
+
+- 135 TivoLI:a Rhapsody
+
+An extensive view over the Campagna through clumps of trees, with two Classical figures in the foreground; buildings in the middle distance;hills beyond
+
+Echibited at the Art Treasures Echibition, Manchester,
+
+29 in.by 43in.
+
+1857,No.963
+
+See Dr. Waagen’s “Art Treasures in Great Britain, vol.ii,p.195
+
+Illustrated in “The Holford Collection,Dorchester
+
+House,” plate ccci
+
+## GASPAR POUSSIN.
+
+- 136 A GOATHERD IN THE SABINE HILLS
+
+A woodland scene, with a shepherd driving his herd of goats along a road into a valley; figures and buildings beyond
+
+27 in. by 19 in.
+
+From the Collection of John Barnard,Esq.
+
+Bought of Mr. Beckford,1839
+
+See Dr. Waagen's “ Art Treasures in Great Britain,"
+
+vol.ii,p.195
+
+Illustrated in "The Holford Collection,Dorchester House,"plate cacii
+
+## FRANCOIS DE TROY.
+
+- 137 LA DAME AUX PECHES
+
+In blue dress embroidered with gold braid, brown fowing scarf, fowers in her hair, holding a peach in her left hand,which she has taken from a silver dish on a stone ledge in front
+
+37 in.by 29 in.
+
+Purchased from Redfern at Warwick in 1863, and said to bea Member of the Rohan Family
+
+Illustrated in "The Holford Collection,Westonbirt," plate lcccic
+## CLAUDE JOSEPH VERNET.
+
+## 138A MEDITERRANEAN PORT
+
+In the foreground a bay scene, with figures round a camp fre, near some grey-green rocks, a fisherman angling, and a small boat moored, with men arranging a net;alongside of a boathouse are seen brigs and small craft; the morning sun breaks through the mist
+
+38 in.by 53 in.
+
+Echibited at Burlington House,1912,No.139
+
+Echibited at the Burlington Fine Arts Club,1913, No.64
+
+Illustrated in "The Holford Collection,Westonbirt," platecc
+
+SeeIllustration
+
+## CLAUDE JOSEPH VERNET.
+
+- 139 A VIEW IN TIVOLI
+
+A rocky and mountainous landscape, through which fows a river in torrent,with three artists in the foreground, and fishermen drawing their nets; beyond, a range of distant hills, crowned by Classical buildings, and with an aqueduct in the left distance; blue sky,with clouds
+
+38in.by 52in.
+
+Echibited at Burlington House,1912, No.141
+
+Echibited at the Burlington Fine Arts Club,1913, No.67
+
+Illustrated inThe Holford Collection,Westonbirt," plate cci
+## SPANISH SCHOOL.
+
+## BARTOLOME ESTEBAN MURILLO.
+
+- 140 PORTRAIT OF DON NICOLAS AMAZZARINO
+
+Life-size;half-length figure, slightly turned to the left ; long black hair, in black habit with black lace trimmings and white puffed sleeves,white lawn collar;holding in his hands a human skull.In a painted oval within a square
+
+32 in.by 29 in.
+
+Purchased from Buchanan,1842
+
+Echibited at the Echibition of Spanish Art,New Gallery, 1895-6, No. 67
+
+See Curtis's “Velazquez and Murillo,"No. 471
+
+Illustrated in "The Holford Collection,Dorchester House,"plate covii
+
+See Illustration
+
+## BARTOLOME ESTEBAN MURILLO.
+
+- 141 THE VIRGIN OF THE IMMACULATE CONCEPTION
+
+Threequarter-length figure, in white dress with blue cloak falling from her left shoulder, her hands clasped in prayer and looking upwards in adoration;a circle of stars around her head
+
+34 in.by 27 in.
+
+Brought to England by Sir J. M. Brackenbury
+
+Echibited at the British Institution,1835,No.161
+
+Echibited at the British Institution,1844,No.80
+
+See Curtis's “Velazquez and Murillo,No.77
+
+See Dr. Waagen's " Art Treasures in Great Britain," vol. ii, p. 199
+
+Exhibited at the Echibition of Spanish Art, New
+
+Gallery, 1895-6, No.92
+
+Reproduced in August L.Mayer's Klassiker der Kunst " Murillo," p. 245
+## BARTOLOME ESTEBAN MURILLO.
+
+- 142 PORTRAIT OF EL DUQUE DI MEDINA CELI
+
+Formerly regarded as Don Luis de Haro,Marquis of Caspio, but identified by Mr.A. Van de Put as representing the Duke of Medina Celi
+
+Half-length figure, slightly turned to the right,long auburn hair falling down over his shoulders,in black dress,with floreated design in black braid,a black cloak over his shoulders,a white lawn collar,wearing a jewelled ornament at the neck, the emblem of the Golden Fleece suspended on a gold riband; the hilt of his sword seen under his left arm;landscape background.In a painted ovat
+
+31in.by23in.
+
+From theAlton Towers Sale
+
+From the Collection of Charles Scarisbrick,Esq.,1861 Echibited at Burlington House,1887,No.158
+
+Echibited at the Echibition of Spanish Art,New Gallery,1895-6,No.30
+
+See Curtiss “Velazquez and Murillo,”No.460
+
+Illustrated in “The Holford Collection,Dorchester
+
+House,”plate ccviii
+
+See Illustration
+
+## BARTOLOME ESTEBAN MURILLO.
+
+- 143 THE VIRGIN AS MATER PURISSIMA
+
+The Virgin is seen half-length,her hair falling on to breast clasping a blue robe,and looking upwards in her shoulders,in white dress,her hands crossed on her adoration
+
+27 in.by 20in.
+
+Echibited at the British Institution,1851,No.47
+
+Echilited at the Echibition of Spanish Art, New Gallery,1895-6,No.41
+
+See Dr. Waagen's # Art Treasures in Great Britain, vol.ii,p.199
+
+Engraved and mentioned by Mrs. Jameson in “Legends of the Madonna”p.52
+
+See Curtis’s “Velazquez and Murillo,No. 76
+## BARTOLOME ESTEBAN MURILLO.
+
+- 144 A GIRL LIFTING HER VEIL
+
+Full face, looking to right, in dark green bodice laced at the front over a white chemisette,her left shoulder uncovered, raising her right arm to lift the veil which covers her head
+
+20 in. by 15 in.
+
+From the Collection of Sir Thomas Baring
+
+Echibited at the British Institution,1837,No.100
+
+Echibited at theBritish Institution,1844,No.101
+
+Echibited at the British Institution,1852,No.33
+
+Echibited at the Echibition of Spanish Art, New Gal- lery, 1895-6, No.30
+
+Exhibited at the Spanish Echibition, Grafton Gallery,
+
+1913-14,No.20
+
+See Dr. Waagen's "Art Treasures in Great Britain," vol.ii,p.199
+
+See “Kugler's Handbook,by Sir Edmund Hardy, vol.ii,p.185
+
+See Curtis's " Velazquez and Murillo, No. 430
+
+Reproduced in August L. Mayer's Klassiker der
+
+Kunst “Murillo," p. 210
+
+Illustrated in “The Holford Collection, Westonbirt,"
+
+plate lcccvi See Illustration
+
+## SPANISH SCHOOL.
+
+- 145 TWO CHILDREN IN AN APARTMENT
+
+A girl standing by a table, holding a fruit in her right hand, and playing with a spaniel, while a younger child sits on a cushion in front holding a crucifix and goldfinch
+
+57 in.by 42 in.
+
+## SPANISH SCHOOL.
+
+- 146.PORTRAIT OF A LADY
+
+Threequarter-length figure, facing the spectator; in chain and pendant; black hat with jewels and white red dress, richly embroidered with gold braid, black gown enriched with pearls, white lace ruff and frills, jewelled feathers; her right hand caresses a spaniel; the background of gold stamped leather
+
+44 in.by 37 in.
+## 147 PORTRAIT OF PHILIP IV.OF SPAIN
+
+Full-length figure, standing threequarter face to the left looking at the spectator,with bare head, in yellow doublet with sleeves richly embroidered with running lines of gold braid,embroidered brown breeches and long brown riding boots,a crimson scarf over his right shoulder,with embroidered ends falling behind;steel gorget and white collar,resting his gloved left hand on the pommel of his sword and holding a baton in his right;his plumed hat on a table by his side
+
+81 in.by46 in.
+
+Purchased from Nieuwenhuys,1853
+
+Echibited at Burlington House,1887,No.126
+
+Echibited at the Guildhall,1901,No.124
+
+Echibited at the Echibition of Spanish Art,Grafton Gallery,1913-14,No.61
+
+Praised by Passavant in "Tour of a German Arbist, vol.ii,p.180
+
+See Curtis's “Velazquez and Murillo,No.107
+
+See Justi's “Diego Velazquez and his Times,”p. 112
+
+See Armstrong’s“Life of Velazquez,”p. 27
+
+Reproduced in Dr.Wallier Gourd’s Klassiker der
+
+Kunst,Velazquez,”vol.iv,p.13
+
+Reproduced in Walter Gensel's Klassiker der Kunst, " Velazquez," vol. iv, p. 124
+
+Illustrated in "The Holford Collection,Dorchester House," plate cvi
+
+See Illustration
+## 148 PORTRAIT OF PHILIP IV.OF SPAIN
+
+Aged about fifty years
+
+Bust, life-size,his head slightly turned to the left; in black dress,the sleeves slightly slashed with white, stiff white collar,wearing the Chain and Order of the Golden
+
+Fleece
+
+31 in.by 23 in.
+
+PurchasedfromBuchanan,1840
+
+Echibited at the Echibition of Spanish Art, New
+
+Gallery,1895-6,No.105
+
+See Curtis's “Velazquez and Murillo,”No. 124
+
+Illustrated in “The Holford Collection,Dorchester
+
+House," plate cvii
+
+See Illustration
+
+## DIEGO RODRIGUEZ VELAZQUEZ DE SILVA.
+
+## 149 TWO SPANISH PEASANTS DRINKING
+
+A peasant,in dark dress with large hat,holding a bowl of wine in his hands, while his companion, in dark coat, leans upon his shoulder
+
+A replica of the trwo central heads in " Los Borrachos,"
+
+at the Prado in Madrid
+
+Oval-26 in.by33 in.
+
+Purchased from L.Viardot
+
+Echibited at Whitechapel,1889,No.95
+
+Mentioned in “Annuaire des Artistes,” 1861, p. 135
+
+See Curtis's "Velazquez and Murillo,"No. 29
+
+Illustrated in “ The Holford Collection, Westonbirt, plate lccui
+## GERMAN AND OTHER 8CHOOLS.
+
+## JAKOB BOGDANI.
+
+- 150OvERDooRs-apair
+
+2
+
+Amorini playing with a festoon of flowers; and Amorini with a vase of flowers by the sculptured base ofacolumn
+
+23 in.by 60 in.
+
+## BARTHOLOMAEUSBRUYN.
+
+- 151 PoRTRAIT OF A GENTLEMAN
+
+About 40yearsof age
+
+Half-length figure,life-size,full face,close black beard, in black cloak showing purple sleeves, small white lace frills at the neck, soft black cap;his right hand held palm outwards, his left grasps his cloak; dark green background
+
+FormerlyattributedtoSebastianodelPiombo Onpanel-38 in.by26in. Illustrated in "The Holford Collection,Westonbirt, plate cccvii
+
+SeeIllustration
+
+## ADAM ELSHEIMER.
+
+- 152 L'EAU QUI DORT
+
+A quiet pool, with waterfowl;in the background rocks and tall trees in heavy foliage; weeds,ferns and grass in the left foreground
+
+On copper—10↓in.by12in. Echibited at the Burlington Fine Arts Club,1921-2, No.20
+
+Illustrated in The Holford Collection,Dorchester House"plate cccviii
+## ITALIAN SCHOOL.
+
+- 153 THE MAGDALEN,with a skull; and CHRIST BoUND-—(tuo) 2
+
+## ANDREA SCHIAVONE.
+
+- 154 A PREDELLA, with the Annunciation in the centre, Saint Catherine and Saint Helena attended by Angels in circles
+- on either side
+
+Outside dimensions-5# in.by 31 in.
+
+## IL TINTORETTO.
+
+- 155 PoRTRAIT OF A NoBLEMAN
+
+Bust, figure turned to right looking at the spectator, wearing beard and moustache, in black cloak over a red tunic,and with small white lawn collar 19 in.by 15 in.
+
+## ROSA DATIVOLI.
+
+- 156 HERDsMEN, with goats, sheep and dogs, in landscapes—a pair 2
+
+57↓ in.by 87 in.
+
+## LORENZ STRAUCH.
+
+- 157 PoRTRAIT OF A CoUNTESS HALLER v.HALLERSTEIN
+
+Threequarter-length fgure, standing facing the spectator,in green velvetdress, her neck covered with black crimson cuffs and white lace frills; three gold chains around her neck, each longer than the other; jewelled bracelets, her hands clasped and wearing three gold rings on her fingers
+
+With coat-of-arms
+
+38 in.by 30 in.
+
+Signed, with monogram (LS interlaced), and dated 1602
+
+Illustrated in "The Holford Collection,Westonbirt," platelcv
+## BARTHOLOMAUS ZEITBLOM (OF ULM).
+
+- 158 SAINT GEORGE AND THE DRAGON
+
+The youthful Saint,in full armour with a red cloak over his shoulders, and red shoes with long pointed toes, stands bareheaded holding his banner in his right hand and a shield in his left;behind him lies the dragon,in the likeness of a bear, dying of a wound that has severed the spine across the shoulder blades
+
+Onpanel—30 in.by151in.
+
+Exhibited at Burlington House, 1893, No.155,as "Spanish School"
+
+Echibited at the Echibition of Spanish Art,New Gallery,1895-6, No.155, as "Spanish School "
+
+Exhibited at Burlington House,1912,No.36,as“Early
+
+- Echibited at the Burlington Fine Arts Club,1921-2, No.1
+
+Illustrated in "The Holford Collection,Westonbirt, plate cxviii
+## The following are the Property of LADY HOLFORD.
+
+DRAWING.
+
+RUSSELL.
+
+159 A CHILD HOLDING GRAPES Pastel—23 in.by 18 in.
+
+## PICTURES.
+
+## CAMPIDOGLIO.
+
+160 AUTUMN
+
+A boy and girl gathering grapes from a heavily-ladened vine, with melon,apples,plums,and other fruit in the
+
+72 in. by 62 in.
+
+foreground
+
+In Georgian frame, painted blue, and with gilt scrolls
+
+J. A. FITZGERALD.
+
+161 A SOLDIER OF THE TIME OF CROMWELL 31 in.by 22 in
+
+ITALIAN SCHOOL.
+
+162 THE ANNUNCIATION On panel19 in.by 24 in.
+
+PIERRE MIGNARD.
+
+163 PoRTRAIT.OF A LADY AS “DIANA
+
+In yellow and white dress, with flowing red scarf, holding a spear, walking in a wood with hounds
+
+48 in.by 34 in.
+
+FINIS
+
+London:Printed by WILLIAM CLOwEs AND SoNs,Limited, Great Windmill Street,W.1; and Duke Street, Stamford Street, S.E.1

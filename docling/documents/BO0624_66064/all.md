@@ -1,0 +1,1656 @@
+## CATALOGUE.
+
+## On FRIDAY,JULY 6,1923,
+
+AT ONE O'CLOCK PRECISELY.
+
+## PICTURES.
+
+## EARLY BRITISH SCHOOL.
+
+## SIR W. BEECHEY,R.A.
+
+1PORTRAIT OF FREDERICA CHARLOTTE CATHERINE,DUCHESS OF YoRK, eldest daughter of the King of Prussia;married in 1791,Frederick,Duke of York, second son of George III
+
+Seated,her head turned slightly to the left,wearing a white dress, cut low at the neck,trimmed with gold gold chain round her neck; her arms folded in front, braid;her hair bound with a gold riband,and a triple holding a letter in her left hand;a table by her side
+
+34 in.by 27 in.
+
+Echibited at the Royal Academy,1800
+
+Echibited at the SouthKensingtonPortraitEchibition,
+
+1868
+
+Presented to Mrs. Gwyn by Her Royal Highness
+
+From the Collection of James Price,Esq.,1895
+
+From the Collection of Sir Julian Goldsmid, Bart.,
+
+1896
+
+Described in "Sir W.Beechey,R.A."by W.Roberts, p.71
+
+Engraved by M. A.Bourlier for “La Belle Assemblee,"
+
+1806
+
+<!-- image -->
+850
+
+<!-- image -->
+
+<!-- image -->
+
+## SIR W.BEECHEY, R.A.
+
+- THROCKMORToN; Maria Catherine, daughter of Thomas Gifford, Esq.; married in 1782, Sir
+- 2PORTRAITOFLADY Courtenay Throckmorton
+
+In white dress, cut low at the neck,and with short elbow sleeves, yellow sash,with large bow at the back; her hair done wide,and powdered; seated under some trees,with a black and white dog in front of her
+
+50 in.by 40 in.
+
+## J.CONSTABLE,R.A.
+
+- 3THE EMBARKATION OF GEORGE IV.FROM WHITEHALL ON THE OCCASION OF HIS OPENING WATERLOO BRIDGE,JUNE 18TH,1817
+
+A view looking down the river,with the bridge and St. Paul's in the distance. In front are a number of State barges and smaller craft,with a few sailing-barges moored in the middle distance;on theright are the houses of Whitehall Terrace, with tall trees; in the foreground are a number of spectators watching the embarkation from the quay; a salute is being fired from the bridge
+
+A large sketch for the finished picture
+
+58 in.by 94 in.
+
+From the Collection of Joseph Fenton,Esq.,1879
+
+From the Collection of Sir Julian Goldsmid,Bart.
+
+1896
+
+See Illustration
+<!-- image -->
+
+## T.GAINSBOROUGH,R.A.
+
+## 4
+
+## PORTRAIT OF MRS.DRUMMOND
+
+Martha, eldest daughter of the Hon. Thomas Harley;
+
+married in 1779, George Drummond,Esq.,of Stanmore; died 1788
+
+As a young lady;her hair powdered, falling in ringlets on her shoulders, and bound with a yellow riband; she wears a pale mauve costume, cut low at the neck,and short sleeves trimmed with lace ruffles, the bodice is edged round with a trimming of pearls,and a gauze scarf enriched with gold falls over her arms; seated slightly to the right,with her head turned to the front, and rests two clay models of children's heads and some drawing materials;in her right hand she holds a sketch;green curtain background
+
+49 in.by 39 in.
+
+Echibited at Burlington House,1890
+
+From the Collection of Lord Revelstoke,1893
+
+Mentioned in Armstrongs“Gainsborough,”p.194
+
+See Illustration
+3200
+
+<!-- image -->
+
+## T.GAINSBOROUGH,R.A.
+
+## 5MR.AND MRS.DEHANEY AND THEIR DAUGHTER
+
+Members of a family who were formerly owners of
+
+Hayes Place, Kent
+
+A gentleman,in dark blue dress ornamented with silver braid,white stock and lace frills, standing in an apartment.On his right his wife is seated; she wears a crimson satin dress,cut low at the neck,and with short sleeves terminating in large lace frills;round her neck is a small lace ruff and a gold bead necklace;over her shoulders is a black lace fichu. In the centre of the group is a small child,wearing a white frock and cap, with a blue sash; green curtain background, with a window on the left
+
+Whole length—94 in.by 58 in.
+
+Echibited at the Grosvenor Gallery,1885
+
+From the Collection of Sir Julian Goldsmid,Bart.,1896
+
+Mentioned in Armstrong’s"Gainsborough,”p.194
+
+See Illustration
+GRAV
+
+<!-- image -->
+
+## T.GAINSBOROUGH,R.A.
+
+6PORTRAIT OF ADMIRAL LORD THOMAS GRAVES, son of Rear-Admiral Graves;second in command under Admiral Howe against the French off Brest on June 1, 1794, when he was badly wounded;for his services he was created Lord Graves,Baron of Gravesend;died 1802
+
+In blue naval coat edged with gold braid,yellow vest, white breeches and white stock,holding his cocked hat under his left arm,resting his right hand upon a table;a red curtain on the left
+
+49 in.by 39 in.
+
+See Illustration
+<!-- image -->
+
+## 7APAGE
+
+A young gentleman,of about 15 years of age, walking on a terrace,with bright brown hair falling upon his shoulders;he wears a Van Dyck costume of pale blue silk, the jacket is open at the neck and turned over with a small-lace collar, the sleeves are slashed showing a white cambric shirt,his breeches are bound with knots of riband at the knees,and blue riband bows adorn his white shoes; over his left arm hangs a small blue cloak,and in his right hand be carries a large white hat with ostrich feather;yellow curtain and landscape background
+
+Unfinished
+
+63 in.by 42in.
+
+Echibited at Burlington House,1894
+
+See Illustration
+
+## T.GAINSBOROUGH,R.A.
+## T.GAINSBOROUGH,R.A.
+
+## 8
+
+## S PORTRAIT OF GENERAL BLYTH
+
+Facing to the right,in blue coat lined with crimson, and ornamented with gold braid;white lace stock and powdered hair.In a painted oval
+
+29 in.by 24 in.
+
+## T.GAINSBOROUGH,R.A.
+
+## 9PORTRAIT OF MISS KATHERINE EDGAR
+
+<!-- image -->
+
+Slightly turned to the left,in embroidered blue dress, cut square at the neck, a blue gauze scarf over her shoulders,blue riband with bow round her neck; foliage background.In a painted oval
+
+29 in. by 24 in.
+
+Echibited by Mrs. Edgar at the Loan Echibition of
+
+Deceased Suffolk Artists,Ipswich
+
+Echibited at the New Gallery,1897-98 Mentioned in Armstrong's"Gainsborough,p.194
+
+## T.GAINSBOROUGH,R.A.
+
+10 THE WoOD-GATHERERS
+
+A young girl carrying her little sister in her arms,a boy with a faggot of wood seated on a bank;landscape background
+
+17 in.by 14 in.
+
+## T.GAINSBOROUGH,R.A.
+
+## 11 A LANDSCAPE IN SUFFOLK
+
+A peasant,with a white and a brown horse,ploughing in a feld;beyond is a church among trees; a windmill stands on bigh ground on the right;a pool and donkeys in the foreground
+
+19 in.by 23 in.
+
+Echibited by Colonel Unthank at Burlington House 1891
+
+Mentioned in Armstrong’s“Gainsborough,p.208
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 12 SUDBURY
+
+A woody landscape,with a peasant and cart under some trees;a stream, with a rustic bridge, on the right 16↓ in.by 21 in.
+
+## T.GAINSBOROUGH,R.A.
+
+## 13 A HILLY LANDSCAPE
+
+A ruined church among trees upon high ground to the left; some peasants under two trees in the foreground, and three donkeys near a tree-trunk; distant landsca pe on the right,with a river,village,and a sailing-boat
+
+24 in.by 29in.
+
+Echibited at the New Gallery,1897-8 From the Collection of Sir Charles Robinson
+
+Mentioned in Armstrong’s“ Gainsborough,”p.207
+
+## W.HOGARTH.
+
+- 14PORTRAIT OF A LADY
+
+In white satin dress, cut low at the neck,partly lined
+
+29 in.by 24 in.
+
+with pink and ornamented with gold lace,and fastened in front with a knot of pearls. In a painted oval
+
+## J.HOPPNER,R.A.
+
+## 15 PORTRAIT OF A LADY
+
+In white muslin short-waisted dress,cut low at the neck and with short sleeves,a white muslin veil over her tightly-bound hair; red coral necklace, brown leather glove upon her left hand; seated on a terrace; tree and stone background
+
+44 in.by 34 in.
+
+From the Collection of Sir Julian Goldsmid,Bart.,
+
+1896
+
+Mentioned in W. MeKay and W.Roberts'The Works of John Hoppner"p.287
+
+See Illustration
+
+## T.GAINSBOROUGH,R.A.
+## SIR T.LAWRENCE,P.R.A.
+
+## 16A BOY WITH A DOG
+
+A young boy in loose white frock,with golden curls, standing to the right,his right hand holding the ear of a large St. Bernard dog;his left foot is raised and rests upon the dog's thigh; stormy sky; sea in the distance
+
+50 in.by 40 in.
+
+See Illustration
+
+SIR T.LAWRENCE,P.R.A.
+
+- 17 PORTRAIT OF A LADY
+
+In black dress with long sleeves and deep white ruff, over her arms a white muslin scarf;her hair powdered and bound with a pale blue riband,with two curls falling on her right shoulder;walking to the left and putting on her gloves; distant landscape beyond; column and red curtain on the right
+
+Whole length—82in.by54in.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+## J.OPIE,R.A.
+
+## 18 THE FORTUNE-TELLER
+
+A young lady,in plain white dress, cut square at the neck, with short sleeves,and with a narrow mauve sash, is seen standing in a landscape;her hair is done tight, with small bows over her forehead,bound with a red riband; in her left hand she holds her straw bonnet,and extends her right hand to a gipsy fortune-teller who stands by her side; the gipsy is wearing a dark brown dress,with red shawl and a spotted kerchief round her head;on her back she carries a baby,and before her is a boy in a white shirt and brown breeches, who is trying to play with a white and brown spaniel;landscape background,with a pedestal and bunch of flowers on the left
+
+92 in. by 56 in.
+
+From the Collection of Madame de Falbe,1900
+
+SeeIllustration
+
+## SIR H.RAEBURN,R.A.
+
+## 19 PORTRAIT OF MRS.PATRICK DUFF
+
+In white dress,cut low at the neck,and long sleeves, with broad pink sash;herhair powdered and bound with a string of pearls;seated,holding a book in her right hand;tree and foliage background
+
+49 in.by 39 in.
+
+Mentioned in“Sir H.Raeburn,”by James Greig
+
+<!-- image -->
+<!-- image -->
+
+## SIR J. REYNOLDS,P.R.A.
+
+## 20 PORTRAIT OF MRS.MATHEW
+
+Miss Ellis Smyth, second daughter of James Smyth, Esq., of Tinny Park, Co. Wicklow, wife of Francis Mathew,M.P.,afterwards Lord Llandaff; she died in 1781
+
+In white satin dress,cut low at the neck,and with long sleeves; the skirt is gathered at the side and falls in big folds;a string of pearls over her shoulder and fastened in a knot in front;her hair is done high and with two large curls on each side of her neck; standing to the right with her left hand resting upon her hip;at her side is a brown and white spaniel jumping up;landscape background,with a stream in the middle distance; a tree on theleft
+
+Painted in 1777
+
+Whole length—93 in.by57in.
+
+From the Collection of the Marchioness of Thomond, 1821
+
+Echibited at Suffoll Street,1834
+
+Echibited at Burlington House,1871
+
+From the Wynn Ellis Collection,1876
+
+Echibited at Burlington House,1882,by W.Stirling
+
+Crawford,Esq.
+
+From the Collection of Caroline Duchess of Montrose,
+
+1894
+
+From the Collection of Sir Julian Goldsmid,Bart.
+
+1896
+
+Engraved bg W.Dickinson,1780
+
+Engraved by James Scott
+
+Described in Graves and Cronin,p.633
+
+SeeIllustration
+<!-- image -->
+
+## SIR J. REYNOLDS,P.R.A.
+
+- daughter of Samuel Whitbread, Esq.,M.P.,of Bredwell Park,Herts; afterwards wife of James Gordon,of Stocks, Tring;she died in 1832
+
+In white satin dress trimmed with gold braid,with a knot and tassel in front; over her arms is a yellow gauze scarf;her hair is done high and bound with a coloured riband;walking in a landscape,with her right arm extended; trees on the right and a column on the left
+
+Painted in 1769
+
+Whole length—92in.by55in.
+
+From the Collection of Robert Ludgate,Esq.,1830
+
+Exhibited at the Grosvenor Gallery,1883
+
+From the Collection of Mrs.Bright,1894
+
+Mentioned in Graves and Cronin,p.1051
+
+See Illustration
+## SIR J.REYNOLDS,P.R.A.
+
+- 22PORTRAITOF CHARLES MANNERS,FoURTH DUKE OF RuTLAND. Born 1754; son of the famous Marquess of Granby; succeeded his grandfather as fourth Duke,1779; a great lover of the fine arts,he gave Sir Joshua 1200 for his "Nativity"(destroyed at the fire at Belvoir)—an enormous price at that time; died 1787,when Lord-
+- Lieutenant of Ireland,aged 33
+
+In Garter robes of white and crimson, the blue cloak tied with a white knot at the shoulder,embroidered sleeves, with lace frills and white lace stock;standing to the left with his hand resting upon a table,on which is his plumed hat,his left foot upon a stool,and a wand in his right hand;red curtain background,and landscape on the right
+
+Whole length-93 in.by57 in.
+
+Painted in 1788 for Mr.John FitzGibbon,afterwards
+
+Earlof Ware
+
+From the Collection of Sir Julian Goldsmid,Bart., 1896
+
+Engraved by W.Dickinson
+
+Mentioned in Graves and Cronin,p.850
+
+<!-- image -->
+## SIR J.REYNOLDS,P.R.A.
+
+- 23“REFLECTIoNS ON ‘CLARISSA HARLow'"(a portrait of Miss
+- Theophila Palmer)
+
+<!-- image -->
+
+<!-- image -->
+
+A young girl seated in an arm-chair reading Clarissa Harlowe"; she wears a blue shot cloak fastened with a blue bow over her white muslin dress; she rests her head upon her right hand
+
+29 in.by 24 in.
+
+## G.ROMNEY.
+
+- 24 PORTRAIT OF LADY URITH SHORE, daughter of Joseph Offley, Esq.,of Norton Hall,and co-heir of her brother; married,as his frst wife, March 15,1759, Samuel Shore, Esq., of Norton Hall and Mearsbrook; died in 1781
+
+Three-quarter length,seated to the right, with pale blue cloak edged with white fur,over a white dress, cut low at the neck,and with short sleeves; buff-coloured sash trimmed with gold;her hair done high and bound with white muslin and a pink bow;resting her right arm upon a ledge;foliage and landscape background
+
+49 in.by 39 in.
+
+From the Collection of James Price,Esq.,1895
+
+From the Collection of Sir Julian Goldsmid,Bart., 1896
+
+Described in W.Humphry Ward and W.Roberts "Romney"p.142
+
+See Illustration
+## G.ROMNEY.
+
+## 25 PORTRAIT OF A LADY AND CHILD
+
+In blue satin bodice, cut low at the neck, with black lace fichu and white quilted skirt, seated in a yellow brocade arm-chair; by her side is a stone ledge, on which sits her young child, wearing a white frock and lace cap, and holding an apple
+
+49 in. by 39 in.
+
+See Illustration
+
+750
+
+<!-- image -->
+<!-- image -->
+
+## G.ROMNEY.
+
+- 26 PORTRAIT OF MRS. CHITTY MARSHALL, married firstly John Halsey, Governor of Salsette, Bombay;left a widow at 19 and returned to England,and married Mr. Chitty Marshall. Colonel Romney of the Indian Army wished to marry her and gave her this picture,which he commissioned his brother to paint
+
+In white muslin dress, cut in a V-shape at the neck, and with short sleeves to the elbow,with pale blue sash and ribands;her hair semi-powdered and hanging in long curls upon her shoulders;her head turned slightly to the right,and her arms folded before her
+
+Painted in 1788-9
+
+29 in.by 24 in.
+
+Exhibited at Burlington House,1892
+
+Echibited at the Grafton Gallery,1900
+
+Described in W.Humphry Ward and W.Roberts' "Romney" p. 69,as "Mrs.Halsey"
+
+See Illustration
+## G.ROMNEY.
+
+## 27 PORTRAIT OF JAMES OLIVER,ESQ.
+
+<!-- image -->
+
+In Windsor uniform, consisting of blue coat, red collar,with white vest and stock;powdered hair
+
+Painted in 1783 29 in.by 24 in.
+
+From the Collection of Sir Julian Goldsmid,Bart,
+
+1896
+
+Described in W.Humphry Ward and W.Roberts "Romney," p. 114
+
+## J.STARK.
+
+- 28 A WoODY LANDSCAPE
+
+A large group of trees in the centre, with cattle on a road;a pool in the foreground;a church in the distance on the left
+
+On panel—19 in.by 23in.
+
+## J.M.W.TURNER,R.A.
+
+- 29 THE FALLS OF THE CLYDE
+
+In the centre is seen the water falling over a high bank and raising a cloud of spray; the blue river fowing in the middle distance towards the left foreground；;on the right a group of figures seated on a rock below a high bank;the whole picture is bathed in hot evening light
+
+35 in.by 47 in.
+
+Formerly in the possession of John Pound,Esq.
+
+From the Collection of the Reu.Thomas Prater,1871
+
+From the Collection of Sir Hugh Hume Campbell,1874
+
+From the Collection of Sir William Houldsworth,1891
+
+Mentioned in Armstrong’sTurner,”vol.ii, p.220
+
+<!-- image -->
+
+260
+
+<!-- image -->
+
+200
+<!-- image -->
+
+<!-- image -->
+
+## SPANISH SCHOOL.
+
+## B.E.MURILLO.
+
+- 30 SAN FRANCISCO DE PAULA
+
+An aged monk, in brown habit, kneeling upon the seashore,resting his left hand upon a staff; his right hand is extended,and he looks upwards towards a glory, in the centre of which is inscribed CHARITAs; before him are five Cherubs hovering in the air;in the distance,on the right, are small figures of the Saint, and two monks emerging from the sea; beyond is a sailing-ship; on the left are rocks and clouds
+
+73 in.by 56 in.
+
+Broughtfrom Spain about 1760 by John Blackwood of Soho
+
+Square.It was not in his sale,March 19,20,1760,but was sold by him at private sale to Sir Lawrence Dundas, at whose sale by Greenwood,May 29,1794,the Earl of Ashburnham became the purchaser at &amp;400. At the Earl of Ashburnham sale, July 20,1850, jt sold for f1050.This is probably the San Francisco de Paula mentioned by Palomino as having formerly belonged to D.Francisco Artier,and afterwards to D.Juan Francisco Eminente
+
+The above note is from Curtis's Velazquez and Murillo,"No.301, p.239
+
+## VELAZQUEZ.
+
+## 31 TWO PRINCESSES
+
+Two young ladies,one seated upon a cushion,and the other standing beside her; they are dressed in pink costumes,with deep lace collars,cuffs and white cambric aprons; one is holding a bunch of fowers, and the other is caressing a pet dog; curtain and architectural background
+
+44 in.by 37in.
+
+Echibited at the Guildhall,1901
+## ITALIAN SCHOOLS.
+
+## FRA ANGELICO.
+
+## 32 THE DAY OF JUDGMENT
+
+High in the blue heavens Christ, wearing a dress of rose colour,with a light blue cloak embroidered with gold,is seated on clouds surmounted by a mandorla of Cherubs and Angels,andimmediatelybelow Him are three Angels bearing the Emblems of the Passion; to the right and the left in a double row are a number of Saints seated upon clouds
+
+On the earth below, to the right, are a group of the saved,composed of male and female Saints,warriors,and towards the Gate of Heaven; to the left are seen a group of the condemned,represented by pagans, false priests, ecclesiastics,interspersed with Angels,who lead them and sinners,who are being dragged by devils towards a rocky furnace on the extreme left
+
+On panel—40 in.by50in. See Illustration
+
+## PARIS BORDONE.
+
+## 33 A LADY AT HER TOILET
+
+<!-- image -->
+
+A lady,with rich auburn hair, seated bya table on dark blue dress,and a crimson cloak over her knees; she which is a basket of flowers;her costume consists of a holds a spray of roses in her right hand;a squirrel is seated upon a ledge on the left, eating a cherry
+
+45in.by 37in.
+
+<!-- image -->
+
+<!-- image -->
+
+320
+<!-- image -->
+
+## AMBROGIO DA BORGOGNONE.
+
+34 THE MADONNA AND CHILD
+
+<!-- image -->
+
+Under an archway the Madonna stands adoring the Infant Saviour;she wears a red costume,with long blue cloak; an Angel, in red dress, kneels on the marble pavement and supports the Infant Christ; on either side stand two Cherubs playing instruments, while above three Angels,kneeling on a cloud,are singing from an open book;rock and river background
+
+62 in.by 41 in.
+
+- 35 VENICE
+
+## A.CANALETTO.
+
+A view on the Lagoons, with the Church of S. Giorgio Maggiore; on the left, groups of fgures are standing on the quay; sailing-boats and gondolas in the middle distance,with the Doge's Palace and Saint Mark's beyond; large vessels on the extreme right
+
+21 in.by 32 in.
+
+05+7
+
+<!-- image -->
+## PIERO DI COSIMO.
+
+## 36 THE STORY OF JASON
+
+In the centre Jason,in fine armour, is seen,mounted on a richly caparisoned horse, arriving at the court of Aetes, and on the right he appears before the King and Medea,accompanied by his companions,Hercules, Castor,Pollux, Peleus,Admetus,Theseus and Orpheus; Jason is represented kneeling before the King and making known the errand on which he had come; on Argonauts;the ship "Argo"having been driven back by contrary winds to the country of the Doliones,were mistaken for Pelasgians,and an encounter ensued in which Cizycus, the King of the Doliones, was slain;in the distance are seen the foating rocks of Symplegades through which the "Argo"had to pass
+
+<!-- image -->
+
+On panel33 in.by 63 in.
+
+Echibited at the New Gallery,1893-4
+
+From the Collection of the Earl ofAshburnham
+
+See Illustration
+
+<!-- image -->
+
+6200
+<!-- image -->
+
+<!-- image -->
+
+## PIERO DI COSIMO.
+
+## 37 JASON AND MEDEA
+
+In the centre, Jason has appeared at the banquet of Pelias, and the usurper is seen tempting the young man to set out upon the quest of the Golden Fleece; on the right Jason appears with his companions,and the ship Argo"is.being got ready for the voyage; a little more remote Jason is to be seen plotting with Medea;to the left under an archway is depicted Medea casting a spell over the dragon which guards the Golden Fleece, whilst Jason is approaching in order to kill it; on the extreme left, in the foreground, Jason is ploughing with the two fire-breathing bulls,and the giants are engaged in mortal combat as they rise from the earth; in the background Jason and Medea are conveying the Golden Fleece to the ship "Argo"
+
+On panel—-33 in.by 60 in. Echibited at the New Gallery,1893-4 From the Collection of theEarl ofAshburnham See Illustration
+## CARLO ORIVELLI.
+
+- 38 THE VIRGIN AND CHILD
+
+The Madonna,in red and blue dress richly embroidered with gold,and with awhitekerchief over her hair,is seated upon an architectural throne; she supports the Infant canopy above,and on the floor are fruits and a vase of
+
+Saviourin her lap, Who holds an apple and wears a string of beads round Hisneck;Cherubs are seen undera golden flowers
+
+On panel, arched top-56 in.by 19 in.
+
+Formerly in the CollectionofLady Arundel
+
+## GIROLAMO DA SANTA CROCE.
+
+- 39 THE MADONNA AND CHILD WITH SAINTS
+
+<!-- image -->
+
+The Virgin Mary,in crimson dress,with blue cloak, seated,holding the Infant Christ on her lap;before her is St. John the Baptist in a green garment;and on the rightis St. Catherine
+
+On panel26in.by 45in.
+
+<!-- image -->
+
+1100
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+## GHIRLANDAIO.
+
+## 40 THE NATIVITY OF ST.JOHN THE BAPTIST
+
+The incident is depicted in the cloisters of a house.
+
+On the extreme right St. Zacharias is seen with his companions under the arch of a small temple, where an Angel hovers above an altar and addresses him;in the centre, under the frst archway of the house,the Virgin is saluting St.Elizabeth,while three female companions look on from a doorway in the background;on the left the interior of an apartment is seen through the arches,and St.Elizabeth,inmauve dress,reclines uponherbed,whichis covered by a crimson counterpane; before her are two female friends,one of whom holds the infant St.John on her lap; on the extreme left St. Zacharias,in red costume,is seated before a fire conversing with a woman in green dress;a maid in white enters the doorway, carrying a tray;a landscape in the left background
+
+Onpanel--30 in.by59. in.
+
+See Illustration
+<!-- image -->
+
+## GHIRLANDAIO.
+
+<!-- image -->
+
+41 ST. JOHN THE BAPTIST PREACHING IN THE WILDERNESS
+
+The scene is laid in a rocky valley interspersed with numerous trees, and in the distance is seen a glimpse of a river,with a town under a hill
+
+In the centre stands St. John holding a staff, and wearing a wine-coloured robe over his hair shirt;he is addressing a band of his followers who are grouped on either side;to the left is seated an old man in yellow and green dress, and beside him come a group of four men,three of whom are studying from books which they hold; and on the extreme left,an old man,in yellow and red costume,standing beside a young woman in green and blue
+
+To the right of St. John,a young man is seated on a while conversing together;beyond them two other men stand side by side;one of them holds a book,while his companion,looking towards the background, observes rock,and a group of three women rest on the ground, Christ with five of His disciples approaching along a pathway
+
+On panel-30 in.by 82 in.
+
+See Illustration
+<!-- image -->
+
+290
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## 42VENICE
+
+A view on the Grand Canal, with gondolas and figures 113 in.by 16 in.
+
+## S.DEL PIOMBO.
+
+## 43A SENATOR
+
+An old man,with long flowing beard,wearing a brown gown lined with red over a black dress, a small black cap on his head, seated in an arm-chair, holding his gloves in his left hand;a large open book on a green table before him
+
+Inscribed,"PRECOSUL-QUATER-ETAT-AN-LXV-AN-M-DXXIII"
+
+On panel—42 in.by29.in.
+
+## ANDREA DEL SARTO.
+
+## 44.ST.CATHERINE
+
+A figure, turned to the right,in green dress with blue kerchief round the shoulders, crimson robe over her arm, holding a martyr's palm in her right hand; the broken wheel is on a ledge by her side
+
+On panel-42 in.by 32 in.
+
+## G.B.TIEPOLO.
+
+## 45 THE MADONNA AND CHILD
+
+The Virgin Mary,in crimson dress, with brown veil over her head, stands upon a pedestal;with her right arm she supports the Infant Saviour,seated upon white and blue drapery,and holding a small Crucifx in His hand; the Madonna holds in her left hand a rosary,and behind her arm a Cherub is holding up the corner of her veil; on the right,an Angel,in white and blue robe,is kneeling on the edge of the pedestal,and swinging a golden censer; curtain architectural backround
+
+Signed“IOAs BATTA TIEPOLUs F.1735"
+
+93 in.by 60 in.
+
+## F.GUARDI.
+- 46WARRIORS
+
+120
+
+<!-- image -->
+
+A soldier,in armour,seated,holding a baton;beside him is another soldier, in armour and red cloak,holding a plumed helmet which he is about to place on the head of his companion
+
+46 in.by 43 in.
+
+## P.VERONESE.
+
+- 47 PORTRAIT OF A LADY OF NOBLE FAMILY.
+
+Seated slightly to the right,in very rich dress of white silk embroidered with floral design in gold, wearing an pearls round her neck, and a gold chain round her waist; seated in a green velvet chair beside a window, through elaborate lace collarette studded with jewels, strings of which is seen a hilly landscape
+
+47 in.by 37 in.
+
+## P.VERONESE.
+
+- 48PORTRAIT OF A LADY
+
+In striped dress of yellow, brown and white embroidered with gold,cut low at the neck,with necklace and strings ofpearls;she holds an embroidered kerchief in her right hand;her left hand rests on a table upon which a dog is resting;architectural background
+
+50 in.by 38in.
+
+## PIETRO DELLA VECCHIA.
+
+<!-- image -->
+
+520
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+## DUTCH.AND FLEMISH SCHOOLS.
+
+## J.VAN DER CAPPELLE.
+
+- 49A SEA-PIECE
+
+<!-- image -->
+
+A view off the Dutch coast, with cottages seen behind the Dunes on the left, with a group of sailing-boats at anchor;in the centre a rowing-boat filled with cavaliers and ladies; on the right is a mud-bank, with some peasants and a stranded boat;shipping in the distance
+
+30 in.by 37 in.
+
+See Illustration
+
+## J.VAN DER CAPPELLE.
+
+- 50 A CoAST SCENE
+
+In the centre is a sailing-boat and other vessels, with an island beyond; fishermen with a boat and baskets on a mud-bank in the foreground;other sailing craft in the distance on the left
+
+On panel—14 in.by 21in.
+
+<!-- image -->
+
+- 51 THE MADONNA AND CHILD
+
+The Madonna, in blue dress, supporting the Infan Saviour on a cushion;an Angel stands before them;a vase of flowers on a ledge in front
+
+On panel—23 in.by 20 in.
+## GONZALES COQUES.
+
+- 52 A SCENE IN THE GARDENS OF A PALACE
+
+In the foreground,under a marble colonnade,is a group of ladies and gentlemen round a table;on the extreme left,a gentleman in black cloak, and next to him a lady in rich blue dress;they are listening to the conversation of a gentleman who is seated in the centre,and at the other end of the table are a lady in blue and white dress and a gentleman in brown coat; on the right, in the foreground, are pots of fowers and two pheasants, and in the distance a formal Dutch garden with a building among trees; the landscape and animals are painted by P. Gysels, and the architecture by A. Gheringh
+
+On copper—21 in.by29 in.
+
+Described in Smith’s “Catalogue Raisonne”No.15
+
+See Illustration
+
+- 53PORTRAIT OF A LADY
+
+Seen to the right,almost in profile, in dark dress embroidered in gold, wide lawn ruff, and stiff white cap edged with lace
+
+17 in.by 14in.
+
+## A.CUYP.
+
+- 54 WATERING HORSES
+
+A river scene, with high ground on the left; peasants bringing horses down to water; a woman washing clothes in the foreground
+
+Onpanel-16in.by21 in.
+
+## A.CUYP.
+
+208
+
+<!-- image -->
+
+<!-- image -->
+
+320
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## S.VAN DER DOES.
+
+## 55 CHILDREN IN A LANDSCAPE
+
+Two children, in brown costumes, playing with a dog;
+
+two sheep and a lamb in front;landscape background
+
+13 in.by 11 in.
+
+- 56A SMOKER
+
+## G.DOU.
+
+A man,in brown dress and fur cap, seated at a window smoking; bebind him is another man drinking
+
+On panel—11 in.by 94 in.
+
+## AERT DE GELDER.
+
+- 57 PoNTIUS PILATE
+
+In the centre is Pontius Pilate,in rich crimson and gold dress, with white turban; before him stands an attendant,in red costume,pouring water from a golden ewer over the hands of his master; two soldiers carrying halberds stand behind; on the left, Christ is being led away by two soldiers through an archway
+
+On panel—33 in.by 42 in.
+## FRANS HALS.
+
+## 58 PORTRAIT OF A GENTLEMAN
+
+<!-- image -->
+
+With close-cropped hair, large fair moustache and pointed beard, standing three-quarter length to the left, in black costume, with large cloak hanging over his left shoulder and drawn round him;he wears a white linen ruff,and holds his large black hat in his left hand; his yellow gloves
+
+Inscribed,“AETAT SUAE 52 AN°1639"
+
+451 in.by 351 in.
+
+From the Collection of Anthony Gibbs, Esq.
+
+Echibited at Manchester,1857
+
+Echibited at Burlington House,1879
+
+From the Collection of S.H.de Zoete,Esq.,1885
+
+Echibited at Burlington House,1888
+
+Described in Dr.Hofstede de Groot's " Catalogue of Dutch Painters,"vol.iii, No.288
+
+Mentioned by Dr.Bode,vol.i,No.125
+
+See Frontispiece
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## FRANS HALS
+
+- 59 PORTRAIT OF A YOUNG WOMAN
+
+In black dress, showing white chemisette at the neck; over her sh culders a Jarge white lawn collarhanging in two long points, with tassels attached; a close-fitting white lace cap on her head;pearl ear-rings
+
+23 in. by 18 in.
+
+## J.D.DE HEEM.
+
+- 60 STILL LIFE
+
+A table, covered with a green cloth,on which is standing some dishes and a basket of fruit; silver wine vessels with a lobster onthe left
+
+47 in.by 72 in.
+
+## B.VAN DER HELST.
+
+## 61 PORTRAIT OF A GENTLEMAN
+
+In black slashed dress,showingwhite sleeves,white lace collar and cuffs, seated,resting his right hand upon his knee,and holding a pair of gloves in his left
+
+Signed,and dated1645
+
+Arched top-50 in.by39 in.
+
+See Illustration
+## B.VAN DER HELST.
+
+- 62 PORTRAIT OF SOPHIA TRIP
+
+In black dress, trimmed with black lace over her shoulders,a deep white lawn collaredged with white lace, fastened with a knot of riband and a pendant in front; she wears a double string of pearls round her neck,a small cap ornamented with pearls,and a jewel
+
+29 in. by 25 in.
+
+## B.VAN DER HELST.
+
+- 63 PORTRAIT OF A CAVALIER
+
+In black dress trimmed with silver, deep white lace collar and cuffs,large grey bat with feathers;holding a spear in his left hand
+
+27in.by 23 in.
+
+## B.VAN DER HELST.
+
+64PORTRAIT OFA GENTLEMAN
+
+In black embroidered dress, deep lawn collar edged with lace
+
+29 in. by 25 in.
+
+## M.D'HONDECOETER.
+
+## 65 THE GARDENS OF A PALACE
+
+On the left is a stone wall and pedestal,on which is perched a peacock with long fowing tail shining in the sunlight;below is a basin,in which are some ducks and ducklings; and beyond, near the entrance to the palace, are other birds,including a cock and turkey,a pigeon,a teal,and other birds are on the wing
+
+Signed,and dated 1677
+
+96 in.by 77 in.
+
+From the Colleciion of Viscount Clifden
+
+See Illustration
+
+<!-- image -->
+
+<!-- image -->
+
+500
+
+<!-- image -->
+
+500
+
+<!-- image -->
+2500
+
+<!-- image -->
+
+## P.DE HOOCH.
+
+## 66CAVALIERS AND LADIES
+
+The interior of an apartment,with a cavalier, in blue coat,reclining on a bench with his arm round a young lady, to whom he is offering a glass of wine;she is dressed in a white bodice and yellow skirt; on the right, near a window,another cavalier,in brown costume,is paying court to a lady in red dress;at the back of the room a gentleman is seated smoking,and a servant is going out through the doorway; a dog in the foreground
+
+Signed
+
+25 in.by 31 in.
+
+Described in Dr. Hofstede de Groot’s “Catalogue of
+
+DutchPainters,No.184
+
+See Illustration
+## 67A LoVE SoNG
+
+<!-- image -->
+
+The interior of an apartment,with a gentleman in dark coat seated playing a lute; behind him, at a table, sits a lady in yellow dress,and on the right a maidservant,in red jacket, is pouring out a glass of wine; two other figures and a dog are on the left,and beyond is an open doorway,through which is a sunny terrace
+
+22 in.by 25 in.
+
+## P.DE HOOCH.
+
+- 68A GARDEN SCENE
+
+1000
+
+<!-- image -->
+
+A view in the gardens of a chateau. In the foreground is a young lady in a black dress,talking to a lady who wears a yellow dress embroidered with gold;behind her a gardener,wearing a brown coat and large hat,is stooping down by a fower-bed;on the right a market-woman and two ladies;in the distance a gentleman is approaching
+
+32in.by 42 in.
+
+Exhibited atDublin
+
+From the Collection of the Marquis of Dufferin and Ava
+
+From the Collection of John Rogers,Esq.,1847
+
+Described in Dr.Hofstede de Groot's “Catalogue of
+
+Dutch Painters,No.316
+
+## P.DE HOOCH.
+<!-- image -->
+
+<!-- image -->
+
+## J.VAN HUYSUM.
+
+## 69A VASEOFFLOWERS
+
+A bunch of flowers arranged in a terra-cotta vase; they comprise lilies, tulips, roses, peonies; on a slab below are poppies, gentian and orange-blossom; pale green foliage background
+
+32 in.by 24 in.
+
+From the Collection of Prince Radizwill
+
+From the Collection of J.M.Oppenheim,Esq.,1864
+
+From.the Collection of Sir John Kelk,Bart.,1899
+
+See Illustration
+
+## J.JORDAENS.
+
+## 70 MoSES STRIKING THE RoCK
+
+A group of figures standing at the mouth of a cavern 39 in.by35 in.
+## SYMON KICK.
+
+## 71 THE INTERIOR OF A GUARD ROOM
+
+A cavalier,inbuff jacket and large feathered hat,stand ing on the right holding a glass of wine,a young woman, in red bodice, seated beside him; on the left are a group of men round a drum,one wears an embroidered leather coat, and another a breast-plate; they are consulting a map;beyond are other figures in conversation
+
+Onpanel—47in.by47in.
+
+Illustrated in"Amsterdam in die Zeventiende Eeuw," and therein described by Dr.Bredinis,p.184
+
+SeeIllustration
+
+## C.L.LUBIENITZKI.
+
+## 72TRAVELLING MINSTRELS
+
+A peasant playing the bag-pipes;a boy behind him with a hurdy-gurdy,and two children on the left with a rummel-pot; in the background are other figures and buildings
+
+Signed
+
+21 in.by 18 in.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 73 THE MUSICAL PARTY
+
+The interior of an apartment, with a group of figures round a table on which is spread a carpet;on the right,a gentleman,in brown costume,is seated holding a fute; and on the left is a lady, dressed in a mauve bodice and yellow skirt,holding a book of music; and behind her, a youth is seated, wearing a brown dress;at the base of the table is a young woman holding a dish of fruit
+
+28 in.by 24 in.
+
+- 74AN INTERIOR
+
+## W.VAN MIERIS.
+
+A peasant-woman, in grey bodice and striped skirt, seated at a table;behind her is a man,in brown dress, holding a jug and a glass;a cat beneath the table on the left
+
+On panel13 in.by 111 in.
+
+- F.MOUCHERON AND A.VAN DE VELDE.
+- 75THE FORD
+
+A hilly landscape,with trees on high ground; to the boy and dog driving some sheep; beyond,a ford;in the distance is a round tower and high mountains
+
+Signed,“MoUCHERoN FECIT"
+
+56 in. by 46 in.
+
+From the Collection of Viscount Clifden
+
+## METSU.
+## 76
+
+## EGLON VAN DER NEER.
+
+## CAVALIERS AND LADIES
+
+950
+
+<!-- image -->
+
+An interior of a mansion. In the centre,a gentleman in dark dress,white vest,and carrying his hat in his right hand,is standing in conversation with a lady,who wears a flowered bodice with yellow and white skirt;behind them,on the left,are a cavalier and a ladyin conversation at a table;on the right, a page, carrying a fask,is going out of the door;a silver ewer and dish stand on the floor
+
+33 in.by 27 in.
+
+From the Collection of M.Braamcamp,1771
+
+Echibited at the Manchester Art Treasures Echibition,
+
+1857
+
+Echibited at the Victoria and Albert Museum,1891-8
+
+From the Collection of Henry Thomas Hope,Esg.
+
+From the Collection of Adolph Goerz,Esq.
+
+Described in Smith's “Catalogue Raisonne,”No.6
+
+Described in Dr.Hofstede de Groot's "Dutch Painters,"No.97
+
+SeeIllustration
+1200
+
+<!-- image -->
+
+## JACOB VAN OCHTERVELT.!
+
+## 77A LADY AND A CHILD
+
+An interior of an apartment;a lady,wearing a buff jacket lined with white fur,and pink skirt trimmed with silver braid, seated,and turning towards a nurse,who wears a grey jacket and blue skirt, and holds in her arms a young baby;in the foreground on the right is a wicker cradle,and a table on which is a silver tray
+
+36in.by 29in.
+
+See Illustration
+## JACOB VAN OCHTERVELT.
+
+## 78 THE TOAST
+
+The interior of an apartment;a young gentleman, in glass, and before him is a young lady in white bodice and brown costume, seated before a table holding up a long red satin skirt ornamented with silver braid;beyond her is a man,in green coat,holding a bugle;in the foreground is a brown and white dog
+
+Signed,and dated 1708
+
+25 in.by 20 in.
+
+See Illustration
+
+A.VAN OSTADE.
+
+## 79 A RUSTIC INTERIOR
+
+350
+
+A schoolmaster seated at a rough desk,with a number of children grouped around him
+
+On panel10 in.by 9 in.
+
+<!-- image -->
+
+1250
+
+<!-- image -->
+<!-- image -->
+
+## REMBRANDT VAN RYJN.
+
+## 80 PORTRAIT OF AN OLD MAN
+
+Facing slightly to the left,his head turned to the front, with white beard,moustache and curling hair;he wears a loose coat of deep brown tone over a dull red vest; around his neck is a soft white scarf, and on his head a skull cap of pale brown;his right hand is partially hidden in the folds ofhis coat
+
+Signed
+
+25in.by 21in.
+
+Described by Dr.Bode,vol.viii,No.585
+
+See Illustration
+## REMBRANDT VAN RYJN.
+
+## 81 PORTRAIT OF REMBRANDT'S SISTER,LYSBETH VAN RYJN
+
+<!-- image -->
+
+A young woman,with fair hair, dark cloak edged with fur,and fastened with a sapphire clasp;beneath she is wearing a red dress with a small white lace edging
+
+Signed,and dated 1633
+
+Oval,on panel—22 in.by 17 in.
+
+From the Julienne Collection,Paris,1767
+
+From the Rochard Collection,Paris,1858
+
+From the Collection of A.Roehn,Esq.,Paris,1868
+
+From the Collection of Mrs.Brooks,Paris,1877
+
+From the Collection of the Baroness Hirsch de Gereuth,
+
+Paris
+
+Described in Smith's“Catalogue Raisonné,”No. 499
+
+Described by Dr.Bode,vol.i,No.65
+
+SeeIllustration
+
+REMBRANDT (SCHOOL OF).
+
+- 82 PORTRAIT OF A YoUNG LADY
+
+In rich dress,the blue bodice embroidered with gold, with slashed sleeves,holding a spray of flowers in her hand
+
+On panel—19 in.by17in.
+
+## RUBENS AND SEGHERS.
+
+- 83 THE MADoNNA AND CHILD, With a donor in the centre,
+- encircled by a large wreath of fruit, fowers and foliage
+
+50in.by 41in.
+
+<!-- image -->
+
+<!-- image -->
+
+360
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## SIR P.P.RUBENS.
+
+- 84 PORTRAIT OF COUNT DE WERVE
+
+In black dress and cloak,with white lawn ruff and frills; a gold chain over his shoulder, his right arm resting on his hip, his left hana upon his sword;red curtain and architectural background
+
+45 in.by 36 in.
+
+## SIR P.P.RUBENS.
+
+- 85 PORTRAIT OF HELENA FOURMENT,WIFE OF THE ARTIST
+
+Facing to the right,in black and white dress, cut low at the neck,and with large white lace ruff;her fair hair bound with a jewel chaplet
+
+On panel—21 in.by 16in.
+
+From the Collection of E.A.Leatham,Esq.
+
+## SIR P.P.RUBENS.
+
+- 86 A HERO CROWNED BY VICTORY
+
+In the centre, Mars,in armour,is seated upon the victims of war; on the right stands a winged figure placing a crown on his head
+
+On panel—20 in.by 26 in.
+## J.VAN RUISDAEL.
+
+## 87 A WooDy LANDSCAPE
+
+A rough road in the centre, with a peasant driving a fock of sheep;in the foreground, near a pool, a man and a woman are seated,and in the middle distance,on the right, is an old cottage among some trees;a group of trees on high ground on the left,in the front of which are two peasants with a boy and a dog
+
+Signed
+
+Onpanel—26in.by35in.
+
+From the Collection of David MacIntosh, Esq.
+
+## J.VAN RUISDAEL.
+
+88A WATERFALL
+
+A Scandinavian landscape,with a waterfall in the centre;figures on a rustic bridge under a cliff on the right;old barns and timber on the further bank; fir trees and high hills beyond
+
+39in.by34 in.
+
+Exhibited at the Art Treasures Echibition,Manchester,
+
+1857
+
+## JAN STEEN.
+
+## 89 THE SICK LADY
+
+The interior of an apartment,with a lady lying in bed; a physician,in black dress and hat, with brown cloak,is seated at the bedside and is conversing with a maid on his left, who carries a jug and a wine-glass; a brown and white dog in the foreground
+
+27 in.by 20 in.
+
+See description in Dr.Hofstede de Groot's Dutch Painters,"No.168
+
+See Illastration
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+420
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 90 THE PEEP-SHOW
+
+A group of peasants,consisting of an old woman,some children and a milkman, gazing at a peep-show;a building on the left with figures in the doorway;an archway on the right
+
+26 in.by 21 in.
+
+## D.TENIERS.
+
+- 91 A GUARD RoOM
+
+In the centre is a large heap of armour,with weapons, drum,and standards;on the left a cavalier and a peasant are seated together smoking; in the background are three peasants before a fire, and a group of figures playing cards round the table
+
+22 in.by 33 in. Collection Boitelle,Paris,1867 Collection of E.B.Narischkine,Paris,1883
+
+## D.TENIERS.
+
+- 92 SKITTLE PLAYERS
+
+A landscape,with cottages on the left, and in the foreground eight peasants are playing a game of skittles; on the right is a river,with a town among trees in the distance
+
+On panel—184 in.by 23 in.
+
+## D.TENIERS.
+
+- 93 THE HURDY-GURDY PLAYER
+
+An old man,in brown dress and grey cloak, seated on a him;a woman,with a child in her arms, at the door of a tub playing a hurdy-gurdy,five children standing before cottage on the left
+
+On panel—94 in.by 12 in.
+
+From the Collection of theEarl ofAshburnham
+
+## JAN STEEN.
+## G.TERBURG.
+
+## 94 A GROUP OF FIGURES
+
+3400
+
+<!-- image -->
+
+The interior of an apartment.A young lady,in yellow jacket edged with white fur,white satin skirt trimmed with gold braid,and a black scarf round her head,is seated in a chair,and taking a goblet from a gentleman who sits before her;he wears a grey coat, with a large brown hat; behind them is an old woman in brown dress and white coif;on the left is a red table on which isa fask and a dish;beyond is a bedstead
+
+26 in.by 21 in.
+
+See descriptions in Dr.Hofstede de Groot's"Dutch Painters,"under No.87
+
+## SIR A.VAN DYCK.
+
+95 PORTRAIT OF MONSIEUR DE WITTE
+
+Half-length,facing to front, in black embroidered costume,with large white linen ruff,a black cloak thrown over his left shoulder;a coat-of-arms above
+
+36 in.by 28 in.
+
+From the Collection of Arnold de Pret Roose de Cales- berg,of Antwerp
+
+Illustrated in“Vandyck,by Emile Schaeffer, p.140
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+1000
+
+<!-- image -->
+
+## SIR A.VAN DYCK.
+
+96 PORTRAIT OF MADAME DE WITTE
+
+850
+
+<!-- image -->
+
+Half-length, facing to the front, in black slashed costume ornamented with braid,large white linen ruff, and lace cuffs, pearl ear-rings and bracelets, holding a sprig of foliage in her right hand; a coat-of-arms above
+
+36 in.by 28 in.
+
+From the Collection of Arnold de Pret Roose de Cales- berg,of Antwerp
+
+Illustrated in “Vandyck,by Emile Schaeffer, p. 140
+
+## VAN DYCK.
+
+- 97 PoRTRAIT OF LADY ELIZABETH HERBERT, daughter of Sir William DormerKnight;married in 1628 Lord Edward Herbert,afterwards second Marquis of·Worcester; died in 1635
+
+In white satin dress, cut square at the neck,with short sleeves,a green bow at her waist and a fur over her shoulders；pearl necklace and ornaments;red curtain and architecturalbackground
+
+49 in.by 37 in.
+
+Echibited at the National Portrait Echibition,1866
+
+From the Collection of theDuke of Beaufort
+
+## VAN DYOK.
+
+- 98 THE MAGDALEN
+
+A young woman, partly nude, with white drapery round her,and with her fair hair falling loose over her shoulders,is kneeling before a rock on which is a glass ewer; she is weeping and turning her eyes up to heaven; rocky cavern background
+
+38 in.by 31 in.
+
+## VAN DYCK.
+
+- PORTRAIT OF PRINCESS MARY,DAUGHTER OF CHARLES I.
+
+A young girl, with crimson dress, white lace collar, yellow scarf,holding a dish of roses;pearl necklace and ornaments
+
+26 in.by 19 in.
+- 100 A SEA-PIECE
+
+<!-- image -->
+
+A calm, sunny afternoon, with a yacht on the right fring a salute; in the foreground,a canopied rowingboat; on the left,a sailing-boat and other craft;vessels in the distance
+
+26 in. by 37 in.
+
+## W.VAN DE VELDE.
+
+- SHIPPING IN A CALM
+
+In the centre is a Royal yacht,with small rowing-boats near it;on the left is a group of fishing-boats; trading vessels and a barge on the right
+
+19 in.by 24in.
+
+## A.VAN DER WERFF.
+
+- 102 THE ADORATION OF THE SHEPHERDS
+
+The Madonna,in red dress and blue robe, seated on the ground, lifting a veil from the head of the Infant Saviour,while the three shepherds kneel before Him in adoration; St.Joseph stands in the background; two Cherubs hover in the air above
+
+On copper—21 in.by 13in.
+
+## PH.WOUVERMAN.
+
+- 103 THE OUTSKIRTS OF A WoOD
+
+A peasant watering his piebald horse at a stream; another peasant, with some faggots,riding a mule;a woman and boy seated on the left;landscape with figures beyond
+
+On panel—16 in.by 14 in.
+
+## PH.WOUVERMAN.
+
+- 104A CAVALRY ENGAGEMENT
+
+A fight between horsemen and infantry in a winter landscape
+
+On panel—13 in.by 18 in.
+
+- 101
+
+## W.VAN DE VELDE.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+500
+
+<!-- image -->
+
+300
+<!-- image -->
+
+## FRENCH SCHOOL.
+
+## E.BOUCHER.
+
+## EVENING
+
+4
+
+(Lot105)
+
+A scene in the clearing of a wood;a shepherdess, asleep,is reclining on a grassy bank; she wears a white dress with pink ribands and blue underskirt;on her left, looking at her, is a dog which she holds by a blue riband; over her a young shepherd,in grey and yellow dress with a red coat,is seen bending as he tickles her nose with a wisp of straw; on the left a sheep is seen, and on the right the corner of a dilapidated thatched shed；the shepherdess's hat is lying on the grass bank beside her; woodland background
+
+124 in.by 71in.
+
+Signed,and dated 1757
+
+From the Collectionof the Marquis de Ganay
+
+From the Collection of Madame Ridgway
+
+Echibited at the Guildhall,1902
+
+From the Collection of Reginald Vaile,Esq.,1903
+
+SeeIllustration
+(Lot105)
+
+THE FORTUNE-TELLER (VERTUMNUS AND POMONA)
+
+A lady,in yellow dress, reclines on some cushions, covered with her blue cloak,at the foot of a statue in a garden; a man, clad in mauve costume, with a bright red cloak,a blue and white striped scarf round his head,is seated conversing with her; two Cupids repose on a cloud above them,and the background is formed of fowers and trees;a basket of fowers and some fruit in the foreground
+
+124 in.by 72 in.
+
+From the Collection of the Marquis de Ganay
+
+From the Collection of Madame Ridgway
+
+Echibited at the Guildhall,1902
+
+From the Collection of Reginald Vaile,Esq.,1903
+
+Illustrated in J.J.Foster's "Watteau to Prud'hon, p.114
+
+See Illustration
+## LOVE'S OFFERING
+
+(Lot105)
+
+Two ladies, one in a pale blue dress, the other in a white dress, with a blue bodice and blue underskirt, holding a straw hat trimmed with fowers, are seen in a garden before a statue of Cupid;in front of them stands a Cupid holding a rose, looking up at them and directing their attention to the statue,at which he points;a shrubbery forms the background
+
+Signed,and dated1757
+
+123.in.by 72 in.
+
+From the Collection of the Marquis de Ganay
+
+From the Collection of Madame Ridgway
+
+Exhibited attheGuildhall,1902
+
+From the Collection of Reginald Vaile,Esq.,1903
+
+Illustrated in J. J.Foster's "Watteau to Prud'hon," p.92
+
+See Illustration
+## THE LOVE MESSAGE
+
+(Lot105)
+
+A scene in a garden;on the left a lady, in blue decollete dress with white sleeves,is seen holding a letter; beside her,seated on the ground,is another lady,in pale blue satin dress shot with yellow; the latter is holding a pigeon to which she is tying the letter with a red ribana; in the centre, on the ground in front of a sculptured vase and pedestal,sits a lady,in white dress and fowers in her hair,her straw hat,trimmed with fruit and fowers, hangs on her arm by a blue riband;behind her and slightly to her right a lady,in yellow dress with mauve bodice,stands by a wooden fence holding a basket;in front of her, seated on the ground,is a young man in bright scarlet costume; trees in the background
+
+1224 in.by 73 in.
+
+From the Collection of the Marquis de Ganay
+
+From the Collection of Madame Ridgway
+
+Echibited at the Guildhall,1902
+
+From the Collection of Reginald Vaile,Esq.,1903
+
+SeeIllustration
+## F.BOUCHER.
+
+## 106 THE RUSTIC BRIDGE
+
+A tall clump of trees in the centre,with a rustic watermill and cottage on the right;a stream in the foreground at which two peasant-girls are washing clothes;on the left is a girl with a cow,an ass,and some sheep approaching a stone bridge;beyond is a round tower among trees
+
+Oval—29 in.by 22 in.
+
+## F.BOUCHER.
+
+## 107 A LANDSCAPE
+
+Towards the right, under a canopy of tall trees,a peasant, in red coat, is offering a gourd to a girl who stands before him;beyond is a bridge and stream,and on the left a farm with a ruined barn and an archway; animals in the foreground
+
+23↓ in.by 27in.
+## F.BOUCHER.
+
+- 108 THE LoVE-LETTER
+
+Two young girls, seated on the ground near a sculptured fountain；one of them is reading from a letter,and behind them is a youth peeping through some trees;on theright are two goats and two sheep;a fence and willow-trees beyond
+
+27 in.by 28in.
+
+## F.BOUCHER.
+
+- 109 A PASTORAL SCENE
+
+A shepherd and a shepherdess are seated in the foreground on the right under a clump of trees;in the front of them are four sheep; in the distance, a water-mill and some buildings on a high hill
+
+27 in.by 28in.
+
+## MADAME VIGEE LE BRUN.
+
+- 110THE PET KITTEN
+
+A young girl,in white frock and blue sash, her hair curling upon her forehead, is seated holding a kitten in her arms
+
+22 in.by 18 in.
+
+## P.MIGNARD.
+
+- 111 PORTRAIT OF LoUIS XIV.
+
+In the costumeof a knight of Malta,wearing breastplate,with lawn sleeves, white lace cravat,and red scarf over his shoulder
+
+27 in. by 22 in.
+
+Echibited atthe Guildhall,1898
+
+From the Collection of E.A.Leatham,Esq.
+## 114
+
+## MODERN PICTURES.
+
+## GEORGE HARE.
+
+112 FoR NATURAL INSTINCT TEACHES ME
+
+A young girl, in dark green dress and hat, holding a mirror and a powder-puff
+
+26in.by 21 in.
+
+## LEO HERRMANN.
+
+## 113 L'INCROYABLE
+
+A gentleman,in scarlet coat, white vest and buff breeches,standing gby a table on which is a jug and glass;two other gentlemen in conversation by a window
+
+15 in.by 12 in.
+
+## CONRAD KIESEL.
+
+## 4WATER-LILIES
+
+Two young ladies,one dressed in white and the other in mauve,by the side of a fountain;one is seated on a marble terrace,and the other is picking water-lilies; foliage background
+
+39 in.by 51 in.
+
+## SIR E.LANDSEER,R.A.
+
+## 115 CHEVY
+
+Weel,Sir,if the deer got the ball Sure's death Chevy will no'leave him"
+
+A black and brown collie lying upon the snow by the side of a dead stag; mountainous landscape background, and two carrion crows on the left
+
+54 in.by 82 in.
+
+Exhibited at theRoyal Academy,1868 From the Collection of Richard Hemming,Esq.,1895
+
+Engraved by T.Landseer,R.A.
+## JOHN PHILLIP,R.A.,1865.
+
+## 116 THE EARLY CAREER OF MURILLO,1634
+
+He was reduced to earn his daily bread by painting coarse and hasty pictures for the Feria (weekly fair),held ina broad street branching from the northern end of the old Alameda,and in front of the old church of "All Saints,"remarkable for its picturesque semi-Moorish belfry. This venerable market presents every Thursday an aspect which has changed but little since the days of Murillo. Fruit,vegetables,and coarse pottery, old clothes, old iron,still cover the ground or load the stalls as they did two centuries ago, when the unknown youth stood among gipsies, muleteers, and mendicant friars, selling for a few reals those productions of his early pencil, for which royal collectors are now ready to contend,
+
+Vide Stirling’s“Annals of Spanish Painters,”vol.ii.
+
+A crowd of figures in the market place at Seville. On the extreme right stands the youthful Murillo, wearing a black dress,and resting his arm upon a chair on which is his palette; before him are two priests,in black and white habits,examining a picture which the artist has just completed;behind them is a monk；in the centre is a dark-skinned Spanish woman,in white bodice and crimson skirt,holding a little child in her arms; on the left a picturesque drover, riding a white mule;while beyond are other figures,including a guitar player and a Spanish grandee; in the foreground,on the left,a group ofutensils and a basket of fruit
+
+72 in.by 98 in.
+
+Exhibited at the Royal Academy,1865
+
+Echibited at the International Echibition,London, 1873
+
+From the Collection of H. McConnel,Esq.,1886 Echibited at Burlington House,1894 From the Collection of J.M.Keiller,Esq.,1895
+
+See Illustration
+
+FINIS
+
+Lordon:Printed by WILLIAM CLoWES AND SoNs,Limited,
+
+Great Windmill Street,W.1,and Duke Street,Stamford Street,S.E.1

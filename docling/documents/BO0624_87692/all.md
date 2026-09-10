@@ -1,0 +1,451 @@
+<!-- image -->
+
+## Verkaufs-Ordnung:
+
+Dienstag, den 10. Mai, Nachmittags 3/2 Uhr
+
+No.1-53.
+
+Die Reihenfolge des Katalogs wird nicht immer genau innegehalten.
+
+## Bedingungen:
+
+Die Sammlung ist in Koln in den Ausstellungsraumen der Firma J. M. Heberle (H.Lempertz' Sohne),Breitestrasse 125—127,zur Besichtigung ausgestellt:
+
+## Samstag den 7., Sonntag den 8.und Montag den 9. Mai 1904
+
+von 9 Uhr Vormittags bis 6 Uhr Nachmittags.
+
+Nur den mit Katalog versehenen Personen ist die Besichtigung der Sammlung und Beiwohnung der Versteigerung gestattet. Den Besuchern wird bei der Besichtigung und Untersuchung die grosstmoglichste Vorsicht empfohlen,damit kein Gegenstand beschadigt werde.Jeder hat den auf diese Weise angerichteten Schaden zu ersetzen.
+
+Gemalde werden in dem Zustande verkauft,worin sie sich befinden.Nachdem durch die Ausstellung dem Publikum Gelegenheit geboten, sich iber den Zustand etc. der Gemalde genau zu unterrichten, kann nach geschehenem Zuschlage keinerlei Reclamation bericksichtigt werden.
+
+Sollten durch einen Zuschlag bei erfolgtem Doppelgebote Meinungsverschiedenheiten entstehen, so wird sofort der Gegenstand von Neuem ausgesetzt; in jedem Falle entscheidet der den Verkauf abhaltende Notar, Herr Krings, zu Koln.
+
+Die Ansteigerer sind gehalten, ihre Ankaufe nach jedem Zuschlage in Empfang zu nehmen und Zahlung dafur incl. des Aufgeldes von 10 Procent pro Nummer sofort an den besagten Notar zu leisten, widrigenfalls die angesteigerten, nicht in Empfang genommenen Gemalde auf Kosten und Gefahr des Ansteigerers wieder zum Verkaufe ausgestellt werden. Die Aufbewahrung bis zur Abnahme und Bezahlung geschieht mit moglichster Sorgfalt, jedoch auf Gefahr des Ansteigerers.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+Bilder begegnete und angeboten wurde,habe ich nur das erworben, was Reihe Bilder zu besitzen, die jeder Galerie zur Zierde sein konnen.— Wenn ich als kunstlerisch bedeutend erkannte,und so ist es mir gelungen, eine ich mich entschlossen habe, dieselben bei Lebzeiten zu versteigern, so geschah dies desshalb, weil ich noch wissen will, wohin meine Lieblinge kommen und wie sie geschatzt werden.
+
+Die Kunstwerke sind verhaltnissmassig sehr gut erhalten,— sogut, wie man es von alten Bildern verlangen kann. Die Namen der Kuinstler habe ich, soweit sie nicht ganz sicher sind, nach bestem eigenen Wissen und dem bewahrter Kenner angegeben.
+
+Zu der ,Rembrandt-Gruppe bemerke ich noch, dass ich die Mehrzahl der Werke im Munsterlande in Westfalen fand — dem Lande, das des Schlusses des Westfalischen Friedens halber vom Elende des 30jahrigen Krieges verschont blieb und nach wie vor lebhaften Verkehr mit Amsterdam hatte.
+
+Koln,im Marz 1904.
+
+Aug.Rincklake.
+## VERZEICHNISS.
+
+- 1)ALLEGRIDA CORREGIO.1494-1534.
+
+## Verlobung der h.Katharina (Fragment)
+
+Ausdruck sowohl als Malerei lassen ein Originalwerk des Meisters in dem Bilde erkennen.Anmuthig und seelenvoll zugleich beobachtet die Madonna das Thun des Christkindes.
+
+- 2)DERSELBE.
+
+## Engel.
+
+Ein Stick aus einem groBen Bilde. Auch dieses Fragment laβt auf Correggio schliessen.
+
+- 3)BASSANO,FRANZESCO (DA PONTE).1541—1591.
+
+## Anbetung der Hirten.
+
+Geistreiche Untermalung.Die Kopfe der Hirten erinnern an Paul Veronese.
+
+- 4)JAC. BOGDANI (um 1700).
+
+## Blumenstuck.
+
+Ausserordentlich breit,kinstlerisch bewuBt und fliessend gemalt.
+
+- 5) Gegenstick dazu.
+2. 6)BOTTICELLI,SANDRO.1447—1510.
+
+Heilige Unterhaltung (Rundbild in alter, prachtvoller Original-Umrahmung).
+
+Katharina.— mehreren seiner Bilder vorkommen.
+
+Die Madonna mit dem Kinde,im Mittelgrunde,auf einem erhohten,reichen Throne sitzend,sieht traumverloren,ahnungsreich in die Welt hinaus,wahrend das Christuskind die umgebenden Heiligen reichen, rothen Thronhimmels hoch. Die um den Thron geschaarten Heiligen sind rechts Johannes Bapt., Augustin und Michael, dahinter Hieronimus;-links Barnabas, Ambrosius und dahinter Johannes Ev.- lauter charakteristische Gestalten Botticellis,die in
+
+Das verhaltniBmabig sehr gut erhaltene Bild entstammt offenbar dem Besitze des Papstes Pius Ill. aus dem Hause Piccolomini, weil die 4 Wappen auf dem aus der Zeit Pius Ill. stammenden Rahmen die des Hauses Piccolomini sind. Vor ca.20 Jahren befand sich das Bild im Palazzo Strozzi in Florenz. Wir haben es hier wahrscheinlich mit dem Modellbilde des in der Akademie zu Florenz befindlichen Colossalgemalde derselben Darstellung zu thun. Die vielen charakteristischen Feinheiten des Bildes lassen es als ein Originalwerk des Meisters erscheinen
+
+Holx.Durchmesser des Bildes 88 cm,des Rahmens 143 cm. (Siehe Abbildung.)
+
+In einer Tempelruine:Maria,knieend vor dem Christkinde, hebt den dasselbe bedeckenden Schleier. Links der h.Josef mit dem Reiseesel. Rechts treten die Hirten heran, Vieh mit sich fihrend. Nachthimmel.
+
+Lwd.48cmhoch,103cmbreit.
+
+Lawd.94cm hoch,147cmbreit.
+
+Lwd.45cmhoch,31cmbreit. (Siehe Abbildung.)
+
+Lwd.55cmhoch,38cmbreit.
+- 7)BRAY,DIRCK DE.(um 1660.)
+
+Madchen in heller Beleuchtung. Gutes Bild.
+
+- 8 BREENBERGH,Barth. 1599-1659.
+
+Feine Landschaft in altem geschnitzten Rahmen.
+
+- 9)C.L.bezeichnet (unbekannt).
+
+## Maria Verkundigung.
+
+- 10) CLAEUW, JAQUES DE, wirksam 1642-1665.
+
+## Vanitas.
+
+Die Symbole der Verganglichkeit, Todtenkopf, Stundenglas, geknicktes Stroh,vergilbte Papiere, abgebranntes Licht,Musik (dargestellt durch Musikinstrumente) ete.zu einem Bilde zu vereinigen, war vielfach Gegenstand der Bilder der Niederlander.Namentlich war es Claeuw,der diese Vorstellungen liebte.Direktor Dr.A.Bredins im Haag stiftete in letzter Zeit ein schones Werk dieses Meisters in das Riyks-Museum zu Amsterdam.
+
+Vorziglich erhalten.
+
+- 11)ELZHEIMER ADAM 1578-1620.
+
+## Kreuzigungsgruppe.
+
+Michelangelos (verloren gegangenes) Bild, zu dem im British Museum die Original Cartons befndlich sind,haben mehrfach Maler copiert.Eine solcheKopie,die Elzheimer zugeschrieben wird, liegt in dem iberaus fein durchgefihrten Bildchen vor.
+
+- 12) DE FRIES.
+
+## Architectivbild, Kircheninneres.
+
+Das Bild,ein einem Neefs gleichwerthiges Kunstwerk,duirfte in des letzteren Atelier entstanden sein.
+
+- 13) JAN FYT 1611—1661.
+
+Zwei Huhnerhunde bei erlegtem Gefiugel in einer Landschaft. Charakteristisches gutes Bild des geschatzten Meisters.
+
+Lwd.121 cmhoch,83cm breit.
+
+Kupfer,29cm hoch,22cmbreit.
+
+Lwd.bex.:&gt;DeFries28cmhoch,40cmbreit.
+
+Lwd.52cmhoch,72ombreit. (Siehe Abbildung.)
+
+Ungemein fein gestimmtes und gut gemaltes Bild, an Corregio und Titian erinnernd. Dasselbe diente der Verkindigung des E. Jerigh im Kolner Museum als Vorbild. Vorziglich erhalten.
+
+Holx,40 cm hoch,50 cm breit.
+
+(Siehe Abbildung.)
+
+Lud.40 cm hoch,33cm breit.
+
+Lwd.aufHolx geklebt,14cm hoch,19cm breit.
+## 14) L0O, JACOB VON 1614-1670.
+
+## Badende.
+
+Ein schones Weib ist dem Bade entstiegen und trocknet sich ab. Eine Dienerin halt ein Gewand bereit,wahrend eine andere ein Laken zum Trocknen aufhangt. Offenbar ein Portraitstick. Ausserst delicat und fein gemalt,herrlich in der Gesammtstimmung.
+
+- 15) MIERIS,F.VAN 1625-1618.
+
+## Fruchthandlerin.
+
+Nach dem von J. Alessandria gestochenem Bilde Magiotto's. Feines Bildchen.
+
+- 16)PALMA VECCHIO 1480-1528.
+
+## Flora.
+
+Das Bild erinnert sehr an das gleichnamige Bild in den Ufficien zu Florenz, das jetzt dem Titian zugetheilt ist.Friher wurde es als ein Werk Palma's angesehen. Herrlich insbezug auf Farbe und Leuchtkraft sowohl,als auch auf Componirung. Das Gemalde entstammt dem Besitze Konig Jerome's (Napoleon) von Westfalen und ist wahrscheinlich einem der hessischen oder braunschweig. Schlosser entnommen.Westfalische Siegel,die hinter dem Bilde befindlich,unterstitzen diese Meinung. Verhaltnism.gut erhalten.
+
+- 17) QUAST, PIETER 1606-—1647.
+
+Lebensgrosses Portrait,wahrscheinlich Selbstportrait im Phantasiekostime. Wohl das einzigste Portrait in solcher Grosse, das von dem Meister existiert. Schones gut erhaltenes Bild bezeichnet mit dem Monogramm P.Q.
+
+## 18),REMBRANDT HARMENSZVANRYN"
+
+## Salomon lehrt die Konigin von Saba opfern.
+
+In einem geraumigen vielgestaltigem Kirchenraume kniet an einem,die Bundeslade tragenden, Altare die Konigin von Saba, der Konig Salamon das Weihrauchfass reicht. Eine Dienerin ist der Konigin zur Seite.Priester, Volk,Zwerge,reiche Gefasse vervollstandigen den phantastischen Vorgang. Rechts ein Einblick in einem erleuchteten Theil des Kirchen Inneren - die zweite Lichtquelle im Bilde — wie Rembrandt das liebte. Hervorragend schon ist die Concentrirung des Lichtes auf die Hauptpersonen.
+
+Bezeichnet Rembrandt(Alte urspriingliche Bezeichnung).
+
+## 19)DERSELBE.
+
+## Studienkopf.
+
+F.L.D. Ciartres hat einen Kupferstich herausgegeben, den Heraclit darstellen,bezeichnet mit R.H."(als Monogramm),Inventor*. Ob dieses Bild Rembrandts" noch existiert ist mir unbekannt.Zu demselben aber, wie auch zum Judas ,Rembrandts diente vorliegende Studie.
+
+Aeusserst charakteristisches Werk.
+
+59cm hoch,45cm breit. (Siehe Abbildung.)
+
+Holx 70 cmhoch,106 cm breit. (Siehe Abbildung.)
+
+Lwd.871/2cmhoch,70cm breit. (SieheAbbildung.)
+
+Lwd.0,17hoch,0,22cm breit.
+
+Holx 88cmhoch,651/2cm breit. (SieheAbbildung.)
+
+Holx71 cmhoch,59cmbreit. (Siehe Abbildung.)
+## 20)DERSELBE.
+
+## Blick in eine vergessene Welt.
+
+## 21) DERSELBE.
+
+## Dr.Faust.
+
+Faust hat eine Erscheinung heraufbeschworen.Sie ist da!-Er halt den Athem an und beobachtet scharf. Erst wenn die Erscheinung verschwunden sein wird,athmet er wieder auf. Alles dieses drickt das Bild aus.Man vergleiche mit dem Bilde die Radirung Rembrandts inbezug auf Aehnlichkeit des Gesichtes und des Costims.
+
+OvalLawd.61xu 45cm. (Siehe Abbildung.)
+
+Holx 13 cm hoch,12 cm breit. (Siehe Abbildung.)
+
+Eine geraumige Grotte in der in vergangenen Zeiten geistiges Leben blihte,istwieder aufgefunden. Ein phantastisches von links einfallendes goldiges Licht durchfluthet dieselbe und beleuchtet, theils direkt,theils im Reflex,Altaraufbauten,Inschrifttafeln,Saulen, Statuen,Reliefs und Architecturtrimmer,die von Gewachsen iberwuchert sind. Besucher bleiben erstaunt an der Pforte stehen. Rechts ein Durchblick ins Freie.Herrliches Werk.
+
+Holx 60cmhoch,84cm.breit. (Siehe Abbildung.)
+
+## 22) DERSELBE.
+
+## Kopf mit wirrem Haar.
+
+Ausserordentlich ausdrucksvoll gemaltes Bildchen von grosster Feinheit.
+
+## 23) DERSELBE.
+
+## Fahnentrager.
+
+## 24) DERSELBE.
+
+## Christus am Kreuze.
+
+Ein hervorragend bedeutendes Werk des grossen Meisters.
+
+## 25) DERSELBE.
+
+## Kommandirender Schutzenhauptmann.
+
+Grossartigste Spachtelmalerei an die Technik der Judenbraut in Amsterdam und des Familienbildes in Braunschweig erinnernd.Gut erhalten.
+
+Holx 38cm hoch,36cmbreit. (Siohe Abbildung.)
+
+Von Geheimrath Bodeim Jahre 1884 als Rembrandt*anerkannt.
+
+Lwd.83cmhoch,56cmbreit. (Siehe Abbildung)
+
+Charakteristisches Bild. Hoch einfallende Beleuchtung.Wahrscheinlich Portraitstudie fir ein Schitzenstick.
+
+59cmhoch,46cmbreit. (Siehe Abbildung.)
+## 26) DERSELBE.
+
+## Christus Typus.
+
+## 27)DERSELBE.
+
+## Naturwissenschaftliche Belehrung.
+
+Ein Gelehrter unterrichtet iber den Bau eines Nestes. Sehr bewuBt gemaltes Bild.
+
+## 28) DERSELBE.
+
+## Grotte (Grissail).
+
+AeuBerst fieBend gemalte Studie.
+
+## 29) DERSELBE.
+
+## Landschaft.
+
+Von links her zieht sich ein von der tief stehenden Abendsonne beschienener Weg bis in die Mitte des Bildes an einem kleinen SchloB vorbei,sich in der Ferne verlierend. Links des Weges ein Bauerngehofte.Rechts eine schon im Schatten liegende tiefe Wiese auf der Vieh weidet.Im Hintergrunde ein im Horizonte aufgehender FluBlauf.-Eine Windmihle.
+
+Ganz hervorragendes, gut erhaltenes Bild.
+
+## 30)DERSELBE.
+
+## Hamann's Auftrag.
+
+Das Bild gibt den Moment, wo nach Cap.6.10 des Buches Esthers der Konig Ahasver, Hamann beauftragt den Mardochaus zu Rof durch die Stadt zu fihren.Durch dieses Bild werden die Darstellungen des Meisters aus dem Buche Esther um eine vermehrt:Hamann wankt,eine Stitze suchend,hinaus,wahrend der Konig mit sich zufrieden, dle zusammengelegten Hande, wie zum Dankgebete hoch hebt.
+
+Bezeichnet Rembrandt f.
+
+In der seltenen Radierung,Rembrandts",Strohhitte und Heuscheune"begegnen wir derselben Gegend: Im Hintergrunde dasselbe mit Baumen umstandene SchloBchen,sodaβ,was auch Ch.L.Blane bei der Radierung annimmt,der Meister das vorliegende Bild unmittelbar der Natur nachgebildet hat.Der Jager mit dem Hunde im Vordergrunde ist eine charakteristische Figur ,Rembrandt",wie auch die ibrige Staffage ungemein kinstlicherisch fein ist.
+
+Holx 431/cmhoch,93cmbreit. (Siehe Abbildung).
+
+So fasste der Meister Christus auf: Ein Mann der Erde,der sich Eins fuhlt mit dem Vater im Himmel und in dieser Sicherheit das Kreuz der Erde auf sich nimmt. Er kann es tragen! Tief empfundenes Werk.
+
+Lwd.74cmhoch,58cmbreit. (Vergl.Abbildung.)
+
+Holx 35cmhoch,31cmbreit. (Siehe Abbildung).
+
+Lwd.20 cm hoch,26cm breit.
+
+Lwd.63 cmhoch,741/cm breit. (Siehe Abbildung.)
+## 31) DERSELBE.
+
+## Auferweckung des Lazarus.
+
+Gut erhalten.
+
+## 32)DERSELBE.
+
+## Dammerung und Mondschein.
+
+Ganz vorzigliches Bildchen.
+
+## 33) DERSELBE.
+
+## Alter mit Turban.
+
+gestimmtem Roth gemalt ist, sind doch alle Phasen der Schattenwirkuug vorhanden.
+
+- 34) Gegenstick dazu.
+2. 35)RIBERA,GUISEPP0.1588-1652.
+
+## Der heil. Sebastian.
+
+Ein ganz vorzigliches Werk des groBen Meisters, wurdig, jede Galerie zu schmicken. Eventl. auch ein vorzugliches Kaminbild. Zu dem gleichnamigen schonen Bilde im Berliner Museum diente dasselbe Modell.
+
+Infolge Verblutung vollig entkraftet oder schon todt, wird er noch durch die Stricke mit denen er an einen Baum gebunden, aufrecht gehaten. Oben rechts 2 Engelskopfe, unten (nach Riberas Art) nahern sich Manner,wahrscheinlich Mitglieder der Christengemeinde,um den Leichnam abzuholen.
+
+Lwd.2Meter hoch,1,13Meter breit. (Siehe Abbildung.)
+
+Das Bild dirfte der Zeit entstammen zu der die Landschaft mit den Ruinen im Kasseler Museum gemalt ist. Auf dem Berge vom Mondlicht ibergossene Ruinen; im Thale ein Rundtempel in waldiger Umgebung;—ein kleiner Wasserfall;-hoch poetische Gesammtstimmung.
+
+Lwd.26cm hoch,33cm breit. (Siehe Abbildung.)
+
+Lwd.49cm hoch,37cm breit (Siehe Abbildung.)
+
+Mann in den mittleren Jahren mit gekronten Turban und Federschmuck. Auch dieses ist ebenso kunstvoll von tiefgestimmterPalette gemalt.
+
+Lwd.49cm hoch,37cm breit. (Siehe Abbildung.)
+
+Ein Bild nach der Radierung Rembrandts wahrscheinlich ein Atelierbild liegt hier vor.Sollte dasselbe nicht die im Verzeichnisse des Inventars Rembrandts enthaltene (verloren gegangene) ,Auferweckung"sein?
+
+Lwd.781/cmhoch,60cm breit. (Siehe Abbildung.
+
+## 36)RIBERA,GIUSEPP0.1588-1652.
+
+## Der Todesengel bedeckt einen gefallenen Krieger mit der Siegespalme.
+
+Lwd.Hohe 65cm.Breite 83cm.
+
+Blutig rother Abendhimmel der den Vorgang roth iberstrahlt, deutet auf den Krieg hin.Den Krieger sieht man noch den Todeskampf an.Ein Bild von breiter kraftiger Malweise. Bez.mit dem Monogramme des Meisters.
+## 37) RHODE, CHRISTIAN BERNARD.1725-1797.
+
+## Christus mit den Jungern im Sturm auf dem Meere.
+
+- 38) Studienkopf.
+
+Studie zum Petrus. Bez.
+
+- 39) ROMISCHE SCHULE.
+
+## Die heil. Appolonia.
+
+Mit zum Himmel gerichteten Blick und halb geoffnetem Munde (um ihre Marter zu bezeichnen) ist die Heilige gemalt, Ein Zahn den sie in der Hand tragt, charakterisirt sie noch naher. GroBe schone Auffassung.
+
+- 40)ROMNEY,GEORGE1734-1802.
+
+Engelkopfe in goldigem Grunde. FlieBend und feinfarbig gemalt.
+
+- 41)RUBENS,PETER PAUL1577-1640.
+
+## Stigmatisation des heil. Franziscus.
+
+Vorstudie zu dem im Kolner Museum befindlichen groBen Altargemalde.
+
+- 42)DERSELBE.
+
+## Minerva vertheidigt einen Juingling gegen den Angriff der Venus.
+
+Atelierbild bei Otto Venins gemalt.Der landschaftliche Hintergrund zeigt schon den Meister in der Landschaft,wahrend die Figuren noch den Schiler verrathen.
+
+## 43)RUBENS SCHULE.
+
+## Der h. Hieronimus.
+
+Modellbild fir ein iber einer Thir zu malendes Wandbild. In der Thurfache eine Inschrift die derEinsamkeitdas Wortredet.
+
+Holx 37 cm hoch,26cm breit.
+
+Ein machtig aufgefaBtes und bewegtes Bild dieses Vorganges,welches wohl das bedeutendste Werk des seiner Zeit hochberihmten Berliner Malers ist.Es ist so packend und von so guter Art,daB es friher stets dem Rembrandt zugeschrieben wurde. Bezeichnet.
+
+Lawd.241cmhoch,103cmbreit. (Siehe Abbildung.)
+
+Lwd.54cmhoch,44cmbreit.
+
+Lwd.39 cm hoch,52cm breit.
+
+Holx 63 cmhoch, 471/ cm breit. (Siehe Abbildung.)
+
+Holx 70 cm hoch, 541/ cm breit. (Siehe Abbildung.)
+## 44)DESGLEICHEN.
+
+## Portrait der Maria von Medici.
+
+Sehr machtig und plastisch gemaltes Studien-Bild,das wahrscheinlich fir die Luxemburg Gallerie gedient hat.
+
+## 45)TIEPOLO,GIOVANNIBATTISTA1696—1770.
+
+## Bischof mit einer Kirche.
+
+Bild von sehr groBem Farbenreiz.
+
+- 46)DERSELBE.
+
+Lacd.67cmhoch,55cmbreit. (Siehe Abbildung.)
+
+Lwd.40cm hoch,30 cmbreit.
+
+4 Bildchen aus der Biblischen Geschichte in gemeinschaftlichem Rahmen. Gutes Werk.
+
+- 47)TITIANO VECELLIO 1377-1576.
+
+## Lucretia.
+
+Ein herrliches Werk,das leider in den dumm gemalten Parthien gelitten hat, aber sehr gut zu restauriren ist. Oben links noch ein Rest eines T. Sollte das nicht die Lucretia Titians sein, die als verloren giit?
+
+Lwd.75em hoch,65cm breit. (Siehe Abbildung.)
+
+Lwd.18cmhoch,14cmbreit.
+
+Lavd.26cm hoch,22 cm breit.
+
+Holx60cmhooh,51cmbreit. (Siehe Abbildung)
+
+JedesBildehen201/cm hoch,12cmbreit,aufHolxgeklebt.
+
+## 48) UNBEKANNT.
+
+Silen aus einem Weinglase trinkend. Gutes kleines Bild.
+
+## 49)UNBEKANNT.
+
+## Gristail.
+
+Vorbild zu einem Altargemalde, darstellend St.Anna,die kleine Maria unterrichtend,mit dem h.Joachim.In Wolken Engel;auf der breiten Vorstufe ein grosser Engel mit einer Fahne.- Sehr gute kinstlerische Original Arbeit eines bedeutenden Malers.
+
+## 50)DIEGODESILVA VELAZQUEZ 1599-1660.
+
+## Die Verspottung Christi.
+
+Auf einer Steinbank eines Verliesses,in dem eben die Geisselung vollzogen war, sitzt Christus. Den Mantel hat man ihm umgehangt und die Dornenkrone schon auf sein Haupt gesetzt sowie auch das Schilfrohr bereits in seine Hand gegeben.Ein Kriegsknecht in voller Rustung hebt den Mantel Christi hoch,wahrend die beiden Henker,die ihn gegeisselt haben,ihn verhohnen.Ein ganz vorzigliches Werk des grossen Meisters,nach welchem kein Geringerer als Ant.van Dyck sich bei seiner Verspottung Christi (Berliner Museum)richtete.—Hier wie dort dasselbe Arrangement, hier wie dort dieselben Figuren,nur mit dem Unterschiede,dass bei van Dyck der Kriegsknecht die Kronung mit dem Dornenkranze erst vollziehen will und das Schilfrohr Christus durch den Henker erst uiberreicht wird,was bei Velazquez bereits geschehen ist.Das Bild ist (eine grosse Seltenheit) voll bezeichnet und ganz vorziglich erhalten.Daraus,dass A.van Dyck das Bild zuganglich war,durfte zu schliessen sein,dass Rubens dasselbe aus Spanien mitgebracht hatund dass er Velazquez veranlasste, es zu bezeichnen, was er nur ganz selten gethan hat.—Ein Werk von hochster Meisterschaft.
+- 51)UNBEKANNT.
+
+Portrait. Brustbild eines spanischen Granden. Bild von ungemein feinem Tonreiz, das auf einen Meister ersten Ranges schliessen lasst. Lwd.54 cm hoch, 461/ cm breit. (ringsum vergrossert.)
+
+- 52)VENETIANISCHE SCHULE.
+
+Monogramm Mariens im Blumenkranze, der ganz vorziglich gemalt ist. Kupfer0,17mhoch,0,22mbreit.
+
+- 53) VLIEGER,SIMON DE 1600-1660.
+
+Regenwetter auf See. Sehr fein empfundenes Bild.
+
+<!-- image -->
+
+(Siehe Abbildung.)
+
+Holx271cmhoch,49 cmbreit. (Siehe Abbildung.)

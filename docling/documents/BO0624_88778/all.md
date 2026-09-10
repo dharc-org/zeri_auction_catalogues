@@ -1,0 +1,613 @@
+## I.
+
+## BUCHER/KUNSTGEWERBE
+
+(Nr.1—86&gt;
+
+- 1 KONVOLUT:ca.25Romane.
+- 2DESGL.
+- 3 DESGL.: Glasenapp, Samtlihe Werke, Reuters samtlihe Werke, Andersens Marchen,Romain Rolland, Johann Christof.
+- 4 DESGL.:Seidels samtlide Werke, Fontanes samtlihe Werke und zehn diverse Bande.
+- 5 MANN,HEINRICH: Samtlihe Werke. Zehn Halblederbande. Karl Wolff Verlag, Leipzig.
+- 6 ALTENBERG,PETER. Vier Halbfranzbande.S.Fisher Verlag, 1914.
+- 7 HEINE: Samtliche Werke. Vier Ganzlederbande. Knaur Verlag, Leipzig.
+- 8 KELLER: Samtlihe Werke. Funf Ganzlederbande. Knaur Verlag, Leipzig.
+- 9 TAuSEND UND EINE NACHT.EIf Saffianbande. Band 4 fehit&gt; Insel-Verlag.
+- 10 MEyERS KONVERSATIONS-LEXIKON. Sieben Bande. Leipzig 1914.
+- 11 SHAKESPEARE: Samtlice Werke. Neun Leinenbande. Ubersetzt von
+- Schlegel.Verlag Bondy, Berlin.
+- 12 SEIDL: Wanderungen durd Tirol. Zwei Halblederbande mit zahlreichen Stichen.Wiegand Verlag, Leipzig.
+- 13 GOETHE: Samtlide Werke. 15 Ganzleinenbande. Tempelverlag, Leipzig.
+- 14 HAUPTMANN, GERHART: Samtliche Werke.Sehs Ganzlederbande. S.Fischer Verlag,1912.
+- 15 WANDUHR im Louis=XVI=Stil, weiB=gold.
+- 16 GERAHMTER FACHER, Perlmuttgestell, mit Spitzenbezug. G,-R.
+- 17 TOILETTEKASTEN,NuBholz,mit Intarsien.
+- 18 REISEGRAMMOPHON,Vox.
+- 19 KONVOLUT:Knochenfigur: betende Frau;Gipsfigur: Elefant, Glasvase, gelb, und Glasschale, rot uberfangen, auf drei KugelfuBen.
+- 20 ELFENBEINMINIATUR:Friedric der GroBe. EIfenbein=R.
+- 21 KONVOLUT:Briefstander, Saffianleder,und zwei Zigarettendosen in Form von alten franzosischen Buchern.
+- 22 PENDULE im Louis=XVI.-Stil, Marmor, mit Bronzeverzierungen. Das
+- Zifferblatt sign.:Felsing, Berlin.
+- 23 GERAHMTER FACHER, Perlmuttgestell, mit Spitzenbezug.
+- 24 NACHTTISCHLAMPE,Bronze,einflammig.
+- 25 BRONZEKANDELABER im Empirestil, vierarmig,funfkerzig
+- 26 KONVOLUT:Nachttishlampe,Terrakotta, Globus, Satsumateller
+- 27 JAPAN.BRONZE-BLUMENKUBEL.
+- 28 KRIS.
+- 29 TISCHUHR mit Wedker.
+- 30-31 EIN PAAR BAROCK-HOLZFIGUREN:Evangelist Lukas und Evangelist in Monchskutte. Lindenholz. Ungefaft. Bodenseegegend 17. Jhdt. 58 cm hoch.
+- 32 EINE DESGL.:Maria mit Kind. Eiche. Rheinish Anfang 17. Jhdt. 39 cm hoch.
+- 33 ALABASTERRELIEF: Christus mit der Dornenkrone. Augsburg um 1700. S.=R.14x11cm.
+- 34 REITSATTEL,Leder,mit Messingbeshlagen. Russisd
+- 35-36 EIN PAAR FLORETTDEGEN.
+- 37 JAPAN. BRONZEFIGUR, tauschiert: Daimio in Fehterstellung. Auf
+- Blackwood=Sockel.
+- 38 ALABASTERGRuPPE: Bacchantin. Monogr. J. B. Augsburg um 1700.
+- (Beschadigt.&gt;
+- 39 BRONZEGRUPPE:Lowe im Kampf mit Stier.
+- 40 JAPAN. BRONZEVASE in Kelhform. Auf Bladkwood-Sodkel.
+- 41-42 EIN PAAR ZINNSAMOWARS,Empire.
+- 43 KONVOLUT: Miniatursanfte, gelbes Leder, Puppe mit rotem Seidenrodk, Papierkorb mit grunem Samtbezug.
+- 44 JAPAN.BRONZE-OPFERBECHER.18. Jhdt.
+- 45 JAPAN. BRONZEGRUPPE:Zwei Pelikane. Auf Holzuntersatz.
+- 46 LEUCHTER,einkerzig,Nidel,mit Glaseinsatz.
+- 47 GROSSE SCHALE AUF FUSS mit umlaufendem Jagddekor, versilbert.
+- 48 MESSINGSCHATuLLE,sehsedige Form, mit Deckel.AIs Deckelknauf
+- eine Muschel.
+- 49 JAPAN. BUDDHA, sitzend vor Lotusthron, Holz, vergoldet.Auf reic
+- geschnitztem vergoldeten Bladkwood-Socdel.  Japan 18. Jhdt.
+- 50 JAPAN. TISCHCHEN,Rotlack,auf geschweiften FuBen.
+- 51 SCHATULLE,Ebenholz,mit Messingeinlagen. Der Dedkel mit vershieden=
+- farbigen Steinen belegt. In der Mitte des Dekels die Initialen mit Krone.
+- 52 EINE DESGL.,kleiner, mit Brokatbezug.
+- 53 BRIDGE-SPIELKARTENKASTEN rot, Saffianleder.
+- 54 KONVOLUT:Visitenkartenschale,Alabaster,Holz=Zigarettenkasten und Tis=
+- klingel in Form einer Schildkrote.
+- 55 DESGL.: Zigarettenkasten,Plated, mit Initialen und funf diversen Ashen= bechern.
+- 56 TISCHLEUCHTER,versilbertes Gestell, mit Prismenbehang,funfarmig,fuinfkerzig.
+- 57 BIEDERMEIER-JARDINIERE,Mahagoni mit Messingintarsien.
+- 58 PENDuILE, Goldbronze. An das Gehause lehnt sich ein zehender Knabe. Deutsch um 1800.
+- 59 GERAHMTER FACHER,Perlmutgestell, mit Spitzenbezug.
+- kerzigen Schaft tragen.
+- 62 KONVOLUT: Goldbronze-Dohttoter und Shalhen, Ahat, auf Silberfuβ mit Emailauflagen.
+- 63 WACHSBOSSIERUNG:Puppe mit Brokatkleid
+- 64 MINIATUR-SCHREIBKOMMODE,Rosenholz,mit reicen Bronzeauflagen.
+- 65 WANDUHR mit Thermometer im Empirestil,Goldbronze, mit Wegdwood=
+- Medaillons. Das Zifferblatt signiert: Baingo frere a Paris.
+- 66-68 KAMINGARNITUR, Bronze, dreiteilig: Pendule,zwei Kandelaber,je zweikerzig.
+- 69-70 EIN PAAR WANDAPPLIKEN,je dreiflammig,Bronze,mit Porzellan=
+- blumen.
+- 71 PAPIERKORB im Empirestil, Mahagoni, mit gruinem Seidenbezug.
+- 72 BRONZE-BLUMENKUBEL mit Bugel.
+- 73 BRONZEFIGUR: Putto, Violoncell spielend. Sign.: Clodion. Auf Marmor=
+- sodkel.
+- 74 EINE DESGL.:Faun, die Flote spielend. Sign.:Willi Rub.
+- 75 JAPAN.HOLZGRUPPE: Vielarmiger Got, auf Lowen reitend. In Rotlak=
+- schrein.Um 1700. Abbildung Tafel 12
+- 76 ALABASTERGRUPPE:Liegende Frauenfigur. Beschadigt.&gt;
+- 77 KONVOLUT: Briefpapierstander, rot Saffan, Shreibmappe, rot Saffian,
+- Telephonbuch,Kalbleder, goldgeprebt.
+- 78 DESGL.:Kalender, Nidkel, Tintenzeug, Messing, Ashenbecher, Kopenhagen.
+- 79 GOLDBRONZEDECKELDOSE,reid getrieben. Auf der Deckelplatte
+- ein Sdaferpaar. Suddeutsch 1. Halfte 18. Jhdt.
+- 80 EINE DESGL., rund. Auf dem Dedel zwei geflugelte Lowen an einer Vase. Suddeutsh Ende 18. Jhdt.
+- 81 BLEIPLAKETTE mit Ansicht des Kolner Domes.
+- 82-83 EIN PAAR PLATED-VASCHEN, je einhenklig,in Form der griechischen
+- Vasen.
+- 84 ELFENBEIN-MINIATUR:Mrs.Robinson. EIfenbein=R.
+- 85 VOX RADIO mit Lautsprecher.
+- 86 HALSKETTE aus Jade, bernsteinfarbenem Glas und anderen Perlen zu=
+- sammengesetzt.
+## TEXTILIEN /TEPPICHE
+
+(Nr.87-152&gt;
+
+- 87-88 ZWEI DAUNENKISSEN mit Filetbezug.
+- 89 DIWANDECKE,imitiert Hermelin.
+- 90 FUSSKISSEN,rund,mit Brokatplatte.
+- 91 SCHIRWANBRUCKE mit blauem Fond, auf diesem Palmettenmuster.
+- 164x94 cm. (Unwes. beshadigt.&gt;
+- 92 KAUKASISCHER KNUPFTEPPICH Sateltasche). 92x52 cm.
+- 93 KASAKBRUCKE.312×160 cm.
+- 94 GHIORDES-GEBETSBRUCKE mit rotem Gebetsfeld.208x130 cm.Be=
+- schadigt.&gt;
+- 95 SMyRNATEPPICH mit weibem Spiegel. 275x180 cm.
+- 96 KASEL, Goldbrokat. 18. Jhdt. (Beschadigt.&gt;
+- 97-100 VIER DAUNENKISSEN mit rotem Moirebezug.
+- 101-102 ZWEI DESGL. mit gestreiftem Wollbezug.
+- 103 DREI DESGl.:a&gt; mit blauem Seidenbezug, b) mit gestreiftem Brokatbezug,
+- c) mit geblumtem, gelbem Seidenbezug.
+- 104 CHINA-BROKATLAUFER.
+- 105 VELUM,creme Seide,mit Goldstidkerei. Suddeutsch 18. Jhdt.
+- 106 TISCHDECKE,rund, braunlihe broschierte Seide.
+- 107 KASEL, Silberbrokat, mit Goldstidkerei.
+- 108 DAUNENKISSEN,erdbeerfarbener Samt,mit Goldtressen.
+- 109 EIN DESGL., burgunderrote Seide, mit Blumenmuster. (Beschadigt.)
+- 110 EIN DESGL.,rot gestreifter Damast.
+- 111-112 EIN PAAR STOLEN.
+- 113 MESSDECKE,Silberbrokat,mit Goldapplikationen.
+- 114 RAUCHMANTEL, geblumter Goldbrokat.Suddeutsch um 1700. Beshadigt.&gt;
+- 115 DAuNENKISSEN,roter gestreifter Samt, mit rotem Samt abgesetzt.
+- 116 EIN DESGL.,weiBe Seide,mit Goldstidkerei.
+- 117 SCHLUMMERROLLE,roter gemusterter Samt,und Silberbrokatstola.
+- 118 SEIDEN-GEBETSTEPPICH.86x127 cm.
+- 119 KASAKBRUCKE.274x176 cm.
+- 120 SEIDENKESCHAN.195×136 cm.
+- 121 KULA GEBETSBRUCKE mit himbeerfarbenem Gebetsfeld.  162x120 cm.
+- (Beschadigt.&gt;
+- 122 KLEINE SEIDENBRuCKE.87×58 cm.
+- 123 VELUM, creme Seide,mit polyhromer Blumenstickerei. Frankreih 2. Halfte
+- 18.Jhdt.
+- 124 DAUNENKISSEN,resedagruner Goldbrokat, mit Blumenmuster.
+- 125 EIN DESGL. mit groBblumigem Goldbrokat. Der Bezug suddeutsh um 1700.
+- 126 TISCHLAUFER, groBblumiger Silberbrokat. Um 1700. (Beschadigt.&gt;
+- 127-128 ZWEI DAUNENKISSEN mit fleischfarbenem und weifem Seiden=
+- bezug. Auf diesen Goldapplikationen in Streifenmuster.
+- 129 SCHLUMMERROLLE,modefarbener Samt.
+- 130 TISCHDECKE, taubenblaue gestreiffe Seide, und DAUNENKISSEN mit
+- gelbem Brokatbezug.(Beschadigt.)
+- 131 VELUM, weiBe Seide, mit Goldapplikationen. Suddeutsch 18. Jhdt.
+- 132 FUSSKISSEN mit Goldbrokatbezug. Auf der Platte ein gefulter Blumenkorb.
+- 133-134 EIN PAAR DAUNENKISSEN,blauer Goldbrokat, mit hellblauem
+- Blumenmuster.
+- 135 KONVOLUT:Drei diverse Tischdecken, Goldbrokat.
+- 136-137 ZWEI DIVERSE TISCHLAUFER.
+- 138-139 ZWEI TISCHDECKEN,oval und rund, groBblumiger Goldbrokat.
+- 140 FILET-TISCHDECKE,rund.
+- 141—142 EIN PAAR TISCHLAUFER, weibe Seide, mit Goldapplikationen.
+- Suddeutsh 18. Jhdt.
+- 143 TISCHDECKE,roter chinesischer Goldbrokat.
+- 144 DEUTSCHER TEPPICH.400X300cm.
+- 145 NEUN FILETLAUFER.
+- 146 KONVOLUT:Stola,Goldbrokat,zwei GoldbrokatTiscdedken,ein Goldbrokat= Untersatz, Tishdeke,bedrukter Tull.
+- 147-148 ZWEI DAuNENKISSEN mit hellgeblumtem Stofbezug.
+- 149 EIN DESGL.mit rotem japanishen Seidenbezug.
+- 150 FILET-TISCHDECKE.
+- 151 KASAKBRUCKE. 158X89 cm.
+- 152 FERAHANTEPPICH.320X230 cm
+
+## STICHE/GEMALDE
+
+(Nr.153—215&gt;
+
+- 153 FUNFZEHN GERAHMTE TRACHTENSTICHE aus der Empirezeit.
+- 154 KONVOLUT: Zehn gerahmte Buntdrucke.
+- 156 GERAHMTES AQUARELL:Ansiht von Rom. G.R.
+- 157 EIN DESGL.:Ansicht von Frankfurt. S.R.
+- 158 EIN DESGL.von Rohriht: Strandlandschaf.Sign.G.-R. 49x35 cm
+- 159 GERAHMTE RADIERUNG von K.Meindl:Die Hammershmiede.
+- Handsign.S.R.
+- 160 GERAHMTES AQUARELL von Rohricht:Wasserlandschaf. Sign.G.R.
+- 161164 MONOGRAMMIST FWR:Bei der Toilette.Vier Gegenstudke.)
+- Malp.G.-R.
+- 165 F.DORSCH:Nah Tisch. Sign. Aquarell. G.R. 35x42 cm.
+- 166 G.HOHN: Winterlandschaf. Sign.Lwd.G.R. 5Zx40 cm.
+- 167 ZWEI GERAHMTE DRUCKE nah franzosishen Kupferstichen des 18. Jhdt. G.=R.
+- 168 UNBEKANNT:Fjordlandshaf.Lwd. G.R. 43x74 cm.
+- 169 GERAHMTE KREIDEZEICHNUNG von Hatop: Frauenkopf.G.R.
+- 170 DREI GERAHMTE BUNTDRUCKE.
+- 171-172 ZWEI GERAHMTE BUNTDRUCKE:Frauenportrats. S.=R.
+- 173 KONVOLuT:Gerahmter Buntdruk nach Durer, gerahmter Drudk Le Matink und gerahmter Druk nad Watteau.
+- 174 GERAHMTER KUPFERSTICH,koloriert: Prinz Aibrecht von PreuBen. Holz=R.
+- 175 GERAHMTE LITHOGRAPHIE von J. Jorsos: Die Kashemme. Handsign. S.=R.
+- 176 GERAHMTE RADIERUNG von K.Meindl: Araberkopf. Handsign.S.R.
+- 177 GERAHMTE LITHOGRAPHIE von G.Engelmann:Der Herodote. S.R.
+- 178 GERAHMTES AQUARELL von Siebenbrodk:Der Fischerhafen. Sign.und
+- dat.21.G.=R.
+- 179 GERAHMTER KUPFERSTICH von Bauverlais:Maria Verkundigung. S.R.
+- 180-181 ZWEI GERAHMTE KUPFERSTICHE:La promenade du matin. —La promenade du soir.Nach Freudenberg.G.R.
+- 182 GERAHMTER BUNTDRUCK: Shakespeare's tomb.G.R
+- 183 SuDDEUTSCH um 1700: Christi Auferstehung. Holz. G.-R. 49x37 cm.
+- 184—185 ITAL. MEISTER um 1700:Blumenstilleben.(Gegenstudke.&gt; Lwd.
+- Alter G.R.79x105cm.
+- 186 BOCKLIN-SCHULE:Mars und Venus. Lwd. G.R. 38x63 cm,
+- 187 C.WALTENBERGEN: Die Kugeltanzerin. Sign. und dat. Malp. G.R. 29×19 cm.
+- 188 GERAHMTER KUPFERSTICH von Ponkens: Palemon und Labinia. G.R.
+- 189 J. SCHOyERER: Meeresbrandung. Sign. Malp. G.R. Durchm. 35 cm.
+- 190-191 NACHAHMER DES BOUICHER:Shaferszenen. (Gegenstucke.&gt; Lwd.G.=R.32x23cm,
+- 192 GERAHMTES PASTELL: Susanna im Bade. G.R. 33x47 cm.
+- 193 UNBEKANNT:Kniestudk der Prinzessin Joachim Aibrecht von PreuBen, Lwd.G.-R.115x78cm.
+- 194 BUGIARDINI:Madonna mit dem Johannesknaben.Landshaftsdurhblick. Holz. G.R. 37x29 cm. Ruckseitig Insdrift aus dem 18. Jhdt. Mit Gut= achten von Exzellenz von Bode.&gt; Abbildung Tafel 6
+- 195 AERT VAN DER NEER:Mondlandschaft. Monogr.Lwd.S.R.44x54 cm.
+- (Mit Gutachten von Hofstede de Groot.&gt; Abbildung Tafel 10
+- 196 CORNELIS DE VOS:Herrenportrat vor blaulichem Hintergrund. Holz. S.=R. 105x75 cm. (Mit Gutahten von Hofstede de Groot.&gt; Abbildung Tafel 11
+- 197 P.C. VAN SLINGELAND:Interieur.In einem Gelehrtenzimmer konsul=
+- tiert ein Bauer mit Knaben den Arzt. Holz. S.R. 41x53 cm. (Mit Gut= achten von Hofstede de Groot.&gt; Abbildung Tafel7
+- 198 MEINDERT HOBBEMA:Waldlandshaft mit Durhblik auf eine Stadt.
+- Lwd. S.=R.97x130 cm. Abbildung Tafel 10
+- 198a ADRIAN BROUWER:Interieur. Funf spielende und zehende Bauern und Bauerinnen, Holz. S.R. 26x31.5 cm. (Mit Gutachten von Hofstede de Groot.&gt; Abbildung Tafel 8
+- 198b JAN FyT: Geflugel=Stilleben. Lwd. G.=R. 33x43 cm. Mit Gutachten von Hofstede de Groot.&gt; Abbildung Tafel 9
+- 199 FEDOR ENKE: Frauenportrat. Sign. Holz. G.R. 2Zx18 cm.
+- 200 JOH. DAVID BAyER:FruMtestilleben. Sign.und dat,1782. Holz. G.=R.68x57 cm. Abbildung Tafel 9
+- 201 C. A. GEIGER: Kopf einer Turkin. Sign. Malp. S.R. 28x18 cm.
+- Lwd.S.=R.63×56 cm.
+- 203 HERMINE DETZER: Blumenstilleben. Sign. Holz. S.R. 39x31 cm.
+- 204 DIESELBE:Fruhtestilleben. Gegenstuck zu voriger Nummer.&gt;
+- 205 K. HEFFNER: Landstrabe auf der Marsch. Sign. Lwd. G.=R. 68x93 cm. Abbildung Tafel 12
+- 206 P. LISCHKA: Der Dudelsadkblaser.Sign. Lwd. S.-R.66x51 cm.
+- 207-ZO8 EIN PAAR GERAHMTE BUNTDRUCKE:Maria Verkundigung
+- —Die Heilige Familie. Bronze=R.
+- 209 SuDDEUTSCH (18. Jhdt.):Die gekronte Maria mit Palmwedel.Lwd. G.=R.80×63cm.
+- 210 DASSELBE: Rebekka am Brunnen. Lwd. S.-R. 59x78 cm.
+- aufgeklebt.G,=R.23x18cm.
+- 212 NORDDEUTSCH um 1800:Huftbild eines Offiziers vor Landshafts=
+- hintergrund. Lwd. S.R.72x56 cm.
+- 213 C.IRMER:Sumpflandschaft,im Vordergrund ein Hirsh. Sign. und dat. 59.
+- Lwd.G.=R.85x73cm.
+- 214 GERAHMTE KOHLEZEICHNUNG:Der Nahkampf. S.R.
+- 215 UNBEKANNT:Der Treushwur.Lwd.S.=R.73x65 cm.
+
+## IV.
+
+## SILBER/PLATED
+
+(Nr.216—309)
+
+- 216 TISCHLAMPE, Goldbronze,im Louis=XVI.=Stil,zweiflammig
+- 217-218 EIN PAAR SILBERNE PUDERDOSEN.Auf dem Dedkel die
+- Initialen der Prinzessin.
+- 219 LEDERKOFFER mit Necessaire-Einrimtung.
+- 220 PLATED-TISCHLAMPE im Louis=XVI.-Stil,einkerzig, mit Papierschirm.
+- 221 EINE DESGL., einkerzig, auf sechspassiger Fubplatte, mit Seidenschirm
+- 222 KONVOLUT:Plated-hors=doeuvres=Platte mit Glaseinsatzen, funf Messing=
+- ashenbecher, Nickelkaffeekanne und Nickelteemaschine.
+- 223-224 ZWEI DIVERSE BOWLENKARAFFEN,Glas,mit silbernen Dedeln und Henkeln. Auf den Dedkeln die Initialen des Prinzen.
+- 225-Z26 EIN PAAR BOWLENKARAFFEN, Glas,mit silbernen Dedkeln und
+- Henkeln.Auf den Deckeln die Initialen des Prinzen.
+- 227-230 SILBERNES TEESERVICE im Louis=XVI-Stil mit dem Wappen des Prinzen, funfteilig: Tablet, Samowar,Kaffeekanne, Milkanne, Teekanne, Zuckerdose.
+- 231-234 EIN DESGL.im japanischen Stil, vierteilig: Teekanne, Extraktkanne, Milhkanne,Wasserkanne.
+- 235 SILBERNER BRAUTBECHER.
+- 236 KONVOLUT: Silberne Menage, zweiteilig Einsatze fehlen&gt;;Saftkaraffe Bleikristall, in PlatedMontierungFlakon,Bleikristall mit silbernem VershluB
+- 237 FUNF NUSSKNACKER, versilbert.
+- 238 SILBERNE OBSTSCHALE auf FuB im Empirestil.
+- 239 SECHS WASSERGLASER in Metallgestell.
+- 240-241 EIN PAAR KRISTALL-SAFTKARAFFEN in Silbermontierung. Auf
+- dem Deckel der preubische Adler.
+- 242 SILBERKASTEN fur Z4 Personen mit dem Wappen des Prinzen: 24 grobe gabeln, zwolf Mittelmesser, Suppenkelle, vier Saucenloffel, vier Bratengabeln,
+- Gabeln, 24 grobe Messer, zwolf Suppenloffel, zwolf Hummergabeln, zwolf Mokkaloffel,zwolf Teeloffel,zwolf Krebsmesser,zwolf Austergabeln,elf Obst= messer,zwolf Obstgabeln, zwolf Fischmesser, zwolf Fishgabeln, zwolf Mittel= zwei Vorlegeloffel,Salatbested,zweiteilig,Kasemesser,Butermesser,Tranhier= bestedk,zweiteilig, Spargelnehmer,Fisgabel, zwei Tortenheber,wei Kompott 1offel.
+- 243 KRISTALL-ZUCKERSTREUER mit silbernem Dedel.
+- 244 KONVOLuT: Glasashenbecer mit Nickelrand und zwei Vaschen, versilbert (eins mit Glaseinsatz).
+- 245-Z46 ZWEI SPIRITUSLAMPEN, Glas,in Form von Shwanen mit ver=
+- silberten Kopfen.(Eine beschadigt.&gt;
+- 247 ELEKTRISCHE KAFFEEMASCHINE.
+- 248 DREI DIVERSE SILBERNE SALZNAPFCHEN mit Glaseinsatzen und
+- zwei diverse silberne Mokkaloffel.
+- 249 BROTKORB,versilbert. Im Spiegel die Initialen des Prinzen.
+- 250 KONVOLUT:Marmeladendose,zweiteilig,versilbert,vier Flashenuntersatze,
+- versilbert, und kleiner Blumentopf, versilbert.
+- 251 SILBERNER TAFELAUFSATZ.Im Boden eingraviert:I.H. Marie
+- Herzogin zu Sachsen=Altenburg.
+- 252 SILBERNER ZUCKERSTREUER im Louis-XVI-Stil mit blauem Glas=
+- einsatz.
+- 253-254 ZWEI DIVERSE SILBERNE SENFNAPFE mit blauen Glaseinsatzen.
+- 255-256 EIN PAAR SILBERNE KANDELABER,je zweikerzig. Mit den
+- eingravierten Initialen des Prinzen.
+- 257 SILBERNES FLAKON im Louis-XVI.-Stil mit blauem Glaseinsatz.
+- 258 SILBERNE OBSTSCHALE auf FuB in Kelhform.
+- 259-260 ZWEI SILBERNE BLUMENTOPFE mit umlaufenden plastishen
+- Jagddarstellungen. Ceylon-Silber.
+- 261-262 ZWEI DIVERSE KRISTALLFLAKONS mit Silberrandern.
+- 263 FLAKON, Rubinglas, in Silbermontierung. Besdadigt.&gt;
+- 264 KONVOLUT:Funf diverse silberne Mokkaloffel und Kristallaschenbeder mit Silberrand.
+- 265 JAGDKANNE,engl. Plated, mit eingravierten Inschriften.
+- 266 23 FINGERSPULSCHALEN, versilbert.
+- 267 KONVOLUT: Silbernes Salznapfhen mit Glaseinsatz, ein desgl. mit Glas=
+- einsatz, Napfhen innen vergoldet.
+- 268 DESGL.: Drei Korken, versilbert, in Form von Tierkopfen und Stodkgrif, versilbert, auf der Wandung die drei Grazien.
+- 269 SILBERNE MENAGE im Louis=XVI.-Stil mit zwei Kristalleinsatzen einer
+- beschadigt).
+- 270 KLEINE SILBERNE MENAGE mit innen vergoldeten Mushelshalen und Griff in Form eines Brunnens.
+- 271 SILBERNE SCHALE im Louis=XVI-Stil mit durhbrodhenem Rand und Blumen=Reliefdekor.
+- 272 SILBERNES KAFFEEBESTECK, vierteilig, mit Griffen in Form einer Windmuhle, eines Shifs, Wappens usw.
+- 273 KONVOLUT: Zukerloffel, als Griff ein Monh, Empire=Teeloffel, vergoldet, und kleines Shalchen, versilbert.
+- 274 SILBERNE KONFEKTSCHALE in Schifform und sehs silberne Salz= napfhen im Louis-XVI.-Stil mit blauen Glaseinsatzen.
+- 275 VERSILBERTES LIKORTABLETT mit zwolf versilberten Likorglasern und
+- silbernem Flashenhalter.
+- 276 SILBERNER MINIATURPOKAL, innen vergoldet, auf quer gegurtetem Fuβ.
+- Mit den Initialen des Prinzen,
+- 277 TRINKBECHER, Tulasilber. Auf dem Boden die Inscrif: Moskau, den 15.Dezember 1874.
+- 278 SILBERNES VASCHEN in Kelhform.
+- 279-280 EIN PAAR SILBERNE FLAKONS mit gruinem und rotem Glas= einsatz. Mit der Inschrif: S. M. S. Kaiser Friedrih IIl. 4.12. August 1904.
+- 281 POKAL, Silber, innen vergoldet, auf quer gegurtetem Fub. Mit den Initialen
+- des Prinzen.
+- 282 TRINKBECHER, Kaiserzinn, mit umlaufenden Ansihten yon AItenburg.
+- 283 SILBERNER TRINKBECHER mit der eingravierten Darstellung eines
+- predigenden Kapuziners.
+- 284 MINIATuRSEIDEL,japanisches Silber,mit Dracenhenkel.
+- 285 SILBERNER BECHER mit Rippen und den Initialen des Prinzen.
+- 286 EINER DESGL. auf FuB, netzartig gemustert, mit den Initialen des Prinzen.
+- 287 EINER DESGL., kleiner, mit aufgelegten Ornamenten und den Initialen des Prinzen.
+- 288 SILBERNER TRINKBECHER, vergoldet, in Form des Gardehelms mit
+- eingravierter Umschrift.
+- 289 SILBERNES VASCHEN auf FuB im Rokokostil mit Giteraufsatz.
+- 290 SILBERNER BECHER in Form einer platzenden Granate. Das Unterteil versilbert.
+- 291 TRINKBECHER, Silber, vergoldet. Nurnberger Beschauzeiden. Um 1700.
+- 292-296 SILBERNES TEESERVICE, funfteilig: Tablet, Samowar, Teekanne, Milhkanne, Zuckerdose.
+- 297-298 ZWEI SILBERNE TEESIEBE auf Standern.
+- 299 EMPIRE-SAMOWAR, versilbert, mit zwei Ringhenkeln in Lowenkopfen.
+- 302 EINER DESGL. auf FuB mit eingravierter Aufschrif.
+- 303 SILBERNE KEKSDOSE,oval, mit Dedel, innen vergoldet.
+- 304 SILBERNE SCHALE,oval, zweigriffig,mit Glaseinsatz.
+- 305 EMPIRE-FEDERHALTERSCHALE, Silber, vergoldet, auf KlauenfuBen.
+- Berliner Beshau. Meisterzeichen Gerike. Um 1800.
+- 306-309 SILBERNES MOKKASERVICE,vierteilig:Mokkakannhen,Milh# kannhen, Zuckerdose, Sieb, zwei Zukerzangen,
+
+## KRISTALL/ PORZELLAN
+
+(Nr.310-424&gt;
+
+- 310 KRISTALLOBST-SCHUSSEL in Shifform.
+- 311 BISKUIT-TISCHLAMPE,dreiflammig,mit Seidenschirm.
+- 312 PORZELLANFIGUR:Elefant.
+- 313 EINE DESGL.: Junger Jagdhund,
+- 314 GLASSERVICE,venezianisch, blau uberfangenes Glas, 45teilig: 34 Salz= napfhen, funf Leuchter, vier diverse Shalen, eine Vase und ein Tulpenglaschen
+- 315 GINORI=VASE mit umlaufendem Jagddekor.
+- 316 MEISSENER PORZELLANFIGUR:Hollandisces Bauernmadden.
+- 317 TISCHLAMPE,Biskuit,in Form einer sitzenden Frauengestalt,mit tabak= braunem Seidenschirm.
+- 318-319 EIN PAAR CHINA-PORZELLANDECKELVASEN mit Kirsh= blutendekor.
+- 320 INGWERTOPF mit gleichem Dekor.
+- 321 GLASSERVICE im Rokokostil mit blauen Randern: sieben Sektshalen, sechs Burgunderglaser, neun Rotweinglaser, neun Sudweinglaser, vier Likorglaser, drei Karaffen.
+- 322 KRISTALL-SALATSCHUSSEL,rund.
+- 323 SECHS BURGUNDERGLASER, Chippendale-Muster.
+- 324 ZWOLF SEKTGLASER gleiches Muster.
+- 325 ZEHN ROTWEINGLASER, gleiches Muster.
+- 326 NEUN WEISSWEINGLASER, gleihes Muster.
+- 327 KONVOLUT:Drei Bierbeher und vier Sudweinglaser, gleihes Muster.
+- 328 SIEBEN ROTWEINGLASER mit Goldrand.
+- 329 NEUN WEISSWEINGLASER,gleihes Muster.
+- 330 DREI SEKTSCHALEN,gleihes Muster.
+- 331 ZWOLF KRISTALL-KOMPOTTELLER.
+- 332 ACHT VERSCHIEDENE KRISTALL-KOMPOTTELLER.
+- 333 23 KOGNAKSCHALEN aus irisierendem Glas.
+- 334 SIEBEN DIVERSE ROTWEINGLASER.
+- 335 FUNF ROTWEINSCHALEN.
+- 336 KRISTALLSCHALE,oval,mit Blumenschliff.
+- 337 KRISTALLKEKSDOSE,rund.
+- 338 KONVOLUT:Vier Glas=Fingerspulscalen, zwei blaue Glasschalen und diverse Glasgegenstande.
+- 339 KRISTALLVASE,didkbauhig.
+- 340 KRISTALL-DECKELDOSE.
+- 341 GROSSE KRISTALLVASE mit abgesetztem Rand.
+- 342-343 EIN PAAR DESGL.,kleiner.
+- 344 KONVOLUT: Kristall-Sellerieglas und drei diverse Blumenvasen.
+- 345 KRISTALL-OBSTSCHUSSEL.
+- 346 KRISTALL-TORTENPLATTE.
+- 347 EINE DESGL.,kleiner.
+- 348 JAPANISCHE PORZELLANVASE,krakeliert, als Dekor ein Bronze-
+- drachen.(Beschadigt.&gt;
+- 349 KONVOLUT: 17 diverse Blumentopfe und Vasen.
+- 350 WASCHGESCHIRR,neunteilig, violetter Grund, mit Blumendekor.
+- 351-352 EIN PAAR JAPANISCHE PORZELLANSCHUSSELN mit uppigem Blumendekor.
+- 353 KONVOLUT:Japanishe Porzellanschussel mit figurlichem Dekor im Stil der Famille verte, eine desgl. mit gleicem Dekor, Fayenceschussel mit kupferrotem Wappendekor.
+- 354 LIMOGES-SPEISESERVICE mit rotem Rand: Suppenterrine, drei diverse ovale Shusseln, zwei runde Shusseln, Dedelterrine auf Untersatz, eine
+- Sauciere, 45 flahe Teller, 24 Mitelteller, 24 Kompotteller.
+- 355 PORZELLAN-KAFFEESERVICE mit Blumendekor:Kaffeekanne, Mil=
+- kanne, Zudkerdose, sechs Tassen, funf Untertassen.
+- 356-357 EIN PAAR KONFEKTSCHALEN, venezianishes Glas.
+- 358 PORZELLAN-DECKELVASE mit polyhromem Blumendekor. Auf Holz= untersatz.
+- 359 INGWERTOPF mit Dedkel und Kirshblutendekor. Auf Holzuntersatz.
+- 360 BERLINER PORZELLAN-SCHIRMSTANDER, weib.
+- 361 JAPANISCHE PORZELLANVASE mit Dekor im Stil der Famille verte.
+- 362 JAPANISCHER PORZELLAN-SCHIRMSTANDER mit Drahendekor. Auf Blackwood-Sodkel.
+- 363 GALLE-TISCHLAMPE,einflammig,mit gelbem Seidenschirm.
+- 364 BERLINER PORZELLAN=MINIATURKOMMODE im Rokokostil mit
+- polyhromem Blumendekor.
+- 365 KONVOLUT:Vier diverse Porzellaneier mit versciedenem Blumendekor.
+- 366 ROSENTHAL-PORZELLANGRUPPE:Junge Shweine.
+- 367 PORZELLANFIGUR:Kniender Harlekin.
+- 368 NYMPHENBURGER RPORZELLANGRUPPE:Der Sommer.
+- &lt;Be= schadigungen.)
+- 369 FRANKENTHALER PORZELLANFIGUR:Papagei
+- 370 PORZELLANGRUPPE CAPO DI MONTE:Das Bad der Venus.
+- 371-372 EIN PAAR JAPANISCHE PORZELLAN-DECKELVASEN mit Dekor im Stil der Famille verte. Auf Holzuntersatzen.
+- 373 JAPANISCHE PORZELLAN-TISCHLAMPE, zweiflammig, mit weibem
+- Seidenschirm.
+- 374-377 VIER NyMPHENBURGER PORZELLANBUSTEN:
+- Sommer, Fruhling, Herbst und Winter.
+- 378-379 EIN PAAR BERLINER PORZELLAN-KANDELABER mit poly=
+- hromem Blumendekor. Hermenfiguren tragen den neunkerzigen in Goldbronze gefabten Aufsatz.
+- 380 BERLINER PORZELLAN-OBSTSCHALE mit Blumendekor. Repariert.&gt;
+- 383 BERLINER PORZELLAN-SPEISESERVICE,Muster ShloB Sanssouci:
+- Suppenterrine, zwei Fiscschusseln, vier ovale Platten, zwei Gemuseschusseln mit Dedkeln 《ein Deckel fehlt), Jardiniere, Tortenplatte, Kabarett, funf diverse runde Shusseln, vier Saucieren mit zugehorigen Loffeln, zwei tiefe und vier flahe Salatschusseln, zwei Obstschalen auf FuBen, zwolf Hors=d'oeuvres=Platten, halbkreisformig, zwolf Mokkatassen, sechs Salznapfcen, dreizehn Kompotteller, 48 flace Teller, vierzehn tiefe Teller,vierzehn flahe Teller mit durhbrochenem Rand.
+- zogenen Wagen. (Beshadigt.)
+- 385 KONVOLUT:28 diverse Glasblasereien in Form von Tieren.
+- 386 DESGL.:Porzellankorb mit Blaudekor, Raucverzehrer, Porzellan=Zukerdose,
+- Tasse, Ludwigsburger Tasse mit Blumendekor. (Einige Teile beshadigt.)
+- 387 KLEINE GALLEVASE mit umlaufendem Landschaftsdekor.
+- 388 MEISSENER KAFFEEKANNCHEN mit polychromem Blumendekor und silbervergoldetem Dedkel. Auf diesem die Initialen des Prinzen mit Krone.
+- Das Porzellan Mitte 18. Jhdt.
+- 389 JAPANISCHER PORZELLAN-BLUMENSTANDER,celadonfarben,mit
+- ausgespartem Blumendekor.
+- 390-391 EIN PAAR LEUCHTER, je einkerzig, venezianisches Glas.
+- 392-393 EIN PAAR VASEN,venezianisches Glas.
+- 394 PROSKAUER FAyENCE-DECKELTERRINE mit eisenrotem Landshafts= dekor. AIs Dedkelknauf eine Birne.
+- 395 MEISSENER SUPPENTERRINE auf Untersatz mit polyhromem Blumen= dekor.
+- 396 SATSUMA-VASCHEN mit vielfigurigem Dekorund CHINA-PORZELLAN=
+- VASCHEN, gurkengrun glasiert. Auf Holzuntersatzen.
+- 397 POTSCHAPEL-PORZELLAN-MINIATURVITRINE mit figurlicem Dekor.
+- 398 SIEBEN DIVERSE MOKKAMINIATURTASSCHEN. Teilweise be= schadigt.&gt;
+- 399-400 EIN PAAR MEISSENER FLOTENVASEN,zitronengelb,mit Blumenreserven.
+- 401 CHINA-PORZELLAN-SUPPENTERRINE mit Famille=rose-Dekor.Auf der Vorderwand ein Wappenschild. Als Deckelknauf ein sitzender Foh-Hund. Eisenrote Schriftmarke.18. Jhdt.《Sprung.&gt; Abbildung Tafel 12
+- 402 MEISSENER PORZELLANGRUPPE:Venus, Amor im Fiscnetz fangend.
+- 403 JAPANISCHE CLOISONNEVASE,braunrot,mit Blumendekor.Auf Holz= untersatz.
+- 404 PORZELLAN-DECKELDOSE mit Rosendekor und blauem Gitermuster.
+- In Bronzemontierung.
+- 405 HOCHSTER MINIATUR-DECKELVASE mit plastischem Blumendekor. (Bescadigt.&gt;
+- 406 MEISSENER PORZELLAN-DECKELVASE in Eiform mit plastishem
+- Blumendekor.
+- 407 LUDWIGSBURGER PORZELLANGRUPPE:Das Shahspiel.
+- Shaferin. (Beschadigt.&gt;
+- 410 KONVOLUIT:Capo die Monte=Porzellanfigur Bettler,Nymphenburger
+- 411 BERLINER PORZELLANFIGUR:Lautenspielerin.
+- 412 MEISSENER KAFFEESERVICE mit polyhromem Shaferszenendekor, ahtteilig: Tablet, Kaffeekanne, Milhkanne, Zuderdose, vier Tassen.
+- 413-415 DREI DIVERSE MOKKATASSEN. Eine beshadigt.&gt;
+- 416-420 FUNF BERLINER BIEDERMEIER-TASSEN mit Golddekor.
+- 421 KONVOLUT:Porzellankatze, China-Porzellanfigur,Figur mit Afenkopf und Terrakottavase.
+- 422 WEDGWOOD-TEESERVICE mit Goldrand, 2Z teilig. (Teekanne.
+- Beschadigt.&gt;
+- 423 NEUN ENGLISCHE MOKKATASSEN mit Blumenmuster.
+- 424 BAVARIA-SPEISESERVICE fur sechs Personen,30 teilig.
+## MOBEL/ FLUGEL/ BELEUCHTUNGEN VORHANGE/ FUSSBODENBELEGE AUBUSSON
+
+(Nr.425-611&gt;
+
+- 425 PFEILERSPIEGEL,holzgeschnitzt und vergoldet, im Regencestil.
+- 426-427 EIN PAAR WANDAPPLIKEN, je zweikerzig, holzgeshnitzt und
+- vergoldet, im Louis=XVI.=Stil.
+- 428-431 LOUIS-XVI-GARNITUR,Eide,grun=gold gefabte Gestelle,mit braun=
+- rotem gestreiften Ripsbezug,vierteilig: Sofabank, drei Stuhle.
+- 432 STEHLAMPE,Metall,rot gelakt,funfflammig
+- 433435 DREI STuHLE im Stil des hollandishen Barodk,Rotladk,mit Chinoiserien.
+- Mit gelben Seidenbezugen.
+- 436 KOMMODE im Louis-XV.Stil, zweiturig, Rosenholz, mit feuervergoldeten Bronzen und Marmorplatte.
+- 437 ALABASTERSCHALE,als Ampel montiert,zweiflammig.
+- 438 KONSOLTISCH im Louis=XVI.-Stil, holzgeschnitzt und vergoldet.
+- 439-440 EIN PAAR SPIEGEL in Goldrahmen.
+- 441 VELOUR-FUSSBODENBELAG, braunlic gemustert, mit brauner Borde,
+- ca. 16 qm.
+- 442-443 EIN PAAR BACKENSESSEL im Chippendalestil, Mahagoni, mit rot
+- gemusterten Damastbezuigen und je einem freiliegenden Sitzkissen.
+- 444 TISCH, rund, im Sheratonstil, Mahagoni
+- 445 KOMMODE im Louis=XVI.=Stil, zweiscubig, Rosenholz, mit Marketerie und Blumenintarsien. Mit Marmorplatte.
+- 446 LEHNSESSEL im Regencestil, NuBholz, mit Gobelinbezug. Der Bezug flamisch um 1700(?&gt;.
+- 447 JAPANISCHER BLACKWOOD-STANDER,reih geshnitzt,mit Marmor= platte,
+- 448 VITRINENSCHRANK im Stil des hollandishen Barodk, Nubholz,mit Blumen=
+- intarsien. Unterteil dreishubig, Oberteil zweiturig.
+- 449 ECKNAHTISCHCHEN, zweiscubig, mit Galerie,Polisander, mit Wurfel=
+- marketerie.
+- 450 BACKENSESSEL im Chippendalestil, Mahagoni, mit rotgeblumtem Damast= bezug.(Bezug beschadigt.&gt;
+- 451—452 FAUTEUIL und STuHL im Chippendalestil, Mahagoni, mit rot ge= blumten Damastsitzen.
+- 453 KLUBSESSEL im Chippendalestil, Mahagoni, mit Rohrbezug und einem frei= liegenden blau-gelb gestreiften Ripssitzkissen.
+- 454 DAMEN-SCHREIBTISCH im Jacobstilhalbrund,Mahagoni,mit Holzgalerie, dreischubig.
+- 455 KLAVIERBANK im Louis=XVI.-Stil, Eihe, mit gelbem Ripsbezug.
+- 456 SCHWECHTENFLUGEL.
+- 457 NOTENSTANDER, Mahagoni,zusammenklappbar.
+- 458 PARAVENT, vierteilig, grunes Leder, mit Blumenmalerei.
+- 459 SOFABANK im Chippendalestil, Eihe, mit blauem Damastbezug und zwei freiliegenden Sitzkissen.
+- 460 KRONLEUCHTER mit Prismenbehang, sechsarmig, siebenkerzig.
+- 461 FUSSBANK im Louis=XV.Stil, NuBholz, mit taubenblauem Silberbrokatbezug.
+- gemustertem Damast mit zusammen funf Lambrequins und aht Stores.
+- 463 TURVORHANG,tabakbrauner Rips,zweiteilig,mit zwei Lambrequins, gelber Damast.
+- 464AUBUSSON-TEPPICH.418×570 cm.
+- 465-466 EIN PAAR LEHNSESSEL im Stil des hollandischen Barodk, Rotladk,
+- mit Chinoiserien und gelben Ripssitz.
+- 467 MARMORKAMIN mit zugehorigem Spiegelaufsatz.
+- 468 TISCHGRAMMOPHON auf zugehorigem Mahagoni-Notenschrank.
+- 469 TRUHE mit Goldbrokatbezug.
+- 470 TISCH, rund. Die Platte ruht auf japanischer Bronzevase. Auf der Platte ein liegendes japanisches Bronzekind.
+- 471 DUCHESSE im Louis=XVI-Stil, Eiche, mit Rohrbezug und einem frei= liegenden blau=gelb gestreiften Damastsitzkissen.
+- 472 LOUISXV.=SPIELTISCH, NuBholz.Suddeutsh Mitte 18. Jhdt.
+- 473 TISCH, oval, im Louis=XV.-Stil, Polisander, in Bronzeeinfassung.
+- 474 ECKKONSOLTISCH im Louis=XVI-Stil, holzgeschnitzt und vergoldet,mit Marmorplatte.
+- 475 GROSSE PALME.
+- 476-477 EIN PAAR FAUTEUILS im LouisXVI.Stil, Eice, mit gelbem Rips=
+- bezug.
+- 478 STEHLAMPE, holzgeschnitzt und vergoldet, dreiflammig,mit Papiershirm.
+- 479 TISCH, oval, Mahagoni.
+- 480 KONSOLTISCH im Louis=XVI.-Stil, holzgeschnitzt und vergoldet,mit Marmor=
+- platte und zugehorigem Spiegel.
+- 481 SOFABANK im Louis=XVI.=Stil, Eice, mit Rohrbezug und sehs freiliegenden Damastkissen und zwei Shlummerrollen.
+- 482 FUSSBANK im Louis=XVI=Stil, Eide, mit gleichem Bezug.
+- 483 VITRINE im Louis-XV.-Stil, einturig, Mahagoni, mit Goldbronzebeshlagen,
+- Auf zugehorigem Mahagoni=Konsoltisch.
+- 484 LOUlIS-XVI.KOMMODE, dreishubig,mit Rankenintarsien.Auf der Vorder= und den Seitenwanden je ein Medaillon mit klassischen Figuren. Italien Ende 18. Jhdt. Art des Maggiolino zu Venedig.&gt; Abbildung Tafel 5
+- 485 KRONLEUCHTER mit Prismenbehang, sehsarmig,siebenkerzig.
+- 486 EIN PAAR FENSTERGARNITUREN,je dreiteilig, fleishfarben gestreifter Seidenrips, mit zugehorigen Filetstores.
+- 487 GRAUER VELOURS-FUSSBODENBELAG,ca.70 qm.
+- 488 KRONLEUCHTER, Goldbronze, im Louis=XIV.-Stil, zehnflammig.
+- 489-507 SPEISEZIMMER-MOBILIAR im Sheratonstil, Mahagoni, 18teilig: runder Ausziehtish, Bufett, Anrichte, ovaler Fruhstuckstish,ein Paar Pfeiler= kommoden, vier Lehnsessel, aht Stuhle. Die Sitzmobel mit fleishfarbenem Pluschbezug. Abbildung Tafel 4
+- 508 TEEWAGEN, Mahagoni.
+- 509 BEISATZTISCH,Mahagoni,rund.
+- 510 ECKVITRINE, Mahagoni. Oberteil einturig, viershubig, Unterteil zweiturig. Das Oberteil english um 1800. Abbildung Tafel 5
+- 511 LOuISXV.MuSIKSTUHL,Buce, mit rosa Moiresitz. Norddeutsd Mitte
+- 18.Jhdt.
+- 512 DREI FENSTERGARNITUREN,je dreiteilig, feishfarben Moiré,mit zu
+- gehorigen Filetstores.
+- 513 WANDAPPLIKE im Barodkstil mit Prismenbehang, funfkerzig.
+- 514 DAMEN-SCHREIBTISCH im Louis-XVI-Stil,nierenformig,Rosenholz,mit
+- Marketerie, einshubig.
+- 515 TEEWAGEN, Mahagoni
+- 516 KOMMODE im Louis=XV.-Stil, zweiscubig, Rosenholz,mit reihen Gold bronzebeshlagen und Marmorplatte.Auf der Vorderwand hinesierende Intarsien.
+- 517-519 GARNITUR mit gestreiften grunen Damastbezugen,dreiteilig: Sofabank, zwei Klubsessel.
+- 520 VITRINENSCHRANK im Louis=XV.-Stil, Polisander, zweiturig,mit reicen
+- Goldbronzebeschlagen.
+- 521 EIN PAAR STuHLE im Louis=XVI-Stil, holzgeschnitzt und vergoldet, mit
+- grun geblumten Damastbezugen.
+- 522 KLEINE KOMMODE im Louis=XV.-Stil, zweishubig,Rosenholz,mit
+- reichen Goldbronzebeschlagen.
+- 523 ECKKOMMODE,NuBbaum, dreishubig. Suddeutsh 18. Jhdt.
+- 524 POSTAMENT,Blakwood.
+- 525 BEISATZTISCH, Mahagoni, mit runder Platte.
+- 526 KOMMODE,halbrund,einturig,mit Marmorplatte und Messinggalerie,Rosen holz, mit Marketerie und reihen Goldbronzebeschlagen.
+- 527 BETT,Elfenbeinschleiflack, im Louis-XVI.-Stil mit Rohrbezug.
+- 528 BEISATZTISCH im Louis=XVI-Stil, Mahagoni.
+- 529 KRONLEUCHTER im Empirestil, Bronze,zwolfarmig, dreizehnkerzig.
+- 530 EIN PAAR FENSTERGARNITUREN, je dreiteilig, roter groBblumiger Genueser Samt,mit zugehorigen Filetstores.
+- 531 VELOURS-FUSSBODENBELAG,tabakfarben,ca.21 qm.
+- 531a GITTER, Shmiedeeisen. Suddeutsh 18. Jhdt.
+- 532 SECHS TEILE KRETONNE-VORHANGE.
+- 533 ZWEI DIVERSE BELEUCHTUNGEN: eine Papier, eine mit Prismen= behang.
+- 534 DEUTSCHER TEPPICH. 355×250 cm.
+- 535 EINER DESGL.,kleiner. 257x170 cm.
+- 536 FREMDENZIMMER-MOBILIAR,weib gestrichen, siebenteilig:Kleider= shrank, Nahtshrank, eisernes Bett, Waschtish, kleiner Tish mit Spiegel, Frisiersessel.
+- 537-538 ZWEI KLUBSESSEL mit Kretonnebezug.
+- 539 RAUCHTISCH,rund,Eihe.
+- 540 NOTENTISCH,Mahagoni, und BEISATZTISCH,Mahagoni
+- 541 DIPLOMATEN-SCHREIBTISCH,EiMe.
+- 542 BUCHERREGAL,Eihe.
+- 543 STUHL, niedrig, im Renaissancestil, Eihe, mit gemustertem Plushbezug.
+- 544 DIRECTOIRE-LEHNSESSEL,NuBbaum. Beshadigt.&gt;
+- 545 KLAPPTISCH im Barodkstil, Eihe.
+- 546 BADEZIMMER-MOBILIAR, funfteilig.
+- 547 ZWEI SCHALS GEBLUMTER KRETONNE.
+- 548 FRISIERSESSEL,weib, mit geblumtem Kretonnebezug.
+- 549-560 SCHLAFZIMMER-MOBILIAR imLouis-XVI.-Stil,EIfenbeinschleiflak, zwolfteilig: Bet, zwei Nahtschranke, Shreibtish, zwei runde Tishe, Hocker, Stehspiegel, Sofabank, Stuhl, Washescrank, ein desgl., niedriger.
+- 561 COuCH mit Kretonnedecke.
+- 562 DECKENBELEUCHTUNG mit Prismenbehang, siebenflammig.
+- 563-564 EIN PAAR WANDAPPLIKEN, Goldbronze, im Louis=XVI.=Stil, je
+- zweiarmig, mit Wedgwood-Medaillon.
+- 565 ZWEI FENSTERGARNITUREN,je dreiteilig, violetter Rips, mit zuge=
+- horigen Scheibengardinen.
+- 566 VIER SCHALS, gleices Muster.
+- 567 VELOURS=FUSSBODENBELAG,beigefarben,ca. 32 qm.
+- 568-577 BOUDOIRMOBILIAR,EIfenbeinshleifladk,zehnteilig:Recamier,ovaler Tish, Fauteuil, zwei diverse Stuhle, Frisiertoilette, Stehspiegel, Kommode,
+- Buherregal, Washkommode mit AnshluB.
+- 578-579 EIN PAAR BEISATZTISCHE,Mahagoni.
+- 580 JAPANISCHER PARAVENT,vierteilig,mit schwarzem Stoffbezug.
+
+581 EINER DESGL. mit rotem Stoffbezug.
+
+582 BELEUCHTUNGSKORPER,vierarmig,funfkerzig,mit Prismenbehang.
+
+583 ELEKTRISCHER HEIZOFEN.
+
+584 EINER DESGL.
+
+585 PERSONENWAAGE.
+
+586 MADCHENZIMMER-MOBILIAR,vierteilig.
+
+- 587 FENSTERGARNITUR, zweiteilig, rosa Moire, mit zugehorigem Filetstore.
+- 588 FUSSBODENBELAG,rot gemustert,ca.14 qm.
+- 589 KLEIDERSCHRANK, einturig, weib.
+- 590 KUCHENMOBILIAR,vierzehnteilig:Kucenschrank,Anrichte, grober Tish, drei diverse kleinere Tishe,vier Stuhle, Besenschrank, Shemel, Trit, Anrichte.
+- 591 GROSSER EISSCHRANK.
+- 592 ELEKTRISCHES KOPFLICHTBAD.
+- 593 ZWEI DIVERSE SEKTKUHLER.
+- 594 GLASTABLETT mit Messingrand.
+- 595 SPIEGELSCHRANK, dreitirig, weiB gestrichen.
+- 596 SCHRANK mit Shiebeturen.
+- 597 KLEIDERSCHRANK, zweiturig, weib gestrichen.
+- 598 WICKELKOMMODE,weiB gestrichen.
+- 599-600 EIN PAAR BIEDERMEIERSTuHLE,weiB gestrichen.
+- 601 SINGER-NAHMASCHINE.
+- 602 KONVOLUT: Handtuhstander, Tish, Kommode, Shrankchen mit Stoff bezug.
+- 603 WASCHESCHRANK mit Sciebeturen.
+- 604 GESCHIRRSCHRANK,zweiturig.
+- 605 SPIELTISCH,NuBholz.
+- 606 BOUCLELAUFER,gestreift, ca.10 m.
+- 607 EIN DESGL., gestreiff, ca. 5 m.
+- 608 MADCHENZIMMERMOBILIAR,Weicholz,ahtteilig:Bet,Nahtshrank, Washkommode,Washtoilette, Wascekommode, Beleuctung und Fenster= garnitur aus braunem Samt.
+- 609 DREI BETTVORLEGER,Bouclé.
+- 610 DIENERZIMMER-MOBILAR, weiB gestrichen,achtteilig: Bet,Frisiertoilette, Nachtshrank, runder Tish, Stuhl, Kleidershrank, Waschkommode, kleiner Wascheschrank.
+- 611 ZWEI BETTVORLEGER.
+TAFELN 1-12

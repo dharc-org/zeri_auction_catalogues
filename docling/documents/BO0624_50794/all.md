@@ -1,0 +1,2216 @@
+## DESIGNATION
+
+## ANDRE VANNUCCHI
+
+DIT
+
+## ANDRE DEL SARTO
+
+1488-1530, Florence.
+
+## 1. Sainte Famille.
+
+Un des tableaux les plus remarquables de la collection par la vivacite des couleurs, l'expression des regards, la finesse du dessin et le naturel des poses.
+
+A droite, la Vierge assise, vetue d’un corsage rouge avec manches jaunes, jupe bleue, est assise, la tete penchee et regarde avec tendresse le Divin Enfant, debout, au centre du tableau, tourne vers sa Mere.
+
+A gauche Saint Jean-Baptiste, en habit marron avec parements de velours bleu, col de fourrure, cheveux longs epars est represente de profil, un genou en terre; il a les yeux fixes sur lEnfant-Jesus.
+
+de ciel bleu. Dans le lointain, une montagne borne l'horizon.
+
+Voir la reproduction en tete du volume.
+
+Toile -Haut. 85, Larg. 64.
+## DANIEL CRESPI
+
+1590-1630,Milan.
+
+## 2.Un Saint en extase.
+
+Vetu d'une aube garnie de dentelles que recouvre une pelerine, le Saint est assis, tenant un crucifix sur ses genoux. La tete inclinee, contemple avec extase la vue du Sauveur. La main gauche, posee sur le coeur, semble preter serment de foi et d'amour.
+
+## 3. Madone.
+
+Au premier plan,l'Enfant Jesus endormi, etendu sur une couverture, la tete posee sur le bras droit,rehaussee d'un coussin de velours.
+
+La Vierge Mere, a genoux, les mains piensement croisees sur la poitrine,la tete penchee, contemple et adore son Divin Enfant. Elle est vetu d'une robe rouge ornee de pierreries et recouverte d'un manteau bleu.
+
+Une balustrade et un coin de ciel bleu forment le fond du tableau.
+
+Bois Haut. 100 larg. 52.
+
+Toile Haut. 96 larg. 78.
+
+## GALEAZZO CAMPI
+
+1477-1536,Cremone.
+## VITTORIO CRIVELLI
+
+1489, Venise.
+
+## 4.Saint Francois.
+
+Sur fond or, Saint Francois est represente debout, les bras etendus avec stigmates aux mains et aux pieds.
+
+Vetu d'une robe de bure, on apercoit, par une dechirure une plaie a la poitrine.
+
+Peinture sur bois formant cadre.
+
+Haut. 122 larg. 53.
+
+## VITTORIO CRIVELLI
+
+1489, Venise.
+
+## 5. Saint Sebastien.
+
+(Pendant du precedent).
+
+Attache a un poteau, le corps perce de six fleches, les mains liees derriere le dos, la tete retombant sur l'epaule droite.
+
+Dans les yeux du saint martyr, une expression de pro- fonde douleur.
+
+Bois Haut. 122 larg. 53.
+## AMBROISE LORENZETTI
+
+XIVme siecle,Sienne.
+
+## 6.Madone.
+
+Sur fond or, entouree d’une nuee d’anges, la Vierge, vue de face, est assise tenant I' Enfant- Jesus.
+
+Elle porte une robe rose recouverte d'un manteau cou- stelle d'or dont les plis entourent le Divin Enfant.
+
+Un des meilleurs tableaux des temps primitifs.
+
+Bois Haut. 68 larg. 61.
+## PHILIPPE MEMMI
+
+1332,Sienne.
+
+## 7. Saint Paul et Saint Jean Baptiste.
+
+Sur fond or, Saint Jean, vu de profil, est debout, vetu d'une peau de mouton sur laquelle est drape un manteau rose de deux tons, borde dans le bas d'un galon or; les cheveux epars sont recouverts d'un fichu. ll tient dans la main droite, une bande avec l'inscription: " Voix du desert,; la main gauche indique l' inscription.
+
+Debout, a cote de lui, Saint Paul en tunique bleue ornee dans le bas d'un galon argent et recouverte d'une draperie. La tete est entouree d'une aureole. La main droite soutient une epee; un livre rouge est dans la main gauche.
+
+Bois Haut. 112 larg. 73.
+
+## PHILIPPE MEMMI
+
+1332, Sienne.
+
+## 8. Saint Pierre et Saint Francois d'Assise.
+
+Debout, portant une riche tunique rouge terminee par un galon or et recouverte d'un manteau bleu et jaune, Saint Pierre la tete nimbee d'une aureole, le visage encadre d'une barbe, tient une clef de la main droite et dans l'autre main un Evangile.
+
+Saint Francois d'Assise, debout a cote de Saint Pierre est vetu d'une robe de bure et ceint d'une corde. A la poitrine, aux mains et aux pieds des stigmates.
+
+Dans la main droite: un livre de prieres; dans la main gauche un baton surmonte d'une croix.
+
+Ces deux portraits se detachent nettement sur fond or.
+
+Bois Haut. 112 larg. 73.
+## ANGE ALLORI
+
+DIT
+
+## LE BRONZINO
+
+1502-1572,Florence.
+
+## 9.Portrait de femme.
+
+Vue de face, vetue d'un corsage noir, legerement échancre, decouvrant la naissance de la gorge, les cheveux soigneusement lisses en bandeaux et recouverts d'une gaze legere qui se perd dans l'écharpe enroule autour du cou.
+
+Sur bois. Haut. 56 larg. 39.
+
+## BERNARD STROZZI
+
+1581-1644,Genes.
+
+## 10. Sainte Cecile.
+
+Assise, les deux mains posees sur l'orgue place devant elle; vetue d'une robe rouge sous une echarpe bleu claire negligemment jetee sur l'épaule.
+
+Un manteau fonce enroule et drape gracieusement les contours de la taille.
+
+Toile Haut. 130 larg. 110.
+## ECOLE DE NUREMBERG
+
+XVllme siecle.
+
+## 1l.Portrait de Ueuve.
+
+Vue de face, a mi-corps, vetue d'un corsage en velours broche noir avec parements de broderies, collerette en toile plissee, les cheveux dissimules sous une coiffe bordee autour du visage d''une bande en toile. Une somptueuse chaine en or a laquelle est suspendue un medaillon, enroule le cou et la poitrine de la veuve; une autre chaine dissimule la fermeture du corsage. Les mains, aux doigts fuseles, sont croisees l'une sur l'autre et ornees de bagues avec pierreries. Dans le haut du tableau, a droite, l' inscription suivante :
+
+ETATIS SVE 75
+
+du cote oppose un blason et au-dessous: 1615.
+
+Bois Haut. 85 larg. 66.
+## FRANCOIS MAZZUOLI
+
+DIT
+
+## LE PARMESAN
+
+1503-1540,Parme.
+
+## 12. Madone.
+
+Peinture sur bois representant la Vierge tenant l' EnfantJésus.
+
+Une echarpe de soie blanche couvre la tete de la Vierge et retombe en plis legers sur l'épaule.
+
+L' Enfant-Jesus, represente debout, en grandeur naturelle, enlace de la main gauche, le cou de sa Mere; de la main droite, il arrache une fleche des mains de S.t Sebastien place a gauche du tableau, la tete levee, le regard ardent fixe sur Jesus.
+
+Remarquable peinture d'une large execution et d'un beau coloris.
+
+Bois Haut.75 larg.55.
+## D.THEOTOCOPULI
+
+DIT
+
+## EL GRECO
+
+1548-1625,Espagne.
+
+## 13. Le Couronnement de la Vierge.
+
+Representee debout, vetue d'une robe et d'un manteau dont les pans sont releves de cote par deux anges.
+
+Une draperie en soie blanche, retenue a la poitrine par un medaillon en or, couvre le haut de la tete et les epaules de la Vierge. La tete, inclinee vers la gauche est posee de trois quarts; le regard est modestement baisse pendant que deux anges, places dans le haut du tableau, deposent sur la tete de la Vierge une riche Couronne.
+
+Les bras etendus, en signe de protection, s'étendent audessus de quatre personnages, pieusement agenouilles a ses pieds. De ces quatre fideles deux hommes sont poses a gauche et deux femmes a droite.
+
+Toile Haut. 135 larg. 100.
+## CARLE VAN LOO
+
+1705-1765.
+
+## 14. L'Enfant Jesus.
+
+Dans une partie retiree du Jardin des Oliviers, pres d'un bouquet d'arbres,l'Enfant Jesus, portant une robe rose aux plis flottants, est a genoux sur le gazon. Les yeux leves au ciel implorent ardemment le Pere Celeste. Les bras etendus dans une pose pleine d'abandon, il semble d'avance faire le sacrifice de sa personne et de sa vie.
+
+A gauche du tableau, deux anges portes par un nuage et soutenus par trois cherubins; dans le fond, six autres tetes de cherubins émergent des nuages.
+
+Signe a droite au bas.
+
+Toile Haut. 110 larg. 195.
+## JEAN DE VALDES LEAL
+
+1630-1691,Espagne.
+
+## 15. Saint Francois.
+
+Nous represente Saint Francois dans le desert.
+
+Vetu d'une robe de bure dont le capuchon recouvre la tete nimbee d'une aureole, ceint d'une corde dans laquelle est passe un rosaire suspendu au cote droit; le baton de pelerin pose a terre et appuye contre l'epaule gauche, le saint ermite a les mains jointes dans l'attitude du plus grand recueillement, il est agenouille devant un bloc de pierre ou l'on voit une tete de mort et un livre ouvert. Le visage, tourne de face est encadre d'une barbe blanche. Les yeux bleus sont leves et invoquent le ciel. Des anges —— places dans le haut du tableau — lui apparaissent en vision. L'un d'eux, lui montre le mot "Charitas, dans une aureole.
+
+A gauche, un mouton anime la solitude du desert. Au premier plan, a droite, un panier est pose contre le bloc de pierre.
+
+Toile Haut. 150 larg. 78.
+## ANTOINE RAPHAEL MENGS
+
+1728-1779.
+
+## 16. Saint Francois de Sales.
+
+Vetu d'une aube recouverte d'une pelerine rouge. Une croix et une chaine ornent sa poitrine.
+
+Un livre ouvert est pose sur une table,la main gauche est appuyee sur les feuillets du livre; la main droite tient une plume.
+
+Toile Haut. 36 larg. 26.
+
+## JUSTE SUSTERMANS
+
+1597-1681,Anvers.
+
+## 17. Portait d'un cardinal de Medicis.
+
+Debout, revetu de la robe de cardinal bleue doublee de rouge et recouverte d'une riche aube en dentelles. La main gauche souleve et tient les plis du vetement; la main droite est posee sur le tricorne.
+
+Dans le fond, une lourde draperie bleue, relevee d'un cote, decouvre la coupole de l'eglise Saint Pierre a Rome.
+
+Toile Haut. 44 larg. 30.
+
+## JUSTE SUSTERMANS
+
+1597-1681,Anvers.
+
+18. Petit portrait d'un guerrier represente de trois quarts, debout, revetu de son armure; la main gauche est appuyee sur le casque pose sur une table recouverte d'un tapis rouge. De la main droite il tient un baton de marechal.
+
+Haut. 27 larg. 19.
+## JUSTE SUSTERMANN
+
+1597-1681,Anvers.
+
+## 19.Portrait de Marie de Medicis.
+
+Assise dans un fauteuil, elle porte une robe noire avec collerette blanche qui entoure le cou et descend en pointe jusqu'au bas de la taille. Une chaine de jais vient s'enrouler plusieurs fois autour du cou et apres avoir forme un noeud sur la poitrine, retombe en pans sur la collerette.
+
+Le front est orne de l'insigne des veuves.
+
+De la main droite elle prend une tulipe dans un vase de fleurs pose sur une table recouverte d'un tapis.
+
+Une fenetre ouverte e— a gauche dans le haut du tableau decouvre le phare du port de Genes.
+
+Toile Haut. 188 larg. 133.
+## MAiTRE FLAMAND
+
+XVllme siecle.
+
+## 20. Joyeux ebats.
+
+Dans une clairiere, six enfants se livrent a de charmants jeux. Un garconnet, vu de dos, a genoux se cache la tete couverte d'un bandeau; d'autres, aux mines éveillees, sautent et rient alentour. De grands arbres, au feuillage varie, places a droite et a gauche du tableau, encadrent les joueurs. L'un deux, essaie en vain de se dissimuler derriere un des arbres.
+
+Au premier plan, vers la droite, une petite piece d'eau met une note claire dans la sombre verdure du gazon.
+
+Un rameau de feuillages jonche le sol.
+
+Dans le fond, on apercoit, par une trouee: une prairie, deux ruisseaux; des collines bornent l' horizon. Bois Haut. 43 larg. 64.
+
+## JEAN HOREMANS
+
+1682-1759,Anvers.
+
+## 21. Jnterieur de Cabaret.
+
+Dans une vaste salle, éclairee a gauche par une fenetre ouverte, plusieurs villageois sont reunis et devisent entre eux.
+
+A droite,quatre joyeux comperes fument et jouent autour d'une table. Au centre du tableau, un jeune garcon, les bras leves, execute avec grace un pas de danse.
+
+Deux cages sont suspendues a droite contre le mur.
+
+Par la fenetre, une tete d'enfant se penche curieusement a l' inteToile Haut. 59 larg. 90.
+
+rieur de la salle.
+
+## JACQUES JORDAENS
+
+1593-1678,Anvers.
+
+## 22.Tete de vieillard.
+
+Chauve, penchee sur la poitrine;le visage encadre d'une barbe blanche, les yeux pensifs, plonges dans les profondeurs du passe.
+
+La main droite est appuyee sur le pommeau d'une epee.
+
+Toile Haut. 64 larg. 49.
+## GUILLAUME KALF
+
+1693,Amsterdam.
+
+## 23. Nature morte.
+
+Sur une table recouverte d'un tapis vert, un citron entame, enroule dans sa pelure; un couteau est place a cote.
+
+Au milieu de la table: une aiguiere en argent; a cote et renversee, une coupe finement ciselee; a droite, du pain sur un plateau. Dans le fond, une grappe de raisins noirs et une pomme.
+
+A gauche; un coin de tapis souleve decouvrant la table en bois blanc; une noisette et des coquilles.
+
+Bois Haut.29 larg. 38.
+
+## CONSTANTIN NETSCHER
+
+1670-1722,La Haye.
+
+## 24. Portrait de femme.
+
+Une jeune femme blonde, decolletee, est mollement assise sur un coussin de velours rouge pose sur un banc de pierre. Le bras gauche est appuye sur une colonne; la main droite, qui tient quelques fleurs, glisse sur le genou.
+
+Elle est coquettement vetue d'une robe de velours marron, dont la traine occupe dans le bas, la partie gauche du tableau.
+
+Une écharpe en soie bleue enroule la colonne, couvre en partie le bras gauche et retombe en plis legers, jusqu'aux pieds de la jeune femme. De riches dentelles recouvrent les bras jusqu'au coude. Un collier de perles orne le cou.
+
+Dans le fond, un coin de ciel bleu.
+
+Toile Haut. 72 larg. 60.
+## GEORGE MORLAND
+
+1764-1804,Angleterre.
+
+## 25. Le Courrier.
+
+Un cheval blanc, tachete de marron est attele a une voiture recouverte d'une bache.
+
+Criniere au vent, lance au galop a travers champs, il casquette, vetu dune blouse bleue, portant une sacoche et un semble bruler l'espace, excite par la course et plus encore par le fouet du jeune garcon qui le conduit. Celui-ci, coiffe d'une poignard en bandouliere, est debout, penche hors de la voiture. De la main gauche, il tient les guides et s'appuie au bord de la bache; la main droite brandit le redoutable fouet. La campagne est doree par les reflets du soleil.
+
+Superbe tableau d'un ton chaud et lumineux.
+
+Toile Haut. 86 larg. 61.
+## ECOLE ANGLAISE
+
+XVIllme siecle.
+
+## 26. Portrait d'homme.
+
+Vu a mi-corps, de face, la tete tournee de trois quarts vers la gauche. Somptueusement vetu d'un habit noir sur lequel
+
+Les cheveux noirs retombent en boucles sur les epaules.
+
+ressortent un jabot et des mauches de dentelle.
+
+Toile Haut. 84 larg. 67.
+
+## GEORGES ROMNEY
+
+## 27. Bulles de Savon.
+
+Joli petit tableau representant une jeune femme decol-
+
+Vetue d'une jupe rouge et d'un corsage bleu, le cou et les bras ornes de bijoux.
+
+letee, s'amusant a faire des bulles de savon.
+
+Les bras gauche est accoude sur une table ou l'on voit une assiette et un chalumeau; la main droite est gracieusement
+
+Signe sur le rebord de la table.
+
+relevee,a la poursuite d'une bulle qui voltige dans lair.
+
+Toile Haut. 24 larg. 21.
+
+## JEAN HOPPNER
+
+1579-1810,Londres.
+
+## 28. Portrait de jeune femme.
+
+Peinte en medaillon, decolletee, vue de face, le corsage
+
+Les cheveux vaporeux, d’un blond ardent, sont releves garni d'une fine dentelle.
+
+en bouffant au sommet de la tete; de chaque cote deux boucles retombent gracieusement sur les epaules.
+
+souriante ajoutent au charme de ce gracieux tableau.
+
+De grands yeux bruns, pleins de malice, une bouche
+
+Toile Haut. 60 larg. 47.
+
+1734-1802,Dalton.
+## MAiTRE FRANCAIS
+
+XIXme siecle.
+
+## 29. Portrait de Pauline Borghese.
+
+Somptueusement paree d'une robe Empire en soie blanche, laissant a découvert le haut de la poitrine.
+
+Une fine dentelle borde l'échancrure du vetement;un manteau a franges est jete negligemment sur les épaules.
+
+Les cheveux bruns sont releves sur le somment de la tete; d'épaisses meches s'en échappent et retombent en boucles regulieres sur les joues.
+
+Toile Haut. 69 larg. 55.
+
+Le visage, finement dessine, reflete la grace et la noblesse des patriciennes de l'époque.
+
+## CHARLES-JOSEPH NATOIRE
+
+1700-1777,France.
+
+## 30. Portrait d’un jeune guerrier.
+
+Represente debout, a mi-corps, grandeur naturelle; il porte une cuirasse finement ciselee. La main droite ornee d'une ruche en dentelle, est appuyee sur la hanche; la main gauche est posee sur un casque surmonte d'un plumet, qui se trouve sur une table recouverte d'un tapis rouge.
+
+Toile Haut. 98 larg.74.
+
+## SALOMON ADLER
+
+XVllIme siecle, Milan.
+
+## 31. Portrait d'un compositeur.
+
+Vu de profil, la tete tournee de trois quarts, drape dans un manteau jaune, une cravate bleue autour du col de la chemise deboutonnee. Une opulente chevelure noire retombe en boucles sur ses épaules.
+
+Toile Haut. 75 larg. 59.
+
+Devant lui:un rouleau de musique.
+## MICHEL-ANGE AMERIGHI
+
+DIT LE
+
+## CARAVAGE
+
+1569-1609, Caravaggio.
+
+## 32. Sainte Agnes.
+
+Representee debout, decolletee, vetue d'une tunique mauve; le visage fin et regulier est penche sur l'agneau qu'elle tient dans ses bras. Toile Haut.102 larg.74.
+
+## FRANCOIS ZURBARAN
+
+1598-1662,Espagne.
+
+## 33. Portrait de Sainte Marine.
+
+Representee debout, vetue d'une robe rouge avec col en dentelle. Sur les cheveux épars un chapeau de paille. Une sacoche double est glissee dans le bras gauche qui soutient une palme et un baton de pelerin. Les doigts sont passes dans les feuillets d'un livre qu'elle tient en main.
+
+Toile Haut. 124 larg. 101.
+
+## ECOLE ITALIENNE
+
+XVllme siecle.
+
+## 34. Architecture.
+
+Dans la cour d'un somptueux palais que soutiennent plusieurs colonnes de marbre, des personnages historiques: guerriers, chevaliers de Malte etc. Toile Haut. 152 larg. 205.
+
+## ECOLE VENITIENNE
+
+XVlllme siecle.
+
+## 35. Portrait de dame.
+
+Representee de face, assise,en robe bleue recouverte d'un manteau rouge borde d'hermine,une fleur dans les cheveux soigneusement releves en bouffant au sommet de la tete. Le bras droit est accoude sur une table ou se trouve un eventail. Une fleur rouge est piquee au cote gauche de la robe. Toile Haut. 82 larg. 66.
+## PIERRE LONGHI
+
+1702,Venise.
+
+## 36. Portrait d'une grande Dame.
+
+Decolletee, elle est habillee d'un somptueux vetement de soie rouge brode; les manches et l'encolure sont garnies d'une fine dentelle blanche; de riches pendeloques ornent les oreilles. De la main gauche elle tient une rose.
+
+Tableau d'un coloris vif avec de jolis tons de lumiere.
+
+Toile (ovale) Haut. 93 larg. 74.
+## JEAN-BAPTISTE PIAZZETTA
+
+1683-1754,Venise.
+
+## 37.Portrait d'un saint en prieres.
+
+Vu a mi-corps, vetu d'une aube avec galon de broderie au col et aux manches. La tete relevee, couverte d'une calotte est tournee de trois quarts vers la droite; les mains jointes sont tendues en un geste de sup- plication.
+
+me l'ornement du tableau.
+
+Une croix dont l'extremite est appuyee sur l'epaule du saint, forToile Haut.77 larg.59.
+
+## JEAN-BAPTISTE PIAZZETTA
+
+1683-1754,Venise.
+
+## 38. Sainte Therese.
+
+Representee de face,a mi-corps, les cheveux noirs épars couverts d'une gaze blanche; les mains croisees sur la poitrine tiennent une fleur qui retombe sur le bras droit. Toile Haut. 59 larg. 45.
+
+## SEBASTIEN RICCI
+
+1662-1734, Venise.
+
+## 39. Apollon: Allegorie du Jour.
+
+Apollon est represente assis, le corps a peine couvert d'une draperie aux reflets chatoyants, la main gauche posee sur la cithare.
+
+Des arbres, a droite et dans le fond: ciel couvert de legers nuages. Toile Haut. 62 larg.51.
+
+Dans le bas du tableau a droite:un amour portant une gerbe de ble;a terre: un melon et des pommes.
+
+## SEBASTIEN RICCI
+
+1662-1734, Venise.
+
+## 40. Diane:Allegorie de la Nuit.
+
+Assise, vue de face, elle porte une robe a rayures enveloppee dans
+
+La tete est surmontee d'un croissant.
+
+le bas d'une draperie bleue.
+
+De la main droite, elle tient un arc;la main gauche semble caresser une chouette posee sur une table, a cote d'elle.
+
+A ses pieds: un amour tenant une chauve souris par les ailes. Toile Haut. 62 larg. 51.
+## LUC GIORDANO
+
+1632-1705, Naples.
+
+## 41. Ganymede.
+
+Un chien blanc tachete de jaune et deux chiens noirs tachetes de blanc suivent du regard en aboyant le corps de Ganymede a cheval sur un aigle qui l'emporte dans l'espace.
+
+A droite, un rocher; paysage accidente dans le fond.
+
+Toile Haut.212 larg.158.
+
+## VINCENT MALO
+
+1610-1655,Cambrai.
+
+## 42. Un amour.
+
+Un petit enfant nu est etendu sur une draperie rouge, et appuye sur la main gauche. De la main droite,il tient une coupe levee.
+
+Toile Haut. 63 larg.87.
+
+Paysage boise dans le fond.
+## MEINDERT HOBBEMA
+
+1638-1709,Amsterdam.
+
+## 43. La Sieste.
+
+Il est midi: c'est l'heure de la sieste. Assis sur un tertre, au bord de la route, a l'ombre de grands arbres deux villageois, vus de dos, devisent gaiment apres avoir pris le frugal repas que leur a apporte une jeune femme placee devant eux. Debout, celle-ci s'apprete a rentrer au village que l'on apercoit au loin dans le fond du tableau, mais amusee par leurs joyeux propos, elle s'attarde sans prendre garde aux nuages qui couvrent le ciel.
+
+On voit, sur le chemin, l'empreinte de profonds sillons laissee par une charrette de foin disparue au tournant de la route.
+
+Bois Haut. 40 larg. 50.
+## JEAN VAN RAVESTEIN
+
+1580-1657,Lo Haye.
+
+## 44. Portrait d'homme.
+
+Vu a mi-corps, de face. Une fraise tuyautee se detache sur le vetement sombre. Barbiche et cheveux blonds.
+
+De la main droite, il tient un livre entr'ouvert.
+
+Toile Haut. 85 larg. 75.
+
+## CHARLES DOLCI
+
+1616-1686,Florence.
+
+## 45. L'Assomption de la Uierge.
+
+Plusieurs fideles agenouilles dans le bas du tableau, contemplent
+
+Dans le haut du tableau,a droite: le Pere Eternel; a gauche, Jesus-Christ, couronnant la Vierge Mere. Au centre,a droite: l'ange Gabriel;a gauche: S.t Joseph, soutenus également par deux nuages.
+
+Toile Haut. 61 larg. 48.
+
+## CHRISTOPHE ALLORI
+
+DIT
+
+## LE BRONZINO
+
+1577-1621, Florence.
+
+## 46. Paysage.
+
+A droite: de grands arbres touffus,un faune, deux femmes dont
+
+Un amour mort traverse les airs et laisse choir,en tombant, un
+
+Cuivre Haut. 40 larg.53.
+
+l'une, étendue a terre et deux chiens.
+
+carquois et des fleches eparpilles dans l'espace.
+
+## CHRISTOPHE ALLORI
+
+DIT
+
+## LE BRONZINO
+
+1577-1621, Florence.
+
+## 47.Paysage.
+
+(Pendant du precedent).
+
+A droite: des ruines et de grands arbres se detachent sur le ciel. Au centre: trois hommes et deux femmes,dont l'une tient un amour par la main; plus loin, vers la gauche: un vieillard endormi sous les saules;
+
+Vers le fond, un rocher emerge d'un bouquet d'arbres.
+
+debout, a cote de lui, une jeune femme le regarde.
+
+Cuivre Haut. 40 larg.53.
+## DANIEL CRESPI
+
+1590-1630,Milan.
+
+## 48. La Sainte Famille.
+
+Au centre, la Vierge assise, vetue de rouge. Sur ses genoux, 1'Enfant-Jesus, debout, tenant une croix dans la main gauche. A droite du tableau, Saint Joseph, les mains croisees sur un baton, contemple I' Enfant-Jesus.
+
+Toile Haut. 38 larg. 32.
+
+## ECOLE DE SIENNE
+
+XVme siecle
+
+## 49. Huit figures de saints.
+
+Interessante peinture sur fond or, composee de quatre tablettes reliees dans un cadre.
+
+Bois. Chaque tablette Haut. 127 larg. 18.
+
+## ECOLE DE FERRARE
+
+XVme siecle
+
+## 50. Jesus mis au tombeau.
+
+Trois disciples et deux saintes femmes entourent et soutiennent le corps de Jesus entoure d'un linceul.
+
+Bois Haut. 106 larg.128.
+## BENOZZO GOZZOLI
+
+1424,Florence.
+
+## 51. Le mariage mystique de Sainte Catherine.
+
+Au centre, la Vierge, habillee de bleu, est assise sur un tron et tient sur ses genoux I' Enfant-Jesus.
+
+A gauche, Sainte Catherine, drapee dans un manteau rouge, la tete de profil, pose la main droite sur une roue; l EnfantJesus tourne verc elle se dispose a lui mettre l'anneau.
+
+A droite du tableau, Saint Jerome pieusement agenouille, laquelle il se frappe la poitrine; un chapelet est dans l'autre suit avec ferveur la scene; la main troite tient une pierre avec main. A cote de lui un chapeau rouge.
+
+Bois Haut. 78 larg. 51.
+## PIERRE BUONACCORSI
+
+DIT
+
+## PERINO DEL VAGA
+
+## 52.Madone.
+
+1500-1547,Florence.
+
+Sur un fond de draperie verte, la Sainte Vierge tenant I'Enfant-Jesus qui est tourne a gauche vers Saint Dominique et fait le geste de le benir.
+
+Bois Haut. 67 larg. 57.
+
+A droite, Sainte Therese.
+
+## ECOLE LOMBARDE
+
+XVIme siecle.
+
+## 53. L'Enfant Jesus et Saint Jean.
+
+Charmant groupe forme par le petit Jesus vu de dos, la tete tournee de face, assis sur une draperie tenant un mouton; a cote de lui, son ami de predilection (Saint Jean) tourne de face, tenant une croix. Entre les deux enfants: la tete de l'agneau.
+
+Bois Haut. 53 larg. 40.
+
+## HIPPOLYTE SCARSELLA
+
+DIT
+
+## SCARSELLINO
+
+1551-1621,Venise.
+
+## 54. Miracle de Saint Francois
+
+Au premier plan, vetu d'une blouse rose, la tete penchee sur l'epaule droite, un jeune homme malade, soutenu par un vieillard qu'entoure une foule anxieuse.
+
+Saint Francois, la tete entouree d'un cercle lumineux est debout au centre du tableau. Les mains levees sur le malade, les yeux fixes au ciel, il demande avec ferveur la guerison.
+
+Toile Haut. 70 larg. 93.
+## ANDRE MEDULA
+
+DIT
+
+## LE SCHIAVONE
+
+1522-1582.
+
+## 55. L'Enlevement de Proserpine.
+
+Dans un site sauvage, un torrent entre d'enormes rochers. A droite Proserpine emportee par un Centaure; Pluton surgit tendue dans la direction des fugitifs.
+
+Toile Haut.74 larg. 109.
+
+## ECOLE VENITIENNE
+
+XVIme siecle.
+
+## 56.Portrait d'un magistrat.
+
+Vu a mi-corps, le visage encadre d’une barbe noire, vetu d'un costume rouge que recouvre une pelerine d'hermine. Toile Haut. 61 larg. 48.
+
+## BONIFAZIO VENITIEN
+
+1500-1562,Venize.
+
+## 57. La Sainte Cene.
+
+Au centre du tableau; une table recouverte d'une nappe blanche au haut de quelques marches. Saint Pierre, a genoux, recoit la Sainte Communion des mains du Sauveur. A droite et a gauche; des apotres et des disciples. Sous la table un en fant lave les pieds du Christ. Une foule nombreuse a l'entree d'un temple place dans le haut du tableau vers la droite. Plus loin au centre: un attelage de boeufs tirant la charrue; des chevaux et des cavaliers.
+
+Collines boisees dans le fond.
+
+Toile Haut. 95 larg. 64.
+## ANGE ALLORI
+
+DIT
+
+## LE BRONZINO
+
+1502-1572,Florence.
+
+## 58.Jeune Guerrier.
+
+Portrait d’un adolescent, vu de trois quarts.
+
+Un pourpoint en velours noir recouvre une armure grisaille avec collier d'acier; une ruche blanche tuyautee orne le blancs et rouges. Sur l'un deux, se voit le blason de Venise avec le lion de Saint Marc.
+
+L'expression du visage est empreinte d'energie.
+
+Bois Haut. 62 larg. 48.
+## HENRI VAN BALEN
+
+1632,Anvers.
+
+## 59.Madone.
+
+Dans un oratoire, assise contre une porte surmontee d'une fenetre a croisillons, la Vierge Mere, en robe bleue drapee d'un manteau rouge, la tete nimbee d'une aureole, tenant en main le sein qui allaite son Divin Enfant place sur ses genoux, recouverts de langes. Un globe surmonte d'une croix est dans les mains de l'Enfant Jesus, qui a les bras tendus vers Saint Dominique, agenouille devant lui. A terre: un livre ouvert et a gauche du tableau, une table couverte d'un tapis a franges. Cuivre Haut. 30 larg.24.
+
+## GONZALVE COQUES
+
+1614-1684,Anvers.
+
+## 60.Portrait.
+
+Sur une terrasse,un prelat en habit avec collet bleu, est debout a cote d'une chaise recouverte d'un velours rouge. Une draperie soulevee, de la meme couleur, decouvre dans le fond un vaste paysage avec chateau
+
+Toile Haut. 56 larg. 43.
+
+au bord d'un lac sur lequel glisse une barque.
+
+## GERBRAND VAN DEN EECKHOUT
+
+1621-1674,Amsterdam.
+
+## 61. Mercure et Argus.
+
+A cote d'un arbre, un petit chien couche aux pieds d'un patre. Plus loin, Mercure, assis sur un banc de pierre le chapeau et les pieds garnis d'ailes; a terre, devant lui, le caducee. Le jeune dieu tire de sa flite enchantee, des sons qui endorment le vieillard Argus. Une vache couronnees blanche est debout au centre du tableau; une autre vache noire, des chevres et des brebis se reposent a l'abri d'un rocher.
+
+Une chaine de montagnes couronnees de legers nuages forme le fond du tableau. Toile Haut. 88 larg.110.
+## 62.Marine.
+
+Quelques barques de pecheurs, dont une, toutes voiles
+
+Tableau d'un coloris cuivre.
+
+dehors, glissent sur la mer calme.
+
+## JEAN VAN GOYEN
+
+1596-1666,Leyde.
+
+Bois Haut.40 larg. 50.
+
+## BERNARD VAN SCHENDEL
+
+1649,Weesp.
+
+## 63. Scene d'interieur.
+
+Debout, au milieu d'une grande salle, la maitresse de maison apres avoir fait les honneurs a ses invites, ecoute avec complaisance les propos aimables d'un homme place a cote d'elle. Assise a une table, une parente prepare le the. A sa droite,un gentilhomme portant perruque,et plusieurs garcons admirent les tours d'adresse d'un petit chien blanc. La grand' mere tourne le dos a l'atre de la cheminee placee sur la gauche; plus loin, un groupe de jeunes filles autour d'une table.
+
+Dans le fond un jeune homme declame un morceau heroique.
+
+A droite une fenetre et la porte de sortie.
+
+Toile Haut. 57 larg. 68.
+
+## ADAM ELSHEIMER
+
+1574-1620,Francfort.
+
+## 64. La Fuite en Egypte.
+
+Cheminant a travers d'epais bocages, Saint Joseph, muni d'un flambeau, conduit de la main droite un ane sur lequel est assis la Sainte Vierge tenant l'Enfant-Jesus. Entre une decoupure d'arbres a gauche, la lune essaie en vain de se faire jour a travers l'epaisseur du bois.
+
+Bois Haut. 32 larg. 42.
+## FRANCOIS SNYDERS
+
+1579-1657,Anvers.
+
+## 65.Quatre leuriers.
+
+Au centre,au premier plan, deux levriers anglais, dont un blanc et l'autre noir avec les pattes claires,sont attaches par une courroie retenue au collier; dans le fond,au deuxieme plan, deux autres chiens egalement attaches; l'un deux est appuye par les pattes de devant sur un bloc de pierre; la tete est dressee en l'air.
+
+Tableau remarquable par la finesse de l'execution.
+
+Toile Haut 123 larg. 95.
+## ECOLE FRANCAISE
+
+XVIllme siecle.
+
+## 66.Portrait de dame francaise.
+
+Vue a mi-corps, tournee de trois quarts vers la droite. Dans les
+
+Elle est decolletee, en robe bleue, chargee de bijoux qui rehaussent encore la somptuosite du vetement. Toile Haut. 75 larg.63.
+
+cheveux, une pointe en dentelle terminee par une pendeloque en pierreries.
+
+## ECOLE FRANCAISE
+
+XVlllme siecle.
+
+## 67. Allegorie de la Science.
+
+Portrait de jeune femme assise, presque de profil s'appuyant mol- lement sur la main gauche.
+
+Vetue d'un elegant manteau de velours rouge laissant a decouvert les epaules et la poitrine, les cheveux bruns releves en une legere torsade de laquelle s'échappe une boucle brune qui vient retomber sur l'épaule droite.La main droite tient une baguette a lextremite de laquelle est enroule un serpent,le coude repose sur une table ou l'on voit: un livre, une tete de mort et un parchemin.
+
+Une draperie sombre et un rameau de feuillages forment le fond du tableau. Toile Haut. 138 larg. 100.
+
+## ECOLE FRANCAISE
+
+## 68. L'Innocence.
+
+Portrait pendant du precedent.
+
+Jeune femme assise, tenant un bouquet de roses dans la main droite gracieusement relevee. La chemise, fine et transparente, decouvre le cote droit du buste; mollement retenue a la taille par un ruban et noeud bleus, elle se dissimule plus bas dans la draperie. Sur les genoux de la jeune femme, un amour joufflu tient une conque.
+
+Un amour est place au premier plan du tableau a gauche; plus haut; deux colombes se becquetant, et un carquois contenant des fleches. Ce portrait se detache sur un fond de draperies mauve, jaune et blanche. Toile Haut. 138 larg.100.
+
+XVIllme siecle.
+## 71. Paysage.
+
+Foret avec cascade; a gauche: un groupe de bergers bergeres et un chien. Au centre: une vache et deux brebis sous la garde d'un patre.
+
+C.S. Varenne.
+
+A droite sur un rocher,la signature.
+
+## GASPARD DUGHET
+
+DIT
+
+## POUSSIN
+
+1613-1675.
+
+## 69. Paysage d'automne.
+
+Une femme a cheval descend de la colline sur une route bordee d'arbres touffus; un homme, a peine vetu d'une blouse, court apres elle et semble vouloir i'arreter. Vers le centre, une autre femme, appuyee sur un baton et suivie d'un enfant et d'un petit chien, gravit la colline et se dirige vers la ville que l'on apercoit dans le fond du tableau sur une hauteur. Une tourelle se dresse a gauche sur un monticule plante d'arbres.
+
+Un ruisseau serpente dans la prairie et se perd dans le lointain.
+
+Le soleii eclaire ce riant paysage.
+
+Toile Haut. 157 larg. 111.
+
+## MAiTRE FRANCAIS
+
+## 70.Portrait.
+
+Gracieux visage d'adolescente encadre d'une volumineuse chevelure aux reflets cuivres. D'epaisses boucles couvrent les epaules. Une bande de guipure bianche garnit le haut du vetement.
+
+Toile Haut.55 larg. 44.
+
+## CHARLES SANTOIRE DE VARENNE
+
+1763,Paris.
+
+XVlllme siecle.
+## JEAN-HONORE FRAGONARD
+
+1732-1806,France.
+
+## 72. Le nid d'oiseaux.
+
+Sur un fond de paysage ombre par le crepuscule: cinq personnages et un chien. A droite, un jeune garcon,vetu de rouge,tient dans ses mains un nid d'oiseax.A gauche,une jeune fille tournee vers le nid, la main gauche gracieusement relevee donne la becquee aux petits affames; de la main droite, elle effleure legerement l'epaule d'un petit garcon qui se trouve a gauche au premier plan. Celuici, tourne de profil, suit avec vif interet les luttes et les debats des captifs ailes et dans un mou- vement de convoitise, tend avidement la main.
+
+Sur le meme plan,a droite, un levrier suit avec non moins d' interet cette gentille scene.
+
+Au fond se detache une allegorie de l' amour. Un ruban d'argent serpente dans la prairie et se perd au loin dans un ruisseau.
+
+Quelques nuages sillonnent le ciel.
+
+Toile Haut. 72 larg 91.
+## ECOLE VENITIENNE
+
+XVIlIme siecle.
+
+## 73. Rosalinde.
+
+Sur un fond de draperie doree, se detache la petite siIhouette d'une petite fille vetue en dame de 1' epoque 17oo. De la main gauche, elle retire quelques oeillets d'un vase de fleurs place a cote d'elle. Tenant un pli de sa robe de la main droite, elle semble esquisser une reverence.
+
+Haut.59 larg.102.
+
+## PIERRE LONGHI
+
+1702, Venise.
+
+## 74.Portrait d'un artiste.
+
+Assis dans un fauteuil rouge, vetu d'une robe de chambre verte avec revers roses au col et aux manches; le col de la chemise est deboutonne. Sur la tete une toque entouree d'une broderie qui se termine de cote par un gland.
+
+La main gauche retient le croisement de la robe.
+
+Cet portrait exprime d’une maniere frappante la mollesse
+
+Toile Haut. 67 larg. 47.
+
+## ALEXANDRE LONGHI
+
+1733,Venise.
+
+## 75. Portrait d'enfant.
+
+Tete d'enfant, rose et joufflue. De beaux yeux bleus augmentent le charme de ce gentil minois.
+
+Toile Haut. 31 larg.23.
+## ALEXANDRE LONGHI
+
+1733,Venise.
+
+## 76. Portrait d'un magistrat venitien.
+
+Represente a mi jambes, grandeur naturelle, de trois quarts tourne vers la gauche, debout, la main droite montrant un parchemin timbre pose sur une table, tenant ses gants de la main gauche; il est vetu d''une robe en velours noir, de belles dentelles ornent le bas des manches; coiffe d' une perruque blanche, boucles descendant sur les épaules.
+
+Un riche tapis orne le bas du tableau qui se detache sur un fond de draperie rouge,
+
+Tres beau portrait ayant un grand caractere de distinction.
+
+Toile Haut.235 larg.158.
+
+## ALEXANDRE MAGNASCO
+
+DIT
+
+## LISSANDRINO
+
+## 77.Marine.
+
+La mer est agitee et houleuse; une barque toutes voiles dehors, s'avance vers la droite,une autre est amarree sur la plage. Quelques pecheurs, pieds nus, cherchent les epaves de la mer.
+
+Dans le lointain,un rayon de soleil obscurci par des nuages.
+
+Toile Haut. 13 larg. 38.
+## 78. Uue de Uenise.
+
+Sur le quai du grand Canal, l'eglise Saint Georges qui dresse orgueilleusement sa tour et quelques maisons. Plusieurs gondoles glissent sur les eaux vertes du canal.
+
+A gauche, se devine un bateau a voiles dont on n'entrevoit que les cordages.
+
+Sur l'eau, jeux de lumiere reproduits avec vigueur et grande finesse d'execution.
+
+## (CANALETTO)
+
+## BERNARD BELLOTTO
+
+1720-1780,Venise.
+
+Toile Haut.35 larg.53.
+## ECOLE VENITIENNE
+
+## 79. Vue de Uenise.
+
+Plusieurs personnes affairees animent la “Zattere , a gauche du tableau.
+
+Une gondole longe le quai; le gondolier échange, tout en ramant, quelques paroles aimables avec deux personnes placees sur le trottoir.
+
+Au premier plan: trois jeunes femmes dans une gondole;le rameur se prepare a contourner adroitement un bateau a voiles charge de bois.
+
+A droite la place Saint Georges, l'eglise et la "Giudecca ， Beau ciel bleu sur lequel flotte un leger nuage blanc.
+
+Toile Haut. 32 larg. 45.
+
+## JOSEPH ZAIS
+
+1784, Venise.
+
+## 80.Paysage.
+
+Sur une route bordee d'arbres touffus au pied de hautes montagnes;
+
+un groupe de personnes.
+
+Ca et la des édifices sur les hauteurs.
+
+Plus loin, un lac aux eaux calmes et tranquilles, baigne le pied d'une montagne.
+
+Le soleil perce les nuages et met une teinte doree sur ce ravissant Toile Haut. 50 larg. 78.
+
+## JOSEPH ZAiS
+
+1784, Venise.
+
+panorama.
+
+## 81. Paysage.
+
+Encaisse entre d'enormes rochers; un torrent. Quelques bouquets d'arbres au vert feuillage se refletent dans ses eaux. Au loin, une petite ville batie sur une colline.
+
+Plusieurs promeneurs animent cette charmante composition.
+
+Toile Haut. 50 larg. 78.
+
+XVlllme siecle.
+## JEAN-BAPTISTE PITTONI
+
+1686-1766,Venise.
+
+## 82.Jesus a Emmaix.
+
+Apres sa resurrection, Jesus etant apparu a deux de ses disciples,les accompagna et accepta leur hospitalite. Sur une nappe blanche, sont poses: un plat de poissons, un linge et un couteau. Jesus, levant les yeux au Ciel, prit les pains et les benit.
+
+A droite du tableau,au premier plan: un chien;a cote un serviteur tenant une carafe d'eau.
+
+Par une etroite trouee, on apercoit un coin du bourg.
+
+Toile Haut. 22 larg. 40.
+
+## JEAN-BAPTISTE PITTONI
+
+1686-1766,Venise.
+
+## 83. Jesus et les Uierges folles.
+
+Debout, au haut de trois marches, sur le seuil d'un temple avec colonnes en marbre, Jesus, en tunique rose recouverte d'un manteau bleu,le bras droit leve en un geste eloquent, essaie de ramener sur le bon chemin cinq vierges folles a l'at- titude humble et repentante.
+
+Toile Haut. 60 larg. 81.
+
+## SEBASTIEN RICCI
+
+1662-1734,Venise.
+
+## 84. Le roi Salomon.
+
+Sur un socle de marbre orne de haut-reliefs se dresse une idole. Salomon, portant un manteau royal recouvert d'hermine avec chaine en or, agrafe en pierreries, est en adoration devant la fausse divinite. Deux femmes, dont l'une a genoux, vue de dos, tenant la main du roi,l'autre debout, semblent I'exhorter aux sacrifices. Derriere le socle,trois autres femmes.
+
+Toile Haut. 69 larg. 82.
+
+A gauche du tableau, plusieurs femmes portant des fleurs. Dans le haut une draperie soulevee.
+## JEAN-BAPTISTE TIEPOLO
+
+1692-1770,Venise.
+
+## 85. Groupe de Saints aux pieds de la Madone.
+
+Au centre vers la gauche, la Sainte Vierge assise sur un nuage. De la main droite, elle enlace le corps de jesus, debout a cote d'elle.
+
+A droite de la Vierge, Sainte Catherine courbee en ado- ration devant l'Enfant Jesus.
+
+Au premier plan, une terrasse avec balustrade en marbre. Trois personnes, dont une a genoux et deux debout, sont placees derriere. Un patriarche a barbe blanche, drape dans un ample manteau, écrit sur un pupitre en marbre. La main gauche montre le ciel.
+
+Un enfant de choeur, tenant un livre de prieres, est a genoux devant lui.
+
+Derriere le patriarche, Saint Charles Borromee les yeux leves vers la Sainte Vierge.
+
+Sur une colonne, un ange tenant les plis d’ une draperie.
+
+Toile Haut. 54 larg.31.
+## ECOLE HOLLANDAISE
+
+XVllme siecle.
+
+86.Paysage.
+
+A travers un amoncellement de rochers, une cascade, plus loin une nappe d'eau. Une luxuriante vegetation forme le fond du tableau. Toile Haut. 43 larg. 61
+
+## JEAN-BAPTISTE SALVI
+
+DIT
+
+## LE SASSOFERRATO
+
+1605-1685,Sassoferrato.
+
+## 87. Une Uierge Sainte.
+
+Representee de face, a mi-corps, elle porte un corsage blanc sur lequel est drape un manteau bleu.
+
+Les cheveux noirs, epars sont couverts d'une fine gaze blanche. Les mains croisees sur la poitrine tiennent une fleur qui retombe mollement sur le bras droit. Toile Haut. 77 larg. 59.
+
+## BAPTISTE ZELOTTI
+
+1532-1592,Verone.
+
+## 88. Sainte Justine.
+
+Une terrasse avec balustrade decouvrant un paysage éclaire par le soleil couchant.
+
+Sainte Justine, a genoux la poitrine percee d'un poignard;elle expire entre les bras de son bourreau. Les yeux leves au ciel, refletent la foi profonde de la sainte martyre. Toile Haut. 76 larg.60.
+
+Aux pieds de deux colonnes: deux hommes debout. Devant eux,
+
+## BAPTISTE ZELOTTI
+
+1532-1592,Verone.
+
+## 89.Portrait de femme.
+
+Sur un fond de draperie rouge, assise dans un fauteuil, richement vetue d'une robe en soie avec semis de fleurs multicolores,et manches en
+
+Les cheveux roux retombent en meches sur les epaules. Le bras droit est accoude sur une table recouverte d'un tapis rouge ou sont poses: un crucifix et une chaine sautoir en or. De la main gauche, elle touche une tete de mort placee sur ses genoux. Toile Haut. 113 larg.94.
+
+mousseline blanche.
+## JACQUES PALMA
+
+## LE VIEUX
+
+XVIme siecle, Venise.
+
+## 90.Trois Saints.
+
+Un pan de draperie rouge retenue a une colonne. Au haut de quelques marches: Saint Andre, le visage encadre d'une barbe blanche,les yeux leves au ciel,la tete nimbee d'une aureole, tenant de la main droite une grande croix qui se dé tache nettement sur un fond bleu; la main gauche est posee sur le coeur.
+
+A droite du tableau. adosse a la colonne, Saint Jean Baptiste, a peine couvert d'une draperie, tenant dans la main droite une croix a l'extremite de laquelle est enroule une bande blanche. Le regard est leve sur St. Andre.
+
+A droite du tableau; Saint Biagio, éveque, coiffe de la mitre tenant de la main gauche la crosse et une carde.
+
+Remarquable tableau par la vivacite des couleurs, la nettete du dessin et le fini de l'execution.
+
+Toile Haut.188 larg.110.
+## JACQUES PALMA
+
+LE JEUNE
+
+1544-1628,Venise.
+
+## 91.Saint Sebastien.
+
+Le saint martyr est attache a un arbre, les mains liees derriere le dos. Sa poitrine est percee d'une fleche;de la blesleur cadaverique du corps.
+
+Dans le fond, de riantes collines surmontees d'edifices bornent le paysage. Toile Haut. 156 larg. 108.
+
+## ANDRE MEDULA
+
+DIT
+
+## LE SCHIAVONE
+
+1522-1582,Venise.
+
+## 92. L'apparition de l'ange a Agar.
+
+Dans une vasis, au pied d'un arbre, Agaz, drapee dans un manteaux a fleurettes rouges, est a genoux devant un Ange. Celui-ci, debout, vetu de jaune avec grandes ailes blanches, porte a la malheureuse mere le message Divin.
+
+Dans le fond la source miraculeuse au pied de riantes collines. Toile Haut.116 larg. 140.
+
+## JEAN-ANTOINE LICINIO
+
+DIT
+
+## LE PORDENONE
+
+1483-1539,Pordenone.
+
+## 93.Portrait de dame.
+
+Representee de face,a mi-corps, en robe noire avec guimpe en tulle blanc autour du decollete. Une grande chaine en forme un noeud a la naissance de la gorge et retombe sur le corsage en se dissimulant sous la main gauche posee sur la taille. De la main droite elle caresse un petit chien.
+
+Toile Haut. 93 larg. 85.
+## 94.Jesus.
+
+A michemin d'une colline, entre des rochers et des arbres,se detache la fine silhouette de Jesus vetu d'une robe rose recouverte d’un manteau brun.
+
+Le pieds portent l'empreinte des clous, vestiges de Sa
+
+Passion.
+
+Les cheveux bruns, epars, tombent en boucles sur les epaules.
+
+La tete est entouree de rayons d'or; le visage est empreint d'une grande douceur.
+
+Dans la main gauche, le Christ tient le globe de la Terre surmonte d'une croix; ce globe est en verre pour bien nous montrer la fragilite,le neant des choses d' ici-bas; la main droite, levee au ciel,dirige nos regards en haut. Ce contraste nous enseigne qu'il faut nous detacher des biens passagers de la terre et ne rechercher que le royaume Eternel.
+
+Et Jesus, prechant d'exemple, continue a gravir la colline.
+
+Toile Haut 133 larg.90.
+
+## TIZIANO VECELLI
+
+DIT
+
+## LE TITIEN
+
+1477-1576,Venise.
+## JEAN-BAPTISTE MORONI
+
+1510-1578,Albino.
+
+## 95.Portrait d'homme.
+
+Represente a mi-corps, portant un habit noir avec col blanc, coiffe d'un beret noir, tenant en mains un rouleau de papier.
+
+Toile Haut. 67 larg. 52.
+
+## FRANCOIS DA PONTE
+
+DIT
+
+## BASSANO
+
+XVIme siecle, Bassano.
+
+## 96. L'Agonie de Jesus.
+
+Jesus, ayant laisse ses disciples Pierre, Jacques et Jean si possible
+
+Un ange, entoure de clarte celeste, lui apparait et le fortifie.
+
+profondement endormis a l'entree du Jardin de Gethsemani, cherche une retraite pour prier. A genoux, le corps incline;il demande a son Pere,d'eloigner — —lecalice qu' il doit vider jusqu' a la lie.
+
+Toile Haut 70 larg. 93.
+
+## LEANDRE DA PONTE
+
+DIT
+
+## BASSANO
+
+1558-1623,Bassano.
+
+## 97. Bapteme.
+
+Au milieu d'une foule recueillie, une grande dame,pieusement agenouillee aux pieds d' un eveque, recoit le saint Bapteme.
+
+Dans le haut: deux anges contemplent avec joie cette belle ceremonie.
+
+Une croix se detache a droite du tableau.
+
+Toile Haut. 80 larg. 60.
+## SEBASTIEN LUCIANO
+
+DIT
+
+## DEL PIOMBO
+
+1485-1547,Venise.
+
+## 98. Resurrection de Lazare.
+
+Jesus, suivi d’une foule nombreuse, se rend a la sepulture
+
+La main droite levee, il implore son Pere Celeste et Lazare, sort de la tombe et est rendu a ses soeurs.
+
+de Lazare.
+
+Celles-ci,placees derriere lui,pleurent de joie et d'emotion.
+
+Un arbre formant arc, laisse apercevoir un coin de paysage.
+
+de tourelles.
+
+A gauche, sur une hauteur, plusieurs edifices surmontes
+
+Une chaine de montagnes borne I'horizon.
+
+Bois Hant.106 larg.139.
+
+## SEBASTIEN LUCIANO
+
+DIT
+
+## DEL PIOMBO
+
+1485-1547,Venise.
+
+## 99.Portrait d'un jeune homme.
+
+Represente a mi-corps, grandeur naturelle, la tete coiffee d'un chapeau rouge, portant une blouse blanche,la main droite posee sur la poitrine.
+
+Toile Haut. 96 larg. 73.
+## ANTOINE ALLEGRI
+
+DIT
+
+## LE CORREGE
+
+1494-1534,Correggio.
+
+## 100.L'Adoration des Mages.
+
+Sur un socle, la Sainte Vierge,assise. De la main droite, elle soutient l'Enfant Jesus, appuye contre elle; de la main gauche, elle tient un brule-parfums pose sur ses genoux.
+
+Saint Joseph, debout derriere la Sainte Vierge, contemple avec amour sa Famille.
+
+Au premier plan, un socle orne d'un bas relief representant un ange, surmonte deux gradins.
+
+A genoux, un roi mage, apres avoir depose sa couronne sur le gradin, semble vouloir baiser le pied du petit Jesus qu'il tient respectueusement dans sa main gauche.
+
+D'autres rois mages munis de presents, sont debouts a cote de la Sainte Vierge.
+
+On voit, dans le fond du tableau, les colonnes d'un temple.
+
+Trois personnes, sont placees,a droite au pied d'enormes rochers.
+
+Bois Haut.74 larg.55.
+## 102. Un ange.
+
+Sur un nuage, un ange vu a mi-corps, les yeux leves au ciel, tenant une palme dans la main droite, et un lis dans la main gauche.
+
+Bois Haut. 29 larg. 35.
+
+## ECOLE VENITIENNE
+
+XVme siecle.
+
+## 103. Madone.
+
+Sur fond or, la Sainte Vierge en manteau bleu brode d'un galon or, la main droite ornee d'un bague posee sur la poitrine, tient sur ses bras l'Enfant Jesus qui fait le geste de benir.
+
+Bois Haut. 56 larg.43.
+
+## JULES CAMPI
+
+1502-1572,Cremone.
+
+## 101. Resurrection.
+
+Sur fond de paysage: un foret a gauche et une ville a
+
+Dans le fond, le mont Golgotha avec les trois croix; sur le devant du tableau, le Christ,la banniere a la main,ressuscite du tombeau entoure de soldats endormis. Le donateur est en prieres aupres du tombeau.
+
+Bois Haut. 62 larg. 51.
+
+## ROSSO DEL ROSSO
+
+DIT
+
+## MAiTRE ROUX
+
+1496-1541,Florence.
+
+droite.
+## ANTOINE VIVARINI
+
+## DIT
+
+## DA MURANO
+
+1460, Murano.
+
+## 104. Mater Dolorosa.
+
+La Vierge Mere, tient son cher Fils sur les genoux et le contemple
+
+Une croix se detache sur le fond du tableau. Dans le haut sont places deux anges.
+
+Bois Haut. 43 Larg. 30.
+
+## ECOLE VENITIENNE
+
+XIVme siecle.
+
+## 105. Madone byzantine.
+
+La Vierge est assise avec l'Enfant-Jesus qui tient le globe de la terre dans la main gauche;la main droite fait le geste de benir. Saint
+
+Bois Haut. 46 larg. 61.
+
+Jean et Sainte Catherine entourent la Sainte Fanille.
+
+## GIROLAMO de SANTA CROCE
+
+1530, Santa Croce.
+
+## 106. Sainte Catherine.
+
+Representee debout, vue de face,la tete entouree d'une aureole, legerement inclinee vers la gauche; les cheveux blonds épars;vetue d'une tunique brune recouverte d'un manteau rose.
+
+palme appuyee sur une roue.
+
+Dans la main gauche, elle tient un livre, dans la main droite une Bois Haut. 104 larg.29.
+
+## GIROLAMO de SANTA CROCE
+
+## 107. Sainte Apolline.
+
+(Pendant du precedent).
+
+Representee debout, les cheveux epars nimbes d'une aureole, vetue d'une robe rose que recouvre une draperie bleue.
+
+des tenailles et une dent.
+
+Dans la main gauche elle tient une palme, dans la main droite: Bois Haut. 104 larg. 29.
+
+1530, Santa Croce.
+
+avec profonde douleur.
+## BENEDETTO DIANA
+
+1500,Venise.
+
+## 108.Madone.
+
+La Vierge est assise, vue de face, la tete couverte d'un voile blanc dont un pan flottant retombe sur le corsage d'un rouge vif.
+
+De la main droite, elle soutient l'Enfant Jesus; de la main gauche elle emprisonne son petit pied. L'Enfant Jesus, debout au centre du tableau, tient une pomme dans la main gauche: la main droite est levee en un geste de benediction.
+
+A gauche de la Vierge: Sainte Catherine les cheveux en bandeaux soigneusement lisses et recouverts d' un voile blanc en forme de turban; la Sainte a les mains jointes; elle est tournee vers l’ Enfant Jesus.
+
+A droite, Saint Thomas,la tete coiffee d'une mitre,le visage encadre d' une longue barbe, tenant d' une main la crosse, de l' autre un Evangile.
+
+Tous ces personnages se detachent sur un ciel clair, lumineux.
+
+Au loin, des tourelles sur des collines.
+
+Boit Haut. 58 larg. 82.
+## SALVATOR ROSA
+
+1615-1673, Naples.
+
+## 109. Un sinistre.
+
+Un incendie jette sa note sinistre dans la nuit.
+
+Bois Haut. 33 larg. 45.
+
+Un chateau est devore par les flammes. Le feu a deja fait son oeuvre et devant les ruines de cette belle construction, on voit de nombreux cavaliers qui cherchent a dompter leur monture.
+
+## JEAN CARIANI
+
+1510, Bergame.
+
+## 110. Sur la route du Calvaire.
+
+Jesus succombe sous le poids de la croix. A ses cotes un bourreau, tenant en mains un baton. Sainte Veronique emue de compassion a la vue du Sauveur, s'approche de lui avec un linge blanc pour essuyer son visage.
+
+cher Fils.
+
+Devant Jesus, la Vierge Mere evanouie a la vue de son
+
+Quelques saintes femmes la soutiennent et partagent sa douleur. Parmi les gentilshommes formant escorte au Christ, on remarque le portrait d'un doge.
+
+Haut 78. Larg. 98.
+
+## ALEXANDRE BONVICINI
+
+DIT
+
+## LE MORETTO
+
+1530, Brescia.
+
+## 111. Portrait de jeune homme.
+
+Vu a mi-corps, debout, la tete coiffee d'une toque noire. Une pelerine noire jetee sur lepaule gauche, decouvre la tunique blanche ornee d'une fraise tuyautee au cou.
+
+Toile Haut.96 larg. 75.
+## JEAN MEMLINC
+
+1492, Bruges.
+
+## 112. Episodes de la vie de Saint Martin.
+
+Sur la 1ere moitie du tableau, a gauche: Saint Martin, vetu d'un riche costume damasse avec col et parements de velours que recouvre un ample manteau rouge, monte un cheval richement harnache et partage son manteau avec un pauvre qu'il a rencontre sur sa route. Au second plan: trois personnages en costumes orientaux, tenant une hallebarde, entourent un cheval. Plus haut, Saint Martin couche; on voit la chambre d'un chateau. Le saint, semble recevoir en songe, par les rayons du Pere Eternel, place dans le haut du tableau, l'inspiration de sa charitable mission.
+
+La seconde moitie a droite du tableau represente le sacre de Saint Martin, a genoux sur un tapis, les mains jointes, entoure de plusieurs diacres et sous-diacres. Deux éveques, places derriere le saint, le benissent d'une main, de l'autre, soutiennent la mitre. Plus haut, quelques hommes d' eglise porteurs de crosses. A gauche, surmontee d'une fenetre a croisillons, une porte ouverte sur un long corridor ou se dresse un autel. Dans le haut du tableau: la mort de Saint Martin couche sur les dalles d'une cellule. Le Saint est entoure de plusieurs moines qui recitent des oraisons funebres. Un cierge allume est pose a terre, plus loin un goupillon, un benitier.
+
+Un coin de paysage dans le fond.
+
+Deux anges, dont l'un vetu de rose, l'autre de bleu, tiennent en suspension le Pere Eternel.
+
+Bois Haut. 106 larg. 96.
+## 113 Portrait.
+
+Sur un fond sombre se detache a mi-corps, grandeur naturelle, la
+
+Un galon brode or, enroule autour de sa taille, forme ceinture;
+
+silhouette d'un patricien en costume noir avec collerette en toile blanche.
+
+une chaine de jais a gros grains descend sur la poitrine.
+
+droite il tient un rouleau de papier.
+
+La main gauche touche une épee placee a cote de lui; de la main
+
+La tete est couverte de cheveux blancs; une moustache et barbiche
+
+Toile Haut. 100 larg. 73.
+
+egalement blanches allongent le bas du visage empreint d'une douce fermete.
+
+## LUC MOMBELLI
+
+## 114. L'Annonciation.
+
+Agenouillee sur un prie-Dieu, les mains croisees sur la poitrine, la Vierge recoit la visite de I'Ange lui annoncant qu'elle serait la mere de Jesus.
+
+Toile Haut. 74 larg. 67.
+
+## ALEXANDRE BONVICINI
+
+DIT
+
+## LE MORETTO
+
+1530, Brescia.
+
+## 115. Jesus a Gethsemani.
+
+A genoux au pied d’un rocher, Jesus, les mains jointes, prie avec ferveur. Dans le haut du tableau a gauche: une clarte celeste.
+
+Bois Haut. 39 larg. 28.
+
+1553, Brescia.
+
+## GUIDO RENI
+
+DIT
+
+## LE GUIDE
+
+1575-1642, Bologne.
+## JEAN ROTTENHEMER
+
+1564-1623,Munich.
+
+## 116. La mort de la Sainte Uierge.
+
+On la represente etendue sur un lit orne d' une draperie verte, les mains croisees sur la poitrine, couverte d'un manteau bleu, entouree de Saint Joseph, consterne et de nombreuses per- sonnes plongees dans la douleur.
+
+Dans le haut, plusieurs anges qui sortent des nuages.
+
+Toile Haut. 35 larg. 26.
+
+## CHRISTOPHE ALLORI
+
+DIT
+
+## LE BRONZINO
+
+1577-1621,Florence.
+
+## 117. Judith et Holopherne.
+
+A gauche, Judith vetue d'une tunique rose, la manche du bras droit - arme d'un glaive - retroussee au-dessus du coude. La main gauche est passee dans la chevelure d' Holopherne. A droite une vieille femme, tournee de profil, le visage encadre d'un linge blanc sur lequel repose la tete du decapite qui represente le peintre lui-meme.
+
+Toile Haut. 119 larg. 104.
+
+## LATTANZIO GAMBARO
+
+1451-1574,Brescia.
+
+## 118. L'Assomption.
+
+Une foule nombreuse. les mains tendues, suit du regard la Vierge Marie. Elle monte au ciel escortee d' une nuee d'anges qui soutiennent le plis flottants de son ample manteau.
+
+Toile Haut. 119 larg. 100.
+## JACQUES CARRUCCI
+
+## DIT PONTORMO
+
+1493-1558,Pontormo.
+
+## 119. Madone.
+
+La Sainte Vierge est assise en robe rouge vif, la tete entouree d'une aureole, les cheveux epars couverts d''un voile blanc, tenant un livre dans la main droite.
+
+Sur les marches d'un escalier, I' Enfant Jesus dont le petit corps potele est soutenu par sa Mere est debout et semble converser familierement avec deux anges places a gauche de la Madone.
+
+A droite, deux autres anges-dont l'un a le pied pose sur un sac-font leurs confidences a la Vierge Mere qui prete une oreille complaisante a leurs gentils propos.
+
+Groupe charmant ou les visages souriants sont pleins de naturel.
+
+Bois Haut. 115 larg.95.
+## 121.Madone.
+
+La Sainte Vierge est representee assise, somptueusement vetue d'une robe rouge avec manches vertes.
+
+tent tout l'amour qu'elle a pour son Divin Enfant.
+
+Elle tient dans ses bras I'Enfant-Jesus; ses yeux refle-
+
+Bois Haut. 41 larg. 27.
+
+## JULES CAMPI
+
+1502-1572,Cremone.
+
+## LAURENT LOTTO
+
+1530, Venise.
+
+## 120.Portrait.
+
+Vieillard portant une longue barbe blanche, vetu d’un
+
+Toile Haut. 58 larg. 47.
+
+## THOMAS MANZUOLI
+
+DIT
+
+## MASO DI SAN FRIANO
+
+1536-1575, San Friano.
+
+costume noir avec collet blanc.
+
+## 122. Madone.
+
+Sur un fond de draperie verte, la Sainte Vierge est assise en robe rouge recouverte d'un manteau bleu. Un voile vert est pose sur les cheveux. L'Enfant Jesus, debout sur les genoux de sa Mere, a le regard baisse vers un saint invisible.
+
+Haut. 52.Larg.43.
+## SALVATOR ROSA
+
+1615-1673,Naples.
+
+## 123. Portrait d'un personnage oriental.
+
+Sur un fond de paysage montagneux se detache debout, en grandeur naturelle la silhouette d'un turc, tenant en laisse un chien attache a une chaine. ll porte une tunique flottante; les jambes sont nues, les pieds chausses de sandales. La tete est coiffee d'un turban. La main droite qui tient un glaive est repliee —— en un geste menacant — sur l'epaule gauche.
+
+L'attitude et l'expression de ce jeune homme denotent la cruaute.
+
+Toile Haut.220 larg.148.
+
+## LE VALENTIN
+
+1601-1634,France.
+
+## 124. Les quatre Euangelistes.
+
+Saint Mathieu, Saint Luc, Saint Jean et Saint Marc sont assis autour d'une table sur laquelle sont poses des livres.
+
+Derriere eux, un ange; une tete de lion a gauche du tableau, une tete de boeuf a droite au premier plan.
+
+Toile Haut. 120 larg. 168.
+## PAUL CALIARI
+
+DIT
+
+## VERONESE
+
+1528-1588,Venise.
+
+## 125. Portrait d'homme.
+
+Represente de face, a mi-corps, vetu d'un manteau borde de fourrure blanche.
+
+Un col blanc, mou est rabattu sur l'habit noir.
+
+Les yeux noirs, tres expressifs, donnent du caractere a
+
+Toile Haut. 63 larg. 52.
+
+Un collier de barbe noire encadre le visage.
+
+cette physionomie.
+## JACQUES ROBUSTI
+
+DIT
+
+## LE TINTORET
+
+1512-1594,Venise.
+
+## 126. Predication de Saint Jean.
+
+Dans un site sauvage, abrite par un énorme rocher, Saint Jean est debout au milieu d'une foule attentive et recueillie. Grisaille.
+
+Toile Haut. 53 larg. 72.
+
+## JACQUES ROBUSTI
+
+DIT
+
+## LE TINTORET
+
+1512-1594, Venise.
+
+## 127. Portrait de dame.
+
+Buste de jeune femme vue de face,vetue d'une robe en velours avec fine dentelle a I'encolure.
+
+Les cheveux fauves font ressortir la blanche carnation du visage. Toile Haut. 51 larg. 41.
+
+## MAiTRE ESPAGNOL
+
+## 128. Bandit espagnol.
+
+Represente de face, en habit vert, la chemise deboutonnee laisse voir le cou et la poitrine. De la main droite, il tient un baton; son chapeau est sous le bras gauche.
+
+type vraiment meridional.
+
+Une epaisse chevelure noire augmente encore l'air farouche de ce
+
+Toile Haut. 68 larg.54.
+
+XVllme siecle.
+## DIONISE VERBURG
+
+XVllme siecle, Hollande.
+
+## 129. Paysage.
+
+A gauche; un coin de foret plante d'arbres touffus; cinq personnes — dont trois a pied et deux a cheval -— sont arretees sur la route, et devisent gaiement.
+
+Un vieillard est assis au pied d'un arbre denude; plus loin, un patre s'eloigne en conduisant une vache.
+
+A droite, deux personnes suivent du regard une barque a voiles qui glisse sur l'eau; la riviere, apres avoir fait un coude, disparait de l'autre cote de la foret; quelques ruines s'elevent sur ses bords. A droite, les tourelles d'un chateau se dressent fierement sur la montagne.
+
+Un village se voit au fond.
+
+Le ciel est couvert de nuages blancs. Signe.
+
+Bois Haut. 60 larg. 82.
+
+## BERNARD STROZZI
+
+DIT
+
+## LE PRETRE GENOIS
+
+1581-1644, Genes.
+
+## 130.Jeune fille en extase.
+
+Sur un fond de paysage orageux, aux tons verts jaunatres, se detache le buste d'une jeune fille.
+
+Vue de face, decolletee, portant un corsage cramoisi; un fine gaze blanche orne l'encolure.
+
+Des cheveux admirables, aux nuances fauves cuivrees, encadrent le gracieux visage et retombent en boucles sur les epaules.
+
+Toile Haut. 60 larg.50.
+
+## JUSTE SUSTERMANS
+
+1597-1681,Anvers.
+
+## 131.Portrait d'un marechal.
+
+Revetu d'une armure sur laquelle est drape un manteau de soie bleue, coiffe d'un chapeau de feutre garni de plumes. La main gauche est posee sur la hanche. La main droite tient un baton de marechal qui est appuye sur une table recouverte d'un tapis de velours rouge. Le casque, faisant partie de l'armure est place sur la table.
+
+Draperie verte dans le fond.
+
+Toile Haut.110 larg. 87.
+## SIR HENRI REABURN
+
+1756-1823,Angleterre.
+
+## 132. Portrait.
+
+Un gentilhomme anglais est represente a mi-corps, vetu d'une riche simarre a deux rangees de boutons dores, garnie d'un col et jabot en dentelle.
+
+Ce portrait se detache sur un fond de draperie rouge fonce dont les tons sont plus clairs vers le haut.
+
+du sourire.
+
+Visage tres expressif par la vivacite des yeux et la bonte
+
+Toile Haut. 74 larg. 63.
+## MICHEL VAN MUSSCHER
+
+1645-1705,Rotterdam.
+
+## 133.Portrait d’un Savant.
+
+Assis dans un fauteuil de cuir, la main droite appuyee sur le dossier, la main gauche levee en un geste eloquent.
+
+Vetue d'une robe de chambre verte, nouee a la taille par une cordeliere; la tete couverte d'une epaisse chevelure grise qui retombe en boucles epaisses sur les épaules.
+
+Devant lui, sur une table recouverte d'un tapis brun, sont poses:
+
+un encrier, un porte-plume et quelques livres.
+
+bibliotheque.
+
+Dans le fond,un rideau vert tire laisse apercevoir les rayons dune Toile Haut. 84 larg. 66.
+
+## PIERRE PRUD'HON
+
+1758-1823, Cluny.
+
+## 134.Apollon Citharede.
+
+Adolescent vu de face, a mi-corps. Une draperie rosatre laissant a decouvert le haut du corps, est posee negligemment vers le bas et retenue sur l'epaule gauche par un etroit ruban. La tete ressort finement sur un cercle lumineux bleu; une couronne de lauriers orne les belles boucles blondes. Dans les mains une cithare.
+
+Gracieux portrait empreint de grace juvenile.
+
+Toile Haut. 68 larg. 52.
+
+## MAiTRE FRANCAIS
+
+XIXme siecle.
+
+## 135. Portrait de Napoleon.
+
+Revetu d'un justaucorps blanc, tunique bleue sombre; couvert de decorations, la main droite passee dans l'entrebaillement de la tunique.
+
+Ce tableau est remarquable, car c'est le seul portrait connu de Toile Haut. 76 larg. 61.
+
+Napoleon revetu de cet uniforme.
+
+## G.FITEL
+
+1809.
+
+## 136. Portrait de Dame.
+
+Elle est assise dans un fauteuil en robe de soie noire Empire; un manteau rouge est jete negligemment sur le dossier. De beaux cheveux noirs, soigneusement releves au sommet de la tete,laissent echapper quelques boucles qui retombent sur le front. La tete fine est encadree d'un col genre Marie Stuart ouvert en pointe sur le devant du corsage;un collier a double rangee de perles orne le cou de la jeune femme. La main droite, tenant une plume, s'appuie sur un carton pose sur une table.
+
+montagneux.
+
+Une fenetre ouverte dans le fond, decouvre un coin de paysage Toile Haut. 120 larg. 84.
+## JEAN-AUGUSTE-DOMINIQUE INGRES
+
+1780-1867,Montanban.
+
+## 137. Promethee.
+
+Represente debout, vu a mi-corps le bras droit replie sur la tete encadree de boucles blondes. L'autre bras est accoude sur un bloc de pierre place a gauche du tableau. Une draperie d'un rouge vif passe par dessus la tete, retombe negligemment dans le dos et contourne les hanches decouvrant le corps viril de l'adolescent.
+
+Toile Haut.100 larg. 82.
+## PIERRE VAN HANSELAERE
+
+1786-1862,Gand.
+
+## 138. Portrait d’une jeune femme.
+
+Assise sur un fauteuil vert, portant une robe de velours noir avec manches de tulle. Une vaporeuse ruche en dentelle blanche orne le decollete de la robe. Les cheveux noirs sont
+
+La main gauche est appuyee sur le fauteuil. Un livre est pose sur ses genoux, les doigts de la main droite sont
+
+Toile Haut. 121 larg.88.
+
+## JEAN BAPTISTE PERRONEAU
+
+1715-1783,France.
+
+releves en boucles au sommet de la tete.
+
+passes dans les feuillets du livre.
+
+## 139.Portrait.
+
+Portrait d'un gentilhomme coiffe d'une perruque poudree terminee par une natte et noeud de soie noire.
+
+le somptuosite du gilet garni d’un riche jabot de dentelles.
+
+L'habit de velours brun legerement entr'ouvert montre
+
+La tete aux yeux profonds et expressifs est tournee de
+
+Toile Haut.59 larg. 43.
+
+## MAiTRE ANGLAIS
+
+XVllIme siecle.
+
+## 140. Portrait d’un Chasseur.
+
+Vu a mi-corps, debout, en habit vert, le col de la chemise qui est garnie d' un jabot en toile plissee, ouvert en pointe,
+
+A droite du tableau, un petit chien qui regarde son maitre.
+
+sur la poitrine, tenant en mains un fusil.
+
+Ce portrait se detache sur un fond de paysage montagneux.
+
+Toile Haut. 103 larg.76.
+
+trois quarts vers la gauche.
+## GUILLAUME JOSEPH-MALORD TURNER
+
+1775-1851,Londres.
+
+## 141. Soleil Couchant.
+
+Un coin de lac entre de hautes montagnes. Au premier plan, assis sur un tertre, un jeune berger,vetu d'un habit rouge et bleu, chausse de guetres, tire d'une flute des sons melodieux dont les echos multiples se repercutent aux alentours.
+
+A cote du tertre, un jeune couple se dispose a faire une promenade en barque.
+
+Une gondole glisse sur les eaux paisibles du lac, laissant derriere elle un sillage argente. Un sentier boise mene a l'eglise placee sur une colline a droite du tableau.
+
+Les tourelles d'un chateau en ruines se dressent fierement sur une montagne; le soleil passant par deux fenetres,y met une lueur d'incendie et depose, avant de se coucher, un dernier baiser sur les montagnes, et sur le lac.
+
+Toile Haut. 20 larg.43.
+## NARCISSE-VIRGILE DIAZ
+
+## DE LA PENA
+
+1808-1877,Bordeaux.
+
+## 142. Sous bois.
+
+Un coin de foret plante d'arbres touffus laissant filtrer les rayons du soleil qui depose, en se jouant a travers les branches et les troncs d'arbres, des taches lumineuses sur le gazon.
+
+Au premier plan vers la gauche, un ruisseau sillonne le bois et, apres avoir contourne les arbres, se perd dans le lointain.
+
+Ca et la,a travers le feuillage, des echappees de ciel bleu. Oeuvre des plus remarquables de ce maitre.
+
+Signe en toutes lettres a droite dans le bas du tableau.
+
+Toile Haut. 73 larg.95.
+Phototypie G.Modiano &amp; C.-Milan
+
+## EDMOND HEDOUIN
+
+1820, France.
+
+## 143.Soir d'ete.
+
+Une jeune femme est assise sur un tertre au bord de l'eau; a peine couverte d'une gaze blanche, les yeux fixes au sol,le genou droit emprisonne de ses deux mains jointes, les pieds croises.
+
+Des papillons blancs voltigent autour de la gracieuse silhouette.
+
+A cote de la jeune femme, a droite un panier rempli de fleurs.
+
+Des cimes d'arbres se detachent nettement sur un ciel couvert de legers. nuages.
+
+Haut.40 larg.32.
+
+## FAUSTIN BESSON
+
+1821,Dole.
+
+## 144. Portrait de dame.
+
+Jeune femme vue de profil, vetue d'une somptueuse robe d'interieur blanche avec semis de fleurs multicolores. La robe, legerement entr'ouverte,laisse apercevoir la chemise garnie de rubans roses.
+
+De la main droite, elle s'appuie sur une table; la main gauche tient un chapelet. La jeune femme semble prier avant de gouter le repos, car les yeux sont leves au ciel; tout dans l'attitude indique le recueillement.
+
+Signe a gauche au bas de la toile.
+
+Toile Haut. 124 larg. 91.
+## OBJETS DIVERS
+
+- N. 145. La Madone avec Jesus et Saint Jean bas relief oval (encadre)
+2. en faience polychrome de Pesaro. XVllime siecle.
+3. N.146. Plat en faience de Savone; scene allegorique; decor bleu. XVlme siecle.
+- N. 147. Vase en faience du Maroc; decor polychrome. XVme siecle.
+- N. 148. Vase en faience du Maroc; decor polychrome. XVme siecle.
+- N. 149. Bouteille a deux anses en faience d’Urbagna; decor polychrome
+7. a personnages. XVIme siecle.
+8. N.15O. Petit vase en faience de Caltagirone; decor polychrome autour
+9. d'un portrait. XVIme siecle.
+- N. 151. Plat en faience d' Urbino; au contre saint avec decor. XVme siecle.
+11. N.152. Grand plat rond en faience de Venise; decor a paysage, ruines
+12. et plantes. XvllIme siecle.
+- N. 153. Vase en faience de Montelupo avec saint au centre; riche decor
+14. polychrome. XVIme siecle.
+- N. 154. Broc en faience de Faenza; ornements bleu, vert et jaune. xVllme siecle.
+16. N.155. Plat en faience de Faenza; decor a polycrome; au centre une tour. xVime siecle.
+- N. 156. Plat oval en faience d’ Urbino; decor raphaellesque. XVIme siecle.
+18. N.157. Grand vase en faience de Sicile; decor polychrome sur fond
+19. blanc: plusieurs figures de saints. xVllme siecle.
+Phototypie G.Modiano &amp;C.
+
+Milan
+
+- N. 158. Plat oval en faience de Venise; au centre, paysage entoure de decor a relief. Une felure. xvlllme siecle.
+- N. 159. Grand plat en faience d’Urbino; decor polychrome. XVime siecle.
+- N. 16O. Petit ecrin bois incruste. Travail flamand. xVIme siecle.
+- N. 161. Pendule en bronze cisele, renferme dans un écrin en bois avec
+5. pieds et amours en bronze egalement cisele. xvlllme siecle. Marquee Pietro Molinari di Pesaro.
+6. N.162. Saint Jean, statuette en bois. XVlIme siecle.
+- N. 163. La Deposition; bas-relief en bois polychrome. XVme siecle; cadre
+8. dore.
+9. N.164. Sainte Rose avec 1' Enfant-Jesus. Statue en bois sculpte polychrome; sur piedestal en bois dore; style baroque.
+10. N.165. Modele de petit bureau en noyer avec garniture en bronze dore.
+11. Travail bolognais. XVllme siecle.
+- N. 166. Un chien de chasse en bois sculpte. Empire.
+13. N, 167. Deux vases avec couvercles surmontes de deux citrons en verre de Murano. XVllme siecle.
+- N. 168. Verre en forme de calice avec couvercle en cristal de Boheme;
+15. gravure guirlande et palme xVlime siecle.
+- N. 169. Broc en cristal de Murano avec gravures or. xVllme siecle.
+- N. 17O. Grand verre en forme de calice avec couvercle en cristal de Boheme; avec gravures: d'un cote, une femme assise sur un tonneau, de l'autre, les armoiries des Bourbons. XVllIme siecle.
+18. N.171. Verre en forme de calice en cristal de Boheme grave et dore; medaillon representant un Bacchus. XVlllme siecle.
+- N. 172. Bocal avec couvercle en cristal de Murano; gravures or. xVllme siecle...
+- N. 178. Bocal avec couvercle en cristal de Murano; gravures or. xVlllme siecle.
+- N. 174. Cassette style de Sansovino avec petites colonnes en albatre blanc et bronzes. XVime siecle.
+- N. 175. Madone avec 1' Enfant Jesus; statue en bois polychrome dore; haut 1 m. 35. XVime siecile provenant de la collection du marquis Guidi de Faenza.
+- N. 176. Crucifix peint sur bois; aureole doree en relief. Ecole toscane.
+4. XIVme siecle.
+- N. 177. Cassette avec incrustations de paille; a l'interieur une tablette peinte portant les armoiries de la famille Spada. xVime siecle.
+6. N.178. Deux porte-bijoux en argent cisele avec soucoupes en cristal de roche, émail et perles. XVime siecle; provenant de la collection Borghese.
+- N. 179. Buste d'empereur romain en marbre XVIme siecle.
+- N. 18o. Grand vase en faience d'Urbino. Le centre represente un demi-
+9. buste d'eveque entoure de fruits et feuilles. Xvime siecle. Voir illustration.
+10. N.181. Grand vase en faience de Cafaggiolo; ornements vert, bleu et jaune a guirlande avec armoiries au centre. XVime siecle. Voir illustration.
+- N. 182. Plat oval en faience d’ Urbino; medaillon au centre XVIme siecle.
+12. N.183. La Vierge et l'Enfant Jesus; bas-relief en faience polychrome de
+13. Deruta.XVIme siecle.
+- N. 184. Petit plat hispano-mauresque avec reflets or. XVime siecle.
+- N. 185. Plat siculo-moresque avec reflets dores et cercles bleus. xVIme
+16. siecle.
+17. N.186. Grand plat a pied en faience de Perse polychrome. XVme siecle.
+- N. 187. Vase en faience des Abruzzes. XVIme siecle.
+- N. 188. Broc en faience de Faenza; decor a feuilles. XVIme siecle.
+- N. 189. Plat en faience de Venise, sur fond bleu decor blanc et jaune. XVIllme siecle.
+Phototypie G.Modiano &amp; C.
+
+- N. 19o. Deux vases avec couvercles en faience de Sassuolo; decor: fi-
+2. gures a relief.
+
+Epoque Empire provenant de la collection du marquis Guidi de Faenza.
+
+N.191. Plat oval en faience de Caltagirone; decor polychrome representant Moise faisant jaillir l'eau d'un roc. XVIme siecle.
+
+N. 192. Vase en faience de Faenza; decor bleu. XVme siecle.
+
+N. 193. Broc en faience de Casteldurante; decor polychrome a couleurs vives; sur l'anse la date 16o6.
+
+N. 194. Bouteille en faience de Pavie. XVIme siecle.
+
+N.195. Grand plat en faience de Venise; decor polychrome a paysage et architecture. XVillme siecle.
+
+N. 196. Vase en faience de Cafaggiolo; decor bleu. XVIme siecle.
+
+N.197. Bouteille en faience de Padova; decor a stecco. XVme siecle.
+
+N.198. Grand plat ajoure en faience allemande; decor polychrome; une legende autour du plat. xVime siecle,
+
+N. 199. Ecuelle avec couvercle et soucoupe en faience de Rouen; decor polychrome a fleurs avec armoiries. xvlllme siecle.
+
+N. 2oo. Plat en faience francaise; au centre, un serpent entoure d'écrevisses, de lézards, poissons, grenouilles, coquillages, feuilles etc. Oeuvre de Bernard Palissy. XVIme siecle. (Voir illustration).
+
+N. 2o1. Etoffe ancienne en brocart; dessins or sur fond argent.
+
+N. 2O2. Gravure representant le "Fils Puni , peinte par J. B. Greuze, gravee par B. Gaillard.
+
+N. 2O3. Gravure representant la "Malediction Paternelle , peinte par J. B. Greuze, gravée par B. Gaillard.
+
+N. 2O4. Gravure representant la "Mere Bienaimee , peinte par J. B. Greuze, gravee par B. Gaillard.
+
+- N. 2O5. Pendule en bronze dore; char de triomphe tire par deux chevaux et deux personnages mythologiques; Epoque Empire.
+Ayant appartenue a la soeur de Napoleon I, Comtesse Baciocchi de Bologne, passee par heritage a la famille Jussi de Bologne.
+
+- N. 2o6. Boite a jeux; laque de Venise blanc et vert avec decor a fleurs et figurines chinoises; a l'interieur petites soucoupes et boite. XVIllme siecle.
+2. terieur trois boites semblables et cinq soucoupes. Xvlllme siecle.
+- N. 2O8. Centre de table Empire finement cisele; Travail francais.
+- N. 2o9. Encrier en porcelaine de Sevres avec ornements dores sur fond
+5. noir. Epoque Empire.
+- N. 2io. Deux singes et un aigle. Groupe en bronze sur piedestal en bois. Travail chinois du XVlIme siecle.
+- N. 21l. Idole indienne en bronze. xVlIme siecle.
+- N. 212. Grand plat porcelaine de Perse; riche decor bleu a feuillages.
+9. XVIme siecle.
+- N. 213. Plat en porcelaine de Chine avec dessins bleus sur fond blanc. XVlIme siecle.
+- N. 214. Bouteille en porcelaine de Chine; decor bleu sur fond blanc.
+12. Xllme siecle.
+- N. 2i5. Plat en porcelaine de Chine avec dessins bleus sur fond blanc.
+14. XlIme siecle.
+- N. 216. Plat, porcelaine de Chine avec dessins bleus sur fond blanc. XVlllme siecle.
+- N. 217. Vase en porcelaine de Chine du xVllme siecle.
+- N. 218. Plat en porcelaine de Chine; decor polychrome a fleurs; larges bords verts avec reserves de paysages. xvlime siecle.
+18. N.2i9. Potiche ancienne porcelaine de Chine, fond blanc, decor poly chrome a paysage. xVllme siecle.
+- N. 22o. Potiche ancienne porcelaine de Chine, fond blanc; decor polychrome a paysage. XVllme siecle.
+Phototypie G.Modiano &amp;C
+
+Milan
+
+- N. 221. Plat en porcelaine de Chine, fond blanc avec ornements de fleurs
+2. couleur rose. xvilIme siecle.
+- N. 222. Plat en porcelaine de Chine; decor polychrome a fleurs et or.
+4. XVllme siecle.
+- N. 223. Deux vases a anses en porcelaine de Chine bleu fouette avec
+6. arabesques en or et légende. XvllIme siecle.
+- N. 224. Grand plat en porcelaine de Chine sur fond blanc, dessins
+8. gris-rouges. XVlllme siecle.
+- N. 225. Grand vase chinois avec couvercle ajoure; sur fond blanc, decor
+10. polychrome a fleurs, paysages et oiseaux.
+- N. 226. Grand plat en porcelaine de Chine famille verte; marque.
+12. XVIme siecle.
+- N. 227. Plat chinois marque. XVlllme siecle.
+- N. 228. Deux grands vases bleu fouette en porcelaine de Chine;riches decors et dessinsen or; famille bleu; anses imitant le Bambou.
+15. XVllme siecle.
+- N. 229. Bouteille en faience de Pesaro; decor polychrome a personnes
+17. et paysages sur fond blanc. xVlIme siecle.
+- N. 23O. Plat en faience de Pavia; decor a fleurs vertes. XVIme siecle.
+- N. 231. Bouteille ronde polychrome en faience de Montelupo avec deux tetes a relief. xVllme siecle.
+- N. 232. Vase en faience de Cafaggiolo; decor bleu. XVime siecle.
+- N. 233. Porte-bijoux en faience d' Urbino; decor et figure de guerrier. XVIme siecle.
+22. N.234. Vase en faience de Cafaggiolo; decor bleu et jaune; couleurs vives. XVIme siecle.
+- N. 235. Plat en faience d'Urbino (Patanassa) a couleurs fortes et vives; au centre, un amour sur fond de paysage; 1ere moitie du xVIme siecle.
+- N. 236. Vase en faience de Cafaggiolo; decor bleu. xVIme siecle.
+- N. 237. Plat en faience de Faenza; au centre, deux mains enlaces; une couronne de noblesse et les lettres F C; le bord est formé d'un ruban tresse bleu et vert.
+- N. 238. Vase en faience de Montelupo avec portrait d'homme, demibuste; decor polychrome. XVime siecle.
+3. N.239. La Vierge et Saint Joseph; haut-relief en faience de Faenza a
+4. couleurs vives (fragment). xVme siecle.
+- N. 24O. Sainte tenant en mains un livre; sculpture du XIVme siecle en
+6. pierre dure.(Travail francais).
+- N. 241. Petit coffre recouvert d'etoffe rouge et bronze. XVme siecle. (Travail lombard).
+- N. 242. Plat oval en metal avec ornements et figures en relief. XVlllme siecle.
+- N. 243. Deux lions couches en bronze cisele du XVlllme siecle.
+- N. 244. Coffret recouvert d'etoffe en bronze XVme siecle.(Travail lombard).
+11. N.245. Sculpture doree baroque. Porte d'un ciborium Sainte Verisimo
+12. martyre.
+13. N.246. Madone avec lEnfant-jesus;haut-relief en bois avec traces de polychromie xVme siecle.
+- N. 247. Statue en bois sculpte, dore, polychrome; representant la Vierge avec l'Enfant Jesus appuye sur son genou. xVme siecle.
+- N. 248. Coffret en bois sculpte laque noire avec peintures, dorures et
+16. incrustations de nacre. Ouvrage venitien. XVme siecle.
+17. N.249. Buste d'une sainte en terre cuite. XVme siecle.
+- N. 25O. Saint Sebastien. Sculpture en bois de buis. Travail allemand. XVIme siecle.
+- N. 251. Noeud dore en bronze cisele et dore. Inscription et date 1680; marque.
+- N. 252. Buste d’empereur romain en porphyre rouge, provenant de
+21. fouilles.
+Phototypie G.Modiano &amp;C-Mitan
+
+- N. 253. Petit plat rond en email blanc avec arabesques. XVlllme siecle.
+- N. 254. Deux chandeliers en cuivre émaille bleu et or. XVillme siecle.
+- N. 255. Buste de grande dame en terre cuite. XVme siecle attribue a Pollajolo.
+- N. 256. Vase en faience italienne bleue; marque 1566.
+- N. 257. Statuette de satyre en bois sculpte tenant en main une grappe
+6. de raisins. XVIme siecle.
+- N. 258. Deux figures en bois (saints éveques). xVme siecle.
+- N. 259. Jesus de Nazareth. Oeuvre remarquable par la finesse de la sculpture, la conservation de la polychromie; des rubis incrustes dans le bois marquent les gouttes de sang. Sculpture florentine du XVime
+9. siecle.
+- N. 26O. Madone avec 1’ Enfant Jesus; en pierre; haut relief. Travail
+11. toscan du xVme siecle. Ecole de Donatello.
+- N. 261. Deux bustes en marbre sur socle en marbre rose. Ecole de Bernini. XVllme siecle.
+- N. 262. Grand plat en faience de Cafaggiolo; decor polychrome. XVIme siecle.
+- N. 263. Grand plat en faience de Faenza; au centre une figure de saint.
+15. XVllme siecle.
+- N. 264. Grand plat en faience de Cafaggiolo; decor polychrome. xVIme siecle.
+- N. 265. Saint Bernardin; buste en terre cuite; provenant de la collection du marquis Guidi de Faenza. (Voir illustration).
+- N. 266. Cassette ecrin en noyer avec plusieurs tiroirs a 1' interieur; angles et pieds en bronze cisele; sur les poignees et les charnieres traces de dorures. XVime siecle.
+- N. 267. Statuette en terre cuite representant un declamateur. Travail ve nitien du XVllme siecle.
+- N. 268. Plat creux earre an porcelaine blanche; decor a fleurs; marque. Provenant de la fabrique imperiale de Catherine de Russie.
+- N. 269. Plat creux carre en porcelaine; decor a fleurs; marque. Prove-
+3. nant de la fabrique imperiale de Catherine de Russie.
+- N. 27O. Paravent en porcelaine de Chine; divise en huit parties.
+- N. 271. Bouteille en faience de Padova; ornements jaune, vert et brun.
+6. XVme siecle.
+7. N.272. Vase en faience de Cafaggiolo; decor bleu et jaune. xVIme siecle.
+8. N.273. Petit plat en faience de Faenza; au centre le mot “Laura&gt;: or-
+9. nements bleu, vert et jaune. xVme siecle.
+- N. 274. Vase en faience de Cafaggiolo; decor bleu. xVIme siecle.
+- N. 275. Petit plat en faience de Faenza: decor blanc sur fond cendre.
+12. Au centre, le mot “Gulia B.,, XVme siecle.
+- N. 276. Vase en faience de Caltagirone; decor polychrome a couleurs vives. XVIme siecle.
+- N. 277. Vase en faience de Cafaggiolo; decor bleu et jaune. xVime siecle.
+15. N.278. Grand plat en faience d'Urbino; decor polychrome; au centre
+16. un saint. Cadre en bois. XVme siecle.
+17. N.279. Grand plat en faience d’' Urbino; decor polychrome; au centre
+18. un saint. Cadre en bois. XVime siecle.
+- N. 28O. Bas-relief en faience de Pavia, forme tabernacle a colonnes, re-
+20. presentant la Vierge et l’ Enfant Jesus. XVme siecle.
+- N. 281. Statuette en faience anglaise, polychrome portant 1' inscription:
+22. “Mower,. XVllIme siecle.
+- N. 282. Statuette en faience anglaise polychrome, portant l inscription: "Falconer,. xVllme siecle.
+- N. 283. Deux statuettes -pendant - en faience anglaise, polychrome,
+25. portant les inscriptions: “ Gardener et Galego ,. XVllme siecle.
+- N. 284. Deux statuettes en terre cuite. XVllme siecle.
+- N. 285. Deux statuettes en terre cuite. XVlllme siecle.
+- N. 286. Cassette écrin, cadeau de noces, en fer cisele; sur le couvercle sont gravees les figurines des epoux.
+3. N.287. Deux mascarons en bronze cisele. XVIme siecle.
+- N. 288. Quatre lions en bronze. XVIme siecle.
+- N. 289. Un Christ pour crucifix, les bras etendus bronze,cisele du xVllIme siecle.
+6. N.29o. Deux anges · pendant - en bronze dore etendus sur socles
+7. en marbre. XVlllme siecle.
+- N. 291. Deux chandeliers en bronze cisele. xVlIme siecle.
+- N. 292. Amour en bronze dore sur piedestal de marbre; tenant une couronne et une corne d'abondances. xVIme siecle.
+- N. 293. Faune dansant, tenant des plats en mains; bronze sur piedestal
+11. de pierre. xVIme siecle.
+12. N.294. Statuette en bronze dore cisele representant une femme; sur
+13. piedestal de bois. xVIme siecle.
+- N. 295. Satyre ivre qui danse; bronze cisele sur piedestal en marbre.
+15. XVIme siecle.
+- N. 296. Encrier avec couvercle; bronze; cisele travail oeuvre de Ricci. XVIme siecle.
+- N. 297. Saint Jean, bronze du xVme siecle.
+- N. 298. Jeune homme jouant du fifre; bronze sur piedestal de marbre. XVime siecle.
+19. N.299. Aigle royal aux ailes deployees. Travail toscan du XVme ou XVIme siecle.
+20. N.3oo. Deux amours - pendant - tenant deux torches. Bronze. xVlme siecle. (Voir illustration).
+- N. 3o1. Deux bases en porcelaine de Sevres couleur rose; decor or, fruits et fleurs; monture bronze dore et cisele. Epoque Louis XVI.
+- N. 3O2. Groupe en porcelaine blanche de Venise. XVIme siecle.
+- N. 3O3. Groupe en porcelaine blanche de Saxe,representant une Muse tenant une cithare; marquee.
+- N. 3O4. Statuette en porcelaine blanche de Saxe representant Vulcain; marquee.
+- N. 3o5. Groupe en porcelaine de Saxe representant une aventure galante. Dans le haut, un singe temoin de la scene; marquee. xvlime siecle.
+- N. 3o6. Amours groupes sous un arbre, en porcelaine blanche de Vienne; marquee. XVllIme siecle.
+- N. 3o7. Tasse et soucoupe en porcelaine de Vienne sur fond gris-vert et or. Epoque Empire.
+- N. 3o8. Tasse Trembleuse en porcelaine de Sevres blanche: decor a fleurs; bords peints en bleu; marquee. XVilIme siecle.
+- N. 3O9. Beurrier avec couvercle en porcelaine de Sevres; pate tendre en bleue avec fleurs; marquee XVillme siecle.
+- N. 310. Garniture composee d'une pendule et de deux candelabres Louis XVI en bronze dore decoree de guirlandes. Travail francais signe " Gille Laine Paris ,. (Voir illustration).
+- N. 311. Deux vases en porcelaine blanche de Capodimonte; ornements mythologiques a relief. L'un des vases est marque avec la lettre N surmontee d'une couronne.
+- N. 312. Madone avec 1 Enfant Jesus. Statue en marbre: haut. 8o centm. XVIllme siecle.
+
+D
+
+L

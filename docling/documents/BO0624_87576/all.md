@@ -1,0 +1,1836 @@
+<!-- image -->
+
+## ALTDEUTSCHE SCHULE.
+
+- 1Zwei Fligel eines Klappaltars.
+
+Der linke Flugel mit der Kreuzschleppung,der rechte mit der Grablegung Christi in figurenreichen Compositionen; die Ruckseiten der Flugel mit Darstellungen aus dem
+
+Leben von Heiligen.
+
+Interessante Bilder. Oberhalb geschweift.
+
+- 4
+- 5Sibylle.
+
+Lebensgrosse Halbfigur in reichem Costume mit hohem Turban.
+
+Leinwand.Hohe 125,Breite 95 Cent.
+
+Holz.Hohe eines jeden 132,Breite 73 Cent.
+
+## MICHELANGELO AMERIGHI,DA CARAVAGGIO,
+
+geb.1569;in Porto Ercole 1609.
+
+- 2 Der ungliubige Thomas.
+
+Gruppe von sechs lebensgrossen Kniefiguren.
+
+Vorzugliches Bild in guter Behandlung des Helldunkels.
+
+Leinwand. Hohe 104,Breite 144 Cent.
+
+## ANTWERPENER MEISTER DES XVI.JAHRHUNDERTS.
+
+- 3 Der hl. Hieronymus.
+
+Im Vorgrunde einer Felslandschaft,in deren Hintergrunde rechts eine Kirche, kniet der Heilige mit entblosster Brust, in der Linken das Crucifix haltend, in Kasteiung. An der Erde Todtenkopf und Lowe.
+
+Holz. Hohe 87,Breite 65 Cent.
+
+Sehr gutes Bild von feiner Ausfuhrung und guter Farbengebung.
+
+## GIOVANNI FRANCESCO BARBIERI gen. GUERCINO,
+
+geb.zu Cento 1590;zu Bologna 1666.
+
+- Scene aus dem Leben des hl. Severinus.
+
+Als Schafer gekleidet,offnet derselbe mit seinem Stabe die Erde, aus der Wasser hervorsprudelt.Neben ihm kniet in Verwunderung der vom Pferde gestiegene reiche Furst.
+
+Skizze. Kupfer. Hohe 121/e, Breite 171/e Cent.
+
+## Nach G. FR. BARBIERI.
+- 7Landschaft.
+
+Zwischen zwei Hohenzigen,die mit Baumen und Gebuisch bestanden,hindurch hat man im Mittelgrunde einen Blick in eine weite Fernsicht.Abendstimmung.
+
+Schone Composition.
+
+- 8Landschaft.Gegenstick.
+
+Gebirgiges Gelande mit weiter Fernsicht nach rechts; im Vorgrunde grosse Ruine, vor der ein Schafer mit seiner Herde; auf dem breiten, zum Hintergrunde fuhrenden Wege als weitere Staffage drei Pilger.
+
+Gleich vorzugliche Ausfuhrung.
+
+## Bezeichnet: A. BIREL.
+
+- 9Englische Dorfpolitiker.
+
+In einer Schenke sitzt rechts an rundem Tische ein bebrillter Mann, zwei vor ihm stehenden Handwerkern aus einer Zeitung vorlesend. Im Hintergrunde links zwei weitere Gaste,der Wirthin ihre Zeche zahlend.
+
+Gutes Bild.Unten links bezeichnet:A.Birel fec.1810.
+
+Leinwand. Gleiche Grosse.
+
+Leinwand. Hohe 113, Breite 130 Cent.
+
+- 10
+
+## BERN. BELOTTO gen. CANALETTO,
+
+geb.zu Venedig 1720;zu Warschau 1780.
+
+- 6Ansicht von Venedig.
+
+von hohen palastartigen Gebauden umstanden.
+
+Schones Bild von klarer Farbung und guter Zeichnung.
+
+Leinwand. Hohe 35,Breite 55 Cent.
+
+## W.VAN BEMMEL,
+
+geb.zu Utrecht 1630;+ zu Wohrd bei Nurnberg 1708.
+
+Holz.Hohe 34, Breite 31 Cent.
+
+## LANCELOT BLONDEEL,
+
+war schon thatig 1520;1561.
+
+- Christi Auferstehang.
+
+Der eben auferstandene Heiland steht in einer Aureole,mit hochflatterndem Mantel und mit der Siegesfahne in der Hand,im Vorgrunde einer gebirgigen Landschaft mit weitem Fernblick; zu seinen Fussen die erschreckten und geblendeten Wachter. Im Mittel- und Hintergrunde，theilweise in architekturreichen offenen Gebauden,Scenen der Erscheinungen des Herrn bis zu seiner Himmelfahrt. Rechts und links vom Hei- lande vier knieende und betende Donatrices und Donator in Ordenstracht.
+
+Hervorragendes und hochinteressantes Bild des sehr seltenen Meisters.
+
+Holz.Hohe 114,Breite 86 Cent.
+- 11 Die Trinker.
+
+unterhaltend.
+
+## PIETER DE BLOOT,
+
+lebte in Rotterdam,wo er 1652 begraben wurde.
+
+In einem kellerartigen Raume drei hollandische Bauern trinkend und sich
+
+In hubschem Tone gut ausgefuhrtes Bildchen.
+
+Holz.Hohe 28,Breite 201/e Cent.
+
+## BALTH.VAN DEN BOSCH,
+
+- 12 Interieur.
+
+geb.zu Antwerpen 1675; daselbst 1715.
+
+Reich mit Gemalden ausgestattete Galerie, in welcher ein Mann sich an zwei Bildern zu schaffen macht; an der Erde Globus und Folianten, sowie zwei spielende
+
+Hunde.
+
+Sehr gutes Bild von trefflicher Composition und Anordnung, sowie schoner Farbengebung. Bezeichnet.
+
+Leinwand.Hohe 88,Breite 122 Cent.
+
+## SANDRO BOTTICELLI (SCHULE).
+
+Die jugendliche Gottesmutter in rothem Kleide und blauem Mantel kniet in Anbetung vor dem an der Erde auf einem Strohbuindel liegenden Jesusknaben, dem sich der kleine Johannes liebevoll genahert; links der hl. Josef und im Hintergrunde Gebirgslandschaft mit Stadtansicht.
+
+- 13 Die hl. Familie.
+
+Sehr interessantes Bild von strenger Zeichnung, tiefernstem Ausdruck und schonem Colorit.
+
+Holz.Rund.Diam.84 Cent.
+
+## FRANCOIS BOUCHER,
+
+geb.zu Paris 1703; daselbst 1770.
+
+- 14 Mythologische Allegorie.
+
+Auf Wolken sitzt Venus, zu einem vor ihr neben Waffen knieenden Alten redend; in ihrer Umgebung Amor,blumenstreuende Amoretten etc.; links die drei Grazien. Gutes Bild von abgerundeter Composition,
+
+Leinwand. Oval. Hohe 66, Breite 82 Cent.
+
+## PIETER BOUT und ADR.FR.BOUDEWYNS,
+
+im XVll. Jahrhundert zu Brussel thatig.
+
+- 15 Landschaft mit reicher Staffage.
+
+Links liegt an einer Anhohe ein von mehreren Gebaulichkeiten umgebenes
+
+Schloss. Eine Gruppe hoher Baume theilt die Landschaft nach rechts zu einer weiten Fernsicht. Den Vordergrund belebt eine reiche Staffage mit Wagen,Reitern mit ihren Hunden,Verkaufern und Kaufern etc.etc.
+
+Schone figurenreiche Composition.
+
+Leinwand. Hohe 3912,Breite 52 Cent.
+- 16 Landschaft.
+
+In der von Baumen und Strauchwerk bestandenen Landschaft erheben sich links und im Mittelgrunde machtige verfallene Gebaudereste; im Vorgrunde rechts Reiter mit Pilger im Gesprache.
+
+Feintoniges Bild von fleissigster Durchfuhrung.
+
+Holz.Hohe 381/e,Breite 49 Cent.
+
+## PIETER BRUEGHEL,gen.BAUERN-BRUEGHEL (SCHULE).
+
+- 17 Grosses Zeltlager.
+
+In gebirgigem Gelande sind zahlreiche Zelte aufgeschlagen,vor und neben denen zahllose Soldaten,Reiter,Karawane etc.etc.
+
+Interessante Composition.
+
+Holz.Oval.Hohe 60,Breite 74 Cent.
+
+## PIETER BRUEGHEL d. J., gen. HOLLEN-BRUEGHEL,
+
+geb.zu Bruissel Ende 1564;zu Antwerpen 1637 od.1638.
+
+- 18 3Hollandische Bauernhochzeit.
+
+Auf dem von den Hausern eines Dorfes umgebenen Platze eine grosse Bauerngesellschaft bei Trinkgelage etc.; wahrend einige der links vor rothem Vorhange sitzenden Braut ihre Geschenke darbringen, fihren vier Paare zu dem Spiel eines Dudelsackpfeifers einen Tanz auf.
+
+Hollandisches Sittenbild von lebendiger Composition und guter Farbengebung.
+
+## 19 Landschaft.
+
+- 20Pieta.
+
+Madonna sitzend,den Leichnam Christi auf dem Schoosse haltend, um den
+
+Magdalena und zwei Engel wehklagen.
+
+Interessantes gutes Bild.
+
+Holz.Hohe 93,Breite 84 Cent.
+
+## BARTH. DE BRUYN (angeblich).
+
+## 21Der Weltheiland.
+
+Brustbild des Erlosers im Profile nach links, die Rechte segnend erhoben haltend.
+
+Fein ausgefuhrtes Bild von trefflicher Carnation.
+
+Holz.Hohe 34,Breite 25 Cent.
+
+Holz. Hohe 75,Breite 109 Cent.
+
+Von reich bewachsenen Ruinen bestandene Landschaft,in welcher einige Reiter und Fussganger.
+
+Holz.Hohe 121/e,Breite 111/e Cent.
+
+## ABRAHAM DE BRUYN (SCHULE).
+
+## BARTH.BREENBERGH,
+
+geb.zu Deventer 1600;zu Amsterdam 1660 od.1663.
+- 23 Interieur.
+
+In einer einfach eingerichteten Stube sitzen um einen rothgedeckten Tisch zwei Cavaliere und eine Dame, letztere die Thonpfeife rauchend;wahrend der ihr gegenibersitzende Cavalier, auf seinen Ellbogen gestutzt, eingeschlafen,halt sein Genosse das gefuillte Weinglas erhoben.
+
+In gelblich-braunem Tone trefflich ausgefuhrtes Bild, fein in der Zeichnung und von schoner abgerundeter Composition.Bezeichnet und datirt 1632.
+
+Holz.Hohe 301/,Breite 44 Cent.
+
+## JACQUES COURTOIS, gen. LE BOURGUIGNON,
+
+geb.zu Saint-Hippolyte 1621; zu Rom 1676.
+
+- 24Reiterschlacht.
+
+Wildes Kampfgetimmel im Vorgrunde einer Landschaft,in deren gebirgigem Hintergrunde Castell und Stadt.
+
+- 25 Reiterschlacht.
+
+Im Vorgrunde einer weiten Ebene withet unter Berittenen ein heftiger Kampf, der sich bis zum fernsten Hintergrunde rechts ausdehnt.
+
+Lebendige Composition.
+
+Leinwand.Hohe 42,Breite 110 Cent.
+
+## ABR.CUYLENBORCH,
+
+thatig um die Mitte des XVIl. Jahrh.; zu Utrecht 1658.
+
+- 26 Mythologische Darstellung.
+
+An einem Brunnen im Vorgrunde links sitzen bei an der Erde liegenden Fruchten drei Nymphen und ein krugtragender Bacchant; im Hintergrunde vor bereicht;rechts weite Fernsicht.
+
+In braunlichem Tone gehaltenes,ganz in der Art des Poelemburgh's ausgefihrtes Bild. Holz.Hohe 50,Breite 75 Cent.
+
+## BARTH. DE BRUYN(Art).
+
+## 22Mannliches Bildniss.
+
+Halbfigur eines alteren Mannes in pelzverbramtem Mantel und schwarzem Barett en face dargestellt,hinter einer Steinbruistung stehend.Auf dem grunen Hintergrunde die Bezeichnung:Aetatis 51 Anno 1531.
+
+Treffliches Bild von lebenswahrem Ausdruck und guter Durchfuhrung.
+
+## PIETER CODDE,
+
+geb.zu Amsterdam 1599 od.1600; daselbst 1678.
+
+Holz.Hohe 23,Breite 33 Cent.
+
+Leinwand.Hohe 45,Breite 58 Cent.
+## AELBERT CUYP,
+
+geb.zu Dordrecht 1620; daselbst 1691.
+
+Ein aufrecht in seinem Bette sitzender blonder Knabe, dessen Oberkorper vollig
+
+- 27 Zwei Kinder mit einer Katze.
+
+nackt, halt auf seinem Schoosse eine Katze, wahrend ihm ein Altersgenosse einen Apfel bringt.
+
+In Behandlung und Colorit gleich schon ausgefuhrtes Bild.
+
+- 28Canallandschaft.
+
+Leinwand. Hohe 67,Breite 561 Cent.
+
+## AELBERT CUYP (SCHULE).
+
+Links hugelige Anhohe, auf der Reiter, mehrere Figuren und Heerde. Im Hinter-
+
+Holz. Hohe 40,Breite 55 Cent.
+
+grunde rechts Windmuhle und Hauser einer Ortschaft. Abendbeleuchtung. Gutes Bild. Unten rechts undeutliche Signatur.
+
+- 29 Friihsticksbild.
+
+Bezeichnet: A. D. 1653.
+
+Auf einem Tische Schissel mit gebratenen Vogeln, dabei Citrone, Henkelkrug, halbgefillter Romer und Brod.
+
+Gutes Bildchen.Bezeichnet wie oben.
+
+Holz.Hohe 21,Breite 251/Cent.
+
+## JACOBUS DELFF,
+
+geb.zu Delft 1619;begraben daselbst 1661.
+
+- 30 Weibliches Bildniss.
+
+Brustbild einer Frau in den mittleren Jahren,in schwarzem Kleide mit weissem
+
+Sehr gut ausgefuhrtes Bild von naturwahrer Auffassung.
+
+Schulterkragen und weisser Haube, en face dargestellt.
+
+Holz. Hohe 58,Breite 50 Cent.
+
+## BALTHASAR DENNER,
+
+geb. zu Hamburg 1685; zu Rostock 1749.
+
+Brustbild eines alten bartlosen Mannes in pelzverbramtem Mantel und grinem Untergewande,etwas nach links gewandt,das von sparlichem Haar bedeckte Haupt auf den Beschauer gerichtet.
+
+- 31 Minnliches Bildniss.
+
+Sehr gutes,in der bekannten Manier des Meisters fein ausgefuhrtes Bild von lebenswahrem
+
+Holz. Hohe 53,Breite 431/e Cent.
+
+## ABRAHAMDIEPRAEM,
+
+1648 Mitglied der Dordrechter Malergilde,lebte noch 1674.
+
+Ausdruck.
+
+- 32 Bauernstick.
+
+Bei einer Tonne sitzen in armlicher Schenke zwei Manner,deren einer einen
+
+Krug zum Munde fuhrt, wahrend der andere an einem Kohlenbecken sein Pfeifchen anzundet.
+
+Feintoniges Bild.
+
+Holz. Hohe 271/e,Breite 25 Cent.
+- 33 Die alte Geldwiegerin.
+
+Hinter einem Tische,der besetzt mit Geldsicken, sitzt eine geizige Alte, mit Goldwiegen beschaftigt.
+
+## KAREL DUJARDIN,
+
+geb.zu Amsterdam um 1625;+ zu Venedig 1678.
+
+- 34 Landschaft mit Vieh.
+
+Rechts lagert eine Herde von Kuhen, Ziegen, Schafen und Eseln um das schakernde Hirtenpaar herum,am Fusse eines Erdhugels, auf dem an einem Wald- eingange eine Schafherde. Links weite Fernsicht.
+
+Schone reiche Composition, vortrefflich in Ausfuhrung und Colorit. Unten rechts bezeichnet:
+
+K.du Jardin ft.1671.
+
+- 35 Landschaft mit Vieh.
+
+Weit ausgedehntes,hugeliges Gelande,in welchem Ochse,Kuh, sowie Esel mit Fillen, theils an der Erde lagernd, von dem rechts stehenden Hirten bewacht werden.
+
+In warmem Goldtone vortreflich ausgefuhrtes Bild. Bezeichnet:K. Du Jardin fe. Leinwand. Hohe 36,Breite 50 Cent.
+
+## CORNELIS DUSART,
+
+geb.zu Haarlem 1660; daselbst 1704.
+
+Leinwand. Hohe 49, Breite 59 Cent.
+
+- 36 Interieur.
+
+In einer althollandischen Stube zwei Manner und eine Frau mit kleinem Kinde um einen Tisch gruppirt, auf welchem mehrere Laibe Brod liegen; im Hintergrunde mehrere andere Personen.
+
+Skizzenhaft behandeltes Bildchen von flotter Zeichnung.
+
+Leinwand auf Holz. Hohe 20, Breite 18 Cent.
+
+## ANTON VAN DYCK,
+
+geb.zu Antwerpen 1599; zu London 1641.
+
+- 37 Andromeda.
+
+Vollig entblosst steht die Konigstochter an den Felsen geschmiedet und schaut angstlich auf das ihr nahende Ungethum; in der Hohe Perseus auf gefluigeltem Rosse.
+
+Sehr gut ausgefuhrtes Bild.
+
+Leinwand.Hohe 60,Breite 48 Cent.
+
+## ANT.VAN DYCK (SCHULE).
+
+- 38 Familienbild.
+
+stehenden Manne, der im Profile nach links dargestellt, geliebkost.
+
+Gut gezeichnetes, grau in grau ausgefuhrtes Bild.
+
+Holz. Hohe 381/,Breite 27 Cent.
+
+## G.DOU (SCHULE).
+
+Holz. Hohe 19,Breite 15 Cent.
+## JACOB VAN ES,
+
+geb.zu Antwerpen um 1596; 1666.
+
+- 39 Grosses Kiichenstick.
+
+In einem weiten Raume steht ein langer Tisch, dicht gefuillt mit Korben und Bottichen mit herrlichem Obst, Gemisen,Fleischsticken etc. Dabei liegt, theils auf weissem Linnen,todtes Geflugel; an der Wand hangen Hasen, Rebhuhn etc.Vor dem Tische steht bei einem Puter beschaftigt der Koch, an dem ein Hund heraufspringt; rechts neben ihm, von einem Knaben beobachtet,eine Frau, Geflugel auf einen Spiess steckend. Durch eine geoffnete Thire links blickt man in eine prachtig ausgestattete Kiche,in deren Hintergrunde ein auf einem Stuhl sitzender Herr die am Herdfeuer beschaftigte Kochin umarmt.
+
+Hervorragendes Bild,ungemein reich in der Composition, prachtig im Colorit, den besten Arbeiten des Frans Snyders nahestehend.
+
+Leinwand.Hohe 120,Breite 210 Cent.
+
+## FRANZ DE PAULA FERG (zugeschrieben).
+
+- 40 Jahrmarkt im Dorfe.
+
+Auf freiem Plane, zu dessen Seiten mehrere Bauernhauser, sind Buden und Zelte aufgeschlagen,zwischen denen sich zahllose Figuren der verschiedensten Art bewegen; dabei gekoppelte Pferde,Herden etc.
+
+Figurenreiche Composition.
+
+- 41Maleratelier.
+
+Leinwand.Hohe 31,Breite 40 Cent.
+
+## FRANS FRANKEN,
+
+geb.1581;1642.
+
+Vor der Staffelei sitzt der Kunstler,nach einem Modell die von einer Frauengruppe umgebene Dido malend. Ihm schaut ein Furst in romischer Gewandung mit zahlreichem Gefolge zu. Von kleineren Gruppen betrachtet, sind die Wande gefillt mit theils bekannten Bildern,die Tische mit antiken Figuren und Busten und anderen
+
+Hochinteressantes reiches Bild, in klarer Farbengebung vortrefflich ausgefuhrt.
+
+Holz. Hohe 78, Breite 112 Cent.
+
+## FRANZOSISCHE SCHULE.
+
+## 42 Perseus und Andromeda.
+
+Letztere,an den Felsen geschmiedet, schreckt vor dem nahenden Seeungeheuer zurick. In der Hohe in einer Wolke der rettungbringende Perseus, sowie fackeltragende Amorette.
+
+Kunstgegenstanden.
+
+Holz. Hohe 12, Breite 9 Cent.
+- 43 Thierstick.
+
+## JAN FYT,
+
+geb.zu Antwerpen 1611; daselbst 1661.
+
+Im Vorgrunde eines hugeligen Gelandes steht in Lebensgrosse ein schwarz-weiss gefleckter Jagdhund, mit der linken Vorderpfote ein Wiesel fassend; er schaut sich, den Kopf voll nach ruckwarts drehend, nach einem zweiten Wiesel, das auf dem Hugel erscheint, um.
+
+Leinwand. Hohe 97,Breite 122 Cent.
+
+Vortreffliches Bild mit meisterhafter Wiedergabe der Thier-Charaktere. Unten links voll bezeichnet: J.Fyt F.
+
+## JAN VAN GOYEN,
+
+geb.zu Leyden 1596; im Haag 1656.
+
+## 44Canallandschaft.
+
+Die ganze linke Seite der Composition nimmt das von Booten belebte Wasser ein; rechts zieht sich das gebirgige Ufer hin,auf dem im Vorgrunde ein grosser Wart-
+
+Hubsches Bildchen in braunem Goldtone.
+
+thurm,bei dem mehrere Kahne landen.
+
+Holz. Hohe 20, Breite 25 Cent.
+
+## JEAN BAPTISTE GREUZE,
+
+- 45 Die Hausandacht.
+
+geb.zu Tournus 1725; zu Paris 1805.
+
+An einem Tische sitzt ein Alter,den zahlreich um ihn versammelten Mitgliedern seiner Familie,die andachtig zuhoren,aus einer Hauspostille vorlesend.
+
+Leinwand. Hohe 73, Breite 87 Cent.
+
+Sehr schones Bild von vortrefflicher Composition und vollendeter Ausfuhrung.
+
+## FRANCESCO GUARDI (SCHULE).
+
+- 46 Partie aus Venedig.
+
+Grosse Gebaude zu den Seiten des iberbruickten Canals, vom Vollmonde
+
+Holz.Hohe 35,Breite 27 Cent.
+
+## FRANS HALS D. A.,
+
+geb. zu Antwerpen um 1580; daselbst 1666.
+
+- Bildniss eines spanischen Officiers.
+
+malerisch beleuchtet.
+
+- 47
+
+Lebensgrosses Gurtelbild, nach rechts gewandt, geradeaus blickend, in braunem Koller mit Brustharnisch,Scharpe und breitem Spitzenkragen; das lange lockige Haar bedeckt eingrosser schwarzer Schlapphut; die Rechte hat er in die Seite gestemmt.
+
+Rechts durch eine Fensteroffnung Blick in eine Landschaft.
+
+Pastos gemaltes,breit behandeltes, interessantes Bild.
+
+Holz. Hohe S7, Breite 66 Cent.
+## 48 Mannliches Bildniss.
+
+Halbfigur eines Mannes in grauem Gewande, breitem weissem Umlegekragen und grossem Schlapphute, en face an einem Tische sitzend beim Wurfelspiel.
+
+Ausserordentlich kraftig gemaltes,breit behandeltes Bild.
+
+## J.HARTMANN,
+
+Deutscher Meister aus dem Ende des XVI. Jahrhunderts.
+
+- 49 Winterlandschaft.
+
+Im Mittelgrunde die Hauser und Kirche eines Dorfes mit schneebedeckten Dachern. Der freie Platz des Vorgrundes ist reich staffirt mit ausziehenden Jagern etc.Rechts zugefrorener Weiher,auf dessen Eise mehrere Kinder.
+
+Holz.Hohe 30,Breite 42 Cent.
+
+## JAN DAVIDSZ. DE HEEM,
+
+geb.zu Utrecht 1606; zu Antwerpen im Winter 1683/4.
+
+Holz. Hohe S11e,Breite 66 Cent.
+
+- 50 Stillleben.
+
+Auf einer Tafel, die mit blauer Decke behangen,ein in Metall gefasster hoher Romer und eine Schussel mit Trauben und verschiedenen anderen Fruchten.
+
+Meisterwerk von prachtiger Composition, sehr gutem Colorit und vorziglicher tadelloser
+
+Erhaltung.Mit dem vollen Namen bezeichnet.
+
+Leinwand. Hohe 56,Breite 70 Cent.
+
+## CORNELIS DE HEEM,
+
+geb.zu Leiden 1631;zu Antwerpen 1695.
+
+- 51 Stillleben.
+
+Auf einem Steintische liegen vor halbgefilltem Weinglase Trauben, Apricosen, Austern, sowie halbgeschalte Citrone in malerischer Anordnung,von Weinranken und Aehren durchzogen.
+
+Fein und vollendet ausgefuhrtes Bild von prachtigster Farbengebung.
+
+Leinwand auf Holz. Hohe 40, Breite 49 Cent.
+
+## EGBERT VAN HEEMSKERK,
+
+geb.zu Haarlem 1645; zu London 1704.
+
+- 52 Die Trinker.
+
+Hollandischer Bauer in betrunkenem Zustande,den Krug in den Handen haltend, auf einem Stuble sitzend,wahrend er von einem gleichfalls betrunkenen Genossen gehalten wird.
+
+Gutes Bildchen von treffendem Ausdruck und leichtem weichem Colorit.
+
+Holz.Hohe 20,Breite 18 Cent.
+
+## FRANS HALS (ART).
+- 53 Landschaft.
+
+## WILLEM DE HEUSCH,
+
+geb.zu Utrecht angeblich 1638; daselbst nach 1669.
+
+Links reich bewachsener, von Ruinen bestandener Felsen, vor welchem an einem kleinen Wasser zwei Manner beim Fischen;im Mittelgrunde dehnt sich das von hohen Baumen bestandene Gelande bis zu weiter, von Gebirgszug begrenzter Ferne hin. Als Staffage Reiter, sowie Jager mit grosser Hundemeute.
+
+In seiner Gesammtwirkung wie in den einzelnen Partieen gleich meisterhaftes Bild. Leinwand. Hohe 54,Breite 69 Cent.
+
+## JAN VAN DER HEYDE,
+
+geb.zu Gorkum 1637;zu Amsterdam 1712.
+
+- 54Architekturbild.
+
+Den Mittelgrund durchzieht der von Kahnen belebte Canal.Auf dem jenseitigen Ufer ein grosses Gebaude, zu dessen Seiten kleinere Hauser, Villen mit Garten ete. Vor demselben bewegt sich, wie im Vorgrunde des diesseitigen Ufers,eine reiche Staffage: Wagen, Spazierganger, Hunde, Huhner etc.
+
+Fleissig und fein durchgefuhrtes Bild. Bezeichnet: J.v.d. Heyden fec. 1680.
+
+Holz.Hohe 371/,Breite 511/ Cent.
+
+## FRANZ HOCHECKER,
+
+geb. zu Frankfurt a.M.;1782.
+
+## 55
+
+- Winterlandschaft.
+
+Das Eis des die linke Seite und den ganzen Vordergrund einnehmenden Flusses ist belebt von Schlittschuhlaufern und Schlittenfahrern.Rechts bei belaubten Baumen eine Schenke.
+
+Hubsches Bildchen in klarer Farbengebung.
+
+Holz. Hohe 27,Breite 36 Cent.
+
+## MELCHIOR D'HONDECOETER,
+
+geb.zu Utrecht 1636; zu Amsterdam 1695.
+
+- 56 Die Gansefamilie.
+
+Im Vorgrunde einer sich nach rechts weit ausdehnenden Landschaft lagert vor einem Felsgebilde, iber das sich ein Wasserfall ergiesst, eine Anzahl Ganse; andere schwimmen links auf einem von Schilf und Gebisch beschatteten Weiher.
+
+Gutes Bild in hubschem Ton.
+
+Holz.Hohe 24,Breite 40 Cent.
+
+## GHERARD VAN HONTHORST,
+
+geb.zu Utrecht 1590; daselbst 1654.
+
+- 57Minnlicher Studienkopf.
+
+Lebensgrosses Brustbild eines Kriegers in Dreiviertel-Wendung nach links, der
+
+Kopf en face, mit Brustharnisch und grossem Federbarett.
+
+Interessante,breit behandelte Studie.
+
+Leinwand. Hohe 51,Breite 37 Cent.
+## 58Strandansicht.
+
+## Bezeichnet: J. J. 1654.
+
+An dem Strande links, auf dem Windmuhle und mehrere grossere Hauser, landen mehrere grossere Schiffe mit vollen Segeln;rechts das von zahlreichen Booten belebte Meer; im Hintergrunde, auf einer Landzunge, Kirche, Leuchtthurm etc.
+
+Holz. Hohe 38, Breite 50 Cent.
+
+Gutes Bild.Links bezeichnet wie oben.
+
+## H. JANSSENS,
+
+Antwerpener Meister; XVIl. Jahrhundert.
+
+## Weibliches Bildniss.
+
+Brustbild einer juingeren Dame,en face,Perlschnure im Haar, einen rothen,von
+
+Gut ausgefuhrtes Bild.
+
+## 60 Dorflandschaft.
+
+Agraffe gehaltenen Mantel ibergeworfen.
+
+Leinwand.Hohe 49,Breite 37 Cent.
+
+## JAN VAN KESSEL,
+
+geb.zu Antwerpen 1626;+ daselbst 1676.
+
+Zwischen Gruppen hoher Baume liegen Kirche und Hauser einer Ortschaft. Den Mittelgrund durchzieht ein von Brucke iberwolbter Fluss.Als Staffage Tanz auf einem freien Platze vor der Schenke, Obsternte, bei ihren Pferden schlafende Stallknechte etc.
+
+Holz. Hohe 311e,Breite 43 Cent.
+
+Gut durchgefuhrtes Bild in Brueghel's Art.Bezeichnet.
+
+## JAN VAN KICK,
+
+Niederlandischer Meister aus der Mitte des XVIl. Jahrh.
+
+## 61 In der Wachtstube.
+
+Im Vorgrunde rechts bei umgestirzter Tonne Waffen, Rustungstheile, Fahne und anderes Kriegsgerath; im Hintergrunde zwei Krieger beim Wurfelspiel auf der
+
+Trommel,welchem Treiben drei Genossen zuschauen.
+
+Interessantes Bild von schoner Composition und gutem Tone, sowie von vortrefflicherFarbengebung.
+
+## PIETER LEERMANS,
+
+Niederlandischer Meister des XVIl.Jahrh.
+
+## 59
+
+## 62 Doppelportrait.
+
+Vor landschaftlichem Hintergrunde rechts das Gurtelbild einer reich gekleideten jungeren Dame in mit Perlschnuren,Agraffen und Spitzen geschmucktem Atlasgewande, ein neben ihr stehendes,gleichfalls reich gekleidetes kleines Madchen umfassend.
+
+Ungemein fein und zart ausgefuhrtes,vortreffliches Bild. Bezeichnet:P.Leermans Ano 1681. Holz.Hohe 33,Breite 241/ Cent.
+
+Holz. Hohe 67,Breite 54 Cent.
+- 66 Seekiiste.
+
+Im Vorgrunde der von Ruinen und hohen Baumen bestandene und von zahlreichen Personen belebte Strand; im Hintergrunde die rechts von hohen Felsen begrenzte See,auf der mehrere Segelboote.
+
+In Farbengebung und Ton gleich ansprechendes hubsches Bildchen.
+
+Holz.Hohe 35,Breite 33 Cent.
+
+## JAKOB VAN LOO,
+
+geb. zu Sluis um 1614; zu Paris 1670.
+
+- 67 Weibliches Bildniss.
+
+Halbfigur einer jungen Dame in blauem,reich besticktem decolletirtem Kleide und rothem Mantel,etwas nach links gewandt; das von blumengeschmickter Puderfrisur bedeckte Haupt ist auf den Beschauer gerichtet.
+
+Vortreffliches Bild von lebenswahrem Ausdruck und schonem Colorit.
+
+Leinwand. Hohe 74,Breite 60 Cent. In geschnitztem Holzrahmen.
+
+## GABR. DE LEEUW,
+
+geb. zu Dordrecht 1643; daselbst 1688.
+
+- 63 Adam und Eva im Paradiese.
+
+In einer baumreichen Landschaft, welche von zahlreichen Thieren der mannigfachsten Art belebt wird, das erste Menschenpaar lustwandelnd; in der Hohe Engelgruppe.
+
+Holz. Hohe 76, Breite 68 Cent.
+
+Interessantes Bild.
+
+## GIOV. ANT. LICINIO, REGILLO DA PORDENONE (?)
+
+geb.1483; zu Ferrara 1539.
+
+- 64 Der hl.Johannes der Taufer.
+
+Lebensgrosses jugendliches Brustbild in Dreiviertelwendung nach rechts,in niedersenkend,blickt er auf die in der Rechten gehaltene Schriftrolle.
+
+Sehr schones Bild in meisterhafter Behandlung des Helldunkels.
+
+Leinwand.Hohe 66,Breite 55 Cent.
+
+## JOH.LINGELBACH,
+
+geb.zu Frankfurt a. M. 1625;  zu Amsterdam 1687.
+
+- 65 Italienischer Seehafen.
+
+Der von mehreren Schiffen belebte Hafen bespuilt links die hohe Ufermauer mit rundem Thurm;auf dem den Vorgrund einnehmenden Ufer mehrere Manner,theils an der Erde lagernd; rechts bei geankertem Boote wird ein Maulthier beladen.
+
+Schones Bild von lebhaftem Ausdruck und guter Erhaltung. Bezeichnet.
+
+Leinwand.Hohe 87,Breite 75 Cent.
+- 69 Das Pantoffelspiel.
+
+## CLAUDE LORRAIN,
+
+geb.zu Chamagne an der Mosel 1600; 1682.
+
+## 68 Italienische Landschaft.
+
+Hugeliges Gelande; im Mittelgrunde ein Wasserfall; links Tempelruine.Als Staffage Schafer.
+
+Holz.Hohe 16,Breite 21 Cent.
+
+Breit behandeltes, gutes Bildchen.
+
+## GERRIT LUNDENS
+
+geb.zu Amsterdam 1622;lebte daselbst noch 1677.
+
+Als Hauptigur, auf einem Stuhle sitzend, eine Frau mit ausgezogenem Pantoffel, den linken Fuss hochhaltend;um sie herum sind verschiedene Figuren gruppirt,um mit dem Spiele zu beginnen.Im Hintergrunde rechts mehrere dem Spiele zuschauende Personen am offenen Herdfeuer.
+
+schoner Farbengebung.
+
+- 70
+- Kinderportrait.
+
+Interessantes hollandisches Sittenbild in reicher Composition, vortrefflich von Qualitat und
+
+Leinwand. Hohe 33,Breite 39 Cent.
+
+## NICOLAS MAES,
+
+geb.zu Dordrecht 1632; zu Amsterdam 1693.
+
+Vor zurickgeschobenem Vorhange auf einem Steinsockel ein in Blau gekleidetes kleines Madchen mit weissem Feder-Kopfputz,in der Linken ein Rasselchen haltend. Schones Bild von lebenswahrem Ausdruck.
+
+Leinwand.Hohe S8,Breite 70 Cent.
+
+## NICOLAS MAES (ART).
+
+- 71 Weibliches Bildniss.
+
+Brustbild einer Furstin in leichter Wendung nach links,in weissem Atlasgewande, das reich besetzt mit Spitzen, Spangen,Perlschniren und Agraffen,uber die Schul-
+
+Schones gutes Bild.
+
+tern einen Hermelinmantel geworfen.
+
+Leinwand.In Oval. Hohe 41,Breite 34 Cent.
+
+- 72 Ecce homo.
+
+## QUINTEN MASSYS (SCHULE).
+
+Brustbild des dornengekronten Heilandes, en face. Ausdrucksvolles Bild:
+
+Holz.Hohe 38,Breite 34 Cent.
+- 77Landschaft.
+
+## JAN BAPTIST VAN DER MEIREN,
+
+## 73 Landschaft.
+
+Gutes interessantes Bild.
+
+## 74 Triptychon.
+
+1664 bis um 1708.
+
+Weite Fernsicht mit hohem Gebirgszug und einem von Kahnen belebten Flusse im Mittelgrunde.Links auf einer Anhohe Thurm und Schenke. Im Vorgrunde als Staffage mehrere Figuren,Herde etc.
+
+Leinwand. Hohe 36,Breite 42 Cent.
+
+## HANS MEMLING (SCHULE).
+
+Im Mittelbilde Brustbild der hl. Elisabeth,in rothem Mantel mit Krone und Scepter vor landschaftlichem Hintergrunde en face dargestellt; die beiden Flugel mit den Standfiguren eines mannlichen und einer weiblichen Heiligen.
+
+Colorit.
+
+- 75 Weibliches Bildniss.
+
+Das sehr gut erhaltene Bild ist von ausserst feiner, meisterhafter Ausfuhrung und sehr schonem
+
+Holz. Hohe des Mittelbildes 38,Breite 27,Breite der Flugel je 131/ Cent.
+
+## PH. MERCIER,
+
+Mitte XVIll. Jahrh.
+
+Kniefigur einer juingeren Dame mit Puderfrisur und blauem Atlasgewande mit Spitzenirmeln,in Gartenlandschaft stehend. Mit der Rechten steckt sie sich eine Rose vor den Busen, wahrend sie mit der Linken eine zweite Rose bricht.
+
+Sehr schones wirkungsvolles Portrait,links bezeichnet:Ph.Mercier fecit an= 1740.
+
+Leinwand. Hohe 128,Breite 102 Cent.
+
+## GABRIEL METSU,
+
+geb.zu Leiden 1629 oder 1630; zu Amsterdam 1667.
+
+An einem mit bunter Decke belegtem Tische, auf welchem ein aufgeschlagenes
+
+- 76 Musikalische Unterhaltung.
+
+Notenheft liegt,sitzt eine junge Dame,die Guitarre spielend,wahrend ein hinter ihr stehender junger Mann aufmerksam zuhort.
+
+Holz.Hohe 20,Breite 161/e Cent.
+
+Hubsches Bildchen von guter Farbengebung.
+
+## TH.MICHAU,
+
+geb.zu Doornik (Tournay)1676; zu Antwerpen 1765.
+
+Durch baumreiches Gelande zieht sich links ein kleines Wasser, an welchem eine Herde von Kihen bei der Tranke; das rechts leicht ansteigende,von einzelnen Bauernhausern bestandene Terrain wird von einer grossen Figurenstaffage belebt, als deren Hauptgruppe bei einem Gemisekarren ein Bauer sich mit zwei Schimmeln zu schaffen macht.
+
+Sehr schones Bild von reicher Composition in vortrefflichem,malerischem Tone. Unten rechts
+
+Holz.Hohe 56,Breite 90 Cent.
+
+bezeichnet:T.Michau.
+- 79
+- 81 Nachtstiick.
+
+Breiter zugefrorener Flussarm,der beiderseits von den Hausern eines Dorfes mit Windmihle umstanden und der von dem hinter Wolken fast versteckten Monde erhellt ist,wird von zahlreichen Schlittschuhlaufern etc. belebt.
+
+Mit vorzuglichen Lichteffecten wirkungsvoll ausgefuhrtes Bild.
+
+Holz. Hohe 36,Breite 45 Cent.
+
+## AART VAN DER NEER (Manier).
+
+- Nachtlandschaft.
+
+Hugeliges Gelande mit hohen Baumen und Buschwerk,zwischen denen einzelne Hauser, von dem hinter Wolken versteckten Monde schwach beleuchtet.
+
+Holz.Hohe 26,Breite 39 Cent.
+
+## CONST.NETSCHER,
+
+geb. im Haag 1668; daselbst 1722.
+
+- 83 Minnliches Bildniss.
+
+In ganzer Figur en face dargestellt in brauner Kleidung,rothem Mantel und weissem Halstuche sowie weisser Allongeperucke,an einem Steinsockel sitzend;rechts Blick in Parklandschaft mit der Standfigur der Minerva.
+
+Ausgezeichnetes Portrait, fein in der Ausfuhrung und von noblem Colorit. Bezeichnet: Const. Netscher 1706.
+
+Leinwand. Hohe 74, Breite 61 Cent.
+
+- 82
+
+## PIERRE MIGNARD (zugeschrieben).
+
+- 78 Madonna mit dem Kinde.
+
+Kniefigur der Maria, dem Kinde die Brust reichend, im Vorgrunde einer
+
+Landschaft.
+
+Holz. Hohe 261/e,Breite 20 Cent.
+
+## HENDRIK MOMMERS,
+
+angeblich geb.zu Haarlem 1623;1697 (?).
+
+- Italienische Landschaft mit Vieh.
+
+Im Vorgrunde einer Gebirgslandschaft steht ein Treiber mit beladenem Maulesel vor grosser antiker Ruine, sich mit zwei an einer Steinfontaine beschaftigten Hirtinnen unterhaltend, deren Ziegen und Schafe im Vorgrunde lagern.
+
+Schones Bild in harmonischer Farbengebung und von hubscher Composition.
+
+Holz.Hohe 501/e,Breite 43 Cent.
+
+## DANIEL MYTENS,
+
+geb.angeblich im Haag 1590;lebte noch 1642.
+
+- 80 Weibliches Bildniss.
+
+Lebensgrosses Brustbild nach links, geradeausblickend, in schwarzem,reich mit Perlschnuren behangenem Gewande und breitem Steinkragen.
+
+Braunlicher Grund. Vortrefflich behandeltes schones Bild.
+
+Leinwand. Hohe 80,Breite 65 Cent.
+
+## AERT VAN DER NEER,
+
+geb.zu Amsterdam 1603; daselbst 1677.
+## 84 Interieur.
+
+## MATHIJS NEVEU,
+
+geb.zu Leiden 1647,lebte noch zu Amsterdam 1719.
+
+An einem Tische mit zurickgeschobenem buntem Teppich,auf dem Schissel mit Austern,Brod etc., sitzt eine jugendliche Frauengestalt in Kniefigur,auf mehrere Goldstucke zeigend. Hinter ihr, die Hand auf ihre Schulter legend, ein Alter; links Dienerin mit Flasche.
+
+Holz. Hohe 34, Breite 28 Cent.
+
+Glatt behandeltes,vorzugliches Bild.
+
+- 85 Flusslandschaft.
+
+## NIEDERLANDISCHER MEISTER.
+
+Der von vielen bemannten Booten belebte Fluss, an dessen Ufern Bauernhauser, zieht sich bis zum Vorgrunde hin.Figurenstaffage.
+
+Leinwand. Hohe 39,Breite 57 Cent.
+
+## OBERDEUTSCHER MEISTER
+
+des XVI. Jahrhunderts.
+
+Brustbild en face eines jingeren Mannes in schwarzem Gewande mit Chemisette
+
+Holz. Hohe 42,Breite 35 Cent.
+
+- 86Bildniss.
+
+und Hut, in der Rechten eine Rolle haltend.
+
+## ADRIAEN VAN OSTADE,
+
+geb.zu Haarlem 1610; daselbst 1675.
+
+In einer armlichen Dorfschenke sitzt eine Gruppe dreier Bauern,zechend und rauchend. Die vom Rucken gesehene vordere Hauptfigur erhebt mit der Rechten ein grosses Glas.
+
+- 87 Die Trinker.
+
+Hubsche Composition,in schonem Goldton vortrefflich ausgefuhrt.
+
+Holz. Hohe 27,Breite 221e Cent.
+
+## ISACK VAN OSTADE,
+
+- 88 Stallinneres.
+
+geb.zu Haarlem 1621;↑ daselbst 1657.
+
+Rothschimmel und Brauner an der Krippe stehend,neben welcher einige Schafe an der Erde lagern; im Mittelgrunde ein mit Futterschitten beschaftigter Bauer und im Hintergrunde rechts eine Kuh.
+
+Holz. Hohe 30/e, Breite 42 Cent.
+
+In goldig warmem Tone fein ausgefuhrtes,gut beleuchtetes Bild.
+
+## PALAMEDES PALAMEDESZ STEVAERTS,
+
+- 89Reiterschlacht.
+
+geb.zu London 1607; zu Delft 1638.
+
+Im Vorgrunde einer weiten Flachlandschaft wuthet unter Berittenen ein heftiger
+
+Lebendig componirtes Bild von guter Farbung.
+
+Kampf. An der Erde Getodtete,Armaturstuicke,Pferde etc.
+
+Holz.Hohe 47,Breite 63/e Cent.
+- 90 Marine.
+
+## BONAVENTURA PEETERS,
+
+geb.zu Antwerpen 1614；zu Hoboken 1652.
+
+Unter bewolktem Himmel die aufgeregte See,auf welcher zwei Segelboote sowie links ein bemannter Nachen.
+
+Tuchtig gemaltes Bild von bester Erhaltung.
+
+- 91 Marine.
+
+Holz. Hohe 24, Breite 22 Cent.
+
+## BONAVENTURA PEETERS (MANIER).
+
+Bewegte See mit mehreren Fischerbooten,die mit den hochgehenden Wellen kampfen; rechts blockirtes Wachthaus.
+
+Gutes Bild.
+
+- 93
+- Nachtlicher Brand.
+
+An einem Hafen steht ein Lagerhaus in vollen Flammen; die zu demselben fuhrende Bricke, sowie der Vorgrund sind dicht besetzt mit Loschmannschaften, Neugierigen etc.
+
+Gute Beleuchtungs-Effecte.
+
+- 94 Marine.
+
+Leinwand.Hohe 38,Breite 49 Cent.
+
+## JAN PORCELLIS,
+
+wahrscheinlich geb.zu Gent vor 1600; im Haag gegen 1632.
+
+Hochgehende See mit vier grossen Dreimastern,auf deren einen,mit den hochgehenden Wellen kampfend,ein vollbesetztes Boot zusteuert.
+
+Sehr gutes Bild. Auf dem Boote eine undeutliche Signatur.
+
+Holz.Hohe 3912,Breite 52 Cent.
+
+## PAULUS POTTER (MANIER).
+
+- 95 Viehstiick.
+
+Auf einer Landzunge weiden mehrere Rinder.Im Vorgrunde ein Wasser mit Kahnen. Links weite Fernsicht.
+
+Vorzuglich ausgefuhrtes Bild.
+
+Holz. Hohe 331/2,Breite 46 Cent.
+
+Holz. Hohe 36, Breite 45 Cent.
+
+## EGBERT VAN DER POEL,
+
+geb.zu Delft 1621; zu Rotterdam 1664.
+
+Das den ganzen Vorgrund einnehmende, ansteigende Ufer wird von mehreren
+
+- 92 Strandpartie. (Die Dunen von Scheveningen.)
+
+Fischweibern belebt;in der Mitte des Bildes ein Reiter mit mehreren Weibern im Gesprache. Auf den rechts aufsteigenden Dunen runder Thurm mit Pechkorb.
+
+Vortrefflich ausgefuhrtes Bild von sehr guter Erhaltung. Unten links bezeichnet: E.van der Poel.
+
+Holz.Hohe 41,Breite 55 Cent.
+- 97 Wirthshausscene.
+
+## NICOLAS POUSSIN,
+
+geb.zu Villers in der Normandie 1594; 1665.
+
+Den Mittelgrund der Composition nimmt ein breiter Fluss ein, der rechts einen Wasserfall bildet. Auf dem diesseitigen Ufer zwei Angler,auf dem jenseitigen Tempel und Castell, vor dem eine grosse Herde.
+
+Leinwand. Hohe 36, Breite 56 Cent.
+
+- 96 Italienische Landschaft.
+
+Feingestimmtes schones Bild.
+
+## PIETER QUAST,
+
+im Haag 1646 oder 1647.
+
+Im Innern einer Bauernschenke bei Wein und Tabak vor einem Kamin gruppirt
+
+In Ausfuhrung und Erhaltung gleich treffliches Werk in feinstem Haarlemer Colorit.
+
+eine Gruppe von Mannern und Frauen in Unterhaltung.
+
+Holz.Rund.Durchm.32 Cent.
+
+## GUIDO RENI,
+
+geb.zu Bologna 1575; daselbst 1642.
+
+Vor einem Erdhugel sitzt vollig nackt der kleine Johannes mit der Erloserfahne neben dem Lamme, dem er ein Bindel Heu und Blumen reicht.
+
+- 98Johannesknabe in Landschaft.
+
+Innig empfundenes, anmuthvolles Bild.
+
+Leinwand. Hohe 104,Breite 80 Cent.
+
+## JUSEPE DE RIBERA,gen.LO SPAGNOLETTO,
+
+geb.zu Jativa in Valencia 1588; zu Neapel 1656.
+
+Die Schergen richten das Kreuz mit dem Martyrer auf.
+
+- 99 Die Kreuzigung des hl. Andreas.
+
+Interessantes Bild mit guter Wirkung des Helldunkels.
+
+Leinwand. Hohe 63,Breite 47 Cent.
+
+Der auferstandene Heiland iber dem Grabe schwebend, neben dem die erschreckten Wachter.
+
+## 100 Christi Auferstehung.
+
+Geistvolle flotte Skizze.
+
+- 101 Frauenbildnisse.
+
+Leinwand.Hohe 30,Breite 21 Cent.
+
+## P. P. RUBENS (SCHULE).
+
+Brustbild der Judith und ihrer Dienerin. Ausschnitt aus einem grosseren Bilde. Kraftig gemaltes Bild.
+
+- 102 Damenbildniss.
+
+Brustbild einer jingeren Dame mit Ringkragen und Federhut.
+
+Holz. Hohe 28,Breite 22 Cent.
+
+Leinwand.Hohe 60,Breite 65 Cent.
+## Nach P. P. RUBENS.
+
+Gute Wiederholung der bekannten Composition.
+
+## 103 Die Amazonenschlacht.
+
+## 104 Die Anbetung der Hirten.
+
+Composition.
+
+Holz. Hohe 120, Breite S5 Cent.
+
+Figurenreiche, auch durch Vorsterman's und Witdoeck's Stiche bekannte
+
+Gute Ausfuhrung.
+
+## 105 Das Urtheil des Paris.
+
+In einer baumreichen Landschaft sitzt auf einem Felsblocke der Hirt und fallt das Urtheil uiber die drei vor ihm stehenden Gottinnen;neben dem Hirten Merkur.
+
+Kupfer.Hohe 48,Breite 39 Cent.
+
+Gut ausgefuhrtes Bild.
+
+## 106 Waldeingang.
+
+## JACOB RUYSDAEL (SCHULE).
+
+Rechts und links zu den Seiten einer Lichtung hohe, dichtbelaubte Baume; als
+
+Hubsch gestimmtes Bildchen.
+
+Staffage mehrere Kuhe,deren Hirtin in der Furth des Vorgrundes badet.
+
+Leinwand.Hohe 33,Breite 27 Cent.
+
+## SALOMON VAN RUYSDAEL,
+
+## 107Canallandschaft.
+
+geb.zu Haarlem um 1600; 1670.
+
+Vom linken Hintergrunde her zieht sich der breite,den ganzen Vordergrund einnehmende Canal, auf dessen flachem Ufer rechts die von der Kirche iberragten Hauser eines Dorfes. Bei einem breiten Wege landet ein mit Figuren und Reitern vollbesetztes Boot. Im Vorgrunde rechts Fischer im Kahn.
+
+Holz.Hohe 281/2,Breite 881/eCent.
+
+Schon componirtes Bild,klar in der Farbung.
+
+## DAVID RYCKAERT,
+
+## 108 Bauerntanz.
+
+geb. zu Antwerpen 1612; daselbst 1661.
+
+Auf einem freien Platze vor der Schenke fuhren zwei Paare zum Spiele eines Dudelsackblasers einen Tanz auf, von einer Gruppe von vier Mannern aufmerksam beobachtet.
+
+Holz.Hohe 40,Breite 51 Cent.
+
+Holz. Hohe 37,Breite 46 Cent.
+- 113 Weibliches Bildniss.
+
+## GODFRIED SCHALCKEN;
+
+geb.zu Made 1643;zu Dordrecht; thatig bis 1691.
+
+Vor dem Heilande kniet der unglaubige Apostel, den Auferstandenen fragend anblickend. Im Hintergrunde mehrere andere Apostel,einer eine Kerze haltend,deren
+
+- 109 Der ungliubige Thomas.
+
+Licht die Hauptgruppe hell beleuchtet.
+
+Treffliches Werk des Meisters,von malerischem Reiz in der Lichtwirkung und von feinster Ausfuhrung.
+
+- 110 Der verliebte Alte.
+
+stuck zeigend.
+
+Holz.Hohe 33,Breite 281/e Cent.
+
+Hinter einem Tische sitzt ein Alter, dem neben ihm sitzenden Madchen ein Geld-
+
+Hubsches, warmes Colorit.
+
+Holz.Hohe 25,Breite 24 Cent.
+
+## CHRISTIAN GEORG SCHUTZ,
+
+- 111 Rheinlandschaft.
+
+geb.zu Florsheim a.M.1718; zu Frankfurt 1791.
+
+Der Strom von Kahnen belebt;auf den beiderseitigen Ufern Dorfer;Ruinen und Burgen auf den Hohen;Figurenstaffage.
+
+Holz.Hohe 26,Breite 32 Cent.
+
+Hibsches Bildchen.
+
+- 112 Rheinlandschaft.(Gegenstuick.)
+
+Die beiderseitigen Ufer gebirgig mit Ortschaften, Ruinen und Figurenstaffage. Gleiche Ausfuhrung.
+
+## JAN VAN SCOREL,
+
+Holz. Gleiche Grosse.
+
+geb.zu Scorel bei Alkmar 1495;zu Utrecht 1532.
+
+Brustbild einer jungen Patricierin,mit weisser Haube,schwarzem Costuim,rothen Aermeln und weissem Umhang mit ringgeschmickten Fingern, in der Rechten eine Nelke haltend. Grunlicher Grund.
+
+Holz. Hohe 44,Breite 37 Cent.
+
+Hochfeines Portraitwerk von herber Stilart und meisterlicher Ausfuhrung.
+
+## PIETER SNAYERS,
+
+geb.1681;1752.
+
+Im Vorgrunde einer weiten huigeligen Landschaft withet ein heftiger Kampf zwischen Geharnischten, die theilweise in einzelnen Paaren bereits ins Handgemenge
+
+## 114 Reiterkampf.
+
+gerathen sind; den Boden bedecken schon Gefallene, todte Pferde etc.
+
+Kupfer.Hohe 30,Breite 47 Cent.
+
+Vorzugliches Bild,vortrefflich in der lebhaften Composition und der Ausfuhrung.
+## 117 Interieur.
+
+## J.F. SOOLMAKER,
+
+Niederlandischer Meister des XVIl. Jahrh.
+
+## 115 Landschaft mit Vieh.
+
+Im Vorgrunde einer huigeligen Landschaft mit Felsenthor eine Hirtin, eine Kuh melkend; anderes Vieh lagert um sie.
+
+Vorzuglich ausgefuihrtes Bild.
+
+Leinwand. Hohe 26,Breite 35 Cent.
+
+## SPANISCHE SCHULE DES XVI. JAHRHUNDERTS.
+
+## 116 Die Verkindigung an die Hirten.
+
+In einer weitausgedehnten Landschaft,in welcher im Hintergrunde schlossartige Gebaulichkeiten, zwei ihre Schafherde bewachende Hirten, denen der in der Hohe schwebende Engel die Geburt Christi verkindigt. Die Scheibennimben erhaben und vergoldet.
+
+Interessantes Bild.
+
+Holz.Hohe 109,Breite 59 Cent.
+
+## JAN STEEN,
+
+geb.zu Leiden um 1626; daselbst 1679.
+
+In einer Dorfschenke unterhalt sich,an einem Tische sitzend,ein jungerer Mann mit einem Madchen;hinter ihnen steht ein alterer Mann.
+
+Hubsche Composition.Bezeichnet: J. S.
+
+Leinwand. Hohe 35,Breite 29 Cent.
+
+## FRANCIS SWAINE,
+
+geb.zu London 1730; thatig von 1770—1780.
+
+## 118 Marine.
+
+Ruhige See;im Vorgrunde vollgetakeltes Kriegsschiff, auf das ein besetztes Boot zusteuert. Links im Hintergrunde ein zweites Kriegsschiff.
+
+Gutes Bild. Voll bezeichnet.
+
+## 119 Flusslandschaft.
+
+Von Hohenzug begrenzt, fuillt ein mit mehreren Segelbooten besetztes Wasser die linke Halfte des Bildes,sowie den ganzen Vorgrund. Auf dem hugelig ansteigenden Ufer rechts eine Schenke; ein breiter Weg, auf dem eine Frau, fuhrt zu derselben. Zwei Kahne haben bei demselben eben gelandet.
+
+Freundliches, in heller Farbengebung fein ausgefuhrtes Bildchen. Unten links voll bezeichnet.
+
+Kupfer.Hohe 23,Breite 30 Cent.
+
+Kupfer. Hohe 20,Breite 25 Cent.
+
+## 120Canallandschaft.
+
+Das Wasser rechts zeigt im Hintergrunde einen Dreimaster, der von mehreren Booten geschleppt wird. Im Vorgrunde rechts ein besetzter Kahn; am Ufer links, bei dem mehrere Fischerboote,Kirche und Pfarrhaus,vor dem Frauen mit Kind.
+
+Gegenstuick zum Vorigen in gleich vorzuglicher Ausfuhrung.
+
+Kupfer.Gleiche Grosse.
+- 122 Der Hohlweg.
+
+geb. zu Worden um 1600; zu Paris 1655.
+
+## HERM. SWANEVELT,
+
+## 121 Italienische Landschaft.
+
+Gutes Bild.
+
+Links ausgedehnte, schlossartige Gebaulichkeiten, die das im Mittelgrunde befind liche Wasser von der sich rechts erhebenden bewachsenen Ruine trennt. Im Vorgrunde links,bei hohen Baumen, zwei Manner mit einer an der Erde sitzenden Frau im Gesprache, sowie Reiter und Fussganger.
+
+Holz. Hohe 45,Breite 65 Cent.
+
+geb.zu Antwerpen 1582; daselbst 1649.
+
+## DAVID TENIERS DER AELTERE,
+
+Zwischen hohen Felsgekluften durch, deren Linke von einer ausgedehnten Ruine besetzt ist, blickt man in eine weite Fernsicht. Im Vorgrunde rechts drei Bauern
+
+Vortrefflich ausgefuhrtes, in braunem Tone gehaltenes Bild. Unten in der Mitte das Monogramm.
+
+mit Hund, ein vierter verschwindet am Wegabhange.
+
+Holz.Hohe 25,Breite 85 Cent.
+
+## DAVID TENIERS DER JUNGERE,
+
+geb.zu Antwerpen 1610; zu Brussel 1690.
+
+In einfach augestattetem Raume sitzen an einem Tische zwei alte hollandische Bauerinnen, deren eine,ein Hundchen auf dem Schoosse tragend, das halbgefuilte Weinglas in der Linken erhoben halt.
+
+- 123 Interieur.
+
+Gutes Bildchen von treffender Charakteristik.
+
+- 124 Alte Frau.
+
+Holz. Hohe 32,Breite 24 Cent.
+
+An einem Tische,auf welchem ein grosser Steinkrug, sitzt eine Alte in Beschaftigung.
+
+Holz.Hohe 21,Breite 161/e Cent.
+
+Hubsches, ausdrucksvolles Bildchen.
+
+- 125 Interieur.
+
+## Nach DAVID TENIERS.
+
+In einem mit Gerathschaften aller Art ausgestatteten,scheunenartigen Raume eine mit Kesselreinigen beschaftigte Magd,die von einem hinter ihr stehenden Alten umhalst wird;im Hintergrunde ein die Treppe hinaufsteigender Bauer mit Krug.
+
+Holz. Hohe 51,Breite 67 Cent.
+
+Sehr gute Wiederholung des Teniers’schen Bildes.Falschlich bezeichnet.
+
+## ABRAHAM TENIERS,
+
+- 126 Konig Christian IV. von Dinemark.
+
+geb.zu Antwerpen 1629;+ daselbst 1670.
+
+schaft in braunem Anzuge mit spitzenbesetztem Umlegekragen und Reiterstiefeln; den etwas zur Seite gewandten Kopf bedeckt ein federgeschmiickter schwarzer Hut.
+
+Holz.Hohe 43,Breite 29 Cent.
+
+Das sehr gut erhaltene Bild,welches friher dem Esaijas van de Velde zugeschrieben wurde, durfte wohl eher von einem vlimischen Meister sein.
+## G. TERBORCH D. J.,
+
+geb.zu Zwolle 1614;zu Deventer 1681.
+
+## 127 Weibliches Bildniss.
+
+Brustbild einer jungen Frau in gelbem decolletirtem Kleide mit Perlenschmuck, halb nach links gewandt; das von langen herabfallenden Locken umrahmte Gesicht ist auf den Beschauer gerichtet.
+
+Holz. Oval. Hohe 63,Breite 50 Cent.
+
+Lebenswahr ausgefuhrtes Bild.
+
+## GERARD TERBORCH (SCHULE).
+
+## 128 Mannliches Bildniss.
+
+Kniefigur eines jungen Mannes in schwarzer Kleidung mit breitem weissem spitzenbesetztem Kragen und ebensolchen Manschetten, etwas nach rechts gewandt,an einem mit rother Decke belegten Tische stehend; in der Linken den grossen Schlapphut haltend,hat er das von langen braunen Locken umrahmte Gesicht auf den Beschauer gerichtet.
+
+TrefflichesBild von lebenswahrem Ausdruck.
+
+Leinwand. Hohe 54,Breite 43 Cent.
+
+## GIOVANNIBATTISTA TIEPOLO(MANIER).
+
+Rechts sitzt Madonna,auf dem Schoosse das Jesuskind haltend,dem die Weisen aus dem Morgenlande ihre Geschenke darbringen.
+
+Gut behandelte Skizze zu einem grossen Altarbilde.
+
+Leinwand. Hohe 41,Breite 60 Cent.
+
+## GILLIS VAN TILBORG,
+
+## 130 Bauernkirmes.
+
+geb.1625;1678.
+
+Vor der Schenke zahlreiche Bauern in verschiedenen Gruppen zechend,rauchend und singend.
+
+Figurenreiche Composition.
+
+Leinwand. Hohe 62,Breite 90 Cent.
+
+## JOHANN HEINRICH TISCHBEIN,
+
+## 131 Cimon und Pera.
+
+geb. zu Hayna 1722;↑ zu Cassel 1789.
+
+Pera reicht im Kerker ihrem gefesselten Vater die Brust;der Scene schaut an dem vergitterten Fenster links der Gefangnisswarter zu.
+
+Leinwand. Hohe 70,Breite 60 Cent.
+
+In Zeichnung, Colorit und Beleuchtung gut ausgefuhrtes Bild mit der Bezeichnung: J.H.Tischbein,pinx.1786.
+## 132 Damenbildniss.
+
+## WILHELM TISCHBEIN,
+
+geb.1751;1829.
+
+Kniefigur einer jungen Dame, fast im Profil,in blauem spitzenbesetztem Atlasgewande mit Rosauberwurf, ein Blumenbouquet vor die Brust gesteckt. Landschaft- licher Grund.
+
+Sehr schones decoratives Portrait.
+
+## 133 Bacchantin.
+
+Leinwand. Hohe 128,Breite 103 Cent.
+
+## TIZIAN (MANIER).
+
+Lebensgrosse Kniefigur einer jugendlichen, die Cimbeln schlagenden Bacchantin,
+
+Leinwand. Hohe 127,Breite 102 Cent.
+
+von Lar gefolgt.Landschaftlicher Hintergrund mit Bacchanal.
+
+## JOHANN GEORG TRAUTMANN,
+
+## 134 Zwei Studienkopfe.
+
+## 135 Landschaft.
+
+geb.zu Zweibricken 1713;zu Frankfurt a.M.1769.
+
+Die Brustbilder zweier Alten in orientalischer Tracht,in Rembrandts Art. Holz. Hohe je 25,Breite 20 Cent.
+
+## M. VAN UITENBROECK,
+
+geb. im Haag um 1590; daselbst 1648.
+
+Wildromantische Gegend mit hohen Baumpartieen;durch den Mittelgrund Blick in weite Ferne, in welcher rechts auf einem Higel ein schlossartiges Gebaude. Figurenstaffage.
+
+Tuchtig gemaltes Bild von sehr guten Beleuchtungseffecten und von harmonischer Farbengebung. Holz.Hohe 62,Breite 102 Cent.
+
+- 136 Danae.
+
+des Goldregens.
+
+- 137 Mannliches und weibliches Bildniss.
+
+## UNBEKANNTE MEISTER.
+
+Auf ihrem Ruhebette vollig entblosst hingestreckt;ihr naht sich Jupiter in Gestalt
+
+Leinwand. Hohe 105,Breite 176 Cent.
+
+Gegensticke.Lebensgrosse Halbfiguren. Interessante Costuimbilder aus der Schule B.van der Helst's.
+
+- 138 Der hl. Antonius von Padua.
+
+kind liebkosend.Landschaftlicher Grund.
+
+Leinwand. Hohe 91,Breite 72 Cent.
+
+Kniefigur des Heiligen im Profil nach links, das auf den Armen gehaltene Jesus-
+
+Feine glatte Ausfuhrung.
+
+99.11299.
+
+Leinwand.Hohe 52,Breite 46 Cent.
+## 139 Flusslandschaft.
+
+Rechts der von Kahnen belebte Fluss.Auf dem Ufer links Kirche und Hauser eines Dorfes zwischen hohen Baumen.Im Vorgrunde Schafer mit ihrer Herde.
+
+Holz.Hohe 31,Breite 391 Cent.
+
+## 140 Das Liebespaar.
+
+An einem Tische sitzt ein Mann mit Federhut, der neben ihm sitzenden Frau die er umfasst, aus einem Kruge ihr Glas fillend.
+
+Holz.Hohe 22,Breite 26 Cent.
+
+## ADRIAEN VAN UTRECHT,
+
+geb.zu Antwerpen 1599; daselbst 1652.
+
+## 141 Stillleben.
+
+Auf einem mit weisser Decke nur theilweise belegten Tische ein grosser kupferner Kessel,neben welchem ein an den Hinterliufen aufgehangener Hase, sowie eine grosse Anzahl theils in einem Korbe liegender todter Vogel der mannigfachsten Art.
+
+Schones decoratives Bild von naturwahrer Wiedergabe.
+
+## 142 Gefliigelhof.
+
+Im Vorgrunde einer sich nach links ausdehnenden Gebirgslandschaft, in deren Mittelgrund eine Ruine, gruppiren sich vor einem Steinbassin,auf dessen Rand eine Taube sitzt,Huhnerfamilie und Tauben;rechts ein Pfau auf einem Baumstumpf sitzend.
+
+Reich componirtes,gut ausgefuhrtes Bild.
+
+Leinwand. Hohe 93,Breite 125 Cent.
+
+## Bezeichnet: K. V. 1653.
+
+## 143 Die Hufschmiede.
+
+Im Vorgrunde einer italienischen Landschaft mit castellartigen Gebauden,beschlagt ein Hufschmied den von einem Gesellen in die Hohe gehaltenen linken Hinterfuss eines
+
+Schimmels,der neben einem Braunen steht, vor welchem der Stallknecht.
+
+Vorzugliches Bild in Wouverman'schem Colorit.Unten rechts bezeichnet:K.V.1653.
+
+Leinwand. Hohe 35,Breite 42 Cent.
+
+Leinwand. Hohe 91,Breite 111 Cent.
+
+## 144 Der Halt vor der Schenke.
+
+Ein Stallknecht fuillt mit Gras einen Futtertrog,vor dem zwei Pferde,eines stallend;
+
+der Fuhrknecht tritt in die Schenke ein.Rechts Fernsicht.
+
+Gegenstick zum Vorigen in gleicher Ausfuhrung mit gleicher Bezeichnung.
+
+Leinwand. Gleiche Grosse.
+
+## DIEGO DE SILVA VELASQUEZ (SCHULE).
+
+## 145 Weibliches Bildniss.
+
+Brustbild en face einer jungen Frau in schwarzem Kleide mit hoher weisser
+
+Halskrause und mit reichem Perlencollier, sowie hohem Diadem auf dem Kopfe. Leinwand.Hohe 53,Breite 42 Cent.
+## 146 Kinderportrait.
+
+Kniefigur eines kleinen Madchens in rothem,gemustertem Kleide,etwas nach rechts gewandt,die Handchen betend gefalten haltend.
+
+Gut ausgefuhrtes Bild.
+
+Leinwand auf Holz.Hohe 38,Breite 28 Cent.
+
+## JAN VAN DE VELDE,
+
+## 147 Landschaft mit Schloss.
+
+lebte 1635 zu Haarlem.
+
+Links fuihrt ein breiter von hohen Baumen begrenzter Weg zu einem Gebuisch. Rechts grosses Schlossgebaude,von Wasser umgeben,auf dem mehrere Schwane. Als Staffage Jager mit Hund, Gruppe von vier Figuren ete.
+
+Gut durchgefuhrtes Bild.
+
+Holz.Hohe 13,Breite 21 Cent.
+
+## ADRIAEN VAN DE VELDE,
+
+## 148 Viehstiick.
+
+geb.zu Amsterdam 1635 oder 1636;+ daselbst 1672.
+
+Im Vorgrunde einer weiten Flachlandschaft zwei Kuhe; bei ihnen sitzt,die Fisse in Wasser haltend, die Hirtin.
+
+Holz.Hohe 35,Breite 42 Cent.
+
+99.11299.
+
+geb.1799.
+
+Auf einem zum Vorgrunde rechts fuhrenden,breiten Wege drangt sich,von einem Blitzstrahle erschreckt, eine grosse Schafherde zu wilder Flucht. An einem Heiligenhauschen steht der Schafer neben seinem Hunde,ein Lammchen unter dem Arme tragend;links eine Gruppe hoher Baume,der Stamm des vordersten istvom Blitz
+
+## 149 Schafherde bei Gewittersturm.
+
+zersplittert.
+
+Schones Bild, die Thiercharaktere meisterhaft wiedergegeben; dasselbe gilt als Arbeit des Meisters aus friherer Zeit.
+
+Leinwand. Hohe 102,Breite 125 Cent.
+
+## PETRUS VICTOR VERREYDT,
+
+## 150 Gebirgslandschaft.
+
+geb.zu Diest 1814.
+
+Vor hohem Gebirgszug ein von Baumen begrenzter freier Platz, auf dem eine Herde; das Hirtenpaar in Unterhaltung;rechts Wasserfall.
+
+Fein gestimmtes,vortrefflich ausgefuhrtes Bildchen,ganz im Charakter der alten Meister.
+
+Holz.Hohe 29,Breite 391 Cent.
+
+## DANIEL VERTANGEN,
+
+geb.im Haag 1598;zu Amsterdam 1657 (2).
+
+## 151 Loth und seine Tochter.
+
+Freie Darstellung im Vorgrunde einer gebirgigen Landschaft.
+
+Gut ausgefuhrtes Bild.
+
+Holz.Hohe 24,Breite 19 Cent.
+## 152 Marine.
+
+## SIM. DE VLIEGER,
+
+geb.zu Rotterdam um 1600;+ zu Amsterdam um 1660.
+
+Leicht bewegte See mit mehreren vollgetakelten Segelbooten. In weiter Ferne links Stadtansicht mit hohem Thurm.
+
+Gutes Bild in hubschem Silbertone.
+
+## 153 Marine.
+
+Bewegte See mit zahlreichen Fischerbooten,Kutter und Kahn auf hochgehenden Wogen;links in der Ferne der Strand mit Kirche und Wartthurm. Halbbedeckter Himmel.
+
+Vorzugliches Bild in vorziiglicher Wiedergabe des Wassers.
+
+Holz. Hohe 36, Breite 451/ Cent.
+
+Holz.Hohe 36,Breite 62 Cent.
+
+## 154 Stillleben.
+
+## ELIAS VONCK,
+
+zu Amsterdam 1652.
+
+Um und auf einem an der Erde stehenden Kafige,in welchem ein buntgefiederter
+
+Vogel, eine grosse Anzahl todter Vogel in malerischer Gruppirung.
+
+Naturwahr ausgefihrtes Bild.Bezeichnet:A.V.U.
+
+## 155 Todtes Gefliigel.
+
+Auf einem Steinsockel liegen mehrere todte Vogel: Heher, Schnepfe, Finke etc. Gute Ausfuihrung.
+
+Leinwand. Hohe 441/2,Breite 59 Cent.
+
+Holz. Hohe 23, Breite 32 Cent.
+
+## CORNELIS DE VOS,
+
+geb.zu Hulst in Flandern 1585; zu Antwerpen 1651.
+
+## 156 Portrait eines Bischofs.
+
+Lebensgrosse Halbfigur eines Bischofs in schwarzem Gewande,etwas nach rechts gewandt, an einem grun gedeckten Tische stehend; in der Rechten den Krummstab tragend, hat er die Linke auf ein Buch gestuitzt. Oben rechts Wappen mit der Umschrift:Belicensis Electus A1646.Depictus Ao 1650.Aetatis 46.
+
+Vortreffliches Bild,von lebenswahrer Auffassung und meisterhafter Behandlung. Holz. Hohe 89, Breite 68 Cent.
+
+## PAUL DE VOS,
+
+geb. zu Hulst um 1590; zu Antwerpen 1678.
+
+## 157Ruhe nach der Jagd.
+
+Im Vorgrunde einer weiten Landschaft hangt links an einem Baume der erlegte Fuchs. von mehreren Hunden bewacht; rechts lehnt ein Jager sich an eine reiche Steinfontaine.
+
+Vorzugliches,breit behandeltes Bild.
+
+Holz. Hohe 22,Breite 261 Cent.
+## 158 Die Reiherbeize.
+
+angebellt.
+
+## 159 Waldlandschaft.
+
+Weite reiche Landschaft; rechts vor einem Waldeingange grosse Jagdgesellschaft, theils zu Pferde; in der Luft der fallende Reiher,von einem links stehenden Hunde
+
+Gegenstuck zum Vorigen in gleich vorzuglicher Ausfuhrung.
+
+## ROELOF DE VRIES,
+
+geb.zu Haarlem 1631.
+
+Auf dem Wege einer von hohen dichten Baumgruppen umstandenen Waldlichtung
+
+Hochfeines,prachtvoll erhaltenes Bild; die Staffage von A. van de Velde.Bezeichnet:
+
+Holz.Hohe 70,Breite 50 Cent.
+
+Jagdgesellschaft zu Fuss und zu Pferde mit ihrer Hundemeute.
+
+R.de Vries.
+
+- 160 Landschaft mit Vieh.
+
+## Bezeichnet: A. B. W.
+
+Im Vorgrunde eines hugeligen Gelandes stehen zwei Ochsen, der eine en face,
+
+Schones Bild in Potter'scher Composition. Unten rechts bezeichnet: A. B. W.
+
+der andere en profil. Der sie bewachende Hirtenknabe schneidet links, vom Hunde beobachtet, einen Zweig von einem hohen Baume.
+
+Holz.Hohe 46,Breite 48 Cent.
+
+## ANT.WATTEAU (Deutscher Nachahmer).
+
+Gruppe von sechs maskirten Damen und Herren in reichem Saale, rechts eine
+
+Holz. Hohe 24, Breite 291/ Cent.
+
+- 161 Die Maskerade.
+
+Dienerin, eine Schale mit Wein fuillend.
+
+## JAN WEENIX (SCHULE).
+
+Sein Pfeifchen rauchend, sitzt ein Jager am Fusse eines antiken Monumentes; neben ihm zwei Hunde und die Jagdbeute.
+
+- 162 Ruhe nach der Jagd.
+
+## 163 Ruhe nach der Jagd. (Gegenstick.)
+
+Holz.Hohe 40,Breite 30 Cent.
+
+Aehnliche Composition; der neben seiner reichen Beute sitzende Jager stosst ins Horn; links Blick in eine Landschaft.
+
+Holz. Gleiche Grosse.
+
+Gleiche Ausfuhrung.
+
+## ADR. VAN DER WERFF,
+
+geb.zu Kralingen 1659; zu Rotterdam 1722.
+
+## 164Knabenportrait.
+
+Auf der Terrasse in einer Parklandschaft ein blonder Knabe in romischer Tracht,
+
+Schones Bild von trefflicher feiner Ausfuhrung.
+
+Leinwand. Hohe 108, Breite 96 Cent.
+
+Seifenblasen machend.
+
+Holz. Gleiche Grosse.
+## JAN DE WET,
+
+Schiler Rembrandts(vergl.Woltmann &amp; Woermann,Ill.714).
+
+165 Eleazar und Rebekka am Brunnen.
+
+In einem Vorhofe kniet Rebekka,umgeben von den Ihrigen,die ihr iberbrachten reichen Geschenke betrachtend,wahrend Eleazar, der Knecht Abrahams,zu dem in einer Wolkenglorie schwebenden Engel blickt.
+
+Vortreffliches Bild des bedeutenden Rembrandtisten,in leuchtendem Helldunkel gemalt.Voll bezeichnet.
+
+Leinwand.Hohe 80,Breite 64 Cent.
+
+## JAN WYNANTS,
+
+wahrscheinlich geb.zu Haarlem 1620;1660-1672 in Amsterdam.
+
+## 166Landschaft.
+
+Links reiche Waldung, vor welcher sich ein grosser Wiesenplan bis zu der von einem Hohenzuge begrenzten Ferne hinzieht und auf welchem vor einem kleinen Bauernhause ein Hirt bei seiner Herde.
+
+In Composition und Auffassung poetisches Bild von harmonischer Farbengebung. Voll bezeichnet. Leinwand.Hohe 69,Breite 85 Cent.
+
+## 167 Figurenstudie.
+
+## HENDRICK GOLTZIUS,
+
+Nackter jugendlicher Mann mit leicht ibergeworfenem flatterndem Mantel,einen Bogen haltend, steht neben machtigen Felsblocken.
+
+Interessantes Bild in kraftiger Behandlung.
+
+Holz.Hohe 42,Breite 32 Cent.
+
+## SEBASTIANO DEL PIOMBO (SCHULE).
+
+- 168 Mainnliches Bildniss.
+
+Kniefigur,lebensgross,eines Mannes in mittleren Jahren,nach links,geradeausblickend in Sessel sitzend; er tragt ein schwarzes Gewand mit vortretendem breitem Kragen;die Hande hat er ineinander gelegt.
+
+Charakteristisches interessantes Portrait.
+
+Leinwand. Hohe 94,Breite 75 Cent.
+
+## J.G.TRAUTMANN.
+
+- 169 MannlicherStudienkopf.
+
+Brustbild eines bartigen Alten mit hoher Pelzmutze,in Rembrandt's Geschmack. Holz. Hohe 27,Breite 20 Cent.

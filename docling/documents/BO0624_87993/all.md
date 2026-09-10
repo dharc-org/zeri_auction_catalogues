@@ -1,0 +1,2603 @@
+- ITauben.
+
+Vier weiBe und eine gescheckte Taube vor Heckenstaffage. Rechts unten ein unaufgeklartes Monogramm.
+
+Leinwand. Hohe 41 cm,Breite 56 cm. Goldrahmen.
+
+## ANNIBALE CARRACCI
+
+geb. 156o in Bologna, gest.160g in Rom.
+
+Seine Richtung.
+
+- 2 Toter Christus.
+
+Der hl. Leichnam, in ziemlicher Verkuirzung gegeben, liegt auf einem ausgebreiteten Tuche vor neutralem, dunklem Grunde.
+
+Leinwand. Hohe 55 cm,Breite 1oo cm. Schwarzer Rahmen.
+
+## ABTEILUNGI.
+
+AUS DEM BESITZE DES HERRN UNIVERSITATSPROFESSORS E.
+
+## PAOLO ANTONIO BARBIERI
+
+Bruder des Guercino.
+
+1603-1649
+## J. COURTOIS, GEN. IL BORGOGNONE
+
+geb.1621 in St.Hippolyte,gest.1676 in Rom.
+
+- 3 Reiterschlacht.
+
+Im Vordergrunde einer bergigen Landschaft Kampf zweier kleiner Reiterscharen.Im Mittelplan spielt sich die eigentliche Schlacht ab. Unten rechts bez.Borg.f 16.
+
+Auf Leinwand. Hohe 70 cm, Breite 107,5 cm. Schwarzer Rahmen.
+
+Abbildung Tafel 2.
+
+## JEAN HONORE FRAGONARD
+
+geb. 1732 in Grasse, gest. 18o6 in Paris.
+
+Ihm zugeschrieben.
+
+- 4 Damenbildnis.
+
+Brustbild einer jungen, blonden Dame, die nur mit einem weiBen Tuche, das die Buiste freilaBt,bekleidet ist. Dreiviertelprofil nach links. Auf der Rickseite von alter Hand bezeichnet:B. Mlle.Blanche de la Baume Le Blanc de La Valliere//Fragonard.
+
+Abbildung Tafel 3.
+
+Auf Leinwand. Hohe 54,5 cm, Breite 42 cm. In Goldrahmen mit ovalem Ausschnitt.
+
+## LUCA GIORDANO
+
+genannt Fa presto geb.1632 in Neapel, gest.1705 daselbst.
+
+- 5Mariae Geburt.
+
+Die hl. Anna liegt in halb sitzender Stellung auf erhohter Bettstatt, den Blick mit demutsvoll ergebener Geste gen Himmei gerichtet. Vor der Bettstatt sechs Magde, die das Bad fir das neugeborene Kind bereiten. Im Mittelplan der hl. Joachim, als Greis gegeben, nach der hl. Anna gewandt.
+
+Leinwand. Hohe 95 cm, Breite 11o cm. Schwarzer Rahmen.
+
+Abbildung Tafel 4.
+## ITALIENISCHER MEISTER
+
+## DES 17. JAHRHUNDERTS
+
+- 6 RuheaufderFlucht.
+
+auf dem SchoBe.Daneben sitzt der hl. Joseph,der auf vier herabschwebende Engel deutet. Rechts offnet sich der Blick in eine bergige Landschaft mit
+
+Nicht ganz vollendet. Mit Verwertung eines Motivs von Correggio.
+
+Architektur, in deren Vordergrund ein Engel den Esel zur Tranke fihrt.
+
+Leinwand. Hohe 143 cm, Breite 10o cm. Gerahmt.
+
+NEAPOLITANISCHER MEISTER DES 17. JAHRHUNDERTS unter Caravaggios EinfluB.
+
+- 7Martyrium derhl.Agatha.
+
+Die hl. Jungfrau,im Kniestick, steht en face an einen Baum gefesselt, der Oberkorper entbloBt, ein Henkersknecht reiBt ihr mit einer Zange die
+
+Leinwand. Hohe 93,5 cm, Breite 70,5 cm. Gerahmt.
+
+rechte Brust weg.
+
+## NEAPOLITANISCHERMEISTER DES 18.JAHRHUNDERTS
+
+- 8 Ruhende Venus.
+
+Vor in Dunkelheit liegender Landschaft schlaft die auf einem roten Tuch ausgestreckte, stark entbloBte Gottin.
+
+Leinwand. Hohe 98,5 cm, Breite 136 cm. Schwarzer Rahmen.
+
+## JUSEPE DE RIBERA, GEN. LO SPAGNOLETTO geb. 1588 in Jativa, gest. 1656 in Neapel.
+
+- Hl.Hieronymus.
+
+Huftstick, Profil nach links, der Kopf dem Beschauer zugewandt. Das Bild mit den schon modellierten Handen und dem prachtigen t einigen Hauptwerken des Meisters im Prado-Museum zu
+
+Kopf steht Madrid nahe.
+
+Leinwand. Hohe 1oo cm, Breite 78 cm. Schwarzer Rahmen.
+
+Abbildung Tafel5.
+## ANDREA SACCHI
+
+geb.16oo zu Nettuno bei Rom, gest. 1661 in Rom.
+
+## Io Derhl.Romuald.
+
+Vor einem Palmenhain in gebirgiger Landschaft predigt der Heilige einer Gruppe von Einsiedlern.
+
+Leinwand. Hohe 131 cm, Breite 95 cm. Schwarzer Rahmen. Atelierwiederholung des bekannten Bildes in der vatikanischen Pinakothek, mit einigen erheblichen Abweichungen in der Komposition.
+
+## FRANCESCO SOLIMENA
+
+geb. 1657 in Nocera de'Pagani, gest. 1747 in Neapel.
+
+## I HimmelfahrtMariäa.
+
+In Wolken fahrt die hl. Jungfrau von Engeln getragen, gen Himmel, empfangen von Gott Vater und Gott Sohn. Unten am leeren Sarkophag die Apostel mit dem Ausdruck hochsten Erstaunens. Wichtiges Werkder Neapolitaner Malerschule.
+
+Leinwand. Hohe 126,5 cm, Breite 97,5 cm. Gerahmt.
+
+Abbildung Tafel I.
+
+IIa Landschaft.
+
+## ITALIENISCHER MEISTER DES 18. JAHRHUNDERTS.
+
+Pittoreske Landschaft am FuBe des Hochgebirges, das die Szene schlieBt. Higeliges Gelande mit Wald und Feld, staffiert durch Ortschaften und im Vordergrunde durch eine groBe Ruine. Vorn in der Mitte ein Hirte mit Schafherde,im Mittelplan ein Wanderer, hubsche Beleuchtungseffekte mit blauer Ferne.
+
+Leinwand. Hohe 85 cm,Breite 11o cm.
+
+Gerahmt.
+- 13
+- I4Marine.
+
+Zwei Schiffe bei losbrechendem Sturm.Wettergewolk.
+
+Holz. Hohe 38,5 cm, Breite 56 cm. Schwarzer Rahmen.
+
+## ABTEILUNG1I.
+
+## AUS AUSLANDISCHEM,ADELIGEN BESITZ UND AUS ANDEREM BESITZ.
+
+## PIETER AERTSEN
+
+geb. 1508 in Amsterdam, gest.1575 daselbst.
+
+- I2 Zigeunerleben.
+
+Vor offenem Zelt eine Bande Zigeuner, bei Mondschein ein Mahl be- reitend.
+
+Leinwand. Hohe 8o,5 cm,Breite 1o8 cm. Brauner Rahmen.
+
+## HENDRIK VAN AVERCAMP
+
+geb.1585 in Amsterdam, gest.1663 in Kempen.
+
+- Wintervergnigen.
+
+Auf dem gefrorenen Teiche einer kleinen Stadt tummelt sich alt und jung auf Schlittschuhen und in Schlitten. Links Baumschlagkulisse,rechts Architektur.
+
+Holz. Hohe 48,5 cm, Breite 63 cm. Goldrahmen.
+
+## LUDOLF BAKHUYZEN
+
+geb.1631 in Emden,gest.1708 in Amsterdam.
+- 15 Bildnis.
+
+Brustbild eines Kavaliers; En face, Jagdkostim. Schwarzes langes Lockenhaar.
+
+Leinwand. Hohe 89 cm, Breite 7o cm. Gerahmt.
+
+## WILHELMVANBEMMEL
+
+geb. 1630 in Utrecht, gest. 1708 in Nurnberg.
+
+- 16Landschaft.
+
+FluB in gebirgiger Gegend von Waldungen umsaumt. Im Vordergrunde eine kleine Siedelung, im Mittelplan ein Dorf, auf einem der Berge eine burgartige Architektur.In der Mitte des Flusses bildet ein Felsen eine Insel.
+
+Leinwand. Hohe 36,5 cm, Breite 50 cm. Goldrahmen.
+
+## CLAAS PIETERZ BERCHEM
+
+geb.1620 in Haarlem, gest.1683 in Amsterdam.
+
+- I7 Landschaft mit Vieh.
+
+Campagnalandschaft,im Vordergrunde ruhendes Rindvieh, dabei eine Hirtin, die eine Ziege melkt, ein Knabe mit Hund und ein Dudelsack blasender
+
+Hirte.
+
+Holz. Hohe 15,5 cm, Breite 22 cm. Schwarzer Rahmen.
+
+Abbildung Tatel 6.
+
+- I8 An der Tranke.
+
+Landschaft von Campagnacharakter. Im Vordergrunde ein seichtes Gewasser. Dabei zur Tranke kommende Rindviehherde mit Hirtenmadchen und Hirten. Leicht bewolkter Himmel.
+
+Leinwand. Hohe 41,5 cm, Breite 6o cm. Goldrahmen.
+
+## ADRIANCORNELIOBEELDEMAKER
+
+geb. 1630 in Haag, gest. nach 1701 daselbst.
+## PARIS BORDONE
+
+geb. um 1500 in Treviso, gest. 1570 in Venedig.
+
+Ihm zugeschrieben.
+
+- 19 Hl. Familie.
+
+Die hl. Jungfrau mit dem Kind zwischen der hl. Anna und dem hl. Joseph.
+
+Dabei der kleine Johannes. Halbfiguren.
+
+Holz. Hohe 58,5 cm, Breite 49 cm. In achteckigem Rahmen.
+
+- 20 Allegorie auf die Verganglichkeit der Schonheit.
+
+Ein blondes junges Weib in antikisierender Gewandung mit einem PrunkgefaB und in Gesellschaft von Dienerinnen wird vom Tode iberrascht, der als geflugelter Greis in Begleitung von Putten, die seine Attribute tragen, vom Himmel herabschwebt,ein groBes Manteltuch iber die jugendliche Schone
+
+- werfend.
+
+Auf Leinwand. Hohe 211 cm,Breite 148 cm. Goldrahmen.
+
+## HIERONYMUS BOSCH
+
+geb.zwischen 146o und 1464 in Herzogenbusch, gest.1516.
+
+- 2I I Das Reich des Antichrists.
+
+Phantastische Landschaft, mit allerlei Spukgestalten und Teufeln belebt, die iber die Sinder herfallen und sie in graBlicher Weise qualen. Oben in Wolken der thronende Heiland mit dem Chor der Gerechten.
+
+Unter ihm vier Posaune blasende Seraphs.
+
+Holz. Hohe 132 cm, Breite 98 cm. Goldrahmen.
+
+## CHRISTIAN HILFGOTT BRAND
+
+geb. 1695 in Frankfurt a. O., gest 1756 in Wien.
+
+- 22 Kleine Landschaft.
+
+FluBlauf in felsigem Gelande, im Vordergrunde durch einen Brickensteg iberschlagen,auf dem zwei Wanderer.
+
+Hinten alt bezeichnet Brandt pinx.1725.
+
+Holz. Hohe 13,5 cm, Breite 18,5 cm. Goldrahmen.
+## CHRISTIAN HILFGOTT BRAND
+
+geb. 1695 in Frankfurt a. O., gest. 1756 in Wien.
+
+22a Kleine Landschaft. Gegenstick zum Vorigen.
+
+Landschaft mit Wasserfall an einem Felsen; staffiert durch einen Angler und zwei Wanderer. Hinten alt bezeichnet Brandt pinx. 1725.
+
+Holz. Hohe 13,5 cm, Breite 18,5 cm. Goldrahmen.
+
+## JAN BRUEGHEL DER ALTERE,GEN. SAMMETBRUEGHEL
+
+geb. 1568 in Bruissel, gest. 1625 in Antwerpen.
+
+- 23 Landschaft.
+
+Gebirgslandschaft mit Waldungen, durch die ein breiter Bach iber die Felsen zu Tal stuirzt. Rechts Ausblick in die Ferne, links einige Bauernhauser, hier reiche figurliche Staffage.
+
+Abbildung Tafel 7.
+
+Holz. Hohe 52 cm, Breite 107 cm. Goldrahmen.
+
+KAREL BREYDEL, genannt der Kavalier.
+
+geb.1678 in Antwerpen, gest. 1733 in Gent.
+
+- 24 Reiterkampf.
+- 25
+- Werbungsgeschaft.
+
+Vor den Toren einer Festung ist das Heer der Landsknechte gelagert.
+
+Im Vordergrunde werden junge Leute angeworben und ausbezahlt. Im Mittelplan militarische Ubungen.
+
+Leinwand. Hohe 88 cm, Breite 114 cm. Goldrahmen.
+
+Leinwand. Oval. 42: 56 cm. Goldrahmen.
+## PAUL BRIL
+
+geb.1554 in Antwerpen, gest.1626 in Rom.
+
+- 26 Landschaft.
+
+Bergige Gegend mit FluBtal, vorn durch bewaldeten Hugel rechts, und eine vom Baumschlag staffierte Ruine links abgeschlossen. Reiche figirliche Staffage von miniaturmäBiger Ausfihrung.
+
+Kupfer. 19,5: 27 cm. Schwarzer Rahmen.
+
+## LUCA CAMBIOSO
+
+geb.1524 in Moneglia bei Genua, gest. um 1585 in Madrid.
+
+26aHl.Katharina von Alexandrien.
+
+Die Heilige als junges, blondes Madchen im Kniestick gegeben, die Hande spielen mit einer Perlenschnur, der Blick ist zwei Engeln zugewandt, die zu der Jungfrau niederschweben.Das links angebrachte Rad charakterisiert die Heilige.
+
+Leinwand. Hohe 74 cm,Breite 61 cm. Goldrahmen.
+
+## BERNARDO BELOTTO,GEN.CANALETTO
+
+geb. 1724 in Venedig, gest. 1780 in Warschau.
+
+Ihm zugeschrieben.
+
+- 27 Erntebild.
+
+Italienische Landschaft. Im Vordergrunde vor einem Bauernhause sind mehrere Burschen beschaftigt, Weizen in Sacke zu fuillen. Dabei Gefluigel.
+
+Leinwand. Hohe 71,5 cm, Breite 107 cm. Gerahmt.
+
+- 28 Weinlese. Gegenstick zum Vorigen.
+
+Landschaft oberitalienischen Charakters. Im Vordergrunde links Burschen und Madchen, die Trauben sammelnd,welche die Weinstockranken tragen, die sich um alte Baume schlingen.
+
+Leinwand. Hohe 71,5 cm, Breite 107 cm. Gerahmt.
+- 30
+
+## ALONSO CANO
+
+geb. 16o1 in Granada,gest. 1666 daselbst.
+
+Ihm zugeschrieben.
+
+28a Der hl. Johannes Ev. das Evangelium schreibend.
+
+Leinwand. Hohe 141 cm,Breite 110,5 cm. Goldrahmen.
+
+## LUCA CARLEVARIS, GEN.CASANOBRIO
+
+geb.1665 in Udine, gest.1734 in Venedig.
+
+- 29 Festzug.
+
+Vor der langgestreckten Fassade eines Renaissancepalastes sind zwei mit
+
+Zuschauern dicht gefillte Tribuinen errichtet. Auf dem freien Platze vor diesen Tribinen bewegt sich der Festzug, durch reich geschmickte Prunkwagen gebildet, auf denen verschiedene Allegorien dargestellt sind.
+
+Leinwand. Hohe 61 cm, Breite 9o cm. Goldrahmen.
+
+- Hafenbild.
+
+Meeresbucht mit gebirgiger Kuiste. Am Fusse des Berges eine Stadt. Im Hafen ein grobes Kriegsschiff, wohl das Admiralschiff der im Hintergrunde befindlichen Flotte. Vorn, am Ufer, figurliche Staffage.
+
+Leinwand.
+
+Hohe 100 cm, Breite 15o cm. Goldrahmen.
+
+## ANNIBALE CARRACCI
+
+geb. 156o in Bologna, gest.16o9 in Rom. Seine Richtung.
+
+- 3I Historisches Motiv.
+
+Eine Schar antiker Krieger im Gesprach mit drei Jungfrauen bei einem
+
+Sack voll Broten.
+
+Leinwand. Hohe 110 cm, Breite 140 cm. Gerahmt.
+## FRANCESCO CASANOVA
+
+geb. 1727 in London, gest.18o9 in der Bruhl bei Wien.
+
+- 32 Landschaft.
+
+Hohlweg eines Gebirgspasses im Gewittersturm, durch wandernde Land- leute staffiert.
+
+Holz. Hohe 49 cm, Breite 37 cm. Schwarzer Rahmen.
+
+## MICHELANGELO CERQUOSSI
+
+geb.1602 in Rom, gest.166o daselbst.
+
+- 33 Bacchanten beider Weinlese.
+
+Waldlandschaft mit FluB, im Vordergrunde Bacchanten und Putti,
+
+Trauben in GefaBen sammelnd.
+
+Leinwand. Hohe 48 cm,Breite 48 cm.Gerahmt.
+
+## GIUSEPPE CHIARI
+
+geb.1654 in Rom, gest. 1727 daselbst.
+
+- 34 Der hl. Antonius,
+
+das ihm erscheinende Jesuskind umarmend. Seraphs und zwei Engel um- schweben die Vision.
+
+Leinwand. Hohe 74 cm, Breite 62 cm. Goldrahmen.
+
+## CORNELIS CORNELISZ
+
+geb.1562 in Haarlem, gest.1638 daselbst.
+
+- 5 Das jungste Gericht.
+- 35
+
+Auf Rasenboden im Vordergrunde die Scheidung der Gerechten und Ungerechten. Erstere werden von Engeln auf den in den Wolken thronenden Weltenrichter hingewiesen, der begleitet ist von den vier Evangelisten, die unter ihren Attributen dargestellt sind, ferner von der hl. Maria und von Moses, der die Gesetztafeln tragt, sowie von vielen Posaunen blasenden Engeln. Rechts bemachtigen sich die Teufel ihrer Opfer.
+
+Holz. Hohe 105 cm, Breite 73.5 cm. Schwarzer Rahmen.
+## GIROLAMO CURTI, GEN.IL DENTONE
+
+geb.um 1570 in Bologna, gest.1631 daselbst.
+
+- 36 Architekturmotiv.
+
+Saulenruine im Geschmack Panninis. Als Staffage predigender Heiliger.
+
+Leinwand. Hohe 95 cm, Breite 70 cm. Gerahmt.
+
+(Petrus mit Ketten.)
+
+- 37 Seegefecht.
+
+Kampf zwischen mehreren sich beschieBenden Kriegsschiffen.
+
+Leinwand. Hohe 65 cm, Breite 37 cm. Gerahmt.
+
+- 38 Des gleic he n. Gegenstuick.
+
+Kriegsschiffe und zahlreiche Boote vor dem Turm einer Kistenbefestigung.
+
+Ebenso. Ebenso. Ebenso.
+
+## AELBERT CUYP
+
+geb.1620 in Dordrecht, gest.1691 daselbst.
+
+- 39 Tierstick.
+
+Eine Herde von fuinf Kuhen an einem Teich. Die Silhouette der Landschaft schlieBt die Szene. Rechts unten signiert.A. C.
+
+Holz. Hohe 5I cm, Breite 69 cm. Schwarzer Rahmen.
+
+## DEUTSCHER MEISTER DES 16.JAHRHUNDERTS.
+
+- 40 Christus, das Kreuz tragend.
+- Halbfigur.
+
+Holz. Hohe 68,5 cm, Breite 52 cm. Goldrahmen.
+41 Bildnis.
+
+Georg Friedrich, Markgraf von Ansbach-Bayreuth (geb. 5. April 1539,
+
+1603). Kniestick en face. Oben links bez. S. G. G./ Georg Fridrich Marggraff// Monogrammiert A.R.
+
+Leinwand. Hohe 99 cm, Breite 79 cm. Schwarzer Rahmen.
+
+- 42 Gegenstick.
+
+Bildnis der Markgrafin Sophie von Brandenburg (Ansbach-Bayreuth). Kniestick en face in sehr reichem Kostim. Oben rechts die Beischrift: V. G. G./ Sophia Marggreffin zv // Brandenbvrg Geborn // Hezoin zv Bravnschwig // vnd Lvnebvrg. Aeta: svae 36 // Anno Dom. 1599.
+
+Ebenso. Ebenso. Ebenso.
+
+## UNBEKANNTERDEUTSCHER MEISTER DES 17. JAHRHUNDERTS.
+
+- 43 Friedrich III.
+
+Deutscher Kaiser. Brustbild, Profil nach links. In schwarzem Gewand und Barett, dieses, sowie das Bruststick mit reichem Edelsteinschmuck besetzt.Oben Beischrift.
+
+Leinwand. 66:56 cm.Gerahmt.
+
+- 44 Rudolph II.
+
+Gegenstick zum Vorigen. Brustbild, Profil nach links. Schwarzes Gewand, mit Halskrause und Orden vom goldenen Vlies, schwarzes Barett mit reichem Edelsteinschmuck.Oben Beischrift.
+
+Leinwand. 75:54 cm.Gerahmt.
+
+## DEUTSCHER MEISTER
+
+## DES 17.JAHRHUNDERTS.
+
+- 45 Bildnis eines jugendlichen Fursten.
+
+Orden vom goldenen Vlies.
+
+Leinwand. Hohe 73 cm, Breite 59 cm. Schwarzer Rahmen.
+
+## DEUTSCHER MEISTER DES 16. JAHRHUNDERTS.
+- 47 Landschaft.
+
+Auf Grund von Campagnaerinnerungen komponiert (Blick auf die Peterskirche). Im Vordergrunde und im Mittelplan figuirliche Staffage. Phantastisches
+
+Leinwand. Hohe 71 cm, Breite 98 cm. Goldrahmen.
+
+## DEUTSCHER MEISTER
+
+## DES 18.JAHRHUNDERTS.
+
+48 Christusam Kreuz.
+
+Leinwand.Hohe 89 cm,Breite 61 cm. Gerahmt.
+
+## CARLO DOLCI
+
+geb.1616 in Florenz, gest. 1686 daselbst
+
+- 49 Christus, das Kreuz tragend.
+
+Halbfigur. Das schmerzvoll bewegte Gesicht dem Beschauer zugewandt.
+
+Leinwand. Hohe 74 cm, Breite 56 cm. Schwarzer Rahmen.
+
+## GERRITS DOU
+
+geb. 1613 in Leiden, gest. 1675 daselbst.
+
+Seine Art.
+
+- 50 Die Vogelfreunde.
+
+In einem Fenster, das den Blick in einen Innenraum freilaBt,beobachten zwei Knaben ein Vogelchen, das sie in einen kleinen Fangkafig eingefangen haben.
+
+Holz. Hohe 33 cm, Breite 25 cm. Goldrahmen.
+
+Gewolk.
+
+## DEUTSCHER MEISTER DES 17. JAHRHUNDERTS.
+
+## 46 Damenbildnis.
+
+Brustbild en face. Freier Busen, blaues Gewand mit rotem Uberwurf.
+
+Die in Brusthohe erhobene Rechte halt einen kleinen Spiegel.
+
+Leinwand. Hohe 76 cm,Breite 56,5 cm. Gerahmt.
+- 51 Marine.
+
+Ruhige See in Sicht einer Insel, drei groBere Schiffe und ein Boot vor bewolktem Himmel.
+
+Leinwand. Hohe 37 cm, Breite 48 cm.Schwarzer Rahmen.
+
+## GASPARD DUGHET
+
+geb.1613 zu Rom, gest.1675 daselbst.
+
+- 52 Heroische Landschaft.
+
+Waldlandschaft in Dammerung mit Architektur, staffiert durch Diana und Endymion und rechts Hirten mit Herde.
+
+Leinwand. Hohe 48 cm,Breite 71 cm. Gerahmt.
+
+## KAREL DU JARDIN
+
+geb. 1622 in Amsterdam, gest.1678 in Venedig.
+
+- 53 Tierstick.
+
+Campagnamotiv. In einer Felsengrotte stehen ein Schimmel und ein Maultier neben einem liegenden Rind, dahinter Schafe und Ziegen. Durch den
+
+Eingang der Grotte, der den Blick in die Landschaft freilaBt, erblickt man einen berittenen Hirten und einen Knaben, der ein Lastpferd fuihrt.
+
+Leinwand. Hohe 38 cm, Breite 54 cm. Goldrahmen.
+
+- 54 LandschaftmitRuine.
+
+Landschaft italienischen Charakters. Im Mittelplan weitlaufige antike Ruine. Im Vordergrunde Hirtenmadchen und Rinderherde.
+
+Leinwand. Hohe 48 cm, Breite 65,5 cm.Goldrahmen.
+
+## HENDRIK DUBBELS
+
+geb.1620 in Amsterdam,gest.1676 daselbst.
+- Sevilla.
+
+Die hl. Jungfrau erscheint dem Heiligen,der sein reiches Bischofsornat tragt und umgeben ist von mehreren Personen. Mit Beischrift.
+
+Leinwand. Hohe 228 cm, Breite 256 cm.
+
+Balthasar de Echave, Schiler Murillos, wurde vom spanischen Hofe nach Mexiko gesandt, dort die Kunstschule zu begrinden und zu leiten. Das mexikanische Landesmuseum besitzt mehrere Werke des Kinstlers, zwei seiner bedeutenden Bilder schmicken die Sakristei der Kathedrale von Puebla, Mexiko.
+
+Abbildung Tafel 9.
+
+- 56 Seestick.
+
+Ein groBes und zwei kleinere Schiffe in Sicht einer Kuste.
+
+Leinwand. Hohe 5o cm, Breite 61 cm. Goldrahmen.
+
+- 57 Bildnis eines Kunstlers (des Sir Joshua Reynolds). Brustbild, Profil nach rechts,eine Schriftrolle haltend. Leinwand. Hohe 68 cm,Breite 57 cm. Goldrahmen.
+
+## ANIELLO FALCONE
+
+geb. 16o0 in Neapel, gest. 1665 daselbst.
+
+- 58 Bekehrung Pauli.
+
+Der spatere Apostel, in mitten seiner Reiterschar vom Pferde gestirzt, erblickt den in den Wolken erscheinenden Heiland.
+
+Leinwand. Hohe 55 cm, Breite 75 cm. Goldrahmen.
+
+## BALTHASAR DE ECHAVE.
+
+## ENGLISCHER MEISTER DES 18.JAHRHUNDERTS.
+## KAREL VAN FALENS
+
+geb.1683 in Antwerpen,gest.1733 in Paris.
+
+- 59 Landschaft.
+
+Blick in eine weite FluBlandschaft, im Vordergrunde higeliges Terrain rechts, ein Waldeingang mit altem Baumschlag links. Hier eine Gruppe von berittenen Kavalieren im Gesprach mit Wanderern.
+
+Leinwand. Hohe 74 cm, Breite 9o cm. Schwarzer Rahmen.
+
+- 6o Am Brunnen.
+
+Landschaft: Sanft gewelltes Terrain, von Gebirgszigen abgeschlossen. Vorn links ein verfallenes antikes Saulenportal, dabei ein Brunnen. Hier halten eine Dame und ein Herr,beide zu Pferd. Bei ihnen zwei berittene Jager und ein bettelnder Krippel. Im Mittelplan weitere Figuren. Am Brunnen bezeichnet.
+
+Leinwand. Hohe 41 cm, Breite 36,5 cm. Schwarzer Rahmen.
+
+## CLAUDE GELEE,GEN.LORRAIN
+
+geb. 16oo im SchloB Chamagne an der Mosel, gest. 1682 in Rom.
+
+- 61 Landschaft.
+
+FluBlandschaft in gebirgiger Gegend, links schone Baumschlagcoulisse. Als Staffage zwei jagende Nymphen mit Hund.
+
+Goldrahmen.
+
+Leinwand. Hohe 76 cm,Breite 98,5 cm.
+
+## CLAUDE GILLOT
+
+geb. 1673 in Langres, gest. 1722 in Paris.
+
+- 62 Der Gourmand.
+
+Ein Knabe mit langem blonden Haar ist im Begriffe, sich iber eine Schinkenkeule herzumachen, die auf einer Zinnschuissel liegt, welche auf einem der ihn bei den Haaren ergreift und eine schielende Alte treten dem jugend Halbfiguren. Kleinbiurgerliches Milieu der
+
+Leinwand. Hohe 74 cm, Breite 85 cm. Goldrahmen.
+
+lichen Feinschmecker entgegen. Zeit.
+
+Abbildung Tafel 3.
+## PIETRO PAOLO BONZI,GEN.IL GOBBO DA CORTONA
+
+geb.1570 in Cortona, gest.1630 in Rom.
+
+## 63 Blumenstuck.
+
+Auf einem mit reichen Decken behangenen Podium sind verschiedene Blumen niedergelegt. Dabei Erdbeeren und andere Frichte in Zinn- und anderen GefaBen.
+
+## 64 Stilleben.
+
+Auf einem Tische, der mit einer bunten, orientalischen Decke belegt ist, sind Blumen und Melonen abgesetzt. Rechts am Boden steht eine sehr groBe Vase mit plastischem Figurenschmuck.
+
+Leinwand. Hohe 93 cm, Breite 133 cm. Goldrahmen.
+
+64a De s g leic hen. Gegenstick. Ganz ahnliche Komposition.
+
+Ebenso. Ebenso. Ebenso.
+
+## JAN GOSSAERT, GEN. MABUSE
+
+geb.1470 in Mabuse, gest.1541 in Antwerpen.
+
+Kopie nach ihm von einer Hand des 17. Jahrhunderts.
+
+## 65 Die hl. drei Konige.
+
+Vor der Stallruine sitzt die hl. Maria, das Kind, dem die hl. drei Konige huldigen, auf dem SchoB haltend.
+
+Leinwand. Hohe 69 cm, Breite 54.5 cm. Goldrahmen.
+
+FRANCISCO JOSE DE GOYA Y LUCIENTES
+
+geb.1746 in Fuente de Todos, gest. 1828 in Bordeaux.
+
+Seine Art.
+
+Leinwand. Hohe 1oI cm,Breite I3o cm. Gerahmt.
+
+## 66 Beim Hufschmied.
+
+Ein Kavalier laBt sein Pferd beschlagen, dabei ein am Boden hockender
+
+Bauer und eine Ziege.
+
+Leinwand. Hohe 28 cm,Breite 26,5 cm. Schwarzer Rahmen.
+## JAN VAN GOYEN
+
+geb. 1596 in Leiden, gest. 1656 im Haag.
+
+Ihm zugeschrieben.
+
+- 67 7FluBlandschaft
+
+sudlandischen Charakters. Rechts vorn eine verfallene,antike Mauer, vom
+
+Baumschlag eines Gartens iberragt. Figurliche Staffage. Aufziehendes Wetter.
+
+Leinwand. Hohe 47,5 cm, Breite 62 cm. Goldrahmen.
+
+- 68 Hollandische Landschaft.
+
+Winkel eines groBen Teiches mit Bauernhitten und Windmihle. Figur- liche Staffage.
+
+Holz. Hohe 21,5 cm, Breite 29 cm. Schwarzer Rahmen.
+
+## GIOVANNI FRANCESCO BARBIERI GEN.IL GUERCINO
+
+geb. 1591 in Cento, gest. 1666 in Bologna.
+
+Alte Kopie nach ihm.
+
+- 6g Die VerstoBung der Hagar.
+
+Abraham entlaBt die junge Magd, die ihren weinenden Knaben trostet. Links Sarah. Halbfiguren.
+
+Goldrahmen.
+
+Leinwand. Hohe 7I cm, Breite 9I cm.
+
+Seine Schule.
+
+- 70 Venus undAmor.
+
+Vor verdunkelter Landschaft die entbloBte Gottin, dem kleinen Amor den Bogen vorenthaltend.
+
+Holz. Hohe 102 cm, Breite 78 cm. Goldrahmen.
+
+## JAKOB PHILIPP HACKERT
+
+geb. 1737 in Prenzlau, gest. 18o7 in Florenz.
+
+- 7I LandschaftinAbendstimmung.
+
+Italienische Gebirgslandschaft mit reicher Architektur und mit figirlicher Staffage im Vordergrund.
+
+Leinwand. 96:128,5 cm. Gerahmt.
+- 76
+- 5 Geisselung Christi.
+
+Christus an der Martersaule, von zwei Kriegsknechten gegeiBelt.
+
+Leinwand. Hohe 6o cm, Breite 74 cm. Gerahmt.
+
+## JAN JOSEPH HOREMANS
+
+geb. 1682 in Antwerpen, gest. 1759.
+
+- 77 Zechende Gesellschaft.
+
+Auf der DorfstraBe sitzt vor einem Wirtshause eine kleine Gesellschaft zechender Landleute. Im Hintergrunde rechts erblickt man das Kirchdorf.
+
+Leinwand. Hohe 39 cm, Breite 32 cm. Goldrahmen.
+
+## JOHN GEORGE VON HAMILTON
+
+geb. 1672 in Brussel, gest. 1737 in Wien.
+
+- 72 Jagdszene.
+
+Rokokogesellschaft, die Strecke besichtigend.
+
+Leinwand. Hohe 46 cm,Breite 64 cm. Gerahmt.
+
+- 73 Desgleichen. Gegenstick.
+
+Dieselbe Gesellschaft,zur Jagd aufbrechend.
+
+Ebenso. Ebenso. Ebenso.
+
+## GERARD VON HONTHORST
+
+geb.1590 in Utrecht, gest.1656 daselbst.
+
+Ihm zugeschrieben.
+
+- 74 Hiob wird verspottet.
+
+Der nackte Dulder, an der Erde sitzend, wird von seinem Weibe verspottet. Dabei zwei Manner.
+
+Leinwand. Hohe 8g cm, Breite II4 cm. Goldrahmen.
+
+- 75 Desgleichen. Gegenstuck.
+
+Christus erscheint zwei Jungern auf dem Wege nach Emaus. Felsige Landschaft mit Architektur.
+
+Ebenso. Ebenso. Ebenso.
+78 Bildnis.
+
+Alter Mann im Hemd, auf einem Bett sitzend, sein Gewand ausbessernd. Auf einem Stuhl steht eine Weinflasche und ein Weinglas neben einem Brot.
+
+An der Bettstatt bezeichnet.
+
+Holz. Hohe 32,5 cm, Breite 24 cm. Goldrahmen.
+
+78a De sgleichen. Gegenstick.
+
+Bildnis einer alten Frau, strickend an einem Tische sitzend, auf dem ein Krug, ein Weinglas und Brot nebst Messer.
+
+Ebenso. Ebenso. Ebenso.
+
+## JAN VAN HUCHTENBURGH
+
+geb. 1646 in Haarlem, gest.1733 in Amsterdam.
+
+- 79 Schlachtenbild.
+
+An einem Brickenkopf tobt eine Reiterschlacht. Auf der Brucke im Mittelplan Kampf zwischen FuBtruppen. Links im Mittelplan ricken Reserven aus dem Feldlager heran.
+
+Leinwand. Hohe 115 cm, Breite 17o cm. Goldrahmen.
+
+## ITALIENISCHE MEISTER DES 17. JAHRHUNDERTS
+
+- 8o HeiligeFamilie.
+
+Die hl. Maria auf einem Sockel vor Architektur sitzend, das Kind im SchoB haltend, das die Arme nach einem Vogelchen ausstreckt, welches die Mutter an einem Faden angebunden hat. Daneben der kleine Johannes mit Kreuzstab und Lamm. Hinter der Madonna der hl. Joseph. Links Ausblick in die Landschaft.
+
+Leinwand. Hohe 67 cm,Breite 55 cm. Gerahmt.
+
+- 81 Anbetung der Hirten.
+
+In dem dunklen Stall sitzt die hl. Jungfrau mit dem Kinde auf dem SchoB, vor ihr eine anbetende Hirtenfamilie: Altes Ehepaar und Jungling. Im Hintergrunde der hl. Josef.
+
+Leinwand. Hohe 75 cm, Breite 94,5 cm.S
+
+## PETER JAKOB HOREMANS
+
+Schwarzer Rahmen.
+- 82 Interieur.
+
+Hofwinkel eines Palazzo, als Wirtshaus eingerichtet. Links sitzen zwei
+
+Leinwand. Hohe 65 cm, Breite 54 cm. Goldrahmen.
+
+Kavaliere beim Wein, rechts bereitet der Wirt an einem Tische eine Speise.
+
+- 83 Madonna mitKind.
+
+Brustbild, Dreiviertelprofil nach links.
+
+- 84 Hl.Familie.
+
+Die hl.Maria vor Landschaft sitzend, das Jesukind auf dem SchoB, dabei der hl. Joseph und der kleine Johannes.
+
+Leinwand. Hohe 88 cm, Breite 6g cm. Gerahmt.
+
+Leinwand. Hohe 117 cm, Breite 92,5 cm. Ungerahmt.
+
+- 85 Madonna.
+
+Die jugendliche Mutter, das Jesukind tragend,das die rechte Hand segnend erhebt.
+
+- 86 Derhl. Stephanus.
+
+In ganzer Figur stehend, ein Buch haltend und auf eine Schriftstelle in demselben hinweisend. Als Staffage die Darstellung seines Martyriums. Mit lateinischer Legende.
+
+Leinwand. Hohe 107 cm, Breite 79 cm. Gerahmt.
+
+- Historisches Motiv.
+
+Einer Konigin, die in einem Zelte sitzt, wird durch einen Kriegsknecht das Haupt eines Hingerichteten iberbracht. Im Hintergrunde die zahlreiche Leibwache der Firstin.
+
+Leinwand. Hohe 102 cm, Breite 133 cm. Gerahmt.
+
+- 88 Allegorie auf die Mildtatigkeit.
+
+begleitet,Brote und Getranke an drei arme Manner.
+
+In FluBlandschaft mit Architektur verteilt ein Mann, den eine Frau
+
+Holz. Hohe 40,5 cm, Breite 57 cm. Gerahmt.
+
+## ITALIENISCHE MEISTER
+
+## DES 17. JAHRHUNDERTS.
+
+Holz. 29,5:26,5 cm. Gerahmt.
+## ITALIENISCHE MEISTER DES 17. JAHRHUNDERTS.
+
+## 8g Der Schwur der Horatier.
+
+Tempelinterieur. Ein greiser Mann gibt den drei schworenden Junglingen
+
+Leinwand. Hohe 98 cm, Breite 76 cm. Goldrahmen.
+
+die Schwerter.
+
+- go Desgleichen. Gegenstick.
+
+Markus Curtius in voller Rustung zu Pferd springt vor zahlreichem Volk
+
+Ebenso. Ebenso. Ebenso.
+
+Leinwand. Hohe 575 cm, Breite 68 cm. Goldrahmen.
+
+in den feuerspeienden Schlund.
+
+- 9I Pero.
+
+Das Madchen reicht dem Vater die Brust.Halbfigur.
+
+- 92 2 Der Tempelgang Maria.
+
+Die kindliche Maria schreitet die Tempeltreppe hinauf, empfangen von
+
+Leinwand. Hohe 94 cm, Breite 7o cm. Goldrahmen.
+
+dem Hohenpriester und der Gemeinde. Am FuBe der Treppe zahlreiches Volk.
+
+- 93 Die Anbetung der hl. 3Konige.
+
+Leinwand. Hohe 7o cm, Breite 65 cm. Gerahmt.
+
+Rechts die Madonna mit dem Kinde, bei ihr der hl. Joseph, links die hl. 3 Konige.
+
+- 94 Flucht nach Agypten.
+
+In Landschaft, die in Dammerung liegt,zieht die hl. Familie ihres Weges. Das Jesukind und die hl. Maria wenden sich den Engeln zu, die vom Himmel herabschweben.
+
+Leinwand. 76,5:96 cm. Goldrahmen.
+
+- 95 Der Zinsgroschen.
+
+Christus und zwei Pharisaer im Gesprache iber den Zinsgroschen. Halbfiguren.
+
+Leinwand. Hohe 98 cm, Breite 6g cm. Gerahmt.
+96
+
+## ITALIENISCHE MEISTER DES 17.JAHRHUNDERTS.
+
+- 5 Irene belebt den hl. Sebastian.
+
+Das junge Weib zieht die Pfeile aus dem Korper des scheintoten Glaubens- genossen.
+
+Leinwand. Hohe 72 cm, Breite 97 cm. Gerahmt.
+
+- 97 Schlafende Venus.
+
+In einer Landschaft liegt die Gottin nackt vor einer roten Draperie, die ein Faun zurickschlagt,ein herbeifliegender Amor warnt den Neugierigen.
+
+Leinwand. Hohe 98 cm,Breite 6g cm. Schwarzer Rahmen.
+
+- 98 Neckerei.
+
+Ein mutwilliger Knabe neckt ein strickendes Madchen.
+
+Leinwand. Hohe 93 cm, Breite 69 cm. Schwarzer Rahmen.
+
+- 99 Amor.
+
+In Landschaft von Baumschlag in halbliegender Stellung kniet ein blonder nackter Amor, den Bogen haltend.
+
+Leinwand. Hohe 75,5 cm, Breite 55 cm.S Schwarzer Rahmen.
+
+- Ioo Musizierende Amoretten.
+
+Vier Amoretten mit Tamburins, Klarinette und anderen Instrumenten in Landschaft.
+
+Leinwand. Hohe 73 cm, Breite 10o cm. Gerahmt.
+
+- I01 Spielende Amoretten.
+
+Drei nackte Putten bei einem Kinderspiel. Vor neutralem Grund. Leinwand. Hohe 67 cm, Breite go cm. Gerahmt.
+
+- I02 Fruchtstuck.
+
+Auf einem Marmorsockel liegen Trauben,Melonen und andere Frichte, dabei steht eine Vase,in der ein BlumenstrauB.
+
+Leinwand. Hohe 82 cm,Breite 112 cm. Gerahmt.
+103a Bildnis.
+
+Brustbild eines Fursten in Halbharnisch und Muhlsteinkragen. Land- schaftlicher Grund.
+
+Leinwand. Hohe 57 cm, Breite 43 cm. Schwarzer Rahmen.
+
+Hinten von alter Hand bezeichnet als Alessandro Farnese, Herzog von Parma und Piacenza (1546—1592).
+
+## THEODOOR DE KEYSER
+
+geb. 1596 in Amsterdam, gest. 1667 daselbst.
+
+Seine Art.
+
+- 104 Bildnis.
+
+Brustbild einer Dame in mittleren Jahren. Dreiviertelprofil nach links.
+
+Dunkles Kostuim. Muihlsteinkragen. Einfache Haube.
+
+Holz. Hohe 7o cm, Breite 61 cm. Gerahmt.
+
+Ausstellung alter Gemalde im stadtischen Kaufhause zu Freiburg i. Br.
+
+8.bis 22.November 19o8. Nr.86.
+
+Abbildung Tafel 1o.
+
+## JOHANN CHRISTIAN KLENGEL
+
+geb. 1751 in Kesselsdorf, gest. 1824 in Dresden.
+
+- 105 Tierstuck.
+
+Auf hugeligem Weidegelande zwei ruhende und ein stehendes Rind.
+
+Im Mittelplan der schlafende Hirte.
+
+Unten rechts bez.
+
+Leinwand. Hohe 23,5 cm, Breite 30 cm. Goldrahmen.
+
+## ITALIENISCHE MEISTER DES 17.JAHRHUNDERTS.
+
+## 103 Plafondmotiv.
+
+Zwei Nymphen auf einem Felsen, von einem Greise bedroht, der einen groBen Stein schleudert. Vor neutralem Grunde. Umrahmt von einer im
+
+Viereck umlaufenden Blumengirlande.
+
+Holz. Hohe 55,5 cm, Breite 58 cm. Goldrahmen.
+## ALBERT JANSZ KLOMP
+
+geb.1618 in Amsterdam,gest.1688 daselbst.
+
+106 Stier,von Hunden gehetzt.
+
+In FluBlandschaft wird ein durchgegangener Stier von einem Rudel Hunden gestellt.
+
+Leinwand. Hohe 36,5 cm, Breite 49 cm. Goldrahmen.
+
+JEAN BAPTISTE LAMBRECHTS geb. 168o in Antwerpen, gest. nach 1731.
+
+I07 Vor dem Wirtshaus.
+
+Vor dem Gasthaus, das mit hibschem Baumschlag staffiert ist,sitzt eine Gesellschaft von Burgern und Burgerinnen. Rechts Ausblick in die Land-
+
+Leinwand. Hohe 30 cm, Breite 22 cm. Goldrahmen.
+
+schaft, die in Dammerungsstimmung gegeben ist.
+
+107a Desgleichen.
+
+Gegenstick.
+
+Gleiches Sujet, der Ausblick in die Landschaft hier auf der linken Seite. Ebenso. Ebenso. Ebenso.
+
+## Nahe des CHARLES LE BRUN
+
+geb. 1619 in Paris, gest. 169o daselbst.
+
+- Io8 Prometheus entwendet das Feuer.
+
+Prometheus in Wolken, nach einem Bundel Blitze greifend, das Athene ihm streitig macht. Oben Phobus mit dem Sonnenwagen.
+
+Leinwand. Hohe 76 cm, Breite 64 cm. Gerahmt.
+
+## JACOPO LIGOZZI
+
+geb. um 1543 in Verona, gest. nach 1632.
+
+- Iog Schlachtenszene.
+
+Reiterschar auf einer Bricke kampfend, die zur Halfte bereits einge- stirzt ist.
+
+Leinwand. Hohe 56 cm, Breite 58 cm. Ohne Rahmen.
+## III
+
+## II2
+
+## ADRIAEN CORNELISZ VAN LINSCHOTEN
+
+geb. 1590 in Delft, gest. 1677 im Haag.
+
+## Christus am Olberg. IIO
+
+Dem in die Knie gesunkenen Heiland bringt der Engel den Kelch. Leinwand.Hohe 75 cm, Breite 93 cm. Goldrahmen.
+
+## CARLO MARATTI
+
+geb. 1625 in Camerano, gest. 1713 in Rom.
+
+Ihm zugeschrieben.
+
+Ioa Ruhe auf der Flucht.
+
+Weite FluBlandschaft. Im Vordergrunde vor prachtigem Baumschlag die hl.Familie mit dem kleinen Johannes.
+
+Auf Kupfer. Hohe 18 cm,Breite 14 cm. Geschnitzter Goldrahmen.
+
+## ANDREA MELDOLLA,GEN. SCHIAVONE.
+
+geb. 1522 in Sebenico, gest. 1582 in Venedig.
+
+## Mariae Tempelgang.
+
+Die jugendliche Maria steigt die Tempeltreppe hinauf; empfangen vom
+
+Hohenpriester und begleitet von zahlreichem Volk.
+
+Leinwand. Hohe 135 cm, Breite 98 cm.
+
+Abbildung Tafel18.
+
+## ANTON RAPHAEL MENGS
+
+geb. 1728 in AuBig, gest. 1779 in Rom.
+
+Seine Art.
+
+## 2 Jesukind.
+
+Auf einem Rasen in halb liegender Stellung sitzend, die erhobene Rechte halt die Dornenkrone, die Linke einen Kranz von roten Rosen. Dammerungsstimmung. Links in Wolken zwei Seraphs.
+
+Leinwand. Hohe 11o cm, Breite 83 cm. Gerahmt.
+
+Gerahmt.
+116 KirmeB.
+
+Breite DorfstraBe.Rechts die Hauser und die Dorfkirche, durch Baumschlag hubsch staffiert, links ein einzelnes Haus vor Baumschlag, in der Mitte Blick in die von Bergzigen geschlossene Ferne.Auf dem freien Platz vor der Kirche sind Jahrmarktsbuden aufgeschlagen und viel Volk tummelt sich umher. Links kommt ein Wagen angefahren, dessen Insassen von verschiedenen Seiten lebhaft begriBt werden.
+
+Leinwand. Hohe 85 cm, Breite 14o cm. Gerahmt.
+
+Abbildung Tafel II.
+
+## I17 Landschaft.
+
+Huigel am Weiher. Rechts ein Wirtshaus, von schonem Baumschlag verdeckt,dahinter die Spitze eines Kirchturms,links ein malerischer Kanal mit Fischerhutten und hubscher Fernsicht. Im Vordergrunde figurliche
+
+Holz. Hohe 23 cm, Breite 20 cm. Schwarzer Rahmen.
+
+Staffage.
+
+Abbildung Tafel 6.
+
+## JAN MIEL
+
+geb. 1599 in SchloB Ulaerdingen bei Antwerpen, gest. 1664 in Turin.
+
+## 113 Die Klostersuppe.
+
+In Landschaft vor einem Kloster ist armes Volk versammelt, die Kloster- suppe loffelnd.
+
+Leinwand. Hohe 49 cm, Breite 65 cm. Gerahmt.
+
+## II4 Landschaftmit Herde und Hirtin.
+
+Campagnalandschaft (mit Erinnerung an das Grabmal der Cacilia Metella) mit bewolktem Himmel. Im Vordergrunde eine Herde (Schafe, Ziegen, eine Kuh) mit Hirtenbuben.
+
+Leinwand. Hohe 95 cm,Breite 126 cm. Goldrahmen.
+
+## CLAAS MOLENAER
+
+gest. 1676 in Harlem.
+## JAN MIENSE MOLENAER
+
+geb. 1610 in Harlem, gest. 1668 daselbst.
+
+I18 Landschaft.
+
+LandstraBe, die an einem Hugel vorbeifuhrt, auf dem zwei Bauern- hauser vor Baumschlag stehen. Vorn figirliche Staffage.
+
+Holz. Hohe 15,5 cm, Breite 20,5 cm. Schwarzer Rahmen.
+
+## BARTOLOME ESTEBAN MURILLO
+
+Seine Schule.
+
+- 119 Erziehung derhl. Maria.
+
+Vor einem Fenster, das Ausblick in die Landschaft gewahrt, sitzt die hl.Anna,die kindliche Maria im Lesen eines Buches unterweisend.
+
+Leinwand. Hohe 96 cm, Breite 76 cm. Goldrahmen.
+
+## AERNOUT VAN DER NEER
+
+- 120 Hafenbuchtim Mondschein.
+
+Hollandisches Milieu. Meeresbucht, von mehreren Schiffen und Fischerbooten belebt, durch den aufgehenden Vollmond, der sich im Wasser spiegelt.
+
+beleuchtet.Vorn Fischerbuben bei einem Holzfeuer.
+
+Rechts unten signiert A. v. N.
+
+Holz. Hohe 46 cm,Breite 7o cm.Goldrahmen.
+
+Abbildung Tafel 12.
+
+## CASPAR NETSCHER
+
+geb. 1639 in Heidelberg, gest. 1684 im Haag.
+
+120a Bildnis.
+
+Ein Herr in reichem Kostim, in einem Bibliotheksraum an einem Tische sitzend, einen Knaben eine Druckschrift ibergebend. (Hinten von alter hollandischer Hand als Netscher und als Portrat eines Statthalters der Niederlande bezeichnet.)
+
+Leinwand. Hohe 95 cm, Breite 73 cm. Goldrahmen.
+- I21 Salome.
+
+In hugeliger Landschaft steht in der Mitte der Henker bei dem Leichnam des Enthaupteten. Links eine Schar Reisige beritten und zu FuB,rechts empfangt Salome, die von ihrem Gefolge begleitet ist,das Haupt aus der Hand des Henkers.
+
+Leinwand. 77,5:61 cm.Gerahmt.
+
+## NIEDERLANDISCHE MEISTER DES 17.JAHRHUNDERTS
+
+## I22 DasGastmahlBelsazars.
+
+An einer reich besetzten Tafel sitzt der Konig mit seinem Gefolge. An der Wand erscheint eine Hand, die auf die Worte MANE THEKEL PHARES hinweist.
+
+Holz. Hohe 39 cm, Breite 55 cm. Goldrahmen.
+
+- I23 Historische Szene.
+
+Ermordung eines Fursten an der Tafel durch zwei mit Dolchen bewaffnete
+
+Verschworene. Antik-romisches Milieu.
+
+Kupfer. Hohe 18,5 cm, Breite 23,5 cm. Goldrahmen.
+
+- 124:Heilige Familie.
+
+In einer Felsengrotte die jugendliche Maria, das Kind anbetend, daneben der hl. Joseph.
+
+Holz. Hohe 58,5 cm, Breite 37,5 cm. Schwarzer Rahmen.
+
+- 125
+- 5 Christus unterden Schriftgelehrten.
+
+Hinter einem Lesepulte steht der Knabe aus einem Buche lehrend, um ihn herum die versammelten Schriftgelehrten, ihm zunachst die hl. Maria.
+
+Kupfer. Hohe 65 cm, Breite 51 cm. Gerahmt.
+
+## 126 GroBeLandschaft.
+
+Meeresbucht mit gebirgiger Kiste. Im Vordergrunde vor Anker gegangene Schiffe, dabei figurliche Staffage.
+
+Leinwand. Hohe 120 cm, Breite 200 cm. Goldrahmen.
+## NIEDERLANDISCHE MEISTER
+
+## DES 17.JAHRHUNDERTS.
+
+- 127 Viehherdeim Gebirge.
+
+In Campagnagegend vor einem durch Buschwerk fast verdeckten, antiken Monument ein Hirtenpaar mit Rindern und Ziegen. Dammerungs- stimmung.
+
+Leinwand. Hohe 48 cm,Breite 65 cm. Schwarzer Rahmen.
+
+- 128 Waldeingang.
+
+Die StraBe,die in einen schonen Laubwald fuihrt,belebt durch ein reitendes Paar und mehrere Wanderer. Rechts Blick iber einen FluB auf ein vor
+
+Bergen gelegenes Dorf.
+
+- 129 Landschaft.
+
+Szenerie italienischen Charakters,rechts Felsen mit antiken Tempelruinen,links machtige Baumschlagkulisse. Durch die Mitte Blick in die gebirgige Ferne.
+
+Leinwand. Hohe 64 cm, Breite 84 cm. Goldrahmen.
+
+- 130 Strandbild.
+
+Meeresbucht levantinischen Charakters,belebt durch Fischerboote,bei denen Einheimische mit Kaufleuten verhandeln.
+
+Leinwand. Hohe 47 cm, Breite 65,5 cm. Gerahmt.
+
+- I31 Desgleichen.Gegenstick.
+
+Seenot. Eine Flotille von finf Schiffen scheitert an einer felsigen Kiste.
+
+Auf den Wellen Mannschaften, die sich zu retten suchen.
+
+Ebenso. Ebenso. Ebenso.
+
+Holz. Hohe 29,5 cm, Breite 38 cm. Goldrahmen.
+## NIEDERLANDISCHE MEISTER DES 17. JAHRHUNDERTS.
+
+## 132 Kustenlandschaft.
+
+Meeresbucht, durch hohe Gebirgszige eingeschlossen. Levantinisches Motiv, durch Schiffe und Figuren staffiert.
+
+Leinwand. Hohe 33 cm,Breite 52 cm. Goldrahmen.
+
+## 133 Falkenjagd.
+
+Hugeliges Wiesengelande. Im Vordergrunde ein Reiter in Rickenansicht, einen Falken auf der linken Hand tragend. Im Mittelplan andere Reiter und jagende Hunde.
+
+Unten links signiert: H. V.
+
+Holz. Hohe 19,5 cm, Breite 24,5 cm. Holzgeschnitzter Goldrahmen.
+
+Abbildung Tafel 19.
+
+## 134 Kucheninterieur.
+
+Inneres einer herrschaftlichen Kiche.Im Vordergrunde sitzt die Dame vom Hause an einem Tische, auf diesem ein prachtiges Schaugericht in Gestalt eines mit Blumen bekronten Schwanes, dabei ein Paar feine Weinglaser, sowie Brote. Bei der Dame steht ein herrschaftlich gekleideter Knabe,der bei der Kuichenarbeit mithilft. Im Hintergrunde Kuchenpersonal am Herd. Gefligel,Fische,Wildpret,Fruchte und allerlei Kuchengerat staffieren das
+
+Bild. Ausgang 17.Jahrhundert.
+
+Auf Leinwand. Hohe 51 cm, Breite 68,5 cm. Goldrahmen.
+
+## 135 Der Pfannkuchen.
+
+Auf einem Steinblock ist ein Herd improvisiert, auf dem eine alte Frau
+
+Pfannenkuchen backt. Mehrere Volkstypen,alt und jung,stehen herum, Pfannenkuchen essend, oder auf neue wartend.
+
+Holz. Hohe 29 cm, Breite 24,5 cm. Goldrahmen.
+
+## 136 Lagerszene.
+
+In leicht hugeliger Landschaft das Zeltlager eines Soldnerheeres. Im Vordergrunde das Zelt der Marketenderin. Dabei aufsitzende Reiter und zum Aufbruch blasender Trompeter,allerlei Weiber und Soldaten.
+
+Holz. Hohe 31,5 cm, Breite 41,5 cm. Ungerahmt.
+
+Abbildung Tafel 2.
+## 137 Stilleben.
+
+Auf einer Tischplatte liegen in einer Fayenceschussel, auf einer Silberplatte und daneben,resp. dazwischen Weintrauben, Melonen,Pfirsiche,eine angeschnittene Zitrone, sowie Austern. Dabei eine silbergetriebene Aufsatzschale, ein gedeckelter Pokal und ein mit WeiBwein halb gefilltes Becherglas.
+
+Leinwand. Hohe 54 cm, Breite 7I cm. Goldrahmen.
+
+- 138 Stilleben.
+
+Auf einer Tischplatte sind eine Fayenceplatte,eine Silberplatte und eine Fayenceschussel abgestellt, darauf ist Obst gehauft. Mehrere kost- bare silbervergoldete und KristallgefaBe stehen dabei.
+
+Holz. Hohe 25 cm,Breite 31,5 cm. Ungerahmt.
+
+## NIEDERLANDER MEISTER ANFANG 17.JAHRHUNDERT.
+
+- 139 Studienkopf.
+
+Bartiger alterer Mann, Brustbild, Profil nach links. Dunkles Gewand.
+
+Holz. Hohe 21 cm, Breite 15,5 cm.
+
+Halskrause.
+
+139aBildnis.
+
+Brustbild eines Kavaliers,Dreiviertelprofil nach links. Dunkles Gewand mit geschlitzten Armeln; flach aufliegender Schulterkragen. Langes, dunkles Haar.
+
+Leinwand.Hohe 61,5 cm,Breite 48 cm. Breiter Rahmen.
+
+## I40 Kinderportrat.
+
+Sitzender Knabe, fast unbekleidet,eine Katze im Arm haltend.
+
+Leinwand. Hohe 84 cm,Breite 59 cm. Schwarzer Rahmen.
+
+- I41 Martyrium deshl. Stephan.
+
+Auf Rasen vor der gewaltigen Stadtmauer kniet der Heilige, der von der Volksmenge gesteinigt wird. Im Hintergrund hubsche Landschaft als AbschluB der Szene. In den Wolken erscheinen,von Engeln getragen, Gott
+
+Vater, Gott Sohn und die hl. Maria.
+
+Kupfer. Hohe 39 cm,Breite 32.5 cm. Goldrahmen.
+I42 Bacchanal.
+
+Eine Gruppe von Satyren tragt den kleinen, dicken Bacchus.
+
+Leinwand. Hohe 65 cm, Breite 58 cm.Gerahmt.
+
+- 143 Einsiedler.
+
+In einer Hohle,deren Eingang den Blick in den Wald freilaBt, sitzt ein greiser Eremit in Kapuzinertracht, einen Totenkopf in der Hand, auf ein Kruzifix blickend,bei dem zwei Bicher liegen. Im Hintergrunde ein junger Bruder. An einem Steine rechts in Mittelhohe monogrammiert: H.E. M.
+
+Holz. Hohe 39 cm, Breite 3I cm. Goldrahmen.
+
+## NIEDERLANDISCHE MEISTER DES 17.JAHRHUNDERTS.
+
+- I44 4 Der Traum Pharaos.
+
+Der greise Herrscher, auf dem Ruhebett liegend, sieht die sieben fetten Kihe am Nilufer. In eine Kartusche gemalt.
+
+Holz. Hohe 6o cm, Breite 89 cm.Gerahmt.
+
+## 144a Des gleichen. Gegenstick.
+
+Joseph deutet den Traum. Figurenreiches Bild.
+
+Ebenso. Ebenso. Ebenso.
+
+- I45
+
+## NIEDERLANDER MEISTER ANFANG 17.JAHRHUNDERT.
+
+- Findung Mosis.
+
+In schoner Landschaft mit Palastruine die Tochter Pharaos mit Gefolge, den kleinen Moses und drei andere ausgesetzte Kindlein am Rande des Stromes
+
+Leinwand. Hohe 41 cm,Breite 55 cm. Gerahmt.
+
+- I46 Aus der Geschichte Ruths.
+
+Am Getreidefeld Ruth,von zwei Frauen verspottet. Des Weges kommen die beiden Alten daher.
+
+Leinwand. Hohe 72 cm, Breite 94 cm. Schwarzer Rahmen.
+
+auffindend.
+- 148 Marine.
+
+An gebirgiger Kuiste italienischen Charakters ein groBes franzosisches
+
+Kriegsschiff, zwei Kauffahrteischiffe und Fischer, ein Netz einbringend.
+
+Leinwand. Hohe 56 cm,Breite 7I cm. Goldrahmen.
+
+- 149 Marktszene.
+
+Marktplatz,am Flusse und Brickenkopf gelegen, durch Architektur, die mit Baumschlag staffiert ist, begrenzt. Reich belebt durch Handler, einkaufende Stadtleute und spielende Kinder.
+
+Leinwand. Hohe 38,5 cm, Breite 53.5 cm. Goldrahmen.
+
+- 150 Stilleben.
+
+Vor einer Hecke sind tote Vogel und einige Fruichte niedergelegt. Links Ausblick in die Landschaft.
+
+Holz. Hohe 25,5 cm, Breite 35 cm. Goldrahmen.
+
+## NIEDERLANDISCHE MEISTER DES 17. JAHRHUNDERTS.
+
+## I47 Verproviantierung von Kriegern.
+
+Eine Gruppe antikisierender Krieger empfangt Fourage von einem Madchen und einem Burschen.
+
+Leinwand. Hohe 66 cm, Breite 85 cm. Gerahmt.
+
+- 151 Landschaft.
+
+Kleines Dorf mit Kirche,in bergiger Gegend, die durch einen breiten FluB durchzogen ist. Hubsche Baumschlagkulissen,reiche figurliche Staffage auf dem Platze vor der Kirche.
+
+Leinwand. Hohe 43 cm, Breite 55 cm. Goldrahmen.
+
+151a Desgleichen. Gegenstuick.
+
+Ganz ahnliche Darstellung, nur liegt das Kirchdorf in einer ebenen FluB- landschaft, das Gebirge schlieBt die Szene.
+
+Ebenso.Ebenso.Ebenso.
+- 152 Stilleben.
+
+An einem Baume ist totes Geflugel aufgehangt und davor niedergelegt.
+
+Als Wachter ein Hund. Rechts Blick in waldreiche, durch Bergzige geschlossene Landschaft, staffiert durch einen Jager mit Hund.
+
+Leinwand. Hohe 77 cm, Breite 57 cm. Goldrahmen.
+
+## 153 Jagdgesellschaft.
+
+In higeliger Landschaft ein Kavalier und eine Dame zu Pferd,begleitet von zwei mit der Meute beschaftigten Jagern.
+
+Leinwand. Hohe 43 cm, Breite 53 cm. Ungerahmt.
+
+## MARIO NUZZI,GEN.MARIO DA FIORI
+
+geb. 1603 in Penna, gest. 1673 zu Rom.
+
+## 154 Blumenstick.
+
+Auf einer Platte steht eine einfache Vase mit einem prachtigen BlumenstrauB.
+
+Leinwand. Hohe 56 cm, Breite 44 cm. Goldrahmen.
+
+## FRANCESCO MAZZUOLA IL PARMIGIANO
+
+geb. 1503 in Parma, gest.1540 in Casalmaggiore.
+
+## 155 Die Darstellungim Tempel.
+
+Die hl. Maria iberreicht dem Hohenpriester das Jesukind. Dabei der hl. Simon, der hl. Joseph und drei Jungfrauen.
+
+Leinwand. Hohe 125 cm, Breite 110 cm. Gerahmt.
+
+## GIOVANNI ANTONIO PELLEGRINI
+
+geb.1675 in Venedig,gest.1741.
+
+- I56 Sopraporta-Motiv.
+
+Engel halten eine Kartusche mit den Namen Jesu und Maria.
+
+Leinwand. Hohe 72 cm, Breite 95 cm. Goldrahmen.
+
+## NIEDERLANDISCHER MEISTER DES 18.JAHRHUNDERTS.
+## ADAM PYNACKER
+
+geb. 1622 in Pynacker b. Delft, gest. 1673 in Amsterdam.
+
+- 157 GroBeLandschaft.
+
+Im Mittelplan eine StraBe, die durch Wald fihrt. Hugeliges Gelande, das durch Gebirge abgeschlossen wird. Prachtiger Baumschlag im Vordergrund. Auf der LandstraBe ein Maultier mit einem Treiber. Pittoresker Himmel in Sonnenuntergangsfarbung.
+
+Leinwand. Hohe 122,5 cm, Breite 105 cm. Goldrahmen.
+
+Abbildung Tafel 14.
+
+## EGBERT VAN DER POEL
+
+geb. 1621 in Delft, gest.1664 in Rotterdam.
+
+- 158 Feuersbrunst.
+
+In einer Stadt ist ein GroBfeuer (Explosion?) ausgebrochen. Der Feuerherd, der iber die ganze Stadt Funken versendet, ist die Lichtquelle des Bildes.Im Vordergrund die mit ihren Habseligkeiten fluchtende Bevolkerung.
+
+Unten links bez.
+
+Holz. Hohe 45 cm, Breite 62 cm. Schwarzer Rahmen.
+
+## JAN PORCELLIS
+
+geb. 1597 in Gent, gest.1632 in Loeterwoude bei Leiden.
+
+- 159 Marine.
+
+Ein groBeres und mehrere kleinere Schiffe auf bewegter See.
+
+Holz. Hohe 40 cm, Breite 63 cm. Goldrahmen.
+
+## PAULUS POTTER
+
+geb. 1625 in Enkhuizen, gest.1654 in Amsterdam.
+
+Seine Art.
+
+- 16o LandschaftmitVieh.
+
+Hollandisches Kanalufer,im Vordergrunde links eine Herde von Kuhen und Schafen vor pittoreskem Baumschlag, den eine Dorfkirche iberragt.
+
+Die eine Kuh wird von einer Magd gemolken.
+
+Holz. Hohe 50,5 cm, Breite 73 cm. Schwarzer Rahmen.
+- 162 Madonna.
+
+## NICOLAS POUSSIN
+
+geb. 1593 in Andelys,gest.1665 in Rom.
+
+Seine Art.
+
+161 Landschaft.
+
+Gebirgige Gegend mit Wald, Wiesen und Wasser. Im Vordergrunde ein
+
+Angler und ein Hirtenmadchen. In der Tiefe des Bildes ein Reiter.
+
+Leinwand. Hohe 49.5 cm, Breite 65,5 cm. Ungerahmt.
+
+Aus englischem Besitz.
+
+Nahe des
+
+FRANCOIS QUESNEL
+
+gest. 1619 in Paris.
+
+Im Kniestick sitzend, vor Landschaft, das Kind auf dem SchoB. Die
+
+Linke halt das Kreuz.
+
+Auf Holz. Oval. Hohe 33 cm, Breite 24,5 cm. Gerahmt.
+
+## SCHULEREMBRANDTS
+
+- 163 Petrus verleugnetden Herrn.
+
+Mondnacht. Rechts die offene Halle eines Palastes, links im nachtlichen Dunkel liegende Landschaft. In der Halle sitzt Pilatus,vor ihm steht Christus mit auf den Ricken gebundenen Handen. Die Hauptszene fillt die Menge der Krieger und des Gesindes, das Petrus bedrangt. Die ganze Handlung vollzieht sich bei Fackelschein und Kerzenlicht.
+
+Kupfer. Hohe 53 cm,Breite 74 cm. Schwarzer Rahmen.
+
+Abbildung Tafel 17.
+
+JUSEPE DE RIBERA,GEN.LO SPAGNOLETTO
+
+geb. 1588 in Jativa, gest. 1652 in Neapel.
+
+Ihm zugeschrieben.
+
+164Hl.Nikolaus.
+
+Brustbild, in andachtiger Haltung gen Himmel blickend.
+
+Leinwand. Hohe 65 cm, Breite 48 cm. Goldrahmen.
+## JUSEPE DE RIBERA, GEN. LO SPAGNOLETTO geb. 1588 in Jativa, gest. 1652 in Neapel.
+
+Ihm zugeschrieben.
+
+- 165 Bildnis.
+
+Brustbild eines greisen Hellebardiers in Federhut.
+
+Leinwand. Hohe 53 cm, Breite 45 cm. Goldrahmen.
+
+- 166 Desgleichen.
+
+Bildnis eines greisen Mannes,der eine Medaille an einer Brustkette tragt. Brustbild. Dreiviertelprofil nach links.
+
+Ebenso. Ebenso.Ebenso.
+
+## MARCO RICCI
+
+geb. 1679 in Cividal di Belluno, gest. 1729 in Venedig.
+
+- 167 Mythologische Szene.
+
+Merkur zeigt drei Nymphen dem kleinen Paris. Waldlandschaft als
+
+Szenerie.
+
+Leinwand. Hohe 86 cm, Breite 73 cm. Goldrahmen.
+
+## PHILIPP PETER ROOS, GEN. ROSA DI TIVOLI
+
+geb. 1657 in Frankfurt a. M., gest. 1705 in Rom.
+
+- 168 Tierstick.
+
+In Landschaft in Dammerungsstimmung ein Hirte mit seiner Herde, die aus einer Kuh und mehreren Ziegen und Schafen besteht.
+
+Leinwand. Hohe 8o cm, Breite 8o cm. Goldrahmen.
+
+- 16g Landschaft mit Ziegen.
+
+Die Mulde zwischen zwei Hugeln offnet den Blick in eine weite Landschaft. Im Vordergrunde eine Ziegenherde mit Hirten.
+
+Leinwand. Hohe 99 cm, Breite 75 cm. Goldrahmen.
+## SALVATORE ROSA
+
+geb. 1615 in Renella b. Neapel, gest.1673 in Rom.
+
+- I70 Seesturm.
+
+Ein an felsiger Kuste gestrandetes Schiff. Die Mannschaft kampft mit den hochgehenden Wellen.
+
+Leinwand. Hohe 76 cm, Breite 94 cm. Goldrahmen.
+
+## PIETRO CONTE DEI ROTARI
+
+geb. 1707 in Verona, gest. 1762 in St. Petersburg.
+
+- 171 Die hl.Katharina.
+
+Brustbild mit Martyrerpalme und Andeutung des Rades.
+
+Leinwand. Hohe 68 cm,Breite 54 cm. Goldrahmen.
+
+- I72 Orpheus.
+
+Brustbild eines Junglings mit langem, blumengeschmicktem Haar, Lorbeerkranz und Violine.
+
+Leinwand. Hohe 72 cm,Breite 58 cm. Gerahmt.
+
+- 173 Rauchender Knabe.
+
+Brustbild, en face, der Kopf nach links gewandt.
+
+Auf Leinwand. Hohe 44 cm, Breite 34 cm. Gerahmt.
+
+## MARINUS VAN ROYMERSWALE
+
+geb.um 1497, gest.nach 1567.
+
+- 174 Die Geldwechsler.
+
+Ein paar Kaufleute beim Abrechnungsgeschaft. Der eine schreibt in ein Buch, der andere halt ein Papier (Rechnungsauszug oder Wechsel) in den Handen. Eine groBe Summe Bargeld liegt auf dem Tische.
+
+Holz. Hohe 1o3 cm,Breite 73 cm. Schwarzer Rahmen.
+
+Abbildung Tafel 10.
+176 Marine.
+
+Auf hochgehender See drei niederlandische Dreimaster. Bewolkter Himmel mit interessanten Beleuchtungsreflexen auf den Wellen.
+
+Holz. Hohe 4o cm, Breite 53 cm. Schwarzer Rahmen.
+
+AbbildungTafel 13.
+
+- 177 FluBlandschaft.
+
+Zwischen Bergen zieht ein seichter, breiter FluB dahin, am Ufer links ein verfallenes SchloB,im Mittelplan einige Bauernhauser. Staffiert durch im Wasser watende Rinder mit Hirten.
+
+Unten in der Mitte bezeichnet: J. Ruisdal.
+
+Leinwand. Hohe 93.5, Breite 115 cm. Goldrahmen.
+
+Abbildung Tafel 19.
+
+## RUSSISCHER MEISTER
+
+## DES 18. JAHRHUNDERTS
+
+- 178 Damenbildnis.
+
+Huftbild einer Dame in mittleren Jahren,en face.Dekollettiertes Kostim mit hochgeschobener Buste. Puderfrisur. Rechts bei einer Fruchtschale ein Papagei, links Blumen in einer Vase.
+
+Leinwand. Hohe 1o2 cm, Breite 77 cm. Geschnitzter Goldrahmen.
+
+## RUBENS
+
+Kopie nach ihm.
+
+I75 Jacqueline van Caestre. Brissel, Kgl. Museum.
+
+Auf Holz. Hohe 75 cm, Breite 6o cm. Goldrahmen.
+
+## JACOB IZACKSZ VAN RUYSDAEL
+
+geb. 1628 in Haarlem, gest. 1682 daselbst.
+
+Ihm zugeschrieben.
+## RUSSISCHER MEISTER
+
+## DES 18. JAHRHUNDERT.
+
+- 179 Damenbildnis.
+
+Huftbild einer jungen Dame in dekollettiertem Kostim mit Puder- frisur und reichem Schmuck.
+
+Leinwand. Hohe 98 cm, Breite 73 cm. Holzgeschnitzter Goldrahmen.
+
+- 18o Cleopatra.
+
+Junge,iberaus reich gekleidete Furstin,an einer gedeckten Tafel sitzend, nimmt eine groBe Perle aus ihrem Schmuck,um sie in die Kristallschale
+
+Zu legen, die eine Negersklavin prasentiert.
+
+Leinwand. Hohe 123 cm, Breite 95 cm. Ungerahmt.
+
+- 181 Allegorie.
+
+Auf Wolken schwebende Hebe,einen Becher hochhaltend. Neben ihr ein kleiner Bacchus mit einer groBen,ausflieBenden Weinkanne. Dariber ein Putto mit zum Schweigen auffordernder Geste.
+
+Leinwand. Hohe 97,5 cm, Breite 117 cm. Goldrahmen.
+
+## RUSSISCHES KIRCHENBILD.
+
+- 182 Heilige Maria
+
+in sehr reichem,buntem mit aufgesetzten Glassteinen geziertem Gewande auf einem Thronsessel sitzend, empfangt aus den Handen eines knienden Edelmannes eine Schriftrolle. Dabei zahlreiches Gefolge.
+
+Holz. Hohe 68 cm,Breite 51 cm. Reich geschnitzter Goldrahmen.
+
+- 183 Hl. Georg,den Drachen totend.
+
+Reiche Architekturstaffage mit der zu befreienden Konigstochter. Mit kirchenslavischer Beischrift. Auf Goldgrund. Anfang des 18. Jahrhunderts.
+
+Auf Holz. 45:37 cm. Ohne Rahmen.
+
+## ANDREA SACCHI
+
+geb.16oo in Nettuno bei Rom, gest.1661 in Rom.
+
+- 184 Bildnis.
+
+Brustbild eines Kardinals,Dreiviertelprofil nach rechts.
+
+Leinwand. Hohe 78 cm,Breite 61 cm. Gerahmt.
+## HERMAN SAFTLEVEN H
+
+gest.1627.
+
+- 185 Merkur schlafert den Argus ein.
+
+In Landschaft vor einem Baume der kraftige Hirte,einschlafend,neben ihm Merkur.
+
+Leinwand. Hohe 54 cm,Breite 65 cm. Brauner Rahmen.
+
+## Nahe des
+
+## ANDREA SALARIO
+
+16. Jahrhundert.
+
+- 186 Eccehomo.
+
+Brustbild, mit Dornenkrone und Spottszepter vor Goldgrund.
+
+Holz. 54,5:41,5 cm. Goldrahmen.
+
+## GODFRIED SCHALCKEN
+
+geb. 1643 in Made, gest. 1706 im Haag.
+
+- 187 In der Kiche.
+
+Am Herdfeuer steht in einer sonst dunklen Kiche ein Koch, eine Pfanne uber die Flammen haltend.
+
+Leinwand. Hohe 52 cm,Breite 27 cm. Schwarzer Rahmen.
+
+- 188 Madchen mitLaterne.
+
+Junge Magd im Hiftstick, eine Kerze in eine groBe Handlaterne einsetzend.
+
+Leinwand. Hohe 75 cm, Breite 59 cm. Goldrahmen.
+
+## CHRISTIAN GEORG SCHUETZ DER ALTERE
+
+geb.1718 in Florsheim, gest. 1791 in Frankfurt a.M.
+
+- 18g Kircheninterieur.
+
+Innenansicht einer dreischiffigen gotischen Kathedrale bei Kerzenbeleuchtung. Figirliche Staffage.
+
+Unten rechts bez.
+
+Kupfer. Hohe 35 cm, Breite 41 cm. Ungerahmt.
+## CHRISTIAN GEORG SCHUETZ DER ALTERE
+
+geb. 1718 in Florsheim, gest. 1791 in Frankfurt a. M.
+
+18ga Kircheninterieur. Gegenstick zum Vorigen.
+
+Kupfer. Hohe 35 cm, Breite 41 cm. Ungerahmt.
+
+## NEAPOLITANISCHER SEICENTIST
+
+Igo Simon von Cyrene nimmt Christus das Kreuzab.
+
+Simon nimmt das Kreuz dem unter der Last zusammengebrochenen Heiland ab. Diesem gegeniber die hl.Maria mit dem Ausdruck tiefsten Schmerzes.
+
+Leinwand. Hohe 104 cm,Breite I21 cm. Ungerahmt.
+
+Abbildung Tafel 4.
+
+## FRANS SNYDERS
+
+geb.1579 in Antwerpen, gest.1657 daselbst.
+
+- 191 Totes Reh.
+
+Vor Draperie liegt auf einem Tisch ein totes Reh. An der Rickwand ist ein Jagdnetz aufgehangt.
+
+Leinwand. Hohe 105 cm,Breite 77 cm. Goldrahmen.
+
+Abbildung Tafel 14.
+
+## SPANISCHER MEISTER
+
+## DES 17. JAHRHUNDERTS
+
+- 192 Heiliger.
+
+Halbfigur eines bartigen Heiligen in rotem Mantel, einen Baumstamm
+
+Leinwand. Hohe 123 cm,Breite 92 cm.
+
+## JAN STEEN
+
+geb.1626 in Leiden, gest.1679 daselbst.
+
+Kopie nach ihm.
+
+- 193 StraBenmusikant.
+
+alten Frau.
+
+Ein Rommelpottspieler in Begleitung von vier Kindern und einer Halbfiguren.
+
+haltend.
+
+Leinwand. Hohe 42 cm,Breite 35 cm.
+## ANTONIE PALAMEDESZ STEAERTS
+
+geb.16o1 in Delft, gest.1673 in Amsterdam.
+
+- I94 Konversationsstuck.
+
+Besuch bei der Wochnerin. Geraumiges Interieur,im Hintergrund rechts die groBe Himmelbettstatt, links ein Kamin; vorn rechts sitzt die Wochnerin in einem Sessel von Korbgeflecht, umgeben von einer Gruppe vornehm gekleideter Frauen.Links ibergibt eine der Besucherinnen das Kindchen den Magden. In der Tiefe des Bildes sitzen an einen gedeckten Tisch zwei Kavaliere in Unterhaltung, eine Magd bringt ihnen Wein.
+
+Holz. Hohe 6o cm,Breite 92 cm. Goldrahmen.
+
+## DIRK STOOP
+
+geb.1610 in Utrecht,gest.1686 daselbst.
+
+- I95 Aufbruch zur Jagd.
+
+Bergiges Gelande an einem See. Vorn rechts vor einem Gehoft berittene Kavaliere mit Jagdhunden,im Begriff aufzubrechen. Links am See eine Rinderherde.
+
+Links unten bez. Thierry Stoop 1667.
+
+Leinwand. Hohe 6o cm, Breite 74 cm. Schwarzer Rahmen.
+
+Abbildung Tafel 15.
+
+## JOOST SUTTERMANS
+
+geb.1597 in Antwerpen, gest.1681 in Florenz.
+
+- 196 Bildnis.
+
+Brustbild eines Kavaliers. Dreiviertelprofil nach links. Er tragt dunkles Gewand mit breitem Schulterkragen, der eine sehr breite Spitzenbordure zeigt, lockiges Haar und Spitzbart.
+
+Leinwand. Hohe 73 cm. Breite 54 cm. Schwarzer Rahmen.
+
+Abbildung Tafel 15.
+## HERMAN VAN SWANEVELT
+
+geb.um 16oo in Woerden b. Utrecht, gest.1655 in Paris.
+
+## 197 Kustenlandschaft.
+
+Meeresbucht sidlandischen Charakters. Im Vordergrunde Gruppen von Fischern,die ihre Beute einbringen.
+
+Leinwand. Hohe 75 cm, Breite 101 cm. Goldrahmen.
+
+## DAVID TENIERS D. ALTERE
+
+geb.1582 in Antwerpen,gest.1649 daselbst.
+
+8 Versuchung des hl. Antonius.
+
+198
+
+In seiner Felsenhohle sitzt der hl.Eremit. Ihm erscheint allerlei Teufel- spuk: Hexen, Teufel, tierische Monstra usw.
+
+Leinwand. Hohe 46 cm, Breite 65 cm. Schwarzer Rahmen.
+
+## DAVID TENIERS D. JUNGERE
+
+geb.161o in Antwerpen, gest.16go in Perck b.Brissel. Seine Art.
+
+## I99 Wirtshausszene.
+
+Im Innern einer Kneipe sitzt rechts bei einer primitiven Bank ein rauchender Bauer mit Bierkrug,hinter ihm ein Genosse,ein Bedurfnis verrichtend, links eine Gruppe von Karte spielenden Bauern.
+
+Leinwand. Hohe 29 cm, Breite 37 cm. Schwarzer Rahmen.
+
+## I9ga Des gleic hen. Gegenstick.
+
+Gleiches Milieu. Um ein FaB, das als Tisch dient, sitzen und stehen finf Bauern in ziemlich bezechter Stimmung. Links zwei den Zechern zuschauende Kinder.
+
+Ebenso. Ebenso. Ebenso.
+## Richtung des GIOVANNI BATTISTA TIEPOLO
+
+geb. 1696 in Venedig, gest. 1770 in Madrid.
+
+- 200 Apotheose eines sterbenden Kirchenfursten.
+
+Ein berittener Kardinal, von geharnischten Reitern begleitet, in der Haltung eines todlich Verwundeten. Engel schweben zu ihm herab, der eine reicht ihm das Kreuz,ein anderer den Kommunionskelch.Dariber erscheint, von Engeln in Wolken getragen,ein heiliger Ordensmann, der Bischofsstab und Abtmitze dem Sterbenden sendet und ihn gen Himmel weist. Im Hintergrunde links Schlachtgetimmel.
+
+Leinwand. Hohe 88 cm, Breite 49 cm. Goldrahmen.
+
+- 201 Hl.Elisabeth
+
+an die Armen Brot verteilend. Dariber Engel in Wolken.
+
+Leinwand. Hohe 72 cm, Breite 44,5 cm. Goldrahmen.
+
+- 202 Selbstbildnis.
+
+Brustbild, Dreiviertelprofil nach links, der Kopf fast en face. Der Kinstler tragt gepuderte Allongepericke, weiten roten Rock und reich gestickte Weste. Die Hande halten Palette und Pinsel.
+
+Leinwand. Hohe 74,5 cm, Breite 61 cm. Goldrahmen.
+
+Abbildung Tafel 16.
+
+## GILLIS TILBORGH
+
+geb. um 1625 in Bruissel, gest. 1678 daselbst.
+
+- 203 Bauernfamilie.
+
+Hubsches Interieur einer Bauernstube,im Vordergrunde die Bauerin einen Pfannenkuchen bereitend, daneben ein junges Madchen und ein junger Mann, der sich eine Pfeife anzindet, sowie ein Kind, das einen Pfannenkuchen in den Handen hat. Zum Fenster schaut ein Bauer herein,der ein Glas Wein in den Handen hat.
+
+Leinwand. Hohe 49 cm, Breite 40 cm. Schwarzer Rahmen.
+## UNBEKANNTE MEISTER VOM ANFANG DES 17.JAHRHUNDERTS
+
+- 204 Damenbildnis.
+
+Portrat einer vornehmen Dame, Kniestick,Dreiviertelprofil nach links. Sie tragt dunkles, spanisches Kostim (Reifrock) mit breitem, spitzenbesetztem Schulterkragen und ebensolche Manschetten, zudem reichen Schmuck. Sie steht auf einer Veranda,die links den Blick in einen Garten offnet.
+
+Links ein Wappen mit drei Vogeln im Felde und der Jahreszahl 1624. Leinwand. Hohe 115 cm, Breite 98 cim. Ungerahmt.
+
+- 205 Heimsuchung Maria.
+
+In einer Halle, die durch ein groBes Rundbogenfenster Ausblick in eine Art Klosterhof bietet, findet die BegriBung der hl.Frauen in Gegenwart des hl. Joseph, des hl. Joachim und der hl. Anna statt.
+
+Leinwand. Hohe 117,5 cm, Breite 87 cm. Brauner Rahmen.
+
+- 206 Heilige Nacht.
+
+Vor der Stallruine knieen die hl. Maria und der hl. Joseph in Anbetung des Jesukindes,auf beiden Seiten Hirten,in den Wolken kleine Engel,die das Schriftband mit der Aufschrift Gloria in excelsis Deo tragen. Links
+
+Ausblick in die Landschaft.
+
+Leinwand. Hohe 77 cm,Breite 1Io cm. Goldrahmen.
+
+- 207 Bildnis.
+
+Huftstick eines jungen Kavaliers in goldtauschierter Rustung und langem, schwarzem Lockenhaar.
+
+Leinwand. Hohe 82 cm, Breite 63 cm. Goldrahmen.
+
+- 208 Damenbildnis.
+
+Brustbild,Dreiviertelprofil nach links. Reiches, dekolletiertes Goldbrokatkostim.Puderfrisur.
+
+Leinwand. Hohe 93 cm, Breite 73 cm. Goldrahmen.
+
+- 209 Bildnis eines Kapuziners.
+
+Huftstuick eines greisen Monches im Ordenshabit, einen Totenkopf in den Handen haltend.
+
+Holz. Hohe 23 cm, Breite 17 cm. Ungerahmt.
+- 213 Desgleichen.
+
+Bildnis des hl. Valens. (Valentin von Terracina.) Im Bischofsornat, stehend.
+
+- 214 Bildnis.
+
+Kniestick eines Herrn, nach rechts gewandt, ein Blatt Papier in der
+
+Hand haltend.
+
+Leinwand. Hohe 95 cm, Breite 70 cm. Gerahmt.
+
+- 215 Landschaftin Mondscheinstimmung.
+
+Gebirgige Gegend mit breitem FluB und schloBartiger Architektur im Vordergrund. Hier figurliche Staffage.
+
+Leinwand. Hohe 72 cm, Breite 95 cm. Goldrahmen.
+
+- 216 St.Hubertus.
+
+In Waldlandschaft kniet der vom Pferde gestiegene Jager vor der Erscheinung des Hirsches mit dem Kruzifix.
+
+Holz. Hohe 25 cm, Breite 46,5. Gerahmt.
+
+Ebenso. Ebenso. Ebenso.
+
+## UNBEKANNTE MEISTER
+
+## VOM ANFANG DES 17. JAHRHUNDERTS.
+
+- 2Io Junges Madchen mit Trauben.
+
+Ein junges Madchen mit reichem Renaissanceschmuck zeigt einer alten Magd zwei besonders groBe Weintrauben.
+
+Ungerahmt.
+
+Leinwand. Hohe 97 cm, Breite 115 cm.
+
+- 2ll ZweiTruthahne.
+
+Auf Streu vor neutralem Grunde.
+
+Leinwand. Hohe 30 cm, Breite 38 cm. Gerahmt.
+
+- 212 Altarflugel.
+
+Der Mannaregen. Das Zeltlager der Israeliten mit Moses, der die Hande gegen Himmel erhebt, und zahlreichen Figuren, die das Manna einsammeln.
+
+Holz. Hohe 81 cm, Breite 3I cm. Gerahmt.
+## UNBEKANNTE MEISTER DES 17. JAHRHUNDERTS.
+
+- 217 Loth und seine Tochter.
+
+Vor Baumschlag liegt der trunkene Mann in Gesellschaft seiner beiden Tochter. Im Hintergrunde das brennende Sodom.
+
+Leinwand. Hohe 32 cm, Breite 46 cm.
+
+- 218 Daniel in der Lowengrube.
+
+Inmitten einer groBen Schar von Lowen sitzt der Prophet,nur mit einem Manteltuch bekleidet, mit schmerzlich ergebenem Ausdruck gen Himmel blickend.
+
+Hohe 43,2 cm, Breite 61,5 cm. Schwarzer Rahmen.
+
+- 219 Darstellung im Tempel.
+
+Vor dem Altar kniet die hl. Maria mit betender Geste,bei ihr steht das Jesukind in den Armen haltend.
+
+Holz.Hohe 50,5 cm, Breite 54 cm.
+
+Leinwand. Hoh6 92 cm, Breite 66 cm.
+
+- 220 Heilige Dominikanerin.
+
+Huftstick en face.
+
+- 22I Madonna.
+
+Die hl. Jungfrau, im Kniestick, sitzend, das Kind auf dem SchoB haltend. Von links tritt ein Engel mit Lilienstengel heran.
+
+Holz. Hohe 64 cm, Breite 49 cm. Schwarzer Rahmen.
+
+Abbildung Tafel 20.
+
+- 2 Kartenspielende Zecher.
+- 222
+
+Um einen Tisch sitzen vier Kavaliere des 17. Jahrhunderts bei Wein und Kartenspiel. An der Wand der Zechstube Inschrift und Kritzeleien.
+
+Leinwand. Hohe 5o,5 cm,Breite 75 cm. Schwarzer Rahmen.
+
+- 223 Bildniseines Kavaliers.
+
+Brustbild eines spanischen Edelmannes des 17. Jahrhunderts,im Feder-
+
+Leinwand. Hohe 48 cm,Breite 38 cm.Goldrahmen.
+
+hut.
+- 229
+
+## UNBEKANNTE MEISTER
+
+## DES 17. JAHRHUNDERTS:
+
+## 224 Auffindung Moses.
+
+Am FluBufer die Tochter Pharaos mit Gefolge,zwei Magde zeigen ihr das aufgefundene Kind.
+
+Leinwand. Hohe 42 cm, Breite 6o cm. Goldrahmen.
+
+Abbildung Tafel I7.
+
+- 225 Christus am Olberge.
+
+Holz. Hohe 56 cm, Breite 45 cm. Gerahmt.
+
+- 226 6 Christus am Kreuze.
+
+Der gekreuzigte Heiland vor verdunkelter Landschaft.
+
+Leinwand. Hohe 96 cm,Breite 7o cm. Gerahmt.
+
+- 227 Christus am Kreuze.
+
+Der Heiland am Kreuz. Am FuBe desselben die hl. Magdalena zwischen der hl. Maria und St. Johannes.
+
+Leinwand. Hohe 69 cm,Breite 52 cm.Gerahmt.
+
+- 228 Die Ruckkehr des verlorenen Sohnes.
+
+Der greise Vater umarmt den reumitig zurickkehrenden Sohn. Architekturstaffage mit drei Figuren.
+
+Leinwand. Hohe 102 cm, Breite 140 cm. Goldrahmen.
+
+- Diana und Kallisto.
+
+Am Waldessaum badet das Gefolge der Gottin, im Vordergrunde enthillen Gespielinnen den Korper der Kallisto.
+
+Leinwand. Hohe 72,5 cm, Breite 79 cm. Holzgeschnitzter,vergoldeter Rahmen.
+- 233
+- 236 Landschaft.
+
+Waldeingang mit Blick auf Ruine und weiter Fernsicht.
+
+Leinwand. Hohe 55 cm, Breite 68 cm. Gerahmt.
+
+## UNBEKANNTE MEISTER
+
+## DES 18.JAHRHUNDERTS
+
+- 230 Portrat des Kurfursten Karl Theodor.
+
+Huftstick, Dreiviertelprofil nach links, Uniform mit reichem Orden- schmuck.
+
+Leinwand. Hohe 74 cm, Breite 62 cm. Goldrahmen.
+
+Abbildung Tafel 16.
+
+- 231 Kinderbildnis.
+
+In Landschaft sitzt ein kleines Madchen in blauem Seidenkleidchen, auf dem SchoBe einen Korb mit Kirschen haltend.
+
+Leinwand. Hohe 73 cm, Breite 51 cm. Goldrahmen.
+
+- 232 Totentanzmotiv.
+
+Auf Wolken schwebt der Tod in Gestalt eines gefligelten Greises, ein sich straubendes junges, nacktes Weib in den Armen haltend. Zwei Putten tragen Sense und Stundenglas.
+
+Leinwand. Hohe 86,5 cm,Breite 68 cm. Holzgeschnitzter Goldrahmen.
+
+- Tierstuck.
+
+Truthuhner vor einem Schuppen.
+
+Holz. Hohe 15 cm, Breite 20 cm. Goldrahmen.
+
+- 234 Madchenbildnis.
+
+Brustbild eines jungen Madchens, Dreiviertelprofil nach rechts, gen Himmel blickend.
+
+Holz. Hohe 55 cm,Breite 44 cm. Geschnitzter,vergoldeter Rahmen.
+
+- 235 Tote Wildsau
+
+auf einer WaldbloBe liegend, dabei Jagdutensilien.
+
+Leinwand. Hohe 33 cm, Breite 44,5 cm. Ungerahmt.
+
+## UNBEKANNTER MEISTER
+
+ANFANG 19.JAHRHUNDERT
+- 243
+
+Abbildung Tafel 5.
+
+## ADRIAEN VAN DER VELDE
+
+geb. 1635 in Amsterdam, gest. 1672 daselbst.
+
+Ihm zugeschrieben.
+
+- 241 Lagerszene.
+
+In einer Ebene,die im Mittelplan eine Stadt zeigt und von Bergzigen begrenzt wird,ist ein Krigslager aufgeschlagen. Vorn links das Zelt der
+
+Markedenterin,rechts eine Gruppe von Soldnern, die auf einer Trommel Karten spielen.
+
+Leinwand. Hohe 72 cm, Breite 97 cm. Goldrahmen.
+
+## VENEZIANER MEISTER
+
+## DES 17.JAHRHUNDERTS
+
+- 242 Die heilige Nacht.
+
+Die hl.Familie, umgeben von den Hirten und den jubilierenden Engeln. Das vom Kinde ausgehende Licht ist die Lichtquelle des Bildes.
+
+Leinwand. Hohe 65 cm, Breite 5o cm. Gerahmt.
+
+- Hl.Familie.
+
+Die hl. Jungfrau, dem Kinde die Brust reichend. Dabei der hl. Joseph.
+
+Leinwand. Hohe 97 cm, Breite 75 cm. Goldrahmen.
+
+- 244 Der hl.Antonius.
+
+In einer Zelle kniet der Heilige vor dem Kruzifix. Zwei Engel umschweben ihn. Beim Altar die kleine Figur des Donators.
+
+Holz. Hohe 55 cm,Breite 46 cm. Goldrahmen.
+
+## VELASQUEZ
+
+Ihm zugeschrieben.
+
+## 240 Der Melonenesser.
+
+Alter Mann in rotem Rock und braunen Hosen, im Kniestick, en face, sitzend, eine Melone anbeiBend,die er mit beiden Handen zum Munde fihrt.
+
+Leinwand. 120,5:94 cm. Ungerahmt.
+## 245
+
+## VENEZIANER MEISTER
+
+## DES 17. JAHRHUNDERTS.
+
+## Sitzung eines Konzils.
+
+In einem Saale des Vatikans sind Kardinale und andere hohe Kleriker versammelt.
+
+Leinwand. Hohe 128 cm, Breite 205 cm. Goldrahmen.
+
+## VENEZIANISCHER MEISTER
+
+## DES 18.JAHRHUNDERTS
+
+- 246 Prospekt aus Venedig.
+
+Der groBe Platz vor der Procuratie. Mit figurlicher Staffage. Leinwand. Hohe 52 cm,Breite 72 cm. Gerahmt.
+
+- 247 Desgleichen. Gegenstuick.
+
+Ansicht der Dogana, durch ein Wettrudern von Gondeln staffiert. Ebenso. Ebenso. Ebenso.
+
+- 248 Kanal-Prospekt
+
+aus der Terra ferma. Einfache Architekturmotive mit figirlicher Staffage. Leinwand. Hohe 66 cm, Breite 95 cm. Goldrahmen.
+
+- 249 Flu Blandsc ha ft. Gegenstuck zum vorigen.
+
+Gebirgige Gegend, von einem breiten FluB durchzogen, dessen Ufer durch Architektur staffiert sind. Einige Figuren im Vordergrunde.
+
+Leinwand. Hohe 68 cm, Breite 97 cm. Gerahmt.
+
+- 250 Plafondmotiv.
+
+Der Sturz der Gotter des Olymps. Engel und der Genius der Zeit stirzen die Gotter aus ihrer wolkigen Hohe.
+
+Leinwand. Hohe 83 cm, Breite 49 cm. Goldrahmen.
+## KASPER PIETER VERBRUGGEN DER ALTERE
+
+geb.1635 in Antwerpen, gest.1681 daselbst.
+
+- 251 Blumenstick.
+
+Ein Kranz von weiben Rosen,Nelken, Tulpen und anderen Blumen rahmt ein ovales Feld, das einen betenden Eremiten in Landschaft in Damme- rungsstimmung zeigt.
+
+Kupfer. Hohe 48,5 cm, Breite 65 cm. Goldrahmen.
+
+- 252 Desgleichen.
+
+Im ovalen Felde eines gleichen Kranzes ist die hl. Familie gemalt.
+
+Ebenso. Ebenso. Ebenso.
+
+## VLAMISCHER MEISTER
+
+## VOM AUSGANG DES 17. JAHRHUNDERTS
+
+- 253 Moses schlagt Wasser aus dem Felsen.
+
+Einem mit Strauchwerk staffierten Felsen entspringt eine machtige
+
+Wassermenge. Dabei steht Moses und das erstaunte Volk.
+
+Leinwand. Hohe 91 cm, Breite 135 cm. Goldrahmen.
+
+- 254 Opferszene.
+
+In Waldlandschaft, die im Mondschein liegt, sind bei antiken Ruinen viele Personen in arkadischer Gewandung versammelt, ein heidnisches Opfer feiernd.
+
+Holz. Hohe 55,5 cm, Breite 71 cm. Goldrahmen.
+
+- Christus wird ans Kreuz geschlagen.
+
+Landsknechte nageln den Erloser ans Kreuz. Schmerzbewegt stehen die hl.Maria und die Freunde des Herrn dabei.
+
+Leinwand. Hohe 54 cm, Breite 66 cm.
+
+- 255
+- 256 Rast der Diana.
+
+In gebirgiger Landschaft bei einer Quelle am Waldeingang ruht die Gottin mit ihrem Gefolge. Die meisten ihrer Begleiterinnen sind zum Bade entkleidet; die Jagdbeute, meist Gefligel, liegt am Boden.
+
+Leinwand. Hohe 6o cm, Breite 77 cm. Goldrahmen.
+- 257 Bildnis.
+
+Huftbild einer Dame im Profil nach rechts, das Gesicht den Beschauer zugewandt. Sie tragt gepuderte Lockenfrisur und geblimtes, tief ausgeschnittenes Seidenkleid. Die Rechte ist in deutender Geste erhoben,die Linke halt einen an einen Edelmann in Perugia adressierten Brief.
+
+Leinwand. Hohe 94 cm, Breite 75.5 cm. Schwarzer Rahmen.
+
+## ARIE DE VOIS
+
+geb.vor 1635 in Utrecht, gest. 168o in Leiden.
+
+258 Nymphe,sich zum Badeentkleidend.
+
+In Waldlandschaft sitzt an einem Gewasser das junge, fast ganz ent- kleidete Weib. Neben ihm liegt ein Bogen.
+
+Leinwand. Hohe 33 cm, Breite 29 cm. Gerahmt.
+
+## NIEDERLANDER
+
+## IN DER ART DES JAN BAPTISTA WEENIX
+
+geb.1621 in Amsterdam, gest.1664 in Huis-ter-Mey bei Utrecht.
+
+- 259 Stilleben.
+
+Vor Strauchwerk sind Fische, Gefligel und ein Hase niedergelegt. Als
+
+Wachter rechts ein Hund; links auf einem Baumzweig sitzt eine Eule.
+
+Leinwand. Hohe 92 cm, Breite 133 cm. Goldrahmen.
+
+26o Stilleben.
+
+Auf einem von Moos iberzogenen Stein sind tote Vogel vor Strauchwerk niedergelegt.
+
+Leinwand. Hohe 44,5 cm, Breite 57 cm. Goldrahmen.
+
+261 Desgleichen.
+
+Ganz ahnliche Komposition.
+
+## JACOB FERDINAND VOET
+
+geb. 1639 in Antwerpen, gest. nach 1691.
+
+Ebenso. Ebenso. Ebenso.
+## ADRIAEN VAN DER WERFF
+
+geb. 1659 in Kralingen b.Rotterdam, gest. 1722 in Rotterdam.
+
+- 262 Arkadische Idylle.
+
+In einem Park bei einem Brunnen mit wasserspeienden Putti, die auf Delphinen reiten, sitzt auf Rasen ein junger Faun, der ein junges Madchen in den Armen halt.
+
+Leinwand. Hohe 77 cm,Breite 7o cm. Goldrahmen.
+
+## PHILIPS WOUWERMAN
+
+geb.1619 in Haarlem, gest.1668 daselbst.
+
+- 263 Aufbruch zur Jagd.
+
+Vor einem Gehoft in bergiger Landschaft wird eine berittene Jagdgesellschaft durch Knechte und Magde bedient. Dabei Hirten mit Vieh.
+
+Leinwand. Hohe 84 cm,Breite 118 cm. Goldrahmen.
+
+Abbildung Tafel 7.
+
+## PIETER WOUWERMAN
+
+geb.1623 in Haarlem, gest.1682 in Amsterdam.
+
+- 264 Landschaft.
+
+Weite Flachlandschaft mit FluBlauf, rechts ein SchloB durch Baumschlag halb verdeckt; hier rasten zwei Reiter, die sich mit zwei Fischern in ein Gesprach eingelassen haben.
+
+Holz. Hohe 27,5 cm, Breite 38 cm. Goldrahmen.
+
+Abbildung Tafel 13.
+
+## GIUSEPPE ZAIS
+
+geb.um 1750 in Venedig, gest. 1784 in Treviso.
+
+- 265 Landschaft.
+
+Bergige Gegend mit Wald und zahlreichen Ruinen. Im Vordergrund figurliche Staffage.
+
+Leinwand. Hohe gI cm, Breite 6o cm.Gerahmt.
+## GIUSEPPE ZAIS
+
+geb. um 1750 in Venedig, gest. 1784 in Treviso.
+
+266 La n d s c h a ft. Gegenstick zum Vorigen.
+
+Ganz ahnliche Komposition, durch Hirten mit Herde staffiert. Leinwand. Hohe 91 cm, Breite 6o cm. Gerahmt.
+
+## BARTHOLOMAEUS ZEITBLOM
+
+geb. vor 1470, gest. nach 1516.
+
+Seine Art.
+
+267 Beschneidung Christi
+
+In einer gotischen Kapelle mit Butzenscheiben stehen vor einem gedeckten Altar die hl. Jungfrau, das Jesukind haltend, das der ihr gegeniberstehende Priester beschneidet. Dabei der hl. Joseph, als Greis gegeben, eine hl. Frau, wohl Mutter Anna,und ein bartiger Mann, wahrscheinlich der hl. Simon.
+
+Auf Holz. Hohe 49,5 cm, Breite 32 cm. Einfacher, schwarzer Rahmen.
+
+Abbildung Tafel 20.
+
+## FRANCESCO ZUCCARELLI
+
+geb. 1702 in Pitigliano, gest. 1788 in Florenz.
+
+268 FluBlandschaft.
+
+Im Vordergrunde die Wolfin mit Romulus und Remus.
+
+Leinwand. Hohe 58 cm, Breite 7o cm. Gerahmt.
+
+269 Landschaft.
+
+Waldpartie in gebirgiger Gegend.Im Vordergrunde ein Gehofte an einem Gewasser. Figuirliche Staffage.
+
+Leinwand. Hohe 95 cm, Breite 68 cm. Gerahmt.
+271 Madonna.
+
+Brustbild.
+
+Kupfer. Hohe 17,5 cm, Breite 14,5 cm. Holzrahmen.
+
+## PIETER BRUEGHEL D.J.,GEN. HOLLENBRUEGHEL
+
+geb. 1564 in Brissel, gest. 1638 in Antwerpen.
+
+- 272 Die Versuchung des hl. Antonius.
+
+In einer Felsengrotte betet der hl. Eremit. Aus dem Walde naht der Teufelsspuk in feierlichem Aufzuge.
+
+Kupfer. Hohe 52 cm, Breite 68 cm. Goldrahmen.
+
+- 273 Gegenstick: Gottesdienst der Eremiten.
+
+In einer ahnlichen Grotte versammeln sich mehrere Einsiedler vor einem Altar zum Gottesdienste.
+
+Ebenso. Ebenso
+
+Ebenso.
+
+## FRANCISCO DE ZURBARAN
+
+geb. 1598 in Fuente de Cantos, gest. 1662 in Madrid.
+
+- 270 Monch mit Totenkopf.
+
+Kniestick eines Monches, der einen Totenkopf in den Handen halt und in andachtiger Verzickung gen Himmel blickt.
+
+Leinwand. Hohe III cm, Breite 8g cm. Ungerahmt.
+
+AbbildungTafel 18.
+
+## ALTDEUTSCHER MEISTER.
+274 Die Mahlzeit.
+
+Eine Bauerin, ihren Kindern Suppe austeilend.
+
+Pappe. Hohe 20 cm, Breite 15.5 cm. Schwarzer Rahmen.
+
+## GUIDO RENI
+
+geb. 1575 in Calvenzano b. Bologna, gest. 1642 in Bologna. Seine \_Schule.
+
+- 275 Mater dolorosa.
+
+Brustbild, Profil nach rechts.
+
+Leinwand. Hohe 67 cm, Breite 5o,5 cm. Goldrahmen.
+
+RUBENS.
+
+Nach ihm.
+
+- 6 Die Kreuzabnahme (Kathedrale, Antwerpen). Gegenseitige Kopie des Mittelbildes.
+- 276
+
+Holz. Hohe 64 cm, Breite 45.5 cm. Schwarzer Rahmen.
+
+## UNBEKANNTER MEISTER
+
+DES 17.JAHRHUNDERTS.
+
+- 277 Hl. Familie.
+
+Madonna mit dem Kinde, dabei der hl. Joseph und der kleine
+
+Johannes. Halbfiguren.
+
+Leinwand. Hohe 76 cm,Breite 62,5. Goldrahmen.
+
+278 Pieta.
+
+## NIEDERLANDER DES 17.JAHRHUNDERTS.
+
+Leinwand. Hohe 29,5 cm, Breite 22,3 cm. Ungerahmt.
+## UNBEKANNTE MEISTER DES 17. JAHRHUNDERTS.
+
+- 279 9Der kleine Johannes.
+
+Vor Heckenstaffage sitzend. Die Linke halt den Kreuzesstab mit
+
+Schriftband,die Rechte reicht einem Lamm ein Grasbischel.
+
+Leinwand. Hohe 73 cm,Breite 98 cm. Goldrahmen.
+
+- 28o Die Sundflut.
+
+Die Arche Noahs ist auf dem Felsen aufgestoBen,die geretteten Menschen und Tiere betreten das kleine Stick des von Wasser freien Landes. Viele Tier- und Menschenleichen schwimmen auf dem Wasser.
+
+Auf Schiefer. Hohe 28 cm, Breite 35.5 cm. Goldrahmen.
+
+- 281 Heiliger.
+
+Heiliger Bischof, den gekreuzigten Heiland umfassend.
+
+Leinwand. Hohe 27,5 cm, Breite 20 cm. Ungerahmt.
+
+- 282 Mannlicher Kopf.
+
+Sogenannter Apostelkopf. Brustbild nach rechts.
+
+Leinwand. Hohe 71,5 cm, Breite 45 cm. Goldrahmen,
+
+- 283 Desgleichen.
+
+Nach links.
+
+- 284 Madonna.
+
+Brustbild, en face.
+
+Ebenso. Ebenso. Ebenso.
+
+Holz. Hohe 20 cm, Breite 16,2 cm. Geschnitzter, vergoldeter Barockrahmen.
+## HUGO HELBING
+
+Kunsthandlung und Kunstantiquariat
+
+21 Liebigstrabe MUNCHEN Wagmullerstr.15
+
+empfiehlt sich zur Ubernahme von
+
+## VERSTEIGERUNGEN
+
+von
+
+Gemalden alter und moderner Meister Antiquitaten Kupferstichen  Buchern und Autographen
+
+Ubernahme ganzer Sammlungen und einzelner wertvoller Objekte.
+
+Sorgfaltige Katalogisierung auf wissenschaftlicher Basis. Reich illustrierte Kataloge, die groBte Verbreitung erfahren. Ankuindigung und Durchfuhrung der Versteigerungen im vornehmsten Stile.
+
+Vorzigliche Referenzen und Nachweise uber hochste Preisrekorde I
+
+sowie alle naheren Mitteilungen stehen bereitwilligst zu Diensten.
+
+bingsK
+
+m5.D

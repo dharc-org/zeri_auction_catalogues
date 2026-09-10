@@ -1,0 +1,4 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_5514,139564,1,I,NHALTS-VERZEICHNIS.,30,97.3,False,none,,,,,
+BO0624_5514,139565,2,1,n,140,100.0,False,title_direct,Scuola di Nicolas Lavreince,Scuola di Nicolas Poussin,Bronzen,,
+BO0624_5514,139566,3,I,llustrierte Bucher.,206,97.3,False,positional,,,Aquarelle; Handzeichnungen,,

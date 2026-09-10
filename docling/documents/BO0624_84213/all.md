@@ -1,0 +1,842 @@
+## CONDITIONS DE LA VENTE
+
+Elle sera faite au comptant.
+
+Les acquereurs paieront dix pour cent en sus des encheres.
+<!-- image -->
+
+## Tableaux Modernes
+
+AQUARELLES
+
+## GUILLAUMET
+
+(GUSTAVE-ACHILLE)
+
+Puteaux,1840+Paris,1887.
+
+Tleta.
+
+Village des Beni-Snouss.
+
+Signe a gauche.
+
+Bois. Haut.,16 cent.,;larg.,24 cent.
+
+Vente apres deces de 1artiste, 6/8 fevrier 1888,n° 144.
+
+## GUILLAUMET
+
+(GUSTAVE-ACHILLE)
+
+Un Cavalier arabe. 2
+
+A gauche,le cachet de la vente apres deces de l'artiste, 6/8fevrier 1888.
+
+Toile.Haut.,26 cent.;larg.,20 cent.
+## 3
+
+## GUILLAUMET
+
+(GUSTAVE-ACHILLE)
+
+## Campement Francais,en Algerie.
+
+A gauche, le cachet de la vente apres deces de l'artiste, 6/8fevrier 1888,n°255.
+
+Toile. Haut.,2o cent.; larg.,3g cent.
+
+## JACQUE
+
+(CHARLES-EMILE)
+
+Paris,1813Paris,189.
+
+Le Poulailler.
+
+Un coq, deux poules blanches, une poule noire et une autre rousse,reunis sur la paille devant un mur ensoleille.
+
+Signe au centre : Ch. Jacque.
+
+Bois. Haut., g cent.; larg,18 cent.
+## LAMBERT
+
+(EUGENE)
+
+Paris,1825Paris,1900.
+
+## Les Chats et l'abeille.
+
+Une chatte blanche est couchee sur un tapis rouge et entouree de ses petits qui ont brise un vase defeurs. Un gros chat gris, vu de dos, guette une abeille qui est posee sur un lambris.
+
+Signe a droite.
+
+Toile. Haut.,85 cent.;larg.,68 cent.
+
+## LAMI
+
+(EUGENE)
+
+Paris,18oo  Paris,1890.
+
+## Manon Lescaut.
+
+Le chevalier des Grieux est agenouille devant Manon assise sur une chaise de paille, dans la prison. Le comte est debout, son tricorne sous le bras.
+
+Aquarelle.
+
+Signee a gauche, des initiales.
+
+Haut.,14 cent.1/2;larg.,16 cent.
+## LEMAIRE
+
+(Mme MADELEINE)
+
+Roses dans une jardiniere en faience de Rouen.
+
+Aquarelle. Signee a droite.
+
+Haut.,38cent.;larg,27 cent.
+
+## LEMAIRE
+
+(Mme MADELEINE)
+
+Roses dans un broc de Delft et bouquet de violettes.
+
+Aquarelle. Signee a gauche.
+
+Haut.,49 cent.;larg.32 cent.
+
+## NEUVILLE
+
+(ALPHONSE DE)
+
+Saint-0mer,1835+Paris,1885.
+
+Une Rue a Sainte-Marie-aux-Chenes.
+
+Signe a droite. On lit, a gauche : Ste-Marie-aux-Chenes, 188o.
+
+Toile. Haut., 14 cent.; larg., 23 cent.
+
+Atelier A.de Neuville,vente des5 et 6 mai 1888,no52.
+<!-- image -->
+
+## Tableaux Aneiens
+
+AQUARELLES,DESSINS
+
+## AVERCAMP
+
+(HENDRICK)
+
+Amsterdam,1585+Kampen,apres 1663.
+
+## Le Canal glace.
+
+Sur un canal gele, traversant un village couvert de neige, des personnages patinent.
+
+A droite, sur une rive, un troupeau de porcs pousse par deux hommes.
+
+Bois.Haut.,9 cent.;larg.,15 cent.
+
+## 10
+## II
+
+## 12
+
+## BLARENBERGHE
+
+(HENRI-JOSEPH VAN)
+
+Lille, 1741 Lille, 1826.
+
+## Paysage agreste.
+
+Sur une colline, au bord d'une route en lacet, un berger etendu sur l'herbe, joue de la fute pres d'une jeune femme en jupon rouge,assise et tenant des deux mains le feuillet d'une chanson.
+
+Plus bas,un autre berger écoute le duo.
+
+Dans le fond, un cours d'eau tournant dans la vallee.
+
+Aquarelle gouachee.
+
+Signee et datee a droite : V. Blarenberghe,1798.
+
+Haut.,24 cent.; larg., 20 cent.
+
+## BERRE
+
+(JEAN-BAPTISTE)
+
+Anvers,1777 + Paris,1838.
+
+## Paturage.
+
+Un troupeau de vaches et de moutons est reuni sous la garde de deux petits bergers; l'un assis a gauche, peche a la ligne dans un cours d'eau, son compagnon est étendu sur l'herbe.
+
+Signe et date a gauche, sur un tronc d’arbre : J. Berre,
+
+Toile. Haut., 52 cent.; larg,72 cent.
+
+Collection Jules Burat, vente des 28 et 2g avril 1885, n° 4.
+
+1833.
+## 13
+
+## BERRE
+
+(JEAN-BAPTISTE)
+
+## Bertrand et Raton.
+
+Sous une cheminee ornee d'une plaque de fonte, un chat retire, d'une patte prudente,les marrons qui chauffent dans la braise. Un singe, assis a droite, épluche et mange un marron.
+
+Signe et date a droite : J.-B. Berre, 1812.
+
+Bois.Haut.,3o cent.;larg.37 cent.
+## BOILLY
+
+(LOUIS-LEOPOLD)
+
+La Bassee,17611aris,1845.
+
+## La Promenade. I4
+
+Une jeune femme blonde, aux cheveux pendant sur les epaules,coiffee d'un chapeau de soie bleue,vetue d'une ample jupe blanche a ceinture rose, en corsage de couleur lilas ouvert sur un fichu de mousseline,est debout sur une route,tenant par la main unpetit garcon en pantalon et gilet de soie bleue,habit orange, levant sa tete blonde pour regarder sa jeune mere.
+
+belle journee d'automne.
+
+La campagne s'etend vers le fond, ou s'eleve une montagne enveloppee dans la brume ensoleillee d'une
+
+Toile. Haut.,4o cent.;larg.,32 cent.
+
+Cf.H.Harrisse,Louis Boilly, page 125,n°460.
+
+Vente du 31 mai 1882,n°33.
+
+Collection Laurent Richard, vente du 28 mai 1886, n°4.
+## 16
+
+## BOILLY
+
+(LOUIS-LEOPOLD)
+
+## 15 Interieur villageois.
+
+Dans une maison rustique, une femme coiffee d'un fichu pose sur son bonnet, vetue d'un corsage blanc, un tablier releve sur sa juperouge,est assise aucentre, tenant un soufflet appuye sur un rechaud qui chauffe une casse- role;trois enfants l'entourent.
+
+A droite, un petit garcon a saisi par les ailes un oiseau qu'il a pris dans une cage.
+
+Toile. Haut.,22 cent.;larg.,17 cent.
+
+## BRUEGHEL
+
+(JEAN)
+
+Bruxelles,1568 +Anvers,1625.
+
+## Village au bord d'un canal.
+
+Des charrettes sont detelees sur une place bordee de maisons rustiques. Un homme, en veste rouge,harnache un cheval blanc.
+
+Cuivre.Haut.,15 cent.;larg.,20 cent.
+## 18
+
+## COQUES
+
+(GONZALES)
+
+Anvers,1614Anvers,1684.
+
+## Portrait d'un gentilhomme.
+
+A mi-corps, longue perruque boucle, cravate ede dentelle, habit noir et gilet brode.
+
+Bois de forme ovale. Haut , 12 cent.;larg.,1o cent.
+
+Cadre en bois sculpte.
+
+## DE MARNE
+
+(JEAN-LOUIS)
+
+Bruxelles,1744 Paris,1829.
+
+## —Le Braconnier.
+
+Un berger en veste jaune, agenouille sur le sol, offre un lievre qu'il a tire d'un sac, a deux villageoises debout devant lui.
+
+Un bceuf, une vache, un ane, des moutons et une chevre sont arretes au bord d'un étang qui baigne, a gauche et vers le fond, une porte monumentale.
+
+Toile. Haut., 24 cent.;larg.,32 cent.
+## DE ROY
+
+(1.-B.) xixsiecle.
+
+## Le Retour du troupeau. 19
+
+Deux bergers, l'un assis sur un cheval, poussent des boeufs, des moutons, un ane et une chevre, sur une route traversant un pont de bois.
+
+Dans le fond,au dela d'un étang ou deux chevaux sont conduits a labreuvoir,un chateau et des batiments de ferme.
+
+Signe et date a gauche : J.B. De Roy, 1810.
+
+Bois. Haut., 6o cent.;larg.,88 cent.
+
+Collection J.Koechlin,de Munster,vente du 26 janvier 1885,n35.
+
+## DOU
+
+(Attribue a GERARD)
+
+## Portrait d'homme. 20
+
+A mi-corps, tourne vers la gauche, les cheveux blonds pendant sur les epaules, vetement noir, la main droite gantee tenant un chapeau de feutre.
+
+Bois de forme ovale. Haut., 1o cent.; larg, 8 cent.
+## DROLLING
+
+(MARTIN)
+
+Oberhergheim, 1752 + Paris,1817.
+
+## Le Petit Commissionnaire.
+
+Sur le pas de la porte ouverte d'une maison villageoise, un homme en culotte rouge, habit gris,indique la route a un petit garcon blond,en veste jaune, son chapeau a la main et portant une lettre.
+
+A gauche, au travers d'une fenetre a guillotine, on apercoit le buste d'une jeune femme cousant.
+
+Uu rosier dans un pot est pose sur la fenetre; un serin dans une cage accrochee sur le mur; plus bas, un chat sur une jardiniere de bois.
+
+Signe et date a gauche:Drolling, p',i8o7.
+
+Bois.Haut.,55 cent.;larg,46 cent.
+
+Collection Jules Burat, vente des 28 et 29 avril 1885,n°62.
+## 22
+
+## DROUAIS
+
+(FRANCOIS-HUBERT)
+
+Paris,1727+Paris,1775.
+
+## Portrait de Buffon.
+
+Debout, vu a mi-jambes, de trois-quarts tourne vers la droite,le visage presque de face, il regarde le spectateur, son tricorne sous le bras,l'épee a poignee d'argent au cote. Coiffe d'une perruque poudree,a catogan, en habit de velours rouge a passementeries d'or,gilet de brocart a fond jaune, jabot et manchettes de dentelle,un ruban de soie noire autour du cou,la main gauche passee dans l'ouverture du gilet, l'autre main dans la poche de sa culotte.
+
+Signe et date a droite, sur le fond : Drouais le fils, 1761.
+
+Toile. Haut., 1 m. 03;larg., 68 cent.
+
+Salon de 1761.
+
+Cf.Salons de Diderot (1761).
+
+Collection Nadault de Buffon, vente des 5 et 6 mars 1883, n 1.
+
+Ce portrait,qui est peut-etre l'unique representation en peinture, de l'illustre naturaliste, doit etre considere comme un chef-d'euvre de l'Ecole Francaise du xvine siecle.
+## 23
+
+## ECOLE ESPAGNOLE
+
+(xvI1 siecle.)
+
+## Portrait de femme a collerette.
+
+Metal.Haut.,7 cent.;larg.,5 cent.
+
+## ECOLE FRANCAISE
+
+(xv siecle.)
+
+Le Parc. 24
+
+Une statue de pierre s'eleve a droite, devant un temple circulaire. Une jeune femme en robe rose et un homme en habit bleu, sont accompagnes d'enfants et d'une pay- sanne.
+
+Vers le fond, a gauche, une terrasse a balustrade ouverte sur un large escalier de pierre.
+
+Aquarelle gouachee.
+
+Cadre en bois sculpte.
+
+Haut.,22 cent.;larg.,28 cent.
+## ECOLE FRANCAISE
+
+(xvI siecle.)
+
+## 25 La Promenade en brouette.
+
+Un jeune homme promene dans un jardin une femme assise sur une brouette.
+
+Dessin au crayon noir.
+
+Cadre en bois sculpte.
+
+## ECOLE FRANCAISE
+
+(xv siecle.)
+
+## —Jeune Femme debout.
+
+## 26-
+
+Coiffee d'une mantille, les mains dans un manchon.
+
+Dessin au crayon noir.
+
+Haut.,2o cent.;larg.25 cent.
+
+Haut.,34 cent.; larg., 22 cent.
+## FRAGONARD
+
+(JEAN-HONORE)
+
+Grasse,1732Paris,1806.
+
+## Le Petit Predicateur. 27
+
+Dans un interieur ensoleille, un enfant aux cheveux boucles, les jambes nues sous sa chemise courte, est debout sur un coffre de bois. Sa jeune mere, coiffee d'un large chapeau de feutre, est accoudee derriere lui, sur le coffre.
+
+Le bras droit tendu d'un geste large, une poupee dans l'autre bras,il parait haranguer un groupe de personnages reunis a gauche : deux bambins jouant sur le sol, une femme agee agenouillee,les cheveux releves sur le front et serres sur la tete par un ruban,un homme coiffe d'un bonnet, vu a mi-corps, ainsi qu'une jeune femme au visage souriant, la tete penchee sur l'épaule.
+
+Dessin au lavis de sepia.
+
+Cadre en bois sculpte.
+
+Grave avec variantes par De Launay,en pendant de l'Education fait tout.
+
+La peinture a fait partie de la vente De Launay, en 1792. Cf.Baron Portalis,Honore Fragonard,sa vie,son euvre,page 31o. Collection Richard Lion,vente du 3 avril 1886,n°40.
+
+Haut.,35 cent.;larg.,46 cent.
+## GUARDI
+
+(FRANCESCO)
+
+Venise,1712+Venise,1793.
+
+## 28—Le Pont du Rialto.
+
+Sous un ciel clair ou traine un leger nuage, le soleil rayonne sur le Grand Canal, sillonne par les gondoles, et l'on apercoit de face, le Pont a l'arche unique, avec ses galeries aux eventaires proteges de leurs auvents. Une etoffe grise est drapee, a droite, sur la balustrade. Les toits de tuiles s'etagent en perspective au-dessus des palais. De nombreux personnages animent les quais.
+
+Au premier plan,on remarque des bateaux a voiles. amarres a gauche;a droite, une construction dont le rez-de-chaussee est ouvert par un portique a colonnes.
+
+Plus loin, une cabane en palissade est elevee au bord de l'eau. Des stores bleus protegent quelques fenetres de l'ardeur du soleil.
+
+Bois. Haut.,1g cent.;larg.,32 cent.
+## 29
+
+## HOGARTH
+
+(AttribueaWILLIAM)
+
+## Portrait d'homme en habit rouge.
+
+Vu de face, a mi-corps,il presente de la main droite un coeur enflamme, perce d'une feche, et tient de l'autre main une chaine.
+
+Cuivre de forme ovale. Haut., 12 cent.; larg. 1o cent.
+
+Cadre en bois sculpte.
+
+## HOUEL
+
+(JEAN-PIERRE-LOUIS)
+
+Rouen,1735+Paris,1813.
+
+DEUX PENDANTS
+
+## 30-31 Haltes de convois en montagne.
+
+Dessins au lavis d'encre de Chine, rehausses d'aqua- relle.
+
+Haut.,12 cent.; larg.,18 cent.
+## LANTARA
+
+(SIMON-MATHURIN)
+
+Oncy,1729 +Paris,1778.
+
+## 32
+
+## 2—Les Bergers italiens.
+
+Au bord d'un cours d'eau qui baigne des rochers, un patre assis sur un tronc d'arbre joue de la fute; deux bergeres l'ecoutent. Pres d'eux, une chevre et des moutons.
+
+Signe a gauche : Lantara.
+
+Toile.Haut.,53 cent.;larg.,62 cent.
+
+## LANEN
+
+(CHRISTOPHE VAN DER)
+
+Anvers,157o vers 1652.
+
+## 33—
+
+La Chanson de l'officier.
+
+Debout, devant une haute cheminee,un officier, tenant son verre a la main, va chanter. Cinq personnages sont reunis autour d'une table ou le diner est servi; une femme blonde est accoudee sur la nappe,un gentilhomme pince du luth.
+
+Bois.Haut.,5o cent.;larg.,64 cent.
+## 34
+
+## MONNOYER
+
+(JEAN-BAPTISTE)
+
+Lille,1634+Londres,169g.
+
+## Vase de feurs.
+
+Un vase de bronze garni de roses, de pavots, deboules de neige, de tulipes, est pose sur une table de marbre. Fond de ciel.
+
+Toile. Haut., I metre; larg., 8o cent.
+
+Cadre en bois sculpte.
+## 'NATTIER
+
+(JEAN-MARC)
+
+Paris,1685Paris,1766.
+
+## 35 Portrait presume de Madame de
+
+## Flavacourt.
+
+De trois-quarts a droite, vue jusqu'au-dessous de la ceinture,les yeux de face,la jeune femme est representee dans un parc sur un fond de ciel. Ses cheveux releves sur le front, boucles sur la nuque et les oreilles, sont legerement poudres.
+
+Elle porte une robe de soie blanche, decolletee sur une chemise de mousseline rayee; une chaine de perles, agrafee a son corsage par un diamant, fait le tour des epaules. Les manches bouffantes sont serrees au-dessus des coudes par des rubans de meme couleur. Une écharpe de satin gris bleute,retenue sur l'epaule gauche, est drapee autour de sa taille et fixee au cote par un bijou a cabochon de topaze, entoure de perles.
+
+A droite, un tronc d'arbre et le feuillage d'un buisson. Signe et date sur le tronc d'arbre : Naltier, pinxit,
+
+1739.
+
+Toile.Haur.,So cent.;larg.,65 cent.
+
+Cadre en bois sculpte et dore, du temps de la Regence.
+## OUDRY
+
+(JEAN-BAPTISTE)
+
+Paris,1686Beauvais,1755.
+
+## 36 —L'Abreuvoir.
+
+Un vieux manoir a tourelle et echauguette s'eleve dans un paysage, au bord d'un cours d'eau. Un portique en ruine,couvert d'un toit de tuiles, donne acces a la cour d'une ferme.
+
+Au premier plan, un patre, sur un ane, conduit a l'abreuvoir des bceufs, des moutons et une chevre.
+
+Signe a droite et date:J.-B. Oudry, 1725.
+
+Toile.Haut.,65 cent.;larg.,8o cent.
+
+Collection du Dr Mallez,vente du 3o mai 1885,n28.
+## ROBERT
+
+(HUBERT)
+
+Paris,1733+Paris,1808.
+
+PENDANT DU SUIVANT.
+
+## 37 Le Jet d'eau.
+
+Des larges degres de pierre donnent acces a une terrasse ou un bassin de forme circulaire est entoure d'une balustrade. Au centre du bassin, un jet d'eau éleve, sur les frondaisons épaisses d'une haute futaie, des fots d'ecume qui retombent en vapeurs argentees. Cinq per- sonnages sont reunis pres de la balustrade.
+
+Au premier plan,une femme,en robe bleue,est assise sur une marche, écoutant un homme, en gilet rouge, etendu a ses pieds; pres d'elle,un enfant est agenouille.
+
+Deux petits garcons jouent sur un lion de bronze couche sur un socle.
+
+A gauche, deux sapins aux lourdes branches.
+
+Dans le fond, un couple se promene dans une allee en perspective.
+
+Signe a droite :H. Robert, St-L. (Saint-Lazare). Grave par Boulard.
+
+Toile. Haut.,1 m.45;larg,96 cent.
+
+Collection du Dr Mallez,vente du 3o mai 1885,n°20. Collection Laurent Richard, vente des 28 et 2g mai 1886, n° 27.
+## ROBERT
+
+(HUBERT)
+
+PENDANT DU PRECEDENT.
+
+## 38 -La Fontaine.
+
+Une statue de femme tenant deux urnes renversees, d'ou l'eau tombe dans une vasque de granit posee au-dessus d'un bassin circulaire, a ete erigee sur le mur d'une terrasse a rampe de fer. Une femme, agenouillee sur la margelle,remplit dans le bassin sa cruche d'eau;une fillette l'accompagne.
+
+Une autre femme porte un vase sur sa tete; un homme, couvert d'un manteau rouge,boit dans le large bord replie de son chapeau de feutre.
+
+Au second plan, une femme en robe bleue et jupon blanc est accoudee sur la rampe de fer. Trois autres femmes sont arretees plus loin,a l'ombre d'une avenue de grands arbres.
+
+Grave par Boulard.
+
+Toile Haut.,1 m.45;larg.,96 cent.
+
+Collection du Dr Mallez,vente du 3o mai 1885,n°21. Collection Laurent Richard,vente des 28 et29 mai 1886,n°28.
+## ROEHEN
+
+(ADOLPHE-EUGENE-GABRIEL)
+
+Paris,178oMalakoff,1867.
+
+## 39 Foire de village.
+
+Dans un champ,au bord d'une riviere, on a dresse des tentes, et les villageois en foule, circulent ou sont assis autour des tables, prenant des collations.
+
+A droite, devant la vieille porte d'une enceinte forti- fiee, un charlatan,debout sur son treteau,montre de sa baguette une enseigne peinte ou est representee la femme a barbe allaitant un enfant sous cette inscription: Femme sauvage, avec la permission de Monsieur le Maire. Un compere, en costume de Gilles, est assis devant l'enseigne, pincant du luth.
+
+On remarque encore, parmi la foule, deux cavaliers, l'un tenant une trompette.
+
+Bois.Haut.,48 cent.;larg.,58 cent.
+## SCHALL
+
+(FREDERIC-JEAN)
+
+Strasbourg,1752+ Strasbourg,1835.
+
+La Jeune Musicienne. 40
+
+Une jeune femme, coiffee d'un chapeau a plumes blanches, en jupe de soie rouge, corsage de mousseline. écharpe noire drapee sur les epaules, est assise sur un tertre dans un parc, pincant du luth.
+
+Toile.Haut.,3g cent.;larg.,31 cent.
+
+## SCHOEWAERDTS
+
+(MATHIEU)
+
+Bruxelles,vers 1664?
+
+La Parade. 4Y
+
+Sur la place d'un village famand,baigne par une riviere,un jour de foire, des charlatans font la parade sur une estrade entouree de spectateurs.
+
+Au premier plan, deux cavaliers et une charrette aux chevaux deteles.
+
+Signe a droite:M. Schoevaerdts,f.
+
+Bois Haut.,38 cent.;larg.52 cent.
+## SWEBACH dit FONTAINE
+
+(JACQUES-FRANCOIS)
+
+Metz,176g+Paris,1823.
+
+## Le Marche aux chevaux. 42
+
+Sur une route qui suit une vallee d'une vaste etendue, une tente est dressee devant un bouquet d'arbres. Au sommet de la tente,un fanion bleu est deployé. Parmi la multitude de personnages, un cavalier en habit gris, coiffe d'un bicorne,galope de gauche a droite. Un homme, vetu de rouge, presente un cheval gris au milieu d'un groupe ou lon remarque une femme et deux enfants. Des villageois conduisent des charrettes； a droite, des chevaux sont menes a l'abreuvoir.
+
+Vers le fond,un chateau occupe une éminence et un pont de pierre conduit a un village dont le clocher s'eleve au milieu des arbres.
+
+Bois.Haut.,27 cent.;larg.,6o cent.
+
+Collection du Dr Mallez,vente du 3o mai 1885,n°46.
+## TAUNAY
+
+(NICOLAS-ANTOINE) Paris,1755Paris,1830.
+
+PENDANT DU SUIVANT
+
+## 43 —La Sortie des troupeaux.
+
+Dans un site montueux, ou s'elevent quelques constructions italiennes,une femme montee sur un ane,et un berger drape dans son manteau,chassent devant eux un troupeau de vaches et de moutons;a gauche,au second plan,un sentier sur lequel chemine une laveuse portant une corbeille sur la tete.
+
+Le soleil apparaissant a l'horizon,illumine la campagne; les arbres et les maisons projettent des ombres qui s'etendent vers la gauche.
+
+Bois. Haut.,22 cent.; larg.,3o cent.
+
+Collection Jules Burat,vente des 28 et 29 avril 1885,n°173.
+
+## TAUNAY
+
+(NICOLAS-ANTOINE)
+
+PENDANT DU PRECEDENT
+
+## La Rentree des troupeaux. 44
+
+La porte de la ferme est grande ouverte, les bergers rentrent, suivis de leurs troupeaux;un ane se roule sur le sol, soulevant la poussiere, aupres d'un chien qui aboie; a droite, un grand arbre et un puits ou un valet tire de l'eau.
+
+Effet de soleil couchant.
+
+Bois. Haut.,22 cent.;larg.,3o cent.
+
+Collection Jules Burat, vente des 28 et 2g avril 1885, n°174.
+## TOURNIERES
+
+(ROBERT)
+
+Ifs,1668+Caen,1752..
+
+## Portrait d’un gentilhomme.
+
+Debout sur la terrasse d'un palais, il est vu a micorps, de trois-quarts a droite, vetu d'un habit rouge brode d'or, la main gauche retenant une echarpe de meme couleur a la hauteur de la ceinture, l'autre main appuyee sur la hanche. Devant lui, des livres sont poses sur un tapis d'Orient. Un rideau de soie verte est tendu sur le fond.
+
+Bois.Haut.,5o cent.;larg.,32 cent.
+
+Collection du Dr Mallez,vente du 3o mai 1885,n°48.
+
+## VANDAEL
+
+(JEAN-FRANCOIS)
+
+Anvers,1764+Paris,1840.
+
+46 Fleurs.
+
+Une branche de feurs de pommier et des oreilles d'ours, dans un verre de cristal pose sur une console de marbre, aupres de trois anemones de differentes couleurs. Signe et date a droite : Van Dael, l'an IV.
+
+Bois. Haut.,36 cent.;larg.,28 cent.
+
+Vente apres deces du peintre Van Os.
+
+Collection Jules Burat, vente des 28 et 29 avril 1885,n 184.
+
+5
+## 47 一
+
+## VAN LOO
+
+(LOUIS-MICHEL)
+
+Toulon,1707Paris, 177i
+
+## Portrait d’un gentilhomme.
+
+Vetu d'un habit de velours vert olive, a boutons d'or, sous un manteau de velours bleu drape sur l'epaule,la tete couverte d'une longue perruque bouclee,il est represente sur une terrasse, vu a mi-corps,de trois-quarts a gauche, regardant en face;la main droite posee sur le dossier d'un fauteuil de damas rouge,lautre main appuyee sur la hanche. Un rideau rouge, borde d'une dentelle d'or, est drape sur un pilastre de pierre.
+
+A droite,un fond de ciel.
+
+Signe et date: L.M.Van Loo,f,1736.
+
+Toile.Haut.,I metre; larg.,8o cent.
+
+Cadre en bois sculpte.
+
+<!-- image -->
+<!-- image -->
+
+## Objets d'Art et d'Ameublement
+
+## FAIENCES ET PORCELAINES
+
+- 48Deux PLATEAux, decor bleu a la Berain. Ancienne faience de Moustiers.
+- 49 -PLAT long, decor bleu a la Berain. Ancienne faience de Moustiers.
+- 5o PLAT creux, decor de branches feuries. Ancienne faience de Rhodes.
+- 51—Tasse et soucoupe, decor de feurs, en ancienne porcelaine tendre de Sevres.
+- 52 2 CAFeTieRE avec couvercle,decor de sujets chinois encadres de rinceaux. Ancienne porcelaine de Saxe, marque aux poignards.
+- 53  BoL decore de sujets champetres et de fleurs. Ancienne porcelaine de Saxe.
+- 54 - Deux PETITEs TAssEs avec soucoupes, a sujets de chasse, en ancienne porcelaine de Saxe.
+- 55— Deux sTATuETTes en ancienne porcelaine de Saxe:joueur de cornemuse et joueuse de vielle.
+- 56—BorTE en ancienne porcelaine de Saxe, decoree de combats. et sujets militaires sur toutes les faces; scene galante au revers du couvercle;monture a cage en argent.
+- BoITe en ancienne porcelaine de Saxe, decoree d'oiseaux sur toutes les faces; au revers du couvercle, vue de ville au bord de la mer;monture en or.
+- 58- BoiTe en ancienne porcelaine de Saxe, decoree sur toutes les faces de paysages animes: au revers du couvercle, un palais au bord d'un fleuve.
+- 59 -Deux poTicHEs variees, avec couvercles, decorees chacune de nombreux personnages. Ancienne porcelaine de Chine.
+- 60 -PETITE PoTicHE avec couvercle,en ancienne porcelaine de Chine, epoque Kien-lung; decor de reserves a feurs sur fond rose charge de fieurs egalement.
+- 61-PLar decore d'une armoirie, marli a feurs et carrelages. Ancienne porcelaine de Chine. Epoque Kien-lung.
+- 62 一 Deux PeTrrs PLATs decores chacun d'une corbeille de fleurs. Ancienne porcelaine de Chine. Epoque Kien-lung.
+- 63-Deux AssiETTEs decorees de feurs, marli a six petites reserves chargees de fruits. Ancienne porcelaine de Chine. Epoque Kien-lung.
+- 64—Deux AssiETTes variees, en ancienne porcelaine de Chine a decor d'armoiries.
+- 65 -PeTIT PLAT decore d'une scene familiale a sept personnages. Ancienne porcelaine de Chine.
+- 66—PerIT PLAT creux decore d’une scene familiale.Ancienne
+- porcelaine de Chine.
+- 67 - Deux PETITs cAcHE-PoTs decores de feurs et oiseaux, en
+- ancienne porcelaine de Chine.
+- 68 — Deux PeTIrs VAses ovoides, en ancienne porcelaine de Chine, a decor de medaillons compris entre deux zones rouges, chargees de motifs irreguliers.
+- 6g —PLar decore de fleurs et rochers en bleu. Ancienne porcelaine de Chine.
+- 70 PLAT, decor bleu: feurs et rochers, marli a compartiments. Ancienne porcelaine de Chine.
+- —PLAr, decor bleu:feurs et rochers,marli a quatre reserves. Ancienne porcelaine de Chine.
+- 72—VasE avec couvercle, decor bleu : fleurs et ustensiles.
+- Ancienne porcelaine de Chine.
+- 73 —Deux PoTicHEs avec couvercles, decorees de fleurs,oiseaux et lambrequins. Ancienne porcelaine du Japon. Couvercles
+- surmontes d'un oiseau de proie.
+- —Deux corNETs decores de vases de feurs en relief, en bleu, rouge et or. Ancienne porcelaine du Japon; bases en bronze.
+- 74
+- --Deux cAcHE-poTs en ancienne porcelaine du Japon, a decor
+- de feurs et rochers en bleu, rouge et or; montures en argent.
+- 76-Deux FLAcoNs decores de fleurs et rochers, en ancienne porcelaine du Japon.
+- 77— STATueTTe de personnage assis sur un tertre, accompagne d'un crapaud. Ancienne ceramique du Japon; base en
+- bronze.
+## MINIATURES,BOITES
+
+## OBJETS VARIES
+
+- 78— MiNiATuRe ronde,portrait de jeune homme occupe a dessiner
+- un buste. Epoque Louis XV.
+- 79 —MiNiATuRE ovale, portrait de personnage en buste, en habit
+- vert a parements rouges. Epoque Louis XV:
+- 8o—MiNiATuRE ronde,portrait de femme en buste,costumee en Diane. Epoque Louis XVI.
+- campagne.
+- 82 -BoiTe ronde en ecaille blonde, ornee d'une miniature du temps de Louis XV:portrait de jeune femme tenant une aiguiere.
+- 83- Boire oblongue en cristal, montee a cage en or grave.
+- Epoque Louis XVI.
+- 84-EruI en or émaille, a dessin d'etoiles semees sur fond bleu. Epoque Louis XVI.
+- 85—
+- ETuI en or grave et cisele, avec cachet. Epoque Louis XVI.
+- 86 -PETITE EcuELLE avec couvercle; munie d'une poignee en argent, decor de petits bustes. xvine siecle.
+- 87—PETIT GoBELET avec couvercle, en argent, a decor d'entrelacs. xvinne siecle.
+- 88 - GoBELET en argent repousse, a grosses feuilles. xvil siecle.
+- 89- PLAT creux en cuivre grave,avec incrustations d'argent; sur lombilic, une figure de pelerin; alentour, des grotesques et des medaillons de style antique; revers grave egalement.
+- Ancien travail venitien.
+- g0  PLAT creux en cuivre, avec incrustations d’argent, decore
+- d'arabesques de style oriental. Ancien travail venitien.
+- 91—PeTITE PENDuLE sur socle-applique, en marqueterie de cuivre sur ecaille,a decor de rinceaux, animaux, etc., cadran, cariatides et petits vases en bronze; mouvement signe: Boucheret, a Paris. Epoque Louis XIV.
+
+## MEUBLES
+
+- 92—— GrANDE ARMoiRE en chene sculpte, fermant a deux portes; elle est decoree de baguettes enrubannees, de medaillons contenant des monogrammes, de rinceaux, de rosaces, de palmettes et de chapiteaux; la corniche,contournee, est interrompue au centre par un ecusson d'armoiries.Epoque Regence.
+
+Haut.,3metres;larg,1 m.70.
+
+- 93 Deux commoDes,a deux rangs de tiroirs, en bois de placage, sur quatre pieds cambres; poignees, entrees de serrures, appliques, encadrements et sabots a pieds de biche en bronze dore;
+- dessus de marbre. Epoque Regence.
+
+Haut.,go cent.; larg., I m.10.
+
+- 94—TaBLE oblongue, en bois sculpte, en partie du temps de la Regence: elle repose sur quatre pieds cambres, relies par un croisillon; dessus de marbre.
+
+Haut.,79 cent ; larg.,1 m.20.
+
+- 95-TABLE-BuREAu oblongue, en bois de placage, a bords
+- contournes et a trois tiroirs; elle repose sur quatre pieds cambres; chutes, poignees, entres de serrures, sabots, agrafes d'angle en bronze dore; signee: Birckle. Epoque Louis XV.
+
+Larg., 67 cent.; long, 1 m. 27.
+- 96- Deux PETITEs coMMoDEs a deux tiroirs,en marqueterie de
+- bois de couleur a decor d'encadrements;elles reposent sur quatre pieds cambres; entrees de serrures, anneaux de tirage, chutes a mufles de lions, sabots et cul-de-lampe en bronze dore. Signees: Rubestuck; dessus de marbre. Fin de l'epoque Louis XV.
+
+Haut.,86 cent.; larg.,64cent.
+
+## TAPISSERIES
+
+- 97-GRANDE TAPIssERIE composee de fragments. Flandres, xvin siecle.Verdure avec plusieurs oiseaux au premier plan;
+- bordure,haut et bas, de feurs.
+
+Haut.,3m.25;1arg.,6m.55.
+
+- 98TAPIssERIE-vErDurE famande, du xvii siecle, presentant, au centre,une piece d'eau,au second plan, des habitations;
+- bordure de fleurs avec noeuds de rubans.
+
+Haut.,2 m.8o;larg.,2 m.g0.
+
+- 9g-TapissERIE famande du xvile siecle. Verdure avec deux
+- petits oiseaux au premier plan; bordure de feurs avec rubans.
+
+Haut.,2 m.8o;larg.,2 m.55.
+
+- Ioo - TapisseRie flamande du xvii siecle. Verdure avec chateaufort au second plan;en avant, des cygnes et un autre oiseau; bordure de feurs avec rubans.
+
+Haut.,2m.75;larg.,2m.90.
+
+- IoI -PETITE TAPISsERIE-VERDURE avec oiseau au premier plan;
+- bordure de feurs avec rubans. Flandres, xvine siecle.
+
+Haut.,2 m.75;larg.,1 m.10.
+
+- Io2 — TAPIssERIE du xville siecle.Verdure avec deux gros oiseaux au premier plan,bordure de feurs sur fond marron.
+
+Haut.,2m.55;larg.,2 metres.

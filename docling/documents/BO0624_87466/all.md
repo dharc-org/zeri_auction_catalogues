@@ -1,0 +1,2339 @@
+<!-- image -->
+
+## A.D.monogrammirt.
+
+(Siehe Nagler ,Die Monogrammisten“No.351.)
+
+Das Gleichniss vom Saemann. Grosses Feld, auf dem die schlafenden Knechte und der den Samen ausstreuende Satan. Seitwarts im Hintergrunde: Christus und seine Junger.
+
+<!-- image -->
+
+Gutes, interessantes Bild. Bezeichnet 1521.
+
+## Albertinelli,Mariotto,
+
+geb.zu Florenz 1474; daselbst 1515.
+
+- 2 Die Dreifaltigkeit. Gott Vater,umgeben von Engeln, auf dem Wolkenthrone sitzend,halt mit beiden Handen das Kreuz mit dem Erloser, iber dem der hl. Geist in Gestalt einer Taube. Gutes effectvolles Bild von trefflicher Farbung und guter Erhaltung. Prov. Smlg. Bystrom No. 98. Leinwand. Hohe 94,Breite 65 Cent.
+
+## Altdeutsche Schule.
+
+- 3 Weibliches Bildniss. Kniefigur einer vornehmen Dame in mittleren Jahren in Lebens-
+- grosse. Die Kleidung, der eigenartige Hut und der reiche Hals- und Brustschmuck ganz mit echtem Blattgold gedeckt.
+
+Das interessante, ganz in der Art des Lueas Cranach aufgefasste Bild dirfte um 1520 hergestellt sein; eine seitliche lange Inschrift ist durch Restauration ganz verdeckt, die Figur hingegen ist vollstandig unberihrt und auffallend gut erhalten.
+
+Holz. Hohe 105,Breite 72 Cent.
+
+- 4 St. Brigitta. Halbfigur in violett und roth gestreiftem Gewande mit Puffenarmeln. Haubchen wie Halsband sind reich besetzt mit Edelsteinen; die ringgeschmuckten Hande halt sie vorn aufeinander gelegt. Oben links die Inschrift: S.Brigitta.
+
+Treffliches Costuimbild von praichtiger Erhaltung. Prov. Sammlung Brogren.
+
+Holz. Hohe 17/e,Breite 121/e Cent.
+
+- 5 Diptychon. Der eine Flugel mit der Anbetung der Hirten,der andere mit der Flucht nach Egypten; auf der Ruckseite der beiden Flugel: Maria Verkindigung. Superbe erhaltenes Bild von feiner brillanter Ausfihrung und gut in der Farbe. Prov. Sammlung Galimberti.
+
+2495
+
+Holz.Hohe 74,Breite aufgeschlagen 55 Cent.
+
+Holz.Hohe 69,Breite 95 Cent.
+- 6 Die Anbetung der hl drei Konige.Halbfigur der Mutter Gottes, den kleinen Jesusknaben auf dem Schoosse haltend; vor ihnen die hl. drei Konige, ihre Geschenke iberreichend und links der hl. Joseph.
+
+Schones,gut erhaltenes Bild von trefflicher Firbung.
+
+Holz.Hohe 28,Breite 22 Cent.
+
+- Die Aufopferung Jesu im Tempel. Bei einem Altartische steht der greise Simeon, den Christusknaben seiner Mutter zurickgebend. Hinter ihnen zwei andere weibliche Figuren. Leinwand.Hohe 55,Breite 36 Cent.
+- Weibliches Bildniss. Brustbild einer Nirnbergerin im Brautschmuck. Brust und Hals mit goldenen Ketten und Edelsteinen geschmickt. Die michtige Brautkrone besteht aus weissem Gewebe, das iberreich mit Perlen besetzt ist.
+
+Interessantes Costimbild. Prov. Sammlung Brogren.
+
+Leinwand.Hohe 70,Breite 56 Cent.
+
+- Mannliches Bildniss. Brustbild eines Ritters im Harnisch und grinem,mit Lowen bestickten Kleide. Den Hals umgibt eine grosse weisse Krause und die Hande sind betend gefaltet.
+- 9 Auf der Rickseite die Halbfigur der Madonna.
+
+Sehr gutes, feissig ausgearbeitetes Bild. Prov. Sammlung Cederlund 67.
+
+Holz. Hohe 70,Breite 59 Cent.
+
+- 10 Martin Luther. Derselbe ist im Brustbild als Monch im 24.Lebensjahre, in seinem
+- 33.Lebensjahre und im Tode dargestellt.
+
+Hochst interessante Bilder mit diesbeziglichen Unterschriften.Drei Bilder in einem Rahmen. Holz. Hohe je 151,Breite 10 Cent.
+
+## Amberger, Christoph,
+
+- Triptychon. In der Mitte die Kniefigur Maria mit dem Jesusknaben in Landschaft, in der in der Ferne:Maria Besuch bei Elisabeth. Die Innenfachen der Seitenfugel mit zwei
+- 11 weiblichen Heiligen.
+
+Sehr fein ausgefihrtes Bild von vortrefflicher Farbung und bestens erhalten. Prov. Sammlung
+
+Holz. Hohe 57, Breite aufgeschlagen 95 Cent.
+
+Galimberti No.2 und Sammlung Carl's XV.
+
+## Anderson, Nils,Prof.,
+
+- 12 In der Fischerhutte. Eine junge Frau ist beim Scheine der Morgensonne mit ihren Kindern beschaftigt;hinter ihr, bei einer Wiege,der alte Grossvater, ein Fischernetz strickend und eine zweite Frau. Am Boden eine Katze.
+
+geb.zu Ostgothland (Sehweden)18i7;1865.
+
+Feintoniges Bild von gutem Efecte.Bezeichnet: N. Anderson. Prov. Sammlung Konigin Josefine.
+
+Leinwand.Hohe 44,Breite50 Cent,
+
+## Arcimbaldo,Guiseppe,
+
+- Weibliche Bildnisse. Zwei grosse Brustbilder, ganz aus Blumen gebildet. Auf dem einen
+
+geb.zu Mailand, thatig um 1560 in Prag; ↑ 1593.
+
+- 13 oben die Bezeichnung:La fora dellareimbaldo.
+
+Interessante, eigenartige Ausfihrung. Prov. Sammlung Graf v.Fersen-Gylldenstolpe.
+
+Holz.Hohe 73,Breite 56 Cent.2 Stuick.
+
+geb. zu Amberg 1490; zu Augsburg 1563.
+- 14
+- 17
+
+## Arenius, Olof,
+
+- Madonna mit Kind. Brustbild der jugendlichen Madonna, den nackten schlafenden Jesusknaben auf dem Schoosse haltend.
+
+geb.1701 zu Upsala;1766.
+
+Gutes Bild von schoner Farbung.
+
+Leinwand. Hohe 47,Breite 36 Cent.
+
+## Arthois, Jacques d’,
+
+- 15 Landschaft. Grosse waldige Gebirgsgegend, in deren Vordergrund eine Lichtung mit
+
+geb. zu Brissel 1613;↑ daselbst nach 1678.
+
+- Reitern,ausruhenden Wanderern und zwei Holzfallern.
+
+Leinwand. Hohe 47,Breite 63 Cent.
+
+Sehr schones, dunkel gehaltenes Bild von trefflicher satter Farbengebung: Prov. Sainmlung Graf A.Fleming No.38.
+
+- 16 Landschaft. Bergige Gegend,in der im Vorgrunde bei Sculpturenresten ein Reiter bei
+
+Leinwand. Hohe 61,Breite S4 Cent.
+
+- einer Hirtin und zwei Bauern. Links ein kleines,von einem Absatze herabstirzendes Wasser. Sehones Bild von guten Lichtefecte. Prov. Sammlung Cardinal Fesch und Sammlung Konigin Desideria.
+
+## Avondt,Pieter van den,
+
+- Amoretten-Reigen. In einer Waldlichtung vergnigen sich sieben gefugelte Amoretten beim Ringeltanz.
+
+geb.zu Mecheln 1600; zu Antwerpen 1652.
+
+Sehones Bild. Prov. Sammlung Grubbe No.107.
+
+Kupfer. Hohe 22, Breite 31 Cent.
+
+## Backhuysen, Ludolf,
+
+- 18 Marine. Sturmbewegte,hochgehende See,auf deren machtigen Wellenbergen einige grosse Schiffe.
+
+geb.zu Emden 1633; zu Amsterdam 1708.
+
+Interessantes, gutes Bild. Bezeichnet: L.B. Prov. Sammlung Grubbe No.121. Holz.Oval. Hohe 221/,Breite 31 Cent.
+
+## Baden, K. van,
+
+- 19 Architekturstuick. Inneres eines hohen Tempelgewolbes, das auf machtigen Saulen ruht.
+
+Lebensdaten unbekannt.
+
+- Als Staffage Christus und die Ehebrecherin.
+
+Baden 1641.
+
+Sehr interessantes Bild dieses so iberaus selten vorkommenden Meisters. Bezeichnet: K. van
+
+Holz. Hohe 20, Breite 26 Cent.
+
+- 20 Architekturstick. Breiter Saulengang mit Ausblick auf ein hohes Gebiude. Figurenstaffage. Feintoniges Bild von guter Erhaltung. Bezeichnet:K.van Baden.
+
+Holz.Oval. Hohe 39,Breite 53 Cent.
+
+## Badens, Franz,
+
+- 21 Conversationsstick. Herr und Dame in vlimischer Tracht sitzen beieinander vor einem rothgedeckten Tisch,auf dem Kanne und umgestirzter Pokal. Sie reicht mit der Rechten
+
+geb.zu Antwerpen 1571;1603.
+
+- ihrem Genossen ein halbgefulltes Weinglas dar.
+
+Sehr schones Bild von feiner eleganter Durchfuihrung und bester Erhaltung. Bezeichnet:F.Badens. Prov. Sammlung Grubbe.
+
+Holz. Hohe 291/,Breite 27 Cent.
+## Behn, Andreas von,
+
+Schwedischer Meister;1715.
+
+## 22 Andromeda befreit von Perseus.
+
+Vortreffliche Copie des unter No. 78 dieses Katalogs beschriebenen Bildes von Ehrenstrahl. Prov. Sammlung Netzel.
+
+## Belanger, Louis,
+
+geb. in Frankreich 1756; zu Stockholm 1816.
+
+- 23 Die Stadt Stockholm vom Djirgarden aus. Ansicht der schon gebauten Stadt mit dem koniglichen Schlosse und hohen Kirchengebauden.
+
+Sehr interessantes Bild von feissiger Durchfihrung. Bezeichnet:Louis Belanger, Stockholm 1810. Leinwand. Hohe 116,Breite 164 Cent.
+
+## Bemmel,Karl Sebastian,
+
+geb. zu Bamberg 1743; zu Nirnberg 1796.
+
+- 24 Der Morgen. Von der Morgenrothe gefarbte Waldlandschaft,in deren Vorgrunde ein iber Felsen herniederstirzender Wildbach. Als Stafage ein Bauer mit beladenem Esel. Gutes Stimmungsbild von ansprechender, treflicher Ausfihrung, wie die folgenden. Bezeichnet:
+- C.S. Bemel fec.Prov. Sammlung Geuder in Nirnberg.
+- 25 Der Tag. Flusslandschaft. Waldige Berggegend, durch die ein Fluss bis zum Vorgrunde zieht; dort eine Bogenbricke und zwei Fischer in Nachen. Ebenso und Gegenstick.
+- 26 Der Abend. Aehnliche Darstellung.
+- Gegenstick. Gleiche Ausfihrung. Leinwand. Gleiche Grosse.
+- 27 Die Nacht. Vom Vollmonde nur spirlich beleuchtete Waldlandschaft, durch die rechts ein, einen kleinen Wasserfall bildender Bach niederstromt. Im Wald selbst, um ein loderndes Feuer gruppirt drei Manner.
+
+Leinwand. Hohe 54,Breite 61 Cent.
+
+Leinwand. Gleiche Grosse.
+
+Gegenstick. Gleiche Ausfuihrung.
+
+## Bemmel, Willem van,
+
+geb. 1630 zu Utrecht; 1708 zu Wohrd.
+
+- 28 Waldlandschaft. Beiderseits dichte Baumgruppen, zwischen denen hindurch, uiber einen Bach hinweg,Blick auf eine freundliche Ebene. Figurenstaffage.
+
+Gutes Bild von gluieklicher Auffassung und feissiger Ausfuihrung. Prov. Sammlung von Sydow. Kupfer.Hohe 20,Breite 25 Cent.
+
+- 29 Flusslandschaft. An dem Saume eines Waldes vorbei zieht sich, von einer Hausergruppe herkommend, ein Fluss bis zum Vorgrunde hin.
+
+Gegenstick zu Vorigem. Gleiche Provenienz.
+
+Kupfer. Gleiche Grosse.
+
+## Berettini, Pietro, gen. da Cortona,
+
+geb.1596 zu Cortona; 1669.
+
+- 30 Bacchus-Opfer. Umgeben von Bacchanten und Satyren,reitet rechts der trunkene Silen zur Statue des Bacchus,bei der ein Opferpriester, der Altar und Musikanten etc. Sehr gutes Bild,lebhaft in Colorit und von lebendiger Composition. Prov.Sammlung Prof.Bystrom Leinwand.Hohe 97,Breite 133. No.184.
+
+Leinwand. Gleiche Grosse.
+
+Kupfer.Hohe 23,Breite 20 Cent.
+## Bles,Herri,
+
+geb.1480 zu Bouvignes im Hennegau; 1550 zu Luttich.
+
+- 31 Landschaft. Weite Fernsicht auf einen Fluss, dessen beide Ufer hohe mit Burgen besetzte Berge bilden. Figurenstaffage.
+
+Vortreffliches Bild von vollendeter Durchfuhrung,farbenprachtigem Auftrag und bester Erhaltung. Bezeichnet mit einem Kauzchen.Prov.Sammlung Magnus Brahe.
+
+## Bol,Ferdinand (Art).
+
+- 32 Die Guitarre-Spielerin. Halbfigur einer jungen Frau in Lebensgrosse, vor einer Brustung stehend und zum Spiel der Guitarre singend.
+
+Prov. Sammlung Aspelin, spater Ahlberg No.10.
+
+## Bosch, Hieronymus,
+
+geb.um 1450; 1518.
+
+- 33 Kuchenstuck. Inneres einer sehr grossen Stube, in der rechts eine Kuchenabtheilung. Links die Schenkstube etc. Mit reicher Figurenstaffage.
+
+Vorziglich ausgefihrtes Bild von iberaus lebhafter, reicher Conposition und tadelloser Erhaltung. Holz.Hohe 70,Breite 92 Cent.
+
+## Boucher, Francois,
+
+geb.zu Paris 1703; daselbst 1770.
+
+- 34 Amoretten in Landschaft. Drei gefugelte Amoretten mit Zeichnen etc. beschaftigt. Holz.Oval.Hohe 34,Breite 28 Cent.
+- 35 Amoretten mit Blumen. Aehnliche Darstellung. Gegenstick zum Vorigen.
+- 36/37 Amorettengruppen. Ebenso.
+
+Holz. Gleiche Grosse.
+
+Holz. Hohe 36,Breite 30 Cent. 2 Stick.
+
+Vorstehende 4 Amorettengruppen, simmtlich grau in grau gemalt, sind erworben von Frau Wall in Stockholm.
+
+## Brentel,Friedrich,
+
+geb.1590;1651.
+
+- 38 Schlachtenbild. Im Vorgrunde einer Gebirgslandschaft ist eine grosse Anzahl Reiter und Fussginger in verschiedenen Trupps im Kampfe begriffen.
+
+Sehr gutes Bild von lebendiger Composition und gut in der Farbe.Prov. Sammlung Willebrand No.18. Kupfer.Hohe 27,Breite 35.
+
+## Brill, Paul,
+
+geb. zu Antwerpen 1556; zu Rom 1626.
+
+- 39 Waldlandschaft. Links hoher bewaldeter Berg, vor dem in einem Thal eine grosse Anzahl Thiere.Vorne rechts bei einem sehr grossen Baume eine Gruppe Personen.
+
+Sehr schones feines Bildchen von minutioser Ausarbeitung und klarer Farbung. Prov. Sammlung der Konigin Desideria.
+
+Kupfer. Hohe 111/e,Breite 17/ Cent.
+
+Leinwand. Hohe 92, Breite 76.
+
+Holz.Hohe 34,Breite 50 Cent.
+## Broeck, Elias van den,
+
+- 40 Blumenstick. In einer reich verzierten Bronzevase sind Tulpen, Chrysanthemum, Maiblumen etc. zu einem grossen Strauss geordnet.
+
+geb.zu Antwerpen um 1657; zu Amsterdam 1711.
+
+Farbenprichtiges Bild von guter Erhaltung.
+
+Leinwand. Hohe S2, Breite 65 Cent.
+
+## Brueghel, Jan, gen.Fluweelen oder Sammetbrueghel, geb. 1568 zu Brissel;zu Antwerpen 1625.
+
+Superbes Bild von ausserordentlicher Feinheit und klarer Farbung.Prov. Sammlung Leibarzt Sjobeck No. 65, sodann Reichsmarsehall Graf Fleming No.45. Holz.Hohe 56, Breite S0 Cent.
+
+- 41 Landschaft. Im Vorgrunde rechts Eingang zu einem von Baumen beschatteten lindlichen Wohnhause, zu welchem ein Mann einen Esel leitet. In dem lichten Hintergrunde Hauser und Ruinen, bei denen eine grosse Anzahl Figuren, Heerden ete.
+- 42 Landschaft. Auf einem Hugel stehen in Zwischenriumen mehrere Baumgruppen, zwischen denen ein breiter,von Pferden, Wagen und Fussgingern belebter Weg zur Hohe hinansteigt. Sehr sehones klares Bild von emailartiger Fuirbung und guter Erhaltung. Prov. Sammlung der Konigin Desideria.
+
+Holz. Hohe 12, Breite 17 Cent.
+
+- 43 Landschaft. Rechts steiles Gebirge, zwischen dem auf einem Wege die hl. Familie auf der Flucht. Links breite bewaldete,mit Burgen besetzte Thalebene.Als Staffage Krieger bei zwei Bauern.
+
+Hohe 87,Breite 108 Cent.
+
+Feintoniges Bild von ansprechender guter Ausfuihrung.
+
+- 44 Der Brand von Troja. Grosser Platz in der mit Prachtbauten ausstaffrten brennenden Stadt, die von einer Menge Figuren belebt ist und in deren Mitte das grosse Pferd steht. Prichtiges Bild von vorziglicher emailartiger Farbung und bester Erhaltung.
+
+Holz. Hohe 50, Breite 75 Cent.
+
+- 45 Landschaft. Hohes steiles Gebirge,zwischen dem Burggebaude,Kirchen und Hausergruppen; in der Ferne eine grosse Stadt und als Staffage der hl. Hieronymus, in seiner Hutte betend. Schones Bild von satter Farbengebung und trefflicher Behandlung.
+
+Holz.Hohe 68,Breite 90 Cent.
+
+- 46 6Gebirgslandschaft. Breiter, von Kahnen belebter Fluss durchzieht die bergige Gegend bis zum Vorgrunde, wo links ein Weg, auf dem Wagen und Fussganger weilen, in's steile Gebirge fuhrt.
+
+Vorzigliches Bild von emailartiger,prachtiger Ausfuhrung. Prov.Baron Willebrand's Sammlung No.3. Holz.Hohe 42,Breite 60 Cent.
+
+- 47 Landschaft. Bei kleinem Wasser halten in der Nahe einer Hausergruppe einige bespannte Wagen, sowie drei Pferde mit Bauern und Bauerinnen. Links auf der Hohe eine grosse Windmihle.
+
+Sehr schones, fein ausgefihrtes Bild, das zu Anfang des XVIll. Jahrh. von Birgermeister Plomgren in Amsterdam gekauft und spaiter der Sammlung Moll einverleibt wurde.
+
+Kupfer. Hohe 14, Breite 18 Cent.
+
+## Brueghel, Pieter, gen.Hollenbrueghel,
+
+geb.zu Brissel 1564；↑ zu Antwerpen 1637 od.38.
+
+- 48 Phantastische Darstellung. Landschaft mit einer grossen Menge Spuckgestalten. Interessantes, gut ausgearbeitetes Bild von bester Erhaltung.Prov. Sammlung Brogren. Holz. Hohe 117,Breite 162 Cent.
+- Die Versuchung des hl. Antonius. In einer mit Ruinen ausstaffrten Gegend sitzt der Heilige, umgeben von phantastischen Gestalten, betend an einem primitiven Holztische.
+
+Sehr schones, trefflich ausgefihrtes Bild von bester Erhaltung. Prov. Sammlung Prof. Bystrom No.203,spater Konigin Desideria No.32.
+
+- 49 Neben ihm eine gefuigelte uippige Weibsfigur.
+
+## Budt,
+
+- 50 Selbstbildniss. Brustbild in schwarzem Gewande und mit spitzenbesetztem Umlegekragen. Das Haupt deckt langes dichtes Haar und das frische,nur mit Schnurrbart gezierte Gesicht ist dem Beschauer zugewendet.
+
+Kupfer. Hohe 17, Breite 23 Cent.
+
+thitig um die Mitte des XVII. Jahrh.Lebensdaten unbekannt.
+
+Trefflich ausgefuhrtes lebenswahres Bild von bester Erhaltung. Bezeichnet:Bvdt F.1654. Leinwand. Hohe 33,Breite 29 Cent.
+
+## Biiken, Jan van,
+
+- 511 Fruchtstuick. Im Garten eines grossen Hauses liegt vorne in buntem Durcheinander eine Menge Fruchte aller Art bei Gerathen und Topfpfanzen.Figurenstaffage.
+
+thatig in der 2. Halfte des XVIl. Jahrh.
+
+Fein und malerisch componirtes Bild von feissiger Durchfihrung. Bezeichnet: Jan van Buken
+
+Leinwand. Hohe 82,Breite 59 Cent.
+
+fecit A 1689. Das Pendant hangt im Stockholmer Museum.
+
+## Burckmair, Hans,
+
+- 521 Die Verkundigung. Halbfigur der Jungfrau Maria, an ihrem Betstuhl knieend und den Worten des Erzengels Gabriel lauschend; in der Hohe der hl. Geist,in Wolken schwebend.
+
+geb.zu Augsburg 1473 od.74； daselbst 1531.
+
+Farbenprichtiges Bild von treflicher Ausfuhrung. Prov. Sammlung Brogren. Holz.Hohe 40,Breite 29 Cent.
+
+## Cambiaso,Luca,gen.Luchetto da Genova,
+
+- 53 Hercules am Scheidewege. Derselbe zwischen den beiden weiblichen Gestalten vor einem Felsen stehend. In der Hohe Jupiter und eine grosse Anzahl Gotter und Gottinnen. Vorziglich ausgefihrtes Bild von sehoner Emailfarbe. Bezeichnet:d Prov. Sammlung Baron L. de Geer in Finspong.
+
+geb. zu Moneglia 1527; zu Madrid 1585.
+
+Holz.Hohe 72, Breite 52 Cent.
+
+## Campidoglio,Michel Angelo di,
+
+- 54 Fruchtstick.In einer Landschaft liegt an der Erde vor dunkelem Felshintergrunde eine Menge Frichte jeder Art, als:Melonen, Trauben,Aepfel, Mispeln und anderes Obst.
+
+Romischer Meister; um 1760.
+
+Reiche Composition von malerischer Wirkung und vortreflicher Erhaltung.Prov. Sammlung Bystrom No.119 und Konigin Desideria 282.
+
+Leinwand. Hohe 98, Breite 136 Cent.
+
+## Carl XV., Konig von Schweden,
+
+- 55 Felsberg. Obere Partie eines steil abfallenden, nur wenig bewachsenen Felsgebirges.
+
+geb.1826;1872 zu Stockholm.
+
+- Interessantes Bild,welches vom koniglichen Kinstler Hammers Sammlung zugeeignet wurde. Leinwand. Hohe 32,Breite 40 Cent.
+## Casanova,Francesco,
+
+geb.zu London 1730;in der Brihl b.Wien 1805.
+
+56 Viehstick. Weite Haidegegend, in deren Vorgrunde ein Rind bei Schafen; an der Erde rechts der Hirt und links in der Ferne eine Frau bei einem Esel und Schafen.
+
+Gutes breitbehandeltes Bild von trefflieher Stimmung.Prov.Sammlung Prof.Wallgreen.
+
+Leinwand.Hohe 41,Breite S3 Cent.
+
+## Cope, Charles West,
+
+geb. 1811 zu Leeds.
+
+- 57 Auf dem Heimwege. Auf einem Waldwege schreitet ein Alter lustigen Sinnes und schwankenden Schrittes an einem Hause vorbei dem Vorgrunde zu.
+
+Schones farbenprichtiges Bildchen.Bezeichnet:Cope.
+
+## Cornelius, Peter von,
+
+Holz. Hohe 22,Breite 17 Cent.
+
+geb.zu Dusseldorf 1783; zu Rom 1867.
+
+- 58 Der hl. Petrus. Halbfigur des nach oben blickenden Apostelfursten, vor ihm Buch und Sehluissel.
+
+Gutes Bild, grau in grau gemalt.
+
+Leinwand. Hohe 26,Breite 18 Cent.
+
+- 59 Der hl. Josef. Halbfigur,mit dem Stab und zwei Turteltauben. Gegenstick zum Vorigen. Ebenso.
+
+Leinwand. Gleiche Grosse.
+
+- 60 Der hl. Nepomuk. Halbfigur, das Kreuz in der Hand haltend; vor ihm Palme, Todtenkopf und Buch.
+
+Gegenstick zum Vorigen. Ebenso.
+
+Leinwand. Gleiche Grosse.
+
+## Courtois,Jacques,gen.le Bourguignon,
+
+geb.zu St.Hippolyte 1621; zu Rom 1676.
+
+- 61 Reiterkampf. Im Vorgrunde der bis in eine weite Ebene sich erstreckenden Schlacht,ein die Flucht ergreifender Krieger auf einem Schimmel.
+
+Prov. Sammlung Oberintendent Blom No. 89.
+
+Leinwand. Hohe 29,Breite 46 Cent.
+
+## Cranach, Lucas, d. A.,
+
+geb.zu Cronach in Franken 1472;zu Weimar 1553.
+
+- 62 Christus wird dem Volke gezeigt. Der iber und uber von Wunden bedeckte und mit Dornen gekronte Heiland, angethan mit dem Purpurmantel und das Rohr in seiner Rechten haltend,wird von dem neben ihm stehenden Hohenpriester gezeigt.
+
+Ausdrucksvolles,gut erhaltenes Bild. Oben rechts das Zeichen des Kinstlers.
+
+Holz.Hohe 34,Breite 22 Cent.
+
+- 63 Christus in der Vorholle.Der auferstandene Heiland, die Kreuzesfahne in der Hand haltend, erloset die Glaubigen aus der Holle.In der Hohe diephantastischen Gestalten von Teufeln. Gutes Bild. Bezeichnet mit dem Monogramm des Meisters.Prov. Sammlung Brogren.
+
+Holz. Hohe 57,Breite 36 Cent.
+
+- 64 Martin Luther. Brustbild in Dreiviertel-Wendung nach rechts, in schwarzer Kleidung und mit schwarzem Barett.Oben rechts Inschrift:D.Martin Luther.
+
+Vorzuigliches Bild von vornehmer Farbung und guter Erhaltung. Oben.rechts das Zeichen des Meisters. Holz.Hohe 50,Breite 34 Cent.
+- 65 Catharina Bora. Brustbild der Gattin Martin Luthers in schwarzer Jacke,mit weissem Brustlatz und gelbem Mutzchen.Das Gesicht halt sie dem Beschauer zugewendet.
+
+Bezeichnet mit dem Monogramme und 1525. Prov. Sammlung Brogren.
+
+Holz.Hohe 34,Breite 28 Cent.
+
+- 66 Martin Luther. Brustbild im Predigergewande,mit beiden Handen ein Buch haltend.
+- Gut erhaltenes Bild.Bezeichnet und datirt 1533.
+
+Holz. Hohe 201/,Breite 141e Cent.
+
+- 67 Catharina Bora. Des Vorigen Gattin, in schwarzem Kleide und weissem Haubchen. Gegenstick zum Vorigen. Gleiche Ausfuhrung.
+
+Holz. Gleiche Grosse.
+
+## Cranach, Lucas (Schule).
+
+- 68 Agricola,Rudolf. Professor in Heidelberg 1442—1485. Brustbild,nach links,in grunem
+- Gewande und mit rother Kopfbedeckung.
+
+Gut erhaltenes Bild.Prov.Sammlung Grubbe 103.
+
+Holz.Hohe 19, Breite 151e Cent.
+
+- 69 Mannliches Bildniss. Halbfigur eines Reformators in schwarzem Gewande, nach links
+- gewandt und die Hunde vorne zusammenhaltend.
+
+Gut erhaltenes Bild.
+
+- 71
+
+Holz. Hohe 20,Breite 141/e Cent.
+
+## Culmbach, Hans von,
+
+Maler von Nirnberg zu Ende des XV.Jahrh.
+
+- 70 Die hl. Familie. Vor einer Brustung unter einem Baldachin, zur Halfte sichtbar, die hl. Maria, dem vor ihr auf einem Kissen liegenden nackten Christusknaben die Brust reichend. Neben ihnen der hl. Josef, einen Apfel in der Rechten haltend. Landschaft-
+- licher Hintergrund.
+
+Trefflich ausgefuhrtes Bild;recht gut in der Farbe. Prov.Sammlung Brogren. Holz. Hohe 48,Breite 34 Cent.
+
+## Cuyp,Aelbert,
+
+geb. zu Dordrecht 1620; ebendaselbst 1691.
+
+- Vieh auf der Weide. Ein kleines iberbrucktes Wasser durchfiesst eine Landschaft, in der rechts bei weidenden Kuhen eine Frau ihr Kind reinigt.
+
+Gutes Bild. Prov.Sammlung Intendent P.W. Grubbe No.S3.
+
+Leinwand. Hohe 57,Breite S0 Cent.
+
+## Deutsche Schule.
+
+- 72 Der Olymp. Um eine in einer Weinlaube T-formig aufgestellte Tafel gruppiren sich die Gotter und Gottinnen, sich liebkosend, musicirend ete. In der Hohe schwebende Amoretten mit den Gotterattributen.
+
+Farbenprichtiges Bild von reicher Composition und treflicher Erhaltung.
+
+Leinwand. Hohe 132,Breite 180 Cent.
+
+- 73 Der Raub der Sabinerinnen. Der First, umgeben von seinem Gefolge,auf dem Throne stehend,iberschaut die sehr bewegte Scene.
+
+Leinwand. Hohe 100, Breite 150 Cent.
+## Discepoli, Giov. Batt.,gen.Zoppo di Lugano,
+
+Maler zu Mailand; 1660.
+
+- 74 Golgatha. Christus,am Kreuze hangend,an dessen Fusse die hl. Maria Magdalena kniet. In der Ferne Jerusalem.
+
+Gutes effectvolles Bild. Prov.Sammlung der Konigin Desideria.
+
+Holz. Hohe 42,Breite 32 Cent.
+
+## Doort, Abraham van der,
+
+thatig zu Prag I.Halfte des XVIl. Jahrh.
+
+- 75 Der Geizhals. Nacktes Gewolbe,von dessen Decke ein Kronleuchter herniederhingt und auf dessen Dielen einige Geldsicke und eine Truhe. Auf einem Tische Schmucksachen und Silbergerathe; im Hintergrunde der in einen schwarzen Mantel gekleidete Besitzer, der zum Gewolbe emporsteigt.
+
+Gutes Bild. Monogrammirt und datirt 1640.
+
+## Drever, Adrian van,
+
+Maler zu Amsterdam, Mitte XVlIl. Jahrh.
+
+- 76 Winterlandschaft. Auf einem zugefrorenen Flusse, dessen Ufer Hauserreihen einfassen, vergnigt sich eine grosse Menge Mainner und Frauen mit Schlittschuhlaufen. Rechts eine Bude mit Verkauferinnen.
+
+Charakteristisches Bild von lebendiger Composition.Prov.Sammlung Brogren.
+
+## Engel-Rooswyck,
+
+thatig zu Anfang des XVIl. Jahrh.
+
+- 77 Schlachtenbild. Rechts tobt zwischen Baumgruppen, am Saume eines dichten Waldes cine wilde Schlacht, wahrend links der Anfuhrer,umgeben von seinem Gefolge, zu Pferde dem Kampfe zuschaut.
+
+Lebendig componirtes Bild. Bezeichnet:Engel-Rooswyck 1606.
+
+Holz. Hhe 62,Breite 128 Cent.
+
+## Ehrenstrahl, David Kloker yon,
+
+geb.zu Hamburg 1629; 1698 zu Stockholm.
+
+- 78 Andromeda. In Lebensgrosse, entblosst an den Felsen geschmiedet, schaut dieselbe angstvoll auf das Meerungethum, das der nahende Perseus zu erlegen im Begriffe ist.
+
+Vortreffliches Bild von breiter Behandlung und recht gut in der Farbe. Prov. C. W.Brogren. Leinwand. Hohe 175,Breite 137 Cent.
+
+## Fearnley, Thomas,
+
+geb.zu Fredrikshall 1806;1842.
+
+- 79 Flusslandschaft. Das linke Ufer eines von grossen und kleinen Sehiffen belebten, breiten Flusses ist reich mit Buschwerk, Baumen und Hausergruppen besetzt,wihrend am jenseitigen Ufer,vor einem hohen Berge,eine weithin sich erstreckende Stadt gelegen ist. Rechts ein Floss, auf dem zwei Manner mit Hund.
+
+Feintoniges Bild von vortrefflicher, naturwahrer Ausfuhrung. Bezeichnet:T.Fearnley.
+
+Leinwand. Hohe 72,Breite 110 Cent.
+
+Holz. Hohe 72,Breite 112 Cent.
+
+Holz. Hohe 35,Breite 28 Cent.
+## Franck, Ambrosius,
+
+geb.1544;zu Anfang des XVII.Jahrh.
+
+- 80 Calvarienberg. Von einer zahlreichen Menge Volkes belebte Platform, auf der das dritte Kreuz eben aufgerichtet wird. Im Vorgrunde die um das Gewand des Heilandes wirfelnden Knechte.
+
+Farbenprachtiges Bild von feiner Ausfuhrung und bester Erhaltung. Kupfer.Hohe 31,Breite 40 Cent.
+
+## Francken, Frans, d. J.,
+
+getauft zu Antwerpen 1581; daselbst 1642.
+
+- 81 Die Speisung der Funftausend. Christus, vor einem Gebische auf einem Steine sitzend und umgeben von seinen Jungern, segnet die Brode, die ein Knabe ihm zubringt. In
+
+Kupfer.Hohe 37,Breite 70 Cent.
+
+- der Ebene das ruhende Volk.
+
+## Franzosische Schule,
+
+XVII.Jahrh.
+
+- 82 Venus und Amor. Leichtbekleidet, sitzt erstere in einer Felslandschaft und kost mit dem
+- kleinen gefligelten Amor. Trefflich ausgefuhrtes Bild von leuchtender Farbengebung. Prov.Sammlung Konig Carl's XV.
+
+Kupfer.Hohe 22,Breite 17 Cent.
+
+- 83 Weibliches Bildniss. Brustbild einer jungen hubschen Dame in blauem Kleide und weissem spitzenbesetzten Mieder; das ippige schwarze Haar ist geschmuckt mit grossem Diamant und mit Perlschniren.
+
+Leinwand. Hohe 51,Breite 38 Cent.
+
+Sehr gutes Bild von schoner Farbung und gut erhalten.
+
+- 84 Venus und Adonis. Vor einem Gebische sitzt das sich liebkosende Paar,umgeben von
+- Amoretten,von welchen die eine den, den Wagen fuhrenden Schwan am Zugel halt. Sehr schones Bild von bester Erhaltung.
+
+Leinwand.Hohe 92,Breite 130 Cent.
+
+- 85 Allegorie. Ein alter Greis, dessen Haupt mit Rosen bekranzt ist, schreibt, hingerissen
+
+Holz.Hohe 9, Breite 12 Cent.
+
+- von der Schonheit einer neben ihm sitzenden jungen Frau, in ein vor ihm liegendes Buch. Gut gearbeitetes Bild von trefflicher Farbung.
+- 86 Im Bade. Im Vorgrunde einer Waldlandschaft liegt ein Madchen entblosst auf einem
+
+Leinwand.Hohe 87,Breite 140 Cent.
+
+- rothen Tuche und blickt zu zwei Gefahrtinnen hin, die abseits von ihr in einem Wasser sich befinden.
+
+## Neuerer franzosischer Meister.
+
+- 87/88 St.Maria und St. Josef. Brustbilder. Der Letztere mit seinem Attribut, dem grinenden Stab.
+
+Oval.Kupfer.Hohe 20,Breite 18 Cent.2 Stiek.
+
+## Ganz, Johann Philipp,
+
+geb.1746 in Eisenach.
+
+- 89 Cardinal Marigni. Bruder der Mme Pompadour. Kniefigur, in einem Ledersessel sitzend und die Linke auf das aufgeschlagene Evangelienbuch haltend.
+
+Leinwand.Hohe 35,Breite 31 Cent.
+
+Bezeichnet:P.Ganz.
+## Goijen, Jan van,
+
+geb. zu Leiden 1596; im Haag 1656.
+
+- 06 Landschaft. Ein breiter Higel, auf dem vier Bauern im Gesprache, verdeckt zum Theil einige Bauernhauser, die von Baumen umgeben sind. Links weite Flachlandschaft und in der Ferne die Thurme einer Stadt.
+
+Vorzigliches,in prachtvollem Goldton ausgefihrtes Bild von superber Erhaltung. Bezeichnet v.G.1639.Prov.Sammlung Brogren.
+
+Holz. Hohe 33,Breite 54 Cent.
+
+## Gossart, Jan, gen. Mabuse,
+
+geb.um 1470 zu Maubeuge (Mabuse);zu Antwerpen 1541.
+
+- 91 Maria mit dem Kinde. Unter einem Thronsessel die Halbfigur der Mutter Gottes sitzend und den kleinen Jesus liebkosend an sich drickend. Vor ihnen, auf dem Tische, Aepfel und einige Kirschen; durch das geoffnete Fenster Blick auf eine Hiusergruppe.
+
+Gutes Bild von freundlichem Ausdruck.
+
+## Govaerts,Jan Baptist,
+
+Maler von Antwerpen;1746.
+
+- 92 Die Gemuse-Verkauferin. Hinter einem mit Gemuse aller Art belegten Tische steht eine jugendliche Frau, einer zweiten neben ihr stehenden ein Geldstick iberreichend.
+
+Vortreffliches Bild von superber Behandlung und gutem Colorit. Bezeichnet: J.B. Govaerts 1743.
+
+Prov. Sammlung Lantingshausen No.18, spater der Konigin Desideria zugehorig.
+
+Holz. Hohe 33,Breite 29 Cent.
+
+- 93 Lot und seine Tochter. Bei einer Bogenruine sitzt Lot, der von seiner Tochter zum Trinken genothigt wird,wahrend seine zweite Tochter, hinter ihr stehend, Beihilfe leistet. In der Ferne nahende Engel und das brennende Sodoma.
+
+Sehr gutes Bild von bester Erhaltung. Bezeichnet:H.Goovaerts F.1710.Prov. Graf Lowenhjelm No.72.
+
+Holz.Hohe 40,Breite 59 Cent.
+
+## Graf, Johann Andreas,
+
+geb.zu Nirnberg 1637; daselbst 1701.
+
+- 94 Stadtansicht. Umgeben von hohen Gebuulichkeiten ein grosser hollundischer Marktplatz, auf dem eine Menge Volkes seiner Beschaftigung nachgeht.
+
+Gutes Bild von feissiger Ausfuihrung und trefflicher,wohlthuender Furbung. Prov. General Lowenhjelm 30.
+
+Leinwand. Hohe 43,Breite 58 Cent.
+
+## Hackert, Jacob Philipp,
+
+geb.zu Prenzlau 1737; zu Florenz 1807.
+
+- 95 Flusslandschaft. Breiter, von Reitern und Bettlerfamilie belebter Uferweg fuhrt an einer Baumgruppe vorbei zum Vorgrunde hin. Das jenseitige Ufer mit Bergen und Waldungen.
+
+Schones, feintoniges Bild von vortreflicher Wirkung.
+
+Leinwand. Hohe 82,Breite 126 Cent.
+
+## Hals, Frans d. J. (Art).
+
+- 96 Die beiden Sanger. Brustbild zweier Knaben, von cinem Blatte den Text zu ihrem Liede ablesend.
+
+Holz.Hohe 191/2,Breite 15 Cent.
+
+Holz. Hohe 31,Breite 24 Cent.
+## Heem, Jan Davidsz. de,
+
+geb.zu Utrecht um 1600;zu Antwerpen 1683 od.84.
+
+- Stillleben. Auf theilweise mit rother Decke belegtem Tische stehen halbgefullter Pokal, Bier-und Weinglas; dabei liegt in einer Schale und einem Korbe,von Schmetterlingen etc.
+- 97 belebt,eine Anzahl Trauben,Aprikosen und Birnen.
+
+Farbenprichtiges Bild von malerischer Wirkung. Prov.Konigin Desideria und Konig Oskar I. Leinwand. Hohe 80,Breite 88 Cent.
+
+- 98 Stillleben. Auf einem weiss gedeckten Tische steht bei einem umgestuirzten Silberbecher, einem halbgefullten Pokal und anderen Gefassen ein Teller mit Frichten und ein des-
+- gleichen mit angeschnittenem Schinken.
+
+Vorziglich ausgefuhrtes Bild von vortrefflicher Farbung und Erhaltung.Prov.Sammlung Lindeereutz. Holz. Hohe 55,Breite 98 Cent.
+
+## Heinz, Jos.,
+
+geb. zu Basel 1565; zu Prag 1609.
+
+- 99 Die Beweinung Christi. Der vom Kreuze abgenommene Leichnam Christi im Schoosse
+- seiner Mutter ruhend;um ihn vier trauernde Engelfiguren.
+
+Farbenprachtiges Bild von bester Erhaltung.Prov. Sammlung Graf Fersen-Gylldenstolpe. Kupfer.Hohe 46,Breite 38 Cent.
+
+## Hillestrom, Pehr, Prof.,
+
+Sehwedischer Meister,geb.1733; 1816.
+
+- 100 Geflugelstuck. In einem Stalle ein gravitatisch cinherschreitender Hahn bei einer Henne mit Kuchlein und einem Huhn.
+
+Gutes Bild von lebenswahrem Ausdruck.Bezeichnet:Hillestrom.Prov. Sammlung Ahlberg 69. Leinwand. Hohe 69,Breite 86 Cent.
+
+- 101 Die Theevisite. Bei einem mit Tassen etc. gedeckten Tische sitzen, beschienen vom Lichte einer Kerze, zwei Damen; eine dritte,am Boden knieend,ist im Begriffe den Wasserkessel vom Feuer zu nehmen.
+
+Hubsches Bild von guter Composition.
+
+Holz. Hohe 28,Breite 23 Cent.
+
+- 102 Gustav Il. von Schweden vor der Revolution. Derselbe ist dargestellt, wie er am 19.August 1792 die Leibgardenkaserne besucht,um zu erfahren,welehe Officiere ihm treu geblieben sind.
+
+Interessantes Bild.
+
+Leinwand. Hohe 43,Breite 50 Cent.
+
+- 103 Aehnliche Darstellung aus dem Leben Gustavs III. Gegenstick zum Vorigen.
+
+Leinwand. Gleiche Grosse.
+
+- 104 Trachtenbild. Junges Madchen aus der Provinz Skone, in seiner Sonntagstracht iber eine Bricke schreitend.
+
+Leinwand. Hohe 33,Breite 24 Cent.
+
+- 105 Trachtenbild. Alte Frau und junges Madchen aus Wingoken in einer Stube in lebhafter Unterhaltung.
+
+Leinwand. Hohe 30,Breite 23 Cent.
+
+- 106 Trachtenbild. Zwei Madchen aus derselben Provinz im Sonntagsstaat. Leinwand. Hohe 33,Breite 24 Cent.
+## Horberg, Pehr,
+
+Sehwedischer Meister, geb.1746;1816.
+
+- 107 Christus und die Pharisaer. Halbfigur Christi, umgeben von ciner Anzahl Manner. Er ist dargestellt, wie er die Antwort ertheilt:Gebet Gott, was Gottes ist, und dem Menschen, was des Menschen ist."
+
+Gut componirtes Bild von ansprechender Farbung. Bezeichnet:P.H.f.1794. Leinwand. Hohe 57,Breite S6 Cent.
+
+## Hoet, Gerard,
+
+geb. zu Bommel 1648; im Haag 1732.
+
+- 108 Triumphzug der Amphitrite. Im Muschelwagen sitzend, lenkt sie das Vorgespann: zwei Delphine, und ist umgeben von Tritonen und Najaden.
+
+Gutes Bild.Bezeichnet G.Hoet. Prov. Sammlung General C.G.Fletwood No.3.
+
+Holz.Hohe 29,Breite 22 Cent.
+
+## Holbein, Hans (Schule).
+
+- 109 Catharina Bora. Gattin Luther's. Lebensgrosses Brustbild in schwarzer Kleidung und weissem,weit abstehendem Kragen. Den Hals sehmickt eine mehrreihige goldene Kette und den Kopf ein zierliches Hiubchen. Links oben die Inschrift: Catharina uxor Doct.
+
+Mart. Luter aetatis suae 30 ano 1530.
+
+Sehr interessantes Bild von guter Erhaltung. Prov. Galimberti und Karl XV.
+
+- 110
+
+Holz.Hohe 53,Breite 45 Cent.
+
+- Mannliches Bildniss. Brustbild eines venetianischen Prinzen in Dreiviertel-Wendung nach links stehend und bekleidet mit einem Rocke von Goldbrokat mit pelzverbrimtem Umlegekragen; das Haar ist kurz geschoren, und beide Hande, deren sammtliche Finger mit Ringen geschmickt sind,halten eine Schriftrolle.
+
+Interessantes,glatt behandeltes Bild von bester Erhaltung. Prov. Sammlung Brogren.
+
+## Holbein, Hans (Copie).
+
+Alte Copie auf grauem Grunde. Prov. Sammlung Karl's XIV.
+
+## Hollandischer Meister,
+
+XVII. Jahrh.
+
+- 112 Superporte. Grosse Landschaft mit Liebespaaren. Rechts musicirende und singende Gruppe bei Amor.
+
+Holz. Hohe 47,Breite 170 Cent.
+
+Interessantes, pastos ausgefuhrtes Bild.
+
+- 113 Das Tischgebet. Eine Gruppe von sechs Personen sitzt um einen gedeckten Tisch und betet.
+
+Leinwand. Hohe 29,Breite 36 Cent.
+
+## Honthorst, Gerard van,
+
+geb.1590 zu Utrecht;  daselbst 1656.
+
+- 114 Weibliches Bildniss. Brustbild einer jungen, hubschen decolletirten Dame in blauem Gewande und mit Perlhalsband und langem Lockenhaar.
+
+Sehr gutes Bild von bester Erhaltung. Bezeichnet: G.Honthorst 1621;Prov. Sammlung Graf Lowenhjelm.
+
+Holz.Oval.Hohe 70,Breite 58 Cent.
+
+Holz.Hohe 48,Breite 35 Cent.
+
+- 111 Kaiser Karl V., Brustbild in schwarzem Gewande und schwarzer Mutze. Die Brust schmickt der Orden des goldenen Vliesses.
+
+Holz.Hohe 40,Breite 32 Cent.
+- 121
+
+## Hooch, Pieter de,
+
+geb.wahrscheinlich 1628 zu Rotterdam; zu Haarlem 1681.
+
+- 115 Portratbild eines Kindes. Dasselbe, ein kleines Madchen, bis zum Knie dargestellt,
+- steht vor einem halb zurickgeschlagenen Vorhange und halt einen Vogel auf der Hand.
+
+Gutes Bild von ansprechendem Ausdruck.
+
+Leinwand.Hohe 54,Breite 40 Cent.
+
+- 116 Interieur. Mit Steinfiessen belegtes Zimmer, in dessen Mitte vor einem Tische eine Frau mit Kind bei einem Hundchen; an der geofneten Thur ein Mann im Gesprache
+- mit einer Frau.
+
+Superbes Bild,trefflich in der Ausfihrung und gut in der Farbe.
+
+## Horn, Adam,
+
+thatig Anfang des XVIll. Jahrh.
+
+- 117 Flusslandschaft. Das jenseitige Ufer eines breiten Flusses mit hohem,von Citadelle bekrontem steilen Gebirge,an dessen Fuss eine Hutte mit einer Anzahl Personen. Im Vorgrunde vierbespannter Lastwagen, Reiter, Karren und eine grosse Anzahl Figuren. Lebendig componirtes Bild von guter Farbung.
+
+Leinwand.Hohe 38,Breite 50 Cent.
+
+## Huysum, Jan van,
+
+geb.1682 zu Amsterdam; daselbst 1749.
+
+- 118 Fruchtstuck. Auf einem mit geblumter Decke belegten Tische liegen,in malerischer
+
+Leinwand. Hohe 35,Breite 60 Cent.
+
+- Anordnung gruppirt, Trauben,Pfrsiche, Aprikosen,Pomeranzen ete. um eine Henkelkanne. Schones, gut erhaltenes Bild. Prov. Sammlung Graf Axel v.Fersen und Gylldenstolpe No. 27.
+
+## Janssens,Abraham,
+
+geb. um 1575 zu Antwerpen; daselbst 1632.
+
+- 119 Flussnymphe. Lebensgrosse Kniefigur einer den Oberkorper entblosst haltenden Nymphe, die den rechten Arm auf eine Quelle legt. Bei ihr zwei Genossinnen,die Obst und
+- Frichte bringen.
+
+Effectvolles Bild von guter Beleuchtung. Prov.Akademie-Direetor Sandberg.
+
+Leinwand. Hohe 105,Breite 81 Cent.
+
+## Ihle,Johann Eberhard,
+
+geb.zu Esslingen 1727;thatig zu Nirnberg.
+
+- Selbstbildniss. Im Brustbild en face dargestellt,ist der Meister bekleidet mit grinem Pelzmantel, gelber geoffneter Weste und schwarzem Hute. Das einen gutmithigen Zug
+- 120 tragende Gesicht ist voll dem Beschauer zugewandt.
+
+Sehr schones Bild von natirlichem Ausdruek.
+
+Leinwand.Hohe 70,Breite 53 Cent.
+
+## I.K.monogrammirt.
+
+- Weibliches Bildniss. Halbfigur einer gesetzten Dame in schwarzem Kleide, weissem hangt eine doppelreihige schwere Goldkette,und die ringgeschmiickten Hande halt sie vorne ineinander gelegt.
+
+Gutes,interessantes Bild von vortrefflichem Ausdruck.Bezeichnet:I.K.Anno 1604.
+
+Leinwand. Hohe 90,Breite 70 Cent.
+
+Holz. Hohe 38,Breite 30 Cent.
+## Italienische Schule,
+
+XVII.Jahrh.
+
+- 122 Anbetung der hl. drei Konige. Kniefigur der Mutter Gottes, den Christusknaben auf dem Schoosse haltend, vor dem der greise Caspar kniet. Dabei die anderen Konige und ihr Gefolge.
+
+Leinwand. Hohe 90,Breite 170 Cent.
+
+Kraftig behandeltes Bild von guter Erhaltung.
+
+- 123 Der hl. Karl Borromaus. Abbildung des mit dem bischoflichen Ornate bekleideten Skelettes des hl. Bischofs,der auf rothen Kissen liegt.
+
+Trefflich ausgefihrtes Bild von bester Erhaltung.
+
+Holz.Hohe 63,Breite 215 Cent.
+
+- 124 Petrarca. Brustbild, en face, in weissem Gewande mit schwarzem Kragen, rother, nur das Gesicht freilassender Kopfumhullung und Lorbeerkranz. Oben die Inschrift: M.Francesco Petrarca.
+
+Trefflich ausgefihrtes Bild. Prov. Sammlung Brogren.
+
+Holz.Hohe 58,Breite 43 Cent.
+
+- 125 Der ungestume Liebhaber. Lebensgrosse Figur eines Jinglings, der auf dem Bette sitzt und ein sich heftig straubendes, junges Madchen an sich heran zu ziehen versucht. Breit behandeltes, gut erhaltenes Bild.
+
+Leinwand.Hohe 95,Breite 123 Cent.
+
+## Kierings, Alexander,
+
+geb.1590 zu Haarlem; 1646.
+
+- 126 Landschaft. Grosse Wasserstrasse, begrenzt von einer Menge Hauser. Links in einer Baumgruppe ein Bauernhaus und bei ihm am Ufer einige Nachen.
+
+Sehr schones Bild von emailartiger Behandlung und sehr guter Erhaltung. Prov. Sammlung Konigin Desideria.
+
+## Kolnische Schule,
+
+XVIL.Jahrh.
+
+- 127 Die Anbetung der hl. drei Konige. Im Vorgrunde einer architektonisch reich ausgestatteten Landschaft sitzt Maria, den kleinen Christusknaben auf dem Schoosse haltend. Hinter ihnen der hl. Josef und links die Konige mit Gefolge.
+
+Prov. Sammlung Brogren.
+
+Oben gerundet.Holz. Hohe 86,Breite 63 Cent.
+
+## Korn, Johan Philip,
+
+Sehwedischer Maler,geb.1728;1796.
+
+- 128 Flusslandschaft. Bis zum Vorgrunde hin zieht sich der von Nachen belebte Fluss,auf dessen beiderseitigen Ufern grosse Bauernhauser und Baumgruppen. Als Staffage Fischer, Schiffer und zwei Wascherinnen.
+
+Gutes Bild von freundlicher,ansprechender Wirkung.
+
+Holz.Hohe 39,Breite 50 Cent.
+
+- 129 Landschaft. Am diesseitigen Ufer eines breiten Flusses ist bei einer Holzhutte eine Anzahl Fischer beschaftigt, ein grosses Netz einzuziehen. In der Ferne hohes Gebirge, vor welchem einige Hauser.
+
+Feintoniges Bild,
+
+Kupfer. Hohe 10,Breite 151/ Cent.
+
+Holz. Hohe 29,Breite 43 Cent.
+## L monogrammirt,
+
+XVI.:Jahrh.
+
+- 130 Mannliches Bildniss. Brustbild eines jungen Mannes in schwarzem Gewande mit Ring-
+- kragen und kleinem Schnurrbart. Rechts oben ein Medaillon mit Helm.
+
+Sehr gutes,trefflich erhaltenes Bild. Bezeichnet:L 1584.Prov. Sammlung Brogren.
+
+Holz.Hohe 48,Breite 37 Cent.
+
+## Lagrenee,Louis-Jean-Francois,
+
+geb.zu Paris 1724; daselbst 1805.
+
+- 131 Orion und Aurora.Letztere,auf dem Wolkenwagen,halt den widerstrebenden Orion an sich gedrickt und werden beide von zwei feurigen Pferden entfuihrt.
+
+Vortreffliches, gut erhaltenes Bild von prachtiger Farbengebung.Bezeichnet: De Lagrenee.1757.
+
+Leinwand.Hohe 80,Breite 120 Cent.
+
+Prov.Sammlung Intendent Grubbe No.129.
+
+- 132 Boreas raubt die Oreithyia. Boreas, fast ganz entblosst, halt mit beiden Handen die ihn abwehrende Oreithyia umschlungen; eine Gefahrtin,nach deren Mantel haschend,
+- sucht ihr zur Hulfe zu kommen.
+
+Gegenstick zu Vorigem.Bezeichnet: De Lagrenee 1757. Prov. Sammlung P.U.Grubbe No.129. Leinwand.Gleiche Grosse.
+
+## Lallemand,Jean Bapt.,
+
+geb.zu Paris 1730.
+
+- 133 Schlachtenbild. In einer weiten Ebene ist zwischen Reitern ein heftiger Kampf entbrannt, der im Vorgrunde zu cinem sturmischen Handgemenge sich entfaltet.
+
+Schones Bild von kraftiger Pinselfihrung und lebendiger Composition. Leinwand. Hohe 37,Breite 73 Cent.
+
+## Largilliere,Nicolaus de,
+
+geb.zu Beauvais 1656;zuParis 1746.
+
+- 134 Konig Ludwig XIv. In braunem Wamms und Brustharnisch, mit Allongepericke und breitem Ordensbande, ist derselbe en profl dargestellt und wendet das Gesicht dem Beschauer zu.
+
+Trefflich ausgefihrtes Bild von guter Farbengebung. Prov.Sammlung Graf Oxenstjerna. Leinwand. Hohe 85,Breite 68 Cent.
+
+## Larson,Simeon Marcus,
+
+- 135 Marine. Von der Mitternachtssonne grell beschienen, das bewegte Meer,auf dem cin
+
+Schwedischer Meister,geb.1825;1864.
+
+- Dampfer, von einem Wellenberge getragen, zum Vorgrunde hin fihrt.
+
+Leinwand.Hohe 40,Breite 73 Cent.
+
+Eigenartiges Bild von vorziglicher Furbung und treflicher Stimmung. Bezeichnet: M.Larson 1858.
+
+## Laureus,Alexander,
+
+geb. 1783 zu Abo in Finland, 1823.
+
+- 136 Das Liebespaar. Auf einem Sopha sitzt,vom Kerzenlicht beleuchtet, ein junges Paar.
+- Der Mann, das halbgefillte Glas erhebend,hat seine Geliebte auf den Knieen sitzen.
+
+General C.G.Fletwood No.29.
+
+Leinwand.Hohe 39,Breite 30 Cent.
+## Lemke, Philip Johan,
+
+geb.zu Nirnberg 1631; 1713 zu Stockholm.
+
+- 137 Reiterbild. Zwei Cavaliere, auf machtigen Pferden in die Ferne ziehend.
+
+Gutes,breit behandeltes Bild.
+
+Leinwand.Hohe 30,Breite 22 Cent.
+
+## Maratti, Carlo,
+
+geb. zu Camerino 1625;↑ zu Rom 1713.
+
+- 138 Madonna. Lebensgrosse Halbfigur der Madonna, welche, die Hinde uber die Brust legend, seitwarts blickt und aus einem Buche betet.
+
+Leinwand.Hohe 70,Breite 52 Cent.
+
+- 139 Der hl. Stephanus. Derselbe, als Diacon gekleidet, steht in Landschaft mit Palme und Buch. Im Hintergrunde seine Steinigung.
+
+Kupfer. Hohe 21/,Breite 16 Cent.
+
+Prov. Sammlung der Konigin Desideria No.34.
+
+- 140 Der hl. Nicolaus. In Halbfgur als Bischof dargestellt, theilt er Brod an die Armen aus. Gegenstick zum Vorigen.Kupfer.Gleiche Grosse.
+
+## Martin, Elias, Prof.,
+
+geb.in Schweden 1739;1818.
+
+- 141 Der Blitzstrahl. In einer dichtbewaldeten Gegend sitzt auf einem Stein ein Jager, der
+- zu einem grell zuckenden Blitze aufschaut.
+
+Dunkel gehaltenes Bild. Bezeichnet:E.Martin.
+
+Holz.Hohe 43,Breite 52 Cent.
+
+## Masreliez,Louis Adrien,
+
+geb.1787 zu Paris; zu Stoekholm 1810.
+
+- 142 Die Einschiffung der Helena. Auf einer zum Meere fuhrenden Treppe die zum Schiffe niedersteigende, von ihren Frauen umgebene Helena; vor ihr Paris und Amor.
+
+Interessantes Bild von guter Farbung. Aus dem Nachlasse des Kiinstlers erworben.
+
+## Massys, Jan,
+
+Holz.Hohe 45,Breite 36 Cent.
+
+geb. zu Antwerpen 1509;+ daselbst 1575.
+
+- 143 Susanna und die beiden Alten. Im Vorgrunde die drei Personen bei einem Laufbrunnen und im Hintergrunde Scenen aus der Geschichte Susanna's. Rechts grosser Garten. Farbenprachtiges Bild von vortrefflicher Ausarbeitung und tadelloser Erhaltung.Prov.Sammlung
+
+Holz. Hohe 120,Breite 148 Cent.
+
+- Aspelin.
+
+## Melby, Wilhelm,
+
+moderner Meister.
+
+- 144 Marine. Leichtbewegte See, die von zahlreichen Schiffen aller Art belebt ist;in der
+- Ferne die bebaute Kuste -Kronoborg's Schloss am Orosund und im Vorgrunde ein lavirendes Fischerboot.
+
+Vortreffliches Bild von schonem, ansprechenden Farbtone und feiner Ausfihrung. Prov. Sammlung Markus Larsson. Bezeichnet:Wilhelm Melby.
+
+Holz.Hohe 26,Breite 36 Cent.
+## Merian,Matthius,
+
+geb.1621 zu Basel; 1687 zu Frankfurt.
+
+- 145 Bildniss der Maria Sibylla Merian. Brustbild, im 32. Lebensjahre dargestellt, in Dreiviertel-Wendung nach links, in schwarzem Kleide und weissem Umlegekragen; das langherabfallende Haar schmickt ein kleines Haubchen. Sehones, interessantes Bild,von gutem Ausdruck. Prov. Sammlung Brogren.
+
+Leinwand. Hohe 58,Breite 43 Cent.
+
+## Michauld,Theobald,
+
+geb. zu Tournai 1676;↑ zu Antwerpen 1755.
+
+Flott gemaltes Bild von gutem Ausdruck. Prov. Sammlung Graf v.Fersen-Gylldenstolpe.
+
+- 146 Winterlandschaft. Bis dicht an die hohen Gebaude einer Stadt herantretender gefrorener bei der auf dem Schneeboden einige Manner und Frauen.
+
+Holz.Hohe 34,Breite 55 Cent.
+
+## Mieris,Frans van, d. A.,
+
+geb.zu Leiden 1635; daselbst 1681.
+
+- 147 Mannliches Bildniss. Portraitfigur eines Feldherrn,in einer Landschaft vor einem Gebische stehend. Er ist bekleidet mit blauen Beinkleidern und Brustharnisch,iber den die Allonge-Perricke herniederhangt, und halt in der Rechten eine Lanze.
+
+Kupfer. Hohe 42,Breite 32 Cent.
+
+Vortrefflich ausgefihrtes Bild. Prov. Sammlung Brogren.
+
+## Mignard,Pierre, gen.le Romain,
+
+geb.zu Troyes 1612; zu Paris 1695.
+
+- 148 Portrait der Marquise de Maintenon und des Herzogs du Maine. Ganze Figur der Marquise,in Landschaft als die Madonna dargestellt,die mit der Rechten das entblosst neben ihr stehende Kind,das—als Christusknabe— eine Weltkugel in der Linken halt, umfasst.
+
+Hervorragende Qualitat, von vornehmem Colorit und eleganter Malweise. Prov. Sammlung der Konigin Desideria.
+
+Leinwand.Hohe 115,Breite S8 Cent.
+
+## Mol, Pieter van,
+
+getauft zu Antwerpen 1599; zu Paris 1650.
+
+- gelber Kleidung mit goldenem Doppeladler und Behangen reich geziert; den Hals umschliesst eine weisse Krause und auf dem Kopfe tragt sie ein kleines Federbarett.
+
+Holz.Hohe 63,Breite 49 Cent.
+
+Sehr gutes Bild von vornehmer Auffassung,vortrefflicher Durchfihrung und guter Erhaltung. In einem Oval. Prov. Sammlung De Ron No. 100 und Sammlung Grubbe No.21.
+
+- 1501 Philipp, Herzog von Savoyen. In reichgesticktem Goldbrokat-Gewande und rothem Ueberkleide ist derselbe im Brustbilde dargestellt, das mit kleinem schwarzen Barett
+
+Gegenstick zum Vorigen. Gleiche Ausfihrung. Prov.ebenso.
+
+Holz. Gleiche Grosse.
+
+- bedeckte Haupt nach rechts wendend.
+- 151 Isabella von Portugal. Brustbild in gelbgeblimtem Pelzmantel und mit eigenartiger Mitze und Schleier.
+
+Gegenstick zum Vorigen. Gleiche Ausfihrung. Prov.ebenso.
+
+## Molenaer,Claas,
+
+thatigin Haarlem um 1650.
+
+- 152 Winterlandschaft. Einige schneebedeckte Bauernhauser begrenzen ein kleines gefrorenes
+- Wasser, auf dem eine Anzahl Bauern mit ihren Schlitten beschaftigt ist. Rechts auf der Anhohe eine Windmihle.
+
+In warmem, braunem Tone delieat ausgefihrtes Bild. Prov. Sammlung Grubbe 67. Leinwand. Hohe 48,Breite 38 Cent.
+
+## Molenaer, Jan Miense,
+
+geb.zu Haarlem, begraben daselbst 1668.
+
+- 153 Die Wahrsagerin. In einer Bauernstube sitzt, umgeben von einer Anzahl Hausgenossen,
+- eine alte Bauerin, die sich von einer Zigeunerin, die ihre Kinder bei sich hat, die Zukunft vorhersagen lasst.
+
+Gutes,feintoniges Bild von trefflicher Erhaltung. Prov. Sammlung der Konigin Desideria 64. Holz.Hohe 32,Breite 27 Cent.
+
+## Momper,Jodocus de,
+
+geb.zu Antwerpen 1564, daselbst 1634 oder 35.
+
+- 154 Gebirgslandschaft. In einem von hohen Bergen begrenzten Thale ein breites Wasser mit einigen Muhlen. Rechts als Staffage Christus mit den Jungern auf dem Wege nach
+- Emaus und links bei einer Bricke zwei Monche.
+
+Recht gutes Bild von wohlthuender,klarer Farbung und sehr guter Erhaltung. Prov. Sammlung Grubbe.
+
+Holz. Hohe 43,Breite 79 Cent.
+
+## Murillo,Bartholome Esteban,
+
+getauft zu Sevilla 1618; daselbst 1682.
+
+- 155 Knabe und Madchen. Einem Bettlerjungen, der unterm Arm einen Baumast hilt, friert es gewaltig, wahrend ein hockendes Madchen,mit schadenfrohem Gesicht seinen Genossen anblickend, sein Kleid ein wenig luftet,unter dem ein Topf mit gluhenden Kohlen zum Vorschein kommt.
+
+Sehr gutes Bild von vorziglicher Durchfuihrung. Prov. Sammlung Brogren. Leinwand.Hohe 97,Breite 67 Cent.
+
+## Natoire, Charles-Josef,
+
+geb.zu Nimes 1700;zu Castel Gandolfo 1777
+
+- 156 Neptun und Amphitrite. Beide sitzen auf einem vom Meer umspuilten Felsen. Im Vor-
+- grunde ein Triton,eine mit Perlen gefulte Muschel darbietend.
+
+Prachtiges Bild von schoner Composition und weicher, duftiger Behandlung. Prov. Gouverneur Lantingshausen zu Stockholm.
+
+Leinwand. Hohe 124,Breite 111 Cent.
+
+- 157 Jupiter und Callisto. In Wolken schwebend, sind dieselben umgeben von Amoretten, deren eine den Adler Jupiters umfasst.
+
+Gegenstiek zum Vorigen. Gleiche Ausfihrung und gleiche Provenienz.
+
+Leinwand. Gleiehe Grosse.
+
+Holz. Gleiche Grosse.
+- 164
+
+## Neefs,Pieter,
+
+geb. zu Antwerpen 1601; daselbst nach 1675.
+
+- 158 Kirchen-Inneres. Mittelschiff einer grossen gothischen Kirche mit vielen Altaren und Orgelbuhne. Vorn eine Graboffnung und links durch die geoffnete Thure Blick auf eine Strasse.Figurenstaffage.
+
+Sehr schones Bild von vortrefflicher Perspeetive. Bezeichnet:Pieter Neefs 1648. Prov. Sammlung
+
+J.A.von Gerdten No.77.
+
+Holz. Hohe 34,Breite 43 Cent.
+
+## Netscher, Caspar (Art).
+
+- 159 Weibliches Bildniss. Kniefigur einer jungen Dame in weissem Atlaskleide und blauem Tuche. Dieselbe steht in Landschaft unter einem rothen Vorhange.
+
+Prov. Sammlung General Lowenhjelm 126.
+
+## Nolpe,Pieter,
+
+geb.im Haag 1601,zu Amsterdam nach 1670.
+
+- 160 Landschaft. Baumreiche Flachlandschaft,in der rechts ein Bauernhaus,vor dem ein
+- kleines, von zwei Schwinen belebtes Wasser. Als Staffage drei Bauern. Flott gearbeitetes Bild.Prov.Sammlung Brogren.
+
+Holz.Oval.Hohe 201/,Breite 27 Cent.
+
+## Oelgast, Johannes,
+
+Maler zu Muinehen zu Anfang des XVI. Jahrh.
+
+- 161 Die streitenden Magde. Ansicht zweier Stuben: in der cinen ist eine Gesellschaft von
+- Frauen und Mannern um einen gedeckten Tisch gruppirt, wahrend in der zweiten, zum Ergotzen eines zuschauenden Paares, zwei Magde im Streite sind, die ein dabei befindlicher Mann mit Wasser begiesst.
+
+Farbenprachtiges, trefflich componirtes Bild von vorziglicher Erhaltung. Bezeichnet: J. O.
+
+Holz.Hohe 39,Breite 60 Cent.
+
+## Ostade,Isack van,
+
+getauft zu Haarlem 1621;begraben daselbst 1649.
+
+- 162 Bauernstick. Vor der Schenke einer Dorfstrasse gruppirt sich eine Anzahl Personen, in deren Mitte ein singender und tanzender Knabe. In hibschem Goldtone treflich ausgefihrtes Bild. Prov.Sammlung der Konigin Desideria No.31
+
+Holz. Hohe 32,Breite 45 Cent.
+
+## Panini, Giovanni Paolo,
+
+geb.zu Piacenza 1695; in Rom 1768.
+
+- 163 Architekturbild. Machtige Reste hoher romischer Saulenbauten,bei denen rechts als Staffage Petrus, einen Lahmen heilend. Im Hintergrunde eine auf einem Esel reitende
+- Frau und Fihrer.
+
+Feinfarbiges Bild von naturwahrer Ausfihrung.
+
+Leinwand.Hohe 73,Breite 96 Cent.
+
+## Pierson, Christoph,
+
+geb.im Haag 1631;in Goreum 1714.
+
+- Stillleben. Auf einem mit grinlicher Decke belegten Tische,auf den die Serviette nachlissig hingeworfen ist, steht ein hoher, goldener Buckelpokal und ein halbgefuilltes Glas; dabei liegen umgestirzter Becher, auf einem Teller der Deckel des Pokals, Brodreste etc. Vorzigliches Bild von prichtiger Ausfihrung und tadelloser Erhaltung. Prov. Sammlung General Lowenhjelm. Holz. Hohe 55,Breite 70 Cent.
+
+Holz.Hohe 29,Breite 23 Cent.
+## Plagemann,Arnold Abraham,
+
+- 165 Marine. Die von der Weltumseglung 1853 zurickgekehrte schwedische Fregatte Jo-
+
+geb. in Westindien 1826;1862.
+
+- sephine auf hoher See,die tiefblaue Fluth durchschneidend.
+
+Leinwand.Hohe 95,Breite 70.
+
+Prachtiges Bild von vortrefflicher natirlicher Ausfihrung und hochst ansprechender Furbung. Bezeichnet:Plagemann 53.
+
+- 166 Marine. Auf leichtbewegter See einige grossere Schiffe,im Vorgrunde ein lavirendes Segelboot und in der Ferne die hohen Bauten einer Stadt mit Leuchtthurm.
+
+Leinwand. Hohe 13,Breite 20 Cent.
+
+- Hubsches Bild. Bezeichnet:Plagemann 55.
+
+## Pocksperger, Melchior,
+
+thatig im XVI. Jahrh.
+
+- 167 Selbstportrait. Profilhuftbild des Meisters in jingeren Jahren mit dem Degen umguirtet, ein halbgefilltes Glas in der Rechten haltend und das Gesicht dem Beschauer zuwendend.
+- Interessantes Bild.Rickseitlieh bezeichnet.
+
+Holz.Hohe 20,Breite 16 Cent.
+
+## Poelenburg, Cornelis van,
+
+geb.zu Utrecht um 1586; daselbst 1667.
+
+- 168 Der Triumphzug der Amphitrite. Neptun und seine Gemahlin,im Muschelwagen durch das Meer fahrend, ist umgeben von zahlreichen Najaden, Tritonen, Amoretten etc. Vortreffliches Bild von reicher Composition.
+
+Holz. Hohe 45,Breite 65 Cent.
+
+## Ponte, Jacopo da, gen. Bassano,
+
+geb.1510;↑1592.
+
+- 169 Consummatum est. Der todte Erloser am Kreuze hangend, an dessen Fusse die weinenden Frauen, der hl. Johannes und andere Personen. Vorne eine Gruppe um die in Ohnmacht gefallene Mutter des Heilandes beschaftigt und im Hintergrunde die Stadt Jerusalem. Sehones grosses Bild. Prov. Sammlung Bystrom.
+
+Leinwand.Hohe 175,Breite 113 Cent.
+
+## Poussin, Nicolas,
+
+geb.zu Villers 1594;zu Rom 1665.
+
+- 170 Landschaft. Steiles Felsgebirge, an dem vorbei ein Fluss, iber Geroll einen kleinen
+
+Rund.Kupfer.Diam.23 Cent.
+
+- Fall bildend,zum Vorgrunde zieht.
+- 171 Landschaft. Gebirgige Gegend mit grossem Thurm und kleinem, nach vorne fiessenden Wasser. Rechts auf einem Erdhugel grosser Baum,
+
+## Poussin, N.(Manier).
+
+Effectvolles, gut erhaltenes Bild.
+
+Gegenstick. Gleiche Grosse.
+
+- 172 Der Raub der Amphitrite. Neptun in seinem Viergespann hailt in seinen Armen die Geraubte,nach der ihre an der Erde gebliebenen Genossinnen die Hande ausstrecken. Rechts eine zweite Gruppe von Nymphen.
+
+Leinwand. Hohe 120,Breite 150 Cent.
+- 176
+
+## Procaccini, Camillo,
+
+geb.1546;1625 zu Mailand.
+
+- 173 Die hl. Familie. In Waldlandschaft sitzt die jugendliche Madonna, mit einem Tuche den schlafenden Jesusknaben zudeckend,neben welchem der kleine Johannes mit dem Kreuzstab. Im Hintergrunde der hl. Josef.
+
+Sehr schones, gut erhaltenes Bild von vortrefflicher Lichtwirkung. Prov. Sammlung Excellenz de Geer.
+
+Holz. Oval. Hohe 36,Breite 30 Cent.
+
+## Querfurth, August,
+
+geb.zu Wolfenbittel 1696; zu Wien 1761.
+
+- Rast auf dem Felde. An einer grossen Gartenimauer machen einige Reiter Halt. Bei
+- Gutes,ansprechendes Bild.Prov.Sammlung Privat.
+- 174 ihnen eine Frau beim Feuer sitzend,ein kleiner Knabe etc.
+
+Leinwand.Hohe 33,Breite 43 Cent.
+
+- 175 Bei der Schmiede. Reich belebte Landstrasse, die an einem Hause vorbeifuhrt,bei dem der Hufschmied mit dem Beschlagen eines Schimmels beschaftigt ist. Gegenstick zum Vorigen. Gleiche Ausfuhrung.
+
+Leinwand. Gleiche Grosse.
+
+## Rembrandt Harmensz.van Rijn,
+
+geb.zu Leiden 1607;begraben zu Ansterdam 1669.
+
+- Josef deutet die Traume des Pharao. Der Konig, umgeben von seinen Weisen und Priestern, sitzt auf dem Throne,an dessen Fusse der knieende Josef. Gut componirtes Bild von 13 Figuren.
+
+Leinwand.Hohe 69,Breite 90 Cent.
+
+- 177 Maria aus der Verkundigung. Dieselbe, in Lebensgrosse dargestellt, kniet vor einem Tische, auf dem ein offenes Buch liegt, und hilt die beiden Hande iber der Brust
+- gekreuzt.
+
+Vorzuigliches, breit behandeltes Bild von eminenter Leuchtkraft und meisterhafter Pinselfihrung. Leinwand.Hohe 110,Breite 110 Cent.
+
+- 178 Landschaft. Ueber einen Bach hinaus, zwischen einigen Hutten hindurch, Fernsicht
+- auf eine weite Gegend.
+
+Hoehst interessante Skizze von breiter Behandlung.Bezeichnet:Rembrandt 1645.
+
+Holz.Oval. Hohe 22,Breite 30 Cent.
+
+- 179 Landschaft. Links Huusergruppe, vor der ein hohes Strauchwerk. Gegenstick zum Vorigen.Gleiche Ausfihrung.
+
+## J.Rentinck,
+
+Meister des XIX. Jahrh.
+
+- 180 Stillleben. An der Erde liegen in und bei einem Korbe drei todte Fische. Hinter ihnen Kupferkessel und irdenes Gefiss.
+
+Superbes Bild von naturwahrem Ausdruek und feissiger Durchfihrung.Bezeichnet:J.Rentinck 1830. Holz.Hohe 27,Breite 34 Cent.
+
+- 181
+- Stillleben. Ueber eine Holzbank,auf der ein irdener Krug steht, fallt ein Fischnetz herab; in und bei demselben eine grosse Zahl von Fischen jeder Art. Links ein grosser Kupfereimer.
+
+Gegenstick zum Vorigen.Bezeichnet:J.Rentinck f.1830.
+
+Holz. Gleiche Grosse.
+
+Holz. Gleiche Grosse.
+## Rhogenberg, P.,
+
+Lebensdaten unbekannt.
+
+- 182 Todtes Wild. An einem Aste hangt bis zur Erde ein todter Hase, dabei Schnepfe
+- Wildente und anderes Geflugel.
+
+Fleissig durehgearbeitetes Bild von ansprechendem Colorit. Bezeichnet: P.Rhogenberg,F. Leinwand. Hohe 72,Breite S5 Cent.
+
+## Ribera,Jusepe de,gen. Spagnoletto,
+
+geb.zu Jativa 1588; zu Neapel 1656.
+
+- 183 Dem Herodes wird das Haupt Johannes d. T. gezeigt. Composition von vier iber Lebensgrosse dargestellten Figuren,von denen die eine —ein Sklave —dem vor ihm stehenden Herodes das abgeschlagene Haupt zeigt.
+
+Sehr gut ausgefihrtes Bild von trefflichem Lichteffekte. Prov. Sammlung Gerichtsrath Miller. Leinwand.Hohe 107,Breite 177 Cent.
+
+## Richter, Johann,
+
+geb.in Schweden, thatig um 1730 in Venedig.
+
+- 184 Ansicht von Venedig. Der von einer Anzahl Schiffe und Gondeln belebte iberbrickte Canal,an dessen beiderseitigen Ufern eine dichte Reihe hoher Bauten.
+
+Sehones,in der Art des Canaletto ausgefuihrtes wohlerhaltenes Bild. Prov. Sammlung Magnus Brahe.
+
+Leinwand. Hohe 60,Breite 95 Cent.
+
+## Roos, Philipp, gen. Rosa di Tivoli
+
+geb.zu Frankfurt 1657;↑ zu Rom 1705.
+
+- Viehstick. Vor ihrer Hutte, von ihrem Hirten beaufsichtigt, ruht eine grosse Heerde
+- 185 von Schweinen,Ziegen,Schafen,Federvieh etc.
+
+Breit behandeltes,effektvolles Bild.
+
+Leinwand. Hohe 91,Breite 118 Cent.
+
+- 186 Landschaft. Bei einem machtigen Wasserfall eine grosse Heerde mit dem auf einem Pferde sitzenden Hirten.
+
+Dunkles Bild.
+
+Leinwand. Hohe 48,Breite 63 Cent.
+
+## Rottenhammer,Johann,
+
+geb.zu Minchen 1564; zu Augsburg 1623.
+
+- 187 Adam und Eva. Unter dem Baume sitzt Eva und reicht Adam den Apfel, wahrend sie einen zweiten von der Schlange erhalt.
+
+Vortrefflich ausgefuihrtes Bild, coloristisch vorziglich und weich in der Carnation. Bezeichnet: H.Rottnhamer F.in Venetia 1606.Prov. Sammlung des Danischen Ministers Bugge No. 14, sodann
+
+Sammlung Ohman No.41.
+
+Kupfer. Hohe 27,Breite 22 Cent,
+
+- 1881 Die Taufe Christi im Jordan. Umgeben von einer Anzahl Menschen, steht Christus im
+- Flusse, wahrend Johannes aus der hohlen Hand Wasser auf ihn giesst.
+
+Gut erhaltenes Bild.Prov.Sammlung D. Colins No.43.
+
+Kupfer. Hohe 26,Breite 20 Cent.
+
+- 189 Narcissus. Der unbekleidete Jungling,in der Linken den Jagdspiess haltend, sieht sein Spiegelbild in einem klaren Bergwasser. In der Ferne einige Nymphen und in der Hohe
+- der kleine Amor.
+
+Farbenprachtiges Bild von trefflicher Behandlung und bester Erhaltung.Prov.Sainmlung Brogren. Kupfer. Hohe 39,Breite 28 Cent.
+- 193
+
+## Rubens,Peter Paul,
+
+geb.zu Siegen 1577; zu Antwerpen 1640.
+
+- 190 Das Fest des Herodes.Um cinen gedeckten Tisch gruppirt sich die Gesellschaft, bei
+- weleher im Vorgrunde Salome, die Tochter der Herodias, die Schale mit dem Haupte des Johannes zeigt.
+
+Grosse Composition von 13 Figuren. Das aus der Sammlung Konig Karl's XIV. Johann stammende Bild ging spater auf Konig Oskar I.und sodann in den Besitz des Prinzen August iber. Von dem vortrefflich gezeichneten und coloristisch sehr effectvollen Bilde ist ein ibereinstimmendes Exemplar im Kgl. Museum in Kopenhagen und bildet dort einen der kostbarsten Sehitze.
+
+Leinwand.Hohe 210,Breite 270 Cent
+
+- 191 Das Urtheil Salomonis. Dieser, umgeben von seinen Hoflingen links auf dem Throne
+- sitzend,giebt Befehl, das Kind mit dem Schwerte zu theilen.
+
+Lebendig componirtes Bild von guter Farbung und bester Erhaltung.
+
+Leinwand.Hohe 79,Breite 107 Cent.
+
+## Rubens, P.P.(Schule).
+
+- 192 Die Anbetung der Hirten. In der Mitte des Stalles das in einer Krippe liegende gott liche Kind, welches die hl. Maria den dabei knienden Hirten zeigt. Links eine Magd, die einen kupfernen Henkelkrug auf dem Kopfe tragt, rechts der hl. Josef und in der Hohe
+- drei gefligelte Engelskopfe.
+
+Sehr gut erhaltenes Bild von farbenprachtiger Ausfuihrung. Prov. Sammlung der Konigin Desideria. Holz.Hohe 41,Breite 32 Cent.
+
+## Ruisdael, Jacob van,
+
+geb. zu Haarlem um 1625; begraben daselbst 1682.
+
+- Landschaft. Rechts hohes mit Burgen besetztes Gebirge, vor welchem ein breites Bergwasser cascadenartig niederstirzt. Links weite Hugellandschaft, in der eine Anzahl Wanderer und im Vorgrunde ein beladener Maulesel mit Fuhrer.
+
+Sehr schones Bild von prachtiger Farbung und naturwahrer Ausfuhrung. Prov. Sammlung Wallis. Leinwand. Hohe 82,Breite 98 Cent.
+
+## Ruiz, Juan Salvador,
+
+Maler von Sevilla um 1671.
+
+- 194 Kustenlandschaft. Links an der Kuiste ein zerfallener Thorbogen,an dem vorbei Blick auf das aufgeregte Meer, auf dem einige grossere und kleinere Schiffe. Figurenstaffage.
+- Sehones Bild von guter Farbe und bester Erhaltung. Prov. Sammlung Oberst Blom No.109. Leinwand.Hohe 35,Breite 61 Cent.
+
+## Savenboom, Johan,Prof.,
+
+thitig zu Stockholm,geb.1721; 1784.
+
+- Kisten-Landschaft. Mit grossen Bauten besetzte Ufer begrenzen das nur wenig belebte
+- 195 Meer, in dem links ein Segler vor Anker liegt. Figurenstaffage.
+
+Gutes Bild.Prov. Sammlung ProfBystrom No.6.
+
+Leinwand. Hohe 38,Breite 48 Cent.
+
+## Saftleven,Herman,
+
+geb.zu Rotterdam um 1610;zu Utrecht 1685.
+
+- 196 Landschaft. Durch eine weithin sich erstreckende waldige Berggegend hindurch fuhrt ein breiter, von Nachen belebter Fluss in Schlangenlinie zum Vorgrunde hin. Am rechten
+Ufer Hausergruppe, vor der eine Anzahl Personen, und links auf der Hohe eines Berges ein zerfallenes Schlossgebaude.
+
+Holz. Hohe 47,Breite 63 Cent.
+
+Prachtiges,in wohlthuendem Umbratone iberaus fein ausgefihrtes Bild von malerischer Wirkung und tadellos erhalten.
+
+## Santi, Raffaello (Schule).
+
+- 197 Der hl. Johannes der Taufer. Derselbe,halbbekleidet sitzend dargestellt,halt die Rechte in rednerischer Geste erhoben.
+
+Gut erhaltenes Bild. Prov. Sammlung Prof.Bystrom 268 und Grubbe 56. Holz. Hohe 37,Breite 29 Cent.
+
+## Savery,Roeland,
+
+geb.zu Courtrai 1576;zu Utrecht 1639.
+
+Superbes Meisterbild von reicher Composition,ungemein feissiger Durchfuhrung und prichtiger Farbung. Prov. Sammlung Graf Gylldenstolpe.
+
+- 198 Orpheus unter den Thieren. Waldlandschaft mit einer Menge Thiere aller Art, in deren Mitte der Sanger mit Lyra.
+
+Holz.Hohe 50,Breite 92 Cent.
+
+- 199 Das Paradies. Im Vorgrunde einer waldreichen Gegend steht und liegt eine grosse Anzahl verschiedenartiger Thiere.In der Ferne die Erschafung Eva's.
+
+Farbenprachtiges Bild von vortrefflicher Ausfuhrung. Prov. Sammlung Konigin Desideria No.15. Holz.Hohe 74,Breite 104 Cent.
+
+- 200 Landschaft. Fast die ganze Breite des Bildes einnehmender Fluss, den jenseits ein grosser Gebiudecomplex mit Thurmen und Windmuhle begrenzt. Figurenstaffage. Gutes Bild von freundlicher Farbengebung.
+
+Holz. Hohe 23,Breite 30 Cent.
+
+- 201 Winterlandschaft. Beschneite Hauser eines grossen Dorfes,in dessen Hintergrund eine Bricke iber einen Fluss fuihrt. Figurenstaffage. Gegenstick zum Vorigen. Holz. Gleiche Grosse.
+
+## Schalcken,Gottfried,
+
+geb. zu Dordreeht 1643;im Haag 1706
+
+- 202 Lesender Knabe.Derselbe sitzt,vom Kerzenlicht beleuchtet,an einem Tische und halt vor sich ein geoffnetes Buch.
+
+Holz.Hohe 20,Breite 15 Cent.
+
+Gutes, effectvollesBild.
+
+## Schroeder,Georg Engelhard,
+
+geb.zu Stockholm 1684；1750.
+
+- 203 Apollo auf dem Parnass. Umgeben von den Musen, sitzt, von einem Nimbus umstrahlt, Apollo auf einem Felsen,in der linken Hand die Lyra haltend und mit der Rechten nach der Seite zeigend.
+
+Sehr schones,effeetvolles Bild, im Vierpass ausgeschnitten und bezeichnet: G.E.Sehroeder pinx.1733. Leinwand.Hohe 157,Breite 173 Cent.
+
+- 204 Alexander,den gordischen Knoten losend. Vor der Statue des Jupiter steht ein Altar mit loderndem Feuer,bei dem der Priester und einige Frauen.Vor ihnen Alexander, den Knoten mit dem Schwerte durchhauend,und sein Gefolge.
+
+Sehr gut durchgefihrtes Bild von angenehmer Farbengebung und lebhafter Composition. Leinwand.Hohe 64,Breite 95 Cent.
+## Schwarz, Christoph,
+
+- 205 Mannliches Bildniss. Brustbild, nach links, in grunem Gewande und mit Feder ge-
+
+geb.wahrscheinlich zu Ingolstadt vor 1550; 1597.
+
+- schmickter Mutze; das nur einen Sehnurrbart tragende Gesicht ist dem Beschauer zugewandt.
+
+Prov. Sammlung Grubbe No.126.
+
+Lebensdaten unbekannt.
+
+## Schwarz,H.
+
+- 206 Weibliches Bildniss. Huftfigur einer Dame in schwarzem Gewande mit weissen Puffenarmeln und weissem,mit Pelz besetztem Haubchen. Um den Hals tragt sie eine goldene Kette,und ein goldenes Armband schmickt ihre Linke,wahrend die Rechte eine Nelke halt. Unten die Inschrift:Nata Anno 1643. Picta Anno 1681.
+
+Trefliches Bild von lebenswahrer Auffassung und sehr gut erhalten.Prov.Galimberti und Karl XV. Leinwand. Hohe 82,Breite 67 Cent.
+
+## Seghers,Daniel,
+
+- 207 Blumenstuck. Um einen mittleren Wolkenspiegel ein Kranz von Rosen, Nelken,Tulpen et. der eine Kartusche zum Theil verdeckt.
+
+getauft zu Antwerpen 1590; daselbst 1661.
+
+Superbes Bild von schoner Farbengebung. Prov. Sammlung Brodins.
+
+Leinwand. Hohe 74,Breite 60 Cent.
+
+- 208 Blumenstick. Aehnliche Ausfuhrung und Gegenstuick.
+
+## Snyders, Frans,
+
+- Der Fuchs im Eisen. In einer grossen Eisenfalle hangt ein Fuchs mit den beiden Vorderpfoten fest und fetscht,withend sich umschauend, die Zahne nach seinen Verfolgern, drei Hunden, von denen einer, der einen Biss erhalten zu haben scheint, schmerzvoll zurickweicht. In der Ferne zwei dicht bewaldete Hohenzige, zwischen
+
+Leinwand. Gleiche Grosse.
+
+getauft zu Antwerpen 1579; daselbst 1657.
+
+Vorziglich ausgefuihrtes Bild von packender Naturtreue und coloristiseh hochst ansprechend. Die
+
+Leinwand. Hohe 170,Breite 242 Cent.
+
+- 2091 denen ein kleines Wasser.
+
+Landschaft,von einer andern Hand, ist meisterhaft und von hoher Vollendung. Bezeichnet: F. Snyders fecit. Prov.Louis de Geer in Finspong (1587-1652) und Graf S.af Ugglas.
+
+- 210 Die Lowenjagd. Ein sich hoch aufbaumender machtiger Lowe wird von sechs schweren
+
+Lebensgrosse Thierfiguren von vorziglichem Colorit und lebendiger, naturwahrer Composition.
+
+- Hunden gestellt, von denen fuinf ihren Feind zu fassen suchen, wahrend der sechste in seinem Blute sich am Boden walzt.
+
+Prov. Graf Lars von Engestrom.
+
+Leinwand. Hohe 187,Breite 230 Cent.
+
+## Sodermark,Olof Johan,
+
+- 211 Madchenkopf. En face-Darstellung eines hubschen jungen Madchens mit glattem Haar und goldenen Ohrgehangen.
+
+Hohe 24,Breite 19 Cent.
+
+geb.1790;1848.
+
+Bezeichnet:O.J. Soedermark pinx. Oval.
+
+Holz.Hohe 36,Breite 29 Cent.
+## Spanische Schule,
+
+XVII.Jahrh.
+
+- 212 Truppenschau. Auf einem grossen Felde haben die Truppen eine Anzahl Carres gebildet,wahrend im Vorgrunde unter einem Zelte die konigliche Familie Platz genommen hat, bei der der Prediger eine Ansprache hilt.
+
+Sehr gutes, figurenreiches Bild von superber Erhaltung.Prov. Sammlung Konigin Desideria No. 202. Kupfer.Hohe 40,Breite 56 Cent.
+
+- 213 Madonna. Brustbild in braunem Gewande, blau-grinem Mantel und braunem Kopfschleier, den Blick nach unten richtend.
+
+Kupfer.Hohe 15,Breite 111/ Cent.
+
+- 214 Bildniss eines Herzogs von Burgund. Derselbe, mit einem Perlen-Diadem geschmickt, ist im Brustbilde dargestellt und tragt ein graues verziertes Wamms mit schuppenartigem Besatz.
+
+Interessantes Costimbild.Prov. Sammlung Brogren.
+
+Holz.Hohe 66,Breite 51 Cent.
+
+- 215 Bildniss einer Herzogin von Burgund. Brustbild in schwarzem, gelb verzierten Gewande und mit Kopfschmuck.
+
+Holz. Gleiche Grosse.
+
+Gegenstick zum Vorigen.
+
+- 216 Mannliches Bildniss. Brustbild eines Gelehrten in schwarzem pelzverbramten Rocke und mit hoher sehwarzer Mutze. Prov. Sammlung Brogren.
+
+Holz.Hohe 66,Breite 51 Cent.
+
+- 217 Fursten-Portrait. Brustbild eines jugendlichen Fursten in rothem Gewande und ebensolcher Mutze.Die Brust schmiickt die Kette und der Orden des goldenen Vliesses. Interessantes Bild, wie das folgende aus der Sammlung Brogren.
+
+Holz.Hohe 66,Breite 51 Cent.
+
+- 218 Fursten-Portrait. Brustbild eines alteren Mannes in, der vorigen Tracht gleichender rother Kleidung.
+
+Ebenso und Gegenstick.
+
+Holz. Gleiche Grosse.
+
+## Spranger,Bartholomeus,
+
+geb.zu Antwerpen 1546;zu Prag angeblich 1627 oder 28.
+
+- 219 Die Erschaffung der Eva. In einer Waldlandschaft liegt Adam schlafend am Boden, neben ihm die seiner Seite entschwebende Eva.
+
+Prachtiges Bild,recht gut in der Farbe und elegant in der Ausfihrung. Prov. Sammlung Dr. Martelli in Rom, aus der es Gustav IV. Adolf im Jahre 1798 erwarb.
+
+Holz.Hohe 65,Breite 54 Cent.
+
+- 220 Faun und Nymphe. In Halbfiguren dargestelt, wird letztere von einem Faun umfasst; hinter den beiden zwei Amoretten mit Fackeln.
+
+Gutes Bild von schoner Farbung und guter Erhaltung. Prov. Sammlung Grafin von Essen auf Gross-Wyk.Bezeichnet:Bartholomeus Spranger 1598.
+
+Leinwand.Hohe 85,Breite 68 Cent.
+- 223
+- 225
+
+## Steenwyck, Hendrik v., d. A.,
+
+geb.zu Steenwyck 1550;nach 1604.
+
+- Holz.Hohe 60,Breite 45 Cent.
+- 221 Architekturbild. Grosse Colonnade,in der ein lustwandelndes vornehmes Paar und ein Mandolinspieler;rechts Ausblick auf Garten und den grossen Platz einer Stadt. Superbes Bild von trefflicher Farbung und guter Erhaltung.Bezeichnet: Steenwyck 95.
+
+## Strauch, Lorenz,
+
+geb.zu Nurnberg 1554; daselbst 1636.
+
+Sehr gutes, interessantes und wohlerhaltenes Bild. Prov. Galimberti's Sammlung und Sammlung
+
+- 222 Haller, Ernst, Patrizier zu Nurnberg. Brustbild im Harnisch und mit grossem Ringkragen. Links oben das Wappen und rechts die Inschrift: H. Ernst Haller Aetatis suae 47Ano 1598.
+
+Karl's XV.No.99. Bezeichnet mit dem Monogramm:L.S.
+
+## Streek, Jurian van,
+
+geb.zu Amsterdam 1632;1678.
+
+- Vanitas. In einer Kirche steht bei einem mit allerhand Sachen belegten Altare ein menschliches Gerippe, auf eine am Boden befindliche, mit Gold und Silbersachen gefullte Kiste zeigend. Links ein Tisch mit grossem Blumenstrauss.
+
+Leinwand. Hohe 155,Breite 120 Cent.
+
+Reiche Composition von vortrefflicher Ausfihrung und gut in der Farbe. Geschenk Karl's XV.an den Hofprediger Lundstroin.
+
+## Stuhr, Joh. Georg,
+
+geb. zu Hamburg 1640; lebte noch zu Anfang des XVIll. Jahrh.
+
+- die glatte Fluth in der Ferne rechts ein steiles Gebirge, wahrend im Vorgrunde bei machtigen Gebiuderesten, ausgeladene Waaren aller Art lagern und ein Sehiff entladen wird.
+
+I.G.Stuhr.
+
+- Lebendig componirtes Bild von heller, wahrer Farbung und sorgfaltiger Behandlung. Bezeichnet:
+
+Leinwand. Hohe 72, Breite 89 Cent.
+
+- Meereskuiste. Links grosse Villen, von denen breite Treppen zum Meere fuhren, auf welchem zahlreiche Boote und ein grosser vor Anker liegender Dreimaster. Zahlreiche Figurenstaffage.
+
+Leinwand. Gleiche Grosse.
+
+Gegenstick zum Vorigen.Bezeichnet:I. G. Stuhr.
+
+## Sueur, Eustache le,
+
+geb.zu Paris 1617; daselbst 1655.
+
+- 226 Cardinal-Collegium. Eine Anzahl Cardinile ist in lebhafter Unterhaltung begriffen iber eine These, die einer derselben von einem Blatte abzulesen im Begriffe ist.
+
+Lebendig componirtes Bild von bester Erhaltung. Prov. Sammlung Bischof Fahlerantz No. SS. Leinwand.Hohe 124,Breite 93 Cent.
+
+## Taraval, Guilleaume Thomas Raphael,
+
+geb.in Frankreich 1701; in Stockholm 1750.
+
+- 227
+- Allegorie. Gefigelte weibliche Gestalten,deren eine in ein Buch schreibt,wahrend die zweite in die Posaune stosst.
+
+Superporte,recht gut in der Farbe und bestens erhalten.
+
+Leinwand. Hohe 60,Breite 135 Cent.
+
+Holz.Hohe 49,Breite 40 Cent.
+- 228 Amorettengruppe. Auf einem Felsgesteine sitzen vier Amoretten bei einem Baume und beschaftigen sich mit einem Vogelkorbe.
+
+Vorziglich ausgefuhrtes Bild von anmuthiger Farbengebung und bester Erhaltung. Bezeichnet: Taraval 1747.Prov.Sammlung Cederlund No.62.
+
+Leinwand.Oval.Hohe 38,Breite 31 Cent.
+
+- 229 Superporte. Minerva mit Amoretten, in Wolken schwebend, dabei Attribute auf die Kunst. Malerische Gruppe von guter Ausfihrung.
+
+Leinwand. Hohe 70,Breite 93 Cent.
+
+- 230 Superporte. Vulkan schwebt, den Hammer in der Rechten, iber einer Berglandschaft, in der bei einer Hohle drei Amoretten am Amboss sich beschaftigen. Gegenstick.
+
+Gleiche Grosse.
+
+- 231 Superporte. Merkur mit seinen Attributen und einige Amoretten sowie Fuillhorn auf Wolken ruhend.
+
+Leinwand. Gleiche Grosse.
+
+Gegenstick zum Vorigen. Gleiche Ausfuhrung.
+
+- 232 Superporte. Ceres, ein Aehrenbindel haltend, sitzt, umgeben von Amoretten, die Pfug, Rechen, Sense etc. tragen, auf Wolken. Gegenstick zum Vorigen. Gleiche Ausfihrung.
+
+## Tempesta, Antonio,
+
+geb.zu Florenz 1555; daselbst 1630.
+
+- 233 Ruhe auf der Flucht nach Egypten. Maria und der hl. Josef mit dem kleinen Christusknaben und dem hl. Johannes in Landschaft an der Erde sitzend;bei ihnen einige Engel und die Mutter des hl. Johannes, die hl. Elisabeth.
+
+Prov. Sammlung Excellenz Lagerheim No. 10.
+
+Leinwand. Hohe 40,Breite 54 Cent.
+
+## Teniers, David, d. A.,
+
+geb.zu Antwerpen 1582;daselbst1649.
+
+- 234 Landschaft. Am Ufer eines nach rechts sich hinziehenden Flusses eine Menge Bauern in verschiedenartiger Beschaftigung. Bei einem Hause ein Ringeltanz.
+
+Gutes Bild von satter Farbengebung und superber Erhaltung.Prov. Sammlung Strembom No.38. Holz.Hohe 34,Breite 80 Cent.
+
+## Teniers, David, d. J.,
+
+getauft zu Antwerpen 1610;↑ zu Brissel 1690.
+
+- 235 Die Flucht nach Egypten. Maria, den kleinen Jesusknaben an der Hand haltend, schreitet, umgeben von Engeln, aus dem Walde heraus. Hinter ihnen der hl. Josef und der Esel.
+
+Interessantes,fein durchgefihrtes Bild.Prov. Oberstlieut.v. Gerten No. 24 und von Sydow. Kupfer.Hohe 18,Breite 23 Cent.
+
+- 236 Neutestamentarische Scene. Christus,in Begleitung seiner Junger vor den Thoren der Stadt stehend,trostet eine vor ihm knieende Frau.
+
+Kupfer. Gleiche Grosse.
+
+Gegenstick zum Vorigen. Gleiche Ausfuihrung.
+
+Leinwand. Gleiehe Grosse.
+- 237 Der Raucher. Inmitten einer Stube sitzt derselbe in einem halb ausgeschnittenen Fasse,
+
+Holz.Hohe 201/2,Breite 16 Cent.
+
+- mit Vergnigen den Rauchwolken nachschauend. Im Hintergrunde beim Feuer drei andere Bauern.
+
+## Tiepolo,Giovanni Battista,
+
+geb.zu Venedig 1696;zu Madrid 1770.
+
+- 238 Heiligengruppe. St. Nicolaus, St. Andreas und andere Heilige, stehend und sitzend. In der Hohe einige Engel.
+
+Holz.Hohe 54,Breite 41 Cent.
+
+Gutes Bild. Prov. Sammlung Graf Posse, spaiter Sammlung Graf Lowenhaupt und Excellenz Adlercreutz.
+
+- Der Auszug aus Egypten. Eine Menge Frauen, Munner und Kinder ziehen eiligst bei
+
+Lebendig componirtes Bild von guter Erhaltung und breiter Pinselfuhrung. Prov. Sammlung Graf
+
+- 239 nachtlichem Dunkel,ihre Habe bei sich fuhrend,zu einem Thore hinaus.
+
+Lantingshausen No.68.
+
+Leinwand.Hohe 79,Breite 125 Cent.
+
+## Valckenborch, Lucas van,
+
+geb.zu Mecheln 1530;nach 1590.
+
+- 240 Der Triumph des Friedens. Eine weibliche gefigelte Gestalt,in der Linken den Palmzweig haltend,tritt mit dem linken Fusse auf einen am Boden liegenden Krieger. In
+
+Vortrefliches Bild von cigenartiger Farbung und effectvoller Beleuchtung.
+
+- der Hohe zwei in die Posaune stossende Engel und in der Ferne einige Reiter.
+
+Leinwand. Hohe 165,Breite 105 Cent.
+
+## Varotari, Alexandro,gen.Padovanino,
+
+geb.zu Padua 1590;1650.
+
+- 241 Die Beweinung Christi. Lebensgrosse Darstellung des Leichnams Christi in sitzender
+- Stellung;vor ihm zwei schmerzerfillte Engelsgestalten.
+
+Vorziglich ausgefuhrtes Bild von meisterhafter Vollendung und effeetvollem Ausdruck.
+
+Leinwand. Hohe 130,Breite 196 Cent.
+
+## Vecellio,Titiano (Schule).
+
+- Mannliches Bildniss. Lebensgrosses Brustbild eines Ritters in Rustung,in Dreiviertel
+- 242 Wendung nach rechts, das bartige Gesicht dem Beschauer zuwendend.
+
+Interessantes Bild.Prov. die Sammlungen Prof.Bystrom 289 und Konigin Desideria.
+
+Leinwand.Hohe 70,Breite 62 Cent.
+
+## Velasquez, Diego Rodriguez de Silva y,
+
+getauft zu Sevilla 1599; zu Madrid 1660.
+
+- 243 Biblische Darstellung. In einer grossen Saulenhalle stirzen auf das Gebet des Apostels Paulus die Gotzen und der Opferaltar zur Erde; dabei eine Anzahl Personen und der
+- am Boden knieende Konig.
+
+Effeetvolles Bild von breiter Pinselfihrung.Prov. Sammlung der Konigin Desideria.
+
+Leinwand. Hohe 97,Breite 133 Cent.
+- 248 Konigin Desideria.
+
+## Velde, Jan van de,
+
+geb.zu Leiden 1598;nach 1679.
+
+Sehones Bild von ansprcchendem Colorit. Bezeichnet: J.v.Velde fe. Prov. Sammlung Konigin Desideria.
+
+- 244 Landschaft. Gebirgsgegend mit Waldungen, zu denen ein Hirt seine Schafheerde treibt. Rechts steil abfallender hoher Berg mit Baumen und Ruinen. Als Staffage Tobias und der Engel.
+
+Leinwand. Hohe 49,Breite 64 Cent.
+
+## Velde,Willem van de,
+
+geb.zu Amsterdam 1633;zu Grcenwich 1707.
+
+- 245 Marine. Bei einem mit Citadelle bebauten hohen Felsen liegt ein grosses Schlachtschiff vor Anker, ein zweites segelt rechts davon und im Vorgrunde ein kleines bemanntes Segelboot.
+
+Holz.Hohe 40,Breite 70 Cent.
+
+Vortreflich gezeichnetes und im Detail aufs feinste ausgefihrtes Bild von superber Erhaltung. Prov. Sammlung Oberst Blom No.6.
+
+- 246 Seekampf.Offene See, in der eine Anzahl Schlachtschiffe im Kampfe begriffen ist; rechts ein versinkendes Schiff und die umherschwimmende und sich zu retten versuchende Mannschaft.
+
+Gegenstiick zum Vorigen. Provenienz ebenso.
+
+## Venne, Adrian van de,
+
+geb.zu Delft 1589; im Haag 1662.
+
+- 247 Die Hochzeit zu Kanaan. In einem vornehm ausgestatteten Saale die reichgedeckte Tafel, an der im Vorgrunde Christus sein erstes Wunder wirkt. Meisterhaftes Bild von vorziglicher,reicher Composition und lebendiger Ausfihrung. Bezeichnet: 1643 A.v.d.Venne.
+
+Holz. Hohe 95,Breite 126 Cent.
+
+## Vernet, Claude-Josef,
+
+geb.zu Avignon 1712; zu Paris 1789.
+
+- Seekuiste. Mit Villen und andern Hausern reich besetzte Kuste einer Meeresbucht,in der rechts zwei Fischerboote und in der Ferne ein aufgetakelter Dreimaster.Figurenstaffage. Vortreffliches Bild von feiner Stimmung und klarer durchsichtiger Farbung.Prov. Sammlung der
+
+Leinwand.Hohe 60,Breite 97.Cent.
+
+## Vernet,Horace (Copie).
+
+- Judith und Holofernes. Erstere,in Ueberlebensgrosse dargestellt, streift den Aermel von der das Schwert haltenden Rechten in die Hohe und ist im Begriffe,dem schlafenden
+
+Von Johanna Muiller geb. Holmlund vorziglich ausgefuhrte Copie.
+
+- 249 Holofernes das Haupt vom Rumpfe zu trennen.
+
+Leinwand. Hohe 300,Breite 193 Cent.
+
+## Vertangen,Daniel,
+
+geb. im Haag 1598; daselbst angeblich 1657.
+
+- 250 Landschaft. Breiter, zu einem Flusse fuhrender Weg, an dem links ein Gebusch und ein hoher Baum. Am jenseitigen Ufer Gebaude mit rundem Thurm. Ansprechendes Bild von guter Farbung.Prov.Sammlung Bystrom.
+
+Kupfer. Rund. Diam.17 Cent.
+
+Leinwand. Gleiche Grosse.
+- 252 Desideria.
+- 253
+
+## Vinck-Boons, David,
+
+geb.zu Mecheln 1578; zu Amsterdam 1629.
+
+- 251 Landschaft. Ein in der Ferne mit einer Bogenbrucke iberspannter Fluss, dessen rechtes Ufer eine Waldlandschaft bildet, zieht sich zum Vorgrunde hin, wo links die Reste von grossen Saulenbauten stehen.
+
+Kupfer. Hohe 15,Breite 19 Cent.
+
+Gutes Bild.Prov.Sammlung Graf v.Fersen-Gylldenstolpe.
+
+## Volterra,Daniello da,
+
+geb.zu Volterra 1509; zu Rom 1566.
+
+- Die Ohnmacht der Mutter Christi. Gruppe aus der Kreuzigung. Maria, vom Schmerz uberwaltigt, ist zur Erde gesunken,und die andern hl.Frauen stehen ihr hulfreich bei. Grossartig aufgefasste Composition von trefflicher Erhaltung. Prov. Sammlung der Konigin
+
+Leinwand.Hohe 144,Breite 170 Cent.
+
+## Vos, Paul de,
+
+geb.um 1600 zu Aelst;+ 1654.
+
+- Thierstuck. Grosser Reiher wird von drei Hunden angegriffen, deren einer das Wild
+- beim Fusse gefasst halt und mit ihm das Weite sucht.
+
+Schones,breit behandeltes Bild. Prov.Prof. Ways Sammlung in Upsala No.23.
+
+Leinwand.Hohe 34,Breite 45 Cent.
+
+- 254 Thierstick. Grosser Schwan,vier Hunden wegfliegend. Gegenstick zum Vorigen. Gleiche Ausfihrung und Provenienz.
+
+Leinwand. Gleiehe Grosse.
+
+## Vriend, Frans de, gen. Floris,
+
+geb.zu Antwerpen um 1517/18; daselbst 1570.
+
+- 255 Rebecca am Brunnen. Dieselbe, bei sculptirtem Laufbrunnen stehend, um welchen eine Anzahl Frauen beschaftigt ist, gibt dem vom Kameele abgestiegenen Knecht zu
+- trinken.
+
+Treffliches Bild von lebendiger Composition und gut in der Farbe. Prov. Graf Horn und Exellenz Lagerhjelm.
+
+Holz. Hohe 64,Breite 103 Cent.
+
+- 256 Der Abschied. Bei seinem gesattelten Pferde, umgeben von seinen Begleitern,nimmt ein geharnischter, in einen gelben Mantel gehullter Edelmann Abschied von seiner in
+- ein rothes Gewand gekleideten Dame, hinter der ihr zahlreiches Gefolge.
+
+Farbenprichtiges Bild. Prov. Graf von Fersen-Gylldenstolpe und Konigin Desideria. Holz. Hohe 81,Breite 107 Cent.
+
+## Vries, Jan Reynier,
+
+Maler des XVIl. Jahrh.
+
+- 257 Der Scheerenschleifer. Inmitten einer belebten Dorfstrasse steht im Vorgrunde an seinem
+
+Karren ein Schleifer, dem einige Kinder zuschauen.
+
+Gut ausgefihrtes Bild von angenehmer Farbengebung.
+
+Holz. Hohe 25,Breite 34 Cent.
+
+- 258 Landschaft. Kirchplatz eines Dorfes mit hohem zerfallenen Kirchthurm, vor dem eine grosse Anzahl Menschen sich vergnigt.
+
+Sehr schones Bild von meisterhafter Durchfihrung und stimmungsvoller Firbung.
+
+Holz. Hohe 63,Breite 57 Cent.
+## Vroom,Hendrik Cornelisz.,
+
+- 259 Seekampf. Heftig entbrannter Kampf zwischen den Flotten der Turken und Genuesen unter Andreas Doria.
+
+geb.zu Haarlem 1566;↑ daselbst 1640.
+
+Reich componirtes Bild von dunkler Firbung.
+
+## Wallaert, P.,
+
+Leinwand. Hohe 100,Breite 136 Cent.
+
+Lebensdaten unbekannt.
+
+- 260 Landschaft. Flache Gegend mit breitem, bis zum Vorgrunde hinziehendem Wege, auf dem zwei Manner bei einer sitzenden Frau. Links vor einer Baumgruppe ein niedriges Bauernhaus.
+
+Leinwand. Hohe 26,Breite 33 Cent.
+
+Gutes Bild von ansprechendem Colorit. Bezeiehnet:P.Wallaert. Prov. Sammlung der Konigin Desideria.
+
+## Watteau, Antoine (Schule).
+
+Hubsches Bild von guter Farbung. Prov. Lifmed Ahlberg No. 41.
+
+- 261 Im Park. Unter einem Baume sitzt ein vornehmes Paar, die Dame die Guitarre spielend; hinter ihnen ein zweites Paar.
+
+Leinwand.Hohe 30,Breite 38 Cent.
+
+- 262 Der Spaziergang. In einem Parke ein junges Paar, lustwandelnd, und am Boden sitzend ein zweites im Gesprache.
+
+Leinwand. Gleiche Grosse.
+
+Holz. Hohe 58,Breite 41 Cent.
+
+Gegenstick zum Vorigen. Gleiche Ausfuhrung.Dieselbe Provenienz No.42.
+
+## Wertinger, Hans,
+
+- 263 Niklas Praun, Birger von Nurnberg. Huftbild in Pelzmantel. Er halt die Hande vorne zusammengelegt und das mit Schnurr und Kinnbart geschmickte Haupt deckt ein schwarzes Kappchen. Oben die Inschrift: An'aeta′34—1539 mens janvari. H.W. Interessantes Bild. Prov. Sammlung Galimberti, sodann Karl's XV.
+
+## Westin,Frederik,Prof.,
+
+Bildnissmaler des XVI. Jahrh.
+
+geb.zu Stockholm 1782;1862.
+
+- 264 Die Geburt der Venus. In einer aus dem Meere emporgestiegenen Muschel kniet die Gottin, umgeben von fliegenden und auf Delphinen reitenden Amoretten.
+
+Leinwand. Hohe 63,Breite 50 Cent.
+
+Vortreffliches Bild von weicher Behandlung und sehr guter Farbung.Bezeichnet:Westin pinx.1846. Prov. Sammlung Oscar's I.
+
+- 265 Amor und Psyche. Der gefugelte Amor liegt schlafend auf dem Ruhebette und wird von Psyche,die in der Rechten eine Lampe halt,neugierig betrachtet.
+
+Sehones Bild von trefflicherFurbung.Bezeichnet:Westin pinx.1848.Prov. Sammlung Konig Oscar's I. Leinwand.Hohe 63,Breite 50 Cent.
+
+- 266 Die Verklarung Christi. Der Heiland mit den beiden Propheten in der Wolke schwebend und an der Erde die drei Junger.
+
+Skizze zu dem in der St.Jacobskirche in Stockholm gefertigten grossen Altargemilde. Leinwand.Hohe 122,Breite 63 Cent.
+- 267 Konigin Desideria.
+
+## Wett, Johann de,
+
+geb.zu Hamburg 1630.
+
+## W.H.monogrammirt.
+
+Wirkungsvolles Bild von trefflicher Erhaltung. Bezeichnet:W.H. 1649. Prov. Sammlung Aman No.14.
+
+## Willaerts,Adam,
+
+- Moses lasst Wasser aus dem Felsen entspringen. In einer dunklen Hohle eine Menge Israeliten, den ersehnten Trank schopfend, und in der Ferne das heranziehende Volk. Reiche Composition von vortrefflichem Rembrandtschen Colorit und feiner Ausfuhrung. Prov.
+
+Holz. Hohe 44,Breite 53 Cent.
+
+- 268 Ritterportrait. Hinter einem Tische steht derselbe, zur Halfte sichtbar; er stitzt den mit rothem Federhut bedeckten Kopf in die Linke und liest den Inhalt eines Briefes,den seine Rechte halt.
+
+Holz. Hohe 82,Breite 58 Cent.
+
+geb.zu Antwerpen 1577;nach 1666.
+
+- 2691 Marine. Ueberaus steile zerkliftete Seekuste, an der ein Schiff im Sturm zerschellt und dessen Insassen sich zu retten suchen;in der Ferne einige andere grossere Sehiffe. Nachtstimmung.
+
+Vortreffliches Bild von detaillirter Ausfihrung und guter Farbung. Bezeichnet W.F.1603.
+
+Leinwand.Hohe 97,Breite 202 Cent.
+
+- 270 Der Brand von Troja. Eine grosse Anzahl Personen belebt die vom Brande heimge-
+
+Lebendig componirtes Bild von vortreflichen Effeeten. Bezeichnet W.F. 1607. Gegenstick zum
+
+- suchte Stadt,in der links Aeneas seinen Vater Anchises auf der Schulter tragend.
+
+Vorigen.
+
+Leinwand. Gleiche Grosse.
+
+- Flusslandschaft. Mit Gebiuden reich besetzte Ufer eines sich bis zum Vorgrunde hinziehenden,von Nachen und Schiffen belebten Flusses. Rechts einige Leute mit dem
+- 271 Entladen eines Bootes beschaftigt und drei Bauern bei einem Lastthiere.
+
+Sehones Bild von klarer Farbung. Prov. Graf von Fersen-Gylldenstolpe.
+
+## Wit, Jacob de,
+
+geb.zu Amsterdam 1695.
+
+- 272 Stillleben. Auf einem mit weisser Decke belegten Tische stehen und liegen in huibscher Anordnung silberne Schenkkanne, Glaspokal, Schinken,Nisse,Teller mit Brod etc.
+
+Gutes Bild von heller Firbung.Prov. Sammlung Dr.Colins.
+
+## Witte,Emanuel de,
+
+geb.zu Alkmaar 1607; 1692.
+
+- 273 Architekturbild. Inneres einer mehrschiffgen hohen Kirche mit Blick auf ein Grabdenkmal, das mit Gitter umziumt ist und von mehreren Personen besichtigt wird.Vorne
+- eine sitzende Frau mit Kind und zwei sich nachlaufende Hunde.
+
+Treffliehes Bild von guter Perspective und ansprechender Furbung.Prov.Sammlung Dr. Colins. Leinwand.Hohe 91,Breite 73 Cent.
+
+Holz.Hohe 60,Breite S3 Cent.
+
+Holz. Hohe 59,Breite 90 Cent.
+- 278
+
+## Zampieri,Domenico,genannt Domenichino,
+
+geb.zu Bologna 1581;zu Neapel 1641.
+
+- 274 Consummatum est. Der todte Erloser, am Kreuz hangend, an dessen Fuss die wei nenden Frauen und Johannes.
+
+Gutes Bild von bester Erhaltung. Prov. Sammlung Graf dErizzo in Venedig. Oben gerundet. Leinwand.Hohe 70,Breite 39 Cent.
+
+- 275 Kleopatra.Dieselbe,in Halbfgur dargestellt, sitzt,den Oberkorper entblosst,entseelt auf ihrem Lager. Vor ihr eine entsetzt sie anschauende Dienerin.
+
+Effektvolles Bild von guter Lichtwirkung. Prov. Sammlung Excell. Lagerheim No. 31.
+
+Leinwand.Hohe 92,Breite 77 Cent.
+
+## Portraits.
+
+- 276 Elisabeth, Konigin von Preussen, Gemahlin Konig Friedrich Wilhelm's IV., Brustbild en face,in blauem Kleide und Pelzmantel.
+
+Schones Bild.Bezeichnet:A.G
+
+Holz.Hohe 20,Breite 16 Cent.
+
+- 277 Georg II., August, Konig von England, Kurfurst von Hannover. Ganze Figur, in Lebens grosse dargestellt, auf dem Thronsessel sitzend, in grosser Gala, geschmickt mit den St.Georgsorden.
+
+Superbes Bild von uberaus prachtiger Farbengebung und brillanter Erhaltung.
+
+Leinwand. Hohe 190,Breite 118 Cent.
+
+- Georg Ill. (Wilhelm Friedrich), Konig von Grossbritannien und Kurfurst von Hannover. Brustbild, nach links gewandt, in geblumtem grauen Rocke, geschmickt mit dem Stern zum Hosenband-Orden und breiter, blauer Seharpe. Das glatte Gesicht en profil.
+
+Schones,gut erhaltenes Bild.
+
+Kupfer. Hohe 33,Breite 27 Cent.
+
+- 279 Louis XIV. von Frankreich. Derselbe sitzt in voller Rustung, den Kommandostab in Sehr gutes Bild von feissiger, feiner Ausarbeitung. Prov. Sammlung Karl's XIV., Johann.
+- der Rechten, auf dem Pferde, das nach rechts schreitet.In der Ferne Ansicht von Paris. Leinwand,Hohe 57,Breite.49 Cent.
+- 280 Jean d'Orleans, Herzog von Dunois. Brustbild, in schwarzem Pelzmantel und schwarzer
+
+Holz.Hohe 33,Breite 23 Cent.
+
+- Mutze; das glatte Gesicht nach rechts gewandt. Oben links die Inschrift: Conte de Dunois. Sehr gutes Bild von trefflicher Erhaltung. Prov. Sammlung der Konigin Desideria.
+- 281Philipp,Herzog von Orleans. Huftfigur, in rothem,mit dem Stern zum heiligen GeistOrden geschmicktem Rocke und dunklem Mantel-Ueberwurf. Die Brust schmuickt ein
+- breites Ordensband und den Kopf deckt eine grosse Pericke.
+
+Interessantes Bild.Prov.Sammlung Karl’'s XIV.,Johann.
+
+Leinwand. Hohe 85,Breite 64 Cent.
+- 282 Charles de Gontaul, Herzog von Biron. Brustbild, in Harnisch mit breiter weisser Scharpe,blauem Ordensbande und weissem Umlegekragen. Das frische, mit Vollbart gezierte Gesicht aus dem Bilde gewandt.
+
+Gutes Bild von frischem Farbenauftrag.Prov. Sammlung Karl's XlV.,Johann.
+
+Leinwand. Hohe 53,Breite 45 Cent.
+
+- 283 Marechal Turenne. Brustbild,in Harnisch mit grosser, weisser Spitzenschleife und langem schwarzen,iber die Brust herniederfallendem Haar.
+
+Vortreffliches Bild von eleganter,vornehmer Auffassung und schoner Ausfuhrung. Prov. Samm- lung Karl's XIV., Johann.
+
+Oval.Leinwand. Hohe 54,Breite 45 Cent.
+
+- 284 Graf Ulrich Friedrich Waldemar von Leewendal. Brustbild in Lebensgrosse, in gruinem Pelzrocke, der geschmickt mit dem Stern zum heiligen Geist-Orden. Das frische, glatte Gesicht dem Beschauer zugewendet.
+
+Gutes Bild. Prov. Sammlung Karl's XIV.,Johann.
+
+Leinwand. Hohe 62, Breite 52 Cent.
+
+- 285 Charles de Lorraine. Brustbild, in schwarz-weiss gestreiftem Gewande mit blauem Ordensbande und weissem Umlegekragen. Oben links das Wappen.
+
+Schones Bild von vorziglicher Ausfihrung. Prov. Sammlung Karl's XIV., Johann.
+
+Oval.Leinwand.Hohe 56,Breite 45 Cent.
+
+Bischofsgewande, das geschmickt mit dem Orden vom heiligen Geist an blauem Bande.
+
+- 286 Jacques Amyot, Bischof, Lehrer der Kinder des Konigs Heinrich I. Brustbild, im Oben links sein Wappen.
+
+Trefflich ausgefihrtes Bild von guter Erhaltung. Prov. Sammlung Karl's XIV., Johann. Oval.Leinwand. Hohe 56,Breite 45 Cent.
+
+- 287 Graf G.von Estrades. Brustbild,in Harnisch,mit breiter blauer Scharpe, Spitzencravatte und grosser, brauner Allongepericke. Links oben ein Theil seines Wappens. Gutes Bild. Prov. Sammlung Karl's XIV., Johann.
+
+Leinwand. Oval. Hohe 52,Breite 42 Cent.
+
+- 288 Charles-Louis-Auguste Foucquet, Herzog von Belle-Ile. Profl-Brustbild in blauem gestickten Rocke und Brustharnisch, der geschmuckt mit dem Orden vom goldenen Vliess an breitem rothen Bande.
+
+Sehr schones Bild von feissiger Durchfihrung und gut in der Farbe und Erhaltung. Prov. Sammlung Karl's XIV. Jobann. Leinwand. Hohe 60, Breite 52 Cent.
+
+- 289 F. L. de Nogaret-La Valette. Brustbild, nach rechts, mit weisser Pericke und weissem Spitzbart; um den Hals tragt er einen mit breiter Spitze besetzten Umschlagekragen. Links oben sein Wappen.
+
+Schones, gut erhaltenes Bild. Prov. Sammlung Karl's XIV., Johann.
+
+Leinwand. Hohe 44,Breite 35 Cent.
+
+- Moliere. Brustbild des Dichters,in Dreiviertel-Wendung nach rechts dargestellt, mit weisser geblimter Weste und lang herabfallendem Haar. Das nur mit sparlichem Schnurr-
+- 290 bart gezierte Gesicht ist dem Beschauer zugewandt.
+
+Interessantes Bild von guter Erhaltung. Prov. Sammlung Karl's XIV., Johann.
+
+Leinwand. Hohe 35,Breite 32 Cent.
+- 291 Cornelis de Witt, Halbfgur, in schwarzer Kleidung und mit langem braunen Haar hinter einer Bristung stehend, auf welche er den rechten Arm gelegt hat. Interessantes Bild. Prov. Sammlung Brogren.
+- 292 Frau de Witt. Gemahlin des Vorigen. Halbfigur, en face, in schwarzer Kleidung; das Haar in Ringellocken und die Hande vorne ibereinander gelegt. Gegenstick zum Vorigen. Ebenso.
+
+Holz.Hohe 22,Breite 18/ Cent.
+
+Holz. Gleiche Grosse.
+
+Holz. Hohe 24,Breite 18 Cent.
+
+- 293 Dr. Martin Luther. Halbfigur, im Predigergewande,nach rechts gewandt und mit beiden Handen die Bibel haltend. Oben rechts die Inschrift:D. Martin Luther.
+- 294 Catharina Bora. Halbfigur der Gattin Luthers, in ailtern Jahren dargestellt und bekleidet
+- mit schwarzem Gewande. Oben links die Inschrift: Katharina Lutherinn. Gegenstick zum Vorigen.
+
+Holz. Gleiche Grosse.
+
+- 295 Henri de Montmorency. Brustbild, in braunem Rocke und mit weissem Umlegekragen. Die Brust schmickt ein blaues Ordensband und das Gesicht mit kurz geschnittenem weissen Haupt- und Barthaar und den etwas schielenden Augen ist seitwarts gewendet.
+
+Sehr interessantes gutes Bild von superber Erhaltung. Prov. Sammlung Karl's XIV., Johann. Leinwand.Hohe 46,Breite 38 Cent.
+
+Leinwand. Hohe 75,Breite 58 Cent.
+
+- Oben links sein Wappen.
+- 296 Madame Mancini. Brustbild der stark decollettirten jungen Dame mit blauem MantelUeberwurf. Die Linke liegt auf der Brust und in der Rechten halt sie eine Perle. Gutes Bild yon schoner Farbung.
+- 297 L. de Berton de Crillon (le Brave). Brustbild, en face, in Harnisch und mit breitem weissen Umschlagekragen. Das bleiche Gesicht ziert ein weisser Schnurr- und Spitzbart. Oben links sein Wappen.
+
+Leinwand. Hohe 46,Breite 35 Cent.
+
+Interessantes Bild.Prov.Sammlung Karl's XIV.,Johann.
+
+- Brustbild eines franzosischen Prinzen, en profl, in braunem Gewande und rothem, mit Hermelin gefutterten Mantel; das Gesicht ist dem Beschauer zugewendet und den Kopf schmtickt eine Federmitze und ein Lorbeerzweig.
+
+Superbe ausgefuihrtes Bild von vornehmer Auffassung und bester Erhaltung. Prov. Sammlung Karl's XIV., Johann.
+
+Leinwand. Hohe 78,Breite 63 Cent.
+
+- 299 Augsburger Patrizier. Brustbild, en face, bekleidet mit schwarzem Gewande und weissem Umlegekragen; das Haupt mit langem weissen Haar und Spitzbart; die Linke halt die Handschuhe.
+
+Holz.Hohe 32,Breite 23 Cent.
+
+- 300 Mannliches Bildniss. Huftigur eines wohlbeleibten Rathsherrn in schwarzem Schlitzrmel-Gewande und mit grosser weisser Perucke. Die Brust schmickt eine goldene Kette mit grosser Minze und die Rechte halt die Lederhandschuhe.
+
+Sehr schones Bild von treflicher Ausfuihrung. Prov. Sammlung Galimberti und Konig Karl's XV Leinwand. Hohe 84,Breite 66 Cent.
+
+- 298
+- 301 Weibliches Bildniss. Brustbild eines jungen Madchens in der Tracht einer sidlandischen Braut,mit rothem Brustlatz,weissem Radkragen und rothem Kopfputz.
+
+Holz.Oval.Hohe 33,Breite 28 Cent.
+
+Interessantes Costimbild.
+
+- 302 Mannliches Bildniss. Brustbild eines Ritters in grau-grinlichem Schlitzwamms mit hohem,mit weisser Rusche besetztem Kragen. Das Gesicht mit sparlichem Bartwuchse ist etwas nach rechts gewandt.
+
+Leinwand. Hohe 63,Breite 52 Cent.
+
+## Unbekannte Meister.
+
+- 3031 Madonna mit Kind. In einem Thronsessel sitzend, iber ihr der hl. Geist in Gestalt einer Taube,ist dieselbe umgeben von einer zahlreichen Kinderschar, die allen nur moglichen Beschaftigungen nachgeht.
+
+Interessantes Bild von lebendiger Composition. Prov. Bischof Tahlerantz 48.
+
+Holz.Hohe 56,Breite 71 Cent.
+
+- 304 Die Taufe der Kaiserin Constantia. Bei einem Portale vollzieht ein Bischof, umgeben von Wurdentragern,die Taufe an der Furstin, die vor ihm kniet. Rechts diese auf einem Grabhigel liegend,iber dem ein schwebender Engel mit der Inschrift: Constantia, crede et sanaberis.
+
+Emailartig behandeltes,farbenprachtiges Bild.
+
+Kupfer. Hohe 29,Breite 37 Cent.
+
+- 305 Die hl. Cacilia. Das Haupt mit Blumen bekranzt, sitzt die Heilige bei ihrer Orgel und schaut —ihr Spiel ausibend —verklarten Blickes nach oben.
+
+Leinwand. Hohe 96,Breite 79 Cent.
+
+Dunkel gehaltenes Bild von innigem Ausdruck.
+
+- 306 Die Stadt Hamburg um 1600. Starkbefestigte Walle umgeben die grosse Stadt, aus deren Hausermeer hohe Kirchengebaude emporsteigen; der Vorgrund ist reich staffirt mit Figuren,Fahrzeugen und Schlitten.
+
+Leinwand. Hohe 91,Breite 160 Cent.
+
+Sehr interessantes Bild von reicher Composition. Prov.Marschall Bernadotte, der das Bild 1806 aus Hamburg cntnahm;spater Konigin Desideria.
+
+- 307 Ansicht von Rom. Partie mit der Tiberbricke und Ausblick auf die Kirche St. Angelos. Prov. Sammlung Martelli in Rom,die Gustaf IIl.erwarb.
+
+Leinwand. Hohe 62,Breite 92 Cent.
+
+- 308 St.Augustinus. Halbfigur des Heiligen im Bischofsornat, Buch und Stab haltend.Neben ihm der Knabe.
+
+Gut erhaltenes Bild.
+
+Holz. Hohe 171/e,Breite 121/ Cent.
+
+- 309 Landschaft. Parkahnliche Gegend, in der links ein machtiger Saulenbau mit TreppenAufgang. In der Ferne Waldlandschaft mit Ruine. Figurenstaffage.
+
+Holz. Hohe 1S1/2,Breite 24 Cent.
+
+Schones Bild von trefflicher Farbung. Prov. Sammlung der Konigin Desideria.

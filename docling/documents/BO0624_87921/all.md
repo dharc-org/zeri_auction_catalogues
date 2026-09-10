@@ -1,0 +1,1160 @@
+- 1.PferdimStall.
+
+Scheckiges Zugpferd in landlichem Stall. Pappe. Hohe 26 cm, Breite 33 cm.Goldrahmen. Auf der Ruckseite Bleistiftstudien:Figur eines Blechwarenhausierers und zwei Kopfe zu diesem Typus.Da neben geschriebener Entwurf eines Briefes.
+
+## JOHANN CANON (Johann von Straschiripka)
+
+geb.1829 in Wien, gest. 1885 daselbst.
+
+- 2.Studienkopf.
+
+Italienerin. Brustbild. Dreiviertelprofl nach links.
+
+Leinwand.Hohe 34,5 cm,Breite 30,5 cm.Schwarzer Rahmen. Aus dem Besitze Wladimir von Swertschkoffs in Schleissheim, fur den Canon 1866/67 tatig war.
+
+## LOVIS CORINTH
+
+Berlin.
+
+- 3.Feierabend.
+
+Landliches Interieur. An einem Fenster, durch das man in einen Garten blickt, sitzt eine einfach gekleidete Alte,ein offenes Buch,wohi eine Bibel,mit den ineinandergelegten Handen auf den Knieen haltend. Neben ihr liegt ein weisser Pintscher, vor ihr steht eine Flachshaspel.
+
+Oben rechts bez.Lovis Corinth 1887.
+
+Abbildung Tafel 2. Bemerkenswert auch durch die sehr fruhe besondere Schreibung des Vornamens.
+
+Holz.Hohe 47cm,Breite 32cm.Goldrahmen.
+
+## JOSEPH CORREGGIO
+
+geb. 1810 in Wolfratshausen, gest. 1891 in Munchen.
+
+- 4.Schnapphahne.
+
+Auf Wiesengelande galoppieren zwei berittene Landstreicher im Habitus der verkommenen Soldateska des 17. Jahrhunderts, ein geraubtes Kalb hinter sich her ziehend. Im Hintergrund die die Verfolgung aufnehmenden Bauern. Die Fassade des einsamen Gehoftes schliesst die Szene.
+
+Holz.Hohe 17,5 cm,Breite 22,5 cm.Schwarzer Rahmen.
+
+## WILHELMVONDIEZ
+
+geb.1839 in Bayreuth,gest.1907 in Munchen.
+
+Unten links bez.
+
+- 5.Raubritter.
+
+Durch Gestripp und Baumschlag verdeckt,haben Raubritter einem Warentransport aufgelauert. Im Vordergrund rennt der geharnischte Ritter mit geschlossenem Visier und eingelegter Lanze den berittenen Begleiter des hochbepackten Wagens nieder. Im Hintergrunde werden andere Kaufleute iberwaltigt. Sommerstimmung mit teilweise bewolktem Himmel.
+
+## FRANZ ADAM
+
+geb.1815 in Mailand, gest. 1886 in Munchen.
+In Mittelhohe des Bildes links bez. W. Diez.
+
+Ein wertvolles Dokument der Kunst des grossen Meisters. Das Bild der Vorderseite mit den prachtigen Pferden und der echt Diezschen Pointe stillen Humors - dem wie geprellt am Boden liegenden,wohl schon durch den Schreck matt gesetzten Kramer -reprisentiert aufs beste das vom Meisler so sehr bevorzugte Stoffgebiet,seine Sehilderung der Raubritterromantik.--Das Bild der Ruckseite ist dem anderen ebenburtig:kesk hingeworfen, dabei von kostlicher Frische und von echt Diezschem Realismus.
+
+Auf der Ruckseite eine Reiterfigur zu Pferd (Bona parte als Kon su l) mit Lagerstaffage (Generalitat und Truppen). Abbildung Tafel 1. Pappe. Hohe 21,5 cm,Breite 30,5 cm.Schwarzer Rahmen.
+
+## MAXGAISSER
+
+lebt im Ausland.
+
+- 6.Raucher.
+
+Hollandischer Kavalier im Kostum des 17.Jahrhunderts in einem Raume, dessen Wande mit blauweissen Fliessen getafelt sind. Halbfigur,im Profl nach links,zu einem Fenster hinausschauend.Die Rechte halt eine kleine Tonpfeife.
+
+Holz. Hohe 17 cm,Breite 13 cm. Schwarzer Rahmen.
+
+Unten rechts bez. M. Gaisser.
+
+## AUGUST CHRISTIAN GEIST
+
+geb.1835 in Wurzburg,gest.1868 in Munchen.
+
+- DerStarnberger See.
+- S.Greisenbildnis.
+- 7.
+
+Im Vordergrunde Wiesengelande mit einer Baumgruppe links,im Mittelplan der Spiegel des Sees,rechts Architektur. Das Gebirge schliesst die Szene. Im Vordergrunde figurliche Staffage. Pappe.Hohe 12 cm,Breite 17,5 cm.Goldrahmen.
+
+## MARKUS GRONVOLD
+
+Munchen.
+
+Ein freundlicher Alter mit langem weisscm Vollbart, in armlicher Kleidung, en face, sitzend. Die rechte Hand umschliesst eine Anzahl Nisse, die linke halt eine Zange; ein mit Nussen gefillter Sack charakterisiert den Alten als Nusshandler.
+
+Leinwand.Hohe 49,5 cm,Breite 39 cm.Schwarzer Rahmen.
+
+Oben rechts bez.u. dat.1894.
+
+## GABRIEL VON HACKL
+
+Munchen
+
+9. Madchenam Herd.
+
+Junges Landmadchen, traumerisch am Herd sitzend,eine Rose in der linken Hand haltend. Unten links bez. Pappe. Hohe 25,5 cm,Breite 18 cm.Schwarzer Rahmen.
+
+## JOSEPH HAHN
+
+geb.1839 in Munchen, gest.1906 daselbst.
+
+- 10.Am Chiemsee.
+
+Blick iber den See gegen Suden auf das dunstverhangene Gebirge. Aufziehende Wetterwolken unter losen Wolken.
+
+Unten rechts bezeichnet (hinten datiert 02).
+
+Leinwand.Hohe 17,5 cm,Breite 32 cm. Schwarzer Rahmen.
+
+## EDMUND HARBURGER
+
+geb.1846 in Eichstatt, gest.1906 in Munehen.
+
+- Knabenbildnis.
+
+Brustbild eines blonden Knaben in weissem Gewand, Profl nach links.
+
+Links in der Mitte bez. E.H.
+
+Holz.Hohe 20,3 cm,Breite 14 cm.Goldrahmen.
+
+- 11.
+- 12.Idylle.
+
+In blumiger Wiese liegt ein blonder Knabe bauchlings auf dem Rasen, die Ellbogen auf gestitzt, blast er auf einer einfachen Hirtenfote. Neben ihm sitzt ein blumenbekranztes blondes Madchen. Eine Ziege staffiert die arkadische Idylle.
+
+Unten rechts bez.
+
+- 13.Kinderbildnis.
+
+Ein Bauernmadchen. Der Kopf en face, der Korper im Dreiviertelprofl nach links.
+
+Links unten bez. Leinwand. Hohe 37 cm,Breite 31 cm.Sehwarzer Rahmen.
+
+## CARL HEFFNER
+
+Freiburg.
+
+Leinwand. Hohe 28 cm,Breite 48 cm.Goldrahmen.
+
+- 14.Landschaft.
+
+Wiesengelande mit weitem Fernblick, rechts und links Waldung,im Vordergrunde links ein Wassertuimpel, rechts vor dem Baamschlag ein Bauernhauschen. Fruihlingsstimmung. Leicht bewolkter Himmel. Figurliche Staffage im Mittelplan.
+
+Pappe.Hohe 14 cm,Breite 21,5 cm. Schwarzer Rahmen.
+
+Unten links bez.
+
+15. Landschaft mit Windmuhlen.
+
+Ein niederer Hohenzug verliert sich irn Flachland, das Haidecharakter zeigt.Im Vordergrunde ein Wassertuimpel, am Fusse des Hohenzuges ein Gehoft, durch einzelne Birken hibsch staffiert. Auf der Hohe und am Horizont Windmihlen. Aufziehendes Wetter. Am Wassertimpel figirliche Staffage.
+
+Holz.Hohe 14,5 cm,Breite 25,5 cm.Schwarzer Rahmen.
+
+Pappe. Hohe 14,5 cm, Breite 21,5 cm. Schwarzer Rahmen.
+
+Unten links sign.
+
+- 16.AbendimPark.
+
+Grosser Weiher, fankiert von Parkstaffage, die Abendrote spiegelnd. Unten links bez.
+
+## FRANK HERRMANN
+
+Munchen.
+
+- 17.Dunenlandschaft.
+
+Motiv aus Holland. Skizze.
+
+Holz.Hohe 23 cm, Breite 32 cm. Schwarzer Rahmen.
+
+## LUDWIG HERTERICH
+
+Munchen.
+
+18. Susanna.
+
+Vor Baumschlag die Halbfigur des erschreckten Weibes. Der nackte Korper erhalt in
+
+Oben rechts bez.
+
+Abbildung Tafel 2.
+
+- 19.Baumgruppe.
+
+Auf Wiesengelande mit Wassertuimpel im Vordergrunde links eine alleemassig gepflanzte Gruppe alter Baume, dabei ein abgestorbener, reich verasteter Baum, vor dem umzogenen Himmel eines heissen Sommertages.
+
+Unten links bez.
+
+## CARL HARTMANN
+
+Munchen.
+
+Holz.Hohe 48,5 cm,Breite 38 cm.Goldrahmen.
+
+## LUDWIG FRIEDRICH HOFELICH
+
+geb. 1842 in Leipzig, gest.1903 zu Munchen.
+
+Pappe.Hohe 35,5 cm,Breite 48 cm.Schwarzer Rahmen.
+- 21.
+
+## JOHANN BAPTIST HOFNER
+
+Aresing bei Schrobenhausen.
+
+20. Aus dem Minchner Englischen Garten.
+
+Rickseite eines Wirtschaftsgebaudes beim Chinesischen Turm, staffiert durch prachtigen Baumschlag. Im Vordergrunde Huihner.
+
+(Gemalt 1863.)
+
+Leinwand.Hohe 51 cm,Breite 42 cm.Schwarzer Rahmen.
+
+## AUGUST HOLMBERG
+
+Munchen.
+
+- Damenbildnis Louis XVI.
+
+Ganze Figur einer jungen, leicht gepuderten Dame in gruner Seidenrobe und grossem, fachen, blumengeschmickten Hut.
+
+Holz.Hohe 25 cm,Breite 17 cm.Geschnitzter Goldrahmen.
+
+Unten links bez.und dat. 96.
+
+## FRIEDRICH AUGUST VON KAULBACH
+
+22. DamemitHund.
+
+Munchen.
+
+Vor landschaftlicher Staffage steht in ganzer Figur eine junge Dame im reichen Kostum des 17. Jahrhunderts (Krose etc.),neben ihr ein grosser Hund (Dogge).
+
+Abbildung Tafel 3.
+
+Unten links bez.
+
+In der Vornehmheit der Auffassung, der geistreichen Charakteristik und der Feinheit des koloristischen Geschmacks eine fir den Meister sehr charakteristisele Skizze,
+
+Pappe.Hohe 37 cm,Breite 19,5 cm. Geschnitzter Goldrahmen.
+
+## HERMANN KAULBACH
+
+geb.1846 in Munchen, gest. 1910 daselbst.
+
+23. Kostumstudie.
+
+Junge Dame, ganze Figur, stehend, in der reichen franzosischen Hoftracht des 16. Jahrhunderts.
+
+Abbildung Tafel 3.
+
+Unten links bez.
+
+- 24.Judith.
+
+Leinwand. Hohe 45 cm,Breite 27 cm. Goldrahmen.
+
+## ALBERT VON KELLER
+
+Munchen.
+
+Erhobenen Hauptes, langsam nach links schreitend, steht die stolze, rotblonde Frauen-
+
+Unten links bez.
+
+gestalt, in der gesenkten Rechten das Schwert, mit der Linken das rote, enganliegende, die Bruste und Arme freilassende Gewand in Brusthohe haltend,vor dem in den ersten Farben der Morgendammerung leuchtenden Himmel und dem noch im nachtlichen Dunkel liegenden Lager.
+
+Abbildung Tafel 4.
+
+Werk des Meisters.
+
+Geistreiche Durchfuhrung des interessanten Vorwurfs, brillant in der Farbe, ein sehr bemerkenswertes
+
+Leinwand. Hohe 111 cm,Breite 49 cm. Goldrahmen.
+
+## FERDINAND KNAB
+
+25. Abendstimmung.
+
+geb. 1837 in Wurzburg, gest.1902 in Munchen.
+
+Landschaft mit Felsenkulisse rechts, durch Baumschlag, der die Szene schliesst, leuchtet die intensive Glut eines prachtigen Sonnenunterganges.
+
+Unten rechts bez.und dat.1887.
+
+Holz. Hohe 23 cm,Breite 47 cm.Schwarzer Rahmen.
+28. Pferdestudie.
+
+## JOHANN GOTTHARD KUHL
+
+26. Madchen mit Service.
+
+Dresden.
+
+In einem Vorraum (Treppenhause) steht ein Dienstmadchen, ein grosses silbernes KaffeeBeleuchtung.
+
+Leinwand.Hohe 37 cm,Breite 29 cm. Schwarzer Rahmen.
+
+Unten in der Mitte bez. Abbildung Tafel 5.
+
+27. Interieur.
+
+Rot bezogenes Sopha vor einer mit Gemalden behangenen Wand. Auf einem der an der Wand hangenden Bilder bez.
+
+Pastell. Hohe 36 cm, Breite 45,5 cm. Weisser Rahmen.
+
+## HEINRICH LANG
+
+geb.1838zu Regensburg, gest.1891 in Munchen.
+
+Braunes Pferd in Seitenansicht nach rechts,auf Wiesengelande.
+
+Unten links bez. und dat. Dillingen 82.
+
+Leinwand. Hohe 20,5 cm,Breite 23 cm.Brauner Rahmen.
+
+## DIETRICH LANGKO
+
+geb. 1819 in Hamburg, gest. 1898.
+
+29. Bergsee.
+
+Waldungen, iberragt von einer Gipfelkette des Hochgebirges. Sommerstimmung. Leicht bewolkter Himmel. Leinwand. Hohe 29 cm,Breite 39 cm.Schwarzer Rahmen.
+
+## ANTON LAUPHEIMER
+
+Munchen.
+
+- 30.Lesender Greis.
+
+puzengewand (Kapuzinertracht, doch hat er keine Tonsur). Er liest in einem Gross-OktavBand. Ein Tintenfass, Gansefeder und Papier befinden sich auf dem Tische.
+
+Unten rechts bez.u.dat.96. Leinwand. Hohe 44cm,Breite 36,5 cm.Schwarzer Rahmen.
+
+## FERDINAND LEEKE
+
+Traudtmannsdorf bei Meran.
+
+- 31.Politiker.
+
+Interieur einer Volkskneipe. Masskrige deuten auf bayerisches Milieu. An der Wand ein gerahmtes Bismarckportrat. Ein alterer Mann,Arbeitertypus, debattiert leidenschaftlich mit einem jungeren, seine Ausfilrungen durch den Hinweis auf eine Zeitungsnotiz stuitzend. Ein dritter Gast hort phlegmatisch zu, der Wirt zeigt eine skeptisch-ablehnende Haltung.
+
+Unten rechts bez. Holz. Hohe 38 cm,Breite 46 cm.Schwarzer Rahmen.
+
+## FRANZ VON LENBACH
+
+geb.1836 in Schrobenhausen, gest.1904 in Munchen.
+
+32. Florentinerin.
+
+Bildnis einer blonden Dame in dunkelgriner Robe im Renaissancegeschmack. Huftstick, en face, entblosste Buste,neutraler Hintergrund.
+
+Oben rechts bez.und dat.1903.
+
+Abbildung Tafel 6. Leinwand.Hohe 99 cm,Breite 70,5 cm.Goldrahmen.
+
+Schones Frauenbildnis, den besten Werken des Meisters zuzuzahlen
+- 33.Studienkopf.
+
+Brustbild eines Kapuziners mit blondem Vollbart, en face.
+
+Oben rechts bez.
+
+Abbildung Tafel 7.
+
+Leinwand.Hohe 44,5 cm, Breite 36,5 cm. Schwarzer Rahmen.
+
+Auf die Ruckseite der Leinwand vom Meister eigenhandig geschrieben:Franz Lenbach ohngefahr 1863.
+
+## WILHELMLICHTENHELD
+
+geb. 1817 in Hamburg, gest. 1891 in Munchen.
+
+34. Mondscheinstimmung.
+
+Strasse einer kleinen deutschen Ortschaft. Vorne links ein schmucker Backsteinbau, rechts durch Hecken und Baumschlag verdeckte Architektur. Auf der Strasse der Nacht- wachter.
+
+Unten in der Mitte monogrammiert und datiert 1850.
+
+Hubsches Motiv im Geiste Spitzwegs.
+
+Holz. Hohe 26,5cm,Breite 20 cm. Schwarzer Rahmen.
+
+## RICHARD LINDERUM
+
+Munchen.
+
+- 35.Studienkopf.
+
+Greiser Dominikaner im Brustbild, Profl nach links.
+
+Oben links bez. und dat. Munchen 04.Holz. Hohe 23,5 cm, Breite 17,5 cm. Schwarzer Rahmen.
+
+- 36.Desgleichen (Pater Kellermeister).
+
+Kapuzinerpater mit ergrautem Vollbart, im Brustbild, Profl nach rechts, aus dem Bilde blickend,im Begriffe,einen dickbauchigen kupfernen Weinkrug zum Munde zu fuihren.
+
+Holz. Hohe 24 cm,Breite 17 cm. Schwarzer Rahmen.
+
+Oben rechts bez. und dat. 04.
+
+## LUDWIG VON LOFFTZ
+
+Munchen.
+
+- 37.Studienkopf.
+
+Brustbild eines jungen Weibes, sidlandischer Typus, en face.
+
+Unten links bez. und dat. 75.
+
+Abbildung Tafel 7.
+
+Tempera.Leinwand. Hohe 43 cm,Breite 34 cm. Schwarzer Rahmen.
+
+## ERNST ADOLPH MEISSNER
+
+geb. 1837 in Dresden, gest.1902 in Munchen.
+
+38. Erntebild.
+
+Haferfeld mit Schnittern.
+
+Unten rechts bez.
+
+39. Zigeunermadchen.
+
+Unten rechts bez
+
+Pappe. Hohe 17 cm, Breite 30 cm. Schwarzer Rahmen.
+
+## WILHELM MENZLER
+
+Munchen.
+
+Halbfgur eines jungen Madchens. Das volle rotblonde Haar, das reich mit Blumen geschmickt ist,hangt iber die Schulter auf die Brust, die das einfache, dirftige Gewand entblosst lasst. Die Rechte halt einen Bischel Feldblumen, die Linke ist mit der Geste des Ueberuber die linke Achsel gewandt, spiegelt erschrecktes Staunen.
+
+Holz.Hohe 49 cm,Breite 29 cm.Schwarzer Rahmen.
+- 40.OnkelBrasig.
+
+Auf der Bank,die um den Kachelofen lauft, sitzt der gemitliche,dicke Alte, zwei kleinen blonden Madchen Geschichten erzahlend.
+
+Unten links bez.und dat.1876. Holz.Hohe 20,5 cm,Breite 15,5 cm.Schwarzer Rahmen.
+
+## ANTON MONTEMEZZO
+
+geb. 1841 zu Sankt Polo di Giave, gest. 1898 in Munchen.
+
+- 41.WeidendeSchafe.
+
+Wiese mit bluhenden Blumen und einem einzelnen, reich verasteten, blihenden Obstbaum. Bei diesem eine Herde weidender Schafe, darunter mehrere Lammer, auch ein Kalb.
+
+Heiterer Himmel.
+
+Unten.rechts bez.
+
+Pappe. Hohe 16,5 cm,Breite 27 cm.Goldrahmen.
+
+## HEINRICH MARIA DIETRICH MONTEN
+
+geb.1799 in Dusseldorf, gest.1843 in Munchen
+
+42. Studienkopf.
+
+Brustbild eines jungen oberbayerischen Bauernmadchen aus Lenggries. Dreiviertelprofl nach links.
+
+Unten bez. Monten.Sonntag d. 14. Juli 1835.
+
+Holz. Hohe 26,5 cm,Breite 20 cm.Goldrahmen.
+
+## MULLER JUNIOR
+
+Munchen.
+
+43. Pferdestudie.
+
+Kopf eines Schimmels, Seitenansicht nach rechts.
+
+Links oben bez. Muiller jun. Minchen 1900. Pappe. Hohe 17 cm, Breite 25 cm. Goldrahmen.
+
+## LOUIS NEUBERT
+
+geb.1846 in Leipzig,gest.1892 auf dem Sonnenstein bei Pirna.
+
+44. Gebirgslandschaft.
+
+Kleines Plateau (sanft abfallende Berglehne). Im Vordergrunde Wiesengelande, von einem Bach durchschnitten. Dahinter dichter Baumschlag, uberragt von den steil aufsteigenden,nackten Felswanden des Gebirgsstocks.Die rechte Partie des Gebirges intensiv beleuchtet. Sommertag mit losem Gewolk.
+
+Unten rechts bez.
+
+## ERNST LUDOLF MEYER
+
+Munchen.
+
+## EDUARD NICZKY
+
+Munchen.
+
+- 45.Altdeutsches Liebespaar.
+
+Bei einer Gartenmauer vor Baumschlag das Paar im Patrizierkostim der deutschen Re- naissance.
+
+- 46.Pferdestudie.
+
+Braune Stute. Dreiviertelansicht nach rechts.
+
+Unten links bez.
+
+Pappe. Hohe 21 cm, Breite 24 cm. Schwarzer Rahmen.
+
+Unten links bez.und dat. 1876. Holz. Hohe 27,5 cm,Breite 19 cm. Schwarzer Rahmen.
+
+## JULIUS NOERR
+
+Holz.Hohe 25 cm,Breite 18 cm.
+- 47.Marine.
+
+## HANS VON PETERSEN
+
+Munchen.
+
+Leicht bewegte See,ginstiger Wind, fau umzogener Himmel. Im Vordergrunde statt-
+
+Unten links bez.,rechts dat. Minchen 92. Holz.Hohe 47,5 cm,Breite 67,5 cm.Schwarzer Rahmen.
+
+liches Segelboot, am Horizont ein Dreimaster.
+
+## HERMANN PHILIPS
+
+Munchen.
+
+48. Waldeinsamkeit.
+
+Vor dichtem Baumschlag sitzt eine junge, weiss gekleidete Dame auf einem moosbe-
+
+Unten links bez.
+
+deckten Felsstick am Bachesrand. Der Kopf ist iber die rechte Schulter dem Waldinnern zugewandt, die linke Hand halt ein aufgeschlagenes Buch.
+
+Holz.Hohe 26 cm,Breite 14 cm.Schwarzer Rahmen.
+
+## MARIE PHILIPS-WEBER
+
+Munchen.
+
+- 49.JungeMuttermitKind.
+
+Brustbild einer jungen schwarzhaarigen Frau von sidlandischem Typus, im Profl nach links, auf das an ihrer Brust schlafende Kind blickend.
+
+Holz.Hohe 22 cm,Breite 28,3 cm.Goldrahmen.
+
+## ELIMAR ULRICH BRUNO PIGLHEIN
+
+geb.1848 in Hamburg, gest.1894 in Munchen.
+
+50. Studienkopf.
+
+Brustbild einer jungen Italienerin. Profil nach links.
+
+Holz.Hohe 34,5 cm,Breite 27 cm. Schwarzer Rahmen.
+
+Unten rechts bez.
+
+- 51.
+- Studienkopf.
+
+Brustbild einer jungen rotblonden Dame in Federhut.Der Korper in Dreiviertelprofil nach links, das Gesicht dem Beschauer zugewandt.
+
+Pappe.Hohe 27,5 cm,Breite 19 cm.Schwarzer Rahmen.
+
+Unten rechts bez.und dat.
+
+## ERNST LUDWIG PLASS
+
+Kempfenhausen bei Starnberg.
+
+52. Aus Schwabing.
+
+Blick von einer Wiese iber den Bach und die zwischen Zaunen hinfihrende Strasse auf die in dem Baumschlag der Garten versteckten Giebel und den einfachen Kirchturm des alten Teiles von Schwabing.
+
+Unten links bez.
+
+53. Fischerbootin den Lagunen.
+
+Pastell.Hohe 46.5 cm,Breite 32,5 cm.Schwarzer Rahmen.
+
+Im Vordergrunde links am Strande das Segelboot, rechts Blick iber den Wasserspiegel auf die Stadt, deren Silhouette nebelhaft verschleiert gegeben ist.Interessante Bewolkung, die
+
+Unten links bez.
+
+auf dem Wasserspiegel ein eigenartiges Farbenspiel bewirkt.
+
+Leinwand. Hohe 51 cm, Breite 36 cm.Goldrahmen.
+
+## HEINRICH RASCH
+
+Munchen.
+
+Links die leicht ansteigende Kuste: Wiesengelande mit vereinzelten Baumen. Im Mittel-
+
+54. Hafenin Schleswig.
+
+plan die schmucken Hauschen einer kleinen Ortschaft; rechts das Wasser, in der Tiefe des
+Bildes durch Segelschiffe staffiert. Leicht bewolkter Himmel eines schonen Sommertages. Im
+
+Vordergrunde ein junge Bauerin.
+
+Unten rechts bez. und dat. 77.
+
+Holz. Hohe 28 cm, Breite 18,5 cm.Schwarzer Rahmen.
+
+## WILHELM RAUBER
+
+Munchen.
+
+55. Reiter aus der Zeitdes Grossen Kurfursten.
+
+Auf prachtigem,kraftigem Schimmel, bei einer Hecke auf Wiesengelande,vor leicht be- wolktem Himmel halt ein Reiter in der Tracht der Zeit des Grossen Kurfirsten.
+
+Unten rechts sign. W. R., auf der Ruckseite voll bez. und dat. 1886.
+
+Holz. Hohe 18 cm, Breite 13,5 cm. Schwarzer Rahmen.
+
+## OTTO RECKNAGEL
+
+Munchen.
+
+- 56.Spielhahnbalz.
+
+In den weiten Moosauen vor dem Wendelstein im Vordergrunde zwei balzende Hahne, etwas abseits zwei Hennen. Das Hochgebirge schliesst die Szene. Sonnenuntergangsstimmung. Leinwand.Hohe 15 cm,Breite 30 cm.Schwarzer Rahmen.
+
+## ROBERT RICHTER
+
+Berlin-Charlottenburg.
+
+Gouache. Hohe 55 cm, Breite 61,5 cm. Gerahmt.
+
+Unten links bez.
+
+- 57.Vesper.
+
+Rotblonder,vollbartiger Mann aus dem Volke (Arbeitertypus) bei einem einfachen Tische sitzend, vespernd.
+
+## EDUARD RITTER
+
+geb.1808 in Wien, gest. 1853 daselbst.
+
+- 58.Die Weinliebhaberin.
+
+Frau in vorgeschrittenem Alter, salopp-einfache Kleidung, Halbfgur in primitiv mobliertem Interieur am Tisch sitzend, durch die Glaser eines altertimlichen Kneifers ein erhobenes
+
+Glas Weisswein kritisch betrachtend.
+
+Unten in der Mitte bez. und dat. 1852. Abbildung Tafel 8.
+
+Holz.Hohe 26 cm,Breite 20,5 cm.Goldrahmen.
+
+## MORITZ ROEBBECKE
+
+Berlin.
+
+59. Die Pest in Florenz. Skizze.
+
+In einer engen Strasse ein Lager Pestkranker, Sterbender und Toter, besucht von einem Kardinal in Begleitung zweier Priester.
+
+Unten rechts bez.und dat. 87.
+
+Leinwand.Hohe 38 cm,Breite 32 cm.Schwarzer Rahmen.
+
+## JULIUS RUNGE
+
+Munchen.
+
+Unten links bez.
+
+- 60.Vonden Lagunen.
+
+Ruhige See, den interessant beleuchteten Himmel spiegelnd, begrenzt von der Architektursilhouette der Stadt, staffiert durch ein Segelboot.
+
+Unten rechts bez.
+
+Leinwand.Hohe 45 cm,Breite 32 cm.Goldrahmen.
+- 61.Londoner Hafen.
+
+Ruhige See. Im Mittelgrunde Frachtschiffe. Im Hintergrunde,nebelhaft verschleiert,die Silhouette der Stadt. Leicht bewolkter Himmel, nuanciert durch aufsteigenden Dampf und
+
+Russ.
+
+Unten rechts bez.
+
+Leinwand.Hohe 44 cm,Breite 32 cm.Goldrahmen.
+
+## CARL SCHERBRING
+
+gest.1899 in Munchen.
+
+- Vom NymphenburgerKanal.
+
+Die suidliche Auffahrtsallee mit der Bricke vor dem Schlossrondell. Die prachtigen alten Baume in Herbstfarbung.
+
+Unten links bez.
+
+63. Vom Neckar.
+
+Ortschaft am Flusse. Die kleinen Hauser mit dem Giebel nach dem Flusse gerichtet,nur durch schmale Hausgartchen von diesem getrennt, sind durch Baumschlag hibsch staffiert. Der interessante Himmel,leichte Wetterwolken sich durch loses,flaumiges Gewolk schiebend, gibt den hohen Dachern der kleinen Hauser eine prachtige Folie und in dem breiten Flusse spiegelt sich das ganze reizvolle Ensemble:Wolken, Dacher, Baumschlag und Gartenhecken.
+
+Am Flusse figurliche Staffage.
+
+Unten links bez.
+
+- 64.Kuheim See.
+
+Motiv vom Starnbergersee. Schilf, Gebaude, Baumschlag. In der dunstig verhangenen Ferne Gebirgszige. Sommertag mit sich umziehendem Himmel. Im Vordergrunde, in dem seichten Wasser am Ufer watend, eine Gruppe prachtiger Kuhe.
+
+Unten links bez.und dat. 75.
+
+Holz.Hohe 16,5 cm,Breite 24 cm.Sehwarzer Rahmen.
+
+## GUSTAVSCHOENLEBER
+
+Karlsruhe.
+
+- 62.
+- 65.KanalinAmsterdam.
+
+Der Kanal zwischen den Reihen der hohen alten Hauser, von diesen beschattet,so dass der heitere, leicht bewolkte Himmel nur wenig Spiegelung findet. Im Vordergrunde grossere Segelboote, im Mittelplan ein Brickensteg mit figurlicher Staffage. Als Abschluss ein hoher Kirchturm, der sich in feiner, durch den Dunst des heissen Tages verschleierter Silhouette von dem prachtigen Himmel abhebt.
+
+Unten links bez.
+
+Abbildung Tafel 9.
+
+Pappe.Hohe 28 cm, Breite 17,5 cm. Schwarzer Rahmen.
+
+## JOSEPH SCHOYERER
+
+Munchen.
+
+66. SchweizerLandschaft.
+
+Partie aus dem Lutschinertal (Berner Oberland) bei Zweilutschen, mit Blick auf das
+
+Unten in der Mitte bez.(hinten dat.1894).
+
+Holz. Hohe 18 cm,Breite 25 cm.Schwarzer Rahmen.
+
+Wetterhorn.Morgenstimmuung.
+
+Pappe. Hohe 34 cm,Breite 27 cm.Brauner Rahmen.
+
+Leinwand auf Pappe. Hohe 42,5 cm,Breite 29 cm.Goldrahmen.
+
+## ROBERT SCHLEICH
+
+Munchen.
+- 67.Raucher.
+
+Brustbild eines jungen Mannes in hollandischer Tracht des 17. Jahrhunderts, en face, eine Tonpfeife rauchend.
+
+Oben rechts bez.
+
+- 68.Raucher.
+
+Junger hollandischer Cavalier im Kostum des 17. Jahrhunderts, in Halbfigur, an einem
+
+Oben rechts bez. Holz. Hohe 17 cm,Breite 14 cm. Schwarzer Rahmen.
+
+## AUGUST SEIDEL
+
+geb.1820 in Munchen, gest.1903 daselbst.
+
+Holz. Hohe 15,5 cm,Breite 12 cm. Schwarzer Rahmen.
+
+## ALFRED VON SCHROTTER
+
+Graz.
+
+- 69.BeiPalermo.
+
+Vorn links eine in das Meer abfallende Felswand, durch Baumschlag staffiert, rechts die Meeresbucht mit den Gebirgszigen der jenseitigen Kuiste. Bewolkter Himmel.
+
+Pappe. Hohe 19,5 cm,Breite 24,5 cm. Schwarzer Rahmen.
+
+## OTTO SEITZ
+
+Munchen.
+
+- 70.Abendidylle.
+
+Parkwinkel mit stillem Weiher bei aufgehendem Vollmond,belebt durch einen Putto, der im Fluge Seifenblasen in die Tiefe entsendet,die,im Mondschein schon irisierend,eine effektvolle Note in den Baumschlag bringen.
+
+Unten rechts bez. Holz.Hohe 49 cm,Breite 30 cm.Schwarzer, gesehnitzter Rahmen.
+
+## JOHANN SPERL
+
+Aibling.
+
+71. InErwartung.
+
+Ein oberbayerisches Bauernmadchen unter der Tur eines Hauses, eines Fachwerkbaues heimatlicher Bauweise,stehend.
+
+Unten links bez.
+
+Abbildung Tafel 5. Holz. Hohe 40,5 cm,Breite 32 cm. Schwarzer Rahmen.
+
+Liebenswurdiges Motiv aus dem eigentlichen Schaffensmilieu des geschatzten Meisters, in Auffassung und Durchfuhrung an seinen grossen Freund Leibl erinnernd.
+
+## AUGUST SPLITGERBER
+
+Munchen.
+
+72. Gewitterim Altmuhltal.
+
+Im Vordergrunde ein Bergricken. Zwischen den dolmenartigen Felsen auf kargem Felsboden mit sparlichem Graswuchs eine machtige, imposante Steineiche, deren Wipfel sich von dem dunklen Gewittergewolk wirkungsvoll abhebt. Im Mittelplan der Baumschiag der Felsschlucht. Als Abschluss die jenseitige Bergkette. Grossartiger Himmel mit interessanten Be- leuchtungseffekten.
+
+Unten rechts bez.und dat.1879.
+
+Leinwand.Hohe 104 cm,Breite 130 cm.Goldrahmen.
+
+## ALBERT SCHROEDER
+
+Munchen.
+- 73.
+- LandschaftmitKuhen.
+
+Weites Wiesengelande,im Vordergrunde ein breites, seichtes Gewasser mit grosserer Sommertag mit dunstverhangener Ferne und sich zusammenziehendem Gewolk.
+
+Unten rechts bez.. Holz. Hohe 18 cm,Breite 24 cm. Schwarzer Rahmen.
+
+## HEINRICH STELZNER
+
+Munchen.
+
+- 74.WaldundWiese.
+
+Im Vordergrunde auf leicht abfallender Berglehne die prachtige Waldwiese mit den moosiberwachsenen Stumpfen machtiger gefallter Baume,ein Paar grosse,rote Hutpilze nuancieren das verschiedene Griin des Mooses und der reichen Graserflora. Baumschlag mit Durchblick auf einen modernen Klosterbau und auf das nahe Gebirge begrenzt die Wiese.Ein Dominikaner staffiert das Bild.
+
+Unten links bez.
+
+75. Kanal bei Schleissheim.
+
+Leinwand. Hohe 45 cm,Breite 24 cm. Schwarzer Rahmen.
+
+## OTTO STRUTZEL
+
+Munchen.
+
+Im Vordergrunde das breite seichte Moorwasser zwischen Wiesen mit hochstehendem Grase. Rechts eine Gruppe alter Laubbaume, sich im Wasser spiegelnd. Weiter Fernblick auf das Moos, in der Mitte und rechts durch Baumschlag mit einem Hauschen begrenzt. Sommertag mit fau bewolktem Himmel.Im Mittelgrund figirliche Staffage.
+
+Leinwand.Hohe 27 cm,Breite 37 cm.Schwarzer Rahmen.
+
+Unten links bez.
+
+- 76.
+
+Lichter Buchenhain mit breitem Gewasser, das die hohen Stamme und den heiteren Himmel spiegelt. Am Waldboden iberwuchert neues Leben das vorjahrige Herbstlaub und dieses frische Grin zwischen fahlem Braunrot gibt dem Bilde eine feine farbige Stimmung.
+
+Leinwand. Hohe 42 cm,Breite 58 cm. Schwarzer Rahmen.
+
+- Buchenwaldim Vorfruhling.
+
+Unten rechts bez.und dat. 1903. Abbildung Tafel 10.
+
+## LUDWIG VOLTZ
+
+Munchen.
+
+- 77.
+- Landschaft.
+
+Feld und Wald. Im Vordergrunde ein Kornfeld,im Mittelplan eine Partie Wald, sich
+
+Heisser Sommertag mit fau bewolktem Him mel.
+
+Pappe.Hohe 19,6 cm,Breite 32 cm.Goldrahmen.
+
+## FERDINAND WAGNER
+
+Munchen.
+
+78. Apotheoseauf Kunstund Wissenschaft.
+
+Eine sitzende weibliche Gestalt in einem Folianten blatternd, ilhr zu Fussen ein Globus und einige Bicher. Bei ihr,auf erhohtem Platz,in liegender Stellung, ein nacktes Weib mit blondem blumengeschmicktem Haar, begeistert in die Saiten einer Leier greifend, die ein gefugelter, schwebender Putto ihr darreicht.
+
+Holz.Hohe 24 cm,Breite 17,5 cm.Sehwarzer Rahmen.
+
+Unten links signiert.
+## JOSEPH WENGLEIN
+
+Munchen.
+
+79. Isarauenzwischen Tolzund Lenggries.
+
+Im Vordergrunde ein toter Arm des im Mittelplan fliessenden Stromes; Geroll, Strauchwerk staffieren das oft unter Wasser liegende Ufer. Rechts schliessen Waldungen,links das
+
+Gebirge die Szene. Interessanter Himmel.
+
+Unten links bez.und dat. 88.
+
+Replik des in Breslau befindlichen Gemaldes.
+
+Abbildung Tafel 10.
+
+Leinwand.Hohe 41 cm,Breite 60 cm.Goldrahmen.
+
+## OLGA WIESINGER-FLORIAN
+
+Wien.
+
+- SO.Fruhstuckin Karlsbad.
+
+Unter dem Blatterdach alter Baume Kurgaste an den rot und weiss gedeckten Tischen. Unten links sign.und dat.95. Holz.Hohe 12,5 cm,Breite 21,5 cm.Schwarzer Rahmen.
+
+81. Gemisegarten bei Wien.
+
+Im Vordergrunde links bei einem Ziehbrunnen allerlei Gartnereiprodukte,rechts ein Ge-
+
+Unten rechts bez. Abbildung Tafel 8.
+
+82. Meereskuste.
+
+Links, sich vom Vordergrund in die Tiefe der Szene ziehend, hohes Felsplateau, mit karger Vegetation,in Stufen zum Meere abfallend,dabei steile,nackte Felswande bildend. In der Mitte des Vordergrundes und rechts fache Kiste mit einigen Felsblocken durchsetzt. DaBlauer Himmel mit vom Horizont her aufziehendem losen Gewolk.
+
+Unten rechts bez.
+
+Leinwand. Hohe 36 cm,Breite 120 cm. Goldrahmen.
+
+## JOSEPH WOPFNER
+
+Munchen.
+
+83. Fischerbootim Chiemsee.
+
+Die weite Flache des Sees, zusammenstimmend mit dem bleichen Himmel. Am Horizont die Insel mit dem Schloss. Im Vordergrunde ein Fischerboot mit Fischern, die das Netz einholen.
+
+Unten rechts bez. Abbildung Tafel 9.
+
+Pappe.Hohe 12,5 cm,Breite 17,5 cm.Schwarzer Rahmen.
+
+hinter die ruhige See. Figurliche Staffage.
+
+Holz. Hohe 29 cm, Breite 36 cm.Goldrahmen.
+
+## LUDWIG WILLROIDER
+
+geb.1845 in Villach, gest.1910 in Munchen.
+- 85.
+
+## ANHANG.
+
+## Einige hervorragende Gemalde moderner Meister aus Munchener Privatbesitz.
+
+## HEINRICH BURKEL
+
+geb.1802 in Pirmasens,gest.1869 in Munchen.
+
+84. AusderCampagna.
+
+Auf einer der alten Romerstrassen der Campagna zieht eine Hirtenfamiliemit ihrer Schafherde aus dem Hintergrunde der Szene nach vorn. An der Seite des Zuges trabt ein Esel, beladen mit einem Bindel Zeltstangen auf der einen Seite,mit einem Korb mit jungen Lammern auf der anderen Seite. Die Mutterschafe drangen sich an diesen Korb, der ihre Jungen verwahrt: Eine liebenswurdige Note echt Birkelschen Geistes gleich an der Spitze des romantischen Zuges. Es folgen dann der Hirte,auf einem Maultier reitend,neben ihm das junge Hirtenweib mit dem Kind in den Armen, auf einem Esel sitzend. Weiter hinten langsam wandernde Herde. Ein Bub,der faul auf einem grasenden Esel liegt,und ein volle Nuancen in das anmutige Bild. Blaue Luft mit weissen Wolken.
+
+Unten rechits voll bez.
+
+Abbildung Tafel 11.
+
+Hubsches Werk des geschatzten Kunstlers.
+
+- Wildabfuhr.
+
+Trefflich charakterisiertes oberbayerisches Milieu. Vor dem Eingang zu lichtem Laubwald halt ein mit Baumstammen beladenes Bauernfuhrwerk,auf dem zur Strecke gebrachtes Wild aufgeladen wird. Aus dem Hintergrunde kommen Jager nach vorn. Links Blick in die weite Hochebene. Schoner Frihherbst. Flaue Bewolkung vor blauer Luft.
+
+Abbildung Tafel 11.
+
+Pappe.Hohe 37cm,Breite 47 cm.Goldrahmen. Sehr bemerkenswerte Arbeit,vortreffliche Wiedergabe der eigenartigen Schonheit des siddeutschen Waldes.
+
+86. Schweinehandel.
+
+Verschneites Flachland;im Vordergrund ein Schlitten: Bauer und Bauerin in ihrem Einspanner ein Mastschwein zum Markte fahrend.Sie sind von einem Metzger angehalten worden, der in Begleitung seines Hundes zum Schlitten getreten ist und offenbar ein Gebot auf die Prachtsau macht. Im Hintergrunde ein wanderndes Paar. Der Himmel durch Schneegewolk verhangen.
+
+Leinwand.Hohe 24 cm,Breite 33 cm.Goldrahmen. Bauerliches Conversationsstuck mit echt Altmuinchner Humor geschildert.
+
+## EDUARD GRUTZNER
+
+87. Klosterbruders Vesper.
+
+Munchen.
+
+Ein ergrauter Dominikaner, der iber der Kutte eine blaue Schirze tragt, sitzt im
+
+Klosterkeller in einem reich dekorierten Lehnstuhl vor einem Riesenfass, dessen Stirn-
+
+Unten links bez.
+
+Leinwand. Hohe 30 cm,Breite 44 cm.
+wand durch eine fotte Rokokoschnitzerei geschmickt ist. Ein gewohnliches Weinfass dient als Tisch. Ein gebratenes Brot,ein zinnernes Klostersalzfass,ein Messer charakterisieren die
+
+Rechte in Brusthohe erhoben halt,wahrend die Linke die zinnerne Weinkanne umschliesst.
+
+Rechtsvoll bez.:Edu. Gritzner 82. Abbildung Tafel 12.
+
+Holz. Hohe 46 cm,Breite 38 cm.
+
+## KARL WILHELM HEIDECK,gen. HEIDEGGER
+
+geb, 1788 zu Saaralben, Lothr, gest. 1861 in Munchen.
+
+88. Tierstuckmit landschaftlicher Staffage.
+
+Ein gesattelter Reitesel und ein Eselfillen auf dem Rasenplatze vor der Mauer eines Gebaudes mit Treppenaufgang und Heiligenstatue (Kirchenbau?). Links Ausblick in die weite
+
+Landschaft, die den Campagnacharakter der Nachbarschaft Roms tragt.
+
+Unten rechts undeutlich bez.
+
+Holz.Hohe 24,5 cm,Breite 32 cm.Goldrahmen.
+
+## FRANZ NAPOLEON HEIGEL
+
+geb. 1813 in Paris, gest. 1888 in Munchen.
+
+89. Bildnis Lu dwig I., Konigs von Bayern.
+
+Huftbild. Der Korper in Proflhaltung nach links, das Gesicht en face mit Blick nach rechts gegeben. Der Konig tragt dunklen Anzug und steht vor der Mauer einer Loggia, die
+
+Ausblick in die Landschaft bietet.
+
+Rechts in Mittelhohe voll bezeichnet.
+
+Pappe.Hohe 18 cm,Breite 15 cm. Goldrahmen.
+
+Geistvolles, sehr bemerkenswertes Bildnis.
+
+## ALBERT von KELLER
+
+Munchen.
+
+- 90.Belauscht.
+
+Interieur,im Renaissancegeschmack eingerichtet. Eine mit Portieren gerahmte Tir fihrt zu einem Nebengemach, in dem ein Liebespaar sich unterhalt, nicht ahnend, dass die neu- gierige Zofe, durch die Portiere gedeckt, das intime Gesprach belauscht.
+
+Holz. Hohe 20,5 cm,Breite 27 cm.Goldrahmen.
+
+## FRANZ von LENBACH
+
+geb. 1836 in Schrobenhausen, gest.1904 in Munchen.
+
+- 91.Doppelbildnis.
+
+Brustbild einer Dame (Profl nach rechts, aus dem Bilde blickend) und eines Herrn,
+
+Profl nach links. Bildmassig durchgefihrte Portraitkopfe vor neutralem Hintergrunde.
+
+Auf der Rickseite Bestatigung der Authentizitat des Gemaldes durch die Gattin des Leinwand.Hohe 74 cm,Breite 106 cm.Schwarzer Rahmen.
+
+## ADOLF SCHREYER
+
+geb. 1828 in Frankfurt a. M., gest. 1899 in Cronberg im Taunus.
+
+92. Aus dem Deutsch-franzosischen Kriege.
+
+Auffahren eines Geschitzes der Mecklenburger Artillerie auf den zu besetzenden Bergscheitel. Die Bedienungsmannschaft ist abgesessen und hilft das Geschitz und die Protze den
+
+Berg hinan zu bringen. Ein Trompeter halt die Pferde der abgesessenen Kameraden.
+
+Unten rechts bezeichnet.
+
+Abbildung Tafel 18.
+
+Meisters.
+
+Leinwand.Hohe 39 cm,Breite 33 cm.Schwarzer Rahmen.
+- Desgleichen. Gegenstuck.
+- 93.
+
+Die Hohe ist besetzt, die Bespannung wird in gedeckte Stellung gebracht. Ein Offizier zeigt, wo die Pferde unterzubringen sind.
+
+Unten links bezeichnet.
+
+Leinwand. Hohe 39 cm,Breite 33 cm. Schwarzer Rahmen. Zwei Gemalde von ganz hervorragender Qualitat, namentlich die Pferde documentieren das Konnen des
+
+## CARL SPITZWEG
+
+geb.1808 in Munchen,gest. 1885 daselbst.
+
+Abbildung Tafel 18. Meisters.
+
+94. Sternguckerei
+
+Ein Bild aus der Bluitezeit der Astrologie. Im Observatorium eines Astrologen wagt ein alter komischer Kauz im spanischen Kostim einen Blick durch das Fernrohr. Mit der Wirde eines Magiers steht der Astrolog dabei,in das Doktorengewand der Zeit gekleidet. Abbildung Tafel 13. Holz.Hohe 48 cm,Breite 26 cm.
+
+Ein ausgezeichneter Spitzweg.
+
+- Uebungder Burgergarde.
+
+Auf dem Glacis der kleinen Festungsstadt,die sich im Mittelplane malerisch ausbreitet, ubt die Miliz. Es ist heiss und der Dienst ist schwer. Ein besonders wohl beleibter Kommunalgardist kommt nicht mehr mit. Er ist abseits stehen geblieben und wischt sich den Schweiss von der Stirn. Gravitatisch,aber verstandnisvoll steht der Herr Korporal bei ihm. Auch eine Gruppe von Kindern interessiert sich fur diese Schattenseite des Soldatenlebens. Blaue Luft mit loser Bewolkung. Prachtige Beleuchtung, echt Spitzwegsche Sonne. Pappe. Hohe 16 cm,Breite 28,5 cm.
+
+Abbildung Tafel 14.
+
+In Dreifarbendruck reproduziert in der Spitzweg-Nummer der ,Jugend"(1908,Nr.3).
+
+96. Der verliebteHarlekin.
+
+Idyllisch gelegenes Haus am Wasser, etwa an einem Altminchner Stadtbach, und an einem mit hoher Mauer umschlossenen Garten. Meister Harlekin beniitzt die mondhelle Nacht Zu einem zartlichen Rendez-vous. Mit eineni Bein auf der Gartenmauer, mit dem anderen auf den Rand des benachbarten Balkons des ersten Stockwerks tretend,ist er in der Lage, sein im Neglige herbeigeeiltes Liebchen mit der komischen Grandezza eines verliebten Katers zu begrissen,dieweil in einem Turrahmen ein Anderer （Rivale oder Tugendwachter?) sorglos schlaft.
+
+Abbildung Tafel 15.
+
+Ein kostliches Werk Spitzwegschen Humors.
+
+97. GahnenderMonch.
+
+In einem Winkel des Klosterhofes, beim Eingang zum Kreuzgang sitzt ein Kapuziner, die Hande um die ibereinandergeschlagenen Beine gelegt, gahnend. Neben ihm aufgeschlagene Bucher. Topfblumen und Rasenfleckchen beleben die Szene. Der einfallende Sonnenschein tanzt lustig auf der Tonsur des ergrauten Klosterbruders.
+
+Hinten Nachlassstempel. Abbildung Tafel 16.
+
+98. Landschaft.
+
+Oberbayerisches Motiv. Im Vordergrunde hugeliges Terrain mit lichtem Laubwald,aus der Mitte des Vordergrundes in die Tiefe fihrt,wandert ein Bauer mit einem Kinde. Dunst-
+
+Unten rechts monogrammiert. Abbildung Tafel 14.
+
+dem ein altertimliches Gebaude mit Turm als Wahrzeichen einer kleinen Siedelung hervorragt. Im Mittelplan ein Stick des Spiegels eines kleinen Sees. Auf der Landstrasse die von verhangene Ferne. Leicht bedeckter Himmel, von rechts zieht ein Gewitter auf.
+
+Holz. Hohe 21 cm,Breite 28 cm. Schwarzer Rahmen.
+
+Holz.Hohe 28,5 cm,Breite 18 cm.Schwarzer Rahmen.
+
+Holz. Hohe 27 cm,Breite 16 cm.
+
+- 95.
+99. Gebirgslandschaft.
+
+Pass an einem Gebirgsstock. Aufziehendes Wettergewolk beschattet die Felswande, Korb kommt des Weges, die Tritte haben eine Schlange erschreckt, die sich, hoch aufge- richtet, gegen den Wanderer wendet.
+
+Links unten monogrammiert. Abbildung Tafel 16.
+
+100. Schlangenbeschworerin.
+
+An der Mauer eines Tempels mit agyptischen Flachreliefskulpturen sitzt ein altes Weib, das Brodeln des Inhalts eines iber Feuer stehenden Dreifusskessels aufmerksam betrachtend. Eine grosse Schlange kriecht zu der alten Zauberin. Im Mittelgrunde steht ein junges Madchen,der Beschworungsszene interessiert zusehend. Mondschein.
+
+Unten rechts monogrammiert. Abbildung Tafel 15.
+
+- 10i.ArchitekturmotivausItalien.
+
+Blick in eine enge Strasse,vorn ein Kanal. Zwischen den hohen Hausern ein Stick blauer Holz. Hohe 21 cm,Breite 10 cm.Goldrahmen.
+
+Himmel. Figurliche Staffage.
+
+## HANS THOMA
+
+Karlsruhe.
+
+Holz. Hohe 32 cm,Breite 17 cm.Goldrahmen.
+
+Pappe. Hohe 21 cm,Breite 15,5 cm. Schwarzer Rahmen.
+
+102. Schnitter.
+
+Vor einem schnittreifen Getreidefelde, das mit Mohnblumen reich durchsetzt ist, steht ein Bauer mit der Sense,und neben ihm seine Tochter in der kleidsamen Schwarzwalder Tracht. Ueber das Getreide hinweg Blick in die weite schone Landschaft: Feld, Wald und Wiese, durch ferne Hohenzige abgeschlossen. Sommerlicher Himmel in Gewitterstimmung. Aus einer schweren Wolke geht in der Ferne Regen nieder. Feine Luftperspektive.In der Mitte rechts sign.H. Th. 89.
+
+Abbildung Tafel 17. Leinwand.Hohe 74 cm,Breite 61 cm.Schwarzer Rahmen. Eine so tief empfundene und formvollendete Schilderung der eigenen Schonheit seiner Heimat, dass sie den besten Landsehaften des Meisters zugezahlt werden darf.

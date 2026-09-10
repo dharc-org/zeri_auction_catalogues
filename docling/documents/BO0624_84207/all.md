@@ -1,0 +1,1079 @@
+## CONDITIONS DE LA VENTE
+
+Elle sera faite expressement au comptant.
+
+Les adjudicataires paieront dix pour cent en sus des encheres.
+## ORDRE DES VACATIONS
+
+## Mercredi 17 Juin 1914
+
+| Tableaux,Aquarelles, Dessins modernes Tableaux, Dessins,Aquarelles,Pastels anciens Faiences et Porcelaines non montees.. Ceramiques montees.   |
+|------------------------------------------------------------------------------------------------------------------------------------------------|
+<!-- image -->
+
+## DESIGNATION
+
+## TABLEAUX,AQUARELLES
+
+MODERNES
+
+## BIDA
+
+I—Interieur d’artiste.
+
+Aquarelle. Signee a gauche.
+
+## BELLY
+
+(·T)
+
+2—Dahabieh ensable dans le Nil. Toile. Signee et datee : 1877.
+
+Haut., 1 m.10 cent.; larg., 1 m.53 cent.
+
+Haut.,38 cent.;larg.,28 cent.
+## BOULANGER
+
+(GUSTAVE-RODOLPHE)
+
+3—Une Marchande de bijoux a Pompei.
+
+Ce tableau est decrit comme suit sous leno132 du Catalogue de la vente de la Galerie de M.John W. Wilson,I4-15 mars1881:
+
+La marchande aux cheveux noirs est dans l'interieur de sa boutique, ou l'on voit suspendus quelques bijoux; elle explique les merites d'une bague que tient une de ses blondes clientes assise a l'entree du magasin, les bras nus, la robe entrouverte sur le cote; une autre regarde debout, drapee dans un peplum vert, tandis que derriere elle une petite fille,vetue de bleu, examineavec une curiosite envieuse.
+
+Signe et date sur le mur a gauche.
+
+Bois.Haut.,36 cent.;larg.,25 cent.
+## DECAMPS
+
+(ALEXANDRE-GABRIEL)
+
+1803-1860
+
+4——Diogene jetant sa sebile.
+
+Ce dessin est decrit comme suit sous le no 12 du Catalogue de la vente de la Collection S. Goldschmidt du 17 mai 1888:
+
+- α Au milieu d'un paysage oriental, Diogene s'avance vers un ruisseau ou boit dans le creux de sa main un jeune homme vetu d'un manteau rouge; a cette vue, il jette sa sebile loin de lui.
+- Au fond, a travers le feuillage,apparaissent les murs ensoleilles d'une ville et le ciel bleu, parseme de nuages.
+
+Important dessin au fusain, rehausse de pastel et de gouache. Signe a gauche, sur une pierre : Decamps et date : 1843.
+
+Grave par DauMoNT.
+
+Haut., 47 cent.; larg.,6o cent.
+
+(Vente Didier,2mai 1849.) (Vente J.Fau,8 janvier 185o.)
+## DECAMPS
+
+(ALEXANDRE-GABRIEL)
+
+1803-1860
+
+5—Les Catalans pres de Marseille.
+
+Ce tableau est decrit comme suit sous leno 58 du Catalogue delavente de la CollectionB.Narischkine,5avril 1883:
+
+αPlusieurs barques sont sur le rivage, les pecheurs raccommodent leurs filets. Dans le fond, une grande construction domine la mer.
+
+Signe des initiales en bas a gauche.
+
+Toile.Haut.,24 cent.;larg.,40 cent.
+
+## DUEZ
+
+6—Au bord de la mer.
+
+Toile. Signee en bas a droite.
+
+Haut.,65 cent.;larg.,32 cent.
+——Paysage.
+
+## DUPRE
+
+(JULES)
+
+Ce tableau est decrit comme suit sous le no 18 du Catalogue de la Vente de la Collection de feu M. Raymond Sabatier, 3omai1883:
+
+αDe grands arbres inclines sur le bord d'une riviere dans laquelle viennent boire des vaches. Ciel orageux.
+
+Signe en bas a droite.
+
+Toile.Haut.,24 cent.; larg,3o cent.
+## JACQUET
+
+(GUSTAVE)
+
+8—Portrait de Jeune Femme.
+
+De trois quarts a droite en corsage rose, coiffe et fichu de lingerie.
+
+Bois. Signe en bas a droite.
+
+Haut.,32 cent.;larg.,24 cent.
+
+(No 35.Vente de la Collection de M.le baron E. de Beurnonville,
+
+29 avril 1880.)
+
+## MARCHETTI
+
+9—Le Tambourinaire.
+
+Bois. Signe en bas et a droite.
+
+Haut., 24 cent.; larg., 19 cent.
+
+(No113.Vente dEpinay,20-21 avril 1885.)
+
+## MARCHETTI
+
+10—Le Garde du palais, epoque Henri III. Aquarelle. Signee a droite en bas.
+
+Haut., 48 cent.; larg., 35 cent.
+
+(No112.Vente dEpinay,20-21 avril 1885.)
+## ROUSSEAU
+
+(PHILIPPE)
+
+Heron et canards dans des paysages. II
+
+Deux toiles se faisant pendants.Signees en bas a droite.
+
+Haut., I m.3o cent.; larg., 37 cent.
+
+(N 62.Vente de la Collection Laurent Richard,28-29 mai 1886.)
+
+## SCHEFFER
+
+(ARY)
+
+12 --Francesca di Rimini.
+
+Ce tableau est decrit comme suit sous leno 183 du Catalogue de la Vente de la Galerie de M.John W.Wilson,14-15mars 1881:
+
+- 《Dante et Virgile sont descendus aux enfers et voient passer les ombres des deux infortunes amants.
+- α Le peintre s'est inspire de ce passage du Dante :α Helas, que de douces pensees, quel ardent desir a mene ceux-ci au douloureux passage!)
+
+C'est la premiere pensee de la grande toile executee en 1835, pour la Collection du duc d'Orleans, a qui ce projet a egalement appartenu.
+
+Signe en lettres rouges dans le bas, a gauche.
+
+Toile. Haut., 24 cent.; larg., 3o cent.
+## WERBOECKHOVEN
+
+(EUGENE) 1798-1881
+
+13—Le Taureau vainqueur.
+
+Toile. Signee en bas vers la gauche et datee : 1851.
+
+## VILLEGAS
+
+- 14— Homme adosse a un mur, tenant sa canne de la main droite.
+
+Aquarelle. Signee a droite et datee:1881.
+
+Haut., 3o cent.; larg., 21 cent.
+
+(No230.Vente d'Epinay,20-21 avril 1885.)
+15——Le Lever.
+
+Une jeune femme a son reveil,encore sur son lit,assise,les jambes decouvertes ainsi que la poitrine. Elle tient une eponge au-dessus d'un bassin pose sur une banquette, se preparant a faire sa toilette. Derriere un rideau releve, un jeune galant lepie.
+
+Bois. Haut., 23 cent.; larg., 18 cent.
+
+(No 7.Vente du 8mai 1886.)
+
+## BLES,DIT CIVETTA
+
+(HENRI-MET DE)
+
+1520
+
+16—La Vierge a leillet, tenant l'Enfant Jesus; fond de paysage.
+
+Bois, cintre du haut. Haut., 15 cent.,; larg., 1o cent.
+
+## TABLEAUX
+
+## DESSINS,AQUARELLES,PASTEL
+
+ANCIENS
+
+## BILCOQ
+
+(MARIE-MARC-ANTOINE)
+
+1755-1838
+## BOUCHER
+
+(D'apres FRANCOIS)
+
+17—Diane.
+
+Peinture decorative.
+
+Toile. Haut., 1 metre; larg., 1 m.45 cen1.
+
+## CANOT
+
+(D'apres)
+
+- 18-Le Souhait de la bonne annee au grand-papa.
+
+Estampe ancienne en noir, par PHiLippE LE Bas. Grande marge.
+
+## CARRIERA
+
+(ROSALBA) 1675-1757
+
+- 19 —Portrait de Jeune Femme tenant uin cahier de musique.
+
+Pastel.
+
+Haut., 45 cent.; larg.,37 cent.
+
+Cadre ancien a fronton en bois sculpte redore.
+
+## CRAYER
+
+(Attribuea GASPARD)
+
+20 —L'Education de la Vierge.
+
+Toile. Haut.,78 cent.; larg., 6o cent.
+## DESPORTES
+
+(FRANCOIS) 1661-1743
+
+21 ——Chien et faisan.
+
+Ce tableau est decrit comme suit sous le n 44 du Catalogue de la vente de la Collection de M.le baron de Beurnonville,
+
+9-16 mai 1881:
+
+α Au pied d'une console en pierre, un chien noir et blanc en arret devant un faisan mort, étendu par terre. Un fusil est appuye contre la console sur laquelle sont placees deux peches et une grappe de raisin .
+
+Toile.Haut.,1 m.12 cent.; larg,92 cent.
+
+## ECOLE FRANCAISE
+
+(XVIIIsiecle)
+
+22 —Portrait de Femme.
+
+Representee de face,la chevelure relevee et poudree, agre- mentee d'une coiffe de dentelle. Elle est vetue d'un corsage decollete bleu,borde d'un ruche,et paree d'un collier de perles.
+
+Toile ovale.Haut., 65 cent.;larg.,54 cent.
+
+## ECOLE FRANCAISE
+
+23—La Reine Marie-Antoinette,en grand costume.
+
+Aquarelle.
+
+Haut., 21 cent.; larg., 16 cent.
+## ECOLE FRANCAISE
+
+24—Les Danseurs russiens.
+
+Dessin aquarellé.
+
+Haut., 3o cent.;larg.,23 cent.1/2.
+
+## ECOLE HOLLANDAISE
+
+(Commencement du XIxsiecle)
+
+25—Fleurs et fruits.
+
+Panneau.Haut., 57 cent.;larg.,79 cent.
+
+## ECOLE ITALIENNE
+
+26—La Presentation au Temple.
+
+Gouache.
+
+Haut., 22 cent.;larg.,31 cent.
+## ECOLE VENITIENNE
+
+27—Portrait de la Fille du Titien.
+
+Ce tableau est decrit comme suit sous le n 56 du Catalogue de lavente de la Collection de M.le comte Potocki, 8 mai 1884:
+
+αElle est vue a mi-corps, vetue d'un corsage de velours rouge decollete et a creves blancs. La tete, legerement relevee, permet de voir sa chevelure blonde dans laquelle brille un saphir. Son cou et ses oreilles sont ornes d'une parure de perles.》
+
+Toile.Haut.,56 cent.;larg.,5o cent.
+
+Cadre a ramages en bois sculpte doré.
+
+## ECOLE VENITIENNE
+
+28—Portrait de deux Jeunes Filles representees en buste, vetues de riches costumes.
+
+Bois. Haut., 11 cent.,; larg, 14 cent.
+
+Cadre en bois sculpte dore. Epoque Louis xVI.
+
+(No 64o.Vente de la Collection de feu M. Joseph Fau, 3-8 mars 1884.)
+## EISEN
+
+(CHARLES)
+
+1722-1778
+
+29 —— Les Joueurs de des.
+
+Ce tableau est decrit comme suit sous le no 67 du Catalogue de la vente de la Collection de feu M.Jules Barat:
+
+u Dans un élegant salon du temps de Louis XV,une dame et deux seigneurs sont assis autour d'une table de jeu placee devant une cheminee; les des de l'un des deux joueurs ont été jetes sur la table;la jeune femme montre du doigt les numeros sortis 》.
+
+Toile.Haut.,32 cent.; larg., 25 cent.
+30—Fruits et Gibiers.
+
+Ce tableau est decrit comme suit sous leno 36 du Catalogue de la vente de la Collection G. Rothan du 2g-31 mai 18go:
+
+Des raisins, des prunes, des abricots dans une corbeille d'osier, de forme lobee, posee sur une table couverte d'un tapis de velours vert et dune nappe blanche,a cote d'une perdrix et d'un lievre suspendu par une patte a une ficelle retenue a un clou dans la muraille. Un chat est grimpe sur la table dont le tapis souleve laisse apparaitre la tete d'un chien de chasse a poil blanc tachete de roux .
+
+Signe en bas a gauche.
+
+Toile.Haut.,78 cent.;larg.,1 m.04 cent,
+
+## FYT
+
+(JOHANNES) 1611-1661
+31—Les Chanteurs.
+
+Ce tableau est decrit comme suit sous leno52 du Catalogue de la vente de la Collection Rothan du 2g au 31 mai 18go:
+
+α Cinq personnages sont reunis dans un interieur; deux femmes assises chantent, tenant chacune une partition；trois jeunes gens les accompagnent,l'un d'eux,la main sur la hanche et levant son verre. A gauche, un lit a baldaquin entoure de rideaux verts 》.
+
+Bois.Haut,48cent.;larg.,40 cent.
+
+HALS (DIRCK) 1589 (2)-1656
+## HONDEKOETER
+
+(MELCHIOR DE)
+
+1636-1695
+
+32——Le Coq et la Perle.
+
+Ce tableau est decrit comme suit sous le no 332 du Catalogue de la vente de la Collection de M.le baron de Beurnonville,
+
+9-16mai1881:
+
+αUn épi au bec, le coq s'avance vers une poule blanche entouree de ses poussins, laissant de cote le precieux joyau egare parmi les brindilles de paille, les plumes de volaille et les debris de balai qui jonchent le sol.A droite, deux poules au plumage varie; sur une cloture en planches, deux pigeons. Buissons, troncs d'arbres; échappee sur la campagne; ciel lumineux".
+
+Toile.Haut., I metre; larg., 1 m. 18 cent.
+
+## HONDEKOETER
+
+(MELCHIOR)
+
+33—Poules, paon et pigeons dans un parc.
+
+Toile.Haut., 1 m. og cent.; larg.,I m.42 cent.
+
+(No73.Vente de la Collection E.Fould, 27 fevrier-3mars 1882.)
+## HUET
+
+(JEAN-BAPTISTE)
+
+1745-1811
+
+34—La Bonne Mere.
+
+Dans une chambre, au mur tapisse d'etoffe verte, une jeune femme,en robe d'interieur decolletee,est assise dans un fauteuil;a gauche,un petit garcon aux cheveux courts et bouclés, vetu d'un costume bleu a large ceinture blanche nouee sur le coté, est agenouillé, un cheval de bois a ses pieds,et semble demander pardon de quelque espieglerie, pour obtenir une balle que sa mere tient dans sa main droite.Le geste de l'autre main indique qu'elle menace de la donner a un jeune enfant tendant les bras et assis dans une bercelonnette d'osier,miengagee dans une alcove a draperie verte, a droite. Un chat au dos arrondi est pres de lui et suit la scene. Au premier plan, un sac d'etoffe est pose sur un tabouret. Un tapis a ramages feuillages, sur fond vert, recouvre la piece.
+
+Aquarelle sur trait de plume. Signee au milieu en bas et
+
+Haut.,22 cent.1/2;larg.,18 cent.
+
+datee.
+
+(No 8g.Vente de la Collection de feu M.Richard, 18 mars 1872.) (No 33. Vente de la Collection de feu M.H.Sennegon,
+
+9-11 mars 1887.)
+## HUGTENBOURG
+
+(JACQUES:VAN) 163g-1668
+
+## 35 —Les Marchands de chevaux.
+
+Dans un paysage d'Italie, sur une place avec monuments en ruines, au premier plan a gauche, un groupe de cavaliers paraissent discuter le prix de chevaux. A droite, un paysan, appuye contre un ane bate, contemple un bohemien jouant du tambourin, devant un homme assis a une table et une femme ayant deux enfants pres d'elle.
+
+Toile. Signee en bas a droite.
+
+Haut., 62 cent.1/2; larg., 83 cent.
+## LARGILLIERE
+
+(NICOLASDE) 1656-1746
+
+## 36—Portrait presume de la Duchesse de Montbazon.
+
+En buste de trois quarts a droite; la chevelure, paree de feurs et d'un bijou, est relevee et legerement bouclee. Elle est vetue d'une riche robe decolletee,la poitrine encadree de dentelle. Une barrette, pavee de pierres et enrichie de deux perles-poires, maintient l'ouverture du corsage. Une etoffe joliment drapee l'enveloppe.
+
+Toile. Haut., 8o cent.; larg., 65 cent.
+
+Cadre ancien en bois sculpte redore.
+
+(N 8.Vente de La Beraudiere,2 juin 1882.)
+d'Orleans.
+
+## LEBRUN
+
+(CHARLES)
+
+1619-1690
+
+37— Projet, a la gloire d’un Prince de la Maison
+
+Representant la figure equestre (presume) de Gaston d'Orleans sur un piedestal entoure de deesses et d'amours.
+
+Peinture en grisaille sur toile.
+
+Haut., 1 m.10 cent.; larg, 77 cent.
+
+Cadre en bois sculpte dore.
+
+(No 33. Catalogue de la Vente apres deces de M.Virot, 28-30mai1884.)
+
+LOO (CARLEVAN) 1705-1763
+
+## 38—Portrait de Jeune Femme.
+
+Ce tableau est decrit comme suit sous leno 13o du Catalogue de lavente de M.le baron de Beurnonville,g-i6 mai 1881:
+
+α Elle est assise et tient une brochure; les cheveux poudres, coiffee d'un petit bonnet de dentelle avecrubans;elle est vetue d'une robe decolletee blanche a feurs et feuillages, ornee de rubans violets, dentelles autour du cou.》
+
+Toile. Haut., 8o cent.; larg., 64 cent.
+
+Cadre ancien en bois sculpte redore.
+## PRUD'HON
+
+(PIERRE) 1758-1823
+
+3g—La Famille malheureuse.
+
+Dans une mansarde miserablement meublee,recevant la lumiere par une fenetre a tabatiere, un pere malade, assis sur une chaise paillee, est entoure de sa femme et de ses enfants eplores.
+
+Toile. Haut., 72 cent., larg.,53 cent.
+
+(No1o5.Vente du 8mai 1886.)
+
+(Provient de la Collection de Madame la Duchesse de Berry.)
+## ROBERT
+
+(HUBERT) 1733-1808
+
+40— Interieur rustique.
+
+Dans une vaste grange, vers le milieu, un couple avec un enfant, assis aupres d'une table, est vigoureusement éclaire par la partie superieure ouverte d'une porte batarde. Il regarde une femme lavant du linge dans un baquet servant de deversoir a une grande cuve en bois, sur la gauche. Une femme agee est penchee sur la balustrade d'une soupente recouverte d'une couverture retombant en draperie. Dans le fond, éclaire par l'ouverture principale, deux campagnardes causent, tandis qu'un homme dirige ses pas vers le spectateur. Des tonneaux, des outils, une marmite, un cageot d'osier sont disposes sans ordre, ca et la.
+
+Signe a droite et date:1778.
+
+Bois.Haut.,37 cent.;larg,46 cent.
+
+(N58.Vente du 8mai 1886.)
+## RUBENS
+
+(PIERRE-PAUL) otgi-Lg1
+
+4I——Minerve et Thetis.
+
+Ce tableau est decrit comme suit sous le n°438 du Calalogue de la vente de la Collection de M.le baron de Beurnonville du9au16mai1881:
+
+u Les deux deesses, assises dans un paysage, se donnent la main; Minerve,un casque sur la tete, drapee dans une tunique rose en partie cachee par un manteau bleu, tient une lance. Thetis, assise sur le globe terrestre, a pres d'elle un gouvernail; a 1horizon, la mer.
+
+Belle esquisse.
+
+Bois.Haut.,34 cent.;larg.,41 cent.
+## RUYSDAEL
+
+(JACOB)
+
+1625-1682
+
+42 —La Grande mare.
+
+Ce tableau est decrit comme suit sous le no IoI du Catalogue delaventeJohn Wilson,14-15-16mars1881:
+
+uElle occupe le premier plan du tableau;a gauche, elle est bordee de grands arbres penches qu'elle refete;a droite et a gauche, des chaumieres; a larriere-plan, un paysan dans une barque traverse la mare.
+
+Signe en toutes lettres et date :1666, au bas dans l'eau presque au milieu.
+
+Bois.Haut,41 cent.;larg.,54 cent.
+
+## SUBLEYRAS
+
+(PIERRE) 1699-1749.
+
+43—Jeune Femme pleurant.
+
+Elle porte un linge a ses yeux pour en essuyer les larmes.
+
+Toile.Haut.,47cent.;larg,38 cent.
+
+(No 8g.Vente de la Collection de feu M.Raymond Sabatier, 3o mai1883.)
+## TENIERS LE JEUNE
+
+(DAVID) 1610-1694
+
+44——Les Danseurs.
+
+Ce tableau est decrit comme suit sous le no 25 du Catalogue de la vente de la succession Francois Nieuvenhuys,28aout1881:
+
+Signe en toutes lettres en haut a droite.
+
+αUn villageois donnant la main a une jeune femme,et tenant en lair sa toque rouge, danse avec un entrain des plus joyeux;a droite,un musicien,monte sur un tonneau, souffe dans sa cornemuse; une servante sur la porte du cabaret et un homme tenant sa pipe les regardent; au second plan, deux villageois aupres d'une cloison en planches.
+
+Toile.Haut., 41 cent., larg., 35 cent.
+
+(Collections de R.Heathcote 1807.) (Collection Bredel.)
+
+Il est cite dans le Catalogue raisonne de SMITH, vol. III, page 403, no 536. Il a éte expose a 1Institution britannique en 1829.
+——L'Odorat.
+
+## TOURNIERES
+
+(ROBERT) 1668-1752
+
+45 —Portrait d'une Dame.
+
+Ce tableau est decrit comme suit sous leno 175 du Catalogue de la vente de la Collection de M. le baron de Beurnonville,
+
+9-16mai1881:
+
+αVue a mi-corps, les cheveux poudres, robe rouge decol- letee, entouree d’une ample draperie en soie grise.
+
+Toile. Haut., 8o cent.,; larg., 64 cent.
+
+Cadre ancien Louis XIV en bois sculpte dore.
+
+## VOIS
+
+(ADRIEN ou ARIE DE) 1641?
+
+Une belle fille dans tout lepanouissement de sa luxuriante nature,fraiche et souriante, tient une rose de la main gauche, Elle est habillee de blanc, drapee d'une écharpe bleue.
+
+Signe en toutes lettres, en haut a gauche.
+
+Cuivre.Haut., 16 cent.; larg, 13 cent,
+## WOUWERMAN
+
+(PHILIPPE) 1619-1668
+
+47 —— Le Cavalier au repos.
+
+Ce tableau est decrit comme suit sous le n 56g du Cata- logue de la vente de la Collection de M.le baron de Beurnonvilledug au16mai1881:
+
+αAssis sur un tertre, un chien blanc a ses pieds, un cavalier, en feutre gris et pourpoint bleu, tient par la bride un cheval bai.ll semble demander sa route a un vieux paysan assis a son cote, portant sur le dos un panier couvert d'un filet de peche. Au second plan,a gauche, deux villageois sont arretes devant une hutte en paille.
+
+Bois.Haut.,3o cent.;larg.,35 cent.
+## FAIENCES,PORCELAINES
+
+## NON MONTEES
+
+- —Angleterre. Deux vases couverts, a piedouche, en
+- 48 ceramique, simulant la serpentine.
+- 49 — Angleterre. Petit vase, de forme ovoide,a deux anses formees de serpents et piedouche, en faience; decor fond blanc marbre de dorure sur la panse,et fond violet également marbre au col et au pied. Fin du xvinl siecle.
+- (No5io.Vente de la Collection de feu M.le comte de La Beraudiere.)
+- 5o—Gastelli. Petit plat rond en ancienne faience, décore en plein d'un sujet:Hercule combattant l'Hydre de Lerne. Au milieu en haut, un écusson armorie.
+- 51—Chine. Vase en porcelaine, muni de deux anses. Decor a fond jaune charge de feuillage vert. Bordure a lambrequins bleus.
+
+(Vente de la Collection Marquis.)
+
+- 52 — Chine. Deux vases-balustres, ornes chacun de deux
+- anses-tube, en celadon flamme.
+- Chine. Bouteille a double renflement, munie de deux anses, en celadon truite, bleu turquoise.
+- 53
+- 54 —Chine. Deux tres petites bouteilles en porcelaine,
+- decorees chacune de deux medaillons a paysage, sur fond peau de serpent, vert.
+- Chine. Vase, de forme balustre et aplatie, muni de deux anses a mascarons de chimere et anneaux; decor de branchages fleuris en emaux de couleur, peints sur biscuit, reserves sur fond manganese. Ancienne porce-
+- 55 一 laine. Epoque Kien-lung.
+- 56 — Chine. Tasse et sa soucoupe en ancienne porcelaine, epoque Kien-lung, decorees d'un dragon et d'ornement en vert, sur fond jaune.
+- 57 一 Chine. Petite tasse et sa soucoupe en ancienne porcelaine demi-mince, decorees en émaux de couleur de quatre reserves, sur fond vert, vermicule brun. Epoque Kang-hi.
+- 58 — Chine. Tasse et sa soucoupe en ancienne porcelaine,
+- decorees de compartiments rayonnants et obliques,a fonds vert, jaune, noir et lilas, chargés de tiges de fleurs. Le revers de la tasse et de la soucoupe est noir, orne de branchages fleuris. Epoque Kang-hi. (No 481.Vente de la Collection Fournier,2-6mars 1885.)
+- 59 —Deruta. Vase surbaisse, a piedouche, en ancienne decor d'arabesques reservees en blanc sur fond chamois, fleurettes bleues
+- faience a reflets metalliques, et oiseaux disposes symetriquement.
+- 6o —Divers. Sphinx en porcelaine émaillee blanc; decor
+- en dorure:
+
+(No 688.Vente de la Collection de Lafaulotte,5-13 avril 1886.)
+- 61—Gubbio. Plaque rectangulaire, en hauteur, en ancienne faience,offrant en bas-relief la Vierge a micorps, tenant l'Enfant Jésus de ses deux bras, sur fond de draperie simulee.Decor a reflets metalliques mordorés et bleu nacré. Cadre en bois sculpte ciré.
+
+Haut. de la plaque:43 cent.; larg., 33 cent.
+
+- (N 6. Vente de la Collection de feu M.Joseph Fau,3-8 mars 1884.)
+- 62-— Moustiers (?). Tasse et sa soucoupe en ancienne faience, decoree en couleur de fleurs de lis, feuillages
+- et rocailles.
+- 63 —— Paris. Paire de vases sur piedouche, forme Medicis, anses en relief a tetes de dauphin,
+- enancienne porcelaine; ils sont decores en couleurs et dorure de medaillons a guirlandes de fleurs, et noeuds de ruban.
+- (No 167.Vente de la Collection de M. le baron L. d’Ivry,9 mai 1884.)
+- 64 —— Saxe. Tasse, munie d'une anse-branchage, et sa soucoupe en ancienne porcelaine,a fond or charge d de fleurs en couleur.
+- couverte en ancienne porcelaine, decor a semis de gerbes de fleurs. Le deversoir et lamorce du manche simulant un
+- 65—Saxe.Petite verseuse cylindrique branchage. Poignee en bois.
+- 66 — Saxe. Groupe de trois personnages :Le Marchand
+- de bijoux. Ancienne porcelaine.
+
+(No 246. Vente de la Succession de Mme Vve Escudier, 26 avril 1883.)
+
+- 67 — Saxe. Deux statuettes de fillette et jeune garcon,
+- costumes en orientaux, en ancienne porcelaine decoree en couleur.
+- 68— Saxe. Mouton broutant en ancienne porcelaine, decor au naturel.
+- 69
+- — Saxe. Petit vase, a cinq goulots, en ancienne porcelaine, decor a personnages et fleurs en couleurs, dans le gout japonais.
+- 70 — Saxe. Vase en ancienne porcelaine, de forme ovoide, decor a gerbes de fleurs dans le gout japonais.
+- Marque A. R. en bleu.
+
+(No 184. Vente de la Collection de M. le baron L. d Ivry,
+
+7-9mai 1884.)
+
+- —Sevres. Deux soucoupes en ancienne porcelaine
+- 71 pate tendre, a decor, au centre, oiseau; a la chute, six reserves a fleurs et vannerie, alternant. Annee 176o, Evans,decorateur.
+- 2— Sevres. Petite tasse droite,a une anse,et sa sou72 coupe en ancienne porcelaine pate tendre, a decor de medaillons charges de couronnes de roses, bleuets, et feuillages de laurier, reserves sur fond bleu de roi. Petitebordurea entrelacs de feuillages et batons rompus en dorure. Annee 1772,Tandart,decorateur.
+- 73—Sevres. Tasse arrondie, couverte, a deux anses, avec son presentoir, en ancienne porcelaine tendre, decor bleu dit bleu de Vincennes, et reserves a oiseaux dans des encadrements de feuillages sen dorure. Theodore,doreur,annee 1758.
+
+(No554.Vente de la Collection deLafaulotte,5au 13 avril 1886.)
+- 74— Sevres. Petite tasse et sa soucoupe en ancienne porcelaine tendre, decor en couleur et dorure; médaillons relies par des guirlandes de feuillages; bandes bleu, rose, et frise de postes. Capelle, decorateur.
+- -Sevres. Tasse et sa soucoupe en ancienne porcelaine pate tendre, decorees degodrons en blanc sur fond bleu de roi;bordure en dorure.
+
+(N71. Vente de la Collection Fournier,2 au 6 mars 1885.)
+
+- 76
+- 5-Urbino.Plat rond en ancienne faience,attribue a Fra Xanto, decore en plein d'un sujet ayant trait a la conquete de la Toison-d'or.
+
+(No 7. Premiere vente de la Collection de feu M. Beurdeley pere, g-10 avril 1883.)
+
+- -Vienne. Ecuelle couverte en ancienne porcelaine, 77
+- decor a bouquet de fleurs en couleur. Bordure a rinceaux en dorure.
+## CERAMIQUES MONTEES
+
+- 78—Deux LAMPEs, formees chacune d'un vase-rouleau, en celadon vert pomme, fleuri, en bleu. Monture en bronze simulant des aiguieres.
+- a parfums,f formee d'un vasebalustre, en ancien celadon craquele de la Chine,a anses et bandes reservees en biscuit brun. Monture en bronze cisele.
+- 8o -PAIRE DE VAsEs-BALUsTREs en ancien celadon gris craquele de la Chine, avec bande reservee en biscuit sur 1épaulement. Montures en bronze cisele dore, comprenant : collerettes, anses et bases, a rocailles et
+- feuillages.
+- (No 131.Vente de la Collection Laurent Richard,28-29 mai 1886.)
+- 81 -BoITE RECTANGULAIRE couverte en ancien biscuit de Chine, decor a fleurs et feuillages en emaux verts, reserves sur fond de biscuit vermicule. Monture en bronze dore formant brule-parfums.
+- (No 146.Vente de la Succession de Mme Vve Escudier, 26 avril 1883.)
+- 82—PAIRE DE FLAMBEAUx, composés chacun d'un groupe de deux divinites chinoises assises cote a cote, en celadon bleu turquoise, compris dans une monture en bronze cisele dore a branchages.
+- (No 18o. Vente de la Succession de Mme Vve Escudier, 26 avril 1883.)
+- 83 —PETIT BRuLE-PARFUMs, de forme spherique, en ancien celadon de Chine, bleu turquoise, marbre de bleu
+- fonce. Monture en bronze cisele.Genre Louis XV.
+
+(No 6gg.Vente de la Collection de Lafaulotte, 5 au 13avril 1886.)
+
+- 84 —VAsE en ceramique flambee. Monture en bronze,a branchages.
+- 85EcuELLE couverte et son presentoir en a
+- ancienne porcelaine du Japon, a décor bleu, rouge et or, de medaillons a figures, sur fond caillouté. Monture ancienne en argent cisele.
+- 86 — DEUx PoTs sPHERIQUEs couverts en ceramique de Satsuma; decor a reserves de personnages et attributs. Monture en bronze.
+- 87 —PeTIT vAsE en ceramique de Satsuma, decoré de compartiments contenant des personnages, des fleurs et des oiseaux. Collerette a anses, et base en bronze cisele et dore.
+- 88 -Deux cHIMEREs assises en ancienne ceramique de Satsuma; sur socle rectangulaire en bronze cisele dore.
+
+(No 1o1.Vente de la Succession de Mme Vve Escudier,26 avril 1883.)
+
+- pouvant faire garniture, en ancienne porcelaine de Saxe-Marcolini,a decor de fleurs peintes et de guirlandes en relief et dorees.
+- 89— TROIS PETITS VASES, Bases et couvercles en bronze doré.
+
+(N 2o7.Vente de la Collection de feu M.H. Sennegon, gau 11mai1887.)
+
+- g0 — DeUx VAsEs-JARDINIEREs en porcelaine bleue, decorés en couleur et dorure, a compositions pastorales. Monture en bronze dore.
+## ORFEVRERIE
+
+- 91 —— CaLice en argent grave doré, sur base polylobée, decor a medaillons émailles, deux armoriés, un avec le Christ en croix. La tige a noeud avec medaillons a
+- figures gravées. xive siecle.
+
+(N 4o6.Vente de la Collection de feu M.le comte de la Beraudiere.)
+
+- 92—PETIT GoBELET en argent fondu et cisele, a piédouche, decore sur fond amati de palmettes, d'attributs, et godrons sur le piedouche. Epoque Louis XIV.
+
+(No 73.Vente de la Collection Paul Eudel, 25-26 avril 1884.)
+
+- 93— CAFETIERE couverte en argent, a godrons obliques. Vieux Paris. Epoque Louis XV. Manche en bois.
+
+(No 472.Vente dela Collection de Lafaulotte,5-13 avril 1886.)
+
+- 94 —— PAIRE DE FLAMBEAUx en argent fondu cisele; la tige creusee de canaux; noeuds et agrafes. Le binet a godrons et cannelures, ainsi que sur la base mouvementee,avec écusson d'armoiries. Poincon de Henri Clavel, regisseur general. Epoque Louis XVI.
+
+(Vente de la Collection de feu M. H. Sennegon, 9-11 mai 1887.!
+
+- 95 — CAFETIERE en argent, a cotes obliques, deversoir fait d'un col de cygne. Manche en bois. xvin siecle.
+- 96 — SucrIEr couvert avec son presentoir en argent ciselé. Le couvercle surmonte d'un dragon.
+- 97 —— GoBELET DoUBLE, forme d'une ff figurine de femme
+- debout, en argent repousse, decorée de rinceaux et d'arabesques. Elle tient un seau éleve au-dessus de sa tete. Allemagne, xvir siecle.
+
+(No 21g.Premiere vente de la Collection de feu M. Beurdeley pere,
+
+9-10avril1883.)
+## OBJETS VARIES
+
+## D'ORIENT ET D'EXTREME-ORIENT
+
+MATIERES DURES,LAQUES,BOIS
+
+BRONZES,EMAUX CLOISONNES ET AUTRES
+
+- 98 —Vase en cristal de roche sculpte, a anses tetes d'éléphant et anneaux mobiles, supporte par un fonghoang. Travail chinois.
+- 99 — PETIT socLE en jade vert sculpte ajouré. Travail chinois.
+- 100 — PETITE BOITE RONDE couverte en jade vert sculpte.
+- Le dessus du couvercle decore d'une rosace. Travail chinois.
+- —PETIT ECRAN RECTANGULAIRE, forme d'une plaque 101 en jade blanc verdatre sculpte, gravé sur ses deux faces. Monture en bois de fer ajoure.
+- (No g2. Vente de la Succession de Mme Vve Escudier, 26 avril 1883.)
+- 102 —PETITE couPE, a deux anses, en jade grave; au pourtour, pois en relief. Ancien travail chinois.
+- 103 —PETITE BoITE RONDE couverte en jade gravé. Ancien travail chinois.
+- 104 — Deux vAsEs, de forme surbaissée, munis de cou-
+- vercle, en bois laque, a decor de semis de fleurettes. Travail persan.
+
+(No 835.Vente de la Collection de Lafaulotte,5-13 avril 1886.)
+- 105 — PETITE BoITE RONDE couverte en ancienne laque rouge de Pekin, decor a fleurs, divinite, et dragon en relief.
+- 106 INRo en ancienne laque d’or du Japon, decore de
+- coqs et poules, en nacre gravée, muni d’un bouton,
+- 107 一 VASE, a trois compartiments, en laque d'or du Japon; le bouchon recouvert d'une étoffe simulée; decor de branchages et fleurs sur la panse.
+- 108 —SocLE en bois ajouré,a entrejambes bronzes. Dessus de marbre. Travail chinois.
+- orne de
+- Iog — BoITE RoNDE avec son couvercle en ancien email cloisonne de Chine,a fond jaune chargé de guirlandes de feuillage de chene et d'etoiles. Petites bordures a lambrequins, fond bleu.
+- 11o DEUx GRossEs BOUTEILLEs en émail cloisonne de
+- Chine, fond bleu turquoise charge de branchages fleuris, insectes. Base en bronze. Montees en lampe.
+- —Deux vAsQuEs en émail cloisonne de Chine, a fond de fleurs; petite bordure a
+- III bleu turquoise, chargé lambrequins. Pied-support en bois noir.
+- 112—DEUX PERDRIX, formant brule-parfums, en ancien email cloisonne de Chine.
+- 113— BuIRE PERsANE,a panse piriforme aplatie, en metal incruste d'or et d'argent, a fleurs, arabesques et ornements. Travail ancien.
+
+(No 154.Vente de la Collection de feu M. Beurdeley pere, g-10avril1883.)
+- 1I4—DEUX VASES couverts en cuivre grave repercé. Travail oriental.
+- 115 —DeUx FLAMBEAUx en cuivre grave. Travail oriental.
+- (No 35g.Vente de la Collection de M. Becherel, 26-27 novembre 1883.)
+- 116 —PETITE coUPE LIBAToIRE, en forme de peche,en argent émaille, munie d''une anse-branchage. Ancien travail chinois.
+- 117 — Deux PETITs vAsEs A coTEs en bronze laque et partiellement doré, decor A figures de danseuses, et arbustes graves en relief.
+
+(No24o.Vente de la Collection de M.le baron L.d’Ivry, 7 au g mai 1884.)
+
+- 118 — PeTITE TAssE et sa soucoupe a bord lobe en bronze patine et partiellement dore, decor en relief de feuillages. Anse formee de branchages fleuris. Travail tonkinois.
+## OBJETS DE VITRINE
+
+## BOITES
+
+- 119 — BoITE A PoUDRE RONDE en argent; le couvercle
+- orne d'une plaque de nacre gravee, presentant Diane et ses nymphes au repos, dans un paysage. Ancien travail étranger.
+- 120 — BoITE RoNDE en ebene, avec medaillon en ivoire et bois sculpte,attribue a BoNzANIGo jeune. Le sujet represente une jeune femme debout pres d'un arbre et separee d'un amour par un tertre sur lequel on lit: Longe et prope.
+
+(No 81.Vente Alph.Maze-Sencier,19 mars 1886.)
+
+- 121 — GRANDE BOITE RECTANGULAIRE,a couvercle ouvrant
+- a charniere,en ancienne porcelaine de Saxe, decoree en couleurs, sur toutes ses faces de sujets militaires. A linterieur du couvercle,le portrait du grand Fréderic, dans un medaillon. Monture en argent.
+- 122—BoITE RECTANGULAIRE, a couvercle a charniere, en
+- émail de Saxe ou de Battersea,a fond bleu, decore de medaillons a bouquets de fleurs au pourtour, et d'un sujet: le Passage du gue, sur le couvercle.
+
+(No 131. Vente de la Collection de M.le baron L. d'Ivry, 8-gmai1884.)
+- 123 — BoITE ovALE en vernis Martin, a fond rouge feu caillouté. Le couvercle decoré d'une gerbe de fleurs en couleurs. Monture en cuivre doré.
+
+(No I17.Vente de la Collection de M. le baron L. d'Ivry, 7augmai1884.)
+
+- 124 — BoITE RoNDE en écaille, cerclée d'argent doré, decoree au vernis, et offrant sur le couvercle un festin
+- galant dans une auberge. xvin siecle.
+
+(No 1go.Vente de M. le comte Sapia de Lancia, 18-21 mai 1885.)
+
+- 125 — PETITE MoNTRE, en forme de mandoline, en or par-
+- tiellement emaille en couleur. Travail de Geneve, commencement du xixe siecle.
+- 126 — CHATELAINE en or partiellement émaille, avec breloques. Spatule en argent.
+## MINIATURES
+
+- 127 — MINIATURE RONDE, de 1Ecole francaise :Portrait d'une jeune femme paree d'un diademe; vetue d'une
+- robe decolletee, et d’un manteau d'hermine.
+- 128 — MINIATURE RONDE peinte en grisaille, de 1Ecole
+- francaise : Jeune Bacchante et enfants dansant.
+- 129 — MINIATURE RoNDE, de 1Ecole francaise: Portrait de jeune femme en robe blanche decolletee,un sein
+- decouvert. La chevelure paree de pampres de vigne.
+- (N 41.Vente de Mme la vicomtesse de La Panouse,26-2g avril 1882.)
+- 13o —MINIATURE RoNDE, de 1Ecole francaise :Portrait
+- de jeune femme en robe decolletee, assise dans un parc, accoudee sur une console supportant des fruits. (No 1o7.Vente de la Collection de M.le baron L.d'Ivry.)
+- 131 — MINIATURE ovALE, de 1'Ecole francaise:Portrait de jeune femme,les cheveux courts et boucles,vetue d'une robe decolletee a grand col.
+- 132 — GRANDE MINIATURE RONDE, de 1Ecole francaise : Portrait de jeune femme,vetue d'une robe decolletee violette. La chevelure bouclee, paree de perles. Fond
+- deparc.
+- 133—MINIATURE ovALE, de 1Ecole francaise:Portrait de jeune femme de trois quarts a gauche, vetue d'une robe verte,un fichu de linon croise sur la poitrine et coiffee d'un bonnet a rubans.
+- 134 — MINIATURE RECTANGULAIRE, de 1'Ecole francaise : Portrait presume de Madame de Chateauroux en bergere, dans un paysage.
+
+(No 23o. Collection de M. le comte Sapia de Lancia.)
+
+- 135—MINIATURE RECTANGULAIRE:Portrait de femme en costume Directoire.
+- 136 — MINIATURE ovALE, de 1'Ecole francaise : Portrait de femme de trois quarts a gauche, en costume
+- Louis XIV.
+- 137 —— PETITE MINIATURE ovALE, peinte en grisaille, Ecole
+- francaise du xvin siecle : Portrait d'homme.
+- xvinl siecle : Portrait d'homme de trois quarts a
+- 138—PETITE gauche, en costume bleu brode.
+- 139 — MINIATURE ovALE en largeur, de 1Ecole francaise du xvinre siecle : Jeune femme coupant les ailes a un amour qu'elle tient sur ses genoux.
+- 140 - MINIATURE ovALE, de 1Ecole francaise du xviIIe siecle : Portrait de femme de trois quarts a droite, en robe décolletee bleue, coiffée d'un bonnet de lingerie, le cou pare d'un collier de perles.
+- 141  MINIATURE OVALE en largeur, fixe sous verre, présentant une chasse du roi Louis XV. xvi siecle. Cadre
+- en argent partiellement émaille.
+- 142 — PETITE MINIATURE OVALE, de 1Ecole francaise du xvil siecle: Portrait d'un prince, revetu de sa cuirasse; la poitrine barree d'un cordon d'ordre. Cadre-medail-
+- lon en argent dore.
+
+(No 254 Vente de la Collection de M.le comte Sapia de Lancia,
+
+18-21 mai 1885.)
+
+- 143 — MINIATURE RONDE, de 1'Ecole francaise du xVIe siecle: Jeune femme assise dans un fauteuil, tenant une fillette sur ses genoux.
+- 144 — PETITE MINIATURE OVALE, de 1Ecole francaise du xvinl siecle : Portrait d'homme de trois quarts a droite,
+- en habit lilas.
+- 145 —PETITE MINIATURE RECTANGULAIRE, de 1Ecole francaise du xvin siecle : Portrait de jeune femme en
+- robe decolletee, ruche autour du cou.
+- 146 — MINIATURE ovALE en largeur, Ecole francaise du xvill siecle :Portrait d'un architecte.
+- 147 —PETITE MINIATURE ovALE, de 1'Ecole francaise du xvle siecle : Portrait de jeune femme de trois quarts a droite, vetue d'une robe decolletee,bordee de four-
+- rure.
+- 148MINIATURE RECTANGULAIRE, du xVII1 siecle :Portrait de femme de trois quarts a gauche, en robe decolletee, drapee dans un manteau bleu, la chevelure paree de bleuets.
+- 149 — MINIATURE RONDE :Portrait d'homme en buste, la
+- tete presque de face,les cheveux releves et frises; cravate de lingerie; habit fonce. Ecole anglaise du xvin siecle. Cadre en or.
+
+(No 251.Vente de la Collection de M. le comte Sapia de Lancia.)
+
+- signee,representant Louis XVI de trois quarts a gauche, en riche
+- 150 —MINIATURE RONDE, Par DUMONT,S costume,
+## EMAUX ET IVOIRES
+
+## EUROPEENS
+
+- 151 — DEUX PLAQUES RECTANGULAIRES en emaux de couleurs et rehausses d'or, du xvr siecle,representant: l'une, le Couronnement d'epines; 1autre, la Flagellation. Cadre en bois noir.
+
+Haut.,23cent.;larg.,16 cent,
+
+N 1o5.Premiere vente de la Collection de feu M.Beurdeley pere, 9-10avril 1883.)
+
+- 152 —DEUX PETITES PLAQUES RECTANGULAIRES, dans le meme cadre, en ancien émail peint en grisaille,par PIERRE RAyMoND, de Limoges, du xVI siecle, représentant :1une, 1Enlevement de Dejanire; 1autre,un sujet relatif a Hercule.
+- (No 1og. Premiere vente de la Collection de feu M. Beurdeley pere, 9-10 avril 1883.)
+- 153 —PLAQUE RECTANGULAIRE en ancien email peint de Limoges,atelier des Penicaud, xvr siecle,representant la Mise au tombeau.
+
+(No g5. Vente de la Collection de feu M. Joseph Fau,
+
+3au 8mars 1884.)
+
+- 154-PLaQuE cintree a sa partie superieure en ancien
+- email peint de Limoges, portant le monogramme: I.R. Elle représente le Christ en croix. Au fond, la
+ville de Jerusalem; a gauche, au premier plan, saint Pierre debout; a droite,la Donataire agenouillée, ayant pres d'elle un personnage debout vetu d'un manteau fleurdelise et portant la couronne imperiale. I1 tient la boule du monde d'une main et un glaive de l'autre.
+
+(N gg.Premiere vente de la Collection de feu M.Beurdeley pere, g-10avril1883).
+
+- 155 —Deux sTATuETTEs en ivoire sculpté, representant Apollon et Flore debout. xvir siecle. Socles en bois
+- noir tourne.
+- (N 117.Vente de la Collection de feu M. Joseph Fau,3-8 mars 1884.)
+- 156STATUETTE d'enfant nu, debout,une draperie
+- autour du torse. Socle en bois noir et ivoire.xvin siecle.
+
+(No 232. Vente de la Collection de M.le baron L. d’Ivry, 9 mai 1884.)
+
+- 157—VoLET
+- RECTANGULAIRE dediptyque en ivoire sculpté， representant saint Michel,la Vierge et 1'Enfant et sainte Catherine, sous des fenestrages gothiques.
+- 158 —MEDAILLoN ovALE, peint sur émail, representant saint Nicolas, dans un entourage simulant un cadre a cartouches armories et croix de Lorraine dans les milieux,ainsi que des oiseaux aux ailes éployées. xVll siecle.
+
+(No 47. Vente de la Succession de Mme Vve Escudier, 26-29 avril 1883.)
+## OBJETS VARIES
+
+## EUROPEENS
+
+- 159 — PLATEAU cIRcULAIRE en verre de Venise grave, decore d'armoirie papale dans le fond. xvre siecle.
+- 16o— QUATRE VITRAUx RONDs, du xvI siecle, peints en grisaille et representant la Nativite,Jesus chez les disciples d'Emmaus, Jésus montre au peuple,et le Martyre d'une sainte.— Deux autres vitraux ovales peints en grisaille : 1Automne et lHiver.
+
+(Nos 417-418. Vente de la Succession de Mme Vve Escudier, 26avril 1883.)
+
+- 161 — BaisER DE PAIx en bronze et argent. Italie, xvie
+- siecle.
+
+(No Io1.Vente de la Collection du baron Davillier,
+
+29 avril-4mai 1887.)
+
+- 162 —CoFFRET RECTANGULAIRE, Contenant des tiroirs,en marqueterie d'ivoire grave, a decor de rinceaux. Travail italien, xvil siecle.
+- 163 —ORNEMENT-APPLIQUE en bronze patine, de forme mouvementee, a decor de rocailles et medaillons présentant le Bapteme du Christ, xvinle siecle.
+
+(Ng11.Vente de la Collection deLafaulotte,5-13 avril 1886.)
+- 164 — PeTIT vAsE ovoiDe a piedouche, sur socle a degrés, en spath-fluor et bronze cisele dore, muni d'un couvercle a bouton pomme de pin, anses-tetes de belier, guirlandes, lyre,entrelacs, etc.xvin siecle.
+- 165 —EcRIToIrE, formée d'un panneau, et deux godets d'ancienne laque du Japon. Monture en bronze cisele
+- doré, a rocailles. Genre Louis XV.
+- 166 —PoIGNARD, a manche et gaine en argent, a decor
+- de feuillage.
+
+（Partie du n 145de la vente de la Collection Paul Eudel,
+
+25-26avril1884.)
+
+167 -Deux PoMMEs DE CANNE en fer damasquine d'or.
+
+- 168 — Coupe, en forme de conque, en cristal de roche, supportee par une femme debout, sur base feuillagee. Cariatides et monture en argent dore.
+- 16g —Deux vAsEs en granit gris, de forme ovoide,a piedouche, munis chacun de deux anses en bronze dore. Socles carrés en porphyre, avec embases en bronze.
+
+(No213.Vente de la Collection de Lafaulotte,5-13 avril 1886.)
+
+- 170 — DEUX PETITs SOCLEs CYLINDRIQUEs en granit rose;
+- base a bague en bronze cisele doré, sur plinthe carrée.
+
+(No215.Vente de la Gollection deLafaulotte, 5-13 avril 1886.)
+- —VAsE couvERT, de forme ovoide, a piedouche,en
+- 17Imatiere simulant le porphyre.
+- 172  DEUx coLoNNEs-sUPPoRT en marbre et bronze, a chapiteaux.
+- 173 —PiEcE DE MILIEu en marbre bleu-turquin et argent,
+- en forme de sphere, surmontee du char d'Apollon en argent. Base en marbre rouge et bronze doré.
+
+(Vente du comte F.de Lagrange,25-27 février 1884.)
+## SCULPTURES
+
+## EN MARBRE,TERRE CUITE ET BRONZE
+
+- 174 —— GrouPE, comprenant cinq personnages : la Vierge, Saintes femmes et guerriers.
+
+(No 184.Vente de la Collection de M. Becherel, 26-27 novembre 1883.)
+
+- 175—STATuE en marbre blanc: Jeune fille assise
+- a terre,les jambes repliees.
+- 176 — BusTe de jeune femme,la coiffure parée de fleurs.
+- Terre cuite, par A. CARRIER. Signe.
+- I77 ——BusTE de jeune f
+- femme en terre cuite,par A.CARRIER. Signe.
+- 178 — GRoUPE ALLEGoRIQUE en marbre blanc sculpte, par D'EPINAY, representant les Trois Heures de la Vie, sous les traits de trois jeunes femmes, nues, drapees.
+
+Haut., 1 m. 95 cent.; long., 1 m. 48 cent.; larg, 40 cent.
+
+（No 1.Vente dEpinay,20-21 avril 1885.)
+
+- D'EPINAY.
+- blanc,par
+
+(No 6.Vente d'Epinay,20-21 avril 1885.)
+
+- 18o — GroupE en marbre blanc sculpte,attribue a CLESINGER: Flore,le torse nu, drapee, étendue sur un lion, et tenant une guirlande de fleurs.
+
+Haut., 1 m. o5 cent.; long., I metre; larg., 32 cent.
+- 181 — BusTe de jeune femme, la chevelure parée d’'un
+- bouquet de roses, pique sur une mantille, par LeGRAND.
+
+(No 94.Vente de la Collection Laurent-Richard, 28-29 mai 1886.)
+
+- 182 — GrouPE en marbre blanc, par MAILLET :L'Amour corrige. Socle en marbre rouge. Signe : J. L. Maillet
+- 1861.
+- 183— BusTE de femme en marbre blanc, un diademe dans les cheveux, par FAURE DE BRoussE.
+- 184 — BusTe de jeune femme en marbre blanc, par FAuRE DE BROUSSE.
+- 185 — SAINT SEBAsTIEN en bronze, a patine rougeatre.xvi siecle.
+
+(No 314.Vente de la Collection de feu M. Joseph Fau du3au8mars1883.)
+
+- 186 —PeTIT BUsTE d'homme,les cheveux tombant sur les épaules. Bronze patine. Italie, xvr siecle. Support en
+- bois tourne.
+
+(No31o.Vente de la Collection de feu M. Joseph Fau du3au8mars1884.)
+
+- 187 — STATuETTE en bronze patine : Venus a l'ecrevisse. xVl siecle.
+
+(No 367.Vente de la Collection de M. Becherel, 26-27 novembre 1883.)
+
+- 188 — SrATuETTE de femme drapee, debout, en bronze
+- patine, xvil siecle. Socle en serpentine d'Egypte.
+
+(No 341.Vente de la Succession de Mme Vve Escudier,26-29 avril 1883.)
+- 18g — Groupe en bronze a patine brun clair:representant 1'Enlevement d'Europe. Sur socle rectangulaire en marqueterie de cuivre sur écaille ; decor a rinceaux, moulures, écoincons et mascarons en bronze cisele. Epoque Louis XIV.
+
+(No3o1.Vente de la Collection Charles Stein,1o-14 mai 1886.)
+
+- I90 — STATuETTE équestre de Louis XIV, represente en empereur romain. Bronze patiné. Gaine en bois, garnie de velours rouge.
+
+Haut. du groupe, I m.1o cent,
+
+- Ig1 — SrATuETTE équestre de Marc-Aurele en bronze
+- patine. Ancien travail italien.
+- (No 331.Vente de la Succession de Mme Vve Escudier, 26 avril 1883.)
+- I92 —STATUETTE en bronze patine, de CLEsINGER. Edition Barbedienne.
+- 1g3 —ToRO RoMANO en bronze, de CLEsINGER. Edition Marnhyac.
+- 194 — FeMMe drapee, etendue, appuyee sur une urne renversee,symbolisant une Source. Bronze patine. Edition Barbedienne.
+- 195— TiGRE devorant une antilope. Bronze patine, de BARYE.Edition Barbedienne.
+- 196—QuATRE PETITs BRoNZEs patines :Bustes et statuettes.
+- 197 — DeUx PANNEAUx, renfermant ensemble trente-quatre medaillons en bronze, par DavID D'ANGERs : Portraits de contemporains de l'artiste.
+## BRONZES D'AMEUBLEMENT
+
+## PENDULES
+
+- 198 —— PeNDuLE en bronze, grave, dore, ajoure, en forme
+- de vase a piedouche et deux anses, contenant le mouvement. Socle a huit pans, sur quatre pieds a tetes d'angelots. xvr siecle. (Le mouvement a éte refait.)
+
+(No 166. Premiere vente de la Collection de feu M. Beurdeley pere.)
+
+- 199 — TREs BELLE PENDULE et son socle, a quatre faces,
+- de lépoque Louis XIv, en écaille marquetee de cuivre et richement garnie de bronzes ciseles et dores. Le panneau du fond est marquete sur les deux faces de cuivre et d'écaille（partie et contre-partie) et decore de beaux ornements dans le style de Berain.Mouvement marque:Boucheret,a Paris.
+
+(No 3o5. Vente de M.le baron L. d’Ivry, 7-9 mai 1884.)
+
+- 200  PENDuLE en écaille et marqueterie, ornee de bronzes dores,a fronton cintre surmonte d''un dome couronne d'une statuette de Renommee,et de quatre vases enflammes aux angles. Elle est enrichie de cariatides allegoriques engainees, s'appuyant sur des pieds a volutes. Sur le devant du cadran,le char d'Apollon. Elle repose sur une gaine en bois noir également ornee de bronzes et filets de cuivre; pieds a griffes
+
+Haut. totale,2 m.3o cent.
+
+(No 444.Vente de la Succession de Mme Vve Escudier,26 avril 1883.)
+
+- de lions. Epoque Louis XIV.
+- 201 - PeNDuLE a cage rectangulaire en écaille incrustée et ornements. Elle est surmontee d'un dome oblong en cuivre cisele, decoupe et dore, decoré de bustes et d'ornements et garni d'une poignee. Mouvement de
+- Christophe Schoener. xvine siecle.
+
+(No 371.Vente de la Collection Charles Stein, 10-14 mai 1886.)
+
+- 202 —GALERIE de foyer en bronze cisele dore. Genre
+- Louis XIV.
+- 203 —PAIRE DE PETITs FLAMBEAUX en bronze cisele dore, tige a quatre bustes allegoriques engaines. Genre
+- Louis XIV.
+- 204  PAIRE DE CANDELABREs en bronze cisele, doré, a sept lumieres; pieds a volutes, sur base triangulaire.
+- Genre Louis XIV.
+- 205 —PETIT CARTEL en bronze ciselé et doré, de forme mouvementee, a motifs de rocailles feuillagees et fleuries. Sous le cadran, marque: Barat, a Paris,un trophee d'instruments de musique. Epoque Louis XV.
+
+(No 86g.Vente de la Collection De Lafaulotte, 5-13 avril 1886.)
+
+- 206 — PAIRE DE FLAMBEAUx en bronze cisele dore, a tige fuselee et cannelee; base a moulure feuillagee. Epoque
+- Louis XVI.
+- 207—PAIRE DE PETITs FLAMBEAUx en bronze cisele dore, a tige, cariatides de femme drapee. Base a godrons. Edition Barbedienne. Genre Louis XVI.
+- 208—PAIRE DE FLAMBEAUx,a base mouvementee, a rocailles, cartouches et feuillages, en bronze cisele dore.
+- 20g — GroupE en bronze et granit, representant la Jus-
+- tice sous les traits d'une femme assise sur une nuee, reposant sur une hemisphere. Base a gorge, a quatre pieds a griffes, et agrafes a larges feuilles.
+- 210 —DEUx LAMPEs, formees chacune d'unvase， en bronze patine, avec fleurs en relief, partiellement argente et dore.
+## MEUBLES,SIEGES
+
+- 211 —DEUx GRANDEs cOLONNEs en bois sculpte peint et
+- dore, representant une tete de cheval engainee, a volutes, draperies, feuillages, se terminant par deux sabots fourchus. xvile siecle. Sur chaque tete de cheval, on a adapte un bouquet de lumieres en bronze.
+
+Haut. totale: 1 m.8o cent.
+
+- 212 - PeTITE vITRINE, formee d'une cage de pendule, du xvin siecle, en marqueterie de cuivre sur écaille, mouluree de bronze doré.
+- 213 —DEUx MEUBLEs D'ENTRE-DEUx, a hauteur d’appui, en
+- marqueterie de bois de couleur, ouvrant a une porte ; ornementation de bronzes ciseles dores. Dessus de marbre. Genre Regence.
+- 214 DEUx GAINEs D'APPLIQUE en bois noir, ornees d'encadrements, chutes a medaillons, moulures, trophees, en bronze. Genre Regence.
+- 215 —VITRINE D'ENTRE·DEUx, a hauteur d'appui, en bois de violette. Garniture de bronzes ciseles dores. Genre Louis XV. Maison Sormani.
+- 216 — TaBLE A JEu, de forme mouvementee, en marqueterie de bois de couleur, ornée de bronzes. Genre Louis XV.
+- 217 — VITRINE DRoITE en bois sculpte dore, ouvrant a une porte. Genre Louis XVI.
+- 218— MEUBLE-CABINET, de forme architecturale, en bois noir moulure,orné d'incrustations de marbre de couleur et de lapis-lazuli. Il est agremente de statuettes, d'appliques, de chapiteaux en bronze doré. Il ouvre a portes et tiroirs, et couronné de balustres.
+
+Haut.,2m.35 cent.
+
+- 219 — FauTEuIL a siege et dossier rectangulaires, recouverts d'ancienne tapisserie d'Aubusson du commenceavec animaux, encadré de fleurs sur fond blanc et
+- ment du xix siecle,offrant au centre un medaillon contrefond bleu verdatre.
+- 220 —Deux CHAisEs cannees en bois sculpte dore, a
+- coquilles et palmettes. Genre Regence.
+## MEUBLE
+
+## RECOUVERT EN TAPISSERIE
+
+## TAPISSERIES
+
+- 221 — IMPORTANT AMEUBLEMENT DE SALON en bois SCulpte
+- dore, couvert de tapisserie a fleurs, sur fond blanc, dans des encadrements de rinceaux, contrefond rose; il se compose : d'un grand canape, deux marquises, quatre fauteuils, quatre grandes chaises, quatre chaises legeres et une causeuse.
+- 222 —QUATRE PORTIEREs DoUBLEs, et quatre cantonnieres
+- en tapisserie analogue.
+- 223— TAPISSERIE RECTANGULAIRE DE BRUXELLES,du xvil siecle, presentant une composition a grands personnages : Le Depart pour le Carrousel. Dans un parc avec chateau d'eau,on voit, a droite, sur le perron d'un palais a colonnade,une femme et un homme en costume oriental, un chien aupres d'eux. Au bas de 1'escalier, un enfant donne lar main a une dame de qualite en riche robe a traine, que releve un page. Elle offre une écharpe a un gentilhomme. Un petit chien aboie apres le groupe. Sur la gauche, un cavalier monte un cheval piaffant; en arriere,on apercoit un cheval tenu en main par un valet. Riche bordure d'encadrement, a chutes et enchevetrement de fleurs
+
+Haut.,3 m.40 cent.; larg.,3 m.6o cent.
+
+26-29 avril 1882.)
+
+- et feuillage.
+
+(No 343. Vente de Mme la vicomtesse de La Panouse,

@@ -1,0 +1,508 @@
+## CONDITIONS DE LA VENTE
+
+Elle sera faite au comptant.
+
+Les adjudicataires paieront dix pour cent en sus des encheres.
+<!-- image -->
+
+## DESIGNATION
+
+## CERAMIQUE
+
+## FAIENCES ITALIENNES
+
+## PORCELAINES DIVERSES
+
+- AssIETTe,decoree de fleurs.Ancienne porcelaine
+- de la Compagnie des Indes.
+- -Deux PLATs en ancienne porcelaine de Chine, decores au centre d'un vase avec fleurs et fruits; marli a lambrequin et carrelages.Epoque Kienlung.
+
+Diam.,39 cent 1/2.
+
+- 3 Deux PLATs en ancienne porcelaine de Chine, decores en emaux de couleurs :paysages avec pagodes, au centre; bordures a reserves sur fond de couleurs.
+- 4—PAIRE DE PETITS CoRNETS EVASES en ancienne porcelaine de Chine, epoque Kien-lung, decores en emaux de couleurs et dorure: arbustes feuris avec oiseaux et bordure superieure a car-
+- relages.
+- 5—PAIRE DE PETITES POTiCHEs, forme balustre, en ancienne porcelaine de Chine, epoque Kienlung, decorees en émaux de couleurs :arbustes fleuris, lambrequin vermicule charge de fleurs, emblemes divers et petite bordure a la base (les
+- fonds refaits).
+
+Haut., 23 cent.
+
+- 6—PAIRE DE coRNETs,a renflement median, en ancienne porcelaine de Chine, epoque Kien-lung, a decor polychrome :medaillons charges de vases fleuris,reserves sur fond vermicule orne de rosaces,de fleurs,etc.,en emaux de couleurs.
+
+Haut., 23 cent.
+
+- 7— VAsE-PIToNG en ancienne porcelaine de Chine, epoque Kang-hy, sur base a godrons, en argent.
+- 8—BouTEILLE en ancien celadon de Chine,emaille
+- bleu turquoise. Socle en bois de fer.
+- 9—PLAT en ancienne porcelaine de Chine, de l'époque Kang-hy, decore en émaux de couleurs de nombreux compartiments renfermant des paysages,arbustes,animaux,ustensiles, emblemes, etc. Marque symbolique en bleu.
+
+Diam.,47 cent.
+
+- 10—PoT cYLINDRIQUE,a base arrondie et couvercle, en ancienne porcelaine de Chine, epoque Kang-hy,a decor bleu, de rinceaux feuillages et fleuris.
+
+Haut.,14 cent.1/2.
+- 11 —PoT cYLINDRIQUE coUvERT,a deux petiteS anses et base piedouche, en ancienne porcelaine de Chine,a decor bleu par compartiments offrant des ustensiles varies avec emblemes et des
+- fleurs.
+
+Haut., 16 cent..
+
+- 12--PAIRE DE PETITES POTICHES COUVERTES,de forme balustre,sur plan rectangulaire a pans coupes,en ancienne porcelaine de Chine,epoque Kang-hy, decorees en emaux de couleurs, sur chaque face, d'arbustes feuris,dans des me-
+- daillons encadres de bleu.
+
+Haut., 27 cent.
+
+- 13—PAIRE DE PETITs VAsEs, forme olive,avec col
+- retreci et base a piedouche,en ancienne porcelaine de Chine, époque Kang-hy; decor bleu a compartiments charges de dragons et arbustes fleuris. Marque symbolique en bleu.
+
+Haut.,23 cent.
+
+- 14 — VAsE cYLINDRIQUE, sans fond, en ancienne porcelaine de Chine, epoque Kang-hy,decore de rinceaux verts et fleurs rouges. Il est muni d'une collerette et repose sur une base a trois pieds, volutes en bronze cisele et dore.
+
+Haut.,11 cent.1/2.
+
+- 15— PoT cYLINDRIQuE et son couvercle en ancienne
+- porcelaine de Chine, époque Kang-hy; decor bleu a rinceaux de feuillage et fleurs.
+
+Haut., 10 cent.
+- 16- BoITE cYLINDRIQUE et son couvercle de meme
+- ancienne porcelaine de Chine, de meme epoque et de decor bleu analogue. Marque a la feuille. Monture ancienne en bronze moulure et dore.
+
+Haut., 6 cent.1/2.
+
+- 17- TASSE PoLYGONALE EVASEE et Sa SOucoupe en ancienne porcelaine de Chine, decoree en émaux de couleurs avec compartiments a fleurs reservees sur fond noir.Epoque Kien-lung.
+- 18-VAsE,forme balustre,fait d'une theiere polygonale,en ancienne porcelaine de Chine, emaillee sur biscuit,a decor d'ustensiles divers sur fond jaune. Epoque Kang-hy.Monte en bronze formant brule-parfum.
+
+Haut.,15 cent.1/2.
+
+- 19 -CouPE couvERTE et presentoir en ancienne porcelaine du Japon, decoree en couleurs. Monture en argent grave et cisele du xvie siecle, comprenant collerettes, deux anses ajourees et
+- bouton\_sur le couvercle.
+
+Haut.,13 cent.
+
+- 20 —CouPE couvERTE en ancienne porcelaine du
+- Japon, decoree,en bleu,rouge et or, de rinceaux fleuris.Monture en bronze cisele,ornee de feurettes en ancienne porcelaine decoree au naturel et formant brule-parfums.
+
+Haut.,17 cent.
+- 2l- Deux AssIETTEs en ancienne porcelaine de Saxe, au point; decor de feurs, et trois medaillons avec amours.
+- 22 — DEUX coMPOTIERS CARREs,a bord contourne, en ancienne porcelaine de Boissette,a decor de fleurs en couleurs.
+- 23 —Deux PETITs VAsEs,a deux anses, en ancien
+- biscuit de Niederwiller,a col ajoure et decore de guirlandes de fleurs en relief.
+
+Haut.,12 cent.1/2.
+
+- 24 — DeUx AssIETTES A DEssERT en ancienne porcelaine tendre de Sevres, de la periode de la Republique,offrant au centre une gerbe de fleurs en couleurs,avec marli bleu-turquoise et bordure en dorure.
+- 25- AssiETTE a bord lobe, en ancienne porcelaine tendre de Sevres-Vincennes,decoree au centre d'une gerbe de fleurs en couleurs; marli gaufre
+- et petite feuille de chou.
+- 26 — VINGT FLEURS ET FLEURETTEs VarieeS en ancienne porcelaine,modelees et decorees au
+- naturel.
+- 27— AssIETTE en ancienne porcelaine de Sevres, pate tendre, decoree au centre d'un trophee d'instruments de jardinage et au marli d'un large ruban bleu a picots d'or, offrant six noeuds retenant des guirlandes de fleurs. Annee 1768.
+
+Diam.24 cent.1/2.
+- 28 —AssIETTE en ancienne porcelaine de Sevres, pate tendre, decoree au centre du chiffre D.B. de la Du Barry,fait de laurier en dorure et de roses en couleurs. Le marli offre trois medaillons ovales ornes d'amours sur des nuages separes par des corbeilles remplies de fleurs.
+
+Diam.,24 cent.1/2.
+
+- 29 -DeUx sTATuETTEs en ancienne porcelaine tendre de Vincennes,émaillee blanc avec tons de chairroses.Elles representent un jeune moissonneur et une jeune moissonneuse debout. Sous la statuette du moissonneur,la marque D en
+- en creux.
+
+Haut.,20 cent.
+
+(Collection du comte de Chauagnac, juin 1911.
+
+No260.)
+
+- 30 — GARNITURE DE TRoIS PIEcEs: deuX potiches et un cornet en ancienne faience de Delft,a decor polychrome et noir:Enfants chinois,arbustes feuris et lambrequins. Decor rare.
+
+Haut.,24-cent.
+
+- 3l - CouPE RoNDE,a bord decoupe,en ancienne terre vernissee de la suite de Palissy; decor presentant six mascarons se detachant sur un fond de feuillage.Fin du xvr ou commencement du xvire siecle.
+
+Diam.,26 cent.
+
+- 32 — AuTRE couPE analogue,presentant également six mascarons. Meme epoque.
+
+Diam.,25cent.1/2.
+- 33 — CouPE RoNDE sur petit piedouche en ancienne terre vernissee de la suite de Palissy, representant au centre le Jugement de Salomon;bordure a entrelacs et fleurons.Fin du xvie ou commen-
+- cement du xvlle siecle.
+- 35 cement du xvire siecle.
+
+Diam.,25 cent.
+
+- 34—FRAGMENT DE coUPE ovALE,a bord relevé, sur
+- petit piedouche,en ancienne terre vernissee de la suite de Palissy, figurant Flore dans un parc. Fin du xvi ou commencement du xvire siecle.
+
+Long., 28 cent.
+
+- PLAT ovALE en ancienne terre vernissee de la suite de Palissy, offrant en relief des lezards, fleurs, coquillages, etc. Fin du xvie ou commen-
+
+Long.,32 cent.1/2.
+
+- 36 - CouPE RoNDE sur piedouche en ancienne terre vernissee de la suite de Palissy; au centre,berger,bergere et troupeau;bordure a palmettes et feurons. Fin du xvie ou commencement du
+- xvile siecle.
+
+Diam., 24 cent.
+
+- 37—CoupE,a fond ajoure,en ancienne terre vernissee francaise, presentant au centre des oiseaux stylises encadrant un cerf ; la bordure offre douze mascarons. Fin du xvre ou com-
+- mencement du xvire siecle,
+
+Diam.,32 cent.1/2.
+- 38—PLAT cREux en faience de Castelli, decore d'un sujet mythologique: Neptune et Amphi
+- trite;bordure a enroulement de ruban.
+
+Diam.,33 cent.1/2.
+
+- 39 -PLAT cREux en ancienne faience de Pesaro, decore au centre d'un guerrier a cheval arme d'une lance;marli a compartiments:rinceaux
+- et imbrications.xvie siecle.
+
+Diam., 40 cent.
+
+- 40——PLAT cREux en ancienne faience de Pesaro, decore au centre d'un Saint-Georges,arme de la lance et combattant le dragon;marli a rinceaux
+- et culots feuillages.xvie siecle.
+
+Diam., 38cent.
+
+- 41—GRAND PLAT en ancienne faience de Caffagiolo,
+- decore au centre:L'Annonciation a la Vierge;et, au marli,de compartiments a rosaces et fleurons, sur fonds rouge et bleu. xvr siecle.
+
+Diam.,47 cent. 1/2.
+
+- 42—CoupE, sur petit piedouche, en ancienne faience italienne, decoree en plein d'une figure allegorique de femme au milieu de nuages.
+- xvIe siecle.
+
+Diam.,23cent,1/2.
+
+- 43-PLAT cREUx en ancienne faience d'Urbino,
+- decore en plein d'une composition a personnages tiree de l'Histoire ancienne. Fin du xvie siecle.
+
+Diam.,37 cent
+- 44 —PLAT en ancienne faience d'Urbino,decore en
+- plein d'un sujet tire de l'Histoire ancienne. xvre siecle.
+
+Diam.,37 cent.
+
+- 45—PETIT PLAT en ancienne faience d'Urbino, decore en plein d'un sujet biblique. xvie siecle.
+
+Diam.,23 cent.
+
+- 46—CoupE, sur petit piedouche,en ancienne faience d'Urbino, decoree en plein d'un sujet tire de PHistoire de Joseph, avec ecusson d'armoiries. xvie siecle. Datee aui revers: 1549.
+
+Diam.,26 cent.
+
+- 47—CouPE LoBEE,sur piedouche,en ancienne faience d'Urbino,decoree en plein d'un sujet
+- biblique.xvie siecle.
+
+Diam.,28 cent.1/2.
+
+- 48—PLAT cREux en ancienne faience d'Urbino, pre-
+- sentant au fond une chasse au cerf, et au marli des rinceaux a grotesques avec petit medaillon et la devise: ARDET ETERNUM. xvie siecle.
+
+Diam., 37 cent.
+
+- 49 PLAT cREux en ancienne faience d'Urbino, presentant au centre:Andromede.Bordure a grotesques et animaux, et deux petits medaillons dont l'un offre une salamandre avec l'inscription: ARDET ETERNUM.xvIe siecle.
+
+Diam.,26 cent.1/2.
+- 50— CouPE D'AccoucHEE et son couvercle pouvant servir de presentoir en ancienne faience d'Urbino; chacune des pieces est decoree sur ses deux faces de compositions a personnages,ours et grotesques; petits medaillons et canaux simules a la bordure.xvre siecle.
+
+Diam.,21 cent.1/2.
+
+- 5l -PARTIE CENTRALE D'UN PLAT en ancienne faience de Faenza,offrant au centre un sujet biblique a nombreux personnages; a la chute, decor de mascarons et rinceaux sur fond bleu.xvre siecle.
+
+Diam.,30 cent.
+
+- 52—— Coupe, sur piedouche,en faience genre Faenza : Buste d'homme entoure de rinceaux sur fond
+- bleu.
+
+Diam.,20 cent.1/2.
+
+- 53—PETIT PLAT en ancienne faience de Deruta,a
+- reflets metalliques,presentant au centre un buste de femme avec linscription :FAUsTINA B. Bordure a sphynx,rinceaux,mascacarons, etc.xvie siecle.
+
+Diam., 19 cent. 1/2.
+
+- 54—PLAT en ancienne faience de l'Ecole italienne, peut-etre de Lyon, decore en plein et presentant
+- un sujet biblique. xvie siecle.
+
+Diam., 30 cent.
+## OBJETS VARIES
+
+- 55—SAMovAR,forme vase,en etain,a decor aventurine,monte en bronze et muni de sa lampe a
+- esprit-de-vin. Commencement du xixe siecle.
+
+Haut.,42cent.
+
+- 56 —DEUX LAMPES DE JARDIN en bronze moulure, munies de leur globe en verre. Epoque Louis XIV. Disposees pour I'eclairage electrique.
+- 57— CouPE oBLoNGuE en cristal de roche grave; monture en argcnt partiellement emaille:piedsupport forme d'un dragon a trois tetes soutenant un ecusson d'armoiries.
+- 58 —GLACE RECTANGULAIRE,en hauteur, danS un cadre en bois sculpte dore, decore de guirlandes etde chutes de fleurs.Epoque Louis XVI.
+
+Haut.,1 m.51 cent.;larg., 63 cent.
+
+- 59-GAINE-APPLIQUE en bois sculpte et peint a limitation du marbre et du bronze,a decor
+- d'entrelacs et laurier. Epoque Louis XVI.
+- 60— SocLE-cUL-DE-LAMPE en bois Sculpte ciré,de forme contournee, et decore d'une palmette,de gaines feuillagees a tetes de femmes, avec mascaron a la base. Epoque Regence.
+
+Haut.,4S cent.
+- 61—PoRTEFEuILLE petit in-folio enmaroquin rouge, a gros grain, decore en dorure aux petits fers et d'un écusson d'armoiries surmonte d'une couronne de comte.Il estmuni d'une serrure en argent decoupe et grave avec les memes armoiries; cle en fer reperce et cisele. Commence-
+- ment du xvlre siecle.
+
+Long.,47cent.1/2.
+
+- 62 —CoFFRET RECTANGULAIRE,a desSuS incline, en
+- maroquin rouge,richement orne aux petits fers de larges bordures a rinceaux et,dans un medaillon,d'armoiries avec la devise de la Comtesse Du Barry:BouTEz EN AvANT.Il est muni de deux poignees et de deux fermoirs en cuivre. xvnr siecle.
+
+Haut.,27 cent.1/2;larg.,39 cent.
+## SCULPTURES
+
+EN
+
+## PLATRE,CIRE,TERRE CUITE,MARBRE
+
+## BRONZE ET PLOMB
+
+- 63— GRoUPE DE DEUX ENFANTS DEBOUT, en platre.
+- xvil siecle.
+- 61 — STATuETTE en terre cuite,representant l'Her-
+- cule Farnese, d'apres l'antique. xvie siecle.
+- -SrATUETTE EQUEsTRE : Efigie presumee de Louis XIV,represente en Empereur romain,en marbre blanc, xvlle siecle. Sur socle en marbre
+
+Haut.,1 m.10 cent.；long.,85 cent.
+
+- 66— STATuETrE en bronze patine,representant: Ariane abandonnee.Elle repose sur un socle rectangulaire en marqueterie de cuivre sur écaille, orne de bronzes et muni d'un tiroir. xVInl siecle.
+
+Haut.,38 cent.;long., 58 cent.
+
+- 67— STATUETTE en cire polychromee,par FALcoNET: Baigneuse assise. xvine siecle.
+
+Il existe plusieurs repetitions en diferentes matieres de cette figurine.Un exemplaire en cire, semblable a celle-ci, etait expose en 1900 a lExposition du Petit Palais des Champs-Elysees. Le Musee de Lons-le-Saunier conserve une statuette en marbre du meme sujet.
+
+Haut.,27 cent.
+
+- 65 breche moulure.
+- 68—— STATUETTE EQUEsTRE de Louis XIV,representé en Empereur romain,tenant dans sa main droite le baton de commandement.Plomb de l'epoque de Louis XIv. Base en marbre blanc moulure.
+
+Haut., 67 cent.;larg.,55 cent.
+
+(Une statuette analogue,avec variantes dans lornementation de la cuirasse,se trouve au Musee de
+
+Versailles.)
+## BRONZES D'AMEUBLEMENT
+
+## PENDULES
+
+- 69 —PETIT CARTEL D'APPLIQUE en bronze cisele et
+- dore,a decor de rocailles et rayons. Cadran marque: Le Mercier a Rouen.Epoque Louis XV.
+- 70—PETIT CARTEL-APPLIQUE,porte-montre,en bronze ciselé et doré,a decor de rocailles, feuillage et oiseau. Epoque Louis XV. Il renferme un petit barometre aneroide.
+- 71— CARTEL en bronze. Modele a petites gaines enguirlandees de laurier et buste de faune. Epoque Louis XVI.
+
+Haut., 82 cent.
+
+- 72— PENDULE-EIL-DE-BEUFen bronze cisele et dore;
+- la lunette est decoree de chutes de laurier retenues par un nceud de ruban et d'un culot de feuillage.Epoque Louis XVI.
+
+Diam.,26 cent.
+
+- 73—PeNDuLE en bronze cisele doré et marbre blanc a sujet:L'Amour etl'Amitie. Socle orne de bas-reliefs et rosaces.Epoque Louis XVI.
+
+Haut.,35 cent.
+- 74—PETITE PENDULE; a cadran tournant, forme
+- cassolette,en bronze cisele et dore;le dard d'un serpent en bronze argente indique l'heure. Epoque Louis XvI.
+
+Haut.,28 cent.
+
+- 75—PENDuLE en marbre blanc,albatre et bronze dore.Elle est formee d'une statuette de femme drapee,debout aupres d'un autel antique.A ses pieds, une colombe en bronze dore. Fin du
+- xvlle siecle.
+
+Haut,38 cent.
+
+- 76 —IMPoRTANTE PENDULE en bronze cisele et dore,
+- dite a lEnleuement d'Europe.Le mouvement, surmonte d'une statuette d'Europe,est porte par un taureau debout sur une terrasse a rocailles feuillagees et accompagne de deux autres figures. Cadran marque: Leroy a Paris. Epoque Louis xV.
+
+Haut.,70 cent.
+## MEUBLES
+
+- 77— REGULATEUR, de forme contournee, en marqueterie de bois de placage et orne de bronzes. Cadran metallique.Marque : Lepaute, horloger de Monsieur.Epoque Regence.
+
+Haut.,2m.35 cent.
+
+- 78—BuREAU PLAT, a quatre pieds cambres,muni de trois tiroirs a la ceinture,orne de bronzes.
+- Epoque Regence.
+
+Long.,1 m. 80 cent.；larg., 85 cent.
+
+- (Ce bureau a appartenu a M. de Buffon, celebre naturaliste.)
+- 79 PETIr MEUBLE BAs en acajou, ouvrant a rideau a coulisse et muni de tiroirs, avec dessus de
+- marbre blanc.Epoque Louis XVI.
+- 80 —PETIT LIT DE REPos en bois.sculpte peint,a decor de pilastres canneles surmontes de pommes de pin. En partie du temps de Louis xVI.
+- 81—LIT DE REPos,a toutes faces,en bois sculpte peint ; dossiers a volutes et pieds canneles. Fin
+- du xvie siecle.
+
+Long., 2 metres; larg., 68 cent.
+## SIEGES VARIES
+
+- 82—DouzE FAuTEuILs, dont quatre a dossier carre et huit a dossier cintre,en bois sculpte cire,de forme mouvementee,avec croisillon reunissant les pieds, decores de rocailles et feuillage. Epoque Louis XIv. Garniture d'etoffe brochee.
+- 83—— CHAIsE CANNEE en bois naturel sculpte,a croisillon reunissant les pieds.Epoque Regence. Elle est munie d'un coussin de velours.
+- 84 — CHAisE cANNEE en bois naturel sculpte,a croisillon reunissant les pieds. Epoque Regence.
+- Elle est munie d'un coussin de velours.
+- 85— CHAISE LoNGUE, foncee de canne, en bois sculpte, a decor de coquilles et rinceaux. Epoque Regence. Elle est garnie et munie d'un
+- coussin en ancien damas rouge.
+- 86  CHAIsE CANNEE en bois naturel sculpte.Epo-
+- queLouisxv.
+- 87—FAureuIL en bois naturel sculpte. Epoque
+- Louis xv. Il est recouvert de soie ancienne.
+- 88- QuATRE FAUTEUILs en bois naturel sculpte, dont trois recouverts de soies anciennes.EpoqueLouisXv.
+- 89—— BERGERE en noyer sculpte cire, portant l'estampille de Meunier,recouverte en soie.Epoque Louis XV.
+- 90 BERGERE en bois moulure et peint, recouvert de velours frappe. Epoque Louis xv.
+- 91— Six FAUTEuILs en bois moulure, sculpte d'entrelacs et peint,recouverts d'ancienne tapisserie au point, a corbeilles de fleurs.xvir siecle.
+- 92 —DouzE FAuTEuILs en bois moulure,montes a chassis et recouverts d'ancienne tapisserie au point, a decor de feurs. xvin1 siecle.
+- 93—FAuTEuIL de bureau,a siege tournant, en bois moulure, sculpte et repeint. Epoque Louis XVI. ll est recouvert et muni d'un coussin en cuir.
+- 94 — Deux FAuTEuiLs en bois moulure et sculpte, recouverts en ancienne tapisserie au point,a decors varies de gerbes de fleurs sur fond blanc.
+- Epoque Louis xvI.
+- 95—DEUX PETITS CANAPES-MARQUISES, en bois sculpte dore, a decor de rais-de-coeur, perles, rosaces, etc. Garniture de velours bleu.
+## ECRANS
+
+## ET
+
+## GARNITURES DE SIEGES EN TAPISSERIE
+
+- 96—FEuILLE D'EcRAN en ancienne tapisserie du
+- temps de Louis XIV,presentant une gerbe de pavots sur fond clair.
+
+Haut., S0 cent.;larg.,58 cent.
+
+- 97—FEUILLE D'EcRAN en ancienne tapisserie,du temps de la Regence, offrant un vase de feurs dans un encadrement fait d'arabesques et feuillage.
+
+Haut.,76 cent.; larg., 63 cent.
+
+- 98—EcRaN en bois sculpte peint et muni d'une feuille en ancienne tapisserie d'Aubusson,du xville siecle,a personnages et encadrement de fleurs.
+
+Haut.,1m.03cent.
+
+- 99—PETIT PANNEAU RECTANGULAIRE en ancienne tapisserie d'Aubusson du xvilre siecle, offrant, dans un medaillon ovale,un sujet pastoral; encadrement de laurier et fleurs.
+
+Haut.,40 cent.;larg,72 cent.
+
+- 100 — SiEGEs oU DossIERs en ancienne tapisserie du temps de la Regence,offrant desvases ou gerbes de fleurs,au centre d'encadrements a arabesques et feuillage sur contrefond rouge. Sept pieces.
+- 10l - SIEGE DE FAUTEUIL en ancienne tapisserie d'Aubusson du xvinl siecle, offrant au centre, sur fond creme, un groupe de mouton et belier; encadrement a fleurs et draperie enguirlandee.
+- 102 — GARNITURE DE FAUTEUIL: Siege et dossier, en ancienne tapisserie du xvinre siecle,offrant dans des medaillons a fleurs et draperies:per-
+- sonnage au dossier, animaux au siege.
+- 103 — GARNITURES DE DEUX FAUTEUILS:SiegeS,doSsiers et manchettes,en ancienne tapisserie du xvile siecle,n'ayant jamais ete montes; chacune des pieces offre une corbeille de fleurs dans un
+- encadrement fait de fleurs et ruban.
+- 104 —DossIER DE FAUTEUIL, pouvant faire une feuille d'ecran, en ancienne tapisserie d'Aubusson du xvle siecle,offrant, sur fond creme, une gerbe fleurie au centre d'une couronne
+- faite de feuillage et fleurs.
+
+Haut.,59 cent.;larg.,48 cent.
+
+- 105 — GARNITURES DE DEUX FAUTEUILS: SiegeS, doS-
+- siers et manchettes,en ancienne tapisserie d'Aubusson du temps de Louis XVI,offrant, dans des medaillons encadres de fleurs,des sujets a animaux,tires des fables de La Fontaine.
+## MOBILIER DE SALON
+
+## EN TAPISSERIE
+
+- 106 -IMPORTANT AMEUBLEMENT DE SALON,cOmprenant un canape et dic-huit fauteuils en bois sculpte peint recouverts d'ancienne tapisserie d'Aubusson du xvile siecle. Les dossiers a sujets de personnages,les sieges a animaux dans des encadrements a fleurs et draperies enguirlandees.
+
+Long. du canape: 1 m.74 cent.; larg. d’un fauteuil : 56 cent.
+## TAPISSERIES
+
+- 107 — BaNDEau en ancienne tapisserie au point, a sujet de personnages. xvr siecle.
+
+Haut.,42 cent.;long.,2 metres.
+
+- 108 —TAPISsERIE FLAMANDE, de la fin du XVIe siecle,
+- offrant une composition allegorique relative a Mars, dieu de la guerre. Belle bordure d'encadrement a torsades de fleurs et fruits. Au milieu de la bordure superieure, le dieu est sur son char; au milieu de la bordure inferieure,cartouche tenu par deux enfants nus avec linscription:Mars.
+
+Haut.,3 m.30 cent.;larg.,5 m.25cent.
+
+- 109 — PeTITE TAPIssERIE, de la fin du xvI siecle ou
+- debut du xvire siecle, representant un vase de feurs. Bordure en haut et en bas,offrant des cartouches avec petits paysages.
+
+Haut., 2 m.98 cent.； larg.,1 m. 10 cent.
+
+- 110 —TAPIssERIE FLAMANDE,du XVIIe siecle,representant une composition a grands personnages tiree de l'Histoire ancienne:Le Couronnement de Marc-Aurele.Bordure d'encadrement faite d'enfants supportant des guirlandes de feurs,des oiseaux. Au milieu de la bordure inferieure, dans un cartouche,on lit l'inscription:CoRONATIOM.AVRELII.
+
+Haut.,3 m.35cent.;larg.,3m.90cent.
+- 1ll -TAPIssERIE FLAMANDE, du XVII siecle, representant une verdure avec grands arbres,arbustes et cours d'eau, animee au premier plan vers le milieu de deux volatiles.Belle bordure d'encadrement, faite de guirlandes et torsades de feurs,interrompue aux milieux du haut et du bas par des corbeilles fleuries et ornee aux quatre angles de panaches de plumes.
+
+Haut.,3 m.55 cent.; larg.,3 m.96 cent.
+
+- 112—MAGNIFIQUE TAPISSERIE DE LA MANUFACTURE DES GoBELINs, du temps de Louis XIV. faisant partie de la tenture des Elements,executee d'apres les dessins de Charles Lebrun, et représentant:
+
+## L'EAU
+
+Au milieu de la mer,Neptune a droite et Thetis a gauche sont assis sur un char tire par des chevaux marins.Neptune tient son trident et Thetis retient une draperie flottant au-dessus de leur tete.Au premier plan,une quantite de poissons et deux Tritons. A gauche, l'avant d'un navire; a droite, un rocher etun arbre.
+
+La bordure d'encadrement est faite de montants presentant des coquillages divers, et, au centre,un medaillon dans lequel on voit,a droite,un vaisseau sortant du port, et, a gauche,un navire sur la mer; et de traverses presentant un ornement courant.
+
+Haut.,3m.50cent.;larg.,4m.80cent.
+
+(Voir pour plus de details sur cette tenture:
+
+M.FeNAILLe,Etat general des Tapisseries des Gobelins.Tome I.Periode Louis XIV, pp.54 et suivantes.)
+- 113 — AUTRE MAGNIFIQUE TAPISSERIE DES GOBELINS, du temps de Louis XIv, de la meme tenture que la precedente,et representant:
+
+## LE FEU
+
+Au milieu d'un paysage obscurci par les nuages, Vulcain et les Cyclopes,devant une caverne,a gauche,forgeant divers instruments et armes. A droite, un canon et un trophee d'armures.Au fond du paysage, a droite, le mont Etna en eruption. Au-dessus de Vulcain,Jupiter, assis sur des nuages, tient ses foudres. Venus est a son cote et son aigle a ses pieds.
+
+La bordure d'encadrement est faite de montants presentant une quantite d'objets : armes, outils, vases precieux.Au milieu de chacun des montants, a droite,le tableau de la Pyramide elevee a Rome, pour la satisfaction de l'injure faite a lambassadeur de France; a gauche, le tableau de la Vue de Marsal. Les traverses haute et basse presentent un ornement courant.
+
+Haut.,3 m. 50 cent.;larg.,6 m.60 cent.
+
+Les sujets de ces tapisseries ont ete graves par Sebastien Le CLeRc et les planches sont actuellement a la chalcographie du Louvre.
+
+- 114 —PETITE TAPISSERIE FINE, de la fin du xVIle
+- siecle,offrant une composition a petits personnages: Moise sauve des eaux, sur fond de paysage. Bordure d'encadrement simulant un cadre a baguettes enrubanne de feurs.(Cote superieur refait.)
+
+Haut., 1 m. 40 cent.; larg.,1 m. 85 cent.
+- 115 —GRANDE TAPISERIE FLAMANDE, du cOmmencement du xvure siecle, presentant la vue d'un parc a la francaise agremente de parterres, terrasses, fontaines et piece d'eau au bord de laquelle se pavanent un paon et sa compagne. Dans le lointain, paysage avec habitations. Bordure d'encadrement a enroulement de grosse s feuilles et fleurs.
+
+Haut.,3m.15 cent.; larg.,5 m.28 cent.
+
+- 116 --TAPIssERIE FLAMANDE,du temps de la Regence, offrant dans un paysage une échappee sur la mer,au premier plan,des animaux marins,des coquilles; a l'arriere-plan, arbres et habitations. Bordure d'encadrement faite de festons,fleurs et arabesques.
+
+Haut., 3metres; larg.,2metres.
+
+- 117TAPISSERIE-VERDURE du commencement du xvIlIe siecle,offrant, dans un paysage,au premier plan,un groupe de volatiles :coq,poules et poussins. Bordure d'encadrement a rinceaux de feuillage, sur fond noir.
+
+Haut., 2 m.75 cent.;larg.,2 m.90 cent.
+
+- 118 -TaPIssERIE de la meme suite que la precedente.
+
+Haut.,2m.80 cent.: larg.,2m.93 cent.
+
+- 119 -TAPIssERiE de la meme suite que les deux precedentes.
+
+Haut,2m.80cent.;larg.,3m.10 cent.
+- 120 —TAPIssERIE FLAMANDE, du xVIIIe Siecle,presen-
+- tant une composition a trois personnages dans le gout de Teniers: La Lecon de flute. Fond de paysage avec vue de ville; dans le lointain, des navires sur la mer.Bordure d'encadrement simulant un cadre en bois dore a torsades de fleurs,avec palmettes aux angles.
+
+Haut.,2m.98.；larg.,1 m.70 cent.
+
+- 12l—GRANDE TAPISSERIE-VERDURE D'AUBUSSON,du temps de Louis XV, offrant un paysage avec habitations,petit temple et chateau en ruines,avec piece d'eau sur laquelle sont des barques. Vers le centre et a droite,des animaux,vaches et moutons, paissent dans une prairie plantee d'arbres.
+
+Haut.,2 m.25 cent.;1ong.,5 m.65 cent.
+
+- 122  GRANDE TAPISSERIE D'AUBUSSON, du temps de
+- Louis xV,presentant une composition a nombreuses figures dont le sujet est tire des Aventures de Telemaque,et represente Calypso, dans l'ile dOgygie, charmant Ulysse.Belle bordure d'encadrement simulant un cadre en bois dore,a baguettes ornees d'oves et enguirlandees de fleurs. En bas dans le lisere bleu,la marque d'Aubusson et le nom du tapissier: Goubert.
+
+Haut.,3 m.15 cent.;larg.,5 m.40 cent.
+
+- 123—PETITE TAPIssERIE d'Aubusson,du temps de Louis XV: Sujet pastoral dans un paysage. Encadrement de bordures.
+
+Haut.,1 m.72 cent.;larg.,2m.45 cent,
+- 124 ——AUTRE PETITE TAPIssERIE D'AUBUSsON,du temps de Louis XV,offrant un berger assis dans un paysage. Bordures sur trois cotes.
+
+Haut.,2 m.57 cent.; larg.,1 m.10 cent.
+
+- 125 — TAPIssERIE FINE, du xvIHe siecle, presentant une composition decorative,a sujet d'animaux tire des Fables de La Fontaine,placee au-dessous d'un dais forme d'une draperie enguirlandee,au centre de laquelle est suspendue un trophee d'attributs de musique.L'encadrement de la tapisserie fait de rinceaux;a la base s'echappe,de chaque cote,une corbeille de fleurs se terminant en palmes;le tout agremente de guirlandes fleuries.
+
+Haut.,2 m.27 cent.;larg.,1 m.75 cent.
+
+- 126 - CANToNNIERE faite des trois cotes d'un encadrement de tapisserie flamande du xvinre siecle, presentant des trophees d'attributs de jardinage et de musique,des oiseaux,des fruits et des fleurs.
+
+Haut.,2m.54 cent.；larg.,3m.47cent.
+## TAPIS DE LA SAVONNERIE
+
+127 -GRAND TAPIs en tissu de la Savonnerie,du temps de l'Empire ou de la Restauration,offrant au centre une grande rosace dans une couronne de fleurs avec corbeilles et rinceaux de feuillages fleuris, sur fond cramoisi. Bordure a fond blanc,ornee de guirlandes de fleurs entre deux petites bandes a palmettes.
+
+Haut.,6 m.25 cent.;larg.,5 m.60 cent.
+
+<!-- image -->

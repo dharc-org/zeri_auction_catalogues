@@ -1,0 +1,1023 @@
+- 5
+- 6
+- 7
+
+## Keramische Arbeiten.
+
+Arbeiten in Glas, Thon und Stein.
+
+- Blaugrauer Steinkrug von schlanker, eleganter Form. Der lange, zylindrische Hals mit Schnauze und Zinndeckel. Der Bauch ist sechsseitig abgeflacht und ist wie der Hals dekoriert, teils durch eingeritzte Strichverzierung, teils durch tiefblaue,ornamentale PreBverzierung.
+
+Hohe 28 cm.
+
+- 2 Brauner, zinnmontierter Steinkrug, birnenformig, die ganze Krugflache zeigt Kerbschnittmusterung. Hohe 22 cm.
+- Blaugrauer vasenformiger Steinkrug, ungedeckelt, mit starker gedrungener Bauchung und sehr engem, schlankem Hals. Die Leibung
+- 3 tragt ein reliefiertes Wappen zwischen Rankenornament. Hohe 21 cm.
+- 4 Henkelkrug von niedriger Humpenform,sogen.Bienenkorb,mit Zinndeckel. Der Grund von brauner Farbe zeigt als Hauptschmuck drei groBe Rosetten zwischen geometrischem Ornament. Jede Rosette enthalt sieben der auch iber die ibrige Flache der Bauchung verstreuten, eingestanzten schwarzen Knopfe (stilisierte Blumen).
+
+Hohe 15,5 cm.
+
+- Kleiner blaugrauer Bartkrug, gehenkelt. Hohe 14 cm.
+- Kleiner Henkelkrug in Eiform, mit Zinndeckel und grauem Sternrosettendekor auf tiefblauem Fond. Hohe 13 cm.
+- Kleiner blaugrauer Steinkrug mit Wappen.
+- Hohe 10 cm.
+- SchraubdeckelDie Wandung sechsseitig abgeflacht, in Kerbschnitt-
+- 8 Kreussener Apothekerflasche mit zinnernem S VerschluB. musterung gepreBt, blau und in weiB und gold emailliert.
+
+17.Jahrhundert. Hohe 23 cm.
+- 6 Gehenkelter Thonkrug mit dicker Leibung und schlankem Hals, innen glasiert, auBen mehrfach durch eingerissene Linienfuhrung und geometrische Bandornamente geziert; um die Leibung lauft ein Relief mit verschiedenen, der Bibel entlehnten Trinkszenen (Jakob und Rahel am Brunnen, Moses Wasser aus dem Felsen schlagend, die Hochzeit zu Kana, Christus und die Samariterin).Dariber und darunter Schriftbander.
+
+Hohe 38,5 cm. Diam. am FuB 15,5 cm, am AusguB 11,5 cm. GroBter Durchmesser der Leibung 21 cm.
+
+- Zwei japanische Vasen mit blauem ornamentalen und figirlichen
+- 10 Dekor (Landschaften mit figirlicher Staffage) auf weiBem Fond. Hohe je 42 cm. Diam. der Bauchung je 20 cm.
+- 11 Runde Glasscheibe mit Engel, der zwei Wappenschilde halt, und Umschrift auf gelbem Fond.
+
+Diam.21 cm.
+
+- 12 Glasscheibe.Unter einem romanisierenden Rundbogen, der auf zwei Saulen ruht, auf deren Kapitalen blasende Putten stehen, ein groBes Wappen mit einer stehenden Patrizierin als Schildhalterin.
+- Mit Beischrift: frow Agnesn von Stoflen. 1521.
+
+Hohe 41 cm, Breite 32 cm. In eine Butzenscheibenverglasung eingelassen.
+
+- Desgleichen. Unter einem mit goldenem Rankenwerk geschmickten Torbogen steht vor einer blauen Tapete der hl. Johannes der Taufer, in der Linken ein Buch haltend, auf dem das Lamm mit der Siegesfahne ruht, worauf die Rechte deutet.
+
+Hohe 41 cm, Breite 32 cm. Ebenso gefaBt.
+
+- 14 Desgleichen. Unter einem Rundbogen, vor dessen Saulenpfeilern zwei allegorische Figuren (geharnischter Ritter und weibliche Allegorie der Starke) stehen, ein grobes Wappen. Als Schlubstein des Bogens ein Wappen mit einem heraldischen Lowen. In den Eckzwickeln zwei Landsknechte mit Lanzen in ausfallender Stellung. Gleiche MaBe. Gleiche Fassung.
+- 15
+- Desgl. Zu Seiten eines Wappenschildes, das Doppeladler zeigt, stehen ein geharnischter Krieger mit seiner Streitaxt und ein Landsknecht mit einer Hellebarde. Uber dem Wappenschilde die hl. Maria mit dem Kinde, auf der Mondsichel, ihr zu seiten Ausblick in die Land schaft. Unter dem Wappenschilde zwei kleinere, springende Bocke zeigende Wappenschilder in Kartuschenfassung, die von zwei Putten gehalten wird. Mit Beischriften und dem Datum 1605. Gleiche MaBe. Gleiche Fassung.
+- 16 Zwei Fensterflugel mit Butzenscheibenverglasung.
+
+Hohe 188 cm, Breite 60 cm.
+
+- 13
+- 17
+
+Hohe 14 cm, Breite 17 cm, Tiefe 8 cm.
+
+- Barenjagd. Bar mit drei Hunden kampfend. Thonmodell.
+- Zwei Hunde des Fo (Verteidiger der Schwelle der buddhistischen
+
+Hohe 17 cm. Das eine Stick defekt.
+
+- 18 Tempel) auf Sockel. Thon,vergoldet.
+- 19 Liegender Lowe. Thonmodell.
+- Hohe 7,5 cm, Breite 12,5 cm, Tiefe 7 cm.
+- 20
+
+Hohe 25 cm, Breite 52 cm, Tiefe 25 cm.
+
+- Liegender Lowe. (Bez.: Thiersch) Gips.
+- 21 Schreitender Lowe. (Gips).
+
+Hohe 39 cm, Breite 49 cm, Tiefe 15 cm.
+
+- Reiterstandbild des Kurfursten Maximilian in Munchen auf dem
+
+Hohe 52 cm, Breite 37 cm, Tiefe 17 cm.
+
+- 22 Wittelsbacherplatz. Gipsnachbildung.
+- 23
+- Marmortorso einer stehenden nackten Gottin,an ein Getreidebindel gelehnt. Hohe 112 cm.
+- 24 Fragment einer antiken Marmorskulptur.Weib (Venus) mit herabgefallenem, den Oberkorper bis zum SchoB freilassenden Gewande,auf einem Delphin sitzend,
+- Hohe 27 cm, Breite 14 cm, Tiefe 27 cm.
+- 25 Antike Marmorbiste. Jingling mit Blumenkranz im Haar, den Kopf mit schmerzerfilltem Gesichtsausdruck nach links geneigt. Hohe 72 cm, Breite 35 cm, Tiefe 30 cm.
+- 26
+- Biste eines bartigen Mannes mit tief gefurchter Stirn, den Kopf nach rechts wendend; der Kopf ist mit einem Manteltuch bekleidet, das unterhalb der Brust, die es freilaBt, wulstig zusammengerafft ist. Marmor. Rickseite unbearbeitet. Hohe 22 cm, Breite 18 cm, Tiefe 6 cm.
+- 27 Portratrelief: Brustbild Michel Angelos. Marmor. Rund. Diam.34 cm.
+- 28 Steinrelief. Frauengestalt in griechischer Gewandung,in liegender Stellung sitzend, im SchoBe einen Lorbeerkranz haltend.
+- Hohe 40 cm, Breite 61 cm.
+- 29 Jonisches Kapital. Marmor, auf rundem Holzsockel.
+
+MaaBe (ohne Sockel): Hohe 18 cm, Breite 30 cm, Tiefe 28 cm.
+
+- 30
+- Achteckiger Marmorstein mit einem Wappenrelief. (Auf dem von einer fuinfzackigen Krone iberragten Wappenschild:(Entenartige) Vogel. Hohe 23,5 cm, Breite 30,5 cm, Tiefe 11,5 cm.
+- 31 Japanischer Held, auf einem riesigen, chimarischen Lowen reitend. Auf hohem Sockel. Roter Stein. Hohe 13,5 cm. Zwei Pendants (nach rechts und nach links gerichtete Lowen).
+
+<!-- image -->
+## aWaffen.
+
+- 32 Zweihander. Die breite, zweischneidige Klinge mit kurzer Blutrinne und eingeschlagener Waffenschmiedsmarke. Die Parierstange durch einen eidechsenahnlichen Doppeldrachen (mit zwei Halsen und zwei Schwanzen) gebildet, der Griff mit Eisendraht umzogen. Der Knauf zeigt einen auf Kugeln stehenden Lowen. Interessantes Stick. Lange 117 cm.
+- Schottisches Korbschwert mit breiter, zweischneidiger Klinge, eng33 gegliedertem Korb, drahtumwundenem Griff und Kugelknauf. Lange 1l1 cm.
+- 34 Korbschwert. Die schmale, zweischneidige Klinge hat zwei kurze Blutrinnen auf jeder Seite. Der Korb, von breitem Gestange, hubsch gegliedert, hat geschwungene Parierstange und zweifaches, in Rosetten durchbrochenes, breites Stichblatt. Der Griff mit Leder bekleidet. Den Knauf bildet eine in der Leibung 10 fach eingedrickte Kugel.
+- Lange 122 cm.
+- 35 Turkischer Kandjar (Krummschwert). Die Klinge reich ornamentiert und mit goldtauschierter Inschrift; der doppellappige,beinerne Griff in Eisen geschaftet, das gebuckelt und mit Steinen besetzt ist. (Ohne Scheide).
+- Lange 77 cm.
+- 36 Gleiches Schwert. Die Klinge tragt arabische Schriftzeichen; der doppellappige Horngriff ist in Silber geschaftet. (Ohne Scheide). Lange 77 cm.
+- Gleiches Schwert. Die Klinge ohne Inschrift, der Griff wie bei
+- 37 der vorigen Nummer montiert. Lederbezogene Holzscheide. Lange 73 cm.
+- 38 Kandjarahnliches Dolchschwert. Der Messinggriff zeigt die Form eines stilisierten Vogelkopies; die Scheide (Messing) ist ornamental verziert und endigt in eine mit Turkisen besetzte Kugel. Lange 55 cm.
+- 39 Turkischer Yatagan, Krummschwert, das die Schneide in der innern Krimmung hat, mit tiefer, von der Klingenwurzel bis zur Spitze verlaufenden Blutrinne. Silberner, ornamentierter Griff. Lederiberzogene Holzscheide.
+
+Lange 82,5 cm.
+
+- 40 Ahnliches Schwert. Ornamentierte Klinge. Eisengeschafteter, doppellappiger, ornamentierter Messinggrif. Ornamentierte, oben gebuckelte,unten in Kugelknopf endigende Messingscheide. Lange 62 cm.
+- 41 Dolchschwert derselben Form. Doppellappiger,ornamentierter Messinggriff und silberne, messingmontierte Scheide. Lange 41 cm.
+- Dolch ahnlicher Form. In reich ornamentierter Silberscheide,die
+- 42 in einem Fischkopf endigt. Lange 35 cm.
+- 43 Ebensolcher Dolch in einfach dekorierter Silberscheide mit Fischkopf, dessen Augen durch Turkisen gebildet werden. Lange 30 cm.
+- 44 Ebensolcher, groBerer Dolch mit ebensolcher Scheide, die Augen des Fischkopfes sind durch rote Steine gebildet. Lange 45 cm.
+- Ebensolcher Dolch mit Silberscheide mit Fischkopf.
+- 45 Lange 23 cm.
+- 46 Stilett (sogen.Panzerbrecher).I Die mit Rankenornament dekorierte Klinge verbreitert sich kurz ehe sie in die Spitze auslauft. Die Querabwehrstange lauft an beiden Enden in einen Kopf aus, der Rabentypus zeigt; das Stichblatt hat die Form eines Schildes und verbindet die beiden Kopfendungen der Stange, sodaB es schildkrotenahnlich aussieht. Der in einen palmettenartigen Knopf auslaufende Griff hat gewundene,ornamental dekorierte beinerne Bekleidung. DieScheide von Eisen, an der AuBenseite mit durchbrochen gearbeitetem, geschnittenem Ornament. In der Klingenwurzelgegend tragt die Scheide das Datum 1596. Mit reich gegliederter Kette.
+- 47
+
+Lange 43 cm.
+
+- Dreikantiger Spitzdolch (Stilett) mit ornamentiertem Bronzegriff. In Eisenscheide. Orientalisch. Lange 42 cm.
+- 48 Kleiner orientalischer Dolch mit eisengeschnittener Dekoration des Griffs und der Scheide. Der Griff endet in einem Vogelkopf, die Scheide lauft in ein geschweiftes Blatt aus. Die Dekoration zeigt Rankenornament, belebt durch Vogel und menschliche Bisten.
+
+Lange 28 cm.
+
+- 49 Kleines orientalisches Dolchmesser mit goldtauschierter, arabischer Inschrift auf der Klinge; Silbergriff mit Goldinkrustation; versilberte Scheide mit reliefiertem Pflanzenornament. Lange 20 cm.
+- Persischer krummer Dolch. Der Horngriff in Silber geschaftet. In reich ornamentierter, in einen Kugelknopf auslaufender Scheide.
+- 50 In Futteral. Lange 37 cm.
+- Persischer krummer Dolch. Damaszener Klinge, an der Wurzel Eiserner Griff und ebensolche Scheide, beide mit
+- 51 Goldtauschierung. eisengeschnittenen und goldtauschierten Ornamenten. Lange 28 cm.
+- Statt der Blutrinne hohe Reiche Goldtauschierung.
+- 52 GroBer persischer krummer Dolch. Narbe in der Mitte beider Klingenflachen. Horngriff. Lederbezogene Holzscheide. Lange 48,5 cm.
+- Persischer krummer Dolch. Die AuBenseite bei Griff und Scheide mit ornamentiertem Eisenblech belegt und gebuckelt, die Innenseite
+- 53 mit Messingbelag und glatt. Lange 40 cm.
+- 54 Persisches gebogenes Dolchmesser mit Horngriff in reich verzierter, in einem Kugelknopf endigender Scheide und ebenfalls verzierten Ledergirtel.
+
+Lange des Dolches 39 cm.
+
+- 55 Javanischer flammenformiger Dolch (Kris oder Sampanna). Goldtauschierung an der Klingenwurzel. Der Griff in der Art eines Vogelgeschnittene, Eiserne, ebenso verzierte Scheide.
+- kopfes mit kurzem gebogenen Schnabel und langem Hals, hat eisendamaszierte figurale und ornamentale Verzierungen. Lange 48 cm.
+- 56 Ebensolcher Dolch.Ausladende,gleichzeitig den Handschutz bildende Klingenwurzel mit kurzer, tiefer Doppel-Blutrinne und goldtauschierten Randornamenten. Der Griff wird durch die Figur eines aluf einem Sockel kauernd-sitzenden Gottes (aus Horn geschnitzt) gebildet. Holzerne Scheide. Lange 47 cm.
+- 57 Javanisches Dolchschwert, kurz, breit, zweischneidig (der Ochsenzunge ahnlich) mit fast bis zur Spitze laufenden Blutrinne und goldtauschierter Verzierung. Griff aus massivem Elfenbein mit Nagelkopfen aus damasziertem Eisen besetzt. Die Scheide Leder mit damaszierten Eisenverzierungen. Indische oder persische Arbeit. Lange 59 cm.
+- Schwertdolch der gleichen Art. Der Griff reicher montiert, die
+- 58 Scheide einfacher. Lange 56 cm.
+- 59 Gleichartiges Dolchschwert. Die Blutrinne mit Goldtauschierungen eingefaBt. Einfache Lederscheide.
+- Lange 53 cm.
+- 60 Javanisches Dolchmesser (BadiBadi) mit Horngriff in silberner ornamentierter Scheide mit dem Original-Ledergurt. Lange 26,5 cm.
+- Orientalische Holzscheide fir ein Dolchschwert, auf einer Seite
+- 61 ornamentiert.
+
+Lange 43 cm.
+- 62
+- Persischer Streitkolben, Eisen; auf langem Schaft stilisierter Stierkopf mit spitzen Hornern und freistehenden Ohren. Lange 79 cm.
+- 63 Sudindische (Bengalische) Fauststreitaxt. Das mondsichelformige Eisen reich graviert mit Figuren in ornamentalen Umrahmungen und vergoldet. Mit langem eisernen Stil und mit Knopf versehenem Griff; letzterer ist abzuschrauben und tragt verborgen ein vierkantiges, spitz zulaufendes Stilett von der Lange des Schaftes.
+
+Schaftlange 61 cm, Diam.der Sichel 14 cm.
+
+- (Indische) Fauststreitaxt, ganz von Eisen, das mondsichelformige Eisen reich graviert (Lowe und Hirschkuh (?) auf ornamentiertem Fond). Der lange Schaft lauft in eine vierkantige, lange, scharfe Spitze aus. Lange 94,5 cm, Diam. der Sichel 17 cm.
+- 64
+- 65 Sudindisches Zeremonialschwert. Breit und ohne Spitze,viereckig endigend (also linealformig). Statt der Blutrinne eine erhohte Narbe auf beiden Seiten der Klinge. Goldtauschierung an der Klingenwurzel und am Klingenende. Eiserner ornamentierter, vergoldeter Griff. Lange 67 cm.
+- 66 Vier Prunkpartisanen (fir die Konigl. Bayerische Leibwache der Hartschiere). Die breite, mit Blattwerk und Kronen zwischen Bandwerk reich geatzte Klinge ist oben in Sichelform schwach a ausgeschweift. Aus dem Riicken der Klinge erwachsen bei der Klingenwurzel und in der Klingenmitte je ein Querhaken, zwischen ihnen steht frei ein vergoldeter, schreitender, heraldischer Lowe. An der Wurzel der Schneide, ebenfalls freistehend, ein vergoldeter, stilisierter Delphin. Die Tille achtkantig, ohne Schaft.
+
+Hohe 81,5 cm, groBte Breite (beim 1. Querhaken) 17,5 cm.
+
+- 67 Hamburger Herrenstiftsstandarte. Auf weiber Seide, auf der einen Seite in Gold und Silber aufgenaht das Hamburger Stadtwappen, auf der anderen Seite aufgenaht das groBe schwarze Kreuz mit dem Wappen der Stiftsherren im Zentrum. Ringsum auf beiden Seiten breite Goldborte mit langen Goldfransen. Die Stange mehrfach gekehlt, mit in Arabesken durchbrochener vergoldeter Eisenspitze.
+
+Lange und Breite der Standarte je 60 cm, Lange der Stange 2,67 m.
+
+- Kocher mit eisengeschnittenen, figuralen und ornamentalen Ver-
+- 68 zierungen. Hohe 32 cm.
+- 69 Rundschild mit spitzem Nabel; Bandwerk, das oben und unten ineinander verschlungen ist, teilt die Gesamtflache des Schildes in mehrere Felder, die ornamental reich verziert sind. Diam. 53 cm.
+- Kleines rundes Schild mit sechs auf Rosetten ruhenden Buckeln und
+- 70 reicher ornamentaler Tauschierung. Diam.31 cm.
+- 71 Ein Paar Pistolen mit allem Zubehor.Komplette Garnitur in poliertem Holzkasten. Mit der eingravierten Firmabezeichnung Rieger, Minchen. Lange der Pistolen 38 cm.
+- 72 Eiserner Steigbugel von durchbrochener Arbeit und von Rundbogenform. Die Stange zeigt durchbrochenes Bandwerk, die Seitenteile (der Bugel) sind mit durchbrochenen Rosetten ornamentiert.
+- Hohe 19 cm.
+- 73 Offene RoBstirne mit Augenschutz und Ohrenbechern; reiche Goldtauschierung. (Sarazenisch). Lange 65 cm, Breite 35 cm.
+- 74 Pulverhorn. (Deutsche Hirschhornpulverflasche.) Geweihstamm mit zwei Enden. Die Vorderseite zeigt Lucretia in naiver Auffassung, leicht en relief geschnitzt. Die Koppen, der Gurthaken und der Hals
+- mit Sperre Messing. (XVI. Jahrhdt.) Lange 26 cm.
+- 75 Desgleichen. Geweihstamm mit zwei Enden. Die Vorderseite zeigt einen geharnischten Ritter auf Pferd mit Prunkstoffdecke,in der Rechten einen Panzerbrecher haltend. Umgeben ist die Figur mit Rankenwerk. Leicht en relief geschnitzt. Die Montierung Messing. Lange 19 cm.
+- 76 Pulverhorn, ganz aus Messing. Der untere Teil, eine zehnfach abgeflachte Kugel, zeigt auf den beiden Hauptflachen (Vorder- und Rickseite des Stickes) einen heraldischen Adler en relief. Der lange, gerade, schlanke Hals mit Schnappsperre ist einfach ornamentiert. Lange 16 cm.
+- Pulverhorn, sog. sachsisches. (Ende des 16.Jahrhdts.) Holz, mit
+- 77 eingravierter Wappenkartusche, eisenmontiert. Lange 28 cm.
+- 78 Jagdhorn. Stierhorn in einem sich verbreiternden Unterteil mit interessanten Gravierungen bedeckt (Ansicht einer Stadt, dariber ein Einhorn und Lowe mit Krone etc.etc. Eisenblech montiert. Lange 33 cm.
+- Damen-(Jagdkleid-)Gurtel mit Messingknopfen und Glassteinen
+- 79 verziert, Rokoko. Lange 190 cm.
+
+<!-- image -->
+
+## Arbeiten in verschiedenen metallen.
+
+Eisen, Zinn,Kupfer, Bronze, Messing, Silber und Gold.
+
+- 80 Kaminvorsatz. Ein viereckiges, groBes Feld mit rosettenformig verflochtenem Drahtgeflecht ist gerahmt durch breites, schmiedeeisernes Blatt- und Rankenwerk, oben in eine hohe, freistehende Blume endigend. Hohe 150 cm, Breite 116 cm.
+- 81 Eisengitter,rechteckig,mit spiralformiger Gitterung und freistehendr
+- Blumenrosette. Hohe 112 cm, Breite 70 cm.
+- 82 Oberlichtgitter. Rankenwerk,in freistehende Blatter endigend, in der Mitte Kartusche mit Fischangel und drei gekreuzten Fischen. Als Vorhanghalter montiert. Lange 265 cm, Hohe 57 cm.
+- 83
+- Zwei Rosetten fir Oberlichtvergitterung. Diam. 40 cm.
+- 84 Widderkopf. Der Kopf selbst hammerartig stilisiert, Eisen, wohl als Tuirgriff verwendet gewesen. Lange 18 cm.
+- 85
+- Turverzierung. Lowenkopf auf einer blumenkelchahnlichen Basis. In Eisen geschnitten. Hohe 6,5 cm, Breite 6 cm, Tiefe 7,5 cm.
+- 86 Zinnkanne, gedeckelt, gehenkelt, sich nach oben schlank verjungend, auf drei FiBen ruhend, die durch kartuschenmaBig stilisierte Engelskopfe gebildet werden; den Deckel kront als Knopf eine Pinienfrucht. eine Kartusche mit Schild, auf dem die Initialen L.P. und die Jahreszahl 1774 eingraviert sind.
+
+Hohe 34,5 cm, Diam.am FuB 16 cm, am Kopf 10,5 cm, inkl.Henkelspannung 18 cm.
+
+- 87 Zinnkanne, gedeckelt, gehenkelt, sich nach oben schlank verjungend, auf drei KugelfiBen ruhend. Auf dem Deckel ein Hindchen, das eine Kartusche mit Schild halt. Auf diesem Schild und auf der Leibung Initialen M. M. M. K. und Zahlen eingraviert.
+
+Hohe 35 cm, Diam. am FuB 13 cm, am Kopf 8 cm.
+
+- 88 ZinnabguB einer Medaille auf Kaiser Maximilian, darstellend den Kaiser auf dem von einem auf Saulen ruhenden Baldachin iber-
+- ragten Throne, umgeben von den Wappen der Lander seines Reichs.
+
+Diam.13 cm.
+
+- Nautilus. Auf dem Riicken eines in Kupfer getriebenen und vergoldeten StrauBvogels, der ein Hufeisen im Schnabel tragt, kniet ein Bronze-Putto, die groBe,mit Tritonen,Musikinstrumenten,Ranken-
+- 89 werk etc. reich gravierte Perlmutterschale tragend.
+
+Hohe 43 cm, Breite der Muschel 20,5 cm.
+
+- 90 Jaspisschale, von Bronzefigur getragen. Ein auf einer Schildkrote reitender Triton tragt auf seinem Kopfe eine Jaspisschale, die die Form einer Muschel hat. Die Figur ist aus vergoldeter Bronze und ruht auf holzernem runden Sockel.
+
+Hohe der Figur 13,5 cm, Hohe inkl. Sockel und Schale 23 cm, Diam. der Schale 8,5 cm.
+
+- 91
+- Madonna mit Kind. Die Hl. Maria sitzt auf einem Kissen, das auf eine Bank gelegt ist, zu der zwei Stufen fihren. Auf dem SchoBe der Mutter sitzt das Jesuskind, den rechten Arm um ihren Hals gelegt. Bez.: F. Theyer in Wien 1905. Bronzeguf.
+
+Hohe 23 cm, Breite 12 cm, Tiefe 8 cm.
+- St. Georg zu Pferd, den Drachen totend. Bronze.
+- 92 Hohe 18 cm.
+- 93 Figur eines stehenden nackten Junglings. Das linke Bein ist vorgesetzt, der linke Arm, iber den ein Ziegenfell geworfen ist,ist in die Hifte gestemmt, wahrend die rechte, erhobene Hand mit einer entsprechenden Geste die leichte Seitwartsneigung des Kopfes begleitet, die den Ausdruck des Lauschens, des aufmerksamen Horchens erweckt. Die FiBe sind mit Sandalen bekleidet. Bronze, grin patiniert, auf runder Basis.
+
+Hohe 63, Diam. der Basis 22 cm.
+
+- Morgen-und Abenddammerung. Bronzefiguren. Zwei schwebende nackte Frauengestalten (das Manteltuch ist herabgeglitten und gibt den schwebenden Gestalten den Zusammenhang mit dem Sockel.)
+- 94 Bez.: J. M. Pollet.
+
+Hohe 39 cm und 35,5 cm,Breite 23 cm und 20 cm, Tiefe 10 cm.
+
+- Agyptische mannliche Gottheit mit langem Bart und hohem Kopfputz; die iber die Brust gekreuzten Arme halten einen Wedel
+- 95 und einen Krummstab. Bronze. Hohe 42 cm.
+- Dieselbe Gottheit in gleicher Darstellung. Bronze. Auf Marmor-
+- 96 sockel. Hohe (ohne Sockel) 31 cm.
+- 97 Buddha-Figur mit 1o Armen, stehend,vor einer ornamentierten Aureole und auf hohem Sockel. Zwei Arme sind betend erhoben, zwei ineinander gelegt, die sechs ibrigen ausgebreitet. Am Sockel japanische Schriftzeichen. Hohe 71 cm.
+- Gleiche Figur, jedoch mit 18 Armen und mit ausfuhrlicherer In-
+- 98 schrift am Sockel. Hohe 71 cm.
+- 99 Zwei buddhistische Heilige mit ibereinander geschlagenen Beinen, sitzend in der Haltung des mediatisierenden Buddha. Bronzen.
+- Hohe 9 cm, Breite der Basis 5 cm.
+- 100 Leuchter. Ein Reiher steht auf dem Ricken einer Schildkrote; der lange, schlanke Hals des Vogels ist nach unten gebogen, um einen hohen Pflanzenstengel a am unteren Ende abzubeiBen; das obere Ende dieses Pflanzenstengels ragt iber den Ruicken des hochbeinigen Vogels weit hinaus und endet in einem Blumenkelch, der als Tuille und Manschette des in ihn hineinzusteckenden Kerzenlichtes dient. Bronze. Japanisch. Hohe 32,5 cm.
+- 101
+- Liegender Hirsch. Vergoldete Bronze. (Geweih und VorderfiBe fehlen). Hohe 8 cm, Lange 12 cm, Breite 4 cm.
+- 102 2Liegender Ochse. Bronze. Indisch.
+- Hohe 10,5 cm, Lange 21 cm, Tiefe 11,5 cm.
+- 103 Biste eines jungen Mannes in antikisierender (appolinischer) Auffassung. Halbrelief (Bronze), als Applikation gedacht. Hohe 13 cm, Breite 8,5 cm, Tiefe 5 cm.
+- 104
+- Zwei Bronzebusten in antikisierender Gewandung. (Mobel- oder Tirapplikationen). Hohe 10 cm, Breite 6 cm, Tiefe 6 cm.
+- 105 Doppellowe (2 Leiber mit gemeinsamen Vorderkorper). Halbrelief. Vergoldete Bronze. Applikationsobjekt. Hohe 6 cm, Breite 10 cm.
+- Turklopfer.Auf schmaler, unten zusammenlaufender, eiserner Doppelleiste aufgelegt Gott-Vater mit Szepter und Weltkugel in Wolken, Cherubims zu seinen FiBen und zu seinem Haupte. Unter dem baldachinartigen AbschluB der Komposition der Hl. Geist; Gott-Sohn ist angedeutet durch Blutstropfen am Griff. Bronze.
+- 106 Interessantes Stick.
+
+Hohe 32 cm, Breite 7 cm.
+
+- Turklopfer. Stilisierter Lowenkopf mit Ring im Maul. Bronze. Hohe 11,5 cm, Breite 8,5 cm, Tiefe 7 cm.
+- 107
+- 107a Lowenkopf, stilisiert, Relief, Bronze.Von einem Turklopfer. Hohe 25,5 cm, Breite 23 cm, Tiefe 9 cm.
+- 108
+- Balsamkapsel. Bronze mit Leder-Tragriemchen. Hohe 5,5 cm, Breite 5 cm, Tiefe 2 cm.
+- 109 Vierarmiger Messingleuchter. Vier Fibe tragen die Basis eines Kandelabers, der in seiner Mitte die vier Leuchterarme aussendet und selbst in einer Lichttille endet, die einen Knopf in Gestalt einer Flamme tragt. Dieser Flammenknopf laBt sich abschrauben, um dem Leuchter eine finfte Kerze aufzustecken.
+
+Hohe 40cm.
+
+- 1102 Zwei dreiarmige Wandleuchter mit Spiegel. Die Leuchterarme
+
+Hohe 45 cm, Breite 27 cm. (Die Spiegelflache 18,5 : 12,5 cm).
+
+- gehen von der mit zwei Frauenkopfen durchsetzten RankenornamentUmrahmung eines viereckigen Spiegels aus. Messingbronze.
+- 111 Messing-Gewichtssatz. Gewichte als Einsatzteile eines morserartigen Behaltnisses mit gravierter Wandung, interessantem in zwei Ritterbiisten befestigten Traghenkel und durch drei Pferdebisten gebildetem VerschluB. Hohe 22, Diam.19 cm.
+- 112
+- Messingfigirchen: Weib mit Spiegel und Apfel. Hohe 16,5 cm.
+- 113 Desgleichen, Gegenstick: Weib mit herabgeglittenem Manteltuch, das es mit der Linken aufrafft, wahrend die Rechte eine Schlange halt. Hohe 15 cm. Beide Figuren, vollrund, als Applikationen verwendbar.
+- Hirschkopf mit Ring im Maul, Messing, Schmuckstick fir ein
+- 114 Mobel oder eine Tire. Hohe 18 cm, Spannweite des Geweihes 9 cm.
+- 115 Zwei Lowenkopfe, stilisiert. (Als Schmucksticke eines monumentalen Mobels verwendbar.) Messing. Hohe je 15 cm, Breite je 11 cm. Tiefe je 17 cm.
+- 116 Springender Hirsch und Jager. Auf einer breiten Basis, durch Hasen, einen Baren und Baumstamme en relief verziert, erhebt sich freistehend ein silberner Laubbaum, dem ein groBer Hirsch zuspringt. Daneben ein Hirschkalb. Auf der anderen Seite in bedeutend kleineren Dimensionen ein ruhig stehender Hirsch und ein auf ihn anlegender Jager.S Silber, teilweise vergoldet.
+
+Hohe 22 cm, Breite 19 cm, Tiefe 12,5 cm.
+
+<!-- image -->
+
+## Arbeiten in bol3.
+
+Holzplastik.
+
+Mobel und Einrichtungsgegenstande.R
+
+- 117 GroBer vierturiger Renaissanceschrank,bestehend aus Sockel-, Unter- und Oberbau mit je zwei Schiebladen resp. Tiren und zeigt in seiner Dekoration eine durchgehende Gliederung in vier baues) verbunden ist. Die Flachen neben den Tiren sind durch Schlagleiste gleicht den Pilasterfihrungen der Seitenleisten. Die
+- Felder. Der vorspringende, hohe Sockel enthalt zwei Schiebladen, die flankiert sind durch zwolfeckig vertiefte Flachen. Der Unterbau zeigt zwei Turen in architektonischer Anlage: Torbogenstellung, flankiert durch Pilasterfihrungen und bekront durch ein RenaissanceGesims, das durch MaBwerkverzierung mit der Kappe (des Unterahnliche, nur etwas reichere Pilasterfihrungen geschmiickt; statt der Torbogenstellung zeigt der Raum zwischen den vortretenden Pilastern eine gerahmte Flache in der Art eines blinden Fensters; die Basis dieser Flache ist durch Mabwerkverzierung belebt; bekront ist die Flache durch ein wie die Umrahmung vorspringendes Gesims. Die wie der Sockel weit vorspringende Kappe des Unterbaus enthalt zwei Schiebkasten und entspricht in der Dekoration dem Sockel. Der Oberbau zeigt in den beiden Turfeldern auf hohem Sockel eine durch mehrfach kannellierte, vorspringende Umrahmung abgegrenzte, zwolfeckige Flache, die flankiert ist durch frei vorspringendes, durchbrochen geschnitztes Volutenwerk und bekront wird durch ein Ge-
+sims mit geometrischen Verzierungen. Die Schlagleiste und die Seitenleisten zeigen ebenfalls an Stelle der Pilasterfuhrungen geschnitztes Volutenwerk, das in schone Kapitale auslauft, die die vorspringende Kappe tragen. Die Flachen zwischen den Voluten der Seitenleisten sind durch Nischenvertiefungen dekoriert, die auf MaBwerkverzierungen ruhen, in einer Muschelkartusche abschlieBen und von zierlichen Gesimsen iberragt sind. Mit schonem Beschlag und Schlossern. Hohe 270 cm. Breite 260 cm. Tiefe 75 cm.
+
+- 118 Vierturiges Renaissance-Buffet, bestehend aus Sockel, Unterbau, Aufsatzschrank mit je zwei Tiren (resp. zwei Schiebladen) und offenem Hallenbau als AbschluB. Der Sockel ruht auf breiten, wulstig ausgebauchten FiBen, die zugleich die Basen der Schlag- und Seitenleisten bilden. Diese Leisten sind reich mit Reliefschnitzereien geziert; Blattwerke und Fruchtguirlanden hangen senkrecht an Lowenkopfen, die Flachen der Leisten vollstandig fuillend. Die Felder der Tiren zeigen vieleckiges Rahmenwerk, in verschiedene Flachen geteilt; sie treten vertieft zurick, zugunsten des Vorspringens des Hauptfeldes, der eigentlichen Turfuillung, eines Vierecks, dessen Umrahmung zehnfach durch dreieckige Ausladungen und Einbuchtungen unterbrochen ist und als Mittelstick einen groben geschnitzten Fratzenkopf zeigt. Der offene Aufbau hat vorn an Stelle der Schlagseite einen hubsch geschnitzten,kleinen Engel, aufrecht stehend,mit seinem Kopfe die Decke der Halle tragend, mit ausgebreiteten Fligeln und schon drapiertem Gewand. Er halt in der Rechten ein mit Blumen gefiltes Korbchen, in der ausgestreckten Linken eine einzelne (abgebrochene) Blume. Die Stelle der Seitenleisten der Halle vertreten zwei kannelierte Saulen, deren Sockel mit Fruchtguirlanden geschmickt ist, die in schon geschnitzten Kapitalen endigen. Die Rickwand der Halle zeigt im Leistenwerk Pilasterfihrungen, die in Fratzenkopfen, bei der Schlagleiste in eine Akanthusvolute endigen. Die Wandilache ist durch Rahmenwerk in zwei an den Ecken eingebuchtete, dadurch zwolfeckig gewordene Vierecke zerlegt. Die Decke der Halle schmicken zwei grobe, geschnitzte, stilisierte Rosen. Als AbschluB-Bekronung der Halle zwei gedeckelte Urnen. Prachtiges, sehr dekoratives Mobel.
+
+Hohe 290 cm. Breite 175 cm. Tiefe 63 cm.
+
+- 119 Eckschrank,Renaissance, reich durch Einlegearbeit und Schnitzere verziert. Das prachtige Mobel ruht auf breiten, wulstig ausgebauchten Fuben, die gleichzeitig die Basen der breiten, schrag gestellten Pilasterfuhrungen bilden. Der hohe Unterbau,auf weit vorspringender, dreifach abgeschragter Basis, enthalt eine Schieblade die, in verschiedenfarbigem Holz eingelegt, eingelassen ist in einem reich dekorierten,oben frei vorspringenden mit geschnitztem Volutenwerk geschmickten, kartuschenahnlichen Rahmen. Die
+schrag gestelten Seitenpfeiler zeigen in diesem (unteren) Teile glatte Flachen, belebt durch Arabesken, die in dunkelfarbigem Holz in den hellen Fond eingelegt sind. In der Mitte der Pfeiler die Holzimitation einer schmiedeeisernen Bandumfassung, die durch groBe Kartuschen mit vorspringenden eiformigen, roten Fuillungen verziert ist. Das Mittel- oder Hauptstick des Mobels ruht gleichfalls auf einer mehrfach schrag abgekanteten Basis. Die ganze Flache der Hauptseite nimmt die kostbar gearbeitete, oben in einem Rundbogen abschlieBende Tur ein. Das Feld der Tir zeigt eine vertiefte, rechteckige Nische als Binnenraum einer reichen, architektonischen Anlage mit zwei Pilasterfihrungen, die unten durch ein Gesims, oben durch die mehrfach gegliederte Nischenbekronung verbunden sind. Die Pilasterfihrungen selbst, im Schaft ein Eierstabornament in farbiger Einlage zeigend, endigen in einer Kombination von freistehend gearbeitetem,geschnitztem Rollen und Volutenwerk, dessen augenfalligster Schmuck zwei geschnitzte Frauenkopfe sind. Flankiert wird die Tire durch die Pilasterfihrungen der schraggestellten Seitenleisten des Mobels, und zwar entsprechen diese Pilasterfihrungen in ihren Schaften denen des Turfeldes. Nur entwachsen hier den Schaften je eine weibliche, jugendliche Haibfigur mit im Winde flatterndem Gewande. Diese Figuren, der Hauptschmuck des Mobels, dessen Gesamtbild durch die frei flatternden Gewander auBerordentlich belebt wird, tragen als Karyatiden den reich aber ruhig gegliederten Aufbau. Schones Schlob und Beschlig.
+
+Hohe 240 cm, Breite 120 cm, Tiefe 80 cm.
+
+- 120 Halbschrank. An der Vorderseite abgeschragt, daher sechseckig. Die zwei Turenfelder und die Seitenflachen sind spitzbogenartig verziert. Hohe 87 cm, Breite 107 cm, Tiefe 52 cm.
+
+Zwei Truhenbretter. Fullbretter von Truhen der Terra ferma, aufs Reichste durch in die Flache eingeschnitzte figirliche Darstellungen dekoriert:
+
+- 121 Das erste Brett zeigt in der Mitte einen Springbrunnen,dessen Becken zwei Putten stitzen. Auf den Brunnen schreiten Frauengestalten zu, und zwar von links her fuinf, von rechts vier; sie sind durch entsprechende Embleme und durch Schriftbander als Allegorien der christlichen Tugenden und Wissenschaften bezeichnet. Blumen-und Rankenwerk ist neben den Schriftbandern zwischen die einzelnen Figuren gestellt. Eingeschlossen ist dieses grobe Mittelbild durch Randleisten, die musizierende Engel, gegen Schlangen und Drachen kampfende Putten, sowie chimarische Vogelgestalten in reichem Rankenornament zeigen. Hohe 39 cm, Breite 114 cm.
+- 122 Das zweite Brett zeigt in ahnlicher Anordnung eine Allegorie auf die Hochzeit. In der Mitte wiederum ein Springbrunnen mit zwei Putten. Zu diesem kommt von rechts und von links je ein Wagen.
+Beide Wagen sind in je einen Blumenkranz gestellt und werden von je zwei Pferden gezogen, die auBerhalb des Kranzes stehen. Beide Wagen haben Baldachine, auf denen Fanfaren blasende Engel reiten. In dem von rechts kommenden Wagen sitzt die Braut, von Engeln begleitet, die Geschenke iberreichen, musizieren und konversieren. In dem andern Wagen sitzt der Brautigam, ebenfalls von Putten begleitet. Dieses Brett hat nur je eine Seitenleiste rechts und links, doch sind alle Ecken des Hauptfeldes, selbst der Raum unter den Pferdebauchen mit Putten, musizierenden Engeln und reichem Rankenwerk gefillt. Hohe 29 cm, Breite 98 cm.
+
+- 123 Reichgeschnitzter Wandspiegel mit Untersatz. Die Spiegelflache wird umrahmt durch eine 3O cm breite,reich und vortreflich geschnitzte Guirlande von Blumen und Frichten, belebt durch vier gefligelte Engelskopfe. Hohe 190 cm, Breite 120 cm des Spiegels (incl. des geschnitzten Rahmens).I Das Spiegelkonsol zeigt eine groBe Tischplatte (117:70cm), getragen von vier prachtig geschnitzten Blattwerkranken, die, zwei als eigentliche Trager der Platte freistehend nach vorn, zwei als Reliefverzierung der Rickwand des Konsols nach hinten, von einem gemeinsamen, an die Rickwand applizierten vierfuissigen Sockel auslaufen.
+
+Hohe 82cm. Breite 130cm.Tiefe 70 cm.
+
+- 124 Tisch mit runder Platte und runder Basis, in einen viereckigen Tisch zu verwandeln, indem die Rundung der Platte nach unten, die der Basis nach oben umgeklappt werden kann. Die Platte wird getragen von vier FiBen, die groben dickbauchigen Vasen mit langen gewundenen Halsen gleichen und auf einer sehr massiven, an den aufklappbaren Aubenrandern durch vier klumpige KugelfiBe getragenen Basis ruhen. Hohe 83 cm, Diam. 128 cm.
+- 125 Tisch zum Ausziehen. Auf vier gewundenen gothisierenden Beinen. An beiden Seiten Ausziehplatten. Mit einer groBen Schieblade. Hohe 75 cm, Breite 214 cm (wenn ausgezogen), Tiefe 78 cm.
+- 126 Gueridon. Auf drei gedrehten KugelfiBen ruht die breite, runde, mehrfach kannelierte Basis, von der sich die gewundene Saule er-
+- hebt, die die runde Platte tragt.
+
+Hohe 98 cm, Diam. am FuB 40 cm, Diam. der oberen Platte 29 cm.
+
+- 127 Vier Stuhle mit gothisierend gewundenen FuBen, die unterhalb des Sitzes durch Bogenstellungen verbunden sind, deren Zwickel durch geschnitzte Ornamente gefillt sind. Die hohle Rickenlehne zeigt zwei freistehende, das Rickenpolster flankierende, den FuBen entsprechend gewundene Saulen, die durch die durchbrochen gearbeitete, geschnitzte Bekronung der Rickenlehne verbunden sind, diese Verbindung aber durch die hohen Spitzen iberragen, in die sie auslaufen. Hohe 145 cm, Breite 46 cm, Tiefe 46 cm.
+- 128 Geschnitzter Armlehnstuhl. Die vier gedrehten Beine ruhen auf KugelfiBen und sind durch gedrehte Traversen mit einander verbunden. Die gepolsterten Armlehnen werden durch gewundene Saulen gestitzt, auf deren kapitalahnlicher Bekronung die Halbfigur eines melusinenahnlichen Meerweibchens in vollrunder Schnitzerei steht. Die prachtig geschnitzte Ruckenlehne zeigt in reicher dekorativer Fassung zwei Wappen; das linke hat zwei Eicheln im Schilde und die Figur des erwahnten Meerweibchens als Helmschmuck, das rechte zeigt ein Hufeisen im Schilde und einen Federbiischel als Helmschmuck. Zwei heraldisch stilisierte, schreitende Lowen halten das reiche Blattwerk, das die Wappen tragt. Auf einem ornamentierten Bande die Inschrift 16. H T.S. K.20. Rotes Polster.
+
+Hohe 90 cm, Breite 65 cm, Tiefe 50 cm.
+
+- Ahnlicher Stuhl, nur insofern abweichend, als die Bekronung 129 der Armlehnen hier je einen liegenden, vollrund geschnitzten Widder zeigt und im Wappenensemble der Rickenlehne ein drittes Wappen eingefigt ist, das einen springenden Widder im Schilde und als Helmschmuck zeigt. In der gleichfalls von 1620 datierten Inschrift sind (mit Bezug auf das 3. Wappen) die Initialen E. A. hinzugetreten.
+
+Sonst durchaus uniform mit dem vorhergehenden Stick.
+
+- 130 Bauernstuhl. Die geschnitzte Lehne zeigt Blumen- und Rankenwerk.
+- Hohe 96 cm,Breite 45 cm, Tiefe 37 cm.
+- 131 Ahnlicher Bauernstuhl; die Lehne ist reicher geschnitzt und zeigt Fratzen, Delphine und Muschelkartusche. MaBe wie beim vorigen Stick.
+- 132 Zwei Sockel, als Hocker verwendbar. Schwere, massive Holzsockel, wulstig ausgebaucht, an der Stirnseite ein geschnitzter, gefligelter Engelskopf mit Fries mit Akanthusornament. Hohe 51 cm, Breite 48,5 cm, Tiefe 46,5 cm.
+- 133
+- Eine Garnitur,bestehend aus Sopha mit Baldachin und sechs Sesseln, in orientalischem Geschmack dekoriert. Die Armlehnen des Sophas laufen in Elephantenkopfen aus, die sechsbeinigen mit Perlmutter eingelegten Sessel sind, ebenso wie das Sopha, mit bunt bestickter Seide bezogen. Der Baldachin, durch zwei Pfauenfederwedel gestitzt, ist mit Stickereien, Goldquasten und Perlenbesatz geziert. Breite des Sophas 120 cm. Diam. der Sessel 60 cm.
+- 134 Wandverkleidung mit Rahmen fur eine Turoffnung. Die Turverkleidung ist durch zwei, die Turoffnung flankierende Pilasterfuhrungen geschmickt, die hangende Blumen und Fruchtguirlanden als Flachendekoration und reich geschnitzte Kapitale zeigen. Das Gesims tragt eine kartuschenartige Bekronung. Hohe des Turrahmens 270 cm. Breite 170 cm. Die Tur ist iber einem Stufenbau gelegen gedacht, daher schlieBt sich an die linke Pilasterfihrung der Tirverkleidung eine Balustrade an, mit zwei starken Saulen auf den
+- 138
+
+Stufen aufsitzend und in einer halbrunden Saule endigend; die Vorderseite dieses Balustradenabschlusses zeigt einen geschnitzten Engelskopf, der einen Korb voll Frichten tragt. Uber diesen Engel seinem oberen Teil durch Schnitzereien dekorierter Sockel, der die das beide Arme erhoben hat. 190cm.
+
+erhebt sich als Aufsatz des Balustradenabschlusses ein hoher, in holzgeschnitzte Figur eines Weibes mit fliegendem Gewande tragt, Lange der Balustrade 125 cm. Hohe der Stirnseite (bis zu den erhobenen Fingern der weibl. Figur) Die Wandverkleidung selbst besteht aus vier Teilen von je 200 cm Hohe und 120 cm Breite, durch vorspringende Kannelierung in verschiedene Felder zerlegt. Bei zwei Teilen ist je ein Feld leer, die entsprechenden Fullbretter fehlen.
+
+- Drei Engelskopfe mit ausgebreiteten Fligeln, eine Art Kartusche bildend, einen Korb mit Obst auf dem Kopfe tragend. Holzgeschnitzt.
+- 135 Hohe 39 cm. Breite 25,5 cm.
+- Lowenkopfe, von denen eine Guirlande mit Frichten herabhangt,
+- 136 (Flachen- resp. Pilasterfuillung), holzgeschnitzt.
+
+2 Stick a 39 cm hoch u. 11 cm breit;7 Stick a 30 cm hoch u. 8,5cm br.
+
+- 137 Funf kleine Konsolen mit akanthusartigem Ornament, holzgeschn.
+- Hohe 14 cm. Breite 10 cm. Tiefe 8 cm.
+- Schwarzer, reich profilierter Bilderrahmen.
+- Hohe 56,5 cm, Breite 55cm, LichtmaB 19:17 cm.
+- 139 Ein Paar rote Plusch-Vorhange mit Quasten. L.315 cm,B. 165 cm.
+- 140 St.Jakobus. Halbfigur des Heiligen in Mitze und Mantel, mit umgehangter Tasche, in der Linken einen Folianten haltend. In einer Kartusche unten die Inschrift: S JACOBVS. Holz, halbrund geschnitzt. Schwabisch. Hohe 47 cm, Breite 26 cm, Tiefe 16 cm.
+- 141 St. Simeon. Halbfigur des Heiligen mit lockigem Haar und langem Bart, in faltenreichem Mantel; die linke Hand halt ein Buch. Gegenstick zur vorhergehenden Nummer mit entsprechender Inschrift. Hohe 48 cm, Breite 34cm, Tiefe 12 cm.
+- Amorette, ein offenes Buch mit beiden Handen haltend. In Holz
+- 142 geschnitzt und polychromiert.
+
+Hohe 55 cm, Breite 45 cm, Tiefe 25 cm. Ein Flugel fehlt.
+
+- Amorette, den rechten Arm gen Himmel erhebend, in Holz geschnitzt.
+- 143 Hohe 32 cm, Breite 14 cm, Tiefe 12cm.
+- 144 Amorette, in sitzender Stellung liegend, den linken Arm zum
+- Himmel erhoben. In Holz geschnitzt, polychromiert. Hohe 28 cm, Breite 23 cm, Tiefe 11 cm.
+- Fliegende Amorette, in Holz geschnitzt und leicht polychromiert.
+- 145 Hohe 50 cm, Breite 47 cm,Tiefe 19 cm.
+- 146 Cherubim.
+- Gefligelter, In Holz geschnitzter, alt polychromierter Engelskopf. Hohe 31 cm, Breite 31 cm, Tiefe 17 cm.
+- 147
+- Braungelockter Engelskopf mit goldenen Fligeln, in Holz geschnitzt, polychromiert. Barock. Hohe 33 cm, Breite 23 cm, Tiefe 50 cm.
+- 148 Cherubim, das lockige Kopfchen nach links gewandt, in Holz ge-
+- schnitzt. Hohe 29 cm, Breite 14 cm, Tiefe 18 cm.
+- 149 Zwei in Holz geschnitzte nackte Frauenfiguren, sitzend, mit gekreuzten Beinen, auf dem Kopfe einen Korb mit Weintrauben und
+- Frichten tragend und denselben mit einer Hand haltend. Hohe 28 cm.
+- In Holz geschnitzte Krippenfiguren. Sechs anbetende und ver-
+- 150 kindende Engel. Hohe 16 cm und kleiner.
+- 151 一
+- Sieben bekleidete Krippenfiguren (bei zweien fehlen die Kopfe). Hohe durchschnittlich 19 cm.
+- 152 —Funf exotisch bekleidete, mit Perlen- und Korallenketten ge-
+- schmickte Mohrenfiguren. Hohe 19 cm.
+- 153 一 Drei groBe, reich geschmickte Krippenpferde. 26:35 cm.
+- Vierzehn in Holz geschnitzte Hirsche und Rehe verschiedener Rassen mit prachtigen Geweihen in verschiedenen Stellungen. Her-
+- 154 vorragend schone Schnitzereien.
+
+Hohe durchschnittlich 20 cm, Lange durchschnittlich 18 cm.
+
+- 155 Zehn in Holz geschnitzte Tiere eine Kuh, vier Ziegen, zwei Schafe,
+- zwei Hunde, ein Reh). GroBe 13:18 cm und kleiner.
+- 156 Buddha-Figur. Auf achteckigem Sockel, der sich in finf reich ornamentierten Etagen nach oben verjungt, ruht der Kelch der Lotosblume,in dem die Buddha-Figur steht, die Hande betend aneinander gelegt, den Oberkorper leicht nach vorn geneigt, die Augen geschlossen; wahrend der Unterkorper durch ein einfaches aber reich drapiertes, von der linken Schulter herabhangendes Manteltuch verhillt ist, bleiben die Arme, der groBte Teil des Oberkorpers und die FuBe nackt; doch tragen Kopf und Hals reichen Metallschmuck. Hinter dem Kopf ein radformiger, lange S Strahlen aussendender Glorienschein. Holzschnitzerei vollrund, vergoldet.
+
+Hohe der Figur selbst 55 cm, Hohe von der Sockelbasis bis zum Ende der Strahlenperipherie des Glorienscheins 97 cm, Diam. des Sockels 28,5 cm.
+- 157 Hausaltarchen mit Buddha-Figur. Auf hoher, profilierter Pagode die Lotosblume, in der Buddha steht, die Rechte segnend erhoben. Hinter ihm der groBe mandorlaformige Glorienschein. Die Figur, holzgeschnitzt und vergoldet, ruht in einem nischenformigen Gehause, welches durch zwei Klapptirchen verschlossen wird. Die Aubenflache schwarz lackiert, die Innenflache vergoldet.
+
+Hohe 15,5 cm, Breite 5,5 cm, Tiefe 4 cm.
+
+- 158 Buddha thronend. Buddha sitzend auf dem dreifach in Spitzbogennischen gegliederten Pagodenthron. Relief-Schnitzerei, vergoldet. Hohe 10 cm, Breite 8 cm.
+
+Auf einem holzgeschnitzten Sockel, der einen Fratzenkopf mit Weinlaub zeigt und wohl von einem europaischen Mobel stammt. Hohe des Sockels 9 cm, Breite 14 cm.
+
+- 158a Buddhistische Figur, stehend, die Rechte segnend (oder lehrend) erhoben. Halbrund in Holz geschnitzt und vergoldet.
+- Hohe 23 cm. Auf Sockel wie die vorige Nummer.
+- 159 Belidor, Architecture hydraulique ou l'art de conduire, d'elever et de menager les eaux pour les differents besoins de la vie. 2 vol. Paris 1737-1739.40. Mit vielen Kupfertafeln.Lederband. Beide
+- Bande mit dem Ex libris des Grafen Max v. Preysing.
+- 160 Christoph Weigels Bilderbibel (Historiae veteris [resp. Novil Testamenti iconibus repraes. Ca. 260 Kupfer in Fol., Casp. Luyken fec.,
+
+<!-- image -->
+
+## Olgemalde.
+
+## a) alter Meister.
+
+Die Kinstlernamen sind nach den bisherigen Angaben beibehalten.
+
+## FRANS FLORIS (Frangois de Vrient),
+
+geb. 1520 zu Antwerpen, gest. 1570.
+
+- 161 Susanna und die beiden Alten. Susanna, dem Bade entstiegen, noch unbekleidet, sitzt in Frontansicht beim Brunnen, der durch eine wasserspeiende Sphinx angedeutet ist. Die linke Hand vor die Schobgegend haltend, mit der rechten die Brust schitzend, sucht sie sich der Zudringlichkeiten der beiden reichgekleideten Alten zu erwehren. Der Hintergrund zeigt eine Parklandschaft.
+
+Ol, Holz. Hohe 90 cm, Breite 80 cm. Brauner Rahmen.
+
+- in einem Lederband.
+## HENDRIK GOLTZIUS
+
+geb.1558,1617.
+
+- 162 Herkules und Omphale. Die jugendliche Konigin mit Krone und
+- Szepter im Freien promenierend. Ein starker Mann, nur mit einem Tierfell an den Lenden bekleidet, tragt an einem Stock einen runden Baldachin, das Haupt der Konigin zu beschatten. Jungfrauen des Gefolges staffieren die Szene. Links zwei andere wilde, nackte Manner, iber die Dienstfertigkeit des Kameraden erstaunt. Im Hintergrunde weite Landschaft mit tanzenden Jungfrauen und Opferaltaren und der Konigsburg vor hohem Gebirgsstock. Ol auf Leinwand.
+
+Hohe 210 cm, Breite 340 cm.
+
+## CHARLES LEBRUN
+
+geb. zu Paris 1619  das. 1690. Dessen Art.
+
+- 163 Coriolan im Lager der Volsker. Jungling in Halbristung, iber der er einen roten Mantel tragt, mit der Gebarde des Redens inmitten alterer, teils erstaunt, teils unglaubig zuhorender Krieger. Leinwand.
+
+Hohe 151,5 cm, Breite 213 cm.
+
+## GIOVANNI PAOLO PANNINI
+
+geb. zu Piacenza 1691,  1764.
+
+- 164 Architekturstick. Interieur (Palazzo Farnese in Rom) mit weitlaufigen Arkaden und Saulenhallen, unter deren Torbogen antike Statuen (z. B. der farnesische Herkules) aufgestelt sind. Mit figirlicher Staffage. Ol auf Lwd. Hohe 48 cm, Breite 37,5 cm. Schwarzer Rahmen.
+- 165 Dasselbe Interieur, vom Standpunkt hinter der Herkulesfigur gegesehen. Ebenfalls figirlich stafiert, gleiche GroBe, gleicher Rahmen.
+
+## UNBEKANNT.
+
+- 166 Luther-Bildnis. Brustbild, nach rechts blickend, barhaupt. In der rechten Ecke oben wappenschildahnliche Kartusche mit dem Kruzifix, worauf die Speisung beim hl. Abendmahl, die Oblate,
+- liegt. Ol, Holz. Hohe 30 cm, Breite 24 cm. In schwarzem Rahmen.
+- 167 Luther, Melanchton und Johann Friedrich der GroBmitige. Drei Brustbilder nebeneinander, Luther in der Mitte,Melanchton rechts,
+- der Kurfurst links. Holz. Hohe 40,5 cm, Breite 99 cm.
+- 168 Bildnis. Huftbild eines Kavaliers. Das von langem, dunklem Haupthaar umrahmte Gesicht ist dem Beschauer zugewandt. Er tragt dunkles, geschlitztes, die bauschigen Armel des weiben Untergewandes hervortreten lassendes Kostim, das mit goldenen Knopfen auf der Brust sowie an den aufgeschlitzten Armeln reich besetzt ist. Ein grober Schulterkragen mit breitem Spitzenbesatz umschlieBt den
+Hals; iber die Brust laufen von rechts nach links eine breite Scharpe in Goldbrokat, die wohl das Degengehange darstellt, sowie von links nach rechts eine doppelreihige Goldkette,die vielleicht den Dolch halt. Die rechte Hand ist, halb geoffnet, dem Beschauer entgegen gehalten und zeigt dadurch die grobe radiormige Spitzenmanchette sowie den gefitterten, durch eine groBe, schwarze Schleife zusammengehaltenen AbschluB des bauschigen Armels des Unterkleides. Sehr interessantes Kostimbild. Bez. (auf der Ruckseite): Hanns Christopf Haller von Hallerstein, Aetatis Suae 39. Anno 1660. Lwd. Hohe 95 cm, Breite 93,5. Schwarzer Rahmen.
+
+- 169 Bildnis. Huftbild einer Dame in reichem Kostim. Sie tragt ein schwarzes, rmelloses, daher die bauschigen, oben in Falten gelegten, beim Armgelenk durch goldbortierte Bander eingeschnirten Armel des weiBen Untergewandes freilassendes Kleid, das vorn weit iber den roten Rock hinabreicht, oben durch einen groben Schulterkragen mit breitem Spitzenbesatz bedeckt und durch einen aus Goldborten, Goldbandern, Perlen und Edelsteingeschmeide gebildeten Hals- und Brustschmuck dekoriert ist. Entsprechender Schmuck ziert auch die Handgelenke. Wahrend die rechte Hand den reichen Kopfputz halt, greift die beringte linke an den Brustschmuck. Kostimlich sehr interessantes Bildnis. Bez.(auf der Riickseite):,Maria Helena Hallerin", eine geborene Bohmin. Aetatis suae 21. Anno 1660.
+
+Leinwand. Hohe 95,5 cm, Breite 83,5 cm. Schwarzer Rahmen.
+
+- 170 Bildnis. Huftbild eines Kavaliers. Der Kopf mit kurzgeschorenem Haupthaar und kurzem wolligen Kinnbart steckt in einem MihlsteinSpitzenkragen. Das Gesicht mit den groBen, vollgeoffneten Augen blickt den Beschauer an. Die rechte Hand ist an die Hufte gelegt, an der der Dargestellte einen reich verzierten Dolch tragt, die beringte Linke halt ein paar Handschuhe an dem entsprechend kostbar verzierten Degen. Oben die Beischrift: Aetatis suae 23. 1608. Darunter das Monogramm (L D).
+
+Leinwand. Hohe 87 cm, Breite 75 cm. Schwarzer Rahmen.
+
+- 171 Bildnis. Brustbild eines Herren in mittleren Jahren, das Gesicht, von dunklem Lockenhaar umrahmt, dem Beschauer zugewandt. Dunkle, weit geschlitzte Gewandung, die das weibe, spitzenbesetzte Hemd hervortreten laBt; weiBer mit Quastenschnur gebundener UmlegeHalskragen. Holz. Hohe 68 cm, Breite 51 cm. Geschnitzter Goldrahmen.
+- 172 Bildnis. Ganze Figur eines in prunkvollem Gewand in einer getafelten Halle vor einer grinen, goldbortierten Portiere stehenden Kavaliers. Er tragt groBe, dunkle Pericke, rotes bis iber die Knie reichendes, reich mit Gold gesticktes, eng anliegendes, an den Unterseiten der Armel aber weit aufgeschlitztes Gewand, rote Hosen, die sich in hohe,oben sehr weite Stulpenstiefel mit Sporen verlieren. Der Hals ist durch einen spitzenbesetzten Schulterkragen
+bekleidet; grobe, radformige Spitzenmanschetten und doppelte Spitzenreihen auf den Stulpen der Stiefel vervollstandigen die Pracht der Kleidung. Der Portratierte wendet dem Beschauer das ganze ausdrucksvolle Gesicht zu; wahrend der rechte Arm, weit ausgestreckt einen hohen Stock umfaBt und sich daran stitzt, ist der linke in die Hufte gestemmt. An der linken Hufte tragt der Kavalier den Degen. Auf einem mit dunkler, goldbortierter Decke verhillten Tisch rechts ist der mit groben, roten Federn geschmickte Hut abgelegt. Zur Linken liegt ein groBer, doggenartiger Hund auf dem Boden. Interessantes Kostimbild.
+
+Holz. Hohe 38 cm, Breite 24 cm.Goldrahmen.
+
+- 173 Vier Frauenbildnisse. Brustbilder von Furstinnen oder Damen der Hofgesellschaft,mit MuhlsteinSpitzenkragen,in reichen Gewandern und mit kostbarem Schmuck. Interessante Kostimbilder. Holz. Hohe je 25,5 cm, Breite je 20 cm. In schwarzem Rahmen.
+- 174 Liebespaar in Parklandschaft. In einer offenen, hohen Saulenhalle, die den Blick auf einen schon gepflegten Rokokopark freilaBt, sitzt links ein reich gekleidetes Liebespaar in Unterhaltung. Dabei eine Amorette, Blumen aus einem reich gefuillten Blumenkorb
+- den Liebenden anbietend. Ol auf Lwd.
+
+Hohe 77,5 cm, Breite 111,5 cm.
+
+- 175 Jagdstuick. In Waldlandschaft vor dichtem Baumschlag ein Hirsch gegen mehrere Hunde kampfend, die ihn gestellt haben.  Rechts uiber einen See Ausblick in bergige Landschaft. Lwd. Hohe 41,5 cm, Breite 50 cm. Goldrahmen.
+- 176 5Desgleichen. Gegenstick zum Vorigen: Eber mit Hunden kampfend. Die Landschaft zeigt den gleichen Charakter. Material, GroBenver-
+- haltnis, Rahmen ebenso.
+- 177 Lagerleben. Vor einer Stadt mit langgestreckter Silhouette ist in der weiten Ebene das Zeltlager einer berittenen Truppenmacht aufgeschlagen. Wahrend im Lager selbst allerlei Reiter und FuBvolk verkehren, wird der Vordergrund erfuilt von rastenden,von verschiedenen Marketenderinnen Erfrischungen entgegennehmenden, zahlenden und mit den Weibern scherzenden Kriegsleuten. Ol. Leinwand. Hohe 46 cm, Breite 59,5 cm. Schwarzer Rahmen.
+- 178 Schlacht. In der etwas huigeligen Ebene vor einer groBeren Stadt spielt sich im Vordergrunde bei einem befestigten FluBibergang der Kampf zwischen den geharnischten Reitern im Kostim der 2. Halfte des 17. Jahrhdts. und FuBtruppen ab, die auf den Reiteriberfall wohl nicht vorbereitet waren; mindestens ist ihre Situation eine miBliche, und soll ihr Widerstand wohl nur den eiligen Rickzug der Bagage decken, der im Mittelgrund des Bildes mehrfach angedeutet ist. Ol. Lwd. Hohe 47 cm, Breite 60 cm. Schwarzer Rahmen.
+- 179 Marine. Ein Kriegsschiff, Salut feuernd, zwei grobe Kauffarteifahrer, durch die Flaggen verschiedenen Nationen zugewiesen, zwei groBere Segelboote und ein Ruderboot beleben die Bucht vor einem Seehafen. Rechts dieser selbst, beherrscht durch einen monumentalen Leucht- und Wehrturm. Durch die Maste der im Hafen vor Anker gegangenen Schiffe erblickt man die Silhouette der Stadt mit anziehenden alten Giebelfronten und von groBer Ausdehnung. Ol. Lwd. Hohe 169 cm, Breite 136 cm. Auf der Rickseite von alter Hand als Willem van de Velde bezeichnet. Schwarzer Rahmen.
+- 180 Desgl. (Gegenstick zum Vorigen). Auf offener See eine Flotille von Kriegsschiffen; drei groBe, stark bemannte, mit vollen Segeln fahrende Kriegsschiffe mit gelb-weiB-blauer Flagge und heraldischen, schreitenden Lowen auf den Nebenflaggen, haben die Fuihrung, zwei kleinere Segelschiffe im Hintergrunde und mehrere Segel- und Ruderboote bilden die Begleitung. Ol. Lwd.
+
+Gleiche MaBe. Gleiche Bezeichnung. Schwarzer Rahmen.
+
+## b) neuerer Meister.
+
+## FRITZ BAMBERGER
+
+- 181 Sudliche Landschaft mit Gebirgszigen am Meeresstrande (sid-
+
+geb. 1814 zu Wirzburg, 1873.
+
+- italienischer Charakter). Ol. Lwd. Hohe 36,5 cm, Br.50,5 cm, Goldrahmen.
+
+## CONRAD REINHERZ
+
+geb. vor 1855 in Breslau,  1892 in Minchen.
+
+- 182 Muhle im Walde. Ol.Hohe 18,5 cm, Breite 20 cm.
+
+## ALBERT SCHWENDY
+
+geb. 1820 in Berlin,  1902 in Dessau.
+
+- 183 Markt in Triest. Bez.: A. Schwendy 1859. Ol. Lwd. Hohe 70 cm, Breite 96 cm.
+
+## JOHN YOUNG
+
+geb. 1755,  1825 in London.
+
+- Copie nach ihm: Windmuhlen im Gebirge. Ol. H. 28 cm, B. 20 cm.
+- Alpine Landschaft. Blick von einer Matte auf das gletscherdurchsetzte Gipfelmeer. Olstudie Janks nach E. Young. H. 34,5 cm, B. 44 cm.
+
+## ANTON ZWENGAUER
+
+geb. 1810 in Minchen,  das.1884.
+
+- 186 Landschaft. Bauernhaus mit zwei Schuppen unter Baumen am schilfbewachsenen Ufer eines Sees. Charakter des Dachauer Moores. Bez.:Zwengauer 1844. Pappdeckel. H.17,5 cm,Br.23 cm.Goldrahmen.
+- 184
+- 185
+## Olgemalde,
+
+## Olstudien, Aguarelle und band3eichnungen
+
+von
+
+## CHRISTIAN JANK.
+
+Die nachstehend beschriebenen Arbeiten sind,wenn Gegenteiliges nicht angegeben, mit dem vollen Namen des Kinstlers signiert.
+
+## Architekturaufnahmen aus Deutschland u. Osterreich.
+
+- 187
+- Die Kirche in Egelfing mit dem vorgelagerten Wirtschaftsgebaude. Aquarell aus 1859. (Nicht bezeichnet). Hohe 25 cm. Breite 34 cm.
+- Bauernhaus mit anstossendem Garten, Motiv aus Feldafing. 188 Aquarellierte und weib gehohte Bleistiftzeichnung. (Nicht bezeichnet). Hohe 61 cm. Breite 46 cm.
+- 189 Grunsfeld, Kirchplatz, Bleistiftzeichnung. Hohe 33,5 cm. Breite 38 cm.
+- Das Christusmonument zu Kelheim,Ansicht von 3 Seiten. Blei-
+- 190 stiftzeichnungen. Hohe 31 cm. Breite 45 cm.
+- 191 Motiv aus Landsberg (am Lech). Aquarell, dat. 12. Juli 55. Hohe 40,5 cm. Breite 58,5 cm.
+- 192 Ein zweites Motiv aus Landsberg (am Lech). Interessantes Architekturbild, dat. 19. Juli 1855. Bleistiftzeichnung. Hohe 44,5 cm. Breite 56,5 cm.
+- 193
+- Alte Facade eines Birgerhauses in Lindau. Aquarellierte, weif gehohte Bleistiftzeichnung. Hohe 30,5 cm. Breite 21 cm.
+- 194 Abbruch eines Hauses bei einem Stadttor (Minchener Motiv ?) WeiB gehohte und leicht aquarellierte Bleistiftzeichn. Dat. 19. Aug.63. Hohe 46,5 cm.Breite 40,5 cm.
+- 195 Domhof in Passau. Bleistiftzeichnung. Hohe 43,5 cm. Breite 36,5 cm.
+- 196 Prag: Der Altstadter Ring mit dem Rathaus. WeiB gehohte und leicht aquarellierte Bleistiftzeichnung. Dat. 31. Aug. 1857. Hohe 45,5 cm.Breite 33cm.
+- 197 Der Pulverturm. Weib gehohte und leicht aquarellierte Bleistift-
+- zeichnung. Dat. 4. Sept.1857. Hohe 41,5 cm. Breite 30,5 cm.
+- 198 —Der Turm an der Karlsbricke. Aquarellierte Bleistiftzeichnung. Dat. 28. Aug. 57. Hohe 45 cm. Breite 39 cm.
+- 199
+- Ansicht des Hradschin. Aquarellierte Bleistiftzeichnung aus dem Jahre 1857. Hohe 20 cm. Breite 45 cm.
+- 200 Prag; Hofansicht aus dem Hradschin: Kerker Konig Wenzels und des Hl. Johannes von Nepomuk. Getuschte Bleistiftzeichnung, dat.1857.Hohe 42 cm. Breite 33cm.
+- 202 —Bohmischer Hirte. Kostimstudie aus Prag, dat. 2. Sept. 57. Ol. Hohe 28 cm, Breite 22,5 cm.
+- 201 —Der Judenfriedhof. Zwei Aquarelle aus 1857. 31:27 cm, 30,5:26 cm.
+- Architekturbild aus Regensburg. Aquarell v. J. 52. (Nicht bez.)
+- 204 Wartturm von Riedenburg. Aquarellierte, weiB gehohte Blei-
+- 203 Hohe 27,5 cm, Breite 23 cm.
+- stiftzeichnung v. J. 60. Hohe 47 cm, Breite 36 cm.
+1858. (Nicht bez.) Hohe je 26,5 cm, Breite je 22 cm.
+- 205 Zwei Architekturmotive aus Rosenheim. Aquarellskizzen aus
+- 206 Rothenburg. Der Turm mit den 4 Erkerausbauten am Dach. Aquarell. Hohe 39 cm, Breite 27 cm.
+- Ol auf Leinwand. (Nicht bez.) Hohe 170 cm, Breite 128. Goldrahmen,
+- 207 Interieur des Wiener Stephansdoms. Blick auf den Hauptaltar, mit der Darstellung der Zelebration der hl. Messe.
+- 208 WeiB gehohte Bleistiftzeichnung zu diesem Bilde, dat. 19. Mai 1856. Hohe 56,5 cm,Breite 43 cm.
+- 209
+- 210 Olstudie. (Nicht bez.) Hohe 30 cm, Breite 19 cm.
+- Olstudie zu diesem Bilde. (Nicht bez.) Hohe 48 cm, Breite 39 cm.
+- 一 Derselbe Vorwurf, aber von entfernterem Standpunkte gesehen.
+
+## Architekturmotive aus Italien.
+
+- 211 Architekturbild aus Mantua. Aquarellierte Bleistitzeichnung v. J. 59. Hohe 47 cm, Breite 37 cm.
+- S.Antonio zu Padua (die Grabkirche des Hl. Antonius von Padua, des Genossen des Hl. Franz von Assisi, 1231 begonnen, 1749 erneuert; die gotischen Kreuzgange des riesigen Gebaudes haben zahlreiche Grabplatten und Grabsteine, darunter viele mit deutschen Namen):
+- 212 Facadendetail. Aquarellierte Bleistitzeichnung. Dat. Sept. 59. Hohe 46,5 cm, Breite 37 cm.
+- 213
+- Zwei Bleistiftzeichnungen (46:36 cm) und vier Olbilder auf Leinwand, 2 a 48:65 cm, 57:97 cm und 99:118 cm. Motive aus den Kreuzgangen wiedergebend.
+- 214 Monumentaler Brunnen
+- 215 S. Fermo Maggiore zu Verona (Anfang Xiv. Jahrhundert). Zwei Aquarelle: Ansicht vom FuB des Higels aus, 37:30 cm, und das grobe Portal mit der Vorhalle, 52:44 cm. Beide datiert 1856.
+- (mit dem gefligelten Drachen) zu Verona. Bleistiftzeichnung. (Nicht bez.) Hohe 20,5 cm, Breite 18 cm.
+- 216 Verona:Die Grabmaler der Scaliger. Leicht aquarellierte Bleistiftzeichnung. (Nicht bez.) Hohe 33 cm, Breite 23,5 cm.
+- 217 -Architekturmotiv aus der Umgebung des Teatro Romano. Leicht aquarell. Bleistiftzeichnung. Dat. 9. Sept. 59 (als Aquarell ins Konig Ludwig-Album gegeben). Hohe 47 cm, Breite 36,5 cm.
+- 218 Venedig: Kleiner Platz. Weib gehohte Bleistiftzeichnung. Dat.
+20. Juni 06. Hohe 25 cm, Breite 31,5 cm.
+- 219 -Interieur aus der Markuskirche. Aquarelle 30:19,5 cm und
+- Olstudie dazu, 30:23,5 cm. Beide aus 1856.
+- 220 Kreuzbogengang aus dem Hofe des Palazzo Cigogna.
+- 一 Aquarell vom Jahre 56. Hohe 41,5 cm, Breite 31 cm.
+- 221 Motiv aus Venedig. (Architekturbild, im Vordergrund rechts Werkplatz eines Schiffszimmermanns.) Aquarell vom Jahre 56. Hohe 33,5 cm,Breite 48 cm.
+- 222 Ahnliches Motiv. Bleistiftzeichnung. (Nicht bez.) Hohe 20 cm, Breite 26,5 cm.
+- Aus Venedig. Hofraum, mit einigen Baumen und sitzender Frau.
+- 223 Olstudie, dat.Venezia 23.6.56. Hohe 18 cm, Breite 24,5 cm.
+- 224 Aus Venedig. Mit Gondeln und Segelbooten belebter breiter Kanal, vorn links die Palazzi, die den Kanal flankieren, rechts Blick auf die sich im Hintergrunde erhebenden Gebaude des Markusplatzes. 01. (Nicht bez.) Hohe 24,5 cm, Breite 33 cm.
+- 225 Venezianische Gondeln und Gondel-Kabinen (Gondel-Kafige nannte sie Gethe). Zwei Aquarellstudienblatter, dat. vom Juli 56. 28,5:44 cm und 17:41 cm.
+- 226 一 Gondoliere. Olstudie. (Nicht bez.) Hohe 38 cm, Breite 46 cm.
+- —Neun Blatt Bleistiftzeichnungen, Aquarell-u. Olskizzen, darstellend Segelboote,Lastschiffe und Fischerboote an der Riva dei Schiavoni, im Canale Grande und im Golf von Venedig. Meist
+- 228 Die Chiesa dei Angeli in Murano mit ihrer landschaftl. Umgebung. Eine Bleistitzeichnung und eine Aquarellskizze, beide vom Juli 1856. Hohe u. Br. der Bleistiftzeichnung 20,5:31,5 cm, des Aquarells 13,5:21,5 cm.
+- 227 Querformat.
+- 229 Portal aus Murano. Aquarell, dat. Juli 1856. Hohe 43,5 cm, Br.45,5 cm.
+- Die Porta Augusta und die Porta Aurea zu Pola. Zwei
+- 230 Aquarelle aus dem Jahre 1856. 25,5:32 cm und 21:31,5 cm.
+- 231 Die Ruinen des Tempels von Pastum. Olskizze. (Nicht bez.) Hohe 19,5 cm, Breite 30,5 cm.
+- 232 Hof eines italienischen Bauernhauses (Fachwerkbau). Zwischen dem hohen Gras, das in den Ritzen des vernachlassigten Steinpflasters uppig wuchert, sind mehrere Fragmente antiker Architektur und Skulptur sichtbar. Olstudie. (Nicht bez.) Hohe 44,5 cm, Breite 33,5 cm.
+- 233 Italienische Landschaft (Campagna-Charakter). Rechts ein Huigel mit Wald und Gebauden, links offnet sich das weite, bis an den Horizont reichende, leicht gewellte Flachland, vorn ein FluB. Olstudie. Oval. (Nicht bez.) Hohe 19 cm, Breite 24,5 cm.
+- 234
+- Auf einer Steinbank sitzende,in einem Gebetbuch lesende Italienerin mit groBem weiBen Kopftuch. Olstudie. (Nicht bez.) Hohe 36 cm, Breite 27 cm.
+- Italienerinnen. Modelle aus dem Volke in antikisierender Pose
+- 235 skizziert. Olstudien. (Nicht bez.) 29:31 cm und 43:27 cm.
+- 236
+- Italienisches Hirtenidyll.  In Waldlandschaft auf einem hohen Stein ein dudelsackblasender Hirte. Vor dem Stein sitzt auf einem roten Tuche am Erdboden in liegender Stellung ein junges, dem Geblase zuhorendes Weib, die linke Hand auf einen groBen, daneben sitzenden Hund gelegt. Olstudie. (Nicht bez.) Hohe 27 cm, Breite 33 cm.
+
+## Architekturaufnahmen aus Frankreich.
+
+- 237 Chateau de Blois: Aufnahme des schonen Turms und der benachbarten Giebel. Bleistiftzeichnung, dat.10.Aug.61. Hohe 46,5 cm,Breite 37 cm.
+- 238
+- -Facade mit dem Treppenturm. WeiB gehohte Bleistiftzeichnung, dat. 11. Aug.61. Hohe 60 cm, Breite 47 cm.
+- 239
+- 240
+- Vom Portal der Kathedrale zu Bourges. Aquarell.
+- Hohe 63,5 cm,Breite 48 cm.
+- Gleiche Aufnahme. WeiB gehohte Bleistitzeichnung. Hohe 60,5 cm, Breite 47 cm.
+- 241 Vorhalle vor dem groben Portal der Kathedrale zu Bourges.
+- Aquarell, dat. 9. Aug. 61. Hohe 47 cm, Breite 60,5 cm.
+- 242 —Dieselbe Aufnahme. Olstudie auf Leinwand. (Nicht bez.) Hohe 69 cm, Breite 85 cm.
+- Hotel de la Police, Bourges. Weib gehohte Bleistiftzeichnung,
+- 243 dat. 8. Aug. 61. Hohe 60,5 cm, Breite 47 cm.
+- 244 St. Pierre in Caen.Bleistiftzeichnung, dat.1861. Hohe 47 cm,Breite 35 cm.
+- 245
+- Kleinere Bleistiftskizze derselben Aufnahme. 26:20 cm.
+- 246 Interieur aus St. Pierre zu Caen. Bleistiftzeichnung. (Nicht bez.)
+- Hohe 30 cm, Breite 22 cm.
+- 247 Architekturbild aus Caen. 1.Aug.61.Hohe 46 cm, Breite 37 cm.
+- Weib gehohte Bleistiftzeichnung, dat.
+- 248 Hauptportal der Kathedrale zu Chartres. Leicht aquarellierte und weiB gehohte Bleistiftzeichnung, dat. 15.u. 16. Aug. 61. Hohe 60,5 cm, Breite 47 cm.
+- 249 Portal an der Kathedrale zu Chartres. Weib gehohte Bleistiftzeichnung, dat. 15. Aug. 61. Hohe 46 cm, Breite 52 cm.
+- Interieur der Kathedrale in Chartres. Weib gehohte Bleistift-
+- 250 zeichnung, dat. 16. Aug. 61. Hohe 60 cm, Breite 41,5 cm.
+- 251 -Desgleichen. Von anderem Standpunkte. WeiB gehohte Bleistift-
+- zeichnung, dat. 16. Aug. 61. Hohe 60,5 cm, Breite 47 cm.
+- 252 Architekturbild aus Le Mans. Bleistitzeichnung, dat. 13. Aug. 61. Hohe 35 cm, Breite 46 cm.
+- 253 Facadenaufnahmen aus Le Mans. Bleistiftzeichnung,datiert
+- 14.Aug. 61. Hohe 30,5 cm, Breite 22 cm.
+- 254 Architekturmotiv aus Rouen. (Platz bei der Apsis einer Kirche). Aquarell, dat. 29. Juli 61. Hohe 45 cm, Breite 37,5 cm.
+- 255 Desgleichen. Zu einer Kirche fihrende StraBe. Aquarell v. J. 61. Hohe 28cm, Breite 22 cm.
+- 256 —Desgleichen. Ol. Hohe 29 cm, Breite 38 cm.
+- Interieur aus dem Katharinenkloster zu Rouen. Bleistift-
+- 257 zeichnung, dat. 61. Hohe 44,5 cm, Breite 35 cm.
+- 258
+- Blick auf St. Ouen zu Rouen. Aquarell. Dat. 27. Juli 61. Hohe 59,5 cm. Breite 47 cm.
+- 259
+- 260
+- 261
+- Ancien Hotel Bourg-Theroulde (zu Rouen, 15. Jahrh). Aquarell. Dat. 26. Juli 61. Hohe 48,5 cm. Breite 36 cm.
+- Dasselbe Motiv. Detaillierte, groBe, weib gehohte Bleistiftzeichnung. Dat. 25. Juli 61. 60,5:47 cm.
+- Kreuzgang in S. Gengoult zu Toul. WeiB gehohte und leicht aquarellierte Bleistiftskizze. Dat. 5. Juli 61. Hohe 46,5 cm. Breite 60 cm.
+- 262 Klosterarkaden des (Friedhof-) Gartens (der Kathedrale) zu Toul.(Gothische Architektur.) 2 Aquarelle. Hohe je 37,5 cm. Breite 37,5 cm.
+- 263 Gothisches Portal mit dazu gestellten Architekturfragmenten und Grabmonumenten. Motiv aus dem Hotel Cluny. Bleistiftzeichnung. Dat. 19. Juli 1861. Hohe 45,5 cm. Breite 37 cm.
+- 264 Franzosische gothische Kathedralkirche.Aquarell. Dat. 9. Juli61.
+- Hohe 58,5 cm. Breite 45 cm.
+- 265 Facaden dreier mittelalterlicher Stadthauser (mit vorspringenden Giebeln) vor dem Hauptportal einer groben (franzos.) Kathedralkirche. Interessante Architekturstudie. Ol. (Nicht bez.) Hohe 71,5 cm. Breite 31 cm.
+- 266 Brickenturm. (Motiv aus Frankreich). Bleistitzeichnung. (Nicht
+- bez.) Hohe 45,5 cm. Breite 50,5 cm.
+- 267
+- Dreimaster am Quai des Hafens von Le Havre. Aquarell v. Juli 61. Hohe 30 cm. Breite 22 cm.
+- 268 dem Petit Trianon. (Die Felsengrotte, die Wassermihle, die Maison du Seigneur, div. Prospekte vom kleinen und grossen See, die Village suisse, laiterie und der tour de Marlborough.) (Fuinf Blatter bezeichnet.) Meist Querformat, durchschnittlich 30:45 cm.
+
+## Architektonisches und Landschaftliches aus den
+
+## Alpenlandern.
+
+- 269 Elf Aufnahmen von Motiven der Barenhohle (bei Oberammergau) und der Sefelwand. Bleistiftzeichnungen, Aquarelle, Olstudien: Verschiedene Einblicke in die Hohle und Ausblicke von ihr, dabei eine Olstudie mit Gipfelbeleuchtung (Abendsonne); Felspartien von der Sefelwand, Aussichten von ihr auf den Brunnenkopf mit Konigshaus und Kavalierhitte, dabei ein groBeres Aussichtspanorama mit Bezeichnung der einzelnen Gipfel. Meist grobes Querformat. (Vier Blatter bezeichnet.)
+- 270 Zwei Landschaften aus dem Wettersteingebirge. Olstudie. Bez.:Partenkirchen und Wettersteinwand 6. August 1858. 24 cm:41 cm. resp.27cm:41cm.
+- 271
+- Landschaft bei Berchtesgaden.Bleistiftzeichnung dat.23.Aug.1865. Hohe 41,5 cm, Breite 57,5 cm.
+- 272 Interieur der Sennhitte auf der Gotzen bei Berchtesgaden
+1856. Bleistiftzeichnung. Hohe 20 cm, Breite 26 cm.
+- 273 EngpaB zwischen Linder und Plansee. Bleistiftzeichnung, weib gehoht.(Nicht bez.) Hohe 57,5 cm, Breite 41 cm.
+- 274
+- Essing. (Alpendorf.) Bleistiftzeichnung. Bez.: 4. Oct. 60. Hohe 44 cm,Breite 35,5 cm.
+- 275
+- 276
+- 277
+- (Lieblingsplatz des Konigs Max I): Sturzbach am Gamshoamatl. Bleistiftzeichnung. (Nicht bez.) Hohe 46 cm, Breite 28 cm.
+- Hohenschwangau: Auigang zum Kgl. SchloB; der Pellatfall. Zwei weib gehohte Bleistiftzeichnungen. (Nicht bez.) 46:30 cm und 45:25 cm.
+- Kreuzspitz. Aquarell dat. von 1871. Hohe 26,5 cm, Breite 42,5 cm.
+- Bleistiftzeichnung. 278 Marrbach. (Alpine Siedelung) Bez.:2. 9.58. Hohe 27 cm, Breite 36 cm.
+- 279
+- Voralpen-Landschaft. Bez.:Oberaudorf und dat. 16.Aug.1864. Bleistiftzeichnung. Hohe 46,5 cm, Breite 64,5 cm.
+- 280 Vom Purschling: Pechlerhitte, Gebirgsbach, Figurenstudien (Hirt, Georg Schwaller, von Pirchling, Brot schneidend). Drei Bleistiftzeichnungen. (Nicht bez.) 42:27,5 cm; 44,5:27,5 cm und 40,5:27 cm.
+- 281 Der Ruchberg von Linderhof aus. Aquarell vom Jahre 1871. Hohe 26 cm, Breite 43 cm.
+- 282 Bleistiftskizze.
+- —Derselbe Berg von anderem Standpunkte aus. Hohe 27,5 cm, Breite 44,5 cm.
+- 283 Alpines Bauernhaus mit bemalter Facade. Motiv aus Reutte. Aquarell aus 1872. Hohe 50 cm, Breite 35,5 cm.
+- 284 Stubeifall bei Reutte. Aquarellierte und weib gehohte Bleistiftzeichnung vom Jahre 72. Hohe 50,5 cm, Breite 38 cm.
+- 285
+- Der bayerische Hof bei Kufstein. Aquarell aus dem Jahre 58. Hohe 36 cm, Breite 27 cm.
+- Bleistiftzeichnung, dat.
+- 286 Bei den Zement-Muhlen in Kufstein. 31.Aug.1864. Hohe 56,5 cm, Breite 46 cm.
+- 287 Die Luchssteinwand bei Kufstein. Dat. 1864. Bleistiftzeichnung.
+- Hohe 46 cm, Breite 58,5 cm.
+- 288 Altmihle in der Wildschonau bei Rattenberg, Tirol. Bleistift-
+- zeichnung. Hohe 27,5 cm,Breite 46,5 cm.
+- 289 Hof eines verfallenen romanischen Palastes. Olstudie (aus Taufers, Tirol). (Nicht bez.) Hohe 42 cm, Breite 34 cm.
+- 290
+- Kreuzgang in Brixen. Aquarell, dat. 20. Aug.59. Hohe 36,5 cm, Breite 46 cm.
+- 291
+- 292
+
+293
+
+- Kloster Seben bei Klausen,Tirol. Weib gehohte Bleistiftzeichnung,
+- dat. 22. Aug. 59. Hohe 35,5 cm, Breite 46,5 cm.
+- Interieur aus St. Blasien in Bozen. Bleistiftzeichnung. (Nicht bez.) Hohe 33,5 cm, Breite 46,5 cm.
+
+Burgruinen bei Bozen. Olstudie,dat.14. Aug.59.
+
+Hohe 48 cm, Breite 37,5 cm.
+
+- Burg Runkelstein, Gesamtansicht. Ol. (Nicht bez.) Hohe 52,5 cm,
+- —Von anderem Standpunkte aus. Weib gehohte Bleistiftzeichnung, 295 dat.24.Aug.59. Hohe 46,5 cm, Breite 35,5 cm.
+- 294 Breite 38cm.
+- 296 Ansicht von Arco (Tirol). Aquarell a. d. J. 59.
+- Hohe 32 cm,Breite 22,5 cm.
+- Bocca di Vela (Sudtirol). WeiB gehohte Bleistiftzeichn. Dat. 1856. Hohe 35,5 cm, Breite 48 cm.
+- 297
+- 298 Trient. Gesamtansicht. Ol. Hohe 21,5 cm. Breite 40 cm.
+- 299 Blick vom Cafe Giuseppe Luterotti auf die Kathedralkirche, den hinter ihr liegenden Platz und auf das Gebirge. Aquarellierte
+- Bleistiftzeichnung v. Sept. 59. Hohe 45,5 cm, Breite 37,5 cm.
+- 300 —Sa Apollinare. Bleistiftzeichnung. Dat. 5. Aug.1856.
+- Hohe 47 cm, Breite 37 cm.
+- 301
+- Architekturbild aus Trient. Dat.2. Sept.59. Hohe 30 cm, Breite 23,5 cm.
+- 302 Das Kastell Trient. Weib gehohte Bleistiftzeichnung. Dat. 7. Aug.56. Hohe 46 cm, Breite 38,5 cm,
+- Aus weiterer Ferne gesehen. Olstudie. Dat. 29. Aug. 59.
+- 303 Hohe 39,5 cm, Breite 27 cm.
+- 304 Gebirgsszenerie bei Trient. Ol. Hohe 26 cm, Breite 49,5 cm. Kastell Toblino (uiber dem Gardasee; hier hausten Scheffel und Feuerbach 1855, vgl. Feuerbachs ,Vermachtniss"):
+- 305 Ansicht des Kastells Bleistiftzeichnung. Dat.4. Sept. 59.
+- Hohe 43 cm, Breite 35cm.
+- 306 Der SchloBhof. Aquarell a.d. J. 59. Hohe 46,5 cm, Breite 36 cm.
+- 307 Motiv aus Riva am Gardasee. Bleistiftzeichnung. Dat. 6. Sept. 59.
+- 308
+- Hohe 44,5 cm, Breite 35 cm.
+- Bild vom Gardasee.Olstudie. (Nicht bez.) Hohe 39,5 cm, Br.31,5 cm.
+
+## Alpine Motive.
+
+(Nicht naher lokalisiert).
+
+- 309 Alpengluhen. Die breite, vielfach zerkluftete Gipfelkette eines Hochgebirgsmassivs durch die untergehende Sonne beleuchtet, wahrend die Berge selbst mit ihren Matten und Waldungen schon in Dunkel gehillt sind. Olstudie. (Nicht bez.) Hohe 44 cm, Breite 42 cm.
+- 310 Alpine Landschaft mit Matten, Hochwald, Gletschern und Schnee-
+- feldern. Ol. (Nicht bez.) Hohe 40 cm, Breite 49,5 cm.
+- Zwei alpine Landschaften. Olstudien. (Unbez.) 14,5:24 cm und
+- 311 20:26cm.
+- Voralpenlandschaft mit See im Vorder- und SchloB im Hinter-
+- 312 grunde. Olstudie. (Nicht bez.) Hohe 25 cm, Breite 38 cm.
+- 313 Neun Gebirgslandschaften, durchgangig Voralpentypus, den einzeltem
+- Vordergrund nimmt meist das Bild der dem Hochgebirge vorgelagerten Hochebene ein mit saftig grinen Matten, reizvollen Bergseen, verBaumschlag, einsamen Siedelungen； den AbschluB des Bildes gibt die imposante, meisterhaft charakterisierte Szenerie des Hochgebirgsmassivs. Olstudien. (Nicht bez.) Durchschnittich 25 : 37 cm.
+- Olstudie.(Nicht bez.) 314 Bergsee. Voralpencharakter. Breite 30,5 cm.
+- 315
+- Hohe 22 cm,
+- Desgl. Bez.: 1866. Hohe 28,5 cm, Breite 40,5 cm.
+- 316 Hochgebirgssee. Von dichten Waldungen umschlossen, dehnt sich der stille See im Vordergrunde aus. Die nackten, mit Schneefeldern reich durchsetzten Gipfel des Hochgebirges schlieBen das Bild ab. Ol. (Nicht bez.) Hohe 41 cm, Breite 51 cm.
+- 317 Gebirgsdorf. Im Mittelgrund das Kirchlein an einem breiten Ge-
+- birgswasser. Ol. (Nicht sign.) Hohe 13,5 cm, Breite 19 cm.
+- 318 Bergkirchlein. Schone Gebirgslandschaft. Auf einem Wiesenhugel die Dorfkirche.Am Abhang des Higels links nach dem Mittelgrund zu einige Hauser des Dorfes. Olstudie. (Nicht sign.)
+- Hohe 38 cm, Breite 54,5 cm.
+- 319 Klosterkirche in den Bergen. Olstudie. Hohe 26,5 cm, Breite 38 cm.
+- 320 Zwei Sennhutten. Huibsche alpine Motive. Olstudien. (Nicht sign.) 20:23,5 cm und 20:26 cm.
+- 321 Schweizerhauschen an einem Bache am Eingange eines Eichen-
+- waldes.(Bez.Brauneburg.) Bleistiftzeichnung, weiB gehoht.
+- Hohe 29 cm, Breite 40,5 cm.
+- BergstraBe (der Voralpen) mit Viehherde. In der Ferne im Hintergrunde ein Bergsee. Olstudie. (Nicht sign.) Hohe 31 cm, Breite 28,5 cm.
+- 322
+- 323
+- GebirgsstraBe, durch prachtigen Laubwald fihrend, Voralpencharakter, durch Viehtreiber mit drei Rindern staffiert. Olstudie. (Unbez.) Hohe 26 cm, Breite 38 cm.
+- 324 Alpgarten (Baum- und Wiesenkulturen auf den Matten eines reich
+- zerklifteten Felsens). Olstudie. (Nicht bez.) Hohe 34,5 cm, Breite 28 cm.
+- 325 Waldige Gebirgslandschaft (Voralpen). Bleistiftzeichnung,leicht aquarelliert und weib gehoht. (Unbez.) Hohe 49 cm, Breite 31 cm.
+- 326 Gebirgswald an einer ins Tal ziemlich steil abfallenden Felswand. Ol. (Nicht sign.) Hohe 47,5 cm, Breite 39 cm.
+- 327 Zerkluftete Felswand mit ippiger Vegetation in den zahlreichen Spalten. Ol auf Leinwand. (Unbez.) Hohe 32,5 cm, Breite 27 cm.
+- 328 Hochgebirgsbild. Zwei einsame, schmachtige Nadelbaume auf einem Felsenvorsprung. Olstudie. (Unbez.) Hohe 50 cm, Breite 28 cm.
+- 329 Pflanzenleben an einem Felsenabhang des Hochgebirges. Olstudie. Hohe 26 cm, Breite 39,5 cm.
+- 330 Alpine Gipfellandschaft, typisch fir die Grenze der Baumvegetation. Prachtige Olstudie. (Unbez.) Hohe 53,5 cm, Breite 45,5 cm.
+- Alpiner Gipfel, ohne hohere Vegetation. Olskizze. (Unbez.)
+- 331 Hohe 19 cm, Breite 50 cm.
+- 332
+- Gewitterregen im Hochgebirge. Interessantes Beleuchtungsproblem.
+- Nackte Felsblocke im Walde. Olstudie. Hohe 38 cm, Breite 30,5 cm.
+- 333 Ol. (Nicht bez.) Hohe 23,5 cm, Breite 36,5 cm.
+- 334 Bild aus dem Gebirgswald. Wurzelstock eines umgestirzten, morschen Baumriesen. Olstudie. Hohe 33,5 cm,Breite 50 cm.
+- 335 Kopf eines Schafes, von vorn gesehen; Kopf einer Kuh, von der Seite gesehen. Zwei Olstudien. (Nicht bez.) 14,5:20 cm und 17,5: 15 cm.
+- 336 Alpine Tierstudien:Rinder,ruhend,stehend,schreitend,saufend etc., Ziegen in den verschiedensten Stellungen, Schafe, gesattelte Reitesel, Bernhardinerhunde etc. Im Ganzen 15 verschiedene Olstudien groBen und kleinen Formats, teilweise bezeichnet.
+
+## Landschaftsstudien.
+
+(Samtlich unbezeichnet.)
+
+- 337 Landschaft aus dem Isartal. Ol. Hohe 27,5 cm, Breite 42,5 cm.
+- 338 Hohe 28 cm, Breite 43,5 cm.
+- Landschaft im Charakter der Isar-Auen. Ol.
+- Partie aus dem Isartal in Mondscheinbeleuchtung. Olstudie.
+- 339 Hohe 36 cm,Breite 47 cm.
+- 340 Junge Laubbaume und hohes Strauchwerk, Motiv aus Unterschaftlarn, dat. 3. Juni 59. Olstudie. Hohe 38 cm, Breite 32,5 cm.
+- 341 Waldlandschaft.Partie von einer Waldstrabe, die sich an einer Berglehne hinzieht. Mit prachtiger Baumgrupe in der Mitte und
+- Blick in die Niederung. Ol. Hohe 31,5 cm, Breite 44 cm.
+- 342
+- Waldlichtung mit Haus an einem See. Prachtige Olstudie. Hohe 37 cm,Breite 45,5 cm.
+- Waldinneres. Ein durch alten Laubwald fuihrender Weg, von
+- 343 links fallt das Licht ein. Ol. Hohe 31 cm, Breite 41,5 cm
+- 344 Zwei Waldlandschaften. O1.
+
+Hohe 64 cm und 47,5 cm, Breite 47,5 cm und 64 cm.
+
+- 345 Drei Waldstudien. Bleistiftzeichnungen, teilweise getuscht.
+
+Hohe 34 cm und 39,5cm, Breite 48,5 cm und 52 cm.
+
+- 346 Finf Blatter: Baum- und Blattstudien. Zum Teil aus dem Englischen Garten in Munchen. Bleistiftzeichnungen. Hohe 21 cm und 45 cm, Breite 22,5cm und 47 cm.
+- 347 Acht Landschaften und Baumstudien.Ol. Verschiedene Forimate.
+- 348 Finf FluB- und Meerlandschaften. Ol. Hohe 16 cm und 25,5 cm, Breite 26,5 cm und 34 cm.
+- 349 Waldsee. Olstudie. Hohe 30 cm, Breite 41 cm.
+- 350 Baumstudie. An einer Berglehne neben einer Wiese drei prachtige Laubbaume. Ol. Hohe 44 cm, Breite 27 cm.
+- 351
+- Pflanzenstudien: Waldleben, Baume, Straucher, Graser. 7 Olskizzen in Folio und Quart.
+- 352 Drei Pflanzenstudien. Ol. Im Durchschnitt 15:25 cm.
+- 353 Marine.
+- Segelschiffe vor felsiger Kiste bei leichtbewegter See. Olstudie.Hohe 21,5 cm, Breite 29,5 cm.
+- 354 Vier Marinesticke: Bewegte, an der felsigen Kiste brandende See ist das Thema dreier Olstudien, ein mit 5 Mann bemanntes Fischerboot in hochgehender See der Vorwurf des vierten Bildes.
+- Format: 27:42 cm und kleiner.
+- 355 Handelsmarine. Im seichten Strandwasser ein groBer KauffahrteiIm Hintergrund Segler, daneben ein Seegelboot und zwei Kahne. rechts und links je ein Segelboot mit je einem begleitenden Kahn. O1.Hohe 44,5 cm, Breite 30,5 cm.
+
+<!-- image -->
+
+## Diverses.
+
+(Samtlich unbezeichnet.)
+
+- Saulengang in einer gotischen Kathedralkirche - Architekturmotiv aus einer alten hollandischen Hafenstadt —Friedhofsszene. 3 Ol-
+- 356 studien. Hohe 62 und 70 cm, Breite 48 und 91 cm.
+- 357 Vier Blatt spanische Architekturmotive. Olmotive. Hohe 24,5 und 50cm, Breite 32 und 34 cm.
+- 358 Kalkofen. Aquarell. Hohe 18,5 cm, Breite 25 cm.
+- 359
+- Architekturmotiv.Aus einer alten Hafenstadt bez. Neustadtler Pferdeborn. Aquarell. Hohe 22 cm, Breite 16,5 cm.
+- Ziehbrunnen vor einem groBen Torbogen, mit wasserschopfenden
+- 360 Madchen staffiert. Aquarell. Hohe 31 cm, Breite 24 cm.
+- 361
+- Drei Studien fur eine Dame in reichem venezianischen Gewande. Olskizzen. 41:30 cm und kleiner, dabei ein viertes Blatt Gewandstudien.
+- 362
+- 363
+- 364
+- Mannliche Akte. Drei Olstudien. Hohe 46 cm, Breite 51,5 cm u. kleiner.
+- Madchenkopf, zum Himmel aufblickend, auf Goldgrund. Studie zu einer Heiligen oder Madonna. Ol. Rund. Diam.33,5 cm.
+- Madchenkopf, im Profil nach links, mit Perlenschmuck in dem roten Haar. Ol. Rund. Diam.32cm.
+- 365 Kirchentir. Unter dem einfachen spatgotischen, steinernen Spitzbogenportal die holzerne Tir mit interessantem schmiedeisernen Beschlag. Rechts an der Wand hangt der kupferne Weihwasser-
+- kessel. Ol. Hohe 30 cm, Breite 22 cm.
+- 366 Seitenpforte einer spatgotischen Pfarrkirche, zum Friedhof fuhrend, der durch einige in hohem Gras und feierlicher Ruhe gebettete alte Grabsteine charakterisiert ist. Olstudie. Hohe 38,5 cm, Breite 39cm.
+- 367
+- Klosterkreuzgang mit von rechts einfallendem Lichteffekt. Olstudie Hohe 17 cm, Breite 23 cm.
+- 368 Hollandische Windmihle mit benachbartem Wohnhaus auf einer
+- sich in den See erstreckenden Landzunge. Olstudie. Hohe 17 cm, Breite 27 cm.
+- Konvolut von elf kleinen Olstudien (Baumschlagstudien, Land-
+- 369 schaftliches, zwei Wolkenstudien, Portratstudien).
+
+<!-- image -->
+
+## Theater-Dekorationen.
+
+- 370 Thronsaal im Geschmack der Hochrenaissance. Rechts der Thron
+- unter einem kostbaren Thronhimmel. Aquarell bez.u. dat. 1885. Hohe 54,5 cm, Breite 97 cm.
+- 371 Dekoration eines groBen Saals in orientalisierendem Geschmack a la Makart. (Bazar fur eine Wohltatigkeitsveranstaltung). Aquarell. Hohe 53 cm, Breite 91 cm.
+- 372 Interieur. Saal einer Ritterburg in romanischem Geschmack.
+- Aquarell. Hohe 29,5 cm, Breite 44 cm.
+- 373 Erkerzimmer eines Burgbaues in gothischem Stil. Olstudie. Nicht bez.) Hohe 27 cm, Breite 21 cm.
+- 374
+- Salon in Barockgeschmack. Olskizze. Hohe 22 cm, Breite 31,5 cm.
+- 375 Reicher Salon im Geschmack der franzosischen Hochrenaissance. (Als Mittelstick herrlicher Prunkkamin.) Verwendbar fir die ,Hugenotten" fir ,Narziss",Ruy Blas" u.a. Stuicke. O1studie. Bez.: Ch. Jank 65. Hohe 31 cm, Breite 47,5 cm.
+- Zeltbuden im Walde. In der Tiefe des Bildes das SchloB. Den Verwendbar
+- 376 AbschluB der Szenerie bilden machtige Waldbaume. fir ,Freischitz". Bez:. Chr. Jank inv. 72. Aquarell. Hohe 52,5 cm, Breite 74 cm.
+- 377 Trauerkatafalk.In einem hohen Innenraum (Basilika?) ist der firstliche Leichnam aufgebahrt. Ol. (Nicht bez.) Hohe 31 cm, Br. 25 cm.
+- 378 Bauernstube mit grinem Kachelofen. Links in der Ecke bei dem Fenster Holzbank, Tisch und Stihle, durch Mutter und Kind, die einander gegeniber am Tisch sitzen, staffiert. Ol. (Nicht bez.) Hohe 30,5cm, Breite 39 cm.
+- 379 Platz in einer sidlichen alten Stadt. (Szenerie zum Barbier von Sevilla", ,Don Juan" etc.) Ol. Leinwand. Hohe 61 cm, Breite 85,5 cm,
+- 380
+- Marktplatz einer altertimlichen sidlichen Stadt. (Szenerie fur ,Don Juan".) Ol. Hohe 66 cm, Breite 87,5 cm.
+- 381 Architektur-Szenerie zu ,Don Juan"
+- Ol auf Leinwand. Hohe 66 cm, Breite 91,5 cm.
+- 382 Gothische Architekturszenerie. Im Vordergrunde Brickenturm, der wohl den Eingang zur Stadt darstellt. Olstudie.
+- Hohe 32,5 cm, Breite 45 cm.
+- 383 Terrassenszenerie in einem franzosischen Rokokopark. Olstudie. Hohe 28,5 cm, Breite 46 cm.
+- 384
+- Rokokopark mit Gartenhaus in der Art der Amalienburg des Nymphenburger Parks. Entwurf zu einem Buhnenprospekt. Olstudie, dat.1866.Hohe 43,5 cm, Breite 57cm.
+- 385 Moderne Parkszenerie. Rechts im Mittelgrund die herrschaftliche Villa.Olstudie. Hohe 28,5 cm, Breite 40 cm.
+- Feengrotte (Tropfsteinhohle mit korallenartigem,phantastischem
+- 386 roten Astwerk). Olskizze. Hohe 39 cm,Breite 55,5 cm.
+- 387 Entwurf zu einem Theatervorhang.
+- Olskizze. (Nicht bez.) Hohe 44 cm, Breite 51 cm.
+- 388
+- Entwurf zu einem Theater-(Verwandlungs-)Vorhang. Ol. (Unbez.) Hohe 69,5 cm, Breite 73,5 cm.
+- 389 Entwurf zum Zwischenaktvorhang des Muinchner Hoftheaters. Leicht aquarellierte Tuschzeichnung. Bez.: Chr. Jank inv. 1870. Hohe 39,5 cm, Breite 50,5 cm.
+- 390
+- Altagyptische Buhnenszenerie (fuir ,Aida", 1. Akt, 1. Szene.) Ol. Hohe 70,5 cm, Breite 100 cm.
+- 391 "Alceste". Apotheose.
+- Apoll mit der Lyra auf Thronsessel in Wolken, umgeben von den neun Musen. Dariber Eos, in Wolken stehend, Blumen streuend, begleitet von einem fackeltragenden Putto. Aquarell.(Unbez.) Hohe 44,5 cm, Breite 57 cm.
+- 392 Alexander in Korinth. Atelier des Apelles. Mit Statuen, Vasen, Trophaen, Blattpflanzen reich im Makartgeschmack ausgestatteter, antikisierender Innenraum.A Aquarell. Hohe 30 cm, Breite 46,5 cm.
+- 393 Szenerie zum ,Bergkonig." Das Madchen im Saale des Schlosses des Bergkonigs (Magisch beleuchtete Tropfsteingrotte). Ol. Hohe 75 cm, Breite 100 cm.
+- 394 Blaue Grotte.S See in einer groben Felsenhohle. Die einzige Lichtquelle ist der Eingang der Hohle, daher magische Beleuchtung der Felsen und Lichteffekt auf dem Wasserspiegel. Ol. (Unbez.) Hohe 66 cm, Breite 87 cm.
+- 395 Szenerie zu ,Dornroschen."
+- (Perfall.) Das KonigsschloB mit seinen in Schlaf versunkenen Bewohnern. Oben die schlafende Tafelrunde, unten das schnarchende Gesinde. Ol. (Nicht bez.) Hohe 73,5 cm, Breite 100cm.
+- 396 —Romanischer Burggarten mit ippiger Vegetation. Rechts auf einer
+
+Hohe 30,5 cm,Breite 42 cm.Beiliegend eine Studie zum 4.Akt.(Felsengrotte.)
+
+- Terrasse gedeckte Tafel mit Prunksticken. Ol.
+- 406
+- 407
+- Dornroschen. Der durch Rosenstraucher fast verdeckte Eingang
+- 398 Esther. Akt V: Assyrischer Konigs-Palast zu Susa. (GroBer Saal, der in der Tiefe des Bildes an eine Terrasse stoBt und somit den Blick ins Freie vermittelt.) Aquarell. Hohe 51 cm, Breite 66 cm.
+- 397 zum Konigsschlof. Ol. Hohe 31,5 cm, Breite 41 cm.
+- 399 Faust. Studierstube. Weites Kreuzbogengewolbe mit Erkeranbau, angefuillt mit Skeletten, ausgestopften Tieren, wissenschaftlichen Instrumenten, Folianten etc. zwischen gotischen Schranken, Truhen u.dgl. Das Licht fallt links durch das kleine Fenster des Erkers. Aquarell. Bez.: Chr. Jank 87 inv. Hohe 44 cm, Breite 59 cm.
+- Schadel und ausgestopfte Tiere freilassen. Aquarell.
+- 400 —Erscheinen des Erdgeistes. Fausts Studierstube, ganz in Wolken gehillt, die nur einige Rippen des hohen Kreuzbogengewolbes, einige
+
+Hohe 43,5 cm, Breite 60 cm.
+
+- 401 —Hexenkiche. Rechts Faust, in einem magischen Zirkel sitzend, erblickt die schlafende Helena. Links Mephisto bei dem iber Feuer hangenden groBen Kessel. Aquarell. Bez.: C. Jank 83 inv.
+
+Hohe 30 cm, Br.47 cm.
+
+- 402 一 Hexenkiiche (hier in einer unwirtlichen Felsenhohle), rechts Faust im magischen Kreis das Bild der Helena erblickend, links Mephisto am Hexenkessel. Aquarell. Hohe 42 cm, Breite 58 cm.
+- 403 Aquarell. Hohe 55,2 cm, Breite 81,5 cm.
+- —Platz in einer gothischen Stadt. Imposantes Architekturbild.
+- 404 Tirmen.
+- —Der Platz vor der Kirche. Links Margarethens Haus, davor eine Marien-Statue, rechts das grobe Kirchenportal, in der Mitte perspektivischer Einblick in das Stadtbild mit seinen alten Giebeln und Das ganze durch vereinzelten Baumschlag schon belebt. Aquarell. Bez.: Chr. Jank 88. Hohe 71 cm, Breite 95 cm.
+- 405 —Gartenszene mit Marthe und Margarethe. Ein i iberdachter Torbogenbau bildet das Mittelstick,einen perspektivischen AbschluB der Dekoration vermittelnd und das Haus der Margarethe （links) mit dem Gretchens (rechts) verbindend. Hubsches, altertimelndes
+- Architekturbild, durch Baumschlag belebt. Aquarell.
+
+Hohe 28,5 cm, Breite 46,5 cm.
+
+- --Gartenszene. Schoner Garten mit hohen Baumen und Rosenhecken. Links die Giebel und Tirme der Nachbarschafit. Aquarell. Hohe 64 cm, Breite 84,5 cm.
+- Fidelio".I. Akt. Der Burghof (Gefangnishof). Malerische, durch Baumschlag belebte Architektur. Aquarell. Bez.: Chr. Jank inv.84.
+- Hohe 43,5 cm, Breite 60,5 cm.
+- 408 Fiesko. SchloBhof. Gewaltige Festungsarchitektur, vorn das durch zwei Laternen beleuchtete Portal. Aquarell.
+
+Hohe 37 cm,Breite 54,5 cm.
+- 409 "Freischitz". Zwei verschiedene Entwirfe zu Agathens Stibchen.
+- Ol. Hohe 34 cm und 38 cm, Breite je 50,5 cm.
+- 410 Iphigenie in Aulis. Ansicht des Lagers mit den Zelten der Heerfihrer und Ausblick auf das Meer. (l. Akt). Aquarell. Bez.: Chr.
+- Jank inv. 1868. Hohe 33 cm, Breite 54 cm.
+- 411 Konig v. Lahore. Szenerie mit reicher Palmenvegetation (rechts) und indischer Palastarchitektur (links). Bez.: Jank. Aquarell.
+- Hohe 26,5 cm,Breite 35 cm.
+- 412 Platz in einer indischen Konigsstadt. Architekturszenerie (z. "Konig v. Lahore"). Aquarell. Bez.: Chr. Jank.
+- Hohe 40 cm, Breite 51,5 cm.
+- Indische Szenerie: Buddhatempel (,Konig v. Lahore ?") Aquarellskizze. (Unbez.) Hohe 17 cm, Breite 22 cm.
+- Maria Stuart. Rittersaal eines gothisierenden Schlosses. Ol. Hohe 38,5 cm,Breite 51 cm.
+- 413
+- 414
+- 415 "Orpheus in der Unterwelt. Antikisierender Innenraum. Hohe 28 cm, Breite 41 cm.
+- 416
+- 417
+- Piccolomini. Prunksaal in einem Renaissanceschlosse, mit reich dekoriertem Kamin als Mittelstick.Ol. Hohe 42 cm, Breite 57 cm.
+- "Prophet". Architekturszenerie. (Der Platz vor dem Rathaus). Olskizze. Hohe 26,5 cm, Breite 36 cm.
+- 418 —Der brennende Marktplatz. Aquarell. Hohe 46,5 cm, Breite 64,5 cm.
+- 419 Romantisches Felsenschlob in romanisierendem Stil, von der Parkseite gesehen. (Szenerie zu ,Perfalls Raimondin"). Ol. Lwd.
+- 420
+- Hohe 74 cm, Breite 99 cm.
+- Raimondin. Ansicht der Burg. (Akt Il nach der Verwandlung). Aquarell. Bez.: Chr. Jank inv. 81. Hohe 41 cm, Breite 58 cm.
+- 421
+- 422
+- 423
+- 424
+- Schneewittchen. Arkadenhalle im SchloB der sieben Zwerge, in einem prachtigen Garten gelegen, mit ippiger Marchenpracht ausgestattet. Links das Tischchen mit dem Prunkgerat, darum stehen sieben rotsamtene Polstersessel. Ol. Hohe 27 cm, Breite 36,5 cm.
+- "Tell. Der Bergsee mit Gewitterstimmung. Ol. (Unbez.) Hohe 39 cm, Breite 55,5 cm.
+- "Undine (v. Perfall), Parkszenerie mit prachtigem, inmitten eines groben Bassins sich erhebenden, mit plastischem Schmuck (Raub der Amphitrite, Tritonen etc.) gezierten Springbrunnen und der Rickfassade des SchloBbaues. Ol. (Unbez.) Lwd. Hohe 80 cm, Breite 101 cm.
+- Dasselbe Motiv in anderer Gestaltung. Ol. (Nicht bez.) Lwd. Hohe 80 cm, Breite 101 cm.
+- 425 —Dasselbe Motiv in intensiver Mondscheinbeleuchtung. Ol. (Nicht
+- bez.) Hohe 78 cm, Breite 106 cm.
+- 426
+- "Undine Der Brunnen ist hier monumentaler, der Baumschlag machtiger. Aquarell. Hohe 54,5 cm, Breite 80 cm.
+- 427 一 Eine mit dem SchloB in Verbindung stehende Terrasse fihrt iber fuinf Stufen zu dem groben Weiher. Aquarell. Hohe 73 cm, Breite 107,5 cm.
+- 428 Parkterrasse, zwei Schlossfligel verbindend und iber eine breite
+- Treppe in ein Gartenparterre fuhrend, dessen Mittelpunkt ein Springbrunnen (mit kleinem Bassin) bildet. Ol. Hohe 73 cm, Breite 93,5 cm.
+- 429 Wieland der Schmied. In eine Felsengrotte eingebaut die Werk-
+
+Hohe 43,5 cm,Breite 60,5 cm.
+
+- statt des Zauberschmieds mit dem gewaltigen Ambos, dem Herdfeuer und der Ruhestatte links, rechts fihrt eine in den Felsen gehauene Treppe ins Freie, von dem einfallenden Sonnenlicht magisch beleuchtet. Aquarell. Bez.: Chr. Jank fec.79.
+- 430
+- Zauberflote. Eingang zum agyptischen Felsengrab. Aquarell. Hohe 46 cm, Breite 59,5 cm.
+- Rheingold.  Magisch beleuchtete Felsengrotte. Ol.
+- 431 Hohe 69 cm, Breite 101 cm.
+- 432
+- Felsenszenerie zu Siegfried. Ol. Lwd. Hohe 74 cm, Breite 99 cm
+- 433 Gigantische Felsenszenerie in Sonnenuntergangsstimmung. Ol.
+- 434
+- 一 Hohe 52 cm, Breite 72,5 cm.
+- Niflheim. (Rheingold, Ill. Bild.) Olstudie. Hohe 42,5 cm, Breite 56 cm.
+- 435
+- Lohengrin, Il. Akt. (Freier Platz mit romanischer Architektur und mit Baumschlag als KulissenabschluB.) Ol. Hohe 39 cm, Breite 50,5 cm.
+- 436 Reiches, interessantes Konvolut von Dekorationsentwirfen etc. zu den Wagner-Opern (zum Ring,besonders ,Walkire"[Berlin 1884, Minchen 1870 u. 84] und ,Rheingold", ferner zu ,Lohengrin", "Tannhauser",,Tristan").Ca. 1oo Ol-, Aquarell-,Bleistiftstudien, Skizzen und Pausen,meist Folio, auf 74 Kartonblattern. Hochinteressante ,erste Ideen" zur Gestaltung Wagnerischer Szenerieen.
+- Konvolut von sechs Blatt Theaterdekorationsentwirfen zu
+- 437 "Rheingold" und ,Walkure". Ol und Gouache.
+- 438 Interessantes Konvolut von Skizzen zur Inszenierung des "Rienzi: Rekonstruktionen des Zustandes des Forums im 17. und 18. Jahrhundert. Skizzen zum Titusbogen mit dem Durchblick auf das Kolosseum, zur Fassade der Laterankirche, nicht benitzter Entwurf zum Palazzo Rienzi, erste Ideen zum dritten Akt", ferner sehr zahlreiche fleibige Skizzen fir Suffitten und Dekorationssticke, Baumschlagkulissen, antike Baureste etc., letztere meist im Geschmack Piranesis'. Ca.75 Skizzen auf 24 Kartonblattern in Folio.
+- 439 Konvolut von 38 Blatt Dekorationsentwurfen, Skizzen und Pausen zu Konigsvorstellungen, hauptsachlich zu ,Jugendjahre Ludwigs XiV". (Interieurs und Fassaden der Schlosser Vincennes und Versailles 1674) und zu ,Narciss": Ein Beleg, welche umfassende, sorgfaltige, fast Meiningersche Vorarbeiten die Inszenierung der Konigsvorstellungen (1874-75) beanspruchte. Ein einziges Blatt enthalt oft bis 25 Details. Ausfuihrung meist in Bleistift und Aquarell. Format meist Folio.
+- 440 Konvolut von 64 ausgefuhrten Entwirfen und Skizzen zur Inszenierung der Opern:Faust","Zauberflote",Konig v.Lahore" Ol- und Aquarellmalereien, Bleistiftzeichnungen und Pausen, meist GroBquerfolioformat.
+- 441 Konvolut von 16 Blatt Theaterdekorationen zu ,Faust", "Othello","Freischitz","Prophet","Fidelio","Rienzi","Aida", "Zauberflote"etc.Ol, Aquarelle etc.
+- 442 Konvolut von uber 1oo ausgefuhrten Entwlirfen und Skizzen: Landschaftliche Bihnenprospekte (namentlich alpine Szenerien zu ",Wilh. Tell"), Baumkulissen, gotische Stadtprospekte, Palastkulissen, Kreuzbogeninterieurs, besonders Interieurs von gotischen Kathedralkirchen (zum Teil fir die Petersburger Oper ausgefihrt), ferner Studien zu groBen Segelschiffen und anderen Dekorationen. Meist Bleistitzeichnungen, aufgezogen auf 56 Kartons in GroBfolioformat.
+- 443 Umfangreiches Konvolut (ca. 150 Blatt auf 76 Foliokartons) von Studien, Skizzen, Entwiirien, Pausen in Bleistiftzeichnung und Aquarell zu Theaterdekorationen, Gesamtszenerien und Details, als: Architektur-und Baumkulissen, Versatzsticke etc.zu orientalischen und Feensticken (,Oberon", ,Bergkonig"[namentlich Hohlenentwirfel), zu Perfalls Dornroschen" etc.), zu Sticken, die in Assyrien, Agypten und im klassischen Altertum spielen (,Esther",Zauberflote",Iphigenie in Aulis",Orpheus in der Unterwelt",namentlich Unterweltsentwirfe), ferner zu ,Tell" (alpine Szenerien), ",Don Juan" (Architekturszenerien und Friedhofsentwiirfe) etc. etc. Aberauch Dekorationen fir allgemeine Verwendung sind reich vertreten, so Entwirfe fur Proszeniumseinfasssungen, etc.
+
+<!-- image -->

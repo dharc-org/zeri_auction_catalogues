@@ -1,0 +1,3132 @@
+## Regolamento delle condizioni di vendita al pubblico incanto emanate dalla Federazione Naz. Fascista Antichita Artistici e Culturali
+
+1-La vendita si fa al maggiore oferente ed ESCLUSIVAMENTE A PRONTI CONTANTI e non potra iniziarsi se non vi saranno presenti almeno Io concorrenti nella sala.Non si accordano dilazioni di pagamento.
+
+- 2.—L'esposizione che precede ogni vendita viene fatta allo scopo di far bene esaminare lo stato e la qualita degli oggetti; per rendere ancor piu agevole tale esame, la Ditta esporra ognimattina dalle 1o alle 12 gli oggetti che saranno posti in vendita nella giornata.Specialmente per i quadri sia antichi che moderni Vattribuzione del Perito non puo formare nessuna base di diritto per lacquirente; QUINDI NON SI ACCETTERA'NESSUN RECLAMO DOPO L'AGGIUDICAZIONE anche se si fosse incorso in qualche errore.
+- 3.— Gli oggetti saranno aggiudicati dal Direttore della vendita e l'acquirente dovra fare il pagamento immediato totale del prezzo, ma e in facolta della Casa di domandare solo una parte a titolo di caparra, la quale ultima non dovra essere minore di un terzo del prezzo di aggiudicazione. Tale caparra verra incamerata in caso di mancato ritiro degli oggetti acquistati, non escludendo i diritti di rivalsa con mezzi legali verso gli acquirenti inadempienti.
+- sulla somma di aggiudicazione ed al momento della stessa, piu l1 per cento per tassa di scambio. Esso e inoltre tenuto a sottoscrivere il bollettino di acquisto con lindicazione del proprio domicilio e mostrare surichiesta un documento che comproui
+- 4.la sua identita.
+- tore di riprendere l'incanto sulla base dell offerta fatta purche lofferta del reclamante sia accertata con la testimonianza dei clienti a lui vicini,in ogni modo il reclamo deve essere immediato e maidopo emessa la bolletta di aggiudicazione.
+- 7.一 l Direttore della vendita potra variare nella gara l'ordine previsto dal Catalogo,ove questo esista, ed avra facolta di riunire e dividere i diversi lotti.
+- 6.—Gli oggeti venduti douranno essere ritirati e pagati non oltre le ore 12 del giorno successivo alla vendita. In caso di inadempienza da parte del compratore, il Direttore della vendita e autorizzato a rimettere in vendita loggetto a rischio e pericolo dell'acquirente inadempiente.
+- 8.—Per gli oggetti notificati dallo Stato (per αNOTIFICA》 si intende quanto contemplato dagli articoli 5-6 della Legge 20 Giugno 1g26 e 56 e seguenti del regola ad osservare tutte le disposizioni vigenti emanate dal Ministero della Pubblica Istruzione, delle quali potranno prendere visione presso i gestori della Casa di Vendita. Il rapporto di vendita si intende tuttavia perfezionato a tutti gli effetti di legge con l'aggiudicazione.
+- 10.一 Qualora,per una ragione qualsiasi,lacquirente non fosse in possibilita
+9. — Il trasporto degli oggetti sara fatto a cura e spese dellacquirente.
+- di ritirare gli oggetti acquistati e pagati,entro il termine indicato dallart.6,esso sara tenuto a corrispondere alla Casa,un diritto fisso di magazzinaggio in rapporto al vo lume,ed un premio di assicurazione in rapporto al valore delloggetto stesso.
+- Tutti coloro che concorrono alla vendita, accettano senz'altro il presente regolamento e percio rendendosi deliberatari di qualsiasi oggetto,assumono giuridi
+- 11.camente la responsabilita dell'acquisto fatto.
+- 12.La Casa non assume altra responsabilita oltre quella derivante dalls sua qualita di mediatrice.E' tuttavia responsabile della veridicita delle sue attestazioni Circa la qualita della merce.
+
+LA DIREZIONE.
+
+Dafo lenorme quanfifafivo degli oggeffi si fa pre·
+
+ghiera di rifirare sollecifamenfe gli oggeiti acquistafl
+- 4
+- 5
+- 6
+- 7
+- 8
+
+## PRIMO GIORNO DI VENDITA
+
+GIOVEDI 14 MAGGI0 1936-XIV
+
+Alle ore 16,30.
+
+Dal N.1 al N.132
+
+- SEI FIGURINE in porcellana di cacciatori e cacciatrici portanti la marca di Napoli.
+- PIATTO CUPO a bordo ondulato in porcellana decorato ad
+- 2 ornati ed onde. Cina. (Difetto di fuoco).
+- DUE PIATTI in porcellana uno decorato con figura di chioc-
+- cia e pulcini, l'altro da due personaggi con ricche acconciature. Giappone.
+- GRANDE PORTAVASO in porcellana decorato in bleu a paesaggi ed uccelli con bordo a piccoli ornati. Cina.
+- ALTRO DETTO d'accompagno.
+- ORIGINALE PIATTO in porcellana decorato a gruppi di fo glie e fiori con uccelli. Venezia imitante la Cina.
+- ELEGANTE PORTADOLCI in porcellana decorato a sog getto pastorale con montatura di bronzo dorato. Sevres.
+- SERVIZIO DA THE in porcellana composto da undici tazze con piatti. Giappone.
+- TRE VASSOI in porcellana con montatura di canna d'India. 9
+- 10
+- ORIGINALE SERVIZIO DA LIQUORI in porcellana decorato ad ornati verdi rossi e bleu: Due bottigline a coperchio ed 11 tazzine con piatti. Arte Giappone.
+- RARA COPPA in porcellana a coperta bianca antica. Cina.
+- II Marca incussa. Coperchio in legno di tek.
+- 12
+- GRANDE BEL VASO in porcellana bianca e bleu della Cina, decorato a soggetti famigliari. Sec. XVIII.
+- FINIMENTO DA CAMINETTO composto di due cornetti e tre potiches a coperchi in porcellana a coperta palombina con ornati a rami di fiori in bleu e dorature. Cina.
+- 13 Sec. XVIll. (Coperchi leggermente difettosi).
+- 14
+- DUE POTICHES in porcellana decorate a gruppi di fiori ed uccelli. Cina.
+- GRANDE PIATTO in porcellana decorato da figura di gallo 15
+- 16
+- che assalta una cerva sacra. Fondo ad onde. Cina.
+- SERVIZIO DA TAVOLA in porcellana decorata a guide di fiori ed uccelli in bleu. Si compone di dieci piatti grandi da portata, sei detti quadrangolari, cinquantadue piatti da salvietta. Venezia imitante il Giappone. Marcati A. C.
+- DIVINITA CINESE in rame sbalzato, seduto in trono.
+- 17 Sec.XVIII.
+- 18 ALTRA DETTA.
+- BELLISSIMA PROFUMIERA a coperta gialla imperiale de19 corata a draghi graffiti sotto vernice. Antica arte Cinese. Base e coperchi in tela; sul coperchio roccia in ametista.
+- GRANDE BELLA FIGURA di dignitare in porcellana, con decorazione a colori a simboli e fiori; barba di seta. Cina.
+- Rara.
+- 20 Sec.XVIII.
+- 21 ALTRA DETTA.
+- ALTRA DETTA. 22
+- PICCOLA PALA D'ALTARE buddhistico in bronzo con tre
+- 23 figurine di divinita a rilievo. Nel rovescio iscrizioni. Cina. Scavo.
+- 25
+- ornati incisi Antica arte del Tibet.
+- FIGURA DI PUTTO. Bella scultura in bronzo. Sec. XVIl. Base di legno.
+- IMPORTANTE BRACIERE Veneziano in bronzo a forma
+- 26 centinata. Epoca Luigi XIV.
+- 27
+- GRANDE VASSOIO circolare in metallo argentato sbalzato a draghi ed ornati. Arte del Tibet. Base di legno.
+- 28 VASSOIO CIRCOLARE in bronzo cedrino con ornati. Piedi di legno. Arte indiana.
+- BUDDHA in piedi in atto di predicare. Rara figura in bronzo
+- 29 interamente dorata. Antica arte Siamese.
+- 30
+- 31
+- DUE CORNICINE con interni intagliati e dorati contenente una la Vergine e l'Angelo Nunziante dalloriginale di Beato Angelico e laltra due dipinti su rame a figure di Santi.
+- LA SACRA FAMIGLIA. Miniatura circolare su avorio con cornicina dorata.
+- LA VERGINE ASSUNTA in Cielo. Grande miniatura con cornice di metallo ed astuccio di pelle, con stemma pon-
+- 32 tificio. Dono papale.
+- 33
+- S. GIOVANNI. Miniatura ovale con cornice ad ebano.
+- 34 LA VERGINE COL BAMBINO. Piccola miniatura ovale con cornicina nera.
+- ORIGINALE PORTASIGARI di argento a forma di busta 35 con ornati graffiti. Secondo impero. Peso gr. 180.
+- ELEGANTE VAsO da fiori a corpo leggermente baccellato a 36 due anse, in argento. Stile Luigi XVI. Gr. 1545.
+- VASSOIO con largo bordo sbalzato in rame argentato. Il cen
+- 37 tro dorato.
+- PAIO DI CANDELIERI di bronzo a tre bracci per candele.
+- 38 Stile Luigi XV.
+- 39 DUE DETTI.
+- 40
+- ELEGANTE E PICCOLA COPPA in argento a due anse. Manifattura Mappin Webb. Peso gr. 205.
+- 41
+- ZUCCHERIERA a coperchio in argento con anse e piede a tralci di vite. Peso gr. 240.
+- PIATTO DA PORTATA a forma ovale centinata in argento
+- 42 900/1ooo. Peso gr.96o.Manifattura Tornotti.
+- ALTRO DETTO piu grande. Peso gr. 1585. 43
+- 44
+- ALTRO DETTO da pesce.Peso gr. 1640.
+- ALTRO DETTO circolare. Peso gr.1140. 45
+- 46
+- ALTRO DETTO. Peso gr.920.
+- 47
+- ALTRO DETTO a fondo cupo. Peso gr. 86o.
+- 48 ELEGANTE SERVIZIO DA THE e caffe in argento di bella sagoma. Si compone di: vassoio, teiera, caffettiera,lat tiera e zuccheriera.Peso gr. 2715.
+- 49
+- VENTIQUATTRO COLTELLINI da dessert in vermeille finemente incisi a mano. Fabbrica Odiot a Paris. Astuc cio di pelle.
+- FIGURINA DI BAGNANTE in argento patinato, copia dal
+- 50 l'antico.Peso gr.120o.
+- COLEMAN ENRICO.Paesaggio. Disegno alla matita su carta grigia lumeggiata di bianco. Cornice e cristallo. Metri
+- 51 0,27x0,43.
+- ID.ID.Altro d'accompagno. 52
+- 53 HARRIS J. The Flyng. Dutchman. Incisione a colori dal
+- l'originale di Herring pubblicata a Londra nel 1849. Cornice a finti legni con bordo oro. M. o,59 x o,83.
+- 54
+- HARRIS J. e C. QUYNTREY. Wild. D. Dayrell. Incisione a colori dalloriginale di Harry Hall pubblicata a Londra nel 1855. Cornice tinta ad ebano e cristallo. Metri 0,65 x 0,85.
+- 55 HUNT and SON. Musjid. Incisione a colori verniciata dal 1'originale dello stesso incisore. Cornice. M. o,7o x o,86.
+- DEPRADES. Teddington. Incisione a colori pubblicata a Lon56 dra nel 1851. Titolo riportato. Cornice e cristallo. Metri
+- 0,54x0,70.
+- HAVELL. Persimon. Incisione a colori pubblicata a Londra 57 nel 1896. Cornice e cristallo. M. o,56 x o,71.
+- SMITH CH.and H. MAYER. Racing Cracks. Incisione a co lori dallo originale di Deprades pubblicata a Londra nel 1853. Cornice a mogano e cristallo (un poco macchiata
+- 58 dal calore).M.o,63x 1,13.
+- SCOTT. JS. Lo starter della caccia alla volpe. Incisione al gra-
+- 59 nito avanti lettera con firme autografe. Cornice e cristallo. M.0,68x0,53.
+- 6o AUTORITIE AND IMPUDENCE. Rara incisione inglese con cornice di tuia e cristallo. M. o,75 x o,6o.
+- SMITH. JR. Slave trade. Bella incisione a fumo a colori dal 1'originale di Morland. Cornice dorata e cristallo. Metri
+- 61 0,47x0,64.
+- 62
+- MACCHIATI SERAFINO. La dichiarazione di amore. Schizzo allinchiostro con lieve tocco di colore. Firmato e datato: Paris 19o2. Cornice e cristallo. M. o,25 x 0,23.
+- 63
+- WRAGE (J. H.). 1873. Ultime luci. Un'ampia distesa di campagna che termina allorizzonte con un lembo di mare. Importante dipinto ad olio dal quale emana tutta la poesia del creato. Cornice dorata. M. o,63 x 1,25.
+- 64 MORELLI DOMENICO (Attr.a). Studio di testa di donna. Importante dipinto ad olio. Cornice di tartaruga. Metri 0,44x0,35.
+- 65 LONGO MANCINI FRANCESCO. La Giovane Baccante.
+- Bustino dipinto ad olio di fresca intonazione. Cornice dorata e cristallo. M. o,34 x 0,45.
+- 66 RUOPPOLI. Frutta e cacciaggione con gatti Importante pit tura ad olio su tela. Cornice dorata. M. 1,27 x 1,90.
+- 67
+- ID.ID. Quadro d’accompagno al precedente.
+- 68
+- VOLKERS E. Il cavallo preferito. Bellissimo dipinto ad olio su tela che ha nei minuti dettagli delle forme anatomiche una perfetta esecuzione che ci dimostra come l'artista si fosse specializzato nella pittura di animali. Cornice a pastiglia dorata. M. 0,45 x 0,52.
+- LOHR AUGUSTUS. Paesaggi del Messico. Due graziosi acquarelli in passe par tout. Cornici dorate e cristalli. Fir-
+- 69 mati. M. o,28 x 0,44.
+- SCUOLA VENETA SEC.XVIlI. Ritratto di dama a ricco costume. Bel dipinto ad olio su tela con cornice intagliata
+- 70 e dorata. M. o,98 x 0,72.
+- FETI DOMENICO.(Att.a). S.Cecilia. Importante dipinto ad olio su tela, notevole per l'espressione e per il colorito. Cornice di legno intagliato e dorato a cassetta. Metri
+- 71 0,74x0,63. Vedi tav.XI.
+- 72 LAPORTE. GH. La voce del sangue. Cavallo che nel sentire il movimento della caccia alla volpe supera ogni ostacolo e si lancia anch'egli allo inseguimento. Pittura ad olio su tela firmata e datata 1928. Cornice nera e oro.Metri 0,55 x 0,68.
+- 73
+- GUERARD BERNARD AYDE. Ritratto di giovane diplo matico.Finissimo dipinto ad olio,firmato e datato 1829. Cornice dorata.M. o,29 x 0,24.
+- 74
+- SCUOLA FRANCESE SEC.XVIIl. Teste di giovanette e di bambini. Grazioso studio al pastello di delicata intonazione. Cornice di palissandro con guarnizioni di metallo.M.0,25x0,34
+- 75
+- SCUOLA VENETA SEC. XVIll. La Samaritana al pozzo. Fine pittura ad olio su tavola. Cornice dorata.Metri 0,48 x 0,36.
+- BIGARI VITT MAR. Architetture fantasiose con figurine. 76 Pittura alla tempera a sesto ovale con cornice dorata a piccoli ornati intagliati. M. 1,55 x 1,10.
+- BIGARI VITT. MAR. Architetture fantasiose presso un fiu77 me. l primo piano e formato da una costruzione semi diruta con figurine di pescatori. Il fondo presenta altre architetture leggermente sfumate. Pittura alla tem pera con cornice liscia alla Salvator Rosa. M. 2,10 x 2,43. Vedi tav. IIl.
+- 78 ID. ID. Detto d''accompagno a veduta di un tempio di arte classica in parte diruto. Nel primo piano due figure in atto di conversare, mentre una terza coricata fa atto di accennarle.
+
+Vedi tav.IV.
+
+Queste bellissime tempere delle quali abbiamo una numerosa serie, erano tenute dalla famiglia Cavalletti come del Bibbiena. A noi sembra che il nuovo parere sia un poco azzardato in quanto che il Bigari fu in massima pittore di soggetti religiosi. Se una nuova attribuzione dobbiamo darci e quella di orientarsi verso le opere di F. Paolo Pannini non escludendo che siano suoi d dipinti assolutamente originali.
+
+- SEBASTIANO RICCI. I Re Magi al Presepe.I Importante 79 bozzo ad olio per un pannello di soffitto. Ricca cornice a sesto finemente intagliata a foglie di acanto e dorata. Me tri o,58x 0,58. Vedi tav. VIll.
+- SPADA con elsa a croce in ferro finemente inciso e lama rom-
+- 80 boidale. Fodero di pelle. Epoca Impero.
+- SPADA svizzera con elsa semplice a rami cavalcati e piastra
+- 81 a vela forata. Pezzo ricomposto con vari elementi.
+- SCARPA DI ARMATURA e faldina incisa di differenti de
+- 82 corazioni.Sec.XVI.
+- 83
+- PICCOLA MAZZA in ferro da cavaliere a costole acute e manico esagorio. Finale a ghianda.
+- 84 SPADA a rami di forma spagnuola con elsa rovescia ed altra diretta verso il pomo.Fine del sec.XV.
+- 85
+- ELMO BORGOGNOTTA in fero inciso e bulinato. Alta cresta e bolloncini. Mancante delle giugolari. Sec. XVI.
+- 86
+- 87
+- 88
+- ALTRO DETTO simile, senza incisioni. Sec. XVI.
+- BASSO TAVOLO di legno laccato verde con bordure dorate. Stile Veneziano.
+- TAVOLO GIGOGNE in legno di tek intagliato a cinque divisioni.
+- SEGGIOLA SAVONAROLA di noce a leggero intaglio con
+- 89 piccolo dossello di cuoio.
+- SEGGIOLA SAVONAROLA di noce a stecche, con dossello
+- 90 intagliato.
+- DUE SGABELLINI di legno laccato rosso con ornati dorati.
+- 91 Giappone.
+- DUE SEGGIOLINE di legno intagliato e dorato con piani 92 e dosselli cannees e coperti di cuscini di stoffa operata. Stile Luigi XVI. Fodere.
+- 93
+- QUATTRO PICCOLE BASI in legno di tek tipo gigogne.
+- 94
+- SEGGIOLA DI NOCE con piano e dossello coperti di cuoio e ciuffetti dorati.
+- BASSA PANCHETTA di noce a leggero intaglio. Piano imbottito e coperto di stoffa a grandi fiori dorati su fondo
+- 95 bleu. Epoca Luigi XVI.
+- 96 GRANDE OROLOGIO a cassettone in noce tinto ad ebano. Quadrante di bronzo dorato a ricchi ornati. Sec. XVIl.
+- SERVIZIO DA TOLETTA di legno dipinto. Vecchia ma97
+- nifattura veneziana. Si compone di specchio a cavalletto,
+- 98
+- grande scatola, detta piccola quadrangolare, altro piccolo specchio rettangolare, due piccoli vassoi, due piccoli candelieri e spegnitoio con annesso piattino.
+- ELEGANTE PARAFUOCO a due scomparti di legno inta gliato ed in parte dorato. Epoca Luigi XIV.
+- ELEGANTE COMODINA di forma centinata in noce a due e e bocchette di bronzo. Stile
+- 99 cassetti con maniglie Luigi XV. Fodera.
+- 100 TAVOLO per altare Buddistico in legno ferro con ornati intagliati ed applicazioni in giada grigia. Arte Cinese.
+- GRAZIOSO TAVOLO di noce con gambe tornite e traversa. 101
+- Arte Toscana.
+- 102 ALTRO DETTO.
+- 103
+- POLTRONA da riposo intieramente imbottita. Coperta di pelle.
+- 104
+- ALTRA DETTA.
+- 105 DUE BELLE POLTRONE in legno ferro con dosselli a
+- giorno e medaglioni scolpiti ad uccelli e piante. Arte Ci nese. Annessi cuscini di seta rossa.
+- 106 DUE DETTE.
+- 107 ANTICA POLTRONA di noce a leggero intaglio; piano e
+- dossello di cuoio. Genova. Sec. XVIlI.
+- 108 SEGGIOLONE a bracciuoli in noce a ciabatte e piano e dos sello coperti di stoffa a piccolo punto.
+- BELLA COMMODE GENOVESE a corpo leggermente pan109 ciuto, intarsiata di palissandro e di legno rosa a disegno geometrico; piano in diaspro di Sicilia. Bocchette e zam pine di bronzo a delicati ornati. Sec. XVIl. (In parte re staurata).
+- I10 ALTRA DETTA.
+- III
+- SERVIZIO DA SALOTTO di legno intagliato ed in parte dorato stile Luigi XVI. Si compone di due poltrone, quattro seggioline con piani e dosselli cannee coperte di cu scini in broccatello celeste e tavolo da centro con piano di marmo paonazzetto.
+- ANTICO DIVANO di legno intagliato,laccato verde ed I12 in parte dorato. Piano e dossello cannees. Venezia. Secolo XVIII.
+- ELEGANTE VETRINA di legno intagliato e dorato con sportello e lati a cristalli e divisioni interne. Stile
+- 113 Luigi XVI.
+- 114 BELL'ARMADIO in legno ferro a due sportelli con piccolo
+- 115 BELLA COMMODE in marqueterie, di legni vari. Tre cas-
+- 116
+- intaglio.Nell'interno divisioni e cassetti. Cina. Sec.XIX.
+- setti. Epoca Luigi XVI.
+- ALTRA DETTA.
+- 117 TAPPETINO in lana e seta a disegno geometrico tipo Yordes.
+- M.1,60x1,15
+- 118 TAPPETO da pavimento tessuto in lana a disegno floreale. (Un poco frusto).M.4 x 3.
+- M.4.90x4，45.
+- 119 GRANDE TAPPETO da pavimento tessuto in lana con disegni geometrici di tipo orientale su fondo gialletto. Largo bordo su fondo amaranto. Manifattura tedesca.
+- 120
+- GRANDE OBI in broccato di seta a fiori ed uccelli a colori. (M.4)
+- 121 COPERTA per letto ad un posto e mezzo in broccatello a guide di foglie verdi su fondo gialletto,Fodera di satin giallo.
+- 122 COPERTA di broccatello rosa a cesti di fiori in bianco, con piccola frangia.
+- 123 ALTO MERLETTO punto di Milano a grandi foglie su fondo a reticella. Circa m. 4. Epoca Luigi XIV.
+- PAIO DI BEI VASI in cristallo tagliato alla ruota. Mani
+- 124 fattura di Nancy.
+- giovanetto bacchico; dall'altra il solito soggetto dei due gicvani ammantati; nel collo guida di lauro. Scavi di Pu-
+- 125 glia. IV sec.A.C.
+- 126
+- SCATOLA circolatore in tartaruga; sul coperchio miniatura rappresentante S. Pietro. Montatura di oro. basso.
+- 127 DUE DOPPIE AMPOLLE (suocera e nuora) in antico vetro di Murano.(Una difettosa).
+- 128 PIATTO DA TAVOLA con frutta in vetro di Murano.
+- 129 LOTTO di tre pressacarte; uno con lucerta in bronzo, lal
+- tra con beccaccia ed altra con serpe che ha preso un gufo.
+- LOTTO di acquaforte ed incisione rappresentanti piazza 130 Campitelli; a stampina colorata rappresentante figura di
+- giovanetta.
+- CORNICE DI PERO a sbalzo lustra ad ebano. M. o.50 131 per 0,37.
+- 132
+- TRE PRESSACARTE in marmo dei quali uno con mosaico di Firenze e campanello di argento con manico di avorio.
+## SECONDO GIORNO DI VENDITA
+
+VENERDI 15MAGGIO 1936-XIV
+
+## Alle ore 16,30
+
+Dal N.133al N.264
+
+- FIGURINA DI BAGNANTE IN PORCELLANA, figurina di cinese, altra detta in avorio e due gruppetti in terraglia giapponese,
+- 133
+- DUE ALBERELLI a roccheto di maiolica decorati ad iscrizioni e fiori in bleu e piccoli stemmi a colori. Coperchi
+- 134 moderni di legno dorato.
+- DUE BOTTIGLIE di maiolica decorate in bleu ed iscrizioni
+- 135 ed uccelli.
+- 136 COPPA in porcellana decorata a colori a corpo baccellato. Giappone.
+- 137 VASO ovoide in porcellana decorato a zone a guide di rose in bleu e colori. Antica Persia,
+- 138 DUE PAPPAGALLI SOPRA ROCCIE. Due gruppetti in porcellana a colori. Vecchia manifattura di Sassonia, (Piccolo difetto).
+- IL CONCERTO. Quattro figurine in porcellana a colori di 139
+- 140
+- graziosa modellazione. Antica Sassonia.
+- DUE FIGURINE in porcellana a colori, rappresentanti putti alati con cuffiette. Antica manifattura di Franckenthal.
+- 141
+- GRANDE GRUPPO IN PORCELLANA a colori rappresentante il concerto, formato da quattro figurine in gracailles in legno dorato originale. Sassonia Marcolini.
+- AMORINO VENDITORE DI CUORI. Graziosa figurina
+- 142 in porcellana di Sassonia Marcolini.
+- 143
+- AMORINO IN COSTUME MILITARE.Figurina d'accompagno.
+- AMORINO ARLECCHINETTO. Figurina d'accompagno. 144
+- 145 AMORINO COMBATTENTE.Figurina simile.
+- 146 S.LUIGI RE DI FRANCIA. Grande e bella figura in por-
+- cellana di Sassonia.
+- DUE POTICHES in porcellana di forma ottagona decorate a fiori e paesaggi. Antico Giappone. (Restaurate). Basi di
+- 147 legno intagliato a roccia e dorate.
+- 148
+- VAso in porcellana decorato in bleu, rosso ed oro a guide di fiori. Vecchio Giappone,
+- IMPORTANTE PIATTO in porcellana decorata a minuti 149
+- ornato e gruppi di fiori. Antica Cina.Famiglia Verde.
+- 150 SERVIZIO DA CAFFE in porcellana decorata in bleu,rosso ed oro a fiori. Si compone di una teiera, una caffettiera, venti tazze con diciassette piatti. Vecchio Giappone.
+- 151
+- LE QUATTRO STAGIONI rappresentate da quattro figurine in porcellana decorate a colori con basette di legno dorato originali. Antica Sassonia.
+- 152
+- MENE P. J. Cane da punta. Grazioso bronzo sopra una base di rosso di Francia.
+- GRAZIOSO POSACENERE in rosso di Francia decorato
+- 153 TESTA di Buddha in bronzo. Arte Giavanese. Basetta di le-
+- 152-A da gruppetto in bronzo rapp. Leda col cigno.
+- gno nero.
+- 154 GRANDE PIATTO in ottone ed argento sbalsato ad ornati
+- figure ed animali. Arte del Tibet. Base in legno di tela
+- BENLLIURE P. Che Paura! Grazioso gruppo in bronzo. Fir 155
+- mato.
+- DUE APPLIQUES da parete e girandoles in bronzo a tre 156 braci ridotti a luce elettrica. Stile Luigi XV.
+- 157
+- 158
+- DUE DETTE a due bracci
+- LEONE che atterra un pitone. Gruppo di bronzo patinato.
+- FIGURA D'UOMO dipinto ad olio su tavoletta con cornicina 159
+- 160
+- fiorentina di legno intagliato e dorato.
+- ANTICA CORNICINA ovale di legno intagliato e dorato contenente una pittura rappresentante S. Antonio ed il Santo Bambino.
+- 161
+- CORNICINA simile contenente una litografia di un ritratto di Rembrandt.
+- 162 MINIATURA rappresentante il busto della Vergine con cornicina lustra ad ebano.
+- 163 DUE CORNICINE dorate in metallo e legno contenenti ve dute della Svizzera in cromolitografia.
+- PICCOLO PORTAFIORI in argento sbalzato a forma di vaso
+- 164 sopra a colonna. Epoca Luigi XVI. Peso gr.125.
+- 165 LEGUMIERA a coperchio in metallo placcato di argento di manifattura Christofe.
+- 166 PICCOLO VASSOIO di argento sbalzato.Arte indiana.Pe sogr.125.
+- 167
+- PICCOLA ACQUASANTIERA di argento sbalzato.
+- 168 SECCHIELLO di rame argentato e portacerini in argento.
+- 169 PORTADOLCI in argento di elegante forma. Bordo a deli
+- cati ornati traforati. Manifattura inglese.Peso gr. 245.
+- 170
+- BELLA ZUCCHERIERA in argento a forma ovale a piccole anse di elegante forma. Sul coperchio cagnolino. Peso gr.465.
+- ANTICA GRAZIOSA ZUCCHERIERA di argentoa forma
+- 171 ovale. Sul coperchio fiore dorato. Peso gr.270.
+- GRAZIOSO PORTADOLCI in argento a forma baccellata
+- 172 con bordo centinato. Manifattura inglese. Stile Luigi XIV. Peso gr. 585.
+- IMPORTANTE CATINELLA in argento a forma baccel173 lata, sul bordo ornati a rilievo. Manifattura inglese. Stile
+- Luigi XIV. Peso gr. 533.
+- GRAZIOSO CESTELLO portafrutta in argento con piede a 174 tripode e largo bordo ad ornati traforati Manifattura in-
+- 175
+- glese. Peso gr. 410.
+- ALTRO DETTO.Peso gr.46o.
+- SERVIZIO DA TAVOLA in argento composto di ventitre cucchiai da zuppa,ventiquattro forchette,e ventiquattro
+- 941 coltelli e mestolo. Peso gr. 498o circa.
+- 177
+- SERVIZIETTO da dessert simile composto di dodici cucchiai, dodici forchette ed undici coltelli. Peso gr. 1400 circa.
+- 178 BELLISSIMA ZUPPIERINA a coperchio e piatto in vermeille. Il piatto centinato con piccoli stemmi di Casa Sa voia incisi, e la zuppierina a due anse con coperchio baccellato e sopra questo una piccola gallina presso un ramo d'alloro. Stile Luigi XIV.Peso gr. 1520.
+- 179 SERVIZIO DA TAVOLA in argenteria Mappin Webb. Si compone di: sei cucchiai,dodici forchette dieci cucchiai piu piccoli e sei forchette piu piccole, dodici coltelli con manici di avorio di due disegni
+- 180
+- MASON. Sir Berys. Incisione a colori pubblicata a Londra. Cornice e cristallo m. o,59 x o,75.
+- 181 BIRD. Merry Hampton. Incisione a colori pubblicata a Londra nel 1887. Cornice di legno naturale cristallo. Metri 0,59x0.75.
+- 182
+- STODART E. Sainfoin. Incisione a colori dall'originale di S. R.Womvondill. Cornice di legno naturale cristallo. Me tri o,59x 0.75.
+- 183 HARRIS J. Daniel O' Rourke. Incisione a colori dallorigi-
+- nale di Harry Hall. Cornice e cristallo. M. o,56 x 0,73.
+- 184 HARRIS J. Newmister. Incisione a colori dallo originale di Harry Hall. Cornice tinta a palissandro e cristallo. Metri
+- 185
+- 0,56 x 0,80.
+- HUNT CH. Rebecca e Muley Moloc. Incisione a colori dal l'originale di Harring con cornice d'accompagno alla pre cedente. M. o,56 x 0,80.
+- 186 HUNT C. Foig-A-Pallagh. Incisione a colori pubblicata a Londra. Cornice tinta a palissandro e cristallo. Metri 0,53x0,72.
+- 187 HARRIS J. Blair Atol. Incisione a colori dall'originale di Harry Hall pubblicata a Londra nel 1864. Cornice a palissandro e cristallo. M. o,53 x 0,72.
+- 188 HARRIS J. Etoile du Nord. Incisione a colori dall'originale di Harry Hall. Edizione Goupil di Parigi. M. o,64 x o,82.
+- 189 HARRIS J. Ventre-saint-Gris. Incisione a colori pubblicata a Parigi da Goupil. Cornice di mogano e metallo stile Impero. M. 0,54 x 0,75.
+- GRENICI F. Alba e tramonto. Disegno alla matita con leg 190 gero tocco di colore. Cornice a sbalzo. M. o,3o x o,21.
+- 191 CAPRILE B. In conversazione. Pittura ad olio su tela. Cor nice dorata. M. o,38 x 0,29.
+- 192 COLEMAN H.Maccarese. Foglio di album all'acquarello con
+- cornice e cristallo. M. o,10 x 0,17.
+- 193 MACCHIATI SERAFINO. Ore quiete in campagna. Schiz zo all'inchiostro con lieve tocco di colore e biacca. Cornice
+- e cristallo. M. o,30 x 0,24.
+- SALINAS PABLO. Chioccia con pulcini. Finissimo dipinto 194 su tavoletta di questo grande artista defunto. Cornice dorata e cristallo. M. o,15 x 0,23.
+- 195 RITRATTO di Van Dyck. Copia allacquarello con cornice di legno intagliata e dorata.
+- PAVAN A. Venezia. Rio di S. Giuseppe. Bellissima tem196 pera di finissima esecuzione; si puo dire una delle migliori opere di questo valente artista. Cornice nera e cristallo. M. 0,74x 0,90.
+- LARGILLIERE (Scuola di). Ritratto di personaggio  grande 197 parrucca in armatura da parata. Bel dipinto ad olio con ricca cornice di legno intagliato e dorato. M. o,97 x 0,72.
+- 198
+- BERNARDINO DA MAGONZA. La Vergine Assunta in Cielo. Mentre gli Apostoli guardano esterefatti nel sepolcro della Vergine che racchiude invece del suo corpo oleanti fiori, la Vergine sale in Cielo in un nembo di Serafini e di Cherubini ed altri Angeli che suonano istrumenti; su in alto e raffigurata l'apoteosi del personaggio fra I'Eterno Padre e Gesu. Pittura su tavola di bella composizione con qualche ornato dorato. Cornice di legno a cassetta dorata moderna. M. o,88 x o,62.
+- SCUOLA VENETA. Sec. XVIIl. La Vergine Assunta in 199 cielo. Importante dipinto ad olio su tela per un soffitto di chiesa. Cornice di legno intagliato e dorato. M. 1,43x1,60.
+- 200
+- LONGHI PIETRO (attr. a). Ritratto di patrizio e di gentil donna. Due pitture su tela con cornici di legno intagliate e dorate.
+- BIGARI VITT.MAR. Veduita fantasiosa architettonica. Di 201
+- pinto alla tempera con cornice dorata. M. 1,1o x 1,82.
+- ID. ID. Altra d'accompagno alla precedente. 202
+- 203 BIGARI VITT. MAR. L'interno di un grande palazzo con originali architetture, fontane e vasi di fiori. Pittura alla
+- tempera a sesto ovale. M. 1,5o x 1,10.
+- 204
+- 205
+- ID. ID. Altra d'accompagno alla precedente. V.Tau.V.
+- maniera di Zuccarelli. Cornici dorate e cristalli. Metri 0,24x0,30.
+- SCUOLA FRANCESE. Sec. XVIIl. Ritratto di gentiluomo in costume Luigi XV. Bella pittura ad olio su tela. Cor-
+- 206 nice bianca ed oro. M. 0,41 x 0,30.
+- VAN DER NEER AART.Una Nevicata. Bellissimo dipinto ad olio su tela con cornice di noce tinta ad ebano. Metri
+- 207 0,72 x o,95. Vedi Tavola X.
+- 208 AMOROSI (ANT.). Ritratto di giovanetto. Importante pittura ad olio su tela con cornice di legno intagliata e dorata. M. 0,54 x 0,65.
+
+Amorosi Antonio venuto a Roma per votarsi alla carriera ecclesiastica, incoraggiato dal pittore Giuseppe Ghezzi si dedico all'arte. Pittore pieno di brio specialmente nel le bambocciate e nei ritratti, saldo costruttore nel disegno e solido nel colore. l nostro esemplare puo dare una completa idea sul valore di questo artista. Vedi Tavola Vll.
+
+- PICCOLA ALABARDINA sergentina con punta e lancia e
+- 209 alette dritte e rovescie. Sec. XVII.
+- 210
+- LOTTO DI RIVOLTELLA a tamburo e tre pistole delle quali due ad acciarino a due canne ed una a pietra focaia.
+- BACINETTA LISCIA in ferro con piccoli bolloni. Sec. XVI. 211
+- 212
+- 213
+- ALTRA DETTA.
+- DUE PARTIGIANE a lancia del sec. XVIl.
+- 214 DUE CORSESCHE a lancia con lama centrale ed ali. Se
+- colo XVII.
+- 215 DUE BACINETTI lisci del sec.XVII.
+- 216 DUE DETTI.
+- 217 SEDIONE ABRUZZESE di legno laccato nero ed in parte
+- dorato. Piano impagliato.
+- QUATTRO seggiole di noce con dosselli a giorno e piani
+- 218 coperti di broccatello a fiori.
+- 219 BASE di legno di tek manifattura cinese.
+- 220
+- ANTICA CUNA di noce intarsiata ad ornati a traforo, ridotta a floriera.
+- BASSA PANCHETTA di noce a gambe tornite e traverse: 221
+- piano coperto di stoffa rossa a fiori dorati.
+- 222
+- PENDOLA a cassettone di noce, con quadrante con ornati dipinti.
+- SPECCHIO DA CAMINETTO di legno intagliato e dorato. 223
+- Arte veneziana Luigi XV.
+- PICCOLO PARAFAVILLE di legno laccato verde con pan224 nelli di setina a righe.
+- DUE ANTICHE PLACCHE di legno intagliato e dorato con due piccoli bracci in ferro battuto. Luci di specchio
+- 225 incise a figure. Arte veneziana Luigi XV.
+- 226 DUE DETTE.
+- 227 SPECCHIO con ricca cornice fiorentina di legno intagliato a
+- grandi foglie di acanto e dorata.
+- 228 BASSA ELEGANTE commode di noce intarsiata di legni vari; due tiretti ed un cassetto. Scorniciature di legno ad ebano e gambe a zampe di capra. Epoca Luigi XV.
+- 288-A
+- BELLISSIMO MOBILE BAR in mogano a pressione, che fa salire sul piano un ricco servizio in cristallo di Baccarat.
+- BASSO TAVOLO da the in legno ferro con gambe e bordo
+- 229 a leggero intarsio. Arte Cinese.
+- 230 ALTRO DETTO piu grande di forma differente (restaurato).
+- 231 Stile Luigi XV.
+- 232 DUE BEI SEGGIOLONI di noce tornito con bracciuoli cur-
+- vi, fiamme dorate e piani e dosselli di cuoio impresso con bolloni.
+- 233
+- DUE DETTI
+- 234 DUE DETTI.
+- 235
+- BELLA POLTRONA in legno ferro con dossello a giorno e medaglione scolpito a vasi. Arte Cinese. Annesso cuscino di seta rossa.
+- 236 ALTRA DETTA.
+- IMPORTANTE OROLOGIO A TORRE con cassa di mo237
+- gano; grande suoneria.
+- 238 GRANDE TAVOLO per altare Buddistico,in legno di tek con bordure ad ornati a rilievo. Arte Cinese. M. 2xo,6o.
+- 239 GRANDE TAVOLO fratino con gambe a balaustra e tra-
+- versa.
+- CANTERANO in radica di noce a quattro cassetti con or240 nati a rilievo e maniglie di bronzo. Sec. XVIll.
+- 241
+- SCRIVANIA intarsiata di legni vari; a cinque cassetti. Napoli. (In parte restaurata).
+- GRANDE DIVANO intieramente imbottito e ricoperto di
+- 242 velluto in lana rossa.
+- DUE BASSE POLTRONCINE d'accompagno. 243
+- BELLA CONSOLE con annesso specchio di legno riccamente intagliato a roccailles e gruppi di fiori. ll piano di forma
+- 244 centinata di diaspro di Sicilia. Stile Luigi XIV.
+- 245 ELEGANTE PICCOLO trumeau in palissandro a due corpi. Nel basso tre cassetti, piano calatore e tiretti interni. Supe riormente due sportelli e divisioni. Epoca Luigi XV.
+- 246 GRAZIOSO TAPPETINO cinese ad ornati su fondo rosa.
+- Tien Tsin. M. 1,85 x 0,95.
+- 247 TAPPETO da pavimento in lana tessuto a macchina a dise gno persiano. M. 2,95x1,90.
+- 248 ANTICO TAPPETO persiano Soumak a minuto disegno su fondo rosso; il rovescio quasi senza barbe. M. 195x1,70.
+- 249 IMPORTANTE PANNELLO Cinese in seta ricamato a colori a gruppi di figure su fondo di paesaggio, da ambo le parti. Cornice dorata e cristallo. M. o,82 x o,52.
+- 250
+- DUE SOTTANE da ballerine una in seta celeste ricamata a grandi rose, l'altra in seta gialla ricamata in bleu a fiori. Cina.
+- LOTTO di una portiera a due partite di velluto controtagliato verde a piccolo disegno; telo di cretonne a fiori, centro da tavolo di velluto controtaglitao e copertina di seta
+- 251 grigia.
+- COPERTA imbottita di satin rosa e giallo a disegni geome252
+- trici e bordo con piccola frangia.
+- MERLETTO punto di Milano a piccolo disegno in due pezzi 253
+- che misurano complessivamente m.5.
+- 254 GRANDE VASO in cristallo smaltato ad imitazione del1'ambra. Manifattura francese.
+- BEL PORTAFIORI in cristallo di Baccarat tagliato alla ruota 255 con montatura in argento.
+- ORIGINALE SCATOLA napoleonica in ebanite con sog 256 getto militare ed altra circolare in radica con f figura di Napoleone.
+- DUE ANTICHI PIANI DI CONSOLES a forma centinata 257
+- in giallo antico con cordone di verde.
+- 258 PICCOLO PIANO d'angoliera in marmo verde antico,con cordone di bronzo.
+- BOTTIGLIA in vetro di Venezia con ornati a fiori e smal 259 tati,
+- 260 LAMPADA da scrittoio in ottone con abat-jour di seta verde.
+- 261 SERVIZIO DA LIQUORI composto di due carafe e dodici bicchierini di cristallo con montatura di metallo argentato.
+- DUE SQUADRONI da cavalleria con guardie di bronzo in
+- 262 parte dorato.
+- 263 BAROMETRO e calendario meccanico.
+- 264 LOTTO di otto tagliacarte di varie forme in tartaruga, avorio
+- e legno.
+## TERZO GIORNO DI VENDITA
+
+## SABATO 16 MAGGIO 1936-XIV
+
+Alle ore 16,30
+
+## Dal N. 265 al N. 386
+
+- FRUTTIERA in maiolica bianca di Napoli con bordo a tra-
+- 265 foro. Epoca Ferdinando IV.
+- 266
+- DIECI TAZZE con sei piatti in porcellana decorati a gruppi di fiori in camaieu rosa. Cina. Compagnia delle Indie.
+- 267
+- 268
+- PORTAVASO in vecchia porcellana decorato a guide di peonie in bleu. Cina.
+- ALTRO DETTO a forma differente.
+- 269 ALTRO DETTO piu piccolo leggermente difettoso.
+- 270
+- NOVE PIATTI in porcellana decorati a gruppi di peonie a differenti decorazioni. Cina famiglia rosa.
+- VASO IN PORCELLANA a forma quadrangolare decorato nei quattro lati da soggetti famigliari e gruppi di fiori.
+- 271 Vecchia Cina.
+- 272 DUE BROCCHETTE di maiolica decorate in bleu ad iscri zioni gotiche e mascheroni. Faenza. Coperchi dorati.
+- PIATTO CUPO in maiolica decorato a gruppi di fiori in
+- 273 bleu. Delft.
+- GRANDE BROCCA in maiolica decorata in bleu a gruppi di 274
+- fiori, iscrizione gotica e putto. Faenza. Sec. XVII.
+- DUE BROCCHETTE di maiolica decorata in bleu ad iscri 275
+- Zione e gruppi di foglie. Coperchi moderni dorati.
+- 276 BELLA BROCCA in maiolica e coperta berrettina decorata a gruppi di fiori, iscrizione gotica e nel basso la figura di Santa Caterina. Coperchio e base di legno dorati moderni.
+- 277
+- DODICI GRAZIOSI PIATTI da dessert in fine porcellana decorata a gruppi di rose ed ornati bleu con doratura. Manifattura Inglese. Astuccio.
+- 278 BELLA BOTTIGLIA in porcellana a coperta tourquoise fi-
+- nemente craquelee.
+- VASO in porcellana decorata a gruppi di fiori ed uccelli. Giappone.
+- 279
+- 280 DUE VASI a bottiglia in fine porcellana craquelee decorati a colori ed oro a guide di crisantemi. Uno con collo re staurato.
+- 281 CACHEPOT in porcellana decorato a rami di pino e gruppi
+- 282
+- di fiori in bleu. Cina.
+- SERVIZIO DA TAVOLA in porcellana composto di sette piatti tcndi da portata,e trentadue fondine decorate a gruppi di fiori in bleu rosso ed oro. Vecchio Giappone.
+- 283 BUDDHA seduto che ha nelle mani emblemi sacerdotali in rame sbalzato con tracce di dorature e di colore. Antica Arte Birmana.
+- 284
+- BUDDHA seduto in atto di meditare. Figura d'accompagno alla precedente.
+- 285
+- RENDA G. Volutta. Bustino in bronzo con qualche difetto.
+- VASO DI BRONZO da un originale antico a soggetti marini.
+- 286 Due anse a cavalli alati.
+- 287 LA GIUSTIZIA. Figura in metallone patinato a bronzo.
+- 288
+- DUE GIRANDOLES da parete di bronzo dorato a due bracci per candele. Stile Luigi XVI.
+- RITRATTO DI GIOVANE DONNA. Miniatura su avorio
+- 290 LA LEZIONE DI MUSICA. Miniatura su avorio a forma ovale firmata Sax. Cornicina di bronzo cesellato e dorato.
+- 289 con cornicina di bronzo dorato e stoffa.
+- 291
+- TRE MINIATURE indiane rappresentanti soggetti storici. Cornicine tipo sbalzo.
+- 292
+- 293
+- 294 CINQUE DETTE, delle quali tre con lieve colore e due a colori un poco sciupati.
+- 295
+- 296
+- 297
+- SEI DETTE dei medesimi soggetti a fondo rosso.
+- DUE PIATTI DA PORTATA di forma ovale in argenteria di Garampelli.
+- TRE DETTI di due grandezze in argenteria inglese.
+- DUE DETTI ovali di due grandezze.
+- 298
+- UN DETTO piu grande.
+- 28g-bis
+- PICCOLO PORTADOLCI a forma ovale in argento con bordo a festoncini a rilievo e quattro piedi a mensola.
+- UNO DETTO piu grande fondo.
+- 299 Manifattura inglese. Peso gr. 300.
+- 300
+- 301 BELLA E GRANDE COPPA in argento con piccoli scudi e guide di alloro a rilievo. Interno di cristallo tagliato alla ruota. Manifattura Tornotti di Torino. Stile Luigi XVI. Peso gr. 1210.
+- 302
+- 303
+- 304 ALTRO DETTO. Peso gr. 805.
+- SCATOLA portadolci di argento sbalzato a piccoli baccelli e gruppi di fiori. Peso gr.410.
+- VAssolO a forima ovale con fiori di loto e foglie a rilievo in argento. Peso gr. 750.
+- PIATTO da portata in argento a forma circolare con largo bordo guillauche. Peso gr. 785.
+- CINQUE DETTE a soggetti religiosi e costumi.
+- ELEGANTE ZUPPIERINA con relativo piatto in argento 305 con bordo a fasci legati da nastri. Manifattura inglese. Peso gr. 520.
+- SEI CUCCHIAI, sei forchette e sei coltelli in argento del 306
+- peso di gr. goo. Astuccio.
+- ELEGANTE PORTAVASO in argento sbalzato decorato a rilievo da una guida di edera. Copia dall'antico. Peso gr. 68o. Fodera interna di metallo.
+- 307
+- 308
+- SERVIZIO DA CAFFE' in argento composto di vassoio a forma ovale, caffettiera e zuccheriera a decorazione foreale. Quattro tazze in fine porcellana di Coal Port decorata a piccoli fiori in azzurro con bordo dorato. Peso dellargento gr.2917.
+- BERNINI F. P. S. Pietro e S. Paolo. Due bellissime sculture 309 in terracotta. Probabilmente i bozzetti delle due statue
+- esistenti nella Chiesa in S. Giovanni in Laterano.
+- BOMLES. Vedute della Chiesa di S. Martino con 1'Arco di 310 Settimio Severo, Fontana di Trevi, Quirinale e veduta panoramica di Roma. Quattro incisioni a colori dagli ori-
+- ginali di vari autori.
+- HARRIS J. Beadsman. Incisione a colori dalloriginale di 311
+- Harry Hall. Cornice e cristallo. M. o,59 x o,75.
+- HUNT et SON. The marquis. Incisione a colori pubblicata 312 a Londra nel 1862. Cornice di legno naturale e cristallo. M.0,59 x0,75.
+- EDWIN HUNT. St. Blaise. Incisione a colori pubblicata a 313 Londra nel 1883. Cornice di legno naturale e cristallo. M.0，59x0,75.
+- HARRIS J. Stockwell. Incisione a colori dalloriginale di 314 Harris. Cornice di legno naturale e cristallo. M. o,59xo,75.
+- HARRIS J. Tuchstone-Emma-Languish-Pantaloon. Due gran315 cata a Londra nel 1845, facente parte della raccolta The
+- di incisioni a colori d dagli originali di Herring.PubbliBritish Stud ), Cornici differenti. M. o,58 x o,8o.
+- HUNT E. H. Jeaddah.Incisione a colori pubblicata a Lon316 dra nel 1898. Cornice di legno naturale e cristallo. Metri 0,59x0,75.
+- HARRIS ESSUMMERS. Blink Bonny. Incisione a colori 317 dallo originale di Harry Hall, pubblicata a Londra nel 1857. Cornice di legno naturale e cristallo. M. o,59xo,75.
+- 318 STANNARD EDIXON. Andover e Mincemeat.Incisione a colori dalloriginale di Prads, pubblicata a Londra nel
+1854. Cornice di legno naturale e cristallo. M. o,59xo,75.
+- HARRIS J. Voltigeur. Incisione a colori dallo originale di 319 Harry Hall. Pubblicata a Londra nel 185o. Cornice e cristallo. M. 0,59 x x0.75.
+- 320 MORGHEN RAFFAELLO. Il Cavalier Bianco di Moncada Antica incisione mancante dei margini e con cornice ne-
+- ra.M.o,65x0,46.
+- MACCHIATI SERAFINO. Ricordi del Veglione. Geniale schizzo all'inchiostro con lieve tocco di biacca. Cornice
+- 321 e cristallo.M.o,29 x 0,14
+- 322 SURDI LUIGI. Caricature. Due piccole pitture ad olio su te la.Cornici dorate.M.o,28x o,27.
+- 323 LONGO MANCINI FRANCESCO. La Dama dei Fiori
+- Importante dipinto su tela con cornice intagliata e dorata. M.0,28x0,29.
+- 323-A ID. ID. Testa di giovanetta. Grazioso studio al pastello
+- firmato. Cornice e cristallo.
+- 324 BAZZARO LEONARDO.Le profughe. Importante dipinto ad olio su tela con cornice dorata. M. o,76 x o,97.
+- SCUOLA NAPOLETANA. Sec. XVII. La Vergine che al 325 latta il Bambino e due Angioli. Pittura ad olio con cor nice ovale di legno intagliato e dorato. M. o,56 x o.75.
+- SCUOLA BOLOGNESE. Sec. XVII. La Vergine e lAngelo 326 Nunziante. Due importanti pastelli riuniti in una sola cornice alla Salvator Roma finemente intagliata e dorata.
+- M.0,44 x 0,70.
+- SCUOLA FRANCESE. Sec. XIX. Riflessi! Importante pittura ad olio su tela che rende a meraviglia l'effetto di luce. Cornice dorata. M. o,96 x o,72. Vedi Tavola XIlI.
+- 327 una mano alla candela che ha nell'altra.
+- COURTIN JEAN FRANCOIS. Una Tazza di caffe.Finis-
+- 328 simo dipinto ad olio su tela con ricca cornice di legno e pastiglia dorata. M. o,37 x 0,42.
+- SEBASTIANO RICCI. I Re Magi al Presepe. Grazioso di 329 pinto ad olio su tela con cornice a cassetta dorata. Metri 0,34x0,62.
+- SCUOLA FIAMMINGA. Sec. XVIII. Ritratto di gentildonna in ricca acconciatura e grande collare di merletto. Dipinto ad olio su tela di finissima esecuzione. In alto a sinistra lo stemma di famiglia e l'iscrizione (AN. DNI AETAT. SUAE. 5o ）. Cornice alla Salvator Rosa do-
+- 330 rata.M.0,95 x 0,83.
+- SCUOLA GENOVESE. Sec.XVIl. Ritratto di gentiluomo. 331 Pittura ad olio su tela. Cornice dorata. M. o,74 x o,60.
+- BIGARI VITT. MARIA.Veduta di un antico monumento 332 romano presso il mare. Pittura alla tempera con cornice dorata.M.1,10 x 1,82.
+- 333
+- ID. ID. Altra d’accompagno alla precedente.
+- 334 BIGARI VITT.MAR. Vedute di rovine romane con f figu-
+- rine. Importante dipinto alla tempera con cornice dorata M.2,08x 1,60.
+- LAWRENCE (Sir Thomas). Il Laghetto di Villa Borghese. 335 Finissimo dipinto ad olio su tavola. Questo delizioso di pinto la di cui provenienza non lascia alcun dubbio sul l'attribuzione r rifulge soprattutto per la delicata armonia di colori e per la ricerca minuziosa dei dettagli. La scena si svolge presso il laghetto nel centro del quale trionfa la piccola costruzione che tutti conoscono. Nei primi piani gruppi di cavalieri e dame in varii atteggiamenti, mentre altri se ne vedono fin nella lontana linea di confine, Cor-
+nice di legno intagliata e dorata. M.o,52 x o,68. Vedi Tau.IX.
+
+La storia di questo quadro ci dice che il Lawrence trovandosi ospite in Roma di un grande personaggio, il Cardinale Fesch,nel congedarsi, volle lasciare il presente di pinto come ricordo.
+
+- REYNOLDS Y. (attr. a). Giovane dama con i suoi bambini. Dipinto ad olio su tela con cornice di legno intagliata e
+- 336 dorata. Metri o,88 x 0,74.
+- DUE PISTOLE ad acciarino con canna esagonale. Secolo 337
+- XVIII.
+- TRE ALABARDE SVIZZERE a becco e lungo spuntone. Se-
+- 338 colo XVII.
+- 339
+- TRE DETTE.
+- CASCHETTO MEDIOEVALE alquanto deteriorato e manomesso nella parte anteriore e rotelle alle tempie. Se-
+- 340 colo xV.
+- 341
+- TRE MORIONI a punte aguzze del sec. XVII.
+- 342 GIACO DI MAGLIA a grano d'orzo con colletto rinforzato.
+- 343
+- Sec. XV.
+- MEZZA ARMATURA in ferro inciso con borgognotta propria; ornati incisi allacquaforte nel petto e nei spallacci. Fine del sec.XVI.Vedi Tau.XVI.
+- 344 POLTRONA DI NOCE laccata bianca con piano e dossello
+- cannee. Epoca Luigi XVI.
+- BASSO TAVOLO DA THE a forma centinata in mogano. 345
+- Stile Luigi XV.
+- SEI SEGGIOLE di noce con traversa intagliata e ciuffetti 346 dorati. Piani e doselli coperti di lampasso a grande dise gno su fondo rosso. (Qualche ciuffetto difettoso).
+- 347 DUE COLONNINE scanalate di legno laccato ed in parte
+- dorato. Basi a zampe di leone.
+- ANTICA PANCHETTA di noce a leggero intaglio. Piano 348
+- coperto di antica stoffa sciupata. Epoca Luigi XV.
+- PICCOLA PENDOLA ad occhio di bue in boule con guarni 349
+- zioni di bronzo. Manifattura francese.
+- GRAZIOSO SERVIZIO DA TOLETTA in legno laccato a gruppi di fiori. Si compone di: Specchio, due piccoli vas soi, due scatole con coperchi,due piccoli candelieri ap puntaspille e due piccoli recipienti con sottoposti piattini.
+- 350 Venezia. Sec. XVIIl.
+- DUE GRANDI SCATOLE portagioie,due dette piu pic351 cole, piccolo vassoio e spazzola raccoglibriciole. Il tutto d'accompagno al precedente servizio.
+- URNETTA di elegante linea in legno intagliato a roccailles 352 e guide di fiori e dorato, contenente un Santo Bambino di cera entro una corona di fiori. Epoca Luigi XV.
+- SPECCHIO con cornice di pero a sbalzo lustra ad ebano. Me353
+- 354
+- tri o,8o x 0,60.
+- ELEGANTE PICCOLA scrivania in noce e radica di noce con alzata a 5 tiretti Un cassetto. Manifattura francese. Stile Luigi XV.
+- 355
+- 356
+- ALTRA DETTA.
+- TAVOLO DA THE a forma di piccola commode in mogano con filettature e decorazioni di bronzi. Finti cassetti e lati calatori con specchi nei piani e nell'interno. Piano di mar mo incassato.
+- PICCOLO TAVOLO fratino di noce con gambe tornite e 357 traversa.Arte Toscana.
+- TAVOLO DA CENTRO in noce con intarsio e rosone e fi358 lettature in legno cedro. Stile Luigi XV.Un cassetto.
+- 359
+- ELEGANTE GINOCCHINO di noce in parte sagomato; piano e predella a cerniera; cuscino e piccolo fondo coperto di raso gialletto.
+- 360 SCRIGNO DI EBANO a forma architettonica con intarsi di
+- avorio.Sec.XVI.
+- 361 SEI GRAZIOSE SEGGIOLINE di noce a forma centinata con dosselli cannees e piani con cuscini. Epoca Luigi XV.
+- 3621 POLTRONA A POZZETTO di legno in parte dorato e coperta di damasco rosa e galloni.
+- 363
+- DIVANETTO di legno intagliato ed in parte dorato su fondo laccato bianco; piano coperto di damasco verdino.Annessi due cuscini. Epoca Luigi XV.
+- 364 GRANDE E BEL TAVOLO in legno ferro massiccio con bordura scolpita a traforo, e piedi a zampa di leone.
+- 365 TAVOLO SCRITTOIO di noce con piano a cerniera e nelI'interno vari tiretti. Gambe a lira. Sec. XVIIl.
+- ANTICA COMMODE di noce intagliata detta a bambocci;
+- 366 pilastri a cariatidi, bocchette di bronzo. Sec. XVI.
+- CHAISE LONGUE coperta di raso gialletto con bordure stile
+- Luigi XV.
+- 368 ed armoniosa linea architettonica.Si compone di:grande buffet a due corpi; quello inferiore a due sportelli e tre cassetti, quello superiore a luce di specchio centrale e cre denzine ai lati con piccoli vetri bombati; due vetrine di leggera forma bombata a due sportelli con cristalli; due servantes a tre cassetti e divisioni con piano di marmo co molati e piccolo piano di marmo uguale al precedente; ta volo ad ingrandimento con movimento a manovella e tre
+- pezzi da aggiungersi; otto sedie con piani e spalliere coperte di marocchino rosso. Manifattura inglese. Ogni mobile con fodere in teletta.
+- 369 GRANDE LAMBRIS in mogano in varii pannelli e corpo centrale con alzata a luce di specchio molata ed annesso divano intieramente coperto di marocchino rosso ed un copri radiatore con sportelli a grate di ottone, d'accom-
+- 370
+- pagno alla medesima stanza.
+- ANTICO TAPPETO PERSIANO Sinne a minuto disegno su fondo rosso; vari piccoli bordi. (Sciupato). M. 1,5oxI,30.
+- 371 ANTICO TAPPETO persiano Soumak a scomparti e disegni geometrici bleu e gialli su fondo rosso.ll rovescio quasi mancante di barbe. M. 2,9o x 2,10.
+- GRANDE TAPPETO da pavimento tessuto in lana a dise 372 gno persiano su fondo rosso con largo bordo su fondo
+- bleu. Manifattura tedesca. M. 7,6o x 4,10.
+- 373
+- DUE ANTICHI MEZARI indiani a finissimo disegno.
+- TAPPETO da tavolo in pelouche rosso con alta bordura tipo 374
+- 375
+- orientale e frangia.
+- BEL MEZARO di seta genovese a grandi fiori.
+- GRANDE PANNELLO di felpone veneziano a ricchi ornati 376
+- su fondo rosso. Epoca Luigi XIV.
+- RARA ANTICA SCATOLA di lacca, smaltata a gruppi di 377 ventagli dorati su fondo di color bronzo. Chiusura di argento con treccie di seta rossa. Custodia di legno verni-
+- ciato e copertura di seta. Giappone.
+- 378 PLACCA in rame smaltato e coralli con la figura della Vergine ad altorilievo. Arte siciliana del sec. XVI. (Qualche difetto).
+- TENDA a due partite di stoffa verde stampata. 379
+- 380 SEI COPPETTE in vetro di Murano. (Qualcuna difettosa.
+- LAMPADA in metallo argentato ridotta a luce elettrica. 381
+- 382 PORTA-COGNAC e bocchino di ambra con filtro ed astuccini di argento.
+- 383 BOTTIGLIA in vetro di Murano celeste e portafiori in vetro di Murano viola.
+- 384 LOTTO di un boccale e piccola carafa di cristallo tagliato alla ruota e bicchiere in vetro inciso.
+- 385 LOTTO di una scatola da tabacco in cuoio impresso e vaso di
+- cristallo e metallo argentato.
+- 386 SERVIZIO DA SCRITTOIO composto di calamaio,portace
+- ralacca, e spazzolino da scrittoio in argento.
+- 387
+
+## QUARTO GIORNO DI VENDITA
+
+## LUNEDI 18 MAGGI0 1936-XIV
+
+Alle ore 16,30
+
+## Dal N.387 al N.507
+
+- DUE PICCOLE COPPE in maiolica di Cantagalli decorate fiori.
+- 388 ALLEGORIA DELL'INVERNO. Figura in porcellana bianca di Napoli.
+- LEDA. Gruppetto in porcellana bianca di Napoli. Collezione
+- 389 Conte Bobrinsky.
+- 390 IL SACRIFICIO AD AMORE. Gruppetto in bisquit bianco antico Berlino.
+- 391 ALLEGORIA DELLA CACCIA e allegoria delle pesca. Due
+- gruppi in bisquit bianco di Sevres, firmati e datati 1904.
+- 392 GRUPPO ALLEGORICO simboleggiante la primavera. Modello in terracotta per un bisquit di Napoli.
+- 393 L'EDUCAZIONE DI BACCO. Gruppetto in bisquit bianco di Sevres. Qualche restauro.
+- SERVIZIO DA THE in porcellana composto di teiera, va394 setto da the, bol con coperchio e piatto portabiscotti e sette picole bols con piattini decorate a gruppi di peonie. Cina famiglia rosa.
+- 395
+- ORIGINALE POTICHE in porcellana millerighe a smalto colato. Celadon. Base e coperchio in legno di tek.
+- IMPORTANTE CACHEPOT in gres a coperta color tur396 chese con guide di fiori in nero. Cina. Provenienza Col-
+- lezione Bobrinsky.
+- ALTRO DETTO. 397
+- 398
+- GRANDE CACHEPOT in porcellana decorato in bleu a
+- rami di peonie e di pino. Cina.
+- IL DECLAMATORE. Figurina in porcellana. Antica Sas399
+- sonia.
+- GIOVANETTA in costume Luigi XV che canta. Graziosa
+- 400 figurina in porcellana di antica Sassonia.
+- 401 ALTRA DETTA.
+- DUE BELLISSIME FIGURE di magots in porcellana deco402
+- rata a colori. Sassonia Marcolini.
+- SERVIZIO DA TAVOLA in porcellana decorata a festoni di fiori sul bordo. Manifattura di Limoges. Si compone di tredici fondine, dieci piatti da dessert, dodici piatti da insalata a mezzaluna, e centotrentasei piatti da salvietta, piu quindici tazze da caffe con piatti. In tutto pezzi
+- 403 centottantasei.
+- SERVIZIO DA TAVOLA in porcellana decorata a piccoli 404 ornati di tipo giapponese. V Wedgvood. Si compone di: zuppiera con coperchio e piatto,legumiera, tre piatti ovali da portata, quattro piatti d'antipasto, insalatiera, due fruttiere, mostardiera con annesso piatto e cucchiaio, sei fondine, diciotto piatti da salvietta e sei da dessert. In tutto pezzi 42.
+- 405 ORIGINALE FIGURA seduta di Divinita,in rame sbal
+- sato. Antica arte Cinese.
+- ALTRA DETTA. 406
+
+407 ALTRA DETTA.
+- SERVIZIO DA CAMINETTO in bronzo composto di una 408 pendola e due candelabri a cinque bracci per candele. Stile Luigi XV.
+- LENORDEZ P. Royal quand meme. Importante bronzo ori409
+- ginale.
+- 410 BETTA CORRADO. Bustino di giovanetto. Graziosa scul. tura in bronzo. Firmato. Base di marmo.
+- 411
+- DUMMOND. Ritratto di giovanetta. Miniatura ovale su avorio con cornicina di bronzo dorato.
+- 412
+- SCUOLA VENEZIANA. Ritratto di uomo. Pittura su rame con cornicina di bronzo dorato.
+- 413 REY. ll trionfo di galatea. Grande miniatura ovale su avorio con cornice di bronzo dorato.
+- PALAGI MARCO. Ritratto di un emiro e della sua dama. Due finissime miniature su avorio firmate. Cornicine di
+- 414 mogano.
+- 415 TREDICI MINIATURE a colori a soggetti di vita orientale riuniti in uina cornice. Antica arte indiana.
+- 416 VASSOIO in argenteria inglese a forma ovale di manifattura Mappin Webb.
+- 417 PORTAPANE bruscato in metallo argentato.
+- 418 VASSOIO in argenteria di Broggi a due manici.
+- 419
+- 420 PORTAFIAMIMIFERI di argento dorato con piccola corona marchionale. Astuccio.
+- PORTASIGARETTE e portacognac di argento.
+- PIATTO di argento a bordo centinato. Gr. 275. 421
+- 422
+- 423
+- ALTRO DETTO.
+- SERVIZIO DA THE in argento di stile Luigi XIV com posto di teiera con annessa lampada a spirito, caffettiera, lattiera e zuccheriera. Peso gr. 28oo.
+- 424 VASSOIO di argento dello stesso stile. Peso gr. 1600.
+- 425
+- BELLA ZUPPIERA in metallo inglese argentato, a due grandi anse. Sul coperchio pomo con decorazione a foglie. Stile impero.
+- IMPORTANTE SERVIZIO DA LIQUORI composto da tre 426 belle bottiglie in cristallo di Baccarat con montatura in
+- metallo placcato di argento.
+- ZUPPIERINA a coperchio in argento di elegante forma. 427 Peso gr. 920.
+- ELEGANTE VASSOIO a forma centinata con quattro pie 428
+- BELLA FRUTTIERA in argento a forma baccellata con 429 bordo e piedi a delicati ornati traforati. Manifattura Map-
+- pin Webb. Peso gr. 810.
+- ELEGANTE CALAMARIERA di argento composta di vas430 soio, portapenne, portapolverino con piccolo stemma inciso.
+- Stile Luigi XVI. Peso dell'argento gr. 100o.
+- 431
+- PAIO DI CANDELIERI in argento decorati da bucranii, ghirlande di alloro e piccoli ornati. Stile Luigi XVI. Peso kg.1,210.
+- GRANDE CALAMAIO da scrittoio in verde ranocchia con 432 decorazione di bronzi. Il centro sormontato da aquila.
+- Stile Impero.
+- HOPEL J. B. Pavilion Rode by Chifney. Incisione a fumo 433 dall'originale di Chalon. Pubblicata nel 1813. Cornice di
+- mogano e cristallo. M. o,47 x 0,52.
+- ID. ID. Smolensko. Rara incisione a fumo dallo originale di 434
+- Satorius. Cornice di mogano e cristallo.
+- WINNERS. The marry Monarch. Winner of the derby Stakes at Epson 1845. The property of W. G. K. Graturcke Esq. Bell'incisione colorata con cornice di ebano e cri
+- 435 stallo. M. 0,48 x 0,58.
+- MACKRELL JR. Mendicant. Winners of the Oaks Stakes at 436 Epson 1846. The Property of John Gully Esq. Bella in-
+- cisione colorata da Simpson dall'originale di Harring. Cornice e cristallo. M. o,48 x 0,57.
+- HUNT CH. Princess. Winners of the Oaks Stakes at Epsn 437 1844. The property of the Honble Colonel Hanson. Bel la incisione colorata da Simson dalloriginale di Harring. Cornice e cristallo. M. o,53 x 0,62.
+- 438 ALKEN HY. Quattro soggetti di caccia alla volpe incisi in rame e dipinti pubblicati a Londra nel 1823. Cornici e cristalli. M. o,24 x 0,35.
+- HUNT SEABREEZE. Winner of the St. Leger Stakes,
+- 439 Doncaster 1888. Walue L. 435o. Bella incisione a colori dall'originale dello stesso autore. Cornice di legno naturale cristallo. M. o,59 x 0,75.
+- 440
+- ID. ID. Robert Deville. Incisione d'accompagno alla precedente.
+- 441 HARRIS e C. QUENTERY. Ellington. Bella incisione a colori dalloriginale di Harry Hall. Cornice e cristallo. Me tri 0,59x0,75.
+- HUNT CH. TEDDINGTON.Incisione a colori d'accompa442 gno alla precedente.
+- 443
+- DUE ANTICHE CORNICINE veneziane di legno intagliato e dorato contenenti incisioni all'acquaforte rappresentanti vedute di un parco. M. o,32 x 0,28.
+- 444
+- SURDI LUIGI. Angolo di paese con numerose figurine. Graziosa pittura ad olio su tela. Cornice nera ed oro. Metri 0,45 x 0,38.
+- 445 BARTOLINI MARIA.Il ritorno dalla mietitura. Acquarello con cornice di mogano e cristallo. M. o,53 x 0,75.
+- 446 CASCIARO GIUSEPPE. Ritorna Primavera. Grazioso dise
+- gno a pastello con cornice ciorata. M. o,34 x 0,35.
+- MICHELANGELO DA CARAVAGGIO (Copia da). L'in dovina. Dipinto ad olio su tela con cornice di legno in-
+- 447 tagliato e dorato. M. 1 x 1,34.
+- 448
+- BERTARELLI. Boscaglia. Bella pittura ad olio su tela ispi rata al Gignous. Cornice intagliata e dorata.M. 1,12xo,84
+- 449
+- RIEDEL H. La bagnante. Presso un ruscello e seduta sulla sponda una graziosa figura di giovanetta, ed il sole radente che stupendamente ne modella la fessuosita del corpo passa attraverso le tornite braccia in un ammirevole giuoco di luce. Riteniamo questo quadro uno dei capolavori del grande artista tedesco che prescelse Roma come sua residenza, e che appartiene alla schiera romantica dei migliori artisti dell'8oo. Firmato e datato: Roma 1861. Semplice cornice a sagoma dorata. M. 2x1,30. Vedi Tau.XIV.
+- LAVAGNA F. Vaso di fiori Finissima pittura ad olio su tela 450 applicata su tavoletta. a sesto ovale. Cornice dorata. Me tri 0,30x0,24.
+- MARIO DI FIORI (attr. a). Due corone di fiori finemente disoggetti rappresentanti Venere e
+- 451 pinte entro le quali s Amore ed Endimione e la Luna. M. o,38 x o,28.
+- 452 STENDARDO (attr.a). Alto di Moschettieri. Grazioso dipinto ad olio su tela con cornice Salvator Rosa dorata. M. 0,3I x 0,46.
+- 453
+- MAGNASCO ALESSANDRO. Interno di una bettola. Pit tura ad olio su tela. Cornice di legno intagliato e dorato. Metri 0,40 x 0,30.
+- BIGARI VITT. MARIA. Rovine fantasiose presso un lago. 454 Pittura alla tempera a sesto ovale con cornice dorata ad angoli graffiti. M. 1,46 x 1,10.
+- 455
+- ID. ID.Detto d'accompagno.
+- 456 ID. ID. Detto d'accompagno. Vedi Tau. VI.
+- ID. ID. Detto d'accompagno. 457
+- 458 BONIFAZIO VENEZIANO.La Vergine,il Bambino, San Giovanni e Santi. Dipinto ad olio su tela con cornice moderna dorata.M.o,8o x I,14
+- PANNINI GIOVANNI PAOLO. Monumenti romani con 459 figurine. Finissimo disegno alla penna acquarellato con quella rara maestria che distingue questo raro maestro dai suoi contemporanei.
+
+Il Piancastelli, direttore della Galleria Borghese, in una lettera che alleghiamo al dipinto ne elogia gli alti meriti. Cornice alla Salvator Rosa. M. o,4o x o,63. Vedi Tavola XlI.
+
+- PICCOLO TAVOLO circolare in mogano a leggero intaglio.
+- 460 Stile Luigi XVI.
+- DUE SEGGIOLE di noce con dossello a giorno e traverse
+- 461 tornite.
+- 462 DUE DETTE simili, di cui una coperta di stoffa rossa.
+- 463
+- PICCOLA BIBLIOTECA girevole in mogano con montatura di ottone. Manifattura inglese.
+- CANDELABRO di bronzo dorato e marmo a cinque lampade a luc elettrica con abat-jour di seta verde. Stile
+- 464 Impero.
+- 465 5SERVIZIO DA FUMO composto di vassoio, scatola da si garette, altra detta piu piccola, posacenere, portafiammiferi e candeliere; il tutto in bronzo cedrino con ornati graffiti e smaltati. Arte orientale. Sottoposto six pied.
+- 466 BELLA PENDOLA a cassettone di noce riccamente guar nita di bronzi. Quadrante in bronzo e ferro. Sec. XVIl.
+- 467
+- SGABELLO di noce tornito coperto di damasco rosso.
+- 468
+- 469
+- 470
+- 471
+- ALTRO DETTO.
+- ALTRO DETTO.
+- PICCOLA COMMODE a tre cassetti, in marqueterie di legni vari con ricca guarnizione di bronzi. Manifattura francese. Stile Luigi XV.
+- PICCOLA CONSOLE semi circolare in maggiolino con sovrapposta luce di specchio d'accompagno.
+- 472
+- PICCOLO TAVOLO di forma ovale in legno cedro elegantemente guarnito di bronzi Arte francese. Stile Luigi XVL.
+- TAVOLO da centro di legno intagliato e dorato, piano in473
+- cassato di marmo colorato. Stile Luigi XVI. Fodera.
+- BELLA POLTRONA di noce a braccioli curvi e traverse
+- 474 tornite. Piano e dossello coperti di broccatello giallo.
+- 475 ALTRA DETTA.
+- FUSTO DI ANTICA POLTRONA di noce intagliata a 476
+- grandi volute. (Piano da ricoprirsi). Epoca Luigi XIV.
+- GRANDE POLTRONA di legno intagliata e dorata con 477
+- stoffa a punto a fiamma.
+- 478 POLTRONA ad orecchiozzi con copertura in bianco.
+- 479 ALTRA DETTA differente.
+- 480 ELEGANTE VETRINA di mogano di forma centinata con sportelli a cristalli; due cassetti ed alzata superiore a luce di specchio e mensolina .Manifattura Henry di Londra.
+- IMPORTANTE CASSA DA NOZZE in noce con angoli a maschere ed il prospetto a targa fra due guide di foglie di squisita modellazione. Campione d'arte della Rina-
+- 481 scenza. (In parte restaurata).
+- 482 GRANDE ANTICO TAVOLO di noce con gambe ad asso
+- di coppe e traversa, due cassetti.
+- 483 BUREAU in noce di Calabria a tre cassetti e sportello; di visioni interne.
+- 484 SERVIZIO DA SALOTTO di legno riccamente intagliato e dorato stile Luigi XVI. Si compone di console con alzata a luce di specchio, divano, due poltrone, panchetta, quattro seggiole, tavolo da centro con piano di alabastro. Copertura di broccato a gruppi di fiori su fondo grigio.
+- 485 ELEGANTE ANGOLIERA di legno intagliato e dorato a tre ante con luci di specchio. Lateralmente due mensole con piani di alabastro. Stile Luigi XVI.
+- 486
+- BELLA ANTICA CREDENZA in legno ferro a due sportelli scolpiti a bassorilievo a vasi ed ornati. Arte Cinese del Sec. XVIl. Sottoposta base.
+- 487 GRANDE LAMPADARIO in vetro bianco di Murano a dodici bracci per candele elettriche. Imitazione dell'antico.
+- bracci per candele elettriche ricostruito con pezzi differenti ed in gran parte difettoso. Sev. XVII.
+- 488 ANTICO LAMPADARIO in vetro di Murano, ad undici
+- 489 ANTICO TAPPETO PERSIANO Afgan Bokhara a scom-
+- parti geometrici su fondo rosso. M. 2,20 x 1,05.
+- persiano Kasak a disegno geometrico. (Un
+- 490 TAPPETINO poco sciupato). M. 2,20 x 1,20.
+- 491
+- GRANDE TAPPETO da pavimento in lana felpata a bel492 lissimo disegno persiano su fondo rosa. Manifattura inglese (in teli). M. 6,40 x 5,45.
+- do gialletto a minuto fogliame. M. 3,75 x 2,75.
+- 493 PICCOLO TAPPETO PERSIANO a piccoli ornati su fondo
+- giallo. Ricco bordo. M. 1,6o x 1. (Rinforzato con fodera).
+- DUE ANTICHE SCIARPE batich in seta verde e gialla a
+- 494 minuto disegno. Arte Cinese.
+- 495 TRE CUSCINI con coperture di ricami su tulle e tela di Olanda.
+- 496 TRE DETTI differenti.
+- 497 QUATTRO DETTI differenti.
+- SERVIZIO DA TAVOLA in fine cristallo composto di: 498
+- quattro bottiglie da acqua, dieci bicchieri da acqua, dodici bicchieri da vino, dodici da mezzo vino; due detti piu piccoli, sei coppe da champagne.
+- 499
+- DUE ANTICHI ASTUCCI per zuppierine in cuoio impresso e dorato a piccoli ferri. Sec. XVII.
+- SCATOLA DA DOLCI in lacca rossa finemente intagliata. 500 Manifattura cinese.
+- VASSOIO di lacca a paesaggio di tipo cinese. 501
+- LAMPADA DA TAVOLO in ferro battuto in parte dorato 502
+- con abat-jour di seta verde.
+- 503
+- CAPPUCCINA da viaggio di bronzo con movimento ad
+- ancora. Astuccio di pelle.
+- PORTADOLCI di cristallo a forma di uovo montato di 504 bronzo.
+- BOTTIGLIA per ozonatore e sei vasetti ed un piattino di 505
+- cristallo.
+- BOMBONIERA in terraglia di Tokio difettosa, paperella in 506
+- porcellana svedese e piccola coppa di ottone argentato.
+- LOTTO di due scatoline intarsiate e piccola croce in fila507
+- grana di argento.
+## QUINTO GIORNO DI VENDITA
+
+MARTEDI 19 MAGGIO 1936-XIV
+
+Alle ore 16,30
+
+Dal N.508 al N.625
+
+- CATINELLA a bordo centinato in maiolica decorata ad animali e fiori in bleu. Deruta.
+- VASO A BOTTIGLIA in porcellana decorata ad ornati su fondo rosa e medaglioni con paesaggi. Vecchia Cina. (Re staurato).
+- 508
+- 509
+- DUE MATTONELLE azuleche in maiolica a riflesso me
+- 510 tallico con cornici moderne di legno nero.
+- 511 TRE FIGURINE in porcellana rappresentanti scimie che
+- suonano e piccolo Cupido suonatore di siringa.
+- VASCHETTA in porcellana decorata in bleu a gruppi di 512
+- piante. Cina.
+- QUATTRO PIATTI cupi in porcellana decorati a paesaggi 513
+- in bleu, rosso ed oro. Vecchio Giappone.
+- 514 TAZZA PUERPERALE in porcellana coperta bianca con fori a rilievo, piatto e coperchio. Napoli.
+- SCATOLA DA THE in porcellana decorata a gruppi di fiori 515
+- in rosso e bleu. Giappone.
+- QUATTRO PORTADOLCI a cestello in porcellana deco516
+- rati a gruppi di rose e dorature. Sassonia Marcolini.
+- CACHEPOT in porcellana decorato in bleu a gruppi di al-
+- 517 beri e uccelli. Vecchio Giappone.
+- VASO in porcellana cracquelee decorato a figure ed animali 518 a colori con ornati a rilievo a coperta manganese. Giap-
+- pone.
+- PAIO DI CANDELIERI in porcellana decorati a zone cele519
+- sti e piccoli gruppi di fiori. Manifattura di Sevres.
+- DUE BOTTIGLIE IN PORCELLANA a coperta gialla con 520
+- ornati in oro e medaglioni a soggetti militari.
+- PAVONI SOPRA UNA ROCCIA. Gruppetto in porcellana 521 della Cina.
+- FALCHETTO sopra una roccia. Gruppetto in porcellana a 522
+- coperta verde. Cina.
+- PAIO DI VASI in porcellana a coperta bleu de roi con mon523
+- tatura in bronzo dorato. Arte francese stile Luigi XVI.
+- DUE BEI VASI in porcellana bianca e bleu con coperchi. 524 Cina. Sec. XVIlI.
+- SERVIZIO DA TAVOLA in terraglia inglese decorato a 525 piatti da portata, due detti tondi, due piccoli vassoi da frutta, piattino da formaggio, salsiera, dodici fondine, cin-
+- quanta piatti da salvietta, dodici piattini da dessert.
+- 526 PAIO DI STAFFE di bronzo con ornati a rilievo.
+- 527 MORsO e due staffe in ferro dorato di elegante linea. Secolo XVIII.
+- RARA IMPORTANTE DIVINITA'in bronzo, seduta in trono che ha nelle mani un bambino. Il trono di legno ri
+- 528 leva l'antichita della figura. Cina.
+- 529 BRACCIO DA PARETE girandoles in bronzo a due lam
+- pade. Stile Luigi XIV.
+- BOYER e LENORDEZ P. Vermout. Bellissimo bronzo ori 530 ginale firmato.
+- 531
+- BOYER V.e LENORDEZ P. Gladiateur ne 1862. Bellissimo bronzo originale.
+- RITRATTO DI GIOVINETTA. Miniatura su avorio con
+- 532 piccola cornice di bronzo.
+- I MIETITORI. Grande miniatura su avorio di fine esecu533 zione con cornice di bronzo e stoffa. Firm. Doucet.
+- IL RITORNO DELLA SEDOTTA. Miniatura d'accompa534 gno alla precedente.
+- SCATOLA OTTAGONA di bronzo che ha sul coperchio 535 una miniatura a figura di giovanetta.
+- 536
+- SCATOLA CIRCOLARE di smalto che ha sul coperchio una veduta fantasiosa con architetture. Venezia.
+- GIOVANE DONNA a grande cappello. Miniatura firmata 537
+- Hernandez.
+- 538 PORTANOTES in argento e portasigarette in argento os-
+- 539
+- sidato.
+- SERVIZIO DA CAFFE' tete-a-tete in metallo argentato con tazzine di porcellana. Manifattura Mappin &amp; Webb.
+- 540 COMPOSTIERA in smalto con coperchio e piatto in metallo placcato. Manifattura inglese, e sei bicchierini per
+- 541
+- 542 PORTASIGARETTE di argento con figura di drago.Arte cinese. Ed altro di argento liscio.
+- 543 GRAZIOSO CESTELLO in argento intieramente traforato con ansa mobile. Manifattura Inglese. Peso gr. 140.
+- 544 VASO E PIATTI di bronzo cedrino intarsiati di rame ed argento a disegno egiziano. Arte orientale.
+- SCATOLA DA SIGARETTE in argento con ornati graf 545 fiti. Peso gr. 310.
+- liquori in cristallo.
+- COPPA DI ARGENTO imitazione dell'antico Fabbrica di
+- 546 Melillo di Napoli. Peso gr.307.
+- PAIO DI CANDELABRI in bronzo a due bracci per can547
+- dele. Epoca Luigi XV.
+- 548 CESTELLO di argento a grandi ornati. Epoca secondo Impero. Peso gr. 385.
+- 549
+- PICCOLO VASO baccellato in argento. Peso gr. 180.
+- BOUILLOIRE con annessa lampada a spirito in metallo plac550 cato di argento.
+- SERVIZIO DA DESSERT in vermeille, composto di dodici 551 forchette e dodici coltelli. Manifattura Tornotti. Astuccio. Peso gr. 1370.
+- SERVIZIO in argenteria di Christofle e di Krupp. Si compone di: sei cucchiai da zuppa, dodici forchette, dodici coltelli con manici di avorio, sei cucchiai da dolce e sei
+- 552 forchettine.
+- 553 LAURIE AT WHITTLE BY MALTON. Incisione alla maniera nera pubblicata a Londra nel 1794. Cornice e
+- cristallo. M. 0,25 x 0,36.
+- ECLIPSE. Incisione d''accompagno alla precedente. M. o,25 554
+- per 0,36.
+- 555 BORGIA CESARE. Contadino con armenti. Finissimo disegno alla penna, firmato e datato 1781. Cornice tipo sbalzo e cristallo. M. o,30 x 0,23.
+- HUNT G. Renonce. Incisione colorata edita a Londra nel 556 1843 dalloriginale di Lambert. Cornice e cristallo. Metri 0,40 x 0,52.
+- RITRATTO DI GIOVANETTA disegnata alla sanguina ed 557 altra disegnata al conte nero con piccolo tocco di colore, portante la firma Stuard e datata 188o. Cornice e cristallo.
+- HUNT CH. Poison. Winner of the Oaks Stakes at E Epson
+- 558 1846. The Property of George Samuel Ford. Incisione colorata da Simpson dallo originale di Harring. Metri 0,47x0,57.
+- HUNT CH,Beeswing.The property of the late.Wm.Orde
+- 559 Esq.of Nunny. Chirke near Morpeth. Incisione colorata da Simpson, pubblicata a Londra nel 1842. Cornice ad ebano e cristallo. M. o,47 x 0,57.
+- 560 HUNT CH. The Emperor. Incisione in rame colorata da Svinson dall'originale di All. H. Cornice e cristallo. Metri0,45x0,53
+- 561 HUNT. The Baron. Incisione in rame a colori, pubblicata in Londra nel 1845 dalloriginale di Desvignes. Cornice ad ebano e cristallo. M. o,47 x 0,57.
+- 562 HUNT. Orlando. Winners of the Derby Stakes at Epson 1844. The Property of Colonel Peel. Bella incisione colorata da Simpson dall'originale di Harring. Cornice di Pitche-pine, e cristallo. M. o,52 x 0,62.
+- 563
+- UNA SCENA DI CORSE con la neve e lo starter della cac cia alla volpe. Due incisioni a colori.
+- 564
+- BOSA. La famiglia del mendicante. Grazioso acquarello con cornice argentea e cristallo. M. o,26 x o,17.
+- 565 GIROSI FRANCO. Casetta campestre. Pittura ad olio su tela. Cornice dorata. M. o,49 x 0,66.
+- 566 PERALTA F. Dama in costume dellImpero. Delicato studio ad olio su tavoletta con cornice dorata. M. o,27 x o,17.
+- 567 PAVAN ANGELO. Canale della Giudecca -Venezia. Fine tempera di squisita esecuzione. Cornice intagliata e dorata in custodia. M. 0,32 x 0,39.
+- 568 COLEMAN ENRICO. Il cagnolino. Importante dipinto ad olio su tela. Firmato. Cornice dorata. M. o,37 x 0,29.
+- 569 MARINI F. E' permesso? Delicata pittura ad olio su tela. Marini artista romano ebbe una grande notorieta in Egitto dove egli si trattenne per molti anni in un'epoca in cui l'infuenza francese della scuola di Barbisson sovranamente imperava, ed infatti il nostro dipinto nelle linee e nella sobria intonazione sente tutta la influenza di questa scuola. Cornice dorata e cristallo. M. o,44 x 0,34 Vedi tav. XIll.
+- 570 SCUOLA FIAMMINGA. I dodici Apostoli. Dodici pitture ad olio su rame con cornicine dorate.
+- ZUCCARELLI (attr. a). Paesaggio con contadini. Grazioso 571 dipinto ad olio su tela con cornice alla Salvator Rosa in-
+- tagliata e dorata. M. o,43 x 0,70.
+- ZUCCARELLI Scuola di). Paesaggi con ruderi e figure. Due 572 fine tempere. Cornici dorate e cristalli. M. o,38 x o,26.
+- 573
+- 574
+- DUE DETTI.
+- DUE DETTI un poco piu piccole. M. o,34 x o,24.
+- 575 BIGARI VITT. MAR.Architetture fantasiose con figurine.
+- Due tempere su tela per soprapporte. Cornici dorate.
+- BIGARI VITT. MARIA. Castello fantasioso presso il mare. 576 Pittura alla tempera con cornice dorata. M. 1,7o x 2,20.
+- ID. ID. Rovine romane con la bottega del fabbro. Quadro 577 d'accompagno.
+- BIGARI VITT. MARIA. Veduta di un fabbricato in co struzione con armature. Bella pittura alla tempera a sesto
+- 578 ovale con cornice dorata. M. 1,46 x 1,10. Vedi tau. VI.
+- RARA ICONE greco-russa, nel centro la Vergine col Bamfigure di Santi. Rivestitura di ar-
+- 579 bino; ai lati quattro f gento ad ornati sbalzati.
+- 580 ANDREA DEL SARTO (att.a). La Vergine, il Bambino e San Giovanni. Importante pittura su tavola che ricorda in gran parte quella esistente alla Pinacoteca Vaticana. Il nostro esemplare accuratissimo in ogni piu minuto dettaglio ha come varianti; il fondo benche a paesaggio e mancante della roccia con l'albero; le aureole sono a semplice linea, mentre nella originale vaticana hanno una certa consistenza.In ogni modo il presente d dipinto ha caratteristiche sia nel disegno che nel colore da attribuirsi certamente ad un maestro di quell'epoca. Cornice moderna a cassetta con ornati dorati. M. 1 x o,75. Vedi tau. II.
+- 581
+- DUE PICCOLE CONSOLE a mensola in noce a leggero intaglio.Stile Luigi XVI.
+- 582 POLTRONA a pozzetto in mogano, intarsiato di legno an-
+- 583 DUE BASSE SEGGIOLE di noce con dosselli intagliati e
+- 584
+- giolino e coperta di damasco verde. Fodera.
+- piani coperti di stoffa sciupata.
+- ALTRA DETTA di differente disegno.
+- 585 BASE PORTABUSTI di noce a forma quadrangolare.
+- 586 ALTRA DETTA.
+- PARAVENTINO di legno intagliato e dorato con pannello
+- 587 in seta.
+- 588 PENDOLA AD OCCHIO DI BUE in mogano con guarni-
+- zioni di bronzo dorato. Quadrante smaltato.
+- 589 RARO IMPORTANTE COFANO NUZIALE del piu puro Rinascimento. E' a forma di urna in noce con angoli a maschere e piede a zampa di leone. Nel prospetto piccolo stemma su fondo d'oro affiancato da baccelli vuoti legati da rosette; superiormente zona a palmette e testa di medusa che forma la bocchetta per la serratura. Vedi tav. XVI.
+- 590
+- GRAZIOSO TAVOLO di palissandro ed ebano rosa disposto a spina. Un cassetto. Epoca Luigi XV.
+- 591 OROLOGIO ad occhio di bue in legno tinto ad ebano con ricca guarnizione di bronzi a roccailles e gruppi di fiori. Movimento con quadrante e numeri di smalto. Manifat tura Robert et Fils a la Chaux de Fonds. Sottoposta mensola.
+
+Vedi tav. xVII.
+
+- 592 SCAFFALE da libri in noce con leggero intaglio.
+- tante Adamo ed Eva. Annessi zoccoli.
+- 593 ORIGINALE CREDENZINA di noce con pilastri a tortiglione e pannello centrale scolpito a soggetto rappresen-
+- revole e marmo nell'interno difettoso. Manifattura te
+- desca.
+- GRAZIOSA COMMODE a mogano di forma centinata con 595 decorazione di bronzi. Luigi XV.
+- ALTRA DETTA. 596
+- PICCOLA ANTICA COMMODE di noce a forma bombata 597 con leggero intarsio di ebano rosa; sportello a forma di
+- due cassetti; zampini e bocchette di bronzo.
+- ALTRA DETTA. 598
+- PICCOLA CONSOLE da pilastro a mensola di legno inta 599 gliato e dorato con annesso trameau che ha nell'alto un medaglione dipinto. Stile Luigi XVI.
+- 600
+- PICCOLO TAVOLO OVALE in mogano intarsiato di legno cedro. Stile Luigi XVI.
+- 601
+- SEI SEGGIOLE da ingresso in noce con dosselli a targhe.
+- 602 CONSOLE di elegante sagoma in legno intagliato e dorato con piano di giallo e cordone di marmo bianco e nero. Epoca Luigi XV.
+- BELLA CASSA DA NOZZE di semplice linea architettonica; il prospetto intarsiato a stemma di Casa Spada ed
+- 603 ornati. Sec. XVI. Annesse basi di noce.
+- 604 ANTICO TAVOLO di ebano intarsiato di avorio a stemma centrale e leggeri ornati. Gambe a lira e traversa di ferro. Sec.XVII.
+- BELLA COMMODE di noce con ricchi intarsi in legno angiolino a vasi ed ornati. Due cassetti con maniglie di
+- 605 bronzo. Epoca Luigi XVI.
+- 6o6 DIVANO E DUE POLTRONE intieramente imbottite e
+- coperte di velluto controtagliato a gruppi di fiori. Annessi cuiscini,
+- 607 IMPORTANTE ARMADIO da sagrestia a due corpi:in radica di noce e forma architettonica. La parte inferiore a due sportelli e cassetto; quella superiore a due sportelli Sec. XVII.
+- 608 ANTICO TAPPETO PERSIANO a minuto disegno di fiorellini su fondo rosso. M. 1,66 x o,98.
+- 610 GRANDE TAPPETO INDIANO a medaglione con figurazioni di elefanti su fondo marrone. M. 3,10 x 4,40.
+- 609 TAPPETO PERSIANO KASAK a disegno geometrico su fondo rosso. Bordo su fondo bleu. M. 1,97 x 1,33.
+- 119 TAPPETO da pavimento tessuto in lana a disegni geometrici su fondo gialletto. Bordo su fondo rosa. Circa metri4x5.
+- 612 PEDANA PERSIANA Kazak ad ornati geometrici su fondo
+- 613 fondo lamato d'oro. Antica arte Cinese.
+- di vario colore. Vari bordi. M. 2,30 x 1,10.
+- 614
+- 615 TAPPETO da tavolo in broccato a gruppi di fiori. Fodera satin verde e frangia.
+- rappresentante la caccia di Diana. M. 1,36 x 1,8o.
+- 616 QUATTRO CUSCINI di differenti forme coperti di ricami in seta e stoffe broccate.
+- 617 SERVIZIO DA TAVOLA in fine cristallo di Baccarat ta gliato alla ruota; si compone di: due carafe, sedici bicchieri da acqua, quindici detti da vino, quindici da marsala, sedici da mezzo vino, dodici da punch, cinque da liquori, tredici da champagne a coppa, tredici coppe per acqua alle mani con diciotto piatti per le r medesime, e sedici piattini da gelato. In tutto pezzi centoquarantuno.
+- foreale. Epoca Impero.
+- 618 PAIO DI CANDELABRI in marmo bianco con decorazioni di bronzi ad ornati e festoncini a tre bracci ciascuno forma
+- SCATOLA DA THE in smalto decorata a paesaggi e mi 619 nuti ornati. Manifattura di Canton.
+- ELEGANTE PORTABISCOTTI di vetro tagliato alla ruo-
+- 620 ta.Sec.XVIlI.
+- SCATOLA DA SIGARETTE in argento con interno di le
+- 621 gno. Stile Liberty.
+- 622 PICCOLO OROLOGIO da tavolo in metallo a forma di
+- putto.
+- 623 LOTTO DI CINQUE CORNICINE per miniature di legno
+- lustro ad ebano e piccola coppa posacenere in argento.
+- 624 POSACENERE accendisigaro in metallo argentato e lente con annesso tagliacarte di avorio e montatura di argento.
+- 625 SEI BOLS per acqua alle mani in ottone.
+## SESTO GIORNO DI VENDITA
+
+## MERCOLEDI' 20 MAGGIO 1936-XIV
+
+Alle ore 16,30
+
+## Dal N. 626 al N. 752
+
+- 626 BAMBINI CHE DANZANO. Gruppetto in porcellana por tante la marca di Sassonia.
+- 627
+- FIGURINA DI PASTORELLA e figurina di gentiluomo in porcellana a colori di fine esecuzione portante la marca di Sassonia.
+- DUE BELLE BROCCHETTE di maiolica decorate in bleu
+- 628 a guide di fiori ed iscrizioni. Faenza.
+- 629 QUATTRO ALBERELLI di due grandezze decorati in bleu con piccolo stemma ad ancora.
+- PIATTO CUPO in porcellana decorata a gruppi di peonie
+- 630 e fenicie. Cina. Marca imperiale.
+- 631
+- DUE TEIERE a coperchi di differenti formati in porcellana ad ornati e fiori a colori. Vecchio Giappone (Una restaurata).
+- DUE GRANDI BOLS in porcellana decorata a scomparti
+632. con fiori ed ornati. Giappone. Sec. XVIll.
+- 633 DUE ORIGINALI PIATTI ovali in porcellana decorati a gruppi di fiori. Compagnia delle Indie.
+- 634
+- BELLA BROCCA di maiolica a coperta berrettina; nel basso la figura di Santa Caterina; ornati ed iscrizioni-in bleu. Faenza.
+- VASO in porcellana decorato a figure di dignitari su fondo
+- 635 bianco. Basetta di tek. Cina.
+- ZUCCHERIERA con coperchio e piatto in porcellana deco-
+- 636 rata a gruppi di fiori. Sassonia.
+- 637 DODICI PIATTI in porcellana decorati a gruppi di fiori in bleu, rosso ed oro. Vecchio Giappone,
+- 638 DODICI DETTI.
+- 639
+- SETTE DETTI.
+- GRANDE COPPA in porcellana a coperta bleu de roi con montatura di bronzo dorato. Medaglioni dipinti a sog-
+- 640 getto galante e paesaggio. Sevres.
+- 641 BOMBOLA di porcellana decorata in rosso fagiolo a guide di fiori ed ornati. Coperchio e base in legno di tek. Antica arte Cinese.
+- 642 ALTRA DETTA con base differente.
+- 643 SERVIZIO DA TAVOLA in terraglia di Cantagalli decorata a fiori di tipo Pesaro. Si compone di: tre zuppierine, tre piatti ovali da portata,uno detto tondo, tre fruttiere a pieducci,insalatiera ovale e salsiera, diciassette piatti da zuppa,ventisei piatti da salvietta,ventidue da frutta.
+- 644 BAMBINO CHE RIDE. Bronzetto sopra una base di marmo.
+- 645 ALTRO DETTO simile firmato Calabresi.
+- 646 DUE STAFFE IN BRONZO con ornati sbalzati a gruppi di fiori. Epoca Luigi XIV.
+- 647 LA MADDALENA. Bassorillievo di bronzo con cornicina
+- 648
+- dorata.
+- AURISICCHIO. Scugnizzo che ride. Bronzetto con base di marmo.
+- 649
+- 650
+- 651 ANTICA INCISIONE Cinese in legno a figure grottesche.
+- BOYER V.e LENORDEZ P. Guillaume le Taciturne. Bel lissimo bronzo originale firmato.
+- CROCEFISSO con sottoposte figure in adorazione. Scultura in legno di arte spagnuola (una figurina manca).
+- Cina. Sec.XVI.
+- 652 GRAZIOSA cornice di legno intagliato e dorato a foglie di acanto contenente una fotoincisione da un quadro del Watteau rappresentante un asciolvere campestre.
+- fiamminga.
+- 653 DUE FIGURINE di Santi che originalmente fiancheggiavano un Crocefisso. Scultura in legno di arte primitiva
+- 654 BUDDHA seduto sopra un alto trono. Rara scultura in le-
+- gno di arte remota Siamese.
+- 655 BUDDHA seduto in trono in atto di predicare. Bella scul-
+- tura in legno in parte dorata. Antica arte Cinese.
+- 656 LA DEA QUAN-YN. Rara scultura in legno con tracce di colore. Arte Cinese di epoca remota.
+- 657 SCATOLA DA SIGARETTE di argento con interno di acero. Peso dell'argento gr. 245 circa.
+- 658 IMPORTANTE VASSOIO in maiolica decorato in bleu a putti ed ornati. Antica Savona.
+- 659 FORMAGGERA in argento stile Luigi XIV con recipiente di cristallo. Annesso cucchiaio. Peso dellargento gr. 110.
+- 660 gr.406.
+- 661
+- PORTADOLCI in metallo argentato a manico. Nell'interno piatto di cristallo tagliato alla ruota.
+- 662 VASSOlO di forma ovale con ornati graffiti e due manici. Manifattura di Christofe.
+- CAFFETTIERA teiera e lattiera in metallo placcato di ar
+- 663 gento. Manifattura francese.
+- 664 SCATOLA DA SIGARETTE in legno con rivestitura di
+- argento finemente cesellato. Sul coperchio soggetto alle gorico.
+- 665 ELEGANTE VASOIO a forma centinata in argento. Peso Peso gr.325.
+- 666
+- COPPA portadolci in argento di elegante forma. Due anse. Manif. Inglese. Peso gr. 415.
+- 667
+- ELEGANTE COPPA portadolci in argento sbalzato ed in parte traforato. Interno di cristallo tagliato alla ruota. Manifattura inglese.Peso gr.435.
+- 668 ALTRA DETTA.
+- GRAZiOSO CESTELLO portadolci in argento a bordo ondulato ed ornato a traforo. Manifattura Inglese. Peso
+- 669 gr.370.
+- 670
+- DUE BASSI CANDELIERI di argento con ornati a rilievo. Peso gr.3oo.Manifattura inglese.
+- SALSIERA con relativo cucchiaio in argento. Manifattura
+- 671 Tornotti. di Torino. Peso gr. 66o.
+- SERVIZIO DA TAVOLA in argenteria di Krupp e di Chri stofle. Si compone di: sei cucchiai da zuppa; dodici detti
+- 672 piu piccoli e ventiquattro forchette.
+- 673
+- PORTAGIOIE in diaspro verde con bordo in oro finemente cesellato a palmette a rilievo con piccoli nastri e castoncini in diamanti. Manifattura francese.
+- BELLA SCATOLINA di forma quadrangolare in smalto celeste montatura in oro finemente cesellata. Sul coperchio gruppo di due colombi su ramo fiorito in diamanti e ru-
+- 674 bini Manifattura francese. Astuccio di pelle.
+- 675
+- STURGRSS RACE for the Middle Park Plate 188g. La vittoria di Signorina. Disegno alla penna con cornice e cri stallo. M. 0,29 x 0,41.
+- 676
+- 677
+- HUNT CH. Thosphorus the Winner of the Derby Stakes at Epson 1937. Incisione a colori dalloriginale di Har
+- NORTH-STAR e CARBINER. Episodio di corsa, incisione a fumo pubblicata a Londra nel 1794. M. o,26 x 0,36.
+- 678 GREEN B. Fattrici con vannini. Incisione a fumo dallorigi nale di Stubbs. Mancante del margine. M. o,43 x 0,55.
+- 679 STUART. Appartenant Monsieur P. Donon. Litografia a colori dall'originale di David. Pubblicata a Parigi nel 1888. Cornice e cristallo. M. o,46 x o,62.
+- 680 PYRRHUS THE FIRST. Winner of the Derby Stakers at Epson 1846 the property of John Gully. Incisione a colori applicata su tela pubblicata a Londra nel 1846. Cornice dorata. Mncante del margine. M. o,37 x o,49.
+- 681 HUNT CH. By Middleton-Mango. Due incisioni colorate dagli originali di Harring. Pubblicate a Londra nel 1836. Cornici in mogano intarsiate di legno angiolino e cristal li.M.0,35x0,40.
+- 682 ID. ID. Margrave e Priam. Due incisioni da accompagno,
+- pubblicate a Londra nel 1830 e 1832.
+- 683 WESSELL Eleonor. The Property of Sir Charles Bunbury. Incisione al pointille edita a Londra nel 18og. Cornice e cristallo. M. o.45 x 0.57.
+- 684 BARRY.Ceylon. Litografia a colori pubblicata a Parigi nel 1866 dallo originale di Pichat. M. o,50 x 0,55.
+- 685 HARRIS J. Horse dealing. Incisione a colori pubblicata a Londra nel 1841 dallo originale di Scanlann. Cornice laccata bianca e cristallo. M. o,41 x 0,52.
+- 686 SARDO G. Signorina seduta in terrazza. Pittura ad olio su
+- tela. Cornice a sbalzo. M. o,55 x o,69.
+- 687 SEALY C. Cavallo da corsa nella scuderia. Fine dipinto ad olio su tela firmato. M. o,48 x 0,60.
+- 688 CARLANDI ONORATO. Il Tevere.Importante acquarello. Ottima opera delillustre maestro. Cornice dorata e cristallo.M.0,40 x 0,63.
+- 689 MICHETTI FRANCESCO PAOLO. Un oliveto presso il mare. Pastello firmato con cornice e cristallo. Metri
+- 0,27 x 0,46.
+- 690 HAYEZ FRANCESCO. Le gioie della maternita. Una giovane donna vestita di un ampio costume celeste e seduta sopra una poltrona si bea nel vedere il figlioletto che la yez maestro dell'epoca romantica dell'8oo emerge nelle sue opere per la delicatezza dei concetti ed il nostro qua dro appunto ci rileva tutto il fine e profondo sentimento di questo artista che accoppia alla ricercatezza della linea il colore audace, ma intonatissimo. Francesco Hayez ha nella Galleria d'Arte Moderna in Roma un grande quadro rappresentante i Vespri Siciliani. M. o,9o x o,71. Cornice di legno intagliata a traforo e dorata.
+- 69
+- VAN BLOEMEN (Scuola di). Paesaggio presso un lago con figure di cavalieri. Pittura ad olio su tela con cornice dorata.M. o,72 x 0,97.
+- 692
+- 693
+- 694
+- 695
+- SCUOLA FIAMMINGA. Sec. XVII. Paesaggio con contadini ed armenti. Bozzetto ad olio su tela di dorata intonazione. Cornice di noce a sbalzo tinta ad ebano. Metri 0,75x 0.95.
+- JACOPO DA PONTORMO (Attr. a).Gesu che risuscita il figlio della Vedova. Dipinto ad olio su tavola entro un antico tabernacolo di legno intagliato e policromato. Me tri I,10x0,81,
+- SCUOLA VENETA. Sec. XVIIl. Il riposo in Egitto. Bello studio ad olio su tela con ricca cornice Salvator Rosa a tre ordini di intagli. M.o,65 x 0,49.
+- SCUOLA FRANCESE.Sec.XIX. Flora.Pittura ad olio su tela (da montarsi). M. 2 x I,55.
+- e ricchi paludamenti lumeggiati in oro. Pezzo da colleZione.
+- 697 BERNARDINO LUINI. La Vergine che allatta il Divin
+- Fanciullo. Importante dipinto ad olio su tavola di finissima esecuzione. Tabernacolo moderno di legno intaglia to e dorato. M. o,52 x 0,41. Di questo importante dipinto che fu acquistato a caro prezzo abbiamo presso di noi la ricevuta dellacquisto medesimo. Vedi Tau. I.
+- 698 BIGARI VITT.MAR. Veduta fantasiosa di un tempio con figurine. Pittura alla tempera con cornice dorata a sesto ovale.M. 1,46 x 1,10.
+- 699
+- ID. ID. Vedute di rovine con figure. Quadro d’accompagno.
+- 700
+- ID,ID. Architetture fantasiose presso il mare. Quadro d'accompagno ma con cornice differente. Vedi Tau. V.
+- ID. ID. Complesso architettonico d’accompagno ma alquanto
+- 701 sciupato dall'acqua.
+- 702
+- ASTUCCIO di cuoio impresso dorato a piccoli ferri contenente due coltelli catalani con manico di madreperla e grande coltello orientale con lama a foglia di olivo.
+- 703 DUE PISTOLE PER PROVINI con canne leggermente incise, decorazione di pistola in ferro e rivoltella con canna
+- 704
+- a sei colpi.
+- DUE SPADINI settecehteschi, sciabola con elsa e paramano, manico a cordellina e spada con elsa a cordellina e due piccole else rovescie.
+- 705 BOMBARDELLA di ferro della fine del sec.XIV a due ca mere cerchiate e deteriorate da uno scoppio al punto del focolare.
+- MEZZA ARMATURA incompleta e composta di varie parti diverse; manca della schiena e delle spalle; ha celata alla borgognona con cresta, mancante pero della visiera e ri
+- 706 messa in ordine. Sec. XVI.
+- 707
+- ARMATURA COMPLETA in ferro ricomposta con pezzi vari di epoche e fatture differenti ed alcuni di imitazione moderna. Ha di antico il petto della corazza con qualche incisione; una spalla ed un braccio ed elementi dell'altro braccio, ambedue le faldine. Il resto e moderno. L'elmo a celata chiusa, gli schinieri e le scarpe di dubbia autenticita.Vi e unita un'antica alabarda con asta coperta di velluto rosso. La base di legno.
+- IMPORTANTE MEZZA ARMATURA IN FERRO con cordoncino a rilievo, ornati dorati e bolloncini. Sul petto la Croce di Malta aggiunta posteriormente; celata alla vi scontea e grande guardareni. Fine del sec. XVIl. Vedi
+- 708 Tavola XVI.
+- 709
+- DUE PICCOLE CONSOLES in noce ad angolo, a leggero intaglio.
+- SEGGIOLA savonarola in palissandro intarsiato alla certo-
+- 710 sina a disegno geometrico. Manifatura fiorentina.
+- 711
+- ALTRA DETTA ad intarzio differente.
+- 712
+- 713
+- SEGGIOLA savonarola in noce intarsiato in avorio alla Cer tosina.Manifattura fiorentina.
+- ALTRA DETTA.
+- DUE SGABELLI di noce tornito con piani coperti di da714 masco rosa.
+- 715
+- SCRIGNO di noce con sportello calatore e nellinterno dieci tiretti.Arte fiorentina. Sec. XVIll.
+- OROLOGIO A CASSETTONE di legno laccato verde. So 716 neria a sole ore. Movimento per calendario. Manifattura Evans di Londra.
+- 717 BASSO TAVOLO di legno intarsiato a minuti ornati. Imitazione dell'antico.
+- 718 IMPORTANTE OROLOGIO ad occhio di bue in boule con ornati di roccailles in bronzo e gruppi di fiori. Movimento con quadrante di smalto e bronzi della manifattura: Louis
+- Montgyoye Paris. Vedi Tau. XVIl.
+- 719 PANCHETTA di noce con gambe e traversa in ferro battuto.
+- 720
+- 720 PARAVENTO di legno a cinque pannelli laccati e dorati a figure cinesi.
+- 721, BASE in legno di tek intagliata a guide di fiori; piano di marmo colorato. Cina.
+- 722
+- TRE PICCOLE CREDENZE da libri di legno laccato verde con listelli dorati; piano a finto marmo.
+- 723 GRAZIOSO MOBILINO in legno ferro finemente scolpito. Due sportelli, due tiretti e varie divisioni. Arte Cinese. Sec.XVII.
+- 724 ELEGANTE PICCOLA CONSOLE di legno intagliato e dorato con piani centinato di giallo antico. Epoca Luigi XV.
+- 725 GRAZIOSO TAVOLO da centro in palissandro intarsiato di legni varii a gruppi di fiori. Piano di cristallo. Mani
+- fattura Francese.
+- 726 BASSO TAVOLO IN MOGANO a forma circolare con zam-
+- 727
+- pini di bronzo.
+- SEI POLTRONE di noce con bracciuoli curvi: piani e dosselli coperti di stoffa verde con gallone. Venezia.
+- 728
+- DUE SGABELLI di noce con piedi e dosselli centinati.
+- 729 IMPORTANTE LETTO cinese di legno intagliato a figure e gruppi di fiori, lacato e dorato con quattro grandi Antica arte Cinese.
+- BELLISSIMA commode di noce unicamente intarsiata a di segno geometrico. Tre cassetti con maniglie di bronzo.
+- 730 Epoca Luigi XVI.
+- 731
+- ALTRA DETTA.
+- SECRETAIRE di ebano rosa e palissandro di forma legger 732 mente bombata; due sportelli inferiori; quello centrale caditore e divisioni interne. Genova. Sec. XVIl.
+- 733 IMPORTANTE VETRINA veneziana di legno f finemente intagliato e dorato con l'interno a luci di specchio incisi a figure. La parte inferiore ridipinta a console con ornati dorati su fondo rosso. Sec. XVIl. Vedi Tau. XVIll.
+- 734
+- SERVIZIO DA SALOTTO di legno intagliato e dorato a volute e picoli fiori. Si compone di divano e nove poltrone coperti di damasco a grande disegno color rosa. Epoca Luigi XIV. (In parte leggermente ridorato).
+- 735 GRANDE ARMADIO da sagrestia in radica di noce a due corpi di forma architettonica a quattro sportelli. Secolo
+- XVII.
+- 736 GRANDE TAPPETO persiano Mahal a disegno geometrico di vario colore. M. 4.6o x 3,8o.
+- 737 TAPPETO di Smirne a disegno geometrico.M. 2 x 1,50.
+- 738 TAPPETO da pavimento tessuto in lana ad ornati e fiori su fondo avorio. Manifattura francese. M. 535 x 3.35.
+- GRAZIOSO TAPPETO persiano Mir a minuti ornati su fondo bleu. Vardi bordi. Rinforzato con fodera. Metri
+- 739 2,70XI,20.
+- 740 TENDA a due partite in velluto controtagliato rosso a piccolo
+- disegno.
+- TRE SOTTANE per ballerine di seta ricamate in vario co741 lore. Arte Cinese.
+- GRANDE COPERTA di amoerro giallo a righe rosate con 742 gruppi di fiori. Fodera di satin giallo e imbottitura di mollettone.
+- 743 CINQUE CUSCINI di differenti forme e coperti di stoffe diverse.
+- 744
+- BELLA COLLANA da mandarino con grani di ambra e globi e pendagli in giada verde. Piccoli finali in quarzo rosa,
+- 745 PAPPAGALLO su di una roccia in cristallo di rocca fume.
+- Antica Cina.
+- 746
+- 747 Antica Venezia.
+- DUE SALIERINE in smalto con guarnizioni di bronzo.
+- DUE ELEGANTI VASETTI in vetro a forma foreale.
+- LOTTO di un portafrutta in cristallo di Baccarat, formag-
+- 748 recipienti.
+- 749 LOTTO DI PORTAVASO in porcellana del Giappone di fettoso, altro in terracotta moderno imitazione dell'antico e profumiera di porcellana di tipo giapponese.
+- DUE PEZZI D'INCHIOSTRO di Cina finissimo con draghi
+- 750 DUE POSACENERE di rame a forma di foglie.
+- 751 a rilievo in oro.
+- DUE SCATOLINE di argento a forme diverse, metro av-
+- 752 volgibile e piccolo tagliacarte di metallo.
+## SETTIMO GIORNO DI VENDITA
+
+VENERDI' 22 MAGGIO 1936-XIV
+
+Alle ore 16,30
+
+## Dal N. 753 al N. 870
+
+- ca di Berlino. Qualche difetto.
+- 754 DICIOTTO VASETTI da crema a forma di pomo in maio-
+- 755 LOTTO di una bol grande, tre tazzine e due piattini in por cellana del Giappone piu tre piattini in porcellana della Cina.
+- lica a coperta bianca. Pesaro.
+- QUATTRO SALSIERE in porcellana decorate a gruppi di
+- 756 fiori. Indocina.
+- 757 TAZZA E PIATTO e piccola teiera in porcellana bianca de corata ad ornati in bleu. Cina.
+- 758
+- TRE PIATTINI cupi in porcellana decorata a fiori in bleu e rosso e dorature. Giappone.
+- 759
+- 760
+- CUPIDI in costumi di cacciatore e di domestica. Due figurine in porcellana di Franckental.
+- 761 BELLA COPPA in porcellana decorata a paesaggi e figure
+- OTTO COPPE e quattordici piattini in maiolica decorati a paesaggi. Antica fabbrica di Castelli.
+- in fondo bleu. Bordo su fondo verde. Manifattura inglese di Carlton.
+- PAIO DI VASI in porcellana bianca a festoni ed anse a ri-
+- 762 lievo dorate (ansa restaurata). Stile Impero.
+- 763
+- VENTIQUATTRO PIATTI in fine porcellana di Limoges a bordi ondulati con decorazione a festoncini di rose.
+- 764
+- DUE PIATTI OVALI in porcellana decorati a gruppi di fiori ed ornati. Vecchio Giappone.
+- 765 QUATTRO PIATTI da portata a forma circolare in porcel-
+- 766
+- lana decorati a rami fioriti ed ornati. Vecchio Giappone.
+- DUE PIATTI CUPI in porcellana; uno decorato a paesaggio e l'altro ad ornati. Vecchio Giappone.
+- PUTTI CHE GIUOCANO. Due gruppetti in porcellana a
+- 767 colori portanti la marca di Napoli.
+- 768 SERIE DI SEI FIGURINE in porcellana rappresentanti da
+- me in costume di varie epoche.Imitazione dell'antico.
+- 769 VASO in porcellana a forma esagona decorto a gruppi di
+- fiori. Cina.
+- ORIGINALE TAZZA da brodo con coperchio e piatto decorata a gruppi di fiori a rilievo e soggetti paesani. Sas-
+- 770 sonia piccole spade.
+- 771
+- GRANATA a punte e frammento di obice.
+- 772
+- PORTAVASO di forma baccellata in bronzo con ornati sbalzati.
+- SCHIMMELPFNNIG.O Libellula. Elegante bronzo patina-
+- 773 to sopra una base di marmo verde.
+- 774 CENTAURO che lotta con un leone. Gruppo di bronzo patinato sopra una base di verde antico e nero di Svezia.
+- 775
+- SCUOLA FRANCESE SEC.XIX. Cavallo in movimento. Bellisimo Bronzo raspinato e terminato a cesello. Base architettonica scolpita da Giuseppe Berardi.
+- DUE CAPIFUOCHI veneziani in bronzo con mascherette
+- 776 e festoni. Sec. XVIl.
+- PICCOLA CORNICE di legno intagliato e dorato. Epoca
+- 777 Luigi XIV.
+- BELLA FIGURINA in legno di tek rappresentante giova-
+- CORNICINA OVALE di legno intagliato e dorato in parte 779 ®
+- 778 netta con cestello. Arte cinese Sec.XVIlI.
+- to bacchico.
+- 780 BUDDHA in piedi in atto di predicare. Rara scultura in legno
+- di arte primitiva giavanese.
+- 781 BUDDHA in piedi in atto di contemplazione. Importante scultura in legno di Arte giavanese. Basetta di bronzo dorato.
+- 782
+- FIGURA GROTTESCA in atto di danzare. Bella scultura in legno. Arte Cinese.
+- 783
+- 784
+- PORTASIGARETTE di argento con annessa miccia per
+- ALTRA DETTA piu grande.
+- LOTTO di quattro posacenere di argento a forme differenti.
+- 785 accenderle. Peso gr. 212.
+- 786 DUE SCATOLINE; una per sigarette e l'altra per tabacco in argento ossidato.
+- 787 PIATTO DA PORTATA;ovale in metallo argentato ma-
+- nifattura Krupp.
+- 788 ALTRO DETTO.
+- 789
+- DODICI CUCCHIAINI da caffe e molla da zucchero in argento. Astuccio. Peso dell'argento gr. 360
+- 790
+- 791
+- 792
+- 793 ZUCCHERIERA in argento con ornati sbalzati anse a testa di donna e piccola anitra sul coperchio. Peso gr. 465.
+- VASSOIO circolare d'argento sbalzato a gruppi di fiori. Arte indiana. Peso gr.215
+- ELEGANTE ZUCCHERIERA a coperchio a forma baccel lata con ornati a rilievo. Due anse. Manifattura Balbini di Torino.Peso gr. 5o0.
+- PORTABISCOTTI in argento ad ornati traforati con reci piente in cristallo tagliato alla ruota. Manico snodato e coperchio. Manifattura inglese. Peso gr. 550.
+- CESTELLO in argento a bordo centinato con gruppi di 794 frutta alzati di piastra su fondo dorato. Stile veneziano. Peso gr. 390.
+- ALTRO DETTO. Peso gr. 400. 795
+- 796 ELEGANTE COPPA portadolci a due anse in argento ma-
+- nifattura Mappin Webb. Peso gr. 285.
+- 797
+- DUE GRAZIOSI CANDELIERI in argento ad ornati sbalzati. Stile Luigi XVI. Peso dell'argento Kg. o,750.
+- 798
+- ELEGANTE PORTADOLCI in argento a forma baccellata con ornati e zampini a rilievo due manici. Controfodera di metallo dorato peso gr. 1o9o.
+- FOIG-A-BALLAG. Cavallo in corsa finemente inciso in ra-
+- 799 me a colori secolo XIX. Cornice e cristallo. M. o,24 x 0,33.
+- 800
+- MACKRELL. Cossack e Sir Tatton Sykes. Due incisioni in rame a colori dagli originali di Cooper ed Harring Senior. Cornici e cristalli. M. o,5o x o,6o.
+- 801
+- MACKRELL. Pyrrhus the First. Grande incisione in rame colorata da Simpson dalloriginale di Harring Senior. Cornice e cristallo. M. o,51 x o,60.
+- 802 CHAS HUNT.Grand Stand. Goodwood. Coming in or the gold Cup 1838. Grande incisione stampata su tela edita a Londra nel 1839. Cornice. M. o,58 x o,67.
+- 803 HARRIS J. West-Australiam. Grande incisione a colori dall'originale di Harry Hall. Cornice e cristallo. M. o,61xo,85.
+- 804
+- HARRIS J.et SUMMERS. Barbelle Bred by Mr.Vansittart in 1836e by Middleton Bred by the Earl of Jersey nel 1833. Grande incisione a colori dall'originale di Harring Senior. Cornice e cristallo. M. o,57 x o,86.
+- 805 ID. ID. Camel e Banter. Incisione di accompagno alla precedente.
+- 806
+- 807 ALKIM S. Soldier. The property of Dennis Okelly. Incisione al granito dallo originale di Garrard. Cornice e cristallo. M.0,43x 0,52.
+- DU JARDIN. Le Sancy. Incisione a colori dalloriginale di Detail. In parte ritoccata a tempera. Cornice di mogano e cristallo. M. o,45 x 0,57.
+- 808 BARRY. Vermout. Litografia a colori dall'originale di Picath. Cornice e cristallo. Un poco fiorita dall'umidita. Metri o,50 x 0,65.
+- 809 DUE SOGGETTI di corse e di caccia alla volpe incise a colori dagli originali di Cecil Bult. Cornici e cristalli. Me tri o,32 x 0,46.
+- 810
+- BISTOLFI L. Paesaggio universale. Pittura ad olio su tavoletta. Cornice dorata.M.o,16 x o,26.
+- 811 ID.ID. Poesia autunnale. Delizioso bozzetto.
+- 812 RUILL NK. Filibert de Savoie. Acquarello a colori con cornice a mogano e cristallo. M. o,43 x o,60.
+- 813 FOLCHI A. Armigero che brinda. Acquarello con cornice di pero a sbalzo lustra ad ebano. M. o,33 x o,26.
+- 814 COROMALDI UMBERTO. Riposo. Fine pastello di deli cato colorito. Cornice dorata e cristallo. M. o,33 x o,48.
+- 815 CASCIARO GIUSEPPE. Strada delle Cave. Bellissimo pastello. Cornice a sbalzo e cristallo. M. o,45 x o,52.
+- 816 SCUOLA GRECO-RUSSA. La Madonna col Bambino. Due pitture su tavolette alquanto sciupate.
+- 817 SCUOLA BOLOGNESE. Sec.XVIII. L'Angelo Custode e S.Michele Arcangelo. Due studi ad olio su tela. Cornici dorate.M.0,24x 0,17.
+- 818 SCUOLA VENEZIANA. Sec. XIX. Esmeralda e la sua ca pretta. Acquarello in parte danneggiato con cornice di ve
+- tro a colori veneziana. M. o,18 x o,22.
+- 819 INCOGNITO. Sec. XIX. Giovanetta simboleggiante l'Estate. Fine pastello con cornice dorata a sesto ovale. M. o,72
+- 820
+- per 0,58.
+- SCUOLA BOLOGNESE.Sec.XVII. S.Girolamo.Pittura su rame con cornice dorata. M. o,2o x 0,15.
+- 821 SCUOLA FIAMMINGA.Scena Paesana. Pittura ad olio su
+- tavola con cornice di-pero a sbalzo.M. o,35 x o,71.
+- SCUOLA BOLOGNESE. Sec. XVIll. Ritratto di uomo barbato. Pittura ad olio su tela. Cornice dorata. M. o,65
+- 822 per 0,48.
+- 823 BIGARI VITT. MARIA. Rovine fantasiose presso un lago. Pittura alla tempera a sesto ovale con cornice dorata. Metri 1,46 x 1,1o.(Alquanto sciupata dall'acqua).
+- 824 ID. ID. Altro d'accompagno alla precedente.
+- ID. ID. Altra d’accompagno ma con cornice un poco diffe-
+- 825 rente.
+- OROLOGIO di mogano ed ebano con movimento in ottone
+- 826 dorato. Impero.
+- SEI SEGGIOLE di noce con gambe e traverse tornite; piani
+- 827 e dosselli coperti di damasco rosso.
+- 828 SEI DETTE.
+- 829 COLONNINA in verde di Prato in parte scanalata e capi
+- tello girevole.
+- 830
+- ALTRA DETTA.
+- 831 LOTTO di etagere di legno ferro. Manifattura cinese.E
+- 832
+- mensola di legno intagliato a forma di conchiglia.
+- POLTRONCINA da scrittoio in mogano con piano di pelle e dossello ricurvo.
+- 833
+- ANTICA SEGGIOLA di noce con ciuffetti intagliati a stemma di Casa Borghese e dorati. Piano e dossello coperti di velluto controtagliato verde.
+- 834 PICCOLO BASSO TAVOLO intarsiato di legni vari. Copia dell'antico.
+- 835 SGABELLONE di legno intagliato ad imitazione dellantico.
+- GRAZIOSA PICCOLA CONSOLE di legno in parte dorato su fondo laccato bianco. Piano in diaspro di Sicilia. Arte
+- 836 veneziana dellepoca di Luigi XV.
+- 837 TAVOLA di noce a gambe tornite e traverse. Un cassetto.
+- 838  DUE TAVOLI a mensola con gambe a lira in noce che riu niti formano un tavolo ovale. Sec.XVll.
+
+839 SEGGIOLA SAVONAROLA di noce a stecche.
+
+840 POLTRONA DA RIPOSO coperta di broccatello rosso.
+
+841 QUATTRO SEGGIOLE di faggio tinte a nero con dosselli a piuoli torniti e piani impagliato.
+
+- 842 BELLA POLTRONA di noce a bracciuoli curvi e ciuffetti intagliati con piano e dossello coperti di cuoio di Cordova impresso. Sec. XVII.
+
+843 ALTRA DETTA.
+
+844 ALTRA DETTA.
+
+845 ALTRA DETTA.
+
+- BEL TAVOLO da centro in noce a leggero intaglio con gam-
+- 846 be centinate stile Luigi XIV.
+- 847
+- TAVOLO CONSOLE di noce con gambe a tortiglione e traverse. Piano a scacchiera formato da marmi diversi.
+- SERVIZIO DA SALOTTO composto di un divano; grande poltrona da riposo, detta piu piccola, detta piu piccola a
+- 848 pozzetto.
+- VETRINA PER BIBELOTS in noce smaltata verde e lumeggiata in oro; tre sportelli con cristalli molati. Mensole
+- 849 in ottone con divisioni parimenti in cristallo.
+- 850 ALTRA DETTA.
+- 851 BELLA CREDENZA in legno ferro a due sportelli scolpiti
+- ad ornati e fiori a rilievo. Arte Cinese. Sec.XIX.
+- 852
+- ANTICO TAPPETO di Smirne a disegno geometrico di va rio colore.M.2,85x 1,85.
+- 853 TAPPETO PERSIANO Afgan Bohara a grandi scomparti
+- su fodo rosso.M.4 x 2,75.
+- TAPPETO a macchina tipo Savonerie (Sciupato). Metri
+- 854 3.30x2,05.
+- 855 TAPPETO da pavimento tessuto a macchina a disegno orientale.M.2,50xI,90.
+- 856 TAPPETINO PERSIANO a scomparti geometrici su fondo
+- rosa. Tre bordi. M. 1,7o x I,20.
+- 857 DUE FREGI in ricamo di seta nera ed argento con.cornici e montature di bronzo. Arte Cinese.
+- 858 SETTE VESTITINI di divinita per cerimonie religiose. Antica Arte Cinese, cinque dei quali con cinture guarnite con specchietti.
+- 859 GRANDE COPERTA di damasco rosso con fodera di satin ed imbottitura di mollettone.
+- 860 MEZERO genovese con albero ed uccelli.
+- 861 VENTISEI BICCHIERI di varie forme in cristallo alcuni incisi alla ruota.
+- 862
+- ANTICO KAKEMONO cinese dipinto a figura di guerriero. Sec.XVI.
+- 863 COFANETTO di metallo a doppio piovente e uccello in le gno scolpito.
+- 864 DUE VASI A BOTTIGLIE in smalto cloisonne a fiori di
+- peonie su fondo celestino.
+- 865 LOTTO di quattro bicchieri in antico vetro di Murano di forma differenti e bottiglia per l'acqua di S. Nicolo (di fettosa).
+- 866 PORTACARTE da scrittoio in pelle con recipienti di cristal lo, con annessa cartella.
+- 867 LOTTO di quattro segnapunti di varie foggie ed astuccio con carte da giuoco.
+- 868
+- SCATOLINA di Sorrento di legno intarsiato ed altra portacarte difettosa e scatolina di pelle pentagonale.
+- BOTTIGLINA da cognac con montatura di argento e fodero
+- 869 da fiammiferi grandi parimenti di argento.
+- 870 CARTELLA e portacarte in cuoio impresso a piccoli ferri
+- dorati.
+## OTTAVO GIORNO DI VENDITA
+
+## SABATO 23 MAGGIO 1936-XIV
+
+Alle ore 16,30
+
+## Dal N.871 al N.988
+
+- 871 DUE BROCCHETTE di maiolica a coperta berrettina con ornati in bleu ed iscrizione. Piccolo stemma a colori. Co perchi moderni dorati.
+- 872 PIATTO DI MAIOLICA decorato in bleu ad ornati e putto.
+- Savona. Piccolo difetto.
+- 873 DUE ALBERELLI di maiolica decorati in bleu con stemmi. Imitazione dell'antico. Coperchi moderni dorati.
+- 874 UN DOLOROSO INCIDENTE.Figurina in porcellana tipo Sassonia.
+- 875 SEI PICCOLE BOLS con piatti in porcellana decorate in bleu ad ornati e figurine. Cina.
+- 876 SERVIZIO DA CAFFE in porcellana a leggera decorazione in oro. Si compone di:caffettiera,lattiera, zuccheriera e dodici tazze con piatti. Manifattura di Ginori.
+- 878 PIATTO PIANO in maiolica decorato a foglie ed animali in bleu.Deruta.
+- 877 NAPOLEONE. Figurina in porcellana con basetta di bronzo.
+- 879 DUE BOCCALETTI (uno molto difettoso), in maiolica de
+- corati in bleu. Genova e Delft.
+- 880 BORRACCIA in maiolica a forma di pesce. Abruzzo.
+- FRUTTIERA di maiolica in parte traforata, decorata in bleu
+- 881 a piccoli fiori e bastimenti. Genova Valente.
+- 882 CATINO DA BARBA in porcellana decorato a figure ed or-
+- nati lumeggiati di oro. Vecchio Giappone.
+- 883 DUE LUMI A CARCELLE in porcellana di Francia a foglie ed uccelli e ridotti a luce elettrica.
+- 884
+- BUDDA SEDUTO.Figurina in terraglia di Tokio.
+- GRANDE SCATOLA portadolci a forma ottagona in porcellana ad ornati d'oro su fondo bleu de roi a soggetto galante sul coperchio. Firmato Du Parc. Manifattura fran-
+- 885 cese.
+- 885-A IMPORTANTE SERVIZIO DA TAVOLA in cristallo di Boemia tagliato alla ruota. Si compone di quattro bottiglie (una leggermente fele), dodici bicchieri da acqua, dodici da vino, dieci da mezzo vino, nove da marsala, sette da champagne e due saliere. In tutto pezzi 54.
+- 886 TEIERA e sei tazzine con dieci piattini in porcellana della
+- Cina imitante il Giappone.
+- 887 VENTINOVE FONDINE in porcellana decorate in bleu a
+- fiori. Vecchio Giappone.
+- 888 IMPORTANTE PIATTO in porcellana decorato a scomparti di vario colore con ornati e fiori sopra un fondo di
+- color turchese a minuti ornati. Diametro m. o,63.
+- 889 ALTRO DETTO d'accompagno.
+- GRAZIOSA FIGURA DI CAVALLO in bronzo. Arte fran-
+- 890 cese.
+- 891 BOYER LENORDES. Fille de 1'air.Nee 1861. Bellissimo bronzo originale firmato.
+- 892 VASO DI BRONZO con ornati a rilievo. Arte giapponese.
+- 893 PAIO DI CANDELIERI veneziani di ottone a forma sagomata. Sec.XVII.
+- 894 BOYER V. e P. LENORDEZ. La Toucques nee a Fervaques 186o. Bronzo originale firmato.
+- 895
+- BOYER V. e LENORDEZ P. Bois Roussel. Bellissimo bronzo originale firmato.
+- 896
+- BUDDA seduto in atto di meditare. Figurina in bronzo di
+- arte Birmana.
+- 897 BUSTO IN MARMO dell'imperatore Nerone. La testa di
+- marmo bianco; il petto di marmi vari. Sec. XVII.
+- 898 LUCIO VERO. Busto in marmo d'accompagno.
+
+899 DUE FRAMMENTI di marmo; testa di ariete e mano. Scavo.
+
+- 900
+- DUE PORTASIGARETTE di argento di differenti forme.
+- 106
+- 902 GRANDE PIATTO ovale da portata in argenteria di Chri-
+- LOTTO di scatola da sigarette con rivestitura di argento, e due posacenere parimenti di argento.
+- stofle.
+- 903 ALTRO DETTO.
+- DUE PICCOLI VASI argentati ridotti a candelieri. Abat
+- 904 jours dipinti.
+- 905 LATTIERA in argento con manico coperto di canna d'India intrecciata. Peso gr. 335.
+- 906 CAFFETTIERA e piccola cremiera di elegante linea in argento con ornati baccellati a rilievo. Manifattura inglese. Manico di legno lustro ad ebano. Peso gr. 740.
+- 406
+- BELLA CAFFETTIERA in argento a forma baccellata con qualche ornato a rilievo cesellato. Stile Luigi XIV. Peso gr.665.
+- 908 DUE COPPE di argento con piede e bordo a rilievo. Stile Luigi XV. Interno dorato. Peso gr. 475.
+- 909 ture a rilievo. Due piccoli manici Peso gr. 330.
+- 910
+- ORIGINALE COPPA a due anse in argento con animali di
+- tipo arcaico incisi. Peso gr. 36o. Manifattura Santamaria di Roma.
+- ELEGANTE PORTAVASO in argento con ornati a rilievo 911 sbalzati ed anse a mascherette. Peso gr. 350.
+- DUE CANDELIERI di argento ad ornati sbalzati. Stile Lui 912
+- gi XVI. Peso dell'argento Kg. o,70o.
+- ZUPPIERINA con relativo piatto in argento con ornati cen913 tinati e manici a foglie. Stile Luigi XIV. Fabbrica Tornotti di Torino. Peso gr. 1425.
+- 914
+- HARRIS J. Madlle de Chantilly e Black Prince. Due belle incisioni a colori dagli originali di Harry Hall. Cornici di mogano e cristalli. M. o,6o x o,8o.
+- NATIONAL SPORTS. Serie di cinque bellissime incisioni 915. in rame a colori stampate su tela con cornici di rovere a
+- listelli dorati. M. o,52 x 1,05.
+- JERARD. Busto d'uomo. Robusto disegno al carbone con cor916 nice dorata a cristallo. M. o,22 x 0,14.
+- DUPUIS S. Ritratto di giovane pittrice. Disegno al conte 917 rosso e nero. Cornice e cristallo difettoso. M. o,26 x 0,17.
+- 918 MACKRELL. Godolphim Arabian-Cham. Rara incisione a colori pubblicata a Londra nel 1842. Cornice e cristallo.
+- M.0,50 x 0,60.
+- 919 HESTER. Apology. Bella incisione a colori dalloriginale di Harry Hall. Cornice e cristallo. M. o,5o x 0,59.
+- 920 HARRIS J. Interno di un Pesage. Incisione a colori pubbli cata a Londra nel 1839. Mancante dei margini e un poco
+- sciupata dall'umidita. Cornice e cristallo. M. o,41 x o,64.
+- HUNT CH. Bourton. Winner of the Great Liverpool Steepl 921 Chase. The property of William Boseley. Incisione a co lori dall'originale di Voss, sciupata dalla umidita. Cor nice e cristallo. M. o,55 x 0,74
+- 922 HARRIS J. Thormamby. Winner of the Derby Stakes at Epson 186o, the Property of James Merry. Incisione a co-
+- lori dallo originale di Harry Hall. Cornice e cristallo. Me-
+- tri0,52x0,67.
+- HUNT C. Nutwith. Incisione in rame a colori stampata a 923 Londra nel 1843. Cornice e cristallo. M. o,38 x 0,50.
+- 924
+- 925
+- ROSSI. Paesaggio. Disegno al pastello. Cornice tipo sbalzo e cristallo.
+- ID. ID. Altro detto. 926
+- 927 PIZZIRANI G.Cinque piccoli studi ad olio su tavoletta, dei quali quattro con cornicine dorate e l'altro in cornice nera.
+- 928 BERTINI L. Ritornando dalla scuola.Dipinto ad olio su tela
+- 929
+- con cornice dorata.
+- INCOGNITO. Sec. XIX. Artista tragica. Schizzo all'acquarello a bistro con qualche tocco di colore. Montatura alla inglese. M. o,46 x 0,29.
+- 930 ZAMAR R. Busto d'uomo. Pittura su tela con cornice dorata.
+- 931 ALEBARDI. Venezia. Il Palazzo Ducale. Bel dipinto ad olio
+- con cornice intagliata e dorata. M. o,7o x o,86.
+- CASCIARO GIUSEPPE. Villetta ad Ischia. Interessante pa 932 stello di finissima esecuzione. Cornice a sbalzo e cristallo. M.0,42x0,50.
+- 933
+- S. GIOVANNI. Pittura su rame a sesto ovale con cornicina originale di legno intagliato e dorato.
+- 934
+- S. GIOVANNI EVANGELISTA. Pittura ad olio su rame
+- con cornice simile alla precedente.
+- PAOLO VERONESE (Copia da). Cleopatra. Pittura su por935
+- cellana con cornicina dorata.M. o,22 x o,18.
+- 936 SCUOLA FRANCESE. Sec.XVIIl. La Pastorella. Bozzetto alla tempera con cornice di noce e cristallo. M. o,2oxo,30.
+- SCUOLA FIAMMINGA. Sec. XVII. Ritratto di personaggio 937
+- HARRIS J. Due soggetti di corse incisi a colori dagli originali di Alkem. Cornici e cristalli. M. o,34 x 0,44.
+- finemente dipinto su rame. Cornicina dorata. M. o,29 per 0,21.
+- TIEPOLO (Scuola di). S. Barbara. Bozzetto ad olio su tavola 938 Cornice dorata.M. o,33 x 0,22.
+- BIGARI VITT. MAR. Atrio di un grande palazzo di ele939 gante linea architettonica e figurine. Importante dipinto a tempera su tela a sesto ovale con cornice originale do-
+- rata con angoli graffti. M. 1,27 x o.97.
+- 940
+- ID. ID.Altro d’accompagno.
+- BIGARI VITT. MAR. Interno di un cortile di forma archi tettonica di elegante linea decorativa. Bel dipinto a tempera su tela a sesto ovale con cornice originale dorata ad angoli graffti. (Leggermente danneggiato dall'acqua). Me-
+- 941 tri 1,26 x 0,97.
+- ID. ID. Altro d'accompagno a soggetto rappresentante una 942 fabbrica d'armi.
+- BASSO TAVOLO in ebano rosa disposto a spina. 943
+- 944 PICCOLO TAVOLO di noce tinta a mogano sul quale una
+- lampada da studio di metallo argentato.
+- 945 DUE ETAGERES di legno dipinto ed in parte dorato.
+- PLACCA da parete di legno intagliato e dorato con luce di specchio ovale a tre bracci ridotti a luce elettrica. Luigi
+- 946 XIV.
+- 947
+- ALTRA DETTA.
+- DUE STIPETTI giapponesi in legno con montature di me948 tallo.
+- 949 CORNICE di noce lustra ad ebano contenente una luce di
+- specchio molata e dipinta a vaso di fiori.
+- DUE BELLE SEGGIOLE in legno ferro,in parte intagliate 950 a disegno Cippendale. Arte Cinese.
+- DUE DETTE. 951
+- 952 DUE DETTE.
+- 953
+- 954
+- OROLOGIO a cassettone di legno tinto ad ebano con quadrante di ferro e bronzo dorato. Epoca Luigi XIV.
+- LAVANDINO a conchiglia di maiolica di Cantagalli decorata in bleu imitante l'antico (difettoso). Annessa base di legno intagliato ed in parte dipinto.
+- PARAVENTO a due fogli in seta ricamata a guide di fiori 955 ed uccelli. Arte cinese.
+- GRANDE CACHEPOT a coperta marmorizzata in maiolica a quattro anse. Sottoposta base di noce riccamente
+- 956 intagliata.Fodera di teletta.
+- PICCOLA CASSA DA CORREDO di noce con leggero in957 taglio. Arte genovese del secolo XVII.
+- 958 gero intaglio. Sec. XVIII.
+- CREDENZINA di noce a due sportelli ed un cassetto a leg-
+- PICCOLO CANTERANO di noce a tre cassetti con mani
+- 959 glie di bronzo. Sec. XVIII.
+- 960
+- PICCOLO TAVOLO da giuoco con piano a cerniera e gambe centinate. Manifattura inglese.
+- TAVOLO DA GIUOCO in noce con piano pieghevole ed
+- 961 intarsiato. Epoca Luigi XVI.
+- 962
+- POLTRONA DA RIPOSO coperta di pelle rossa. (Alquanto sciupata).
+- 963 SEI SEGGIOLE alla servitora di noce con piani e dosselli ri coperti di pelle. Stile Luigi XIV.
+- 964
+- QUATTRO DETTE.
+- 965 TAVOLO di noce con gambe a lira e traverse di ferro.
+- 966 BELLISSIMA COMMODE-SCRITTOIO intarsiata a mo-
+- tivi ornamentali in legno cedro. Tre cassetti piano a cerniera e nell'interno tiretti.
+- 967
+- SCRIVANIA di mogano a nove cassetti e tavoletta scorrevole.
+- ELEGANTE SERVIZIO DA SALOTTO di noce in parte 968
+- 969
+- dorata e coperto di damasco verdino. Si compone di divanetto a due posti, chaise longue, con due cuscini e bassa poltroncina.
+- POLTRONA di noce con gambe centinate coperta della medesima stoffa.
+- 970 ARMADIO di mogano a due sportelli di manifattura inglese.
+- LAMPADARIO in bronzo con saliscendi a bilico e abat-jour 971
+- di seta verde. Manifattura inglese.
+- LAMPADARIO a sospensione in ottone a nove bracci per 972
+- luce elettrica e luce centrale. Abat-jour di seta gialla.
+- 973
+- GRANDE TAPPETO tessuto a macchina a disegno persiano.M.3.45x 2.50.
+- 974
+- ANTICO TAPPETO PERSIANO Afgan Bokara a scomparti su fondo rosso. M. 2,75 x o,75.
+- TAPPETINO da preghiera tipo Yordes di delicata intona975
+- zione di colore.M.1,9o x I,20.
+- 946 GRANDE TAPPETO a macchina a disegno di Afgan Bokara.M.3，75 x 2,80.
+- 977 GRAZIOSO TAPPETINO Keshan a minuto disegno. Or nati su fondo bleu. M. 1,1o x o,95. Rinforzato con fo dera.
+- SCIALLE indiano ricamato di color arancione a minuto di 846 segno.
+- IMPORTANTE PANNEAU cinese in raso rosso con iscri 979 zioni in oro e larga bordura ricamata in seta ad onde,
+- gruppi di fiori, figure e simboli. Sec. XVII.
+- 980
+- DUE FAZZOLETTI e piccolo centro con merletti punto di Milano e punto di Bruxelles.
+- 981 VASO in fine cristallo di Baccarat tagliato alla ruota.
+- 982 CROCEFISSO di avorio scolpito con croce di noce lustra ad ebano.
+- BOTTIGLIA a corpo schiacciato in vetro di Venezia ta-
+- 983 gliato alla ruota.
+- 984 OROLOGIO da tavolo con astuccio di pelle.
+- argento.
+- 985 SCATOLA da sigarette in tuia con coperchio placcato di
+- 986 PIPETTA DA OPIO, portafiammiferi in argento a forma di
+- 987 SCATOLA da sigarette in cristallo con coperchio di argento
+- Budda ed altro in metallo dorato a forma di porcellino.
+- con stemma marchionale.
+- CALENDARIO PERPETUO con annesso barometro in mo gano e metallo, e bugia in argento con annesso spegni-
+- 988 toio.
+## NONO GIORNO DI VENDITA
+
+LUNEDI25MAGGIO 1936-XIV
+
+alle ore 16,30
+
+Dal N.989 al N. 1117
+
+- 989 TRE ALBERELLI in maiolica decorati a minuti ornati iscrizioni gotiche e piccolo stemma nell'alto. Faenza.
+- 990
+- TAZZA E PIATTO in porcellana di Napoli decorata in
+- GRAZIOSA LAMPADA da salotto formata da gruppo in 991 bisquit bianco a soggetto amoroao con abat-jour di seta finemente ricamato.
+- 992 PICCOLA POTICHE in porcellana decorata ad ornati e fiori su fondo rosso e medaglioni con figure. Giappone. (Coperchio restaurato).
+- VASO in porcellana decorato a figurine di dignitari. Ma-
+- 993 nifattura di Tokio.
+- SERVIZIO DA THE in porcellana decorata a gruppi di 994 fiori ed uccelli in oro e colori. Tejera, lattiera, zuccheriera e sei tazze con piatti. Giappone. (Zuccheriera restaurata).
+- LAMPADA da scrittoio formato da un vaso di porcellana 995 dela Cina decorato a fiori, ed uccelli montato di metallo
+- dorato e con abat-jour dipinto.
+- 996
+- lana craquele con basette di legno di tek.
+- GRAZIOSA COPPETTA in porcellana craquele con pesci e 997 nottole in bleu. Cina.
+- PROFUMIERA in porcellana bianco di latte con coperchio 998
+- in legno di tek. Cina.
+- ORIGINALE VASETTO in gres a forma ovoide finemen999
+- te craquele, con albero a rilievo. Cina.
+- VASETTO in porcellana decorata a gruppi di fiori a co 1000 lori. Giappone.
+- ZUPPIERA con piatto e coperchio in bisquit bianco, con 1001
+- tralci di uva a rilievo. Manifattura di Napoli.
+- PUTTINO CORICATO che ha nelle mani una rosa. Fi1002
+- gurina in bisquit bianco di Sevres.
+- GRANDE CACHEPOT in porcellana decorato a minuto disegno di foglie e fiori in bleu. Cina. (Leggermente di fettoso).
+- LA TAZZA DI CAFFE. Gruppo in porcellana a colori di manifattura francese.
+- LA VENERE DEL CALZARE.Figurina patinata in bron-
+- zo. Copia dall'antico.
+- 1003
+- 1004
+- 1005
+- 1006 GEMITO (Copia da). L'acquaiolo. Bustino in bronzo.
+- 1007 GEMITO (Copia da). La spigaiola. Bustino in bronzo.
+- 1008
+- 1009 CASTORE E POLLUCE. Gruppetto di bronzo su base di rosso. Imitazione dell'antico,
+- 1010
+- ANTICO PIATTO zaratino in bronzo decorato a baccelli vuoti ed ornati a rilievo.
+- I01I PAIO DI CANDELIERI in bronzo cedrino con ornati a rilievo. Impero.
+- 1012
+- 1013
+- PICCOLO OROLOGIO ad occhio di bue in boule con ornati di bronzo. Stile Luigi XV.
+- BOUILLOIRE in metallo nichelato con annesso bollitore elettrico.
+- 1014 ELEGANTE PIATTO da portata a forma centinata di metallo placcato di argento.
+- 1015
+- ALTRO DETTO.
+- 1016 ELEGANTE VASSOIO con pieducci in metallo placcato di argento ad ornati graffti. Manifattura di Christofe.
+- PORTAVASO in metallo placcato di argento. Manifattura
+- 1017 Mappin Webb.
+- LEGUMIERA a' coperchio a forma ovale con ornati e bordi a rilievo e pomo sul coperchio smontabile. Manifattura
+- 1018 inglese.
+- 1019
+- PICCOLA CAFFETTIERA in argento di elegante forma. Manifattura inglese. Peso gr. 200.
+- 1020 CUCCHIAIONE da confetti spatola da burro forchettina gelato in argento, manifattura inglese.
+- 1021
+- e cucchiaino da Peso gr. 170.
+- DUE SPOLVERINI da sale e pepe in argento a forma di di contadini in costume olandese. Peso gr. 325.
+- DUE DETTI. Peso gr. 320. 1022
+- 1023 SCALDAVIVANDE con coperchio a forma ovale di mia-
+- 1024
+- nifattura inglese Mappin Webb.
+- ALTRO DETTO a forma circolare con sottoposto reci piente per acqua calda.
+- 1025 BELLA COPPA da premio in argento a due anse. Manifat tura inglese. Peso gr. 425.
+- 1026 TRE PIATTI in argento a bollo pontificio. Peso gr. 97o.
+- 1027 DODICI COLTELLI con manici di avorio e dodici forchet-
+- tine in argenteria. Manifattura Mappin Webb.
+- SERVIZIO DA TAVOLA in argenteria di Christofe.Si compone di: sette cucchiai, dodici forchette, dodici dette piu piccole, dodici coltelli con manico di avorio e dieci
+- 1028 detti piu piccoli.
+- 1029 HARRIS J. Monarque. Bella incisione a colori dall'originale di Hall H. Cornice e cristallo. M. o,64 x o,83.
+- 1030 BUZZARD by WOODPECKER. Rara incisione a fumo pubblicata a Londra nel 1795. Cornice di legno naturale
+- e cristallo. M. o,29 x 0,43.
+- RANDOM C. Selim. Fotoincisione da una stampa a fumo. 1031 Cornice e cristallo. M. o,25 x 0,30.
+- 1032 HUNT CH. Nancy. The property of Mr. Martinson of Hull. Bella incisione a colori dall'originale di Harry Hall. Cornice di legno naturale e cristallo. M. o,62 x o.73.
+- SMITH CN. St. Lawrence. Bella incisione a colori dall'o-
+- 1033 riginale di Bretland. M. o,48 x 0,58.
+- HARRIS j. The mail change. Incisione in rame a colori
+- 1034 dall'originale di Harring. M. o,54 x 0,73.
+- 1035 HUNT et SON. Starke. Bella incisione del medesimo artista. Cornice e cristallo. M. o,62 x o,84.
+- 1036
+- SMITH JR. Return from marcket. Incisione a colori dal1'originale di Morland. Cornice di mogano e cristallo. Me tri o.53 x 0,67.
+- 1037 SIMON JP. Ni l'un ni l'autre. Incisione a colori con margine ed iscrizione riportati a penna. M. o,46 x 0,34.
+- 1038 GOSTIAUX. Le village effrayé. Litografia a colori con cornice di mogano e cristallo. M. o,45 x 0,63.
+- TEISSIER S. West-Australiam. Litografia a colori dall'ori 1039 ginale di Pichat. Cornice e cristallo. M. o,43 x o,51.
+- PIPPO RIZZO. Veduta di paesaggio con fabbricato. Pittura 1040 ad olio; cornice.
+- PIZZIRANI G. Paesaggio. Grazioso dipinto ad olio su ta-
+- 1041 voletta. Cornice dorata.M. o,24 x 0,34
+- 1042 INCOGNITO. ll suonatore di cornamusa. Grazioso acquarello con cornice dorata.
+- 1043 CLARK H. Cavalli di razza Hackny. Due belle pitture ad olio su tela con cornici di noce e cristalli. Metri 0,28 x 0,38.
+- 1044 FONTANESI A. Strada campestre. Importante dipinto ad olio su tela. Firmato con sigla. Cornice dorata e cristallo. M. 0,31 x 0,20.
+- 1045 PANERAI (Attr. a): Cavalli in pastura. Importante pittura ad olio. Cornice e mogano e cristallo. M. o.78 x o,62.
+- 1046 LONGO MANCINI FRANCESCO. La Tentatrice. Piccolo studio ad olio su tela con cornicina dorata. Metri 0,19 x 0,14.
+- 1047 LA VERGINE ADDOLORATA. Pittura ad olio su tela di scuola bolognese a sesto ovale. Cornice di legno dorato a raggiera.
+- 1048 SCUOLA GRECO-RUSSA.Il Redentore con Angeli. Pit-
+- tura ad olio su tavola alquanto sciupata.
+- 1049 SC. VENEZIANA. Sec. XVII. Banchetto di caccia.Fine
+- pittura ad olio su tela con cornice dorata. M. o,33 x 0,45.
+- 1050 SCUOLA FIAMMINGA. Sec. XVII. Interno di unoste
+- ria. Antica pittura ad olio con cornice. M. o,43 x o,6o.
+- 105!
+- RENI GUIDO (Attr. a). La Vergine in atto di preghiera. Bel dipinto ad olio su tela. Ricca cornice di legno intagliato e dorato. M. o,72 x 0,58.
+- BIGARI VITT. MAR. Architetture fantasiose. Tempera 1052
+- con cornice dorata. M. 1,1o x o,66.
+- ID. ID. Altro detto d’accompagno. M. 1,1o x 0,90.
+- 1053
+- 1054 BASE PORTAVASO di legno intagliato e dorato. Stile Luigi XVI.
+- 1055 TAVOLA DA THE circolare in legno di tek con bordo
+- a leggero intaglio. Annessa base. Arte Cinese.
+- 6PICCOLA FLORIERA in boule con montatura di bronzo 1056 dorato. Manifattura francese.
+- 1057
+- GRANDE OROLOGIO a cassettone di noce tinta ad ebano con ricca guarnizione di bronzi dorati; movimento in bronzo firmato: Giuseppe Campana Inventore Roma. Secolo XVII.
+- 1058 PANCHETTA di noce a lati sporgenti torniti. Piano co-
+- perto di stoffa a grandi fiori.
+- BASE CIRCOLARE in legno di tek intagliato con piano 1059 di marmo colorato. Cina. Fodera.
+- 106c TRE ANTICHE POLTRONE di legno laccato perla ed in parte dorato. Dosselli e piano coperti di stoffa a righe.
+- Epoca Luigi. XVi.
+- PICCOLO TAVOLO a forma circolare di legno intagliato
+- 1061 e dorato. Stile Luigi XVI.Piano di alabastro.
+- 1062 GRAZIOSO PARAVENTO a tre anse di legno intagliato e dorato. Stile Luigi XVI. I pannelli coperti di brocca-
+- tello e superiormente luci ovali molate.
+- 1063
+- DIVANETTO di noce con spalliera a giorno e piano di velluto rosso.
+- 1064 DUE SEGGIOLE alla savonarola simili.
+- 1065 TAVOLO OVALE in legno di cedro con piccole guarni-
+- zioni di bronzo. Stile Luigi XVI.
+- 1066 POLTRONA DA RIPOSO di legno intagliato e laccato bianco con lumeggiature in oro, coperta di broccatello a
+- piuma, e spalliera e cremagliera. Fodere di cretonne.
+- 1067 PICCOLO TAVOLO da centro in mogano intarziato di le-
+- gno rosa con piede a tripode.
+- CREDENZINA Veneziana a due sportelli,in legno lac
+- 1068 cato con pannelli dipinti a paesaggi.
+- 1069 POLTRONA da riposo intieramente imbottita e ricoperta di damasco rosso. Fodera di cretonne.
+- 1070 COMODINO di legno laccato e dipinto ad ornati Arte Veneziana,
+- 1071 POLTRONA di noce a pozzetto imballata e coperta di broccatello celeste a fiori.
+- 1072
+- CASSA NUZIALE di noce a leggero intaglio. ll prospetto con stemma,
+- 1073
+- SCRIVANIA in noce con ornati intarsiati di legno cedro e palissandro. Cinque cassetti. Epoca Luigi XVI.
+- 1074 GRANDE DIVANO e poltrona in mogano in parte inta gliato a volute. Piano e dossello coperto di lampasso a fiori. Epoca Luigi Filippo.
+- 1075 GRANDE CREDENZA di noce in parte intagliata a tre cassetti e tre sportelli a colonnine scanalate e capitelli.
+- Rinascimento.
+- 1076 CASSAPANCA da ingresso in noce scolpita ad ornati e
+- stemma.
+- LAMPADA da tavolo con corpo in porcellana della Cina decorato a figurine ed ornati a colori. Annesso abat-jour
+- 1077 a decorazione analoga.
+- 1078 GRANDE LAMPADARIO in ferro battuto a dodici lam-
+- pade in cristallo tagliato alla ruota.
+- LAMPADARIO di bronzo dorato di elegante sagoma a sei bracci per luce elettrica con tulipani di cristallo.
+- 1079
+- 1080 ANTICO TAPPETO PERSIANO a medaglione centrale su fondo rosso, Bordo in bleu (sciupato). M. I,4o x I
+- 1081 TAPPETO PERSIANO Royal Bokhara a scomparti su
+- fondo rosso. M. 1,6o x 0,85.
+- chiara intonazione. M. 1,95 x 1,40.
+- 1083 PICCOLO SCENDILETTO persiano a disegno geometrico su: fondo rosso. M. o,7o x 0,60.
+- 1084 SEI TENDE stores di maglione a vari disegni
+- 1085 GRANDE COPERTA di cretonne operato a gruppi di
+- fiori. Stile Luigi XVl. Imbottitura e fodera di satin.
+- 1086 TRE MEZZE TENDE di filo a rete e scaldapiedi di feltro con pelo.
+- 1087 COPERTURA di divano in ciniglia a disegno orientale di vario colore e tenda parimenti di ciniglia di colore bleu
+- a grande bordura.
+- 1088 LOTTO di 33 monete papali diverse, alcune inglesi ed altre
+- giapponesi, in bronzo.
+- LOTTO di centoventi grazie di Ferdinando II, una rupia indiana con ritratto di Edoardo Vll,un marco con i ri tratti di Guglielmo ed Augusta di Prussia,e moneta di
+- 1089 argento della repubblica messicana.
+- 1090 SCUODO DI LEONE XIl portante la data 1825 e pezzo da
+- cinque franchi di Luigi XVIIl.
+- 1091 LOTTO di tre medaglie di Leone XIll e lira di argento diPio IX con la data 1867.
+- LOTTO di cinque piccole monete di argento inglesi, quattro dette di Carlo Ill e Carlo IV e venti centesimi di ar-
+- 1092 gento di Vittorio Emanuele.
+- 1093 LOTTO di due monete di argento cinesi e piccola moneta di argento di Siracusa.
+- 1094 MARENGO D'ORO portante la data 1812.Nel dritto ri tratto dell'Imperatore e l'iscrizione (Napoleon Empereur . Firmato Droz.
+- 1095 SERIE DI CINQUE SCUDI in argento di Napoleone Imperatore portanti le date 181o,1811 (due esemplari con variante), 1812 ed anno IX.
+- 1096 TRE SCUDI di argento di Napoleone Imperatore, Re d'Italia con le date 18o8, 1811, 1812.
+- peratore per l'anno XIll.
+- 1097 SCUDO DI ARGENTO fior di conio di Napoleone Im-
+1098. SCUDO DI ARGENTO di Carlo Felice Re di Sardegna portante la data 1830.
+- 1099
+- portante la data 1850.
+- ANTICA VENTOLA in ferro, laccato a figure di digni
+- 1100 tare su fondo di paese.
+- I101
+- SEI PICCOLE COPPE con piatti in rame smaltato a guide
+- BELLA BOTTIGLINA da tabacco in cristallo di rocca a due colori. L'esterno a guide di fiori ed uccelli. Cina.
+- 1102 di fiori.
+- 1103 TRE DETTE.
+- SEI FIORI di crisantemi e di loto in vetro colorato. Arte
+- 1104 Cinese.
+- 1105
+- LOTTO di ventiquattro piccoli piattini ed una bol in laca verde e rosso. Cina.
+- 1106
+- Montatura di bronzo. (Piccolo difetto).
+- 1107 i quattro bottiglie di cristallo con turi martel lati, sette bicchieri da acqua e dodici da vino in cristallo inciso, quattordici coppe da champagne e sei dette di
+- 1108
+- LOTTO di forma differente.
+- LOTTO di sei bocali di cristallo di differenti forme e bottiglia da acqua e bottiglia da vino.
+- 1109 PENDAGLIO in cristallo di rocca a gruppi di frutta. Arte Cinese.
+- 1110 PICCOLO ELEFANTE di avorio sopra una base di legno
+- di tek.
+- IIII
+- LOTTO di due bicchieri e due salierine in cristallo di Boemia decorati in oro a differenti forme.
+- LOTTO di campanello in porcellana a figura di giovanetta, 1112 di un portafiammiferi in argento e piccolo Budda in porcellana.
+- 1113
+- POSACENERE in alabastro con figura di tigre in porcellana.
+- 1114 VASO IN CRISTALLO di baccarat tagliato alla ruota.
+- BELLISSIMO SERVIZIO in lacca dorata con fiori ed uc celli a colori. Si compone di: coppa grande con piatto e
+- 1115 cucchiaio,11 coppe e dodici piu piccole.
+- 1116 BOTTIGLIA da marsala in fine cristallo di Baccarat con
+- montatura di argento.
+- 1117 DUE SCATOLE giapponesi con foderi di lacca ed impu-
+- gnatura in pelle di coccodrillo, metallo e stoffa.
+## DECIMO GIORNO DI VENDITA
+
+## MARTEDI' 26MAGGIO 1936-XIV
+
+## Alle ore 16,30
+
+## Dal N.1118al N.1238
+
+- GRANDE COPPA in maiolica decorata a gruppi di fiori. Fabbrica di Nove.
+- TAZZA E PIATTO in porcellana decorati a gruppi di
+- 1118
+- 1119 fiori e figurine. Cina.
+- 1120
+- DODICI PIATTINI a cestello in porcellana a bordi trafo
+- 1121
+- rati a gruppi di fiori a colori. Manifattura Inglese
+- DUE VASI in maiolica decorata a fiorellini. Genova. Uno fele.
+- 1122
+- GATTINO che giuoca con una palla. Porcellana di Copenaghen.
+- 1123.
+- GATTO che fa la festa. Porcellana della reale fabbrica di Copenaghen.
+- I124
+- DODICI PIATTI da dessert in fine porcellana a disegno cinese in rosso bleu ed oro di manifattura Royal Crown Derby di Londra.
+- 1125
+- FIGURA DI DONNA in costume medioevale. Porcellana a colori di manifattura tedesca.
+- 1126 FIGURINA di danzatrice in porcellana con vestiti dorati. Dresda.
+- 1127
+- SCATOLA da dolci in porcellana a forma ovale ad ornati d'oro su fondo bleu de roi. Manifattura francese.
+- FONDINA in maiolica imitante la Cina (Milano) e frut-
+- 1128 tiera in terraglia bianca a cestello. Napoli.
+- 1129 CINQUE FIGURINE in porcellana a soggetti diversi:
+- Dresda portante la marca di Napoli e di Frankental.
+- 1130
+- ZUPPIERINA con coperchi in porcellana, decorata a gruppi di fiori e simboli della longevita. Antica Cina.
+- 1131
+- 1132
+- 1133
+- 1134
+- VASETTO DA THE a forma ovoide decorato in bleu a figure grottesche. Cina. Marca Imperiale.
+- ALTRO SIMILE decorato in bleu con Divinita.
+- PIATTO in porcellana ad originale decorazione di zone di vario colore a minuti ornati su fondo bleu. Cina.
+- LA FUGA DI POMPEI. Gruppetto in bisquit di Sevres.
+- 1135 PORTAVASO in porcellana decorato in bleu a gruppi di
+- fiori con bordo a minuti ornati. Cina.
+- MORANI V. Tempo piovoso. Figurina in bronzo a cera
+- 1136 perduta.
+- 1137
+- GEMITO (Copia da). L'acquaiolo. Bustino in bronzo.
+- 1138 IL BACIO. Piccola riproduzione in bronzo finemente cesellata.Base di marmo nero.
+- 1139 LA VENERE di Castelporziano. Piccola figurina in bronzo
+- copia dall'antico. Basetta in verde antico.
+- 1140 CANOVA (Copia da). Gladiatore combattente. Piccola riproduzione in bronzo dall'antico.
+- 1141
+- FONTANA G. La Sartina. Figurina in bronzo.
+- LE TRE GRAZIE. Piccola riproduzione in bronzo dall'ori 1142
+- ginale di Canova.
+- 1143 OROLOGIO e due candelieri in bronzo decorato a putti e fiori. Arte francese.
+- 1144 SPATOLA raccoglibriciole in metallo placcato in argento e manico d'avorio e coppa parimenti in metallo argentato.
+- COPPA da premio in argento di elegante linea. Manifat-
+- 1145 tura inglese. Peso gr. 275.
+- 1146 COUVETTE a coperchio in metallo placcato di argento di manifattura inglese. Anse movibili.
+- 1147 LEGUMIERA in argenteria a forma ovale di manifattura inglese Mappin Webb.
+- 1148 Manifattura Santamaria di Roma.
+- 1149
+- 1150
+- LEGUMIERA a coperchio in metallo placcato di argento.
+- 1151
+- 1152 SEI PORTASALVIETTE di argento con piccoli fiori a ri lievo. Peso gr. 200.
+- LOTTO di otto coltelli con manici di avorio e sei detti in metallo argentato. Manifattura inglese.
+- 1153 SPOLVERINQ da zucchero in argento a forma di vaso. Manifattura inglese. Ornati incisi a rilievo. Peso gr. 110.
+- na d'India intrecciata. Manifattura inglese. Peso gr. 279.
+- 1154 PICCOLO BOCALE in argento con manico coperto di can-
+- volpe. Quattro a ferro di cavallo e due a testa di cane e
+- 1155 di volpe. Peso gr. 160.
+- 1156
+- 1157
+- 1158 ELEGANTE TEIERA in argento di forma semplice leg germente centinata. Manifattura inglese. Peso gr. 290.
+- FRUTTIERA di argento sbalzato con coppa in cristallo. Stile Luigi XV.
+- DUE BOTTIGLIE di cristallo tagliato alla ruota a paesaggi e fiori Montatura di argento.
+- 1159 LOTTO di mestolo, cucchiaione, cucchiaio da salsa, cucchiaio da pesce e posata da insalata, la maggior parte in argenteria di Christofe.
+- QUATTRO TRICROMIE a colori a soggetti umoristici con
+- 1160 cornici e cristalli.
+- 1161
+- EMMA. Incisione a colori dalloriginale di Romney. Corni ce e cristallo. M. o,48 x 0,38.
+- TEIERA con filtro in metallo placcato di argento. Decorazione a doppio perle.
+- 1162 JERACE V.L. Sogno di giovinezza. Importante disegno alla sanguina facente parte di una serie di questo artista che ebbe un grandissimo successo. Cornice di noce e cristallo.M.0,52x 0,71.
+- STAAL G. La dama addolorata. Fine disegno al conte lievemente toccata di colore. Montatura all'inglese. Metri
+- 1163 0,45x0,30.
+- 1164
+- GOSTIAUX. Una bonne farce. Litografia a colori con cornice e cristallo. M. o,55 x 0,63.
+- 1165 WILLY FILIUS. Venere ed Amore. Disegno alla penna firmato e datato 18o8. Cornice e cristallo. M. o,38xo,30.
+- 1166 ALKEM H. Campo di corse. Incisione a colori con piccola cornice.
+- 1167
+- DEMETRIO (cavallo appartenuto al Principe Doria Pamphili). Fotoincisione a colori dalloriginale di De Blase. M.0,52x0.59.
+- 1168 ARLES J. The hunting stud. Incisione a colori dallorigi nale di Harring con cornice e cristallo. M. o,54 x o,73.
+- 1169 DUE SOGGETTI di caccia alla volpe incisi da Esther dagli originali di Douglas. Cornici e cristalli. M. o,62xo,92.
+- HARRIS e SUMMERS. Ventre saint Gris e Gladiateur. 1170 Due belle incisioni in rame a colori dagli originali di Harry Hall. Cornici di mogano e cristalli M. o,6o per
+- 1171
+- 0,80.
+- ALKELM H. Death at a Wedding. Curiosa incisione a co lori pubblicata a Londra. Cornice e cristallo. Un poco sciupata.
+- 1172 DORIGNY GALUS. Quattro grandi incisioni rappresentanti soggetti biblici dagli originali di Raffaello. Cornici dorate e cristalli.
+- 1173 PODESTI FRANCESCO. Ritratto di gentildonna. Pittura ad olio su tela. Cornice dorata. Firmato. M. o,62 x o,50.
+- 1174 MACCHIATI SERAFINO. Notte angosciosa. Schizzo alla sepia macchiato di biacca. Firmato e datato: Paris 1902. Cornice e cristallo. M. o,30 x o,22.
+- 1175
+- RITRATTO di gentiluomo a cavallo. Fine dipinto ad acquarello con cornice ovale di pelle.
+- 1176 Cornice alla S. Rosa dorata. M. 1 x 1,25.
+- 1177
+- 1178 SURDI LUIGI. Campagna Umbra. Pittura ad olio su tela. Cornice dorata. M. o,77 x 0,90.
+- 1179
+- SURDI LUIGI. Natura morta. Bella pittura ad olio su tela.
+- ID. ID. Frutta. Quadro d’accompagno al precedente.
+- L'ANNUNCIAZIONE. Importante pittura veneziana sottovetro con cornice di legno intagliata e dorata. Metri 0,23x0,19.
+- 1180 PETRELLA DA BOLOGNA. Vasi di fiori. Due pitture ad olio su tela in cornici tipo sbalzo. M. o,31 x 0,42.
+- 1181 SCUOLA NAPOLETANA. Sec. XVII. Un concerto. Di dipinto ad olio su tela un poco danneggiato dal calore. Cornice Salvator Rosa intagliata e dorata. M. o,47 x o,63.
+- 1182
+- ID. ID. Soggetto famigliare. Quadro d'accompagno al precedente ma di migliore conservazione.
+- BEL PALIOTTO in cuoio impresso di Cordova a grandi
+- 1183 fiori ed ornati e roccailels. Epoca Luigi XIV.
+- 1184 SCUOLA VENEZIANA. L'Angelo che conforta S. Pietro in carcere. Antico pastello, con cornice dorata. M. o,46
+- per0,50.
+- 1185 ID. ID. S. Francesco che si fa medicare le piaghe delle stimmate. Pastello d'accompagno.
+- 1186 PICCOLO TAVOLO bolognese di noce, tornito.
+- 1187 DUE ELEGANTI POLTRONCINE ad angolo in legno ferro con dosello a leggero intaglio. Arte Cinese. Annessi cuscini di seta rossa.
+- 1188
+- BASE di legno intagliato e dorato a due piani, in quello
+- 1189
+- superiore il marmo incassato. Stile Luigi XVI. Fodera.
+- SPECCHIO con larga cornice di legno dorato a rilievi.
+- 1190 TOLETTINA da tavolo di noce intarsiata in legno cedro. Luce a bilico. Sec. XVIII.
+- 1191
+- TAVOLO DA THE in mogano con annesso vassoio. Lati apribili. Con cristalli.
+- 1192 ALTO TORCERE in ferro battuto a cinque lampade ridotto a luce elettrica.
+- 1193 BASE PORTABUSTI di legno laccato ad ornati a rilievo dorati. Arte Veneziana.
+- 1194 PARAVENTO a quattro fogli di legno intagliato e dorato
+- con pannelli di stoffa a fiori e cristalli.
+- 1195 DIVANO di legno intagliato e laccato colore avorio. Piano
+- con cuscini e dossello imbottito. Manifattura Francese.
+- 1196 DUE POLTRONE d''accompagno.
+- POL TRONA di legno intagliato e dorato intieramente can1197 nee e coperta di stoffa operata. Fodera. Stile Luigi XVI.
+- 1198 CONSOLE di legno intagliato e dorato a mecca. Epoca
+- Luigi XIV. Piano a finto marmo.
+- SPECCHIERA con ricca cornice e cimasa intagliata a vo1199 lute; doratura a mecca.
+- 1200 DIVANO intieramente imbottito ricoperto di marocchino
+- rosso. Manifattura Inglese. Lato allungabile. Fodera.
+- 1201
+- POLTRONA BERGERE di legno finemente intagliato e laccato colore avorio; cuscino di lana. Manifattura Francese. Fodera.
+- COMODINA di noce con intarsi in legno cedro; due cassetti. 1202 Luigi XV.
+- 1203
+- ALTRA DETTA a due sporteli.
+- POLTRONA da riposo imbottita e coperta di stoffa gial1204 letta operata. Fodera di cretonne.
+- CREDENZA di noce a due sportelli e due cassetti con base 1205 a mensole. Arte Toscana.
+- ANTICA COMMODE in noce di Calabria con intarsio di legno cedro. Due cassetti. Maniglie e bocchette di bronzo.
+- 1206 Epoca Luigi XVI.
+- 1208
+- 1207 broccatelio a grandi fiori; annessi cuscini.
+- 1209 LAMPADARIO in bronzo dorato a sei bracci, con ricca decorazione di prismi.
+- 1210
+- 1211 DUE DETTI.
+- GRANDE DIVANO e due poltrone imbottite e coperte di
+- ANTICO TRUMEAU di legno laccato con luci di specchi. Epoca Luigi XVI.
+- DUE APPLIQUES a due bracci d'accompagno.
+- ANTICO TAPPETO PERSIANO Bokhara a scomparti
+- 1213 GRAZIOSO TAPPETO persiano Kazak a disegno geometrico su fondo rosso. M. 1,8o x 1,10.
+- dezze per selle di Cammelli.
+- 1215 DUE DETTI,ridotti a cuscini
+- 1216 DUE DETTI.
+- 1217
+- QUATTRO CUSCINI coperti di damasco e velluto contratagliato e seta.
+- 1218
+- 1219 TENDA a due partite in tulle grezzo con ricamo rinascimento e store simile.
+- 1220
+- 1221
+- 1222
+- BOTTIGLINA da tabacco in pietra dura con montatura in bronzo dorato e plasme di pietra dura. Cina.
+- 1223 dreperla ed oro.
+- QUATITRO TELI di tende di varie grandezze in tela da barca a grandi righe celesti.
+- CINQUE TENDE da finestra in tela da barca color mar rone con bordure e frangia bianche.
+- IL DIO GANESCIA e l'infanzia del Dio Ganescia. Due gruppetti antichi di pietra colorata. Arte Birmana.
+- PORTASIGARETTE in tartaruga con piccoli ornati di ma-
+- 1212 geometrici su fondo rosso. M. 1,8o x 1.
+- 1214
+- 1224 ORIGINALE CANDELIERE indiano di legno laccato a
+- gruppi di fiori.
+- ANTICA VENTOLA in canna d'india intrecciata, con 1225
+- manico di avorio ed applicazione di figurine dipinte. Ci na XVIII.
+- 1226 GOFFARELLI TULLIO. Figura bacchica. Robusta model lazione in terracotta.
+- 1227 DUE COPPETTE tibetane di legno laccato con ornati di
+- metallo e paste vitree.
+- LOTTO di dieci pesciolini in corniola intagliati e graffiti.
+- 1228 Arte Cinese.
+- DODICI BICCHIERI per vino del Reno in cristallo di Bac carat tagliato alla ruota in verde e rosso, piu sei detti di
+- 1229 vetro liscio parimenti rossi e verdi.
+- VASO DA FIORI in vetro di Murano celeste con anse a
+- 1230 delfini.
+- 1231
+- ELEFANTE in maiolica a coperta rossa.
+- 1232 VEDUTA DI PONTE NOMENTANO. Incisione in ra me dalloriginale di Rossini. Cornice.
+- 1233 L'ARCO DI GIANO e Foro di Nerva. Due incisioni in rame. Cornici.
+- 1234 PRESSACARTE in marmo con figurina di cigno.
+- COPPA in legno laccato rosso di manifattura giapponese
+- 1235 e piattino in porcellana decorato a figurine.
+- 1236
+- DUE DISCHI in giada grigia a f figure ed ornati traforati ed incisi. Basette di tek. Antica arte Cinese.
+- RARA FIGURINA di donna in terracotta di grande carattere, che ha tutta la finezza di una tanagra. Cina Scavo.
+- 1237 (La testa restaurata).
+- 1238 LAMPADA da tavolo in maiolica tipo Delft decorata a fiori ed uccelli. Annesso abat-jour di seta dipinto a medesimi soggetti.
+## UNDICESIMO GIORNO DI VENDITA
+
+## MERCOLED1'27MAGGIO 1936-XIV
+
+Alle ore 16,30
+
+Dal N.1239 al N.1351
+
+- DUE ALBERELLI a rocchetto decorati a guide di foglie ed iscrizioni in bleu. Faenza.
+- DUE DETITI d'accompagno.
+- CANI CUCCIOTTI. Gruppeto in porcelana di Copenaghen.
+- 1239
+- 1240
+- 1241
+- 1242
+- LOTTO DI TRE SCATOLE una delle quali montata in argento in porcellana francese ed inglese.
+- 1243 FIGURA DI DANZATRICE in porcellana a colori di fine esecuzione.
+- 1244
+- ALTRA DETTA piu piccola d’accompagno.
+- 1245 GRUPPETTO di due bambini d'accompagno.
+- 1246
+- FIGURINA di danzatrice di porcellana a colori. Arte Napoletana.
+- 1247 DUE FIGURINE di uomo e donna che reggono bambini. Porcellana del Giappone con decorazioni a colori (una re-
+- staurata). Sec. XVill.
+- TRE FIGURINE di porcellana. Vecchio Giappone.
+- 1248
+- GRAZIOSO PICCOLO VASO di porcellana a coperta palombina con fiori ed ornati sotto vernice. Basetta di tek.
+- 1249 Cina.
+- TRE ANTICHE BOTTIGLINE da tabacco in porcellana 1250
+- a corpo schiacciato. Cina.
+- DUE BOTTIGLINE da tabacco in porcellana con figure 1251
+- a rilievo. Cina.
+- DUE FIGURINE di contadini in terracotta policromata.
+- 1252 Arte Veneta del Sec. XVII.
+- 1253 LA DICHIARAZIONE DI AMORE. Gruppetto in bisquit
+- bianco di Sevres.
+- DUE GRAZIOSI PIATTI in porcellana decorati ad uccelli 1254
+- ed ornati a colori ed oro. Vecchio Satzuma.
+- 1255
+- DELABRiERRE E. Leone. Grazioso bronzo patinato.
+- 1256 LA VITTORIA. Figura in bronzo patinato con base di
+- marmo giallo.
+- 1257 VASO a due anse in rame sbalzato e stemma di Casa Bar berini.
+- 1258 GRAZIOSO VASSOIO circolare in bronzo cedrino graf-
+- fito a soggetti famigliari. Arte Cinese.
+- 1259
+- SCATOLA DA SIGARI in bronzo con ornati graffiti e smaltati Arte indiana.
+- 1260 PROFUMIERA di bronzo cedrino, decorata a rami di mandorlo a rilievo ed a traforo.
+- 1261 VASO di bronzo decorato ad ornati a rilievo. Cina.
+- 1262
+- CIVETTERIA. Graziosa figurina in bronzo su base di
+- marmo colorato.
+- 1263 CACHEPOT in metallo argentato con fiori a rilievo sbalzati.
+- 1264 BOUILLOTTE in metallo nichelato con bollitore elettrico.
+- 1265 FIGURINA DI BAGNANTE in bronzo argentato,imitatazione dall'antico.
+- 1266 CESTELLO portapane in rame argentato con gruppi di fiori a rilievo. Manico mobile.
+- 1267 ZUPPIERINA in metallo placcato di argento di manifattura Krupp.
+- 1268
+- ELEGANTE ZUPPIERA di rame argentato a forma centinata con annesso mestolo.
+- 1269
+- TEIERA in metallo placcato di argento di manifattura inglese con sottoposta lampada a spirito.
+- 1270 MOLLA per asparagi in argenteria di Krupp e bicchiere a
+- manico in argenteria di Christofle.
+- 1271 TRE SOTTOBOTTIGLIE e cinque sottobicchieri in ar
+- genteria di Christofle.
+- LOTTO di cucchiaione,arruota coltelli,cavatappi, schiac
+- 1272 cianoci e due tagliauova.
+- PORTASIGARETTE in argento che ha sul coperchio uno smalto rappresentante cavallo che salta un ostacolo. Peso
+- 1273 gr.15o. (Leggero difetto).
+- 1274
+- DUE FIASCHETTE da tasca per cognac in argento. Peso gr.250.
+- 1275
+- 1276
+- PICCOLO PORTAFIORI in argento baccellato con basetta di marmo.
+- CANDELIERE A MANO in argento. Manifattura inglese. Peso gr. 225.
+- 1277 LOTTO di cinque cucchiai da dolce; cucchiaio da salsa e Krupp.
+- 1278 GIRARDET. La vieillese d'un prince. Grande incisione in rame dalloriginale di Rossi Edizione Goupille. Cornice a sbalzo lustro ad ebano.
+- 1279 ID. ID. L'education d'un prince. Incisione d'accompagno.
+- 1280 REGNIERBETTAUNIERE MORLON#La vie au Serraille. Quattro litografie a colori dagli originali di Guerad. Cornici di noce e cristallo. M. o,52 x o,40.
+- 1281 GUIDO RENI. Testa di monaco, e due teste di bambini. Due disegni. Cornice a mogano e cristalli.
+- 1282 SCUOLA BOLOGNESE SEC. XVIlI. Cristo morto e studio accademico di uomo giacente. Due studi alla sangui
+- na. Cornici di legno e cristallo.
+- QUATTRO DETTI, dei quali uno importante alla san
+- 1283 guina.
+- SETTE INCISIONI colorate, rappresentanti i mesi del
+- 1284 I'anno. Arte Francese. Cornici e cristalli.
+- 1285 DUE ANTICHE INCISIONI cinesi a colori, una rappre sentante Attori tragici e l'altra figura di donna.
+- 1286 TRE ANTICHE INCISIONI a colori su carta di seta: Paesaggi con figurine. Attore tragico e figurina su fondo
+- 1287
+- di paese. Antica arte Cinese.
+- AMORE (C). Lo scalone di Villa d'Este. Disegno alla penna.
+- 1288 HARRIS J. The cab-horse. Bella incisione a colori dall'ori ginale di Harring. Sr. Cornice originale di mogano con listello dorato.
+- 1289 WARD. A livery Stable. Bella incisione al granito pubbli cata a Londra nel 1796. Cornice e cristallo. M. o,50 per o,63.
+- ID. ID. The romps. Incisione pubblicata a Londra nel 1790. Cornice d'accompagno alla precedente. M. 0,49
+- 1290 pero,62.
+- 1291 D'AMMOND G. Gloire et Repos.Litografia a colori con cornice a palissandro e cristallo. M. o,53 x o,72.
+- 1292 SEINBACH E. Marina con.numerose e figurine.Finissimo acquarello. Cornie dorata e cristallo. M. o,27 x o,38.
+- 1293 MACCHIATI SERAFINO. Riposo estivo. Grazioso a acquarello alla sepia con lieve tocco di colore. Serafino Macchiati illustratore in origine della  Tribuna illu strata ）, trasferitosi a Parigi ebbe grande successo per le sue macchiette illustrative del giornale I'# Illustration ） Cornice e cristallo. M. o,33 x 0,28.
+- 1294 MACCHIATI SERAFINO. L'uscita dal Veglione. Schizzo all'inchiostro con lieve tocco di biacca. Firmato e datato: Paris 1902. M.0,29 x 0,15.
+- 1295 INCOGNITO. Veduta del Pantheon e della Piazza S. Pie
+- 1296
+- tro. Due tempere. Cornici e cristalli. M. o,28 x 0,43.
+- BOZZATO A. La famiglia del pescatore. Pittura su tavo1297 letta. Firmato. Cornice a sbalzo. M. o,4o x 0,50.
+- BARABINO N. Bozzetto ad olio. Prima idea per un qua dro. Cornice dorata. M. o,14 x 0,19.
+- 1298 SCUOLA FIAMMINGA. Mater Dolorosa. Fine pittura su
+- SCUOLA VENEZIANA. Sec. XVIl. Ritratto di genti1299 luomo a grande parrucca e robbone in atto di leggere una lettera da lui scritta. Cornice Salvator Rosa intagliata e dorata.M.0,97 x 0,78.
+- rame con cornice su dorata. M, o,13 x 0,09.
+- 1300 GUIDO RENI (attr. a), San Sebastiano. Pittura ad olio di mezzo busto con cornice di legno a sesto ovale. Metri
+- 0,71 x 0,75.
+- 1301 ANNIBALE DE CARO.Animali acquatici. Dipinto ad olio su tela con cornice intagliata e dorata. M. o,6o x 1. (Siglato).
+- 1302 GIOVANNI DA UDINE. Importanti studi ad olio di ani mali per la decorazione delle loggie Vaticane. Cornice naturale di quercia. M. o,73 x 2.
+- ANDREA DEL SARTO (Attr.a). La Vergine e il Bambino. Bella pittura ad olio su tela a sesto ovale con cornice di legno finemente intagliata e dorata. M. o,50
+- 1303 per o,53.
+- 1303-A LUCA GIORDANO.La Caduta di S. Paolo. Grande dipinto ad olio cornice dorata. M. 2,9o x 1,8o.
+- precedente.
+- 1303-B ID.ID. Il Ratto di Proserpina. Quadro d'accompagno al
+- 1304
+- SCUOLA NAPOLETANA. Sec. XVIII. La Sacra Fami glia. Bella pittura ad olio su rame con ricca cornice di legno intagliato e dorato. M. o,5o x 0,37.
+- PICCOLO BASSO TAVOLO di noce con gambe ad asso 1305 di coppe e traversa.
+- GRANDE FOCONE in rame con maniglie di ottone. 1306
+- DUE SEGGIOLINE di noce in parte intagliate con piani e 1307 dosselli coperti di broccatello giallo e rosso. Stile Luigi XV.
+- PICCOLO BASSO TAVOLO di noce con gambe e traverse 1308 tornite. Piano a cerniera.
+- COLONNA PORTABUSTI in alabastro tinto a giallo an1309
+- tico.
+- ANTICA MENSOLA da parete di legno intagliato e do1310
+- rato. Epoca Luigi XV.
+- CONSOLE di legno intagliato e dorato a mecca. Piano in
+- 1311 giallo di Siena.
+- 1312
+- ALTRA DETTA.
+- PARAVENTO di legno intagliato e dorato a quattro scomparti in amoerro celeste; e quattro pannelli dipinti a ver-
+- 1313 nis-martin a soggetto galanti. Epoca Luigi XIV.
+- 1314 SEGGIOLA SAVONAROLA di noce con piano e dossello di cuoio.
+- 1315
+- ALTRA DETTA.
+- 1316 TAVOLO di noce con gambe tornite e traverse. Un cassetto. Sec.XVIII.
+- 1317 DIVANETTO di mogano coperto di stoffa operata color
+- gialletto. Fodera.
+- DIVANETTO di noce a lati sporgenti a giorno. Piano co-
+- 1318 perto di broccatello a fiori. Epoca Luigi XIV.
+- ANTICA POLTRONA a braccioli dritti e traverse inta1319 gliate. Piani e dosselli imbottiti coperti in cretonne a fiori.
+- BASSO TAVOLO di noce con gambe ad asso di coppe. 1320
+- ELEGANTE SCRITTOIO in palissandro a leggero inta1321 glio. Un cassetto. Alzata superiore a sei tiretti. Epoca
+- Luigi XV.
+- 1322 POLTRONA di noce in parte intagliata. Piano e dossello coperto di stoffa a righe. Epoca Luigi XVI.
+- 1323 COMMODE di noce a tre cassetti con intarsi in legno cedro ad ornati. Luigi XV.
+- MOBILE LIBRERIA in noce di forma architettonica a tre 1324
+- 1325
+- sportelli con vetri piombati.
+- DIVANO di noce a leggero intaglio. Piano e dossello coperti di broccatello a fiori verdino.
+- 1326 VETRINA di mogano per bibelots ad uno sportello centrale con cristallo;lateralmente mensole ad etagere e specchi.
+- LAMPADARIO in bronzo dorato con guarnizione di gra-
+- 1327 noni di cristallo. Otto lampade a forma di rose. Stile Luigi XVI.
+- 1328 TAPPETO PERSIANO Afgan Bohkara a quattro grandi
+- 1329 ANTICO TAPPETINO PERSIANO Afgan Bokhara a
+- scomparti di vario colore su fondo rosso. M. 1,9o x 1,05.
+- scomparto su fondo rosso. M. 1,5o x o,85.
+- metrici su fondo bleu.
+- ANTICO TAPPETO persiano Schirvan a scomparti geo1330
+- 1331
+- ANTICO TAPPETO persiano ad ornati geometrici su fondo bleu con quattro bordi. M. 2,6o x 1,65.
+- 1332 QUATTRO CUSCINI coperti di differenti stoffe e broccatelli.
+- 1333 DUE PAIA DI TENDINE in seta, due dette di tulle rica-
+- mato e tenda a due partite in rete.
+- 1334 LOTTO di una tenda a due partite in rete, paio di tendine di tulle e scendibagno felpato.
+- 1335 COPERTA da automobile in guanaco con fodera di broccato.
+- 1336 DISCO e piccola profumiera in giada grigia con basette di
+- tek. Arte Cinese.
+- 1337 PROFUMIERA a vasetto in cristallo di rocca fume. Basette.
+- 1338 VASETTO a coperchio in cristallo di rocca fume e finale
+- 1339
+- in plasma di ametista.
+- LOTTO di nove sottobottiglie di cristallo di varie forme, bocale, due bottiglie,cinque bicchieri di differenti disegni, vaschetta, bottiglia da liquore quadrangolare e due piccole carafe da liquori. In tutto pezzi ventidue di cri stallo e vetro tagliato e stampato.
+- 1340 BELLA SCATOLA in avorio scolpita a gruppi di fiori a rilievo. Cina.
+- 1341
+- STRUZZO in vetro colorato. Manifattura di Venezia.
+- 1342
+- ELEFANTE di ebano con zanne di avorio. Arte indiana.
+- 1343 LUME da studio di legno intagliato e patinato a ferro. Abat-jour di seta.
+- DUE PORTA CENERE uno in porcellana di Copenaghen
+- 1344 e l'altro in alabastro montato in argento.
+- 1345 DUE BELLE FRUTTIERE in cristallo di Baccarat con piede a tripode in argento a teste di ariete e festoncino di lauro.Manifattura francese.
+- 1346 BELLISSIMO KAKEMONO dipinto a figura di giovanetta che ha presso di se una cicogna.
+- 1347 ALTRO DETTO dipinto a tre figure di divinita guerriere.
+- 1348 PIATTINO cupo in ismalto di Canton a gruppi di fiori.
+- 1349 SCATOLA per sigarette in legno di tek di manifattura cinese.
+- 1350 TRE PENDAGLI in avorio: Divinita, basetta e gruppo di fiori a traforo. Arte Cinese.
+- 1351 MANICO di ombrellino, piede in avorio e due figurine per scacchi in osso dipinto.
+## DODICESIMO GIORNO DI VENDITA
+
+## GIOVEDI 28 MAGGIO 1936-XIV
+
+## Alle ore 16,30
+
+## Dal N.1352 al N.1500
+
+- 1352 VASSOIO di legno laccato rosso e tre sottopiatti di paglia intrecciata.
+- 1353
+- BOTTIGLIA a thermos con montatura di metallo argen-
+- tato ed annesso bicchiere. Manifattura americana.
+- LAMPADA da scrittoio in bronzo con piccolo abat-jour 1354
+- di seta verde.
+- POSATA DA SCALCO composta di forchettone trinciante
+- 1355 ed arruota coltello con manici di corno. Astuccio.
+- 1356 DUE BELLE CARAFE in cristallo con montature in ar-
+- gento. Manifattura Inglese.
+- 1357 PICCOLO OROLOGIO da caminetto con cassa di mogano
+- intarsiato. Manifattura Mappin Webb di Londra.
+- BOCALE in cristallo con montatura di metallo argentato e piccola carafa da liquore in cristallo con montatura in
+- 1358 argento.
+- 1359 GRANDE LUME in metallo argentato con vetri dipinti a fuoco a figure. Stile Novecento.
+- 1360
+- BASSORILIEVO di bronzo sbalzato ed argentato a soggetto rappresentante il Carro dell'Aurora. Cornice ad ebano.
+- 1361 POSACENERE in marmo colorato con montatura mecca-
+- nica..
+- LOTTO di tre piccoli recipienti di cristallo ed altro in por-
+- 1362 cellana (qualche difetto).
+- 1363 DUE PORTAFIORI in vetro di differenti forme. Murano.
+- GRANDE VASO di alabastro con montatura di bronzo do-
+- 1364 rato. Stile Luigi XVI.
+- 1365
+- FLORIERA di vetro verde con montatura di ferro battuto.
+- 1366
+- COFANETTO di bronzo ad ornati, inciso ed iscrizioni. Arte indiana.
+- 1367 ASTUCCIO in legno sandalo contenente tre bottigline por-
+- taprofumi in cristallo di Boemia.
+- ZUCCHERIERA di metallo dorato a tripode,con recipiente
+- 1368 di cristallo difettoso.
+- 1369 GRANDE MACCHINA FOTOGRAFICA da studio con obbiettivo Voigtlander et Sohn di Vienna N.30427 per il formato 27 x 3o. Annessi tre chassis doppi e astuccio di cuoio coperto di tela.
+- 1370 CAPPUCCINA di bronzo con soneria a ripetizione ad ore e quarti. Fabbrica di Parigi. Astuccio di pelle.
+- 1371
+- DUE BOTTIGLIE con copertura di metallo, due bicchieri di metallo e spremilimone in porcellana e metallo, e lampada a spirito di metallo con custodia di cuoio.
+- LOTTO di uina bottiglia ed un boccale e due sottobottiglie
+- 1372 in cristallo, tre tazze e piatti in porcellana e maiolica, vasetto, teiera,lattiera e due vasi da thermos in terraglia, e posata da insalata in celluloide.
+- VASO in cristallo di Baccarat tagliato alla ruota in parte
+- 1373 di color rosso.
+- 1374 DUE BUCRANII con corna di alcione per trofeo di caccia.
+- 1375
+
+DUE DETTI.
+
+1376 DUE DETTI.
+- 1377 FIGURINA DI BAMBINA e figurina di contadinello che stringe delle frutta. Due gruppi in terracotta patinata.
+- 1378
+- 1379 ALTO VASO in porcellana a coperta sangue di bove. Con anse e maschere ed ornati d'oro. (Piede restaurato).
+- FIGURINA CHE DANZA. Graziosa terracotta
+- 1380 VASO in maiolica a colori a riflesso metallico.
+- POTICHE a coperchio in porcellana di Minton a riflesso
+- 1381 metallico con fiori a farfalle a colori.
+- ELEGANTE PORTADOLCI in porcellana decorato ad ornati d'oro su fondo bleu e figurine su fondo gialletto.
+- 1382 Giappone.
+- 1383 PICCOLO PORTAVASO e vasetto a coperchio in maiolica. Uno leggermente difettoso.
+- FIGURINA di bagnante in atto di truccarsi Maiolica a co-
+- 1384 lori di Essevi )
+- 1385 ANFORA a due anse in maiolica e vaso a riflesso metallilico un poco difettoso.
+- 1386
+- GRANDE VASO in maiolica decorato a fiori.
+- 1387 DUE VASI di maiolica a differente decorazione. Gualdo Tadino.
+- 1388 VASO DI MAIOLICA decorato a graffto e colori a soggetti di tipo arcaico, ed altro decorato a fiori (difettoso).
+- DUE PIATTI di maiolica decorati ad ornati e figure a co-
+- 1389 lori. Arte sarda.
+- MADONNA E BAMBINO ed Angeli. Gruppo in porcel 1390 lana a colori in parte dorata.
+- 1391 PICCOLO PIATTO in ottone graffiti ad animali Basetta.
+- Cina.
+- 1392 PICCOLO VASSOIO in bronzo cedrino a bordo centinato ed ornati graffiti smaltati. Arte indiana.
+- 1393 PICCOLA RIPRODUZIONE in bronzo della biga capito
+- lina. Base di marmo.
+- 1394
+- IL LEONE DI CANOVA. Piccola riproduzione in bronzo.
+- FIASCHETTA da cognac per viaggio in argento. Manifat1395 tura inglese. Peso gr. 6o.
+- 1396 PORTASIGARETTE in argento inciso a tipo di pelle di coccodrillo. Peso gr. 95.
+- SEI POGGIAPOSATE in argento a forma di morso per
+- 1397 cavallo. Manifattura inglese.
+- QUATTRO SALIERINE in argento stile Luigi XV con
+- 1398 recipienti di cristallo (uno mancante). Peso gr. 100.
+- 1399
+- LOTTO di spatolina da burro e nove cucchiaini di varie forme in argento e argenteria inglese.
+- 1400
+- BOCALE per acqua calda in argenteria inglese. Manifattura Mappin Webb.
+- LOTTO di quattro cucchiai e piccolo mestolo per ciliege
+- 1401 in metallo ed argento.
+- 1402 SALSIERA in argenteria di Christofe.
+- 1403 VASETTO portafiori in argento a forma baccellata.
+- 1404 LOTTO di due salierine in argenteria di Christofe e porta-
+- mostarda di cristallo con cucchiaio e turo in argento.
+- 1405 SCALDAPIATTO elettrico in metallo nichelato di forma ovale.
+- 1406 ALTRO DETTO di forma rotonda in ferro.
+- 1407 SCATOLINA in argento cesellato, contenente porta cipria e specchietto.
+- 1408
+- SCATOLA di argento con ornati incisi smaltati. Arte Russa.
+- 1409
+- BOUGEOIRE in metallo placcato di argento con annesso portacerini. Manifattura inglese.
+- 1410 VASSolO ovale ed altro rettangolare di metallo argentato.
+- 1411 LOTTO di undici cucchiaini da caffe di manifattura Chri stofle e dodici detti piu piccoli di manifattura inglese.
+- 1412
+- 1413
+- DAMA E CAVALIERE. Due foto incisioni con cornici a palissandro e cristallo. M. o,65 x 0,54.
+- 1414 LA PARTENZA PER LA CACCIA ALLA VOLPE eil
+- LA CACCIA ALLA VOLPE e la caccia al lepre. Due fotoincisioni con cornici di acero e cristalli. M. o,61 x 0,77.
+- master affaticato. Fotoincisione e incisione in rame a co lori. Cornici e cristalli.
+- 1416 R. M. BRIGANTINO e goletta in alto mare. Due acquarelli con cornici laccate bianche e cristalli. M. o,12xo,24.
+- 1415 SOGGETTI UMORISTICI. Due graziose litografie a colori di arte francese mancanti dei margini. Cornici tipo palissandro e cristallo. M. o,58 x 0,45.
+- 141'7 FERRETTI O. Marina di Nettuno. Dipinto su tavoletta con
+- cornice di mogano.
+- 1418 PERRONE ELENA. La Costa Azzurra. Pittura su tavo
+- 1419 GAROT. Un'oasi nel deserto. Piccolo dipinto ad olio su tela con cornice dorata.
+- 1420
+- letta con cornice di mogano.
+- MENSOLA da parete di mogano a leggero intarsio con luce centrale molata.
+- 1421 GRANDE PORTAFIORI in vetro rosso con montatura in ferro battuto.
+- 1422 BASE DI NOCE con gambe a griff finemente intagliati. Fodera di teletta.
+- 1423
+- 1424
+- 1425
+- OTTO DETTE grandi di noce americana ed una lustra a
+- NOVE DETTE di varie forme delle quali due di metallo.
+- 1426 mogano.
+- 1427 POLTRONA da scrittoio in mogano con dossello in parte coperto di marocchino rosso.
+- 1428 POLTRONA da comodo in mogano con dossello e piano cannee.
+- LOTTO di sette mensoline di mogano.
+- 1429 LOTTO di cinque seggiole delle quali tre impagliate e due in legno curvo.
+- 1430 TAVOLINETTO da lavoro in noce con piano a libretto
+- e nell'interno luce di specchio.
+- PICCOLO TAVOLO DA THE laccato rosso a forma di 1431
+- vassoio con gambe che si aprono a molla.
+- 1432 TAVOLO DA LETTO in mogano con piano a registro e tavoletta a cerniera a leggio.
+- 1433 TAVOLO da notte in pitche-pine ad uno sportello e cas-
+- setto e rivestimento interno di vetro.
+- 1434 CREDENZINO con sovrapposta macchina arrotacoltelli.
+- 1435 LETTO ad un posto e mezzo in ottone dorato. Annesso pagliericcio elastico, materasso, cuscino e zeppa di lana e crine animale. Coperta di broccatello e fiori verdi su
+- fondo gialletto.
+- 1436 LETTO in ferro verniciato marrone con rete metallica, ma-
+- 1437
+- terasso di lana ed altro vegetale.
+- dotto per bar; due cassetti.
+- CREDENZINA di legno laccato bianco a due sportelli e 1438 cassetto. Piano di marmo.
+- 1439 BELLA GHIACCIAIA laccata bianca di manifattura americana. Aristocrat.
+- PARAVENTO di mogano a tre fogli coperto di stoffa ope1440
+- rata, superiormente cristalli.
+- 1441 perti di pelle e fodera; piano dossello e lati intieramente cannees.
+- POLTRONA e due seggiole in mogano chiaro con piani imbottiti e coperti di broccatello a fiori verdi su fondo bianco, dosselli a giorno con palmette intagliate e do-
+- 1442 rate.Epoca Impero.
+- 1443
+- LOTTO di una poltrona di rovere a dondolo con piano im-
+- LOTTO di una poltrona di canna d'India coperta di broccatello a fiori e di pouff elastico coperto in pelle di diavolo.
+- 1444 bottito e attacapanni in legno curvo.
+- 1445 POLTRONCINA curule in mogano con copertura di cretonne a fiori.
+- 1446 CHAISE-LONGUE intieramente imbottita e coperta di broccatello giallo a guide di fiori rasato. Fodera di cretonne a fiori.
+- GRANDE DIVANO intieramente imbottito e coperto di
+- 1447 stoffa a grandi fiori.
+- 1448 SERVIZIO DA SALOTTO in mogano coperto di velluto millerighe. Si compone di divano, due poltrone, quattro seggiole, panchetta e piccolo tavolo da centro.
+- 1449 SCRIVANIA di noce con riquadrature intarsiate in legno rosa. Undici cassetti e piano e tavoletta scorrevole.
+- 1450 SCRIVANIA in rovere con piano di pelle e cinque cassetti.
+- 1451
+- LIBRERIA DI NOCE in parte intagliata a tre divisioni con colonnine scanalate ed in basso sportelli. Stile Rinasci scimento.
+- 1452 con luce a specchio.
+- 1453 ANTICO DIVANO di noce con piano e dossello coperti di broccatello.
+- GRANDE MOBILIA PER STANZA D'INGRESSO IN NOCE E CASTAGNO IN PARTE INTAGLIATO. Si compone di:
+- 1454 GRANDE TAVOLO di tipo olandese con gambe a colon-
+- na a tortiglione e bordo a foglie d'acanto.
+- 1455 CASSAPANCA d'accompagno con piano a cerniera e sot-
+- toposta predella.
+- 1456 MOBILE PORTAMANTELLI con alzata a luce di specchio.
+- 1457 DUE POLTRONE d'accompagno.
+- 1458
+- DUE DETTE.
+- MOBILIA PER STANZA DA LETTO in mogano com1459 posta di: grande armadio a quattro sportelli con luci di specchio molati, commode all'inglese con due sportelli, due cassetti interni scorrevoli e due tiretti, piano di cristallo,sovrapposta a alzata con luce dis specchio molata; mobile da toletta a luce centrale molata e lateralmente etagere a cinque tiretti, credenzino a due sportelli, due comodini.
+- 146o LETTO ad un posto 'di ottone dorato con pagliericcio elastico e materasso di lana.
+- LAMPADARIO a registro in ottone con tre lampade elet
+- 1461 triche ed altre tre con abat-jours di seta verde.
+- VEILLEUSE di ottone con ornati a rilievo e coppa di cri
+- 1462 stallo tagliato.
+- 1463
+- GUIDA di pavimento tessuta in lana a riccetto di colore avana con largo bordo rosso. M. 1o x o,70.
+- 1464
+- 1465
+- LOTTO di quattro scendiletti di vario disegno piu tre frammenti di guida.
+- GUIDA da pavimento tessuta if lana di color rosso con bordo gialletto. Circa m. 13.
+- 1466 BILANCIA per preziosi in metallo e legno. Annessi pesi.
+- 1467
+- OROLOGIO di metallo con carica settimanale.
+- ORIGINALE LAMPADA da scrittoio in bronzo con figu1468 rina di Vittoria patinata ed abatjour di seta gialla,Stile Impero.
+- 1469 TROFEO formato da un paio di corna di cervo e attacca
+- 1470
+- abiti in legno curvo di Vienna.
+- PELLE DI LEOPARDO per soppedanea.
+- 1471 VAsO da fiori in vetro celestino ed altro baccellato in ve-
+- tro verdastro.
+- 1472 DUE DETTI di forme differenti.
+- 1473 DUE ALTI PORTAFIORI in vetro, altro detto in cristallo montato di argento, ed altro ovoide decorato a zone rosse, bleu e verdi.
+- 1474
+- 1475 BARATTOLO di cristallo con montatura in argento e spolverino da zucchero in cristallo con montatura di metallo argentato.
+- LOTTO di una secchia da champagne in argenteria di Krupp, scaldaletto igienico di manifattura francese e piccolo recipiente in metallo.
+- 1476 VASSOIO in cristallo con montatura di argento. Manifattura francese.
+- 1477
+- LAMPADA in cristallo montata in metallo dorato per assorbire il cattivo odore. Come nuova.
+- 1478
+- 1479 LOTTO di un thermos per vivande, sei bols indiane in ot
+- 1480
+- PICCOLO LUME da leggio in metallo nichelato.
+- 1481
+- tone sbalzato e piccolo copri piatto di metallo nichelato.
+- DUE CORNICINE di bronzo dorato, una delle quali contenente un piccolo acquarello a figura di donna.
+- 1482 BAROMETROa
+- aneroide, manifattura Dario Bolaff di Roma.
+- CARAFA da marsala in cristallo con montatura in argento, e recipiente da zabaione in cristallo montato in metallo
+- 1483 argentato. Manifattura inglese.
+- 1484 MACCHINETTA per caffe espresso in argenteria di
+- 1485
+- Broggi.
+- CESTELLO da fragole in metallo argentato con recipiente di cristallo (felato).
+- 1486
+- ELEGANTE VASO da miele in cristallo di Baccarat con montatura di metallo placcato di argento. Manifattura Mappin Webb.
+- 1487 PORTAFIORI in cristallo verde con montatura in metallo argentato.
+- 1488 DUE VETRI colorati da finestra con ornati geometrici.
+- 1489 ELEGANTE ZUCCHERIERA in cristallo finemente incisa alla ruota con montatura e coperchio in argento sbalzato. Manifattura francese.
+- 1490 DUE ELEGANTI POSACENERE in smalto a gruppi di
+- 1491
+- di fiori.
+- SCATOLA contenente un gioco di Domino in avorio ed ebano ed altra intarziata contenente carte da giuoco francesi, piu scatolina di mogano portacarte.
+- 1492
+- QUATTRO GRAZIOSE BOTTIGLIE da liquore in fine cristallo di Baccarat, una con turo differente.
+- PORTANTIPASTI di metallo placcato argento e quattro
+- 1493 recipienti di cristallo. Deposito Janetti di Roma
+- GUANTIERA CENTINATA in lacca di manifattura giap1494
+- ponese.
+- POSATA DA SCALCO composta di trinciante, forchet-
+- 1495 tone e arruota coltello, con manici di avorio montati in argento. Astuccio.
+- 1496 di finta pelle.
+- 1497 LOTTO di tre portacarte di varie forme.
+- 1498 PICCOLA TARTARUGA in bronzo di manifattura cinese.
+- 1499 LOTTO di una scatola di metallo portasigarette e di una cornice di bronzo dorato e stoffa.
+- MENAGERE in cristallo a quattro recipienti con monta
+- 1500 tura in metallo argentato. Manifattura di Christophle.
+## TREDICESIMO GIORNO DIVENDITA
+
+VENERDI' 29 MAGGIO 1936-XIV
+
+Alle ore 16,30
+
+Dal N. 1501 al N. 1644
+
+- PESCIERA in rame. Peso Kg. 10,500. 1501
+- 1502 GRANDE PENTOLA in ferro smaltato.
+- 1503 LOTTO di tre casseruole in rame con coperchi e manici di
+- TRE DETTE piu piccole. Peso Kg. 7. 1504
+- di ferro. Peso Kg. 12.
+- TRE MARMITTE delle quali una molto piccola in rame.
+- 1505 Peso Kg.3.
+- 1506
+- POZZONETTO e saute in rame. Peso Kg. 5.
+- 1507
+- 1508
+- 1509
+- DUE GRANDI SAUTES di rame con coperchi.Peso Kg. 9.500.
+- SAU'TE, teglia e tegame in rame. Peso Kg. 5.
+- BRASIERA e tre teglie di differenti forme in rame. Peso Kg.7.500.
+- 1510 CINQUE STAMPI di rame per timballi. Peso Kg. 1,500.
+- 1511 QUATTRO DETTI.Peso Kg.1,500.
+- PESCIERA in lattone, brocca per acqua calda in ottone e
+- 1512 rame e dodici utensili varii in alluminio.
+- 1513
+- 1514
+- LOTTO di cinque marmitte,bollitore per latte e teglia in alluminio, e pesciera in lattone.
+- GRANDE COPPA per gelato e sei bicchieri per servirlo in vetro rosso con ornati dorati. Murano.
+- 1515 MACCHINA DA SCRIVERE Remyngton, copertura di metallo.
+- 1516 GRANDE PIATTO in vetro di Murano con fondo bac
+- cellato.
+- 1517 GRANDE VASO in vetro di Murano di color verdino.
+- 1518
+- LOTTO di un vaso in vetro spruzzato d'oro con bordi rossi e due posacenere di porcellana di forme diverse.
+- 1519 SCATOLA da sigarette in legno intarsiato a fiori e scatola
+- portadolci di forma triangolare in maiolica a colori.
+- DUE PICCOLI PORTAPROFUMI a tre recipienti, cia1520 scuno montati di metallo argentato.
+- 1521 PORTAFIORI in cristallo dipinto a grandi papaveri.
+- 1522
+- LOTTO di sei utensili ed una pipa. Giappone.
+- 1523 OTTO PICCOLI PEZZI di ottone graffito: vasetto,cobra, quattro vasetti torniti, due portamenu a forma di pavoni.
+- 1524 VASO PORTAFIORI in vetro di Murano e bomboniera in cristallo di Boemia con ornati dorati.
+- 1525 DUE ANTICHE CORNICINE dorate con piccola cimasa
+- 1526
+- VASO in marmo giallo di Siena con piccole anse e fasciatura in bronzo dorato a foglie.
+- 1527 VALIGIA di cuoio verde per necessaire, contenente nove
+- recipienti in cristallo ed argento.
+- 1528 COMPOSTIERA con piatto e coperchio in cristallo.
+- 1529 BELLA CORNICE di legno intagliato e dorato a grandi foglie.M.0,63 x 0,50.
+- 1530 CORNICE a cassetta di legno dorato con piccoli ornati graffiti. M.0,54 x 0,44.
+- 1531 LOTTO di abat-jour di seta giallo e merletto e due copri vivande in filet ricamato.
+- 1532
+- VENTILATORE elettrico.
+- 1533 LOTTO di due vassoi verniciati ed otto utensili da tavola.
+- 1534 VASO da latte in terraglia con montatura di peltro, altro in alluminio ed altro in ferro smaltato.
+- 1535
+- TEIERA e sei tazze con piatti in porcellana decorati in bleu a fiori e piattino per biscotti simile.
+- LOTTO di nove tazze da the in porcellana del Giappone 1536 con piattini, sei dette in porcellana di Francia decorate a piccole rose e sette in porcellana inglese decorate in bleu.
+- 1537 QUATTORDICI TAZZINE da caffe con piatti in porcel lana inglese decorati in oro.
+- 1538 LEGUMiERA e piatto ovale fondo in porcellana pirofla, piu due caffettiere della medesima porcellana.
+- 1539 LATTIERA e caffettiera in porcellana di Francia a co perta bleu ed oro e tre portafiori per centro da tavola parimenti in porcellana di Francia,forma rocaille, decorati
+- a fiori ed oro.
+- 1540 LOTTO di nove piatti in porcellana decorati a fiori, fo riera in terracotta ad ornati di stile romanico e tre portauovi in porcellana.
+- 1541 OROLOGIO in maiolica smaltata bianca con teste di ca valli. Carica settimanale. Annessa mensola smaltata
+- bianca.
+- 1542 PICCOLA LAMPADA da scrittoio in porcellana smaltata con abat-jour di seta scozzese.
+- 1543 GRANDE PIATTO in maiolica riproducente il pavimento del Duomo di Siena.
+- 1544 CACHE-POT in maiolica di Galvani tipo novecento.
+- PORTAVASO di maiolica decorata a gruppi di fiori. 1545
+- 1546 GRANDE VASO a due anse in maiolica decorato in bleu
+- a gruppi di frutta.
+- 1547 PAIO DI APPLIQUES da parete in bronzo dorato a cinque bracci ciascuno ridotte a luce elettrica. Stile Luigi XV.
+- 1548
+- DUE DETTE.
+- DUE PICCOLI VASI a coperchio in bronzo ad ornati smal-
+- 1549 tati. Arte Cinese.
+- 1550 SECCHIA ad ansa e portavaso in rame sbalzato.
+- 1551
+- VASSOIO portabiglietti di metallo.
+- LUCERNINA accendisigarette in argento a tre lucignoli.
+- 1552 Peso gr. 75.
+- DUE PICCOLI SPOLVERI per sale e pepe a forma di vasi
+- 1553 e salierina a forma di conchiglia in argento.
+- DUE PICCOLI PORTAFIORI in argento in parte trafo 1554
+- rato con recipienti di cristallo. Manifattura Mappin Webb.
+- LOTTO di cinque forchettine e due spadini da pezzo gros1555
+- so in argento e due molle da zucchero.
+- 1556 PORTASTECCHINI in argento Manifattura inglese e for bici da uva in metallo argentato.
+- 1557 VASsOIO scaldavivante in metallo placcato di manifattura
+- 1558
+- inglese,
+- RECIPIENTE porta uova alla coque in metallo argentato.
+- PICCOLA FORMAGGERA in metallo argentato a forma
+- 1559 di ostrica.Interno di cristallo. Manifattura inglese.
+- 1560 MENAGERE in metallo argentato con quattro recipienti
+- e molla per formaggio parimenti di metallo nichelato.
+- 1591
+- CIAPPA IN ARGENTO con strasses e fotominiatura rappresntante Madonna e Bambino con cornice dorata,e piccolo necessaire da viaggio in argento.
+- 1562 LOTTO di un mestolo in metallo inglese, sei forchette in argenteria di Christofe e 6 cucchiaini in argento di Map-
+- 1563
+- 1564 ZUCCHERIERA a due anse e coperchi e caffettiera in ar-
+- pen Webb.
+- PORTADOLCI a forma di conchiglia in metallo placcato di argento con manico a foglie. Stile Luigi XV.
+- genteria di Christofe.
+- 1565 SEDICI CUCCHIAINI da caffe in argenteria inglese.
+- 1566
+- LOTTO di due fotoincisioni a soggetti di genere e foto grafia dalloriginale di Luca della Robbia.
+- 1567 VISITE AU MERES. Fotoincisione con cornice di pitche-
+- 1568
+- pine e cristallo. M. o,9o x o,70.
+- LOTTO di una litografia del Durand rappresentante  Un giorno di Uragano 》e fotografia rappresentante Sogno d''amore ） dall'originale del Ziem.
+- LOTTO di tre fotoincisioni, una rappresentante la Ma donna del Morelli, l'attacco deghi Ulani e partita di cac-
+- 1569 cia alla volpe.
+- 1570
+- RIZZO. Paesaggio di Primavera. Dipinto ad olio con cornicina dorata.
+- 1571
+- MUCCHI LAO. Paesaggio. Pittura ad olio su tavola. Cornice argentata. M. o,43 x 0,48.
+- 1572 MUCCHI G. Il lago di Nemi. Grazioso studio ad olio su tavoletta. Cornice dorata. M. o,19 x o,29.
+- 1573
+- OLIVIERI G. Paesaggio con figurine presso un lago. Bozzetto ad olio su tavoletta. Cornice a sbalzo.M. o,1 Ixo,14
+- 1574 PENDOLA da caminetto in mogano con suoneria. Mani fattura inglese.
+- 1575
+- PORTAMUSICA in rovere intagliato.
+- 1576 PICCOLA CASSETTA FORTE in ferro.
+- 1577 CASSETTA da zigari in radica di palissandro con monta tura di argento.
+- 1578
+- LUCE DI SPECCHIO molata con cornice di noce.
+- 1579 SPECCHIO di forma ovale con cornice di noce.
+- DUE SEGGIOLE da spiagga ed amaca. 1580
+- 1581 QUATTRO SEGGIOLINE di mogano con piano imbottito e coperto di cretonne a fiori; fodera dello stesso cretonne.
+- 1582 DIECI SEDIE in legno curvo di Vienna delle quali nove con piano canne ed una con piano di legno.
+- 1583
+- LOTTO di bruschino da caffe in ferro e spianatora con matterello di legno.
+- TAVOLO da giuoco con gambe pieghevoli e piano di dro-
+- 1584 ghetto verde.
+- 1585
+- PICCOLO TAVOLO etagere di legno laccato a gruppi di fiori.
+- 1586 DUE COMODINI di noce di differente disegno e piani di
+- marmo.
+- 1587 TAVOLO da stiro in noce ed abete.
+- 1588 DUE FUSTI DI LETTI in ferro laccato bianchi ed altro di ferro verniciato nero con pagliericcio elastico.
+- 1589 BRANDA PIEGHEVOLE in ferro con materasso di ve-
+- getale.
+- GHIACCIAIA di legno laccato bianco.
+- 1590
+- 1591 CREDENZINA da scarpe in legno laccato bianco a due
+- 1592
+- sportelli con cristalli.
+- PICCOLA CREDENZA di legno laccato bianco.
+- 1593 GRANDE PARAVENTO di mogano,la parte inferiore co
+- perta di stoffa celeste a righe, superiormente cristalli
+- PICCOLO TAVOLO da toletta in acero ed altro in casta-
+- 1594 gno lucido.
+- 1595
+- CARROZZELLA in legno verniciato verde e coperta di stoffa a fiori con ruote di gomma.
+- POLTRONA di noce a bracciuoli dritti con piano e dos-
+- 1596 sello coperti di cuoio.
+- BELLA POLTRONA da riposo intieramente imbottita e 1597 coperta di marocchino rosso. Manifattura inglese. Fodera.
+- 1598 POLTRONA ad orecchiozzi con braccioli a registro intieramente imbottita e ricoperta di cretonne a piccoli fiori.
+- GRANDE SEGGIOLA di legno tinto a noce con piano di
+- 1599 paglia,
+- 1600
+- CHAISE-LONGUE intieramente imbottita e coperta di velluto a disegno orientale. Fodera.
+- 1601 SERVIZIO DA SALOTTO composto di divano e due pol
+- trone coperte di damasco verde.
+- 1602 TENDA a due partite di velluto in lana verde.
+- 1603 CONSOLE scrittoio di mogano forma Cippendale. Mani fattura Henry di Londra.
+- 1604 ALTRO DETTO d'accompagno.
+- 1605
+- GRANDE CRISTALLIERA da guardaroba in abete di Moscovia a tre scomparti con cristalli. Da un lato da incastrarsi al muro.
+- 1606 CREDENZA da cucina in abete da Moscovia a due spor-
+- telli con ramina e sottoposti due cassetti.
+- 1607 ARMADIO in legno lustro a mogano a tre sportelli, quello
+- centrale a luce di specchio molata,
+- 1608 ARMADIO di legno laccato bianco a due sportelli.
+- MOBILIA DA INGRESSO di noce intagliato composto di
+- 1609 attaccabiti portaombrelli, cassapanca a due sgabelli
+- 1610
+- MOBILIA PER STANZA DA LETTO in mogano chiaro composta di: armadio a due luci di specchio di forma
+- 1611
+- 1612
+
+ovale con sottoposti due cassetti, altro detto ad uno sportello a luce molata ovale e sottoposto cassetto,commode a quattro cassetti e tre tiretti con sovrapposta luce di specchio a bilico di forma ovale, comodina, tavolo da toletta con piano di cristallo a due cassetti e tre tiretti Ma niglie e bocchette di bronzo. Manifattura inglese.
+
+- GRANDE ARMADIO per guardaroba in acero rasato a quattro sportelli dei quali i due centrali con luci di spec chio molate sottoposti quattro cassetti.
+- LETTO ad un posto e mezzo in ottone con pagliericcio ela stico.Manifattura inglese.
+- PICCOLO LAMPADARIO di ottone a tre bracci con tu
+- 1613 lipano di cristallo.
+- LAMPADARIO in ferro battuto a sei bracci con candele
+- 1614 ridotti a luce elettrica.
+- 1615 QUATTRO BRACCI da parete a due candele ciascuna di
+- accompagno.
+- GUIDA da pavimento tessuta di lana a riccetto, di colore avana con largo bordo rosso. M. 8,1o x o.90.
+- 1616
+- 1617 TELO della medesima guida della misura di M. 7.85xo,90.
+- 1618 TRE SCENDILETTI formati con tappeto a metro a dise siano.
+- TRE VASI da fiori in cristallo a coperta verde,di differente
+- 1619 forma.
+- 1620 SCALDALETTO elettrico in metallo nichelato e piccola stufa a gas.
+- 1621 INSALATIERA e due fruttiere in cristallo inciso alla ruota.
+- 1622
+- VASSOlO circolare in cristallo con montatura di argento.
+- BOCALE per acqua ghiacciata in cristallo con montatura
+- 1623 in argento.
+- 1624 ALTRO DETTO di forma differente.
+- PICCOLO VASSOIO orientale in rame ottone ed argento
+- 1625 e bougeoire in ottone.
+- 1626 MACCHINA A SPIRITO per caffe e tre thermos di varie forme.
+- 1627 ACQUASANTIERA in alabastro con placchetta in argento rappresentante il Redentore e piccolo recipiente di cristallo.
+- 1628
+- DUE BRACCI da parete in ottone con abat-jours di seta gialla.
+- LOTTO di una mensola di mogano e braccio da parete di
+- 1629 ottone per luce elettrica.
+- PICCOLA LAMPADA veilleuse in ottone con globo di cri-
+- 1630 stallo opalizzante.
+- 1631 PORTABISCOTTI in cristallo di Baccarat con montatura in argento.
+- 1632
+- LOTTO di piccola lattiera e zuccheriera in argento, piu posacenere in cristallo con montatura in argento a forma di sperone.Peso dell'argento gr.18o.
+- 1633
+- DUE BOTTIGLIE in cristallo con montature di argento
+- 1634 MOLLA da pane in argenteria di Christofe e posacenere
+- in cristallo montato di argento.
+- 1635 INSALATIERA in cristallo di Baccarat con montatura di argento. Posata parimenti di argento con manici di avo rio.
+- 1636
+- GRAZIOSA FRUTTIERA in cristallo tagliato alla ruota con montatura in argento a cestello con gruppi di fragola a tutto rilievo.
+- 1637
+- PICCOLO POSACENERE in bronzo e smalto.
+- 1638 DUE CARAFE in cristallo di Baccarat tagliato alla ruota. con montatura di argento.
+- 1639
+- DUE TESTE DI VOLPE imbalsamate per trofeo di cac cia: una portante l'iscrizione: Cecilia Metella 2o Mag gio 1905.
+- 1640
+
+1641
+
+- DUE BUCRANIl con corna d’antilope.
+
+DUEDETTI.
+
+- 1642 TRE BUCRANIl con corna d'alce ridotte per trofeo di caccia.
+- 1643 POSACENERE in onice con figurina di volpe in bronzo dorato e spunta zigari in metallo nichelato.
+- 1644 SCATOLA DA SIGARETTE montata in metallo argentato sul coperchio acquarello rappresentante la partenza
+- per le corse.
+## QUATTORDICESIMO GIORNO DI VENDITA
+
+## SABATO 30 MAGGIO 1936-XIV
+
+Alle ore 16,30
+
+## Dal N.1645 al N.1815
+
+- 1645 PORTAOMBRELLI in maiolica a forma di gufo a coperta
+- turchese.
+- 1646 DUE PIATTI da portata in porcellana inglese di differenti forme decorati in bleu a fiori con annesso recipiente per
+- acqua calda.
+- 1647 GRAZIOSA CAFFETTIERA in porcellana inglese smal-
+- tata in argento.
+- 1648 LA VERGINE ORANTE. Bustino in porcellana di ma nifattura Lenci ed annessa mensola intagliata a testa di serafino.
+- 1649 LOTTO di tre piatti di maiolica inglese e piccolo cachepot
+- in porcellana difettoso.
+- 1650 LOTTO di tre grandi tazze da colazione in maiolica in glese decorate a fiori e paesaggi, tre dette piu piccole e
+- recipiente per latte in maiolica.
+- PIATTO DA PORTATA e dodici piatti in maiolica in-
+- 1651 glese decorata a paesaggi e fiori
+- 1652 SERVIZIO DA FUMO in bronzo cedrino con vedute di marine ed ornati incisi su fondo ossidato. Si compone di
+- vassoio, scatola per sigarette, portafiammiferi e posacenere.
+- 1653 SERVIZIO DA FUMO in bronzo cedrino composto di vas-
+- soio e sei recipienti. Arte Orientale.
+- 1654 TRE PORTABOMBONI in metallo argentato e sigillo in
+- argento.
+- 1655 PIATTINO ovale in argenteria di Krupp e molla da zucchero.
+- 1656
+- PORTAVASO in metallo placcato. Manifattura inglese.
+- 1657 FORMAGGERA in argenteria di Christofe con recipiente
+- di cristallo ed annesso cucchiaio.
+- 1658 LOTTO di sette recipienti per sale, pepe e stecchini mon-
+- tati in metallo argentato.
+- 1659 POSATA da pesce (due pezzi) in metallo argentato. Map-
+- pin Webb. Astuccio.
+- 1660 ORIGINALE PORTASIGARI in filograna di argento. Arte Genovese.
+- DUE PORTASTECCHINI in argento a forma di due pap1661.
+- pagalli sopra rami di albero.
+- 1662 LOTTO di mestolo, spatola e forchetta da pesce, posata da insalata in avorio e metallo argentato; manico per pezzo
+- grosso e forchettone.
+- 1663 ASENTI DOMENICO.Veduta di Venezia con bastimenti.Pittura su tavoletta con cornice lustra ad ebano. Me-
+- tri o,13x0,20.
+- 1664 PETROCELLI. La strega che distrugge i fiori della Primavera. Pittura ad olio di grande carattere. Firmata. Cor. nice nera ed oro. M. o,47 x 0,37.
+- 1665 TORPEDINIERA in alto mare. Pittura ad olio con cornice ad ebano e cristallo. M.o,24 x 0,32.
+- 1666 DUE MENSOLE di noce intagliato a putti.
+- 1667 PORTAPIATTI automatico in noce a tre recipienti.
+- 1668 ALTRO DETTO.
+- 1669 CASSETTA da posateria in noce americana.
+- 1670 UNDICI GRUCCE in noce ed abete per vestiti.
+- 1671 VALIGIA di paglia, astuccio di cuoio per ombrelli, 19 gruc cie e spugna con applicazione per massaggi.
+- 1672 SEGGIOLA Savonarola di legno laccato bianco.
+- LOTTO di un lavabo in ferro verniciato bianco, catino in maiolica fiorita, boccale scompagno, getta acqua e ta-
+- 1673 vola per stiro.
+- 1674 PICCOLO TAVOLO da centro in rovere con gambe a tortiglione,
+- 1675
+- PICCOLO TAVOLO da fumo in ottone con due recipienti e porta fiammiferi. Stile gotico.
+- 1676 LOTTO di piccolo tavolo ottagono in rovere, piccola divisione in noce e cristalli e poggiapiedi coperto di gomma.
+- 1677 LOT'TO di un lavabo in legno curvo verniciato bianco, ca tino di maiolica, gettacqua verniciato e attacc'abiti di le
+- gno verniciato bianco.
+- 1678 CHIFFONNIERE in ciliegio a sette tiretti. Piano di marmo.
+- 1679
+- MOBILE da scarpe in acero a quattro sportelli.
+- 1680
+- COMMODE di noce con piano di bardiglio.
+- 1681 CREDENZINA da parete in legno laccato bianco.
+- 1682
+- LOTTO di un tavolo di rovere, poggia asciugamani e due attacc'abiti in legno curvo.
+- LUME da pavimento in ottone dorato a forma di colonna
+- 1683 con spostamento a registro.
+- 1684 DUE SCALE a libretto ed altra a gradini.
+- POLTRONA da riposo in mogano coperta di cretonne a
+- 1685 fiori ed intieramente imbottita.
+- 1686 POLTRONA da riposo in palissandro a salsiccia. Piano e dossello imbottiti e coperti di cretonne a fiori.
+- 1687 LOTTO di due poltrone di canna d'India intrecciata, e attacc'abiti di legno curvo verniciato bianco.
+- 1688 DIVANO imbottito e coperto di cuoio con decorazione di bulloni; annessi cuscini in pelle di diavolo.
+- 1689 DUE POLTRONE d'accompagno, coperte in pelle di dia-
+- volo (un poco sciupate).
+- 1690 CASSA da ingresso a noce con pannello a basso intaglio.
+- 1691 CREDENZA a due sportelli di legno laccato bianco e base di abete tinta a noce.
+- 1692
+- PICCOLA SCALA a tre gradini e base di legno tinto a mogano.
+- 1693 TAVOLO di legno verniciato bianco con piano grezzo e credenza laccata bianca a tre sportelli e tre cassetti.
+- 1694
+- BANCONCINO di abete tinto a noce a quattro sportelli e tre cassetti.
+- TAVOLO SCRITTOIO placcato di noce a due cassetti con
+- 1695 gambe tornite e traverse.
+- 1696
+- BUFFET a due corpi in noce tinta a mogano. La parte superiore con vetri molati. Quella superiore a due sportelli.
+- 1697 VETRINA di noce a giorno con due sportelli a grossi cri stalli e divisioni interne.
+- 1698
+- PICCOLO ARMADIO di noce a due sportelli. (Un poco difettoso).
+- 1699 ARMADIO di noce di forma architettonica a tre sportelli
+- e tre cassetti.
+- MOBILIA PER STANZA da letto per bambino,in legno 1700 laccato celeste. Si compone di: armadio a tre sportelli, piccolo tavolo,poltrona, tolettina con specchio a bilico,fu sto di letto, comodino, tavolo scrittoio, seggiola e due sgabelli.
+- 1701 GRANDE ARMADIO da guardaroba in legno laccato bian-
+- co a quattro sportelli.
+- 1702
+
+## LIBRI
+
+- PETRARCA (Fr.). Le rime. Prato, Terni 1851, in-32, pelle.
+- r703 DE MAURI (L.). L'amatore di maioliche e porcellane.
+- Terza Ediz. Milano, Hoepli,in-16, con tav.
+- TANI (A. D.). Le Chiese di Roma. Torino, Celanza 1922,
+- 1704 in-8,fig.,tela.
+- 1705 SABATIER (P.). Vie de S. Francois d'Assise. Paris, s. d, in-8,perg.
+- 1706 LUDWIG (E.). Colloqui con Mussolini. Milano, Mondadori, in-8,tela.
+- BANDINI (Carlo). Roma e la nobilta romana nel tramonto
+- 1707 del Secolo XVIII.Citta di Castello,Lapi 1914, in-8, tela.
+- 1708
+- MERLIN (Alf.). L'Aventin dans l'antiquité. Paris, Fontmoing 1906, in-8, fig., m. perg.
+- 1709
+- SPENCER,NORTHCOTE (I.)e BROWNLOW (W.C.). Rome souterraine: resume des decouvertes de M. De Rossi dans les catacombes romaines. Trad. par P. Al lard. Paris, Didier et C.o, 1872, in-8, fig., m. perg.
+- 1710 SANNA (G. A.). I due Guerrazzi. Firenze, Fodratti 1870, in-8g.
+- 1711 MORICHINI (Carlo Luigi). Degli istituti di carita in Ro
+- ma. Roma, Camerale 187o,in-4, tela.
+- 1712 DAUDET (A.), TOLSTOI (L.), GYP. Raccolta di roman-
+- zi.Paris, s. d.,3 voll., in-4 fig, mezza tela.
+- 1713 PROIA (A.),ROMANO (P.).I rioni di Roma:Pigna Arenula Parione S. Angelo Vecchio Trastevere. Roma, Agostiniana, 1933-1935, 5 vol., in-4, fig., in-
+- tonsi.
+- 1714 ORANO (Dom.). Come vive il popolo a Roma. Saggio de-
+- mografico sul quartiere. Pescara, 1912, in-4, intonso.
+- DE AMICIS (Ed.). Cuore. Ediz. con disegni di Ferraguti, 1715
+- Nardi e Sartorio.Milano,Treves, in-4, tela.
+- 1716 ROMANO (P.). Pasquino e la satira in Roma. Roma, Ferri,
+- 1932,in-8.
+- 1717 BANDINI (Carlo). Roma nel settecento. Roma, Treves, s. d., in-4.
+- MUNOZ (Ant.). Roma Barocca. II Ediz., Milano-Roma, 1718 1928, in-4,riccam.illustr., tela.
+- 1719
+- ACTES du VIll Congres international des assurances sociales. Rome, Bertero 19o9, 3 voll., in-4, intonsi.
+- 1720
+- COHEN (H.). Description generale des monnaies de la 1721 Republique romaine Comminement appelees Medaille Consulaires. Paris, Rollin 1857, in-4, con tav., m. perg.
+- COHEN (Henry). Description historique des monnaies frappees sous 1'Empire romain.Paris, Rollin 1859-68, 7 voll., in-8 gr. con largo margine. Bell'esemplare leg. in m. perg.
+- 1722 BOLLETTINO della Consulta Araldica.Dal Settembre 1891 (vol. I) al Marzo 19o9 (Vol. VIl). Roma, Civelli
+- 1891-909,7voil., in-8,m.perg.
+- 1723 LUBKER (Fed.). Lessico ragionato della Antichita Classica. Roma, Tip. del Senato,1898, in-4, m. perg.
+- 1724 LECOY DE LA MARCHE (A.). Le troizieme siecle artistique.Lille 1889, in-4, fig., m. tela.
+- 1725 DE BOURCARD (Fr.). Usi e costumi di Napoli e contorni descritti e dipinti. Napoli 1866, 2 voll., in-4, con tav. a
+- colori, pelle.
+- 1726 CLEMENTI (Filippo). Il Carnevale romano nelle cronache contemporanee. Roma, Tiberina 1899, in-4, tela.
+- 1727 DE CESARE (R.). Roma e lo Stato del Papa dal ritorno di Pio IX al XX Settembre (186o-187o). Roma, Forzani, 1907, 2 voll, in-4, tela.
+- 1728 INFESSURA (Stefano). Diario della Citta di Roma. Nuova Ediz.a cura di Oreste Tomassini. Roma, Forzani, 189o. A cura dell'Istituto storico italiano.1 vol., in-8 g, su car-
+- ta a mano e tavole, perg.
+- 1729 MANZONI (Aless.). Opere varie. I promessi sposi. Milano, Redaelli, 1845, 2 voll., in-4, fig, pelle.
+- 1730 RIGUTINI e FANFANI. Vocabolario italiano della lingua parlata. Firenze, Barbera, 188o, in-4 g., m. perg.
+- CATALOGO di libri stampati e manoscritti, disegni,incisioni ed acquarelli riguardanti Innocenzo Xll Pignatelli, raccolti e posseduti da D. Diego Pignatelli di Cavaniglia.Roma, Of. Poligr. Romana, 19o2. Edizione fuori comm. di 15o esempl. stampati su carta a mano
+- 1731 con tav. Esempl. N. 67.
+- 1732 DE CUPIS (Cesare). Le vicende dell'Agricoltura e della pastorizia nell'Agro Romano. Roma, Tip. Bertero, 1911.
+- in-4,m.perg.
+- 1733 CLAUSSE (Gust.). Les marbriers romains et le mobilier presbyteral. Paris, Leroux, 1897, in-4, fig., m. perg
+- 1734 BONCOMPAGNI LUDOVISI (Fr.). Le prime due ambasciate dei giapponesi a Roma (1585-1615) con nuovi documenti. Roma, Forzani e C.,19o4, in-4
+- 1735 LENORMANT （Franc.). Histoire ancienne de 1'Orient jusqu'aux guerres mediques.Neuvieme Edit.Paris,Levy, 1881, 6 vol., in-4, fig., m.perg
+- 1736 AGOSTINO DA OSIMO. Storia dei diciannove martiri
+- gorcomiensi Roma, Monaldi, 1867, fasc. in4, pelle.
+- 1737
+- DE NORVINS. Storia di Napoleone. Milano, Sonzogno, 1893,in-4,tela.
+- 1738 ATTRAVERSO L'ITALIA.Piemonte-Lombardia -Si cilia -Toscana #Campania. A cura del Touring Club italiano.Milano,Bertieri,1930-36,7voll.,in-4,fig
+- MEMORIE CLINICHE per il XXV anno dello insegna 1739 mento chirurgico di Francesco Durante nell'Universita di Roma.Roma,Soc.Ed.Dante Alighieri, 1898,3 voll.
+- in-4, fig.,intonsi.
+- 1740 ARRIVO DEI CROCIATI DEL 1871.Due Album in fotografia dalle opere in caricatura dei Falcioni. 2 voll, in-4.
+- tela.
+- CRISTOFARI (Fr.). Storia dei Cardinali di Santa Romana 1741 Chiesa dal Sec. V all'anno del Signore 1888. Roma, Propaganda Fide, 1888, Album in-4 gr., m. perg.
+- 1742
+- NOUVEAU LAROUSSE illustre: pub. sous la direction de Claude Augé. Paris, Larousse, s. d., 7 voll., in fol., ill., tela.
+- 1743 VOCABOLARIO universale italiano, compilato a cura della
+- Soc. Tip.Tramater e C.Napoli 1829-1840, 7 voll. in-4, m.pelle.
+- FORCELLA (Vinc.). Iscrizioni delle Chiese e d'altri edi1744 ficii di Roma dal Sec. XI fino ai giorni nostri. Roma, Tip. delle Scienze Matematiche e Fisiche,1869-79,14 tomi in 7 voll., in-4. Bellssimo esempl. leg. in m. perg.
+- SOUVENIRS DU CAPITAINE PASQUIN:1803-1814 1745 Paris, Boussod, 1892, in fol. p. ricc. illustr., tela.
+- 1746 PERTHES (J.). Spezialkarte von Afrika, leg. in tutta tela
+- 1747
+- BARATTA (Mario), VISENTIN (Luigi). Grande atlante geografico. Istituto Geografico De Agostini, in fol., tela.
+- 1748 GARRUCCI (P. Raffaele). Storia della Arte Cristiana nei primi otto secoli della Chiesa. Prato, Giachetti, 1872,6 voll., in fol., con tav. Bell'esemplare leg. in m. perg.
+- 1749 ATLANTE Internazionale del Touring Club Italiano.
+- 1750
+- L'ITALIE CONTEMPORAINE. Recueil Artistique d'apres des documents authentiques, Berlin, grosso vol. in fol.,tela.
+- 1751
+- DIE KUNST Alterthums Dankmale in Konigreich Wurthemberg. Stuttgart.Verlag von Paul Mef. 1889. Tre album ed un fascicolo.
+- 1752 LA DECORATION des interieurs au XVIlI siecle. Trenta-
+- cinque tavole illustrate.
+- DER ARCHITEKT.Wiener Monatshefte fur Bauwesen.
+- 1753 Tre album in folio con numerosi fascicoli.
+- 1754 COLASANTI ARDUINO.L'Arte bizantina in Italia,con prefazione di Corrado Ricci. Cartella in folio con tavole a colori. Edizione Bestetti-Tuminelli di Milano.
+- 1755 GUEDEVILLE e FERRARIS. Le nouveau theatre du mon-
+- de ou la geographie royale. Leide, Pierre vander Aa. 1713, vol. in fol. massimo con numerose tavole, leg. in pergamena.
+- 1756 ATLAS de la navigation et du commerce qui se fait dans toutes les parties du monde. Amsterdam,Renard,1715, in fol. grande, con tavole a colori. Bozana.
+- 1757 LOTTO di quarantasei fascicoli del periodico The Connoisseur  per gli anni dal 19o8 al 1914, con la cune di alcuni fascicoli nei vari anni. Numerose illustraZioni a colori,piu un fascicolo del 《Diekunst  per l'an
+- no1911.
+- 1758 LOTTO di tre velumi di architetture e decorazioni.
+- 1759 LOTTO di settantotto fascicoli di pubblicazioni artistiche
+- fra i quali trentadue del α The Nations pictures ）, con belle tavole a colori.
+- 176o LOTTO di dieciannove volumi di guide per l'Italia e per l'estero.
+- 176i LOTTO di venticinque fra volumi e fascicoli di guide e
+- dizionari illustrati.
+- 1762 LOTTO di ventotto volumi e fascicoli di letteratura italiana e francese ed alcuni di scienze naturali.
+- 1763 LOTTO di trentanove fra volumi e fascicoli: araldica, let
+- teratura, archeologia.
+- 1764 LOTTO di tredici volumi; vocabolari, scienze, letteratura.
+- 1765
+- 5LOTTO di quattordici volumi di vario formato di letteratura fisica e storia.
+## BIANCHERIA
+
+TOVAGLIA per dodici persone in fine lino damascato. 1766
+
+1767
+
+1768
+
+ALTRA DETTA.
+
+ALTRA DETTA.
+
+- 1769 LOTTO di sei centri da tavola e copri comodino in lino
+- ricamato a varii disegni.
+- disegni.
+- QUATTRO LENZUOLA in mezzo lino per letto ad un
+- 1771 posto e mezzo.
+- QUATTRO LENZUOLA in mezzo lino per letto ad un
+- 1772 posto e mezzo.
+- 1773
+- OTTO LENZUOLA di cotone per letto ad un posto.
+- DUE LENZUOLA di cotone per letto a due posti. Orlo a
+- 1774 giorno e piccole cifre ricamate.
+- 1775
+- TRE LENZUOLA per letto ad un posto e mezzo ed altre per letto a due posti in cotone con orlo a giorno e piccole cifre ricamate.
+- TRE LENZUOLA per letto ad un posto e mezzo con orlo
+- 1776 a giorno e cifre ricamate.
+- 1777 QUATTRO LENZUOLA per letto ad un posto e mezzo
+- con tramezzi, delle quali due con cifre ricamate,
+- 1778 DUE LENZUOLA per letto ad un posto e mezzo con orlo
+- a giorno, cifre ricamate e quattro federe d’accompagno.
+- QUATTRO LENZUOLA di lino con ricami a vario dise
+- 1779 gno per letto ad un posto e mezzo. Cifre ricamate.
+- 1780
+- SEI LENZUOLA di lino con orlo a giorno delle quali tre con cifre ricamate e le altre con cifre in rosso.
+- 1781 QUATTRO LENZUOLA in tela d'Olanda per letto ad
+- un posto con orlo a giorno e cifre.
+- GRANDE LENZUOLO e due federe in tela pelle d’uovo
+- 1782 con riversina in ricamo a fiori a catenella.
+- 1783 TOVAGLIA in lino damascato e dodici salviette. Mano gramma ricamato.
+- 1784 ALTRA DETTA.
+- 1785 TOVAGLIA con bordo a giorno, merletto e rose a tombolo e dodici tovaglioli di accompagno.
+- 1786 TOVAGLIA da the e dodici tovaglioli in lino grezzo con
+- tramezzi a giorno e fiori ricamati.
+- LOTTO di due copri buffet, due copri comodini e due centri ricamati a varii disegni.
+- 1787
+- 1788
+- LOTTO di sei fra centri e copri buffet in lino ricamato a varii disegni.
+- 1789 CINQUE COPERTURE da cuscini in lino finemente rica-
+- mato e con guarnizioni di filet.
+- 1790 SEI CENTRI da tavolo in lino, alcuni ricamati a colori ed
+- altri a punto ago.
+- QUATTRO CENTRI da tavola dei quali tre finemente
+- 1791 ricamati ed altro di seta ricamato a colori.
+- TOVAGLIA di lino damascato a gruppi di trifogli e di 1792
+- felci e dodici tovaglioli d’accompagno. Cifre ricamate.
+- 1793 TOVAGLIA e dodici tovaglioli in lino damascato a palme
+- e gruppi di fiori. Cifre ricamate.
+- TOVAGLIA e dodici tovaglioli in lino damascato a gruppi 1794
+- di fiori con bordura ad ornati. Cifre ricamate.
+- 1795 ALTRO LOTTO d'accompagno al precedente.
+- TOVAGLIA e dodici tovaglioli in lino damascato a grup-
+- 1796 pi di fiori sopra un bordo a greca. Stemma ricamato.
+- TOVAGLIA e dodici tovaglioli in lino damascato a gruppi 1797
+- di spighe e fiori. Stemma ricamato.
+- TOVAGLIA e dodici tovaglioli in lino damascato a grup1798
+- pi di rose e trifogli. Cifre ricamate.
+- TOVAGLIA e dodici tovaglioli in lino damascato a gruppi 1799
+- di fiori. Cifre ricamate.
+1800 TOVAGLIA e dodici tovaglioli in lino damascati a gruppi di fiori e bordi a piccoli ornati. Cifre ricamate.
+
+1801 ALTRO LOTTO simile.
+
+1802 TOVAGLIA e dodici tovaglioli in lino damascato a foglie d'edera. Cifre ricamate.
+
+TOVAGLIA per diciotto persone in lino damascato a gran-
+
+1803 di campanule.
+
+1804 DODICI ASCIUGAMANI in lino, alcuni damascati.Cifre ricamate.
+
+1805 DIECI FEDERE in tela d'Olanda con bordo a giorno.
+
+1806 DIECI FEDERE di lino, di due forme con orlo a giorno.
+
+1807
+
+mata composto di tovagliola e sei tovaglioli e due tovaglie da the in lino ricamato con orlo a giorno.
+
+1807-A TAVOLO DA GIUOCO in noce.
+
+1807-B BASSA POLTRONA di noce con piano e dossello di velluto.
+
+1807-C ARMADIO di noce a due sportelli.
+
+1807-D COMODINO di noce ad uno sportello.
+
+LOTTO di tovaglietta da the, centro e copertura di cuscino in tela grezza ricamata in celeste,e due coperture
+
+1808 tela grezza ricamata.
+
+1809 LOTTO di sei tovaglioli in lino damascato a gruppi di trifogli,e due centri da tavolo ricamati in giallo.
+
+1810 TRE COPERTE lucchesine di varie grandezze.
+
+1181
+
+SEI ASCIUGAMANI di cotone a nido di vespa.
+
+1812
+
+SEI ASCIUGAMANI a spugna. Cifre ricamate.
+
+1813 SEI DETTI dei quali uno differente.
+
+1814 LENZUOLO e due asciugamani a spugna.
+
+1815 SEI ASCIUGAMANI di lino con piccole cifre ricamate.

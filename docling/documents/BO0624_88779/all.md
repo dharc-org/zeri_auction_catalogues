@@ -1,0 +1,389 @@
+CONRAD VON SOEST
+## CONRAD VON SOEST
+
+Soest, Anfang 15. Jahrh.
+
+## 1 1 Das Pfingstfest.
+
+Maria sitzt, die Taube zu Haupten, auf einem Thron, von dem die Stufe sichtbar ist. Sechs Apostel sitzen neben ihr, die sechs ibrigen bilden nach vorn hin einen Halbkreis und sitzen auf dem Boden. Maria und vier sie umgebende Apostel mit Nimben, die punktierte Namensinschriften zeigen. Oben baldachinartiger gemalter Abschluf mit breitem Rundbogen. Der Fufboden schachbrettartig gemustert. Am unteren Rand Fries aus stilisierten Rosetten. Maria mit Kleid aus rotem Brokat und blauem Mantel, die Apostel in blauer, violetter, roter und gruner Kleidung, die bei je zwei sich kompositionell entsprechenden Figuren farbig ungefahr ubereinstimmt. Goldgrund. Auf der Ruickseite die obere Halfte einer Figur der heiligen Cacilia mit Inschrift im Nimbus und rotem Grund.
+
+Eichenholz, Hohe 77 cm,Breite 52 cm. S.R.
+
+In den letzten Jahren ausgestellt im Museum zu Munster als Arbeit des Conrad von Soest. Vgl. die Bemerkungen zur folgenden Nummer.
+CONRAD VON SOEST
+## CONRAD VON SOEST
+
+Soest, Anfang 15. Jahrh.
+
+## 2 Die Kronung Maria.
+
+Auf dem Sitz einer reichen Thronarchitektur sitzt Christus, der links neben ihm knienden Jungfrau die Krone aufs Haupt setzend. Links und rechts neben dem Thron je zwei Engelchen musizierend und singend. Oben im Baldachinaufbau des Thrones vier weitere Englein betend. Maria und Christus mit goldenen Nimben. Christus in grinem, Maria in rotem Brokatgewand, die Mantel rot mit blauem bzw. blau mit gruinem Futter. Die Englein blau. Thron rosafarben. Goldgrund. Oben gemalter Rundbogen wie bei der vorigen Nummer. Zuoberst ein 9,5 cm hohes Stuick der Tafel mit einem Teil des Bogens in Nadelholz erganzt.-— Auf der Ruckseite die untere Halfte der Figur der heiligen Cacilia auf rotem Grund.
+
+Eichenholz,Hohe 77 cm, Breite 52 cm.
+
+Pfingstfest (siehe vorige Nummer) und Kronung bildeten die Innenseite eines Altarflugels mit der heiligen Cacilia auf der Aufenseite. Eine der vorliegenden verwandte Darstellung der Marienkronung im Landesmuseum zu Munster (Katalog Nr. 4).
+
+Lit.:W.Lubke, Die mittelalterl. Kunst in Westfalen,1853, S. 344.
+
+1.B. Nordhoff, Die Soester Malerei unter Meister Conrad, Bonner Jahrbucher 67, 1879,S.126f.
+
+Katalog der Ausstellung Munster 1879, Nr. 1446.
+
+A.Ludorff, Die Bau- und Kunstdenkmaler von Westfalen, Kreis Soest 1905, Tafel 142.
+
+- H. Schmitz, Die deutsche Malerei: Niederdeutschland (in Burgers Handbuch der
+2. P.I. Meier, Werk und Wirkung des Meisters Konrad von Soest 1921, S. 69.
+3. Kunstwissenschaft) 1917, S. 400 mit Abb.
+4. C.Holker, Meister Conrad von Soest 1921, S. 44 f
+## SCHULE DES CONRAD VON SOEST
+- 3
+
+## SCHULE DES CONRAD VON SOEST Soest, Anfang 15. Jahrh.
+
+- Unterweisung Maria.
+
+Auf einem Thron mit iberhangendem Baldachin sitzt die hl. Anna, ein aufgeschlagenes Buch in der Hand. Links neben ihr steht auf der Thronstufe die jugendliche hl. Maria, in das Buch blickend. Beide Figuren mit grofen vergoldeten Nimben. Anna in grunem, Maria in rotem Brokatkleid; Anna auferdem mit rosafarbenem, innen grunem Mantel und weifBem Schleier. Goldgrund mit eingepunztem Randornament. Ruckseitig Spuren eines groBlinigen Rankenornaments, das anscheinend aus
+
+Masse aufgelegt war.
+
+Eichenholz, Hohe 73,5 cm, Breite 48,5 cm. S.R.
+
+Lit.:I. B. Nordhoff, Die Soester Malerei unter Meister Conrad, Bonner Jahrbucher 67,1879,S. 123.
+
+C.Holker,Meister Conrad von Soest 1921, S. 49.
+## WERKSTATT DES CONRAD VON SOEST
+- 4 Doppelseitig bemalter Altarflugel.
+- Die Vermahlung a) Vier Szenen aus der Jugendgeschichte Christi. Josephs und Maria, die Verkundigung, die Flucht nach Agypten und der zwolfjahrige Jesus im Tempel lehrend. Jede Szene mit Goldgrund.— b) Die Kreuzigung Christi. Christus in der Mitte am Kreuz, links Maria, rechts Johannes, zwischen letzterem und dem Kreuz ein Stifter in kleiner Figur, knieend. Roter Grund.
+
+Eichenholz, Hohe 165 cm,Breite 107,5 cm.
+
+Katalog der Ausstellung Munster, 1879, Nr. 1445.
+
+A. Ludorff, Die Bau- und Kunstdenkmaler von Westfalen, Kreis Soest, 1905,
+
+Tafel 142.
+
+C.Holker, Meister Conrad von Soest 1921, S. 49.
+## NACHFOLGER DES CONRAD VON SOEST
+- 5
+
+NACHFOLGER DES CONRAD VON SOEST um 1420-1430.
+
+- Marter des Heiligen Laurentius.
+
+Der Heilige liegt auf dem Rost, der sich leicht schrag nach links in die Tiefe erstreckt,und ist mit weifBem Lendenschurz bekleidet. Sein Haupt mit einem goldenen Nimbus aus Ringen, die aus aufgelegter Stuckmasse bestehen; das Innere des Nimbus rot. Hinter dem Rost links zwei Manner, die Marter iberwachend, in rotem bzw. blaugrinem Rock; rechts zwei Schergen stochernd bzw. mit dem Blasebalg arbeitend, in gruinem bzw.rotem Rock, der eine mit violetter Kapuze und ebensolchen Hosen, der andere mit blauen Hosen. AnschliefBend rechts zwei barhauptige Zuschauer mit traurigem Ausdruck. Vorn ein Scherge mit blafrosafarbenem Rock und grunen Beinlingen, neben ihm Krug, Korb mit Kohlen und Blasebalg. Die Farben in zarten, changierenden Tonen. Erdboden; Hintergrund schwarz mit goldenen Sternen.
+
+Eichenholz, Hohe 78,4 cm, Breite 54 cm. S.R.
+
+In den letzten Jahren ausgestellt im Landesmuseum zu Munster als Arbeit eines Munsterischen Nachfolgers des Conrad von Soest.
+## DER MEISTER VON FLEMALLE
+## DER MEISTER VON FLEMALLE
+
+Sudniederlandisch,um 1430-1440.
+
+- 6 Maria mit dem Kinde in Halbfigur.
+
+Maria halt rechts mit beiden Handen das mit einem Hemdchen bekleidete, unten nackte Kind, das auf den Halsausschnitt der Mutter das rechte Handchen legt, wahrend es mit der Linken die linke, mit einem Fingerring geschmickte Hand der Mutter fafBt. Maria in weifbem Hemd, rotem, am rechten Handgelenk sichtbarem Unterkleid, dunkelblauem Gewand und weifem Kopfschleier; im Haar ein Reif mit Perlen. Goldgrund.
+
+Eichenholz,Hohe 33,5 cm, Breite 24 cm. In originalem profiliertem Eichenholzrahmen mit Vergoldung.
+## MEISTER DES LIESBORNER ALTARS
+## MEISTER DES LIESBORNER ALTARS
+
+Westfalische Schule, um 1465.
+
+Der Meister benannt nach dem einstigen Hochaltaraufsatz der 1807 aufgehobenen Benediktiner-Klosterkirche zu Liesborn,Kreis Beckum, in Westfalen. Das Datum wird ungefahr aus der Weihe des Hochaltars und der Nebenaltare im Jahre 1465 geschlossen. Der Hochaltaraufsatz wurde bei der Klosteraufhebung auseinandergenommen und einzelne der Gemalde zerschnitten.
+
+Angabe der gesamten Literatur siehe hinter Nr. 12.
+
+Trauernder Engel.
+
+Fragment. Von einer Kreuzigung Christi. Halbfigur, geflugelt, in Facestellung. Geschwungene Korperhaltung mit nach links geneigtem Haupte. In Albe und rosafarbenem Pluviale, das grun gefuttert und von einer goldenen Vierpafschliefe zusammengehalten ist. Die rechte,unter dem Pluviale verborgene Hand ist zum rechten Auge gefuhrt. Im blonden Haar ein rotes Band. Die Fittiche hellblau. Goldener Grund.
+
+Eichenholz, Hohe 16,6 cm, Breite 13,5 cm. G.R.
+
+Vom ehemaligen Hochaltar der Klosterkirche Liesborn. Der Engel schwebte zu Haupten Christi. Die Nummern 7-9 gehorten mit vier weiteren Fragmenten, dem
+
+Kopf des Gekreuzigten in London,National Gallery Nr.259,zwei Gruppen trauernder Heiliger ebenda, Nr. 260 und 261,und dem vierten Engel in Munster (Westfalen), Landesmuseum Nr. 8, zu einer Tafel zusammen, die das Mittelstuick des Altars bildete.
+## MEISTER DES LIESBORNER ALTARS
+MEISTER DES LIESBORNER ALTARS Westfalische Schule,um 1465.
+
+- 8 Engel mit Kelch.
+
+Fragment. Von einer Kreuzigung Christi. Halbfigur, gefluigelt, in Profl nach rechts. Mit beiden Handen einen goldenen Kelch haltend, in dem er Christi Blut auffing. In Albe und Pluviale aus braunem, gemustertem Brokat mit Perlenbesatz auf den Randborten und blauem Futter. Blondes Goldgrund, der im
+
+Haar. Die Fittiche braun mit gelber Unterseite. fruihen 19. Jahrh.erneuert ist.
+
+Eichenholz,Hohe 20,6 cm, Breite 18,2 cm. G.R.
+
+Vom ehemaligen Hochaltar der Klosterkirche Liesborn. Vgl. die Bemerkungen zu Nr.7.
+## MEISTER DES LIESBORNER ALTARS
+## MEISTER DES LIESBORNER ALTARS Westfalische Schule,um 1465.
+
+## 9 Engel mit Kelch.
+
+Fragment. Von einer Kreuzigung Christi. Halbfgur, geflugelt, in Profl nach links. Mit beiden Handen einen Kelch haltend, in dem er das Blut Christi auffing. Mit einer Albe bekleidet. Blondes Haar. Die Fittiche grun, unterseits rosa. Goldgrund, der im frihen 19. Jahrh. erneuert ist.
+
+Eichenholz, Hohe 20,6 cm,Breite 18,2 cm. G.-R.
+
+Vom ehemaligen Hochaltar der Klosterkirche Liesborn. Vgl. die Bemerkungen zu Nr.7.
+## MEISTER DES LIESBORNER ALTARS
+MEISTER DESLIESBORNER ALTARS Westfalische Schule,um 1465.
+
+## 10 Heiliger Joseph.
+
+Fragment. Von einer Geburt Christi. Brustbild in Profl nach links. Einem Arkadenpfeiler des Stalles zugewandt stehend, dessen rechte hintere Ecke vom Profl des Heiligen uberschnitten wird. In dunkelblauem Kapuzenkleid und rotem Uberwurf, der an der linken Schulter hochschaft wird rechts oben durch die verfallende Mauer ein schmaler Streifen, links durch die offene Wand ein Stuick mit einem kauernden Hirten, der der Engelsbotschaft lauschte, mit Baumen sichtbar. Die Landschaft in blauen Tonen.
+
+Eichenholz, Hohe 26 cm,Breite 229 cm. Geschnitzter G.R., der oben in flachem Bogen die Bildflache iberschneidet.
+
+Vom ehemaligen Hochaltar der Klosterkirche Liesborn.
+
+Die Zugehorigkeit zu einer Geburt Christi ergibt sich hier, im Gegensatz zur folgenden Nummer, aus der Figur des Hirten auf dem Felde im Hintergrund. Das Bruchstick gehorte mit der Verehrung des Christkindes durch die Engel,in Munster, Landesmuseum Nr. 9 (dort die untere Partie der Figur Josephs), zu einem Gemalde des einen Flugels zusammen. Das vorliegende Fragment galt bisher falschlich als
+
+Kopf eines Hirten.— Die ibrigen Teile des Gemaldes verschollen.
+## MEISTER DES LIESBORNER ALTARS
+## 11
+
+MEISTER DES LIESBORNER ALTARS Westfalische Schule,um 1465.
+
+## HEILIGER JOSEPH.
+
+Fragment. Von einer Anbetung der Konige. Brustbild in Dreiviertelprofl nach links. In dunkelblauem Kapuzenkleid und rotem Uberwurf. Die Linke stitzt sich auf einen Krickstock, die Rechte schiebt die Kapuze vom Haupte zuruck, das nur an den Randern sparliches weifes Haar zeigt. Am rechten Bildrand wird ein Baumstamm als Stuitze des Stalles sichtbar, oben ein Stuick der Stallmauer, mit einer Fensteroffnung links; die Offnung laft oben blauen Himmel, unten gruines Feld erkennen; ein Stuick der
+
+Fensterbank wird an der linken unteren Ecke sichtbar.
+
+Eichenholz, Hohe 21,7 cm, Breite 15,7 cm. Geschnitzter G.-R.
+
+Vom ehemaligen Hochaltar der Klosterkirche Liesborn. Mit der folgenden Nummer zu einer Anbetung zusammengehorend. Vgl. die Bemerkungen dort. Das vorliegende Fragment galt bisher ebenfalls falschlich als Kopf eines Hirten.
+## MEISTER DES LIESBORNER ALTARS
+- 12 Heiliger Konig.
+
+Fragment. Von einer Anbetung der Konige. Brustbild in Dreiviertelprofl nach rechts. Jugendlich, bartlos. Die nicht miterhaltene Rechte halt ein goldenes DeckelgefaiB, die Linke greift nach der reichen, mit Steinen und Perlen besetzten goldenen Zackenkrone, die er auf dem blonden Haar tragt. Dunkelblaues Untergewand, pelzgefuitterter Mantel aus rotem, gemustertem Brokat. Im Hintergrund Landschaft in blaulichen Tonen, mit Stadtarchitektur links; rechts die linke untere Ecke des Stalldaches.
+
+Eichenholz, Hohe 23,1 cm, Breite 19,9 cm. Geschnitzter G.R. Vom ehemaligen Hochaltar der Klosterkirche Liesborn.
+
+Mit der vorhergehenden Nummer zu einer Anbetung der Konige gehorend. Von dem Gemalde, das auf einem Flugel seinen Platz hatte,ist ferner erhalten der Ausschnitt mit dem Kinde und den beiden anderen Konigen in London, National
+
+Gallery, Nr. 258; das ibrige verschollen.
+
+## Literatur uber den Altar:
+
+- J.D.Pas savant,Kunstreise durch England-und Belgien, 1833, S. 399ff. Derselbe in Schorns Kunstblatt,1841, S. 417.
+- C.Becker,in Schorns Kunstblatt, 1843, S.369.
+- Fr. Kugler, Handbuch der Geschichte der Malerei,2. Aufl.v.Jak.Burckhardt,1847,
+- II,S.162.
+- W.Lubke,Die mittelalterliche Kunst in Westfalen, 1853,S. 346f.
+- C.Schnaage, Geschichte der bild.Kunste im 15. Jahrh.,1879, S.362ff.
+- 1.B. Nordhoff, Die Chronisten des Klosters Liesborn, 1866, S.32ff Katalog der Ausstellung westfalischer Altertuimer zu Munster, 1879, Nr. 1457, 1456, 1456a, 1460 (irrtumlich als Monch angesprochen),1459 (irrtumlich als Benediktiner) und 1458.
+- H. Janitschek, Geschichte der deutschen Malerei, 1890, S. 239f.
+- S.54f,Tafel 44ff
+- A.Ludorff, Die Bau- und Kunstdenkmaler von Westfalen, Kreis Beckum, 1897,
+- Katalog der Dusseldorfer Ausstellung 1904, Nr. 112 und 113.
+- F.Koch,Die Kunst in der westfalischen Grafschaft Mark (in der Festschrift der
+- F.Koch, Verzeichnis der Gemalde im Landesmuseum der Prov.Westfalen, S. 10 f.
+- Grafschaft Mark,hrsg.v.A. Meister), 1910, mit Abbildungen.
+- C.Glaser,Zwei Jahrhunderte deutscher Malerei, 1916, S. 113f, mit Abbildung.
+- E.Heidrich,Altniederlandische Malerei, 1910, Nr. 181. (Abb.)
+- H. Schmitz, Die deutsche Malerei: Niederdeutschland (in Burgers Handbuch der
+- C.G.Heise,Norddeutsche Malerei,1918, S.37 ff.u.140,mit Abbildungen. Katalog der National Gallery zu London, 1925, Nr.254—261.
+- Kunstwissenschaft),1917, S.458,mit Abbildung.
+- W.van der Briele,Westfalische Malerei,1926, S.93 ff.,mit Abbildungen.
+## JOHANN KOERBECKE
+## JOHANN KOERBECKE,
+
+Nachweisbar seit 1446 in Munster, 1491 tot.
+
+- 13 Altarflugel mit vier Szenen aus der Legende des
+- heiligen Laurentius.
+
+Oben: a) Der Heilige im Gefangnis, Blinde heilend. Links das Gefangnis, aus dem er herausblickt. Vor ihm zwei Blinde, dahinter eine Frau mit Kind und ein Mann. b) Er fuihrt die geheilten Blinden dem Kaiser vor, der rechts sitzt mit Beamten zur Seite.Offene Halle. Unten: c) Er wird zum Martyrium verurteilt. Der Kaiser in der Mitte einer Halle sitzend, vorn rechts Laurentius, von Schergen bedrangt, links Beamte des Kaisers. d) Er liegt nackt auf dem Rost. Links der Kaiser mit Beamten stehend, rechts zwei Schergen mit langen Gabeln hantierend. Oben in Wolken die Halbfigur Gottvaters. Landschaft.Der Heilige jeweils in Dalmatica aus blaugemustertem Brokat, der Kaiser in Lendner aus braunem Brokat und blauen Hosen. Die Kleidung der uibrigen Personen in zarten roten, rosafarbenen, blauen, gelben, grunen und braunlichen Tonen. Die Feldereinteilung rot mit erlauternden weifen Inschriften uber den einzelnen Darstellungen; die Inschriften z. T.verstimmelt. Der Kopf des Heiligen in der letzten Szene beschadigt.
+
+Eichenholz,Hohe 168,5 cm, Breite 119 cm.
+
+In den letzten Jahren ausgestellt im Museum zu Munster als Arbeit Koerbeckes. Aus der Kirche zu Warendorf bei Munster (Westfalen),wo der Heilige als Patron verehrt wurde. Rechter Flugel eines Altars.
+
+Uber den Meister vgl. M. Lippe in Thieme-Beckers Kunstler-Lexikon, Bd.XXI, 1927, S.175f.
+## NACHFOLGER DES DIRK BOUTS
+## NACHFOLGER DES DIRK BOUTS.
+
+Niederlandisch, 2. Halfte 15. Jahrh.
+
+## 14 Die Heilige Anna in Halbfigur.
+
+In Dreiviertelprofl nach rechts. Dunkles Gewand mit Guirtel, roter Mantel mit besticktem Saum, weifBer Schleier und ebensolches Kinntuch. Dunkler Grund.
+
+Eichenholz, Hohe 32,5 cm, Breite 26,5 cm.G.-R.
+## HOLLANDISCHER MEISTER UM1500
+HOLLANDISCHER MEISTER um1500.
+
+## 15 MARIA MIT DEM KINDE in Halbfigur.
+
+Maria stitzt das beinahe bis zu den Knien sichtbare, links auf ihrem Schof sitzende Kind mit der Rechten im Rucken und reicht ihm mit der Linken zwei Kirschen. Das Kind halt in der Rechten einen Vogel, auf den sein linker Zeigefinger hinweist. Maria in weibem Hemd, dunkelblauem Gewand mit rotem Unterkleid und dunkelblauem Mantel,in ihrem offenen Haar ein Perlreif. Das Kind in weifem Hemdchen. Roter Grund.
+
+Eichenholz, Hohe 32,7 cin, Breite 23,8 cm. In originalem, profiliertem Eichenholzrahmen mit Vergoldung.
+
+Verwandt ein Gemalde mit der Madonna und der heiligen Agnes und Johannes im Utrechter Museum, Abbildung bei Fr. Dulberg, Fruhhollander Il, Tafel II.
+## NIEDERLANDISCHER MEISTER
+
+UM 1520-1530
+NIEDERLANDISCHER MEISTER um 1520-1530
+
+## 16 Die Flucht nach Agypten.
+
+Im Vordergrund auf einer Strafe die heilige Familie. Joseph fuhrt den Esel, auf dem Maria mit dem Kinde sitzt. Rechts Bauernhof, eine Frau schlielBt das Gitter des Zauns. Links Gotzenbild (Amor), dessen Kopf beim Vorbeizug der heiligen Familie abgefallen ist. Landschaft.
+
+Eichenholz, Hohe 33,3 cm, Breite 48 cm.G.R.
+
+## 0ee1-ose1MU
+LUDGER TOM RING D.J.
+LUDGER TOM RING D.J., Munster 1522-1583/84 Braunschweig.
+
+## 17 Brustbild eines Mannes
+
+in Dreiviertelprofl nach rechts. Barhauptig,blondes Haupthaar,blonder Rundes Bildfeld in
+
+Kinn- und Schnurrbart. In grauem Rock, weifer Halskrause und schwarzem Mantel mit hochgeschlagenem Kragen. Griner Hintergrund, darin links Aet. 24, rechts das Monogramm des Kunstlers. gemaltem, braunem Rahmen, in dessen Zwickeln verteilt die Ziffern der Jahreszahl 1572.
+
+Eichenholz, Hohe 14,7 cm,Breite 14,6 cm. G.-R.
+
+Ausstellung Die Werke der Munsterschen Malerfamilie tom Ring" im Landesmuseum der Provinz Westfalen zu Munster 1924, Katalog Nr. 60. C.Holker, Die Malerfamilie tom Ring 1927,Nr. 87.
+
+Aus der Braunschweiger Zeit des Meisters.
+JAN VAN RILLAER
+JAN VAN RILLAER,
+
+Lowen.Nachweisbar 1518-1568.
+
+- 18 Das Martyrium des heiligen Erasmus.
+
+Die Figurengruppe eine Kopie nach dem Bilde des Dirk Bouts in der St. Peterskirche zu Lowen; mit einem vom Kunstler selbstandig eingesetzten architektonischen Hintergrund.
+
+Eichenholz, Hohe 90,5 cm, Breite 86,5 cm. G.-R. Uber den Meister vgl. A.Kuhn in der Zeitschrift f. bild. Kunst 50, 1915, S. 81 ff.
+## ART DES LUCAS VAN LEYDEN
+## ART DES LUCAS VAN LEYDEN Niederlandisch,16. Jahrh.
+
+- 19-20 Ein Paar Rundbilder mit den Halbfiguren Christi
+- und Maria.
+
+Gegenstuicke. Beide Figuren einander zugewandt in Dreiviertelprofil, hinter einer Brustung stehend,die Hande ber der Brust gekreuzt. Christus mit Dornenkrone und Nagelmalen, in rotem Mantel, Maria in blauem Untergewand und weifBem, blaulich schattiertem Mantel, der iber den Kopf gezogen ist. Auf Goldgrund.
+
+Eichenholz, Durchmesser je 26,8 cm. Ruckseitig das Monogramm Durers als spatere Zutat.S.R.
+
+Angeblich aus Kloster Liesborn in Westfalen.
+
+Katalog der Ausstellung Munster, 1879, Nr. 1461 (dort irrig als Teile eines Altars）. A. Ludorff, Die Bau- und Kunstdenkmaler von Westfalen, Kreis Beckum, 1897 S.54,Tafel 43.
+JAN BRUEGHEL D.A. UND JOOS DE MOMPER
+JAN BRUEGHEL D.A.UND JOOS DE MOMPER,
+
+Brussel 1568-1625 Antwerpen bzw.Antwerpen,15641635.
+
+## 21 Ansicht eines Dorfes.
+
+Es liegt im Mittelgrund, rechts StraBe mit Hausern, Viehherde und Bauern. Links Rand eines Waldes, am Eingang ein Karren, auf den
+
+Apfel geladen werden. Vorn in der Mitte bez. J. Breughel 1610.
+
+Eichenholz, Hohe 42,3 cm,Breite 66,3 cm. G.-R.
+
+Die Landschaft von Momper, die figurliche Staffage von Brueghel.
+NACH REMBRANDT
+
+ALBRECHT DURER
+- 22 Kopf eines alten bartigen Mannes im Profil nach links. Die rechte Hand erhoben, der abgespreizte Daumen beruihrt den Mund. Braune Gewandung und braune Mitze.
+
+Eichenholz,Hohe 24,3 cm, Breite 20,6 cm.G.-R.
+
+Das Original wohl eine Studie zu dem einen der Alten auf Rembrandts Susannen- bild im Berliner Kaiser-Friedrich-Museum.
+
+- 23 Kopfeines alten bartigen Mannes en face gesehen. Farben-
+- gebung ahnlich. In rotem Hut.
+
+Eichenholz, Hohe 24,5 cm, Breite 20,6 cm.G.-R.
+
+## ALBRECHT DURER
+
+- 24 Kupferstich:Die Melancholie. 1514.
+- B.74. Mit Randchen.
+JUDOCUS VREDIS
+
+HOLLANDISCH
+## JUDOCUS VREDIS.
+
+Tatig etwa 1500-1530 im Karthauser-Kloster zu Wedderen bei Dulmen in Westfalen, als dessen Prior er 1540 starb.
+
+## 25 Tonrelief mit der Verkundigung.
+
+Die Darstellung in mittelbarer Anlehnung an die Komposition des Meisters von Flemalle. Zwischen dem Bildfeld und dem glatten rahmenden Rand eine breite Kehle, die in der oberen Halfte mit reliefierten Ranken gefilt ist. Zu unterst ein besonderer Rankenfries; in seiner Mitte, in die Kehlung ubergreifend, ein Medaillon mit der Halbfigur der Madonna im Strahlenkranz. Seitlich davon in der unteren Kehle Bluitenzweige. In den Seiten der Kehle Konsolen, ehemals mit plastischen Figurchen besetzt, an deren Stelle zwei gemalte Figurchen des 17. Jahrhs.
+
+Hochrelief, Hohe 44,2 cm, Breite 34,7 cm. Die untere Halfte mit Kittungen. Mit
+
+Bemalung des 17. Jahrhs.
+
+Die Madonna unten nach dem Stich des Meisters E. S., L. 20o A.
+
+Lit.:B.Meier, Judocus Vredis und die Utrechter Bilderbacker, Zeitschr.,Westfalen",
+
+VII, 1915, S.132, Nr.39,mit Abbildung.
+
+## HOLLANDISCH
+
+2.Halfte des 15. Jahrhs.
+
+- 26 Tonrelief mit dem heiligen Georg im Drachenkampfe.
+
+Der Heilige mit erhobenem Schwert auf seinem Pferde nach rechts hinsprengend, unter dem Pferde der Drache; im Hintergrund oben links Cleodelinde, vor ihr das Lamm, rechts die Burg mit den Kopfen des Konigs und der Konigin.
+
+Hochrelief mit erhohtem, glattem Rand. Hohe 33,3 cm,Breite 24,4 cm. Mit Be- malung aus alterer Zeit.
+
+Aufer der vorliegenden keine Ausformungen bekannt.
+
+Lit.:B. Meier, ebenda (siehe vorige Nummer), S. 133, Nr. 50, mit Abbildung.
+BARTHEL BRUYN
+- 27 Kleiner Flugelaltar mit der heiligen Familie und Stiftern.
+
+Mittelbild: Maria sitzt rechts vor einem roten Goldbrokatstreifen, den zwei schwebende Englein halten; das nackte Kind auf ihrem Schof. Links sitzt Joseph, in einem Napf mit Brei rihrend. Vorn Bruistung mit einem Deckelglas, Broten, einer Zitrone und einem Messer. Landschaftlicher Hintergrund.—Linker Flugel: Halbfigur eines Stifters in Dreiviertelprofil nach rechts, mit einem Rosenkranz in den betend gefalteten Handen. In schwarzem Samtrock, griner Schaube mit Pelzbesatz und schwarzem Barett. Vorn graue Steinbristung mit der Jahreszahl 1523. Braunlicher
+
+Grund, darin oben weifber Schild mit den Buchstaben BE B Rechter
+
+Flugel: Halbfigur einer Stifterin in Dreiviertelprofl nach links, mit Rosenkranz aus Korallen in den betend zusammengelegten Handen. In schwarzem Kleid mit Perlstickerei und rotem Brusteinsatz, grunem, weif gefuittertem Mantel und schwarzem Schulterkragen; dazu weife Haube und durchsichtiger weifer Schleier. Vorn graue Steinbruistung. Braunlicher Grund, darin oben weifer Schild mit den Buchstaben
+
+M
+
+Eichenholz. Mitteltafel: Hohe 52,3 cm, Breite 62 cm; Seitentafeln: Hohe je 52 cm,
+
+Breite je 16,5 cm.Rahmen spater.
+
+Die Stifterbilder eigenhandige Arbeiten Bruyns von 1523, das Mittelbild in der Art des Joos van Cleve.
+I.C.DROOCHSLOOT
+I.C.DROOCHSLOOT Utrecht,1586-1666.
+
+## 28 DorfstraBe.
+
+In der Tiefe ein spitzer Kirchturm. Vorn links zechende Bauern. An Hauswand links am Bildrande die Signatur IC (verschlungen) Drooch Sloot 1647.
+
+Eichenholz,Hohe 75 cm, Breite 107 cm. G.R.
+
+Gegenstick zu folgender Nummer.
+
+## 29 Dorfstrafe.
+
+Im Mittelgrund links Turmruine. Rechts drangt eine Anzahl Bauern in den Eingang eines weiteren Turmes, links zechende Bauern; auf einem Weinfaf die Signatur IC.(verschlungen) D. S.1647.
+
+Eichenholz,Hohe 76 cm, Breite 107 cm. G.-R.
+
+Gegenstick zur vorhergehenden Nummer.
+## ART DES JACOPO AMIGONI
+ART DES JACOPO AMIGONI um 1720.
+
+- 30 Maria mit dem Kinde
+
+in Halbfigur. e en face gesehen. Das nackte Kind liegt schrag vor ihr auf einem Lager und schlaft, mit der Linken eine Frucht beruhrend. Maria in rotem Gewand und graubraunem Mantel, der iber den Kopf
+
+Beinahe gezogen ist.
+
+Leinwand,Hohe 85 cm, Breite 72 cm. G.-R.
+
+## HBL DEETHCObOCOVI
+JAN VERSPRONCK
+JANVERSPRONCK Haarlem,1597-1662.
+
+- 31 Portrat eines jungen Mannes in Halbfigur, barhauptig, der Korper in Dreiviertelprofl nach rechts, der Kopf fast en face. Die linke Hand ist auf die Hufte gestitzt. Roter Rock mit weifBem Spitzenkragen und Manschetten. Blondes Haar. Graugruiner Grund. Eichenholz, Hohe 71,2 cm, Breite 59 cm. G.R.

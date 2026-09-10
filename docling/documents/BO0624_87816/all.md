@@ -1,0 +1,692 @@
+## Verkaufs-Bedingungen.
+
+- 1.Die Versteigerung geschieht gegen sofortige Zahlung in Deutscher Reichswahrung. Die Uebernahme erfolgt sogleich mit dem Zuschlage.
+- 2.Diejenigen Kaufer,welche am folgenden Tage zu zahlen wunschen, muissen eine angemessene Summe vor der Ver-
+- steigerung deponieren.
+- 3.Die Gegenstande werden in dem Zustande versteigert,in welchem sie sich befinden, und kann nach erfolgtem Zuschlag keinerlei Reklamation bericksichtigt werden.Die im Katalog enthaltenen Angaben und Beschreibungen der zum Verkauf gestellten Gegenstande werden nicht gewahrleistet.
+- 4.Angegebene MaBe verstehen sich bei Gemalden ohne Rahmen.
+- 5.Gesteigert wird mindestens um 1 Mk., iber 100 um 5Mk. Von der Reihenfolge wird nur ausnahmsweise abgewichen.
+- 6.Ein Aufschlag zur Kaufsumme wird vom Kaufer mit 5% erhoben.
+- 7.Bei Streitigkeiten iber den Zuschlag wird der betreffende Gegenstand noch einmal ausgeboten.
+- 8.Wenn zwei oder mehrere Personen zugleich ein und dasselbe Gebot abgeben, entscheidet das Los. (Ges.v. 10. Juli 1902.)
+
+## Rudolph Lepke's Kunst-Auctions-Haus.
+## VERSTEIGERUNG:
+
+## Dienstag, den 29.Oktober 1907
+
+von 10 Uhr ab.
+
+## C.REINHARDT.
+
+- 1.Blick auf den speienden Vesuv.
+- Holz.Mit obigem Namen in tergo bezeichnet.H.20 cm.B.25 cm.G.-R.
+
+## Nach P.BATTONI.
+
+- 2.Die buBende Magdalena in der Einode.
+- AufPorzellan gemalt.H.13 cm.B.18 cm.G-R.
+
+## UNBEKANNT.
+
+- 3.Gebirgslandschaft mit Wasserfall.
+- Leinwand.H.22cm.B.22cm.G.-R.
+- 4.Landschaft mit Windmihle und Bauernkarren. Holz.H.21 cm.B.25 cm.S.R.
+- 5.Spanische StraBenszene.
+- Holz.H.35 cm.B.26cm.G.R.
+- 6.Der kleine Christus mit der Weltkugel, von Engeln umgeben.
+- Leinwand.H.26cm.B.35cm.G.-R.
+- 7-8.Zwei Mondscheinlandschaften mit Staffage.Gegenstuicke. Holz.H.26 cm.B.35cm.G-R.
+
+## DEUTSCHE SCHULE.
+
+- 9.Die Kreuztragung Christi.
+- Feines Bildchen aufKupfer.Erste Halfte des 17.Jahrh.H.14 cm.B.16 cm.G.-R.
+- 10.Brustbild eines bartigen Rabbiners. Holz.18.Jahrh.H.23 cm.B.17cm.G.R.
+- 11.Brustbild eines bartigen Mannes mit Pelzmutze.
+- Holz.18.Jahrh.H.26 cm.B.18cm.G.R.
+- 12.St.Martin mit dem Bettler den Mantel teilend. Auf Rupfer.Um 1600.H.22 cm.B.15 cm.G-R.,durchbrochen.
+
+## ITALIENISCHE SCHULE.
+
+13. Zwei Frauen in Halbfigur, die eine halt einen Palmenzweig.
+2. Holz.In tergo bezeiehnet:Pietro Buonacorsi.16.Jahrh.H.21 cm.B.16 cm.G-R,durchbrochen.
+3. 14-26.Zyklus von 13 Darstellungen aus dem Leben Christi.
+4. Interessante Arbeiten.Leinwand auf Holz.H.26 cm.B.21 cm.S.R.
+## NIEDERLANDISCHE SCHULE.
+
+- 27.Interieur mit Gesellschaft beim Weine. Holz.18.Jahrh.H.12cm.B.15 cm.G.-R.
+
+## J.VERNET.Art.
+
+- Leinwand.H.20 cm.B.27 cm.G.-R.
+- 28-29.Hafenpartie. Brandung an felsiger Kuste.Gegenstuicke.
+
+## OL-MINIATURE.
+
+- Holz,oval.H.11 cm.B.9 cm.Geschnitzter und durchbrochener G.-R.
+- 30.Halbfigur eines lautespielenden Pagen.
+
+## Nach GUIDO RENI.
+
+- 31.Trinkender Bacchus bei einer Tonne.
+- Holz.H.31cm.B.23cm.G.R.
+
+## NIC.BERCHEM.Art.
+
+- 32.Im Vordergrunde einer Landschaft Hirtinnen bei ihrer Herde. Auf Holz.H.18 cm.B.25 cm.Durchbrochener G.R.
+
+## B.DENNER. Art.
+
+- 33.Kopf eines Mannes mit kurzem weiBen Bart. Leinwand.H.21 cm.B.16cm.G.-R.
+
+## J.B.GREUZE. Art.
+
+34. En face-Brustbild eines jungen Madchens mit weiBer Haube. Holz.H.25 cm.B.19 cm.G.-R.
+
+## Nach G. METSU.
+
+- 35.Sitzender Ceflugelhandler,einen Hahn haltend. Holz.Mit dem Namen Metsu's.H.21cm.B.22 cm.G-R.
+
+## Nach A.v. DYCK.
+
+- 36.Die heil. Familie mit dem schlafenden Christuskinde in einer Landschaft. Holz.H.30cm.B.22cm.G.-R.
+37. Susanna im Bade von den beiden Alten iberrascht.
+
+## G.DOU. Art.
+
+- Holz.H.31cm.B.24cm.G.-R.
+- 38.Der heil. Franciscus in einer Hohle im Gebet vor dem Kruzifix.Lampenbeleuchtung. Feines Bildchen auf Holz.H.35 cm.B.26 cm.G.-R.
+
+## W.v.d.VELDE.Art.
+
+- 39.Segelboote in der Nahe eines Hafendammes.
+- Holz.H.22cm.B.27cm.G-R.
+
+## Nach B.E.MURILLO.
+
+40. Genreszene von zwei Figuren. Leinwand.H.46cm.B.34 cm.G.R.
+- Holz.H.39cm.B.21cm.G.R.
+
+## A.THOMAS.
+
+- 41.Partie aus dem Parke der Villa d'Este in Tivoli.
+- Holz,signiert.19.Jahrh.H.61 cm.B.49.cm.G.R.
+
+## ALFRED de DREUX.
+
+42. Zwei Damen zu Pferde auf einer Parkterrasse.
+2. Leinwand.19.Jahrh.H.40cm.B.50cm.G.-R.
+
+## Bezeichnet ROSA B.
+
+- 43.Ein mit zwei Pferden ackernder Landmann auf dem Felde.
+- AufHolz.19.Jahrh.H.29 cm.B.36 cm.G.R.
+
+## D.TIEPOLO.Art.
+
+- 44.Die vier Evangelisten in ganzen Figuren stehend. Grau in grau gemalt.Leinwand.H.21 cm.B.27 cm.G.-R.
+
+## Nach DIEGO VELASQUEZ.
+
+45. En face-Brustbild eines Mannes mit Henri quatre,
+2. Angeblich Selbstportrat des Velasquez.Leinwand.H.62 cm.B.48 cm.G.-R.
+
+## Nach FRANS HALS.
+
+46. Ein Gelehrter in schwarzem Wams und Hut vor einem Folianten sitzend und schreibend.
+
+Holz.Mit dem Monogramm des Fr.Hals bezeichnet.H.26 cm.B.18 cm.S.R.
+
+## Nach G.DOU.
+
+47. Junges Paar im Keller, unerlaubterweise den Wein probierend.
+
+## Nach REMBRANDT van RIJN.
+
+- 48.Brustbild eines bartigen Rabbiners mit Turban.
+- Leinwand.H.57cm.B.42cm.G.-R.
+
+## Nach J. B. GREUZE.
+
+- 49.Brustbild eines jungen Madchens in ausgeschnittener Taille. Holz,signiert.H.23 cm.B.17 cm.G.-R.
+
+## CLAUDE LORRAIN. Angeblich.
+
+- 50.Italienische Landschaft mit Ruinen. Auf Holz,mit Cl.Lorrains Signatur.H.17 cm.B.23 cm. G.-R.
+
+## Nach D. TENIERS.
+
+51. Bettler, den Hut in der ausgestreckten Hand. AlteKopie mit Monogramm.Holz.H.16 cm.B.11 cm.S.R.
+
+## UNBEKANNT.
+
+- 52.En face-Brustbild eines weiBbartigen Mannes. Leinwand.H.61cm.Br.49 cm.G-R.
+- 53.Halbfigur eines furstlichen Jagers. Leinwand.19.Jahrh.H.134cm.B.99 cm.G.R.
+- 54.Italienischer Brigant. Leinwamd.19.Jahrh.H.84 cm.B.67cm.G.-R.
+## UNBEKANNT.
+
+- 55-56. Zwei Interieurs mit Pantoffelmacher und Madchen am Spinnrad. Gegensticke.
+- Holz.18.Jahrh.H.19,5 cm.B.15 cm.G.R.
+- 57.Blick auf die Festung Varna aus der Vogelperspektive.
+- Auf Pappe.19.Jahrh.H.23 cm.B.32cm.G.-R.
+
+## NIEDERLANDISCHE SCHULE.
+
+58. Stehende Kuh in einer Landschaft.
+2. Holz.Rechts unten eine Signatur.19.Jahrh.H.31cm.B.26 cm.G.-R.
+3. 59.Ein junger Mann, vor einer Tonne sitzend, stopft sich die Pfeife.Daneben ein Hund. Holz.H.30cm.B.25cm.G-R.
+4. 60.Die heilige Familie im Stall zu Bethlehem,von Hirten angebetet. AufKupfer.17.Jahrh.H.26cm.Br.35cm.G.-R.
+61. Alter Mann im Lehnstuhl. Auf einem Tisch daneben Globus. Holz.H.22cm,B.16 cm.S.R.
+62. Sitzender Landsknecht mit Weinkrug. Holz.H.25cm.B.10cm.G.-R.
+
+## Nach A. WATTEAU.
+
+63. Sechs Figuren der italienichen Comodia del arte in einer Parklandschaft.
+2. Sehr hibschesBild aufLeinwand.H.48cm,Br.63cm.G.-R.Siehe Reproduktion aufTafel X
+
+## UNBEKANNT.
+
+- 64.Die heil. Jungfrau mit dem Kinde, St. Johannes und einem Engel in einer Landschaft. Rechts auf einer Planke ein Monogramm.H.35 cm.B.30 cm.S-R.
+
+## Nach ADR. BROUWER.
+
+- 65.Drei Bauern im Wirtshaus.
+- AlteKopieauf Holz.H.21cm.Br.16cm.G.-R.
+
+## NIC.BERCHEM. Art.
+
+- 66.In einer Abendlandschaft heimkehrende Hirten mit ihrem Vieh.
+
+## C.BEGA.Art.
+
+- 67.Interieur mit trinkenden und plaudernden Bauern.
+
+## FR. ALBANI. Art.
+
+- 68.Diana mit ihren Nymphen im Vordergrunde einer Waldlandschaft. AufMetall.H.32cm.B.36cm.G.-R.
+
+## C.W.E.DIETRICH.
+
+- 69.Halbfigur eines Einsiedlers, welcher einen Totenkopf betrachtet. Holz.H.33cm.B.24cm.G-R.
+
+## JAC.RUISDAEL.Art.
+
+- Leinwand.H.56 cm.B.70 cm.G.R.
+- 70.Die Wasserfalle bei Tivoli. Maultiertreiber als Staffage.
+- Holz.H.21cm.B.27cm.G.-R.
+- Holz.H.32cm.Br.25cm.G.R.
+## Nach DAVID TENIERS.
+
+- 71.Hexe,von Damonen umgeben. Leinwand.H.32cm.B.45cm.G.-R.
+
+## DEUTSCHER MEISTER.
+
+- 72.Friedrich der Weise und Joh. Georg von Sachsen, Luther und Melanchton hinter
+- einem Altare stehend. Oben Wappen, auf dem Altare eine deutsche Inschrift. InteressanteBild auf Holz.2.Halfte des 16.Jahrh.H.34 cm.B.23 cm.G-R.Siehe Reproduktion auf TafelVII1
+
+## Nach PAUL POTTER.
+
+- 73.Ein Hirt, seine Rinderherde durch einen Bach treibend. Leinwand.H.36cm.B.47cm.G.-R.
+
+## Nach NIC. POUSSIN.
+
+- 74.Bacchanal bei der Statue der Venus. Leinwand.H.76 cm.B.91cm.G.R.
+- 75.Pestkranke im Vordergrunde einer Felsenlandschaft. Leinwand.H.75cm.B.90cm.G.R.
+
+## J.L.DAVID zugeschrieben.
+
+76. Mars mit Helm und Schild in einer Felsenlandschaft. Leinwand.H.94cm.B.71cm.G-R.
+
+## PH.WOUWERMAN. Art.
+
+- 77.Landleute bei ihren Pferden stehend. Rechts ein Erntewagen.
+- Leinwand auf Holz.H.30cm.B.36 cm.G.-R.
+
+## HANS HOLBEIN. Art.
+
+78. Brustbild eines bartlosen jungen Mannes mit Barett.
+2. Holz.H.48cm.B.37cm.G.-R.
+
+## Nach P. P. RUBENS.
+
+79. Helene Forment, die Gemahlin des Meisters.
+2. Schones Portrat auf Leinwand.Oval.H.65cm.B.50 cm.G.-R.
+
+## Nach RAFFAELLO SANTI
+
+80. Zwei mannliche Akte in ganzen Figuren, stehend. AufHolz.AlteKopie.H.40 cm.B.26 cm.In schon geschnitztem und drurchbrochenem G.-R.
+
+## ADR. v.OSTADE bezeichnet.
+
+81. Trinkende, singende und rauchende Bauern in einer Schanke.
+2. Auf Holz.H.34cm.Br.42cm.S.R.
+
+## G.KNELLER. Art.
+
+82. Huftbild eines Herrn in rotem Sammetrock und Allonge-Perucke. Leinwand.H.76 cm.B.64 cm.G-R.
+
+## Nach DAVID TENIERS.
+
+83. Inneres einer Hexenkiche mit Hexen und Damonen.
+2. Holz.H.28cm.B.40cm.G.R.
+## Nach GUIDO RENI.
+
+- 84.Brustbild Christi mit der Dornenkrone.
+- Sehr schone alte Kopie auf Leinwand.H.28 cm.B.21 cm.G.R., durchbrochen.
+
+## Nach ANTONIO ALLEGRI.
+
+- 85.Die heilige Magdalena, in einer Felsenhohle betend.
+- Auf Kupfer.H.18 cm.B.14 cm.Durchbrochener G.-R.
+
+## Nach P.P. RUBENS.
+
+- 86.Die heilige Famile und St. Anna.
+- Auf Kupfer.H.30 cm.B.22 cm.G.R.
+
+## Nach GUIDO RENI.
+
+- 87.Venus auf einem Ruhebette iberreicht dem neben ihr stehenden Amor einen Pfeil. Sehr schones Bild auf Leinwand.H.62cm.B.78 cm.G-R.Siehe Reproduktion auf TafelI
+
+## ITALIENISCHE MEISTER.
+
+88. Die heilige Jungfrau, von Engeln umgeben, erscheint einer heiligen Nonne.
+2. Leinwand.H.65cm.B.49 cm.G.-R.
+3. 89.Die Madonna, das Kind im Arm haltend.
+4. Leinwand.Oval.H.46 cm.B.35cm.G-R.
+90. Die heilige Familie, St. Anna und St. Johannes. Hibsches Bildchen aufLeinwand.H.28 cm.B.33cm.G.-R.
+6. 91.Brustbild der Madonna mit blauem Kopftuch. Auf Metall.H.15 cm.B.11cm.S.R.
+92. Halbfigur der Madonna mit dem Christuskinde, welches Kirschen halt. AufHolz.H.80 cm.B.62cm.G.R.Siehe Reprodktion aufTafel III
+
+## NIEDERLANDISCHE SCHULE.
+
+93. FluBlandschaft mit Angler und Herde.
+2. Holz.H.32cm.B.42cm.G.-R.
+94. Die Ausfahrt der niederlandischen Flotte aus dem Hafen von Amsterdam. AufHolz.17.Jahrh.H.59cm.B.85 cm.G.R.
+4. 95-96. Zwei Darsteliungen aus dem Leben Christi. Gegenstuicke.
+5. Holz.17.Jahrh.H.19 cm.B.27cm.G-R.
+97. Wirtshaus-Interieur. Zwei Bauern mit der Wirtin scherzend.
+7. Leinwand.17.Jahrh.H.28 cm.Br.24cm.G.R.
+
+## DAVID TENIERS bezeichnet
+
+- 98.Darstellung eines Niederlandischen Kinderfestes. Ein alter Mann verkauft Papierfahnen. Hibsches Bild auf Holz.H.32 cm.B.43 cm.S.-R.
+
+## AUGSBURGER KUNSTLER.
+
+- Holz.17.Jahrh.H.26 cm.B.18 cm.G-R.
+- 99.Halbfigur eines bartigen Mannes in schwarzem Hut und Rock.
+
+## Nach M.HOBBEMA.
+
+100. Landschaft mit Bauernhof und Vieh als Staffage. H.86cm.B.46cm.S.R.
+## PARMEGIANO's Art.
+
+- 101.Dreiteiliges Bild. Die Anbetung der Konige,zu beiden Seiten die drei heiligen
+- Frauen und die Junger von Emaus. Holz.Totalgrope:H.33cm.B.48cm.G-R.
+
+## J.HOREMANS.
+
+- 102-103.Gemuse- und Fruchthandler bei ihren Waren.Gegensticke. Sehr fein gemalte Bildchen auf Holz.Das eine traigt failschlich die Signatur des Jan Steen.H.26cm. B.20cm.G.-R.
+
+## Nach S. del PIOMBO.
+
+104. Brustbild eines Malers in schwarzem Gewand mit Pallette und Pinsel.
+2. Leinwand.H.70cm.B.50 cm.G-R.
+
+## Nach P.P.RUBENS.
+
+- 105-106. Ein Knabe zundet ein Licht an dem einer alten Frau an.Junges Paar, Kerze und Mausefalle haltend. Gegenstucke.
+- Holz.H.15 cm.B.19 cm.G.R.
+107. Das Urteil Salomonis. Die bekannte Komposition.Auf Metall. H.28cm.B.37cm.G.-R.
+
+## ISAAC v.OSTADE. Art.
+
+108. Wirtshaus-Interieur mit musizierenden und trinkenden Bauern. Holz.H.24cm.B.32cm.S.-R.
+
+## ADR.v.OSTADE.Art.
+
+109. Interieur mit zwei rauchenden,kartenspielenden und trinkenden Bauern.
+2. Holz. Mit dem Namen des A.v.Ostade bezeichnet. H.18 cm.B.14 cm.G.-R.
+
+## DAVID TENIERS zugeschrieben.
+
+110. Inneres eines niederlandischen Wirtshauses mit rauchenden und trinkenden Bauern.
+2. Sehr fein durchgefihrtes Bild auf Holz.H.32cm.B.47cm.S.R.
+
+## PH. WOUWERMAN bezeichnet.
+
+111. Inneres eines Stalles mit Jagern, welche im Begriff sind, zur Jagd aufzubrechen.
+2. Feines Bildchen mit Woruwermans Signatur.H.31cm.B.42 cm.
+
+## E.RIDINGER.Art.
+
+112. Rotwild im Vordergrunde einer Waldlandschaft. AufKupfer gemalt.Rechts unten monogrammiert.H.61 cm.B.49 cm.G.-R.
+
+## Nach A.v.DYCK.
+
+- 113.Brustbild der Henriette Marie von England. Schone alte Kopie aufLeinwand.H.63 cm.B.50 cm.G-R.
+
+## G.TER BORCH zugeschrieben.
+
+114. Das Selbstportrat des Kunstlers in gebluimtem Hausrock.
+2. Sehr schones Bild,aufLeinwand.H.78 cm.B.63 cm.G.R.
+## Nach FRANS HALS.
+
+115. Brustbild eines rauchenden Mannes mit weit geoffneten Augen und emporge-
+2. straubten Haaren. Sehr lebendig gemaltes Bild.Auf Leinwand.H.63 cm.B.47cm.S.R.
+
+## G.HONTHORST.Art.
+
+116. Salome empfangt auf einer Schussel das Haupt Johannes des Taufers, welches ihr der Henker reicht. Leinwand.H.81cm.B.60cm.G.R.
+
+## A.WATTEAU.Art.
+
+117. Junges Hirtenpaar in einer Landschaft. Leinwand.H.36cm.B.46cm.G-R.
+
+## A.SCHULTEN. 1834.
+
+118. Landschaft mit weidender Rinderherde.
+2. Sehr fein gemaltes Bild.Auf Leinwand.Signiert.H.44cm,B.59 cm.G-R.
+
+## Nach NICOLAS LANCRET.
+
+- 119.In einer franzosischen Parklandschaft vornehme Gesellschaft in Schaferkostumen. Leinwand.H.56 cm.B.77cm.G.-R.Siehe Reprodauktion auf Tafel VIII.
+
+## Nach C.TROYON.
+
+- Leinwand.H.53cm.B.76cm.G.-R.
+120. Flache Wiesenlandschaft mit weidender Rinderherde.
+
+## Nach REMBRANDT van RIJN.
+
+- Leinwand mit Momogramm.Owal. H.52 cm.B.45 cm. S.R.
+121. Kopf eines bartigen Greises mit Pelzmutze.
+
+## NIEDERLANDISCHE SCHULE.
+
+- Auf einem von zwei komischen Masken gezogenen Triumph-
+122. Ein Maskenzug. wagen ein Mann mit Weinglas und Fahne. Interessantes Bild aufHolz.H.49 cm.B.65 cm.G-R.Siehe Reproduktion auf Tafel I
+123. Landschaft mit Ruinen und Landleuten als Staffage.
+- Auf Holz.Links unten eine undeutliche Signatur.18.Jahrh.H.30 cm.B.35cm.
+
+## Nach REMBRANDT van RIJN.
+
+- Pilatus und ein Kriegsknecht mit einer Fackel. Leinwand.H.140 cm.B.113cm.G.-R.
+124. Die Verspottung Christi. Zu beiden Seiten des Heilandes der Landpfleger
+
+## Nach J.v. RUISDAEL.
+
+- Leinwand.H.120cm.B.85 cm.G.-R.
+125. Norwegische Felsenlandschaft mit Hutte an einem Wasserfall.
+
+## Nach GIULIO ROMANO.
+
+- Leinwand.H.71cm.B.126cm.G.R.
+- 126.Apollo auf dem Sonnenwagen.
+## Nach S. del PIOMBO.
+
+127. Christus an eine Saule gefesselt, wird vom Kriegsknecht gegeiBelt.
+2. AufHolz.H.65 cm.B.47cm.S.R.Siehe Reprodultion auf Tafel IX
+
+## UNBEKANNT.
+
+128. Brustbild einer Dame mit Blumen im blonden Haar.
+2. Leinwand.H.45cm.B.33cm.G.-R.
+3. 129-130.Zwei Marinen. Gegenstuicke.
+4. Leinwand.H.40 cn.B.52cm.Geschnitzteund durchbrochene Holz-R.
+5. 131.Landschaft mit Rinderherde.
+6. Leinwand,falschlich mit Troijon bezeichnet.H.54 cm.B.47cm.G-R.
+
+## ITALIENISCHE SCHULE.
+
+132. Christus erscheint der heiligen Magdalena als Gartner.
+2. Holz.H.78cm.B.63cm.G.-R.
+133. Brustbild der heiligen Gertrud, den Krummstab in der Linken. Leinwand.H.68cm.B.50cm.G.R.
+
+## Nach ED. HILDEBRANDT.
+
+134. Blick auf einen tropischen Seehafen.
+2. Leinwand.H.68cm.B.103cm.G-R.
+
+## Nach PAOLO VERONESE.
+
+135. Die Auffindung des Moses durch die agyptische Konigstochter. Leinwand.H.70cm.B.79 cm.G.-R.
+136. Die heilige Katharina von Alexandrien in koniglicher Gewandung. Links oben
+3. zwei Engel. Gut gemaltes Bild.Auf Leinwand.H.58 cm.B.43 cm.G.R.
+
+## Nach M. HOBBEMA.
+
+137. Wassermuhle an einem Bach. Im Vordergrunde Angler.
+2. Auf Holz,mit Hobbema’s Namen.H.36cm.B.47 cm.S.R.
+138. Waldlandschaft mit Bauernhof an einem Bach. Staffiert.
+4. Holz,mit obigem Namen bezeichmet.H.37 cm.B.48 cm.G-R.
+
+## A.STEVAERTS.Art.
+
+- 139.Reitergefecht. Im Vordergrunde drei Reiter im Handgemenge.
+- Fein gemaltes Bildchen auf Holz.H.36 cm.B.52 cm.
+
+## ITALIENISCHE SCHULE.
+
+140. Die heilige Jungfrau in rotem Gewand und blaugrunem Mantel, das Christukind
+2. im Arm haltend. Leinwand.16.Jahrh.H.84cm.B.69 cm.G.-R.Siehe Reprodruktion aut Tafel IX
+
+## Schule des P.P. RUBENS.
+
+141. St. Hyronimus vor seiner Hutte sitzend und in einem Folianten lesend.
+2. Leinwand.H.100 cm.B.87cm.G.R.Siehe Reproduktion auf Tafel VI
+- Holz.H.49cm.B.66cm.G.R.
+
+## Nach J. RUISDAEL.
+
+- 142.Landschaft mit Wasserfall zwischen hohen Felsen. AufHolz.Mit falscher Signatur.H.52cm.B.42cm.G.-R.
+
+## VENEZIANISCHE SCHULE.
+
+- 143.Die Vermahlung der heiligen Katharina. Rechts eine vornehme Venezianerin als Donatorin.
+
+Leinwand.H.76cm.Br.100 cm.G.R.
+
+## Nach ANTONIO ALLEGRI,CORREGGIO.
+
+- 144.Die heilige Nacht.
+- Bekannte Komposition.Leinwand.H.29cm.B.101cm.G.R.
+
+## Nach F. BARBIERI.
+
+- 145.Brustbild des Kardinals Pallavicini. Leinwand.H.59 cm.B.49cm.G.R.
+
+## BERNHARD RODE.
+
+- 146.Die Darstellung Christi im Tempel.
+- Gutes Bild des geschatzten Berliner Kiunstlers.Leinwand.H.63cm.B.53cm.G-R.
+
+## Nach A. CARRACCI.
+
+147. Brustbild der heiligen Katharina von Alexandrien mit Krone und Palme.
+2. Leinwamd.H.94cm.B.72cm.S.R.
+
+## ANTONIO ALLEGRI, CORREGGIO,zugeschrieben.
+
+- dem Christuskinde kniend eine Schale mit Blumen. Sehr schones Bild aut Leinwand.H.80 cm.B.92cm.S.R.Siehe Reproduktiom auf Tafel IV.
+148. Die heilige Familie im Vordergrunde einer Landschaft ruhend; ein Engel uberreicht
+
+## Nach A. CARRACCI.
+
+149. Die hielige Familie und St. Johannes von einem Engel angebetet. Leinwand.H.82cm.B.69 cm.G-R.Siehe Reproduktion auf Tafel V1I.
+
+## Nach P. P. RUBENS.
+
+- 150.Maria von Medici als Pallas Athene auf einem Schimmel reitend. Hibsches Bild auf Holz.H.62cm.B.46 cm.G.R.
+
+## Nach A.v.d. NEER.
+
+151. Niederlandische Kanallandschaft mit reicher Staffage bei Mondbeleuchtung.
+
+## Nach LIONARDO da VINCI.
+
+- Leinwand.H.47cm.B.75cm.G.-R.
+- 152.Die Pest in Florenz.
+
+## Nach RAFFAELO SANTI.
+
+153. Die drei Grazien und Amor auf Wolken Holz.H.38cm.B.28cm.Durchbrochener G.-R.
+## Nach J.E. LIOTARD.
+
+154. Moritz von Sachsen. Halbfigur mit Feldherrnstab.
+2. Leinwamd.H.60cm.Br.48cm.G.R.
+
+## NIEDERLANDISCHE SCHULE.
+
+155. Landschaft mit Dorf an einem Kanal mit Figuren-und Tierstaffage.
+2. Leinwand.H.56cm.B.77cm.G.-R.
+3. 156.Dorf an einem Flusse. Fischer als Staffage. Leinwand,mit falscher Signatur.H.62cm.B.99 cm.G.-R.
+
+## SPANISCHE SCHULE.
+
+157. Madonna,das Kind nahrend.
+2. Leinwand.H.98.B.75cm.G-R.
+3. 158.Die Vision einer Nonne. Christus, vom Kreuz herabsinkend,umarmt die Betende. In den Luften ein Engel. Leinwand.H.225 cm.B.140 cm.G.R.Siehe Reproduktion auf Tafel III
+159. Das Christuskind erscheint dem betenden heiligen Antonius in einer Engelsglorie.
+5. Gegenstuick zu vorhergehendem Bilde. Leinwand.H.225cm.B.140cm.G.-R.Siehe Reproduktion auf Tafel II.
+160. Eine heilige Nonne in Verehrung des Kruzifixes. Links kleiner Engel, einen Schadel haltend.
+7. Sehr schr schones Bild auf Leinwand.H.145cm.B.112cm.G.R.Siehe Reproduktion auf Tafel VII
+
+## Nach A. CUIJP.
+
+161. Landschaft mit Hirt und Vieh. Holz.H.60cm.B.83cm.G.-R.
+
+## SALOMON KONINCK. Art.
+
+162. Das Gleichnis vom ungetreuen Knecht. Komposition von sieben Halbfiguren.
+2. Leinwand.H.100 cm.B.120 cm.G.R.
+
+## ITALIENISCHE SCHULE.
+
+163. Allegorie auf die Vergebung der Suinden.
+2. Sehr fein gemaltes Bild auf Holz.H.38cm.B.27cm.G.-R.
+
+## FRANZOSISCHE SCHULE.
+
+- 164-65.Zwei FluBlandschaften mit Gebauden und Staffage. Gegenstuicke.
+- Sehr fein auf ovalenKupferplatten gemalt.H.42 cm.B.32cm.G.-R.
+
+## M.J. MIEREVELT.
+
+166. Brustbild einer alteren Frau mit weiBer Haube und Muhlsteinkragen.
+2. Schones Portrit auf Leinwand.H.47cm.B.36cm.G.-R.
+
+## GASPARD POUSSIN zugeschrieben.
+
+167. Baumreiche Landschaft mit zwei weiblichen Figuren. Leinwand.H.42cm.B.55cm.G.-R.
+
+## Nach B.E. MURILLO.
+
+168. Die heilige Magaalena mit der Salbenbuchse. Leinwand.H.45cm.B.37cm.S.R.
+## Nach FRANS HALS.
+
+169. Halbfigur eines Mannes mit grobem Hut, welcher schreibend vor einem Pulte sitzt.
+2. Holz.H.99 cm.B.84cm.S.-R.Siehe Reproduktion auf TafelV
+
+## Nach A.WATTEAU.
+
+170. Auf einer Parkterrasse mit Treppen und Springbrunnen eine zahlreiche Gesellschaft beim Blindekuhspiel.
+2. Sehr reich komponiertes schones Bild autLeinwand.H.96cm.B.22 cm.G-R.Siehe Reproduktion auf TafelV
+
+## SUMINSKY.
+
+171. Brustbild eines Greises mit Totenkopf und Sanduhr. Leinwand.H.91cm.B.76 cm.G.R.
+
+## UNBEKANNT.
+
+- 172.Die gekronte Madonna mit dem Kinde, im Hintergrunde Engelschor.
+- Holz.2.Halftedes 16.Jahrh.H.28cm.Br.21cm.G.-R.Durchbrochen.
+- 173.Die heilige Jungfrau in blauem Mantel mit iber der Brust gekreuzten Handen. Leinand.H.77cm.B.58cm.G.-R.
+
+## Nach DIEGO VELASQUEZ.
+
+174. Das Brustbild des Meisters in schwarzem Wams und schlichtem, weiBen Kragen.
+2. AufKupfer.H.58cm.B.49cm.G.-R.
+
+## JOS. REYNOLDS,angeblich.
+
+175. Konigin Sophie Charlotte von England. Brustbild in Hermelin.
+2. Schones Portrat auf Leinwand.H.80 cm.Br.63cm.G-R.Siehe Reproduktion auf Tafel X.
+
+## Nach P.P. RUBENS.
+
+176. Die Jungfrau mit dem Kinde auf einem Thron, von Heiligen und Engeln verehrt.
+2. Altarbild der St.Jakobskirche in Antwerpen. Holz.H.88 cm.B.72cm.G.R.Siehe Reproduktion auf Tafel II
+
+## Nach DOMENICO ZAMPIERI.
+
+177. Das Brustbild Christi im jugendlichen Alter.
+2. AufKupfer.H.23cm.B.17cm.Durchbrochener G.-R.
+
+## Nach G. DOU.
+
+178. Kochin an einem Fenster einen Kessel scheuernd. Holz.H.24cm.B.17cm.S.R.
+
+## Nach TIZIANO VECELLIO.
+
+- 179.Halbfigur der buBenden Magdalena in einer Felslandschaft. Leinwand.H.88cm.B.71cm.G-R.
+
+## Nach GUIDO RENI.
+
+- 180.DerErzengel St.Michael besiegt den Drachen.
+- Leinwand.H.172cm.B.120 cm.G-R.Siehe Reproduktion aut Tafel IV.
+## ALT-ITALIENISCH.
+
+- 181.Der heilige Hyronimus in Kardinalstracht vor dem Kruzifix knieend und betend.
+- Oben ein Fries mit dem Namen des Dargestellten und der Jahreszahl 1425. Sehr interessantes und schones Bild auf Holz.H.121 cm.B.86 cm. G-R.Siehe Reproduktion auf Tafel VI
+
+## A.KORNECK.
+
+182. Huftbild einer sitzenden Dame in ausgeschnittener Taille.
+2. Leinwand.H.78cm.B.64cm.G.-R.
+
+## SPANISCHE SCHULE.
+
+- 183.Johann de Palafox et Mendoza.1670.
+- AufKupfer.17.Jahrh.H.19cm.B.14cm.G.-R.
+
+## Nach LEOP. ROBERT.
+
+- 184.Die heimkehrenden Schnitter.
+- Holz.H.16cm.B.27cm.G.-R.
+
+## Nach ANGEL. KAUFMANN.
+
+185. St. Cacilia von Engeln umgeben vor der Orgel sitzend. Holz.H.44cm.B.31cm.G-R.
+
+## G.MIND?
+
+186. Ein Bar im Kampf mit Hunden. Auf Glas gemalt.Monogrammiert.H.27cm.B.20 cm.G.-R.
+
+## Prunkmobel, Bronzegarnituren, Porzellan etc.
+
+- 187.Grosser BarockPrunkschrank,NuBholz,mit vergoldeter Schnitzerei,(gemalten) Malachitplatten und vielen vollrund geschnitzten musizierenden Figuren.AuBerordentliche reiche architektonische Gliederung. Nurnberg. 17. Jahrh.
+188. Boulle-Schrank, schwarz, mit reichen Messing-Intarsien und Bronzebeschlag.
+- Halbrundes mehrfach geschweiftes Unterteil mit Spiegelaufsatz,von freihstehenden Saulen getragen,in der Mitte eine groBe Bogennische bildend. Um 1840. SieheReproduktion aufTafel XII
+189. Schwarzes Schrankchen mit Tisch-Untersatz. Mit durchbrochenem Bronzebeschlag und eingelassenen Porzellanplatten, auf welchen Malereien a la Watteau.
+190. Schwarzer Damen-Schreibschrank mit Bronzebeschlag und eingelegten Metall-
+- und Elfenbein-Ornamenten.
+191. Franz.Kamingarnitur,bestehend aus Uhr und zwei Kandelabern in Vasenform.
+- Aus bleu-royal-Porzellan und reicher Bronzemontierung.
+192. Zwei rotseidene Decken mit englischem Wappen in Goldstickerei.
+193. Aubussonteppich mit Blumen.
+194. Glasgirandole, sechsarmig,mit Vergoldung.
+195. Bronzekrone,2larmig,mit bunter Emaillierung.
+5. 196.Lehnsessel, vergoldetes Gestell, mit rotem gepreBten Sammetbezug.
+197. Glasampel in Bronze montiert,sechsarmig.
+7. 198-99. Zwei kleine Tischchen, auf BronzefuBen, der obere. Teil der FuBe bemaltes Porzellan.
+200. Rarener Krug in Zinn montiert. Auf der Leibung, unter verzierten Bogen, Kaiser-und Ritter-Figuren.
+201. Zwei Kolossal-Vasen (Satsuma) auf Untersatzen. Mit auBerordentlich reicher Malerei und Vergoldung; die Henkel vollrunde sitzende Figuren, um den Hals Drachen-Darstellungen.
+202. Meissener Marcolini-Terrine mit Deckel und Untersatz. Spater bemalt mit Blumen-Guirlanden.
+11. 203.Eingelegte Holzplatte, mehrfarbig, mit allegorischen und mythologischen Figuren,Ornamenten etc. H.33 cm.B.54 cm.Holzrahmen.
+12. 204-05 Zwei Metallreliefs, weibliche Figuren darstellend. H.22cm.B.I3cm.Inschwarzem Rahmenmit Bronzebeschlag.
+206. Gemmen-Sammlung. Abgusse in Gips. Gerahmt.
+
+<!-- image -->

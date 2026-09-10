@@ -1,0 +1,1706 @@
+## BILDER VERZEICHNIS
+
+## No.1. Block Josef, Berlin
+
+## Damenbildnis
+
+In einem roten Fauteuil sitzt eine Dame in schwarzer Toilette mit Hut und Regenschirm.
+
+Holz.
+
+Bez.links unten: J.Block 90.
+
+## No.2. Brun C., Paris
+
+## Die Bettlerin'
+
+Ein armlich gekleidetes Madchen liegt, vom Schlafe ibermannt, am Boden vor einem Tore und halt eine Bittschrift in den Handen.
+
+Leinwand.
+
+Bez.rechts unten:C.Brun 1867.
+
+## No. 3. Fragiacomo Pietro,Venedig
+
+Santa Maria
+
+In einer Barke auf dem Kanale vor Santa Maria sitzt ein Fischer. Im Hintergrunde die Kirche und auf dem Wasser mehrere Segelboote.
+
+Leinwand.
+
+Bez.links unten:P.Fragiacomo.
+
+Hohe 28 cm, Breite 48 cm.
+
+Hohe 37 cm,Breite 28 cm.
+
+Hohe 38 cm,Breite 31 cm.
+Holz.
+
+Bez.rechts unten:C.Hoguet 1851.
+
+## No. 7. Holweg Georg, Munchen
+
+In Erwartung
+
+Eine junge, in weisse Seide gekleidete Dame sitzt sinnend auf einem Stuhle und halt Blumen in der Hand.
+
+Holz.
+
+Bez.links unten:Holweg 79.
+
+## No. 8. Holweg Georg, Munchen
+
+Die Liebesbotschaft
+
+An der vertafelten Wand eines Gemaches im Renaissancestil lehnt ein Edelfraulein in weissem Seidenkleid,einen Brief in der Hand haltend. Auf einem nebenstehenden Lehnstuhl liegt eine weisse Rose.
+
+Leinwand.
+
+Bez.links unten: Holweg 79.
+
+Hohe 58 cm,Breite 32 cm.
+
+Abbiloung 8iebe Tatel 34.
+
+Hohe 25 cm,Breite 18 cm.
+
+## No. 4. Froschl Carl, Wien
+
+## Ritterfraulein
+
+Brustbild eines jungen Madchens in Renaissancehaube und Kleid mit reichem Goldschmuck.
+
+Holz.
+
+Bez.rechts unten:C.Frosch1 1879.
+
+Hohe 36 cm,Breite 30 cm.
+
+Abbiloung siebe Tatel 48.
+
+## No. 5. Geiger Fanny von, Karlsruhe
+
+Stilles Wasser
+
+Von Baumen und Strauchern umgeben, liegt still der Weiher am Dorfe.
+
+Leinwand.
+
+Bez.rechts unten:F.v.Geiger.
+
+## No. 6. Hoguet Charles ,Berlin
+
+Landschaft
+
+Hohe 18 cm, Breite 13 cm.
+
+Hohe 29 cm,Breite 38 cm.
+## No.9. Jimenez Luis, Sevilla
+
+,Entrez Monsieur"
+
+An einer im maurischen Stil gehaltenen Pforte steht ein Mann, der durch eine Handbewegung zum Eintritt von einer Duenna hoflich aufgefordert wird.
+
+Holz.
+
+Bez.rechts unten:Luis Jimenez, Sevilla.
+
+## No.10. Knarren P.,Paris
+
+Die Vorlesung
+
+In einem rot ausgestatteten Gemach sitzt in einem Lehnstuhl eine Dame in grauem Kleide und liest ihrer nebenstehenden Freundin vor.
+
+Holz.
+
+Bez.rechts unten:P. Knarren.
+
+## No.11. Knell Adolphus
+
+Das Wrack
+
+Ein schwerer Sturm hat das Schiff seiner Maste beraubt und zertrimmert und wird der Kuiste zugetrieben.
+
+Leinwand.
+
+Bez.rechts unten:Adolphus Knell 1887.
+
+## No.12. Laupheimer Anton, Munchen
+
+Lesendes Madchen
+
+Ein junges Madchen, mit ausgeschnittenem Kleide und weisser Rokokko haube, liest in einem Buche.
+
+Holz.
+
+Bez.rechts oben:A.Laupheimer 77.
+
+Hohe 21 cm, Breite 16 cm.
+
+Abbiloung siebe Tatel 36.
+
+## No.13. Ludwig Louis
+
+Waschebleiche
+
+Auf dem Rasen eines Gartens begiessen zwei Frauen Waschestuicke.
+
+Leinwand.
+
+Bez.rechts unten:Louis Ludwig.
+
+Hohe 43 cm,Breite 56 cm.
+
+Hohe 51 cm,Breite 76 cm.
+
+Hohe 47 cm,Breite 38 cm.
+
+Hohe 32 cm, Breite 24 cm.
+## No.14. Malchus Carl von , Munchen
+
+Venedig
+
+Die Lagune mit Gondeln und Sa. Maria del salute im Hintergrund.
+
+Holz.
+
+Bez.links unten:C.v.Malchus 1871.
+
+## No.15. Menzler Wilhelm, Minchen
+
+Das Edelfraulein
+
+Eine Frauengestalt in reichem Renaissancekostuim kreuzt sinnend die Arme.
+
+Holz.
+
+Bez.rechts unten:W.Menzler 1879.
+
+Hohe 27 cm,Breite 18 cm.
+
+Abbiloung siebe Tafel 48.
+
+## No. 16. Porcher Albert , Paris
+
+Landschaft mit Fluss
+
+Von Wiesen und Baumen umgeben zieht ein Fluss ruhig dahin.
+
+Holz.
+
+Bez,rechts unten:Porcher 67.
+
+## No. 17. Runge Julius, Munchen
+
+## Ausfahrende Fischer
+
+Ein Boot, mit drei Fischern bemannt, fahrt zum Fischfang aus. Links ein leeres Boot vor Anker.
+
+Leinwand.
+
+Bez,rechts unten:J.Runge,
+
+Hohe 74 cm,Breite 123 cm.
+
+Abbiloung siebe Tatel 41.
+
+## No.18. Thiele Arthur Julius, Munchen
+
+Auf dem Wechsel
+
+Zwei Hirschkihe mit Hirschkalb im Hochgebirge sichern auf einer abge- holzten Bergwiese.
+
+Leinwand.
+
+Bez.links unten:A. Thiele 90.
+
+Hohe 45 cm,Breite 35 cm.
+
+Hohe 25 cm, Breite 36 cm.
+
+Hohe 20 cm, Breite 23 cm.
+## No. 19. Torna Oscar, Dusseldorf
+
+## Birkenwald
+
+In einem Waldchen, am See gelegen, spazieren Frauen mit einem Kinde an einem heiteren Sommertag.
+
+Leinwand.
+
+Bez.links unten:Oscar Torna Ddrf. 1875.
+
+## No.20. De Veya Pedro, Sevilla
+
+## Strassenszene in Sevilla
+
+Auf einem mit Baumen bepflanzten Platze Sevillas fahrt ein mit Ochsen bespannter Lastwagen, welchem der Fuhrer vorausgeht. Im Hintergrunde der Turm des Domes sichtbar.
+
+Holz.
+
+Bez.links unten:P.de Veya, Sevilla.
+
+## No.2i. Weber August ,Dusseldorf
+
+## Mondscheinlandschaft
+
+Auf einem Waldweg wandert ein Mann dem nahen Dorfe zu. Der Voll mond beleuchtet den Weg.
+
+Leinwand.
+
+Bez.rechts unten:A.Weber.
+
+## White George , London No.22.
+
+Die Geschwister
+
+Ein durftig gekleidetes italienisches Madchen, vor der Haustire stehend, halt ihr weinendes Briderchen auf dem Arme.
+
+Leinwand.
+
+Bez.links unten: G.w.73.
+
+## No. 23. Baccani A., Rom
+
+Nach dem Bade
+
+In einem romischen Bade ruht auf einem Kissen eine nackte Frauengestalt.
+
+Holz.
+
+Bez.rechts unten:A.Baccani 1880.
+
+Hohe 18 cm, Breite 28 cm.
+
+Hohe 29 cm, Breite 19 cm.
+
+Hohe 46 cm, Breite 61 cm.
+
+Hohe 25 cm,Breite 32 cm.
+
+Hohe 25 cm, Breite 45 cm.
+## No.24. Benlliure Jose, Rom
+
+## Andalusische Strassensanger
+
+Vor dem Erker eines Hauses steht ein Mann und singt ein Lied, wahrend hinter ihm, auf dem Boden kauernd, ein zweiter ihn auf der Gitarre begleitet.
+
+Holz.
+
+Bez.rechts unten:J.Benlliure.
+
+Hohe 20 cm,Breite 13 cm.
+
+Abbiloung siebe Tatel 45.
+
+## No.25. Blau Tina, Wien
+
+Titusbogen bei Rom
+
+Der ,Arco de Tito Vespasiano" mit der historischen Ruinenumgegend bei bewolktem Himmel. Vorne die Sacra Via.
+
+Holz.
+
+Bez.rechts unten:T.Blau.
+
+Hohe 28 cm,Breite 41 cm.
+
+Abbiloung sfebe Tafel 38.
+
+## No. 26. Bodom Erik, Dusseldorf
+
+Norwegische Landschaft
+
+Ein Giessbach mit Muhle im Vordergrunde, rickwarts bewaldete Berge, deren Gipfel mit schweren Wetterwolken bedeckt sind.
+
+Leinwand.
+
+Bez.links unten:E.Bodom 1855.
+
+Hohe 88 cm,Breite 118 cm.
+
+Abbiloung siebe Tafel 44.
+
+## No. 27. Bromeis August , Cassel
+
+Abend am See
+
+Die untergehende Sonne lasst ihre letzten Strahlen auf den Wasserspiegel eines Sees fallen. Ein Fischer, im Boote stehend, zieht seine Netze ein. Rechts
+
+Gebisch und eine Hitte,im Hintergrunde Hugel.
+
+Leinwand.
+
+Bez.rechts unten:A.Bromeis.
+
+Hohe 37 cm,Breite 51 cm.
+
+abbiloung siebe Tafel 39.
+Blumen.
+
+## No.28. Echena Jose, Rom
+
+## Weinprobe
+
+Im Keller, vor einem Fasse stehend, halt ein Krieger, im Kostuim des 17. Jahrhunderts, eine Flasche in Handen und betrachtet die Etikette.
+
+Holz.
+
+Bez.rechts unten:J.Echena,Roma.
+
+## No. 29. Echena Jose, Rom
+
+Der Waffenputzer
+
+Im Vorhofe, auf einer Truhe sitzend, putzt ein Krieger seinen Degen; vor ihm,auf dem Boden, liegt seine Kriegsristung. Im Hintergrunde ein Fenster mit
+
+Holz.
+
+Bez.rechts unten:J.Echena,Roma.
+
+## No. 30.
+
+Hohe 21cm, Breite 13 cm.
+
+Abbiloung siebe Tatel 45.
+
+## Garcia y Ramos, Sevilla
+
+Die Benediktion
+
+An der Kirchenpforte erteilt der Priester mit dem Sanktissimum dem vor ihm knieenden Volke den Segen.
+
+Holz.
+
+Bez.links unten:Garcia y Ramos.
+
+## No.31.
+
+Hohe 28 cm,Breite 18 cm.
+
+Abbiloung siebe Tafel 40.
+
+## Garcia y Ramos, Sevilla
+
+Die Taufe
+
+In einer spanischen Kirche wird ein Kind getauft; um das Taufbecken gruppieren sich die Eingeladenen.
+
+Holz.
+
+Bez.rechts unten:Garcia y Ramos, Sevilla.
+
+Hohe 21 cm,Breite 13 cm.
+
+Hohe 28 cm, Breite 18 cm.
+
+Abbiloung siebe Tatel 40.
+herzigem Blick.
+
+## Garcia y Ramos, Sevilla
+
+## Nach der Prozession
+
+In die Kirche zieht der letzte Teil der eben beendeten Prozession mit Priestern und Musikanten ein.
+
+Holz.
+
+Bez.rechts unten:Garcia y Ramos.
+
+## No.33.
+
+## Garcia y Ramos, Sevilla
+
+Fronleichnamsprozession
+
+Die herannahende Prozession wird durch einen Ausrufer angekindigt; im Vordergrunde viel Volk.
+
+Holz.
+
+Bez.rechts tnten:Garcia yRamos.
+
+## Girardet Ed. Henri , Neuchatel No.34.
+
+Ninetta
+
+Brustbild eines blonden,kleinen Madchens in landlicher Tracht, mit treu
+
+Leinwand.
+
+Bez.rechts oben:Henri Girardet 1884.
+
+## No. 35. Haanen Cecil van, Wien
+
+In Erwartung
+
+Eine Dame in schwarzem Seidenkleide und roter Rose im Gurtel sitzt auf einem altdeutschen Lehnstuhl mit erwartungsvollem Blick. Den Hintergrund bildet ein grines Paravent.
+
+Holz.
+
+Bez.1inks oben:C.Haanen 883.
+
+Hohe 72 cm, Breite 32 cm.
+
+Abbiloung sfebe Tatel 47.
+
+## No. 36. Hart Cornelie van der, Haag Die Einode
+
+In einer grinen Wiese stehen ein paar hollandische Bauernhauser, denen eine Alte mit ihrer Last auf dem Ruicken zuschreitet.
+
+Leinwand.
+
+Bez.links unten:C.van der Hart.
+
+Hohe 40 cm,Breite 55 cm.
+
+Hohe 27 cm,Breite 22 cm.
+
+Hohe 32 cm,Breite 16 cm.
+
+Hohe 32 cm,Breite 16 cm.
+
+## No.32.
+## No. 37. Hart Cornelie van der, Haag
+
+Waldlichtung
+
+Eine higelige Wiese, umgeben von Laubbaumen, bei leicht bedecktem Himmel. Leinwand. Hohe 25 cm, Breite 34 cm.
+
+Bez.links unten: C.v,d.Hart.
+
+## No.38. Japy Louis Aime, Bern
+
+Der Dorfweiher
+
+An einem klaren Weiher sitzt ein Hirtenjunge, die in der Nahe weidenden Kuhe beaufsichtigend. Im Hintergrunde bewaldete Huigel.
+
+Leinwand.
+
+Bez.rechts unten: Japy 75.
+
+Hohe 33 cm, Breite 46 cm.
+
+abbiloung siebe Tatel 42.
+
+## No.39. Kindler Albert , Dusseldorf
+
+Memento mori!
+
+An einem aufgebahrten Sarg steht meditierend ein Monch in weisser Kutte.
+
+Holz.
+
+Bez.rechts oben:A.Kindler.
+
+## No. 40. Knyff Alfred de , Brussel
+
+Bei Fontainebleau
+
+Ein Weiher wird von Baumen, deren Wipfel sich in dem grinen Wasser spiegeln, eingeschlossen. Die scheidende Sonne wirft noch ihre letzten Strahlen auf die Landschaft.
+
+Leinwand.
+
+Bez.rechts unten:A.Knyff 49.
+
+## No. 41. Knyff Alfred de , Brussel
+
+Der Heimtrieb
+
+Bei untergehender Sonne treibt ein Schafer seine Heerde heimwarts. Im
+
+Hintergrunde Baume und ein Haus.
+
+Leinwand.
+
+Bez.rechts unten:A.Knyff.
+
+Hohe 39 cm,Breite 53 cm.
+
+Ebbiloung siebe Tafel 14.
+
+Hohe 50 cm, Breite 70 cm.
+
+Hohe 27 cm, Breite 21 cm.
+## No.42. Marchetti Luigi, Rom
+
+Eine Taufe im 17. Jahrhundert
+
+Der Sprossling eines Nobile wird unter Entfaltung grossen Pompes aus der Taufe gehoben, wobei die Paten, in reiche Tracht gekleidet, assistieren.
+
+Holz.
+
+Bez.rechts unten:L.Marchetti.
+
+Hohe 30 cm, Breite 49 cm.
+
+Abbiloung siebe Tatel 15.
+
+## No.43. Mas y Fondevilla Arcadio, Neapel
+
+Strandszene
+
+Am Strande von Sizilien bewegen sich Kinder und Fischervolk, um die
+
+Boote beschaftigt. Im Hintergrunde einige Barken und Dampfer sichtbar.
+
+Holz.
+
+Bez.links unten:Masy Fondevilla.
+
+## No. 44. Morillo Josef, Rom
+
+Der Kavalier
+
+Ein italienischer Nobile in der Tracht des 17. Jahrhunderts.
+
+Holz.
+
+Bez,links unten:J. Morillo 1885.
+
+Hohe 45 cm,Breite 26 cm.
+
+Abbiloung siebe Tatel 37.
+
+## No. 45. Palizzi Filippo , Paris
+
+Weidende Ziegen
+
+In einer Waldeslichtung weiden Ziegen, deren Huter, auf einem Stocke gestitzt, unter ihnen steht.
+
+Holz.
+
+Bez.rechts unten:F.Palizzi.
+
+## No.46.
+
+Hohe 25 cm,Breite 49 cm.
+
+Abbiloung siebe Tatel 44.
+
+## Thom James, Crawford, Paris
+
+Schottische Landschaft
+
+Auf einer mit Baumen bepflanzten Wiese tranken Kihe an einem Bache. Links eine Frau und ein Kind.
+
+Holz.
+
+Bez.rechts unten: J.C.Thom.
+
+Hohe 20 cm, Breite 26 cm.
+
+Hohe 17 cm, Breite 27 cm.
+## No. 47. Vinea Francesco , Florenz
+
+## Gunstige Gelegenheit
+
+Das Kammerkatzchen hat die Rocktaschen ihres eingeschlafenen Herrn durchsucht und einige Briefe gefunden, deren Lekture ihre Heiterkeit erregt. Leinwand.
+
+Bez.rechts unten:F.Vinea.
+
+Hohe 30 cm, Breite 22 cm.
+
+Abbiloung siebe Tatel 35.
+
+## No. 48. Aranda, Don Jose Jimenez, Sevilla
+
+Der Kenner
+
+In einem Laden mit Musikinstrumenten erklart ein Verkaufer einem im Kostim des 18. Jahrhunderts gekleideten Mann die Vorzige des Instrumentes.
+
+Holz.
+
+Bez.rechts:J.Aranda, Paris 1881.
+
+Hohe 32 cm,Breite 23 cm.
+
+Abbiloung siebe Tafel 43.
+
+## No.49. Aranda, Don Jose Jimenez, Sevilla
+
+Der Bucherwurm
+
+Vor der Auslage eines Antiquars durchstobert ein in der Tracht des 18.Jahrhunderts gekleideter alter Mann die auf einem Tische ausgebreiteten Bucher und scheint eben einen interessanten Fund gemacht zu haben.
+
+Holz.
+
+Bez. rechts unten: Jimz Aranda, Sevilla 1878.
+
+Hohe 28 cm,Breite 21 cm.
+
+Ebbiloung siebe Tatel 43.
+
+## No. 5o. Blin Francois , Paris
+
+Schloss in der Normandie
+
+An einen Weiher grenzend, steht ein graues Gebaude, von Mauern umgeben, in einer Sommerlandschaft. Ein dichter Wald als Hintergrund.
+
+Leinwand.
+
+Bez. links unten:F.Blin.
+
+Hohe 30 cm, Breite 45 cm.
+
+Ebbiloung siebe Tafel 38.
+## No. 51. Burnier Richard ,Dusseldorf
+
+## Kuhe auf der Weide
+
+Bei Sonnenuntergang wird eine Herde Kihe heimwarts getrieben. Im
+
+Hintergrunde ein Fluss mit einem Segelboote sichtbar.
+
+Leinwand.
+
+Bez.rechts unten: R,Burnier.
+
+Hohe 38 cm,Breite 50 cm.
+
+Abbiloung siebe Tatel 39.
+
+## Campotosto Carlo , Rom
+
+Im Sommer
+
+Am Waldesrand steht eine junge Frau mit ihren drei Kindern, im Begriffe das Juingste in ihre Arme zu nehmen.
+
+Holz.
+
+Bez.rechts unten: Campotosto 1863.
+
+Hohe 87 cm,Breite 70 cm.
+
+Abbiloung siebe Tatel 22.
+
+## No. 53. Darnaut Hugo, Wien
+
+## Nach der Arbeit
+
+Ein junges Weib, mit ihrem Kinde auf dem Arme, schreitet, gefolgt von ihrem Manne, welcher dem Kinde zulachelt, nach Hause.
+
+Leinwand.
+
+Bez.rechts unten:H. Darnaut.
+
+## No. 54. Franceschi Mariano de, Rom
+
+## Italienischer Palast
+
+Darstellung einer Palastfassade mit reicher architektonischer Ausstattung;
+
+vorne ein Brunnen.
+
+Holz.
+
+Bez. rechts unten: M.de Franceschi,
+
+## No.52.
+
+Hohe 27 cm, Breite 24 cm.
+
+Hohe 38 cm,Breite 23cm.
+## No. 55. Gegerfelt Wilhelm von,Venedig
+
+## Hollandischer Hafen
+
+An den Ufern eines ins Meer mundenden Flusses ankern Schiffe aller Arten. Links im Hintergrund eine Windmihle und rechts ein Haus.
+
+Leinwand.
+
+Bez.links unten:W.de Gegerfelt 75.
+
+## No.56.
+
+Hohe 62cm,Breite 102 cm.
+
+Abbiloung siebe Tafel 12.
+
+## Gegerfelt Wilhelm von, Venedig
+
+## An der italienischen Kuste
+
+Auf dem Quai einer italienischen Hafenstadt treibt sich zahlreiches Volk zwischen fliegenden Standen bei hellem Sonnenschein. In der Ferne ein grosser Segler sichtbar.
+
+Leinwand.
+
+Bez.rechts unten:W.de Gegerfelt 80.
+
+Hohe 39 cm,Breite 32 cm.
+
+Abbiloung siebe Tatel 13.
+
+## No. 57. Gegerfelt Wilhelm von,Venedig
+
+## Sommernacht
+
+Im Hafen bescheint der Mond zahlreiche ankernde Fischerboote und Segel schiffe. Im Hintergrunde die beleuchteten Hauser einer Stadt.
+
+Leinwand.
+
+Bez,links unten: W. de Gegerfelt.
+
+Hohe 40 cm, Breite 56 cm.
+
+Abbfloung siebe Tatel 14.
+
+## Grady Nio, Budapest
+
+## Blondine
+
+Studienkopf einer jungen Frau mit blondem Haare und schwarzem Spitzentuch, die Augen aufwarts gerichtet.
+
+Holz.
+
+Bez. links oben:N.Grady.
+
+Hohe 26 cm, Breite 17 cm.
+
+## No.58.
+## No.59. Guillemin Alexandre M.t, Paris
+
+## Die Malerin
+
+Vor einer Staffelei, auf welcher ein Bild steht, sitzt eine Dame mit Palette und Pinsel in der Linken. Auf dem Tische steht ein Arrangement von Frichten, am Boden liegen Buicher und Mappen.
+
+Holz.
+
+Bez.:A.Guillemin 61.
+
+Hohe 36 cm,Breite 27 cm.
+
+Abbiloung siebe Tafel 47.
+
+## No. 60. Joanowitch Peter, Munchen
+
+## Die erste Fechtstunde
+
+In einem albanesischen Bauernhause wird einem Jungen der erste Unter richt im Kantscharfechten erteilt. Die um ihn sitzenden Alten bewundern lachelnd diesen ersten Waffengang.
+
+Leinwand.
+
+Bez.rechts unten:P.Joanowitch.
+
+Hohe 41 cm, Breite 61 cm.
+
+Abbiloung siebe Tatel 19.
+
+## No. 61. Kunz Adam L., Munchen
+
+## Pfirsiche
+
+Auf einem Tische stehen,in altmeisterlicher Manier behandelt, Pfirsiche und ein Kelchglas.
+
+Leinwand.
+
+Bez,rechts unten:L. Adam Kunz.
+
+## No.62. Lommen Wilhelm,Dusseldorf
+
+## Heranziehendes Gewitter
+
+Uber eine teilweise bewaldete Ebene zieht ein Gewitter,wahrend im Hintergrunde noch der heitere Himmel sichtbar ist. Im Vordergrund ein Lastfuhrwerk.
+
+Leinwand.
+
+Bez.links unten:W.Lommen,
+
+Hohe 57 cm,Breite 85 cm.
+
+abbiloung siebe Tatel 41.
+
+Hohe 16 cm,Breite 21 cm.
+## No. 63. Mayr-Graz Georg, Munchen
+
+## Das Pilzgericht
+
+Auf einem Lehnstuhl sitzt eine alte Frau und schalt Pilze, deren eine Menge vor ihr auf einem Stuhl und auf dem Boden liegt. Ihr sieht neugierig ein kleines Madchen zu.
+
+Holz.
+
+Bez.rechts unten:G.Mayr-Graz Munch.79.
+
+Hohe 24 cm,Breite 17 cm.
+
+Abbiloung siebe Tafel 23.
+
+## No. 64. Mayr-Graz Georg, Munchen
+
+## Grossmutter und Enkel
+
+In einem behaglichen Lehnstuhl sitzt Grossmitterchen eingeschlafen. Auf dem Boden liegt zwischen Kohikopfen ein durftig gekleideter Knabe und beisst von einem Apfel.
+
+Holz.
+
+Bez.rechts oben:G.Mayr Graz Muinch.73.
+
+Hohe 33 cm,Breite 26 cm.
+
+Abbiloung siebe Tafel 35.
+
+## No. 65. Mayr-Graz Georg, Munchen
+
+## Lesender Monch
+
+In einem Bibliothekzimmer lehnt an einem Tische ein Benediktinermonch, in einem Buche lesend.
+
+Holz.
+
+Bez,rechts unten:G.Mayr Graz Muin.81.
+
+## No. 66. Mucke Carl, Dusseldorf
+
+## Die Segelpartie
+
+Zwei Madchen am Strande stehend, lassen ihr Schiffchen vom Winde treiben.
+
+Im Hintergrund die hohe See.
+
+Holz.
+
+Bez. links unten: Carl Mucke, Df.76.
+
+Hohe 46 cm, Breite 40 cm.
+
+Hohe 15 cm, Breite 10 cm.
+Einrichtung.
+
+## No.67. Munkacsy Michael de , Paris
+
+## Waldlandschaft
+
+Zwischen den kahlen Baumen eines herbstlichen Waldes scheint der Mond.
+
+Ein Mann sammelt das gefallene Laub mit dem Rechen.
+
+Leinwand.
+
+Bez.rechts unten:Munkacsy M. 1873.
+
+Hohe 94 cm,Breite 80 cm.
+
+Abbiloung jsiebe Tafel 32.
+
+## No. 68. Piltz Otto, Munchen
+
+## Musikunterricht
+
+An einem Musikpult steht ein Knabe, die Violine spielend, wahrend der greise Lehrer seinem Schuiler zuhort. Das Innere der Stube zeigt bescheidene
+
+Holz.
+
+Bez.rechts unten:O,Piltz,Wr.1882.
+
+Hohe 40 cm,Breite 50 cm.
+
+Abbiloung siebe Tafel 33.
+
+## No. 69. Piltz Otto, Munchen
+
+## Madchenkopf
+
+Kopf eines kleinen Bauernmadchens mit roten Backen, blauen Augen und gruinem Kleidchen.
+
+Holz.
+
+Bez,rechts oben:O.Piltz.
+
+Hohe 27 cm,Breite 21 cm.
+
+abbiloung siebe Tatel 34.
+
+## No. 7o. Piltz Otto, Munchen
+
+## Frauenkopf
+
+Brustbild einer jungen Frau mit blonden Haaren und farbigem Tuch um die Brust.
+
+Holz.
+
+Bez.rechts oben:O.Piltz.
+
+Hohe 27 cm, Breite 21 cm.
+## No. 7i. Rickelt Karl, Munchen
+
+## Der Musikus
+
+In einer traulichen Stube sitzt ein alter Musikant und studiert ein Notenblatt, neben ihm lehnt gegen einen Armstuhl das Instrument.
+
+Holz.
+
+Bez.links unten:Karl Rickelt,M,1885.
+
+Hohe 30 cm, Breite 22 cm.
+
+abbiloung siebe Tafel 23.
+
+## No.72. Rickelt Karl, Munchen
+
+## Am Fenster
+
+In einer hollandischen Stube sitzt am Fenster ein Mann im Kostim des 17. Jahrhunderts und halt einen Bierkrug in der Hand. Vor dem Fenster geht ein junges Madchen und lachelt ihm zu.
+
+Holz.
+
+Bez,links unten: C.Rickelt,M.87.
+
+Hohe 46 cm,Breite 36 cm.
+
+Abbfloung siebe Tafel 37.
+
+## No. 73. Roubaud Franz, Munchen
+
+Der Kampf
+
+Ein berittener Tscherkesse wird von einem Afghanen zu Pferd mit dem Dolche angegriffen.
+
+Holz.
+
+Bez.links unten:F.Roubaud 1884.
+
+## No.74. Roth Philipp, Munchen
+
+## Auf der Weide
+
+Auf einer Wiese, an einem Wasser gelegen, weidet friedlich eine Heerde
+
+Kuhe. Im Hintergrunde hohe Baume und Hauser sichtbar.
+
+Leinwand.
+
+Bez.links unten:P.Roth.
+
+Hohe 28 cm,Breite 42 cm.
+
+Abbiloung siebe Tafel 31.
+
+Hohe 35 cm,Breite 27 cm.
+## Schachinger Gabriel, Minchen
+
+## Madchenkopf
+
+Ein blondes Kinderkopfchen, mit altdeutscher Haube und rotem Wamms, blickt sinnend in die Welt.
+
+Leinwand.
+
+Bez.rechts: G. Schachinger,Mtinchen 1887.
+
+## No. 76. Scherrewitz Johann F., Amsterdam
+
+Die Holzfuhre
+
+Auf einer Landstrasse in Holland fahrt ein Mann auf dem mit einem Schimmel bespannten Karren Holz zur Stadt. Die Baume zu beiden Seiten des Weges prangen im ersten Gruin des Fruhlings.
+
+Leinwand.
+
+Bez.rechts unten: Scherrewitz J.
+
+Hohe 75 cm, Breite 50 cm.
+
+Abbiloung siebe Tafel 13.
+
+## No. 7. Scherrewitz Johann F., Amsterdam
+
+## Feldarbeit
+
+Im Hintergrund Gebuisch in herbstlichem Kleid.
+
+Leinwand.
+
+Bez,rechts unten:Joh.Scherrewitz.
+
+Hohe 70 cm,Breite 100 cm.
+
+Abbiloung sfebe Tatel 15.
+
+## No. 78. Scheurenberg Josef, Berlin
+
+## Romerin
+
+Eine Romerin mit typischem Kopfputz und Korallenhalsband blickt seelen voll den Beschauer an.
+
+Holz.
+
+Bez.rechts oben:J. Scheurenberg.
+
+Hohe 26 cm,Breite 20 cm.
+
+abbiloung siebe Tafel 24.
+
+Hohe 24 cm,Breite 21 cm.
+
+## No.75.
+## No.79. Flamm Albert,Dusseldorf
+
+## An der Kuste von Sizilien
+
+An der Kuiste stehen Schiffersleute bei ihren Booten und betrachten das leichte Aufsteigen des Rauches aus dem iber der Meeresstrasse liegenden Atna.
+
+Schwere Wolken ziehen vom Westen heran.
+
+Leinwand.
+
+Bez.rechts unten:A.Flamm.
+
+Hohe 67 cm, Breite 100 cm.
+
+abbiloung siebe Tatel 11.
+
+## No.80. Wahlberg Alfred L., Dusseldorf
+
+Im Fruhling
+
+In einer mit bluihenden Baumen bepflanzten Wiese, durch welche ein Bach fliesst, pfluckt ein Madchen Blumen.
+
+Leinwand.
+
+Bez. links unten: Alfr.Wahlberg.
+
+Hohe 86 cm,Breite 142 cm.
+
+Abbiloung siebe Tatel 42.
+
+## No. 81. Hagen Theodor Jos., Duisseldorf
+
+Im Hochgebirge
+
+Von machtigen Bergen umgeben liegt im Tale idyllisch eine Gruppe von Almhitten, vor denen Vieh weidet.
+
+Leinwand.
+
+Bez,links unten: Th.Hagen, Dsf.70.
+
+Hohe 115 cm,Breite 165 cm.
+
+Abbiloung siebe Tafel 16.
+
+## No. 82. Heffner Karl, Freiburg i. Br.
+
+Am Steg
+
+Am Ufer des Starnberger Sees ragt der Landungssteg weit in den See hinein. Im Hintergrund die bayerischen Alpen mit Zugspitze sichtbar.
+
+Holz.
+
+Bez.links unten: K. Heffner 76.
+
+Hohe 10 cm, Breite 25 cm.
+## Heffner Karl, Freiburg i. Br. No.83.
+
+Bei Tivoli
+
+Vor rosenumrankten Klostermauern sitzt eine Frau mit ihrem Kinde auf einer Wiese. Im Hintergrunde ein Zypressenbaum.
+
+Leinwand.
+
+Bez.links unten:K.Heffner.
+
+## No. 84. Heffner Karl, Freiburg i. Br.
+
+Im Spatherbst
+
+Ein ausgiebiger Regen hat einen Teil des Feldes unter Wasser gesetzt.
+
+Vorne arbeitende Landleute; im Hintergrunde einige Baume mit gelbem Laub und ein Klosterhof.
+
+Leinwand,
+
+Bez.links unten:K. Heffner,Muinchen.
+
+## No. 85. Heffner Karl, Freiburg i. Br.
+
+## Waldlichtung
+
+Ein stilles Gewasser durchzieht die Gegend, welche einige noch in herbst- lichem Schmuck prangende Baumgruppen aufweist.
+
+Leinwand.
+
+Bez.rechts unten:K.Heffner.
+
+## No. 86. Heffner Karl, Freiburg i. Br.
+
+Kanal bei Nymphenburg
+
+Dustere Wolken spiegeln sich auf dem Kanal, dessen beide Ufer von Baumen bewachsen sind.
+
+Leinwand.
+
+Bez.rechts unten:K.Heffner.
+
+## No. 87. Heffner Karl, Freiburg i. Br.
+
+Die Themse bei Richmond
+
+Die Kanalpartie, vom Hausboot aus gesehen, mit Hausern und bewaldeten Ufern.
+
+Leinwand. Hohe 42 cm,Breite 81 cm.
+
+Bez.links unten:Karl Heffner.
+
+Abbiloung siebe Tatel 17.
+
+Hohe 30 cm,Breite 40 cm.
+
+Hohe 27 cm,Breite 60 cm.
+
+Hohe 40 cm, Breite 70 cm.
+
+Hohe 13 cm,Breite 22 cm.
+## No. 8. Heffner Karl, Freiburg i. Br.
+
+## Fischfang bei Nacht
+
+An dem Ufer eines vom Monde beschienenen Wassers stehen bei ihrem Kahne Fischersleute zur Heimkehr ruistend. Im Hintergrunde Gebaude und
+
+Windmihlen.
+
+Leinwand.
+
+Bez. links unten:K,Heffner, Munchen,
+
+Hohe 40 cm, Breite 70 cm.
+
+Abbiloung siebe Tatel 17.
+
+## No. 89. Heffner Karl, Freiburg i. Br.
+
+Der Weiher im Walde
+
+Im ruhigen Wasser eines Weihers spiegeln sich die Baume, welche Baumstamme und Sumpfpflanzen bedecken zum Teil die die Ufer umgeben. Wasserflachen.
+
+Leinwand.
+
+Bez.links unten: K. Heffner,
+
+Hohe 80 cm,Breite 120 cm.
+
+Abbiloung siebe Tafel 18.
+
+## No. 9o. Heffner Karl, Freiburg i. Br.
+
+## Nach dem Regen
+
+Auf einer Wiese,mit Wasserlacken bedeckt, steht eine Frau zu einem Reiter gewandt. Die Strahlen der niedergehenden Sonne werfen ihre Reflexe auf das Wasser. Im Hintergrunde dunkle Baumgruppen.
+
+Holz.
+
+Bez. links unten: K. Heffner.
+
+Hohe 43 cm,Breite 26 cm.
+
+Abbiloung siebe Tafel 48.
+
+## No. 91. Sell Christian t,Dusseldorf
+
+Auf Vorposten
+
+Auf einem Huigel halten zwei Totenkopfhusaren Ausschau nach dem Feinde.
+
+Holz. Hohe 12 cm,Breite 16 cm.
+
+Bez. links unten:Chr. Sell 1874.
+## No. 92. Sell Christian t, Dusseldorf Die Verfolgung
+
+Bayerische Ulanen verfolgen in scharfem Ritt den Feind.
+
+Holz.
+
+Bez. links unten:Chr. Sell 1874.
+
+## No.93. Sell Christian , Dusseldorf Der Angriff
+
+Preussische Garde Kurassiere reiten zur Attacke, voran der Fuhrer mit gezicktem Sabel.
+
+Holz.
+
+Bez.links unten:Chr.Sell 1874,
+
+## No.94. Sell Christian , Duisseldorf
+
+## Der Gefangenentransport
+
+Der Schneesturm hat einen Transport gefangener franzosischer Soldaten, welcher von Husaren und Infanteristen gefuihrt wird,iberrascht.
+
+Holz.
+
+Bez.rechts unten:Chr. Sell 1875.
+
+Hohe 21 cm, Breite 27 cm.
+
+Abbiloung siebe Tatel 46.
+
+## No. 95. Sell Christian t, Dusseldorf
+
+Zur Attacke
+
+Ein roter Husarentrompeter blast zur Attacke, wahrend im Hintergrunde die Schwadronen heranstirmen.
+
+Holz.
+
+Bez.rechts unten:Chr.Sell 1875.
+
+Hohe 21 cm,Breite 27 cm.
+
+abbiloung siebe Tatel 46.
+
+## No. 96. Sell Christian t, Dusseldorf.
+
+Das rote Kreuz.
+
+Szene aus dem deutsch-franzosischen Kriege. Abseits von der Schlacht wird verwundeten Freunden und Feinden der erste Verband angelegt.
+
+Leinwand.
+
+Bez.links unten:Chr. Sell 1875.
+
+Hohe 34 cm,Breite 48 cm.
+
+abbiloung siebe Tatel 46.
+
+Hohe 14 cm, Breite 18 cm.
+
+Hohe 14 cm,Breite 18 cm.
+## No. 97. Favretto Giacomo , Venedig
+
+## Vor dem Dogenpalast
+
+Kavaliere und Damen,im Kostime des 18. Jahrhunderts, promenieren vor
+
+Leinwand.
+
+Bez.rechts unten:G.Favretto.
+
+Hohe 75 cm,Breite 127 cm.
+
+Abbiloung siebe Tafel 7.
+
+## No. 98. Favretto Giacomo ,Venedig
+
+Madchen mit Tauben
+
+An einer Mauer sitzend, betrachtet eine junge Venetianerin ihre Schitz linge, die Tauben, welchen sie in einer Schuissel Futter gereicht hat.
+
+Leinwand.
+
+Bez.rechts unten:G.Favretto.
+
+Hohe 70 cm, Breite 47 cm.
+
+Ebbiloung siebe Tafel 8.
+
+## No. 99. Favretto Giacomo , Venedig
+
+Nach dem Mahle
+
+An einem Tische,auf welchem Speisereste und halbgefuillte Glaser stehen, sitzen junge Madchen aus dem Volke und horen einem alten Gitarrespieler zu. Leinwand. Hohe 95 cm,Breite 58 cm.
+
+Bez.rechts unten: G. Favretto.
+
+Ebbiloung siebe Tafel 9.
+
+## No.1oo. Favretto Giacomo ,Venedig
+
+## Venezianischer Trodelmarkt
+
+Ein Mann aus dem Volke hockt auf seinem Strohstuhl, den Rock lose um die Schultern geworfen. Eine Alte in Vorderansicht sitzt strickend bei ihm, wahrend ein junges Madchen auf abgetragenen Kleidertand sieht. Im Hintergrund buntes Volk, das seiner Wege geht oder herumfeilscht.
+
+Leinwand.
+
+Bez.rechts unten: G.Favretto.
+
+Hohe 84 cm,Breite 126 cm.
+
+Abbiloung siebe Tafel 10.
+## No. 101. Fortuny y Carlo Mariano , Rom
+
+Das Duett
+
+Im Musikzimmer eines spanischen Hauses sitzen zwei Manner, wovon einer Klavier spielt und der andere ihn auf der Gitarre begleitet. Daneben steht ein Mann, welcher der Musik lauscht.
+
+Leinwand.
+
+Bez. links unten:Fortuny.
+
+Hohe 25 cm, Breite 39 cm.
+
+Abbiloung siebe Tatel 5.
+
+## No. 102. Achenbach Andreas, Duisseldorf
+
+Die Kuste bei Scheveningen
+
+Am Strande bewegt sich Fischervolk; im Hintergrunde segelt ein Fischerboot in die mit schweren Wolken bedeckte See hinaus.
+
+Holz.
+
+Bez.links unten:A.Achenbach 73.
+
+Hohe 42 cm,Breite 31 cm.
+
+Ebbiloung siebe Tafel 1.
+
+## No.103. Achenbach Oswald , Duisseldorf
+
+Golf von Neapel
+
+Von der Strasse aus erblickt man den Vesuv und die Stadt Neapel, von der aufgehenden Sonne beleuchtet; rechts die Bai von Neapel.
+
+Leinwand.
+
+Bez.rechts unten:Osw.Achenbach 1880.
+
+Hohe 89 cm,Breite 81 cm.
+
+Abbiloung siebe Tatel 2.
+
+## No. 104. Achenbach Oswald , Dusseldorf
+
+Lago di Nemi
+
+Vom See kommend reitet eine Frau auf einem schilfbeladenen Esel. Im Hintergrund der See, rechts Baume und Hauser.
+
+Aquarell.
+
+Bez.rechts unten:Osw.Achenbach.
+
+Hohe 28 cm,Breite 37 cm.
+
+Abbiloung siebe Tatel 3.
+## No.105. Baisch Hermann , Karlsruhe
+
+## Kuhe am Wasser
+
+Eine Kuhherde steht am Ufer eines Sees, welcher mit leicht bewolktem Himmel bedeckt ist.
+
+Holz.
+
+Bez.rechts unten:Hermann Baisch,Munchen.
+
+Hohe 48 cm, Breite 88 cm.
+
+Abbiloung siebe Tafel 3.
+
+## No.106. Baisch Hermann , Karlsruhe
+
+Kuhe auf der Alm
+
+Auf einer Alpe des bayerischen Hochgebirges tummelt sich eine Viehherde, von einer Sennerin gehitet. Im Hintergrunde ein hoher Berg mit stark bewolk tem Himmel.
+
+Leinwand.
+
+Bez.links unten:Hermann Baisch,Muinchen.
+
+Hohe 108 cm,Breite 88 cm.
+
+Abbiloung siebe Tafel 4.
+
+## No.107. Baisch Hermann ,Karlsruhe
+
+## Heimtrieb
+
+nach Hause. Im Hintergrund Baume mit Hausern.
+
+Leinwand.
+
+Bez.links unten:Hermann Baisch, Munchen.
+
+Hohe 48 cm,Breite 88 cm.
+
+Abbiloung siebe Tatel 5.
+
+## No.1os. Bochmann Gregor von, Dusseldorf
+
+## Lastfuhrwerke in Esthland
+
+Auf der kahlen Steppe Esthlands bewegt sich ein Fuhrwerk, mit Holz stammen beladen, auf welchem der Fuhrmann mit seiner Familie sitzt, gefolgt von einem zweiten Wagen, der von einem Pferd und einem Ochsen gezogen wird.
+
+Hohe 110 cm, Breite 190 cm.
+
+Abbiloung siebe Tatel 6.
+
+Leinwand.
+
+Bez.links unten: G.v.Bochmann 73.
+## No.109. Kaulbach Fritz August von, Minchen
+
+Dame mit Fruichtenkorb
+
+Eine junge Dame in rotem Sammetkleid und goldenen Guirtel halt in der linken Hand ein Korbchen mit Fruichten. Im Hintergrund Landschaft in tizianischer
+
+Auffassung.
+
+Holz.
+
+Bez.rechts oben:Fr.Aug.Kaulbach 79.
+
+Hohe 120 cm,Breite 66 cm.
+
+Ebbiloung siebe Tafel 20.
+
+## No. 11o. Kaulbach Fritz August von, Munchen
+
+Dame mit Blumen
+
+Weibliches Brustbild in Renaissancekostum, mit Rosen in den Handen.
+
+Leinwand.
+
+Bez.rechts oben:Fr.Aug.Kaulbach,
+
+Hohe 79 cm, Breite 66 cm.
+
+Abbiloung siebe Tatel 21.
+
+## No.ili. Kaulbach Fritz August von, Munchen
+
+Muttergluck
+
+Auf griner Wiese schreitet eine in graue Seide gekleidete junge Frau, ihr
+
+Erstgeborenes auf den Armen tragend. Im Hintergrund Hauser.
+
+Bez.links unten:Fritz Aug. Kaulbach,Mtinchen 1875.
+
+Hohe 50 cm,Breite 34 cm.
+
+## No.112. Kaulbach Fritz August von, Munchen
+
+Altdeutsche Dame
+
+Brustbild einer Frau in deutschem Renaissance Kostim, mit weissem Kopftuch.
+
+Holz. Hohe 28cm,Breite 23cm.
+
+Bez.links oben:Fr.Aug.Kaulbach
+
+Abbiloung siebe Tatel 22.
+
+## No. 113. Kaulbach Fritz August von, Muinchen
+
+Junge Romerin
+
+Brustbild in Profil eines jungen Madchen mit Haarband.
+
+Malpappe.
+
+Bez.links unten:Fr.Aug.Kaulbach.
+
+Hohe 28 cm,Breite 23 cm.
+## No. 114. Kaulbach Fritz August von, Munchen
+
+In Erwartung
+
+Eine Dame, in weissem Seidenkleide, steht an einem Fenster, dessen Vor hang sie etwas zurickschlagt.
+
+Holz.
+
+Bez.rechts unten:Fr.Aug.Kaulbach.
+
+Hohe 29 cm, Breite 18 cm.
+
+Abbiloung siebe Tatel 36.
+
+## No. 1i15. Kaulbach Fritz August von, Munchen
+
+Altdeutsches Madchen
+
+Brustbild eines jungen Madchens mit weisser Haube und schwarzem Sammtkragen. Holz. Hohe 23 cm, Breite 18 cm.
+
+Bez. links:F.A.Kaulbach.
+
+## No.116.
+
+abbiloung siebe Tatel 24.
+
+## Segantini Giovanni , Maloja
+
+Selbstportrat
+
+Brustbild des Kunstlers en face auf Goldhintergrund, in Crayon.
+
+Malpappe.
+
+Bez.oben:G. Segantini 1893,Savognino.
+
+Hohe 35 cm, Breite 25 cm.
+
+Abbiloung sfebe Tatel 28.
+
+## No. 117. Segantini Giovanni , Maloja Das Vogelnest
+
+Ein zwischen blihenden Asten gebautes Vogelnest wird von zwei Nonnen von der Mauerbruistung aus betrachtet.
+
+Pastell.
+
+Bez.rechts unten: G. Segantini.
+
+Hohe 40 cm,Breite 55 cm.
+
+Abbiloung siebe Tatel 29.
+
+## No.118. Segantini Giovanni , Maloja
+
+Die Familie des Kunstlers
+
+Die Amme halt in den Armen das Kind, welchem die Mutter zulachelt.
+
+Pastell.
+
+Bez.rechts oben:Ma famille 1882, G.Segantini.
+
+Hohe 60 cm, Breite 47 cm.
+
+Abbiloung siebe Tafel 30.
+## No. 119. Segantini Giovanni t, Maloja
+
+An der Quelle
+
+Vor einem Brunnen an der Landstrasse stehen zwei Magde mit Wasser kuibeln; eine ist im Begriffe ihren Kuibel zu fuillen.
+
+Pastell.
+
+Bez.rechts unten:G.S.
+
+Hohe 37 cm,Breite 25 cm.
+
+Abbiloung siebe Tatel 30.
+
+## No.120o. Segantini Giovanni , Maloja
+
+Herbst
+
+Auf der Heide, von ihrer Herde umgeben, sitzt die Schaferin; vor ihr
+
+Zeichnung in basreliefartiger Wirkung.
+
+brennt ein Feuer.
+
+Crayon.
+
+Bez.rechts unten:G.Segantini.
+
+Hohe 25 cm,Breite 45 cm.
+
+Abbiloung siebe Tafel 31.
+
+## No.121. Edelfelt Albert, Paris
+
+Dame mit Blumen
+
+Brustbild einer jungen eleganten Frau in gestreiftem Kleid, welche ein Rosenbukett vor sich halt.
+
+Holz.
+
+Bez.rechts unten:A.Edelfelt,Paris 80.
+
+Hohe 24 cm,Breite 19cm.
+
+Abbiloung siebe Tafel 34.
+
+## No. 122. Kern Ludwig, Munchen
+
+Das Minnelied
+
+Am geoffneten Fenster gelehnt, steht ein Kavalier die Laute spielend;
+
+neben ihm lauscht, von den Tonen ergriffen, eine Dame im Lehnstuhl. Leinwand.
+
+Bez.rechts unten:L.Kern,
+
+Hohe 54cm,Breite 44 cm.
+## No. 123. Tito Ettore, Venedig
+
+## Madchen mit Facher
+
+Eine Venezianerin promeniert bei Sonnenuntergang auf der belebten Riva degli Schiavoni.
+
+Holz.
+
+Bez.rechts unten:Tito E.1883.
+
+Hohe 36cm, Breite 24 cm.
+
+## No. 124. Tito Ettore, Venedig
+
+Kanal in Venedig
+
+Eine interessante Studie eines Kanales mit Lastbooten belebt, und lichtem Himmel.
+
+Holz.
+
+Bez.rechts unten:F.T.1887.
+
+Hohe 32 cm,Breite 24 cm.
+
+## No.125. Tito Ettore, Venedig
+
+Venezianischer Fischmarkt
+
+Auf dem Marktplatz herrscht lebhaftes Treiben. Frauen und Kinder im typischen venezianischen Kostuim beleben die Szene.
+
+Holz.
+
+Bez.rechts unten:E.Tito 1885,Venezia.
+
+Hohe 27 cm, Breite 35 cm.
+
+Abbiloung siebe Tafel 24.
+
+## No. 126. Tito Ettore, Venedig
+
+Markusplatz im XVIll. Jahrhundert
+
+Die Signoria promeniert auf der Piazza. Ein Blumenmadchen befestigt ein Strausschen an dem Rocke eines jungen Galants; rechtsstehend beobachtet ein Herr in rotem Mantel die Szene.
+
+Holz.
+
+Bez.rechts unten:E.Tito 1887,Venezia.
+
+Hohe 40 cm, Breite 50 cm.
+
+Ebbiloung siebe Tatel 25.
+## No.127. Tito Ettore, Venedig
+
+Bei der Wahrsagerin
+
+In einem Kreise von vier jungen Madchen aus dem Volke sitzt eine altere
+
+Frau und schlagt Karten.
+
+Leinwand.
+
+Bez.rechts oben:E.Tito 1886Venezia.
+
+Hohe 62 cm, Breite 87 cm.
+
+Abbiloung siebe Tatel 26.
+
+## No. 128. Tito Ettore, Venedig
+
+Fischmarkt in Venedig
+
+In Korben und Kubeln ist die Beute des Meeres zum Kaufe dem zahlreichen Publikum verlockend ausgeboten.Ein Segeldach schitzt die Verkaufsstande vor den Sonnenstrahlen.
+
+Holz.
+
+Bez.links unten:E.Tito 1883.
+
+Hohe 25 cm,Breite 40 cm.
+
+Abbiloung siebe Tafel 27.
+
+## No. 129. Tito Ettore, Venedig
+
+Auf der Piazetta
+
+Auf dem Platze bewegt sich eine bunte Menge Volkes, ihren Beschaftigungen nachgehend. Ein junges Madchen in schwarzem Shawl sieht dem Treiben zu.
+
+Holz.
+
+Bez. links unten: Tito Ettore.
+
+Hohe 27 cm,Breite 37 cm.
+
+Abbiloung siebe Tafel 27.
+
+<!-- image -->

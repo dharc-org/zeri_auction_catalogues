@@ -1,0 +1,3865 @@
+<!-- image -->
+
+## Keramik.
+
+- 1 GroBes Wandrelief aus mehreren Platten. Die Mitte zeigt in starkem Hochrelief Maria mit dem Kinde, auf einem Throne sitzend; zu den Seiten je
+
+zwei Heilige.Landschaftlicher Hintergrund. Starkrelieferte, architektonische Umrahmung. Die seitlichen Pfeiler verziert durch reliefierte Blumenvasen,der Architrav mit Engelkopfen und Eierstabmuster.Am untern Fufbalken vier Wappen und die Aufschrift:SALVE SPES HOMINUM GRATIA VITA SALUS.Ton, teilweise polychromiert. Werkstatt der Della Robbia.
+
+Hohe 140,Breite 182 cm.
+
+- 2Rundes Medaillon,in hohem Relief modelliert und farbig glasiert mit dem Brustbilde GottVaters.ManufakturDella Robbia. Durchm.29 cm.
+- 3Conte di Castelvedro.Portratbiste.Er tragt ein vornehmesitalienisches Gewand mitSpitzenkrause. Das Haupt, bartlos, mit grofer Adlernase, bedeckt eine flache Mitze. Terrakotta, weifs bemalt. Hohe 68 cm.
+- 4 Halbfigur eines italienischen Edelmannes in reichem Kostim und Barett, vollrund modelliert und vergoldet. Hohe 60 cm.
+
+Nr.5.
+
+<!-- image -->
+- 5 Bettler, sitzend,in ganzer Figur vollrund gebildet. Er tragt ein zerlumptes Gewand und Schuhe. Das Haupt bedeckt ein hoher breitkrampiger Hut und umrahmt ein schwarzer Bart.Die Linke ruht auf dem als Sitz dienenden Baumstumpf. Ton,ungebrannt und bemalt. Italien,17.Jahrhundert.
+
+Nr.6.
+
+<!-- image -->
+
+Haupte tragt er einen breitkrampigen hohen Hut. Ton, ungebrannt und polychromiert.Italien,Ende 17.Jahrh. Hohe31,5cm.
+
+Hohe 50 cm.
+
+- 6Bettlerin. Eine alte Frau in armlicher Kleidung ruht auf niederm Felsblock.Die Linke ruht auf ihrem Schofe; mit der knochernen Rechten fafst sie nach dem Saum ihres Kopf tuches.Das Gesicht ist nach rechts gewendet und von tiefen Furchen durchzogen. Ungebrannter Tonund bemalt. Italien, 17.Jahrh. Hohe 48 cm.
+
+Gegenstick zum Vorhergehenden.
+
+- 7 Johannes der Taufer als Knabe. Bustedes Johannesknaben,farbig bemalt. Die Aureole Holz, geschnitzt.Florentiner Arbeit. Terrakotta.15.Jahrh.
+
+Hohe30cm.
+
+- 8Mutter Anna,auf Steinbank sitzend,die neben ihr stehende kleine Mariaunterrichtend.Vollrund modellierte Terrakottagruppe. 18.Jahrh. Hohe 30 cm.
+- 9Bettler,auf Felsen sitzend.Er huillt sich frierend in ein weites Manteltuch ein. Auf seinem
+- 10 Bettler, halb auf einem Felsen sitzend. Er halt in seiner Linken einen Korb. Er tragt einen zerlumpten Mantel und hohen Hut.Ungebrannter Ton,polychromiert.Italien,Ende 17.Jahrh. Hohe30 cm.
+- 11 Der Gitarrespieler, stehende Figur, eine Gitarre spielend. Figur und Gesicht in Art der Callotschen Figuren karikiert.Terrakotta. Hohe 20 cm.
+- 12 Figur,ahnlich,mit Buckel.Terrakotta.
+- 13 Der Trinker, ahnliche Figur,mit Flasche. Terrakotta
+- 14 Der Scharlatan,ahnlich,mitFederbusch und Schwert.Terrakotta. Hohe 22.5cm.
+- 15 Bettler, sitzend, in zerlumpter Kleidung.Er warmt seine Hande iber einem Becken mit Kohlenfeuer. Callotscher Bettlertyp. Italien, Ende 17.Jahrh. Ungebrannter polychromierter Ton.Hohe 26 cm.
+- 16 Tanzer,Figur,in Art der Callotschen Figuren, ahnlich.Ungebrannter Ton. Hohe 26 cm.
+
+Hohe 18cm.
+
+Hohe 22cm.
+
+Nr.18.
+
+<!-- image -->
+
+- 17 Mannliche Figur,ahnlich.Ungebrannter Ton
+
+Hohe 26 cm.
+
+- 18 Renaissance-Ofenmodell,viereckiger Turmbau,auf vollrund modellierten Tierfiguren ruhend. Der Oberbau verziert mit reliefierten Wappen, Heiligen und Tierfiguren.Ton,farbig bemalt. Hohe 42,Breite 32 cm.
+- 19 Grofe Schiissel, verziert mit starkreliefierter mythologischer Darstellung. Der Rand mit Waffentrophaen und Blattwulst.Terrakotta. Durchm.56cm.
+- 20 Das Kunststick. In einer Bauernhitte sitzt rechts auf einem Fasse ein Bauer,
+- in einem Topfe rihrend; links stehend mit Krug ein Mann, hinter dem eine alte Frau kauert. Zwischen den Gruppen tanzendes Hundchen.Bezeichnet: Pet.Hav Eri.Vlamisch,18.Jahrh. Hohe 22, Breite 20,5 cm.
+- 21 Die Raucher.An einfachem Tische sitzen zwei rauchende und zechende Bauern. Im Hintergrunde Bauernhiitte,aus der eine alte Bauerin tritt. Bez.:Pet.Haw Eri.Terrakotta.Gegenstick.Relief.
+
+Hohe 22,Breite 20,5 cm.
+
+- 22 Turm mit Totentanz.Polygonaler Turm (Holz) mit schneckenartig ansteigenden offenen Nischen,in denen zwanzig Gruppen des Totentanzes (bemalter Ton). Der Turmbau ruht auf einem Fuf in Form dreier Knochen. Hohe 271 cm.
+- 23 Griechische Vase mit zwei Henkeln, schwarz, mit grauen Figuren. Terrakotta. Hohe34 cm.
+- 24 Hirschvogelbecher, die konische Leibung verziert mit reliefierten Heiligenfiguren unter Bogennischen.Farbig glasiert. Hohe 16 cm.
+- 25 Rundes Medaillon mit der Biiste Savonarolas.
+
+Durchm.8cm.
+
+- 26 Lampe in Vogelform, terra nigra,mit reliefiertem romischem Wagenrennen. Hohe 12 cm.
+- 27 Wandbild, aus kleinen Kacheln zusammengefigt und in Art von Mosaik bemalt mit lebendig eingraviertem Reiterkampf. Hohe 66, Lange 169 cm.
+- 28 Ein Paar groBe Vasen,doppeltgehenkelt und urnenformig, die bauchige Leibung bemalt mit dem hl. Martin zu Pferde, seinen Mantel teilend. Fuf und Rand von breiten Ornamentborduren umzogen. Abruzzo.Hohe 70 cm.
+- 29 Madonna in gelbem Rocke und blauem,mit Goldsternchen besetztem Mantel, auf dem Schofe das Jesuskind haltend. Vollrund modellierte Figur. Abruzzo. Hohe 41 cm.
+- 30 Zylindrisches Gefaβ mit eingeschnurter Leibung, bemalt mit der hl.Katharina in Ordenstracht,in Landschaft betend.Abruzzo. Hohe 22 cm.
+- 31 Runde Platte. Im Vordergrunde einer Landschaft melkt bei einem Laufbrunnen eine Hirtin eine Kuh, seitlich Hirt mit Ziegenherde.Bezeichnet:D. Gue 1718. Abruzzo. Durchm.32cm.
+- 32 Runde Schissel, der Fond bemalt mit dem Brustbilde der hl. Katharina, umrahmt von Laubwerk, in dem Puttenfiguren.Abruzzo.
+
+Durchm.30 cm.Geschnitzter Holzrahmen.
+
+Nr.32.
+
+<!-- image -->
+
+- 33 Runde Platte mit eingekniffenem Rande. Drei Reiter im Vorgrunde einer Landschaft,von Hunden begleitet, einen Stier hetzend. Abruzzo.
+
+Durchm.29 cm.
+
+- 34 Viereckige Platte, bemalt mit Kriegsszene. Im Vordergrunde rechts weibliche allegorische Figur und mordende Kriegsknechte; im Hintergrunde befestigte Stadt.Abruzzo. Hohe 28, Breite 38 cm.
+- 35 Viereckige Platte,bemalt mit dem bethlehemitischen Kindermorde in figurenreicher Komposition.Abruzzo. Hohe23,Breite 31cm.
+- 36 Kleine flache Schale,fein bemalt mit Neptun und Amphitrite,iber Meereswogen auf einem Delphin reitend. Abruzzo. Durchm.18 cm.
+- 37 Kleine runde Schissel mit fachem Rande, die ganze Flache in Gelb bemalt mit Kostimfiguren in Landschaft. Abruzzo. Durchm.17cm.
+- 38 Kleine Schiissel.Ebenso.
+
+Gleiche Grofe.
+
+- 39 Kleine Schale, getieft, fein bemalt mit der Geburt Christi Abruzzo. Durchm.16 cm.
+- 40 Ovale Platte,bemalt mit der Standfigur des hl. Aloysius.Abruzzo. Hohe 14,Breite 10 cm.Geschnitzter Holzrahmen.
+- 43 Birnformige Vase mit langem Halse und zwei seitlichen grofBen Henkeln. Die Vorderseite der Leibung bemalt mit mannlichem Brustbilde und darunter liegendem Schriftbande. Die ibrigen Flachen bedecken Laubranken auf blau und weifsem Untergrunde.Caffaggiolo. Hohe 38cm.
+- 44 Vase in ahnlicher Anordnung.
+
+Nr.43.
+
+<!-- image -->
+
+Gleiche Grofe.
+
+- 45 Viereckige Platte mit erhohtem,gelb konturiertem Rande,bemalt mit Pieta; auf der Riickseite Jahreszahl 1560. Caffaggiolo. Hohe 23,Breite 20 cm.
+- 41 Gedeckelte Terrine,oval,auf vier Fuffansatzen; die ausgebauchte Leibungmitzwei seitlichen, aus Delphinen gebildeten Henkeln in einzelne Felder eingeteilt,die bemalt mit zierlich staffierten Fluflandschaften. Als Deckelknopf dient eine Traube an Blattzweig, deren Ranken sich uber die ganze Flache erstrecken.Fabrikat Bassano.Am Boden die Signatur: Anto.Tecchi.
+
+jHohe 27,Lange 32,Breite 25 cm.
+
+- 42 Madonna.Kopf der hl.Jungfrau, leicht nach links gewendet, mit faltenreichem Kopftuch und Strahlennimbus in starkem Hochrelief, weifgelb glasiert auf braunrot marmorierter Unterplatte.Manufaktur der Bassano. 17.
+- Jahrh.
+
+Hohe 16,Breite 13 cm.Koll. Cavaletti.
+- 46 Runde Schiissel,der Fond bemalt mit von Ruinen bestandener Fluflandschaft. Auf dem breiten, weit iberfallenden Rande Putten, Blumenkorbe haltend, und Kardinalswappen der Familie Ruffo.Castelli. Durchm.34cm.
+- 47 Viereckige Platte, fein bemalt mit zierlich staffierter Fluflandschaft.Im Hintergrunde schlofartiges Gebaude.Castelli. Hohe 24,Breite 29 cm.
+- 48 Ovale Platte,vorherrschend in Blau und Gelb bemalt mit der hl. Familie in Landschaft.Fabrikat Castelli. Hohe 12,Breite 17 cm.
+- 49 Kleine runde Schale, farbig bemalt mit Venus und Adonis in Landschaft. Die Rander Gold konturiert.Castelli. Durchm.12cm.
+- 50 Kleine Schale mit ausgeschweiftem Rande,vorherrschend in Gelb und Blau bemalt mit dem trunkenen Noe.Castelli. Durchm.12cm.
+- 51 Henkelbecher,bemalt mit tanzendem Paare in Landschaft. Castelli. Hohe Scm.
+
+Nr.47.
+
+<!-- image -->
+- 52 Birnformige Vase auf ausladendem Fufse und mit weitem Halse. Die Leibung vorherrschend in Gelb und Blau bemalt mit breitem Mittelfries,aus Waffen-
+
+Nr.52.
+
+<!-- image -->
+
+und Musiktrophaen gebildet, durchsetzt von Rundmedaillon mit Standfigur eines Heiligen. Castel Durante. Hohe 35 cm.
+
+- 53 BirnformigeVasein ahnlicher Ausfuhrung. Gleiche Grofe.
+- 54ZylindrischesGefaβ.DieLeibung eingeschnirt und bemalt mit Palmetten und Ornamentbordiren;auf derVorderseite grofesMedaillonmit der Standfigur Christi. Castel Durante. Hohe 32 cm.
+- 55 Gefaβ,ahnlich,mit der Standfigur des hl. Joseph. Gleiche Grofe.
+- 56 Kleine Schale, getieft, der Fond bemaltmitweiblicher Buste und Aufschrift:
+
+JULIA B.Am aufsteigenden Rande Ornamentrosetten in Grau auf blauem Grunde.Castel Durante. Durchm.16 cm.
+
+- 57 Urnenformige Vase auf hohem Fufe und mit zwei seitlichen Henkeln.Der Untergrund vergoldet, blau bemalt mit Palmetten und Eierstabborduren.
+- Deruta. Hohe 25 cm.
+- 58Viereckige Platte,bemalt mit der Konigin von Saba vor Salomon in figurenreicher Komposition. Faenza. Hohe 21,Breite 28 cm.
+- 59 Schenkkanne auf kurzem Fufe mit spitzer Ausgufrohre.Die gekantete Leibung grin bemalt mit von Vogelfiguren belebten Blumenstauden. Faenza. Hohe 17 cm.
+- 60 Zylindrisches Gefaf mit eingeschnurter Leibung; Fuf und Rand von blauer Lilienbordure umzogen. Auf der Vorderseite grofes Medaillon, trefflich bemalt mit Job auf dem Misthaufen, Aufschrift und Jahreszahl 1735. Faenza. Hohe 19 cm.
+- 61Rundeflache Schale aufFufs, vorherrschend in Gelb und Blau bemalt mit Mars und Venus nach Annibale Caracci. Faenza. Durchm.29 cm.
+- 62 Viereckige Platte,vorherrschend in Gelb,Blau und Grun bemalt.In einer Saulennische sitzt Madonna,das Jesuskind auf dem Schofe haltend, neben ihr Johannes-
+
+Hohe 22, Breite 30 cm.
+
+- knabe und der hl. Joseph. Faenza.
+- 63 Kleine getiefte Schale, bemalt mit Schaferin, eineZiege melkend,und foteblasendem Hirt. Faenza.
+
+Durchm.17cm.
+
+Nr.53.
+
+<!-- image -->
+
+- 64 Madonna in Mantel und Kopftuch, auf Steinbank sitzend,auf dem Schofe das Jesuskind haltend. Grin glasiert. Fabrikat Gubbio. Hohe 53 cm.
+- 65 Schiissel mit starker Tiefung, bemalt mit dem Urteil Salomos. Der gerade Rand mit Arabesken und viermal der Jahreszahl 1521.Rickseite das Monogramm des Salimbene Andreoli, Gubbio u. 1519. Durchm.3Scm.
+- 66 Runde Schale mit ausgeschweiftem Rande und mittlerem Umbo. Die ganze Flache in Braun und Blau bemalt mit ippig verschlungenem Rankenwerk.
+- Gubbio. Durchm.2S cm.
+- 67 GroBe Schiissel, getieft, auf der ganzen Flache bemalt mit Reiter in Landschaft.Fabrikat Monte Lupo. Durchm.50cm.
+- 68 Viereckige Platte mit reliefierter Randeinfassung,vorherrschend in Gelb und Blau bemalt mit Madonna, auf Thronsessel sitzend, seitlich zwei Heilige. Pesaro. Hohe28,Breite 22cm.
+- 69 Runde Platte mit eingeritzter Darstellung des Kalvarienberges,farbig glasiert. Um den Rand zieht sich eine Rankenbordire. Sassuolo. Durchm.25cm.
+
+Nr.30.
+
+<!-- image -->
+
+Nr.57.
+
+Nr.60.
+
+- 70GroBe runde Schiissel mit mittlerem,rosettenformig behandeltem Umbo,umrahmt von breiter Bordure,die in sechs Felder eingeteilt und in Gold bemalt mit Blumenstauden und geometrisch gemusterten Feldern;der breite iberfallende Rand bedeckt von reliefierten Fruchtzweigen und Schnorkelwerk in Gold,mit prachtig schimmerndem Luster. Spanisch-maurisches Fabrikat.
+
+Durchm.46cm.
+
+- 71 Schiissel, rund, der tiefe Fond verziert mit reliefierten Lowen, ein Wappen haltend.Der Grund mit spanisch-maurischer Ornamentation.Durchm.43 cm.
+- 72 Schissel mit mittlerem Umbo. rosettenformig eingekerbt. Die ganze Flache in prachtig schillerndem Goldluster,bemalt mit mehrfach ubereinandergestellten Palmettenborduren.Spanisch-maurisches Fabrikat. Durchm.40cm.
+- 73 Zylindrisches Gefaf,vorherrschend in Gelb und Blau bemalt mit Palmetten und Musikinstrumenten. Auf der Vorderseite Rundmedaillon mit der Buste
+- des hl. Antonius. Urbino. Hohe26cm
+- 74 Runde Schiissel auf kurzen Fufen und mit ausgeschweiftem Rande.Der Fond bemalt mit Amorette,in Landschaft sitzend.Der uberfallende Rand in
+- Groteskfiguren. Urbino. Durchm.30 cm.Restauriert.
+- 75 Zylindrisches Gefaf mit eingeschnirter Leibung, blauer Untergrund, bemalt mit Blumenstauden und vorderem ausgespartem Medaillon mit der Kniefigur einer Heiligen. Urbino. Hohe 28 cm.
+- 76 Runde Schiissel mit mittlerem Umbo, die ganze Flache bemalt mit figurenreicher Darstellung:die Entfihrung der Europa. Im Vordergrunde einer von Meereskiste bespilten Landschaft sitzt Europa auf dem Stiere, seitlich ihre Gefahrtinnen.Urbino. Durchm.28 cm.Gekittet.
+
+Nr.61.
+
+<!-- image -->
+- 77 Flache Schiissel,bemalt mit Jakob und Rahel am Brunnen. Urbino. Durchm.25cm.
+- 78 Flache Schale auf Fufring,in tiefgetonten Farben fein bemalt mit Erschaffung der Eva. Im Vorgrunde des Paradieses ruht Adam; seitlich Gott Vater,ihm die Eva ibergebend.Urbino. Durchm.26cm.
+- 79 Flache Schissel,in leuchtenden Farben bemalt mit Hero und Leander nach Luigi Fontana. Im Vorgrunde einer Landschaft kniet Hero, den Leichnam Leanders betrauernd. Urbino. Durchm.24cm.
+- 80 Getiefte Schiissel auf Fufansatz,fein bemalt mit Apollo und Mars im Vorgrunde einer Felslandschaft.Auf der Ruckseite bezeichnet: Fu il ramiar sempre mai laudabil cosa 1545.Urbino. Durchm.24 cm.
+- 81 Schiissel, in leuchtenden Farben bemalt nit Apollo,in einem Wolkengebild erscheinend,die sieben Sohne der Niobe mit dem Pfeilbogen totend. Urbino. Durchm.24cm.
+- 82 Flache Schale, gerippt, auf Fuf. Im Fond auf blauem Grunde Venus und der Schwan,umgeben von einem Kranze grotesker Tierfiguren und Rankenwerk;am aufsteigenden Rande zahlreiche kleine Wappenschildchen. Urbino. Durchm.24cm.
+
+Nr.62.
+
+<!-- image -->
+- 83 Kleine Schiissel mit getieftem Umbo, die ganze Flache bemalt mit Madonna mit dem Kinde,unter einem Baldachine sitzend, nach Bambino.Auf der Rickseite:Jahreszahl 1543 und Asora Constanza.Urbino.
+- 84 Kleine Schiissel mit getieftem Umbo,die Flachevorherrschend in Gelb und Blau bemalt mit Perseus in Landschaft, das Haupt der Medusa holend.Urbino. Durchm.18cm.
+- 85ViereckigePlatte,trefflichbemalt mit der Zerstorung des Jupitertempels durch die Perser in figurenreicher Darstellung. Urbino.Hohe 31, Breite 27 cm. Gesprungen.In guillochiertem Holz-
+
+rahmen.
+
+- 86VierechigeUrbinoplattemitKassandra,indenTempelderMinerva fichtend.Mit Aufschrift und Jahreszahl 1536. Ebenso.
+
+Gleiche Grofe.
+
+- 87AchtkleineWandfliese,bemalt mit Reiter,in Landschaft spren-
+- gend. Urbino. Hohe 5, Lange 18 und 12 cm.
+
+Durchm.22cm.
+
+Nr.88.
+
+<!-- image -->
+
+- 88 Ein Paar groBe,bauchige Vasen,die Leibung bemalt mit figuralen Landschaften, der eng eingeschnirte Hals mit Maskenkopf verziert und ganz vergoldet, die Henkel in Form vollrund modellierter Puttenfiguren aus Voluten erwachsend. Hohe 65 cm.
+- 89 GroBe Vase mit zwei in Schlangen endenden Henkeln, darunter reliefierte Lowenkopfe. Den Leib schmicken groteske Engel und Tiere, dazwischen auf der Vorderseite Kartusche mit der hl.Katharina,rickseitig Kardinalswappen und Jahreszahl 1649. Hohe 38,5 cm. Erganzt.
+- 90 Getiefte Schiissel mit flachem Rande.Im Fond auf gelbem Grunde Brustbild eines Ritters in voller Ristung.Uber den aufsteigenden und uberfallenden Rand zieht sich eine Akanthusblattbordire in Gelb auf schwarzem Grunde. Auf der Riickseite bezeichnet:A.R. Hohe 12,Durchm.35 cm.
+- 91 Ovale Schale mit zwei seitlichen Henkeln, bemalt mit Kavalier und Dame in Landschaft. Lange 23,Breite16cm.
+- Polychromiert. Hohe 40cm.
+- 93 Konsole,ebenso,mit andern Wappen.
+
+Nr.89.
+
+<!-- image -->
+
+Gleiche Grofe.
+
+- 94 Konsole,die Platte getragen von zwei wappenhaltendenPutten. Polychromiert. Hohe 17,5 cm.
+- 95 Ein Paar Konsolen, die Vorderseite mit mannlichem Maskenkopf. Polychromiert. Hohe 17,5 cm.
+- 96 Ein Paar Konsolen, der Trager in Form eines Wappens, seitlich Blattwerk.
+- Polychromiert. Hohe 19,5cm.
+- 97 Ein Paar Konsolen, der Trager mit schmalem Wappenschild und Blattwerk.
+- Polychromiert. Hohe 10,5 cm.
+- 98 Grofe Schiissel, bemalt mit Venus, in Landschaft ruhend, von Putten um-
+- geben. Durchm.51cm.
+- 99 GroBe Schiissel, fach, bemalt mit dem Urteile des Paris. Durchm.51cm.
+- 100 Runde flache Schissel auf kurzem Fufsring, bemalt mit dem Triumphzuge
+- derAmphitrite. Durchm.43cm.
+- 101 Flache Schiissel, bemalt mit Amorette und groteskem Laubwerk. Durchm.39cm.
+
+Nr.90.
+
+<!-- image -->
+- 102 Ovale Majolikaschiissel mit zwei seitlichen, aus Muschelwerk gebildeten Henkeln,der Fond bemalt mit Kanallandschaft. Linge 39, Breite 27 cm.
+
+103 Runde Schissel, blau bemalt mit Rankenwerk. Durchm.34 cm.Gekittet.
+
+104 Getiefte Schiissel, bemalt mit Christus am Kreuze und Blumenstauden. Durchm.33cm.
+
+105 Getiefte Schissel, blau, bemalt mit gekrontem Doppeladler,im Brustschilde
+
+Nr.110.
+
+<!-- image -->
+
+Wappen mit drei Rosen haltend;am Rande Um- schrift:SoidaVicenta Agneta.Durchm.33 cm.
+
+106 Schiissel,bemalt mit der Darstellung der drei Grazien in Landschaft. Ruckseitig Marke. Durchm.32,5cm.
+
+107 Platte,muschelformig. ImFond Landschaftmit mythologischen Figuren. Der Rand gelb, darin ausgespart grauschattiertes Blattwerk. Mit Marke.
+
+Hohe 26,5, Breite 28cm.
+
+- 108 Teller.Der Fond bemalt mit der Arche Noahs; der breite, leicht ansteigende Rand mit Grotesken. Durchm.24cm.
+- 109 Finfechig abgeflachte Platte, bemalt mit spielenden Putten und Rankenbordire auf schwarzem Grunde. Hohe 18,Breite 20 cm.
+- 110 Viereckige Platte, fein bemalt mit Rahel am Brunnen. Im Vorgrunde einer Landschaft steht Rahel, die Werbung und Geschenke Jakobs von Elisar in Empfang nehmend.Unten rechts Aufschrift: Giacob chie dein Moglie Rachel. Hohe 26, Breite 26 cm.
+- 111 Kachel mit reliefiertem gekrontem Wappenschilde,sechsfach geteilt und farbig
+- glasiert.Bezeichnet A.D. 1797. Hohe30,Breite 26cm.
+- 112 Schissel, rund. Den Fond ziert ein von drei Putten getragenes Wappen, der ansteigende Rand reliefiert mit Medaillons, die von Fischweibchen umrandet werden,dazwischen Maskarons in Kranz. Die Ovalfelder bemalt mit Putten,der Dekor. Ruckseitig Marke Hahn. Durchm.50 cm.
+
+113 Schiissel mit starker Tiefung, bemalt mit der Huldigung eines Fursten.
+
+Der fache Rand zeigt groteskes Rankenwerk mit Maskarons und Tierkopfen.
+
+Durchm.46 cm.
+
+- 114 Schissel,rund, blau bemalt mit mythologischer Szene in Landschaft. Durchm.42 cm.
+- 115 Schiissel,fach,mit Fufring,bemalt mit mythologischer Szene in Landschaftsgrund. Durchm.42cm.
+- 116 Wandplatte,rund, blau bemalt mit biblischer Szene in Landschaft. Mit Marke. Durchm.41,5 cm.
+- 117 Platte mit breitem fachem Rande, ganz bemalt mit Wappen und drei Putten in Landschaft. Fayence. Mit Marke. Durchm.41 cm.
+- 118 Schissel mit leichter Tiefung, blau bemalt mit der Erschaffung der Eva. Fayence.Marke Leuchtturm. Durchm.43,5 cm.
+- 119 Groβe Schissel,blau bemalt mit Putte und reliefiertem Rokoko-Ornamentwerk. Fayence. Durchm.40cm.
+- 120 Teller,bemalt mit Blumenstauden. Durchm.23 cm.
+- 121 Teller mit ausgeschweiftem Rande,bemalt mit Blumenstauden. Durchm.22cm.
+- 122 Barbierschiissel mit ausgeschweiftem Rande, gelb glasiert und bemalt mit Spruch. Ton. Durchm.22cm.
+
+2
+- 123 Teller,blau bemalt mit Araber und Pferd in Ornamentrosette.Durchm.19 cm.
+- 124 Kleine Schiissel mit geripptem Rande, blau bemalt mit architektonischer Landschaft und Blumenwerk. Durchm.16 cm.
+- 125 Jupiter,vollig nackt, uber einem Adler stehend. Weifs glasierte Figur. Hohe35 cm.
+- 126 Urnenformige Vase mit zwei seitlichen, aus Palmetten gebildeten Henkeln. Vorder- und Rickseite fein bemalt mit architektonischen Landschaften in viereckigen Feldern auf konigsblauem Grunde. Hohe 27 cm.
+- 127 Birnformige Henkelkanne,bemalt mit Windenranken. Hohe 25 cm.
+- 128 Ovale gedeckelte Terrine mit reliefiertem Blumendekor.WeiB glasiert.
+- Hohe25,Lange34cm.
+- 129 Schaferin in blauem Kleide und gelber Schurze,auf Erdhugel sitzend. Hohe 21 cm.
+- 130 GroBe Wandfliese,aus kleinen Kacheln zusammengesetzt, die violett bemalt mit hollandischer Viehweide und Aufschrift. Hohe 65,Breite 78 cm.
+- 131 Wandfliese,ahnlich.
+
+Gleiche Grofe.
+
+- 132 Ein Paar Wandplatten,oval und ausgeschweift, in orientalischem Charakter bemalt mit Kostumfiguren und Ornamentborduren. Hohe 35,Breite32cm.
+- 133 Schissel, braun glasiert und farbig bemalt mit Haus und Jahreszahl 1827. Fabrikat Bern. Durchm.23 cm.
+- 134 Henkelkanne, schlanke Eiform, den Leib umzieht ein von zwei Wulsten eingefaftes Band mit Lowe und Gemsjagd in Rankenwerk.Der Hals mit reliefiertem Lowenkopf. Fuf und Hals mit Blattwerk und einfacher Ornamentation bemalt.Die Farben vorwiegend Blaugrun und Gelb.Mit Marke
+- Brissel. Hohe 36,5 cm.
+- 135 Ein Paar hohe Deckelvasen,achtfach abgefacht,auf ausladendem Fufe, die bauchige Leibung eng gerippt und farbig bemalt mit Blumenstauden und Ornamentborduren.Fabrikat Delft. Hohe 55 cm.
+- 136 Garnitur,bestehend aus drei birnformigen Deckelvasen und zwei Fleuten. Die Leibung gerippt und bemalt mit Kostumfiguren, Blumenstauden und breiten,ausgezackten gelben Ornamentborduren. Als Deckelknopfe vollrund
+- ziselierte Vogelfiguren.Fabrikat Delft. Hohe 34 cm.
+- 137 Dechelvase in breiter Eiform,in Gelb,Braun und Blau bemalt mit Amoretten-
+- kopf, Fruchtgehange,Bandwerk und Insekten.Fabrikat Delft.
+
+Hohe 35,5 cm.Deckel gekittet.
+
+- 138 Lowe, sitzend,mit der linken Pranke das spanische Wappen haltend. Leicht bemalt.Marke B.C.Fabrikat Delft. Hohe 26 cm.
+- 139 Lowe,ebenso nach links. Gegenstick.
+
+Gleiche Grofe.
+
+- 140 Ein Paar Vasen,faschenformig,achtkantig.der Leib bemalt mit Blumenstauden und Vogeln,der Hals mit Rankenwerk und geometrischen Ornamenten.Die Bemalung vorwiegend in Blau, Rotbraun und Grun. Mit Marke. Fabrikat Delft. Hohe 42 cm.
+- 141 Deckelkanne mit langem,in Vogelkopf endendem Ausguf und Voluthenkel. Der Leib in gedrickter Kugelform bemalt mit Paar in Landschaft bzw.Fluflandschaft. Der lange Hals und der hohe Fufs mit schuppenformigem Blattmuster und einfacher Ornamentation. Mit Marke W. K. Delft. Hohe 35 cm.
+- 142 Dechelkanne,ebenso,ahnlich bemalt. Gegenstick.
+
+Gleiche Grofse.
+
+- 143 Ein Paar kleine Jardinieren in Form von Wandkonsolen mit seitlichen Engels-
+- kopfen,bunt bemalt mit oberer Randborte. Marke C. Fabrikat Delft.
+
+Hohe 11,Breite 18 cm.
+
+- 144 Ein Paar Vasen, faschenformig, auf achtfach abgeflachtem Fufe, die kugelige Leibung mit langem Halse, blau bemalt mit uppig verschlungenem
+- Blumenwerk und ausgezackten Ornamentbordiren.Fabrikat Delft.
+- 145 Vasengarnitur, bestehend aus drei birnformigen Deckelvasen und zwei gedeckelten Fleuten, die Leibung eng gerippt und blau bemalt mit von Blumenwerkumsaumten Ovalmedaillons,in denen Kostimfiguren in Landschaftsmotiv. Fabrikat Delft. Hohe 55cm.
+- 146 Ein Paar Blumenvasen in doppeltem Turmbau. Achtseitiger, auf drei Lowen ruhender Unterbau, die Seiten fortlaufend blau bemalt mit Figuren in Zimmer; darauf, ebenfalls auf Lowen ruhend, ein achtseitiger Etagenbau, jede Stufe mit vier seitlichen Blumentillen und in Blau mit Blumen und Ornamentbordiren bemalt.Mit Marke APZ (verschlungen). Fabrikat Delft. Hohe 45cm.
+- 147 Zwei Andichtige, in Kirchstuhl sitzend, in einem Buche lesend, blau bemalte
+- Gruppe.Marke G.L.1750.Fabrikat Delft. Hohe 25 cm.
+- 148 Runde Schiissel,blau bemalt mit Blumenrosette und Rankenbordire. Fabrikat Delft. Durchm.35cm.
+- 149 Butterdose,achtfach abgefacht, blau bemalt mit Streublimchen. Fabrikat Delft. Hohe 6,Durchm.12 cm.
+- 150 Schissel mit gewelltem Rande, blau bemalt mit Blumenstauden Fabrikat Delft. Durchm.21 cm.
+- 151 Schissel mit gewelltem Rande, blau bemalt mit architektonischer Landschaft und Blumenstauden.Fabrikat Delft. Durchm.20 cm.
+- 152 Gedeckelte Kumpe, viereckig, mit zwei seitlichen, aus Muschelwerk gebildeten Henkeln,blau bemalt mit Rankenwerk und Rokoko-Ornamentborduren. FabrikatDelft,(A.Brouwer). Hohe 18,Durchm.25 cm.
+- 153 Madchen, eine Kuh melkend. Weif glasierte Figur. Delft. Hohe 16 cm.
+- 154 Ahnliche Gruppe.
+
+Gleiche Grofe.
+
+- 155 GroBe Schiissel,blau bemalt mit Adler,auf Ast sitzend; den iberfallenden Rand umzieht eine gitterformig gemusterte Ornamentbordire.Fabrikat Langenburg. Durchm.52cm.Restauriert.
+- 156 Schiissel, gelb glasierter Untergrund, bemalt mit Schuitzenhaus. Fabrikat Lenzburg. Durchm.20cm.
+- 157 Hangeampel fuir Blumen und Kerzen, durchbrochen ornamentiert mit Stabwerk und mit frei aufliegenden Blumen verziert. Fabrikat Lenzburg.
+- 158 Zwei Teller,vorherrschend in Violett und Grin bemalt mit Blumenstauden. Fabrikat Marseille.Durchm.22 cm.
+- 159 Lavoir mit Unterschale.Das birnformige Lavoir mit vorderem Ausgufs, fein bemalt mit Watteauszenen und Blumenwerk.Die ovale Unterschale mit zwei seitlichen Maskenkopfen und Landschaftsmedaillons,von Rokokoborduren umrahmt. Fabrikat Marseille.
+
+Marke V.P.Veuve Perrin.
+
+Hohe 70 cm.
+
+- 160 Ovale Jardiniere mit zwei seitlichen, aus Palmetten gebildeten Henkeln, die Leibung fein bemalt mit Fluflandschaften. Fabrikat Marseille. Marke V.P.Veuve Perrin. Hohe 19,Breite 35 cm.
+
+Durchm.39cm.
+
+Nr.159.
+
+<!-- image -->
+
+- 161 Ovale Schiissel,ausgeschweift, mit seitlichen, aus Palmetten gebildeten Handhaben, farbig bemalt mit Schaferszene und ippig verschlungenem RokokoOrnament und Muschelwerk.Fabrikat Moustier.Marke P.
+
+Lange 43,Breite 32cm
+
+- 162 Platte, achtfach abgefacht, bemalt mit Nelkenbuschel und Falter. Fabrikat Rouen. Lange 36, Breite 28 cm.
+- 163 Ovale Schiissel,der Fond reliefiert und bemalt mit Jakobinermitze,Eichelzweig und Aufschrift:Vive la Nation,1792.Fabrikat Rouen.
+
+Lange 44,Breite 31 cm.
+- 164 GroBe Schissel, achtfach abgefacht, blau bemalt mit Schaferpaar in Landschaft, umrahmt mit ausgezackte. Ornamentbordire. Fabrikat Rouen,bezeichnet: M.F.D. Hohe 40,Brejte 52 cm.
+- 165 Ovale Schissel, ausgeschweift, farbig bemalt mit Chinesenfiguren und Rankenbordire.Fabrikat Rouen. Linge 36,Breite 24 cm.
+- 166 Ovale Schissel, ausgeschweift, fein bemalt mit grotesken Tierfiguren und Palmetten.Fabrikat Rouen. Lange 32,Breite 22 cm.
+- 167 Schissel mit ausgeschweiftem Rande, bemalt mit Blumenbuketts und Rankenbordure.Fabrikat Rouen. Durchm.28cm.
+- 168 Knabe in gruiner Kniehose uud weifem geblumtem Rocke, sich die Schlittschuhe anschnallend. Fabrikat StrafSburg (Hanong). Hohe 16cm.
+- 169 Schafer, auf Baumstamm sitzend, den Dudelsack blasend, farbig bemalt. Fabrikat Strafburg (Hanong). Hohe 25 cm.
+- 170 Schiissel,stark getieft, der Fond bemalt mit Apollo und Daphne. Der Rand mit einfach stilisiertem Blattwerk,vorwiegend in Blau, Gelb und Grun.Winterthur, 17.Jahrh. Durchm.37,5cm.
+
+Nr.161.
+
+<!-- image -->
+- 171 Schissel, bemalt mit Blumenstauden und Jahreszahl 1696. Fabrikat Winterthur. Durchm.21 cm.
+- 172 Jager und Jagerin, vollrund modelliert und farbig glasiert. Fabrikat Zurich.
+
+Hohe 24 cm.
+
+- 173 Finf Tellermit ausgeschweiftem Rande,in Rot bemalt mit Rokokoborduren und Blumenbuketts; im Spiegel Trachtenfiguren der Kantone Bern, Schafhausen,Solothurn,Zug und Glarus. Fabrikat Zurich.Interessante, seltene Sticke.
+
+Durchm.24cm.
+
+- 174 Opferbecher,kelchformig,auf hohem Fufe. Die Kuppe verziert mit reliefierten,stilisierten Lowen. Ton in Art der Terra nigra. Peru.
+
+Nr.173.
+
+<!-- image -->
+
+Hohe 16 cm.
+
+Nr.173.
+
+<!-- image -->
+
+175 Uschabti in grauem Ten, Mumienform,mit eingeritzten Hieroglyphen.
+
+Lange20 cm.
+- 176 Wandfliese mit reliefierten, farbig glasierten Kostuimfiguren. Persisch. Hohe 23,Breite 23 cm.
+- 1i7 Wandfliese,aus kleinen Kacheln zusammengefuigt,die bemalt mit verschlungenen Laubarabesken.Persisch. Hohe 87,Breite 59 cm.
+- 178 Zwei Wandfliesen,rechtwinklig,mit der reliefierten Figur eines sitzenden Orientalen.Randbordure mit Blattranke. Vorderasiatisch. Hohe26,Breite 17cm.
+- 179 Zwei Wandfliesen, reliefiert mit der Figur eines orientalischen Falkenjagers zu Pferde.Vorderasiatisch. Hohe18,Breite 12cm.
+- 180 Teebiichse,achtfach abgeflacht, blau bemalt mit Segelschiffen und mit Silber
+- montiert. Hohe 22cm.
+
+Nr.173.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+## Porzellan.
+
+181 Dechelvase, urnenformig, mit zwei seitlichen, aus Bockskopfen gebildeten Henkeln, die Leibung mit reliefierten Bandschleifen behangen und fein bemalt mit farbenprachtigen Blumenbuketts.Der Deckel durchbrochen ornamentiert und von Pinienapfel bekront.Fabrikat Berlin. Hohe 67 cm.
+
+- 182 Ein Paar Vasen,birnenforinig,auf wurfelformigem Sockel, mit zwei seitlichen,aus Frauenkopfen gebildeten Henkeln auf Piedestalen stehend.Die Leibung auferst fein bemalt mit farbenprachtigen Blumenbuketts,belebt von Faltern und Kafern.Der Hals kanneliert und am obern Rande ausgezackt. Fabrikat Berlin.
+
+Hohe 46cm.
+
+- 183 Runde Schiissel mit ausgeschweiftem, von Gitterbordire umzogenem Rande, der bemalt mit Falter und Insekten, im Spiegel Finken auf Zweig. Fabrikat Berlin.Marke Zepter.
+
+Durchm.31cm.
+
+184 Telemach und Mentor.Telemach in voller Ristung, die Linke an den Schild gelehnt, die Rechte dem neben ihm
+
+sitzenden Mentor reichend.Fabrikat Berlin.Marke Zepter. Hohe34cm.
+
+185 Weibliche Putte,einen Brief haltend.Berlin.Marke Zepter.
+
+Hohe 8 cm.
+
+Nr.181.
+
+<!-- image -->
+- 186 Allegorische Gruppe: Preis der Tugend. In einem Sessel sitzt Venus mit ubergeworfenem grinem Lendentuche, einer vor ihr stehenden jugendlichen Frauengestalt (Maria von Medici) die Hand reichend. Hinter ihr,auf Wolkengebild stehend, die drei Grazien, das Haupt mit Blumen bekranzend. Am Boden Tauben und Blumengirlande haltende Putten. Fabrikat Bristol. Mit Marke. Hohe 44 cm.Der Fuf Goldbronze, ziseliert mit Palmetten.
+
+Nr.182.
+
+<!-- image -->
+
+190 Landsknecht in Kniehose und Puffenwams, das Barett mit Federn geschmickt. Weif glasierte Figur mit teilweiser Vergoldung.Marke Chelsea.
+
+- 187 Ein Paar Deckelvasen,birnformig, auf viereckigem Sockel,dieLeibung mit reliefiertengoldumrahmten Medaillons,farbigbemaltmitmythologischen Darstellungen. Seitlich zwei aus Bockskopfen gebildete Henkel, Rebenranken im Maule haltend. Fabrikat Capo di Monte. Mit Marke. Hohe 36 cm.
+- 188 Teekanne,kugelformig,runde Ausgufrohre, die Leibung reliefiert und bemalt mit figurenreichen mythologischen Darstellungen. Fabrikat Capo di Monte. Hohe 23 cm.
+- 189 Hohe Tasse mit Unterschale,die Leibung verziert mit reliefierten, farbig bemalten mythologischen Darstellungen. Fabrikat Capo di Monte. Hohe7 cm.
+
+Hohe 15 cm.
+
+191 Marketenderin,mit der Rechten das Kleid aufraffend. Gegenstick.Ebenso. Gleiche Grofe.
+
+192 Ritter in Waffenrock und Scharpe,in der Rechten einen Stab haltend. Ebenso. Gleiche Grofe.
+
+193 Ritter,ahnlich.
+
+Gleiche Grofe.
+- 194 Ritter in voller Rustung,in der Rechten den Schild haltend. Gleiche GroBe.
+- 195 Marketenderin,in den Armen ein Kind haltend.
+
+Gleiche Grofe.
+
+- 196 Knabe in weifer geblimter Hose und gelber Jacke, auf hohem Rokokopostamente stehend. Marke Custic. Hohe 20cm.
+- 197 Birnformige Rokokovase,bemalt mit Streublumchen. MitFrankenthaler Marke. Hohe 17cm.
+- 198 Hirsch,von vier Hunden gehetzt. Trefflich modellierte,weif glasierte Gruppe. FabrikatFrankenthal.Marke:gekrontes C.T. Hohe 45, Lange 65 cm,
+- 199 Gruppe dreier Amoretten auf einem Felsen,farbig bemalt.Mit Frankenthaler Marke. Hohe 20 cm.
+- 200 Venus, leicht geschurzt, auf Delphin sitzend; in der Rechten halt sie einen Spiegel.Mit Frankenthaler Marke. Hohe20 cm.
+- 201 Hohe Tasse mit Unterschale,fein beNr.184. malt mit Kostuimfigirchen in Landschaften, die Rander mit Goldbordure umzogen. Fabrikat Furstenberg. Marke F. Hohe 7 cm.
+- 202 Flache Tasse mit Unterschale,bemalt mit Rebengirlande. Fabrikat Firstenberg. Hohe5cm.
+- 203 Runde Bowle, getieft, bemalt mit farbenprachtigen Rosenbuketts, der aufsteigende Rand ausgeschweift und von reliefiertem Rokokomuschelwerk umzogen.Fabrikat Haagh. Mit Marke. Hohe 12,Durchm.26 cm.
+
+<!-- image -->
+- 204 Sechs hohe Tassen mit Unterschalen, fein bemalt mit Fruchtbuketts, am Rande zierlich gemusterte Zackenbordire in Gold. Fabrikat Haagh mit Marke. Hohe 6,5 cm.
+- 205 Ein Paar Vasen, urnenformig, rosa Untergrund mit ausgesparten Feldern, die bemalt mit Rosenbuketts. Mit Hochster Marke. Hohe 12 cm.
+- 206 Birnformige Vase mit zwei seitlichen Maskenkopfen; die Leibung verziert mit reliefiertem Blumengehange und bemalt mit Rosenbuketts. Mit Hochster Marke. Hohe 18cm:
+- 207 Teller mit ausgeschweiftem, von Gitterbordure in Gold umzogenem Rande, die Flachen fein bemalt mit Streubluimchen und reliefierten Blumenkranzen verziert.Marke Hochst. Durchm.20cm.
+- 208 Kaffeekanne,birnformig,mit vorderer Ausgufrohre in Tierkopfform; den Henkel bildet eine Schlange. Die Leibung bemalt in Rot-kamaieu mit spielenden Putten.Fabrikat Hochst. Hohe 18 cm.Restauriert.
+
+Nr.186.
+
+<!-- image -->
+- 209 Kleine Bouillonkumpe mit Unterschale,gedeckelt und bemalt mit Watteauszenen und Streublumchen.Mit Hochster Marke. Hohe 12,Durchm.14 cm.
+- 210 Flache Tasse mit Unterschale,lila Untergrund mit ausgespartem Felde,bemalt
+- mit zechenden Bauern. Mit Hochster Marke. Hohe5cm.
+- 211 Gruppe dreier spielender Kinder, Madchen mit Katze und Knabe mit Hindchen.
+- Mit Hochster Marke (Melchior). Hohe 16 cm.
+- 212 Tafelaufsatz in Form eines jungen Madchens zwischen zwei Korben sitzend.
+- Fabrikat Hochst.Mit Marke. Hohe 15 cm.Gekittet.
+- 213 Hausierer in blauer Kniehose und gelber Jacke,an der Seite einen Kasten tragend.Mit Hochster Marke. Hohe 17 cm.
+- 214 Knabe in gelber Kniehose und rosa Jacke, auf dem Ruicken einen Sack tragend.Mit Hochster Marke. Hohe 18 cm.
+- 215 Knabe in lila Kniehose und brauner Jacke,bei einem Monumente schlafend; neben ihm junges Madchen mit Blumenkranz. Hochster Fabrikat. Hohe 20 cm.
+- 216 Knabe in gelber Kniehose, ein Hundchen am Schwanze ziehend. Mit Hochster
+- Marke. Hohe 17 cm.
+- 217 Madchen und Knabe,auf Erdhigel sitzend,in den Handen ein Wickelkind haltend.Fabrikat Damm mit Marke. Hohe 18 cm.
+- 218 Madchen in gelbem Rocke und rosa Mieder, die Schirze aufraffend. Fabrikat Damm. Hohe 16cm.
+- 219 Gruppe. Junger Mann, von Diener begleitet, durch ein Portal tretend, eine Frau umarmend; seitlich zwei Kinder und Hundchen. Farbig bemalt. Mit Marke Damm. Hohe 40 cm.
+- 220 Gruppe. Junger Mann in blauer Kniehose und weifser geblimter Jacke, auf Felsen sitzend, den Rummelpott spielend;neben ihm junge Frau,ihn umarmend.
+- Mit Dammer Marke. Hohe 3o cm.
+- 221 Knabe in gelber Kniehose und Pelzjackchen, auf dem Ricken ein Reisigbundel tragend. Mit Kopenhagener Marke. Hohe 20 cm.
+- 222 Adonis mit umgurtetem Lendentuche, die Linke auf einen erlegten Eber gestitzt.Farbig bemalt.Mit Ludwigsburger Marke. Hohe 23 cm.
+- 223 Venus in leicht geschurzter Gewandung, in der Rechten ein Zepter haltend, zu ihren Fufen ein Pfau. Gegenstick.Ebenso. Gleiche GroBe.
+- 224 Schafer in gelber Kniehose und weifer Jacke, an seinen Spaten gelehnt. Marke Ludwigsburg. Hohe 12 cm.
+- 225 Kaffeeservice,bestehend aus birnformiger Kaffeekanne auf drei hohen Fufsen, Teekanne, Wasserkanne, gedeckelter Zuckerdose und zwei fachen Tassen mit Unterschalen.Die Leibung in reliefierter Schuppenmusterung verziert und bemalt mit Blumenbuketts.Fabrikat Ludwigsburg.
+
+Nr.220.
+
+<!-- image -->
+
+Hohe der Kannen 26und 12 cm.
+- 226 Drei Tassen mit Unterschalen, bemalt mit farbenprachtigen Blumenbuketts; um den Rand zieht sich eine reliefierte Blumenbordure, begrenzt durch braun gemalte Bordure,aus kleinen Stabchen gebildet. Fabrikat Ludwigsburg mit Marke. Hohe 7cm.
+- 227 Zylindrischer Henkelkrug in Bottcherporzellan. Aaf der Vorderseite gekrontes Kartuschenschild mit Standfigur eines Ritters, seitlich rauchende Chinesen an Teetisch;um den Fuf und Lippenrand zieht sich eine zierlich gemusterte Rankenbordire.Feines Stick. Hohe 18 cm.
+- 228 Terrine, oval und gedeckelt, mit zwei seitlichen,aus Palmetten gebildeten Henkeln, die Leibung fein bemalt mit zierlich staffierten Seekusten; als Deckelknopf dient eine Amorette, ein Fullhorn ausschittend.Sachsisches Fabrikat.Marke Schwerterzeichen (Markolini). Hohe17,Lange27cm.
+
+Nr.229.
+
+<!-- image -->
+- 229 Terrine, oval und gedeckelt, auf vier kurzen Fufansatzen. Seitlich zwei aus Damenbisten gebildete Henkel; die Leibung durchbrochen ornamentiert mit Bandelwerk und von reliefierten Rokokobordiren umrahmten Feldern,die fein bemalt mit architektonischen Landschaften;am Rande vollrund modellierte Putten,Blumengirlanden haltend. Auf dem Deckel Kartuschenschild mit dem Wappen Augusts des Starken; als Deckelknopf Krone, von Putten gehalten.
+- Marke Schwerterzeichen. Hohe 21,Linge 29 cm.
+- 230 Ein Paar Tischleuchter mit profiliertem Schaft, bemalt mit Streublimchen. Marke Schwerterzeichen (Mlarkolini). Hohe 22 cm.
+- 231 Terrine auf Unterschale,oval und gedeckelt, fein bemalt mit farbenprachtigen Blumenbuketts und reliefierten Gitterborduren; als Deckelknopf dient eine Putte mit Fullhorn. Marke Schwerterzeichen. Hohe 28,Lange 35 cm.
+- 232 Kaffeeservice,bestehend aus ovalem und geschweiftem Plateau mit zwei seitlichen Henkelansatzen, birnformiger Kaffeekanne, kugeliger Teekanne, Sahnegiefer, gedeckelter Zuckerdose, ovaler Gebackschale, Teebuchse, zwei Tassen mit Unterschalen und sechs Mokkaloffeln.Alle Teile fein bemalt mit Landschaftsdarstellungen und Reiterkampfen in Wouvermanns Geschmack. Um die Rander ziehen sich Goldborduren auf konigsblauem Untergrunde. Sachsisches Fabrikat.Marke Schwerterzeichen.
+
+Hohe der Kannen 19.und 16 cm.
+
+- 233 Ein Paar Tischleuchter auf rundem,ausgeschweiftem Fufse, der dreikantige Schaft mit reliefertem Rokoko-Ornamentwerk verziert und bemalt mit Streu blumchen.Sachsisches Fabrikat. Hohe28 cm.
+- 234 Sauciere,oval und doppeltgehenkelt, bemalt mit Streublumchen;den Rand umzieht eine reliefierteKorbflechtbordire.Fabrikat Meifen.Schwertermarke. Hohe 9,Lange 22 cm.
+- 235 Teekanne,kugelformig,auf Rechauduntersatz. Der Untersatz dreipaBformig, mit Gitterwerk durchbrochen ornamentiert und mit frei aufliegenden Streublumchen verziert. Die Teekanne fein bemalt mit Blumenbuketts, der Henkel Goldbronze, ziseliert mit Blumenstauden. Sachsisches Fabrikat. Marke
+- Schwerterzeichen. Hohe 40 cm.Restauriert.
+- 236Viereckige Teekanne,kugelformiger Sahnegieβer und achtfach abgeflachte Zucherdose, kobaltblauer Untergrund mit ausgesparten Feldern, die bemalt
+- mit Watteauszenen.Marke Schwerterzeichen. Hohe 18 und 10 cm.
+- 237 Butterdose,Henne,auf Nest sitzend. Marke Schwerterzeichen.Hohe 18 cm.
+- 238 Henkelkanne, birnformig, fein bemalt mit Watteauszene; um den Rand zieht sich eine Schuppenbordure, in Blau gemustert. Marke Schwerterzeichen. Hohe 14 cm.
+- 239 Ein Paar Brothorbe,oval,mit seitlichen Henkeln, die Leibung reliefiert mit Palmetten und vergoldet.Marke Schwerterzeichen. Hohe 7,Lange 32 cm.
+- 240 Flacher Teller, fein bemalt mit Blumen und Fruchtbuketts,von reliefierten Rokokoborduren umrahmt. Marke Schwerterzeichen. Durchm.23 cm.
+- 241 Finf flache Teller, der Fond bemalt mit Rosenbukett, der aufsteigende ausgeschweifte Rand reliefiert mit Blumenranken und vier ins Kreuz gestellten goldbemalten Rokokomedaillons, in denen Rosenbuketts,abwechselnd in Grun und Rot gemalt.Fabrikat MeifBen (Markolini). Durchm.25 cm.
+- 242 Teller mit ausgeschweiftem Rande, der in Oziermusterung ornamentiert; der Fond bemalt mit Tierfiguren und Blumenstauden. Sachsisches Fabrikat.
+- Marke Knaufschwerter. Durchm.23 cm.
+- 243 Flache Tasse mit Unterschale, bemalt in chinesischem Charakter mit Blumenstauden.Marke Schwerterzeichen mit Stern. Hohe 5 cm.
+- 244 Flacher Teller,der Fond bemalt mit Schaferpaar bei einer Fontane. Der uberfallende Rand von breiter Ornamentbordure,in Grin und Blau gemustert, umzogen. Marke Schwerterzeichen. Durchm.23 cm.
+- 245 Ein Paar Teller mit gitterformig durchbrochen ornamentiertem Rande. Der Fond bemalt mit Finken auf Zweigen und Insekten. Marke Schwerterzeichen mit Stern. Durchm.23 cm.
+- 246 Ein Paar Flakons, vierseitig,bemalt mit Watteauszenen und Blumenbuketts. Marke Schwerterzeichen. Hohe 18 cm.
+- 247 Amor und Psyche. Weife Biskuitgruppe. Sachsisches Fabrikat.
+- 248 Patriarch, sitzend,in gringeblumtem Rocke,in einem Buche lesend. Kopf und Mund beweglich.Fabrikat Meifen. Hohe 22 cm.
+- 249 Kavalier in gelber Kniehose und blauem Rocke, an der Scharpe den Degen tragend. Meifen. Schwertermarke. Hohe 15 cm.
+- 250 Schwarzwalder Bauer in tanzender Stellung. Farbig bemalt. MeifBen. Marke Schwerterzeichen. Hohe 16cm. Bauerin.Ebenso. Gleiche Grofe.
+- 251 Junge Dame in grunem geblumtem Kleide, in Sanfte sitzend, die von zwei Mannern getragen. Meifen. Marke Schwerterzeichen. Hohe 17, Breite 22 cm.
+- 252 Schafer, an einen Baumstamm gelehnt, die Flote blasend. Weif glasierte Figur. Meifsen.Schwertermarke. Hohe 18 cm.
+
+Nr.259.
+
+<!-- image -->
+- 253 Junge Frau in grun gestreiftem Rocke und rosa Mieder, auf dem Kopfe ein
+- Tablett tragend. Meifen.Marke Schwerterzeichen. Hohe 16 cm.Ladiert.
+- 254 Bauer in gelber Kniehose und schwarzem Hute, am Boden hockend,eine birnformige Kanne umfassend, die bemalt mit Landschaft mit Vieh. Meifen. Marke Schwerterzeichen. Hohe 20 cm.
+- 255 Junge Bauerin in ahnlicher Darstellung. Ebenso.
+
+Gleiche GroBe.
+
+- 256 Junge Fran,auf Stuhl sitzend, in grunem Mantel und gelber Haube,auf dem
+- Schofe ein Kind haltend. Der Kopf beweglich. Sachsisches Fabrikat. Mit Marke. Hohe 21 cm.
+- 257 Europa. Jugendliche Frauengestalt in violettem Mantel, auf Steinbank sitzend, das Haupt gekront;in der Rechten halt sie ein Zepter, in der Linken den Reichsapfel. Hinter ihr steht ein Pferd. Sachsisches Fabrikat. Hohe 27 cm.
+- 258 Asien. Orientalin in rosa Rock und gelbem Mantel, das Haupt mit Turban bedeckt. Sie sitzt auf einem am Boden liegenden Kamel. Gegenstick. Ebenso.
+- Hohe 33cm.
+- 259 Afrika. Negerfirst mit Federschurz und violettem Mantel,auf Lowen sitzend; in der Rechten halt er ein Zepter, in der Linken Tabakblatter. Gegenstick.
+- Ebenso. Hohe 30 cm.
+- 260 Amerika. Indianerin mit Federschurz und Federmantel,auf Krokodil sitzend; auf der rechten Hand halt sie einen Papagei, in der linken ein Fillhorn.
+- Gegenstick.Ebenso. Hohe 28 cm.
+- 261 Groβe Gruppe. Rokoko-Hofkarosse,von zwei reich aufgezaumten Schimmeln gezogen,in derselben zwei Damen und Kavalier; auf dem Kutschbocke und am Schlage mehrere Lakaien.Prachtstick von schoner Modellierung und fein bemalt. Auf reich ornamentiertem Sockel. Hohe 40,Lange 80 cm.
+- 262 Neptun,in Muschelwagen stehend, der von zwei Seepferden iber Meereswogen gezogen wird; seitlich Najade, Triton und Delphine. Weif glasierte Gruppe. Fabrikat Neapel. Hohe 48 cm.
+- 263 Tanzendes Winzerpaar unter Reblaube.Weifs glasierte Gruppe auf hohem, reich mit Rokoko-Ornamentwerk durchbrochen ornamentiertem Sockel. Fabrikat Neapel. Hohe 42 cm.
+- 264 Gruppe in ahnlicher Ausfuhrung.
+
+Nr.262.
+
+<!-- image -->
+
+Gleiche Grofe.
+
+- 265 Duellant.Edelmann in hohen Stulpstiefeln,Puffenhose und Schlitzenwams,mit dem Degen zum Stofe ausholend. Weifβ glasierte Figur. Fabrikat Neapel. Hohe 22 cm.
+
+266 Duellant in ahnlicher Ausfuhrung.
+
+Gleiche Grofe.
+
+- 267 Junges Madchen,in der Schurze Fische tragend. Weif glasiert. Marke Neapel. Hohe 10 cm.
+
+268 Jugendlicher Kavalier in Schofrock.Ebenso.
+
+Gleiche Grofe.
+- 269 Wolf, von drei Hunden gehetzt. Weis glasierte Gruppe. Nymphenburg. Hohe 10 cm.
+- 270 Bar, von drei Hunden angefallen. Gegenstuck. Ebenso. Gleiche Grofe.
+- 271 Teeservice,bestehend aus zylindrischer Teekanne, Sahnegiefer, Teebuchse, Zuckerdose und vier zylindrischen Tassen mit Unterschalen. Alle Teile in Tusche fein bemalt mit Ovalmedaillons, mit architektonischen Landschaften, von Goldborduren umrahmt. Fabrikat Nyon. Marke Fisch.
+
+Hohe derKannen 15und 14 cm.
+
+- 272 GroBes Kaffeeervice,Empire,bestehend aus Kaffekanne,Tekanne,Sahn giefer, Zuckerdose, Butterschale und zwolf Tassen mit Unterschalen.Alle Teile in Tusche fein bemalt mit Kostuimfiguren in Landschaften, die Rander vergoldet.Pariser Fabrikat. Hohe der Kannen 34 und 18 cm.
+- 273 Zylindrische Tasse mit Unterschale, in Tusche bemalt mit mythologischen
+
+Hohe 7 cm.
+
+- Figuren, die Rander von Goldborduren umzogen. Pariser Fabrikat.
+- 274 Milchkanne,gedeckelte Zuckerdose und sechs flacheTassen mitUnterschalen, bemalt mit Streublimchen.Bezeichnet:Poter a Paris.
+
+Hohe der Kanne 16 cm.
+
+- 275 Flache Tasse mit Unterschale, konigsblauer Untergrund mit ausgespartem Sevresmarke.
+- Felde, bemalt mit dem gekronten Monogramm Louis Philipps. Hohe 7 cm.
+- 276 Ein Paar zylindrische Tassen mit Unterschalen,rose du Barry,mit aus-
+- gesparten Feldern, fein bemalt mit gekrontem Monogramm Louis Philipps und Amoretten.Sevresmarke. Hohe 7 cm.
+- 277 Ein Paar Tassen mit Unterschalen in Form eines Samowar. Vergoldet.
+- Russisches Fabrikat.Mit Marke. Hohe 16 cm.
+- 278 Finf Teller mit ausgeschweiftem Rande, der Fond bemalt mit Vogelfiguren in Landschaft；um den iberfallenden Rand zieht sich eine Ornamentbordire in Oziers Geschmack. Mit Marke Tournay. Durchm.23cm.
+- 279 Rundes Medaillon mit Ansicht eines Bergwerks. Blaues Wedgewood. Durchm.9 cm.
+- 280 Kaffeeservice, bestehend aus birnformiger Kaffeekanne,Sahnegiefser, ovaler Zuckerschale und sechs fachen Tassen mit Unterschalen. Alle Teile fein bemalt mit Rosenbuketts und Streublimchen, die Rander von zierlich ge-
+- musterter Goldbordure umzogen. Fabrikat Wien. Marke Bindenschild.
+
+Hohe der Kannen 18und 16 cm.
+
+- 281 Ovales Schalchen, doppeltgehenkelt, der Fond bemalt mit ruhendem
+- Madchen in Landschaft. Mit Wiener Marke. Lange 12 cm.
+- 282 Ein Paar Vasen, roter Grund, bemalt mit schwarz und goldnem Blatt und Rankenwerk. Auf der Vorderseite ausgespart und leicht schattiert trauernde Frauengestalt und Amorette. Hohe 49 cm.Auf Holzsockel.
+- 283 Schreibzeug. Allegorische weibliche Figur, auf einer Muschel sitzend,leicht geschurzt, in den Handen das Tinten- und Sandfafβ haltend. Farbig bemalt.
+- Hohe 18 cm.
+- 284 Orientale in gelber Kniehose und pelzverbramtem Mantel; den Kopf bedeckt ein Turban.Marke D.V.(Duc de Villeroy). Hohe 26 cm.
+- n Rocke und Pelzmantel. Marke D.V.(Duc de
+- 285Orientalin inviolettem Villeroy).Gegenstick. Gleiche Grofe.
+- 286 Schafer,auf seinen Stab gelehnt,blau bemalt.
+
+Hohe 18 cm.
+
+- 287 Bacchusknabe,auf Esel reitend；in den Handen halt er einen Becher und Trauben.Farbig bemalt. Hohe 18 cm.
+- 288 Millerbursche in rotgeblumter Kleidung.in den Handen einen Korb haltend. Hohe 17 cm.
+- 289 Plateau, oval und ausgeschweift,in Rot-kamaieu, vorziglich bemalt mit Ansicht des Schlosses Salenstein in Thuringen. Fabrikat Zurich.
+
+Lange 36,Breite 28cm.
+
+- 290 Flache Tasse mit Unterschale, bemalt in Rot-kamaieu mit Kostimfigur in
+- Landschaft.Fabrikat Zurich.Mit Marke. Hohe 6 cm.
+- 291 Ovales Plateau, Empire, der Fond in Tusche bemalt mit der Uberfahrt des Megapenthes, nach Carstens;um den Rand zieht sich eine zierlich gemusterte Palmettenbordire. Lange 40, Breite 30 cm.
+- 292 Ein Paar doppelarmige Tischleuchter auf rundem ausgeschweiftem Bronzegebildet. Die Leuchterarme Bronze,ziseliert mit Palmetten. Hohe36cm.
+- 293 Kugelige gedeckte Kumpe, als Fuchsbau behandelt, mit reliefiertem,bunt be-
+- maltem Fuchskopf. Hohe 15 cm.
+- 294 Zierstick in Form einer aus Voluten gebildeten Vase, die uberaus reich mit
+- Blumen geschmickt. Reiche Polychromierung. Hohe 48,5cm.
+- 295 Gedeckelte Zucherdose, bemalt in Blau, Rot und Gold mit Blumenstauden.
+- Mit Zuricher Marke. Hohe 7 cm.
+- 296 Deckel einer Terrine, verziert mit Blumenkohl und Krebs. Hohe 14 cm.
+- 297 Zylindrische Teebiichse, bemalt mit spielenden Knaben in Landschaft. Silber-
+- montiert. Hohe 17 cm.
+- 298 Tasse mit Unterschale, Empire, bemalt und vergoldet mit geometrisch ge-
+- mustertem Ornamentwerk. Hohe 9 cm.
+- 299 Hohe zylindrische Tasse mit Unterschale, konigsblauer Untergrund, mit Edelsteinnuppen verziert; auf der Vorderseite grofes Medaillon, bemalt mit Amor und Psyche in Rennwagen. Hohe 9 cm.
+- 300 Sahnegiefer auf drei Fufsansatzen, bemalt mit Blumenstauden. Hohe 11 cm.
+- 301 Drei kleine Mokkaloffel, bemalt mit Streublimchen. Lange 11 cm.
+
+302 Vier kleine Loffel,ahnlich.
+
+Gleiche Grofe.
+- 303 Sechs kleine Rokokoloffel, die Muschel bemalt mit Watteauszenen und Streu-
+- blumchen. Lange 14 cm.
+- 304 Sechs desgl.Ebenso.
+- 305 Sechs desgl.Vier defekt.
+
+Gleiche Grofe.
+
+Gleiche Grofe.
+
+- 306 Ein Paar Miniaturvasen,eiformig,bemalt mit Streublimchen. Hohe 8cm.
+- 307 Zwei Pfeifenkopfein Form vollrund modellierter Kostimfiguren.Farbig bemalt. Lange 16 cm.
+- 308 Birnformige Satsumavase mit eingeschnirter Leibung und zwei seitlichen, aus Drachen gebildeten Henkeln, die Leibung bemalt mit Gotterfiguren in Landschaft; als Deckelknopf sitzende Dharmafigur. Hohe 45 cm.
+- 309 Ein Paar chinesische Vasen in schlanker Birnform, famille verte,mit seitlichen reliefierten Drachenhenkeln. Auf Vorder- und Ruckseite grofes Medaillon mit
+- figurenreicher Palastszene, seitlich von Faltern belebte Blumenstauden.
+
+Hohe 65 cm.
+
+- 310 Ein Paar hohe Vasen, famille verte,mit seitlichen Ringhenkeln,die bauchige Leibung von reliefierten, braun gemusterten Ornamentborduren umzogen und fein bemalt mit figurenreichen Darstellungen aus dem Leben der Chinesen. Hohe 63cm.Gekittet.
+- 311 Ein Paar Vasen,zylindrisch, famille verte, mit eng eingeschnurtem Halse,
+- blauer goldkonturierter Untergrund mit ausgesparten Feldern mit Chinesin in Landschaft.Fuf und Hals in Bronze montiert. Hohe 27 cm.
+- 312 Chinesische Waschgarnitur,famille verte, bestehend aus halbkugeliger Schussel, birnformiger Flasche, gedeckeltem Kammkasten und Seifendose; alle Teile in Farben und Gold fein bemalt mit hauslichen Szenen,umsaumt von zierlich gemusterten Rankenborduren.
+
+Hohe der Kanne 39 cm.Durchm.der Schussel 40 cm.
+
+- 313 Chinesische Waschgarnitur,aus denselben Teilen bestehend. Ebenso.
+
+Gleiche Grofe.
+- 314 Ein Paar groBe Vasen mit zwei seitlichen,aus Foohunden gebildeten Henkeln, reichen Darstellungen aus dem Leben der Chinesen. Hohe 85 cm.
+- 315 Ein Paar Vasen,birnformig,mit seitlichen,aus Foohunden gebildeten Henkelansatzen.Zitronengelber Untergrund, in dick aufgetragenen Emailfarben bemalt mit chinesischem Hausgerat und Ornamentborduren.
+- 316 Ein Paar chinesischeVasen in schlanker Birnform mit seitlichen,aus Drachen gebildeten Henkeln.Die Leibung bemalt mit netzformig gemustertem Untergrunde,auf dem ausgesparte Felder mit figurenreichen Darstellungen aus dem Leben der Chinesen. Hohe 31 cm.
+- 317 Ein PaarVasen,birnformig, chinesisch,blau bemalt mit Streublimchen undFabeltieren.
+
+Hohe 27 cm.Restauriert.
+
+- 318 EinPaarFoohundein sitzender Stellung,die Zahne fletschend,inderVorderpfote die heilige Perle haltend. Vollrundmodelliert undfarbig glasiert. Hohe 75cm.
+
+H8he 45 cm.
+
+Nr.320.
+
+<!-- image -->
+
+- 319 Rauchergefaf in Form eines foteblasenden Hirten, auf Zebu reitend. Farbig bemalt. Hohe 27 cm.
+- 320 Tafelzierstick in Form eines reich aufgezaumten Elefanten,auf dem Ricken einen turmformigen Aufbau tragend,auf dem Chinese mit Horn.Farbig bemalt. Hohe46cm.
+- 321 Chinesisches Teeservice, bestehend aus ovalem Plateau, kugelformiger Teekanne, Sahnegiefer, Zuckerdose und zwei Tassen mit Unterschalen. Alle Teile mit reliefierten Figuren verziert,deren Kopfe vollrund modelliert, die Flachen vergoldet und bemalt mit Streublimchen, die Henkel aus einem Astgeflecht gebildet. Hohe der Kannen 16und 12 cm.
+- 322 Barbierschiissel,famille rose,mit ausgeschnittenem Rande,in dick aufgetragenen Emailfarben bemalt mit Blumenranken. Lange 32,Breite 25 cm.
+- 323 Getiefte Schiissel mit aufsteigendem geripptem Rande, fein bemalt mit Rundmedaillon,in der chinesische Kostimfigur, umrahmt von sechs kleinern Feldern mit Landschaftsmotiven. Durchm.27cm.
+- 324 Sechs getiefte Teller, der Fond bemalt mit Chinesinnen in Landschaft, der
+- uberfallende Rand von ausgeschweifter Ornamentborduire umzogen.
+
+Durchm.24 cm.
+
+- 325 Vier chinesische Medizinloffel,bemalt mit Blumenstauden. Lange 14 cm.
+- 326 Ein Paar groBe Deckelvasen,Compagnie des Indes,in dick aufgetragenen Emailfarben und Gold bemalt mit dem gekronten danischen Wappenschilde, von zwei phantastischen Tierfiguren gehalten, umgeben von bluhenden Mandelzweigen, Kiefern und chinesischem Hausgerat. Auf dem Deckel sitzende Foohunde als Knopf. Hohe 65 cm.
+- 327 Ein Paar Deckelvasen, Compagnie des Indes, bemalt mit Blumenstauden,umrahmt von dick aufgetragenem Schnorkelwerk in weifer Emailfarbe.Auf der Vorderseite das englische Wappenschild. Fuf und Rand von vergoldeter Lilienbordure umzogen. Hohe 45cm.
+- 328 Birnformige Henkelkanne mit rohrenformigem Ausgiefer,Compagnie des Indes, bemalt mit spanischem Wappenschilde, Streublumchen und Ranken-
+- borduren in Gold. Hohe 36cm.
+- 329 Henkelkanne.Ebenso.
+
+Gleiche Grofe.
+- 330 Teeservice, Compagnie des Indes,bestehend aus kugelformiger Teekanne, birnformiger Wasserkanne, gedeckelter Zuckerdose und zwolf flachen Tassen mit Unterschalen, alle Teile eng gerippt und bemalt mit Wappenschild, Streu-
+- blumchen und Rankenbordiren in Gold. Hohe der Kannen 17und 14 cm.
+- 331 Ovale Miniaturterrine auf Unterschale,Compagnie des Indes,bemalt mit Blumenbuketts. Hohe 6, Lange 12 cm,
+- 332 Suppenterrine mit Untersatz,Compagnie des Indes,auf vier breiten Fifsen, die mit plastischem Blattwerk verziert.Die Henkel volutformig mit mannlichem Maskaron. Als Deckelknopf Kohlkopf. Die Verzierungen naturalistisch bemalt.Deckel der Kumpe sparlich mit Blumenmalerei und Gold verziert. Hohe 29,Lange 38 cm.
+- 333 Suppenterine.Ebenso.
+
+Gleiche Grofe.
+
+- 334 Sechs flache Teller, Compagnie des Indes, vorherrschend in Tusche und mit tektonische Saulennische mit mythologischen Figuren；den uberfallenden Rand umzieht eine breit gemusterte Rokoko-Ornamentbordire mit gekrontem Monogramm. Durchm.23 cm.
+- 335 Runde Schale, dreieckig, ausgeschweift und farbig emailliert mit Ornament-
+- rosetten auf gekracktem Grunde. Hohe 12,Durchm.20 cm.Gekittet.
+- 336 GroBe gedeckelte japanische Bowle, die kugelige Leibung bemalt in Blau, Rot und Gold mit von Blumenwerk umrahmten Feldern,in denen Adler,auf
+- Felsen sitzend. Hohe 40 cm.
+- 337 Brahmine, am Boden vor einem Kasten kniend,aus dem ein Gespenst er-
+- scheint,vollrund modellierte japanische Figur, farbig glasiert. Hohe 12 cm
+- 338 Garnitur dreier birnformiger Deckelvasen und zweier Fleuten, bemalt in Blau, Rot und Gold mit Blumenwerk in durch blaue Linien abgetrennten Feldern.
+- Japanisch. Hohe 25 cm.
+- 339 Runde Bowle auf Fufring, die Leibung eng gerippt und bemalt mit Chrysanthemstauden auf gelbem und Mandelzweigen auf weifsem Grunde. Japanisch. Hohe9,Durchm.19cm.
+- 340 Runde, gedeckelte Bichse, Satsuma, fein bemalt mit figurenreichen Darstel lungen aus dem Leben der Japaner. Hohe8cm.
+
+<!-- image -->
+<!-- image -->
+
+## Glas und Glasmalereien.
+
+- 343 Vierechige Schweizerscheibe.Im Mittelfelde Segelschiff auf hoher See und stark befestigte Stadt; seitlich schlanke Pilaster in Gelb, bekront von violetten Kapitalen. Den obern Teil der Scheibe nehmen, durch zwei Rundsaulen getrennt, drei Felder ein, in denen figurenreiche biblische Darstellungen: Susanna im Bade, Christus am Kreuz, Daniel und Jonas.Am Fufe der Scheibe zwei von Engelsfiguren gehaltene Wappenschilder und Aufschrift: die Ehliche Husfrow.Ano 1572."Einige Notbleie.
+
+Hohe25,Breite39cm.
+
+- 344 Schweizer Glasscheibe,rechtwinklig,mit mittlerem,von Engelsfigur gehaltenem Allianzwappen und Aufschrift:Herr Hans Joneli,Obmann und Eingeschworener beider Gerichte, und Margreth Zeller sein Ehegemachel 1718."Dariber pfugender Bauer, am Fufe Wappenschild und Schitzenstand; seitlich je zwei von Lorbeerkranzen eingefafte Rundscheibchen mit Kostumfigurchen und Aufschriften:Niklaus Wuffler anno 1654 Landseckelmeister Niklusis Mani 1654, Jakob Rubmann alt Seckelmeister zu Spiez 1714." Einige Notbleie.
+
+Hohe 41,Breite 29 cm.
+
+- 345 Rundscheibe,in Sepia bemalt. Das Mittelfeld nimmt eine weit ausgedehnte Landschaft mit Schlachtendarstellung ein,um dasselbe gruppiert 48 kleine Wappenschildchen schweizerischer Geschlechter.17.Jahrh.
+
+Durchm.37cm.
+
+- 346 Kleine Rundscheibe,in Tusche und Gelb bemalt mit badender Susanna. Durchm.17 cm.
+- 347 Kleine Wappenscheibe,vorherrschend in Gelb und Schwarz bemalt mit Kreuz und Stern. Durchm.19 cm.
+- 348 Zierflasche in verschiedenfarbigem Glasfluf. Im Renaissancestil in vergoldetem
+- Silber montiert.Vorder- und Rickseite mit Ovalmedaillons, die in Relief Allegorien von Feuer und Wasser zeigen.Die Reliefs sowie die reich reliefierten Fife und der Halsring durch Bander verbunden,die durchbrochen in Maskarons, Tierkopfen, Band und Schnorkelwerk. Als Deckelknopf vollrund modelierter Krieger. Hohe 39,5 cm.
+- 349 Henkelflasche in grinlichem Glase auf hohen Fufsen, mit scheibenformiger Schrift. Die kugelige Leibung von weifsen Faden schraubenformig umzogen, mit zwei Ausgufrohren und oben ringformiger Handhabe,mit seitlich gekniffenen
+
+Hohe 28 cm.
+
+- Verzierungen in blauem Glase und abschliefendem Vogel. 17. Jahrh.
+- 350 Birnformige Laticiniovase auf kurzem Fufse,von weifsen Faden schraubenformigumzogen. Hohe 27 cm.
+- 351 Groβe Flasche, grin, halbrund, mit langem Halse. Die Vorderseite bemalt mit Bauernszene nach A.von Ostade in Rokokoumrahmung. Der Knopf des Stopfens Silber in Form einer Windmuhle. Niederlande,18. Jahrh.
+
+Hohe 52,5 cm.
+
+- 352 Flasche,achtfach gekantet und emailliert mit Kostimfigirchen und Spruch. Schweizer Fabrikat. Hohe 23 cm.
+- 353 Birnformige Flasche in gruinlichem Glase auf Fufring und mit vorderer
+- Ausgufrohre. Hohe21 cm.
+- 354 Birnformige Henkelkanne, Milchglas,die Leibung verziert mit relieferten Putten in Laubwerk. Hohe 17cm.
+- 355 Flasche in abgefachter Kugelform, blaues Glas mit reliefierter Rippenverzierung.Schweizer Fabrikat. Hohe 21 cm.
+- 356 Birnformige Flasche, violettes Glas mit relieferter Reifenverzierung.
+
+Hohe 18 cm.
+- 357 Apothekergefaβ mit emailliertem Kartuschenschildchen.
+
+Hohe 14 cm.
+
+- 358 Hoher Deckelpokal, weit ausladender Fuf und profilierter Schaft. Der glockenformige Kelch mit blauem Uberfangglas, darin ausgeschliffen reiche Distel- und Eichenlaubranke, belebt von Eber jagenden Amoretten. Der
+- Deckel entsprechend mit Eichenlaubkranz. Hohe 39 cm.
+- 359 Deckelpokal in bohmischem Doppelglas, der Schaft facettiert, die Leibung des Kelches goldbemalt mit den allegorischen Figuren der vier Jahreszeiten. Hohe25 cm.
+- 360 Hoher Pokal in schwerem Kristallglas, der Kelch in rotem Uberfangglase ausgeschliffen mit Rebenranken.Der Deckel Goldbronze. Hohe 42 cm.
+- 361 Pokal mit facettiertem Schaft, der glockenformige Kelch geschliffen mit uppig
+- verschlungenem Rankenwerk. Hohe30 cm.Holzfuf.
+- 362 Zylindrischer Humpen,reich geschliffen mit Doppeladler und verschlungenem Laubwerk. Fuf, Henkel und Deckel gefaft mit farbig emailliertem Kupfer,
+- durchbrochen ornamentiert mit Blumen und Frichten. Hohe 20 cm.
+- 363 Pokal in rotem Uberfangglase, der abgefachte Kelch geschliffen mit Wappen-
+- schildchen. Hohe 20 cm.
+- 364 Laticiniopokal auf hohem profiliertem Schaft, der glockenformige Kelch von
+- Goldrandern umzogen. Hohe 19 cm.
+- 365 Pokal auf gekantetem Schaft, der Kelch geschliffen mit Segelschiff.
+
+Hohe 17 cm.
+
+- 366 Pokal in rotem Uberfangglas, in Gold und Silber bemalt mit Jager und Pal-
+- metten. Hohe 16 cm.
+- 367 Konischer Humpen, emailliert mit dem Hohenloheschen Wappenschilde. Hohe 14 cm.
+- 368 Becher auf FuSring in blauem Glase. Fabrikat Elgg. Hohe 14 cm.
+- 369 Reisebecher in abgefachter zylindrischer Form, Milchglas,von farbigen Faden schraubenformig durchmustert. Fabrikat Elgg. Hohe 11 cm.
+- 370 Ovale Bartschale,Milchglas,violett gesprenkelt.Fabrikat Elgg. Hohe 4,Lange 8 cm.
+- 371 Ovale Bartschale.Ebenso.
+
+Gleiche Grofe.
+
+- 372 Flakon in Form einer Pistole, blaues Glas. Fabrikat Elgg. Lange 33 cm.Ladiert.
+- 373 Zylindrischer Humpen auf Fufring,Milchglas,blau marmoriert.Fabrikat Elgg. Hohe 16 cm.
+- 374 Henkelbecher, Milchglas und rotes Uberfangglas, mit ausgeschliffenem Palmettendekor.Fabrikat Elgg. Hohe 14 cm.
+- 375 Zylindrischer Becher,in aufgetragenen opaken Emailfarben verziert mit Ritter und Edeldamen zwischen Blumenstauden. Hohe 15 cm.
+- 376 Becher in schwerem Kristallglase,geschliffen mit Putten in Landschaft. Hohe 10 cm,
+- 377 Flakon in Form eines Pavillons, in rotem Uberfangglase, geschliffen mit Ornamentwerk,der Stopsel aus Vogelfigur gebildet. Hohe 22 cm.
+- 378 Flakon, violettes Glas, in Form einer Maus.
+
+Hohe 15, Lange 18 cm.
+
+- 379 Flakon, grines Glas, in Form eines Vogels. Schweizer Fabrikat. Hohe 9 cm.
+- 380 Flakon in rotem Uberfangglase,geschliffen mit Ornamentwerk. Hohe 9 cm.
+- 381 Glocke mit abschlieBender Krone als Handhabe. Hohe 26 cm.
+- 382 SalzfaB auf hohem Fufe in violettem Glase. Hohe 10 cm.
+- 383 Spiegelbild, mattgeschliffen mit der Darstellung des Traumes Jakobs. Land schaftlicher Hintergrund. 18. Jahrh. Hohe 45,Breite 37,5 cm.
+- 384 Ansicht von Amsterdam. Blick auf eine vom Kanal durchbrochene Strafe. Glas, mit Silber und Gold hinterlegt,in das die einzelnen Zeichnungen radiert und gestochen. Der Himmel blau getont. Bezeichnet:Zeuner inw. 18. Jahrh. Hohe 58,5, Breite 76 cm.
+- 385 Utrecht. Blick auf einen Park. Ebenso. Bezeichnet: Zeumer fec. 18. Jahrh.
+- Hohe38,Breite 48cm.
+- 386 Amsterdam. Ansicht der Amstel. Ebenso. Bezeichnet:Zeuner fec. 18. Jahrh. Hohe 30,Breite 34,5 cm.
+- 387 Ansicht des Strandes von Nantes. Gleiche Technik. Bezeichnet:Zeuner fec.1786. Hohe 23, Breite 29 cm.
+- 388 Landschaft mit Burg und Figurenstaffage.Ebenso. Bezeichnet:Zeumer fec. 18.Jahrh. Hohe 32,Breite 48,5 cm.
+389 Landschaft nach Teniers.Bezeichnet:Zeuner 1794. Ebenso. Hohe 55,Breite 73cm.
+
+390 Hinterglasmalerei.Arzt,einen Bauer am Auge operierend. In Brouwers Geschmack.Deutsch,18. Jahrh. Hohe 16,Breite 12cm.Geschnitzter Rahmen.
+
+<!-- image -->
+Nr.587.
+
+<!-- image -->
+
+## Bronze.
+
+- 392 Romische Standfigur des Morpheus, nackt,auf dem linken Arme einen Mantel tragend.Patiniert. Hohe 21 cm.
+- 393 Romische Standfigur des Herkules, vollig nackt, in der Rechten die Keule haltend,die Linke vorgestreckt.Patiniert. Hohe 16 cm.
+- 394 Romische. Schmuckhassette mit Deckel,auf vier vollrund modellierten Vogelfiguren ruhend.Die ovale Leibung auf der ganzen Flache graviert mit Frauen bei der Toilette in figurenreicher Komposition. Fuf und Rand von stark vergoldetem Band umzogen, graviert mit Rankenbordire und Maanderfries. Der fache eingebauchte Deckel graviert mit Seepferden und Delphinen. Patiniert. Hohe 25, Lange 31 cm.
+- 395 Romischer Handspiegel, die Rundscheibe graviert mit dem Urteile des Paris in Lorbeerkranzumrahmung, die gekantete Handhabe in einem phantastischen Tierkopfendigend.Patiniert. Lange 26 cm.
+- 396 Mannliche Figur, Osiris,in ruhiger Stellung, den linken Fuf vorgesetzt.In den Handen halt er Schriftrollen. Er ist bekleidet mit der typischen Kopfbedeckung sowie engfaltigem Lendenrock. Grine Patina. Hohe59 cm.
+- 397 Reliquiar in reichem rahmenformigem Aufbau, Messing,graviert und getrieben mit Palmetten und mit aufgelegten Silberappliken verziert. Der Sockel viereckig ausgeschweift, der Rahmen achtfach abgeflacht, mit zahlreichen eingelassenen Reliquien, von gefigelten Engelskopfen und Kreuz uberragt. 17.Jahrh. Hohe 55,Breite 24 cm.
+- 398 Hausaltarchen, vergoldetes Kupfer,in Form einer reich aufgebauten archi tektonischen Saulennische,mit abschliefsendem Rundbogen,Saulenschaft und Sockel sowie die Giebelnische mit eingelassenen Lapislazuliplatten und farbigen Steinen verziert.In der Nische die vollrund modellierte Standfigur der Madonna,auf Halbmond stehend.Auf dem Sockel und dem Rundbogen finf Engelfiguren. Suddeutsche Arbeit.17.Jahrh. Hohe 40,Breite 43 cm.
+- 399 Weihwasserkessel,die Seiten verziert mit reliefierten Engelskopfen, Girlanden, Rosetten,Blattern und Bliten. Der Grund gitterformig gemustert.Drei Reliefmedaillons dienen als niedrige Fifse. Bronze, braune Patina.Italien,15. Jahrh. Hohe 18 cm. Koll.: Galli Dum.
+- 400 Weihwasserbecken,Goldbronze,in Muschelform, die Ruickwand schwarzer Marmor mit aufgesetzter Applike in hohem Relief, trefflich ziseliert mit Huftfigur der Madonna, das Jesuskind auf dem Schofe haltend;neben ihr der kleine Johannes. Gutes Stick. Franzosische Arbeit.17.Jahrh.
+
+<!-- image -->
+
+Hohe 35,Breite 22 cm.
+
+Nr.395.
+
+- 401 Rokoko-Weihwasserbecken,die Rickwand reich durchbrochen ornamentiert und ziseliert mit Madonna, auf Halbmond stehend, umgeben von Muschel-
+
+werk und Palmetten,belebt von Engelsfiguren.
+
+402 Weihwasserbecken.Ahnlich.
+
+Hohe 24 cm.
+
+Gleiche Grofe.
+
+- 403 Ein Paar Altarleuchter in reichem Aufbau. Der Fuf dreiseitig, reich verziert mit Reliefschmuck und drei an den Ecken sitzenden vollrunden Figuren. Der hohe Schaft rund in Etagen eingeteilt, die mit Reliefschmuck oder vollrund modellierten Tierfiguren,Putten oder Figuren verziert.Die obere Abschlufplatte rund,mit Lochern fur Kerzen.In der Mitte auf schaftformigem Sockel eine Kugel, von wappenhaltendem Lowen bekront. Bronze.
+
+Hohe144,5cm.
+- 404 Ein Paar Altarleuchter.Der Fuf dreikantig auf drei Voluten ruhend Fuf und Schaft verziert mit fast vollrund gebildeten Putten und Figuren sowie
+- Renaissanceblattwerk.Italien. Hohe53cm.
+- 405 Golgathagruppe.Niedriger Felssockel mit aus drei Toren fiefendem Lebensquell. Auf ihm erhebt sich das Kreuz (Holz) mit dem Leichnam des Herrn. Rechts steht am Fufe des Kreuzes in bewegter Stellung der hl. Johannes, links die hl. Jungfrau in vollrunden Figuren. Schwarzbraune Patina. 16. Jahrh.
+- Hohe 68 cm.
+- 406 Christuskorper mit ubereinandergeschlagenen Fufen,das schmerzerfuillte Haupt zur Seite geneigt. Vollrund modelliert und vergoldet. Italienisch, 17.Jahrh. Hohe 24 cm.
+- 407 Christuskorper in ahnlicher Ausfuhrung, jedoch in patinierter Bronze. Gleiche Grofse.
+- 408 Kreuzstander, sockelformig, auf vier Lowenklauen ruhend,fankiert von vollrund modellierten Putten,Leidenswerkzeuge in den Handen haltend;die Seitenflachen zieren Ovalmedaillons mit biblischen Szenen, der Kreuzhalter aus Akanthusblattwerk gebildet.18.Jahrh.Vergoldet. Hohe25cm.
+- 409 Madonna mit dem Kinde auf hohem, sechspafformig ausgeschweiftem,mit
+- gotischem Mafswerk durchbrochen ornamentiertem Fufe stehend
+
+Hohe 38cm.
+
+- 410 Madonna in faltenreicher Gewandung,die Hande gefalten. Seitenfigur eines
+- Kruzifixes.Vollrund modelliert und vergoldet. Italienisch.
+
+Hohe 9 cm.Holzsockel.
+
+- 411 St.Johannes. Gegenstick,in ahnlicher Anordnung. Gleiche Grofse.
+- 412 Standfigur des Apostels Matthaus. Das faltenreiche Gewand durch Gurtel eingeschnirt und durch eine Spange, die mit Engelskopf ziseliert, zusammengehalten; in der Linken halt er ein Buch. Vollrund ziselierte Figur. Ver-
+- goldet.16.Jahrh. Hohe 25 cm.Marmorsockel.
+- 413 St. Johannes mit langem,auf die Schulter herabwallendem Haar. Ebenso.
+- Gleiche Grofe.Holzsockel.
+414 St. Lukas mit langem Haar und Bart. Gegenstick.
+
+- 415 St. Johannes in faltenreicher Gewandung und langem Lockenhaar, in der Rechten ein Buch haltend.Vollrund modellierte Figur. Hohe 24 cm.
+- 416 Serie von sechs Engelsfiguren,fast vollrund modelliert,von flatternden Bandschleifen umgurtet, in den Handen die Leidenswerkzeuge tragend. Auf Ebenholzsockeln stehend, mit vorderer eingelassener Lapislazuliplatte und seitlichen mannlichen Karyatiden, in Bronze ziseliert.Italienische Arbeit,17.Jahrh. Hohe 17 cm.
+- 417 Ecce homo.Christus mit umgiirtetem Lendentuche und gefesselten Handen an die Saule gebunden. Der Christuskorper Bronze mit Resten von Versilberung, die Saule Holz geschnitzt.Ende 17. Jahrh. Hohe 23 cm.
+- 418 Salvator mundi.Der auferstandene Christus mit umgirtetem Lendentuche,die Rechte segnend erhoben. Vollrund modellierte Figur. Italienische Arbeit.17.Jahrh.
+
+Nr.396.
+
+<!-- image -->
+
+Hohe 32 cm.Marmorsockel.
+
+- 419 Salvator mundi. Der auferstandene Christus mit umgirtetem Lendentuche,die Rechte erhoben; in der Linken halt er die Siegesfahne. 17.Jahrh.Vergoldet.
+
+Hohe 26 cm. Fragmentiert.
+
+- seitlich gewandt. 17. Jahrh.Vergoldet. Kalvarienbergfigur.
+
+Hohe 20 cm.Holzsockel.
+
+421 Madonna,die Hande gefalten,abwarts blickend. Gegenstick. Ebenso. Gleiche Grofe.
+422 Madonna mit dem Kinde.Auf rundem,mit Rokoko-Ornamentwerk verziertem Sockel steht Madonna in mit Blumenranken ziseliertem Mantel, auf dem rechten Arme das Jesuskind tragend. 18. Jahrh.Vergoldet.
+
+Hohe 20 cm.Marmorsockel.
+
+Nr.398.
+
+<!-- image -->
+
+- 423 Madonna, Standfigur,auf Halbmond in faltenreichem Mantel, die Hande iber die Brust gekreuzt; das Haar falt in langen Strahnen iber die Schultern herab.18.Jahrh. Hohe 14cm.
+- 424 Ignatius von Loyola.Standfigur des Heiligen in der Ordenstracht,an seinem Mantelgurt der Rosenkranz;neben ihm in eilender Stellung ein Putto, ein aufgeschlagenes Buch haltend mit den Worten:ad maiorem Dei gloriam societatis Jesu fundato.Bronze.18.Jahrh. Hohe 61 cm.
+- 425 St. Franzishus, ganze Figur,in Ordenstracht mit Stab.Die Rechte fafst nach dem auf seiner Brust hangenden Kreuze. Neben ihm ein Putto,in den Handen ein Kruzifix haltend. Bronze. Gegenstick zur vorhergehenden Figur.
+
+Nr.403.
+
+<!-- image -->
+
+Hohe 60 cm.
+
+- 426 Mater immaculata.Auf Kugel,die verziert mit den Symbolen der Evangelisten,steht Madonna, aufwarts blickend. Hohe 18 cm.
+- 427 Moses, Ganzfigur,in iberaus faltenreichem Gewande, das bartige Haupt leicht nach unten geneigt.In der Linken halt er die Gesetzestafeln. Dunkelbraune Patina.
+
+Hohe44,5cm.
+
+- 428 Hohepriester im Ornate. Vollrund modellierte Figur. Hohe 46cm.
+- 429 Hangelampe in Form einer nackten mannlichen Figur mit hochgehobenen Beinen,durch die er den Kopf steckt; unter dem Phallus der Dochthalter. Italienische Arbeit mit dunkelgriner Patina. Hohe 12 cm.
+- 430 Romanisches Aquamanile in Form eines vollrund modellierten Lowen mit geoffnetem Rachen, welcher als Ausguf dient, die Mahnen aus kleinen, wulstformig vorspringenden Ringen gebildet; der Schwanz dient als Handhabe. Schwarzbraune Patina. Hohe 23 cm.
+- 431 Aquamanile in Form eines Lowen mit gespreizten Beinen, der Schwanz bildet die Handhabe.Gelbgufs,vergoldet. Hohe 12cm.
+- 432 Aquamanile in Form eines stehenden Lowen. Gelbgufs. Hohe 16,5 cm,
+- 433 Schmuckkasten mit gewolbtem Deckel, auf vier Lowenfufen ruhend, allseitig reich verziert mit figuralen Medaillons und Laubarabesken nach Motiven des 18.Jahrh. Hohe 11,Lange 12,Breite 8 cm.
+- 434 Morser von Donatello.HoheGlockenform,oben runder,breiter,stark relieferter Rand,verziert mit stark geschnittenen Friesbandern mit Blattmusterung,Eier-
+
+stab-,Girlanden-usw. Borduren,zum Teil im Anklang an die Antike. Der Morser selbst zeigt auf Vorder-und Ruckseite ein Rundmedaillon, gebildet aus zwei Fuillhornern,von denen das eine einen stark relieferten Frauenkopf, das andere ein Medusenhaupt zeigt.Ersteres wird vonzweiKentauren gehalten, die auf ihrem Ricken je eine leicht geschurzte Frauengestalt tragen,letzteres von zweiPutten inLandschaftshintergrund.Seitlich zweiHenkelinForm eines aus einem Blatte hervorwachsenden Mas-
+
+Nr.434.
+
+<!-- image -->
+
+karons,vollrund gearbeiteter Faunkopf. Am Henkelansatz,unterhalb des einen Henkels bezeichnet:D→QC,des andern OPVS.Bronze.Dunkelbraune Patina. 15. Jahrh.Vorzigliches Stuck. Hohe 16,Durchm.20 cm.
+
+- 435 Morser, glockenformig, die Wandung verziert mit sechs kammartigen Erhohungen. Dazwischen reliefierte Medaillons mit Brustbildern von Heiligen. Darunter Blumen. Der Rand mit stilisierten Bliten. Bronze. 15. Jahrh. Hohe 12 cm.
+- 436 Morser mit Reliefdekor. Drei von je zwei Lowen gehaltene Wappen: zweigeteilt, Ochse, dariber bourbonische Lilien;mannlicher Kopf nach links. Der Grund mit franzosischen Lilien gemustert. Obere Randbordure und unterer Ring mit Rankenwerk.Unter letzterm die Aufschrift:IOANNE BENTIVOLO SECVDO HANNIBALISFI P.P.ANO SALVTIS 1490.Bronze. Hohe 114 cm.
+- 437 Morser, glockenformig,die Leibung durch Karyatiden in funf Felder geteilt, in denen reliefierte Medaillons mit Figuren oder Profilkopfen.Um dieselben sowie auf dem Randband franzosische Lilien. Frankreich,16. Jahrh.
+
+Hohe 10,5 cm.
+- 438 Morser, glockenformig, verziert mit unterm Bossenkranz und oberm Girlandenkranz, dazwischen Reliefband mit Renaissance-Bandwerk und Figuren. Italien,17.Jahrh. Hohe 10 cm.
+- 439 GroBer italienischer RenaissanceMorser mit zwei seitlichen, aus Putten gebildeten Henkeln,in Akanthusblattwerkverlaufend.Auf der Leibung lebendig komponierte Schlachtenbilder,vonBlattbordiren umrahmt.Unter dem Henkel Aufschrift:Cisrus.Ferrudi.a.Ga.V.I. Ferrucca. Hohe 43cm.
+- 440 Morser,glockenformig,mit Reliefschmuck und niederm Fufe.Die Leibung umziehen fortlaufend Girlanden,darunter Baume,Pfanzen und Tiere in Relief. Der obere Rand mit starken Blattern,unterer Rand mit Reliefrippen.Bronze. Hohe13 cm.
+- 441Kohlenbeckenauf dreihohenFufen. Die zylindrische Leibung verziert mit geatztem Laubwerk und Meerweibchen.Bronze.
+
+Nr.401.
+
+<!-- image -->
+
+Hohe 15,Durchm.21,5 cm.
+
+- 442 Renaissance-Schmuckschale auf hohem,achtfach abgeflachtem Fufe,der durchbrochen ornamentiert mit Lowenfiguren in uppig verschlungenem Laubwerk. Auf demselben auf Kugel sitzender, vollrund ziselierter Lowe, in der rechten Tatze eine Kristallsaule haltend,welche als Trager der runden,reich durchbrochen ornamentierten Schale dient. Italienisch. Hohe 25cm.
+- 443 Schmuchschale, drei spielende nackte Puttenfiguren,deren eine in den erhobenen Handen eine Muschel halt. Italienische Arbeit. Patiniert.
+
+Hohe 20 cm. Marmorsockel.
+
+- 444 Gedeckelte Terrine (Spanischsuppe-Schussel) mit reichem Reliefdekor.Den niedrigen zylindrischen Leib umzieht fortlaufend eine Landschaft, in der tanzende Bauernpaare und Musikanten.Der Deckel mit vier kreuzformig angeordneten erhohten Feldern,darin Darstellungen der vier Jahreszeiten:
+Landschaften mit reichen Figurenstaffagen, die Arbeiten und Vergnugen der betreffenden Zeit ausfuhren. Zwischen den Feldern Rankenwerk. Knopf in Form eines Tannenzapfens. Glockenspeise.Fifli.
+
+Hohe22,Durchm.22,5cm.
+
+Nr.416.
+
+<!-- image -->
+
+- 445 Astronomische Standuhr in versilberter und teils vergoldeter Bronze.Von weit ausladender Plinthe, welche von einem Relieffries mit einer Darstellung des Triumphes der edlen sieghaften Weiber nach Beham umzogen ist, erhebt sich der langliche vierkantige Mittelbau,an den Ecken von reichen,mit Ornamentwerk und Maskarons ziselierten Saulen fankiert.Vorder- und Rickseite zeigen mehrere gravierte Scheiben und Zifferblatter. Die freibleibenden Flachen decken reliefierte mythologische und allegorische Figuren. Auf den Seitenfachen befinden sich gleichfalls Zifferblatter und mehrzeilige Aufschrift.Die kugelformige Bedachung durchbrochen ornamentiert mit lebendig komponierter Jagddarstellung.Als Bekronung des Ganzen auf Kugel stehendes Statuettchen der Fortuna.Am Sockel die Signatur: Jermias Metzker, Ourmacher in Augspurg
+1564. Hohe 31 cm.
+- 446 Runde Taschenuhr mit Schlagwerk.Das Zifferblatt ziseliert mit Ornamentrosette und doppelter Reihe von Ziffern,die romischen von 1-12,die arabischen von 1-24. Das Gehause in abgeflachter Kugelform,reich durchbrochen ornamentiert und graviert mit Palmetten, Galerieverzierung und Bandelwerk.Die Innenseite des Deckels punziert mit: Steph.D. UB.PL. Werberez.A.D.1511.Auf der Aufsenseite in gotischer Schrift:Egidins Ungarus.Fecit Gudae. Auf der Rickseite:Joan Orzag de Groth A.S. 1502.
+- Interessantes Stick. Durchm.6 cm.
+- 447 Romanischer Leuchter. Auf vollrund modelliertem Lowen reitet eine Figur
+- in eng anschliefsendem Talare,in der erhobenen Rechten die Leuchtertille haltend; mit der Linken greift sie in die Mahne. Braune Patina.
+
+Hohe 32 cm.
+
+Nr.432.
+
+<!-- image -->
+
+- 448 Tirklopfer,Rotkupfer,vergoldet.Weibliche nackte Figur (Medusa) wird umrahmt von zwei vollrund ziselierten, kampfenden Drachen. Prachtstick.
+- Meisterhafte italienische Arbeit des 15.Jahrh. Hohe 41,Breite 27cm.
+- 449 Ein Paar Renaissance-Tirklopfer.Auf mit Blumengehange verziertem Kartuschenschilde steht ein Lowe, von einem Baren angefallen. Italienisch.
+- Hohe 35,Breite 25 cm.
+- 450 Tirklopfer,ringformig. Auf unterem Blattwerk stehen zwei Putten. Dieselben halten ein Wappen. Der obere Abschluf Blattwerk. Bronze. Braun patiniert.Italien,17.Jahrh. Hohe31,5cm.
+- 451 Renaissance-Turklopfer,aus zwei weiblichen Karyatiden gebildet, durchsetzt von geflugeltem Engelskopf.Italienisch. Hohe 8,Breite 12 cm.
+- 452 Schreibgarnitur, bestehend aus Federkocher,Tinten- und Sandfaf.Der Federkocher in Form eines ausgehohlten Baumstammes,um den sich die Hydra windet,welche von dem nebenstehenden Herkules gewirgt wird. Das Ganze ruht auf einem achtfach abgeflachten,mit Delphinkopfen verzierten Sockel. Das Tintenfaf in Form eines runden geflochtenen Korbes,mit Blumengehangen verziert, die von Putten gehalten;als Deckelknopf dient ein vollrund modellierter Delphin Das Sandfafs entsprechend dem Tintenfaf ornamentiert.Der Deckel siebformig durchbrochen. Vorzigliche italienische Arbeit mit schoner,dunkler Patina. Hohe21,12und 6cm.
+- 45s Tintenfaf in Form einer von zwei vollrund modellierten Mannern getragenen Kugel,auf der die Figur der Hoffnung steht. Hohe 33,8cm.
+- 454 Neptun, ollrunde Standfigur des Gottes,unbekleidet,in schreitender Stellung. In seiner Linken halt er den langen Dreizack.Das Haupt bartig,mit Lorbeerkranz geschmickt. Bronze. Auf viereckigem,hohem Steinsockel.
+
+Nr.436.
+
+<!-- image -->
+
+Hohe 30 cm.
+- 455 Jardiniere,viereckig,mit seitlichen halbrunden Ansatzen, die Ecken in Form von vier gleichzeitig als Fufe dienenden Kochern mit Pfeilen. Die niedrigen Seitenwande durchbrochen in Form von girlandenwindenden Putten.Mit Einsatz.Anfang 19.Jahrh. Hohe 11,Breite 47,Tiefe 32 cm.
+- 456 Ein Paar Deckelvasen, fast zylindrisch,verziert mit stark reliefierten Puttengruppen. Die Henkel in Form von Faunmasken. Der Deckel reliefiert mit Blattrosetten in Bandmedaillons.Als Bekronung vollrunder sitzender Putto. Der Fuf profiliertes Holz mit unterm Metallring. Goldbronze. Bezeichnet: Thomire a Paris. Hohe 35cm.
+- 457 Zwei Wandarmleuchter,profilierte schaftartige Wandplatte mit ausladendem Schnorkelarm, daranhangend ein kleiner Kronleuchter mit reichproflierten
+- Mittelbalken und vier Armen aus Schnorkelwerk. Gelbgufs.Hohe 39 cm.
+- 458 RauchergefaB,auf drei Lowenklauen ruhend, die nach der Leibung zu in vollrunde Lowenkopfe auslaufen; als Deckelknopf vollrund ziselierte Putte mit Lowe. Hohe 15 cm.
+- 459 Raucherschale,halbkugelig, am Rande eingeschnirt, der Leib mit Bossen verziert und von drei sitzenden Lowenfiguren getragen. Italienisch. Dunkel-
+- braune Patina. Hohe 9 cm.
+- 460 GefaB in Form einer Kugel, die von der vollrund modellierten Figur des Neptun getragen und von einem schlangetotenden Adler gekront ist. Hohe 21,3 cm.
+- 461 Tischgloche, der Mantel iberaus reich verziert mit Arabesken und figuralem Rankenwerk,von Puttenfiguren belebt. Auf Kartuschenschildchen die Aufschrift:
+- Bastanzetti Udine. Hohe 15 cm.
+- 462 Tischglocke, der Mantel mit kleinen Medaillons verziert, in denen Heiligen-
+- figuren.17.Jahrh. Hohe 9 cm.
+- 463 Tischglocke in Form einer mannlichen Groteskfigur in Weiberrock,der
+- bewegliche Kopf mit Spitz- und Knebelbart, farbig emailliert.
+
+Hohe 12 cm.
+
+- 464 Tischglocke, der Mantel verziert mit Kartuschenschildchen und Maskenkopfen, die Handhabe bildet eine Christusstatuette. Hohe 12cm.
+- 465 Uhrgehause, Goldbronze,reich ornamentiert. Auf einem vollrund ziselierten Elefanten ruht der sockelformige Kasten, dessen Wande verziert mit aufgelegtem verschlungenem Renaissance-Rankenwerk. Auf demselben, von Galerie umgeben, vier Nashorner und mittlere kuppelformige Verzierung mit abschliefendem Hahn. Hohe 48cm.
+- 466 Pflanzenkibel, die Leibung leicht ausgebaucht und ringsum mit hochreliefiert herausgearbeitetem figirlichem Schmuck in fortlaufendem Landschaftsgrunde verziert.Grin patiniert. Hohe 31,3,Durchm.33 cm.
+- 467 Der Friede.Allegorische weibliche Figur in faltenreichem Gewande, welches sie mit der Rechten aufschirzt; in der Linken halt sie eine Fackel, welche sie an den am Boden liegenden Ristteilen loscht. Auf dem Rundsockel die Aufschrift: Jacobus Sansovinus, Florentinus. Prachtig modellierte Figur; schwarze Patina.Modell von Sansovino. Hohe 69 cm.
+- 468 Merkur mit gefigelten Sandalen und Helm, die Linke erhoben, den rechten Fufs auf den abgeschlagenen Arguskopf stutzend. Gegenstick.Ebenso. Gleiche Grofe.
+
+Nr.439.
+
+<!-- image -->
+469 Athene in voller Ristung, in der Rechten einen Stab, in der Linken einen mit dem Gorgonenhaupte verzierten Schild haltend.Gegenstick.Ebenso. Gleiche Grofse.
+
+470 Apollo mit iber die Schultern geworfenem Mantel, in der Rechten halt er ein Bund Pfeile.Gegenstick.Ebenso. Gleiche Grofse.
+
+Nr.445.
+
+<!-- image -->
+
+- 471Atalanteund Amor,vollrund modelliert,in schreitender Stellung. Die Linke ruht auf dem Haupte des neben ihr gehenden Amorknaben. Italien. Schwarzbraun patiniert. Modellvon Bartolomeo Ammannati. Hohe 55cm.
+- 472 Meleager mit Hund und Lanze, vollrund modelliert. Italien. Schwarzbraune Patina. Gegenstick zu Vorigem.
+
+Hohe 53 cm.
+
+- 473Venus, stehend,in ganzer Figur, vollrund gebildet. Sie tragt ein zartes Gewand, das die Formen des Korpers durchblicken und die linke Brust freilaft.Die Rechte halt iber der Schulter die Enden des Gewandes fest. Die Linke ist erklarend vorgestreckt. Bronze, braun patiniert. Hohe 50cm.
+
+Niedriger Marmorsockel.
+
+- 474 GroBer Lowe,sitzend,die linke Vordertatze auf eine Kugel gestellt.Der Kopf mit weit geoffnetem Rachen und stark reliefierter Mahne ist zur rechten Seite gewendet. Bronze.Gelbgufs. Hohe 48,5cm.
+
+475 GroBer Lowe, fast ebenso.
+
+Gleiche GroBe.
+
+476 Faun, den Zimbal spielend,vollig nackt. Vollrund modellierte Figur. Hohe 48cm.
+- 477 Mars, Standfgur, fast nackt, mit ubergeworfenem kleinem Mantel, das Haupt bedeckt mit Helm; die Rechte stitzt er auf einen'mit Gorgonenhaupt verzierten Schild. Gute,vollrund modellierte italienische Figur,schwarz patiniert. Hohe 47cm.
+- 478 Hebe in faltenreicher Gewandung,in der Rechten die Schenkkanne haltend, das Haar hoch aufgebunden. Schone,vollrund modellierte Figur mit dunkelgriner Patina.Italienisch. Hohe 46cm.
+- 479 Venus,dem Bade entstiegen,
+- vollig nackt,in den Handen einen Mantel und Krebshaltend; den linken Fuf stitzt sie auf einen Delphin.Trefflich vollrund modellierte Figur.Italienisch. Hohe 47cm.
+- 480Herkules totetdenKakus.Vollrund modellierte Gruppe. Herkuies in wild bewegter Stellung sucht den Hirten iber seinen Kopf hinweg zu schleudern, indem er ihn am linken Fufund am Girtel fafst.Kakus halt sich an einem Felsstick sowie an dem am Boden liegenden Lowenfell.Niedere Fufplatte. Bronze. Hohe42,0cm.
+- 481 Merkur in eilender Stellung,auf einen von Puttenkopf ausgestofsenen Windhauche stehend, vollig nackt,in der Linken den
+
+Nr.446.
+
+<!-- image -->
+
+Caduceus haltend. Vollrund modellierte Figur mit schoner dunkelgriner Patina. Italienisch. Hohe 46 cm.Runder Marmorsockel.
+
+- 482 Terpsichore in tanzender Stellung, das Gewand mit malerischem Faltenwurf, den Busen entblofst,das Haar mit Blumen geschmickt.Vollrund modellierte
+- Figur.Italienische Arbeit mit schoner schwarzer Patina. Hohe 43 cm.
+- 483 Mars in voller Ristung,in der Linken den Schild zur Abwehr haltend; in der
+- Rechten halt er das Schwert.Vollrund modellierte Figur.
+
+Hohe 40 cm.Hoher gelber Marmorsockel.
+
+5
+- 484 Sterbende Amazone.Vollrund modellierter springender Hengst, auf seinem Ricken sitzend die Figur einer Amazone, deren Korper sich sterbend zur Seite neigt; in ihrer Linken halt sie noch den Schild. Treffliches Stick. Griine Patina. Hohe 25 cm. Steinsockel.
+- 485 Herkules im Kampfe mit Nessus. Herkules in ganzer Figur,unbekleidet dargestellt.Er fafst den Kentauren am Hinterkopf und am Nacken und drickt ihn zu Boden.Das Stierfell bedeckt einen Teil des breiten Rickens des Kentauren.Die beiden Haupter von langem Bart umrahmt und kurzen Locken, das Haar des Herkules von einer Binde zusammengehalten.Trefflich modellierte und bis in die Einzelheiten fein durchgefihrte Gruppe.Bronze.Italien. Hohe 39 cm. Holzuntersatz in Gesteinform.
+- 486 Der Sommer. Niedriger Felsblock. Auf ihm sitzt die trefflich vollrund modellierte Figur eines Putto.Er ist nur mit einem losen Tuchebekleidet.DerKopf mit kurzem Lockenhaar blickt leicht abwarts.In seiner Rechten halt er Bundel Ahren zur Charakterisierung des Sommers. Bronze. Frankreich.
+
+<!-- image -->
+
+Hohe38,5cm.
+
+- 487 Der Herbst. Ahnliche Puttofigur, in der Hand Trauben haltend. Bronze. Frankreich.Gegenstick zum Vorhergehenden. Gleiche Grofe.
+- 488 Peter Vischer.Vollrund modellierte Figur des bartigen Meisters in derArbeitstracht mit der Lederschurze und der einfachen Kappe;in seiner Linken halt er den Meifel,in der Rechten den Hammer. Das linke Bein ist leicht vorgestellt. Runde Fufplatte. Abguf in Bronze des Selbstbildnisses Vischers am Sebaldusgrab zu Nurnberg. Sehr schones, seltenes und best erhaltenes Stuck.16. Jahrh.Bronze patiniert. Hohe 38 cm.
+- 489 Putte,auf Muschel stehend, in der Rechten halt sie eine Kugel.Vollrund modellierteFigurnach derStatuette vom Taufbrunnen zu Siena von Donatello. Hohe 39 cm.
+- 490 Diana, Standfgur, leicht geschurzt, das Haar mit Diadem geschmickt； zu ihren Fufen der Hund. Gut modellierte Figur mit schoner Patina. Italienisch. Hohe38cm.
+- 491 Lukretia, vollig unbekleidet auf ihrem Ruhebett liegend.Das Haupt ist sterbend hinteniber geneigt.Die Linke bedeckt die Wunde,in der Rechten halt sie den Dolch. Niedriger viereckiger Sockel in rotlichem und weifem Marmor.Italien. Lange 36 cm.
+- 492 Ceres, vollig nackt, das Haar mit Bandschleife gebunden;in den Handen halt sie Ahrengarben. Italienischer Bronzevollgufs mit schwarzer Patina.
+
+Hohe 35cm.
+
+Nr.455.
+
+<!-- image -->
+
+- 493 Der Christusknabe,vollrund,naturalistisch modelliert, stehend dargestellt. Der linke Fuf ruht auf der Weltkugel, die rechte Hand ist in Schulterhohe erhoben. Das Haupt mit kurzen, fockigen Locken nach links gewendet. Der linke Arm ein wenig gehoben. Bronze,vergoldet.Italien,16. Jahrh.
+- Hohe der Figur 34 cm.Hoher Rundsockel aus zweierlei Marmor.
+- 494 Antonius, Standfigur,nackt, die Rechte in die Hifte gestitzt,an einen Baum-
+- stamm gelehnt; iber die Schulter hangt ein Mantel. Vollrund modellierte Figur. Italienisch,mit schoner schwarzer Patina. Hohe30 cm.
+- 495 Flora,vollig nackt,in der erhobenen Rechten halt sie ein Fullhorn;um ihren Korper windet sich eine Blumengirlande. Vollrund modellierte Figur mit schwarzer Patina.Italienisch. Hohe 34 cm.Marmorsockel.
+- 496 Bajadere,vollig nackt,in anmutiger Stellung,die Rechte an den Kopf gelehnt; in der Linken halt sie ein Tamburin. Italienisch, vollrund modelliert und mit brauner Patina. Hohe 32cm.
+- 497 Portratbiste.Bildnis eines griechischen Gelehrten mit kurzem Bart.Das Gesicht mit starken natirlichen Furchen und Falten charakteristisch durchgebildet. Das lange Haar in aufserst stark reliefierter Wellenform wiedergegeben. Bronze, vergoldet,auf niederm Sockelfuf in gesprenkeltem Marmor. Italien,16.Jahrh.,nach der Antike. Hohe 32 cm.
+- 498 Venus,dem Bade entsteigend,sich mit einem Tuche frottierend;den rechten Fufs stitzt sie auf einen Schemel.Italienische Arbeit,vollrund modelliert und mit schoner heller Patina. Hohe 32cm.
+- 499 Jupiter,vollig nackt,in der Rechten die Blitze haltend. Den rechten Fufs stitzt er auf einen Adler.Trefflich vollrund modellierte Figur,italienisch,
+- mit dunkelbrauner Patina. Hohe 31 cm.
+- 500 Pallas Athene,vollrund modelliert,in faltenreichem Gewande,mit der Linken den Mantel hebend,mit der Rechten zum Wurf ausholend. Braun patiniert.
+- Hohe 31,9 cm.
+- 501 Trajan. Standfigur des Kaisers in reich verziertem Harnisch und ibergeworfenem Mantel, die Rechte erhoben; in der Linken halt er den Stab. Vollrund modellierte Figur mit schoner dunkelgruner Patina. Hohe31cm.
+- 502 Orientale in langem,mit Blattwerk verziertem Mantel und hohem Turban; die Hande iber die Brust verschrankt. Um den Hals tragt er an Kette ein Kartuschenschild. Auf wirfelformigem,mit Maskarons verziertem Sockel stehend.17.Jahrh.Vergoldet. Hohe 31 cm.
+- 503 Orientale in ahnlicher Ausfuhrung.
+
+Gleiche Grofe.
+
+- 504 Weibliche allegorische Standfigurin weitem mit Palmetten graviertem Mantel; Auf wirfelformigem,
+
+Hohe 33 cm.
+
+- in ihren Handen halt sie einen Pelikan mit Jungem. mit Engelskopf ziseliertem Sockel.Franzosisch,17.Jahrh.Vergoldet.
+- 505 Weibliche Figur.Ebenso.
+
+Gleiche Grofe.
+
+- 506,Giorno.Der Tag des Michel Angelo.Auf einer Unterlage,aus Wolken gebildet,liegt,halb auf seinem Manteltuch,ein machtiger,unbekleideter,alterer Der Oberkorper,als dessen Stuitze der linke Arm dient,ist in seinem obern Teile erhoben und nach links gedreht, so daf der muskulose Rucken dem Beschauer zugewendet ist. Uber die rechte Schulter hin blickt das trotzige Auge auf den Beschauer. Das Haupt von starken kurzen Locken sowie von lang herabwallendem Barte umrahmt.Vorzugliche Reproduktion in Bronze
+- Mann. Der rechte Fuf ist leicht uber den Oberschenkel des linken gelegt. Italien. Hohe 15,3,Lange 33,5 cm.Eine Zehe fehlt.
+
+Abgeb.:Steinmann,Das Geheimnis der Medicigraber Michel Angelos.Lpg. 1907,Taf.13.
+- 507 Merkur, vollig nackt, in eilender Stellung. Vollrund modelliert.
+
+Hohe 26 cm.
+
+- 508 Trajan. Standfigur des Kaisers in Harnisch; das Haupt mit Lorbeerkranz geschmuickt, in der erhobenen Rechten den Stab haltend. Vollrund modellierte Figur. Hohe 25 cm.Marmorsockel.
+
+Nr.487.
+
+<!-- image -->
+
+Nr.486.
+
+- 509 Kentaur in schreitender Stellung;iber seine Schulter hangt ein Lowenfell, mit dessen Schweif seine Hande auf dem Rucken zusammengebunden sind. Trefflich vollrund modellierte Figur,braun patiniert. Nachbildung des Kentauren im Kapitolinischen Museum.Italienisch. Hohe 29 cm.
+- 510 Kentaur,ahnlich,in der Linken eine Keule haltend. Gegenstick zum Vorher-
+- gehenden. Hohe 33,5cm.
+- 511 Portratbiiste.Leonardo da Vinci.Das Haupt mit lang herabwallendem Bartebedeckt eine niedrige Mitze. Bronze. Dunkelgrine Patina. Hohe 26 cm.Hoher Holzsockel.
+- 512 Lowe in schreitender Stellung,naturalistisch trefflich modelliert, die Mahne sowie die langere Behaarung an Schweif und Haaren in sehr starkem Relief
+- wiedergegeben.Das Maul leicht geoffnet.
+- 513 Lowe,fast gleich gebildet.Gegenstick.
+
+Hohe 27,Lange 46 cm.Holzsockel.
+
+Gleiche Grofe.
+
+- 514 Neptun, Standfigur mit ibergeworfenem Mantel, die Rechte erhoben;zu seinen Fifsen Seepferd. Vollrund in Bronze modelliert und vergoldet. 17. Jahrh.
+- Hohe 25 cm.
+- 515 Chronos, Standfigur mit kahlem Haupte und langem Barte, den Mantel auf-
+- raffend. Gegenstick.Ebenso. Gleiche Grofse.
+- 516 Standfigur eines franzosischen Feldherrn in Stulpstiefeln, reich gestickter Uniform und Scharpe;in der erhobenen Linken halt er den Degen, am Boden
+- der mit Federn verzierte Hut.18.Jahrh.Vergoldet.
+
+Hohe 24 cm.Marmorsockel.
+
+- 517 Springender Hengst, treflich vollrund modelliert,mit reich verziertem Zaumzeug und Satteldecke. Die Vorderfuife zum Sprunge erhoben. Braune
+- Patina.Italien. Hohe 26,3cm.
+- 518 Fortuna,auf Kugel stehend,in fatterndem Gewande;in der erhobenen Rechten halt sie Blumen, in der Linken ein Fullhorn. Vollrund modellierte Figur, italienisch, mit griner Patina. Hohe 24 cm.Marmorsockel.
+- 519 Mars in voller Rustung,in der erhobenen Linken den Schild, in der Rechten das Schwert haltend. Gute,vollrund modellierte Figur.Italienische Arbeit mit schwarzer Patina. Hohe 25 cm.Holzsockel.
+- 520 Merkur, den Leichnam des erschlagenen Patroklus nach sich ziehend. Ersterer, vollig nackt, schleift den an den Handen gefesselten Patroklus mit den Beinen am Boden daher.Vollrund modellierte italienische Arbeit mit schoner brauner Patina. Hohe 24 cm.Marmorsockel.
+- 521 Satyr,nackt,mit lachelndem Gesichtsausdrucke, Zimbel schlagend. Vollrund modellierte italienische Arbeit mit brauner Patina. Hohe 24 cm.
+- 522 Satyr mit trunkenem Gesichtsausdrucke,in der erhobenen Linken einen Pokal haltend.Vollrund modellierte Figur,italienisch,mit schwarzer Patina. Hohe 23cm,
+- 523 Italienische Bronzegruppe. Trunkener Bacchus,vollig nackt, das Haupt mit Reben bekranzt, auf Esel reitend; neben ihm schreitender Silen, ihn mit beiden Handen stitzend. Vollrund modellierte Gruppe mit schoner Patina. Hohe 25 cm.Marmorsockel.
+- 524 Ein Paar heraldische Lowen,auf den Hinterbeinen stehend. Vollrund modellierte Figuren.Italienische Arbeit des 17. Jahrh. Hohe 22 cm.
+- 525 Schildknappe in voller Rustung,iber die Schulter eine Lanze tragend. Hohe 22 cm.
+- 526 Marsbiste.  Das bartige Haupt,von reliefiertem Helm bedeckt, ist nach links gewendet.Grine Patina. Hohe 21,5 cm.Hoher Holzsockel.
+- 527 Standfigur eines romischen Kriegers in Harnisch,in der Rechten das Signum
+- haltend. Hohe 20 cm.Slg.Cavalletti.
+- 528 Pan, die Flote blasend, vollrund.Gruin patiniert. Als Sockel kannelierte
+- Saule in Gelb. Hohe 21 cm.
+- 529 Mars, mit der Rechten das Schwert ziehend, vollrund modelliert. Braune Patina. Hohe 20cm.
+- 530 Satyr in schreitender Stellung, den Kopf erhoben; in den Handen halt er einen abgeschnittenen Schweif. Italienische Arbeit, vollrund modelliert. Hohe 20 cm.
+- 531 Venus, ins Bad steigend, fast nackt, mit beiden Handen sich ihres Gewandes entledigend. Italienisch, vollrund modelliert und mit schwarzer Patina. Hohe 21 cm.
+- 532 Minerva mit Helm und malerisch drapiertem Mantel,die Rechte auf den mit Gorgonenhaupt verzierten Schild gestitzt. Vollrund modellierte Figur mit schwarzer Patina.Italienisch. Hohe22cm.
+- 533 Antinoos,vollig nackt, an einen Baumstamm gelehnt, die Rechte in die Hufte gestemmt; iber die Schulter hangt ein Mantel. Vollrund modellierte Figur, italienisch,mit schoner Patina. Hohe 21 cm.
+- 534 Lowe mit gewaltiger Mahne und geoffnetem Rachen, in schreitender Stellung. Treffliche,in Bronze vollrund modellierte Figur,mit schoner dunkler Patina. 18.Jahrh. Hohe 15,Lange 22 cm.
+- 535 Herkules, den nemeischen Lowen bezwingend. Derselbe kniet auf dem Lowen, ihm den Rachen aufreifend. Trefflich vollrund modellierte Gruppe mit dunkelbrauner Patina.Italienisch. Hohe 19 cm.
+- 536 Kentaur in schreitender Stellung, die Rechte erhoben；in der Linken halt er die Keule und ein Pantherfell. Vollrund modellierte Figur,italienische Arbeit mit dunkelbrauner Patina.Nachbildung des Kentauren im Kapitolinischen Museum in Rom. Hohe 18 cm.Holzsockel.
+- 537 Kentaur in schreitender Stellung, die Hande auf dem Ricken gefesselt. Gegenstick zu 536. Hohe 16 cm.
+- 538 Standfigur eines Pagen in eng anschliefendem Wams, in der Rechten ein Schwert haltend.Vollrund in Bronze modelliert. Franzosisch.15. Jahrh. Hohe 17 cm. Holzsockel.
+- 539 Neptun mit langem Haar und Bart, die Linke erhoben, den rechten Fufs auf ein Seepferd gestitzt.17.Jahrh.Vergoldet. Hohe 16 cm.
+- 540 Weibliche allegorische Figurin Panzerhemdund reich mit Blattwerkverziertem Mantel. Messingguf. 18.Jahrh. Hohe 16 cmHolzsockel.
+- 541 Figur. Ebenso.
+
+Gleiche Grofe.
+
+- 542 Agyptische Katze, auf den Hinterbeinen sitzend. Die Augen aus Glasfluf gebildet.Patiniert.Ausgrabung. Hohe 16 cm.Marmorsockel.
+- 543 Neptun,vollrund modelliert,eine Muschel tragend. Hohe 19 cm.
+- 544Ein Paar urnenformige Rokokovasen in Goldbronze. Hohe 16 cm.
+- 545 Herhules,den nemeischen Lowen bezwingend.Herkules,stehend,reift dem Lowen den Rachen auf.Vollrund. Italien.
+
+Hohe 16 cm.Schwarzbraune Patina.
+
+- 546 Romulus und Remus, von der Wolfin gesaugt. In gespreizter Stellung steht die Wolfin,an deren Euter sich die beiden Knaben stillen.Vollrund modellierte
+- Gruppe mit brauner Patina.Italienisch.16. Jahrh.
+
+Hohe 16 cm.Marmorsockel.
+- 547 Putto mit Muschel.Vollrund modelliert,auf einer Erderhohung sitzend.Der linke Fuf ruht auf einer Muschel. Eine weitere halt er mit beiden Handen fest.Der Korper ist nach rechts gewendet, der Kopf mit stark reliefiertem Haar leicht vorniber zur Muschel gewendet. Braune Patina. Frankreich. 18.Jahrh. Hohe 18.6 cm.
+- 548 Atlas,vollrund modelliert. Schwarz patiniert. Auf dem Nacken tragt er
+- die Weltkugel aus Marmor. Hohe15,5cm.
+- 549 Biste der Diana, das aufgebundene Haar mit Bandschleife durchflochten, den Busen halb entbloft. Italienische Arbeit,braun patiniert.
+
+Hohe 14 cm.Geschnitzter Holzsockel.
+
+- 550 Merkur in eilender Stellung. Vollrunde Figur, braune Patina. Hohe 13,5 cm.Holzsockel.
+- 551 Kopf des Morpheus mit langem,lockigem Haar und seitlichem grofsem Fluigel.
+
+Hohe 14 cm. Holzsockel.
+
+- Romisch,vollrund modelliert und mit gruner Edelpatina.
+- 552 Kopf eines altern Mannes mit grofer Glatze und faltenreichem Gesichte.
+- Grun-braun patiniert. Hohe 14,5cm.
+- 553 Vier Figuren, vollrund modelliert:Die vier Jahreszeiten, auf versilberten Kugeln stehend,in den Handen die Attribute:Blumenkorb,Kornahren,Trauben und Feuerurne haltend. Den Winter bildet eine mannliche Figur mit langem Barte; die ibrigen Jahreszeiten durch weibliche Figuren dargestellt mit leicht geschirzter,fatternder Gewandung.Empire,vergoldet.
+
+Hohe 14 cm.Granitsockel.
+
+- 554 Doppelbiiste zweier Liebenden. Jugendlicher Romer,ein junges, blumenbe-
+- kranztes Madchen kissend. Hohe 14 cm.Marmorsockel.
+- 555 Venus, vollig nackt, das linke Knie beugend, die Arme vor die Brust haltend; das Haar fallt in langen Locken iber die Schulter herab. Franzosische Arbeit
+- des 17.Jahrh. Hohe 14 cm.Holzsockel.
+- 556 Najade, volig nackt, in tauchender Stellung, einen Delphin umklammernd. Italienisch. 18.Jahrh. Hohe 12 cm.
+- 557 Schildknappe. Unbekleidete mannliche Figur,mit der Linken einen Schild haltend. Hohe 12cm.
+- 561 Chronos. Bartiger Alter,nackt, in der erhobenen Rechten eine Sanduhr haltend.17.Jahrh. Hohe 12 cm.
+- 562 Stier, nach links schreitend, vollrund modelliert.
+
+558 Schildtrager,ahnlich.
+
+Hohe 11,5 cm.
+
+- 559 Biste Dantes,vollrund modelliert.
+
+Hohe 12 cm.
+
+- 560 Kleiner Satyr mit Traube und Becher,vollrund modelliert. Hohe 12 cm.
+
+Nr.512.
+
+<!-- image -->
+
+Hohe 11 cm.
+
+- 563 Biste des Kaisers Nero in Harnisch und ubergeworfenem Mantel, das Haar mit Lorbeerkranz geschmuckt. Fein modellierte Buste,vergoldet.Italienisch. Hohe 11 cm.Holzsockel.
+- 564Biiste des Kaisers Domitian in gleicher Ausfihrung.
+
+Gleiche Grofe.
+
+- 565 Der Sommer,allegorische weibliche Figur, das faltenreiche Gewand durch Gurtel zusammengeschnurt.Das Haar zu einem Schopfe gebunden;in der Rechten halt sie Ahrenbundel. Italienisch.Vergoldet. Hohe11 cm.Lapislazulisockel.
+- 566 Lowe, ein Pferd zerreifSend. Uber dem auf den Hinterbeinen zusammen-
+- gebrochenen Pferde schlagt der Lowe seine Pranken, mit den Zahnen die Weiche zerreifend. Vollrund modellierte Gruppe mit schoner dunkelbrauner Patina.Italienisch. Hohe 13 cm.Marmorsockel.
+- 567 Lowe, ein Pferd zerfeischend. Auf dem zu Boden geworfenen Pferde steht der Lowe, seine Pranken in die Weichen schlagend. Schone, vollrund modellierte Gruppe mit dunkelbrauner Patina.Italienisch.
+
+Hohe 12 cm.Marmorsockel.
+
+- 568 Venus, dem Bade entstiegen,vollig nackt,auf dem rechten Beine stehend, sich an dem emporgehobenen linken Fufe die Sandalen bindend.Vollrund modellierte Figur.Romisch,mit griner Patina.
+
+Hohe 14 cm.Marmorsockel.
+
+- 569 Sokrates, stehend,in ganzer Figur. Vollrund modelliert. Braune Patina.
+- Hohe 12,5 cm.Sockelsaule in Gelbguf.
+- 570 Herkules, vollig nackt,mit langem Haar und Bart, in der Linken halt er
+- einen Apfel. Romischer Vollguf,patiniert. Hohe 12 cm.
+- 571 Bacchusbiiste, der jugendliche Gott hat das Haar mit Weinlaub bekranzt, iber
+- die Schulter einen Mantel drapiert. Italienische Arbeit mit schoner brauner Patina. Hohe 12 cm.Holzsockel.
+- 572 Mannliche Biste mit weit offenstehendem Wams, das Haupt mit Pelzmitze
+- bedeckt.Italienisch.17. Jahrh. Hohe 11 cm. Holzsockel.
+- 573 Biste in ahnlicher Ausfuhrung.
+
+Gleiche Grofe.
+
+- 574 Profilbiste eines romischen Fechters, nackt,mit langem lockigem Haar
+- Vollrund modelliert und mit schoner Patina. Italienisch. Hohe 10 cm.
+- 575 Reiterfigur Marc-Aurels. Nachbildung nach dem Monumente auf dem Kapitol.
+- Vollgufs mit griner Patina. Hohe 9 cm Marmorsockel.
+- 576 Fechter in kampfender Stellung. vollig nackt, den Kopf mit Lorbeerkranz geschmickt. Romisch,mit dunkler Patina. Hohe 9 cm.
+- 577 Minerva mit Schild und Helm, zu ihren Fifen eine Eule. Vollrund model lierte Figur.Vergoldet. Hohe 9 cm.
+- 578 Hebe, leicht geschirzt, die Rechte erhoben, vollrund modellierte Figur.Vergoldet. Hohe 9 cm.Auf Marmorsiule.
+- 579 Paris, an einen Stab gelehnt; in der Rechten halt er den Apfel. Gegenstick. Ebenso. Gleiche Grofe.
+- 580 Ein Paar weibliche allegorische Figuren,leicht geschirzt, in liegender Stellung. 17. Jahrh. Vergoldet. Hohe 9 cm.Holzsockel.
+- 581 Kopf einer Putte,vollrund modelliert.
+- 582 Venus,vollig nackt, an einen Delphin gelehnt.
+- 583 Herkules im Kampfe mit Kentauren.
+
+Hohe 8 cm.
+
+- Vergoldet. Hohe 8 cm. Marmorsockel.
+- Bronze. Braun patiniert. Hohe 6,7,Breite 12 cm.
+- 584 Romischer Krieger,nackt,in kampfender Stellung.Vollrund modelliert. Hohe5cm.
+- 585 Biste eines griechischen Philosophen mit kahlem Haupte und markantem Gesichtsausdrucke. Italienisch,16. Jahrh. Hohe5cm.
+- 586 Pallas Athene. Standfgur in goldnem Panzer, dariber ein langer Mantel; in der Linken halt sie den Schild, in der Rechten die Lanze. Schild und Helm reich mit Reliefschmuck, die Lanze goldtauschiert.Bronze mit Ver-
+- goldung und teilweiser Bemalung.Viereckige Marmorplatte. Hohe 94 cm.
+- 587 Bronzerelief: Stiftung des Franziskanerordens.Platte eines Sarkophagsoder Antipendiums. Die Szene in zwei Gruppen geteilt. Links Papst Innozenz Ill.auf dem Throne,neben ihm Kardinale und Umstand.Vor dem Papst kniend St.Franziskus, die Bestatigung seines Ordens empfangend. Rechts ende betender Geistlicher.Am Fufende Angehorige seines Ordens mit Fahne. Im Hintergrund Leidtragende. Bronze. Einzelne Figuren vollrund heraus-
+- die Beisetzung des Heiligen. Derselbe liegt auf einer Bahre, an dessen Kopfgearbeitet. Italien. Hohe 46,5,Breite 134 cm.In Holzrahmen.
+- 588 Himmelfahrt Maria. Die Jungfrau,fast vollrund modelliert,schwebt auf Wolken stehend gegen Himmel. Ihre Hande sind im Gebet gefalten. Uber ihr schweben zwei Engel, die eine Krone halten.Weitere Engel, teils vollrund, teils flach gebildet,fliegen in Wolken gehullt um die Gottesmutter. Der aufSere Rand der Platte zeigt,teils durchbrochen,Voluten und Blattwerk. Hohe 53,Breite 45 cm.
+
+Breiter achtseitigerHolzrahmen, stark profiliert und mit Appliken invergoldeterBronzereichverziert.
+
+Nr.588.
+
+<!-- image -->
+
+- 589 Groβe runde Plakette mit vertieft liegendem Umbo,in dem Lowenkopf. Die ibrige Flache in hohem Relief ziseliert mit lebendig komponierter romischer Schlacht, eingefaft von Kordelfechtbordire. Italienische Arbeit,patiniert. Durchm.44 cm.In altem geschnitztem Holzrahmen.
+- 590 Innozenz Xl.,Papst. Brustbild, ganz im Profl nach links, in reichem priester-
+- lichem Gewand,dessen Borten mit reliefiertem Blumenwerk verziert. Den Kopf mit kleinem Bartchen deckt hohe einfache Mitra. Oben die Umschrift: INNOCENTIO XI PON MAX.Bronze.Grine Patina. Durchm.33cm.
+- 591 Viereckige Platte mit der fast vollrund gebildeten Figur Peters von Amiens, in der Linken die Fahne haltend.Im Hintergrunde in schwacherm Relief Schlacht der aus einer Festung hervorstirmenden Kreuzfahrer mit den Sarazenen. Erstere durch Monche angefeuert, letztere zum Teil schon fiehend. Oben rechts Taube mit Spruchband:Opere et Sermone.Bronze.Braune Patina. Hohe 31,Breite 41 cm.
+- 592 Die hl. Familie.Die Mitte nimmt Maria ein,die in langem Gewande sitzend dargestellt;mit der Linken halt sie ein aufgeschlagenes Buch,mit der Rechten halt sie das unbekleidete Jesuskind. Hinter ihr stehen Joseph und Mutter Anna. Letztere legt die Hand auf die Schulter der hl.Jungfrau, wahrend sie sich mit der Linken auf einen Stock aufstitzt.Vor der Gruppe stehend der kleine Johannes. Bronze. Italien.Starkes Hochrelief.
+
+Hohe 41,5,Breite28cm.
+
+- 593 Der Tod der Niobiden. Den Vorgrund nehmen die zu Pferde flichtenden Sohne der Niobe ein,von denen bereits drei den Pfeilen der erzirnten Letokinder erlegen sind. Im Hintergrunde erblickt man die Ruinen eines Tempels sowie eine Stadt.Oben links auf Wolken stehend Artemis mit ihrem Bruder Apollo.Bronze.Braune Patina.Italien.Hochrelief.
+
+Hohe 28,Breite 32 cm.
+
+- 594 Bacchanal. Rechts steht unter Baldachin Bacchus mit dem Thyrsusstabe,die Linke auf eine Vase gelegt;vor ihm tanzen zum Klange einer Flote Bacchanten und Bacchantinnen.Links und im Hintergrund,teils trunken,weitere Bacchanten,
+- Faune,Faunknaben usw.Hochrelief.Bronze.Braune Patina.
+
+Hohe 19,Breite 39 cm.
+
+- 595 Venus in der Schmiede des Vulkan. Rechts schmiedet Vulkan mit drei Gesellen den Schild fur Achilles.Am Fufse des Ambof liegt der bereits vollendete Harnisch.Links in einem Muschelwagen sitzend Venus, der ein Putto den Helm zur Prifung vorlegt. Durch zwei grofse Torbogen Blick in eine Landschaft. Starkes Hochrelief. Bronze. Hohe19,Breite39 cm.
+- 596 Der Tod des hl. Joseph. Die Mitte der Platte nimmt der in seinem Bette liegende,sterbende Heilige ein; zu seinen Seiten stehen trostend Maria und
+- Jesus.Bronze,vergoldet. Hohe 33,5,Breite 26 cm.
+- 597 ,Ein Ratsel."Zwei Faune halten in ihrer Hand eine Schriftrolle mit verschiedenen Tieren und Gegenstanden,deren Sinn sie zu erraten suchen. Der eine steht,der andere sitzt auf einer Kugel.Rechts bekleidete Frau.Links
+- ein Baum,daneben bartiger Mann und sitzender Bacchusknabe. Bronze. Starkes Hochrelief. Hohe 32,Breite 22 cm.
+- 598 Reliefplatte.Zwei Satyre blicken in eine vasenformige Bowle.Als Hintergrund zwei Weinranken. Halbrund modelliert. Bronze. Grine Patina. Hohe 33,5,Breite 24,5cm.
+- 599 Relief. Puttokopf, halb im Profl nach rechts.Der Kopf trefflich,fast vollrund herausgearbeitet. Das Haar in hohen S-formigen Linien. Auf ovaler
+- Unterplatte.Bronze.Grine Patina. Hohe 21,5,Breite 19 cm.
+- 600 Viereckiges Relief von Andrea Briosio, gen. Riccio. Grablegung Christi. Drei Manner sind im Begriffe, den Leichnam Christi einzusargen, hinter ihnen die klagenden Frauen und viele Zuschauer. Randeinfassung.
+
+Hohe 12,Breite 17 cm.
+
+- 601 Die Anbetung der Hirten.Hochreliefierte Darstellung auf ovaler Platte mit Fruchtkranzrahmen.Auf einer viereckigen Platte befestigt und in reich mit
+- Metall verziertem Schildpattrahmen.17. Jahrh. Ganze Hohe 24, Breite 20 cm.
+- 602 Ovale Platte,ebenso,mit der Himmelfahrt Christi. Gegenstick.
+- Gleiche Grofe.
+- 603 Die drei Jinglinge im Feuerofen.Im Vorgrunde rechts sitzt Nebukadnezar auf reichem Throne,in der Hand das Zepter haltend;hinter ihm drei bartige Landpfleger.Links mehr im Hintergrunde der Ofen,in dem man Sadrach, Messach und Abed-Nego mit gefaltenen Handen erblickt, sowie den sie schitzenden Engel.Vor dem Ofen die vor den herausschlagenden Flammen fliehenden Krieger. Hohe 16,5,Breite 9,5 cm.Gelbbraune Bronze.
+- 604 Gefangennahme Christi. Figurenreiche Komposition, die einzelnen Figuren in verschieden starkem Relief gearbeitet;in der Mitte Judas,den Herrn durch einen Kuf verratend. Rechts Petrus, dem Malchus das Ohr abhauend. Bronze, schwarz patiniert.16.Jahrh. Hohe 11,Breite 20,5 cm.
+- 605 Christi Auferstehung. Christus, iber dem Grabe schwebend, in der Hand den Kreuzesstab haltend. Hinter dem Grabe ein Engel, vor demselben liegend ein Krieger.Lorbeerkranzrand. Bronze.17.Jahrh.
+
+Hohe 20, Breite 17 cm.
+
+- 606 Viereckiges Relief, getrieben mit bifsender Magdalena,im Vorgrunde einer
+- Landschaft liegend.17.Jahrh. Hohe 23,Breite 17 cm.
+- 607 KuBtafel mit Anbetung der Hirten Im Vorgrunde eines Stalles sitzt Maria, das Kind auf dem Schofe haltend, umgeben von den Konigen, welche ihre Geschenke darbringen.Italienisch.16.Jahrh.Vergoldet.
+
+Hohe 10, Breite 7 cm.
+608 KuBtafel.Christus,auf dem Throne sitzend,umgeben von den zwolf Aposteln. Oberhalb schwebend Gott Vater und die Taube des hl. Geistes. Gelbgufs. Hohe 16,5,Breite 10 cm.
+
+Nr.609.
+
+<!-- image -->
+
+- 609 KuBtafel mit Kronung Maria in einem Wolkengebild,von Engelglorie umgeben; die Umrahmung aus Riemenwerk und Palmetten gebildet.durchsetzt von gefligelten Engelskopfchen. Treffliche Arbeit in Art des J. Sansavino.Versilbert. Hohe 18,Breite 14 cm.
+- 610 Kuftafel,oberhalb gerundet, von Giovanni Bernardi de Castelbolognese.Anbetung der Konige. Vor verfallenem Stallgebaude sitzt Maria, das Kind auf dem Schofe haltend; vor ihr die Konige,deren einer kniend eine Vase iberreicht. 16.Jahrh. Molinier,Bd.I, Nr.261.
+
+Iohe 10,Breite 7cm.
+
+- 611ViereckigeBronzeplahettevon Moderno.David und Goliath. An einen Steinsockel gelehnt,
+
+steht David, vollig nackt,in der Rechten die Schleuder haltend;vor ihm der Leichnam Goliaths,an dem ein Knecht beschaftigt. Randeinfassung. 15. Jahrh. Molinier,Bd.I,Nr.159. Hohe 7,Breite 6 cm.
+
+- 612 Viereckige Plakette von Moderno mit der Geifelung Christi.Im Vorgrunde einer Halle steht Christus,an die Saule gebunden,umgeben von den Knechten, die Geifel schwingend; dahinter Kriegsvolk. Molinier, Bd.I, Nr.170.
+
+Hohe 14,Breite 11 cm.
+
+- 613 Viereckige Plakette mit Golgatha von Moderno.Christus am Kreuze zwischen den beiden Schachern.Am Fufe des Kreuzes die von zwei Frauen gehaltene ohnmachtige Maria; im Hintergrunde Kriegsvolk, teils beritten. Schwarz patiniert und mit Randeinfassung. Molinier, Bd. I, Nr. 171.
+
+Hohe 12,Breite 8 cm.
+- 614DieselbePlaketteohneRandeinfassung.
+- Ebenso. Hohe 12,Breite 7cm.
+- 615 Dieselbe Plakette mit breiter Randeinfassung.Ebenso.
+
+Hohe 14,Breite 10 cm.
+
+- 616 Viereckige Plakette in Art des Mantegna.Madonna mit dem Kinde,in architektonischer Nische stehend,umgeben von fackeltragenden Engelsfiguren, Bode,Nr.842. Hohe 10,Breite 12 cm.
+- 617 Ovale Plakette mit hl. Familie, in Art des Lorenzo di Credi. Huftfigur von Maria und dem hl. Joseph,in deren Mitte das Kind. Bode, Nr. 658. Hohe 11, Breite 8 cm.
+- 618 Ovale Plakette. Pompejus.Brustbild im Profl nach links,in Anlehnung an
+- die Antike.Hochrelief.Bronze.Bode,Nr.581. Hohe 6,5,Breite 4,5cm.
+- 619 Runde Plakette von Moderno.Kakus stiehlt Herkules die Rinder.Im Vordergrunde einer Landschaft liegt der eingeschlafene Herkules;hinter ihm die Rinder, die Kakus am Schwanze in seine Hohle zu ziehen sucht. Molinier,
+- Bd.I, Nr.194. Durchm.6cm.
+- 620 Viereckige Plakette von Moderno. Mars und Viktoria. Beide vollig unbekleidet, in eilender Stellung, an der geschulterten Lanze die Rustteile tragend Randeinfassung. Bode, Nr.758. Hohe 7, Breite 6 cm.
+- 621 Viereckige Plakette von Moderno.Herkules, den Antaus erwirgend. Herkules, vom Ricken gesehen, schwingt den Antaus mit beiden Armen um-
+- spannend in die Hohe,links die Barenhaut. Molinier,Bd. I, Nr.203.
+
+Hohe 10,Breite 8cm.
+
+- 622 Runde Plakette von Giov. Francesco di Boggio. Urteil des Paris. Im Vorgrunde einer Landschaft sitzt Paris, Venus den Apfel iberreichend;neben ihr
+- Athene und Diana.Kordelflechteinfassung.Vergoldet.Bode,Nr.954.
+- 623 Plakette,ebenso,aber ohne Einfassung.
+
+Durchm.6cm.
+
+Durchm.5,5cm.
+
+- 624 Runde Plakette von Fra Antonio de Brescia.Amor, mit kurzem Hemdchen
+- bekleidet,bei einem Postamente schlafend. Bode,Nr.970.
+
+Durchm.6,8 cm.
+- 625 Runde Plakette von Fra Antonio de Brescia.Schlafende Bacchantin bei einem Monumente mit zwei Putten,von zwei Satyren iberrascht. Bode,Nr. 972.
+
+Durchm.6cm.
+
+- 626 Plakette. Johannes der Taufer, stehend,in harenem Gewande, in der Hand das Lamm haltend. Proflierter Rand. Bronze mit Resten von Vergoldung.
+- Bode,Nr. 1072. Hohe 10,Breite 7 cm.
+- 627 Ovale Plakette. Madonna,auf einem Wolkengebilde schwebend,das Jesuskind
+- auf dem Schofe haltend; seitlich gefligelte Engelskopfe. Schule Sansavino. Vergoldet.Bode,Nr.1266. Hohe 10,Breite 7 cm.
+- 628 Plakette. Der Genius der Musik. Unbekleidete mannliche Figur,an einem Baume stehend, der mit Musikinstrumenten behangen.In der Hand halt sie
+- ein Horn. Hochrelief. Gelbguf.Italien. Molinier, Bd.II, Nr.618.
+
+Hohe 11,2,Breite 7 cm.
+
+- 629 Viereckige Plakette,nach unten zu sich erbreiternd, von Valerio Belli. Einzug Christi in Jerusalem. Christus, auf Esel reitend, von den Aposteln umgeben, in Jerusalem von Zweige und Mantel ausbreitenden Einwohnern emp-
+- fangen.Randeinfassung.Molinier,Bd.I,Nr.266.
+
+Hohe 6,2,Breite 10,2cm.
+
+- von drei Hunden gehetztes Lowenpaar. Molinier, Bd. I, Nr. 306.
+
+Hohe 7,Breite 8 cm.
+
+- 631 Ovale Plakette, von Giovanni Bernardo de Castelbolognese: Reiterkampf in lebendig komponierter Darstellung.Im Vorgrunde links liegender Flufgott.
+- Molinier,Bd.II,Nr.338. Hohe 6,Breite 7 cm.
+- 632 Ovale Plakette.Ebenso.Molinier,Bd.II,Nr.338.
+
+Gleiche Grofe.
+
+- 633 Vierechige Plakette. Madonna mit dem Kinde,im Vorgrunde einer Saulenhalle sitzend, neben ihr der kleine Johannes. Arbeit in Art des J. Sansavino.
+- Molinier,Bd.II,Nr.431. Hohe 13,Breite 8,6 cm.
+- 634 Runde Plakette. Madonna,im Vorgrunde einer Saulenhalle ruhend, auf dem Schofe das Jesuskind haltend;neben ihr der kleine Johannes. Arbeit
+- in Art des Jacobo Sansavino. Vergoldet. Bode,Nr. 1267.
+
+Durchm.15 cm.
+- 635 Viereckige Plakette in Art des J. Sansavino.Im Vorgrunde einer Saulenhalle sitzt Madonna, das Kind auf dem Schofe haltend;vor ihr Johannesknabe.Bode,Nr.1269. Hohe 15,Breite 11 cm.
+- 636 Ovale Plakette von Joh. Jacopo Caraglio. Anbetung der Hirten. Im Vorgrunde eines Stalles liegt das Kind,auf Stroh gebettet. Vor ihm knien Maria und Joseph, seitlich die Hirten. In der Mitte rechts bezeichnet: Jo. Jac. Obus.Ver. Randeinfassung. Bode,Nr.1249.
+
+Hohe 7,5, Breite 9 cm.
+
+- 637 Viereckige Plakette mit der Proflbuste Christi in Aureole, in den obern Zwickeln Sonne und Mond.Vergoldet. Bode,Nr. 1305.
+
+Hohe 9,Breite 7cm.
+
+- 638 Viereckige Renaissance-Plakette. Grablegung Christi.Im Vorgrunde einer Landschaft liegt der Leichnam Christi, von den hl. Frauen betrauert; im Hintergrunde Golgatha.Molinier,Bd.II,Nr. 568.
+
+Hohe10,3,Breite 7,3cm.
+
+- 639 Plakette von Moderno. Die Beweinung Christi.Halbfigur des Leichnams Christi, von Maria und Johannes gehalten; auf dem Rande des Sarkophags ein Engel. Die architektonisch aufgebaute Umrahmung mit oberm Rundbogen,
+- in dem die Profilbuiste Franz II.;seitlich Genien. Hohe 15, Breite 10 cm.
+- 640 Runde Plakette von Moderno. Lowenjagd. Drei bewaffnete Reiter, auf einen Lowen zusprengend, der im Begriffe,einen am Boden liegenden Krieger
+- zu zerfeischen. Randeinfassung. Molinier, Bd.I, Nr. 217.
+
+Durchm.8cm.
+
+- 641 Plakette,achtfach abgeflacht,von Palmettenborduren umrahmt,mit der
+- Huftfigur der Madonna mit dem Kinde in Art des J. Sansavino. Hohe12,Breite 10 cm.
+- 642 Runde Plakette.Bacchanal. Figurenreiche Komposition in fachem Hochrelief.Darunter das Wort ,Canebani".Bronze,braune Lackpatina.Bode, Nr.1346.In Rahmen. Durchm.8,8cm.
+- 643 Plakette. St. Sebastian.Ganze Figur des Heiligen, an einen Baum gebunden. Zu seinen Fufen links der Panzer, rechts der Helm.Landschaftlicher Hinter-
+- grund. Starkes Hochrelief.Viereckig. Bronze. Bode,Nr.1012. Hohe 10,2,Breite 7,2 cm.
+- 644 Rundplakette mit dem Kopfe Christi im Profl nach links und der Umschrift: EGO SUM VIA,VERITAS ET VITA. Mit Rand und Aufhanger. Bronze. 17.Jahrh. Durchm.11 cm.
+- 645 Plakette,viereckig,oberhalb gerundet (Kuftafel),mit Kreuzabnahme.Im Vordergrunde Joseph von Arimathia und Nikodemus, den Leichnam Christi
+- haltend,im Hintergrunde die hl.Frauen.16. Jahrh.
+
+Hohe 12,Breite 7 cm.
+
+- 646 Plakette.Herkules,die Apfel der Hesperiden holend.Links stehend Herkules,in der Rechten das Lowenfell sowie die Keule haltend. Er pflickt mit der Linken die goldenen Apfel. Landschaftlicher Hintergrund. Leichtes
+- Hochrelief.Italien.16.Jahrh.Viereckig. Hohe 9,5,Breite 13 cm.
+- 647 Runde Plakette mit Mucius Scavola.Derselbe steht im Vorgrunde eines Feldlagers, die Rechte in die Flamme haltend; zahlreiche Krieger schauen ihm zu. Deutsche Arbeit.16.Jahrh. Vergoldet. Molinier,Bd. II,Nr.703.
+- Durchm.11 cm.
+- 648 Plakette.Triumph der Religion.Komposition von mehreren Figuren in teils schwachem, teils starkem Hochrelief auf viereckiger Platte. Bronze. Molinier, Bd.II, Nr.663. Hohe 6,5,Breite 12,5 cm.
+- 649 Gotische Plakette mit Christus am Kreuze unter Torbogen,seitlich Maria und der hl.Johannes.Anf.15.Jahrh. Hohe 14,Breite 6 cm.
+- 650 Runde Plakette, einseitig,mit der Profilbuiste Cosmus Il. Italienisch.(Gasparo
+- Mola.) Durchm.9cm.
+- 651 Rundplakette.Brustbild Maria Magdalenas,Gemahlin des Vorigen.Ebenso. Gleiche Grofe.
+- 652 Plakette mit hohem Relief. Maria mit dem Kinde,in ganzer Figur sitzend dargestellt, auf Wolkenhintergrund und umgeben von einem Kranz von Rosen.
+- Bronze. Hohe 18,Breite 14,5 cm.
+- 653Plakette mit hochreliefiertem Kopf eines Feldherren in romischer Tracht. Bronze.17. Jahrh. Hohe 13, Breite 9 cm.
+- 654 Viereckige Plakette mit dem Evangelisten Lukas,auf Ochse sitzend, eine Banderole beschreibend. Vergoldet und teilweise versilbert.Italienisch. 16.Jahrh. Hohe 14,Breite 10 cm.
+- 655 Plakette mit dem Evangelisten Markus. Ebenso.Italienisch.16.Jahrh.
+- Gleiche Grofe.
+- 656 Plakette.Heilige Familie mit Johannes.Links Maria, sitzend dargestellt, auf dem Schofe den Jesusknaben haltend, dem der rechts stehende kleine Johannes Obst reicht.Hinter der Gruppe der hl. Joseph.Landschaftlicher Hinter-
+- grund. Starkes Hochrelief. Bronze,viereckig. 17. Jahrh.
+
+Hohe12,5,Breite 10,5cm.
+
+- 657 Ovale Plakette mit der Huftfigur des hl.Franziskus in einem Wolkengebild,
+- auf dem Arme das Jesuskind haltend. 16. Jahrh.Vergoldet.
+
+Hohe 12,Breite 7cm.
+
+- 658 Viereckige Renaissanceplakette mit der Geifelung Christi in einer Kompo-
+- sition von vier Figuren.Deutsch. Hohe 9,Breite 7 cm.
+- 659 Plakette. Maria mit dem Kinde in starkem Hochrelief, links vor einer Saule unter Baldachin sitzend. Rechts Blick in eine Landschaft. Bronze. Braun
+- patiniert. Oval.Hohe 9,Breite 11,5 cm.
+- 660 Plakette. Der Herbst. Jugendliche Frauengestalt in leichter Gewandung.
+- In den Handen halt sie eine Traube.Starkes Hochrelief. Oval.
+
+Hohe 10,Breite 8 cm.
+
+- 661 Runde Plakette,einseitig,mit allegorischer Darstellung:weibliche Figur und Amorette bei Adlerhorst.Datiert 1696. Durchm.9cm.
+- 662 Plakette.St.Franziskus,Halbfigur,in Monchsgewand,betend vor einem Kruzifix, davor Buch,Totenkopf und Geifel. Bronze,vergoldet,mit proflierter Randleiste.Gehenkelt.Italien. Hohe10,5,Breite 7,5cm.
+- 663 Viereckige Plakette mit der Standfigur des hl.Antonius, im Vorgrunde einer Saulenhalle stehend,das Kreuz umfassend;neben ihm Engelsfigur.17. Jahrh. Vergoldet. Hohe 10,Breite 7 cm.
+- 664 Plakette.Frihling und Sommer.Zwei weibliche,leicht gekleidete Frauengestalten, nach rechts schreitend. Die eine tragt ein Tuch mit Blumen, die andere Getreideahren.Stark reliefiert auf viereckiger Platte.18. Jahrh. Hohe 10,Breite 9 cm.
+- 665 Plakette.Die Schaustellung Christi. Auf einer Treppe steht Christus gefesselt zwischen einem Henker und einem Pharisaer. Im Hintergrunde erblickt man in einem Torbogen weitere Schriftgelehrte sowie Kriegsknechte. Bronze,
+- viereckig.Deutsch. Hohe 12,5, Breite 8,7 cm.
+- 666 Plakette. Triumph der Weiblichkeit. Auf einem von vier Mannern gezogenen Wagen, den ein Satyr schiebt, sitzt auf einem ruhenden Lowen eine Frauengestalt,mit vier Kronen spielend. Als Hintergrund weite Landschaft mit
+- grofer Stadt und Richtplatz.Gelbguf. Deutsch.
+
+Hohe 7,Breite 15,7 cm.
+
+- 667 Plakette. Raub der Sabinerinnen nach Giovanni Bologna. Auf einem von einfachen Bauten umschlossenen Platz ringen in zwei Gruppen teils zu Pferde, teils zu Fuf die Romer mit den Sabinerinnen. Bronze.Schwarze Patina.
+- Italien. Hohe 10,Breite 12,5 cm.
+- 668 Viereckige Plakette.Bacchant,auf einem Esel reitend,von Trabanten begleitet. Lange 12,Breite 5 cm.
+- 669 Viereckige Plakette.Venus und Adonis. Im Vorgrunde einer Waldlandschaft liegt Venus, von Adonis liebevoll umfangen. Bezeichnet: N.Bodts.Vergoldet.
+- Hohe 7,Breite 10 cm.
+- 670 Runde Plakette mit figurenreicher Darstellung des Raubes der Sabinerinnen. Durchm.15cm.
+- 671 Plakette.Anbetung der Hirten.Im Vorgrunde eines Steingebaudes knien Maria, Joseph, Hirten und Frauen betend um das in einer Krippe liegende Jesuskind. Im Hintergrund Ochs und Esel sowie durch die Ture Blick in eine
+- Landschaft.Starkes Hochrelief.Bronze,vergoldet.
+
+Hohe 18,Breite 13,5 cm.
+
+- 672 Plakette. Maria in ganzer Figur, auf Mondsichel stehend. Die Hande sind vor der Brust gekreuzt. Kupfer, teils versilbert, teils vergoldet.Die ovale Platte gepunzt.18.Jahrh. Hohe18,5,Breite 12,5 cm.
+- 673 Plakette. Quadriga,nach rechts, umgeben von zwei Wagenlenkern und
+- einem Krieger.Flaches Hochrelief. Bronze.
+
+Hohe 6, Breite 9,5 cm.
+
+- 674 Plakette. Die Opferung Isaaks.Landschaftlicher Hintergrund. Flachrelief. Bronze.Deutsch. Oval.Hohe 6,Breite 4 cm.
+- 675 Viereckige Renaissanceplakette mit Anbetung der Hirten.Im Vorgrunde einer Saulenhalle betet Maria das Kind in einer Krippe an; um sie gruppiert der hl. Joseph und die Hirten. Italienisch. Hohe 19,Breite 14 cm.
+- 676 Plakette. St.Romuald,unter einem Baume sitzend,im Gesprach mit Monchen. Bronze. Gruin patiniert. 17. Jahrh. Oval.Hohe 4,7,Breite 3,6 cm.
+- 677 Plakette.Maria Magdalena in einfachem Gewande,mit lang herabwallendem Haar, die Hande im Gebet verschrankt.Hochrelief.Bronze. 18.Jahrh.
+
+Oval.Hohe 12,5,Breite 9,2 cm.
+
+- 678Viereckige Plakette,oberhalb gerundet, mit Anbetung der Hirten.Im Vorgrunde eines Stalles liegt das Jesuskind, in einer Krippe gebettet,umgeben von Maria und den Hirten. Italienisch. 16.Jahrh.
+
+Hohe 11,Breite 8cm.
+
+- 679 Plakette.Christus und Judas. Halbfiguren in starkem Hochrelief.Links Christus mit ernstem Gesichtsausdruck.
+
+Rechts Judas als Jude charak-
+
+Nr.675.
+
+<!-- image -->
+
+terisiert,im Begriffe,den Herrn zu kissen. Bronze. Bezeichnet:G.Cairoli. Oval.Hohe 12.5,Breite 10,5cm.
+
+- 680 Plakette.Maria mit dem Kinde. Ganze Figur,auf niedriger Plinthe stehend; zu den Seiten knien zwei Engel. Strahlenhintergrund. Hochrelief. Bronze. Italienisch. Oval.Hohe 13,Breite 11 cm.
+- 681 Viereckige Plakette.Lukretia,sich den Tod gebend. Im Vorgrunde einer Landschaft steht Lukretia, sich den Dolch in die entblofSte Brust stofSend umgeben von zahlreichen Feldherren,ihr abwehrend. Vergoldet. 17. Jahrh. Hohe 9,Breite 14 cm.
+- 682 Runde Plakette.Bacchanal. Bacchus,vollig nackt,das Haar mit Reben bekranzt,halt in der Rechten eine Schale,die ein Satyr fillt;er ist umgeben von Bacchantinen,Faunen und Putten,teils tanzend,teils musizierend.Donatello.
+
+Durchm.14cm.
+- 683 Ovale Plakette mit spielenden Putten in Landschaft. Lange 17,Breite 14 cm.
+- 684 Viereckige Renaissanceplakette mit Anbetung der Konige in figurenreicher Komposition. Im Vorgrunde rechts sitzt Maria mit dem Kinde auf einer Steinbank, die Geschenke der Konige entgegennehmend; im Hintergrunde zahlreiches Gefolge.Italienisch. Hohe 15,Breite 12 cm.
+- 685 Plakette.Weiblicher Kopf im Profl nach links,in starkem Relief. Bronze. Italienisch. Oval.Hohe 5,8,Breite 4,4 cm.
+- 686 Plakette. Puttenpaar, sich liebkosend, auf Wolken sitzend. Bronze. 18. Jahrh. Fast rund. Durchm.5cm.
+- 687 Vierechige Plakette.Zwei Ziegenbocke, aus. einer mit Trauben gefillten
+- Schale fressend. Italienisch. Lange 21,Breite 5 cm.
+- 688 Vierechige Renaissanceplakette mit Pieta.Am Fufse des Kreuzes sitzt Maria, den Leichnam Christi auf dem Schofse haltend; im Hintergrunde die Stadt Jerusalem.Vergoldet.Deutsch. Hohe 17, Breite 10 cm.
+- 689 Runde Plakette. Madonna,den Leichnam Christi auf dem Schofse haltend;
+- seitlich zwei Engel. Durchm.14cm.
+- 690 Plakette.Die hl.Dreifaltigkeit.Gott Vater,sitzend dargestellt,in seiner Hand das Kreuz mit dem Christuskorper haltend; uber diesem schwebend die Taube des hl. Geistes.Ovale Platte mit ausgeschweiftem Rand in Renaissancebandwerk mit Maskaronkopfen. Hohe 9,5,Breite 8,5 cm.
+- 691 Ovale Plakette. Hl. Familie. Joseph und Maria, das in einer Krippe liegende Jesuskind anbetend.Links Ochs und Esel. Bronze, vergoldet.
+- Oval.Hohe 6,Breite 4,5 cim.
+- 692 Plakette.Die Verkindigung. In Renaissancegemach kniet rechts am Betpulte Maria,vor ihr schwebend der Erzengel Gabriel. Oberhalb in Wolken die Taube des hl. Geistes.Hochrelief. Bronze,oben abgerundet, in vergoldetem Kupferrahmen. Hohe 18,Breite 9 cm.
+- 693 Rundes Medaillon,Bronzeguf,mit dem Proflbrustbilde Clemens X.Vergoldet. Italienisch. Durchm.17 cm.
+- 694 Medaillon,ahnlich,mit der Buste Innozenz XI. Ebenso. Gleiche Grofe.
+- 695 Runde Plakette,einseitig, mit dem Proflbrustbilde eines Papstes in reich verziertem Ornate.Italienisch.17.Jahrh.Vergoldet. Durchm.14cm.
+- 696 Plakette.Die Verlobung Maria und Josephs, nach dem bekannten Gemalde Raphaels.Flachrelief mit oberer Abrundung.Bronze. Braune Patina.
+
+Hohe 17, Breite 11 cm.
+
+- 697Runde Plakettemitder Proflbiste Petrarkas,das Haupt mit Lorbeerkranz geschmickt.
+
+Durchm.12 cm.
+
+- 698 Plakette,oval reliefiert mit der Dornenkronung. Christus.sitzend, wird von einem Schergen mit dem Purpurmantel,von einem zweiten mit der Dornenkrone geschmickt. Goldbronze.Der breite Rahmen vergoldetes Kupfer, aus-
+
+Nr.684.
+
+<!-- image -->
+
+geschnitten und graviert in barockem Laub-und Blumenwerk. Hohe der Plakette 9,5,Breite 7,5cm.
+
+- 699 Plakette. Papst Clemens Xl. Brustbild nach links in priesterlichem Gewande, auf dem Haupte eine hohe Mitze. Hochreliefierte Bronze auf Steinunterlage in vergoldetem Holzrahmen. Hohe 10,5 cm.
+- 700 Rundplakette. Heinrich IV. von Frankreich. Brustbild im Profl nach rechts, mit Umschrift.Gehenkelt.Von Dupre.Anf.17. Jahrh. Durchm.13cm.
+- 701 Plakette.Kain erschlagt Abel.Landschaftlicher Hintergrund mit Darstellung des Opfers der beiden Brider.Gelbgufs. Hohe 5,5,Breite 11 cm.
+- 702 Plakette.Jakobs Tod.Jakob liegt sterbend auf seinem Ruhebett. Umrahmung in Renaissancebandwerk.Gelbgufs. Hohe 5,5,Breite 8cm.
+- 703 Viereckige Renaissanceplakette mit Christus, an die Saule gebunden,am Boden die Dornenkrone.Der Rand von Perlbandbordire eingefafst.16.Jahrh. Hohe 14,Breite 7 cm.
+- 704 Plakette.Bacchanal. Zehn tanzende und musizierende mannliche und weibliche Figuren, teilweise das Haar mit Weinlaub geschmickt. Bronze. Hohe 9, Breite 30 cm.
+- 705 Viereckige Bronzeplakette mit dem Proflbrustbilde Petrarkas, das Haupt mit Lorbeerkranz geschmickt. Hohe 15,Breite 11 cm.
+- 706 Plakette mit dem Brustbilde Lauras. Gegenstick. Gleiche Grofe.
+- 707 Viereckige Plakette mit Bacchanal in freier Darstellung. Hohe 9,Breite 19 cm.
+- 708 Viereckige Plakette.Diana und Meleager senden ihre todbringenden Pfeile. Lange 19,Breite 8 cm.
+- 709 Viereckige Plakette von Moderno mit der Auferstehung Christi.Uber dem geoffneten Sarkophag schwebt Christus,in der Rechten das Siegesbanner haltend. Funf nackte, nach den Waffen greifende Krieger schauen zu ihm empor;im Hintergrunde Felsgrotte. Randeinfassung.Hohe 11, Breite 7 cm.
+- 710 Dieselbe Plakette. Ebenso,aber ohne Randeinfassung. Bode,Nr.748. Hohe 14,Breite 10 cm.
+- 711 Viereckige Plakette von Moderno.Kampfszene. Nackter Reiter mit vorgestrecktem Schild sprengt uber zwei am Boden liegende Krieger; neben ihm ein reiterloses Pferd. Mit Resten von Vergoldung. Bode,Nr.790.
+
+Hohe 4,5,Breite5,5 cm.
+
+- 712 Vierechige Plakette von Moderno.Anbetung der Konige. In Landschaft vor einer Hutte sitzt Maria, das Kind auf dem Schofe haltend； hinter ihr der hl. Joseph. Seitlich die Konige, ihre Geschenke darbringend. Vergoldet. Bode, Nr.737. Hohe 8,Breite 4 cm.
+- Altare kniet Iphigenie,hinter ihr der das Beil schwingende Priester und viel
+- Volk. Molinier,Bd. I,Nr.398. Hohe 4,Breite 3 cm.
+- 714 Viereckige Plakette mit Anbetung der Konige.Im Vordergrunde sitzt Madonna, das Jesuskind auf dem Schofe haltend; vor ihr knien die Konige, hinter ihnen zahlreiches Gefolge. Hohe 15,Breite 12 cm.
+- 715 Medaille.Av.Jupiter Ammon. Brustbild nach rechts.Bode483. Rev. Jugendlicher Frauenkopf, Juno.Bronze.Hochrelief.Oval. Hohe2,5,Breite 2,5cm.
+- 716 Medaille mit dem Brustbilde Jacop Il.von Carrara, 1350. Rv.Wappen.Durchm.8 cm.
+- 717Medaille mit dem ProflbrustbildederGuidiGiamontonicomte Urbeche 1459-1501. Durchm.8cm.
+- 718 Medaille mit dem Profilkopf der Isotta Atti da Rimini. Rv. Elefant und Jahreszahl 1444. Durchm.Scm.
+- 719 Medaillonmit dem Brustbilde Philipps Il. von Spanien und Malvazzi Piro.Datiert 1593. Durchm.8cm.
+- 720 OvalesRenaissancemedaillon mit romischem Imperator zu Pferde, im Hintergrunde Palastarchitektur. Hohe 12,Breite 9 cm.
+- 721 Ovales Medaillon mit dem Brustbilde Messalinas.Italienisch. Hohe 10,Breite 9 cm.
+- 722 Rundes Medaillon mit der Verkindigung Maria. Im Vorgrunde eines reich ausgestatteten Zimmers kniet Maria in einem Betstuhle, neben ihr der verkindende Engel.Vergoldet. Gutes Stick.17. Jahrh. Durchm.8cm.
+
+Nr.696.
+
+<!-- image -->
+- 723 Ovales Medaillon mit Sauhatz. Eber in Landschaft,von vier Hunden gehetzt. Vergoldet.15.Jahrh. Hohe 7,Breite 10 cm.
+- 724 Medaille. Georg Vol. Cramer. Brustbild en face mit Spitzbart und breitem Muhlradkragen.Umschrift:GEORG VOL CRAMER AT:689.Hochrelief. Bronze. Durchm.5cm.
+- 725 Groβe Medaille.Auf dem Avers die Profibiiste Aretinus.Rv. zwei alle-
+- gorische Figuren:Hirsch und Schlange. Bezeichnet:M. Soldanus f 1684.
+
+Durchm.8 cm.
+
+- 726 Sieben Bronzemedaillen.Auf dem Avers die Brustbilder von Michel Angelo, Raphael, Tizian,Caracci, Canova, Correggio und Thorwaldsen. Auf dem Revers ihre Hauptwerke. Durchm.5und 6cm.
+
+Aus dem Besitze des Kardinals Tosti in Rom stammend. In Rahmen unter Glas.
+
+- 727 Rundes Medaillon mit dem Profilkopfe eines Philosophen und Umschrift: SIM MIAS. Durchm.5cm.
+- 728 Rundes Medaillon mit der hochreliefierten Buste Faustinas.
+
+Durchm.3cm.
+
+- 729 Rosenkranzmedaille.Vorderseite und Ruckseite mit dem Jesusknaben bzw. den Gekreuzigten anbetenden Jesuiten und der Aufschrift:SOCIETATIS
+- JESU.Oval,gehenkelt. Hohe 4,5 cm.
+- 730 Runde einseitige gotische Medaille mit Minuskelschrift. Durchm.6cm.
+- 731 Runde Medaille.Papst Paulus V.
+
+Durchm.4cm.
+
+- 732 Rundes Medaillon mit der Buste des hl. Paulus und Umschrift.
+
+Durchm.8cm.
+
+- 733 Zwolf Platten mit fast vollrund modellierten Kopfen der Apostel bzw.
+- hl. Jungfrau.In vergoldetem Bleirahmen.Werden vereinzelt.
+
+Hohe 13,Breite 10,5 cm.
+- 734 Beweinung Christi. In der Mitte liegt,von Joseph von Arimathia gehalten, der Leichnam des Herrn. Um ihn sind klagend, teils stehend, gruppiert Maria, Maria Magdalena, Petrus, Johannes und vier weitere Heilige. Teils vollrund, teils reliefiert, teils nur ausgeschnitten gebildete Gruppe (Applike). Bronze, vergoldet.17.Jahrh. Hohe 18,5,Breite 21 cm.
+- 735 Salvator mundi. Christus,stehend dargestellt, nur mit einem Lendentuche bekleidet. Seine Rechte legt er um den Kreuzesstamm. Halbrund als Applike gebildete Figur. 17. Jahrh.Bronze,vergoldet. Hohe 20,5cm.
+- 736 Ein Paar Appliken in Form von Satyrkopfen,mit Weinlaub verziert.Italienisch,
+- mit brauner Patina. Hohe 10 cm.
+- 737 Applike in Form einer vollrund ziselierten mannlichen Buste. Italienisch. Hohe 9cm.
+- 738 Applike mit weiblicher Buste.Ebenso.
+
+Gleiche Grofe.
+
+- 739 Applike in Form einer vollrund modellierten mannlichen Buste mit lockigem Haar. Rohgufs. Italienisch. Hohe 14 cm.
+- 740 Applike,weibliche Biste, in gleicher Ausfihrung. Gleiche Grofe.
+- 741 Applike. Herkules,den Kentauren bezwingend. Halbrund gearbeitete Gruppe. Bronze,vergoldet. Hohe 16 cm.
+- 742 Apostelkopf. Brustbild eines bartigen Apostels im Profl nach links, halbrund gearbeitet.Vergoldete Bronzeapplike. Hohe 13 cm.
+- 743 Profilbiste eines Apostels mit gelocktem Haar und langem Bart. Italienisch. 17.Jahrh.Vergoldet. Hohe 12 cm.
+- 744 Applike,ziseliert mit Papst und Kardinal auf einem Wolkengebild. Hohe 6 cm.
+- 745 Applike, Goldbronze,ziseliert mit infuliertem papstlichem Wappen:zwei auf Kugel stehende Lowen und Querbalken.Vergoldet. 17. Jahrh.
+
+Hohe 23,Breite 18cm.
+
+- 746 Finf Appliken,Empire,in Form von Amoretten. Hohe 10und 5 cm.
+- 747 Ein Paar Appliken in Form von Fratzenkopfen,aus einem Perlbandmedaillon erwachsend. Hohe 6,Breite4cm.
+- 748 Applike,Glockenmetall,mit den hochreliefierten Standfiguren von Adam und Eva,auf vasenformigem Postamente stehend. Hohe 36 cm.
+- 749 Applike,in hohem Relief modelliert mit Madonna, in Betstuhl kniend. Italienisch.18.Jahrh. Hohe 15 cm.
+- 750 Pfeifenkopf in Form eines Turkenkopfes, aus Palmetten erwachsend, mit hohem Turban. Lange 8 cm.
+- 751 Jidischer Wandleuchter.Die Reliefplatte durchbrochen mit Wappen,Renaissance-Rankenwerk mit Maskarons, Karyatiden und Putten. Unten acht, oben der neunte Olbehalter.Bronze,braune Patina. Hohe 20,5,Breite 22 cm.
+- 752 GroBes Tempelzierstiick.Naturalistisch gebildeter, vollrundmodellierter Drache, der lange Hals nach oben gerichtet; aus dem weit geoffneten Rachen speit er eine sich nach oben erbreiternde Feuergarbe.Uber derselben erhebt sich die Figur eines eilenden Kriegers in voller Rustung. In der erhobenen Rechten halt derselbe eine Raucherschale. Hohe 325 cm.
+- 753 Kriegsgott, stehend dargestellt, in reicher Rustung. Die Linke ruht am Gurtel. In der Rechten halt er sein Schwert mit versilberter Klinge. Bronze, braune Patina. Hohe 20 cm.
+- 754 Buddha,auf hohem durchbrochenem Throne sitzend.Hinter ihm ein doppelter Flammenbogen.Bronze,vergoldet. Ganze Hohe 21 cm.
+- 755 Buddha, sitzend, in weitem Gewande. Auf dem Kopfe die Igelmitze Bronze, braune Patina. Hohe 18cm.
+- 756 Buddha,auf erbluhter Lotosblume sitzend.Auf dem Haupte die Igelmitze. Bronze,lackiert und vergoldet. Hohe 23 cm.
+- 757 Gott des langen Lebens,stehend,in langem Gewande,in den Handen eine Buchse haltend.Das Haupt mit hohem Schadel und langem Bart. Bronze,braune Patina.China.
+
+Hohe 26 cm.
+
+- 758 Kranich,fast lebensgrof,naturalistisch durchgearbeitet,in schreitender Stellung, den Hals nach oben gerichtet. Bronze,grun und braun patiniert sowie rot lackiert.
+
+Hohe 164,5cm.
+
+- 759 Rauchergefaβ in Form eines fast lebensgrofen Kranichs, den Hals nach unten gesenkt,der geschnitzte Holzsockel mit vollrunder Schildkrote verziert. Bronze,grin und braun patiniert. Hohe 78 cm.
+- 760 RauchergefaBinForm einesElefanten. Er ist reich aufgezaumt und tragt auf seinem Ricken einen hohen
+
+Nr.400.
+
+<!-- image -->
+
+Turmbau mit Figuren, der reich reliefiert und durchbrochen. Bronze,braun patiniert. Hohe 44cm.
+
+- 761 Koro,fast kugelformig,auf drei breiten hervorwachsenden Fufen ruhend,die beiden Henkel in Form von Elefantenkopfen mit grofen Ringen. Die Flachen verziert mit Tieren und Ornamentwerk in Silbertauschierung. Der Deckel, Holz und reich durchbrochen,hat einen mit Steinknopf durchbrochenen hohen Holzuntersatz.Bronze. Ganze Hohe 32 cm.
+- 762 Koro, kugelformig,auf drei hohen Fufen und mit runder Fufplatte. Vorderund Ruckseite mit von Schmetterlingen belebten Pfanzenornamenten in Relief. Die Henkel in Form von Hahnen. Als Deckelknopf Drache. Bronze, braune Patina. Hohe 24cm.
+- 763 Raucherschale in facher Kugelform auf drei niedrigen Fifen und mit zwei seitlichen Henkeln. Die Wandung graviert mit Menschen-und Tiergestalten. Mit Kinstlerbezeichnung.Bronze,vergoldet. Hohe 10,Durchm.17 cm.
+- 764 Raucherschale,ahnlich,mit Pfanzen- und Drachendekor.Mit Kinstlerbezeichnung. Hohe 10,Durchm.18 cm.
+- 765 Flasche in eingeschnirter Kurbisform,graviert mit figurlichen Darstellungen und Ornamentwerk. Im Boden Marke. Bronze.Mit Holzfufs. Hohe 31 cm.
+- 766 Ollampe in Form einer auf glockenformigem Sockel stehenden Orientalin. In den Handen halt sie den Olbehalter.Bronze. Hohe 29 cm.
+
+<!-- image -->
+<!-- image -->
+
+Nr.835.
+
+Nr.830.
+
+Nr.833.
+
+## Arbeiten in Metall. Waffen.
+
+- 767 Gotische Reliquienbiste in vergoldetem Kupfer.Aus sechsfach abgeflachtem, mit Silberrosetten verziertem Sockel erwachst die vollrund modellierte Buste eines mannlichen Heiligen in eng anschliefender Gewandung und Haube. Hals und obere Schulter bedeckt ein breiter, aus gedrehtem Silberdraht gefertigter Kragen.In der Rechten halt er ein in Silber ziseliertes Zepter mit vierkantigem Stab und abschliefendem gotischem Turmchen,in dem die
+- Miniatur-Standfigur eines Heiligen.Interessantes Stick. Hohe 27 cm.
+- 768 Maria mit dem Kinde. Auf reichem gotischem Throne sitzt die hl. Jungfrau in der vornehmen Tracht des 15.Jahrhunderts. Sie halt mit beiden Handen das auf ihren Knien stehende Jesuskind,das mit kurzem Hemdchen bekleidet ist.Am Thron die Inschrift:Anno Dni 1437.P.P.P.Kupfer,vergoldet. Auf hohem Eichensockel, der bemalt mit Szenen aus dem Leben Jesu und Spruchband. Hohe der Figur34 cm.
+- 769 Maria mit dem Kinde.Vollrund modellierte Figur der hl. Jungfrau in langem Faltengewande.Auf ihrem Haupte tragt sie die Krone.Auf ihrer Linken sitzt das mit langem Traggewande bekleidete Kind. Dasselbe halt in seinen
+- Handen eine Taube.Kupfer,vergoldet.15. Jahrh. Hohe 24,0 cm.
+- 770 Maria mit dem Kinde, vollrund,in langem Gewande, auf der Linken das
+- Kind haltend, dem sie mit der Rechten einen Apfel reicht. Niedriger polygonaler Sockel mit gotischen Vierpafsverzierungen. Kupfer, vergoldet.
+
+Hohe39cm.
+- 771 Gotische Madonna,auf Steinbank sitzend, der Mantel mit Girtel umbunden, das Kopftuch durch Spange gehalten. Auf dem linken Arme halt sie das Jesuskind, in der Rechten eine Rose. Vollrund modellierte Gruppe.
+
+Hohe 23 cm.Schwarzer Marmorsockel.
+
+772 Gott Vater.Ganze Figur, auf einfachem Throne sitzend. Er tragt ein faltenreiches weites Gewand. Das lange Haar und derBart in reichen Locken.In der Linken halt er eine Weltkugel, die Rechte ist segnend erhoben. Figur von einem Sarkophag. Kupfer,vergoldet. 15.Jahrh. Hohe 25 cm.
+
+773 St.Petrus.Vollrunde,trefflich modellierte Figur des Heiligen in stehenderStellung.Er tragt ein langes faltenreiches Gewand. In der Linken halt er das Modell einer Kirche.Seine Rechte ist lehrend erhoben.Kupfer,vergoldet.15.Jahrh.
+
+Hohe 22 cm.
+
+774 Hl.Jacobus maior. Ebenso, mit Wanderstab.15.Jahrh. Gleiche Grofe.
+
+775 Hl.Thomas. Ebenso.15.Jahrh. Gleiche Grofe.
+
+<!-- image -->
+
+Nr.768.
+
+|                                                              | 776 Hl. Johannes. Ebenso,mit Kelch. 15.Jahrh. Gleiche Grofe.   |
+|--------------------------------------------------------------|----------------------------------------------------------------|
+| 777 Hl.Iacobus minor.Ahnlich,mit Buch.15.Jahrh.              | Gleiche Grofe.                                                 |
+| 778 Hl.Philippus.Ahnlich,mit Buch.15.Jahrh.                  | Gleiche Grofe.                                                 |
+| 779 Hl. Bartholomaus. Ahnlich,mit Messer und Buch.15. Jahrh. |                                                                |
+
+Gleiche Grofe.
+- 780 Hl.Paulus. Ahnlich,mit Schwert und Buch,auf einem Konig stehend.15.Jahrh. Gleiche Grofe.
+
+781 Hl.Matthias.Ahnlich.15.Jahrh.
+
+Gleiche Grofe.
+
+782 Hl.Katharina.Ahnlich,mit Schwert.15.Jahrh.
+
+Gleiche Grofe.
+
+- 783 Maria mit dem Kinde in faltenreichem gotischem Gewande,auf dem Haupte die Krone; das Kind sitzt auf ihrem linken Arme und halt in den Handen eine Taube. Hohe35 cm.
+- 784 Maria mit dem Kinde,vollrunde Standfgur in faltenreichem Gewande.Auf ihrem linken Arme sitzt das unbekleidete Jesuskind. Dasselbe fafst mit seiner Hand nach dem Gewande der Jungfrau. Hohe 23,7 cm.
+- 785 Heilige,auf halbrundem Throne sitzend, der mit gravierten Heiligenfiguren verziert. Auf ihrem Schofse halt sie ein Gefaf. Die Linke ist erhoben. Mantelschliefer sowie die Augen aus blauen Steinen. Kupfer,vergoldet. Hohe 16,5cm.
+- 786 Madonna mit dem Kinde,in Aureole stehend. Vollrund in Messing modelliert. Hohe 21 cm.
+
+787 Madonna in ahnlicher Ausfuhrung.
+
+Gleiche Grofe.
+
+- 788 Altarkreuz.Der Fuf breit ausladend,mit durch Einschnirung getrennten, fortlaufenden Reliefs von Fischen in Wasser bzw. Blumen. Darauf erhebt sich glockenformig der Olberg mit reliefierter Szenerie.Dariber in Tempelform vier Saulen mit dem von reliefierten Tieren belebten Dache;auf diesem erhebt sich das Kreuz, vorseitig graviert mit Flammen, Leidensinsignien und Spruch, mit Steinen gefafst, sowie mit den Evangelisten in Eglomise an den vierpafformigen Enden,rickseitig Reliefs sowie vier Eglomiseplatten
+- mit biblischen Darstellungen.Kupfer,vergoldet. 16. Jahrh. Hohe 60 cm.
+- 789 Vortragekreuz. Der grofe Knauf kapellenartig gebildet. Die sechs Kanten mit Ecktirmchen verziert und in gotischem Mafswerk durchbrochen. Das Kreuz mit trefleformigen Enden mit halbrund modelliertem silbernem Christuskorper.Kupfer,vergoldet. Hohe 58,5 cm.
+- den vier Evangelisten und beiderseits graviert und mit Steinen verziert. Hohe 58cm.
+- 791 Christus am Kreuze. Der Korpus flach reliefiertes Kupfer.Totenkopf und Spruchband ebenso. Schwarzes Holzkreuz. Hohe 32,5cm.
+- 792 Renaissance-Vortragekreuz.Auf runder, mit Bossen verzierter Kugel steht das Kreuz, durchbrochen getrieben mit Riemenwerk und mit Silberfolien
+
+Nr.770.
+
+<!-- image -->
+
+unterlegt, die Endbalken vierpafsformig ausgeschweiftund mit aufgesetzten Appliken verziert, die in Goldbronze ziseliert mit Evangelistenfiguren. Der Korpus Hohlguf mit ibereinandergeschlagenen Fiifsen. Hohe 73 cm.
+
+- 793 Vortragekreuz.Die Enden in Kugeln auslaufend,die mit Stern verziert. Unterhalb reliefierte gotische Randbordire.Der Korpus sowie rickseitige Figur der Maria aufgelegt und stark reliefiert gebildet.Der Knauf in flacher Kugelform,verziert mit hochgefafsten Emailplatten mit Profilkopfen (meist fehlend).Kupfer. Hohe 57,5cm.
+- 794 Vortragekreuz,ahnlich,ohneMarienfigur.Kupfer. Hohe 61 cm.
+- 795 Vortragekreuz.Die Armenden in flacherKugelform,mit aufgesetzter Spitze. Korpus vollrund; daruber und daneben aufgesetzt RenaissanceSchriftband und Rundmedaillon mit Evangelisten. Kupfer und Bronze, teils vergoldet.
+
+Hohe 48,5cm.
+
+- 796 Christushorper, vollrund modelliert,mit Lendentuch und gekreuzten Fufen. Kupfer,vergoldet. Hohe 13 cm.
+- 797 Ziborium. Der Hostienbehalter sechskantig,verziert mit gravierter Heiligenfigur. Der Deckel bekront mit vollrundem Christus am Kreuze. Der hohe Fuf unterbrochen von breitem Knauf, der verziert durch Einschnirungen und Gravierungen.Kupfer,vergoldet. Hohe 29,5cm.
+- 798 Ziborium in vergoldetem Kupfer,der runde Fuf und eiformige Schaft ziseliert mit Heiligenfiguren und gefugelten Engelskopfen; der birnformige Hostienbehalter getrieben mit Renaissance-Riemenwerk und Palmetten.
+
+Hohe 28cm.
+- 799 Ziborium,vergoldetes Kupfer, auf rundem,mit gefugelten Engelskopfchen ziseliertem Fufe,der birnformige Schaft und kugelige Hostienbehalter getrieben
+
+Hohe 25cm.
+
+- mit Riemenwerk und Palmettten auf gepunztem Grunde.17. Jahrh.
+- 800 Renaissance-Ostensorium, Rotkupfer,vergoldet. Der sechspafformig ausgeschweifte Fuf graviert mit Blumenstauden und von zierlich gemusterter Ornamentbordure durchbrochen.Der kurze Schaft durchsetzt mit Rundknauf mit strahlenformig auslaufenden Nuppen.Der Hostienbehalter baldachinformig mit kuppelformiger Bedachung,von kannelierten Pilastern getragen.
+
+Hohe 35cm.
+
+- 801 MeBkelch auf sechsfach abgeflachtem,mit Ornamentborduren verziertem Fufe. Der birnformige Schaft ziseliert mit den Leidenswerkzeugen, der Kelch Silber. 17.Jahrh. Hohe 21 cm.
+- 802 Abendmahlkelch,der runde Fufs und eiformige Schaft mit geflugelten Engels-
+- kopfen verziert, der eiformige Kelch Silber, aus Palmetten erwachsend. 17. Jahrh. Hohe 22 cm.
+- 803 Abendmahlkelch,ahnlich,mit Palmettendekor.
+
+Gleiche Grofe.
+
+- 804 Abendmahlkelch, Empire.Auf dem runden,mit Palmetten verzierten Fufe gruppieren sich um den saulenformigen Schaft die vollrund ziselierten allegorischen Figuren von Glaube, Hoffnung und Liebe. Der silberne Kelch wird an der untern Halfte eingefaft von Blumengehange und geflugelten Engelskopfchen. Hohe 32 cm.
+- 805 Ein Paar barocke Altarleuchter auf dreikantigem,reich mit Palmetten und Kartuschenschildern getriebenem Fufe; der vasenformige Schaft eng eingeschnirt
+- und in die Tulle weit verlaufend.Versilbert. Hohe 72cm.
+- 806 Ein Paar Altarleuchter.Ebenso.
+
+Gleiche Grofe.
+
+- 807 Teller. Der Umbo zeigt die Geburt der Venus, der Spiegel fortlaufend eine Amazonenschlacht in starkem Hochrelief.Den schmalen geraden Rand umzieht ein fachreliefiertes Renaissance-Ornament mit Maskarons und Laubwerk. Bronze. Durchm.22,5cm.
+- 808 Ein Paar Renaissance-Tischleuchter auf hohem,mit Fruchtbuketts getriebenem Fufse, der Schaft schraubenformig gewunden. Hohe 22 cm.
+- 809 Weihrauchfaf, kugelformig und reich in gotischen Rankenwerk und Tierfiguren durchbrochen, das in drei Bogenfelder durch Schriftbander geteilt wird.
+- Als obere Bekronung thronartiger Aufbau mit vier sitzenden,vollrund model-
+
+Nr.783
+
+<!-- image -->
+
+lierten Figuren.An den Seiten drei Ringe fir die Ketten. Gefaf und Deckel symmetrisch gebildet.Kupfer,vergoldet. Hohe 16 cm.
+
+- 810 Ewiglichtlampe.Vasenform mit schmalem zylindrischem Leib.Diesen sowie Hals und Fuf umziehen je zwei Reliefbander in Empireblattwerk. Die Lampe hangt an drei Ketten, die an Ringen befestigt,unter denen Engelskopfe. Anf.19.Jahrh. Ganze Hohe 155 cm.
+- 811 Ewiglichtlampe.Vasenformige Leibung mit drei
+- breiten seitlichen Henkeln in Volutform.Der Leib verziert mit drei religiosen Szenen in Barockornamentwerk.Alle Teile reich in Blattund Schnorkelwerk reliefiert. Kupfer,versilbert. 18.Jahrh. Hohe 90 cm.
+- 812 Standuhr,Kupfer,vergoldet, auf ausladendem, mitverschlungenemRiemenwerkverziertem Fufe.Der turmartige Aufbau an den Kanten mit vier kandelaberformigen,reich reliefierten Ecksaulen geschmickt; die Seitenflache graviert
+- mit Palmetten, von einem verschlungenen Bandel-
+
+werk durchsetzt.Unter der kuppelformigen,durchbrochen ornamentierten Bedachung die Glocke,uberragt von Relieffigur der Amphitrite, auf Delphin stehend. Siddeutsche Arbeit.Anf.17.Jahrh. Hohe 35cm.
+
+- 813 Bekronung. Zwei eine Girlande haltende Putten. Kupfer, vergoldet. Hohe 11,Breite 27,5 cm.
+- 814 Wand eines Reliquienschreines.Dieselbe zeigt unter funf romanischen Bogenstellungen die halbrund modellierteFigur des sitzenden Gottvaters sowie vier stehende Heilige. Bogen und Figuren aufgelegt. Der Grund graviert mit Linearmusterung. Kupfer,vergoldet. Hohe 22,Breite 49 cm.
+- 815 Triumphzug der Galatea.Grofes Relief. Rechts der von Seepferden und Delphinen gezogene Muschelwagen, auf dem Galatea mit zwei Gefahrtinnen. Vor demselben schwimmen Nymphen und Muschelhorner blasende Tritonen. Im Hintergrunde die felsige Kuste sowie Hirt mit Herde. Treibarbeit. Kupfer, vergoldet.17.Jahrh. Hohe28,5,Breite 44,5cm.
+- 816 Heilige Familie und die hl.Katharina.Relief. Die Mitte des Bildes nimmt Maria ein, den auf ihrem Schofe stehenden Jesusknaben haltend. Dieser umarmt die rechts kniende hl.Katharina. Links teils am Boden sitzende, schaftlicher Hintergrund.Kupfer,vergoldet. Hohe 34,5,Breite 24 cm,
+- 817 Relief, Halbfgur Christi in einem Wolkengebild, die Rechte segnend
+- erhoben.Vergoldet.18.Jahrh. Hohe 25 cm.
+- 818 Viereckiges Relief,getrieben mit St. Georg im Vorgrunde einer Landschaft,zu Pferde sitzend, den Drachen totend;im Hintergrunde befestigte Stadt.17.Jahrh.
+
+Hohe 20,Breite 23 cm.
+
+- 819 Plakette.Dornenkronung:Christus, sitzend,umgeben von den Henkersknechten, die ihn verspotten und mit Dornen kronen.Hochrelief. Kupfer,
+- versilbert.
+
+Oval.Hohe 5,Breite 4cm.
+
+- 820 Kupferstichplatte mit dem Triumph-
+- zug der Cybele. Italien.17. Jahrh. Hohe 32,5,Breite 42,5 cm.
+- 821 Zwolf Kupferstichplatten,Karikaturen von J. Callot, gestochen von M.Haye.1625.12 Stuick.
+
+Linge 9,Breite 6cm
+
+Nr.788.
+
+<!-- image -->
+
+- 822 Gottvater,fast vollrund,sitzend dargestellt.Die Rechte erhoben,in der
+- Linken das Buch. Aufgelegt auf ovaler gepunzter Platte. Messing, vergoldet. 15.Jahrh. Hohe 13,5,Breite 6,5 cm
+- 823 Ein Paar Altarleuchter.Der Sockel dreieckig,auf Lowenklauen ruhend. Er
+- ist mit Blattvoluten und grofsem Ovalbuckel verziert. Der hohe Schaft mit reicher vasenformiger Gliederung und mit drei Puttenkopfen verziert. Messing. 18.Jahrh. Hohe75cm.
+- 824 Zunft-Anhangeschild in Form eines gekronten Wappens.Die Vorderseite graviert mit der Standfigur des hl. Ulrich.Die Rickseite mit Wappen und Aufschrift: EIN·EHRSAMINES·HANDWERGH·DER·LEINWOBER·ALDA//JACOB
+- STALLER ELTISTER·VORGEHER·SIMON.HEBENSTEIN.PEISIZER. MICHAEL·SCHNIZER ALTGESOL.IOHANN.GINGINGER 1697.Zinn.
+
+Hohe 33,5,Breite 21 cm.
+
+- 825 Weinkanne.Hohe Zylinderform mit leichter
+
+Hohe 40,5cm.
+
+- Fufausladung. Der Schraubdeckel geziert mit ringformigemTragknopf.Langer gedeckelter Ausgufs.Seitlich erhabene Rokokokartusche mit HH S ZL 1713.Zinn.
+- 826 Zinnteller. DerFond zeigt ein Rundmedaillon mit der Darstellung der Auferstehung des Herrn in fachem Hochrelief.Der breite gerade Rand zeigt in gleicher Technik abwechselnd fast ovale Felder, Renaissancefiguren von Engeln mit Leidenswerken oder
+- Maskarons mit Rankenwerk.In erstern Standreligiosen Insignien. Darchm.19cm.
+- 827 Gewirzkanne,hoch und sechseckig,mit Schraubdeckel.DieSeiten graviert mit reichem Barockrankenwerk mit Ovalschildern und Vogeln.Proflierter Tragring.Zinn.In einem
+- Schild:HNR 792. Hohe 21,5 cm.
+- 828 Satyrweib,auf Postament sitzend,neben ihr kleiner Faun.Vollrunder Blei-
+- guf mit gruner Patina. Italienisch. Hohe 15cm.
+- 829 Runde Bleiplakette.Merkur,den Hirten Argus totend.Im Vorgrunde der Gott,in den Handen das Schwert und das Haupt des Hirten haltend, dessen Leichnam zu seinen Fufen liegt.Links setzt Juno die Augen des Getoteten in den Pfauenschweif. Reiche Landschaft mit Jagdszenen und weidenden Herden. Bewolkter Himmel, an demselben Juno in von zwei Pfauen ge zogenem Wagen.Bleiguf.Deutsch.16.Jahrh.P. Flotner.
+
+Nr.789.
+
+<!-- image -->
+
+Durchm.18 cm.
+- 830 Runde Plakette. Heimkehr eines romischen Feldherrn.Komposition von Hendrik Goltius. Die Mitte nimmt die Figur eines Feldherrn ein, der,gefolgt von seinem Heere, der links liegenden Stadt zusprengt. Aus derselben schreiten ihm Ehrenjungfrauen begrifend entgegen.Landschaftlicher Hintergrund mit zahlreichen Bauten und der vonSchiffen belebten See.Bezeichnet1565.Blei.
+- Durchm.18cm.
+- 831 Runde Plakette mit dem Brustbilde Heinrichs IV.von Frankreich und seiner Gemahlin.Bezeichnet:Dupre f.1605. Durchm.18cm.
+- 832 Runde Renaissance-Plakette,Allegorie auf die Musik.Im Mittelgrunde einer Landschaft sitzt auf hohemFelsen Apollo, die Leier spielend; um ihn in malerischer Gruppierung musizierendeFiguren. 16.Jahrh. Durchm.17cm.
+- 833RundeRenaissance-Plakette. Vulkan schmiedet die Flugel Amors.Im Vorgrunde einer Landschaft bei brennender Esse ist Vulkan mit seinen Gesellen an einemAmbossebeschaftigt;seitlich Venus und Amor zuschauend. Lorbeerkranzumrahmung. Durchm.17cm.
+- 834 Runde Renaissance-Plakette.Higelige, von Burgen bestandene Flufslandschaft mit zierlicherFigurenstaffage. ImVordergrunde fuchtende Nymphe, von Satyr 'verfolgt. Durchm.17 cm.
+- 835 Runde Plakette.Urteil Salomos.Vor reicharchitektonischem Bau sitzt Salomo auf dem Throne, zu seiner Seite ein Berater sowie Liktoren. Vor ihm streitend die beiden Frauen, sowie der Leichnam des einen Kindes. Links ein Krieger,im Begriff,das andere Kind zu toten. Landschaftlicher Hintergrund.Bleiguf.16.Jahrh. Durchm.17cm.
+- 836 Viereckige Renaissance-Plakette mit dem hl.Joseph,bei Hobelbank stehend;
+- neben ihm Christusknabe,eine Sage reichend. Hohe 10,Breite7 cm.
+- 837 Medaille mit den Kopfen von L.und J. Medici,auf die Vergroferung der Pazzi 1478. Durchm.6cm.
+
+Nr.792.
+
+<!-- image -->
+- 838 Ovale Dose in abgeflachter Kugelform. Boden und Deckel durchbrochen ornamentiert und ziseliert mit ippig verschlungenem Renaissance-Laubwerk. Hohe 2,Lange S,Breite 6 cm.
+- 839 Eiserne Geldkiste auf hohem Sockelfufs, der bemalt mit Putten und Blattwerk.Seiten und Deckel durch Querbander in viereckige Felder geteilt,in
+
+Nr.809.
+
+<!-- image -->
+
+denen gemalte Landschaften mit Figurenszenen,allegorische Darstellungen der Jahreszeiten, Glaube, Liebe, Hoffnung usw. Die Bander mit Blattwerk. Schmiedeeisen.Das Schlof graviert.18.Jahrh.
+
+Hohe 36,5,Breite 69,
+
+Tiefe38cm.
+
+- 840 Kassette,viereckig,aufKugel-
+- fuifen ruhend. Die Seitenwande und der Deckel geatzt und graviert mit Vogelfiguren und Arabesken in Feldereinteilung. 16.Jahrh.
+
+Hohe 10,Lange 16,6 cm.
+
+- 841 Kassette,rechteckig.DieSeiten verziert mit aufgelegten Spiralen in Feldereinteilung. Die Ecken sowie der Deckel verziert mit vollrund modellierten Drachenfiguren, Schlange und Blattwerk.
+- 16.Jahrh.
+
+Hohe 24,Lange 36 cm
+
+- 842 Kassette,viereckig,mit geschragtem Deckel,auf vier Kugelfufen ruhend. Die Seitenwandungen silbertauschiert mit Architekturen und von Vogelfiguren belebtem Blumenwerk; die Kanten zieren Goldbronzebeschlage, ziseliert mit Palmetten und gefafst mit Turkisen.18.Jahrh.
+
+Hohe 7,Lange 12, Breite 8 cm.
+
+- 843 Wanduhr.Die Vorderplatte fast rund,aufs reichste mit reliefiertem Rankenwerk verziert. Kupfer,versilbert. Das Gehause Eisen.17. Jahrh.
+- Durchm.der Vorderplatte 48 cm.
+- 844 Wanduhr. Das Zifferblatt in Form dreier Heiligen,ihr Haupt in der Hand haltend. Das Raderwerk sowie das Gestell teilweise graviert. Mit Schlagwerk.17.Jahrh. Hohe 45,Breite 23 cm.
+- 845 Kaminplatte. Die Mitte nimmt ein grofes vierteiliges Wappen ein. Dasselbe ist umgeben von einem Eichenkranz und schwebenden Engeln mit Girlanden und Tuchern. Hochreliefert. Eisenguf.18.Jahrh.Hohe 135,Breite 107 cm.
+- 846 Viereckige Plakette,hoch getrieben mit dem Brustbilde Karls IX.von Frankreich in reich gesticktem Wams,mit Ordenskette geschmickt; den Hals umschliefst eine Spitzenkrause; den Kopf bedeckt ein Federbarett,gefafst mit kleinen farbigen Steinchen. 16. Jahrh. Silbertauschiert und teilweise vergoldet. Hohe 18,Breite 17 cm.
+- 847 Runde Plakette,komponiert von Donatello.Hinter einer Estrade steht die Halbfigur eines Satyrs und Manade. Ersterer mit umgiirtetem Bocksfell, das Haar mit Efeukranz geschmuckt. Die Manade in leicht geschirztem Gewande, die Brust in ein Trinkhorn ausdrickend. Silbertauschiert. Durchm.18cm.
+- 848 Renaissance-Prunkschlissel. Der Griff ein reiches vierkantiges Kapitell, auf
+
+Nr.812.
+
+<!-- image -->
+
+Lange 20,5 cm.
+
+- dem aus einem Puttokopf erwachsendeKaryatide,mit oberm architektonischem Abschluf. Zu den Seiten je ein vollrunder Greif. Der Schaft mehrkantig. Der Bart in Form eines B. Eisen.mit Silber und Gold tauschiert.
+- 849 Prunkschliissel. Der Griff in Form zweierRenaissance-Greifen, die auf reichem Kapitell stehen.Der Schaft rund, mit reich durchbrochenem Barte. Eisen mit reicher Silbertauschierung. Linge 20,5cm.
+
+Nr.834.
+
+<!-- image -->
+
+Nr.832.
+
+Nr.829.
+
+- 850 Renaissance-Schliissel.Der Griff in Form zweier Greifen, dazwischen Maskaronkopf. Der Schaft vierkantig mit oberm Kapitell, der Bart mehrzackig. Eisen, vergoldet. Italien. Hohe 12,5cm.
+- 851 Schlissel. Der breite Griff in Form eines Renaissance-Basilisks. Der Schaft rund,breiter dreiteiliger Bart. Eisen, silbertauschiert. Lange 13,5cm.
+- 852 Harnisch. Die gewolbte Brust mit leichter Mittelrippe und Reliefdekor: Ovalfeld mit Reiterschlacht,Lowenkopf,Kriegerkopf und Waffentrophae. Das Ruckenteil mit abwechselnd glatten und reliefierten Langsfeldern mit Blattwerk und Kriegerfigur. Eisen, mit Gold und Silber tauschiert. Italien. Hohe47,Breite40cm.
+- 853 Brustharnisch mit Reliefschmuck. Die Mitte zeigt ein von zwei Putten gehaltenes Ovalmedaillon mit der Flora.Die ibrige Flache bedecken RenaissanceRankenwerk, Lowen, Maskaronkopfe sowie Waffenembleme. Bronze,grin patiniert. Italien. Hohe47,Breite37cm.
+- 854 Brustpanzer, verziert mit auf Adler reitendem Zeus,in der Rechten die Blitze haltend, und zwei Wappen, Maskaron und Faunkopf. RenaissanceBlattwerk.Italien. Hohe 45 cm.
+- 855 Brustpanzer.Die gewolbte Brust verziert mit unterm Maskaron (Medusenhaupt), dariber in starkem Relief muschelformig angeordnete Keile mit Schuppen und Langsfurchen. Oberhalb Tierkopf und zwei Wappen. Bronze. Hohe 45cm.
+- 856 GroBer Schild,rund und gewolbt.Denselben ziert ein grofes Medusenhaupt in starkem Hochrelief. Den Rand umzieht ein Kordelflechtwulst. Eisen. Durchm.60cm.
+- 857 Rundschild, leicht gewolbt und reliefiert mit der Darstellung des hl. Martin, der mit einem Bettler seinen Mantel teilt.Landschaftlicher Hintergrund Der Rand mit Renaissance-Blattwerk,Waffentrophaen usw. Eisen,getrieben und gepunzt. Durchm.60cm.
+- 858 Morion, getrieben und graviert mit zwei hochreliefierten historischen Szenen inRundmedaillons, Renaissance-Maskaronkopfen und phantastischen Vogelgestalten. Kamm und Rand mit Kordelflechtwulst, gravierter Blattbordire undRosettnageln. Hohe 32 cm.
+- 859 Morion, geatzt und graviert mit der Standfgur des hl. Christophorus bzw. des hl. Petrus in ovalem Lorbeerkranz. Die ibrige Flache der Kappe sowie der hohe Kamm ist mit Renaissance-Arabesken verziert. Der an Vorderund Rickseite spitze Rand mit Flammenmuster. Hohe 30 cm.
+- 860 Renaissance-Sturmhaube in hoher Birnform.Der flache Rand zeigt in hochreliefierter Treibarbeit konzentrische Ringe,in denen relieferte Eisennagel auf rosettenformigen Kupferplatten.Auf den Seitenwangen Wappenschilde, von Greifenfiguren gehalten und Rundmedaillons,in denen Kriegerbiste und Ritter zu Pferde.Der Kamm von Kordelflechtbordire eingefafst.
+
+Nr.841.
+
+<!-- image -->
+- 861 Sturmhaube in Birnform.Der gerade Rand in Schuppenmusterung,getrieben und durchsetzt vonWappenund Kartuschenschild mit Aufschrift:LIBERITAS. Die Haube hoch getrieben mit ippigem Renaissance-Rankenwerk, durchsetzt von Lowenmasken und Medusenhaupt. Hohe 20 cm.
+- 862 Hausse-colle,geziert mit hochreliefierter Schlachtdarstellung. Bronze,schwarzbraun patiniert. Hohe 12,Breite 20 cm.
+- 863 Hellebarde.Das breite Beil mit hochgehender Spitze und schrager Schneide. Die Hacke mit geradem Rucken,die Spitze vierkantig. Mit Waffenschmiedsmarke. Runder Holzschaft.16. Jahrh. Lange 75 cm.
+- 864 Hellebarde mit breitem Beil und schrager Schneide.Die Hacke kurz. Die Spitze lang,vierkantig.17.Jahrh. Lange 87 cm.
+- 865 Hellebarde. Die lange, nach unten gebogene Hacke mit drei Lochern verziert. Die Spitze vierkantig. Das Beil (erganzt) mit ausgeschweiftem Rand und ausgeschnittenem Kreuz,lange Schaftbander.16. Jahrh.
+
+Nr.846
+
+<!-- image -->
+
+Lange 107 cm.Holzschaft.
+- 866 Hellebarde. Das breite Beil mit ausgeschweiftem Rande und schrager Schneide. Die Hacke kurz und breit. Der Spief lang und vierkantig.Lange, ausgeschweifte Schaftbander.Der Schaft vierkantig. Mit Waffenschmiedsmarke. 16.Jahrh. Lange 72 cm.
+
+Nr.853.
+
+<!-- image -->
+
+Nr.854.
+
+Nr.852.
+
+- 867 Hellebarde,mit schmalem durchlochtem Beil, die Schneide geschweift, mit drei Zacken versehen, die Spitze lang und vierkantig. Lange 92 cm.
+- 868 Sponton. Die Spitze blattformig, mit starker Mittelrippe. Die Tulle lang,mit ringformigem Zwischensatze und S-formigem Knebel. Holzschaft mit Eisenschutz.18.Jahrh. Lange 89 cm.
+- 869 Sponton. Die Spitze blattformig. Die Tulle vierkantig,mit profilierten Ringen und rickwarts gebogenem Knebel. Mit Eisenschutz. 18. Jahrh.
+
+Lange 89 cm.
+
+- 870 Sponton. Die Spitze lanzettformig, mit hoher Mittelrippe, am untern Ende ausgeschnitten. Die Tille profiliert mit S-formigem Knebel,am untern Ende lange Schaftbander.18. Jahrh. Lange 68 cm. Holzschaft.
+- 871 Morgenstern,oben keulenartig erbreitert,dreikantig. Die Verdickung mit Stacheln besetzt und oben lange Spitze und Zwinge. Lange 202 cm.
+- 872 Pulverflasche in flacher Vasenform.Vorder- und Rickseite verziert mit Ovalmedaillon, darin Wappen bzw.stehende mannliche Figur. Die ibrige Flache verziert mit leichten Ranken, Tieren und Figuren in Meissonierschem Geschmack. Seitlich zwei Tragringe, aus Konsolen erwachsende Putten. Eisen, silbertauschiert. Hohe 20 cm.
+- 873 Dolch.Der Griff in Form dreier Amoretten,die Frichte tragen und auf einem Blumensockel stehen.Die Parierstange in Form von in Widderkopfen endenden Renaissancesaulen.Dazwischen die Aufschrift:I.ERCVL·DVX FER RARIE DEVS FORTIT MEA. Die Stahlklinge vierkantig. Bronze,braun
+- patiniert.Italien.Mit Lederscheide. Linge 26 cm.
+
+Nr.859.
+
+<!-- image -->
+
+Nr.858
+
+Nr.860.
+
+- 874 GroBes Weidmesser mit Jagdbesteck.Der Griff schwarzes Horn,in Flechtmusterung geschnitten und gefafst mit grofsem Goldtopas. Messer und Gabel in derselben Anordnung. Die Scheide schwarzes Leder, reich in Silber gefaft und hochgetrieben mit blihenden Disteln und Kartuschenschildchen. Englische Arbeit.19.Jahrh. Lange 52 cm.
+- 875 Helm und Armschiene.Helm halbkugelformig,mit hoher vierkantiger Spitze und verstellbarem Nasenschutz.Am untern Rand Kettenschutz. An der Vorderseite zwei Federtuillen.Die ganze Flache durch mit Gold tauschierte Bander in Felder geteilt, in denen Figuren und Figurengruppen. Untere Randbordure mit Feldern,in denen abwechselnd Figuren in Schriftzeichen.Eisen,geatzt,in Gold tauschiert. Hohe 26,Durchm.21 cm.
+
+Armschiene (Unterarm).Eisen,geatzt und goldtauschiert mit Figuren in Landschaften in ibereinander angeordneten Feldern. Der Rand mit Spruchbandborduire. Lange 33 cm.
+
+- 876 Schild,rund und gewolbt, verziert mit reichen Figurenschmuck in starker Atzarbeit. Die ganze Flache durch goldtauschierte Bander in Felder geteilt, in denen die einzelnen Figurengruppen.Den aufern Rand umzieht ein doppeltes Spruchband in gleicher Technik. Auferer Wulstrand sowie vier starke goldtauschierte Buckel als weiterer Schmuck Durchm.61cm.
+- 877 Kassette,viereckig,die Aufenseiten und der Deckel verziert mit gold-
+- umranderten Medaillons,in denen figurliche Darstellungen oder Blumen. Den Rand des Deckels sowie seine Leiste umzieht ein goldtauschiertes Arabeskenband mit Schriftmedaillons. Eisen, geatzt und goldtauschiert.
+
+Hohe 12,Lange 18,5 Breite 25 cm.
+- 878 Ein Paar Vasen, Eisen,in leicht verschiedener Art goldtauschiert mit medaillonartigen Arabesken. Den langen Hals trennt vom bieiten birnformigen Rand ein breites Ringband mit gedrehten steigenden Blattranken,die Stopsel in hoher Spitzenform. Hohe37cm.
+
+Nr.850.
+
+Nr.851.
+
+Nr.848.Nr.S73. Nr.849.
+
+<!-- image -->
+
+- 879 Vase. Auf niedrigem ausladendem Fuf erhebt sich die kugelige Leibung.
+- Der Hals ist lang trichterformig, an seinem Fufe ein Ring mit zwei aus nach unten gerichteten Schlangen gebildeten Henkeln.Alle Teile mit Gold tauschiert und mit Medaillons,in denen Blumenbuketts, Vogel, Blattwerk in Atzarbeit. Hohe34cm.
+- 880 Deckelpokal mit breit ausladendem Fuf. Der Schaft durch einen Knauf untermit zierlichen Arabesken,in Gold tauschiert. Ganze Hohe36 cm.
+
+8
+- 881 Gedechelte Kumpe,kugelig, mit niedrigem Fufsring.Die Aufsenseite verziert mit Medaillons,in denen Blumenbuketts, Blumenwerk und Arabesken in tiefer Atzarbeit. Die Medaillons umrahmt und verbunden durch eingelegte Goldbander (goldtauschiert). Als Bekronung ein Kugelknopf. Hohe 24,5 cm.
+- 882 Gedeckelte Kumpe,ahnlich,mit Blumen und Schrift.
+
+Nr.875.
+
+<!-- image -->
+
+Hohe 18 cm.
+
+- 883 Platte, rund,mit ansteigendem Rand, ahnlich geatzt und goldtauschiert. Durchm.27cm.
+- 884 Moscheelampe, kugelformig, mit oberer Abfachung und breitem Ringrand. Alle Teile uberaus reich durchbrochen in Arabesken, Schriftzeichen und Bandwerk. Unterer Abschluf in Form eines Halbmondes. An drei Ketten hangend, mit oberm rundem Verbindungsstick zum Aufhangen. Hohe50cm.
+- 885 RauchergefaB, kugelformig, verziert mit reliefierten Blumen in Medaillons. Der Deckel entsprechend durchbrochen. Hohe 14 cm.
+- 886 Handspiegel,rund. Die Ruckseite verziert mit stilisiertem Kranich in Kerbschnitt auf gekorntem Grunde und Inschrift.Der gerade Stiel mit Stroh umwickelt.Kupfer,versilbert.Japan. Durchm.24cm.
+- 887 Foohund, stehend,mit breitem Schweif, den Kopf nach hinten gewendet. Zinkgufs.Bronzefarbig lackiert. Hohe36cm.
+<!-- image -->
+
+Nr.929.
+
+## Arbeiten in Silber und Gold.
+
+- 888 Vortragekreuz,die Balken mit Silberplatten belegt,die getrieben mit gotischem Ornamentwerk und Palmetten,die Endigungen vierpafsformig ausgeschweift und getrieben mit den Symbolen der Evangelisten. Der Korpus hohl ge-
+- trieben,die Fufe ubereinander geschlagen. Lange 48 cm.
+- 889 Gotisches Reliquiar.Der Fufs in Kranzform,verziert mit graviertem Mafwerk und aufgelegten Krabben und Drachenfiguren;in den Zwickeln Kapellen mit Figuren. Der Schaft, sechskantig, tragt eine obere Platte, auf der sich der turmformige Reliquienbehalter erhebt, zu seinen Seiten je eine vollrunde Engelfigur auf sechskantigem Sockel. Sie halten in den Handen Kerze und Spruchband. Hohe44cm
+- 890 Reliquiarin Form eines auf Vasenschaft ruhenden Vierpasses mit kreuzformigem Reliquienraum und verziert mit aufgelegtem Schnorkel-und Blattwerk,Steinen
+- und Perlen. Am Fufse zwei vollrunde Engelsfiguren. Silber, vergoldet. Hohe 13,5 cm.
+- 891 Reliquienkasten,viereckig,mit Spitzgiebeldach,die Flachen allseitig mit Silberfolien belegt,die getrieben mit figurenreichen biblischen Darstellungen und Renaissance-Kartuschenschildern; die Kanten von profilierten Messingstabchen eingefafst.Italienisch. Hohe 15,Lange 23,Breite 12 cm.
+- 892 Monstranz mit breit ausladendem Fufe und hohem vasenformigem Schafte, der reich verziert mit stark reliefiertem barockem Blattwerk und vollrunden Engelskopfen. Der runde Hostienbehalter von gleichem Kranz umgeben und einem Kranz von Strahlen, zwischen denen abwechselnd Engelskopfe und Blattmuster.Marken und Jahreszahl 1702. Hohe 33,5 cm.Slg.Castello dEboli
+- 893 Christus besiegt den Unglauben. Christus reitet auf einem majestatisch dahinschreitenden Pferde aus Goldbronze mit reichem Silberzaumzeug. Er tragt ein weites Pilgergewand, dariber einen mit rotem Emailkreuz verzierten Panzer. Das lang gelockte Haupt schmickt ein durchbrochener Scheibennymbus. In der Rechten halt er ein Flammenschwert, mit dem er nach der eines vollrund modellierten orientalischen Kriegers in Lederpanzer und Turban. Er offnet schreiend den Mund und sucht mit der Hand den Stofs abzuwehren. Italien.15.Jahrh.Auf Holzplatte. Hohe 38 cm.
+- 894 St. Michael.Vollrund gebildete Figur des hl. Erzengels in eilend fliegender Stellung,in der Linken halt er das Flammenschwert. Er tragt eine phantastische Rustung, den Helm mit grofen Federn verziert.Die Fleischteile und Schwert Silber, die Kleidung in Goldbronze. Er steht auf der liegend wiedergegebenen Figur des Teufels (braun patinierte Bronze), der erschreckt zu ihm aufblickt. Holzsockel in Form von Felsgestein,aus dem Flammen emporsteigen. Italien. 17.Jahrh. Hohe 69cm.
+- 895 Maria mit dem Kinde,vollrund getrieben und vergoldet. Die hl. Jungfrau auf gotischem Throne sitzend,in langem Gewand und dreizackiger Krone. Auf ihrem linken Fufe sitzt das bekleidete Jesuskind, dem sie die Brust reicht. Hohe 16,Dcm
+- 896 Ziborium, der Fuf breit ausladend, der Schaft mit zwei schmalen Knaufen, der Deckel bekront von reich durchbrochener Barockkrone. Um Fuf,Knaufe und Deckelrand ziehen sich Empirebander mit Palmetten, Blumen und Perlen-
+- muster.Silbermarken.J.G.Dutalis,Brissel. Hohe50cm.
+- 897 Marienkrone, durchbrochen ornamentiert mit Riemenwerk und Palmetten, gefafSt mit zahlreichen Edel- und Halbedelsteinen. Mit Uberlinger Beschauzeichen des 17. Jahrh.Meisterzeichen S.P. Hohe 17 cm.
+- 898 Kruzifix,der Korper vollrund modelliert mit (vergoldetem) Lendentuch, das Haupt nach links geneigt, die Fufe gekreuzt. Unterhalb vollrunder Totenkopf,oberhalb Inschriftplatte.17. Jahrh.Das Kreuz imitiertes Schildpatt. Hohe des Korpus 21 cm.
+- 899 Christuskorper mit ibereinandergeschlagenen Fufen und gesenktem Haupte. Vollrund modelliert. 18. Jahrh. Hohe 8 cm.
+- von Felsblocken,auf denen in Silber die vollrunden Figuren:Pferd, Kamel, Krokodil und Tiger als Allegorie der vier Weltteile sowie eine Biene und ein Phonix in einem Neste,darunter Spruchbander:In nidulo meo moriar, ut Phoenix multiplicabo."Die Seiten der breiten Fufplatte verziert mit sechs fachen Hochreliefs mit Darstellungen der Schopfung.Auf derPlatte erheben sich drei Felsen, die sich zu einer Hohle vereinigen. Am Fufe eines jeden vollrunde allegorische weibliche Figur mit den Insignien von Feuer, Wasser und Erde (Silber),umgeben von vollrund modellierten entsprechenden Tieren,teils in Silber,teils in Goldbronze.Auf dem Felsen ruht die Himmelskugel, vergoldet, die Gestirne in Silber aufgelegt, sowie ein Band mit den Sternbildern.Um die Kugel lauft unten ein breites Band mit leicht relieferter Darstellung des von Booten belebten Meeres, einer Stadt und einer Gebirgslandschaft mit feuerspeienden Bergen. Als oberer Abschluf Wolken, auf denen stehend eine weibliche Figur schwebt, die durch Libellenflugel als Luft charakterisiert. Zu ihren Fufen ein Pfau. Einzelne Teile zum Offnen mit Tintenfafs, Sandstreuwerk. Das Ganze ruht auf niedrigem schwarzem Holzsockel. Wirkungsvolles treffliches Stick. Goldbronze und Silber. Augsburg. 17.Jahrh. Hohe 62,5,Durchm.57 cm.
+- 901 Schreibzeug,Empire.Auf ovalem,mit Akanthusblattwerk getriebenem Sockel steht die vollrund getriebene Statuette der Minerva in voller Ristung, in der Rechten den Speer haltend; seitlich zwei mit Lorbeerkranzen verzierte Rundsockel, in die Tinten- und Sandfaf eingelassen. Als Deckelknopf dienen vollrund ziselierte Putten.Mit italienischem Beschauzeichen.
+
+Hohe 23,Breite 33 cm.
+
+- 902 Fruchtschale.Der Fufs rund, verziert mit reliefiertem Renaissance-Blattwerk und Vogeln. Der Schaft mit zwei vollrunden, aus volutformigem Blattwerk entspringenden Frauenbusten.I Die Schale oval mit den Schaftfiguren ahnlichen Henkeln. Schale mit starken Buckeln und umgeschlagenem ausgeschweiftem Rande.Silber,vergoldet. Hohe 18 cm.
+- 903 Scherzbecher (Hansel im Keller). Die breite Schale, sechsfach ausgeschweift, enthalt in der Mitte einen halbkugeligen Buckel, aus dessen oberer Offnung beim Fuillen ein (schwimmendes) mannliches Figurchen erscheint. Fuf und Schale reich mit reliefiertem Blattwerk geschmickt. Mit Kopenhagener Beschauzeichen. Hohe15cm.
+- 904 Hoher Deckelpokal. Der hohe Fuf und der Deckel verziert durch Buckel, darum flaches Renaissance-Bandwerk. Der vasenformige Schaft und der eingeschnirte Kelchmit Reliefdekor,andwerk,Blatt und Blumenmotiv,Maskaron, Bisten usw. Als Deckelknopf auf Kugel stehende Figur des Glicks. Zwischen Fufs und Schaft, Schaft und Kelch sowie unter der Kugel ein Kranz von frei gearbeiteten grofen Blattern. Mit Marken und Beschauzeichen. Silber, teils vergoldet. Hohe 45,5cm.
+- 905 Deckelpokal mit reichem Renaissance-Schmuck, zumeist in Treibarbeit, der
+- Fuf ausladend,mit Blumenrosetten geschmickt.Der Schaft mit entsprechendem Knauf und sechs frei gebildeten Voluten. Der Kelch eingeschnirt mit Muscheln in Rundmedaillons,Blumenkranz, Bossen und Bandwerk.Der Deckel entsprechend mit Muschel und Blumendekor mit frei gebildetem Blattwerkknopf. Mit Marken und Nirnberger Beschauzeichen.
+
+Hohe 37 cm.
+
+Nr.891.
+
+<!-- image -->
+
+- 906 Deckelpokal,kelchformig, mit hohem Vasenschaft. Fufs und Kuppa durch Bander in drei Felder geteilt, darin Rokokokartuschen. Der Deckel entsprechend mit Blumen. Als Knopf Blumenvase. Meistermarke G. V. und Uberlinger Beschauzeichen. Silber, getrieben. Hohe35,5cm.
+- 907 KokosnuBbecher. Der hohe Fuf mit Reliefschmuck, der Schaft in Form eines Putto in Phantasieristung. Die Nuf reliefert mit drei Kriegsszenen in figurenreichen Kompositionen. Dieselben sind getrennt durch drei breite Renaissance-Bander in durchbrochenem Silber, die die unterste rosettenformige Tragplatte und den gravierten Lippenring verbinden. Der Deckel graviert und reliefiert mit Maskaronkopfen in Medaillon und Rankenwerk. Als Bekronung hornblasender Putto. Im Innern Initiale T mit Schlange und Umschrift. Die Fassung Silber,vergoldet. Hohe 24,5cm.
+- 908 KokosnuBbecher.Der hohe Fuf mit Renaissance Ornamenten in Relief. Die Nuf geschnitten mit Profikopfen in Renaissance-Bandkartuschen.Der obere Rand graviert. Mit Marken. Silber, vergoldet. Hohe 26 cm.
+- 909 Nautilus, der Fuf rund, der Schaft in Form eines vollrund modellierten Meergottes, die Muschel von vier blattformigen Bandern umzogen. Der obere Silberrand graviert mit Flufgottheiten in Ovalen zwischen Bandwerk, vorn reliefierter Lowenkopf.Als Deckelknopf auf Delphin reitender Neptun. Mit Marke. Hohe 25 cm.
+- 910 MeBkelch mit Patena.Der breite ausladende Fuf reich reliefiert in EmpireBlattmuster. Der hohe Schaft vasenformig, graviert mit Rebenlaub. Die Kuppa, hoch und leicht ausladend,ist im untern Teil reliefiert mit drei
+
+kopf und Kreuz,dazwischen Fruchtgirlanden,unterhalb Palmettemuster, oberhalb Perlkranz in Rebenbordure. Mit Beschauzeichen.Rom.Anf.19.Jahrh. Hohe 28,5cm.
+
+Medaillons,ndenenChristuskopf,Marien-
+
+- 911 MeBkelch.Der Fuf breit.ausladend, der Schaft vasenformig,der Kelch hoch mit ausladendem Rand. Der untere Teil desselben sowie die andern Partien in reichem Reliefschmuck der Spatrenaissance verziert und mit je drei vollrund gebildeten Engelskopfen geschmickt. Silber, der Kelch innen vergoldet.Mit Marke. H8he22,5cm.
+- 912 Kelch. Der Fuf sechsfach ausgeschweift und entsprechend mit sechs Buckeln. benen Heiligendarstellungen und mit aufgelegten Emailplatten.Der Schaft vasenformig,mitgraviertemoderreliefier-
+- Dieselben abwechselnd mit hochgetrietem Barockschmuck.Die Kuppa im
+
+<!-- image -->
+
+untern Teile dem Fuf entsprechend dekoriert, im obern Teile glatt, mit ausladendem Rand. Silber, vergoldet. Bezeichnet: C. Keller. Auf einer Emailplatte Jahreszahl 1683. Hohe30,5cm.
+
+- 913 Kelch. Der Schaft vierkantig in Vasenform. Der Fuf breit, mit ausgeschweiftem Rande,verziert mit graviertem,leicht reliefertem Muschelwerk. Der Kelch im obern Teile achtkantig, graviert mit Rokoko-Ornament und judischen Aufschriften.Im untern Teil eirund und mit gedrehten Palmetten. Meistermarke und Nirnberger Beschauzeichen. 18. Jahrh: Hohe 12 cm.
+- 914 Becher.Ahnlich gebildet. Mit Resten von Vergoidung.
+
+Hohe12cm
+
+- 915 MeBkelch mit Patene. Den hohen Schaft bedecken allseitig frei aufliegende, halbrund gebildete Ahren. Dariber ein freigebildetes Rebenastwerk,das sich oben zu einem Knauf erbreitert und auch die Halfte der hohen Kuppa bedeckt. Im Boden eingraviert Wappen. Silber, vergoldet. H6he27cm
+- 916 MeBkelch mit Patene.Der runde, sechsfach abgeflachte Fufs auferst hoch getrieben mit biblischen Darstellungen in ausgeschweiften Feldern, die durch Palmetten getrennt; der vasenformige Schaft ziseliert mit geflugelten Engelskopfchen inKartuschenumrahmung.Auf der Kuppa desKelchs Ovalmedaillons mit den Brustbildern von Christus,Maria und Petrus, umrahmt von Riemen-
+- werk.Mit Pariser Beschauzeichen des 19.Jahrh.Vergoldet.
+
+Nr.893.
+
+<!-- image -->
+
+Hohe30cm.
+- 917 Deckelhumpen. Die zylindrische Leibung schmicken zwei biblische Szenen in starkem Relief:Daniel in der Lowengrube und Jonas. Der Deckel verziert mit reliefierten Renaissance-Fruchtgirlanden. Im Deckel Allianzwappen. Silber,teils vergoldet. Meistermarke und Beschauzeichen. Hohe 22 cm.
+- 918 Dechelhumpen,zylindrisch, mit breitem Fuf. Der zylindrische Leib verziert mit Putten in Landschaft,umrahmt von reliefiertem Frucht-und Blattwerk, das von Tieren belebt. Der Henkel einfach, der Deckel mit Blattkranz und eingelassenem Portraitmedaillon Boguslaus, Herzogs von Radziwill, Rucks. seine Gemahlin Anna Maria.Um ersteres graviert:Christian Kreitzschmer der Elter A°1686.MitMarken. Hohe 20 cm.
+- 919 Dechelhumpen mit Reliefschmuck. Die Vorderseite verziert mit Kartenspielern in einer Wirtsstube.Die ibrige Flache mit Renaissance-Band und Blattwerk und flachen Bossen.Der Henkel mit vollrunder weiblicher Karyatide.Der
+
+Hohe 18 cm.
+
+- Knopf Weintraube. Meistermarke und Nurnberger Beschauzeichen.
+- 920 Gehenkelter Deckelbecher,zylindrisch,verziert mit leichtreliefiertem Randband mit Vogeln und Blumenwerk. Unten aufgelegter und durchbrochener Rand mit architektonischen Motiven. Der Deckel mit einfachen Ornamenten gra-
+- viert und als Knopf flacher Kranz. Mit Marken. 19. Jahrh. Hohe 17 cm.
+- 921 Minzbecher,konisch, nach oben erweitert, verziert mit vier hochgefaften
+- Munzen. Augburger Beschauzeichen. Silber, teils vergoldet.Hohe 13 cm.
+- 922 Gebuchelter Becher.Der Schaft in Form eines vollrund gebildeten Renaissance-Putto. Fufs und Kelch mit starken Buckeln in Art der Ananasbecher. Mit Meistermarke und Rigaer Beschauzeichen. Silber,vergoldet. Hohe12,8cm.
+- 923 Henkelbecher,zylindrisch, mit ausladendem Rande. Den untern Teil umziehen aufgelegt und reliefiert Apollo und die Musen. Der obere Rand mit EmpireRankenbordire. Der Henkel mit fach gebildetem Kriegerkopf. Mit Marken. Hohe 8 cm.
+- 924 Lampe, Empire, auf rundem Fufe,mit kannelierter Rundsaule,auf derselben allegorische weibliche Bronzefigur, in den erhobenen Handen die runde Lampe haltend, deren drei Dochthalter ziseliert mit Maskenkopfen. An Kette hangend: Schere,Pinzette und Haken. Mit Rigaer Beschauzeichen. Hohe 50 cm.
+925 Lampe,Empire. Auf kannelierter Rundsaule steht die vollrund getriebene Figur eines jugendlichen Hirten mit umgurtetem Fell und Panpfeife, in der erhobenen Linken die kugelformige Lampe haltend, deren drei Dochthalter hochgetrieben mit Maskenkopfen; als Abschluf des Ganzen Putte, einen Schirm haltend. Mit Rigaer Beschauzeichen. Hohe 63 cm.
+
+Nr.894.
+
+<!-- image -->
+
+926 Becher, kugelformig mit schrag ansteigendem Lippenrand,die Aufsenseite graviert mit Bauernszene in Landschaft in Teniersschem Geschmack. Am Rande Spruch: WANN SELLTEN WIRD DER TUGEND GAGT,IN VOLLEN ZECHEN UND BEI NACHT.Im Boden Meistermarke und Beschauzeichen. Hohe5cm.
+
+- 927 Trinkschale in Form einer weiblichen Brust; als Handhabe dientein vollrund ziselierter Schmetterling. 19. Jahrh. Lange 14cm.
+
+929 Ein Paar MeBpollen mit ovaler Platte, reich in Treibarbeit verziert.Die Platte zeigt zwei von Kranzen eingefafste Rundmedaillons mit dem Namenszug Jesu und Maria,dazwischen zwei Barockblatter.Der Rand mit leichter auferer Wellung, abwechselnd hochrelieferte Engelskopfe und Rundmedaillons mit Leidenswerkzeugen, dazwischen Blattwerk. Ruckseits graviert: J.W.S.und Wappen. Die Kannchen mit spitzem Ausguf und niedrigen Deckeln mit reliefiertem Blattwerk,Voluthenkeln und gleichen Initialen.Undeutliche Marken.Suddeutsch,18. Jahrh.
+
+Lange der Platte 29,5,Hohe der Kannchen 11 cm.
+
+930 Ein Paar MeBpollen und Schelle auf ovaler Unterplatte. Die Pollen in Form birnformiger Schenkkannen, deren Leibung hochgetrieben mit Maria Besuch bei Elisabeth und der Taufe Christi, umrahmt von Ahrenbindel und
+Weinlaub; die ovale Unterplatte zeigt auf dem aufsteigenden Rande geflugelte Engelskopfe und Palmettenbordure.Mit Pariser Beschauzeichen des 18. Jahrh. Vergoldet. Hohe17,Lange27 cm.
+
+- 931 Rauchgefaβ in reichster Silberfiligranarbeit.Auf ovaler Unterplatte, aus uppig verschlungenem Rankenwerk gebildet, steht ein vollrund modellierter Hirsch,im Innern den Raucherbehalter bergend; der Rucken zum Aufklappen. Augsburger Arbeit.18.Jahrh. Hohe 18 cm.
+- 932/3 Ein Paar Leuchter.Der breit ausladende Fuf mit starken Buckeln und
+- mit aufgelegten Steinen verziert. Der hohe Schaft dreimal von Bergkristall durchbrochen und mit frei gebildeten Ranken sowie mit Steinen und Perlen verziert. Am obern Teile drei vollrund gebildete knieende Krieger.Die Tille mit Renaissance-Blattverzierung. Silber, vergoldet. Mit Marke. Deutsch, 17.Jahrh. Hohe35,5cm.
+- 934/5 Zwei Leuchter. Der breite Fufs sowie der vasenformige Schaft iberaus stellungen.Dazwischen Blattwerk,Blumenbuketts und Engelsfguren.Der letztere ist mit Engelsfiguren und Maskenkopfen verziert. Mit Marke:Ernst
+- reich mit Treibarbeit verziert. Ersterer zeigt in Barockrahmen biblische DarLudwig Meier,Basel. Hohe 28 cm.
+- 936 Kleiner Deckelhumpen,die Leibung mit getriebenem starkstammigem Baum-
+- werk;Fufs und Deckel mit Girlandenverzierung. Hohe 20 cm.
+- 937 Ein Paar Tischleuchter in Form vollrund modellierter Hofnarren, das Wams
+- mit Schellen verziert, in der erhobenen Rechten die Leuchtertille haltend, die mit Palmetten verziert. Selbige stehen auf hohem,achtfach abgeflachtem Sockel,der reich verziert mit Maskarons, Kartuschenschild und Palmetten. Schone dekorative Sticke mit Augsburger Beschauzeichen des 17. Jahrh. Hohe S5cm
+- 938 Feldflasche, eirund, abgeflacht und mit niedrigem Fufe. Holz,mit Stoff bespannt und allseitig mit reich in Blumenornamenten und Blattwerk durchbrochenem Silber iberzogen und einzelne Teile leicht reliefert. Graubinden (Schweiz),16.Jahrh. Hohe 29,5cm.
+- 939 Zierstick: Bauersfrau. Hoher viereckiger Sockel mit Reliefdekor.Darauf stehend Bauersfrau in zerlumpter Kleidung. An ihrer Seite tragt sie an einem uber die linke Schulter gelegten Bande einen grofen Sack, auf dem Kopfe
+
+Hohe 19 cm.
+
+- ein Reisigbindel. Der Kopf zum Abnehmen. Silber. Mit Marken.
+- 940 Zierstiick:Bauersfrau.Der hohe Sockel verziert mit reliefiertem Fruchtwerk und Barockkartuschen.Auf demselben stehend, vornibergebeugt, eine alte Bauersfrau. Sie halt in ihrer Linken einen Hahn,die Rechte ist erklarend erhoben. Auf dem Ricken tragt sie einen Korb mit Huhn und Kicken. Der Kopf abnehmbar.Mit Marken.Silber,vergoldet. Hohe 28 cm.
+- 941Allegorische weiblicheFigurin flatterndem Gewande,die Triangel spielend.Vollrund in Silber ziselierte Figur,Empire,mit Pariser Beschauzeichen und Meisterzeichen
+- J.A.G.A.zwischen Lowen.
+
+Nr.915.
+
+<!-- image -->
+
+Hohe 28 cm.Holzpostament.
+
+- 942 Jugendlicher Hirt, mit Fell umgirtet,
+- Zimbel spielend.Gegenstick.Ebenso. Hohe 30 cm.
+- 943 Terpsichore in tanzender Stellung,den Busen entbloft. Gegenstick. Ebenso. Hohe 28 cm.
+- 944Gruppe:Barenfihrermit Affe,mitbarocken Perlen montiert. Araber,barfuf,in weitem Mantel und Turban,an einer Kette einen Bar haltend,auf dessen Ricken sich ein Affe tummelt.
+
+Hohe 18,Lange 23,Breite 14 cm.
+
+- 945 Zwolf Loffel.Der Schaft profiliert mit
+- vollrund gebildeten,in den obern Teil
+
+ubergehenden drei Greifen,die die Figur eines der zwolf Monate tragen. In der Muschel entsprechende Aufschrift. Silber, teils vergoldet. Mit Marke.
+
+Lange 21 cm.
+
+- 946 Funf Loffel. Der Schaft profiliert in Form einer Renaissance-Saule.Als Bekronung Rundfigur eines Ritters. Am Fufsende aufgelegt Wappen mit Aufschrift von Schweizer Kantonen (Zurich,Ury,Freiburg, Bern,Luzern). Silber, teils vergoldet. Lange 19,5cm.
+- 947 Sechs Messer.Der Schaft ahnlich gebildet, doch ohne Wappen. Dieses als
+- kombiniertes Wappen auf der gravierten Klinge aufgelegt. Mit Marke.
+
+Lange 22 cm.
+948 Sechs Gabeln. Der Griff geziert mit halbrund gearbeiteter Frauenbiiste, aus cinem Fruchtbukett erwachsend. Oberhalb gekrontes Allianzwappen, unter-
+
+Nr.938.
+
+<!-- image -->
+
+halb Reliefkopf, von zwei Schlangen mit Blattschwanzen eingerahmt. Die Gabel dreizinkig,auf der breiten Wurzel graviert: SIGMUND II. AUGUST und Barockornamentwerk.Silber, teils vergoldet. Lange21 cm.
+- 949 Loffel,ebenso gebildet. Silber, teils vergoldet.
+
+Lange 21 cm.
+
+- 950 Renaissance-Loffel. Der Stil rund gerillt,mit Bandwerk-Unterbrechung und in ein Wappen endigend; dariber viereckige Platte mit dem reliefierten Portratkopf Karls V.Silber,teils vergoldet. Linge 21 cm.
+- 951 Renaissance-Loffel,ahnlich,mit Hirschkopf und Lowen.RickseitigWappen. Silber,vergoldet.
+
+Nr.954.
+
+<!-- image -->
+
+Lange 20 cm.
+
+- 952 Renaissance-Loffel.Der Schaft ineinen Doppeladler endigend. Als ZwischensatzWappen undweibliche Karyatide.Die Wurzel zwei Schlangen.An der Aufsenseite der Schaufel Proflkopf und Schrift: MAX.IMP.Silber, teils vergoldet.
+
+Lange 20 cm.
+
+- 953 Renaissance-Loffel, ahn-
+- lich,mit Adler, Knappen und Frichten.Mit Aufschrift:SIGMUND III. Ebenso. Lange 20 cm.
+- 954 Tischglocke(Zunftstick) in Form einer Muhle mit
+- achtseitigem Unterbau und
+
+breitem Umgang.Der nach oben verzweigte Oberbau, gekornt, tragt die groBen Windfugel und die Stellvorrichtung. Der untere Teil graviert mit
+
+Namen und Jahreszahl 1783.Mit Marken. Niederlande.
+
+Hohe der Muhle 16,5 cm.
+
+- 955 Stockknopf, getrieben mit tanzenden Figuren in reicher Rokokoumrahmung. 18.Jahrh. Hohe 7 cm.
+- 956 Fingerring. Die Platte gefaBt mit grofer Steinkamee,geschnitten mit Profilkopf eines romischen Feldherrn. Durchm.2cm.
+- 957 Sanduhr.Die untere und obere Platte rund,mit aufgelegter Renaissance-Rosette verziert,verbunden durch drei reich profilierte Saulen. Die Fufe aus Kristall, kugelig, mit Diamantschliff. Alle Teile mit aufgelegten kleinen Steinen verziert. Hohe 8,5 cm.
+- 958 Reiseuhr in flacher Kugelform. Sie zeigt in einem iberaus reich durchbrochenen Rankenwerk verschiedene.Jagdszenen mit Jagern zu Fuf und zu
+
+Durchm.10,5cm.
+
+Pferd,in minutioser feiner Ausfuhrung mit leichter Re liefierung. Die Mitte in Form eines Lowenkopfes in dicht geflochtenem Lorbeerkranz. Das Zifferblatt ist ahnlich, doch einfacher,im Mittelfeld durchbrochen mit sich drei mal wiederholendem Jager und Hund. Der Rand ebenfalls durchbrochen mit jagdbaren Tieren und Hunden in Ranken.Der Ring mitReliefdekor. Im Innern bezeichnet: ThomasLcithnerAgramNr164. 18.Jahrh.
+
+- 959 Spindeluhr, das Gehause ge punzt mit gekrontem Monogramm.Die Kivette durchbrochen ornamentiertundgetrieben mit Diana,von ihrem Gefolge umgeben, in Landschaft ruhend.Doppelkivette in Schildpatt.18. Jahrh. Durchm.7cm.
+- 960 Zuckerdose mit zwei Voluthenkeln.Die Leibung leicht geschweift, auf Vorund Rickseite verziert mit je von Engeln gehaltener Kartusche. Im Deckel Medaille mit Frauenkopf HIPPOLYTA GONZAGA FERDINANDI FILIA. Darin reliefierter Rundring mit Renaissance-Putten in Maskenkopfen zwischen Fruchtgirlanden.Mit Marken. Hohe 10,5cm.
+- 961 Zucherdose,rechtwinklig,die Seiten verziert mit biblischen Szenen in Treibarbeit, dariber die zugehorigen Erklarungen.Niederlandisch, mit Marken. Hohe 7,5,Breite 11, Tiefe 8 cm.
+
+Nr.958.
+
+<!-- image -->
+- 962 Ovale Bonbonniere,auf vier Vogelklauen ruhend, die Leibung ziseliert mit Drachenfiguren.Der Deckel gefaft mit grofsem Tirkis, der verziert mit eingeschnittenen Laubranken. Hohe 5,Lnge 9,Breite 5cm.
+- 963 Runde Bonbonniere,Boden und Deckel zierlich durchbrochen ornamentiert und graviert mit Schaferpaar,umrahmt von Gitterbordure und Laubarabesken. 18.Jahrh. Hohe 2,Durchm.6 cm.
+- 964 Runde Dose, fach, mit Perlbandborduren verziert; in den Deckel ist eine Medaille von W. Aechter mit dem Proflbrustbilde Katharinas Il. eingelassen. Hohe 2,5,Durchm.9 cm.
+- 964a Herzformig ausgeschweifte Dose, der Deckel in hohem Relief ziseliert mit dem letzten Abendmahle. Hohe 2,Lange 6cm.
+- 965 Etrushischer Handspiegel, die Rundscheibe in hohem Relief ziseliert mit Jupiter,auf Felsen sitzend, von vier Gotterfiguren umgeben； um den Rand zieht sich eine Perlkranzbordure. Die Handhabe eingekerbt, wenig gebogen und in einen phantastischen Tierkopf auslaufend. Lange 23 cm.
+- 966 Runde getiefte Schissel,der Fond getrieben mit figurenreicher Darstellung aus der romischen Geschichte,umrahmt von Eierstabbordure. Der aufsteigende Rand mit vier ins Kreuz gestellten Portraitmedaillons,umgeben von Fruchtfestons.Mit Augsburger Beschauzeichen des 18.Jahrh. Durchm.38cm.
+
+Nr.967.
+
+<!-- image -->
+- 967 Ovale Schissel, der Fond hoch getrieben mit Venus in der Schmiede des Vulkan in figurenreicher Komposition; der ausgeschweifte aufsteigende Rand zeigt aus Maskenkopfen erwachsende Palmetten in einzelnen Feldern, durch hochgetriebene Lilien getrennt. Mit Badener (Schweiz) Beschau-und Meisterzeichen des 17.Jahrh. Lange 37,Breite 28cm.
+- 968 Rahmen aus hochgetriebenen Voluten, die mit Muschelwerk und Blattwerk verziert. Auf zwei Fufen,in Form von Voluten gebildeten Sockeln; auf denselben sitzend die vollrund modellierten Figuren zweier Heiligen, in den Handen ein Buch haltend. Mit Meistermarke.Silber. Deutsch,18. Jahrh. Hohe 46,Breite 59cm.
+- 969 Tablett,oval, mit ausgeschweiftem Rande.Der Fond reliefiert mit der Darstellung der Venus,von Aktaon im Bade iberrascht. Der Rand mit fruhbarockem Blattwerk und aufgesetzten grinen Steinen. Silber, teilvergoldet. Lange 18,Breite 15 cm.
+- 970 Tabernakeltire, getrieben,mit der Darstellung der Jinger zu Emaus. In einer hohen Halle sitzt Christus, von Strahlennimbus und Wolken umgeben, an einem Tische, im Begriff, das Brot zu brechen; zu seinen Seiten sitzen die erstaunten Jinger. Silber, gewolbt und oben gerundet. Mit Marken. Bezeichnet:J.Roghier.18.Jahrh. Hohe54,Breite35cm.
+
+Nr.968.
+
+<!-- image -->
+
+6
+- 971 Anbetung der Hirten.Relief, die Figuren zum Teil vollrund herausgetrieben. In der Mitte eines barocken Ruinenbaues liegt in einem Korbe dasJesuskind. Um dasselbe knien betend die Gottesmutter sowie zwei Engel.Von rechts nahen mit einem Lammchen zwei bartige Hirten; links steht ein Engel sowie der Pfegevater Joseph.Uber der Szene in Wolken schwebend Engel. Oben abgerundet. Silber. Hohe 34,5,Breite 22cm.
+- 972 Tabernakeltiire,Silber.Die Mitte reliefiert mit Gottvater in throno und Engeln. Die Gesichter und Hande ausgespart und auf die Unterlage gemalt, oben
+
+<!-- image -->
+
+vier,unten zwei ausgeschnittene Felder, in denen auf die Holzplatte gemaltbiblische undreligiOse Darstellungen sowie Heilige. Russisch.
+
+Hohe 34,Breite 20 cm.
+
+- 973 Diethelmus Roetius,Konsulzu Zurich,gewahlt 1524,1544. Brustbild des bartigen Mannes mit reicher Gewandung und breitkrempigemverziertem Hute. Hochreliefiert getrieben in viereckigem Rahmen,an dem Wappen und Inschrift.
+
+Hohe 21,8,Breite 17 cm, In schwarzem Holzrahmen.
+
+Nr.970.
+
+Rahmenrand.Silber.Nielliert.17.Jahrh.
+
+- 974 Plakette,raviert mit der stehenden Figur des hl. Apostels Johannes;in der Linken halt er den Kelch,aus dem die Schlange steigt.Die Rechte ist segnend erhoben. Stark profilierter Hohe 20,5, Breite 7,5 cm.
+- 975 Rundes Relief. Pieta nach Michel Angelo.Brustbilder. Rechts Maria in weiffem Gewande,das Gesicht schmerzerfuillt. Sie blickt auf den Leichnam ihres Sohnes, dessen Haupt auf ihrem rechten Arme ruht. Die Linke legt sie leicht auf seine Brust. Starkes Hochrelief, viele Teile vollrund herausgetrieben. Mit Silbermarken. Schwerer Goldbronzerahmen mit Barockverzierungen.17. Jahrh. Durchm.der Platte 19,5 cm.
+- 976 Bucheinband. Decke und SchliefSen aus Blumen-und Rankenwerk in reicher Filigranarbeit gebildet. Augsburger Arbeit.18. Jahrh.Hohe 17,Breite 10 cm.
+- 977 Rundmedaillon in Lackrelief,punziert mit den Portratbisten einer firstlichen Familie in Hochrelief. Die Inkarnation Silber, die Gewander und der gekornte Grund vergoldet. Durchm.16,5 cm.In schwarzem Rahmen.
+- 978 Viereckige Plakette,ziseliert mit Madonna mit dem Kinde,auf Mondsichel stehend,umgeben von zahlreichen,in Wolken schwebenden Engelsfiguren. Hohe 15,Breite 11 cm.
+
+Nr.971.
+
+<!-- image -->
+979 Bucheinband mit Reliefdarstellung aus der biblischen Geschichte in Ovalmedaillons zwischen von Engeln flankierten Vasen und Engelskopfen, auf geschupptem Grunde. Hohe 14,5,Breite (geschl.) 9 cm.
+
+980 Plakette.(Verzierung eines Buchdeckels.) Dieselbe zeigt in hohem Relief und starker Durchbrechung die Figur der hl. Jungfrau, sitzend. Auf ihren Knien steht das Jesuskind. Uber ihr schweben zwei Engel, eine Krone haltend. Neben ihr knien St. Barbara und St.Katharina mit ihren Insignien. Als Umrahmung Spruchband. Hohe 12.5,Breite 10 cm.
+
+Nr.981.
+
+<!-- image -->
+
+- 981ViereckigePlakettemit Allegorie auf den Frieden,meisterhaft teils vollrund getrieben.In einerLandschaftschwebt auf Wolkengebild eine weibliche, leicht tgeschurzte Figur, ein Fullhorn ausschittend;seitlich und in der Hohe posauneblasende Putten, am Boden Waffen.Feines Stuck.16. Jahrh. Hohe 9,Breite 7cm.
+- 982 Rundes Medaillon mit Furstenpaar in gotischer Kleidung,im Vorgrunde einerLandschaftstehend in der Hohe fliegendes Band mit Aufschrift: RE.·SRC.·Kordel fechtumrahmung. Durchm.7cm.
+- 983 Runde Plakette,ziseliert mit der Taufe Christi im Jordan. Bezeichnet:F.Z. 18.Jahrh. Durchm.6cm.
+
+984 Runde Plakette mit figurenreicher Darstellung,Ruckkehr des Odysseus,in reicher Rokoko-Umrahmung. Bezeichnet:G.Cochim.Gutes Stick. Durchm.6cm.
+
+985 Ahnliche Plakette mit Entfihrung der Helena. Gegenstick. Ebenso. Gleiche Grofe.
+- 986 Schraubtaler.Avers:Furst mit Berater,im Hintergrunde bittende Bauern; dariber:Die Konige wollen deine Pfeger sein.Revers: Ausziehende Bauernfamilie,von Engel geleitet,daruber:Gehe aus deinem Vatterland und von deiner Freundschaft.Im Innern zwolf zusammenhangende Plattchen mit Darstellungen auf die Protestantenverfolgung und entsprechenden biblischen Szenen.
+- Ferner Landkarte von Litauen und Salzburg.Silber.17. Jahrh.
+
+Durchm.4,3cm.
+
+- 987 Kleine Minze mit dem Brustbilde des Herkules von Ferrara. 15.Jahrh.
+- Durchm.3cm.
+- 988 St. Petrus in der Sedia. Nachbildung nach dem Original in der St. Peterskirche in Rom. Die Figur in Silber, die Sedia Ebenholz und vergoldetes
+- Messing mit eingelegten Lapislazuliplattchen. Gesamthohe23 cm.
+- formig gedreht und hornformig gebogen.Die kugelformige Leibung, der Fuf sowie ein unterer und oberer Randring des Halses reliefiert, verziert mit Landschaften, Figuren, Tieren und Pflanzen in Feldereinteilung.Mit Marke. Hohe 46 cm.
+- 990 Sabbatlampe. Der hohe Schaft oben mit acht durchbrochenen Armen,
+- die eine Platte mit acht Olbehaltern tragen und zwei obere Kerzentullen. Rickseitig am Schaft der neunte Olbehalter. Die einzelnen Teile im Empirestil verziert mit stilisierten Blattmustern und Linearmustern.Meistermarke und Augsburger Beschauzeichen.Um 180o. Hohe 42,5cm.
+- 991 Girtel,aus einzelnen,dicht gehaltenen Gliedern bestehend,die abwechselnd mithalbrundengrofern undkegelformigenkleinenBuckelnverziert sind,sowie mit reichen Arabesken in Relief, die SchliefSen mit hohem,reliefgeschmicktem emailliert.
+- halbkugeligem Buckel.Die Unterlage Leder. Vergoldetund Sudrussisch (),mit Marke. Lange 90 cm.
+- 992 Indischer Buddha,auf hohem Sockel sitzend,mit ibereinandergeschlagenen Fifen; das Haupt bedeckt die Igelmitze. Silberfolie auf Masse.13. Jahrh.
+- Hohe 14 cm.
+
+<!-- image -->
+<!-- image -->
+
+## Arbeiten in Email.
+
+- 993 Kriimme eines romanischen Bischofsstabes.Dieselbe hat die Form einer Schlange, in der Mitte von einem Knauf durchbrochen, der mit Steinen verziert. Die ganze Flache bedeckt von teils graviertem Rankenwerk auf blauem Emailgrund.In dem obern Teile die Verkindigung in fast vollrund modellierten Figuren.Unter dem Knauf aufgelegt reliefierte Drachenfiguren.
+- Kupfer, vergoldet. Hohe 28 cm.
+- 994 Vortragekreuz.Das Kreuz mit dreipafsformigen Endungen und verziert mit romanischem Rankenwerk und den Symbolen der vier Evangelisten auf blauem
+- Seite geneigt, die Fufe gekreuzt. Kupfer,vergoldet und emailliert.
+
+Hohe 52cm.
+
+- 995 Hl. Elisabeth.Vollrunde Figur der Heiligen in langem faltenreichem Gewande. Sie sitzt auf einem Throne und halt in ihrer Hand ein rundes Weihwasserbecken. Der Thron selbst ist halbrund und steht auf einer auf drei Fufen ruhenden Ovalplatte.Die Fufe mit der Darstellung des Gekreuzigten graviert und vergoldet, der Thron mit drei Szenen aus der Geschichte der Heiligen, dariber Widmungsband und Jahreszahl 1352.Weihwasserbecken sowie der Thron verziert mit einfachen Ornamenten in Email. Der Fond dunkelblau. Hohe 40 cm.
+- 996 St.Jakob.Fast vollrund modellierte Figur des Heiligen,sitzend,in der Linken ein Buch haltend.Kupfer,vergoldet,mit sieben kleinen Steinen verziert. Aufgeheftet ist dieselbe auf eine Kupferplatte,die mit Grubenschmelzemail verziert ist,mit romanischen Ranken und Schnorkelwerk und der Inschrift: S. JACOB. Hohe30,Breite14cm.
+- 997 KultusgefaB in Form einer vollrund modellierten Taube,Flugel und Schwanz in farbigem Zellenschmelzornamentiert. Hohe25 cm.
+- 998 Romanisches Ziborium auf rundem Fufe,in farbigem Zellenschmelz orna-
+- mentiert, mit vier ins Kreuz gestellten Wappenschildern in verschlungenem Rankenwerk, der runde Schaft durchsetzt von kugelformigem Knauf; der zylindrische Hostienbehalter vom Kreuz uberragt und farbig emailliert mit Engelsfiguren in Rundmedaillons. Hohe 30 cm.
+- 999 Reliquiaraufrundem,vielfach ausgeschweiftem, mit verschlungenemRiemenwerk undPalmetten getriebenem Fufe. Der sehr hoch gekantete Schaft farbig emailliert und durchsetzt von flachemKnaufe,auf dem die niellierteAufschriftund Jahreszahl1500.Drei nebeneinanderstehende, von Saulchen getragene und kuppelformig bedachte Behalter dienen zur Aufnahme der Reliquien. Als Abschluf des Ganzen drei vollrund ziselierte Engelsfigurchen.Versilbert. Hohe 36 cm.
+- 1000 Reliquiar,sargformig,mit gezacktem Kamme. Die Flachen verziert mit religiosen Darstellungen in Grubenschmelzemail. Hohe 18,5,Breite 7,5, Lange 15 cm.
+- 1001 Reliquiar, sechsfach abgeflacht, Messing, durchbrochen ornamentiert und emailliert mit dem Namenszug Jesu und Palmetten. Hohe 6,Breite 7 cm.
+- 1002 Platte eines Reliquienschreines.Die Mitte nimmt die aufgelegte,halbrund modellierte Figur Gottvaters in throno ein;seine Hand ist segnend erhoben, die Linke ruht auf der Schrift.Der Hintergrund blaues Grubenschmelzemail, verziert mit Rosetten,Mandorla und den Symbolen der Evangelisten. Mit Lochern zum Befestigen.18.Jahrh. Kupfer,vergoldet.
+
+Nr.994.
+
+<!-- image -->
+
+Hohe 24,Breite 18 cm.Beschadigt.
+- 1003 Platte eines Reliquiars.Dieselbe zeigt auf der Vorderseite in flach aufgelegten Relieffiguren Christus am Kreuz zwischen Maria und Johannes, sowie zwei schwebende Engel.Der Grund sowie die Gewander in vorwiegend blauem Grubenemail. Der Grund verziert mit Kreuz,Heiligenschein und einfachen romanischen Ornamenten. Kupfer,vergoldet.Am Rand Locher zum Befestigen. Hohe 27,5,Breite 17,5 cm.
+- 1004 Kuβtafel in Bogenform mit hohem Rande.Die Innenflache verziert mit aufgelegter romanischer Golgathagruppe und zwei Engeln.Die Flache der Tafel sowie die Gewander vorwiegend in Blau und Grin mit Grubenschmelzemail bedeckt. Rickseitig Griff in Form eines Drachens. Kupfer,vergoldet. Hohe 18,Breite 13,5 cm.
+- 1005 KuBtafel, mit Heiligen graviert und vergoldet, auf dunkelblauem Grunde in Grubenemail,zu den Seiten Rankenwerk. Kopf mit sechs Lochern zum
+- Befestigen. Hohe 12,5,Breite 8,7 cm.
+- 1006 Viereckiger Anhanger, Messing, durchbrochen ornamentiert und emailliert
+- mit Kelch und Engelfiguren. Hohe 6,Breite 7 cm.
+- 1007 Agraffe. Die Platte reich in Band- und Blumenwerk verziert,auf derselben reliefiert und emailliert hl. Georg, auf Schimmel reitend, einen gruinen
+- Drachen totend.Mit Strafsteinen verziert. Gold mit Schmelzemail. Durchm.5cm.
+- 1008 Ein Paar Vasen,eiformig,auf rundem Fufe,schwarz emaillierter Untergrund, dekoriert mit Arabesken und
+- in dick aufgetragenem farbigem Email Blumengehangen.Fabrikat Limoges. Hohe 22 cm.Ladiert.
+- 1009 Grofe viereckige Wandplatte,aus kleinen Limogesplatten zusammengestellt. Die Mitte nimmt ein ovales Medaillon ein mit figurenreicher Darstellung des Kalvarienberges,in den Ecken vier Rundmedaillons mit betenden Heiligen, Grablegung und Kreuzschleppung Christi Die ibrigen Flachen fullen Engelfiguren,Wappenschilder und Schriftbander. In reich ornamen-
+- tiertem italienischem Renaissance-Rahmen. Hohe 144,Breite 116 cm.
+- 1010 GroBe Platte in ahnlicher Anordnung. Im Mittelfelde Auferstehung Christi, in den Seitenmedaillons Christus als Gartner und Grablegung.
+
+Gleiche GroBe.
+
+- 1011 Triptychon, spitzgiebelig. Im Mittelfelde Christus am Kreuze mit Maria und
+
+Hohe 16, Breite 16 cm.
+
+- Longinus. Auf den Seitenflugeln Apostelfiguren. Limoges.
+1012 Viereckige Platte, gewolbt, bemalt mit Christus am Kreuze; links am FufBe die hl. Frauen, rechts Kriegsleute.Im Hintergrunde Blick auf Jerusalem. Limoges. Hohe 17,Breite 14 cm.Restauriert,
+
+1013 Platte,achteckig,mit Darstellung der hl. Familie. Rechts sitzt bei einer Saule Maria in blau und rotem Gewande, auf dem Schofe das unbekleidete Jesuskind, dem Joseph einen Apfel reicht. Links halb kniend in rot und goldenem Gewand Elisabeth,vor sich den betenden Johannesknaben haltend. Nebenihr einLamm. Trans- platte.Bezeichnet:L.L.1538. Hohe 21,Breite 18 cm.
+
+luzides Email auf Kupfer-
+
+In breitem reichem Holzrahmen.
+
+1014 Platte,achteckig gewolbt, bemalt mit Christus am Kreuze;an dessen Fufs sitzende Magdalena. Auf der Rickseite bezeichnet: Laudin au faucbourgs deMagnne aLimoges.
+
+Hohe 18,Breite 16 cm. Beschadigt.
+
+1015 Finf ovale Platten,Brustbilder romischer Kaiser und mythologische oder allegorische Figuren.In schwarz schattierter Grisaille gemalt auf schwarzem Grunde,mit goldener Namensunterschrift.
+
+Nr.995.
+
+<!-- image -->
+
+Rosa Konteremail auf Kupferplatte. Hohe19,5,Breite14,5 cm.In Goldrahmen.
+
+1016 Ovales Medaillon,bemalt mit Antonius im Gebete;ihm erscheint das Jesuskind. Hohe 3,Breite 2 cm.
+- 1017 Zwei Platten,rechteckig,getrieben mit stehenden biblischen Figuren. Die Gewander sowie der Hintergrund in Email. Silber.In imitiertem Schildpattrahmen. Hohe 19,5,Breite 21,5cm.
+- 1018 Damenbildnis. Brustbild einer Dame in goldbraunem Gewande. Das Haupt bedeckt ein rotliches, mit weifsen Tupfen verziertes Haubchen. Ovale Platte. Transluzides Email auf Kupfer.In reich geschnitztem,vergoldetem,barockem Holzrahmen. Hohe 68,Breite 40 cm.
+- 1019 KuBtafel, Messing,in Altarform,mit seitlichen einfachen Wandpfeilern und oberm Halbbogen mit eingelassenen Limogesplatten.In dem gerundeten Hauptfelde Anbetung der hl. Dreikonige. Im Tympanon Gottvater in Wolken. Hohe 14,Breite 9 cm.
+- 1020 Ovales Medaillon,bemalt mit Madonna,auf Mondsichel sitzend,dem Kinde die Brust reichend.18. Jahrh. Hohe 7,Breite 5 cm.
+- 1021 Ovales Medaillon,bemalt mit Vision.Im Vorgrunde kniender Monch,dem Madonna,von zwei Heiligen umgeben,erscheint. In reich ornamentiertem Silberrahmen. Hohe 12,Breite 9 cm.
+
+Nr.1012.
+
+<!-- image -->
+- 1022 39 Kostimknopfe,25 groβere und 14kleinere, en grisaille auf rotem Grunde Gemahlin Julia Augusta, sowie Proflkopfen romischer Imperatoren mit Umschrift.Bezeichnet:Rigaggi.F.P'I SA. Durchm.2,5und 2 cm.
+- 1023 Viereckige Teebichse,Cloisonne-Email,
+- tirkisblauer Untergrund,farbig gemustert mit Rankenwerk. Hohe 3,Breite 6 cm.
+- 1024 Taschenuhr, Gold. Die Rickseite in Schmelzemailmalerei mit Madchen, Auf dem Zifferblatt bezeichnet:Chevalier et Comp Frankreich,um 1800.
+- ein kleineres Kind an der Hand fihrend, und Knabe mit Reifen in Landschaft. Durchm.6cm.
+- 1025 Taschenuhr.Die Rickseite in Schmelzemailmalerei verziert mit Mutter mit zwei Kindern,einen Vogel fitternd; als Hintergrund Parklandschaft.Auf dem Zifferblatt und im Innern bezeichnet: Chevalier et Cochet, 5064. Paris,
+- um 1800. Durchm.5cm.
+
+Nr.1011.
+
+<!-- image -->
+- 1026 Taschenuhr, Gold mit feinster Schmelzmalerei Den Deckel ziert eine Landschaft, in der vier Kinder im Kostum des Endes des 18. Jahrh. Paris, um 1800.ChevalieretComp Durchm.5cm.
+- 1027 Taschenuhr,Gold mit Schmelzmalerei.DerDeckel zeigt drei mythologische Gestalten vor einem Zelte in landschaftlichem Hintergrunde.Um dieselben sowie in dem Zifferblatt ein Kranz von Perlen. Frankreich,um 180o. Durchm.5,5cm.
+- 1028 Taschenuhr, Gold mit Schmelzmalerei.Der Deckel verziert mit einem Rundmedaillon,in dem in minutioser Malerei Muttermit ihrem Kind in Landschaft.Dariber ein halbmondformiges Feld,in dem Rankenwerk und schnabelnde Tauben in Gold auf blauem Grunde.Die ibrige Flache in Blau und Gold gestreift.Der Rand auf Vorder- und Rickseite mit Perlen besetzt. Auf dem Zifferblatt bezeichnet:Ph.Terrot. Frankreich,um 1800.
+
+Durchm.5,5cm.
+
+- 1029 Taschenuhr, Gold mit Schmelzmalerei. Die Rickseite zeigt einen Krieger, neben ihm kniend eine Jungfrau mit Siegeskranz,in Landschaft.Die Darstellung von Saulen flankiert und von Medaillon mit Silhouettenkopf bekront, blauer Grund.Frankreich,18.Jahrh. Durchm.6cm.
+- 1030 Taschenuhr, Gold mit Schmelzmalerei,der Deckel verziert mit drei Kindern,
+- die mit einem Vogel spielen.Frankreich.Anf. 19. Jahrh.
+
+Durchm.5cm.
+
+- 1031 Uhrkette (Chatelaine), Gold mit Schmelzmalerei. Die einzelnen Glieder oval verziert mit Tieren in weifem Email und blauen Randborden.Das breite Schlufstick mit Brustbild des Apollo bzw. Mladchen mit Schaf in Landschaft. Anhangend entsprechend verzicrter Uhrschlussel und Petschaft. Frankreich,18.Jahrh. Lange 23 cm.
+- 1032 Zwei Armbander,aus je elf ovalen Gliedern bestehend,die verziert mit Emailplatten mit Madchenbrustbildern in der Tracht der Schweizer Kantone. Die Rahmen mit frei gebildeten Blattern in Ranken in verschicdenfarbigem Golde.Ruckseitig:Kantonbezeichnung. Lange je20 cm.
+- 1033 Tabatiere,achtfach abgefacht,in Goldemail,Empire.Auf dem Deckel zierlich staffierte Seekuste in einer von Bandelwerk umrahmten Ornamentbordire. Seitenflachen und Boden zeigen auf konigsblauem transluzidem Grunde,von Perlstabchen eingefaft,geometrisch angeordnete Borduren und kleine Blumen-
+- vasen.Feines Stick.Genfer Arbeit. Hohe 1,5,Lange 9, Breite 6 cm.
+1034 Tabatiere,viereckig,Empire, Goldemail,Auf dem Deckel ovales,von weiβer Ornamentbordire umrahmtes Medaillon,vorziglich bemalt mit Ruhe der Diana, von ihren Nymphen umgeben. Die Zwickel zieren Goldarabesken auf kobaltblauem Grunde.Im Boden unter konigsblauem transluzidem Email Blumenvase auf Postament, seitlich in Weif gemusterte Perlkranzstabe und Bandverschlingungen.Feines Stick.Genfer Arbeit.
+
+Hohe 1,5,Lange 9,Breite 6 cm.
+
+1035 Tabatiere,achtfach abgeflacht,Empire, Goldemail. Auf dem Deckel auferst fein gemalt mit Jakob,am Brunnen um Rahel werbend. Die Seitenfachen in geometrisch angeordnete Felder eingeteilt,eingefaft von zierlichen Eichenlaubbordirenaquatrecouleurs. Feines Stick.Genfer Arbeit. Hohe 2,Lange 9,Breite 5,5 cm.
+
+1036 Tabatiere,viereckig,Empire,Goldemail. Auf dem Deckel in fein ausgefuhrter Malerei junge Mutter,in Parklandschaft sitzend,umgeben von Madchen und Knaben, auf Hund reitend; eingefaft von zierlich gemusterterPalmettenbordire auf blauem Grunde. Boden-und Seitenfachen schwarz emailliert und von Kordelflechtbordiren und Goldstabchen eingefaft.FeinesStick.Genfer Arbeit.
+
+Hohe 1,5,Lange 7,5,Breite 4,5 cm.
+
+1037 ViereckigeflacheBonbonniere,Goldemail. Konigsblauer Untergrund mit farbigen Blumen und Bandelwerk
+
+Nr.1018.
+
+<!-- image -->
+
+zierlich gemustert. Genfer Arbeit. 19.Jahrh.
+
+Hohe 1,Lange 7,Breite 4 cm.
+
+1038 Viereckige Bonbonniere,Silber mit Kordelflechtverzierung,allseitig mit Email- platten belegt,die fein bemalt mit mythologischen Darstellungen. Hohe 3,Lange 7,Breite 5 cm.
+
+1039 Bonbonniere,kugelformig ausgebaucht,durchbrochen ornamentiert und emailliert mit Blumenwerk. Hohe 4,Durchm.7,5 cm.
+- 1010 Standuhr in Form eines vieretagigen Turmbaues auf weit ausladender Fufsplatte mit vier Kartuschfiffen. Silber, alle Teile iberaus reich mit durchbrochenen Renaissance-Ornamenten mit Kopfen und Fabeltieren in Email mit mythologischen Szenen in durchbrochenen Umrahmungen, die zweite ebenso emailverzierte Uhren, die dritte mythologische Darstellungen ohne Umrahmungen, die vierte Nischen mit Figirchen. Die Ecken des ersten Aufbaues mit reich geschmickten fankierenden Saulen. Auf diesen Saulen sowie an den Ecken des dritten Aufbaues und auf dem spitzen Dach des obersten Stockwerkes stehen vollrund gebildete Emailfiguren.Die einzelnen Etagen getrennt durch Zwischensticke mit mythologischen Darstellungen
+- und Arabesken. Ganze Hohe 61 cm.
+- 1041 Fruchtschale, dreieckig.Fufs und Schale in Bergkristall mit reicher Renaissance-Ornamentik geschliffen. Die Randeinfassungen Silber mit Malerei:Rundund Ovalmedaillons,in denen mythologische Szenen in Landschaften, dazwischen Tier-und Rankenwerk in Art der Loggienmalereien. Der Schaft in Form eines vollrund modellierten Fischweibchens, das lange Haar mit Laubkranz verziert.Silber mit Email. Hohe 30 cm.
+- 1042 Ovale Schmuckschale,Kristallglas, geschliffen.Fuf und Deckel Kupferemail, farbig dekoriert mit Blumenwerk und Frichten. Hohe 20 cm.
+- 1043 Birnformige Vase auf hohem Fufe und mit zwei seitlichen Drachenhenkeln, in Silber ziseliert.Die Leibung fein bemalt mit Pan in Landschaft, die Flote
+- blasend,und tanzenden Bajaderen. Hohe 27 cm.
+- 1044 Teebecher in Goldemail, auf kurzem Fufe, auferst fein bemalt mit Flufslandschaften und Blumenstauden. In den Becher ist eine kleine Porzellanscheibe eingelassen mit kleiner Filigrangoldkapsel fur den Tee. Genfer Arbeit.19.Jahrh. Hohe 7 cm.Beschadigt.
+- 1045 Kleine Standuhr,Silberemail,auf rundem Fufe,der fein bemalt mit mythologischen Darstellungen.Auf rundem profiliertem Schafte befindet sich das Zifferblatt in Form einer drehbaren Rundscheibe; auf dariber liegender Platte vollrund modellierter Orpheus zwischen Tieren,musizierend.
+- Hohe 20 cm.
+- 1046 Kleine Miniatur-Standuhr inForm einerHarfe,gefaft mit kleinen Steinen. Der Resonanzkasten und der Fuf, in den die Uhr eingelassen, emailliert mit Watteauszenen. Hohe 19 cm.
+- 1047 Salzfaβ, auf drei Lowenfufen ruhend, die bauchige Leibung konigsblauer
+
+Hohe 4,Durchm.7cm.
+
+- Untergrund mit ausgesparten Landschaftsmedaillons in Rokokoumrahmung. Sachsisches Fabrikat.
+- 1048 Salzfaβ auf drei hohen Fufen, die bauchige Leibung bemalt mit Flufland-
+
+Nr.1019.
+
+<!-- image -->
+
+Hohe3cm.
+
+- landschaften,von Rokokobordiren umrahmt. Sachsisches Fabrikat.
+- 1049 Russische Bettafel in Messing,ziseliert und farbig emailliert. Im Mittelfelde Christus mit Petrus und Paulus, an Tafel sitzend, umgeben vonkleinen Rundmedaillons mit Brustbildern von Heiligen. Hohe 18, Breite 14 cm.
+- 1050 Ein Paar hohe Vasen in breiter Birnform und niederm Fufsring.Seitlich
+- zwei vergoldete Henkel in drachenartig stilisiertem Blattwerk; das Ganze bedeckt eine iberaus reich stilisierte Landschaft auf dunklem blauem Grunde. Dieselbe ist belebt von vielen Tieren, zumeist Hirschen oder Kranichen. Der Fufs mit stilisierten Blumen. Oben Randbordire mit geometrischem Muster. Fuf und Randwulst vergoldet. Kupfer mit Emailcloisonne. Japan. Hohe 51 cm.
+- 1051 Ein Paar Vasen,hohe Flaschenform mit weit ausladendem Halse,mit ausgeschweiftem Rand. Verziert mit reichem Blumenwerk und geometrischem Muster auf grinem Grunde.Auf Vor- und Riickseite herzformige Medaillons mit auf Blumenbuketts sitzenden Vogeln auf dunkelblauem Grunde.
+- Emailcloisonne auf Kupfer. Hohe 45cm.
+- 1052 Korogefaβ,vierkantig,auf vier zylindrischen Fufen ruhend, fast ganz mit Grubenschmelz bedeckt. Reiches Rankenwerk auf tirkisblauem Grunde. Bronze, vergoldet. Hohe22,Lnge 14,Breite 10cm.
+- 1053 Ein Paar Koros, kugelformig, auf drei Fufen. Letztere sowie die Henkel mit Lowenkopfen. Ahnlich dem Vorhergehenden, in Grubenemail verziert. Bronze,vergoldet. Hohe 20 cm.
+- 1054 Tempelgarnitur,vierkantig, bestehend aus Koro und zwei Vasen.Ersterer auf vier Fufen ruhend, die beiden grofen Henkel geschweift und mit Drachenkopfen verziert. Als Deckelknopf sitzender Foohund aus Bronze. Die Vasen reich profiliert, mit weit ausladendem Fuf und Hals. Alle Teile iberaus reich verziert mit Blumenwerk auf blauem Grunde,die Gliederung der Gegenstande entsprechend mit andersfarbigen Bordurenringen. China.Kupfer
+- mit Maleremail. Hohe des Koro 53,der Vasen 52 cm.
+- 1055 Tempelgarnitur,bestehend aus Koro,zwei Leuchtern und zwei Vasen.Der Koro rund, auf drei Fufen ruhend und mit hohem Henkel, als Deckelknopf sitzender Foohund. Vasen und Leuchter mit blauen Knaufringen und weit ausladendem oberm Rande. Alle Teile iberaus reich verziert mit Blumen und Rankenwerk auf gelbem Grunde.Die einzelnen Glieder der Gegenstande mit Randborduren auf blauem oder rosa Grunde. China. Kupfer mit Maleremail. Hohe des Koro 38,Vasen und Leuchter 33 cm. Mit Holzuntersatzen.
+- 1056 Tempelgarnitur,bestehend aus Koro und zwei Vasen. Letztere mit hohem, weit ausladendem Halse,ersterer kugelformig,mit hochansteigenden Henkeln und drei fast zylindrischen Fufen. Als Deckelknopf kleiner Foohund. Alle Teile reich verziert mit Ranken und Blumen auf rosa Grund, gegliedert durch grine und blaue Ringe.Auf der Vorder- und Ruickseite des Koros ausgesparte Vierpaffelder mit Chinesen, in Landschaft bzw. Zimmer sitzend. Kupfer mit Maleremail. Hohe 23 cm.
+- 1057 Hohe Vase. Der niedrige Fuf breit ausladend,verziert mit Schnorkel- und Blattwerk,schwarz auf weifSem Grunde.Die Leibung,leicht zum breiten Hals iberfuhrend,ziert fortlaufend eine Landschaft mit reicher Figurenstaffage. Der Hals mit geometrischer Musterung, darin ausgesparte Medaillons mit Blumenbuketts und Insekten,Hals und Leib beiderseits begrenzt durch weifSe Bander mit schwarzen Dekorationen. Seitlich Drachenhenkel in Goldbronze. Kupfer mit Maleremail. Hohe 47cm.
+- 1058 Koro in breiter Vasenform,mit drei hohen Fufen und zwei Henkeln,mit
+- reichem Reliefdekor und Emaillierung. Als Deckelknopf Foohund. Hohe 39 cm.
+- 1059 Vase in abgefachter Kugelform, gelber Untergrund, bemalt mit Kirschblitenzweigen. Hohe4,Durchm.11cm.
+- 1060 Warmer, oval,mit breitem Henkel, der Deckel in einfacher Musterung durchbrochen und vergoldet. Die ibrige Flache bedeckt mit Blumen und Ranken auf rosa Grund in Maleremail; darin ausgespart vier Felder mit Tieren und Fabelwesen in Landschaft.Kupfer. Hohe11,Breite 18 cm.
+
+Nr.1022.
+
+<!-- image -->
+- 1061 Wasserpfeife mit birnformigem Wasserbehalter,reliefiert und reich verziert mit Medaillonkopfen und Blumenwerk in Email. Hohe 30 cm.
+
+1062 Ein Paar Vasen,schlanke Form,mit achtseitigem Fufs,bunt in Maleremail verziert mit figirlichen Darstellungen in Medaillons und umlaufenden Ringen.
+
+Der Fond Gold mit reichem Blumendekor.Indisch. Hohe 44,5cm.
+
+- 1063 GroBes Tablett. Der ausgeschweifte Rand aufwarts gebogen.Den Fond
+
+ziert eine Landschaftsdarstellung mit Eber, Hirsch, Vogel und Falken-
+
+Nr.1040.
+
+<!-- image -->
+
+jagd in einer Umrahmung von Blumenwerk auf gelbem Grunde. Der Rand mit Rankenwerk auf grinem Grunde, darin ausgespart Medaillons mit Blumenbuketts auf weifem Grunde.Weifses Konteremail.Maleremail auf Kupfer. China. Lange 81,Breite 52 cm.
+
+1064 Groβe Platte,viereckig.Die
+
+Flache verziert mit drei naturalistischenKranichen aufhellblauem Grunde.Der Rand weifs mit stilisiertenBlumen,Bandund Blattwerk.Ruckseitig Kunstlerbezeichnung. Hohe 77,Breite 61,5 cm.
+
+1065 Schiissel,stark getieft und mit breitem horizontalem Rande.Der Fond bemalt mit am Meer gelegenem Garten mit chinesischem Haus und Figurenstaffage.Der Rand und die Aufsenseite verziert mit Blumen und Drachen auf gelbem Grunde.
+
+Durchm.48 cm.Beschadigt.
+
+1066 Teetablett auf vier hohen Fufen.Die Flache zeigt eine reiche,stilisierte Landschaft in breitem Rahmen mit stilisierten Blumen und Blattwerk. Die
+
+Fufe entsprechend verziert. Japanisch. Kupfer mit Grubenschmelzemail.
+
+Lange 49,Breite 34,H8he 13 cm.
+
+Gleiche Grofe.
+
+1067 Teebrett, ganz ahnlich.
+- 1068 Getiefte Schiissel mit breitem fachem Rande. Innenseite und Rand in Grubenschmelzemail vorwiegend blau,gelb und rot verziert mit schwimmenden Fisch en,Vogeln,Pferden,Pfanzen usw. Kupfer,vergoldet.
+
+Durchm.31cm.
+
+- 1069 Runde Platte,nach dem Rande zu leicht ansteigend,verziert mit Fasanenpaar in angedeuteter Landschaft, der Rand mit geometrischer Bordure. Gruben-
+- schmelzemail auf vergoldetem Kupfer. Durchm.30 cm.
+- 1070 Platte, oval.Im Fond Szene aus dem Leben der Chinesen. Der Rand mit Blumenwerk auf blauem Grunde.Kupfer.Maleremail. Lange 23,Breite 17 cm.
+- 1071 Schalchen,ausgeschweifte Blattform.Im Fond Chinesen in Landschaft. Der Rand blau gemustert und mit andersfarbigen Fischen und Ornamenten verziert. Kupfer mit Maleremail und transluzidem Email.Lange 22,Breite 14,5 cm.
+- 1072 EinPaarTeller.DerFond mit Blumenbuketts,der Rand mit Weifer Grund. Maleremail auf
+- Blumen-und Strichmuster verziert. Kupfer. Durchm.22 cm.
+- 1073 Ein Paar Teller, sechseckig. Im Nr.1042. Fond Chinoiserie. Der Rand zeigt
+
+<!-- image -->
+
+in sechs Feldern abwechselnd chinesische Landschaften und Blumenwerk auf blauem Grunde. Kupfer mit transluzidem Email auf Gold bzw. Silberunter- lage. Durchm.21 cm.
+
+- 1074 Teller mit hohem Rand.Im Fond Darstellung aus dem chinesischen Familienleben. Der hohe Rand gelb,mit ausgesparten Medaillons,in denen Blumenbuketts. Kupfer mit Maleremail. Mit Marke. Durchm.20 cm.
+- 1075 Teebiichse,vierkantig, auf niederm Fufe.Die Seiten verziert mit vierkantigen Medaillons in Blumenwerk-Umrahmungen. Dieselben zeigen Chinoiserien und Blumenstauden.Weifser Grund. Hohe 24,5cm.
+- 1076 Teekanne, eiformig,verziert mit reichem Rankenwerk auf grunem Grunde, mit oberer und unterer Randbordire. Henkel und Ausgufs weifs mit blauem Schnorkelwerk.Kupfer mit Maleremail. Hohe 17 cm.
+- 1077 Deckeldose in abgeflachter Kugelform und mit niederm Fufsring. Die Flache verziert in goldener Schuppenmusterung auf schwarzem Grunde in Emailcloisonne. Das Innere blaugrin emailliert.
+
+Hohe 9,5,Durchm.14 cm.
+
+Nr.1057.
+
+<!-- image -->
+<!-- image -->
+
+## Textile, Miniaturen, Varia.
+
+- 1078 GroBer Wandteppich, Goldbrokat,in iberaus reicher Weise iber den Kern gestickt und appliziert. Die Mitte nimmt ein reiches italienisches Wappen ein in reicher Renaissance-Kartusche, umgeben von einem Kranz von Blumen und Ranken. Der Rand breit,in anders getontem Grunde verstreut bestickt mit mancherlei Blumen.In entsprechender Weise ist auch der Grund der Decke verziert. Italien,17. Jahrh. Hohe 260, Breite 185 cm.
+- 1079 Zwei Wandbehange, gelber Seidengrund,bestickt mit aufsteigendem Ornament in Rankenwerk,Blumen und Blattmustern, von verschiedenen Vogeln belebt.In verschiedenfarbiger Seide gestickt.Italien, 17 Jahrh. Lange 3,60,Breite 50 cm.
+- 1080 GroBer rotseidener Wandteppich mit schwerer Goldstickerei.Das Mittelfeld eine Rosette mit Laubkranz. Die Bordire Fachermuster und Blattrankenwerk.17.Jahrh. Hohe 225,Breite 155 cm.
+- 1081 Kirchenfahne mit dem Bildnis der auf Wolken schwebenden Maria als Schmerzensmutter,darunter beiderseits kniend die Stifterinnen.Die Randbordure in den vier Ecken sowie die Mitte mit Kartuschen, in denen biblische Szenen. Roter Damastgrund, die Verzierungen appliziert, gemalt und gestickt. Deutsch,17. Jahrh. Hohe 209, Breite 160 cm.
+- 1082 Das hl.Abendmahl. Christus mit den Aposteln feiert in einfachem Gemache das letzte Abendmahl. Um die Darstellung eine goldene Umrahmung mit Facher- und Muschelverzierung. Weifer Fond mit Streublumen, Seide mit Handstickerei. In Rahmen unter Glas. Vlamisch,17. Jahrh.
+
+Hohe 76,Breite 102 cm.
+
+- 1083 Chormantel, gelbe Seide,mit Gold durchwirkt, darauf bunte runde Blumenmedaillons.Der vordere Rand mit Erbreiterung im Rucken.Weife Seide mit farbigen Blumenbuketts.18.Jahrh. Lange 145 cm.
+Nr.1078.
+
+<!-- image -->
+- 1084 GroBe Tischdecke, grine Seide. In der Mitte sowie an den vier Ecken Rokokokartuschen,letztere mit Schaferpaaren. Die breiteBordure mit Muschelwerk,Blattwerk und Gittermuster.Die Stickereien in gelber und brauner Seide.An drei Seiten Fransen.18. Jahrh.
+
+Hohe 270,Breite 270 cm.
+
+- 1085 Wandteppich,uberaus reich mit Gold verziert in zierlichen Arabesken, die die ganze Flache bedecken. Der Fond roter Wollstoff, der Rand abwechselnd
+- blaue und rote Felder. Lange 245, Breite 128 cm,
+- 1086 Zwei Wandbilder, Christus bzw.Maria. Brustbilder,umgeben von Medaillon und Rankenwerk, Seidenstickerei. Oval,in geschnitztem Holzrahmen.
+- Hohe 58,Breite 30 cm.
+- 1087 Grofe Tischdecke, dunkelblaue Seide,in verschieden getonter gelber Seide bestickt. Das Zentrum bildet ein rundes Medaillon von Pfau,Hahn und Paradiesvogeln auf Blumenwerk.Rings um die Decke lauft ein breiter Rand mit Blumen und Astwerk.Der Fond mit Streublumen bedeckt.
+
+Hohe 185,Breite 180 cm.
+
+- 1088 Schal aus drei verschieden breiten Streifen karminfarbiger Seide. Die einzelnen Streifen bestickt und appliziert unter reichster Verwendung von Gold vorwiegend in Blau mit Schmetterlingen,Blumen,Blatt- und Fruchtwerk.An der Langsseite breite Fransenborte. Lange 245,Breite 87 cm.
+- 1089 Kaschmirschal.Das Mittelfeld weifs,im ibrigen vorwiegend rot, mit Kaschmir-Ornamentwerk. Lange 333,Breite 160 cm.
+- 1090 Wandteppich. Der Grund roter Wollstoff, das Mittelfeld blau. Die ganze Flache bedeckt mit zierlicher Arabeskenmusterung aus aufgenahten ver-
+- schiedenfarbigen schmalen Litzen. Hohe 140,Breite 125cm.
+- 1091 Wandteppich,ahnlich.
+
+Lange 140, Breite 125 cm.
+
+- 1092 GepreBte Ledertapete,verziert mit sich wiederholendem Muster: eine Kartusche mit Blumen auf blauem Grunde,iber die zwei schwebende Engel eine Krone halten.Unterhalb vasenformiges Blattwerk,daneben beiderseits Vogel und Blumenkorb.Obere Randborte mit sich wiederholender konsolen-
+- artiger Kartusche mit Blumen auf blauem Grunde. Italien,17. Jahrh.
+
+Hohe 94, Breite 190 cm.
+1093 Stuhlbezug (Fragment). Teil einer Ruickenlehne, verziert mit Blumenvase und zwei Putten.Getrieben und gepunzt. Spanien,17. Jahrh.
+
+Hohe 36,Breite 39 cm.
+
+1094 Kreuzabnahme Christi. Gruppe von acht Figuren in Landschaftsdarstellung. Abguf einer italienischen Plakette. Stukko,versilbert.
+
+Nr.1095.
+
+<!-- image -->
+
+Hohe 20,Breite 10 cm.
+
+1095 Wachsbild,Kniefgureiner jungen Mutter mit entblofstem Busen, auf dem Schofe ein Kind haltend. Vollrund infarbigem Wachs bossierte Gruppe. Unten rechts bezeichnet: Gio:Georgio SindlerTedesco F.in Roma.17.Jahrh. Hohe 19,Breite 14 cm.
+
+1096 Wachsbild,oval,reliefiert mit der Darstellung des Apostels Johannes auf der Insel Patmos. Nach dem
+
+Hohe 17,5,Breite 15 cm. In schwarzem Rahmen.
+
+Stich von Lips. Rotes Wachs.
+
+1097 Jupiter und Io,Wachsbild.Io liegt unbekleidet aufeinem Ruhebett.Hinter ihr steht Zeus,ihr einen Kufs aufdrickend. Sein
+
+Gesicht ist von langem Bart und Lockenhaar umrahmt, sein ubriger Leib in Gestalt einer Wolke.Trefflich in Wachs modelliertes Hochrelief. Hohe 15,Breite 21,5 cm.In Holz gerahmt.
+
+1098 Vierzig Profilkopfe romischer Kaiser in hohem Relief. Schwefelabgusse von romischen Kameen.
+
+Hohe 5,Breite 3 cm.In schwarzem Rahmen mit Glas.
+
+1099 Evangelienbuch.119 geschriebene Blatter Text mit den zugehorigen Noten. Einzelne Buchstaben gemalt und mit gotischen Verzierungen. Gr.fol.
+
+1100 Gotische Miniatur. Darbringung Christi im Tempel. In guillochiertem Holzrahmen, der mit Lapislazuliplatten belegt und mit Aufsatz in Goldbronze ziseliert mit geflugelten Engelskopfchen. Hohe 18,Breite 11 cm.
+- 1101 Der Kalvarienberg. Gegenstick in ahnlicher Anordnung.
+- Gleiche GroBe.
+- 1102 Miniatur. Die Mitte zeigt die Darstellung des wunderbaren Fischzuges. Darunter Noten und die Buchstaben OXVT.Oberhalb Schrift.Viereckiger Renaissancerahmen mit Blattwerk und Ranken.Gemalt mit reicher
+- Anwendung von Gold. Pergament.17.Jahrh.
+
+Hohe 20,Breite 15 cm.In Rahmen unter Glas.
+
+- 1103 Pergamentminiatur.Der hl.Petrus von Alcantara,in einem Wolkengebilde schwebend,erscheint einer in Zimmerinterieur betenden Nonne. In reichem Silberfiligranrahmen,gefaft mit Steinen und kleinen Emaillemedaillons,in denen Heiligenfiguren.18.Jahrh. Hohe 20,Breite 20 cm,
+- 1104 Miniatur. Die Mitte nimmt eine Landschaft ein,in der Lamm Gottes,zwei kniende Monche und dariber schwebend die Dreifaltigkeit.Um dieselbe ovaler Rahmen, aufs reichste verziert und getragen mit Engelkaryatiden, Wappen, Rauten usw. Um die Darstellung viereckige Umrahmung mit Rankenwerk, Maskarons und Tieren. 17. Jahrh.
+
+Hohe 15,Breite 10 cm.In Rahmen unter Glas.
+
+- 1105 Damenbildnis.Huftfigur einer jungen Dame in griner, spitzengarnierter Kleidung und gepuderter Lockenfrisur. Elfenbeinminiatur.
+
+Hohe 5,Breite 4 cm.
+
+- 1106 Venus und Diana im Vorgrunde einer Parklandschaft,umgeben von Amoretten,einen Altar mit Rosengirlanden bekranzend.Fein ausgefuhrte Miniatur auf Elfenbein. Hohe 8,5,Breite 9 cm.Ornamentierter Bronzerahmen.
+- 1107 Ovales Reliquiar in Silberfligranumrahmung.Auf der Vorderseite Pergamentminiatur mit der Huftfigur des hl. Mauritius. 18. Jahrh.
+
+Hohe 11,Breite 9 cm.
+
+- 1108 Viereckige Tabatiere,in Silber montiert, allseitig mit kleinen eingelassenen Guaschmalereien versehen, die aufserst fein gemalt in der Art des Rugendas mit lebendig komponierten Kampfszenen. Feines Stick. 18. Jahrh.Von Blarenberghe. Hohe 3,Lange 6,Breite 8 cm.
+- 1109 Anhanger,Empire, trapezformig,in Gold hinter Glas gemalt mit Hebe und Amor in Landschaft, einen Adler trankend. Hohe 4,Breite 3 cm.
+- 1110 Viereckige Eglomiseeplatte,in Gold bemalt mit Venus und Amor auf rotem Grunde Hohe 5,Breite 3,5 cm.
+- 1111 Mythologische Landschaft.In reicher Landschaft sitzt am Fufse eines Higels die jugendliche Europa auf dem Ricken des in einen Stier verwandelten Zeus und laft sich von ihren Gefahrtinnen mit Blumen schmicken. Guaschmalerei. 18. Jahrh. Hohe 20,Breite 30cm.
+- 1112 Louis XIV. Brustbild in Furstenmantel,in der Hand einen Stock haltend, das Haupt mit langer Allongepericke nach rechts gewendet. Reiche Umrahmung in Schnorkelwerk mit allegorischen Figuren,Karyatiden und Putten. Der Grund mit Lilienmuster.Bezeichnet:P.D·R·A·N·Q.Frankreich, 17.Jahrh.Pergament. Hohe 43,Breite 33,5cm.
+- 1113 Marquise de Maintenon,Brustbild,in ahnlicher Anordnung. Der Rahmen mit Venus,Leda mit dem Schwan,Putten usw.Frankreich,17. Jahrh. Gegenstick.Bezeichnet:A·N.Q·P.D.R.Pergament. Gleiche GroBe.
+- 1114 Maria mit dem Kinde,nach Botticelli. Rund.Guaschmalerei in Goldrahmen.
+- 1115 Zwolf Fillungen eines Schmuckkastens in Murano-Glasscheiben; dieselben zeigen in Gold und Rot Vogel und Tierfiguren in reichem Rankenwerk. Venezianisch.Anf.17. Jahrh. Hohe 15,5,Breite 21,5cm.
+
+Nr.1097.
+
+<!-- image -->
+- 1116 Triptychon. Das Mittelfeld zeigt in Temperamalerei den Tod der Maria. Um die Szene ein reliefierter Rahmen, Silber mit Blumenwerk. Das giebelformige obere Feld mit Maria mit dem Kinde in getriebenem Silber, die Fleischteile ausgespart und gemalt. Der Fluigel durch Silberstreifen in drei Felder geteilt, bemalt mit Heiligen auf Goldgrund. Das Aufere Kupfer mit gravierten Engelfiguren. Russisch. Hohe 20,Breite 30 cm.
+- 1117 Russisches Olgemalde auf Holz.Huftfigur eines Apostels, in den Handen ein Buch haltend. In Messingrahmen, der vorherrschend in Blau, Grin und Weifs emailliert mit Blumenranken. Hohe 18,Breite 14cm.
+- 1118 H.Heβ, Basel: Die Freunde. Zwei altere bartlose Manner, der eine mit Stock, der andere mit Streichquaste durch eine Strafe gehend. Tuschzeichnung. Hohe 39,Breite 35cm.
+
+Nr.1112.
+
+<!-- image -->
+- 1119 Ansicht von Zirich. Aschmann del. Dunker sc.Gr. fol. In Rahmen unter Glas.
+- 1120 Drei Kupferstiche.Jagdszenen. Johannes Stradanus inv. H. Cock excud. 1570.Gr.fol.In Goldrahmen. Nebst einem andern.4 Bl.
+- 1121 Luther-Petschaft. Petschaft in Messing, Griff in Holz.
+
+Nr.1113.
+
+<!-- image -->
+
+Gesamthohe13 cm.
+
+- 1122 Altarkreuz.Die Vorderseite ganz belegt mit Perlmutterplatten,die Seiten des Sockels sowie die Rickseite mit eingelegten Sternen und Platten. Der Kern Holz. Die Platten graviert und geschwarzt mit Heiligenfiguren, der Verkundigung und Blumenmusterungen. 18. Jahrh. Hohe 11,8cm.
+- 1123 Vasenstander in Form eines auf hohen geschweiften Fufen ruhenden Schrankchens. Alle Teile reich mit reliefiertem Rankenwerk verziert. Navalack. Hohe 90 cm.
+- 1124 Vasenuntersatz,gebildet aus zwei ringformig sich erhebenden Drachen, die mit dem Kopf auf einer Fufplatte ruhen und mit den Schweifen eine obere AbschlufSplatte tragen.Die untere Platte reliefiert mit Blumenwerk und dem Mikadowappen, die obere schwarz mit fiegendem Vogel und Blumen in Grun, Gold und Rot.Roter Navalack. Hohe 62,5cm.
+- 1125 Untersatz,viereckig, mit ausgeschweiften Ecken und auf vier hohen FuBen ruhend, mit unterer Fufplatte. Alle Teile im Reliefschnitt verziert mit figurlicher Darstellung, Vogel auf Ast und Blumenwerk sowie geometrischer
+- Musterung. Roter Navalack. Hohe 41 cm.
+- 1126 Untersatz in leichter Vierpafform mit vier schlanken Fufen. Die Seitenwande reliefiert geschnitten mit Blumen und geometrischen Mustern. Schwarzer Lack, teils mit rotem Grunde. Hohe 17,Lange 21,5,Breite 20 cm.
+- 1127 Untersatz,viereckig, mit vier geschweiften Fufen und untern Verbindungs-
+- leisten,verziert mit Blumenwerk, in Relief geschnitten.Roter Navalack. Hohe 16,Lange 31,Breite 24 cm.
+- 1128 Platte,rund geschnitten in Relief mit iberaus reichem Blumenwerk,belebt von zwei fliegenden Paradiesvogeln.Schwarzer Lack. Durchm.32cm.
+- 1129 Platte, viereckig, mit Reliefdarstellung einer orientalischen Tigerjagd in Lackmalerei.Pappe.Persien. Hohe 29,Breite 42 cm.
+- 1130 Schild, aus dem Deckel einer Schildkrote verfertigt und bemalt mit der
+- Figur eines Kriegers des 18. Jahrh.auf galoppierendem Schimmel. Hohe 50,Breite 45 cm.
+- 1131 Runde Bonbonniere, Schildpatt. Der Deckel zeigt in Silbereinlage RokokoOrnamentwerk,von Vogelfiguren belebt. Hohe 2,Durchm.5 cm.
+- 1132 Schildpattdose, rund und fach, allseitig aufserst minutios geschnitten mit
+
+Hohe 2,5,Durchm.10 cm.
+
+- figurenreichen Darstellungen aus dem Leben der Chinesen.
+- 1133 Rundes Medaillon,Horn,mit Bacchusbiste.
+
+<!-- image -->
+
+Durchm.8cm.
+Nr.1146.
+
+<!-- image -->
+
+## Arbeiten in Stein.
+
+- 1134 Hohe Prunkvase mit Sockel aus farbigem gewolktem und geadertem Marmor (rosso antiquo), mit Goldbronze montiert. Die hohe Vase, amphoraartig,ruht auf vier bronzenen Fufen in Form dichtgestellter Lowenklauen, in mit reliefierten Akanthusblattern verzierte Voluten endigend. Die Henkel in Form von Fischweibchen, die sich mit aus der Vase steigenden Faunen kussen. Den Leib der Vase umzieht ein mittleres Bronzeband mit vollrund plastisch gebildeten Putten, die eine Blumengirlande tragen.Der hohe Sockel vierseitig, die Ecken mit andersfarbigen Marmorsaulen geschmiickt, deren Basen und Kapitelle Goldbronze. Die Seiten mit tiefen Rundnischen, in denen vollrund gebildete Allegorien der vier Jahreszeiten in mannlichen und weiblichen Goldbronzefiguren. Am untern Fufe vier. schwere Bronzegirlanden. Ganze Hohe 267 cm.
+- 1135 Portratbiste. Kaiser Caracalla. Der Kopf mit strengen Zugen und kurzem Bart sowie kurzlockigem Haar ist leicht nach rechts gewendet. Er ist aus vergoldeter Bronze vollrund gebildet. Die lose bauschige Tunika aus rotem Porphyr, desgleichen der niedrige runde profilierte Sockel. Italien,16.Jahrh. Der Marmor antik. Hohe 77cm.
+- 1136 Portratbiste.Kaiserin Faustina. Das Haupt vergoldete Bronze.Es ist leicht ins Profil nach rechts gedreht. Das Haar leicht gewellt und mit Diadem geschmuckt. Das Gewand sowie der Sockel rotbrauner Marmor. Ersteres lose in reichen Bauschen,letzterer rund und profiliert. Italien, 16.Jahrh.Der Marmor antik. Hohe 81,5cm.
+1137 Kamingarnitur,Marmor und teils vergoldete teils versilberte Bronze.Die Uhr viereckig, auf vier Lowenfufen ruhend; die Ecken mit vollrund modellierten Kopfen,mit Laubgehangen verziert. Rings um den Sockel zieht sich ein breites Band mit antikisierenden tanzenden Figuren und Gottern. Als Bekronung vollrund modelliertes, am Boden sitzendes Madchen,das mit Knocheln spielt. Die Leuchter in Form griechischer Frauen in Goldbronze,die auf ihrem Kopfe Vasen tragen.Aus diesen entspringt eine Platte mit sechs Kerzentullen.Als Sockel runder Saulenschaft, Marmor, entsprechend der Uhr verziert. Franzosisch,18. Jahrh.
+
+Hohe der Uhr 40, Breite 38 cm. Hohe der Leuchter 67 cm.
+
+1138 Marc Aurel.Lebensgrofe Buste.Er tragt eine weite faltenreiche Toga. Das Haupt mit kurzem Spitzbart ist leicht nach links gewendet.Das Haar in starkem Relief wiedergegeben.Marmor, mit niederm Rundsockel. Romische Kaiserzeit.Gipsabguf des Stickes befindet sich in der Glyptothek Munchen. Hohe 81 cm.
+
+1139 Kopf des Doryphoros des Polyklet. Romische Replik.Das Haupt mit den breiten Lippen ist leicht zur Seite geneigt.Uber der Schulter liegt die Toga. Kurzer runder Sockelfufs. Wenig restauriert.Ein Gipsabguf befindet sich in der Glyptothek Minchen.
+
+Hohe72 cm.
+
+- 1140 Parze. Buste einer alten Frau. Sie tragt einen weiten faltenreichen Mantel. Um den Kopf ist turbanartig ein Kopftuch geschlungen. Das Gesicht ist charakteristisch mit tiefen Falten und
+
+Nr.1134.
+
+<!-- image -->
+Furchen gebildet. Das Kinn sowie die Backenknochen sind stark vortretend. Der Kopf ist leicht nach links gewendet. Unbekannter italienischer Meister des 17. Jahrh.Vorzigliches Stick. Hohe 82 cm.
+
+- 1141 Maria mit dem Kinde. Maria in ganzer Figur, stehend, vollrund dargestelt; sie tragt ein langes Gewand sowie Manteltuch; das in langen Locken herabwallende Haar mit Engeldiadem geschmickt. Den linken Fufs stellt sie auf einen Engelkopf. Auf dem Fufs steht das unbekleidete Jesuskind. Es halt seine Rechte segnend erhoben, wahrend es sich mit der Linken an dem Gewande seiner Mutter festhalt. Marmor. Prachtstick. Italien,16. Jahrh. Jacopo Sansovino am nachsten stehend. Hohe 116 cm.
+- 1142 Standfigur eines Apostels in weiBem Marmor, vollrund skulptiert. Das
+- Gewand mit reichem Faltenwurf, das lockige Haar bedeckt mit Mutze,die Hande zum Gebet gefalten. Gute Figur. Italien,15. Jahrh. Hohe 91 cm.
+
+Nr.1137.
+
+<!-- image -->
+- 1143 Hohe Vase,niederer glockenformiger Fuf. Der Leib schlank,mit breiten seitlichen Henkeln.Der Deckel mit spitzem Knopf. Schwarzer Porphyr. Hohe58cm.
+- 1144 Ein Paar Vasen.Vierkantige Sockel mit starken Gesimsproflen.Der hohe Fuf und der untere Teil der schlanken Leibung mit Langsbossen.Der
+
+Deckel mit Eichelknopf.Die Henkel Bronze,in Form aus Blattwerk entspringender,vollrund gebildeter, gefigelterFrauenkorper.Roter Porphyr. Um 1800. Hohe 50cm.
+
+- 1145 Herkules,vollrund modellierte Standfigur. Er lehnt sich auf seine mit dem Lowenfell bedeckte Keule,die er unter die linke Achsel geschoben hat. Die Muskulatur des kraftigen Korpers, Gesicht und Hand bis aufs feinste minutios durchgearbeitet. Deutschland oder Schweiz.Alabaster.
+
+Hohe 355 cm.Etwas restauriert.
+
+1146 Giebelrelief.Die niedrige dreieckige Vorderseite mit flachem einfachem Reliefrahmen.Die innere Flache geschmickt mit stehenden und sitzenden Gottern und Gottinnen in flachem Relief. Attisch,5.Jahrh.v.C. Siehe Furtwanglers Monographie iberdieses Relief.Ein Gipsabgufs befindet sich in der Glyptothek Munchen.
+
+Hohe 27,Breite S0 cm.
+
+1147 Antikes Relief in weifsem Marmor, skulptiert mit Triumphzug.In einem von zwei Panthern gezogenen Wagen sitzt Juno,in der Rechten das Zepter haltend;seitlich zwei Frauen. Hohe 47,Breite S5 cm. Eichenholzrahmen.
+
+Nr.1141.
+
+<!-- image -->
+
+1148 Viereckiges Relief in weifsem Marmor, skulptiert und mit teilweiser Vergoldung. Auf einem Wolkengebilde sitzt Madonna in faltenreichem Gewande und Kopftuch, das Jesuskind liebevoll an sich pressend; selbige unischweben sechs Engelfiguren mit vergoldeten Aureolen. Italienische Arbeit, 15. Jahrh.
+
+Hohe 51,Breite 46 cm.Geschnitzter Holzrahmen.
+1149 Relief, viereckig,oberhalb gerundet,in schwarzem Marmor,skulptiert mit der Huftfigur der Madonna in Mantel und Kopftuch, auf den Armen das Jesuskind tragend. Italienische Arbeit,16. Jahrh.
+
+Hohe 60,Breite 37 cm.Profilierter Holzrahmen.
+
+1150 Relief,viereckig.Maria mit dem Kinde,links ein betender Stifter. Maria in langem Gewande und turbanartigem Kopftuch tragt auf ihrem linken
+
+Nr.1142.
+
+<!-- image -->
+
+seitig zum Tanz die Hande. Hochrelief. In Art der Kehlheimer Steine. Hohe 16,Breite 11,5 cm.
+
+Arme dasunbekleidete Kind.DerHintergrund mit Landschaftsdarstellung,unter der Maria Puttokopf.Einfache Umrahmung,die Figuren fast vollrund gearbeitet und polychromiert. Italien, 15. Jahrh. Hohe 54,Breite 45cm.
+
+1151 Relief, Maria mit dem Kinde. Die hl. Jungfrau,im Profl nach rechts,tragt auf ihrer linken Hand das mit kurzem Hemdchen bekleidete Jesuskind.Halbrundes Hochrelief.Polychromiert und in Holzrahmen.15.Jahrh.Donatello. Hohe 68,Breite 47,5 cm.
+
+1152 Relief, Maria mit dem Kinde. Dieselbe ist sitzend dargestellt.Auf ihrem Schofse halt sie das unbekleidete Kind. Um die Darstellung ein reich verzierter Renaissancebogen,auf dem dieAufschrift:AVE MARIA GRATIA PLENA. Italien,16.Jahrh. Hohe 67, Breite 48cm.
+
+1153 Flachrelief.DiedreiGrazien. Drei unbekleidete Frauengestalten. Sie reichen sich gegen-
+
+1154 Leda mit dem Schwan,faches Hochrelief.Weifer Marmor.Rund. Durchm.23 cm.
+
+1155 Viereckige Platte, schwarze Steinmasse, in weifBer Masse eingelegt und graviert mit bufender Magdalena in Landschaft. 17. Jahrh.
+
+Hohe 46,Breite 33 cm.
+
+1156 Vierechige Platte in ahnlicher Ausfuhrung mit dem hl. Hieronymus. Gleiche GroBe.Gekittet.
+- 1157 Biiste einer Edeldame,die Miederjacke mit breitem Kragen und Puffarmeln. Vollrund in weifsem Marmor skulptiert.16.Jahrh. Hohe22 cm.
+- 1158 Uhr in Form eines von vier Saulen getragenen Torbogens aus verschiedenfarbigem Marmor und Goldbronze. Die Uhr wird von zwei stehenden agyptisierten Bronzefiguren getragen.
+- 1159 Weihwasserbecken mit Wedel. Das Becken Bergkristall in Eimerform mit geschliffenen Lisenen. Fuf und Rand in vergoldeter Bronze montiert, die aufs reichste ziseliert mit gefigelten Engelkopfchen und Renaissance-Ornamentwerk. Der Wedel in Art eines Zepters mit abschliefendem Kristallknauf. Lange 18 cm.
+- 1160 Platte,rund. Serpentinstein,mit Silber montiert. Der tiefe Fond zeigt in der Mitte eine St. Gallener Minze von 1621. Der breite flache Rand ausgeschweift, beiderseits mit schmaler Randborte in Blattmusterung, die durch Silberkordeln verbunden, der niedrige Fuf Silber. Durchm.26cm.
+
+Nr.1148.
+
+<!-- image -->
+- 1161 Zylindrischer Becher,Serpentinstein. Fuf und Lippenrand Silber,montiert mit ausgezackter Palmettenbordire;um die Leibung ziehen sich zwei breite Reifen. Seitlich zwei Henkel, ziseliert mit Harpyien und in Tierklauen aus-
+- laufend. Suddeutsche Arbeit,17. Jahrh.Marke Halbmond und D.
+
+Hohe12cm.
+
+Nr.1149.
+
+<!-- image -->
+
+- 1162 Zwei konische Becher, Serpentinstein. Der Lippenrand von Silberreif umzogen,graviert mit Palmetten.17.Jahrh. Hohe 8,5cm.
+- 1163 Renaissance-Pokal, Serpentinstein.Der birnformige Kelch mit Facetten geschliffen. Fuf und Schaft von Kordelfechtborduren in Silber umzogen, der kuppelformige Deckel ziseliert mit Blumenwerk und von kleiner Ritterstatuette bekront.Suddeutsche Arbeit. Hohe28cm.
+1164Pokal,ebenso.
+
+Gleiche Grofe.
+
+- 1165 Kumpe,rund,mit hoch ansteigendem Rand. Im Fond breit eingeschliffene Schilfpflanze.Moderner Fufring. Serpentinstein. Durchm.35,5cm.
+- 1166 Reliquienbehalter. Dreikantiger Bergkristall mit geschliffenem Hohlraum, der obere Teil gefaft mit Kupferkuppa, die ziseliert mit Renaissance-Ornamentwerk.Ringose. Hohe 15 cm.
+- 1167 Ein Paar Tischleuchter,in Steinnuf durchbrochen geschnitten. Der fache, achtfach abgeflachte Fuf in Form einer Akanthusblattrosette,mit seitlichen Blumengehangen.Der runde Schaft und die eingeschnirte Tulle zeigen in neun ibereinandergestellten,durch ringformigeWulste getrenntenZonen volutenformig aufgeroltes Rankenwerk, belebt von musizierenden Putten. 16. Jahrh.
+
+Nr.1150.
+
+<!-- image -->
+- 1168 Das hl. Abendmahl. Hochreliefierte Darstellung in Alabaster.Teils vergoldet.18.Jahrh. Hohe13,5,Breite10,5cm.
+- 1169 Zweiundvierzig Kameen, in Stein geschnitten mit Profilkopfen, Architekturen usw.42 Stick. Linge 5und2cm.
+
+Nr.1162.
+
+<!-- image -->
+
+Nr.1161.
+
+Nr.1160.
+
+- 1170 Italienisches Renaissance-Relief, Stukko,polychromiert. Halbfigur der Madonna in landschaftlichem Hintergrunde,auf den Armen das Kind haltend; neben ihr der kleine Johannes,in der Hohe geflugelte Engelkopfe.Die kartuschenformige Umrahmung aus seitlichen kannelierten Staben gebildet, mit abschliefSendem,weit vorspringendem Gesims,das untere Ende geschweift, mit Wappenschildchen und Spruch verziert. Hohe 107,Breite 75 cm.
+- 1171 Marmorsockel mit gedrehtem Schaft,Serpentinstein.
+- 1172 Marmorsockel,ahnlich.
+
+Hohe 106cm.
+
+Hohe 107cm.
+
+Nr.1162.
+- 1173 Marmorsockel,ahnlich.
+
+Hohe 107cm.
+
+- 1174 Marmorsockel, viereckig, mit abgeschragten Ecken,in rotlichem, gelbgesprenkeltem Marmor. Die Ecken,Fuf und Deckelplatte weifs.
+
+Hohe 100 cm,
+
+Nr.1152.
+
+<!-- image -->
+<!-- image -->
+
+## Arbeiten in Elfenbein und Bein.
+
+- 1175 Friihchristliches Kultusgefaβ.Fast zylindrisch,auf der Vorderseite in hohem Relief geschnitten mit der Standfigur Christi als guter Hirt; auf den Schultern tragt er ein Lamm,in der Rechten halt er den Hirtenstab. Die Seitenwandung mit eingeschnittenen Fischen und Kreuzornamenten, am obern Rande Palmettenborduren. An der Rickseite grofe, nach unten gebogene,fache Handhabe,eingeschnitten mit Figuren,christlichen Symbolen und Palmwedel.Interessantes seltenes Stick frihester christlicher Beinarbeit. Hohe 14cm.
+- 1176 Runde romanische Tille,Bein,in hohem Relief geschnitten mit drei minnInteressantes
+- lichen und weiblichen Standfiguren unter Bogenstellungen. Stuck. Lange 7 cm.
+- 1177 Sechs Appliken eines romischen Schmuckkastens, Bein,in fachem Relief geschnitten.
+- 1.Gerundetes Eckstick, durch Banderole mit Aufschrift TRAIANUS in zwei Halften geteilt mit je drei Konigsfiguren. Lange 14,Breite 5 cm.
+- 2.Gerundetes Eckstick, durch Kordelfechtbordure in drei Zonen eingeteilt, in denen Kostum-und Tierfiguren. Hohe14cm.
+- 3.Eckstuck, fast vollrund geschnitzt mit Feldherr, ein Kohortezeichen haltend. Hohe 14cm.
+- 4.Stirnfries mit Bar,Wildschwein und fuinf Figuren.
+- Lange 17 cm.
+- 5.Halbkreisformiges Relief mit drei Konigsfiguren, begleitet von zahlreichem Gefolge und Baren. Lange 18 cm.
+- 6.Viereckig ausgeschweifte Applike mit mittlerm Rundmedaillon,in dem die Brustbilder dreier Konige. Lange 8, Breite 6 cm.
+
+Gefunden 1903 in Komagu (Ungarn).
+
+- 1178 Krummstab,aus mehreren Teilen zusammengeschraubt.Der Schaft rund, dreimal durch mit reliefierten und stilisierten Lilien getrennte Knaufe unterbrochen.Um den Schaft windet sich spiralformig ein Band, das,uber einer goldenen Rankenbordure auf schwarzem Grunde fortlaufend, von unten beginnend, auf Goldgrund die betende Stifterfamilie, die Geburt Christ, die
+Nr.1178.
+
+<!-- image -->
+
+Kreuzigung und die Auferstehung und zwischen Engeln thronenden Gottvater zeigt in minutioser Malerei in Art des Memling. Aus dem Schaft wachst iber doppeltem Lilienring der grofe Knauf in Form eines doppelten gotischen Turmbaues mit Eckturmchen,Fialen und Nischen.Unterhalb derselben einKranz von nach oben kletternden Drachen. In den Nischen der untern Etage steht je die Figur eines Heiligen als kirchlicher Streiter in Vollristung; in den obern je die Figur eines Heiligen in reichem Gewand,abwechselnd mit der Figur des hl. Heinrich, dem hl. Christophorus und dem hl. Nikolaus.Der Turmbau fuhrt vermittels eines offenen Tempelchens zu der hohen Krumme iber,diemit gotischem Ornamentwerk und franzosischen Lilien in Relief sowie mit Krabben verziert ist. In derselben befindet sich vollrund das Kreuz mit dem Leichnam des Herrn;zu den Seiten Maria, Johannes und Magdalena sowie drei Krieger. Der ganze Stab reich polychromiert und vergoldet.Die Pike reich profiliert in vergoldetem Silber.Elfenbein.Prachtstick.
+
+Hohe205cm.
+
+1179 Kriimme eines Bischofstabes,volutenformig aufgerollt und in fachem Relief geschnitzt mit Heiligenfiguren unter gotischem Torbogen und Laubranken, belebt von phantastischen Tierfiguren.
+
+- Lange 21 cm.
+
+1180 GotischerHostienbehalter aufrundem, mit Palmetten geschnittenem Fufe.Der zylindrische Behalter zeigt Standfiguren mannlicherund weiblicher Heiligen unter gotischem Torbogen.Der Deckel von Kreuz iberragt. Franzosische Arbeit.
+
+- Hohe16cm.
+- 1181 Gotischer Turm in zwei ibereinanderstehenden,sich erganzenden Etagen, in hohem Relief geschnitzt mit Nischen,in denen Standfiguren von Heiligen. Der Sockel Eichenholz mit eingelassenen Elfenbeinappliken.Hohe 30 cm.
+- 1182 Viereckiger Schmuckkasten auf ausladendem Fufe,auf vier Lowenklauen ruhend. Der Deckel treppenformig aufsteigend und geschragt. Die ganzen Flachen mit Beinplatten belegt, die geschnitten mit phantastischen Tierfiguren und Palmetten in romanischem Charakter.Der Untergrund vergoldet und gepunzt. Hohe 22,Linge 30,Breite 20 cm.
+
+1183 Schmuckkasten,viereckig,Zedernholz,mit vier Schiebladen. Die vier
+
+Nr.1175.
+
+<!-- image -->
+
+Aufsenseiten sowie dieVorderseiten der Schiebladen mit Elfenbeinplatten verziert.Dieselben zeigen iberaus reiches Rankenwerk,von Vogelfiguren belebt.Bei den Seitenflachen sind die so verzierten Platten rahmenformig um eine mittlere Platteangeordnet,hochreliefert viermal mit dem leicht variiert sich wiederholenden Siindenfall in einfachen Landschaften. Auf vier Metallfifsen. Romanisch,12.Jahrh.
+
+Hohe 22,Breite 26,
+
+Tiefe 17,5 cm.
+
+1184 Viereckige Kassettein Form eines Sarkophags,der geschragte Deckel in Certosaarbeit reich gemustertundmit Beinplattenbelegt,dieinhohem Relief geschnitten mit Kartuschenschild haltenden Engel-
+
+- figuren.Die Seitenwandungen
+
+ganz mit Beinplatten belegt, die Engelfiguren und weibliche Kostimfiguren, unter Baldachin stehend,in romanischem Charakter zeigen.
+
+Hohe 22,Lange 22, Breite 16 cm.
+
+- 1185 Schmuckkasten,viereckig,mit breitem Fuf und oberm Rand,auf vier Fufen ruhend, die Seiten verziert mit einer Reihe leicht gebogener, eng gestellter Marmorplatten,reliefiert mit je einer oder zwei Fruhrenaissance-Figuren einer Erzahlung, die Ecken kannelierte Pfeiler mit reichen Kapitellen. Das
+
+Holz des Kastens sowie der hohe Deckel mit Certosaeinlage.
+
+H6he 22,5,Breite 26,Tiefe 23 cm.
+- 1186 GroBer Kasten, in ahnlicher Weise geschmuckt.Im Deckel eingelassen eine Elfenbeinplatte, graviert mit mythologischer Landschaft. Hohe 25,Breite 40,Tiefe 26 cm.
+- 1187 Viereckiger Schmuckkasten mit geschragtem Deckel,in verschiedenfarbigem Holze und Elfenbeinstabchen in geometrischer Anordnung reich eingelegt. Die Seitenwandungen Bein, geschnitzt mit Kostim- und Tierfiguren in
+- romanischem Charakter. Hohe 8,Lange 10, Breite 15 cm.
+- 1188 Kasten,Palisanderholz. Die vier Seiten sowie der Deckel geschmickt mit dichtgestellten, gewolbten Knochenplatten mit hochreliefierten Darstellungen aus dem Leben oder einer Geschichte, zumeist in ein und zwei Figuren in der Kleidung der Frihrenaissance.Die einzelnen Szenen unter baldachinartigen Baumkronen. Italien. Hohe 21,Breite 46,Tiefe 20 cm.
+- 1189 Viereckige Kassette mit geschragtem Deckel auf vier kurzen Fufen,allseitig
+- mit Elfenbeinplatten belegt,die geschnitzt mit lebendig komponierten Jagddarstellungen in von Eierstabborduren und Palmetten umzogenen Feldern. Hohe 18,Lange 22,Breite 12 cm.
+- 1190 Schmuckkasten,viereckig,auf vier Kugelfifen ruhend. Die vordere Wand DieAufenseiten in symmetrischer,teils rahmenformiger Anordnung verziert mit Band und Blattmuster in fachem Hochrelief.Die Schiebladen in ahnlicher Weise verziert mit Renaissance-Rankenwerk mit Fabeltieren und Maskarons. Seitlich am Kasten zwei vergoldete Traghenkel, die reliefiert mit Fischkopfen und Schuppenmusterung. Die Ruckseite roter Samt.Deutsch, 16.Jahrh. Hohe 21,Breite 30,5,Tiefe 17cm.
+- 1191 Schmuckkasten, viereckig, mit konisch erhohtem Deckel und flachen ausgeschnittenen Fufsen. Die Seiten graviert und geschwarzt mit Landschaften in viereckigen Umrahmungen mit Blumenwerk. Elfenbein auf Holzkern. Hohe 18,Breite 26, Tiefe 15 cm.
+- 1192 Kasten aus schwarz gebeiztem Holz,in ahnlicher Weise mit Beinreliefs verziert.Der Deckel ohne Schmuck. Hohe 19,Breite 39,Tiefe 20 cm.
+- 1193 Viereckige Schmuckschatulle mit gewolbtem Deckel,auf der Vorderseite zwei kleine Schiebladen, die Seitenwandungen und der Deckel geschnitzt mit ippig verschlungenen Blumenranken, von Perlbandborduren umrahmt.
+- Scharniere und Schlof Silber,ziseliert mit Tulpenbuketts.17.Jahrh.
+
+Hohe 10,Lange 16,Breite 14 cm.
+- 1194 Schnupftabakdose,vierkantig,der Deckel in starkem Hochrelief verziert mit phantastischen Fabelwesen. Einfache Silberfassung. 18. Jahrh.
+
+Linge 8,Breite 6,Hohe 2,5 cm.
+
+- 1195 Dose. Der Deckel, Elfenbein, zeigt in hohem, teils vollrundem Relief die Auferweckung des Lazarus in figurenreicher Komposition mit landschaftlichem Hintergrund. Die Dose, reich ausgeschweift,ist Silber, innen vergoldet. 18.Jahrh. Lange 8,Breite 5,H8he 1,5 cm.
+- 1196 Dosendeckel,rund,mit der Anbetung der hl.drei Konige in fachem Hochrelief.18.Jahrh. Durchm.7cm.
+- 1197 GroBes Horn.Die ganze Flache in Hochrelief verziert. Das Mundstick in Form eines Hundekopfes, der Schallrand mit Blattmuster. Die ubrige Flache zeigt zwei durch einen einfach verzierten Ring getrennte, je fortlaufende Darstellungen,in deren obern Teil ein Kampf zwischen Tieren, Pferd,Lowe, Bar,Hunden usw.Im untern Teil ist eine Waldlandschaft mit Eberjagd; der von mehreren Hunden gestellte Eber wird von zwei hunderts naht zu Pferde. GanzeLange85 cm.
+
+Nr.1184.
+
+<!-- image -->
+- 1198 Humpen. Die zylindrische Leibung zeigt in iberaus starkem Hochrelief mit vielen Unterschneidungen einen figurenreichen Bacchuszug in Parklandschaft. Der Henkel Elfenbein in Form einer Blattvolute,auf der zwei sich kussende Putten.Der hohe Fufring und der Deckel Silber,verziert mit reliefertem Fruchtwerk und Musikemblemen in Bandwerkmedaillons. Als Deckelknopf vollrunde Elfenbeinfigur eines schalmeiblasenden Fauns. Silbermarke des Jacob Schuhmacher (1608) und Augsburger Beschauzeichen. Hohe 21,5 cm.
+- 1199 Humpen. Die Leibung zylindrisch verziert mit einem Trinkgelage in starkem Hochrelief, einzelne Teile vollrund unterschnitten. Um einen Tisch sitzen trinkend sieben Putten, einer derselben schneidet einen Schinken und einen Fisch auf.Rechts stehend ein einschenkender Putto. Der Henkel in Form zweier sich kussenden Putten, die auf einer obern bzw. untern Volute sitzen. Fuf und Deckel Silber mit reliefiertem Renaissance-Band und Blumenwerk.Als Deckelknopf foteblasender Engel. Hohe 21 cm.
+- 1200 Humpen,zylindrisch gedeckelt, auf ausladendem,in Silber getriebenem Fufe, verziert mit Renaissance-Rankenwerk, von Maskenkopfen durchsetzt Die zylindrische Leibung Elfenbein,in hohem Relief mit vielen vollrunden Partien geschnitzt mit lebendig komponierter romischer Schlacht. Der Deckel Silber, getrieben mit Ovalmedaillons, in denen Waffentrophaen und Profilkopfe, umrahmt von Palmetten. Als Abschluf Standfigur eines romischen Feldherrn.
+- Prachtstick. Hohe 40 cm.
+- 1201Humpen. Die zylindrische Leibung fortlaufend verziert mit der hochreliefierten Darstellung des Urteils Salomos. Den Deckel ziert ein Kranz von allerlei Tieren in schwacherm Relief.Als Knopf ein von Drachen bekronter Helm.Der weite Henkel, Fuf und Deckelring Silber, vergoldet mit Kordelflecht- bzw. Perlbandverzierung. Hohe 21 cm.
+- 1202 Humpen. Die Leibung zylindrisch und fortlaufend verziert mit Kinderdarstellung in starkem Hochrelief, einzelne Teile unterschnitten und vollrund gebildet.Der hohe Fufs und Deckel Silber, vergoldet und reliefiert mit Renaissance-Bandwerk und Frichten.Als Knopf Vollfigur eines Putto mit Thyrsusstab und Traube.Der Henkel mit weiblicher Karyatide. Mit
+- Silbermarken. Hohe 28 cm.
+- 1203 Groβer Humpen, gedeckelt, der ausgebauchte Fuf in Silber getrieben mit Rokoko-Muschelwerkund Palmetten.
+
+Hohe 27 cm.
+
+- Die zylindrische Leibung Elfenbein, in hohem Relief geschnitten mit Eberjagd in figurenreicher Komposition. Der fache Deckel getrieben mit Jagdtieren in Laubranken, der Henkel Silber, ziseliert mit Kentaur, einen Drachen totend, und volutenformig gebogenem Rankenwerk,in Maskenkopfe verlaufend. SchonesDekorationsstick.
+- 1204 GroBer Humpen,zylindrisch,auf weit ausladendem Fufse,in Silber getrieben mit Fruchtbuketts, Bandelwerk und Palmetten.Die Leibung in hohem Relief meisterhaft geschnitten mit Lowenjagd im Geschmacke P. P.Rubens. Um den Lippenrand zieht sich ein mit Palmetten gravierter Silberreif. Mit Munchener Beschauzeichen des 18. Jahrh. Hohe 29 cm.
+- 1205 Silberner Pokal auf kurzem breitem Fufe,dieLeibung des glockenformigen Kelches in fachem Relief in Elfenbein geschnitten mit Bacchanal. Pariser Beschauzeichen des 18. Jahrh. Hohe11cm.
+- 1206 Pokal in derselben Ausfuhrung,wenig kleiner.
+
+Hohe 10 cm.
+
+Nr.1190.
+
+<!-- image -->
+
+- 1207 Pokal auf profiliertem Bronzefuf. Der ovale Kelch Bein,graviert mit den Standfiguren von Petrus und Paulus in Renaissance-Kartuschenumrahmung. Hohe 16cm.
+- 1208 Kocher,vierkantig,graviert mit geschwarzten Heiligenfiguren und Blattborduren. Der Deckel durchbrochen mit Putten und Ringmusterung. Die breiten
+- Tragringe sowie die Rander mit Blattwerk reliefiert. Lange 21 cm.
+- 1209 Pulverhorn,Bein,in der Form eines Schulterbeines. Die Vorderseite und Ruckseite graviert (und geschwarzt) je mit der Darstellung einer antiken Schlacht sowie Wappen.Darum laufend einfache Renaissance-Band- bzw. Akanthusbordure. Mit breitem reichem Gehange aus Silberborten und Purpursamt sowie Randfransen. Lange 52cm.
+- 1210 Pulverhorn,ahnlich,mit Jagdszenen und Blattwerk. Ebenfalls mit breitem Tragriemen. Lange 49cm.
+- 1211 Pulverhorn in Dreiecksform mit abgeschragten Ecken.Die Vorderseite ziert eine Platte mit flachreliefierter Darstellung eines Kentaur in Landschaft, der in der Hand einen Hasen halt, auf seinem Rucken einen Putto tragt. Seitenwandungen und Hals verziert mit Kerbschnittmusterungen und Renaissance-Maskarons und Trophaen. Die Ruckseite Eisen, graviert mit Wappen.
+- Seitliche Ringe und die Schliefe in reliefiertem Eisen. Hohe34cm.
+- 1212 Pulverhorn.Die Vorderseite verziert mit gekronter Wappenkartusche,in der drei franzosische Lilien, die Ruckseite mit antikisierendem Reliefkopf,
+
+umgeben von Renaissance-Dekor,Girlanden, Tieren, Bandern usw. Der lange Hals kanneliert mit Blatt-und Perlenkranz. Als Stopsel romischer Kriegerkopf. Lange 23 cm.
+
+- 1213 Pulverhorn,aus einem Beinknochen gebildet,graviertmit fgurenreichem Bacchanal; um Fufs und Rand zieht sich eine Palmettenbordure. Italienisch,16. Jahrh.
+- Hohe34cm.
+- 1214 Platte eines Pulverhorns,verziert mit dem Urteil des Paris in flachem Hochrelief.17. Jahrh. Hohe 11 cm.
+- 1215 Elfenbeinkamm,halbrund,verziert mit
+- gemalten Goldornamenten.17. Jahrh. Hohe 5,Breite 14 cm.
+- 1216 Gebetnuf.Die Aufsenseite in Form einer
+
+fast kugeligen Muschel. Im Innern mit neutestamentarischen Szenen in hohem, Nr.1243. teilweise vollrundem Relief.In der einen Halfte:Jesus wird bei den Schriftgelehrten von seinen Eltern gefunden.In der andern Halfte die Herabkunft des heil. Geistes. Einfache Silberfassung. 18. Jahrh.
+
+<!-- image -->
+
+Durchm.6,5 cm.
+
+- 1217 Kugelspiel. Auf hohem, aus Kokusnuf gebildetem Sockel erhebt sich ein
+- mit Galerieverzierung und Wendeltreppe versehener Turm,bekront durch vollrunde Statuette der Venus,mit Diadem geschmickt. Augsburger Arbeit, 17.Jahrh. Hohe 37 cm.
+- 1218 Zunftzepter,reichprofilierter Stab,dieEnden mit Silberknopfenmit reliefiertem Blattkranz; auf dem einen als Bekronung vollrund modellierter, heraldischer Adler. Linge 42 cm.
+- 1219 Spazierstock,Knopf und Pike Elfenbein.Ersterer in Form einer vollrund modellierten weiblichen Figur in Maskenkostum, auf Blattvoluten stehend.19.Jahrh. Ganze Linge S3 cm.
+- 1220 Stockgriff,rechtwinklig umgebogen und verziert mit fast vollrund geschnittener
+- weiblicher,unbekleideter Figur.19. Jahrh. Linge 1l cm.
+- 1221 Stockgriff mit fachreliefierten Beduinenkopf.Fragment. Hohe 9,5cm.
+- 1222 Stockknopf. durchbrochen geschnitten mit Christus- und Totenkopf. 18. Jahrh.
+
+Hohe 3 cm.
+
+- 1223 Stockknopf konisch, verziert mit zwei ruhenden Jagern bei einem Baume,
+- die obere Flache mit mannlichem Proflkopf. 19. Jahrh. Hohe 5 cm.
+- 1224 Pfefferflasche. Die Leibung umzieht fortlaufend eine Landschaft mit musizierenden,sitzenden und schlafenden Putten, den Hals ein Kranz tragender Putten in fachem Hochrelief. Hohe 12 cm.
+- 1225 Messer. Der Griff Elfenbein,vollrund geschnitten in Form einer weiblichen Kniefigur, die nur mit Tuch und Scharpe bekleidet, das Haar mit grofen Federn geschmickt.17.Jahrh. Lange 20 cm.
+- 1226 Messer. Der Griff zeigt vollrund geschnitten und reich durchbrochen die Figur Adams und Evas,am Baum der Erkenntnis stehend; der Rucken der
+- breiten Klinge reliefiert mit Drachen.Deutsch,17. Jahrh. Lange 28 cm.
+- 1227 Ein Paar Messerhefte in Form einer vollrund geschnittenen Konigs- und
+- Koniginfigur in reichen Gewandern.17. Jahrh. Hohe 8cm.
+- 1228 Drei Loffel eines Einsatzes. Die Stiele in Volutform je in eine mannliche Figur endigend, die Senf bereitet bzw.Pfeffer und Salz stofst.Darunter Aufschrift.Elfenbein.18.Jahrh. Lange 11—12cm.
+1229 Nadelbichse, zylindrisch,in flachem Hochrelief verziert mit Liebespaar, Putten und Vogeln, Blatt-und Muschelwerk. Einfache Silberfassung. 18. Jahrh. Lange 13,5cm.
+
+1230 Petschaft. Der Griff in Form eines vollrund modellierten Putto.
+
+Hohe 7 cm.
+
+1231 Anhanger,oval. Die Vorderseite geziert mit der auf einer Weltkugel stehenden Maria.Auf der Ruckseite Brustbild eines Heiligen in Hochrelief.Vergoldeter
+
+Kupferrahmen.18. Jahrh. Hohe 6,5,Breite 5,5cm.
+
+1232 MeisterstiickinFormeines auf hohem Fufse stehenden Papageienstanders. Reich in Stab und Ringmuster durchbrochen. Zick'sche Arbeit.
+
+- Hohe 43 cm.
+
+1233SonnenuhrmitKompafsund Angaben, Kompaf und Kalendarium graviert mit teils bemaltem Putto- astronomischen Blumenwerkund kopfen.1618.
+
+Hohe 10,5,Breite 8 cm.
+
+1234 Wirfel,kugelformig,mit vielen runden Abfachungen, die mit punktierten und bemalten Zahlen und Zeichen versehen sind.
+
+Durchm.4,5cm.
+
+Nr.1245.
+
+<!-- image -->
+
+1235Romanischer Christuskorper,halbrund geschnitten, das Lendentuch durch Bandschleifen gebunden, die Fufe nebeneinanderstehend, das Haupt gekront.
+
+Linge 20 cm.
+
+1236 Hl. Maria min dem Kinde. Maria in langem Gewande mit reichen tiefen Falten stehend dargestellt. Sie tragt auf ihrem linken Arme das Kind, dem sie mit der Rechten einen Apfel reicht. Die Figur steht auf einer dreiviertelrunden Wandsaule mit profilierter Basis und gotischem Kapitell. Ganze Hohe 40 cm.
+
+Polychromiert.
+- 1237 Maria mit dem Kinde,stehend.Auf dem linken Arme tragt sie das bekleidete Kind, in ihrer Rechten eine Lilie.Die Figur steht auf einer hohen Wandsaule mit einfachem Sockel und hohem Kapitell mit gotischem Blattschmuck. Figur und Kapitell polychromiert. Ganze Hohe 35 cm.
+- 1238 Gotische Figur. Madonna mit dem Kinde. Madonna in eng anschliefsender Gewandung, den Rock aufgeschirzt, halt auf dem linken Arme das Jesuskind,
+- in der Rechten eine Rose. Hohe 23 cm.Holzsockel.
+- 1239 Hl. Augustin,stehend,in einfachem priesterlichem Gewande,neben ihm die Bischofsmitze; in seiner erhobenen Rechten halt er das brennende Herz. Hoher, stark eingezogener Elfenbeinsockel mit Metallplatte. 18.Jahrh. Hohe 12,5 cm. Gegenstick zur folgenden Figur.
+- 1240 St.Franziskus, ahnlich,in Monchsgewand. 18.Jahrh. Gleiche Grofe. Gegenstick zum Vorhergehenden.
+- 1241 Johannes der Taufer,mit Schafsfell bekleidet, dessen Saum vergoldet und rot bemalt;in der Linken halt er das Lamm Gottes. Vollrund geschnitzte spanische Figur.17. Jahrh. Hohe 24 cm.
+- 1242 Gotische Standfigur,hl.Franziskus,barfuf,im Ordensgewande;in der Rechten halt er ein Kruzifix, in der Linken ein Buch. Mit Resten von Bemalung. Hohe 17cm.
+- 1243 St. Michael. Vollrunde Figur des Erzengels in stehender Stellung, der rechte Fuf leicht vorgestellt.Er tragt ein antikes Gewand mit eng anliegendem Lederpanzer und kurzem Rock; die Sandalen mit hohen stiefelartigen Kappen, das Haar in langen Locken zur Schulter fallend. Aus seinem Rucken erwachsen zwei fein durchgearbeitete Flugel. Der rechte Arm ist hoch erhoben. Einzelne Teile der Figur, namentlich der Gewandung, in Lasurfarben polychromiert.Spanien,17.Jahrh. Hohe 86cm.
+- 1244 Kruzifix, Kreuz und Sockel schwarz gebeiztes Holz, der Korpus Elfenbein, vollrund geschnitten mit nebeneinanderstehenden Fufen,das Haupt mit Dornen gekront. Am Fufe Standfgur der Madonna in Mantel und Schleier, die Hande uber die Brust gekreuzt.18.Jahrh. Hohe 70 cm.
+- 1245 Christus am Kreuze, der Korpus Elfenbein, vollrund geschnitten mit ibereinandergeschlagenen Fufen, das schmerzerfillte Haupt aufwarts gerichtet. Das Kreuz Kampherholz,geschnitzt mit Blattwerk.17.Jahrh.
+
+Hohe des Korpus 70 cm.
+- 1246 Christus am Kreuze,der Korpus Elfenbein,vollrund geschnitten mit ubereinandergeschlagenen Fufen, das Haupt mit Dornen gekront. Das Kreuz Nufbaumholz.17.Jahrh. Hohe des Korpus 60 cm.
+- 1247 Maria mit dem Kinde,stehend,in faltenreichem Gewande;auf dem linken Arm tragt sie den Jesusknaben,
+
+in der Rechten eine Lilie. Das Haupt ziert eine Krone.Elfenbein. Vollrund. Prachtstick.Vlamisch,
+
+16.Jahrh. Hohe54,5cm.
+
+- 1248 Maria mit dem Kinde. Die Jung-
+- frau stehend in langem Manteltuch,das auf dem Haupte mit einer Krone gehalten wird. Auf dem linken Arme tragt sie das Jesuskind, das mit langem Tragkleide bekleidet ist und in der Linken die Weltkugel halt. Hoher polygonaler Sockel mit Bischofswappen in Hochrelief.
+
+Hohe 52 cm.
+
+- 1249 Golgathagruppe. Hohes Holzkreuz auf breitem Sockel. Am Kreuze hangend Christus mit Lendentuch und Dornenkrone,das Haupt nach links geneigt,die Fufe gekreuzt. Uber ihm Schriftband.Am Kreuzesfufse kniend
+
+Nr.1246.
+
+<!-- image -->
+
+die heilige Maria Magdalena,mit der Linken den Kreuzesstamm umfassend. Sie tragt ein iberaus faltenreiches Barockgewand, das mit kleinen Steinen und Perlen verziert. 18. Jahrh. Ganze Hohe 49,5 cm.
+
+- 1250 Madonna mit dem Kinde,stehend,in langem Gewande mit einfachen schematischen Falten. Die Enden des Mantels sind iber die Arme hochgezogen. Auf dem linken Arme sitzt das Jesuskind, in seiner Linken die Weltkugel haltend, die Rechte segnend erhoben. Niederer Sockel mit Kordelflecht-
+- verzierung Spanien,17.Jahrh. Hohe44,5cm.
+- 1251 Heilige Familie. Maria und Joseph fuhren leicht schreitend den zwischen ihnen gehenden Jesusknaben an der Hand. Die Figuren vollrund geschnitzt und mit weiten bauschigfaltigen Gewandern bekleidet. Die Haare, Augen und Lippen polychromiert, das Gewand damastartig, mit aufgemaltem Goldmuster verziert. Spanisch,17. Jahrh. Hohe 41,3,Breite 41 cm.
+- 1252 Christuskind. Stehender Christusknabe,unbekleidet.Die rechte Hand ist
+- segnend emporgehoben. Der Blick gerade auf den Beschauer gerichtet. Das Haar leicht schneckenformig graviert sowie die Sandalen vergoldet. Augen und Mund polychromiert.Spanien,17. Jahrh.
+
+Hohe 40 cm.Auf polygonalem Marmorsockel.
+
+- 1253 Venus. Freie Nachbildung der Venus von Medici. Jugendliche unbekleidete Frauengestalt, vor einem Baumstumpf stehend; neben ihr ein Delphin, auf dem zwei Putten reiten.An der niedern ausgeschweiften Sockelplatte Inschrift:KAEQ MENHS AHIOAAOAQPOr AOHNAIOS EHOIEI.Arbeit des Frangois Dusquenoy,17.Jahrh. Hohe37,2cm.
+- 1254 Kruzifix, der Korpus vollrund geschnitzt mit ibereinandergeschlagenen Fufen, das Haupt zur Seite geneigt. Das Kreuz schwarz gebeiztes Holz, mit Elfenbeinstabchen und Palmetten eingelegt. 18. Jahrh. Hohe34cm.
+- 1255 Christuskind. Dasselbe ist vollrund schlafend dargestellt.Die Rechte ist zum Kopf erhoben. Das Haar leicht getont. Spanien,17. Jahrh. Lange30 cm.
+- 1256 Christus als guter Hirt. Auf hohem,in drei Etagen aufsteigendem Felsen sitzt Christus in Schaferkostum, auf dem Schofe ein Lammchen haltend. Die einzelnen Etagen in hohem Relief mit vielen vollrunden Figuren geschnitzt,mit weidenderSchafherde,Laufbrunnen und Standfiguren von Heiligen; am Sockel in Nische zwei ruhende Lowenfiguren. 15. Jahrh.
+
+Nr.1255.
+
+<!-- image -->
+
+Hohe 30 cm.
+
+- 1257 Flavia,die Zunge Ciceros durchstechend. Flavia in kurzem Rocke und Miederjacke, das linke Bein auf einen Steinsockel gestitzt. Auf dem Knie halt sie das Haupt Ciceros, im Begriff, die Zunge mit der Nadel zu durchstechen； seitlich ihr Knabe.Treffliche,vollrund geschnittene Figur Leonhard
+- Kern).17.Jahrh. Hohe 25 cm.
+- 1258 Der Krieg, allegorische weibliche Figur. Furie in voller Ristung, in der erhobenen Linken einen Schild, in der Rechten ein Schwert haltend; am Boden Schlange und Totenkopf. Treffliche,vollrund geschnittene Figur nach
+- Sandro Botticelli.15.Jahrh. Hohe 30cm.
+- 1259 Pan mit umgurtetem Lendentuche und Panpfeife,in Rohricht stehend, die Doppelflote blasend.Vollrund geschnitzte Figur. Hohe 28 cm.
+- 1260 Christus fallt unter dem Kreuze. Christus liegend dargestellt,mit der Rechten sich auf den Boden stitzend,die Linke umfaft den Kreuzesstamm. Hinter ihm stehend ein Krieger,der ihn aufreifSt und das Kreuz von seiner Schulter
+- nimmt.Elfenbein.17.Jahrh. Hohe 27,5,Breite 24cm
+- 1261 Madonna in faltenreicher Gewandung und Kopftuch, die Rechte vor die Brust haltend. Vollrund geschnittene Figur mit teilweiser Bemalung und
+- Vergoldung. Spanisch,17. Jahrh. Hohe 27 cm.
+- 1262 St. Joseph in langem Mantel, auf dem Ricken an einem Bande den Hut tragend,die Linke vorgestreckt. Gegenstuick.Ebenso. Gleiche Grofe.
+- 1263 Der Sommer. Jugendliche Frauengestalt,nur mit einem weiten Manteltuch,
+- das den Oberkorper freilaft,bekleidet. Sie steht neben einer Garbe.Das Haupt mit einem Ahrenkranz geschmickt.Hoher Sockel wie die nachfolgende Figur und zur gleichen Folge gehorend. Ferdinand Dietz. 18.Jahrh. Ganze Hohe 26 cm.
+- 1264 Der Herbst. Leicht bekleidete mannliche Figur,in der Linken halt sie eine Traube. Ein Kranz von Rebenblattern und Trauben schmickt das nach links gewendete Haupt. Zu seinen Fufen steht ein Korb mit Trauben. Anf.18.Jahrh.
+- Hoher eingezogener Sockel. Frankisch.Ferdinand Dietz. Gegenstick.Ganze Hohe 26 cm.
+- 1265 Standfigur. Hl.Magdalena mit vorgebeugtem Knie, vollig nackt. Der ganze Korper ist mit Haaren dicht bewachsen, das Kopfhaar fallt in langen Strahnen iber die Schulter herab; die Hande zum Gebet gefalten. Vollrund geschnitzte Figur,braun bemalt und mit teilweiser Vergoldung. Spanische
+- Arbeit des 16.Jahrhunderts. Hohe 24 cm.
+- 1266 Tod der Maria Magdalena.Dieselbe liegt in einer naturalistisch aus Pfanzenteilen und Bein hergestellten Grotte sterbend auf ihrem Ruhebett. Oben rechts naht triumphierend ein Chor von Engeln.Links unten eilen zwei Teufel fort. Die Figuren vollrund in Bein geschnitten. 18. Jahrh. In Kasten mit Glasscheibe. Hohe des Kastens 3l,Breite 35 cm.
+- 1267 Gotische Standfigur. Hl.Elisabeth in aufgeschirztem Rocke und Kopftuch, auf Drachen stehend; in der Rechten halt sie ein Korbchen. Vollrund geschnitzte Figur. Hohe 24 cm.
+- 1268 Venus,vollig unbekleidet, in einer Muschel stehend, mit der Rechten den Busen bedeckend.Das ippige Haar fallt in langen Strahnen bis zu den Knien herab.Vollrund geschnitzte Figur nach Sandro Botticelli. 15. Jahrh. Hohe 20 cm.
+
+Nr.1257.
+
+<!-- image -->
+
+1269 Hl. Michael mit erhobener Rechten,auf Teufel stehend, welcher auf einer Kugel liegt.17.Jahrh.
+
+Hohe 20 cm.Marmorsockel.
+
+- 1270 Hl.Dominikus in Ordensgewand,das Haupt geschoren;in der Linken halt er ein Buch.18.Jahrh. Hohe 20 cm.
+- 1271 BiBende Magdalena,vollig nackt,am Boden hockend,iber einen Totenschadel gebeugt.18. Jahrh.
+- 1272 Madonna mit dem Kinde.Standfigur der Madonna in faltenreichem,von breiter Ornamentbordure umsaumtem Mantel;auf demArme das Jesuskind haltend. 16. Jahrh. Hohe 21 cm.
+- 1273 Torso. Vollrund geschnittene Figur eines Christuskindes,naturalistisch aufgefaft. Arme und Beine fehlen.Fruhchristlich. Hohe20 cm.
+
+1274 Lukretia.Dieselbe stoft sich stehend den Dolch in die Brust.Die linke Hand ist leicht zurickgelegt.Das Haupt zur
+
+Seite geneigt. das Haar in Flechten um den Kopf gelegt. Sie ist vollig unbekleidet.Hoher Holzsockel, an dessen Vorderseite Elfenbeinplatte, darauf graviert Wappen. Deutsch, 16. Jahrh. H8he19,5cm.
+
+- 1275 Mater immaculata.Madonna,auf Mondsichel stehend,in reicher,mit Ornamentbordiren verzierter Gewandung; die Hande gefalten. Vollrund geschnitzte Figur. Hohe 19 cm.Geschnitzter Holzsockel.
+- 1276 Johanneshnabe,mit Fell bekleidet,am Boden liegend,in schlafender Stellung; neben ihm Kaninchen.Vollrund geschnitzte Figur.
+
+Lange 19 cm.
+
+- 1277 Madonna mit dem Kinde in faltenreicher,mit Bordiren umsaumterKleidung und Kopfschleife, auf einem Wolkengebild stehend, reich verziert mit geflugelten Engelskopfchen. Volrund geschnitzte Figur. 18. Jahrh. Hohe 19 cm.Ebenholzsockel.
+- 1278 Madonna in reich drapierter Gewandung; auf dem linken Arme halt sie das Jesuskind, das Haupt mit Krone bedeckt. Vollrund geschnittene Figur. 18.Jahrh. Hohe 19 cm.Ebenholzsockel.
+- 1279 Madonna mit dem Kinde, auf Halbmond stehend; den Mantel umsaumt eine Perlbandbordure, in beiden Handen halt sie das Jesuskind.Vollrund geschnitzte Figur.17.Jahrh. Hohe 19 cm.
+- 1280 Madonna in faltenreichem Gewande,den Blick aufwarts gewandt, die Hande gefalten.17.Jahrh. Hohe 18 cm.Geschnitzter Holzsockel.
+- 1281 Madonna in aufgerafftem Mantel und Kopftuch, das Mieder mit Streublimchen gemustert; auf dem linken Arme halt sie das Jesuskind. Italienische,
+- vollrund geschnitzte Figur.16.Jahrh. Hohe 18 cm.
+- 1282 Diana in leicht geschurzter Gewandung mit umgurtetem Kocher,in beiden Handen den Bogen haltend; am Boden Helm.Vollrund geschnitzte Figur. 17.Jahrh.
+- 1283 Christus, barfufs, das Gewand aufschirzend;in der Rechten halt er ein Rohr.
+- Hohe 17 cm.Holzsockel.
+- 1284/1295 Die zwolf Apostel.Folge von zwolf Figuren. Ganze Figuren, stehend dargestellt. Sie tragen lange faltenreiche Gewander, in den Handen halten sie ihre Insignien. Hohe vierseitige Sockel, die nach oben verjungt und mit seitlichen Voluten und hochreliefiertem Blattwerk verziert. 18. Jahrh. Hohe 17 cm.12 Stick.Werden vereinzelt.
+- 1296 Gotische Figur,Madonna mit dem Kinde. Madonna in weitem Mantel mit
+- eingefafterBordire und Schleier halt auf den Armen das Jesuskind.
+
+Hohe 20 cm.
+1297 Jupiter, unbekleidet, das Haupt mit Lorbeerkranz geschmickt, auf Adler sitzend,welcher in den Klauen die Blitze halt.17.Jahrh.
+
+Hohe 12 cm.Holzsockel.
+
+- 1298 Gotische Figur. Madonna,mit der Rechten das Kleid aufschirzend,in der Linken halt sie ein Zepter; den Kopf mit Schleier verhullt und mit Krone bedeckt. Franzosische Arbeit mit Resten von Bemalung. Hohe 14cm.
+
+<!-- image -->
+
+1299 Hl. Florian in eilender Stellung,mit ibergeworfenem Mantel; in der Linken halt er einen Eimer.18.Jahrh.
+
+Hohe 12 cm.Geschnitzter Hornsockel.
+
+1300 Hl.Antonius in Ordenstracht,auf den Armen das Jesuskind haltend.18.Jahrh.
+
+Hohe12 cm.
+
+1301 Hl. Rochus im Pilgerkleide,das Bein entblofst, seine Wundmale zeigend; neben ihm Hund
+
+18.Jahrh. Hohe 12 cm.
+
+1302 Madonna,auf Kugel stehend,auf beiden Handen
+
+- das Jesuskind haltend.17.Jahrh.
+
+Hohe 12 cm. Elfenbeinsockel.
+
+1303 Christuskind,vollig nackt,die Linke segnend erhoben.Vollrund geschnitzte Figur. 17. Jahrh.
+
+Hohe 11 cm.
+
+Nr.1274. 1304 Hl.Magdalena in kniender Stellung,den Blick aufwarts gewandt; das Haar fallt in langen Strahnen uber die Schulter herab. 17.Jahrh. Hohe 11 cm.Fragmentiert.
+
+- 1305 Hl.Franzishus in Ordenstracht,mit langem Haar und Bart, in der Rechten ein Kreuz haltend.18. Jahrh. Hohe 11 cm.
+- 1306 Hl. Hieronymus, kniend, uber ein Buch mit Totenschadel gebeugt; neben ihm ein Lowe. Vollrund geschnitzte Figur. 17. Jahrh. Hohe 10 cm.
+
+1307 Madonna in faltenreichem Gewande, auf der Brust ein durch Dolch durchHohe 10 cm.
+
+bohrtes Herz tragend.
+- 1308 Madonna in weitem Mantel und Schleier,das Haupt gekront;auf dem linken Arme halt sie das Jesuskind.18. Jahrh. Hohe 9 cm.
+- 1309 Pieta. Madonna in kniender Stellung,mit schmerzerfilltem Gesichtsausdruck, den Leichnam Christi auf dem Schofe haltend. 16. Jahrh. Hohe 9 cm.
+- 1310 Der Siindenfall. Unter einem Apfelbaume, in dem sich die Schlange windet,
+- stehen Adam und Eva,letztere den Apfel in der Hand haltend.Vollrund geschnitzte Gruppe.17.Jahrh. Hohe 8 cm.
+- 1311 Entfernung der Lilith aus dem Paradiese.Unter einem Baume sitzt Lot, eine seiner Tochter vollig nackt auf dem Schofe haltend, welche von der andern gehalten wird. Gegenstick.17. Jahrh. Gleiche Grofe.
+- 1312 Venus,unbekleidet. Vollrund geschnitzte, grin gefarbte Figur. Hohe 8 cm.
+- 1313 Gruppe dreier Putten in akrobatischer Stellung, eine Blumengirlande haltend.
+- Hohe 8 cm.
+- 1314 Ecce homo, vollrund geschnittene Figur, mit gefesselten Handen,in denen er ein Rohr halt;iber der Schulter hangt ein Mantel.18. Jahrh.
+
+Hohe 17 cm.Elfenbeinsockel.
+
+- 1315 Madonna, das lang herabwallende Haar mit Krone geschmickt; in beiden
+- Handen halt sie das Jesuskind.17. Jahrh. Hohe 17 cm.
+- 1316 Hl.Franziskus im Ordensgewande, mit geschorenem Haupte; in der Rechten halt er einen Totenschadel. Vollrund geschnitzte Figur. 18. Jahrh. Hohe 17 cm.
+- 1317 Hl.Katharina in reichem Gewande,in der Rechten das Schwert haltend; zu ihren Fufsen eine Konigsfigur. Hohe 16 cm.
+- 1318 Bauer. Derselbe ist sitzend auf einem niedrigen Block dargestellt, vor ihm steht eine Schissel mit einem gebratenen Huhn,mit der Rechten erhebt er einen Becher; das Gesicht ist grinsend zum Lachen verzogen. In Art der
+- Brouwerschen Figuren. Elfenbein, vollrund. Nordfranzosisch,17. Jahrh.
+
+Hohe 16,5 cm.
+- 1319 Bauer,ahnlich,in der Hand einen Krug haltend. Ebenso. Nordfranzosisch, 17.Jahrh. Hohe 16 cm.
+- 1320 Ceres, das Gewand aufschirzend; in der Linken halt sie ein Ahrenbiindel, in der Rechten eine Sichel. Hohe14cm.
+- 1321 Gruppe zweier Putten,leicht geschirzt,in den Handen Blumenkranze haltend. Vollrund geschnitzt.18.Jahrh. Hohe 14cm.
+- 1322 Hl.Antonius in Ordenstracht,mit geschorenem Haupte, die Hande gefalten. Die untere Halfte der Figur als Triptychon zum Aufklappen eingerichtet und geschnitzt mit gotischer Kapelle und Darstellungen aus seinem Leben. Hohe14cm.
+- 1323 Madonna in langem Mantel, auf Mondsichel stehend, die Hande gefalten. Vollrund geschnitzte Figur. Hohe14cm.
+- 1324 Minerva in voller Rustung, sich mit beiden Handen den Helm aufsetzend. 17.Jahrh. Hohe 14 cm.
+- 1325 Scherzfigur. Bartiger Alter mit grofem Spitzhut, eine vor ihm kniende Frau umarmend. Hohe 18 cm.
+
+Nr.1284. Nr.1285. Nr.1286. Nr.1287. Nr.1288. Nr.1289.
+
+<!-- image -->
+- 1326 Mannliche Karikatur in langem Mantel, die Hande iber die Brust gelegt. Hohe 9 cm.
+- 1327 Karikatur,ahnlich,sitzend,in den Handen eine Flasche haltend. Hohe7cm.
+- 1328 Anatomische Figur,weiblich. Die Arme beweglich und die Brust zum Offnen,wodurch die innern Organe freigelegt werden. Als Unterlage ein mit Seide bezogenes Ruhebett.17. Jahrh. Lange 14,5cm.
+- 1329 Anatomische Figur,mannlich. Ebenso. 17.Jahrh. Lange14,5cm.
+- 1330 Venus und Amor.Venus,unbekleidet,liegend dargestellt. Von vorne naht sich ihr der Amorknabe. Vollrund geschnittene Figuren. Auf Ruhelager von rotem Samt.18.Jahrh. Hohe 7,Breite 12 cm.
+- 1331 Scharlatan in zerlumpter Kleidung und Mitze;in der Linken halt er eine Schale,in der Rechten ein Messer. An der Seite im Gurtel hangt eine Spritze. Die Gewandteile Holz.Trefflich geschnitzte Trogersche Figur. Hohe 36 cm.
+- 1332 Muschelhandler mit grofem Schlapphut, einen Kasten mit Muscheln tragend. Gegenstick.Ebenso. Gleiche GroBe.
+- 1333 Bettlerfigur.Alterer Mann mit zerlumpter Kleidung, mit grofem Schlapphut,auf dem Ricken einen Sack tragend; in der vorgestreckten Rechten halt er eine Dose. Elfenbein und Holz. Trefflich geschnitzte Trogersche Figur. Hohe 32 cm.
+
+Nr.1290. Nr.1291. Nr.1292. Nr.1293. Nr.1294. Nr.1295.
+
+<!-- image -->
+- 1334 Bettlerin in ahnlicher Ausfuhrung.Gegenstick.
+
+Gleiche Grofe.
+
+- 1335 Scharlatan in sitzender Stellung,mit umgirteter Tasche,die Hande behandschuht und weit vorstreckend.Die Gewandung Holz.Trogersche Figur. Hohe 31 cm.
+- 1336 PossenreiBer,am Boden kniend,mit ausgebreiteten Handen; den Kopf bedeckt mit Mitze.Die Gewandteile Holz.Gut geschnitzte Trogersche Figur. Hohe 26 cm.
+- 1337 Hl. Johannes, mit Fell bekleidet;am Boden ruhendes Lammchen. Das Gewand Holz.Trogersche Figur. Hohe 14 cm.
+- 1338 Der Tod. Gerippe in Monchskutte (Holz),auf Knochen geigend. In Trogers
+- Art geschnitzte Figur. Hohe 12 cm.
+- 1339 Weibliche Kostimfigur mit hohem Mieder und Haube,in der Linken einen Beutel tragend. Die Gewandung Holz. Figur in der Art Trogers. Hohe 21 cm.
+- 1340 Bettlerfigur in Callots Art, in zerlumpter Kleidung und grofsem Hut, am Boden kniend. Treff lich geschnitzte Trogersche Figur; die Gewandpartien
+- Holz,die Fleischteile Elfenbein. Hohe 17 cm.
+- 1341 Bettlerfigur in ahnlicher Ausfuhrung.Ebenso. Gleiche Grofe.
+- 1342 Ecce homo. Christus mit gefesselten Handen und Fufen, auf Sockel sitzend, das Haupt mit schmerzerfulltem Ausdrucke zur Seite geneigt. Der Korpus Elfenbein, das Lendentuch und der Sockel Holz, geschnitzt. Italienische
+- Arbeit.17.Jahrh. Hohe 24 cm.
+- 1343 Weibliche Biste mit uber die Schultern geworfenem Mantel, das Haar mit Haube bedeckt.18.Jahrh. Hohe 6 cm.Holzpiedestal.
+- 1344 Biste des Johannesknaben mit lockigem Haar.Vollrund geschnitzt. Hohe 3 cm.
+- 1345 Hausaltar.Einfacher architektonischer Renaissance-Aufbau mit seitlichen kannelierten Saulen aus schwarz gebeiztem Holz,verziert mit eingelegten Elfenbeinplatten, die graviert und geschwarzt mit Engeln, Girlanden,Maskarons usw. Das Altarbild ebenso mit der auf dem Halbmond stehenden Madonna, von Engeln umgeben. Die Basen und die Kapitelle der Saulen Elfenbein. Die Platten 16. Jahrh.,Einfassung modern.Ganze Hohe 76 cm.
+- 1346 Gotischer Altar. Triptychon,viereckig, mit spitzbogigem oberm Abschluf. Das Mittelbild zeigt in halbrund geschnittenen Figuren, dreietagig angeordnet, die Golgathagruppe, darunter Beweinung Christi, unterhalb Verkindigung und Traum Josephs; die einzelnen Gruppen unter gotischen Baldachinen, die nach oben stets einfacher werden und in hohe, mit Krabben und dem Baseler Wappen geschmickte Spitze auslaufen. Der Grund blau und mit einfacher Mafwerkfillung.Ringsumlaufend gotisches Rankenwerk,belebt von Fabeltieren. Zu den Seiten zwei auf hohen Saulen und unter reichen
+
+Nr.1346.
+
+<!-- image -->
+Baldachinen vollrund geschnittene Apostel. Die innern Flugel entsprechend gebildet mit Maria,von Bettlern umgeben,darunter Geburt Christi;beziehungsweise Himmelfahrt Maria,darunter Besuch bei Elisabeth..In den gehaltenes Wappen. Der Altarkasten Holz mit Bandverzierungen in Beineinlage. Reste von Bemalung und Vergoldung.
+
+Hohe 54,Breite geoffnet 58 cm.
+
+- 1347 Anbetung der Hirten.Reliefdarstellung mit einzelnen vollrunden Figirchen. Alle Teile ausgeschnitten und auf blauem Samtgrund befestigt. In schwarzem Rahmen mit Elfenbein und Metallverzierung. 18. Jahrh.
+
+Grofe des Rahmens:Hohe 20,Breite 26 cm.
+
+1348 Zwei Mobelappliken. Die eine mit der Darstellung des Transportes der Bundeslade,die andere mit Opferszene. Elfenbein,in Zedernholz eingelegt. 17.Jahrh. Hohe 8,5 bzw.9,5,Breite je 22 cm.In gemeinsamem Rahmen.
+
+- 1349 Apollo und Daphne.Apollo sucht die nach rechts eilende,unbekleidete Daphne zu umarmen, die sich unter seinen Handen in einen Baum verwandelt. In den Luften schwebt Amor. Die Hauptfiguren fast vollrund mit starken Unterschneidungen gebildet, von F. Bossuit. 17. Jahrh.
+
+Hohe 20,Breite 13 cm.In tiefem Holzrahmen.
+
+Nr.1350.
+
+<!-- image -->
+
+1350 Vierechige Platte in fachem Hochrelief mit teilweiser Unterschneidung, verziert mit dem Aufbruch des Helios. Italien. 17. Jahrh.
+
+Hohe 2o.5,Breite 56,5 cm.In schwarzem Rahmen.
+- 1351 Gotische Gruppe.Der gute Hirt. Auf pyramidenformig aufsteigendem Felstiefung ruhende Figur,in einem Buche lesend. Seitlich Lowenfguren, dariber Brunnen,von zwei Heiligenfiguren flankiert; als Abschluf des ganzen Christus
+
+Hohe 24 cm.
+
+- gebild weidet eine Schafherde; am Fufe derselben in nischenformiger Verals Hirt,auf dem Schofe ein Lammchen haltend. Spanische Arbeit.
+- 1352 Ovale Platte,hochreliefiert mit Venus und Amor, von Satyr uberrascht. Erstere liegt vollig unbekleidet auf ihrem Ruhebett. Hinter ihr steht Amor, sie am Haare zupfend. Links wird ein Satyr sichtbar. In achteckigem Kasten-
+- rahmen mit reichen Metallappliken.17.Jahrh.Hohe der Platte 10,Breite 20,5 cm.
+- 1353Hausaltarchen. Einfacher architektonischer Renaissancerahmen mit spitzgiebliger oberer Bekronung, das Giebelfeld mit Blattwerk verziert.Im Hauptfelde Maria mit dem Jesuskinde stehend;rechts von ihnen die hl.Katharina mit Palme und Rad in reichem Zeitkostum, links Johannes der Taufer, auf dem Arme das Lamm tragend. Hohe 22,Breite 13,5 cm.
+- 1354 Pieta,in aufSerst hohem Relief geschnitten. Auf einer Steinbank sitzt Madonna in Mantel und Kopftuch, dessen Saum vergoldet und mit zierlichen Blumchen bemalt. Mit beiden Handen umfangt sie den auf dem Schofse liegenden
+- Leichnam Christi.15.Jahrh. Hohe 20 cm.
+- 1355 Elfenbeinplatte,halbrund gewolbt,am obern Rande abgerundet. Dieselbe zeigt in Hochrelief die Verlobung Maria nach dem Gemalde von Rafael. 17.Jahrh. Hohe 18,5 cm.
+- 1356 Relief von F.Bossuit:Herkules und Omphala.Herkules, auf einem Lowenfell sitzend, halt in der Rechten die Keule.Er spricht zu der hinter ihm
+- stehenden unbekleideten Omphala. Starkes Hochrelief. 17. Jahrh.
+
+Hohe 18,Breite 13 cm.In tiefem Holzrahmen.
+
+- 1357 Gotische Gruppe. Die Kreuzabnahme. Auf einem Felsgebild steht Joseph von Arimathia,den Leichnam Christi in den Handen haltend; neben ihm Magdalena, die Hand desselben umfassend. Franzosische Arbeit, die Figuren
+- teils vollrund geschnitten. Hohe 18cm.
+- 1358 Triptychon. Die Haupttafel oben leicht geschweift. Sie ist wie die Fligel in zwei ibereinanderliegende Felder geteilt mit Heiligen in starkem Relief. Auf der Tafel Gottvater in throno in von zwei Engeln gehaltener Mandorla, darunter eine Heiligsprechung; auf den Flugeln je ein kreuzhaltender Engel, darunter zwei Heilige. Elfenbein. Romanisch,12. Jahrh.
+
+Hohe 17,Breite geoffnet 17cm.
+- 1359 Vierechige Platte. Potiphars Weib sucht Joseph zu verfuhren. Halbfiguren
+- in starkem Hochrelief mit starken Unterschneidungen 17. Jahrh.
+
+Hohe 16,Breite 13 cm.
+
+- 1360 Finf Zierappliken. Schmale Streifen, jeder verziert mit Reliefdarstellung
+- einer Jagdszene in Waldlandschaft. Deutsch. 17. Jahrh.
+
+Hohe 1,2-1,6,Linge 16-16,9cm.
+
+Nr.1362.
+
+<!-- image -->
+
+Nr.1361.
+
+- 1361 Viereckiges Relief, geschnitzt mit der Profilbuste Choiseuils in ordengeschmuckter Uniform, die Umrahmung reich geschnitzt mit uppigem Rokoko-
+- Ornamentwerk und Palmetten.18.Jahrh. Hohe16,Breite 10 cm.
+- 1362 Relief mit der Biiste Fleurys in gleicher Anordnung. Gegenstick. 18. Jahrh. Gleiche Grofe.
+- Ebenso.
+- 1363 Die unbefleckte Empfangnis. Madonna in Strahlenkranz, fast vollrund geschnitten,auf Weltkugel stehend,um die sich ein Drache windet; seitlich Teufel und kniende Frau.Geschnitzter Goldrahmen. Hohe15 cm.
+- 1364 Elfenbeintafel,rechtwinklig,mit in Hochrelief geschnittener Darstellung der hl. Maria und der Apostel. Byzantinisch. Hohe16,5,Breite 10,5 cm.
+- 1365 Elfenbeintafel,verziert mit zwei gotischen Reliefszenen aus der Geschichte Jesu unter Baldachinen mit je drei gotischen Torbogen.In der untern Halfte die Geburt Christi mit der Verkundigung an die Hirten im Hintergrunde,in der obern Christus am Kreuz zwischen Maria, Johannes und finf Heiligen. Hohe 13,Breite 7 cm.
+- 1366 Elfenbeintafel,viereckig,verziert mit tiefgeschnittenen teils vollrunden figurlichen Darstellungen. Oben in architektonischer Umrahmung auf dem Thron sitzender Imperator,hinter ihm zwei Trabanten;unten im Bogenfeld,iiber dem Kopfe von Zuschauern,Darstellung eines Kampfes von Menschen und Tieren in einer Arena. Hohe 12,8,Breite 4,8 cm.
+- 1367 Vier Appliken,geschnitzt mit Standfiguren von Konigen und gotischen Inschriften. Hohe 14 cm.
+- 1368 Diptychon.Auf jeder Seite eine hochreliefierte Heiligenszene unter frihgotischem Bogen. Auf der rechten Tafel Jesus am Kreuz zwischen Maria und Johannes,auf der linken Maria mit dem Kinde zwischen zwei Engeln. Elfenbein. Hohe 12,Breite offen 18 cm.
+- 1369 Drei Appliken eines Kastchens. Schmale rechtwinklige Streifen mit hochreliefierten mythologischen Szenen in Waldlandschaften:Bacchanten und Bacchantinnen,Nymphen,Faune,Kentauren usw.16.Jahrh.
+
+Nr.1369.
+
+<!-- image -->
+
+Hohe 16und 19,Breite je 4cm.
+- 1370 Viereckiges Relief, trefflich geschnitzt mit der Grablegung Christi. Auf dem Rande eines Sarkophags ruht der Leichnam Christi, von zwei Engelfiguren gestitzt. Martha, am Boden kniend, salbt seine Fufe; im Hintergrunde
+- weinende Frauen.18.Jahrh. Hohe 14, Breite 11 cm. In Rahmen unter Glas.
+- 1371 Viereckiges Relief, geschnitzt mit der Huftfigur des hl. Antonius, auf den Armen das Jesuskind tragend. 18.Jahrh. Hohe 125,Breite 9 cm.
+- 1372 Gotische Bettafel,in hohem Relief geschnitten mit Christus am Kreuz;seitlich Johannes und die hl. Frauen,die ohnmachtig zusammenbrechende Maria umfangend. Die obere Halfte geschnitten mit drei gotischen Tirmchen,verziert mit Krabben und Kreuzblumen.Franzosische Arbeit.
+
+Hohe 12,Breite 8 cm.
+
+- 1373 Gotische Bettafel,viereckig,oberhalb ausgeschweift,geschnitzt mit Christus am Kreuze; am Fufe desselben die hl. Frauen mit Salbbichse. Polychromiert. Hohe 11, Breite 7 cm.
+- 1374 Gotischer Doppelkamm,beiderseits mit Flachrelief geziert. Auf der einen Seite turnierstechende Ritter, auf der andern Baum und zwei Jungfrauen. Auf den breiten Eckzahnen beiderseits gekronte Fabelwesen.Elfenbein.
+- Hohe 11,5,Breite 13cm.
+- 1375 Elfenbeintafel,verziert mit drei halbrund geschnittenen biblischen Szenen in einfachen architektonischen Umrahmungen. Links die Verkundigung,in der Mitte die Geburt Christi, rechts die Anbetung der hl. drei Konige. Elfenbein. Mit Lochern zur Befestigung. Hohe 7,5,Breite 17 cm.
+- 1376 Elfenbeintafel. Quadratische Tafel mit hohem Rand.In der Mitte in starkem
+- Relief die Figur des Erzengels Gabriel. Er steht, in den Handen Bogen und Pfeile haltend, auf dem gefesselten Satan. Uber ihm schweben zwei Engel. Links Christus am Kreuze, zu dem drei Monche beten. Rechts drei weitere betende Monche,zum Teil vollrund geschnitten. Deutsch. Anf.17.Jahrh. Hohe und Breite je 12 cm.
+- 1377 Gotische Platte,viereckig,gewolbt und oberhalb gerundet,in flachem
+- Relief geschnitten mit Christus am Kreuze； seitlich Maria und der hl. Johannes Hohe 11,Breite 8 cm.
+- 1378 Gotische Relieffigur eines Monchs im Ordenskleide, die Brust mit Kruzifix geschmickt. Bein. Lange 11 cm.
+- 1379 Gotische Relieffigur. Johannes der Taufer mit umgurtetem Fell,langem Bart und Aureole. Hohe 10 cm.
+- 1380 Gotische Spiegelkapsel,rund,verziert mit zwei halbrund geschnitzten,durch ein Horizontalband getrennten figurlichen Darstellungen. Dieselben werden umrahmt von einem Vierpaf,in den Zwickelfeldern Fabeltiere.Gleiche
+- Wesen, fast vollrund geschnitzt,erganzen die runde Scheibe zu einem Viereck. Elfenbein. Hohe 10 cm.
+- 1381 Gotische Bettafel,viereckig,in fachem Relief geschnitten mit Christus am Kreuze unter gotischer Bogenstellung; seitlich Johannes und die hl. Frauen. Hohe 10,Breite 6cm.
+- 1382 St. Aloysius. Er kift,in einer Kapelle vor dem Altar kniend, das Kruzifx. In viereckigem Elfenbeinkastchen mit Tragring. 18. Jahrh.
+- Hohe des Kastens 11,5, Breite 9 cm.
+- 1383 St.Ignatius vonLoyola.Standfigurinpriesterlichem Gewand,halbrundgeschnitten:
+- Auf hohem Sockel. In Altarkastchen mit oberm Tragring. 18. Jahrh. Ganze Hohe 11 cm.
+- 1384 Gotisches Triptychon.Die Mitteltafel zeigt in hohem Relief in Bogennische Standfgur der Madonna und zwei Heilige, welche ihr Gewand halten. Die Fligel zeigen Engelfiguren,Kandelaber in den Handen haltend. Polychromiert.
+- Hohe 10,Breite 12cm.
+- 1385 Viereckige Platte. Dieselbe zeigt in starkem Hochrelief die unbekleidete schlafende Diana,umgeben von ihren Hunden. Als Hintergrund Wald-
+- landschaft.18.Jahrh. Hohe 7,5, Breite 13 cm.
+- 1386 Ovale Platte, beiderseits graviert und geschwarzt mit Darstellung aus der griechischen Mythologie. 18. Jahrh. Hohe 8, Breite 10 cm.
+- 1387 Ovale Platte,ebenso, mit Bauernszenen, Zechgelage bzw.Rauferei. 18. Jahrh. Hohe 8, Breite 10,5 cm.
+- 1388 Platte, gewolbt und oben abgerundet. Dieselbe zeigt in starkem Hochrelief
+- einen Reiter im Kampfe mit zwei Fufssoldaten. Hohe 8,Breite 10,5 cm.
+- 1389 Relieffigur der Madonna in drapiertem Gewande,das Jesuskind auf den Armen tragend. 18.Jahrh. Hohe 10 cm.
+- 1390 Elfenbeintafel mit der Kreuzigung. Zu den Seiten des Kreuzes rechts Johannes,Simon und Joseph von Arimathia;links Maria,in Schmerz zusammen brechend, von zwei heiligen Frauen gehalten. Uber der Szene dreibogiger
+- Baldachin in reichem gotischem architektonischem Aufbau.
+
+Hohe 9,Breite 5 cm.
+
+- 1391 Viereckige Platte.Die Mitte zeigt in fachem Relief die Portratbiste Johannes Miltons mit Umschrift in einem Rundmedaillon mit Kerbschnitt-
+- umrahmung.17.Jahrh. Hohe 9,Breite 5,5 cm.
+- 1392 Ovales Medaillon mit dem fastvollrund geschnittenen Huftbilde der Madonna mit dem Kinde. 17. Jahrh. Hohe 9,Breite 7cm.
+- 1393 Relieffigur des hl. Joseph mit langem Haar und Bart, auf dem linken Arm dasJesuskind tragend.18.Jahrh. Hohe 9 cm.
+- 1394 Hausaltarchen.St.Hieronymus kniet vor dem Kruzifix betend in seiner Hohle,dariber die Gestalt Gottvaters. Schwach reliefiert und ausgeschnitten. In Silberrahmen mit Kordelfecht-und Rosettenverzierung. Ruckseitig bemalt mit Johannes dem Taufer in Landschaft. 17. Jahrh. Hohe 8,5, Breite 5,5 cm.
+- 1395 Gotisches Relief,viereckig，gerundet und in zwei ubereinanderliegenden Feldern tief geschnitten mitKruzifixdarstellung und Anbetung der hl.dreiKonige
+- unter sechs Torbogenstellungen. Franzosische Arbeit. Hohe 8, Breite 3 cm.
+- 1396 Relieffiguren. Zwei Heilige im Priestergewand. 2 Stick. Hohe 8 cm.
+- 1397 DerTod des Absalon.Schwaches Hochrelief,ausgeschnitten und auf schwarzem
+- Grund aufgeklebt. Figurenreiche Komposition.17. Jahrh.
+
+Hohe 8,Breite 8 cm.
+
+- 1398 Relief mit dem Kopf des Apollo im Profl nach rechts, in Hochrelief. 17.Jahrh.Franz Duquesnoy. Oval.Hhe 8,Breite 5,5 cm.
+- 1399 Relief mit dem Kopf des Morpheus. Ahnlich. 17. Jahrh. Franz Duquesnoy. Gleiche GroBe.
+- 1400 Gotisches Relief, Bein,oberhalb gerundet, tief geschnitten mit Christus am Kreuze; seitlich die heiligen Frauen. Hohe 7,Breite 3 cm.
+- 1401 Ovales Medaillon,in hohem Relief geschnitten mit dem wundertatigen Bilde der Madonna von Montaigu; zur Seite kniender Ritter und Edelfrau. 16. Jahrh. Hohe 7,Breite 5 cm.
+- 1402 Relief. Ganzfigur des Apollo in schwachem Hochrelief, im Profil nach rechts. Vor ihm zwei Hunde sowie ein Altar. Elfenbein.17. Jahrh. Franz Duquesnoy. Hohe 7,5,Breite5cm.
+- 1403 Heiliger.Standfgur,halbrund,in priesterlichem Gewande,die Ruckseite flach.Applike.17.Jahrh. Hohe 7cm.
+- 1404 Heiliger,ebenso,in Ordenstracht.17.Jahrh. Hohe 7cm.
+- 1405 Ovale Platte.Dieselbe zeigt in Hochrelief Venus und Adonis in reicher Landschaft.18.Jahrh. Hohe 6,5,Breite 8 cm.Geschnitzter Holzrahmen.
+- 1406 Friedrich der Grofe.Charakteristische Buste in starkem Hochrelief,im Profl nach links,auf ovaler Platte. Datiert 1773. Ruckseitig monogrammiert D. Hohe6,5,Breite5,5.cm.
+- 1407 Ovales Medaillon,in hohem Relief geschnitten mit Mutter Anna,im Vor-
+- grunde einer Landschaft sitzend, die kleine Maria unterrichtend. 17. Jahrh. Hohe 6,Breite 4cm.
+- 1408 St. Joseph,auf einem Throne sitzend. Auf seinen Knien steht das Jesuskind. Fast vollrund geschnittene Relieffigur in schwarzem Ebenholzrahmchen. Hohe der Figur 6 cm.
+- 1409 Kronung Maria. Dieselbe kniet auf einem Wolkengebild,von Engelglorie umgeben; seitlich Gottvater und Christus,die Krone haltend. Mit Resten
+- von Bemalung.Flachrelief.15.Jahrh. Mit Lasuren. Hohe 5 cm.
+- 1410 Madonna mit dem Kinde,stehend,in langem Gewande,halbrund geschnitten.
+- Hohe 4,5 cm.
+- 1411 Gruppe von drei Figuren.Japanerin in langen,weiten Gewandern und hoher,mit Kamm verzierter Haarfrisur. Sie tragt auf ihrem Ricken rittlings einen kleinen Knaben. Neben ihr stehend ein grofserer Knabe, der gleich dem ersten in weites Gewand gekleidet. In seiner Rechten halt er einen Facher, in seiner Linken ein Windspiel, auf seinem Kopf zurickgeschoben Japan. Hohe 17,5 cm.
+- 1412 Alterer Japaner,in der Rechten einen Wasserkibel,in der Linken einen Lampion haltend, iber einen am Boden liegenden Knaben stolpernd. Vollrund geschnitzte japanische Figur. Hohe 12 cm.
+- 1413 Okimono. Gaukler mit Facher und Messer,zwei am Boden hockende Affen dressierend. Vollrund geschnitzte japanische Figur. Hohe 12 cm.
+- 1414 Vase,Elefantenzahn, abgeschnitten und gehohlt. Die Aufenseite zeigt ringsumlaufend reliefiert,mit teilweiser Unterschneidung,einen Kampf chinesischer Helden. Im Vorgrunde ein mit Adler kampfender Held, dem seine Gefahrten zu Hilfe eilen. Niederer Sockel aus schwarzem Lack. Hohe39,5cm.
+- 1415 Teedose in gedeckelter Urnenform mit zwei seitlichen Henkeln. Die Leibung geschnitzt mit figurenreicher Darstellung aus dem japanischen Gotterzyklus.
+- Hohe 15 cm,
+- 1416 Ein Paar Vasen,oval, achtfach,abgefacht,birnformig,mit zwei seitlichen
+- Henken,die Wandung aufserst minutios durchbrochen geschnitzt mit Darstellungen aus dem Leben der Chinesen und Ornamentwerk. Chinesisch. Hohe 18 cm.
+- 1417 Henkelkorbchen,rund und gedeckelt,in ausgeschweifter Form in gleicher Hohe32cm.
+- Ausfuhrung.
+- 1418 Acht Appliken,oval und ausgeschweift,in fachem Relief durchbrochen
+- geschnitzt mit Darstellungen aus dem Leben der Chinesen.
+
+Lange 8und 5 cm.
+- 1419 Gottin Benten.Ganze Figur in langem faltenreichen Gewande.Auf ihrem rechten Arme tragt sie das mit weitem Kittel bekleidete Kind. Die Gruppe schmiegt sich eng der Form des Zahnes an.Innen hohl. Chinesisch.
+
+Hohe 23 cm.Holzsockel.
+
+- 1420 Gottin Benten,stehend dargestellt,in kurzem Gewande mit schematischen Falten.Auf ihrem linken Arme tragt sie das unbekleidete Kind. Die Augen in Bernstein eingesetzt. Indisch. Hohe 14,5 cm.
+- 1421 Gotterfigur. Weibliche Figur,nur mit einem Gurtel bekleidet. Roh modelliert. Massiv Elfenbein. Hohe 30cm.
+
+1422 Gotzenfigur.Ahnlich.Innen hohl.
+
+Hohe 31 cm.
+
+1423 Gotzenfigur. Weibliche Gottheit. Ahnlich.
+
+Hohe 30cm.
+
+1424 Gotzenfigur. Mannliche Gottheit. Ahnlich.
+
+Hohe 30cm.
+
+<!-- image -->
+Nr.1432.
+
+<!-- image -->
+
+## Arbeiten in Holz,
+
+## Mobel und Einrichtungsgegenstande.
+
+- mit langen spitzen Schuhen. Uber die Rustung ist ein weites Manteltuch geschlungen. Mit beiden Handen halt er die Lanze,deren Spitze er in den Rachen des zu seinen Fufen liegenden Drachen stoft. Das Haupt des Heiligen mit kurzen vollen Locken ist dem Drachen zugewendet.Ruckseitig zum grofBen
+- Teile ausgeholt.Deutsch,um 1500. Hohe 108cm.
+- 1426 Hl.Katharina, Standfigur,auf einer am Boden liegenden Konigsfigur stehend. Das eng anschliefende Gewand mit malerischem Faltenwurf. Beide Hande vorgestreckt und das Haupt gekront.16.Jahrh. Hohe 87cm.
+- 1427 Gruppe. Madonna und der hl. Johannes. Die schmerzhafte Mutter in faltenreichem Gewande und Kopftuche ist auf einer Steinbank ohnmachtig zusammengebrochen;von dem hinter ihr stehenden Johannes wird selbige mit beiden Handen gestitzt. Gute,fast vollrund in Lindenholz geschnitzte Gruppe. Siddeutsch.16.Jahrh.
+- 1428 Gruppe. Maria und Mutter Anna. Auf einer Steinbank sitzt Maria mit umgurtetem,faltenreichem Rocke, das lange,lockige Haar fallt ihr in reicher Masse uber die Schultern herab und ist mit Zackenkrone bedeckt; neben ihr sitzt Mutter Anna in Mantel und Kopftuch,auf dem Schofse ein aufgeschlagenes Buch haltend. Gute, fast vollrund in Lindenholz geschnitzte Gruppe. Suddeutsch.16.Jahrh. Hohe 67 cm.
+
+<!-- image -->
+
+1429 Ein Paar Delphine.Halbrund reliefiert. Weif mit leichter Vergoldung.
+
+Lange 60 cm.
+
+- 1430 Gotische Gruppe in Lindenholz,in hohem Relief geschnitten. Hinter einer mit Tuch bedeckten Predella steht Christus,in der Linken die Weltkugel haltend, die Rechte segnend erhoben.Seitlich je zwei Apostelfiguren,in den Handen die Attribute haltend. Suddeutsche Arbeit.Polychromiert und vergoldet Hohe 57,Breite 55 cm.
+- 1431 St.Dominikus.Standfigur des Heiligen in weifem Monchsgewande. In seiner Linken halt er ein aufgeschlagenes Buch. Seine Rechte ist lehrend erhoben.Holz.Polychromiert. 16.Jahrh. Hohe54,5 cm.
+
+Nr.1425.
+
+- 1432 Gruppe des letztenAbendmahls.Auf Banken an reich gedeckter Tafel gruppieren sich die zwolf Apostel um Christus.In der erhobenen Rechten halt er den Kelch,mit der Linken umfafst er den ihm sich anschmiegenden Johannes.Treffliche siiddeutsche Schnitzerei in Lindenholz mit teils vollrunden Figuren.
+- 16.Jahrh.Polychromiert und vergoldet.
+
+Hohe 44, Lange 121 cm.
+
+- 1433 Romischer Krieger mit eng anliegendem Lederpanzer. Das Haupt bedeckt ein Helm mit grofser Feder. In der Linken halt er eine Lanze. Vollrund. Polychromiert. Holz,auf hohem Holzsockel mit Reliefdekor. 17. Jahrh. Hohe40,5cm.
+- 1434 Romischer Krieger.Ahnlich.Holz.17.Jahrh.
+
+Gleiche GroBe.
+- 1435 Listerweibchen.Weibliche Figurin der malerischen Tracht des16.Jahrhunderts, mit kleinem Ringkragen und niederm Barett. In der Rechten halt sie einen Becher, die Linke ist auf den Schild gelegt. Oberhalb des Schildes endigt die Figur in ein Hirschgeweihe.Auf dem Wappenschild viergeteiltes Wappen: Storch auf weifSem und Lilien auf blauem Grund in Chiasmus. Holz. Polychromiert. Linge 119 cm.
+- 1436 Johannes der Taufer, Standfigur,vollig unbekleidet, das lang herabwallende Kopf- und Barthaar bedeckt den ganzen Korper;in der Rechten halt er einen Stab.Italienische Arbeit des 16.Jahrhunderts. Polychromiert.
+
+Nr.1428.
+
+<!-- image -->
+
+Hohe47cm.Holzsockel.
+
+- 1437 Tobias mit dem Engel auf Reisen. Vollrund in Lindenholz geschnitzte Gruppe.Polychromiert.18.Jahrh. Hohe 43cm.
+
+1438 Ahnliche Gruppe.Gegenstick.Ebenso.
+
+Gleiche Grofe.
+- 1439 Reliquienkreuz,in Birnbaumholz geschnitten.Die Vorderseite zeigt in hohem
+- Relief den Korpus mit vollrund geschnittenen Beinen; dariber Gottvater, am Fufe schmerzhafte Mutter. Das Innere mit eingelassenen Reliquien. Der Sockel vollrund geschnitten mit zwei trauernden Engeln. 18. Jahrh. Hohe 44cm.
+- 1440 Madonna mit dem Kinde,auf Halbmond stehend,um den sich die Schlange
+- Hohe 44cm.
+- 1441 Hl.Antonius,Standfigur,im Ordensgewande,beide Hande vorstreckend. Auf rundem Sockel, an dem in Metallbuchstaben der Name angebracht. Buchsbaumholz,vollrund geschnitten. 17.Jahrh. Hohe 41 cm.
+- 1442 Hl.Franziskus, Standfigur,in ahnlicher Anordnung.
+- Gleiche Grofe.
+- 1443 Christus,Standfigur,mit umgirtetem Lendentuche,den Kreuzesstamm umfassend. Vollrund,in Buchsbaumholz geschnittene Figur. 18. Jahrh.
+- Hohe 40 cm.
+- 1444 Hl. Hiltrude in eng anschliefender Kleidung, das Haupt mit Mitze bedeckt. In beiden Handen halt sie eine brennende Lampe. Birnbaumholz,vollrund
+- geschnitten. Hohe 40 cm.
+- 1445 Hl. Magdalena, Standfigur, vollig unbekleidet,den Korper bedeckt ein
+- dichter Haarwuchs,das Kopfhaar fallt in langen Strahnen iber die Schulter herab, die Hande zum Gebet gefalten. Vollrund in Birnbaumholz geschnitzte Figur.16.Jahrh. Hohe 39cm.
+- 1446 Flora,fast nackt,mit umgirtetem Lendentuche,das von Rosen durchfochten,
+- in beiden Handen Blumen haltend. Vollrund in Buchsbaumholz geschnittene Statuette.18.Jahrh. Hohe 36 cm.
+- 1447 Edeldame,Standfigur,in faltenreichem Rock und pelzverbramtem Mieder; den Kopf bedeckt eine Haube mit seitlich hoch vorstehenden Fligeln.Vollrund in Buchsbaumholz geschnittene Figur.16.Jahrh. Hohe 35 cm.
+- 1448 Martyrium des hl. Sebastianus. An einen Baumstamm gebunden,steht der Heilige in gebeugter Stellung,den Leib von Pfeilen durchbohrt. Vollrund in Buchsbaumholz geschnitzte Figur.17. Jahrh. Hohe 35 cm.
+- 1449 Hl.Lucia,Standfgur,in reicher Tracht eines Edelfrauleins des 16. Jahrhunderts, die Miederjacke mit Schlitzarmeln und breiter Halskrause,das Haar mit Mitzchen bedeckt. In beiden Handen halt sie eine Schussel mit den ausgestochenen Augen.Vollrund in Buchsbaumholz geschnittene Figur.
+
+Nr.1445.
+
+<!-- image -->
+
+Hohe 36 cm.
+
+- 1450 Madonna in faltenreichem Mantel und Schleife, auf Schlange stehend. In beiden Handen halt sie das Jesuskind. Vollrund,in Buchsbaumholz geschnittene Figur.18.Jahrh. Hohe 35cm
+- 1451 Gotische Madonna mit dem Kinde in faltenreicher Gewandung, den Kopf mit Krone bedeckt. Vollrund geschnitzt. Hohe 32 cm.
+- 1452 Eva,vollig nackt,mit vorgebeugtem Knie,in der Rechten den Apfel, in der Linken einen Zweig haltend.Vollrund in Buchsbaumholz geschnittene Figur.17.Jahrh. Hohe 30cm,
+- 1453 Standfigur des hl.Emydius im Bischofsornate, die Rechte segnend erhoben； in der Linken halt er ein Kirchenmodell. Auf hohem, mit Draperien verziertem Sockel mit kniendem Engel. Buchsbaumholz.17.Jahrh. Hohe 30 cm.
+- 1454 Madonna in faltenreicher Gewandung und Kopf tuch,das neben ihr auf Steinkugel stehende Jesuskind umfassend. Vollrund in Birnbaumholz geschnitzte Gruppe.17.Jahrh. Hohe 29 cm.
+- 1455 Bittentrager,Eichenholz,geschnitzt, barfuf,in kurzen Hosen und eng anschliefendem Wams, die Rechte auf einen Stab gestitzt. Auf dem Ricken tragt er eine silberne Kufe, garniert mit Laubwerk und Reifenverzierung. Unter dem Sockel die Signatur:J. Gilg,Meister im 1616.Jahr.
+
+Hohe 27cm.
+
+- 1456 Schweizer Bittentragerfigur in kurzer Hose,der Oberkorper entbloBt,der Kopf mit weichem Schlapphut bedeckt;in der Rechten halt er einen Stock. Gute Figur.18.Jahrh.Die Kufe fehlt. Hohe 27cm.
+- 1457 Mater immaculata,aufWeltkugel stehend,um die sich die Schlange windet. Die Arme halt sie iber die Brust gekreuzt, das Haar mit Rosenkranz durchfochten.Vollrund in Lindenholz geschnitzte Figur. Hohe 27cm.
+- 1458 Kruzifix,der Korpus vollrund geschnitzt mit nebeneinanderstehenden Fufen, das Haupt zur Seite geneigt. Hohe26cm.
+- 1461 Madonna mit dem Kinde,vollrund in Buchsbaumholz geschnitten.Madonna in weitem Mantel und Schleier, das auf dem Arme tragende Jesuskind an sich ziehend. 18. Jahrh. Hohe 26 cm.
+- 1462 Der Tod. Skelettigur,in der Rechten ein Zepter haltend,in der Linken Bogen und Pfeil. Vollrund in Buchsbaumholz geschnitzte Figur. 17. Jahrh. Hohe 25 cm.
+- 1463 Kruzifix.Der Korpus Buchsbaumholz,vollrund,geschnitten,mit ibereinandergeschlagenen Fufen, das schmerzerfillte Haupt zur Seite geneigt. 18. Jahrh. Hohe 25 cm.
+- 1459 Schmerzhafte Mutter in langem Mantel und Kopftuch, die Hande gefalten. Vollrund geschnitzte Figur. Hohe26cm.
+- 1460 Zwei Figuren:Adam und Eva,vollrund in Buchsbaumholz geschnittene Figuren,von Konrad Meit von Worms.Adam,vollig nackt, mit uppigen Haaren, das rechte Bein wenig gebeugt, halt in der Rechten den Apfel, die Linke rechtwinklig vorgestreckt.Eva,das rechte Bein vorsetzend, das Haar in Flechten aufgebunden, halt in beiden Handen Apfel. Ganz vortreffliche,hochkiunstlerisch durchgebildete Figuren. Anf.16.Jahrh.
+
+Nr.1449.
+
+<!-- image -->
+
+Hohe 27,5 cm.2 Stick.
+
+Die Figur des Adam entspricht derjenigen des Gothaer Museums,wahrend Eva sich als Judith im Minchener Nationalmuseum wiederfindet,letztere in genau gleicher Grofe;vergleiche dariber ,Der schone Mensch im Mittelalter und Renaissance" von Weese, Hirths Kunstverlag, pag.48und 49,Blatt 173,174,175,176.
+- 1464 Johannes. Standfigur des Evangelisten,den Mantel mit der Linken aufraffend, die Rechte vorgestreckt haltend. Vollrund in Buchsbaumholz geschnittene Figur.17 Jahrh. Hohe 24 cm.
+- 1465 Madonna in faltenreicher Gewandung,auf Weltkugel stehend. Lindenholz. 18.Jahrh. Hohe 25 cm.
+
+Nr.1475.
+
+<!-- image -->
+
+Nr.1474.
+
+Nr.1473.
+
+Nr.1476.
+
+- 1466 Groteskfigur,Hofnarr in kurzer Jacke, langem Bart und spitzem Hut.Vollrund in Lindenholz geschnitzt und polychromiert. 18. Jahrh.
+
+Hohe 25 cm.
+
+- 1467 Bittentrager in Pluderhose und Federhut,auf einen Stab gestitzt,eine Kufe tragend. An derselben hangen acht silberne Medaillen und Gnadenpfennige des 17. Jahrhunderts.Am Boden Miniatur-Buttentrager und Sennerin.Der Sockel silbermontiert und graviert mit Laubwerk. Hohe 24cm.
+- 1468 Gotische Madonna.Eichenholz,vollrund geschnitten.Standfigur der Madonna in faltenreichem Gewand, dasJesuskind auf dem Arme tragend.
+
+Hohe 23 cm.
+1469 Madonna mit dem Kinde,spatgotische Figur,in Buchsbaumholz vollrund geschnitten und zum Aufklappen als Triptychon eingerichtet. Madonna sitzt auf einer Steinbank,mit der Rechten das Kind unfassend, in der Linken halt sie einen Apfel. Im Innern in hohem Relief geschnitzt mit Gott Vater, das Kreuz haltend; seitlich kniende Heilige. Hohe 23cm.
+
+Nr.1495.
+
+<!-- image -->
+
+- 1470 Schweizer Bittentrager. Standfigur eines bartigen Mannes in Kniehose,Wams mit Schlitzarmeln und Federhut,mit beiden Handen auf einen Stock gestuitzt. Auf dem Ricken tragt er eine mit silbernen Reifen beschlagene Kufe. Zu seinen Fufen ein in Silber vollrund ziseliertes Hundchen.Der silbermontierte Sockel mit Beschauzeichen. Im Holz eingeschnitzt Mono-
+
+mehreren gramm M.E. Hohe 22 cm.
+
+1471Maria， Standfigur, verkleinerte Nachbildung "Nurnberger" Madonna. Lindenholz.Hohe 20 cm.
+
+1472 Madonna mit dem Kinde, in Buchsbaumholz vollrund geschnitzt. Das aufgeraffte
+
+Gewand mit kleinen Sternchen verziert, auf dem Arme das Jesuskind haltend.16.Jahrh. Hohe 19 cm.
+
+1473 Hl. Johannes,Rokoko-Standfigur im Kardinalsornate,in der Rechten ein Buch,in der Linken einen Stab haltend. Vollrund in Buchsbaumholz geschnitzte Figur. Hohe 17cm.
+
+Auf hohem,mit Kartuschenschildchen verziertem Sockel.
+
+1474 Hl.Franziskus,Standfigur im Priestergewande,ein vor ihm kniendes Kind taufend.Ebenso. Gleiche Grofe.
+
+1475 Hl.Karolus Borromaus, Standfigur mit Kreuz und Palme. Ebenso.
+
+Gleiche Grofe.
+1476 Hl. Ignatius, Standfgur, an ein Kreuz gelehnt. Ebenso.
+
+GleicheGrofse.
+
+- 1477 Ein Paar Lowenfiguren in schreitender Stellung,das Haupt mit gewaltiger Mahne, den Rachen geoffnet. Birnbaumholz, vollrund geschnitzt. Der ovale Fuf silbergetrieben, gefafst mit Cabouchons und Perlen. Gute Sticke mit Augsburger Beschauzeichen des 16.Jahrhunderts und Meisterzeichen J. S. Jakob Schuhmacher. Hohe 18 cm.
+- 1478 Halbfigur der Madonna,auf Steinbank sitzend, das Kind saugend.Grin bemalt.16.Jahrh. Hohe18cm.
+- 1479 Schutzengel in leicht geschurzter Gewandung,mit der Linken ein vor ihm herschreitendes Kind fuhrend. Vollrund in Buchsbaumholz geschnitzte Gruppe. 17.Jahrh. Hohe 15cm.
+- 1480 Kruzifix, Buchsbaumholz,geschnitten. Das Kreuz in Form eines Baumstamms,der Korpus mit ubereinandergeschlagenen Fufen und gesenktem Haupte.18.Jahrh. Hohe 14cm.
+
+Nr.1500.
+
+<!-- image -->
+- 1481 Venus und Amor.Venus,dem Bade entstiegen,fast nackt,mit umgirtetem Lendentuche, die Rechte erhoben.Am Boden Amor mit Pfeilkocher. Vollrund in Birnbaumholz trefflich geschnittene Gruppe.Modell einerPorzellanmanufaktur.Franzosisch.18. Jahrh. Hohe 12 cm.
+- 1482 Diana und Amor. Diana an einen Felsen gelehnt, mit umgurtetem Kocher, in der Rechten einen Pfeil haltend；neben ihr Amor. Gegenstick.Ebenso. Gleiche Grofe.
+
+<!-- image -->
+
+1483 Biste eines jungen Madchens, das Haar mit Rosen durchflochten.
+
+Hohe 12 cm.
+
+1484 Zwei Kostimfigirchen,in Buchsbaumholz vollrund geschnitzt.Furstenpaar in reicher Kleidung,mitgrofsem Ringkragen, sich die Hande reichend. Franzosische Arbeit.17.Jahrh.
+
+Hohe 10 cm.
+
+- 1485 Kostimfigirchen, Buchsbaumholz. Burgersfrau, das Kleid aufraffend und mit grofer Haube. 17. Jahrh. Hohe 7 cm.
+
+Nr.1499.
+
+rund in Buchsbaumholz geschnitzte Gruppe. 18. Jahrh.
+
+1486Gruppe von vier nackten Mannern, die akrobatische Ubungen ausfuhren. VollHohe9 cm.
+
+- 1487 St. Michael, den Teufel bezwingend. An einen Baumstamm gefesselt,liegt der Teufel; vor ihm kniet St. Michael, ihm die Haut vom Korper ziehend. Vollrund in Buchsbaumholz geschnitzte Gruppe. Ende 17. Jahrh.
+
+Hohe 9 cm.
+
+- 148s Biste einer jugendlichen Firstin mit lockigem Haar und Halskette. Buchsbaumholz.18.Jahrh. Hohe 7cm.
+1489 Engelsfigur,in beiden Handen ein Tuch haltend,auf dem die Leidenswerkzeuge.17.Jahrh. Hohe7cm.
+
+1490 Halbfigur eines Engels, in Wolkengebild stehend. Buchsbaumholz. 18. Jahrh. Hohe 5cm.
+
+Nr.1501.
+
+<!-- image -->
+
+- 1491 Wandkonsole in Form eines aus Akanthusblatt vollrund erwachsenden Putto; das iber den Kopf gehaltene Tamburin dient als Platte.Schwarzgebeiztes Holz. Hohe60cm,
+- 1492 Pfeifenetui,Buchsbaumholz,geschnitzt mit Heiligenfiguren und Blumenranken. Lange20cm.
+- 1493 GroBer Pfeifenkopf, geschnitzt mit den sieben Schwaben, einen Hasen attackierend. Silberbeschlag. Hohe 21 cm.
+- 1494 St. Nikolaus. Ganze Figur des Heiligen in langem bischoflichem Ornate. Das bartlose Haupt bedeckt die Inful.Mit der Linken rafft er den schweren Mantel, die Rechte halt den Bischofstab. Flaches ausgeschnittenes Relief. Um 1500. Hohe 130cm.
+- 1497 Tympanon. St. Gabriel. Die ganze Flache ausgefillt mit dem halbrund reliefierten Brustbild des Erzengels Gabriel im Panzer,in der Rechten das Schwert,in der Linken die Wage haltend. Der hohe Rand mit italienischem Renaissance-Ornament und Eierstabmuster. Holz,polychromiert. Italien. Hohe 90,Breite 148cm.
+- 1498 Wappen. Goldener gekronter Lowe, in den Vorderpranken Schwert und
+- Pfeile.Blauer Grund mit Goldkaros. Hochrelief. Holz.
+
+Nr.1504.
+
+<!-- image -->
+
+Hohe70,Breite54 cm.
+
+- 1499 Mater dolorosa.Brustbild in Mantel und Kopftuch,das zur Seite geneigte Haupt mit schmerzerfilltem Ausdrucke,das Herz vom Schwert durchbohrt. Fein in Zedernholz geschnitztes Flachrelief, die Augen aus Glas gebildet. Spanisch. 17.Jahrh. Hohe 68 cm.
+- 1495 GroBes gotisches Relief,viereckig, mit Maria und Martha. Im Vorgrund einer von Burgen bekronten Felslandschaft steht Maria in faltenreichem Rocke und turbanartig behandeltem Kopfputze,der neben ihr stehenden Martha die Hand reichend.Trefflich in Lindenholz geschnitzte siddeutsche Arbeit,polychromiert und vergoldet. 15.Jahrh.Hohe 121, Breite 90 cm.
+- 1496 Himmelfahrt Maria.Die Heilige in langem Gewande mit kurzen flatternden Enden wird in sitzender Stellung von zwei leicht gekleideten langlockigen Cherubinen gegen Himmel getragen. Der untere Teil des Reliefs in Wolkenbildung, aus dem mehrere Engelskopfe hervorblicken.Die Figuren fast vollrund gearbeitet.Deutsch.18. Jahrh. Hohe 115cm.
+- 1500 Relief in Lindenholz, fast vollrund geschnitten Burgartiges Gebaude mit vorspringendem zinnenbekrontem Turm, aus dessen Fenster die Halbfigur eines gefangen gehaltenen Bischofs herausschaut.Vor demselben weibliche Figur,ihm auf Schissel einen Schweinskopf und Pokal reichend;am Boden schlafender Wachter, in der Linken eine Hellebarde haltend. Treffliche siddeutsche Arbeit.15.Jahrh. Hohe 60,Breite 55 cm.
+- 1501 Anbetung der Hirten. Im Vorgrunde eines Stalles kniet Maria,das in der Krippe liegende Kind anbetend,hinter ihr der hl. Joseph;rechts in einem Torbogen erscheinen die Hirten. Gegenstick. Ebenso. Gleiche Grofe.
+- 1502 St.Antonius.Brustbild des bartigen Heiligen in weitem vergoldetem Gewande.
+- Die Linke halt den Wanderstab, die Rechte das Symbol, ein Schwein. Ausgeschnittenes Flachrelief.16.Jahrh. Hohe 50 cm.
+- 1503 Relief. Giebelformige Platte,durch Kordelflechtband geteilt. Im untern Teile die Taufe Christi, dariber schwebend die Taube des hl. Geistes. Im obern Teile Brustbild des segnenden Gottvaters. Der Rand Kordelfechtbordure. Goldgrund. Das ubrige Elfenbeinfarben und mit geschwarzten Gravurstrichen. Hohe 45,Breite 30cm.
+- 1504 Relief,viereckig,oben gerundet. Buchsbaumholz,fast vollrund geschnitten mit Geldzahler nach Quentin Massys. Halbfigur eines altern Mannes mit turbanartigem Kopfputze,in einem Buche schreibend;neben ihm Lederbeutel und Munzen; eine altere Frau schaut ihm iber seine Schultern gelehnt zu.
+- Unten links bezeichnet:E.D.ao.1563. Hohe 33,Breite 18 cm.
+- 1505 Sechs Druckplatten fur Spielkarten. Holzschnitte. Frankreich. 18. Jahrh.
+- Hohe 38,5,Breite 31 cm.Beiliegend Abdricke derselben.
+- 1506 Die Enthauptung Johannes des Taufers. In einer Landschaft mit Blick auf das Gefangnis liegt vornan links der Leichnam des Johannes. Der Scherge schreitet uiber ihn weg, um das Haupt auf die Schussel zu legen, die ihm Salome entgegenhalt. Diese naht in reicher Gewandung mit ihrem Gefolge aus dem rechts liegenden Palasttore. Hochrelief mit teils freiplastisch ge-
+- bildeten Figuren.Holz. Hohe 32,5,Breite 46 cm.
+- 1507 Dornenkronung Christi, Relief. Unter einer Saulennische sitzt Christus auf Stabe die Dornenkrone ins Haupt pressend. Gute suiddeutsche Schnitzerei
+- einer Steinbank,die Hande gefaltet; hinter ihm zwei Schergen,mit einem in Lindenholz mit vielen vollrunden Partien.Polychromiert.17.Jahrh.
+- 1508 Geiβelung Christi.Relief in ahnlicher Ausfuhrung.
+
+Gleiche Grofe.
+
+- 1509 Reliefbiiste Christi,aus einem Wolkengebild erwachsend,das schmerzerfillte Haupt zur Seite geneigt.Buchsbaumholz.18. Jahrh. Hohe30 cm.
+- 1510 Gotisches Hausaltarchen,Triptychon,in Buchsbaumholz in hohem Relief mit vielen vollrunden Partien trefflich geschnitten. Das Mittelstick zeigt unter reichem,architektonisch aufgebautem Baldachin sitzende Madonna, das Kind auf dem Schofse haltend,seitlich musizierende Engel;im Hintergrunde durch Torbogen Blick in eine Landschaft. Die Seitenflugel mit kniendem Donator und Donatorin;hinter ihnen Standfiguren ihrer Patrone,in den Zwickeln Wappenschilder.Das Ganze ruht auf vier Fifen, die geschnitzt mit den Symbolen der Evangelisten. Hohe 28,Breite 30cm.
+- 1511 Der Sindenfall.Viereckiges Paneel,Birnbaumholz,in hohem Relief geschnitzt mit dem Sundenfall nach A.Durer. Im Vorgrunde des Paradieses unter einem Apfelbaum,in dessen Zweigen die Schlange,steht Adam,Eva mit der Rechten umfassend;in der Linken halt sie den Apfel.
+
+Nr.1506.
+
+<!-- image -->
+
+Hohe 28,Breite 18 cm.
+- 1512 Riussisches Kreuz. Buchsbaumholz,die breiten Balken auferst minutios durchbrochen geschnitzt mit figurenreichen Darstellungen aus der Leidensgeschichte Christi in einzelnen Kompartimenten, die eingefaft von zierlich gemusterter Rankenbordire und getrennt durch Rundsaulchen und schraubenformig gedrehte Stabchen.Feines Stick. Hohe 26,Breite 10 cm.
+- 1513 Fillung, reliefiert mit dem Gitarrespieler von Franz Hals. Eichenholz. Hohe 24,5,Breite 21cm.
+- 1514 Russisches Relief,viereckig,Buchsbaumholz,auferst minutios durchbrochen geschnitzt. Um ein viereckiges Mittelfeld mit Christus am Kreuz gruppieren sich elf kleine Ovalmedaillons mit Darstellungen aus der Passion. Die Zwickel fuillt gotisches Laubwerk,als oberer Abschluf fliegendes Band.
+
+Nr.1510.
+
+<!-- image -->
+
+Hohe 23,Breite 18cm,
+
+- 1515 Fillung,reliefiert mit Szene aus Romeo und Julia. Eichenholz. Hohe 23,5,Breite 27,5cm.
+- 1516 Rokoko-Bekronung,Lindenholz,meisterhaft geschnitzt mit zwei Puttenkopfen in Muschelwerk.Vergoldet. Hohe 10,Lange 14 cm.
+- 1517 Relief,minutios geschnitzt mit der Wiedergabe der Turen des Baptisteriums in Florenzvon Ghiberti.Auf derVorderseiteJohannes der Tauferin reicherNische, auf der Ruickseite drei Wappenschilder und Jahreszahl 1460.Vorziigliches Stick. Hohe 20,Breite 8 cm.
+- 1518 Die Verganglichkeit, Relief, Allegorie. Einfach ausgestattetes Gemach. In der Mitte desselben ein Sack mit Gold, umgeben von offenen Schmuckschatullen,Silberpokalen usw. Auf dem Sacke steht eine weibliche Figur mit Anker,die ein Edelmann eben wegnehmen will. Von rechts naht der Tod, einen Pfeil auf den Glicksjager schleudernd. Starkes,oft unterschnittenes Hochrelief mit Spruch:Namque ubi Mors trucibus supra caput ad stihit armis Hei,quam humc nullo pondere nummus erit.Treffliche Arbeit.Flamisch.17. Jahrh. Holz.Hohe 20,Breite 15 cm.
+- 1519 Das Trachten nach Wirden,Relief, Allegorie. Auf hohem Felsen sitzt Cupido,
+- die Augen verbunden, und zieht mit der Rechten ein Seil hoch, in dessen unterer Schlinge ein Edelmann kniet, der nachhelfend die Felswand ersteigt. Hinter Cupido liegen Zepter, Krone, Schwert,Kelch und Schatze. Unterhalb der Darstellung Spruchband:Caeca voluptatem more erceptura Cupido.Evehit ad summas te violenter opes. Interessantes Stick.Flamisch. 17.Jahrh.
+
+Hohe 20,Breite 14 cm.In Rahmen.
+
+- 1520 Satan als Verfihrer,Relief.In einem niederlandischen Gemache,in dem Goldsacke und gefuillte Truhen, steht auf einem geoffneten Geldsack eine weibliche Figur,in den Handen einen Anker haltend. Ein reichgekleideter Mann sucht sie hinwegzunehmen, wozu ihn der Teufel animiert,indem er gleichzeitig die Figur zurickhalt. Starkes, oft unterschnittenes Hochrelief, darunter die Worte:Sed cum plena turget Saeculus ore Iponitur in intido stes male
+- tuta luto.Interessantes Stick.Flamisch.17.Jahrh.
+
+Holz.Hohe19,8,Breite 14,2 cm.
+
+- 1521 Russisches Kruzifix,Buchsbaumholz,die breiten Balken beiderseits durchbrochen geschnitzt mit minutios ausgefuhrten Darstellungen aus der Leidensgeschichte Christi, in zwolf kleinern, von Rollstabfries eingefaften Feldern.
+- Am Fufse des Kreuzes Handhabe. Lange 18cm.
+- 1522 Russisches Kreuz, Buchsbaumholz,beiderseits aufserst minutios geschnitzt mit Darstellungen aus dem Leben der Heiligen. Die runde Handhabe von Kupferdraht umwunden. Lange 17cm.
+- 1523 Ovales Medaillon,in hohem Relief geschnitzt mit der Huftfigur der Madonna,
+- das Kind saugend. Buchsbaumholz.18.Jahrh. Hohe 15,Breite 12 cm.
+- 1524 Das hl.Abendmahl, Relief. Christus feiert mit den lebhaft gestikulierenden Aposteln das Abendmahl in einem hallenartigen Raum.Reichprofilierter
+- Rahmen,verziert mit freiplastischen Putten.Buchsbaum.18. Jahrh.
+
+Hohe 13,Breite 17 cm.
+
+- 1525 Plakette.Bacchusknabe. Stehender Putto,in der Hand einen Becher und den Bacchusstab haltend.Hochrelief. Holz,oval. Hohe 12,2,Breite 9,4 cm.
+- 1526 Ovales Medaillon,in hohem Relief in Buchsbaumholz geschnitten mit fuinf spielenden Putten, im Vorgrunde einer Landschaft gruppiert. 18. Jahrh.
+
+Hohe 12,Breite 14 cm.
+
+- 1527 Medaillon in ahnlicher Ausfuhrung mit funf zechenden Putten. Gegenstick.
+- Ebenso. Gleiche Grofe.
+- 1528 St.Antonius, Relief. Er arbeitet im Monchsgewande in seiner Klause, ober-
+- halb schwebend ein Engel. Teils vollrund geschnittenes Relief. Holz.
+
+Hohe 12,2,Breite 8,3 cm.
+
+- 1529 Relief, Buchsbaumholz,hoch geschnitten mit der Huftfigur der bufenden Magdalena in Felsgrotte, vor einem Kruzifixe betend. Hohe 11, Breite 7 cm.
+- 1530 St.Hieronymus,Relief. Brustbild des bartigen Heiligen im Gebete.Er ist bekleidet mit einem losen Gewande.Sein Blick ist gegen Himmel gerichtet.Seine Linke ruht auf einem auf Buch stehenden Totenkopf und halt ein einfaches Kreuz. Vor ihm liegen verschiedene Gegenstande sowie eine Sanduhr. In seinem Ricken erhebt sich ein Baum, an dem sein Hut hangt. Starkes,teils vollrund geschnittenes Hochrelief. Buchsbaum.17. Jahrh.
+
+Hohe 11,Breite 8,4 cm.
+
+- 1531 Schmerzhafte Mutter, die Hande ringend,mit aufwarts gewandtem Haupte.
+- Relieffigur.Buchsbaumholz.18.Jahrh. Hohe 11cm.
+- 1532 Kalvarienberg,Relief in Buchsbaumholz mit vielen vollrunden Partien.
+
+Hohe 11 cm,
+
+- Zwischen den Schachern hangt Christus in der Hohe von Engelglorie umgeben. Am Fufe des Kreuzes die hl. Frauen, zahlreiches Volk und Krieger, teils zu Pferde. AuBerst minutios ausgefuhrte Arbeit. 17. Jahrh.
+- 1533 Viereckiges Relief,Buchsbaumholz,mit acht knienden Bischofsfiguren in reichem Ornate: St.Thomas, St.Augustinus, St.Alphons, St. Gregorius usw; seitlich Stabe mit Kettenborduren, am vorspringenden Gesims gefligelte Engelskopfe. Hohe 8,Breite 12 cm.
+- 1534 Relief, Buchsbaumholz, geschnitzt mit einem Brustbilde von Heiligen unter Renaissance-Torbogen; auf dem Nimbus eingravierte Namensbezeichnungen. Hohe6,Breite 15 cm.
+- 1535 Relief. Drei Jungfrauen tragen einen Korb, in dem der Amorknabe sitzt. Nufbaum. Hohe 8,Breite5,5cm.
+- 1536 Biβende Magdalena in kniender Stellung. Relieffigur in Buchsbaumholz.
+- 18.Jahrh. Hohe 7cm.
+- 1537 Relief. Brustbild des Pompeius im Profl nach rechts. Das Haar mit Lorbeerkranz geschmickt. Hochrelief. Buchsbaumholz. 17.Jahrh.
+
+Nr.1539.
+
+<!-- image -->
+
+Nr.1540.
+
+<!-- image -->
+
+Hohe 6,5,Breite 4,5cm.
+
+- 1538 Gotisches Relief, friesformig,in vier Felder eingeteilt, in denen minutios geschnittene Darstellungen aus der Leidensgeschichte Christi. Buchsbaumholz. Hohe4,Lange 17cm.
+- 1539 Rundes russisches Medaillon,Buchsbaumholz,beiderseits aufserst minutios geschnitzt mit Dreifaltigkeit und Madonna mit dem Kinde,von Heiligenfiguren und Engelglorie umgeben. Durchm.6cm.
+- 1540 Dambrettstein, geziert mit dem Brustbild des Adam Ries in Hochrelief
+- en face. Rechts kleines Wappen. Am Rand die Umschrift: ANNO 1550 ADAM RIESSEINS ALTERS IM LVIII. Holz.Durchm.5,1 cm.
+- 1541 Tabakdose in Form eines Schuhes,in hohem Relief geschnitten mit Kostimund Tierfiguren.Buchsbaumholz.17. Jahrh. Lange 7 cm.
+- 1542 Bonbonniere,rund und fach,Nufbaumwurzelholz mit Schildpattfitterung.
+- In den Deckel ist ein vergoldetes Kupfermedaillon mit der Buste Louis Napoleons von Holland eingelassen. Hohe 2,Durchm.8 cm.
+- 1543 Dosendeckel, verziert mit Reitergruppe und Lorbeerkranzrand in zwei-
+- farbigem Holz.Rund. Durchm.8 cm.
+- 1544 Marienzepter,in Buchsbaumholz geschnitten mit Standfigur der Madonna und musizierenden Engelfigurchen. Lange 27 cm.
+- 1545 Nuβknacker, Buchsbaumholz, geschnitzt in Form einer Groteskfigur, Bettelmonch. Hohe 17 cm.
+- 1546 Bestechscheide,Buchsbaumholz,in Keilform auferst minutios geschnitzt mit Standfiguren der Apostel und Rundmedaillons,in denen Darstellungen aus der Geschichte des verlorenen Sohnes.Bezeichnet:G.W.G.1552.
+
+Lange 17 cm.
+
+- 1547 Kokosnuβ mit Silberstopsel undHangeosen, die Leibung geschnitten mit Musik-
+- emblemen,Waffentrophae und Blumenkorb. 18. Jahrh. Lange 12 cm.
+- 1548 Hoher Pokal, der Kelch verziert mit durchbrochenem Rebenkranz. Fufs und Schaft mit reliefierter Blattverzierung. Hohe 36 cm.
+- 1549 Stockgrif, Buchsbaumholz, durchbrochen geschnitten mit Abrahams Opfer. Abraham,im Begriff, Isaak zu toten, wird von einem Engel daran gehindert. 18.Jahrh. Hohe 10 cm.
+- 1550 Rokoko-Uhrgehause, Lindenholz,geschnitzt in Form einer mit Palmetten
+- und Muschelwerk geschnitzten Nische. Hohe 32 cm.
+- 1551 Barometer mit Thermometer,der Rahmen Holz,reich in Louis XVI-Stil verziert mit geschnittenen Girlanden,Fullhornern,Fruchtkorb,Kordelgehange. Vergoldet.18.Jahrh. Hohe 113,5cm.
+- 1552 Viereckige Boule-Kassette mit gewolbtem Deckel, allseitig reich eingelegt mit Rankenwerk in Messing und Schildpatt; an den Ecken Elfenbeinschildchen,
+- graviert mit Architekturen. Hohe 11,Lange 27, Breite 18 cm.
+
+Nr.1167.
+
+<!-- image -->
+
+Nr.1553.
+
+Nr.1167.
+
+- 1553 Viereckige Kassettemit gewolbtem Deckel,auf demselben in Flachrelief geschnitzt Brustbild Kaiser Karls VI. Auf den Seitenfachen sechzehn Brustbilder deutscher Kaiser und Jahreszahl 1734. Die Kanten geschnitzt mit Palmettenborduren. Hohe 1l,Lange 17,Breite 12 cm.
+- 1554 Kabinettschrankchen. Die mittlere Ture mit von Saulen getragener Galerie. Die Flachen mit Blumen und Vogeln in eingelegtem Bein verziert. Seitlich je drei Schiebladen. Die Vorderseiten zeigen in einfachem Holzrahmen zwei viereckige Felder, verziert mit Vogeln in Beineinlage. Seitlich profilierte Tragringe aus Bronze. Kampferholz. Hohe 47,Breite 93,5,Tiefe 29 cm.
+- 1555 Kabinettschrankchen auf vier niedrigen Kugelfifsen.Die Vorderseite mit
+- Schiebladen, die sich um eine mittlere grofere Ture gruppieren,hinter der vier Schiebladen.Tur und Schiebladen verziert durch Schieferplatten mit Vogeln bzw. Blumen in Steinmosaik. Die Seiten mit Landschaften in gleicher Technik.Der Schrank Zedernholz.18. Jahrh.
+
+Hohe 64,5,Breite 88,Tiefe 37 cm.
+- 1556 Brauttruhe,viereckig. Fufs und Deckel mit breit ausladender Proflierung. Die Wande reliefiert und in Art der Sienesener Bucheinbande unter reicher Verwendung von Gold bemalt. Die Vorderseite Darstellung einer Verlobung. Die Seitenwande Wappen auf Rankengrund. Die Rickseite Spruch:Quado rinoponaro amicho tidonna una picholodonoricenitopiacierolemeteefiate amo te diringraciarlo pienamente.DieEckpfeiler sowie die ibrigen Flachen verziert mit italienischen Frihrenaissance-Ornamenten.
+
+Hohe 37,5,Breite 49,Tiefe 33 cm.
+
+- 1557 Zwei hohe Zierstiicke. Auf breitem Fufs in Form von Felsen erhebt sich ein hohes Astwerk,an dem in nach oben pyramidenformig sich verjingendem Aufbau eine grofe Anzahl von trefflich vollrund geschnitzten Putten klettern, indem sie sich gegenseitig teils helfen, teils hindern. Im Gesamtaufbau sowie in den einzelnen Figuren auferst reich komponierte Sticke. Auf hohen Sockeln mit breit ausladenden Fufen und starker Einschnurung. Dieselben sind verziert und zeigen auf den acht Seitenfachen Renaissance-Bandwerk mit Karyatiden und Maskarons, zum Teil vollrund herausgearbeitet. Italien. 17.Jahrh. Hohe327cm.
+- 1558 Grofe Kommunionbank,aus funf Teilen bestehend. Das grofe Mittelstick von zwei lebensgrofen knienden Engeln fankiert, die das iber die Bank gelegte,geschnitzte Kommuniontuch halten. Die Schranke,in uberaus reicher Weise durchbrochen,zeigt im Mittelstick den Kelch,uber dem eine Hostie mit Strahlenscheibe schwebt und umgeben von einem Kranz von fast vollrunden Engelkopfen;zu den Seiten Fullhorner und uppiges Blattwerk sowie kniend zwei vollrund gebildete Engel. Die kleinern Seitenfelder ahnlich mit von Ranken und Blumenwerk umgebenen Rundmedaillons,in denen fast vollrund Pelikan, seine Jungen nahrend, und das ruhende Lamm Gottes. Als obere Bekronung vier Standfiguren von Engeln,in den Handen die Symbole von Glaube,Liebe,Hoffnung und Treue haltend. Holz,braun bemalt.
+
+Ganze Lange 655,Hohe 83,Hohe mit den Engeln 127 cm.
+
+Die Kommunionbank entstammt der abgebrochenen Kirche im Haag (Jetfrouw-Idastraat) und ist gefertigt von dem berihmten Schnitzer und Bildhauer Xavery, der anfangs des
+
+18.Jahrh.im Haag lebte.
+
+- 1559 Italienische Truhe. Der Kasten durch eine Langsleiste in zwei Teile geteilt, der obere kurzere eingezogen, der untere ausgebaucht. Die Flachen durch vier durchlaufende Karyatiden,die in Lowenfufe endigen,in ungleiche Felder geteilt. Die Mittelfelder zeigen je eine Kartusche, die obern von Engeln getragen,die untern von kampfenden Wassergottern fankiert;die seitlichen Die gleiche Verzierung wiederholt sich auch bei den schmalen Seitenteilen.
+
+Hohe 59,Lange 165,Breite 52 cm.
+
+- Felder zeigen oben Girlanden,im untern Teile Tritonen bzw. Akanthusblatt. Holz,der Grund vergoldet.Anf.17.Jahrh.
+## 1560 Italienische Truhe.Ahnlich.Anf.17.Jahrh.
+
+Hohe 59,Lange 165,Breite 52 cm.
+
+- 1561 Italienische Truhe,viereckig,auf Lowenklauen ruhend. Die Seiten in Feldereinteilung,die vertieften Felder bemalt mit Landschaften und Blumen. Die
+- ubrigen Teile vergoldet.Italien, 18. Jahrh. Hohe 74,Lange 161,Breite 53 cm.
+- 1562 GroBer Ausziehtisch.Die vier Fufsevasenartig profiliert und durch mittlere Querleiste verbunden. Alle Teile aufs reichste verziert mit Blattwerk,Vogeln, Schmetterlingen,Maskarons und geometrischen Musterungen in eingelegtem andersfarbigem Holz. Seitlich je eine ausziehbare Platte. Niederlande.
+
+Hohe 82,Breite 92,5,ausgezogen 307 cm.
+
+- 1563 Prunktisch,auf zwei breiten,von Saulen flankierten Fufen ruhend,die durch ein Querholz verbunden.Auf letzterm erheben sich funf weitere Saulen. Die Kante verziert mit reliefierter Blattmusterung. Die Ecken mit hangenden Zapfen.17.Jahrh. Hohe 85,Breite 84,Lange173cm.
+- 1564 Schweizer Klapplehnsessel. Die Fufe S-formig und paarweise gekreuzt.
+- Rucken und Armlehnen leicht ausgeschweift. Alle Teile verziert mit eingeritztem Linienornament. 16. Jahrh. Hohe 105 cm.
+- 1565 Bauernstuhl.Die Ricklehne lyraformig mit herzformigem Ausschnitt. Der Rand mit Blattwerk und Delphin in Relief verziert. Das mittlere Feld, ge teilt,zeigt in der untern Halfte den Schwur auf dem Rutli,in der obern den Tellschufs in Landschaft. Interessantes Stick.Ruckseitig Aufschrift:1689 IMMONATAPRIL. Hohe 89cm.
+- 1566 Bauernstuhl. Ebenso. 17.Jahrh.
+
+Gleiche Grofe.
+
+- 1567 Bauernstuhl. Die Rucklehne lyraformig und im Relief verziert mit zwei Frauengestalten, die aus unterm mannlichem Maskenkopf hervorwachsen. Nufbaum.17. Jahrh. Hohe 87cm,
+- 1568 Bauernstuhl. Die Ricklehne in umgekehrter Lyraform und reich mit hoch-
+- reliefiertem Dekor. Die Mitte nimmt ein in Blattwerk endigender Maskaronkopf ein.Der Rand jederseits mit Akanthusblatt.17. Jahrh.
+
+Hohe 91 cm.
+- 1569 Stuhl. Die hohe Ricklehne reich geschnitzt mit Akanthusblattern, von gedrehten Saulen fankiert, die Querleisten ebenso. Sitz und Ricken blaues Leder mit Gold- und Silberblattwerk. Hohe 120 cm.
+- 1570 Lehnstuhl mit hoher Ricklehne mit zwei Querbrettern. Das obere breitere, ausgeschweift,zeigt einen Maskenkopf, darunter von zwei Steinbocken gehaltenes Wappen, das untere Maskaron und Blattwerk. Die Armlehnen
+- geschweift, vordere Fife sowie Querleisten gewunden. Hohe 118cm.
+- 1571 Lehnstuhl, die Rucklehne geschnitzt mit Portratmedaillon und RenaissanceHohe 130cm.
+- Blumenmuster.
+- 1572 Lehnsessel,ebenso,mit Mohrenkopf.
+
+Hhe 130cm.
+
+- 1573 Buddha, liegend, den Kopf auf den rechten Arm gestitzt. Er tragt ein langes Gewand mit reicher breiter Randborte, auf dem Haupte die Igelmitze. Letztere sowie die Randborte reich reliefiert und verziert mit eingelegten
+- und aufgesetzten Spiegelscheibchen und bunten Steinen. Holz. China.
+
+Lange 108 cm.
+
+- 1574 Bettler,auf einem Beine stehend. Er stitzt sich mit seiner Linken auf einen Stock. In seiner Rechten halt er eine Fledermaus. Das altliche Gesicht mit starken Falten und kurzem Barte. Als Sockel auf Steinen liegender Wasser-
+- schlauch. China. Hohe 71 cm.
+- 1575 Fischender Japaner. Vollrund geschnitzte Figur,leicht vorgebeugt,im Begriffe, mit einem Netze Fische zu fangen. Er tragt ein kurzes Gewand, das reich mit Blumenmusterung verziert. Auf seinem Haupte hat er einen sehr breiten fachen Strohhut. Die breite Fufplatte in fachem Hochrelief als Rasen und von Fischen belebter Bach charakterisiert. Auf ersterm liegen
+- verschiedenerlei Fischgerate. Hohe 11cm.
+- 1576 Gotzenfigur mit weiblichem Kopf und vasenformigem Leib. Bunt bemalt.
+- Hohe 38cm.
+- 1577 Zwei Figuren.Inder und Inderin in schematischer Stellung.Bunt in der Tracht
+- des Landes gekleidet und naturalistisch polychromiert. Hohe 35cm.
+- 1578 Vier Figuren in Schrittstellung,vollrund geschnitten, in den Handen Musikinstrument,Vase,Lanze usw.haltend.Holz,vergoldet und bemalt.
+
+Hohe18cm.4 Stick.
+- 1579 Figur. Sitzender Schauspieler in reicher Gewandung. Bemalt und vergoldet. Hohe 24 cm.
+- 1580 Kinderspielzeug, weibliche Groteskfigur, in Wagen sitzend, von Kuli gezogen. Chinesische Arbeit,mit Elfenbeinappliken verziert. Hohe 10 cm.
+- 1581 Groteskfigiirchen mit Elefantenkopf, Kampferholz,geschnitzt mit Stock undSchirm. Hohe 9 cm.
+- 1582 GroBer Vasenstander,Eisenholz,auf vier Fufen,mit Lowenkopf geschnitzt und mit eingelassenen Bronzeappliken verziert. Hohe 110 cm.
+- 1583 Vasenstander,ahnlich,auf drei Fufen,mit Elefantenkopfen verziert. Hohe 112 cm.
+- 1584 Ein Paar flache Vasenuntersaitze, Eisenholz,durchbrochen geschnitzt. Hohe 10 cm.
+- 1585 Kleiner Vasenstander,mit Beinknopfen verziert.
+- 1586 Zwei desgleichen.
+
+Hohe 7 cm.
+
+Hohe5cm.
+
+- 1587 Untersatz, hoch und fast zylindrisch, reich durchbrochen in vollrund geschnittenem Blumen- und Rankenwerk mit Eidechsen.Kampferholz. China. Hohe 17 cm.
+- 1588 Tellerstander,auf fuinf ausgeschweiften Fufen ruhend und reich durchbrochen. Kampferholz. Hohe 15 cm.
+
+<!-- image -->
+befnden, ist wegzugshalber zu verkafen, und stehen wir evtl Refektanten mit entsprechender Auskuft gerne zur Verfigung.
+
+<!-- image -->
+
+VILLA ,DEM SCHONEN":ZURICH, OBERER PARKRING 2

@@ -1,0 +1,1452 @@
+## VENTE CHILLINGWORTH
+
+## ECOLE FLAMANDE
+
+XVe et XVIe siecles
+
+## AMBROISE BENSON
+
+Bruges, vers 1530
+
+- I Retable avec personnages pleurant le Christ.
+
+Les volets interieurs representent,a gauche un saint eveque avec le donateur agenouille, a droite un saint tenant un livre. Sur les volets exterieurs, places a cote des volets interieurs, I'Annonciation a Marie (gris sur gris).
+
+Bois.—Hauteur 79 cm, largeur du panneau central 55 cm.
+
+## AELBRECHT BOUTS
+
+Louvain,vers 1480
+
+- 2 Deux volets de retable avec donateurs et saints.
+
+Jeune chanoine avec Jean-Baptiste et sainte Madeleine. Un chartreux avec saint
+
+Andre et sainte Catherine. Au verso: Christ avec la croix, Marie en pleurs.
+
+Collection R.von Kaufmann (Vente a Berlin 1917, Nos 72 et 73).
+
+Exposition de Bruges 1902 (Nos 141 et 142).
+
+Bois.—Hauteur (de chacun) 56 cm, largeur 23 cm,
+
+Voir les reproductions.
+- 3 Saint-Jerome.
+
+Derriere une table ou se trouvent un crane, des lunettes et d'autres objets, le saint apparait en demi-figure, la taille nue jusqu'a la ceinture. ll tient dans la droite une pierre. A gauche, une fenetre ouvre une perspective sur le paysage. Il y a de nombreuses repliques de cette composition, dont une tres bonne au Musee de Salzbourg.
+
+Voir la reproduction.
+
+- 4 La Vierge et l'Enfant.
+
+Visible jusqu'aux genoux, la Madone tient avec sa main gauche lEnfant assis dans son giron, et dans sa droite un livre que I'Enfant feuillette de sa main droite.
+
+Bois.-Hauteur 93 cm, largeur 65 cm (le haut se termine en ogive).
+
+## ADRIAEN THOMASZ KEY
+
+Anvers,1568-1590 ()
+
+Voir la reproduction.
+
+- 5 Le meurtre d'Abel.
+
+Le cadavre git a droite de l'autel du sacrifice. A gauche Cain s'enfuit.
+
+Bois:Hauteur 180 cm, largeur 129 cm.
+
+Signe:ADR. THOMASZ KEVE FECIT.
+
+## MAITRE DE FLEMALLE
+
+Peut-etre identique avec Robert Campin,Tournay, vers 1420.
+
+- 6 Portrait d'homme.
+
+Buste, a moitie tourne vers la gauche. La chevelure noire et l'habit rouge a fourrure se detachent sur un fond vert. Les emblemes de la coiffure, deux livres et une portee, le designent comme un savant et un musicien.
+
+Collection W. Gumprecht, Berlin.(Vente a Berlin, 1918, N 11.)
+
+Voir la reproduction.
+
+Bois.-Hauteur 34 cm,largeur 24 cm.
+
+## JOOS VAN CLEVE
+
+(attribuea)
+
+Anvers,1480(3)a 1540
+
+Bois.—Hauteur 64 cm,largeur 52 cm.
+
+## ADRIAEN ISENBRANT
+
+Bruges, vers 1520
+## MAITRE DE FRANCFORT Probablement a Anvers, vers 1510
+
+- 7 L'Empereur Maximilien.
+
+Buste; dans sa droite dressee, l'empereur tient un ceillet rouge. Fond d'or. Des portraits de Maximilien dune composition semblable se trouvent a Bruxelles et a Vienne, et presentent le style de Joos van Cleve.
+
+Voir la reproduction.
+
+Bois.-Hauteur 36 cm, largeur 25 cm, a linterieur du cadre original, qui porte au bas les armoiries avec l'aigle bicephale.
+
+## MAITRE DE FRANCFORT Probablement a Anvers,vers 1510
+
+- 8 Madone avec l'Enfant.
+
+La Madone, en demi-figure, tournee a gauche, tient de ses deux mains lEnfant qu'elle allaite. Fond de paysage.
+
+Cf. Friedlaender 《Jahrbuch der Preussischen Kunstsammlungen 》, 1917, page 135 et 147. Le tableau est le No 15 du catalogue de lceuvre.
+
+Vente chez Lepke, Berlin, 1901, No 84. Collection du Prof. G.Voss, Berlin.
+
+Bois.-Hauteur 40 cm, largeur 31 cm, arrondi par le haut.
+
+## LE MAITRE DE LA LEGENDE DE SAINTE LUCIE
+
+Bruges,vers T480
+
+- 9 L'Adoration des Mages.
+
+La Madone est assise a gauche. Devant elle est agenouille le plus vieux des mages, derriere lequel se tiennent Joseph et les deux autres mages.
+
+Voir la reproduction.
+
+Bois.—Hauteur 57 cm,largeur 41 cm.
+
+## MAITRE NEERLANDAIS Vers1480
+
+10 Marie avec l'Enfant Jesus et saint Bernard.
+
+La Madone est visible jusqu'au genou, le saint jusqu'a mi-corps, au bord de gauche.
+
+Bois.—Hauteur 30 cm,largeur 21 cm.
+Voir la reproduction.
+
+- 13 La Sainte Famille.
+
+Vue de face, la Madone est assise a gauche; a cote d'elle, saint Joseph, vu de cote; a droite deux anges faisant de la musique. Des deux cotes du baldaquin, perspective de paysage.
+
+Collection Paul Meyerheim, Berlin.
+
+Voir la reproduction.
+
+## MAITRE NEERLANDAIS Vers 1510
+
+- II Marie avec l'Enfant et un donateur.
+
+Assise devant un trone de pierre, la Vierge tient a deux mains lEnfant Jesus. Sur le sol, a droite, un grand vase fleuri de lis, a gauche, le donateur a genoux, tenant un rosaire. Perspective de paysage avec chateau.
+
+Par quelques traits, le tableau rappelle le style des 《manieristes anversois 》
+
+Bois.-Hauteur 85 cm, largeur 53 cm.
+
+## MAITRE NEERLANDAIS
+
+Vers1520
+
+- 12 Le Christ au Jardin des Oliviers.
+
+D'apres l'estampe de Martin Schongauer (B. 9).
+
+Le maitre appartient au groupe des 《manieristes anversois 》.
+
+Bois.Hauteur 41 cm,largeur 32 cm.
+
+## MAITRE DU SAINT SANG
+
+Bruges, vers 1510
+
+Bois.-Hauteur 68 cm,largeur 55 cm.
+- 15 Bouquet.
+
+Grand bouquet de fleurs de toute espece dans un vase brun.
+
+Toile.—Hauteur 104,largeur 71 cm.
+
+## ANTON VAN DIJCK
+
+Anvers, Genes et Londres, 1599-1641
+
+- 16 L'Apotre Andre.
+
+Buste, tourne a moitie a droite.
+
+Vers 1620, van Dijck crea a Anvers plusieurs suites de tetes d'apotres, dont proviennent certaines anciennes copies d'atelier.
+
+Voir la reproduction.
+
+Bois.Hauteur 58 cm, largeur 48 cm.
+
+## ECOLE FLAMANDE
+
+XVIle siecle
+
+## PIETER BREUGHELLE JEUNE Anvers,1564()a 1637 (3)
+
+- 14 Le cortege de noces.
+
+Sur la grand'route, la noce passe vers la gauche. La fiancee savance entre deux
+
+Signe: P. BRUEGHEL 1623.
+
+jeunes gens, des femmes la suivent, precedant le fiance entoure dhommes. Deux musiciens ouvrent la marche.Paysage, avec village a droite et moulin a vent au centre.
+
+Ce tableau se rapporte a un original de la main de Pieter Breughel le Vieux qui se trouve en Angleterre,a Northwick Park.
+
+Voir la reproduction.
+
+Bois.——Hauteur 73 cm,largeur 124 cm.
+
+## JAN BRUEGHEL LE VIEUX
+
+## Anvers,1568-1625
+- 18 La Fuite en Egypte.
+
+La Madone avec l'Enfant, a cheval sur un ane. En haut, un groupe d'anges tres mouvemente et enchevetre.
+
+Voir la reproduction.
+
+## ALEXANDRE KEIRINCX
+
+Anvers,1600-1652
+
+Toile.—Hauteur 73 cm,largeur 54 cm.
+
+- 19 Foret.
+
+Epaisse futaie de chenes sur un sol marecageux, peuplee d'oiseaux et d’autres animaux.
+
+Bois.-Hauteur 52 cm, largeur 82 cm.
+
+## MAITRE FLAMAND
+
+Vers 1650
+
+- 20 Apres le repas.
+
+Un homme et une femme dorment, assis a une table. Derriere eux,une servante ouvre la porte d'une credence.Au premier plan,des enfants et des chiens se collettent.
+
+Bois.-Hauteur 49 cm,largeur 71 cm.
+
+## VAN DIJCK
+
+(attribuea)
+
+Anvers,Genes et Londres,1599-1641
+
+- I7 Portrait d'un garcon.
+
+Portrait en pied, debout, vu de face, dans un parc. La gauche tient la poignee de I'epee, la droite les gants. A gauche, un rideau rouge.
+
+Signe: Aetatis 7, 1629.
+
+Le style rappelle les portraits executes par van Dijck a Genes.
+
+Toile.—Hauteur 114 cm,largeur 98 cm
+
+## JACOB JORDAENS
+
+Anvers,1593-1678
+- 21 Danae.
+
+Vue de dos, assise. Fond sombre.
+
+## MAITRE NEERLANDAIS Du XVlle siecle
+
+Toile.-Hauteur 80 cm,largeur 55 cm.
+
+## PIERRE PAUL RUBENS
+
+Anvers,1577-1640
+
+- 22 Victoire de la Concorde sur la Discorde.
+
+La figure allegorique qui symbolise le bon regime ou la Concorde, foule aux pieds une forme humaine nue, et tient entre les mains une corde pour ligoter la Discorde.
+
+Esquisse pour la Salle de banquets de Whitehall (Londres). — Collection du baron de Beurnonville, a Paris (Vente 1881, N 440).A.von Oppenheim (Vente a Berlin 1914, N33).—Exposition de Bruxelles 1910, N° 351.-Cf.Rooses 767, 1.
+
+Bois.-Hauteur 49 cm,largeur 40 cm.
+
+## PIERRE PAUL RUBENS
+
+(attribuea)
+
+Anvers,1577-1640
+
+Voir la reproduction.
+
+- 23 Buste de femme.
+
+Chaine de perles dans les cheveux blonds. De sa main droite,la femme retient son corsage sur sa poitrine.
+
+Toile.-Hauteur 50 cm,largeur 45 cm.
+
+## JUSTUS SUSTERMAN
+
+(attribuea)
+
+Anvers et Florence,1597-1681
+
+- 24 Portrait d'une femme.
+
+Vue de face, en demi-figure, elle tient une hyacinthe dans sa main droite redressee.
+
+Toile.-Hauteur 92 cm,largeur 72 cm.
+## ECOLE HOLLANDAISE
+
+XVIe et XVlle siecles
+
+## JACOB CORNELISZ D'AMSTERDAM
+
+Amsterdam,1477 (?)a 1533 ()
+
+- 25 Sainte Madeleine.
+
+La sainte, en demi-figure, tient dans ses deux mains un vase de cristal qui repose sur une balustrade recouverte d'un tapis. A gauche, un relief avec des combattants; au-dessus d'eux, par une baie voutee, apparait un paysage de montagne.
+
+Date de 1519.
+
+Collections: v. Brenken (Wewer en Westphalie); R. von Kaufmann (Vente a Berlin,
+
+1917, No 113);Exposition de Dusseldorf 1904,N 198.
+
+Voir la reproduction.
+
+Bois.-Hauteur 57 cm,largeur 40 cm.
+
+## JACOB CORNELISZ D'AMSTERDAM
+
+Amsterdam,1477 (?)a 1533 (?)
+
+- 26 Saint Jacques -Sainte Barbe.
+
+Demi-figures; fragments de volets de retable. Saint Jacques, tourne a moitie de cote vers la gauche. Fond de paysage. — Sainte Barbe, avec un livre et une plume de paon, est tournee a moitie de cote vers la gauche. Fond de paysage.
+
+Bois.-Hauteur (de chacun) 22 cm,largeur 17 cm.
+
+CAREL DUJARDIN (attribuea) La Haye,1622-1678
+
+- 27 Paysage avec un cheval blanc.
+
+A droite au premier plan sont assis le berger et sa femme; au centre, le cheval blanc; a cote de lui, un troupeau de moutons couches; au fond le berger a cheval.
+
+Bois.-Hauteur 44 cm, largeur 35 cm.
+- 28 Le Moulin a eau.
+
+A gauche un vieux moulin couvert de tuiles rouges; a droite, deux grands arbres ombrageant le premier plan; entre deux, leau qui tombe du bief du moulin. En
+
+Signe du nom du maitre.
+
+arriere, en pleine lumiere, une ferme dans la verdure.
+
+Collections: Joseph Barchard (Londres 1826); Nieuwenhuys (Londres 1833);Henri Bevan (Londres); Sir Edward J. Dean Paul (Londres 1896); A.von Oppenheim (Vente a Berlin 1914, N 19).-(Smith Cat.v.54).
+
+Voir la reproduction.
+
+## MAITRE HOLLANDAIS
+
+Vers1630
+
+- 29 Portraits d'un homme et d'une femme.
+
+Bustes dans un cadre rond sur fond sombre.
+
+Cuivre.-Hauteur 7 cm, largeur 7 cm.
+
+## MAITRE HOLLANDAIS
+
+du XVlle siecle
+
+- 30 Paysage de riviere.
+
+Au premier plan, la surface de l'eau occupe toute la largeur du tableau; a droite, constructions sur la rive; a gauche au second plan, un pont.
+
+Toile.Hauteur 50 cm, largeur 60 cm.
+
+## J.MANCADAN
+
+Maitre hollandais, milieu du xVlle siecle
+
+- 3I Paysage de montagne avec paturage et arbres.
+
+Au centre, un berger joue de la flute; au premier plan, betail paissant.
+
+Bois.—Hauteur 68 cm, largeur 57 cm.
+
+Signe des initiales du maitre: J. M.
+
+## MEINDERT HOBBEMA
+
+Amsterdam,1638 () a 1709
+## GABRIEL METSU
+
+Leyde,1629 (1630)-1667
+
+- 32 Femme causant avec deux hommes.
+
+La femme, tournee a gauche, est assise devant une maison; debout dans lencadrement de la porte, un homme lui lit une lettre. A droite, un homme fume.
+
+Signe du nom du maitre avec la date: 1656.
+
+Voir la reproduction.
+
+- 33 Portrait d'homme.
+
+Buste, en cuirasse, tourne a moitie vers la droite.
+
+Bois.-Hauteur 28 cm,largeur 22 cm.
+
+Bois.-Hauteur 5I cm, largeur 40 cm.
+
+## REMBRANDTVANRIJN
+
+Leyde et Amsterdam,T606-1669
+
+- 34 Lisbeth van Rijn, sceur du maitre.
+
+Buste, legerement tourne a gauche; le manteau pourpre double de fourrure recouvre une robe bleu pale largement decolletee, qui laisse apercevoir le bord de la chemise. Chaine de perles au cou; sur la poitrine, triple chaine d'or. Fond sombre.
+
+Signe a gauche en bas: Rembrandt f. 1633.
+
+Collections: O. B. L. Mainwaring (Londres 1892); A.Polontsoff, Petersbourg; C. v. Hollitscher,Berlin.Cf.Catalogue de la Collection v.Hollitscher,Berlin 1912,N60; Hofstede de Groot, Catalogue descriptif, No 691.
+
+Le Docteur Bredius ecrivait a Mr. Chillingworth:
+
+## Monsieur,
+
+,La Haye, le3 mai 1920.
+
+Je ne donne jamais d'attestation ni de certificats. Un tel tableau, possedant un arbre genealogique aussi excellent, n'en a d'ailleurs pas besoin. J'ai connu le tableau ment conserve et represente bien la sceur de Rembrandt. J'estime que tout doute sur deja en Angleterre chez Mr. Massey Manwaring; il est authentiquement signe, parfaite son authenticite serait impossible. J'ai eu grand plaisir a le revoir chez vous; je l'avais deja vu chez Hollitscher."
+
+Voir la reproduction.
+
+Toile.—Hauteur 62 cm, largeur 54 cm.
+
+## ANTONIS MOR
+
+(Attribuea) Utrecht 1512()-1575
+## REMBRANDT VAN RIJN
+
+Leyde et Amsterdam,1606-1669
+
+34a Etude de tete de jeune fille.
+
+Buste tourne aux trois quarts vers la gauche, les yeux baisses et la bouche entr'ouverte; robe brune decolletee, col rouge et écharpe blanche. Les cheveux sont peignes en
+
+Catalogue de IExposition Rembrandt, Amsterdam 1898, mentionne page 91. Bode, N 374 (avec reproduction). Reproduit dans 《Klassiker der Kunst 》, IIe, p. 324.
+
+arriere et retenus sur la nuque avec un chale.
+
+Collection Baron Albert Oppenheim, Cologne. Vente a Berlin, 1914, No 31.
+
+Voir la reproduction.
+
+- 35 Portrait d'homme.
+
+A demi tourne a droite et visible jusqu'a la poitrine, l'homme est represente en habit de pelerin partant pour Jerusalem; il tient un baton sur l'epaule droite. A droite, des constructions dans un fond champetre.
+
+Provient d’une collection particuliere a Treves.
+
+Cf. Friedlander:Von Eyck bis Brueghel",2 édition, p.167 et 201 (illustration, page 30).
+
+Jan van Scorel qui a lui meme ete, en 1520, en Terre Sainte, a souvent fait a Utrecht le portraits de pelerins se rendant a Jerusalem
+
+Voir la reproduction.
+
+Bois.-Hauteur 64 cm, largeur 44 cm.Dessus arrondi
+
+## JAN VAN SCOREL
+
+Utrecht,1495-1562
+
+- 36 Portrait d'homme en demi-figure.
+
+Vu presque tout a fait de face, lhomme tient dans la droite, comme embleme, une petite roue cassee (insigne de I'ordre de sainte Catherine), et dans la gauche son chapeau. A son collier est suspendu une croix, reliquaire de la sainte Croix. Son manteau de brocart est orne de croix ancrees, insignes d'un ordre de chevalerie.
+
+Voir la reproduction.
+
+Bois.—Hauteur 68 cm,largeur 56 cm.
+
+Bois.-Hauteur 20 cm, largeur 15,5 cm.
+
+## JAN VAN SCOREL
+
+Utrecht,1495-1562
+- 37 Paysage italien.
+
+A droite, ruine d'un temple romain pres d'un ruisseau, que franchit un pont au centre du paysage.
+
+Bois.—Hauteur 19 cm,.largeur 28 cm.
+
+Signe:E.v.Velde, 1630.
+
+## ESAIAS VAN DE VELDE
+
+Haarlem, 1590(3) a 1630
+
+## JACOB DE WET
+
+Haarlem,1610(?)a 1671
+
+- 38 Jacob et Rachel au puits.
+
+A droite,le puits auquel conduisent des marches, et ou des femmes puisent de leau. Au centre Jacob tend la cruche a Rachel. A gauche, perspective sur le fond du paysage ou s'elevent de grandes constructions.
+
+Bois.-Hauteur 59 cm, largeur 82 cm.
+## IV. ECOLE ALLEMANDE
+
+XVe et XVIe siecles
+
+## ALBRECHT ALTDORFER
+
+(attribuea)
+
+Ratisbonne, 1480 (3) a 1538
+
+- 39 L'Arrestation du Christ.
+
+Le Christ, place au centre, est empoigne des deux cotes par les sergents. A gauche,
+
+Exposition de Zurich, 1921, N 2.
+
+Pierre coupe l'oreille de Malchus. Fond de paysage.
+
+Bois.—Hauteur 31 cm, largeur 23 cm.
+
+## HANS BALDUNG GRIEN Strasbourg, 1480 (3)a 1545
+
+- 40 La Vierge avec l'Enfant et des anges.
+
+A genoux, devant des rideaux en forme de tente et tournee a droite, la Vierge tient des deux mains lEnfant debout sur sa cuisse gauche, et le presse contre elle. A droite, deux angelots qui jouent et dont lun feuillette un livre. En haut, dans le rideau vole un troisieme ange.
+
+Signe du monogramme du maitre: H. B. entrelaces.
+
+Provient de la collection du Conseiller a la cour Rohrer a Unterschondorf am Ammersee. Une replique datee de 1516 se trouve au Musee de Nuremberg. A propos du tableau de Nuremberg, G. v. Terey dit ceci:《...Petit tableau de Madone, dont un second et meilleur exemplaire se trouve dans la collection du Conseiller a la cour Rohrer a Unterschondorf (Baviere)》. Zeitschrift fur bildende Kunst,1912,p.142.—Cf.egalement G.von Terey,Munchener Jahrbuch fur bildende Kunst, 1912 Il.p.147 ff.—Exposition de Zurich 1921, N° 13.
+
+Voir la reproduction.
+
+Bois.—Hauteur 47 cm,largeur 30 cm.
+
+## BARTHEL BRUYN LE JEUNE
+
+Cologne, mort apres 1607
+
+- 4I Portrait d'un homme en demi-figure.
+
+Le jeune homme, qui porte la barbe entiere et courte, est vu de face. A droite en haut au fond, les armoiries de la famille Pfingsthorn de Cologne (un cor postal). Le portrait represente probablement le conseiller Jodocus Pfingsthorn, qui a ete frequemment membre du Conseil de Cologne depuis 1580.
+
+Bois.-Hauteur 93 cm,largeur 73 cm.
+- 42 Portrait de femme.
+
+Buste sur fond vert, tourne a demi vers la gauche, les mains jointes pour la priere.
+
+Au verso, sainte Catherine debout, en pied.
+
+D'apres le style, vers 1508. Le tableau, qui forme probablement la moitie d'un diptyque, est peint sur bois de chene. Cela porte a penser que le tableau a ete peint en Hollande, ou Cranach a reside en 1508.
+
+Cf.Friedlander, Zeitschrift fur bildende Kunst, N.F.XXX 1919, p. 83.
+
+Bois.-Hauteur 42 cm,largeur 32 cm.
+
+## LUCAS CRANACH L'ANCIEN
+
+Wittenberg,1472-1553
+
+Voir la reproduction.
+
+- 43 Adam et Eve.
+
+Le couple est au centre, sous un arbre, devant des feuillages. De son bras gauche, Adam entoure les epaules d'Eve,et de sa main droite il prend la pomme. A droite et a gauche, des animaux, un lion et des cerfs.
+
+Signe de l'embleme du dragon (les ailes dressees) et date de 1527 (le dernier chiffre est indistinct).
+
+Voir la reproduction.
+
+Bois.-Hauteur 85 cm,largeur 58 cm.
+
+## LUCAS CRANACH L'ANCIEN
+
+Wittenberg,1472-1553
+
+- 44 Judith avec la tete d'Holopherne.
+
+En demifigure et a moitie tournee a gauche,Judith apparait,richement vetue, tenant dans sa droite le glaive et dans sa gauche la tete coupee d'Holopherne.
+
+Signe de l'embleme du dragon (ailes dressees), 1530.
+
+Voir la reproduction.
+
+Bois.-Hauteur 75 cm, largeur 54 cm.
+
+## LUCAS CRANACH L'ANCIEN
+
+Wittenberg,1472-1553
+## HANS CRANACH
+
+Fils de Lucas Cranach l'Ancien
+
+Wittenberg,1515(3)a 1537
+
+- 45 Hercule avec les filles de Lycomede.
+
+Hercule est assis au milieu, visible jusqu'aux genoux. Deux femmes se penchent vers lui: l'une d'elles lui met une coiffe de femme. A droite, une troisieme femme tient une quenouille. A gauche en haut, deux volailles sont suspendues a la paroi.
+
+Signe de l'embleme du dragon et des initiales H. C. 1537.
+
+Fond bleu, portant au milieu du tableau une inscription latine.
+
+C'est jusqu'ici le seul tableau connu que le fils et collaborateur de Lucas Cranach, mort jeune, ait authentique de sa signature.
+
+Voir la reproduction.
+
+- 46 Portrait d'homme.
+
+Buste sur fond bleu, vu presque de face, avec une main gauche tres animee, qui emerge au bord inferieur du tableau. Originairement, le tableau devait etre rectangulaire et n'a recu la forme ovale qu'au marouflage sur toile.
+
+Collection Prince Leuchtenberg, St-Petersbourg.
+
+Voir la reproduction.
+
+Marouflage de bois sur toile; ovale. Hauteur 47 cm, largeur 39 cm.
+
+## JOHANN KERBECKE
+
+Munster (Westphalie), vers 1470
+
+- 47 L'Ascension du Christ.
+
+En haut, Christ tenant la banniere; des deux cotes, quatre demi-figures: des apotres, Jean-Baptiste, Moise et David. Au bas, repartis en deux groupes de chaque cote d'une petite eminence, Marie et les douze apotres a genoux. Fond d'or.
+
+Parait provenir d'un retable dont d'autres parties se trouvent au Landesmuseum de Munster et en Angleterre.—Exposition de Zurich 1921. No 46.
+
+Cf. Burlington Fine Arts Club 1906. Illustrated catalogue of Early German Art, pl.Vbis:La Presentation au Temple, 343/4x 24 inches. Prete par M. H. Wagner. N 10 du catalogue.《 Ce tableau est posterieur a 1447, car les jeunes gens tenant les cierges a la main sont librement imites de la Presentation au Temple composee a cette date par Stephan Lochner a Darmstadt.》 Les deux tableaux pourraient appartenir a une meme serie de la Passion. Le haut et le groupement sont identiques.
+
+Voir la reproduction.
+
+Bois.—Hauteur 92 cm,largeur 64 cm.
+
+Bois.—Hauteur 57 cm, largeur 84 cm.
+
+## HANS HOLBEIN LE JEUNE Bale et Londres, 1497-1543
+## MAITRE DE MESSKIRCH
+
+Environs du Lac de Constance, vers 1530
+
+- 48 La Naissance du Christ. —L'Adoration des Mages. -Deux volets
+- d'un retable.
+- I. Marie est agenouillee devant I'Enfant Jesus couche a droite dans une corbeille. A droite, Joseph.
+- Il. La Madone est assise a droite. Le plus vieux des Mages est a genoux devant
+- elle, les deux autres sont debout.
+
+Deux autres volets du meme retable figurent dans une collection particuliere en Suisse. Exposition de Zurich 1921, N122, 123.
+
+Voir les reproductions.
+
+Bois.-Hauteur (de chacun) 133 cm, largeur 75 cm.
+
+## MAITRE DE L'ALLEMAGNE DUSUD
+
+## Vers1430
+
+- 49 Marie avec l'Enfant, des anges et les donateurs.
+
+La Madone, en pied, est assise au centre, entouree de six anges volant, dont deux tiennent le rideau derriere elle, et dont deux autres font de la musique. A gauche en bas,le donateur;a droite, sa femme avec deux filles.
+
+Comme le donateur, d'apres les armoiries, parait appartenir a la famille des Welser (l'ecu de la femme porte un chien issant), le lieu d'origine le plus probable du tableau est Augsbourg.
+
+Voir la reproduction.
+
+Bois.-Hauteur 90 cm. largeur I09 cm.
+
+## MAITRE DE L'ALLEMAGNE DU SUD
+
+Vers1430
+
+- 50 L'Annonciation a Marie.
+
+A droite, Marie est agenouillee dans une halle; l'ange s'approche d'elle,venant de gauche. Fond d'or avec ornement de tiges.
+
+Exposition de Zurich 1921, N 162.
+
+Voir la reproduction.
+
+Bois.—Hauteur 75 cm, largeur 59 cm.
+
+## MAITRE DE L'ALLEMAGNE DU SUD
+
+- 51 Saint Jean a Patmos.
+
+Vers 1500
+
+Saint Jean, visible jusqu'au genou au bord gauche, leve les yeux vers la Madone qui apparait sur fond d'or, au milieu de la partie superieure du tableau.
+
+Bois.—Hauteur 55 cm, 1'argeur 41 cm.
+## MAITRE DE L'ALLEMAGNE DU SUD
+
+Vers 1500
+
+- 52 2 Christ en croix avec Marie et Jean.
+
+A gauche en bas, le donateur avec ses armoiries (trois maillets de bois). La composition est empruntee a l'estampe de Martin Schongauer (B. 25).
+
+Bois.-Hauteur 103 cm, largeur 75 cm.
+
+## MAITRE DE L'ALLEMAGNE DU SUD
+
+Vers1500
+
+- 53 L'Adoration des Mages.
+
+Marie avec lEnfant est assise a gauche. Le plus vieux des Mages est agenouille devant elle; les deux autres sont debout a droite. Le haut est ferme par une bor- dure de tiges dorees.
+
+Voir la reproduction.
+
+Bois.-Hauteur 113 cm,largeur 104 cm,
+
+## MAITRE DE L'ALLEMAGNE DU SUD
+
+Vers1520
+
+- 54 Saint Erasme.—Saint Etienne.-Deux volets d'un retable.
+
+Figures debout, en pied. Fond bleu au-dessus d'un rideau. Au verso, traces de peinture.
+
+Voir la reproduction.
+
+Bois.-Hauteur （de chacun) 108 cm, largeur 35 cm.
+
+## MAITRE DE L'ALLEMAGNE DU SUD
+
+## Vers 1520
+
+- 55 Buste d'un jeune homme riant.
+
+Vu de face, sur fond gris, tenant un vere de vin dans sa droite levee.
+
+Bois.-Hauteur 34 cm,largeur 27 cm,
+
+## MAITRE DE L'ALLEMANGE DU SUD Vers 1600
+
+- 56 La Resurrection du Christ.
+
+Christ s'eleve dans les airs. Sur la terre, une foule humaine, ou se trouvent beaucoup de guerriers, s'agite, vivement excitee.
+
+Bois.—Hauteur 58 cm,largeur 45 cm.
+- 57 Bethsabee au bain.
+
+Bethsabee nue est assise a gauche au bord de la fontaine; plus a droite, David, re- presente en demi-figure, joue de la harpe.
+
+Pierre.—Hauteur 28 cm,largeur 5I cm.
+
+## MAITRE D'ALSACE
+
+Vers1500
+
+- 58 Marie avec l'Enfant.
+
+La Madone est representee en pied, assise en plein air, tenant a deux mains l'Enfant assis sur son bras gauche. Fond de paysage avec figures.
+
+La composition rappelle Martin Schongauer, en particulier sa Madone au Rosenhag de Colmar.
+
+Voir la reproduction.
+
+Bois.-Hauteur 204 cm,largeur 141 cm, arrondi dans le haut.
+
+## MAITRE D'AUTRICHE
+
+Vers 1515
+
+- 59 La Legende des 《Quatre Couronnes》.
+
+Trois scenes, l'une a cote de l'autre. A gauche, on voit travailler a la construction d'une maison quatre ouvriers, dont l'un se distingue par une couronne et un nimbe:
+
+- 《Simfirianus 》 (Symfirianus). A droite, deux tailleurs de pierre couronnes sont au travail, 《 Claudius 》 et 《 Castorius 》; le second est empoigne par un valet d'armes. Date de 1515.
+- 《Nicustrato 》 (Nicostratus). Au centre, dans une nef d'eglise, un éveque baptise
+
+Au sujet de ce tableau, attribue jadis par erreur a Jorg Breu, voyez Suida Revue Belvedere,1922,Fascicule2,p.122],qui propose comme auteur Ruland Frueauf Exposition de Zurich 1921, No 35.
+
+Voir la reproduction.
+
+Bois.-Hauteur 106 cm, largeur 52 cm.
+
+## MAITRE DE BAVIERE
+
+Vers1500
+
+Une des saintes femmes, assise, lit un livre. Devant elle jouent deux enfants. Derriere le mur, en demi-figure, apparait un des hommes de la Sainte Parente. Fond de
+
+- 60 Fragment d'une Sainte Famille.
+
+paysage.
+
+Bois.—Hauteur 60 cm, largeur 35 cm
+
+## MAITRE ALLEMAND
+
+Vers 1600
+- 61 La Sainte Famille.
+
+Au milieu, en pied, sainte Anne et sainte Marie avec Enfant sont assises,entourees de Joachim et de Joseph, debout, l'un a droite, l'autre a gauche. Fond dor. Collection du Prof. Georg Voss, Berlin.
+
+Exposition de Zurich 1921, N 34.
+
+Voir la reproduction.
+
+Bois.-Hauteur 70 cm, largeur 88 cm.
+
+## MAITRE DE LA SAINTE FAMILLE
+
+Cologne, vers 1490
+
+- 62 Jesus portant sa croix.
+
+Jesus portant sa croix est tire et pousse vers la droite par des sergents. A droite, Veronique a genoux avec le saint suaire, et le groupe des fideles qui se lamentent. Au bas,a droite et a gauche, les donateurs, en grandeur reduite,avec leurs armoiries. Fond de paysage.
+
+Les portraits de femmes du groupe des donateurs ont ete rajoutes au XVle siecle, et sont probablement de la main de Barthel Bruyn le Vieux.
+
+Bois.—Hauteur 60 cm,largeur 85 cm.
+
+## MAITRE DE FRANCONIE Vers1490
+
+- 63 Jesus portant sa croix.
+
+Le Christ est entoure d’une foule et mene vers la droite par des sergents.
+
+Bois.—Hauteur 70 cm, largeur 58 cm.
+
+## MAITRE DE FRANCONIE
+
+## Vers1500
+
+Voir la reproduction.
+
+- 64 La Nativite.
+
+Marie a genoux prie devant I'Enfant Jesus couche sur une botte de paille. Joseph, debout a droite, tient une chandelle allumee.
+
+Bois.—Hauteur 55 cm,largeur 34 cm.
+
+## MAITRE DE BOHEME Vers1400
+## MAITRE DE NUREMBERG Vers1470
+
+- 65 Le Christ au mont des Oliviers. -La Resurrection du Christ. -Deux
+- volets d'un retable.
+- I. Jesus prie, agenouille; au bas, le groupe des trois apotres endormis.
+- II. Au-dessous du Christ ressuscite, deux soldats; celui de droite dort; celui de gauche sursaute d'effroi.
+
+Bois.—Hauteur (de chacun) 105 cm, largeur 32 cm.
+
+## MAITRE DE NUREMBERG Vers1440
+
+- 66 Marie avec l'Enfant et sainte Catherine.
+
+La Madone est assise a droite sur un banc de gazon couvert d'un coussin et, de ses deux mains, presse sur son sein Enfant Jesus, qui met l'anneau au doigt de sainte Catherine agenouillee a gauche. Au-dessus de la sainte, un ange tenant la couronne. Fond d'or.
+
+Exposition de Zurich 1921, No 170.
+
+Le tableau provient du maitre qui a cree l'autel des quatorze apotropeens dans I'Eglise St-Jacques de Nuremberg (en 1437).
+
+Voir la reproduction.
+
+Bois.—Hauteur 77 cm, largeur 8I cm.
+
+## MAITRE DE RATISBONNE Vers1520
+
+- 67 La Circoncision de Jesus.
+
+Dans une eglise de style roman, trois pretres; l'un circoncit 'Enfant, tandis qu'un autre le tient au-dessus d'un bassin de metal. Plus en arriere, Joseph et Marie. Par de nombreux traits, le tableau rappelle Albrecht Altdorfer.
+
+Bois.— Hauteur 62 cm, largeur 37 cm.
+
+## MAITRE DU RHIN MOYEN Vers 1510
+
+- 68 Deux volets d'un retable.
+
+Saint Jacques et saint Henri, tous deux debout, en pied. Brocart d’or jusqu'a l'epaule.
+
+Bois. -- Hauteur (de chacun) 120 cm, largeur 40 cm.
+Voir la reproduction.
+
+- 71 Portrait d'homme.
+
+Buste, legerement tourne a droite, sur fond bleu fonce.
+
+Toile.-Marouflage de bois sur toile.——Hauteur 35 cm, largeur 26 cm. Voir la reproduction.
+
+## GEORG PENCZ
+
+Nuremberg,1500(?)-1550
+
+Toile.-Hauteur 60 cm,largeur 55 cm.
+
+- 72 Portrait d'homme.
+
+Buste, vu presque de face. Armoiries dans le fond (aigle noir sur gueules). Signe du monogramme habituel du maitre, G et P entrelaces, et date de 1547. Exposition de Zurich 1921,N° 174.
+
+Voir la reproduction,
+
+## MAITRE DE SOUABE Vers 1400
+
+- 69 Pilate se lavant les mains. —Jesus portant la croix. -Deux volets d'un retable.
+
+D'apres les estampes de Martin Schongauer (B. 14 et B. 16).
+
+Bois.—Hauteur （de chacun) 96 cm, largeur 99 cm.
+
+## MAITRE DE LA VIE DE LA VIERGE
+
+Cologne, vers 1470
+
+- 70 Volet de retable avec une Sainte Vierge et un jeune saint.
+
+Les deux personnages, en pied, sont debout cote a cote. Un ange planant dans le haut leur pose a chacun une couronne sur la tete. Fond de paysage. Collection B. Oppenheim,Berlin.
+
+Bois.—Hauteur 90 cm,largeur 38 cm.
+
+## HANS MUELICH
+
+Munich,1515-1572
+- 73 Portrait d'une femme.
+
+Visible jusqu'aux genoux et legerement tournee a droite, la femme est assise a son rouet.
+
+Date de 1529.
+
+un portrait d'homme date egalement de 1529, et qui pourrait bien etre le pendant egalement a Barthel Beham.
+
+Provient d'une collection privee de Milan. La Galerie d'Etat de Vienne possede de ce portrait de femme. ll y a contestation sur l'auteur: on pourrait l'attribuer
+
+Exposition de Zurich 1921, N 173.
+
+Voir la reproduction.
+
+Bois.—Hauteur 96 cm, largeur 69 cm.
+
+## HANS LEONARD SCHAUFELEIN
+
+Nordlingen,1480-1539/40
+
+- 74 Portrait d'une femme.
+
+A micorps, tournee a droite, sur fond bleu-vert, la main gauche posee sur lavant-
+
+Collection Weber,Hambourg.Vente a Berlin,1912,N51; catalogue comme uvre d'Altdorfer,attribution contestable.Cf.von PfugkHartung,Repert.885,VIll,p.82.)
+
+Bois.—Hauteur 40 cm, largeur 30 cm.
+
+## JACOB SEISENEGGER
+
+- 75 Portraits des cing enfants de l'empereur Maximilien II.
+
+bras droit. Au verso,un double écusson.
+
+Autriche,1505-1567
+
+Bustes places lun a cote de l'autre; a gauche la fille ainee tenant la cadette; au centre une fillette; a droite, deux garcons. En haut, linscription: MAXIMILIANI II IMP.PROLES.
+
+D'apres I'age des princes et des princesses, le tableau a ete execute entre 1558 et 1560.
+
+Voir la reproduction.
+
+- 76 Portrait d'un homme.
+
+Bois.-Hauteur 32 cm,largeur 42 cm.
+
+## LORENZ STRAUCH
+
+Nuremberg,1554(3)a 1630
+
+Vu presque de face, grande barbe blanche, sur fond gris.
+
+Signe a droite en haut: Aetatis suae 52, Annno 1590, et du monogramme, L et S entrelacees.
+
+Bois.Hauteur 47 cm, largeur 37 cm.
+
+## GEORG PENCZ
+
+Nuremberg,1500 (2)a 1550
+## BERNHARD STRIGEL Memmingen,1460(3)a 1528
+
+77 La Vierge avec l'Enfant et sept anges.
+
+Assise au centre, la Madone tient des deux mains l'Enfant Jesus qui, debout sur son giron, se tourne vers un ange agenouille a droite. Derriere elle, six angelots elevent une draperie en forme de manteau. Devant, une banderole portant la devise: Gaude dei genitrix....—Fond d'or.
+
+Collection princiere de Hechingen; Collection R. v.Kaufmann. (Vente a Berlin,
+
+Exposition de Zurich 1921, No 197.
+
+1917,N°145).
+
+Voir la reproduction.
+
+Bois.-Hauteur 64 cm,largeur 104 cm Lunette.
+## ECOLE ITALIENNE
+
+du XIlle au XVle siecle
+
+## PARIS BORDONE
+
+Venise,1500-1571
+
+- 78 Judith avec la tete d'Holopherne.
+
+Judith, a micorps, le glaive dans la main droite, tend a une servante debout a droite la tete coupee d'Holopherne. Fond sombre avec draperie de tente.
+
+Toile.—Hauteur 103 cm,largeur 84 cm.
+
+## SANDRO BOTTICELLI
+
+(attribuea)
+
+Florence, 1446(3)a 1510
+
+- 79 La Vierge avec I'Enfant et des saints. -Panneau d'autel.
+
+La Madone est assise au centre, entre deux anges. Debout, a gauche, saint Roch, a droite saint Sebastien.
+
+Voir la reproduction.
+
+Bois.-Hauteur 114 cm, largeur 98 cm.
+
+## CIMA DE CONEGLIANO
+
+(attribuea) Venise, 1460()a 1517(3)
+
+- 80 La Vierge avec l'Enfant.
+
+Assise devant un rideau vert et tournee a gauche, la Madone, a micorps, tient a deux mains I'Enfant Jesus. A droite, perspective d'une ile portant des constructions.
+
+Voir la reproduction.
+
+Bois.—Hauteur 55 cm, largeur 47 cm.
+- 8I Arion sur le dauphin.
+
+Jouant du violon, Arion passe a califourchon sur le dauphin qui lemmene vers la droite. Au fond, une cote rocheuse.
+
+Collection particuliere de Breme.
+
+Voir la reproduction.
+
+## LORENZO DI CREDI
+
+Florence,1457-1537
+
+- 82 La Vierge avec l'Enfant.
+
+Visible jusqu'aux genoux et a demi tournee a gauche, la Madone, placee devant un arbre, tient des deux mains I'Enfant Jesus.
+
+Voir la reproduction.
+
+- 83 Mise au tombeau.
+
+Dans un sepulcre voute, Christ est etendu sur la civiere, eclaire par un porteur de torche, a gauche; a droite, Marie Madeleine est agenouillee a cote de lui. Sa mere et des apotres sont debout dans le fond.
+
+Toile.-Hauteur I29 cm,largeur 86 cm.
+
+## FRA DIAMANTE
+
+(attribuea)
+
+Prato, Spoleto et Rome,XVe siecle
+
+- 84 Madone avec l'Enfant.
+
+La Madone est debout; il y a un oiseau a cote de I'Enfant, qu'un ange soutient sur un coussin. Fond de paysage.
+
+Voir la reproduction.
+
+Bois.—Hauteur 59 cm,largeur 44 cm.
+
+## DOMENICO FETI
+
+Mantoue et Venise,1589-1624
+
+## FRANCESCO COSSA
+
+Ferrare, 1435(3)a 1477
+
+Bois.—Hauteur 54 cm,largeur 39 cm.
+
+Bois.-Hauteur 41,5 cm,largeur 36 cm.
+## FRA FILIPPO
+
+(attribuea)
+
+Florence,1406-1469
+
+- 85 La Vierge avec l'Enfant et deux anges.
+
+Tournee a droite, la Madone tient des deux mains lEnfant, qui s'approche d'elle pour
+
+I'embrasser. A droite, deux anges.
+
+Le tableau se rapproche de la maniere de Sandro Botticelli.
+
+Voir la reproduction.
+
+Bois.—Hauteur 52 cm, largeur 39 cm.
+
+## BERNARDINO FUNGAI
+
+Sienne,1460()1516
+
+- 86 Le Christ au puits avec la Samaritaine.
+
+Au centre, le Christ causant avec la Samaritaine; a gauche, le groupe des douze apotres; a droite une femme avec son enfant: A l'arriere-plan a droite, des hommes et des femmes sortant de la porte de la ville.
+
+## BENVENUTO GAROFALO
+
+Ferrare 1481-1559
+
+- 87 La Vierge avec l'Enfant.
+
+La Madone, en pied, est assise sur un trone de nuages et tient I'Enfant Jesus, qui est agenouille a sa droite.
+
+Bois.—Hauteur 57 cm, largeur 46 cm.
+
+## NICCOLO GIOLFINO
+
+Verone, de 1476 environ a 1555
+
+1. Caton se tue d'un coup de poignard. Son fils et ses amis cherchent a retenir sa main armee. En plein air, devant une colonnade.
+2. 88 Trois scenes de la vie de Caton le Jeune.
+2. Mort de Caton. Un medecin le soutient lorsqu'il s'affaisse. Des jeunes gens et des hommes, disperses dans la salle soutenue par des colonnes, s'abandonnent a leur douleur.
+4. encore une fois au camp, prenant conge de l'armee.
+3. Deuil autour de Caton mort. De nombreux personnages entourent en pleurant le Romain couche sur la civiere. Un peu plus en arriere a gauche, on le voit
+
+Les panneaux ont evidemment decore un 《cassone》. Werk uber die Renaissanceausstellung, Berlin 1899, p. 46.—Schubring, Cassoni, No. 698—700. Berenson, North Italian Painters, p.235.
+
+Collection E. Schweitzer, Berlin. (Vente, a Berlin 1918, N 28).
+
+Voir les reproductions.
+
+Trois panneaux sur bois.-Hauteur 18,5 cm, largeur 31 cm.
+
+Hauteur 136 cm, largeur 221 cm.
+- 89 La Sainte Famille.
+
+Visible jusqu'aux genoux, Marie est assise a gauche avec I'Enfant; a droite, Joseph.
+
+Paysage avec figures et constructions.
+
+Voir la reproduction.
+
+Bois.—Hauteur 52 cm, largeur 73 cm.
+
+## GIROLAMO DA SANTA CROCE
+
+Venise, 1480 ()a 1556
+
+- 90 Christ dans le parvis de l'Enfer.
+
+Au centre, le Christ avec banniere foule aux pieds Satan vaincu. Les rachetes, venant de gauche, se pressent pour sortir du portail du parvis de l'Enfer.
+
+Bois.—Hauteur 43 cm, largeur 58 cm,
+
+## BASTIANO MAINARDI
+
+(attribuea)
+
+S.Gimignano et Florence,1460-1530
+
+- 91 Naissance du Christ.
+
+Devant un vieux mur, la Madone est a genoux, a droite, vetue d'une robe rouge vif et d'un manteau bleu fonce; a sa gauche est assis Joseph; l'Enfant Jesus est couche sur le sol a ses pieds. A gauche, en dehors:le message de l'ange aux bergers; a droite, deux patres adorant. Des deux cotes du mur, perspective sur un fond de paysage.
+
+Voir la reproduction.
+
+- 92 La Passion du Christ.
+
+Six scenes en miniature sur parchemin, disposees deux a deux dans un encadrement du XIve siecle. Elles representent:
+
+La Sainte Cene.
+
+Le bapteme de Jesus.
+
+Jesus devant Pilate.
+
+La mise au tombeau.
+
+L'entree a Jerusalem.
+
+La Transfiguration.
+
+En haut, dans le pignon de lencadrement,le Christ en demi-figure,represente comme 'Homme de douleur.
+
+Bois.-Tondo dans un cadre riche et vieux.-Diametre du tableau I29 cm.
+
+## MAITRE ITALIEN
+
+Du Xllle siecle
+
+## GIROLAMO ROMANINO
+
+Brescia,1485(3)a 1566（3)
+
+Bois.— Hauteur 31 cm, largeur 17 cm.
+- 93 L'Adoration des Mages.
+
+Les trois mages, tournes a droite, sont a genoux devant la Madone tronant dans une salle; Joseph est debout a ses cotes. A gauche, la suite des mages. Paysage rocheux avec cavalcade a l'arriere-plan.
+
+Bois.-Hauteur 46 cm, largeur 33 cm, le haut en pignon.
+
+## MAITRE ITALIEN
+
+Du XIVe siecle
+
+- 94 La Vierge avec l'Enfant.
+
+En pied, assise sur un trone gothique, la Madone tient de la main droite l'Enfant Jesus vetu de jaune, et dans la gauche un fruit. Fond d'or.
+
+Bois.—Hauteur 99 cm, largeur 64 cm.
+
+Voir la reproduction.
+
+- 96 La Crucifixion.
+
+Les trois croix surgissent de la foule des soldats et des amis de Jesus. A droite au premier plan, les soldats qui jouent aux des. A gauche, le donateur et, a sa droite linscription suivante: Hic opus fecit fieri (la suite, illisible). Fond dor.
+
+Voir la reproduction.
+
+Bois. Hauteur 133 cm, largeur 63 cm. Dessus arrondi
+
+## MAITRE ITALIEN Vers 1380
+
+## MAITRE ITALIEN
+
+Vers1400
+
+- 95 Ecce homo, demi-figure. -Saint Antoine debout,en pied.
+
+Fond d'or avec bordure au maillet.
+
+Ce sont les deux panneaux d’un diptyque.
+
+Voir les reproductions.
+
+Bois.—Hauteur (de chacun) 26 cm, largeur 17 cm.
+
+## MAITRE DE L'ITALIE DU NORD Vers 1370
+- 98 Saint Francois.
+
+Tourne a moitie vers la droite, le saint recoit a genoux les stigmates. A droite en haut apparait le Crucifie, que le moine, qui accompagne saint Francois,regarde avec etonnement. Fond de paysage.
+
+Bois.-Hauteur 121 cm, largeur 53 cm.
+
+## MAITRE DE L'ITALIE DU NORD
+
+## Vers1480
+
+- 99 La Vierge avec l'Enfant.
+
+La Madone, visible a mi-corps, tient lEnfant sur son bras gauche et lui tend la main droite qu'il saisit de ses deux menottes. En haut, guirlande de fruits.
+
+La forme et la touche rappellent Carlo Crivelli.
+
+Voir la reproduction.
+
+## MAITRE DE L'ITALIE DU NORD Vers1440
+
+- 97 La Vierge avec l'Enfant.
+
+La Madone assise adore l'Enfant couche sur son sein. En haut, de chaque cote, deux anges planant. Fond d'or.
+
+Voir la reproduction.
+
+Bois.Hauteur 67 cm, largeur 40 cm.
+
+## MAITRE DE L'ITALIE DU NORD Vers1450
+
+Bois.—Hauteur 60 cm,largeur 42 cm.
+
+## MAITRE FLORENTIN Vers1360
+
+- 100 La Rencontre sous la porte d'or.
+
+Joachim et Anne se rencontrent devant la porte de la ville. Derriere Joachim, a droite, deux paysans; derriere Anne, des compagnes. Un aigle planant dans le haut unit le couple. Fond d'or.
+
+Voir la reproduction.
+
+Bois.—Hauteur 29 cm, largeur 34 cm,
+## MAITRE LOMBARD Vers 1490
+
+## 10I La Vierge avec l'Enfant.
+
+La Madone, visible jusquaux genoux, donne le sein a l'Enfant Jesus, couche sur un coussin pose sur ses genoux. Des deux cotes du rideau place derriere la Madone, vue lointaine sur le paysage.
+
+Bois.-Hauteur 86 cm,largeur 56 cm.
+
+## MAITRE LOMBARD
+
+Vers 1500
+
+- 102 L'Adoration des Mages.
+
+A droite,la Madone, assise, tnant sur ses genoux Enfant Jesus qui fait un gest de benediction. Devant, le plus vieux des Mages; a gauche en arriere de lui, les deux autres debout. A droite deriere la Madone, saint Joseph; a cote des trois Mages, leurs chevaux. Au fond, perspective sur le paysage.
+
+Bois. -Hauteur 158 cm, largeur 118 cm.
+
+## MAITRE LOMBARD Vers1520
+
+103 Sainte A nne avec Marie, l'Enfant Jesus et deux saints. —Panneau d'autel.
+
+Au centre, assises, sainte Anne et Marie avec l'Enfant Jesus; debout a cote du groupe central; a gauche saint Sebastien, a droite Pierre martyr,le couteau enfonce dans le crane. —Arondi en haut, avec coins dores.
+
+Voir la reproduction.
+
+Toile.-Marouflage de bois sur toile. Hauteur 167 cm, largeur 107 cm.
+
+## MAITRE DE SIENNE
+
+Du XIVe siecle
+
+- 104 Le Couronnement de la Vierge.
+
+Marie entouree d'une guirlande de cherubins; le Christ assis vis-a-vis d'elle lui met la couronne sur la tete. En bas, au milieu, quatre anges; a gauche, un saint eveque; a droite une sainte. Fond d'or.
+
+Voir la reproduction.
+
+Bois.—Hauteur 80 cm, largeur 56 cm.
+Voir la reproduction.
+
+Voir la reproduction.
+
+## MAITRE DE SIENNE Vers1440
+
+- 105 Huit panneaux representant des scenes de la vie des saints anachoretes.
+- Ia. Dans des rochers, un saint deja vieux, accompagne de moines et d'animaux. Trois scenes.
+- b. Devant des monasteres sur la montagne. Trois scenes de la vie d’un saint.
+- lla. Rochers avec eglise et monasteres. Quatre scenes de la vie de differents saints.
+- b. Rochers avec cavernes d'anachoretes et cabanes de moines. Quatre scenes de la vie de saints, et une scene de la vie d'un moine.
+- Illa. Contree montagneuse; un saint, un ange, un moine.
+- b. Dans des rochers, trois scenes de la vie d’un saint et d’un ermite,
+- IVa Sur le sommet d’un pic, un saint devant sa cabane, trois moines, trois anges.
+- b. Contree montagneuse avec riviere. Un saint et trois moines.
+
+Voir les reproductions.
+
+Bois.—Hauteur (de chacun) 34 cm, largeur (de chacun 44) cm.
+
+## MAITRE DE TOSCANE XIVe siecle
+
+- 106 La Vierge avec l'Enfant et quatre saints.
+
+La Madone trone au centre. Plus bas, des deux cotes, deux personnages: a gauche Jean-Baptiste et Saint-Francois, a droite Catherine et Marguerite. Fond d'or.
+
+Bois.—Hauteur 64 cm, largeur 40 cm. Arrondi en haut.
+
+## MAITRE DE TOSCANE
+
+## Vers 1420
+
+- 107 La Vierge avec l'Enfant et des saints.
+
+La Madone trone au centre. De cote, debout en grandeur reduite, a gauche saint Antoine, a droite saint Francois; sur le devant, assises, a gauche sainte Madeleine, a droite une sainte avec une bourse et un poignard dans les mains. Fond d'or.
+
+Bois.—Hauteur 92 cm, largeur 53 cm.Ogival.
+## MATTEO DI GIOVANNI
+
+(attribuea) Sienne, 1435(2) a 1495
+
+- 108 La Vierge avec l'Enfant et deux saints.
+
+La Madone a mi-corps au centre; derriere elle, a gauche, Jean-Baptiste; a droite, saint Jerome.
+
+Voir la reproduction.
+
+Bois.—Hauteur 59 cm, largeur 42 cm.
+
+NERI DI BICCI Florence,vers 1450
+
+- 109 L'Ange de l'Annonciation.
+
+Visible jusqu'aux genoux, lange, le lis dans la main droite, abaisse son regard vers la gauche. En haut, draperie de brocart d'or rouge.
+
+Bois.—Hauteur 42 cm, largeur 32 cm.
+
+## JACOPO PALMA VECCHIO
+
+(attribuea) Venise,1480(3) a 1528
+
+- 110 La Vierge avec l'Enfant et deux Saints.
+
+Au milieu, la Madone; a gauche, Pierre martyr; a droite, sainte Catherine. Demifigures les unes a cote des autres.
+
+Voir la reproduction.
+
+- d'une predelle.
+
+Bois.—Hauteur 37 cm,largeur 44 cm.
+
+## LUCA SIGNORELLI
+
+Cortona,1441()a 1523
+
+- I Marie montant au Temple. -Fiancailles de Marie.-Deux panneaux
+1. Marie monte lescalier, se dirigeant a droite vers le pretre qui l'attend avec deux acolytes. A gauche, Anne, Joachim et deux autres personnages. Paysage avec rochers et eau dans le fond.
+- I1.Au centre le pretre accomplit 'union de Marie et de Joseph. Foule pressee de spectateurs,a droite les femmes, a gauche les hommes.
+
+Voir les reproductions.
+
+Bois.—Hauteur (de chacun) 22 cm, largeur 46 cm.
+## JACOPO TINTORETTO
+
+(attribuea)
+
+Venise,1518-1594
+
+- I12 La Vierge avec l'Enfant et un procurateur.
+
+Visible jusqu'aux genoux, la Madone est assise a gauche, tenant dans son giron l'Enfant Jesus tourne vers le donateur agenouille a droite.
+
+Toile.—Hauteur I14 cm,largeur I09 cm.
+
+## ANTONIO CANALE Venise,16971768
+
+- 113 Vue du Grand Canal a Venise.
+
+Vue sur une partie du Grand Canal avec le pont du Rialto au fond. Nombreuses gondoles sur l'eau.
+
+Voir la reproduction.
+
+Toile.-Hauteur 60 cm, largeur 96 cm.
+
+## MAITRE ESPAGNOL
+
+## Vers 1440
+
+- 114 La Naissance de la Vierge.
+
+Saint-Anne au lit, sous une couverture rouge; a cote d'elle I'Enfant. Au premier plan, au pied du lit, Joachim assis decoupe une poule pour l'accouchee. Derriere le lit, deux servantes; au chevet du lit, deux anges.
+
+Toile.-Hauteur 72 cm,largeur 55 cm
+
+## MAITRE VENITIEN Vers 1700
+
+- I15 Judith avec la tete d'Holopherne.
+
+Judith, a mi-corps, tournee a gauche, s'appuyant a deux mains sur le pommeau de l'epee, abaisse ses regards sur la tete coupee d'Holopherne, posee sur un linge blanc.
+
+Toile.-Hauteur 108 cm,largeur 87 cm.
+## MAITRE VENITIEN
+
+Du XVIlle siecle
+
+I16 Vue de la Ville de Venise.
+
+Le Campo S. S. Giovanni et Paolo avec I'Ecole de St-Marc. Avec figures decoratives. Toile.-Hauteur 52,cm,largeur 68,5 cm.
+
+## SIMON VOUET
+
+(attribuea)
+
+Paris et Rome, 1590-1649
+
+- I17 La Sainte Famille en fuite.
+
+A gauche, Marie est assise avec I'Enfant sous un arbre. Joseph et deux anges cueillent des pommes et les apportent a Jesus. A droite, un grand ange avec Iane.
+
+Toile.-Hauteur 180 cm, largeur 233 cm.

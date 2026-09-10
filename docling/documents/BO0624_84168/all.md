@@ -1,0 +1,4456 @@
+## TABLEAUX MODERNES
+
+Dessins et Pastel Modernes
+<!-- image -->
+
+## DESSINS,PASTEL MODERNES
+
+## DELACROIX
+
+(EUGENE)
+
+Charenton,1798+Paris,1863.
+
+## Le Christ au Jardin des Oliviers.
+
+Sur un tertre vert, le Christ, agenouille, ou plutot affaisse dans une attitude accablee, est tourne vers la gauche, le corps de trois-quarts, la tete de profil,penchee sur la poitrine. ll porte une tunique blanche, laissant le cou et les avant-bras degages; son manteau rouge, tombe a terre, lui entoure le bas du corps. Au fond, un buisson vert sombre; et plus loin, le ciel, jaune avec des nuages noirs a gauche, et bleu a droite.
+
+Signe en bas, a gauche: Eug. Delacroix. Pastel.
+
+Haut.,25 cent.1/2;larg.,33 cent. 1/2.
+
+Collection Haro (vente a Paris, 2 et 3 avril 1897）,n 117.
+
+Exposition de leuvre dEugene Delacroix,a 1Ecole des Beaux-Arts(1885), n357.
+
+Ce pastel est une des recherches de Delacroix pour le Christ au jardin des Oliviers, peinture aujourd'hui a l'eglise Saint-Paul-Saint-Louis.Alfred Robaut mentionne cette etude,qu'il date de 1826,et la reproduit dans l'Euvre complet d'Eugene Delacroix (Paris,1885),n°177.
+## DELACROIX
+
+(EUGENE)
+
+2
+
+## La Femme et la fille
+
+## d'Abraham Ben-Chimol.
+
+La fille est vue de face,assise dans une chambre dont le sol est couvert d'un tapis. Elle porte un corsage bariole, dont les manches roses laissent passer celles de la chemise blanche, une robe verte a revers roses; elle a les pieds nus, dans des babouches rouges; ses cheveux bruns et denoues, tombant sur les épaules, sont coiffés d'une toque a fond vert, bordee d'un galon d'argent; elle a de lourdes pendeloques aux oreilles, et au cou, un collier de corail; les mains sont posees sur les genoux, la droite tenant un foulard bleu ciel.
+
+La mere est debout, derriere la chaise de sa fille, vers laquelle elle se penche. Elle est vetue de blanc; la tete coiffee d'une toque bleue, recouverte d'un voile jaune, croisant sur la gorge et rejete sur l'épaule.
+
+A droite,un petit banc, et plus loin,une table ou sont poses divers ustensiles; au-dessus, une petite niche dans le mur.A gauche, une etagere garnie de bibelots, et a terre, une couverture.
+
+Signe en bas, a gauche: Eug. Delacroix.
+
+Aquarelle.
+
+Exposition retrospective de Lyon (1877),n° 73.
+
+Cette aquarelle a fait partie d’un album, execute par Delacroix, au retour de son voyage au Maroc, en 1831, pendant la quarantaine  au lazaret de Toulon. L'album, ofert par l'artiste au Comte de Mornay, ambassadeur du roi Louis-Philippe aupres du sultan Muley Abd-Ehr-Rhaman, comprenait dix-huit aquarelles,rappelant les principaux episodes du voyage. Ces dix-huit aquarelles furent dispersees en vente publique, le 2g mars 1877; la Femme et la fille d'Abraham Ben-Chimol portait le n°1o et fut adjuge a M.Hecht. Voir: le Voyage d'Eugene Delacroix au Maroc, fac-simile de lalbum du Musee du Louvre,avec une introduction par Jean Guiffrey (Paris, 1gog）.M. J.Guiffrey a publie en appendice (p.185 et suiv.) les notes inedites de Ph. Burty, prises a l'occasion de la vente de lalbum Mornay.
+
+Haut.,22 cent.;larg.,16 cent.
+## ROUSSEAU
+
+(THEODORE)
+
+Paris,1812Barbizon,1867.
+
+3
+
+## Etude d'arbres.
+
+Une mare, au premier plan vers la droite, donne naissance a un ruisseau, qui s'en va vers le fond et passe au milieu d'un magnifique bouquet d’arbres, formant le sujet de l'étude.
+
+Signe en bas, a gauche : Th.R.
+
+Dessin au crayon noir rehausse de blanc.
+
+Haut., 219 millim.; larg., 143 millim.
+
+## ROUSSEAU
+
+(THEODORE)
+
+4
+
+## Ruisseau a la lisiere d’un bois.
+
+Au premier plan,un ruisseau, qui serpente vers un rideau d'arbres formant écran au milieu du tableau et au-dela duquel s'etend la plaine. Au loin, devant les arbres, un troupeau de vaches.
+
+Signe en bas, a gauche : Th. Rousseau.
+
+Dessin a la plume.
+
+Haut., 14 cent. 1/2; larg., 19 cent. 1/2.
+<!-- image -->
+
+## TABLEAUX MODERNES
+
+## CARRIERE
+
+(EUGENE)
+
+Gournay，1849+Paris,1g06.
+
+5
+
+## Portrait du peintre Valadon.
+
+Le visage et le haut du buste, vus de face. Les cheveux haut plantes sur un grand front, les sourcils fronces, les yeux profonds, regardant le spectateur,les moustaches legerement tombantes,il porte une chemise a col rabattu et un vetement noir.
+
+Fond brun.
+
+Signe en bas, a droite :Eugene Carriere.
+
+Toile.Haut.,40 cent.;larg.,32 cent,1/2.
+## CAZIN
+
+(JEAN-CHARLES)
+
+Samer,1841Lavandou,1g01.
+
+6
+
+## La Cote aux enoirons d'Equihen.
+
+Entre des champs couverts d'une herbe maigre, un chemin encaisse devale vers la mer, qui setend au fond du tableau. A gauche, au-dela d'une barriere cloturant un champ, quelques maisons grises sont groupees pres d'un calvaire; l'une d'elles a un toit de tuiles rouges. Sur le chemin, une barque noire. Le ciel occupe les deux tiers de la composition:il est couvert, a gauche, de nuages bleuatres, sous lesquels glisse une nappe de soleil pale; a droite, des nuages dores.
+
+Signe en bas, a gauche : J. C. Cazin.
+
+Toile.Haut.,73 cent.;larg,5g cent.1/2.
+## DELACROIX
+
+(EUGENE)
+
+Charenton,1798Paris,1863.
+
+## L'Enfant Jesus.
+
+(Copie fragmentaire de la Belle Jardinieze de Raphael.)
+
+Copie de la partie inferieure gauche du tableau de Raphael,la Belle Jardiniere,au Musee du Louvre:l'Enfant nu, devant la robe bleue de sa mere,vue au-dessous des genoux.
+
+Toile. Haut.,6o cent. 1/2;larg.,5o cent.
+
+Vente de 1'atelier Eugene Delacroix (Paris,17-27 fevrier 1864）,n 152;le cachet de cire dela vente est au revers du cadre.
+
+Vente Sourigues（Paris,28 février 1881),n23.
+
+Vente Haro (Paris,3o-31 mai 1892),n78et pl., p.58.
+
+Exposition de l'euvre d'Eugene Delacroix, a 1'Ecole des beaux-arts (1885),n° 98.
+
+A.Robaut, qui reproduit et catalogue cette peinture, dans l'Euvre complet d'Eugene Delacroix （Paris,1885,n 24),la date de 1819;c'est une des copies et etudes faites par l'artiste en vue de son tableau la Vierge des moissons (ibid.,no 25).
+## COROT
+
+(CAMILLE)
+
+Paris,1796Ville-d’Avray，1875.
+
+8
+
+## Souvenir d'Italie.
+
+Au-dela d'un bouquet d'arbres touffus,qui s'eleve au second plan et occupe la droite du tableau, on decouvre, a gauche, une vaste échappee de paysage, ferme de molles ondulations, avec un lac au lointain et une ville sur une hauteur. Au premier plan, dans la prairie,
+
+Ciel leger, avec de petits nuages blancs; vers la droite, la lueur doree du soleil couchant.
+
+deux paysannes et un enfant, gardant des vaches.
+
+Signe en bas, a droite : Corot.
+
+Toile.Haut.,23 cent.1/2;larg.,31 cent.1/2.
+## FROMENTIN
+
+(EUGENE)
+
+La Rochelle,182o La Rochelle,1876.
+
+9
+
+## La Fantasia.
+
+A gauche, deux cheiks a cheval, entoures d'Arabes en burnous blancs, pres d'un etendard a bandes rouges et bleues qui flotte au vent,
+
+Vers la droite,un groupe de cavaliers fait face a l'escorte des cheiks.
+
+assistent a la fantasia que leur donnent des cavaliers, arrivant au galop du fond du tableau. L'un d'eux, au milieu, coiffe d'un turban, montrant a nu sa poitrine bronzee, et portant des culottes rouges, retenues par une ceinture blanche, arrete a demi sa monture et se retourne pour saluer les cheiks de son fusil qu'il tient de la main droite. Plus a droite, trois cavaliers galopent a toute allure : lun, en culottes jaunes, monté sur un cheval blanc, et un autre, en burnous bleu, montant un cheval bai, s'appretent a lacher leur coup de fusil, tandis que le troisieme, derriere eux, brandit son arme au-dessus de sa tete.
+
+Au premier plan,a gauche, deux chiens.
+
+doree que soulevent les cavaliers.
+
+Ciel bleu, voile, de place en place, par les tourbillons de poussiere
+
+Signe en bas, a droite :Eug. Fromentin, 55.
+
+<!-- image -->
+
+Toile. Haut., 51 cent.,; larg., 95 cent. 1/2.
+## INGRES
+
+(JEAN-AUGUSTE-DOMINIQUE)
+
+Montauban,178o+Paris,1867.
+
+10
+
+## Tete de femme romaine.
+
+(Etude d'apres nature pour la figure de l'lliade, de l'Apotheose d'Homete.)
+
+La tete et le cou, avec la naissance des epaules. Elle est vue presque de face, les regards diriges vers la gauche, la bouche entrouverte, les cheveux noirs partages par une raie. Fond brun.
+
+<!-- image -->
+
+Toile.Haut.,35 cent.; larg., 22 cent.
+
+Vente de 1'atelier Ingres (Paris, 6-7 mai 1867), n° 14. Collection Haro(vente a Paris,2-3 avril 18g7),n° 165.
+
+Cette etude d'apres nature aurait éte utilisee par Ingres pour la figure de l'Iliade, assise a gauche, au bas du trone d'Homere,dans lApotheose d'Homere, du Musee du Louvre, executee en 1827.
+## LUCAS
+
+(EUGENIO)
+
+1813+Madrid,1870.
+
+11
+
+## Le Taureau echappe.
+
+Dans la rue qui conduit a la porte d'un village, un taureau s'est échappe. Deux femmes, dont l'une tenait un petit enfant a demi nu, n'ont pu eviter la course furieuse de la bete et ont roule a terre. Voyant le danger, un homme, coiffe d'un feutre brun, vetu d'une culotte jaunatre et d'un gilet bleu sur une chemise blanche, s'est precipité au-devant de l'animal et lui presente une cape rouge, sur laquelle il fonce aussitot. Un peu en arriere, un autre villageois se prepare a
+
+Ce groupe occupe le premier plan, a gauche. Sur le cote gauche de la rue, qui s'en va vers le fond du tableau, divers personnages conversent, indifferents a la scene. A droite, au contraire, des gamins effrayes grimpent sur le piedestal d'une haute croix; et d'un groupe ou lon a suivi avec emotion les phases de l'accident,un homme se detache assaillir le taureau avec une pique.
+
+pour courir au secours des femmes renversees.
+
+Toile.Haut., 62 cent.1/2;larg.,83 cent.
+
+<!-- image -->
+## PUVIS DE CHAVANNES
+
+(PIERRE)
+
+Lyon,1824Paris,18g8.
+
+12
+
+## La Famille du pecheur.
+
+Sur le bord de la mer,une jeune femme, assise a gauche et tournee vers la droite, drapee dans une tunique blanche qui laisse la poitrine a demi decouverte, son manteau vert pale tombe derriere elle et ramene sur ses genoux, tient de la main gauche, par une lisiere d'etoffe rose, un bebe nu, assis a ses pieds et jouant avec des galets. Derriere elle, un homme nu, debout, tourne vers la gauche, suspend des filets a un arbre.
+
+La jeune femme a les regards diriges vers son pere, vieillard a la barbe et aux cheveux blancs, enveloppe dans un manteau violet, couche a droite dans une barque brisee, et endormi, les mains croisees sur la poitrine.
+
+A gauche, au second plan, la cabane des pecheurs. Au fond, 1etendue verte de la mer, sous un ciel couvert de nuages blancs, laissant voir l'azur par places.
+
+Signe en bas, a gauche: P. Puvis de Chavannes, 1887.
+
+Toile. Haut., 82 cent.;larg.,7o cent.
+
+Acheté al'artiste par M.Durand-Ruel,le 2 mars 1888.
+
+Le grand tableau (H.2m6o: L.2m18), representant le meme sujet, a éte acquis, en igoi,par le Musee de Dresde.
+
+Reproduit par Marius Vachon,Puvis de Chavannes, p.51 (Paris, 1896).
+## ROUSSEAU
+
+(THEODORE)
+
+Paris,1812Barbizon,1867.
+
+13
+
+## Paysage; effet de soleil couchant.
+
+Une paysanne, un fichu rouge autour du cou, est assise a contrejour, vue de dos,au premier plan,a droite,au pied d'un gros arbre qui etend ses basses branches d'un bord a l'autre du tableau. Plus loin, a gauche, une autre femme debout. Sous un ciel couvert de nuages noirs, entre lesquels glissent les lueurs du soleil couchant, la plaine assombrie s'étale jusqu'a l'horizon, ou brille l'eau d'une riviere.
+
+Signe en bas, a gauche : Th. Rousseau.
+
+Bois.Haut.,21 cent.1/2;larg.,26cent.
+
+<!-- image -->
+
+<!-- image -->
+## TABLEAUX ANCIENS
+
+Dessins, Pastels Anciens
+<!-- image -->
+
+## DESSINS,PASTELS ANCIENS
+
+## BERJON
+
+(ANTOINE)
+
+Lyon,1754+Lyon,1843.
+
+14
+
+## Portrait d'un conventionnel.
+
+En buste, le corps de trois-quarts a droite, et le visage, maigre et glabre, tourne du meme cote, en profl perdu. Les cheveux bruns et tombants sont retenus par derriere, au moyen d'un nceud de ruban noir. ll porte un frac de couleur tabac d'Espagne, a collet retrousse, ouvert sur une haute cravate de lingerie nouee sous le menton.
+
+A l'oreille, une petite boucle de metal. Fond gris brun.
+
+Dessin de forme ovale, au lavis d'encre de Chine rehausse d'aquarelle.
+
+<!-- image -->
+## BERJON
+
+(ANTOINE)
+
+15
+
+## Portrait d'enfant.
+
+On le voit de face, en buste, sa robe rose ouverte sur la poitrine. Il a les yeux gris bleu et la frimousse rose.
+
+Fond bleu pale.
+
+Sur le fond, a droite, on lit: Age de 26 mois.
+
+Dessin de forme ovale, aux crayons de couleur.
+
+Haut., 20o millim.; larg., 147 millim.
+## BOISSIEU
+
+(JEAN-JACQUES DE) Lyon,1736+Lyon,1810.
+
+16
+
+## Vue de Florence.
+
+Au premier plan, l'Arno, avec une barque chargee de voyageurs et de marchandises a gauche,et deux grands bancs de sable a droite. Plus loin,le ponte delle Grazie, vu de face, et dont chaque pile est surmontee d'une échoppe. Le fleuve fait un coude sur la gauche, montrant l'amphitheatre des maisons de la rive opposee, dominees par les hauteurs verdoyantes de San Miniato.A l'arriere-plan,la porte fortifiée de San Niccolo.Fond de collines.
+
+On lit, en bas,a l'encre, sur le lit du fleuve: Vue du pont delle Grazie a Florence, prise de la galerie du Grand duc, au-dessus del Ponte Vecchio; et plus a droite:D B f.1765 (le dernier chiffre est coupé;le D et le B,en monogramme).
+
+Dessin au lavis d’encre de Chine, rehausse de bleu.
+
+Haut.,174 millim.;larg.,245 millim.
+
+La date de 1765 est certifiee par 1'Hommage rendu a la memoire de M. JeanJacques de Boissieu,par M.de Chazelle Lyon,81o,p.9),ou 1on voit que lartiste fut emmene, cette annee-la,en Italie,par le duc de La Rochefoucauld.
+## BOUCHER
+
+(FRANCOIS)
+
+Paris,1703+Paris,1770.
+
+17
+
+## Chinoiserie.
+
+Une jeune femme costumee en Chinoise, debout,le pied gauche pose sur un tabouret, les regards abaisses, fait jouer un chat couche a terre, avec un fouet qu'elle tient de la main droite. Elle est appuyée de la main gauche au dossier d'une chaise, sur laquelle grimpent deux petits Chinois,le second tenant un écran.
+
+A gauche, au fond, sur un banc, une jardiniere evasee.
+
+Dessin a la sanguine.
+
+signe: Saderlet.
+
+<!-- image -->
+
+Haut.,256 millim.;larg.,182 millim.
+
+Grave par Aveline le jeune, sous le titre:le Merite de tout pais,avec un quatrain
+## COYPEL
+
+CHARLES-ANTOINE)
+
+Paris,16g4+Paris,1752.
+
+18
+
+## Portrait de jeune femme costumee
+
+## en 《 Nuit 》.
+
+Elle est vue en buste,le corps a peine tourne vers la droite, son visage spirituel et souriant vu de face, ses grands yeux bruns regardant le spectateur. La plume piquee sur le front dans ses cheveux tires et poudres, la gaze qui tombe de sa coiffure derriere la tete et vient flotter sur l'épaule gauche, le ruban noue sous le menton, le corsage decollete en carre et borde d'une ruche blanche, tous les details de son costume sont de la meme nuance delicate — une sorte de brun clair et legerement vineux, — et tous pareillement semes d'étoiles d'or pale. Peutetre est-ce la le portrait d'une actrice personnifiant la Nuit.
+
+Fond bleu.
+
+Pastel.
+
+<!-- image -->
+
+Haut.,51 cent.1/2;larg.,40 cent.
+## DUMONSTIER
+
+(DANIEL)
+
+Paris,1574Paris,1646.
+
+19
+
+## Portrait d'Anne d'Autriche.
+
+En buste, tournee de trois-quarts vers la gauche, les yeux regar- dant en face, elle a de petits noeuds de rubans vert pale dans ses cheveux frises et porte au cou un collier de perles. Le corsage, échancre en pointe, est orne, sur le devant, d'une αrose 》 de ruban de meme couleur que les nceuds de la chevelure;il est a manches bouillonnees et a collet monte,borde de festons.
+
+En haut et vers la droite, sur le fond,on lit,a la sanguine, de la main de D. Dumonstier:ce 20 de janvier 1622.
+
+Dessin au crayon noir et a la sanguine, rehausse d’un peu de
+
+Haut.,44 cent.;larg.,34 cent.
+
+Exposition de portraits peints et dessines du xille au xvie siecle a la Bibliotheque nationale (igo7）,n 3g6 du catalogue, sous le nom de D.Dumonstier,et avec cette indication que la date manuscrite est de la main de l'artiste.
+
+crayon vert.
+
+<!-- image -->
+## GUERIN
+
+(PIERRE-NARCISSE,Baron)
+
+Paris, 1774+Rome,1833.
+
+20
+
+## Portrait de la femme et du fils de l'artiste.
+
+La jeune femme, coiffee a la grecque et vetue d'un peplum leger, a la mode du Directoire, est assise sur une chaise a dossier recourbe, le corps de profil et le visage de trois-quarts tournes vers la droite,les yeux regardant en face. Elle a les jambes ramenees tout contre la chaise et tient de la main gauche son enfant, qui, debout devant elle et penche sur ses genoux, la tete calinement appuyee sur la main droite de sa mere, regarde en souriant le spectateur.
+
+Dessin au crayon noir, avec rehauts de craie.
+
+Haut., 225 millim.; larg., 157 millim.
+
+D'apres une note manuscrite au revers du cadre,ce dessin,representant Mme Guerin et son fls, aurait éte donne par l'auteur a son eleve Victor Orsel (1795-i85o).
+
+<!-- image -->
+Cadre en bois sculpte.
+
+## LEONI
+
+(Le Chevalier OTTAVIO,dit LE PADUANINO)
+
+Rome,1578+Rome,163o.
+
+21
+
+## Portrait de femme.
+
+En buste, presque de face,les regards diriges vers la gauche,elle porte un corsage d'etoffe rayee, échancre en pointe et ouvert aux manches; par-dessus le col on a esquisse, a la craie, une collerette de dentelle.La chevelure, haute et decouvrant le front, est frisee au-dessus du front et des tempes.
+
+Dessin au crayon noir, rehausse de blanc.
+
+Haut.,212 millim.;larg.,144 millim.
+
+<!-- image -->
+## LIOTARD
+
+(Attribue a JEAN-ETIENNE)
+
+Geneve,1702 + Geneve,178g.
+
+22
+
+## Un groupe de villageois.
+
+A gauche, sur le devant, une femme, en buste, tournee de profl vers la droite, coiffee d'un bonnet de foulard bleu a rayures et fleurs rouges, de la pointe duquel deux pompons, retenus par une chainette de soie, tombent sur un fichu rose, raye noir, qui couvre les epaules. Derriere elle,a gauche, la tete d'un homme, coiffe d'un bonnet noir,et une autre tete plus loin.
+
+bleu, le visage et les regards tournes vers la droite. Au-dessus d'elle, une jeune fille, un voile blanc sur la tete, tenant un éventail jaune a feurettes ouvert devant sa poitrine. Trois autres tetes, a droite, a demi
+
+Vers la droite, au premier plan, la tete et le buste d’une fillette en cachees par I'eventail.
+
+Fond gris.
+
+Pastel.
+
+<!-- image -->
+pour une gravure 》.
+
+## NANTEUIL
+
+(ROBERT)
+
+Reims,1623+Paris,1678.
+
+23
+
+## Portrait d'homme.
+
+Il est represente en buste, tourne de trois-quarts vers la droite,les yeux regardant le spectateur. Son visage au nez lourd, a la moustache mince, sur une bouche aux levres epaisses, est encadre d'une longue perruque brune, tombant sur les epaules. Le pourpoint court, de couleur brun jaunatre, a les manches ouvertes sur une chemise blanche,
+
+Le buste apparait dans un encadrement dessine, de forme ovale. Dessin aux crayons de couleur.
+
+visible egalement sur la poitrine, au-dessous d’un rabat de dentelles.
+
+Haut.,33 cent.;larg.,27 cent.
+
+Exposition de portraits peints et dessines du xe au xvine siecle a la Bibliotheque nationale (1go7）),n397, avec 1'attribution a R.Nanteuil et lindication :α preparation
+
+<!-- image -->
+variees.
+
+## TIEPOLO
+
+(GIOVANNI-DOMENICO)
+
+Venise,1726Venise,1795.
+
+DEUX PENDANTS
+
+24
+
+## Jeux d'amours.
+
+Dans les nuages, une rangee d'amours, serres les uns contre les autres, de la droite a la gauche du tableau,voltigent, en des attitudes
+
+Dessin au lavis de bistre, sur trait de plume.
+
+Signe en bas, a droite : Domo Tiepolo.
+
+Haut., 183 millim.,; larg., 243 millim.
+
+24 bis
+
+## Jeux d'amours.
+
+Au milieu des nuages, un amour vole, en brandissant une torche, entoure par quatre autres amours; un sixieme, en haut et a droite de
+
+Signe en bas, a droite: Dom Tiepolo f. Dessin au lavis de bistre, sur trait de plume.
+
+la composition, dans l'ombre.
+
+Haut., 181 millim.,; larg.,242 millim.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+## ECOLES PRIMITIVES
+
+## ET DE LA RENAISSANCE
+
+## Ecole Allemande
+
+## CRANACH LE JEUNE
+
+(LUCAS)
+
+Wittenberg,1515+Wittenberg,1586.
+
+25
+
+## Jesus enfant portant sa croix.
+
+Il est debout, le corps nu, de face; la tete ronde, aux cheveux blonds, legerement tournee de trois-quarts vers la droite; les regards diriges de ce cote. Son manteau rouge, dont les manches s'arretent au coude, flotte derriere lui, decouvrant tout le devant du corps. De ses deux mains, il tient la croix sur son épaule gauche.
+
+Fond sombre.
+
+Nimbe rayonnant et dore, orne de feurs de lis.
+
+Haut 25.,cent.;larg., 16 cent.
+
+Au revers du cadre, sur deux lamelles de bois rapportes,on voit,en lettres noires sur fond d'or, les traces d'une inscription en vieil allemand: MENAcH· sicH· zUM. MICH·WAs·ICH · GELITEN · HANN · UMB DICH ·, et une date a demi efacee, peut-etre 1552;ce qui se traduit litteralement:Homme, regarde vers moi, ce que j'ai souffert pour toi.
+
+<!-- image -->
+## ECOLE ALLEMANDE
+
+Fin du xv* siecle.
+
+26
+
+## Portrait de femme.
+
+Elle est vue en buste, de face, le visage tourne de trois-quarts vers la gauche, les yeux regardant de ce cote. Son front est serre dans une mousseline transparente,nouee au bas de la nuque, et dont un pan vient tomber sur l'épaule gauche; par-dessus ce serre-tete, elle est coiffee d'un haut bonnet rigide, arrondi,en mousseline entierement garnie de broderies d'or, et cerne d'un galon perle. Au cou, en sautoir, un galon de soie rouge tressee d'or, et deux chainettes d'or, formant epaulettes et retenant le corsage. Ce corsage d'etoffe sombre, que lace au milieu un fil d'or passe dans des agrafes d'or cisele, est ouvert sur une guimpe blanche, bordee d'un galon de soie rouge tressee d'or. Les deux mains sont croisees sur la poitrine; de la droite, ornee d'une bague a lindex, elle tient un eillet panache. Fond sombre, seme de muguets, d'heliotropes et de myosotis.
+
+Bois. Haut., 33 cent.;larg., 24 cent.
+
+Collection Spitzer (vente a Paris, 16 juin 1893) no 3335.
+
+<!-- image -->
+## HOLBEIN
+
+(Ecole de xvisiecle.
+
+27
+
+## Portrait d'homme.
+
+Represente a mi-corps, tourne de trois-quarts vers la droite et regardant de ce cote, il porte un bonnet vert a retroussis, cachant presque completement ses cheveux chatains, coupes droit sur le front et qui tombent sur la nuque en recouvrant les oreilles. Par l'ouverture du large col de fourrure de son manteau, on distingue le haut d'une chemise plissee et d'un pourpoint de damas. Les deux mains, ramenees sur le devant du corps, sont appuyees l'une sur l'autre a la hauteur de la ceinture;la droite tient un pli qui porte un monogramme, la gauche est ornee d'une bague d'orfevrerie.
+
+Bois, de forme cintree dans la partie superieure Haut.,28 cent.; larg,2o cent.
+
+Collection du Baron de Beurnonville (vente a Paris, 9-16 mai 1881),no 324.
+
+<!-- image -->
+## Ecole Espagnole
+
+## BORASSA
+
+(LLUIS)
+
+Barcelone,vers142o.
+
+## 28
+
+## La Nativite de la Vierge.
+
+Dans un lit a chassis de bois rouge, couvert d'une etoffe de damas vert et surmonte d'un baldaquin de bois jaune, a dentelures blanches et rouges, sainte Anne est assise, tournee de trois-quarts vers la droite. Elle a la tete couverte d'un voile blanc et serree dans une guimpe de meme couleur. Sur sa robe de brocart a ceinture rouge, elle porte un manteau mauve, a revers d'un rouge orange, et elle tient dans ses bras la Vierge emmaillotee.
+
+Une jeune femme, debout a gauche, lui presente, d'une main,une coupe de verre, et agite, de l'autre main,un petit écran vert fonce, borde de rouge; elle est vetue, sur une robe blanche, d'une sorte de dalmatique en drap d'or,a larges emmanchures;et ses cheveux blonds, coiffes en cornes et formant bourrelets sur les tempes, sont serres dans un voile pourpre, qui lui descend en deux longues bandes jusqu'a mi-corps.
+
+De l'autre cote du lit, se tiennent trois autres femmes: lune,au fond, portant un linge; une seconde, tout a fait a droite, tenant une aiguiere; une troisieme, au milieu et plus pres du lit. Celle-ci est paree d'une houppelande de brocart rouge et or, qu'une ceinture serre a la taille et dont les manches évasees, bordees de fourrure, s'arretent audessus du coude, laissant voir celles de la robe noire; sur la tete, est jete
+
+Au-dessus du baldaquin, on voit le plafond rouge de la chambre. Les nimbes sont dores et graves. La composition est encadree, a droite et a gauche, par deux colonnettes torses, en relief, soutenant une arcature a crochets, egalement en relief, qui couronne le tableau.
+
+un voile blanc; le cou est enveloppe dans une guimpe de meme couleur.
+
+Bois.Haut.,79 cent.;larg.,57 cent. 1/2.
+
+<!-- image -->
+## Ecole Francaise
+
+## CORNEILLE DE LYON
+
+(CLAUDE CORNEILLE,dit)
+
+La Haye,vers 15001574.
+
+29
+
+## Portrait d’ une jeune femme.
+
+Elle est vue a mi-corps, a peine tournee de trois-quarts vers la gauche, les regards diriges a droite. Le visage mignon est tres legerement rose; les yeux sont bleu vert. Les cheveux, tires et partages par une raie, sont coiffes d'un chaperon blanc, borde d'un galon d'or et soutenu par deux cercles d'orfevrerie, qui se reunissent sur l'oreille. Le corsage brun, dont le decollete est borde d'une broderie d'or, s'arrete a l'épaule pour laisser voir des manches blanches tres bouffantes;a partir du coude, ces manches sont resserrees dans une etoffe brune rayee, a creves; elles se terminent sur le poignet par un petit bouffant blanc, orne d'une ruche a bordure noire. Les mains, ramenees sur le devant, sont croisees et a demi visibles au bas du cadre.
+
+Un carcan d’or et de perles lui barre la poitrine, d’une epaule a l'autre. Une chaine d'or, passant derriere le cou, retient le corsage de chaque cote de la poitrine.
+
+Bois. Haut., 20 cent.; larg, 16 cent. 1/2.
+
+Exposition des Primitifs francais(Paris, 1go4）,n° 163. Exposition retrospective des artistes lyonnais (Lyon, 1go4), n°41. Reproduit dans le Catalogue illustre de l'Exposition retrospective des artistes
+
+<!-- image -->
+lyonnais,par Eugene Vial (Lyon, 1go4),pl., P. 41; et dans G.Lafenestre, 'Exposition des Primitifs francais (Paris,1go4),p.107.
+
+Le catalogue de l'Exposition des Primitifs francais (n° 63), ajoutait, a la description du portrait, qu'il date αvers i548,les lignes suivantes:
+
+αLa jeune dame ne nous est pas connue, mais la qualite de la peinture indique la main de Corneille de La Haye, dit de Lyon. Ce portrait figurait certainement dans la celebre u Chambre aux peintures que Corneille avait formee dans cette ville avec les portraits des dames et seigneurs de la cour de France, venus a Lyon en 1548. La dame, d'apres certains indices,pourrait etre la fameuse marquise de Rothelin,nee de RohanGye, l'une des plus belles de ces temps. Elle n'est pas sans rapports non plus avec Francoise de Longwy-Givry, femme de l'amiral Chabot,mais a cette epoque, celle-ci etaitveuve》.
+
+Cite par G.Lafenestre,l'Exposition des Primitifs francais,op.cit.,p.1o6.
+## ECOLE D'AVIGNON
+
+xivsiecle.
+
+30
+
+## Tableau de piete a deux registres.
+
+- 1.En haut :le Calvaire.— Sur un tertre,le Christ en croix,le corps penche en avant, le visage incline sur l'épaule droite, les yeux clos, a la Vierge a sa gauche et saint Jean a sa droite. La Vierge est entierement drapee dans un manteau bleu vert, tres sombre, sous lequel elle joint les mains et les eleve vers le Crucifie qu'elle contemple. Saint Jean, en manteau rose sur une tunique verte, medite tristement, la tete appuyee sur la main droite. Le sang coule des plaies du Christ et jaillit de son flanc perce.
+
+Fond d'or grave; nimbes dores et graves.
+
+- 2.En bas:le Christ jardinier.—Dans un jardin plante de petits arbres, Marie-Madeleine, agenouillee a gauche,un manteau rose jeté sur sa robe rouge vif, fait un geste d'adoration, en levant les yeux vers Jesus qui lui apparait a droite, debout, en tunique verte a rayures d'or et manteau blanc, seme de fleurs, tenant de la main gauche une banniere rouge a croix blanche.
+
+Fond d'or grave; nimbes dores et graves.
+
+Bois prepare au platre. Haut., 3o cent. 1/2; larg., 20 cent.
+
+Exposition des Primitifs francais (Paris, 1go4),n 7, avec cette designation: Ecole de Provence,13go",et cette note:
+
+u Cette piece, peinte sur panneau a la facon des peintres-selliers du xive siecle, avec fond d'or sur platre, est de lécole avignonnaise. La partie peinte a ete rapportée sur un ais de reliure du xvre siecle,encore decore de rinceaux dans la facon de Grollier. La croix du Christ est d'influence parisienne, mais le manteau seme de feurettes est plus italien .
+
+Cite par le comte Paul Durrieu, la Peinture a l'Exposition des Primitifs francais
+
+(Paris, 1904）,p.26,note 1.
+
+<!-- image -->
+## ECOLE FRANCAISE
+
+VersI400.
+
+31
+
+## Tableau de piete a deux registres.
+
+- 1.En haut :la Vierge sur son trone, entre un saint personnage et un benedictin.—La Vierge, entierement drapee dans un manteau bleu a semis de points d'or,ramene sur la tete coiffee d'une couronne, est assise sur un trone et tient l'Enfant assis sur ses genoux. La main gauche sur l'epaule de son fils, elle fait, de l'autre main, un geste de protection vers un donateur, agenouille a gauche, en habit de benedictin, la tete recouverte de la coule. A droite,le saint patron du donateur,en longue robe rose, debout pres du trone, les mains jointes et le visage comme tendu vers I'Enfant, qui le regarde en faisant un geste analogue a celui de sa mere,lui recommande son client.
+
+Sur le sol, un tapis vert, seme de feurettes rouges.
+
+- 2.En bas : Trois saints personnages.—Tous trois sont debout; celui du milieu est vu de face, les deux autres tournes de trois-quarts vers lui. ll porte une dalmatique rose et tient dans ses mains une ville fortifiee.A droite,une sainte,en robe grise, la tete entouree d'un voile noir et d'une guimpe blanche, tient un livre d'ou monte la tige d'une feur. A gauche, saint Louis de Toulouse, en chape bleue, semee de fleurs de lis d'or, la mitre en tete et la crosse en main.
+
+Fond d'or grave; broderies et ornements dores.
+
+Sur le devant, un lion devorant une biche.
+
+Bois, de forme cintree dans la partie superieure. Haut.,29 cent.1/2;larg.,20 cent.1/2.
+
+Exposition des Primitifs francais (Paris,I9o4),n 23.
+
+Le catalogue de lExposition des Primitifs donne cette peinture a lEcole de Provence, avec la date:α vers 14oo ;et il ajoute:
+
+α Cette piece restauree rappelle certains manuscrits executes pour le chancelier de l'Empereur par des artistes meridionaux, et que M. Max Dvorak a signales dans son livre: die Illuminatoren.
+
+<!-- image -->
+## ECOLE FRANCAISE
+
+Vers1480.
+
+32
+
+## Le Songe du grand echanson.
+
+Dans une prison, au dallage en damier gris et blanc, eclairee au
+
+Il est tourne de trois-quarts vers la gauche et ecoute le recit que lui fait de son reve le grand échanson, debout devant lui. Celui-ci porte un chaperon vert, des chausses jaunes et une cotte rouge, a col et revers gris, serree a la taille, et dont la manche droite, fendue, laisse voir celle du pourpoint, de brocart rouge et or; il tient une aiguiere d'argent de la main droite, et de la gauche fait un geste accompagnant son recit.
+
+fond par une etroite fenetre grillee,donnant sur une poterne,Joseph est assis, a droite, sur son lit couvert d'une etoffe verte, devant une petite table ronde, sur la nappe de laquelle on voit du pain,un gobelet,un couteau,un fruit, etc. Il est represente sous les traits et dans le costume d'un jeune prince francais du xve siecle. ll a ses longs cheveux chatain clair, coiffes d'un chaperon rouge vif, et porte une hucque de velours grenat et des chausses de meme couleur; ses chevilles sont passees dans deux anneaux de fer relies a une chaine qu'il tient de la main droite.
+
+Assis au fond, devant la table, entre les deux personnages precedents,le grand panetier, en manteau et chaperon bruns, le regarde et l'ecoute egalement.
+
+petits tableaux, a droite, sur le mur, au-dessus du lit.
+
+Les songes des deux officiers du Pharaon sont figures par deux
+
+<!-- image -->
+
+A gauche, par une porte ouverte, on apercoit deux autres prison- niers dont les chevilles sont passees dans une cangue.
+
+Bois. Haut.,31 cent.;larg.,24 cent.1/2.
+
+Exposition des Primitifs francais (Paris, 1go4）,n 8g du catalogue,ou la peinture est donnee a 1ecole de Picardie,avec la date de 148o,et cette indication que  la scene
+est dans le style de certains manuscrits d'Amiens conserves a la Bibliotheque de I'Arsenal".
+
+Les Songes des offciers du Pharaon forment le chapitre XL de la Genese.
+
+Le grand panetier et le grand echanson, emprisonnes par ordre du Pharaon, se trouverent dans la prison ou etait deja Joseph. Une nuit, ils eurent chacun un songe, ou il y avait trois provins,qui pousserent des boutons, des eurs,puis des raisins,t qu'ayant presse ces raisins dans la coupe du Pharaon,il donnait a boire au roi. Ce que Joseph expliqua par la rentree en grace de l'echanson, au bout de trois jours.
+
+Le grand panetier raconta,a son tour, qu'il portait sur la tete trois corbeilles de farine,et que les oiseaux du ciel venaient manger dans celle qui se trouvait au-dessus des deux autres. Ce que Joseph interpreta comme signifiant que le panetier serait mis a mort au bout de trois jours, attache a une croix et dechire par les oiseaux.
+
+Le fait que le sujet de cette peinture ne se trouve traite dans aucun autre ouvrage contemporain,le soin de la composition et la precision des details ont amene M.L. Maeterlinck, conservateur du Musee des beaux-arts de Gand, a se demander si le tableau n'avait pas une intention secrete et si l'on ne devait pas y voir une allusion a la captivite d'un jeune prince. Il a expose cette hypothese dans un article intitule: Un a Petit maitre flamand inconnu, du xve siecle,publie dans la revue les Arts anciens en Flandre (1go6-igo7,P. 48-52, avec pl.). Le jeune seigneur, qui a les jambes entravees, devant qui sont les reliefs d'un repas assez plantureux et dont la chambre a des fenetres grillees,ne serait-il pas le duc d'Orleans, le futur Louis XII, alors prisonnier a Bourges, a la suite de la Guerre Folle? L'age et le type du Joseph, écrit M. Maeterlinck, correspondent parfaitement a l'esprit que devait avoir alors le vaincu de Saint-Aubin-du-Cormier, avant qu'il devint gouverneur de la Normandie et qu'il accedat au trone de France en 1498. La section des Manuscrits de la Bibliotheque nationale possede. de nombreuses miniatures representant Louis XII apres son couronnement, et toutes offrent les plus grandes analogies avec le jeune prisonnier du tableau..., en tenant compte toutefois de la difference d'age qui doit exister entre le roi de France et le duc d'Orleans.
+
+Une copie presque identique de cette peinture, de dimensions semblables,mais ou les couleurs des vetements des personnages different sensiblement et ou le dessin est plus mou et beaucoup moins expressif, se trouve dans la collection du baron de Bissing,aMunich;elle a éte étudiee par M.Hermann Nasse (Sur un tableau ancien de la collection du Baron de Bissing,a Munich), dans la Revue archeologique,giI, t.II,p.297-3oo,avec fg.,P.2g8.
+## ECOLE FRANCAISE
+
+Vers1530.
+
+33
+
+## Portrait d'homme.
+
+Il est vu en buste, tourne de trois-quarts vers la droite, ses grands yeux regardant le spectateur. Son visage est encadre de cheveux bruns, dont les meches lui tombent sur le front et le long des joues. Il est coiffe d'un bonnet rouge et porte un manteau noir, garni de larges bandes d'hermine, laissant voir la chemise blanche par une echancrure du col.
+
+Fond sombre.
+
+<!-- image -->
+
+Bois.Haut.,32 cent.;larg.,22 cent. 1/2.
+
+Exposition des Primitifs francais （Paris,19o4）,n° 142 du catalogue,ou il est attribue a un auteur inconnu, travaillant vers 153o,et decrit comme le portrait d'un seigneur francais de la cour de Francois Ier .
+## MALOUEL
+
+(JEAN)
+
+Dijon (2)+ vers 1412.
+
+34
+
+## La Vierge et l'Enfant.
+
+Entierement drapee dans un manteau bleu,— d'un bleu riche et profond d'émail,qui lui enveloppe la tete,laissant a peine voir le bord de ses cheveux blonds, la Vierge, le corps de face et le visage penche de trois-quarts vers la gauche, serre entre ses bras croises et retient de ses longues mains le corps nu de son Enfant, qu'elle contemple avec tendresse. Celui-ci, les cheveux frises, les yeux tournes vers le spectateur, appuie l'index de sa main gauche sur sa petite bouche entr'ouverte.
+
+Fond d'or grave; nimbes graves. La robe de la Vierge est brodee d'or aux manches; le manteau porte une étoile d'or sur l'épaule gauche et une autre au-dessus du front.
+
+Bois prepare au platre. Haut., 21 cent.; larg., 15 cent.
+
+Cadre en bois sculpte, du temps de la Renaissance.
+
+Exposition retrospective de Lyon,1877. Exposition des Primitifs francais (Paris,19o4),n 13.
+
+Reproduit dans: G.Lafenestre,l'Exposition des Primitifs francais,dans la Gazette des Beaux-Arts, 1go4,t.I, p.465, et p.33 du tirage a part;—et dans le Cte Paul Durrieu,la Peinture a lExposition des Primitifs francais (Paris,1go4),p.23.
+
+α Ce tres delicat petit panneau est d'un artiste tout pres de Jean Malouel, travaillant a Dijon chez le duc de Bourgogne,en 13g8. a Vierge, avec son nez effile, ses
+
+Malouel et conservee au Musee du Louvre. La matiere de ce tableau est d’une saveur
+
+<!-- image -->
+picturale toute particuliere;les ors des fonds, tres delicatement traites, trahissent les influences des peintres parisiens.Le corps de lEnfant est de toute beaute,et son minois Eveille, tres different de celui qu'on est habitue a retrouver a ces époques.(Catalogue de l'Exposition des Primitifsfrancais,Paris 1go4.)
+
+α On attribue aussi a Malouel une adorable Vierge (coll. Ed. Aynard) coiffee d'une capeline ombre qui lui retombe surl front,serrant danssesbras,desesdeuxlongu et blanches mains, un petit Jesus, tres potele cette fois, qui pose son doigt sur ses levres. C'est bien la finesse des traits,la vivacite profonde des regards noirs,le delicat modele des chairs ci-dessus admires [dans la Pieta du Louvre et dans celle du Musee de Troyes],avec plus de souplesse et de relief. Euvre posterieure sans doute au tondo de la Pieta [du Louvre],et techniquement superieure.(G. Lafenestre,l'Exposition des Primitifs francais,dans la Gazette des Beaux-Arts,1go4,t.I,p.464,et p.34 du tirage apart.)
+
+α Il le lecteur] trouvera dans la Madone de la collection Aynard, d'un sentiment si intense,qui fait de ses mains et de ses bras croises, dans un geste si maternel et si expressif,a la fois un balcon et un dossier au petit Enfant Jesus, une individualite et un charme surprenants, - et en meme temps il sera amene a evoquer tel souvenir,ici giottesque ou siennois, la famand ou bolonais, et limpression proprement francaise, a mesure qu'elle se degagera plus saisissable, ne sera peut-etre qu'une certaine mesure et un certain charme d'honnete et raisonnable prudence dans l'emploi de motifs dont l'invention n'est pas proprement ou exclusivement francaise. (Andre Michel, article sur l'Exposition desPrimitifsfrancais,dans leJournal des Debats du 26 avril 1904.)
+
+En face du Ruisdael et du Rembrandt, dans la collection Aynard,α sourit le tableautin delicieux, qui fut envoye a l'Exposition des Primitifs francais par son president: la Vierge qu'un des peintres attaches, vers l'an 14oo, a l'hotel du duc de Berry ou du duc de Bourgogne, a peinte avec son Enfant, blanche comme lait dans un manteau d'émail bleu .(Emile Bertaux,au debut d'un article sur Trois chefs-d'euvre italiens de la collection Aynard, dans la Revue de lArt ancien et moderne, t.XIx, I906,P.82.)
+## Ecoles d'Italie
+
+## ANGELICO
+
+(GIOVANNI DA FIESOLE,dit FRA)
+
+Vicchio,1387+Rome,1455.
+
+35
+
+## La Vierge et l'Enfant entoures d'anges et de saints.
+
+Dans une prairie semee de feurettes, la Vierge, vue de face,le visage penche sur lépaule droite et les yeux baisses, est assise sur un trone, surmonte d'un dais a damiers rouges et or, qui se detache sur un fond de verdure; elle a la tete couverte d'un voile de gaze blanche,et porte une robe rose, échancree au col, et un manteau bleu qui lui tombe des épaules et dont un pan, ramene sur les genoux, laisse voir les revers de couleur verte. L'Enfant a demi-nu, qu'elle tient dans ses bras, se retourne pour benir un chanoine en aube rouge et surplis blanc,une écharpe d'hermine rejetee sur lépaule, agenouille a gauche, au bas du trone, les mains jointes.
+
+Ce donateur est presente par son patron, saint Pierre, debout derriere lui, en tunique bleue et manteau jaune, tenant une clef dans sa main gauche et designant de la droite son client a l'EnfantDieu. Derriere le visage de saint Pierre, a la barbe et aux cheveux grisonnants, on apercoit la tete chauve et barbue de saint Paul, les mains jointes, tourne vers la Mere et l'Enfant. A droite, saint Georges, coiffe d'un heaume dont la visiere est levee, le corps couvert d'une
+
+<!-- image -->
+armure complete sur laquelle est passee une cotte rose, s'appuie de la main droite sur la hampe rouge de son gonfalon blanc a croix rouge, et tient de la gauche son epee devant lui, dans son fourreau rouge et or.
+
+Nimbes dores et graves, de meme que les ornements du dais.
+
+A l'arriere-plan, deux anges sont debout de chaque cote du trone : deux en bleu, de profil, tenant les pans de l'étoffe d'or du dais, et deux en rouge, de face,les mains jointes.
+
+Bois, de forme octogonale.Haut.,29 cent.1/2;larg., 2g cent. 1/2.
+
+Le fond de feuillage et de feurs est a rapprocher du fond similaire sur lequel se detachent les Elus dans le Jugement dernier du meme maitre a l'Academie des Beaux-
+
+Arts a Florence(no266).
+
+Vente du Baron de Triqueti (Paris, 4 mai 1886), n 1,et pl., p. 1.
+
+Cite par B. Berenson, the Florentine painters of the Renaissance (3rd ed., 1g12), p.107.
+## ANGELICO
+
+(Attribuea GIOVANNI DA FIESOLE,dit FRA)
+
+36
+
+## Predication de saint Pierre.
+
+Sur une place publique, le saint est vu a mi-corps, debout dans une chaire et prechant, les bras étendus; il porte une robe bleu ciel, sur laquelle croise un manteau rose et son visage, a la barbe et aux cheveux blonds, se detache sur l'aureole d'or qui l'entoure.
+
+Le groupe du milieu, vers la droite, est celui des femmes; elles sont sept, assises a terre. Parmi les costumes barioles et les coiffures compliquees, tranchent les vetements blancs de la femme assise au premier plan, et le manteau noir dans laquelle une autre est entierement drapee. Tout a fait a droite, une femme est debout, vue de dos, ses cheveux blonds coiffes d'une toque rouge et tombant en une longue tresse sur son ample manteau rose; pres d'elle, se tient un personnage
+
+Au premier plan, treize personnes lécoutent, debout, a genoux ou assises, la plupart en costumes italiens du xve siecle. On remarque, en particulier, un docteur, en long manteau rouge et bonnet rouge a mentonniere, debout a gauche, des rouleaux de papier a la main; derriere lui,un homme en robe bleue, la tete penchee sur un livre et coiffee d'un chaperon retombant, d'un bleu plus clair que la robe. Un peu plus a droite, un saint, vetu d'une tunique bleu sombre et d'un manteau rose,vu de profil,note par écrit la prédication de saint Pierre.
+
+en tunique bleue et chausses rouges.
+
+Au fond de la place, a gauche, l'atrium d'une eglise; puis une maison rouge, derriere saint Pierre; un palais a terrasse, a l'angle d'une rue; enfin, un autre palais a droite.
+
+Bois. Haut.,33 cent.;larg.,52 cent.
+
+Replique du temps, sinon de la main du maitre, du premier des trois tableaux qui forment la predelle de la celebre Madone des Linajuoli, par Fra Angelico, au Musee des Offices de Florence.
+
+Collection du Baron de Beurnonville (Vente a Paris, 21-22 mai 1883), no 127.
+
+<!-- image -->
+## BICCI
+
+(NERIDI) Florence,1419+1491.
+
+## Vierge en adoration
+
+## (fragment d’une Natioite).
+
+A mi-corps, tournee de trois-quarts vers la gauche, elle a les yeux baisses et les mains jointes. Ses cheveux blonds sont recouverts d'un voile transparent qui descend jusque sur la poitrine. Sa robe rouge est ornee au col, aux poignets, sur les épaules et le haut des bras, d'un large galon d'or, et son manteau bleu sombre, a revers jaunes, egalement borde d'or. Derriere elle, a droite, une construction avec arcade ouvrant sur un jardin; a gauche, au-dela de la cloture de l'etable,
+
+Nimbe dore et grave.
+
+la campagne en perspective.
+
+Bois.Haut.,3o cent. 1/2;larg.,23 cent.
+
+Collection Leclanche (vente a Paris, 23-25 mai 18g2), n° 40.
+
+<!-- image -->
+## BOTTICELLI
+
+(Attribuea SANDRO FILIPEPI,dit)
+
+Florence,vers 1445+Florence,151o.
+
+38
+
+## Le Calvaire.
+
+Sur sa croix, qui s'eleve du premier plan, entre des blocs de pierre, jusqu'au sommet du tableau, un Christ aux yeux clos et a la bouche ouverte,le fanc perce, la tete, aux longs cheveux, couronnee d'epines, domine toute la composition.
+
+Couchee a terre, a gauche, au pied de la croix qu'elle tient embrassee, la Madeleine, vetue d'une tunique bleue et d'un manteau rouge vif, les pieds nus,regarde avec angoisse un ange, tout de blanc vetu, qui, debout a droite, brandit d'une main une baguette et va patte de derriere.
+
+Tout le premier plan est une prairie sombre. Au fond, a gauche, sous un ciel clair d'ou tombent des ecussons blancs a croix rouges,une ville entouree de remparts s'étend jusqu'a I'horizon ferme de collines : c'est Florence, avec ses toits roses, son Campanile, son Dome et son Palais de la Seigneurie. A droite, le ciel est obscurci de fumees blanches et violatres, qui montent comme des nuages et s'avancent jusqu'au-dessus de la ville. Au milieu de ces nuages, apparaissent ca et la des demons, qui lancent vers la terre des torches enflammees; lun d'eux porte tout un faisceau de ces torches. Et deja, derriere l'ange, s'allume I'incendie.
+
+Tout a fait en haut et a gauche, on apercoit Dieu le pere, assis dans sa gloire et tenant un livre ouvert debout sur son genou.
+
+Toile.Haut.,73 cent.;larg.,51 cent.
+
+Collection Emile Peyre.
+
+<!-- image -->
+Cette peinture est reproduite et longuement etudiee par Herbert P. Horne, dans son ouvrage sur Botticelli (Alessandro Filipepi, commonly called Sandro Botticelli, painter of Florence.London,go8,p.3o1-3o2,et pl.,p.3o3):Une autre peinture de cette periode [la derniere periode de la carriere de Botticelli] est concue dans le meme sentiment mystique et imaginatif ; et quoique beaucoup de ses symboles soient obscurs et que son allusion precise ne soit pas entierement saisie, il ne peut y avoir le moindre doute sur la tendance de sa signification. Comme la mystique Nativite de la National Gallery,elle a pour theme le grand echo de l'enseignement de Savonarole,tel qu'il a ete resume par Simone Filipepi dans le passage du debut de sa chronique ou il ditque le frereJerome prechait acomme un propheteet comme un envoye de Dieu,predisant le feau qui sabattrait sur toute l'Italie et exhortant chacun a la repentance . Dans sa manifestation exterieure, cette peinture rappelle quelque chose de ces visions,ou immaginazioni,comme les appelait Savonarole luimeme,que le moine decrit dans son fameux sermon sur la renovation de l'Eglise et dans le Compendio delle rivelazioni. Quoique l'execution de cette peinture puisse a peine etre attribuee a la propre main de Botticelli, 1oute la conception de l'oeuvre appartient si etroitement a son caractere, que la composition doit a coup sur lui etre donnee; d'ailleurs, elle revele d'une maniere si frappante laspect moral de la pensee et du sentiment de Sandro a cette periode de sa vie, que je ne puis m'empecher de la discuter ici . Apres avoir rappele les dimensions de la peinture de la collection Aynard, le critique anglais,en donne la description et l'explication suivantes:
+
+Plantee dans un roc sur un tertre vert,au premier plan de la peinture, s'leve la croix, sur laquelle pend le Christ crucife.Au pied,etreignant l'arbre de la croix,est etendue la figure couchee de la Madeleine,placee ici sans doute comme le symbole de lame humaine penitente. A droite de la croix, est debout un ange tenant une baguette de la main droite,et de la gauche une sorte d'animal,par une de ses pattes,lequel doit vulas,que demoliuntur vineas.A la partie superieure du tableau, sur la gauche,est une petite figure de Dieu le Pere,assis dans une gloire e seraphins,et tenant un livre ouvert. Dans le ciel,on voit des ecussons,blasonnes d'une croix, tomber du ciel, comme si le Tout Puissant les faisait pleuvoir sur la terre. Ces ecussons, de la meme forme que ceux que portent les Dominations, dans le dessin de Botticelli representant la hierarchie angelique, pour l'illustration du chant XxVlI du Paradis, tombent en travers du tableau, de gauche a droite,vers une barriere de nuages terribles, au milieu desquels paraissent des diables qui lancent sur la terre des torches enfammees. Comme les torches tombent sur la terre,elles embrasent tout dans un incendie general, que l'on voit gagner vers les murs de Florence, representee au loin,a gauche de la toile.Le motif rappelle lavertissement souvent repete de Savonarole :O Florentia, propter peccata tua,advenient tibi adversa.A droite de lange,la famme est vomie de la terre, comme si elle sortait d'une bouche de lenfer. Le Dome et le Campanile de la cathedrale, le Baptistere, Or San Michele et le Palais Vieux, avec plusieurs autres eglises et monuments publics,peuvent etre reconnus dans la vue deFlorence,entouree de ses murailles. Les ecussons blasonnes de la croix, qui tombent du ciel, sont appa-
+remment des symboles du courroux de Dieu qui ordonne aux esprits diaboliques de jeter leurs torches enfammees sur la terre,et rappellent la vision decrite par Savonarole dans le Compendio delle rivelazioni, de la α croix de la colere de Dieu  que l'on voit soudain α troubler le firmament et chasser les nuages a travers le ciel, et dominer les vents,les eclairs et le tonnerre,et pleuvoir de la grele, du feu et des pees,et tuer une grande multitude d'hommes, si bien qu'il n'en restera guere sur la terre .
+
+M. Horne termine par un examen de l'etat de la peinture et par une comparaison des personnages qui y sont representes avec ceux d'autres ceuvres de Botticelli.
+
+La peinture est egalement donnee a cet artiste par M. Langton Douglas, dans son édition de J.A. Crowe et G.B. Cavalcaselle,a History of painting in Italy (London, 1g11),t.IV,P.271.
+## BOTTICELLI
+
+(Attribuea SANDRO FILIPEPI,dit)
+
+39
+
+## La Vierge a la grenade.
+
+Assise et vue a mi-corps, deface, son visage triste et pale,aux yeux rougis, tourne de trois-quarts vers la droite et legerement incline,la Vierge porte, sur une tunique rouge groseille, un manteau d'un bleu presque noir, a collet et revers verts, borde d'or. Sur ses cheveux blonds, sont jetes deux voiles:l'un, de mousseline blanche,lui encadre le visage, et l'autre, de tissu rouge,retenu au dessus du front par un bijou d'or, tombe sur les epaules et croise sur la poitrine a la facon d'une echarpe.
+
+L'Enfant nu, couche sur les genoux de la Vierge et blotti dans les plis de son manteau,a la main gauche posee sur une grenade entrouverte que tient sa mere,et fait de la main droite un geste de benediction.
+
+Derriere le groupe, a gauche, un édifice d'un gris rose, avec une porte en retour d'angle, donnant sur un jardin; a droite, une fuite de paysage verdoyant et dore de soleil sous le ciel bleu et, au loin, le clocher d'une eglise.
+
+Les nimbes sont dores et piques de points d'or.
+
+Bois,de forme cintree dans la partie superieure. Haut.,go cent.;larg.,58 cent.
+
+La composition est inspiree du motif central du celebre tondo de Boiticelli, la Madone a la grenade,au Musee des Offices de Florence.
+
+<!-- image -->
+## BOTTICELLI
+
+(Ecole de SANDRO FILIPEPI,dit)
+
+Ecole forentine, xv siecle.
+
+40
+
+## La Vierge et l'Enfant, sous une loggia.
+
+Vue a mi-corps, debout, le corps de face et le visage de trois-quarts, la Vierge penche la tete vers son Enfant, debout a gauche sur une tablette, et quelle attire a elle, en le soutenant des deux mains. Elle a les yeux baisses, et son visage pensif est encadre par ses cheveux blonds qui lui tombent sur les epaules. Un long manteau vert sombre la drape tout entiere, couvrant meme la chevelure; il est borde d'un galon d'or et porte une etoile d'or brodee sur l'épaule gauche; l'échancrure laisse voir une tunique rouge, decolletee et serree a la taille, toute brodee d'arabesques d'or.
+
+L'Enfant, entierement nu, se blottit contre l'épaule de sa mere qu'il tient calinement embrassee.
+
+A droite et au fond, les murs d'une loggia de marbre rose, ornee de pilastres; a gauche, une ouverture donnant sur la campagne, ou lon apercoit un chateau entoure d'eau.
+
+Nimbes dores et piques de points d'or.
+
+Bois. Haut.,66 cent.; larg., 55 cent.
+
+<!-- image -->
+## CARIANI
+
+(GIOVANNI BUSI,dit IL)
+
+Fulpiano, vers 148o + Bergame (2) 1541.
+
+41
+
+## Portrait d'homme.
+
+Il est represente en buste, tourne de trois-quarts vers la gauche, les regards diriges de ce cote. Ses cheveux blonds, tombant de chaque cote du visage maigre, aux yeux gris bleu, au nez court et fort, sont coiffes d'une toque brune. Par l'ouverture d'un manteau brun, on voit un justaucorps de meme couleur, orne de fourrure sur le devant, et largement decollete pour laisser passer la chemise blanche, bordee, autour du cou, d'un rang de petites perles.
+
+Fond de paysage montagneux sous un ciel sombre, avec quelques petits personnages, et au loin, a gauche, une échappee sur un lac ou un cours d'eau.
+
+Bois.Haut.,53 cent.1/2;larg.,43 cent.1/2.
+
+Collection Frederick Richards Leyland (vente a Londres, 28 mai 18g2), n 85.
+
+<!-- image -->
+## CAVALLINI
+
+(Attribuea PIETRO)
+
+Rome (2)vers 1284vers 1364.
+
+42
+
+## Partie centrale d’un retable,
+
+## presentant cing compartiments:
+
+- 1.Dans la partie triangulaire qui forme le sommet:le Jugement dernier. ——Le Christ en robe rose, parait dans sa gloire, entre deux anges portant les instruments de la Passion, tandis qu'au-dessous de lui deux autres anges sonnent de la trompette; les bras etendus, il prononce les paroles de paix et celles de condamnation, que deux anges portent sur des phylacteres. L'un de ces anges se tient en bas, a gauche, avec la Vierge,pres d'un jardin feuri,figurant le Paradis,ou les elus remercient Dieu; a droite, deux anges chassent les reprouves, que des demons entrainent en enfer; au milieu, deux tombes ouvertes.
+2. A droite, scene du haut : le Calvaire. —Au milieu du tableau, le Christ est dresse sur la croix, que Marie-Madeleine, en manteau rouge, a genoux, tient embrassee. A gauche,la Vierge, abimee de douleur, soutenue par saint Jean et par une sainte femme, s'avance une épee et un bouclier. A droite,un Pharisien, en robe jaune et chape verte,insulte le Crucifie; pres de lui, un disciple du Christ, le visage nimbe, se detourne en joignant les mains; enfin, un groupe de soldats, dont l'un porte un bouclier rouge avec l'inscription s p Q R. A l'arriereplan, quatre cavaliers en armures, deux de chaque cote de la croix.
+- 3.A droite, scene du bas:la Nativite.— Au fond, sous le toit d'une etable ou deux anges viennent l'adorer, l'Enfant est couche dans la creche, derriere laquelle on apercoit le boeuf et I'ane.Devant l'etable,
+la Vierge, enveloppee dans son manteau, est etendue sur un tapis rouge. Au premier plan, sont les deux sages-femmes de la tradition,Zelemi et Salome : la premiere, assise a terre, va baigner IEnfant dans un bassin, tandis que l'autre, agenouillee, sapprete a l'essuyer avec un linge rouge.A droite,un peu a lecart, saint Joseph,assis a terre, la tete appuyee sur la main droite. Dans les angles inferieurs, des moutons.
+
+- 4.A gauche, scene du haut : la Vierge et l'Enfant entre deux saints. La Vierge, en manteau sombre, est assise dans une chaire drapee d'une riche etoffe a damiers rouges et noirs, et a broderies d'or; elle porte sur ses genoux l'Enfant Jesus, vetu d'une robe rouge, et tient en chape rouge, la mitre en tete; a droite, saint Pierre Martyr, portant I'habit noir et blanc de lordre des Dominicains et tenant un livre rouge et une palme.
+- 5.A gauche, scene du bas :la Lecon de saint Dominique. — Au centre, saint Dominique est assis sur une estrade, devant un pupitre ou lon voit un livre ouvert. ll commente la doctrine, devant son auditoire, assis au premier plan, sur des banquettes, et compose de laics et de religieux de tous les ordres, dont l'un tient un phylactere. A droite et a gauche, deux saints sont debout. Un docteur en robe rouge vif est etendu sur le sol, au pied de l'estrade.
+
+Dans tous les tableaux, les nimbes sont dores et graves; le fond est dore et orne d'ornements graves.
+
+Bois, de forme triangulaire dans la partie superieure.
+
+Haut.,66 cent.;larg.,47 cent.1/2.
+## COMPAGNO DI PESELLINO
+
+Ecole florentine,xv siecle.
+
+## La Vierge et l'Enfant, devant une niche de marbre.
+
+La Vierge est vue a mi-corps, debout, de trois-quarts tournee vers la droite, les yeux baisses, la tete legerement inclinee sur lépaule; ses cheveux ondules et rejetes derriere l'oreille sont en partie couverts par un voile transparent, de mousseline blanche,qui tombe sur les epaules et vient croiser sur le devant du corsage. Elle porte une robe rouge, froncee a la taille et ornee d'un galon d'or au decollete et aux poignets; un ample manteau bleu pale,a larges emmanchures et borde d'un galon d'or, l'enveloppe presque entierement; une etoile d'or est brodee sur lepaule droite.
+
+De ses deux longues mains, elle soutient devant elle l'Enfant, que lon voit de face, entierement nu, debout a droite sur une tablette et regardant le spectateur.
+
+Derriere le groupe, une niche de marbres de couleur, ornee d'une coquille a sa partie superieure.
+
+Nimbes dores et graves.
+
+Bois.Haut.,64 cent.1/2;larg.,45 cent.1/2.
+
+Voir, sur Compagno di Pesellino, deux articles de Mrs. Mary Logan dans la Gazette des beaux-arts, juillet et octobre 1go1.
+
+<!-- image -->
+## ECOLE FLORENTINE
+
+Secondemoitie du xv·siecle.
+
+44
+
+## La Vierge,avec l' Enfant
+
+## et saint Jean-Baptiste,entoures d'anges.
+
+Debout, entre deux anges, l'un en robe verte et manteau rouge, lautre tenant une branche de lys a la main, et portant une robe grenat et un manteau jaune, la Vierge est vue de face, au milieu de la composition. Vetue d'une robe rouge et drapee dans un ample manteau bleu fonce, a broderies d'or et revers de couleur verte, le visage enveloppe d'une gaze transparente, elle joint les mains, en abaissant les regards vers l'Enfant, a demi couche devant elle sur le bord d'un bassin de marbre rose. Un ange debout, a gauche, en robe jaune d'or, laissant voir les manches d'une tunique mauve, soutient le corps nu et potele de l'Enfant divin.A droite,un autre ange, un manteau rouge jete sur sa robe vert fonce et sa tunique a manches jaune paille, guide vers lEnfant le petit saint Jean,qui s'approche,joignant les mains et portant sur son épaule une croix de roseau.
+
+Sur le devant, a l'interieur du bassin, une plante pousse son feuillage vert tendre et ses fleurs blanches a petales roses. Fond de campagne, avec, a gauche, une ville au pied de collines boisees; ciel bleu.
+
+Nimbes dores.
+
+Bois; tondo. Diam.,79 cent. 1/2.
+
+<!-- image -->
+## ECOLE DE L'ITALIE DU NORD
+
+Commencement du xv·siecle.
+
+45
+
+## La Natioite.
+
+Sous le toit de l'etable, au fond de laquelle on apercoit le boeuf et l'ane couches dans une anfractuosite de rocher, l'Enfant nu est étendu a terre sur un lange borde de rouge, et la Vierge, debout a gauche, fait un geste de la main vers lui. Elle est drapee dans un long manteau bleu ciel, borde d'or, dont le revers, de couleur verte et pique de points d'or, se replie autour du cou comme un collet, laissant voir un peu de la robe rouge. A droite, saint Joseph est assis a terre, la tete appuyee sur sa main droite; il porte une tunique bleue et un manteau
+
+A l'arriere-plan,a droite, derriere le rocher, deux bergers, vus a mi-corps, en robes de bure,et dont l'un a la tete recouverte d'un capuchon, se designent du doigt l'etable. Plus loin, vers le fond, sur une montagne,un autre berger, pres de son troupeau, leve les yeux au ciel ou un ange annonce la naissance de l'Enfant-Dieu.
+
+rose a revers jaunes, se relevant derriere la tete, en forme de capuchon.
+
+Les nimbes sont dores et graves; du corps de l'Enfant, émanent des rayons d'or; fond d'or dans le ciel.
+
+Le tableau est encadre de quatre colonnettes torses, deux a droite et deux a gauche, supportant une arcature ogivale, ornee de crochets. Sur le fronton qui surmonte cette arcature, sont peints, de chaque cote, sur un fond d'or, deux anges portant des encensoirs, et au-dessus, a gauche,la Vierge, et a droite, saint Jean,tous deux debout, de part et d'autre d'un Christ en croix. Le bas du cadre porte sur une tablette les premiers mots de l'Ave Maria.
+
+Bois. Hauteur totale, 1 m. 1o /2;hauteur du tableau seul, sans le fronton, go cent.;
+
+largeur,y compris les colonnettes,5g cent.
+
+<!-- image -->
+## ECOLE OMBRIENNE
+
+xv· siecle.
+
+## 46
+
+## Le Christ mort adore par des anges.
+
+Le Christ est vu de face,jusqu'aux genoux, assis sur le rebord du tombeau, figure par une cuve rectangulaire de pierre grise, ornee, sur sa face anterieure,de trois panneaux tres simplement moulures. Il est nu, les reins ceints d'un linge blanc. Les yeux mi-clos, les bras croises
+
+Deux anges sont agenouilles de part et d'autre du Christ : celui de gauche, vu de profil, vetu d'une robe rouge grenat avec des ailes vertes, contemple avec effroi le visage sanglant et joint les mains en un geste de priere; celui de droite, vu de face, porte une robe verte et des ailes rouges, il a les mains croisees sur la poitrine et son visage exprime la sur la poitrine, il incline sur l'epaule gauche sa tete a la barbe et aux longs cheveux chatains. De la couronne d'epines, le sang ruisselle sur le front et les epaules;il coule aussi de la blessure du flanc droit et des plaies des deux mains.
+
+tristesse et la ferveur.'
+
+Fond d’or. Le nimbe crucifere du Christ est grave.
+
+Dans le ciel, deux autres anges apparaissent a mi-corps, penches vers le divin Crucifie; celui de gauche se tient la tete entre les mains.
+
+Bois.Haut.,1 m.35;larg.,66 cent.
+
+Cette peinture peut etre attribuee a Saturnino Gatti, dont on rencontre des ceuvres a Aquila, dans les Abruzzes.
+
+<!-- image -->
+## ECOLE DE VERONE
+
+xv· siecle.
+
+## 47 Allegorie a un mariage.
+
+A droite,un petit char rouge et or, traine par deux colombes,et derriere lequel se tient un genie souflant dans une double trompette, est venu se poser sur la mer, au bord d'un quai a dallage en damier noir et blanc, que borde, a gauche,la perspective d'un palais a double rangee d'arcades. Une jeune f femme, que l'on voit de face,sur le devant de la composition, est descendue de ce char; vetue dune tunique jaune d'or, retroussee et bouffante au-dessous de la taille, e qui laisse passer aux coudes les manches vertes a reflets d'or d'un corsage, elle a les cheveux finement boucles et coiffes d'une sorte de corno; ses pieds nus sont chausses de sandales. De la main gauche, elle tient par le bras un petit amour nu, son arc en bandouliere et ses feches dans sa menotte, qui marche a cote d'elle; et, les yeux baisses, elle met son autre main dans celle d'un jeune seigneur, en armure damasquinee d'or, qui s'est avance pour la recevoir.
+
+Tous deux sont escortes de pages elegants, également en armures. A gauche et vers la droite, sur le quai de marbre, des cavaliers aux somptueux costumes et aux montures richement harnachees forment deux groupes; les uns portent des lances, les autres des gonfalons, d'autres sonnent de la trompette. D'une loggia du palais, deux femmes se penchent pour contempler la scene. Au premier plan,un jeune dieu, couronne en tete,un manteau rouge fottant autour de son corps nu, et un petit amour, lun debout, lautre a cheval sur un dauphin,assistent a la reception de la jeune epouse.
+
+Le palais parait etre inspire,avec la liberte la plus fantaisiste, du palais ducal de Venise, et le quai, de la Piazzetta; on voit, au fond, les deux colonnes portant, a leur sommet,les statues de saint Georges et de saint Marc, et au-dela de ces colonnes, la mer avec une ile ou s'éleve une eglise qui rappelle, par sa situation, Saint-Georges Majeur; au loin, a gauche, des galeres.
+
+<!-- image -->
+## ECOLE VENITIENNE
+
+xvsiecle.
+
+48
+
+## Devant de ( cassone 》 a trois compartiments.
+
+De gauche a droite :
+
+1.Sur un pont, au premier plan du tableau, un cavalier, le casque en tete et le cimeterre en main, fait cabrer son cheval vers la droite, cherche a lui barrer le passage. Derriere le guerrier, un second combat tant, portant une lance. A gauche,derriere le cavalier, deux autres personnages. Au-dela du pont, vaste etendue d'eau, bordee de collines verdoyantes; au fond, a gauche, un chateau.
+
+2.Un Musulman, coiffe d'un turban pointu, son pourpoint rouge barre par une écharpe blanche qui fotte derriere lui,s'elance vers la gauche, poursuivant, au galop de son cheval, une femme qui s'enfuit. Fond sombre et boise, avec une ville a l'arriere-plan.
+
+3.Sur le bord d'un bras de mer ou un navire,a droite, vient de lever I'ancre, trois personnages sont debout. Le premier,a gauche,est un homme de guerre, tenant d'une main sa lance et de lautre son bouclier; il porte une casaque fauve, laissant voir les manches bouffantes de son pourpoint, et des chausses blanches; une dague est passee dans sa ceinture. Les deux autres sont des seigneurs en riches costumes rouges; l'un montre du doigt le ciel, tandis que l'autre designe de la main le navire qui s'eloigne. Perspective de campagne sombre et accidentee, bordant le bras de mer jusqu'a l'horizon.
+
+Bois.Haut.,48 cent.;larg.,I m.8o.
+
+<!-- image -->
+## ECOLE VENITIENNE
+
+xvsiecle.
+
+## 49 Portrait d'homme.
+
+Le jeune homme, dont on ne voit que le haut du buste,est represente de face, la tete tournee de trois-quarts vers la droite, fixant le spectateur de ses yeux gris-bleu. Son visage pale et fin, aux pommettes saillantes,est encadre par la masse de ses cheveux chatain clair, coiffes d'une toque rouge, qui tombent jusque sur le cou, cachant les oreilles et le front. Il est vetu d'un pourpoint bleu ciel, laissant passer au cou le bord d'un vetement de dessous vert fonce et celui d'un col blanc.
+
+Bois. Haut., 35 cent.;larg.26 cent.1/2.
+
+Collection Alessandro Castellani (vente a Paris, 12-16 mai 1884）,n° 463.
+
+<!-- image -->
+## GIAN PIETRINO
+
+(GIOVANNIPEDRINI,dit)
+
+Ecole milanaise, xvr siecle.
+
+50
+
+## Cleopatre.
+
+La jeune femme nue est vue debout, a mi-corps vers la droite, la tete detournee a gauche et les regards diriges de ce cote. Elle a des cheveux blonds, boucles et separes sur le milieu de la tete, coiffes d'un foulard vert clair, noue en arriere sur la nuque. De ses oreilles pendent deux grosses perles; un bijou orne de perles et retenu par un fil d'or descend entre les seins. De la main droite, elle entrouvre un panier d'osier tresse, pose devant elle sur une table; et de l'autre main elle tient l'aspic, qui lui mord le sein gauche. Au fond, a droite, par une fenetre grillee, eclairant la piece sombre ou se passe la scene, on apercoit la cour rose d'un palais.
+
+Bois. Haut.,75 cent.;larg,55 cent.
+
+Ce tableau a ete considere comme une ceuvre de Sodoma.
+
+<!-- image -->
+## GIOVANNI DI PAOLO
+
+(GIOVANNI DEL POGGIO,dit)
+
+Sienne,14021482.
+
+51
+
+## Predelle a six compositions
+
+## sur la Vie de saint Jean-Baptiste.
+
+De gauche a droite:
+
+- 1.Saint Jean quitte la ville et seretire dans le desert.—A gauche,
+- saintJean,en longue robe rouge,serreea la taille,et chaussures fauves, sort de la porte de la ville.Vers le fond du tableau, on le voit de nouveau, au moment ou il s'engage dans un defile borde de rochers aux formes tourmentees.A droite, s'etend la campagne verte et brune, plantee d'arbres et coupee de routes blanches, avec une ville dans le lointain, au pied de montagnes boisees. Ciel rouge et or.
+- 2.Saint Jean baptisant sur le bord du Jourdain.—Vetu d'une tunique en poils de chameau, sur laquelle est jetee un large manteau rouge et jaune,les jambes nues, saint Jean, debout sur le bord du Jourdain,designe a un groupe deJuifs,a sa gauche,Jesus qui savance, a droite, sur lautre bord et vient recevoir le bapteme.Le Christ porte un manteau bleu,sur une robe rouge et jaune. Des deux premiers personnages du groupe de gauche,l'un a un manteau rouge et une robe bleue,lautre un manteau bleu et une robe rouge.Au fond, sur le bord du Jourdain,une perspective de campagne,comme dans la scene prece dente, avec des montagnes escarpees,entourees d'arbres a leurbase,t
+- une ville au lointain.Ciel rouge et or.
+- 3.Saint Jean dans sa prison.—A la fenetre de la prison,dans
+- laquelle Herode la fait enfermer, saint Jean,vetu du meme costume
+
+<!-- image -->
+que dans le tableau precedent, est debout, derriere les barreaux de fer, et,le doigt leve vers le ciel, il console deux de ses disciples, lun en manteau rouge et jaune, qui l'écoute, et l'autre, qui fond en larmes et se cache le visage dans son manteau rose et bleu. Derriere le batiment de la prison, couronne de creneaux et occupant le cote gauche de la composition, on voit le palais d'Herode, ouvrant sur la campagne par une haute arcade. Sous cette arcade, un homme entre dans le palais, a gauche; et plus loin, un autre passe sur la route, devant la porte. A l'angle de la prison, un leopard, enchaine a un anneau, est couche sur le dallage de la cour.
+
+- 4.Salome demande a Herode la tete de saint Jean.-Dans une cour interieure du palais d'Herode,au fond de laquelle s'ouvre la perspective des appartements ou vont et viennent des serviteurs portant des plats d'or, trois convives sont assis sur une estrade, autour de la table du festin, couverte de vaisselle d'or. Au premier plan, a gauche, Salome, en longue et etroite robe vert sombre, les bras croises, s'agenouille sur un tapis d'Orient et demande a Herode, assis de profil devant elle, sur un siege garni d'un drap dor, de tenir le serment qu'il a fait de lui accorder ce qu'elle desirerait. Herode, en robe bleue,un linge noue autour du cou, une bandelette dans les cheveux, les mains appuyees au bord de la table, l'écoute avec stupeur demander la tete de saint Jean. Tournes vers le roi, les deux autres convives attendent sa reponse,et deux jeunes offciers,qui se tiennent par la main, debout a droite, et portent des armures dorees sur leurs tuniques bleues, suivent attentivement la scene. Cependant, un page en mantelet rose sapproche de la table pour y deposer un plat, et, pres de la balustrade tendue d'une etoffe d'or qui ferme la cour, un musicien joue du luth.
+- 6.La tete de saint Jean presentee a Herode.-La scene se passe,
+- 5.Decollation de saint Jean. —La scene se passe dans le meme decor que le troisieme tableau. A la fenetre de la prison, dont les deux derniers barreaux ont ete demontes, on voit de face le corps de saint Jean, penche en avant, les mains crispees sur l'appui, et le cou tranche, d'ou jaillit un fot de sang. Debout vers la droite, le bourreau, en tunique bleue,les jambes et les bras nus,remet son glaive au fourreau, et de ce meme cote, un disciple attriste regarde, a gauche, l'officier du roi qui se baisse pour ramasser a terre la tete du Precurseur.
+comme le quatrieme tableau, dans la cour interieure du palais ou se donne le festin. Regarde avec stupeur par les serviteurs, un officier du roi entre par le fond, a droite, portant sur un plat la tete de saint Jean. On le voit une seconde fois,agenouille sur le devant de la composition, et presentant la tete a Herode, qui fait un geste d'effroi, tandis que les deux autres convives se cachent le visage dans leurs mains. A droite, Salome danse, tenant sa longue robe retroussee, et deux jeunes gens qui dansent pres d'elle et se tiennent embrasses, regardent avec curiosite la sanglanteoffrande.
+
+Dans tous les tableaux, le nimbe du saint, comme celui du Christ a la scene du bapteme, est dore et grave.
+
+Bois. Haut., 69 cent.; largeur de chacun des six panneaux :36 cent.1/2;3g cent.1/2 40 cent.1/2;36cent.1/2;40cent.1/2;40 cent.
+
+Cite par B.Berenson, the Central Italian painters of the Renaissance (2nd éd.,
+
+1g11),P.177.
+Collection Cernuschi.
+
+Cite par B. Berenson, the Florentine painters of the Renaissance 3rd ed.,1gi2), P.151.
+
+de Jacques de Voragine : ...Une autre fois, le jeune moine Placide, pendant qu'il puisait de l'eau, tomba dans le torrent et,en un clin d'ceil,roula jusqu'au bas de la montagne. Saint Benoit, dans sa cellule,en eut aussitot la vision,et appelant le moine Maur, lui ordonna d'aller chercher Placide. Saint Maur,apres avoir recu la benediction de saint Benoit, se plongea dans le torrent avec l'impression de marcher sur la terre ferme.Il rejoignit Placide,le retira de leau par les cheveux,et vint en rendre compte a saint Benoit, qui en attribua tout le merite al'obeissance de saint Maur .(Legende doree, trad.T. de Wyzewa;Paris, 1go2,p.185.)
+
+## LIPPI
+
+(FRA FILIPPO)
+
+Florence,1406+Spolete,146g.
+
+52
+
+## Scene de la vie de saint Benoit.
+
+La composition est partagee en deux scenes juxtaposees. A gauche, saint Benoit, assis dans sa cellule et tourne vers la droite,ordonne au moine Maur, agenouille devant lui et a qui il donne sa benediction, d'aller chercher le jeune moine Placide. La construction est rouge ; les deux moines sont vetus de robes blanches.
+
+A droite, dans un paysage vert clair, plante d'arbres d'une verdure plus sombre, on voit saint Maur retirer saint Placide du torrent dans lequelil etait tombe en puisant de l'eau. L'eau du torrent est bleu clair, et la cruche que tient le jeune moine, a la couleur rose de la terre cuite.
+
+Bois.Haut.,40 cent.1/2,;larg.,6g cent.1/2.
+
+<!-- image -->
+## LIPPI
+
+(Attribue a FRA FILIPPO)
+
+53
+
+## Portrait de femme.
+
+Representee en buste, de profl tourne vers la gauche, son visage pale et severe se decoupe nettement sur le fond. Les cheveux blonds sont roules en bourrelet, a l'aide de rubans blancs, et entourent la tete, en degageant un front arrondi et une oreille forte, mais bien dessinee. Le nez est long et legerement releve, la bouche d'une minceur extreme, le sourcil arque fortement sur un ceil profond, la joue creuse. Le cou, comme tendu en avant, sort d'une houppelande verte, plissee sur la poitrine, et dont la manche, ouverte a lepaule et decoupee sur les bords, laisse voir la manche d''un corsage rouge; le corsage depasse legerement au col, de meme que la chemise.
+
+Le fond, tres rapproche, est constitue par la perspective d'un mur gris, sobrement moulure a sa partie superieure. Un curieux éclairage en diagonale,venant de la gauche, partage le tableau en deux triangles, l'un dombre et l'autre de lumiere, avec un vif effet de lumiere sur le cou du personnage.
+
+Bois.Haut.,41 cent.1/2;larg.,31 cent.
+
+Exposition de maitres anciens ala Royal Academy de Londres (1884）, sous le nom de Cosimo Tura;il appartenait alors a M. Alexander Casella.
+## LIPPI
+
+(AttribueaFRA FILIPPO)
+
+54
+
+## La Vierge et l' Enfant.
+
+La Vierge est vue a mi-corps, tournee de trois-quarts vers la droite. Elle porte une tunique rouge, ornee aux poignets d'une legere broderie d''or, et sur laquelle est jete un manteau bleu fonce,laissant libre le bras droit; un voile blanc, gracieusement plisse tout autour de la tete, en maniere de bonnet, et tombant sur les épaules en plis nombreux, laisse voir le bord des cheveux blonds, coiffes a plat et dont quelques boucles descendent le long des oreilles.
+
+Dans un geste caressant, attirant a elle I'Enfant, debout au premier plan sur une tablette, elle appuie tendrement son visage incline contre la tete blonde de son fils. Celui-ci,vetu d'une courte chemise orangee, qui laisse a decouvert tout le bas de son petit corps potele, vu de profil, tient sa mere embrassee et detourne a demi le visage pour regarder le spectateur.
+
+La tablette et la partie inferieure du fond, gris rose; fond d'or a la partie superieure.
+
+Bois, de forme cintree dans la partie superieure. Haut.,66 cent.,;larg.,4I cent.
+
+Variante de la Madone du Palais Riccardi, a Florence.
+
+Collection Benjamin Fillon (vente a Paris,2o-24 mars 1882),n 545.
+
+Collection du Baron de B...Beurnonville](vente a Paris, 21-22 mai 1883), n 120.
+
+<!-- image -->
+## LORENZO MONACO
+
+(DON LORENZO,dit)
+
+Florence,vers 137o 1425.
+
+55
+
+## La Vierge et l'Enfant.
+
+La Vierge, tournee de trois-quarts vers la droite, le genou droit a terre sur un coussin de damas vert et or, tient l'Enfant assis sur son bras gauche et appuye sur son genou gauche releve; de la main droite, elle lui porte un fruit a la bouche. Elle est vetue, sur une robe blanche, d'un manteau blanc a revers grenat, enveloppant la tete et y recouvrant le voile bleu qui croise sur la gorge. Toutes ces etoffes sont brodees de feurs dorees; une broderie d'or borde la robe rose de l'Enfant.
+
+Derriere le groupe, deux angelots, d'or vetus,volent a droite et a gauche, retenant étendue une étoffe d'or a reflets rouges. Un tapis de brocart rouge et or couvre le sol.
+
+Fond d'or. Les ornements des tapis et les nimbes sont dores et graves.
+
+Sur une tablette, a la partie inferieure, trois medaillons a fond d'or: a gauche, la Vierge, en manteau bleu et guimpe blanche; au centre, le Christ nu, debout dans son tombeau; a droite, saint Jean,en manteau rose. Les trois personnages sont vus a mi-corps; ceux de gauche et de droite tournes vers celui du milieu.
+
+Bois, de forme ogivale.Hauteur totale,I m.12;larg.,65 cent.
+
+Collection Toscanelli (vente a Florence, 9 avril 1883), n 1o5 et pl. xxV.
+
+<!-- image -->
+## MACHIAVELLI
+
+(ZENOBIO DI)
+
+Ecole forentine, xv siecle.
+
+56
+
+## La Vierge et l'Enfant entre deux anges.
+
+La Vierge est vue a mi-corps, tournee de trois-quarts vers la gauche, les yeux baisses et regardant a droite. Sur le manteau bleu pale, borde d'un large galon d'or, qui recouvre sa robe rose, un long voile mauve descend des cheveux blonds, tires et separes par une raie. De la main gauche,ramenee sur la poitrine, elle attire doucement le pan de son voile, comme si elle voulait en envelopper le corps nu et potele de l'Enfant quelle soutient de la main droite, debout devant elle sur un parapet gris rose, et qui tourne son visage aux blonds cheveux bouclés vers celui de sa mere, en lui entourant le cou de ses petits bras.
+
+Au second plan, deux anges blonds, les yeux baisses et les mains ailes vertes et une tunique rose a col vert, fendue sur le cote,a partir jointes, sont debout de part et d'autre du groupe. Celui de droite porte une tunique jaune a col vert et des ailes rouges; celui de gauche a des de la taille, et laissant a nu la cuisse et la jambe, coupee par le cadre.
+
+Au fond, des verdures et des fleurs. Le ciel est presque entierement cache par un rideau de riche brocart vert, grenat et or, formant bal- daquin et releve de chaque cote par des embrasses.
+
+Bois.Haut.,8o cent.1/2;larg.,55 cent. 1/2.
+
+Cadre en bois sculpte du temps de la Renaissance.
+
+Collection Paul Grand,a Lyon.
+
+<!-- image -->
+## MAINARDI
+
+(BASTIANO)
+
+San Gimignano,vers 145o+Florence,1513.
+
+57
+
+## Saint Etienne.
+
+Il est debout, devant une niche sculptee, en marbres de couleur,
+
+La tete, dont le sommet est rase,porte, sur le cote, deux blessures sanglantes. En bas, a gauche, une pierre rappelant le martyre du saint.
+
+ornee d'une coquille a sa partie superieure. Le corps de face, le visage presque de profil et incline vers la gauche, les regards abaisses de ce cote et diriges vers un point situe hors du tableau, il a les deux mains ramenees sur le devant du corps; la main gauche retient l'extremite d'une echarpe et supporte un livre, sur lequel s'appuie la droite, tenant une palme. La dalmatique, qui recouvre son aube, est de soie rouge; elle est ornee sur la poitrine, au bord des larges manches et a la partie inferieure, de larges bandes de soie bleue brodee d'or. Autour du cou, passe le col de l'amict, termine par des glands.
+
+Toile.Haut.,I m.go;larg.,56 cent.1/2.
+
+Collection du duc de Talleyrand, Valencay et Sagan (vente a Paris,2g maier juin
+
+Cite par B. Berenson, dans the Florentine painters of the Renaissance (3rd ed., 1912),p.155.
+
+1899), no 8. La peinture etait accompagne de son pendant, Saint Dominique (n 9).
+
+<!-- image -->
+## MANTEGNA
+
+(Attribue a ANDREA) Padoue,1431Mantoue,1506
+
+58
+
+## La Vierge avec l' Enfant,
+
+## entre saint Joseph et sainte Catherine.
+
+La Vierge, vue en buste, de face, son visage pensif incline a gauche, les yeux perdus dans une songerie grave, tient entre ses bras l'Enfant endormi. Elle est vetue d'une robe d'un rose orange, rehaussee d'or; un grand voile bleu sombre, a refets d'or,lui enveloppe etroitement la tete, laissant passer le bord d'une mousseline a petits plis, et recouvre lepaule et une partie du bras droit. Soutenant, de la main gauche, la tete de l'Enfant, nimbee et couverte jusqu'au front par un linge blanc, elle retient, de la droite, un lange qui enveloppe le bas du petit corps, laissant nus la poitrine et le bras droit.
+
+A droite, saint Joseph, de profil, en manteau jaune clair,la barbe et les cheveux blancs, tourne les yeux vers le spectateur. A gauche, sainte Catherine d'Alexandrie, de face, les yeux baisses vers l'Enfant, les cheveux tresses et tombant sur les epaules, porte la roue garnie de pointes, instrument de son supplice; sa robe est rose orange, comme celle de la Vierge.
+
+Fond brun. Les saints personnages ont des nimbes d'or; le nimbe de I'Enfant est brun avec des ornements d'or. Les vetements de la Vierge sont rehausses d'or dans les lumieres.
+
+Bois. Haut.,49 cent.;larg.,38cent.
+
+<!-- image -->
+## PIER FRANCESCO FIORENTINO
+
+Florence,xv siecle.
+
+59
+
+## La Vierge et lEnfant,sur un fond de rosiers.
+
+La Vierge est vue a mi-corps, tournee de trois-quarts vers la gauche, la tete legerement inclinee sur l'epaule, les regards abaisses vers I'Enfant qu'elle soutient debout contre elle, de ses deux mains aux longs doigts effiles, ornes de bagues. Ses cheveux blonds et ondes, retenus sur le front par un ruban noir, sont en partie recouverts par un voile blanc, gracieusement drape, qui descend jusque sur les epaules et croise sur la poitrine comme une echarpe. Elle est vetue d'une tunique rouge, dont le corsage largement echancre au cou, est orne d'un galon d'or au decollete, a la taille et aux poignets. Un manteau bleu vert, borde d'une broderie d'or, est jete sur les épaules; sa large emmanchure laisse voir le revers, d'une tonalite plus jaune; sur lépaule gauche, est brodee une etoile d'or.
+
+L'Enfant est vu de face, debout, a gauche, sur une tablette gris rose; un lange blanc lui entoure seulement les reins, laissant a decouvert son corps potele. De la main gauche,il porte vers ses levres un oiseau aux ailes gris bleu et a la tete roussatre. A ses pieds, sur la tablette, sautille un chardonneret.
+
+Le fond d'or est tapisse de branches de rosiers, feuries de roses rouges, roses et blanches. Les nimbes sont dores et graves.
+
+Bois. Haut.,71 cent. I/2;larg,52 cent. 1/2.
+
+<!-- image -->
+## PIERO DI COSIMO
+
+(ditPIERO DILORENZO)
+
+Florence,1462Florence1521.
+
+60
+
+## Saint Jean-Baptiste.
+
+Il est vu en buste, tourne de profl vers la gauche. Son jeune visage nimbe, aux traits delicats, se detache sur le fond sombre du tableau, et son regard est fixe sur une petite croix de roseau, dressee devant lui. Ses cheveux boucles lui font comme une aureole d'un blond dore. Sur l'epaule droite, on apercoit le haut d’une tunique de poils gris.
+
+Bois. Haut., 29 cent.; larg., 23 cent.
+
+Acquis en vente publique a Londres,en 188o.
+
+Ce tableau a pu etre compare au celebre portrait de femme de la galerie PoldiPezzoli, a Milan,attribue a Pollaiolo;il nous semble plus pres dela peinture du musee Conde a Chantilly,representant Simonetta Vespuccia et que l'on s'accorde a donner a
+
+Piero di Cosimo.
+
+<!-- image -->
+## PIERO DI COSIMO
+
+(dit PIERO DI LORENZO)
+
+61
+
+## La Vierge et l' Enfant, avec un agneau.
+
+La Vierge est assise a gauche, au premier plan, sur un rocher. Elle porte une robe rouge et un manteau bleu qui lui tombe derriere le dos et, ramene sur ses genoux, laisse libre tout le cote droit du corps. Penchee vers la droite, elle va saisir l'Enfant nu, a demi couche dans les plis de son manteau et qui lui tend les bras. Sur le devant, un agneau. A l'arriere-plan,a gauche, des rochers; a droite, une prairie, avec une chaumiere au loin, a la porte de laquelle on apercoit saint Joseph.
+
+Bois; tondo.Diam., 71 cent.1/2.
+
+Cite par B. Berenson, the Florentine painters of the Renaissance (3rd ed.,1g12), P.165.
+
+<!-- image -->
+## PIERO DELLA FRANCESCA
+
+(Attribuea)
+
+Borgo San Sepolcro,1423+1492.
+
+62
+
+## Portrait de femme.
+
+La jeune femme, au visage legerement rose, a l'eil gris fendu en amande, au nez long et mince, est representee en buste, tournee de profil vers la droite,et sa silhouette se decoupe nettement sur le fond du tableau. Sa houppelande rouge grenat, ouverte a l'épaule et bordee d'un galon brode, laisse passer la manche d'un corsage de damas, a fleurs de velours rouge sur fond jaune d'or. Elle a le front largement decouvert et orne d'un fil de petites perles noires. Sur ses cheveux, serres dans une coiffe grenat a broderie d'argent, est jetee une legere gaze blanche, extremement transparente, qui retombe sur la nuque et dont la jeune femme retient lextremite entre le pouce et l'index de sa main droite, le bras reploye sur la poitrine. En bas, a droite, on apercoit la main gauche, ramenee sur le devant du corps.
+
+Bois. Haut.,57 cent.; larg., 38 cent.
+
+Collection Toscanelli (vente a Florence,9 avril 1883), n 14o, et pl. XxxIV; donne a P.della Francesca, sous le titre de:Portrait de femme vue de profil;avec cette note:α Il represente Battista Sforza, femme de Frederic de Montefeltro, duc d'Urbin.Derriere le panneau,on lit, en caracteres du xvine siecle:Ritratto di Battista Sforza,moglie de Federigo, duca d'Urbino.Mori 1473;et plus bas:dalla mano di
+
+Piero della Francesca . Cette inscription existe toujours au revers du tableau.
+
+Cite par B. Berenson dans the Central Italian painters of the Renaissance (2nd ed.,
+
+1g1I), p.134, sous le nom d'Antoniazzo Romano.
+
+<!-- image -->
+## PINTURICCHIO
+
+(BERNARDINO DI BETTO DI BIAGIO,dit IL)
+
+Florence,1454+ Sienne,1513.
+
+63
+
+## Saint Barthelemy.
+
+Debout et vu a micorps, de face, il porte une longue barbe,brune et frisee, et des cheveux bruns. Ses regards sont abaisses vers le livre, a tranches dorees et a reliure bleu noir, ornee de clous d'argent, qu'il tient des deux mains, ouvert devant lui. Dans sa main droite, il tient egalement un poignard a lame recourbee. ll est vetu d'une tunique bleue, serree a la taille par un galon jaune, noue sur le cote droit du devant, vers le bas, laissant libre le bras et le cote droit.
+
+Le fond est forme d’un tapis, tombant du haut du cadre ou il est attache, et laissant voir, a droite et a gauche, des revers rouges.
+
+Nimbe dore et grave; le bord du nimbe est en relief, de meme que la lame de lepee et les ornements de sa.poignee.
+
+Bois.Haut.,6o cent.;larg.,49 cent. 1/2.
+
+Collection Borghese（vente a Paris, 2-3 juillet 18g1),n 124, et pl.,p.33. Cite par B.Berenson, the Central Italian painters of the Renaissance (2nd ed., 1911),P.228.
+
+<!-- image -->
+## SELLAJO
+
+(JACOPO DEL) Florenc,14421493.
+
+64
+
+## L'Adoration des Mages.
+
+L'étable est figuree par les trois arcades d'un portique en ruines, qui se dressent au second plan, au milieu de la composition; des guirlandes de fleurs sont sculptees sur les piedroits, des medaillons a personnages dans les écoincons, et des bucranes sur l'entablement, brise vers le centre et laissant voir la lueur de l'etoile mysterieuse. La Vierge aux longs cheveux blonds, vetue d'un manteau bleu sombre et d'une tunique rouge groseille, est assise devant ce portique, tenant sur ses genoux l'Enfant nu, qui benit un des rois mages agenouille a ses pieds.
+
+En celui-ci, qui a depose sa couronne a terre, on reconnait Melchior, a sa barbe et a ses longs cheveux blancs; il porte un manteau de brocart rouge et or, et retient de la main droite l'extremite d'une legere écharpe rejetee sur son epaule. Saint Joseph, en tunique verte et manteau jaune a revers rouges, assis a gauche, non loin de la Vierge, et tournee vers elle, presente a l'Enfant la cassolette contenant l'offrande du roi :lor.
+
+Le second roi mage est agenouille a droite, a quelque distance du premier; son teint basane et ses longs cheveux bruns permettent de lidentifier avec Balthazar. Il est en manteau de brocart grenat et or, serre a la taille, et avance le bras pour offrir sa cassolette, contenant la myrrhe.
+
+Le troisieme roi,un jeune homme imberbe, aux cheveux courts, en qui la tradition personnifie Caspar, est egalement agenouille,un peu plus a droite. Sur son pourpoint de drap d'or, serre a la taille par une ceinture rouge, il porte un manteau vert fonce; il a les bras croises et
+
+<!-- image -->
+tient sa couronne a la main; sa cassolette,contenant l'encens,est posee a terre pres de lui.
+
+Derriere lui, s'agite un nombreux cortege de seigneurs en costumes somptueux et barioles de couleurs vives; tout a fait a droite, un jeune cavalier; a l'arriere-plan, trois pages a cheval sonnant de la trompette.
+
+Un cortege semblable, et pareillement brillant, est groupe de lautre cote, a gauche de la scene principale; un jeune page s'en detache, coiffe d'un petit chaperon aile, rouge et or,et portant, sur un pourpoint rouge vif et des chausses vert clair, un mantelet gris a revers noirs, qui lui fotte sur les epaules. Tout a fait a gauche, derriere un autre page tenant des chevaux par la bride, trois herauts jouent de divers instruments.
+
+Le sol, caillouteux et seme de touffes dherbes et de fleurs, s'abaisse sur le devant, jusqu'au bord d'un cours d''eau, quon apercoit au ras du cadre. Dans l'angle de droite et dans celui de gauche, deux pages assis a terre et tenant chacun un chien. Sur l'eau et sur le sol, divers animaux, parmi lesquels un singe en tunique courte, portant des fruits sur un plateau.
+
+Au-dela du portique, derriere lequel on apercoit le boeuf et lane, s'etend une campagne accidentee avec, au fond, un port entoure de murailles, des villes fortifiees d'ou pointent des tours, le versant d'une montagne dont les divers plans sont animes de petits personnages.
+
+Toutes les broderies des vetements sont dorees, de meme que les aureoles des saints personnages.
+
+Bois.Haut.,92 cent.1/2;larg.,I m.74.
+
+Cite par B.Berenson, the Florentine painters of the Renaissance (3rd ed.,g12), P.183.
+## SELLAJO
+
+(JACOPO DEL)
+
+65
+
+## Le Christ au tombeau,
+
+## soutenu par deux anges.
+
+Le Christ nu, couronne d'epines, le visage et le corps exsangues, les reins ceints dun linge, est vu debout, a mi-corps, dans le sepulcre dont la face anterieure est sculptee de quatre rosaces separees par des colonnettes. ll est soutenu sous les bras par deux anges aux ailes multicolores, debout a sa droite et a sa gauche, vetus de tuniques vertes a cols rouges, et tenant une écharpe blanche etendue devant le Crucife. Les trois personnages ont les cheveux d'un blond tirant sur le roux. Derriere le Christ, se dresse la croix, aux bras de laquelle pendent les deux fouets de la fagellation;a droite et a gauche, la lance et le roseau portant l'éponge imbibee de vinaigre.
+
+Fond sombre.
+
+Bois.Haut.,53 cent.1/2;larg.,38 cent.
+
+Collection Toscanelli (vente a Florence, 9 avril 1883),n 145,et pl.XxxV.
+
+Cite par B.Berenson, the Florentine painters of the Renaissance (3rd ed., 1g12), P.183.
+
+<!-- image -->
+## Ecoles des Pays-Bas
+
+## BLES
+
+(HENRI MET DE) Bouvignes,vers 148o Liege,vers 155o.
+
+66
+
+## Le Repos de la Sainte Famille.
+
+La Vierge est assise au premier plan, de face, sur un tertre ombrage de trois grands arbres, qui domine une vallee profonde. Elle est coiffée d'une sorte de turban de mousseline blanche et vetue d'un manteau rouge, sur une robe bleu fonce, echancree au cou et laissant voir le bord d'un vetement de dessous jaune orange; elle tient, assis sur ses genoux,l'Enfant,en chemise blanche,et va lui presenter une grappe d raisins. Un peu en contre-bas, a gauche, saint Joseph fait paitre l'ane dans une prairie; il porte un chaperon rose, dont le pan retombe sur
+
+Plus bas encore, on decouvre la vallee, peuplee de maisonnettes et animee de petits personnages. Une riviere aux nombreux meandres y serpente jusqu'a l'horizon; elle passe sous un pont, ou l'on apercoit les saints voyageurs en marche; baigne les murailles d'une ville forte,batie sur le versant d'une colline; passe au pied d'un chateau et s'en va vers une autre ville au lointain. Sur la greve, en face de la ville fortifiee, on distingue une troupe de soldats en marche, dont les eclaireurs ont atteint les maisons d'un village et massacrent les femmes et les enfants.
+
+ses epaules, une souquenille brune a collet bleu et des chausses grises.
+
+A droite, au premier plan,une barriere;un panier aux pieds de la Vierge; et plus loin, une fontaine coulant du rocher, une grotte et un petit bois ou s'ebattent des lapins.
+
+Bois, de forme chantournee a la partie superieure. Haut., 8g cent.; larg,75 cent.1/2.
+
+Collection Laforge (vente a Lyon, 1er mars 1869),n° 44; attribue a un artiste inconnu de lecole allemande du xvie siecle, avec cette mention: ancien tableau a volets, sur bois,avec pignon de forme cintree》.
+## BOUTS
+
+(ALBERT)
+
+Louvain,1455Louvain,1549.
+
+## La Vierge de douleur.
+
+Elle est representee en buste, tournee de trois-quarts vers la droite. Un voile blanc, drape sur la tete et le front, et qui enveloppe le cou et la gorge a la facon d'une guimpe, encadre le beau visage baigne de larmes, incline a droite dans une attitude de desolation. De ses deux longues mains croisees, elle retient sur sa poitrine l'ample manteau bleu sombre, jete par-dessus son voile.
+
+Bois.Haut.,45 cent.1/2;larg.,3o cent.1/2.
+
+Exposition des maitres anciens ala Royal Academy de Londres,1884,sous le nom de M. Wolgemuth. Le tableau faisait alors partie de la collection W. Graham.
+
+Fond d'or.
+
+<!-- image -->
+## ECOLE DE BRUGES
+
+xv· siecle.
+
+68
+
+## La Vierge et l'Enfant,sur un fond
+
+## de paysage.
+
+Drapee dans un manteau grenat, orne d'un galon d'or et laissant apercevoir, au poignet et au cou, une robe bordee de fourrure, la Vierge est debout, de face,vue a mi-corps. Ses cheveux chatains sont serres sur le front par un diademe de perles, enrichi d'un bijou de pierreries, et tombent sur son manteau en longues ondulations. De son bras droit reploye,elle presse contre son sein I'Enfant,qui lui tend ses petits bras, a demi enveloppe dans un lange qu'elle retient de la main droite.
+
+Fond de paysage, avec des bois a gauche, des arbres et des rochers a droite.A la partie superieure de la composition,un cintre orne d'arabesques sur fond d'or.
+
+Bois.Haut.,24 cent.；larg.,19 cent.
+
+<!-- image -->
+## EYCK
+
+(Attribue a HUBERT VAN) Maeseyck,vers 1366+ Gand,1426.
+
+69
+
+## Le Christ en croix, entoure d'anges portant les instruments
+
+## de la Passion.
+
+Le Christ en croix se detache sur une mandorla blanche, derriere laquelle parait le ciel bleu, constelle d'etoiles. La tete penchee sur l'epaule droite, il a les yeux clos et la bouche entrouverte; les plaies des mains et du cote, d'ou le sang coule, projettent des rayons de lumiere. A droite et a gauche, volent trois anges vetus de jaune, dont on ne voit que la tete et le buste, a la bordure du cadre:celui de gauche porte la lance et le roseau; les deux autres,a droite, tiennent la colonne et les instruments de la fagellation.
+
+summatum est. Le Christ et les anges ont des nimbes rayonnants et dores.
+
+Sur un phylactere, a gauche du Christ, on lit en lettres d'or : Con-
+
+Bois. Haut.,38 cent.; larg.,26 cent. 1/2.
+
+Collection Borghese (vente a Paris, 2-3 juillet 18g1), n 137.
+
+Au cours de ses articles sur Hubert van Eyck et son influence,publies par la revue les Arts anciens de Flandre (1go4-1go6, p. 72 et suiv.), M. E. Durand-Greville a éte amene a étudier et areproduire cettepeinture.
+
+figura a 1'Exposition des Primitifs famands a Bruges (n 6),et qui represente: le Christ en croix entoure d'anges portant les instruments de la Passion,avec,au bas,la Sainte
+
+Il a d’abord rappele un tableau, conserve a l'eglise Saint-Sauveur de Bruges, qui
+
+<!-- image -->
+Vierge et un donateur; ce tableau avait te attribue a un Flamand inconnu, du milieu du xve siecle, par M. G. Hulin, dans son Catalogue critique de l'Exposition des Primitifs flamands,avec cette indication qu'on peut relever linfuence du maitre de
+
+Flemalle,auquel le Christ en croix est directement emprunte.
+
+M.E.Durand-Greville,rapprochant ensuite le tableau de la collection Aynard de celui de Bruges et d'une peinture de la collection Riccardo Traumann, de Madrid,a note que les figures du Christ y etaient presque identiques, sauf que, dans la peinture qui nous occupe ici,le bas de la composition manque, ainsi qu'un ange tenant une couronne sur la tete de la Vierge;en outre, les trois anges, entierement visibles sur le tableau de Bruges et sur celui de Madrid, sont ici coupes a mi-corps par le cadre.
+
+Ces anges et les instruments de la Passion sont d'ailleurs d'une execution posterieure au reste de la peinture;M. Durand-Greville les attribue, dans les trois tableaux du Christ en croix,a un eleve d'Hubert van Eyck, tandis qu'il donne le Christ de Bruges,et celui descollections Aynard et Traumann, a ce maitre luimeme,par com- paraison avec une miniature du manuscrit des Heures de Turin, brale en 1go4.
+
+M.E. Durand-Greville a repris sa demonstration dans son livre:Hubert et Jean van Eyck (Bruxelles, 1gio,P.74 et suiv.), ou la peinture de la collection Aynard est reproduite(pl.p.75.)
+## NEUFCHATEL
+
+(NICOLAS-LUCIDEL,dit COLIN DE)
+
+Mons,1525Mons,1600.
+
+70
+
+## Portrait d’un philosophe.
+
+Debout dans une piece aux murs bruns, éclairee a gauche par une fenetre qui laisse penetrer le soleil, il est vu de face, a mi-corps. Son visage pale, aux yeux bruns regardant fixement le spectateur, encadré d'une barbe brune et tourne legerement de trois-quarts vers la droite, apparait en pleine lumiere et tranche sur le fond de la composition. Coiffe d'une toque noire tres plate, il porte une robe d'un noir verdatre, bordee par un galon noir au col, sur le devant et aux manches. Sa main gauche sappuie sur une tete de mort, jaune rougeatre, posee a droite sur un chapiteau sculpte,et de lautre main, ramenee sur le devant du corps, il indique un papier, fixe par quatre cachets de cire sur la face du chapiteau et portant cette citation du Psalmiste : Dirigetur oratio mea sicut incensum.Psal.
+
+Au fond, a droite, une porte ouvre sur une piece eclairee, ou lon apercoit divers objets poses sur une tablette : un petit pot d'argent, des livres; et d'autres objets accroches au mur : des ciseaux, un carnet, un petit plumeau.
+
+Bois.Haut.,64 cent.;larg,44 cent.1/2.
+<!-- image -->
+
+## ECOLES DES XVII ET XVIII SIECLES
+
+## Ecoles Anglaise et Francaise
+
+## ECOLE ANGLAISE
+
+xvl siecle.
+
+71
+
+## Portrait de femme.
+
+Elle est vue en buste, presque de face. Le cou nu et degage porte joliment un visage delicat au nez long et mince, au petit menton a fossette. La chevelure frisee et poudree decouvre le front, et, sous les grands sourcils legerement arques, ses beaux yeux bruns semblent reveurs. Son corsage de satin blanc, serre a la taille par une ceinture bleue et decollete en pointe, est recouvert d'un fichu de mousseline, drape sur les epaules et retenu sur le devant par un noeud de ruban blanc.
+
+<!-- image -->
+Esquisse.
+
+Grave a l'eau-forte,par P.Adam, sous le titre indique ci-dessus, dans l'Euvre du Baron Francois Gerard （Paris,1852-1853,Ire partie),a la table chronologique de louvrage, ce portrait est classe a l'annee 1804.
+
+## GERARD
+
+(FRANCOIS-PASCAL-SIMON,Baron)
+
+Rome,177o+Paris,1837.
+
+72
+
+## Portrait de la Comtesse Strazinska.
+
+La jeune femme est debout, le corps tourne de trois-quarts vers la gauche et le visage de face, appuye a un tertre d'ou coule une source, a droite. Elle porte une robe Empire, de velours brun, a la taille haute, au col échancre en pointe et borde d'une petite collerette droite en linon. Une echarpe rouge, partant de la ceinture et rejetee sur l'épaule droite, passe derriere le dos et descend jusqu'a terre, le long du cote gauche. Les souliers plats laissent voir les bas blancs.
+
+De la main droite, tombant le long du corps, elle tient une lyre; la gauche s'appuie sur le tertre. Son chapeau de paille a ruban blanc est renverse a ses pieds, sur une pierre.
+
+Au fond, a gauche, un chateau sur une éminence boisee; a droite la campagne. Le ciel, nuageux sur le devant, est clair dans le lointain.
+
+Peinture sur carton.Haut.,3o cent. 1/2;larg., 1g cent. 1/2.
+
+<!-- image -->
+## GREUZE
+
+(JEAN-BAPTISTE)
+
+Tournus, 1725 + Paris,1805
+
+73
+
+## Portrait du peintre Jeaurat.
+
+Il est assis et vu a mi-corps, tourne de trois-quarts vers la gauche, regardant le spectateur de ses petits yeux vifs. Son visage rondelet et comme dore de lumiere est legerement releve de rose aux joues, au menton et aux levres, que plisse un demi-sourire. Une toque, analogue a un α bonnet de police 》, de couleur brune, bordee dun galon jaune et campee sur l'oreille droite, decouvre, du cote gauche,le front degarni. Sous un habit brun, il porte une veste noire, qui laisse passer le haut de la chemise et du col blancs.
+
+Toile.Haut.,79 cent.;larg.,65 cent.
+
+Replique du portrait du Louvre (salle des portraits d’artistes, n° 373), dont il ne
+
+Etienne JeauratVermenton,pres Auxerre,8fevrier 69gVersailles,4decembre 1789),peintre de mythologies,d'histoire et de genre,eleve de N.Vleughels, fut admis comme academicien en 1733;professeur en 1743,recteur en 1765,chancelier en 1781, il recut le titre de peintre du roi et de garde de la galerie de Versailles.
+
+differe que par la couleur des vetements; le portrait du Louvre fut expose au Salon de176g.
+
+<!-- image -->
+## LARGILLIERRE
+
+(NICOLAS DE)
+
+Paris,1656Paris,1746.
+
+## Portrait du paysagiste Jean Forest.
+
+Il est assis et vu a mi-corps, de face,le visage tourne de trois-quarts vers la droite,les yeux regardant de ce cote,la bouche entrouverte. Sa tete ronde et coloree est coiffee d'un haut bonnet de velours brun verdatre, termine par une calotte de brocart. ll porte une houppelande de sur la poitrine. Le bras droit est plie, la main posee sur la hanche; de velours rouge, a brandebourgs et broderies d'or, doublee de fourrure, laissant voir l'habit de brocart et la chemise, au col deboutonne,ouverte la main gauche, invisible sur le tableau, l'artiste tient devant lui sa palette dont on ne voit que le revers.
+
+Fond sombre.
+
+Toile.Haut.,53 cent 1/2;larg.,47 cent.
+
+C'est une replique reduite d'une peinture bien connue de Largillierre,conservee au Musee de Lille (H. 1m 26; L. om 94), qui a figure au Salon de 17o4 et a éte gravée par Drevet. Le Musee de Berlin possede une autre replique de ce portrait, dont les dimensions se rapprochent sensiblement de celles de la peinture de Lille (n°484 A; H. 1m 17: L. om 88). Dans ces deux portraits,l'artiste est vu jusqu'a mi-jambes.
+
+Sur la peinture de Lille,voir:Francois Benoit,la Peinture au Musee de Lille
+
+(Paris,1909),t.I1I,n°154,P.431et pl.116.
+
+Jean-Baptiste Forest (Paris,636Paris,712),leve de son pere,P.Forest,t P.F.Mola en Italie,fut recu academicien en 1674, comme paysagiste.
+
+<!-- image -->
+## PRUD'HON
+
+(PIERRE-PAUL)
+
+Cluny,1758+Paris,1823.
+
+75
+
+## Portrait du Comte de Sommariva.
+
+Assis sur un bloc de pierre, tourne vers la droite, le corps de troisquarts et le visage de face, il a la tete nue et porte un col-cravate de lingerie,un habit brun, une culotte blanche et des bottes a revers. Le bras gauche est appuye a un petit mur, le droit ramene sur le devant et pose sur la cuisse.
+
+Fond de paysage, avec des arbres a gauche et la campagne a droite;
+
+au loin, de ce cote, le versant d’une montagne.
+
+Peinture sur carton. Haut.,19 cent. 1/2; larg.,14 cent.1/2.
+
+Cadre en bois sculpte, du temps de Louis XIV.
+
+Le portrait, dont cette peinture est l’esquisse,fut expose au Salon de 1814 et legue au Musee de Milan; dans ce portrait termine, le personnage tient un livre de la main gauche.
+
+E.de Goncourt, dans son Catalogue raisonne de l'euvre,etc., de P.-P.Prud’hon
+
+J.-B. de Sommariva (vers 176o-1826), etait avocat a Milan lors de 1'occupation francaise en Lombardie; nomme secretaire-general du Directoire de la Republique cisalpine (1797), puis directeur (1799), il vint se fixer a Paris quand l'invasion austrorusse eut renverse cette Republique. C'etait un collectionneur repute, qui avait reuni d'admirables ceuvres d'art dans sa villa du lac de Come.
+
+(Paris, 1876,p.42-43), cite, outre plusieurs etudes dessinees, deux esquisses peintes du portrait du comte de Sommariva, l'une dans la collection Rothan,l'autre sur papier,ou M. de Sommariva est assis sur des debris d''architecture(Haut., 177 millim; Larg., 127 millim.) , dans la collection Carrier.
+## Ecoles Flamande et Hollandaise
+
+CROOS
+
+(ANTONIE JANSZ VAN)
+
+Reenen (?), vers 1606+apres 1662.
+
+## 76 La Halte devant l'auberge.
+
+Dans une morne campagne, une voiture chargee de voyageurs et attelee de deux chevaux s'est arretee a la porte d'une pauvre auberge, au pignon de laquelle est amenage un pigeonnier. La voiture est vue par larriere,au moment ou une femme, sortant de l'auberge,offre des rafraichissements a l'un des voyageurs debout dans la voiture, tandis que le conducteur place une mangeoire devant ses chevaux. A droite, assis a terre, pres d'un buisson et d'une roue de charrette,un homme en feutre gris et veste rouge.
+
+Effet de soleil couchant, dans un ciel charge de gros nuages.
+
+Bois.Haut,43 cent. 1/2;larg,46 cent,1/2,
+## FYT
+
+(Attribue a JEAN) Anvers,16og Anvers,1661.
+
+77
+
+## Gibier mort, garde par des chiens.
+
+Dans le parc d'un chateau, quon apercoit au fond, vers la gauche, deux chiens sont assis et gardent le gibier entasse a droite, sous des
+
+Au fond, de ce cote, au-dessus du chateau, ciel bleu avec de gros nuages.
+
+arbres. La tete d'un chevreuil, pendu par une patte de derriere, tombe sur la hure d'un sanglier, dont le corps est couvert par les autres animaux, jetes pele-mele,au premier plan:un lievre,une cigogne,une perdrix, un canard, etc., au-dessus desquels on voit un autre lievre, egalement pendu par une patte. Le plus petit des deux chiens est une sorte de carlin blanc, avec des oreilles feu; il regarde le spectateur. L'autre, un epagneul noir, a ventre blanc, leve la tete vers la gauche.
+
+Signe a droite.
+
+Toile.Haut.,2 metres;larg.,I m.77.
+
+Cadre en bois sculpte, du temps de Louis XVI.
+
+<!-- image -->
+## JANSON VAN CEULEN
+
+(CORNELIS-JANSSENS,dit)
+
+Londres,1593Amsterdam,1664.
+
+78
+
+## Portrait de femme.
+
+Elle est debout et vue jusqu'aux genoux, legerement tournee de trois-quarts a gauche, les bras tombants et les mains croisees. Sur ses cheveux gris, soigneusement tires, est posee une coiffe plate,de mousseline noire, qui s'avance en pointe sur le front et descend jusqu'aux oreilles, encadrant le visage. La robe, d'un brun violatre,est ouverte un peu au-dessus des epaules sur une guimpe blanche; les manches ont des revers blancs et laissent passer des manchettes de mousseline plissee. Aux oreilles, un bijou forme de trois pierres et d'une perle. Au fond, un rideau bleu fonce.
+
+Toile.Haut.,I m.12 1/2;larg.,91 cent.
+## REMBRANDT
+
+(REMBRANDT HARMENSZ.VAN RIJN,dit)
+
+Leyde,1606Amsterdam,166g.
+
+79
+
+## Ecce Homo.
+
+Le Christ, depouille de ses vetements, les mains liees derriere le dos et les reins ceints d'un linge blanc, a ete conduit au sommet d'un escalier dont on voit, a gauche,les dernieres marches,pour y etre fagellé et couronne d'epines. Appuye, plutot qu'assis, sur un billot de pierre, vers le milieu de la composition, le corps tourne de trois-quarts a gauche, le visage a la barbe et aux longs cheveux bruns legerement penche sur la poitrine, l'Homme de douleur attend son supplice et regarde avec une infinie tristesse les verges, les épines et le roseau, jetes a terre au premier plan, pres d'un bouclier, d'une robe violatre et d'une armure. Le sol, le billot et la muraille sont vivement éclaires par un rayon de lumiere venant de la gauche, et la figure du Christ, comme aureolée par cette lueur mysterieuse, se detache vigoureusement sur le ton verdatre des pierres. Au second plan et en contre-bas, vers la gauche, un homme que lon ne voit qu'a mi-corps, vetu d'une robe verte et coiffe d'un bonnet brun orne d'une plume, monte la garde, une hallebarde a la main, les yeux fixes sur le prisonnier. A droite, dans l'ombre, on distingue la silhouette d'un autre gardien.
+
+Toile.Haut.,77 cent.,larg.,65 cent. 1/2.
+
+Cite et reproduit par W.Bode,qui le dit execute vers 1628,dans lEuvre complet de Rembrandt,t.VIIl,p.47,n54;et par Rosenberg,Rembrandt,dans la coll.ds Klassiker der Kunst in Gesamtausgaben (3e éd.,revue par Valentiner;Leipzig et Stuttgart, 1go9), p.8.
+
+Voir aussi: Emile Bertaux, qui cite cette peinture au debut d'un article sur Trois chefs-dceuvre italiens de la collection Aynard, dans la Revue de lart ancien et moderne,t.XIX (1go6),p.82.
+
+<!-- image -->
+## REMBRANDT
+
+(Atelier de)
+
+Ecole hollandaise,xvil siecle.
+
+## 80
+
+## L'Ensevelissement du Christ.
+
+Dans une sombre grotte, le corps du Christ, enveloppe dans un suaire dont un homme debout retient les pans, va etre descendu dans le sepulcre;il est soutenu a gauche, sous les épaules, par une sainte femme, et aux pieds par un homme barbu, agenouille a droite. Des disciples et des saintes femmes, dont le visage exprime la desolation, assistent a la scene.
+
+La Vierge, assise a terre, au premier plan, dans une attitude accablee, tourne le dos au sepulcre et recoit les consolations d'une femme coiffee d'un turban et vetue d'un costume aux manches a creves, agenouillee a droite. Derriere elle,une autre femme, les yeux leves vers le ciel.
+
+Le groupe principal est eclaire par la lumiere que tient un homme, a gauche,penche sur le sepulcre,et dontil cache, dela main,la famme au spectateur; un autre homme, au premier plan de ce cote, porte egalement une lumiere, qu'il masque de son visage. A droite,pres de terre, une grosse lanterne; au-dessous, une aiguiere.
+
+En haut, derriere des personnages indistincts dans l'ombre,l'ouverture de la grotte,montrant a l'arriere-plan,le sommet du Calvaire, avec un groupe de curieux regardant les croix.
+
+Toile.Haut.,1 m,43;larg., 1 m.28.
+
+Cadre en bois sculpte, du temps de Louis XIV.
+
+Une peinture de Rembrandt,representant la meme composition, est conservee a la Pinacotheque de Munich (no 33o); cataloguee et reproduite par W. Bode, l'Euvre complet de Rembrandt (t. II,no 128). Cet auteur cite plusieurs copies de ce tableau, entre autres une copie datelier a la Galerie royale de Dresde (Bode, t. II,n 129);une autre a la Galerie de Brunswick; une autre, qui a passe a la vente Lormier (1763), en meme temps que celle de Dresde, achetee a cette vente.
+
+La peinture de Munich et celle de Dresde sont de dimensions moindres que le present tableau (Munich: H.om93;L.om69;Dresde: H.om 97;L.om68) et cependant la composition y est davantage en hauteur; la toile, arrondie du haut, laisse voir plus de ciel.
+## RUISDAEL
+
+(JACOB ISAACKS. VAN)
+
+Haarlem,1628 ou 1629Haarlem,1682.
+
+81
+
+## La Plage d'Egmond op Zee.
+
+Au-dessus de la mer, dont on apercoit une echappee a gauche de
+
+Au premier plan, a gauche, des filets qui sechent, des barils.Vers le milieu de la greve,une barque tiree a sec. On voit, a droite, les portes des habitations des pecheurs, creusees dans la dune et devant lesquelles sont plantes les piquets servant a etendre les filets.
+
+la greve qui occupe tout le milieu de la composition et du village qui se voit a droite, le vaste ciel bleu est envahi par une nuee dorage montant du fond du tableau. Les rayons du soleil, venant de la gauche, se glissent entre les lourds nuages blancs et gris, et inondent de lumiere certaines parties du paysage, tandis que les parties voisines restent dans l'ombre: c'est ainsi que la mer est vivement eclairee vers la ligne d'horizon, ou courent des barques aux voiles blanches, de meme que la dune et les barques de l'arriere-plan; un coup de soleil tombe egalement sur le milieu de la greve, animee de petits personnages : dames et gentilshommes conversant en groupe, enfants qui jouent ou conduisent une chevre, pecheurs, homme decouplant des chiens. Au contraire, tout le premier plan et la dune de droite, couronnee de maisons couvertes de tuiles et dominee par la tour carree d'une eglise, au toit pointu d'ardoises, restent sombres. Ces parties sombres et claires, ou semblent se mouvoir la lumiere, sont reliees entre elles par des passages de demi-teintes, de l'effet le plus juste et le plus delicat.
+
+Signe, dans l'angle inferieur droit, du monogramme : J. v. R.
+
+Toile. Haut. I m. o5; larg, I m. 59 1/2.
+
+Exposition de Maitres anciens a la Royal Academy de Londres, 1892.
+
+Reproduit dans le catalogue Sedelmeyer (ioo Paintings,by Old Masters),vol. VI,
+
+Collection H.Fowler Broadwood,Londres.
+
+p.5o,n°39,1g00.
+
+Cite par Emile Bertaux, au debut d'un article sur Trois chefs-d'euvre italiens de la collection Aynard, dans la Revue de lArt ancien et moderne, t. XIx (1go6), p.82.
+## TENIERS
+
+(DAVID,le Jeune)
+
+Anvers,161o Bruxelles,16go.
+
+82
+
+## Danse villageoise.
+
+Dans la cour d'une ferme,un couple danse, face au spectateur,au son de la cornemuse dont joue un vieux musicien vetu d'une souquenille bleue et coiffe d'un feutre gris,orne d'une plume, debout sur un tonneau: I'homme, en veste grise et chausses vertes, tient de la main gauche son bonnet rouge et, de la droite élevee, la main de la femme; celle-ci porte un corsage jaune, une jupe verte, un bonnet et un tablier blancs. Au premier plan, vers la gauche, un villageois en veste jaune, coiffe d'un bonnet grenat, est assis sur un banc, le bras passe autour du cou d'une villageoise en corsage rouge, assise a ses cotes; tous deux ont le dos tourne au spectateur. Devant eux, un couple enlace se dispose a suivre la danse : la femme est vetue d'une jupe grise et d'un corsage vert, I'homme est en jaune avec un bonnet rouge. Plus a gauche, conversent deux hommes, dont l'un tient un verre a la main; un troisieme se retire a l'ecart, tourne contre le mur. A droite,un tonneau, et plus loin,un petit chien blanc.
+
+Au fond,a gauche,la chaumiere, dont les murs se continuent par une palissade, au-dela de laquelle on apercoit, a droite, la campagne, avec un clocher pointant parmi les arbres. Une femme est debout a la porte de la ferme, regardant les danseurs.
+
+Ciel clair, avec quelques nuages a droite.
+
+Signe en bas, vers le milieu : D. Teniers F.
+
+Bois.Haut.,40 cent.1/2;larg.,54 cent.1/2.
+
+<!-- image -->
+## WIJNANTS
+
+(JAN)
+
+Haarlem,vers 1625Amsterdam,1684.
+
+83
+
+## Le Sentier.
+
+Au versant d'un coteau, laissant voir,vers la gauche,une échappee de paysage, une femme, portant un fardeau sur la tete, savance sur un sentier qui conduit a un bouquet d'arbres, au fond du tableau. A droite, sur un escarpement qu'entoure une barriere de bois, se dressent deux arbres superbes, dont le second est deja rougi par l'automne. A gauche, au premier plan,un tronc d'arbre renverse a terre. Deux hommes au loin, sur le sentier. Ciel nuageux, avec effet de soleil venant de la gauche.
+
+Signe au premier plan, vers la droite, des initiales : J. W.
+
+Bois.Haut.,20 cent.;larg.,17 cent. 1/2.
+
+<!-- image -->
+## Ecole Italienne
+
+## CRESPI
+
+(DANIELE)
+
+Busto Arsizio,15goMilan,163o.
+
+## Portrait d'homme.
+
+Il est vu a mi-corps, de trois-quarts a gauche, le visage de face,les yeux regardant a droite et vers le haut. Sur sa tete aux cheveux gris, aux fortes moustaches et a la barbiche grisonnantes, est pose un petit chapeau de feutre vert fonce.ll a le cou entoure d'une fraise blanche tuyautee; la main droite, ramenee sur la poitrine, est a demi engagee dans une ouverture de son pourpoint, de la meme couleur que le chapeau, et l'autre main appuyee sur la garde d'une épee, passee dans une large ceinture fauve, qui lui serre la taille. Aux poignets, des manchettes tuyautees comme la fraise.
+
+Fond verdatre.
+
+Toile de forme ovale.Haut.,94 cent.; larg.,77 cent.
+
+Exposition retrospective de Lyon (1877),n 195.
+## PANINI
+
+(GIOVANNI-PAOLO) Plaisance,1695 +Rome,1764.
+
+85
+
+## Le Port.
+
+PENDANT DU SUIVANT
+
+Au premier plan, un quai, au bord d'un bras de mer, avec, a gauche, le reste d'une haute arcade ruinee, soutenue par des colonnes de marbres de couleur. Sur l'autre rive, les ruines de deux vastes édifices, dominant le port; des barques amarrees, les voiles pendantes; parmi les debris d'architecture, une statue de cheval cabre, dressee sur un piedestal. A Iarriere-plan, vers la gauche,la mer.
+
+Toile, legerement cintree a la partie supérieure. Haut.,2m.65;larg.、2 m.5o.
+
+<!-- image -->
+## PANINI
+
+(GIOVANNI-PAOLO)
+
+86
+
+## Le Portique.
+
+PENDANT DU PRECEDENT
+
+Au premier plan, un imposant portique de marbre, lezarde par endroits et couronne d'herbes, donne sur un canal par une haute arcade centrale, fanquee de deux autres ouvertures que decorent des colonnes de marbres de diverses couleurs. Au dela du canal, s'etend une place bordee d'edifices, dont plusieurs sont en ruines et parmi lesquels on remarque,vers la droite, un palais a large perron, avec deux fenetres en arc brise, a demi masquees par un mur.
+
+Divers personnages sur la place, et au premier plan :un pecheur, deux hommes conversant ensemble, un troisieme endormi.
+
+Toile,legerement cintree a la partie superieure. Haut.,2 m.65;larg.,2 m.50.
+
+<!-- image -->
+## OBJETS D'ART DE
+
+## C HAUTE CURIOSITE ET D'AMEUBLEMENT
+<!-- image -->
+
+## CERAMIQUE
+
+## FAIENCES ORIENTALES
+
+## 87
+
+Deux carreaux en forme de croix, a fond de reflets metalliques, presentant des rinceaux disposes en volutes reservees en blanc, et bordes par un encadrement figurant des inscriptions simulees.
+
+Hauteur et largeur, 2g cent.
+
+Ancien travail persan.
+
+Ancien travail persan.
+
+## 88
+
+Deux carreaux de revetement en forme d'etoile a huit pointes. Ils sont decores d'oiseaux voltigeant au milieu de branchages reserves en blanc, avec rehauts de vert sur fond gros bleu.
+
+Larg.,20 cent.
+
+Quatre carreaux en forme d'etoile a huit pointes, decores d'animaux reserves en bianc ou en couleurs sur fond de palmettes et de fleurs a reflets metalliques.
+
+Bordure presentant des inscriptions simulees sur fond blanc.
+
+Hauteur et largeur,21 cent.
+
+Ancien travail persan.
+## 90
+
+Quatre grands carreaux en forme d'etoile a huit rais. ls sont decores de feuillages, feurettes et rinceaux reserves en blanc sur fond a reflets metalliques.
+
+Bordure blanche ornee d'inscriptions simulees. Ancien travail persan.
+
+Hauteur et largeur,31 cent.
+
+## 91
+
+Huit carreaux de revetement en forme d'etoile a huit pointes. Ils sont ornes de feuillages, de feurs stylisees et de motifs geometriques disposes au milieu d'un encadrement presentant des inscriptions simulees. Rehauts de refets metalliques.
+
+Ancien travail persan.
+
+## 92
+
+Quatre carreaux de revetement en ancienne faience de Damas. lls sont decores chacun de fleurs stylisees reservees en blanc, avec rehauts de vert et de bleu turquoise.
+
+Hauteur et largeur,26 cent.
+
+Larg,20 cent.
+a huit lobes.
+
+## 93
+
+Carreau de revetement en ancienne faience de Koubatcha, presentant un buste de femme dessine en manganese, avec rehauts de bleu de deux tons, et inscrit au milieu d'un medaillon
+
+Hauteur et largeur, 22 cent.
+
+## 94
+
+Deux petits carreaux en forme d'etoile a six pointes, presen-
+
+Bordure bleue.
+
+tant, lun un oiseau, l'autre un cerf se dirigeant vers la gauche et reserves en relief sur fond a reflets metalliques.
+
+Ancien travail persan.
+
+## 95
+
+Deux carreaux de revetement a champ gros bleu, ornes d'inscriptions en relief rehaussees d'or sur fond charge de rinceaux.
+
+Ancien travail persan.
+
+Exposition retrospective de Lyon, 1877.
+
+Larg., 15 cent.
+
+Haut.,34 cent.;larg.,33 cent.
+## 96
+
+Deux plaques de revetement, presentant des inscriptions en relief et en gros bleu sur fond de rinceaux en bleu turquoise, avec reflets metalliques.
+
+Ancien travail persan.
+
+Haut.,20 cent.;larg.,36 cent et 3g cent.
+
+## 97
+
+Grande plaque de revetement, presentant une double arcade a colonnettes bleu turquoise, abritant des inscriptions en relief emaillees gros bleu et se detachant sur un fond a reflets metalliques.
+
+Ancien travail persan.
+
+Haut.,51 cent.; larg.,31 cent.
+
+J.-B. Giraud, Recueil des principaux objets d'art ayant figure a lExposition retrospective de Lyon, 1877, planche XIx.
+
+## 98
+
+Vase a panse ovoide, orne de six medaillons reserves en blanc avec guirlandes de feurettes en noir et vert sur fond imbrique gros bleu.
+
+Ce vase a ete complete par une monture en cuivre grave avec couvercle.
+
+Ancienne faience persane.
+
+Hauteur du vase,32 cent.
+symetriquement.
+
+Exposition de Lyon, 1877.
+
+## 99
+
+Bol en ancienne faience persane, decore de feurs en reserve sur champ bleu, ainsi que de quatre reserves a croisettes ajourees. Au fond, quatre feurs epanouies en bleu sur blanc et disposees
+
+Diam.,24 cent.
+
+## 100
+
+Flacon-aspersoir piriforme, decore de branchages et d'ani maux en dorure sur fond gros bleu. Le col est garni d'une monture en metal repousse.
+
+Ancienne faience persane.
+
+Exposition de Lyon, 1894.
+
+## 101
+
+Grosse bouteille a panse piriforme cotelee; elle est decoree de branches feuillagees et d'oiseaux sur fond alternativement bleu et gris, a reflets metalliques.
+
+Ancienne faience de Perse.
+
+Exposition des arts musulmans. Paris, 1go3.
+
+Haut.,33 cent.
+
+Haut.,2g cent.
+## 102
+
+Bol polylobe a bords droits, legerement evases. Il est orne, a l'exterieur, d''une large frise portant des inscriptions reservees en bleu turquoise sur fond noir. A l'interieur, des palmettes ou des losanges sont disposes symetriquement autour de la piece.
+
+Ancienne faience persane.
+
+Haut.,11o millim.;diam.,182millim.
+
+## 103
+
+Bol a bords droits, decore, a l'interieur, de six compartiments rayonnants ornes de rinceaux jaunes sur fond bleu. A l'exterieur, large frise de rinceaux egalement emailles jaune sur champ bleu.
+
+Ancienne faience de Perse.
+
+Haut.,11o millim.; diam.,185millim.
+
+## 104
+
+Bol a bords evases, decore, a l'interieur, d’un medaillon a personnages, borde d'une inscription; ce medaillon est reserve en blanc sur fond jaune chamois a refets metalliques; au-dessus, des palmettes stylisees contenues dans des compartiments cernes de bleu. A la bordure, une frise de douze medaillons presentant des personnages, des palmettes ou des animaux.
+
+A l'exterieur, des zones d'ornements geometriques et d'inscriptions, celles-ci reservees en blanc sur fond mordore.
+
+Ancienne faience persane.
+
+Haut.,go millim.,diam.,207 millim.
+Exposition de Lyon,1894.
+
+## 105
+
+Vase en ancienne faience de Damas, a panse ovoide et a col droit cylindrique. ll est decore de branches feuries en bleu et rouge sur fond blanc. A la partie inferieure, des godrons simules. Le col est orne de palmettes reservees en blanc avec rehauts de rouge sur fond bleu.
+
+Expositions de Lyon,1877 et 1894.
+
+## 106
+
+Cruche en ancienne faience de Damas, a panse spherique et a col droit cylindrique, ornee de feurettes et de palmettes stylisees en vert et blanc sur fond gros bleu. Anse coudee a decor bleu.
+
+Exposition de Lyon,1894.
+
+Haut., 24 cent.
+
+## 107
+
+Grand hanap cylindrique en ancienne faience de Damas. Il est entierement orne de branches de jacinthe, d''eillets, de pivoines et de tulipes polychromes sur fond blanc. En haut et en bas,bordure etroite a compartiments de petites feurettes sur champ gros bleu. Anse coudee a decor bleu.
+
+Haut.,3o cent.
+
+Haut.,ig cent.
+Exposition de Lyon,1894.
+
+## 108
+
+Petite cruche en ancienne faience de Damas,a panse spherique surmontee d'un col droit. Elle est ornee de palmettes et de feurs en vert et bleu turquoise sur fond bleu. Anse coudee a decor bleu etvert.
+
+Haut.,18 cent.
+
+## 109
+
+Gros vase en ancienne faience de Damas. La panse ovoide est decoree de feurs epanouies et de menus rinceaux en bleu et vert sur champ blanc. La base presente une frise de godrons simules en bleu sur fond blanc, et le col, une frise de rinceaux feuris reserves en blanc et vert sur fond bleu.
+
+Haut.,29 cent.
+
+Expositions de Lyon,1877 et 1894.
+
+## 110
+
+Grande bouteille en ancienne faience de Damas. Elle est decoree, sur la panse et sur le col, de vases émailles bleu turquoise ainsi que de branches de feurs reservees en blanc et de tulipes gris-bleute. Sur le pied, des tulipes et des branches de feurs renversees. Col en cuivre repousse.
+
+Hauteur totale,53 cent.
+Exposition de Lyon,1877.
+
+Exposition de Lyon, 1894.
+
+## 111
+
+Plat creux a bords legerement festonnes, en ancienne faience de Damas ou de Rhodes. ll est decore d'un bouquet compose de chromes.Bordure formee de compartiments et de spirales ver- tulipes bleues a points rouges, d'ceillets et de jacinthes polymiculees vert olive et bleu, avec reserves blanches.
+
+Diam.,37 cent.
+
+## 112
+
+Plat creux a bords legerement festonnes,en ancienne faience de Damas.Il est decore, sur fond blanc,d'un ceillet stylise au centre, et de feurettes en vert, bleu fonce et bleu turquoise, formant encadrement.
+
+Au marli et sur la chute, des fleurs et des feurettes dispo- sees en maniere de rinceaux entre des filets ondules.
+
+Au revers, huit bouquets de tulipes vert olive, symetriques.
+
+Diam,38 cent.
+Exposition de Lyon,1894.
+
+## 113
+
+Plat rond en ancienne faience de Damas. ll est orne d'un cypres place au milieu de tulipes et de roses largement epanouies, disposees symetriquement de chaque cote.
+
+Bordure étroite formee de fots.
+
+Expositions de Lyon,1877 et 1894.
+
+## 114
+
+Plat creux en ancienne faience de Damas. Il est decore, sur champ blanc,d'une feur largement épanouie,émaillee bleu fonce et bleu clair,et de larges palmes vertes et manganese formant encadrement. Bords legerement ondules.
+
+Au marli, des compartiments de spirales vermiculees en vert olive et bleu, avec reserves a fond blanc.
+
+Au revers,des feurettes epanouies en vert et manganese et des bouquets de tulipes vertes et bleues disposees symetriquement.
+
+Diam.,36 cent.
+
+Diam.,2g cont.
+## 115
+
+Plat creux a bords legerement festonnes, en ancienne faience de Damas. Il est decore, au fond, de quatre grosses feurs epanouies, disposees symetriquement et entourees chacune de branches feuillagees, emergeant d'une rosace centrale, le tout dessine en bleu, vert et manganese sur champ vermicule creme.
+
+culees vert olive et bleu sur fond blanc.
+
+Expositions de Lyon,1877 et 1894.
+
+## 116
+
+Plat creux en ancienne faience de Damas a fond bleu fonce. Il est decore d'un bouquet compose d'ceillets epanouis et de grosses pivoines dessines en manganese, bleu et bleu turquoise, avec branchages reserves en blanc.
+
+Deux branches feuries reservees en blanc sur le pourtour du plat forment l'encadrement. Au revers du marli, des roses epanouies et des tulipes.
+
+Diam.,31 cent.
+
+La bordure se compose de compartiments a spirales vermi-
+
+Au revers, des feurettes epanouies et des bouquets de tulipes, disposes symetriquement.
+
+Diam.,35 cent.
+
+Expositions de Lyon,1877 et 1894.
+## 117
+
+Plat rond en ancienne faience de Damas, presentant sur fond rouge, des pivoines, des ceillets et des palmes dessines en bleu fonce et vert et rehausses de gouttelettes d'email rouge. Etroite bordure a feurettes reservees en blanc et pointillees de rouge sur champ gros bleu.
+
+Au revers, des feurs epanouies et des tulipes disposees symetriquement en bleu fonce et vert.
+
+Diam.,34 cent.
+
+Expositions de Lyon, 1877 et 1894.
+
+## 118
+
+Plat creux en ancienne faience de Damas, decore, au fond, d'un medaillon circulaire presentant des feurs et des palmettes en bleu et en rouge sur champ bleu turquoise, et encadre de festons bleus avec points rouges en relief.
+
+Bordure a spirales vermiculees bleu et vert olive.
+
+Au revers, des rosaces et des feurettes sommairement dessi- nees en bleu et vert olive.
+
+Expositions de Lyon,1877 et 1894.
+
+Diam., 36 cent.
+## 119
+
+Plat creux en ancienne faience persane. Il est decore de feurettes, de touffes de feuilles et de gros fruits stylises, dessines
+
+Diam.,32 cent.
+
+en noir sur fond bleu turquoise.
+
+## 120
+
+Plat creux en ancienne faience de Boukhara, a bords legere- ment ondules ; fond jaune chamois charge de bouquets de tulipes blanches rehaussees de bleu et de larges feuilles gris-bleu pointillees de rouge, disposees symetriquement autour d'un bouquet de petites fleurs epanouies.
+
+Marli orne des memes feurs et feuilles disposees symetri- quement.
+
+Revers du marli émaille de meme.
+
+## 121
+
+Plat creux en ancienne faience de Rhodes. ll presente un bouquet de tulipes,d'ceillets et de feuilles polychromes sur fond blanc.
+
+Bordure a spirales vermiculees vert olive et bleu.
+
+Diam.,31 cent.
+
+Expositions de Lyon,1877 et 1894.
+
+Diam.,32cent.
+## 122
+
+Plat creux en ancienne faience de Rhodes. ll presente quatre bateaux grees de voiles bleues avec points rouges et voguant sur des fots sommairement traces.
+
+Bordure etroite a decor geometrique.
+
+Expositions de Lyon, 1877 et 1894.
+
+## 123
+
+Plat creux a bords legerement festonnes en ancienne faience de Rhodes. ll est decore de palmettes stylisees et de feurs epanouies en bleu,rouge et vert, disposees symetriquement autour d'une rosace centrale.
+
+Bordure a compartiments de spirales vermiculees vert olive et bleu avec reserves blanches.
+
+Expositions de Lyon, 1877 et 1894.
+
+## 124
+
+Plat rond en ancienne faience de Rhodes. Il presente, sur fond rouge, un arbuste feuri reserve en blanc. Pres de la racine: une gerbe de tulipes et une touffe de feuilles.Encadrement forme d'une course de rinceaux bleus et verts.
+
+Bordure a entrelacs reserves en blanc avec points d'email rouge saillants.'
+
+Expositions de Lyon, 1877 et 1894.
+
+Diam.,2g cent.
+
+Diam., 29 cent.
+
+Diam.,335millim,
+## 125
+
+Plat creux en ancienne faience de Rhodes. ll presente un bateau a trois mats charges de voiles,voguant sur les fots. Le bateau est dessine en noir et les agres en bleu et en rouge. Les fots sont traces en bleu et rehausses de points d'email rouge en leger relief.
+
+Bordure a spirales vermiculees vert olive et bleu avec reserves en blanc.
+
+Expositions de Lyon,1877 et 1894.
+
+## 126
+
+Plat creux en ancienne faience de Rhodes. ll est decore d'un grand medaillon charge de larges palmettes dessinees en bleu et en vert, avec rehauts de rouge, et se detachant sur un fond de spirales vertes
+
+Ce medaillon est borde par une couronne formee de feuilles emaillees bleu fonce et bleu turquoise.
+
+Au marli, cinq reserves a gros rinceaux alternent avec des compartiments a spirales vermiculees vert olive sur fond bleu.Au revers, des feurettes epanouies disposees symetriquement.
+
+Diam.33cent.
+
+Diam.,36 cent.
+## 127
+
+Cruche en ancienne faience de Rhodes, a panse piriforme et a col legerement evase; decor de godrons simules en bleu et en rouge.
+
+Haut.,2I cent.
+
+## 128
+
+Petite cruche en ancienne faience de Rhodes,ornee de reserves blanches pointillees d'email rouge sur fond imbrique vert.Anse coudee a decor bleu.
+
+Haut.,21 cent.
+
+Exposition retrospective de Lyon, 1877.
+
+## 129
+
+Petite cruche en ancienne faience de Rhodes. Elle est ornee de larges feuilles dessinees en vert olive et rehaussees de bleu sur fond vert clair. Anse coudee a decor bleu.
+
+Haut., 21 cent.
+
+Exposition de Lyon,1894.
+turquoise et vert olive.
+
+## 130
+
+Cruche, en ancienne faience de Rhodes,a panse piriforme entierement ornee de godrons simules bleus,a feurettes reservees en blanc et pointillees de rouge, avec bordure rouge en relief, alternant avec des reserves blanches presentant des bandes bleu
+
+Au col, double bordure de motifs geometriques rouges.
+
+Anse coudee decoree en bleu.
+
+Expositions de Lyon,1877 et 1894.
+
+## 131
+
+Hanap cylindrique en ancienne faience de Rhodes. l est entierement orne de feurettes reservees en blanc sur fond rouge. Anse laterale decoupee, a decor bleu et vert.
+
+Expositions de Lyon,1877 et 1894.
+
+Haut.,23 cent.
+
+Haut.,35 cent.
+Exposition de Lyon,1877.
+
+Exposition de Lyon, 1877.
+
+## 132
+
+Cruche en ancienne faience orientale. Elle est entierement ornee d'animaux disposes au milieu de rinceaux sur fond blanc. Anse coudee decoree en bleu gris.
+
+Haut., 23 cent.
+
+## 133
+
+Coupe a bords festonnes, de forme circulaire, sur pied bas et decoree de bouquets feuris dessines en bleu sur fond blanc. Bordure a compartiments vermicules.Ancienne faience orientale.
+
+Diam.,32 cent.
+
+Vase en ancien gres de la Chine, epoque des Ming, orne d'animaux chimeriques et de dragons sur fond bleu turquoise.
+
+Haut.,28 cent.
+## FAIENCES HISPANO-MAURESQUES
+
+## ET ITALIENNES
+
+## 135
+
+Plat creux a ombilic, en ancienne faience hispano-mauresque a reflets metalliques. Il est decore de petits arbustes stylises, separes par un motif geometrique inscrit dans un losange et disposes symetriquement.
+
+Diam.,3g cent.
+
+## 136
+
+Plat a ombilic, en ancienne faience hispano-mauresque a reflets metalliques. Il est decore, au centre, d'une feur de lys et, sur le fond et le marli, de palmettes stylisees et de menus branchages.
+
+Revers orne de cercles concentriques et de larges palmettes sommairement dessinees.
+
+Diam.,40 cent.
+
+## 137
+
+Plat creux a ombilic, en ancienne faience hispano-mauresque a refets metalliques. Il est orne,au fond, de trois poissons disposes symetriquement et, sur le marli, de trois larges palmettes rehaussees de bleu.
+
+Diam.,40 cent.
+## 138
+
+Plat creux a ombilic, en ancienne faience hispano-mauresque a reflets cuivreux. Le centre est divise en deux parties dont une tout unie est surmontee de motifs stylises presentant des arbustes, des feuilles et des clotures.
+
+Diam., 4o cent.
+
+## 139
+
+Plat a ombilic,en ancienne faience hispano-mauresque a reflets metalliques. Il est orne, sur l'ombilic, d'un écusson armorie et,alentour,d'un motif rayonnant a compartiments.La decoration du marli se compose de cannelures en legere saillie et de palmettes stylisees disposees en trois zones superposees.
+
+Au revers, larges palmettes stylisees inscrites dans des rinceaux. Sous l'ombilic,rosace rayonnante.
+
+Diam.,465millim.
+
+## 140
+
+Deux cornets en ancienne faience hispano-mauresque a refets metalliques. Ils sont decores de zones de fleurettes et de rinceaux bleus et mordores sur fond blanc.
+
+Haut., 3o cent.
+## 4
+
+Vase de pharmacie, en faience de Caffaggiolo; de forme cylindrique,il presente un etranglement en biseau au col et au pied; la panse est decoree d'un oiseau chimerique et d'un pelican dessines en bleu et inscrits chacun dans une reserve a fond blanc.
+
+Sur les cotes, des rinceaux et de menus branchages en bleu. Sur le col, des entrelacs egalement en bleu sur fond blanc. Fin du xve siecle.
+
+Haut.,25cent.
+
+## 142
+
+Vase de pharmacie en faience de Sienne, portant une inscription en lettres gothiques bleues, disposee au-dessus d'une frise de palmettes stylisees dessinees en bleu avec rehauts de blanc sur fond ocre. Sur lepaulement et a la base, une couronne d'entrelacs reservee en blanc sur champ bleu avec points emailles jaune d'ocre. Fin du xve siecle.
+
+## 143
+
+Vase de pharmacie en faience de Faenza; de forme cylindrique, il est decore d'un buste de femme, la tete tournee vers l'epaule droite, place sous une arcature et au-dessus d'une inscription en lettres gothiques en bleu sur fond blanc. Sur l'epaulement en biseau, une couronne de feuillages dessinee en bleu avec rehauts de jaune. Commencement du xvie siecle.
+
+Haut.,23 cent.
+Vase de pharmacie en faience de Faenza. ll presente un buste d'homme de profl a droite inscrit sous une arcature et au-dessus d'une inscription en lettres gothiques bleues sur fond blanc.
+
+Au revers, un buste d'homme, tourne de trois-quarts a gauche, coiffe d'un bonnet vert et vetu d'une tunique jaune. Commencement du xvie siecle.
+
+Haut.,25 cent.
+
+Vase a deux anses et a panse spherique, place sur un piedouche et muni de deux anses laterales; decor de cartouches, de godrons simules et de rinceaux en jaune chamois,a reflets metalliques sur fond bleu. Dans un cartouche, de chaque cote, l'inscription:FELIce B.
+
+Faience de Deruta, xvie siecle.
+
+Haut.,3o cent.
+## 146
+
+Vase de pharmacie a panse ovoide, en faience de CastelDurante. ll est decore d'attributs guerriers et d'un medaillon a figure allegorique de femme drapee passant vers la gauche; il porte dans un cartouche linscription : Codogni. xvr siecle.
+
+Haut.,2g cent,
+
+## 147
+
+Deux vases de pharmacie en faience de Venise; ils sont ornes, d'un cote, d''un buste d'homme et d'un buste de femme portant en lettres gothiques bleues, sur fond blanc, linscription : @ostarda, f. Le reste de la decoration consiste en larges rinceaux, figures de cherubins, bustes et mascarons polychromes sur champ gros bleu. xvie siecle.
+
+Haut.,35cent.
+## 148
+
+Deux gros vases de pharmacie a panse ovoide. lls sont ornes d'un paysage montagneux avec habitations ainsi que d'une noix decoree au naturel, disposee au centre d'un cartouche decoupe.
+
+Sur l'epaulement,une frise de rinceaux polychromes sur fond blanc.
+
+Castel-Durante,xvre siecle.
+
+## 149
+
+Vase de pharmacie a panse ovoide. ll est muni de deux anses laterales en forme de dauphins et d’un goulot-deversoir.
+
+Il presente, sur la face, un ecusson orne d’un canard eserve en blanc sur fond bleu et dispose au-dessus d'une banderole portant une inscription en lettres romaines. Le reste de la decoration consiste en cariatides dessinees en jaune sur champ bleu.
+
+Faience italienne, xvr siecle.
+
+Haut.,32 cent.
+
+Haut.,38 cent.
+## OBJETS VARIES
+
+## 150
+
+Vitrail rectangulaire en couleurs, representant un éveque debout,mitre,vetu de ses ornements sacerdotaux et tenant une croix de la main droite.xvi siecle.
+
+Haut.,54 cent.;larg.,37 cent.
+
+et coiffe de rouge.
+
+## 151
+
+Vitrail rectangulaire, peint en grisaille sur fond bleu damasse,
+
+Haut.,52 cent.;larg.,31 cent.
+
+representant la Crucifixion. xve siecle.
+
+## 152
+
+Vitrail rond, presentant le portrait de Clement Vlll, vetu
+
+Bordure d'oves juxtaposees. Fin du xvie siecle.
+
+Diam.,25 cent.
+Vente Spitzer, 1893.
+
+Miniature sur velin, presentant un saint personnage agenouille, en adoration devant la Vierge et l'Enfant Jesus. Fond de paysage avec habitations. Dans le haut, Dieu le Pere dans une gloire. D'apres Thierry Bouts, xve siecle.
+
+Haut., 105 millim., larg., 65 millim.
+
+Vente La Beraudiere.
+
+## 153
+
+Miniature sur velin, presentant une composition a nombreux personnages : la Crucifixion.
+
+Italie du Nord. Fin du xve siecle.
+
+Haut., 13o millim.; larg., 95 millim.
+
+## 155
+
+Miniature sur velin de forme rectangulaire,representant la Vierge a mi-corps, couronnee, couverte d'un manteau bleu et tenant sur le bras droit l'Enfant Jesus, a qui elle offre un fruit. Bordure composee d'un groupe d'anges ailes dessines sur fond bleu.
+
+Travail famand, xve siecle.
+
+Haut., 165 millim; larg., 12o millim.
+Vente Castellani, a Paris.
+
+## 156
+
+Reliquaire en argent grave. ll affecte la forme d'un monument rectangulaire fanque de montants simulant des tourelles crenelees et porte une inscription en lettres gothiques indiquant qu'il fut offert,le 1er juin 1487,par le Vicomte Claude Armand de Polignac. Le toit a rampants, surmonte d'une croix ebranchee, est orne d'un ecusson en cuivre émaille aux armes de la famille de Polignac.
+
+Travail francais,xve siecle.
+
+## 157
+
+Baiser de paix en argent grave et en partie émaille. ll est orne, au centre, d'une plaquette niellee presentant le Christ mort sur les genoux de la Vierge. Cette plaquette est placee sous une arcature gothique trilobee decoree de feurons et de clochetons. xve siecle.
+
+Haut., 2o cent.; larg.,9 cent.
+
+## 158
+
+Petit gobelet avec couvercle, en argent repousse et dore, de forme evasee, reposant sur un piedouche. Il est orne d'amours ailes soutenant des guirlandes de feurs et de fruits. La base est decoree de tetes de cherubins et le couvercle est surmonte d'une petite figure de guerrier tenant un serpent et un faucon. xvre siecle.
+
+Haut.,28cent.
+
+Haut.,26 cent.;larg., 18 cent.
+## 159
+
+Brule-parfums en argent cisele, de forme circulaire. Il est decore, au pourtour, de medaillons a bustes de personnages : homme et femme. La partie superieure repercee est ornee d'enfants disposes sur des cornes d'abondance. Les pieds sont composes de sirenes casquees.
+
+Travail espagnol, xvre siecle.
+
+## 160
+
+Paire de chandeliers en cuivre grave. Ils sont formes d'une tige a balustre ajoure, reposant sur une base circulaire ornee de cannelures disposees en rayons. Le haut de la tige est cantonne de quatre volutes ajourees.
+
+Travail venitien,fin du xvie siecle.
+
+## 161
+
+Grand oiseau en bronze incruste, debout, les ailes eployees et tenant sur le dos un petit brule-parfums.
+
+Ancien travail chinois.
+
+Vente Hayashi.
+
+Haut.,15 cent.
+
+Haut.,35 cent.
+
+Haut., 47 cent.
+## 162
+
+Vase avec couvercle, simulant un animal chimerique, en bronze partiellement incruste de malachite; decor de nervures
+
+Ancien travail chinois.
+
+saillantes. La queue de I'animal forme l'anse.
+
+Pied en bois dur.
+
+## 163
+
+Casque oriental en fer damasquine et grave. ll est orne de cannelures ainsi que de deux bandes presentant des inscriptions, des rinceaux et des entrelacs. xve siecle.
+
+Haut.,34cent.
+
+Aiguiere de forme aplatie, en cuivre grave et en partie dore.
+
+Elle est munie d'un deversoir et de deux anneaux de suspension. Ancien travail persan.
+
+Haut., 28 cent.
+
+Haut., 24 cent.
+## 165
+
+Chope en etain, de forme cylindrique. Elle est ornee de trois medaillons ovales, decores de figures allegoriques : Patientia, Solertia, Non-vi, separees par des rinceaux fleuris. Le couvercle presente des mascarons et des rinceaux et l'anse est figuree par une cariatide a buste de femme. xvre siecle.
+
+Exposition retrospective de Lyon,1877.
+
+## 166
+
+Plateau d'aiguiere en etain,modele dit:A la Temperance, par Francois Briot.xvi siecle.
+
+Sur l'ombilic godronne,la Temperance assise tenant une aiguiere. Au pourtour, quatre medaillons a figures allegoriques offrant :l'Air, lEau, la Terre et le Feu. Sur le marli, huit medaillons ovales representant :Minerve,1'Arithmetique,la Musique, la Rhetorique, la Dialectique, la Grammaire, 1'Astro- logie,la Geometrie, et separes les uns des autres par des cariatides, des mascarons ou des rinceaux.
+
+Au revers du plat, sous l'ombilic, la medaille de Francois Briot, en buste, tourne de profl a droite, avec la legende : Sculpebat Franciscus Briot.
+
+Diam.,45 cent.
+
+Exposition retrospective de Lyon, 1877.
+
+Haut.,18 cent.
+## 167
+
+Plateau d'aiguiere en etain, de forme circulaire. ll est orne, sur l'ombilic, d'un medaillon offrant Adam et Eve dans le paradis terrestre.Au fond, des medaillons ovales a figures allegoriques representant : Minerve,1'Astronomie, la Rhetorique, la Musique, la Grammatique,l'Arithmetique et separes par des cariatides, des mascarons et des rinceaux.
+
+Au marli, douze Empereurs romains a cheval. Allemagne,fin du xvi siecle.
+
+Exposition retrospective de Lyon, 1877.
+
+## 168
+
+Plateau d'aiguiere en etain, de forme circulaire. ll est decore, sur l'ombilic, d'un medaillon contenant le sujet de Suzanne et les Vieillards. Au fond, quatre compartiments separes par des mascarons et presentant des compositions a nombreux person- nages, ayant trait a l'Ancien Testament.
+
+Sur le marli, six compositions reliees par des mascarons et relatives a l'histoire de lEnfant prodigue. Allemagne,fin du xvI siecle.
+
+Exposition retrospective de Lyon, 1877.
+
+Diam., 465 millim.
+
+Diam., 465 millim.
+## 169
+
+Aiguiere a panse ovoide et sur piedouche, munie d'une anse formee d'une cariatide de femme. La panse est decoree, sur trois zones, d'ornements presentant des cariatides, des medaillons a figures allegoriques, des mascarons et des chevaux ailes au milieu de rinceaux.
+
+Etain. Travail allemand, fin du xvie siecle.
+
+Haut.,29 cent
+
+## 170
+
+Petit coffret de forme rectamgulaire,a couvercle plat, en cuir grave et dore, a decor de rinceaux. ll est muni d'une monture en fer a poignee mobile, avec serrure a moraillon.
+
+Italie, xve siecle.
+
+Long., 14 cent.; larg.,9 ceint.
+## EMAUX PEINTS
+
+Volet de triptyque en email peint de Limoges, par Nardon Penicaud.
+
+Il represente saint Jean-Baptiste debout, ayant l'agneau a ses pieds, et vetu d'une tunique marron,recouverte d'un manteau vert rehausse de points d'émail simulant des pierreries.
+
+Il est place sous une arcature gothique trilobee ornee de feurons. Au-dessus de sa tete, une inscription latine en lettres noires, sur une banderole blanche. Fin du xve siecle.
+
+Haut.,21 cent.;larg,7 cent.
+
+## 172
+
+Plaque rectangulaire en email peint en couleurs, presentant le Christ devant Pilate. Limoges, xvr siecle.
+
+Haut.,165 millim.; larg., 125 millim.
+
+## 173
+
+Plaque rectangulaire en email peint de Limoges, presentant s sainte Veronique debout sous un portique, tenant des deux mains le voile sur lequel apparait la Sainte Face. Emaux en couleurs sur fond noir. xvie siecle.
+
+Haut., 16o millim.; larg., 125 millim.
+## IVOIRES
+
+## 174
+
+Petit groupe en ivoire,representant la Vierge debout, drapee de long, voilee et couronnee; un manteau lui couvrant les epaules, est fixe sur sa poitrine par un bijou ornemente. Sur son bras droit est assis I'Enfant Jesus portant un fruit. Dans sa main gauche, elle tient un bouquet de feurs.
+
+Travail francais, xile siecle.
+
+## 175
+
+Petit groupe-applique en ivoire sculpte : la Vierge assise, drapee et voilee, tenant,assis sur son bras gauche,lEnfant Jesus benissant. De la main droite, elle lui presente un fruit.
+
+Travail francais, fin du xive siecle.
+
+Haut., 10o millim.; larg., 65 millim.
+
+## 176
+
+Plaque rectangulaire, en ivoire sculpte, ayant forme le couvercle d'un coffret, presentant, disposees sous quatre arcades feuronnees et juxtaposees, des scenes a deux personnages ayant trait a un roman d'amour.
+
+Travail francais, xive siecle.
+
+Haut.,16 cent.
+
+Long., 136 millim.,; larg, 8o millim.
+## 177
+
+Volet gauche de diptyque, en ivoire sculpte en haut relief, presentant la Vierge debout,voilee,couronnee,portant, assis sur le bras gauche, 1'Enfant Jesus. A ses cotes, deux saintes femmes et deux anges ceroferaires. Ces personnages sont places sous une arcature trilobee ornee de feurons. A la partie superieure, un ange soutient la couronne de la Vierge, et dans les coins sont disposees deux rosaces quadrilobees.
+
+Travail francais, xive siecle.
+
+Haut.,135millim.;larg.,105millim.
+
+## 178
+
+Plaquette en ivoire sculpte en bas-relief. Elle est ornee de quatre sujets a personnages disposes sous des arcades lobees et figurant des scenes tirees d'un roman d'amour. Dans les arcades, divers mascarons grimacants.
+
+Travail francais, xive siecle.
+
+Haut., 137 millim,;larg.,9o millim.
+
+Ancienne collection Didier Petit.Paris,1843.
+## 179
+
+Petite plaquette, de forme rectangulaire, en ivoire sculpte en bas-relief. Elle est divisee en deux registres superposes, a sujets figurant l'Adoration des Rois Mages et la Mise au tombeau, disposes chacun sous six arcades feuronnees.
+
+Travail francais, xive siecle.
+
+## 180
+
+Coffret rectangulaire,a couvercle plat,en ivoire.ll est decore, sur toutes ses faces, de medaillons circulaires ornes de rinceaux et de divers animaux et oiseaux.
+
+Sur la bordure, une inscription en caracteres arabes.
+
+Monture en cuivre dore.
+
+Travail oriental, xve siecle.
+
+## 181
+
+Buste et deux mains de Vierge, en ivoire sculpte.
+
+Travail espagnol, fin du xvie siecle.
+
+Vente Laforge, a Lyon,1847.
+
+J.-B. Giraud, Recueil des principaux objets d'art ayant figure a l'Exposition retrospective de Lyon, 1877.
+
+Haut., 97 millim.,; larg., 58millim.
+
+Long., 18 cent.; larg.,11 cent.
+## 182
+
+Bustes de deux personnages grotesques, accoles et émergeant d'une couronne feuillagee. Ivoire sculpte enrichi de cabochons en grenat.
+
+Travail famand,xvr siecle.
+
+## 183
+
+Bas-relief-applique en ivoire sculpte, presentant la Vierge, disposee au-dessus d'une console a tete de cherubins; elle est vue a mi-corps, allaitant l'Enfant Jesus pose sur un coussin orne de glands.
+
+Travail famand,xvie siecle.
+
+## 184
+
+Couvercle de forme circulaire en ivoire sculpte, presentant un personnage, émergeant d'une coquille, tenant un livre ouvert, et dispose au centre d'une large volute feuillagee.
+
+Travail famand, xvie siecle.
+
+Haut.,6 cent.
+
+Haut., 18 cent.; larg., 10 cent.
+## BIJOUX
+
+## 185
+
+Bijou en or émaille, presentant un pelican aux ailes eployees, emaille en blanc,avec reserves d'or,et enrichi de cabochons d'emeraude;il tient dans ses pattes deux perles baroques. Ce bijou est muni de deux chainettes de suspension reunies par une applique emaillee, ornee d'une perle baroque. xvr siecle.
+
+## 186
+
+Bijou-pendeloque en or emaille en couleurs, enrichi de perles baroques et representant la roue, attribut de sainte Catherine. Sur l'une des faces, la sainte est figuree debout tenant l'epee. Au revers est fixe un cabochon de grenat. xvie siecle.
+Bijou-pendeloque en or émaille, presentant un aigle aux ailes eployees, tenant dans ses serres un quadrupede. Ce motif est dispose au-dessus d'un rinceau emaille en blanc et vert, enrichi d'un cabochon de pierre rouge, et auquel sont suspendues trois
+
+## 188
+
+Croix en or émaille portant le Christ. Elle est ornee de la tete de mort émaillee en blanc et les branches sont garnies de petites perles baroques.
+
+Travail espagnol, xvr siecle.
+
+Petit bijou-pendeloque en cristal de roche et or emaille, representant une nef a un mat. Sous la coque sont suspendues trois petites perles. xvie siecle.
+
+perles baroques.xvie siecle.
+## MEDAILLES
+
+190
+
+Lionel d'Este,par Vittore PisANo.
+
+Buste a gauche, imberbe, les cheveux frises. Pourpoint d'etoffe brodee:LEONELLVS. MARCHIO. ESTENSIS.D.FERRARIE. REGII.ET. MVTINE.—GE.R.AR.
+
+R. Un amour nu et aile developpe devant un lion tourne vers la droite une banderole. Au fond,un pilier sur lequel est figuree en relief une voile attachee a un mat, avec la date M.ccccxLilll. Dans le champ : OPvs. PISANI. PICToRIS.
+
+Bronze.
+
+Armand, I, page 3, n 8.
+
+Diam., 97 millim.
+
+## 191
+
+Sigismond Pandolfe Malatesta, seigneur de Rimini, par Matteo DE PAsTI.
+
+Buste a gauche, tete nue, les cheveux coupes droit sur le front, formant par derriere une masse bouclee: sIGIsMvNDvs. PANDVLFVS. DE.MALATESTIS.S. RO.ECLESIE.C. GENERALIS.
+
+R. Le chateau de Rimini, compose de plusieurs tours carrees et d'une enceinte de murailles avec porte et poterne. cAsTELLvM. SISMONDVM.ARIMINENSE. MCCCCXLVI.
+
+Bronze.
+
+Armand, I, page 19, n 8.
+
+Diam.,83millim.
+## 192
+
+Isotta Atti de Rimini, femme de Sigismond Pandolfe Malatesta,par Matteo DE PAsTI.
+
+Buste a droite, la tete couverte d'une coiffe maintenue par deux rubans croises; du fond de la coiffe s'échappent les cheveux qui tombent en arriere, formant deux touffes finissant en pointe. Elle porte un corsage montant : D. ISoTTAE. ARIMINENsI.
+
+R. Elephant marchant a droite. MccccxLvI. Bronze.
+
+Armand, I, page 21, n° 19.
+
+Girolamo Savonarola.
+
+Buste a gauche, la tete couverte d'un capuchon: HIERoNyMvs. SAVO.FER.VIR.DOCTISSS ORDINIS.PREDICHARVM.
+
+R. Une main armee d'un poignard sortant d'un nuage menace la ville de Florence:GLADIVS.DOMINI. SVP. TERAM. CITO. ET. VELOCITER.
+
+Ferrare. Fin du xve siecle.
+
+Bronze.
+
+Armand, II, page 46, n°17.
+
+Diam.,78 millim.
+
+## 193
+
+Diam.,6o millim.
+## 194
+
+Le Pape Jules II, Guiliano della Rovere.
+
+Buste a droite de Guiliano della Rovere, tete nue, vetu de 1'habit ecclesiastique: IVLIANVS. EPs. OSTIEN. CAR. s. P. ADVINcVLA.
+
+R. Buste a droite de Clemente della Rovere. CLEMENs DE. RVVERE.EPS.MIMATEM.
+
+Rome.
+
+Bronze.
+
+Armand, Il, page 1o9,n°2.
+
+Ruggieri, Tommaso.
+
+Buste a droite, coiffe d'un bonnet, les cheveux longs et boucles:RVGERIVS.THOMAS.II.
+
+R. Reunion des instruments de l'etude, tels que: écritoire, livres, sablier, globe, compas, equerre, fambeau. Sans legende. Bologne.
+
+Bronze.
+
+Armand, II, page 67, n° 3o.
+
+Diam., 72 millim.
+
+## 195
+
+Diam., 61 millim.
+## 196
+
+Tete imberbe de profil a gauche, couverte d’un capuchon
+
+R.Deux mains jointes. Sans legende.
+
+Bronze. Fin du xve siecle.
+
+## 197
+
+Louis XII et Anne de Bretagne. Lyon, Nicolas et Jean de
+
+SAINT-PRIEST,1499.
+
+Buste du roi, de profil a droite; le champ est seme de feurs de lyS: FELICE. LVDOVICO. REGNATE. DVODECIMO. CESARE. ALTERO. GAvDET. OMNIs. NAcIo. Exergue:un lion passant.
+
+R.Buste de la reine de profil a gauche. Le champ est seme de fleurs de lys et d'hermines : LVGDvN. RE. PVBLICA GAVDETE. BIs. ANNA. REGNANTE. BENIGNE. SIC.FVI.CONFLATA. I499.Exergue: un lion passant.
+
+Bronze dore.
+
+F.Mazerolle, les Medailleurs Francais, n° 27.
+
+Diam.,3gmillim.
+
+Diam., 114 millim.
+## 198
+
+Philibert le Beau et Marguerite d'Autriche.
+
+Buste a droite de Philibert le Beau, coiffe d'un bonnet, les cheveux longs, et buste a gauche, face a face, de Marguerite, la tete couverte d'une coiffe. Dans le champ, des marguerites et les briquets de Bourgogne. Au pourtour, la legende : PHILIBERTvs. DVX.SABAVDIE.VIII.MARGVA.MAXI.CAE.AVG.FI.D.SA.
+
+Savoie.
+
+Sans revers. Bronze.
+
+F.Mazerolle, les Medailleurs francais,n 31.
+
+## 199
+
+Charles IX, roi de France.
+
+Buste de trois quarts a gauche,barbu, coiffe d'une toque a plumes inclinee sur l'oreille gauche. ll est couvert d'un manteau, laissant voir un pourpoint boutonne, couvrant le cou avec fraise. Sur la poitrine passe une chaine a deux rangs : cARoLvs. Ix. FRAN. REX.CHRISTIANISS.1573.
+
+Bordure saillante.
+
+Armand, II, page 251, n° 16.
+
+Diam., 110 millim.
+
+Diam., 120 millim.
+## PLAQUETTES
+
+## 200
+
+Venus chatiant l'Amour, par Andrea Briosco, dit IL Riccio.
+
+Padoue, 1470-1532.
+
+Venus debout, la tete tournee vers la droite, saisit de la main gauche l'Amour par les cheveux et leve la droite pour le frapper. Une draperie s'enroule autour du bras gauche et de la jambe droite de Venus et fotte derriere elle. Tres haut-relief.
+
+Bronze.
+
+Emile Molinier, les Plaquettes, n° 227.
+
+## 201
+
+Triomphe d’un Heros, par IL Riccio.
+
+Au centre, un heros debout et nu;la Victoire lui pose une main sur lépaule; entre eux, un vase d'ou sort un serpent, symbole de l'Envie. A gauche, deux personnages, dont l'un porte une branche de laurier; a droite, un sacrifice.
+
+Bronze.
+
+Haut., 106 millim.; larg., 81 millim.
+
+Haut., 76 millim.,; larg., 102 millim.
+Bronze.
+
+Haut.,117 millim.;larg.,164 millim.
+
+Emile Molinier,les Plaquettes,n°221.
+
+## 202
+
+La Mise au tombeau,par I Riccio.
+
+Saint Jean et deux personnages barbus, vetus a l'antique, saisissent le corps du Christ, les uns par les jambes, les autres par le milieu du corps et sous les bras, et se disposent a le placer dans le tombeau.A droite, on voit la Vierge évanouie tombee sur les genoux, qu'une sainte femme essaie de relever; au second plan,a droite, deux saintes femmes debout, deux autres saintes femmes la tete couverte d'un voile,une troisieme s'arrachant les cheveux,et la Madeleine,les cheveux epars,les bras etendus dans une attitude douloureuse.A gauche, au premier plan,une sainte femme assise, portant un vase; un enfant, agenouille pres d'elle, pleure et se cache le visage de ses deux mains; au second plan, deux personnages imberbes debout. Sur le tombeau, on lit l'inscription suivante, en creux :
+
+QVEM.TOTVS.NON CAP.ORB.IN HAC TVMBA.CLAVDIT.
+## 203
+
+Bacchante et Satyre. Ecole de Padoue, fin du xve siecle ou commencement du xvre.
+
+A gauche, au pied d'un arbre auquel est suspendue une draperie, une femme nue est couchee sur un lit a l'antique, dont le chevet est forme par un sphinx; elle tient un serpent de ses deux mains. A droite, un satyre debout et nu,la patte droite levee, souleve de la main droite la draperie qui couvrait la femme; il a une corde dans la main gauche. Au fond, un amour portant une palme.
+
+Bronze.
+
+## 204
+
+La Vierge et l'Enfant Jesus. Ecole de Padoue, fin du xve siecle.
+
+La Vierge a mi-corps, de profil a droite, est vetue d'une robe a manches collantes et d'un long manteau. La tete est nimbee, un voile entoure le cou et les cheveux sur lesquels est pose un diademe. De ses deux mains, elle soutient l'Enfant Jesus nu et nimbe.
+
+A droite et a gauche de la Vierge, se dressent deux candelabres a base triangulaire, dont la tige en balustre est surmontée d'un genie qui porte un pot-au-feu sur la tete.
+
+Au-dessous de la Vierge, est etendue une draperie qui cache a demi un cartel.
+
+Bronze.
+
+Emile Molinier,les Plaquettes,n 367.
+
+Haut., 6o millim.; larg, 72 millim.
+
+Haut., 125millim.,larg.,85 millim.
+## 205
+
+Deux Centaures. Ecole de Padoue. Fin du xve siecle.
+
+De chaque cote d'une couronne, formee de deux cornes d'abondance, remplie de fruits et contenant un écusson armorie, est un centaure portant en croupe une femme drapee. L'un des centaures est barbu, et sous ses pieds, a terre, on voit une lyre; pres de l'autre imberbe, une fute de Pan. Plaque de coffret.
+
+Bronze.
+
+Emile Molinier,les Plaquettes, n° 412.
+
+## 206
+
+Hercule et Geryon, par MoDERno. Nord de 1'Italie, fin du xve siecle et premier tiers du xvie.
+
+Hercule debout, tourne vers la droite, vient d'enlacer Geryon et l'etouffe. Le monstre est represente sous la forme d'un centaure a buste d'homme et a griffes de lion.Au fond, a droite, un monument antique en ruine; au centre, un paysage montagneux;a gauche, un monument sur la frise duquel est une inscription en partie effacee.
+
+Bronze.
+
+Emile Molinier, les Plaquettes, n° 1g5.
+
+Haut.,65 millim.;long.,20o millim.
+
+Haut.,68 millim., larg.,54 millim.
+## 207
+
+Hercule et Cacus, par MoDeRNo.
+
+Au premier plan, Hercule, vetu de la peau du lion de Nemee, tenant sa massue dans la main droite, est endormi a terre. Au second plan,Cacus, entierement nu,fait rentrer les genisses d'Hercule dans son antre en les tirant par la queue. Fond de paysage. Dans le haut, on lit en lettres capitales, en relief : O.MODERNI.
+
+Bronze.
+
+Emile Molinier, les Plaquettes,n° 194.
+
+## 208
+
+David, vainqueur de Goliath, par MoDERNo.
+
+David nu et debout,un sabre au cote, tient de sa main droite la fronde et s'appuie sur un socle. Aux pieds de David, a gauche, on voit la tete de Goliath et, a droite, le corps du geant qu'un homme nu va depouiller.
+
+Bord orne d'une moulure.
+
+Bronze. Forme rectangulaire.
+
+Emile Molinier, les Plaquettes,n° 15g.
+
+Haut., 67 millim.; larg., 52 millim.
+
+Haut., 7o millim.; larg., 55 millim.
+## 209
+
+Triomphe de la Pauvrete. Maitre anonyme des Triomphes.
+
+xvie siecle.
+
+Sur un char d'osier, traine par deux anes et dirige vers la droite, on voit trois femmes assises, accompagnees d''inscriptions explicatives : INoPIA, vMI, TIM;la premiere est échevelee,la seconde tient un baton,la troisieme un fouet. Au premier plan, n second plan, pres de l'attelage.
+
+Au fond, a droite, une ville et une église. Bronze.
+
+Haut.,66 millim.; larg, 127 millim.
+
+Emile Molinier, les Plaquettes, n 664.
+
+## 210
+
+Satyre. Imitation de l'antique.
+
+Satyre vu a mi-corps, de profil a droite, barbu, couronné de lierre, une peau de bete drapee autour du corps ; il tient de la main droite une coupe.
+
+Bronze. Plaquette ovale.
+
+Haut, 105 millim.; larg., 81 millim,
+## 211
+
+Bacchante. Imitation de l'antique. Attribuee a Donatello (1386-1466).
+
+Bacchante a micorps, une peau de bouc drapee autour du buste, couronnee de lierre; elle se presse le sein dans un rhyton. Bronze. Plaquette ovale.
+
+Haut.,108 millim.; larg. 84 millim.
+
+Emile Molinier, les Plaquettes, n29.
+
+## 212
+
+Un Bacchant. Imitation de l'antique. Italie du Nord, fin du xv siecle.
+
+Debout, nu et marchant vers la droite, la tete renversee en arriere, d'une main il tient une torche allumee, de l'autre un vase d'ou s'epanche un liquide, une peau de lion est drapee sur son bras gauche. Bord orne d’une moulure.
+
+Bronze.
+
+Emile Molinier, les Plaquettes, n° 23.
+
+Haut., 11o millim.; larg., 82 millim.
+## 213
+
+Consecration de l'Hostie. Italie, xvie siecle.
+
+A droite, sur la marche de l'autel, un pretre presente l'Hostie a un groupe de fideles agenouilles devant lui. Au premier plan, un ane egalement agenouille. Au fond, devant une colonnade, divers personnages debout. Sur l'autel, un calice.
+
+Bronze.
+
+## 214
+
+La Pieta. Flandres,xve siecle.
+
+La Vierge assise au pied de la croix, nimbee et vetue de long, les mains jointes, supporte sur ses genoux le Christ mort. A ses cotes, saint Jean, a genoux, soutient la tete du Christ a gauche, et sainte Madeleine, a droite, presse la main du Seigneur. Les nimbes ornementes offrent, en lettres gothiques, les noms des personnages. Sur les branches de la croix se voient les instruments de la Passion.
+
+Bronze. Plaquette cintree.
+
+Haut., 79 millim.,;larg.,93 millim.
+
+Haut., 165 millim.: larg., 105millin,
+## BRONZES
+
+## 215
+
+Epervier. Les ailes sont finement gravees et les yeux et le bec sont incrustes d'or.
+
+La base porte une inscription hieroglyphique.
+
+Travail égyptien antique.
+
+## 216
+
+Statuette en bronze antique,a patine verte, representant Mercure au repos, assis, tenant la bourse.
+
+Bronze antique romain.
+
+Ancienne collection His de la Salle. Londres, 188o.
+
+## 217
+
+Taureau debout, passant vers la gauche. Bronze antique romain a patine verte.
+
+Socle en marbre jaune de Sienne.
+
+Ancienne collection His de la Salle. Londres, 188o.
+
+Haut.,I4 cent.
+
+Haut., 14 cent.
+
+Haut., 105 millim.
+## 218
+
+Statuette en bronze antique: dieu lare debout, la main droite avancee, la main gauche repliee, lindex tourne vers le sol. Patine verte.
+
+Base en porphyre rouge.
+
+Ancienne collection His de la Salle. Londres,188o.
+
+## 219
+
+Statuette en bronze antique,representant Hercule enfant, debout et nu, coiffe de la depouille du lion, tenant la massue de la main gauche et un kantare de la main droite.
+
+Socle en marbre de couleurs garni de bronze.
+
+Travail romain.
+
+Ancienne collection His de la Salle. Londres, 188o.
+
+Haut., 15 cent.
+
+Haut.,16 cent.
+## 220
+
+Statuette de faune nu,la tete tournee legerement vers l'epaule droite; le bras gauche leve et etendu supporte une peau d'animal.
+
+Bronze gallo-romain trouve a Lyon.
+
+Socle en marbre de couleurs.
+
+Ancienne collection His de la Salle. Londres,188o.
+
+## 221
+
+Statuette de Mercure debout et nu. ll est coiffe du petase, et chausse de talonnieres. ll tient des deux mains le caducee dresse a son cote.
+
+Bronze patine. Italie, commencement du xvre siecle. Socle en marbre noir.
+
+Haut., 26 cent.
+
+## 222
+
+Statuette en bronze representant un personnage debout et nu tenant un glaive de la main droite. ll a la jambe droite avancee et le corps tourne legerement vers la gauche. xvie siecle.
+
+Socle moulure en bois.
+
+Haut.,25 cent.
+
+Haut.,205,millim.
+## 223
+
+Statuette en bronze patine representant Mars debout et nu, la main gauche avancee, le bras droit etendu en arriere tenait une epee.
+
+Italie, xvre siecle.
+
+Socle en marbre de couleurs.
+
+## 224
+
+Lampe en bronze d'apres l'antique. L'anse est formee d'une tete de griffon emergeant d'un feuron.
+
+Padoue, xve siecle.
+
+## 225
+
+Lampe de forme triangulaire,a trois becs formes par des tetes d''animaux et disposes sur une base ornee de rinceaux et de mascarons, supportee elle-meme par des pattes d'animaux soutenant des cariatides de femmes. Bronze.
+
+Padoue, xvr siecle.
+
+Haut.,2o cent.
+
+Long., 20 cent.
+
+Haut., 11 cent.; larg., 18 cent.
+## 226
+
+Plaque rectangulaire en bronze fondu a cire perdue, attri- buee a Donatello, presentant la Vierge assise, drapee et voilée, allaitant l'Enfant Jesus. A ses cotes se tiennent deux anges ailes, nus et debout, portant des guirlandes. Ce groupe est dispose sur un entablement uni dans lequel est menage un medaillon circulaire evide.
+
+Italie, xve siecle.
+
+Haut.,34 cent.;larg.,22 cent.
+
+E.Bertaux, Trois chefs-d'ceuvre italiens de la collection Aynard (Revue de lArt ancien et moderne, tome XIx, annee 1go6, page 87).
+
+Emile Molinier, les Plaquettes, n° 744 (publiee avec une erreur dans les
+
+J.-B. Giraud, Recueil des principaux objets d'art ayant figure a l'Exposition retrospective de Lyon,1877,pl.LXVI.
+
+dimensions).
+## 227
+
+Mortier en bronze patine,decore,au pourtour,de deux écussons d'armoiries, de guirlandes soutenues par des enfants nus et de petites plaquettes presentant des animaux. Il est muni de deux anses laterales formees par des guirlandes de feurs et de fruits.
+
+Padoue, xve siecle.
+
+## 228
+
+Mesure en dinanderie. Elle est munie d'une anse laterale carree et est ornee, au pourtour, de nervures saillantes terminees par des griffes. xve siecle.
+
+Collection Antokolski.
+
+## 229
+
+Mortier en bronze patine. ll est orne,au pourtour, d'une frise de cavaliers. Au bord, une inscription famande et la date 1555. ll est muni de deux anses.
+
+Haut., 120 millim.; diam., 145 millim.
+
+Haut.,15 cent.; diam.,17 cent.
+
+Haut., 26 cent.; diam.,22 cent.
+## 230
+
+Grand mortier en bronze muni de deux poignees laterales. Il est orne de deux frises superposees, l'une decoree de palmettes juxtaposees, l'autre presentant des cariatides et des bacchantes pressant des grappes dans une coupe.
+
+A la partie superieure, une inscription famande et la date 1565.xv1 siecle.
+
+Haut.,25cent.;diam.,25cent.
+
+## 231
+
+Petit mortier en bronze patine.ll presente,au pourtour,un ecusson armorie ainsi qu'un buste d'homme vu de face inscrit dans un encadrement de feuilles et de feurs, soutenu par un enfant nu tenant des rubans. Au bord, une couronne de pal- mettes.
+
+Italie, xvre siecle.
+
+## 232
+
+Tete de jeune garcon en cuivre repousse et polychrome.
+
+Il est coiffe de cheveux boucles entremeles de guirlandes de feuillages.
+
+Italie, xvre siecle.
+
+Haut., 9 cent.; diam., 11 cent.
+
+Haut.,1g cent.
+## 233
+
+Deux statuettes en bronze patine provenant d'un Calvaire et representant la Vierge et saint Jean debout, vetus de long. Italie, xvie siecle.
+
+Base en marbre noir.
+
+## 234
+
+Statuette,en bronze patine, de centaure passant et portant un amour. Modele d'apres l'antique.
+
+Ancien travail italien.
+
+## 235
+
+Statuette, en bronze patine, de saint Jean-Baptiste enfant, vetu de la peau d'agneau, debout, les mains jointes. xvire siecle.
+
+Haut.,28 cent.
+
+## 236
+
+Petit buste, en bronze patine, de jeune femme vue de face, les epaules couvertes d'une draperie, les cheveux reunis par un chignon sur le derriere de la tete. Epoque Louis XVI.
+
+Base en marbre de couleurs.
+
+Haut.,2o cent.
+
+Haut., 70 cent.
+
+Haut.,22 cent
+## BOIS SCULPTES
+
+## 237
+
+Statuette en bois sculpte, representant une sainte femme debout, drapee et voilee,la tete tournee legerement vers l'épaule droite; de la main gauche avancee, elle tient un livre ferme.
+
+Travail francais, xive siecle.
+
+## 238
+
+Tres petit groupe en buis finement sculpte, representant deux enfants vetus d'une longue robe plissee, disposes face a face, et se tenant les bras.
+
+Travail francais, xve siecle.
+
+Ancienne collection Hochon.
+
+## 239
+
+Statuette en bois sculpte et polychrome : la Vierge de l'Annonciation debout, vetue d'une robe rouge avec broderies simulees et couverte d'un ample manteau posant sur la tete et retombant en plis gracieux sur chacun des cotes du corps. Elle tient, de la main gauche, un livre ouvert; la main droite est ramenee vers la poitrine.
+
+Italie du nord.xve siecle.
+
+Haut., 84 cent.
+
+Haut., 5 cent.;larg., 5 cent.
+
+Haut., 8o cent.
+## 240
+
+Deux statuettes en bois sculpte, polychrome et en partie dore, representant saint Laurent et saint Etienne vetus d'une dalmatique tombant jusqu'aux pieds. lls portent chacun un livre. Une cavite quadrilobee, menagee devant la poitrine, contient des reliques, ainsi qu'une inscription sur parchemin relative a ces reliques. Sur la tete de saint Etienne, des pierres enfoncees dans son crane, symbole de son martyre.
+
+Travail italien, fin du xve siecle. Socle adherent en bois moulure.
+
+## 241
+
+Groupe en bois sculpte, representant deux anges debout, vetus de long et portant un cercueil. Bois de chene.
+
+Travail famand, xve siecle.
+
+Haut.,40 cent.;larg.,38 cent.
+
+## 242
+
+Groupe-applique en bois sculpte, representant une composition a huit personnages figurant lintronisation d'un eveque. Les personnages posent la mitre sur la tete de l'eveque, qui est assis au centre du groupe sur un siege a X.
+
+Travail flamand, fin du xve siecle.
+
+Base mouluree.
+
+Hauteur totale,58 cent.
+## 243
+
+Groupe en bois sculpte, representant le Christ en croix entre la Vierge et saint Jean. Les statuettes, polychromees et dorees, sont disposees sur une base simulant un tertre.
+
+Base rectangulaire mouluree portant une inscription latine. Travail flamand, xve siecle.
+
+Hauteur totale,79 cent.; larg., 41 cent.
+
+## 244
+
+Deux statuettes en bois sculpte, provenant d'une Crucifixion, representant saint Jean et la Vierge, debout et drapes de long.
+
+Travail famand, xve siecle.
+
+Socle moulure.
+
+## 245
+
+Fragment de stalle en bois sculpte, presentant un dragon.
+
+Travail famand, xve siecle.
+
+Haut., 26 cent.
+
+Haut.,21 cent.
+## 246
+
+Groupe-applique en bois sculpte, peint et dore. Il represente la Vierge voilee, en prieres,les mains jointes, ayant devant elle le Christ mort etendu. Au fond, deux anges debout, vetus de longues robes dorees, soutiennent, derriere la Vierge, une draperie.
+
+Travail allemand, xve siecle.
+
+## 247
+
+Statuette-applique en bois sculpte, representant un saint personnage debout, entierement revetu d'une curieuse armure, dont tous les details sont minutieusement indiques. Un ample manteau lui couvre les épaules; il tient de la main droite son epee et appuie la main gauche sur une ceinture ornee de grelots. Une cotte de mailles apparait sous la cuirasse.
+
+Travail allemand, fin du xve siecle.
+
+Haut.,7o cent.; larg., 56 cent.
+
+Haat.,I m.20
+## 248
+
+Groupe-applique en bois sculpte, peint et dore. ll represente le couronnement de la Vierge. Dieu le Pere et le Christ, assis face a face, chacun dans une stalle, drapes et coiffes d'une tiare volumi neuse, couronnent la Vierge agenouillee entre eux, tournee vers la gauche,les mains jointes et vetue d''un long manteau dore, dont les plis sont soutenus par deux anges aux ailes eployees.
+
+Bois de chene. Fin du xve siecle.
+
+Vente Lelong.
+
+## 249
+
+Petite statuette-applique en bois sculpte, representant une sainte femme debout, vetue d'une robe drapee, les epaules couvertes d'un ample manteau retenu par un bijou. Elle porte une ceinture avec chainon pendant et tient, de la main droite, un livre ferme. Les cheveux, maintenus par une resille, laissent échapper deux nattes sur les epaules. Fin du xv siecle.
+
+Haut., 35 cent.
+
+## 250
+
+Statuette-applique en bois sculpte et polychrome, representant une sainte femme debout, vetue d'un curieux costume civil avec ceinture, et coiffee d'un bonnet a resille gemmee, retenu par des brides. Elle porte de la main droite un livre ouvert.
+
+Commencement du xvie siecle.
+
+Socle moulure a pans.
+
+Haut., 70 cent.; larg.,65 cent.
+
+Hauteur totale. 78 cent.
+## 251
+
+Statuette-applique en bois sculpte et polychrome,representant une sainte femme debout, amplement drapee dans un manteau dont elle tient un pan de la main droite. De la main gauche avancee, elle porte un livre ouvert.Les cheveux, epars, tombent gemme.
+
+La bordure du manteau et la ceinture sont ornees de cabochons simules.
+
+Travail allemand. Nuremberg, xvr siecle.
+
+Haut., 94 cent.
+
+## 252
+
+Statuette-applique en bois sculpte et polychrome, representant un saint personnage barbu, debout, vetu d'un ample manteau et tenant, des deux mains,une epee devant lui.
+
+Allemagne, fin du xve siecle.
+
+Haut., 6o cent.
+## 253
+
+Statuette-applique en bois sculpte et polychrome,representant un saint personnage debout,vetu d'un ample manteau,tenant un livre de la main droite et une longue epee de la main gauche.
+
+Allemagne, fin du xve siecle.
+
+## 254
+
+Grande statuette-applique, representant la Vierge debout, drapee et voilee, les mains croisees devant le corps.
+
+Bois sculpte avec traces de dorure. Travail lyonnais, xv1e siecle.
+
+## 255
+
+Statuette, en bois sculpte, representant sainte Cecile debout, drapee et couronnee. Elle tient des deux mains, devant elle, un petit orgue. xvr siecle.
+
+Cette statuette est placee sur un socle moulure et ajoure, a decor de fenestrages.
+
+Haut.,6o cent.
+
+Haut.,1 m.40.
+## 256
+
+Statuette-applique en bois sculpte, polychrome et doré, representant un pelerin, vetu d'un long manteau a capuchon, debout,barbu,tenant une bourse de la main droite,un long baton de la main gauche.
+
+Bois de chene. Travail flamand, xvie siecle.
+
+## 257
+
+Groupe-applique en bois sculpte, peint et dore,representant un roi mage, vetu d'une longue robe a capuchon et monte sur un cheval tourne vers la gauche et portant un singe enchaine, assis sur sa croupe.
+
+Bois de chene. Travail flamand, xvr siecle.
+
+Base mouluree.
+
+Collection Charvet,188o.
+
+## 258
+
+Groupe-applique en bois sculpte et polychrome, avec traces de dorure, representant un personnage a cheval passant vers la gauche. ll est couvert d'un manteau et coiffe d'une toque. Une epee est suspendue a son ceinturon.
+
+Bois de chene. Travail famand, xvi siecle.
+
+Haut., 36 cent.
+
+Haut.,5o cent.
+
+Haut., 40 cent.
+Exposition deLyon,1877.
+
+## 259
+
+Groupe-applique en bois sculpte,peint et dore,representant une composition a sept personnages figurant la Circoncision. Travail famand,xvr siecle.
+
+Haut., 51 cent.
+
+## 260
+
+Statuette a mi-corps, en bois sculpte avec traces de poly- chromie,representant la Vierge drapee et voilee,les mains croisees devant la poitrine. Commencement du xvre siecle.
+
+Haut.,48 cent.
+
+## 261
+
+Groupe-applique en bois sculpte,representant une femme assise, ayant pres d'elle un jeune enfant debout et nu, et faisant la toilette d'un bebe qu'elle tient sur ses genoux.
+
+Bois de chene. xvr siecle.
+
+Haut.,2S cent.;larg.,29 cent.
+## 262
+
+Chapelet compose de dix grains en buis sculpte. Chacun d'eux est ornemente de tetes, d'attributs de la Passion et de banderoles portant des inscriptions en lettres gothiques. Le chapelet se termine par une croix en buis tourne, dont chacune des branches est montee sur un chainon.
+
+Travail famand, xvie siecle.
+
+## SCULPTURE JAPONAISE
+
+## 263
+
+Statuette en bois sculpte et peint, representant un pretre assis, imberbe, drape dans une robe attachee par une boucle sur lepaule gauche;les deux mains repliees,ramenees sur les genoux, tiennent un chapelet. xvi ou xvire siecle.
+
+Haut., 88 cent.;larg.,55 cent.
+
+Exposition de l'Art oriental au Musee des Arts decoratifs. Vente Hayashi.
+
+G.Migeon, Chefs-d’euvre d’art japonais, n° 142, planche 26.
+## SCULPTURES DIVERSES
+
+## 264
+
+Statuette en marbre tendre blanc,representant un person- nage debout, amplement drape, la main droite ramenee vers la poitrine, la main gauche dissimulee sous les plis du manteau.
+
+Midi de la France. Commencement du xive siecle.
+
+Haut.,42 cent.
+
+## 265
+
+Statuette-applique en marbre blanc, representant un ange debout, drape de long, tenant de la main droite une banderole deroulee; de la main gauche avancee, il porte un baril.
+
+Travail francais, xive siecle.
+
+## 266
+
+Groupe en marbre tendre blanc,representant la Vierge assise, de face, sur un banc moulure. Elle est drapee de long, voilee, et allaite l'Enfant Jesus debout sur ses genoux et vetu d'une longue chemisette.
+
+Travail francais, xive siecle (?).
+
+Haut.,44 cent.
+
+Haut., 32 cent.
+## 267
+
+Bas-relief en marbre blanc, attribue a Agostino di Duccio, presentant la Vierge nimbee, tournee vers la gauche et assise sur un siege a l'antique, dont le pietement est forme par une chimere a tete de femme. Elle tient par la main droite le Christ jeune, debout devant elle, drape et nimbe, serrant un rouleau de parchemin dans sa main gauche levee. De chaque cote,un ange debout et drape supporte une couronne de laurier qui encadre le groupe divin.
+
+Italie,xve siecle.
+
+Encadrement en bois moulure.
+
+- E.Bertaux, Trois chefs-d'ceuvres italiens de la collection Aynard (Revue de lart ancien et moderne, tome XIx, annee 1go6, page g3).
+- J.-B. Giraud, Recueil des principaux objets d'art ayant figure a lExposition retrospective de Lyon,1877,pl.LxVI.
+
+Haut.,43 cent.,;larg.,63 cent.
+## 268
+
+Buste de Vierge. Elle est voilee, les cheveux retombant sur les epaules. Marbre blanc.
+
+Toscane,xve siecle.
+
+## 269
+
+Petit groupe en marbre tendre blanc, representant la Vierge assise, drapee dans un ample manteau, voilee, couronnee et soutenant l'Enfant nu, assis sur ses genoux, a qui elle presente un fruit.
+
+Travail flamand,xv siecle.
+
+## 270
+
+Statuette-applique en marbre tendre blanc,representant un pleurant debout, vetu de long, marchant vers la gauche, la tete couverte d'un capuchon et les mains croisees devant la poitrine.
+
+Travail espagnol, paraissant provenir de Poblet, xve siecle.
+
+Haut., 31 cent.
+
+Haut., 28 cent.
+
+Haut.,2I cent.
+## 271
+
+Bas-relief en marbre tendre blanc, provenant d'une arcature et presentant un ange drape.
+
+Travail espagnol, xve siecle.
+
+## 272
+
+Deux statuettes d'anges, debout, drapes dans un vetement descendant jusqu'aux pieds,les ailes eployees. Elles sont disposees sur un montant-applique uni, surmonte d''un petit dais a voussures.
+
+Pierre. Travail du nord de l'Italie, xve siecle.
+
+Hauteur totale, 57 cent.
+
+## 273
+
+Statuette en marbre blanc d'enfant nu, vu debout, a mijambes,la tete legerement inclinee vers lépaule gauche et souriant. Il est coiffe de cheveux boucles. Atelier de Desiderio da Settignano.
+
+Italie, fin du xve siecle.
+
+Socle en marbre gris veine.
+
+Haut.,23 cent.; larg., 32 cent.
+
+Haut., 38 cent.
+## 274
+
+Statuette en marbre blanc:personnage debout, drape dans une tunique tombant jusqu'aux genoux, les jambes nues. ll est coiffe d'un chapeau mou a bords releves et tient de la main gauche une petite sebille, et de la droite une claquette munie d’une laniere. A ses pieds, deux chiens lui lechant les jambes.
+
+Cette statuette represente vraisemblablement un lepreux. Travail italien du xve siecle.
+
+Haut.,Im.25.
+## 275
+
+Medaillon en marbre blanc presentant une composition a personnages sculptes en tres haut relief, costumes a l'antique et tenant des boucliers et des insignes militaires.
+
+Encadrement forme d'une couronne de feuilles. A la partie inferieure, un cartel rectangulaire a queues d'aronde sans inscription.
+
+Par Agostino Busti, dit le Bambaia.
+
+Italie, commencement du xvi siecle.
+
+Provient du tombeau de Gaston de Foix.
+
+## 276
+
+Masque en marbre blanc, presentant un visage imberbe vu de face.
+
+Attribue a Laurana. Italie, xve siecle.
+
+## 277
+
+Buste presume de Francois de Gonzague adolescent. ll est represente de face, les cheveux partages sur le front retombant derriere les epaules. ll est vetu d'un pourpoint ajuste et porte un collier a deux rangs entrecroises, auquel est suspendue une croix.
+
+Marbre blanc.
+
+Italie du Nord, xve siecle.
+
+Diam.,49 cent.
+
+Haut.,18cent.
+Ancienne collection Lelong.
+
+## 278
+
+Groupe-applique en marbre tendre blanc, representant saint Jerome. Assis, drape, la tete coiffee d'un capuchon, un chapeau a lion place aupres de lui.
+
+Nord de l'Italie. Commencement du xvi siecle.
+
+Haut.,38 cent.
+
+## 279
+
+Statuette en marbre blanc,representant un berger, curieusement vetu d'un costume a capuchon, la tete coiffee d'un chapeau a larges bords. Il est couvert d'un manteau descendant jusqu'a mi-jambes et chausse de souliers a boucles dans lesquels sont rentres ses bas de chausse curieusement plisses. Il est tourne de profil vers la gauche, ses mains jointes sont gantees. Il porte sur le dos un filet rempli de fruits.
+
+Base talutee unie.
+
+Travail francais, xve siecle.
+
+## 280
+
+Petit buste en marbre blanc, representant un vieillard barbu, la tete et l'épaule gauche couvertes par une draperie attachee par un ruban.
+
+Base en marbre.
+
+Travail espagnol, xvie siecle.
+
+<!-- image -->
+
+<!-- image -->
+
+Haut.,40 cent.
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+## 281
+
+Haut-relief sans fond, en marbre tendre blanc, provenant d'une Adoration des bergers et presentant une scene composee de deux personnages places au premier plan et vetus de manteaux a capuchon; a l'arriere-plan, deux bergers, dont l'un tient une cornemuse.
+
+Sur une borne, l'inscription en lettres gothiques : Satis, et le monogramme M. D. Sur le soubassement, linscription en lettres gothiques : Llrich tr, et la date 1531.
+
+Travail allemand,xvie siecle.
+
+Haut.,36 cent.,;larg.,35 cent.
+
+## 282
+
+Base de candelabre de forme triangulaire, ornee de sphinx, de tetes de beliers, de guirlandes de feuilles et de fruits, de rubans et de mascarons.
+
+Contre-socle moulure. Ecole milanaise, fin du xve siecle.
+
+Hauteur totale,44 cent.;larg.,55 cent.
+se detachant en relief.
+
+## 283
+
+Socle en marbre blanc de forme hexagonale. ll est orne, sur la face, d'un ecusson uni, de branches de feuillages enrubannes, et de banderoles portant les inscriptions :Deum time, le tout
+
+Italie, xve siecle.
+
+## 284
+
+Socle rectangulaire en marbre blanc mouluré. Il est orne, sur la face, d'un écusson encadre d'une guirlande de feuilles et de fruits.
+
+Travail francais, xvie siecle.
+
+## 285
+
+Socle carre en marbre. Il presente deux écussons, l'un aux armes de Laurent de Medicis et lautre aux armes de sa femme, Clarice Orsini, ainsi que les emblemes des Medicis :lanneau et les trois plumes. Aux angles,des palmettes.
+
+Italie, fin du xve siecle.
+
+Haut., 17 cent.
+
+Haut., 16 cent.; larg.,48 cent.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+## 286
+
+Mortier en marbre blanc. Il est orne de quatre palmettes gravees et de quatre saillies demi-cylindriques, formant les anses. Commencement du xvie siecle.
+
+## 287
+
+Mortier en pierre sculptee. Il est orne, aux angles, de tetes de cherubins reliees par des guirlandes et des rubans.
+
+Italie,xve siecle.
+
+## 288
+
+Statuette en pierre sculptee et polychromee,representant la Vierge debout, vetue d'une robe collante,recouverte d'un manteau amplement drape, dont un pan,ramene sur le bras gauche, retombe en plis gracieux devant le corps. Elle tient l'Enfant Jesus assis, sur le bras gauche. La Vierge est voilee et couronnee, les cheveux épars pendent de chaque cote de la figure.
+
+Attribuee a Claus Sluter, xive siecle.
+
+Haut.,17 cent.,larg.,22 cent.
+
+Haut.,16 cent.;larg.,20 cent.
+
+Haut., 67 cent.
+
+A.Kleinclausz, Une Nouvelle Vierge de Claus Sluter (Revue de lart ancien et moderne,n° 197, tome XxxIV).
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+## 289
+
+Statuette-applique en pierre sculptee avec traces de polychromie, representant l'ange de IAnnonciation, largement drape, les jambes infechies, sur le point de s'agenouiller, les ailes eployees. ll porte des deux mains un phylactere deroule devant lui,et son manteau, ferme par un mors de chape gemme,est retenu par deux bretelles croisees sur la poitrine, et par une cordeliere nouee devant le corps.
+
+Travail bourguignon, fin du xv siecle.
+
+## 290
+
+Statuette-applique,representant la Vierge debout, vetue d'une robe ajustee et dont les plis sont gracieusement drapes sur le bas des jambes;les manches, collantes, sont curieusement lacees. Elle est coiffee d'un voile a bords festonnes et tient, sur le bras gauche, l'Enfant Jesus.
+
+Pierre. Travail francais, xv siecle.
+
+Haut.,78 cent.
+
+Haut.,I m.10.
+
+<!-- image -->
+
+<!-- image -->
+## 291
+
+Statuette en pierre sculptee, representant l'ange de l'Annonciation debout, aile, vetu d'une longue tunique dont il maintient les plis de la main gauche abaissee, le bras droit replie et ramene vers la poitrine. Ses cheveux tombent en boucles ondulees sur les epaules.
+
+Attribuee a Agostino di Duccio. Italie, xv siecle.
+
+## 292
+
+Tete de Vierge voilee et couronnee, en pierre sculptee avec traces de polychromie.xv siecle.
+
+## 293
+
+Tete de Vierge en pierre sculptee. Les cheveux sont ondules et disposes en deux bandeaux retenus par un ruban. xve siecle.
+
+Haut.,18 cent.
+
+Haut.,17 cent.
+
+Haut.,1 m.45.
+
+## 294
+
+Petit buste d'homme en pierre sculptee, avec traces de polychromie. Son vetement est lace sur la poitrine et fixe par un mors de chape. Ses cheveux, retenus par un bandeau gemme, retombent sur les épaules.
+
+Travail francais, xve siecle.
+
+Haut.,24 cent.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+## 295
+
+Petit fragment d'arcature en pierre sculptee, presentant une tete de jeune femme couronnee,les cheveux ondules tombant de chaque cote du visage, la main droite appuyee contre la joue. Elle est placee sous une arcade gothique trilobee a gable feuronne. xve siecle.
+
+Haut., 40 cent.; larg, 20 cent.
+
+## 296
+
+Statuette en pierre sculptee, representant un pape amplement drape, tourne vers la droite et tenant des deux mains un livre ouvert. A ses cotes, sur la stalle, ou il est assis, sont disposes deux volumes fermes.
+
+Ecole de Troyes, xvie siecle.
+
+## 297
+
+Medaillon circulaire en pate polychromee et doree,presentant la Vierge assise, un coussin sur les genoux. Elle soutenait de ses deux bras I'Enfant Jesus.
+
+Italie, fin du xve siecle.
+
+Cadre en bois sculpte et dore, presentant une guirlande de feuilles et de fruits.
+
+Vente Simonetti,Rome,1886.
+
+Haut., 38 cent.;larg.,43 cent.
+
+Diametre total, 74 cent.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+## 298
+
+Bas-relief rectangulaire en stuc peint et en partie dore, presentant la Vierge assise, vue a mi-corps, voilee et nimbée, tenant l'Enfant Jesus portant une colombe. Dans le champ, deux candelabres reunis par une guirlande feuillagee.
+
+Attribue a Rossellino.
+
+Italie, xve siecle.
+
+Encadrement a pilastres canneles.
+
+Hauteur, sans le cadre, 78 cent.;larg.,53 cent.
+
+## 299
+
+Haut-relief de forme cintree,en stuc peint en vert,presentant la Vierge assise, drapee et voilee, tenant l'Enfant Jesus pose sur un coussin sur son genou gauche et serre contre elle. Cul-delampe en bois peint, forme d'une tete de cherubin. Une cavité, servant de reliquaire, est menagee sur la poitrine de la Vierge.
+
+Travail italien,xv siecle.
+
+Cadre ancien en bois sculpte et dore.
+
+Hauteur totale, 68 cent.;larg.,46 cent.
+
+300
+
+Buste d'enfant en terre cuite, peinte. Italie du Nord, xv siecle.
+
+<!-- image -->
+
+Haut., 23 cent.; larg., 1g cent.
+
+<!-- image -->
+
+<!-- image -->
+## 301
+
+Haut-relief en terre cuite, grandeur naturelle.
+
+contre elle l'Enfant Jesus, debout et nu, qui porte un fruit de la du manteau dont la Vierge est couverte.
+
+La Vierge, vue a mi-corps, drapee et voilee; elle presse main droite, et retient, de la gauche,pres de son cou, un pan
+
+Attribue a Jacopo della Quercia.
+
+Italie, xv siecle.
+
+Base en bois noir.
+
+Haut.,83 cent.;larg.,64 cent.
+
+E.Bertaux, Trois chefs-d'euvre italiens de la collection Aynard (Revue de lArt ancien et moderne, tome XIx, annee 1go6,page 83).
+
+## 302
+
+Haut-relief sans fond, en terre cuite, presentant la Vierge, vue a mi-corps, drapee et voilee, soutenant devant elle, de ses deux mains, l'Enfant Jesus nu, tenant une couronne.
+
+Ecole de Donatello.Italie,xv siecle.
+
+Haut.,84 cent.;larg.,59 cent.
+
+## 303
+
+Buste de saint Jean en terre cuite, avec traces de polychromie.
+
+Suite des Robbia.
+
+Haut.,36 cent.; larg.,32 cent.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+## 304
+
+Statue-applique en terre cuite,representant la Vierge assise, drapee, les epaules couvertes par un manteau orne d'un galon portant des inscriptions simulees. Elle tient sur le genou gauche
+
+I'Enfant Jesus souriant et nu, la jambe droite etendue.
+
+Travail du nord de l'Italie, fin du xve siecle.
+
+Haut.,1m.25;larg.,62 cent.
+
+<!-- image -->
+
+<!-- image -->
+
+Haut., 40 cent.; larg., 51 cent.
+
+## 305
+
+Haut-relief rectangulaire en terre cuite, presentant le Christ de pitie, vu a mi-corps, sortant du tombeau, les mains croisees devant lui. A ses cotes, des anges drapes, aux ailes éployees. Le tout est dispose sur une terrasse simulant un entablement pierreux.
+
+Travail italien, xv siecle.
+
+Christ mort.
+
+## 306
+
+Groupe-applique en terre cuite peinte et doree, representant la Vierge assise, amplement drapee, tenant sur les genoux le
+
+Italie, xvr siecle.
+
+Socle moulure en bois dore.
+
+Haut.,34 cent.； larg., 29 cent.
+
+<!-- image -->
+## 307
+
+Deux statuettes en terre cuite d'anges, debout, sur des rochers et regardant tous deux vers lepaule droite. lls sont vetus de draperies.
+
+Attribuees au chevalier Bernin, d'apres les originaux du pont Saint-Ange,a Rome.xvil siecle.
+
+Haut.,43 cent.
+
+J.-B. Giraud, Recueil des principaux objets d'art ayant figure a lExposilion retrospective de Lyon,1877, planche XxxVI11.
+
+## 308
+
+Statuette equestre en terre cuite: portrait de Louis XIv. Par le chevalier Bernin.
+
+Le cheval, cabre vers la droite, supporte le roi vetu a l'antique, tenant de la main droite le sceptre du commandement, de la gauche les renes. xvile siecle.
+
+<!-- image -->
+
+<!-- image -->
+
+Base en bois sculpte et dore a l'imitation du marbre.
+
+Hauteur de la statuette,75 cent.;long,go cent.
+
+Esquisse originale de la statue en marbre de Louis XIv, dans le parc de
+
+Versailles, par le chevalier Bernin.
+
+Marcel Reymond, Revue de l'Art ancien et moderne, tome XxxIV,1gi3. Ancienne collection Crosnier.
+
+## 309
+
+Petit groupe en terre cuite, compose d'un socle supportant un porte-montre simule et accompagne de deux statuettes de nymphes debout, placees de chaque cote du socle. Sur la base, le nom du sculpteur. xvill siecle.
+
+Haut.,23 cent.
+
+<!-- image -->
+## 310
+
+Deux vases a col evase, en terre cuite; sur l'un, le Triomphe de Bacchus, scene a nombreux personnages; l'autre est decore d'une ronde de nymphes. Anses en forme de doubles serpents enroules. Epoque Louis XVI.
+
+Haut.,28 cent.
+
+## 311
+
+Petit buste en terre cuite, par Chinard : portrait presume de Mme Roland. Elle a la tete legerement tournee vers l'epaule gauche. Un ruban, lui serrant les cheveux sur le front, laisse echapper des boucles sur les epaules. Fin du xvinr siecle.
+
+Haut., 36 cent,
+
+Vente Bonnet, sculpteur a Lyon.
+
+Richard Cantinelli,Exposition retrospective des Artistes lyonnais,peintres et sculpteurs, Gazette des Beaux-Arts, tome XxxIll, 3 periode,annee go5, page 144.
+
+## 312
+
+Buste en terre cuite, grandeur nature : portrait du general Marceau en uniforme, tete nue,les cheveux tombant sur les epaules. ll repose sur un socle rectangulaire, presentant une
+
+Signe : J. H., et date 1795.
+
+grenade se detachant en ronde-bosse.
+
+Hauteur totale,78 cent.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+## BRONZES D'AMEUBLEMENT
+
+## 313
+
+Deux appliques a deux lumieres, de forme contournee, en bronze cisele et dore, a rocailles feuillagees. Epoque Louis XV.
+
+Haut.,6o cent.
+
+314
+
+Deux chenets en bronze dore, a terrasses ornees de rinceaux, de guirlandes et de cannelures a spirales. Ces terrasses supportent un grand brule-parfums a fammes reposant sur trois pieds, a tetes et griffes de lions, ainsi qu'un petit brule-parfums decore de guirlandes. Epoque Louis XVI.
+
+Haut.,40 cent.;larg.,46 cent.
+
+<!-- image -->
+
+<!-- image -->
+## MEUBLES &amp; SIEGES
+
+315
+
+Coffre gothique en bois sculpte. Le devant est entierement decore de rosaces disposees au milieu de fenestrages ornes de feurons stylises.
+
+Au centre, dans un ecusson, un monogramme compose des lettres A. D. enlacees et surmontees d'une croix. Ce coffre est muni d'une serrure en fer forge dont le moraillon presente un dragon aile.En partie du xv siecle.
+
+Long, 1 m.73;haut.,72 cent.; prof.,65 cent.
+
+## 316
+
+Table. Ecole lyonnaise.
+
+Le plateau, rectangulaire,repose sur deux supports en eventail, formes par deux cariatides terminees en volutes, adossees et separees par une gaine a figure grimacante tenant deux palmes renversees. Ces supports sont disposes sur deux patins reunis par une traverse mediane sur laquelle se dresse une triple arcature a balustres moulures. La ceinture est ornee de godrons saillants et les angles sont decores de palmettes.
+
+Bois de noyer. En partie du xvr siecle.
+
+Long, 1 m. 36; larg, 86 cent.
+
+<!-- image -->
+Chaire en bois sculpte.
+
+Le dossier est decore d'un panneau a perspective, encadre par une bordure d'entrelacs. Les montants sont formes de deux pilastres canneles surmontes de chapiteaux ornementes. Le coffre est orne d'un panneau a medaillon et les accotoirs, a extremites a enroulements, sont supportes chacun par deux balustres moulures.
+
+Bois de noyer. Travail lyonnais, xvi siecle.
+
+Haut.,1 m.92;larg.,70 cent,
+
+## 317
+
+## 318
+
+Table rectangulaire en bois sculpte.
+
+Le pietement est forme de deux supports en eventail, disposes sur des patins relies par une traverse mediane supportant trois balustres moulures. Les eventails sont ornes de cariatides de femmes placees entre deux balustres. Aux quatre angles,des pommes d'amortissement. La ceinture est decoree de cannelures et la traverse inferieure, de godrons obliques.
+
+Bois de noyer. Travail lyonnais, en partie du xvr siecle.
+
+Long.,I m.51;larg.,go cent.
+
+<!-- image -->
+
+<!-- image -->
+## 319
+
+Grand dressoir en bois sculpte, a cinq pans, surmonte d’un dossier.
+
+H ouvre a deux vantaux et est muni de deux tiroirs.Il repose sur un entablement moulure et est supporte par des colonnettes cannelees soutenant une double arcature surbaissee, ornee d'un mascaron et d'un pendant. Les panneaux des portes offrent des allegories : la Foi, 1'Esperance et la Charite,inscrites dans des medaillons circulaires decores de feuilles et de fruits. Les panneaux des pans coupes et des cotes presentent egalement des allegories dans des medaillons ovales. Ces panneaux sont separes par des montants en forme de gaines a tetes humaines.
+
+Sur les tiroirs, ainsi que sur les panneaux de la ceinture, sont figures des mascarons grimacants. Sur le dossier, se voient des panneaux a sujets allegoriques, disposes chacun sous un portique surmonte de niches abritant des personnages a micorps accostes par des cariatides et des genies. Ces panneaux sont relies par des montants a gaines a figures d'homme et de armes de l'eveque du Puy, de Morangier Fabreges. Cet écusson est soutenu par deux lions et porte le monogramme M. F.
+
+Bois de noyer. Ecole d'Auvergne, xvre siecle.
+
+Haut., 2 m.6o;larg.,1 m.70; prof.,55 cent.
+
+Alfred Darcel, Gazette des Beaux-Arts. J.-B. Giraud, Recueil des principaux objets d'art ayant figure a l'Exposition retrospective de Lyon,1877, pl. XI.
+## 320
+
+Fauteuil en bois sculpte, a haut dossier garni de cuir orne d'un ecusson frappe d'or, et cloute de cuivre.
+
+La traverse du pietement et les montants des accoudoirs sont decores de palmettes et de coquilles.
+
+Travail famand, xvie siecle.
+
+## 321
+
+par des pilastres canneles. La ceinture est ornee de godrons et
+
+Credence en bois sculpte, ouvrant a deux portes et munie de deux tiroirs. Les panneaux, decores a perspectives, sont separes de feuilles d'acanthe. Le soubassement a colonnettes moulurees supporte une double arcature avec pendant. Fond plein decore de deux panneaux a perspectives.
+
+Bois de noyer. Travail lyonnais, xvr siecle.
+
+Haut., 1 m. 50; larg., I m.15; prof, 50 cent.
+
+## 322
+
+Caqueteuse. Le siege, en forme de trapeze, repose sur un pietement a colonnettes unies reunies par des traverses.
+
+Les accoudoirs cintres sont supportes par deux colonnettes balustres. Le dossier etroit, orne d'un panneau uni et moulure, est surmonte d'un fronton decoupe, sculpte de palmettes.
+
+Bois de noyer. xvr siecle.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+## 323
+
+Grande armoire a deux corps, fermant a quatre portes et munie de deux tiroirs. Les panneaux des vantaux sont decores: ceux de la partie inferieure, de mascarons inscrits au milieu de cuirs decoupes; et ceux de la partie superieure, de tetes de lions disposees au milieu d'un encadrement de forme architecturale accoste de figures de faunes et de faunesses.
+
+Les montants du corps inferieur sont canneles,ceux du corps superieur presentent des gaines a corps d'homme et de femme.
+
+Le soubassement, reposant sur quatre pieds spheriques aplatis, est sculpte de palmettes juxtaposees. Les memes motifs se retrouvent sur les tiroirs et sur la ceinture. Les panneaux de cotes offrent des arabesques sculptees en bas-relief.
+
+Bois de noyer. Travail lyonnais, xvi siecle.
+
+Haut., 2 m.23;larg., 1 m.78; prof., 70 cent.
+
+Collection Laforge. Lyon, 1867.
+
+J.-B. Giraud, Recueil des principaux objets d’art ayant figure a lExpo- sition retrospective de Lyon, 1877,pl.XIX.
+## 324
+
+Armoire a deux corps, en bois sculpte, ouvrant a quatre portes et munie de deux tiroirs. Elle est ornee, sur les vantaux superieurs, de bustes places au milieu de rinceaux et, sur les vantaux inferieurs, de rosaces disposees egalement au milieu de rinceaux. Le reste du decor consiste en pilastres canneles, feuil- lages, consoles, godrons, etc.
+
+Ecole de Lyon, xvr siecle.
+
+Haut.,2 m.2o;larg.,I m.55;prof.,63 cent.
+
+## 325
+
+Stalle a deux places en bois sculpte.
+
+Le soubassement et le dossier sont ornes de panneaux sculptes a medaillons et a palmettes. Les accotoirs, unis et moulures, sont supportes par deux balustres. Le dossier forme abattant.
+
+Bois de noyer. Travail lyonnais, xvr siecle.
+
+Haut., I m.92;larg.,1 m.02.
+
+<!-- image -->
+
+<!-- image -->
+## 326
+
+Meuble a deux corps, fermant a quatre portes et muni d'un tiroir. Les vantaux sont decores de medaillons ovales inscrits au milieu d'encadrements, composes d'animaux et d'oiseaux, de rinceaux et de guirlandes. Ces medaillons presentent chacun une figure allegorique personnifiant l'Europe, lAsie,lAfrique et l'Amerique. Les montants du corps inferieur sont ornes de quatre medaillons ovales, offrant des cygnes nageant et des aigles aux ailes eployees. lls sont accostes de deux consoles feuillagees.
+
+Les montants du corps superieur sont formes par deux colonnettes munies de chapiteaux feuillages. Sur le tiroir menage dans la ceinture, deux figures allegoriques de femmes couchees :la Justice et la Verite. Sur le linteau, a gauche, Diane couchee appuyee contre le cerf, et, a droite, Junon étendue a cote du paon.
+
+Ce meuble est enrichi de plaquettes de marbre de couleurs.
+
+Bois de noyer clair.
+
+Ecole de Fontainebleau.En partie du xvr siecle.
+
+Haut., 1 m.94;larg.,1 m.13; prof.,48 cent.
+
+J.-B. Giraud, Recueil des principaux objets d'art ayant figure a lExposition retrospective deLyon,1877,pl.XLVI.
+
+<!-- image -->
+## 327
+
+Grand cabinet en ebene, garni de plaques d'ecaille brune moulee. l ouvre a deux portes et est muni interieurement de nombreux tiroirs et d'un compartiment ouvrant a une porte, ornes d'encadrements en ebene guillochee et de plaques d’écaille.
+
+Dans la frise superieure, sont menages deux tiroirs decores egalement de compartiments d'ecaille moulee.
+
+Ce cabinet repose sur une console a fond plein, supportee par quatre colonnettes et contenant deux tiroirs.
+
+Les vantaux presentent chacun un panneau octogonal,en ecaille moulee, a sujet mythologique dispose au milieu d'un enca- drement, forme de bandes d'ebene guillochee et d'ecaille.
+
+Travail espagnol, xvr siecle.
+
+Haut., I m. 72; larg., 1 m.41; prof. 5o cent.
+
+J.-B. Giraud, Recueil des principaux objets d'art ayant figure a lExposition retrospective de Lyon,1877, pl.LIX.
+
+<!-- image -->
+## 328
+
+Cabinet rectangulaire a abattant, en ebene incrustee d'ivoire grave, a sujets tires de I'histoire de l'Ancien Testament. Au milieu de l'abattant, le Triomphe de Jephte. L'interieur est muni de tiroirs et d'un compartiment central fermant a un vantail, egalement enrichi de plaques d'ivoire grave, a compositions relatives a l'histoire de Joseph.
+
+Il est muni de poignees laterales et d'écoincons en cuivre doré.
+
+Travail famand,xvi siecle.
+
+Il repose sur une console a colonnes cannelees.
+
+Hauteur du cabinet,54 cent.;larg,72 cent.;prof.,36 cent.
+
+- J.-B. Giraud, Recueil des principaux objets d'art ayant figure a lExposition retrospective de Lyon,1877,planche LXI.
+## 329
+
+Meuble de salon, compose d'un grand canape a joues et de huit fauteuils, en bois sculpte a coquilles. ll est couvert de tapisserie du xvil siecle, a vases, cornes d'abondance et corbeilles d'ou s'echappent des fruits, des feurs et des feuillages, le tout sur fond bleu clair. Le dossier du canape est encadre de pampres et de grappes de raisin.
+
+Les tapisseries sont posees sur les sieges a la maniere de housses.
+
+Hauteur du canape, 1 m. 12; largeur du canape, 2 m. 08. Hauteur d'un fauteuil, 1 m. o8; largeur d'un fauteuil, 6o cent.
+
+<!-- image -->
+## 330
+
+Grand canape a joues et deux fauteuils, en bois sculpte, a decor de coquilles et palmettes. lls sont couverts de tapisserie a grosses feurs et fruits sur fond jaune. Epoque Regence.
+
+Les tapisseries sont fixees sur les bois a laide de clous de cuivre.
+
+Hauteur du dossier, 1 m.o5;larg., I m. 8g. Hauteur du dossier d'un fauteuil, I m. oi; larg, 6o cent.
+
+<!-- image -->
+## 331
+
+Regulateur de forme contournee,en bois de placage a filets. Il est orne de bronzes, tels que: encadrements, chutes et volutes. Cadran signe : Lepaute, a Paris. Epoque Regence.
+
+Haut.,2 m.26.
+
+## 332
+
+Table-coiffeuse en marqueterie de bois de couleurs a damier, munie d'un abattant a miroir et de deux compartiments places de chaque cote. Elle contient quatre tiroirs et une tablette formant bureau. Chutes, entrees de serrure et sabots en bronze. Epoque Louis XV.
+
+Long.,88 cent.;larg.,52cent.
+
+<!-- image -->
+
+<!-- image -->
+## 333
+
+Secretaire a abattant et trois tiroirs en marqueterie de bois de couleurs a quadrilles. L'abattant est orne,en son centre, d'un monogramme. A l'interieur, six tiroirs et des casiers. Il est garni de chutes,frises,encadrement,poignees de tirage et serrures,etc. en bronze. Dessus de marbre avec galerie de cuivre ajoure.
+
+Epoque Louis XVI.
+
+Haut.,I m.45;larg.,84 cent.;prof., 3g cent.
+
+Provenant de la famille Dugas, de Lyon.
+
+## 334
+
+Console en bois sculpte, ajoure et dore, presentant, sur la ceinture, une course de feuillages et reposant sur quatre pieds reunis par des traverses supportant un vase fleuri. Epoque
+
+Louis XVI.
+
+Dessus de marbre breche violette.
+
+Haut., 91 cent.;larg., I m.26; prof.,54 cent.
+
+<!-- image -->
+
+<!-- image -->
+## 335
+
+Ecran en bois sculpte et partiellement dore. Feuille en tapisserie du temps de la Regence, presentant un vase de Heurs se detachant sur fond jaune avec contrefond bleu charge de rinceaux feuris, de deux dauphins, d'un ecureuil et d'un perroquet.
+
+Hauteur de la tapisserie, go cent.,;larg., 66 cent.
+
+## 336
+
+Ecran en bois sculpte et peint jaune et or. ll est garni d'une feuille en tapisserie du temps de Louis XVI, presentant un sujet galant : garcon et fillette assis dans un jardin, au milieu d'un encadrement compose de rinceaux et de guirlandes de feurs, et abrites par un dais forme d'une draperie a franges d'or.
+
+Hauteur de la tapisserie,75 cent., larg.,52 cent.
+
+<!-- image -->
+## TAPISSERIES
+
+337
+
+Grande tapisserie famande du xv siecle. Elle presente une composition, a tres nombreux personnages, ayant trait a divers episodes d'un combat et de la prise d'une ville, tires d'un roman se rapportant a 1'histoire d'Alexandre et de Nicolas,roi de Cesaire.
+
+Tous ces personnages, hommes d'armes et cavaliers, sont curieusement vetus de somptueux costumes et d'armures du temps et portent des armes,des trompettes et des etendards,dont tousles details sont minutieusement rendus.
+
+A droite, se voient les murs d'enceinte et les tours de la ville d'ou sortent des personnages venant capituler et apporter les clefs de la cite a Alexandre,a cheval devant eux. Au bas,une longue inscription latine explique les sujets, et on distingue, repetes plusieurs fois, sur la tapisserie, les noms d'Alexandre et de Nicolas.
+
+Haut.,3m.8o; larg., 4m.75.
+
+Exposition de Lyon, 1877.-—Exposition des Primitifs Francais,Paris, 1904,n°261.
+
+Cette scene parait tiree du roman d'Alexandre, selon la celebre version redigee en vers alexandrins uu xir siecle par Lambert le Tors (edition H.Michelant,Stutgard,846）.Linterpretation du roman est toutefoismoins litterale que dans la tapisserie suivante.
+
+<!-- image -->
+Exposition de Lyon, 1877.
+
+Cette scene parait etre tiree du roman d'Alexandre, selon la celebre version redigee au xile siecle en vers alexandrins,par Lambert le Tors （edition H.Michelant,Stuttgard,1846,p.14-16).
+
+## 338
+
+Tapisserie famande du xve siecle, presentant une composition a nombreux personnages vetus de somptueux costumes: Philippe, roi de Macedoine, entoure de ses barons, recevant l'envoye de Nicolas,roi de Cesaire, qui exige de lui le tribut.
+
+Au second plan,le jeune Alexandre, appuye a une balustrade, dans une attitude d'affliction. Au fond,Alexandre,monte sur Bucephale, passant a gauche suivi de deux cavaliers.
+
+Plusieurs des personnages qui accompagnent Philippe et
+
+Alexandre,ont leurs noms inscrits en lettres gothiques sur leurs coiffures:Axistes.Caulus.Pierras.Philutes.Anthigonus.
+
+A la partie inferieure,banderole avec inscription en lettres gothiques.
+
+Haut., 3 m. go;larg., 2 m. 10.
+
+<!-- image -->
+Exposition de Lyon, 1877.
+
+Cette tapisserie faisait partie de la meme suite que les precedentes.
+
+## 339
+
+Tapisserie rectangulaire famande, du xv siecle, presentant des hommes d'armes et des cavaliers sortant d''une enceinte fortifiee. lls sont vetus de fort curieux costumes du temps. Au premier plan, un guerrier casque et cuirasse tient un epieu et deux cavaliers soufflent dans des trompettes a fammes ornementees. A la partie superieure, un groupe de cavaliers passent vers la droite, et on distingue, sur la coiffure de l'un d'eux, le nom de Nicolas se detachant en lettres gothiques blanches sur fond marron.
+
+Haut.,2 m.8o;larg.,I m.25.
+
+<!-- image -->
+## 340
+
+Tapisserie famande, du commencement du xvi siecle,representant une importante composition figurant la Nativite.
+
+Au centre, sous l'etable a pignon triangulaire, et dont les piliers ornementes sont garnis d'ecussons d'armoiries, l'Enfant Jesus est adore par un donateur et par la Vierge, agenouilles de chaque cote de la creche. Derriere l'Enfant, le boeuf et l'ane et un ange aux ailes eployees. Au second plan,a droite, saint Joseph debout, et, a gauche, un ange, vetu d'une dalmatique bleue armoriee. Dans le fond, des bergers et divers personnages regardent la scene par-dessus une barriere.
+
+chantent en tenant un volumen.
+
+Au-dessus, devant le toit, un groupe de trois anges volant
+
+De chaque cote du groupe central, les prophetes Michee et
+
+Dans le haut, des scenes a petits personnages, tirees de lAncien Testament se detachent sur un fond de paysage et de feurettes polychromes. Sur le cote, deux ecussons armories du donateur, seigneur de Cluny, et la devise: EN VoVs EN EST.
+
+Elie, vetus de somptueux costumes, debout dans un jardin.
+
+A la partie inferieure, une large banderole portant une inscription versifiee en francais, explique le sujet :
+
+Comment Moyse fut tres fort esbahy. Quant aperceut le vert buisson ardent. Dessus le mont de Oreb ou Sinay.Et n'estoit rien de la valeur perdant. Pareillement la Pucelle eut enfant. Sans fraction ni aucune ouverture. Et la Verge d'Aaron fut florissant. En une nuit : Cela nous le figure.
+
+<!-- image -->
+## 341
+
+Deux panneaux en tapisserie presentant chacun, sur fond bleu, un motif decoratif, compose d'une console surmontee de deux figures nues, assises, qui supportent une draperie disposee au-dessus d'une cariatide a corps de femme, dont la partie infe- rieure se termine en rinceaux.
+
+En haut, une figure de Victoire ailee, tenant une couronne et une palme.
+
+De chaque cote, des animaux fantastiques au milleu de rinceaux feuillages sur fond rose.
+
+Florence (?), xvr siecle.
+
+## 342
+
+Coussin en tapisserie, presentant un medaillon a personnage soutenu par deux anges. Encadrement a personnages et a feurs.
+
+xvre siecle.
+
+Haut., 2 m. 6o;larg., 1 m.20 chacun.
+
+## 343
+
+Tapis de selle, en tapisserie des Gobelins, du temps de Louis XV, presentant, sur fond rouge, un ecusson d'armoiries place au milieu de rocailles, timbre d'une couronne de duc et supporte par deux anges places de chaque cote.
+
+Bordure a fond vert et rouge.
+
+Haut.et larg.,52 cent.
+
+Haut., 1 m.15;larg., 1 m.3o.
+
+<!-- image -->
+## TAPIS
+
+## 344
+
+Tapis veloute de forme rectangulaire. Il presente, au centre, des combats d'animaux au milieu de fleurettes polychromes et de branchages feuillages,le tout sur fond rouge.
+
+Large bordure noire offrant des groupes d'animaux chimeriques disposes symetriquement deux a deux en jaune,blanc et rouge, parmi des feurs et des rinceaux. Galon d'encadrement jaune a compartiments reguliers rouges charges de feurettes.
+
+Travail persan, xvr siecle.
+
+Long., 2 m. 35; larg., 1 m.75.
+
+<!-- image -->
+## 345
+
+Partie d''un tapis a decor de larges palmettes stylisees en jaune sur fond vert et bleu. Bordure de guirlandes de larges feuilles jaunes sur fond vert.
+
+Ancien travail espagnol.
+
+## 346
+
+Petit tapis de forme rectangulaire en velours a fond rouge, presentant un arbuste a larges feuilles et feurs epanouies, en vert, jaune et marron. Sur les cotes, deux cypres, et en haut et en bas, bordure etroite de rinceaux polychromes sur fond gris.
+
+I.ong., I m.20;larg.,87 cent.
+
+Ancien travail d'Asie Mineure.
+
+Ancienne collection Goupil.
+
+Petit tapis en ancien velours de Scutari, a decor de larges palmettes stylisees,inscrites dans des compartiments en jaune sur fond rouge. Bordure d'encadrement a rosaces juxtaposees, disposees symetriquement.
+
+Haut., 1 rn.42; larg., 1 m. 16.
+
+Haut.,2 metres;larg., I m.5o.
+## 348
+
+Grand tapis de forme rectangulaire; il est orne, au centre, d'un large medaillon a fond rouge, cantonne par quatre motifs stylises a fond bleu clair. Bordure a fond rouge charge de feurs.
+
+Long.,5m.55;larg..2 m.60.
+
+Travail oriental,xvil siecle.
+
+## 349
+
+Grand tapis de forme rectangulaire; il est decore,au centre, d'un large medaillon a fond rouge, avec palmettes stylisees polychromes, et de quatre medaillons a fond bleu. Bordure rouge, avec ornements polychromes et galon bleu a palmettes jaunes et rouges.
+
+Ancien travail oriental.
+
+## 350
+
+Grand tapis rectangulaire a fond rouge, a decor de compartiments polychromes et motifs geometriques, disposes symetriquement. Bordure bleue, encadree par deux galons a entrelacs polychromes sur fond blanc.
+
+Ancien travail oriental.
+
+Long., 5 m. 40; larg., 2 m. 6o.
+
+Long., 4 m.55;larg.,2 m.15.
+## ETOFFES
+
+## 351
+
+Panneau rectangulaire en velours tisse d'or, presentant, sur fond rouge, de larges palmettes stylisees jaunes, au milieu desquelles se voient des tulipes.
+
+Travail d'Asie-Mineure, xvl siecle.
+
+## 352
+
+Panneau rectangulaire en velours cisele,a decor de larges palmettes et arabesques vertes sur fond jaune.
+
+Travail venitien, xvi siecle.
+
+Haut.,2 m.3o;larg., 1 m.06.
+
+## 353
+
+Panneau rectangulaire en velours vert cisele, a decor de larges palmettes stylisees contenant chacune une branche feuillagee. Florence, xvi siecle.
+
+Haut.,64 cent.;larg.,1 m.74.
+
+Haut.,1 m.5o;larg., 1 m.12.
+## 354
+
+Panneau rectangulaire en velours boucle, a larges palmettes stylisees, dorees et vertes sur fond rouge.
+
+Ancien travail oriental.
+
+## 355
+
+Panneau rectangulaire forme de deux les en ancien velours de Scutari,a decor de palmettes stylisees en vert et marron sur fond jaune.
+
+Bordure de rinceaux bleus et verts sur fond jaune.
+
+Haut., 1 m.65;largeur totale, 1 m.20.
+
+## 356
+
+Panneau rectangulaire en velours rouge cisele, a decor de palmettes stylisees dans des medaillons lobes.
+
+Travail venitien,xvr siecle.
+
+Haut., go cent.; long., I m.go.
+
+## 357
+
+Panneau rectangulaire en satin bleu tisse de metal simulant un mihrab,et decore d'une branche feurie. Encadrement sur trois cotes de feurs épanouies stylisees sur fond dore.
+
+Ancien travail d'Asie-Mineure.
+
+Cadre moulure en bois.
+
+Haut., 1 m.67; larg., 63 cent.
+
+Haut.,1 m.78; larg., 1 m. 10.
+
+Gaston Migeon, Manuel d’Art musulman, page 41o.
+
+5
+Ancien travail oriental.
+
+## 358
+
+Panneau rectangulaire en satin rouge broche de metal, a decor de larges medaillons formes par des fleurs stylisees epanouies.
+
+Travail oriental,xvre siecle.
+
+## 359
+
+Panneau rectangulaire en soie brochee et tissee de metal, a
+
+Ancien travail d'Asie Mineure.
+
+## 360
+
+Grand panneau en soie brochee, presentant un carrelage charge de grosses feurs stylisees, entourees de rinceaux fleuris sur fond creme et rouge.
+
+Haut., 2 m.4o;larg. 2 m.45.
+
+decor de larges palmettes stylisees, disposees symetriquement et separees par des branches de jacinthes bleues et de tulipes rouges.
+
+Haut., 1 m.58; larg., 1 m.25.
+
+## 361
+
+Panneau de brocatelle de forme rectangulaire; il est decore de palmettes stylisees et de motifs ornementes timbres d'une
+
+Travail italien, xvl siecle.
+
+couronne, le tout en jaune sur fond rouge.
+
+Haut., 2 m.65; larg., 1 m.
+
+Haut.,1 m.52; larg., 1 m.33.
+## VITRINES
+
+## 362 a 364
+
+Trois vitrines murales en fer et glaces, fermant a deux vantaux et garnies de trois tablettes interieures gainees de drap gris, disposees sur des montants a cremaillere.
+
+Haut.,2 m.o5;larg,1 m.70;prof.,40 cent.
+
+## 365
+
+Vitrine murale en fer et glaces, ouvrant a une porte. Elle est munie de trois tablettes gainees de drap gris et disposees sur des montants a cremaillere.
+
+Haut., I m. 75;larg., go cent.; prof., 42 cent.
+
+## 366
+
+Deux vitrines plates de forme rectangulaire en bois noir, ornees de glaces sur le dessus et sur trois des cotes. Elles ouvrent au moyen de deux portes a charnieres disposees a la partie posterieure et reposent sur une console a quatre pieds canneles.
+
+Haut.,1 m.o5;larg.,65 cent.
+
+<!-- image -->
+PARIS
+
+## IMPRIMERIE GEORGES PETIT
+
+J.AUGRY,DIRECTEUR
+
+I2,RUE GODOT-DE-MAUROI,12
+
+OCTOBRE 1913

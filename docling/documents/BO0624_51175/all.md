@@ -1,0 +1,1426 @@
+## CONDITIONS OF SALE
+
+- I.Rejection of bids: Any bid which is not commensurate with the value of the
+- II. The buyer: The highest bidder shall be the buyer,and if any dispute arises between two or more bidders,the auctioneer shall either decide the same or put up for re-sale the lot so in dispute.
+- article offered,or which ismerely a nominal or fractional advance may be rejected by the auctioneer if in his judgment such bid would be likely to affect the sale injuriously.
+- III.Identification and deposit by buyer:The name of the buyer of each lot shall be given immediately on the sale thereof,and when so required,each buyer shall sign a card giving the lot number,amount for which sold,and his or her name and address.
+- purchase prices asmay be required.
+- IV. Risk after purchase:Title passes upon the fall of the auctioneer's hammer,
+- If the two foregoing conditions are not complied with, the lot or lots so purchased may at the option of the auetioneer be put up again and re-sold.
+- and thereafter the property is at the purchasers'risk,and neither the consignor nor the breakage,however occasioned,or any other cause whatsoever.
+- payment ofthe total amount due for all purchasesat the sale.
+- V.Delivery of purchases: Delivery ofhany purchases will be made only upon
+- VI. Receipted bills:Goods will only be delivered on presentation of a receipted bill.A receipted bill presented by any person will be recognized and honored as an order by the buyer,direeting the delivery tothe bearer of the goods described thereon.If a receipted bill is lost before delivery of the property has been taken, the buyer should immediatelynotify the Association of such loss.
+- that of the sale may be turned over by the Association to some carter to be carried to and stored in somewarehouse until the time of the deliverytherefrom to thepurchaser. and the cost of such cartage and storage and any other charges will be charged against the purchaser and the risk of loss or damage occasioned by such removal or storage will be upon the purchaser.
+- VIl. Storage in default of prompt payment and calling for goods:Articles not
+- In any instance where the purchase bill has not been paid in full by noon of the day following that of the sale, the Association and the auctioneer reserve the right,any other stipulation in these conditions of sale notwithstanding，in respect to any or all lots included in the purchase bill,at its or his option,either to cancel the sale thereof or to re-sell the same at public or private sale without further notice for the account of the buyer and to hold the buyer responsible for any deficieney and all losses and expenses sustained in so doing.
+- the Association is in no wise engaged,but the Association will, however,afford to purdoing so,however,without any assumption of responsibility on its part for the acts and charges of the parties engaged for such service.
+- VIlL. Shipping: Shipping,boxing or wrapping of purchases is a business in which
+- IX.Guaranty: The Association exercises great care to catalogue every lot cordefect or imperfection,but guaranty is not made either by the owner or the Association of the correctness of the description,genuineness,authenticity or condition of any lot and fection notnoted or pointed out.h Every lot is sold "as is and without recourse.
+
+Every lot is on public exhibition one or more days prior to its sale,and the Association wili give consideration to the opinion of any trustworthy expert to the effect that any lot has been incorrectly catalogued and in its judgment may thereafter sell the lot responsible for such damage as might result were his opinion without foundation.
+
+- be considered final and the highest bid shall in all cases be accepted byboth buyer and
+- seller as the value against which all claims for losses or damage shall lie.
+
+Orders for execution by the Association should be given with such clearness as but also the title,and bids should be stated to be so much for the lot,and when the lot consists of one or morevolumes of books or objects of arts,the bid per volume or piece should also be stated.If the one transmitting the order is unknown to the Association,a deposit must be sent or reference submitted. Shipping directions should also
+
+- XI.Buying on order: Buying or bidding by the Association for responsible parties on orders transmitted to it by mail,telegraph,or telephone,if conditions permit, will be faithfully attended to withoit charge or commission.Any purchases so made will be subject to the foregoing conditions of sale,except that,in the event of a purchase ofa lot of one or more books by or for a purchaser who has not through himself or his agent been present at the exhibition or sale,the Association will permit such lot to be if the lot differs from its catalogue description.
+
+be given.
+
+These conditions of sale cannot be altered except by the auctioneer or by an officer
+
+Priced Catalogues:Priced copies of the catalogue, or any session thereof, will be furnished by the Association at charges commensurate with the duties involved in copying the necessary information from the records of the Association.
+
+of the Association.
+
+OTTO BERNET, HIRAM H.PARKE, AUCTIONEERS.
+
+AMERICANART ASSOCIATION,INC.,
+
+MANAGERS.
+## EVENING SALE
+
+WEDNESDAY,JANUARY9,1924
+
+## IN THE ASSEMBLY HALL
+
+OF
+
+## THE AMERICAN ART GALLERIES
+
+BEGINNING AT 8.15 0'CLOCK
+
+Catalogue Numbers l to 103, inclusive
+
+## WILLIAM TROST RICHARDS
+
+AMER1CAN:1833-1905
+
+## 1SUNRISE AT ATLANTIC CITY
+
+(Water Color)
+
+Height, 11 inches; length, 21 inches
+
+ReD-yELLow sand at the extreme right edge of the foreground; the broad fat beach lined with the ripples of all but spent waves; white combers following them, from the left. Horizon clouds tinged with
+
+Signed at the lower left,Wm. T. RicHARDs.
+3-VENICE
+
+Height,131/2 inches;length,231/2 inches
+
+LookING across the Molo and the Piazzetta toward the Library and the Royal Palace, which appear under a robin's-egg sky displaying feecy clouds. On the right the Ducal Palace, and in the foreground light green water, with a gondola just appearing under the Paglia bridge. Everywhere many modern people in many colors.
+
+Signed at the lower left,F.HoPKINsoN SMITH.
+
+## A.LETOR
+
+CONTEMPORARY
+
+## 2-EN PROMENADE
+
+(Water Color)
+
+Height, 1934 inches; width, 1034 inches
+
+AN informal path bordering an edge of a green wood in spring.A On the verdure of the pathside a blue parasol, opened, some light textiles of brilliant color, and near at hand a tall
+
+Signed at the lower left, A. Leror, *76.
+
+## F.HOPKINSON SMITH
+
+AMERICAN:1838-1915
+
+hazy sunny day. hat and a walking-stick.
+## HENRY WARD RANGER,N.A.
+
+AMERICAN:1858-1916
+
+## 4IN HOLLAND
+
+(Water Color)
+
+Height, 20 inches; length, 281/2 inches
+
+A wANDERiNG river or broad canal winds through a green grazing and agricultural country, its smooth surface bluish, gray and white with refections of a confused sky. On it some laden and sluggish sailboats, with figures aboard. In a path paralleling the stream on the left, a man walking toward a distant hamlet.
+
+Signed at the lower left, H.W. RANGER, 84.
+
+## LEO HERRMANN
+
+FRENCH:1838—1907
+
+## 5-THE CHEF'S RELAXATION
+
+(Panel)
+
+Height,6 inches; width,4 inches
+
+IN the broad sandy path of a park, where a few stray leaves have fallen,a table from some neighboring restaurant has been set with white napery and a tray holding coffee, sugar and brandy. Beyond the path the green lawn contains a bed of fowers, in the sun before dark green woodland. At the end of the table a smiling chef all in white, who faces the observer, sprawls comfortably in his chair after his refreshment, and beams with joy as he reads his favorite Figaro.
+
+Signed at the lower right,LEo HERRMANN.
+breeches.
+
+## JULES ADOLPHE GRISON
+
+FRENCH:1845
+
+6-READING
+
+(Panel)
+
+Height,4 inches;width,3 inches
+
+FuLL-LENGTH portrait of a gentleman seated in a high-backed armchair in the corner of a room, smoking a long-stemmed clay pipe and reading, an open window at his left giving upon a green garden. He faces the observer and slightly toward the right, and his rich costume includes an olive waistcoat and white jabot, crimson coat and orange
+
+Signed at the lorwer left, GRison.
+
+## JULES JACQUES VEYRASSAT
+
+FRENCH:1828-1893
+
+## 7-HARVESTING
+
+Height,312 inches; length,612 inches
+
+Two hay wagons, each drawn by a black and white horse, are standing near a half-finished hayrick, both of them partly hidden by the mass of hay. Peasant women on the rick are busy tramping down the hay which is pitched upon the pile from the loads. In the distance is a pleasant sunlit landscape, with low hills at the horizon.
+
+Signed at the lower right, J.VEyRAssAT.
+
+From the H.Wood Sullivan Collection, April 3, 1903.
+## CHARLES EMILE JACQUE
+
+FRENCH:1813-1894
+
+## 8-SHEEPFOLD
+
+(Panel)
+
+Height,412 inches;length,512 inches
+
+IN a faintly shadowed corner of a sheepcote two gray sheep are standing, turned slightly toward the left and with backs to the spectator, feeding at a rack. A soft light slanting in from above glints from glossy surfaces of their feece, and gives a greenish-golden note to the straw on the foor, where a white hen is pecking.
+
+Signed at the lower left, CH. JAcQUE.
+
+From the William Schaus Sale, New York,1898.
+
+From the James B. Haggin Collection, April 4, 1917.
+
+## DAVID JOHNSON,N.A.
+
+AMER1CAN:18271908
+
+## 9ON THE DELAWARE,AT HANCOCK
+
+(Board)
+
+Height,434 inches; length, 61/2 inches
+
+PARALLELING the river, which reaches from foreground to distance on the left,an informal road runs between lines of trees on the right, the trees in silhouette against a light sky.Cows stand in the shallow water near the grassy shore line. In the distance on the far side of the stream, houses and a hill.
+
+Signed at the lower right, DJ (monogram), and again on the back with title.
+## ETIENNE PROSPER BERNE-BELLECOUR
+
+FRENCH:1838-1910
+
+## 10-SOLDIERS AND VILLAGE
+
+(Panel)
+
+Height, 434 inches; length, 814 inches
+
+THREe French buglers in their blue and red uniform are portrayed in a sunny and grassy foreground, two of them standing,one seated on the side of a hill at the left. In a valley in the middle distance the numerous houses of a village or town,with green woods turning brown in the distance beyond them.
+
+Signed at the lower left,E.BERNE-BELLEcoUR,1877.
+
+## C.HOGUET
+
+NINETEENTH CENTURY
+
+## 11-PACKING VEGETABLES
+
+(Panel)
+
+Height,51/2inches;length,714 inches
+
+FREsH vegetables in variety strew the foor of a basement or cellar room to which a broad light penetrates.A far window looks dimly upon a green outdoors. Under the heavily beamed ceiling and beside the entrance to a stairway a peasant woman in red and blue and white is placing the vegetables in large market baskets and covering them.
+
+Signed at the upper left, C. HogUET, '58.
+## EUGENE JOSEPH VERBOECKHOVEN
+
+BELGIAN:1799-1881
+
+## 12-SHEEP AND CHICKENS
+
+(Panel)
+
+Height, 61/2 inches; length, 8 inches
+
+LyING on the thick and warm-hued straw in a sheepcote are seen a white ewe and her lamb, the ewe facing the left with head up, the lamb curled at her feet. At one side a gray and white hen gathers her brood. Both groups in sunshine.
+
+Signed vertically on the beam at the right,EuGENE VER-
+
+BOECKHOVEN.
+
+## WILHELMVELTEN
+
+GERMAN:1847-
+
+## 13-THE HUNTERSHALT
+
+(Panel)
+
+Height, 614 inches; length, 914 inches
+
+AN inn among its vines, on the right, opens upon a yard, at the left of which are related buildings, and through a gateway is seen an allée of green trees. At the inn porch mine host and a maid are serving wine to a finely clad man who has dismounted from his white hunter, while a companion still seated on his dark chestnut mount is lighting his pipe.
+
+Signed at the lower right,W.VELTEN,MuNcHEN.
+## C. HOGUET
+
+## NINETEENTH CENTURY
+
+## 14-AT THE FIREPLACE
+
+(Panel)
+
+Height, 614 inches; reidth, 434 inches
+
+SEATep on a low stool before a gray fireplace a peasant woman in red, wearing a green apron and a white cap, bends over cooking-kettles, raising the lid of one while she holds in her other hand the knife with which she is cutting vegetables for further culinary operations. Beside her, a comfortably seated cat. On the mantel shelf various jars and utensils.
+
+Signed at the lower left, C. HoguET, 63.
+
+## ADOLPH SCHREYER
+
+GERMAN:1828-1899
+
+## 15-WALLACHIAN POST STATION
+
+(Panel)
+
+Height, 81/2 inches;width, 614 inches
+
+THE corner of a rude but firmly built rustic cabin with thatch roof projects from the right, receding to a fence which encloses its dooryard. Snow clings to the roof, and covering the ground blows toward the foot of a single, solid wooden door which is closed. A lone horseman, swarthy of hue and heavily clad, mounted on a short sorrel stallion, has ridden to the door and raps on it with the butt of his whip.
+
+Signed at the lower right,AD. ScHREyER.
+
+From the William Schaus Collection.
+
+From the Mary J. Morgan Collection, New York,1866; No. 60.
+
+From the Mrs.E. W. Bass Collection, New York.
+
+(Illustrated)
+<!-- image -->
+## ENGLISH SCHOOL
+
+## 16-LANDSCAPE WITH COTTAGES
+
+Height, 814 inches; length, 14 inches
+
+A coTTAGE at right, with trees and wild-growing bushes; in the middle distance another cottage at left, under a blue sky flled with white clouds. In front of the former cottage, in the sunshine, a little girl in blue skirt and white cap is seated on the ground, and a country woman
+
+## F.NARCHETTI
+
+ITALIAN:CONTEMPORARY
+
+## 17-ROMEO AND JULIET SERENADE
+
+(Panel)
+
+Height, 1134 inches; length, 16 inches
+
+On a balcony of a Venetian palace fanked by its garden of fowers and trees a fair young lady with fowing Titian tresses and wearing an emerald gown appears, and reaches down for a bouquet handed up toward her by a man in blue and green, while a young man in brown and crimson plays a lute, looks up and sings, both men in a gondola brought to a halt by a gaily dressed gondolier.
+
+Signed at the lower right, F. NARcHETTI, 1885.
+## ANTONIO CASANOVA Y ESTORACH
+
+SPANISH:1847-1896
+
+## 18-THEYAWN
+
+Height, 91/2 inches; width, 634 inches
+
+FaciNG the spectator and with his chair tilted back against the wall a self-complacent gentleman in silver-gray silk, gray stockings and brown leather shoes rests his head against his hands which are clasped at the back of it, and indulges in a prolonged yawn. He wears a gray hat and a rose-hued sash, and his sword and pipe are at his side.
+
+Signed at the lower right, A. CAsANovA, RoMA, 1872.
+
+## LEO HERRMANN
+
+FRENCH:1838—1907
+
+## 19-THE CARDINAL'S REFRESHMENT
+
+Height, 10 inches; width, 7 inches
+
+FuLL length figure of a gray-haired cardinal in fowing robes and skullcap, seated in a high-backed chair upholstered in dark crimson, partaking of a hot beverage from a white coffee cup, the remainder of his refreshment service at hand on a table with a green covering. He is in profle to the right. Floor covering a brilliant Oriental rug; background dark.
+
+Signed at the upper right, LEo HERRMANN.
+
+From the William Schaus Sale.
+
+From the H. S. Waite Collection, April 24, 1919.
+## A.GUES
+
+FRENCH
+
+## 20-STANDARD BEARER
+
+(Panel)
+
+Height, 8 inches; width, 6 inches
+
+A MIDDLE-AGED man with a full reddish beard is sitting on a stool before a carved door with long strap hinges. He leans forward with right elbow resting on knee and in his left hand holds the folds and staff of a white and blue standard. He is dressed in gray and orange
+
+Signed at the lower left, A. GuEs.
+
+From the Simeon J.Drake Collection, March 24,1915.
+
+## J.BEAUFAIN IRVING, N.A.
+
+AMERICAN:1826-1877
+
+21-ON WATCH
+
+(Panel)
+
+Height,9 inches;width,7 inches
+
+In the crypt or cloisters of a churchly edifice which has been battered by wars or time a cavalier in rich seventeenth century dress has taken refuge, with a faithful follower in helmet and cuirass. They stand facing an archway at the left, alert on the defensive, the cavalier with sword drawn and one hand on the shoulder of his friend and defender, who has leveled his musket.
+
+Signed at the lower right, J. BEAUFAIN IRvING, N.A.
+
+From the William Schaus Collection.
+
+with bright yellow stockings.
+## JEHAN GEORGES VIBERT
+
+FRENCH:1840-1902
+
+## 22-THE SENTINEL
+
+Height, 121/2 inches; width, 9 inches
+
+Ar a small doorway of castle or fortress a solitary man is seen on guard, at the foot of a winding flight of stone steps. He is in brown garb with red stockings and wears a steel helmet, and is armed with battle-axe and sword.
+
+Signed at the lower right, J. G. VIBERT, '69.
+
+From the John W. Sterling Collection, January 17, 1919.
+
+## CARL KRONBERGER
+
+AUSTRIAN:1847-
+
+## 23-HAPPINESS IN STUDY
+
+(Panel)
+
+Height, 9 inches; width, 634 inches
+
+THREE-qUARTErs length portrait of an aged monk in black habit and skull cap, seated and facing the right at a table on which a huge parchment volume is open, and with arms resting on it he reads with such pleasure that his wrinkled face is beaming with delight.
+
+Signed at the upper left, C. KRoNBERGER.
+<!-- image -->
+
+## ERSKINE NICOL, R.S.A., A.R.A.
+
+ENGLISH:1825-1904
+
+## 24HAPPY IN HIS OWN MUSIC
+
+Height, 131/2 inches; width,11 inches
+
+A FLoRID and husky oldster in a green coat and brown waistcoat and trousers sits beside a plain wooden table, on which his hat and glass rest, and looking with gay and complacent good humor at the observer, proceeds to play to his own satisfaction on his own guitar.
+
+Signed at the upper left,E.N.
+
+From the John W. Sterling Collection, January 17, 1919.
+## A.BONNEMAISON
+
+## 25-ON THE SHORE
+
+Height,101/2 inches; length,131/2 inches
+
+ON the left of the sandy foreground are two fish baskets. A third lies near the centre,behind which sits a woman in white cap and apron, while at her back stands another. In the distance near the water's edge appear six more figures, and to the right of them a man on horseback. Two sails dot the whitish sea, which catches the light from a pale greenish sky overspread with layers of white cloud.
+
+Signed at the right,A.BoNNEMAIsoN.
+
+From the Mrs. S.B. Conklin Collection,February 9, 1905.
+
+## ALBERTO PASINI
+
+ITAL1AN:1826-1899
+
+## 26-EN GRAND CORTEGE
+
+(Panel)
+
+Height,103 inches;width,814 inches
+
+CoMing down a defle in a rough country,and emerging from shadow into brilliant sunlight,a Bedouin escort leads and accompanies two personages traveling in state and dimly perceived in the depths of a scarlet and green howdah borne by a haughty camel. The escort ride proud and prancing horses and are garbed in rich colors.
+
+Signed at the lower right,A.PAsINI, 1866.
+## JULES WORMS
+
+FRENCH:1832-1881
+
+## 27-S'IL VOUS PLAIT!
+
+(Panel)
+
+Height, 14 inches; width, 1012 inches
+
+AN interior with two figuresa bewiskered man in blue breeches and red stockings, mustard jacket trimmed with red and a white waistcoat, on the left, with feet apart and hands spread in front of him palm upward, apparently either pleading for cash due or indicating an inability to go on otherwise; and a tall man in domino and high conical cap with astronomical figures on it, who poses thoughtfully in helpless attitude with arms folded and downward gaze. Entertainment poster on wall.
+
+Signed at the lower right, J. WoRMs.
+
+## ETIENNE PROSPER BERNE-BELLECOUR
+
+FRENCH:1838-1910
+
+## 28-SCALING A WALL
+
+(Panel)
+
+Height, 1734 inches; width, 121/2 inches
+
+IN brilliant sunshine under a turquoise sky the corner of a creamy, plastered brick wall, with a globe atop the coping and an abutment reinforcing the angle, is depicted close in the foreground, a patch of one astride the wall on his way over and the other reaching up to him
+
+Signed at the lower left,E.BERNE-BELLEcoUR.
+
+his musket.
+## CHARLES LEICKERT
+
+BELGIAN:1817—
+
+Height,18 inches;length,24 inches
+
+ENTERiNG into view from the right, grass-grown dunes descending to the broad fat beach of a stretch of the Dutch or Belgian coast, with the tide out and the sea and various vessels visible at the left. Heavy fishing boats with sails lie on the sands or in the shallows, and figures are seen along the beach. In the foreground, on the dunes, brick and tile cottages of a fishing hamlet stand out in the sunlight, and about them are men, women and children, to the number of a score or more.
+
+Signed at the lower left, CH.LEIcKERT,F.59.
+
+## LEON VICTOR DUPRE
+
+FRENCH:1816-1879
+
+## 30-LANDSCAPE WITH FIGURES
+
+Height, 1114 inches; length, 1834 inches
+
+FAR-FLuNG felds, level or lightly rolling, and given to to grass or cultivation, stretch away to blue hills under a brilliant sky. In a sunny pasture of the foreground, red cows and white ones and a black one stand lazily or are lying down, and a woman standing converses with a farmer seated on the grass.
+
+Signed at the lower right,VicTor DuPRE, 1856.
+## ANDREAS SCHELFHOUT
+
+DuTcH:1787-1870
+
+## 31-WINTER IN HOLLAND
+
+(Panel)
+
+Height, 912 inches; length, 13 inches
+
+A BRoAD and frozen river curls forward from the distance, between a wooded point on the left and a lower point on the right, the latter supporting a low gray cottage with a high gable roof of red tile. Backwaters of the stream appear in the foreground, and brown rushes in and about them project above their blue and gray-white ice covering. On the ice both nearby and far away are heavy Dutch figures, skating. In the background a populous town.
+
+On back (written) : “A. Schelfhout, The Hague, 1857."
+
+## THEOPHILE EMMANUEL DUVERGER
+
+FRENCH:1821—
+
+## 32-FEEDING THE PET BIRD
+
+(Panel)
+
+Height,123 inches; width, 91/ inches
+
+Two girls are pictured in a cottage room having varied utensils hanging on the walls, and a foor of red tile. One facing the spectator is partially seated on a table on which rests a bird cage, and she holds in one hand a pet bird,to which she is feeding berries from a bowl held by a smaller girl who faces her and is seen in profile.They wear home apparel of varied colors and appear in a soft light from a win- dow at the left.
+
+Signed at the lower left,DuvERGER.
+
+Exhibited at the Pennsylvania Academy of the Fine Arts,1858,No.
+
+203, by James Harrison, Jr.
+## NARCISSE BERCHERE
+
+FRENCH:1822-1891
+
+(Panel)
+
+Height, 9 inches; length, 91/2 inches
+
+PAsTuREs and other fields extend on the right to a distant hamlet whose church appears on the horizon. At left in middle distance the land rises to a bunch of trees standing before the corner of a farm building. In the foreground at a bar, or rail gate, and in the sunshine stand an old but sturdy white horse and a black and brownish goat. The horse, a fine old animal, faces the left and is carefully and expressively studied, and the lights on its coat, engaging in quality, are sympathetically treated.
+
+## LEON AUGUSTIN LHERMITTE
+
+FRENCH:1844-
+
+## 34-IN THE ORCHARD
+
+Height,101/2 inches;length,133 inches
+
+ON the right a farm woman in gray waist and blue apron stands on the brown earth of a cultivated feld,sickle in hand,beside an orchard just beyond which is a green field of partly cut hay.Some of the orchard trees are in blossom,cottages are seen along the foot of a hill and a church stands on top of it,and the sunshine shines under a hazy spring sky.
+
+Signed at the lower left,L.LHERMITTE.
+## THEOPHILE EMMANUEL DUVERGER
+
+FRENCH:1821—
+
+## 35-WOE IN THE STABLE
+
+(Panel)
+
+Height, 1312 inches; width, 101/2 inches
+
+A vERy small girl in a blue frock and white cap has come to grief and lies prone and crying on the straw-strewn foor of a farm stable, and an older boy stands looking down at her while he holds a wholly unconcerned white nannygoat. On a table and in a food trough at the rear, under a feed rack,lie pumpkin and other vegetables.
+
+Signed at the lower left,DuvERGER.
+
+## FREDERICK JOHANN VOLTZ
+
+GERMAN:1817—1886
+
+36AT THE FARM
+
+(Panel)
+
+Height, 91/2 inches; length, 151/2 inches
+
+ON green grass in the foreground a black cow is standing and a white-faced rew cow and a goat are lying down, in the sun, against a fence over which a pollarded tree leans;beyond the fence a building with a tile and thatch roof. At left in the background a stream where ducks swim and cows drink, a maid on a footbridge watching them, and a
+
+Signed at the lower right,FR.VoLrz,85.
+
+comfortable farmhouse.
+## JOHN GEORGE BROWN,N.A.
+
+AMERICAN:1831—1913
+
+## 37-PROUD OF HIS BICEPS
+
+Height, 18 inches; width,12 inches
+
+FuLL-LENGTH portrait of one of the artist's favorite bootbiacks of of nineteenth century New York, seated and facing the left, threequarters front. He is sitting on his upturned "Shine" box, and brushes and shoe polish lie in front of him. Smilingly he raises his shirt sleeve and shows how his work develops his muscle.
+
+Signed at the lower left, J. G. Brown, N.A.
+
+## BENJAMIN EUGENE FICHEL
+
+FRENCH:1826-1895
+
+## 38-GAMING AT THE INN
+
+(Panel)
+
+Height, 1434 inches; length, 2134 inches
+
+WiTHiN the spacious room of an inn which shows a large fireplace a dozen gentlemen are portrayed, most of them seated at table, playing games, their swords in evidence beside them. They are in crimson and emerald velvet, and other colors, and wear gorgets and white collars, small clothes and sandals.
+
+Signed at the lower left,E. FicHEL, 1886.
+## N. PRESCOTT-DAVIES
+
+ENGLISH: CONTEMPORARY
+
+## 39-IDEAL HEAD
+
+Height,16 inches;width,12 inches
+
+PoRTrAiT nearly at half-length of a handsome young English woman, facing the left and observed a little more than in profile,in brilliant light against a neutral grayish background. She wears a pale greenish robe of soft material looped in classic design over her shoulder, revealing her bare arms and a low neck, and her light hair is bound with a scarf of pale gold figured in turquoise-blue. In her right hand she holds up fowers to scent their fragrance.
+
+Signed at the lower right, N. PREscoTT-DAvIEs,1893.
+
+## PIERRE EDOUARD FRERE
+
+FRENCH:1819-1886
+
+## 40-COUNTING HER CHANGE
+
+(Panel)
+
+Height,123 inches;width,914 inches
+
+A youNG girl in an olive-gray smock over an orange-brown skirt has returned from market with a basket of green vegetables,which she has set down beside her in the corner of a gray-walled cottage room. She has seated herself on a stool near a stove on which a kettle boils,and quarters front.
+
+Signed at the lower right,EDoUARD FRERE,81.
+<!-- image -->
+
+## MARIE FRANCOIS FIRMIN-GIRARD
+
+FRENCH:1838-
+
+## 41-A BEAUTY OF THE HAREM
+
+Height, 153/ inches; zeidth, 101/2 inches
+
+STANDING figure of a dark-haired,plump and smiling young woman with large golden hoop earrings,lower legs bare and one slipper kicked off,facing g the spectator as she leans against a tile and plaster wall. Her knee-length dress is white and filmy and she wears a scarlet girdle and multicolor sash, a gold-spangled scarf and fancy headdress. At her left a mosque ball is suspended from a cabinet, above a divan beside which stands a narghileh.
+
+Signed at the lower left, FIRMIN-GIRARD, 1872.
+## PAUL LOUIS NARCISSE GROLLERON
+
+FRENCH:1848—1901
+
+## 42-SOLDIER RESTING
+
+Height, 1614 inches; width, 13 inches
+
+GREEN turf cut by a rude road extends from foreground to a distant crest over which a bit of sky is visible.A few trees and some brown brush comes to view on the right, and at left the scene is bounded by a brown hillside. On the grass in the foreground a French infantryman burdened with a heavy pack has seated himself for a momentary rest while he rebandages his wounded leg.
+
+Signed at the lower left, P. GRoLLERoN.
+
+## DAVID JOHNSON, N.A.
+
+AMERICAN:1827—1908
+
+## 43-MOUNT LAFAYETTE,NEW HAMPSHIRE
+
+Height, 1014 inches; length, 18 inches
+
+ExTENDING across the middle distance a green and wooded valley, whence a river of swift current winds to the foreground, where trees and brush show autumnal colors.At left a glimpse of woodcutters cottages. In the distance a gray range of white peaks under a light grayish sky strewn with white clouds.
+
+Signed at the lower left, DJ (monogram) 1871; and again on theback,with title.
+<!-- image -->
+
+## ETIENNE ADOLPHE PIOT
+
+FRENCH:CONTEMPORARY
+
+44-LA PRIERE
+
+(Panel)
+
+Height,191/4 inches;width,1614 inches
+
+PorTRAir in profle of a fair young girl, her pale blond hair falling about her shoulders, her eyes directed upward and her clasped hands brought up before her breast, nearly to her lifted chin. She faces the left, with a full light from the right and in front on her fair features, before a dark background. Portrayed at less than halflength, in a pale green frock.
+
+Signed midway at the left,A.ProT.
+
+From the Salon of 1895,No.1540,and bearing the label of a previous mention.
+<!-- image -->
+
+## LOUIS EUGENE BOUDIN
+
+FRENCH:1824-1898
+
+## 45-MARINE
+
+Height, 9 inches;length, 141/ inches
+
+THE observer looks into the mouth of a harbour, straight up a river in which are seen various square riggers, one being towed down in the middle of the stream, the smoke of the tug drifting across her bow. The water is silvery-gray, refecting a cloud-screened sky sparsely dotted with blue. At left the square tower of a church or town building, in the middle distance, and on the opposite bank of the river, at right, a windmill and some colorful cottages.
+
+Signed at the lower right, E. BouDin, 1885.
+## CHARLES OLIVIER DE PENNE
+
+FRENCH:1831-1897
+
+## 46-DOGS AND WOODS
+
+(Panel)
+
+Height, 16 inches; width, 103/4 inches
+
+Two fine dogs of dignified expression are pictured facing the right, one on its haunches, one lying down, both with leashes leading to the high bar of a heavy gate. Sunshine reveals the soft glisten of their coats and illumines in varying penetration the greenery of the thick woods supplying their background.
+
+Signed at the lower right, OL. DE PENNE.
+
+## FREDERICK JOHANN VOLTZ
+
+GERMAN:1817—1886
+
+## 47-BOY WITH COWS
+
+(Panel)
+
+Height, 141/2 inches; length, 16 inches
+
+UNpER a tree of enormous trunk and dense foliage but relatively short limbs,a barefooted farmer's boy is seated high on an adjunct of a gray wooden farm building, smiling at a favorite black cow who is momentarily interested in him. Both boy and cow are partly in sunshine and partly in shadow, as are a red cow and a tawny and white calf in front of them, drinking at a brook.
+
+Signed at the lower left, Fr.VoLrz, 1867.
+## WILLIAM HART,N.A.
+
+AMER1CAN:1823-1894
+
+## 48-LANDSCAPE AND CATTLE
+
+Height, 14 inches;length, 18 inches
+
+ON the right in middle distance three cows standing in the sunshine on the green bank of a river which winds through s sylvan country, and beyond them as many more, their coats of varying color, standing in the stream. Tall trees on the bank put the second group partly in the shade. On the opposite bank of the river more trees, mirrored in the water, and in the distance blue hills.
+
+Signed at the lower right, Wm.HART,1886.
+
+From Reichard’s, New York.
+
+## BAREND CORNELIS KOEKKOEK
+
+DuTcH:1803-1862
+
+## 49-LANDSCAPE AND FIGURES
+
+(Panel)
+
+Height, 151/ inches; length, 183 inches
+
+IN a grayish earthern road just within the edge of a wood, on the left, several figures appear, standing, or seated on the bordering grass two women and three men, a dog, and a horse attached to a twowheeled farm cart. They are observed at a bend, where sunshine from open lands at the right illumines the road as it emerges from the Here a brook is seen at the side of the road. In the distance, across the open country at the right, the tower of a church appears over a hill.
+
+Signed at the lower left, B. C. KoEkkoEk, 1856.
+## ETIENNE ADOLPHE PIOT
+
+FRENCH:CONTEMPORARY
+
+Height, 181/4 inches; width, 1514 inches
+
+PorTRAIT nearly at half-length of a young woman seated with figure to left and face turned three-quarters front, before a crimson drapery, holding up a missive and smiling happily as she reads. She has dark chestnut hair done in many waves, and a diaphanous lavender-white scarf loosely wrapped about her leaves nude her shoulder, which catches the high light of the composition.
+
+Signed at right, above the shoulder, A. Pror.
+
+## UNIDENTIFIED
+
+## 51-LANDSCAPE
+
+Height,201/2 inches; length, 301/2 inches
+
+A RivER in the foreground at the left bends to right in the middle distance, its blue and silvery surface mirroring background trees at the bend, and also trees and shrubs growing along its bank on the right. In a path along this bank, paralleling a rail fence, a farmer leads a number of cows toward a fine old white farmhouse with additional smaller buildings, while a woman appears far ahead of him in the same path. Within the angle of the river bend stands a white church surrounded by tall trees.
+
+Signature at lower left not readily decipherable.
+## ANGELO ASTI
+
+ITAL1AN:1847—1903
+
+## 52-IDEAL HEAD
+
+Height, 24 inches; width, 1814 inches
+
+HEAD and bust portrait of a young woman with large eyes of light brown, and an abundance of brown hair which parted over the centre of her forehead is spread in a loose mass of curling and wavy tresses which spans her shoulders and comes well down her arms. With figure somewhat to left,her face is turned to the front,with the light full upon it and upon her breast. Low corsage. Crimson kerchief about her head.
+
+Signed at the lower right,A.AsTI.
+
+## LUDWIG MUNTHE
+
+1841-
+
+## 53-A WINTER SUNSET
+
+Height,21 inches;width,171/2 inches
+
+From the right foreground a road leads away to the middle distance, where it makes a turn to the right near a cottage. The ground is covered with partly thawed snow, and in the level places and in the ruts and foot-tracks on the road pools of snow-water reflect the glow of the winter sunset. Two peasants are stolidly tramping through the slush, futtering crows are about to settle on the trees, and high in the heavens is the crescent of the new moon.
+
+Signed at the lower left, L. MuNTHE.
+
+From the George I. Seney Sale, 1894.
+
+From the Estate of the late Mark Hoyt,February 9,1905.
+<!-- image -->
+
+## BAREND CORNELIS KOEKKOEK
+
+DUTCH:1803-1862
+
+## 54-FOREST AND FIGURES
+
+(Panel)
+
+Height, 1714 inches; width, 1512 inches
+
+GREEN forest depths on either hand, and an informal road coming from the distance through the centre.Along this travelers from the countryside have come, reaching an open spot in the foreground where they have paused beside a brookmen and a woman, accompanying They sheep and laden asses, and one man mounted on a farm horse. converse in sunshine slanting down upon them from the left.
+
+Signed at bottom to right of centre, B. C. KoEkkoEk, FT.,
+
+1850.
+
+On back a manuscript paster in Dutch, signed and sealed by the artist, declaring the painting and its date.
+## JULIEN DUPRE
+
+FRENCH:1851—1910
+
+## 55-AT THE DRINKING POOL
+
+Height, 1814 inches; length,22 inches
+
+GRAy shower clouds drifting away in a blue sky mark hills and a fertile
+
+Signed at the lower right, JuLIEN DuPRE.
+
+valley with shadows, in foreground and distance, and leave the middleground in bright sunshine. To a lily pond in the foreground a man, a girl and a boy have brought cows and sheep to drink, and the shepherd casts an eye toward the red-bonneted maid, who carries a hay rake over her shoulder.
+
+## JOHANNES WEILAND
+
+DuTCH:1858-1907
+
+## 56-THECOTTAGE WINDOW
+
+Height,26 inches; width,2134 inches
+
+THE corner of an Old World cottage room, with a modest window looking out upon green fields in the background, where a pollarded tree is seen. Within, seated before the window, an old woman in gray, with blue apron and a white cap, bends over her work of repairing blankets. She faces the window and is seen in profile. To left of the window, smoke curls out into the room from a low fireplace.
+
+Signed at the lower left, WEILAND, 99.
+## JULIEN DUPRE
+
+FRENCH:1851—1910
+
+## 57-MILKING TIME
+
+Height, 18 inches; length,24 inches
+
+IN peasant clothes of red and gray and white and wearing a red kerchief binding her hair a young girl is walking away from the spectator through the deep grass of rough felds, carrying two milk pails. Near her in the foreground are a black and white and a red and white cow and a white sheep, beside a pollarded tree at the edge of a pool, and in the background more cows are grazing in a meadow, and poplars rise before a green hill under a murky sky.
+
+Signed at the lower right, JuLIEN DuPRE.
+
+## JOHANNES WEILAND
+
+DuTCH:1858-1907
+
+## 58-THE YOUNG MOTHER
+
+Height, 253 inches; width, 2114 inches
+
+WITHiN a gray-walled cottage room and under a bright and soft light a smiling and very youthful girl is seated, facing the left, threequarters front, sewing while she watches a rosy and chubby infant sleeping in its rush cradle at her feet. On a table at her side, fruit and a gray teapot and a white porcelain cup.
+
+Signed at the lower left, WEILAND.
+<!-- image -->
+
+## PAUL SEIGNAC
+
+FRENCH:1826-1904
+
+## 59-THE LITTLE WATER CARRIER
+
+Height, 2112 inches; width, 1814 inches
+
+AN interior with figures, and an outlook upon a sunny garden, and as well a generous display of still life within the cottage room, where copper,pottery and glass supply a variety of delicate colors in their reflections of the outdoor light. At an open door at left, leading in from the rear garden, a small girl stands with a large water jug she has just filled. Inside the room her young mother is at work sewing, seated facing the right and the rear garden window and observed profl perdu. Out in the garden, vines, trees and fowers, and beyond them neighboring gray buildings with red tile roofs.
+
+Signed at the lower left,SEIGNAc.
+## ITALIAN SCHOOL
+
+## 60LANDSCAPE,ARCHITECTURE AND FIGURES
+
+Height, 171/2 inches; length, 241/2 inches
+
+Ar left in middle distance and projecting well to the right, a large, rambling and tall building group, reddish-brown in tone, with monastic trees. The foreground forms a great if presently informal court, and here numerous idling figures, men and women, are seen, some of them about a large sculptured fountain suggestive of former grandeur. Across the water of the fountain, at right, refections of a fading sunset sky.
+
+Signature at the lorwer right (not deciphered).
+
+## WILLIAM H.BEARD,N.A.
+
+AMERICAN:1825-1900
+
+## 61-BR'ER FOX AND BR'ER RABBIT
+
+Height, 18 inches; length, 24 inches
+
+IN sunshine on sand and grassy ground before a dark green wood fringed in autumn colors,a fox clothed in crimson and ermine struts on its hind legs and looks haughtily at a standing bunny in a buff coat. The bunny is in an attitude of address, and numerous other rabbits in human clothing stand about in critical scrutiny.
+
+Signed at the lower left,W.H. BEARD, 1885.
+## JOHN GEORGE BROWN,N.A.
+
+AMER1CAN:1831—1913
+
+## 62-THEYOUNGMUSICIAN
+
+Height,21 inches;width,17 inches
+
+SEATED on the stone coping of a tenement doorway a ragged urchin of most serious expression, who gazes thoughtfully upward, holds a violin across his knees and seems to be dreaming of a time when he should be able to play it.
+
+Signed at the lower left, J.G.Brown, N.A.,1878.
+
+## C.HOGUET
+
+NINETEENTH CENTURY
+
+## 63-SHEPHERD AND SHEEP AT THE VERGE OF THE SEA
+
+Height,18inches;width,1414 inches
+
+THE observer looks across the tip of a modestpromentory to a smooth blue sea reaching to a low horizon of smoky and white clouds in a light azure sky. The land is covered with coarse grass and coarser brownish herbage, and here are found a few white sheep in the sunshine, their white-capped and blue-coated shepherd standing at an upheaved rock and looking out over the water. At left a middle distance cliff and low shore.
+
+Signed at the lower left, C. HoGuEr.
+## HERMAN FREDERIC CAREL TEN KATE
+
+DuTCH:1822-1891
+
+## 64IN HOSPITAL
+
+(Panel)
+
+Height,17 inches;length,231/2 inches
+
+Six figures in seventeenth-century costume are depicted in the reception room of a military hospital,and two more are about to enter from a neighboring corridor. A drum and colors and other paraphernalia lie at one side. At right a surgeon is attending a wounded cavalier propped with pillows in his chair, to whom a nurse is bringing nourishment. Back of this group a record of entries is being made at a table with a rich emerald covering, and from the corridor another wounded man is being brought in.
+
+Signed at the lower right, HERMAN TEN KATE, FT.
+
+## T.ACEVES LOREDO
+
+SPANISH:CONTEMPORARY
+
+## 65INTERIOR OF ALCAZAR,SEVILLA
+
+Height,231/2 inches; width,18 inches
+
+HigHLy intricate ornamentation in many colors brightens the rich Moresque architecture of the princely pile, the picture displaying a patio where a fountain plays, a potted palm standing beside it. At right a crimson cushion lies on an Oriental rug which is spread on the marble foor, and a Turkish water pipe with its tobacco bowl still smoking stands near it.
+
+Signed at the lower left, T.ALcEvEs LoREDo, SevILLA.
+<!-- image -->
+
+## PAUL JEAN CHARLES CLAYS
+
+BELGIAN:1819-1900
+
+66-FISHINGBOATS
+
+(Panel)
+
+Height,18 inches; length,241/2 inches
+
+A GooD-sizED bulky vessel, with a single mast and red and yellow sails, appears in the foreground waters at the left;back of it are the white sails of another vessel,and in the middle distance in the right centre are two other vessels of the same type passing out to sea. Overhead is a breezy sky of gray clouds with spaces of blue.
+
+Signed at the lorwer right.
+
+From the Estate of the late James V. Parker, January 4,1918.
+<!-- image -->
+
+## FREDERICK ARTHUR BRIDGMAN,N.A.
+
+AMERICAN:1847-
+
+## 67-RUE DU SPHINX
+
+Height,20 inches;length,24 inches
+
+In the foreground the rough stone pavement of an Algerian street slopes to a drain grating at the centre. A dark-skinned woman garbed in brilliant colors and bearing a head load approaches, carrying herself erect yet with a supple ease, and with a smiling interest keenly regards the spectator. At right a girl in pink guarding her vegetable stand leans against the building wall and gazes across the street toward a bazaar or sheltered booth where an aged man reclines in the shade and an unveiled beauty in white is seated at the street's verge for the attention of the interested. At middle distance the street abruptly narrows to an arched stair leading through buildings to a further open street, figures being seen on the stair and a placard at the entrance reading "Rue du Sphinx."
+
+Signed at the lower left, F. A. BRIDGMAN, 1887.
+## LOUIS GABRIEL EUGENE ISABEY
+
+FRENCH:1803-1886
+
+## 68-THE DEPARTURE FOR THE HUNT
+
+Height,29 inches;width,2334 inches
+
+Two horsemen with their retainers and their hunting dog have come in and are greeted by the ladies of the castle who are seen at the foot of the stone stairway, at the right. Through the gateway is a view of the tree-lined avenue and above the groups of personages rise the inside walls, turrets and roofs of the building. High above all is a space of blue and white sky.
+
+Signed at lower left,E.IsABEy,1852.
+
+Purchased from Eugene Glaenzer,New York.
+
+From the collection of the late Julius E.French,Cleveland, Ohio.
+<!-- image -->
+## CHARLES EMILE JACQUE
+
+FRENCH:1813-1894
+
+## 69-SHEEP ENTERING THE BARN
+
+Height, 26 inches; width, 2112 inches
+
+CLose in the foreground a large fock of sheep heavily coated crowd upon one another, as, coming from the left, they enter through a high and narrow doorway a light grayish stone and plaster barn with a roof of warm brown, which stands on the right. Beyond them their shepherd in his blue blouse stands overseeing the entry. With the exception of partial shadow at the left the group is in sunshine, and the white noses of the sheep appear in relief against the gray of their unctuous wool. Two white lambs are among them, and the shepherd's ghis part of the shepherding.A dog stands at one side performing white hen looks down from a window sill and a white and a black one peck in the straw lying on the ground.
+
+Signed at the lower left, CH. JAcqUE.
+
+Exhibited at the Union League of Philadelphia, Art Loan Exhibition, 1899.
+
+Purchased from the Estate of the late Henry B. Ashmead.
+<!-- image -->
+## GEORGES MICHEL
+
+FRENCH:1763-1843
+
+## 70LANDSCAPE IN SUNSHINE AND STORM
+
+Height, 23 inches; length, 28 inches
+
+AT the left the edge of a wood partly open and partly made up of trees of dense leafage, whose shadows the sunshine casts forward and to right, down a gentle incline and upon the green and yellowish grass of the foreground. Through an opening in the trees a windmill comes to view in the left middle distance.To right in the foreground are a few trees growing at lower levels,and beyond them sunshine foods the landscape under a black storm cloud which is passing away toward the right.
+
+From Arnold and Tripp,Paris.
+
+## JULES JACQUE VEYRASSAT
+
+FRENCH:1828-1893
+
+## 71-TOILERS RESTING
+
+Height,211/inches;length,293/ inches
+
+IN a rough and broken countryside of grass and stones and a scattering of young trees--the purlieus or extremity, perhaps, of a cleared forest—two of the older trees survive at the centre of the foreground, one partly blasted but sending forth leaves in its age. Its neighbor, short and sturdy, meets its limbs with more foliage, green and also Here in the shade three men have gathered for a brief rest, one of them standing.Each has his two-wheeled cart and tandem team of gray or white and brown horses, and these stand some in sunshine and others in the shade, at right or left or between
+
+Signed at the lower right,J.VEyRAssAT.
+
+(Illustrated)
+
+showing autumn hues. the trees.
+<!-- image -->
+## JULIEN DUPRE
+
+FRENCH:1851-1910
+
+## 72-ON A FRENCH FARM
+
+Height,29 inches; width,21 inches
+
+UNDER a light and varied summer sky, harvested fields and fields in bloom,in the middle distance, are bounded in the foreground by a rough field of green grass which descends to a bit of water. Down a path through the grass a young peasant woman comes, stepping leisurely, right hand resting at her hip and in her left arm a bundle of grain. She wears a dark bodice over her white waist, and a gray-blue apron over her dark reddish skirt, and her hair is bound in a red kerchief.
+
+Near her stands a small boy giving his attention to some ducks.
+
+Signed at the lower left,JuLiEN DuPRE.
+
+## AUGUST FREDERIC ALBRECHT SCHENCK
+
+DuTcH:1828-1900
+
+## 73-LANDSCAPE WITH SHEEP AND SHEPHERD
+
+Height, 1234 inches; length, 32 inches
+
+OvER a broad countryside of slightly rolling land many sheep are seen, a part of the large fock far away and the shepherd sitting on a bridge across a brook, at left in middle distance, watching. Beside the brook as it comes forward, a few of the sheep at the centre of the foreground are nibbling the leaves of bushes on the bank, and beyond the green fringe of the brookside herbage harvested fields dotted with haystacks extend to the distance on the right.
+
+Signed at the lower right,ScHENck,1863.
+## EUGENE JOSEPH VERBOECKHOVEN
+
+BELGIAN:1799-1881
+
+## 74-COW GRAZING
+
+(Panel)
+
+Height,2834 inches;width,213 inches
+
+UNDER a blue sky in which white and gray moisture-laden clouds hang low, and drift across far-reaching fatlands of vague indefinite details —pasture lands of distant flocks and herds-a single cow is portrayed in the foreground, studied carefully in minute detail. Her coat is tawny, marked with white, and with full udder she stands facing the left, with head lowered to the grass on a bit of rising land topped by bushes. Behind her, in the sunshine, stands a chicken.
+
+Signed at the lower left, EuGENE VERBOECKHovEN, 1849.
+
+## HENRY PEMBER SMITH
+
+AMERICAN:1854—1907
+
+## 75-MORNING IN THE CATSKILLS-
+
+## DELAWARE COUNTY
+
+Height,20 inches; length, 28 inches
+
+MouNTAiNs at right and left, descending to valleys which extend into the distance, with a stream seen in the middleground, veiled by a light morning haze under a blue sky in which light clouds foat. In the nearby foreground where the sun has dissipated the haze, the grass and trees and bushes are a fresh, rich green, and on a gentle slope a gabled house comes to sight amongst the trees.
+
+Signed at the lower right, HeNRy P. SMITH.
+## ERNST ZIMMERMANN
+
+GERMAN:1852-
+
+## 76-FLIRTATION
+
+(Panel)
+
+Height,25 inches;width,191/ inches
+
+A BUsHY-HAIRED and sandy-moustached gentleman in seventeenth century apparel, black with broad white shoulder collar and deep cuffs, is seated facing the left in an inn room and seen profil perdu as he smiles beguilingly upon a cheery and not unsophisticated maid beside him who faces the observer. She wears a salmon-red waist and a white mob cap. Wine is on the table at which they sit, the visitor's hat,cloak and sword lie on a neighboring chair.
+
+Signed at the lower left,ERNsT ZIMMERMANN,MuNcHEN.
+
+## ALEXIS HARLAMOFF
+
+RusSIAN:1849
+
+## 77-ITALIAN PEASANT GIRL
+
+Height,29 inches;width,20 inches
+
+THE sunlit, full-length standing figure of a small Italian peasant girl, who is engaged in mending the hem of her embroidered apron,holding dressed in a variegated green petticoat, with a red and blue apron embroidered in colors,and wears a full-sleeved white chemise with red armlets and a short bodice trimmed with red. A pair of rough rawhide sandals are bound to her feet by coarse thongs, and a double string of pearls surround her neck. The background suggests a sandy path in a wooded landscape.
+
+Signed at lower left,HARLAMoFF.
+
+From the Mrs. M.B.Brandegee Collection, January 10, 1907.
+<!-- image -->
+
+## ANTONIO TAMBURINI
+
+1843—
+
+## 78-JUST ANOTHER DROP
+
+Height,20 inches; length, 30 inches
+
+Two Capuchin monks who have been on an expedition after the custom of their order,have been invited to'refresh themselves in the cellar of an inn, and they are apparently enjoying the hospitality of the place under the care of a young peasant woman, who is drawing wine from a large cask.A man-servant watches the scene from an open doorway on the right.
+
+Signed at lower right,A.TAMBURINI, FLoRENcE.
+
+From the George I.Seney Sale,1894.
+
+From the Mark Hoyt Collection.
+## OSWALD ACHENBACH
+
+GERMAN:1827-1905
+
+## 79LANDSCAPE WITH FIGURES
+
+Height,261/2 inches;width,22 inches
+
+In the foreground at the right a conspicuous mound, bare of trees, save as a struggling and stunted young tree strives for rooting on its side, and in the background fields of farm land and a haystack. On the slopes of the mound several figures, men and women, in sunshine, in a strong wind against which a dark thunderstorm is rising over the neighboring fields.
+
+Signed at the lower right, Osw. AcHENBAcH.
+
+## A.CORTEZ
+
+## 80-THE RETURN FROM PASTURE
+
+Height,251/2inches;width,211/inches
+
+A poNkey, two cows and a fock of sheep have been halted on a grassy plot near a river by a sturdy sheep dog who stands in front on her shoulder.A mass of tall trees in early autumn foliage contrasts against the hazy sky on the right, and on the left two cows are wandering along the river bank.
+
+Signed at right, A. CorTEz.
+
+From the F. S. Gibbs Collection, February 24, 1904.
+81-WINTER
+
+Height,25 inches;length,30 inches
+
+Snow whitens an expanse of fat and rolling fields, the white mantle broken occasionally by outstanding herbage and bush. At right in the foreground a brook not wholly frozen refects the colors lingering in a copse which grows beside it, fronted by a few silvery birches.
+
+Signed at the lower left, BRUcE CRANE.
+
+## MME.PEYROL JULIETTE BONHEUR
+
+FRENCH:1830-
+
+## 82-LANDSCAPE WITH SHEEP
+
+Height,161/2 inches;length,271/inches
+
+IN middle distance at the left a rough green field of high land, over which the eye carries to a light sky across which a heavy shower cloud is drifting away. The field abuts upon a broad and brown rude road which winds into view from the left about a mound of the field, and along this road a fock of sheep advances, filling the way, the heads or legs of the leaders refected in pools which the passing shower has left in the foreground. To right lower fields and some trees and brush.
+
+Signed at the lower left,PEYRoL BoNHEUR.
+
+## BRUCE CRANE,N.A.
+
+AMERICAN:1857-
+<!-- image -->
+
+## EMILE CHARLES LAMBINET
+
+FRENCH:1815-1878
+
+## 83-HAYMAKING AT THE OLD MILL
+
+(Panel)
+
+Height,153/ inches;length,271/ginches
+
+Ar left a thatched cottage adjoining a gabled mill, the buildings enclosed by bushes and trees,and the mill stream fowing forward past them. To right of the stream broad green fields,where men and women to the number of a dozen or more are cutting and loading hay, in bright afternoon sunshine under a turquoise sky. A few are seated, refreshing themselves.
+
+Signed at the lower left,EMILE LAMBINET,1866.
+## DON RAIMUNDO DE MADRAZO
+
+SPANISH:1841—1920
+
+## 84-THE MIRROR
+
+Height,26 inches; width, 183/4 inches
+
+PoRTrAir of a handsome young lady seated in a studio arranged with boudoir accessories,admiring herself in a hand mirror.She looks down into the glass, smiling, as she rests one elbow on an arm of her chair. She is portrayed at full length, facing the right, three-quarters front. White silk gown of loose folds with an overdress of light blue.
+
+Signed at the lover left,R.MADRAzo.
+
+## LEON CAILLE
+
+FRENCH:1836-1907
+
+## 85-A MADONNA OF THE TUBS
+
+Height, 32 inches; width, 251/ inches
+
+INTERior of a French farm cottage, with an enormous fireplace within which a large brass kettle is steaming over glowing embers. Suspended from the ceiling, nearby, a ham. In bright daylight in front of the fireplace a young woman of blond type, leaning over a tub filled with linen. She is seen in profle to left, in a white underwaist and black skirt, with rolled up blue apron, her bare feet in sabots.
+
+Signed at the lover right,LEoN CAILLE.
+<!-- image -->
+
+## WILLYMARTENS
+
+DuTCH:1856-
+
+## 86-PEASANT WOMEN WORKING AT HOME
+
+Height,331/2inches;width,281/2inches
+
+A visTA of comfortable cottages,receding in irregular line toward the left, and glimpses of gray-blue and creamy-white sky over their tiled and gabled roofs. In a court beside the nearest cottage, and before its huge exterior chimney, two women of the peasantry are at their work, the younger standing and observed profl perdu as she faces an aged grandmother who is seated on a bench,facing the observer. The younger is in a blue striped dress, the elder wears a gray waist, dark skirt and shawl, and both wear white caps. The younger is knitting, the elder bends over her work on some white material that lies over her lap.
+
+Signed at the lower right,WILLy MARTENs.
+<!-- image -->
+
+## FREDERICK JOHANN VOLTZ
+
+GERMAN:1817-18S6
+
+## 87-CATTLE IN A WOOD
+
+Height, 3414 inches; width, 301 inches
+
+Ar the edge of a wood a reddish and creamy-white cow with black neck and head stands beside a brooklet in the foreground,her head stretched to the left over the back of her calf which looks wistfully toward the observer. Another cow lies down beyond her. Sunshine illumines the varied coasts of the animals and the abundant greenery at the left of the group, and the grass at their feet. High above them a boy and his dog sit on a bank, partly in the shadow of an aged tree whose branches arch the picture.
+
+Signed at the lower right,FR.VoLTz.
+## FELIX ZIEM
+
+FRENCH:1821-1911
+
+## 88-CONSTANTINOPLE
+
+Height,211/inches;length,333/4 inches
+
+IN a foreground of turquoise water, many-oared barges and a single sailing vessel, with other craft in the definite distance,under a sky which at the zenith is a paler turquoise than the water,and which above the horizon glows with a soft golden-yellow sunset light.At right, in mist or haze, the great mosque of Suleiman with its tall minarets, and sundry buildings of the city of the Golden Horn.
+
+Signed at lower left,ZIEM.
+
+From the R.H.White Collection of Boston,February 25,1920.
+<!-- image -->
+## BERNARDUS JOHANNES BLOMMERS
+
+DUTCH:1845-1914
+
+## 89-THE LANDING OF THE CATCH
+
+Height,30 inches;length,4934 inches
+
+SpENT waves of a receding tide,at the left,along a broad and fat sandy beach of the Low Countries,with the line of the sea and shore swinging irregularly toward the right in the distance, under a sky of gray vapor, whose lower banks are drifting over the land. Nearer by, the sky is bluish and white over sloop-rigged heavy fishing boats which have come to rest in the offng, amid shallow wavelets. Men are still at work on them,and the whole land community of able-bodied women, young and old,have come down to the beach to help in their unloading. Fish are being brought ashore in baskets, carried up the beach,and spread out upon the beach before pleased and busy women of the plodding and cheery fisherfolk,a group of them close in the foreground and numbers more in the distance.
+
+Signed at the lower right,B. J.BLoMMERs.
+<!-- image -->
+<!-- image -->
+
+## MARTIN RICO
+
+SPANISH:1850-1908
+
+## 90THE LOREDAN GARDEN,VENICE
+
+Height,17 inches; length,31 inches
+
+A cHARAcTERisTic example of Rico, the composition showing a garden wall extending across the canvas from left to right, above which appears the foliage of trees and bushes in the gardens beyond. The sea water in the foreground laps the wall, except at a place on the left where there is a little space of land. Here a doorway gives access to the garden. Over all,a summer sky of blue with some white clouds at the horizon.
+
+Signed on wall atright.
+
+From the James V.Parker Collection,1917.
+## DAVID FARQUHARSON,A.R.A.
+
+ENGLISH:1839-1907
+
+## 91-GREEN VALLEY AND SNOW CAPPED MOUNTAINS
+
+Height, 22 inches; length, 36 inches
+
+AT left uneven green fields bordering a river, with a fock of sheep attended by a shepherd and shepherdess moving slowly away from the observer. At right a steep green bank, on the opposite side of the stream,in the foreground, the bank in the middleground being heavily wooded along the water's edge, while above the treetops the bank becomes a hillside rising to mountain peaks white with snow under a gray sky.
+
+Signed at the lower left,D.FARQUHARsoN.
+
+## FRANCESCO PAOLO MICHETTI
+
+ITALIAN:1852-
+
+## 92SHEEP IN A RAVINE
+
+Height, 21 inches; length, 3114 inches
+
+A suNLIT ravine in a wood, a wood green with the richness and luxuriance of a semi-tropical climate, descends toward the spectator between fanks by thriving wildflowers. Arching the ravine in the foreground is a fallen tree, meeting the bent trunk of another on the farther side. Coming down the ravine toward the spectator,a troop of sheep,brown, black and white, the sunshine slanting across their abundant coats.
+
+Signed at the lower right, MicHETrI, '71.
+## WILLIAMSHAYER,SENIOR
+
+ENGLISH:1788—1879
+
+## 93-LANDSCAPE AND CATTLE,
+
+WITH FIGURES
+
+Height,28 inches; length,36 inches
+
+AT left and right trees and rocks, and in the distance a range of bold hills seamed with valleys, the hill crests bleak, the valleys wooded, the hillsides clad with grass. Emerging from woods in the middle distance a river which fertilizes a foreground valley where cows graze in the sunshine. Here two girls attend the cattle and a man approaches on horseback.
+
+Signed at the lower left,WM.SHAYER, SENR.
+
+## WILLIAMSHAYER,SENIOR
+
+ENGLISH:1788-1879
+
+## 94-HARVEST HAPPINESS
+
+Height,28 inches; length,36 inches
+
+FiELDs gently sloping from either side toward the centre of a broad and far-reaching landscape are bathed in the sunshine of a fair summer day, and are green and yellow as they show the standing and the harvested grain. In a shaded hollow of the foreground a young mother seated on the grass, with golden sheaves about her, holds an infant on her lap who is pleased with an apple. A refreshment basket is beside her,and a smiling English maiden who looks toward the spectator and a younger girl and boy share in the joy of a harvest picnic. In the distance, the laboring harvesters are busy cutting and loading.
+
+Signed at the lower left,WM. SHAYER, SENR.
+<!-- image -->
+
+## AUGUST FREDERIC ALBRECHT SCHENCK
+
+DuTCH:1828-1900
+
+## 95SHEEP IN A WINTER STORM
+
+Height,22 inches;length,3112 inches
+
+STRuGGLING up a hillside toward the left and the background, a fock of sheep are making their way through deep snow ahead of the wind in a driving storm. Clinging snow whitens their thick brown feece. Two lambs bleat for shelter beside the nearest ewe. Shepherd and dog make the fight along with the fock, and the sky is dark with the storm clouds.
+
+Signed at the lower right, ScHENcK.
+## FREDERICKJOHANN VOLTZ
+
+GERMAN:1817-1886
+
+## 96-LANDSCAPE AND CATTLE
+
+Height,1512inches;length,3612 inches
+
+A HERD of cows and a bull calf beside a stream and scattered among the trees of a greenwood and the tall grass along the shores.Under a spreading tree,at right, sits a cowherd.
+
+Signed at lower right,FR.VoLTz,1874.
+
+From the Governor Oliver Ames Collection,January 16,1919.
+<!-- image -->
+## A.LOUSTOUNAU
+
+## 97-BEFORE MARRIAGE
+
+Height,241 inches;length,361 inches
+
+THis is the interior of a military office or bureau, sumptuously furnished with heavy and ornate Empire articles of use and ornament. Seated at a desk is an officer in full uniform, kepi on head, writing on a slip of paper and at the same time gazing rather sternly at a young lady in riding costume,who stands in front with her back turned toward the spectator.She rests her riding whip with a vigorous action in a leaf of the desk, where a subaltern in red and blue uniform is busily writing a long document.
+
+Signed at the right,A.LousTouNAU.
+
+From the H.V. Newcomb Collection,March 12,1903.
+
+## JOHANNES HUBERTUS LEONARDUS DEHAAS
+
+BELGIAN:1830-1880
+
+## 98-LANDSCAPEAND CATTLE
+
+Height,27inches;length,421/2inches
+
+BLAck and white and red and white cattle are seen in fat green meadows of the Low Countries,in sunshine under a light and varied sky.In the immediate foreground a young bull standing athwart the picture, headed to right,and near him cows and calves standing or lying down, drinking at a pond or feeding in the tall grass at its edges. Beyond the pond, in middle distance at right, a group of pollarded trees in fourishing mid-summer foliage.
+
+Signed at the lower right, J.H. L.DE HAAs.
+<!-- image -->
+
+## JAMES McDOUGAL HART,N.A.
+
+AMERICAN:1828-1901
+
+## 99CATTLE IN A SUMMERLANDSCAPE
+
+Height, 26 inches;length,46 inches
+
+A pozeN or more of a herd of cows,red and tawny, and spotted with white on head or body, appear in a sunny meadow on a slightly hazy somnolent summer day.A white-faced cow lying down turns her head toward the spectator,near the centre of the foreground, and the others rest or graze about her or drink at a middleground pond. At right of the water, trees motionless in the breezeless air,and in the distance toward the left, beyond the meadows, farmhouses partly surrounded by trees.
+
+Signed at the lower left, JAMes M. HART.
+<!-- image -->
+
+## LEON RICHET
+
+FRENCH:1847-1907
+
+## 100-LANDSCAPE WITH FIGURE
+
+Height,29 inches;length,361/2 inches
+
+FIELDs of wild land, with green grass and darker green brush, and occasional gray rocks and blossoming f field plants,enclose a silvery foreground pond whose surface mirrors the blue-white of a clouded sky and the shadows cast by neighboring trees. A line of trees in summer foliage, to right of centre, leads to a wooded valley in the background bounded by distant hills. In the sunshine to left of the trees a peasant woman in blue and red and white walks toward the wooded valley.
+
+Signed at the lower right, LEon RicHET.
+## ANTON BRAITH
+
+GERMAN:1836-1905
+
+## 101-RETURNING HOME-COWS
+
+## AND THEIR YOUTHFUL COWHERD
+
+Height,29 inches;length,45 inches
+
+THE westering sun, unseen, is low at the left and sends horizontal rays across a rugged landscape of green and browning knolls, displaying their crests and westerly fanks in a soft luminosity, in the middle distance, while distant hills and a foreground pond lie in relative shadow. Winding over the leas, more or less in single line, comes a herd of cattle, their red and fulvous coats glowing softly in the waning light. On one a cheerful small boy in green breeches is mounted, and he waves aloft a whip as he faces the spectator. The leaders of the herd are already drinking at the pond. At right some sheep.
+
+Signed at the lower left, A. BRAITH, MuNcHEN, 67.
+
+On stretcher teo manuscript pasters, one signed by the artist certifying that he sold the painting to Henry Wimmer,in October, 1867,the other signed by Wimmer certifying that he sold the same month.
+
+## CHIERICI GAETANA
+
+ITALIAN:CONTEMPORARY
+
+## 102-THE ITALIAN FISHERMAN'S HOME
+
+Height,293/4 inches;length,4214 inches
+
+THE observer looks upon the stone-paved and semi-outdoor kitchen and living-room of a plastered cottage with beamed ceiling, light entering from the right. Near the right a young and prolific mother, seated on a bench and facing the left, feeds herself and children from a bowl of spaghetti, a boy on the foor feeds the cat, and a small girl far at Against the left is blowing the embers within a huge arched fireplace. wall a fisherman's pole-net and great basket.
+
+Signed on wall at lower right, CHIERIcI GAETANA, 1878.
+## LUDWIG MUNTHE
+
+GERMAN:1841-1896
+
+## 103-WINTER LOGGING
+
+Height,31 inches;length,501 inches
+
+Snow covers the ground, and weighs upon stumps and brush at either side of a road that winds along the edge of a wood, and upon evergreens at the left. In the foreground the atmosphere is clear, but soon becomes hazy—at the left only dimly obscurant,and at the right thickening to a smoky hue over darkening depths of the wood. In the central middle distance,at the curve of the road, stands a tandem team of brown horses,attached to a sledge and headed toward the spectator, their driver busy stacking on his sledge logs from a high snow-covered pile beside him.
+
+Signed at the lower right,L.MuNTHE, 1870.
+
+AMERICAN ART ASSOCIATION,INC.,
+
+MANAGERS.
+
+OTTO BERNET, HIRAM H.PARKE,
+
+AUCTIONEERS.

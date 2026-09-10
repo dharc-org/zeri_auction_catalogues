@@ -1,0 +1,11 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_81957,626821,1,I,l giardino con la fontana monumentale.,23,98.7,False,none,,,,,
+BO0624_81957,626822,2,I,giardino verso la collina.,27,96.2,False,none,,,,,
+BO0624_81957,626823,3,1,l vestibolo verso lo scalone.,32,98.2,False,none,,,,,
+BO0624_81957,626824,4,I,l vestibolo con il grande camino.,36,98.5,False,none,,,,,
+BO0624_81957,626825,5,I,l salone.,39,94.1,False,none,,,,,
+BO0624_81957,626826,6,I,l salottino.,92,95.7,False,none,,,,,
+BO0624_81957,626827,7,I,l Martirio di S. Sebastiano,248,98.1,False,positional,RICCI SEBASTIANO,,,,
+BO0624_81957,626828,8,I,l Martirio di S. Agmese dipinto ad olio su tela; cornice dorata; centimetri 74 x 40.,254,99.4,False,positional,RICCI SEBASTIANO,,,,
+BO0624_81957,626829,9,I,lConcerto,283,94.7,False,positional,FRANGIPANE NICCOLO,,,,
+BO0624_81957,626830,10,I,"ndubitabile cpera di Sano di Pietro,di non comune e straordinaria risonanza e limpidita di colorito, esemplari ornamenti e perfetta conservazione.Le figure tpiche,riscontrabili nelle numerose opere del prolifico pittore,di indubitabile ottima qualita.Un dettaglio insclito,il cherubino dietro le spalle della Vergine,risente del suo predecessore del 300,Taddeo di Bartolo.",310,99.9,False,positional,SANO DI PIETRO,,,,

@@ -1,0 +1,2255 @@
+<!-- image -->
+
+## Objets d’art et de Haute-Curiosite
+
+## FAIENCES ITALIENNES
+
+- —PLAT creux, decore d'un buste de femme tourne de profil vers la droite, dessine en vert et jaune sur fond bleu. Sur le champ, une banderole deroulee, portant linscription: Tulia Bella. Au marli, des compartiments reguliers alternes charges de rinceaux et d'imbrications.
+
+xvie siecle.
+
+Diam.,40 cent.
+
+- 2-PLAT rond representant:Daphne changee en laurier, se dirigeant vers la gauche,une coupe chargee de feuilles posee sur la tete. Dessin au trait bleu sur fond blanc. Au marli, des touffes de fleurs et de fruits alternes.
+
+Faenza, xvie siecle.
+
+Diam.,42 cent.
+
+- 3-PLAT creux, decore en couleurs et presentant un buste d'homme casque et cuirasse, tourne de profil vers la gauche, se detachant sur un fond de paysage. Au marli, des compartiments reguliers charges de rinceaux et d'imbrications.
+
+Diam.,38 cent.
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 4—PLaTEAu d'aiguiere, a ombilic, decore,au centre, d'un cartouche accoste d'amours et de mascarons. Au marli, des grotesques en couleurs sur fond blanc. Ombilic a bossages charge d'un medaillon orne d'un paysage.
+
+Urbino,fin du xvi siecle.
+
+- bleues.
+
+Diam,43cent.
+
+- 5— CorNer decore, sur la face, d'un large medaillon inscrit dans une couronne de feuillage et representant deux bustes d'hommes barbus, face a face, separes par une corbeille disposee au milieu des lettres M et C. En bas, une banderole a fond blanc portant une inscription en lettres gothiques
+
+Faenza, xvie siecle.
+
+Haut.,22 cent.
+
+- 6—BouTeiLLE a panse pomiforme, decoree d'un buste de femme, la tete tournee legerement vers lépaule droite, se detachant en couleur sur fond gros bleu. Ce buste est entoure d'une bordure jaune chargee de rinceaux. A la partie inferieure,un cartouche reserve en blanc porte une inscription en lettres gothiques bleues.
+
+Faenza, xvi siecle.
+
+Haut.,23 cent.
+
+- 7.—Vase a panse ovoide, decore, sur la face, dun medaillon se detachant sur fond jaune et presentant un buste d'homme casque, la tete tournee de trois quarts a gauche. Le reste de la decoration consiste en zones superposees, chargees de guirlandes de feuilles, de feurs et de rinceaux, sur fonds jaune et bleu alternes.
+
+xvI siecle.
+
+Haut.,35 cent.
+- 8—GrossE crucHE de pharmacie, de forme ovoide, decoree de deux medaillons :l'un, presentant un buste de jeune homme, tourne de profl a gauche, coiffe d'une toque bleue; lautre, saint Jerome, vu debout, a mi-jambes, les mains jointes.
+
+xvie siecle.
+
+Ilaut.,2g cent.
+
+- 9— Deux corNETs de pharmacie, decores chacun d'un buste de femme, tourne de profil a gauche, se detachant sur fond bleu et limite par une bande jaune chargee de rinceaux bleus. Au revers, de menus rinceaux.
+
+Faenza, xvr siecle.
+
+Haut,22 cent.
+
+- 10 —Deux vAses de forme ovoide, presentant chacun, sur la face,une tete d'homme casque. Le reste du decor consiste en compartiments charges de rinceaux et trophees sur fonds jaune, vert et bleu alternes. Une banderole deroulee porte, en lettres gothiques bleues,une inscription pharmaceutique.
+
+xvI siecle.
+
+Haut., 33 cent.
+
+- 1—Deux crucHes de pharmacie, de forme ovoide, decorees, en bleu sur bleu,de feuillage et de fruits.
+
+Elles portent chacune une banderole a inscriptions en lettres gothiques, sous laquelle est un élephant dresse, tourne vers la gauche.
+
+Castel-Durante, xvi siecle.
+
+Haut.,23 cent.
+
+- 12-- CrucHe de pharmacie, a decor de trophees guerriers, cn
+- bleu sur fond jaune ocre. Elle est munie d'un deversoir et d'une anse coudee. Une banderole blanche portc une incription en lettres gothiques.
+
+Castel-Durante,xvi siecle.
+
+Haut., 21 cent.
+
+<!-- image -->
+
+1250.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 13-CrucHe de pharmacie, decoree de trophees guerriers, dessines en jaune ocre sur fond bleu. Elle est munie d'un deversoir et d'une anse plate. Au revers, un cartel reserve en blanc porte une inscription pharmaceutique.
+
+Castel-Durante, xvr siecle.
+
+Haut., 22 cent.
+
+- 14 - EcrIroire. Elle affecte la forme d’un socle rond, decore en
+- damier et supporte par quatre statuettes de femmes assises, tenant divers attributs. Entre chacune de ces statuettes est
+
+<!-- image -->
+
+<!-- image -->
+
+place un recipient de forme ovoide, decore d'arabesques en bleu sur fond blanc. Le tout est dispose sur un entablement quadrilobe et decore en emaux polychromes bleu, jaune et vert.
+
+Faenza, commen- cement du xvl siecle.
+
+Haut., 28 cent.
+
+- 15—PETIT PLAT Creux,
+- en ancienne faience de Gubbio,a reflets
+
+metalliques rouge rubis. ll est decore, au centre, d'un medaillon a fond blanc, charge de la lettre A.Au marli,une rosace radiee agrementee d'une feurette epanouie disposee entre chaque rayon.
+
+xvie siecle.
+
+Diam.,21 cent.
+
+- 16 —GRAND REciPIENT en ancienne faience italienne. Il affecte la forme d'un monument architectural a trois faces,avec portes simulees, fanquees de pilastres, et surmonte d'un dome. Le tout decore en émaux de couleurs.
+
+Urbino,xvi siecle.
+
+Haut.,49 cent.
+## FAIENCE HISPANO-MAURESQUE
+
+- 17- GrANDe JARRE a panse ovoide, surmontee d'un col legerement évase. Elle était decoree de rinceaux, d'arabesques et de feuillages en jaune chamois a reflets metalliques sur fond blanc. Ancienne faience hispano-mauresque de Malaga.
+
+xve siecle.
+
+Haut.,env. 1 m.25.
+
+Le decor n'est conserve qu'a la partie inferieure de la panse et autour du col. Il a presque totalement disparu sur le corps du vase. Support en fer forge.
+
+Exposition des Arts musulmans a Munich,en 191o,n 1611.
+
+## OBJETS VARIES
+
+- 18— CaNETTe en gres blanc de Siegburg, de forme obconique,
+- et munie d'une anse. Elle est decoree de diverses scenes empruntees a la vie du Christ et tirees des Evangiles d'apres saint Luc, XVIll, saint Luc, XIX et saint Matthieu, IX. Couvercle en cuivre dore et grave.
+
+Allemagne, xvr siecle.
+
+Haut.,25 cent.
+
+- —CrucHE en gres gris de Siegburg,a panse ovoide cannelee et decoree d'un semis de petites fleurettes. Sur le deversoir, un mascaron. Anse arrondie a nervures saillantes.
+
+Allemagne, xvr siecle.
+
+Haut.,22 cent.
+
+- 20 -PeTITE BoITE en forme de pupitre rectangulaire,en bois noir orne de plaquettes d'argent repousse a motifs de figures
+- mythologiques et de jeux d'enfants.
+
+Le couvercle est garni d'un miroir.
+
+L'interieur est dispose en casiers et tiroirs, enrichis de plaques d'argent decoupe.
+
+Travail allemand.
+
+- 19
+
+Haut.,15 cent.;larg,29 cent.
+
+<!-- image -->
+
+<!-- image -->
+
+380.
+
+<!-- image -->
+o.50
+
+<!-- image -->
+
+o.
+
+200.
+
+500.
+
+- 21 —PeTIr coFFREr de forme rectangulaire, en ambre de couleur. Il est supporte par quatre pieds boules et orne, aux angles, de petites cariatides d'ivoire a tetes de femme. Italie, xvie siecle.
+
+Haut., 14 cent.;larg.,14 cent.
+
+- 22— PeTIre BoITE de forme hexagonale, en ambre de couleur,
+
+Bouchon a vis muni d’une petite poignee en cuivre cisele
+
+- garnie d'une monture en cuivre cisele et dore, a motifs de cariatides et de volutes. Elle offre, sur chacune des faces, un petit medaillon a personnages, inscrit au centre d'un losange.
+
+et dore.
+
+Italie, xvi siecle.
+
+Haut., 14 cent.
+
+- 23-Deux PETITs BoUGEoIRs en ambre de couleur, formes d'une tige balustre mouluree reposant sur une base plate et carree.
+
+Italie, xvin siecle.
+
+Haut., 14 cent.
+
+- 24 —DEux PETITs BouGEoIRs en ambre de couleur, formes d'une tige balustre mouluree,a godrons, et reposent sur une base octogonale talutee a decor de rinceaux. Ils sont munis de petites bobeches en argent.
+
+Haut., 14 cent.
+
+Italie, xvile siecle.
+
+- 25 -PETITE PENDULE D'APPLIQUE en cuivre partiellement dore. Elle est decoree, au centre, d'un cadran horaire entoure de petits medaillons en argent repousse, a figures allegoriques.
+- xvil siecle.
+
+Haut., 27 cent.
+
+- 26 —Deux PETITEs BURETTEs en verre,a panse ovoide,ornees d'une monture en argent dore a motifs de cariatides et de rinceaux. Le deversoir en forme de bec d'oiseau est muni
+- d’un couvercle, et les anses disposees en volutes.
+
+Italie, xvile siecle.
+
+Vacari,1710.
+
+Sous le pied, inscription plus recente gravee : Giosepp
+
+Haut.,12 cent.
+- 27- Deux vases en verre de Venise de couleur vert bouteille, de forme ovoide, garnis d'une riche monture en cuivre cisele et dore,a decor de mascarons, de palmettes et de rinceaux. Ils sont munis de deux anses et reposent sur un piedouche moulure.
+
+Italie, xv1 siecle.
+
+Haut,27 cent.
+
+- 28 —Deux PETITs vAsEs en verre bleu,de forme ovoide,et garnis d'une riche monture en cuivre dore, a decor de tetes de cherubin et d'arabesques. Ils sont munis chacun de deux anses en volutes et reposent sur un piedouche circulaire orne de feuilles.
+
+Italie,xvi siecle.
+
+Haut.,13 cent.
+
+- 29 —Vase balustre en serpentine taillee a facettes. Il est garni d'une monture en argent dore a motifs feuillages; le bouton du couvercle simule un gland.
+
+xvi1 siecle.
+
+- 3o—— CasQuE ET EPEE d’un doge de Venise.
+
+Le casque en forme de barbute en fer, couvert de velours rouge, est garni d'appliques en cuivre cisele, grave et dore ; sur le frontal, un écusson d'armoiries presentant un lion dresse.
+
+L'épee,a poignee de bronze cisele et dore, a quillons recourbes vers la lame, est ornee d'une figure de la justice assise tenant ses attributs. Le pommeau aplati, decoupe en palmette, est decore d'une feuille d'acanthe entre deux volutes. Le fourreau, garni de velours rouge, est orne d'une applique, dune chape et d'une bouterolle en bronze cisele et reperce a decor de mascarons, cartouches, guirlandes et tete de griffon.
+
+Italie,xvi° siecle.
+
+La lame est brisee a la hauteur du talon.
+
+Haut. du casque, 28 cent.;long. de 1'épee,1 m.46.
+
+Haut.,21 cent.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+5000:
+
+Mo.3400.
+
+.880.
+
+N.450.
+
+<!-- image -->
+
+## EMAUX CHAMPLEVES
+
+- 31-PIED DE FLAMBEAu, en émail champleve,a decor de
+- palmettes polychromes. Il est de forme triangulaire, surmonte d'une tige ronde a noeud aplati,et repose sur trois pieds graves.
+
+Limoges, xi siecle.
+
+Haut.,13 cent.
+
+- 32PoRTE-ciERGE en cuivre champleve, grave et émaille. Il est de forme triangulaire,a decor derosaces et de dragons. ll repose sur trois pieds. griffes. ornes de mascarons.La tige ronde est interrompue par un noeud spherique orne de rinceaux.
+
+Limoges, xine siecle.
+
+Haut.,23 cent.
+
+- 33 -PyxiDe en cuivre champleve et émaille,a decor de rosaces et de palmettes. Elle est munie d'un couvercle conique surmonte d'une croix.
+
+Limoges, xile siecle.
+
+Haut, 105 millim.
+
+- 34-Croix plate,en cuivre champleve et émaille, a decor de rosaces emaillees en couleur, sur fond d'émail bleu lapis. Au centre de la croix, un Christ en cuivre grave et dore,en bas-relief.
+
+Limoges, xill  siecle.
+
+Haut.,24 cent.
+
+- 35PLAQue rectangulaire,en cuivre champleve et emaille. Elle represente le Christ en croix, ayant a ses cotes la Vierge et saint Jean.Au-dessus de la croix, deux anges.vus a micorps. Ces figures,gravees, dorees et reservees, se detachent sur un fond d'émail bleu charge de rosaces multicolores.
+
+Limoges, xine siecle.
+
+Haut.,18 cent.;larg.,16 cent.1/2.
+- 36 —PLAQUE DE RELIuRE, de forme rectangulaire, en cuivre champleve, grave et émaille. Elle est ornee, au centre, d'une figure d'applique, en cuivre grave et doré,du Christ de Majeste,assis et benissant, dispose au milieu d'une gloire de forme elliptique chargee de feurettes et de rosaces polychromes, sur fond d'émail bleu.De chaque coté du nimbe, 1'alpha et l'omega. Aux angles, les symboles des evangelistes reserves et graves sur champ d'email bleu lapis.
+
+Limoges,xllle siecle.
+
+Haut.,24 cent.;larg，1I cent.
+
+No35
+
+<!-- image -->
+
+h.
+
+18000
+
+- 37—PLAQUE DE RELIuRE, en cuivre champleve et émaille, de forme rectangulaire. Elle represente le Christ en croix entre la Vierge et saint Jean. Ces figures sont gravees et reservees sur fond démail bleu lapis, charge de rosaces et de fleurettes polychromes. Au-dessus de la croix, deux anges egalement reserves, graves et dores, sur fond d'email. Les tetes sont ciselees et se detachent en leger relief.
+
+Limoges,xnle siecle.
+
+Haut.,225millim.;larg.,10 cent.
+
+3
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+Jem.35000
+
+<!-- image -->
+
+- 38 Groupe en cuivre dore et grave Hrepresente la Vierge, assise de face, tenant lEnfant Jesus sur son genou gauche. Elle est assise sur un trone emaille, a dossier bas, a decor de rinceaux; sur les cotes, sont representes lAnge et la Vierge de lAnnonciation.Au revers, sur:la porte fermant le
+- reliquaire, se voient saint Pierre et saint Paul assis cote a cote.
+
+Socle rectangulaire sureleve, egalement émaille et charge de rinceaux polychromes.
+
+Ilaut.,3o cent.
+
+Limoges, xin siecle.
+
+- 3g CoFFRET rectangulaire, a couvercle plat, en bois garni de cuir. ll est decore sur la face, le couvercle et les cotes, de huit medaillons en cuivre champleve et emaille de Limoges, du xn siecle, presentant chacun, au centre,un animal apocalyptique entoure de rinceaux en cuivre cisele et ajoure, disposes au centre d'une bordure plate, en émail champleve a decor de palmettes.Ce coffret est également muni d'une plaque de serrure en cuivre champleve,grave et dore, du xn siecle, decoree d'un personnage et de deux animaux, au milieu de rinceaux,et de deuxr moraillons figurant des serpents.Aux angles du couvercle, des ecoincons egalement d'email champleve.
+
+Haut.,185millim.; larg.,35 cent., prof.,20 cent.
+
+Ancienne collection J. Campe. Exposition universelle de 1goo,n°2588 du catalogue,
+
+- 40 — GRANDE cHAssE en forme de maison. Elle est decoree,
+- sur la face, de huit figures d'applique, en bronze cisele et dore, de saints personnages assis, tenant leurs attributs; ces figures se detachent, chacune, au centre d'un medaillon enémail vert charge de rinceaux graves et dores. Au revers,et sur chacun des cotes,des medaillons representant des anges a mi-corps, reserves, graves et dores sur fond d'email vert. Alentour, des rinceaux graves et dores sur fond demail bleu lapis.Crete en cuiyre ajoure, grave et doré,rapportee.
+
+Haut.,3o cent.; larg.,38 cent.
+
+Limoges, xine siecle.
+
+Ancienne collection Spiizer, no 239.
+- 41-- Crosse en cuivre champleve et emaille. La douille est decoree de losanges charges d'animaux et de palmettes. Elle est surmontee d'un noeud spherique legerement aplati decore d'entrelacs et de rinceaux encadrant des animaux chimeriques. Le crosseron, en forme de serpent, contient dans sa volute une fleur de lis.
+
+Limoges, xne siecle.
+
+Haut,28 cent.
+
+- 42 —CrossE en cuivre champleve. La douille est decoree de rinceaux graves sur fond d'émail bleu lapis. Elle est ornee d'un noeud ajoure presentant des basilics entrelaces. Le crosseron, forme d'un serpent, contient un groupe figurant l'Annonciation.
+
+Limoges, xlll siecle.
+
+llaut.,3o cent.
+
+- 43 —PyxiDe en cuivre champleve, grave et émaille. Elle est de forme hexagonale, disposee sur une tige a noeud prismatique,reposant sur une base a six pans. Elle est decoree,au pourtour, de scenes de la vie du Christ.
+
+Le couvercle representant les symboles des evangelistes et deux tiges feuries, est surmonte d'un pinacle termine par une boule en cristal de roche.
+
+Sur le noeud et sur le pied sont representes les bustes des apotres.
+
+Limoges, fin du xin siecle.
+
+Haut.,35cent.
+
+## EMAUX PEINTS
+
+- 44 — Deux PLAQuEs de coffret, en émail peint en grisailles, representant deux enfants nus au milieu de guirlandes de fruits.
+
+Limoges, xvi siecle.
+
+Haut., 59 millim.; larg.,18 cent.
+
+<!-- image -->
+
+15000
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 45—PLAQuE ronde bombee,en email peint de Limoges,decoree en couleurs sur fond bleu, des bustes conjugues, de profil a droite, de Junon et de Saturne couronnes de fleurs. Dans le champ, linscription en dorure :La diesse Juneu,et de
+- menus rinceaux en dorure.
+
+xv1 siecle.
+
+Diam.,123millim.
+
+- 46 PLAQuE rectangulaire, en email peint de Limoges, en
+- couleurs,representant le buste du Christ tourne de profl yers la gauche. Fond noir pointille d'or.
+
+Limoges, xvi siecle.
+
+Ancienne collection du comte d'Yanville.
+
+- 47  Trois PETITEs PLAQuEs en email peint de Limoges, reunies
+- dans le meme cadre; l'une-de forme ronde,represente la Nativite; l'autre, provenant d'un baiser de paix,cintree a la partie superieure, represente la Vierge de Lorette; l'autre, de meme forme,peinte en grisaile, represente le Christ descendu de la croix, etendu sur les genoux de la Vierge et soutenu par un ange.
+
+xvi siecle.
+
+Haut totale,335 millim.
+
+- 48-Deux sALIEREs en émail peint en couleurs, par Couly II Noailher. Elles sont de forme hexagonale et decorees, sur le saleron,de deux bustes de femmes tournes de profil a gauche, l'un avec la devise: Omhia vinci Amor; lautre avec linscription:Dianira suis ie. Au pourtour, sur chacune des faces, des scenes tirees de l'histoire d'Hercule, accompagnees d'inscriptions en francais. Sous le pied,deux medaillons avec les bustes d'Hercule et d'Hector.
+
+Limoges, xvie siecle.
+
+Haut.,g cent.
+
+Haut.,24 cent.;larg, 17 cent.
+- 49 —CoFFrET rectangulaire, a couvercle chanfreine, en émail peint. Il se compose d'une monture en bronze cisele et dore a pilastres ornementes,a pieds formes de petites statuettes de chimeres et d'une poignee mobile a mascaron. ll est garni de treize plaques en emaux de couleurs representant des jeux d'enfants avec legendes en francais tracees en lettres dorees.
+
+Couly II Noailher. Limoges, xvi siecle.
+
+Long., 175 millim.; larg., 13 cent., haut, 115 millim.
+
+- 5o-PLAQuE rectangulaire en émail peint de Limoges,en
+- couleurs,avec rehauts d'or et paillons. Sainte Madeleine assise,vue a mi-jambes, en prieres devant le crucifix. Fond de paysage et de rochers avec habitation dans le lointain. Au premier plan, a terre,un vase a parfums et une tete de mort.
+
+Fin du xvie siecle.
+
+Haut.,265millim.;larg.,20 cent.
+
+- 51— Deux PETITEs PLAQuEs rectangulaires, peintes en grisaille, par Jacques Laudin. Chacune represente des jeux d'enfants.
+- Limoges, xvine siecle.
+
+Long.,143 millim.;haut.,5 cent.
+
+- 52 —PLATEAu D'AIGuIERE en email de Venise, decore en dorure de menus feuillages et rinceaux sur fond blanc et bleu. Il presente, sur l'ombilic et au pourtour, des godrons et des cannelures obliques.
+
+xv1 siecle.
+
+Diam.,3o ccnt.
+
+- 53 —PETITE BuRETTE en émail de Venise, decoree en dorure sur fond bleu et blanc. La panse, ovoide, est godronnee; elle est munie d'un deversoir efile et d'une anse mouluree, disposee en volute.
+
+xvI siecle.
+
+Haut.,1g cent.
+
+- 54 -CiboirE en email de Venise,decore en dorure sur fond bleu, vert et blanc. Il est de forme hemispherique, orne de godrons,reposant sur un piedouche,et muni d'un couvercle bombe.
+
+xvr siecle.
+
+Haut., 17 cent.
+
+g500
+
+4500.
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## IVOIRES
+
+- 55 PLAQUE RECTANGULAIRE en ivoire sculpte en bas-relief, representant le Christ en croix, accompagne de la Vierge et de saint Jean. Le Christ,vetu du perizonium,les pieds reposant, l'un a cote de l'autre, sur le suppedaneum.
+
+Au-dessus des branches de la croix, deux anges a mi-corps, les ailes eployees.
+
+Saint Jean et la Vierge sont vetus de long et nimbes.
+
+xil siecle.
+
+Haut., 137 millim.; larg., 11o milim.
+
+- 56-Crosseen ivoiresculpteAu milieu de la volute,elle
+- presente sur la face, la Vierge debout, drapee et couronnee, portant l'Enfant sur son bras gauche et tenant une fleur de la main droite. Elle est placee entre deux anges ceroferaires.
+
+Au revers,le Christ en croix, la Vierge et saint Jean.
+
+Fur la tige, des feuilles sont sculptees.
+
+Travail francais,xive siecle. La douille et le nceud paraissent rapportes.
+
+Haut.,24 cent.
+
+- 57—VoLET DE DIPTYQuE, de forme rectangulaire, en ivoire sculpte en haut-relief. ll represente le Christ en croix, entoure de la Vierge et des saintes femmes, de saint Jean et de Joseph d'Arimathie. Cette composition est placee sous une arcature trilobee, a gable feuillage.
+
+Travail francais, xvie siecle.
+
+Haut.,20 cent.;larg.,1i5millim.
+
+- 58 — Groupe en ivoire sculpte,representant la Vierge debout, drapee dans un ample manteau,les cheveux denoues pendant sur les epaules. Elle porte de ses deux mains l'Enfant Jesus vetu d'une robe,benissant de la main droite, et tenant le
+- globe du monde de la main gauche.
+
+Art espagnol, xvie siecle.
+
+Haut.,34 cent,
+- 59—PeTIT coFFRET de forme rectangulaire, a couvercle plat, en ivoire.Il est orne de rinceaux en dorure sur toutes ses
+- faces, et muni d'une serrure a moraillon en fer.
+
+Art espagnol, xvre siecle.
+
+Haut., 11 cent.; larg., 16 cent.
+
+- 6o- BoiTe en ivoire,a monture de cuivre dore. Elle est de
+- forme cylindrique et munie d'une serrure a moraillon.
+
+Ancien travail oriental.
+
+Haut., 14 cent.; diam., 14 cent.
+
+- 61— Deux HAuTs-RELIEFs en ivoire, de forme rectangulaire,
+- representant tous deux des compositions a nombreux personnages, l'une, l'Assomption de la Vierge,et l'autre, l'Adoration des Rois Mages. Ces sculptures sont entourees de guirlandes de feurs, de rocailles et de tetes de cherubins en buis. Elles sont contenues chacune dans un cadre formant vitrine, en marqueterie de bois de couleurs.
+
+Travail italien du xvlle siecle.
+
+Haut.totale,,52 cent.;larg,42 cent.
+
+## ORFEVRERIE
+
+- 62—SraTuETTE de Vierge,en bois, recouverte d'argent partiellement dore. La Vierge est assise, de face, drapee et voilee, sur un trone, decoré sur les cotes de basreliefs representant des saints personnages debout, sous une double arcature et encadres d'une bordure filigranee, enrichie de cabochons de couleurs.
+
+Le revers du siege est evide et formait reliquaire. xine siecle.
+
+Le visage de la Vierge a ete tres restauré.
+
+Haut.,40 cent.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 63 —ReLIQuAIRE d'applique, en cuivre cisele,repousse et dore. de couleurs, de feuillages et de rosaces stylisees. La partie centrale abrite une relique de la vraie croix.Quatre perles
+
+xive siecle.
+
+- Deoforme quadrilobee,il est orne de cabochons de pierre de cristal de roche sont disposees symetriquement dans les angles.
+
+Larg.,14cent.
+
+- 64—GRAND coFFRET de forme rectangulaire,a couvercle chanfreine;il est en bois, recouvert de plaquettes de cuivre repousse et presentant des scenes a personnages et des inscriptions se reproduisant alternativement : une jeune femme distribue une couronne a un chevalier agenouille devant elle; une jeune femme apporte un casque a un jeune chevalier agenouille a ses pieds; une jeune femme, debout,
+
+Dans l'inscription,le mot MErcE se represente fréquemment
+
+- decoche une fleche au chevalier agenouille devant elle.
+
+xive siecle.
+
+Haut.,21 cent.;larg.,45 cent,
+
+- 65— PeTIT PLATEAU rond,a ombilic saillant, en argent gravé. Au centre, un medaillon represente la Vierge debout, portant lEnfant, et saint Laurent avec ses attributs. Sur le marli, linscription gravee :Ave Maria gratia plena dominus tecum benedicta. Au revers,un poincon d'orfevrerie difficilementlisible.
+
+Espagne,xve siecle.
+
+Diam.,2g cent.
+
+- 66 SraTuETreen argent repousse et partiellement dore; saint personnage debout,nimbe,tenant unmodele
+
+La face du socle porte un écusson d'armoiries charge de trois etoiles et une inscription en lettres gothiques. xve siecle.
+
+- d'eglise sur sa main gauche et une beche de la main droite. ll est place sur un socle a pans, orne d'une frise ajouree et de contreforts a arcatures gothiques.
+
+Haut., 26 cent.
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 67 -PyxiDe en argent grave, partiellement dore. Elle affecte
+- la forme d'une tour supportee par trois petites figurines de lion. Elle est munie d'un couvercle conique garni d'engrelures. Sous le fond,le poincon Y. B.
+
+Espagne, xv siecle.
+
+Haut.,13 cent.
+
+- 68-PyxiDe en argent cisele et repousse; elle est de forme
+
+ronde, fanquee de six tourelles, chacune par une statuette de personnage supportees accroupi.
+
+Le couvercle, conique, est surmonte du pelican symbolique, nourrissant ses petits.
+
+Espagne, xve siecle. Haut.,15 cent.
+
+- 69 MONSTRANCE en cuivre partiellement dore. Elle est en forme detourelleflanquee dedeux contreforts gothiques agrementes
+
+<!-- image -->
+
+<!-- image -->
+
+de gables et de statuettes de saints personnages. Base polylobee,a tige a six pans,interrompue par un noeud aplati.
+
+xve siecle.
+
+Haut.,5g cent.
+
+- 70 -PeTIT RELiQuAIRE en argent dore. ll affecte la forme d'un tube en cristal de roche a pans, dispose horizontalement sur une tige ornee de deux plaquettes en émail translucide
+- sur argent.
+
+Base de forme quadrilobee et mouluree. Italie, xve siecle.
+
+Hlaut., 12 cent.
+
+4
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+71-PeTIT RELIQuAiRE en cuivre dore, garni de plaquettes et de perles en corail rouge. Il affecte la forme d'une petite boite rectangulaire,a couvercle talute, disposee sur une tige a
+
+<!-- image -->
+
+<!-- image -->
+
+arcature gothique.
+
+En partie de la fin du xve siecle. Haut., 16 cent.
+
+- 72 —TREs GRANDE CROIX processionnelle en argent repousse. Elle presente,sur la face,le Christ en croix entre la Vierge et saint Jean.Aux pieds du Christ, la Madeleine en prieres. Au-dessus, un pelican nourrissant sespetits.Al'extremite des branches de la croix, des me-
+
+daillons presentent les prophetes.
+
+Au revers de la croix,au centre, Dieu le Pere,assis dans une stalle, entoure d'anges et des quatre evangelistes.A l'extremite des branches de la croix, des medaillons representent les prophetes.
+
+Le nceud esten forme de monu- ment gothique a clcchetons et contreforts ajoures et ciseles.
+
+Sur la douille,de forme hexagonale,une longue inscription en caracteres gothiques. Les autres parties de la croix sont
+
+ornees de rinceaux, vases fleuris et de palmettes.
+
+Travail espagnol, fin du xve siecle.
+
+Haut.,1 m.28.
+
+73TREs PETIT CABINET en cuivre cisele et dore, enrichi d'appliques et de mascarons en argent. Il est de forme quadrangulaire, ouvrant a deux portes et muni d'un tiroir.
+
+argent émaille dans le gouit de Attemstetter.
+
+La partie superieure, ornee d'une petite figurine de guerrier conduisant un bige, forme boite,le couvercle etant monte a charnieres.
+
+Travail allemand du xvie siecle.
+
+o-g200,
+- 74 — RELIQuaiRE en forme de chapelle de style gothique, en cuivre et argent, enrichi de plaquettes de nacre et d'email. Ce monument est dispose sur une base a degres, en argent grave partiellement dore. A la base de l'un des clochers, la signature:PETRvs MALLIETvs FECIT ANNO DO 1524.
+
+Travail italien du xvi siecle.
+
+Haut.,29 cent.
+
+<!-- image -->
+
+<!-- image -->
+
+- 75— Deux BATons de commandement, gaines de velours vert et garnis d'appliques en argent repousse. Au centre, un ecusson armorie, timbre d'une couronne, portant la devise : Gonfalonis Archicon Fraternitas.
+
+xvlle siecle.
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## ORFEVRERIE ALLEMANDE
+
+- 76 -ViDrecoMe en argent dore. Il est orne de trois medaillons ovales, presentant des animaux au milieu de paysages. Ces medaillons sont separes par des motifs de vases feuris, d'arabesques et d'entrelacs. Le couvercle est surmonte d'une licorne dressee sur ses pattes de derriere. L'anse, en volute,presente une cariatide de femme.
+
+Poincons d'Augsbourg et probablement de Christof Epfen- hauser, juré en 1555,mort en 15g6.xve siecle.
+
+Haut.,1g cent.
+
+- -VIDREcoME en argent dore. ll est orne, au pourtour, de 77 trois medaillons ovales charges de figures allegoriques representant les feurs et les fruits,les moissons et les vendanges. A l'entour, des ornements formes de touffes de feurs, de fruits,d'arabesques, de rinceaux, d'oiseaux et de lambrequins.
+
+Le couvercle est surmonte d'un petit groupe de saint Georges terrassant le dragon. Anse cintree a decor de feurs et de fruits et de lambrequins.
+
+Poincon d'Augsbourg et un autre poincon d’un maitre inconnu forme des lettres P. H. liees. Allemagne, xvr siecle. Haut.,265 millim.
+
+- 78-Coupe en argent repousse et dore. Elle est decoree, au fond, d'une scene representant un combat de cavalerie. Le revers de la coupe est grave d'arabesques. Piedouche rond avec tige balustre a tetes de belier et consoles ajourees.
+
+Allemagne, xvi siecle.
+
+Haut.,17 cent.; diam., 225 millim
+
+- 79 -Coupe en argent repousse et dore, decoree, au fond, dun
+- large medaillon a sujet tire de lhistoire de Diane et d'Acteon: Acteon est change en cerf. Fond de paysage avec vue de ville et habitations.
+
+Au revers de la coupe, des tetes d’angelots et des cartou- ches charges'de touffes de feurs et de fruits alternes.
+
+Piedouche decore de meme facon.
+
+Allemagne, fin du xvi siecle.
+
+Haut.,19 cent.;diam.,225 millim.
+- 8o - BocaL en argent repousse. Il est en forme de gobelet
+- cylindrique, orne de touffes de fleurs et de fruits suspendus a des rubans, de palmettes et de rinceaux. Il repose sur une tige a volutes ajourees, fixee sur une base mamelonnee circulaire.
+
+Poincon d'Augsbourg; Allemagne, fin du xvr siecle.
+
+Haut.,25 cent.
+
+- 81— BocaL en argent dore,en forme de belier, debout sur une terrasse ovale simulant un terrain parseme de touffes d'herbe, de cailloux et de coquillages.
+
+Poincon d'Augsbourg. Allemagne, fin du xvr siecle.
+
+Haut.,29 cent.;larg.,26 cent.1/2.
+
+- 82—ViDREcoME en argent repousse et dore; il est decore, au
+- pourtour, d'arabesques, de touffes de feurs et de fruits enrubannees. Le bouton du couvercle est forme d'un fruit simule et l'anse, recourbee, disposee en volute.
+
+Poincon d'Augsbourg. Allemagne, fin du xvi siecle.
+
+Haut.,18 cent.
+
+- 83—GoBELET en argent partiellement dore. Il est orne,au bord, d'une frise representant une composition militaire a personnages avec vue de ville et de monuments. Le corps de la timbale est grave de lambrequins sur fond uni.Autour
+- du pied bas, se deroule une scene de chasse.
+
+Poincon de Nuremberg. Allemagne, fin du xvr siecle.
+
+Haut.,i1 cent.1/2.
+
+- 84 -- GRAND vIDREcoME en argent repousse, partiellement dore. Il est orne,au pourtour, de trois medailles: lune representant Charles-Quint et Ferdinand Ier; l'autre Marie Tudor, tournee de profil vers la gauche, et la troisieme une figure allegorique de la Paix sous les traits d'une femme assise, eteignant une torche enfammee sur un trophee guerrier,et brandissant une palme. C'est le revers de la medaille de
+- Marie Tudor.Dans le champ, des touffes de fleurs et de fruits.
+
+Le bouton du couvercle est forme d'une pomme entouree de feuilles. Lanse, en volute, presente un mascaron barbu.
+
+Poincon de Leipzig (?). Allemagne, xvne siecle.
+
+Haut., 24 cent.
+
+5100.
+
+<!-- image -->
+<!-- image -->
+
+h.1300.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 85oPeTIT vIDRecoME en argent repousse, grave et partiellement: dore. ll est decore, au pourtour, de touffes de feurs
+
+Lanse, en volute,est formee d'une cariatide et le couvercle est surmonte d'un bouton a volute surmontee d'une tige feuillagee.
+
+- et-de fruits et de mascarons stylises, disposes regulierement.
+
+Poincons de Nuremberg et de Konrad Kerstner,maitre en
+
+1645, juré en 1675,mort en 1699. Allemagne, xv11 siecle.
+
+Haut.,16 cent.
+
+- 86- PeTir BocAL en argent repousse dont le corps est forme d'une noix de coco unie et le couvercle surmonte d'une petite statuette de hallebardier, debout.Tige balustre ornementee,reposant sur une base circulaire talutee.
+
+Poincon d'Augsbourg.Allemagne,xvil siecle.
+
+Haut., 25 cent.
+
+- 87 —BocaL en argent repousse,partiellement dore. Le gobelet, uni, est decore, pres de l'orifice, de quatre lambrequins dores. Le culot et le pied, en argent repousse, sont decores de' trophees guerriers et de tetes d'anges..
+
+Haut., 20 cent.
+
+Allemagne, xvie siecle.
+
+- 88 — BocaL en argent repousse et dore, presentant un coq dresse sur une patte et tenant de l'autre patte levee,un écusson d'armoiries reemaille. Base ronde mamelonnee, a decor de feurs, de fruits et d'entrelacs.
+
+Poincon d'Augsbourg.Allemagne, xvne siecle.
+
+Haut.,32 cent.
+
+- 8g  GraNDE coupe en argent repousse et dore. Elle est decoree, au fond, d'un large medaillon en haut-relief,representant le sacrifice d'Abraham. Le revers de la coupe est orne de tetes de belier et de cartouches a fleurs de lis, touffes de fleurs et de fruits,rinceaux et lambrequins. Elle repose sur une tige balustre, decoree de meme et placee sur un pied circulaire
+
+Allemagne, xvil siecle.
+
+Haut., 20 cent.; diam.,25 cent.
+
+- moulure.
+- g0 -ViDREcoME en argent repousse et partiellement dore. Le corps de ce vase est en ivoire sculpte en bas-relief, représentant une composition a personnages,relative aux vendanges, a la moisson et a l'amour.
+
+La base et le couvercle sont ornes de guirlandes de feurs et de fruits. L'anse, disposee en volute, est decoree d'une tete d'enfant.
+
+Poincon d'Augsbourg. Allemagne, xvil siecle.
+
+Haut., 21 cent.
+
+- g1 —NauTiLe formee d'une coquille en nacre gravee, representant des scenes villageoises a nombreux personnages figurant des paysans jouant aux cartes, chantant, faisant de la musique ou jouant a la main chaude. Cette coquille, montee en argent dore, est disposee sur une tige formee d'un cygne, reposant sur une base ovale ornee de poissons nageant dans les flots. A la partie superieure de la coupe est une petite statuette de Venus debout sur une sphere,
+- tenant une voile deployee.
+
+Poincon de Bamberg. Allemagne, xvir siecle.
+
+Haut.totale,37 cent.
+
+- 92 — GoBELET en argent dore. La coupe, de forme obconique,
+- est unie, decoree a la base et pres de lorifice de cercles graves. La tige est ornementee de trois cartouches separes par des feurettes et des rubans. Base ronde unie.
+
+Poincon de Nuremberg. Allemagne, xvn siecle.
+
+Ecrin en cuir orne de dorures.
+
+Haut.,t5 cent.
+
+- g3 — BocaL en argent repousse et dore, presentant une chevre
+- dressee sur ses pattes de derriere.
+
+Poincon d'Augsbourg. Allemagne, xvie siecle.
+
+Haut.,24 cent.
+
+- 94 —BocaL en argent repousse,partiellement dore, en forme
+- d'ananas. Il est dispose sur une tige simulant un tronc d'arbre et reposant sur une base mouluree.
+
+Poincon de Nuremberg. Allemagne, xvil siecle.
+
+Haut.,21 cent.
+
+o.3100.
+
+<!-- image -->
+<!-- image -->
+
+1300.
+
+520.
+
+<!-- image -->
+
+- 95 BocaL en argent repousse, grave et dore, representant un aigle dresse sur son perchoir; les ailes, montees a charnieres, sont mobiles. Le bouchon est forme par une couronne
+- princiere. Base ajouree a decor de rinceaux.
+
+Allemagne, xvil siecle.
+
+Haut., 205 millim.
+
+- 96— ViDREcoME en argent grave, partiellement dore. ll est decore,au pourtour, de sujets relatifs au psaume 141 et au cantique n°2. Sur le couvercle,un medaillon representant un ange aile,debout derriere un autel, montrant a un personnage agenouille les tables de la Loi. Au-dessus, linscription:Psaume 142.
+
+Allemagne,xvile siecle.
+
+Haut.,17 cent.
+
+- 97— GoBELET en argent repousse, grave et dore. La partie inferieure est decoree de bossages disposes symetriquement. Le haut de la coupe est grave de rinceaux et de palmettes.
+
+Allemagne, xvil siecle.
+
+Haut.,9 cent.
+
+- g8— Coupe en argent repousse et partiellement dore, de forme ronde.Elle est decoree,au fond, d'un monstre marin dispose
+- entre trois cartouches a mascarons.
+
+Piedouche de forme balustre, orne de cariatides et de mascarons.
+
+Allemagne, xvire siecle.
+
+Haut.,155 millim.; diam.,18 cent.
+
+- de trois scenes inscrites dans des cartouches et representant la Nativite,la Resurrection et la Crucifixion. L'anse est formee d'une cariatide de femme. Le couvercle est decore
+- de cannelures juxtaposees et muni d'un bouton.
+
+Poincon de Nuremberg. Allemagne, xvil siecle.
+
+Haut.,165 millim.
+- 1oo -PeTITE sTATuETTE en argent cisele et dore,representant un cavalier en costume militaire, coiffe d'un chapeau garni d'une plume, l'epee suspendue au cote, ayant dans la main droite un baton de commandement. Il est sur un cheval
+- cabre et harnache.
+
+Poincon d'Aix-la-Chapelle (?). Allemagne, xvil siecle.
+
+Haut.,22 cent.
+
+- 101 - Deux coupes en argent repousse et doré. Elles sont
+- soutenues chacune par une statuette de cheval nu, cabre. Chacune de ces coupes, de forme lobee, est ornee,au fond, d'un groupe repousse representant, pour lune, Mercure et Argus, et pour l'autre, Jupiter et Junon. A l'exterieur, des petits medaillons repousses presentent diverses scenes mythologiques.
+
+Base de forme mamelonnee, a decor de coquilles et de
+
+Poincon de Konstanz (?). Allemagne, xvile siecle.
+
+Haut., 215 millim.
+
+- 102 -BocaL en forme de dauphin,les yeux formes de cabochons de pierres de couleurs.Il est supporte par un triton emergeant au milieu des plantes marines. La base circulaire,ornee de trois medaillons en argent repousse,a decor de divinites
+
+Allemagne,xvr siecle.
+
+- marines et de touffes de fleurs et de fruits.
+
+Haut.,43 cent.
+
+- 1o3 - GRAND BocAL en argent partiellement dore,representant un lievre assis et dresse, La tete de Ianimal forme couvercle. Le cou est orne d'une guirlande de fleurs.
+
+Poincons d'Augsbourg et de Mateus Wolff, mort en 1716.
+
+Haut.,42 cent.
+
+Allemagne, fin du xvue siecle.
+
+- 104 - BocaL en argent dore, representant un ours dresse sur ses pattes de derriere et tenant devant lui un écusson d'armoiries charge de trois cors de chasse. Il est dispose sur un socle arrondi, enrichi de petites plaques d'argent decoupe.
+
+Poincon de Bale. Travail suisse, xvin siecle.
+
+Haut.,23 cent.
+
+feuillage.
+
+<!-- image -->
+
+1000.5
+1250
+
+<!-- image -->
+
+105 — VipREcoME en argent partiellement dore. ll est decore, au pourtour et sur le couvercle, de nombreuses pieces de monnaie aux effigies de souverains varies. Alentour, des trophees d'armes et des bustes d'empereurs romains laures ou casques. Anse cintree, ornee d'un bouton forme d'une touffe de fruits et garnie, a la partie inferieure, d'un ecusson.
+
+Poincon de Mitau. Travail russe, xvil siecle.
+
+Haut.,1g5millim.
+
+106  PeTIr BocAL en argent repousse et dore.ll est forme d'un ecureuil dresse contre un tronc d'arbre.
+
+Socle ovale,simulant un tertre couvert de plantes et sur lequel court un petit lezard. Le tronc d'arbre est faconne en prisme d'émeraude.
+
+Poincon d'Augsbourg. Allemagne, xvine siecle.
+
+Haut.,19 cent.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+## MATIERES DURES
+
+## MONTEES EN ORFEVRERIE
+
+107 - CrucHE en cristal de roche taille a pans. Elle est munie d'une anse plate et d'un couvercle, dont le bouton est forme d'une tete danimal. Elle est garnie d'une monture en argent dore et grave, decoree de petites scenes champetres et de paysages.
+
+En partie de la fin du xvr siecle.
+
+Haut.,255millim.
+
+- 108 — Croix formee de plaquettes en cristal de roche, serties
+
+dans une monture d’argent nielle et grave.
+
+Travail italien du xve siecle.
+
+Un Christ du xvie siecle, de travail espagnol, en ivoire sculpte, avec rehauts de couleur, a ete reapplique sur cette croix.
+
+Haut.,56cent.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+109 —DEux PETITEs BuRETTEs en cristal de roche grave. La panse est ovoide, reposant sur un piedouche rond et sur-
+
+<!-- image -->
+
+<!-- image -->
+
+monte d'un goulot a orifice trilobe. Elles sont garnies d'une legere monture en or partiellement emaille.
+
+Italie, xvr siecle.
+
+Haut.,14 cent.
+
+IIO--PETIT RELIQUAIRE en cristal de roche, monte en or émaille. De forme hexagonale, il contient diverses sculptures microscopiques en bois ajoure, representant diverses scenes tirees de la vie du Christ.
+
+Il est fixe sur une tige balustre, reposant sur un socle quadrangulaire uni.
+
+En partie du xvre siecle.
+
+<!-- image -->
+
+Haut.,18 cent.
+
+- I11 -PeTIT vAse couvert, en cristal de roche sculpte, de forme cylindrique; il est decore, au pourtour, de trois aigles aux ailes éployees, separes par des mouches. Le pied est forme de trois grenades ouvertes, en or émaille, reunies par des branches feuillagees a un motif central godronne. Le cou vercle,a godrons obliques, est serti dans une monture en or émaille en couleurs,et surmonte d'un bouton de meme matiere orne d'un écusson charge des lettres C. P. L. I.
+
+En partie du xvr siecle.
+
+Haut., 145 millim.; diam., 7 cent.
+<!-- image -->
+
+- 1i2 - PeTITE BIcHE en jaspe rouge sculpte, avec cornes et collier d'or émaille orne de pierreries. Elle est representee couchee et disposee sur une terrasse octogonale en or emaille en couleurs, enrichie de pierreries.
+
+En partie du xvr siecle.
+
+Long., 11 cent.; haut.,8 cent.
+
+- 113 - PeTITe couPe couverte, de forme ovale,en agate blonde
+
+arborisee,enrichie d'une montureen or émaille en couleurs et munie de deux anses formees chacune d'un dragon pose sur un rinceau également en or, enrichi de pierreries.
+
+Le bouton du couvercle simule un petit agneau couche, en or émaille, dont le corps est forme partiellement d'une perle baroque.
+
+En partie du xvn siecle.
+
+Larg., 12 cent.; haut.,7 cent.
+
+114PETIT VASE de forme Medicis,en lapis, orne de deux
+
+- mascarons barbus;
+
+No114
+
+<!-- image -->
+
+bo.6500
+
+il est pose sur un socle quadrangulaire en or moulure et garni sur chaque face de deux plaquettes en or emaille en couleurs, a sujets varies.
+
+Base carree en lapis.
+
+Art italien, en partie du xvin siecle.
+
+Haut., 175 millim.
+
+10500.
+LIIoN
+
+<!-- image -->
+
+<!-- image -->
+
+sin dispose surun rocher forme d'une grosse perle baroque. Base rectangulaire en or émaille en coulcurs.
+
+Travail espagnol, en partie du xvI siecle.
+
+Haut., 55 millim.
+
+117-DEUX PETITES COURONNES d'appliques en or émailleencouleurs et garnies de pierreriesetde perles. Elles sont toutes deux surmontees d'une croix,et l'une d'elles porte linscription:
+
+DELMILA Gro. Travail de Boheme, fin du xv1 siecle.
+
+Haut.,15 cent.et g cent.
+
+115-LEoPARD couche,la tete entre ses pattes.Petite statuette en marbre breche.
+
+Ancien travail italien. Socle en marbre vert. Long..135 millin.
+
+## BIJOUX
+
+II6-TRESPETITE STATUETTE en or emaille,representant la Vierge en prieres, agenouillee sur un cous-
+
+LIION
+
+<!-- image -->
+
+1050.
+
+<!-- image -->
+## BUIS
+
+118 - PeTIT MoNuMENT en buis ajoure, sculpte et decoupe, representant Adam et Eve de chaque cote de l'arbre, disposes
+
+N°118
+
+<!-- image -->
+
+sous une arcade cintree soutenue par deux colonnes richement ornomentees et dressees sur un entablement ajoure et moulure, termine par un cul-de-lampe a figures. A la partie superieure du cintre,un ange volant.
+
+Travail allemand,xvie siecle.
+
+Haut.,I2 cent.;larg.,8 cent.
+
+Ancienne collection du baron Carl Mayer de Rothschild;vente a Paris,
+
+12-13 juin 1911,no115.
+## BRONZES
+
+- 11g — PeTITe soNNETTe en bronze cisele, decoree d'un ecusson d'armoiries et d'un cartouche portant l'inscription :opus CAsTELLi. La poignee est formee d'une statuette de Junon
+- debout et drapee.
+
+Italie, xvr siecle.
+
+Haut., 16 cent.
+
+- 120 — SonneTTe en bronze cisele, decoree,au pourtour, de trois écussons d'armoiries soutenus par des angelots, et de trois zones d'ornements, chimeres, palmettes et arabesques. La poignee est formee d'une statuette de jeune femme debout, la main gauche rapprochee de la poitrine.
+
+Haut., 20 cent.
+
+Italie,xvr siecle.
+
+- 121 —Encrier en bronze ciselé. Le recipient, de forme ronde, orne,au pourtour de mascarons et de palmettes,est supporte
+- par trois cariatides de faune.
+
+Italie, xvie siecle.
+
+Haut., 8 cent.
+
+- 122 —EncrIer de forme ronde, supporte par trois cariatides de femmes ailees, reposant sur des pieds griffes.
+
+Italie, xvie siecle.
+
+Le couvercle est surmonte d'une statuette d'homme portant une volumineuse corne d'abondance.
+
+Haut. totale,25 cent.
+
+- 123 —ENcRier en bronze, de forme ronde, supporte par trois
+
+Le couvercle est surmonte d'une statuette de Minerve, debout et casquee, appuyee sur un bouclier.
+
+Haut., 28 cent.
+
+- motifs feuillages.
+
+Italie, xvie siecle.
+- 124 - STATuETTE en bronze patine : Mars debout, casque, cuirasse a l'antique, le poing gauche sur la hanche, la main
+- droite levee tenant une lance.
+
+Italie,xvr siecle.
+
+Haut.,34 cent.
+
+- 125 PETITE sTATuETTE en bronze patine.David, debout,vetu d'une cuirasse et casque, portant de la main gauche la tete de Goliath. De la main droite levee, il tient la poignee de son epee.
+
+Italie, xvr siecle.
+
+Haut.,18 cent.
+
+- 126 - STATuETTE en bronze patine,Hercule debout et nu,la
+- tete tournee vers l'epaule droite, tenant la massue. Le poing gauche est appuye sur la hanche.
+
+Italie,xvie siecle.
+
+Socle rectangulaire en marbre veine gris.
+
+Haut.,28 cent.
+
+- 127 —Deux sTATuETTes en bronze, provenant de chenets.
+
+Figures allegoriques de la Guerre et de la Paix.
+
+La Guerre est figuree sous les traits de Mars, debout, casque, vetu d'une cuirasse a la romaine, la main droite sur la poignee de son epee,et portant un bouclier de la main gauche.
+
+La Paix est representee sous les traits d'une femme legerement drapee,éteignant une torche enflammee sur un casque dispose a ses pieds.
+
+Socles en bronze moulure.
+
+Art italien, xvie siecle.
+
+Haut.totale,61 cent.
+
+- 128 — SrATuETTE en bronze:Jupiter debout, couvert d'une legere draperie, tenant les foudres de la main droite.A ses cotes,l'aigle aux ailes éployees.
+
+Italie, xvi siecle.
+
+Haut.,35 cent.
+
+00501
+1200.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 129 — STATuETTE en bronze : Mars debout et presque nu, casque; il est appuye contre un tronc d'arbre, son bouclier dresse a ses pieds.
+
+Italie, xvine siecle.
+
+Haut.,40 cent.
+
+- 13o - STATuETTE en bronze: Mars debout sur une cuirasse et casque a haut cimier; il est appuye de la main gauche sur un bouclier a tete de Meduse et tient de la main droite la
+- nu,une legere draperie lui couvrant les epaules, coiffe d'un poignee de son épee.
+
+Italie, xvine siecle.
+
+- drapee, la main gauche tendue de cote.
+
+Haut.,46 cent.
+
+- 131 - SrATuETTE en bronze patine, de saint Pierre, benissant, assis sur un trone de marbre blanc sculpte. Socle rectangulaire en albatre oriental et plaque de granit d'Egypte. Le bronze porte la signature de Giovanni Zoffoli Romano.
+
+Ancien travail Italien.
+
+Haut. du bronze,48 cent.;haut. totale,77 cent.
+
+Replique de la statue conservee a Saint-Pierre de Rome.
+
+- 132 -Deux sTATuETTEs en bronze patine, presentant deux chevaux couches.
+
+Italie, xvi siecle.
+
+Ces statuettes sont disposees sur des socles en bronze cisele et dore a motifs rocailles.
+
+Larg., 24 cent.
+
+- 133  SraTuETTE de femme,en bronze patine.Elle est debout,
+
+Ancien travail italien.
+
+Haut.,37 cent.
+- 134 STATuETTE en bronze patine. Atlas debout, presque nu,
+- soutenant le monde.
+
+Ancien travail italien.
+
+La boule du monde a disparu.
+
+Haut.,28 cent.
+
+- 135 -BusTe de Francois Ier; la tete,de face,legerement penchee en avant, est en bronze patine. Buste en marbre blanc,
+
+Socle rond moulure.
+
+- drape a l'antique, orne d’un masque de faune grimacant.
+
+Haut.,78 cent.
+
+- 136 - Buste de faune en bronze patine, la tete tournee legerement vers Iépaule gauche, la poitrine nue. Il repose sur un socle en marbre jaune veine.
+
+Ancien travail italien.
+
+Haut.totale,58 cent.
+
+- 137—BusTe en bronze patine. Portrait d'homme,la tete de face,les cheveux courts rejetes en arriere, la moustache tombante, la barbe taillee courte sur le menton,un peu plus longue sur les joues.
+
+Ancien travail italien.
+
+Socle rond en marbre veine vert.
+
+- des tempes,le crane denude.
+
+Haut. totale,56 cent.
+
+- 138  BusTe en bronze patine:portrait d'homme barbu, une touffe de cheveux frises sur le haut du front et au-dessus
+
+Ancien travail italien.
+
+Socle rond en marbre veine vert.
+
+Haut.totale,54 cent.
+
+<!-- image -->
+
+<!-- image -->
+
+2000.
+
+<!-- image -->
+<!-- image -->
+
+:3000.
+
+- 13g -BoMBARDE en bronze cisele, a decor de branches de
+- chene et de dauphins.Elle porte un monogramme surmonte d'une couronne.
+
+xvl siecle.
+
+Elle est munie de son affut en bois cloute de bronze, muni d'anneaux et de crochets.
+
+Long.totale,75 cent.
+
+- i40 -BoMBARDE en bronze cisele, a decor de feuillage et de cartouches. Elle est munie de son affut en bois, garni de clous et d'anneaux.
+
+xvnl siecle.
+
+Long.totale,6o cent.
+
+## TERRES EMAILLEES DES ROBBIA
+
+- 141 -GRAND MEDAILLoN rond en terre emaillee, par Luca della
+
+100.000
+
+101000
+
+- Robbia,rerepresentant la figure allegorique de la Prudence sous les traits d'une jeune femme tournee de profil a gauche, tenant de la main droite un miroir, et de la main gauche un serpent. Derriere la tete de la femme,est fixe un masque de vieillard barbu. Emaux blancs sur fond gris bleu.
+
+L'encadrement est forme d'une guirlande de feuillages et de fruits emaillesen couleurs,contenue entre deux cerclesconcentriques, ornes de moulures et d'oves juxtaposes.
+
+Italie,fin du xv siecle.
+
+Diam., 1 m.65.
+
+Cemedaillon proviendrait du palais de Pazzy a Florence. Deux medaillons similaires sont conserves au musee de Cluny a Paris.
+
+Cf.J. Cavallucci et Emile Molinier : Les Della Robbia.Paris,1884, p.63.
+- 142—GRAND HAUT-RELIEF en terre emaillee en couleurs, de l'atelier des Robbia. De forme rectangulaire,il represente la Vierge assise, dans une stalle a haut dossier, voilee,nimbee, drapee dans un ample manteau, tenant l'Enfant Jesus assis de face, sur son genou droit. A ses cotes, a gauche, un saint éveque, nimbe, crosse et mitre, tenant un livre de la main gauche. A droite, saint Jerome debout, se frappant la poitrine avec une pierre. Le lion etendu a
+- ses pieds.
+
+La predelle est ornee de trois compositions representant le Christ debout dans le tombeau, saint Jerome dans le desert et un épisode tire de la vie de l'eveque represente sur le haut-relief. A chacune des extremites, un écusson d'armoiries.
+
+L'encadrement est forme de deux pilastres ornementes de rinceaux et de vases fleuris,le linteau est orne de palmettes, de cornes d'abondance et de tetes de cherubins.
+
+Le devant de la stalle porte l'inscription : QvesTA.
+
+TAVOLA.AFACTA FARE SVORA.CATERINA.FIGLIVOLA DITOMASO. DISALVESTRO.DI NVCCARELLO NE MCCCCC2.
+
+Italie,commencement du xvie siecle.
+
+Haut., 2 m.3o; larg., 1 m.82.
+
+- 143 —TREs GRAND HAUT-RELIEF rectangulaire, cintre a la
+- partie superieure, en terre émaillee en couleurs, de l'atelier des Robbia. ll represente le Christ au jardin des Oliviers. Au premier plan,les trois disciples sont endormis; dans le haut, apparait l'ange portant la croix.
+
+Encadrement forme de deux pilastres et d'une arcature a decor de guirlandes de feurs et de fruits, d'ecussons d'armoiries, de mascarons, de grappes de raisin.
+
+Italie, commencement du xvie siecle.
+
+.80000
+
+143000.
+
+40000
+em,50000
+
+a.69100.
+
+- 144- GRAND HAUT-RELIEF en terre émaillee en couleurs,de l'atelier des Robbia,representant la Vierge assise de face sur un trone,nimbee, drapee dans un manteau et tenant sur son genou gauche lEnfant Jesus debout et nu.
+
+<!-- image -->
+
+300002
+
+No145 l.25000
+
+A ses cotes, deux saints personnages; lun, a gauche de la Vierge, est appuye sur un baton et tient une croix; lautre,a droite,porte un livre. A la partie superieure, trois tetes de cherubins ailes. Le soubassement est decore d'oves juxtaposes et de deux ecussons armories.
+
+Encadrement forme de touffes de feurs et de fruits,se detachant en jaune et vert sur fond blanc.
+
+Italie,xvl siecle.
+
+Haut., 2 metres; larg., 1 m. 65.
+
+Une partie du fond uni, pres de l'encadrement, est en bois peint.
+- 145 5GRAND HAUT-RELIEF en terre émaillee,de l'atelier des Robbia.De forme rectangulaire, cintre a:la partie superieure,il represente la Nativite.Au premier plan,I'Enfant Jesus est couche dans la creche, entoure de saints per-
+
+No146
+
+<!-- image -->
+
+o.5000
+
+sonnages; le boeuf et lane paraissent a la porte de létable.A l'arriere-plan,les bergers,auxquels les anges annoncent la naissance de IlEnfant divin.
+
+Encadrement forme de deux pilastres et d'une arcature, a decor de guirlandes de fleurs et de fruits émailles en couleurs.
+
+Italie,xvie siecle.
+
+Dem.30000.
+
+45000.
+<!-- image -->
+
+4000.
+
+<!-- image -->
+
+146 TABERNAcLE en terre emaillee, de l'atelier des Robbia. Deiforme rectangulaire,cintre a la partie superieure,il presenteune ouverture circulaire surmontee du calice et de I'hostie, disposes entre deux tetes de cherubins. En haut, la colombe aux ailes deployees. Fond gris bleu. Encadrement emaille blanc, decore de trois palmettes jaunes.
+
+Italie, xvr siecle.
+
+Haut.,79 cent.;larg.,47 cent.
+
+147 - HauT-RELiEF en terre emaillee de l'atelier des Robbia,
+
+<!-- image -->
+
+representant saint Bruno agenouille au pied d'un rocher, tourne de profil vers la droite. Emaux bleus, verts, jaunes.
+
+Italie,commencement du xvr siecle. Haut., 46 cent.
+
+<!-- image -->
+
+148 —STATUETTE en terre emaillee blanche,del'atelier des Robbia, representantune sainte femme, debout, drapee, tenant le pied d'un calice de sa main droite. La main gauche, abaissee, retient les plis de son manteau. Nimbe radie,rehausse de dorure.
+
+Italie, commencement du xvi siecle.
+
+Haut.,I m.06.
+
+149 — STATuETTE en terre emaillee, de latelier des Robbia, representant une figure allegorique de lAbondance, sous les traits d'une femme debout, drapee dans une longue robe, portant sur la tete une corbeille remplie de feurs et de fruits, ayant a ses cotes deux enfants nus.
+
+Italie,commencement du xvr siecle.
+
+Haut.,1 m.10.
+
+5600.
+- 150 - STaTuETTE en terre emaillee de latelier des Robbia, representant un jeune homme,debout, teriant un livre ferme de la main gauche. La main droite,ramenee contre sa poitrine. ll est vetu d'une tunique violette,
+
+Italie,xvr siecle.
+
+- couverte par un large manteau bleu double de jaune.
+
+Haut.,1 m.34.
+
+- 151—MEDAILLoN rond,en terre émaillee,de latelier des
+- Robbia, presentant un écusson d'armoiries timbre d'une mitre,et dispose au milieu d'un encadrement forme de feuillage, de grappes de raisin et de fruits. Emaux verts, jaunes, bleus et manganese.
+
+Italie, xvi siecle.
+
+Cadre en bois dore.
+
+## BOIS SCULPTES
+
+- 152 — Groupe en bois sculpte,representant la Vierge assise, de face, dans un fauteuil a pietement a colonnettes. Le dossier et les cotes sont egalement ornes de colonnettes moulurees. La Vierge est voilee, drapee dans une robe a longs plis. Elle tient de ses deux mains, assis sur ses genoux, I'Enfant Jesus
+- benissant et tenant un livre ferme.
+
+Ancien travail d'Auvergne, xil siecle.
+
+Quelques parties ont éte reparees.
+
+Haut., 78 cent.
+
+- 153 -Groupe en bois sculpte, representant la Vierge assise sur un banc a colonnettes. Elle est de face, couronnee, drapee dans un ample manteau, dont les plis sont ramenes devant les jambes. Elle porte sur son bras gauche l'Enfant Jesus, assis,vetu d'une chemise et tenant de ses deux mains une colombe.
+
+Art francais, fin du xive siecle.
+
+Haut., 92 cent.
+
+Diam., 8o cent.
+
+11000
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+154 —QuATRE EcussoNs d'armoiries, en bois sculpte, peint et dore. lls sont disposes au milieu d'un motif decoratif
+
+<!-- image -->
+
+trilobe,decoupe et ajouré,a feuillages gothiques.
+
+Art espagnol, xve siecle.
+
+Haut., 8g cent.
+
+- 155 -—STATUETTE enbois sculpte, polychrome, avec traces de dorure,representant saint Michel debout et drape,le bras droit leve au-dessus de la tete.
+
+xve siecle.
+
+Haut., 1 m.23.
+
+N°152 0.3800
+
+nu, et la Vierge tenant un livre ouvert.
+
+- 156-PETIT GROUPE d'applique en bois sculpte,representant sainte Anne, assise sur un banc moulure, portant sur ses genoux l'Enfant Jesus,
+
+Haut.,38 cent.
+
+Fin du xve siecle.
+
+- 157- Deux HAUTs-RELIEFs en bois sculpte avec traces de polychromie; I'un represente saint Georges, a cheval, terras-
+- sant le dragon; l'autre, le martyre de saint Sebastien.
+
+Fin du xv siecle.
+
+Haut., 93 cent.; larg., 6o cent.
+
+- 158— HauT-RELIEF en bois sculpte, peint et polychrome. Composition a nombreux personnages, figurant la mort de Vierge.
+
+Haut., 92 cent.; larg, I m. 10.
+
+Fin du xve siecle.
+
+3000.
+
+1500.
+159 — SraTuETre d'applique en bois sculpte, avec rehauts de couleur,representant saint Jean, debout, drape dans un
+
+N160
+
+<!-- image -->
+
+10500
+
+manteau,les bras ramenes symetriquement devant la poitrine, la tete legerement levee et tournee vers I'épaule droite. Il porte, suspendu a sa ceinture,un etui.
+
+Fin du xve siecle.
+
+Haut., I m.16.
+
+16o - STaTuETTe en bois sculpte et peint, avec rehauts de dorure, representant la Vierge, assise, drapee dans un ample manteau dont les pans sont croises sur les genoux.
+
+Elle a les deux mains croisees contre la poitrine.
+
+Art italien, fin du xve siecle.
+
+Haut., 1 m.15.
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 16I GRAND RETABie formant triptyque, en bois sculpte et polychrome.ll represente,au centre,la Vierge debout et couronnee, drapee dans un ample manteau, portant sur son bras droit l'Enfant Jesus nu, tenant un fruit. Aux cotes de la Vierge, sainte Mathilde,un livre ouvert sur la main droite, et sainte Marthe debout sur un dragon. Sur chacun des volets:a droite, saint Georges debout, arme de sa lance, revetu d'une armure complete, terrassant le dragon; a gauche, saint Joachim debout,de face,tenant un livre ferme de la main gauche.
+
+Ces statues sont disposees sous des dais gothiques ajoures a fenestrages feuillages. Fond d'or damasse et, sur les nimbes, les noms de chacun des personnages.
+
+Art allemand, fin du xve siecle.
+
+Haut.,1 m.85;larg.ouvert,2m.75.
+
+- 162 -GRAND RETABLE de forme architecturale, en bois sculpte et partiellement dore. ll se compose, au centre, de deux compartiments superposes representant,a la partie inférieure, la Nativite,et, a la partie superieure, la Crucifixion. A droite et a gauche, deux autres scenes figurent, dun coté le Christ portant sa croix,de lautre le Christ montre au peuple.
+
+Ces compositions, a tres nombreux personnages,reparties sur des plans differents, sont disposees au milieu de paysages montagneux avec vues de villes et habitations, et sont placees sous des arcatures a motifs gothiques ajoures.
+
+Travail famand, fin du xv siecle.
+
+Haut.,environ 2 m.5o; larg.,environ 1 m.8o.
+
+- 163 —Groupe d'applique en bois sculpte,representant la Sainte Famille. La Vierge est assise, couronnee et drapee, tenant sur ses genoux lEnfant Jesus et un livre ouvert. Debout
+- derriere elle, sainte Anne et saint Joachim.
+
+Commencement du xvie siecle.
+
+Haut., 95cent.
+164 — Groupe dapplique en bois sculpte, peint et dore,representant le Christ au tombeau.
+
+Flandres, commencement du xvi siecle.
+
+Haut.,3o cent.;larg.,2g cent.
+
+N°163
+
+<!-- image -->
+
+4700
+
+- 165 — SrATuETTe en bois sculpte, peint et dore,representant un personnage assis sur un banc. ll est coiffe d'une toque, vetu d'un pourpoint couvert par un ample manteau a creves. Il tient un gant de la main droite. A son cou, un collier d'ordre auquel est suspendue une croix.
+
+Commencement du xvie siecle.
+
+Haut., 86 cent.
+Mao.4550.
+
+166 - Groupe en bois sculpte et peint, representant la Vierge debout, couronnee, les cheveux tombant sur les épaules,
+
+No167 m.20100
+
+<!-- image -->
+
+amplement drapee dans un large manteau. Elle porte I'Enfant Jesus nu sur sa main gauche.
+
+Commencement du xvre siecle.
+
+Haut.,I m.57.
+167 — GRANDe VIeRGE ouvrante,en bois sculpte et polychrome. Elle est vetue d'une robe garnie de cabochons simules et drapee dans un ample manteau dont les pans sont ramenes sur les genoux. Elle tient l'Enfant Jesus debout sur son genou droit.
+
+Le groupe, ouvert, laisse apercevoir a linterieur une statue de Dieu le Pere assiset tenant une croix devant lui.
+
+Sur chacun des volets sont peints de nombreux personnages.
+
+Allemagne, commencement du xvie siecle.
+
+Haut.,1 m.32; larg. ouverte, env.8o cent.
+
+168 —STATuE grandeur nature, en bois sculpte et polychrome, representant la Vierge debout, voilee,drapee dans un manteau pose sur les epaules et dont un pan est ramene sur le bras gauche. Elle porte
+
+No168
+
+<!-- image -->
+
+.6000
+
+1'Enfant Jesus nu, tenant un fruit et jouant avec le voile de sa mere.
+
+Commencement du xvi siecle.
+
+La polychromie semble d'epoque posterieure.
+
+#190#
+
+.3000
+
+169 — STaTueTTe d'applique en bois sculpte, peint et partiellement dore,representant un cavalier passant vers la droite, la main gauche ramenee contre son visage.
+
+Flandres, commencement du xvie siecle.
+
+Haut., 51 cent.
+
+Haut., 1 m.62.
+
+m20100.
+Cr.3000
+
+- 170 — STATuETTE en bois sculpte,polychrome et dore,representant un cavalier tourne de profil vers la gauche;il est casque et vetu d'une armure.
+
+Flandres,commencement du xvi siecle.
+
+.520.
+
+Haut.,52 cent.
+
+- 171 -- PeTITE sTATuETTe en bois sculpte, polychrome et dore, representant un guerrier casque, tourne de profil vers la
+
+No16gu.:170
+
+<!-- image -->
+
+droite. ll est vetu d'un ample manteau couvrant son armure et porte, de sa main droite baissee,un bouclier orne d'un mascaron.
+
+Haut.,43 cent.
+
+Flandres, commencement du xvi siecle.
+
+roi mage, debout, portant un vase d'orfevrerie.
+
+Haut., 71 cent.
+
+xvI siecle.
+- 173 - STATuETTe en bois sculpte et polychrome,representant un fauconnier,debout, coiffe d'un chaperon, vetu d'un ample manteau a collet releve,tenant sur son poing gauche un oiseau.
+
+xvr siecle.
+
+Haut.,76 cent.
+
+- 174 - Groupe d'applique en bois sculpte, presentant une composition a six personnages : la Mise au tombeau. xv1 siecle.
+
+Encadrement en bois noir.
+
+- 175 - PorTe en bois sculpte.Elle est ornee de quatre panneaux presentant des medaillons, bustes d'homme et de femme, des rinceaux, des coquilles, des cartouches et des ecussons. Les montants moulures sont ornes de disques. Un mascaron a tete de lion est dispose au croisillon. Encadrement moulure.
+
+France, xvre siecle.
+
+Haut., 1 m. 8o; larg.,78 cent.
+
+Haut.,44cent.
+
+<!-- image -->
+4100.
+
+<!-- image -->
+
+<!-- image -->
+
+bo.800.
+
+<!-- image -->
+
+<!-- image -->
+
+Jeu.8000
+
+<!-- image -->
+
+## SCULPTURES
+
+- 176 -CHapITeAu en pierre sculptee. ll est decore, au pourtour, de divers animaux et d'un personnage combattant un lion. Art francais du Midi. Epoque romane.
+
+Haut.,38 cent.; larg.,40 cent.
+
+- 177-CHapireau en pierre sculptee, decore, au pourtour, de quadrupedes juxtaposes et disposes sous une guirlande de larges feuilles. Le tailloir est de forme rectangulaire.
+
+Art francais du Midi. Epoque romane.
+
+Haut., 37 cent.; larg.,41 cent.
+
+- 178-CHAPITEAu triangulaire en marbre breche,a decor de grosses feuilles d'acanthe juxtaposees deux a deux.
+
+Art francais du Midi.Epoque romane.
+
+Haut., 3o cent.; larg., 5o cent.
+
+- 179 —SupporT forme de quatre colonnettes assemblees,en bois sculpte, surmontees d'un chapiteau en pierre a decor de feuilles.
+
+En partie du xiv siecle.
+
+Haut.,1 m.02.
+
+- 18o —HauT-RELIEF en albatre sculpte et polychrome, de forme rectangulaire,representant l'arrestation du Christ. Composition a nombreux personnages.
+
+Travail anglais. Fin du xive siecle
+
+Haut., 44 cent.;larg,27 cent.
+181-Groupe en pierre sculptee, representant la Vierge debout,vetue d'une robe ajustee retenue par une ceinture sur le devant du corps. Un bijou est fixe sur une guimpe au milieu de la poitrine. Un manteau, pose sur les epaules, retombe en plis gracieux sur les cotes du corps, les pans etant releves et retenus sous chacun des bras. Elle porte
+
+No185
+
+<!-- image -->
+
+I'Enfant Jesus sur le bras gauche, vetu d'une longue chemise et tenant une colombe de ses deux mains. De la main droite avancee, la Vierge tient une branche de lis.
+
+Haut.,1 m 53.
+
+Art francais, premiere moitie du xv siecle.
+
+182—HauT-RELIEF en pierre sculptee,representant, au centre, le Christ en croix, la Vierge et saint Jean; a gauche, sainte Catherine et lange de l'Annonciation; a droite, la Vierge de l'Annonciation et sainte Barbe. Ces divers motifs sont disposes chacun sous une arcature gothique.
+
+Haut,65 cent.;larg.,I m.55.
+
+Travail francais, xve siecle.
+
+Nro6200
+
+<!-- image -->
+<!-- image -->
+
+ho.3000.
+
+<!-- image -->
+
+h.350.
+
+<!-- image -->
+
+- 183 — Groupe en pierre sculptee, representant la Vierge assise, de face, sur un banc. Elle tient l'Enfant Jesus assis sur son genou droit, de la main gauche,un fruit.
+
+Travail francais du xve siecle.
+
+- la Vierge fait le geste de la benediction.
+
+Haut.,72 cent.
+
+- 184—GroupE en terre cuite.La Vierge, debout, drapee et couronnee, portant sur son bras gauche l'Enfant Jesus, en chemise, qui tient une colombe. De la main droite avancee,
+
+Travail allemand, xve siecle.
+
+Haut.,1 m.28.
+
+- 185 -Groupe en pierre sculptee, representant sainte Anne, assise dans un fauteuil a X. Elle est voilee, drapee dans un ample manteau et tient, de ses deux mains, un livre ouvert. A ses pieds, sur un coussin, la Vierge, tournee de trois quarts vers la droite, vetue d'une robe garnie d'une ceinture, les epaules couvertes par un ample manteau dont les plis sont ramenes sur les jambes, est assise pres de sa mere.
+
+Art francais, Ecole de Bourgogne, fin du xve siecle.
+
+Haut.,52 cent.
+
+- 186 -BusTE de saint Jean-Baptiste en pierre sculptee.Barbu, la tete tournee legerement vers l'épaule droite, les cheveux boucles, il est revetu dune peau d'animal lanifere posee sur
+- les épaules et couvrant la poitrine.
+
+Art francais, fin du xv siecle.
+
+Haut.,40 cent.
+
+- 187 -HAuT-RELIEF de forme rectangulaire, en marbre blanc sculpte. Il represente la Vierge, assise, vue a mi-jambes, tournee de trois quarts vers la droite, tenant l'Enfant Jesus,
+- nu, sur son genou gauche.
+
+Italie du Nord, fin du xv siecle.
+
+Haut., 66 cent.; larg.,5o cent.
+188 -HauT-RELiEF en marbre blanc sculpte,representant la Vierge, debout, a mi-jambes, voilee, couverte d'une robe
+
+N186
+
+<!-- image -->
+
+ajustee, tenant de ses deux mains I'Enfant Jesus,nu, appuye contre sa poitrine.
+
+Italie du Nord, fin du xve siecle.
+
+Haut.,24 cent.
+
+- 189 assise,a mi-jambes, tournee de trois quarts vers la gauche, tenant devant elle l'Enfant Jesus, nu, nimbe, benissant et tenant la boule du monde.
+
+Encadrement sur trois cotes, a vases feuris et rinceaux feuillages.
+
+Travail italien, fin du xve siecle.
+
+Haut., I metre; larg.,73 cent.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 1go — STATuETTE en pierre sculptee, representant un ange
+- debout, tourne de trois quarts vers la droite, soutenant de sa main gauche les plis de son manteau et portant une branche de lis. Le bras droit est replie a la hauteur de la poitrine.
+
+Cette statuette provient d'un groupe de l'Annonciation.
+
+Travail de l'Italie du Nord, fin du xv siecle.
+
+Haut., 1 m.10.
+
+- 19t-PeTITe sTATuETTE d’applique en marbre blanc,repre-
+
+Travail espagnol de Poblet, fin du xv siecle.
+
+- sentant un saint moine debout,la tete couverte d'un capuchon, les mains dissimulees sous son manteau.
+
+Haut., 36 cent.
+
+- 192 -FRAGMENT DE HAUT-RELIEF en marbre blanc sculpte, representant un saint moine,debout, vetu d'une robe a capuchon. Il est adosse a un pilastre ornemente.
+
+Travail espagnol de Poblet, fin du xv siecle.
+
+Haut.,2g cent.
+
+- 193- TaBERNAcLE en marbre blanc sculpte en bas-relief, representant saint Sebastien et saint Roch, debout sur une console, dans une niche ornee,a la partie supérieure, d'une tete de cherubin. De chaque cote de louverture, est dispose un saint personnage tenant ses attributs, et, a la partie superieure, deux anges agenouilles tenant des torches.
+
+Sur la base, l'inscription : RELIQvIIs sACToRUM. Italie du Nord, commencement du xvie siecle.
+
+Haut.,77 cent.;larg.,85 cent.
+- 194- SrATuETTE en pierre sculptee, avec traces de polychromie, representant la Vierge, debout, vetue dune robe plissee garnie d'une ceinture,et en partie recouverte par un manteau attache sur la poitrine. Elle tient de ses
+
+No193
+
+<!-- image -->
+
+3570
+
+deux mains l'Enfant Jesus en chemise, qui porte un panier d'ou s'echappe un oiseau qui picore des grappes de raisin. Devant la robe de la Vierge,pend un chapelet et des rubans, qu'elle tient dans ses mains. Le manteau, garni d'un galon orne d'inscriptions, retombe en plis gracieux de chaque cote du corps.
+
+du xvr siecle.
+
+Travail francais. Ecole de Champagne, commencement
+
+Haut.,I metre.
+
+<!-- image -->
+6.14300.
+
+1000.
+
+80000
+
+82000
+
+- 195-NicHE en pierre sculptee,encadree par u une moulure a arcature lanceolee. Elle presente,au fond, une salle en voussure dont la clef de voute est formee d'un angelot. Deux personnages sculptes en ronde-bosse sont disposes dans cette salle; l'un represente une jeune femme la tete couverte d'un capuchon, vetue d'une robe ornee d'une ceinture; elle est assise sur un banc et tient une quenouille. En face d'elle, un bouffon, coiffé d'un bonnet a grelot, tient une banderole gravee d'une inscription.
+
+Art francais, commencement du xvie siecle.
+
+Haut. de la niche,1 m.25; larg., 68 cent.
+
+Cette sculpture proviendrait du chateau de Gy (Haute-Saone).
+
+Haut. des figures,5o cent.
+
+- 196 -SraTuETre en pierre sculptee et polychromee, representant l'lmmaculee Conception. La Vierge est debout, couronnee,vetue d'une robe amplement drapee et couverte d'un manteau pose sur les epaules, retenu sur la poitrine par une cordeliere. Les cheveux epars retombent autour du buste. Sur le ventre de la Vierge, une petite
+
+Art hispano-flamand, commencement du xvr siecle.
+
+- cavite est menagee, laissant paraitre le corps de I'Enfant divin.
+
+Haut.,1 m.05.
+
+- 197-GRAND GrouPE en pierre finement sculptee,representant saint Martin,a cheval, partageant son manteau avec un mendiant.Le saint personnage,coiffé d'un chapeau ornemente,vetu d'un pourpoint couvert en partie par un manteau,est tourne presque de face sur sa selle et coupe un pan de son manteau avec son épee. Le fourreau est suspendu a son cote. Le mendiant, debout, et estropie, est appuye contre la croupe du cheval,la tete tournee yers son bienfaiteur. Le cheval,richement harnache d'une bride et d'un poitrail ornemente, marche vers la gauche. Sur le sol, au milieu de branchages,est dispose un ecusson d'armoiries, charge d'une salamandre et timbre de la couronne royale. Sur le soubassement, est gravee la date.1531.
+
+Haut,1 m.40;larg.,1 m.3o.
+
+Art francais, xvi siecle.
+- 1g8 - GRAND HAUT-RELIEF de forme rectangulaire en largeur, en pierre sculptee. Il represente deux ecussons d'armoiries juxtaposes, ayant chacun pour tenants deux personnages, debout, vetus de curieux costumes dont tous les details sont minutieusement indiques. Dans le champ,de petits personnages et des grotesques se jouent au milieu de rinceaux et de guirlandes de feuillages chargees d'animaux
+- divers.
+
+Espagne (?), xvi siecle.
+
+Haut., 88 cent.; larg.,2 m.25.
+
+- 199 -HAUT-RELIEF en pierre fine,sculptee,representant un personnage debout, de profil,a gauche,le buste tourne tunique longue a sboutonnees,et garnie d'une ceinture.Il portait sur ses épaules un auget dont il reste les poignees qu'il
+- de trois quarts,il est vetu d'une t manches tient de ses deux mains.
+
+Art francais,xvr siecle.
+
+Haut.,46 cent.;larg., 35 cent.
+
+- 200 --HAuT-RELiEF en pierre sculptee,representant la vision
+- de saint Hubert.
+
+xvie siecle.
+
+Haut.,43 cent.; larg., 65 cent.
+
+- 201  Groupe de deux personnages, en pierre sculptee,representant deux Rois Mages, debout, couronnes, tenant dans la main leurs presents.
+
+Haut.,49 cent.
+
+xvI siecle.
+
+- 202 —Deux sTATuEs grandeur nature,en marbre blanc, repré-
+- sentant deux donateurs en priere, agenouilles sur un coussin,les mains jointes. L'homme est revetu d'une armure complete,la visiere de larmet relevee,laissant apparaitre le visage. La jeune femme, revetue dun somptueux costume,avec fraise tuyautee, est paree d'un collier et d'une ceinture d'orfevrerie simulee.
+
+Art espagnol, seconde moitie du xvr siecle.
+
+Haut., 1 m.45et I m.25.
+
+.8000
+
+15100
+<!-- image -->
+
+<!-- image -->
+
+2.5800
+
+<!-- image -->
+
+- 203 - BusTe d'homme en marbre blanc sculpte. Portrait de Hiero Ruzinus. Coiffe d'une barrette posee sur de longs cheveux boucles,il porte une petite barbiche et la moustache tombante;il est vetu d'un manteau ouvert sur la poitrine, laissant apparaitre un habit garni de nombreux boutons.
+
+Sur la base, linscription gravee : HIERo. RvzINvs Q. MANTO.ETATIS.LIX.PATRVVS.MARCL.Q.FRANCISCI.ANNO.DNI. MDCLXXVI.
+
+Italie, xvin siecle.
+
+## VITRAUX
+
+- 204 -VirraIL en couleurs, representant un diacre tenant un encensoir et la navette, il est suivi dun clerc en surplis blanc portant la croix. Fond de carrelages en bleu et rouge.
+- En partie du xiv siecle.
+
+Haut., 71 cent.; larg., 71 cent.
+
+- 205 —Deux vITRAux en couleurs, representant l'un, la Cene, lautre,la Crucifixion. Compositions a nombreux personnages se detachant sur un fond a decor geometrique. Bordure
+- formee de feuilles de chene.
+
+Travail francais, en partie du xive siecle.
+
+Haut.,I m.32;larg.,58 cent.
+
+- 206 —VirRAIL en couleurs, representant une composition a nombreux personnages tiree d'épisodes de la vie d'un saint: un homme est decapite devant un souverain, assis, couronne, tenant un sceptre; a la partie superieure, deux anges emportent l'ame du supplicie.Fond de carrelages a decor de quartefeuilles.
+
+En partie du xive siecle.
+
+Haut.,76 cent.;larg.,67 cent.
+
+- 207 - VirraIL en couleurs, representant un moribond couche auquel un éveque, crosse et mitre, debout au pied de son lit, donne la benediction. A ses cotes, deux personnages.A la partie superieure, deux anges emportent lame du defunt.
+
+En partie du xiv siecle.
+
+Haut., 82 cent.; larg., 70 cent.
+
+- Fond de quartefeuilles.
+
+Haut., 75 cent.
+<!-- image -->
+
+208 -VirRAIL en couleurs:la tentation de saint Antoine. Le saint, en priere, assis sur un rocher, repousse les seductions d'une jeune femme nue, debout devant lui. Alentour, deux demons.Fond de paysages et encadrement a colonnes etarcature ornees de grotesques et d'un mascaron.En bas,un écusson d'armoiries et une inscription en caracteres gothiques.
+
+Art francais, xvie siecle. Haut.,I m.5o;larg.,8o cent.
+
+o,1/500.20g -GRAND vITRAIL en couleurs, representant la Vierge debout sur le croissant lunaire, au milieu d'une gloire et portant I'Enfant Jesus. A ses pieds, deux donateurs agenouilles devant des prie-dieu. Le donateur, a gauche; la donatrice,a droite, ayant deux jeunes filles derriere elle. Au centre, deux ecussons fleurdelises. Dans le haut, un dais d'hermine dont deux anges relevent les pans.
+
+<!-- image -->
+
+Art francais,xvr siecle. Haut., 2 m.20; larg., 1 m, 50.
+
+presentant leJugement dernier. Sous une arcature ovale, le Christ de pitie est assis, vetu d'un manteau rouge, couronne d'epines,les pieds poses sur la boule du monde.En dessous, deux anges volants soufflent dans des trompettes. A la partie inferieure, un groupe de bienheureux et de damnes.
+
+l'inscription:St.indicare vivos et mortuos.
+
+Nos211a216
+
+<!-- image -->
+
+dn.6300
+
+En haut, deux medaillons avec deux ‘cherubins. En bas,
+
+En partie du xvr siecle.
+<!-- image -->
+
+<!-- image -->
+
+1000.
+
+211 a 216 -SIx GRANDs vITRAux peints en couleurs, representant chacun un saint personnage, grandeur naturelle, dispose debout, sous une arcature ogivale a gable feuillage,vetu de somptueux vetements et tenant ses attributs: sainte Barbe, adossee a la tour, tenant une palme; la Justice tenant le glaive et les balances; sainte Madeleine tenant le vase a parfums; saint Jean-Baptiste tenant lagneau sur son bras, saint éveque, crosse et mitre, tenant un livre ouvert;un personnage vetu d'un ample manteau, pare d'un collier et
+
+- d'une ceinture d'orfevrerie, tenant une fleur.
+
+xvI siecle.
+
+Haut., 2m.20; larg,70 cent. et 35 cent.environ.
+
+## MEUBLES
+
+- 217 - GRAND coFFRE en bois sculpte. La face est ornee de scenes a nombreux personnages tirees de la vie du Christ : la Flagellation,le Christ devant Pilate,le Christ portant sa croix et la Crucifixion, le Christ au Jardin des Oliviers,
+- l'Arrestation du Christ.
+
+Ce coffre est muni d’une plaque de serrure en fer forge.
+
+En partie du xve siecle.
+
+Larg., 2 m. 22; haut., go cent.,; prof., 68 cent.
+
+- 218 -Trois FAuTEuILs a traverses sculptees et ajourees. Ils
+
+Italie,xvie siecle.
+
+- sont garnis de cuir au siege et au dosssier.
+- 219 - CHAirE en bois sculpte, a haut dossier moulure. Le siege forme coffre et les accoudoirs sont supportes par de petites
+
+France,xvie siecle.
+
+- colonnettes balustres. Bois de noyer.
+- 220  CHAIRE en bois sculpte,le siege formant coffre. Elle est munie d'un haut dossier orne de panneaux sculptes en bas-relief. a decor de bustes d'hommes et de femmes disposes au milieu de rinceaux et de cornes d'abondance. Le devant et les cotes du' siege sont ornes de panneaux a serviette repliee.
+
+En partie du xvie siecle.
+
+- 221 - MeuBLe a deux corps, en bois marquete a decor de rinceaux et d'arabesques. Le corps inferieur ferme a deux vantaux garnis de petites tirettes en bronze cisele. Le corps superieur, muni d'un abattant, forme un cabinet a dix tiroirs et a deux portes,également en marqueterie de bois de couleur. Le linteau porte linscription :oMNIA vINcIT AMor, et au milieu de l'abattant, se lit le monogramme A. D. et la date1556.
+
+Italie,en partie du xvr siecle.
+
+Haut.,1 m.5o;larg.,1 m.03;prof.,50 cent.
+
+- 222 - MeuBLE a deux corps, fermant a quatre portes et muni de deux tiroirs;les vantaux sont sculptes en bas-relief de motifs feuillages surmontes de cariatides et de mascarons. Montants canneles.
+
+France,xvi siecle.
+
+Haut., 1 m.86;larg.,1 m.22;prof.,5o cent.
+
+- 223 —MeuBLE de sacristie,a hauteur d'appui,muni de quatre tiroirs superposes decores, sur la face, de grotesques, mascarons et rinceaux.
+
+Espagne, xvr siecle.
+
+Long., I m.67;prof.,71 cent.;haut.,1 m.03.
+
+- 224 — MeuBLE famand, ouvrant a deux portes superposees
+- separees par deux tiroirs. Il est orne, sur les vantaux, de deux écussons darmoiries, et garni de pentures et de plaques de serrure en fer forge. Les autres panneaux sont a parchemins replies.
+
+En partie du xvi siecle.
+
+Haut.,1 m.55;larg.,95 cent.;prof.,52 cent.
+
+<!-- image -->
+
+1680
+<!-- image -->
+
+pr.3000..
+
+bo.520.
+
+<!-- image -->
+
+- 225 -MeuBLe a deux corps, fermant a quatre portes et muni
+- de deux tiroirs. Il est entierement decore, dans toutes ses parties,de marqueterie d'ivoire et de nacre,presentant des branches feuillagees, des riniceaux charges de grotesques, de mascarons et d'oiseaux. L'entablement du corps superieur est soutenu par deux colonnettes decorees de la meme facon. Ce meuble est surmonte d'un fronton triangulaire coupe,de meme decor.
+
+xvie siecle.
+
+Larg,1 m.45;haut.,2 m.20; prof.,57 cent.
+
+- 226 - MeuBLE a deux corps, fermant a quatre portes et muni tant des arabesques, des fleurs et des oiseaux, sur lesquelles
+
+Art francais, xvie siecle.
+
+- de deux tiroirs. Il est orne de sculptures meplates presense detachent des mascarons.
+
+Haut., 1 m. 85; larg., 1 m.31; prof.,6o cent.
+
+- 227 -TaBLE rectangulaire en bois sculpie. Elle est munie de
+- deux tiroirs a decor de feuillage.
+
+Italie, fin du xvre siecle.
+
+Long., 46 cent.; larg., 86 cent.
+
+- 228 -TaBLE en bois sculpte, de forme rectangulaire. Elle est munie de trois tiroirs a ornements geometriques et repose sur un pietement a balustres moulures reunis par trois traverses.
+
+Italie, xvi siecle.
+
+Long., 1 m. 85; larg.,68 cent.
+
+- 229 - TaBLE a plateau rectangulaire reposant sur un pietement a éventail forme de cariatides de femmes ailees a pattes de lion. Les patins sont reunis par une traverse mediane
+- supportant trois petites colonnettes-balustres.
+
+En partie du xvr siecle.
+
+Long., I m.40;larg., 9o cent,;haut, 79 cent.
+- 23o - GrANDE TABLE de forme rectangulaire,reposant sur un un pilastre cannele et reposant sur un patin ornemente. La traverse mediane supporte quatre colonnettes-balustres.
+
+En partie du xvr siecle.
+
+Long., 1 m.6o; larg., I metre; haut., 86 cent.
+
+- 23 -CoFFre en bois sculpte. ll est orne, sur la face, d’un
+- panneau representant Dieu le Pere, debout, benissant, tenant la boule du monde, et de deux 1 medaillons circulaires representant, lun,l'Annonciation,lautre,la Visitation.A la partie superieure,l'inscription:PATER DEI CELI DEUs MIsERERE NOBIs. Les montants et les pilastres sont decores de guirlandes de fleurs et de fruits,de bustes et de mascarons. Sur chacun des cotes, deux medaillons a tetes de cherubins, cornes d'abondance et guirlandes de feurs et de fruits.
+
+Travail francais, en partie du xvi siecle.
+
+Haut.,77 cent.; long., 1 m.5o; prof., 63 cent.
+
+- 232 — GrAND coFFRE en bois sculpte et peint. Il presente, sur la face, un écusson d'armoiries timbre d'un casque dont deux compositions peintes,a nombreux personnages presentant des scenes historiques. Les cotes sont ornes d'écussons
+- le cimier est forme d'un agneau; a droite et a gauche, d'armoiries.
+
+Ancien travail italien.
+
+Haut., 95 cent.;long.,1 m.75;prof.,7o cent.
+
+- 233 —GRAND coFFRE en bois sculpte et pate. Il est orne,
+- au centre, d'un écusson d'armoiries timbre d'un casque a cimier et accoste de rinceaux feuillages. A droite et a gauche, deux panneaux sont peints et presentent des scenes a personnages et cavaliers. Pilastres et encadrements a motifs de feuillage et de dauphins.
+
+Ancien travail italien.
+
+Haut., 75 cent.; long., 2 m.o3; prof.,67 cent.
+
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+o5000
+
+<!-- image -->
+
+r.g55o0
+
+- 234-235 -DEUx GRANDEs sTALLEs a quatre places,en bois sculpte et marqueterie,a decor de rosaces gothiques,de feuillages,d'enroulements.Ellessont surmonteesde nichescouronneeschacune d'un gablefeuronne,avec
+
+pinacles sur les cotes.
+
+Travail italien,en partie du xvr siecle.
+
+Haut.,environ 3m.2o;larg.,3m.10.
+
+- 236 -MeuBLE en bois sculpte,enrichi de plaquettes de marbre et de nacre.La partie centrale, formant niche, est decoree d'unpanneau sculpte enbas-relief,representantune bacchante debout, tenant une coupe et des grappes de raisin, disposee au milieu d'un encadrement a volutes et surmontee d'un fronton triangulaire. A droite et a gauche, deux vantaux ornes de figures allegoriques de femmes debout, tenant des branches de feuilles et de fruits.Les pilastres sont ornes de mascarons stylises et de draperies. L'entablement est decore de figures d'angelots, de mascarons et de volutes.
+
+Ce meuble repose sur une console a fond plein, soutenue par des balustres quadrangulaires et par deux cariatides de femmes adossees.
+
+Haut. totale,1 m.83;larg.,i m.3o;prof.,56 cent.
+
+237- Deux FAuTEuILs en bois marquete. Italie, xvn siecle.
+
+## TAPISSERIES
+
+- 238 TapisseRie flamande,en partie de la fin du xy siecle. deux banderoles,
+- Au milieu d'un jardin parseme de fleurettes multicolores et plante de plusieurs arbres feuillus, un berger,une bergere etun autre personnage soufflant dans une trompe, s'avancent au-devant de deux cavaliers somptueusement vetus.Sur des inscriptions enlettres gothiques. A gauche, une jeune femme est assise au pied d'un arbuste et,a droite, se voient un chien et un mouton.
+
+Haut.,2m.15;larg.,2m.80.
+- 23g —TapissERie famande,en partie de la fin du xv siecle.
+- Composition a nombreux grands personnages,a sujet tire de I'histoire d'un saint. Celui-ci est agenouille, tourne vers la droite, nimbe, paraissant attendre son supplice. Devant lui, deux hommes sont debout, l'un vetu d'une longue robe a capuchon, lautre en pourpoint, coiffe d'un chapeau a larges bords, tient de la main gauche son epee. Derriere,un bourreau brandit des verges. Alentour, d'autres spectateurs contemplent la scene d'un air effare. Ces divers personnages sont vetus de curieux costumes a la mode du temps, de couleurs variees.Dansle fond,a droite,une arcature trilobee, et, a gauche,un panneau damasse a motifs d'arabesques et charge d'un écusson armorie. En haut et en bas, des bande-
+- roles a inscriptions en lettres gothiques.
+
+Haut.,2m.95;larg.,3m.30.
+
+Cette tapisserie pourrait avoir ete composee avec divers fragments anciens assembles.
+
+- 240 - GRANDE TAPissERIE famande, fin du xve siecle. d'Achille au siege de Troie. Au centre d'une melee de guerde cottes de mailles, le Sagittaire, tourne vers la gauche,
+- Composition a nombreux personnages, tires de I'histoire riers, combattant a pied et a cheval, revetus d'armures et decoche une feche.A l'arriere-plan, Achille a cheval, arme de toutes pieces, transperce de sa lance un adversaire. A droite, sous une tente,le roi Agamemnon ecoute le recit d'Achille et d'Hector. En haut et en bas de la tapisserie, des inscriptions en francais et en latin, relatives au sujet, se detachent en lettres gothiques sur fond rouge. Le sol est parseme de fleurettes polychromes. Les noms de certains personnages sont indiques sur leurs vetements, et dautres inscriptions decorent les harnachements des chevaux,les toiles des tentes, ou les etendards portes par les guerriers.
+
+Haut.,4m.35;larg.,4metres.
+
+180000
+
+m.170100
+p.10700y
+
+241GRANDE TAPIssERIE amande,fin du xvsiecle.
+
+Compositiono tiree lvraisemblablement dePhistoire de Jules Cesar, et presentantdes scenes anombreux personnagesvetus selon les modes dusmilieu du xvsiecle. Un heros revetu d'une armure, nu-tete, prend conge d'unigroupe de trois personnages assis cote a cote dans une stalle ornement tee.Au premier plan, le meme personnage s'apprete a monter acheval,en tete d'une:troupe de cavaliers en armures et casques, accompagnes d'un porte-etendard et de deux trompettes, dont lesinstruments sont ornes de flammes armoriees. Dans le fond, des murailles et des tourelles, et sur lesol,desfleurettes multicolores parmi lesquelles courent deux petits chiens. La partie gauche de la tapisserie, provenant peut-etre d'une autre tenture, represente divers personnages civils reunis dans une salle voutee, et groupes autour du lit d'un moribond, auquel sainte Veronique, agenouillee, presente le voile sur lequel est imprimee la Sainte Face.
+
+Haut.,3m.55;larg.,4m.80.
+
+Cette tapisserie offre,dans certaines parties,une grande analogie avec les celebres tapisseries de I'Histoire de Jules Cesar, conservees au musee historique'de Berne.
+
+242 GRANDE TAPIssERIE lamande.Fin du xve siecle.
+
+Composition a nombreux personnages,vraisemblablement tiree de Phistoire dusiege de Jerusalem. Une troupe de guerriers, revetus d'armures,casques et armes, se livrent auicombat aux portes d'uneville.Au secondplan,on apercoit linterieur d'une chambre dans laquelle une femme, affamee par les privations, fait rotir son enfant au foyer de la cheminee,et commence a le devorer, lorsquun guerrier fait irruption dans la piece pour Parreter. Tous les details surlecostumeetlequipement militaire dutemps de Charles VIl,ainsi que l'architecture des murs, des portes de la ville et des tourelles, sont minutieusement indiques.
+
+1laut.,3m.6o;larg.,5m.25.
+
+Cette tapisserie fait partie de la ineme serie que la precedente,
+- 243--GRANDE TAPIssERIE famande,commencement tdu xv1 siecle.
+
+Composition a tres nombreux personnages, divisee en plusieurs scenes, a sujets tires de l'histoire de Persee. En haut, a gauche: Polydecte,roi de l'ile de Seriphe, s'apprete a recevoir Danae portant son fils dans ses bras. Celle-ci est debout dans une barque ou elle etait exposee a la merci des fots. Au premier plan:Persee, partant pour combattre les Gorgones, recoit de Minerve son bouclier et son epee. La deesse apparait ici, sous les traits d'un archange. Persee est debout, de face,vetu d'un riche manteau brode de la lettre P plusieurs fois repetee. A ses pieds, est depose son casque. Pres de lui, un serviteur apporte des gantelets d'armure; alentour, d'autres personnages, vetus de somptueux costumes de couleurs variees, semblent en extase devant l'apparition. En haut, a droite, Persee contemple la Gorgone decapitee, et Pegase fuit au galop. Au centre,un groupe de personnages autour de la fontaine Hippocrene.
+
+rouge,bleu et jaune.
+
+Bordures a feurettes multicolores, limitees par un galon
+
+Haut.,3m.40;larg.,4m.10.
+
+Cette tapisscrie fait partie de la meme serie que le numero suivant.
+
+- 244—GRANDE TAPISSERIE xvi siecle.
+- famande,commencement np
+
+Composition a tres nombreux personnages, a sujets tires de I'histoire de Persee. En haut, a gauche, Persee emporte la tete de la Meduse. A droite,le mariage de Persee et d'Andromede. Au centre de la composition, Persee et Andromede sont agenouilles devant un autel sur lequel un belier est offert en holocauste. Alentour, de nombreux personnages en somptueux costumes du temps de Louis XlI, de couleurs variees et pares de bijoux. Au-dessus de l'autel, apparait, sur une nuee,un groupe de trois divinites mytho- logiques.
+
+Haut.,3m.5o;larg.,4 m.10.
+
+Cette tapisserie fait partie de la meme serie que le numero precedent.
+<!-- image -->
+
+<!-- image -->
+
+245 TApissErIe flamande,commencement duxvi siecle
+
+Composition a nombreux personnages tiree de l'histoire de la chaste Suzanne,Lun des deux vieillards comparait devant Daniel,assis dans une stalle ornementee, garnie de draperies. Alentour, de nombreux personnages, vetus de somptueux costumes. et pares de bijoux, semblent approuver la sentence. A droite,le vieillard est emmene par quatre hommes Au second plan,le meme vieillard est lapide,avant d'etre conduit ausupplice.
+
+Bordures de pampres et de feurettes multicolores,limitees par un galon vert et jaune..
+
+Haut.,3m.40;larg.,3m.g0.
+
+246-GRANDE  TAPissERIE famande, commencement du xvI siecle.
+
+Composition a nombreux personnages, divisee en trois scenes. Au centre,dans un jardin,une.jeune femme est assise a lombre d'un arbre dans une stalle ornementee. Elle semble donner conge a un jeune messager qui se tient devant elle, sa toque dans la main gauche. Alentour, divers groupes d'hommes et de femmes, assis ou debout, vetus de somptueux costumes du temps de Louis XII et pares, de bijoux,A la partie superieure, dans langle droit,un jeune ecuyer quitte un groupe de personnages reunis sur la terrasse,et'a gauche,ce meme écuyer presente un message a un noble seigneur  debout ala porte d'un chateau.A l'arriere-plan,un cheval selle et deuxrgentilshommes..
+
+Bordures de fleurs et de fruits en couleurs:
+
+Haut.,3m.35;1arg.4m.55.
+247 a 249 — TenTurE composee de trois tapisseries aux armes de Armand-Jean Duplessis,cardinal de Richelieu, commencement du xvle siecle.
+
+Chacune de ces tapisseries represente un portique a colonnes ornementees, posees sur un soubassement decoré de mascarons et de genies, et soutenant un entablement aux armes des Richelieu: d'or a trois chevrons de gueules, et enguirlande de feurs et de fruits retenus par des rubans. Entre les colonnes, sont disposes des vases contenant de volumineuses gerbes de fleurs. Dans le fond, un paysage montagneux, avec riviere et chateau et anime de nombreux personnages chassant a courre. Sur les cotes, deux larges bordures a paysages avec divers animaux.
+
+Encadrement forme d un galon a ornements reguliers.
+
+Haut.,2 m.85;larg.,5m.20. Haut.,3 metres; larg.,3 m.30.
+
+Haut., 2 m.85;larg.,2 m.65.
+
+## VITRINES
+
+25o-251 -Deux vITRINEs murales,. en fer poli et glaces, a coins arrondis, ouvrant a une porte centrale, montee a charnieres. Elles sont munies de tablettes, et le fond est garni d'une glace etamee.
+
+Haut.,2 m.10;larg., 1 m.40;prof.,40 cent.
+
+<!-- image -->
+
+<!-- image -->

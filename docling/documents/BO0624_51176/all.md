@@ -1,0 +1,7251 @@
+## FIRST SESSION
+
+TUESDAY AFTERN00N,APRIL 22,1924
+
+## IN THE ASSEMBLY HALI
+
+OF THE
+
+## AMERICAN ART GALLERIES
+
+BEGINNING AT 2:15 0CLOCK
+
+Catalogue Numbers 1 to 210, inclusive
+
+## MISCELLANEOUS OBJECTS
+
+1OLD VIENNA PORCELAIN COFFEE SERVICE
+
+Covered with a design of groups of fowers on a cream ground. Chocolate pot and cover, coffee pot and cover, circular mug, sugar basin and cover and six cups and saucers.
+
+Eighteenth Century
+
+- 2TWO HANDLED WEDGWOOD URN English,Eighteenth Century Green jasper with bisque ornaments of classic figurines, trees, acanthus and honeysuckle on tinted terra cotta. Impressed mark Wedgwood.
+- 3-GOLD ILLUMINATED BOX Italian,Late Sixteenth Century Scrolled heart-shape; with loose cover, enriched with gilded scrollings of leafage and animalistic motives on a rich amber ground.
+- 4TWO IsPAHAN DAMASCENED IRON VASES
+
+Graceful shape;enriched with silver inlay.
+
+Sixteenth Century
+
+Height, 9 inches.
+
+- 5-PERSIAN IsPAHAN GOLD DAMASCENED EWER,FINGER BoWL AND COVER
+
+Steel, damascened with foral reserves in gold. The cover is pierced with arabesques.
+- 6THREE NORTH CHINESE MARBLE STATUETTES Fourteenth-Fifteenth Century Typical early Ming sculpture.
+- 7CARVED WALNUT STATUE OF A WARRIOR MONK
+
+Italian,Siateenth Century
+
+Upstanding figure of a bearded saint with plumed helmet dressed in soutane of the pilgrim. Holding the Bible in his right hand, his left hand raised in benediction.
+
+Height,3 feet 71/inches.
+
+- 8FAMILLE VERTE MANDARIN PATTERN PORCELAIN BASIN
+- Decorated with Chinese figures and birds.
+- Canton, Eighteenth Century 9ENAMELED BOWL AND TRAY Decorated in the Chinese taste with court ladies and their attendants, trees,landscapes and birds.
+- 10-EMBROIDERY AND GLASS COFFRET
+
+Venetian,Sixteenth Century
+
+Oblong on beveled base, the cover correspondingly projecting and having a bail handle. Glass of various colors, some adorned with gilded scrolls, enclosing panels of embroidery picturing birds, animals and Under the cover an oblong compartment; one end of coffret
+
+Length, 9 inches.
+
+fowers. removable,revealing a secret drawer.
+
+- 11-TWO CARVED IRON WoOD FU-DOGS
+
+Chinese,Fourteenth Century
+
+On oblong octagonal socles carved with formal rosettes and leaf borders. These Chinese carvings are remarkable for their heroic conception and beautiful patine.
+
+Height, 28 inches.
+
+Chinese, Ming Period
+
+- 12-PORCELAIN FU-LION Boldly modeled guardian of the threshold,with right foot on the brocaded ball and head turned to its right. On an oblong plinth. Glazed in turquoise-blue and turquoise-green, aubergine, burnt-orange and gray-white.
+## NEEDLEWORK,BROCADE,VELVET CUSHIONSAND SIENESE STREET PARADE BANNERS
+
+- 13-EMBROIDERED VELVET PURSE MOUNTED IN STEEL INLAID WITH GOLD Spanish, Sixteenth Century Red velvet with silver gilded embroidery,the mounting damascened with small designs in gold and adorned with two lion-head medallions in relief.
+
+From the Georges Seligmann Collection,Paris.
+
+- 14-EMBROIDERED VELVET PURSE French,Sixteenth Century Embossed design of cartouches and a crown surmounted by a feur-de-lys. Steel mounting, gilded and pierced and enclosing a medallioned head. From the Georges Seligmann Collection,Paris.
+- 15-CUSHION OF SILK AND GOLD BROCADE Italian,Sixteenth Century Displaying a resplendent design of fruits and fowers, most elaborately
+- wrought in rose, green, blue and white silks, richly embellished in gold.
+- 16-SILK AND GOLD BROCADE CUSHION Italian,Siateenth Century Designed in foral and fruit forms, and wrought in brilliant silks enriched
+
+with gold.
+
+- 17—TWO VELVET CUSHIONS Italian,Seventeenth Century Rich ruby velvet, with a brilliant sheen and bordered in gold galloon.
+- 18-EMBROIDERED SOFA CUSHION Italian,Sicteenth Century
+- Rich and brilliant foral display, wrought in silks and silver embroidery on a ground of drap d'argent. Bordered with silver galloon and velvet.
+- 19-EMBROIDERED SILK CUSHION Italian,Eighteenth Century Patterned in stripes of bleu-de-ciel and pale old-rose, the blue stripes
+- carrying foral scrolls and the pink ones detached sprays.
+- 20-TWO DAMASK AND EMBROIDERY CUSHIONS Italian,Seventeenth Century Ecru silk damask patterned in fine designs;embroidered in rose and golden silks with a large vase of carnations and formal corners.
+Kindly read the Conditions under which every item is ofered and sold. They are printed in the forepart of the Catalogue.
+
+- 21-VELVET CUSHION Italian, Sicteenth Century Rich and brilliant ruby Genoese velvet, edged with gold galloon.
+- 22SILK EMBROIDERED CUSHION French,Louis XV Period An especially rich design embroidered in brilliant colors on a white background. The ornamentation shows a tree,heavily laden,a perched bird and a butterfy at its foot; below is a festoon of brilliant fowers.
+
+Length,23 inches;rwidth,21 inches.
+
+From the Georges Seligmann Collection,Paris.
+
+- 23-SILK EMBROIDERED CUSHION French,Eighteenth Century Rich ornamentation in delicate colors on white, in a series of elaborate scrolls.
+
+From the Georges Seligmann Collection,Paris.
+
+- 24--VELVET CUSHION Italian,Seventeenth Century Bluish-green with a light
+- Cut and uncut velvet in formal patterns. sheen.
+
+From the Georges Seligmann Collection,Paris.
+
+- 25-TWO VELVET CUSHIONS Italian,Seventeenth Century One rectilinear, one shield-shape. Bluish velvet with a light sheen; one shows mauve tones where it has been covered by a shield. Around the space occupied by the shield are embroidered golden scrolls.
+
+From the Georges Seligmann Collection,Paris.
+
+- 26-NEEDLEWORK CUSHION Italian, Seventeenth Century Floral silk needlework in blue, green, purple and crimson on a silver ground.
+- 27--Two EMBRoIDERED CusHIoNs English,Seventeenth Century Embroidered in varicolored silks with fowers, a youth and a bird. From the Georges Seligmann Collection,Paris.
+- 28-EMBROIDERED CUSHION Spanish,Fifteenth Century Adorned with five panels, depicting a crucifix and four angels, in gold, silver and silks; on red velvet ground.
+
+From the Georges Seligmanm Collection,Paris.
+- 29-EMBROIDERED CUSHION Italian,Sixteenth Century Resplendent in gold and brilliant silk, embroidered on linen, the designs scrolls, fowers and birds, the top profuse in its decoration, the reverse
+
+carrying a broad border only.
+
+From the Georges Seligmann Collection,Paris.
+
+- 30-VELVET CUSHION Venetian, Sixteenth Century Glistening ruby-red velvet, woven in conventional designs on a drap-d'or ground.
+
+Length,40 inches; reidth,18 inches.
+
+- 31-PAIR ORIGINAL EMBROIDERED CUSHIONS Spanish,Sixteenth Century Rich ruby velvet heavily embroidered in silks and silver with conventional scroll designs.
+
+Length,271/ inches;rvidth,22 inches.
+
+- 32-SILVER EMBROIDERY ON WHITE SILK
+
+French,Louis XV Period
+
+Picturing trophies and birds enwreathed in foral scrolls. Octagonal frame.
+
+From the Georges Seligmann Collection,Paris.
+
+Diameter,21 inches.
+
+- 33-SILK BROCADE MEDALLION French, Louis XV Period School of Philippe Lassalle. A medallion of iris in fower, executed in delicate colors on a white ground, with a border of scrolls in white and green on a pink ground. The whole on a ground of old-gold, framed.
+
+Medallion diameter,161inches;height of background,26 inches;length,271%
+
+inches.
+
+From the Georges Seligmann Collection,Paris.
+
+## 34-RENAISSANCE SILK NEEDLEPOINT CUSHION
+
+Italian,Sicteenth Century
+
+In its original state,worked with a geometrical cross pattern on a dark brown ground backed by a diaper pattern in brown. Multi-colored borders and canopied tassels.
+
+17inches by 12 inches.
+35-SILKEN STREET BANNER Sienese,Sixteenth Century Rectangular, formed of golden-yellow and pale green silk, each ground overlapping the other in the form of rays. On the green, a yellow shield bearing as a crest a caterpillar on a rose. On the yellow,a crimson crest with an heraldic lion-rampant.
+
+5 feet square.
+
+- 36-SILKEN STREET BANNER Sienese,Siateenth Century Rectangular, of plain gold and orange tones, overlaid with orange meanders with added circles bearing stars in pale blue and deep cerulean. On a shield in the corner a caterpillar beneath a crown.
+
+Height,4feetSinches;length,5feet3inches.
+
+37-SILKEN STREET BANNER Sienese,Sicteenth Century Rectangular, of deep crimson silk, and across one corner a meander pattern in blue and white. Below this a heraldic design picturing a lion above a shield. On the shield a standing elephant bearing a tower upon his back, surmounted by the cross of Savoy. The lion in yellow, blue and brown, the shield in yellow and the elephant naturalistically painted.
+
+5feet 6 inches square.
+
+- 38-SILKEN STREET BANNER Sienese,Sixteenth Century Rectangular, with a brilliant display of pointed rays in golden yellow and bleu-de-ciel. In one corner an orange shield adorned with fowers
+
+and knots and bearing a turtle crest.
+
+5feet 5 inches square.
+
+- 39-SILKEN STREET BANNER Sienese,Sixteenth Century Pale olive silk made resplendent with a broad tripartite border in crimson and white. Decorated in the corner with a crown in rose, orange and blue, surmounted by a white cross. Below this stands the large figure of a duck supporting a cross and tied with a blue ribbon about its neck.
+- 40SILKEN STREET BANNER
+
+5feet 4 inches square.
+
+Sienese,Sixteenth Century
+
+Radiant in pale gold and rich golden-yellow relieved by a pale sage green. The entire banner taken up by long rays, with the exception of a shield in the corner bearing figure of a cross and of a caterpillar under a crown.
+
+Height,5 feet 1 inch;width,4 feet 10inches.
+## GOTHIC AND RENAISSANCE FORGED IRON AND BRONZE
+
+## BRACKETS,TORCHERES AND OTHER OBJECTS
+
+<!-- image -->
+
+- 41-FORGED IRON DOOR KNOCKER French,Fifteenth Century
+- The knocker itself terminates in a grotesque animal-head at the end of a long forged arm, swinging from a plate of finely wrought Gothic grille. The design of the grille is foral tracery within and above a pointed-arch which encloses a shield supported by crowned lions.
+
+Height, 19 inches.
+
+- 42-GOTHIC FORGED IRON TRIPOD REVOLVING CANDLESTICK Tuscan,Fifteenth Century Quadrilateral grease tray with expanded sides.
+
+Height, 12 inches.
+
+- Tuscan,Sixteenth Century
+- 43-FORGED IRONFLAG BRACKET connected by a vertical scroll with a festooned plate attached.
+
+Height,20 inches;projection,14 inches.
+<!-- image -->
+
+- 44GOTHIC FORGED IRON EASTER LIGHT Tuscan,Late Fifteenth Century On C-scrolled tripod support from which rise a centre stem with urn scrolled enrichment, tulip leaf candle bobeche.
+- 45-FORGED IRON FLAG BRACKET Tuscan, Siateenth Century Formed as a spiral scroll of rope design, and at the ends an open socket for the fag-staff. The socket is incised with rings and scrolls, and about it are curling leaves and long scrolled leaves,all incised in primitive design.
+
+Height, about 18 inches; projection,19 inches.
+
+- 46-PAINTED FORGED IRON SIDE BRACKET Venetian,Seventeenth Century Simple design, blue in color.
+- 47-TWO GOTHIC WROUGHT IRON ANDIRONS Tuscan, Fifteenth Century On curved scrolled bases engraved in a diaper pattern.
+
+Height,1 foot.
+
+- 48-TWO FORGED IRON BRACKETS Venetian,Siateenth Century Wrought in elaborate scrolls banded together, and having projecting spiral tendrils. Scrolled bobeche and knob drop. Painted black, and details gilded.
+
+Height,18 inches; projection,18 inches.
+- 49-WROUGHT IRON MACE Italian,Fifteenth Century Straight heavy rod with bulbous enlargements at the handle, and six scrolled blades at the head, the whole decorated in a braided or lattice pattern by incision. Dense brownish patina and grayish earth incrustations.
+
+Length,24 inches.
+
+- 50-TWO FORGED IRON WALL BRACKETS Venetian,Siateenth Century Deeply scrolled-serpentine strap arm; finely enriched with rosetted sprays, tulips and feur-de-lis motives.
+
+Length,25 inches.
+
+- 51-PAIR FORGED IRON SCONCES Venetian,Siateenth Century In sinuous scroll form, springing from fowers and adorned with scrolling leaves and tendrils;pricket, and foral bobeche. Painted a dark blue and partly gilded.
+
+Height,19 inches; projection,13 inches.
+
+- 52--PAIR FORGED IRON BRACKETS Venetian,Sixteenth Century Shaped in serpentine scrolls bearing fowers and tendrils and supporting a scalloped grease tray, which in turn supports a candle socket formed of three scrolls and a ring. Painted and gilded.
+
+Height, 17 inches; projection, 18 inches.
+
+- 53-FORGED IRON BRACKET Venetian, Sixteenth Century Wrought in scrolls and exhibiting the lily pattern. Supporting a socket and tray.
+
+Height,18 inches; projection,20 inches.
+
+- 54—SIX BRONZE AND TIN CHANDELIERS
+
+Venetian,Seventeenth Century
+
+Inverted umbrella shape, formed of long scrolling leaves of cut tin. At the bottom a bronze knob drop. Equipped for electricity.
+
+Diameter,23 inches.
+
+- 55-TWO FORGED IRON TRIPOD CANDLESTICKS Tuscan,Fifteenth Century Tripartite body of fat iron, scrolled in agreement with the three scrolled legs and supporting a deep socket formed of long scrolling leaves.
+<!-- image -->
+
+## 56-PAIR FORGED IRON LANTERN BRACKETS
+
+Tuscan,Sixteenth Century
+
+The two arms quadrilateral and boldly incised, and under the lower one scrolls. The upper arm bends into a long straight four-sided spike, about which is a frame of strap-work. The strap-work consists of two ring-bands and four uprights ending in the trefoil lily. All incised with a meander scroll and spotted with pellets. The lily decorated with
+
+Height,22 inches; projection, 19 inches.
+
+- Italian,Sixteenth Century With one straight and one curved arm. Vase shaped torch light with plain candle pricket.
+
+punch marks.
+
+- 57—FORGED IRON BRACKET
+- 58-GOTHIC FORGED IRON HoLDER Tuscan, Fifteenth Century On stone base holding six small iron Roman lamps.
+## 59-FORGED IRON LANTERN BRACKET
+
+Venetian,Sicteenth Century
+
+Height, 17 inches; projection, 25 inches.
+
+Scrolled throughout and supporting a decoration of fowers and leaves, the blossom at the end very large.
+
+- 60—FoRGED IRoN LANTERN BRAcKET Tuscan, Sicteenth Century
+- Scroll form throughout, with leaves, fowers and tendrils.
+
+Height,14 inches;eetension,26 inches.
+
+## 61GOTHIC FORGED IRON BRACKET
+
+Florentine,Fifteenth Century with a palm leaf and lozenge pattern, crowned by an open lily bulb, with rolled petals.
+
+On triangular arm of wrought iron twisted at the bottom and fretted
+
+Spread,331/inches.
+
+## 62GOTHIC FORGED IRON “EPI DE FAITAGE"
+
+Italian,Fifteenth Century
+
+Height,5feet 4 inches;in stand,7feet 6 inches.
+
+A quadrilateral iron rod brought to a point at the bottom, adorned midway with four branching arms supporting gfowers,and topped by the feur-de-lys of Florence, below which swings on a rounded section of the rod a weather-vane representing a monster-head in the fat, with open jaws. This has been set, adjustably, into a simply serolled wrought iron stand of later period.
+
+## 63-LANTERN IN FORGED IRON, TIN AND GLASS
+
+## Venetian,Late Eighteenth Century
+
+The plain glass lantern globe pear-shaped, with painted tin ornaments attached to the bottom. Suspension brackets of wrought iron scrolls, gilded, and painted tin foral ornamentation.
+
+Height of globe,19 inches;length,suspended,50 inches.
+
+- 64GoTHIc WRoUGHT IRON TRIPOD Italian,Fifteenth Century Brazier stand.
+
+Height,3 feet 5 inches.
+Kindly read the Conditions under which erery item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 65--TWO GOTHIC FORGED IRON CANDLE STANDS Italian,Fifteenth Century
+
+On triangular famboyant Gothic knobbed supports, from which rise round iron centre stems and cylindrical candle cups.
+
+Height,3 feet 5 inches.
+
+## 66-GOTHIC FORGED ANDIRON WITH FOUR FLOWER BASKETS Tuscan,Fifteenth Century
+
+Scroll-feet supporting fowers at either side of the stanchion, which rises in bulb and ring form and branches at the top in twisted arms, supporting two fower baskets. The baskets are of twisted iron. Below the upper baskets two smaller ones.
+
+## 67PAIR FORGED IRON LANTERN BRACKETS
+
+Italian,Siateenth Century
+
+Triangular, formed of fat ribbon-scrolls with tendrils and suggestions of the fleur-de-lis.
+
+Height,28 inches; projection, 29 inches.
+
+- 68-FOUR BRONZE BRACKETS Venetian,Sixteenth Century Finely S-scrolled arm, enriched with scrolled leaves and rosette motive, terminating in a large urn, arranged with five sockets for candles.
+
+Extension,30 inches.
+
+Height,32 inches.
+## 69PAIR FORGED IRON LANTERN BRACKETS
+
+Scrolling form, wound with leaves from which large fowers spring, and
+
+Venetian,Late Sixteenth Century loosely bound with broad ribbons. In black and gold.
+
+Height, 33 inches; spread,23 inches.
+
+Tuscan,Sixteenth Century
+
+## 70—FORGED IRON FIRE-GUARD
+
+On two scrolled feet ornamented by incision. Two cross-bars, the upper one adorned with quatrefoils. Springing from the feet at the lower bar are two grotesque animal heads. The stiles are adorned at two points with scrolled bands in quatrefoil formation, and support baskets formed alternately of arms fat and spirally twisted,which are orna-
+
+Height,371 inches; length,46 inches.
+
+mented with twisted rings.
+
+## 71—TWO GILDED BRONZE SUSPENSIONS
+
+## Italian,Late Eighteenth Century
+
+On bronze chains, designed in the taste of the Gothic revival of the second half of the eighteenth century.
+
+Height,4 feet 7 inches.
+
+- 72—FORGED IRON ToRCHERE Tuscan, Fifteenth Century
+- Scrolled and
+
+Cylindrical standard, on tripod arched strap-iron legs. voluted ornamentation with single leaf and iron pricket.
+
+## 73PAIR OF GOTHIC FORGED IRON ToRCHERES
+
+Tuscan,Fifteenth Century
+
+Hexagonal standard, with calyx tops of wrought iron pointed leaves with curved spikes, iron prickets and tripod stands of three strap-iron legs.
+
+Height,46 inches.
+
+## 74TWO RENAISSANCE FORGED IRON AND BRONZE ToRCHERES Florentine,Early Siateenth Century
+
+On boldly scrolled tripod supports with leaf enrichments, centre stem with bronze member and molded bronze candle cup.
+
+Height,4 feet 10 inches.
+<!-- image -->
+
+75-TWO FORGED IRON ToRCHERES Italian,Sicteenth Century On triangular bases terminating on bird feet, molded centre stem flanked by lyre serolls.
+
+7CGOTHIC FORGED IRON TORCHERE
+
+Height,5 feet 8 inches.
+
+Italian,Fifteenth Century
+
+Ornamented with scrolls and candle pricket on tripod base.
+
+Height,4 feet 4inches.
+
+- 77PAIR FORGED IRON BRACKETS Venetian,Sixteenth Century Elaborately wrought in fat scrolls, banded, and with projecting spiral tendrils, the bands and tendrils gilded; painted white.
+
+Height,28 inches;projection,181/ inches.
+<!-- image -->
+
+78-PAIR BRONZE AND FORGED IRON PRICKET CANDLESTICKS Italian,Sicteenth Century
+
+Round standard springing from a scrolled tripod adorned with curling scrolls and bulbs. Spreading bobeche of bronze.
+
+Height,5feet 4inches.
+
+79-TWO RENAISSANCE FORGED IRON CANDLE STANDS Italian, Sixteenth Century
+
+Handsomely foriated;futed bobeches.
+
+Height,3 feet 6 inches.
+
+80-TWO RENAISSANCE FORGED IRON CANDLE STANDS
+
+Similar to the preceding.
+
+Italian,Sixteenth Century
+## 81-TWO FORGED IRON THREE-LIGHT CANDELABRA
+
+Lombardian,Sixteenth Century
+
+Spirally twisted standards springing from three spreading feet and decorated at the top of the spiral with expanding fat and round scrolls, above which the standards continue in plain form to a top socket. Above the scrolled decoration two bracket arms in scroll form and decorated with leaves,blossoms and tendrils,and supporting candle sockets.
+
+Height,6 feet 6 inches; spread,of one,281 inches;of the other,51 inches.
+
+82—FORGED IRON FIRE-GUARD Tuscan,Late Fifteenth Century Standards, fat at the base and quadrilateral in the upper sections, spring from fattened ribbon-scroll feet and support torch-holders of strap construction. These are connected at top and bottom by stretchers ornamented in scroll work, and from each standard springs on the outer side a ring handle and toward the centre a bracket with chain and hook.
+
+Height,4feet7inches;length,5feet 2inches.
+
+## 83-POLYCHROMED TIN CHANDELIER
+
+Venetian,Sixteenth Century
+
+A circular band suspended from scrolled rods and a scrolled top supports leaf scrolls which converge at a scrolled drop. Within is a classical vase of amphora shape holding fowers.Various scrolled leaf and foral adornments and branching candle arms also formed of leaf scrolling.
+
+Height, 43 inches.
+
+## 84-FORGED IRON TEN-LIGHT BRACKET
+
+Venetian,Early Sixteenth Century
+
+Formed of graceful spreading scrolls, supporting a broad scrolled strap which carries ten prickets and at the center a large foral open socket. Painted red.
+
+Height,18 inches;length,40 inches.
+
+- 85-TWO FoRGED IRON ToRCHERES Italian,Fifteenth Century
+- Tripod base from which rises a plain pricket.
+<!-- image -->
+
+- 86-FORGED IRON LOCK
+
+French,Fifteenth Century
+
+Rectangular, the face a series of cathedral niches containing figures of saints and shields of the feur-de-lys, above a conventional grille.
+
+Length, 81ye inches.
+
+Italian,Sixteenth Century
+
+- 87-HALBERD
+
+A broad fat blade having a curved tip and two fanking hooks, its two sides displaying a dragon between elaborate scrolls, executed in delicate relief.
+
+- 88-FOURFAUCHARDS
+
+French,Early Sixteenth Century
+
+Conventional form, broad fat blades,with curved tip and the top of the blade lightly scalloped.
+89-TWO GOTHIC FORGED IRON TORCHERES
+
+Tuscan,Fifteenth Century
+
+Tripod twisted base, with scrollings. Plain candle pricket.
+
+Height,4 feet 6 inches.
+
+- 90-FORGED IRON WASH STAND WITH COPPER BASIN AND BUCKET Florentine,Sixteenth Century
+
+The stand a tripod,wrought in three graceful recurving scrolls,which unite within a ring at bottom center, thence expanding into lily scrolls. On three short scrolled feet.At the top of the legs,blossoms and tendrils, and within three deeply scrolled arms a copper basin; this is ornamented throughout in repousse with designs and foral scrolls and two shields supporting crowns. From the top of the stand a wrought iron arm with projecting scrolls rises, terminating in a dragon's head holding a loop, the loop supporting a copper bucket.
+
+Height, 62 inches
+
+## SCULPTURED FIGURES,IN MARBLE AND WOOD
+
+- 91-MARBLE HEAD
+
+Seventeenth Century
+
+Head of a warrior with beard. He wears a close-fitting helmet with nose-piece and ear protectors. Executed in the archaic manner of the ancient Greeks. On rectangular wooden pedestal.
+
+Height of marble,1l inches.
+
+## 92-FOUR ITALIAN GREEK MARBLE RELIEF MEDALLIONS
+
+Seventeenth Century
+
+Of classic poets and philosophers. Profile bust portraits of bold life
+
+Height,27 inches.
+
+size proportions, modeled with remarkable realism.
+
+## 93-PENTELIC MARBLE STATUETTE
+
+Lombardian,Sixteenth Century
+
+Standing figure of Judith,in full and fowing robes,holding the severed
+
+Height, 17 inches.
+
+head of Holofernes in her left hand. Fine patina.
+<!-- image -->
+
+94-GOTHIC LIMESTONE CAPITAL Pisan,Fourteenth Century Octagonal, carved with the standing figures of saints under canopies of Gothic quatrefoil tracery. Molded abacus and necking.
+
+Height,15 inches;diameter,13% inches.
+
+## 95-PAIR CARVED WoOD CANDLESTICKS
+
+## Italian,Sixteenth Century
+
+Columnar and bulbous, carved in vase and ring form, and in relief with acanthus motives, festoons, cartouches and angel-heads. Base with three short square feet under scrolls.
+
+Height,28 inches.
+
+Flemish,Sicteenth Century
+
+## 96--PoLYCHROME CARVED WoOD PIETA
+
+The limp body of the Christ resting against the Mother's knee, the two fanking figures holding His head and an arm, all facing the spectator. Expressively carved, and painted in dark tones.
+
+Height, 19 inches.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 97-POLYCHROMED CARVED WOOD GROUP
+
+- Northern Italian,Late Sixteenth Century Scene from the life of the Saviour, the High Priest holding the Infant Lord surrounded by Holy women, Elders and Male Saints seated at a table covered with a green cloth. In the front appear a female kneeling
+
+figure and a dog.
+
+- 98-POLYCHROMED CARVED WOOD FIGURE
+
+Flemish,Fifteenth Century
+
+A youthful saint in long fowing tunic which completely covers his feet; conventionally scrolled curling hair.
+
+From the Drey Collection, Munich.
+
+- Nirnberg,Sixteenth Century 99-CARVED WoOD STATUETTE Standing figure of the Madonna holding Child on Her left hand and in Her right what appears to be a huge bunch of grapes, which He grasps with both hands. Polychromed, with gilding.
+
+Height, 12 inches.
+
+- 100-POLYCHROMED CARVED WoOD STATUE
+
+Umbrian,Fifteenth Century
+
+Upstanding figure of the Virgin in brilliant red bodice and covered in a sky blue cloak which falls from Her hair and envelopes the Infant Lord. girdle, the collar and the diadem of the Virgin's hair.
+
+Height,3 feet 7 inches.
+
+- 101--PAPIER-MACHE HEAD Tuscan, Sioteenth Century Expressive head of a moustached and bearded man with curling hair, looking to his right. Painted brown and has dark patina. Red velvet
+- base.(Rare.)
+
+Height, 13 inches.
+
+- Italian,Sixteenth Century 102-CARVED WoOD STATUETTE Figure of a youth standing on the breast of a prone satyr with open jaws, his right hand reaching up to a mask which the youth holds in
+- his left hand. Polychromed and gilded. Grayish patina.
+<!-- image -->
+
+## 103-POLYCHROMED CARVED WoOD GROUP Northern French, Fifteenth Century
+
+Standing figure of Saint Roche,on a mounded base on which the donor stands beside him but represented on a much smaller scale. The saint raises the skirt of his coat and displays his bare thigh, and opposite the donor the saint's dog looks up to it. The saint carries in his left hand his staff and pouch. Polychromed in fine mellow tones.
+
+Height,341/2inches.
+
+## 104CARVED,GILDED AND PAINTED WOOD CANDLE-HOLDERS
+
+## Venetian,Sixteenth Century
+
+Full-length figures of standing Angels in loose robes, with outstretched wings and arms, holding futed cornucopiae which terminate in candlesockets.On octagonal molded base. Painted in natural colors and gilded.
+
+Height,3 feet 1/ inches.
+## ITALIAN RENAISSANCE AND FAR EASTERN BRONZES
+
+<!-- image -->
+
+- 105INDIAN BRONZE TWO LIGHT CANDLESTICK Composed of a water bird holding in its beak two scrolled arms enriched
+
+body supports.
+
+with dragon-heads and crowned by ball-shaped finials. The bird rests on a circular tray covered with a fret design of arabesques;on animal
+
+- 106-TWO CHINESE BRONZE EQUESTRIAN FIGURES Ming Period
+- Archaically modeled sturdy horse ridden by a mandarin.
+
+Height,12 inches.
+
+- Ming Dynasty Peasants variously mounted on yak, zebu and grotesque horse.
+- 107-THREE CHINESE BRONZE FIGURINES
+- Italian,Sixteenth Century Conventional shape with rectilinear loop handle. Chiseled ornamentation in relief representing pairs of angels supporting armorial bearings, and between them other arms incised "Conte Grompo." Leaf borders of fine
+- 108-BRONZE BELL design. Dark, greenish-black patina.
+<!-- image -->
+
+## 109-BRONZE STATUETTE OFAPOLLO
+
+Roman, First Century A.D.
+
+Standing figure, nude,right arm raised, on the left an armlet. Green- ish and grayish patina and brownish earthy incrustations.
+
+Height,8 inches.
+
+- 110BRONZE TABLE BELL Italian,Sixteenth Century Circular, converging slightly from a faring rim to a fat top which projects somewhat. Tubular handle with enlarged top, serviceable as a candle holder. Incised ornamentation with shield patterns and between them foral scrolls. Incised angular border.The top carries more foral ornamentation and swimming fishes, and the handle is further ornamented. Dark olive patina.
+
+Height,41inches.
+Kindly read the Conditions under which erery item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 111--PRICKET CANDLESTICK IN LIMOGES CHAMPLEVE ENAMEL French,Fifteenth Century
+
+Long point, set in a spreading base hexagonal in form, the sides slightly incurvate. Enameled in lapis and turquoise blue, green, white and vermilion with standing figures of winged saints amid fowers,within a ground of gilded bronze.
+
+Diameter of base,61/2inches.
+
+- 112-RENAISSANCE BRONZE MORTAR Italian,Sicteenth Century Inverted bell shape with two loop handles. Relief ornamentation in three bands, together with half-round and channel moldings. In the central band rosettes and C-scrolls,the upper band containing leaf patterns and the lower one simply designed. Olive patina of soft lustre.
+
+Height,4 inches.
+
+- 113-GOTHIC BRONZE MoRTAR Italian,Fifteenth Century Inverted bell shape with faring base and rim carrying half-round and channeled moldings. Long projecting knob handle. Chiseled above the base with a border of scrolls and conventional vase forms. Soft gold and olive patina of dull lustre. Height,612 inches.
+- Tuscan,Fifteenth Century Cylindrical, with rounded and faring rim, molded, and adorned with rosettes in relief. On the sides projecting ridges modeled in scroll form,and between them crowned shields in pairs and bearing the three trefoils, modeled in light relief. Greenish and black patina with gold
+
+Height, 514 inches.
+
+115-BRoNzE MoRTAR AND PEsTLE Italian, Seventeenth Century Cylindrical, with spreading molded base and deep, faring rim. Relief ornamentation vividly picturing a hunt with mounted men on a chase through a forest surrounding a castle, animals on the run and birds fying overhead. Deeply chiseled in a band below the rim: woELTER JAENsEN ANNA JAENsEN E. L.1689. Double-ended pestle with a midway molding.
+
+Height, 6 inches.
+
+116-BRONZE TRIPOD JAR Tuscan,Sixteenth Century Globular cauldron shape with spreading rim and two angular loop handles. The whole plain and brightly polished and bearing on its face an ornament in relief, cisele, displaying scrolls, crowns, a mask and escutcheon. Straight legs with lion-claw feet, the knees adorned with female heads.(Rare.)
+
+Height, 812 inches.
+
+- 117-BRONZE OXEN BELL Italian, Sixteenth Century Mitre shape with a rigid bail handle of spiral twists over a leaf-shape smooth grip. In relief, on one side a star between conventional figures and on the opposite side the sacred monogram under a cross, supporting a heart. Heavily encrusted with a ferrous and earthy patina.
+
+Height,12 inches.
+
+Tuscan,Fifteenth Century
+
+118--BRAss DIsH
+
+Marli bordered with arches and conventional designs and the cavetto with leaves. At the centre a medallion, repousse, representing Saint
+
+George and the Dragon.
+
+Diameter,16 inches.
+
+- 114-GOTHIC BRONZE MoRTAR lustre.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+119--BRAss DISH
+
+Flaring marli punched with a border of arches and pendants, sides of the cavetto plain and at the bottom Gothic lettering encircling a repousse medallion picturing a satyr and nymph at either side of a futed vase.
+
+Tuscan,Fifteenth Century
+
+Diameter,16 inches.
+
+Tuscan,Fifteenth Century
+
+120-GoTHIC DEEP DISH
+
+Brass,with narrow faring rim decorated with punched borders of arcs and fowers. On the rim the initials P.D.At the bottom an elaborate repousse decoration between a border of Gothic lettering and a large boss, designed in floral scrolls and conventional figures.
+
+Diameter,161y inches.
+
+Tuscan, Fifteenth Century
+
+121-BRASs DIsH
+
+Border of Gothic arch design with conventional drops and in the cavetto borders of cursive scroll and stellate design, punched, and between them Gothic lettering. At centre a repousse medallion picturing the Pascal Lamb.
+
+Diameter,16 inches.
+<!-- image -->
+
+122-BRASS DISH
+
+Circular, with shallow cavetto and broad faring marli, the latter carrying punched borders of festoons and formal figures and having a molded rim.The sides of the cavetto in spiral gadroon design and the bottom bearing a repousse medallion of Saint George and the Dragon sur-
+
+Tuscan,Fifteenth Century rounded by a series of repousse circles enclosing Gothic lettering.
+
+Diameter,18 inches.
+
+Italian,Eighteenth Century
+
+## 123-BRONZE CANDELABRUM
+
+On an elaborately scrolled base resting on four scrolled feet is poised a classic vase which supports a slender column variously ornamented with scrolls.At top of column a scrolled bobeche. The body of the vase displays scrolls supporting bosses and at the sides are draped long garlands. Black patina. Equipped for electricity.
+## EARLY ITALIAN AND FRENCH PAINTINGS
+
+## FRENCH SCHOOL
+
+LoUIS XIV PERIOD
+
+## 124-PORTRAIT OF A LADY
+
+Height,3112 inches;width,251/2 inches
+
+Gowned in black, with white scarf crossing her shoulders,and white and rose at her sleeves,a stout lady of noble family is portrayed at half-length, seated and facing the observer, her hands crossed before her and holding a book. Her gown is moderately low at the neck, and her reddish-brown hair is confined by a black veil.
+
+## FRENCH SCHOOL
+
+LOUIS XIV PERI0D
+
+## 125-PORTRAIT OF A DUKE OF SAVOY
+
+Height, 311/2 inches; width, 2512 inches
+
+Half-length portrait of an austere yet self-indulgent man of patrician bearing, his vigorous and forid features looking out from a great wig, whose curls fall to the brilliant and gold-studded armor which encases him while it discloses his white lace stock. Over his shoulder a crimson mantle. Figure to right, and face almost full to the front.
+
+From the Marquis of Saluzzo, Castle of Verzuolo, Piedmont, Italy.
+## FRENCH SCHOOL
+
+EIGHTEENTH CENTURY
+
+## 126-THE LOVERS(Two)
+
+(Canvas)
+
+In one a soldier in dragoon’s uniform, with white wig and tricorne hat, walks through a wheat field twirling his mustache and looking down at a young woman with bouffant skirts who walks at his side hanging on his arm. In the other the same soldier turns disdainfully away from the same young woman, who loops her arms around his neck and looks up imploringly. In eighteenth century Venetian glass frames with beveled sides decorated,in gold,with voluted at the side.
+
+## VITTORE GHISLANDIFRA GALGARIO
+
+(Known generally as Fra Galgario, and also known as Fra Paoletto, and as Il Frate da Galgario)
+
+VENETIAN:16551743
+
+127-PORTRAIT OF A LADY
+
+Height,233/4 inches;width,22 inches
+
+Half-length, seated and facing front, turned very slightly toward the left. A mature woman, of blond type,her light hair plainly dressed and brushed straight back from her high forehead. Her black gown,moderately decolleté, is edged with deep fine lace at the neck, and her cloak reveals broad reveres of royal purple.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+MANNER OF GIAN BATTISTA MORONE
+
+<!-- image -->
+
+ITALIAN:1510-1578
+
+128-PORTRAIT OF A LADY
+
+Height, 241/2 inches; width, 191/2 inches
+
+Half-length figure of a young lady of delicate features, figure to right and face three-quarters front, seen in a soft light before a neutral dark background. Her brown hair shows subdued golden notes in its carefully done loose folds. She is in a mahogany-colored gown with white silk over shoulders and breast, a white frill at her throat, and wears a gold necklace. She is holding up a head-and-shoulders portrait of a man of the Rondinelli family (indicated by the swallow perched upon its frame)—conjecturally,her fiance,or herhusband.
+
+From the Castle of Saluzzo della Manta inVerzuolo,Piedmont,Italy.
+<!-- image -->
+
+## JACOPO DA PONTE
+
+Known as IL BASSANO (1510-1592) VENETIAN SCHOOL OF THE SIXTEENTH CENTURY
+
+## 129-PORTRAIT OF A VENETIAN CAPTAIN
+
+(Canvas)
+
+Height, 45 inches;width,38 inches
+
+Three-quarter-length portrait of a bearded man. His face is turned to right of the spectator. He wears a complete suit of plate armor, is bare-headed and supports with his right arm a two-handled sword. The left hand rests on the stone coping of a balcony in front of him. Dark background.
+
+Note: Jacopo da Ponte was born and began his career in the town of Bassano. Hence the name by which he is generally known.
+## JEAN BAPTISTE VAN LOO
+
+FRENCH:1684—1745
+
+## 130-SILVESTER ANTONIO SALUZZO,
+
+## COUNT OF VERZUOLO (1687-1758)
+
+Height,32 inches;width,25 inches
+
+Half-length portrait of a large and vigorous man in prime of life, smoothfaced and forid and wearing a gray curled wig. Seated, with figure to right, and face almost full to the front. His fowing silvery-gray robe with gold brocade lining, rolled back, discloses a coat equally rich in its golden adornment, and white lace at his breast.
+
+On back,name and title of the sitter,with dates of his birth and death,in old Italian. Note:"At Turin he painted the Duke of Savoy, and several members of his Court." —Encyclopadia Britannica.
+
+two years for the Duke of Savoy and the Prince of Carignan"Bryan's Dictionary of Painters,Vol. III,p.245.
+
+From the Marquis of Saluzzo, Castle of Verzuolo, Piedmont, Italy.
+
+## ITALIANANDFRENCHRENAISSANCEFURNITUREANDNEEDLEWORK
+
+## 131-FOUR CARVED AND GILDED WALNUT SIDE CHAIRS
+
+Venetian, Eighteenth Century
+
+Tapering molded supports square pierced backs enriched with interlaced monograms heightened with gold festoons. Striped silk slip seats.
+
+- 132-SoFA AND TWO ARMCHAIRS Similar to the preceding.
+- Venetian,Eighteenth Century
+
+Length of sofa,4 feet 6 inches.
+
+- 133-EMBROIDERED CIRCULAR TRIPOD STOOL French,Louis XIV Period
+
+Turned legs in vase, knob and ring form, and solid tripartite stretcher. Upholstered in silk foral embroidery on golden-yellow silk ground and edged with white.
+<!-- image -->
+
+134-LOUIS SEIZE MARQUETERIE COIFFEUSE
+
+French,Eighteenth Century
+
+On tapering supports panelled with satinwood, terminating in gilded bronze shoes. The body is covered on all sides with panels of repeating dice sectioned by bands of tinted wood; one centre drawer. The top uncovers as a dressing mirror adorned with emblems of love; rosecolored compartments containing toilet objects and cosmetics used in the period, brushes and powder jars of which one still bears the original label. The perfume bottle still contains the scent of the eighteenth century.
+
+Length,2 feet 71 inches; width,1 foot 5 inches;height,2 feet 7 inches.
+135-AOSTA VALLEY BEECHWOOD CRADLE Northern Italian or Southern French, Early Siateenth Century A primitive construction, of trough-shape on rockers, the stiles extended as spindle handles, but of elaborate ornamentation. All sides carved by incision and in low relief with formal medallions of foral design. On opposite sides are the arms of France and of Savoy, and at the centre of one side the sacred monogram. Vestiges of polychroming.
+
+Length,20 inches.
+
+Venetian,Sixteenth Century
+
+## 136--IVORY AND GILDED SILVER JEWEL COFFRET
+
+Rectangular. Hinged domed cover, with couchant lion in gilt bronze as finial lid forming a box. Body with dentilled cornice and two hinged doors with panelled front. Plinth fitted with drawer having scrolled gilded silver keyhole escutcheon, shaped apron and bracket feet.
+
+Height,16 inches;length,131/ inches.
+
+From the Marcuard Collection,Florence.
+
+## 137-LOUIS SEIZE PoRTABLE JEWEL CASE
+
+Venetian,Eighteenth Century
+
+Oblong case of rosewood enriched with parqueterie panels of lighter velvet on two hinged lids concealing jewel compartments. The lyre-
+
+Height,2feet7inches;length,2feet 5inches;depth,1 foot 5inches.
+
+woods surrounded by bands of tinted satinwood.It is closed by two locks and when opened uncovers lining of contemporary emerald green shaped base is collapsible,pierced,and bears in the centre an emblem, a feur-de-lis.
+
+- 138-EMERALD VELVET TABOURET French,Louis XIII Period Vase and knob turned legs and X underbrace,with knob finial above the crossing. Oblong seat with chamfered corners, covered with cut velvet
+- of a soft emerald tone over drap-d'or ground.
+- 139-LOUIS TREIZE TABOURET Northern Italian,Seventeenth Century Seat embroidered in colored Chinese fowers on a cream ground.
+<!-- image -->
+
+140WALNUT TABLE
+
+Tuscan,Early Siateenth Century
+
+Oval top, with plain edge and two hinged drop leaves on hinged and shaped supports, plain apron and lyre-shaped end supports on straight cross bases with curved feet. Square rails.
+
+Height,2feet 6inches;length,3feet 6inches;width,3feet 4 inches.
+
+14I-WALNUTTRIPOD TABLE
+
+Umbrian,Sixteenth Century
+
+Twelve sided top, on three scrolled legs,with solid scrolled under-brace. One drawer with knob handle. Varied light and dark patina.
+
+Diameter,27 inches.
+
+142--MAHOGANY“TABLE A OUVRAGE”
+
+French,Eighteenth Century
+
+On slender tapering legs; enriched with bronze mounts.
+
+2feet 91/inches.
+- 143-INLAID SIDE TABLE Northern Italian,Eighteenth Century medallion enclosing a reclining figure and with geometrical designs, the
+
+Length,351/2 inches.
+
+Oblong with tapering quadrilateral legs. Top inlaid with an octagonal latter also found on the skirt and legs.
+
+- 144-NEEDLEWORK SCREEN Italian,Seventeenth Century The centre picture representing the Sacrifice of Isaac." Abraham kneeling with his son near the prepared fire while the Angel of the Lord appears from heaven.
+
+## 145-LACQUER CABINET AND DRESSING MIRROR
+
+Venetian,Eighteenth Century
+
+After the Chinese manner. Arched mirror swinging between stiles with vase and acorn finials. One drawer enclosing sundryb boxes and compartments, and fall front disclosing others. Freely ornamented with horsemen and other designs.
+
+- 146-INLAID WALNUT DESK
+
+Height,361/ inches; eidth,18 inches.
+
+Tuscan,Sixteenth Century
+
+Oblong,on richly scrolled legs and underbraces. Lift top and fall front, which when opened reveal eight drawers. There are four secret compartments. The interior inlaid in lozenge form, oval panels and cir- cular medallions showing various designs. Variously patinated.
+
+Length,36 inches;width,201 inches.
+
+## 147-THREE CARVED WALNUT SIDE CHAIRS
+
+Tuscan,Siteenth Century
+
+Quadrilateral seats variously molded;stretchers scrolled and straight, in one chair plain and in two carved. Toprails variously carved by incision, in one chair with church windows.
+
+## 148-TWO CARVED WALNUT SIDE CHAIRS
+
+Oblong seats, one with a quarter-round molding and the other with a
+
+Tuscan, Sixteenth Century channeled molding; front stretcher scrolled. Stiles and toprail, back stretcher and two slats, carved by bold and broad incision in simple design.
+## 149PAIR CARVED WALNUT SIDE CHAIRS
+
+Square seat, legs and stiles, the latter primitively carved by incision, and the back formed of toprail and stretcher and two vertical slats all similarly carved.
+
+- 150-TWO WALNUT SIDE CHAIRS Tuscan, Sixteenth Century Quadrilateral seat, molded, with quadrangular stiles and legs. Between the stretchers of the back and of the front,vase and knob spindles, and on the faces incised moldings or borders.
+
+## 151—PAIR CARVED WALNUT SIDE CHAIRS
+
+Quadrilateral seat, molded; scrolled skirts and stretchers; quadrangular legs and stiles, the latter topped by carved finials. Back stretcher carved in relief and pierced with the feur-de-lis of Florence, a bird and scrolls,and the three mountains from the arms of the Piccolomini family, the lower front stretcher in accord.
+
+Florentine,Sixteenth Century
+
+## 152-LoUIS QUINZE NEEDLEWORK SCREEN
+
+Italian, Serenteenth Century
+
+Chinese central figure having two other figures bowing before him. In the lower part two fantastic dragons. A crimson decoration with two candles beside the central figure. Closely resembling a "Jean Berain" design. Gros-point cream background.
+
+## 153-LOUIS SEIZE MARQUETERIE CoMMODE
+
+Venetian,Eighteenth Century
+
+On a slender straight support. Front fitted with two doors, the entire body covered in a most uncommon parqueterie veneer of exotic woods, on a citron ground furnished with engraved rosetted handles and applied spread eagle crests.
+
+Length,3feet 2 inches;width,1foot 8 inches;height,2feet 10 inches.
+
+## 154-RENAISSANCE CARVED WALNUT CABINET
+
+Venetian,Sixteenth Century
+
+Front fitted with one centre door, one long bottom and two short top drawers. Columns carved with fasces and leaf patterns. Bronze handles.
+
+Height,3 feet;width,2 feet 31%inches;depth,81%inches.
+
+Tuscan,Sixteenth Century
+## 155-SET OFFOUREMBROIDERED REDVELVETWALNUT SIDE CHAIRS Italian,Seventeenth Century
+
+Scrolled seats and backs, the backs arched; tapering legs turned with rings and knobs. Upholstered in red velvet, with gold and silver em- broidery of elaborate foral design.
+
+- 156-TAPESTRY BANQUETTE French,Louis XIII Period Walnut frame, the legs and stretchers in vase and ring turning;knob feet. On square sections of the stretchers conventional leaf designs carved in low relief and gilded.Upholstered in Flemish seventeenth century tapestry with chief designs in blue and white.
+
+Length,26 inches.
+
+- 157-NEEDLEWORK SCREEN French,Seventeenth Century The centre figure in petit-point representing a lady seated near a brazier, surrounded by trees. Voluted scrolls in harmonious colors on a
+
+yellow gold background.
+
+## 158-WALNUT NEEDLEWORK ARMCHAIR
+
+Italian,Seventeenth Century
+
+On turned supports terminating in inverted foral feet. Carved and pierced front rail. Leaf carved arms. Backs and seats upholstered in silk embroidery of bold foral arabesques in brilliant colors,on golden yellow grounds.
+
+## 159--CARVED WALNUT RED VELVET ARMCHAIR
+
+Italian Renaissance
+
+Oblong back and seat; covered in red velvet of the period impressed with mark of previous embroidery. Scrolled back finials;broad fat scrolled arms. On square legs having pierced geometric stretcher.
+
+## 160-WALNUT CRIMSON VELVET ARMCHAIR
+
+Tuscan, Sixteenth Century
+
+In its original state, front rail carved. Turned arms trimmed with cut velvet galloon and fringe.
+
+- 161-HoODED CASSONE
+
+Venetian,Sixteenth Century
+
+Covered in green velvet and trimmed with bands of grotesque medieval guardsmen in repousse.
+
+Length,4 feet 2 inches;height,2feet 11 inches; depth,1 foot 41inches.
+<!-- image -->
+
+## 162-TWO GOTHIC WALNUT CHOIR STALLS
+
+Florentine,Fifteenth Century
+
+Shaped fat-topped arms, with shaped sides carved and pierced with scrolls and voluted acanthus leaves, ending in grotesque animals' heads. Hinged seats with molded fronts, straight supports having fronts carved with voluted scrolls. Paneled backs. Contemporary bases.
+
+Height,3feet 21inches;rwidth,3 feet 31inches;depth,1 foot S1inches.
+
+163-WALNUT AND MARQUETERIE HALL BENCH Florentine,Seventeenth Century
+
+Back enriched with armorial bearings.
+
+164--RENAISSANCE WALNUT CABINET ON TWO CLAW FoOT SUPFlorentine,Sixteenth Century PORTS
+
+Two panelled doors with circular knobs; carved cornice; original bronze handles.
+
+Height,3 feet %inch;depth,1 foot 4 inches;length,2 feet 11 inches.
+## 165WALNUT FIGURED VELVET ARMCHAIR
+
+Florentine, Sixteenth Century
+
+Flat curved voluted arms.S Straight square legs. Carved apron and finials. Back and seat covered in figured velvet and finished with deep fringe and studded with nails.
+
+## 166-TWO RED VELVET WALNUT ARMCHAIRS
+
+Tuscan, Sicteenth Century
+
+Plain arms with rounded edge; turned front and side bars. Gilded acanthus leaf finials. Covered in red velvet trimmed with cut velvet guimp and silk fringe.
+
+- 167-WALNUT CABINET
+- Umbrian,Siateenth Century Rectangular. Cabinet with molded cornice, the interior arranged with open compartments; paneled front.
+- 168-UMBRIAN WALNUT CABINET Sixteenth Century Rectangular, with molded top; fitted with drawer and door beneath. The interior arranged with open compartments.
+
+## 169RENAISSANCE CARVED WALNUT CABINET LECTERN
+
+Ligurian, Sixteenth Century
+
+Panelled front and sides, fanked by Doric pilasters delicately futed. Centre door and sides are carved with foral scrolls surrounding mar- guerites; slant top. Sturdily carved base molding.
+
+Height,3 feet %inch;length,2 feet 41% inches; depth,1 foot 61inches.
+
+## 170-LOUIS QUINZE CARVED WALNUT NEEDLEWORK CANAPE Venetian,Eighteenth Century
+
+On carved cabriole supports terminating in voluted feet, serpentine shaped apron, carved with leaves. The upper part is designed in an unusual manner of a long back and a short return, both fitted with slip pads. They, as well as the slip seats, are covered in a geometrical needlework pattern in multi-colored silks; two carved and scrolled arms of which one depends upon the back, and the other upon the return.
+<!-- image -->
+
+17I-FLORENTINE WALNUT DANTESCA ARMCHAIR
+
+Late Fifteenth Century
+
+Curule shape,with incurved arms ending in lions'heads, turned rosette at intersection and shaped base rails. Leather seat,with loose velvet cushion;back upholstered in red velvet finished with silk ball fringe.
+
+(Rare.)
+
+From theDal Zotto Collection,Venice.
+
+## 172-WALNUT POMPADOUR BAIGNOIRE
+
+Venetian,Eighteenth Century
+
+Hooded and molded arms. Back, sides and seats covered in multicolored needlework.
+
+173--WALNUT BAIGNOIRE
+
+Venetian,Eighteenth Century
+
+Back divided in three sections. Back and loose cushion seat covered in silk.
+## 174FOUR GILDED CARVED AND DECORATED SIDE CHAIRS AND SOFA
+
+## Venetian,Late Eighteenth Century
+
+On cabriole front supports, pierced hook shaped back with vase-shaped splats, decorated with single upstanding figures attired in court or rustic costumes of the Venetian eighteenth century. Legs and side rails are painted with trellises and foral sprays in colors and black. Cov- ered in Genoese jardiniere velvet on cream colored ground.
+
+- 175-TWO RED VELVET WALNUT ARMCHAIRS Tuscan,Sixteenth Century Plain curved arms, scrolled front bar. Covered in red velvet, trimmed with red silk fringe and galloon and studded with small nails.
+- 176-CRIMSON VELVET CUSHION Italian,Seventeenth Century Rich crimson velvet, fuctuating to fame color. Trimmed with gold galloon.
+- 177--NEEDLEWORK WALNUT ARMCHAIR Louis XIV Period Back and seat covered in gros and petit-point, displaying scrollings of fowers on deep ivory grounds.
+- 178-JARDINIERE VELvET CusHIoN Genoese,Seventeenth Century
+- Ivory field, woven in rich colors with fowers and scrollings.
+- 179-NEEDLEWORK WALNUT ARMCHAIR Italian,Seventeenth Century Seat and back covered in Hungarian point embroidery displaying birds and scrollings of fine fowers on ivory grounds. Executed in rich harmonious colors.
+
+## 180-AUBUSSON TAPESTRY ARMCHAIR
+
+French,Louis XVI Period
+
+On the seat an octagonal panel enclosing a quadruped, and bounding it garlands. The back panel bears a youth with a serpent in his grasp, and above is a mask and festoons of garlands.Frame carved with shells, pendants and rosettes in low relief and painted white. Armposts ofvase form surrounded by leaves.
+<!-- image -->
+
+## 181-WALNUT GATE-LEG TABLE
+
+Tuscan,Early Sixteenth Century
+
+Circular top, with two hinged drop leaves, plain apron fitted with drawers, rectangular end supports on square base rails with molded ends and gates.
+
+## 182-WALNUT CABINET
+
+Height,2 feet 8 inches;diameter,4 feet 5inches.
+
+Italian, Seventeenth Century
+
+Rectangular top, with molded edge. Body fitted with three drawers, the fronts paneled with burr-walnut and fanked by caryatids, with cord and leaf terminations; molded base. Gilded bronze shaped escutcheons.
+
+Height,2feet 101/inches;eidth,3 feet 5inches;depth,1 foot 8% inches.
+
+## 183--MARQUETERIE COMMODE-ESCRITOIRE
+
+## French,Louis XVI Period
+
+Upright oblong on four short quadrangular tapering legs. Three drawers, and drop-leaf forming desk and revealing four small drawers,a central compartment and a broad upper shelf. Top, front, sides and the interior drawers inlaid in exotic woods.
+
+Height,44 inches;width,25 inches.
+- 184-TWO CARVED ARMCHAIRS French,Directoire Period Quadrilateral seats and backs, upholstered in red, with yellow ornamentation in the form of large conventional medallions, cornucopias and festoons. White frames, the backs scrolled and the arms straight,with turned armposts carved in relief with a deep border of leaves. Skirts carved in relief with rosettes and pendants and the front legs carved with acanthus leaves.
+- 185--TWO EMERALD-GREEN VELVET WALNUT ARMCHAIRS Italian,Seventeenth Century Turned baluster frames covered with contemporary cut and uncut emerald green velvet.
+- 186-WALNUT ARMCHAIR Tuscan,Sixteenth Century Straight open back. Acanthus-leaf finials and carved horizontal splats. Straight carved arms on square columnar supports. Wooden seat, with carved apron and deep front rail; square legs and stretcher shelf with carved apron.
+- 187-PURPLE VELVET WALNUT ARMCHAIR Italian Renaissance Oblong back and seat; covered in lustrous amethyst-toned velvet; trimmed with fringe. Back with scrolled finials; fat scrolled arms. On square legs with scroll-pierced frontal stretcher.
+- 188---TWO WALNUT NEEDLEWORK ARMCHAIRS French,Late Seventeenth Century On slender cabriole supports; molded scroll arms. Shaped backs and
+
+seats covered with their original gros-point needlework.
+
+- 189--TWO WALNUT NEEDLEWORK ARMCHAIRS French,Late Seventeenth Century Similar to the preceding.
+
+190--TWO WALNUT NEEDLEWORK ARMCHAIRS
+
+Similar to the preceding.
+
+French, Late Seventeenth Century
+<!-- image -->
+
+191--CARVED WALNUT EMBROIDERED CRIMSON VELVET ARMCHAIR AND TWO SIDE CHAIRS s Venetian,Seventeenth Century
+
+On lyre-shaped base terminating in scroll feet and connected by shell crested front rail. Molded and handsomely carved outcurved arms and arm rests. Covered in crimson Genoese velvet enriched with applied gold galloon in scroll patterns.
+
+## 192-VAL D'AOSTA,GOTHIC CARVED OAK WRITING DESK Southern French or Northern Italian,Fifteenth Century
+
+Occupied on the front by an imaginative composition of Gothic transoms in upright and inverted spandrel leaf carvings, on the returns; the back shows an arched knee hole and two drawers enriched with Gothic strapwork.
+## Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+193-WALNUT AND MARQUETERIE RENAISSANCE CENTRE TABLE
+
+Lombardian, Sioteenth Century
+
+Square supports with foral holly wood marqueterie; concealed drawers. Top inlaid with border of oak leaves.
+
+Depth,3feet31/inches;length,4feet;height,2feet9inches.
+
+194-OLIVEWOOD AND WALNUT BENCH
+
+Venetian,Seventeenth Century
+
+Straight back,paneled in olivewood and with bead-and-reel and leafcarved walnut border, front corresponding with back. Base carved with pomegranates, flowers and scrolls, pilasters carved with scrolls, volutes and fowers.Hinged wooden seat covered in crimson velvet of the period.
+
+Height,3 feet 2%inches;cidth,5feet 1%inches;depth,1foot 8inches.
+
+## 195-TWO FLEMISH TAPESTRY WALNUT ARMCHAIRS
+
+Tuscan,Siateenth Century
+
+Straight square backs with acanthus-leaf carved and gilded voluted finials. Seats and backs upholstered in sixteenth century Flemish Tapestry, woven with fruits. Secured with brass-headed nails.
+
+- 196-NEEDLEWORK CARVED WALNUT SETTEE AND TWO ARMCHAIRS Tuscan, Seventeenth Century
+
+Oblong back and seat covered in Hungarian point displaying large bow-knotted scrollings of fowers in rich harmonious colors on silvergray grounds. Leaf scrolled open arms. Supported on balustered legs with rudimentary claw feet and double balustered stretcher centred with a satyr mask.
+
+- 197-TWO NEEDLEWORK CARVED WALNUT ARMCHAIRS Tuscan,Seventeenth Century Similar to the preceding.
+- Italian,Siateenth Century voluted arms on turned rests, voluted finials, back and seat covered in contemporary Flemish tapestry, the back with a motif of camels,
+- 198-TAPESTRY WALNUT ARMCHAIR the seat of formal design.
+<!-- image -->
+
+<!-- image -->
+
+## 199-TWO CARVED AND GILDED NEEDLEWORK ARMCHAIRS Italian,Seventeenth Century
+
+On carved scrolled supports, molded underframing, scrolled arms and arm rests, richly leaf carved. Backs and seats covered in silk embroidery of foral groups srisimg from leafy volutes,fruit pendants, fruit baskets and birds perched on scrolls. In brilliant sillk threads, on ivory grounds.
+
+200-CARVED OAK CABINET
+
+French,Siateenth Century
+
+Oblong, with projecting top supported by scroll brackets and channeled molding at the base. an arch at the centre. Four doors and five drawers. Inlaid with marqueterie and marble in diamond and rectilinear panels.  (Restored at a
+
+Height,7 feet;rwidth,3 feet 8 inches.
+
+Superimposed,a structure of similar form with black Doric pillars, and an interrupted pediment with a statuette within later period.)
+- 201-WALNUT CABINET Tuscan,Fifteenth Century brackets,apron ftted with two drawers and lozenge-paneled fronts. Body as cupboard,with two panelled and lozenged hinged doors, divided and fanked by futed and astragalled pilasters.
+
+Height,3feet 3inches;width,5feet;depth,1 foot 7inches.
+
+- 202-OCTAGONAL CENTER TABLE Late Sixteenth Century On magnificently carved tripod base having mermaid bodies,behind which rise scrolled plumes connecting with winged brackets which support an octagonal top enriched with dentilled frieze,futed centre stem terminating in a pendant.
+
+Height,31 inches;diameter,46 inches.
+
+203-WALNUT CABINET Florentine,Sicteenth Century Rectangular, in two portions. Upper portion,with molded and dentilled cornice and modillioned frieze, supported by futed and astragalled pilasters, arranged as cupboard with two hinged panelled doors and drawer below. Lower portion,with molded cornice,bracketed frieze ftted with drawer supported by columnar and futed and astragalled pilasters,arranged with two paneled hinged doors,plain plinth,molded base and bracketed feet.
+
+Height,6feet 3 inches;width,2feet 9inches;depth,1 foot 6 inches.
+
+- 204-CARVED WALNUT MIRROR Italian,End of Renaissance Upright oblong with a large half-round molding, on and about which a profusion of garlands of roses, carnations and other fowers is carved in bold and undercut relief. Within the garlands are cupids at the centre of the sides and on the upper corners, and at the top the garlands hang from a high cresting of ornate acanthus scrolls.
+
+Height,51 inches;eidth,33 inches.
+
+## 205-ROSEWOOD MARQUETERIE AND IvORY LOUIS QUINZE CoNSOLE
+
+Fitted with a centre drawer,rocaille mounts and shoes. The body is of
+
+## TABLE Venetian,Eighteenth Century
+
+amaranth,the top richly inlaid with similar woods heightened with trellis and serpentine patterns of ivory.
+
+Height,2 feet 9 inches;length,2feet 91%inches; depth,1 foot 11 inches.
+<!-- image -->
+
+- 206--CARVED WALNUT LECTERN Umbrian,Sixteenth Century Book stand reversible, with two bookrests, and carrying plain panels Spirally turned standard with ornamental top and bottom and resting on a triangular base carved in high relief
+
+Height, 6 feet 2 inches.
+
+and perle-olive moldings. dark patina.
+
+- 207-CARVED WALNUT TORCHERE Tuscan,Siateenth Century Columnar, futed and reeded, with a vase centre, the upper section tapering and again expanding to the fat circular top. Triangular base with scrolled legs and the solid sections between them carved in cavorilievo with the lys of Florence. Dark patina.
+<!-- image -->
+
+## 208-CARVED WALNUT INLAID TABLE
+
+Ligurian,Late Sixteenth Century
+
+Oval, on six quadrilateral legs with enlargements, connected by scrolled underbraces;plain skirt;one drawer. Top curiously inlaid with hands of playing cards at either end, and with an encircling border.
+
+Diameter,7 feet 11 inches.
+
+Tuscan,Sixteenth Century
+
+## 209-PAIR CARVED WALNUT TORCHERES
+
+Tall baluster-standard resting on a triangular base which is heavily carved with scrolls in high relief and rests on three bulbous feet. The standard is carved with vase forms elaborately ornamented and various rings, and has an expanding top. The whole in a dense gray-green and parcel-gilded.
+
+## 210-CARVED OAK ROOM PANELING
+
+French,Late Sixteenth Century
+
+Open arches with studded moldings, the solid dado carved in relief with scrolling folds. Door similarly carved, the upper portion with three arches, their tops interlacing and carved with trefoil ornaments. Forged iron lock.
+
+Height,9 feet;total length,19 feet.
+
+Height,7 feet.
+## SECOND SESSION
+
+WEDNESDAY AFTERN0ON,APRIL 23,1924
+
+## IN THE ASSEMBLY HALL
+
+OF THE
+
+## AMERICAN ART GALLERIES
+
+BEGINNING AT 2:15 0'CLOCK
+
+Catalogue Numbers 21l to 409, inclusive
+
+## VELVETS,EMBROIDERIES,BROCADES AND BROCATELLES
+
+- 211--EMBROIDERED FRAME
+
+Italian,Sixteenth Century
+
+Scrolled outline; in rich embroidery of gold and silks. At each corner an escutcheon, one with quarterings of the Visconti family and the lion of Saint Mark.
+
+Height, 9 inches;length,10 inches.
+
+From the Georges Seligmann Collection.Paris.
+
+- 212-THREE EMBROIDERED SILK WALL PoCKETS
+
+Embroidered in gold and colored silks and set with brilliants, the upper panels in animal designs, the lower enclosing medallions picturing pas- toral scenes and a forge.
+
+From the Georges Seligmann Collection,Paris.
+
+- 213-EMBROIDERED BUCKSKIN PURSE WITH PLAIN BRONZE MOUNTING German,Seventeenth Century Embroidered in silver with a scroll design and crown, and in silks with a wild boar hunt.
+
+From the Georges Seligmann Collection,Paris.
+
+- 214-GOTHIC FRAGMENT English,Fifteenth Century Embroidered in silks and gold on red velvet, depicting angels, conven-
+
+tional figures and traceries. Framed.
+
+Height,201 inches; width,16 inches.
+
+From the Georges Seligmann Collection,Paris.
+
+Italian, Seventeenth Century
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+- 215-EMBROIDERED PANEL Flemish,Fifteenth Century In silks on a gold ground; depicting saints around a small casket. Framed. Height,7 inches;width,61 inches. From the Georges Seligmann Collection,Paris.
+- 216-NEEDLEWORK CRIMSON VELVET CUSHION
+
+Composed of two fine amices and coat of arms; the amices enriched in gold and mellow colors,with cartouches bearing coats of arms and emitting scrolled Gothic leafage;centred at crown with a further coroneted coat of arms, blazoned with many devices. Trimmed with gold lace.
+
+Italian, Sixteenth Century
+
+From the Georges Seligmann Collection,Paris.
+
+- 217-EMBROIDERED SUAIRE Spanish, Siateenth Century Square panel from an elaborate winding sheet, in gold and silver embroidery,bordered with Solomon's knot and rosettes, and enclosing two relief heads,the bleeding head of Christ under the crown of thorns and above it a cherubim. In frame.
+
+Height,131inches;length,141/ inches.
+
+- 218-TWO EMBROIDERED VELVET CUSHIONS
+
+Very lustrous fame rose-crimson velvet, embroidered in applique with yellow silks, displaying medallions and scrollings. Trimmed with varied gold galloon.
+
+Italian,Sixteenth Century
+
+- 219-TWO EMBROIDERED CRIMSON VELVET CUSHIONS Italian,Siateenth Century Similar to the preceding.
+- 220--TWO EMBROIDERED CRIMSON VELVET CUSHIONS Italian,Sixteenth Century Similar to the preceding.
+- 221-EMBROIDERED FRAGMENT Italian,Sixteenth Century Exhibiting a half-figure of Christ facing the observer, in silks and gold,
+
+Height,S1 inches;width, 6 inches.
+
+between formal borders.
+
+From the Georges Seligmann Collection,Paris.
+<!-- image -->
+
+## 222--EMBROIDERED MEDALLION
+
+Italian,Siateenth Century
+
+In silk and gold, representing Christ and the Pascal Lamb, in a landscape, the medallion a rich and brilliant display on a blue velvet background. In case.
+
+From the Georges Seligmann Collection,Paris.
+
+## 223-TW0 RoYAL PoRTRAITS
+
+Diameter,161inches.
+
+English,Eighteenth Century
+
+Oval medallions embroidered in silk, picturing a youthful man and woman,in elaborately scrolled frames of gold embroidery surmounted by crowns. In case.
+
+From the Georges Seligmann Collection,Paris.
+
+## 224-EMBROIDERY ON VELVET
+
+Height,1314 inches.
+
+Spanish, Sicteenth Century
+
+Two crowned figures seated on a settee, the Madonna and a bishop, in silk colors on a red velvet background. In frame.
+
+Length,14 inches.
+
+From the Georges Seligmann Collection,Paris.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+- 225-EMBROIDERED PANEL Spanish,Fifteenth Century In silks and gold; at the centre a medallion displaying an angel's head. Framed. Height,12 inches;width,101/ inches. From the Georges Seligmann Collection,Paris.
+- 226--EMBROIDERED ECRAN French,Louis XV Octagonal, embroidered in colored silks on white with a foral border, surrounding an oval medallion with three figures in a landscape. From the Georges Seligmann Collection,Paris.
+- 227—"PIETA"NEEDLEwoRK PANEL Italian, Seventeenth Century
+- Representing the risen Christ attended by two saints.Molded frame.
+- 228TWO PANELS OF EMBROIDERY IN ONE FRAME Greek-Byzantine, Trwelfth Century
+
+Picturing saints and angels, four figures in two Gothic niches arched with foral scrolls,in Byzantine workmanship in silks and gold and silver thread. A very rare and fine production, the typical characteristics well preserved.
+
+Height,(each) 8 inches; length,9 inches.
+
+From the Georges Seligmann Collection,Paris.
+
+- 229-SILK AND GOLD EMBROIDERY Italian, Siateenth Century Christ alone carrying His cross. Landscape background with buildings. Framed.
+
+Height,13 inches;reidth,10inches.
+
+From the Georges Seligmamn Collection,Paris.
+
+- 230-TABLE MAT WITH GOLD FRINGE AND GALLOON Italian,Sixteenth Century Oblong, the centre formed of richly designed green damask, bordered on the long sides with emerald green velvet.
+- 231--FOUR EMBROIDERED ECRANS French,Louis XV Period Richly embroidered in golden-yellow, blues, white, apricot and green with figures and pastoral subjects.
+
+From the Georges Seligmann Collection,Paris.
+## 232—"PASSEMENTERIERELIQUAIRE
+
+Oval, executed in relief in golden lace-work showing a profusion of foral forms and enhanced with seed pearls and jewels. At the top the sacred monogram,and in the interior a medallion picturing the Madonna and Child. In case.
+
+Southern Italian, Seventeenth Century
+
+From the Georges Seligmann Collection, Paris.
+
+Diameter,16 inches.
+
+- Italian, Seventeenth Century Embroidered with fine scrolls and heraldic eagles in gold and silver on
+- 233-B1sH0P's MITRE a rose-pink silk ground.
+
+From the Georges Seligmann Collection,Paris.
+
+- 234-PANEL OF SIENA WEAVE Fifteenth Century Quadrilateral, picturing saints in adoration of the Child, in soft colors on a red ground. Height, 11 inches; width, 10 inches. From the Georges Seligmann Collection,Paris.
+- 235EMBROIDERED PANEL Spanish,Sixteenth Century The Crucifixion, with standing figures at the foot of the cross, in gold and silver embroidery on a dark gray-green velvet ground, surrounded by formal embroideries on a dark red ground. Framed.
+
+Height,13 inches;width,11 inches.
+
+From the G. Seligmann Collection, Paris.
+
+- 236-BIsH0P's MITRE Italian,Sixteenth Century Embroidered in gold and richly colored silks and enhanced with pearls, in scroll designs and fowers on a white ribbed silk ground touched with silver and gold.
+
+From the Georges Seligmann Collection,Paris.
+
+- 237--BENITER IN SILVER FILIGREE, EMBROIDERY AND PASSESicilian,Seventeenth Century MENTERIE An extraordinarily rich production in the elaboration of the silver work, which is effected largely in relief with wire scrolls.At the centre a heartshaped medallion embroidered in silks picturing Saint John. Picked out with fowers in paper-lace. In case.
+
+From the Georges Seligmann Collection,Paris.
+
+Length, 19 inches.
+- 238THREE PAINTED SILK PANELS French,Louis XV Period The main panel picturing a royal party on a stag hunt, the smaller panels respectively bucolic scenes and fowers.
+
+Main panel:Height,17 inches;length,35% inches.
+
+Side panels:Height,20 inches; width,171/ inches.
+
+From the Georges Seligmann Collection,Paris.
+
+- 239-NEEDLEWORK PANEL Italian,Seventeenth Century Within a conventional foral border a rectilinear field woven in various designs and colors and enclosing a medallion in which a bird appears.
+
+Height,3feet 6 inches;length,5feet 5inches.
+
+- 240-NEEDLEWORK PANEL Italian,Seventeenth Century Conventional designs wrought in low-toned colors. On a dark ground. Height,4 feet 1 inch;length,5 feet 6 inches.
+- 241-SIENESE EMBROIDERED SILK STREET PARADE BANNER WITH ORIGINAL HALBERD Seventeenth Century Deep rich blue silk, embroidered in applique, with a coroneted scallop-
+
+shell at centre, within scrollings and a stellate motive.
+
+Note:It is interesting to note that each street in this old city had its individual banner,and the residents were imbued with a spirit of loyalty to their street,which is preserved to this day.
+
+- 242-SIENESE EMBROIDERED SILK STREET PARADE BANNER WITH ORIGINAL HALBERD Seventeenth Century Ivory silk,having a painted oval medallioned centre, depicting St. George and the Dragon.Lightly cruciformed with tan silk and bordered with a broad band of yellow, having stellate motives at corners.
+- 243-SIENESE STREET BANNER WITH ORIGINAL BRONZE EAGLE TERMINAL Seventeenth Century Flag of four panels, alternately of fine tan and lustrous gray-blue Roman satin, displaying in black applique a double eagle. Trimmed with gold fringe.
+- 244-JARDINIERE VELVET TABLE COVER
+
+Genoese,Seventeenth Century
+
+Formal foral ornamentation in garnet,emerald and white on a brilliant golden-yellow ground.
+- 245-EMBROIDERED SILVER AND SILK PURPLE VELVET TABLE RUNNER Italian,Siateenth Century Worked in foral arabesques and silver scrolls. Fringed in colored silks.
+- 246-EMBROIDERED
+- SILVER AND SILK PURPLE VELVET TABLE RUNNER Italian,Sixteenth Century Similar to the preceding.
+- 247-TWO PANELS OF EMBROIDERY Southern Italian,Sixteenth Century Carnations and other fowers in colored silks, amid scrolls in gold, on a
+
+gray silk ground.
+
+Length of one,36 inches; rwidth,26 inches; of the other,43 inches; width,28 inches.
+
+- 248-TABLE COVER OF VELVET AND GALLOON Spanish, Sixteenth Century Ruby velvet with a soft sheen, bordered and banded with gold galloon. Length,40 inches; width, 27 inches.
+- 249-SILK AND VELVET TABLE COVER
+
+Golden-yellow silk embossed in pale apricot velvet with a light and brilliant sheen in a tulip pattern of sinuous scrolls.
+
+French,Sixteenth Century
+
+Length,40 inches; reidth,31 inches.
+
+- 250-TWO PAIRS OF BROCATELLE CURTAINS Italian,Seventeenth Century Golden-yellow brocatelle of rich foral pattern.
+
+Length,7 feet 5 inches; rwidth,5 feet 2 inches.
+
+- 251-BROCADE PANEL French,Eighteenth Century Patterned in white,on a brilliant sky-blue ground,with foral medallions and radiating jewels; at either end acanthus leaf scrolling in white and soft bronze.
+
+Length,93 inches;rvidth,24 inches.
+
+From the Georges Seligmann Collection,Paris.
+- 252-NEEDLEPOINT TABLE COVER French,Siateenth Century Quadrilateral, bordered in needlepoint, about a square of old handwoven dark green cloth itself embroidered with formal foral designs
+
+Length,5feet 8inches;width,4feet 7inches.
+
+- at the centre and corners.
+- 253-CRIMSON VELVET RUNNER Italian,Sixteenth Century Long panel of Renaissance velvet bordered with blue silk fringe. Length,5 feet 9inches;reidth,21 inches.
+- 254GOLD EMBROIDERED CRIMSON VELVET PANEL
+
+Spanish, Sixteenth Century
+
+Very rich fuctuating crimson velvet, enriched in drap d'or applique with large bouquets within leafage, pendented with large pomegranate motives. Scrolled side borders; trimmed at foot with gold latticed fringe.
+
+Height,4feet 2inches;width,3feet.
+
+- 255GREEN AND CRIMSON DAMASK COVER
+
+Florentine,Sixteenth Century
+
+Central panel woven in Botticelli-green and fine straw-yellow leaf ogivals, enclosing jardinieres of fowers and having coronets at the intersections of the ogivals. Broad border of rich crimson,woven in yellow,with the same motives as the field. Trimmed with multi-colored fringe.
+
+6feet 2inchesby 5feet Sinches.
+
+Note: It is most unusual to find weavings of the same damask in two different colors,as is the case with this cover.
+
+- 256-GOTHIC VELVET PANEL Venetian,Fifteenth Century Cut and uncut velvet, the cut forming a ruby ground for the rich foral ornamentation in uncut golden-tan velvet.
+
+Length,4 feet 5inches;rwidth,2feet.
+
+- 257-PURPLE VELVET TABLE RUNNER
+
+Trimmed with silver fringe and lace.
+
+Genoese, Sixteenth Century
+
+Length,1 yard 19 inches;width,18 inches.
+- 258-CUT AND UNCUT CRIMSON VELVET CHASUBLE Genoese,Sixteenth Century With orphreys of crimson Genoese velvet fanked by bands of cut and uncut velvet worked with fower baskets and conventionalized lilies of
+
+Florence on a drap d'argent ground; trimmed with gold galloon.
+
+- 259-APPLIQUE EMBROIDERED BORDER
+
+Italian,Seventeenth Century
+
+Worked in a pattern of oak leaves and trefoils in gold and yellow silks,
+
+Length,7 yards 16 inches; reidth,10 inches.
+
+applied on a crimson ground.
+
+- 260PAIR OF CRIMSON AND CREAM SILK LAMPAS CURTAINS
+
+Trimmed with plum colored interlaced and chained corded galloon.
+
+- Venetian,Louis Quatorze Period Woven with alternating fower urns and bold scrolls in the Persian taste.
+
+Totaling 8 yards 28 inches; reidth, 221/ inches.
+
+- 261TWO CURTAINS OF CRIMSON AND GOLD BROCATELLE Venetian,Louis Quatorze Period Woven with bold leafy volutes and foral scrolls.
+
+Containing 19 yards 30 inches; rwidth,21 inches.
+
+- 262--TABLE RUNNER OF GREEN VELVET AND BROCATELLE Italian, Siateenth Century Patterned in conventional figures and formal scrolls. On part of one side a border of silver fringe.
+- 263--LAMPAS BEDSPREAD
+- on a white ground.
+
+Length,102 inches; reidth,31 inches.
+
+- French,Louis XV Period Rich foral ornamentation in golden-yellow, fame color, and other hues,
+- 264-VELVET AND EMBROIDERED BANDEAU
+
+French,Louis XV Period
+
+Ground of garnet velvet overlaid with silver embroidery in rich festoons.
+
+Height,1 foot 8inches;length,12feet 3 inches.
+
+Gold fringe.
+- Spanish,Seventeenth Century Heavily embossed embroidery in gold and silver thread and richly colored silks on a ground of soft and light golden-yellow, the designs rich
+- 265-EMBROIDERED FRIEZE foral scrolls and conventional foral figures.
+
+Height,1 foot 11 inches;length,17 feet 9 inches.
+
+- 266-EMBRoIDERED VELVET VALANCE Spanish,Fifteenth Century Garnet velvet embroidered in gold and silver with scroll designs and medallions of initials and monograms. Red velvet fringe.
+
+Height,14 inches;length,7 feet S inches.
+
+- 267-TABLE RUNNER IN DAMASK AND VELVET
+- Italian,Seventeenth Century The damask a light emerald green of rich pattern;paneled at ends with darker green velvet. Length,8 feet;reidth,21 inches. From the Georges Seligmann Collection,Paris.
+- 268-EMBROIDERED SEAT COVER English,Sixteenth Century ered in red outline, and with figures of eight active musicians.
+- White surface, diapered in old-gold with medallion and lattice, embroidLength,49 inches;rwidth,17 inches. From the Georges Seligmann Collection,Paris.
+- 269-RED VELVET EMBROIDERY Spanish, Sixteenth Century Red velvet heavily embroidered in gold and silver and silk threads in expansive foral designs, arranged as a mantelpiece.
+
+Height,50inches;length,6 feet.
+
+- 270-TWENTY-FOUR YARDS OF FIGURED SILK LAMPAS BoRDER French,Eighteenth Century Woven in golden yellows and green on a crimson ground, in design of foriated arabesques.
+
+Width,101/2 inches.
+
+- 271-IMPORTANT LOT OF CRIMSON SILK BROCATELLE Florentine, Seventeenth Century Conventionalized acanthus pattern comprising deep valances trimmed with wide galloon and gold fringe.
+
+Length,66 yards.
+- 272-FLoRENTINE CRIMsON SILK BROCATELLE Sicteenth Century Woven with a bold conventionalized rose and bulb pattern.
+- 273--RARE LOT OF CRIMSON DAMASK
+
+Woven in an uncommon pattern of trees bearing fruit with birds perched on leafy boughs.
+
+Genoese, Seventeenth Century
+
+About 38 yards 25 inches;rwidth,26 inches.
+
+- 274-TWENTY-NINE YARDS OF FLORENTINE CRIMSON SILK BROCATELLE Siateenth Century Woven with large fower vases and arabesques on a clearer crimson ground.
+- 275-SILVER EMBROIDERED CANOPIED VALANCES Venetian, Seventeenth Century
+
+with feather cresting and ribbon festoons furnished with bell-shaped silver reliefed tassels. In various lengths.
+
+Crimson damask embroidered in silver with armorial bearings charged
+
+About 22 yards 12 inches.
+
+- 276-EMBROIDERED CRIMSON GENOESE VELVET CARDINAL'S THRONE HANGING Sixteenth Century
+
+The centre occupied by armorial bearings of a Cardinal. Large velvet panel, framed in a border of silver embroidered with golden-yellow corcentre shows a coat-of-arms. Crimson and gold fringed galloon.
+
+Length,10 feet 3 inches;height,7 feet S inches.
+
+- French,Louis XIV Period Brilliant golden-yellow, finely patterned with bold foral scrolls and leaf
+
+Length, 8 feet;ridth,7 feet 6 inches.
+
+- 277--BROCATELLE BED COVER designs.
+- 278-BROCATELLE CANOPY-BED SET Italian,Sixteenth Century Consisting of one bed-spread, two curtains and two valances. Dark
+- green, patterned in a lattice of formal floral design.
+Kindly read the Conditions under rohich every item is offered and sold. They are printed in the forepart of the Catalogue,
+
+- 279-BROCATELLE BED COVER Italian,Sixteenth Century Green and red brocatelle patterned in leaf scrolls and formal foral designs.
+
+Length,8 feet;width,6feet 9 inches.
+
+- 280-SILk EMBRoIDERED BED CovER Chinese,Eighteenth Century On a ground of rich orange-pink are twelve lions in golden-yellow embroidered within quatrefoils,around which are scrolls of conventional lotus motives in many brilliant hues.
+
+Length,9feet3inches;width,6feet7inches.
+
+- 281-MANILA EMBROIDERED SILK BED COVER Spanish,Eighteenth Century Deep golden-yellow of rich splendor,embroidered in many colors with foral festoons, scrolls and detached fower sprays,and at the centre a radiant medallion.
+
+Length,9feet;roidth,7feet 3 inches.
+
+- Late Italian Renaissance Top arched. Cut and uncut velvet patterned in foral design of large dimensions, on an old-gold ground.
+
+Height,11 inches; width,6 feet.
+
+- 283--RUBY GENOESE VELVET ARCH Italian,Siateenth Century In nine panels divided by gold galloon. Velvet of rich ruby hue, unadorned.
+
+Length,12 feet 6 inches.
+
+- 284-LENGTHS OF CRIMSON SILK DAMASK Italian,Seventeenth Century
+
+Patterned principally in pomegranate and palmette designs. Includes one pair of curtains trimmed with galloon, and two pair of shorter curtains. Very small part changed in the color tone. In various lengths.
+
+Approximately,95yards.
+
+## 285-TWO-TONED OLIVE GREEN CUT AND UNCUT VELVET
+
+Genoese,Late Eighteenth Century
+
+Designed in patterns of conventionalized tulips and scrolled cartouches interspersed with feur-de-lis and quatrefoil motifs on an amber colored ground.
+
+From the Moncalieri Ducal Palace(Turin,Piedmont.)
+
+About 93 yards.
+## ITALIAN,FRENCH AND ENGLISH SILVER
+
+<!-- image -->
+
+286-TALL SILVER LAMP OF CLASSIC FORM
+
+Roman,Seventeenth Century
+
+Urn-shaped, with four masked wick arms surmounted by double handled covered vase. On a circular base repousse with acanthus leaves and engraved with rosetted Renaissance scrolls. Lyre-shaped pierced finial. Chains supplied with snuffers, tongs and wick forks. Hall marked with the Papal Arms of Paul V. About 1630.
+
+- Roman,Eighteenth Century In futed pattern, the lamp proper sliding on a tubular standard which
+
+has a circular spreading base bordered by a repousse molding in leaf design. The three brackets for the lights in the form of angel-heads and the handle ornamented with masks. Equipped with snuffers,extinguisher and cleaning-needle. Bears the Papal hall mark and desig-
+
+Height,23 inches.
+
+Early French
+
+- 287-SILVER THREE-LIGHT LAMP nated 800 fine.
+- 288--SILVER RHYTUM
+
+Shaped as an Etruscan cup on a trefoil body rising through the head of
+
+- a female. A very uncommon creation of the silversmith's art. Hall marked. M. P. Fleur-de-lis of France crested by the Royal crown.
+<!-- image -->
+
+289-SILVER SOUP TUREEN Italian,Eighteenth Century Oval bowl-shaped, surmounted by a spray of pomegranates;on four dragon's claw feet. Lion's head masked ring handles. Interior gilded. Enriched with cartouches bearing the initials F.B." The silver tray with scalloped and molded edge, oval centre. Hall marked.
+
+## 290-MINIATURE SILVER CHANDELIER
+
+French,Seventeenth Century
+
+Six-light,the bobeches seated on scrolled brackets terminating in female busts,and the metal work ornamented with crystal,amber beads and gilt pendants.
+
+Length, 8 inches.
+
+- 291-SILVER STATUETTE Florentine,Late Seventeenth Century Full-length standing figure of a female saint with long curling hair, dressed in a robe chased with a brocaded pattern open at the knee;her hands folded in front of her. On rectangular base with molded cornice, scrolled angles and escutcheon with the coat-of-arms of the Strozzi
+
+family,of Florence,and a Latin inscription.
+
+Height,15 inches.
+
+- 292-TWO FLEMISH SILVER CANDLESTICKS Louis XIV Period Gadrooned tapering octagonal shaft;spiraled above. Molded square base; enriched with scrollings, further gadroons and shell motives.
+
+Height,1014 inches.
+<!-- image -->
+
+## 293-SILVER SOUP TUREEN AND STAND
+
+Oval urn, with two slender loop-handles, enriched with borders of husks, leaves and scrollings in high relief; crested by an eagle with outspread wings and a heron. Hall marked.
+
+Flemish, Eighteenth Century
+
+- 294GEORGIAN SILVER CHOCOLATE PoT English, dated 1805 Vase-shaped, covered with a rich repousse decoration of acanthus scrolls surrounding a centre cartouche. The neck enriched with grape vines, C-scrolls and oak leaf borders. Engraved lipped-cover bearing an urnshaped finial. Curved futed handle. London hall marks, 1805.
+
+Height,1214 inches.
+
+- 295--SOLID SILVER SALVER French,Louis XVI Period Oval, galleried with an openwork border of interlaced scrolls enclosing leaves cut and engraved, its top engraved with a molding of lanceolate leaf-tips and pellets, suggestive of the egg and dart motive. Weight, 1l6 ounces.
+
+Diameter,2514 inches.
+<!-- image -->
+
+296---S1LVERSTATUETTE
+
+Flemish,circa 1805
+
+Standing figure of the Archangel Saint Michael, with wings and habited in Roman armor with mailed corselet,steel helmet with starred spike,and laced buskins. He carries on his left arm an oval buckler and grasps with his right hand a spear. At his feet crouches a toad. On triangular base, with incurved side, serpent-entwined bearded masks and thyrsi at angles, having panels of green veined marble inserted and molded base.Hall marked.
+
+Height,3 feet 6 inches.
+
+Weight, 59% pounds net,reithout three marble pieces of the case.
+## ITALIAN AND FRENCH FORGED IRON
+
+<!-- image -->
+
+- 297--FORGED IRON BAG-RING French,Sixteenth Century A broad fat oval ring decorated with fowers, fruits and a grotesque mask;'underneath it are eleven small loops for stringing the bag. Swivel handle projecting at one point,in the form of the two-headed eagle between openwork scrolls and bearing cartouches in relief. For the bags used for collections in church.
+
+Diameter,61/ inches.
+
+- 298-FORGED IRON SIDE BRACKET Italian,Siateenth Century Handsomely scrolled and voluted.
+- 299GoTHIC IRON FIRE DoG Tuscan,Fifteenth Century Scrolled arched base from which rises a twisted stem with two hooks terminating in twisted torch baskets.
+
+Height,3 feet 7 inches.
+
+## 30O-GOTHIC FORGED IRON TRIPOD STAND WITH SHRINE LAMP Florentine,Fifteenth Century
+
+Octagonal grease tray set above scrolls holding a cylindrical lamp with corrugated surface and low projections in front of the same form; also a double arched window.
+
+Height,15 inches.
+<!-- image -->
+
+- 301-FORGED IRON BRACKET Tuscan,Fifteenth Century Forged in scrolls supporting a cylindrical socket, which is also ornamented with other scrolls.
+
+Height,11 inches; projection,10 inches.
+
+302-PAIR BRONZE ANDIRONS Tuscan, Sixteenth Century On spreading scrolled feet,Ionic columns mounted on square pedestals, the capitals supporting vases with knob finials. On the feet large masks in bold relief. Rich black and green patina. Forged iron log-bars. Unusual.
+
+Height,39 inches.
+
+- 303-THREE FORGED IRON GRILLES Tuscan,Sixteenth Century Each resting on three pairs of scrolled feet. The upper work is finely wrought,but of different design in each, all in scrolls and fowers and each supports a scrolled cresting, above which rests a fower basket. Two baskets are at centre, one is at the end.
+
+Heights,561/,56and 56 inches;eidths,54,54 and 52 inches.
+<!-- image -->
+
+## 304-GOTHIC FORGED IRON FIRE GUARD
+
+Tuscan,Fifteenth Century
+
+Composed of two torch bearing stems on which are pivoted two wrought iron brackets with basket headings; scrolled bases.
+
+Height,3 feet 5 inches;width,3feet 9 inches.
+
+## 305-COPPER BASIN ON FORGED IRON STAND
+
+Tuscan, Fifteenth Century
+
+Basin in verdigris-green with faring rim; on wrought iron stand. Three scrolled arms of the stand embrace the basin and are supported on a short columnar standard which rests on three high and broadly spreading scrolled Gothic feet carrying knob ornamentation. Basin has two wrought iron bail handles.
+
+Diameter,171inches;height,3 feet 6 inches.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+306LARGE BRONZE JARDINIERE AND GOTHIC FORGED IRON STAND Italian,Fourteenth Century
+
+The basin of broad inverted bell-shape, with a faring rim on which rests a rope-spiral of iron. The stand of four arms and two rings on a short column supported on four scrolled legs with upturned feet.
+
+Height,41 inches; diameter,33 inches.
+
+## 307-FORGED IRON FOLDING LECTERN English Gothic,Late Fifteenth Century
+
+Rectangular with crenellated corner towers which serve as feet, the sides of solid church-window formation between spiral rope-moldings. The folding book-rest a fine Gothic grille of the church-window type.
+
+Diameter,14inches.
+<!-- image -->
+
+## 308-TWO GOTHIC FORGED IRON PRICKET CANDLESTICKS Venetian,Fifteenth Century
+
+bulb, on three scrolled and spreading feet, and near the top a shallow and serrated bobeche supported by ribbon scrolls.
+
+Quadrangular standard grooved and curiously twisted, with a faceted
+## ITALIAN BRONZES
+
+<!-- image -->
+
+309-BRONZEMORTAR
+
+Italian,Early Sixteenth Century
+
+Deep bell-shape, with molded and channeled base and rim, and two long monster-head handles projecting at the sides. Surrounded by a relief border of fine scrolls and pendent bunches of grapes. Above this the inscription "QUo FATA vocANT, MDLi.Greenish and silvery patina.
+
+Height,9 inches.
+
+Tuscan,Fifteenth Century
+
+310-GOTHIC BRONZE MORTAR
+
+Inverted bell-shape with rim lightly faring. Ornamented with semicircular ridges and between them with birds, single or in pairs, fanked by lines of bosses. Dark greenish patina.
+
+Height,41/2 inches.
+<!-- image -->
+
+311-FLORENTINE GOTHIC BRONZE CANDLESTICK
+
+Fifteenth Century
+
+Hexagonal shafts, pierced with Gothic trefoiled arches and panels of tracery. Circular molded, saucer-shaped base.
+
+Height,81/2 inches.
+
+From the Fitz Henry Collection,London.
+Kindly read the Conditions under rwhich every item is offered and sold.They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 312-TWO GOTHIC BRONZE CANDLESTICKS
+
+Venetian,Fourteenth Century
+
+On molded bases supporting two-handled urns. Flanked by mask handles. They are engraved with Persian arabesque and Greek key borders in the taste introduced into Venice by the Orientals.
+
+<!-- image -->
+
+313-BRONZE HoRSE
+
+Jean de Bologne; Florentine,Sixteenth Century
+
+A horse in fight, with fowing mane. Lustrous patina.
+<!-- image -->
+
+## 314-MAMMOTH BRONZEMORTAR Italian,Eighteenth Century
+
+In the model of a large inverted bell resting on a spreading base carrying channeled moldings, and expanding lightly to an upright fanged rim. Two large knob handles in the form of female heads. Encircled by grooved rings and relief moldings, one of the latter a running ribbon scroll enclosing forets, another of formal upright leaf pattern. Besides these there is a decoration of detached acanthus leaves, and pendent palmettes. Two panels of inscription, one reading "GuAREscHI FECIT AN 1729."Dark olive patina.
+and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+<!-- image -->
+
+315-MEDIEVAL BRONZE MEDAL BY MATTEO PASTI
+
+Front, low relief portrait of Leo Baptista Albert. Reverse, the signature of the famous Medallist "Opus Matthaei Pasti-Veronensis." Signed.
+
+Diameter,3% inches.
+<!-- image -->
+
+<!-- image -->
+
+316MEDIEVAL BRONZE MEDAL BY SPERANDEO
+
+Fifteenth Century
+
+Front, with portrait in low relief of Andrea Bentivoglio, on the reverse the signature of the famous Medallist. Signed.
+
+Diameter,3/4inches.
+greenpatina.
+
+<!-- image -->
+
+## JEAN DE BOLOGNE
+
+FLORENTINE:SIXTEENTH CENTURY
+
+## 317-BRONZE STATUETTE OF HERCULES
+
+Height,191/ginches
+
+Standing figure of a lusty man, with curly hair and beard. He carries the Nemean lion-skin over his left arm. On scrolled and molded base. Rich deep
+
+Note: Although the figure is standing, there is a fine air of actual movement and life that is compellingly apparent.The base is original, and gives importance to the statuette. As in most cases,the sculptor did not execute the base.
+<!-- image -->
+
+## 318--BRONZE CHESS BOARD
+
+Spanish,Sixteenth Century
+
+Rectangular and folding, the game board proper inlaid in wood and bone, the opposite face bearing a cut brass scroll surrounding a crowned and garlanded monogram from which depends the Golden Fleece. Surrounding both an engraved scroll with blossoms. On the interior a tric-trac board inlaid in mother-of-pearl and green-tined ivory, with surrounding inlays of porphyry.
+
+Length, 91inches.
+
+## 319--BRASS JAR WITH CHISELED ORNAMENTATION
+
+Tuscan,Sixteenth Century
+
+Inverted pear shape, the upper body tapering slightly to a truncate neck. Wide mouth. Two loop handles in scroll form adorned with shields. Brightly polished mirror surface of rich gold and blue. The upper body richly carved with festoons of a great vine in bearing and conventional pendants, under a deep rim border of scrolls and masks. This has a dark background of patination. (Rare.)
+
+Height,9 inches.
+Kindly read the Conditions under rohich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+320-SET OF FOUR GOTHIC BRONZE PRICKET CANDLESTICKS Tuscan,Sicteenth Century
+
+Height,181/2inches.
+
+Columnar, modeled in capstan forms, bulbous, and with spreading bases and grease sockets.
+<!-- image -->
+
+321INDO-PERSIAN BRONZE SALVER
+
+Centre enriched with alto-rilievo medallion of a warrior on horseback fanked by three birds. Surrounded by a border of Cufic inscriptions. Repousse work on a mille-feurs ground.  (Rare specimen.)
+
+Fourteenth Century
+
+Diameter,1412inches.
+<!-- image -->
+
+- 322-TWO JAPANESE BRONZE INLAID TWO-LIGHT CANDELABRA
+
+Elaborate baluster form, of bell shapes and vases, with enlarged base finely molded bobeches. Finely inlaid with blossoms, fowers, and elaborate designs in black, solid gold and silver. Rich, brilliant soft olive patina.
+
+Height,181/2 inches.
+
+- 323-PAIR BRONZE CANDLESTICKS French,Fifteenth Century Of sheet bronze with circular foot, molded, the uprights tubular in hexafoil futing with molded bindings. Traces of original gilding.
+
+Height,6 inches.
+<!-- image -->
+
+324-CHINESE GOLD AND SILVER CLOISONNE BRONZE STATUE OF A LADY OF RANK Ming Period,Fifteenth Century
+
+Upstanding figure of a female deity.She wears jeweled pendants and is dressed in a superb cloak of lapis lazuli, covered with a foral scroll pattern of animals held by bands of gold and silver. The cloak covers her head, which is faced by a scrolled diadem. Signed on the lining of the cloak.
+
+From the Simonetti Collection,Rome.
+
+Height,20 inches.
+Kindly read the Conditions under rehich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+- 325-SILVER PLATED ALTAR SET Italian,Late Renaissance Consisting of a Crucifix and six pricket candlesticks. Baluster standards in vase forms with gadrooned bobeches, the various sections generally triangular, and all with repousse decoration of acanthus scrolls, pendants, shells and cartouches.
+
+Expanding bases with the same designs, resting on three feet.
+
+Height of crucifie,65 inches;candlesticks,42 inches.
+
+326-LARGE BRASS BRASERO Spanish,Seventeenth Century Shallow cauldron shape with spreading convex and molded rim,on three with spreading fat and molded rim.Each part fitted with two mascaron bail handles swinging between dolphin scrolls. Heavy brass coalladle carved in shell-form, the sinuous handle ending in turned knobs.
+
+Diameter,27 inches.
+<!-- image -->
+
+327-PAIR BRONZE TRIPOD CANDLESTICKS
+
+French,Louis XV Period
+
+The tall standard supporting an urn-shape with top fattened, resting angles fattened, and a spreading base. Rich ornamentation, molded and cisele,of conventional fgures,foral scrolls, medallion heads, sera phim, the shell pattern and rich acanthus scrolls. On the base two medallion-heads, and a cartouche bearing the word PAX. Soft patina. Incised mark, showing their manufacture at Paris, 1731.
+<!-- image -->
+
+328-THREE BRONZE STATUETTES, SANSOVINO's SCHOOL
+
+Venetian, Siateenth Century
+
+An Amazon,armed,a Warrior,and Apollo,nude,with his lyre. and blackish patina.
+
+Brown
+
+Height,10 inches.
+
+329-PAIR BRASS TRIPOD PRICKET CANDLESTICKS
+
+Spanish,Sixteenth Century
+
+Three-sided base with repousse ornamentation of scrolls and cartouches, resting on claw-and-ball feet. Above this the turned standard of vase forms displays engraved ornamentation and at the top expands in chiseled futings which droop as they spread.
+
+Height,3feet.
+<!-- image -->
+
+## 330"FALDISTORIUM'IN BRONZE AND FORGED IRON Tuscan,Sixteenth Century
+
+Bell shaped feet and upright arms of vase form with globe finials, of bronze,the balance of the frame of iron. Cushion and wings upholstered in red brocatelle and sheepskin of the period. (Rare.)
+
+Height,34 inches;rwidth of seat,23 inches.
+## SPANISH,FLEMISH AND CHINESE PAINTINGS
+
+## CHINESE
+
+EIGHTEENTH CENTURY
+
+## 331-SET OF FIVE PAINTED ROOM PANELS
+
+Height, 9 feet 5 inches; three panels, 7 feet 7 inches wide, one panel 45 inches wide and one 32 inches wide
+
+Painted on paper in colors. Landscapes with many figures, people in many houses and pavilions, children at games and laborers at work;plowing with water buffalo; ceremonies;houses on lakes. A panorama of Chinese life.
+No.331—SET OF FIVE PAINTED RoOM PANELS
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered
+
+## ALONZO SANCHEZ-COELLO
+
+SPANISH:1515-1590
+
+## 332PORTRAIT OF A DUKE OF SAVOY
+
+Height,74 inches;width,39 inches
+
+Full-length standing figure of a wellpoised man in youthful maturity, with high-tilted ruff, the collar of the Annunziata and the cross of Savoy, and holding a baton. In dress armor with elaborate ornamentation in gold based on the Savoy love-knot. He has large eyes and warm complexion, and light Olivedraperiesin brown chin beard and moustache,and faces the observer. background.
+
+Note:"He painted many portraits of Philip and other members of the royal family. He also painted the Popes, Gregory XIlI and Sixtus V;(and) the Dukes of Florence and Savoy."—Bryan's Dictionary of Painters, Vol.V,p.14.
+
+From the Saluzzo Castle of Verzuolo,Piedmont,Italy.
+No.332-PoRTRAIT OF A DUKE OF SAvOY (By Alonzo Sanchez-Coello)
+
+<!-- image -->
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## ALONZO SANCHEZ-COELLO
+
+SPANISH:1515-1590
+
+## 333-A DUCHESS OF THE HOUSE OF SAVOY
+
+Height,74 inches;width,383 inches
+
+Portrait of a handsome young woman, with features approaching the masculine type, standing and facing the observer, with right hand resting on an armchair at her side, and displaying a ruby thumb-ring. She wears a black velvet gown with golden undersleeves and trimming, a jeweled gold girdle and a double rope of pearls. Pearls adorn her hair, and her face is set off by a narrow pointed ruff. Dark olive background with golden-brown draperies.
+
+Note:"He painted many portraits of Philip and other members of the royal family. He also painted the Popes, Gregory XIlI and Sixtus V;(and) the Dukes of Florence and Savoy.—Bryan's Dictionary of Painters,Vol. V,p.14.
+
+From the Saluzzo Castle of Verzuolo,Piedmont, Italy.
+No. 333-A DuCHEss oF THE HoUSE oF SAvoY (By Alonzo Sanchez-Coello)
+
+<!-- image -->
+## HENDRICK VAN LIND
+
+R0MAN ScH00L:1697-1742
+
+## 334THE EDUCATION OF BACCHUS ON THE ISLAND OF NAXOS
+
+Canvas:Height,5814 inches; width, 831/2 inches
+
+In the foreground a group of figures, including the youthful Bacchus, with the Nymphs Philia and Coronis. On the right of the group is a band of Bacchantes with a dancing faun,and on the extreme right the Nymph Clyda asleep, by her side a Putto playing the cymbals and an attendant pointing to Bacchus. In the middle distance is Silenus on his ass, with an attendant group of Bacchantes. Beyond,a terminal fgure of a bearded deity,and in the distance a building with a sculptured tablet occupied with a subject of a family of Centaurs. These figures are placed in an extensive landscape with trees and rocks,while on the left is a bay of the sea,with the towers of a town on its shore and an arm of the sea in the foreground in which young elephants are bathing,shielded by adults of the herd who form an improvised dam with their bodies.
+
+Signed in the lower left-hand corner: ENRIco FRANco vAN LiND
+
+DI STUDI0 R0MA,1741.
+
+Note: Hendrick van Lind, known as "Studio,"was the youngest son of Peter van Lind, a famous Flemish portrait painter of the seventeenth century.
+
+Hewas born in Antwerp in 1697, and,after studying with the Antwerp painter,Peter van Bredeal, journeyed to Rome, where he remained during his long life. He painted landscapes after the manner of Claude Lorrain,whose rival he was,and later in life excelled in figure subjects,which he finished with the minuteness of a miniature painter.The group of Flemish painters in Rome named him "Studio" owing to his close application to his artistic studies. Examples of his work may be seen in the public galleries of Augsburg, Brunswick and Turin.
+No. 334—THE EDUCATION or BACCHUS ON THE IsLAND or NAXOs
+
+<!-- image -->
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## PETER BREUGHEL
+
+FLEMISH: SEVENTEENTH CENTURY
+
+## 335-A KERMESSE
+
+Panel:Height,1814 inches;length,34 inches
+
+A village green surrounded by buildings, with a tree near the foreground and others in the distance,is a scene of dancing and d games and general merrymaking gby a crowd of villagers with some ladies and gentlemen looking on. From an inn with the sign of the White Swan a man comes out with a jug of wine on his shoulder.
+## EASTERN RUGS AND FLEMISH TAPESTRIES
+
+| 336-PERSIAN RUG Field with dark blue ground patterned with varicolored medallions, fowers and leaves. Border of foral meander in colors on a red ground.   | Early Sixteenth Century Length, 33 inches width,25 inches.                                                                                                                                                                                                            |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 337-PERSIAN RUG                                                                                                                                            | Sixteenth Century Field patterned, on a red ground, with two oval panels formed by curved borders of dark blue ground with foral patternings. Six half panels occupied by varicolored designs of scrolled medallions. Length,3 feet 8 inches; width,3 feet 10 inches. |
+| 338-TAPESTRY PANEL                                                                                                                                         | Flemish,Sixteenth Century L'Oisellerie. Picturing a woman standing, her apron full of birds, a man seated in front of her in lively conversation, and -a boy,pursuing other birds. Interesting fragment.                                                              |
+| 339-SMALL USHAK CARPET                                                                                                                                     | Asia-Minor, Seventeenth Century Centre of a cream background red and blue ornamentation.Wide border of red with blue and cream figures. Length,4 feet; rwidth,3 feet 7inches.                                                                                         |
+| 340MELES RUG colored background.                                                                                                                           | Asia-Minor, Eighteenth Century Woven in conventionalized tree patterns and geometrical and rosetted borders in which dark purples, crimson and blues are on an orange- Length,6 feet 5inches;width,3 feet 11inches.                                                   |
+| 341-CUENCA CARPET border.                                                                                                                                  | Spanish,Seventeenth Century Red background with blue and red medallion centre and blue and red Length,6feet7inches;reidth,4feet 1inch.                                                                                                                                |
+Flemish,Siateenth Century 342-TAPESTRY PANEL Amid a jungle of verdure a stream crosses the landscape in mid-distance, and a man and woman appear in a boat, the woman hauling a net while the man is busy with the anchor. In the foreground a rabbit is ready for a jump, and in the background houses appear.
+
+Height,7 feet 1 inch;width,3 feet 2 inches.
+
+- Seventeenth Century 343-SMALL FLEMISH TAPESTRY Displaying two figures before a background of trees and fowers. Mountain in the distance.
+
+Height,6 feet 10 inches; width,2 feet 10 inches.
+
+- 344—TAPESTRY APPLIQUE ON DARK RED GROUND
+
+Flemish,Sixteenth Century
+
+An escutcheon displaying a shield of bleu-de-ciel and white, with a battlemented castle in brown, surrounded by fire pots in dark blue on a brown ground, the whole encompassed by heavily scrolled acanthus leaves in the several colors.
+
+Height,7 feet 1 inch;width, 6 feet 10 inches.
+
+- 345-RENAISSANCE TAPESTRY CANTONNIERE
+
+Brussels, Seventeenth Century
+
+Cupidons, Flowers and Fruit. Broad borders enriched at intervals with groups and single figures of f fying winged cupidons,interrupted with festoons and clusters of very beautiful fruit and fowers. At the sides are scrolled bands variouslyi inscribed.Executed in extremely beautiful pastel colors on an ivory-tan ground. (Needs restoration.)
+
+Height,10 feet 2 inches;length,10 feet 7 inches.
+
+Depth at crown,2feet 6 inches;width at sides,2 feet 2inches.
+
+## ITALIAN AND FRENCH GOTHIC AND RENAISSANCE FURNITURE
+
+- 346-GREEN-BLUE VELVET STOOL French,Louis XIV Period
+- Quadrilateral. Turned legs and straight stretchers.
+- 347-NEEDLEPOINT BANQUETTE French,Louis XIV Period Carved and gilded wood frame, the legs and all three stretchers heavily scrolled and boldly carved in relief in acanthus motive. Upholstered in needlepoint of conventional design, wrought principally in crimson, blue
+
+and white.
+## 348-RENAISSANCE WALNUT SGABELLO
+
+On shaped trestles of which the front trestle is carved with sea dragons,
+
+## Tuscan, Siateenth Century
+
+surrounding an oval escutcheon above; carved claw-foot supports. Vase shaped back carved with leaves and rosettes and a centre cartouche holding armorial bearings.
+
+Height,3 feet 3 inehes;depth,1 foot 4 inches.
+
+## 349-GREEN VELVET WALNUT ARMCHAIR
+
+On turned supports, covered in cat's-eye green velvet and fringe.
+
+Tuscan, Siateenth Century
+
+- 350COMBINATION PRIE-DIEU AND ARMCHAIR Italian,Late Sixteenth Century Carved walnut frame of X-shape, all the arms and legs scrolled. The chair back swings upward and forward, forming the rest for a prie-Dieu, a step near the foot of the legs at the back supplying a kneeling bench.
+- 351-INLAID WALNUT CUPBOARD
+
+## Northern Italian,Sixteenth Century
+
+Rectilinear, the top with molded edge and inlaid with a border,corners and a central star;under it a cornice of scrolled brackets. Sides and front door paneled in root-walnut and inlaid, and other inlays in front within the stiles. Scrolled feet carved with blossom medallions in relief.
+
+Height, 34 inches; rwidth, 33 inches.
+
+- 352-INLAID WALNUT CABINET-DESK Italian, Sixteenth Century Lift-top and fall-front, revealing four drawers; one door to lower compartment. Front inlaid with geometrical patterns. Soft patina.
+
+Height,33 inches;rwidth,24 inches.
+
+## Ligurian, Late Sixteenth Century
+
+- 353-CARVED WALNUT CABINET
+
+In two portions, the lower part fitted with two centre doors and two drawers. Carved with conventionalized fower and fruit vase arabesques enriched with motifs of dolphin and winged dragons. Stiles designed as futed Ionic balusters, bold lion's claw supports, paneled and carved fower and urns enriched with grape festoons and resting on molded pedestals. Festooned curved frieze, dentilled and molded corner. (Portions restored at later period.)
+
+Height,6feet;width,3 feet 6inches;depth,22 inches.
+## 354CARVED WoOD ARMCHAIR PAINTED AND GILDED
+
+French,Louis XVI Period
+
+Straight arms, molded, armposts and legs tapering and grooved and carved in leaf pattern;corners adorned with blossoms and skirt with scrolls. Painted white with ornamentation gilded. Cane seat and back, and original upholstery silk damask brocaded with silver in foral devices.
+
+- 355-PAIR GILDED WALNUT AND NEEDLEPOINT CHAIRS Florentine, Seventeenth Century Straight backs, molded carved legs, cross stretchers with shell at intersection. Needlepoint, in silks of many colors, on a light ground, with
+
+scrolls, birds, grapes and fowers.
+
+From the Marcuard Collection,Florence.
+
+- Tuscan,Sioteenth Century 356-CARVED WALNUT PRIE-DIEU Conventional form;has drawer, cupboard and chest. On scrolled feet. Top has a scrolled molding in relief, an incised molding and shield pattern within compartments. The entire front displays rich scrolls em-
+- bracing medallions, in relief under a fine patina.
+
+Height,36 inches;width,251/ inches.
+
+- Tuscan,Sixteenth Century
+
+pilasters with caryatids, and the skirt, forming drawer, carved with a chain of cherubim in relief.
+
+- 357-CARVED WALNUT PRIE-DIEU Conventional rectilinear form, the top and kneeling-bench plain. The door of root walnut bounded by a perlé-olive molding. At either side the front of a top
+
+Height,341inches.
+
+- 358-TWO INLAID WALNUT "FRATINA'CHAIRS Florentine,Fifteenth Century Spade-shaped backs, with deep splats inlaid with panel-shaped bands of "Fratina" work. Spade-shaped wooden seats with aprons, also inlaid with Fratina"work, square legs and rails.(Rare.)
+
+359--TWO INLAID WALNUT “FRATINA"CHAIRS
+
+Similar to the preceding.
+
+Florentine,Fifteenth Century
+<!-- image -->
+
+## 360-PAIR CARVED WALNUT STATUES ON TALL PEDESTALS
+
+## Tyrolean,Sixteenth Century
+
+Painted and gilded. Two youths in armor, with no head covering over their elaborately curled hair, standing on small mounded bases. Painted in black and gilded, the faces in naturalistic coloring and the hair brown. On pedestals carved as the trunks of palm trees, painted in a rich brown,and gilded.
+
+Height of statues,451inches;of pedestals,56% inches;total height,8feet 10inches.
+
+From the De Motte Collection, Paris,1922.
+- 361-INLAID DESK French,Louis XVI Period Oblong with quadrilateral tapering legs, one long drawer and two narrow deep ones with open knee-span between.I Inlaid on all sides with scrolls and foral designs in exotic woods.
+
+Length, 351y inches.
+
+- 362--CaRvED WooD PIETA Northern French,Fifteenth Century
+- The Madonna holding on Her knee the body of the dead Christ, an infant standing at Her right. Polychromed and gilded.
+
+Height,2412 inches.
+
+- 363-CARvED WALNUT FIGURE PANEL Italian,Fifteenth Century An arch of a door, and within the open arch a saint holding a prayerbook and a branch of lilies.Above her head rich acanthus carvings. Dark patina and traces of painting and gilding.
+
+Height,4 feet 71 inches; width, 17 inches.
+
+364-CARVED WALNUT TABLE Tuscan, Sixteenth Century Rectangular, the skirt carved with ornamental moldings. One drawer stretchers scrolled on their under side. Dark patina.
+
+Length,35 inches;reidth,33 inches.
+
+- 365-CARVED OAK ARMCHAIR French,Henri IV Period Of rectilinear build, with quadrilateral legs, stiles and stretchers; straight arms with channeled boundary moldings. Between the stiles at top of back a panel of relief carving with grotesque animals fanking a medallion-head.
+
+## 366-NEEDLEPOINT FIRE SCREEN
+
+French,Early Eighteenth Century
+
+A rectilinear panel of gros-point and petit-point, the latter work appearing in an area of irregular outline and presenting a "scene galante," enclosed by formal designs. In a frame of Louis XIV style in black and gold.
+<!-- image -->
+
+## 367TWO TUSCAN CARVED AND GILDED WALNUT PEDESTALS Sixteenth Century
+
+Sgabello-shape; incurved tops with masks, shaped fronts carved with volutes, acanthus leaves, husk pendants, masks and paw feet. Partly gilded.Rare.
+
+Height,4feet.
+
+Note:A similar example is ilustrated in Frida Schottmiller's book of Italian Renaissance Furniture,page 199,edition of 1921.
+
+## 368-PAIR CARVED WALNUT VELVET ARMCHAIRS
+
+Tuscan,Sixteenth Century
+
+Seats and tops of backs in yellow velvet with a light and brilliant sheen. Legs and stiles quadrilateral, the stile tops carved in acanthus motive scrolled. Scrolled arms, broad and plain.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 369--TWO CARVED AND GILDED PEDESTALS
+
+Italian,Seventeenth Century
+
+Sgabello type. The front support, shaped, pierced and carved in relief with a scrolled escutcheon enclosing a coat-of-arms, husk pendants and volutes, is connected, by a scrolled bar with the shaped back support, the inner surface of which is incised with volutes and pendants. These supports terminate in a molded pedestal, the front of which is carved with a lion's mask.
+
+370-WALNUT TABLE
+
+Northern Italian,Sixteenth Century
+
+Rectangular top; paneled skirt; rectangular legs and stretchers, with scrolled brackets and square pedestal-feet. One drawer.
+
+Length,381/inches;width,291 inches.
+<!-- image -->
+
+371--WALNUT CUPBOARD
+
+Tuscan,Siateenth Century
+
+Oblong top, molded; lion-claw feet. Dentil cornice molding and foral base molding. Paneled door with forged iron bail handle. At ends of front pilasters carved in foral motive.
+
+Height,40 inches;rwidth,36 inches.
+
+## 372-TWO CARVED WALNUT AMETHYST VELVET ARMCHAIRS
+
+## Italian Renaissance
+
+Oblong back and seat; covered in deep contemporary amethyst velvet; trimmed with fringe. Back with scroll terminals; fat scrolled arms. On square legs having pierced shaped stretcher.
+<!-- image -->
+
+## 373-WALNUT OcTAGoNAL TABLE Florentine, Siateenth Century
+
+Top plain with molded edge. On four round columns with square bases grouped and resting on an oval base which is supported on four plinths.
+
+Length,45inches;width,33 inches.
+
+Note:A very unusual and dignified type of Florentine Table.
+
+## 374-TWO RoSE VELVET WALNUT ARMCHAIRS
+
+Plain arms, scrolled front bar; gilded finials. Covered in rose velvet, trimmed with green fringe and studded with bronze nails.
+
+## 375-PAINTED AND GILDED SCREEN
+
+Tuscan,Sicteenth Century
+
+Venetian,Eighteenth Century
+
+In a richly carved and molded frame on trestles resting on a shaped oblong platform. The screen panels are painted with vases of fowers in natural colors on a soft jade green ground; carved and decorated on both sides.
+<!-- image -->
+
+## 376-TWO CARVED AND GILDED NEEDLEWORK ARMCHAIRS Italian, Seventeenth Century
+
+On carved scrolled supports molded under framing. S-scrolled arms and arm rests, richly leaf carved. Backs and seats covered in petit and gros-point needlework. The backs with court ladies, the seats with tropical birds worked in petit-point medallions surrounded by grospoint silk needlework of Persian fowers and leaves in brilliant colors on a black ground.
+
+## 377-NEEDLEWORK WALNUT FIRE-SCREEN
+
+French,Eighteenth Century
+
+Arched and molded frame, enriched with ribbon motives, bow-knots and husked terminals. Supported on scrolled feet. The panel solidly embroidered, depicting an autumnal festival in which villagers are gather- ing fruit and generally rejoicing at the result of their crops.
+
+Height,43 inches;width,24 inches.
+<!-- image -->
+
+378-CARVED OAK FOLDING TABLE
+
+French,Early Renaissance
+
+Square base with rails and legs carved with acanthus leaves. Square top, with drop leaves which make a round table when opened.
+
+## 379-INLAID WALNUT CHEST-CABINET
+
+## Northern Italian,Sicteenth Century
+
+Forming a single piece, the upper portion an oblong chest with lid; heavily molded and having interior drawers and compartments at the ends, the lower section a cabinet or cupboard with two doors. Chest inlaid with the arms of a noble Lombardian family, cabinet with geometrical designs. Forged iron bail handles at the ends. On lion-claw feet. Fine patina.
+
+Height,3 feet5inches;length,3feet51inches.
+
+## 380-CARVED WALNUT NEEDLEWORK ARMCHAIR
+
+North Italian, Seventeenth Century
+
+On carved scrolled supports. S-scrolled arms and arm rests. Turned baluster frame with mask carved front rail and carved claw feet.Back and seat covered in petit and gros-point needlework in multi-colors.
+
+Cream background.
+<!-- image -->
+
+381-NEEDLEWORK WALNUT CHAISE LONGUE
+
+Italian,Seventeenth Century
+
+Composed of two bergeres and one banquette. Seats, backs, arms and outside back as well as seat of banquette covered with bands of foriated and beribboned silk needlework in colors on a cream ground. Molded and curved frames on turned futed supports.
+
+Length, 7 feet; reidth,27 inches.
+
+- French,Directoire Period One side high and the back scrolling down to the low side or arm; short scrolled feet.Bronze ornamentation. Upholstered in "lampasse"of ruby hue ornamented with formal patterns in gold; cushion seat.
+
+## 383-TWO FLEMISH TAPESTRY CAQUETEUSES
+
+French,Henri I Period
+
+Turned walnut frame, the back topped by a cresting carved in scroll and shell motives.Upholstered in Flemish tapestry of the Renaissance period, the motives in the seat fowers and fruit, in the back a mask and festoon being added, the colors greens,blues and white on a ground of golden-yellow.
+
+384-TWO FLEMISH TAPESTRY CAQUETEUSES
+
+French,Henri II Period
+
+Turned walnut frame, the seat upholstered in Renaissance verdure tapestry, the motives in the back birds and fowers, with a mask and festoon.
+## 385TWO FLEMISH TAPESTRY CAQUETEUSES
+
+French,Henri II Period
+
+Turned walnut frames,with carved cresting in shell and scroll motive above the back. Upholstered in Renaissance tapestry of soft colors on a ground of golden-yellow, the motives foral; on the seat of one a bird and a balustrade added.
+
+## 386GOBELINS TAPESTRY FIRE SCREEN IN CARVED WALNUT FRAME
+
+French,Louis XV Period
+
+Woven with a cartouche and fowers in light colors enclosed in a blue ground. Frame carved a double-face with shell patterns and leaves; feet scrolled.
+
+Height,3912 inches.
+
+## 387-RENAISSANCE TAPESTRY CANAPE AND TWO FAUTEUILS Louis XIII Period
+
+Oblong back and seat, covered in interesting Flemish tapestry, displaying bouquets and cornucopias of fowers, interspersed with birds on very rich golden-yellow grounds. The frames with bulbous turning on the arms, legs and double stretchers of the Louis XII period.
+
+Length of settee, 40 inches.
+
+## 388-CARVED AND GILDED LANTERN WITH CROWN
+
+Lantern octagonal, surmounted by the royal crown, the base converging to a knob and blossom finial. On the stiles scroll brackets carved with blossom pendants. Hung on a large cartouche-back enclosing a mirror and richly carved with acanthus scrolls and pendants.
+
+Northern Italian,Seventeenth Century
+
+Height,52 inches;width,31 inches.
+
+## 389GOTHIC INLAID WALNUT AND BEECH TABLE
+
+Top oblong and inlaid in stellate and conical forms. Two solid scrolled legs, scrolled feet and plain stretcher. Light patina.
+
+Lombardian,Fifteenth Century
+
+Length,5 feet 1 inch.
+<!-- image -->
+
+## 390CARVED WALNUT CHEST-CABINET
+
+Florentine,Sixteenth Century
+
+Gadroon-molded oblong top, hinged toward back, disclosing a large compartment. The front and ends with curiously molded panels divided into three sections simulating chests, but the two lower ones fitted with drawers, trimmed with bronze knobs. Supported on base molded similarly to the top,having rudimentary claw feet.
+
+Height,32 inches;width,32 inches.
+
+Note:A rare and unusual type of Tuscan cabinet.
+
+## 391PAINTED WooD CuPBOARD Tuscan,Early Sicteenth Century
+
+Upright oblong with fat projecting top and lion-claw feet. Two doors paneled in eight sections each, and having two knob handles. The panels in polychrome with foral scrolls and heraldic devices, the crescent indicating the coat-of-arms of the Strozzi family.
+
+Height,45 inches.
+Kindly read the Conditions under rohich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 392-FERRARESE CARVED WALNUT AND PAINTED CASSONE Italian,Early Siateenth Century
+
+The front and returns paneled and handsomely carved with guilloche and gadroons. Carved bracket base. The front enhanced with a painting depicting a Ducal cavalcade reaching the fortress of Ferrara.The cavalcade is headed by the Ambassador of the Florentine Republic. The envoy appears on horseback in magnificent trappings while he is dressed in full armor engraved with the arms of Florence. He wears a Courtier's hat of black velvet trimmed with gold. He is followed by Knights in Armor on handsomely caparisoned horses. To the left appears the Fortress of Ferrara with its towers,behind which the church spires and domed edifices of the town can be distinguished. At the right can be seen an ideal landscape with a turreted fortified castle.
+
+Height,2 feet;width,1 foot 10 inches;length,5 feet 6inches.
+
+## 393-WALNUT HALL SETTEE WITH BASE
+
+Tuscan,Sixteenth Century
+
+The base plainly molded. Oblong with molded lift-top, the front and ends exhibiting superimposed panels. Back supported on stiles of grooved and reeded pillar design, the square tops having a dentil molding. Between the stiles five vase-formed balusters. Flat top rail with a
+
+Height,451/ inches;length,67 inches.
+
+molded and hinged fold-over.
+<!-- image -->
+
+394-RENAISSANCE SMALL WALNUT TRESTLE TABLE
+
+Florence, Sixteenth Century
+
+On two vase-shaped supports of faring sides faced with corbel studding and terminating in lions' claws. Molded top.
+
+Length,5 feet.6inches;depth,2 feet 3 inches.
+
+Tuscan,Sixteenth Century
+
+395-WALNUT CUPBOARD
+
+Claw and bracket feet, base and top molded; door paneled and having a forged iron drop ring ghandle. Stiles paneled and carved in relief with pilasters of scroll form. One door and one drawer.
+
+Height,41 inches;reidth,39 inches.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 396-CARvED WALNUT CHEsT French Gothic,Fifteenth Century
+
+The whole front a facade of cathedral windows with pointed arches and elaborately ornate Gothic tracery, in finely executed cavo-relievo carving.
+
+Height,30 inches;length,53 inches.
+
+From the De Motte Collection,Paris,1922.
+
+397-CARVED WALNUT TABLE
+
+Tuscan,Sixteenth Century
+
+Oblong top with a brilliant patina, resting on four heavy legs spreading in scrolls from a common centre,below which hangs an inverted-vase drop. The legs deeply grooved, carved with acanthus leaves,and between them the centre also carved in acanthus motive.
+
+Height, 321/2 inches; length,5 feet; reidth,38 inches.
+<!-- image -->
+
+398-WALNUT CABINET
+
+Tuscan,Sixteenth Century
+
+Rectangular top, with chamfered angles s and molded carved edge. Apron fitted with two drawers, body arranged as cupboard, with two hinged doors having wooden knobs. Guilloche carved base and paw feet.
+
+Height,3feet 6 inches;width,5feet 9inches;depth,2feet3inches.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 399-PAINTED CASSONE
+
+- Florentine,Late Fifteenth Century Rectangular hinged lid with molded edge, curved base. Shaped bracket feet and wrought-iron looped carrying handles. Painted,in colors, with a panel of figures in ffteenth century costumes fanked by panels of escutcheons charged with coats-of-arms supported by nude putti.
+
+From the Dal Zotto Collection,Venice.
+
+400-PAIR WALNUT CHANCEL RAILS Italian,Sixteenth Century Flat molded top over a cornice with dentil molding. Supported on a channeled base by stiles carved in conventional leaf pattern. Between the stiles nine balusters turned in vase and ring form and resting on cubic bases carved in front with foral rosettes.
+
+Height,261/inches;length,7 feet(each).
+<!-- image -->
+
+## 401-GOTHIC WALNUT HALL SEAT AND CHEST
+
+Italian,Fifteenth Century
+
+Molded toprail surmounting back,and molded seat front, below which is deeply cut a narrow line of church-window arches. Scrolled arms. Fine preservation. Light patina. Old red velvet seat cushion.
+
+Height,3 feet 111inches;length,6 feet 5inches.
+<!-- image -->
+
+402-WALNUT OVAL TABLE
+
+Molded top. Divisible into two console tables; each with one drawer. Scrolled skirt. Lyre-shaped open legs with scrolled feet. Scrolled stretchers and scrolling underbraces, finely carved. Brilliant patina. Unusual shape.
+
+## 403-CARVED OAK CHOIR STALL
+
+## French Gothic,Fifteenth Century
+
+Height,3 feet 11 inches;length,9 feet 2 inches.
+
+Four seats. Exterior of ends carved with church windows and scrolls, inner sides of seat walls carved in relief with dragons and other animals, birds and scrolls. The miserere seats carved in high relief with conventional figures.
+
+From the De Motte Collection,Paris, 1922.
+
+## 404-CARVED WALNUT BED
+
+Round posts, grooved, reeded and carved in relief with leaves, ribbon scrolls and medallions. Knob finials. Head and foot carved with scrolls, and the head with five open arches and a balustrade. Stretchers carved with ribbon scroll.
+
+Tuscan,Siateenth Century
+
+Height,5 feet7inches;length,7feet 1 inch;width,4feet 2inches.
+
+Tuscan, Sixteenth Century
+
+Greater diameter,721/ inches.
+<!-- image -->
+
+## 405-RENAISSANCE OAK AND WALNUT CABINET
+
+French,Siateenth Century
+
+Oblong on ball feet; in two sections. The upper section a small cabinet with two doors, which are paneled and display a formal decoration of scroll design engraved and filled in with cream-white color, about an inlaid parallelogram. Stiles futed, and between acanthus brackets of the cornice cherub heads in bold relief. The larger lower section has two doors and two drawers, stiles futed as on the upper section and the doors similarly inlaid and colored.
+<!-- image -->
+
+406-CARVED OAK CABINET,PAINTED AND GILDED
+
+Spanish,Sixteenth Century
+
+Upright oblong, of three parts in one piece, the lowest a table with two front legs, solid back and a shelf near the bottom, the midsection closed with a fall-front, and the top section a shrine closed by a door and having external shelves at either side. The fall-front opened reveals two drawers with fronts carved in relief, painted and gilded, and two compartments. The exterior in polychrome on a gold ground with a venerable figure in a medallion, encompassed by scrolls with inscriptions.
+<!-- image -->
+
+## 407-CARVED WALNUT CABINET Ligurian,Sicteenth Century
+
+Rectangular, in two portions. The upper portion, with molded cornice and plain frieze, supported by three caryatids with mask and tapering terminations,arranged as a cupboard with two paneled hinged doors carved with vases of fowers and birds. The lower portion, with two drawers above carved with military trophies,and two paneled hinged doors below carved with scrolls divided and fanked by putti-heads and voluted brackets, arranged as a cupboard. Carved base and bracket feet.
+
+Height,7 feet 7 inches; width,4 feet 7 inches; depth,1 foot 11 inches.
+Kindly read the Conditions under rohich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+408-CARVED WALNUT BEDSTEAD
+
+Italian,Sixteenth Century
+
+On four legs turned in vase form and resting on square molded feet. On top of the quadrilateral upper sections of the legs large turned ornaments in circular form. Stretchers in a grooved and reeded design at either side of a leaf carving. The top has a scrolled cresting intricately carved and at the center a heart-shaped shield surmounted by scrolls. Dark patina. Fine preservation.
+
+Length,7feet;width,5feet;heightofhead,4feet9inches.
+
+## 409-CARVED WALNUT BED
+
+Tuscan,Sixteenth Century
+
+Posts with knob finials, the upper portion spirally twisted and the lower portion in vase and ring motive; feet square. Head and foot carved with scrolls and the head with three open arches supported by twin vase and ring balusters. Stretchers molded.
+
+Height,5feet5inches;length,6feet6inches;eidth,4feet 8inches.
+## THIRD SESSION
+
+THURSDAY AFTERN00N,APRIL 24,1924
+
+## IN THE ASSEMBLY HALL
+
+OFTHE
+
+## AMERICAN ART GALLERIES
+
+BEGINNING AT 2:150'CLOCK
+
+Catalogue Numbers 410 to 608,inclusive
+
+## GOTHIC AND RENAISSANCE VELVET,EMBROIDERIES,
+
+## BROCADES AND NEEDLEWORK
+
+410--EMBROIDERED SADDLE-BAG
+
+Southern Italian,Sixteenth Century
+
+In embroidered relief in gold and rich colors bearing grotesque animals and birds, with conventional designs, and what appears to be running figures.
+
+From the Georges Seligmann Collection,Paris.
+
+- 411-GOLD EMBROIDERED PANEL
+
+Length,49 inches.
+
+Spanish, Sixteenth Century
+
+Figure of a holy character, in a church window, fanked by narrower windows, in gold and colored silks on a golden ground. Framed.
+
+Height,54 inches;length,714 inches.
+
+From the Georges Seligmann Collection, Paris.
+
+- 412-GOTHIC ORPHREY
+
+Italian,Fifteenth Century
+
+Standing figure of a mitred bishop, holding his crozier, in gold and colored silks within a Gothic arch.Framed.
+
+Height,13 inches;width,7% inches.
+
+From the Georges Seligmann Collection,Paris.
+- 413-EMBROIDERED PANEL Spanish,Siateenth Century
+- Gold, silver and silk embroidery on deep crimson velvet,representing
+- in a panel the Virgin and Child, surrounded by scrolls. In case. Height,19 inches;width,131 inches. From the Georges Seligmann Collection,Paris.
+- 414-NEEDLEWORK PANEL Italian,Sixteenth Century
+- The Madonna, seated, with the Child in her arms, in petit-point in soft colors. Height,16 inches; width,13 inches.
+- 415-EMBROIDERED WALL POCKET1 English,Seventeenth Century Four compartments; embroidered with fowers, grotesque animals and a bird in brilliant colored silks;bordered by gold scrolls.
+
+From the Georges Seligmann Collection,Paris.
+
+416-EMBROIDERED CHAPERON Spanish, Fifteenth Century Depicting the Madonna and Child above a Spanish escutcheon; in gold and colored silks on a gold ground. From the Georges Seligmann Collection,Paris.
+
+- 417—EMBROIDERED VELVET VALANCE
+
+Spanish,Seventeenth Century
+
+Rich dark olive velvet overlaid with panels of bleu-de-ciel velvet which are embroidered in gold thread and rich silks with birds, fowers and conventional figures. Jardiniere velvet band at top and deep green fringe at bottom.
+
+Height,2 feet3 inches;length,10 feet 8inches.
+
+- 418-EMBROIDERED SILK BONNET DE CHANTRE Italian,Sixteenth Century Brown silk, embroidered in silver and silks with a half-figure and in-
+
+volved foral scrolls.
+
+From the Georges Seligmann Collection,Paris.
+## 419-SUAIRE SURROUNDED BY EMBROIDERY
+
+Painted in rich colors with tulips,roses and lesser fowers and mortuary symbols. Surrounded by embroidery and metallic filigree, studded with rock crystal and jewels. In case.
+
+Southern Italian,Seventeenth Century
+
+Height, 11 inches; length,16 inches.
+
+From the Georges Seligmann Collection, Paris.
+
+- 420-EMBROIDERED WALL POCKET English, Sicteenth Century Embroidered with birds in pairs, fowers and foral scrollings in varicolored silks on bleu-de-ciel. Paneled border with golden scrolls. From the Georges Seligmann Collection,Paris.
+- 421-EMBROIDERED WALL POCKET English, Sixteenth Century At top an angel, and on the three compartments embroidered reliefs of roses and other fowers, and small stellate designs.
+
+From the Georges Seligmann Collection,Paris.
+
+- 422-FRAGMENT OF EMBROIDERY Swiss, Sixteenth Century Framed, and depicting a fully clad woman at a well, with fowers back of her and indications of another figure on the opposite side of the well. Height,201 inches; reidth,17 inches. From the Georges Seligmann Collection,Paris.
+- 423-NEEDLEWORK PANEL OF TWO FIGURES
+
+English, Sixteenth Century
+
+In gros-point and petit-point, two standing figures, a man and a young woman of naive expression, in greens and golden-yellow, blue and red. Framed.
+
+Height,81/inches;width,414 inches.
+
+From the Georges Seligmann Collection, Paris.
+
+424-NEEDLEPOINT PANEL French,Siateenth Century Involving in a profusion of fowers a medallion picturing the happy meeting of two people, a dog sharing in the joy of the occasion. In neutral colors. Framed.
+
+Height, 16 inches; reidth,16 inches.
+
+From the Georges Seligmann Collection,Paris.
+- 425-SILK AND GOLD EMBROIDERED PANEL ON RED VELVET Italian, Fifteenth Century Depicting the Visitation of the angel Gabriel to Mary, in two figures at three-quarters-length, standing at either side of a vase of lilies. Framed. Height,15 inches;length,171% inches. From the Georges Seligmann Collection,Paris.
+- 426-NEEDLEWORK PANEL Italian, Seventeenth Century Conventional foral and geometrical figures and a bird,in various colors on an olive-yellow ground.
+
+Height,4feet 1 inch;length,7feet 3 inches.
+
+- 427-EMBROIDERED CHAPERON Spanish, Early Sixteenth Century Embroidered in colored silks on a ground of gold embroidery with a bearded figure seated on a bishop's throne, holding before him, with face to the observer, a large crucifix. The hood of a cope, in a shieldframe.
+
+From the Georges Seligmann Collection,Paris.
+
+Height,16 inches.
+
+- 428-EMBROIDERED VALANCE Italian,Sixteenth Century Broad golden scroll in an interwoven lattice pattern, with fine tendrils, on a crimson ground. Bordered with a gold fringe. Height,2feet 2inches;length,6 feet 9inches. From the Georges Seligmann Collection,Paris.
+- 429-EMBROIDERED TABLE COVER Italian,Sixteenth Century Floriated medallion at centre depicting the crucifixion, and a brilliant display of fowers in the border in gold and vari-colored silks on white. From the Georges Seligmann Collection,Paris.
+- 430-EMBROIDERED SILK BONNET English, Sixteenth Century White silk futed; embroidered in colors with delicate fowers. Bordered with silver galloon.
+
+From the Georges Seligmann Collection,Paris.
+- 431-SILK AND VELVET CUSHION Venetian, Fifteenth Century Blue velvet cut and having a delicate sheen, on a drap d'argent ground. Both sides alike.
+
+From the Georges Seligmann Collection,Paris.
+
+Length,15 inches.
+
+- 432-TWO EMBROIDERED SILK CUSHIONS French,Seventeenth Century Decorated with festoons, musical instruments, and reclining figures in pastoral scenes. Length,26 inches;rwidth,19 inches. From the Georges Seligmann Collection,Paris.
+- 433-PAIR OF MEDALLIONED SILK CUSHIONS French, Seventeenth Century Brilliant tan ground, embroidered in delicate colors with foral designs, and figures who are apparently sharpening knives on a wheel.
+
+From the Georges Seligmann Collection, Paris.
+
+Length, 18 inches.
+
+- 434-EMBROIDERED WALL POCKET English-Jerwish, Sixteenth Century Embroidered in colors and gold and silver, with figures, animals, birds and fowers, on a dark blue ground. Between the panels, Hebrew characters.
+
+From the Georges Seligmann Collection, Paris.
+
+- Italian,Sixteenth Century
+- 435-EMBROIDERED PANEL Embossed decoration of conventional design, of birds and fowers. Height, 24 inches; length, 69 inches. From the Georges Seligmann Collection,Paris.
+- 436-GOLDEN BROCADED TABLE COVER
+
+Venetian,Sixteenth Century
+
+Brocaded in rich foral pattern with intervening scroll designs, the whole in delicate color in red relief on a ground of cloth of gold and silver.
+
+Length,74 inches;rwidth,39 inches.
+
+From the Georges Seligmann Collection, Paris.
+- Italian, Seventeenth Century 437-EMBROIDERED FRIEZE In silks of brilliant colors a boar hunt is pictured,and also a shepherd and his fock. In the background are castles and mountains; scattered through the composition are many fruit trees in bearing.
+
+Height,22 inches;length,82 inches.
+
+From the Georges Seligmann Collection,Paris.
+
+- Italian, Seventeenth Century
+- 438-SILK EMBROIDERED PANEL A brilliant mass of foral embroidery on a drap-d'or ground. Height,5feet 9inches;length,3feet 5inches. From the Georges Seligmann Collection,Paris.
+- 439-GoTHIc EMBRoIDERED ORPHREY German,Fifteenth Century Embroidered in silks of soft colors with a crucifix, and numerous figures.
+- Length,35 inches. From the Georges Seligmann Collection,Paris.
+- 440-EMBROIDERED ORPHREY Spanish,Sixteenth Century Five figures of saints in panels, in gold and silver and polychrome silk embroidery.
+
+From the Georges Seligmamn Collection,Paris.
+
+- 441-VELVET AND CLOTH-OF-GOLD TABLE COVER Italian,Sixteenth Century Detached foral figures in a rich and fine foral design, woven in velvet
+
+with a ruby sheen on a sparkling drap d’or ground.
+
+Length,58 inches;rwidth,32 inches.
+
+- 442-EMBRoIDERED VELVET VALANcE Spanish,Sicteenth Century Soft olive-green velvet with a light sheen, trimmed with gold galloon and embroidered with an escutcheon;at ends emerald velvet panels embroidered in blue and white and golden-yellow with dolphin and lamp scrolls.
+
+Height,2feet 4 inches;length,6 feet 2 inches.
+
+- 443-EMBROIDERED VELVET WALL PANEL Spanish,Siateenth Century Old drap d'or silk embossed with velvet of a soft red in richly elaborated foral designs, further adorned with fine lines of gold embroidery.
+
+Length,12 feet 8 inches;vidth,1 foot 8 inches.
+## 444FOUR VELVET AND EMBROIDERED CUSHIONS
+
+Spanish,Sixteenth Century
+
+In dark gray velvet. A bishop's coat-of-arms heavily embroidered in gold, silver and silks, and surrounded by very elaborate scrolls.
+
+Length,20 inches; rwidth,17 inches.
+
+From the Georges Seligmann Collection, Paris.
+
+- 445-THREE GENOESE CUT AND UNCUT PURPLE VELVET CUSHIONS Early Sixteenth Century Worked in an all-over pattern of leaves and quatrefoil designs. Golden yellow silk galloon and four canopied tassels. Original state.
+
+18 inches by 24 inches.
+
+- 446-PAIR VELVET AND GOLD EMBROIDERED CUSHIONS Spanish,Sixteenth Century
+
+Ruby velvet, embroidered in gold on golden-yellow, with the monogram I. H. S. within a medallion, encircled by scrolls and animal grotesques. Bordered in emerald velvet of the same period, cut with scroll designs.
+
+## 447-PAIR VELVET AND GOLD EMBROIDERED CUSHIONS
+
+Spanish, Sixteenth Century
+
+Ruby velvet,embroidered in gold on golden-yellow,with a vase of fowers within a medallion, encircled by scrolls and animal grotesques. Bor- dered in emerald velvet of the same period, cut with scroll designs.
+
+## 448PAIR VELVET AND GOLD EMBROIDERED CUSHIONS
+
+Spanish,Sixteenth Century
+
+Ruby velvet, embroidered in gold on golden-yellow, with a vase of fowers and animal grotesques. Emerald velvet border.
+
+- 449PAIR VELVET AND GOLD EMBROIDERED CUSHIONS Spanish,Siateenth Century Similar to the preceding.
+- Sixteenth Century 450-VENETIAN BROCADE TABLE COVER
+
+Silver and gold Venetian brocade on cloth of silver ground, and bordered by gold galloon.
+## 451-GOLD EMBROIDERED AND BROCADED ECCLESIASTICAL SET Venetian,Louis XV Period
+
+Consisting of chasuble, stole, maniple and chalice cover,worked in silver and gold threads in arabesques on a brocade with sky blue ground. Inscribed,"Sacristi dell Anno 1743."
+
+- 452-BROCADED DRAP D'OR ECCLESIASTICAL SET Venetian,Sixteenth Century Composed of a chasuble, maniple, stole and chalice cover; woven in crimson palmette pattern on a gold ground. Figured gold galloon.
+- 453-CHASUBLE AND STOLE French,Directoire Period Royal purple silk. Heavy gold embroidery in rich design, birds holding scrolls and garlands of fowers, classical vases and baskets of fowers. From the Georges Seligmann Collection,Paris.
+
+## 454--SILK AND GOLD BROCADE CHASUBLE
+
+Venetian,Early Sixteenth Century
+
+White, brocaded in ruby and gold with pomegranate trees and other foral designs, interspersed with swans and cupids, in a gorgeous display of ornamentation in the spirit of the Gothic working with Renaissance beauty and luxuriance.
+
+From the Georges Seligmann Collection,Paris.
+
+- 455-DAMASK AND EMBROIDERY DALMATIC AND CHASUBLE Spanish,Sixteenth Century
+
+Emerald damask patterned in conventional design,with borders and orphreys of apricot silk embroidered with silk of various colors and gold and silver thread.
+
+## 456-SADDLE-CLOTH AND PAIR OF HOLSTERS
+
+Italian,Seventeenth Century
+
+In rich blue velvet, adorned with brilliant silver galloon.
+
+From the Georges Seligmann Collection,Paris.
+<!-- image -->
+
+## 457-PETIT-POINT NEEDLEWORK PANEL
+
+Italian,Sixteenth Century
+
+Rectangular, worked in colored wools and petit-point stitch, with scrolled octagonal medallion occupied by subject of Christ Washing His Disciples' Feet, fanked by subjects of Christ in the Garden of Gethsemane and Christ sinking under the burden of His Cross. Angels above, and trees, birds in landscapes.
+
+Height,2 feet 8inches;width,9 feet 8inches.
+
+Genoese, Sixteenth Century
+
+458-VELVET TABLE COVER
+
+Velvet of rich aubergine hue with a brilliant sheen. In fine condition, Bordered with gold galloon.
+
+Dimensions,6 feet 2 inches square.
+
+459-VELVET TABLE COVER Italian,Fifteenth Century On a golden ground of silk a pattern wrought in golden-olive and emerald velvet, its designs foral scrolls enclosing conventional foral figures.
+
+460-VELVET TABLE COVER
+
+Length,5 feet;rwidth,21 inches.
+
+Italian,Sixteenth Century
+
+Velvet of a delicate sky-blue with a dazzling sheen. Paneled and bordered in gold galloon.
+
+Length,7 feet 6 inches;width,3 feet 2inches.
+
+## 461-TABLE COVER IN SILK AND SILVER BROCADE
+
+Italian,Sixteenth Century
+
+On a ground of soft apricot hue,patterned in palmate and other foral designs, an enrichment in broad areas wrought in silver thread. Bordered with silver fringe.
+
+Length,4 feet 11 inches;width,3 feet 6inches.
+- 462-TWO VELVET CUSHIONS Italian,Sixteenth Century Cloth-of-gold silk ground and cut and uncut ruby velvet, having a brilliant sheen. The designs foral and in scrolls.
+- 463-BROCADE TABLE COVER Venetian,Louis XV Period Woven with patterns of serpentines and roses in soft tones on a jadegreen ground. Trimmed with gold galloon.
+
+Two lengths:51 inches long;20 inches wide,totaling 2 yards 30 inches.
+
+- 464-RENAISSANCE GOLD BROCADE HANGINGS
+- Venetian,Siateenth Century Worked with a repeating pattern of fower vases in reserves, framed in scrolled cartouches crested by ducal coronets, gold bullion fringed galloon.
+- 465-RUBY-RED VELVET COVER Genoese, Sixteenth Century Trimmed with broad bands of figured gold galloon. Four lengths,3 yards 3 inches long,19 inches wide;totaling 12 yards 12inches.
+- 466-EMERALD-GREEN CUT AND UNCUT VELVET COVER
+- Early Renaissance,Fifteenth Century Trimmed with gold galloon.
+
+Teo lengths,1 yard 22 inches long,19 inches eide.
+
+- 467JADE-GREEN VELVET COVER Genoese,Late Sixteenth Centuru Trimmed with gold lace. 3812 inches by 34 inches.
+- 468-TWO ROSE-DU-BARRY VELVET HANGINGS French,Eighteenth Century Enriched with an all over pattern of morning glory blossoms on a
+
+pekined ground. Figured gold galloon.
+
+Three lengths:2 yards11 inches long;22 inches wide; totaling 6 yards 33 inches. Three and one-half lengths:2 yards 5 inches by 22 inches wide;totaling 7 yards
+
+17 inches-altogether,14 yards 14 inches.
+
+- 469-CUT AND UNCUT CRIMSON VELVET TABLE COVER Florentine,Siateenth Century Worked with foral arabesques and scrolls with medallions containing the conventionalized lilies of Florence on a drap d'argent; tasseled and fringed. 1 yard 19 inches by 24 inches.
+<!-- image -->
+
+470BROCADE PANEL,AFTER LASSALLE
+
+French,Eighteenth Century
+
+Under a canopy executed in gold and colors on a ground of French gray, an elaborate pedestal design with festoons, supporting fowers; seated satyrs uphold a panel of many figures, and on top of all an allegorical figure holding a scroll and a pen.
+
+Height,7 feet 11 inches;width,4 feet. From the Georges Seligmann Collection,Paris.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 471-PAIR OF EMBROIDERED VELVET PANELS
+
+Rich ruby velvet, heavily embroidered with finely designed and bold foral scrolls in old gold. At the centre of the great field a cardinal's coat-of-arms in silk, with a silvered shield on which three heads appear, and below it the motto "Fide Ae Virtute." Notable fabrics of departed splendor and ecclesiastical magnificence, which were used to hang back of the cardinal's throne.
+
+Spanish,Seventeenth Century
+
+Height,10 feet 8 inches;reidth,8 feet.
+No. 47l-PAIR oF EMBRoIDERED VELVET PANELs (Spanish,Seventeenth Century)
+
+<!-- image -->
+## 472-CUT AND UNCUT AND FIGURED BLUE GREEN VELVET Venetian,Fifteenth Century
+
+On a drap d’or ground. This piece for the harmony of its scrolled design and for the uncommon technique of a subtle figure appearing in the uncut parts of the fabric is worthy to be considered a masterpiece of the great Italian velvet maker's art.
+
+Length,1 yard 6 inches;rwidth,191inches.
+
+- Genoese, Sixteenth Century 473-EMERALD-GREEN TABLE COVER Trimmed with gold galloon.
+
+25 inches by 42 inches.
+
+- 474-CRIMSON VELVET CoVER Genoese, Sixteenth Century In fine state of preservation, trimmed with gold galloon.
+
+Totaling 91 yards. Four lengths,each measuring 2 yards 14 inches long,20 incheswide.
+
+## 475-LOUIS XV CUT AND UNCUT VELVET HANGING
+
+## French,Eighteenth Century
+
+Composed of bands cut with stripes, serpentines and forettes framed in a broad band of foral arabesques and ribbons. Gold galloon.
+
+Totaling 6 yards 12 inches. Twolengths,2 yards 4 inches by 21 inches.
+
+French,Eighteenth Century
+
+Cut in the most imaginative manner. The bottom enriched with motifs of two gentlemen in Louis Seize costumes at duel in the Tuileries Gardens; with a background of gates, arcaded buildings, obelisks, monuments,bridges with balustrades and a continuous border representing fortifications. The upper portion is composed of bards of wreaths. Figured gold bullion border and very uncommon fringe.
+
+Long band 4 yards 23 inches in length and 37 inches in height.
+
+## 477LARGE PURPLE VELVET THRONE HANGING
+
+Genoese, Seventeenth Century
+
+The border enriched with application of cream-colored wreaths studded with spangled sequins of a later date.
+
+Totaling10 yards.
+
+1 yard 29 inches long;3 yards 19 inches wide.
+## GOTHIC AND RENAISSANCE FORGED IRON
+
+<!-- image -->
+
+## 478-GOTHIC FORGED IRON ANDIRON
+
+## Florentine,Fifteenth Century
+
+On shaped arch base, fitted with two hooks and crowned by torch guard of most uncommon design. Composed of beaded columns between which are placed small bronze balusters.
+
+Height,3 feet 2 inches.
+
+## 479GOTHIC FORGED IRON TRIPOD CANDELABRUM
+
+Tuscan,Fifteenth Century
+
+On fat and spreading legs, with wedge-shaped feet,a quadrilateral standard with chamfered corners. This supports three serrated revolving bands, the lower one a solid tray.
+
+Height,5 feet.
+
+## 480-TWO RENAISSANCE FORGED IRON PRICKET CANDLE BRACKETS Florentine,Sixteenth Century
+
+The arm four sided, extending straight from the wall for a certain distance and then scrolling gracefully to the grease tray and pricket. Above, another fat arm scrolled and at its end a circular band. On top of the lower arm the trefoil lily, a tendril and a four-leaved clover.
+
+Height,14 inches;projection,141 inches.
+and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+- Tuscan,Late Fifteenth Century On cylindrical base crested by shell-shaped rim on which rest three dolphins clustered around a.rectangular centre support. Above are two shell-shaped bowls which are enriched by grotesque masked founEnrichments of tapering pilasters and leaf ornaments.
+- 481-FORGED IRON FOUNTAIN tain heads. The top is composed of a large shell bowl.
+<!-- image -->
+
+482- GOTHIC FORGED IRON AND BRONZE PRICKET CANDLESTICK
+
+Italian,Fifteenth Century
+
+The pointed standard quadrilateral, with chamfered corners, and carrying an octagonal grease basin; based on three broad and fat heavily scrolled feet. The upper arc of the feet ornamented with bronze leaf patterns and midway of the standard a bronze bulb.
+
+Height,4feet.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+- 483-FORGED IRON BRACKET Tuscan, Early Sixteenth Century From a broad wall strap an arm scrolled in floral style, supporting two fowers, and two buds, upholds a large semi-globular socket formed of strips of iron.
+
+Height,22 inches;projection,14 inches.
+
+## 484-GOTHIC FORGED IRON TRIPOD CANDLE STAND
+
+Straight rod with bulbous enlargements, springing from three spreading feet with pointed toes,its upper section spirally twisted and supporting a scrolled socket. Near the top two revolving fat rings.
+
+Italian,Fifteenth Century
+
+Height, 6 feet 6 inches.
+
+- 485--IRON AND COPPER BRAZIER Italian,Siateenth Century Circular, with straight sides. Copper brazier tray with molded straight sides, wrought-iron swinging looped handles and rectangular opening (Rare.)
+
+Height,28 inches;diameter,23 inches.
+
+Note: This very remarkable brazier was used by the soldiers attached to the Verzuolo Castle to warm their feet, which they placed inside, the hot coals being above.
+<!-- image -->
+
+## 486TWO GOTHIC FORGED IRON TRIPOD CANDLE STANDS Italian,Fifteenth Century
+
+The standards iron rods set on three spreading feet with pointed toes, adorned at intervals with bulbs, the upper sections twisted and supporting four-pointed sockets bound with a band. Set near the top are two revolving fat rings of different size, with pendent loops spirally twisted.
+
+Height,6 feet 5 inches.
+Kindly read the Conditions under rohich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+487-TWO FORGED IRON AND BRONZE CANDELABRA
+
+Italian,Sixteenth Century
+
+Open scrolled and spreading lyre-shape; enriched with jardiniere of fowers, leaf scrollings and rocaille motives. Seven sockets for lights.
+<!-- image -->
+
+488-IRONFIREBACK
+
+German,Sixteenth Century
+
+Round-arch form, with projecting angular-arch fanks. Dated at the top, 1566. Quartered, the two upper quarters charged with nude female figures holding respectively the Dove of Peace and the Scales of Justice, and surrounded by scrolls bearing inscriptions. In the two lower quarters two draped female figures,standing and facing each other, somewhat belligerent, with a confict of animals of the wild below and between them. These figures also are surrounded by inscribed scrolling streamers.
+
+Height,32 inches;reidth,27% inches.
+Kindly read the Conditions under rehich erery item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 489-FORGED IRON FIRE GUARD
+
+Florentine,Late Fifteenth Century
+
+Two highly ornate stiles, fashioned with varied ornaments and two large pendent rings, support at the top two fower baskets and a quadrilateral cross-bar with crestings of serpentined scrolls. A lower crossbar is graced with strap work and scrollings. Below the crestings are swinging arms on the stiles each supporting a basket and a foral spray and carrying a long hook.
+
+Height,62inches;width,61 inches.
+No. 489-FoRGED IRoN FIRE GUARD (Florentine, Late Fifteenth Century)
+
+<!-- image -->
+Kindly read the Conditions under which erery item is offered and sold. They are printed in the forepart of the Catalogue
+
+## 490--FORGED IRON FOUR-POST BEDSTEAD
+
+Florentine,Siateenth Century
+
+Rectilinear frame supported on four arched legs. The tall posts are wrought in ornamental form and support quatrefoil lilies as finials. Round stretchers beneath the lilies. The back formed of two plain stretchers,between which extend six slender balusters forged in conformity with the posts.
+
+Height, 8feet 7 inches;length, 7 feet 5 inches; idth,5 feet 11 inches.
+No. 49O-FoRGED IRoN FoUR-PosT BEDsTEAD (Florentine, Sicteenth Century)
+
+<!-- image -->
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## BRONZES
+
+<!-- image -->
+
+491-TWO BRONZE CAULDRONS
+
+Persian, Thirteenth Century
+
+Large pear-shape, on three short pointed feet. Four ring handles swinging from animal-mask loops. Flat, expanding rims, sectional, and adorned with foral scrolls in cavo-rilievo. Black and dark grayishgreen patina.
+
+Heights,151/and 161/inches;diameters,18and 19 inches.
+
+From the De Motte Collection,Paris,1922.
+<!-- image -->
+
+492-GILDED BRONZE MUSIC REST French,Fifteenth Century
+
+Rectilinear, springing from the top of a rectangular arch the channeled molding of which is occupied on both obverse and reverse by garlands of oak leaves in relief. The rest proper is finely engraved with oak branches, scrolled about a figure of Music bearing a lyre and around four pierced medallions of tracery. Reverse also ornamented.
+
+Length,12inches.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+493-BRONZE STATUE ON OBLONG BASE
+
+Chinese, T'ang
+
+Seated Buddhistic figure of Kuan-yin, seated, with left leg crossed to her right knee and nude infant perched on her left knee. Her robes are finely molded and her bare breast is adorned with a jeweled necklace supporting four pendants. Her features are of fine modelling and she wears the tiara and cowl. Vestiges of ancient polychrome, gilding and soft dark patina. Height,42 inches.
+
+494-BRONZE INKSTAND
+
+Dutch,Sixteenth Century
+
+Globular, the cover surmounted by a nude figure bearing a scroll, the body of the inkwell resting on the backs of two nude kneeling men, based on a bronze plinth with chamfered corners bounded by a channeled molding. Soft and brilliant patina.
+
+Height, 12 inches.
+<!-- image -->
+
+495-REPOUSSE COPPER FROG BY ANDREA BRIOSCO (RICCIO DA
+
+## PADUA) Paduan,Sixteenth Century
+
+The head hinged, opening to a capacious receptacle formed of the huge body of the batrachian. Eyes enameled.Surface incised in remarkable representation of the frog's skin and the patina varying from brass hue to copper-brown and black.
+
+Height,231/2inches.
+
+Note:A similar frog in the Kaiser Friedrich Museum in Berlin is illustrated in Dr.Bode's Die Italienischen Bronzestatuetten der Renaissance, figure 48.
+
+From the Spinelli Collection,Florence.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 496-SET OF TWELVE RoMAN BRONZE BUSTS BY PIETRO TACCA (1577-1650) Seventeenth Century
+
+Bust portraits of Roman Emperors on molded incurved pedestals with a reddish gold patina. On cylindrical pedestals,with molded feet and square bases, of red porphyry.
+
+Height of busts,1l inches.
+
+Note:These bustswere till 19os in the library of the Barberini Palace.MaffeoBarberini,who as Pope Urban VI11 (1623-1644) strengthened the fortifications of Castle St. Angelo,removed,in order to make cannon,the massive bronze tubular girders from the portico of the Pantheon.It was this that led to the famous epigram of Pasquin:"Quod non feceruntBarbari,feceruntBarberini."
+
+From Prince Barberini Collection of Rome.
+No. 496-SET OF TWELVE RoMAN BRoNZE BuSTS BY PIETRo TAcCA
+
+<!-- image -->
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+497-BRONZE DEEP BoWL
+
+Persian, Thirteenth Century
+
+Ovoidal on three short tapering feet; narrow and fat spreading rim adorned with scrolls and having four expanding sections with animal ornamentation. Two upright loop handles. Black patina.
+
+Height,16 inches; diameter,23 inches.
+
+From the De Motte Collection,Paris,1922.
+
+- 498-BRONZE DEEP BoWL
+
+Persian,Thirteenth Century
+
+Ovoidal on three short pointed feet,with a fat rim springing from below the lip.The rim has an elaborate scroll ornamentation in cavorilievo. Two upright loop handles with blossom finials. Brownish-black patina.
+
+Height,15 inches;diameter,211/inches.
+
+From the De Motte Collection,Paris,1922.
+<!-- image -->
+
+## 499-PADUAN BRONZE INKSTAND BY BARTOLOMMEO BELLANO Venetian,1430-1500
+
+Figure of bearded Satyr on horseback, holding in one hand a spear, in the other a cornucopia. Triangular base, with scrolled rim and voluted console feet.
+
+500-BRONZESTATUETTE
+
+Height, 61 inches.
+
+Venetian,Sixteenth Century
+
+Standing figure of Mars, on an old alabaster pedestal. Dark olive patina.
+
+Height,16 inches.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 501BRONZE INLAID MUSICAL CLOCK AND BRACKET French,Louis XIv Period
+
+Face and works marked Arnould,Horloger a Nancy and case stamped
+
+"N.E.,"initials of Master ébeniste.Both clock and bracket chiseled with rich ornamentation in acanthus leaf and scroll motives;on fanks of base winged monsters and at centre a female figure seated and holding an umbrella. Top surmounted by a seated male figure. Rich foral decoration incised and filled in with enamels and mother-of-pearl.
+
+Height,complete,5 feet9 inches.
+
+Note: A clock similar to this, but not so large, is in the Civic Museum of Turin.
+
+This very exceptional example of French craftsmanship was a Royal gift to Marquis Benedetto della Manta.
+No. 5O1BRONZE INLAID MUSICAL CLOCK AND BRACKET (French,Louis XV Period)
+
+<!-- image -->
+Kindly read the Conditions under which erery item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+502--BRONZE EQUESTRIAN STATUETTE BY BARTOLOMMEO BELLANO Venetian,1430-1500
+
+Representing Marcus Aurelius astride a stallion in spirited posture, poised on a triangular base bordered with chiseled scrolls in relief and supported on three mask feet. Finely modeled and chiseled. Brilliant light brownish patina.
+
+Height,8inches.
+## ITALIAN CAFAGGIOLO,CASTEL DURANTE,CASTELLI AND
+
+## URBINO MAJOLICAS
+
+<!-- image -->
+
+503--LUSTRE GUBBI0 DISH
+
+Italian,Early Sixteenth Century
+
+Shallow and ovoidal, faring from an oval foot. Modeled with leaves in relief pressed up from beneath;between them small bosses as a part of conventional painted figures. At the centre a mounded medallion with the figure of the infant Saint John in relief. Glazed in pale yellow, pale rose, blues and orange, and beautifully lustred. An important specimen, obviously in the manner of Maestro Giorgino.
+
+Diameter,7 inches.
+
+From the Fairfax Murray Collection,London.
+506
+
+<!-- image -->
+
+504
+
+<!-- image -->
+
+## 504URBINO MAJOLICA PLATE
+
+## 505-MAJOLICA ALBERELLO
+
+505
+
+<!-- image -->
+
+- Italian,Sixteenth Century Orpheus and Cupidon. Shallow oval cavetto and broad faring marli which has a molded and beveled rim.Decorated in characteristic hues of yellow, orange, green, blue and white with panels of imbrications and panels bearing conventional scroll figures. Within the cavetto an allegorical composition representing the powers of music.
+
+Diameter,15%4 inches.
+
+- Urbino,Sixteenth Century Cylindrical,with incurvate sides,broad shoulder and underbody,short foot and embryonic neck.Decorated with an angel seated under a tree and the buildings of a city by the sea. Rich in blues, yellows, orange and green. Has an inverted inscription: INLE coNEIDo.
+
+Height, 111/ inches.
+
+- 506-MAJOLICA ALBERELLO Castel Durante,Siateenth Century Gently incurvate sides, slightly spreading foot, sloping shoulder and embryonic neck. Brilliant gray-white glaze with light-brown crackle, carrying a decoration of a dog leaping toward a bird among fowers, on a spotted ground,and in an oval medallion the standing figure of a mitred bishop holding a dish of fruit and his crozier.
+
+Height, 12 inches.
+<!-- image -->
+
+507--MAJOLICA VASE BY D1OMEDE DURANTI Roman,circa 1600
+
+dolphin scroll handles. Decorated in rich yellows and blues with subject Christ's Entry to Jerusalem. Our Lord riding an ass followed by sevreverse in soft blues with a mythological subject. On foot is a label with Latin quotation from Matthew XXI, verse 5.
+
+Unusual size. Ovoidal on a spreading foot, with faring lip and two eral personages on foot, a man in a tree overlooking them, and on the
+<!-- image -->
+
+508-HISPANO-MORESQUE PLAQUE
+
+Fifteenth Century
+
+The entire surface, both superior and inferior, brilliantly glazed, decorated and lustred. On the faring rim trefoils in relief on a ground of scrolls, the straight sides of the cavetto a real or simulated inscription, and on the bottom of the interior, which has a spirally futed boss, other formal decoration; all in brilliant lustre on a cream ground.
+
+Diameter,16 inches.
+
+From the Fairfax Murray Collection,London.
+<!-- image -->
+
+509-URBIN0 PLAQUE
+
+Italian,Sixteenth Century
+
+HELEN AND PARIS. At left many boats and vessels are seen, drawn up to the shore, on which many personages are seen in confict; an arched bridge from one of the distant vessels extends to the shore on which classical edifices rise at its crest.In the more immediate foreground the beautiful Helen is being seized by Eneas and drawn into a boat. Just beyond, on the green sward of the shore,Paris is seen, wearing his typical Tyrean shepherd's cap. Decorated in rich colors, the reverse inscribed with a terzina of Dante's and the date 1545.
+
+Diameter,1714 inches.
+
+Note:The terzina reads in effect:"This is the shepherd who lusted after the beautiful Helen of Greece and through whose famous abduction by him the whole world was convulsed."
+
+From the Fairfar Murray Collection,London.
+Kindly read the Conditions under rwhich erery item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 510-URBINO CoUPE
+
+Italian,Siateenth Century
+
+In the form of a shell, resting on a smaller shell foot, the large shell modeled as a large human head, the open jaws touching the scroll sides of the shell. Exterior brilliantly glazed with a decoration of stripes. In the interior an allegorical river figure, nude, lying against reeds and emptying a jar of water upon the ground.
+
+Diameter,712inches.
+
+From the Fairfax Murray Collection,London.
+<!-- image -->
+
+Italian,Sixteenth Century
+
+Glazed in a very strongly drawn design, picturing the head and shoulders of a woman observed in back view with head turned over her left shoulder and seen more than in profile. It is drawn in white and a soft green and the background is a brilliant black. On a scroll is the inscription in blue “Evera Bella."
+
+From the Fairfax Murray Collection, London.
+
+Diameter,91 inche8.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+<!-- image -->
+
+512-PAIR OF CAFAGGIOLO MAJOLICA ALBERELLI
+
+Tuscan,Fifteenth Century
+
+Cylindrical with lightly spreading foot and sloping shoulder and underbody. Glazed in rich lapis-blue and yellow, with gray, pale violet and green. The principal decoration portrait-busts of a citizen and his daughter, very vivid portrayals of the subjects represented, and at foot bands of Gothic inscriptions.
+
+Height,7y2inches
+<!-- image -->
+
+513-LARGE CAFAGGIOLO PITCHER Tuscan,Fifteenth Century
+
+Ovoid with short neck,pinched spout,and broad, fat loop handle. Principal decoration a large enwreathed medallion on the front, in green, blue and yellow on gray-white ground, enclosing a feline quadruped with three fowers in its claw, the coat-of-arms of the Orso family whose name appears at the top of the shield. The rest of the surface of the pitcher diapered in a liberal foral scroll.  (Rare.)
+
+Note: The Orso family gave three Doges to Venice.
+
+From the Fairfax Murray Collection,London.
+
+Height,16 inches.
+Kindly read the Conditions under which erery item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 514-TWO DECORATED AND GILDED FAIENCE VASES BY DoCTOR CARLO ANTONIO GRUE Castelli,Eighteenth Century
+
+Ovoidal, having a bell-shaped faring foot and low dome cover with knob finial. Richly decorated in colors and gilding. The cover and base enriched with classic figures, cupids and mascarons.
+
+(A) Depicting subject,“Moses Striking the Rock”;numerous figures
+
+Height,24 inches.
+
+in the foreground of a continuous landscape; reverse with further groups of figures resting.
+
+## 514-TWO DECORATED AND GILDED FAIENCE VASES BY DoCTOR CARLO ANTONIO GRUE Castelli,Eighteenth Century
+
+(B) Depicting bucolic scenes;in one, a group of peasant women watering a fock of sheep at a trough near a well, and further personages.
+
+On the cover and base are classic figures, cupids and mascarons.
+
+Height,24 inches.
+
+Note: Dr. Carlo Antonio Grue is recognized as the ablest of all the Castelli painters of faiences.
+## 514-TWO DECORATED AND GILDED FAIENCE VASES BY DoCTOR CARLO ANTONIO GRUE Castelli,Eighteenth Century
+
+Ovoidal,having a bell-shaped faring foot and low dome cover with knob finial. Richly decorated in colors and gilding. The cover and base enriched with classic figures, cupids and mascarons.
+
+（A) Depicting subject,"Moses Striking the Rock";numerous figures in the foreground of a continuous landscape; reverse with further groups of figures resting.
+
+Height,24 inches.
+
+## 514TWO DECORATED AND GILDED FAIENCE VASES BY DoCTOR CARLO ANTONIO GRUE Castelli,Eighteenth Century
+
+(B) Depicting bucolic scenes; in one, a group of peasant women watering a fock of sheep at a trough near a well, and further personages.
+
+On the cover and base are classic figures, cupids and mascarons.
+
+Height,24 inches.
+
+Note: Dr..Carlo Antonio Grue is recognized as the ablest of all the Castelli painters of faiences.
+No.514(A)—DECORATED AND GILDED FAIENCE VASE "MOSES STRIKING THE ROCK" (By Doctor Carlo Antonio Grue)
+
+<!-- image -->
+
+No.514(B)—DECORATED AND GILDED FAIENCE VASE
+
+<!-- image -->
+
+"DEPICTING BUCOLIC SCENES" (ByDoctor Carlo Antonio Grue)
+## GOTHIC AND RENAISSANCE SCULPTURE
+
+<!-- image -->
+
+French,Fifteenth Century 515-STONE BUST OF THE VIRGIN The Madonna, crowned, and gazing downward.1 Polychrome, of soft and delicate color and patina.
+
+Height,151/inches.
+
+516-POLYCHROME STUCCO STATUETTE BYDESIDERIO DA SETTIGNANO Florentine,1428-1464
+
+Standing, nude, figure of the youthful St. John the Baptist with right hand raised in act of benediction. On semi-octagonal and rectangular base. Painted naturalistically.
+
+Height, 2312 inches.
+
+517-TWO POLYCHROME CARVED WALNUT BRACKETS Venetian,Late Siteenth Century Scrolled supports, enriched with winged heads of cherubim.
+<!-- image -->
+
+518--MARBLE PIETA BY ANTONIO MANTEGAZZA
+
+Lombardian,circa 1495
+
+A figure of the Virgin Mother seated and supporting the body of the Christ across one knee. The body droops toward the ground and against her left knee, which is considerably retired. She wears an agonized expressioon. Gray-white and brownish patina. Has tooled leather case.
+
+Height,151/2inches.
+
+Note: Antonio Mantegazza,master and collaborator of Antonio Amadeo. Many ofhisworks arein Lombardy,and there are some in bas-relief at the Certosa of Pavia. F.Malaguzzi Valeri,in his biography of Antonio Amadeo,Bergamo,1904,at page 110, speaking of the work of Antonio Mantegazza,notes "the figure (of the Christ) in strange undulation of the torso and the legs,and the general roughness of the technique,the large and deep eyes," and at page 112 notes the "stiff folds of the clothes." At page 113 he speaks of the "roughness of the types,their naturalistic character,the hardy foreshortening of the limbs, their mouths open, apparently wailingall of which is noticeable in the work before us.
+<!-- image -->
+
+## 519--TWO MARBLE STATUETTES BY GIROLAMO CAMPAGNA Verona,circa 1565
+
+Individual figures of the Angel of the Annunciation and the Madonna. The angel alighting upon a rock base, the Madonna kneeling at a prieDieu. The expression of the figures is wonderfully eloquent, filled with benignity and meekness. On a stand covered with old-red velvet.
+
+Height of fgures,respectively,17 inches and 14 inches; of stand,22 inches.
+
+Note: Girolamo Campagna was a pupil of Danese Cattaneo of Carrara,and later, after meeting Alessandro Vittoria in Venice,he adopted his style. His masterpiece, a bas-relief, is in the Cappella del Santo at Padua.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+520-MARBLE WATER BASIN
+
+Lombardian,Sixteenth Century
+
+Bulbous columnar standard on a tripartite foot, the foot plain, the lower or bulbous section of the standard carved in relief in leaf forms. Above this a molded ring separating the lower from the upper section, which is carved in low relief with blossoms. Expanding upper section in scroll carving supporting a circular basin carved in relief with angel-heads in relief.
+
+Height,29 inches;diameter,191y inches.
+<!-- image -->
+
+<!-- image -->
+
+## 521-PAIR OF GLAZED TERRA COTTA POLYCHROME STATUETTES
+
+BY BENEDETTO BUGLIONI IItalian,Seventeenth Century
+
+In the form of kneeling female figures each bearing upon one knee an oval vase supporting a pricket candlestick. The figures of wonderfully formed expression, and their richly molded gowns in dark red, dark green and a pale yellow. The figures are kneeling on plinths.
+
+Height,20 inches.
+
+Note: These figures are by Benedetto di Giovanni di Bernardo d'Antonio di Migliore,called Buglioni. He was born in or near Florence in 1459,and died in 1531. He was noted as a sculptor in glazed terra cotta.He was influenced by Antonio Rossellino and was an imitator of the Della Robbias.The figures show characteristics of Buglioni's work and it is interesting to compare them with angels reproduced in Allan Marquand's "Benedetto and Santi Buglioni," pages 20 and 55, and figures 14 and 37.
+<!-- image -->
+
+## 522-GOTHIC ALABASTER BAS-RELIEF English,Fifteenth Century
+
+God crowned and enthroned holds a crucifix between His knees and sits in blessing over it, Gothic angels arching His head with cornucopias and others at the base of the crucifix, all sculptured in bold relief.
+
+Vestiges of polychrome, gilding and dark patina. Wooden frame.
+
+Height,30 inches;weidth,19 inches.
+<!-- image -->
+
+523CARVED AND POLYCHROME WoOD STATUE,SCHOOL OF JACOPO DELLA QUERCIA Tuscan,Late Fifteenth Century
+
+The Virgin, in gathered robe and mantle, seated in a chair with voluted back and curved legs, with the right hand raised and the left holding, on her lap, an open book. On rectangular base.
+
+From the Simonetti Collection of Rome,1916.
+
+Height,40 inches.
+<!-- image -->
+
+<!-- image -->
+
+## 524-PAIR CARVED AND GILDED WOOD CANDLEHOLDERS
+
+## Florentine,Fifteenth Century
+
+Kneeling angels on elongated bases, each figure kneeling on one knee and holding on the other the candlestick. Each figure has the head turned to face the other. The faces of remarkably fine expression and the apparel of voluminous and most interesting design. The figures gilded throughout, the bases painted and having gilded moldings.
+
+Height,18 inches.
+
+## 525-PAIR CARVED WOOD CANDLEHOLDERS
+
+Florentine,Fifteenth Century
+
+In the form of standing figures of angels, each holding out a tall columnar candlestick. The candlesticks are molded at the top and richly carved at the bottom. The figures, of fine carving, turn their faces slightly toward each other. The gowns are finely draped in vertical folds, the loose waist enlarging slightly at the hips. Figures and candle-
+
+Height,201/2 inche8.
+
+sticks gilded.
+<!-- image -->
+
+526-PISAN CARVED AND PoLYCHROME WoOD STATUE
+
+Tuscan,Early Fourteenth Century
+
+Full-length figure of the Virgin, crowned and in a red robe and blue mantle, seated with the Child Christ. His lower limbs wrapped in a fold of her mantle, seated on her right knee. In her left hand she holds the lower stem of a palm branch.
+
+Height,41 inches.
+
+Note:A rare and most interesting example of primitive sculpture.
+Kindly read the Conditions under rehich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+527-GOTHIC WOOD MADONNA AND CHILD
+
+Seated figure of the Madonna with the Child on her knee, His hand resting on a symbol of the world held in the right hand of the Mother. Carved in fruitwood, which shows a rich and fine orange-brown patina.
+
+Flemish,Late Fifteenth Century
+
+Height,3l inches.
+
+From Count Tonini Collection,Merano.
+<!-- image -->
+
+## 528-POLYCHROME SCULPTURED WoOD BAS-RELIEF AND SHRINE Venetian,Fifteenth Century
+
+Within a traceried and canopied oblong niche is seated St.Peter, con- templating the missal which he holds on his lap with his left hand. The shrine is supported on a bracket columned at the ends and painted with the "Vision of St. Veronica's Veil, held by two facing angels. Enriched with blues and other primal colors, enhanced with much gilding.
+
+Total height,50 inches;width, 271 inches.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+529-CARVED WOODSTATUETTE
+
+French,Fifteenth Century
+
+Saint Barbara. Standing figure, in fowing robes,leaning against a crenellated tower, the open scriptures in her hands,her long curling hair fowing over her shoulders. Partly polychromed, the remnants in tones of soft color.
+
+530-WHITE MARBLEPEDESTAL
+
+Height,211% inches.
+
+Tuscan,Fifteenth Century
+
+Saint Barbara. Standing fgure, in fowing robes, leaning against a crenellated tower, the open scriptures in her hands,her long curling hair fowing over her shoulders. Partly polychromed,the remnants in tones of soft color.
+
+Height,5912inches.
+<!-- image -->
+
+531-CARVED AND POLYCHROME WoOD FIGURE
+
+Flemish,Fifteenth Century
+
+Full-length standing figure of St. Florian shown as knight in a suit of plate armor with gorget of chain mail, lapelled cap, red cloak and curling bushy hair. In one hand he holds the pail from which water issues in token of his miraculous extinguishment of a confagration, while at his feet is a square campanile. On shaped base.
+
+From the Galliegos Collection, Rome,1915.
+
+Height,27 inches.
+Kindly read the Conditions under ruhich erery itern is offerea and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+532-PAIR CARVED WOOD STATUETTES
+
+Flemish,Fifteenth Century
+
+Half-figures; portraits of a male and female; the man clasping a chalice to his breast, the woman with arms crossed at her waist and wearing a crown. His robes hang in loose, finely carved folds;her gown cut low and close-fitting, with puff sleeves. Polychrome and gilded.
+
+From the Fairfax Murray Collection,London.
+
+Height,1llyinches.
+
+## ITALIAN,FRENCH AND SPANISH FURNITURE
+
+533-WALNUT RENAISSANCE WALL BENCH
+
+Oblong, with two solid legs scrolled; single plain stretcher. Molded seat over an incised molding. Balustered back with scrolled splats, the splats numbering seven, with two half splats at the corners adjoining the scrolled stiles. Straight top-rail molded, and plain frieze. Loose cushion of red velvet.
+
+Tuscan,Sicteenth Century
+
+Length,48 inches.
+<!-- image -->
+
+- 534-CARVED WALNUT LECTERN Florentine,Sixteenth Century Three spirally turned legs, one swinging on a pivot at centre, with quadrilateral central sections carved in low relief with foral pendants. Leather bookrest between wooden stretchers carved with foral scrolls in bold relief.
+
+Height,5 feet.
+
+- 535-WALNUT EXTENSION TABLE French,Henri IV Period
+- Oblong with square corners; under the corners turned drops; on seven legs, round columns resting on an underbrace molded and having seven knob feet.
+
+Length,4 feet 21%inches;in eatension,7 feet 11 inches.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+536CARVED WALNUT CUPBOARD
+
+North Italian,Sicteenth Century
+
+Upright oblong on bracket feet. Top lifts, revealing compartment, one door and one lower drawer. All parts of front carved with scrolls and pendants in relief.
+
+Height,39 inches;width,25 inches.
+<!-- image -->
+
+537-CARVED WALNUT CABINET
+
+Italian Renaissance
+
+Rectilinear, with dentil-enriched and molded top. Richly carved frieze, with birds,fruits,leaves and central demi-figure;fitted with two drawers and enclosing door beneath, finely carved with a chinere amid scrollings. At the sides of the door are panels enriched with scrolled cartouches. Face of lower drawer with medallions and half-medallions. On bracket feet. Rich patina.
+
+Height,391/ inches;width,26 inches.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 538-CARVED OAK CHOIR STALL
+
+Top shows a channeled molding supported by short Gothic columns which rest on the seat-arms, which are channeled and carved as round arches;on their tops before the short columns these are carved as leaves and scrolls. Two Miserere seats carved with cartouches in heavy relief.
+
+French,Fifteenth Century
+
+Height,43 inches;length,55 inches.
+
+Umbrian,Siateenth Century
+
+Height, 37 inches; width,31 inches.
+
+539-WALNUT CABINET
+
+Rectilinear, with molded top and profusely carved cornice and base, fitted with two enclosing doors and one drawer having bronze handles. Supported on claw feet.
+<!-- image -->
+
+## 540--GOTHIC CARVED OAK CUPBOARD
+
+Northern French,Late Fifteenth Century
+
+Rectilinear with molded cornice,and straight feet continuous with the stiles. Three doors and two drawers,the fronts of these and adjacent panels carved in relief with Gothic motives of tracery and rosettes, fowers and fruit. Wrought iron bolts and locks with pierced plates. Ends paneled vertically and horizontally with carefully carved futing.
+
+Height,5 feet 6 inches; length,4 feet 8 inches.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 541-LAcQUERED CoNsoLE CABINET Venetian,Eighteenth Century
+
+Semicircular, on four short round tapering legs with turned rings and knob feet and carved with a ring of bosses. Three front drawers, two side compartments with doors, all with plate and drop-ring handles. Lacquered in black with gold ornamentation in relief in foral scrolls and festoons. Three carved medallion heads in relief. Top in imitation of graymarble.
+
+Height,34 inches;diameter,48 inches.
+
+- 542-MAHOGANY POUDREUSE English,Eighteenth Century Oblong lift and sliding top,with mirror and rounded corners, the edge grooved. Three drawers, and in the interior six compartments. Carved legs tapering and exhibiting knob and foral designs and a spiral scroll,
+
+drawers with silver knob handles and silver knob feet and silver key
+<!-- image -->
+
+543-ROSEWOOD AND MARQUETERIE KNEE-HOLE WRITING DESK
+
+Venetian,Louis Seize Period
+
+Two sets. On tapering spade foot supports, saltire-wise arched stretchers. The front is bowed and fitted with six side drawers, one center ered with a marqueterie geometrical pattern of burl walnut;the molded drawer and one recess knee-hole door.The front and returns are covand shaped top bears a handsome marqueterie motif of a king under a canopy, figures, banners and the fag of the canopy laid in ivory while the king's crown is inlaid in mother-of-pearl. Leaf scrolls in exotic woods.
+
+544-WALNUT CREDENZA
+
+Tuscan,Sixteenth Century
+
+One drawer, two doors, with original bronze knob handles. On claw feet. Plain top, molded, with an incised cornice and richly carved frieze. Top supported at the corners by round columns, within which are broad pilasters carved with shields, grooved and reeded. Doors surrounded by ring and bead moldings and base gadrooned.
+
+Height,40 inches;length,43 inches.
+<!-- image -->
+
+## 545-TWO CARVED WALNUT TREASURY DoORS
+
+Dentil-molded cornice, with finely scrolled pediment. Arched enclosing door enriched with very beautiful incuse rosetted leaf scrollings;bracketed pilasters, with winged heads of cherubim and drops of fruit.
+
+Ligurian,Late Sixteenth Century
+
+Scrolled apron, centred with a further cherub's head.
+
+## 546-CARVED WALNUT CABINET Tuscan,Sixteenth Century
+
+Rectangular upper portion, containing fourteen drawers, seven of which arevisible from the front,the others behind three doors which are carved with arches and numerous figures. Lower portion oblong,with dentilmolded top, bracket frieze and cartouched pilasters enriched with guilloche horizontal and vertical bandings. Fitted with two drawers, trimmed with bronze swinging handles and two paneled doors beneath, having handles as bronze busts within ringed medallions.A central parting pilaster, adorned in bold relief with a head supported on serpentined scrolls above a cartouche. Enriched molded base, supported on claw feet. Very rich patina on all surfaces.
+<!-- image -->
+
+547-CARVED WALNUT CABINET
+
+Venetian,Siateenth Century
+
+Flat top, molded, covering a deep oblong section supported on four vase and leaf legs resting on a molded base; back of lower section solid. Front of upper section carved at each end with mascarons, and between them a door carved in relief with scrolls and inlaid with an oval medallion of root walnut.
+
+Height,3 feet 2 inches;length,3 feet5 inches.
+
+## 548--CARVED WALNUT CABINET Umbrian,Sixteenth Century
+
+Upper section rectilinear, having pediment of a cresting oval cartouche carved in relief.Cornice with foral shell pattern and three secret drawers. Paneled ends and fall front:rich patina. The drop-front reveals fourteen drawers adorned with foral motives and cartouches and an elaborate architectural device at the center covering two drawers. Lower section, a cupboard with door and drawer, the drawer carved with two angels'heads in high relief, the door with a sinuous foral molding incised, and the stiles with foral festoons; claw feet.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue,
+
+<!-- image -->
+
+549-CARVED WALNUT CASSONE
+
+Plain lid swinging on long strap hinges; two forged iron bail handles at ends; lion claw front feet. A rare piece, the entire front boldly carved in relief and exhibiting a rich and fine patina. At the centre a horizontal panel molded in rounded-oblong form, depicting the Expulsion from Paradise, with the quaintly primitive conception of the angel emerging from the open door of a building and driving the First Parents ahead, clothed only in leaves. Adam is in the lead with hands up, and Eve turns to regard the angel. At either side are caryatids, and supporting male half-figures amid grapevines in bearing and scrolls.
+
+Umbrian, Sixteenth Century
+
+Length,62 inches.
+
+## 550-CARVED AND GILDED MANTEL MIRROR
+
+French,Louis XVI Period
+
+Rectilinear, in walnut painted in dark hue, and carved in relief with two moldings, both of which are gilded. The first,bounding the mirror proper, is a bead molding. The second, broader, molding is carved in leaf and blossom form,interrupted by four medallion heads. Above is carved an open-work cresting of ribbon scroll.
+
+Height,42 inches; width,42 inches.
+
+## 551--CARVED WALNUT CABINET Umbrian,Sixteenth Century
+
+Paneled centre door with carved head as handle. Carved slightly tapering pilasters topped by Amorini. One drawer and bracket feet.
+<!-- image -->
+
+## 552GOTHIC CARVED OAK CUPBOARD
+
+Northern Italian or Southern French,Fifteenth Century
+
+Rectangular, with two upper and two lower enclosing doors incusely carved with irregularly placed varied stellate medallions,one with sacred monogram. The stiles and pilasters enriched with sunk moldings.
+<!-- image -->
+
+## 553-GOTHIC CASSONE,PARTLY GILDED
+
+South of France,Fifteenth Century
+
+Polychromed,carved and gilded with leaves, feurs-de-lis and symbols （In Hoc Signo Vinces) in the name of the cross, the motto used by the
+
+Crusaders. Supported by claw feet.
+
+## 554-VERNIS MARTIN MUSIC RACK
+
+By Thomas Schadle,Alsatian;Eighteenth Century
+
+Oblong back of yellow silk, sustaining two shelves very curiously rolled over in front and finished in serpentined form. Supported on short balustered legs;the roll-over fronts very interestingly decorated with romantic landscapes and classic figures;the lower one adorned with two medallioned heads of musicians. Signed on the rock above,"Thomas Schadle."
+
+Height,391/2inches;length,401/inches.
+
+## 555-PAIR RENAISSANCE BLUE VELVET ARMCHAIRS
+
+Tuscan,Siateenth Century
+
+Flat scrolling arms, turned armposts and quadrilateral legs, stiles and underbraces.In front a stretcher variously carved with angles and scrolls. Stile-tops carved in leaf pattern and gilded. Seat and back upholstered in blue velvet.
+<!-- image -->
+
+556-FOUR WALNUT NEEDLEWORK ARMCHAIRS
+
+Angular frames, with lyre-shaped front rail, fnely carved acanthus finials,back and seat covered in silk needlepoint and studded with round nails. Original upholstery.
+
+Tuscan,Sixteenth Century
+
+## 557-PAIR BLUE VELVET UPHOLSTERED WALNUT ARMCHAIRS
+
+Italian,Late Renaissance
+
+Arms and armposts, legs, stiles and stretchers all spirally twisted;handgrips scrolled and grooved; feet square. Large seat and open back upholstered in blue velvet with a brilliant sheen.
+<!-- image -->
+
+## 558--CHAISE-LONGUE EN DEUX PIECES
+
+French,Louis XVI Period
+
+Separates into a large armchair and a short couch having a winged "back"at one end. Original cane. Walnut frame,molded, arms scrolled, legs grooved in niches and tapering to knob feet.
+
+Length (complete),6feet.
+
+## 559--RENAISSANCE INCRUSTED WALNUT TABLE
+
+Florentine,Sixteenth Century
+
+On spreading angular supports connected with the top by four wrought iron braces. The supports and the top are inlaid with a great variety of imaginative motifs of engraved ivory and mother-of-pearl such as ducal arms, fower vases with rising and spreading arabesques, sphinxes, birds, deer and hounds.
+
+Note:An exceptionally fine example of the early art of inlay of the sixteenth century from the celebrated Ainard Collection of Paris,signed on the under side by the maker,C.C.C.
+
+560--THREE SQUARE STOOLS UPHOLSTERED IN GREEN-BLUE VELVET Tuscan,Late Renaissance
+
+Knob and ring turned legs and underbraces, and knob feet.
+<!-- image -->
+
+561-INLAID AND CARVED OAK AND WALNUT TABLE-CABINET Tuscan,Early Sixteenth Century
+
+Oblong top, inlaid with banding of beech. Supported on a paneled cabinet and most unusual bracketed and scrolled ends, lavishly enriched with medallions, cartouches and all-over imbrications. The cabinet is fitted in front with two upper and two lower drawers, and at one end with a deep long drawer. The drawers trimmed with original wood knobs. Fine rich deep nut-brown patina.
+<!-- image -->
+
+562--THREE NEEDLEPOINT ARMCHAIRS
+
+Venetian,Eighteenth Century
+
+Carved wood frame of conventional scrolling outline, painted a bluishgray, with moldings and foral relief details gilded. Back, seat and sections of the arms upholstered in checkered needlepoint, in gray-blue and dark blue on a soft yellow ground.
+
+## 563-NEEDLEPOINT SETTEE AND TWO ARMCHAIRS
+
+French,Louis XIV Period
+
+Rectilinear outlines; seats and backs upholstered in needlepoint of conventional designs worked in red and brownish-yellow on a dark brown ground.
+<!-- image -->
+
+564-TWO TAPESTRY ARMCHAIRS
+
+Italian,Louis XIV Period
+
+Backs paneled in Flemish tapestry with landscapes in one of which a large bird stands proudly in the foreground; in the other a middleaged couple embrace. Seats in verdure. Walnut frames with scrolled arms, legs and stretchers, bearing formal relief carving.
+
+## 565-CARVED WALNUT NEEDLEPOINT ARMCHAIR
+
+French,Sixteenth Century
+
+Quadrilateral seat,solid; turned stiles and legs, armposts, arms and of the X-underbracea turned vase finial. Back grooved horizontally and has a scrolled cresting, and is upholstered with a panel of needlepoint worked in foral stretchers; scrolled apron. At the crossing designs in dark colors.
+<!-- image -->
+
+566-NEEDLEPOINT SETTEE
+
+French,Louis XIV Period
+
+Scrolled top and wing arms, richly upholstered in gros-point of formal design,including squares and fowers, in dark and neutral colors. Turned legs and quadrilateral stretchers lightly molded.
+
+Length,6 feet5inches.
+
+567-SET OF SIX NEEDLEWORK SIDE CHAIRS
+
+French,Seventeenth Century
+
+Quadrilateral seats and backs, upholstered in gros-point and petit-point of dark coloring and enclosing panels containing animals and birds. Turned walnut frames.
+<!-- image -->
+
+568-TWO RoYAL AUBUSSON TAPESTRY MARQUISES
+
+French,Louis XIV Period
+
+Walnut frames carved in relief with garlands, on the scrolled skirt and the scrolling legs and arms; a pure type. Back, arms and an overstuffed cushion-seat covered with Aubusson-royale tapestry of the period, its decoration resplendent fowers and abundance of fruit, with birds in pairs.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 569-TWO RoYAL AUBUSSON TAPESTRY ARMCHAIRS
+
+Louis XIV Period
+
+Serpentined oblong back and seat covered in fine Flemish tap-scrolled arms. On paneled tapering legs. The frame apparently of a later period.
+
+570-MARQUETERIE TABLE
+
+French,Louis XVI Period
+
+Oblong with one drawer, and straight tapering legs grooved and reeded, with bulbous knees carved in leaf design and festooned with pearls. Top elaborately inlaid with a lattice enclosing a chessboard,and the skirt with rosettes.
+
+Length,28 inches;reidth,20 inches.
+
+## 571-PAIR VELVET UPHOLSTERED WALNUT ARMCHAIRS Italian,Late Renaissance
+
+Arms, armposts, front legs and stretchers turned in vase, knob and ring form, back legs shaped and the continuous stiles quadrilateral. Upholstered in green velvet embossed in scrolls and conventional designs.
+<!-- image -->
+
+## 572-AUBUSSON TAPESTRY THREE-FOLD SCREEN
+
+French,Eighteenth Century
+
+Three slender panels, each outlined by a narrow border, and each bearing a formal decoration of conventional devices. On the central panel the decoration supports a bird with spread wings, on the side panels trophies occupy the crown. Carved oak frame, with characteristic motives in relief.
+
+Height, 4812 inches.
+
+## 573-CARVED AND GILDED NEEDLEWORK SCREEN
+
+Louis XIV Period
+
+Oblong molded panel; surrounded by arabesque scrollings; mask pediment; on leaf scrolled feet. Panel of gros- and petit-point depicting "Theseus and the Minotaur"; surrounded by foral scrollings in pastel colors on black grounds.
+
+Height,52 inches;width,35 inches.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+574--CARvED WALNUT ARMCHAIR Venetian,Seventeenth Century semi-nude figure. redvelvet.
+
+Arms and arm posts elaborately scrolled, solid back and all sides of frame solid to a molded base.Back of architectural form with a broken arched top supporting a shell cresting. Top carved in relief with C-scrolls and scrolling leaves and fowers,and in bolder relief with a Frame carved with medallions and scrolls,and the chamfered corners with foral pendants. Cushioned in contemporaneous
+
+## 575-WALNUT MoNASTERY CHAIR
+
+Formed of two sets of seven square standards, with carved fronts,
+
+Tuscan,Early Siateenth Century crossing and pivoted at the intersection so as to fold. Folding seat and shaped back rail, carved with rayed medallions and crosses.
+576-BRUSSELS TAPESTRY FOUR-FOLD SCREEN
+
+<!-- image -->
+
+Flemish,Louis XIV Period
+
+A beautiful production in tapestry and French in the designs. In each panel a basket of fowers stands at the bottom, tulips, peonies, roses, iris,in commingled profusion,and above parrots perch on branches,parrots crimson and green, gold and blue, squawking and looking wise. Over all and beneath an upper molding are cherubs, two bearing other parrots and all of them with foating draperies.
+
+Height, 6 feet 5 inches; panel reidth,19 inches.
+
+## 577-AUBUSSON TAPESTRY THREE-FOLD SCREEN French,Louis XIV Period
+
+Each panel woven with an ornate jar standing on a column, containing tulips, lilies, peonies and other fowers, in delicate colors on brown grounds.
+
+Height,5 feet 11 inches; panel rwidth,21 inches.
+Kindly read the Conditions under rohich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 578--WALNUT SGABELLO Northern Italian,Fifteenth Century
+
+Shield-shaped seat with front corners chamfered;spreading legs; seat incised and carved in relief with a foral medallion. Vase-shaped back richly carved in relief with foral forms, garlands and pearls, and incised with the initials Z T. Dark patina.
+
+Note: Three similar examples of this Sgabello, and following, are in the BargattiValsecchi Museum of Milan. Illustrated in Frida Schottmiller's book, page 168.(Itala Ars,Turin,1921.)
+
+- 579-WALNUT BABY-CHAIR Florentine,Sixteenth Century Square, with solid paneled sides, curving arms and scrolled armposts, the stiles topped by leaf carvings and the arched toprail inlaid and supported on four small balusters. Seat and back upholstered in needlepoint.
+- 580-WALNUT SGABELLO Northern Italian,Fifteenth Century Shaped seat with front corners chamfered, the centre hollowed and incised with a circle; spreading legs. Urn-shape back, carved in relief with foral festoons and formal borders. Soft dark patina. (Rare.)
+<!-- image -->
+
+581-BEECHWOOD MONASTERY CHAIR
+
+Florentine,Early Sixteenth Century
+
+Back and legs of seven curved staves, pivoted so as to close; shaped head rail incised with circular medallions and square base rails.
+
+- 582-GOTHIC BEECHWOOD MoNASTERY CHAIR Florentine,Early Siateenth Century Composed of seven staves, carved back, headed by shaped rail with Gothic tracery and a carved centre rose.
+- 583-"FRATINA"CHILD's CHAIR Italian,Late Fifteenth Century Beechwood; formed of six slats, folding, and the inter-spaces in the seat filled in with short slats. Scrolled toprail with incised borders and incised concentric medallions of serrate design. (Rare.)
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+- 584-WALNUT SGABELLO Northern Italian,Fifteenth Century Shaped seat, incised with a border of primitive chevrons tipped with pearls; spreading legs. Pierced back of leaf-scroll outline, incised with scrolling stems of smaller leaves and with a primitively designed medallion. Patina of a soft nut-shell surface quality. (Rare.)
+- 585-WALNUT SGABELLO Northern Italian,Fifteenth Century Shaped seat with scrolled corners; spreading legs; short back. Seat boldly incised with medallions of various design and a perle border, and the back similarly treated.(Rare.)
+- 586-WALNUT SGABELLO Northern Italian,Fifteenth Century Circular seat, carved with circles and a festooned border; spreading legs. Back outlined with sinuous scrolls, carved in relief, and within them branches of fowers, blossoms and pearls. Dark patina. (Rare.)
+- 587-WALNUT SGABELLO Northern Italian,Fifteenth Century Scrolled seat, smooth,the front corners rounded; spreading legs. Back outlined in foral forms and carved in relief with conventional designs. At base of back an oblong enclosing the initials L C inlaid in a lighter wood.Varied patina.(Rare.)
+<!-- image -->
+
+588--SET OF SIX SILK EMBROIDERY UPHOLSTERED WALNUT ARMCHAIRS Italian,Late Renaissance
+
+Square frames with quadrilateral legs and stiles, turned armposts and scrolling arms; scrolled underbraces; front stretcher carved in relief with scrolls enclosing a cartouche. Seat and back upholstered in goldenyellow silk embroidered in many colors with birds, masks and fowers.
+
+589-WALNUT SGABELLO Northern Italian,Fifteenth Century Seat finished with scrolls at the back, the front corners broadly chamfered,the outer edge bordered with U-shaped grooves; its top incised with a festooned molding. Spreading legs with frontal crossbrace. Back of scrolled outline, indented at either side with C-scrolls,and finely carved in leaf, tree and vase motives, the toprail supporting a circular cresting carved in stellate design. .Incised with four letters, B R M F.Rich patina.(Rare.)
+Kindly read the Conditions under which erery item is offered and sold. They are printed in the forepart of the Catalogue.
+
+590-SET OF SIX UPHOLSTERED WALNUT SIDE CHAIRS Italian,Late Renaissance
+
+<!-- image -->
+
+Legs and stretchers turned, the front stretcher carrying at its centre an animal mask and the front legs carved with claw feet;back stiles square. Seat and back upholstered in ruby velvet embroidery on goldenyellow silk, the patterns broad scrolls and conventional designs.
+
+591-WALNUT SGABELLO Northern Italian,Fifteenth Century Seat with trefoil back and chamfered front corners, the rounding edge molded, the centre incised with a circular band of primitive chiselgougings. Spreading legs, molded and similarly gouged, and frontal cross-brace. Back shaped in C and other scrolls and carved with tree forms in full relief and with a pointed arch. Across the centre a band incised with initials and date. Fine patina. (Rare.)
+<!-- image -->
+
+592-FLORENTINE WALNUT TABLE Tuscan, Sixteenth Century Oblong molded top and frieze. Supported on slightly faring sunk paneled ends, having very unusual scrollings toward base; valanced cross feet and high placed central stretcher.
+
+- 593-NEEDLEPOINT ARMCHAIR French,Louis XIlI Period The tall back and the square seat upholstered in gros-point worked in highly conventional foral and geometrical designs, in light colors on a dark brown ground. Walnut frame, the arms scrolled, the armposts and stretchers in vase and knob turning.
+
+## 594-THREE LOUIS QUINZE NEEDLEWORK SIDE CHAIRS
+
+Venetian,Eighteenth Century Cabriole frame,leaf curved at the knees. Enameled cream with carving gilded. Backs and seats upholstered in contemporary needlework. The backs with figure subjects from the Italian comedy. The seats with heraldic animals in reserves framed by arabesque borders in colors on a black ground.
+<!-- image -->
+
+- 595-CARvED OAK REFEcToRY TABLE Spanish,Siateenth Century Plain top, the skirt carved on all faces; legs of vase and ring turning wrought iron drop handles, the fronts carved in deep relief with acan-
+
+with knob feet, and plain molded stretchers. Three deep drawers with thus scrolls;between them cartouche pilasters.
+
+Length,7 feet 8 inches;width,27 inches.
+
+- 596-TAPESTRY AND CARVED WALNUT SETTEE French,Louis XIV Period Rectilinear with scrolling top and straight arms, the back,arms and seat upholstered in Flemish verdure tapestry. Armposts, legs and stretchers all scrolled, the armposts and legs carved in relief.
+- 597-WALNUT COIN TABLE Tuscan,Early Sixteenth Century pierced with two slots for dropping coins. On two solid scroll iegs.
+
+Height,2S inches;width,27 inches.
+
+598-TWO WALNUT CoNSOLETABLES
+
+Italian,Seventeenth Century
+
+Corners broadly chamfered,the top bordered with concave and convex moldings. Top inlaid all around with two strip borders. Legs and stretchers outlined with scrolls. Light patina. The two can be combined as one octagonal table.
+
+Length,381inches.
+<!-- image -->
+
+- 599-CARVED BEECH TABLE North Italian,Sixteenth Century Molded oblong top;with drawer and spreading tapering square legs, enriched with archaic rustications and scrollings.
+
+Note: This interesting and unusual table recalls the carving of many of the Savonarola chairs.
+
+- 600CARVED WALNUT SGABELLO Italian,Siateenth Century Octagonal seat heavily molded;lyre legs, scrolled and carved in relief with cartouche and deep scrolls. Back of lyre shape, with relief carvings of rosettes, rings, cartouche, and a mask within a cresting scrolled in crown effect. Light patina.
+- 601-GATE-LEG CIRCULAR OAK TABLE French,Henri II Period Top plain, with a dark patina; turned legs and knob feet; plain stretchers.
+
+Diameter,33 inches.
+
+- 602-PAIR FLEMISH RENAISSANCE CARVED WALNUT CHAIRS Sixteenth Century
+
+Square seat and upper back upholstered in Flemish Renaissance tapestry, displaying fruit motives in soft hues of rose, green and gold. Stile tops carved in leaf motive, armposts as sphinxes; arms fat. Legs turned, and front stretcher pierced and carved with two large rosettes.
+Kindly read the Conditions under rwhich erery item is offered and sold. They are printed in the forepart of the Catalogue.
+
+603-RENAISSANCE TAPESTRY WALNUT STATE CHAIR
+
+<!-- image -->
+
+Tuscan,Early Seventeenth Century
+
+Flaring arched back and seat, covered in rare sixteenth century Flemish tapestry displaying beautiful blossoming growing fowers. Finely voluted open arms. Supported on well stretchered balustered legs.
+
+## 604-GROS-POINT AND WALNUT ARMCHAIR
+
+Italian,Late Renaissance
+
+Large seat and tall back upholstered in gros-point with a white and green lattice ground and bearing polyfoil panels outlined in red and decorated in foral design.
+
+- 605-PAIR TAPESTRIED ARMCHAIRS Rectilinear seats and backs upholstered in Flemish tapestry of the Renaissance, the backs panels of musical figures, the seats picturing leaves and foliage. Frames of carved walnut.
+
+Flemish,Renaissance
+<!-- image -->
+
+606-CARVED WALNUT TRESTLETABLE
+
+Venetian,Late Renaissance
+
+On lyre-shaped bracket, acanthus carved and voluted, centring upon scrolled cartouche devised to fold on hinges,wrought-iron scrolled under framing. Traces of original gold enrichments. This sumptuous example of the luxuriant Renaissance taste presents itself with the romantic charm of the wear of generations.
+
+Width,28 inches;length,5 feet;height,31 inches.
+
+From the Simonetti Collection,Rome,1916.
+
+- 607PAIR NEEDLEPoINT ARMCHAIRs French,Louis XIV Period Mounded seats and highly stuffed backs, covered with gros-point picturing fowers and fruits highly conventionalized and executed in deep tones. Walnut frames, the arms scrolled and grooved and showing leaf motives, the armposts and legs turned knobs and octagonal vase designs.
+
+## 608-PAIR AUBUSSON TAPESTRY ARMCHAIRS
+
+French,Sixteenth Century
+
+Quadrilateral seats and backs, upholstered in Aubusson tapestry picturing roses and lilies, lilies of the valley and other fowers, in light tones on a dark blue ground. Knob-turned arms and armposts, front legs and stretchers.
+## FOURTH SESSION
+
+FRIDAY AFTERNOON,APRIL 25,1924
+
+## IN THE ASSEMBLY HALL
+
+OFTHE
+
+## AMERICAN ART GALLERIES
+
+BEGINNING AT 2:15 0'CL0CK
+
+Catalogue Numbers 609 to 793, inclusive
+
+## GOTHIC AND RENAISSANCE VELVET EMBROIDERIES, NEEDLEWORK,TEXTILES
+
+- 609-SHEEPSKIN FOLDING POCKET English,Sixteenth Century Four interior compartments embroidered in silks and gold with the Annunciation, the Birth of Christ, the Adoration of the Magi and the Flight into Egypt.
+
+From the Georges Seligmann Collection,Paris.
+
+- 610-Two EMBRoIDERED SILk CAPs English, Sicteenth Century
+- Embroidered in gold and silver with heraldic designs, conventional fowers and figures on one, and on the other a number of human figures and foral devices.
+
+From the Georges Seligmann Collection, Paris.
+
+- 611—EMBROIDERED PANEL,FRAMED Italian,Fifteenth Century
+- In a double niche spanned by Gothic arches, half-lengths of two holy figures, in gold embroidery and greenish silks on light and dark silk grounds.
+
+Height,71%inches;length,131/inches.
+
+From the Georges Seligmann Collection,Paris.
+- 612-EMBROIDERED CHAPERON French, Fifteenth Century Picturing the martyrdom of a bishop who,chained nude to a bench before a king, is having his eyes destroyed with an auger. Framed. Height,19 inches; reidth,17 inches. From the Georges Seligmann Collection,Paris.
+- 613-TWO EMBROIDERED CUSHIONS English, Sixteenth Century Embroidered in relief with animals,birds and fowers in many colors. Length,23 inches;rwidth,16 inches. From the Georges Seligmann Collection,Paris.
+- 614-EMBROIDERED（ CUSHION English,Siateenth Century Embroidered in threads of old golden hue on white with medallion and intricate scrollings.
+
+From the Georges Seligmann Collection,Paris.
+
+- 615-EMBROIDEREDC CUSHION English, Seventeenth Century On both surfaces figures, grotesque birds and scrollings of fowers in rich colors on a white ground. Length,25 inches;rwidth,17 inches.
+
+From the Georges Seligmann Collection,Paris.
+
+- 616-EMBROIDERED
+- CUSHION English, Sixteenth Century Linen, embroidered in brilliant silks in a lattice of geometrical designs. Obverse and reverse alike. Length,23 inches;width,18 inches. From the Georges Seligmann Collection,Paris.
+- 617-TWO CAPS ANDTHREE STOMACHERS English, Sicteenth Century Embroidered in black with foral scroll designs on white linen; one cap
+- enriched with gold and silver. From the Georges Seligmann Collection, Paris.
+- 618-EMBROIDERED CAP English, Sixteenth Century Linen, embroidered with colored silks and gold thread in a design of rich foral scrolls.
+
+From the Georges Seligmann Collection, Paris.
+## 619—EMBROIDERY IN SILKS, GOLD,AND SILVER ON LINEN
+
+An elaborate, if primitive, picture of the Creation; at left is the picture of Eve being developed from Adam's rib; above, Adam and Eve standing under the tree of temptation; to right of this they are feeing from the Garden before the Angel; in the centre of the composition the building of the Ark is represented with many carpenter's tools. Beyond a pair of camels is Solomon's Temple, and there follows a representation of Jacob's ladder, and the sacrificing of Isaac. In various places are many birds, animals and fowers. The whole in rich silks and gold and silver threads.
+
+## Jewish-English, Seventeenth Century
+
+Height,15 inches;length,62 inches.
+
+From the Georges Seligmann Collection, Paris.
+
+## 620-TWO EMBROIDERED FIGURES IN RELIEF
+
+English, Sixteenth Century
+
+Half-figures of a woman in a high conical cap with veil and a man in Oriental costume, enhanced with gold threads and pearls. In black frames.
+
+Height,5inches;width,5 inches.
+
+From the Georges Seligmann Collection, Paris.
+
+- 621-ROYAL JARDINIERE VELVET CUSHION
+
+Genoese, Seventeenth Century
+
+Large cushion in rich and varicolored brilliant foral cut and uncut velvet.
+
+- 622--MANILA EMBROIDERED SILK BED COVER
+
+Spanish, Eighteenth Century
+
+Pale pink ground with a light sheen, embroidered in silks of brilliant color with many formal foral designs.
+
+Length,S feet 6 inches;rwidth,5 feet 2 inches.
+
+## 623-MANILA EMBROIDERED SILK BED COVER
+
+Spanish,Eighteenth Century
+
+Brilliant crimson silk embroidered in gay colors with a multiplicity of small foral designs, festoons, and a central stellate medallion.
+
+Length,8 feet 11 inches;eidth,7 feet 4 inches.
+- 624-DRAP D'OR TABLE CoVER
+
+Venetian,Siateenth Century
+
+A brocade of splendor in which the patterns are foral, wrought in colored silks, and silver threads, on a ground of cloth-of-gold. Gold galloon fringe.
+
+Length,6 feet 10 inches;width,6 feet 4 inches.
+
+From the Georges Seligmann Collection,Paris.
+
+- 625-TWO VELVET CUSHI0NS
+
+French,Louis XV Period
+
+Pale golden ground, on which in cut velvet are rich scrolled decorations. In one,a vase of fowers stands on a pedestal over a mascaron, in the other a cupid acts as a trumpeter beside another foral design. Deep crimson in color;brilliant rose-pink sheen.
+
+- 626VELVET PANEL
+
+Italian,Louis XV Period
+
+On silk of old-golden hue, a rich pattern wrought in cut velvet. The decorated designs include jars of roses, a cartouche fanked by cupids blowing conch shells, birds perched upon scrolls and catching in their beaks scrolling streamers, and other motives. Velvet of deep hue and rich sheen, with lighter areas.
+
+Length,7feet 4inches;rwidth,2feet 7 inches.
+
+- 627-PAIR TABOURETS French,Louis XV Period Square. Skirts carved in relief with foral scrolls, the corners similarly carved. Tapering legs with quadrilateral and bulbous enlargements and carved in relief in foral motives. Polychromed. Upholstered in cut velvet picturing in rich crimson tones a vase resting upon a pedestal
+
+and containing red fowers.
+
+- 628EMBROIDERED VELVET TABLE COVER
+
+Italian, Sicteenth Century
+
+Ruby velvet, oval, the panels embossed with conventional designs. Emerald-green centre with embroidered coat of arms and varicolored silk fringe.
+
+From the Georges Seligmann Collection,Paris.
+
+- 629-PLUM VELVET CoPE
+
+Diameter,46 inches.
+
+Genoese, Sixteenth Century
+
+Enriched with a band of striped crimson and drap d'or velvet and trimmed with gold galloon.
+
+Length, 3 yards; height, 1 yard 171/ inches.
+<!-- image -->
+
+630-GOTHIC CUT VELVET PANEL Venetian,Fifteenth Century Pineapple pattern and rich foral scrolls in fine execution and broad outline in ruby velvet on a drap d'or ground. A very rare piece, of museum quality.
+
+Length, 6 feet 7 inches; width, 1 foot 11 inches.
+
+- 631-BROCADE TABLE COVER Italian,Sixteenth Century Green, patterned in foral designs, surrounded by borders.
+
+Length,7 feet 7 inches;rwidth,3 feet 3 inches.
+
+From the Georges Seligmann Collection,Paris.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+- 632VELVET TABLE CoVER Italian, Sixteenth Century Oblong. Cut and uncut velvet of delicate plum color, or a soft purple, on grounds in self-color and emerald-green, the pattern a rich foral lattice. Silver lace border.
+- 633-COPE IN GOLD EMBROIDERY
+
+Spanish,Late Sixteenth Century
+
+A resplendent vestment shimmering in gold and silver and glowing with the colors of fowers. The embroidery includes many conventional patterns,fat and in relief, chiefy executed in gold and silver,the incidental foral details are in silks of many colors, and the general ground is white.
+
+From the Georges Seligmann Collection,Paris.
+
+Length,8 feet 7 inches.
+
+- 634VELVET TABLE COVER Italian, Sixteenth Century Genoa velvet, of rich ruby hue, cut in highly conventional pattern on a matt ground of drap d'or. Length,7 feet 9inches;width,4 feet. From the Georges Seligmann Collection,Paris.
+- 635-OLIVE LEAF-GREEN VELVET COVER
+
+Trimmed with silver galloon.
+
+Genoese,Sixteenth Century
+
+Totaling,3yards30 inches. Two lengths,1 yard 33 inches long,23 inches wide.
+
+- 636--GENOESE VELVET TABLE COVER Italian,Sixteenth Century In three panels, two broad panels of cut and uncut emerald velvet elaborately adorned with conventional foral designs within figures outlined in S-scrolls, and a narrow central panel of plain ruby velvet. Gold galloon border.
+
+Length,5feet 10 inches;vidth,4 feet 7 inches.
+
+- 637-SILVER BROCADE TABLE COVER Italian,Sixteenth Century A brilliant display of fowers and fruits, wrought in polychrome silks and an afluence of silver. The silver is also used in a background of fronds and scrolls. Silver galloon border.
+
+Length,8 feet 6 inches;width,5 feet 2 inches.
+
+Length,4 feet 6inches;width,24 inches.
+<!-- image -->
+
+638-PETIT-POINT PANEL IN FRAME
+
+French,Late Sicteenth Century
+
+On the hill of Calvary Christ is crucified and Mary sits at the foot of the cross, at left, a skull lying on the ground at right. On the cross the initials of the ironical motto: INR1. On a cloud appears the exclamation ELI ELI LAMMA sABAcTHANI. In the valley below the roofs of
+
+Height,281/inches;roidth,211%inches.
+
+From the Georges Seligmann Collection,Paris.
+
+639-VELVET CoPE
+
+Italian,Sixteenth Century
+
+Ruby velvet,with a wide border of emerald velvet.
+- 640-VELVET AND DAMASK COPE Italian,Siateenth Century Made of brilliant rose-amber velvet,with a golden sheen,including the chaperon.Deep border of rich emerald green damask patterned in scroll design of leaves and fowers. A vestment resplendent in its simplicity, its only added adornment the emerald damask.
+
+Length,9 feet.
+
+- 641-VELVET CoVER Italian, Seventeenth Century Velvet of a delicate grayish-blue hue and imprinted with the designs of the magnificent embroidered scrolls which at an earlier day covered it.
+
+Length,9 feet;rwidth,10 feet (each).
+
+## 642TWO EMBROIDERED VELVET MoSQUE HANGINGS
+
+Spanish,Early Seventeenth Century
+
+Composed of nine panels,alternately of lustrous rose-crimson velvet and variable deep jade-green velvet, embroidered in applique of differing green and crimson foral damask, with arched crowning motives. Finished at crown and foot with bands of foral crimson damask. The upper enriched with two series of yellow and green pinnacle-motives forming a valance.
+
+Heights,6feet6inches and 6feet 9inches;length,18feet 6inches.
+
+## 643-TWO EMBROIDERED VELVET MoSQUE HANGINGS
+
+Spanish,Early Seventeenth Century
+
+Similar to the preceding.S Slight variance in details and in the colors of the velvets.
+
+Heights,5feet 7inches and 4feet 2inches;lengths,15feetand 16feet.
+
+## 644TWO EMBROIDERED VELVET MoSQUE HANGINGS
+
+Spanish,Early Serenteenth Century
+
+Similar to the preceding. Slight variance in details and in the colors of the velvets.
+
+Heights,6feet2inches and5feet2inches;lengths,19feet and17feet5inches.
+
+## 645-EMBROIDERED VELVET MoSQUE HANGING
+
+Spanish,Early Seventeenth Century
+
+Slight variance in the color of the velvets,
+
+Similar to the preceding. and without the crowning border.
+<!-- image -->
+
+646RENAISSANCE GOLD,SILVER AND SILK NEEDLEPOINT JEWELCOFFRET Florentine, Siateenth Century
+
+Angular case with fall front, embroidered on three sides and top with multi-colored silks of foral arabesques. The front with a motif of Lucrezia's self sacrifice headed by foral branches on which are perched in heraldic postures two macaws. The sides are formal vases and the cover occupied with fruit worked in brilliant colored silks,and silver bullion scrolls on a drap d'or ground. The interior is fitted with a variety of compartments similarly adorned.
+
+Length,18 inches; width,11 inches;height,15 inches.
+
+647-AMETHYST VELVET COVER
+
+Trimmed with broad gold galloon.
+
+Genoese, Sixteenth Century
+
+Totaling 10 yards 24 inches. Four lengths,2 yards 24 inches long,19 inches rvide.
+
+648GOLD BROCADE BED COVER
+
+Italian,Siateenth Century
+
+A resplendent fabric wrought tprincipally in gold on a cloth-of-gold ground. This is diversified by a foral display wrought in delicate colors, largely rose and blue. Deep silver galloon fringe.
+
+Length,7feet 4 inches;rwidth,6 feet 4 inches.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+- 649—EMERALD-GREEN VELvET CovER Genoese, Sicteenth Century In a fine state of preservation, trimmed with gold bullion galloon.
+
+Totaling 9 yards 4 inches. Four lengths:each measuring 2 yards 10 inches long,17 inches wide.
+
+- 650-TURQUOISE-BLUE VELVET COVER
+
+Genoese, Sixteenth Century
+
+Trimmed with gold galloon.
+
+Totaling3yards 14inches.
+
+Treo lengths:1 yard 25 inches long,19 inches reide.
+
+- 651-ORANGE VELVET COVER Genoese, Sixteenth Century Old velvet of this tone in pieces
+
+Trimmed with figured silver galloon. of this importance are of great rarity.
+
+Totaling 10 yards 4 inches.
+
+Four lengths:2 yards 19 inches,24 inches rwide.
+
+- Genoese,Sixteenth Century Rectangular. Black velvet, cut, on a cream-colored ground, in a diaper of open rectangles with scrolled conventionalized foral sprays. Finished with gold braids.
+
+Length,39 inches; width,20 inches.
+
+- 653-RoUGE D'OR SILK BROCADE CoVER
+
+Venetian, Sicteenth Century
+
+Woven with an all over design of diapers. Crimson silk fringe.
+
+Totaling S yards32inches.
+
+Four lengths:2 yards 18 inches long,18 inches rwide.
+
+French,Sixteenth Century
+
+- 654-VELVET TABLE CoVER
+
+Dark olive cut and uncut velvet with a light sheen, finely diapered with rosettes and geometrical figures.
+
+Length,47 inches; reidth,32 inches.
+
+- 655-GOLD NEEDLE-PAINTED APPENDIUM
+
+Italian,Siateenth Century lions enclosing foral bouquets; enriched with eight oblong panels of red silk, occupied by figures of Saints and scrollings of pomegranates, executed in mellow colorings and gold threads. Trimmed with gold galloon.
+
+Height,3 feet 4inches;length,7 feet 3 inches.
+<!-- image -->
+
+## 656-SIX GOLD AND SILVER AND SILK EMBROIDERED PANELS Italian,Fourteenth Century
+
+Height (five panels, each),10 inches; width,7 inches; (one panel 9 inches by 51/2 inches).
+
+The six panels are decorated with scenes from the life of Christ and His Mother, with the Apostles worshipping Christ and the Virgin and Child, the women at the tomb and Christ rising from the tomb, and other episodes. The work is in silks of delicate colors and gold thread, on a linen ground, and in expressiveness of the figures is in excellent preservation for its centuries of existence. Single frame.
+
+From the Georges Seligmann Collection, Paris.
+
+## 657-UNIQUE GOLD EMBROIDERED LINEN COVER English,of the Tudor Period
+
+Deep ivory linen, enriched in glorious colors and raised gold, worked in many different stitches, with scrollings of English fowers, which include tulips, Tudor roses,pansies and carnations.
+
+36 inches by 20 inches.
+
+From the Georges Seligmamn Collection,and probably the most charming English needlework panel of its kind either in or without a museum.
+
+## 658-EMBROIDERED ORPHREY Spanish, Sixteenth Century
+
+Richly embroidered in gold and colored silks, with couples of saints within niches.
+
+Length,40 inches;width,8 inches.
+
+From the Georges Seligmann Collection,Paris.
+<!-- image -->
+
+659-EMBROIDERED PANEL
+
+Italian,Sixteenth Century
+
+Oblong, in gold embroidery and colored silks on a red silk ground with silver gilded fringe. In an octofoil medallion the Virgin,holding the lily, and fanked by two standing angels. The surrounding red ground carrying highly ornate golden scrolls of foral design.
+
+Height,16 inches; length,23 inches.
+
+From the Georges Seligmann Collection,Paris.
+
+660-EMBROIDERY ORPHREY English,Early Sixteenth Century Framed panel enclosing an orphrey embroidered with church niches and scenes of torment.
+
+From the Georges Seligmann Collection,Paris.
+
+- 661-EMBROIDERED ORPHREY Flemish,Fifteenth Century Cruciform, embroidered in silks with groups of holy figures, two donors and Saint Peter. On red velvet background.
+
+Height,33 inches;rwidth,201/2 inches.
+
+From the Georges Seligmann Collection,Paris.
+
+Length,2712 inches.
+<!-- image -->
+
+## 662-EMBROIDERED PANEL
+
+German,dated 1634
+
+The Daughter of Jephtha. On the right a mounted man escorted by halberdiers afoot, and on the left a young woman emerging from the main gate of a castle, followed by joyful musicians. In the background the buildings of a city.At the top of the picture:
+
+Jephte zum Opfer ein Glibt tedt Da kam sein eigne Tochter her, Das erst so im entgagen trat Das macht ir beider Hertzen Schwer.
+
+"And Jephtha came unto his house,and behold his daughter came out to meet him,with timbrels and dances."
+
+Amid this is a cartouche bearing the inscription ANA OREL,followed by the date 1634.Framed.
+
+Height,20 inches;length,271%2 inches.
+
+From the Georges Seligmanm Collection. Paris.
+<!-- image -->
+
+## 663-EMBROIDERED PANEL
+
+English, Sioteenth Century
+
+Judith and Holofernes. The king is enthroned under a canopy, with two courtiers on the right, one with hand extended, and Judith supported by two personages on the left, her hand in the hand of the king. All are in elaborate costumes. In the background trees, fowers and birds. Executed in low tones on an atmospheric background of grayblue.Framed.
+
+Height,21 inches;length,251y2 inches.
+
+From the Georges Seligmann Collection,Paris.
+
+## 664-GOTHICORPHREY
+
+German,Fifteenth Century
+
+Cruciform, with a figure of Saint Sebastian at crossing, fanked by bowman; below is Gothic architecture and a figure of a Saint; all embroidered in colored silks and gold. The background rich mauve velvet.
+
+From the Georges Seligmann Collection,Paris.
+<!-- image -->
+
+665-SET OF FOUR“SAVONNERIE"PANELS
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+French,Louis XIV Period
+
+Four portraits; a woman leading the way demurely, holding a candle from which she screens her eyes; a woman reading a large tome; a man who removes his pipe from his lips to drink from a wine cup; and an ancient student sharpening his pen. In soft colors on dark neutral grounds.Framed.
+
+Height,14 inches;vidth,12 inches.
+Kindly read the Conditions under ruhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+666SAVONNERIE PORTRAIT
+
+French,Louis XIV Period
+
+Half- length figure of a youthful royalty, to right, three-quarters front, with a jeweled orb surmounted by a cross in the background. Of dignifed mien, with gaze directed slightly downward. He is clad in rose, white and gold, and an ermine cloak, and wears a jabot. Dark brown background.Framed.
+
+Height,251% inches; width,20 inches.
+
+From the Georges Seligmann Collection,Paris.
+
+667-LENGTHS OFBROCATELLE
+
+Italian,Seventeenth Century
+
+Blue, patterned in a broad and formal foral design.
+
+Approcimately,109 yards.
+<!-- image -->
+
+## 668-TENTATION:SAVONNERIE PANEL
+
+French,Louis XV Period
+
+Two figures appear, at half-length, beside a drapery, a coy young woman who holds a letter, and an elderly man who embraces her and holds before her a well-illed purse to emphasize an urgent proposition. She wears a decollete gown of orange and blue with a rose at the corsage, and a brown and gray hat, and he a coat of dark crimson. Neutral background, with a strong light on the figures. The qualities of a painting. In frame.
+
+Height,411% inches; width,26 inches.
+
+From the Georges Seligmann Collection,Paris.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 669SET OF FOUR EMBROIDERED PANELS
+
+English,Sixteenth Century
+
+The Story of The Creation. Embroidered in soft colors with greens predominant on a black background. A very rare and important set. In the frst panel God is represented three times,instructing Adam, creating the woman from the man's body, and blessing the pair, to whom he opens Paradise. In the second panel Adam and Eve appear under the Tree of the Knowledge of Good and Evil, in which is the serpent, and each holds a fruit. The third panel shows the guilty pair and God discovering them, and their expulsion from the Garden by the angel. In this episode they are clothed. The fourth panel shows focks and a man plowing,the death of Abel, and the sacrifice of a lamb on the altar.
+
+Height,20 inches;length,59 to 76 inches.
+
+From the Georges Seligmann Collection,Paris.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 669-SET OF FOUR EMBROIDERED PANELS
+
+English,Sicteenth Century
+
+The Story of The Creation. Embroidered in soft colors with greens predominant on a black background. A very rare and important set. In the frst panel God is represented three times, instructing Adam, creating the woman from the man's body, and blessing the pair, to whom he opens Paradise. In the second panel Adam and Eve appear under the Tree of the Knowledge of Good and Evil, in which is the serpent, and each holds a fruit. The third panel shows the guilty pair and God discovering them,and their expulsion from the Garden by the angel. In this episode they are clothed. The fourth panel shows focks and a man plowing, the death of Abel, and the sacrifice of a lamb on the altar.
+
+Height,20 inches;length,59 to 76 inches.
+
+From the Georges Seligmann Collection,Paris.
+No. 669-SET or FouR EMBRoIDERED PANELs (English, Sirteenth Century)
+
+<!-- image -->
+<!-- image -->
+
+## 670-RARE EMBROIDERED APPENDIUM
+
+Greek-Byzantine, Twelfth Century
+
+Composed of eight irregular oblong panels. In the panels are depicted fgures of the Madonna and Child, Saints Michael, Peter, John the Baptist, Joseph and Christopher, King David and the Holy Father. Executed in colored silks with two shades of f green prominent on a crimson ground. In remarkable preservation for its many centuries of existence, and eminently a museum specimen.
+
+Height, 20 inches;length,241 inches.
+
+From the Vente Antotolski &amp;Devillier,Paris. From the Georges Seligmann Collection,Paris.
+
+French,Sixteenth Century Enriched in silver and petit-point, the pattern being foral in gay colors. Border with silver fringe.
+
+Length,6feet 6inches;width,1 foot 5 inches. From the Georges Seligmann Collection,Paris.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+672-ORPHREY IN EMBROIDERY ON A VELVET PANEL
+
+Spanish,Early Sixteenth Century
+
+The Crucifixion, on a cross of green velvet overlying a broader cross of green silk embroidered in gold with fine and precise scrolls. All figures in relief. At the foot of the cross Joseph and Mary in devout sorrow, a skull between them, their robes of gold embroidery. On the arms of the cross Saint Peter and Saint Paul, and at the top the figure of God appearing in the clouds, surrounded by angels, all in gold embroidery. Background of contemporaneous red velvet patterned conventionally.
+
+Height,46 inches;width,25 inches.
+
+From the Georges Seligmann Collection, Paris.
+<!-- image -->
+
+## 673-EMBROIDERED VELVET DALMATIC
+
+Spanish,Sixteenth Century
+
+Velvet a deep red, the orphreys golden embroidery and silks on a golden ground.
+
+From the Georges Seligmann Collection,Paris.
+
+## 674TWO EMBROIDERED AND PAINTED SILK PANELS
+
+Southern Italian,Seventeenth Century
+
+Biblical compositions, involving numerous figures, men and women, children and angels, chickens and domestic animals, buildings and landscape, executed in many colors and appliqué.
+
+Height,13 inches;length,1614 inches.
+
+From the Georges Seligmann Collection, Paris.
+Kindly read the Conditions under which erery item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 675-NEEDLEPAINTED VELVET CHASUBLE
+
+Italian,Early Fifteenth Century
+
+Blue velvet with a brilliant sheen,adorned with unusual orphreys on the front, a line of Gothic lettering, as well as trees and fowers. The great Cross on the back is decorated with nearly a score of figures, and the "Death of the Virgin." The embroidery is in silks and gold. The figures are remarkably well preserved, especially in their expressions.
+
+F'rom the Georges Seligmann Collection,Paris.
+No.675-NEEDLEPAINTED VELVET CHAsUBLE (Italian,Early Fifteenth Century)
+
+<!-- image -->
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 676-NEEDLEPAINTED PROCESSIONAL BANNER
+
+Spanish,Fifteenth Century
+
+Cruciform orphreys embroidered in colored silks; depicting subject at centre,of cruciform "The Birth of Christ," on the arms and in the vertical panel with figures of pairs of saints.  On contemporary cut and uncut Gothic green velvet, patterned in formal foral design.
+
+From the Georges Seligmann Collection,Paris.
+No. 676-NEEDLEPAINTED PR0CESS10NAL BANNER (Spanish,Fifteenth Century)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+677-VELVET AND EMBROIDERY CHASUBLE
+
+<!-- image -->
+
+English,Fifteenth Century
+
+Ruby velvet embroidered in formal foral patterns in gold, and carrying richly worked orphreys in gold and silver. These include richly wrought medallions of Saint Catherine and other saints, with intermediate decorations of birds and foral scrolls.
+<!-- image -->
+
+678-CHASUBLE FRONT
+
+German,Fifteenth Century
+
+Green brocatelle, on which is a cruciform embroidered in gold and silks. At crown singing angels appear above a group depicting the "Birth of Our Lord." Figures of saints are on the arms of the cross; and below is presented the "Death of the Virgin." She is surrounded by holy men. At the base are two further saints.
+
+From the Georges Seligmann Collection,Paris.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 679-EMBROIDERED VELVET CHASUBLE
+
+Spanish Gothic,Fifteenth Century
+
+In two pieces. Rose velvet of an exquisite hue and with a brilliant and soft sheen, cut in pomegranate design, various fowers and characteristic scrolls. Orphreys embroidered in rich silks of several colors and in gold and silver with the Descent from the Cross and numerous saintly figures. The velvet and especially the embroideries in a remark- ably fine state of preservation.
+
+From the Georges Seligmann Collection, Paris.
+No. 679—EMBROIDERED VELVET CHASUBLE (Spanish Gothic, Fifteenth Century)
+
+<!-- image -->
+<!-- image -->
+
+## 680-VELVET CHASUBLE WITH EMBROIDERED ORPHREYS
+
+English,Fourteenth Century
+
+The velvet a rich and glowing deep blue; the orphrey embroidered in silks and gold. The embroidered figures though worn retain a striking ground is extraordinarily well expression. The crucifixion on its gold preserved. A rare piece of much importance.
+
+From the Georges Seligmann Collection,Paris.
+<!-- image -->
+
+## 681-MEDALLIONED VELVET ALTAR FRONT
+
+English,Fifteenth Century
+
+Double-headed eagles within fine vermiculate scrolls with feurs-de-lis, and numerous other devices are found from one end of the fabric to the other. At centre is a Virgin within a glory. The embroidery is in gold, silver, and silken relief.
+
+From the Vente Gay,Paris.
+
+From the Georges Seligmamn Collection,Paris.
+
+682TWo VELVET PANELS
+
+Oblong. Ruby velvet of characteristically fine texture, bordered and fringed with gold galloon.
+
+Genoese, Sicteenth Century
+
+Length,6 feet 4 inches;height,2 feet 4 inches.
+
+Height,3 feet 6 inches; length,7 feet 3 inches.
+<!-- image -->
+
+683-GoTHIC VELVET CoPE
+
+English, Fifteenth Century
+
+A very rare example of Gothic workmanship, with a wonderful display of angels embroidered in gold and colored silks on rich ruby velvet. On the back is a medallion of the Virgin upheld by an angel, and around it feurs-de-lis.
+
+Length,8 feet 7 inches.
+
+From the Georges Seligmann Collection,Paris.
+
+684-VELVET COPE
+
+Italian,Siateenth Century
+
+Genoese velvet of dark emerald hue, trimmed with gold galloon;has hood. Brilliant sheen.
+
+Length, 9 feet 9 inches.
+
+From the Georges Seligmann Collection,Paris.
+
+685-TWO VELVET PANELS
+
+Genoese,Sixteenth Century
+
+Upright oblong strips of ruby velvet, with a frieze indicated by silvergilded fringe; silver-gilded galloon at top and bottom.
+
+Length,62 inches;reidth,14 inches.
+
+Italian,Sixteenth Century
+
+686-VELVET CHASUBLE
+
+Genoese emerald velvet with a golden-olive sheen.
+Kindly read the Conditions under rwhich every item is offered and sold.They are printed in the forepart of the Catalogue.
+
+687-RARE GOTHIC CHASUBLE
+
+English,Fifteenth Century
+
+Rich rose velvet, the front embroidered in gold and colors depicting the Deity crowned and enthroned,a large crucifix standing before him and his hand raised in the posture of blessing, the whole between large figures of the feur-de-lys. Below is a branch of lilies in a vase, and on the shoulg the glory of God. An ornamentation of more than a score ders are two-headed eagles. About the field are figures of Gothic angels bespeaking offigures.
+
+Illustrated in theDe Farcy book on noted Velvet of the World.
+
+From the Georges Seligmann Collection, Paris.
+No. 687-RARE GoTHIC CHASUBLE
+
+<!-- image -->
+
+(English,Fifteenth Century)
+<!-- image -->
+
+688-RoYAL LoUIS QUATORZE GENOESE JARDINIERE VELVET HANGING Seventeenth Century
+
+Rectangular. Varicolored velvet, cut, on a white ground, in a pattern of scrolls,fowers and leaves,enclosing govalmedallions of baskets of fowers and leaves. Four breadths. Total length,14%s yards.
+
+689PAIR OF ROYAL LOUIS QUATORZE GENOESE JARDINIERE VELVET HANGINGS
+
+Similar to the preceding. Three breadths in each.
+
+Total length,22 yards 33 inches.
+
+690-ROYAL JARDINIERE VELVET FURNITURE SUITE OF FIVE PIECES Venetian,Seventeenth Century
+
+One settee, two winged armchairs and two side chairs. The contemporary Venetian frames throughout are inlaid with mother-of-pearl and penciled in gold and touched with vermilion. The upholstery is of rich and brilliant Genoese Louis XIV jardiniere velvet.
+
+(llustrated)
+
+Length of settee,5 feet.
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 691-SUPERB SALON HANGING OF CUT GREEN DRAP D'OR VELVET By Jean Berain; French, Seventeenth Century
+
+Exquisite drap d'or field, woven in cut and uncut jade-green velvet, of archaic character within tasseled scrolled strap-medallions, sur-
+
+Length,approximately,109 yards.
+
+mounted by perched birds and tasseled canopies, fanked by kneeling figures.
+
+Note: The cartoon for this glorious hanging was executed by Jean Berain (16381711) and is of his early and best period. James Penderel-Brodhurst, the eminent authority on Berain, says of him:"He was the oracle of taste, the supreme pontiff whose fiat was law in all forms of decoration."
+No.691-SUPERB SALON HANGING OF CUT GREEN DRAP D'OR VELVET (ByJeanBerain)
+
+<!-- image -->
+- 692-NEEDLE-POINT VALANCE English, Seventeenth Century The bottom scalloped. Gros-point and petit-point picturing figures dancing around a tree to music supplied by a man and a woman. Birds fy overhead. In bluish colors on a dark ground.
+
+Height, 17 inches; length, 62 inches.
+
+- 693-GREEN VELVET COVER Genoese,Sixteenth Century Lustrous deep jade velvet, fuctuating to very soft tones and embossed with closely set double-scrollings. Trimmed with broad gold galloon.
+
+6feet9inches by5 feet 6 inches.
+
+Note: A very unique and unusual type of velvet.
+
+## 694GOTHIC EMBROIDERED VELVET DALMATIC
+
+Spanish, Fifteenth Century
+
+Ruby velvet adorned with scrolls and exhibiting a soft and brilliant sheen, with orphreys of bishops and saints in gold embroidery.
+
+From the Georges Seligmann Collection,Paris.
+
+- 695-CHASUBLE
+
+## Tcheque,Late Sixteenth Century
+
+Extraordinary example. In petit-point and gold and silver embroidery ; the panel or orphreys are in petit-point enhanced in gold and silver, and picturing a king enthroned and a man approaching. On the back halberdiers are casting a bishop into a river. Below these major decorations the petit-point reveals numerous fowers in varied colors. On the side are rich foral scrolls in various colors on white silk.
+
+From the Georges Seligmann Collection,Paris.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## GOTHIC AND RENAISSANCE FORGED IRON
+
+<!-- image -->
+
+## 696-FORGED IRON CANDLE BRACKET
+
+Venetian,Early Sixteenth Century
+
+Scrolling arm branching from an upright decorated in leaf form, with embellishment of fowers,and supporting a pricket within scrolled leaves which are surmounted by a band carrying upright trefoils. Painted.
+
+Height,25 inches; projection,16 inches.
+
+697-EARLY GOTHIC FORGED IRON CANDELABRA
+
+Florentine,Fifteenth Century
+
+Composed of iron ring with three lights and cross-bars from which rises a single candle light. Very simple and dignified. Rare example.
+<!-- image -->
+
+<!-- image -->
+
+698-TWO EARLY GOTHIC TALL IRON ANDIRONS
+
+Tuscan,Fifteenth Century
+
+On arched bases, the stems furnished with fire tool hooks. One with rings, another with the emblem of the dragon and the serpent's tail, archaically-shaped torch baskets.
+
+Height,3 feet 9 inches.
+
+Note: These guards, though different in detail, are intended to be mates.
+
+699-FORGED IRON CANDELABRA
+
+Spanish,Sixteenth Century
+
+Bowl shaped centre ornamented with leaves and fowers. Four arms with acanthus leaves and plain cup bobeches.
+<!-- image -->
+
+- 700-PAIR FORGED IRON SCONCES Tuscan,Sixteenth Century Wall brackets wrought in scrolls, with projecting spiral tendrils, and supporting prickets and above them narrow rings.
+
+Height, 17 inches; projection, 12 inches.
+
+- 701-FORGED IRON BRACKET Tuscan,Sixteenth Century Two quadrangular twisted arms, the lower supporting a pricket, the upper one a circular band, and between them a stanchion fanked by serpentine ribbon scrolls.
+
+Height,11 inches; projection,13 inches.
+
+- 702—FORGED IRON BRACKET Tuscan,Sixteenth Century Wrought in scroll form and supporting a socket of four leaf scrolls. Height, 12 inches; projection, 91 inches.
+<!-- image -->
+
+703-FORGED IRON BRACKET
+
+Tuscan,Sixteenth Century
+
+Wrought in scrolls with applied leaves, and supporting a deep and open
+
+socket formed of leaf-strips.
+
+Height,28 inches; projection,12 inches.
+
+- 704-FORGED IRON GATE Spanish,Fifteenth Century Quadrilateral frame,molded,ornamented with blossoms in relief, surrounding a grille of baluster and ring spindles. Cresting of S-scrolls between vase stiles, between the scrolls a circular medallion painted with the Madonna supporting the dead Christ. Gilded.
+
+Height,33 inches;length,26 inches.
+<!-- image -->
+
+705-GOTHIC FORGED IRON EASTER FESTIVAL ToRCHERE
+
+Tuscan,Fifteenth Century
+
+Shaft enriched with open leaf cusped baluster motive at centre and open basketed socket for light. On scrolled tripod legs.
+<!-- image -->
+
+## 706-GOTHIC WROUGHT IRON CANDELABRUM
+
+Slender central shaft, terminating in a pinnacle and supporting a very unusual open pear-shaped revolving basket sustaining two annular tiers bearing prickets for candles. On scrolled and traceried tripod legs.
+
+Florentine,Fifteenth Century
+
+Height,6feet5 inches.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+707-GOTHIC FORGED IRON EASTER LIGHT
+
+Florentine,Fifteenth Century
+
+On tripod base of three pointed arches terminating in curved supports enriched with horizontal feur-de-lis and studded bands. Round iron knobbed centre stem. Bronze bobeche and molded candle cup.
+
+Height,4 feet 8 inche8.
+<!-- image -->
+
+## 708-GOTHIC FORGED IRON PRICKET CANDELABRUM
+
+On three short web-feet, over which is an octagonal grease tray. Above, two serrate wheels, each supported on scrolls and carrying two prickets.
+
+Florentine,Fifteenth Century
+
+Height,18 inches.
+
+## 709-PAIR GILDED FORGED IRON LANTERN BRACKETS
+
+Venetian,Sixteenth Century
+
+Angle brackets for exterior service,ornamented with acanthus scrolls. At the end of the projecting shaft a royal crown, and below it the twoheaded eagle.
+
+Height,441 inches; projection,26 inches.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+710-FORGED IRON CANDLE BRACKET Tuscan,Early Renaissance Wrought in scroll form with spiral tendrils and adorned with blossoms; and supporting a socket of liliform leaves.
+
+Height,35 inches; projection,111/ inches.
+<!-- image -->
+
+71l—FoRGED IRoN GoTHIc GATE Florentine,Fifteenth Century Double gate with scrolling arch top; bolt with bronze knob handle. The pattern of the gates rectilinear strap-work lattice, each square enclosing a circle and the circles cut with Gothic foral designs.
+
+Height,361 inches;length,57 inches.
+
+712-TWO EARLY RENAISSANCE FoRGED IRON BRACKETS Venetian,Sicteenth Century
+
+Fleur-de-lis scrolled arms, foral candle holders.
+
+Height,2 feet 4 inches;diameter,1 foot 6 inches.
+Kindly read the Conditions under rwhich every item is offered and sold.They are printed in the forepart of the Catalogue.
+
+## PAINTINGS,SCULPTURES, STUCCOS AND BAS-RELIEFS
+
+## LOUIS TOCQUE
+
+FRENCH:1696-1772
+
+## 713-MICHELE ANTONIO SALUZZO
+
+[Monsu (Seigneur) della Manta, as a Boy]
+
+Height,511/2 inches;width,34 inches
+
+Full-length standing figure of a chubby youth with matured features, facing the observer and slightly turned toward the left, shown in an attitude of play with a pet dog which he holds on a purple leash, a small lash whip raised in his right hand. His cheeks are rosy, his ringlets powdered, and he is in blue throughout, trimmed with gold and scarlet, and wears red laced buff boots. Conventional background of drapery, architecture and landscape.
+
+On back, name and title of sitter, with his age, 4 years, and the date 1734.
+
+From the Marquis of Saluzzo della Manta Castle in Verzuolo,Piedmcnt,Italy.
+No. 713-M1CHELE ANTON10 SALUZZO
+
+<!-- image -->
+## JACOPO ROBERTI
+
+Called IL TINTORETTO（1512-1594)
+
+VENETIAN SCHOOL OF THE SIXTEENTH CENTURY
+
+## 714PORTRAIT OF ELIZABETH FOSCARI
+
+Canvas:Height,45 inches;width,371 inches
+
+Three-quarter-length figure of a young woman seated in a straight-backed armchair covered with red velvet. She wears a black velvet robe with lace fichu, a pleated lace ruff, pearl drop earrings, a pearl necklace, gold bracelets and a chain girdle of gold. Her hair is drawn back from her forehead and she wears a curious headdress of coiled Murano glass. Her hands rest on the arms of the chair, and at her side is an open window through which is seen a mountainous landscape. Background of dark drapery,with,in the upper lefthand corner, the inscription in Roman characters : "ELISABEta FILIA. IOSs. ALEGE PROCs. UXs. ALOVIws. FOSCvs. EQEvs. GIACOBUS. TINTORETO.Fte." Signed. In old carved and gilded wood frame.
+
+From the Volpi Collection, sold in Florence in 1910 and illustrated in his catalogue.
+No.714—PoRTRAIT OF ELIZABETH FoSCARI (By Tintoretto)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## DEFENDENTE FERRARI
+
+LOMBARDIAN:EARLY SIXTEENTH CENTURY
+
+## 715-BETROTHAL OF ST.CATHARINE
+
+Panel,in architectural frame:Height,33 inches; width,34 inches
+
+A composition of four figures, with a classical landscape background, depict ing the betrothal of St. Catharine of Alexandria to Christ by the Virgin. The Virgin, in crimson and a rich dark green mantle,holds the nude Child,who turns to place a ring on the finger of Catharine,who is clad in purplish-crimson and a lighter green,while Joseph in arose-colored robe bends forward between the two women. A painting resembling Perugino. Defendente Ferrari's work is held in high appreciation in Italy.
+
+From the Marquis of Saluzzo Castle ofVerzuolo.
+No. 715-BETROTHAL OF ST. CATHARINE (By Defendente Ferrari)
+
+<!-- image -->
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## PIETRO PERUGINO (MANNER OF)
+
+UMBRIAN:1446-1523
+
+## 716-MADONNA AND CHILD
+
+On panel:Height,23 inches;width,15 inches
+
+The Holy Virgin is seated, seen at three-quarter length before an arched window displaying a primitive landscape. She wears a rose ribbon in her hair, crimson robes, and a turquoise blue mantle, enriched with embroidery. The Saviour is seated on her lap, with His head turned observing some object toward left.
+No. 716—MADoNNA AND CHILD (Manner of Pietro Perugino)
+
+<!-- image -->
+and sold. They are printed in the forepart of the Catalogue.
+
+## GIOVANNI SPAGNA (MANNER OF)
+
+UMBRIAN:Circa 1525
+
+## 717-TRIPTYCH OF THE MADONNA
+
+Height,26 inches
+
+Within, the Madonna stands with the Child in her arms, painted in vermilion, blue and green, and with naturalistic features. On the shrine doors and on the base are figures of saints and angels painted in soft colors and each with a golden nimbus, by a pupil of the master.
+No. 717—TRIPTycH oF THE MADoNNA (Manner of Giooanni Spagna)
+
+<!-- image -->
+<!-- image -->
+
+718-TWO CARVED AND GILDED WoOD STATUES OF CHERUBIM BY
+
+ANT0NI0 AMADE0(1477-1522)
+
+Lombardian,Fifteenth Century
+
+Upstanding figures of youthful female guardian angels. In mail and fowing robes of gold. Their long curling hair falls over their shoulders.
+
+master.
+<!-- image -->
+
+719PAPIER-MACHE BUST OF ST.ANTHONY AND WoODEN RELIQUARY Florentine,Sixteenth Century
+
+Bust of St.Antonino,Archbishop of Florence, shown in his Dominican robe of black, with a white border decorated with crosses. On an octagonal, molded and painted wooden pedestal, arranged as a reliquary with glazed panels for the reception of relics in front and sides.
+
+Height,20 inches;width,21 inches.
+Kindly read the Conditions under rwhich erery item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## B.BELLANO
+
+## 720-PAIR PAPIER-MACHE BAS-RELIEFS
+
+Italian,Sixteenth Century
+
+The Battle of the Amazons at Troy. Believed to be models for bronzes, gilded over. In one panel the battle is in furious progress before the towers and battlements of the city;in the foreground are the figures of dead and wounded. In the other panel a group of Amazons.
+
+Height,101/inches;length,20 inches.
+
+Note: These most interesting bas-reliefs have been attributed to Bartolommeo Bellano.
+
+From the Georges Seligmann Collection, Paris.
+No.72O—PAPIER-MAcHE BAs-RELIEFs (Italian, Sicteenth Century)
+
+<!-- image -->
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## JACOPO DELLA QUERCIA
+
+721FLORENTINE POLYCHROMED STUCCO BAS-RELIEF OF THE MADONNA OF THE"FONTE GAIA"
+
+Florentine,1374-1438
+
+Uncommonly bold and large bas-relief. The half figure of the Virgin in blue mantle and hood holding the Infant Lord dressed in an embroid- ered tunic and holding a fruit in His left hand. Original polychroming.
+
+Height, 37 inches;rwidth,23 inches.
+
+Note: A rare contemporary example similar to the one illustrated in Dr. William Bode,"Florentiner Bildhauer der Renaissance"Berlin,192l,page 75.
+722-WAX BAS-RELIEF BY M1CHELOZZO M1CHELOZZI (1396-1476) Florentine,Fifteenth Century
+
+<!-- image -->
+
+Rectangular tablet modeled in low relief,with a three-quarter length standing figure of the Virgin in a robe, a mantle secured with a strap and a hood, supporting, with both hands, the undraped standing Child Christ. In molded and gilded wooden frame.
+
+Height,27 inches;width,191yinches.
+
+Note:It is questionable whether another waxmodel of the finestperiod of the Italian Renaissance, and of this size,has descended to our own day in such admirable condition.It was probably made as the original from which a silver or bronze was to be cast by the"cire perdue"process.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## LORENZO GHIBERTI
+
+FLORENTINE:1381-1455
+
+## 723-TERRA COTTA BAS-RELIEF
+
+Half-length figure of the Virgin, with robe, mantle and hood, and head inclined to the left side, supporting with her right hand the Child Christ with curling hair, undraped save for a loose robe.
+
+Height of terra cotta,25 inches.
+
+Note: Ghiberti, who molded the famous panels for the door of the Baptistery of San Giovanni in Florence,has left so few undoubted productions that a piece such as this is of the utmost importance.
+## GOTHIC AND RENAISSANCE CABINETS,TABLES,CASSONI,
+
+## BENCHES,TAPESTRY AND NEEDLEWORK ARMCHAIRS,FURNITURE
+
+<!-- image -->
+
+## 724-CARVED WALNUT HATRACK Tuscan, Sixteenth Century
+
+An oblong panel for affixing to the wall, plainly molded, and faced with rich carvings and four large carved pegs. Below them a beautifully Above a dentil molding and a lower projecting molding carved in relief with leaf designs. Light and dark patina. Original example.
+
+Height,201/2inches;length,5812 inches,
+
+## 725PAIR FLEMISH TAPESTRY CARVED AND INLAID ARMCHAIRS Lombardian,Renaissance
+
+Scrolled arms, carved with acanthi at the stiles, turned armposts, scrolled apron and front stretcher, and across the back two heavily scrolled broad stretchers carved in relief, the upper one with a shell crest. Stile tops carved in acanthus motive. Stiles,arms and legs inlaid,in cherry and walnut, and the broad stretchers each carrying an inlaid panel. Seats upholstered in Brussels tapestry decorated with figures, fruits,animals and birds.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+726-CARVED WALNUTTABLE
+
+Oblong, with molded edge; baluster of vase form carved with acanthus leaves in bold relief, the vase resting on a rectilinear section based upon
+
+Florentine,Sixteenth Century
+
+Height,33 inches;length,37 inches.
+
+four lion-claw feet.
+<!-- image -->
+
+727-RENAISSANCE WALNUT TAVOLINO
+
+Florentine.Early Fifteenth Century
+
+Resting on four urn-shaped balusters, its aprons carved in delicate leaf and shell patterns while the dies are enriched with carved rosettes.The top is inlaid with festoons and its molded edge finely carved with acan thus. There is a centre drawer working upon a concealed spring device.
+
+Length,191/inches;diameter,13 inches;height,9% inches.
+
+Note:A charming document of the artistic beauty in all forms of domestic life in Italy under the Medici.A small table used by the nurses at Baptism. In its pro- portions it is a perfect illustration of architectural treatment of furniture in miniature.
+728-EARLY RENAIssANcE TABLE Lombardian, Sicteenth Century On square legs joined by rails and supporting carved and futed apron. Twodrawers.
+
+<!-- image -->
+
+729-PAIR ROYAL AUBUSSON TAPESTRY CARVED WALNUT FAUTEUILS French,Louis XV Period
+
+Conventional type, of scrolled outlines throughout, the arms spreading, the legs cabriole. The frames richly carved in relief with garlands, leaves and vines, and cartouches characteristic of the period. Back, seat and arms upholstered in brilliant Aubusson-royal tapestry, its rich designs including an opened pomegranate amongst many fruits and fowers,with birds perched among them.
+<!-- image -->
+
+730-ANDREA DEL SARTO WALNUT PRIE-DIEU
+
+Florentine,Sixteenth Century
+
+Molded oblong,sloping book rest, supported on molded panel,adorned by two very finely voluted brackets having futed rustications and set on narrow kneeling box.
+
+Height,371/2 inches;width,31% inches.
+
+Note: This graceful type of prieu-Dieu has so often appeared in paintings by del Sarto that this shape is known by his name.
+<!-- image -->
+
+## 731--GOTHIC CABINET IN THREE PARTS
+
+Upright oblong with four plain angular feet; in lower part two drawers and one door; upper part has one door; base separate. Base carved with three rosettes, the middle door with a lozenge-shaped panel and the upper door with a foral medallion. Front carved with numerous moldings and borders and a cornice.
+
+Lombardian,Fifteenth Century
+
+Height,5 feet 91inches;reidth,28 inches.
+<!-- image -->
+
+732-CARVED CUPBOARD
+
+Tuscan,Sixteenth Century
+
+Oblong,with plain top molded, over a shallow bracketed cornice; stiles vertically channeled,with alternate half-round moldings; at their top heavy leaf carvings which form the fronts of two drawers. Central drawer and the single door paneled with perle-olive moldings, and on the door a scrolled drop handle. Gadrooned base.
+
+Height,44 inches;rwidth,37 inches.
+Kindly read the Conditions under rehich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+733CARVED WALNUT CABINET
+
+School of Lyons. Oblong with edge molded and base channeled and resting on large knob feet. Superimposed a smaller structure of similar shape but different decoration,with an interrupted pediment. Each part has two doors, those of the upper section carved in relief with figures of Ceres and Flora, those of the lower section with chimeres. relief. Floral and other carvings incised and in relief adorn other surfaces of both sections, which display also inlaid panels of black marble. Fine patina.
+
+French,Sixteenth Century
+
+Height,83 inches;rwidth,43 inches.
+<!-- image -->
+
+734-GOTHIC CARVED OAK CUPBOARD
+
+Northern Italian,or Southern French,Fifteenth Century
+
+Oblong, on four straight grooved legs which are continuous with the heavy stiles, above the top a parapet; four doors. Doors and parapet boldly incised with large and small rosettes, enclosing foral designs, armorial bearings and the sacred monogram. Ends carved in relief with linen-fold panels. Height, 65 inches;length,451 inches.
+<!-- image -->
+
+## 735WALNUT CABINET WITH TWO DoORS
+
+Ligurian,Siateenth Century bails. Base molded with a succession of bulbs.
+
+Oblong on lion-claw feet; dentated cornice and molded top; two drawers in the frieze with fronts carved in leaf motive. Stiles carved in a formal motive of C-scrolls, issuing from a vase, and a central stile between the doors carved with a grape-scroll. Doors paneled and have wrought iron
+
+Height,45 inches;length,44 inches.
+<!-- image -->
+
+736-RENAISSANCE CARVED WALNUT CREDENZA
+
+Nearly square case of harmonious proportions. Centre door covered with detached motifs of the lily symbol of Florence. The stiles are slightly tapering vase-shaped pilasters carved with guilloche and crested with Ionic capitals;bracket feet enriched with winged amorini heads, the frieze under a dentiled cornice is carved in an archaic basket weave pattern and contains one drawer with engraved bronze knobs shaped as pomegranates. In fine state of preservation and remarkable patina.
+
+Florentine,Siateenth Century
+
+Height,41 inches;length,3 feet 4 inches; depth,1 foot 4 inches.
+<!-- image -->
+
+737-LATE RENAISSANCE WALNUT TABLE
+
+Umbrian,Sixteenth Century
+
+On tapering square legs, reeded on four sides, supporting ovolo shaped futed apron-acanthus carving at the corners.
+
+Height,2 feet 31inches;length,2 feet 5inches;diameter,1 foot 11 inches.
+<!-- image -->
+
+738-CARVED OAK LIBRARY TABLE
+
+French,Sixteenth Century
+
+School of Lyons. Oblong top, and short convex skirt carved with a molding of foral derivation, with a conventionalization which makes an H a conspicuous pattern. Lyre-shaped legs on scrolled feet,all carved with rosettes, cartouches, discs and primitive designs. Lyreshaped underbrace, also carved, on a broad molded stretcher.
+
+Length,5 feet;rvidth,32 inches.
+## 739-EARLY RENAISSANCE REFECTORY TRESTLE TABLE
+
+## Florentine,Late Fifteenth Century
+
+On two broad urn shaped and pierced supports of an archaic pattern connected by an uncommonly shaped stretcher,molded oblong two-inch top.
+
+Note: A similar table,varying in the stretcher only,is illustrated in Dr. Frida
+
+Schottmiller's book on Italian Renaissance Furniture, page 131.
+
+Width,2feet9 inches;length,7feet7inches;height,2feet 9inches.
+TABLE TRESTLE (Florentine, Late Fifteenth Century) No. 739—EARLY RENA1SsANCE REFECToRY
+
+<!-- image -->
+## 740-CARVED OAK CUPBOARD
+
+School of Lyons,Siateenth Century
+
+In two pieces, the lower section open, the upper section having two compartments with doors and a long drawer with wrought iron knob. The doors, in molded doorways set between grooved columns carved in relief with vines, are sculptured with figures in relief within molded and carved frames, in one Justice, in the other Vanity. In a central niche stands Venus, beneath a cartouche above which appears a dove. At either end are panels within carved frames, enclosing cartouches bearing cherub-heads. Carved cornice and the drawer front. The lower section has a back-panel carved with a nude figure of Peace within an oval wreath, fanked by cupids and dolphins, and grooved pilasters. Front stiles carved in broad vase form, with relief heads at the base, which is carved with foral scroll and perle-olive moldings.
+
+Height,5feet 4inches;length,4feet.
+No.74O-CARVED OAK CUPBOARD (School of Lyons, Siateenth Century)
+
+<!-- image -->
+<!-- image -->
+
+741-SMALL WALNUT TABLE
+
+Circular top;with finely conceived tripod outflanged scroll-bracketed supports surrounding a central shaft having a circular molded platform towards foot. Rich patina.
+
+Florentine,Sixteenth Century
+
+Height,271/inches.
+<!-- image -->
+
+742-WALNUT TABLE
+
+Tuscan,Early Sixteenth Century
+
+Rectangular top. One drawer. Skirt carved by incision in simple design; solid end-legs in scroll motive incised with large rosettes and resting on solid underbraces with lion-head feet; scrolled stretcher. Dark patina.
+
+Length,341% inches;width,23 inches.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 743-FLORENTINE RENAISSSANCE CARVED WALNUT CABINET Sixteenth Century
+
+In two portions. The lower part fitted with two doors in molded and leaf carved frames fanked by ovolo carved stiles headed by lions'masks. Paneled returns. The upper portion has a fall front of finely figured wood paneled with a broad band of carved rosettes.The centre is formed by a fap door of richly figured wood in rosette carved borders, ovolo frieze with concealed hinged opening carved with a running Greek leaf ornament,paneled sides,dentiled cornice. Theinteriorbearsa centre door, fanked by columnar niches facing concealed compartments and nineteen drawers of varying sizes sectioned by carved moldings.
+
+Note:Fine state of preservation.This cabinet closely resembles the one illustrated on page 122 of Dr. Frida Schottmuiller's book on Italian Renaissance Furniture.
+No. 743-FLORENTINE RENAISSANCE CARVED WALNUT CABINET (Sixteenth Century)
+
+<!-- image -->
+<!-- image -->
+
+744--WALNUT CABINET
+
+Florentine,Sixteenth Century
+
+In two pieces. The lower part a cupboard with two doors with two bronze handles, molded base and resting on lion-claw feet; corners indented and occupied by two Doric columns,and adjoining them pilasters with cartouches and pendants. Bracketed cornice. The upper section with fall front, paneled in root walnut, pilasters with caryatids and molded cornice. Within, eleven drawers faced with root walnut, with bronze drop handles, and two compartments with lock doors.
+
+Height,4 feet 8% inches;reidth,3 feet.
+<!-- image -->
+
+## 745-WALNUT CUPBOARD-DESK
+
+Florentine,Early Sixteenth Century
+
+Slant front which lifts; one door. Stiles richly carved in bold relief with female busts, fowers and leaf pendants. Dark patina.
+
+Height,31 inches;width,21 inches.
+
+From the Fairfax Murray Collection,London.
+Kindly read the Conditions under rehich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 746CINQUECENTO CARVED WALNUT MARRIAGE CHEST Florentine,Sixteenth Century
+
+Rectangular cassone; molded and carved edges; recess panels finely carved and enriched with Satyr Caryatids supporting Ionic capitals. Molded and carved base and lion-paw feet. Superb patina.
+
+Length,3 feet 91 inches; depth,1 foot 9 inches;height,1 foot 81inches.
+No. 746-CINQUECENTO CARVED WALNUT MARRIAGE
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+747--ROOT WALNUT CABINET Tuscan,Early Sicteenth Century
+
+Height,6 feet 3 inches;rwidth,38 inches.
+
+Rectilinear, in two sections; on claw feet. Three drawers and one door in each section. On the upper section incised molding in shield design; the lower door paneled with a perle-olive molding.All drawers and doors with turned wooden knobs. Richly patinated and in fine preservation.
+<!-- image -->
+
+748-GOTHIC INLAID CABINET IN TWO PARTS
+
+Lombardian,Late Fifteenth Century
+
+An unusual design, with the upper part raised on scrolled legs; in upper part one door, in lower part one door and one drawer, with bronze button handles. The front inlaid in light and dark wood in diagonal sections and I geometrical figures. Carved scroll cornice and carved molding.
+
+Height,5 feet 9 inches;width,28 inches.
+## 749-CARVED OAK TALL-BACKED HALL SEAT
+
+French Gothic,Fifteenth Century
+
+Oblong with straight arms above the solid ends, the arms finished with concave molding. Hinged seat cover opening to the chest which forms the lower part of the piece. The face of the chest and the lower part of the back finely carved with panels scrolled as an opened parchment book, its back to the observer, and the ends carved with panels scrolled in linen-fold pattern. Upper part of back carved in relief with cathedral windows and Gothic tracery,two of the four panels displaying escutchcons of noble French families. Dark patina.
+
+Height,69 inches;length,511/inches.
+
+From the De Motte Collection,Paris,1922.
+No.749-CARVED OAK TALL-BACKED HALL SEAT (French Gothic,Fifteenth Century)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 750--WALNUT CABINET
+
+Northern Italian or Southern French,Late Fifteenth Century
+
+Rectangular top with molded and futed edge, supported by three carved brackets, apron fitted with two drawers with paneled fronts. Body as a cupboard with two paneied hinged doors, divided and fanked by vertical panels. Molded base,rectangular feet.
+
+Note:Remarkably interesting specimen of early carving.
+
+Height,3feet 91%inches;width,5feet 31inches;depth,1foot 8 inches
+<!-- image -->
+
+## 751-GOTHIC WALNUT CASSONE
+
+Northern Italian or Southern French,Late Fifteenth Century
+
+Rectangular, with hinged lid. Front divided into three round-arched panels,fitted with Gothic tracery, the spandrels carved with Gothic leaves, and with plain stiles. Ends paneled with carved Gothic rosetted tracery.
+
+Height,2 feet 31 inches;width,4 feet 8inches;depth,1 foot 10 inches.
+
+## 752-GoTHIC WALNUT DoOR
+
+## Florentine,Sixteenth Century
+
+Rectangular, with arched top, surrounded by sunken moldings and divided by molded stiles into six panels, entirely occupied by carved diamond-shaped diaper enclosing foriated rosettes.T The upper middle panel has a carved scrolled escutcheon charged with the arms of the Strozzi family. Wrought-iron lock,with heart-shaped escutcheon and circular sunken rosette, decorated with interlacements and with a wrought-iron ring in centre.
+
+Height,74 inches;reidth,39 inches.
+Kindly read the Conditions under ruhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+753--CARVED WALNUT CASSONE ILLUMINATED ON GILDING BY JACOPOSANSOVINO Venetian,Siateenth Century
+
+Molded top; two forged iron handles; straight feet heavily carved. On the face under a bracketed andgilded cornice the broad centralpanel is elaborately carved in bold relief,and partly gilded,the ornamentation Venus nude and reclining, within scrolls,fanked by chimeras and genii, and at the ends within panels are cartouche heads. At the base various moldings.
+
+Length,5feet7inches.
+(Venetian, Siateenth Century)
+
+<!-- image -->
+<!-- image -->
+
+754-CARVED WALNUT CABINET
+
+Molded top, body fitted with two doors and two drawers, the latter carved with guilloche. The stiles are stele, fan crested. The dies are carved with rosettes;circular bronze knobs.
+
+Tuscan,Siateenth Century
+
+Note: An architectural design very characteristic of the epoch.
+
+Height,3 feet 4 inches;width,2feet 11 inches;depth,1 foot 6 inches.
+
+## 755-PAIR CARVED WALNUT WALL PEDESTALS
+
+Deep quadrangular top, molded, the face carved with a cartouche. Below this the sides carved as great volutes and converging to a narrow base; under the top a huge yawning lion head, and below, within the sides, avolute.
+
+Venetian,Sixteenth Century
+
+Height,4 feet 101/inches.
+756-WALNUT HALL SEAT AND CHEST
+
+<!-- image -->
+
+Tuscan,Sixteenth Century
+
+Oblong with high back supporting a cornice, the back paneled and molded; seat plain; front ornamentation similar to that of the back. Front paneled grooved and carved with hoof feet; scrolled apron. Dark patina. On molded projecting base.
+
+Height,5feet 41/2inches;length,6feet. Base dimensions,2feet6inchesby 6feet2inches.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 757-GOTHIC CARVED OAK BENCH
+
+Northern Italian or Southern French,Early Fifteenth Century The back paneled with four Gothic motifs. Straight arms and shaped arm rests. Solid beam seat.Exceptional state of preservation.
+
+Height,4feet 2inches;length,5 feet 10inches;depth,1 foot 6inches.
+(Northern Italian or Southern French, Early Fifteenth Century) C CARVED OAK BENCH No.757-GoTHIC
+
+<!-- image -->
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 758-CARVED OAK COURT CUPBOARD
+
+Oblong with corners chamfered, on block feet. Molded base forming a shelf,with a considerable space above it and with paneled back,which together with two front stiles supports the cupboard proper on top, which has two doors and two drawers.These and the panels which complete the sides are finely carved in relief with bird and fish scrolls, fruits and cherub heads, and the stiles have turned baluster pilasters.
+
+Southern French,Sixteenth Century
+
+Height,5feet;length,4feet7 inches.
+No.758-CARVED OAK CoURT CUPBOARD (Southern French, Siateenth Century)
+
+<!-- image -->
+Kindly read the Conditions under rehich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 759-RENAISSANCE WALNUT PRIE-DIEU CABINET
+
+Bombe front fitted with two doors and two drawers and carved in the most delicate manner with conventionalized holly scrolls and guilloche borders. Gadrooned moldings and stiles superbly carvedwithfruit festoons and dies of rolled acanthus leaves. Cabinet created by a master designer.Remarkable patina.
+
+Florentine,Sixteenth Century
+
+Width,3feet;height,3feet2inches;depth,2feet4inches.
+<!-- image -->
+
+## 760-IVORY INLAID RENAISSSANCE CASSONE
+
+Florentine,Early Fifteenth Century
+
+Certosina work. Front paneled and inlaid with precious woods in delicate patterns in the Oriental taste of the Quattrocento. The top and sides are similarly inlaid in holly wood and ivory. Centre of the top enriched with a chessboard pattern. The interior in excellent preservation with original color values. Inlaid border at the frieze of the chest.
+
+Note: An example closely resembling our own is in the Schloss Museum and illustrated in Dr.Frida Schottmiller's book on Italian Renaissance Furniture, page 43.
+<!-- image -->
+
+## 761MoNASTERY TABLE IN WALNUT AND FORGED IRON Italian,Fifteenth Century
+
+Walnut top, circular, and revolving upon a forged Gothic iron tripod, which is scrolled and ornamented with projecting knobs. One of the three arms of the top-frame forged as a candlestick.
+
+Note:Unusual,original specimen.
+
+Diameter,30 inches.
+
+## 762-PAINTED AND GILDED ARcH Florentine,Seventeenth Century
+
+Round arch, with molded and curved front, having cherub as keystone. Soffit and sides painted, in colors and gold, with panels of angels,a Saint holding a Cross, serolled labels and partially defaced inscription in Latin characters.
+
+Height,4 feet 912inches;width,3 feet 11 inches; depth,1 foot 7 inches.
+<!-- image -->
+
+## 763-OVAL MARQUETERIE MAHOGANY TABLE
+
+The top smooth and inlaid with intricate borders, the convex body conthe top an inlaid border, foral and perle-olive, above a border of geometrical design. Sliding shelf and five drawers.
+
+Italian, Seventeenth Century
+
+Greater diameter,37 inches.
+
+## 764-PAIR PETIT-POINT OCTAGONAL TABOURETS
+
+numerous colors.
+
+French,Siateenth Century
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 765-GOTHIC WALNUT CABINET
+
+## Southern French,Fifteenth Century
+
+Rectangular top with molded and carved edge, rising back with six panels flled with Gothic tracery and divided and fanked by plain stiles of which three end in square molded and carved Gothic pinnacles. Body as a cupboard with two hinged paneled doors, filled with Gothic tracery and rosettes, divided and fanked by vertical panels filled with Gothic tracery strapped with pierced wrought-iron bands and with wrought-iron lock-plates pierced with Gothic tracery. Open lower part with square legs and plain, straight-fronted base. (Slight restoration, to legs only.)
+
+Height,7 feet 41inches;width,5 feet 3 inches;depth,1 foot 111/inches.
+No. 765-GoTHIc WALNUT CABINET (Southern French, Fifteenth Century)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 766-GOTHIC GILDED PASTIGLIA CASSONE
+
+Tuscan,Early Fifteenth Century esting lobed circular medallions centred with rayed leonic masks and bordered with bandings of Gothic inscriptions interrupted by further masks. Supported on broad feet terminated with archaic animalistic heads, these of an even earlier period than the cassone.
+(Tuscan, Early Fifteenth Century) No. 766—GoTHIC GILDED PASTIGLIA CASSONE
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 767-CARVED WALNUT CRADLE WITH ILLUMINATION IN GOLD Florentine,Sixteenth Century
+
+C-scrolled solid rockers,molded and decorated on both sides, the outer sides with Neptune's horses and foral scrolls carved in relief. The exterior of the cradle a mass of elaborate relief carving in various moldings and bands of foral tracery. Scrolled crestings at head and foot. On these and on the sides four escutcheons, including those of the Martelli and Piccolomini families.
+
+Height,35 inches;length,411/2inches.
+
+Note: A closely similar example is in the Musee des Arts Decoratifs in Paris and illustrated in Frida Schottmiller's book on Italian Renaissance Furniture, page 128.
+<!-- image -->
+
+## 768-CARVED AND GILT SHRINE-CUPBOARD
+
+Spanish,Late Fifteenth Century
+
+The front a door, opening to a shrine enclosure above which a smaller door opens to an upper shelf, the inner door also carved and gilded. On the outer door is an arch and tracery, carved and gilded, the panel within the arch painted with a figure of Christ on His cross, against a dark green background. Two slanting sides, each carved with cathedral window arches and elaborate tracery in relief and gilded. Tall canopy, pierced, carved in relief and gilded, in conformity with the ornament below.
+
+Height,8 feet 4 inches;diameter,291/inches.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+769--CARVED AND GILDED SHRINE-CUPBOARD
+
+Spanish,Late Fifteenth Century
+
+Two slanting sides converging to the front, and all carved in relief and gilded, the window arches and tracery. Lower part of the front a door, in polychrome with an image of Christ, bleeding. Tall canopy, pierced, carved in relief and gilded,in conformity with the ornament on thelower section.
+
+Height,7 feet 6 inches;diameter,22 inches.
+<!-- image -->
+
+77OCARVED AND GILDED WALNUT TABLE
+
+Venetian, Sicteenth Century
+
+Oblong, with a single drawer having pear-shaped drop handles. The legs four grooved columns resting on two stretchers supported on knob feet. Connecting the two stretchers a third, or cross-brace, supporting a colonnade extending under the median line of the table. All stretchers bordered by perle-olive moldings, and the base of the columnar legs carved with masks and other reliefs. Scrolled skirt,carved in relief with foral scrolls entwining mascarons. Top, unpainted, has a delicate patina.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## GOTHICAND RENAISSANCEARMCHAIRS,SETTEES AND BEDS
+
+<!-- image -->
+
+## 771-GOLD THREAD TAPESTRY WALNUT ARMCHAIR
+
+Early Seventeenth Century
+
+Four sided tapering baluster supports and arm rests. Molded and voluted scrolled arms. Shield-shaped back and seat covered with Flemish tapestry,woven with a figure of a gardener. The back with an imaginative vegetation of fruit and fowers and a bird perched on a branch. In brilliant colors heightened with gold thread. The chair is trimmed with uncommon tapestry galloon recalling the studding of bronze nails.
+<!-- image -->
+
+772-SIX FLEMISH TAPESTRY WALNUT CAQUETEUSES
+
+French,Henri II Period
+
+Turned walnut frame, with carved cresting in shell and scroll design. Seat upholstered in Renaissance tapestry of fruit and leaf motive; the tapestry panels of the backs picturing figures, mainly musical.
+
+773-WALNUT FLEMISH TAPESTRY TABOURET
+
+French,Louis XIII
+
+Knob-turned legs and stretchers;oblong top with chamfered corners, upholstered in Flemish verdure tapestry.
+Kindly read the Conditions under rhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+774-AUBUSSON TAPESTRY FIRE SCREEN
+
+French,Louis XV Period
+
+After a cartoon by Boucher. Beside a fountain in a palace park a young girl runs up to a youth who is walking on stilts. He wears a deep pinkish coat and buff trousers. The girl is in gray and blue. In a scrolling frame on a standard of scrolled work, carved,painted black and gilded as to the details, and having a shelf in front.
+<!-- image -->
+
+## 775TAPESTRY WALNUT SETTEE AND FOUR ARMCHAIRS French,Louis XII Period
+
+Settee with scrolled top and wing arms; turned legs and stretchers. Covered with Flemish tapestry of the period, its designs displaying heads and cartouches among fowers. Chairs with scrolled arms and turned underbraces, the seats and backs in verdure tapestry, all of the period.
+
+Length of settee,6 feet 2 inches.
+
+## 776--WINGED EXTENSION NEEDLEPOINT ARMCHAIR English,William and Mary Period
+
+Upholstered in needlepoint of highly conventional designs which suggest an Eastern origin; in a variety of colors. In addition equipped with an ample e cushion in the same upholstery. Legs, stretchers and armposts in vase and knob turning. The top can be tilted back at any angle, swinging on hinges and being retained by forged iron notched arcs at the sides.
+Kindly read the Conditions under which erery item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 777CARVED MAHOGANY ""BON HEUR-DU-JOUR'" WITH BRONZE MoUNTING French,Louis XVI Period
+
+Oblong table with sliding writing-shelf, one long drawer and three short ones; slender tapering legs, grooved. Cabinet-top with two doors; two small drawers and a secret compartment; futed and reeded at the stiles. Marble top, galleried.
+
+Height,42 inches;width,251 inche8.
+
+## 778-CARVED WALNUT ARMCHAIR UPHOLSTERED IN GROS-POINT French,Eighteenth Century
+
+Scrolled arms, armposts, skirt and legs, with soft patina. Broad seat and back in gros-point on green ground, with large panels picturing birds and scrolls in white, black and red on a tan ground
+<!-- image -->
+
+## 779-INLAIDBONHEUR-DU-JOURWITH ORMOLU MOUNTS French,Louis XV Period
+
+Oblong with projecting and rounded corners, on lightly scrolling legs with bronze feet and knees in acanthus pattern; one drawer of three compartments each with sliding cover; top with two doors and two drawers,bound and galleries in bronze. All surfaces, including a lower shelf, inlaid in exotic woods with landscapes and buildings in great variety, vases and objects of household utility and adornment.
+
+Height,35 inches;length,28 inches.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 780QUATTROCENTO BED IN CARVED WALNUT
+
+## Lombardian,Late Fifteenth Century
+
+A four-poster, the posts slender columns incised and carved in relief in various sections and supporting elaborate finials. Stretchers carved at top and bottom with spiral moldings. On a quadrilateral base of beechwood carved in relief with interlacing Gothic scrolls.Gothic tester with a frieze showing ten embroidered panels on a red ground embroidered in formal design. The panels exhibit various episodes in the lives of Christ and the Saints.
+
+Height,6feet 11 inches;length of base,7feet 7inches;width of base,6feet 4inches.
+No.78O-QUATTROCENTO BED IN CARVED WALNUT (Lombardian,Late Fifteenth Century)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+781NEEDLEWORK CARVED WALNUT CANAPE Régence Period Triple serpentined back, scrolled wings and loose seat, enriched in petitand gros-point with classic subject within scrollings s having perched birds executed in rich colors on black grounds. Supported on cartouched cabriole legs.
+
+## 782-CHILD's NEEDLEPOINT ARMCHAIR
+
+French,Eighteenth Century
+
+Wedge-shaped back and oval seat, with lightly scrolled arms and turned armposts and legs.Upholstered in needlepoint with panels of fowers and fruits,and foral designs.
+
+From the Georges Selignamm Collection, Paris.
+
+- 783-NEEDLEPOINT ARMCHAIR Italian, Seventeenth Century Upholstered in gros-point and petit-point, the design on the back a representation of Daphne and Chloe;on the seat are conventional foral designs. Tuscan frame, the scrolled arms carved in relief with acanthus leaves, and the armposts, legs and underbraces all scrolled.
+
+Length,6 feet.
+## RUGS AND GOTHIC AND RENAISSANCE TAPESTRIES
+
+<!-- image -->
+
+784-GOTHICTAPESTRY PANEL
+
+Flemish,Fifteenth Century
+
+Standing figure of a solemn woman under interlacing branches, and holding a spade in her hands. At bottom appears the rump of a horse.
+
+Height,8 feet 4inches;width,7 inches.
+Kindly read the Conditions under rohich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+785-PERSIAN RUG
+
+Sicteenth Century
+
+The field woven with lattice diamonds occupied by rosettes, very beautiforal medallion, at corners with bracketed motives. Border of highly fully scrolled with Herati leaves; occupied at centre by small lobed oval conventionalized varied lotus blossoms; rose-crimson and sapphire-blue predominating in the color scheme of the composition.
+
+From the Count Stroganoff Collection,Rome.
+
+17 feet by 6 feet 6inches.
+No. 785—PeRsIAN RuG (Siateenth Centurg)
+
+<!-- image -->
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+786-GHIORDES PRAYER RUG
+
+Sioteenth Century
+
+Field with a yellow ground designed as a triple arched mihrab with columns and spandrels filled with varicolored scrolled, serrated and pointed leaves; above is a panel of varicolored trefoil patterning. Inside guard of varicolored rosettes and foral sprays, outer guard of foral scrolls and main border of varicolored fower and leaf zigzags.
+
+Length,6feet;reidth,4 feet 2inches.
+787-ROYAL AUBUSSON TAPESTRY Regence Period JARDINIERE OF FLOWERS. Before a remarkable field of rich Havana brown stands an ornate jardiniere, enriched with demi-nymphs and flled with a mammoth bouquet of exceedingly varied fowers. Woven in rich pastel colors in which a sapphire-blue predominates. Flanked by borders at sides having cartouches occupied by cupidons. Above and below the cartouches are rich sapphire-blue panels adorned with fine serollings of acanthus leaves.
+
+<!-- image -->
+
+Height,7feet3inches;reidth,6feet 2inches.
+Kindly read the Conditions under rwhich erery item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 788-ROYAL LOUIS QUINZE SAVONNERIE CARPET
+
+Composed of a centre field occupied by a bold foriated and trellised central cartouche holding roses on a field of detached group of foral sprays, framed by an angular shell-crested and beaded acanthus molding with handsome spandril compositions in naturalistic colors.Broad border of leaf and urn cartouches between trellised borders from which arise delicately shaped foral arabesques, between fretted scroll bands;on a rich two-tone fawn ground.
+
+French,Late Seventeenth Century
+No. 78s—RovAL Lours QuINzE SavoNNERIE CaRPET (French, Late Seventeenth Century)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+- 789-LARGE TAPESTRY PANEL Flemish,Late Fifteenth Century The central field of dark blue occupied by a foriated escutcheon in golden-browns with the motto AFRUcTIBUsEoRUM coGHIos GET sEOs, supporting a shield bearing the three lilies of France. Wide foral scroll border with escutcheons at the four corners, one with the motto AvE MARIA.
+
+Height,7 feet 10 inches;length,9 feet.
+No. 789—LARGe TapesTRy PANEL (Flemish, Late Fifteenth Century)
+
+<!-- image -->
+## 790-BIBLICAL TAPESTRY IN THE GOTHIC MANNER
+
+Swiss,dated 1613
+
+OUR LORD AND THE WOMAN OF SAMARIA AT THE WELL. Christ is seated wearing voluminous robes, about centre of a fowerdecked rising landscape. He converses with Samaritana who is at right of a large well-head drawing water from the well,her bucket of water standing on the coping of the well-head. In the foreground quaint field animals and birds disport themselves. Thrce disciples of Our Lord and a running stag are in the distance before a large edifice crested with wooded hills. Woven in fine harmonious colors. Labels at crown and foot bear lengthy biblical inscriptions in Gothic letters reading, "The water that I will give you will make life everlasting" and O! Lord, forgive me, that I may not thirst eternally."(St. John IV, 14-15.) Signed with the weaver's mark, A. M. H.,and date 1613 or 1513.
+
+Height,32inches;width,32 inches.
+No.79O—BIBLICAL TAPESTRY IN THE GoTHIc MANNER (Steiss, dated 1613)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+- 791-ENGHIEN RENAIssANcE TAPEsTRY Early Sixteenth Century Rectangular shape. Woven on a light ground, in blues, greens and browns, with a verdure" design of acanthus-leaf scrolls, trees, fowers, birds and animals, including two camels, and in the upper background with a mountainous landscape, a castle and other buildings. Border of
+
+fowers, fruits,leaves and birds.
+
+Height,10 feet 4 inches;width,9 feet 10 inches.
+No. 791—ENGHIEN RENAIssANcE TAPEsTRY (Early Sicteenth Century)
+
+<!-- image -->
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+792-RENAISSANCETAPESTRY
+
+NIOBE IN TEARS. Niobe stands about centre of a fowered foreground before a temple sheltered by woods. She wears voluminous robes and is weeping for her lost children. Two attendants, maidens, are behind her.In the immediate foreground are two diminutive warriors, wearing classic garb, the one at left mounted on a charger. The composition is finished with delightful compartmented border, displaying classic figures within finely arched niches, overgrown with varied vines of fowers and clustered fruit,which interrupts the figures and fanks varied cartouches at crown and foot, which are occupied by birds. The whole is woven in very varied harmonious colors.
+
+Brussels,Sixteenth Centurg
+No.792-RENAISSANCE TAPESTRY (Brussels,Siateenth Century)
+
+<!-- image -->
+## 793-THE RETURN FROM THE HUNT
+
+Flemish,Early Renaissance
+
+In the rectilinear field triumphant hunters are returning from a hunt; a led horse carries the body of a dead stag. The leader is armed with a sword, and after him come trumpeters and halberdiers; dogs also join the procession. Wide border of fowers and fruit.
+
+Height,11 feet 4 inches;width,12 feet.
+No. 793THE RETURN FRoM THE HuNT (Flemish, Early Renaissance)
+
+<!-- image -->
+## FIFTH AND LAST SESSION
+
+SATURDAY AFTERN00N,APRIL26,1924
+
+IN THE ASSEMBLY HALL
+
+OFTHE
+
+## AMERICAN ART GALLERIES
+
+BEGINNING AT 2:15 O'CLOCK
+
+Catalogue Numbers 794 to 954,inclusive
+
+MISCELLANEOUS ART OBJECTS
+
+<!-- image -->
+
+794GILDED BRONZE HUNTING HoRN WITH SILVER ORNAMENTATION French,Early Fifteenth Century
+
+Conventional form,adorned with foral scrolls and Gothic lettering on a cross-hatched ground. Silver mouthpiece and strap moldings edged in conventional foral design.
+<!-- image -->
+
+## 795-IVORY AND SILVER-GILDED HUNTING HoRN
+
+Of very slight curvature, with metal mouthpiece and trumpet end adorned with Gothic foral scrolls in relief and bound with silver cord.
+
+French, Fifteenth Century
+
+Length,12 inches.
+
+## 796-BRONZE INK STAND AND CANDLESTICK
+
+On easel base with curved bird-foot front supports. Slender stem to bobeche and candle cup.
+
+## 797MAJOLICA GROUP
+
+On a plinth; a woman seated on a rock, playing the lute and gazing upward. Beside her a recumbent stag. Glazed in blue and orange, green and yellow and white.
+
+Italian,Seventeenth Century
+
+Urbino,Sicteenth Century
+
+Height,914 inches.
+
+## 798-ROCK CRYSTAL JEWEL CASKET French,Sixteenth Century Brilliant and clear rock crystal carved with sharp precision as an eightpointed star and set in a silver-gilded mounting with hinge.
+
+Diameter,5 inches.
+<!-- image -->
+
+799-MAJOLICA FOUNTAIN MODEL Urbino,Siateenth Century A youth with laureled head is seated amid rustic surroundings over a fountain,playing the lyre, a cat at his feet and another beside him. Glazed in blue, green and black, orange, yellow and white,
+
+Height,11%4 inches.
+
+## 80O-PEARL AND RUBY ENAMELED GOLD PENDANT Venetian,Siateenth Century
+
+Small open round basket of sapphire-blue enamel lavishly enriched with drops of Oriental pearls, suspended from a spray of fowers and bow- knot adorned with many further pearls and rubies.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 801-PAIR PORCELAIN AND BRONZE TWO-LIGHT CANDELABRA Louisberg, Eighteenth Century
+
+Porcelain fgures of musicians,male and female, seated on rocks, their glazed apparel purple and green, yellow,red and white. On gilded bronze rustic bases and surrounded by bronze and porcelain fowers.
+
+Height,51 inches.
+
+Venetian,Sioteenth Century
+
+## 802-PEARL AND RUBY GOLD NECKLACE
+
+Composed of open oval medallions of Oriental pearls centred with rubies and gold geometric motives Small chain and clasp of later period. In leather case.
+
+## 803-ENAMELED GOLD WATCH
+
+Bezel enriched with small pearls;the back finely enameled in colors with oval medallion occupied by family group surrounded by wreath in ivory and gold on black ground.
+
+By Moricaud; Geneva,Eighteenth Century
+<!-- image -->
+
+804-CARVED IvORY BUCKET
+
+German,Fifteenth Century
+
+Cylindrical with slightly spreading molded rim,and molded base,above which appears a large rope molding. The sides a succession of moldings, in relief and incised differing patterns, and encircling the centre a band of Gothic lettering. Bail handle springing from French lilies carved in relief and studded, the handle richly carved in the motive of two dragons guarding a futed globe.
+
+Height,1ll/2 inches.
+
+Shown at the“Exposition Retrospective de Lyon,and bearing the label,
+
+"From the Chabrieres-Arles Collection."
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 805-FOUR CARVED AMBER AND IVORY STATUETTES
+
+Figures of saints poised upon quadrangular pedestals, each one carrying the name within an oval in the front. Three of them in rich deep tones of brown translucent amber, the fourth in a lighter opaque amber. The heads finely carved in ivory, carefully inset. Very rare production, and in remarkably good preservation.
+
+Florentine,Fifteenth Century
+
+Height,7y2inche8.
+<!-- image -->
+
+806--V10LA D'AM0RE
+
+Conventional scrolled case, pierced with scrolls and a rosace. At the top carved with foral scrolls. Maker's mark within: Joannes Florenus Guidantus,Fecit Bononia Anno 1740.
+
+Italian,Eighteenth Century
+
+From the Fairfax Murray Collection,London.
+
+## 807-ILLUMINATED MANUSCRIPT ON VELLUM. HORE Early Fifteenth Century
+
+Hora Beate Marie Virginis, cum Calendario. (Calendar and some Prayers in French.) Illuminated Manuscript of the French School, early Fifteenth Century.Written in Gothic characters on 164 leaves of vellum,73/s by 53/s inches. With one large miniature with full border, 9otherfullbordersand over150lateralborders,beautifully illuminated in burnished gold and colors in modified ioy-leaf design with small coloredflowersinterspersed,and hundredsofhandsomelyilluminatedinitial letters,line-ends and small capitals.Svo,early stamped sheep over oaken boards, binding in poor condition, corner of first leaves mouse-eaten.
+
+Note: Contains some beautiful borders. Unfortunately the miniatures (about six- teen in number) have all been deleted from the volume,with the exception of the one atbeginning of the Office for the Dead,and that has been damaged by water.
+<!-- image -->
+
+## 808-ILLUMINATED MANUSCRIPT ON VELLUM.HORE
+
+Circa Late Fifteenth Century
+
+Hore Beate Maria Virginis,cum Calendario.Illuminated Manuscript probably of the Flemish School of the lateFifteenth Century.Written in Gothic characters on sixty-nine leaves of vellum, 71s by 43/ inches. With large miniature within broad border,ten elaborate initial letters each ithfull border,andhundredsof smallerinitials,capitals,and lineends,all beautifully illuminated in burnished gold and colors.8vo,laid in dark blue velvet binding.
+
+Note:Contains some unusually choice large initial letters,of various colors on burnished gold ground,and delightful borders of vividly colored fowers,fruits,birds, grotesques,etc. The miniature is also of exceptional grace and beauty. The leaves are somewhat soiled, and several are lacking,probably originally containing miniatures.
+
+St.Omer au grand St.Jacques,1603,”on fly-leaves.
+
+With signature of an early owner,“Thomasae Monchy,brasseur en La ville de
+<!-- image -->
+
+## 809-ILLUMINATED MANUSCRIPT ON VELLUM.HORE
+
+Circa Late Fourteenth Century
+
+Hore Beata Marie Virginis, cum Calendario. (Calendar in Old French.) Illuminated Manuscript of the French or Norman School,probably late Fourteenth Century.Written in Gothic characters in red and black,on one hundred and seventeen leaves(one blank) of vellum,53/ by 4 inches. With ten miniatures painted in colors and gold,each eithin full border of ivy-leaf design with colored foral corners,2 other full borders and 9semi-borders,all of similar design,illuminated in burnished gold and colors; hundreds of initials,line-ends and small capitals also illuminated. 16mo,old calf,with monstrance blind tooled in centre of each side,red edges. Binding worn, leaves somewhat soiled.
+
+Note: A desirable Book of Hours,with charming and unusually well-executed miniatures and other illuminations. Some of the miniatures are slightly rubbed.
+
+With signature of Michel Marchand,de Neuilly"1799-1s00,on fy-leaves and dates on some margins.
+and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 810-PIETA IN SILVER AND EBONY BY JEAN DE BOLOGNE Florentine,Late Sixteenth Century
+
+Height,211/2 inches.
+
+An arched niche surmounted by an interrupted pediment contains the Mother supporting on Her lap the body of the Christ. She is seated before a gilded background incised with scrolls. At either side and a little lower down are kneeling angels. Above them are others standing and bearing a ladder and a column.Below are cherubim and at the centre ornate scrolls.On four bronze feet which rest on a bracket with gilded adornments which was made at a later period.
+
+Note: Purchased from the family of the great Italian writer, Alessandro Manzoni, the author of the "Promessi Sposi,"whose bedroom it adorned,and whose enameled coat of arms appears on the bracket.
+<!-- image -->
+
+## 81l-TWO BRONZE AND PRECIOUS MARBLE PEDESTALS Italian,Seventeenth Century
+
+Incurved tapering triangular shaft with balustered molded top; similar baluster at foot.Above scrolled tripod legs and incurved triangular base. Enriched in gilded bronze with ribboned husk-drops on shaft and leaf moldings. 4feet3inches.
+
+From the collection of Count Stroganoff,Rome.
+<!-- image -->
+
+812-PAIR SILVERED BRONZE HANGING LAMPS
+
+Florentine,Seventeenth Century
+
+Globular urn-shape, on three feet, which rest on an incurvate base sup- porting a knob and ring drop. Elaborate repousse ornamentation of festoons, cherubim and figures of angels, the latter with raised arms clinging to the chains by which the lamp is hung.
+## GOTHIC AND RENAISSANCE DANTESCA,SAVONAROLA,
+
+## SGABELLO,NEEDLEPOINT AND TAPESTRY CHAIRS
+
+<!-- image -->
+
+813CARVED WALNUT SGABELLO Venetian,Sixteenth Century
+
+Shaped seat molded with a circular medallion and the outer edges incised. Wedge-shaped back carved at the outer sides with female busts and within with foral scrolls in relief. Scrolled cresting with various devices. The front leg deeply carved with scrolls, fowers and a mascaron.
+
+Note: Closely resembles an example illustrated in Dr.Bode's book on Italian Furniture, and Frida Schottmiller's book on Italian Renaissance Furniture, page 171.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+814--VELVET WALNUT TRAVELING CHAIR
+
+Italian,Early Sixteenth Century
+
+A characteristic production of the period,rarely found. An armchair with heavy scrolled arms, straight quadrilateral legs, the stiles canted back slightly and their tops molded transversely. Straight stretchers, those at front and back carved with scrolls and hinged at the centres, for folding. Flexible seat and back of red velvet,the back braced by a forged iron hook between the stiles. On the back an escutcheon of gold and silk embroidery.On the inner side of the front stretcher an owner's mark with initials,incised.
+<!-- image -->
+
+815-TWO CERULEAN BLUE VELVET WALNUT FOLDING TRAVELING CHAIRS Italian,Early Sixteenth Century
+
+Quadrilateral legs and straight stretchers, the side stretchers hinged so that the front legs can fold against the back ones. The seat hinged, to fold up against the back. Seat and back upholstered in sky blue velvet.(Very unusual examples.)
+
+- 816-CARVED WALNUT SGABELLO Tuscan,Sixteenth Cenutry Octagonal seat and conventional scrolled back and legs;plain skirt carrying a large boss and molded. Back incised with scrolls and carved in relief with a bishop's coat of arms. Soft patina.
+<!-- image -->
+
+## 817-CARVED WALNUT CAQUETEUSE French,Sixteenth Century
+
+Narrow solid back,the top scrolled; scroll arms, spreading;armposts in the form of round columns,molded. Molded seat, a large section lifting on hinges to give access to the chest formed by the lower part of the structure. Front, sides and the back a mass of conventional carving, largely by incision,the designs including leaf forms and large rosettes, together with primitive incisions.
+
+From the De Motte Collection,Paris,1922.
+
+## 818-PAIR CARVED WALNUT SGABELLI
+
+Tuscan,Siateenth Century
+
+Quadrilateral seat with indented corners and shaped at the back;carved with a plate seat, and incised with a scrolled border. Edges incised with a church-window decoration. C-scroll back with a scrolled crown-shaped cresting enclosing an escutcheon, and carved lower down in deep relief with a mascaron framed in foral scrolls.
+<!-- image -->
+
+819-CARVED WALNUT CAQUETEUSE
+
+Armposts and legs,and stiles below the fat, scrolling arms,are all carved with alternating grooved and half-round moldings; carved knob feet. Above the arms the stiles are grooved, and embrace a half-round arch based on scrolled brackets, the spandrils pierced. Toprail carved with a ribbon scroll and a dentated molding. Skirt carved with arches, scrolls and large bosses. (Rare.)
+
+French,Early Sicteenth Century
+
+## 820-RENAISSANCE BEECHWOOD SAVONAROLA CHAIR Florentine,Early Sixteenth Century
+
+Shaped with pivoting staves resembling the curulic chairs of the Romans. Shaped back rail with tracing and a clustered rose. In fine state of preservation.(Rare.)
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+821-NEEDLEWORK WALNUT WING CHAIR LouisXIlI Period Serpentined back and very unusual wings, scrolling into the arms and having bandings at back. Loose seat, covered in gros and petit-point, developing medallions with personages and birds, surrounded by scrollings of fowers on rich black grounds. Supported on cabriole legs and
+
+<!-- image -->
+
+doubleU-stretcher.
+<!-- image -->
+
+## 822-RENAISSANCE HoLLY WoOD DANTESCA CHAIR Florentine,Late Sicteenth Century
+
+With Certosina work. The frame is of the familiar double-V shape of the Dantesca model but of an unusual delicacy of construction. The supports, shaped arms, and hood-shaped back rail as well as the square seat and the triangular face panel are inlaid with arabesque and detached foral motifs in precious and colored woods, ebony, and motherof-pearl.(Rare.)
+
+Height,40 inches; width,23 inches; depth,18 inches.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+823-DENTESCA CHAIR
+
+The heavy walnut frame of the conventional form, scrolled throughout with the exception of the straight stretchers which rest on the foor; the members quadrilateral with rounded corners, and the two parts folding characteristically upon each other. Within the front at the crossing is carved a fine rosette. Fine dark patina. In the original heavy leather upholstery.(Rare.)
+
+Italian,Early Fifteenth Century
+<!-- image -->
+
+824-RENAISSANCE SAVONAROLA CHAIR
+
+Curved X-shaped frames composed of eight pivoting staves. Straight protruding arms. Shaped head rail carved with armorial bearing with two shields holding a lion rampant and six feurs-de-lis. Very fine preservation.(Rare.)
+
+Florentine,Early Sicteenth Century
+<!-- image -->
+
+825-BEECHWOODSAVONAROLA CHAIR
+
+Florentine,Early Sixteenth Century
+
+Curule shape. Formed of nine double curved staves, pivoted so as to close, the fronts stamped with bands of rosettes. Straight square arms with turned ball finials, shaped adjustable back incised with rosettes and square base rails.(Rare.)
+<!-- image -->
+
+826-EARLY GOTHIC SAVONAROLA CHAIR
+
+Fifteenth Century
+
+Gothic turned and folding chair of Tuscan make of the most uncommon archaic design. To the customary folding device of the X-shaped Savonarola chair is added considerable interest by two boldly turned arm rests.（Rare.)
+
+Height,2feet;reidth,2feet.
+<!-- image -->
+
+## 827-CHILD'S INLAID WALNUT DANTESCA CHAIR
+
+Florentine,Fifteenth Century
+
+Characteristic folding form, the curving under braces slightly scrolled and on feet terminating in lion-claws. Slightly scrolled arms. Inlaid with primitive foral forms. Seat and back upholstered in old brocade. A rare example.
+828-SAVONAROLA CHAIR Florentine,Early Sicteenth Century Unusual form, folding, with lion-claw feet, heavily scrolled arms and back, the back having a channeled molding. Antique green velvet cushion.
+
+<!-- image -->
+<!-- image -->
+
+829-SET OF SIX GROS-POINT AND PETIT-POINT TALL-BACK ARMCHAIRS Italian,Late Renaissance
+
+Walnut frame, with scrolled arms and armposts; front legs turned, with square feet, back legs shaped; stretchers turned in vase, knob and ring form. Large seat and back upholstered in elaborately patterned grospoint and petit-point in foral designs and rich coloring, and enclosing medallions decorated with a woman standing between trees and a fruit tree in which birds are perched.
+830-FOUR NEEDLEPOINT ARMCHAIRS Italian,Late Renaissance Rectilinear seats and gently arched backs, upholstered in gros-point and petit-point, the seats displaying vases and foral scrolls and the backs formal panels of birds in fruit trees, surrounded by foral scrolls with grotesque birds perched on them. Walnut frames scrolled and turned.
+
+<!-- image -->
+831-PAIRTAPESTRIED ARMCHAIRS French,Louis XIlI Period Tall back; turned arms and armposts, stiles, legs and stretchers, the designs spirals, knobs and rings. At the head of the arms female busts. Backs paneled with hunting scenes in greens, gold and reds, the seats in a different Flemish tapestry picturing respectively a serpent and a lizardlike animal,in jungles.
+
+<!-- image -->
+<!-- image -->
+
+832-NEEDLEWORK CARVED WALNUT FAUTEUIL
+
+French,Regence Period
+
+The heavy frame scrolling slightly, in the stiles, the legs and the arms and armposts, and the skirts. Heavily carved on all surfaces in conventional leaf designs, and the cresting boldly pierced. Seat, back and arms upholstered in gros-point in light tones on a dark brown ground, the gros-point of foral design n enclosing petit-point foliated panels, that of the seat picturing animals, and that of the back portraying a lady standing amid fowers and holding up what appears to be a triangle.
+Kindly read the Conditions under ruhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+833-SET OF FOUR NEEDLEPOINT ARMCHAIRS
+
+French,Louis XV Period
+
+Carved walnut frames, scrolled throughout,and finely carved in relief with blossoms and leaves on the arms, toprail, skirt and legs. Seats, arms ard backs upholstered in gros-point and petit-point needlework in conventional designs and soft colors.
+<!-- image -->
+
+834-FoUR LOUIS QUINZE PoINT SAINT CYR CARVED WALNUT ARMCHAIRS Seventeenth Century
+
+Delicately carved frame work. Backs and seats covered in needlework illustrating the "Fables of La Fontaine." The motifs are worked in the finest Point de St. Cyr.
+## 835-SETTEE,TWO ARMCHAIRS AND SIX SIDE CHAIRS IN FINE NEEDLEPOINT INTERWOVEN WITH SILVER AND GOLD
+
+French,Louis XIV Period
+
+Cabriole legs molded and carved with hoof feet; the armchairs have scrolled arms and armposts, delicately carved with leaf forms in relief. The settee with wing arms and the chairs are upholstered in a fine needlepoint with interweavings of gold and silver thread,and the backs of the chairs are paneled in metal thread. The design is a profuse and closely wrought foral one of golden, orange and brownish tones, with white, blue and greenish relief. A rare set.
+No. S35-LoUIS XIV GoLD AND SILVER NEEDLEPOINT SUITE
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 836AUBUSSON TAPESTRY SUITE AFTER DESIGNS BY WATTEAU
+
+## French,Louis XVI Period
+
+Consisting of settee and four armchairs. Most graceful lines,the backs slightly wedge-shaped,the arms slightly scrolled, the armposts in the form of a slender pear-shaped vase, futed and reeded; slender tapering legs also futed and reeded. Frames painted white. Upholstered in Aubusson tapestry after designs by Watteau, the back panels displaying various pastoral figures, the seats birds and animals;in the settee the decoration of the back pictures children at blindman's buff,and the seat a stag hunt.
+
+Length of settee,6 feet.
+
+From the De Motte Collection, Paris,1922.
+No.836-AUBUSSON TAPESTRY SUITE AFTER DESIGNS BY WATTEAU (French,Fifteenth Century)
+
+<!-- image -->
+
+<!-- image -->
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## GOTHIC AND RENAISSANCE FORGED IRON
+
+<!-- image -->
+
+## 837-TWO FORGED IRON PRICKET CANDLESTICKS
+
+Florentine,Late Fifteenth Century
+
+- （A) Straight quadrilateral standard with chamfered corners, on three three conventionalized lily leaves, spreading and drooping, and supporting other prickets. Springing from the stem at three points, Gothic ribbon scrolls.
+
+Height,51 inches.
+
+- (B) Similar to the preceding but with fewer ribbon-scrolls.
+
+Height,55 inches.
+<!-- image -->
+
+## 838-RARE FORGED IRON INSIGNIA OR SIGN
+
+Venetian,Siateenth Century
+
+Open oblong frame, occupied in the centre with a finely modeled figure of "The Phonix in Flames." Exceptionally fine border of scrolled laurel leaves,berries and fowers,rosetted at corners.
+
+Height,2 feet;length,2 feet 31inches.
+
+Note:Exceptionally well forged specimen of unusual merit.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 839-FORGED GOTHIC IRON CANDELABRUM
+
+French,Fifteenth Century
+
+Oblong, with arched crown and stellate terminal, very interestingly arranged with four prickets at base and two series of lobed guards to sustain large candles. Very rare specimen.
+
+Height,4 feet 3%inches;width,2 feet 7 inches.
+
+From the De Motte Collection,Paris,1922.
+<!-- image -->
+
+## 84O-TWO PAIR FORGED IRON PRICKET CANDLESTICKS Tuscan,Fifteenth Century
+
+Straight standard adorned with two sets of scrolls,on three deeply scrolled feet, and supporting futed bobeches on other scrolls.
+<!-- image -->
+
+841-TWO GOTHIC FORGED IRON TRIPOD PRICKET CANDLESTICKS
+
+Tripartite standard rising from a ring based upon three arc feet, the
+
+Florentine,Fifteenth Century three quadrangular parts of the standard bound together by two rings and expanding between, above and below them. At the base three long scrollingleaves.
+
+Heights,47 and 451yinches.
+<!-- image -->
+
+842GOTHIC FORGED IRON REVOLVING CANDELABRUM
+
+Italian,Fifteenth Century
+
+On a broad ribbon-scroll tripod a slender quadrilateral column with chamfered corners, which supports a revolving circular structure of three tiers, connected by ribbon-scroll brackets and bearing fifteen candle sockets.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+843PAIR BRONZE AND FORGED IRON PRICKET CANDLESTICKS Lombardian,Sixteenth Century
+
+Standards adorned with bronze knobs and supported on three elabo-
+
+Height,511yinches.
+
+rately scrolledfeet.
+<!-- image -->
+
+844--GOTHIC FORGED IRON TRIPOD CANDLESTICK
+
+Florentine,Fifteenth Century
+
+Straight standard supporting a deep quadrangular socket, on three arc feet.
+- 845-FORGED IRON CANDLESTICK Florentine,Fifteenth Century Quadrangular standard supporting a deep candle socket and based upon three arc feet with scrolls.
+
+## 846PAIR FORGED IRON PRICKET CANDLESTICKS
+
+Height,571/inchos.
+
+Northern Italian,Sicteenth Century
+
+Three scrolled feet support the straight standard which is fanked by three sets of serpentine scrolls and C-scrolls extending from the feet to the circular grease-tray.
+
+Height,57 inches.
+
+## 847-PAIR FORGED IRON TRIPOD PRICKET CANDLESTICKS Tuscan,Fifteenth Century
+
+Straight circular standards adorned with knobs,on three spreading feet and topped by scrolls supporting grease trays.
+
+Height,50 inches.
+
+## 848GOTHIC FORGED IRON TRIPOD PRICKET CANDLESTICK
+
+## Florentine,Early Fifteenth Century
+
+Quadrangular standard broadly expanded at the centre and based upon three spreading feet. Very unusual example.
+
+Height,641/2inches.
+Nos. 845-848—FoRGED IRoN CANDLEsTIcKs (Fifteenth and Sicteenth Centuries)
+
+<!-- image -->
+## 849-TWO FORGED IRON THREE-LIGHT TRIPOD CANDELABRA Early Siateenth Century
+
+Quadrangular standards with three low scrolling feet, supporting a straight cross-arm having three candle sockets. Adorned with interesting scrolls, and one with two blossoms. On triangular wooden bases.
+
+Height,6 feet.
+
+## 850-TWO FORGED IRON TRIPOD PRICKET CANDLESTICKS Sixteenth Century
+
+Scrolled legs and circular standards, which are adorned with scrolls, and support circular grease trays.
+
+Height,63 inches.
+
+## 851-PAIR BRONZE AND FORGED IRON PRICKET CANDLESTICKS Siateenth Century
+
+Straight circular standards of iron,adorned with turned bronze knobs, and supported on three scrolled feet with connecting scrolls.
+
+Height, 59 inches.
+CANDELABRA AND CANDLESTICKS
+
+<!-- image -->
+
+851
+<!-- image -->
+
+## 852-GOTHIC FORGED IRON GATE
+
+Folding in four hinged panels; wrought in a pattern of diagonal strapwork, the crossings tied with molded bands adorned at intervals with Gothic fowers in relief.
+
+Florentine,Fifteenth Century
+
+Height,50 inches;length,69 inches.
+<!-- image -->
+
+## 853-FORGED IRON GATE WITH MARBLE POSTS
+
+The posts square and carved in relief with foral scrolls, intricate pilasters, and one with a male figure supporting a jar of fowers. The gates fine grilles of varied scrolls. In the centre of each a classical bronze vase from which springs ornate scrolls and tendrils. The gates painted black with details gilded.
+
+Tuscan,Early Sixteenth Century
+
+Height,351/2 inches;length,63 inches.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 854-GOTHIC FORGED IRON CASEMENT
+
+Venetian,Fifteenth Century
+
+Oblong, with central round arched panel defined by spiraled rodding and developing a diamond lattice, stellated at intersections. The outer edge similar spiraled to centre and finely enriched with dainty trilobed arched tracery; spiraled bars sustain the central panel. In oak frame.
+
+Height,471/2 inches;width,36 inches.
+<!-- image -->
+
+## 855-GOTHIC FORGED IRON CASEMENT
+
+Oblong, with central round arched panel defined by spiraled rodding and developing a diamond lattice, stellated at intersections. The outer edge similarly spiraled to centre and finely enriched with beautiful trifoliate tracery; spiraled bars sustain the central panel. In oak frame.
+
+Venetian,Fifteenth Century
+
+Height,471/ inches;rwidth,36 inches.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## BRONZES FROM THE ROMAN EXCAVATIONS,GOTHIC AND
+
+## RENAISSANCE PERIODS
+
+<!-- image -->
+
+856-BRONZELAMP
+
+Excavated. Body circular, converging to a flat bottom; extended spout pierced with two circular openings, the top with a third. Ornamental dragon handle supporting a loose ring. Top engraved with figures of warriors and scrolls. Brown and greenish patina and grayish earthy incrustations.
+
+Roman,Third Century B.C.
+
+Height,3 inches.
+<!-- image -->
+
+857-BRONZE LAMP
+
+Roman,Third Century A.D.
+
+Excavated. Ovoidal cup converging toward the spout, the top modeled as the head of a satyr. Standard with molded rings. On the cup bunches of grapes, and a loop handle terminating in an infant satyr.
+
+Very fine enameled greenish-brown patina and some incrustations.
+
+Height,4 inches.
+
+From the De Motte Collection,Paris,1922.
+<!-- image -->
+
+858-GREEK-ROMAN BRONZE STATUETTE
+
+Figure of Paris, shown as an undraped youth standing erect, with one
+
+Second Century B.C.
+
+hand outstretched, and holding an apple, grasping in the other a fold of his scarf. On rectangular base of bronze with acanthus-leaf feet of later date but from Roman excavation.
+
+Height of figure,1ll inches.
+<!-- image -->
+
+## 859-EARLY GOTHIC ROCK CRYSTAL AND BRONZE CANDLESTICK
+
+## German,Thirteenth Century
+
+"Altar candlestick of gilded bronze, with triangular base composed of three claw feet. F'rom the rock crystal knob three birds rise and support the urn-shaped plate. German work, thirteenth century.
+
+Height,8%sinches.
+
+Note:The above description is a literal translation from the Stroganoff catalogue, written by Professor Antonio Munoz, of the University of Rome,the candlestick described being illustrated therein,Plate CXLII,No.3.
+
+From the Count Stroganoff Collection,Rome.
+<!-- image -->
+
+## 860-GOTHIC BRONZE NINE-LIGHT CANDELABRUM
+
+Extremely interesting circular shaft, balustered at centre and having at top a vase-shaped enrichment extending into an urn-bobeche which holds five candle sockets and a central shaft which supports nine very unusually scrolled sockets for candles, enriched with leafage.
+<!-- image -->
+
+861-PARADE SWORD
+
+Gold hilt, the cross guard covered with applied gold, the top of similar enclosing a silver medallion, on niello, bearing
+
+Spanish,Sixteenth Century
+
+Length, 381y inches.
+
+workmanship and escutcheons in enamel.
+<!-- image -->
+
+862-BRONZE BAS-RELIEF PLAQUE Italian,Sixteenth Century Oval, the entire surface given to a bas-relief decoration of nymphs,men and dogs hunting the wild boar. Intricately designed with horsemen and figures afoot, trees and wild land. Aside from the major decoration there is at the upper left a scene of the presentation of a boar's head to nymphs. Brownish patina. In black frame.
+
+Diameter of panel, Sya inches.
+
+Note: The modeling of this fine bronze plaque closely resembles the work of the great master,Benvenuto Cellini.
+<!-- image -->
+
+863-BRONZE-HANDLED SWORD
+
+Greco-Roman, circa Second Century B.C.
+
+Broad blade, grooved down the centre, with upturning point scalloped. Bronze hilt, the handle-tip a fincly modeled lion-head, and the whole coated with a rich olive patina. Rare specimen.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+864-BRONZE BUST MoDELED BY MATTE0 CIVITAL1 (1435-1501) Tuscan,Fifteenth Century
+
+"St. Sebastian." Bust of the Saint with upturned face, fowing hair, Florentine skull-cap and ringed nimbus. Dark patina. Onsquare pedestal of gilded wood.
+
+Height of bust,4 inches.
+<!-- image -->
+
+## 865-BRONZE CANDLESTICK INLAID WITH SILVER
+
+Bell-shape, conventional, with heavy repousse moldings plain and a solid molding at the base incised with a rope-scroll, another similar molding under the shoulder. The body incised in three bands of various scrolls, the wide central band carrying also a broad loop scroll entwining medallions of pairs of figures, seated. This decoration freely inlaid with silver. On the shoulder medallions and other conventional figures, incised. On the stem delicately incised bands of conventional ornamentation with silver inlay.
+
+Persian,Thirteenth Century
+
+From the De Motte Collection,Paris,1922.
+
+Height,134 inches.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+866-BRONZE STATUETTE OF VENUS BY JEAN DE BOLOGNE (15241608) Florentine,Sicteenth Century
+
+Nude, with folds of drapery about her limbs; body bent forward and one hand supporting the drapery, her left arm bent and the hand brought to her breast. Standing, with right foot on the ground and left resting on a pedestal. On wooden base. Brilliant dark patina.
+
+Height,16 inches. Note: A similar specimen is illustrated in Count Stroganoff's catalogue, Plate 103. From the Fairfax Murray Collection,London.
+<!-- image -->
+
+## 867GOTHIC GILDED BRONZE RELIQUAIRE
+
+In two parts; a human right hand, gauntleted. Wrist banded with a
+
+Italian,Fifteenth Century fat bracelet and on the sleeve two knobs, the sleeve also incised with the double arches of a window and above them with a lozenge-shaped figure, all open admitting to the interior. A very rare and important object.
+## VINCENZO DANTI
+
+PADUAN SCHOOL:SIXTEENTH CENTURY
+
+868-BRONZE INKSTAND:THE CONTEST OF APOLLO AND MARSYAS The Bacchic god Marsyas stands at left, playing the Greek pipes; at right is Apollo, who has finished playing, but still holds his instrument. Midas, King of Phrygia, the appointed judge of the dispute, is sitting about centre on a mound and looks at Apollo, indicating that Marsyas is victor. The mound suggests the palace of the King of Persia. At Apollo's feet is a symbolic figure of a river god.The/rectangular bronze base is richly decorated in low-relief with sirens, acanthus leaves, volutes, scrolls and Silenic masks. The base supports before the group two vase-shaped inkwells, decorated in low-relief; the one at left enriched with mermaids and festoons;the other, about centre with symbolic figures of a river, the Meander, amongst festoons and scrolls. At the left side of the central inkwell in a rectangle is the initial "D," Danti's signature.
+
+Height,914 inches.
+
+Note: The contest and punishment of Marsyas were favorite subjects in Greek and Italian Renaissance art. The sculptor of this bronze group took the license of changing the legendary Apollo's lyre to a "viola d'amore"
+
+It is interesting to add that a director of the Brooklyn Museum,having seen this bronze group,declared it to be the work of a pupil of the Paduan School,Vincenzo Danti. Bronzes by Danti are on exhibition at the Bargello Museum,Florence,and a statue of Herod's Daughter is at the Baptistry at Florence.
+
+From the Harrison Collection,Nerw York,American Art Association, 1920.
+No. S68-BRONZE INKSTAND: THE CoNTEST OF APOLLO AND MARSYAS (By Vincenzo Danti)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## ANTONIO FILARETE
+
+FLORENTINE SCHOOL:FIFTEENTH CENTURY
+
+- 869-BRONZE EQUESTRIAN GROUP OF EMPEROR MARCUS AURELIUS The noble Roman is seated astride a very powerful, caparisoned charger, his right hand outstretched as if appealing or warning against a public clamor. He wears curling hair and beard and a long toga over simple robes. Rich deep patina. On oblong marble base.
+
+Height,171/4 inches;length,18% inches.
+
+Note:Dr.William Bode,in his "Die Italienischen Bronze Statuetten der Renaissance" illustrates in plate I a variation of this interesting group which is in the Albertinum Museum,Dresden. This bronze in the Albertinum Museum,however,has not the same fine virile modeling or execution,and exhibits less elaboration and care in the details,but has practically the same pose of the horse and rider.
+No. 869-BRONZE EQUESTRIAN GROUP OF EMPEROR MARCUS AURELIUS
+
+<!-- image -->
+
+(By AntonioFilarete)
+Kindly read the Conditions under which erery item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 87O-ANGEVIN BRONZE RELIQUAIRE
+
+An object of unusual importance, representing the head of a warrior beatified, and enclosing a skull on an oblong plinth of the same metal. He wears a ribbed helmet pierced with a circular glass orifice. This art recalls the porphyry bas-relief of three figures at a corner of the Ducal Palace at Venice. Around the neck a collar of finely beaded molding. Traces of silver and gilding.
+
+French,Tenth or Eleventh Century
+
+Height,121/inches.
+No. 87O-ANGEvIN BRoNzE RELIQUAIRE (French, Tenth or Eleventh Century)
+
+<!-- image -->
+## ALESSANDROVITTORIA
+
+VENETIAN:1525-1608
+
+- 871-NOBLE BRONZE PORTRAIT BUST OF ANTONIO LANDO Antonio Lando(1553-1618),the Venetian Captain and Procurator of St.Mark's,held the greatest dignity in the Republic of Venice, next in precedence to the Doge;he was the grandson of the great Doge Pietro Lando. He is seen wearing closely cropped curly hair, a full beard and a toga, the insignia of his office, over armor,enriched at shoulders with sprays of laurels,his strongly modeled face slightly turned to left. Supported on an oblong plinth scrolled at ends and inscribed "Antonio
+
+Lando Divi Marci Procurator." Rich green patina.
+
+Alessandro Vittoria (Jacopo Alessandro Vittoria della Volpe) was born in Trent, and was active in Venice and in Padua. He was a pupil of Vincenzo Vicentini and later ofJacopo Sansovino.
+
+Height,28 inches.
+
+Note:The distinctive character of this bust leaves no doubt in attributing it to this master. The well known strength of his modeling places his work amongst that of the greatest sculptors of the Cinquecento.Thebust was executed in his later and more mature manner,about 160o. The short curling hair is typical and is seen in other portraits of this master and is recalled by the busts of Carlo Zeno and another,a member of the Zorzi family.The handling of the beard closely resembles that in the Benedetto Manzino bust and others.The firm facial expression and simple dignity of this great warrior Captain of the Venetian Republic are indicative of his great powers. The artistic and natural arrangement of the folds of his toga is very analogous to that seen in the Jacopo Sansovino bust,and to another of Giovanni Contarini. This bust may be placed amongst the best that came from his chisel. Bronzes of this master are rare, for his usual medium was marble or terra cotta.It is also to be noted that the scrolled pedestal,which is in one piece with the bust is the favorite model that was practically always employed by him. Of the three busts beyond this one that are in America, one of Simeone Contarino is in the Metropolitan Museum,another is in the Widener Collection, and the third is of Vincenzo Alessandri, belonging to a private collector
+No. 871-NoBLE BRONZE PoRTRAIT BUST OF ANTON1O LANDO (By AlessandroVittoria)
+
+<!-- image -->
+## 872DEMI-SUIT OF ETCHED AND GILDED ARMOR,BY POMPEO DELLA CHIESA Milanese,Early Sixteenth Century
+
+and recumbent, and the Labors of Hercules, within medallions separated by Solomon's knots, rope moldings, and serrated panels. The workmanship elaborate and very carefully performed. example.)
+
+Richly etched and gilded, with figures of Olympian deities, standing (Veryrare
+
+Height of cuirass,20 inches.
+
+Note: There is an identical suit of armor in the Metropolitan Museum given to della
+
+Chiesa.Another of striking similarity is in the Armory at Turin.
+872-DEMI-SUIT OF ETCHED AND GILDED ARMOR,BY POMPEO DELLA CHIESA Milanese,Early Sixteenth Century and recumbent, and the Labors of Hercules, within medallions separated by Solomon's knots, rope moldings, and serrated panels. The workmanship elaborate and very carefully performed.(Very rare example.)
+
+Richly etched and gilded, with figures of Olympian deities, standing
+
+Height of cuirass,20 inches.
+
+Note: There is an identical suit of armor in the Metropolitan Museum given to della Chiesa. Another of striking similarity is in the Armory at Turin.
+<!-- image -->
+
+<!-- image -->
+<!-- image -->
+
+873-ETCHED AND GILDED STEEL HELMET
+
+Pisan,Sicteenth Century
+
+Dome shape, with high comb and boat-shaped brim. Enriched with all over arabesque scrollings which enclose figures of Mars, Justice, Peace, Pomona and various birds. Parcel gilded.
+
+Height,14 inches.
+## PAINTINGS
+
+## BENOZZOGOZZOLI
+
+FLORENTINE:FIFTEENTH CENTURY
+
+## 874-MADONNAANDCHILD
+
+Panel: Height,2 feet 2 inches;width,1 foot 6 inches
+
+The Holy Virgin, at three-quarter length, wearing a crown, very beautifully embroidered robes and mantle, sits before a finely embroidered cloth of gold velvet hanging and carries with both Her hands the Infant Saviour,Who sits on Her left knee, looking up adoringly at His Mother. The youthful St. John and St. Anne are variously at right and left behind the Holy Mother.
+
+Note:This beautiful example of Florentine fifteenth century painting approximates nearer to the manner of Benozzo Gozzoli than any other painter of the period,although the influence of Lippi Lippi is distinctly seen in the handling and drawing of the children's figures. But it has,however,been very definitely given by other experts to Benozzo Gozzoli.
+No. S74—MADoNNA AND CHILD (By Benozzo Gozzoli)
+
+<!-- image -->
+## CENNI DI FRANCESCO DI CENNI
+
+FLORENTINE:EARLY FOURTEENTH CENTURY
+
+## 875-THE MADONNA AND CHILD
+
+Panel:Height,2 feet 11 inches;width,1 foot 6 inches
+
+The Virgin is seen at half-length,wearing closely fitting embroidered robes and an interestingly hooded mantle.She holds the Infant Saviour to Her on Her left arm. He is toying with an embroidered kerchief that the Virgin wears around Her neck, with His left hand and gazes intently into His Mother's face. In peaked architectural frame.
+
+Note:Professor Giacomo de Nicola,Director of the Bargello Museum,Florence, says of this painting:"Cenni di Francesco di Cenni of Florence is known above all for the Frescoes "signed by him in the Church of San Francesco at Volterra.But there are other frescoes and panels by him in San Gimignano, San Miniato al Tedesco,at Castel Fiorentino near Fiesole. "His works are rarely found in private hands. I recall only one in the Chiesa Collection, at "Milan, and another in Florence. This example shows he has gathered all the charms of the "Trecento Agnolo Gaddi type, and almost the solidity of the Quattrocento, Giovanni da Ponte "type.He was active, as a matter of fact, in the two first decades of the fifteenth century."
+
+From the collection of Fairfax Murray,London.
+No.875-THE MADONNA AND CHILD (By Cenni di Francesco di Cenni)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## BOTTICINI
+
+FIFTEENTH CENTURY: FLORENTINE SCHOOL
+
+## 876-MADONNAANDCHILD
+
+Panel: Height,33 inches;width,2112 inches
+
+Rectangular, with round-arched top. Figure of the Virgin,in red robe and blue mantle with gold-embroidered border forming a hood, seated on a carved stone bench. She supports on her lap the partially draped Child Christ, who holds one of His Mother's breasts with both hands in the act of suckling. Gold-rayed back.In old molded and gilded wood frame.
+<!-- image -->
+
+## FRANCESCO RAIBOLINI (CALLED FRANCIA)
+
+(MANNEROF)
+
+UMBRIAN SCHOOL:FIFTEENTH CENTURY
+
+## 877-THE CRUCIFIXION:WALNUT
+
+Panel:Height,29 inches
+
+Our Lord on the cross; at the foot are the figures of the two Marys and a skull near them. Enriched in mellow colors;the embroidery of robes and the haloes of all the figures gilded. The crucifixion and figures are silhouetted.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## MARCO DA FORLI OR PALMEZZANO
+
+B0L0GNESE:1456-1537
+
+878-PIETA
+
+Panel: Height (of picture), 91 inches; width,712 inches
+
+Undraped half-figure of Christ, with wounds in side and hands, standing erect in a stone sarcophagus and holding up His hands. Behind Him stands the Virgin, in a red robe and blue mantle, her mouth open as though making lamentation, and an angel, in yellow tunic and red skirt, holding a crown of thorns above the Christ's head. Landscape background with a hill and three crosses. Blue sky. In original tabernacolo frame with fat arch having the spandrels carved with leaves, supported on detached futed Doric columns standing on acanthus-leaf brackets. Plinth decorated with quatrefoil panels, painted and gilded.
+
+From the collection of Mr.Boismen,of Nantes.
+No. 878-PiETA (By Marco da Forli or Palmezzano)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## PIETRO CAVALLINI
+
+Fourteenth century;died circa 1384
+
+FLORENTINE SCHOOL OF THE FOURTEENTH CENTURY
+
+## 879-ADEPOSITION
+
+In the centre is the dead body of Christ, shown at full length and supported and surrounded by a group of Disciples, Joseph of Arimathea and Holy Women. Landscape background and on the left an open sarcophagus. In molded wooden frame with stepped top.
+<!-- image -->
+
+## UMBRIANSCHOOL
+
+FIFTEENTHCENTURY
+
+## 880-STATION OF THE CROSS
+
+Height,253/4 inches;width,18 inches
+
+An oval panel in polychrome and gold, depicting the Crucifixion,with Christ bleeding on the cross and St. John kneeling at its foot and the holy women standing at either side. In the background hills and the tall buildings of a city.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## JACOPOSELLAIO
+
+FIFTEENTHCENTURY
+
+## 881-VIRGIN AND SAINTS IN ADORATION
+
+Panel:Height,27 inches;width,20 inches
+
+In the centre the Virgin, in red robe, dark blue mantle and red hood, kneels with folded hands in adoration of the undraped Child Christ,who reclines in front of her with uplifted hands;behind Him a youthful St. John the Baptist also kneels in an attitude of adoration, while farther back stands a group of saints including St.Peter and Mary Magdalene. In the background is a landscape with buildings and figures. In carved, painted and gilded tabernacolo frame with molded and dentilled cornice, frieze carved with gryphons and honeysuckles supported on two futed and astragalled Corinthian pilasters. Molded base and plinth inscribed "Ave Maris Stella De."
+No. 881-VIRGIN AND SAINTS IN ADORATION (By Jacopo Sellaio)
+
+<!-- image -->
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## BARTOLOMMEOVIVARINI
+
+VENETIAN:circa 1450-1490
+
+## 882-THE BIRTH OF OUR LORD AND PRESENTATION IN THE TEMPLE
+
+Panel:Height,1 foot 1 inch;length,1 foot 5 inches
+
+Two vaulted chambers of a palace of different sizes are occupied by groups of personages. In the larger, the three wise men of the East are seen at left foreground and the Virgin,Holy Child and two attendants toward rear.In the lesser, the Virgin is kneeling before a priestly figure toward right. Two Saints attend Her at left.
+
+Note:The eminent director of the Bargello Museum,Florence,Prof. Giacomo de Nicola, has reviewed this and the following interesting painting and remarks in part as follows: "It "is difficult to determine the authorship of these two paintings,but it is not dificult on account "of the artistic ambience to determine their source.Itisin themanner of theVenetianpainters "of the second half of the fifteenth century;the school of Bartolommeo Vivarini.The painting "is well preserved, but what above all gives charm is the ingenuity and sincerity of the facial "expressions and intimate sentiments of the personages, together with the rendering of the
+
+"domestic details of the interiors."
+
+From the Fairfax Murray Collection,London.
+
+(Pendant to the following)
+No. S82-THE BIRTH OF OUR LORD AND PRESENTATION IN THE TEMPLE (By Bartolommeo Viuarini)
+
+<!-- image -->
+## BARTOLOMMEO VIVARINI
+
+VENETIAN:circa 1450-1490
+
+## 883-DEATH OF THE VIRGIN
+
+Panel:Height,1 foot 1 inch;length,1 foot 5 inches
+
+The Holy Virgin is stretched on a pallet about centre of a noble chamber arranged with a Byzantine-Romanesque columned arcade at rear.At rear and right are eleven of the disciples of Our Lord doing honor to the last mements of the Virgin.
+
+Note: Prof. Giacomo de Nicola,Director of the Bargello Museum,Florence, says concerning the painting:"This scene of the death of Mary follows the panel of the Birth of our "Lord which,with others now dispersed, formed a predella of an Altar in honor of the Virgin. "This is by the same hand as the previous painting, and has the same characteristics and the "samevirtues."
+
+From the Fairfar Murray Collection,London.
+
+(Pendant to the preceding)
+No.883-DEATH oF THE VIRGIN (By Bartolommeo Vioarini)
+
+<!-- image -->
+Kindly read the Conditions under wehich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## FLORENTINE SCHOOL
+
+FIFTEENTH CENTURY
+
+## 884-PORTRAIT OFTHEPOET DANTE
+
+Panel: Height,1514 inches;width,121/s inches
+
+The Divine Poet and Patriot is seen in profile to left, at bust length. He wears a typical close-fitting Florentine cap, crowned with bays and a belted robe. The balustrade at foot of panel,behind which he is standing,is inscribed
+
+"Dante."
+
+Note: The only known contemporary portraits of the Poet are in the frescoes of Assisi and Florence.The directness of the Stroganoff portrayal seems to show that the unknown great painter of this fine portrait must have had contemporary data or early tradition to guide his hand. Portraits of the poet, even of the ffteenth century,are exceptionally rare, and this is the only one known to the present owner.
+
+From the Collection of Count Stroganof,Rome.
+No. 884-PoRTRAIT OF THE PoET DANTE (Florentine School)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## VENETIAN SCHOOL
+
+FIFTEENTH CENTURY
+
+## 885-PORTRAIT OF THE POET PETRARCA
+
+Panel: Height, 121s inches; width, 93/ inches
+
+The famous poet is presented at bust length in profile to left, wearing a cowled habit. Before him on a balustrade is an apple. He is calm and serene of brow and of full figure. Inscribed on tablet at foot of panel,"Franciscus Petrarcha Laureatus."
+
+Note: Contemporary,or even fifteenth century,portraits of the great Italian poet are extremely rare. This one,of the Stroganoff Collection,is undoubtedly the work of an eminent master of the early fifteenth century.
+
+From the collection of Count Stroganoff,Rome.
+No. 885-PoRTRAIT OF THE PoET PETRARCA (Venetian School,Fifteenth Century)
+
+<!-- image -->
+Kindly read the Conditions under rehich erery item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## FILIPPO LIPPI
+
+FLORENTINE SCH00L:1457-1504
+
+## 886-TWO ADORING ANGELS
+
+Panel:Height,11 inches; width,73/ inches
+
+Two robed fying angels, en face,are carrying stems and lilies, swinging their censers in the path of the descending Dove of Peace. This simple disposition of the two figures is most graceful and captivating.
+
+Note: B. Berenson illustrates this typical example by Lippi in both "The Study and Criticism of Italian Art,"London,191l,page 59,and "The Florentine Painters of the Renaissance," 1907, page 97. Starye Gody also gives an illustration of it in his work of 1909.
+
+From the collection of Count Strogamof,Rome.
+No. 886Two ADoRING ANGELs (By Filippo Lippi)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## FILIPPO MAZZOLA
+
+PARMESE ScH00L:1460—1505
+
+## 887-MADONNA AND CHILD
+
+(On Panel, Signed)
+
+Height,131/2 inches;width,11 inches
+
+"Before a black curtain, disposed in the centre of the picture, at the two "sides of which is the cloudless blue sky, the Virgin is seen at half length, "wearing a red tunic and a blue mantle lined with green; having a yellow "trade of colored marble. At the right, beneath, is the signature: Fi Ma.... "This painting is one of the most beautiful works of the master, executed some"what under the infuence of the School of Cremone but much more under "that of Giambellino: the resemblance to the Madonna of the gallery of Parme "is very striking." (Bollettino d'arte del Min.della Pubbl. Istruz.,1910, fig. a, p. 92.)
+
+Note: The above description is a literal translation from the Stroganoff Catalogue, written by Professor Antonio Munoz, of the University of Rome. See Stroganoff Catalogue, page32.
+
+From the collection ofVimercati Sozzi de Milan.
+
+From the collection of Count Stroganoff,Rome.
+No. 887-MaDoNNA AND CHILD (By Filippo Maszola)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## SCULPTURES AND STUCCO BAS-RELIEFS
+
+## DONATO DI NICCOLO DI BETTO BARDI (CALLED DONATELLO)
+
+PADUAN:13S6-1466
+
+888--MADONNA AND CHILD
+
+(Leather Bas-relief)
+
+Height,1 foot 91/2 inches;width, 1 foot 3 inches
+
+The Virgin, clad in hooded and voluminous robes, is seen almost in profle to right and at half-length. She holds Her little Son with both arms, embracing Him,while He kisses Her cheek. Both figures are haloed and the relief is in its original carved frame.
+
+Note: It is interesting to remark that Leo Plascinig, in his work on Italian bronzes gives this interesting bas-relief to Bellano.
+No. 88—MADoNNA AND CHILD (By Donatello)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## ANTONIO ROSSELLINO
+
+FL0RENTINE:1427-1490
+
+## 889-MADONNAAND CHILD
+
+(Polychrome Stucco Bas-relief)
+
+Height,2 feet 7 inches;width,1 foot 8 inches
+
+Three-quarter-length, seated figure, wearing crimson robes and haloed ivory holds a small bird in His hands and wears a small robe. In the upper back- ground is an ornate foral garland.
+
+Note: Though once attributed to Rossellino, this bas-relief is now believed by some experts to be by the anonymous"Maestro of the Marble Madonna"A similar bas-relief is in the Berlin Museum, and is reproduced by Frida Schottmiller,No.152,"Die Italienischen und Spanischen Bildwerke der Renaissance und des Barocks."
+No. 889-MADoNNA AND CHILD (By Antonio Rossellino)
+
+<!-- image -->
+## LUCA DELLA ROBBIA
+
+FLORENTINE:1400-1482
+
+## 890-MADONNA AND CHILD
+
+(Polychromed Stucco Bas-relief)
+
+Height,4feet;width,2feet 4inches
+
+Three-quarter-length haloed figure, almost in profile to right, of the Virgin as a care-free young matron looking downward toward Her Son, Who playfully lifts Her hooded mantle above His head. She wears a robe under the mantle and stands before a gilded diapered foral background. The bas-relief is within a decorated,pedimented and columned architectural frame.
+
+Note: A duplicate of this charming bas-relief is illustrated by Dr. William Bode in "Florentiner Bildhauer,"page 167;but it has an entirely different background. There is on page 62 a marble bas-relief by Michelozzo with a similar background.
+No. 89O—MADoNNA AND CHILD (By Luca della Robbia)
+
+<!-- image -->
+## DONATO DI NICCOLO DI BETTO BARDI
+
+## (CALLED DONATELLO)
+
+PADUAN:1386--1466
+
+891-MADONNA AND CHILD
+
+(Terra Cotta Bas-relief)
+
+Height,471/2 inches;width,28inches
+
+Molded with the figure of the Virgin in a loose robe, holding with both hands the draped Child Christ, and bending over Him,her head seen in profle. In tabernacle frame of carved and gilt wood with pointed pediment,futed and astragalled pilasters, plain plinth and molded base. Modeled by Donatello.
+
+From the Stefano Bardini Collection, acquired in Florence many years ago.
+No. 891—MADoNNA AND CHILD (By Donatello)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## LUCA DELLA ROBBIA
+
+FLORENTINE:1475-1550
+
+## 892-MADONNA AND CHILD
+
+(Polychromed Stucco Bas-relief)
+
+Height,4feet7inches;width,2 feet 9 inches
+
+Most engaging half-length figure turned to right almost in profle and looking downward slightly smiling at Her chubby Son,Who is held in Her arms and is playfully lifting Her hooded mantle from Her head with His right hand. She wears loose embroidered robes and a mantle and stands before a rudimentary landscape. The bas-relief is within a contemporary decorated architectural frame.
+
+Note:There is a very decided analogy between this fine bas-relief,with its playful atmosphere and one illustrated by Dr.William Bode in "Florentiner Bildhauer," page 169, which is in the possession of V.von Benda,Vienna. This latter,however,is very different in coloring,and has not the matchless high patina resembling the glaze of terra cotta which invests that in the Tolentino Collection.
+No. 892—MADoNNA AND CHILD (By Luca della Robbia)
+
+<!-- image -->
+## JACOPO DELLA QUERCIA
+
+ITALIAN:13741438
+
+## 893-MONOCHROMED STUCCO BUST
+
+Height,23 inches
+
+Gracious and charming bust of della Quercia's favorite model, the Bandinella. Her head to front slightly downward, wearing a pleated cap over curling hair and a mantle lightly draping her shoulders. This bust was the original model for one of the figures in a group, known as the masterpiece of this sculptor, which adorns his Fonte Gaia"at Siena.Professor Giacomo de Nicola,the eminent Director of the Bargello Museum,Florence,has given a written opinion on this very beautiful bust. He states: "It is identical with one in a group "on the Fonte Gaia. Another figure in stucco similar to one in this group, "is in the Museum at Amsterdam and yet another, the 'Sapienza,is in the "Berlin Museum. This bust is the third that has appeared and it is unique. "The freshness and details of modeling preclude the possibility of its being "taken from a mold, and the coloring of monochrome rose sinulating marble "differentiates it from the others."
+No. 893MoNoCHRoMED STUCCo BuST (By Jacopo della Quercia)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## DONATO DI NICCOLO DI BETTO BARDI (CALLED DONATELLO)
+
+PADUAN:1386-1466
+
+894-MADONNAAND CHILD
+
+(Polychrome Stucco Bas-relief)
+
+Height,30 inches;width,22 inches
+
+Rectangular,with round-arched top. Modeled with half-length figure of the Virgin with red robe and hood,her face seen in profile and bending over the draped Child Christ, whom she supports with one hand, while with her right she clasps His wrists. In old carved and gilt wood frame, with spirally futed pilasters and arch and plinth carved with a panel of Gothic tracery. Modeled by Donatello.
+
+Note: An exactly similar example to this bas-relief, differing only in the details of its coloring, is to be found in the Berlin Museum.In the catalogue prepared, under Dr. Bode's direction, by Frida Schottmiller and published in Berlin in 1913,it is there illustrated as No.44.
+
+From the Stefano Bardini Collection, acquired in Florence many years ago.
+No. 894—MADoNNA AND CHILD (By Donatello)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 895MARBLE STATUETTE POLYCHROMED
+
+French,Fifteenth Century
+
+Standing figure of the Madonna, in a full gown, with finely carved wavy hair projecting from under her head covering. A young woman of full features, with head poised lightly over her left shoulder,and her hands clasped reverentially before her breast. Polychrome mellowed by time, and the marble where exposed showing a mellow patina.
+
+Height,25inches.
+<!-- image -->
+
+## LUCA DELLA ROBBIA
+
+FLORENTINE:1400-1482
+
+## 896PORTRAIT OF POPE MARTINV
+
+Height, 1734 inches; width, 123/ inches
+
+Terra cotta bas-relief bust glazed in white on blue ground; facing left. In the upper left corner the arms of the great Colonna family, of which he was a member. A man of stern yet kindly features, inclined to smile; wearing the papal tiara and embroidered robes.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## FRANCESCO DI SIMONE FERRUCCI
+
+FLORENTINE:1437—1493
+
+897-MADONNA AND CHILD
+
+(Marble Bas-relief illuminated in Gold)
+
+Height,3feet 8 inches;width,2feet
+
+A most gracious, three-quarter-length figure, looking downward, toward Her Son, seated on a cushion at right and held by Her left hand. Both wear haloes and robes. She with a hooded mantle also, stands before a shell arched niche surmounted by a winged shell festooned with fruit. The columned and pedimented frame is of green Fiesole stone.
+
+Note: This remarkable bas-relief has also been expertised by Prof. Giacomo de Nicola, Director of the Bargello Museum, Florence. He says in part: "This bas-relief was undoubtedly "on the exterior windows of St. Petronio. Typical of this Maestro is the treatment and fine "decorative taste found in the frieze above the group, in which is a festoon and winged shell."
+
+From the Fairfax Murray Collection, London.
+No.897-MADONNA AND CHILD (By Francesco di Simone Ferrucci)
+
+<!-- image -->
+## DONATO DI NICCOLO DI BETTO BARDI (CALLED DONATELLO)
+
+PADUAN:1386-1466
+
+## 898-MADONNA AND CHILD
+
+(Polychrome Papier-mache Bas-relief)
+
+Height,48 inches; width,331/2 inches
+
+Rectangular.Modeled with the famous "Casa de' Pazzi" Madonna,a halflength figure of the Virgin standing, in a blue mantle with white hood, Her face seen in profle bending over and pressing Her face close to that of the Child Christ,whom She tenderly holds with both hands. In an old tabernacle frame of carved, painted and gilded wood, with molded and carved pointed pediment, pilasters with arabesque carved shafts and apron fanked by the carved consoles.
+
+Note:Illustrated in"Florentine Sculptors of the Renaissance"by Wilhelm Bode,London, 1908,in which Bode says:"The earliest authenticated Madonna by Donatello I take to be the "marble relief in the Berlin Museum-the Pazzi Madonna.The broadly conceived modeling of "the figure in thePazzi relief,the strong, simple fold of the heavy mantle,as also certain faults "of foreshortening in the left hand,lead one to place the production of this manifestly authentic "masterpiece in the early ffteenth century.In the catalogue, prepared under Dr. Bode's direction,by Frida Schottmiller and published in Berlin in 1913,it is there illustrated as No.30.
+
+From the Stefano Bardini Collection, acquired in Florence many years ago.
+No. 898MADoNNA AND CHILD (By Donatello)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## ANDREA DELLAROBBIA
+
+FLORENTINE:1437-1528
+
+## 899-STATUE OF SAINT ANTHONY
+
+Height,50 inches
+
+Standing figure of the Saint wearing full robes. He is tonsured, benignly looks downward and holds a lily branch in his right hand and in his left a missal. Brilliantly glazed in soft white. In two portions.
+No. 899STATUE OF SAINT ANTHONY (By Andrea della Robbia)
+
+<!-- image -->
+## ANTONELLO GAGGINI
+
+SICILIAN:1478-1538
+
+## 900-GOTHICPENTELICMARBLE STATUE OFSAINT
+
+## VITUS
+
+On its pedestal,4 feet 3 inches high
+
+The martyr, Saint Vitus, is assumed to have been a Sicilian, the son of a Pagan noble but himself devoted to the new teachings of Christ which he had learned from Modestus and Crescentia. He soon became known as a healer of supernatural powers and when denounced by his father,he was scourged by the Sicilian pro-consul, but he resisted temptations to give up his faith. Admonished by an angel he crossed the sea to Lucania and came to Rome where he suffered martyrdom at the hands of Emperor Diocletian.
+
+In the "Martyrium Hyeronianum" the passion of Saint Vitus is elaborately described. He is called one of the fourteen protectors,his relics were credited with miraculous healing powers and many churches in Italy and Germany were erected to his glory. His attributes were book, cock, vessel, bone, cup and wolf.
+
+This statue of Saint Vitus is of carved and polychromed Greek marble. Upright figure of a young nobleman in a long fowing medieval tunic through which appear the folded sleeves of a velvet jacket and the fur-bordered robe above his bare ankles. He wears pointed low skin hose. From his girdle hangs a chain by which are held two wolves,emblems of his power of healing the bites of wild animals. Around his neck he wears a chain with a jeweled pendant and his long, curling hair is covered by a berretta. The statue is placed on a hexagonal base carved with four motifs from the life of the saint and two-winged cherub heads.The direct method with which the master succeeded in conveying the deeply rooted asceticism of his subject is unique in early sculpture. The same touching simplicity is found in the treatment of the figure subjects carved on the socle. One feels confident in calling this statue of Saint Vitus the crowning achievement of this independent master sculptor.
+
+Note:Antonello Gaggini was the son of a Sicilian sculptor and the father of five sculptors. A pupil of Raphael and Michael Angelo while in Rome,he became the founder of a Sicilian school of sculpture upon his return to his native isle.The churches of Palermo, Catania,
+
+Castroreale,Messina,Nicosia and the Museum of Palermo are filled with his spirited creations.
+No. 9OO-GoTHIC PENTELIC MARBLE STATUE OF SaINT VITus (By Antonello Gaggini)
+
+<!-- image -->
+and sold. They are printed in the forepart of the Catalogue.
+
+## GIOVANNI DELLA ROBBIA
+
+FLORENTINE:1469-1527
+
+## 901-GLAZED TERRA COTTA PORTRAIT BUST OF A CHILD
+
+Height,9 inches; length of base, 10 inches
+
+The chubby, eager smiling face is slightly turned to right; and the curling locks tumble from brow over the neck and shoulders. Glazed in fine white with gray basal band. On a painted and gilt wood base.
+
+Note: Professor Giacomo de Nicola,Director of the Bargello Museum,writes of this charming bust:"The smiling child has no attributes either of St. John or the little Christ, "under the semblance of which the Quattrocento Florentine art gave us a magnificent series "of children.This is, therefore,most undoubtedly a portrait.It was executed by Giovanni "della Robbia during his period Verrocchiesque, and in a moment (for him quite unusual)
+
+"of sympathy with the subject."
+No.9O1-GLAZED TERRA CoTTA PoRTRAIT BUST OF A CHILD (By Giovanni della Robbia)
+
+<!-- image -->
+## 902-PAIR OF CARVED STONE STATUETTES
+
+Pisan,Early Thirteenth Century
+
+Standing figures of the Virgin and St. Joseph. The Virgin stands with her head slightly drooping, bowed over her folded hands before her breast. Her robes,including the hood over her head,are delicately incised in primitive manner and she wears a rope girdle tied in a bow, the long ends carved in spiral relief down the front of her gown. St. Joseph is represented as a bearded man, his mustache, beard and hair all curly. His left arm crossed before his breast holds up his fowing robe and the hand grasps a fold of the robe on the opposite side. His right hand is brought up to his head, which is poised slightly to his right and leans against it. His robes are incised in similar manner to those of the Virgin. On the figure of the Virgin a light patina and on Joseph's robes a dark one. On red velvet covered pedestals.
+
+Height of statues,22 inches;and complete,331/ inches.
+
+From the Marchese Puccio Collection,at the Castle of Vescovara di
+
+Broni.
+No.902-PAIR OF CARVED STONE STATUETTES (Pisan,Early Thirteenth Century)
+
+<!-- image -->
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 903-FRENCH GOTHIC SCULPTURED WALNUT HANGING LANTERN
+
+## HOLDER Early Fifteenth Century
+
+Composed of a most interesting polychromed bust of a young woman looking downward to spectator and wearing the curious large round head gear and robes of the period. The bust is complete in itself and is not a portion of a larger statue. Mammoth deer antlers are attached to the back of the bust and with it are suspended from a small canopy by three ringed chains.
+
+Height of bust,13 inches;reidth of antlers,24 inches.
+
+Note: Rare examples of these very unique hanging lantern holders are preserved in French Museums.It is also interesting to know that these lantern holders were considered to have supernatural powers to ward off all evil influences.
+
+Fromthe De Motte Collection,Paris,1922.
+
+## 904-CARVED STONE COLUMN WITH BASE AND CAPITAL French Gothic,Fourteenth Century
+
+Column round, with heavily molded base having a square foundation. The expanding capital, which has a molding at its foot, is carved in high relief with figures as caryatids, and between them with foral motives.
+## GOTHIC AND RENAISSANCE TAPESTRIES
+
+<!-- image -->
+
+## 905-GOTHIC TAPESTRY PANEL Flemish,Fifteenth Century
+
+A group of six figures, forming an intact fragment presenting Burgundian suggestions. The grouping of the figures shows fine accomplishment, they take their places as in a painting, rather than in a tapestry composition. Apparently people of the nobility on 1some formal occasion,three of them women.
+
+Height,32 inches;length,35 inches.
+
+From the De Motte Collection,Paris,1922.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+- 906--RENAISSANCE TAPESTRY Flemish,Early Siateenth Century The main design retaining the spirit of the Gothic. The panel, within pillars, depicts a lion destroying a horse, with birds and a fox in the foreground, in the background a man on horseback riding before a castle. The wide border in Renaissance design of fowers, fruits and vegetables.
+
+Height,9feet 9inches;width,7feet5inches.
+No. 906-RENAISSANCE TAPESTRY (Flemish,Early Siateenth Century)
+
+<!-- image -->
+Kindly read the Conditions under rohich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+907-HUNTINGTAPESTRY
+
+Flemish,Sixteenth Century
+
+OSTRICH HUNTING. In a landscape of herbage and trees of tropical luxuriance two cavaliers ride up on horseback from right and left, armed and equipped for the hunt,and between them is an ostrich which one is about to shoot as a dog grasps its leg. In the middle distance other horsemen pursue a feeing bird. In the background are houses and a church, with others on a distant peak.
+
+Height,8feet;length,9feet.
+No. 907—HuNTING TapEsTRx (Flemish, Siateenth Century)
+
+<!-- image -->
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+908-GOTHICTAPESTRY PANEL
+
+Flemish,Fifteenth Century
+
+Picturing Christ with Apostles emerging from a temple. The Christ appears in the foreground,at full length, standing, the first Apostle regarding Him reverently. The heads of others appear behind them, sometimes only an eye being seen. The Christ's robes are rose-pink and old-gold. He is represented without the halo. The first Apostle is in deep blue. Framed in a cathedral niche carved in the Gothic style.
+
+Height,591inches;width,19 inches.
+
+Note:This tapestry is illustrated in "La Tapisserie Gothique,"by De Motte, Paris,1924.
+No. 9O8-GoTHIC TAPESTRY PANEL (Flemish,Fifteenth Century)
+
+<!-- image -->
+<!-- image -->
+
+## 909-GOBELIN TAPESTRY PANEL French,Eighteenth Century
+
+Picturing at either hand Ceres and Flora, seated under trees, with amorini running toward them with sheaves and fowers and one filling a jar from a waterfall. In the middle distance is a scene of the golden harvest with crimson poppies growing amid the wheat and a bird fying overhead, and in the background various buildings.
+
+Height,24 inches;length,42 inches.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+- French,Fifteenth Century
+- 910-GOTHIC ENGHIEN TAPESTRY Rectangular. Woven in a verdure pattern of large scrolled leaves in green and blue interspersed with fowers and smaller leaves in yellows and with the figures of an ape seated upon a camel, a goat with lion's tail,long-tailed birds and butterfies all in yellows. The border consists of a rod looped with ribbons in light yellow upon a dark yellow
+
+ground.
+
+Height,7 feet 51/2inches;width,12 feet 3 inches.
+(French,Fifteenth TAPESTRY No. 910-GoTHIC ENGHIEN
+
+<!-- image -->
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 911-SUPERB GOTHIC ENGHIEN TAPESTRY French,Late Fifteenth Century
+
+Within a border of fowers and fruits a rectangular field of fowers and fronds and amidst them deer and foxes, in rose and blues, fawn and gray-white, on a dark brown ground.
+
+Height,8 feet 10 inches;width,6 feet 7 inches.
+No.911-SUPERB GoTHIC ENGHIEN TAPESTRY (French,Late Fifteenth Century)
+
+<!-- image -->
+- 912-FLEMISH RENAISSANCE TAPESTRY Sixteenth Century HERCULES AND DEJANIRA. At left foreground the burly figure of Hercules is seen, wearing classic garb and carrying over his right shoulder his famous club and over his arm the symbolic Nemean lionskin. He addresses his wife,Dejanira, who stands near him, wearing beautiful robes.She is at the edge of a stream which issues from the colonnade of an Italian garden seen beyond them, which is crested with a wooded elaborate palace,partially seen in the far distance. Woven in rich harmonious colors;having fine broad compartmented borders, displaying at centre crown a panel, sustained by caryatids and occupied by a figure of the winged Icarus on his ill-fated fight across the sea; the sides with allegorical figures within canopied niches; the centre of foot with a panel similar to the crown, occupied by a figure of Achelous, the River god, the conquered rival of Hercules. Between these motives are jardinieres and clusters of fine fruit, amidst which birds and figures
+
+of Pan are seen. Executed in similar rich colors to the field.
+
+Height,13 feet 5inches;rwidth,10 feet 9 inches.
+No. 912-FLEMISH RENAISSANCE TAPESTRY: HERCULES AND DEJANIRA (Sixteenth Century)
+
+<!-- image -->
+- 913-FLEMISH RENAISSANCE TAPESTRY
+
+Sixteenth Century
+
+HERCULES AND OMPHALE. The mythical hero in gilded armor, bearing over his shoulder the girdle of the Amazon Queen Hippolyta,is seen toward left foreground before an Italian columned arcade, supported by caryatids and centred with a keystone bearing the symbol of Bucranio, the lattice overgrown with magnificent ripening fruit. He is in conversation with Omphale, who is at his right. She wears royal robes and a diadem in her hair. Beyond through the arcade is a vista of an Italian garden with a splashing fountain crested by the wooded hills of Olympia. Woven in rich harmonious colors; fine broad com partmented borders, displaying at centre crown a panel, sustained by caryatids and occupied by a figure of the winged Icarus on his ill-fated fight across the sea; the sides with allegorical figures within canopied niches; the centre of foot with a panel similar to the crown, occupied by a figure of Achelous, the River god, the conquered rival of Hercules. Between these motives are jardinieres and clusters of fine fruit amidst which birds and figures of Pan are seen. Executed in similar rich colors tothefield.
+
+Height,13 feet 4inches;width,12 feet.
+No.913-FLEMISH RENAISSANCE TAPESTRY:HERCULES AND OMPHALE (Sixteenth Century)
+
+<!-- image -->
+Kindly read the Conditions under rohich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+914-HERALDICTAPESTRY
+
+Spanish,Seventeenth Century
+
+THE ARMORIAL BEARINGS OF LEON AND CASTILE QUARTERED WITH OTHERS. Very rich rose-du-Barry crimson field, supporting a central strap-arabesqued oval cartouche,quartered with three lions passant, a castle proper and a royal crown about centre, over blue and white checks.The cartouche is surmounted by a coroneted helm and the half-figure of a Saint carrying a cross. The helm has large Gothic leaf-scrollings and the cartouche is quartered with feursde-lis and surrounded by trophies and fags of various provinces. Woven in rich pinks, ivories, sapphire-blue, golden-yellows, greens and browns. Charming cerulean blue border, occupied by varied military trophies and fags; executed in similar colors to the field.
+
+Height,9 feet 2inches;length,9 feet 10 inches.
+No. 914SPANIsH HERALDIc TAPEsTRy (Siateenth Century)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue,
+
+- 915-ROYAL AUBUSSON TAPESTRY
+
+French,Louis XIV Period
+
+Beneath a draped canopy, in formal design, are bunches of fruit and large masses of fowers including roses and tulips; at bottom centre a mass of fowers fanked by two birds;other birds are placed in different positions in the field and in the border. In brilliant colors with much rose on a dark background.
+
+Length,7 feet 9 inches;rwidth,5 feet 11 inches.
+No.915-RoYAL AUBUssoN TAPESTRY (Louis XIV)
+
+<!-- image -->
+Kindly read the Conditions under which erery item is offered and sold. They are printed in the forepart of the Catalogue.
+
+916-RARE GOTHIC TAPESTRY
+
+French,Fifteenth Century
+
+THE BAPTISM OF CHRIST. Christ stands knee-deep in the Jordan about centre. He wears a loin-cloth and inclines Himself somewhat toward St. John the Baptist at right,His hands folded before Him. St. John is baptising Him from a cruse of water held in his raised right hand. At left stands an angel, holding Our Saviour's cloak. Above the Saviour is a scrolled label parted by a Sun in Splendor bearing in Gothic letters,"Hic Filius Meus"(This is My Son).In the corners of the composition are the four evangelists with their symbolic emblems; at the vase upon a scroll is the motto of a noble family in old French, "Vivre en esperance." Above the scroll, on a shield, is an intricate monogram, the weaver's signature, most unusual, for weavers’marks are very seldom seen on Gothic tapestries.
+
+Height,37 inches;rwidth,36 inches.
+
+From the Georges Seligmann Collection,Paris.
+No. 916-RARE GoTHIC TAPESTRY: THE BAPTISM OF CHRIST (French,Fifteenth Century)
+
+<!-- image -->
+<!-- image -->
+
+## 917-GOLD AND SILVER ENRICHED RENAISSANCE TAPESTRY Flemish,Late Sixteenth Century
+
+FLORA. At left, Flora is seated in voluminous robes, enriched in gold; beyond two jardinieres are seen in a landscape in which is an Italian garden and fountain.S Slightly toward left of centre is a panel occupied Aby a handsome jardiniere of fowers fanked by caryatids. At right is a nymph in voluminous robes, enriched with silver, charming two snakes. She stands before a wooded landscape in which chateaux and distant hills are seen. Woven in rich crimsons, blues, greens, yellows, ivories, pinks and tans. Finished with a border of leaf motives in ivory on crimson grounds.
+
+Height,2 feet 7 inches;length,5feet 8 inches.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+918-THE CHARIOT ASSAULT,AFTER TENIERS
+
+Flemish,Seventeenth Century
+
+In the centre a cart and white horse, with figures, and man with a pike striking at a group of man,woman and child, and in the central foreground a man grasping at a woman with a basket who has fallen to the ground. From the right other halberdiers approach. Masses of verdure occupy both sides of the picture,and in the central distance appear a castle and grounds. Border of golden garlands.
+
+Height,9 feet 2 inches;length,10 feet 6 inches.
+No.918-THE CHARI0T ASSAULT,AFTER TENIERS (Flemish,Seventeenth Century)
+
+<!-- image -->
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+919-MYTHOLOGICALTAPESTRY
+
+Brussels,Sicteenth Century
+
+PERSEUS AND ANDROMEDA. On the right in the foreground are the King of Ethiopia and his brother, on the left are the Queen and sundry men and women.On the right a little farther on is Andromeda chained to the rock, and in the middle distance Perseus is destroying the sea monster by tossing an anchor between its wide open jaws. In the background is a distant city and men in battle,probably an afterscene representing Phineus's resentment. Woven in golden tones with roserelief.
+
+Height,9feet 5inches;reidth,8feet 5inches.
+No. 919—PERsEUs AND ANDRoMEDA （Brussels, Sicteenth Century)
+
+<!-- image -->
+## GOTHIC AND RENAISSANCE CABINETS,CASSONI,CREDENZE
+
+## TABLES AND BEDS
+
+<!-- image -->
+
+920--PAIR MARQUETERIE“ENCOIGNURES"
+
+By L. Boudin (signed);French,Louis XV Period
+
+Broadly rounded front formed of the great door, at either side of which are narrow concave and convex panels, the convexity over the stiles and continuing down the short tapering legs; scrolled skirt. The door beautifully inlaid with an interlacement of roses and other fowers in rosewood, kingwood,olive wood and satinwood.Marble top conforming to the contour of the front and molded. Signed L. Boudin.
+
+Height,3612inches;spread,32 inches.
+
+Note: Leonard Boudin entered guild 1761, and ten years after was one of the most fashionable ebenistes in Paris,and was noted for his fine marqueterie.
+
+From the De Motte Collection,Paris,1922.
+<!-- image -->
+
+## 921-CARVED WoOD PYX French Gothic, Fifteenth Century
+
+Hexagonal, the top coniform, ending in a blossom-knob. Ribs and cornice of the top in rope spirals. On all sides of top and body Gothic tracery in relief. Fine Gothic specimen with vestiges of polychrome.
+
+Height,181y inches.
+
+From the De Motte Coliection,Paris,1922.
+
+## 922-CARVED AND PIERCED BONE DRESSING-MIRROR Spanish,Late Siateenth Century
+
+Case oblong on four bracket feet,with slant front,which drops,revealing one long interior drawer; one exterior drawer;rectangular mirror swinging between slender columns and having a scrolled cresting. The entire surface intricately carved and pierced in conventional diaper and large geometrical designs.
+
+Height,26 inches;rvidth,19 inches.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 923-POLYCHROMED CARVED OAK CABINET
+
+French,Sixteenth Century
+
+Oblong, with two large doors opening to the main section, and above them two smaller doors to the upper section, which exhibits six turned pilasters and has at centre a niche containing a group The Virgin and Child. Next the outer pilasters two sunken panels carved in relief with foral scrolls, the one at the left bearing a scroll incised with the date,1556. The two doors paneled and carved in bold relief with busts lozenge panels in relief. Continuing the Gothic spirit in this Renais- of saintly warriors in armor, polychromed. On the large doors eight panels,molded, carved in relief with leaves and fowers and at the centres with busts of provincial types within medallions, four couples. Original polychrome of soft tones on grounds of old blue. Ends bear sance piece,a median pilaster between the lower doors, carved with foral motives in relief and having its original polychrome.
+
+Height,5 feet 3inches;length,4 feet 912inches.
+
+From the sacristy of a French church and in a remarkably fine state ofpreservation.
+No. 923-PoLYCHROMED CARVED OAK CABINET (French,Siateenth Century)
+
+<!-- image -->
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+## 924-GOTHIC CARVED AND GILDED WALNUT JEWEL CHEST Venetian,circa 1550
+
+Oblong, the cover plain on top,where it has acquired a delicate patina, the under or inner side of it decorated in the style of a Gothic orRenaissance ceiling, in deep blue, green and gold, the gold appearing in rosettes within squares. Front in two panels, at either side of a Gothic tracery simulating a window, decorated in gold with circles and quartercircles on a diapered ground. The circles enclose inscriptions. End panels similarly decorated to front. One panel opens as a door, the inner side of it an expanse of tracery in relief and the whole gilded and within four drawers.In the deeply molded base a long drawer with two knob handles.
+
+Height,28 inches;length,50 inches.
+
+Note: Closely resembling one illustrated in Frida Schottmiller's book on Italian Renaissance Furniture,page 39,edition of 1921,and given as Venetian, circa 1550. Dr. Bode also illustrates and classifies a similar chest in the Kunstgewerbe Museum, Berlin, in his "Italian Renaissance Furniture"page 93.
+<!-- image -->
+
+925-WALNUT OCTAGONAL TABLE
+
+Florentine,Early Sixteenth Century
+
+Top inlaid with strips marking a border; heavy baluster standard resting on a square base. Top plain, the base and standard molded and carved. Dark patina. Fine Italian Renaissance specimen.
+
+Diameter,32 inches.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+926-VALD'AOSTA WALNUTTABLE
+
+Northern Italian or Southern French,Fifteenth Century
+
+The rectilinear top made of three heavy boards and now showing a light patina. The skirt ornamented in fat carving on all four sides, the designs foral. The heavy solid legs slightly scrolled and paneled and two heavy quadrilateral stretchers which are inserted in the legs and pinned with wood. Remarkable light patina.
+
+Length,43 inches;width,38 inches.
+<!-- image -->
+
+927-WALNUT TABLE
+
+Tuscan,Late Renaissance
+
+Rectilinear top, plain, edged with a thumb-molding. Skirt carved in scrolls. Supported by two lyre-shaped solid stiles resting on a deep in the base four drawers. Dark patina. Unusual type.
+
+Length,5feet 6inches;width,3feet 4inches.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+928-WALNUT CHEST
+
+Isola Terra-ferma (Northern Italy),circa 1450
+
+Walnut, with evidences of early polychroming. Front with incised eccentric decoration. Top incised with borders and in lattice pattern. The base has in front an open balustrade, above a scrolled apron incised with human figures and animals. Rich patina.
+
+Height,211 inches;length, 36 inches.
+
+Note:"Isola-Terra-ferma,"following Dr.Bode and Frida Schottmiller,in their attribution of a similar chest in their bcoks on Italian Renaissance furniture,which is illustrated in both books;in Dr.Bode's at page 103 and in Miss Schottmiller's at page 48:a chest in theFigdor Collection atVienna.
+<!-- image -->
+
+## 929-CARVEDWALNUT COFFRET
+
+Oblong, on four claw feet, the front a rectilinear expanse of fine carving with an affluence of design which leaves only necessary background unoccupied. The ends, top and base are also lavishly carved. On the front amorini foat among fowers, carved in high relief,and the centre is occupied by a cartouche with relief heads at top and bottom, supported by fanking figures. The ends display mascarons feuri, individually carved, and the base is carved with gadroons. The top is carved with a series of borders and moldings, and conceals within itself a secret compartment.
+
+Italian Renaissance,Sixteenth Century
+
+Height,15%inches;length,241%inches;width,111% inches.
+
+Note: This example of the golden Italian Renaissance was exhibited at Perouse and illustrated in the catalogue of the Exhibition.
+
+From the Count Oddi Collection,Perugia,Italy.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 93O-CARVED WALNUT CASSONE BY JACOPO SANSOVINO
+
+## Venetian,Sixteenth Century
+
+Oblong, the lid plain save for a carved molding at the edge and having a light patina;at the ends plain panels, molded;lion-claw feet. The front a mass of carved work: at either end an animal mask above bunches of nuts, carved in high relief, the space between carved with foral scroll in low relief, interrupted by three oblong panels. Each panel is elaborately carved, two with nude female figures reclining, the central one with shell patterns fanking a cartouche. The heavy base is boldly carved in leaf pattern.
+
+Length,68inches.
+No. 93O-CARVED WALNUT CASSONE BY JACOPO SANSOVINO (Venetian, Sixteenth Century)
+
+<!-- image -->
+Kindly read the Conditions under rehich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 931-GOTHIC CARVED WALNUT CHEST
+
+French,Fifteenth Century
+
+Oblong, the ends having wrought iron bail handles; the front wrought iron lock with enriched plate. The face of the chest is beautifully carved in high and low relief with figures of Saint George and three other saints, on pedestals within Gothic arches having background of tracery; above the crocketed arches are emblems, fowers and a lattice enclosing the feur-de-lys of the Orleans family. In the centre, below the lock, a crowned escutcheon quartered with further feurs-de-lys. On base covered with contemporary red velvet.
+
+Height,31 inches;length,511yinches.
+(French, Fifteenth Century) No. 931-GoTHIC CARVED WALNUT CHEST
+
+<!-- image -->
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+932-WALNUT AND CERTOSINA-WORK "CREDENZA"
+
+Florentine,Fifteenth Century
+
+Rectangular top, molded, curved and dentilled cornice, certosina-work frieze with carved band below. Body as cupboard, with two hinged doors panelled and carved with full-length figures of Saints in shellcanopied niches, fanked by panels carved with figures. Molded base, carved with bands of bead-and-reel, egg-and-dart and leaf ornament.
+<!-- image -->
+
+933-CARVED WALNUT CREDENZA Umbrian,Fifteenth Century
+
+Oblong, the top carved with a molding at the edge, the base heavily gadrooned; carved claw and turned knob feet. Three drawers and two doors. Front and ends deeply carved as arched entrances to stone buildings, with foral spandrels, and in conventional scroll and shell motives. Doors and drawers with wrought iron scrolled drop handles. Important example of the Gothic Italian period. Interesting patina.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+934-CARVED WALNUT TABLE
+
+Florentine,Early Sixteenth Century
+
+Supported on a quadrilateral base having four open scrolled brackets surrounding a central baluster richly carved, with leafage and gadroonings and resting on serpentine scrolled brackets. Light and varied rich patina. Exceptional example of the golden period
+
+Diameter,43 inches.
+
+Massive octagonal top. of the Italian Renaissance.
+<!-- image -->
+
+935-WALNUT OCTAGONAL TABLE
+
+Tuscan,Sixteenth Century
+
+Plain top with a rich patina, the deep edge incised with a molding of ovals. On a deep tripod base with pointed knob drop at the centre and heavy claw feet. Above the feet and resting on scrolls three eagles carved in bold relief, the solid legs carved back of the birds with chimeres, a mascaron and foral scrolls, in bas-relief.
+
+Diameter,45inches.
+
+Note:A fine classic example of the Tuscan Cinquecento.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+936-GOTHIC THRONE STALL
+
+Florentine,Fifteenth Century
+
+Walnut, carved and inlaid. Lower section carved in openwork with grotesque animal forms in the place of arms, the upper canopied section with scrolls and the feur-de-lys of Florence and an elaborately scrolled back which is surrounded by an inlaid border. Carved frieze with dolphins recalling the coat of arms of the owners in relief and gilded,and painted cornice.
+
+Height,8 feet 11 inches;reidth,3 feet 7 inches.
+
+From the patrician Casa Dolfini,Florence.
+<!-- image -->
+
+937-CARVED AND INLAID WALNUT TABLE
+
+Venetian,Sixteenth Century
+
+Octagonal, with two shallow drawers; heavy balustered standard resting on a tripartite base supported on three animal-claw feet. Top bordered by two strips of cherry inlay. The vase-shaped baluster-standard is exquisitely carved with “amorini” heads.Soft light grayish patina.
+
+Height,33 inches;diameter,29 inches.
+
+Note:Similar to the one illustrated in Frida Schottmiller's book on Renaissance furniture in Italy,which also came from the Bardini Collection. But the example in the present collection seems to be of a finer character than that illustrated in the Schottmiller book.Itis a notable example of the Italian Cinquecento.
+
+From the Stefano Bardini Collection,Florence. From the De Motte Collection,Paris,1922.
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 938-GOTHIC CARVED OAK MoNEY CHANGER'S TABLE German,Fifteenth Century
+
+Folding top, with finely enriched frieze, bracketed at back and displaying tracery-like scrollings of leafage; under the frieze is an inslanting box bearing coat of arms and further scrollings. Supported on paneled ends having cross feet and adornment scrolled foliage, fruit and animalisticmotives.
+
+Height,311/inches.
+
+Note: This rare type of Gothic table claims the distinetion of being the only example of furniture illustrated in the de luxe catalogue of the collection of Count Stroganoff,Rome,plate CIx.
+
+From the Count Stroganoff Collection,Rome.
+TABLE No. 938-GoTHIc CARvED OAK MoNEY CHANGER's (German, Fifteenth Century)
+
+<!-- image -->
+- 939-CARVED WALNUT CREDENZA Florentine,Sixteenth Century Oblong,with fat top, molded, and projecting over a cornice having panels of palmette carving between carved brackets. One drawer. Two doors paneled with heavy molding;turned knob handles. At either side the doors,pilasters carved in relief with an ecclesiastical coat-of-arms supported on pedestals. Molded base. Dark patina.
+
+Height,35 inches;length,35 inches.
+
+From the Bardini Collection of Florence.
+
+From the De Motte Collection,Paris,1922.
+No. 939—CaRvED WALNUT CREDENZA (Florentine, Sicteenth Century)
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 940-EBONY CABINET CARVED IN RELIEF AND ENGRAVED
+
+## French,Sixteenth Century
+
+Oblong on ball feet; two upper and two lower doors, one long drawer, and two top drawers under the cornice. On the lower doors relief panels picturing the birth and circumcision of Christ, the remaining surface engraved with acanthus and liliform scrolls. Front of long drawer incised with foral scrolls. The upper doors exhibit treatment similar to that of the lower ones, except that the panels are octagonal within an outer stellate framing, and their subjects are Samson and Delilah and Hercules encountering the lion.The top drawers are carved in relief with figures and scrolls and the keyholes are escutcheoned. The upper doors, incised on their inner sides with fowers and fruit, disclose within,thirteen drawers,all incised in foral motive,and two small doors whose inner sides have marqueterie ornamentation. The marqueterie is continued in the inner cabinet which has twelve small drawers and at the back of a niche a painting of a garden with fountain. The outer ends of the upper section also incised with fowers.
+
+Height,6 feet 3inches;1ength,4feet7inches.
+
+Note: Work in ebony marked the high state of art in the Renaissance period. Two of the ebony cabinets are preserved in the Cluny and one in the Musee des Arts Decoratifs,in Paris.
+No. 940-EBONY CABINET CARVED IN RELIEF AND ENGRAVED (French,Siateenth Century)
+
+<!-- image -->
+## 94I-CARVED AND INLAID WALNUT CABINET Atelier of Jean Goujon;French, Sicteenth Century
+
+Oblong on square feet, the base channeled, the projecting top of the female figures carved in the round, one with a dolphin scroll and the lower section supported by scrolled brackets;on this an upper section with pilasters futed and reeded, supporting a cornice above which stand other with a cornucopia as supports. Between them an interrupted pediment of volutes, under which is a cherub-head with wings, in relief. Four doors and one drawer, carved with male and female figures and festoons and inlaid with panels of marble. Stiles carved with medallions of swans and also inlaid. On the drawer a lion's head knob in high relief with ring handle. Ends paneled.
+
+Height,7 feet;length,3 feet 5 inches.
+No. 941-CARVED AND INLAID WALNUT CABINET
+
+<!-- image -->
+
+(French,Sixteenth Century)
+Kindly read the Conditions.under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 942-CARVED WALNUT CREDENZA
+
+Oblong top; the front fitted with two paneled drawers parted by a large rosette,and two enclosing doors; trimmed with forged iron loop handles. The doors very interestingly enriched with busts of Romanic Warriors"within arched niches and over panels of checker devices, the doors parted by finely voluted bracket pilasters, the stiles of doors, drawers and case adorned with unusual rope motived moldings. On half rosetted arched feet. Near central bracket on pilaster a carved insignia evidently that of a previous owner.
+
+Tuscan,Late Fifteenth Century
+
+Height,43 inches;length,65 inches.
+(Tuscan, Late Fifteenth Century) No.942-CARVED WALNUT CREDENZA
+
+<!-- image -->
+Kindly read the Conditions under rehich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+943-WALNUTTABLE
+
+Ligurian,Sicteenth Century
+
+Heavily molded top,oblong, over an incised molding executed in shield patterns. Plain skirt,molded, with turned knob drops at the corners. Four columnar legs with a frieze of acanthus scrolls, resting on two long feet carved with similar scrolls,and three more of the columns based on a longitudinal stretcher and supporting arches. Light patina. A dignified classic Italian Renaissance table.
+
+Length,561/2inche8.
+<!-- image -->
+
+(Ligurian, Sixteenth Century) TABLE No.943-WALNUT
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+944-REFECTORYTABLE
+
+Tuscan,Siateenth Century
+
+Walnut, the top resting on a molding incised in shield patterns. Eleven legs turned in vase form, with incised and molded rings, and resting on a longitudinal base having channeled and half-round moldings and on two scrolled and molded end-feet.Good preservation and a very fine patina.
+
+Height,33 inches;length,10 feet 8 inches;width,331/ inches.
+:(Tuscan, Siateenth Century) No. 944—RErECTORY
+
+<!-- image -->
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+945-DANTESCA TABLE
+
+Circular top,with two hinged faps and molded edge. Apron fitted with
+
+Tuscan,Fifteenth Century two drawers having molded paneled fronts and wooden knobs. Square double curved supports of Dantesca chair form, square rails and cross bases carved with paw terminations.
+
+Height,311 inches;diameter,531 inches.
+
+Note: This Dantesque table is very unusual in form,and perhaps is the only one inexistence.
+Fifteenth Century) (Tuscan, TABLE No. 945—DANTEsCA
+
+<!-- image -->
+Kindly read the Conditions under rwohich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+<!-- image -->
+
+946--CARVED WALNUT CASSONE
+
+Oblong, the front and ends rounded; lion's-claw feet; two forged iron bail handles. Plain lid, which rests upon a frieze carved in relief in foral design, above a narrow shoulder. The face of the cassone below is divided into three panels, each having a bead molding and each carved in relief with a grapevine tracery, which is interrupted by a large medallion carved in bold relief. On one medallion is a hunting horn on a shield beneath a bird crest, on another a knight in armor, on the third leaf motives.
+
+Tuscan,Fifteenth Century
+
+Length,61 inches.
+<!-- image -->
+
+## 947--GOTHIC REFECTORY TABLE IN CARVED WALNUT Florentine,Late Fifteenth Century
+
+Length,10 feet 8inches.
+
+Oblong top, with a simple molding at the edge, and a fine patina. Below the top a molding of grooved shields.Solid legs on grooved and scrolled feet, and an underbrace pinned with wood. The legs and feet carved on all surfaces. A solid stretcher extending in the median line is scrolled in outline and incised with scrolls. A fine light patina and in good preservation.
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+948-WALNUT REFEcToRy TABLE Florentine, Sicteenth Century
+
+Oblong, plain top with molded edge, showing a fine patina, and resting upon an incised cornice of shield pattern. Great solid legs carved in double-eagle form, resting on broad scrolled end-legs. The eagles boldly carved and exquisitely incised. The legs support in median line a huge molded stretcher, which bears five vase-shaped urns finely carved and in theround.
+
+Length,8feet 2inches.
+No. 948—WALNUT RErECTORY TABLE
+
+<!-- image -->
+Kindly read the Conditions under which every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 949-SCULPTURED WALNUT CASSONE
+
+By Jean de Bologne;Florentine,1524-1608
+
+Molded oblong hinged covers. The fronts elaborately enriched in basrelief, one depicting in a hilly landscape occupied by chateau a pastoral scene, in which two shepherds are piping to a fock of sheep,at left a huntsman and dogs attacking a much spent boar;the other with similar landscape, occupied by two huntsmen and hounds bringing a stag to bay, a caravan of camels and a seated nymph at right. The panels are fanked by atlantes, these and the finely conceived bases composed of cartouched coats of arms, shells festooned with fruit interrupted by winged demi-figures and sphynxlike feet betray the drawing and hand of Jean de Bologne. For many bronze inkstands given to this master by Bode display the same correlated motives in a very marked manner.
+
+Length,68 inches.
+
+From the Princess Maddalena Belgioioso Collection,Milan.
+
+(Companion to the following)
+
+## 950-SCULPTURED WALNUT CASSONE
+
+By Jean de Bologne;Florentine,1524-1608
+
+Similar to the preceding, except that the front bas-relief panel depicts a more pastoral scene, in which two shepherds are piping to their flock of sheep at left foreground, and at right there is a boar hunt with hounds attacking and a huntsman shooting at the boar.
+
+(Companion to the preceding)
+
+Length,68 inches.
+<!-- image -->
+## 951-ScULPTURED WALNUT CABINET (Bambocci Stipo Type) Florentine,Fifteenth Century
+
+Elaborate leaf-molded oblong cornice, sustained by scrolled brackets and having unique pendants at intervals and dentiled member below. The frieze fitted with drawers centred with a coroneted cartouche, sustained by amorini in the round and fanked by three finely varied equestrian figures of warriors and putti on each side. The front arranged with central pedimented niche occupied by the figure of a Roman Warrior, fanked by jardinieres of fowers and bracketed figures. In pediment is a group depicting Hercules and the Nemean Lion; below is a bas-relief group,a Mermaid and Siren.Beneath the niche and at four corners are molded drawers, enriched with fine root-walnut. Vertically between the corner drawers are enclosing doors, having central niches occupied by classic figures, fanked by demi-putti and scrollings. Above and below the niches are panels of similar bas-reliefs of further minute groups: "The Siege, Attack and Occupation of a Town" and "Festival." In the "Occupation" is a king, enthroned, giving justice. Unique pilasters having leaf capitals, and in each three putti and three mermaids. The ends with shell-arched niched figures, equestrian groups in frieze and single figures on rear pilasters. Supported on beautifully leaf-enriched molded base.
+
+Note: The finest example of sculptured walnut ever brought to America from
+
+Italy.
+
+## 952-WALNUT COMMODE
+
+Italian,Sixteenth Century
+
+Plain top with double molding. Three drawers. Carved bracket feet. Under the top a cornice incised in leaf form, balanced by an equivalent channeled molding at the base. Stiles incised and carved in bold relief in foral design, and at their top figures of cupids. On the faces of the drawers four quatrefoil panels inlaid in root-walnut and embraced by scrolls. Each drawer has two knob handles variously carved as human heads. Rich patina.
+
+Height,42 inches;length,55 inches.
+No. 951—ScULPTURED WALNUT CABINET （Florentine,Fifteenth Century)
+
+<!-- image -->
+Kindly read the Conditions under rwhich every item is offered and sold. They are printed in the forepart of the Catalogue.
+
+## 953-GOTHIC CARVED WALNUT FoUR-POSTER BED Italian,Late Fifteenth Century
+
+All posts and legs, side stretchers and foot profusely carved. The carvings on the stretchers and foot foral and fruit scrolls, and at centre of the foot a mask, all in relief. The posts carved with mounting leaf scrolls above pearl borders.
+
+Legs carved in melon shape vase form and resting on square plinth.
+
+Height of post,40 inches; length,6 feet 10 inches; width, 4 feet 2 inches.
+No. 953GoTHIc CARVED WALNUT FoUR-PosTER BED (Italian, Late Fifteenth Century)
+
+<!-- image -->
+Kindly read the Conditions under which every item is ofered and sold. They are printed in the forepart of the Catalogue.
+
+## 954CARVED WALNUT BED WITH ILLUMINATED GILDING
+
+A four-poster, the posts columnar and resting on square molded feet.
+
+## Tuscan,Second Half of Sixteenth Century
+
+They are carved in leaf designs in the natural wood, and with mascarons and other details gilded. At the stretchers they are octagonal and the balance is round, supporting scrolled capitals under a square top. The top supports a vase carving with gilded mascarons in relief and a pear-shaped knob finial. Stretchers carved heavily in relief in formal designs. The head displays an elaborately carved cresting with cherubic heads at the centre fanked by monster forms and supported by nude female figures holding suckling infants on their knees. At their knees birds are pecking. The cresting rests on a series of eight arches.
+
+Height,5feet 8%inches;length,7feet 5inches;width,6feet1 inch.
+
+AMERICAN ART ASSOCIATION,INC.,
+
+OTTO BERNET, HIRAM H.PARKE,
+
+AUCTIONEERS.
+
+MANAGERS.
+No. 954CARVED WALNUT BED WITH ILLUMINATED GILDING (Tuscan,Second Half of Siateenth Century)
+
+<!-- image -->

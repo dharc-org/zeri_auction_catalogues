@@ -1,0 +1,4539 @@
+## ORDRE DES VACATIONS
+
+Le lundi 16 decembre 1912
+
+Numero 1 a numero 100...... Barye-E. Delacroix.
+
+Le mardi 17 decembre 1g12
+
+Numero 200 a numero 296..... Lami-Vigee.
+
+Le mercredi 18 decembre 1g12
+
+E.Delacroix-Lagneau, Numero 101 a numero 199.....
+
+## CONDITIONS DE LA VENTE
+
+Elle sera faite au comptant.
+
+Les acquereurs payeront Io p.Ioo en sus des encheres.
+
+L'exposition mettant le public a meme de se rendre compte de l'etat et de la nature des tableaux, il ne sera admis aucune réclamation une fois l'adjudi- cation prononcee.
+DESSINS ET PASTELS
+BARYE (A.-L.) (1795-1875)
+
+## Panthere noire
+
+Une panthere noire marche dans un paysage montagneux.
+
+Signe a gauche.
+
+N°11g du catalogue de la vente Barye,7 fevrier 1876.
+
+N5du catalogue deExposition centennale delArt francais,889,sous letie,
+
+Lion traversant un passage de montagne.
+
+Aquarelle. -Haut,: 23 cm.; larg.:3o cm.
+Fond de rochers.
+
+## BARYE
+
+(A.-L.)
+
+2
+
+## Tigre
+
+Il est couche sur l'herbe, étendu sur le dos, les pattes ramenees vers le corps.
+
+Signe vers le haut, a droite. N 6gg du catalogue de lExposition centennale de 1goo, sous le titre:Tigre renverse.
+
+Aquarelle.-Haut.:21 cm.; larg.:27 cm.
+
+## BELLANGER
+
+(GEORGES)
+
+3
+
+## Au Café
+
+Deux femmes sont attablees dans un cafe. Au fond, se refletant dans une glace, la silhouette des consommateurs.
+
+Dessin au crayon noir.-Haut. : 31 cm.; larg.: 36 cm.1/2.
+
+Au verso, cachet de la vente Barye.
+## BONVIN
+
+(FRANCOIS)
+
+(1817-1887)
+
+4
+
+## La Cuisiniere
+
+En grande coiffe blanche, elle rentre du marche et pose sur une table les legumes qu'elle sort de son panier.
+
+Signé a droite et date,1861.
+
+Dessin au crayon noir. —Haut.:41 cm.;larg.: 31 cm.
+
+## BOSIO
+
+(JEAN-FRANCOIS) (1764-1827)
+
+5
+
+## Les Joueurs de loto
+
+Dans un salon éclaire par deux lampes suspendues au plafond, des hommes et des femmes en costume directoire sont reunis autour d'une table et jouent au loto. Un jeune homme, debout, appelle les numeros. Adosse a la cheminee, un homme age regarde les joueurs.
+
+N° 74o du catalogue de I'Exposition centennale de 1'Art francais, 1goo.
+
+Dessin a la plume et au lavis.-Haut. :27 cm. 1/2;larg.:42 cm.1/2.
+## BOSIO
+
+(JEAN-FRANCOIS)
+
+6
+
+## Le Concert
+
+A gauche, dans un salon directoire, un quatuor de musiciens : fute,violon,violoncelle et serpent,le violon debout, les trois autres assis.A droite, un groupe d'hommes et de jeunes femmes decolletees.
+
+Dessin a la plume et au lavis.-Haut.:31 cm.; larg.:42 cm. 1/2.
+
+## BOUDIN
+
+(EUGENE) (1824-1898)
+
+## Vue de la ville de Dordrecbt
+
+Au premier plan, un quai ou sont amarres des bateaux; au fond, une eglise.
+
+Signe a droite et date,Dordrecht, 1875.
+
+Aquarelle.—Haut.:24 cm.;larg.:31 cm.
+## BOUDIN
+
+(EUGENE)
+
+8
+
+## Vue de Rotterdam
+
+A gauche, des bateaux sont amarres; a droite, le bassin d’un port.
+
+Au fond, des maisons et des bateaux.
+
+Signe a droite et date, Rotterdam,1875.
+
+Aquarelle.——Haut.:25 cm.;larg.:31 cm.1/2.
+
+## BOUDIN
+
+(EUGENE)
+
+9
+
+## Vue d’un canal
+
+Au premier plan, le cours du canal va en selargissant. Plus loin, quelques peniches le long des rives. Dans le fond, une ecluse, des arbres et des maisons sur un quai.
+
+Signe a droite.
+
+Aquarelle.Haut.:19 cm.1/2;larg.:26 cm.1/2.
+## BOURDON
+
+(SEBASTIEN) (1616-1671)
+
+10
+
+## L'Adoration des Rois Mages
+
+A gauche, saint Joseph,debout, et la Sainte Vierge,assise, tenant dans ses bras l'Enfant Jesus, que viennent adorer les Rois Mages. A
+
+droite, un cheval se cabrant et des serviteurs agenouilles.
+
+Dessin a la sepia.-Haut.:22 cm.1/2;larg.:36 cm. 1/2.
+
+CALS
+
+(1810-1880)
+
+## Femme se reposant
+
+Couchee sur le dos, une femme, nue, la tete appuyee sur un oreiller, se repose.
+
+A gauche, cachet de la vente Cals,et date,24 avril 1876.
+
+Dessin au crayon noir, rehausse de blanc.—Haut.:23 cm.; larg.: 34 cm.
+CALS
+
+12
+
+## Femme assise
+
+Elle est vue de face, la tete penchee vers la gauche, les mains croisees sur la ceinture.
+
+A gauche, cachet de la vente.
+
+Dessin au crayon noir.-Haut.:1g cm.;larg.:15 cm.
+
+## CARESME
+
+(JACQUES-PHILIPPE) (1754-1796)
+
+13
+
+## Bacchanale
+
+Dans une clairiere, des faunes et des faunesses sont reunis et dansent autour d'une statue de Priape devant laquelle fume un bruleparfum soutenu par un trepied.
+
+Signe a gauche, sur le trepied.
+
+Dessin a la plume, rehausse d’aquarell. -Haut.: 37 cm.; larg.: 54 cm.
+
+6
+## CASSATT
+
+(MARY)
+
+14
+
+## Jeune femme tenant un enfant dans ses bras
+
+Une jeune femme est vue de face, en robe blanche a feurs rouges, tenant dans son bras gauche un enfant en chemise.
+
+Signe a droite.
+
+Pastel.-Haut.:64 cm.;larg.:49 cm.
+
+## CHARLET
+
+(NICOLAS-TOUSSAINT)
+
+(1792-1845)
+
+15
+
+## Un officier de la garde
+
+Il est vu de dos, en habit bleu, la tete tournee vers la gauche. Au fond, un cheval mort et des cuirassiers chargeant.
+
+Signe a gauche et date, mai 1819.
+
+Aquarelle.—Haut.:9 cm.;larg.:7 cm.
+## COROT
+
+(CAMILLE) (1796-1875)
+
+16
+
+## La Cathedrale de Cbartres
+
+Au premier plan, une riviere avec des arbres depouilles; dans le fond, a droite, la cathedrale dominant les maisons de la ville.
+
+Signe a gauche.
+
+Aquarelle.-Haut.:23 cm.;larg.:33 cm.1/2.
+
+## COROT
+
+(CAMILLE)
+
+17
+
+## A Castel-Saint-Elie
+
+Au premier plan, un grand ravin boise; dans le fond, la ville et des montagnes.
+
+Signe a droite et date Castel-Saint-Elie, octobre 1829. A gauche, cachet de la vente Corot. Vente Corot, mai-juin 1875.(Partie du n° 522.) Cite et reproduit dans l'Euvre de Corot, par MM. Robaut et Moreau-Nelaton, tome IV, page 26, n° 2581.
+
+Dessin a la plume.Haut.:26 cm, 1/2; larg.:40 cm.
+## COROT
+
+(CAMILLE)
+
+18
+
+## Femme nue
+
+Elle est debout, la tete légerement penchee vers la droite, les deux bras croises au-dessus des seins.
+
+Vente Corot,mai-juin 1875,partie du n° 554 du catalogue. Exposition centennale de 1Art francais, 1889,n° 122 du catalogue. Cite dans l'Euvre de Corot, par MM. Robaut et Moreau-Nelaton, tome IV,
+
+A gauche, cachet de la vente Corot. page 63,n2869, et reproduit tome I, page 114.
+
+Dessin a la mine de plomb. -Haut.: 47 cm.; larg.: 24 cm.
+
+## COROT
+
+(CAMILLE)
+
+19
+
+## Jeune femme couchee,
+
+## la main sur la poitrine
+
+Vetue d’une jupe courte, le haut de la poitrine decouvert, les pau- pieres fermees, elle dort, une main appuyee sur le sol.
+
+Vente Corot,mai-juin 1875,partie du n°554 du catalogue. Cite dans lEuvre de Corot, par MM. Robaut et Moreau-Nelaton, tome IV,
+
+A gauche, cachet de la vente Corot. page 52,et reproduit,tome I,page 74,n°278o.
+
+Dessin a la mine de plomb.-Haut.:28 cm.1/2;larg.:38 cm.1/2.
+une colline, des maisons.
+
+## COROT
+
+(CAMILLE)
+
+20
+
+## Marino
+
+Une route descend dans un ravin a travers des rochers et des arbres. Au premier plan, des Italiennes et des cavaliers; en haut, a droite, sur
+
+A gauche, cachet de la vente Corot. Vente Corot,mai-juin 1875,partie du n519. Cite et reproduit dans l'Euvre de Corot, par MM. Robaut et Moreau-Nelaton,
+
+Date,Marino,mai 1827. tome IV,page 26,n° 2582.
+
+Dessin a la mine de plomb.-Haut.:28 cm.1/2;larg.:41 cm.
+
+## COROT
+
+(CAMILLE)
+
+21
+
+## Castel-Saint-Elie
+
+Dans un site montagneux, une eglise est adossee a des rochers.
+
+A gauche,cachet de la vente Corot. Vente Corot,mai-juin 1875,partie du n534 du catalogue. N832, du catalogue de l'Exposition centennale de l'Art francais, 1goo.
+
+Cite dans lEuvre de Corot, par MM. Robaut et Moreau-Nelaton, tome IV, page 32,n°2631,et reproduit tome I,page 37.
+
+Dessin a la plume. -Haut. :26 cm. 1/2; larg.:44 cm. 1/2.
+## COROT
+
+(CAMILLE)
+
+22
+
+## Etude d'atelier
+
+Une femme est vue presque de face, s’appuyant sur le bras droit.
+
+Vente Corot,mai-juin,1875,partie du n° 554 du catalogue. Cite dans lEuvre de Corot,par MM. Robaut et Moreau-Nelaton,tome IV, page 55,n 28o1,sous le titre:Academie de femme assise,et reproduit tome I,page 83.
+
+Dessin a la mine de plomb.-Haut. :27 cm. 1/2; larg.:3o cm.
+
+## COROT
+
+(CAMILLE)
+
+23
+
+## Rome, le long de la villa Medicis
+
+La rue est bordee a gauche par des maisons,a droite par un mur de jardin, au haut duquel on voit une statue dressee au milieu des feuillages, a cote d'un grand pin parasol. Dans le fond, une église.
+
+Date a droite,Rome, octobre 1827. A gauche,cachet de la vente Corot. N35g du catalogue de la vente Doria, 5 mai 1899. Exposition centennale de l'Art francais, 1goo, n 83o du catalogue. Cite et reproduit dans l'Euvre de Corot, par MM. Robaut et Moreau-Nelaton, tome IV,page 26,n2583.
+
+Dessin a la plume, rehausse de sepia.-Haut. : 36 cm.; larg.: 27 cm.
+## COROT
+
+(CAMILLE)
+
+24
+
+## Fillette pleurant
+
+Assise a terre, les pieds nus, elle est vue de face,la tresse de ses cheveux denouee, sa main gauche cachant sa figure.
+
+Reproduit dans  Euvre de Corot, par MM.Robaut et Moreau-Nelaton, tome I, page 73,et cite tome IV,page 47,n2746, sous le titre:Une femme affigée.
+
+Dessin a la mine de plomb,-Haut.:26 cm.;larg.:2o cm.
+
+## COROT
+
+(CAMILLE)
+
+25
+
+## Enuirons d'Albano
+
+A gauche, arbres au milieu des rochers; a droite, une route avec des cavaliers.
+
+A gauche, cachet de la vente Corot.
+
+Vente Corot, mai-juin 1875,partie du n° 52o du catalogue.
+
+Cite et reproduit dans Euvre de Corot,par Robaut et Moreau-Nelaton,page 26, n°2584.
+
+Dessin a laplume.-Haut.:31 cm.;larg.:29 cm.1/2.
+## COROT
+
+(CAMILLE)
+
+26
+
+## Paysage
+
+Un chemin borde d'arbres et de rochers.
+
+A gauche, cachet de la vente Corot, mai-juin 1875. Cite dans lEuvre de Corot, par MM. Robaut et Moreau-Nelaton, tome IV, page 18,n2533.
+
+Dessin a la mine de plomb.-Haut.:33 cm. 1/2; larg.:41 cm.
+
+## COROT
+
+(CAMILLE)
+
+27
+
+## Enuirons de Royat
+
+Amas de rochers sous des arbres touffus.
+
+Signe a droite et date,Royat,2 aout 183g. A gauche,cachet de la vente Corot. Vente Corot,mai-juin 1875,partie du n52o du catalogue. Cite dans Euvre de Corot, par MM. Robaut et Moreau-Nelaton, tome IV, page 44, n 2713,et reproduit tome I, page77.
+
+Dessin a la plume et a la mine de plomb.-Haut.:28 cm.;larg.:42 cm.1/2.
+## COROT
+
+(CAMILLE)
+
+28
+
+## Un vieillard
+
+Un vieillard, nu, a grande barbe et a longs cheveux, est vu de profil
+
+A gauche, cachet de la vente Corot.
+
+a droite, couche, et s'appuyant sur le coude gauche.
+
+Vente Corot, mai-juin 1875; partie du n° 554 du catalogue. Cite dans l'Euvre de Corot, par MM. Robaut et Moreau-Nelaton, tome IV, page 52,n°2773,et reproduit tome I,page 85.
+
+Dessin a la mine de plomb.-Haut.:22 cm. 1/2;larg.;32 cm. 1/2.
+
+## COROT
+
+(CAMILLE)
+
+29
+
+## Arbres dans les rochers
+
+Parmi les rochers, plusieurs arbres. Une Italienne et deux enfants passent vers la gauche du paysage.
+
+A gauche, cachet de la vente Corot. Vente Corot,mai-juin 1875, partie du n°534 du catalogue. Cite et reproduit dans l'Euvre de Corot, par MM. Robaut et Moreau-Nelaton, tome IV, page 16, n° 2526.
+
+Dessin a la mine de plomb.-Haut.:28 cm.1/2;larg.:37 cm.
+## COROT
+
+(CAMILLE)
+
+29 bis
+
+## Etude pour l'incendie de Sodome
+
+Un homme nu s'enfuit, les mains levees au-dessus de la tete.
+
+A gauche, cachet de la vente Corot.
+
+Cite dans l'Euvre de Corot, par MM. Robaut et Moreau-Nelaton, tome IV, page 47, sous le n° 2735, et reproduit tome I, page 102.
+
+Dessin a la mine de plomb.-Haut.:31 cm.; larg.:23 cm.
+
+## DAUBIGNY
+
+(CHARLES) (1817-1878)
+
+30
+
+## aysage
+
+A droite, des arbres sur la pente d'un ravin; a gauche, des rochers a pic, domines par des fortifications.
+
+Signe a droite.
+
+N° 131 du catalogue de 1Exposition centennale de 1'Art francais, 1889.
+
+Dessin au crayon noir.——Haut.:38 cm.; larg.:46 cm.
+## DAUMIER
+
+(HONORE) (1808-1879)
+
+31
+
+## La Parade foraine
+
+Sur les treteaux d'un theatre de foire,le personnel cherche a attirer le public. Le directeur commente a pleine voix l'enseigne ou est peint un crocodile;une grosse femme montre lentree de la baraque, faisant signe, des doigts leves, que l'entree ne coute que deux sous. Le paillasse, au justaucorps rouge, grimace et se contorsionne, tandis que deux musiciens, en uniforme de fantaisie, s'appretent a jouer.
+
+N° 2o du catalogue de la vente Alexandre Dumas fils, 16 fevrier 1882. N137 du catalogue de l'Exposition centennale de 1'Art francais,1889. Cite dans Honore Daumier, par Arsene Alexandre, page 377, et reproduit page 169.
+
+Aquarelle.-—Haut.:26 cm.1/2; larg.:36 cm.1/2.
+
+## DAUMIER
+
+(HONORE)
+
+32
+
+## La Gare Saint-Lazare
+
+Des hommes, des femmes et des enfants, se pressent pour prendre le train que l'on apercoit dans le fond, a gauche.
+
+Signe a droite.
+
+N°138 du catalogue delExposition centennale del'Art francais,188g. Cite dans Honore Daumier,par Arsene Alexandre,page 377,sous le titre: Depart du train.
+
+Aquarelle.—Haut.:14 cm.1/2;larg.:25 cm.
+## DAUMIER
+
+(HONORE)
+
+33
+
+## Au theatre
+
+Au premier plan, assises en pleine lumiere, trois femmes decolletees assistent au spectacle. Derriere elles, dans la penombre, un vieillard,vu de profil et un homme a favoris noirs.
+
+Signe des initiales H.D.,a droite.
+
+Aquarelle.-Haut.:1g cm.;larg.:26 cm.
+
+## DAUMIER
+
+(HONORE)
+
+34
+
+## Le Concert
+
+Un homme, assis dans un fauteuil, écoute les musiciens qui jouent derriere lui.
+
+Signe des initiales H. D.,a gauche.
+
+Dessin au crayon noir et a la plume,rehausse de lavis.-Haut.:2g cm.; larg.:23 cm. 1/2,
+## DAUMIER
+
+(HONORE)
+
+35
+
+## Vieille femme
+
+Vue en buste et de trois quarts a gauche, elle est coiffe d'un bonnet d'ou s'échappent ses cheveux en desordre.
+
+Signe des initiales H. D.,a gauche.
+
+Dessin au crayon noir, rehausse d'aquarelle. —Haut.: 1o cm.; larg.: 8 cm.
+
+## DAUMIER
+
+(HONORE)
+
+36
+
+## Les Buveurs
+
+Leur verre a la main, deux hommes, l'un vis-a-vis de l'autre, se versent a boire.
+
+Signe a droite.
+
+Dessin au crayon noir, rehausse de lavis.— Haut.: 26 cm.; larg.: 2o cm,
+## DAUMIER
+
+(HONORE)
+
+37
+
+## Robert Macaire
+
+Quatre personnages dans un meme cadre : Robert Macaire en buste, cheveux et favoris roux, le chapeau sur la tete; l'acteur Bocage dans un drame, tenant de la main gauche un poignard ensanglante;
+
+Robert Macaire en buste, mais sans chapeau; Bertrand en buste.
+
+Initiales H. D., sur chaque aquarelle signee.
+
+Cite dans Honore Daumier,par Arsene Alexandre, page 378. L'un des dessins est reproduit a la page 137 du meme ouvrage, sous le titre:Robert Macaire.
+
+Dimensions de chaque aquarelle.—Haut.:13 cm.;larg.:1o cm.
+
+## DAUMIER
+
+(HONORE)
+
+38
+
+## Un a ex-lion
+
+En habit noir ouvert, la main gauche passee dans l'entournure du gilet blanc, il se tient debout, le coude appuye sur un meuble.
+
+Signe des initiales H.D.,a gauche.
+
+A droite,la legende:αUn ex-lion .
+
+Cite dans Honore Daumier, par Arsene Alexandre, page 377, sous le titre: Un Ex-beau.
+
+Plume et lavis.-Haut.:2o cm.;larg.:13 cm.
+## DAUMIER
+
+(HONORE)
+
+39
+
+## Au bureau d’un theatre
+
+Des spectateurs viennent prendre leurs places. Un homme, en cha- peau haut de forme, se penche vers le guichet.
+
+Signe des initiales H. D.,a droite.
+
+Dessin a la plume et au lavis.-Haut.:23 cm.; larg.:16 cm.
+
+## DAUMIER
+
+(HONORE)
+
+40
+
+## Au bal masque
+
+En habit noir,le chapeau sur la tete,deux hommes, dont l'un est affuble d'un enorme faux nez et de grosses lunettes, sont assis sur une banquette; devant eux, un pierrot, debout, les mains sur ses genoux ployes, les regarde en riant.
+
+Cite dans Honore Daumier,par Arsene Alexandre,page 377.
+
+Preparation, au lavis, pour une gravure sur bois.—Haut.:15 cm.;larg.:21 cm.1/2.
+## DAUMIER
+
+(HONORE)
+
+41
+
+## La Tasse de café
+
+Un homme, coiffe d'un chapeau defonce, un foulard noir autour du cou, en redingote couleur marron, est assis, vu a mi-corps, devant une table. D'une main il tient une tasse, de l'autre une soucoupe dans laquelle il a verse du cafe.
+
+Signe des initiales H. D.,a droite.
+
+Aquarelle.-Haut.:29 cm.larg.:24 cm.
+
+## DAUMIER
+
+(HONORE)
+
+42
+
+## Etudes d'avocats
+
+Un homme du peuple, sa casquette a la main, est debout devant deux avocats dont l'un tient un papier.
+
+Signe des initiales H. D., a droite.
+
+Dessin a la plume,rehausse de lavis.-Haut.:22 cm.;larg.:31 cm.
+## DAUMIER
+
+(HONORE)
+
+43
+
+## A l'audience
+
+Trois magistrats siegent a l'audience. Le president, la toque sur la tete, se penche vers son collegue de gauche. Le troisieme juge somnole.
+
+Cite dans Honore Daumier, par Arsene Alexandre, page 378.
+
+Dessin a la plume et au lavis.-Haut.:13 cm.;larg.:24 cm.1/2.
+
+## DAUMIER
+
+(HONORE)
+
+## Demenagement du Constitutionnel
+
+Un vieillard joufflu, coiffe d'un bonnet de coton, un chapeau dans la main gauche, une bequille sur lepaule droite, est assis au milieu d'accessoires de toute sorte, transportes sur une charrette a bras. Dans les brancards, un homme tire peniblement, tandis que deux autres pous- sent avec force.
+
+Cite dans Honore Daumier, par Arsene Alexandre, page 378, sous le titre:
+
+Demenagement.
+
+Dessin a la mine de plomb et au crayon noir.— Haut.:2g cm. 1/2; larg.:43 cm.
+## DAUMIER
+
+(HONORE)
+
+45
+
+## Un Buveur
+
+Il est attable,un verre a la main.
+
+Signe du monogramme,a droite.
+
+Cite dans Honore Daumier,par Arsene Alexandre,page 377.
+
+Dessin au crayon noir,rehausse de lavis.-Haut.:17 cm.1/2;larg.:14 cm. 1/2.
+
+## DAUMIER
+
+(HONORE)
+
+46
+
+## Les Saltimbanques
+
+Un saltimbanque,debout,bat le tambour. A droite,un enfant est accroupi sur un tapis; a gauche, pres d'une vieille femme assise, un jeune garcon est debout. Au fond, les baraques de la foire et la foule des badauds.
+
+Dessin a la plume,rehausse de lavis.-Haut.:31 cm.1/2;larg.:38 cm,1/2
+## DAUMIER
+
+(HONORE)
+
+## Malade alite
+
+Il est couche,la tete inclinee sur l'epaule droite.
+
+Dessin a la plume et au lavis.—Haut,: 12 cm.; larg. :22 cm.
+
+## DAUMIER
+
+(HONORE)
+
+48
+
+## Deux croquis
+
+I.— Tete de femme encapuchonnee et vue de trois quarts a gauche. Signe des initiales H.D., a droite.
+
+Dessin a la plume et au lavis.-Haut.:12 cm,;larg.:10 cm.
+
+II.—Tete d'homme vu de face et riant.
+
+Signe des initiales H. D., a gauche.
+
+Dessin a la plume.—Haut.:17 cm.;larg.:13 cm.1/2.
+## DAUMIER
+
+(HONORE)
+
+49
+
+## Tetes d'hommes et de femmes
+
+I.—Deux femmes, dont l'une a le haut de la figure recouvert d'un voile, se regardent.
+
+Signe des initiales H. D., a droite.
+
+Aquarelle.-Haut.:12 cm.;larg.:16 cm.1/2.
+
+II.— Tetes d'hommes.
+
+Au verso:buste d'homme, de profil vers la gauche.
+
+Signe des initiales H. D., a gauche.
+
+Deux dessins a 1a plume.—Haut.: 1°13 cm.;larg.:14 cm.1/2.2° 14 cm.;larg.:12 cm.
+
+## DAUMIER
+
+(HONORE)
+
+50
+
+## Auocats et Accuses
+
+I.—Un avocat vu de face, la toque sur la tete.
+
+Signe des initiales H. D.,a droite.
+
+Dessin a la plume, lave d’encre de Chine.—Haut.:i1 cm.;larg.:1o cm.
+
+- II.—— Deux accuses se regardent; l'un, de trois quarts a droite, l'autre de profil a gauche.
+
+Signe des initiales H.D.,a droite.
+
+Aquarelle.—Haut.:14 cm.1/2;larg.:12cm.
+
+Ill.—Un avocat plaidant, de profil a gauche, la main droite levée, la gauche appuyee sur la barre.
+
+Dans le haut,la legende: Souvenirs du Palais, lexorde.
+
+Dessin a la mine de plomb.Haut.:15 cm.; larg.:12 cm.
+## DAUMIER
+
+(HONORE)
+
+51
+
+## Apollon et Minerve
+
+Apollon au crane denude, en lunettes et costume a lantique, joue de la lyre; tandis que Minerve,voutee,un casque sur la tete et drapee dans une étoffe bleue, tricote.
+
+Signe des initiales H. D., au bas de chaque dessin.
+
+Dessin au crayon noir, rehausse d'aquarelle. - Dimensions de chaque dessin : haut.:28 cm.;larg.:19 cm.
+
+## DAUMIER
+
+(HONORE)
+
+52
+
+Les Anciens Dieux
+
+## Jupiter
+
+De profil a droite, la barbe blanche, le nez rouge, a demi enveloppe dans un grand peplum rouge, chausse de vieilles savates, sous le bras gauche un parapluie tenant lieu de foudre, dans ses mains un mouchoir bleu a carreaux dans lequel il eternue.
+
+Signe des initiales H. D., a droite.
+
+Vers le milieu, la legende : Jupiter.
+
+Aquarelle.—Haut. :27 cm.; larg.:19 cm.
+
+*Les numeros 52 a 64, representent une serie de projets pour une ferie jouee le 6 septembre 1853 a la Porte-Saint-Martin, theatre qui etait a cette epoque sous la direction de Fournier-Baron. Les dessins proviennent de la collection de Delphine
+
+Baron qui les avait conserves depuis 1853.
+## DAUMIER
+
+(HONORE)
+
+53
+
+## unon
+
+Elle est vue de face, en vieille portiere, la figure tournee a gauche et tenant sous le bras un panier d'ou sort une bouteille.
+
+Dans le bas,la legende: Junon. Signe des initiales H. D., a droite.
+
+Aquarelle.—Haut.:27 cm.;larg.:19 cm.
+
+## DAUMIER
+
+(HONORE)
+
+54
+
+## L'Amour
+
+Il est vu de face, debout, les jambes croisees, appuye sur un arc, en corsage aiuste et jupe de danseuse, un carquois sur le dos, les ailes ouvertes, une couronne de feurs dans les cheveux, un monocle dans l'ceil, un cigare allume a la main droite.
+
+Signe des initiales H. D.,a droite. A gauche, la legende: l' Amour.
+
+Aquarelle.-Haut.:27 cm.;larg.:9 cm.
+de la lyre.
+
+## DAUMIER
+
+(HONORE)
+
+55
+
+## Apollon
+
+Vu de face, completement chauve,portant des lunettes vertes,une aureole autour de la tete, en tunique blanche et manteau rouge,il joue
+
+Signe des initiales H. D., a droite. A gauche, la legende :Apollon.
+
+Aquarelle.——Haut.:28 cm.;larg.:18 cm.1/2.
+
+## DAUMIER
+
+(HONORE)
+
+56
+
+## Diane
+
+En marchande de peaux de lapins; un croissant sur la tete, un carquois sur l'epaule, un sac sur le bras droit, dans ses mains un arc et une peau de lapin.
+
+Signe des initiales H. D., a droite. A gauche, la légende:Diane.
+## DAUMIER
+
+(HONORE)
+
+57
+
+## Minerve
+
+Debout, en casque antique, la tete rentree dans les épaules, la deesse, drapee dans un peplum violet, tricote un bas.
+
+Signe des initiales H. D., au-dessus de la legende : Minerva.
+
+Aquarelle.-Haut.:28cm.;larg.:18cm.1/2.
+
+## DAUMIER
+
+(HONORE)
+
+58
+
+## Pluton
+
+En croque-mort, enveloppe dans un drap noir seme de fammes d'argent, un tricorne sur la tete, les yeux rouges, la longue barbe blanche, un trident dans la main gauche.
+
+Signe des initiales H. D., a droite. A gauche, la légende:Pluton.
+
+Aquarelle.—Haut.:28 cm;larg.:16 cm.
+## DAUMIER
+
+(HONORE)
+
+59
+
+## Neptune
+
+Il est vu de profil a gauche, habille en vieil égoutier, coiffe d'une casquette grise a énorme visiere verte, une ceinture de plantes aquatiques autour des reins et chausse de grandes bottes. Tout courbe,il s'appuie des deux mains sur un vieux parapluie rouge.
+
+Signe des initiales H.D.,a droite. Vers le milieu,la légende :Neptune.
+
+Aquarelle.-—Haut.:27 cm.;larg.:18 cm.1/2.
+
+## DAUMIER
+
+(HONORE)
+
+60
+
+## Mars
+
+En guerrier antique, coiffe d'un casque a énorme plumet rouge, les coudes ecartes du corps, la main gauche a la poignee de son sabre.
+
+Signe des initiales H. D., a droite.
+
+A gauche, la legende : Mars.
+
+Aquarelle.-Haut.:28 cm.;larg.:18 cm.1/2.
+## DAUMIER
+
+(HONORE)
+
+61
+
+## Vulcain
+
+En forgeron boiteux, s'appuyant sur des bequilles, les jambes protegees par un tablier de cuir.
+
+Signe des initiales H. D., a droite.
+
+A gauche, la legende: Vulcain.
+
+Aquarelle.-Haut.:27 cm.;larg.:1g cm.
+
+## DAUMIER
+
+(HONORE)
+
+62
+
+## Mercure
+
+Tres maigre, vu de profil, coiffe d'un chapeau aile, le nez rouge, en veston bleu, les jambes nues, des ailettes aux pieds,le caducee sortant de la poche gauche du veston.
+
+Signe des initiales H. D.,a droite, au-dessus de la legende:Mercure.
+
+Aquarelle.-—Haut.:27 cm.1/2;larg.:12 cm.
+## DAUMIER
+
+(HONORE)
+
+63
+
+## Bacchus
+
+Debout, vu de face, une légere étoffe rouge autour du corps, le torse verdatre, des restes de grappe dans la main droite. Sur la tete un papier colle sur charniere permet de voir le dieu couronne de pampres, ou coiffe d'un bonnet de coton.
+
+Signe des initiales H.D.,a gauche, au-dessus de la legende:Bacchus,maladie du raisin.
+
+Aquarelle.-Haut.:17 cm.1/2;larg.:12 cm.
+
+## DAUMIER
+
+(HONORE)
+
+64
+
+## Hercule
+
+En portefaix, vetu d'une peau de lion ne couvrant que les reins et l'épaule, un crochet de bois sur le dos, une massue dans la main droite, aux pieds, des gros souliers ferres.
+
+Signe des initiales H. D., a gauche.
+
+Vers le milieu,la legende:Hercule.
+
+Aquarelle,—Haut.:28 cm.1/2;larg.:18 cm.1/2.
+## DAUZATS
+
+(ADRIEN) (1801-1868)
+
+65
+
+## La Tour de Comares
+
+## a l'Alhambra de Grenade
+
+Envahi par la verdure,un fosse profond au-dessus duquel se dressent quelques maisons et une grande tour écroulee. A droite, échappee sur la ville et sur la plaine.
+
+Signe a gauche, et date Granada.Alhambra. 1836. D. Torre de Comares.
+
+Aquarelle.—Haut.:36cm.;larg.:23 cm.
+
+DAVID
+
+(J.-L.) (1748-1825)
+
+66
+
+## Lepelletier de Saint-Fargeau lit de mort sur son
+
+Il est vu de profil a droite, le haut de la tete serre dans une étoffe blanche d'ou sortent des touffes de cheveux.
+
+N°228 du catalogue dela vente Marmontel,14 mai 1868.
+
+Dessin a la plume.—Haut :31 cm.;larg.:25 cm.
+## DAVID
+
+67
+
+## Figure pour le sacre de Napoleon
+
+Vu de profil a gauche, un homme nu tient dans ses mains un globe surmonte d'une croix.
+
+Signe des initiales, a gauche. Dans le haut, inscription au crayon : Etude pour la figure du ministre Berthier.
+
+Dessin a la mine de plomb.-Haut.:24 cm.;larg.:17 cm.
+
+## DECAMPS
+
+(A.-G.)
+
+(1803-1860)
+
+68
+
+## Une rue de village
+
+A l'entrée d'un village, une rue bordee de maisons. Signe des initiales D. C., a gauche.
+
+Dessin au crayon noir, rehausse de blanc. —Haut.: 15 cm. 1/2; larg.:22 cm.
+## DECAMPS
+
+(A.-G.)
+
+69
+
+## Une rue en Orient
+
+Une rue monte, encaissee entre des murs. Au fond, un passage voute; a droite, un personnage sur un escalier.
+
+Signe des initiales D. C.,a gauche.
+
+Dessin a la plume, rehausse de sepia.—Haut.: 20 cm. 1/2; larg.: 14 cm.
+
+## DEGAS
+
+(EDGAR)
+
+70
+
+## Chez la modiste
+
+Une femme en jupe bleue, vue de profil, est assise vers la droite et essaye un chapeau. A gauche, une jeune fille, vue de dos, les cheveux coiffes en natte, la regarde. Au premier plan, sur une table, des cha- peaux de formes diverses.
+
+Signe a droite.
+
+Pastel,—Haut.:76 cm.;larg.:85 cm.
+## DEGAS
+
+(EDGAR)
+
+71
+
+## Au café-concert. La Chanson du chien
+
+A droite, au premier plan, une artiste chante et fait avec ses mains le geste d'un chien qui agite ses pattes de devant. Devant elle, a gauche, des consommateurs; au fond, des globes lumineux dans le feuillage.
+
+Signe a droite.
+
+Pastel.-Haut.:55cm.;larg.:45cm.
+
+## DEGAS
+
+(EDGAR)
+
+72
+
+## Danseuses sur la scene
+
+Au premier plan, une danseuse met un genou en terre et leve les bras au-dessus de sa tete; plus loin, sur la scene, se tiennent d'autres danseuses.
+
+Signe a gauche.
+
+Pastel.-Haut.:21 cm.;larg.:16 cm.
+## DEGAS
+
+(EDGAR)
+
+73
+
+## Danseuse sortant de sa loge
+
+Vue de face, en robe verte a fleurs rouges et jaunes, une danseuse aux cheveux roux sort de sa loge, tenant sa robe de ses deux mains.
+
+Dans le fond, une femme pres d’une fenetre.
+
+Signe a gauche.
+
+Pastel.—Haut.:52 cm.;larg.:3o cm.
+
+## DEGAS
+
+(EDGAR)
+
+74
+
+## Dans les coulisses
+
+A droite d'une coulisse,une chanteuse,nu-tete, en robe rose et chale rouge, tient une partition dans ses mains. A cote d'elle et vu de profil, un homme en jaquette noire, le chapeau sur la tete. Dans le fond, a gauche, un coin de la scene éclairée.
+
+Signe a gauche.
+
+Pastel.-Haut.:66 cm.;larg.:38cm.
+## DEGAS
+
+(EDGAR)
+
+75
+
+## Danseuse au repos
+
+Debout et vue de profil a droite, sa robe blanche retenue par une ceinture violette, elle se repose, un éventail ouvert a la main.
+
+Signe a gauche.
+
+Pastel.——Haut.:46 cm.; larg.:29 cm.
+
+## DEGAS
+
+(EDGAR)
+
+76
+
+## Danseuse
+
+Devant un poele sur lequel chauffe une bouilloire, une danseuse se tient debout, lisant son journal.
+
+Signe a droite, avec la dedicace:a A mon ami Duranty.
+
+N°17 du catalogue de la vente Duranty,28 janvier 1881.
+
+Pastel.-Haut.:75cm.;larg.:55 cm.
+## DEGAS
+
+(EDGAR)
+
+77
+
+## Portrait de Madame X
+
+Assise et vue de trois quarts a droite, en robe decolletee, un boa autour du cou, coiffee d'un chapeau a plumes, elle leve le bras gauche et porte un reticule de soie rose a son bras droit.
+
+Pastel.-Haut.:47 cm.;larg.:31 cm.
+
+## DELACROIX
+
+(EUGENE) (1798-1863)
+
+78
+
+## Marocain uu de dos
+
+La tete nue, le bras droit appuye sur un fusil, il est vetu de blanc, la taille serree dans une ceinture bariolee.
+
+Collection Carrier.
+
+Pastel.-Haut.:39 cm.;larg.:25 cm,
+## DELACROIX
+
+(EUGENE)
+
+79
+
+## Soldat de la garde de lempereur du Maroc
+
+Assis a terre et drape dans un grand burnous blanc, il est vu de face, tenant un fusil dans la main droite.
+
+Au fond, un cheval et deux soldats.
+
+Signe a droite. N° 22 du catalogue de la vente Frederic Villot, 11 fevrier 1865. Exposition Delacroix a 1Ecole des Beaux-Arts,Paris, 1885,n 292 du catalogue. Cite et reproduit dans l Euvre de Delacroix, par A.Robaut, page 131, n 491.
+
+Aquarelle.-Haut.:18 cm.1/2;larg.:26 cm.1/2.
+
+## DELACROIX
+
+(EUGENE)
+
+80
+
+## Un Seigneur venitien
+
+Les poings sur les hanches, il se tient debout pres d'un grand fauteuil. Ses longs cheveux noirs retombent sur le col de son pourpoint rouge a manches bouffantes.
+
+A droite, cachet de la vente Delacroix.
+
+N° 3g5 du catalogue de la vente Delacroix, 17 février 1864. Cite et reproduit dans  Euvre de Delacroix, par A.Robaut, page 76, n 273. Exposition Delacroix, a 1Ecole des Beaux-Arts,Paris,1885,n2g1 du catalogue.
+
+Aquarelle.——Haut.: 22 cm.; larg.:17 cm.
+## DELACROIX
+
+(EUGENE)
+
+81
+
+## Interieur
+
+Dans une chambre, devant la cheminee ou le feu est allume, divers ustensiles:un souffet, une pelle et des pincettes.
+
+A droite,cachet delavente Delacroix.
+
+Partie du n 658 du catalogue de la vente Delacroix, 17 fevrier 1864. No16 du catalogue de la vente Dutilleux, mars 1874. Cite et reproduit dans l Euvre de Delacroix,par A.Robaut,page 29,n° go.
+
+Aquarelle.-Haut.:16 cm.;larg.:21 cm.
+
+## DELACROIX
+
+(EUGENE)
+
+82
+
+## Paysage marocain; entree d’une ville
+
+Au premier plan,la route,ou passent une voiture,un cavalier et un pieton, est bordee a gauche par des maisons a terrasses.A droite, une montagne domine des rochers abritant des habitations.
+
+Quelques nuages dans le ciel.
+
+Collection Faller.
+
+Aquarelle.——Haut.: 13 cm.; larg.:21 cm.
+## DELACROIX
+
+(EUGENE)
+
+83
+
+## Falaises
+
+Sous le ciel bleu ou passent quelques nuages blancs, la mer vient baigner les falaises dont la rangee se prolonge vers la gauche.
+
+A gauche, cachet de la vente Delacroix. Cite dans l'Euvre de Delacroix,par A. Robaut, page 451 (partie du n 18o7).
+
+Aquarelle.——Haut.:17 cm.;larg.:21 cm.1/2.
+
+## DELACROIX
+
+(EUGENE)
+
+84
+
+## Arabe écrivant
+
+Il est vu de face, assis a une table. Derriere lui, dans la penombre, des personnages.
+
+A droite, cachet de la vente Delacroix. N°51g du catalogue de la vente Delacroix, 17 fevrier 1864. Cite et reproduit dans  Euvre de Delacroix,par A. Robaut, page 112, n410. Exposition des ceuvres de E. Delacroix; Ecole des Beaux-Arts, Paris,1885, n°295 du catalogue.
+
+Aquarelle.—Haut.:2o cm.;larg.:18cm.
+## DELACROIX
+
+(EUGENE)
+
+85
+
+## Marocain assis
+
+Vu de profil a droite, un manteau noir couvrant son vetement blanc, il est assis a terre,les jambes repliees et croisees, et s'accoude a une pierre.
+
+A droite,cachet de la vente Delacroix.
+
+Vente Delacroix,17 fevrier 1864,partie du n°317 du catalogue.
+
+Cite et reproduit dans l'Euvre de Delacroix, par A. Robaut, page 115, n°427.
+
+Dessin a la sepia, rehausse d’aquarelle.—Haut.: 17 cm.; larg.:25 cm.
+
+## DELACROIX
+
+(EUGENE)
+
+86
+
+## Marphise
+
+Elle est a cheval et emmene en croupe la vieille femme qu'elle a revetue des vetements enleves a la maitresse de Pinabel.
+
+A droite,cachet de la vente Delacroix.
+
+Cite et reproduit dans lEuvre de Delacroix,'par A. Robaut, page 321, n°1197.
+
+Vente Delacroix, 17 fevrier 1864 (partie du n 364 du catalogue).
+
+Dessin a la sepia.-—Haut.:1g cm.;larg.:25 cm.
+## DELACROIX
+
+(EUGENE)
+
+87
+
+## Serenade nocturne
+
+Au clair de lune, un jeune seigneur, nu-tete, assis au milieu des ruines sur un bloc de pierre, joue de la guitare.
+
+Exposition des ceuvres de E. Delacroix a 1Ecole des Beaux-Arts Paris, 1885, n°295bis.
+
+Dessin au lavis, rehausse de blanc. —Haut.:21 cm.;larg.: 15 cm.1/2.
+
+## DELACROIX
+
+(EUGENE)
+
+88
+
+## Chevaux conduits par les Hindous
+
+Trois serviteurs hindous conduisent des chevaux de selle harnaches et brides.
+
+A droite,cachet de la vente Delacroix.
+
+Aquarelle.——Haut.:21 cm.1/2;larg.:29 cm.1/2.
+## DELACROIX
+
+(EUGENE)
+
+89
+
+## Marocain
+
+Il est étendu sur des coussins, drape dans un grand burnous blanc,la tete presque de face, le corps de profil a droite, les jambes croisees.
+
+Dessin a la sepia,rehausse de blanc.—Haut.:17 cm.;larg.:23 cm.
+
+## DELACROIX
+
+(EUGENE)
+
+90
+
+## Officiers grecs
+
+L'un est debout et vu de face, le poing sur la hanche. L'autre, vu de profil a gauche, la tete de face, est assis, les jambes croisees et la main sur le pommeau de son sabre.
+
+Aquarelle.-Haut.:18 cm.;larg.:24 cm.
+## DELACROIX
+
+(EUGENE)
+
+91
+
+## La visite du medecin
+
+Assise et vue de profil, une femme se tient au pied du lit d'un malade a qui un medecin tate le pouls.
+
+Au fond de la chambre,un chevalet et une toile, un berceau, et une guitare accrochee au mur.
+
+A droite,cachet de la vente Delacroix.
+
+Partie du n° 564 du catalogue de la vente Jean Gigoux, 20 mars 1882, sous le
+
+Cite et reproduit dans l' Euvre de Delacroix, par A. Robaut, page 397, n 1490.
+
+titre:la Consultation.
+
+Dessin a la sepia.——Haut.:22 cm.; larg.:1g cm.
+
+## DELACROIX
+
+(EUGENE)
+
+92
+
+## Jeune femme au grand chapeau
+
+Elle est vue a mi-corps, presque de face, en robe de velours noir decolletee, les mains sur la ceinture, et coiffée d'un grand chapeau garni de plumes blanches.
+
+A droite,cachet de la vente Delacroix.
+
+Aquarelle,—Haut.:17 cm,1/2;larg.:13 cm.
+## DELACROIX
+
+(EUGENE)
+
+93
+
+## Ruines d’'un cloitre
+
+Sous le ciel bleu, a travers une arcade, on entrevoit la galerie et le jardin d'un vieux cloitre.
+
+A gauche, cachet de la vente Delacroix.
+
+Aquarelle.——Haut.:18 cm.1/2;larg.:13cm.1/2.
+
+## DELACROIX
+
+(EUGENE)
+
+94
+
+## Jeune garcon
+
+Il est vu de face et jusqu'aux epaules, les yeux bleus, les cheveux poudres.
+
+Cite et reproduit dans lEuvre de Delacroix,par A.Robaut,page 45,n143.
+
+Pastel.-Haut.:36 cm.;larg.:27 cm,
+## DELACROIX
+
+(EUGENE)
+
+95
+
+## Jeune femme
+
+Elle est vue de face, ses cheveux noirs ramenes en bandeaux sur les tempes.
+
+Cite et reproduit dans l'Euvre de Delacroix, par A. Robaut, page 257,n 983.
+
+Pastel.—Haut.:3o cm.;larg.:23 cm.
+
+## DELACROIX
+
+(EUGENE)
+
+96
+
+## Un Arabe
+
+Coiffe d'un turban, il est vu de trois quarts a gauche.
+
+A gauche,cachet de la vente Delacroix. Partie du n° 564 du catalogue de la vente Jean Gigoux, 20 mars 1882. Cite et reproduit dans l Euvre de Delacroix, par A. Robaut, page 115, n 431.
+
+Dessin a la mine de plomb, rehausse d’aquarelle. Haut. : 3o cm.; larg.: 1g cm.
+## DELACROIX
+
+(EUGENE)
+
+97
+
+## Etude pour le massacre de Scio
+
+La tete abritee par un capuchon de couleur rougeatre, une vieille femme est vue de face, et en buste.
+
+Dans le haut, a droite, étude de detail pour la meme figure.
+
+A droite, cachet de la vente Delacroix.
+
+Dessin a la mine de plomb,rehausse d'aquarelle.—Haut.:2o cm.;larg.:15 cm.
+
+## DELACROIX
+
+(EUGENE)
+
+98
+
+## Les Gorges dOllioules, pres de Toulon
+
+Au premier plan,la plaine ou sont disseminees des maisons a toits rouges.
+
+Dans le fond, des montagnes.
+
+A droite, cachet de la vente Delacroix.
+
+A gauche,l'inscription: Toulon, 4 avril.
+
+Aquarelle.—Haut.:8 cm.1/2;larg.:15 cm.1/2.
+## DELACROIX
+
+(EUGENE)
+
+99
+
+## Arabes d'Oran
+
+Deux Arabes se reposent; l'un est accroupi, le menton appuye sur les genoux; l'autre est couche, enveloppe dans un grand manteau.
+
+A gauche, cachet de la vente Delacroix.
+
+L'artiste s'est inspire du motif de cette aquarelle pour l'eau-forte decrite dans lEuvre de Delacroix, par A.Robaut, page 123,n° 462.
+
+Aquarelle.-Haut.:18 cm.;larg.:24 cm.
+
+## DELACROIX
+
+(EUGENE)
+
+100
+
+## Feuilles d'ornements
+
+Dans le haut, sur une plinthe, parmi des ornements, une femme est assise, drapee de vert.
+
+Dans le bas, reduction, en sens inverse, du meme sujet, drape de violet.
+
+Entre les deux dessins, note manuscrite a la mine de plomb. A droite, cachet de la vente Delacroix.
+
+Aquarelle.-Haut.:23 cm.;larg.:26 cm.
+## DELACROIX
+
+(EUGENE)
+
+101
+
+## Marine
+
+Deux barques a voiles naviguent sur la mer aux vagues grises. Dans le ciel, vers le fond, a droite, un nuage.
+
+A droite, cachet de la vente Delacroix.
+
+Aquarelle.—Haut.:8 cm.;larg.:17 cm.
+
+## DELACROIX
+
+(EUGENE)
+
+102
+
+## Etude de cheval
+
+Avant-main d’un cheval gris,vu de profil.
+
+Signe des initiales E. D., a gauche. N°7 du catalogue de la vente Tillot, 14 mai 1887.
+
+Aquarelle.——Haut.:14 cm.1/2;larg.:19 cm.
+## DELACROIX
+
+(EUGENE)
+
+103
+
+## Assassinat de léveque de Liege
+
+Des personnages sont reunis autour d’une table brillamment eclai-
+
+A droite,cachet de la vente Delacroix, rée. A gauche, I'eveque est entraine par ses assassins.
+
+Aquarelle.——Haut.:14 cm.1/2;larg.:18cm.1/2.
+
+## DELACROIX
+
+(EUGENE)
+
+104
+
+## Arabe en burnous
+
+Accroupi, il est enveloppe dans son burnous au capuchon releve. A droite,cachet de la vente Delacroix.
+
+Dessin a la sepia.-Haut.:15cm.;larg.:13 cm.
+## DELACROIX
+
+(EUGENE)
+
+105
+
+Fleurs
+
+Chrysanthemes jaunes, feurs et feuilles.
+
+A droite, cachet de la vente Delacroix.
+
+Partie du n625 du catalogue de la vente Delacroix,17 fevrier 1864. Cite dans lEuvre de Delacroix,par A.Robaut,page 453, sous le n 1823.
+
+Aquarelle.-Haut.:26 cm.;larg.:37 cm.1/2.
+
+## DELACROIX
+
+(EUGENE)
+
+106
+
+Tigre couché
+
+Couche et vu de profil a gauche, il appuie la tete sur ses pattes. A droite, cachet de la vente Delacroix.
+
+Aquarelle.—Haut.:13 cm.1/2;larg.:1o cm.1/2.
+## DELACROIX
+
+(EUGENE)
+
+107
+
+Tigre
+
+Il est couche et leve la tete.
+
+Vers le milieu, cachet de la vente Delacroix.
+
+Aquarelle.——Haut.:9 cm.1/2;larg.:16 cm
+
+## DELACROIX
+
+(EUGENE)
+
+108
+
+## Marocain Chat——Arabe
+
+I.—Un Marocain debout, vu de face et a mi-corps; pantalon bleu,
+
+Aquarelle.-Haut.:18cm.1/2;larg.:11 cm.
+
+II.—Deux etudes: dans le haut, chat se ramassant sur ses pattes; dans le bas, etude de tete de chat.
+
+A droite,cachet de la vente Delacroix.
+
+Dessin a la sepia.-Haut.:15cm.;larg.:11 cm.1/2.
+
+Ill.—Un Arabe vu debout et de face jusqu'a la ceinture, grand burnous blanc, veste bleue.
+
+Aquarelle.—Haut.:16 cm.;larg.:9 cm.1/2.
+
+veste jaune, gilet rouge.
+## DELACROIX
+
+(EUGENE)
+
+109
+
+## Mort de Seneque
+
+Au chevet du philosophe, couche sur un lit de repos, deux hommes se tiennent debout; un autre, assis, semble écrire sous sa dictée.
+
+A droite, cachet de la vente Delacroix.
+
+Aquarelle.-Haut.:12 cm.;larg.:16 cm.1/2.
+
+Exposition des ceuvres de E. Delacroix a l'Ecole des Beaux-Arts, Paris, 1885, n°293 du catalogue.
+
+## DELACROIX
+
+(EUGENE)
+
+110
+
+## Toulon
+
+- I.—Un matelot vu en deux poses differentes, de face et de dos; pantalon bleu, chemise blanche.
+
+A droite,cachet de la vente Delacroix.
+
+Aquarelle.Haut.:2o cm.;larg.:18 cm.
+
+II.—Vue generale de la rade de Toulon.
+
+A droite, cachet de la vente Delacroix.
+
+Ces deux dessins faisaient partie du n 586 du catalogue de la vente Delacroix, 17 fevrier 1864.
+
+Date vers le milieu, Toulon, 9 janvier.
+
+Collection Burty.
+
+Cite dans Euvre deDelacroix,par A.Robaut,page423,n 1651.
+
+Aquarelle.- Haut.:6 cm.; larg.:2 cm.
+
+Date: Toulon, 9 janvier,lundi.
+## DELACROIX
+
+(EUGENE)
+
+111
+
+## Mequinez
+
+Interieur d’une mosquee avec piliers et arcades. Dans le haut, a gauche,l'inscription:17 mars, Mekenez.
+
+A gauche, cachet de la vente Delacroix.
+
+Dessin a la sepia.—Haut.:18 cm.1/2;larg.:14 cm.1/2.
+
+## DELACROIX
+
+(EUGENE)
+
+112
+
+## Etude pour le emassacre de Scio
+
+Un Turc est vu de trois quarts vers la droite, la tete coiffee d'un turban.
+
+A droite,cachet de la vente Delacroix.
+
+Dessin a la mine de plomb.-Haut.:33 cm.1/2; larg.:21 cm.
+## DELACROIX
+
+(EUGENE)
+
+113
+
+## Medailles antiques Personnage du seizieme siecle
+
+- I.— Deux profils de femmes d'apres des medailles antiques. Dans le bas, a gauche, une croix avec inscription grecque et la date 1824-1825.
+
+A droite,cachet de la vente Delacroix. Vente Delacroix,17 fevrier 1864,partie du n46o du catalogue. Collection Burty. Dessin ala mine deplomb.-Haut.:15 cm.;larg.:15 cm.1/2.
+
+- I1.—Vu en buste et de trois quarts a gauche,un homme en
+- vetement et chapeau blancs a raies grises, cheveux et barbe noirs.
+
+Dans les marges, croquis de lansquenets et notes manuscrites.
+
+A droite,cachet de la vente Delacroix. Collection Burty.
+
+Dessin a la sepia et a la mine de plomb. —Haut.: 19 cm.1/2;larg.:15 cm.
+
+## DELACROIX
+
+(EUGENE)
+
+114
+
+## Medailles antiques
+
+Cinq tetes d'hommes et de femmes; un corbeau; un cavalier; un Hercule; un homme nu, assis, un oiseau sur sa main; un taureau couche.
+
+A droite, cachet de la vente Delacroix. Collection Burty. Cite dans l Euvre de Delacroix, par A. Robaut, page 399 (n 1499 a 1502). Dessin ala mine de plomb.—Haut.:31 cm.;larg,:19 cm, 1/2
+## DELACROIX
+
+(EUGENE)
+
+115
+
+## Masques. Bustes de Michel-Ange
+
+1.—Masques antiques (huit croquis).
+
+Vers la droite, cachet de la vente Delacroix.
+
+Dessin a la mine de plomb.-Haut.:18 cm.1/2;larg.:24 cm.
+
+II. -—Deux etudes d’apres le buste de Michel-Ange.
+
+Vers la droite, cachet de la vente Delacroix.
+
+Dessin a la mine de plomb.—Haut.: 20 cm. 1/2; larg.: 26 cm.
+
+## DELACROIX
+
+(EUGENE)
+
+116
+
+## Cheval
+
+Une couverture sur l'avant-main, un cheval est debout, vu de profil vers la gauche.
+
+A droite,des silhouettes d'hommes.
+
+Vers le milieu, cachet de la vente Delacroix.
+
+Dessin a la mine de plomb.-Haut,:17 cm. 1/2;larg.:26 cm.
+## DELACROIX
+
+(EUGENE)
+
+117
+
+## Medailles antiques
+
+I.——Cinq etudes de nu.
+
+Dessin ala mine de plomb.——Haut.:28 cm.1/2;larg.:17 cm.1/2.
+
+II.——Etudes d'homme nu et de tetes (cinq croquis).
+
+A gauche,cachet de la vente Delacroix, Collection Burty.
+
+Dessin a la mine de plomb.—Haut.:23 cm.; larg.:17 cm.
+
+## DELACROIX
+
+(EUGENE)
+
+118
+
+## Le Tasse dans la prison des fous
+
+Diverses etudes pour le tableau du Tasse:des prisonniers a une fenetre grillee; un corps etendu sur un lit; un personnage accoude; etc.;
+
+notes manuscrites.
+
+A droite,cachet de la vente Delacroix. Partie du n° 317 du catalogue de la vente Delacroix,17 fevrier 1864. Cite dans Euvre de Delacroix, par A.Robaut,page 3g8, partie du n 1496.
+
+Dessin a la plume.—Haut.:19 cm,1/2; larg.:3o cm. 1/2.
+## DELACROIX
+
+(EUGENE)
+
+119
+
+## Etude d'hommes nus
+
+A gauche, un homme etendu sur le dos et appuye sur le coude. A droite,vu de face, un homme assis, et un autre debout, vu de dos.
+
+Cachet de la vente Delacroix.
+
+Cite et reproduit dans  Euvre de Delacroix,par A.Robaut,page 353,n 1318.
+
+Date vers le milieu,7 septembre 57.
+
+Exposition des ceuvres de Delacroix a 1Ecole des Beaux-Arts,Paris,1885,n384
+
+Dessin a la plume.-Haut.: 15 cm. 1/2; larg.:3o cm.
+
+## DELACROIX
+
+(EUGENE)
+
+120
+
+## Projet pour le rectangle de la Justice
+
+(Frise du salon du roi, au Palais-Bourbon)
+
+A droite, un vieillard est couche sur le sol. Derriere lui, un ange tient une lampe dans sa main.
+
+Cite et reproduit dans  Euvre de Delacroix, par A.Robaut, page 144, n 541.
+
+Dessin a la mine de plomb. Haut.:18 cm.; larg.:14 cm.
+
+du catalogue
+## DELACROIX
+
+(EUGENE)
+
+121
+
+## L'Agriculture
+
+Couchee et entouree d'enfants, elle est representee sous les traits d'une femme,le torse decouvert, les jambes couvertes d'une étoffe drapee.
+
+A ses pieds, et vue a mi-corps, une autre figure, le bras levé.
+
+Etude pour le plafond du salon du roi au Palais-Bourbon. A gauche,cachet de la vente Delacroix.
+
+Dessin au crayon noir.—Haut.:14 cm.;larg.:33 cm.
+
+## DELACROIX
+
+(EUGENE)
+
+122
+
+## Femmes au l bain
+
+A gauche, une femme nue entrant dans une baignoire; a droite, une femme, assise et vue de profil a gauche, s'essuie les pieds; dans le bas, a droite, une petite figure debout.
+
+Date 27 aout, Strasbourg,59.
+
+Cite et reproduit dans lEuvre de Delacroix, par A. Robaut, page 376,
+
+Vers le milieu, cachet la vente Delacroix.
+
+n"1399.
+
+Dessin a la plume.——Haut.:22 cm.; larg.:34 cm.
+## DELACROIX
+
+(EUGENE)
+
+123
+
+## Lion devorant un cheval
+
+Un lion plante ses crocs dans le cou d’un cheval qu'il tient entre ses pattes.
+
+A gauche, cachet de la vente Delacroix.
+
+Dessin analogue a celui de la lithographie decrite dans  Euvre de Delacroix,par A.Robaut, page 214, n 8o5.
+
+Dessin a la mine de plomb.-Haut.:16 cm.;larg.:26 cm.
+
+## DELACROIX
+
+(EUGENE)
+
+124
+
+## Arabe ferrant un cheual
+
+Un Arabe, accroupi, ferre un cheval dont un jeune garcon tient la jambe levee.
+
+A droite, cachet de la vente Delacroix.
+
+Dessin a la mine de plomb,-Haut.:16 cm,;larg.:26 cm. 1/2.
+## DELACROIX
+
+(EUGENE)
+
+125
+
+## Etude de lion
+
+Accroupi et vu de profil a droite, un lion pose une de ses pattes sur un debris de carcasse.
+
+A droite, cachet de la vente Delacroix.
+
+Dessin a la mine de plomb.-Haut.: 17 cm.; larg.:21 cm.
+
+## DELACROIX
+
+(EUGENE)
+
+126
+
+## Diomede devore par ses chevaux
+
+Plusieurs croquis d'homme renverse a terre, les jambes relevees.
+
+A gauche,cachet dela vente Delacroix.
+
+Exposition des euvres de E. Delacroix, a lEcole des Beaux-Arts, Paris 1885, n382ducatalogue.
+
+Cite et reproduit dans lEuvre de Delacroix,par A.Robaut, page 341,n 1275.
+
+Dessin a la mine de plomb.-Haut.:22 cm.1/2;larg.:3o cm.1/2,
+## DELACROIX
+
+(EUGENE)
+
+127
+
+## Etude d'Arabe
+
+Drape dans un burnous, il est couche sur le cote droit, les jambes nues.
+
+A droite,cachet de la vente Delacroix.
+
+Dessin a la mine de plomb.—Haut.:19 cm.;larg.:22 cm.1/2.
+
+## DELACROIX
+
+(EUGENE)
+
+128
+
+## Hercule et Diomede
+
+Diomede, mordu a la jambe par un cheval, est maintenu a terre par Hercule.
+
+A droite,cachet de la vente Delacroix. Cite et reproduit dans uvre de Delacroix,par A.Robaut,page 341,n 1276.
+
+Dessin a la mine de plomb.-Haut.:13 cm.;larg.:26 cm.
+## DELACROIX
+
+(EUGENE)
+
+129
+
+## Types russes
+
+A droite, un cocher russe se tient debout, des guides dans les mains; dans le haut, a gauche, un paysan russe dansant.
+
+Dans le bas, etude de pieds et tete de cheval.
+
+Vers la droite,cachet de la vente Delacroix.
+
+Dessin a la mine de plomb. ——Haut.:29 cm. 1/2; larg.:21 cm.
+
+## DELACROIX
+
+(EUGENE)
+
+130
+
+L'Empereur Justinien
+
+Il est assis et vu de face, la main gauche levee.
+
+A droite,cachet de la vente Delacroix. Cite dans  Euvre de Delacroix,par A.Robaut, page 4o1, partie du n 1514.
+
+Dessin a la mine de plomb. Haut.:22 cm.; larg.:16 cm.
+## DELACROIX
+
+(EUGENE)
+
+131
+
+## Chimere et Sphinx
+
+Dans le haut, une chimere couchee. A droite, un torse nu. Dans le bas, un demon et un sphinx.
+
+Vers le milieu,cachet de la vente Delacroix.
+
+Dessin a la mine de plomb.——Haut.:22 cm.;larg.:32 cm.
+
+## DELACROIX
+
+(EUGENE)
+
+132
+
+## Etude
+
+A gauche, une femme nue couchee. A droite, un cheval, vu en raccourci, une jeune fille debout, le bras droit leve, et une tete vue de profil.
+
+Dans le haut, deux etudes de tetes.
+
+Dessin a la plume.-Haut.:22 cm.;larg.:34cm.1/2.
+## DELACROIX
+
+(EUGENE)
+
+133
+
+## Etudes de nu
+
+A gauche, une femme nue est assise, les bras releves au-dessus de la tete; dans le haut, une étude de jambes; et a droite,une femme a genoux, la tete de face.
+
+A droite,cachet de la vente Delacroix.
+
+Dessin a la mine de plomb.—Haut.:24 cm.; larg.: 38 cm.1/2.
+
+## DELACROIX
+
+(EUGENE)
+
+134
+
+## Etudes de femmes
+
+Quatre etudes : une femme vue a mi-corps, inclinee vers la gauche;une autre penchee vers la droite;une baigneuse assise et une femme nue, a ceinture de feuillage.
+
+A droite, cachet de la vente Delacroix.
+
+Dess in a la plume.—Haut.:21 cm.;larg.:32 cm.1/2.
+de rocher.
+
+## DELACROIX
+
+(EUGENE)
+
+135
+
+## Ange dechu
+
+Les bras etendus, debout, il se retient aux parois d’une crevasse
+
+A gauche, cachet de la vente Delacroix.
+
+Dessin au crayon noir,-Haut.:47 cm.;larg.:41 cm.
+
+## DELACROIX
+
+(EUGENE)
+
+136
+
+## Hercule au pied des colonnes
+
+Composition pour l'un des tympans du Salon de la Paix a IlHotel de Ville de Paris.
+
+A droite, cachet de la vente Delacroix.
+
+Dessin a la mine de plomb.-Haut.:28 cm.;larg.:47 cm. 1/2.
+## DELACROIX
+
+(EUGENE)
+
+137
+
+## Odalisque
+
+Elle est couchee sur le cote droit, vue de dos et tournant la tete. Dans le haut a gauche, detail du meme sujet; au verso un croquis.
+
+Dans le haut, l'inscription: 27, rue Saint-Marc,hotel, n 11. A droite,cachet de la vente Delacroix. Partie du n°653 de la vente Delacroix, 17 fevrier 1864. N11 du catalogue de la vente Tillot, 14 mai 1887. N 8g5 du catalogue de l'Exposition centennale de l'Art francais,19oo.
+
+Dessin a la mine de plomb.-Haut.:21 cm.; larg.:32 cm.
+
+## DELACROIX
+
+(EUGENE)
+
+138
+
+## Tetes de femmes
+
+Dans le haut, a droite et a gauche, deux tetes de femmes. Au milieu, en trois attitudes differentes, les memes tetes appuyées l'une contre l'autre.
+
+A gauche, cachet de la vente Delacroix.
+
+Dessin a la mine de plomb,-Haut.:15 cm,;larg.:26 cm.1/2
+## DELACROIX
+
+(EUGENE)
+
+139
+
+## Etudes de chevaux
+
+I.-Cheval se cabrant.
+
+Dessin a la mine de plomb.-Haut.:22 cm.1/2;larg.:27 cm. 1/2.
+
+I1. -- Cheval vu de profil et cinq etudes de croupes.
+
+Vers le milieu, cachet de la vente Delacroix. Exposition des Euvres de E. Delacroix a l'Ecole des Beaux-Arts, Paris, 1885, n°383 du catalogue.
+
+Dessin a la mine deplomb.-Haut.:18cm.;larg.:26 cm.
+
+## DELACROIX
+
+(EUGENE)
+
+140
+
+## Etude de nu
+
+Le haut des jambes couvert par une draperie, une femme est couchee, le bras gauche ramene sur la tete, et s'appuie sur le coude droit.
+
+A droite,cachet de la vente Delacroix. Date a gauche,2o aout, Dieppe, 54, le jour des Course.
+
+Dessin a la mine de plomb.-—Haut.:21 cm.; larg.:3o cm.
+## DELACROIX
+
+(EUGENE)
+
+141
+
+## Femme peignant
+
+Elle est assise, vue de dos, en corsage a manches bouffantes, et coiffee a la mode de 183o.
+
+A droite,cachet de la vente Delacroix.
+
+Partie du n°648 du catalogue de la vente Delacroix,17 fevrier 1864.
+
+Dessin a la mine de plomb.-Haut.:16 cm.;larg.:11 cm.
+
+## DUFEU
+
+(E.) (1840-1900)
+
+142
+
+## L'Arc de Triomphe du Carrousel
+
+Au premier plan, au bord du trottoir, un reverbere; a droite, le Pavillon de Marsan; a gauche, une encoignure du Louvre; au fond, 1'Arc de Triomphe.
+
+Signe a gauche.
+
+Aquarelle.-Haut.:33cm.;larg.:40 cm.
+## DUFEU
+
+(E.)
+
+143
+
+## Une rue en Normandie
+
+A droite et a gauche, de hautes maisons a piliers. Dans le fond, une petite place.
+
+Signe a gauche,
+
+Aquarelle.—Haut.:34 cm.;larg.:24 cm.
+
+## DUMONSTIER
+
+(D.) (1550-1631)
+
+144
+
+## Portrait de Jacques Nompar
+
+## de Caumont la Force
+
+lieutenant-general des armees du roi
+
+Il est vu en buste, de trois quarts a gauche,vetu d'un pourpoint a col releve; les cheveux, les moustaches et la barbe grisonnants.
+
+Signe du monogramme,a droite. Cachet de la vente du baron Denon.
+
+Partie du n 779 du catalogue de la vente du baron Denon, mai 1826. A gauche,cachet des collections du comte de Roqueplan.
+
+Dessin au crayon noir,rehausse d’aquarelle.Haut.:37 cm.; larg.:26 cm.
+## ECOLE ANGLAISE
+
+(xIx*siecle)
+
+145
+
+## Portrait d’un officier
+
+Il est vu en buste, de trois quarts a gauche, rase, en habit bleu a revers blancs galonnes d'or, et en cravate de dentelle.
+
+Aquarelle.--Haut.:25 cm.1/2;larg.:20 cm.1/2.
+
+## ECOLE FRANCAISE
+
+(xvII siecle)
+
+146
+
+## Portrait de Quentin-Latour
+
+Presque de face, souriant, coiffe d'un bonnet noir et vetu d'un habit brun double de bleu,la main droite levee, dans une attitude semblable a celle du portrait grave par Schmidt.
+
+N15i du catalogue de la vente Camille Marcille.
+
+Pastel.-Haut.:32 cm.;larg.:25 cm.
+## ECOLE FRANCAISE
+
+(xvInr siecle)
+
+147
+
+## Jeune femme
+
+Vue a mi-corps, presque de face, une jeune femme, en robe blanche,
+
+Pastel.—Haut.:41 cm.;larg.:41 cm.
+
+## ECOLE FRANCAISE
+
+(xVI1 siecle)
+
+148
+
+## Femme jouant avec des enfants
+
+Couchee a terre sur une draperie, une femme nue, le bras gauche appuye sur une pierre, joue avec deux enfants.
+
+Dessin au crayon noir, rehausse de blanc.—Haut. : 2o cm.; larg.: 3g cm.
+## ECOLE HOLLANDAISE
+
+(xvI1 siecle)
+
+149
+
+## Paysage
+
+A gauche, des maisons en ruines que domine une vieille tour. A droite et au fond, des vallonnements.
+
+Dessin a la plume,rehausse de sepia.—Haut.:16 cm.;larg.:22 cm.1/2,
+
+## ECOLE HOLLANDAISE
+
+(xvire siecle)
+
+150
+
+## Marine
+
+A gauche, a l'entree d'un port, un phare sur un rocher. Au milieu, un grand navire entoure de barques.
+
+Cachets de collection, a gauche et a droite.
+
+Dessin a la plume,rehausse de sepia.-—Haut.:13 cm.;larg.:24 cm.1/2.
+## FANTIN-LATOUR
+
+(HENRI) (1836-1904)
+
+151
+
+## Diane
+
+Tournee vers la droite, assise sur un tertre, et regardant le fond du paysage, elle tient dans ses mains son arc et son carquois.
+
+Signe a gauche.
+
+Dessin au crayon noir.-Haut.:23 cm.;larg.:28 cm.
+
+## FORAIN
+
+(JEAN-LOUIS)
+
+152
+
+## Un couloir de tbeatre
+
+Dans le couloir d’un theatre, des hommes en habit, dont l'un donne le bras a une femme en robe decolletee et a longue traine.
+
+Signe a gauche.
+
+Aquarelle.-Haut.:31 cm.;larg.:23cm.1/2.
+## FORAIN
+
+(J.-L.)
+
+153
+
+## Un bar
+
+Des femmes sont assises devant une table de cafe.Debout en face d'elles, deux hommes en chapeau haut de forme; au fond, un rideau rouge et une glace ou se refletent les lumieres et les silhouettes des passants.
+
+Signe a droite.
+
+Aquarelle.——Haut.:26 cm.1/2;larg.:18 cm.1/2.
+
+## FORAIN
+
+(J.-L.)
+
+154
+
+## La Vie de chateau
+
+Une grosse femme en robe decolletee se tient debout devant une malle ouverte.
+
+Dans le haut a droite, l'inscription  La vie de chateau .Dans le bas, la legende : α Jules, est-ce que tu ne m'as pas dit, dans le temps, que tu avais marche avec la maitresse de la maison. )
+
+Signe a droite.
+
+Dessin a la mine de plomb.-Haut. : 33 cm.; larg.:28 cm.
+## FORAIN
+
+(J.-L.)
+
+155
+
+## Femmes au café
+
+Une femme assise devant une table de cafe parle a uneautre femme debout.
+
+Signe a droite.
+
+Dessin a la plume et au crayon.-Haut.: 38 cm. 1/2; larg. :31 cm. 8.
+
+## GELEE
+
+(CLAUDE)ditLE LORRAIN (1600-1682)
+
+156
+
+## Le Passage du troupeau
+
+Au premier plan, a droite, deux personnages assis au pied d'un arbre,regardent passer un troupeau de vaches et de chevres, conduit par un homme monte sur un ane.
+
+Paysage de collines avec ruines romaines.
+
+N°112 du catalogue de la vente Marmontel, 25 janvier 1883,ou ce dessin est reproduit, en sens inverse.
+
+Dessin a la sepia.—Haut.:2g cm.; larg.:38 cm.
+## GOYA
+
+(FRANCESCO) (1746-1828)
+
+157
+
+## Caprices
+
+1°Scenes de Sabbat, sorciers et sorcieres jouant et dansant.
+
+Dessin a la sepia.—Haut.:2o cm.;larg.:14 cm.
+
+2° Un homme monte sur un ane avec un chat sur la tete que des chiens essaient d'attraper.
+
+Deux dessins en un cadre.
+
+Dessin a la sepia.-Haut.:2o cm.;larg.:14 cm.
+
+## GRANET
+
+(FRANCOIS-MARIUS) (1775-1849)
+
+158
+
+## Cardinal visitant un couvent
+
+Accompagne de deux moines dont l'un porte une croix, un cardinal s'apprete a franchir le seuil du couvent qu'il va visiter.
+
+Signe a gauche. Collection His de la Salle.
+
+Aquarelle.-Haut.:20 cm.;larg.:25 cm.
+## GRANET
+
+(FRANCOIS-MARIUS)
+
+159
+
+## La Mort du Poussin
+
+Dans son atelier, le Poussin, sur son lit de mort, recoit la visite d'un cardinal.A son chevet, se tiennent des personnages agenouilles et debout.
+
+Signe a gauche, et date 1833.
+
+Dessin ala sepia.—Haut.:28 cm. 1/2; larg.:36 cm.
+
+## GRANET
+
+(FRANCOIS-MARIUS)
+
+160
+
+## Interieur de couvent
+
+Une grande salle voutee est eclairee a gauche par une fenetre; dans le fond, on apercoit un moine tenant un crucifix.
+
+Signe a gauche.
+
+Dessin a la sepia.-Haut.:13 cm.;larg.:1o cm.1/2.
+## GRANET
+
+(FRANCOIS-MARIUS)
+
+161
+
+## Interieur d’une salle d'ecole
+
+A droite, le maitre est assis dans une chaire devant laquelle un enfant est agenouille; dans le fond, les eleves sont assis sur des bancs.
+
+Signe a gauche, et date 1847. Collection Lebas.
+
+Dessin a la sepia.—Haut.:27 cm.; larg.:41 cm.
+
+## GRANET
+
+(FRANCOIS-MARIUS)
+
+162
+
+## Assemblee religieuse
+
+Des moines sont rassembles dans une galerie voutee.
+
+Dessin a la sepia.-Haut.:8 cm.1/2;larg.:16 cm.
+## GRANET
+
+(FRANCOIS-MARIUS)
+
+163
+
+## Interieur de couvent
+
+A gauche, un moine gravit les marches d'un escalier qui est eclaire dans le haut par une fenetre grillee.
+
+Signe a gauche, sur une pierre du mur longeant l'escalier,et date 1817.
+
+Dessin a la plume et a la sepia.——Haut.: 1g cm.1/2; larg.: 14 cm. 1/2.
+
+## GRANET
+
+(FRANCOIS-MARIUS)
+
+164
+
+## Paysage italien
+
+Au premier plan, un mur. Plus loin, une grande maison a l'italienne, devant une colline surmontee de pins-parasols.
+
+Dessin a la sepia. -Haut.: 8 cm.; larg.: 11 cm. 1/2.
+## GUARDI
+
+(FRANCOIS) (1712-1793)
+
+165
+
+## Vue de Venise
+
+Des promeneurs animent la place qu'entourent des galeries a arcades.
+
+Dans le fond,une église.
+
+Dessin a la plume rehausse de lavis. --Haut.:26 cm.; larg.:41 cm. 1/2.
+
+## HEIM
+
+(FRANCOIS-JOSEPH) (1787-1865)
+
+166
+
+## Deux portraits
+
+Deux hommes, en culotte courte, se tiennent le bras.
+
+En marge, plusieurs notes manuscrites.
+
+Dessin a la mine de plomb.-Haut.:31 cm.;larg.:23 cm.
+## HEIM
+
+(FRANCOIS-JOSEPH)
+
+167
+
+## Portrait d'homme
+
+Vu en pied, de trois quarts a gauche, en habit et culotte courte, la tete de face, le bras droit le long du corps, son chapeau sous le bras gauche.
+
+Dessin au crayon noir.—Haut.:28cm.1/2;larg.:17 cm.
+
+## HEIM
+
+(FRANCOIS-JOSEPH)
+
+168
+
+## Le Marechal Gerard
+
+Il est vu debout, de profil a droite, son chapeau a la main. Signe Heim,et date 1832.
+
+Dessin au crayon noir.—Haut.:33 cm.;larg.:1g cm.
+## HEIM
+
+(FRANCOIS-JOSEPH)
+
+169
+
+## M. Dechomnen, deputé
+
+Il est vu de face et a mi-corps, l'habit ouvert, la main droite dans la poche de son pantalon.
+
+Dessin aux deux crayons.-Haut.:20 cm.1/2;larg.:18 cm.
+
+## HEIM
+
+(FRANCOIS-JOSEPH)
+
+170
+
+## Portrait du Comte de Guyancourt
+
+Debout et vu de face, il est represente en uniforme, son chapeau dans la main droite.
+
+Dessin aux deux crayons.-Haut.:31 cm.1/2;larg.:16 cm.1/2.
+## HEIM
+
+(FRANCOIS-JOSEPH)
+
+171
+
+## Portrait de Monsieur de Cayeux
+
+En habitet culotte courte, bas blancs, l'pee au cote, il est debout, vu de face.
+
+Signe a gauche et date,1826.
+
+N32o du catalogue de lExposition centennale de l'Art francais, 1889.
+
+Dessin aux deux crayons.-Haut.:37 cm.;larg.:18 cm
+
+## HEIM
+
+(FRANCOIS-JOSEPH)
+
+172
+
+## Portrait du Vicomte Sosthene de la Rochefoucauld
+
+Assis dans un fauteuil, il est vu de profil a gauche, les jambes croisees et son chapeau sur les genoux.
+
+Signevers le milieu et date,1828.
+
+Dessin au crayon noir.—Haut.:33 cm.1/2;larg.:28 cm.
+## HEIM
+
+(FRANCOIS-JOSEPH)
+
+173
+
+## Portrait de Monsieur Berard, depute
+
+Il est vu debout, de profil a droite, son chapeau a la main, Signe a gauche et date, 1832.
+
+Dessin au crayon noir.—Haut.:32 cm.;larg.:14 cm.
+
+## HEIM
+
+(FRANCOIS-JOSEPH)
+
+174
+
+## Portrait du Roi Louis-Philippe
+
+Il est vu debout, de trois quarts a gauche,nu-tete, son chapeau a la main.
+
+Vers le milieu,l'inscription, a la plume :α Le Roi .
+
+Dessin au crayon noir.—Haut.:31 cm.;larg.:15 cm.
+## HEIM
+
+(FRANCOIS-JOSEPH)
+
+175
+
+## Portraits de deputes
+
+1. Le Comte Rambuteau. La tete et le buste de profil a droite.
+- II. Monsieur Jare. De trois quarts a droite, vu a mi-corps, le cha peau a la main.
+
+Haut.:9 cm.;larg.: 11 cm.
+
+Signe de l'initiale H., a droite.
+
+Haut.:13 cm.1/2;larg.:11 cm.
+
+- III. Monsieur Cumin-Gridaine. En buste, la tete de profl a droite, favoris et lunettes.
+
+Signe de linitiale H., a droite.
+
+Trois dessins au crayon noir.
+
+## HEIM
+
+(FRANCOIS-JOSEPH)
+
+176
+
+## Portraits de deputes
+
+- I. Le Baron Louis. Tete et buste de trois quarts a droite, les che-
+2. veux frises, la face rasee.
+
+Signe de l'initiale H., a droite.
+
+Haut.:11 cm.1/2;larg.:10 cm.1/2.
+
+- II.Monsieur Andre (du Haut-Rhin).De face,vu jusqu'a la ceinture, la tete chauve,la figure rasee,la redingote fermee.
+
+Signe de l'initiale H., a gauche.
+
+Haut.:17 cm.1/2;larg.:13 cm.1/2.
+
+- II1. Le Comte de la Bare. Tete et buste de profil a droite, la face rasee, la redingote fermee.
+
+Trois dessins aux deux crayons.
+
+Haut.:11 cm.1/2;larg.:10 cm.1/2.
+
+Haut.:9 cm.;larg.:11 cm.
+## HEIM
+
+(FRANCOIS-JOSEPH)
+
+## 177
+
+## Portraits de deputes
+
+- I.Monsieur Madier de Montjau.Vu a mi-corps, de trois quarts, la figure rasee, une main dans I'encolure de I'habit.
+
+Signé de I'initiale H.,a gauche.
+
+Haut.:21 cm.1/2;larg.:14cm.
+
+- II.Monsieur Dupont (de l Eure). De face, vu a mi-corps, la figure rasee, l'habit ferme, la main gauche dans la poche du pantalon.
+
+Signe de I'initiale H., a gauche.
+
+Haut.:13cm.1/2;larg.:12 cm.1/2.
+
+III. Monsieur Charles Lamette. De face, vu a mi-corps, la figure rasee, l'habit ouvert, les deux mains dans les poches du pantalon.
+
+Trois dessins aux deux crayons.
+
+Haut.:21 cm.;larg.:14 cm.
+
+## HEIM
+
+(FRANCOIS-JOSEPH)
+
+## 178
+
+## Portraits de deputes
+
+- I.Monsieur Auguste Perier. De face, vu a mi-corps, les cheveux frises,la face rasee,l'habit ferme.
+
+Signe de l'initiale H., a gauche.
+
+Haut.: 16 cm.;larg.: 11 cm. 1/2.
+
+- II. Le Vicomte de Gastempe. De trois quarts a droite, la face rasee, habit ouvert, vu a mi-corps.
+
+Haut.:16 cm.;larg.:15 cm.1/2.
+
+- IIl. Monsieur de Keratry. De trois quarts a droite, les cheveux releves, la face rasee, l'habit entrouvert, les mains sur la ceinture.
+
+Signe de l'initiale H., a gauche.
+
+Trois dessins aux deux crayons.
+
+Haut.:16cm.;larg.:15cm.
+## HERVIER
+
+(ADOLPHE) (1821-1879)
+
+179
+
+## Au village
+
+Au seuil d'une chaumiere, au milieu des volailles et des provisions de menage, une femme, assise, fait la toilette de son enfant. En face d'elle, une villageoise, debout, tient son marmot sur les bras. Vers la gauche, un enfant assis pres d'un grand panier a legumes.
+
+Signea droite et date,1864.
+
+A gauche,l'inscription a la plume : Caen, 6 septembre,64.
+
+Aquarelle.-Haut.:13 cm.;larg.16 cm. 1/2.
+
+## HUET
+
+(JEAN-BAPTISTE)
+
+(1745-1811)
+
+180
+
+## La Toilette de Venus
+
+Autour de Venus, assise et a demi nue, s'empressent plusieurs femmes qui vont la coiffer. Devant la deesse, un amour tient un grand miroir.
+
+A gauche, cachet de la vente Cals.
+
+Dessin a 1'encre de Chine, rehausse daquarelle. Haut.: 14 cm. 1/2; larg.: 1g cm. 1/2.
+## HUET
+
+(PAUL) (1803-1869)
+
+181
+
+## Paysage
+
+Au premier plan a droite, des chasseurs dans une barque sont a laffut dans les roseaux. A gauche, un bouquet de grands arbres. Dans le fond,le soleil couchant.
+
+Signe des initiales P. H., a gauche.
+
+Aquarelle.——Haut.:16cm.;larg.:27 cm.
+
+## INGRES
+
+(JEAN-DOMINIQUE) (1780-1867)
+
+182
+
+## Portrait de M. Alaux
+
+directeur de l'Academie de France a Rome
+
+Il est vu de trois quarts a gauche, a mi-corps, en redingote.
+
+Signe a gauche et date,1818,Rome. N°32g du catalogue del'Exposition centennale delArt francais,1889.
+
+Dessin a la mine de plomb.-Haut.:2o cm.;larg.:15 cm.
+## INGRES
+
+(JEAN-DOMINIQUE)
+
+183
+
+## Etude pour le reve d'Ossian
+
+A droite,un homme debout,a demi cache par un bouclier rond; a gauche,une femme nue.
+
+Dans le haut,une variante de ce motif represente la meme femme, drapee.
+
+Signe a gauche.
+
+Etude pour le tableau peint en 1812 pour le plafond de l'une des pieces de l'appartement que Napoleon devait occuper au palais de Monte Cavallo.
+
+Dessin a la mine de plomb.-Haut,:42 cm.; larg.:34 cm.1/2,
+
+## INGRES
+
+(JEAN-DOMINIQUE)
+
+184
+
+## Etude pour l'Edipe
+
+Un jeune homme nu, debout, vu presque de dos, la main gauche sur la hanche, la droite levee, la tete légerement renversee en arriere.
+
+Signe a gauche: Ing.
+
+Collection Paul Flandrin.
+
+Dessin a la mine de plomb.-Haut.:23 cm.;larg.:12 cm.
+## ISABEY
+
+(EUGENE) (1804-1886)
+
+185
+
+## En Bretagne
+
+Une ruelle en escalier; a droite,une maison avec grande porte blanche.
+
+A gauche, cachet de la vente Isabey. N°18o du catalogue de la vente Isabey, 3o mars 1887.
+
+Aquarelle.-Haut,:17 cm.;larg.:24 cm.
+
+## ISABEY
+
+(EUGENE)
+
+186
+
+## Interieur d'eglise
+
+Dans la nef d’une eglise ogivale, des fideles sont agenouilles.
+
+Dessin au crayon noir et au fusain.—Haut.:31 cm.; larg. :17 cm.
+## JONGKIND
+
+(JOHAN BARTHOLD)
+
+(1819-1891)
+
+187
+
+## Soleil couchant
+
+Au milieu, au premier plan, une barque de peche, est a sec sur le rivage. A gauche, la mer, que domine un phare se detachant sur le ciel.
+
+Signe a gauche.
+
+Aquarelle.-Haut.:21 cm.1/2;larg.:22 cm.1/2.
+
+## JONGKIND
+
+(JOHAN BARTHOLD)
+
+188
+
+## Paysage aux environs de Rotterdam
+
+Dans un paturage traverse par un petit canal, des vaches paissent aupres d'un moulin.
+
+Signe a droite,avec dedicace:A son ami Cals,Jongkind,Paris, le 23 mars 1862. N323 du catalogue de la vente Cals,16 fevrier 1881.
+
+Aquarelle.—Haut.:26cm.;larg.:37 cm.
+## JONGKIND
+
+(JOHAN BARTHOLD)
+
+189
+
+## La Plage de Sainte-Adresse
+
+Devant les maisons des pecheurs, plusieurs barques sont echouees sur le sable; a droite, la mer.
+
+Signe a gauche et date, Sainte-Adresse, 1862.
+
+Aquarelle.—Haut,:21 cm.1/2;larg.:23 cm.1/2.
+
+## JONGKIND
+
+(JOHAN BARTHOLD)
+
+190
+
+Effet de neige
+
+La neige couvre une route dont les deux cotes sont bordes par des maisons et des champs entoures de haies.
+
+Signé a gauche et date, 28 janvier 1880.
+
+Aquarelle.——Haut.:15cm.1/2;larg.:24 cm.1/2.
+## JONGKIND
+
+(JOHAN BARTHOLD)
+
+191
+
+## Plage a marée basse
+
+A droite, des falaises et des maisons; a gauche, un homme avec un cheval; dans le fond, un bateau a voiles.
+
+Signe a droite.
+
+Aquarelle.-Haut.:21 cm.1/2;larg.:32 cm.1/2.
+
+## JONGKIND
+
+(JOHAN BARTHOLD)
+
+192
+
+Sur le sable, trois bateaux sont a demi échoues. A droite,un pecheur.
+
+Signe a gauche et date,vers lemilieu,Villerville,8 aout 854
+
+Aquarelle.-Haut.:27 cm.;larg.:42 cm.1/2.
+## JONGKIND
+
+(JOHAN BARTHOLD)
+
+193
+
+## Une plage
+
+A maree basse, des pecheurs se tiennent sur la plage. Dans le fond, la mer avec des bateaux a voiles.
+
+Signe deux fois: a droite, et au milieu,vers la gauche.
+
+Aquarelle.-Haut.:23 cm.1/2;larg.:28 cm.1/2.
+
+## JONGKIND
+
+(JOHAN BARTHOLD)
+
+194
+
+Plage
+
+Au pied d'une falaise s'etend une plage avec de gros rochers. Dans le ciel, quelques nuages.
+
+Signe a droite et date, 24 septembre 1862.
+
+Aquarelle.—Haut.:24 cm.;larg.:31 cm.
+
+<!-- image -->
+## JONGKIND
+
+(JOHAN BARTHOLD)
+
+195
+
+## La Jetee
+
+Au centre, la jetee s'allonge vers la mer, sous un ciel bleu. A len- tree du port, a droite, des bateaux sont échoues a maree basse.
+
+Signe a droite et date, 1864.
+
+Aquarelle.-Haut.:14 cm.;larg.:28cm.
+
+## JONGKIND
+
+(JOHAN BARTHOLD)
+
+196
+
+## Bateaux dans un port
+
+Trois bateaux sont amarres le long d'un quai.
+
+Au fond, des arbres et des maisons. Signe a droite.
+
+Aquarelle.-Haut.:27 cm.;larg.:31 cm.
+## JONGKIND
+
+(JOHAN BARTHOLD)
+
+197
+
+## Interieur d’un port
+
+A droite, un grand navire; au fond, des arbres et des maisons.
+
+Haut.:20 cm.;larg.:20 cm.1/2.
+
+## JONGKIND
+
+(JOHAN BARTHOLD)
+
+198
+
+Paysage
+
+A droite, un chemin borde de chaumieres longe une riviere. Dans le fond, une rangee d'arbres.
+
+Signe a droite, et date a gauche, 8 mars 1856.
+
+Dessin au crayon noir.-Haut.: 18 cm.; larg.:27 cm. 1/2.
+## LAGNEAU
+
+(xvI siecle)
+
+199
+
+## Portrait de vieillard
+
+En vetement a col et revers de fourrure, il est vu de trois quarts a droite,le nez aquilin,le large front decouvert.
+
+Il est coiffe d'une calotte noire, et porte autour du cou une colle- rette tuyautee.
+
+N° 51g du catalogue de lExposition des Portraits francais, a la Bibliotheque nationale,1907.
+
+Dessin au crayon de couleur.-Haut.:42 cm.1/2; larg.:28 cm. 1/2.
+
+## LAMI
+
+(EUGENE)
+
+(1800-1890)
+
+200
+
+## Simone (Conte d’Alfred de Musset)
+
+Au premier plan, Simone,une feur a la main, est agenouillee pres du corps inanime de son ami; dans le fond, les hallebardiers de l'escorte.
+
+N°g7 du catalogue de la vente de la collection de Mme Denain, societaire de la
+
+Aquarelle.-Haut.:11 cm.;larg.:15 cm,
+
+Comedie-Francaise,6 avril 18g3.
+## LAMI
+
+(EUGENE)
+
+201
+
+## Saint Georges
+
+Revetu de son armure, les jambes nues, et monte sur un cheval blanc, il terrasse le dragon; derriere lui, son manteau rouge flotte au vent.
+
+Aquarelle.-Haut.:1o cm.;larg.:7 cm.1/2.
+
+LAMI
+
+(EUGENE)
+
+202
+
+## Horse-Guard
+
+Vetu d'une tunique rouge recouverte d'une cuirasse et d'une culotte blanche, coiffe d'un casque a panache blanc, il est monte sur un cheval noir, la main droite tenant l'épee levee.
+
+Signe des initiales E. L., a droite.
+
+Aquarelle.-Haut.:1g crn.1/2;larg.:15 cm.
+## LAMI
+
+(EUGENE)
+
+203
+
+## Etude de chevaux
+
+A gauche, un cheval gris avec selle rouge; a droite, une etude de croupe.
+
+Vente Eugene Lami,1891.
+
+Aquarelle.-Haut.:21 cm.;larg.:3o cm.
+
+## LAMI
+
+(EUGENE)
+
+204
+
+## Projet pour une cheminee monumentale
+
+Entre deux cariatides, le manteau d’une grande cheminee est orne
+
+Dans l'atre, deux grands chenets.
+
+d'une peinture representant un vase de feurs.
+
+Vente Eugene Lami,1891.
+
+Aquarelle.-Haut.:33 cm.;larg.:18 cm.
+## LAMI
+
+(EUGENE)
+
+205
+
+## Motif de decoration pour un plafond
+
+Ornements et arabesques entrelaces, a decor de feurs et de feuillages.
+
+Aquarelle.——Haut.:36 cm. 1/2;larg.:26 cm.
+
+## LHERMITTE
+
+(LEON)
+
+206
+
+Tete de femme
+
+Elle est vue de profil a droite, le cou decouvert, les cheveux noirs. Signe a droite, avec dedicace : a M. Dupont,L. Lhermitte.
+
+Dessin au fusain.—Haut.: 38 cm.;larg.:22 cm. 1/2.
+les mains croisees.
+
+## MANET
+
+(EDOUARD) (1832-1883)
+
+207
+
+## Etude pour l'Olympia
+
+La jeune femme, vue de profil, nue, la jambe gauche étendue, la jambe droite legerement relevee, s'appuie sur un coussin.
+
+Initiales E.M.,vers la droite.
+
+Dessin a la sanguine. -Haut.: 16 cm. 1/2;larg.:42 cm. 1/2.
+
+## MENZEL
+
+(A.VON) (1815-1905)
+
+208
+
+## Ouurier assis
+
+Il est assis, vu presque de face, les bras appuyes sur les genoux,
+
+Signe a gauche.
+
+N°63 du catalogue de la vente Duranty,28 janvier 1881.
+
+Dessin au crayon noir,-Haut.:2o cm.1/2; larg.:25 cm,
+## MILLET
+
+(JEAN-FRANCOIS)
+
+(1814-1875)
+
+209
+
+## Le Bouquet de marguerites
+
+Sur le rebord d'une fenetre, un gros bouquet de marguerites blanches s'épanouit dans un vase bleu, a cote duquel sont poses une pelote a épingles et des ciseaux.
+
+Dans le fond, a demi cachee par les feurs, apparait la tete d'une jeune fille.
+
+Signe a gauche.
+
+N12 du catalogue de la vente Gavet,fevrier 1875.
+
+N° 104 du catalogue de l'Exposition J.-F. Millet a 1'Ecole des Beaux-Arts, Paris, 1887.
+
+N"423 du catalogue de 1Exposition centennale de 1'Art francais, 1889.
+
+Pastel.-Haut.:67 cm.;larg.:8ocm.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+210
+
+## Vue du Puy de Dome
+
+Des terrains vallonnes s'étendent au premier plan. Au fond, on apercoit le Puy de Dome dont le sommet est cache par des nuages a travers lesquels apparait le soleil.
+
+Signe a droite.
+
+No108 du catalogue de lExposition J.-F.Millet a lEcole des Beaux-Arts,Paris,
+
+N88 du catalogue de la vente Gavet,fevrier 1875.
+
+1887.
+
+N 1185 du catalogue de 1Exposition centennale de l'Art francais, 1goo.
+
+Pastel.-Haut.:47 cm.; larg.:61 cm.
+## MILLET
+
+(JEAN-FRANCOIS)
+
+211
+
+## Phcebus et Boree
+
+Au bord de la mer, un homme a cheval, enveloppe dans un grand manteau, avance peniblement contre le vent. Au fond, a droite, une éclaircie dans le ciel.
+
+Signe a droite.
+
+N°45 du catalogue de la vente De Knyff,22 mars 1877.
+
+N°557 du catalogue de la vente Th.Rousseau,25 avril 1868.
+
+N°41g du catalogue de 1'Exposition centennale de 1Art francais,188g.
+
+N1184 du catalogue de 1'Exposition centennale de lArt francais, 1gco, sous le titre:Le Voyageur.
+
+No116 du catalogue de 1Exposition J.F. Millet a 1Ecole des Beaux-Arts, Paris, 1887.
+
+Pastel.-Haut.:33 cm.;larg.:46 cm.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+212
+
+## Bergeres se chauffant
+
+Deux bergeres encapuchonnees se chauffent a un feu de broussailles; l'une, de profil, assise sur une motte de terre, tend les mains vers la famme, tandis que l'autre, vue de dos, s'appuie sur un baton et regarde le foyer. Dans le fond du paysage, des moutons sont en train de paitre.
+
+Signe a droite.
+
+N 114 du catalogue de 1Exposition J.-F. Millt a 1Ecole des Beaux-Arts, 1887. No 1183 du catalogue de1Exposition centennale de l'Art francais, 1goo.
+
+Dessin au crayon noir, rehausse de pastel.-Haut.: 3o cm.; larg.: 37 cm.
+## MILLET
+
+(JEAN-FRANCOIS)
+
+213
+
+## Paysan rentrant du fumier
+
+A gauche, un mur ou s'ouvre une porte dont un paysan franchit le seuil, en poussant devant lui une brouette pleine de fumier.
+
+Au fond, une femme, suivie de quelques moutons, conduit un cheval charge de sacs.
+
+Signe a droite,
+
+Aquarelle,--Haut.:24cm.;larg.:31 cm,
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+214
+
+## Daphnis et Chloé
+
+Assis sur un tertre,au pied d'un terme de Priape, Daphnis tient un nid rempli de jeunes oiseaux auxquels Chloe, agenouillee, donne la becquee.
+
+Initiales J.F.M.,a droite.
+
+N6o du catalogue de la venteJ.-F.Millet,1o mai 1875.
+
+Premiere idee du tableau:Daphnis et Chloe (le Printemps) execute par l'artiste
+
+N76 du catalogue de 1'Exposition J.-F. Millet a lEcole des Beaux-Arts, Paris, 1887.
+
+pour lhotel de M.Thomas, duc de Bojano, et decrit dans l'Euvre de J.F. Millet, par A.Sensier,page286.
+
+Dessin au crayon noir,rehausse de pastel.-Haut.:34 cm.; larg.: 1g cm,
+## MILLET
+
+(JEAN-FRANCOIS)
+
+215
+
+## Paysage
+
+Abritees par quelques arbres, des chaumieres bordent la droite d'un champ dont les terrains descendent en pente legere vers le premier plan.
+
+Initiales J. F. M., a gauche.
+
+Dessin a la piume, rehausse d’aquarelle. -Haut.:1g cm.;larg.:25 cm. 1/2.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+216
+
+## Le Prieuré de Vauville (Manche)
+
+Au premier plan, un repli de terrain; dans le fond, une barriere et un mur au dela duquel on apercoit une chapelle et des toits.
+
+A droite,l'inscription:Prieure de Vauville. A gauche,cachet de la vente Millet. N11o du catalogue de la vente J.-F. Millet, 1o mai 1875.
+
+Dessin a la plume, legerement rehausse de pastel et d’aquarelle.
+
+Haut.:17 cm.;larg.:24cm.
+## MILLET
+
+(JEAN-FRANCOIS)
+
+217
+
+## Paysage
+
+Au premier plan, un champ limite dans le fond, a droite, par un coteau.
+
+A gauche, dans un repli de terrain, les maisons d'un village qu'abritent de grands arbres.
+
+Initiales J. F. M., a gauche. Vente J.-F.Millet,10mai 1875.
+
+Dessin rehausse d’aquarelle.—Haut.:1g cm.;larg.:28 cm.1/2.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+218
+
+## Ferme du Lot, pres Carteret (Manche)
+
+Abrites par de grands arbres, les batiments d’une ferme bordent la route qui va en s'elargissant vers le premier plan.
+
+Initiales J. F. M., a gauche. Vente J.-F.Millet,10 mai 1875.
+
+Dessin a la plume, rehausse de lavis et de crayon de couleur.
+
+Haut.:17 cm.;larg.:25 cm.
+## MILLET
+
+(JEAN-FRANCOIS)
+
+219
+
+## Enuirons de Greville
+
+Au premier plan, une cour interieure limitee au fond par une maison a tourelle que rejoignent les batiments d'une ferme.
+
+Initiales J. F. M.,a droite. Vente J.-F.Millet,10 mai 1875.
+
+Dessin a la plume,rehausse de lavis.—Haut.:17 cm.; larg.:25 cm.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+220
+
+## Le Fond d’une vallee
+
+Dans une vallee limitee a gauche par une montagne, un torrent est borde a droite par un bois de sapins.
+
+Initiales J. F. M., a gauche.
+
+Dessin a la plume,rehausse d’aquarelle.-Haut. :10 cm.1/2;larg.:16 cm.
+## MILLET
+
+(JEAN-FRANCOIS)
+
+221
+
+## Offrande a Pan
+
+Des jeunes filles et des enfants enguirlandent un buste de Pan et lui apportent leurs offrandes; au premier plan a droite,une femme nue trait une chevre.
+
+Initiales J.F.M.,a gauche.
+
+N° 174 du catalogue de 1'Exposition J.-F. Millt a 1Ecole des Beaux-Arts, Paris, 1887.
+
+Dessin au crayon noir.-—Haut.:33 cm.;larg.:2o cm,
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+222
+
+## Le Cantonnier
+
+La pipe a la bouche,il est assis sous une claie dans la foret, et bat le briquet. A ses cotes, sa brouette, sa gourde, sa pelle et sa pioche.
+
+Signe a droite.
+
+N158 du catalogue de l'Exposition J.-F. Millet a 1Ecole des Beaux-Arts, Paris, 1887.
+
+Dessin au crayon noir, rehausse de blanc,—Haut.:41 cm.; larg.: 3o cm,
+## MILLET
+
+(JEAN-FRANCOIS)
+
+223
+
+## Les Becbeurs
+
+Vus de profl vers la droite, deux laboureurs, ayant pose sur le sol leur veste et leur chapeau, se sont mis a l'ouvrage.
+
+Celui de gauche enfonce sa beche qu'il pousse du pied, tandis que l'autre retournela terre.
+
+Initiales J. F. M.,a droite.
+
+N195 du catalogue de la vente J.-F.Millet, 1o mai 1875.
+
+N°1i82 du catalogue de I'Exposition centennale de lArt francais, 1goo.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+224
+
+## L'Entree de la foret a Barbizon
+
+Au premier plan, la route est couverte de neige. A gauche, un chas- seur passe avec son chien.
+
+Dans le fond, l'entree de la foret au-dessus de laquelle planent quelques corbeaux.
+
+Initiales J. F. M.,a droite.
+
+No 26o du catalogue de la vente Sensier, 8 decembre 1877.
+
+N16g du catalogue de lExposition J.-F.Millet a l'Ecole des Beaux-Arts, Paris, 1887.
+
+Dessin au crayon noir.-Haut.:2g cm.; larg.: 23 cm.
+## MILLET
+
+(JEAN-FRANCOIS)
+
+225
+
+## Bergere appuyee sur son baton
+
+Une bergere, en grand manteau a capuchon releve, est adossee contre un arbre, les mains appuyees sur son baton et garde les mou- tons qu'on apercoit a gauche.
+
+Initiales J.F. M.,a droite.
+
+N°18o du catalogue de I'Exposition J.-F. Millet a l'Ecole des Beaux-Arts, Paris,
+
+N° 12g du catalogue de la vente J.-F. Millet, 1o mai 1875.
+
+1887.
+
+N°1181 du catalogue de l'Exposition centennale de 1Art francais, 19oo.
+
+N42o du catalogue de l'Exposition centennale de l'Art francais, 1889.
+
+Dessin au crayon noir.-Haut.: 32 cm.;larg.:2o cm.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+226
+
+## Portrait de Madame J.-F. Millet
+
+Assise, elle est vue de profl, le buste et la tete presque de face, le coude gauche appuye sur le dossier de sa chaise.
+
+Initiales J. F. M., a droite.
+
+titre:Paysanne assise.
+
+N422 du catalogue de 1Exposition centennale de 1'Art francais, 1889, sous le
+
+Dessin au crayon noir.- Haut.:35 cm.;larg.:27 cm.
+## MILLET
+
+(JEAN-FRANCOIS)
+
+227
+
+## Le Vannier
+
+Il est assis a terre et tresse un panier. Derriere lui, dans la penom- bre, une femme accroche une corbeille au mur.
+
+Initiales J.F. M., a droite.
+
+N138 du catalogue de 1'Exposition J.-F. Millet a 1'Ecole des Beaux-Arts,Paris, 1887.
+
+Dessin au crayon noir. —Haut.:31 cm.;larg. :22 cm.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+228
+
+## Bucherons liant des fagots dans la foret
+
+Au premier plan, dans la foret, une paysanne traine des fagots. Dans le fond, deux hommes lient le bois qu'ils viennent de ramasser.
+
+Initiales J. F.M., a gauche.
+
+N135 du catalogue delExposition J.-F. Millet a 1'Ecole des Beaux-Arts, Paris, 1887.
+
+N°261 du catalogue de la vente Sensier, 8 decembre 1877.
+
+N°118o du catalogue de lExposition centennale de l'Art francais,1goo.
+
+Dessin au crayon noir.—Haut.:29 cm.; larg.:48 cm.
+## MILLET
+
+(JEAN-FRANCOIS)
+
+229
+
+## La Fuite en Egypte
+
+Dans la nuit, sous le ciel etoile,la Vierge accompagne Saint Joseph, portant dans son manteau l'enfant Jesus.
+
+Signe a gauche.
+
+N421 du catalogue de l'Exposition centennale de l'Art francais,1889.
+
+NI26 du catalogue de lExposition J.-F. Millet a IEcole des Beaux-Arts, Paris, 1887.
+
+Dessin au crayon noir. -Haut.: 25 cm.; larg.: 32 cm. 1/2.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+230
+
+## La Sainte Face
+
+La tete du Christ, couronnee d’épines, est vue de face.
+
+Vers le milieu,l'inscription: Sainte Face. Signe a droite.
+## MILLET
+
+(JEAN-FRANCOIS)
+
+231
+
+## Paysanne
+
+Adossee contre une meule, une paysanne se repose.
+
+Initiales J.F.M.,a gauche.
+
+1887.
+
+N°168 du catalogue de I'Exposition J.-F. Millet a 1'Ecole des Beaux-Arts, Paris,
+
+Dessin au crayon noir.—Haut.:33 cm.; larg.:26 cm.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+232
+
+## Le Repos des moissonneurs
+
+A lombre d’un bouquet d’arbres,un moissonneur se repose pres de deuxfemmes assises.
+
+Sur le sol, a gauche, un rateau; a droite, des faucilles.
+
+Dans le fond, une charrette chargee de gerbes.
+
+Initiales J.F.M., a droite.
+
+N 16o du catalogue de lExposition J.-F. Millet a l'Ecole des Beaux-Arts, Paris,
+
+N25g du catalogue de la vente Sensier,8 decembre 1877.
+
+1887.
+
+Dessin au crayon noir. —Haut.:22 cm,; larg.:35 cm. 1/2.
+## MILLET
+
+(JEAN-FRANCOIS)
+
+233
+
+## Saint Jerome
+
+Le Saint, tourne vers la gauche, est assis et contemple un crane qu'il tient entre ses mains.
+
+Initiales J. F. M.,a droite. No3g du catalogue de la vente Tillot,14 mai 1887. Reproduit dans  Eure de JF.Millet,par A. Sensier,page 89.
+
+Dessin a la sanguine.—Haut.:27 cm.;larg.:2o cm.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+234
+
+## Femme vue de dos
+
+Elle est assise, les jambes repliees, la tete appuyee sur les bras.
+
+Initiales J. F.M., a gauche. N41 du catalogue de la vente Tillot, 14 mai 1887. N°418 du catalogue de 1'Exposition centennale de 1'Art francais, 1889.
+
+Dessin au crayon noir.-Haut.:26 cm.;larg.:1g cm,
+## MILLET
+
+(JEAN-FRANCOIS)
+
+235
+
+## Etude de nu
+
+Une femme nue est couchee sur un lit, le bas des jambes sous les draps, le bras gauche autour de la tete, le bras droit allonge.
+
+Initiales J.F.M.,a droite.
+
+1887.
+
+N° 148 du catalogue de lExposition J.F.Millet a 1Ecole des Beaux-Arts, Paris,
+
+Dessin au crayon noir.—Haut.:15 cm.1/2; larg.:28 cm. 1/2.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+236
+
+## Ane portant des paniers
+
+Vu de trois quarts, tourne vers la gauche, il porte sur le dos un bat avec deux paniers.
+
+Initiales J.F.M.,a droite.
+
+Dessin au crayon noir.-Haut.: 1g cm.;larg.: 17 cm
+## MILLET
+
+(JEAN-FRANCOIS)
+
+237
+
+## L'Adoration des Mages
+
+D'apres le tableau de Ribera (Musee du Louvre).
+
+Dessin au crayon noir rehausse de blanc, execute en 1843, pour le graveur Lechard. Haut.:38cm.1/2;1arg.:29 cm.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+238
+
+## Lisiere de foret
+
+Au premier plan, a gauche, une route conduisant a l'entree d'une foret,vers laquelle se dirige une femme,un fagot sur le dos.Dans le ciel, quelques nuages blancs.
+
+Signe a droite.
+
+Dessin au crayon noir, rehausse de blanc.- Haut.: 22 cm.; larg.: 23 cm,
+## MILLET
+
+(JEAN-FRANCOIS)
+
+239
+
+## Dessin pour les euures de Fenimore Cooper
+
+Dans la foret, les trappeurs surprennent un camp de Peaux-Rouges et delivrent des captives.
+
+Signe a gauche.
+
+N°176 du catalogue de l'Exposition J.-F. Millet a 1'Ecole des Beaux-Arts,Paris, 1887.
+
+Dessin fait par l'artiste pour Bodmer, le paysagiste graveur.
+
+Dessin au crayon noir.-Haut.:37 cm.;larg.:5o cm.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+240
+
+## Dessin pour  Le Lac Ontario
+
+par Fenimore Cooper
+
+Au premier plan, un blesse qu'un homme souleve dans ses bras; a droite, devant un bois, un Peau-Rouge vient de scalper un homme etendu a ses pieds; a gauche, une maison avec des tirailleurs.
+
+Signe a gauche. Collection Bodmer.
+
+N° 177 du catalogue de Exposition J.-F.Millet a l'Ecole des Beaux-Arts,Paris, 1887.
+## MILLET
+
+(JEAN-FRANCOIS)
+
+241
+
+## Paysage d'Auvergne
+
+La Roche de Moncau
+
+Au dela d’un champ se succedent, étagees, les ondulations d’un haut plateau.
+
+Initiales J.F.M.,a droite. A gauche des initiales,l'inscription:Roches de Moncau-La Plate.
+
+N°212 du catalogue de la vente Millet, 10 mai 1875.
+
+Dessin a la plume.-Haut.:1g cm.; larg.;2o cm,
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+242
+
+## Paysans piochant
+
+Sous le ciel lourd, charge d’orage, deux paysans sont en train de piocher. Dans le fond, passe une charrue trainee par deux chevaux. Initiales J. F. M., a droite.
+
+Dessin aux deux crayons,——Haut.;15 cm.;larg.:24 cm,
+ferme.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+## 243 Etude de nu
+
+Vue de dos, une femme nue se tient debout et met sa chemise.
+
+Initiales J. F. M., a droite.
+
+Dessin au crayon noir.-Haut.:31 cm.;larg.:23 cm.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+244
+
+## Paysage
+
+Au premier plan, a droite d'un buisson, deux grands pommiers dans un champ borde d'une haie, derriere laquelle on apercoit une
+
+Initiales J. F. M., a gauche.
+
+Dessin a la plume.-—Haut,:13 cm,;larg.:20 cm,
+## MILLET
+
+(JEAN-FRANCOIS)
+
+245
+
+## Le Repos des travailleurs
+
+Un terrassier fume sa pipe, assis a cote d'un de ses camarades; un troisieme, debout devant eux, s'appuie sur sa beche.
+
+Initiales J. F. M., a droite.
+
+N° 276 du catalogue de la vente Sensier,8 decembre 1877.
+
+Dessin au crayon noir,—Haut.:29 cm.;larg.:22 cm,
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+246
+
+## Homme assis
+
+Il est vu de face, coiffe d'un chapeau, les jambes ployees, les coudes sur les genoux.
+
+Initiales J. F. M.,a gauche.
+
+Dessin au crayon noir.-Haut.:22 cm.; larg.:1g cm. 1/2.
+## MILLET
+
+(JEAN-FRANCOIS)
+
+247
+
+## Paysage e avec meules
+
+Au premier plan, un champ moissonne; dans le fond, a droite, adossees a un bois, deux meules a lombre desquelles se reposent des paysans et des paysannes.
+
+Initiales J. F. M., a droite.
+
+Premiere idee du Paysage avec meules, n 241 du catalogue des tableaux anciens et modernes de la collection Henri Rouart, Paris, decembre 1g12.
+
+Dessin au crayon noir.—Haut.: 17 cm.;larg.:27 cm.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+248
+
+## Bergere appuyee sur un baton
+
+Elle est vue de face, le capuchon de son manteau ramene sur la tete, le menton pose sur ses mains appuyees sur un baton.
+
+Initiales J. F. M., a droite.
+
+Dessin au crayon noir.—Haut.:31 cm.; larg.: 20 cm.
+## MILLET
+
+(JEAN-FRANCOIS)
+
+249
+
+## Une fileuse
+
+Une paysanne, debout, tourne de sa main droite la roue d'un devidoir dont le fil passe dans sa main gauche. Dans le haut, etude de mains.
+
+Initiales J. F. M.,a gauche. Reproduit dans  Euure de JF.Millet,par A.Sensier,page 14
+
+Dessin a la mine de plomb.-Haut.:24 cm.;larg.:9 cm. 1/2.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+250
+
+## Femme accroupie
+
+Vue de face, la tete tournee vers la droite et appuyee sur le genou releve, le bras gauche écarte du corps.
+
+Initiales J. F. M., a gauche. Cachet de la vente,a gauche.
+
+Dessin au crayon noir.-Haut. :23 cm.;larg.: 15 cm.
+## MILLET
+
+(JEAN-FRANCOIS)
+
+251
+
+## Etude de femme
+
+Assise par terre et vue de profl a droite, une femme nue appuie sa tete sur le genou droit et pose ses deux mains sur l'autre.
+
+Initiales J. F. M.,a droite.
+
+Dessin au crayon noir.-Haut.:1g cm.;larg.:15 cm.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+252
+
+## Lisiere de foret
+
+Deux paysans travaillent dans un champ pres de la lisiere d'une foret.
+
+Initiales J. F. M., a droite.
+
+Dessin au crayon noir. -Haut.:21 cm.; larg.:29 cm.
+## MILLET
+
+(JEAN-FRANCOIS)
+
+253
+
+## Etudes de femmes
+
+Une femme nue,le bras gauche en avant et vue a mi-corps, porte une corbeille. A droite, une variante du meme sujet. Vers le milieu, un homme vu jusqu'a la ceinture et penche vers la gauche.
+
+Initiales J.F.M.,a droite. N277 du catalogue de la vente Sensier,8 decembre 1877
+
+Dessin au crayon noir.-Haut.:21 cm.;larg.:2g cm.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+254
+
+Un port de mer
+
+A droite, au bord de la mer, les maisons du port et un phare. Initiales J.F. M.a gauche.
+
+Dessin a la plume.-Haut.:g cm.;larg.:26 cm,
+## MILLET
+
+(JEAN-FRANCOIS)
+
+255
+
+## La Baratteuse
+
+Une paysanne est en train de baratter, son chat a cote d'elle.
+
+Dans le fond,des sacs et des jarres.
+
+Initiales J.F.M.,a droite.
+
+Dessin au crayon noir.-Haut.:16 cm.;larg.:12 cm.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+256
+
+## Bergere tricotant
+
+La jeune femme, vue debout, de trois quarts a gauche, un baton suspendu a son poignet droit, travaille a son tricot.
+
+Initiales J.F.M.a droite.
+
+Dessin au crayon noir.—Haut.:1g cm.;larg.:12 cm.1/2.
+## MILLET
+
+(JEAN-FRANCOIS)
+
+257
+
+## Trois Croquis
+
+- 1.—Dans la plaine, deux paysans se tiennent pres d'un bouquet d'arbres.
+
+II. —— Effet de soir.
+
+Dessin au crayon noir.—Haut.:8 cm.;larg.:13 cm.
+
+Initiales J. F.M.,a gauche.
+
+Dessin au crayon noir.—Haut.: 5 cm.;larg.:8 cm.
+
+IIl.Effet d'hiver; une plaine, et, dans le fond, des arbres et des toits.
+
+Dessins au crayon noir.
+
+Haut.:7 cm.1/2;larg.:12 cm.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+258
+
+## Les Premiers Pas
+
+Un paysan accroupi tend Tes bras a un enfant qu'une femme essaye de faire marcher.
+
+Initiales J.F.M.,a droite.
+
+Dessin au crayon noir.—Haut. : 13 cm.;larg.: 1g cm.
+## MILLET
+
+(JEAN-FRANCOIS)
+
+259
+
+## Satyre et jeune berger
+
+Un satyre apprend a jouer de la fute a un jeune enfant nu.
+
+Dessin a la mine de plomb.-Ovale.—Haut.:13 cm.; larg.:1o cm.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+260
+
+Paysanne assise
+
+Elle est vue de trois quarts, la tete de face.
+
+Initiales J.F.M.,a droite.
+
+Dessin au crayon noir.-Haut.:2o cm.1/2; larg.: 13 cm.
+## MILLET
+
+(JEAN-FRANCOIS)
+
+261
+
+## Enfant endormi dans les champs
+
+Il est blotti dans la paille, la tete appuyee sur le bras gauche. Initiales J. F. M., a droite.
+
+Dessin au crayon noir.—Haut.:18 cm.; larg.: 25 cm.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+262
+
+## Trois s Paysages
+
+I.—Effet de soir : le retour des champs.
+
+Dessin au crayon noir.-Haut. : 7 cm. 1/2; larg.: 1g cm.
+
+Il.-—Bords d’une riviere.
+
+Initiales J.F.M.,a gauche.
+
+Dessin au crayon noir.-Haut.:5 cm.;larg.: 8 cm.
+
+III. -- Etude de collines.
+
+Initiales J. F.M.,a droite.
+
+Dessin au crayon noir. -Haut. :14 cm.; larg.:24 cm.
+## MILLET
+
+(JEAN-FRANCOIS)
+
+263
+
+## Paysanne. Paysans endormis
+
+I.— Paysanne en bonnet et vue de profil a droite.
+
+Initiales J. F. M.,a droite.
+
+Reproduit dans  Euure de J.F. Millet, par A. Sensier, page 355.
+
+Dessin au crayon noir.—Haut.:14 cm.;larg.:16 cm.
+
+II.—— Paysans endormis; I'homme etendu sur le dos, a cote de lui, sa femme, la tete sur son epaule.
+
+Initiales J. F.M., a droite.
+
+Dessin au crayon noir.-—Haut.: 1o cm. 1/2;larg.: 15 cm. 1/2.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+264
+
+## Le Retour des Champs
+
+(Etude pour l'eau-forte du meme sujet)
+
+Sa journee finie,un paysan, sa fourche sur lpaule,rentre au logis avec sa femme qui marche devant lui.
+
+Initiales J. F. M., a gauche.
+
+Dessin au crayon noir.-Haut.:23 cm. 1/2;larg.:2o cm.1/2
+## MILLET
+
+(JEAN-FRANCOIS)
+
+265
+
+Le Depart pour le travail
+
+Eau-forte -Haut.:38 cm.1/2;larg.:31 cm.
+
+## MILLET
+
+(JEAN-FRANCOIS)
+
+266
+
+La Grande Bergere
+
+Eau-forte.-Haut.:31 cm.1/2;larg.23 cm.1/2.
+## MORISOT
+
+(BERTHE) (1841-1895)
+
+267
+
+## Femme et Enfants au bord de la mer
+
+Pres d’une femme en deuil assise sur la plage et vue presque de face, deux fillettes jouent dans le sable.
+
+Dans le fond, sur la mer, des barques a voiles.
+
+Signe a droite.
+
+N 12og du catalogue de l'Exposition cen ennale de l'Art francais, 1goo.
+
+Aquarelle.-Haut.:16 cent.;larg.:12 cm.
+
+## PISSARRO
+
+(CAMILLE) (1830-1903)
+
+268
+
+## Route a la sortie d’un village
+
+Au bord d’une route ou circulent des promeneurs, une eglise dont la tour se detache sur le ciel charge de neige.
+
+A droite, une rangee de maisons.
+
+Signe a gauche.
+
+Aquarelle gouachee.-Haut.:1g cm.;larg.:24 cm.
+## POUSSIN
+
+(NICOLAS) (1594-1665)
+
+269
+
+## Mars et Venus
+
+Entoures d'amours,le dieu et la deesse se reposent sur des coussins, au pied d'un arbre, a cote duquel on apercoit un grand vase sculpte, a decor d'arabesques.
+
+Signe a droite.
+
+Dessin a la plume,rehausse de sepia.-Haut.:45 cm.; larg.:35 cm.
+
+## PRUD'HON
+
+(PIERRE) (1758-1823)
+
+270
+
+## L'Ame brisant les liens
+
+## qui l'attachent a la terre
+
+Vue de profil a gauche, une femme nue et ailee s'envole, les bras tendus vers le ciel.
+
+A ses pieds,a droite, un serpent au milieu des vapeurs jaillissant de la terre.
+
+A droite, cachet de la vente Boisfremont.
+
+N°213 du catalogue de l'Exposition Prud'hon a l'Ecole des Beaux-Arts, Paris,
+
+N° 18 du catalogue de la vente de Boisfremont, g avril 1870.
+
+1874.
+
+Dessin aux deux crayons.—Haut.:42 cm.;larg.:32 cm.
+## PRUD'HON
+
+(PIERRE)
+
+271
+
+## Femme debout, appuyee sur une rame
+
+La tete tournee vers le spectateur,une femme nue est vue debout, de profil a gauche,la jambe ployee, le bras gauche tendu et legerement
+
+écarte du corps.
+
+N°46 du catalogue de la venteBoisfremont, 9 avril 1870.
+
+1874.
+
+N°1252 du catalogue de 1'Exposition centennale de lArt francais, 19oo.
+
+Dessin aux deux crayons.——Haut.:62 cm.;larg.:41 cm.
+
+## PRUD'HON
+
+(PIERRE)
+
+272
+
+## Jeune fille
+
+Elle est vue de profil a droite, la tete couverte d'un chale d'ou s'échappent quelques meches de cheveux.
+
+Dessin a la plume,rehausse de sepia.-Haut.: 10 cm.; larg.:13 cm.
+## PRUD'HON
+
+(PIERRE)
+
+273
+
+## Baigneuse
+
+Les pieds dans l'eau et assise sur un rocher, elle arrange ses cheveux.A cote d'elle, a gauche, un amour.
+
+Dessin aux deux crayons.--Haut.:21 cm;larg.:15 cm.
+
+## PRUD'HON
+
+(PIERRE)
+
+274
+
+## Etude de tete
+
+Un homme est vu de face, la tete legerement inclinee vers l'epaule droite, les cheveux ondules, la barbe frisée et courte.
+
+Dessin aux deux crayons.—Haut.:13 cm.;larg.:9 cm.
+## PRUD'HON
+
+(PIERRE)
+
+275
+
+## Trois Portraits
+
+I. — Un homme assis, vu de profil a droite.
+
+Dessin aux deux crayons. ——Haut.: 4 cm. 1/2;larg.: 3 cm. 1/2.
+
+II.—Madame Jarre, assise, vue a mi-corps et presque de face. Dessin aux deux crayons.-Haut.:1o cm.;larg.:8 cm.
+
+III.- Pres d’une fenetre, un homme vu de profil a gauche.
+
+N13 du catalogue de la vente Boisfremont, 9 avril 1870.
+
+Dessin aux deux crayons.——Haut.:4 cm.1/2; larg.:3 cm.1/2.
+
+## PUVIS DE CHAVANNES
+
+(PIERRE)
+
+(1824-1898)
+
+276
+
+## La Famille du pecheur
+
+Au premier plan, a gauche, une femme assise, le torse nu, les jambes drapees dans une etoffe bleue, soutient un enfant qui cherche a marcher. A droite, un vieillard est couche sur le sol. Plus loin, au bord de la mer, un pecheur suspend un filet a un arbre.
+
+Dans le haut,a droite,la dedicace:A W.Thornley,cordialement,P.Puvis de C.
+
+Premiere pensee du tableau du Musee de Dresde.
+
+Aquarelle.Haut,:12 cm.; larg.:10 cm. 1/2.
+## PUVIS DE CHAVANNES
+
+(PIERRE)
+
+277
+
+## Torse de femme
+
+Nue, les bras ramenes derriere le dos,la tete de profil a droite et legerement inclinee, une jeune femme est vue a mi-corps, les cheveux tombant sur les épaules.
+
+Dans le haut, a droite,une tete de cheval.
+
+A gauche,la dedicace:A W. Thornley,cordialement,P.Puvis de C. Dessin pour le tableau:La Guerre(Musee de Picardie,a Amiens).
+
+Haut.:36 cm.;larg.:22 cm.
+
+## PUVIS DE CHAVANNES
+
+(PIERRE)
+
+278
+
+## La Vigilance
+
+Elle est representee sous les traits d'une femme en costume antique, debout sur un promontoire au bord de la mer, et tenant dans la main droite une lampe allumee.
+
+Signe a droite,avec inscription:α La Vigilance 》.
+
+Dessin a la sanguine.-Haut.:25 cm.;larg.:g cm.1/2.
+## ROUSSEAU
+
+(THEODORE)
+
+(1812-1867)
+
+279
+
+## Fermes sous bois
+
+Au premier plan, un chemin conduit a des maisons basses, a toits de chaume, qu'abritent de grands arbres.
+
+A droite, cachet de la vente Th.Rousseau.
+
+Aquarelle.——Haut.: 11 cm. 1/2; larg.: 19 cm. 1/2.
+
+## ROUSSEAU
+
+(THEODORE)
+
+280
+
+## Les Bles
+
+Un chemin traverse un champ de ble. Dans le fond du paysage, des arbres et des maisons.
+
+A gauche, cachet de la vente Th. Rousseau.
+
+Aquarelle.-Haut.:9 cm.1/2;larg.:16cm.
+## ROUSSEAU
+
+(THEODORE)
+
+281
+
+## Paysage
+
+A droite, la lisiere dun bois ou les teintes de lautomne apparaissent deja parmi la verdure. Au centre et a gauche, une clairiere que traverse un etroit sentier, pres de quelques blocs de rochers.
+
+A gauche,cachet de la vente Th. Rousseau,
+
+Aquarelle.——Haut.:13 cm.;larg.:2o cm.1/2.
+
+## ROUSSEAU
+
+(THEODORE)
+
+282
+
+## Le Grand Chene
+
+Au premier plan, un grand chene; a gauche, sous les arbres, des maisons basses et des huttes recouvertes de chaume.
+
+A droite, cachet de la vente Th.Rousseau.
+
+N13o2 du catalogue de 1'Exposition centennale de lArt francais, 1goo, sous le titre:Dans les landes.
+
+N133 du catalogue de la vente Hadengue-Sandras, 2 fevrier 188o.
+
+Dessin au crayon noir. —Haut.:5o cm.; larg.: 64 cm.
+## ROUSSEAU
+
+(THEODORE)
+
+283
+
+## Les Bords de la Seine, pres Melun
+
+Le fleuve coule dans une large vallee limitee par de vastes prairies ou paissent des vaches.
+
+N248 du catalogue de la vente Th.Rousseau, 25 avril 1868.
+
+N°518 du catalogue de 1Exposition centennale de 1Art francais, 1889, ou ce dessin était catalogue par erreur sous le titre ( Plaine avec canal dans les Landes ）.
+
+Dessin a la plume.-Haut.:22 cm.;larg.:28 cm.
+
+## ROUSSEAU
+
+(THEODORE)
+
+284
+
+## Chenes dans la foret de Fontainebleau
+
+(Gorges d’'Apremont)
+
+Au premier plan,une clairiere,bordee, par des chenes qui ferment le fond du paysage.
+
+A droite,cachet de la vente Th.Rousseau.
+
+Dessin a 1'encre de Chine, rehausse de sepia.—Haut.: 16 cm.; larg.:24 cm.
+## ROUSSEAU
+
+(THEODORE)
+
+285
+
+## Arbres et rocbers dans la foret de Fontainebleau
+
+Au premier plan, une clairiere; plus loin, des arbres, des rochers et des buissons.
+
+A droite,cachet de la vente Th.Rousseau.
+
+Dessin a la mine de plomb, rehausse de sepia -Haut.:18 cm.; larg. 2o cm. 1/2.
+
+## ROUSSEAU
+
+(THEODORE)
+
+286
+
+## Le Long Rocher dans la foret de Fontainebleau
+
+Des coteaux limitent le fond d'une plaine vallonnee.
+
+A gauche, cachet de la vente Th.Rousseau.
+
+Dessin a 1encre de Chine.--Haut.:2o cm.;larg.:27 cm,
+## ROUSSEAU
+
+(THEODORE)
+
+287
+
+## Pommiers de la Belle-Marie
+
+(Pres Barbizon)
+
+Des pommiers sont dissemines dans une prairie parsemee de rochers.
+
+Dans le fond, un village.
+
+A gauche, cachet de la vente Th.Rousseau. N 351 du catalogue de la vente Th.Rousseau, 25 avril 1868. No318 du catalogue de la vente Sensier, 1o decembre 1877.
+
+Dessin a ia plume, rehausse de lavis.Haut. : 1o cm. 1/2;larg.: 13 cm. 1/2.
+
+## ROUSSEAU
+
+(THEODORE)
+
+288
+
+## Le Mont Blanc, vu du Col de la Faucille
+
+Au premier plan, a droite, une route cotoie les sommets. Plus loin, au dela d''une vallee, la chaine des montagnes.
+
+A droite, cachet de la vente Th. Rousseau.
+
+N° 4g du catalogue de la vente Tillot, 14 mai 1887.
+
+Dessin a la mine de plomb.-Haut.:23 cm.;larg.:3o cm,
+## ROUSSEAU
+
+(THEODORE)
+
+289
+
+## Paysage
+
+Une grande plaine s'etend a l'horizon jusqu'au pied des montagnes. Quelques nuages dans le ciel.
+
+A droite,cachet de la vente Th.Rousseau.
+
+Dessin a la plume.-Haut.:13 cm.;larg.:2o cm.
+
+## ROUSSEAU
+
+(THEODORE)
+
+290
+
+## Paysage
+
+Au premier plan, un chemin borde d'arbres et de buissons. Dans le fond, un clocher de village.
+
+A gauche, cachet de la vente Rousseau.
+
+Dessin au fusain.-Haut.:26 cm.;larg.:3o cm.
+## TASSAERT
+
+(OCTAVE)
+
+(1807-1874)
+
+291
+
+## Tete de jeune fille
+
+Elle est vue de profl a gauche, coiffee d’un large ruban noir, les cheveux nattes tombant sur la joue.
+
+Signe vers la droite.
+
+Dessin aux trois crayons.—Haut. :37 cm. 1/2;larg.:28 cm.1/2.
+
+## TASSAERT
+
+(OCTAVE)
+
+292
+
+## Pauures enfants
+
+Une femme et une petite fille sont assises, epuisees, au seuil d'une porte; la petite fille appuie sa tete sur les genoux de la femme.
+
+Signe a gauche.
+
+Cite dans : Octave Tassaert, par Bernard Prost, n° 429, page 56.
+
+Dessin a la sanguine.—Haut.:34 cm.;larg.:25 cm.
+## TIEPOLO
+
+(DOMINIQUE) (1726-1795)
+
+293
+
+## La Trinite
+
+Au pied de la Croix, au milieu des anges, Dieu le Pere tient dans ses bras le Christ nu et couronne d'epines. Au-dessus d'eux, plane le
+
+Saint-Esprit, sous la forme d’'une colombe.
+
+Signe a gauche.
+
+Dessin a la sepia,——Haut.:24 cm.;larg.:1o cm.1/2.
+
+## TIEPOLO
+
+(DOMINIQUE)
+
+294
+
+## Centaure enlevant une femme
+
+A gauche, un Centaure galope avec une femme en croupe. A droite, un enfant se presse contre un vieillard qui tend les bras vers le ravisseur. Dans le ciel,un amour ailé.
+
+Signe vers le milieu.
+
+Dessin a la sepia.Haut.:25 cm.;larg.:29 cm.
+## TIEPOLO
+
+(DOMINIQUE)
+
+295
+
+## Centaure et Femme
+
+Un Centaure accroupi tient une femme entre ses bras.Au-dessus de leurs tetes, volent deux amours.
+
+Signe a droite.
+
+Dessin a la sepia,-Haut.:24 cm.;larg.:3o cm.
+
+## VIGEE
+
+(LOUIS)
+
+(Exposa au Salon entre 175o-1760)
+
+296
+
+## Portrait d'homme
+
+Assis et vu a mi-corps de trois quarts a droite, les cheveux poudres, l'habit gris, le col et la cravate de mousseline blanche, la main droite passee sous l'habit deboutonne, son chapeau sous le bras gauche.
+
+N° 1o6 du catalogue de la vente Marcille, 6 mars 1876.
+
+Pastel.-—Haut.:64 cm.1/2;larg.:54 cm,
+## VILLEVIEILLE
+
+(LEON) (1826-1863)
+
+297
+
+## Paysage
+
+Au premier plan, pres d'une barque, deux vaches viennent se desalterer a la riviere.A droite,un rideau d'arbres.
+
+Signe a gauche.
+
+Dessin au crayon noir.-Haut.:16 cm.;larg.:15 cm.
+## TABLE DES REPRODUCTIONS
+
+|                                                                                         | N.du catalog.   | Pages.   |
+|-----------------------------------------------------------------------------------------|-----------------|----------|
+| BARyE.—Panthere noire.                                                                  |                 |          |
+| BARYE.—Tigre..                                                                          | 2               | 4        |
+| CAssATT (Mary).—Jeune femme tenant un enfant dans ses bras.                             | I4              |          |
+| CoRor.—La Cathédrale de Chartres..                                                      | 16              |          |
+| CoRor.——A Castel-Saint-Elie.. CoRor.—Femme nue....                                      | I7 18           | I2       |
+| DAUMIER.—La Parade foraine..                                                            | 31              | 18       |
+| DAUMIER.La Gare Saint-Lazare. DAUMIER.- Au theatre...                                   | 32 33 34        |          |
+| DAUMIER.——Le Concert...                                                                 | 40 43           | 20       |
+| DAUMIER.——Au bal masqué.                                                                |                 | 24       |
+| DAUMIER.—Al'audience.. -Avocats et accuses..                                            |                 | 28       |
+| DAUMIER.—                                                                               | 50              |          |
+| DAUMIER.—Apollon et Minerve..                                                           | 51              | 30       |
+| DEGAs.—Chez la modiste.... DEGAs.— Au cafe-concert, la chanson du chien.                | 04 71           | 38       |
+| DEGAs.—Danseuses sur la scene.                                                          | 72 73           |          |
+| DEGAS.- Danseuse sortant de sa loge...                                                  |                 |          |
+| DEGAS.- Dans les coulisses..                                                            | 74              | 40       |
+| DEGAS.- Danseuse au repos..                                                             | 75              |          |
+| DEGAS.— Danseuse.. DEGAs.—Portrait de Madame X.....                                     | 76              | 42       |
+|                                                                                         | 77              |          |
+| DELACROIX. Soldat de la garde de l'empereur du Maroc. DELACROIX. Un seigneur venitien.. | 79              | 44       |
+| DELACROIX. — Marocain assis...                                                          | 80              |          |
+|                                                                                         | 85              | 46       |
+| DELACROIX.— Marphise.... DELAcRoIx.—Un Arabe..                                          | 86              |          |
+|                                                                                         | 96              | 50       |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         | No du catalog.   | Pages.   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|----------|
+| DELACROIX.——Etude...                                                                                                                                                                                                                                                                                                    | DELACROIX.——Etude...                                                                                                                                                                                                                                                                                                    | 132              | 68       |
+|                                                                                                                                                                                                                                                                                                                         | GELEE (Claude).——Le Passage du troupeau..                                                                                                                                                                                                                                                                               | 156              | 80       |
+| GovA.——Caprices.....                                                                                                                                                                                                                                                                                                    | GovA.——Caprices.....                                                                                                                                                                                                                                                                                                    | 157              | 82       |
+| GUARDI.——Vue deVenise..                                                                                                                                                                                                                                                                                                 | GUARDI.——Vue deVenise..                                                                                                                                                                                                                                                                                                 | 165              | 86       |
+| INGREs.—Portrait de M.Alaux..                                                                                                                                                                                                                                                                                           | INGREs.—Portrait de M.Alaux..                                                                                                                                                                                                                                                                                           | 182              | 94       |
+| JoNGKIND.——Paysage aux environs de Rotterdam JoNGKIND.-La Plage de Sainte-Adresse...                                                                                                                                                                                                                                    | JoNGKIND.——Paysage aux environs de Rotterdam JoNGKIND.-La Plage de Sainte-Adresse...                                                                                                                                                                                                                                    | 189              |          |
+| LAGNEAU.——Portrait de vieillard                                                                                                                                                                                                                                                                                         | LAGNEAU.——Portrait de vieillard                                                                                                                                                                                                                                                                                         | 199              | I02      |
+| MILLET (J.-F.).——Le Bouquet de marguerites                                                                                                                                                                                                                                                                              | MILLET (J.-F.).——Le Bouquet de marguerites                                                                                                                                                                                                                                                                              | 209              |          |
+| MILLET (J.-F.).—Vue du Puy de Dome.. MILLET (J.-F.).—Phcebus et Borée..                                                                                                                                                                                                                                                 | MILLET (J.-F.).—Vue du Puy de Dome.. MILLET (J.-F.).—Phcebus et Borée..                                                                                                                                                                                                                                                 | 210 211          |          |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         | 188              | 98       |
+| MILLEr (J.-F.).—Le Prieuré de Vanville                                                                                                                                                                                                                                                                                  | MILLEr (J.-F.).—Le Prieuré de Vanville                                                                                                                                                                                                                                                                                  |                  | 108      |
+| MILLET (J.-F.).—Daphnis et Chloé.. MILLET (J.-F.).——Paysage...                                                                                                                                                                                                                                                          | MILLET (J.-F.).—L'Entrée de la foret a Barbizon                                                                                                                                                                                                                                                                         |                  | I14      |
+| MILLET (J.-F.).—Bergeres se chaufant.. MILLET (J.-F.).—Paysan rentrant du fumier                                                                                                                                                                                                                                        | MILLET (J.-F.).—Les Becheurs.                                                                                                                                                                                                                                                                                           |                  |          |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         | 2I2              |          |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         |                  | 1I0      |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         | 213              |          |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         | 214              |          |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         | 216              | II2      |
+|                                                                                                                                                                                                                                                                                                                         | ： MILLET (J.-F.).—Le Cantonnier.                                                                                                                                                                                                                                                                                        |                  |          |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         | 283 296          |          |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         | 215              |          |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         | 222 223          | 116      |
+| PoussIN.—Mars et Venus....                                                                                                                                                                                                                                                                                              | PoussIN.—Mars et Venus....                                                                                                                                                                                                                                                                                              | 224 225          |          |
+|                                                                                                                                                                                                                                                                                                                         | MILLET (J.-F.).—Portrait de Madame J.-F.Millet..                                                                                                                                                                                                                                                                        |                  |          |
+| MILLET (J.-F.).-Paysanne.....                                                                                                                                                                                                                                                                                           | MILLET (J.-F.).-Paysanne.....                                                                                                                                                                                                                                                                                           | 226              |          |
+| MILLET (J.-F.).——Etude de nu...                                                                                                                                                                                                                                                                                         | MILLET (J.-F.).——Etude de nu...                                                                                                                                                                                                                                                                                         | 227 228          |          |
+| MILLEr (J.-F.).——Le Repos des moissonneurs.. MILLET (J.-F.).-—Femme vue de dos .. PRUD'HoN.——L'Ame brisant les liens qui 1'attachent a la terre.. PRUD'HoN.- Femme debout, appuyée sur une rame.. RoussEAU (Th.).——Le Grand Chene... RoussEAu (Th.).—Les Bords dela Seine,pres Melun .. VIGEE(Louis).—Portrait d'homme. | MILLEr (J.-F.).——Le Repos des moissonneurs.. MILLET (J.-F.).-—Femme vue de dos .. PRUD'HoN.——L'Ame brisant les liens qui 1'attachent a la terre.. PRUD'HoN.- Femme debout, appuyée sur une rame.. RoussEAU (Th.).——Le Grand Chene... RoussEAu (Th.).—Les Bords dela Seine,pres Melun .. VIGEE(Louis).—Portrait d'homme. |                  |          |
+| MILLEr (J.-F.).——Bucherons liant des fagots dans la foret MILLET (J.-F.).——La Fuite en Egypte..                                                                                                                                                                                                                         | MILLEr (J.-F.).——Bucherons liant des fagots dans la foret MILLET (J.-F.).——La Fuite en Egypte..                                                                                                                                                                                                                         |                  |          |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         | 229              |          |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         | 231              | 118      |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         | 232 234          |          |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         | 235              | 120      |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         | 267              | 136      |
+| MoRisor (Berthe).——Femme et Enfants au bord dela mer..                                                                                                                                                                                                                                                                  | MoRisor (Berthe).——Femme et Enfants au bord dela mer..                                                                                                                                                                                                                                                                  |                  |          |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         | 269              | 138      |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         |                  | 140      |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         | 270 271          |          |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         | 282              | 144      |
+|                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                         |                  | 150      |
+ANDREMARTY TRAVAUX D'IMPRESSION D'ART 20,RUE BERTRAND PARIS(VII)

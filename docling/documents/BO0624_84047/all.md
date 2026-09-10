@@ -1,0 +1,273 @@
+<!-- image -->
+
+L'Exposition publique des Euotes de la Collection de Mr le Chanoine B..., de Nancy, seta ouoette du 25 au 30 Aozil 1g11,de 1oheutes a5 heutes.
+
+L'Exposition paticuliere sut inoitations, les22,23et24Aozil
+
+Les Commissions setont tecues pat Mr Chatenay, Expert, qui se tiendta a la Galerie a la disposition des Visiteuts pendant la dutee de ces Expositions.
+
+Les acqueteuts ayant eu toute faculte d'examiner a loisit les Euotes qui setont vendues,aucune teclamation ne sera admise apres la yente.
+
+Lestableauxvendus devzont ette tetitesa la Galerie le lendemain de la oente de g heutes a 5 heutes,sut presentation du bordeteau paye au Commissaite Priseut.
+
+La Galetie d'Att se chatgeta de l'Expedition des tableaux a lexterieut aux risques des acheteuto,et a leuts frais.
+
+<!-- image -->
+
+L'Acheteur paiera 1o % en sus des encheres.
+
+<!-- image -->
+
+<!-- image -->
+## PROLOGUE
+
+<!-- image -->
+
+La Collection de Mr le Chanoine B.. de Nancy est une sotte de compilation de techerches eclaitees, de patients labeuts, de ttouvailles heuteuses.
+
+C'est, au couts de plus d'un demi-siecle, leffott atistique d'un homme de gout double d'un connaisseut aveti.
+
+Elle seleve a huit cento numecos envicons,
+
+- comprenant :Les Ecoles Italienne, Flamande, Hollandaise,Francaise,Espagnole,Anglaise,Allemande....
+
+Aptes bien des hesitations et non sans dechitement; avec ce tegtet, cette douleut speciale du vcai collectionneut, Mr le Chanoine B... se decide a se sepacet de ses chetes peintuces et veut bien chaagez la Galetie d'Att de la Place Stanislas de les ptesentet au gcand Public.
+
+- —Les Administtateuts de la Galetie d'Att se felicitent
+- jusqu'a ce jouz, seuls de cates ptivilegies fucent admis a admizet.
+
+La premiere Exposition, objet du present catalogue, se composeca de l'Ecole Frangaise qui compte suctout des Euvces des XVile et XVIlle siecles.
+
+<!-- image -->
+- N°1.-BAUDOIN (PIERRE)1723-1769,attribué a
+- Enfant endormi avec ses jouets (portant le n° 49 derriere) - H. 0 21, L.0.27.
+- N°2.-BOILLY (JULIEN-LEoPOLD),1796-1814, attribué a La Promenade (portant le n° 24 derriere) -H. o.32, L. o.40.
+- No 3.— BONNEMAISON (JuLEs DE), signé en bas a droite.
+
+L.0.53.
+
+- Paysan conduisant ses Beufs (portant le n° 27 derriere)- H. o.40,
+- N° 4.—BOQUET（PIERRE), forissait en 1810. Paysage avec Ruines (portant le n° 5o derriere) H. 0.45, L. o.62.
+- N5.—BOUCHER(Ecole de FRANCoIs).
+- Groupe de deux Amours artistes (portant le n 13 derriere)- H. o.66,
+
+L.0.97.
+
+2 Paysages sepia, signes C. BoURGEois, 1824-1812, portant der-
+
+- N°6.—BOURGEOIS(CHARLES),1759-1832 a（2 et briere les nos 67 et 68.
+- N°7.-BRUANDET(LAZARE),1754-1804. Interieur de Foret, signe a gauche, portant le n 63 - H. o. 53, L.o.64. Charmant paysage digne du Ruysdael Francais; arbres tres finis; groupe anime de cavaliers s'elancant dans la foret embuee de la brume du matin.
+
+## No 8.—CHARDIN (JEAN-BAPTISTE),attribué a (1698-1779).
+
+- Ecrivain dans son Cabinet de travail (portant derriere le n° 23) p
+- H. 0.20, L. 0.24.
+- (idem), attribue au meme, Nature morte (portant derriere le n° 92) etb H. 0. 36, L. 0. 46.
+
+## No9.—CLAUDOT(JEAN-BAPTISTE-CHARLES),1733-1814.
+
+- 2 Paysages ovales formant pendant (portant derriere les n°s 45 et 46) etb(H.0.61,L.0.48.
+
+CLAUDor, ne a Badonvilliers (Vosges), est represente par plusieurs tableaux au Musee de Nancy.
+
+## No 10.—COURTOIS (JAcQUEs), dit le Bourguignon (1621-1667).
+
+- Un Assaut (portant derriere le n°53)-H. o.95,L.1.32.
+- No1l.—COURTOIS (JAcQUEs), dit le Bourguignon (1621-1667). Une Bataille (portant derriere le n° 54)-H. o 95,L. 1.32.
+
+Ces deux importantes peintures d'une execution large, d'un coloris chaud, pleines de mouvement et de lumiere, conviendraient aux Musees et aux Galeries les plus choisis. Il y a la puissance des grands Maitres italiens, notamment du CoRToNE et de SALvATOR RosA.
+
+- No12.-COURTOIS (JAcQUEs), dit le Bourguignon (1621-1667). Choc de Caualerie (Esquisse), portant derriere le n° 6o - H. o.23, a
+- L.0.35· etb (idem) - Choc de Cavalerie (memes dimensions).
+- No13.——COYPEL (NoEL),1628-1707. Eliezer et Rebecca (portant derriere le n° 31) - H. 1.30, L.1.95. Composition agreable ou, dans un dessin un peu lache, se retrouve l'influence du Correge. (idem) -Rebecca (portant derriere le n 9)-H. o.74, L.o.63.
+
+N15.—DEMARNE（JEAN-LoUIS),1744-1829. Une Foire (portant derriere le n s)-H. o.31, L. o.47. Petite scene villageoise, petillante d'esprit, d'un coloris varie et chaud. Sorte de document des naivetes de Péepoque.
+
+- Decollation de St Jean Baptiste (grisaille), portant derriere le n° 8
+- N°16.—DEHAYES (JEAN-BAPTISTE),1729-1765: H.O.75,L.0.41.
+- N°18.—FRAGONARD (HoNORE),1732-1806. Hector et Andromaque (Etude), portant derriere le n 75 -H. o. 45,
+- L.0.35.
+- No 19.—GELLEE(CLAUDE), dit le Lorrain (16o0-1682), attribué a Paysage et Cascade animes de Personnages (portant derriere le n° 25)
+
+H.1.00,L.1.37.
+No 20.-GELLEE(CLAUDE), dit le Lorrain.
+
+len081)-H.0.38,L.0.58.
+
+Le Passage du Gue avec Paysage d'Arcbitecture (portant derriere
+
+N°21.-
+
+(idem) -Le Chateau d'Tf et dechargement de Marchandises (portant derriere le n 8o) -H. o.5o, L. o.68.
+
+<!-- image -->
+
+No26.—GROS (ANToINE,le Baron).1771-1835.
+
+Porlrait du Duc de Berry
+- No 22. —GELLEE (CLAUDE), dit le Lorrain (16oo-1682), attribue a
+- Paysage boise et Riuiere (portant derriere le no 47) - H. o.64, L.0.79.
+- No 23.—(idem) [attribue a] - Paysage arrondi, Ruines, Scene rustique avec borizon montueux (portant derriere le n s6)- H. o.63, L. o.63.
+- No 24.—GRESELY (GAsPARD),1711-1756 (Deux pendants).
+- a
+- etb
+- Portrait Vieillard avec son Fils.
+- Portrait de Femme filant la quenouille. (portant derriere les nos 34 et 35) - H. o.8o, L. o.64.
+- No25.—GREUZE (JEAN-BAPTISTE) 172S-1805. Porirait de Paysan Breton (portant derriere le n° 6) - H. o.51, L. 0.38.
+
+Impossible de rendre avec plus de verite et de charme familier une tete de vieillard aux longs cheveux. Les chairs, les divers attributs, la tonalite generale sont harmonieux et larges de facture.
+
+- Portrait du Duc de Berry (portant derriere le n° 4)- H.o.98,
+- No26.—GROS(le Baron ANTOINE),1771-1835. L.0.80.
+
+Vu presque de face, le bras replie sur la hanche,en costume de Cour, ceint des differents ordres royaux, jabot de dentelle, ceinture feurdelisee, un grand manteau sur l'epaule... Le Prince semble sortir vivant de la toile. ll produit une impression de force et de simple grandeur.
+
+- No27.—(idem)- Apres la Bataille d'Eylau (Esquisse)-H. o.38,
+- L.0.52.
+- No 29.-HAUDEBOURT-LESCOT (Mme HoRTENSE),1784-1845. Son Portrait par elle-meme (portant derriere le n° 69) - H. o.67, L.0.53.
+## No31.-KUVASSEG(CARL-JOSEPH), 1814-1868.
+
+Port Breton (portant derriere le n 2) -H. o.52, L. o.72.
+
+Toile d'une jolie couleur ou se ressent la maniere d’Eug. IsABEy et de Jules NoEL.
+
+## No30.—JOUVENET(JEAN),1644-1717.
+
+Port de Marcbandisespres des Remparts (portant derriere le n° 40)
+
+H.0.81,L.1.10.
+
+Nous sommes en Hollande et un Marchand du Pays traite avec un Levantin; tandis que, sur le bas port, pres des fortes murailles, des debardeurs dechargent les marchandises. Sous la clarte doree d'un jour d'ete, se deploie l'activite paisible de jadis.
+
+## No 32.—LANCRET (N1COLAS), 1690-1743.
+
+signe a gauche : LANcRET 1736.
+
+La Lecon de Flute,pastorale, (portant derriere le no 17) - H. o.44, L. 0.35.
+
+Gracieux duo entoure de verdure. Beaucoup de charme et de laisser-aller dans les attitudes. Attentivc, la jeune éleve écoute les conseils du professeur un peu songeur, presque narquois. Les teintes du costume s'harmonisent de facon heureuse et chatoyante.
+
+- No33.—LEBRUN(CHARLES),1619-1690. Jesus guerissant les Malades (portant derriere le no 281) - H. o.85 L.I.12.
+- No 34.—(idem).-Construction de 1Arche de Noe (portant derriere le
+- n°39) -H.0.96, L. 1.30.
+- No 35.—LEDOUX (PHILIBERTE), forissait en 1815- Attribué a (Eleve et imitatrice de GreuzE) Portrait de Jeune Fille (portant derriere le n° 16) - H. o.6s, L. o.54.
+- No 36.—LEMOINE (FRANcoIs),1688-1737(attribué a) Venus et Adonis (portant derriere le no 29) - H. o.48, L. o.59
+- No 37. ——(idem). - Hercule sur son Bucher - H. o.83, L. o.91.
+- No38.—LEPRINCE(JEAN-BAPTISTE),1733-1781.
+- La Diseuse de Bonne Auenture (portant derriere le no 72) - H. o.25 L. 0.21. Mignonne scene d'interieur, d'une touche transparente, d'un coloris precieux.
+- N39.— LEPRINCE(XAVIER),1726-1798. Barques de Pecbe pres d'un Moulin (portant derriere le no 61). Monogramme sur une voile; dedicace a gauche (A mon ami Erin ) H. 0.31, L. 0.37.
+- No 40. —— (idem). - Pour les Figures Paysage de Leopold LepRINcE,
+- signé 1834.
+- Scene de l'Apocalypse (Esquisse pour plafond); portant derriere le
+- No41.—LESUEUR(EUSTACHE),1617-1655. n°55-H. 1.20,L. 0. 63.
+- No42.——(idem). - Ste Anne et la Vierge (portant derriere le n° 52)
+- H. 0.6o, L. 0.80.
+- No 47.—MARILHAT(PROSPER),181I-1847.
+- Marine - Effet du soir (portant derriere le n° is1) - H. o.48, L. o.72. Signe a droite en bas.
+
+Orientaliste distingue.
+
+- N48.
+- 一 MARTIN (JEAN-BaPTIsTE),dit Martin des Batailles (1659-1735). Ambassade Francaise. en Pays Africain (portant derriere le n° 32) H. o.55, L. 0.82.
+- N°49.——
+- (idem).-Ambassade Frangaise en Pays Africain (portant derriere le n° 33) -H.o.55,L.o.82.
+Admirables toiles d'un dessin impeccable ou les connaissances anatomiques, les notions du costume, la richesse, l'ordonnance, la preciosité, les attitudes traditionnelles, la supreme élegance du grand siecle.... se joignent a l'unite de la composition et a l'harmonie de la couleur.
+
+- N50.—MONNOYER(JEAN-BAPTISTE),1634-1698 (attribué a). Fleurs (portant derriere le n° 11) - H. o.63, L. o.55.
+
+Saul terrasse sur le Chemin de Damas (portant derriere le n° 79)
+
+- N 52. -PAROSSELL(BARTHELEMY), XVIIe siecle. H. 0.75,L. 1.00.
+- N°53.—POUSSIN(N1cOLAs),1594-1663(attribué a)
+
+Enfant el son Ange Gardien dans la Foret (portant derriere le no 48) H.0.72,L.1.02.
+
+- No55.—PATEL（PIERRE,leVieux),1620-1677.
+
+Temple Grec dont les degres savancent dans la Mer (portant derriere
+
+- le n° 41) - H. 0.78, L. 0.98.
+- No 56.—(idem).-Ruines de l'Ordre Tonique dans la Campagne (portant
+- derriere le n° 44) - H o.78, L. 0.98.
+
+Ces deux compositions sont d'une architecture un peu trop precise mais dessinee avec gout. Les motifs de terrain sont habilement termines, les sites bien distribues, la forme des arbres elegante.
+
+Les ciels chauds, brillants, harmonieux, rappellent Le Lorrain.
+
+- N57.—PRUD'HON（P1ERRE),1758-1823. Portrait Jeune Garcon (Portant derriere le n° 36) - H. o.58, L. 0.43. Tete tres expressive d'un coloris vaporeux, d'un dessin correct ou se trouvent les qualites du Maitre.
+- No 58.—REGNAULT (JEAN-BAPTISTE, Baron) 1751-1829. Venus et 1'Amour endormi (portant derriere le no 18) - H. 0.55, L. 0.45 (cadre bois).
+- No59.—RIGAUD (HYACINTHE) 1659-1743 Portrait d'Homme au temps de Port Royal (peinture sur cuivre), portant derriere le n 42 -H. 0.40, L. 0.33.
+
+Grande richesse de coloris. La carnation est pleine de vivacite. Il se degage de cette tete un éclat, une intensite qui expliquent la vogue du grand portraitiste qui fut premier prix de Pacademie de peinture et peintre prefere du Roy.
+
+(Monogramme et date derriere).
+
+- No 60.—ROBERT (HUBERT) 1733-1808. Paysage, Portique et Ruines (portant derriere le no 3) - H. o.66, L.0.98.
+
+Avec ses frondaisons bleutees, son arc en grisaille couronne de verdure et decore d'ornements; avec son premier plan jonche des souvenirs du passe et vibrant sous la lumiere de Sicile; avec ses trois groupes de personnages d'une grandeur antique —— distingues dans leur pose, sous leurs haillons, dans les actes les plus vulgaires de la vie — cette grande page inspiree aux sources de lancien et de la nature donne une idee vaste, une impression forte du Maitre si original qui sut échapper aux mievreries de son temps (cadre bois).
+
+- No 61—（idem)-Etude. Ruines, Vilages, Montagnes, Personnages au bord de la Mer (portant derriere le n° 73)-H. o.28, L. 0.29.
+- Paysage et Chasse a Coure (portant derriere le no 59)- H. o.56,
+- No 64 -SWEBACH (EDoUARD) forissait vers 1817. L.0.63.
+- No66.—STELLA(CLAUDINE) 1634-1697. Scene Mythologique (portant derriere le n 2o) -H. o.46, L.52 /2.
+- No 67. ——TOCQUE (LoUIs) 1696-1772.
+
+Portrait de Mme de Graffgnx (portant derriere le no 37) - H. o.73.
+
+L. o.63 (cadre bois).
+
+Touche spirituelle, portrait des plus consciencieux.
+
+## No 68.—VERNET(JoSEPH) 1714-:789.
+
+H. o.64, L. 1.02 (cadre bois).
+
+Grand paysage nocturne peint avec verite et legerete, Les fonds sont aeriens et l'ensemble est interessant par les details et les nombreux personnages.
+
+- No 69.——(idem).-Attribué a. Efet du Soir (portant derriere le no 19) - H. o.43, L. 0.75.
+- N 70.—VIEN (JoSEPH-MARIE) 1716-1809. Jeunes Filles aux Fleurs (portant derriere le no 1) - H. o.5o. L. o.38 (cadre bois).
+
+Gentille tete, joliment penchee, d’un dessin correct et d’un har- monieux coloris. Le dessin un peu ferme annonce l'approche de David.
+
+- No 43.-LENAIN (ANTOINE) 1568-1648. Interieur de Famille (portant derriere le no 83) - H. o.7o, L. o.57.
+
+Il y a dans cette reunion intime une naivete charmante. Les poses sont naturelles ; les costumes et les details sont pleins d'exactitude.
+
+- No 44.—(idem).- La Danse des Parsans (portant derriere le n° 98) H. 0.65, L. 0.60.
+
+Excellent groupe de personnages avec les costumes de l'époque de Marie de Medicis et ou l'on retrouve les qualites de la precedente toile ; je ne sais quelle simplesse rustique.
+
+- N° 51.—OUDRY(JEAN-BAPTISTE) 1686-1755.
+- Renard pris au Piege (portant derriere le no 99) - H. 1.o8, L. o.85.
+- N°17.DEVERIA (JACQUES) 1800-1857, Le Fou de Henri IV (portant derriere le n 93) - H. o.44, L. o.33. Etude pour le tableau de la naissance de Henri IV.
+- N° 45.—LAGRENEE(JEAN-JACQUES) 1740-1821.
+- Venus aux Colombes (portant derriere le n° 9o) - H. o.44, L. o.35.
+- N76.—WATTEAU(ANTOINE),1684-1721. Portrait du peintre execute par lui-meme (portant derriere le n° 91) H. o.51, L. 0.36 (cadre bois).
+- N 46.—LANFANT DE METZ (FRANcoIs-LoUIs),forissait en 1860 L'Amour transi (portant derriere le n° 71) - H. o.23, L. o.32.
+- N° 75.-VALENCIENNES(PIERRE-HENRI),1750-1819.
+- Diane et Nympbes au bain (signe en bas a gauche), portant derriere le n°26-H.0.33,L.0.41.
+- N71.-VOUET (SIMON),1590-1649. Scene Romaine (portant derriere le no 14) - H. o.98, L. o.67. N 72.—(idem) -Allegorie（portant derriere le n°97)-H.o.73,L.o.58.
+- N°74.-VALLAYER-COSTER(Mme ANNE) 1744-1818. Vases de fleurs (portant derriere le n° 94) - H. o.44, L. 0.35 (cadre bois).
+- No 8o.Inconnu - Troupeau dans un paysage [epoque Louis XIll], (portant derriere le no 15) - H. o.58, L. o.84.
+- N° 65.—SWEBACH (JAcQUEs), dit Fontaine (1769-1823). Troupeau dans le Tyrol (portant derriere le n° 86) - H. o.56, L. o.71.
+- (Monogramme a gauche : J. s.)
+- No 78.—Inconnu - Paysage avec verdure et riviere [époque fin XIlle siecle], (portant derriere le n° 43) - H. o.72, L. 1.04.
+
+Par son heureuse composition, la transparence de leau, la grace et la legerete des ramures, les tons bitumes des cabanes enfouies d nq  . sp xa  a e pelle a s'y meprendre, la meilleure facture de DeMARNE.
+
+- N° 28.—GABE (CHARLEs), forissait en 1825 ;né en 1793.
+
+Entre dans 1'Escaut, pres de Flessingue (portant derriere le n° 88), H.0.49,L.0.71.
+
+Traite dans la maniere de Louis GARNERAy, de KuwAssEG ou de Jules NoeL, cet effet du matin peint par un des plus distingues miniaturistes du moment, produit une impression de charme et d'apaisement.
+- N° 62.-- ROBERT (HUBERT) 1733-1808. Paysage (portant derriere le n 74) - H. o.37, L. 0.44. (Signe a gauche, date 1777).
+- No 77.-Ecole de Boucher (Grisaille). Venus grondant lamour (portant derriere le n° 30) - H. o.97, L. 0.53.
+- N°14.-CREPIN (LoUIS) 1772-1845. Bucberons en foret (portant derriere le n° 10) - H. o.48, L. o.8o.
+- N°73.—VOUET(S1MON)1590-1649. Groupe de Caualiers (portant derriere le no 57) - H. o.85, L. o.65.
+- N° 54.—POUSSIN (N1COLAS) 1594-1663. Deux personnes avec Ruines et Architecture (portant derriere le n° 12) H.0.63,L.0.55.
+- No 79.-Inconnu (debut du XIXe siecle). Paysage, Bergers el 3 Moutons (portant derriere le no 64)- H. o.3I, L.0.24.
+- No 63.——RA0UX (JEAN) 1677-1734. Juditb (portant derriere le n° 62) - H. o.88, L. o.69 (cadre bois).
+
+N.-B. -En plus des numeros designes dans le Catalogue, il y a une trentaine d'oeuvres encadrees ou non, recues apres l'impression du Catalogue et offrant un egal interet.
+
+<!-- image -->

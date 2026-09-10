@@ -1,0 +1,1610 @@
+## CATALOGUE
+
+## First Day's Sale.
+
+## On WEDNESDAY,APRIL 23,1913,
+
+AT ONE O'CLOCK PRECISELY.
+
+## OBJECTS OF VERTU.
+
+- 1 A Louis XV. oblong gold snuff-box, chased with foliage and
+- the monogram AL
+- 2 A Louis XVI. ivory tablet-case, set with a miniature of a
+- lady wearing pink and orange dress, mounted with engraved gold borders-bearing the mark of Julian Alaterre
+- 3An Empire gold etui, chased with fowers and foliage,and small views,in:vari-coloured gold on matted ground,
+- 3 with diamond thumbpiece
+- 4 An oval gold snuff-box, with dark blue enamel panels decorated with foliage in colours, the centre of the lid set with the initial Fin small diamonds
+- 5A watch,in Louis XV.gold case, the back enamelled with Venus and Adonis, and chased with fowers in vari-
+- coloured gold
+- 6 6A Louis XVI. gold tablet-case,with chased foliage borders, the sides set with enamel plaques painted with Nymphs and Cupids in grisaille on crimson ground
+- 7 A Louis XVI.gold needle-case,painted with dogs,birds and sheep on dark blue enamel ground; and a small gold spherical box,in white enamel e egg-shaped case,with crimson scrolls round the borders
+- 8 A LoUIs XVI. IvoRy TABLET-CAsE,set with an enamel plaque painted with Bacchus and Ariadne,and on the reverse set with the initials GO,surmounted by a coronet in gold on a blue glass plaque,mounted with gold borders chased with foliage
+- 9 A LoUIs XV. SMALL OBLONG PoWDER-Box, the sSides composed of plaques of green Vernis-Martin,the lid set with an enamel plaque painted with lovers and Cupid,mounted with gold borders engraved with fowers and foliage, the lid enclosing a mirror and division with hinged cover, and the base opening and disclosing a mirrorbearing the mark of Julian Alaterre
+- 10 A Louis XV. gold vase-shaped scent-facon, chased with shells and enamelled with flowers in colours, the stopper formed as a bird
+- A watch,byVeig Freres,a Paris,in case formed as a basket of flowers,set with various stones and pastes, the back
+- 11 enamelled with Nymphs
+- 12 A LouIs XV. GoLD ETuI, enamelled en plein with branches of fowers,birds and animals in dark blue,containing gold-mounted fttings
+- 13
+- A Louis XV.gold scent-flacon,embossed and chased with a Satyr, Nymph and Cupids, the stopper formed as a dolphin
+- 14 An Empire watch, in gold case, the back enamelled with scale-pattern in dark blue,green and gold
+- 15 A circular tortoiseshell snuff-box, the lid and base set with miniatures of boors carousing and a river scene in grisaille, mounted with gold borders;and a circular box,of light horn,pique with stars in gold
+- 16 A Regence oblong tortoiseshell snuff-box, the lid inlaid with aBerainesque design of pantomimic figures and arabesques in copper-gilt
+- 17 A Louis XV. oblong tortoiseshell box, inlaid with The Choice of Paris in engraved mother-o'-pearl,and pique with gold,with masks round the sides
+- 18 A LoUIS XV.OBLONG ToRTOISESHELL CASKET,cOntaining a tray, pique with Cupids,fowers, shells and scrolls,in gold and silver
+- 19 AN EMPIRE FAN-MouNT,painted with a Nymph discovering a nest of Cupids, medallions of landscapes, eagles and gryphons-in glazed show-case, with tortoiseshell borders and or-molu beadings
+- 20 A LoUIs XV. ToRToisEsHELL ScENT-CAsE,pique with ruins, scrolls and panels of trelliswork in gold, containing six glass bottles, with tortoiseshell tops pique with gold 7in.wide
+- 21 ANoTHER,pique with birds,foliage and scrolls in gold, containing four glass bottles with pique tortoiseshell tops一 6 in.wide
+- 22 A Louis XV.tortoiseshell casket, the lid pique with pierced hearts,birds,insects and scrollwork in silver-91 in.wide
+- 23 Two Louis XV. tortoiseshell bowls,pique with serolls in gold and silver-2in.diam.
+- 24 A VERNIs-MARTIN ScENT-CAsE, painted with lovers, dogs
+- and water-fowl in gilt scroll borders, containing four silver-mounted glass bottles,silver beaker,funnel,etc.
+- 25 A Louis XV. marqueterie jewel-casket, containing a tray,
+- inlaid with fowers,fgures and a summer-house in various woods on tulip-wood ground,and with the initial G in mother-o'-pearl-7in.wide
+- An old French carved wood small show-case, of scroll outline
+- 26 —12 in.high,9 in.wide
+- 27 A carved and gilt wood small show-case,with fower and
+- shell borders-12 in.by 9in.
+
+## SEVRES PORCELAIN.
+
+- 28A triple saltcellar, painted with festoons of fowers in colours, and vases in blue and gold—177l; and an oval dish, painted with birds,in blue and gold border, with a laurelWreath round the edge-7# in.wide
+- 29A small coffee-cup and saucer,painted with Cupids on clouds in pink,in gros-bleu borders gilt with oak festoons-1763
+- A sucrier and cover,painted with panels of flowers on turquoise ground, the borders gilt with fowers and scrolls-
+- 30 by Cornaille,1780
+- 31 A pair of Vincennes tea-cups and saucers,painted with sprays of fowers,in panels with gilt borders of fowers and rushes, on turquoise ground—1753-1754
+- 32
+- A sucrier and cover,painted with flowers and fruit on marble tables in panels on gros-bleu ground,the borders gilt with fowers,scrolls and trelliswork-by Pierre,Jun.,the gilding by Chauvauc,Sen.,1786
+- 33 Another,painted with landscapes,fgures and buildings,on
+- gros-bleu ground gilt with wreaths of foliage
+- 34 A coffee-cup and saucer, painted with birds in landscapes on gros-bleu ground, the borders gilt with foliage and trelliswork-by Evans and Boucot,1765
+- 35 A PAIR oF DouBLE SAUcE-BoATs,painted with birds and landscapes, in panels with gilt borders of fowers and rushes on gros-bleu ground, with white and gold handles
+- terminating in foliage-91 in.wide
+- 36 A PAIR OF CIRcULAR DIsHEs,painted with fowers in the centres,and birds and landscapes in feuille-de-choux panels round the borders,on rose-Pompadour ground gilt with fowers and scrolls-8a in.diam.
+- 37
+- A circular dish,painted with a basket of fowers in the centre, andwreaths and festoonsofrosesround theborder-1782 —15in.diam:
+- 38 A pair of small seaux, painted with festoons of fowers tied by pink ribands,in blue and gold ceil-de-perdrix borders5in.diam.
+- bands gilt with foliage—ll in.wide—by Buteuc, Sen.,
+- 40
+- and Fontaine,1788
+- An oval plateau,painted with a wreath and sprays of fowers in colours on white ground,with riband handles at the ends-by Commelin,gilding by Vande,1775—16 in.long
+- blue bands gilt with scrolls-51 in.diam.
+- 42 A Two-HANDLED CuP, CovER AND SAUCER, painted with festoons of flowers tied by ribands on white ground-by
+- Catrice,1764
+- 43 A TREMBLEUSE CuP, CovER AND SAUCER, painted with landscapes,figures and buildings in panels on gros-bleu ground, and gilt bands round the borders-by Bouchet,gilding by Le Guay
+- 44 AN EcUELLE, CovER AND STAND, painted with pink roses on dotted gold bands,the ground turquoise, gilt with laurel foliage and scrolls-by Hunij,1796
+- 45 A CoFFEE-CuP AND SAUCER,painted with pastoral figures and landscapes, in panels on gros-bleu ground gilt with fowers and scrolls-by Chulot, gilding by Chauvauc,Sen.
+- 46 A CaBARET, painted with laurel festoons in green and brickpattern in red,with narrow blue bands round the borders gilt with foliage and ribands-by Boucot,1769—consisting of a sucrier and cover,two cups and saucers,and an oval plateau
+- 47An oval verriere, the border gilt with scrolls and trelliswork; and one, gilt with flower-sprays on white ground—12 in.
+- wide
+- 48 A pair of oval verrieres,painted with fower-sprays on white
+- ground,and blue lines round the borders—12 in. wide
+- An oval dish,painted with fowers and fruit in apple-green
+- 49 and gold border—15 in.long
+- 50 A pair of plates,painted with birds, fowers and turquoise ribands; and a small oval dish, painted with children and fowers on turquoise ground
+
+## FRENCH FURNITURE,
+
+CHIEFLY OF THE EIGHTEENTH CENTURY.
+
+- 51
+- A Louis XV. CLock, by Lang,a Paris, in or-molu cartelcase pierced with trelliswork,and chased with scrolls and branches of fowers, surmounted by a figure of a child 25in.high
+- 52 A PAIR OF LoUIS XV. OR-MOLU CANDELABRA, formed as trees,ftted with Dresden porcelain fowers, and fgures of aharlequin and columbine in the centre playing bag-pipes and a hurdy-gurdy,on or-molu plinths chased with fowers and foliage8 in.high
+- 53 A LouIs XV.INKsTAND, formed of a wood plaque inlaid with fowers in engraved ivory,and with or-molu borders chased with vines and scrolls,fitted with Dresden may-flower bowls forming the receptacles for the ink,and a Dresden figure of a boy emblematic of Winter;at the back is a shade,or-molu nozzles for candles,and foliage branches fitted with Dresden porcelain flowers-20 in.high
+- 54 A Louis XVI. small tulip-wood table, with three drawers,
+- banded with hare-wood-16 in.wide
+- 55 A LoUIs XV. SMALL UPRIGHT CoMMoDE,With shaped front, with three drawers and shelf below;veneered with panels of walnut-wood in tulip- and king-wood borders, the top inlaid with serollwork in marqueterie,and the shelf with a parqueterie design of cube pattern;mounted with or-molu scroll handles and escutcheons—28 in.high,15 in.wide
+- 56 A LoUIS XV. SMALL MARQUETERIE CoMMODE, With tWO drawers, constructed of oak,veneered with tulip-wood panels on which are inlaid sprays of fowers in various woods, the borders veneered with king-wood; mounted with or-molu borders,handles and feet,chased with scrolls and foliage; surmounted by a Brescia marble slab— stamped-31 in.high,18 in.wide
+- 57 A LouIs XVI. CLocr, the movement by T. M.Mabile,a Paris,in white marble lyre-shaped case, mounted with or-molu beadings and branches of laurel-foliage, surmounted by a festoon of flowers and mask of Helios23in.high
+- 58 A PAIR OF DIRECTOIRE CANDELABRA,formed as oviform Vases
+- of white marble,mounted with eagles'-head handles of or-molu,and branches for three lights each—19 in.high
+- 59 A LoUIs XV. SMALL MARQUETERIE TABLE,With three drawers, constructed of oak,veneered with panels of tulip-wood in king-wood borders; the front, sides and backinlaidwith baskets and bouquetsof flowers invarious woods,and the top decorated with a musical trophyin similar manner to the sides; with corner-mounts of ormolu chased with compositions of scrollwork and foliage, amongst which are introduced sprays of flowers,and a plain band round the top-29 in.high,17 in.wide
+- 60 EIGHT LouIs XV. FAUTEUILs, with walnut-wood frameworks carved with fowers and scrolls,the seats and backs stuffed,and covered with flowered cream silk brocade
+- 61 An oblong ditto stool, carved with shells and foliage, the top covered with similar brocade to the preceding—3 ft.3 in. wide
+- 62 A Louis XV. SETTEE,with walnut-wood frame carved with fowers and foliage,the seat and back stuffed,and covered with Aubusson tapestry, with vases of fowers and grapes in colours on cream ground-7 ft.3 in.wide;and two cushions covered with similar tapestry
+- 63 A LoUIs XV.LARGE FAUTEUIL,with walnut-wood framework carved with foliage,the back,arms and loose cushion-seat coveredwith flowered green silk brocade
+- 64 A LouIs XV.BERGERE,with walnut-wood framework carved with fowers, the back and loose cushion covered with fowered green brocade
+- 65 A Louis XV. square stool,with gilt framework carved with foliage and scrolls,and scroll feet,the top covered with fowered green silk brocade-21 in. square
+- 66 A LoUIs XV. OvAL MARQUETERIE TABLE, With Writingslide,drawer in the end,and shelf below,the top and shelf inlaid with vases,fowers and utensils in tulip- and hare-wood borders, and with a frieze of running scrolls round the sides-23 in.wide
+
+SeeIllustration
+
+- 67 A LoUIS XV. OBLONG MARQUETERIE TABLE, With Writingslide in the front and a small drawer at one end, the frieze and top inlaid with writing and other utensils and a vase of flowere, in various woods, in tulip- and king-wood borders; mounted with or-molu corner-mounts chased acanthus-leaves,and a plain or-molu band round the top
+- with scrollwork and foliage, foot-mounts chased with —20 in.wide-stamped BouDIn ME
+
+SeeIllustration
+
+- 68 A LoUIs XV.BoNHEUR-DU-JoUR TABLE, with one drawer, small cabinet at the back above enclosed by two doors, and shelf below, constructed of oak veneered with tulipwood,and inlaid with a trellis design in hare-wood,with rosettes at the intersections in satin-wood.The or-molu mounts comprise compositions of shells and scrollwork at the corners,beaded and foliated edges,and plain bands and pierced galleries—36 in.high,21 in.wide
+
+SeeIllustration
+- 69 A Louis XV. CLock, by Beauvillain, a Paris,in or-molu case surmounted bya figure of a cock,a seated figure of a child at the side with emblems of Literature,on ormolu plinth chased with rosettes and twisted ribands 12in.high
+- 70 A LoUIS XVI. CIRCULAR PARQUETERIE TABLE, With one drawer enclosing writing-slide,and a shelf below,constructed of oak veneered with tulip-wood,the frieze and shelf inlaid with panels of trelliswork in hare-wood,with rosettes at the intersections;above each slightly cabriole leg is inlaid a rosette on an oval medallion of dark wood; the feet mounted with or-molu,and the top formed of a white marble slab with pierced or-molu gallery—16 in.
+- diam.
+- 71 A PAIR OF LoUIS XV.MARQUETERIE CoMMODES, enclosed
+- by folding doors, constructed of oak, veneered with kingwood and inlaid with trailing branches of fowersin various woods; mounted with or-molu beaded borders, chased with shells and scrolls at the corners; surmounted bya Brescia marble slab-stamped M.CocHois ME
+- 72 A Louis XVI.fauteuil,with gilt framework carved with laurelwreaths,ribands and acanthus-leaves,the seat and back stuffed,and covered with old French striped blue and white
+- silkbrocade
+- 73 A Louis XVI. SETTEE, the framework gilt and carved with acanthus-leaves,small foliage and beading,the seat and back stuffed,and covered with striped and fowered green,
+- pink and white silk brocade-4 ft.10 in.wide
+- 74 A Louis XVI. fauteuil, with gilt framework carved with ribands and acanthus-leaves,the seat and oval back stuffed, and covered with old silkbrocade
+VURE
+
+- 75 A LouIs XV. CHAIsE-LoNGUE,with walnut-wood frame carved with fowers and scrolls, with canework seat and ends,and with loose cushion-seat and end covered with
+- fowered cream silk brocade-6 ft. long
+- 76 A LoUIs XV.KNEEHOLE WRITING-TABLE, with fve draWers,
+- veneered with tulip-wood in. king-wood borders,mounted with or-molu escutcheons chased with foliage, and with gadrooned border to the top
+- 77 A REGENCE CoMMoDE, with four draWers, veneered with king-wood parqueterie-wise, and with or-molu handles, escutcheons and foot-mounts, chased with female masks, foliage and shells, surmounted by a Brescia marble slab4ft.3in.wide
+- 78 A LOUIS XV.MARQUETERIE TABLE, the top folding in two divisions and enclosing a mirror, and with a deep drawer below,the top inlaid with Chinese fgures in satin-,hare-and other woods,and with festoons of fowers suspended from ribands round the sides, the borders veneered with tulip-wood;the whole designed in the manner of David de Luneville-20 in.wide
+
+SeeIllaustration
+
+- 79 A pair of Louis XVI. fauteuils, the frameworks carved with
+- acanthus-leaves,foliage and beading, painted white and partly gilt, the seats and backs covered with white silk brocade;and two stools,en suite
+- 80
+- FoUR LoUIs XV. WALNUT-WooD FAUTEUILs, carved with shellsand scrolls,the seats and backs stuffed and covered with crimson silk damask
+- 81 A Louis XV. SETTEE, with walnut-wood frame carved with shells,foliage and scrolls,the seat and back covered with pink silk brocade,with branches in silver7 ft.wide
+- A PAIR OF LoUIs XIV. GILT ToRCHEREs, formed as tripods, carved with foliage and scrolls,on tapering stems and
+- 82 scroll feet-3ft.8 in.high
+- 83 AN OLD FRENCH HARP,carved with fowers, fruit and foliage,and lacquered with Chinese figures and buildings in gold
+- 84TA LoUIs XVI.UPRIGHT SECRETAIRE, with fall-down front enclosing shelf and small drawers, a drawer above,and cupboard enclosed by folding doors below; constructed of oak veneered with panels and bands of hare-wood,with a trellis design in tulip- and satin-wood,in tulip-wood borders;mounted with or-nolu handles,and rosettes at
+- the corners—4 ft.7in.high,2 ft.8in.wide
+- 85 A LoUIs XV.LIBRARy-TABLE,with three draWers,veneered with panels of tulip-wood in king-wood borders;mounted with or-molu handies, escutcheons and corners chased with foliage and scrollwork,the top covered with leather
+- —58in.wide
+- 86 FOUR LOUIS XV. FAUTEUILS,the frameworks of giltwood,futed and carved with flowers, shells, foliage and ribands,the seats,backs and arms stuffed,and covered with Beauvais tapestry;the seats representing subjects from Esop's Fables,with stories of The cat's-paw,The dog and the piece of meat,The fox and the cock,and The ox and the frog; the backs woven with swans,an eagle and other birds in natural colours; each panel,on both the seat and back, enclosed within finely arranged sprays of seroll foliage,worked in pink, blue and yellow,and festooned
+- with coloured fowers
+
+See Illustration
+- 87 A LOUIS XV.OBLONG MARQUETERIE WRITING-TABLE,With one drawer in the frieze,constructed of oak and veneered with tulip-and king-wood, the freize inlaid with sprays of foliage; mounted with or-molu corners, handles and escutcheons chased with scroll foliage and shells, the top covered with green leather with tooled and gilt borders— 3ft.1 in.wide
+- 88 A LouIs XVI. CLocr,by Lechopie,a Paris, in or-molu case, with figures of a Nymph and Cupid at the side,modelled after Falconet,on white marble plinth,mounted with or-molu beading and a frieze of foliage, and porphyry base ——15 in.high
+- 89 A LoUIS XVI. OBLONG MARQUETERIE TABLE, With one drawer enclosing writing-slide and receptacles in the frieze,veneered with tulip- and king-wood, the top and three sides of the frieze inlaid with panels of trelliswork and rosettes, festoons and a vase'of fowers;on four tapering legs; the top mounted with a pierced or-molu
+- gallery—2ft.8in.wide
+- 90 A LoUIs XV. SMALL OBLoNG TABLE, With Writing-slide, drawer in one end,and shelf below, constructed of oak mounted with or-molu corners chased with flowers and
+- veneered with tulip-wood,and the top and shelf inlaid with vases and utensils in marqueterie of various woods, serolls-20 in.wide
+- 91 A LoUIS XVI. OBLONG MARQUETERIE TABLE, With One and hare-wood,and inlaid with vases and various utensils
+- drawer in the end,constructed of oak veneered with tulipin marqueterie-24 in.wide
+- 92 A LouIs XV. CoMMoDE,with serpentine front and two drawers, constructed of oak veneered with panels of tulipwood,the centre of the front inlaid with a rosette ornament, the borders veneered with king-wood;mounted with or-molu handles and corners chased as branches of
+- foliage and scrolls; surmounted by feur-de-peche marble slab-45in.wide—stampedP.RoussEL
+- 93 AN EMPIRE CLocK, by Regnault, a Paris,in drum-shaped or-molu case supported by columns of white marble, mounted with or-molu beadings and trophies,and en-
+- riched with blue and white biscuit plaques—19 in.high
+- 94 A PAIR OF EMPIRE CANDELABRA,With bronze female fgures supporting upon their shoulders or-molu branches for four lights each,with or-molu columns at the backs surmounted
+- by vases,on red marble pedestals—29 in.high
+- 95 A LOUIS XVI. MARQUETERIE SECRETAIRE,with
+- fall-down front, enclosing writing-slide, small drawers and open shelves,one drawer above and folding doors below, constructed of oak veneered with king-wood,in borders of tulip-,hare-and other woods; the panels of the fall-down front and doors are inlaid with oval medallions of landscapes and a coast scene with buildings and trees,in various coloured woods,the remaider of the surface being inlaid with branches of foliage and small fowers in light woods, the ends inlaid with sprays of fowers; round the top runs a frieze of or-molu, chased with arabesque foliage terminating in fowers, while at the angles are foliage rosettes, likewise of or-molu; surmounted by a Brescia marble slab-4 ft.8 in.high, 3 ft. 2 in.wide
+
+See Illustration
+- 96 A LoUIs XV. SMALL CoMMoDE, with two drawers in the front, and slightly splayed ends, constructed of oak veneered with tulip-wood in king-wood borders, and inlaid with sprays of tulips and other flowers;mounted with or-molu corners, escutcheons and feet chased with foliage; surmounted by a veined pink marble slab33in.high,21 in.wide—stamped"PAGUET EBENIsT.. EDLORA...HO.DM...AVERSAI.
+- 97 A REGENCE CARTONNIERE, with open shelves in the upper
+- part, and cupboards below enclosed by doors at the sides, constructed of oak entirely veneered with king-wood, mounted with or-molu borders chased with ribands and beading, and corner-mounts with foliage and scrolls; in the centre panel of the lower part is an or-molu applique chased with Cupid holding a torch—5 ft.5 in.by 2 ft. 10in.
+- 98 A LoUIS XV. OBLONG MARQUETERIE TABLE, the top folding and enclosing a writing slide,and with rising centre forming a secretaire, inlaid with crowns,a mask, sprays of foliage and scrolls in tulip, king and other woods,and mounted with aplain or-molu border—26in.
+- wide
+- 99 A Boulle inkstand,inlaid with scrolls in brass and tortoise-
+- shell,mounted with or-molu corners chased with Sphinxes busts and scrolls-1l in.by 9 in.
+- 100 A BouLLE CLock, the movement by Moissy,a Paris,with engraved brass dial with enamel numerals, supported by chased or-molu fgures of Time and a Nymph,in case inlaid with scroll foliage in metal on tortoiseshell ground, and mounted with Sphinxes,masks, &amp;c.,of chased or-molu; the lower part of the clock containing a barometer
+
+On tall pedestal,inlaid with interlaced L's,foliage and trelliswork in tortoiseshell on brass ground,and mounted with chased or-molu borders·and claw feet-8ft.2 in high,21 in.wide
+
+- 101 A BoULLE KNEE-HoLE TABLE, with two drawers and a cupboard, the top hinged and with fall-down front forming a secretaire,with small drawers at the back,the exterior inlaid with foliage and strapwork in brass and wood,and the interior inlaid with similar designs in a marqueterie of light wood on rose-wood ground; the whole supported on eight rectangular legs, with gilt ball feet3 ft.10 in. wide,2ft.4in.deep
+- 102 A LoUIs XVI. GILT CoNSoLE TABLE, carved with a frieze of rosettes and ribands,on scroll supports carved with a vase festooned with laurel, surmounted by a slab of
+- flowers and acanthus-leaves,the stretcher surmounted by veined mauve and white marble-4 ft.wide
+- 103 A PAIR OF CHANDELIERS, with branches for numerous lights,with crystal and cut-glass pendants,and pinnacle
+- ornaments,fitted for electric light
+- 104 A pair of ditto wall-lights,with lyre-shaped supports,and branches for three lights each,fitted for electric light— 3ft.3in.high
+## TAPESTRY.
+
+- 105 AN OBLONG PANEL OF GOBELINS TAPESTRY,
+- representing Mercury playing Argus to sleep and Cupid leading Io away on the left,a mountainous woody landscape in the background,in border woven with rosettes and ribands in shades of brown, with a shell and scrollwork in the corners-10 ft.2 in.by 11 ft.8 in.
+
+See Illustration
+
+End of First Day’s Sale
+## On
+
+## Second Day's Sale.
+
+## THURSDAY, APRIL 24,1913,
+
+AT ONE O'CLOCK PRECISELY.
+
+## CONTINENTAL PORCELAIN.
+
+- 106 A Sevres biscuit figure,of an Infant Satyr—64 in.high
+- 107 A Paris vase and cover,painted with cornflowers on gilt ground,and with gilt Satyrs'-head handles—15 in.high
+- A circular jardiniere, painted with fowers in colours in the Hizen taste-7 in. diam.; and three Courtille small
+- 108 seaux,painted with cornflowers
+- 109 A Menecy sucrier and cover,painted with fruit and a bird on white ground; and a Nymphenburg tea-cup and
+- saucer,with initials in flowers
+- 110 A Frankenthal tea-pot,painted with Venus and Cupid;a scent-bottle,painted with fowers on a scale-pattern ground; two Dresden saucers; and a Ludwigsburg vegetable-dish and cover, painted with small fowersprays
+- 111 A Buen-Retiro two-handled bowl and cover,painted with insects,and with raised giltfuting round the lowerpart, the handles formed as caryatid female figures-5 in.
+- diam.
+- 112 A Vienna cabaret, painted with Cupids in grisaille and
+- ribands in colours in narrow pink borders, consisting of a chocolate-pot and cover, milk-jug and cover, oval bowl, cup and saucer, and a shaped plateau
+- 114 A pair of French biseuit busts of girls, life-size-on socles
+- and marble bases;and one square tapering gilt-wood pedestal
+- 115 A pair of Dresden caryatid female figures,wreathed with fowers--mounted on black marble pedestals10 in. high
+- 116 A German bust of a lady,wearing pearl necklace-51 in. highon carved gilt-wood plinth; and a figure of a parrot-6in.high
+- 117 Three Dresden two-handled cups and saucers, painted with
+- Bacchanalian subjects in quatrefoil panels,the handles and rims coloured to represent silver-in leather case
+- 118
+- A DREsDEN VAsE AND CovER,painted with hunting scenes on basket-pattern ground,and encrusted with branches of fowers,the plinth modelled with a dog and partridges —-8in.high
+- 119 A PAIR OF DRESDEN CaNDLESTICKs, painted with fower-
+- sprays on white ground, with green scroll borders,the stems encrusted with branches of flowers-7 in.high
+- 120 A DREsDEN Grour, of a boy and girl, with music-book and musical instruments, seated on an upholstered stool 7in.high
+- 121 A pair of Dresden small groups of children, emblematic of
+- the Continents-4in.high
+- 122 A DREsDEN GRouP,of Leda with Cupid and the Swan, seated on rockworkplinth encrusted with flowers-6 in. high
+- 123 A DREsDEN GRouP,of a boy and girl with a corn-sheaf and grapes, emblematic of Autumn, on rockwork plinth encrusted with fowers-9in.high
+- 124 A DREsDEN GRoUP,of three children sporting, on rockwork plinth encrusted with fowers-9 in.high
+- 125 A PAIR OF DRESDEN FIGURES OF PARROTS, perched on tree-stumps, mounted on or-molu plinths of octagonalshape-8in.high
+- 126 A PAIR OF DRESDEN CANDLESTICKs, designed as open trelliswork entwined with branches of coloured flowers,mounted with chased or-molu nozzles and borders-16 in.high
+- 127 A pair of Dresden candlesticks, white and gold,with Ionic capitals modelled with draped female masks-8 in.high
+- 128 A SET OF FIvE DREsDEN VASES AND CoVERS,painted with medallion-heads in grisaille in pink medallions,and modelled with gilt festoons and mask and foliage handles in relief, on plinths decorated with key-pattern—1l in., 9in.and 7 in.high
+- 129 AuTuMN:an allegorical group of a Nymph with a cornucopia of corn,fruit and fowers, and Cupid at her side holding wheat-ears,on white and gold scroll pedestal, with a wheat sheaf at the base-15in.high
+- 130 A PAIR OF DREsDEN FIGUREs OF JAYs,perched on treestumps,in the branches of one of which is a birds'-nest, while from a hole in the trunk of the other a squirrel is emerging-15 in.high
+## FRENCH DECORATIVE OBJECTS AND FURNITURE,
+
+CHIEFLY OF THE EIGHTEENTH CENTURY.
+
+- 131 An old French marqueterie casket,inlaid with buildings in various woods-14 in.wide—containing six Doccia cups and saucers, painted with Turkish figures in colours, and two glass jars with silver tops
+- 132
+- 133
+- A thermometer,of Gobin,a Paris,with almanack for 1837 in or-molu pyramidical case with claw supports—10 in. high; and a metal-gilt table-bell, chased with Cupids
+- A circular bowl, of red agate, carved with spiral futing round the lower part—7 in.diam.
+- 134 An Empire clock, in or-molu case formed as a Classical chariot,on plinth chased with a military trophy and supported by claw feet—19 in.long,15 in.high
+- painted with birds on apple-green ground, and mounted with or-molu borders and feet
+- 135 An inkstand, formed of a Sevres tray,and bowl and cover,
+- 136
+- An Empire tripod vase,of or-molu, spirally futed, and with pierced trellis neck, supported by three bronze winged caryatid figures,on white marble plinth—13 in.high
+- 137 A pair of Chinese turquoise crackle figures of parrots,perched on rockwork,mounted on or-molu scroll plinths-9 in. high
+- 138 A Chinese porcelain group of tro boys, surrounded by small jardinieres of fowers enamelled green, yellow and aubergine,mounted with or-molu torders,and fower-branches
+- ofor-molu at theback-7in.high
+- 139 A pair of bowls and covers, of Chinese powdered-blue porcelain, mounted with or-molu rims, handles and plinths chased with foliage and scrolls-14 in.high
+- 140 A Louis XV. small square tulip-wood table, with shelf below,the top banded with king-wood—11 in. square
+- 141 A Louis XVI. square-shaped pedestal-cupboard,veneered with tulip- and hare-wood inlaid parqueteriewise, surmounted by a veined grey marole top-7 in.square
+- 142 A clock,by Berthoud,a Paris,in or-molu cartel case chased with flowers and scrolls,and surmounted by figures of a girl with a music-book,and youth with flute—48 in.high
+- 143 A clock,by Clorin and Belas,in or-molu lyre-shaped case chased with foliage,and surmounted bya mask of Helios, on white marbleplinth-23in.high
+- 144 A Louis XVI.commode,with two drawers,veneered with panels of light mahogany banded with tulip-wood, in king-wood borders, mounted with lions'-masks at the corners of or-molu,and surmounted by a black and white marble slab-3 ft.1 in.wide
+- 145 5A Regence commode,with serpentine front and five drawers, inlaid with panels of tulip-wood in king-wood borders, and mounted with chased or-molu scroll handles,surmounted by a feur-de-peche marble slab-4 ft.3 in.wide
+- 146 A pair of Louis XVI. fauteuils,carved with acanthus-leaves and ribands partly gilt, the seats and oval backs stuffed, and covered with flowered white silk brocade
+- 147 A Louis XV.chaise-longue,carved with flowers, the seat and ends covered with cream silk brocade-6ft. long
+- 148 An Empire clock,by Deverberie and Compie,a Paris,in ormolu case chased with children, oak foliage, birds and cornucopic of fruit,and with bronze figures of children at the sides,on shuttle-shaped plinth—17 in.high
+- 148A A Louis XIV. casket,of crimson leather, stamped with gilt feurs-de-lys,and mounted with pierced brass corners and escutcheon,containing small boxes and divisions— 14in.wide
+- 149 A LouIs XVI. SecRETAIRE, with sloping fall-down front and drawer below, inlaid with an oval panel of buildings, laurel-festoons,ribands and fower-sprays in marqueterie —3ft.3in.wide
+- 150 A LoUIs XVI. SEcRETAIRE, with sloping falldown front and three drawers below,inlaid with a musical trophy and branches of fowers in marqueterie,and banded with rose-wood, the front inscribed FI.BG 1778—3 ft.4 in. wide
+- 151 A Louis XV.small commode, with two drawers veneered with king-wood, mounted with or-molu handles and escutcheons chased with foliage and scrolls, surmounted bya fleur-de-peche marble slab-22in.wide-stamped DEMOULIN ME
+- 152 A Louis XV.toilet-table,with lifting top in three divisions, and with small writing-slide and two drawers below,the whole painted with fower-sprays and gilt foliage on pale
+- 153
+- green ground—2ft.6 in.wide
+- A small pedestal-cupboard, with three drawers, painted with Cupid and flowers on green ground,and surmounted by a veined marble slab, with or-molu gallery-12 in.wide
+154. A three-leaf screen, the panels painted with Chinese figures, fowers and arabesques on green ground, in gilt framework carved with flowers-4ft.11 in.high
+- 155 A Boulle bracket-clock,by Hurset,a Paris,the case mounted with or-moulu scroll borders,and supported by claw feet —15in.high
+- 156 A Louis XVI. square stool, gilt and carved with ribands and
+- rosettes,with spirally futed legs, the top stuffed,and covered with flowered white and yellow silk brocade16 in. square; and a pair of small oblong gilt console tables,carved with futing and laurel-festoons,and surmounted by Brescia marble slabs-19 in.wide
+- 157 A Louis XVI.upright mirror,in gilt-wood frame,with carved riband borders, the top carved with two vases,a medal lion head and a knot of riband—2 ft.7 in.high,1 ft.
+- 9in.wide
+- 158 A Louis XVI.mahogany cabinet, with folding writing-slide,
+- two drawers below and cabinet at the back enclosed by glazed doors,mounted with brass bands,and surmounted by a griotte marble slab with brass gallery—4 ft. 1 in. high,2ft.8in.wide
+- 159 9A Louis XVI.chaise-longue, the framework carved with a frieze of foliage and running scrolls,and the end with reedingbound byribands,stuffed,and covered withyellow and white silk brocade—4 ft.6 in.long
+- 160 Four Louis XV. fauteuils, of walnut-wood, carved with shells and scrolls,the seats and backs stuffed,and covered
+- with crimson silk damask
+- 161 A Louis XV. corner settee,with scroll arms and cabriole legs carved with shells, with cane seat and panel in the back
+- 162 A Louis XVI..clock, in drum-shaped ebony case, with or-molu figures of a Nymph and Cupid at the side, on white marble plinth mounted with an ormolu frieze and beadings-13 in.high
+- 163 A three-leaf screen,the framework carved with ribands partly gilt and painted green,the panels mounted with ninety French coloured prints,with ladies and gentlemen in costumesof the end of the 18thand commencement of the19th Century—5ft.3in.high
+- 164
+- An Empire clock,in or-molu case formed as a chariot driven by Cupid,the wheel enamelled blue,forming the dial,on oblong plinth chased with trophies,and with claw feet —14in.high
+- 165 A pair of Empire bronze candelabra,formed as figures of Sphinxes supporting upon their heads vases from which issue fower-branches for three lights each,on veined marble plinths-24in.high
+- 166 An Empire cheval glass, in mahogany frame,with columns at the sides with carved and gilt foliage capitals,and supported by carved figures of Sphinxes painted green— 4ft.high
+- 167 A Louis XVI.small kidney-shaped table,with two shelves below,inlaid with panels of trelliswork on satin-wood ground,in mahogany borders, with or-molu gallery and
+- chased corner-mounts
+- 168 A Louis XV.king-wood encoignure, with chased or-molu corner-mounts-2 ft.10 in.high,15 in.wide;and a fauteuil, carved with fowers and foliage and partly gilt, with canework seat and back
+- 169 A Louis XVI. small parqueterie table, with three drawers, inlaid with panels of trelliswork in tulip-and hare-wood, the top drawer fitted with writing-slide and divisions-
+- 17in.wide
+- 170 Another, with two drawers and shelf below,inlaid with alternate stripes of satin-wood and mahogany in king-
+- wood borders-18in.wide
+- 171 A Louis XVI.pedestal cabinet,with fve drawers and falldown panel in the centre forming secretaire,inlaid with hare-wood lines on tulip-wood ground, mounted with or-molu handles,escutcheons and corners chased with foliage, surmounted by a fleur de-peche marble slab 4ft.11 in.high,13in.wide
+- 172 A Louis XIV. walnut-wood arm-chair, with scroll arms carved with foliage, on rectangular legs with futed X-shaped stretcher, the seat and back covered with cream silk brocade
+- 173 A pair of cushions, covered with cream satin,embroidered with bouquets of flowers in colours-20 in.by16 in.; and an oval cushion,embroidered with a cornucopia of fowers in coloured silks
+- 174 Four Louis XV.gilt fauteuils,the frameworks gilt and carved with foliage and scrolls, with gilt canework seats and backs,and loose cushions covered with old French fowered red silk brocade
+- 175 An Empire circular mahogany stool,mounted with or-molu borders chased with foliage, and claw feet, the top covered withflowered crimson silkbrocade
+- 176 A Louis XVI.circular stool, the framework gilt and carved with ribands,on legs carved with quivers of arrows,the top covered withyellow silk brocade
+- 177 A Louis XV. settee, the framework gilt and carved with fowers and ribands; the back and loose cushion seat, covered with fowered cream silk brocade-6 ft.7 in. wide
+- 177A A smaller settee, covered with similar brocade—4 ft.6 in. wide
+- 178 AN EMPIRE CLocK,in or-molu case chased with Nymphs, Cupids and drapery festoons, surmounted by an or-molu figure of a Nymph seated by an altar,with a bird-cage and famingvases at the sides-14 in.high
+- 179 A LoUIs XVI. SMALL WRITING-TABLE,with three draWers, inlaid with panels of trelliswork,trophies and running scrolls,and with oval panels containing trophies emblematic of the Arts and Sciences at the ends, the top covered with leather and mounted with or-molu gallery —3ft.1 in.wide
+- 180 A Louis XVI. parqueterie commode, with two drawers,
+- inlaid with zig-zag lines in tulip and king-wood; to the freize has been applied a band of rosette and riband ornament of or-molu,and corner-mounts chased with laurel-festoons; surmounted by a slab of feur-de-peche marble—42 in.wide—stampedJ.A.GRANDIEAN,ME
+- 181 A Louis XV.commode,with two drawers,decorated with Chinese landscapes,figures and buildings in black and gold lacquer; to the borders and corners have been added or-molu mounts, chased with ramsheads, foliage
+- 182
+- and scrolls-4 ft.1 in.wide
+- An Empire clock,in or-molu case shaped as a basket carried by a bronze figure of Cupid,on octagonal or-molu plinth chased with a Nymph and trophies-14 in.high
+- 183 A LoUIs XV. OBLONG ToILET-TABLE, the top lifting in three divisions and enclosing a looking-glass,the frieze containing two small drawers and a writing-slide, constructed of oak, veneered with panels of tulip-wood in king-wood borders—2 ft.7 in.wide
+- 184 FoUR LoUIs XV.FAUTEUILs, with gilt frameworks carved
+- with rosettes and ribands,the seats and backs stuffed, and covered with old Italian cut velvet, with flowers in colours on cream ground-stamped,I.B.sENE
+- 185 A LoUIs XV. SETTEE, the back, cabriole legs and X-shaped stretchers carved with shells and foliage, supported on hoof feet, the back,arms and loose cushion covered with crimson silk damask-6ft.4in.wide
+- 186 A LoUIs XVI. SMALL SECRETAIRE,with revolving cylinder
+- front enclosing writing-slide and four drawers,and three drawers below, the whole inlaid with panels of rosette and trellis ornament on hare-wood ground with tulip-wood borders-29 in.wide
+- 187 A Louis XVI. clock, in white marble vase-shaped case, mounted with or-molu beadings and claw supports13 in.high
+- 188 Two LoUIs XIV.UPRIGHT LEATHER PANELs,painted with pantomimic figures in colours, standing on short pedestals beneath canopies of gilt scrollwork festooned with flowers. —3ft.10in.high,1ft.9in.wide
+- 189 A LoUIs XV. PARQUETERIE ToILET-TABLE, with lifting top, slide and two drawers below, constructed of oak veneered with mahogany,and inlaid with panels of trellis and cubepattern in tulip-and king-wood-29 in.wide
+- 190 A Louis XV. CLock,by Chatenay,a Versailles,in or-molu cartel case, chased with a mask, festoons and ribands, surmounted bya faming vase-27 in.high
+- 191 VoLTAIRE AND RoUssEAU: a pair of Louis XVI.bronzes,on futed white marble pedestals and dove-grey plinths, mountedwith laurel-branches ofor-molu-12 in.high
+- 192 A pair of candelebra, formed of Chinese porcelain figures of kylins,coloured rouge-de-fer and celadon,mounted with or-molu foliage branches for three lights each-10 in. high
+- 193 A Louis XV.child's fauteuil,with gilt framework carved with foliage,the back and loose cushion-seat covered with crimson velvet
+- 194 A pair of Louis XV. stools, carved with foliage and scrolls, on scroll legs, the tops covered with crimson velvet 194in.square
+- 195 A Louis XV.oblong stool, carved with festoons of flowers, scrolls and ribands,the top covered with striped green and white silk brocade-19 in.wide
+- 196 A LoUIs XV. CoRNER-BERGERE, the framework gilt and carved with fowers and shells,the seat and triangularshaped back stuffed,and covered with old French silk
+- 197 A LoUIs XV.BERGERE,the framework gilt and carved with fowers, the seat, arms and loose cusbion stuffed,and covered with old French brocade,with fowers and ribands in white on pink ground
+- brocade,with fowers in colours and ribands in silver thread
+- 198 A Louis XV. small corner-bergere, with gilt framework carved with foliage,the seat and back covered with cream
+- 199 A Louis XV. footstool,with gilt framework carved with foliage and wave-pattern,the top covered with old French brocade with fowers and animals in silver thread;and another, carved with foliage, with pink brocade top—
+- silk brocade with flowers on a trellis groundwork
+- 16 in.wide
+- 200 A Louis XVI.oblong stool, the framework gilt and carved with border of rosettes and ribands on futed tapering legs,the top stuffed,and covered with fowered cream silk brocade—19 in.wide
+- 201 A LoUIS XVI. MAHoGANY CABINET,With Writing-slide in the centre,two drawers in the frieze,and two drawers and cupboard enclosed by sliding panel below,at the back above is a cupboard enclosed by two sliding panels; mounted with or-molu foliage borders and openwork gallery,and a frieze across the centre chased with foliage and running serolls-30 in.wide
+- 202 A PAIR OF LOUIS XVI. OBLONG MAHOGANY JARDINIERES, with futed frieze and legs inlaid with brass,the centre and legs inlaid with foliage rosettes of chased or-molu— 26 in.wide
+- 203 A BEAUVAIs TAPEsTRY FIRE-EcREEN,with a pheasant,flowers and tree in colours, the framework gilt and carved with fowers and scrolls in the Louis XV.taste-40 in.high, 24 in.wide
+- 204 A PAIR OF SMALL FIRE-ScREENs, containing nearly similar
+- panels of tapestry,the frameworks gilt and carved with fowers,foliage and ribands-37in.high,20 in.wide
+- 205 A SuITE OF TAPEsTRy FuRNITURE, the backs,arms and
+- seats stuffed,and covered with tapestry woven with birds and animals in panels festooned with fowers,in pink borders; the frameworks of gilt wood, carved with shells and flowers, consisting of—
+
+Asettee—4ft.4in.wide A pair of bergeres Apair of large fauteuils
+
+- 206 A LouIs XV. BERGERE, the framework gilt and carved with fowers, the back,arms and loose cushion-seat stuffed,and covered with fowered pale green silkbrocade
+- 207 A LoUIs XV.LIBRARy-TABLE, with three draWers, constructed of oak veneered with tulip-wood,the top covered with crimson leather and mounted with brass border; the frieze of the table is enrichedwith ormolu borders to the drawers,chased with foliage and escutcheons,and handles chased with masks, shells and foliage,while at the corners of the legs are mounts chased with Satyrs' masks and shells-77 in.wide
+- 208 A Louis XV. CoMMoDE,with shaped front and two drawers, constructed of oak entirely veneered with panels of mahogany in tulip-wood borders,the front and ends inlaid with branches of fowers and foliage,in five panels enclosed within or-molu borders chased with scrolls terminating in foliage,at the angles are or-molu bands similarly chased with foliage and scrolls and bound by twisted ribands, surmounted by a veined yellow marble slab55in.wide
+- 209 A LoUIs XV. SMALL MARQUETERIE TABLE,the top lifting to form a work-table with four divisions,veneered with panels of tulip-wood in king-wood borders, the top inlaid with a spray of flowers—16 in.wide
+- 210 A LoUIs XV. MARQUETERIE CoMMoDE, With tWo draWers sprays of fowers in various woods;mounted with or-molu handles, escutcheons and corner-mounts, chased with
+- in the front, constructed of oak veneered with tulip-wood in king-wood borders,the front and sides inlaid with compositions of foliage and scrolls, surmounted by a Brescia marble slab-—32 in.wide—stamped C. WoL . . .
+- 211 A LouIs XV. SEcRETAIRE, with sloping fall-down front enclosing writing-slide,four small drawers and open shelves, and cupboard enclosed byfoldingdoorsbelow,constructed of oak veneered with large panels of tulip-wood in kingwood borders, the sloping front being enricbed with riband-bands,also in king-wood;with or-molu mounts at the corners, chased with foliage and compositions of scrollWork—3ft.4inhigh,3ft.4in.wide
+- 212 A LouIs XV.CoMMoDE, with shaped front and two drawers, constructed of oak and veneered with king-wood, entirely inlaid parqueterie-wise,mounted with or-molu borders, corners and handles, chased with compositions of scrollwork terminating in foliage, surmounted by a Brescia marble slab-38 in.wide-stampedJD IpoRT ME
+- 213 A LoUIs XV. SMALL CoMMoDE, with two drawers, constructed of oak veneered with tulip-wood;mounted with or-molu handles and corners, chased with foliage and scrolls,surmounted by a Brescia marble slab—2 ft.5 in. wide
+- 214 A GAMINg-TABLE, of mahogany, with reversible top forming chess-board and backgammon-table,and two drawers below, the top inlaid with scrolls in king-wood on tulipwood ground; mounted with or-molu borders chased with busts and scrolls-2 ft.9 in.wide—stamped I.P. LATZ
+- 215 A Louis XV.bergere, the framework carved with fowers,the back,arms and loose cushion covered with green silk brocade
+- 216 A pair of Louis XVI. gilt fauteuils, carved with acanthusleaves and ribands, the seats and backs stuffed,and covered with striped and flowered cream silk brocade
+- 217 A pair of Louis XVI. oval foot-stools, the frameworks gilt and carved with foliage and ribands,the legs carved as bunches of foliage, the tops covered with fowered blue silkbrocade
+- 218 A Louis XV. window-seat, carved with fowers, shells and scrolls,the top covered with cream silk brocade6 ft. 6 in.wide
+- 219 A SMALL PARQUETERIE TABLE, with drawer and writing slide,inlaid with rosettes in satin-wood on tulip-and king-wood ground,and mounted with chased or-molu borders and corners; the top formed of a plateau of Sevres porcelain,painted with fowers,fruit and a vase on a marble table,in gros-bleu border gilt with flowers. and trelliswork-13in.wide
+- 220 A Boulle toilet-mirror,inlaid with figures,foliage and strapwork in brass on tortoiseshell, the glass mounted with or-molu border chased with foliage,and the supports chased with fruit-shaped knobs of the same; the stand ftted with one drawer,and mounted with an or-molu frieze chased with rosettes and ribands—19 in. high, 13in.wide
+- 221 A Boulle bracket-clock,by Gille laine,with white enamel dial, in case inlaid with scrolls in brass and tortoiseshell, mounted with chased or-molu borders;and bracket, en suite—51 in.high
+- 222 A BoULLE LIBRARY-TABLE, with five draWers,inlaid with foliage and scrollwork in brass on ebony ground, and mounted with or-molu borders and corners chased with foliage and shells, the escutcheons formed as plumed helmets-6 ft.wide,2ft.8 in.deep
+- 223 A BoULLE INKSTAND, inlaid with strapwork, foliage and a coat-of-arms in brass on tortoiseshell ground—15 in.by 22in.
+- 224 A BoULLE CHIMING BRACKET-CLoCK, With chased brass dial with enamel numerals,the case inlaid with scrolls in brass,and with pierced and engraved panels at the sides, mounted with chased or-molu borders and figure of Amphitrite, the whole surmounted by a figure of Mars;
+- and bracket,en suite—4 ft.3 in.high
+
+## SCULPTURE.
+
+- 225 5"GaRDE A Vous ":A pair of seated figures of Cupid and Psyche,in statuary marble,after Falconet1l in.high
+- -on red marble and or-moluplinths
+- 226 MARIE ANToINETTE:a life-size bust, in statuary marble, on
+- a column of veined yellow marble, with wbite marble cap andplinth
+- 227
+- A fgure of a faun carrying a goat,a tree-stump and panpipes at his side, signed "CaINARD "3 ft. 10 in.high— on giallo marble pedestal with white marble borders, sculptured with foliage
+## CURTAINS.
+
+- 228 THREE PAIRS OF CREAM SILK BROCADE CURTAINS, the borders woven with fowers,acanthus foliage,ribands and berries in colours—12 ft.6 in.high;a lambrequin— 18ft.wide:and holders
+- 229 9A PAIR OF CuRTAINs, en suite;a lambrequin—10 ft.6 in. wide; and holders
+- 230 Two PAIRs oF CuRTAINs, en suite; two lambrequins4 ft. 6 in. wide; and holders
+- 231 A pair of curtains, of watered-green silk10 ft.high; a cornice,en suite-10 ft.wide;and holders
+
+## AUBUSSON CARPETS.
+
+- 232 AN AuBUssoN CARPET,with fowers on white ground, with lavender border—23 ft.3 in.by 19 ft.
+- 233 An Aubusson carpet,with fowers and foliage on pink and green ground-16 ft.5 in.by 14 ft.
+- 234 An Aubusson carpet,with fowers on pale blue centre,in red border-13 ft.6 in.by 9 ft.1 in.
+- 235 An Aubusson carpet, with fowers in colours on pink centre, in red border—23 ft.by 17 ft.4 in.
+## PERSIAN CARPETS.
+
+- 236 A PERsIAN CARPET, with an intricate design on dark blue centre,in striped red and white border—27 ft.long,8 ft. 8 in.wide
+- 237 ANoTHER,with nearly similar centre,and striped red and orange border—24 ft.long,7 ft.7in.wide
+- 238 ANoTHER,with a design of formal fowers and foliage on red
+- centre and wide buff border22 ft.4 in.by 7 ft.6 in.
+- 239 A PERsIAN CaRPET, the centre decorated with animals and birds,on pale green ground and with striped red,blue
+- and white border—11 ft.11 in.by9ft.
+
+End of Second Day's Sale
+## Third Day's Sale.
+
+## On TUESDAY, APRIL 29,1913,
+
+AT ONE O'CLOCK PRECISELY.
+
+## CHINESE PORCELAIN.
+
+- 240 Apair of famille-rose futed cups and saucers,enamelled with fowers and river scenes in pink diaper borders-KienLung;and a pair of small bowls,with pierced exteriors
+- 241 A vase and cover,enamelled with fowers in the European taste in red and green borders—12 in.high;and a vase and cover, enamelled with fowers, and with gilt dragonhandles-1l1in.high—Kea-Ring
+- 242 A tea service,painted with European fgures in grisaille, and gilt with a monogram, consisting of a tea-pot, cover and stand, cream-jug, cover and stand, canister and cover, sugar-basin and cover,butter-dish,cover and stand,four cups and six saucers
+- 243 A famille-rose jar,enamelled with flowers-51 in.high Kien-Lung;a bowl, enamelled with fowers in pink borders;and a famille-verte bowl, with Ho-Ho birds and
+- fowers and stippled green borders-Kang-He
+- 244 A mug, enamelled with figures on blue diaper ground;
+- another,enamelled with fowers and painted with fgures in blue;a cylindrical mug,enamelled with fowers;and a small oval dish and basket,enamelled with a European coat-of-arms in pierced blue and white border-9 in. wide
+- 245A famille-verte dish,enamelled with two ladies anda chariot drawn by a stag, characters at the back—15 in.diam.; and a dish,enamelled with Ho-Ho birds and flowers 13 in.diam.--Kang-He
+- 246 A pair of famille-verte dishes, enamelled with carp—13 in. diam.-Kang-He
+- 247 A famille-verte bowl,enamelled with river scenes and fowers
+- in petal-shaped panels,and with stippled-green border inside—13 in.diam.—Kang-He
+- 248 A powdered-blue bowl, enamelled with panels of fowers and grasses in famille-verte, and pencilled with fowers and foliage in gold, the interior enamelled with formal fowers--1l in.diam.—Kang-He
+- 249 A bowl, enamelled with Chinese and European figures and flowers in panels on gilt scroll ground, the interior enamelled with fowers and gilt with bamboo-13 in diam.—Kien-Lung
+- 250
+- Three bowls, enamelled with festoons of fowers in the European taste10 in.and 11 in.diam.—Kien-Lung
+- 251 A bowl,enamelled with European hunting scenes and fowers —1l in.diam.;and a famille-rose bowl, enamelled with
+- peonies and a fence—10 in. diam.—Kien-Lung
+- 252 A bowl, enamelled with panels of figures on gilt scroll ground—1l in. diam.; another, with fowers in red and gold diaper borders1l in. diam.;and a pair of small bowls,with fower-sprays in the European taste,in gilt trellis borders-7 in.diam.—Kien-Lung
+- 253 A bowl,painted with foliage and flowers in red, blue and gold, and enamelled with foliage in green13 in. diam.; a mazarin-blue bowl—1l in. diam.;a large bowl, enamelled with panels of figures on red and gold trellis ground-161 in. diam.—Kien-Lung; and a crackle jar, enamelledwith alandscape-17in.high
+- 254 A famille-verte circular jardiniere, enamelled with peonies, chrysanthemums, grasses and cocks—11 in.high—9 in. diam.—Kang-He
+- 255 A pair of figures of dogs, spotted red and black—15 in.high
+- 256 An oviform jar, enamelled with kylins and formal flowers in famille-verte,and pencilled with a band of trelliswork round the shoulder in coral colour—11 in.high—Ming
+- 257 A pair of Chinese famille-rose vases, of inverted pear-shape, enamelled with ladies and dogs,and mounted with ormolu handles, covers and plinths chased with foliage— 12 in.high—Kien-Lung
+- 258 A pair of famille-verte cylindrical vases, enamelled with ladies carrying fans, and vases of fowers, the necks pencilled with coral colour-9 in.high—Kang-He
+- 259 A LARGE BowL,enamelled with fowers in the European taste,and with red,mauve and gold chequer panels round the borders-21 in.diam.—Kien-Lung
+- 260 A pair of bowls,painted with peonies and other fowers,and birds, in coral colour, blue and gold—15 in.diam.
+- 261 A famille-rose barrel.shaped seat, enamelled with peonies and otherflowersin coloured lambrequinborders-8in. high
+- 262 A pair of octagonal jardinieres,enamelled with formal fowers and emblems-9 in.diam.
+- 263 A bowl, enamelled with landscapes and pastoral scenes in panels, on a ground of gilt scroll foliage—15 in. diam.— Kien-Inung
+- 264 A bowl and cover,enamelled with figures and landscapes9in.diam.
+- 235 A famille-verte globular vase and cover, enamelled with boys playing—16in.high—Kang-He
+- 266A A globular vase, enamelled with a lady and boys in famille-
+- .verte—14 in. high;and an octagonal cover, enamelled with flowers,ete-Kang-He
+- 267 A globular jar, entirely enamelled with peonies and Ho-Ho birds in famille-verte-13 in.high—Kang-He
+- children—14 in.high-Kien-Lung—wood covers and
+- stands
+- 269 A famille-rose oviform-vase, enamelled with Sages and chil-
+- dren—14in.high—Kien-Lung-onmetal foot
+- 270 A cylindrical vase, enamelled with a landscape,river scene and summer-house,in famille-rose—18 in.high—KienLnung
+- 271 A pair of famille-verte jars, enamelled with a mandarin and
+- other figures and landscapes, flowers round the necks20 in.high—Ming
+- 272
+- A famille-rose figure of an elephant-22 in.high
+- 273 A gourd-shaped bottle,painted with bats and gourds, in blue
+- and brown-24in.high
+- 274 A globular vase, enamelled with birds and fowers in famillerose, in pink and brown scroll borders2 ft.highon carved and giltwood stand
+- 275 5A cistern,enamelled with fgures and landscapes in diaper borders-25 in.diam.—on carved wood stand, with
+- marbletop
+- 276 A cistern, enamelled with panels of figures on yellow ground
+- in green borders,fish in the interior—21 in. diam.
+- 277 A FAMILLE-RoSE OcTAGONAL JARDINIERE,enamelled with fowering plants and trees—141 in. diam.——Kien-Lung
+- 278 A FAMILLE-VERTE CYLINDRICAL VASE, enamelled with figures in a summerhouse,and characters and a diaper band round the neck—18 in.high—Kang-He
+- 279 ANoTHER,of octagonal shape,enamelled with fowering trees and plants,and with emblems round the shoulder,on trellis and scale-pattern ground20 in.high—Kang-He
+- 280 A PoWDERED-BLUE OvIFORM VASE AND CoVER,painted with river scenes and fowers in mirror-shaped panels, and slightly heightened in famille-verte-18 ih.high Kang-He-wood stand
+- 281 A cylindrical powdered-blue vase,pencilled with fowers and dragons in gold-16in-high
+- 282 A VasE,painted with a river scene,fshermen and rocks,in blue slightly heightened with green on yellow ground,the neck painted with fower sprays—17in.high
+- 283 A powdered-blue beaker,pencilled with fowers and a Ho-Ho bird in gold-18 in.high
+- 284 A turquoise crackle vase, pencilled with dragons and clouds ——14in.high
+- 285 A turquoise crackle bottle,13 in.high;and one, engraved with flowers and foliage-13 in.highon or-molu foot, with lions'-clawfeet
+- 286 A turquoise crackle jar, engraved with dragons—10 in.high wood stand; and a turquoise crackle vase-12 in.high —wood stand
+- 287 A turquoise crackle jar—101 in.highon metal-gilt foot; and a jar,of similar colour—12 in high
+- 288 A t turquoise crackle vase,decorated with key-pattern and palm-leaves,and with mask handles-12 in.high;and a powdered-blue dish,pencilled with river scenes and fowers in gold-10 in..diam.
+- 289 A crimson bottle, splashed with mauve,mounted with or-molu handles,lip and plinth chased with foliage and scrolls in theLouis XV.taste-7 in.high
+- 290 A pair of mazarin-blue jars and covers,pencilled with flowers and butterfies in gold-25 in.high
+- 291 Two white figures of goddesses16↓ in.high
+- 292
+- A pair of small white bottles,incised with dragons and fowers beneath the glaze, mounted with or-molu lip and foot of Empire design—7 in. high
+- 293 A figure of a carp, coloured red and green-91 in. long—on
+- carved wood stand
+- 294 An oval turquoise bowl, decorated with emblems and key-
+- pattern,andmounted on or-molu feet,designed asfruit and foliage-5 in.high
+
+## JAPANESE PORCELAIN.
+
+- 295 AN IMARI VAsE AND CovER, painted with river scenes and
+- fowering-trees in variously shaped panels, on dark blue ground gilt with chrysanthemums-27in.high
+- 296 Another, painted with chrysanthemums and other fowers, and the shoulder gilt with a band of fowers and foliage 25in.high
+- 297
+- An Imari deep circular bowl,painted with panels of fowers, on a groundwork of fowers and foliage in coral colour and gold on dark blue ground-15 in.diam.
+- 298 A pair of Japanese figures of dogs—10 in.and 9 in.high
+- 299 A pair of Japanese figures of cocks, on bamboo-pattern stands—14in.high
+- 300 A pair of Hirato figures of cocks-9 in. high; and a Hizen octagonal bowl, with fowers in colours, mounted with or-molu rim and stand—4 in.diam.
+- 301 Three Chinese carved soapstone figures, partly painted—
+- 16in.high
+- 302 A Canton enamel small screen,painted with the Immortals and other figures in a landscape,on carved wood stand— 22 in.high,18 in.wide
+- 3A Canton enamel circular bowl,with pierced cover,painted with fowers, dragons,etc.1lin.diam.;and a Japanese
+- 303 sword,with carved ivory sheath
+- 304 A copy of a Chinese jardiniere, enamelled with kylins in the famille-verte taste—12 in.diam.;one, enamelled with fowers in the famille-rose taste—14 in.diam.;and one,
+- with panels of fowers on marbled blue and gold ground
+- 305 A copy of a Chinese famille-verte cistern, enamelled with panels of landscapes,kylins and fowers, on carved wood standwith marble top
+- 306 A porcelain cistern, of famille-roee design, enamelled with panels of fowers on mazarin-blue ground pencilled with gold26 in. diam.—on gilt wood stand, carved with
+- laurelwreathsand acanthusleaves
+## POTTERY.
+
+- 307 A Delft beaker, painted with ladies and flowers in spiral panels in blue,in imitation of Nankin—20 in.high
+- 308 A Delft dish,painted with fgures merrymaking,in border of flowers in blue18 in. diam.; and a vase and cover, painted with panels of Chinese figures and fowers14in.high
+- 309 A DELFT GLoBULAR JAR,entirely painted with alternate
+- panels of river scenes and fowering trees,in imitation ofNankin—12in.high
+- 310 A Delft bowl,painted in blue with vases of fowers in panels, ona scroll groundwork—15 in.diam.;and an oviform jar,painted with vases of fowers and scrolls in blue,in the style of Nankin—10 in.high
+- 311 A Marseilles faience soup-tureen and cover, painted with flowers in colours, and the cover modelled with an artichoke and mushrooms-9 in.high
+- 312 A Niderviller fountain,painted with Chinese figures in colours,and modelled with a mask-10 in.high
+- 313 A pair of Delft groups, of a milkmaid and cow, and boy and cow,decorated in polychrome-6 in.high
+- 314 A pair of Delft figures of cows-7 in.high; and a group of a milkmaid and cow,painted with fowers in blue-6 in.
+- high
+- 315 A Persian faience bottle,painted with formal fowers-12 in. high; a Bristol Delft bowl, with a river scene in blue 10 in.diam.; and five Staffordshire ware blue and white cups and covers
+## DECORATIVE OBJECTS AND FURNITURE.
+
+- 316 A pair of French porcelain vases and covers, painted with pink roses and trelliswork of green foliage,mounted with or-molu borders and foliage handles15 in.high
+- 317 A pair of oviform vases,nearly similar—10 in.high
+- 318 A clock, of Louis XVI. design, in pedestal-shaped case of white marble,mounted with or-molu borders and birds'claw feet,on grey marble plinth,and surmounted by an or-molu figure of a cock-13 in.high
+- A small oblong marqueterie table, of Louis XVI. design, 319 with sliding top and one drawer enclosing writing-slide, the top and frieze inlaid with writing utensils,books and a spray of berried foliage, in various woods19 in. wide
+- 320 Three small gilt chairs,of French design,with foliage borders and hoof feet,with canework seats and backs, and cushions covered with fowered cream brocade;and a pair of small gilt-wood chairs,with lyre-shaped backs
+- 321 A Louis XVI. small circular mahogany table, with two drawers and two slides,mounted with or-molu galleries and borders, and giallo marble top-25 in.diam.
+- 322 A three-leaf screen, carved with foliage and running scrolls painted white and partly gilt,the lower part containing panels of green silk brocade—4ft.4 in.high
+- 323 A fire-screen,in gilt-wood frame carved with flowers and scrolls, containing a panel of tapestry with Cupids in bordersofflowers
+- 324 An oblong stool, of Louis XVI. design, carved and gilt with foliage,the top covered with blue velvet; and two stools withbrocade-covered tops
+- 325 A small oval table, of French design, with king-wood borders, the top covered with leather and with three shelves below,mounted with or-molu borders and chased corners —28 in.wide
+- 326 A clock, the movement by Furet, a Paris,in drum-shaped or-molu case with or-molu figures of Venus and Cupid at the side,on white marble plinth mounted with chased
+- or-molu frieze-13in.high
+- 327 A mahogany bergere, of Louis XVI. design, carved with foliage,ribands and scale-pattern,partly gilt, the seat, back and arms stuffed,and covered with striped and
+- flowered silk brocade
+- 328 A commode,of Louis XVI. design,with two drawers in the front,inlaid with branches of flowers in three oval panels, on tulip-wood ground with king-wood borders,mounted with or-molu,and surmounted bya feur-depechemarble
+- slab-4ft.4in.wide
+- A THREE-LEAF GILT ScREEN,of Louis XIV. design,carved with fowers, shells and scrolls, containing panels of old French pink silk brocade worked with shells and arab-
+- 329 esques in silver thread—4 ft.7in.high
+- 330
+- A clock,of Directoire design,in drum-shaped or-molu case supported by columns of white marble, mounted with or-molu beadings and friezes-20 in.high
+- 331 A small oblong mirror,in gilt frame, carved with a military trophy, mask and branches11 in.high,24 in.wide; and a mirror,in gilt frame carved with flovers and scrolls
+- —17 in.high,15in.wide
+- 332 A small gilt settee, carved with laurel foliage and ribands, and set with blue and white biscuit porcelain plaques,with gilt canework seat and back,and cushion covered with
+- flowered cream silkbrocade-4ft.wide
+- 333 A pair of small gilt seats, carved with wreaths of fowers,and with gilt canework seats and ends-23 in.wide;and an oval seat,carved with festoons of fowers,with canework top-20 in.wide
+- 334 A music-stand, with gilt framework carved with a trophy, foliage and scale-pattern,and mounted with a panel of brocade—1 ft.10 in.wide;and a gilt book-stand, carved with foliage and trophies—1 ft.8 in.wide
+- 335 A three-leaf screen, of Louis XVI. design,the gilt framework carved with laurel-wreaths and ribands,with oval embroidery panels in the upper part, worked with fowers in colours,and panels of green silk below—5 ft.high
+- 336 A four-leaf gilt screen, carved with trophies and flowers, containing panels of glass-3 ft.6 in.high
+- 337 A small gilt chair, with revolving canework seat,and cane back;and four small gilt footstools,the tops covered with brocade
+- 338 A gilt bergere, of Louis XVI. design, carved with acanthusleaves and foliage,the seat and back covered with old striped and flowered grey silk brocade
+- 339 Another, of Louis XV. design, carved with fowers, the back and loose cushion covered with old flowered green silk brocade
+- 340 A gilt-wood music-stand, carved with flowers and a trophy, and containing panels of gilt canework—3 ft.1 in.high
+- 341 A small gilt show-case,with carved scroll and foliage borders, glazed lifting-top, and sloping sides-27 in.by 19 in; and a frame,for miniatures,of nearly similar design— 19 in.by 21in.
+- 342 A gilt-wood music-stand, pierced and carved with a musical trophy,foliage and scrolls
+- 343 A gilt-wood easel, surmounted by a faming vase,on tripod formed as cornucopie supporting a vase of fowers,on veined blackmarbleplinth-6ft.4 in.high
+- borders, on futed legs and X-shaped stretcher surmounted by a vase,with glazed lifting top—2 ft.9 in. wide
+- 344 A gilt-wood show-table, with carved riband and foliage
+- 345 A music-stand,of gilt wood, carved with a lyre and laurelbranches,on futed stem and tripod carved with scalepattern and acanthus foliage
+- and arches in colours and silver thread
+- 346 A pair of chairs,of Louis XV. design, the frameworks gilt carved with fowers, the seats and backs stuffed, and covered with green silk brocade,with fowers and
+- 347
+- A three-leaf screen, in gilt framework, of Louis XV. design, carved with flowers, shells and scroll foliage, the panels composed of old French brocade, with flowers in colours and ribands in silver thread on cream ground-6ft.6 in. high
+- 348 A gilt three-leaf toilet mirror,carved with branches of
+- 349 An arm-chair,of Italian design,with scroll arms carved with foliage, turned legs and stretchers, the seat and back covered with crimson velvet;and a toy ditto
+- 350
+- 351 A pair of X-shaped arm-chairs,covered with green velvet, the backs decorated with appliquee
+- 352
+- foliage--34 in.high
+- A settee,entirely stuffed,and covered with crimson velvet, with adjustable ends5 ft.6 in.wide;and a cushion, covered with flowered cut velvet-3 ft.9 in. long
+- embroidery,with foliage and strapwork in gold thread
+- A pair of winged arm-chairs,with adjustable wings,entirely stuffedandcoveredwith crimsonvelvet
+- 353 A pair of settees,en suite5ft.6in.wide; and three cushions, covered en suite
+- 354 A settee, stuffed and covered with green velvet,with rectangular legs and stretcher-6 ft. wide;a pair of armchairs, en suite; and two cushions
+- 355 Four chairs,the rectangular backs and loose cushions covered with green velvet
+
+## DUTCH FURNITURE.
+
+- 356 A Dutch marqueterie miniature wardrobe, with folding doors and tbree drawers below, inlaid with vases,birds and foliage—2 ft.11 in.high,1 ft.11 in.wide
+- 357 A bracket-clock,by M.Buijs,Rotterdam,with dial showing phases of the Moon and painted with a Nymph and Cupid,inpedestal-shaped case of light wood,with pierced gallery round the top-23in.high
+- 358 A Dutch walnut-wood table, with two drawers, the top of shaped outline,supported on tapering octagonal legs with X-shaped stretcher—2 ft.9 in.wide
+- 359 A DuTCH MARQUETERIE TABLE,with one draWer,the top inlaid with an oval panel of scroll foliage in marqueterie, and star ornament and chequer lines,on ground of pollard walnut-wood,with twisted ribands round the borders,on turned legs with X-shaped stretcher-late 17th Century 4ft.wide
+- 360
+- A Dutch marqueterie table,with one drawer,inlaid with fowers, insects and arabesques on walnut-wood ground, and an oval panel of scroll foliage in the centre,on rectangular legs with X.shaped stretcher-3 ft.6 in.wide —early18th Century
+- A Dutch marqueterie commode,with four drawers,inlaid
+- 361 with a basket, cornucopie and fowers3 ft.3 in.wide
+- 362
+- A Dutch marqueterie toilet-table,with lifting-top in three divisions,and three drawers below,inlaid with a vase and caryatid figures supporting vases of flowers—2 ft.4 in.wide
+- 363 A Dutch commode,with five drawers,inlaid with chequer
+- 364 A Dutch commode,with five drawers,inlaid with chequer bands in tulip- and king-wood borderss, surmounted by a feur-de-peche marble slab—4 ft.3 in.wide
+- bands,and mounted with or-molu escutcheons and corners, surmounted bya veined red marble slab-4ft.3 in.wide
+- 365 A Dutch marqueterie oblong table,inlaid with a vase of fowers, birds and foliage, with chequer borders, on spirally turned legs and inlaid stretchers-3 ft.6 in.wide
+- A Dutch marqueterie small commode,of shaped outline, with four drawers,and folding leaf inlaid with a vase, fowers and foliage, supported on five legs with ball-andclaw feet2 ft.7 in.wide;and a Dutch marqueterie
+- 366 stool,on cabriole legs carved with shells
+- 367 A Dutch commode,with five drawers,inlaid with chequerpattern, and banded with hare-wood and mahogany, surmounted by a black andwhitemarble slab-4 ft.2 in. wide
+- 368 8 A Dutch marqueterie commode,of semicircular shape,with five drawers and two cupboards,inlaid with futing and rosettes in satin-,tulip- and hare-wood, surmounted by a dove-greymarble slab-4 ft.3 in.wide
+- 369 A Dutch marqueterie commode,the top opening to form a wash-stand,and with drawer and folding doors below, inlaid with rosettes and banded with satin-wood in chequer borders-3ft.9 in.wide
+- 369a A Dutch mahogany commode, carved with a medallion head
+- and laurel festoon, the top lifting to form a washstand, and with tambour panels below-3ft.6in.wide
+- 370 A Dutch marqueterie commode,with serpentine front and four drawers,inlaid with fowers and scrolls,mounted with or-molu handles,escutcheons and corners,chased with ramsheads,vases and rosettes—4 ft.4 in.wide— 18th Century
+
+(A23)
+
+D2
+- 371 A Dutch mahogany wardrobe,with folding doors,and eight
+- drawers below,inlaid with vases, and fan ornament in satin-wood,the top surmounted by a vase in full relief festooned with laurel,mounted with metal-gilt handles chased with busts-8ft.6 in.high,6ft.wide
+- 372 three drawers below, carved with vases, rosettes and laurel foliage, and with columns at the angles with metal-
+- gilt Corinthian capitals--8 ft.by 5 ft.10 in.
+- 373 A Dutch marqueterie wardrobe,with folding doors and four drawers below,inlaid with panels of rosette and star ornament, and heart-shaped devices in the corners on walnut and otber grounds,the lower part carved with basket-pattern borders—6 ft.9in.high,5 ft.9 in.wide —early18thCentury
+- 374 A DuTCH MARQUETERIE WARDROBE,with folding doors and two drawers below,inlaid withvases of fowers,birds and scroll foliage,mounted with metal-gilt handles chased
+- with busts—7ft.8in.high,6ft.wide
+- A DuTCH MAHoGANY WARDRoBE,with folding doors and four drawers below,carved with laurel-festoons,ribands and a mask,and with beaded and scale-pattern borders, at the angles are futed columns with metal-gilt
+- 375 Corinthian capitals-8ft.high,6ft.wide
+- 376 6A DuTCH MAHoGANY WARDROBE,enclosed by folding doors carved with laurel-festoons,ribands and a medallion head, with futed columns at the angles with Corinthian capitals —8ft.3 in.high,6 ft.6 in.wide
+- 377A Another,nearly similar,with three drawers in the lower part —8ft.high,6ft.wide
+
+End of Third Day's Sale.
+## Fourth Day's Sale.
+
+## On WEDNESDAY,APRIL 30,1913
+
+AT ONE O'CLOCK PRECISELY.
+
+## ITALIAN MAJOLICA.
+
+- 378 A pair of Urbino cylindrical pharmacy-jars,painted with
+- landscapes,figures and Cupids-81 in.high
+- 379 A pair of Italian majolica ditto,painted with landscapes and Cupids-7in.high
+- 380 A PAIR OF URBINo Two-HANDLED VASES, painted with Cupids, caryatid fgures and Raffaellesque ornament,with serpent handles supported by masks-20 in.high
+- on a dark blue ground,with fruit and foliage-17 in.high
+- 381 A pair of Italian majolica jars,painted with Classical heads
+- 382 Two Italian majolica jars,painted with medallion heads in panels, on a ground of formal fowers and foliage in scalepattern borders-12in.high
+- 383 A Deruta dish,painted with a female portrait in the centre,
+- and foliage and scale-pattern round the border in lustred brown and blue-153in.high
+- 383a A Treviso vase,of Classical shape, painted with fowers in
+- colours on black ground,and ribands in lake-221 in.high
+## OBJECTS OF ART.
+
+- 384 A blotting-book, in leather case stamped with strapwork and emblematic figures,the centre painted with a coat-of-arms
+- 385 A MirRor, the back formed of a plaque of Limoges enamel, painted with Juno and the Furies at the Gates of Hades, in translucent colours and gilding,by Susanne Court— signed with initials—the frame of copper-gilt
+- 386 A pair of table candlesticks, of rock-crystal and glass, with octagonal nozzles,faceted stems and plinths,mounted with metal-gilt borders-10 in.high
+- 387 A pair of ditto, with futed wax-pans and hexagonal plinths, mounted with French beaded silver borders-9in.high
+- 388 A pair of ditto,with faceted octagonal stems and plinths, and futedwax-pans-8in.high
+- 389 A pair of candelabra,with rock-crystal and metal-gilt stems and branches for two lights each,the bases supported by figures of Sphinxes—19 in.high;and a candelabrum,en suite,with branches for three lights—19in.high
+- 390 A pair of candelabra,with faceted rock-crystal stems and metal-gilt branches for three lights,on triangular plinths supported by silvered fgures of lions at the corners21in.highon wood plinths
+- 391 A pair of Venetian brass candlesticks, with Cherubs'heads in relief,on claw feet,dated 1703—18 in.high—fitted for electric light
+- 392 A
+- Turkish brass ewer and bowl, engraved with fowers, foliage and scrolls
+- 393
+- A small sword, with silver hilt pierced and chased with rosette ornaments and beading；and one,pierced with withfaceted rosettes-18th Century
+- 394 Two small swords,with silver hilts chased with faceted beads
+- —18th Century
+- 394A Two small swords,with faceted and spirally futed silver hilts—18th Century;and two hunting-knives, the hilts mounted with chased metal gilt
+- 395 A pair of fint-lock pistols,with carved walnut-wood stocks, silver mounted—18th Century;and a pair of small ditto, with inlaid barrels,the stocks mounted with silver birds'heads
+- 396 A Louis XV.hunting-knife,with silver-mounted hilt chased with Cherubs, shells and scrolls; and one, with silver guard,engraved with crowned monogram M.A.
+- 397
+- A pair of Italian gilt-wood candlesticks,carved with medallion busts,Cherubsheads, foliage and scrolls,on triangular plinths—2ft.6in.high-fitted forelectriclight
+- 398
+- An Italian bronze inkstand, with caryatid and crouching fgure supports, the cover surmounted by a group of two boys andalion-13in.high
+- 399 Three bronze figures of Fauns, on square pedestalsi0 in. high
+- 400
+- 401 Four bronze busts of winged figures-S in.high
+- A bronze figure of Venus,after the Antique—74 in.high; and a small shell-shaped tray, surmounted by figures of boys with musical instruments-6 in.high
+- 402
+- A bronze bust of aman—12 in.high
+- 403
+- A bronze figure of a Dutch fisher-girl, by Ruth Milles10 in.high
+- 404 A
+- bronze-gilt female fgure on rockwork plinth,by J. Descourtis-on white marble plinth
+- 405
+- A bronze two-handled bowl, decorated with caryatid figures and scroll foliage, the handles formed as gryphons10 in.diam.;and a vase and cover, with border of oak foliage-7in.high
+- 406
+- 407 group-20 in.high
+- An Italian circular bronze bowl and cover,decorated with Cupids, a shield of arms and monogram81 in. diam.
+- The Infant Hercules strangling a serpent:a bronzed metal
+- 408 A bronze figure of an athlete, after the antique—27 in.high
+- 409 A bronze bust of a philosopher,life size, signed VARLEsE, Naples-on veined marble socle
+- A pair of bronze double busts, of Fauns and Bacchantes,on
+- 410 pedestals of veined red marble-21 in.high
+- 411
+- A bronze figure of a Faun, seated on a goat's skin and rockwork, and crying, pan-pipes slung at his side,after Clodion-33 in.high
+- 412 A LoUIs XIV. BRoNzE RELIEF,of a Marshal wearing armour, holding his baton in his right hand,a letter in his left;mounted on a plaque of white marble, and surmounted by a bronze crown, lion's mask and scrollwork 21in.high
+- 413 A PAIR OF BRoNZE ANDIRoNs, surmounted by figures of Venus holding a mirror, with Cupid at her side,and Adonis with a dog and spear;on triangular supports decorated with masks, winged caryatid figures and festoons of fowers,the stems decorated with the Medici arms-3ft.9in.high—Italian,late16th Century
+- 414 A HEAD OF A CHILD, sculptured in statuary marble-5 in.
+- high—Italian,15th Century—on giallo marble socle
+- 415 HEUREs A L'UsAIGE DE RoMME, tout au long sans riens requerir, avec ung commun antiennes suffrages et oraisons de plusiers Saincts selon ledit Usaige et plusiers aultres,othicIettr,pinted onvellum,with8fullage and 26 smaller woodcuts, ALL RICHLY ILLUMINATED IN GOLD AND coLoURs; also illuminated floral borders on every page,and initials,8vo,modern embossed pig-slin
+
+Paris,par Gillet Hardouyn [1509]
+
+- An Italian ironwork stand,of open trellis design, on scroll supports,and with a screen of similar trellis at the back —6 ft.6 in.high;and a copper jardiniere
+- 416
+- 417A Dutch brass chandelier,with scroll branches for six lights, engraved with a Dutch inscription and dated 1745-2 ft. 3in.high
+## DECORATIVE FURNITURE.
+
+- 418 A Bombay ebony chair, with low back carved with masks, fruit and foliage,and supported by turned rails,the seat covered with crimson damask-17th Century
+- 419 A pair of Bombay ebony chairs, carved with caryatid figures, dolphins and foliage,and with turned spiral supports to thebacks
+- 420
+- An oak table,with one drawer,elaborately carved with foliage, mounted with a plate engraved,"DURING THE STAY OF TOWER STREET THIS FURNITURE WAS IN HIS SERVICE AND SOME WAS CARVED BY HIM'-3ft.4in.wide
+- 421
+- 422
+- 423
+- A GERMAN MARQUETERIE TABLE,the top inlaid with architectural forms,birds,foliage,and a quartrefoil panel in various woods,a frieze of strapwork round the sides,on stand,with carved scroll supports5ft.2 in.wide—17th Century
+- A SwIss OAk DRAw-TaBLE, inlaid with small panels and futing in ebony,and on turned baluster legs with futed Century
+- A six-leaf sereen, composed of panels of Spanish stamped and gilt leather,with a foral design—6ft.4 in.high
+- 424 A Flemish mirror,in frame overlaid with tortoiseshell, moulded ebony borders-24in.by21in.—17thCentury
+- 425 A Flemish mirror,in frame overlaid with tortoisehell,mounted with metal-gilt plaques at the corners repousse with masks and caryatid fgures-20 in.by 15 in.—17th
+- Century
+- 426 A Flemish rose-wood table,with folding leaves,on rectangular legs yith X-shaped stretcher,inlaid with interlaced bands of ebony outlined with light wood4 ft.4 in.long— 17th Century
+- 427 A FLEMIsH OAk CaBINET,enclosed by a fall-down door, and with open shelf below,the centre panel carved with the Sacrifce of Abraham,and allegorical figures at the sides, the borders profusely carved with foliage and strapwork, the upper part supported by caryatid fgures holding fruit
+- —5 ft.2in.high,5 ft.1 in.wide
+- 428 A FLEMIsH OAK ARMoIRE, enclosed by folding doors, decorated with baluster and strapwork ornaments in relief in ebony,with futed borders and frieze,the top carved with three masks in high relief—7ft.high,5ft.9in. wide-17thCentury
+
+## ITALIAN FURNITURE.
+
+- 429 An Italian casket,with lifting top,overlaid with strapwork in tortoiseshell, and small panels of faceted looking-glass, mounted with silvered metal corners and feet—16 in.
+- square
+- 430 An Italian marqueterie oblong table,with lifting top inlaid with Classical fgures, vases and festoons—2ft.10 in. wide
+- 431 A pair of Italian marqueterie pedestal cupboards,inlaid with
+- Classical figures, vases and festoons of foliage in various woods-1ft.10 in.wide
+- 432 An Italian marqueterie commode,inlaid with ruins,and surmounted by aveined grey marble slab-4ft.1 in.wide
+- 433 A pair of Italian marqueterie pedestal cupboards,with one drawer and door below,inlaid with fgures, vases and foliage-16 in.wide—18th Century
+- 434 A pair of Italian marqueterie square tables, with lifting tops inlaid with foliage, scale-pattern and beading-2ft.8 in.
+- square
+- 435 An Italian marqueterie pedestal.cupboard,with drawer in the frieze and door below,inlaid with scroll foliage21 in.
+- wide-18th Century
+- 436 An Italian marqueterie commode,with three drawers,inlaid with birds,festoons and arabesques in borders of foliage —49in.wide—18th Century
+- 437 Another, nearly similar, the front inlaid with Cupid in a
+- chariot drawn by goats—4 ft.2 in.wide—18th Century
+- 438
+- A pair of Italian marqueterie commodes,with three drawers, inlaid with circular medallions, and a frieze of figures, medallion heads and baskets of fowers-4 ft.2 in.wide
+- 439 An Italian small table, with one drawer, the top inlaid with Amphitrite,caryatid figures,masks and
+- scrolls in marqueterie of light wood on walnut ground,on turned legs-2ft.6 in.wide—17th Century
+- 440 A pair of Italian circular frames of gilt wood, carved with wreaths of foliage and ribands-16th Century
+- 441 A pair of Florentine small gilt wood frames,pierced and bo!dly carved with flowers and scroll foliage-10 in.high, 7 in.wide-17th Century
+- 442 A PAIR OF ITALIAN CIRCULAR MIRRORS,in gilt WOod frames,
+- carved with Amorini, eagles and gryphons among scroll foliage-3ft.diam.—16th Century
+- 443 A pair of mirrors, the frames overlaid with tortoiseshell, mounted with plaques and corners of silvered metal embossed with Cherubs and foliage—2 ft.10 in.by 2 ft.3 in.
+- 444 A pair of Venetian gondola-lamps,of gilt wood carved with foliage and scrolls, and surmounted by feur-de-lys ornaments, mounted on bases carved with foliage and partly
+- gilt,fitted for electric light—8ft.4 in.high
+- 445 An Italian torchere, with gilt top carved with foliage, on lacquered spiral stem,and three feet carved as dolphins
+- —2ft.11 in.high—17thCentury
+- 446 A pair of Venetian large arm-chairs, gilt and boldly carved with carytid figures, masks and foliage, the seats and
+- backs stuffed,and covered with crimson plush
+- 447 A pair of Italian gilt wood wall-lights, shaped as vases, carved with flowers and foliage,and with seroll branches for four lights each,fitted for electric light—2 ft. 6 in. high
+- 448 An Italian walnut-wood prie-dieu, carved with masks and
+- caryatid figures-25 in.wide—16th Century
+- 449 A pair of Italian brackets,of gilt wood,carved with figures of Neptune,Amphitrite,other figures and masks,and with looking-glass backs-18 in.high,17in.wide—17th Century
+- 450 Four Italian mirrors, the glasses engraved with Scriptural and Classical subjects,in gilt-wood frames carved with fowers—22 in.high,24 in.wide—18th Century
+- 451 pair of Italian side-tables,of gilt wood,carved with masks,foliage,shells and strapwork,on scroll supports surmounted by busts, the tops surmounted by slabs of
+- A veined yellow and grey marble—5ft.5 in.wide
+- 452
+- An Italian upright mirror,in gilt wood frame boldly carved with masks and branches of fowers-6 ft.6 in.high, 3ft.1in.wide
+- 453 AN ITALIAN MIRRoR, in gilt frame carved with fowers, foliage and strapwork, and with elaborate top of scroll outline carved with festoons of flowers, strapwork and a shell on a background of looking-glass-8 ft.high,
+- 5ft.3 in.wide
+- 454 FourVenetian chairs,the frameworks gilt,carved with shells, foliage and scrolls, on cabriole legs with X-shaped stretchers,the seats and backs stuffed,and covered with blue and gold cut-velvet
+- 455
+- AN IrALIAN MIRROR,of shaped outline,the framework gilt and carved with masks,fowers and shells on looking-glass background—7ft.6in.high,4ft.wide
+- 456
+- Four Venetian chairs,gilt,with trellis work and scale-pattern on painted green ground,the tops carved with shells,the seats covered with crimson brocade-early 18th Century
+- 457 An Italian walnut-wood table,the frieze carved with foliage and futing,on turned legs-6ft.8 in.wide
+- 458 AN ITALIAN RECTANGULAR MIRROR,in gilt-Wood frame carved with foliage, the border and top overlaid with plaques of tortoiseshell,upon which are inlaid figures emblematic of the Seasons and Months, scroll foliage and a military trophy4 ft.2in.high,2ft.10in.wide— 17th Century
+- 459 An Italian walnut-wood folding reading-desk,with turned supports,surmounted by vase-shaped ornaments, the book-rest formed of a panel of crimson velvet17th Century
+- 460 AN ITALIAN OAK TABLE,with one draWer, the frieze carved with scroll foliage and gryphons supporting a coat-ofarms,the legs carved as winged caryatid figures,and the stretcher carved with rosettes and foliage-5 ft. 2 in.long, 2ft.11in.deep
+- 461 AN ITALIAN WALNUT-WooD TABLE,with tWo draWers, the frieze carved with rosettes and ribands, supported on four legs carved with spiral futing and radiating bands,and connected by stretchers carved with diamond ornament
+- —4ft.10 in.long-16th Centrury
+- 462 AN ITALIAN WALNUT-WooD TABLE,with one draWer,the frieze carved with scroll foliage terminating in dolphins'heads,caryatid fgures,feurs-de-lys and stars,and with egg-and-tongue ornament round the top, supported on four legs carved as winged caryatid figures, terminating in foliage and resting on claw feet4 ft. 5 in. long— Florentine,16th Century
+- 463 AN ITALIAN WALNUT-WooD CassONE, With lifting top, the front carved with Cupids supporting a shield, arabesque foliage and flowers,and winged caryatid figures at the angles, the lower border carved with bold gadrooning, and the whole supported by claw feet—2ft.2 in.high, 5ft.8in.long—16th Century
+- 464 AN ITALIAN WALNUT-WoOD PRIE-DIEU, the back pierced ajour, and carved with a Cardinal's hat,the upper part carved with foliage and masks,and supported by caryatid figures terminating in foliage-3 ft.2 in.high,4 ft.4 in. wide—16th Century
+- 465 THREE ITALIAN WALNUT-WoOD CHAIRS,With fat arms, the legs and front stretchers carved with wavy lines,the seats and backs covered with crimson velvet with panels of applique embroideryin the centre,worked with strapwork and foliage in yellow silk on ground of crimson velvet, studded with futed bosses and surmounted by vaseshaped ornaments of bronze gilt-late 16th Century
+- 466 An Italian walnut-wood arm-chair, with turned legs, the
+- adjustable back,arms, seat and loose cushion covered with crimson velvet,with cut-velvet braid borders
+- 467 AN ITALIAN WALNUT-WooD CAssONE,the front carved with a coat-of-arms with caryatid fgure supports, rampant lions and arabesque foliage introducing small caryatid figures,the borders carved with gadrooning,and on claw feet-6ft.6 in.wide-16th Century
+- 468 AN ITALIAN CASSONE,with lifting top,the surface gilt, the front panel painted with a hawking party and men duelling before a well, in the centre is a coat-of-arms on a kite-shaped panel;at each end is painted a coat-ofarms surrounded by a laurel-wreath,and supported by Cupid, the arms at one end being the same as those in the centre of the cassone.
+
+The centre of the top ridged,the sloping sides carved
+
+The angles of the cassone are carved with futed pilasters with foliage capitals,and the borders with foliage and gadrooning.
+
+with overlapping petals,and the top and border incised with seroll foliage on a trellis groundwork.
+
+The whole supported on carved claw feet—2 ft.13 in. high,6ft.3 in.long—first quarter of the 16th Century
+
+- 469 AN ITALIAN LARGE WALNUT-WOOD TABLE,the frieze carved withvertical futing,the end supports carved with rosettes,strapwork and scrolls,and resting on claw feet, the connecting stretcher pierced a jour with scrollwork and carved with foliage and a strapwork cartouche —10 ft.long,3ft.6 in.deep—third quarter of the 16th
+- Century
+- 470 A FIVE-LEAF SCREEN OF CHINESE LACQUER, the panels of unusual width, carved with an extensive landscape, with an audience of a mandarin and various scenes from Chinese life,with pagodas, summer-houses and other buildings,the design painted in polychrome on black ground; the back of the screen mounted with panels of cream silk, painted with fowers and cornucopia in colours—8 ft. 6 in.high,each panel 3 ft.wide— Kang-He
+
+See Illustration
+
+## FRENCH FURNITURE,
+
+CHIEFLY OF THE 16TH AND 17TH CENTURIES.
+
+- 471 An old French cofre-fort, of rose-wood veneered with ebony, with lifting top and fall-down front enclosing drawers, mounted with brass bands and hinges terminating in feurs-de-lys
+- 472 A PAIR OF LoUIS XIV. WALNUT-WoOD ARM-CHAIRS, With scroll arms carved with foliage, and rectangular legs with futed X-shaped stretchers,the seats and backs stuffed and covered with needlework,with petit-point panels in the centres worked with Europa,other fgures and animals in coloured silks,in borders of fowers and foliage in colours on black ground
+- 473 A PAIR OF LoUIs XIV.WALNUT-WoOD ARMCHAIRs, nearly similar,the seats and backs stuffed,and covered with yellow brocade,and with loose covers of Italian flowered
+- crimson brocade
+- 474 A SeTTEE, the seat and oblong back stuffed,and covered with needlework,with an old French petit-point panel in the centre of the back worked with two figures before a monument, in coloured silks,on a ground of foliage and scrollwork in coloured wools,with turned walnut-wood arms carved with lions' heads, and turned legs and stretcher-5ft.4in.long
+- 475 A REGENCE LARGE FAUTEUIL,the frameWork of walnutwood carved with futing,foliage and serollwork,the seat and back stuffed and covered with needlework,with fowers and strapwork in coloured silks and wool
+- 476 A LooIs XIV.MARQUETERIE CoMMoDE,with serpentine front and four drawers,inlaid with foliage and strapwork,and mounted with chased or-molu handles and escutcheons surmounted by crowns-4ft.7in.wide
+- A LoUIs XIV.MARQUETERIE TABLE,with one draWer, the top inlaid with a vase of fowers, birds and seroll foliage, which are surmounted by carved and gilt wood busts,and X-shaped stretcher,in the centre of which is a carved
+- 477 faming vase-3ft.8in.wide
+- 478 A LOUIS XIV.MARQUETERIE ARMOIRE,enclosed by folding doors, elaborately inlaid with vases of flowers, birds, eroll foliage,gryphons,and caryatid fgures,su porting the crowned monogram AR—7 ft.4 in.high, 5ft.wide
+- 479 AN ARMoIRE, with folding-doors carved with baskets of fowers suspended from ribands,branches of fruit and corn-sheaves, and with a band of bold gadrooning round the top-6ft.11 in.high,5ft.5in.wide—Northern French,early 18th Century
+- 480 A FRENCH WALNUT-WoOD ARM-CHAIR, with high back, the panel carved with a Classical medallion head enclosed by a laurel-wreath and surrounded by arabesque foliage terminating in horses'-heads and cornucopia of fruit; at the top are a Cherub's head and two birds,and beneath a futed vase,the pilasters at the sides fluted and surmounted by carved acanthus-leaves,the arms and seat supported by vase-shaped balusters, the seat lifting; and loose cushion—5 ft.7in.high,2 ft.5 in.wide—School of Auwergne, second quarter of the 16th Century
+- 481 A FRENCH WALNUT-WoOD ARM-CHAIR, With high back relief,and formally arranged foliage, the pilasters of the sides futed, and surmounted by foliated Ionic capitals, the panel beneath the seat, which forms a cupboard, carved with a female mask and two leaves,the arms terminating in serolls—5 ft.5 in.high,27in.wide;and a cushion,covered with crimson brocadesecond quarter of the16th Century
+
+## PERSIAN CARPETS AND RUGS.
+
+- 482 A PERSIAN CARPET,with a design of foliage,rosettes and arabesque ornaments in green,dark and light blue and buff on deep pink ground,the border decorated with foliage and cone-shaped ornaments on dark blue ground—
+- 15 ft.3 in.long,8ft.3 in.wide
+
+SeeIllustration
+
+- 483 A LARGER CARPET,nearly similar23 ft.2 in.long,
+- 10 ft.2in.wide
+- 484 A RUG,nearly similar—9ft.long,4ft.9in.wide
+- 485 A PERsIAN RuG,with chequer-pattern centre, each compartment worked with a formal plant in red, blue and yellow on dark blue ground,the panels divided by red, green and white bands,the border decorated with conventional ornament on red ground, with green edge—
+- 7ft.8in.by4ft.10in.
+- 486 A PeRsIAN RuG,with conventional ornament, chiefyin red
+- on dark blue centre,in striped red and white border 19 ft.7in.by 7ft.
+- ANoTHER, nearly similar,with red and white border—
+- 487 14ft.8in.by4ft.6in.
+- 488
+- ANoTHER,nearly similar,with striped red and blue border 19 ft.9in.by7 ft.5in.
+
+## CURTAINS.
+
+- 489 A PoRTIERE CuRTAIN,of Italian embroidery,worked with a vase of flowers,foliage and arabesques in coloured silks on
+- 490 A PAIR oF CuRTAINs,of Italian applique embroidery,worked with parrots, fowers and scrolls in coloured silks and gold and silver thread on crimson velvet—12 ft.high, 4 ft.8 in.wide;and holders-17th Century
+- brown ground-8 ft.high,6ft.6 in.wide—17th Century
+- 491 Three pairs of curtains, of Italian flowered crimson silk brocade—10 ft.high; with holders and a valance
+- 8ft.6in.wide
+- 492 A pair of crimson velvet curtains,with fringe borders-15 ft. high; a pair of holders;and a valance of crimson velvet
+- —17ft.6 in.wide
+- 493 A pair of similar curtains,holders and valance
+## TAPESTRY.
+
+- 494 AN UPRIGHT PANEL,representing a lady and gentleman standing beneath a pergola, over which is growing a vine, the supports formed as caryatid figures;in the distance is a view of a garden and extensive landscape, while in the foreground are birds and plants—Italian, second half of the 16th Century; mounted with a border with arabesque foliage woven in shades of brown—10 ft.6 in.high,10 ft. 3in.wide
+
+SeeIllustration
+- 495 AN OBLONG PANEL,depicting a King,Queen,Courtiers, and numerous figures walking in the gardens of a Palace, with an extensive woody landscape in the background,a fountain surmounted bya figure ofVenus in the centre8ft.high,16 ft.wide—Brussels,late 16th Century SeeIllustration
+- 496 AN UPRIGHT PANEL, representing a man in Classical costume, seated on a galloping horse, with landscape background,the border woven with trophies of arms and horsemanship festooned with fowers—10 ft.1 in.by 9 ft.
+- 9in.-Brussels,17th Century
+- 497 A SET OF FOUR PANELS OF BURGUNDIAN TAPESTRY, probably representing the history of Isabella I. of Castile, surnamed The Catholic,daughter of John II. of Castile, by his second wife Isabella of Portugal;the panels are enclosed within narrow borders composed of closely interwoven branches of fowers, foliage and grapes—end of the 15th or beginning of the
+- 16th Century-comprising—
+
+AN OBLONG PANEL—11 ft.5in.high,13 ft.4.inwide
+
+ANoTHER—11ft.5in.high,13 ft.9 in.wide
+
+AN UPRIGBT PANEL—11 ft.high,10ft.6 in.wide
+
+AN OBLONG PANEL—11 ft.5in.high,13ft.4 in.wide
+
+THE FIRsT PANEL shows a court scene with Henry IV.of Castile seated on a throne in the centre, holding a sceptre, and with a canopy above bis head, courtiers on either side;in the foreground is Isabella, who,apparently,is protesting against her proposed betrothal to Carlos (brother of Ferdinand) of Castile,who is seated on the ground to the right;in the upper righthand corner is a group of four figures, one of whom is carrying "la Beltraneja"the illegitimate daughter of Jane of Portugal (the wife of Henry IV.of Castile)and Beltran de la Cueva;in the left-hand upper corner is seen Isabella declaringher constancy to Ferdinand
+
+SeeFrontispiece
+497-continued
+
+THE SEcoND PANEL again depicts a court scene,with the King seated on a throne in the centre,wearing a crown and holding a sceptre,whilst Isabella kneels before him pleading for the release of her lover Ferdinand,who,having entered Valladolid in disguise,is brought a captive before the King,an episode untraced in history,and one in which the weaver appears to have given play to his imagination in recording the romantic courtship of the Royal Lovers; the small groups in the upper corners representing the disguised Ferdinand making himself known to Isabella,and also pressing his suit in the Palace
+
+SeeIllustration
+497-continued
+
+THE THIRD PANEL shows in the foreground the betrothal of Ferdinand and Isabella,while in the left-hand upper corner is seen Isabella receiving the petition of the grandees that she should accept the throne in succession to Henry IV. of Castile. In the upper right-hand corner is seen the banished Queen Jane of Portugal with two attendants. In the front right-hand corner soldiers with glaves are retreating from the scene
+
+SeeIllustration
+497-continued
+
+THE FouRTH PANEL is allegorical of the marriage of Ferdinand and Isabella (which was celebrated on Oct.19, 1469), depicting in the centre Ferdinand and Isabella kneeling before an altar on which burns a sacrifice; they are attended by numerous courtiers;above are figures from mythological history
+
+SeeIllustration
+
+Isabella and Ferdinand were known as"the Catholics"
+
+by reason of their staunch support of the Roman Catholic Church,and it was Isabella who gave Christopher Columbus the necessary aid to enable him to carry out his discoveryof theNew World
+
+A panel from the same set is illustrated in Tapestries: their Origin,History and Renaissanceby S.L.Hunter, and lent to the Metropolitan Museum,New York,by the late Mr.A.W.Hoyt
+
+End of Fourth Day’s Sale
+## Fifth Day's Sale.
+
+## On TUESDAY, MAY 6, 1913,
+
+AT ONE O'CLOCK PRECISELY.
+
+MO+ON
+
+## OBJECTS OF VERTU.
+
+- 498 A Dresden enamel snuff-box,painted with buildings and a
+- figure of Peace in colours
+- 499 A Spanish tortoiseshell casket,inlaid with birds,fowers and scrolls in engraved mother-o'-pearl-8 in.wide; and an octagonal case,for miniatures, the borders overlaid with
+- tortoiseshell
+- 500 A Turkish enamel beaker,painted with fowers in colours on white'ground gilt with trelliswork,and with pink border; and a glass tray, engraved with Cupid and
+- Psyche,and with silver scroll borders
+- 501 An old English shagreen etui, mounted with silver, containing glass scent-bottles,one with Chelsea porcelain stopper,
+- silver spoon and other implements
+- 502 A Sheraton tea-caddy,inlaid with foliage and trophies in
+- various woods,and Amorini in ivory—84 in.wide
+- 503 A SHERAToN TEA-CADDy,inlaid with Chinese fgures,build-
+- ings and musical instruments in satin-and other woods, and surmounted by a metal-gilt vase, containing a cut glass sugar-basin and two tea-canisters-13 in.wide
+- 504 AN OLD ENGLIsH WATCH,with centre seconds-hand,in gold case,the back enamelled dark blue and set with a rosette in diamonds surrounded by pearls-London hall-mark, 1798
+- 505 An old English oval tortoiseshell snuff-box, the lid pique with a spray of flowers in gold and silver,and mounted inside with an enamel portrait of Queen Anne,painted by Zincke
+- 507 AN OLD ENGLISH REPEATING CLOCK-WATCH, by GeOrge Prior, London, with white enamel dial with Turkish numerals,in pierced and engraved silver case and outer case,the back decorated with a military trophy in border of foliage; and tortoiseshell and silver outer case,with pierced panels of foliage round the borders; on tortoiseshell and ivory stand
+- 506 An old English watch,by Webster,Ecchange Alley,in silver case,engraved with emblems and pierced with scroll foliage, and outer case chased with Jupiter and Juno
+- 508 An old English circular snuff-box,of black composition,inlaid with honeysuckle-ornament and foliage in gold; and a watch, by George Prior, London,in plain gold case and outer case-hall-mark,1813-and painted tortoiseshell
+- 509 A Chelsea porcelain scent-bottle,modelled with a boy,goat and grapes, and painted in colours; and a Chelsea seal, modelled with a sportsman and two dogs
+- outer case
+- A German porcelain box, formed as a bambino;a Lille heart-shaped box; and an oval porcelain box, with
+- 510 jewelled border
+- 511 Dresden porcelain snuff-box, painted with poultry and
+- 512 AN OBLoNG SNUFF-Box, the lid, sides and base set with miniatures of coast scenes,with numerous figures and shipping, painted in gouache in the style of van Blarenberghe
+- A other birds in gilt scroll borders
+- 513 An oval glass box, the lid carved with a child with a doll;
+- and a circular bonbonniere,of futed glass
+- 514 A fan, painted with Venus and Nymphs;a small oblong tortoiseshell box;a box, with metal-gilt mounts;a silver
+- coin-1610; and a carved wood group of a bull-fight
+- 515 A MINIATURE OF A GENTLEMAN, Viewed nearly full face, slightly turned to the right, with powdered hair, wearing dark blue coat and white cravat,by R. Cosway,R.A. signed at theback,and dated 1790
+- 516 A miniature of a lady,with powdered hair,wearing white dress and head-dress,trimmed with pink ribands,in frame set with small diamonds and other stones,with
+- hair at the back
+- 517 A miniature of a lady,with powdered hair,wearing white dress
+- 518
+- An enamel of a lady,wearing dark blue dress and pearl necklacein frame with marquisite border;and a small miniature of a gentleman,wearing wig-in frame set with a coronet in diamonds,and with a miniature of a ladyat theback
+- 519 An enamel portrait of a lady,wearing black and white cap, pink dress and white scarf,a coat-of-arms on the reversein silver locket;and a ditto portrait of a gentleman, wearing light brown coat, the back similarly decorated, and in similar locket
+- 520 An enamel portrait of a lady,wearing pearls and blue dress;
+- and two enamelportraitsofgentlemen
+- A small time-piece,in case of crystal and Viennese enamel,
+- 521 supported by a group of three figures7 in.high
+- 522 A bookbinding,of vellum,stamped and gilt with the Arms and cypher of Queen Anne,rose,shamrock and thistle, fitted as a blotting-book-171in.by 114 in.
+## NANKIN PORCELAIN.
+
+- 523 A pair of shallow bowls,painted with dragons-S in.diam.; and a cylindrical vase,painted with fgures on a terrace-10in.high
+- 524 A pair of bowls, decorated with branches of fowering prunus,
+- reserved in white on marbled-blue ground-6 in. diam.
+- 525 A deep bowl,painted with formal fowers-8 in.diam.;a mug,with a river scene7 in.high; seven other small pieces; and two oval sauce-tureens and covers, with European crests in blue borders
+- 526 A circular jardiniere,painted with figures and a landscape, couds round the lip-8 in.diam.;and a bowl, painted with asters-6in.diam.
+- 527 A pair of dishes, painted with fir-trees and bamboo in trellis borders-161 in.diam.;and a deep dish, with peonies and birds-14in.diam.
+- 528 A large bowl, painted with ladies and other fgures, vases, fowers,a building and fence,and with vandyke border
+- inside-16 in.diam.
+- 529 A cylindrical vase, painted with flowers and serolls in keypattern borders—18 in.high; a square vase,painted with fgures and summer-houses-17 in.high;and a globular vase,painted with trees,and slightly heightened with rouge-de-fer-13 in.high
+- 530 A dinner service,painted with river scenes, consisting of A pair of soup-tureens and covers Two sauce-tureens,covers and stands Four vegetable dishes and covers Asalad-bowl Three oval dishes Four circular dishes Twelve octagonal dishes A leaf-shaped dish Twenty-one dinner-plates Eighteen soup-plates Eleven small plates
+- 531 A large dish,with a vase of fowers in the centre,and with fowers and emblems round the border--193 in. diam.
+- 532 An oviform jar,painted with baskets of fowers,with lam-
+- brequin panels round the borders-17 in.high
+- 533 3Two large jars, painted with river scenes and fishermen—24in.high
+- 534 A PAIR OF LARGE VAsEs AND CovERs,painted with ladies, fowering plants and rocks in petal-shaped panels-24 in. high
+- 535 A CisTERN, painted with river scenes, vases and utensils 20 in.high—on carved wood stand with marble top
+
+## NANKIN SOFT PASTE PORCELAIN.
+
+- 536 A small tea-pot and cover,with dark blue lambrequin
+- borders;and a small ewer and cover, painted with ladies and fowersin petal panels
+- 537 Two circular boxes and a small bowl,painted with landscapes and fgures;and a bowl, with characters, &amp;c.in raised
+- panels
+- 538 Four small vases, variously painted with trees, flowers,&amp;c.
+- 539 A small oviform jar and cover, painted with branches of fruit5 in.high;a vase, with peonies and bamboo— 6in.high;and a bottle-5 in.high
+- 540 Seven bowls and,one cover, decorated with bands of keypattern and emblematic ornament
+- 541 Two circular boxes and covers; and a cover, decorated with
+- bandsof conventional ornament
+- 542 A pair of vases and three bottles, pencilled with formal
+- fowers and scroll foliage7 in.and 7 in.high
+- A vase, painted with a mountainous river scene and buildings
+- 543 —10in.high
+- 544 A small globular vase, painted with formal fowers and.foliage 6 in.high; two spill-vases, painted with utensils and vases; and a pear-shaped bottle, painted with a kylin
+- and tree-7in.high
+- 545 An oviform jar and cover, painted with formal flowers and scroll foliage-9in.high;a smaller jar—6 in.high;and
+- 546
+- avase,nearly similar-9in.high
+- An oviform jar, painted with a mountainous river scene in lambrequin border—8 in.high;and a pair of oviform jars,painted with branches of fruit in similar borders7in.high
+- 547
+- Two oviform jars, painted with river scenes7 in.high; one,with boys and a kylin6 in.high; and a circular bowl, with a band of scroll foliage-6 in.diam.
+- 548A vase,painted with a palm-tree and fence,with elephants'-
+- head handles—13 in.high;an oviform jar,with a broad band of scroll foliage-8 in.high;and a vase, with scroll foliage—15 in.high
+- 549 A slender oviform vase,painted with a fowering cherry-tree and rocks—17 in.high; and a vase, pencilled with horses, trees and birds in light blue—161 in.high
+## ENGLISH FURNITURE,
+
+CHIEFLY OF THE SEVENTEENTH CENTURY.
+
+- 550 A Charles II.winged arm-chair,the stretcher carved with serolls
+- 551 A Charles II. oak arm-chair, carved with serolls and foliage, with cane seat and panel in the back
+- 552 2A James II.oak chair,the top of the back and stretcher carved with scrolls,with rush seat,and panel of canework in the back
+- 553 An old English chiming-clock,by Jonathan Lowndes,Pall Mall,London,with brass dial chased with Cherubs,in pedestal-shaped ebony case, mounted with plaques and dome of metal-gilt chased with flowers—16 in.high
+- late 17th Century
+- 554 A PAIR OF JAMEs II.OAK CHAIRs,with high backs, pierced
+- and carved with scrolls and leafage,and with turned columns at the sides,the legs formed as balusters carved with futing and rosettes,and the stretcher and border to the seat pierced and carved with a shell, scrolls and foliage,the seats covered with crimson plush
+- 555 A James II.arm-chair,painted black,the back supported by
+- turned rails,and carved with serolls at the top,on scroll legs with stretcher,the seat and panel in the back covered with crimson plush
+- 556 A Charles II. chair, the stretcher and top of the back carved with scrolls and foliage, with turned baluster supports and legs, and canework panels in the seat and back
+- 557 A CHARLES II. GILT-WoOD STAND FOR A CABINET, CarVed with birds,masks and foliage, on six rectangular legs carved with gadrooning and vertical bands of laurel foliage, surmounted by a slab of giallo marble3 ft. 8 in. wide,1 ft.10 in.deep
+- 558 AN OLD ENGLISH LACQUER CABINET, With folding doors
+- enclosing drawers,on stand with one drawer,the whole decorated with Chinese landscapes,buildings and figures, and mounted with engraved brass hinges,borders and escutcheons—4 ft.3 in.high,3 ft.wide
+- 559
+- A James II.oak chair, carved with foliage and scrolls,and with shaped panel of canework in the back, the seat coveredwith green velvet
+- 560 A CHARLEs II. MIRRoR, the frame mounted with a wide border of beadwork with flowers and grapes in colours2ft.7in.by3 ft.
+- 561 A pair of James II. chairs, with rail backs and scroll tops surmounted by vases, on scroll supports with stretchers, the whole painted brown,the seats covered with green velvet
+- 562 A CHARLEs II. OAK DAy-BED,pierced with fowers,foliage
+- and Cherubs supporting crowns, with cane seat, and two panels of canework in the sloping end; and a cushion, covered with green velvet-6 ft. long
+- 563 AN ARM-CHAIR, similar; and a cushion,covered with green velvet
+- 564
+- A PAIR OF CHARLEs II. CHAIRs, pierced and carved with Cherubs supporting crowns, and foliage, with turned rail supports and stretchers, with cane seats, and two panels of canework in the backs; and cushions,covered with green velvet
+- 565 A CHAIR,nearly similar,with similar cushion
+- 566 A CHARLEs II.ARM-CHAIR,pierced and carved with Amorini
+- and caryatid fgures among scroll foliage,with spiral rail supports, legs and stretchers carved with S-shaped foliage, with cane seat, and panel in the back, and cushion covered with green velvet
+- 567 A CHARLEs II. OAk ARM-CHAIR,pierced and carved with
+- Cherubs supporting crowns, fowers and foliage, with spiral rail supports,legs and stretchers,with cane seat and panel in the back,and loore cushion covered with green velvet
+- 568 A LAcQuEr CaBINET, with folding doors enclosing drawers, composed of plaques of Chinese lacquer, carved with landscapes, figures, birds and fowers, and painted in colours,mounted with pierced and engraved metal-gilt hinges, escutcheons and corners
+
+On Charles II. gilt-wood stand,pierced and carved with a mask,fowers,foliage and shells,and supported by caryatid figures; the top of the cabinet mounted with a cornice of gilt-wood carved with foliage-5 ft. 6 in.high, 3ft.6 in.wide
+
+See Illustration
+
+- 569 A Charles II. oak arm-chair, carved with shells and foliage, with turned spiral supports,legs and stretchers,with cane seat, and panel in the back,with loose cushion covered with green relvet
+- 570 A Charles II. oak chair,pierced and carved with fowers and foliage, and the top of the back carved with Cherubs supporting a crown,with spiral legs, the stretcher carved with,a crown,with cane seat,and panel in the back,and cushion covered with green velvet
+- 571 Another, carved with crowns and foliage,with cane seat,and panel in the back, and cushion covered with green velvet
+- 572 A
+- 573 A CHARLEs II.MIRRoR,in rectangular frame of beadwork and embroidery,with emblematic figures in coloured silks, and animals,birds, fowers and fruit-trees in coloured beads, part of the decoration being in high relief,in
+- CHARLEs II. OAk DAy-BED, pierced and carved with fowers and foliage, on carved spiral legs and turned stretchers,with cane seat,and panel in the back
+- walnut-wood borders—2 ft.8 in.by 2 ft.6 in.
+- 574 A pair of James II.oak chairs,with cane seats and backs, the tops and stretchers carved with scrolls
+- 575
+- 576
+- A ditto chair, with rail supports to the back,and carved scroll top and stretcher
+- A PAIR OF CHARLES II. OAK CHAIRS, With caneWork Seats, and panels in the backs,the borders carved with foliage and scrolls; and a pair of cushions, covered with cutgreen velvet
+- 577 A CHAIR,nearly similar,the stretcher surmounted bya vase
+- 578
+- Another,with panel of canework in the back,the borders carved with scrolls,with turned supports and legs, the seatscoveredwithgreenvelvet
+- 579 A CABINET,OF JAPANEsE LACQUER, with folding doors enwith engraved brass hinges and escutcheons-3 jt.wide—
+- 580 A PAIR OF CHARLEs II. OAK CHAIRs, With high backs carved with vases of flowers and scrollwork,on scroll legs carved with foliage, and front stretcher carved in similarmanner to the back
+- closing drawers,decorated inside and out with landscapes in gold and nashiji lacquer on black ground,and mounted onEnglish black stand,pierced with gilt latticework
+- 581 A CHARLEs II. OAK ARM-CHAIR, with cane seat,and oval panel of canework in the back,carved with foliage,and with turned spiral supports,legs and stretchers; and a
+- cushion, covered with green velvet
+- ANOTHER,of nearly similar design to the preceding; and a
+- 582 cushion,covered with similar velvet
+- 583 A CHARLEs II. OAK ARM-CHAIR, With cane Seat,and oval panel in the back, carved with scrolls, foliage and a crown,with spiral rail supports and stretcher, supported on scroll legs in the front and with scroll front stretcher; and a cushion covered with green velvet
+- 584 AN ARM-CHAIR,nearly similar,with turned legs and carved
+- scroll stretcher,and similar cushion
+- 5A Charles II.oak chair,with cane seat,and oval panel in the back,the borders carved with scrolls,and with turned spiral supports, on scroll legs, the stretcher carved with acrown
+- 585
+- 583 Another,with cane seat,and oval panel in the back,carved with fowers and foliage and Cherubs supporting a crown, on scroll legs with carved stretcher; and a cushion, covered with greenvelvet
+- 587 Another,with cane seat and two panels of canework in the back,carved with fowers,foliage and Cherubs supporting crowns;and a cushion,covered with green velvet
+- 588 A CHARLEs II. OAR ARM-CHAIR,with cane seat,and panel in the back,the top carved with scrolls,on scroll legs with carved stretcher;and a cushion, covered with green velvet
+- 589 Another,with cane seat,the borders carved with foliage and
+- Cherubs supporting a crown,with turned supports,legs and stretchers,the oval panel in the back and the loose cushion covered with green velvet
+- 590 Another,carved with fowers and foliage,and with turned supports,legs and stretchers,the seat and panel in the back covered with green velvet
+- 591 A pair of Charles II.oak chairs,the backs and stretchers carved with Cherubs,fowers and foliage, with turned supports,legs and stretchers,the seats covered with green velvet
+- 592 A Jacobean oak gate table, with oval top,on turned legs and stretchers-68in.wide
+- 593
+- 3A Jacobean oak chair,the back carved with a diamond panel, and a rosette and riband-pattern frieze across the top, with turned baluster supports to the arms and legs— temp. Charles I.;and a cushion,covered with flowered crimson brocade
+- 594 Another, carved with foliage, and with turned baluster supports to the back; and a cushion, covered with fowered crimson brocade
+- 595 FoUR CHARLEs II. OAk CHAIRs, With low backs carved with foliage and scrollwork, on turned legs, the front stretchers carved in similar manner to the backs,the seats covered with flowered crimson velvet
+- 596 A PAIR OF CHARLEs II. OAK CHAIRs,with caneWork seats, and panels in the backs, the borders and stretchers carved with foliage and formal fowers; and loose cushions,covered with green cut velvet
+- 597 THREE JAMEs II. OAK CHAIRS,.carved with Scrolls and foliage, with turned legs and stretchers; and cushions, covered with green cutvelvet
+- 598 A CHARLES II. OBLONG WALNUT-WoOD STOOL, the front legs and stretcher carved with scrolls,the top covered with needlework,with fruit and foliage in coloured silks
+- andwool-26 in.wide
+- 599 A PAIR OF WILLIAM III. WALNUT-WoOD STOOLS,With turned legs and X-shaped stretchers,the tops covered with needlework,with fowers and strapwork in coloured
+- silks and wool,on blue ground-26 in.wide
+- 600 A CHARLES II. TABLE, the stand of gilt wood, the legs carved as S-shaped scrolls,festooned with fowers, and surmounted by Cherubs,with X-shaped stretcher carved with foliage,the top formed of a plaque of lacquer, carved with a Chinese mountainous landscape with trees, and painted in colours,in gilt wood border carved with foliage, the frieze also of lacquer and ftted with one drawer-42in.wide
+
+SeeIllustration
+
+- 601 A Jacobean oak gate table, on turned supports-5 ft.1 in. wide
+- 602 Three Jacobean oak stools,with turned legs;and a chair, with turned rails and stretchers,the seat covered with crimson velvet
+- 603 A PAIR oF JAMEs II. CHAIRs, with high backs, carved with scroll foliage and strapwork,on scroll legs with carved stretchers,the whole of the frameworks painted black,
+- the seats stuffed,and covered with green cutvelvet
+- 604 A CHARLEs II. WALNUT-WooD ARM-CHAIR, With canework seat,and panel in the back,the back and border of the seat carved with scrolls and foliage,and with scroll legs with X-shaped stretcher,and a cushion covered with crimson silkbrocade
+- 605 A CHARLEs II. WALNUT-WooD ARM-CHAIR,With high back supported by slender columns with foliage capitals,the top carved with scrolls,with scroll arms, legs and stretchers; the centre of the back and loose cushion
+- covered with green cutvelvet
+- 606 A pair of Charles II. chairs, with cane panels in the backs, the tops carved with foliage and scrolls,and on scroll legs with carved front stretchers,the seats covered with green cutvelvet
+- 607 A SUITE OF MoRTLAKE TAPESTRY FURNITURE, the Seats, backsand arms stuffed,and covered with Mortlake tapestry worked with large flowers and foliage on buff ground,the framework of gilt-wood carved with shells and foliage,
+- consisting of:
+
+A settee-4ft.8 in.wide Six arm-chairs
+
+- AN OLD ENGLIsH CLoCK,by E. Speakman,London,with brass dial chased with fowers and scrolls;in tall lacquer case decorated with Chinese landscapes,buildings,figures and fowers in gold,on green ground—9 ft.6 in.high
+- 608
+- 609 A William and Mary marqueterie chest of five drawers, inlaid with panels of flowers and foliage on walnut-wood ground-3 ft.2 in.wide
+- 610 A marqueterie casket,inlaid with foliage,fowers and serolls in various woods and coloured ivory,in mother-o'-pearl
+- 611
+- borders-16 in.wide
+- A small cabinet, the door carved with a rose surrounded by strapwork and scroll foliage,and supported by lions,the details of the carving painted and gilt on a pricked red background in beaded and futed border,the interior fitted with eleven small drawers,on stand with plain baluster supports3 ft.9 in.high,2 ft.1 in.wide—third quarter of the17th Century
+- 612 A cabinet,of oak and walnut-wood,with two drawers and folding doors below,decorated with turned baluster ornaments in relief3 ft.11 in.high,3 ft.11 in.wide—
+- thirdquarter of the17thCentrury
+- 613 Another,of nearly similar design to the preceding,with one
+- deep drawer, and folding doors below enclosing three drawers—3ft.11in.high,3 ft.10 in.wide—third quarter ofthe17thCentuiry
+- 614 A WilliamIII.walnut-wood table,with one drawer,on turned
+- legs with stretcher-2ft.10 in.wide
+- 615 A William III. gilt fire sereen, carved with foliage and
+- rosette ornaments,and on scroll supports; to the screen has been added a panel of engraved plate-glass in place of the original needlework—3 ft.4 in.high,2 ft.5in. wide
+- 616 A spinning-wheel, with turned supports;and two oblong
+- stools,with turned legs and stretchers painted black, the tops covered with needlework-with waved lines in green and yellow silks-19 in.wide
+- 617 AN OLD ENGLIsH CLocK,by T. M. Ellwood, London,with brass dial showing day of the month,chased with Cupids supporting a crown; in tall Queen Anne walnut-wood case inlaid with seaweed ornament, amongst wbich are grotesque caryatid figures and animals, the hood decorated with bands of latticework,the whole supported
+- onball-and-clawfeet-8ft.2in.high
+- A Jacobean oblong oak table, the frieze carved with horizontal futing,supported.on four plain balusters4 ft. 2 in.long
+- 618
+- 619 A Charles II. oak day-bed, the sloping end carved with foliage and Cherubs supporting a crown, with turned legs and stretchers, cane seat, and panel in the back 6 ft.long
+- 620 A Jacobean oak table, with oval top, on turned legs and
+- scroll feet-4ft.10 in.wide
+- 621 A pair of stools, with turned legs painted black, the tops
+- covered with old Flemish tapestry with a foliage design ——19 in.wide
+- 622 AN ELIZABETHAN OAK-BEDSTEAD, the back carved with caryatid fgures,arches,grapes and foliage, the canopy carved with a panel of conventional ornament and futing,the posts formed as large balusters, carved with acanthus-leaves and interlaced ornament,and supported on square bases carved with latticework;and curtains
+- and valence ofgreen silkbrocade
+
+## EMBROIDERIES.
+
+- 623 THREE PAIRs OF CuRTAINs, composed of panels of Jacobean embroidery,worked with trees,fowers,animals and insects,in coloured wools on linen,in dark blue borders —11ft.high
+- 624SIX PANELS OFJACOBEAN
+- EMBROIDERY, worked with figures in Eastern and European costume, animals and birds among trees,and branches of fowers, in coloured wools on linen, comprising:—
+
+AN OBLONG PANEL—7 ft.high,16 ft.6 in.wide ANOTHER—7ft.high,11 ft.3in.wide
+
+APAIR oF DITTo—7ft.high,2ft.11 in.wide
+
+A PAIR OF PANELs—7ft.high,3 ft.3 in.wide
+
+End of Fifth Day's Sale
+## Sixth Day's Sale.
+
+## On WEDNESDAY, MAY 7, 1913,
+
+AT ONE O'CLOCK PRECISELY.
+
+## BATTERSEA ENAMELS.
+
+- 625 An oval box, painted with flowers and insects on white ground; and an cblong box, with fowers in green and
+- flowers in white round the borders
+- 626 An oblong box, painted with coast scenes and figures; and one,the lid painted with figures, and with flower-sprays
+- round the sides
+- 627 An oblong box, painted with panels of Classical figures in landscapes,on pink ground with trelliswork in white
+- 628 A scent-bottle,painted with panels of figures in gilt borders
+- on dark blue ground;and a patch-box, formed as a bird
+- 629 A cylindrical needle-case,with panels of landscapes, on turquoise ground with trelliswork in white;and one,painted with pastoral subjects on white ground,the end forming
+- a thimble and containing a scent-bottle
+- 630 A cylindrical needle-case,painted with panels of landscapes
+- in gilt borders on dark blue ground
+- 631 AN OBLoNG Box, painted with medallions of children in
+- landscapes,on pale green ground gilt with scrolls
+- 632 ANoTHER, painted with a stag-hunt and pastoral scenes in gilt borders on pink ground
+
+From the D.W.Macdonald Collection
+
+- 633 A box, formed as a rat
+- An enamel tray and three small oval ditto,painted with a
+- 634 peacock,parrots and other birds
+- 635 A small oblong patch-box, with Battersea enamel lid painted
+- with a river scene on blue ground; two small egg-shaped boxes;and three other small pieces
+- 636 A pair of taper-sticks, painted with fowers in colours on
+- 637
+- wbite ground—7in.high
+- A pair of taper-sticks,nearly similar6 in.high
+- 638 A
+- 639
+- pair of table-candlesticks, painted with flower-sprays in colours on white ground—9 in.high
+- A pair of taper-sticks,painted with fowers and blue and green ribands—on square plinths-61 in.high
+- 640 A pair of table-candlesticks,painted with fowers in colours, on square plinths moulded with shells,and with turquoise bands round the shoulders--101 in.diam.
+- 641 A pair of table-candlesticks,painted with fower-sprays in colours on white ground, on shaped circular plinths 12in.high
+- 642 A pair of table-candlesticks, painted with flower-sprays in blue on white ground-10 in.high
+- 643 3A pair of table-candlesticks,painted with fower-sprays in colours,and with apple-green panels gilt with fowers and grasses-9 in.high
+- 644 A pair of table-candlesticks, painted with fower-sprays in colours, and with dark blue panels gilt with grasses— 12in.high
+- 645
+- A PAIR OF CassoLETTEs, painted with landscapes and fgures in panels, on pink ground with sorolls in dark blue,with or-molu nozzles-10 in.high
+## CHELSEA PORCELAIN.
+
+- 646 Four leaf-shaped dishes,painted with birds and insects in colours-131in.long
+- 647 A pair of plates,painted with exotic birds and branches, the
+- borders modelled with shells-81 in.diam.
+648. Six plates,painted with fruit and insects, and with raised
+- gilt scrolls round the border81 in. diam.
+- 649 Two cups, painted with birds perched on branches; a leafshaped sauce-boat,painted with fower-sprays;and a plate,painted with birds and fowers
+- 650 An oval basket,painted with a vase and fower-sprays,with pierced trellis border, encrusted outside with white and gold blossom,with dark blue borders gilt with vines— 9in.wide
+- 651 Apair of circular baskets,painted with fruit,and with basketpattern exterior with pierced trellis border,the handles modelled as flowering branches-6a in.diam.
+- 2A PAIR oF VAsEs AND CovERs, painted with insects and encrusted with coloured flowers, with female mask
+- 652 handles-1l in.high
+- 653 An oval basket, painted with fruit,with pierced trellis border encrusted outside with blue blossoms, the handles encrusted with coloured fowers and bound with pink ribands-1l in.wide
+- 654 A LARGE Sauce-BoAT, painted with exotic birds and branches,and modelled with leaves in low relief, the handle encrusted with flowers-12 in. long
+- 655 A PAIR oF PLATEs, painted with birds and insects in the centre,and the borders painted with festoons of fowers,
+- and gilt with insects on dark blue panels-8 in.diam.
+- 656 A plate, similar
+- 657 Ten deep plates, painted with sprays of fowers,and the borders modelled with strawberries and leaves in low relief-10 in.diam.
+- 658 A PAIR oF VAsEs AND CovERs, with claret-coloured ground encrusted with festoons of flowers, and supported by three caryatid figures
+- 659 —5in.high
+- A pair of figures of birds, perched on fowering tree-stumps
+- 660 A pair of candlesticks, with figures of Venus and Cupid on turquoise and white scroll plinths encrusted with fowers —11 in.high
+- 661 A pair of figures of a lady and gentleman seated, holding baskets, with a lamb and dog at their feet, on green, white and gold scroll plinths encrusted with flowers9in.high
+- 662
+- A candlestick, with figure of a goldfnch in a bosquet of fowers-6 in.high;and a pair of Derby-Chelsea white and gold figures of children,with baskets of flowers— 4in.high
+- 663 A group of the tailor's wife riding a goat, on plinth encrusted
+- F99
+- 665 Minerva:a statuette-13 in.high
+- withflowers-10 in.high
+- MARs AND MINERVA:a pair of statuettes-14 in.high
+- 666
+- 6A PAIR OF FIGUREs OF BIRDs,perched on fruit trees, the plinths encrusted with fowers and with gilt scroll borders-7in.high
+- 667 AN ECUELLE, COVER AND STAND,fnely painted with garden scenes and Watteau figures in seroll panels,
+
+From the Collection of the Duchess of Montrose
+
+- enclosed by gilt trellis-work entwined with fowers,on mottled dark blue ground with white and gold borders, and openworkhandles
+
+See Illustration
+- 668  Europa, seated on the bull, on white and gold scroll plinth11 in.high
+- 669 A PAIR OF FIGUREs OF OwLS, perched on tree-stumps
+- 8in.high
+- 670 Tee Seasons: a set of four figures of children, carrying fowers, a corn sheaf, fruit and a faggot, on circular
+- plinths10in.high
+- 671 "A PIETa": a group of the Virgin, with the dead Saviour, and an angel, on rockwork plinths, encrusted with
+- fowers and a crown of thorns-10 in.high
+- 672 Music:an allegorical group of a Nymph reclining on clouds, holding a lyre and trumpet, Cupid at her side holding a
+- scroll—9 in.high,14 in.long
+- 673 A FIGURE oF A RABBIT,eatirg leaves,forming a bowl and
+- cover—8 in.high,14 in.long
+- 674 A PAIR oF VAsEs AND CovERs, of scroll outline, painted with birds and encrusted with fowers,with pink,green and gold scroll borders,the plinths triangular,encrusted with flowers and modelled in full relief with figures of a shepherd and shepherdess, sheep and a dog—13 in.high
+- 675 HERcULEs AND THE HyDRA:a group representing Hercules holding a club, and with another figure at the side holding a staff and kneeling upon the back of the Hydra; behind the figures is a tree bearing the golden apples of the Hesperides, the plinth encrusted with fowers, and
+- with white and gold feet13 in.high
+
+SeeIllustration
+
+- 676 A PAIR OF FIGURES,of a shepherd and shepherdess,
+- wearing richly-decorated costumes,with a lamb,sheep and dogs,branches of fowers at the back,on white and gold scroll plinths encrusted with fowers, modelled in the manner of Roubilliac-—12 in.high
+
+See Illustration
+- 677 BRITTANIA, with a lion,on white and gold scroll plinth high-on pedestal with green panels and white and gold borders,the angles gilt with flower-sprays
+- 678 THE GRECIAN DAUGHTER: a large group, on rockwork
+- plinth,encrusted with flowers-16 in.high
+- 679 JupITER, holding the fulmen, with an eagle at his side,on
+- green and gold scroll plinth-19 in.high
+
+## ENGLISH FURNITURE,
+
+## CHIEFLY OF THE CHIPPENDALE PERIOD.
+
+- 680 A Chippendale mahogany tripod, for a fire-screen, carved
+- with foliage, on ball-and-claw feet; and one, nearly similar,on club feet
+- 681 A Chippendale mahogany card-table, of serpentine shape,
+- with carved gadrooned border, on futed legs-3 ft.wide; and another,nearly similar2 ft.1 in.wide
+- 682 A Chippendale mahogany winged arm-chair,with cabriole
+- legs and club feet
+- 683 A Chippendale oval mirror,in gilt wood frame carved with
+- branches of flowers and a goat—3 ft.3 in.high
+- 684 A Chippendale oblong mirror, in gilt-wcod frame carved with
+- birds,rushes, fowers and scrolls2ft.9 in.high,4 ft. 6 in.wide
+- carved cabriole legs and ball-and-claw feet, covered with red leather
+- 686 A Chippendale mahogany chair, the back carved with a
+- rosette and laurel-festoons,futed borders and legs
+- 687 A Chippendale mahogany oblong table, with folding top, with carved rosette and riband borders,the legs carved withkeypattern
+- 688 A Chippendale mirror, in gilt frame carved with branches of foliage and scrolls, and surmounted by a bird-2 ft.9 in. wide
+- 689 Four Chippendale mahogany chairs, with interlaced backs carved with a tassel and scrolls,and corded borders
+- 690
+- A PAIR OF CHIPPENDALE MAHOGANY CHAIRS, the backs carved with foliage, futed columns and a bell, and the sides with wave-pattern, on straight legs with stretchers, theseats coveredwithredplush
+- 691 A CHIPPENDALE MAHOGANY CHEST, of fve draWerS, With carved latticework borders,angles and base, mounted with chased metal-gilt handles—3ft.8 in.high,3 ft.7in. wide
+- 692 A PAIR OF CHIPPENDALE MIRRORS,in gilt-Wood frames, carved with vases, sheeps'-heads, laurel-festoons and scrolls,and surmounted by ashell5 ft.high,2 ft.6 in. wide
+- 693 A Chippendale mahogany small table,with folding top and
+- one drawer,of serpentine shape,the front and feetcarved with scrolls-2ft.3in.wide
+- 694 A PAIR OF OLD ENGLISH MAHOGANY CoMMODES,One With
+- three drawers,the top forming a secretary,the other with four drawers,with serpentine fronts mounted with or-molu handles,escutcheons and corners designed in the Regence taste,chased with female heads,foliage,rosettes and Satyrs'masks-3 ft.11 in.wide
+- 695 A CHIPPENDALE MAHOGANY CHEST OF FIVE DRAWERS,the top and angles carved with latticework,on stand carved with a shell, and cabriole legs carved with foliage4ft.10in.high,3ft.7in.wide
+- 696 A CHIPPENDALE UPRIGHT MIRROR,in gilt-WOod frame, carved with scrollwork, branches of flowers and fruit,a squirrel and two birds-6ft.high,3ft.wide
+- 697 A pair of Chippendale mahogany chairs,with vase-shaped centres to the backs,the tops carved with foliage and the side supports by ribands,on straight legs covered withlatticework
+- 698 Four Chippendale mahogany chairs, with interlaced backs, slightly carved with foliage
+- 699 9A Chippendale oblong mirror,in gilt-wood frame carved with rushes, scrolls and wave-pattern, and surmounted by figures of two birds—2 ft.9 in.high,4ft.6 in.wide
+- 700 A Chippendale mahogany card-table, with carved rosette and riband border, on carved cabriole legs and hoof feet2ft.4in.wide
+- 701 Another, nearly similar, on ball-and-claw feet—2 ft. 4 in.
+- wide
+- 702 SIx CHIPPENDALE MAHOGANY CHAIRS, With plain backs,on cabriole legs carved with foliage and ball-and-claw feet
+- 703
+- A Chippendale mahogany table, with oblong shaped top, carved with foliage and ribands, on cabriole legs— 2ft.7in.wide
+- 704 Another, with carved rosette borders,on fluted legs3 ft. wide
+- 705 A Chippendale mirror, in gilt-wood frame carved with fowers and scrolls—3 ft.4 in.high,1 ft.7 in.wide
+- branches of flowers and fruit, scrolls and wave-pattern— 3ft.2 in.high,2 ft.1 in.wide
+- 706 A Chippendale oval mirror,in gilt-wood frame carved with
+- 707 A CHIPPENDALE OBLONG TABLE, the top of shaped outline,
+- lacquered with Chinese figures and buildings on black ground, and with carved beaded border, a narrow frieze round the sides pierced with latticework and gilt; supported on cluster column legs lacquered with birds and foliage, and with X-shaped scroll stretcher3 ft. 10 in. wide,2ft.9in.deep
+- 708 A Chippendale mahogany large arm-chair,with interlaced back carved at the top with foliage,with straight legs and stretchers
+- 709 A CHIPPENDALE MIRROR, in gilt-wood frame,boldly carved with a dragon, vases and branches of flowers, and an arbour and bells at the top-4 ft.6 in.high,2 ft.5 in.wide
+- 710 A Chippendale circular mahogany table, with escalloped and moulded border, on fluted tripod carved with acanthus-
+- leaves and ball-and-claw feet-31 in.diam.
+- A Chippendale mahogany card-table, with shaped foldingtop, carved inside with borders of foliage, on cabriole legs carved with lions'-masks and claw feet-2 ft. 8 in.
+- 711 wide
+- 712 A Chippendale oval mirror, in gilt frame carved as a wreath
+- of foliage—2 ft. 11 in.high,2 ft.1 in.wide
+- A Chippendale upright mirror, in gilt-wood frame carved with branches of fowers and fruit,birds and scrolls
+- 713 2 ft.10 in.high,2 ft.wide
+- 714 A CHIPPENDALE MAHOGANY FIRE ScREEN, the feet carved with foliage and beading,and the lower part of the stand pierced with a band of key pattern; containing a panel of needlework,worked with a vase of fowers in coloured silks on a black ground4 ft.9 in.high,3 ft.wide
+- 715 Three Chippendale mahogany chairs, the legs carved with latticework,the seats and backs stuffed,and covered with flowered crimson silk brocade
+- 716 A Chippendale winged arm-chair, on mahogany cabriole legs and club feet,the seat,back and arms covered with cream silk brocade,with fowers in green and yellow
+- 717 A Chippendale mahogany low winged cabinet, enclosed by one door, the front slightly serpentine, and the panels
+- carved with foliage and scrolls—3 ft.2 in.high,4ft.wide
+- 718 A CHIPPENDALE MIRROR, shaped as two conjoined circles,in gilt-wood frame carved with branches of fowers overlaid on the surface of the looking-glass, surmounted by the figure of a bird holding festoons of flowers, the whole
+- supported on twoclawfeet—4 ft.3 in.high,6ft.wide
+- 719 A Chippendale upright mirror, in gilt-wood frame carved with architectural ornaments,a dog,squirrel and bunches of fowers, surmounted by a figure of a Chinaman standing beneath a pagoda-shaped canopy—4 ft.2 in.high,2 ft. 2in.wide
+- 720 A Chippendale mahogany tall-boy chest, with eight drawers and slide,the angles carved with latticework-6 ft.4 in. high,3ft.7in.wide
+- A CHIPPENDALE SETTEE,the framework gilt and carved with foliage,rosettes and serolls,on lions'-claw feet,the seat and back stuffed,and covered with crimson velvet
+- 721 5ft.2 in.wide
+- 722
+- AN ARM-CHAIR,Similar
+- 723 ANoTHER,nearly similar,the feet carved with foliage
+- 724 A CHIPPENDALE MAHOGANY BEDSTEAD,with futed posts carved with palm-leaves and tassels,the canopy richly carved with rosettes and laurel-festoons tied by ribands,and surmounted byvases festooned with laurel;and a coverlet,valance and pair of curtains,of red satin,embroidered with fowers in coloured silks
+- 725 A CHIPPENDALE BEDsTEAD,with cluster-column posts carved with foliage and scrollwork, the canopy shaped as a dome covered with crimson satin, and with a pair of curtains and coverlet of crimson satin embroidered with
+- vases of flowersin coloured silks
+
+## ENGLISH FURNITURE,
+
+CHIEFLY OF THE EARLY PART OF THE 18TH CENTURY.
+
+- 726 An old English lacquer box, decorated with Chinese figures and pagodas in colours and gold on black ground, and with engraved silver mounts—12 in.wide-late 17th
+- Century
+- An old English lacquer toilet-mirror, decorated with fowers and foliage in the Chinese taste, in black and gold-2 ft. 7in.high
+- 727
+- 727A A ditto two-leaf screen,with Chinese landscapes and fowers
+- inblack andgold—4 ft.4 in.high
+- 728 A Queen Anne chest of five drawers, inlaid with circles and bands of light wood on ground of pollard walnut-3 ft.4 in. wide
+- 729
+- 9A marqueterie chest of five drawers,inlaid with panels of seroll foliage on walnut ground3 ft.5 in.wide
+- 730 A Queen Anne walnut-wood tallboy chest of four drawers-
+- 5ft.11 in.high,3 ft.3 in.wide
+- 731 A Queen Anne walnut-wood chest of five drawers, on stand, with cabriole legs,and three drawers-4 ft.10in.high,
+- 3ft.4in.wide
+- 732 A Queen Anne walnut-wood tallboy, with nine drawers and a slide,the angles futed—5 ft.9 in.high,3 ft.7in.wide
+- 733 A QuEEN ANNE OBLONG GILT TABLE,decorated with shells, strapwork and foliage in plaster work,on cabriole legs 3ft.11 in.wide
+- 734 A Queen Anne oblong marqueterie table,inlaid with panels
+- of seaweed ornament on walnut ground—2 ft.10 in. wide
+- 735 A Queen Anne walnut-wood card-table, with shaped top, on
+- club-feet--2ft.4in.wide
+- 736 A Queen Anne winged arm-chair,with gilt arms,legs and stretchers, carved with foliage and scrolls, the back, wings and loose cushion covered with fowered white silk
+- brocade
+- 737 A PAIR OF CoMMoDEs,with two drawers each,of walnutwood, with gilt borders,a frieze round the lower part pierced and carved with fowers and scrolls,on cabriole legs with scroll feet—2 ft.10 in.wide—temp. George I.
+- 738 A PAIR OF QUEEN ANNE MIRRORs,in gilt-wood frames carved with shells and decorated with foliage in plasterwork,the tops formed as architectural pediments-4 ft.9 in.high,
+- 2ft.7in.wide
+- 739 THREE QUEEN ANNE WALNUT-WoOD CHAIRS, With cabriole legs and scroll stretchers,the seats and backs covered with red plush,to which are applied panels of old English petit-point needlework worked with figures of ladies and peasants,birds,animals and fowers in strapwork borders
+- 740 A QUEEN ANNE WALNUT-WoOD CABINET,With glazed folding-doors in the upper part and doors below,the frieze carved with scroll foliage-5 ft. 6 in.high,2 ft. 9in.wide
+- 741 A QuEEN ANNE GILT TABLE, with scroll-shaped supports boldly carved with a coat-of-arms and a monogram surmounted by an eagle and crown, rosette ornaments, grapes, foliage and a shell; the top formed of a Delft plaque, painted with mountainous landscapes, ruins,
+- peasants and cattle in blue-3 ft.4 in.wide
+- 742 A QUEEN ANNE GILT FIRE-ScREEN, carved with shells,
+- foliage and scrolls, and supported by hoof feet, ftted with an engraved panel of plate-glass in place of the originalneedlework-4 ft.high,2ft.11 in.wide
+- 743 A SET OF SIX QUEEN ANNE CHAIRS, entirely gilt,
+- the backs of scroll outline carved and decorated in plasterwork with rosettes, shells,foliage and interlaced straps on a ground of small circular ornaments, the border to the seat decorated in a similar manner to the back, and carved in relief with scroll foliage,the legs boldly carved with lions'-masks holding rings tied by ribands, from which are suspended flowers, resting on feet formed as claws holding balls
+
+See Illustration
+
+- 744 A Queen Anne mirror,in walnut-wood frame-3 ft.3 in.
+- high,2ft.8 in.wide
+- 745 A Queen Anne winged arm-chair, on cabriole legs with stretchers, the back and arms covered with cut green velvet
+- 746 A Queen Anne walnut-wood table,with one drawer,the top inlaid with feathered lines,on turned legs with X-shaped stretcher-29 in.wide
+- 747A small table,with folding top of walnut-wood,with frieze of oak carved with rosettes and ftted with two drawers,on
+- turned baluster gate supports-27in.wide
+- 748 A Queen Anne mirror,in gilt frame carved with a shell and foliage,and decorated with fowers and foliage in plasterwork,mounted as a toilet-glass3 ft.1in.high,2ft.8 in. wide
+- 749 A QuEEN ANNE SETTEE, the framework gilt and carved with branches of foliage,strapwork and shells,on cabriole legs with seroll feet, the seat and back covered with green velvet—5ft.2in.wide
+- 750 A QuEEN ANNE WALNUT-WooD STooL, with cabriole legs and club feet, the top covered with petit-point needle-work, with a horse,birds and fowers in coloured silks on a blackground-22 in.wide
+- 751
+- An oblong stool, with turned legs and stretchers, the top covered with needle-work,with fowers,fruit and birds in coloured silks on yellow ground-23 in.wide--17th Century
+- 752 A QUEEN ANNE OBLONG MARQUETERIE MIRROR, the oblong
+- walnut-wood frame inlaid with panels of seaweed ornament, the glass engraved with a quay scene,buildings and ships-3ft.high,3ft.8 in.long
+
+End of Sicth Day’s Sale
+## Seventh Day's Sale.
+
+## On THURSDAY,MAY 8,1913,
+
+AT ONE O'CLOCK PRECISELY.
+
+## ENGLISH PORCELAIN AND POTTERY.
+
+- 3A Bow figure of a green parrot, perched on a flowering tree-
+- 753 stump-4in.high
+- 754 A Chelsea figure of a bulifinch,perched on a branch—2 in. high;and a Derby figure of a parrot,on perch-2 in. high
+- 755 A Bow candlestick, with figure of a boy, emblematic of Winter,holding a brazier and seated among berried
+- branches-9 in.high
+- 756 A pair of Caughley oval baskets,painted with flowers and
+- fruit in blue,and with pierced trellis sides-9 in.wide
+- 757 A pair of ditto circular bowls,painted with fruit and fowers —10 in.diam.;and a pair of strainers,similar—91 in. diam.
+- 758 8A pair of Derbyvases and covers,painted with pink rosebuds,and with white and gold rams'-heads in relief,on triangularbases-10in.high
+- 759 A pair of Coalport vases and covers, painted with Cupids on clouds,and bouquets of fowers in panels on marbled dark blue and gold ground, and with white and gold foliage handles-10 in.high
+- vase,encrusted with fowers-7 in.high—marked with the Dresden crossed swords in blue;and a Derby vase, fitted with a bouquet of fowers-6 in.high
+- 760 A Coalport inkstand,encrusted with coloured flowers;a ditto
+- 761 A pair of Staffordshire bowls and covers, formed as doves on nests-4 in.high;and a mug, formed as a Satyr's head
+- 762 A pair of figures of birds, by Platt, of Lane Delph8 n. high
+- 763 3A Wedgwood black basalt ewer,emblematic of water,with a dolphin's head in relief,and Triton handle
+- 764 A pair of Wedgwood black basalt jardinieres, of semicircular shape,modelled with Cupids in relief supporting laurelfestoons-9 in.wide
+- 765
+- A Staffordshire ware group of two Cupids, wrestling for a
+- A Wedgwood black basalt bust of Pope,life size
+- 766 heart-16in.high
+- A SALTGLAzE SERVICE, modelled with scrolls and diaper pattern, and with pierced trellis borders, consisting of three circular baskets and twenty-one plates and dishes,
+
+## WORCESTER.
+
+- 768 An old Worcester oval tureen, cover and stand,painted with fower-sprays in colours on white ground, and with branch handles
+- with fruit in colours, and gilt with scrolls;and two canisters and covers,painted with fowers in blue
+- 769 An old Worcester fluted sugar-basin,cover and stand,painted
+- 767 in sizes
+- 770An old Worcester plate,painted with a group of fowers in colours, in mottled dark blue border gilt with scrolls
+- 7in.diam.
+- 771 AN OLD WORCESTER I LEAF-SHAPED DISH,painted with birds and insects in scroll panels with gilt borders,on
+- dark blue scale-pattern ground-12 in. long
+- Three old Worcester circular baskets,painted with flowers in colours,and with open trellis sides encrusted with
+- 772 blossom-6 in.diam.
+- AN OvAL DITTo BasKET, nearly similar, the exterior encrusted with pink blossoms on yellow ground,and with
+- 773 vine-branch bandles-9 in.long
+- A PAIR OF OLD WORCESTER OVAL BASKETS AND CoVERS, encrusted with pink blossoms,and with coloured fower-
+- 774 branch handles, the covers pierced7 in. long
+- 775 AN OLD WoRcEsTER JuG,painted with fowers,in scroll panels with gilt borders on dark blue scale-pattern ground,
+- the lip modelled with a mask—74 in.high
+- An old Worcester bowl and cover,painted with fowers in circular and fan-shaped panels, on dark blue ground gilt with foliage,mounted with or-molu rim and foot—6 in.
+- 776 high
+- 777 A WoRcEsTER DINNER SERVICE,painted with panels of
+- fowers on dark blue scale-pattern ground, consisting of
+
+Four vegetable-dishes and covers Sixteen oval dishes Sixty-six dinner-plates Twenty-three soup-plates
+
+- 778 Two old Worcester oval baskets,painted with flowers and fruit in blue,and encrusted outside with blossom—10 in. and 8in.long
+
+779 Six ditto, similar—74 in.and 7 in.long
+
+780 Four circular ditto, similar-91 in.diam.
+
+781 Two ditto, similar—11 in.and 7 in.diam.
+- 782 Two circular baskets, similar8 in. diam.; and four leaf-
+- 783
+- 784 A pair of old Worcester bowls, moulded with shells,and
+- shaped dishes-7 in.wide
+- Eleven small plates,painted with fruit and fowers in blue
+- painted with flowers in blue-9 in.diam.;anda circular dish,with fluted border——10 in.diam.
+
+## GLASS,
+
+CHIEFLY OF THN EIGHTEENTH CENTURY.
+
+- 785
+- 786 Fourteen wine-glasses, with bell-shaped bowls,on ruby and
+- Eight glass goblets, engraved with figures, arms, flowers, &amp;c.
+- white vitro-di-trina stems
+- 787 Thirteen ditto, with V-shaped bowls on similar stems;and
+- 788
+- two ruby and white beakers, with bosses in relief
+- Fifteen wine-glasses, with bell-shaped bowls and shaped vitro-di-trina stems
+- 789
+- 790
+- Sixteen wine-glasses, with V-shaped bowls and vitro-di-trina stems
+- Sixteen smaller ditto
+- 791 Sixteen wine-glasses, with bell-shaped bowls and vitro-ditrina stems
+- 792
+- Eighteen ditto,nearly similar; and two others,with V-shaped bowls
+## ENGLISH FURNITURE,
+
+CHIEFLY OF THE EIGHTEENTH CENTURY.
+
+- 794 A Sheraton mahogany card-table,of semicircular shape, banded with tulip-wood and carved with paterae—
+- 3ft.1 in.wide
+- 5A small mahogany table,with folding leaves,on spindle gate
+- 795 supports-33 in.wide
+- 796 A Sheraton mahogany table,with four drawers and foiding leaves, on X-shaped supports carved as animals' legs with brass claw feet,mounted with brass mask handles holding rings4 ft.6 in.wide
+- 797 A spinet,by Johannes Broadwood,in mahogany case banded with satin-wood,painted with the contest between Apollo
+- and Pan,flowers and festoons-5 ft.1 in.wide
+- 798
+- A Sheraton mahogany card-table, of semicircular shape, banded and inlaid with panels of satin-wood—3 ft.wide; and a Sheraton circular satin-wood tripod table,with revolving top
+- 9A Sheraton small table,of semicircular shape,withlifting top and drawer below,inlaid with festoons, ribands and
+- 799 tassels in satin and other woods—2 ft.1 in.wide
+- A Sheraton semicircular card-table, of mabogany,banded
+- 800 with satin-wood-3ft.2in.wide
+- 801 A Sheraton mahogany semicircular table,inlaid with panels of arabesques in marqueterie on satin-wood ground, surmounted by a veined feur-de-peche marble slab-
+- 4ft.wide
+- 802 A Hepplewhite mahogany window-seat, the legs and ends carved with rosettes and laurel foliage, covered with crimson silkbrocade-3 ft.2 in.wide
+- 803 A Georgian mirror,in gilt frame with carved rosette and beaded borders,a shield at the top-6 ft.high,2 ft. 8 in.wide
+- foliage and beading—17 in.high,5 ft.2 in.wide
+- 804 A Georgian oblong mirror, in gilt frame carved with shells,
+- 805 5Four Sheraton mahogany chairs, the backs inlaid with fan ornaments and ribands in satin-wood
+- berried foliage-3 ft.6 in.wide
+- 806 A SHERATON MAHOGANY CHEST, Of four draWers, with serpentine front\_banded with satin-wood and inlaid with
+- 807 Another, of similar shape,banded with satin-and rose-wood —3ft.9in.wide
+- 809 A SHERATON SATIN-WooD CoMMoDE, With three draWers,of serpentine-shape,banded with light mahogany, the top inlaid with a rosette and the drawers with honeysuckle
+- 808 8A Sheraton mahogany wardrobe,with folding doors and four drawers below, inlaid with fan-ornament and futing in satin-wood, and banded with rose-wood—6 ft.4 in. high,4ft.2 in.wide
+- 810
+- ornament-4ft.wide
+- 811 A Sheraton semi-circular table, of mahogany, inlaid with satin-wood panels with arabesque foliage in marqueterie —3ft.9 in.wide
+- A Sheraton satin-wood toilet-table,with folding top and three drawers,inlaid with arabesque foliage and ribands —3ft.wide
+- 812 A Sheraton oval satin-wood table, with folding ends and one drawer, the border of the top inlaid with honeysuckle ornament and scrolls-3 ft.2 in.wide
+- 813 3 A SHERATON SATIN-WOOD CABINET, with draWer forming secretary,and one drawer below,inlaid with laurelfestoons, scroll foliage and ribands in marqueterie,and banded with tulip-wood,on stand—2 ft.5 in.wide
+- 814 A LARGE CasKET, with domed-shaped top, overlaid with
+- plaques of tortoiseshell with ebony borders, with lines and chequer-pattern in ivory,on stand with one drawer and futed legs, with pierced latticework corner-brackets 3 ft.3 in.high,3 ft.wide—English,18th Century
+- 815A PAIR OF SHERATON SATIN-WOOD CARD-TABLES, With serpentine front and ends, the tops inlaid with vases, laurel-festoons and scroll foliage in various woods,and the borders banded with rose-wood, the frieze inlaid with alternate vertical strips of satin-, pear- and rose-woods, on square tapering legs—3ft 1 in.wide
+- 816 A SuITE OF PERGOLEsE FuRNITURE,the frameworks painted
+- green and carved with foliage, ribands and foliage, partly gilt, the backs supported by cireular rails and surmounted by oval medallions painted with Cupids in grisaille, with canework seats,and cushions covered with old English flowered silk brocade,consisting of
+
+A settee-5ft.4 in.wide Six chairs
+
+- 817 AN ADAMs MAHoGANy CABINET, the upper part enclosed by four glazed doors,with arch-shaped panels, the mouldings carved with rosettes and laurel-festoons, the centre surmounted by an openwork cornice pierced and carved with honeysuckle ornament,a laurel-wreath and arabesque foliage; the lower part of the cabinet ftted with four drawers,and cupboards below enclosed by four doors, the panels carved with rosettes,laurel-festoons, and vases supported by arabesques;the plinth carved
+- with a border of foliage-9ft.6 in.high,8 ft.wide
+- 818
+- 8A pair of Adams brackets,of gilt-wood, carved with foliage andclaws-14in.wide
+- 819 9 A Sheraton circular mahogany table,inlaid with satin-wood lines,with leather-covered top—2 ft.10 in.diam.
+- An Adams oval mirror, in gilt frame carved with foliage and
+- 821 AN OLD ENGLISH THERMOMETER AND BAROMETER,by D. Fagioli and Son, Clerkenwell,in gilt-wood case,of Louis XVI. design, carved with a futed column, festoons of fowers and oak foliage,quivers of arrows and laurel-
+- 820 scrolls—3 ft.11 in.high,2 ft.10in.wide
+- branches-4ft.1 in.high
+- 823 A pair of Adams gilt-wood wall-lights, carved with foliage and surmounted by vases, with branches for three lights
+- 822 2A clock, with white enamel dial, in gilt-wood cartel case, carved with flowers and grapes and surmounted by a vase—2 ft.3in.high
+- each,ftted for electric light-22 in.high
+- 825A Georgian mirror, in gilt-wood frame of rectangular outline, the borders carved with rosettes and ribands,and with shells at the corners-3 ft.4 in.by 4 ft.5 in.—temp. George I.
+- 824 A Georgian oblong gilt table, carved with foliage and scrolls, and with gadrooned border,on cabriole legs with claw feet and X-shaped stretcher surmounted by a vase of fowers,the top formed of a slab of veined green marble —3ft.8 in.wide
+- 826 A Georgian upright mirror, in gilt frame of rectangular outline carved with key-pattern, drapery and tassels 3ft.7in.high,2 ft.6in.wide
+- 827 A SET OF FoUR GEORGIAN WINDoW-SEATS,the frameWorks gilt, and carved with shells and running scrolls,three of the tops covered with fowered crimson brocade-62in. wide
+- 828 A Georgian gilt console-table,carved with a frieze of rosettes and ribands,laurel-festoons and a fower-wreath,on futed legs with rectangular stretcher surmounted by a vase,the top formed of a slab of veined white marble
+- 3ft.10in.wide
+- 829 A pair of mirrors, of George I. design,in gilt wood frames of rectangular outline,carved with scroll foliage,key-pattern and beading,the tops formed as architectural pediments一 5ft.high,3ft.2in.wide
+- 830 A PAIR OF ADAMS GILT-WooD ToRCHEREs,formed as tripod altars, carved with rams' heads and foliage, supwreath borders—3 ft.9 in.high,1 ft.5in.diam.
+- carved with ramsheads,and compositions of scrollwork as lions' legs and claws,surmounted by a veined yellow
+- entwined with garlands of flowers,the legs boldly carved marble slab-5ft.9in.wide
+
+SeeIllustration
+
+- 832 A GEORGIAN SIDE-TABLE, carved with a Satyr's mask,
+- foliage and strapwork,and a frieze of rosette and trelliswork,on scroll supports and stretchers carved with scrolls and acanthus-leaves,the whole painted white,the top formed of a slab of feur-de-peche marble-4 ft.wide
+- 833 A GEORGIAN GILT SIDE-TABLE,the frieze carved With
+- foliage,futing and a shell,on Sshaped supports carved with scale-pattern, oak foliage,acorns and acanthusleaves,the topformed ofa slab ofveined blackandwhite marble-4 ft.wide—temp.George II.
+- 834A GEORGIAN GILT SIDE-TABLE,boldly carved with a mask of Diana and cornucopia of fowers and fruit, the frieze and border of the top carved with gadrooning, running scrolls, rosettes and ribands; supported on four legs formed as S-shaped scrolls, carved with overlapping scale-pattern and acanthus-leaves, surmounted by a slab of veined white marble—5 ft.3 in.wide,1ft.10 in.deep
+- 835 A GEORGIAN GILT SIDE-TABLE, carved with a Satyr's mask and trophy,foliage and scrolls, the cabriole legs entirely carved with rosettes and trellis-pattern, with X-shaped stretcher carved with foliage, surmounted by a veined red marble slab-3 ft.1 in. wide-temp.George I.—fitted
+- 836 A GEoRGIAN MIRRoR,of Italian design, in gilt-wood frame carved with vases of fowers,foliage and scrolls,and with
+- with a liner,to form a jardiniere
+- 3ft.4 in.wide
+
+## DECORATIVE OBJECTS AND FURNITURE.
+
+- 837 A cut-glass candelabrum, with pendant-chains and drops, and branches for two lights ftted for electric light,on pedestal of purple glass,and metal-gilt plinth33 in. high
+- 838 Another,nearly similar—29 in.high
+- 839
+- A pair of candlesticks,nearly similar15 in.high
+- 840
+- A pair of candelabra, with blue and white Wedgwood pedestals with or-molu borders, and or-molu and glass branches for two lights each fitted for electric light,with shades
+- 841 A pair of ditto,nearly similar
+- 842 A mahogany toilet-mirror,of Sheraton design,banded with
+- satin-wood and inlaid with a basket and festoons of flowers
+- 843 A ditto cheval glass, of mahogany and satin-wood, inlaid with a ram's-head and foliage-6 ft.7in.high
+- 844 4A mirror,of Chippendale design,in gilt frame carved with
+- 844a A cheval glass,in frame overlaid with plaques of tortoiseshell, with ivory lines round the borders
+- branches of fowers and scrolls, and surmounted by figures of birds-5 ft.6 in.high,3 ft.8 in.wide
+- 845 An oblong mahogany table, of Chippendale design, with pierced latticework gallery,borders,legs and stretcher—
+- 2ft.6in.wide
+- 846 A pair of ditto tables, of nearly similar design1 ft. 9 in. wide
+- 847 A mahogany semi-circular commode, with open shelves in the centre and cupboards at the sides,painted with vases of fowers and ribands in colours3 ft.1 in.wide
+- 848 An oval mirror,of Adams design,in gilt frame with border of arabesque foliage, supported by columns and tripods at the sides,and surmounted by vases—6 ft.6 in.high,3 ft. 9in.wide
+- 849 A mahogany writing-table,of Sheraton design,with three drawers in the frieze,and rounded cabinet at the back ftted with numerous drawers, cupboards and pigeonholes enclosed by tambour panels,inlaid with satin-wood lines—6ft.6 in.wide,3ft.6in.deep
+- 850 A small satin-wood work-table, of Sheraton design,banded with mahogany—17 in.wide; and a small oval satinwood show-table,banded with rose-wood—7 in.wide
+- 851 A pair of satin-wood pole fre-sereens, the banner containing
+- apanel of silk,embroidered with subjects after Adam Buck,the stand rectangular, and banded with tulipwood
+- 852 A pair of gilt mirrors, of Georgian design,with architectural pediments,carved in the centres with shields-of-arms— 5ft.3in.high,3ft.5in.wide
+- 853 A CHEvAL GLAss,in mahogany frame,the posts at the sides
+- carved as caryatid female figures supporting on their heads baskets of fruit,the centre surmounted by a vase and arabesques-6ft.3 in.high,4ft.9 in.wide
+- 853AAS satin-wood circular revolving bookstand, with inlaid chequer lines and metal-gilt gallery
+- 854 A mahogany pedestal cupboard, of Chippendale design, with one drawer and folding doors,entirely carved with lattice work—1 ft.8 in.wide; and a circular mahogany table, with escalloped top,on carved tripod and ball-and-claw feet-20 in.diam.
+- 855 A pair of small oval mirrors, of Adams design, in gilt-wood frames carved with laurel-branches, fowers and a vase, suspended from a knot of ribands—3 ft.6 in.by 1 ft.4in.
+- 856 A mirror, of Venetian design,in gilt frame,with seroll borders, the corners carved with female masks4 ft.4in.by 4 ft. 6in.
+- 856a A ditto toilet-mirror, carved with Cherubs and scrolls— 3ft.wide
+- 857 A satin-wood cabinet, enclosed by glazed folding doors, painted with medallion heads,arabesques and ribands in colours-5ft.10 in.high,6ft.wide
+- A settee,of Queen Anne design,on walnut cabriole legs, the seat,back and arms stuffed,and covered with blue silk
+- 858 brocade-5ft.9 in.wide
+- 859
+- Another,on carved cabriole legs,similarly covered-6ft.wide
+- 860 An upright mirror, of George I. design, in gilt frame, of rectangular outline, carved with foliage and scrolls, the top formed as an architectural pediment—4 ft.10 in.high,
+- 3ft.wide
+- 861 A mirror, in gilt-wood frame carved with shells, foliage and scrolls in the style of Louis XIV.,and with arch-shaped top surmounted by a shell—3 ft.6in.high,2 ft.4 in.
+- wide
+- 862 A pair of mahogany tripod fre-screens,of Chippendale design,with open stands carved with foliage,and brass poles supporting brocade banners,with flowers in coloured
+- silks
+- 863 A mahogany cabinet,of Chippendale design,with glazed folding doors enclosing shelves,and cupboards below,the borders carved with rosettes,ribands and beading—9 ft.
+- high,3ft.9in.wide
+- 864 A pair of oak chairs,of Charles II.design,the backs carved
+- with rosettes,foliage and scrolls,on S-shaped legs with carved stretchers
+- 865 A settee,arm-chair and three footstools,of oak,of Charles II. design,with carved scroll legs and stretchers,the seats and high backs stuffed,and covered with green cut velvet
+- 866 A pair of settees,of Queen Anne design,on cabriole walnut legs, club feet and turned stretchers, the loose cushion seat,backs and arms covered with cut velvet,with foliage
+- in colours and gold thread-6 ft.9 in.wide
+- 867 A pair of oak chairs, of Charles II. design, with column supports to the back carved at the tops with scrolls, scroll arms and stretchers,the seat and panels in the back covered with stamped Spanish leather
+- 868
+- A SET OF TWENTY-TWO CHAIRS AND TWO ARM-CHAIRS, of Queen Anne design,of mahogany,the backs pierced as shells and carved with foliage and scrolls,and on carved cabriole legs with ball-and-claw feet,the details of the carving gilt,the seats covered with crimson leather
+
+## CURTAINS.
+
+- 869 A pair of curtains, of old French brocade, with fower-sprays
+- in colours on cream ground—7 ft.high;and a curtain, nearly similar-6ft.6in.high
+- 870 A curtain,of old French fowered green silk brocade,worked
+- with silver thread-6ft.high
+- 870a Two narrow upright panels and a cope, of Italian crimson
+- brocade, with fowers and foliage in gold and silver thread
+<!-- image -->
+
+- 871 A pair of curtains, of pink silk brocade, with Cupids and
+- fowers in white——11 ft.high,5 ft.wide;and a valance— 8ft.wide
+- 872 A narrow upright panel,of crimson silk, embroidered with vases of fowers in coloured silks-9 ft.high,2ft.3 in.
+- wide
+- 873 Two pairs of olive-green velvet curtains—15 ft.high; and holders
+
+## EASTERN CARPETS AND RUGS.
+
+- 874 A Persian rug, with conventional ornament on pink centre, and striped pale blue and buff border—13 ft. long,5 ft. 7in.wide
+- 875 A Persian rug, with geometrical design in red and white on dark blue centre—10 ft.by6ft.5in.
+- 876
+- Another,with a design of formal foliage in red on blue and brownground—15ft.by4 ft.11in.
+- 877
+- A Persian rug, with conventional ornament on red centre, and striped red and white border--12 ft.3 in.by 6ft.; and one, with flowers and foliage on red ground-8 ft. 6 in.by 4ft.2 in.
+- 878
+- 8A Persian rug,with decoration in polychrome on blue ground, with red and white border—14 ft.6 in. long,3 ft.2 in. wide
+- 879 Two ditto,with foral ornament on dark blue centre,and red
+- and whiteborder—16ft.and 14ft.6in.by3 ft.9in.
+- Three Brussa velvet rugs, with red centres and red and
+- 881 green borders,mounted as cushions
+- 882 A pair of cushions, covered with Turkish cut velvet, with a design of flowers in crimson and green on yellow ground
+- 883 A Brussa velvet prayer-rug, with a design of rosettes and tulips in crimson and white—3 ft.10 in.by 2 ft.1 in.— mounted in oak frame as a fire-screen
+- 884 A pair of Brussa velvet prayer-rugs, with a design of tulips and carnations,in red and green—3ft.10 in.by 2 ft.— mounted as screens
+- 885 5A Brussa velvet rug, with fowers and trophies in red and
+- fire-screen
+- 886 A PERsIAN CARPET,with a design of animals in variously shaped red and dark blue panels on green centre, and striped border—16 ft.6in.by 13 ft.3 in.
+
+FINIS

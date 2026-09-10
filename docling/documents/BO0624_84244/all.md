@@ -1,0 +1,160 @@
+## Conditions de la Vente
+
+Elleaura lieu au comptant.
+
+Les Acquereurs paieront 17,50 pour cent en sus des encheres.
+
+Aucune reclamation ne sera admise une fois l'Adjudication prononcee.
+
+## ORDRE DE LA VACATION
+
+L'ordre du Catalogue sera rigoureusemeut suivi.
+
+<!-- image -->
+- 1 La Ville.
+
+## PEINTURES
+
+米
+
+## BRAQUE (Georges)
+
+|    |                                         | Haut. : 0m88; Larg. : 0"65                        |
+|----|-----------------------------------------|---------------------------------------------------|
+| 2  | Signe au dos Nature morte. Signe au dos | Haut.:0"81;Larg.:0m60                             |
+| 3  | La Guitare. Signe au dos                | Haut.:0m73;Larg.:0m60                             |
+| 4  | Figure. Signe au dos                    | Haut. : 1m46; Larg. : 0m81                        |
+| 5  | Le Violon. Signe au dos                 | Haut.:1m46;Larg.:0m81                             |
+| 6  | La Flute. Signe au dos                  | Haut.:0m41;Larg.:0m33                             |
+| 7  | Verre et Cartes. Signe au dos           | Ovale-Haut. : 0m27;Larg.:0m33                     |
+| 8  | Pipe, Cartes et Journal. Signe au dos   | Ovale -Haut.:0m41;Larg.:0m33                      |
+| 9  | La Grappe de Raisin. Signe au dos       | Haut.:0m41;Larg.:0m33                             |
+| 10 | Le Journal. Signe au dos                | Haut. :0m33;Larg.:0m46                            |
+| 11 | Le Verre sur la Table. Signe au dos     | Haut. :0=33; Larg. :037                           |
+| 12 | Verre, Pipe et Journal. Signe au dos    | Voirreproduction Rond - Haut. : 0m36; Larg. : 036 |
+| 13 | Nature morte. Signe au dos              | Haut. : 0m54; Larg. : 0m81                        |
+| 14 | La Ville.                               | Haut. :0m65; Larg.:0m54                           |
+| 15 | Signe au dos Nature morte.              | Ovale -Haut.:0m73;Larg.:0m54                      |
+| 16 | Signe au dos Nature morte.              |                                                   |
+|    | Signe au dos                            | Ovale-Haut.:0m65; Larg.:0m55                      |
+| 17 | Nature morte. Signe au dos              | Haut.: 0m33;Larg. :041                            |
+## DARDEL (Nils de)
+
+| 18                | Dans les Rues de Senlis. Signe en haut a gauche Date de Senlis(1913)   | Haut. : 0m73; Larg. : 0m50                  |                   |                   |
+|-------------------|------------------------------------------------------------------------|---------------------------------------------|-------------------|-------------------|
+| 19                | Dans le Fauteuil. Signe en haut a gauche Date (1913)                   | Haut. : 0m73;Larg.:0m60                     |                   |                   |
+| 20                | Portrait de M. Uhde. Signe en haut a gauche Date (1912)                | Haut. : 0m55; Larg. : 0m46                  |                   |                   |
+| DUFY (Raoul)      | DUFY (Raoul)                                                           | DUFY (Raoul)                                | DUFY (Raoul)      | DUFY (Raoul)      |
+| 21                | Plage a Marée basse. Signe en rouge en bas a gauche                    | Date (1906) Haut. : 0m65; Larg. :0m81       |                   |                   |
+| 22                | Le Cavalier arabe. Signe en bas a droite Date(1914)                    | Voir reproduction Haut : 0m65; Larg. : 0m81 |                   |                   |
+| 23                | Le Canal. Signe en rouge en bas au milieu                              | Haut. : 0m65 ; Larg. : 0m81                 |                   |                   |
+| 24                | La Statue dans le Parc. Signe en bas au milieu Date (1909)             | Haut. : 0m50; Larg. : 0m60                  |                   |                   |
+| 25                | Le Bananier. Signe en bas a droite Date (1909)                         | Haut. : 0m81; Larg. : 0m65                  |                   |                   |
+| 26                | " Le Compotier  Signe au dos                                           | Haut. : 0m92; Larg. : 0m65                  |                   |                   |
+| HERBIN (Auguste)  | HERBIN (Auguste)                                                       | HERBIN (Auguste)                            | HERBIN (Auguste)  | HERBIN (Auguste)  |
+| 27                | Les Pots de fleurs. Signe en bas a droite                              | Haut. : 0m84; Larg. : 0m65 Voirreproduction |                   |                   |
+| 28                | Le Pont de fer. Signe en bas a gauche                                  | Haut. : 0m63; Larg. : 0m81                  |                   |                   |
+| KIRSTEIN (AIfred) | KIRSTEIN (AIfred)                                                      | KIRSTEIN (AIfred)                           | KIRSTEIN (AIfred) | KIRSTEIN (AIfred) |
+| 29                | Femme dans la Clairiere. Signe en bas a gauche                         | Haut. : 0m84; Larg.: 1m                     |                   |                   |
+| 30                | Paysage. Signe en bas a gauche                                         | Haut. : 0m89: Larg.: 1m30                   |                   |                   |
+| 31                | Paysage. Signe en vert en bas a droite                                 | Haut.:0m97;Larg.:1m30                       |                   |                   |
+| 32                | Vue du Boulevard de Port-Royal. Signe en bas a gauche                  | Haut. : 0m61 ; Larg. : 0m50                 |                   |                   |
+## KLOSSOWSKI
+
+| 33              | Carnaval.                                                                                    | Date (1905)                                                   |
+|-----------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| 34              | Signe en bas a droite Jardin a Samois. Signe en bas a droite                                 | Haut. : 0m46; Larg. : 0m65 Date (1905) Haut. :0m45;Larg.:0m35 |
+|                 | LAURENCIN (Marie)                                                                            | LAURENCIN (Marie)                                             |
+| 35              | Le Pot de feurs. Signe en bas a droite                                                       | Haut.:044;Larg.:0m34                                          |
+| 36              | La Femme au boa rose. Signe en bas a droite                                                  | Haut. :0m81;Larg. : 0m65                                      |
+| LEGER (Fernand) | LEGER (Fernand)                                                                              | LEGER (Fernand)                                               |
+| 37              | La Femme couchee. Signe au dos                                                               | Date(1911/4912) Haut. :0m44; Larg.:0m65                       |
+| 38 39           | Nus dans un Paysage marin. Signe en bas a droite Nus dans la Montagne. Signe en bas a droite | Haut.:0m54; Larg.:0m73                                        |
+| 40              | La Danse.                                                                                    | Haut. :0m73; Larg.:0m53                                       |
+|                 | Signe en rouge en bas a droite                                                               | Haut.:0m73;Larg.:0m55                                         |
+| MIGNON (Lucien) | MIGNON (Lucien)                                                                              | MIGNON (Lucien)                                               |
+| 41              | Paysage. Signe en bas a droite                                                               | Date (1906) Haut. : 0m55; Larg. : 0m42                        |
+|                 | Non signe Figure dans un Fauteuil.                                                           | Haut.:0m81; Larg. :0m60 Voir reproduction                     |
+| 43              | Non signe                                                                                    | Haut. :0m92;Larg.:0m73                                        |
+| 44 45           | La Joueuse de Mandoline. Signe au dos Le Joueur de Clarinette.                               | Voir reproduction Haut.:1m;Larg.:0m73                         |
+| 46              | Buste de Femme. Signe au dos                                                                 | Voir reproduction Haut.:1m；                                   |
+| 47              | Le Violon.                                                                                   | Larg.:0m81                                                    |
+|                 | Signe au dos                                                                                 |                                                               |
+| 48              | Le Fumeur de Pipes.                                                                          | Ovale-Haut.:1m;Larg.:0m73                                     |
+|                 |                                                                                              | Haut.:1m30;Larg.:0m87                                         |
+|                 | Signe au dos                                                                                 | Larg.:0m81                                                    |
+| 49              | Le Joueur de Mandoline. Signe au dos                                                         | Haut.:1m；                                                     |
+## PICASSO (Pablo)
+
+| 50    | La Dame au Fauteuil. Signe au dos                                                                         | Haut,:0m41;Larg.:0m24                                      |
+|-------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| 51    | Violon, Verre et Journal. Signe au dos                                                                    | Voirreproduction Haut.:0m55;Larg.:0m45                     |
+| 52    | Tete. Signe au dos                                                                                        | Haut.: 0m46; Larg.:0m38                                    |
+| 53    | Tete. Signe au dos                                                                                        | Haut. :055; Larg.: 0"46                                    |
+| 54    | Buste de Femme. Signe au dos PUY (Jean)                                                                   | Haut.:0m65;Larg.:0m50                                      |
+| 55    | Date (1905) Nu sur le Sofa rouge. Signe en bas a gauche Expose au Salon d'Automne (1906) ROUSSEAU (Henri) | Haut.: 0"75 ; Larg.: 0m94                                  |
+| 56    | Portrait de M.Brummer. Signe en bas a gauche Date (1909)                                                  | Voir reproduction Haut.:147;Larg.:0m89                     |
+| 57 58 | L'Enfant a la Poupee de Carton. Signe en bas a droite La Femme en rouge dans la foret.                    | Voirreproduction Haut.: 0m67; Larg.: 0m51 Voirreproduction |
+| 59    | Signe en bas a gauche Vue de Malakoff.                                                                    | Haut. : 0m70 ; Larg.: 060 Date (1908)                      |
+| 60    | Signe en bas a droite La Promenade sous les arbres.                                                       | Haut. : 046 ; Larg.: 0"55 Voir reproduction                |
+| 61    | Hommage a Saint-Hubert. Copie d’un tableau de la fin du XVe siecle Signe en bas a droite                  | H.ROUSSEAU (Attribue a) Date (Juin 1904）                   |
+| 62    | WOLFF La Ville. Signe en bas a droite                                                                     | Haut.:4m；Larg.:0m73 Date (1909) Haut.: 0m70; Larg.: 060    |
+|       | Portrait.                                                                                                 | Haut.:0m72;Larg.:0m60                                      |
+| 89 64 | Le Torrent dans ta Montagne.                                                                              | Haut.: 0m37;Larg.:0m54                                     |
+| 65    | Le Cheval blanc. La Ruelle.                                                                               | Haut. : 0m60 ; Larg.: 0m74                                 |
+| 66    |                                                                                                           | Haut. : 0"65 ; Larg.: 0m46                                 |
+| 67    | La Mise au Tombeau.                                                                                       | Haut.: 0m32; Larg.:040                                     |
+| 68    | Christ en Croix (Peinture sur verre). Art Slave                                                           | Haut.:0m28;Larg..0"33                                      |
+## AQUARELLES &amp; DESSINS
+
+## BRAQUE (Georges)
+
+- 69 Le Compotier (Dessin au fusain et papiers colles).
+
+Non signe
+
+Haut.:0m70;Larg.:053
+
+## LAURENCIN (Marie)
+
+- 70 Tete (Dessin au fusain).
+
+Signe en bas a gauche
+
+Haut.:0m46;Larg.:0m31
+
+## PICASSO (Pablo)
+
+- 71 Le Compotier  (Dessin gouache et papiers colles).
+
+Non signe
+
+Haut.: 0m67; Larg.: 0m51
+
+72
+
+Le Verre (Aquarelle).
+
+Non signe
+
+Haut.: 0m28;Larg.:0m23
+
+73
+
+Guitare (Dessin au fusain).
+
+Non signe
+
+Haut.: 0m81; Larg.: 0=65
+
+- 74 Un lot de sept cadres en bois.
+
+75 Un lot de Livres sur les Beaux-Arts.
+
+76 Un lot de Livres sur les Beaux-Arts.
+
+77 Un lot de Livres sur les Beaux-Arts.
+
+- 78 Mobilier.
+
+<!-- image -->

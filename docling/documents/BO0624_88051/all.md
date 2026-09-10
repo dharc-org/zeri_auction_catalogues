@@ -1,0 +1,342 @@
+## Verkaufs-Ordnung.
+
+Die Versteigerung geschieht nach der Reihenfolge der Nummern, doch behalt sich der Unterzeichnete ausdricklich das Recht vor, auch auBer der Reihe zu versteigern.
+
+## Bedingungen der Auktion.
+
+Nur den mit Katalogen versehenen Personen ist der Zutritt zur
+
+Die Versteigerung findet gegen Barzahlung statt. Der Steigerer hat
+
+Ausstellung und die Beiwohnung der Auktion gestattet.
+
+ein Aufgeld von 1oo des Steigpreises zu entrichten.
+
+mit Mk.5.— mindestens abgegeben werden.
+
+Gebote bis zu Mk.100.— konnen mit Mk.1., iber Mk. 100.—
+
+Wenn zwei oder mehrere Personen zugleich ein und dasselbe Gebot abgeben und die Aufforderung zur Abgabe eines hoheren Gebots erfolglos bleibt, entscheidet das Los. (Verordnung vom 10.7.02.)
+
+Die Kunstwerke gehen beim Zuschlag in Rechnung und Gefahr des Steigerers uiber. Die Aufbewahrung bis zur Zahlung und Abnahme geschieht mit moglichster Sorgfalt, jedoch auf Gefahr des Steigerers. Wahrend der Dauer der Auktion ist der Auktionator nicht verpflichtet, Rechnung zu erteilen oder Ersteigertes, sollte es gleich bezahlt sein, abzugeben.
+
+Sofern nicht ein anderes Ubereinkommen getroffen ist,steht dem Auktionator das Recht zu, Gegenstande, welche innerhalb 24 Stunden nach Ablauf der Auktion nicht bezahlt sind, fur Rechnung des Steigerers auf die ihm am geeignetsten erscheinende Art weiter zu verkaufen, ohne den Schuldner davon zu benachrichtigen. Fur einen etwaigen Mindererlos ist derselbe haftbar, wahrend er auf Mehrerlos keinen Anspruch hat.
+
+Die Gemalde werden ohne Garantie und in dem Zustande verkauft, in welchem sie sich befinden. Reklamationen nach erfolgtem Zuschlag konnen nicht bericksichtigt werden, da die Ausstellung Gelegenheit zur Prufung bietet. Die Bezeichnungen sind nach denjenigen der Erben beibehalten. Die Angaben und Beschreibungen im Katalog werden nicht gewahrleistet. Die Mafe sind in Zentimeter angegeben. Die erste Zahl bedeutet die Hohe, die zweite Zahl die Breite.
+
+missionare gegen die ibliche Provision auf das Gewissenhafteste ausgefuihrt. Als vereinbarter Erfuillungsort fur alle Verpflichtungen der Kaufer
+
+Auftrage und Gebote werden angenommen und durch zuverlassige Kom- gilt Frankfurt a. M.
+
+Telephon Amt I, 547.
+
+## Rudolf Bangel.
+
+Fur etwaigen, bei unsachgemaBem Anfassen der Gegenstande entstandenen Schaden
+
+ist der Besucher haftbar.
+## Vorbemerkung
+
+Der Kommandant Henri Steger, vor etlichen 3o Jahren PersonalChef im Palais Bourbon, war sehr bekannt in politischen Kreisen, der intime Freund Leon Gambetta's und ein eifriges Mitglied der literarisch artistischen Gesellschaft des ,Bon Bock", deren Prasident s. Zt. der geistreiche Kupferstecher Emile Bellot gewesen ist. Kommandant Steger wurde dadurch eng befreundet mit einer grofen Zahl von namhaften Kuinstlern und bildete so, aus freundschaftlichen Andenken und glucklichen Erwerbungen, diese kleine Sammlung von ausgefuhrten Gemalden, Impressionen, Studien, Zeichnungen alterer und moderner namhafter Kunstler. Er vereinigte eine Anzahl Werke,keine Handelsware, die unzweifelhaft aus der Zeitder Kunstler stammen, denen sie zugeschrieben sind, die den Stempel reiner Kunst tragen und die in ihrem Gewand als Werke der momentanen Eingebung, dem empfanglichen Sucher, Liebhaber und Sammler ihre Reize darbieten werden.
+
+PA RIS,27.September 1912.
+<!-- image -->
+
+## Joseph Bail, Paris.
+
+- 1 Interieur. In einem mit Mosaikplatten belegten Kuichenwinkel, deren Ornamente sich am Kamin fortsetzen, steht der Wasserstein. Dariber ist der Wasserhahn und das Zuleitungsrohr, darunter ein Topf. Holz 32,5/22,5 cm.
+
+## Abraham Begeyn,1630-1697,Berlin.
+
+Holzgeschnitzter vergoldeter Rahmen.
+
+- 2 Flucht der Maria von Medicis nach Koln um 1642. Die KoniginMutter sitzt in einer Portechaise, die grob, gleich einem bequemen Wagen, vorn und hinten von reich geschirrten Maultieren getragen wird. Um dieses altertumliche Vehikel gruppiert sich das furstliche Geleite. Im Vordergrund zur Linken zwei vom Rucken gesehene, gewappnete Manner. Alsdann ein Edelmann, mit dem Sabel an der Seite in einem roten Mantel, auf einem Braunen. En face eine Ehrendame, die einen Knaben an der Hand fuihrt. Zur Rechten steht der Maultiertreiber im Gewand der damaligen Zeit, neben dem vorderen Tier. Weiterhin bilden marschierende Soldaten, die Muskete auf der Schulter,unter der Fuhrung eines Hauptmanns Zu Pferd, die Eskorte der koniglichen Reisenden. Im Mittelgrund erblickt man, zum Teil verdeckt durch die Portechaise, die Gestalten von Bogenschitzen und den Kopf mit Federbusch des hinteren Maultiers. Von dem Blau des wolkigen Himmels hebt sich grau ein mit Baumen bestandener Hugel ab, an dessen FuB ein kleiner Fluf flieBt. Nach der Ansicht von Experten ist dieses geistreiche Bildchen von dem Hollander Abraham Begeyn, der Hofmaler des Konigs von Preuben war. Holz26/21,5 cm.
+
+## Faustin Besson,1821—1882, Paris.
+
+- 3 Kinderkopf. Ausschnitt aus der Palette des Kunstlers. Seitenansicht des mit einem Haubchen bedeckten Kopfchens, auf einem interessanten,flott mit einigen Pinselstrichen hingesetzten Hinter-
+- grund. Rechts unten bez.:F. R. Besson. Holz 17,5/13 cm.
+
+## Louis Léopold Boilly,1761—1845, Paris.
+
+- 4
+- Frauenportrat. Dunkle Lockenrollen umrahmen Stirn und Schlafen des en face gesehenen feinen ausdrucksvollen Gesichts, das durch
+die von einem rosa Band gehaltene Spitzenhaube belebt wird. Ein kleiner weiber Tullkragen mit rosa Schleife bildet den einzigen Schmuck des schwarzen Gewandes, dessen Schinkenarmel, glatte Taille und Schnallengirtel fir die Zeit der Darstellung charakteri stisch sind. Rechts bez.:Boilly 1825. Leinw.22/16,5 cm.
+
+## Richard Parkes Bonington,1801—1821, London.
+
+- 5 Hitten am FluB. Diese meisterhafte Studie ist von einem wuchtigen Realismus. Die Naturwahrheit des Mauerwerks der Hauser, des Wassers, des Terrains, des Himmels,der Tonung der Ferne, wie iberhaupt des Ganzen,ist hervorragend bemerkenswert.
+
+Holz 22/33 cm.
+
+## Eugene Boudin,1825-1898,Deauville.
+
+- 6 Kihe auf der Weide.Die Kihe bis an die Leiber in dem fetten Gras stehend, heben sich sehr wirkungsvoll von der sonnigen Wiese ab. Die am Himmel ziehenden Wolken geben dieser rasch hingeworfenen Studie eine besondere Lebhaftigkeit. Links unten bez.: E. Boudin. Holz 13/21 cm.
+- 7 Umgebung von Bordeaux. Unter azurblauem Himmel,mit dicken weifen Wolken,eine Vorstadtlandschaft von interessantem Anblick mit tausend Einzelheiten. Ausgezeichnetes Gemalde,in welchem der Meister alle Schwierigkeiten trefflich iberwindet.Rechts unten Monogramm: L. B. Leinw.20/32 cm.
+
+(Abgebildet auf Tafel 1.)
+
+## Frangois Bonvin,1817—1879, St. Germain-en-Laye.
+
+- 8 Stilleben. Die zerbrochene Tonpfeife, die Kupferkanne, die blauhenkelige Glasflasche, das irdene GefaB, der Rucken des Schmokers, sind von Meisterhand gemalt. Der helle Hintergrund gibt dem trubseligen Sujet freundliche Tone. Rechts bez.: F. Bonvin.
+
+Holz 22/27 cm.
+
+## Amedee de Noe, gen. Cham, 1819—1879, Paris.
+
+- 9 Die Lumpen. Zwei Unglickliche,in Bluse und Mutze,unter einem Bogen der Bricke, die den Obdachlosen Schutz unter ihren Steinpfeilern oder von ihrem Eisengelander bietet. Der eine sitzt mit dem Rucken an der Mauer, der andere steht vor seinem Genossen der Nacht. Der bleiche Vollmond scheint sich iber ihr Elend lustig Zu machen. In der Art der Karikaturisten um die Mitte des vorigen Jahrhunderts gut durchgefihrte Darstellung. Bez.: CHAM
+
+Aqu.Kreidez.24/21 cm.
+
+## Charles Chaplin,1825—1891,Paris.
+
+- 10 Junges Madchen mit Ahren. MutmaBlich Portrat der Grafin Castiglione, einer der Schonheiten am Hofe Napoleons III., in
+grazioser Nonchalance und blonder Frische: ,fleur d'Italie que la
+
+Aquar. Bleistz. ov. 16,5/12,5 cm.
+
+diplomatie transplanta a Paris". Bez.: Chs. Chaplin 69.
+
+## Jean Baptiste Simeon Chardin,16991779, Paris.
+
+- 11 Stilleben. Kupferkessel, Zinnkanne und Steinkrug heben sich naturwahr von dem tieftonigen Hintergrund ab. Alter Originalrahmen Louis XVI. Links unten bez.: Ch. Leinw.22/27 cm.
+
+## Antoine Chintreuil,18141873,La Tournelle Septeuil.
+
+- 12
+- Morgenstimmung. In einer nebligen Landschaft, unter grauem Himmel, ist wie ein weiber Punkt ein Schnitter iber sein Feld gebeugt. Von diesem kaum gefarbten Bildchen geht ein starkes Gefuhl von Melancholie aus. Rechts unten verwischte Bezeichnung. Holz 16/24,5 cm.
+- 13 Die Baumallee. Der grun bewachsene Weg, auf dem sich die Eichenschatten scharf abzeichnen,fuhrt zu einer Lichtung, die sich grau vom hellen Himmel abhebt. Frische Naturstudie in Grun, mit leichtem fluissigen Pinsel flott hingesetzt. Leinw. 45/29,5 cm.
+
+## John Constable,1776-1837,London.
+
+- 14 4 Landschaft. Zwei Liliput-Figirchen in leuchtender Gewandung — wie sie der Kunstler mit der ausgesprochen personlichen Note darzustellen liebte  sitzen am Rand des Weges der zum Weiler fuhrt. Links eine herbstlich gefarbte Baumgruppe, rechts Geholz und FluBchen mit Bricke. Der sozusagen gebleichte Himmel gibt dem Ganzen einen altmeisterlich kostlichen Anblick. Links unten bez.: J. Constable. Karton 33/25,5 cm.
+
+(Abgebildet auf Tafel I.)
+
+## J. B. Camille Corot, 1796-1875, Paris.
+
+- 15
+- Dammerung. Ein heller Himmel breitet sich iber dem schon in Schatten getauchten Weiler aus. Zur Linken eilt in groben Schritten ein Mann seinem Heim zu,wahrend zur Rechten das Laub der Baume im Herannahen der Nacht erzittert. Rechts unten bez.: COROT Leinw. 28/23 cm.
+
+(Abgebildet auf Tafel IIl.)
+
+- 16 FluBlandschaft. Die Blatter einer Baumgruppe im Vordergrund hangen iber das Wasser; darunter Mann und Frau im hohen Grase sitzend, vor ihnen am Ufer ein Kahn. Uber dem grauen Wasser breitet sich ein fahler Himmel aus. In der Ferne Nebelschwaden. Uber dieser einfachen, durchsichtigen Zusammenstellung liegt ein tiefes Naturgefuhl und eine feine atmospharische Stimmung. Links unten bez.:COROT Holz 32/45 cm.
+
+(Abgebildet auf Tafel 1.)
+- 17 Das Tal ,Nera"in Italien. Morgenstimmung. Ostlich vom Wasserfall von Terni befindet sich das Tal ,Nera, von dem aus duistere Fichtenwalder sich bis zum Apennin, der sich im heiteren Himmel verliert, erstrecken. Die wilden Gebirge sind von hellen Landhausern wohltuend belebt. Wahrend sich nach und nach die Gipfel erhellen, sind Abhange und Taler noch in Dunkelheit und Nebel. Leinw. 25,5/34 cm.
+
+## Gustave Courbet, 1819-1877,La Tour de Peilz.
+
+- 18 Wasserfall im Jura. Aus einer Klamm, an der hundertjahrige Eichen stehen und deren Gras der Herbst gerotet hat,kommt der weiBschaumende Wasserfall.Der fir den Meister charakteristische Himmel gibt der einfachen Studie das Geprage der Originalitat. Links unten bez.: C.G. Leinw.22/27,5 cm.
+- 19 Felspartie bei Arbois. Machtige Felsblocke,von Strauchern und Pflanzen bewachsen, ragen in einen dunkelblauen Himmel. Wuchtig und kraftig ausgefihrtes Bild des grofben Meisters der romantischen Schule. Karton 23/32 cm.
+
+## Aelbert Cuyp,1620-1691, Dordrecht.
+
+- 20 Ruhender Bauer. Neben einem FaBchen und einem Korb spielt ein Bauer mit seinem Hund,ein abgesattelter Schimmel scheint die Gruppe mit Interesse zu betrachten, rechts liegt ein Schaf und dahinter iberschneiden Berge den Horizont. Geistreiche Studie des berihmten hollandischen Meisters. Leinw.22/27 cm.
+
+## Charles Frangois Daubigny,1817—1878, Paris.
+
+- 21 Baumgruppe. In einer wilden Landschaft inmitten von Erdhigeln, breitet das Gebuisch seine vom Herbst rot gefarbten Blatter aus. Hier und da auf dem Boden und in den Blattern erblickt man das Daubigny eigentumliche Grun. Der tiefblaue mit grauen Wolken bedeckte Himmel hebt den Wert und die Schonheit dieser prachtigen Studie. Rechts unten der Stempel der Vente Daubigny.
+
+Leinw. 19/35 cm.
+
+## Karl Pierre Daubigny,1846-1886, Paris.
+
+- 22 Kuhe auf der Weide. Inmitten der sumpfigen Wiese stehen zwei Kuhe und blicken in der Richtung des Dorfes, das in der Ferne im Dunst verschwindet. Rechts ein Geholz,links ein teilweise iberschwemmter Fubpfad,einige Baumstamme und die mit Gebisch bekronten Hohen. Der sehr feine Himmel gibt dieser Landschaft einen Anflug von Heiterkeit und Frieden. Rechts unten bez.: Karl Daubigny 1874. Leinw.38/61 cm.
+
+(Abgebildet auf Tafel 1.)
+## Honore Daumier,1808-1879,Valmondois.
+
+- 23 Wirtshausszene.In einer Gartenlaube befindet sich eine Gruppe von Trinkern. Der eine,augenscheinlich betrunken,liegt iber den Tisch gelehnt, ein anderer hat sich erhoben,um mit seinen Genossen anzustoben. In dieser Arbeit zeigt sich das Genie des groben Meisters der Karikatur. Links unten bez.h D.
+
+Aqu. Bleistz. 24/20 cm.
+
+(Abgebildet auf Tafel III.)
+
+## Alexandre Gabriel Decamps,1803-186o, Fontainebleau.
+
+Leinw.24,5/33 cm. (Abgebildet auf Tafel II.)
+
+- 24 Die Tranke. Eine Huitte ist in Grin und tiefes Dunkel so gebettet, daB man kaum das Spiel des Lichtes entdeckt. Bei einem kleinen Hugel links im Waldesdickicht trinkt ein Pferd an der Quelle, die nach dem Hause zu flieBt. Dahinter steht ein Bauer und im Vordergrund rechts erblickt man einen zweiten sitzend. Dunkles Bildchen von solider Arbeit und grobem Konnen, in dem sich die Charakteristik des bedeutenden Meisters zu erkennen gibt.
+
+## N.V.Diaz de la Pena,1807—1876,Menton.
+
+- 25 Der Angler. Im tiefen Waldesdunkel spiegelt das Wasser ein Stick von der grellen Sonne beleuchteten Himmels wider.Felsen iberragen den Gebirgsbach, an dessen Ufer eine Anglerin in rotem Gewand sitzt und angelt. Der Gegensatz von Licht und Schatten gibt dem Bild etwas eigenartig Warmes und Geheimnisvolles. Links unten bez.:N.Diaz. Holz 18/13 cm.
+- 26 Stilleben.Auf dunklem Hintergrunde ein Zweig Eierpflaumen mit Blattern.Ein Schmetterling,von dem Duft herbeigelockt, schwebt dariber,bereit, sich darauf niederzulassen. Links unten bez.: N. D.
+- 27 Madchen mit Hund. Die Kleine sitzt,an ihren treuen Kameraden geschmiegt, vor einem grinen Boskett, das diese einfache Darstellung in Wirkung setzt. Die Zeichnung ist leicht und flussig, von reizendem, koloristischem Efekt. Unten links bez.: N. Diaz. Holz 15/11 cm.
+- Holz 18/21 cm.
+
+## Jules Dupre,1812-1889,Isle-Adam.
+
+- Ein Sonnenblick. Im Vordergrunde ein grober Baum unter dem regnerischen Himmel. Am Horizont durchbricht die Sonne die dicken Regenwolken und beleuchtet ein Dorf und die Felder. Sehr
+
+Leinw.auf Karton 18/23 cm.
+
+- 28 schone Lichteffekte. Rechts unten Monogr.: J. D.
+- Landschaft.Am Waldrande wandert der Holzfaller mit seinem
+
+Vorzigliche Kreidezeichnung auf Seide. Rund D. 21 cm.
+
+- 29 Sohn gemichlich dem Dorfe zu, das am Horizont erscheint.
+- 30 FluBlandschaft. Zwischen sanften Abhangen und in der Nahe von Hitten, deren Strohdacher man erblickt, ein Schiffer mit seiner Stange im Kahn, der von mehreren Personen besetzt ist; das Ganze spiegelt sich im ruhigen Wasser. Pendant zum Vorigen.
+
+## Duvieux,18401905, Paris.
+
+- 31 Die Wascherin. Am Zaun steht eine Frau vor ihrem Zuber, dabei einige Huihner. Uber dem Ganzen der blaue italienische Himmel, welcher an die venezianischen Bilder Ziems erinnert. Kleine,aber sehr farbenfreudige Studie des Malers. Links unten bez.:Duvieux. Holz 17/12 cm.
+
+## Karel van Falens,1683-1733, Paris.
+
+- 32 Rast. In einer mit Schnee bedeckten, von Bergen begrenzten Ebene,rasten zwei Reiter. Wahrend der eine damit beschaftigt ist ein Feuer anzuzuinden,lost der andere einige Korbe vom Ruicken seines Pferdes. Links ein Haus,davor der gefrorene See, dessen Spiegel sich wirkungsvoll vom blaulichen Schnee der Berge abhebt. Leinw.auf Holz 17/23,5 cm.
+
+## Eug.Fromentin,1820-1876, St.Maurice bei La Rochelle.
+
+- 33 Afrikanische Landschaft. Unter dem blauen orientalischen Himmel beschattet eine Gruppe von Mastix-, Erdbeer- und Korkeichbaumen den sparlich mit Gras bewachsenen Boden. Rechts unter einem Schirme zwei Personen, am Horizont ein Spazierganger. Vorzugliches Qualitatsbild von grober Leuchtkraft. Links unten bez.:F. Leinw.18/25,5 cm.
+
+## Paul Gavarni,1801—1866, Auteuil.
+
+- 341 Inspiration. Der romantische Spazierganger, neben Hut und Schirm platt auf dem Bauche liegend,vor sich ein kleines Buchlein, laBt sich von der leichten Brise umwehen. Schlaft er? Traumt er? Sucht er den fehlenden Reim? Am Himmel ziehen die Schwalben, das Laub der Pappeln in der Ferne zittert im Lufthauch. Rechts bez.: Gavarni. Kohle mit Aq.laviert 20/16 cm.
+
+## Paul Guigou,1818—1882,Marseille.
+
+- 35 Kiste des Mittellandischen Meeres bei stuirmischem Wetter. Im Vordergrund felsiger Strand und weiter schroffe Felsenmassen, die jah in das grine Meer abstirzen. Ein blaugruner, weif durchZogener Himmel a la Courbet, charakterisiert die Manier dieses originellen, augenblicklich hochgeschatzten Kinstlers.Rechts unten bez.:Paul Guigou, Baux. Holz 19/28 cm.
+
+(Abgebildet auf Tafel I1.)
+- 39 bez.:Iwill.
+
+## J. B. Antoine Guillemet,Paris.
+
+- 36 Bauernhaus mit Huihnern. Die strohgedeckte Hutte,mit geoffneter Tuire,nimmt die linke Halfte des Bildes ein und hebt sich kraftig von dem Azur des Himmels und dem lichten Horizont ab. Dabei Hahn und Huhner. Breit gemalt und amisant in der Farbe. Rechts unten bez.:Guillemet. Leinw.25/20,5 cm.
+
+## Jean Baptiste Isabey (Vater des Eugene Isabey), 1767—1855,Paris.
+
+- 37 Der kleine Konig von Rom (Sohn Napoleons I). Der blondlockige, pausbackige Knabe mit dem transparenten Fleisch, in seinem Empirekleidchen, welches Hals und Arme von der Schulter ab frei laBt, blickt den Beschauer an. Der Prinz, inmitten der Glanzzeit des Kaisers geboren, wurde bei seiner Taufe zum ,Konig von Rom" proklamiert. Alsdann kam die Zeit der Niederlagen, der Abdankung und des Todes des Kaisers und der junge ,Napoleon II." Zog sich zu seinem GroBvater an den osterreichischen Hof zurick, wo er unter dem Namen eines Herzogs von Reichstadt lebte. Er starb dort im frihen Alter von 20 Jahren. Aus diesen blauen, tiefen Augen, aus dem ganzen kleinen graziosen Wesen spricht schon ein Ausdruck von Melancholie, ein geheimnisvolles Verhangnis andeutend. Ernstes Bild, von hervorragender Qualitat. Schon gearbeiteter, holzgeschnitzter vergoldeter Rahmen.
+
+Leinw. 40/32 cm.
+
+## Louis Gabriel Eugene Isabey,18041886, Paris.
+
+Leinw. auf Holz 23/31 cm. (Abgebildet auf Tafel Il.)
+
+- 38 Seegrasernte. Zur Rechten verlauft das dunkle Meer auf dem Strand,vor dem grobe Haufen Seegras aufgeschichtet sind. Zwischen Felsen und Strandvegetation zieht sich ein Pfad nach dem Hintergrund, auf dem eine Frau mit einem Buindel Seegras auf den Armen,dem Dorf in der Ferne zuschreitet. Der tribe Himmel und ein Movenschwarm vervollstandigen den Eindruck ernster Poesie dieses Strandbildes. Rechts unten bez.: E. Isabey.
+
+## Marie Josef Iwill, 1835, Paris.
+
+- Herbstlandschaft. Unter dem grauen Himmel spiegelt sich in dem von hohen Grasern umgebenen Teich der Wald,mit seinen entblatterten Asten. Studie voll Duft und Wahrheit. Links unten Leinw. 32/25 cm.
+
+## Charles Emile Jacque,1813-1894,Paris.
+
+- 40
+- Der Stall. Funf Hammel und ein Hahn mit seinen Huhnern, sind in einer Stallecke vereinigt, beleuchtet von dem Licht, das durch ein kleines Fenster dringt. Die Gruppe der Tiere auf dem Stroh hebt
+- sich wirkungsvoll von der Dunkelheit des Raumes ab. Im Hintergrunde ein Pfosten neben der Ture. Links unten bez.: Jacque. Leinw.21,5/16cm.
+- 41 Der Esel mit den Korben. Von dem braunen Leinwandgrund hebt sich das Grautier, von vorne gesehen,ab. Eine Decke von einem dunklen Grin bedeckt den Saumsattel. Vorzigliche Studie aus der ersten Zeit des Kuinstlers.Oben rechts bez.: Jacque.
+
+Leinw.40/32cm.
+
+## C.Magnus, 1849-1894 (Sohn und Schiler von Diaz).
+
+- 42 Unterholz im Wald von Fontainebleau. Durch die Aste spielt der Herbsthimmel und verklart die Felsen,die Buchen mit machtigen Stammen, die hundertjahrigen Eichen mit seinem blonden Licht. Unter dem Laub, mitten auf dem sonnigen Pfad, kommt eine Holzsammlerin mit scharlachrotem Rock. Vorzigliches Werk,das durch die Harmonie des Blau,Griin und Gelb, durch die zugleich gedampften wie lebhaften Farben das Auge erfreut. Obgleich er seine Eigenart auch hier nicht verleugnet, hat sich der geschatzte Schiler von Diaz wohl selten so wiirdig der Lehre und des Talentes seines Meisters erwiesen. Links unten bez.:C. Magnus.
+
+Leinw.33/55 cm.
+
+- 43 Hofinneres. In einem von Hausern begrenzten Hof s+eht eine Frau mit einem Gefab, aus welchem sie den Huhnern Futter streut. Links ein Brunnen. Von diesem bis zu einem Dach ist eine Leine gespannt, auf welcher Wasche trocknet. Uber dem Ganzen der tiefblaue Himmel. Das Bild zeigt schone Farbenzusammenstellung und kraftige Ausfuhrung. Links unten bez.: C. Magnus.
+
+Leinw.24/19 cm.
+
+## Prosper Marilhat,1811—1847,Vertaizon.
+
+- 44 Umgebung von Beyrouth. Im Vordergrunde links eine Gruppe Palm- und Bananenbaume, in deren Nahe sich zwei Orientalen unterhalten. Dahinter das Wasser eines von Segelbooten belebten Flusses. Rechts oben ein Hugel mit Baumen und Felsen von eigenartiger Form. Der warme Himmel gibt der exotischen Landschaft eine leuchtende Klarheit. Sehr gutes Gemalde, wurdig des berihmten Orientmalers.Links unten bez.:Marilhat.
+
+Kupferplatte 26/37 cm.
+
+(Abgebildet auf Tafel IV.)
+
+## Georges Michel, 1763-1843,Paris.
+
+- 45 Die verlassene Hitte.Inmitten einer wilden Gegend fuhrt der holperige Weg zu der halb im Grinen versteckten Hutte. In der Ferne, an der Wegbiegung, verschwindet ein Bauer. Rechts im Schatten bemerkt man das Wasser eines Sumpfes. Der mit grauen
+Wolken bedeckte Himmel gibt der Landschaft einen duisteren und wilden Charakter. Leinw.32/40,5 cm.
+
+## Jean Francois Millet,1814—1875,Barbizon.
+
+- 46 6Ackerpferde. In der Dammerung,vom Reflex der sinkenden Sonne gerotet,in der melancholischen Stunde,da die Abendnebel aus dem Feld aufsteigen,kehren nach vollbrachter Tagesarbeit die Tiere in ihren Stall zurick. Ihre wuchtigen Silhouetten heben sich als Grisaille vom beleuchteten Hintergrund.Auf dem einen Pferd sitzt der Bauer, umblickend nach der bescheidenen Kirche am Horizont, von welcher das Angelus ertont. Rechts unten bez.: J. F. Millet. Leinw.20/26 cm.
+
+## Claude Monet, 1840, Giverny.
+
+- 47 Dorfkirche. Auf dem Dorfplatze steht die einfache Kapelle,deren Vorderseite nahezu von einem Blatterwerk verdeckt wird. Der Glockenturm ragt in den Fruhlingshimmel,im Hintergrunde einige Hauser.Frisches,farbenprachtiges Bild. Leinw.32,5/25 cm.
+
+## Adolphe Monticelli,1824-1886, Marseille.
+
+- 48 SchloB Villeneuve-Loubet.(Alpes Maritimes.) Der Mistral wehte wahrend des ganzen Tages und nun breitet sich die Nacht langsam iber dem Lande und den endlich zur Ruhe gekommenen Fichtenwaldern aus. Der Himmel, gleich einem ungeheueren Brande,umgibt und rotet die Erde und die Hohen, die vorhin noch von dem Winde gepeitscht wurden. Ein sehr gelungenes Bild fur den, der die Provence kennt. Links unten bezeichnet. Holz 22/42 cm. (Abgebildet auf Tafel I1.)
+- 49
+- Der kleine Hafen. Links vor einer Huitte Fischer und verschiedene Personen; daneben ein halbgeoffnetes Gatter,rechts davon Strauchwerk vom Wind bewegt. Darunter ein Kahn mit einigen Fischern. Im Hintergrunde ein Dorf. Der wolkige Himmel streut auf dieses kinstlerische Werk eigenartige Lichtwellen. Rechts unten bez.:M. Holz 15,5/24 cm.
+
+## Léon Richet,18421904,Paris.
+
+- 50 Frihlingswald von Fontainebleau. Dichtes Grin bedeckt den Boden und scheint unter dem leicht bewolkten Himmel zu vibrieren. In der Mitte des Bildes streckt eine machtige Eiche ihre Aste aus, den Hintergrund bildet der Wald in verschiedenen Farbentonen. Eine Holzsammlerin allein stort durch ihre Gegenwart die Ruhe des Ganzen. Rechts unten bez.:L.Richet. Karton 33/26 cm.
+- 51
+
+## Philippe Rousseau, 18161887,Paris.
+
+Holz 16/24 cm.
+
+- Hihnerhof. Drei Huhner suchen bei einem Wassertimpel im Vordergrund ihr Futter,der Hahn steht auf dem Schleifstein, dahinter die Stalle und Misthaufen. Links unten bez.: P. Rousseau.
+- 52 Der Konig des Gefligels. Der Hahn in glinzenden Farben — gleich einem Pascha in seinem Harem -im Mittelpunkt stehend, ibt seine Herrschaft iber das gefligelte Volk, das ihn umgibt,aus. Im Hintergrunde die Gebaude des Hofes,aus einem Mauerfenster blickt der Kopf eines Bauern. Unten in der Mitte das halbverwischte Monogramm. Leinw.auf Karton 26/32 cm.
+
+## Theodore Rousseau,1812-1867,Paris.
+
+- 53 Baumstudie. Ahnliche Arbeiten fanden sich im Nachlaf des
+- 54
+- 55 Gebirgslandschaft. Der goldene Abendhimmel beleuchtet eine felsige mit einzelnen Baumen bewachsene Gegend. Im Vordergrund zwei Wanderer. Der eine sitzend, der andere vor ihm stehend. Rechts, teils im Schatten, das Wasser eines Gebirgsbaches, in welchem Felsen zerstreut liegen und dessen Ufer von Baumen bewachsen sind. Sehr schones kostbares Bild. Links unten Monogr.: Th. R. Holz 20/25 cm.
+- Waldstudie. Sehr schone und gut ausgefihrte Studie. Links unten Monogr.: Th. R. Holz 22/40 cm.
+
+## Adolf Schreyer, 1828——1899, Cronberg i. T.
+
+- 56 Episode aus dem Siebenjahrigen Krieg. In dieser bedeutenden Kreide- und Tuschzeichnung drickt sich Lebhaftigkeit und Wut aus. Manner, Gewander und Pferde sind mit einer Wahrheit behandelt,wie sie wenige Maler erreichten. Wahrend man unten rechts das markante Profil eines Soldaten Friedrich des GroBen bemerkt, unterscheidet man zu Pferde mitten im Handgemenge, den Sabel bereit zum Schlagen,den Grafen von Bissingen (von dem alten Geschlecht der Bissingen), der Vorfahre desjenigen, dessen Name am FuBe der Zeichnung in der Dedikation genannt ist.Auf der Ruickseite der Zeichnung befindet sich die Aquarellstudie eines abgemagerten Pferdes, dessen Muskulatur mit ergreifender Wahrheit dargestellt ist. Sie ist ausgezeichnet in der Zeichnung, in der Farbe und in ihrer Genauigkeit. Links unten bez.:Ad.Schreyer 1867. Karton 42/116 cm.
+
+(Abgebildet auf dem Umschlag.)
+
+## Schule von Ferrara, Ende des 15. Jahrh.
+
+- 57 Gottesdienst im Mittelalter. Die zur Kirche fuhrende HauptstraBe der alten Stadt ist angefullt mit Glaubigen jeden Alters: Edelleute,
+- Meisters in grober Zahl vor. Aq.23/18cm.
+Herren, Pagen, reich geschmickte Damen, Krieger in Rustung,
+
+Monche, Frauen des Volks, Kunstler und Kinder, alle in den Gewandern der Zeit,in den verschiedensten Stellungen,aber alle in andachtiger Sammlung.t Uber den Dachern der kleinen Stadt erblickt man die in sanftes Licht getauchte Landschaft. Poetische und fein gefarbte Komposition, aus der ein naiver Glaube, eine freudige Frommigkeit leuchtet. Holz 49/78 cm.
+
+## Schule von Nurnberg vom Ende des 16. Jahrh.
+
+Alte Goldleistenrahmen.
+
+- 58 Folge von zwolf Gemalden aus dem Leben Christi. Diese interessante Serie von religiosen Darstellungen bildet einen Kreuzweg und stammt aus der Kirche von Lumbrein (Kanton Graubunden, Schweiz). Sie entstanden bei der Erbauung dieser Kirche im 16. Jahrhundert und wurden vor etwa 20 Jahren infolge einer Feuersbrunst, die einen Teil des rechten Schiffs einascherte, verkauft.Diese Kompositionen, die einen naiven Impressionismus und eine aufrichtige Frommigkeit atmen, sind rein im Zeitstil und von vorzuglicher Erhaltung. Leinw. 80/66 cm.
+
+## Octave Tassaert, 18001874, Paris.
+
+(Abgebildet auf Tafel IIl.)
+
+- 59 Die Biglerin.Die Arbeiterin in schlichter Frisur,mit rosigem Teint, nackten Armen und Oberkorper, von dem das grobleinene Hemd iber dem braunroten Rock herabfallt,handhabt fleibig das heiBe Eisen. Gut gemalte Details, wie das Ofenrohr, Haushaltungsgegenstande u. a., auch der Hintergrund, zeigen uns den vollendeten Kuinstler, der an Proud'hon,Fragonard und Greuze zugleich erinnert. Links unten bez.:O T Holz 24/18,5 cm.
+
+## Umbrische Schule des 15. Jahrh.
+
+Alter holzgeschnitzter Rahmen.
+
+- 60 Maria mit dem Kind. Die Miniatur von gelber Elfenbeinfarbe, erscheint durch die Zeit vergoldet zu sein. Man findet in ihr die Einfachheit, das naive Gefuhl der Primitiven von Perugia.Das Gesicht der Jungfrau atmet eine ehrfurchtsvolle Zartlichkeit, wahrend das kindliche Haupt Jesu eine gebieterische Weisheit aufweist, die geeignet erscheint, die Pharisier und Schriftgelehrten zu verwirren. Holz 13/10 cm.
+- 61
+
+## Joseph Vernet, 1712—1789, Paris.
+
+- FluBlandschaft. Im Vordergrunde links machtige von Baumen bewachsene Felsen. Rechts Mann und Frau vor einem entblatterten Baum mit Fischen beschaftigt. Vor ihnen der breite Fluf, dessen zartes Blau mit dem des Himmels fein abgestimmt ist. Im Hintergrunde bergige Landschaft mit Dorf. Holz 24/32 cm.
+## Wassily Wassiljewitsch Wereschtschagin,1842-1904, Port Arthur.
+
+- 62 Junge Tartaren in der Schule. Vier Schiler studieren emsig in verschiedenen Stellungen. Ihr Kopf ist mit hoher Pelzmitze bedeckt und,um es sich leichter zu machen,haben sie ihre Schuhe ausgezogen,was dieser der Natur abgelauschten Darstellung eine reizende Unbefangenheit gibt. Links unten das Monogramm des Meisters und auf dem Blatt zerstreut einige eigenhandige Notizen. Blei 25/33 cm.
+- 63 Russische Bauern im Gebet. Drei Muschiks,mit Gesichtern von der Regelmifigkeit von Medaillen, tragen das lange Oberkleid und die nationalen Stiefel. Der eine ist in seine Lekture vertieft, der andere scheint zu psalmodieren, der dritte ist wie hingerissen vom Gebet: drei kontemplative Gesichter, in denen sich der Gedanke, der innerliche Glaube und ein gewisser Mystizismus verschmelzen. Rechts unten das Monogramm und uiber jeder Figur Notizen von der Hand des Meisters. Pendant zum Vorigen.
+
+Wereschtschagin wird von der russischen Gesellschaft als ihr Volksruhm, als ihr groBter moderner Militarmaler angesehen. Eifersuchtig auf seine Kunst, stolz bis zur Wildheit, lebte er zurickgezogen,entfernt von den Ehren und Eitelkeiten der Welt. Seine Werke, die meist sein Atelier nie verlieben, kamen nur in Museen oder in die Hande von einigen wenigen Privilegierten, doch niemals wurden sie offentliches Gemeingut. Die geringste der Zeichnungen des genialen Kunstlers wird mit Gold aufgewogen. Sein Mut war eben so grob wie sein Talent und so lieB sich Wereschtschagin bei der russisch-japanischen Kriegserklarung trotz seines hohen Alters nicht zurickhalten,auf den Kriegsschauplatz Zu eilen. Es wurde ihm erspart, das Unglick seines Vaterlandes zu sehen, denn er kam beim Untergang des ersten Kreuzers der russischen Flotte in Port Arthur um das Leben. Diese beiden vorzuglichen Zeichnungen, die zart und sicher, leicht und kraftig, von einer bewundernswerten Genauigkeit sind,enstanden 1865. Sie bildeten Teile eines Albums, das der Kunstler selbst dem Verlagshaus Hachette anvertraut hatte, das eine kunstlerische Publikation uber das russische Volk und seine Gebrauche plante.
+
+## Felix Ziem,1821—1911, Paris.
+
+- 64 Abend auf der Lagune.Rosige Wolken ziehen am violetten Himmel, Nebel bedeckt das Wasser und die sparlich bewachsenen Ufer verschwimmen in der Dammerung. Studie aus der ersten Zeit des Aufenthalts des Malers in Italien. Leinw.17/23 cm.
+- 65 BlumenstrauB. In einer tirkischen Vase ein Strauf von Rosen, umgeben von Mimosen und Blattern. Auf dem Tische zerstreut
+- liegen einige Bluten. Holz 22/16 cm.
+
+K
+
+R
